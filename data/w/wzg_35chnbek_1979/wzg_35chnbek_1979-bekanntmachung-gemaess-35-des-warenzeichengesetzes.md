@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35chnbek_1979/BJNR001190979.html#BJNR001190979BJNE000100304)
 
 Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,6 +31,7 @@ Markenschutz beantragt und erhalten haben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35chnbek_1979/BJNR001190979.html#BJNR001190979BJNE000200304)
 
 Der Bundesminister der Justiz
 

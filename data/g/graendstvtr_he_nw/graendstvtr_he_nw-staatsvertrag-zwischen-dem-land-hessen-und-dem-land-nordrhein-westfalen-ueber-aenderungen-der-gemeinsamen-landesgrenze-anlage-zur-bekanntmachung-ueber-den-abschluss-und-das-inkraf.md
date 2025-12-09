@@ -21,6 +21,7 @@ Fundstelle
 Stand: In Kraft gem. Bek. v. 18.5.2010 I 621 mWv 1.11.2009
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000100000)
 
 Um die politische Zuordnung geschlossener Siedlungen im Interesse der
 betroffenen Einwohner zu den Gemeinden und Gemeindeverbänden
@@ -36,6 +37,7 @@ nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000200000)
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze in den
 Bereichen
@@ -94,6 +96,7 @@ Staatsvertrages.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000300000)
 
 (1) Das in den übergehenden Gebieten belegene Verwaltungsvermögen von
 Körperschaften des öffentlichen Rechts mit Ausnahme des Vermögens der
@@ -115,6 +118,7 @@ Oktober 2008 (Gemeinde Diemelsee).
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000400000)
 
 (1) Für die im Zusammenhang mit der Änderung der Landesgrenze
 stehenden Amtshandlungen sowie Eintragungen der Rechtsänderungen in
@@ -132,6 +136,7 @@ etc.).
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000500000)
 
 (1) Die Länder und die betroffenen kommunalen Körperschaften werden
 dafür Sorge tragen, dass die mit den Grenzänderungen zusammenhängenden
@@ -146,6 +151,7 @@ Grundbuches erforderlichen Erklärungen abzugeben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000600000)
 
 (1) Der Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden ausgetauscht.
@@ -157,6 +163,7 @@ hinterlegt wurde.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nw/BJNR062200010.html#BJNR062200010BJNE000700000)
 
 Für das Land Hessen
 Im Namen des Ministerpräsidenten

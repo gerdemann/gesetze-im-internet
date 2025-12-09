@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendung von Strafvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
+[Direktlink](https://www.gesetze-im-internet.de/str_ndg_4/BJNR005970957.html#BJNR005970957BJNE000206123)
 
 (1) Zum Schutz der nichtdeutschen Vertragsstaaten des
 Nordatlantikpaktes und ihrer in der Bundesrepublik Deutschland
@@ -172,6 +173,7 @@ Geltungsbereich dieses Gesetzes begangen werden.
 
 
 ## § 2 Anwendung von Bußgeldvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
+[Direktlink](https://www.gesetze-im-internet.de/str_ndg_4/BJNR005970957.html#BJNR005970957BJNE000302140)
 
 Zum Schutz der in der Bundesrepublik Deutschland stationierten Truppen
 der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes, die sich
@@ -199,6 +201,7 @@ Besonderheiten anzuwenden:
 
 
 ## § 3 Anwendung von Vorschriften des Gerichtsverfassungsgesetzes bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
+[Direktlink](https://www.gesetze-im-internet.de/str_ndg_4/BJNR005970957.html#BJNR005970957BJNE000402140)
 
 Für die Anwendung der Vorschriften des Gerichtsverfassungsgesetzes
 über die gerichtliche Zuständigkeit und die Übernahme, Abgabe oder
@@ -209,6 +212,7 @@ gleich.
 
 
 ## § 4 Anwendung von Vorschriften der Strafprozessordnung bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
+[Direktlink](https://www.gesetze-im-internet.de/str_ndg_4/BJNR005970957.html#BJNR005970957BJNE000502140)
 
 (1) Hat ein Strafverfahren Straftaten nach § 1 dieses Gesetzes in
 Verbindung mit den §§ 94 bis 100, 109f oder 109g des Strafgesetzbuches

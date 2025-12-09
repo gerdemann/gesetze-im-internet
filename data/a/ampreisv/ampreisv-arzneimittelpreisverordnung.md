@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000100312)
 
 Auf Grund des § 78 des Arzneimittelgesetzes vom 24. August 1976 (BGBl.
 I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister für
@@ -29,6 +30,7 @@ Forsten mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000211116)
 
 (1) Für Arzneimittel, die im voraus hergestellt und in einer zur
 Abgabe an den Verbraucher bestimmten Packung in den Verkehr gebracht
@@ -122,6 +124,7 @@ verschreibungspflichtigen Arzneimitteln.
 
 
 ## § 2 Großhandelszuschläge für Fertigarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000308130)
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch den Großhandel an Apotheken oder
@@ -292,6 +295,7 @@ des pharmazeutischen Unternehmers
 
 
 ## § 3 Apothekenzuschläge für Fertigarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000412130)
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch die Apotheken sind zur Berechnung des
@@ -448,6 +452,7 @@ beträgt der Festzuschlag 5,80 Euro.
 
 
 ## § 4 Apothekenzuschläge für Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000505116)
 
 (1) Bei der Abgabe eines Stoffes, der in Apotheken in unverändertem
 Zustand umgefüllt, abgefüllt, abgepackt oder gekennzeichnet wird, sind
@@ -484,6 +489,7 @@ vereinbarten Preise abgestellt werden.
 
 
 ## § 5 Apothekenzuschläge für Zubereitungen aus Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000609360)
 
 (1) Bei der Abgabe einer Zubereitung aus einem Stoff oder mehreren
 Stoffen, die in Apotheken angefertigt wird, sind
@@ -607,6 +613,7 @@ Zuschlag für parenterale Lösungen abweichend von Absatz 1 oder Absatz
 
 
 ## § 6 Notdienst
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000704310)
 
 Bei der Inanspruchnahme in der Zeit von 20 bis 6 Uhr, an Sonn- und
 Feiertagen sowie am 24. Dezember, wenn dieser Tag auf einen Werktag
@@ -617,6 +624,7 @@ Betäubungsmittel
 und Arzneimittel nach § 3a
 
 ## § 7 der Arzneimittelverschreibungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000803116)
 
 Bei der Abgabe eines Betäubungsmittels, dessen Verbleib nach § 1
 Absatz 3 der Betäubungsmittel-Verschreibungsverordnung nachzuweisen
@@ -627,6 +635,7 @@ berechnen.
 
 
 ## § 8 Sonderbeschaffung
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE000900312)
 
 Unvermeidbare Telegrammgebühren, Fernsprechgebühren, Porti, Zölle und
 andere Kosten der Beschaffung von Arzneimitteln, die üblicherweise
@@ -635,6 +644,7 @@ die Apotheken mit Zustimmung des Kostenträgers gesondert berechnen.
 
 
 ## § 9 Angaben auf der Verschreibung
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE001000312)
 
 Auf der Verschreibung sind von den Apotheken einzeln anzugeben
 
@@ -653,6 +663,7 @@ Auf der Verschreibung sind von den Apotheken einzeln anzugeben
 
 
 ## § 10 Zuschläge der Tierärzte
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE001103310)
 
 (1) Bei der Abgabe von Arzneimitteln durch Tierärzte an Tierhalter
 dürfen höchstens Zuschläge entsprechend § 3 Abs. 1 Satz 2 und 3 und
@@ -669,6 +680,7 @@ von mehr als 127,82 Euro höchstens 20 Prozent.
 
 
 ## § 11 Preise in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE001500310)
 
 Bei der Abgabe von Fertigarzneimitteln in den Fällen des § 78 Abs. 4
 des Arzneimittelgesetzes wird bei Anwendung dieser Verordnung der
@@ -684,6 +696,7 @@ Apotheker mit den Krankenkassen oder ihren Verbänden Vereinbarungen
 
 
 ## § 12 Inkrafttreten, abgelöste Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE001300312)
 
 (1) Diese Verordnung tritt am 1. Januar 1981 in Kraft.
 
@@ -691,6 +704,7 @@ Apotheker mit den Krankenkassen oder ihren Verbänden Vereinbarungen
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ampreisv/BJNR021470980.html#BJNR021470980BJNE001400312)
 
 Der Bundesminister für Wirtschaft
 

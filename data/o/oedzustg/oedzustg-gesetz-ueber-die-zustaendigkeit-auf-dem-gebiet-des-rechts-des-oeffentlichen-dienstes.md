@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000101314)
 
 (1) Die in Gesetzen vorgesehenen Zuständigkeiten des Bundesministers
 der Finanzen auf dem Gebiet des Rechts des öffentlichen Dienstes gehen
@@ -120,11 +121,13 @@ Bundesministers der Finanzen in folgenden Vorschriften:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000200314)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000300314)
 
 Die in tarifrechtlichen Regelungen des öffentlichen Dienstes
 vorgesehenen Zuständigkeiten des Bundesministers der Finanzen gehen
@@ -132,11 +135,13 @@ auf den Bundesminister des Innern über.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000400314)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000500314)
 
 Der Bundesminister des Innern wird ermächtigt, die durch §§ 1 und 2
 geänderten Vorschriften in der vom Inkrafttreten dieses Gesetzes ab
@@ -144,6 +149,7 @@ geltenden Fassung bekanntzumachen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000600314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -151,6 +157,7 @@ im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/_dzustg/BJNR007050960.html#BJNR007050960BJNE000700314)
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 2 mit Wirkung vom 31.
 Oktober 1957 ab in Kraft; Maßnahmen, die bis zum Tage nach seiner

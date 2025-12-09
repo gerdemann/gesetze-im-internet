@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hinschgowizustv/BJNR06F0A0025.html#BJNR06F0A0025BJNE000100000)
 
 Das Bundesministerium der Justiz verordnet aufgrund des § 36 Absatz 1
 Nummer 2 Buchstabe b und Absatz 3 des Gesetzes über
@@ -27,6 +28,7 @@ Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar
 
 
 ## § 1 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Hinweisgeberschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hinschgowizustv/BJNR06F0A0025.html#BJNR06F0A0025BJNE000200000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 40 des Hinweisgeberschutzgesetzes wird auf
@@ -36,6 +38,7 @@ Geschäftsbereich obliegt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hinschgowizustv/BJNR06F0A0025.html#BJNR06F0A0025BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

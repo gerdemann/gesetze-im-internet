@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000100000)
 
 Auf Grund des § 10 des Wettbewerbsregistergesetzes vom 18. Juli 2017
 (BGBl. I S. 2739), der durch Artikel 10 Nummer 6 des Gesetzes vom 18.
@@ -26,9 +27,11 @@ Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften für die elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNG000100000)
 
 
 ### § 1 Elektronische Kommunikation und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000200000)
 
 (1) Die elektronische Datenübermittlung und Kommunikation zwischen der
 Registerbehörde nach § 1 Absatz 1 des Wettbewerbsregistergesetzes und
@@ -113,6 +116,7 @@ Rahmenbedingungen mit.
 
 
 ### § 2 Nutzung des Portals
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000300000)
 
 (1) Die Nutzung des Portals nach § 1 Absatz 3 Nummer 1 setzt eine
 vorherige Registrierung der Nutzer voraus.
@@ -276,6 +280,7 @@ Pflichten machen.
 
 
 ### § 3 Nutzung der amtlichen Schnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000400000)
 
 (1) Hat die Registerbehörde eine amtliche Schnittstelle nach § 1
 Absatz 3 Nummer 2 eingerichtet, kann die Registerbehörde diese
@@ -289,9 +294,11 @@ findet § 2 entsprechende Anwendung.
 
 
 ## Abschnitt 2 - Besondere Vorschriften für die elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNG000200000)
 
 
 ### § 4 Pflichten der mitteilungspflichtigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000500000)
 
 (1) Die mitteilungspflichtigen Behörden haben der Registerbehörde die
 in § 3 Absatz 1 des Wettbewerbsregistergesetzes bezeichneten Daten
@@ -370,6 +377,7 @@ mit folgender Maßgabe zu übermitteln:
 
 
 ### § 5 Abfrage von Daten durch Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000600000)
 
 (1) Für die elektronische Abfrage durch Auftraggeber nach § 6 Absatz 1
 Satz 1, Satz 2 oder Absatz 2 des Wettbewerbsregistergesetzes sind das
@@ -419,6 +427,7 @@ Satz 2 erforderlich sind.
 
 
 ### § 6 Auskunftserteilung an amtliche Verzeichnisstellen
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000700000)
 
 (1) Für die Abfrage durch amtliche Verzeichnisstellen nach § 5 Absatz
 2 Satz 3 des Wettbewerbsregistergesetzes ist die amtliche
@@ -443,6 +452,7 @@ Verzeichnisstelle zulassen, die sich auf mehrere Unternehmen beziehen
 
 
 ### § 7 Elektronische Kommunikation mit Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000800000)
 
 Die Kommunikation von Unternehmen mit der Registerbehörde soll
 elektronisch erfolgen. Hierzu zählt insbesondere die Nutzung eines
@@ -452,6 +462,7 @@ Internetseite bereitgestellten Standardformulare sind zu verwenden.
 
 
 ### § 8 Antrag auf Selbstauskunft; Gebühr
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE000900000)
 
 (1) Ein elektronischer Antrag auf Selbstauskunft für ein Unternehmen
 oder eine natürliche Person nach § 5 Absatz 2 Satz 1 des
@@ -473,6 +484,7 @@ machen.
 
 
 ### § 9 Anforderung ergänzender Informationen durch Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001000000)
 
 (1) Fordert ein Auftraggeber nach § 6 Absatz 6 Satz 1 des
 Wettbewerbsregistergesetzes von der mitteilungspflichtigen Behörde
@@ -491,9 +503,11 @@ Ordnungswidrigkeitenverfahrens entgegenstehen.
 
 
 ## Abschnitt 3 - Selbstreinigung
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNG000300000)
 
 
 ### § 10 Mitteilung eines Unternehmens zu Selbstreinigungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001100000)
 
 (1) Für die Mitteilung über Maßnahmen zur Selbstreinigung eines
 Unternehmens nach § 3 Absatz 2 des Wettbewerbsregistergesetzes ist das
@@ -529,6 +543,7 @@ auf vorzeitige Löschung der Eintragung bleiben unberührt.
 
 
 ### § 11 Anforderungen an vorzulegende Gutachten und Unterlagen zur Bewertung einer Selbstreinigung
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001200000)
 
 (1) Die Registerbehörde kann zur Bewertung eines Antrags nach § 8
 Absatz 1 Satz 1 des Wettbewerbsregistergesetzes auf vorzeitige
@@ -559,15 +574,18 @@ sind beizufügen.
 
 
 ## Abschnitt 4 - Datenschutz und Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNG000400000)
 
 
 ### § 12 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001300000)
 
 Bei Datenübermittlungen an oder durch die Registerbehörde müssen die
 Daten vor einem unbefugten Zugriff Dritter geschützt sein.
 
 
 ### § 13 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001400000)
 
 (1) Die Registerbehörde protokolliert automatisiert Art und Umfang der
 über das Portal oder über die amtliche Schnittstelle übermittelten
@@ -612,9 +630,11 @@ Protokolldaten.
 
 
 ## Abschnitt 5 - Bekanntmachungen, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNG000500000)
 
 
 ### § 14 Veröffentlichungen der Registerbehörde zur elektronischen Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001500000)
 
 Die Registerbehörde veröffentlicht auf ihrer Internetseite
 Einzelheiten zur elektronischen Kommunikation, insbesondere zu:
@@ -638,11 +658,13 @@ Einzelheiten zur elektronischen Kommunikation, insbesondere zu:
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wregv/BJNR080900021.html#BJNR080900021BJNE001700000)
 
 Der Bundesrat hat zugestimmt.
 

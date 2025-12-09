@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000100000)
 
 Auf Grund des § 20 Absatz 6 Satz 1, des § 21 Absatz 2, des § 22 Absatz
 3 und des § 25 Absatz 3 des Stabilisierungsfondsgesetzes, die durch
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Verwaltung des Wirtschaftsstabilisierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000201123)
 
 (1) Die Verwaltung des Wirtschaftsstabilisierungsfonds obliegt der
 Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) nach
@@ -134,6 +136,7 @@ Genehmigung durch die Europäische Kommission vorliegt.
 
 
 ## § 2 Garantieübernahme
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000300000)
 
 (1) Der Wirtschaftsstabilisierungsfonds kann auf Antrag von
 Unternehmen Garantien oder sonstige Gewährleistungen in jeder
@@ -176,6 +179,7 @@ Kapitalmarkt zu unterstützen.
 
 
 ## § 3 Bedingungen für die Garantieübernahme
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000400000)
 
 (1) Die Bedingungen, zu denen eine Garantie nach § 21 Absatz 1 des
 Stabilisierungsfondsgesetzes übernommen wird, legt die für die
@@ -210,6 +214,7 @@ Bundes gerechnet werden muss.
 
 
 ## § 4 Angemessene Gegenleistung und Obergrenze für Garantien
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000500000)
 
 (1) Der Wirtschaftsstabilisierungsfonds erhält vom begünstigten
 Unternehmen eine Vergütung für die Übernahme der Garantie. Die
@@ -317,6 +322,7 @@ Kommission nachgewiesen wird.
 
 
 ## § 5 Rekapitalisierungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000600000)
 
 (1) Auf Antrag von Unternehmen kann sich der
 Wirtschaftsstabilisierungsfonds in den unter § 22 Absatz 1 des
@@ -385,6 +391,7 @@ werden.
 
 
 ## § 6 Bedingungen für hybride Finanzinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000700000)
 
 (1) Bei Rekapitalisierungsmaßnahmen nach § 5 Absatz 2 Nummer 1 und 2
 sind die Anforderungen nach den Absätzen 2 bis 7 zu erfüllen. Die
@@ -495,6 +502,7 @@ der in § 7 Absatz 6 genannten Anforderungen sicherzustellen.
 
 
 ## § 7 Bedingungen für Beteiligungen mit Vollstimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000800000)
 
 (1) Beim Erwerb von Beteiligungen mit Vollstimmrecht nach § 5 Absatz 2
 Nummer 3 sind die Anforderungen nach den Absätzen 3 bis 6 zu erfüllen.
@@ -613,6 +621,7 @@ angehört werden.
 
 
 ## § 8 Auflagen und Bedingungen für Unternehmen, die Stabilisierungsmaßnahmen in Anspruch nehmen
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE000900000)
 
 (1) Auflagen und Bedingungen für Stabilisierungsmaßnahmen nach dem
 Stabilisierungsfondsgesetz müssen dem Grundsatz der
@@ -626,6 +635,7 @@ für eine zügige Beendigung der Stabilisierungsmaßnahme setzen.
 
 
 ## § 9 Auflagen und Bedingungen bei Stabilisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE001000000)
 
 (1) Solange das Unternehmen Stabilisierungsmaßnahmen des Fonds in
 Anspruch nimmt, dürfen Organmitgliedern und Geschäftsleitern unter
@@ -723,6 +733,7 @@ erteilt werden,
 [^F812572_01_BJNR205800020BJNE001000000]: 
 
 ## § 10 Auflagen und Bedingungen für Stabilisierungsmaßnahmen nach § 21 des Stabilisierungsfondsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE001100000)
 
 Bei Garantien ab einem Umfang von § 2 Absatz 1 Nummer 1 und Absatz 2
 Nummer 1 der Stabilisierungsfondsgesetz-Übertragungsverordnung, gelten
@@ -732,6 +743,7 @@ Verbindlichkeiten von geringerem Umfang angewendet werden.
 
 
 ## § 11 Auflagen zur Verhinderung von Wettbewerbsverzerrungen durch Rekapitalisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE001200000)
 
 (1) Sofern durch die Rekapitalisierungsmaßnahmen
 Wettbewerbsverzerrungen zu befürchten sind, kann der Fonds dem
@@ -778,6 +790,7 @@ vorgesehen sind.
 
 
 ## § 12 Vertraglich abzusichernde Rechte des Wirtschaftsstabilisierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE001300000)
 
 (1) Der Wirtschaftsstabilisierungsfonds hat sich im Rahmen von
 Stabilisierungsmaßnahmen von dem begünstigten Unternehmen folgende
@@ -817,6 +830,7 @@ Vertragsstrafen vorgesehen werden.
 
 
 ## § 13 Beendigung der Stabilisierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE001401123)
 
 (1) Laufzeit, Art und Umfang der konkreten Maßnahmen sollen unter
 Berücksichtigung der Dauer der Störung im Wirtschaftsleben gestaltet
@@ -872,6 +886,7 @@ Auswirkungen auf die Gesamtwirtschaft hätte.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wsf-dv/BJNR205800020.html#BJNR205800020BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

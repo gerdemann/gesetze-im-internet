@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -35,6 +36,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000200000)
 
 Der Ausbildungsberuf Technischer Konfektionär/Technische
 Konfektionärin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -42,11 +44,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -116,6 +120,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -137,6 +142,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres
@@ -206,6 +212,7 @@ ist.
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000700000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -404,6 +411,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000800000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -412,6 +420,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Technischen
@@ -421,6 +430,7 @@ I S. 226, 2212) außer Kraft.
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin
+[Direktlink](https://www.gesetze-im-internet.de/tkonfausbv_2010/BJNR059300010.html#BJNR059300010BJNE001000000)
 
 (Fundstelle: BGBl. I 2010, 596 - 600)
 

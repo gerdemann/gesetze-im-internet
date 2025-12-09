@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000100325)
 
 
 
 ### Nr 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE001900325)
 
 (1) Die Leitsätze regeln die Preisermittlung auf Grund von
 Selbstkosten,
@@ -54,6 +56,7 @@ Preise bei öffentlichen Aufträgen vom 21. November 1953
 
 
 ### Nr 2 Einrichtung und Ausgestaltung des Rechnungswesens
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002000325)
 
 Der Auftragnehmer ist zur Führung eines geordneten Rechnungswesens
 verpflichtet. Dieses muß jederzeit die Feststellung der Kosten und
@@ -63,6 +66,7 @@ Grund von Selbstkosten ermöglichen.
 
 
 ### Nr 3 Erklärung des Auftragnehmers
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002100325)
 
 Der öffentliche Auftraggeber kann vom Auftragnehmer eine Erklärung
 darüber verlangen,
@@ -79,10 +83,12 @@ b)  daß die Preisermittlung auf Grund von Selbstkosten nach diesen
 
 
 ## II. - Preisermittlung auf Grund von Selbstkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000200325)
 
 
 
 ### Nr 4 Kosten und Selbstkostenpreise
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002200325)
 
 (1) Die Kosten werden aus Menge und Wert der für die
 Leistungserstellung verbrauchten Güter und in Anspruch genommenen
@@ -108,6 +114,7 @@ erhalten bleibt.
 
 
 ### Nr 5 Arten der Preisermittlung auf Grund von Selbstkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002300325)
 
 (1) Nach dem Zeitpunkt sind zu unterscheiden:
 
@@ -137,6 +144,7 @@ c)  Mischformen von a) und b).
 
 
 ### Nr 6 Arten der Selbstkostenpreise
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002400325)
 
 Preise auf Grund von Selbstkosten können ermittelt werden
 
@@ -155,6 +163,7 @@ c)  durch Vorkalkulationen der Kosten einzelner und durch
 
 
 ### Nr 7 Mengenansatz
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002500325)
 
 (1) Soweit Abschnitt III nichts Abweichendes bestimmt, sind unter
 Berücksichtigung des Grundsatzes wirtschaftlicher Betriebsführung als
@@ -182,6 +191,7 @@ für die einzelnen Kalkulationsbereiche entsprechend.
 
 
 ### Nr 8 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002601123)
 
 (1) Bei der Bewertung der Güter und Dienste bleiben die nach dem
 Umsatzsteuergesetz abziehbaren Steuern und Beträge außer Ansatz. Die
@@ -213,6 +223,7 @@ für die einzelnen Kalkulationsbereiche entsprechend.
 
 
 ### Nr 9 Allgemeine Angaben zu Preiskalkulationen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002700325)
 
 (1) Zu jeder Preiskalkulation sind anzugeben
 
@@ -256,6 +267,7 @@ b)  die den abgerechneten Leistungen vorausgegangenen und laut
 
 
 ### Nr 10 Gliederung der Preiskalkulationen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002800325)
 
 (1) Unter Beachtung von Nummer 2 und Nummer 4 Absatz 4 kann der
 Auftraggeber mit dem Auftragnehmer bestimmte Muster für Vor- und
@@ -323,14 +335,17 @@ Kostenänderungen abgeleitet werden.
 
 
 ## III. - Bestandteile des Selbstkostenpreises
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000300325)
 
 
 
 ### A. - Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000400325)
 
 
 
 #### Nr 11 Fertigungsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE002900325)
 
 (1) Als Fertigungsstoffe sind zu erfassen
 
@@ -356,6 +371,7 @@ c)  auswärts bezogene Fertigerzeugnisse (vollständig fertige Erzeugnisse,
 
 
 #### Nr 12 Auswärtige Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003000325)
 
 (1) Als auswärtige Bearbeitung ist entweder der Bezug von
 Zwischenerzeugnissen aus kostenlos beigestellten Stoffen oder die
@@ -372,6 +388,7 @@ auf fremde Lohnarbeitskosten nicht in Ansatz gebracht werden.
 
 
 #### Nr 13 Hilfs- und Betriebsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003101123)
 
 (1) Die Hilfsstoffe der Fertigung sind, sofern sie nicht aus
 verrechnungstechnischen Gründen innerhalb der Gemeinkosten verrechnet
@@ -387,6 +404,7 @@ durchgeführt werden.
 
 
 #### Nr 14 Sonderbetriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003201123)
 
 (1) Sonderbetriebsmittel sind alle Arbeitsgeräte, die ausschließlich
 für die Fertigung des jeweiligen Liefergegenstands verwendet werden.
@@ -403,9 +421,11 @@ verrechneten Anteile müssen nachweisbar sein.
 
 
 #### Nr 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003301123)
 
 
 #### Nr 16 Mengenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003400325)
 
 (1) Als Verbrauch ist die Einsatzmenge je Stoffart einschließlich des
 bei normalen Fertigungsbedingungen entstehenden Verarbeitungsabfalls
@@ -425,6 +445,7 @@ Verbrauchsaufschreibungen oder dgl. zu ermitteln.
 
 
 #### Nr 17 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003501123)
 
 (1) Die Stoffe und dgl. sind mit Preisen des Zeitpunkts gemäß Nummer 8
 zu bewerten. Die Preise gemäß Satz 1 können auch als Einstandspreise
@@ -446,6 +467,7 @@ entgegenstehen, zulässig. Sie bedürfen vertraglicher Vereinbarung.
 
 
 #### Nr 18 Einstandspreis
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003600325)
 
 (1) Der Einstandspreis versteht sich im Regelfall frei Werk des
 Bestellers. Er beinhaltet den Preis der beschafften Güter
@@ -463,6 +485,7 @@ Verrechnung in den Selbstkosten erfolgt.
 
 
 #### Nr 19 Zulieferungen aus eigenen Vorbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003700325)
 
 (1) Bei Zulieferungen marktgängiger Leistungen aus eigenen
 Vorbetrieben gelten als Einstandspreise die jeweiligen Marktpreise
@@ -486,6 +509,7 @@ b)  falls solche Zulieferungen in einem Geschäftszweig nicht üblich sind,
 
 
 #### Nr 20 Beistellung von Stoffen, Personal oder Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003801123)
 
 Vom Auftraggeber kostenlos beigestellte Stoffe, Personal oder Anlagen
 sind, soweit sie Gemeinkosten verursachen, entsprechend ihrem
@@ -494,6 +518,7 @@ den Selbstkosten mit dem gleichen Wert wieder abzusetzen.
 
 
 #### Nr 21 Reststoffe
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE003900325)
 
 (1) Verwendungsfähige Reststoffe sind, soweit eine Weiterverwendung im
 eigenen Betrieb möglich ist, wie Stoffe zu bewerten und den
@@ -506,10 +531,12 @@ Stoffkosten gutzuschreiben.
 
 
 ### B. - Löhne, Gehälter und andere Personalkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000500325)
 
 
 
 #### Nr 22 Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004000325)
 
 (1) Bei Löhnen, Gehältern und kalkulatorischem Unternehmerlohn sind im
 Falle der Anwendung des Zuschlagsverfahrens gemäß Nummer 5 Abs. 2b zu
@@ -536,6 +563,7 @@ einheitlichen Grundsätzen stetig durchgeführt werden.
 
 
 #### Nr 23 Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004100325)
 
 In den Vor- und Nachkalkulationen dürfen Löhne, Gehälter und andere
 Personalkosten nach Art und Umfang nur insoweit berücksichtigt werden,
@@ -544,6 +572,7 @@ als sie den Grundsätzen wirtschaftlicher Betriebsführung entsprechen
 
 
 #### Nr 24 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004201123)
 
 (1) In Vor- und Nachkalkulationen sind die tariflichen oder, soweit
 sie angemessen sind, die mit dem Arbeitnehmer vereinbarten Löhne und
@@ -567,6 +596,7 @@ berücksichtigen.
 
 
 #### Nr 25 Sozialkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004301123)
 
 (1) Sozialkosten sind zu gliedern in
 
@@ -598,10 +628,12 @@ b)  die zusätzlichen Sozialaufwendungen, soweit sie nach Art und Höhe
 
 
 ### C. - Instandhaltung und Instandsetzung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000600325)
 
 
 
 #### Nr 26 Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004400325)
 
 (1) Aufwendungen für laufende Instandhaltung und Instandsetzung von
 Betriebsbauten, Betriebseinrichtungen, Maschinen, Vorrichtungen,
@@ -626,10 +658,12 @@ b)  sofern die Instandsetzung bezweckt, die Lebensdauer des
 
 
 ### D. - Entwicklungs-, und Entwurfs- und Versuchsaufträge
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000700325)
 
 
 
 #### Nr 27 "Freie" und "gebundene" Entwicklung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004500325)
 
 Entwicklungs- und Entwurfsarbeiten, Forschungen, Versuche und
 Herstellung von Probestücken, die die werkseigene sogenannte "freie"
@@ -638,6 +672,7 @@ Auftragnehmer ausdrücklich zu vereinbaren ("gebundene" Entwicklung).
 
 
 #### Nr 28 Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004600325)
 
 (1) Alle Aufwendungen für die werkseigene "freie" und für die
 "gebundene" Entwicklung sowie die für ihre Abgeltung verrechneten
@@ -651,10 +686,12 @@ auszuweisen.
 
 
 ### E. - Fertigungsanlauf, Bauartänderungen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000800325)
 
 
 
 #### Nr 29 Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004700325)
 
 Soweit bei einem Auftrag zusätzliche, im Regelfall nicht vorkommende
 Stoffkosten und Fertigungskosten anfallen, z.B. durch amtliche
@@ -666,10 +703,12 @@ auszuweisen.
 
 
 ### F. - Steuern, Gebühren, Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG000900325)
 
 
 
 #### Nr 30 Steuern
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004801123)
 
 Für die Zwecke der Preisermittlung auf Grund von Selbstkosten sind zu
 unterscheiden
@@ -704,9 +743,11 @@ b)  Steuern, die nicht Kosten im Sinne dieser Leitsätze sind (nicht
 
 
 #### Nr 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE004901123)
 
 
 #### Nr 32 Gebühren und Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005000325)
 
 (1) Pflichtgebühren und Pflichtbeiträge sind Kosten, soweit sie für
 betriebliche Zwecke aufgewendet werden.
@@ -718,10 +759,12 @@ werden.
 
 
 ### G. - Lizenzen, Patente und gewerblicher Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001000325)
 
 
 
 #### Nr 33 Ansatz und Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005100325)
 
 (1) Lizenzgebühren sind insoweit Kosten im Sinne dieser Leitsätze, als
 sie in angemessenem Verhältnis zu Umsatzmenge und Verkaufspreis der
@@ -740,10 +783,12 @@ Erzeugnisgruppen betreffen.
 
 
 ### H. - Mieten, Büro-, Werbe- und Transportkosten und dgl.
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001100325)
 
 
 
 #### Nr 34 Mengenansatz und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005200325)
 
 Für die Bemessung sonstiger Kostenarten, insbesondere der
 
@@ -763,10 +808,12 @@ gelten die Nummern 4 und 16 bis 21 sinngemäß.
 
 
 ### I. - Vertriebssonderkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001200325)
 
 
 
 #### Nr 35 Vertreterprovisionen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005300325)
 
 (1) Eine Provision oder ähnliche Vergütung an einen Handelsvertreter
 darf in voller Höhe nur berücksichtigt werden, wenn bei Vorbereitung,
@@ -785,6 +832,7 @@ gesondert auszuweisen.
 
 
 #### Nr 36 Versandbedingungen und Versandkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005400325)
 
 Nach Maßgabe der vereinbarten Liefer- und Versandbedingungen sind die
 Kosten der Verpackung, die Versandfrachten, die Rollgelder, die
@@ -795,14 +843,17 @@ vorgenommen wird.
 
 
 ### K. - Kalkulatorische Kosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001300325)
 
 
 
 #### a) - Anlageabschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001400325)
 
 
 
 ##### Nr 37 Begriff
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005500325)
 
 (1) Anlageabschreibungen sind die Kosten der Wertminderung
 betriebsnotwendiger Anlagegüter.
@@ -813,6 +864,7 @@ werden.
 
 
 ##### Nr 38 Abschreibungsbetrag und Bewertungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005601309)
 
 Der Abschreibungsbetrag für Anlagegüter ist unabhängig von den
 Wertansätzen in der Handels- und Steuerbilanz zu verrechnen. Er ergibt
@@ -822,6 +874,7 @@ verbundenen Kosten rechnen zu den Anschaffungs- oder Herstellkosten.
 
 
 ##### Nr 39 Nutzung der Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005701123)
 
 (1) Für den Umfang der Gesamtnutzung ist die erfahrungsmäßige
 Lebensdauer der Anlagen oder ihre geschätzte Leistungsmenge unter
@@ -842,11 +895,13 @@ als Ausgangswert für die Berechnung der Abschreibung verwendet werden.
 
 
 ##### Nr 40
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005801309)
 
 -
 
 
 ##### Nr 41 Sonderabschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE005900325)
 
 Der Ansatz höherer Anlageabschreibungen als gemäß Nummer 38 bis 40 zum
 Ausgleich einer ursprünglich nicht voraussehbaren technischen
@@ -857,6 +912,7 @@ sind gesondert auszuweisen.
 
 
 ##### Nr 42 Anlagenachweis
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006001309)
 
 (1) Für sämtliche Anlagen sind Übersichten zu führen, aus denen alle
 für die Abschreibungen notwendigen Angaben hervorgehen, insbesondere
@@ -872,10 +928,12 @@ Einzelwerten zusammengefaßt werden.
 
 
 #### b) - Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001500325)
 
 
 
 ##### Nr 43 Bemessung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006103123)
 
 (1) Für die Bereitstellung des betriebsnotwendigen Kapitals können
 kalkulatorische Zinsen angesetzt werden. Sie sind in der
@@ -895,6 +953,7 @@ Zinsen, Mieten, Pachten) sind als Gutschriften zu behandeln.
 
 
 ##### Nr 44 Ermittlung des betriebsnotwendigen Kapitals
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006201123)
 
 (1) Das betriebsnotwendige Kapital besteht aus dem betriebsnotwendigen
 Vermögen, vermindert um die dem Unternehmen zinslos zur Verfügung
@@ -913,6 +972,7 @@ und die nicht betriebsnotwendigen Beteiligungen.
 
 
 ##### Nr 45 Wertansatz des betriebsnotwendigen Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006301123)
 
 (1) Das Anlagevermögen ist mit dem kalkulatorischen Restwert nach
 Maßgabe der Vorschriften für die Abschreibungen zu Anschaffungs- oder
@@ -940,6 +1000,7 @@ Vermögensseite der Bilanz abzusetzen.
 
 
 ##### Nr 46 Mengenansatz des betriebsnotwendigen Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006400325)
 
 Das betriebsnotwendige Vermögen und das Abzugskapital sind mit den im
 Abrechnungszeitabschnitt durchschnittlich gebundenen Mengen
@@ -947,10 +1008,12 @@ anzusetzen.
 
 
 #### c) - Einzelwagnisse
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001600325)
 
 
 
 ##### Nr 47 Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006500325)
 
 (1) Wagnis (Risiko) ist die Verlustgefahr, die sich aus der Natur des
 Unternehmens und seiner betrieblichen Tätigkeit ergibt.
@@ -966,6 +1029,7 @@ Verlustgefahren.
 
 
 ##### Nr 48 Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006601123)
 
 (1) Das allgemeine Unternehmerwagnis wird im kalkulatorischen Gewinn
 abgegolten.
@@ -979,6 +1043,7 @@ zulässig.
 
 
 ##### Nr 49 Ermittlung der kalkulatorischen Wagniskosten
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006700325)
 
 (1) Die kalkulatorischen Wagniskosten sind auf der Grundlage der
 tatsächlich entstandenen Verluste aus Wagnissen zu ermitteln. Soweit
@@ -1003,6 +1068,7 @@ mindestens die Wagniskosten nach Kostenträgergruppen aufteilen.
 
 
 ##### Nr 50 Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006800325)
 
 (1) Die eingetretenen Verluste oder Gewinne aus Wagniskosten sowie die
 verrechneten kalkulatorischen Wagniskosten sind unter Abstimmung mit
@@ -1014,10 +1080,12 @@ dem Auftraggeber abhängig machen.
 
 
 ### L. - Kalkulatorischer Gewinn
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNG001700325)
 
 
 
 #### Nr 51 Begriff
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE006900325)
 
 Im kalkulatorischen Gewinn werden abgegolten:
 
@@ -1034,6 +1102,7 @@ b)  ein Leistungsgewinn bei Vorliegen einer besonderen unternehmerischen
 
 
 #### Nr 52 Höhe der Zurechnung
+[Direktlink](https://www.gesetze-im-internet.de/preisls/BJNR524400953.html#BJNR524400953BJNE007003123)
 
 (1) Das Entgelt für das allgemeine Unternehmerwagnis ist in einem
 Hundertsatz auf die Netto-Selbstkosten oder in einem festen Betrag zu

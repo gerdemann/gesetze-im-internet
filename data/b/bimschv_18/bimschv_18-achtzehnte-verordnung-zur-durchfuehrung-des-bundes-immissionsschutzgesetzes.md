@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000100307)
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der
 Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880) verordnet
@@ -27,6 +28,7 @@ die Bundesregierung nach Anhörung der beteiligten Kreise:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000200307)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Sportanlagen, soweit sie zum Zwecke der Sportausübung
@@ -44,6 +46,7 @@ Abfahrverkehrs sowie des Zu- und Abgangs.
 
 
 ## § 2 Immissionsrichtwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000301116)
 
 (1) Sportanlagen sind so zu errichten und zu betreiben, daß die in den
 Absätzen 2 bis 4 genannten Immissionsrichtwerte unter Einrechnung der
@@ -220,6 +223,7 @@ ermitteln und zu beurteilen.
 
 
 ## § 3 Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000400307)
 
 Zur Erfüllung der Pflichten nach § 2 Abs. 1 hat der Betreiber
 insbesondere
@@ -249,6 +253,7 @@ insbesondere
 
 
 ## § 4 Weitergehende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000500307)
 
 Weitergehende Vorschriften, vor allem zum Schutz der Sonn- und
 Feiertags-, Mittags- und Nachtruhe oder zum Schutz besonders
@@ -256,6 +261,7 @@ empfindlicher Gebiete, bleiben unberührt.
 
 
 ## § 5 Nebenbestimmungen und Anordnungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000601116)
 
 (1) Die zuständige Behörde soll von Nebenbestimmungen zu
 erforderlichen Zulassungsentscheidungen und Anordnungen zur
@@ -345,6 +351,7 @@ Maßnahmen nach § 3 Nr. 1 und 2 eine angemessene Frist gewähren.
 
 
 ## § 6 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE001100310)
 
 Die zuständige Behörde kann für internationale oder nationale
 Sportveranstaltungen von herausragender Bedeutung im öffentlichen
@@ -358,6 +365,7 @@ Abgang der Zuschauer verursachten Geräusche.
 
 
 ## § 7 Zugänglichkeit der Norm- und Richtlinienblätter
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000701310)
 
 Die in den Nummern 2.1, 2.3, 3.1 und 3.2 des Anhangs genannten DIN-
 Normblätter und VDI-Richtlinien sind bei der Beuth Verlag GmbH,
@@ -366,16 +374,19 @@ Deutschen Patentamt archivmäßig gesichert niedergelegt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000900307)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE000801310)
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 
 
 ## Anhang 1
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE001003116)
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1591 - 1596;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1164,6 +1175,7 @@ Ermittlungs- und Beurteilungsverfahren
 
 
 ## Anhang 2
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_18/BJNR015880991.html#BJNR015880991BJNE001200116)
 
 Maßnahmen, die in der Regel keine wesentliche Änderung im Sinne von §
 5 Absatz 4 darstellen:

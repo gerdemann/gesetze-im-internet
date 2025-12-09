@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Investitionsprogramm
 
 ## Kapitel 1 - „Kinderbetreuungsfinanzierung“ 2008–2013
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000100000)
 
 (1) Das Bundessondervermögen „Kinderbetreuungsausbau“ gewährt den
 Ländern in den Jahren 2008 bis 2013 nach Artikel 104b des
@@ -47,6 +49,7 @@ gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
 
 ### § 2 Überprüfung der Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000200000)
 
 Die Verwendung der Mittel wird jährlich überprüft. Zu diesem Zweck
 berichten die Länder dem Bund jeweils über die neu eingerichteten und
@@ -56,6 +59,7 @@ sowie über Anzahl und Art der geförderten Maßnahmen.
 
 
 ### § 3 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000300000)
 
 (1) Die Einzelheiten der Durchführung des Investitionsprogramms werden
 in einer Verwaltungsvereinbarung mit den Ländern geregelt, die das
@@ -85,6 +89,7 @@ schließt.
 
 
 ### § 4 Mittelabruf; Nachweis der Mittelverwendung; Abschlussbericht
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000401360)
 
 (1) Investitionen im Rahmen von 92,5 Prozent des den Ländern
 entsprechend Artikel 2 der Verwaltungsvereinbarung
@@ -127,9 +132,11 @@ vorzulegen.
 Investitionsprogramm
 
 ## Kapitel 2 - „Kinderbetreuungsfinanzierung“ 2013–2014
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNG000200360)
 
 
 ### § 5 Zweck der Finanzhilfen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000500360)
 
 (1) In den Jahren 2013 und 2014 gewährt der Bund aus dem
 Bundessondervermögen „Kinderbetreuungsausbau“ Ländern und Gemeinden
@@ -157,6 +164,7 @@ gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
 
 ### § 6 Höhe und Aufteilung der Programmkosten
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000600360)
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 580,5 Millionen
 Euro werden gemäß Artikel 104b Absatz 2 Satz 3 des Grundgesetzes im
@@ -338,6 +346,7 @@ Kosten für Investitionen zulässig.
 
 
 ### § 7 Anpassung der Verfügungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000700360)
 
 (1) Die Bundesmittel nach § 6 Absatz 1 stehen Ländern zur Verfügung,
 die bis zum 31. Dezember 2012 mindestens 95 Prozent der ihnen nach
@@ -418,6 +427,7 @@ der Verfügungsrahmen für das Jahr 2014 entsprechend.
 
 
 ### § 8 Verfahren und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000801360)
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens
 zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach
@@ -445,6 +455,7 @@ verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
 
 ### § 9 Qualifiziertes Monitoring; Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE000901360)
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend zum 31. März 2013, 30. Juni 2013, 31. Dezember 2013
@@ -480,6 +491,7 @@ Juni 2017 ein zusammenfassender Abschlussbericht vorzulegen.
 
 
 ### § 10 Rückforderung von Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001000360)
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn die geförderten
 Maßnahmen ihrer Art nach nicht den in § 5 Absatz 1 und 2 festgelegten
@@ -498,6 +510,7 @@ zur Zeit der Fristüberschreitung.
 
 
 ### § 11 Grundvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001100360)
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund
 und den Ländern über die Gewährung von Finanzhilfen des Bundes an die
@@ -507,9 +520,11 @@ Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.
 
 
 ## Kapitel 3 - Investitionsprogramm „Kinderbetreuungsfinanzierung“ 2015 – 2018
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNG000300118)
 
 
 ### § 12 Zweck der Finanzhilfen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001200118)
 
 (1) In den Jahren 2015 bis 2018 gewährt der Bund aus dem
 Bundessondervermögen „Kinderbetreuungsausbau“ Ländern und Gemeinden
@@ -540,6 +555,7 @@ gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
 
 ### § 13 Höhe und Aufteilung der Programmkosten
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001300118)
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 550 Millionen
 Euro werden entsprechend der Anzahl der Kinder unter drei Jahren wie
@@ -645,6 +661,7 @@ Kosten für Investitionen zulässig.
 
 
 ### § 14 Gemeinschaftsfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001401118)
 
 (1) Bundesmittel, die nicht zu 100 Prozent des gesamten
 Verfügungsrahmens des Landes bis zum Stichtag 30. Juni 2017 bewilligt
@@ -704,6 +721,7 @@ im Verhältnis der Zahl der Kinder unter drei Jahren.
 
 
 ### § 15 Verfahren und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001501118)
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens
 zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach
@@ -725,6 +743,7 @@ verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
 
 ### § 16 Qualifiziertes Monitoring, Abschlussbericht
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001601118)
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend zu den Stichtagen 30. Juni 2015, 31. Dezember 2015,
@@ -772,6 +791,7 @@ Verfügung stehenden Plätze enthält, vorzulegen.
 
 
 ### § 17 Rückforderung von Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001700118)
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn die geförderten
 Maßnahmen ihrer Art nach nicht den in § 12 Absatz 1 bis 3 festgelegten
@@ -790,6 +810,7 @@ zur Zeit der Fristüberschreitung.
 
 
 ### § 18 Grundvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001800118)
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund
 und den Ländern über die Gewährung von Finanzhilfen des Bundes an die
@@ -799,9 +820,11 @@ Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.
 
 
 ## Kapitel 4 - Investitionsprogramm „Kinderbetreuungsfinanzierung“ 2017 – 2020
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNG000400124)
 
 
 ### § 19 Zweck der Finanzhilfen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE001900124)
 
 (1) In den Jahren 2017 bis 2020 gewährt der Bund den Ländern und
 Gemeinden aus dem Bundessondervermögen „Kinderbetreuungsausbau“ nach
@@ -834,6 +857,7 @@ gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
 
 ### § 20 Höhe und Aufteilung der Programmkosten
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002000124)
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 1 126 Millionen
 Euro werden entsprechend der Anzahl der Kinder unter sechs Jahren wie
@@ -945,6 +969,7 @@ der zuwendungsfähigen Kosten für Investitionen betragen.
 
 
 ### § 21 Gemeinschaftsfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002101125)
 
 (1) Bundesmittel, die nicht zu 100 Prozent des gesamten
 Verfügungsrahmens des Landes bis zum Stichtag 31. Dezember 2020
@@ -1004,6 +1029,7 @@ im Verhältnis der Zahl der Kinder unter sechs Jahren.
 
 
 ### § 22 Verfahren und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002201125)
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens
 zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach
@@ -1025,6 +1051,7 @@ verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
 
 ### § 23 Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002301125)
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend zu den Stichtagen 31. Dezember 2019, 31. Dezember
@@ -1065,6 +1092,7 @@ zum Schuleintritt.
 
 
 ### § 24 Rückforderung von Bundesmitteln; Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002400124)
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn die geförderten
 Maßnahmen ihrer Art nach nicht den in § 19 Absatz 1 und 2 festgelegten
@@ -1083,6 +1111,7 @@ zur Zeit der Fristüberschreitung.
 
 
 ### § 25 Grundvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002500124)
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund
 und den Ländern über die Gewährung von Finanzhilfen des Bundes an die
@@ -1092,9 +1121,11 @@ Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.
 
 
 ## Kapitel 5 - Investitionsprogramm „Kinderbetreuungsfinanzierung“ 2020 – 2021
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNG000500125)
 
 
 ### § 26 Zweck der Finanzhilfen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002601125)
 
 (1) In den Jahren 2020 und 2021 gewährt der Bund den Ländern und
 Gemeinden im Rahmen des Konjunktur- und Krisenbewältigungspakets zur
@@ -1131,6 +1162,7 @@ gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
 
 ### § 27 Höhe und Aufteilung der Programmkosten
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002700125)
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 1 000 Millionen
 Euro werden entsprechend der Anzahl der Kinder unter sechs Jahren wie
@@ -1243,6 +1275,7 @@ der zuwendungsfähigen Kosten für Investitionen betragen.
 
 
 ### § 28 Gemeinschaftsfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002801125)
 
 (1) Bundesmittel, die nicht zu 100 Prozent des gesamten
 Verfügungsrahmens des Landes bis zum Stichtag 30. Juni 2022 bewilligt
@@ -1304,6 +1337,7 @@ im Verhältnis der Zahl der Kinder unter sechs Jahren.
 
 
 ### § 29 Verfahren und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE002902125)
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens
 zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach
@@ -1328,6 +1362,7 @@ verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
 
 ### § 30 Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE003002125)
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend zum Stichtag 31. Dezember 2020 über die im Land
@@ -1374,6 +1409,7 @@ für Kinder ab drei Jahren bis zum Schuleintritt.
 
 
 ### § 31 Rückforderung von Bundesmitteln; Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE003100125)
 
 (1) Die Länder haben die Finanzhilfen zurückzuzahlen, wenn die
 geförderten Maßnahmen ihrer Art nach nicht den in § 26 Absatz 1 und 2
@@ -1392,6 +1428,7 @@ zur Zeit der Fristüberschreitung.
 
 
 ### § 32 Grundvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kitafinhg/BJNR240700008.html#BJNR240700008BJNE003200125)
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund
 und den Ländern über die Gewährung von Finanzhilfen des Bundes an die

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1967-02/BJNR001860967.html#BJNR001860967BJNE000100314)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzblatt S. 323) und des Änderungsgesetzes vom
@@ -56,11 +57,13 @@ Homfeld, Bremen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1967-02/BJNR001860967.html#BJNR001860967BJNE000200314)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1967-02/BJNR001860967.html#BJNR001860967BJNE000300314)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1967, 186

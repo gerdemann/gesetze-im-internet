@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_10/BJNR012170978.html#BJNR012170978BJNE000100328)
 
 
 
 ## Art 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_10/BJNR012170978.html#BJNR012170978BJNE000200328)
 
 (1) Die am 31. Dezember 1978 bindend zuerkannten Elternrenten bleiben
 unberührt.
@@ -34,12 +36,14 @@ erhöht und auf volle Deutsche Mark nach oben abgerundet wird.
 
 
 ## Art 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_10/BJNR012170978.html#BJNR012170978BJNE000300328)
 
 Dieses Gesetz gilt mit Ausnahme der Artikel 2 und 3 nach Maßgabe des §
 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_10/BJNR012170978.html#BJNR012170978BJNE000400328)
 
 Dieses Gesetz tritt am 1. Januar 1979 in Kraft.
 

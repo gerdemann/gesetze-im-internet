@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrrhein_bgv_2005/BJNR153700005.html#BJNR153700005BJNE000100000)
 
 Auf Grund des § 2 Abs. 1 Satz 2 in Verbindung mit Abs. 2 des
 Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 4.
@@ -29,6 +30,7 @@ Wohnungswesen im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrrhein_bgv_2005/BJNR153700005.html#BJNR153700005BJNE000200000)
 
 Der Teil "Ginsheimer Altrhein (von km 1,50 bis zum Rhein)" der
 Bundeswasserstraße "Rhein" verliert die Eigenschaft einer dem
@@ -37,11 +39,13 @@ auf die Gemeinde Ginsheim-Gustavsburg über.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrrhein_bgv_2005/BJNR153700005.html#BJNR153700005BJNE000300000)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrrhein_bgv_2005/BJNR153700005.html#BJNR153700005BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

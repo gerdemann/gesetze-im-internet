@@ -23,10 +23,12 @@ Stand: Das G ist gem. Bek. v. 12.12.2008; 2009 II 39 mWv 1.1.2009 in Kraft getre
 
 
 ## Abschnitt 1 - Zentrale Behörde
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNG000100000)
 
 
 
 ### § 1 Bestimmung der Zentralen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000200000)
 
 Zentrale Behörde nach Artikel 28 des Haager Übereinkommens vom 13.
 Januar 2000 über den internationalen Schutz von Erwachsenen (BGBl.
@@ -34,6 +36,7 @@ Januar 2000 über den internationalen Schutz von Erwachsenen (BGBl.
 
 
 ### § 2 Übersetzungen bei eingehenden Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000300000)
 
 (1) Die Zentrale Behörde kann es ablehnen tätig zu werden, wenn eine
 Mitteilung aus einem anderen Vertragsstaat nicht in deutscher Sprache
@@ -46,6 +49,7 @@ Auftrag geben.
 
 
 ### § 3 Übersetzungen bei ausgehenden Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000400000)
 
 Beschafft ein Antragsteller erforderliche Übersetzungen für Anträge,
 die in einem anderen Vertragsstaat zu erledigen sind, nicht selbst,
@@ -53,6 +57,7 @@ veranlasst die Zentrale Behörde die Übersetzungen.
 
 
 ### § 4 Maßnahmen der Zentralen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000500000)
 
 (1) Die Zentrale Behörde verkehrt unmittelbar mit allen zuständigen
 Stellen im In- und Ausland.
@@ -81,6 +86,7 @@ verwendet werden, für den sie übermittelt worden sind.
 
 
 ### § 5 Justizverwaltungsverfahren; Vergütung für Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000600000)
 
 Die Tätigkeit der Zentralen Behörde gilt als
 Justizverwaltungsverfahren. Die Höhe der Vergütung für die von der
@@ -89,10 +95,12 @@ Justizvergütungs- und -entschädigungsgesetz.
 
 
 ## Abschnitt 2 - Gerichtliche Zuständigkeit und Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNG000200000)
 
 
 
 ### § 6 Sachliche und örtliche Zuständigkeit; Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000701160)
 
 (1) Das Betreuungsgericht, in dessen Bezirk ein Oberlandesgericht
 seinen Sitz hat, ist für den Bezirk dieses Oberlandesgerichts
@@ -139,6 +147,7 @@ gilt entsprechend.
 
 
 ### § 7 Zuständigkeitskonzentration für andere Betreuungssachen
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000801160)
 
 (1) Das Betreuungsgericht, bei dem ein in § 6 Abs. 1 Satz 1 genanntes
 Verfahren anhängig ist, ist von diesem Zeitpunkt an für alle denselben
@@ -180,10 +189,12 @@ gilt entsprechend.
 
 
 ## Abschnitt 3 - Anerkennungsfeststellung, Vollstreckbarerklärung, Konsultationsverfahren und Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNG000300000)
 
 
 
 ### § 8 Allgemeine Verfahrensvorschriften für die Anerkennungsfeststellung und Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE000903125)
 
 (1) Das Verfahren nach den Artikeln 23 und 25 des Übereinkommens
 richtet sich nach dem Buch 1 des Gesetzes über das Verfahren in
@@ -231,6 +242,7 @@ anordnen.
 
 
 ### § 9 Bindungswirkung der Anerkennungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE001000000)
 
 Die Feststellung nach Artikel 23 des Übereinkommens, dass die
 Voraussetzungen für die Anerkennung vorliegen oder nicht vorliegen,
@@ -238,6 +250,7 @@ ist für Gerichte und Verwaltungsbehörden bindend.
 
 
 ### § 10 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE001100000)
 
 (1) Ein Titel aus einem anderen Vertragsstaat, der dort vollstreckbar
 ist und im Inland Vollstreckungshandlungen erfordert, wird dadurch
@@ -249,6 +262,7 @@ Familienrechtsverfahrensgesetzes gelten entsprechend.
 
 
 ### § 11 Aufhebung oder Änderung von Entscheidungen über die Anerkennungsfeststellung oder Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE001201160)
 
 (1) Wird eine in einem anderen Vertragsstaat getroffene Maßnahme in
 diesem Staat aufgehoben oder abgeändert und kann die betroffene Person
@@ -264,6 +278,7 @@ Anerkennungsfeststellung oder Vollstreckbarerklärung entschieden hat.
 
 
 ### § 12 Widerspruch im Konsultationsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE001304125)
 
 (1) Das Gericht soll insbesondere dann nach Artikel 33 Abs. 2 des
 Übereinkommens einer Unterbringung im Inland widersprechen, wenn
@@ -332,6 +347,7 @@ entsprechend anzuwenden.
 
 
 ### § 13 Bescheinigungen über inländische Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/erws_ag/BJNR031410007.html#BJNR031410007BJNE001400000)
 
 (1) Die Bescheinigung über eine inländische Schutzmaßnahme nach
 Artikel 38 des Übereinkommens wird von dem Urkundsbeamten der

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/spitzsignalv/BJNR212690957.html#BJNR212690957BJNE000100328)
 
 Auf Grund des § 3 Abs. 1 und Abs. 3 Satz 1 des Allgemeinen
 Eisenbahngesetzes vom 29. März 1951 (Bundesgesetzbl. I S. 225) in
@@ -29,11 +30,13 @@ S. 654) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/spitzsignalv/BJNR212690957.html#BJNR212690957BJNE000200328)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/spitzsignalv/BJNR212690957.html#BJNR212690957BJNE000300328)
 
 (1) Auf Eisenbahnen des nichtöffentlichen Verkehrs ist bei Dunkelheit
 vorn am ersten Fahrzeug, wenn dieses ein Triebfahrzeug ist, ein
@@ -51,6 +54,7 @@ Anschlußbahnen erlassenen Bestimmungen zu verfahren.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/spitzsignalv/BJNR212690957.html#BJNR212690957BJNE000400328)
 
 (1) Die Verordnung tritt am ersten Tage des auf ihre Verkündung
 folgenden Monats in Kraft.
@@ -59,6 +63,7 @@ folgenden Monats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/spitzsignalv/BJNR212690957.html#BJNR212690957BJNE000500328)
 
 Der Bundesminister für Verkehr
 

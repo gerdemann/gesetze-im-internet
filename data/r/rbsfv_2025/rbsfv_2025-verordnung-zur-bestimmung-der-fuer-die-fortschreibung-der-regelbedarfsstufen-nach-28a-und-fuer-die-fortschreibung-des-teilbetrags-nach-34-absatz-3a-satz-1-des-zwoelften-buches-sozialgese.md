@@ -29,6 +29,7 @@ Ersetzt durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rbsfv_2025/BJNR1380A0024.html#BJNR1380A0024BJNE000100000)
 
 Auf Grund des § 40 Satz 1 in Verbindung mit Satz 2 bis 4 des Zwölften
 Buches Sozialgesetzbuch, dessen Satz 1 durch Artikel 4 Nummer 4 des
@@ -43,6 +44,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Fortschreibung für das Jahr 2025
+[Direktlink](https://www.gesetze-im-internet.de/rbsfv_2025/BJNR1380A0024.html#BJNR1380A0024BJNE000200000)
 
 (1) Die Veränderungsrate für die Basisfortschreibung der
 Regelbedarfsstufen nach § 28a Absatz 3 des Zwölften Buches
@@ -66,6 +68,7 @@ Zwölften Buches Sozialgesetzbuch für das Kalenderjahr 2025 weiter.
 
 
 ## § 2 Ergänzung der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/rbsfv_2025/BJNR1380A0024.html#BJNR1380A0024BJNE000300000)
 
 Regelbedarfsstufen nach § 28 in Euro
 
@@ -115,6 +118,7 @@ Regelbedarfsstufen nach § 28 in Euro
 
 
 ## § 3 Ergänzung der Anlage zu § 34 des Zwölften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/rbsfv_2025/BJNR1380A0024.html#BJNR1380A0024BJNE000400000)
 
 Ausstattung mit persönlichem Schulbedarf in Euro
 
@@ -142,11 +146,13 @@ Ausstattung mit persönlichem Schulbedarf in Euro
 
 
 ## § 4 Außerkrafttreten der Regelbedarfsstufen-Fortschreibungsverordnung 2025
+[Direktlink](https://www.gesetze-im-internet.de/rbsfv_2025/BJNR1380A0024.html#BJNR1380A0024BJNE000501126)
 
 Diese Verordnung tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rbsfv_2025/BJNR1380A0024.html#BJNR1380A0024BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

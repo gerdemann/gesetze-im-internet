@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Sanierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/sang_2017/BJNR312600017.html#BJNR312600017BJNE000101123)
 
 (1) Als Hilfe zur künftig eigenständigen Einhaltung der Vorgaben des
 Artikels 109 Absatz 3 des Grundgesetzes erhalten die Länder Bremen und
@@ -51,6 +52,7 @@ ist ausgeschlossen.
 
 
 ## § 2 Sanierungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sang_2017/BJNR312600017.html#BJNR312600017BJNE000201123)
 
 (1) Die in § 1 Absatz 1 genannten Länder verpflichten sich mit den
 Sanierungshilfen dazu, die Vorgaben des Artikels 109 Absatz 3
@@ -115,12 +117,14 @@ Deutschen Bundestag weitergeleitet.
 
 
 ## § 3 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sang_2017/BJNR312600017.html#BJNR312600017BJNE000300000)
 
 Die sich aus der Gewährung der Sanierungshilfen ergebende
 Finanzierungslast wird vom Bund getragen.
 
 
 ## § 4 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sang_2017/BJNR312600017.html#BJNR312600017BJNE000400000)
 
 Die Auszahlung der Sanierungshilfen erfolgt auf der Grundlage einer
 Verwaltungsvereinbarung, die das Nähere nach Maßgabe dieses Gesetzes

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1991-11/BJNR021340991.html#BJNR021340991BJNE000100307)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
 Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -85,11 +86,13 @@ fünfzackige Sterne.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1991-11/BJNR021340991.html#BJNR021340991BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1991-11/BJNR021340991.html#BJNR021340991BJNE000300307)
 
 (Fundstelle: BGBl. I 1991, 2134)
 ![bgbl1_1991_j2134_0010.jpg](bgbl1_1991_j2134_0010.jpg)

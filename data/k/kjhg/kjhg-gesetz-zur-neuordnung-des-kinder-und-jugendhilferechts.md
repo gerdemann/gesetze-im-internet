@@ -20,43 +20,52 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE000700328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNG000100328)
 
 
 Sozialgesetzbuch (SGB)
 Achtes Buch (VIII)
 
 ### Art 1 Kinder- und Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE000800328)
 
 -
 
 
 ### (XXXX) Art 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE000900328)
 
 
 
 ## Zweiter Teil - Änderung weiterer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNG000200328)
 
 
 
 ### (XXXX) Art 4 bis 9
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001000328)
 
 
 
 ## Dritter Teil - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNG000300328)
 
 
 
 ### Erster Abschnitt - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNG000400328)
 
 
 
 #### Art 10 Übergangsfassung einzelner Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001102308)
 
 (1) Bis zum 31. Dezember 1994 sind abweichend von Artikel 1 in
 folgenden Fassungen anzuwenden:
@@ -135,6 +144,7 @@ Jugendlichen geleistet werden, denen sonst Hilfe zur Erziehung nach §
 
 
 #### Art 11 Übergangsvorschrift für Leistungen an seelisch behinderte junge Menschen
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001201308)
 
 (1) Abweichend von Artikel 1 § 10 Abs. 2 Satz 2 und § 35a gehen bis
 zum 31. Dezember 1994 auch für junge Menschen, die seelisch behindert
@@ -146,6 +156,7 @@ andere Übergangsfrist vorsehen.
 
 
 #### Art 12 Fortführung einer Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001300328)
 
 (1) Für Einrichtungen, die vor dem Tage des Inkrafttretens dieses
 Gesetzes in Betrieb genommen worden sind, gelten die nachstehenden
@@ -172,6 +183,7 @@ Gefährdung nicht zu erwarten ist.
 
 
 #### Art 13 Jugendhilfeausschuß, Landesjugendhilfeausschuß
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001400328)
 
 (1) Ein am Tage des Inkrafttretens dieses Gesetzes bestehender und
 nach § 14 des Gesetzes für Jugendwohlfahrt zusammengesetzter
@@ -187,6 +199,7 @@ Landesjugendhilfeausschuß gebildet wird.
 
 
 #### Art 14 Örtliche Zuständigkeit, Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001501308)
 
 (1) Abweichend von den Vorschriften des Artikels 1 über die örtliche
 Zuständigkeit bleibt für die Gewährung einer Hilfe zur Erziehung, die
@@ -208,6 +221,7 @@ Hilfe von bis zu drei Monaten bleibt außer Betracht.
 
 
 #### Art 15 Sachliche Zuständigkeit des Landesjugendamts
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001601308)
 
 (1) Abweichend von Artikel 1 § 85 Abs. 1 ist bis zum 31. Dezember 1994
 für die Gewährung von Hilfe zur Erziehung nach Artikel 1 §§ 32 bis 35
@@ -233,6 +247,7 @@ sofern nicht Landesrecht nach Absatz 2 eine andere Regelung trifft.
 
 
 #### Art 16 Fortgeltung von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001700328)
 
 Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
@@ -259,6 +274,7 @@ Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
 
 #### Art 17 Öffentlich-rechtliche Streitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001800328)
 
 (1) Für Verfahren in Angelegenheiten nach dem Gesetz für
 Jugendwohlfahrt in der Fassung der Bekanntmachung vom 25. April 1977
@@ -306,6 +322,7 @@ anzuwenden.
 
 
 #### Art 18 Verfahren vor dem Vormundschaftsgericht
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE001900328)
 
 (1) Für Verfahren in Angelegenheiten nach dem Gesetz für
 Jugendwohlfahrt in der Fassung der Bekanntmachung vom 25. April 1977
@@ -335,6 +352,7 @@ Gesetzbuchs erforderlich sind.
 
 
 #### Art 19 Eintragungen im Erziehungsregister
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE002000328)
 
 Eintragungen über die Anordnung der Erziehungsbeistandschaft oder der
 Fürsorgeerziehung durch den Vormundschaftsrichter werden aus dem
@@ -342,10 +360,12 @@ Erziehungsregister entfernt.
 
 
 ### Zweiter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNG000500328)
 
 
 
 #### Art 20 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE002100328)
 
 Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes), der Freizügigkeit (Artikel 11 des Grundgesetzes) und
@@ -354,6 +374,7 @@ werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 #### Art 21 Zuständigkeit für die Kostenerstattung aufgrund der deutsch-schweizerischen Fürsorgevereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE002200328)
 
 Deutsche Fürsorgestelle im Sinne der Erklärung der Bevollmächtigten
 der Regierung der Bundesrepublik Deutschland zum Schlußprotokoll zur
@@ -367,6 +388,7 @@ das Landesjugendamt Berlin zuständig.
 
 
 #### Art 22 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE002300328)
 
 Die Länder Berlin, Bremen und Hamburg können zur Anpassung an ihren
 besonderen Verwaltungsaufbau abweichen von den Vorschriften dieses
@@ -387,6 +409,7 @@ Gesetzes über
 
 
 #### Art 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kjhg/BJNR011630990.html#BJNR011630990BJNE002501308)
 
 Dieses Gesetz tritt am 1. Januar 1991 in Kraft.
 

@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG000302305)
 
 
 
 ### § 1 Zielsetzung und Geltungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000104305)
 
 (1) Dieses Gesetz dient dazu, die Vorsorge für die Sicherheit der
 Seefahrt einschließlich des damit untrennbar im Zusammenhang stehenden
@@ -95,6 +97,7 @@ die Untersuchung nicht durchführbar sein könnte.
 
 
 ### § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE003801305)
 
 Im Sinne dieses Gesetzes sind
 
@@ -222,6 +225,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 2 Seefahrtbezogene internationale Untersuchungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000203119)
 
 Seefahrtbezogene internationale Untersuchungsregelungen im Sinne
 dieses Gesetzes sind die in den Buchstaben A und C der Anlage
@@ -232,6 +236,7 @@ Fassung.
 
 
 ### § 3 Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000303119)
 
 Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin
 genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs-
@@ -245,10 +250,12 @@ vorbehalten oder zuweisen.
 [^f776202_02_BJNR181700002BJNE000303119]: 
 
 ## Abschnitt 2 - Untersuchungen bei der Sicherheitsvorsorge durch verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG000401305)
 
 
 
 ### § 4 Sachlicher Geltungsbereich des Abschnitts 2
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000402305)
 
 Dieser Abschnitt gilt für Untersuchungen durch Ermittlung und
 Auswertung der Ursachen von im Schiffsbetrieb auftretenden Seeunfällen
@@ -257,6 +264,7 @@ Seefahrt sowie für organisatorische Maßnahmen dieser Personen.
 
 
 ### § 5 Organisatorische Maßnahmen für Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000502305)
 
 Der Eigentümer eines Schiffes unter der Bundesflagge hat dafür zu
 sorgen, dass
@@ -294,6 +302,7 @@ entsprechend.
 
 
 ### § 6 Anpassung betrieblicher Sicherheitskonzepte
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000602305)
 
 Die Seeunfälle im Sinne von § 4 sind nach Maßgabe des
 Schiffssicherheitsgesetzes und der darin aufgeführten internationalen
@@ -308,6 +317,7 @@ der Ergebnisse der Untersuchung anzupassen.
 
 
 ### § 7 Verbesserung der Vorschriften von Klassifikationsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000702305)
 
 Liegen einer Zeugniserteilung durch eine deutsche Behörde eigene
 Vorschriften einer nach Maßgabe der Verordnung (EG) Nr. 391/2009 des
@@ -325,6 +335,7 @@ Sicherheitsmängel beseitigt oder verhindert werden können.
 
 
 ### § 8 Unterrichtung von Klassifikationsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000802305)
 
 Die beim Betrieb eines Schiffes nach dem Schiffssicherheitsgesetz für
 die Sicherheitsorganisation Verantwortlichen haben dafür zu sorgen,
@@ -336,14 +347,17 @@ wird.
 
 
 ## Abschnitt 3 - Amtliche Untersuchungen zur Sicherheitskultur des internationalen und nationalen Seesicherheitssystems
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG000501305)
 
 
 
 ### Unterabschnitt 1 - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG000601305)
 
 
 
 #### § 9 Zielsetzung und sachlicher Geltungsbereich des Abschnitts 3
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE000903126)
 
 (1) Dieser Abschnitt gilt für die amtliche Untersuchung von
 Seeunfällen zur Sicherheitskultur des internationalen und nationalen
@@ -388,6 +402,7 @@ Verantwortlichkeit gezogen werden könnten.
 
 
 #### § 10 Internationale Untersuchungsregelungen im Sinne des Abschnitts 3
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001002305)
 
 Die Anwendung der seefahrtbezogenen internationalen
 Untersuchungsregelungen nach den Buchstaben A bis C der Anlage
@@ -396,6 +411,7 @@ Abschnitts.
 
 
 #### § 11 Entscheidung über die Durchführung der Sicherheitsuntersuchung nach Abschnitt 3
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001102305)
 
 (1) Über die Durchführung einer Sicherheitsuntersuchung entscheidet
 der Direktor der Bundesstelle für Seeunfalluntersuchung oder im Falle
@@ -451,10 +467,12 @@ Seeunfalluntersuchung vom Eintritt eines Seeunfalls eingeleitet.
 
 
 ### Unterabschnitt 2 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG000701305)
 
 
 
 #### § 12 Bundesstelle für Seeunfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001205305)
 
 (1) Die Bundesstelle für Seeunfalluntersuchung (Bundesstelle) ist eine
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
@@ -510,6 +528,7 @@ der Entwicklung anzupassen.
 
 
 #### § 13 Verwaltungs- und Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001305119)
 
 (1) Die Bundesstelle arbeitet mit der Bundesstelle für
 Flugunfalluntersuchung zusammen, soweit dies – insbesondere aus
@@ -537,10 +556,12 @@ Amtshilfe bleiben unberührt.
 
 
 ### Unterabschnitt 3 - Zusammenarbeit mit anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG000802305)
 
 
 
 #### § 14 Unterrichtung ausländischer Staaten und der Internationalen Seeschifffahrts-Organisation (IMO)
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001402305)
 
 Ereignet sich ein Seeunfall im Sinne des Artikels 94 Absatz 7 oder des
 Artikels 221 Absatz 2 des Seerechtsübereinkommens (BGBl. 1994 II S.
@@ -564,10 +585,12 @@ unterrichtet die Bundesstelle unverzüglich
 
 
 #### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001502305)
 
 
 
 #### § 16 Benennung des für die Sicherheitsuntersuchung federführenden Staates
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001602305)
 
 (1) Hat die Bundesstelle wegen eines Seeunfalls ein
 Untersuchungsverfahren eingeleitet, an dem auch ein anderer Staat ein
@@ -620,6 +643,7 @@ Staat federführend für die Sicherheitsuntersuchung sein soll.
 
 
 #### § 17 Teilnahme an Sicherheitsuntersuchungen anderer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001704126)
 
 (1) Wird wegen eines Seeunfalls bereits eine Sicherheitsuntersuchung
 durch einen Mitgliedstaat der Europäischen Union oder unter
@@ -656,6 +680,7 @@ S. 21) durchgeführt wird.
 
 
 #### § 18 Hilfeleistungen im Rahmen der Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE001802305)
 
 (1) Die Bundesstelle kann bei Bedarf die zuständigen Stellen anderer
 Staaten darum ersuchen, ihr
@@ -693,10 +718,12 @@ Kosten.
 
 
 ### Unterabschnitt 4 - Durchführung der Sicherheitsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG001801305)
 
 
 
 #### § 19 Untersuchungsstatus
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE003901305)
 
 (1) Die Sicherheitsuntersuchung durch die Bundesstelle hat
 grundsätzlich Vorrang vor allen anderen fachlich-technischen
@@ -710,6 +737,7 @@ Bundesstelle mit anderen beteiligten Behörden zu vermeiden.
 
 
 #### § 20 Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004001305)
 
 (1) Das Untersuchungsverfahren umfasst die gesamte Tätigkeit der
 Bundesstelle, die auf die Ermittlung der ursächlichen Zusammenhänge
@@ -745,6 +773,7 @@ Behandlung von Seeleuten bei einem Unfall auf See (VkBl. 2010 S. 506).
 
 
 #### § 21 Einleitung der Sicherheitsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004101305)
 
 (1) Der Direktor der Bundesstelle oder im Falle seiner Verhinderung
 sein Stellvertreter bestimmt für jeden zu untersuchenden Seeunfall
@@ -755,6 +784,7 @@ Untersuchungszwecks notwendigen Maßnahmen.
 
 
 #### § 22 Untersuchungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004203126)
 
 (1) Der Untersuchungsführer sowie die Untersuchungsfachkräfte und die
 Beauftragten für Seeunfalluntersuchung, jeweils nach Weisung des
@@ -876,6 +906,7 @@ aufschiebende Wirkung.
 
 
 #### § 23 Unfallort
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004301305)
 
 (1) Die Bundesstelle entscheidet nach einem Seeunfall in deutschen
 Hoheitsgewässern oder in der deutschen ausschließlichen
@@ -913,6 +944,7 @@ verändert werden. Gestattet sind lediglich
 
 
 #### § 24 Teilnehmer am Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004401305)
 
 (1) Am Untersuchungsverfahren nimmt bei begründetem Interesse und auf
 ihr Verlangen je ein bevollmächtigter Vertreter anderer Staaten teil
@@ -997,6 +1029,7 @@ Absatz 5 entsprechend.
 
 
 #### § 25 Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004502305)
 
 Liegt ein Grund vor, der geeignet ist, Misstrauen gegen die
 unparteiische Ausübung der Tätigkeit einer an der
@@ -1023,6 +1056,7 @@ digitale Infrastruktur die erforderlichen Anordnungen.
 
 
 #### § 26 Nachweismittel
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004602119)
 
 (1) Der Untersuchungsführer und die Untersuchungsfachkräfte bedienen
 sich aller für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz
@@ -1070,10 +1104,12 @@ Justizvergütungs- und -entschädigungsgesetzes zu entschädigen.
 
 
 ### Unterabschnitt 5 - Untersuchungsberichte und ihre Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG001901305)
 
 
 
 #### § 27 Untersuchungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004701305)
 
 (1) Zu jeder Sicherheitsuntersuchung wird ein Untersuchungsbericht der
 Bundesstelle in einer der Art und Schwere des Seeunfalls angemessenen
@@ -1175,6 +1211,7 @@ wird in diesem Fall nicht gegeben.
 
 
 #### § 28 Veröffentlichung des Untersuchungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004802305)
 
 (1) Die Bundesstelle veröffentlicht den endgültigen
 Untersuchungsbericht spätestens zwölf Monate nach dem Seeunfall. Ist
@@ -1224,6 +1261,7 @@ Untersuchungsberichts.
 
 
 #### § 29 Sicherheitsempfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE004901305)
 
 (1) Sicherheitsempfehlungen werden vom Direktor der Bundesstelle
 herausgegeben. Die Sicherheitsempfehlungen sind an die Stellen zu
@@ -1254,6 +1292,7 @@ geeigneten Maßnahmen.
 
 
 #### § 30 Ausländische Untersuchungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005001305)
 
 (1) Ausländische Untersuchungsberichte und deren Entwürfe, Teile davon
 und Dokumente, die die Bundesstelle auf Grund ihrer Beteiligung an
@@ -1270,6 +1309,7 @@ sofern dies nicht bereits durch den ausländischen Staat erfolgt ist.
 
 
 #### § 31 Wiederaufnahme eines Untersuchungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005101305)
 
 Werden innerhalb von zehn Jahren nach Fertigstellung des
 Untersuchungsberichts wesentliche neue Tatsachen bekannt, nimmt die
@@ -1285,10 +1325,12 @@ unanfechtbar.
 
 
 ### Unterabschnitt 6 - Untersuchungskammer
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG002001305)
 
 
 
 #### § 32 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005201305)
 
 (1) Bei Seeunfällen von besonderer Bedeutung und Schwere, deren
 Sicherheitsuntersuchung nach Art und Umfang das übliche Maß
@@ -1325,10 +1367,12 @@ nur als die Untersuchungskammer auf.
 
 
 ### Unterabschnitt 7 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG002101305)
 
 
 
 #### § 33 Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005302126)
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach den §§ 22 und 32
 sowie die Teilnehmer nach § 24 Absatz 1 dürfen im Rahmen ihrer
@@ -1386,6 +1430,7 @@ unbefugte Einsichtnahme besonders zu schützen.
 
 
 #### § 34 Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005401305)
 
 (1) Die Bundesstelle darf vorbehaltlich des § 35 die nachstehenden
 Informationen und Daten zu keinem anderen Zweck als dem einer
@@ -1429,6 +1474,7 @@ werden.
 
 
 #### § 35 Übermittlung an öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005502126)
 
 (1) Eine Übermittlung der in § 34 Absatz 1 bezeichneten Informationen
 und Daten an öffentliche Stellen ist zulässig, soweit im öffentlichen
@@ -1493,6 +1539,7 @@ werden dürfen, zu dessen Erfüllung sie ihm übermittelt worden sind.
 
 
 #### § 36 Aufbewahrungs- und Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005603126)
 
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit
 tödlichem Ausgang 30 Jahre. Alle anderen Akten werden 20 Jahre
@@ -1509,6 +1556,7 @@ bis 7 des Bundesarchivgesetzes sind anzuwenden.
 
 
 #### § 37 Arbeit zur Verbesserung der Sicherheit im Seeverkehr
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005701305)
 
 (1) Die Bundesstelle trägt zur Verbesserung der Sicherheit im
 Seeverkehr mit dem Ziel der Verhütung von Seeunfällen bei, indem sie
@@ -1559,6 +1607,7 @@ kostenlos.
 
 
 #### § 38 Beteiligung am Such- und Rettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005801305)
 
 Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie
 hierfür erforderliche Informationen auf Anfrage beschafft oder
@@ -1570,14 +1619,17 @@ Stelle und der Bundesstelle Einvernehmen herzustellen.
 
 
 ## Abschnitt 4 - Bußgeld-, Schluss- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG001503119)
 
 
 
 ### Unterabschnitt 1 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG001603119)
 
 
 
 #### § 39 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE003404119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1619,10 +1671,12 @@ Wasserstraßen und Schifffahrt.
 
 
 ### Unterabschnitt 2 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNG001703119)
 
 
 
 #### § 40 Vollzugsvereinbarungen zwischen Bund und Küstenländern
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE003503119)
 
 Dieses Gesetz berührt nicht die über die Vereinbarungen über die
 Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben erlassenen
@@ -1655,12 +1709,14 @@ Gesetze der Länder
 
 
 #### § 41 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE003603119)
 
 Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 #### § 42 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE005903119)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch
@@ -1672,6 +1728,7 @@ seefahrtbezogenen internationalen Untersuchungsregelungen zu ändern.
 
 
 #### § 43 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE006002119)
 
 Seeamtsuntersuchungen, die vor dem 1. Januar 2025 eingeleitet worden
 sind, sind nach den bis einschließlich 31. Dezember 2024 geltenden
@@ -1680,6 +1737,7 @@ erlassenen Vorschriften fortzuführen.
 
 
 #### Anlage (zu den §§ 2, 3, 10, 20 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/sug/BJNR181700002.html#BJNR181700002BJNE003704119)
 
 (Fundstelle: BGBl. I 2012, 408;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

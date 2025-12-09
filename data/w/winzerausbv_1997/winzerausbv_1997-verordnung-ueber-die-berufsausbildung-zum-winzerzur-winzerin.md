@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000100305)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,11 +31,13 @@ für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000200305)
 
 Der Ausbildungsberuf Winzer/Winzerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000300305)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -46,6 +49,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000400305)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -62,6 +66,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000500305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -136,6 +141,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000600305)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den
 Anlagen I und II für die berufliche Grundbildung und für die
@@ -149,12 +155,14 @@ die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000700305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000800305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -163,6 +171,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE000900305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -241,6 +250,7 @@ insbesondere aus folgenden Gebieten zu bearbeiten:
 
 
 ## § 9 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE001000305)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -424,6 +434,7 @@ worden ist.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE001100305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -432,12 +443,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE001200305)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 5)
 
 ## Anlage I Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE001300305)
 
 (Fundstelle: BGBl. I 1997, 164 - 169)
 
@@ -1335,6 +1348,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 (zu § 5)
 
 ## Anlage II Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/winzerausbv_1997/BJNR016100997.html#BJNR016100997BJNE001400305)
 
 
 *

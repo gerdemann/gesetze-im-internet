@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000100000)
 
 Auf Grund des § 19 Absatz 2 und 3 des Stabilisierungsfondsgesetzes,
 von denen Absatz 2 durch Artikel 2 Nummer 3 Buchstabe b des Gesetzes
@@ -33,6 +34,7 @@ Energie:
 
 
 ## § 1 Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000200000)
 
 (1) Zur Erstattung der nach § 19 des Stabilisierungsfondsgesetzes
 zurechenbaren Kosten ist verpflichtet, wer die Verpflichtung zur
@@ -45,6 +47,7 @@ anderen zur Kostenerstattung gesetzlich haftet.
 
 
 ## § 2 Entstehung der Kostenerstattungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000300000)
 
 (1) Die Pflicht zur Kostenerstattung entsteht mit dem Bewirken der
 Leistung, für die Kosten zu erstatten sind. Bedarf diese Leistung
@@ -74,6 +77,7 @@ vorsehen, gelten die Absätze 1 und 2.
 
 
 ## § 3 Kostenfestsetzung und Kosteneinziehung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000401123)
 
 (1) Die Kosten, die der Finanzagentur oder der Kreditanstalt im Rahmen
 von Maßnahmen nach dem Stabilisierungsfondsgesetz entstehen, sind von
@@ -107,6 +111,7 @@ jeweils zwischen den beteiligten Stellen zu regeln.
 
 
 ## § 4 Umfang der zu erstattenden Kosten; Kostenpauschale
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000501123)
 
 (1) Kosten im Sinne dieser Verordnung sind solche, die nach
 betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten
@@ -156,6 +161,7 @@ abhängig gemacht werden.
 
 
 ## § 4a Kostenermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001600123)
 
 (1) Aus Gründen des öffentlichen Interesses, insbesondere bei
 drohender Beeinträchtigung des Zwecks der Stabilisierungsmaßnahme oder
@@ -175,6 +181,7 @@ geltenden Fassung erfüllt sind.
 
 
 ## § 5 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000601123)
 
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe
 der Festsetzung an den Kostenschuldner fällig, es sei denn, das
@@ -191,6 +198,7 @@ Vertrag.
 
 
 ## § 6 Vorschuss- und Abschlagszahlung, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000701123)
 
 (1) Die Kreditanstalt, die Finanzagentur, das Bundesministerium für
 Wirtschaft und Klimaschutz oder das Bundesministerium der Finanzen
@@ -216,6 +224,7 @@ oder diesem Vertrag.
 
 
 ## § 7 Festsetzungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000800000)
 
 (1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung oder
 Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist
@@ -241,6 +250,7 @@ oder Änderung der Festsetzung gilt Satz 1 entsprechend.
 
 
 ## § 8 Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE000900000)
 
 (1) Der Anspruch auf Zahlung von festgesetzten Kostenerstattungen
 verjährt nach fünf Jahren (Zahlungsverjährung). Die Verjährungsfrist
@@ -253,6 +263,7 @@ nicht verfolgt werden kann.
 
 
 ## § 9 Unterbrechung der Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001000000)
 
 (1) Die Zahlungsverjährung wird unterbrochen durch
 
@@ -341,6 +352,7 @@ nach Absatz 1 unterbrochen werden.
 
 
 ## § 10 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001100000)
 
 (1) Werden Kostenerstattungsbeträge nicht bis zum Ablauf des
 Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat der
@@ -374,12 +386,14 @@ Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
 
 ## § 11 Stundung, Niederschlagung und Erlass
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001200000)
 
 Stundung, Niederschlagung und Erlass festgesetzter Kostenerstattungen
 richten sich nach § 59 der Bundeshaushaltsordnung.
 
 
 ## § 12 Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001300000)
 
 (1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die nicht
 auf der Erhebung einer Vorauszahlung beruhen, sind nach
@@ -397,6 +411,7 @@ Verjährung beginnt nicht vor der Unanfechtbarkeit der Festsetzung.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001400000)
 
 Die Regelungen zur Kostenerstattung sind auch auf die bei ihrem
 Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden, soweit zu
@@ -404,6 +419,7 @@ diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wsf-kostv/BJNR205100020.html#BJNR205100020BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

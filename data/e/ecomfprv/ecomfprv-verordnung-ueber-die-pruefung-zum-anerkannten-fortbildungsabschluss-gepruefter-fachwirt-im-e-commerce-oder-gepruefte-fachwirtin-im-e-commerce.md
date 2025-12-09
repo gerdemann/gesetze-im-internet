@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 zuletzt
@@ -29,6 +30,7 @@ mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000300000)
 
 Diese Verordnung regelt die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Fachwirt im
@@ -36,6 +38,7 @@ E-Commerce oder Geprüfte Fachwirtin im E-Commerce.
 
 
 ## § 2 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000400000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter
 Fachwirt im E-Commerce“ oder „Geprüfte Fachwirtin im E-Commerce“ soll
@@ -104,6 +107,7 @@ oder „Geprüfte Fachwirtin im E-Commerce“.
 
 
 ## § 3 Voraussetzung für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000500000)
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -139,6 +143,7 @@ Prüfung rechtfertigen.
 
 
 ## § 4 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000600000)
 
 Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -161,6 +166,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 
 ## § 5 Handlungsbereich „Entwickeln von Strategien für den E-Commerce“
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000700000)
 
 (1) Im Handlungsbereich „Entwickeln von Strategien für den E-Commerce“
 soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die
@@ -216,6 +222,7 @@ Qualifikationsinhalte verknüpft werden:
 
 
 ## § 6 Handlungsbereich „Gestalten von Prozessen im E-Commerce“
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000800000)
 
 (1) Im Handlungsbereich „Gestalten von Prozessen im E-Commerce“ soll
 die zu prüfende Person nachweisen, dass sie in der Lage ist, die
@@ -255,6 +262,7 @@ Qualifikationsinhalte verknüpft werden:
 
 
 ## § 7 Handlungsbereich „Analysieren und Weiterentwickeln von Prozessen im E-Commerce“
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE000900000)
 
 (1) Im Handlungsbereich „Analysieren und Weiterentwickeln von
 Prozessen im E-Commerce“ soll die zu prüfende Person nachweisen, dass
@@ -294,6 +302,7 @@ Qualifikationsinhalte verknüpft werden:
 
 
 ## § 8 Handlungsbereich „Sicherstellen der Kommunikation und Zusammenarbeit mit internen und externen Partnern sowie Führen von internen und externen Partnern“
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001000000)
 
 (1) Im Handlungsbereich „Sicherstellen der Kommunikation und
 Zusammenarbeit mit internen und externen Partnern sowie Führen von
@@ -343,6 +352,7 @@ Qualifikationsinhalte verknüpft werden:
 
 
 ## § 9 Bestandteile der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001100000)
 
 Die Prüfung besteht aus
 
@@ -356,6 +366,7 @@ Die Prüfung besteht aus
 
 
 ## § 10 Schriftlicher Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001200000)
 
 (1) Der schriftliche Prüfungsteil wird auf der Grundlage einer
 Beschreibung einer betrieblichen Situation durchgeführt.
@@ -375,6 +386,7 @@ situationsbezogen thematisiert wird.
 
 
 ## § 11 Mündlicher Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001300000)
 
 (1) Im mündlichen Prüfungsteil soll die zu prüfende Person nachweisen,
 dass sie in der Lage ist, angemessen und sachgerecht zu kommunizieren
@@ -409,6 +421,7 @@ Fachgespräch höchstens 20 Minuten.
 
 
 ## § 12 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001400000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -421,6 +434,7 @@ Prüfungsausschusses zu Grunde zu legen.
 
 
 ## § 13 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001500000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -447,6 +461,7 @@ im Verhältnis 2:1 gewichtet.
 
 
 ## § 14 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001600000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -480,6 +495,7 @@ Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 15 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001700000)
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Anlage 2 Teil A und B.
@@ -504,6 +520,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 16 Wiederholung eines nicht bestandenen Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001800000)
 
 (1) Ein nicht bestandener schriftlicher oder ein nicht bestandener
 mündlicher Prüfungsteil kann zweimal wiederholt werden.
@@ -515,6 +532,7 @@ bestandenen Prüfungsteils, gestellt werden.
 
 
 ## § 17 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE001900000)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Prüfungsteil der Prüfung der nach dem
@@ -522,12 +540,14 @@ Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE002000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 13 Absatz 1 und § 14 Absatz 3 Satz 3)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE002100000)
 
 (Fundstelle: BGBl. I 2019, 2041 - 2042)
 
@@ -829,6 +849,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 15 Absatz 1 und 2)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/ecomfprv/BJNR203700019.html#BJNR203700019BJNE002200001)
 
 (Fundstelle: BGBl. I 2019, 2043)
 

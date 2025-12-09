@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG000101307)
 
 
 
 ### § 1 Gegenstand und Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001202140)
 
 Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von
 Unternehmensbeteiligungsgesellschaften.
 
 
 ### § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE004202140)
 
 (1) Unternehmensbeteiligungsgesellschaften sind die von der
 zuständigen Behörde als Unternehmensbeteiligungsgesellschaften
@@ -68,6 +71,7 @@ geprüften Bilanz ergibt.
 
 
 ### § 2 Anforderungen an Rechtsform, Unternehmensgegenstand, Sitz und Kapital
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001306360)
 
 (1) Soweit sich aus den Vorschriften des Kapitalanlagegesetzbuchs
 nichts anderes ergibt, darf eine Unternehmensbeteiligungsgesellschaft
@@ -104,14 +108,17 @@ betragen. Die Einlagen müssen voll geleistet sein.
 
 
 ## Zweiter Abschnitt - Vorschriften über die Tätigkeit der Unternehmensbeteiligungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG000201307)
 
 
 
 ### Erster Unterabschnitt
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG001100307)
 
 
 
 #### § 3 Zulässige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001405360)
 
 (1) Die Unternehmensbeteiligungsgesellschaft darf außer den in § 2
 Abs. 2 bezeichneten Geschäften nur die in den folgenden Absätzen
@@ -144,6 +151,7 @@ nur tätigen, wenn sie mit ihrem Unternehmensgegenstand zusammenhängen.
 
 
 #### § 4 Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001507123)
 
 (1) Die Unternehmensbeteiligungsgesellschaft darf
 Unternehmensbeteiligungen an einem Unternehmen nur erwerben, soweit
@@ -235,6 +243,7 @@ Unternehmensbeteiligungsgesellschaft nicht übersteigen.
 
 
 #### § 5 Unzulässige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001605140)
 
 (1) Die Unternehmensbeteiligungsgesellschaft darf keine
 Unternehmensbeteiligungen an Unternehmen halten, die Mutterunternehmen
@@ -249,12 +258,14 @@ Unternehmensbeteiligungsgesellschaft beteiligt sind.
 
 
 #### § 6 Verletzung der Vorschriften über den Geschäftskreis
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001702307)
 
 Ein Verstoß gegen die §§ 3 bis 5 berührt die Wirksamkeit des
 Rechtsgeschäfts nicht.
 
 
 #### § 7 Anteilstruktur, Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001804123)
 
 (1) Eine offene Unternehmensbeteiligungsgesellschaft darf spätestens
 fünf Jahre nach ihrer Anerkennung kein Tochterunternehmen mehr sein.
@@ -312,6 +323,7 @@ betreiben, wenn sie die Anlagegrenzen des § 4 Abs. 4 beachtet.
 
 
 #### § 8 Jahresabschluß, Lagebericht und Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE001903360)
 
 (1) Auf inländische Unternehmensbeteiligungsgesellschaften, auf die §§
 148 und 158 des Kapitalanlagegesetzbuchs nicht anzuwenden sind, die
@@ -350,26 +362,32 @@ aufzunehmen.
 
 
 ### Zweiter Unterabschnitt
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG001200307)
 
 
 
 #### (XXXX) §§ 9 bis 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002002307)
 
 
 
 ### Dritter Unterabschnitt
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG001300307)
 
 
 
 #### (XXXX) §§ 12 und 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002303307)
 
 
 
 ## Dritter Abschnitt - Verfahren und Aufsicht, Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG000601307)
 
 
 
 ### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002504360)
 
 (1) Die Aufgaben der Behörde nach den Vorschriften dieses Gesetzes
 werden von den zuständigen obersten Landesbehörden wahrgenommen. Die
@@ -405,6 +423,7 @@ Anordnungen treffen.
 
 
 ### § 15 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002604360)
 
 (1) Unternehmensbeteiligungsgesellschaften bedürfen der Anerkennung
 durch die zuständige Behörde.
@@ -467,6 +486,7 @@ deutscher Sprache oder in einer in internationalen Finanzkreisen
 
 
 ### § 15a Mitteilung der zuständigen Landesbehörden an die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE004400360)
 
 Die zuständige oberste Landesbehörde übermittelt der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) jährlich eine Liste
@@ -474,6 +494,7 @@ aller von ihr anerkannten Unternehmensbeteiligungsgesellschaften.
 
 
 ### § 16 Voraussetzungen der Anerkennung, Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002703140)
 
 (1) Eine Gesellschaft ist als Unternehmensbeteiligungsgesellschaft
 anzuerkennen, wenn
@@ -510,6 +531,7 @@ Widerruf oder Verzicht.
 
 
 ### § 17 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002804140)
 
 Die Behörde kann die Anerkennung außer nach den Vorschriften des
 Verwaltungsverfahrensgesetzes widerrufen, wenn
@@ -534,6 +556,7 @@ Verwaltungsverfahrensgesetzes widerrufen, wenn
 
 
 ### § 18 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE002902307)
 
 Die Unternehmensbeteiligungsgesellschaft kann auf die Anerkennung nur
 verzichten, indem sie den Unternehmensgegenstand (§ 2 Abs. 2 Satz 1)
@@ -545,6 +568,7 @@ Handelsregister eingetragen wird.
 
 
 ### § 19 Erneuter Antrag auf Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003003307)
 
 (1) Wird die Anerkennung als Unternehmensbeteiligungsgesellschaft
 zurückgenommen oder widerrufen oder verzichtet die
@@ -564,6 +588,7 @@ besteht.
 
 
 ### § 20 Schutz der Bezeichnung "Unternehmensbeteiligungsgesellschaft"
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003103140)
 
 (1) Die Bezeichnung "Unternehmensbeteiligungsgesellschaft" darf in der
 Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder
@@ -577,6 +602,7 @@ Unternehmensbeteiligungsgesellschaft nachgewiesen ist.
 
 
 ### § 21 Anzeige-, Vorlage- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003203360)
 
 (1) Die Unternehmensbeteiligungsgesellschaft hat der Behörde
 unverzüglich
@@ -602,6 +628,7 @@ haben Maßnahmen nach Satz 1 zu dulden.
 
 
 ### § 21a Befugnisse der Aufsichtsbehörde, Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE004304360)
 
 (1) Die Behörde kann von der Unternehmensbeteiligungsgesellschaft und
 deren Aktionären oder Gesellschaftern Auskünfte und die Vorlage von
@@ -653,6 +680,7 @@ anzuwenden.
 
 
 ### § 22 Mitteilungen und Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003302307)
 
 (1) Die Behörde teilt dem Registergericht die Anerkennung als
 Unternehmensbeteiligungsgesellschaft und den nicht mehr anfechtbaren
@@ -665,14 +693,17 @@ Unternehmensbeteiligungsgesellschaft im Bundesanzeiger bekannt.
 
 
 ## Vierter Abschnitt - Übergangs-, Bußgeld-, Änderungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG000701307)
 
 
 
 ### Erster Unterabschnitt - Übergangs- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG000801307)
 
 
 
 #### § 23 Mitteilungspflichten der Aktionäre und Gesellschafter bei Anerkennung als Unternehmensbeteiligungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003403307)
 
 (1) Wer im Zeitpunkt der Anerkennung einer offenen
 Unternehmensbeteiligungsgesellschaft ein Mutterunternehmen dieser
@@ -691,6 +722,7 @@ Eintragung der Satzungsänderung tritt.
 
 
 #### § 24 Gesellschafterdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003505140)
 
 Hat die Unternehmensbeteiligungsgesellschaft oder ein an ihr
 beteiligter Gesellschafter einem Unternehmen, an dem die
@@ -701,6 +733,7 @@ Insolvenzordnung nicht anzuwenden.
 
 
 #### § 25 Übergangsvorschriften für am 1. April 1998 anerkannte Unternehmensbeteiligungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003603307)
 
 (1) Dieses Gesetz ist in der vor dem Inkrafttreten des Artikels 7 des
 Dritten Finanzmarktförderungsgesetzes geltenden Fassung bis zum 31.
@@ -733,6 +766,7 @@ Bundesanzeiger bekannt.
 
 
 #### § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003702307)
 
 (1) Zum Zeitpunkt des Inkrafttretens des Artikels 9 des Zweiten
 Finanzmarktförderungsgesetzes anerkannte
@@ -762,6 +796,7 @@ war.
 
 
 #### § 26a Übergangsvorschrift für den Nachweis nach § 15 Absatz 2 Nummer 4
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE004500360)
 
 Eine Unternehmensbeteiligungsgesellschaft, die vor dem 22. Juli 2013
 als Unternehmensbeteiligungsgesellschaft nach Maßgabe dieses Gesetzes
@@ -773,6 +808,7 @@ vorlegen.
 
 
 #### § 27 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003804360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -805,24 +841,29 @@ Euro geahndet werden.
 
 
 ### Zweiter Unterabschnitt - Änderung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG000901307)
 
 
 
 #### (XXXX) §§ 28 bis 31
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE003901307)
 
 (Änderungsvorschriften)
 
 
 ### Dritter Unterabschnitt - Berlin-Klausel und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNG001001307)
 
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE004001307)
 
 (gegenstandlos)
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/ubgg/BJNR024880986.html#BJNR024880986BJNE004101307)
 
 (Inkrafttreten)
 

@@ -20,57 +20,70 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNE001600314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I - Sozialgesetzbuch (SGB)
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG000100314)
 
 
 
 ### Erstes Buch (I) - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG000200314)
 
 
 
 ## Art II - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG001100314)
 
 
 
 ### Erster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG001201308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNE008518308)
 
 (weggefallen)
 
 
 ### Zweiter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG001301308)
 
 
 
 ### (XXXX) §§ 2 - 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNE008601308)
 
 
 
 ### Dritter Abschnitt - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG001401308)
 
 
 
 ### (XXXX) §§ 17 - 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNE008701308)
 
 
 
 ### Vierter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNG001500314)
 
 
 
 ### (XXXX) §§ 21 u. 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNE009101308)
 
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgbat/BJNR030159975.html#BJNR030159975BJNE009300314)
 
 (1) Dieses Gesetz tritt am 1. Januar 1976 in Kraft. Artikel II § 4 Nr.
 2 tritt mit Wirkung vom 1. Oktober 1975, für eingeschriebene Studenten

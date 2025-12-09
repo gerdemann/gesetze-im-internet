@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000100000)
 
 Auf Grund des § 31 Absatz 8 und des § 93 Absatz 3 Nummer 2 des
 Soldatengesetzes, von denen § 31 Absatz 8 durch Artikel 5 Nummer 8 des
@@ -32,6 +33,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Erstattungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000201377)
 
 (1) Soldatinnen und Soldaten, die Familien- und Pflegeaufgaben im
 Sinne des § 3 Absatz 6 und 7 des Soldatinnen- und
@@ -86,6 +88,7 @@ besonderen Gründen Ausnahmen zugelassen werden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -163,6 +166,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ## § 3 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000400000)
 
 (1) Die Kosten werden nur auf Antrag erstattet.
 
@@ -181,6 +185,7 @@ Absatz 2 Satz 2 ein.
 
 
 ## § 4 Inhalt des Antrags und erforderliche Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000500000)
 
 (1) In dem Antrag ist darzulegen, dass
 
@@ -238,6 +243,7 @@ tatsächlich entstanden sind.
 
 
 ## § 5 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000600000)
 
 Der Antrag kann nur bis zum Ablauf von sechs Monaten nach Beendigung
 der Teilnahme an einer der in § 1 Absatz 1 genannten Maßnahmen
@@ -245,6 +251,7 @@ gestellt werden.
 
 
 ## § 6 Behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000700000)
 
 Über den Antrag entscheidet das Bundesamt für das Personalmanagement
 der Bundeswehr. Dieses regelt die weiteren Einzelheiten des
@@ -252,6 +259,7 @@ Verfahrens.
 
 
 ## § 7 Höhe der Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000800000)
 
 (1) Die Kosten für eine Familien- und Haushaltshilfe werden bis zu
 einer Höhe von 50 Euro pro Tag erstattet. Bei Inanspruchnahme eines
@@ -266,6 +274,7 @@ Soldaten an einer der in § 1 Absatz 1 genannten Maßnahmen anfallen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/shv/BJNR113200015.html#BJNR113200015BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

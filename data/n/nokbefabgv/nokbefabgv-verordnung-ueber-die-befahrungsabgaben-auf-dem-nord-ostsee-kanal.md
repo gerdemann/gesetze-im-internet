@@ -26,6 +26,7 @@ V ursprünglich aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000102360)
 
 Auf Grund des § 13 Abs. 2 des Seeaufgabengesetzes in der Fassung der
 Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) verordnet das
@@ -34,6 +35,7 @@ Bundesministerium der Finanzen und nach Anhörung der Küstenländer:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000205360)
 
 (1) Für Wasserfahrzeuge, die den Nord-Ostsee-Kanal befahren, sind
 Befahrungsabgaben nach der Anlage 1 zu dieser Verordnung zu
@@ -48,6 +50,7 @@ Zahlungsnachweise für Sportfahrzeuge.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000302360)
 
 Zur Zahlung der Befahrungsabgaben sind verpflichtet:
 
@@ -62,6 +65,7 @@ Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000405360)
 
 (1) Die Zahlungspflicht für die Befahrungsabgaben entsteht mit dem
 Antritt der Reise durch den Nord-Ostsee-Kanal.
@@ -87,6 +91,7 @@ Seeschifffahrtsstraßenordnung aus.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000503360)
 
 Hinsichtlich der Verjährung der Befahrungsabgaben sind die §§ 18 und
 19 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154),
@@ -96,6 +101,7 @@ Verjährungsfrist drei Jahre beträgt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000607360)
 
 (1) Bei der Bemessung der Befahrensabgaben werden zugrundegelegt:
 
@@ -141,6 +147,7 @@ Verwaltungsgebühr in Höhe der dadurch entstandenen Kosten erheben.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000704360)
 
 (1) Von der Zahlung der Befahrungsabgaben sind befreit:
 
@@ -168,6 +175,7 @@ Wasserstraßen und Schifffahrt im Einzelfall zulassen, wenn das
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000806360)
 
 (1) Für Fahrzeuge im Durchgangsverkehr über 3 000 BRZ, die
 ausschließlich unter Ballast fahren, ermäßigt sich die
@@ -189,6 +197,7 @@ Generaldirektion Wasserstraßen und Schifffahrt zu stellen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE000906125)
 
 § 1 Satz 1 in Verbindung mit der Anlage ist bis zum 30. Juni 2026 mit
 der Maßgabe anzuwenden, dass die Befahrungsabgaben nur in Höhe von 50
@@ -199,6 +208,7 @@ gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Befahrungsabgabenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE001008125)
 
 (Fundstelle: BGBl. 2023 I Nr. 127, 5 – 10)
 
@@ -1604,6 +1614,7 @@ gemäß § 6 Absatz 3 der NOK-Lotsverordnung unterliegen.
 (zu § 7 Absatz 2)
 
 ## Anlage 2 Nachweis für die Gewährung von Sofortrabatt
+[Direktlink](https://www.gesetze-im-internet.de/nokbefabgv/BJNR518500993.html#BJNR518500993BJNE001100360)
 
 (Fundstelle: BGBl. 2023 I Nr. 127, 10 – 12)
 

@@ -28,6 +28,7 @@ Stand: Ersetzt V 806-21-1-213 v. 13.2.1997 I 246 (PolstAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl.
@@ -39,17 +40,20 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000200000)
 
 Der Ausbildungsberuf des Polsterers und der Polsterin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -61,6 +65,7 @@ Besonderheiten die Abweichung erfordern.
 
 
 ## § 4 Struktur und Inhalte der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -131,6 +136,7 @@ Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -151,6 +157,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000701119)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres
@@ -248,6 +255,7 @@ Polsterteils statt.
 
 
 ## § 7 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000801119)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -449,6 +457,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -530,6 +539,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE001000000)
 
 Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2014
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -539,6 +549,7 @@ Auszubildende die Zwischenprüfung noch nicht absolviert hat.
 
 
 ## § 10 Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE001100000)
 
 Die erfolgreich abgeschlossene Berufsausbildung zum Polster- und
 Dekorationsnäher oder zur Polster- und Dekorationsnäherin kann im
@@ -547,6 +558,7 @@ dieser Verordnung angerechnet werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Polsterer/zur Polsterin
@@ -557,6 +569,7 @@ worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer und zur Polsterin
+[Direktlink](https://www.gesetze-im-internet.de/polstausbv_2014/BJNR053900014.html#BJNR053900014BJNE001300000)
 
 (Fundstelle: BGBl. I 2014, 543 - 547)
 

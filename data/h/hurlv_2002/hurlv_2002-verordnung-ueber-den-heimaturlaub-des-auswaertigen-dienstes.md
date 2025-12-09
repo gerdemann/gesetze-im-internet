@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000000000)
 
 Auf Grund des § 18 Abs. 2 des Gesetzes über den Auswärtigen Dienst vom
 30\. August 1990 (BGBl. I S. 1842) verordnet das Auswärtige Amt im
@@ -28,6 +29,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Zusatzurlaub
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000102310)
 
 Beamtinnen und Beamte des Auswärtigen Dienstes an außereuropäischen
 Dienstorten sowie an europäischen Dienstorten mit besonders
@@ -36,6 +38,7 @@ zusätzliche Urlaubstage.
 
 
 ## § 2 Wartezeit, Urlaubsabwicklung
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000201310)
 
 (1) Zusatzurlaub kann frühestens angetreten werden
 
@@ -65,6 +68,7 @@ neuen Dienstort.
 
 
 ## § 3 Reisetage
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000300000)
 
 (1) Für die Reise von einem Dienstort außerhalb Europas ins Inland
 werden neben dem Zusatzurlaub nach § 1 einmal jährlich zusätzliche
@@ -78,6 +82,7 @@ verfallen mit dem Erholungsurlaub.
 
 
 ## § 4 Fahrkostenzuschuss
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000405311)
 
 (1) Zu den Fahrkosten eines Urlaubs im Inland (Heimaturlaub), der ohne
 den Tag der An- und Abreise mindestens zwei Wochen dauert, wird auf
@@ -155,6 +160,7 @@ gewährt, wenn
 
 
 ## § 5 Ausschluss des Fahrkostenzuschusses
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000500000)
 
 (1) Der Fahrkostenzuschuss wird nicht gewährt
 
@@ -188,6 +194,7 @@ dienstlichen Gründen nicht zurückzukehren brauchen.
 
 
 ## § 6 Abschlagszahlung und Abrechnung der Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000602377)
 
 Der Fahrkostenzuschuss ist rechtzeitig schriftlich oder elektronisch
 vor Antritt der Reise bei der zuständigen inländischen Dienststelle zu
@@ -199,21 +206,25 @@ Urlaubsreise abzurechnen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000701310)
 
 (weggefallen)
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000800000)
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 
 ## Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE000902310)
 
 -
 
 
 ## Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hurlv_2002/BJNR178400002.html#BJNR178400002BJNE001002310)
 
 -
 

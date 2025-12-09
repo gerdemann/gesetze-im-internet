@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE000400310)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -32,10 +33,12 @@ Wissenschaft, Forschung und Technologie:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNG000100310)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE000500310)
 
 (1) Dem Geigenbauer-Handwerk sind folgende Tätigkeiten zuzurechnen:
 Entwurf, Herstellung, Instandhaltung und Restaurierung von
@@ -150,10 +153,12 @@ zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNG000200310)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE000600310)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -170,6 +175,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE000700310)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten
 Arbeiten anzufertigen:
@@ -203,6 +209,7 @@ Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE000800310)
 
 (1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten,
 davon in jedem Fall die nach Nummer 1, auszuführen:
@@ -246,6 +253,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE000900310)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern
 nachzuweisen:
@@ -330,16 +338,19 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNG000300310)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE001000310)
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -349,6 +360,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geigbmstrv/BJNR021900998.html#BJNR021900998BJNE001200310)
 
 (1) Diese Verordnung tritt am 1. April 1998 in Kraft.
 

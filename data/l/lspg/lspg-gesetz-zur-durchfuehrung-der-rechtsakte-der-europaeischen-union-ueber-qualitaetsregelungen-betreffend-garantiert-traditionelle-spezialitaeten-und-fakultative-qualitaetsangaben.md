@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000203130)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2024/1143
 des Europäischen Parlaments und des Rates vom 11. April 2024 über
@@ -47,6 +49,7 @@ des Lebensmittelrechts und des Weinrechts.
 
 
 ## § 2 Antrags- und Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000309130)
 
 (1) Zuständig für die Durchführung des in der Verordnung (EU)
 2024/1143 vorgesehenen Verfahrens über
@@ -87,6 +90,7 @@ erfolgt ist.
 
 
 ## § 3 Unterlassungs- und Schadensersatzanspruch
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000405130)
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die
 Artikel 70 Absatz 1 Satz 2 und 3, Artikel 82 Absatz 1 Satz 3 und
@@ -112,6 +116,7 @@ auch gegen den Inhaber des Betriebes begründet.
 
 
 ## § 3a Verbot der widerrechtlichen Nutzung eines geschützten Namens
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE001201130)
 
 Es ist verboten, ein Lebensmittel oder Agrarerzeugnis unter
 
@@ -138,6 +143,7 @@ Produktspezifikation entspricht.
 
 
 ## § 4 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000507116)
 
 (1) Die nach den in § 1 Abs. 1 genannten Rechtsakten erforderliche
 Überwachung und Kontrolle (Überwachung) obliegt den nach Landesrecht
@@ -201,6 +207,7 @@ zu regeln.
 
 
 ## § 5 Private Kontrollstellen
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000602130)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 Durchführung der nach Artikel 72 Absatz 6 der Verordnung (EU)
@@ -215,9 +222,11 @@ auf andere Behörden zu übertragen.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000701116)
 
 
 ## § 7 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000804116)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 3a ein Lebensmittel oder Agrarerzeugnis in
@@ -229,6 +238,7 @@ Verkehr bringt.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE000903130)
 
 (1) Ordnungswidrig handelt, wer eine der in § 7 Abs. 1 bezeichneten
 Handlungen fahrlässig begeht.
@@ -283,6 +293,7 @@ werden.
 
 
 ## § 9 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE001000307)
 
 Ist eine Straftat nach § 7 Abs. 1 oder 2 oder eine Ordnungswidrigkeit
 nach § 8 Abs. 1 oder 2 begangen worden, so können Gegenstände, auf die
@@ -293,6 +304,7 @@ des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 
 ## § 9a Geändertes Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE001300130)
 
 (1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf
 Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche
@@ -322,6 +334,7 @@ Rechtsakt
 
 
 ## § 9b Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE001400130)
 
 Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
@@ -335,6 +348,7 @@ geltenden Fassung weiter anzuwenden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lspg/BJNR181400993.html#BJNR181400993BJNE001100307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulproteilnv/BJNR128800017.html#BJNR128800017BJNE000100000)
 
 Auf Grund des § 6 Absatz 1 Satz 1 des Landwirtschaftserzeugnisse-
 Schulprogrammgesetzes vom 13. Dezember 2016 (BGBl. I S. 2858)
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Anzeige- und Übermittlungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulproteilnv/BJNR128800017.html#BJNR128800017BJNE000201119)
 
 (1) Die Länder zeigen ihre Teilnahme am Schulprogramm für
 landwirtschaftliche Erzeugnisse nach § 3 Absatz 1 des
@@ -56,6 +58,7 @@ vorangeht.
 
 
 ## § 2 Vorläufige und endgültige Mittelzuweisung
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulproteilnv/BJNR128800017.html#BJNR128800017BJNE000301119)
 
 (1) Das Bundesministerium teilt den Ländern die voraussichtliche Höhe
 der auf die Länder entfallenden vorläufigen Mittelzuweisung nach § 4
@@ -75,14 +78,17 @@ entsprechend.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulproteilnv/BJNR128800017.html#BJNR128800017BJNE000401119)
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulproteilnv/BJNR128800017.html#BJNR128800017BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulproteilnv/BJNR128800017.html#BJNR128800017BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

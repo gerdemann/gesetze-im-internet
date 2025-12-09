@@ -20,12 +20,15 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen für Investmentvermögen und Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000200000)
 
 
 #### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE041100128)
 
 (1) Investmentvermögen ist jeder Organismus für gemeinsame Anlagen,
 der von einer Anzahl von Anlegern Kapital einsammelt, um es gemäß
@@ -727,6 +730,7 @@ folgt bestimmt:
 
 
 #### § 2 Ausnahmebestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000307311)
 
 (1) Dieses Gesetz ist nicht anzuwenden auf
 
@@ -962,6 +966,7 @@ dieses Gesetzes anzuwenden.
 
 
 #### § 3 Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000400000)
 
 (1) Die Bezeichnungen „Kapitalverwaltungsgesellschaft“,
 „Investmentvermögen“, „Investmentfonds“ oder „Investmentgesellschaft“
@@ -996,6 +1001,7 @@ anzuwenden.
 
 
 #### § 4 Namensgebung; Fondskategorien
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000500000)
 
 (1) Die Bezeichnung des Sondervermögens, der
 Investmentaktiengesellschaft oder der Investmentkommanditgesellschaft
@@ -1008,6 +1014,7 @@ der Satzung oder dem Gesellschaftsvertrag entspricht.
 
 
 #### § 5 Zuständige Behörde; Aufsicht; Anordnungsbefugnis; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000615128)
 
 (1) Die Bundesanstalt übt die Aufsicht nach den Vorschriften dieses
 Gesetzes aus.
@@ -1353,6 +1360,7 @@ entsprechend.
 
 
 #### § 6 Besondere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000700000)
 
 § 6a des Kreditwesengesetzes ist entsprechend anzuwenden, wenn
 Tatsachen vorliegen, die darauf schließen lassen, dass die
@@ -1364,6 +1372,7 @@ Durchführung einer Finanztransaktion dienen würden.
 
 
 #### § 7 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000803128)
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf
@@ -1386,6 +1395,7 @@ ebenfalls keine aufschiebende Wirkung.
 
 
 #### § 7a Bekanntmachung von sofort vollziehbaren Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036700118)
 
 (1) Die Bundesanstalt macht Maßnahmen, die nach § 7 sofort vollziehbar
 sind, auf ihrer Internetseite öffentlich bekannt, soweit dies bei
@@ -1408,6 +1418,7 @@ Jahren.
 
 
 #### § 7b Elektronische Kommunikation; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040501128)
 
 (1) Verwaltungsgesellschaften, Investmentgesellschaften,
 Verwahrstellen, interessierte Erwerber nach § 19 Absatz 1 Satz 1 oder
@@ -1560,6 +1571,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 8 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE000902128)
 
 Die bei der Bundesanstalt beschäftigten und von ihr beauftragten
 Personen sowie die im Dienst der Deutschen Bundesbank stehenden
@@ -1573,6 +1585,7 @@ des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 
 #### § 9 Zusammenarbeit mit anderen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001006123)
 
 (1) Die Bundesanstalt arbeitet eng mit der Europäischen Wertpapier-
 und Marktaufsichtsbehörde, dem Europäischen Ausschuss für
@@ -1801,6 +1814,7 @@ Beachtung des Verfahrens nach Artikel 36 Absatz 6 dieser Verordnung.
 
 
 #### § 10 Allgemeine Vorschriften für die Zusammenarbeit bei der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001101118)
 
 (1) Die Bundesanstalt kann bei der Ausübung der Aufgaben und
 Befugnisse, die ihr nach diesem Gesetz übertragen werden, die
@@ -1916,6 +1930,7 @@ technischen Durchführungsstandards.
 
 
 #### § 11 Besondere Vorschriften für die Zusammenarbeit bei grenzüberschreitender Verwaltung und grenzüberschreitendem Vertrieb von AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001203123)
 
 (1) Stellt die Bundesanstalt fest, dass eine EU-AIF-
 Verwaltungsgesellschaft oder eine ausländische AIF-
@@ -2124,6 +2139,7 @@ kommt das in Artikel 44 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr.
 
 
 #### § 12 Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an die das Unternehmensregister führende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001310311)
 
 (1) Die Bundesanstalt meldet der Europäischen Kommission auf deren
 Verlangen
@@ -2507,6 +2523,7 @@ Ein Bekanntwerden im Sinne des Satzes 1 ist gegeben:
 
 
 #### § 13 Informationsaustausch mit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001401123)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank haben einander
 Beobachtungen und Feststellungen mitzuteilen, die für die Erfüllung
@@ -2572,6 +2589,7 @@ entsprechend.
 
 
 #### § 14 Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001502123)
 
 Kapitalverwaltungsgesellschaften, extern verwaltete
 Investmentgesellschaften, Gesellschaften in den sonstigen nach diesem
@@ -2584,6 +2602,7 @@ Kreditwesengesetzes genannten Prüfungsbefugnisse entsprechend zu.
 
 
 #### § 15 Einschreiten gegen unerlaubte Investmentgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001601118)
 
 (1) Wird die kollektive Vermögensverwaltung ohne die erforderliche
 Registrierung nach § 44 oder ohne die erforderliche Erlaubnis nach §§
@@ -2636,6 +2655,7 @@ Unabhängigkeit des Abwicklers zu besorgen ist.
 
 
 #### § 16 Verfolgung unerlaubter Investmentgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001703119)
 
 (1) Ein Unternehmen, bei dem feststeht oder Tatsachen die Annahme
 rechtfertigen, dass es unerlaubte Investmentgeschäfte betreibt oder
@@ -2745,12 +2765,15 @@ Weise, wie sie die betreffende Information zuvor bekannt gegeben hat.
 
 
 ### Abschnitt 2 - Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000300000)
 
 
 #### Unterabschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000400000)
 
 
 ##### § 17 Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001800000)
 
 (1) Kapitalverwaltungsgesellschaften sind Unternehmen mit
 satzungsmäßigem Sitz und Hauptverwaltung im Inland, deren
@@ -2785,6 +2808,7 @@ der Anforderungen dieses Gesetzes verantwortlich ist.
 
 
 ##### § 18 Externe Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE001903118)
 
 (1) Externe Kapitalverwaltungsgesellschaften dürfen nur in der
 Rechtsform der Aktiengesellschaft, der Gesellschaft mit beschränkter
@@ -2867,6 +2891,7 @@ Kapitalverwaltungsgesellschaft in Kenntnis.
 
 
 ##### § 19 Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002004128)
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen
 Personen oder Unternehmen eine bedeutende Beteiligung an einer
@@ -2974,6 +2999,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 20 Erlaubnis zum Geschäftsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002105311)
 
 (1) Der Geschäftsbetrieb einer Kapitalverwaltungsgesellschaft bedarf
 der Erlaubnis der Bundesanstalt. Die Bundesanstalt kann die Erlaubnis
@@ -3153,6 +3179,7 @@ gewähren.
 
 
 ##### § 21 Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft und Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002201128)
 
 (1) Der Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft
 muss enthalten:
@@ -3214,6 +3241,7 @@ Angaben und Unterlagen noch aktuell sind.
 
 
 ##### § 22 Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft und Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002302128)
 
 (1) Der Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft
 muss enthalten:
@@ -3323,6 +3351,7 @@ Absatz 1 Nummer 6, 9, 12, 13 und 14 genannte Angaben nachgereicht hat.
 
 
 ##### § 23 Versagung der Erlaubnis einer Kapitalverwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002402128)
 
 Einer Kapitalverwaltungsgesellschaft ist die Erlaubnis zu versagen,
 wenn
@@ -3393,6 +3422,7 @@ wenn
 
 
 ##### § 24 Anhörung der zuständigen Stellen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum; Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002502118)
 
 (1) Soll eine Erlaubnis einer OGAW-Kapitalverwaltungsgesellschaft oder
 einer AIF-Kapitalverwaltungsgesellschaft erteilt werden, die
@@ -3436,6 +3466,7 @@ zu verstehen.
 
 
 ##### § 25 Kapitalanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002604123)
 
 (1) Eine Kapitalverwaltungsgesellschaft muss
 
@@ -3576,9 +3607,11 @@ Delegierten Verordnung (EU) Nr. 231/2013.
 
 
 #### Unterabschnitt 2 - Allgemeine Verhaltens- und Organisationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000500000)
 
 
 ##### § 26 Allgemeine Verhaltensregeln; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002702118)
 
 (1) Die Kapitalverwaltungsgesellschaft handelt bei der Wahrnehmung
 ihrer Aufgaben unabhängig von der Verwahrstelle und ausschließlich im
@@ -3690,6 +3723,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 27 Interessenkonflikte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002801000)
 
 (1) Eine Kapitalverwaltungsgesellschaft hat alle angemessenen
 Maßnahmen zu treffen, um Interessenkonflikte zu ermitteln, die im
@@ -3786,6 +3820,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 28 Allgemeine Organisationspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE002910128)
 
 (1) Die Kapitalverwaltungsgesellschaft muss über eine ordnungsgemäße
 Geschäftsorganisation verfügen, die die Einhaltung der von der
@@ -3904,6 +3939,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 28a Zusätzliche Organisationsanforderungen bei der Verwaltung von Entwicklungsförderungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038000123)
 
 (1) AIF-Kapitalverwaltungsgesellschaften, die einen
 Entwicklungsförderungsfonds verwalten, müssen sich den Anforderungen
@@ -3943,6 +3979,7 @@ erfolgen.
 
 
 ##### § 29 Risikomanagement; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003005123)
 
 (1) Die Kapitalverwaltungsgesellschaft hat eine dauerhafte
 Risikocontrollingfunktion einzurichten und aufrechtzuerhalten, die von
@@ -4103,6 +4140,7 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 30 Liquiditätsmanagement; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003101000)
 
 (1) Die Kapitalverwaltungsgesellschaft muss über ein angemessenes
 Liquiditätsmanagementsystem für jedes von ihr verwaltete
@@ -4142,6 +4180,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 31 Primebroker
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003201123)
 
 (1) Nimmt die AIF-Kapitalverwaltungsgesellschaft für Rechnung des AIF
 die Dienstleistungen eines Primebrokers in Anspruch, müssen die
@@ -4160,6 +4199,7 @@ vorzunehmen.
 
 
 ##### § 32 Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003301118)
 
 Sofern die Kapitalverwaltungsgesellschaft die Erlaubnis zur Erbringung
 der Finanzportfolioverwaltung im Sinne des § 20 Absatz 2 Nummer 1 oder
@@ -4172,6 +4212,7 @@ findet entsprechend Anwendung.
 
 
 ##### § 33 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003400000)
 
 Auf die Werbung von Kapitalverwaltungsgesellschaften und extern
 verwalteten Investmentgesellschaften findet § 23 des
@@ -4179,6 +4220,7 @@ Kreditwesengesetzes entsprechend Anwendung.
 
 
 ##### § 34 Anzeigepflichten von Verwaltungsgesellschaften gegenüber der Bundesanstalt und der Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003503123)
 
 (1) Eine Kapitalverwaltungsgesellschaft hat der Bundesanstalt alle
 wesentlichen Änderungen der Voraussetzungen für die Erlaubnis,
@@ -4301,6 +4343,7 @@ erwerben, gilt § 14 des Kreditwesengesetzes entsprechend.
 
 
 ##### § 35 Meldepflichten von AIF-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003601118)
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft unterrichtet die
 Bundesanstalt regelmäßig über die wichtigsten Märkte und Instrumente,
@@ -4442,6 +4485,7 @@ Datenstrukturen und Übertragungswege festlegen.
 
 
 ##### § 36 Auslagerung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003702123)
 
 (1) Die Kapitalverwaltungsgesellschaft kann Aufgaben auf ein anderes
 Unternehmen (Auslagerungsunternehmen) unter den folgenden Bedingungen
@@ -4656,6 +4700,7 @@ die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 37 Vergütungssysteme; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003802118)
 
 (1) Kapitalverwaltungsgesellschaften legen jeweils für
 Geschäftsleiter, Mitarbeiter, deren Tätigkeiten einen wesentlichen
@@ -4723,6 +4768,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 38 Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE003912128)
 
 (1) Für den Jahresabschluss, den Lagebericht und den Prüfungsbericht
 einer externen Kapitalverwaltungsgesellschaft gelten die §§ 340a bis
@@ -4837,9 +4883,11 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### Unterabschnitt 3 - Weitere Maßnahmen der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000600000)
 
 
 ##### § 39 Erlöschen und Aufhebung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004009311)
 
 (1) Die Erlaubnis erlischt, wenn die Kapitalverwaltungsgesellschaft
 
@@ -4928,6 +4976,7 @@ oder die Erlaubnis erlischt.
 
 
 ##### § 40 Maßnahmen gegen Geschäftsleiter und Aufsichtsorganmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004103128)
 
 (1) In den Fällen des § 39 Absatz 3 kann die Bundesanstalt, statt die
 Erlaubnis aufzuheben, die Abberufung der verantwortlichen
@@ -5097,6 +5146,7 @@ nach den Vorschriften der Mitbestimmungsgesetze.
 
 
 ##### § 41 Maßnahmen bei unzureichenden Eigenmitteln
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004201128)
 
 Entsprechen bei einer Kapitalverwaltungsgesellschaft die Eigenmittel
 nicht den Anforderungen des § 25 oder im Fall des § 5 Absatz 2 Satz 1
@@ -5114,6 +5164,7 @@ entsprechend anzuwenden.
 
 
 ##### § 42 Maßnahmen bei Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004300000)
 
 Die Bundesanstalt kann zur Abwendung einer Gefahr in folgenden Fällen
 geeignete und erforderliche Maßnahmen ergreifen:
@@ -5135,6 +5186,7 @@ geeignete und erforderliche Maßnahmen ergreifen:
 
 
 ##### § 43 Insolvenzantrag, Unterrichtung der Gläubiger im Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004401118)
 
 (1) Auf den Fall der Zahlungsunfähigkeit, der Überschuldung oder der
 drohenden Zahlungsunfähigkeit einer Kapitalverwaltungsgesellschaft ist
@@ -5147,9 +5199,11 @@ unterrichten.
 
 
 #### Unterabschnitt 4 - Pflichten für registrierungspflichtige AIF-Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000700000)
 
 
 ##### § 44 Registrierung und Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004510128)
 
 (1) AIF-Kapitalverwaltungsgesellschaften, bei denen die
 Voraussetzungen nach § 2 Absatz 4 Satz 2 vorliegen,
@@ -5328,6 +5382,7 @@ Datenstrukturen und Übertragungswege festlegen.
 
 
 ##### § 45 Jahresabschluss und Lagebericht von registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004604311)
 
 Bei einer Kapitalverwaltungsgesellschaft, bei der die Voraussetzungen
 nach § 2 Absatz 4 Satz 2 vorliegen und auf die § 44 Absatz 1 Nummer 7
@@ -5355,6 +5410,7 @@ Handelsgesetzbuchs sind nicht anzuwenden.
 
 
 ##### § 45a Abschlussprüfung bei registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040801128)
 
 (1) Der Jahresabschluss und der Lagebericht einer
 Kapitalverwaltungsgesellschaft im Sinne des § 45 sind durch einen
@@ -5412,6 +5468,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 46 Jahresabschluss und Lagebericht von extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004701311)
 
 Bei einem extern verwalteten geschlossenen inländischen Spezial-AIF,
 für dessen Rechnung eine AIF-Kapitalverwaltungsgesellschaft, die die
@@ -5438,6 +5495,7 @@ Handelsgesetzbuchs sind nicht anzuwenden.
 
 
 ##### § 47 Abschlussprüfung bei extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004804128)
 
 (1) Der Jahresabschluss und der Lagebericht eines geschlossenen
 inländischen Spezial-AIF im Sinne des § 46 sind durch einen
@@ -5486,17 +5544,21 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE004903311)
 
 
 
 ##### § 48a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036803311)
 
 
 
 #### Unterabschnitt 5 - Grenzüberschreitender Dienstleistungsverkehr bei OGAW-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000800000)
 
 
 ##### § 49 Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr durch OGAW-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005002123)
 
 (1) Eine OGAW-Kapitalverwaltungsgesellschaft hat der Bundesanstalt die
 Absicht, eine Zweigniederlassung in einem anderen Mitgliedstaat der
@@ -5664,6 +5726,7 @@ der Europäischen Union mit Drittstaaten erforderlich ist.
 
 
 ##### § 50 Besonderheiten für die Verwaltung von EU-OGAW durch OGAW-Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005102123)
 
 (1) Beabsichtigt eine OGAW-Kapitalverwaltungsgesellschaft, über eine
 Zweigniederlassung oder im Wege des grenzüberschreitenden
@@ -5722,6 +5785,7 @@ anzuwenden.
 
 
 ##### § 51 Inländische Zweigniederlassungen und grenzüberschreitender Dienstleistungsverkehr von EU-OGAW-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005205123)
 
 (1) Eine EU-OGAW-Verwaltungsgesellschaft darf ohne Erlaubnis der
 Bundesanstalt über eine inländische Zweigniederlassung oder im Wege
@@ -5897,6 +5961,7 @@ die Zweigniederlassungen im Sinne des Absatzes 1 Satz 1 entsprechend.
 
 
 ##### § 52 Besonderheiten für die Verwaltung inländischer OGAW durch EU-OGAW-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005303123)
 
 (1) Die Verwaltung eines inländischen OGAW durch eine EU-OGAW-
 Verwaltungsgesellschaft über eine Zweigniederlassung oder im Wege des
@@ -5970,9 +6035,11 @@ inländische OGAW verwaltet, sind ungeachtet der Anforderungen nach §
 
 
 #### Unterabschnitt 6 - Grenzüberschreitender Dienstleistungsverkehr und Drittstaatenbezug bei AIF-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG000900000)
 
 
 ##### § 53 Verwaltung von EU-AIF durch AIF-Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005403128)
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, die über
 eine Erlaubnis nach den §§ 20, 22 verfügt, erstmals im Wege des
@@ -6064,6 +6131,7 @@ des Aufnahmemitgliedstaates der AIF-Kapitalverwaltungsgesellschaft.
 
 
 ##### § 54 Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von EU-AIF-Verwaltungsgesellschaften im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005503123)
 
 (1) Die Verwaltung eines inländischen Spezial-AIF oder die Erbringung
 von Dienst- und Nebendienstleistungen nach Artikel 6 Absatz 4 der
@@ -6151,6 +6219,7 @@ die Zweigniederlassungen im Sinne des Absatzes 1 entsprechend.
 
 
 ##### § 55 Bedingungen für AIF-Kapitalverwaltungsgesellschaften, welche ausländische AIF verwalten, die weder in den Mitgliedstaaten der Europäischen Union noch in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vertrieben werden
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005600000)
 
 (1) Die Verwaltung von ausländischen AIF, die weder in den
 Mitgliedstaaten der Europäischen Union noch in den Vertragsstaaten des
@@ -6179,6 +6248,7 @@ den Leitlinien der Europäischen Wertpapier- und Marktaufsichtsbehörde.
 
 
 ##### § 56 Bestimmung der Bundesrepublik Deutschland als Referenzmitgliedstaat einer ausländischen AIF-Verwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005700000)
 
 (1) Die Bundesrepublik Deutschland ist Referenzmitgliedstaat einer
 ausländischen AIF-Verwaltungsgesellschaft,
@@ -6242,6 +6312,7 @@ ihre Vertriebsstrategie offenlegt.
 
 
 ##### § 57 Zulässigkeit der Verwaltung von inländischen Spezial-AIF und EU-AIF sowie des Vertriebs von AIF gemäß den §§ 325, 326, 333 oder 334 durch ausländische AIF-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005801123)
 
 (1) Eine ausländische AIF-Verwaltungsgesellschaft, für die die
 Bundesrepublik Deutschland Referenzmitgliedstaat nach § 56 ist und die
@@ -6311,6 +6382,7 @@ Verwaltungs- und Vertriebstätigkeiten wahr.
 
 
 ##### § 58 Erteilung der Erlaubnis für eine ausländische AIF-Verwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE005901123)
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft,
 inländische Spezial-AIF oder EU-AIF zu verwalten oder von ihr
@@ -6530,6 +6602,7 @@ einzuhalten, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
 
 ##### § 59 Befreiung einer ausländischen AIF-Verwaltungsgesellschaft von Bestimmungen der Richtlinie 2011/61/EU
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006000000)
 
 (1) Ist die Bundesanstalt der Auffassung, dass die ausländische AIF-
 Verwaltungsgesellschaft gemäß § 57 Absatz 2 Satz 2 von der Einhaltung
@@ -6567,6 +6640,7 @@ Wirtschaftsraum unter Angabe ihrer Gründe in Kenntnis.
 
 
 ##### § 60 Unterrichtung der Europäischen Wertpapier- und Marktaufsichtsbehörde im Hinblick auf die Erlaubnis einer ausländischen AIF-Verwaltungsgesellschaft durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006100000)
 
 (1) Die Bundesanstalt unterrichtet die Europäische Wertpapier- und
 Marktaufsichtsbehörde unverzüglich über das Ergebnis des
@@ -6586,6 +6660,7 @@ Informationen vertraulich.
 
 
 ##### § 61 Änderung des Referenzmitgliedstaates einer ausländischen AIF-Verwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006200000)
 
 (1) Die weitere Geschäftsentwicklung einer ausländischen AIF-
 Verwaltungsgesellschaft in den Mitgliedstaaten der Europäischen Union
@@ -6692,6 +6767,7 @@ des bisherigen Referenzmitgliedstaates als Erlaubnis im Sinne des §
 
 
 ##### § 62 Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006300000)
 
 (1) Sofern die Bundesrepublik Deutschland Referenzmitgliedstaat einer
 ausländischen AIF-Verwaltungsgesellschaft ist oder als solcher in
@@ -6711,6 +6787,7 @@ Anleger seinen Sitz hat und unterliegen dessen Gerichtsbarkeit.
 
 
 ##### § 63 Verweismöglichkeiten der Bundesanstalt an die Europäische Wertpapier- und Marktaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006400000)
 
 Die Bundesanstalt kann die folgenden Angelegenheiten der Europäischen
 Wertpapier- und Marktaufsichtsbehörde zur Kenntnis bringen, die im
@@ -6761,6 +6838,7 @@ Rahmen der ihr durch Artikel 19 der Verordnung (EU) Nr.
 
 
 ##### § 64 Vergleichende Analyse der Zulassung von und der Aufsicht über ausländische AIF-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006500000)
 
 (1) Sofern die Europäische Wertpapier- und Marktaufsichtsbehörde nach
 Artikel 38 Absatz 4 der Richtlinie 2011/61/EU Leitlinien und
@@ -6779,6 +6857,7 @@ Marktaufsichtsbehörde unter Angabe der Gründe mit.
 
 
 ##### § 65 Verwaltung von EU-AIF durch ausländische AIF-Verwaltungsgesellschaften, für die die Bundesrepublik Deutschland Referenzmitgliedstaat ist
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006601123)
 
 (1) Die Verwaltung eines EU-AIF durch eine ausländische AIF-
 Verwaltungsgesellschaft, für die die Bundesrepublik Deutschland gemäß
@@ -6864,6 +6943,7 @@ Verwaltungsgesellschaft von diesen Änderungen.
 
 
 ##### § 66 Inländische Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von ausländischen AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006702123)
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren
 Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist,
@@ -6932,6 +7012,7 @@ entsprechend anzuwenden.
 
 
 ##### § 67 Jahresbericht für EU-AIF und ausländische AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006802118)
 
 (1) Jede AIF-Kapitalverwaltungsgesellschaft ist verpflichtet, für
 jeden von ihr verwalteten EU-AIF und für jeden von ihr in der
@@ -7012,12 +7093,15 @@ ausländische AIF seinen satzungsmäßigen Sitz hat.
 
 
 ### Abschnitt 3 - Verwahrstelle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001000000)
 
 
 #### Unterabschnitt 1 - Vorschriften für OGAW-Verwahrstellen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001100000)
 
 
 ##### § 68 Beauftragung und jährliche Prüfung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE006907128)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass
 für jeden von ihr verwalteten OGAW eine Verwahrstelle im Sinne des
@@ -7126,6 +7210,7 @@ die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 69 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007002118)
 
 (1) Die Auswahl sowie jeder Wechsel der Verwahrstelle bedürfen der
 Genehmigung der Bundesanstalt. Die Bundesanstalt kann die Genehmigung
@@ -7179,6 +7264,7 @@ OGAW tätigen oder entgegennehmen kann.
 
 
 ##### § 70 Interessenkollision
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007102118)
 
 (1) Die Verwahrstelle handelt bei der Wahrnehmung ihrer Aufgaben
 ehrlich, redlich, professionell, unabhängig und ausschließlich im
@@ -7254,6 +7340,7 @@ erhaltenen Finanzinstrumenten wird auf Artikel 15 der Verordnung (EU)
 
 
 ##### § 71 Ausgabe und Rücknahme von Anteilen oder Aktien eines inländischen OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007201311)
 
 (1) Die Verwahrstelle hat die Anteile oder Aktien eines inländischen
 OGAW auszugeben und zurückzunehmen. Anteile oder Aktien dürfen nur
@@ -7286,6 +7373,7 @@ Verwaltungsgesellschaft ausgezahlt werden.
 
 
 ##### § 72 Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007303118)
 
 (1) Die Verwahrstelle hat die Vermögensgegenstände des inländischen
 OGAW oder der für Rechnung des inländischen OGAW handelnden OGAW-
@@ -7377,6 +7465,7 @@ verwiesen.
 
 
 ##### § 73 Unterverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007402118)
 
 (1) Die Verwahrstelle kann die Verwahraufgaben nach § 72 unter den
 folgenden Bedingungen auf ein anderes Unternehmen (Unterverwahrer)
@@ -7520,6 +7609,7 @@ Verordnung (EU) 2016/438 verwiesen.
 
 
 ##### § 74 Zahlung und Lieferung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007502118)
 
 (1) Die Verwahrstelle hat folgende Geldbeträge auf einem für den
 inländischen OGAW eingerichteten gesperrten Konto zu verbuchen:
@@ -7581,6 +7671,7 @@ Delegierten Verordnung (EU) 2016/438 verwiesen.
 
 
 ##### § 75 Zustimmungspflichtige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007600000)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf die nachstehenden
 Geschäfte nur mit Zustimmung der Verwahrstelle durchführen:
@@ -7607,6 +7698,7 @@ entsprechend anzuwenden.
 
 
 ##### § 76 Kontrollfunktion
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007702118)
 
 (1) Die Verwahrstelle hat sicherzustellen, dass
 
@@ -7645,6 +7737,7 @@ Verordnung (EU) 2016/438 verwiesen.
 
 
 ##### § 77 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007802118)
 
 (1) Die Verwahrstelle haftet gegenüber dem inländischen OGAW oder
 gegenüber den Anlegern des inländischen OGAW für das Abhandenkommen
@@ -7683,6 +7776,7 @@ nach Absatz 1 Satz 3 von einer Haftung befreit ist, wird auf Artikel
 
 
 ##### § 78 Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE007902118)
 
 (1) Die Verwahrstelle ist berechtigt und verpflichtet, im eigenen
 Namen
@@ -7757,6 +7851,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 79 Vergütung, Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008000000)
 
 (1) Die Verwahrstelle darf der OGAW-Verwaltungsgesellschaft aus den zu
 einem inländischen OGAW gehörenden Konten nur die für die Verwaltung
@@ -7770,9 +7865,11 @@ Verwaltungsgesellschaft entnehmen.
 
 
 #### Unterabschnitt 2 - Vorschriften für AIF-Verwahrstellen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001200000)
 
 
 ##### § 80 Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008105123)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass
 für jeden von ihr verwalteten AIF eine Verwahrstelle im Sinne des
@@ -8002,6 +8099,7 @@ bestimmen sich nach den Artikeln 83 und 84 der Delegierten Verordnung
 
 
 ##### § 81 Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008200000)
 
 (1) Die Verwahrstelle hat die Vermögensgegenstände des inländischen
 AIF oder der für Rechnung des inländischen AIF handelnden AIF-
@@ -8080,6 +8178,7 @@ bestimmen sich nach den Artikeln 85 bis 97 der Delegierten Verordnung
 
 
 ##### § 82 Unterverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008303118)
 
 (1) Die Verwahrstelle kann die Verwahraufgaben nach § 81 auf ein
 anderes Unternehmen (Unterverwahrer) unter den folgenden Bedingungen
@@ -8213,6 +8312,7 @@ Verordnung (EU) 2016/438 entsprechend.
 
 
 ##### § 83 Kontrollfunktion
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008400000)
 
 (1) Die Verwahrstelle hat sicherzustellen, dass
 
@@ -8317,6 +8417,7 @@ nach den Absätzen 1, 5 und 6 bestimmen sich nach den Artikeln 85 bis
 
 
 ##### § 84 Zustimmungspflichtige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008500000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf die nachstehenden
 Geschäfte im Hinblick auf Publikums-AIF nur mit Zustimmung der
@@ -8363,6 +8464,7 @@ entsprechend anzuwenden.
 
 
 ##### § 85 Interessenkollision
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008602118)
 
 (1) Bei der Wahrnehmung ihrer Aufgaben handelt die Verwahrstelle
 ehrlich, redlich, professionell, unabhängig und im Interesse des
@@ -8440,6 +8542,7 @@ entsprechend.
 
 
 ##### § 86 Informationspflichten gegenüber der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008700000)
 
 Die Verwahrstelle stellt der Bundesanstalt auf Anfrage alle
 Informationen zur Verfügung, die sie im Rahmen der Erfüllung ihrer
@@ -8452,6 +8555,7 @@ unverzüglich zur Verfügung.
 
 
 ##### § 87 Anwendbare Vorschriften für Publikums-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008801123)
 
 Für Verwahrstellen, die mit der Verwahrung von Publikums-AIF
 beauftragt sind, gelten zusätzlich zu den Vorschriften dieses
@@ -8465,6 +8569,7 @@ wesentlichen Feststellungen getroffen wurden, angezeigt ist.
 
 
 ##### § 88 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE008902123)
 
 (1) Die Verwahrstelle haftet gegenüber dem inländischen AIF oder
 gegenüber den Anlegern des inländischen AIF für das Abhandenkommen
@@ -8601,6 +8706,7 @@ befreien, sofern die folgenden Bedingungen eingehalten sind:
 
 
 ##### § 89 Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009002118)
 
 (1) Die Verwahrstelle ist berechtigt und verpflichtet, im eigenen
 Namen
@@ -8679,6 +8785,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 89a Vergütung, Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035800116)
 
 (1) Die Verwahrstelle darf der AIF-Verwaltungsgesellschaft aus den zu
 einem inländischen AIF gehörenden Konten nur die für die Verwaltung
@@ -8698,6 +8805,7 @@ einem inländischen AIF gehörenden Konten bei einer anderen Stelle nach
 
 
 ##### § 90 Anwendbare Vorschriften für ausländische AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009100000)
 
 Verwaltet eine AIF-Kapitalverwaltungsgesellschaft einen ausländischen
 AIF und beauftragt sie eine Verwahrstelle mit Sitz in der
@@ -8710,12 +8818,15 @@ entsprechend; § 55 bleibt unberührt.
 
 
 ### Abschnitt 4 - Offene inländische Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001300000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften für offene inländische Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001400000)
 
 
 ##### § 91 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009201123)
 
 (1) Offene inländische Investmentvermögen dürfen nur als
 Sondervermögen gemäß den Vorschriften des Unterabschnitts 2 oder als
@@ -8738,9 +8849,11 @@ Investmentkommanditgesellschaften als Spezial-AIF aufgelegt werden.
 
 
 #### Unterabschnitt 2 - Allgemeine Vorschriften für Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001500000)
 
 
 ##### § 92 Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009300000)
 
 (1) Die zum Sondervermögen gehörenden Vermögensgegenstände können nach
 Maßgabe der Anlagebedingungen im Eigentum der
@@ -8768,6 +8881,7 @@ werden, bilden keine Sondervermögen.
 
 
 ##### § 93 Verfügungsbefugnis, Treuhänderschaft, Sicherheitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009403118)
 
 (1) Die Kapitalverwaltungsgesellschaft ist berechtigt, im eigenen
 Namen über die zu einem Sondervermögen gehörenden Gegenstände nach
@@ -8826,6 +8940,7 @@ fehlenden Betrag in das Sondervermögen einzulegen.
 
 
 ##### § 94 Stimmrechtsausübung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009502118)
 
 Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts
 aus den zu einem Sondervermögen gehörenden Aktien keiner schriftlichen
@@ -8840,6 +8955,7 @@ Weisungen für die Stimmrechtsausübungen bevollmächtigt werden.
 
 
 ##### § 95 Anteilscheine; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009602119)
 
 (1) Die Anteile an Sondervermögen werden in Anteilscheinen verbrieft
 oder als elektronische Anteilscheine begeben. Die Anteilscheine können
@@ -8902,6 +9018,7 @@ Regelungen betreffend die Verwahrstelle.
 
 
 ##### § 96 Anteilklassen und Teilsondervermögen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009702116)
 
 (1) Die Anteile an einem Sondervermögen können unter Berücksichtigung
 der Festlegungen in der Rechtsverordnung nach Absatz 4 nach
@@ -8948,6 +9065,7 @@ kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 97 Sammelverwahrung, Verlust von Anteilscheinen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009802128)
 
 (1) Namensanteilscheine sowie dem jeweiligen Namensanteilschein
 zugehörige, noch nicht fällige Gewinnanteilscheine dürfen in
@@ -8993,6 +9111,7 @@ Haupturkunde vorlegt.
 
 
 ##### § 98 Rücknahme von Anteilen, Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE009903123)
 
 (1) Jeder Anleger kann mindestens zweimal im Monat verlangen, dass ihm
 gegen Rückgabe des Anteils sein Anteil an dem Sondervermögen aus
@@ -9066,6 +9185,7 @@ und 4 bis 6 ist entsprechend anzuwenden.
 
 
 ##### § 99 Kündigung und Verlust des Verwaltungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010000000)
 
 (1) Die Kapitalverwaltungsgesellschaft ist berechtigt, die Verwaltung
 eines Sondervermögens unter Einhaltung einer Kündigungsfrist von sechs
@@ -9108,6 +9228,7 @@ Anlegers zu.
 
 
 ##### § 100 Abwicklung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010101118)
 
 (1) Erlischt das Recht der Kapitalverwaltungsgesellschaft, ein
 Sondervermögen zu verwalten, so geht,
@@ -9139,6 +9260,7 @@ Eingangs der Anzeige zu bestätigen.
 
 
 ##### § 100a Grunderwerbsteuer bei Übergang eines Immobilien-Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036200118)
 
 Erwerbsvorgänge im Sinne des § 1 des Grunderwerbsteuergesetzes, die
 sich aus dem Übergang eines Immobilien-Sondervermögens auf die
@@ -9177,6 +9299,7 @@ rückwirkend.
 
 
 ##### § 100b Übertragung auf eine andere Kapitalverwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036901123)
 
 (1) Anstelle der Kündigung des Verwaltungsrechts und Abwicklung des
 Sondervermögens durch die Verwahrstelle nach den §§ 99 und 100 kann
@@ -9217,6 +9340,7 @@ der Genehmigung der Bundesanstalt.
 
 
 ##### § 101 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010205128)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jedes OGAW-
 Sondervermögen für den Schluss eines jeden Geschäftsjahres spätestens
@@ -9408,6 +9532,7 @@ zusätzlich folgende Angaben enthalten:
 
 
 ##### § 102 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010301128)
 
 Der Jahresbericht des Sondervermögens ist durch einen Abschlussprüfer
 zu prüfen. Der Abschlussprüfer wird von den Gesellschaftern der
@@ -9456,6 +9581,7 @@ Bundesanstalt auf Verlangen einzureichen.
 
 
 ##### § 103 Halbjahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010401118)
 
 Die Kapitalverwaltungsgesellschaft hat für die Publikumssondervermögen
 für die Mitte des Geschäftsjahres einen Halbjahresbericht zu
@@ -9468,6 +9594,7 @@ Nummer 4 aufzunehmen.
 
 
 ##### § 104 Zwischenbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010500000)
 
 (1) Wird das Recht zur Verwaltung eines Sondervermögens während des
 Geschäftsjahres von der Kapitalverwaltungsgesellschaft auf eine andere
@@ -9485,6 +9612,7 @@ prüfen. Auf die Prüfung nach Satz 1 ist § 102 entsprechend anzuwenden.
 
 
 ##### § 105 Auflösungs- und Abwicklungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010600000)
 
 (1) Wird ein Sondervermögen aufgelöst, so hat die
 Kapitalverwaltungsgesellschaft auf den Tag, an dem ihr
@@ -9503,6 +9631,7 @@ Satz 1 ist § 102 entsprechend anzuwenden.
 
 
 ##### § 106 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010703128)
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium der Justiz und für Verbraucherschutz durch
@@ -9521,6 +9650,7 @@ die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 107 Veröffentlichung der Jahres-, Halbjahres-, Zwischen-, Auflösungs- und Abwicklungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010802123)
 
 (1) Der Jahresbericht
 
@@ -9558,9 +9688,11 @@ Anfrage vorgelegt.
 
 
 #### Unterabschnitt 3 - Allgemeine Vorschriften für Investmentaktiengesellschaften mit veränderlichem Kapital
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001600000)
 
 
 ##### § 108 Rechtsform, anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE010902118)
 
 (1) Investmentaktiengesellschaften mit veränderlichem Kapital dürfen
 nur in der Rechtsform der Aktiengesellschaft betrieben werden.
@@ -9600,6 +9732,7 @@ nicht anzuwenden.
 
 
 ##### § 109 Aktien
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011000000)
 
 (1) Die Aktien einer Investmentaktiengesellschaft mit veränderlichem
 Kapital bestehen aus Unternehmensaktien und Anlageaktien; eine
@@ -9644,6 +9777,7 @@ Kapital sind Sacheinlagen unzulässig.
 
 
 ##### § 110 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011103123)
 
 (1) Die Satzung der Investmentaktiengesellschaft mit veränderlichem
 Kapital muss die Bestimmung enthalten, dass der Betrag des
@@ -9688,6 +9822,7 @@ entsprechend.
 
 
 ##### § 111 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011200000)
 
 Die Anlagebedingungen der Investmentaktiengesellschaft mit
 veränderlichem Kapital sind zusätzlich zur Satzung zu erstellen. Die
@@ -9700,6 +9835,7 @@ veröffentlichen oder zur Verfügung zu stellen.
 
 
 ##### § 112 Verwaltung und Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011301118)
 
 (1) Die Investmentaktiengesellschaft mit veränderlichem Kapital kann
 eine ihrem Unternehmensgegenstand entsprechende externe
@@ -9759,6 +9895,7 @@ des Gesellschaftsvermögens betragen.
 
 
 ##### § 113 Erlaubnisantrag und Erlaubniserteilung bei der extern verwalteten OGAW-Investmentaktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011402123)
 
 (1) Eine extern verwaltete OGAW-Investmentaktiengesellschaft bedarf
 zum Geschäftsbetrieb der Erlaubnis durch die Bundesanstalt. Die
@@ -9817,6 +9954,7 @@ untersagen.
 
 
 ##### § 114 Unterschreitung des Anfangskapitals oder der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011500000)
 
 Die intern verwaltete Investmentaktiengesellschaft mit veränderlichem
 Kapital hat der Bundesanstalt und den Aktionären unverzüglich
@@ -9827,6 +9965,7 @@ Aktionären ist durch den Vorstand eine Hauptversammlung einzuberufen.
 
 
 ##### § 115 Gesellschaftskapital
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011600000)
 
 Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem
 Kapital ist ermächtigt, das Gesellschaftskapital wiederholt durch
@@ -9839,6 +9978,7 @@ Gesellschaftskapital erhöht.
 
 
 ##### § 116 Veränderliches Kapital, Rücknahme von Aktien
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011702311)
 
 (1) Die Investmentaktiengesellschaft mit veränderlichem Kapital kann
 in den Grenzen eines in der Satzung festzulegenden Mindestkapitals und
@@ -9873,6 +10013,7 @@ herabgesetzt.
 
 
 ##### § 117 Teilgesellschaftsvermögen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011802116)
 
 (1) Die Investmentaktiengesellschaft mit veränderlichem Kapital kann
 Teilgesellschaftsvermögen bilden. Die Bildung neuer
@@ -9943,6 +10084,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 118 Firma und zusätzliche Hinweise im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE011900000)
 
 (1) Die Firma einer Investmentaktiengesellschaft mit veränderlichem
 Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung
@@ -9962,6 +10104,7 @@ Teilgesellschaftsvermögen hinzuweisen.
 
 
 ##### § 119 Vorstand, Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012001118)
 
 (1) Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem
 Kapital besteht aus mindestens zwei Personen. Er ist verpflichtet,
@@ -10035,6 +10178,7 @@ Gesellschaft an eine geeignete Stelle zu melden.
 
 
 ##### § 120 Jahresabschluss und Lagebericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012106311)
 
 (1) Auf den Jahresabschluss und den Lagebericht einer
 Investmentaktiengesellschaft mit veränderlichem Kapital sind die
@@ -10106,6 +10250,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 121 Prüfung des Jahresabschlusses und des Lageberichts; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012210128)
 
 (1) Der Aufsichtsrat hat den Jahresabschluss und den Lagebericht der
 Investmentaktiengesellschaft mit veränderlichem Kapital zu prüfen und
@@ -10215,6 +10360,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 122 Halbjahres- und Liquidationsbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012301118)
 
 (1) Soweit die Publikumsinvestmentaktiengesellschaft mit
 veränderlichem Kapital zur Aufstellung eines Halbjahresfinanzberichts
@@ -10232,6 +10378,7 @@ die §§ 120 und 121 entsprechend anzuwenden.
 
 
 ##### § 123 Offenlegung und Vorlage des Jahresabschlusses und Lageberichts sowie des Halbjahresberichts
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012404311)
 
 (1) Auf die Offenlegung des Jahresabschlusses und des Lageberichts
 einer Investmentaktiengesellschaft mit veränderlichem Kapital sind die
@@ -10276,9 +10423,11 @@ der Erstellung zu übermitteln.
 
 
 #### Unterabschnitt 4 - Allgemeine Vorschriften für offene Investmentkommanditgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001700000)
 
 
 ##### § 124 Rechtsform, anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012502118)
 
 (1) Offene Investmentkommanditgesellschaften dürfen nur in der
 Rechtsform der Kommanditgesellschaft betrieben werden. Die
@@ -10290,6 +10439,7 @@ und § 96 Absatz 1 entsprechend anwendbar.
 
 
 ##### § 125 Gesellschaftsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012603311)
 
 (1) Der Gesellschaftsvertrag einer offenen
 Investmentkommanditgesellschaft bedarf der Textform.
@@ -10325,6 +10475,7 @@ semiprofessionellen Anlegern erworben werden dürfen.
 
 
 ##### § 126 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012700000)
 
 Die Anlagebedingungen der offenen Investmentkommanditgesellschaft sind
 zusätzlich zum Gesellschaftsvertrag zu erstellen. Die
@@ -10336,6 +10487,7 @@ ebenfalls zu veröffentlichen oder zur Verfügung zu stellen.
 
 
 ##### § 127 Anleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012800000)
 
 (1) Anteile an offenen Investmentkommanditgesellschaften und an
 Teilgesellschaftsvermögen von offenen
@@ -10365,6 +10517,7 @@ Eintritts des Kommanditisten im Handelsregister wirksam.
 
 
 ##### § 128 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE012901118)
 
 (1) Die Geschäftsführung der offenen Investmentkommanditgesellschaft
 besteht aus mindestens zwei Personen. Die Voraussetzung nach Satz 1
@@ -10425,6 +10578,7 @@ ihrer Tätigkeit untersagen, wenn
 
 
 ##### § 129 Verwaltung und Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013002311)
 
 (1) Die offene Investmentkommanditgesellschaft kann eine ihrem
 Unternehmensgegenstand entsprechende externe
@@ -10447,6 +10601,7 @@ anderen externen AIF-Kapitalverwaltungsgesellschaft ist § 100b Absatz
 
 
 ##### § 130 Unterschreitung des Anfangskapitals oder der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013100000)
 
 Eine intern verwaltete offene Investmentkommanditgesellschaft hat der
 Bundesanstalt und den Anlegern unverzüglich anzuzeigen, wenn das
@@ -10457,6 +10612,7 @@ Gesellschafterversammlung einzuberufen.
 
 
 ##### § 131 Gesellschaftsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013200000)
 
 (1) Eine intern verwaltete offene Investmentkommanditgesellschaft darf
 bewegliches und unbewegliches Vermögen erwerben, das für den Betrieb
@@ -10474,6 +10630,7 @@ Kommanditkapital zugeordnet. Sie bilden das Kommanditanlagevermögen.
 
 
 ##### § 132 Teilgesellschaftsvermögen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013301000)
 
 (1) Der Gesellschaftsvertrag kann die Bildung von
 Teilgesellschaftsvermögen vorsehen. Die Teilgesellschaftsvermögen sind
@@ -10533,6 +10690,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 133 Veränderliches Kapital, Kündigung von Kommanditanteilen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013402311)
 
 (1) Kommanditisten können ihre Kommanditbeteiligung in voller Höhe
 oder zu einem Teilbetrag kündigen. Kündigt ein Kommanditist, erhält er
@@ -10556,6 +10714,7 @@ offenen Investmentkommanditgesellschaft.
 
 
 ##### § 134 Firma und zusätzliche Hinweise im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013500000)
 
 (1) Die Firma der offenen Investmentkommanditgesellschaft muss
 abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die
@@ -10573,6 +10732,7 @@ Teilgesellschaftsvermögen hinzuweisen.
 
 
 ##### § 135 Jahresbericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013605311)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für die offene
 Investmentkommanditgesellschaft, auch wenn auf diese § 264a des
@@ -10662,6 +10822,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 136 Abschlussprüfung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013711128)
 
 (1) Der Jahresabschluss und der Lagebericht der offenen
 Investmentkommanditgesellschaft sind durch einen Abschlussprüfer nach
@@ -10747,11 +10908,13 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ##### § 137 Vorlage von Berichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013800000)
 
 Einem Anleger wird der Jahresbericht auf Anfrage vorgelegt.
 
 
 ##### § 138 Auflösung und Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE013902128)
 
 (1) Ein Gesellschafter der offenen Investmentkommanditgesellschaft
 kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten
@@ -10765,12 +10928,15 @@ für die Verbindlichkeiten der offenen Investmentkommanditgesellschaft.
 
 
 ### Abschnitt 5 - Geschlossene inländische Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001800000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften für geschlossene inländische Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG001900000)
 
 
 ##### § 139 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014001123)
 
 Geschlossene inländische Investmentvermögen dürfen nur als
 Investmentaktiengesellschaft mit fixem Kapital gemäß den Vorschriften
@@ -10783,9 +10949,11 @@ Buchstabe b gelten entsprechend.
 
 
 #### Unterabschnitt 2 - Allgemeine Vorschriften für Investmentaktiengesellschaften mit fixem Kapital
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002000000)
 
 
 ##### § 140 Rechtsform, anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014103311)
 
 (1) Investmentaktiengesellschaften mit fixem Kapital dürfen nur in der
 Rechtsform der Aktiengesellschaft betrieben werden. Die Vorschriften
@@ -10808,6 +10976,7 @@ Anlagebedingungen gemäß § 273 der Bundesanstalt vorzulegen.
 
 
 ##### § 141 Aktien
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014200000)
 
 (1) Aktien dürfen nur gegen volle Leistung des Ausgabepreises
 ausgegeben werden.
@@ -10817,6 +10986,7 @@ Sacheinlagen unzulässig.
 
 
 ##### § 142 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014301123)
 
 Satzungsmäßig festgelegter Unternehmensgegenstand der
 Investmentaktiengesellschaft mit fixem Kapital muss ausschließlich die
@@ -10840,6 +11010,7 @@ werden dürfen.
 
 
 ##### § 143 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014400000)
 
 Die Anlagebedingungen der Investmentaktiengesellschaft mit fixem
 Kapital sind zusätzlich zur Satzung zu erstellen. Die
@@ -10853,6 +11024,7 @@ stellen.
 
 
 ##### § 144 Verwaltung und Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014501118)
 
 Die Investmentaktiengesellschaft mit fixem Kapital kann eine ihrem
 Unternehmensgegenstand entsprechende externe
@@ -10914,6 +11086,7 @@ Genehmigung wirksam wird.
 
 
 ##### § 145 Unterschreitung des Anfangskapitals oder der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014600000)
 
 Die intern verwaltete Investmentaktiengesellschaft mit fixem Kapital
 hat der Bundesanstalt und den Aktionären unverzüglich anzuzeigen, wenn
@@ -10924,6 +11097,7 @@ Hauptversammlung einzuberufen.
 
 
 ##### § 146 Firma
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014700000)
 
 Die Firma einer Investmentaktiengesellschaft mit fixem Kapital muss
 abweichend von § 4 des Aktiengesetzes die Bezeichnung
@@ -10932,6 +11106,7 @@ Abkürzung dieser Bezeichnung enthalten.
 
 
 ##### § 147 Vorstand, Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014801118)
 
 (1) Der Vorstand einer Investmentaktiengesellschaft mit fixem Kapital
 besteht aus mindestens zwei Personen. Er ist verpflichtet,
@@ -10997,6 +11172,7 @@ Tätigkeit untersagen, wenn
 
 
 ##### § 148 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE014902123)
 
 (1) Auf den Jahresabschluss und den Lagebericht einer
 Investmentaktiengesellschaft mit fixem Kapital sind die §§ 120, 121,
@@ -11031,9 +11207,11 @@ ermittelte Wert anzusetzen.
 
 
 #### Unterabschnitt 3 - Allgemeine Vorschriften für geschlossene Investmentkommanditgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002100000)
 
 
 ##### § 149 Rechtsform, anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015003311)
 
 (1) Geschlossene Investmentkommanditgesellschaften dürfen nur in der
 Rechtsform der Kommanditgesellschaft betrieben werden. Die
@@ -11055,6 +11233,7 @@ auch § 154 Absatz 2 Satz 1 Nummer 2 gilt.
 
 
 ##### § 150 Gesellschaftsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015102311)
 
 (1) Der Gesellschaftsvertrag einer geschlossenen
 Investmentkommanditgesellschaft bedarf der Schriftform. Abweichend von
@@ -11100,6 +11279,7 @@ werden dürfen.
 
 
 ##### § 151 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015200000)
 
 Die Anlagebedingungen der geschlossenen
 Investmentkommanditgesellschaft sind zusätzlich zum
@@ -11113,6 +11293,7 @@ stellen.
 
 
 ##### § 152 Anleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015300000)
 
 (1) Anleger dürfen sich an der geschlossenen
 Investmentkommanditgesellschaft nur unmittelbar als Kommanditisten
@@ -11167,6 +11348,7 @@ Sacheinlagen unzulässig.
 
 
 ##### § 153 Geschäftsführung, Beirat
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015402118)
 
 (1) Die Geschäftsführung der geschlossenen
 Investmentkommanditgesellschaft besteht aus mindestens zwei Personen.
@@ -11236,6 +11418,7 @@ ihrer Tätigkeit untersagen, wenn
 
 
 ##### § 154 Verwaltung und Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015503311)
 
 (1) Die geschlossene Investmentkommanditgesellschaft kann eine ihrem
 Unternehmensgegenstand entsprechende externe AIF-
@@ -11291,6 +11474,7 @@ der den Anforderungen nach § 158 entspricht.
 
 
 ##### § 155 Unterschreitung des Anfangskapitals oder der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015600000)
 
 Eine intern verwaltete geschlossene Investmentkommanditgesellschaft
 hat der Bundesanstalt und den Anlegern unverzüglich anzuzeigen, wenn
@@ -11301,6 +11485,7 @@ eine Gesellschafterversammlung einzuberufen.
 
 
 ##### § 156 Gesellschaftsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015700000)
 
 (1) Eine intern verwaltete geschlossene
 Investmentkommanditgesellschaft darf bewegliches und unbewegliches
@@ -11319,6 +11504,7 @@ Kommanditanlagevermögen.
 
 
 ##### § 157 Firma
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015800000)
 
 Die Firma der geschlossenen Investmentkommanditgesellschaft muss
 abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die
@@ -11327,6 +11513,7 @@ allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
 
 ##### § 158 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE015900000)
 
 Auf den Jahresbericht einer geschlossenen
 Investmentkommanditgesellschaft ist § 135 anzuwenden. Zusätzlich zu
@@ -11337,6 +11524,7 @@ genannten Angaben und bei einer Beteiligung nach § 261 Absatz 1 Nummer
 
 
 ##### § 159 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016000000)
 
 § 136 ist auf die geschlossene Investmentkommanditgesellschaft
 anzuwenden. § 136 Absatz 3 Satz 4 ist auf die geschlossene
@@ -11347,6 +11535,7 @@ der Prüfung der Bundesanstalt einzureichen ist.
 
 
 ##### § 159a Feststellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038100123)
 
 Der Jahresabschluss einer geschlossenen
 Publikumsinvestmentkommanditgesellschaft ist spätestens sechs Monate
@@ -11355,6 +11544,7 @@ vorzulegen.
 
 
 ##### § 160 Offenlegung und Vorlage von Berichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016104119)
 
 (1) Die Offenlegung des Jahresberichts einer geschlossenen
 Publikumsinvestmentkommanditgesellschaft erfolgt, auch wenn auf diese
@@ -11374,6 +11564,7 @@ wird der Jahresbericht auf Anfrage vorgelegt.
 
 
 ##### § 161 Auflösung und Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016204128)
 
 (1) Das Recht zur ordentlichen Kündigung besteht bei der geschlossenen
 Investmentkommanditgesellschaft nicht.
@@ -11396,15 +11587,19 @@ Investmentkommanditgesellschaft.
 
 
 ## Kapitel 2 - Publikumsinvestmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002200000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften für offene Publikumsinvestmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002300000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002400000)
 
 
 ##### § 162 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016304123)
 
 (1) Die Anlagebedingungen, nach denen sich
 
@@ -11547,6 +11742,7 @@ Verwaltungsgesellschaft mindestens folgende Angaben enthalten:
 
 
 ##### § 163 Genehmigung der Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016402123)
 
 (1) Die Anlagebedingungen sowie deren Änderung bedürfen der
 Genehmigung der Bundesanstalt. Die Genehmigung kann nur von folgenden
@@ -11655,6 +11851,7 @@ ein früherer Zeitpunkt bestimmt werden, soweit es sich um eine
 
 
 ##### § 164 Erstellung von Verkaufsprospekt, Basisinformationsblatt und wesentlichen Anlegerinformationen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016501119)
 
 (1) Die Kapitalverwaltungsgesellschaft oder die EU-OGAW-
 Verwaltungsgesellschaft hat für ein von ihr verwaltetes offenes
@@ -11715,6 +11912,7 @@ erstmaliger Verwendung einzureichen.
 
 
 ##### § 165 Mindestangaben im Verkaufsprospekt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016606123)
 
 (1) Der Verkaufsprospekt eines offenen Publikumsinvestmentvermögens
 muss mit einem Datum versehen sein und die Angaben enthalten, die
@@ -12121,6 +12319,7 @@ kennzeichnen.
 
 
 ##### § 166 Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016706128)
 
 (1) Die wesentlichen Anlegerinformationen sollen den Anleger in die
 Lage versetzen, Art und Risiken des angebotenen Anlageproduktes zu
@@ -12207,6 +12406,7 @@ die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 167 Information mittels eines dauerhaften Datenträgers
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016802123)
 
 (1) Ist für die Übermittlung von Informationen nach diesem Gesetz die
 Verwendung eines dauerhaften Datenträgers vorgesehen, sind die
@@ -12249,6 +12449,7 @@ September 2020 geltenden Fassung weiter sinngemäß anwendbar.
 
 
 ##### § 168 Bewertung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE016902311)
 
 (1) Der Nettoinventarwert je Anteil oder je Aktie ergibt sich aus der
 Teilung des Wertes des offenen Publikumsinvestmentvermögens durch die
@@ -12341,6 +12542,7 @@ kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 169 Bewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017000000)
 
 (1) Die Kapitalverwaltungsgesellschaft hat eine interne
 Bewertungsrichtlinie zu erstellen. Die Bewertungsrichtlinie legt
@@ -12367,6 +12569,7 @@ Nr. 231/2013 entsprechend anzuwenden.
 
 
 ##### § 170 Veröffentlichung des Ausgabe- und Rücknahmepreises und des Nettoinventarwertes
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017100000)
 
 Gibt die Kapitalverwaltungsgesellschaft oder die Verwahrstelle den
 Ausgabepreis bekannt, so ist sie verpflichtet, auch den Rücknahmepreis
@@ -12381,9 +12584,11 @@ Informationsmedien zu veröffentlichen.
 
 
 #### Unterabschnitt 2 - Master-Feeder-Strukturen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002500000)
 
 
 ##### § 171 Genehmigung des Feederfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017202119)
 
 (1) Die Anlage eines Feederfonds in einem Masterfonds bedarf der
 vorherigen Genehmigung durch die Bundesanstalt. Die Anlage eines
@@ -12494,6 +12699,7 @@ entsprechende Bestätigung auszustellen, die bei Antragstellung nicht
 
 
 ##### § 172 Besondere Anforderungen an Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017300000)
 
 (1) Verwaltet eine Kapitalverwaltungsgesellschaft Masterfonds und
 Feederfonds, muss sie so organisiert sein, dass das Risiko von
@@ -12515,6 +12721,7 @@ Masterfonds und Feederfonds, zu treffen.
 
 
 ##### § 173 Verkaufsprospekt, Anlagebedingungen, Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017402119)
 
 (1) Der Verkaufsprospekt eines Feederfonds hat über die Angaben nach §
 165 hinaus mindestens folgende Angaben zu enthalten:
@@ -12613,6 +12820,7 @@ Absatz erforderlich ist.
 
 
 ##### § 174 Anlagegrenzen, Anlagebeschränkungen, Aussetzung der Anteile
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017501116)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für einen Feederfonds
 ungeachtet der Anlagegrenzen nach § 207 Absatz 1, § 210 Absatz 3 und §
@@ -12665,6 +12873,7 @@ des Feederfonds während des gleichen Zeitraums auszusetzen.
 
 
 ##### § 175 Vereinbarungen bei Master-Feeder-Strukturen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017600000)
 
 (1) Die Kapitalverwaltungsgesellschaft des inländischen Masterfonds
 hat der Verwaltungsgesellschaft des Feederfonds alle Unterlagen und
@@ -12695,6 +12904,7 @@ Pflichten erfüllen (Abschlussprüfervereinbarung).
 
 
 ##### § 176 Pflichten der Kapitalverwaltungsgesellschaft und der Verwahrstelle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017701123)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für einen von ihr
 verwalteten Feederfonds die Anlagen des Masterfonds wirksam zu
@@ -12770,6 +12980,7 @@ Aufgaben nach diesem Absatz erforderlich ist.
 
 
 ##### § 177 Mitteilungspflichten der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017801123)
 
 (1) Sind die Anlagebedingungen sowohl des Masterfonds als auch des
 Feederfonds nach den Vorschriften dieses Gesetzes genehmigt worden,
@@ -12826,6 +13037,7 @@ unverzüglich darüber.
 
 
 ##### § 178 Abwicklung eines Masterfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE017902119)
 
 (1) Die Abwicklung eines inländischen Masterfonds darf frühestens drei
 Monate nach dem Zeitpunkt beginnen, zu dem alle Anleger des
@@ -12945,6 +13157,7 @@ nach Satz 1 Nummer 2 jederzeit gegen Barzahlung veräußern.
 
 
 ##### § 179 Verschmelzung oder Spaltung des Masterfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018002119)
 
 (1) Eine Verschmelzung eines inländischen Masterfonds kann nur dann
 wirksam werden, wenn die Kapitalverwaltungsgesellschaft die
@@ -13120,6 +13333,7 @@ Liquiditätsmanagement anlegen.
 
 
 ##### § 180 Umwandlung in Feederfonds oder Änderung des Masterfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018101119)
 
 (1) Werden die Anlagebedingungen eines inländischen OGAW oder eines
 Sonstigen Investmentvermögens im Rahmen der Umwandlung in einen
@@ -13180,9 +13394,11 @@ Anteilen am Masterfonds zulässig.
 
 
 #### Unterabschnitt 3 - Verschmelzung von offenen Publikumsinvestmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002600000)
 
 
 ##### § 181 Gegenstand der Verschmelzung; Verschmelzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018200000)
 
 (1) Spezial-AIF dürfen nicht auf Publikumsinvestmentvermögen
 verschmolzen werden, Publikumsinvestmentvermögen dürfen nicht auf
@@ -13199,6 +13415,7 @@ Absatz 1 Buchstabe p Ziffer iii der Richtlinie 2009/65/EG erfolgen.
 
 
 ##### § 182 Genehmigung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018302119)
 
 (1) Die Verschmelzung von Sondervermögen auf ein anderes bestehendes
 oder ein neues, dadurch gegründetes übernehmendes Sondervermögen
@@ -13342,6 +13559,7 @@ Angaben oder Unterlagen erneut.
 
 
 ##### § 183 Verschmelzung eines EU-OGAW auf ein OGAW-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018401123)
 
 (1) Werden der Bundesanstalt bei einer geplanten Verschmelzung eines
 EU-OGAW auf ein OGAW-Sondervermögen Abschriften der Angaben und
@@ -13371,6 +13589,7 @@ jedoch innerhalb von 20 Arbeitstagen.
 
 
 ##### § 184 Verschmelzungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018500000)
 
 Die Vertretungsorgane der an der Verschmelzung beteiligten
 Rechtsträger haben für gemeinschaftliche Rechnung der Anleger des
@@ -13421,6 +13640,7 @@ verlangt werden.
 
 
 ##### § 185 Prüfung der Verschmelzung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018602118)
 
 (1) Die Verwahrstellen des übertragenden Sondervermögens und des
 übernehmenden Sondervermögens oder EU-OGAW haben zu überprüfen, ob die
@@ -13466,6 +13686,7 @@ kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ##### § 186 Verschmelzungsinformationen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018701119)
 
 (1) Den Anlegern des übertragenden Sondervermögens und des
 übernehmenden Sondervermögens oder EU-OGAW sind von der
@@ -13550,6 +13771,7 @@ und vollständig wiederzugeben.
 
 
 ##### § 187 Rechte der Anleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018801123)
 
 (1) Die Anleger des übertragenden Sondervermögens und des
 übernehmenden Sondervermögens oder EU-OGAW haben das Recht, von der
@@ -13594,6 +13816,7 @@ zu stellen.
 
 
 ##### § 188 Kosten der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE018900000)
 
 Eine Kapitalverwaltungsgesellschaft darf jegliche Kosten, die mit der
 Vorbereitung und Durchführung der Verschmelzung verbunden sind, weder
@@ -13602,6 +13825,7 @@ oder EU-OGAW noch ihren Anlegern in Rechnung stellen.
 
 
 ##### § 189 Wirksamwerden der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019000000)
 
 (1) Die Verschmelzung wird mit Ablauf des Geschäftsjahres des
 übertragenden Sondervermögens wirksam, wenn
@@ -13658,6 +13882,7 @@ geworden ist, kann nicht mehr für nichtig erklärt werden.
 
 
 ##### § 190 Rechtsfolgen der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019100000)
 
 (1) Eine Verschmelzung durch Aufnahme hat folgende Auswirkungen:
 
@@ -13709,6 +13934,7 @@ Sondervermögens oder EU-OGAW ausgegeben.
 
 
 ##### § 191 Verschmelzung mit Investmentaktiengesellschaften mit veränderlichem Kapital
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019201118)
 
 (1) Die §§ 181 bis 190 sind entsprechend anzuwenden auf die
 Verschmelzung
@@ -13766,9 +13992,11 @@ werden.
 
 
 ### Abschnitt 2 - Investmentvermögen gemäß der OGAW-Richtlinie
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002700000)
 
 
 #### § 192 Zulässige Vermögensgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019300000)
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für einen inländischen
 OGAW nur die in den §§ 193 bis 198 genannten Vermögensgegenstände
@@ -13778,6 +14006,7 @@ erworben werden.
 
 
 #### § 193 Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019400000)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf vorbehaltlich des §
 198 für Rechnung eines inländischen OGAW nur Wertpapiere erwerben,
@@ -13852,6 +14081,7 @@ inländischen OGAW befinden können.
 
 
 #### § 194 Geldmarktinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019501118)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf vorbehaltlich des §
 198 für Rechnung eines inländischen OGAW Instrumente, die
@@ -13969,6 +14199,7 @@ garantiert werden, Artikel 6 der Richtlinie 2007/16/EG.
 
 
 #### § 195 Bankguthaben
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019600000)
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung eines
 inländischen OGAW nur Bankguthaben halten, die eine Laufzeit von
@@ -13983,6 +14214,7 @@ gleichwertig sind, gehalten werden.
 
 
 #### § 196 Investmentanteile
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019701116)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft kann für Rechnung eines
 inländischen OGAW Anteile an OGAW erwerben. Anteile an anderen
@@ -14039,6 +14271,7 @@ Rücknahmeabschläge berechnen.
 
 
 #### § 197 Gesamtgrenze; Derivate; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019801000)
 
 (1) Der inländische OGAW darf nur in Derivate, die von Wertpapieren,
 Geldmarktinstrumenten, Investmentanteilen gemäß § 196, Finanzindizes
@@ -14091,6 +14324,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 198 Sonstige Anlageinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE019902118)
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf nur bis zu 10 Prozent des
 Wertes des inländischen OGAW insgesamt anlegen in
@@ -14159,6 +14393,7 @@ Wertes des inländischen OGAW insgesamt anlegen in
 
 
 #### § 199 Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020000000)
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche
 Rechnung der Anleger kurzfristige Kredite nur bis zur Höhe von 10
@@ -14168,6 +14403,7 @@ Anlagebedingungen vorgesehen ist.
 
 
 #### § 200 Wertpapier-Darlehen, Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020101123)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung des
 inländischen OGAW Wertpapiere an einen Dritten (Wertpapier-
@@ -14253,6 +14489,7 @@ unter den Sicherungswert unter Darlegung des Sachverhalts anzuzeigen.
 
 
 #### § 201 Wertpapier-Darlehensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020200000)
 
 In dem Darlehensvertrag zwischen der OGAW-
 Kapitalverwaltungsgesellschaft und dem Wertpapier-Darlehensnehmer sind
@@ -14282,6 +14519,7 @@ festzulegen:
 
 
 #### § 202 Organisierte Wertpapier-Darlehenssysteme
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020301123)
 
 Die OGAW-Kapitalverwaltungsgesellschaft kann sich eines von einer
 Wertpapiersammelbank organisierten Systems zur Vermittlung und
@@ -14291,6 +14529,7 @@ Kündigungsrecht nach § 200 Absatz 1 darf nicht abgewichen werden.
 
 
 #### § 203 Pensionsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020400000)
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung eines
 inländischen OGAW Pensionsgeschäfte im Sinne des § 340b Absatz 2 des
@@ -14308,6 +14547,7 @@ anzurechnen.
 
 
 #### § 204 Verweisung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020501000)
 
 (1) Für die weiteren in den §§ 192 bis 211 genannten
 Vermögensgegenstände gelten die §§ 200 bis 203 sinngemäß.
@@ -14328,6 +14568,7 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 205 Leerverkäufe
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020600000)
 
 Die Kapitalverwaltungsgesellschaft darf für gemeinschaftliche Rechnung
 der Anleger keine Vermögensgegenstände nach Maßgabe der §§ 193, 194
@@ -14338,6 +14579,7 @@ wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
 
 #### § 206 Emittentengrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037900123)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf in Wertpapiere und
 Geldmarktinstrumente desselben Emittenten nur bis zu 5 Prozent des
@@ -14418,6 +14660,7 @@ Emittenten.
 
 
 #### § 207 Erwerb von Anteilen an Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020800000)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf in Anteile an einem
 einzigen Investmentvermögen nach Maßgabe des § 196 Absatz 1 nur bis zu
@@ -14429,6 +14672,7 @@ nur bis zu 30 Prozent des Wertes des inländischen OGAW anlegen.
 
 
 #### § 208 Erweiterte Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE020900000)
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf abweichend von § 206
 Absatz 1 in Wertpapiere und Geldmarktinstrumente desselben Emittenten
@@ -14449,6 +14693,7 @@ inländischen OGAW anlegen, wenn
 
 
 #### § 209 Wertpapierindex-OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021001123)
 
 (1) Abweichend zu den in § 206 Absatz 1 bestimmten Grenzen darf die
 OGAW-Kapitalverwaltungsgesellschaft bis zu 20 Prozent des Wertes des
@@ -14484,6 +14729,7 @@ einem einzigen Emittenten zulässig.
 
 
 #### § 210 Emittentenbezogene Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021100000)
 
 (1) Schuldverschreibungen desselben Emittenten oder
 Geldmarktinstrumente desselben Emittenten darf die OGAW-
@@ -14523,6 +14769,7 @@ erwerben.
 
 
 #### § 211 Überschreiten von Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021200000)
 
 (1) Die in den §§ 198, 206 und 210 bestimmten Grenzen dürfen
 überschritten werden, wenn es sich um den Erwerb von Aktien, die dem
@@ -14547,6 +14794,7 @@ jeweils unter Beachtung des Grundsatzes der Risikostreuung
 
 
 #### § 212 Bewerter; Häufigkeit der Bewertung und Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021300000)
 
 Der Wert eines inländischen OGAW und der Nettoinventarwert je Anteil
 oder Aktie sind bei jeder Möglichkeit zur Ausgabe und Rückgabe von
@@ -14556,17 +14804,21 @@ Kapitalverwaltungsgesellschaft selbst zu ermitteln.
 
 
 #### § 213 Umwandlung von inländischen OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021400000)
 
 Inländische OGAW dürfen nicht in AIF umgewandelt werden.
 
 
 ### Abschnitt 3 - Offene inländische Publikums-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002800000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften für offene inländische Publikums-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG002900000)
 
 
 ##### § 214 Risikomischung, Arten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021501123)
 
 Offene Publikums-AIF müssen nach dem Grundsatz der Risikomischung
 angelegt sein und dürfen nur als Gemischte Investmentvermögen gemäß
@@ -14578,6 +14830,7 @@ werden.
 
 
 ##### § 215 Begrenzung von Leverage durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021600000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat der Bundesanstalt zu
 zeigen, dass die von der AIF-Kapitalverwaltungsgesellschaft angesetzte
@@ -14623,6 +14876,7 @@ Nr. 231/2013 entsprechend.
 
 
 ##### § 216 Bewerter
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021701123)
 
 (1) Die Bewertung der Vermögensgegenstände ist durchzuführen
 
@@ -14698,6 +14952,7 @@ zurückführen lassen.
 
 
 ##### § 217 Häufigkeit der Bewertung und Berechnung; Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021800000)
 
 (1) Die Bewertung der Vermögensgegenstände und die Berechnung des
 Nettoinventarwertes je Anteil oder Aktie sind in einem zeitlichen
@@ -14717,9 +14972,11 @@ hat nach jeder Bewertung zu erfolgen.
 
 
 #### Unterabschnitt 2 - Gemischte Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003000000)
 
 
 ##### § 218 Gemischte Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE021900000)
 
 Gemischte Investmentvermögen sind offene inländische Publikums-AIF,
 die in Vermögensgegenstände nach Maßgabe des § 219 anlegen. Auf die
@@ -14729,6 +14986,7 @@ Vorschriften nichts anderes ergibt.
 
 
 ##### § 219 Zulässige Vermögensgegenstände, Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022000000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines
 Gemischten Investmentvermögens nur erwerben:
@@ -14807,9 +15065,11 @@ Wertpapierindex nachzubilden. § 209 Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### Unterabschnitt 3 - Sonstige Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003100000)
 
 
 ##### § 220 Sonstige Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022100000)
 
 Auf die Verwaltung von Sonstigen Investmentvermögen nach Maßgabe der
 §§ 220 bis 224 sind die Vorschriften der §§ 192 bis 205 insoweit
@@ -14818,6 +15078,7 @@ ergibt.
 
 
 ##### § 221 Zulässige Vermögensgegenstände, Anlagegrenzen, Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022204128)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für ein Sonstiges
 Investmentvermögen nur erwerben:
@@ -14901,6 +15162,7 @@ Risikostreuung überschritten werden.
 
 
 ##### § 222 Mikrofinanzinstitute
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022301123)
 
 (1) Abweichend von § 221 Absatz 5 Satz 1 darf die AIF-
 Kapitalverwaltungsgesellschaft bis zu 95 Prozent des Wertes des
@@ -14974,6 +15236,7 @@ in Bezug auf die in Absatz 1 genannten Anlagemöglichkeiten haben.
 
 
 ##### § 223 Sonderregelungen für die Ausgabe und Rücknahme von Anteilen oder Aktien
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022402128)
 
 (1) Die Anlagebedingungen von Sonstigen Investmentvermögen können
 abweichend von § 98 Absatz 1, Absatz 1b Satz 1 bis 3 oder § 116 Absatz
@@ -15001,6 +15264,7 @@ entsprechend.
 
 
 ##### § 224 Angaben im Verkaufsprospekt und in den Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022502128)
 
 (1) Der Verkaufsprospekt muss bei Sonstigen Investmentvermögen
 zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
@@ -15077,9 +15341,11 @@ zusätzlich zu den Angaben nach § 162 folgende Angaben enthalten:
 
 
 #### Unterabschnitt 4 - Dach-Hedgefonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003200000)
 
 
 ##### § 225 Dach-Hedgefonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022600000)
 
 (1) Dach-Hedgefonds sind AIF, die vorbehaltlich der Regelung in Absatz
 2 in Anteile oder Aktien von Zielfonds anlegen. Zielfonds sind
@@ -15160,6 +15426,7 @@ Bestätigung des Wertes des Zielfonds vorzulegen.
 
 
 ##### § 226 Auskunftsrecht der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022700000)
 
 AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten,
 haben der Bundesanstalt auf Anforderung alle Unterlagen und
@@ -15168,6 +15435,7 @@ vorliegen, vorzulegen.
 
 
 ##### § 227 Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022801116)
 
 (1) Bei Dach-Hedgefonds können die Anlagebedingungen abweichend von §
 98 Absatz 1 oder § 116 Absatz 2 Satz 1 vorsehen, dass die Rücknahme
@@ -15194,6 +15462,7 @@ Kalendertage nach dem Rücknahmetermin gezahlt werden.
 
 
 ##### § 228 Verkaufsprospekt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE022901116)
 
 (1) Der Verkaufsprospekt muss bei Dach-Hedgefonds zusätzlich zu den
 Angaben nach § 165 folgende Angaben enthalten:
@@ -15245,6 +15514,7 @@ Leverage- oder Risikobeschränkungen unterliegen.“
 
 
 ##### § 229 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023000000)
 
 (1) Die Anlagebedingungen von AIF-Kapitalverwaltungsgesellschaften,
 die Dach-Hedgefonds verwalten, müssen die Angaben nach Maßgabe des §
@@ -15287,9 +15557,11 @@ anzugeben.
 
 
 #### Unterabschnitt 5 - Immobilien-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003300000)
 
 
 ##### § 230 Immobilien-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023100000)
 
 (1) Für die Verwaltung von Immobilien-Sondervermögen gelten die
 Vorschriften der §§ 192 bis 211 sinngemäß, soweit sich aus den §§ 231
@@ -15300,6 +15572,7 @@ gebildet werden.
 
 
 ##### § 231 Zulässige Vermögensgegenstände; Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023201116)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für ein Immobilien-
 Sondervermögen nur folgende Vermögensgegenstände erwerben:
@@ -15419,6 +15692,7 @@ entsprechend der Beteiligungshöhe zu berücksichtigen.
 
 
 ##### § 232 Erbbaurechtsbestellung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023300000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf ein Grundstück nur
 unter den in den Anlagebedingungen festgelegten Bedingungen mit einem
@@ -15441,6 +15715,7 @@ worden sind, 10 Prozent des Wertes des Immobilien-Sondervermögens
 
 
 ##### § 233 Vermögensgegenstände in Drittstaaten; Währungsrisiko
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023400000)
 
 (1) Vermögensgegenstände, die sich in Staaten befinden, die keine
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
@@ -15478,6 +15753,7 @@ Vermögensgegenstände 30 Prozent des Wertes des Sondervermögens nicht
 
 
 ##### § 234 Beteiligung an Immobilien-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023501123)
 
 Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung des
 Immobilien-Sondervermögens Beteiligungen an Immobilien-Gesellschaften
@@ -15522,6 +15798,7 @@ hat (Minderheitsbeteiligung). In diesem Fall ist die Anlagegrenze nach
 
 
 ##### § 235 Anforderungen an die Immobilien-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023600000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung des
 Immobilien-Sondervermögens Beteiligungen nur an solchen Immobilien-
@@ -15580,6 +15857,7 @@ eingezahlt haben.
 
 
 ##### § 236 Erwerb der Beteiligung; Wertermittlung durch Abschlussprüfer
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023700000)
 
 (1) Bevor die AIF-Kapitalverwaltungsgesellschaft die Beteiligung an
 einer Immobilien-Gesellschaft erwirbt, ist der Wert der Immobilien-
@@ -15636,6 +15914,7 @@ Immobilien mit dem Wert anzusetzen sind, der
 
 
 ##### § 237 Umfang der Beteiligung; Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023800000)
 
 (1) Der Wert aller Vermögensgegenstände, die zum Vermögen der
 Immobilien-Gesellschaften gehören, an denen die AIF-
@@ -15679,6 +15958,7 @@ Beteiligung unter Wahrung der Interessen der Anleger anzustreben.
 
 
 ##### § 238 Beteiligungen von Immobilien-Gesellschaften an Immobilien-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE023900000)
 
 Für Beteiligungen von Immobilien-Gesellschaften an anderen Immobilien-
 Gesellschaften gelten § 231 Absatz 5, § 235 Absatz 2 bis 4 sowie die
@@ -15686,6 +15966,7 @@ Gesellschaften gelten § 231 Absatz 5, § 235 Absatz 2 bis 4 sowie die
 
 
 ##### § 239 Verbot und Einschränkung von Erwerb und Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024000000)
 
 (1) Ein Vermögensgegenstand nach § 231 Absatz 1 oder nach § 234 darf
 für Rechnung eines Immobilien-Sondervermögens nicht erworben werden,
@@ -15714,6 +15995,7 @@ gehaltenen Vermögensgegenstand nach § 231 Absatz 1 oder nach § 234
 
 
 ##### § 240 Darlehensgewährung an Immobilien-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024101123)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf einer Immobilien-
 Gesellschaft für Rechnung des Immobilien-Sondervermögens ein Darlehen
@@ -15772,6 +16054,7 @@ gewährt.
 
 
 ##### § 241 Zahlungen, Überwachung durch die Verwahrstelle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024200000)
 
 Die AIF-Kapitalverwaltungsgesellschaft hat mit der Immobilien-
 Gesellschaft zu vereinbaren, dass die der AIF-
@@ -15785,12 +16068,14 @@ anderen Immobilien-Gesellschaften erwerben oder halten.
 
 
 ##### § 242 Wirksamkeit eines Rechtsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024300000)
 
 Die Nichtbeachtung der vorstehenden Vorschriften berührt die
 Wirksamkeit des Rechtsgeschäfts nicht.
 
 
 ##### § 243 Risikomischung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024400000)
 
 (1) Der Wert einer Immobilie darf zur Zeit des Erwerbs 15 Prozent des
 Wertes des Sondervermögens nicht übersteigen. Der Gesamtwert aller
@@ -15804,6 +16089,7 @@ Immobilien bestehende wirtschaftliche Einheit.
 
 
 ##### § 244 Anlaufzeit
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024500000)
 
 Die Anlagegrenzen in den §§ 231 bis 238 und 243 sowie § 253 Absatz 1
 Satz 1 gelten für das Immobilien-Sondervermögen einer AIF-
@@ -15813,6 +16099,7 @@ ist.
 
 
 ##### § 245 Treuhandverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024600000)
 
 Abweichend von § 92 Absatz 1 können Vermögensgegenstände, die zum
 Immobilien-Sondervermögen gehören, nur im Eigentum der AIF-
@@ -15820,6 +16107,7 @@ Kapitalverwaltungsgesellschaft stehen.
 
 
 ##### § 246 Verfügungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024700000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat dafür zu sorgen, dass
 die Verfügungsbeschränkung nach § 84 Absatz 1 Nummer 3 in das
@@ -15837,6 +16125,7 @@ Verwahrstelle aufzuerlegen, keinen Gebrauch gemacht hat.
 
 
 ##### § 247 Vermögensaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024800000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat in der
 Vermögensaufstellung nach § 101 Absatz 1 Satz 3 Nummer 1 den Bestand
@@ -15903,6 +16192,7 @@ kennzeichnen.
 
 
 ##### § 248 Sonderregeln für die Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE024900000)
 
 (1) § 168 ist mit den Maßgaben der Absätze 2 bis 4 anzuwenden.
 
@@ -15934,6 +16224,7 @@ Absatz 1 festgestellt wurde.
 
 
 ##### § 249 Sonderregeln für das Bewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025001116)
 
 (1) § 169 ist mit der Maßgabe anzuwenden, dass die
 Bewertungsrichtlinien für Immobilien-Sondervermögen zusätzlich
@@ -15973,6 +16264,7 @@ laufenden Preisermittlung zugrunde zu legen.
 
 
 ##### § 250 Sonderregeln für den Bewerter
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025101116)
 
 (1) § 216 ist mit der Maßgabe anzuwenden, dass
 
@@ -16002,6 +16294,7 @@ externen Bewerter bestellen.
 
 
 ##### § 251 Sonderregeln für die Häufigkeit der Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025200000)
 
 (1) § 217 ist mit der Maßgabe anzuwenden, dass der Wert der
 Vermögensgegenstände im Sinne des § 231 Absatz 1 und des § 234
@@ -16023,6 +16316,7 @@ Gesellschaft ausgewiesenen Immobilien.
 
 
 ##### § 252 Ertragsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025300000)
 
 (1) Die Anlagebedingungen müssen vorsehen, dass Erträge des
 Sondervermögens, die für künftige Instandsetzungen von
@@ -16041,6 +16335,7 @@ Absatz 1 einbehalten werden.
 
 
 ##### § 253 Liquiditätsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025401118)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines
 Immobilien-Sondervermögens einen Betrag, der insgesamt 49 Prozent des
@@ -16139,6 +16434,7 @@ Zeit gewähren.
 
 
 ##### § 254 Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025500000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf unbeschadet des § 199
 für gemeinschaftliche Rechnung der Anleger Kredite nur bis zur Höhe
@@ -16169,6 +16465,7 @@ berücksichtigen.
 
 
 ##### § 255 Sonderregeln für die Ausgabe und Rücknahme von Anteilen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025601311)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat die Ausgabe von
 Anteilen vorübergehend auszusetzen, wenn eine Verletzung der
@@ -16202,6 +16499,7 @@ erfolgt.
 
 
 ##### § 256 Zusätzliche Angaben im Verkaufsprospekt und in den Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025700000)
 
 (1) Der Verkaufsprospekt muss zusätzlich zu den Angaben nach § 165
 folgende Angaben enthalten:
@@ -16225,6 +16523,7 @@ aufzunehmen.
 
 
 ##### § 257 Aussetzung der Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025800000)
 
 (1) Verlangt der Anleger, dass ihm gegen Rückgabe des Anteils sein
 Anteil am Immobilien-Sondervermögen ausgezahlt wird, so hat die AIF-
@@ -16272,6 +16571,7 @@ auf Absatz 1 Satz 1 verweigert.
 
 
 ##### § 258 Aussetzung nach Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE025900000)
 
 (1) Außergewöhnliche Umstände im Sinne des § 98 Absatz 2 Satz 1 liegen
 vor, wenn die AIF-Kapitalverwaltungsgesellschaft die Kündigung der
@@ -16308,6 +16608,7 @@ halbjährlicher Abschlag auszuzahlen, soweit
 
 
 ##### § 259 Beschlüsse der Anleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026000000)
 
 (1) Die Anlagebedingungen eines Immobilien-Sondervermögens haben für
 den Fall der Aussetzung der Rücknahme von Anteilen gemäß § 257
@@ -16346,6 +16647,7 @@ Anleger erforderlich machen.
 
 
 ##### § 260 Veräußerung und Belastung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026100000)
 
 (1) Die Veräußerung von Vermögensgegenständen nach § 231 Absatz 1 und
 § 234, die zu einem Sondervermögen gehören, ist vorbehaltlich des §
@@ -16416,9 +16718,11 @@ Vorschriften der Absätze 1 und 3 nicht berührt.
 
 
 #### Unterabschnitt 6 - Infrastruktur-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006900123)
 
 
 ##### § 260a Infrastruktur-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038200123)
 
 Auf die Verwaltung von Infrastruktur-Sondervermögen nach Maßgabe der
 §§ 260b bis 260d finden die Vorschriften der §§ 230 bis 260
@@ -16427,6 +16731,7 @@ Vorschriften nichts anderes ergibt.
 
 
 ##### § 260b Zulässige Vermögensgegenstände, Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038300123)
 
 (1) Die Kapitalverwaltungsgesellschaft darf für ein Infrastruktur-
 Sondervermögen nur erwerben:
@@ -16496,6 +16801,7 @@ Vermögensgegenständen gegen einen Wertverlust getätigt werden.
 
 
 ##### § 260c Rücknahme von Anteilen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038400123)
 
 § 98 Absatz 1 ist mit der Maßgabe anzuwenden, dass die
 Vertragsbedingungen von Infrastruktur-Sondervermögen vorsehen müssen,
@@ -16505,6 +16811,7 @@ erfolgt.
 
 
 ##### § 260d Angaben im Verkaufsprospekt und den Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038500123)
 
 (1) Der Verkaufsprospekt muss zusätzlich zu den Angaben nach § 165
 folgende Angaben enthalten:
@@ -16542,12 +16849,15 @@ Anlagebedingungen aufzunehmen.
 
 
 ### Abschnitt 4 - Geschlossene inländische Publikums-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003401123)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG007000123)
 
 
 ##### § 261 Zulässige Vermögensgegenstände, Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026204128)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für einen
 geschlossenen inländischen Publikums-AIF nur investieren in
@@ -16737,6 +17047,7 @@ Sinne von Absatz 1 Nummer 4, gelten die §§ 287 bis 292 entsprechend.
 
 
 ##### § 262 Risikomischung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026302119)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für einen
 geschlossenen inländischen Publikums-AIF nur nach dem Grundsatz der
@@ -16797,6 +17108,7 @@ hinweisen.
 
 
 ##### § 263 Beschränkung von Leverage und Belastung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026403119)
 
 (1) Für einen geschlossenen inländischen Publikums-AIF dürfen Kredite
 nur bis zur Höhe von 150 Prozent des aggregierten eingebrachten
@@ -16850,6 +17162,7 @@ Begrenzungen hinzuweisen.
 
 
 ##### § 264 Verfügungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026500000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat dafür zu sorgen, dass
 die Verfügungsbeschränkung nach § 84 Absatz 1 Nummer 3 bei Immobilien
@@ -16871,6 +17184,7 @@ aufzuerlegen.
 
 
 ##### § 265 Leerverkäufe
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026600000)
 
 Die AIF-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche
 Rechnung der Anleger keine Vermögensgegenstände nach Maßgabe der §§
@@ -16881,6 +17195,7 @@ Rechtsgeschäfts wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
 
 ##### § 266 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026701123)
 
 (1) Die Anlagebedingungen, nach denen sich
 
@@ -16924,6 +17239,7 @@ welchem Umfang für den geschlossenen Publikums-AIF erworben werden.
 
 
 ##### § 267 Genehmigung der Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026802123)
 
 (1) Die Anlagebedingungen sowie Änderungen der Anlagebedingungen
 bedürfen der Genehmigung der Bundesanstalt. Die Genehmigung kann nur
@@ -16984,6 +17300,7 @@ Bundesanzeiger in Kraft treten.
 
 
 ##### § 268 Erstellung von Verkaufsprospekt und Basisinformationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE026902119)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat für die von ihr
 verwalteten geschlossenen Publikums-AIF den Verkaufsprospekt und,
@@ -17012,6 +17329,7 @@ Vertriebsphase gilt dies nur für die Dauer der Vertriebsphase.
 
 
 ##### § 269 Mindestangaben im Verkaufsprospekt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027004128)
 
 (1) Für den Verkaufsprospekt von geschlossenen Publikums-AIF gilt §
 165 Absatz 1, 2 Nummer 1 bis 25 und 27 bis 40 und 42, Absatz 3 bis 5,
@@ -17129,10 +17447,12 @@ werden soll, ist dies im Verkaufsprospekt anzugeben.
 
 
 ##### § 270 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027103119)
 
 
 
 ##### § 271 Bewertung, Bewertungsverfahren, Bewerter
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027200000)
 
 (1) § 168 ist für die Bewertung mit folgenden Maßgaben anzuwenden:
 
@@ -17193,6 +17513,7 @@ sowie die Rechte der Bundesanstalt im Hinblick auf den Bewerter gilt §
 
 
 ##### § 272 Häufigkeit der Bewertung und Berechnung; Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027300000)
 
 (1) Die Bewertung der Vermögensgegenstände und die Berechnung des
 Nettoinventarwertes je Anteil oder Aktie müssen mindestens einmal
@@ -17213,9 +17534,11 @@ Berechnung des Nettoinventarwertes je Anteil oder Aktie zu erfolgen.
 
 
 #### Unterabschnitt 2 - Geschlossene Master-Feeder-Strukturen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG007100123)
 
 
 ##### § 272a Genehmigung des geschlossenen Feederfonds; besondere Anforderungen an Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038601119)
 
 (1) Die Anlagebedingungen eines geschlossenen Publikums-AIF können
 vorsehen, dass dieser als geschlossener Feederfonds in einem
@@ -17294,6 +17617,7 @@ bleibt unberührt.
 
 
 ##### § 272b Verkaufsprospekt, Anlagebedingungen, Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038701119)
 
 (1) Der Verkaufsprospekt eines geschlossenen Feederfonds hat über die
 Angaben nach § 269 hinaus folgende Angaben zu enthalten:
@@ -17386,6 +17710,7 @@ nach diesem Absatz erforderlich ist.
 
 
 ##### § 272c Anlagegrenzen, Anlagebeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038800123)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für einen geschlossenen
 Feederfonds ungeachtet von § 262 mindestens 85 Prozent des Wertes des
@@ -17405,6 +17730,7 @@ Feederfonds halten.
 
 
 ##### § 272d Vereinbarungen bei geschlossenen Master-Feeder-Strukturen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE038900123)
 
 (1) Die Kapitalverwaltungsgesellschaft des inländischen geschlossenen
 Masterfonds hat der Verwaltungsgesellschaft des geschlossenen
@@ -17438,6 +17764,7 @@ sicherzustellen, dass beide Abschlussprüfer ihre Pflichten erfüllen
 
 
 ##### § 272e Pflichten der Kapitalverwaltungsgesellschaft und der Verwahrstelle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039000123)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für einen von ihr
 verwalteten geschlossenen Feederfonds die Anlagen des geschlossenen
@@ -17512,6 +17839,7 @@ Aufgaben nach diesem Absatz erforderlich ist.
 
 
 ##### § 272f Mitteilungspflichten der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039100123)
 
 Sind die Anlagebedingungen sowohl des geschlossenen Masterfonds als
 auch des geschlossenen Feederfonds nach den Vorschriften dieses
@@ -17539,6 +17867,7 @@ betreffen.
 
 
 ##### § 272g Abwicklung des geschlossenen Masterfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039201119)
 
 (1) Die Abwicklung eines inländischen geschlossenen Masterfonds darf
 frühestens drei Monate nach dem Zeitpunkt beginnen, zu dem alle
@@ -17647,6 +17976,7 @@ nach Satz 1 Nummer 2 jederzeit gegen Barzahlung veräußern.
 
 
 ##### § 272h Änderung des geschlossenen Masterfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039301119)
 
 (1) Wird die Anlage eines geschlossenen Feederfonds in Anteile eines
 geschlossenen Masterfonds bei einem beabsichtigten Wechsel des
@@ -17678,12 +18008,15 @@ Frist beginnt mit dem Zugang der Informationen.
 
 
 ## Kapitel 3 - Inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003500000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften für inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003600000)
 
 
 #### § 273 Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027401123)
 
 Die Anlagebedingungen, nach denen sich
 
@@ -17711,6 +18044,7 @@ Kapitalverwaltungsgesellschaft vorzulegen.
 
 
 #### § 274 Begrenzung von Leverage
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027500000)
 
 Für die Informationspflicht der AIF-Kapitalverwaltungsgesellschaft im
 Hinblick auf das eingesetzte Leverage sowie die Befugnis der
@@ -17722,6 +18056,7 @@ nach Artikel 112 der Delegierten Verordnung (EU) Nr. 231/2013.
 
 
 #### § 275 Belastung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027600000)
 
 (1) Die Belastung von Vermögensgegenständen, die zu einem Spezial-AIF
 gehören, sowie die Abtretung und Belastung von Forderungen aus
@@ -17746,6 +18081,7 @@ Finanzsystems als nötig erachtet.
 
 
 #### § 276 Leerverkäufe
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027700000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche
 Rechnung der Anleger keine Vermögensgegenstände nach Maßgabe der §§
@@ -17763,6 +18099,7 @@ nötig erachtet.
 
 
 #### § 277 Übertragung von Anteilen oder Aktien
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027802123)
 
 Die AIF-Kapitalverwaltungsgesellschaft hat in Textform mit den
 Anlegern zu vereinbaren oder auf Grund der konstituierenden Dokumente
@@ -17772,6 +18109,7 @@ dürfen.
 
 
 #### § 277a Master-Feeder-Strukturen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039400123)
 
 Spezial-AIF dürfen nicht Teil einer Master-Feeder-Struktur sein, wenn
 Publikumsinvestmentvermögen Teil derselben Master-Feeder-Struktur
@@ -17779,18 +18117,22 @@ sind.
 
 
 ### Abschnitt 2 - Vorschriften für offene inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003700000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften für offene inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003800000)
 
 
 ##### § 278 Bewertung, Bewertungsverfahren und Bewerter
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE027900000)
 
 Für die Bewertung, das Bewertungsverfahren und den Bewerter gelten die
 §§ 168, 169 und 216 entsprechend.
 
 
 ##### § 279 Häufigkeit der Bewertung, Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028001311)
 
 (1) Die Bewertung der Vermögensgegenstände und die Berechnung des
 Nettoinventarwertes je Anteil oder Aktie sind in einem zeitlichen
@@ -17815,9 +18157,11 @@ Nettoinventarwert entsprechend.
 
 
 ##### § 280 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028101123)
 
 
 ##### § 281 Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028201118)
 
 (1) Spezialsondervermögen dürfen nicht auf Publikumssondervermögen
 verschmolzen werden, Publikumssondervermögen dürfen nicht auf
@@ -17895,9 +18239,11 @@ Anwendung des § 182 in Verbindung mit Absatz 1 Satz 3, § 189 Absatz 2,
 
 
 #### Unterabschnitt 2 - Besondere Vorschriften für allgemeine offene inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG003900000)
 
 
 ##### § 282 Anlageobjekte, Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028302118)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft muss die Mittel des
 allgemeinen offenen inländischen Spezial-AIF nach dem Grundsatz der
@@ -17917,9 +18263,11 @@ mehrere allgemeine offene inländische Spezial-AIF verwaltet, die in §
 
 
 #### Unterabschnitt 3 - Besondere Vorschriften für Hedgefonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004000000)
 
 
 ##### § 283 Hedgefonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028400000)
 
 (1) Hedgefonds sind allgemeine offene inländische Spezial-AIF nach §
 282, deren Anlagebedingungen zusätzlich mindestens eine der folgenden
@@ -17952,9 +18300,11 @@ der AIF-Kapitalverwaltungsgesellschaft zu erklären sind.
 
 
 #### Unterabschnitt 4 - Besondere Vorschriften für offene inländische Spezial-AIF mit festen Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004100000)
 
 
 ##### § 284 Anlagebedingungen, Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028504128)
 
 (1) Für offene inländische Spezial-AIF mit festen Anlagebedingungen
 gelten § 282 Absatz 1 sowie die §§ 192 bis 211 und 218 bis 260d,
@@ -18060,12 +18410,15 @@ bleibt unberührt.
 
 
 ### Abschnitt 3 - Vorschriften für geschlossene inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004200000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften für geschlossene inländische Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004300000)
 
 
 ##### § 285 Anlageobjekte
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028601118)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für das
 Investmentvermögen nur in Vermögensgegenstände investieren, deren
@@ -18140,6 +18493,7 @@ bis 3 erfüllt ist.
 
 
 ##### § 286 Bewertung, Bewertungsverfahren und Bewerter; Häufigkeit der Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028700000)
 
 (1) Für die Bewertung, das Bewertungsverfahren und den Bewerter gelten
 die §§ 168, 169 und 216 entsprechend.
@@ -18148,9 +18502,11 @@ die §§ 168, 169 und 216 entsprechend.
 
 
 #### Unterabschnitt 2 - Besondere Vorschriften für AIF, die die Kontrolle über nicht börsennotierte Unternehmen und Emittenten erlangen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004400000)
 
 
 ##### § 287 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028802118)
 
 (1) Die §§ 287 bis 292 sind anzuwenden auf AIF-
 Kapitalverwaltungsgesellschaften,
@@ -18214,6 +18570,7 @@ sind.
 
 
 ##### § 288 Erlangen von Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE028900000)
 
 (1) Für die Zwecke der §§ 287 bis 292 bedeutet Kontrolle im Fall nicht
 börsennotierter Unternehmen die Erlangung von mehr als 50 Prozent der
@@ -18245,6 +18602,7 @@ Europäischen Parlaments und des Rates vom 21. April 2004 betreffend
 
 
 ##### § 289 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029000000)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft unterrichtet die
 Bundesanstalt, wenn der Anteil der Stimmrechte des nicht
@@ -18321,6 +18679,7 @@ erlangt hat, gemacht.
 
 
 ##### § 290 Offenlegungspflicht bei Erlangen der Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029101123)
 
 (1) Erlangt ein AIF allein oder gemeinsam mit anderen AIF die
 Kontrolle über ein nicht börsennotiertes Unternehmen oder einen
@@ -18415,6 +18774,7 @@ Angaben zur Finanzierung des Erwerbs vor.
 
 
 ##### § 291 Besondere Vorschriften hinsichtlich des Jahresabschlusses und des Lageberichts
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029200000)
 
 (1) Erlangt ein AIF allein oder gemeinsam mit anderen AIF die
 Kontrolle über ein nicht börsennotiertes Unternehmen oder einen
@@ -18492,6 +18852,7 @@ folgende Informationen enthalten:
 
 
 ##### § 292 Zerschlagen von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029300000)
 
 (1) Erlangt ein AIF allein oder gemeinsam mit anderen AIF die
 Kontrolle über ein nicht börsennotiertes Unternehmen oder einen
@@ -18572,9 +18933,11 @@ Unternehmen durch den AIF dazu verpflichtet,
 
 
 ### Abschnitt 4 - Besondere Vorschriften für Entwicklungsförderungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG007200123)
 
 
 #### § 292a Entwicklungsförderungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039500123)
 
 (1) Entwicklungsförderungsfonds dürfen als offene inländische Spezial-
 AIF gemäß Abschnitt 2 Unterabschnitt 1, 2 und 4 oder als geschlossene
@@ -18609,6 +18972,7 @@ positiven Auswirkungspotenzials erlauben. § 292b bleibt unberührt.
 
 
 #### § 292b Liquiditäts- und Absicherungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039600123)
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines
 Entwicklungsförderungsfonds einen Betrag, der insgesamt 30 Prozent des
@@ -18664,6 +19028,7 @@ Entwicklungsförderungsfonds Derivate zu Absicherungszwecken erwerben.
 
 
 #### § 292c Außerordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039700123)
 
 (1) Die Anlagebedingungen oder die Satzung des
 Entwicklungsförderungsfonds müssen oder muss vorsehen, dass die
@@ -18692,15 +19057,19 @@ Wirkungsmanagement festgestellt werden.
 
 
 ## Kapitel 4 - Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004500000)
 
 
 ### Abschnitt 1 - Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004600000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften für den Vertrieb und den Erwerb von Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004700000)
 
 
 ##### § 293 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029403311)
 
 (1) Vertrieb ist das direkte oder indirekte Anbieten oder Platzieren
 von Anteilen oder Aktien eines Investmentvermögens. Als Vertrieb gilt
@@ -18795,6 +19164,7 @@ Kapitels geht etwas anderes hervor.
 
 
 ##### § 294 Auf den Vertrieb und den Erwerb von OGAW anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029502123)
 
 Auf den Vertrieb und den Erwerb von Anteilen oder Aktien an
 inländischen OGAW oder an zum Vertrieb berechtigten EU-OGAW im
@@ -18809,6 +19179,7 @@ sind.
 
 
 ##### § 295 Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029605123)
 
 (1) Der Vertrieb von Anteilen oder Aktien an inländischen Publikums-
 AIF an Privatanleger, semiprofessionelle und professionelle Anleger im
@@ -18973,6 +19344,7 @@ Angaben nach § 269, wenn
 
 
 ##### § 295a Widerruf des grenzüberschreitenden Vertriebs im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039800123)
 
 (1) Eine OGAW-Verwaltungsgesellschaft kann den Vertrieb von Anteilen
 oder Aktien, gegebenenfalls bezogen auf eine oder mehrere
@@ -19059,6 +19431,7 @@ entsprechend weiter.
 
 
 ##### § 295b Informationspflichten nach Widerruf des grenzüberschreitenden Vertriebs im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE039900123)
 
 (1) Wird der Vertrieb von Anteilen oder Aktien eines EU-OGAW im Inland
 widerrufen, gegebenenfalls bezogen auf eine oder mehrere
@@ -19115,6 +19488,7 @@ bereitzustellen sind.
 
 
 ##### § 296 Vereinbarungen mit Drittstaaten zur OGAW-Konformität
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029703123)
 
 (1) Die Bundesanstalt kann mit den zuständigen Stellen von
 Drittstaaten vereinbaren, dass
@@ -19187,9 +19561,11 @@ Zeitpunkt, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird.
 
 
 #### Unterabschnitt 2 - Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf Privatanleger und für den Vertrieb und den Erwerb von OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004800000)
 
 
 ##### § 297 Verkaufsunterlagen und Hinweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029803119)
 
 (1) Dem am Erwerb eines Anteils oder einer Aktie an einem OGAW
 interessierten professionellen Anleger sind rechtzeitig vor
@@ -19276,6 +19652,7 @@ Vermögensgegenständen des Investmentvermögens informieren.
 
 
 ##### § 298 Veröffentlichungspflichten und laufende Informationspflichten für EU-OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE029901123)
 
 (1) Für nach § 310 zum Vertrieb angezeigte Anteile oder Aktien an EU-
 OGAW hat die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-
@@ -19350,6 +19727,7 @@ unverzüglich mittels eines dauerhaften Datenträgers zu unterrichten
 
 
 ##### § 299 Veröffentlichungspflichten und laufende Informationspflichten für EU-AIF und ausländische AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030003123)
 
 (1) Die EU-AIF-Verwaltungsgesellschaft oder die ausländische AIF-
 Verwaltungsgesellschaft veröffentlicht für Anteile oder Aktien an EU-
@@ -19508,6 +19886,7 @@ AIF-Verwaltungsgesellschaften entsprechend.
 
 
 ##### § 300 Zusätzliche Informationspflichten bei AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030101123)
 
 (1) Für jeden von ihr verwalteten inländischen AIF, EU-AIF oder
 ausländischen AIF muss die AIF-Verwaltungsgesellschaft den Anlegern im
@@ -19554,10 +19933,12 @@ sich in Bezug auf die Haftung der Verwahrstelle ergeben.
 
 
 ##### § 301 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030202119)
 
 
 
 ##### § 302 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030302119)
 
 (1) Für Werbung für AIF gegenüber Privatanlegern gelten neben den
 Vorschriften der Artikel 4 Absatz 1, 4 und 5 der Verordnung (EU)
@@ -19633,6 +20014,7 @@ insbesondere für
 
 
 ##### § 303 Maßgebliche Sprachfassung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030401118)
 
 (1) Sämtliche Veröffentlichungen und Werbeschriften, die sich auf
 Anteile oder Aktien an einem an Privatanleger vertriebenen AIF oder an
@@ -19658,6 +20040,7 @@ wiedergeben.
 
 
 ##### § 304 Kostenvorausbelastung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030500000)
 
 Wurde die Abnahme von Anteilen oder Aktien für einen mehrjährigen
 Zeitraum vereinbart, so darf von jeder der für das erste Jahr
@@ -19667,6 +20050,7 @@ späteren Zahlungen gleichmäßig verteilt werden.
 
 
 ##### § 305 Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030605128)
 
 (1) Ist der Käufer von Anteilen oder Aktien eines offenen
 Investmentvermögens durch mündliche Verhandlungen außerhalb der
@@ -19739,6 +20123,7 @@ entsprechend anzuwenden.
 
 
 ##### § 306 Prospekthaftung und Haftung für die wesentlichen Anlegerinformationen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030701116)
 
 (1) Sind in dem Verkaufsprospekt Angaben, die für die Beurteilung der
 Anteile oder Aktien von wesentlicher Bedeutung sind, unrichtig oder
@@ -19827,6 +20212,7 @@ bleiben unberührt.
 
 
 ##### § 306a Einrichtung beim Vertrieb an Privatanleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040000123)
 
 (1) Beabsichtigt eine OGAW-Verwaltungsgesellschaft Anteile an einem
 OGAW im Geltungsbereich dieses Gesetzes zu vertreiben oder
@@ -19895,9 +20281,11 @@ notwendig.
 
 
 #### Unterabschnitt 3 - Vorschriften für den Vertrieb und den Erwerb von AIF in Bezug auf semiprofessionelle und professionelle Anleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG004901123)
 
 
 ##### § 306b Pre-Marketing durch eine AIF-Verwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040100123)
 
 (1) Eine AIF-Verwaltungsgesellschaft kann Pre-Marketing betreiben,
 außer wenn die den potenziellen professionellen und
@@ -20038,6 +20426,7 @@ Paragraphen.
 
 
 ##### § 307 Informationspflichten gegenüber semiprofessionellen und professionellen Anlegern und Haftung
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030807119)
 
 (1) Dem am Erwerb eines Anteils oder einer Aktie interessierten
 professionellen Anleger oder semiprofessionellen Anleger ist vor
@@ -20199,6 +20588,7 @@ als ergänzende Angaben im Wertpapierprospekt offenzulegen.
 
 
 ##### § 308 Sonstige Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE030900000)
 
 (1) Die EU-AIF-Verwaltungsgesellschaft und die ausländische AIF-
 Verwaltungsgesellschaft haben den semiprofessionellen und den
@@ -20241,12 +20631,15 @@ entsprechend.
 
 
 ### Abschnitt 2 - Vertriebsanzeige und Vertriebsuntersagung für OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005000000)
 
 
 #### Unterabschnitt 1 - Anzeigeverfahren beim Vertrieb von EU-OGAW im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005100000)
 
 
 ##### § 309 Pflichten beim Vertrieb von EU-OGAW im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031001123)
 
 Angaben über die nach § 306a getroffenen Vorkehrungen und Maßnahmen
 sind in den Verkaufsprospekt aufzunehmen, der im Geltungsbereich
@@ -20263,6 +20656,7 @@ weiteren Teilinvestmentvermögen sind namentlich zu bezeichnen.
 
 
 ##### § 310 Anzeige zum Vertrieb von EU-OGAW im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031101119)
 
 (1) Beabsichtigt eine EU-OGAW-Verwaltungsgesellschaft oder eine OGAW-
 Kapitalverwaltungsgesellschaft, Anteile oder Aktien im Geltungsbereich
@@ -20341,6 +20735,7 @@ Umsetzung der Änderung in Textform mit.
 
 
 ##### § 311 Untersagung des Vertriebs von EU-OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031201123)
 
 (1) Die Bundesanstalt ist befugt, alle erforderlichen und geeigneten
 Maßnahmen zum Schutz der Anleger zu ergreifen, einschließlich einer
@@ -20414,9 +20809,11 @@ zu erstatten.
 
 
 #### Unterabschnitt 2 - Anzeigeverfahren für den Vertrieb von inländischen OGAW in anderen Mitgliedstaaten der Europäischen Union oder in Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005200000)
 
 
 ##### § 312 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031306119)
 
 (1) Beabsichtigt eine OGAW-Kapitalverwaltungsgesellschaft oder eine
 EU-OGAW-Verwaltungsgesellschaft, Anteile oder Aktien an einem von ihr
@@ -20534,6 +20931,7 @@ unverzüglich von den getroffenen Maßnahmen in Kenntnis.
 
 
 ##### § 313 Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031401123)
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-
 Verwaltungsgesellschaft hat sämtliche in § 312 Absatz 1 und 2
@@ -20559,6 +20957,7 @@ Format beizufügen.
 
 
 ##### § 313a Widerruf des Vertriebs von OGAW in anderen Staaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040200123)
 
 (1) Die OGAW-Verwaltungsgesellschaft kann den Vertrieb von Anteilen
 oder Aktien, einschließlich gegebenenfalls von Anteilsklassen in einem
@@ -20630,9 +21029,11 @@ an den in § 312 Absatz 1 genannten Unterlagen.
 
 
 ### Abschnitt 3 - Anzeige, Einstellung und Untersagung des Vertriebs von AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005300000)
 
 
 #### § 314 Untersagung des Vertriebs
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031502123)
 
 (1) Soweit § 11 nicht anzuwenden ist, ist die Bundesanstalt in Bezug
 auf AIF befugt, alle zum Schutz der Anleger geeigneten und
@@ -20732,6 +21133,7 @@ anzeigen.
 
 
 #### § 315 Einstellung des Vertriebs von AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031601123)
 
 (1) Stellt eine AIF-Kapitalverwaltungsgesellschaft den Vertrieb von
 Anteilen oder Aktien eines von ihr verwalteten und nach § 316
@@ -20760,9 +21162,11 @@ Veröffentlichungspflicht auch nach Fristsetzung nicht erfüllt wird.
 
 
 #### Unterabschnitt 1 - Anzeigeverfahren für den Vertrieb von Publikums-AIF, von EU-AIF oder von ausländischen AIF an Privatanleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005400000)
 
 
 ##### § 316 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von inländischen Publikums-AIF im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031702119)
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder
 Aktien an einem von ihr verwalteten inländischen Publikums-AIF im
@@ -20879,6 +21283,7 @@ veröffentlichen.
 
 
 ##### § 317 Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031803123)
 
 (1) Der Vertrieb von EU-AIF und ausländischen AIF durch eine EU-AIF-
 Verwaltungsgesellschaft oder eine ausländische AIF-
@@ -21086,6 +21491,7 @@ auf den Feeder-AIF zumindest folgende Anforderungen erfüllt sein:
 
 
 ##### § 318 Verkaufsprospekt beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE031905119)
 
 (1) Der Verkaufsprospekt des EU-AIF oder des ausländischen AIF muss
 mit einem Datum versehen sein und alle Angaben enthalten, die zum
@@ -21183,6 +21589,7 @@ Vertriebsphase.
 
 
 ##### § 319 Vertretung der Gesellschaft, Gerichtsstand beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032000000)
 
 (1) Der Repräsentant vertritt den EU-AIF oder ausländischen AIF
 gerichtlich und außergerichtlich. Er ist ermächtigt, für die AIF-
@@ -21205,6 +21612,7 @@ Kosten, so sind ihr diese Kosten zu erstatten.
 
 
 ##### § 320 Anzeigepflicht beim beabsichtigten Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032103119)
 
 (1) Beabsichtigt eine EU-AIF-Verwaltungsgesellschaft oder eine
 ausländische AIF-Verwaltungsgesellschaft, Anteile oder Aktien an einem
@@ -21372,9 +21780,11 @@ Absatz 5 gilt entsprechend.
 
 
 #### Unterabschnitt 2 - Anzeigeverfahren für den Vertrieb von AIF an semiprofessionelle Anleger und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005500000)
 
 
 ##### § 321 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032202119)
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder
 Aktien an einem von ihr verwalteten EU-AIF oder an einem von ihr
@@ -21488,6 +21898,7 @@ betreffenden AIF.
 
 
 ##### § 322 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032301123)
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF und von
 Anteilen oder Aktien an EU-Feeder-AIF oder inländischen Spezial-
@@ -21564,6 +21975,7 @@ oder zusätzlich vertriebenen AIF betreffen.
 
 
 ##### § 323 Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032400000)
 
 (1) Beabsichtigt eine EU-AIF-Verwaltungsgesellschaft im
 Geltungsbereich dieses Gesetzes, Anteile oder Aktien an EU-AIF oder an
@@ -21615,6 +22027,7 @@ dieses Gesetz verstoßen.
 
 
 ##### § 324 Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032500000)
 
 (1) Ein Vertrieb von Anteilen oder Aktien an ausländischen AIF und von
 Anteilen oder Aktien an inländischen Spezial-Feeder-AIF oder EU-
@@ -21647,6 +22060,7 @@ anzuwenden.
 
 
 ##### § 325 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032600000)
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren
 Referenzmitgliedstaat gemäß § 56 die Bundesrepublik Deutschland ist
@@ -21682,6 +22096,7 @@ dass
 
 
 ##### § 326 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032700000)
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF an
 semiprofessionelle oder professionelle Anleger im Geltungsbereich
@@ -21706,6 +22121,7 @@ der Maßgabe, dass es statt „AIF-Kapitalverwaltungsgesellschaft“
 
 
 ##### § 327 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032800000)
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren
 Referenzmitgliedstaat gemäß Artikel 37 Absatz 4 der Richtlinie
@@ -21747,6 +22163,7 @@ entsprechend anzuwenden.
 
 
 ##### § 328 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE032900000)
 
 (1) Ein Vertrieb von Anteilen oder Aktien an ausländischen AIF an
 semiprofessionelle oder professionelle Anleger im Geltungsbereich
@@ -21785,6 +22202,7 @@ Sprache. § 327 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ##### § 329 Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master- AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, oder ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033001116)
 
 (1) Der Vertrieb von Anteilen oder Aktien an von einer EU-AIF-
 Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft
@@ -21966,6 +22384,7 @@ beträgt.
 
 
 ##### § 330 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten ausländischen AIF oder EU-AIF an semiprofessionelle und professionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033102118)
 
 (1) Der Vertrieb von Anteilen oder Aktien an von einer ausländischen
 AIF-Verwaltungsgesellschaft verwalteten ausländischen AIF oder EU-AIF
@@ -22209,6 +22628,7 @@ semiprofessionelle Anleger verkürzen sich jeweils um zwei Monate.
 
 
 ##### § 330a Anzeigepflicht von EU-AIF-Verwaltungsgesellschaften, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011/61/EU erfüllen, beim beabsichtigten Vertrieb von AIF an professionelle und semiprofessionelle Anleger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033200000)
 
 (1) Der Vertrieb von Anteilen oder Aktien an AIF, die von einer EU-
 AIF-Verwaltungsgesellschaft verwaltet werden, die die Bedingungen nach
@@ -22279,9 +22699,11 @@ dürfen.
 
 
 #### Unterabschnitt 3 - Anzeigeverfahren für den Vertrieb von AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union und in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005601116)
 
 
 ##### § 331 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033304123)
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder
 Aktien an einem von ihr verwalteten EU-AIF oder an einem von ihr
@@ -22395,6 +22817,7 @@ Kapitalverwaltungsgesellschaft von diesen Änderungen.
 
 
 ##### § 331a Widerruf des Vertriebs von EU-AIF oder inländischen AIF in anderen Staaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040300123)
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft kann den Vertrieb von
 Anteilen oder Aktien einiger oder aller von ihr verwalteten EU-AIF
@@ -22470,6 +22893,7 @@ und Angaben.
 
 
 ##### § 332 Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von ausländischen AIF oder von inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033402123)
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF und von
 Anteilen oder Aktien an inländischen Feeder-AIF oder EU-Feeder-AIF,
@@ -22513,6 +22937,7 @@ geltender Fassung enthalten.
 
 
 ##### § 333 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033502123)
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren
 Referenzmitgliedstaat gemäß § 56 die Bundesrepublik Deutschland ist
@@ -22554,6 +22979,7 @@ dass
 
 
 ##### § 334 Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033602123)
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF durch
 eine ausländische AIF-Verwaltungsgesellschaft an professionelle
@@ -22607,6 +23033,7 @@ Maßgabe entsprechend anzuwenden, dass
 
 
 ##### § 335 Bescheinigung der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033700000)
 
 (1) Unbeschadet der Anzeigen nach den §§ 331 bis 334 stellt die
 Bundesanstalt auf Antrag der AIF-Kapitalverwaltungsgesellschaft eine
@@ -22619,9 +23046,11 @@ Bescheinigung über die Registrierung aus.
 
 
 #### Unterabschnitt 4 - Verweis und Ersuchen für den Vertrieb von AIF an semiprofessionelle und professionelle Anleger
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005700000)
 
 
 ##### § 336 Verweise und Ersuchen nach Artikel 19 der Verordnung (EU) Nr. 1095/2010
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033800000)
 
 (1) Die näheren Bestimmungen zu den in § 322 Absatz 1 Nummer 1, § 324
 Absatz 1 Satz 1, § 326 Absatz 1, § 328 Absatz 1 Satz 1, § 330 Absatz 1
@@ -22651,9 +23080,11 @@ Nr. 1095/2010 um Hilfe ersuchen.
 
 
 ## Kapitel 5 - Europäische Risikokapitalfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005800000)
 
 
 ### § 337 Europäische Risikokapitalfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE033902123)
 
 (1) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen
 nach § 2 Absatz 6 erfüllen, gelten
@@ -22676,9 +23107,11 @@ zu erfüllen.
 
 
 ## Kapitel 6 - Europäische Fonds für soziales Unternehmertum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG005900000)
 
 
 ### § 338 Europäische Fonds für soziales Unternehmertum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034002123)
 
 (1) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen
 nach § 2 Absatz 7 erfüllen, gelten
@@ -22701,9 +23134,11 @@ erfüllen.
 
 
 ## Kapitel 7 - Europäische langfristige Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006800118)
 
 
 ### § 338a Europäische langfristige Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036601123)
 
 Für AIF-Kapitalverwaltungsgesellschaften, die europäische langfristige
 Investmentfonds im Sinne der Verordnung (EU) 2015/760 verwalten,
@@ -22713,9 +23148,11 @@ nicht entgegensteht.
 
 
 ## Kapitel 8 - Geldmarktfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG007300123)
 
 
 ### § 338b Geldmarktfonds
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037500124)
 
 Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU)
 2017/1131 des Europäischen Parlaments und des Rates vom 14. Juni 2017
@@ -22727,9 +23164,11 @@ Verordnung (EU) 2017/1131 nichts anderes vorsieht.
 
 
 ## Kapitel 9 - Paneuropäisches Privates Pensionsprodukt (PEPP)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG007400123)
 
 
 ### § 338c Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040700123)
 
 Für Kapitalverwaltungsgesellschaften, die PEPPs im Sinne der
 Verordnung (EU) 2019/1238 anbieten oder vertreiben, gelten neben den
@@ -22739,12 +23178,15 @@ vorsieht.
 
 
 ## Kapitel 10 - Straf-, Bußgeld- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006002123)
 
 
 ### Abschnitt 1 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006102311)
 
 
 #### § 339 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034102118)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -22771,6 +23213,7 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 #### § 340 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034213128)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -23850,6 +24293,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 #### § 341 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034301119)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen bedeutend
@@ -23904,6 +24348,7 @@ gilt entsprechend.
 
 
 #### § 341a Bekanntmachung von bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037004128)
 
 (1) Bestandskräftige Maßnahmen und unanfechtbar gewordene
 Bußgeldentscheidungen der Bundesanstalt nach diesem Gesetz
@@ -23981,6 +24426,7 @@ Verwaltungsgesellschaft zu erstatten.
 
 
 #### § 342 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034405123)
 
 (1) Anleger und Kunden können jederzeit wegen behaupteter Verstöße
 gegen dieses Gesetz Beschwerde bei der Bundesanstalt einlegen.
@@ -23996,12 +24442,15 @@ Wirtschaftsraum zusammen; die §§ 8, 9 und 19 gelten entsprechend.
 
 
 ### Abschnitt 2 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006202311)
 
 
 #### Unterabschnitt 1 - Allgemeine Übergangsvorschriften für AIF-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006302311)
 
 
 ##### § 343 Übergangsvorschriften für inländische und EU-AIF-Verwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034503311)
 
 (1) AIF-Kapitalverwaltungsgesellschaften, die vor dem 22. Juli 2013
 Tätigkeiten im Sinne des § 20 ausüben, haben alle erforderlichen
@@ -24098,6 +24547,7 @@ bis 5 ist nicht anzuwenden.
 
 
 ##### § 344 Übergangsvorschriften für ausländische AIF-Verwaltungsgesellschaften und für andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034601116)
 
 (1) Die §§ 56 bis 66 sind erst ab dem Zeitpunkt anzuwenden, auf den in
 § 295 Absatz 2 Nummer 1 verwiesen wird.
@@ -24125,13 +24575,16 @@ innerstaatliches Recht umgesetzt sind.
 
 
 ##### § 344a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036001311)
 
 
 
 #### Unterabschnitt 2 - Besondere Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006402311)
 
 
 ##### § 345 Übergangsvorschriften für offene AIF und AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die bereits nach dem Investmentgesetz reguliert waren
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034701118)
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft, die bei Inkrafttreten
 dieses Gesetzes
@@ -24455,6 +24908,7 @@ fehlen, hat die Bundesanstalt diese nachzufordern.
 
 
 ##### § 346 Besondere Übergangsvorschriften für Immobilien-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034801118)
 
 (1) Für Anleger, die am 21. Juli 2013 Anteile an Immobilien-
 Sondervermögen in einem Wertpapierdepot auf ihren Namen hinterlegt
@@ -24564,6 +25018,7 @@ Bundesanstalt eingegangen sein.
 
 
 ##### § 347 Besondere Übergangsvorschriften für Altersvorsorge-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE034900000)
 
 (1) Für Altersvorsorge-Sondervermögen im Sinne des § 87 des
 Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung, die
@@ -24585,6 +25040,7 @@ werden.
 
 
 ##### § 348 Besondere Übergangsvorschriften für Gemischte Sondervermögen und Gemischte Investmentaktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035000000)
 
 Gemischte Sondervermögen oder Gemischte
 Investmentaktiengesellschaften, die vor dem 22. Juli 2013 gemäß den §§
@@ -24629,6 +25085,7 @@ Gesetzes einschließlich der Übergangsvorschriften.
 
 
 ##### § 349 Besondere Übergangsvorschriften für Sonstige Sondervermögen und Sonstige Investmentaktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035100000)
 
 Sonstige Sondervermögen oder Sonstige Investmentaktiengesellschaften,
 die vor dem 22. Juli 2013 gemäß den §§ 90g bis 90k des
@@ -24670,6 +25127,7 @@ Sinne des Satzes 1 die Vorschriften dieses Gesetzes einschließlich der
 
 
 ##### § 350 Besondere Übergangsvorschriften für Hedgefonds und offene Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035200000)
 
 (1) Für eine AIF-Kapitalverwaltungsgesellschaft, die bei Inkrafttreten
 dieses Gesetzes
@@ -24723,6 +25181,7 @@ Investmentvermögens als inländischer Spezial-AIF nach § 1 Absatz 6
 
 
 ##### § 351 Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die nicht bereits nach dem Investmentgesetz reguliert waren
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035301118)
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft, die bei Inkrafttreten
 dieses Gesetzes
@@ -24809,6 +25268,7 @@ Investmentvermögen vor dem 22. Juli 2013 anwendbar waren“ treten.
 
 
 ##### § 352 Übergangsvorschrift zu § 127 des Investmentgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035400000)
 
 Auf Ansprüche nach § 127 des Investmentgesetzes in der Fassung vom 30.
 Juni 2011, die vor dem 1. Juli 2011 entstanden sind, ist § 127 Absatz
@@ -24821,9 +25281,11 @@ geltenden Fassung weiter anzuwenden.
 
 
 #### Unterabschnitt 3 - Besondere Übergangsvorschriften für AIF-Verwaltungsgesellschaften, die geschlossene AIF verwalten, und für geschlossene AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006503311)
 
 
 ##### § 352a Definition von geschlossenen AIF im Sinne von § 353
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035900116)
 
 Abweichend von § 1 Absatz 4 Nummer 2 und Absatz 5 sind geschlossene
 AIF im Sinne von § 353 auch solche AIF, die die Voraussetzungen von
@@ -24832,6 +25294,7 @@ erfüllen.
 
 
 ##### § 353 Besondere Übergangsvorschriften für AIF-Verwaltungsgesellschaften, die geschlossene AIF verwalten, und für geschlossene AIF
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035507311)
 
 (1) Sofern AIF-Kapitalverwaltungsgesellschaften vor dem 22. Juli 2013
 geschlossene AIF verwalten, die nach dem 21. Juli 2013 keine
@@ -25067,6 +25530,7 @@ diese AIF am 19. Januar 2015. Absatz 11 Satz 5 gilt entsprechend.
 
 
 ##### § 353a Übergangsvorschriften zu den §§ 261, 262 und 263
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037100118)
 
 Auf geschlossene inländische Publikums-AIF, die vor dem 18. März 2016
 aufgelegt wurden, sind § 261 Absatz 4, § 262 Absatz 1 Satz 1 Nummer 1
@@ -25077,6 +25541,7 @@ die Anwendung der in Satz 1 genannten Vorschriften beschließt.
 
 
 ##### § 353b Übergangsvorschriften zu § 285 Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037201311)
 
 § 20 Absatz 9 Satz 1 und § 285 Absatz 3, auch in Verbindung mit § 2
 Absatz 4, § 261 Absatz 1 Nummer 8, § 282 Absatz 2 Satz 3 und § 284
@@ -25092,15 +25557,18 @@ einzubeziehen.
 
 
 ##### § 354 Übergangsvorschrift zu § 342 Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035600000)
 
 § 342 Absatz 3 gilt für Streitigkeiten im Zusammenhang mit
 geschlossenen Publikums-AIF erst ab dem 22. Juli 2014.
 
 
 #### Unterabschnitt 4 - Übergangsvorschriften für OGAW- Verwaltungsgesellschaften und OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006602311)
 
 
 ##### § 355 Übergangsvorschriften für OGAW-Verwaltungsgesellschaften und OGAW
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE035703128)
 
 (1) OGAW-Kapitalverwaltungsgesellschaften oder extern verwaltete OGAW-
 Investmentaktiengesellschaften, die bei Inkrafttreten dieses Gesetzes
@@ -25190,9 +25658,11 @@ Fassung Anwendung.
 
 
 #### Unterabschnitt 5 - Sonstige Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNG006702311)
 
 
 ##### § 356 Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036100118)
 
 Die §§ 45 und 48 in der Fassung des Bilanzrichtlinie-
 Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals
@@ -25203,6 +25673,7 @@ Bezugnahme auf § 325 Absatz 1 des Handelsgesetzbuchs.
 
 
 ##### § 357 Übergangsvorschrift zu § 100a
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE036300118)
 
 § 100a ist mit Wirkung vom 31. Dezember 2015 anzuwenden. § 100a ist
 auch in den Fällen anzuwenden, in denen der Übergang des Immobilien-
@@ -25228,6 +25699,7 @@ Verwahrstelle erst ab dem 31. Dezember 2015 erfolgt ist.
 
 
 ##### § 358 Übergangsvorschriften zu § 95 Absatz 2 und § 97 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037301119)
 
 (1) Für in Sammelverwahrung befindliche Inhaberanteilscheine und noch
 nicht fällige Gewinnanteilscheine kann eine Auslieferung einzelner
@@ -25273,6 +25745,7 @@ verzinsen.
 
 
 ##### § 359 Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037400118)
 
 § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4 in
 der ab dem 25. Juni 2017 geltenden Fassung sind erst ab dem 25.
@@ -25280,6 +25753,7 @@ Dezember 2017 anzuwenden.
 
 
 ##### § 360 Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037700311)
 
 § 268 Absatz 1 Satz 3, § 293 Absatz 1 Satz 2 Nummer 5, § 295 Absatz 8,
 § 307 Absatz 4 und § 318 Absatz 3 Satz 1 in der bis zum 20. Juli 2019
@@ -25290,6 +25764,7 @@ Gültigkeit hat.
 
 
 ##### § 361 Übergangsvorschriften zu § 5 Absatz 2 Satz 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE037800000)
 
 (1) § 5 Absatz 2 Satz 2 und 3 ist erstmals auf externe
 Kapitalverwaltungsgesellschaften anzuwenden, denen ab dem 26. Juni
@@ -25303,6 +25778,7 @@ Erbringung der Finanzportfolioverwaltung erteilt wurde, ist § 5 Absatz
 
 
 ##### § 362 Übergangsvorschrift zum Fondsstandortgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040400123)
 
 § 148 Absatz 1 und die §§ 159a, 160 Absatz 1 in der ab dem 2. August
 2021 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen
@@ -25314,6 +25790,7 @@ anzuwenden auf Rechnungsunterlagen und Jahresberichte für das vor dem
 
 
 ##### § 363 Übergangsvorschrift zum Gesetz zur weiteren Stärkung des Anlegerschutzes
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE040900311)
 
 Die §§ 45 bis 47, 123 und 135 in der ab 17. August 2021 geltenden
 Fassung sind erstmals auf Jahresabschlüsse, Lageberichte und
@@ -25326,6 +25803,7 @@ Lageberichte für das vor dem 1. Januar 2021 beginnende Geschäftsjahr;
 
 
 ##### § 364 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE041000311)
 
 Die §§ 12, 160 und 353 in der ab dem 1. August 2022 geltenden Fassung
 sind erstmals auf Jahresberichte für das nach dem 31. Dezember 2021
@@ -25336,6 +25814,7 @@ sind letztmals anzuwenden auf Jahresberichte für das vor dem 1. Januar
 
 
 ##### § 365 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kagb/BJNR198110013.html#BJNR198110013BJNE041200128)
 
 § 38 Absatz 3 Satz 2 Nummer 9, § 121 Absatz 3 Satz 1 Nummer 2
 Buchstabe h und § 136 Absatz 3 Satz 2 Nummer 8 sind erstmals

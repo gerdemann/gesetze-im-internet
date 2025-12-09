@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/persstdg_ndg_2/BJNR005180957.html#BJNR005180957BJNE000100311)
 
 -
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/persstdg_ndg_2/BJNR005180957.html#BJNR005180957BJNE000200311)
 
 
 1.  Wo in Gesetzen, Rechtsverordnungen und allgemeinen
@@ -43,6 +45,7 @@ Fundstelle
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/persstdg_ndg_2/BJNR005180957.html#BJNR005180957BJNE000300311)
 
 
 1.  Alle diesem Gesetz entgegenstehenden Vorschriften werden aufgehoben.
@@ -122,11 +125,13 @@ Fundstelle
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/persstdg_ndg_2/BJNR005180957.html#BJNR005180957BJNE000400311)
 
 -
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/persstdg_ndg_2/BJNR005180957.html#BJNR005180957BJNE000500311)
 
 Dieses Gesetz und das Gesetz zur Änderung und Ergänzung des
 Personenstandsgesetzes vom 15. Januar 1951 (Bundesgesetzbl. I S. 57)
@@ -139,6 +144,7 @@ auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach
 
 
 ## Art VI
+[Direktlink](https://www.gesetze-im-internet.de/persstdg_ndg_2/BJNR005180957.html#BJNR005180957BJNE000600311)
 
 Artikel I Nr. 50 Buchstabe a, § 69d in Nr. 65, Nr. 67 und Nr. 68
 treten am Tage nach der Verkündung, die übrigen Bestimmungen am 1.

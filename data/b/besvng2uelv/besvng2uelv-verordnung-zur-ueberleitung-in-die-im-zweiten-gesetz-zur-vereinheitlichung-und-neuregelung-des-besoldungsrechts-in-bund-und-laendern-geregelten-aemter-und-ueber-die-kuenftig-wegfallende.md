@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/besvng2_lv/BJNR026080975.html#BJNR026080975BJNE000100317)
 
 Auf Grund des Artikels IX § 4 Abs. 2, 3, 5, § 8 Abs. 2, 3, 5 des
 Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
@@ -31,6 +32,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng2_lv/BJNR026080975.html#BJNR026080975BJNE000200317)
 
 (1) Die von Artikel IX § 4 Abs. 2, 3, § 8 Abs. 2, 3 des Zweiten
 Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in
@@ -50,6 +52,7 @@ sind in der Übersicht in Anlage 2 aufgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/besvng2_lv/BJNR026080975.html#BJNR026080975BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel XI
@@ -58,11 +61,13 @@ des Besoldungsrechts in Bund und Ländern auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/besvng2_lv/BJNR026080975.html#BJNR026080975BJNE000400317)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng2_lv/BJNR026080975.html#BJNR026080975BJNE000501306)
 
 (Anlage 1 ist als Anlagenband zum BGBl. I Nr. 113 v. 8.10.1975
 erschienen.)
@@ -70,6 +75,7 @@ erschienen.)
 Übersicht zu § 1 Abs. 2
 
 ## Anlage 2 (künftig wegfallende Ämter und Amtsbezeichnungen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng2_lv/BJNR026080975.html#BJNR026080975BJNE000604310)
 
 Fundstelle des Originaltextes: Anlageband zu BGBl. I 1975 Nr. 113;
 bzgl. der einzelnen Änderungen vgl. Fußnote

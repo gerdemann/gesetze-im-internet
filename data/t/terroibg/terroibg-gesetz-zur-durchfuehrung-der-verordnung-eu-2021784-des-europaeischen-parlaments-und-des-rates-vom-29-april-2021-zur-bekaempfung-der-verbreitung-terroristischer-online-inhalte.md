@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Zuständigkeiten und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000100000)
 
 (1) Das Bundeskriminalamt ist zuständige Behörde nach Artikel 12
 Absatz 1 Buchstabe a und b der Verordnung (EU) 2021/784 des
@@ -47,6 +48,7 @@ seiner gesetzlichen Aufgaben nach dem Bundeskriminalamtgesetz.
 
 
 ## § 2 Zusammenarbeit mit den Landesmedienanstalten
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000200000)
 
 Das Bundeskriminalamt beteiligt, soweit dies im Einzelfall geboten
 erscheint, bei dem Erlass und der Überprüfung von
@@ -65,6 +67,7 @@ Verwaltungsvereinbarung.
 
 
 ## § 3 Übermittlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000300000)
 
 (1) Das Bundeskriminalamt übermittelt der Bundesnetzagentur
 kalenderjährlich die Informationen nach Artikel 21 Absatz 1 Satz 2
@@ -92,6 +95,7 @@ Verordnung (EU) 2021/784.
 
 
 ## § 4 Transparenzberichte
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000400000)
 
 Die vom Bundeskriminalamt und von der Bundesnetzagentur nach Artikel 8
 der Verordnung (EU) 2021/784 zu erstellenden Transparenzberichte
@@ -100,6 +104,7 @@ veröffentlicht.
 
 
 ## § 5 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000500000)
 
 Zur Durchsetzung der Anordnungen nach Artikel 3 Absatz 1 und Artikel 5
 Absatz 6 der Verordnung (EU) 2021/784 kann nach Maßgabe des
@@ -108,6 +113,7 @@ fünf Millionen Euro festgesetzt werden.
 
 
 ## § 6 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000600000)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2021/784 des
 Europäischen Parlaments und des Rates vom 29. April 2021 zur
@@ -270,6 +276,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
 
 ## § 7 Geltung des Bundeskriminalamtgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/terroibg/BJNR118210022.html#BJNR118210022BJNE000700000)
 
 Das Bundeskriminalamtgesetz findet entsprechende Anwendung, soweit in
 der Verordnung (EU) 2021/784 und in diesem Gesetz keine spezielleren

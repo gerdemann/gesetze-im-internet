@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 am 1.1.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geb_udearbbv_10/BJNR0160A0025.html#BJNR0160A0025BJNE000100000)
 
 Auf Grund des § 7 Absatz 1 und 2 in Verbindung mit Absatz 4 des
 Arbeitnehmer-Entsendegesetzes, dessen Absatz 1 durch Artikel 1 Nummer
@@ -36,6 +37,7 @@ festlegen, Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
 
 
 ## § 1 Zwingende Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/geb_udearbbv_10/BJNR0160A0025.html#BJNR0160A0025BJNE000200000)
 
 (1) Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen
 des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche
@@ -65,6 +67,7 @@ Geltungsbereich dieser Verordnung fällt.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geb_udearbbv_10/BJNR0160A0025.html#BJNR0160A0025BJNE000300000)
 
 Diese Verordnung tritt am 1. Februar 2025 in Kraft und mit Ablauf des
 31\. Dezember 2026 außer Kraft.
@@ -72,6 +75,7 @@ Diese Verordnung tritt am 1. Februar 2025 in Kraft und mit Ablauf des
 (zu § 1 Absatz 1)
 
 ## Anlage Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. November 2024
+[Direktlink](https://www.gesetze-im-internet.de/geb_udearbbv_10/BJNR0160A0025.html#BJNR0160A0025BJNE000400000)
 
 (Fundstelle: BGBl. 2025 I Nr. 22)
 

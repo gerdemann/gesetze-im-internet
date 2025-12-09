@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano_2024/BJNR0710A0024.html#BJNR0710A0024BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales erlässt
 
@@ -46,6 +47,7 @@ die folgende Anordnung:
 
 
 ## I. Übertragung von Disziplinarbefugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano_2024/BJNR0710A0024.html#BJNR0710A0024BJNE000200000)
 
 Der oder dem
 
@@ -98,6 +100,7 @@ e)  die Befugnis nach § 127 Absatz 1 Satz 1 des Bundesbeamtengesetzes zur
 
 
 ## II. Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano_2024/BJNR0710A0024.html#BJNR0710A0024BJNE000300000)
 
 Über die Einleitung von Disziplinarverfahren ist das Bundesministerium
 für Arbeit und Soziales unverzüglich zu unterrichten. Dazu ist der
@@ -107,6 +110,7 @@ und § 43 Satz 1 des Bundesdisziplinargesetzes bleiben unberührt.
 
 
 ## III. Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano_2024/BJNR0710A0024.html#BJNR0710A0024BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. April 2024 in Kraft. Von
 diesem Zeitpunkt an ist die Anordnung zur Durchführung des

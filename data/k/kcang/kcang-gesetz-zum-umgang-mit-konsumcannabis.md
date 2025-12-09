@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000200000)
 
 Im Sinne dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen ist oder sind
@@ -244,6 +246,7 @@ Rechtsverordnungen ist oder sind
 
 
 ### § 2 Umgang mit Cannabis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000303130)
 
 (1) Es ist verboten,
 
@@ -356,6 +359,7 @@ Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 
 ### § 3 Erlaubter Besitz von Cannabis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000401000)
 
 (1) Personen, die das 18. Lebensjahr vollendet haben, ist der Besitz
 von bis zu 25 Gramm Cannabis, bei Blüten, blütennahen Blättern oder
@@ -390,6 +394,7 @@ des Transports nach § 22 Absatz 3.
 
 
 ### § 4 Umgang mit Cannabissamen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000501000)
 
 (1) Der Umgang mit Cannabissamen ist erlaubt, sofern die Cannabissamen
 nicht zum unerlaubten Anbau bestimmt sind.
@@ -408,9 +413,11 @@ gilt entsprechend.
 
 
 ## Kapitel 2 - Gesundheitsschutz, Kinder- und Jugendschutz, Prävention
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000200000)
 
 
 ### § 5 Konsumverbot
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000601000)
 
 (1) Der Konsum von Cannabis in unmittelbarer Gegenwart von Personen,
 die das 18. Lebensjahr noch nicht vollendet haben, ist verboten.
@@ -446,12 +453,14 @@ Cannabis verboten.
 
 
 ### § 6 Allgemeines Werbe- und Sponsoringverbot
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000701000)
 
 Werbung und jede Form des Sponsorings für Cannabis und für
 Anbauvereinigungen sind verboten.
 
 
 ### § 7 Frühintervention
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000800000)
 
 (1) Verstößt eine minderjährige Person gegen § 2 Absatz 1 Nummer 1, 2
 oder Nummer 12, ohne sich nach § 34 Absatz 1 Nummer 1, 2 oder Nummer
@@ -477,6 +486,7 @@ nehmen.
 
 
 ### § 8 Suchtprävention
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE000903130)
 
 (1) Die Bundeszentrale für gesundheitliche Aufklärung
 
@@ -536,9 +546,11 @@ leicht verständlicher Sprache digital zum Herunterladen bereit.
 
 
 ## Kapitel 3 - Privater Eigenanbau durch Erwachsene
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000300000)
 
 
 ### § 9 Anforderungen an den privaten Eigenanbau
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001000000)
 
 (1) Personen, die das 18. Lebensjahr vollendet haben, ist im
 Geltungsbereich dieses Gesetzes an ihrem Wohnsitz oder an ihrem
@@ -550,6 +562,7 @@ weitergegeben werden.
 
 
 ### § 10 Schutzmaßnahmen im privaten Raum
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001100000)
 
 Cannabis und Vermehrungsmaterial sind am Wohnsitz und am gewöhnlichen
 Aufenthalt durch geeignete Maßnahmen und Sicherheitsvorkehrungen vor
@@ -558,12 +571,15 @@ schützen.
 
 
 ## Kapitel 4 - Gemeinschaftlicher Eigenanbau und kontrollierte Weitergabe von Cannabis und Vermehrungsmaterial in Anbauvereinigungen zum Eigenkonsum
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000400000)
 
 
 ### Abschnitt 1 - Erlaubnis für den gemeinschaftlichen Eigenanbau und die Weitergabe von Cannabis in Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000501000)
 
 
 #### § 11 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001201000)
 
 (1) Wer gemeinschaftlich Cannabis anbaut und zum Eigenkonsum an
 Mitglieder weitergibt, bedarf einer Erlaubnis der zuständigen Behörde.
@@ -685,6 +701,7 @@ Rechtskraft, mitzuteilen:
 
 
 #### § 12 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001301130)
 
 (1) Die Erlaubnis nach § 11 Absatz 1 ist zu versagen, wenn
 
@@ -870,6 +887,7 @@ Versagungsgründe nach Absatz 1 Satz 1 zu prüfen.
 
 
 #### § 13 Inhalt der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001400000)
 
 (1) Die Erlaubnis umfasst den gemeinschaftlichen Eigenanbau und die
 Weitergabe des in gemeinschaftlichem Eigenanbau angebauten Cannabis
@@ -897,6 +915,7 @@ Voraussetzungen sicherzustellen.
 
 
 #### § 14 Dauer der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001500000)
 
 Die Dauer der Erlaubnis ist auf einen Zeitraum von sieben Jahren zu
 befristen. Sie kann nach Ablauf von mindestens fünf Jahren auf Antrag
@@ -905,6 +924,7 @@ entsprechend für die Verlängerung der Erlaubnis.
 
 
 #### § 15 Widerruf und Rücknahme der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001600000)
 
 (1) Die Erlaubnis kann vollständig oder in Bezug auf die Eigenanbau-
 oder Weitergabemengen oder das befriedete Besitztum der
@@ -942,9 +962,11 @@ die Vorschriften des Verwaltungsverfahrensgesetzes.
 
 
 ### Abschnitt 2 - Gemeinschaftlicher Eigenanbau in Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000600000)
 
 
 #### § 16 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001701000)
 
 (1) Anbauvereinigungen dürfen nur Mitglieder haben, die das 18.
 Lebensjahr vollendet haben.
@@ -990,6 +1012,7 @@ einer Anbauvereinigung müssen Mitglieder der Anbauvereinigung sein.
 
 
 #### § 17 Anforderungen an den gemeinschaftlichen Eigenanbau von Cannabis; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001802130)
 
 (1) In Anbauvereinigungen darf Cannabis nur von Mitgliedern
 gemeinschaftlich angebaut werden. Anbauvereinigungen dürfen
@@ -1087,6 +1110,7 @@ Schutz der Gesundheit erforderlich ist, Folgendes festzulegen:
 
 
 #### § 18 Maßnahmen zur Qualitätssicherung durch Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE001901000)
 
 (1) Anbauvereinigungen haben sicherzustellen, dass bei ihrer Tätigkeit
 jederzeit die Vorgaben dieses Gesetzes und der auf Grund dieses
@@ -1156,9 +1180,11 @@ vernichten.
 
 
 ### Abschnitt 3 - Kontrollierte Weitergabe und Sicherung von Cannabis und Vermehrungsmaterial in Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000700000)
 
 
 #### § 19 Kontrollierte Weitergabe von Cannabis
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002001000)
 
 (1) Anbauvereinigungen dürfen nur das innerhalb ihres befriedeten
 Besitztums gemeinschaftlich angebaute Cannabis weitergeben. Die
@@ -1188,6 +1214,7 @@ Lieferung von Cannabis sind verboten.
 
 
 #### § 20 Kontrollierte Weitergabe von Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002101000)
 
 (1) Anbauvereinigungen dürfen nur das beim gemeinschaftlichen
 Eigenanbau gewonnene Vermehrungsmaterial innerhalb ihres befriedeten
@@ -1243,6 +1270,7 @@ ausschließlich zu folgenden Zwecken erfolgen:
 
 
 #### § 21 Maßnahmen des Gesundheitsschutzes bei der Weitergabe von Cannabis und Vermehrungsmaterial, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002201000)
 
 (1) Anbauvereinigungen dürfen Cannabis nicht weitergeben, das
 vermischt, vermengt oder verbunden ist mit
@@ -1358,6 +1386,7 @@ dass
 
 
 #### § 22 Sicherung und Transport von Cannabis und Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002301000)
 
 (1) Anbauvereinigungen haben Cannabis und Vermehrungsmaterial gegen
 den Zugriff durch unbefugte Dritte, insbesondere durch Kinder und
@@ -1436,9 +1465,11 @@ zulässig; § 20 Absatz 5 bleibt unberührt.
 
 
 ### Abschnitt 4 - Kinder- und Jugendschutz, Suchtprävention in Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000801000)
 
 
 #### § 23 Kinder- und Jugendschutz sowie Suchtprävention in Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002401000)
 
 (1) Anbauvereinigungen dürfen Personen, die das 18. Lebensjahr noch
 nicht vollendet haben, keinen Zutritt zu ihrem befriedeten Besitztum
@@ -1487,9 +1518,11 @@ Suchtprävention, dargelegt werden.
 
 
 ### Abschnitt 5 - Mitgliedsbeiträge und Selbstkostendeckung in Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG000901000)
 
 
 #### § 24 Mitgliedsbeiträge; laufende Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002501000)
 
 Anbauvereinigungen legen, wenn sie Vereine sind, ihre
 Mitgliedsbeiträge und, wenn sie Genossenschaften sind, die laufenden
@@ -1498,6 +1531,7 @@ genannten ausschließlichen Zwecks in ihrer Satzung fest.
 
 
 #### § 25 Selbstkostendeckung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002601000)
 
 Für die Weitergabe von Vermehrungsmaterial an andere
 Anbauvereinigungen nach § 20 Absatz 1 Satz 1 Nummer 3 oder an die in §
@@ -1508,9 +1542,11 @@ Vermehrungsmaterials entstanden sind.
 
 
 ### Abschnitt 6 - Behördliche Überwachung von Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001000000)
 
 
 #### § 26 Dokumentations- und Berichtspflichten von Anbauvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002701000)
 
 (1) Anbauvereinigungen haben zum Nachweis der Einhaltung der Vorgaben
 der §§ 18 bis 20 und 22 für die Rückverfolgbarkeit des weitergegebenen
@@ -1633,6 +1669,7 @@ würde.
 
 
 #### § 27 Maßnahmen der behördlichen Überwachung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002802130)
 
 (1) Die zuständige Behörde nimmt im befriedeten Besitztum von
 Anbauvereinigungen regelmäßig Stichproben von dem vorhandenen Cannabis
@@ -1760,6 +1797,7 @@ nach Absatz 1 Satz 1 festzulegen.
 
 
 #### § 28 Befugnisse der Behörden zur Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE002901000)
 
 (1) Soweit es zur Erfüllung der Aufgaben nach § 27 erforderlich ist,
 ist die zuständige Behörde befugt,
@@ -1867,6 +1905,7 @@ rechtskräftigem Abschluss des Verfahrens zu löschen.
 
 
 #### § 29 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003001000)
 
 (1) Anbauvereinigungen, ihre vertretungsberechtigten Personen, ihre
 entgeltlich Beschäftigten und ihre Mitglieder haben Maßnahmen nach den
@@ -1894,6 +1933,7 @@ zu belehren.
 
 
 #### § 30 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003100000)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 Zahl der Anbauvereinigungen, die in einem Kreis oder einer kreisfreien
@@ -1905,9 +1945,11 @@ Jugendschutzes berücksichtigen.
 
 
 ## Kapitel 5 - Anbau von Nutzhanf
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001100000)
 
 
 ### § 31 Überwachung des Anbaus von Nutzhanf
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003200000)
 
 (1) Der Anbau von Nutzhanf im Sinne von § 1 Nummer 9 Buchstabe b
 unterliegt der Überwachung durch die Bundesanstalt für Landwirtschaft
@@ -1936,6 +1978,7 @@ verwenden.
 
 
 ### § 32 Anzeige des Anbaus von Nutzhanf
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003300000)
 
 (1) Der Anbau von Nutzhanf im Sinne von § 1 Nummer 9 Buchstabe b ist
 bis zum 1. Juli des Anbaujahres der Bundesanstalt für Landwirtschaft
@@ -1987,9 +2030,11 @@ den Anforderungen dieses Kapitels entspricht, so teilt sie dies der
 
 
 ## Kapitel 6 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001200000)
 
 
 ### § 33 Zuständigkeiten und Zusammenarbeit der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003400000)
 
 (1) Für die Erteilung der Erlaubnis nach § 11 Absatz 1 und die
 behördliche Überwachung nach § 27 sind die Behörden des Landes örtlich
@@ -2036,12 +2081,15 @@ andere staatliche Stellen des Landes übertragen.
 
 
 ## Kapitel 7 - Straf- und Bußgeldvorschriften, Rehabilitierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001300000)
 
 
 ### Abschnitt 1 - Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001400000)
 
 
 #### § 34 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003503130)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird
 bestraft, wer
@@ -2203,6 +2251,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 #### § 35 Strafmilderung und Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003600000)
 
 Das Gericht kann die Strafe nach § 49 Absatz 1 des Strafgesetzbuches
 mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei
@@ -2227,6 +2276,7 @@ entsprechend.
 
 
 #### § 35a Absehen von der Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003700000)
 
 (1) Hat das Verfahren ein Vergehen nach § 34 Absatz 1, 2 oder Absatz 5
 zum Gegenstand, so kann die Staatsanwaltschaft von der Verfolgung
@@ -2248,9 +2298,11 @@ Beschluss. Der Beschluss ist nicht anfechtbar.
 
 
 ### Abschnitt 2 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001500000)
 
 
 #### § 36 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003803130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2435,9 +2487,11 @@ die Bundesanstalt für Landwirtschaft und Ernährung.
 
 
 ### Abschnitt 3 - Einziehung und Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001600000)
 
 
 #### § 37 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE003900000)
 
 Gegenstände, auf die sich eine Straftat nach § 34 oder eine
 Ordnungswidrigkeit nach § 36 bezieht, können eingezogen werden. § 74a
@@ -2446,24 +2500,29 @@ sind anzuwenden.
 
 
 #### § 38 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004000000)
 
 In den Fällen des § 34 Absatz 4 kann das Gericht Führungsaufsicht nach
 § 68 Absatz 1 des Strafgesetzbuches anordnen.
 
 
 ### Abschnitt 4 - Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001700000)
 
 
 #### § 39 Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004100000)
 
 Die §§ 35 bis 38 des Betäubungsmittelgesetzes finden auch bei
 cannabisbezogener Abhängigkeitserkrankung Anwendung.
 
 
 ### Abschnitt 5 - Tilgung von Eintragungen im Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001801000)
 
 
 #### § 40 Tilgungsfähige Eintragungen im Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004201000)
 
 (1) Eine Eintragung im Bundeszentralregister über eine Verurteilung
 nach § 29 des Betäubungsmittelgesetzes ist tilgungsfähig, wenn
@@ -2504,6 +2563,7 @@ nachträglich gebildete Gesamtstrafen beruhen.
 
 
 #### § 41 Feststellung der Tilgungsfähigkeit von Eintragungen im Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004301000)
 
 (1) Die Staatsanwaltschaft stellt auf Antrag der verurteilten Person
 fest, ob eine die Person betreffende Eintragung im
@@ -2541,6 +2601,7 @@ Bundeszentralregistergesetzes ist nicht anzuwenden.
 
 
 #### § 42 Verfahren zur Tilgung von Eintragungen aus dem Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004401000)
 
 (1) Stellt die Staatsanwaltschaft die Tilgungsfähigkeit einer
 Eintragung im Bundeszentralregister über eine strafgerichtliche
@@ -2558,9 +2619,11 @@ zu tilgen.
 
 
 ## Kapitel 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNG001900000)
 
 
 ### § 43 Evaluation des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004501130)
 
 (1) Die gesellschaftlichen Auswirkungen dieses Gesetzes, insbesondere
 auf den Kinder- und Jugendschutz, auf den Gesundheitsschutz und auf
@@ -2613,6 +2676,7 @@ Absatz 2 Satz 1 beauftragten Dritten ermöglichen.
 
 
 ### § 44 THC-Grenzwerte im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kcang/BJNR06D0B0024.html#BJNR06D0B0024BJNE004600000)
 
 Eine vom Bundesministerium für Digitales und Verkehr eingesetzte
 Arbeitsgruppe schlägt bis zum 31. März 2024 den Wert einer

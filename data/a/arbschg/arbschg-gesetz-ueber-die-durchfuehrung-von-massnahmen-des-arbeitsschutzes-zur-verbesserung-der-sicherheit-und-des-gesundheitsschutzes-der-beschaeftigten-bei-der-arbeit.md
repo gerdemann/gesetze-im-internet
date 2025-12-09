@@ -34,10 +34,12 @@ Arbeitsverhältnis oder Leiharbeitsverhältnis (ABl. EG Nr. L 206 S.
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNG000200000)
 
 
 
 ### § 1 Zielsetzung und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE000301308)
 
 (1) Dieses Gesetz dient dazu, Sicherheit und Gesundheitsschutz der
 Beschäftigten bei der Arbeit durch Maßnahmen des Arbeitsschutzes zu
@@ -65,6 +67,7 @@ entsprechend dem kirchlichen Recht.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE000400000)
 
 (1) Maßnahmen des Arbeitsschutzes im Sinne dieses Gesetzes sind
 Maßnahmen zur Verhütung von Unfällen bei der Arbeit und
@@ -116,10 +119,12 @@ Einrichtungen der Streitkräfte.
 
 
 ## Zweiter Abschnitt - Pflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNG000500000)
 
 
 
 ### § 3 Grundpflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE000600000)
 
 (1) Der Arbeitgeber ist verpflichtet, die erforderlichen Maßnahmen des
 Arbeitsschutzes unter Berücksichtigung der Umstände zu treffen, die
@@ -150,6 +155,7 @@ den Beschäftigten auferlegen.
 
 
 ### § 4 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE000701377)
 
 Der Arbeitgeber hat bei Maßnahmen des Arbeitsschutzes von folgenden
 allgemeinen Grundsätzen auszugehen:
@@ -191,6 +197,7 @@ allgemeinen Grundsätzen auszugehen:
 
 
 ### § 5 Beurteilung der Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE000801377)
 
 (1) Der Arbeitgeber hat durch eine Beurteilung der für die
 Beschäftigten mit ihrer Arbeit verbundenen Gefährdung zu ermitteln,
@@ -228,6 +235,7 @@ eines Arbeitsplatzes oder einer Tätigkeit ausreichend.
 
 
 ### § 6 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE000903377)
 
 (1) Der Arbeitgeber muß über die je nach Art der Tätigkeiten und der
 Zahl der Beschäftigten erforderlichen Unterlagen verfügen, aus denen
@@ -243,6 +251,7 @@ Arbeitgeber zu erfassen.
 
 
 ### § 7 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001000000)
 
 Bei der Übertragung von Aufgaben auf Beschäftigte hat der Arbeitgeber
 je nach Art der Tätigkeiten zu berücksichtigen, ob die Beschäftigten
@@ -252,6 +261,7 @@ einzuhalten.
 
 
 ### § 8 Zusammenarbeit mehrerer Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001100000)
 
 (1) Werden Beschäftigte mehrerer Arbeitgeber an einem Arbeitsplatz
 tätig, sind die Arbeitgeber verpflichtet, bei der Durchführung der
@@ -271,6 +281,7 @@ erhalten haben.
 
 
 ### § 9 Besondere Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001200000)
 
 (1) Der Arbeitgeber hat Maßnahmen zu treffen, damit nur Beschäftigte
 Zugang zu besonders gefährlichen Arbeitsbereichen haben, die zuvor
@@ -301,6 +312,7 @@ sowie die §§ 7 und 11 des Soldatengesetzes bleiben unberührt.
 
 
 ### § 10 Erste Hilfe und sonstige Notfallmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001300000)
 
 (1) Der Arbeitgeber hat entsprechend der Art der Arbeitsstätte und der
 Tätigkeiten sowie der Zahl der Beschäftigten die Maßnahmen zu treffen,
@@ -324,6 +336,7 @@ Ausbildung und Ausrüstung verfügt.
 
 
 ### § 11 Arbeitsmedizinische Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001400000)
 
 Der Arbeitgeber hat den Beschäftigten auf ihren Wunsch unbeschadet der
 Pflichten aus anderen Rechtsvorschriften zu ermöglichen, sich je nach
@@ -334,6 +347,7 @@ Schutzmaßnahmen ist nicht mit einem Gesundheitsschaden zu rechnen.
 
 
 ### § 12 Unterweisung
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001500000)
 
 (1) Der Arbeitgeber hat die Beschäftigten über Sicherheit und
 Gesundheitsschutz bei der Arbeit während ihrer Arbeitszeit ausreichend
@@ -354,6 +368,7 @@ Die sonstigen Arbeitsschutzpflichten des Verleihers bleiben unberührt.
 
 
 ### § 13 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001601377)
 
 (1) Verantwortlich für die Erfüllung der sich aus diesem Abschnitt
 ergebenden Pflichten sind neben dem Arbeitgeber
@@ -386,6 +401,7 @@ Gesetz in eigener Verantwortung wahrzunehmen.
 
 
 ### § 14 Unterrichtung und Anhörung der Beschäftigten des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001700000)
 
 (1) Die Beschäftigten des öffentlichen Dienstes sind vor Beginn der
 Beschäftigung und bei Veränderungen in ihren Arbeitsbereichen über
@@ -401,10 +417,12 @@ Beschäftigten haben können.
 
 
 ## Dritter Abschnitt - Pflichten und Rechte der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNG001800000)
 
 
 
 ### § 15 Pflichten der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE001900000)
 
 (1) Die Beschäftigten sind verpflichtet, nach ihren Möglichkeiten
 sowie gemäß der Unterweisung und Weisung des Arbeitgebers für ihre
@@ -421,6 +439,7 @@ verwenden.
 
 
 ### § 16 Besondere Unterstützungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002000000)
 
 (1) Die Beschäftigten haben dem Arbeitgeber oder dem zuständigen
 Vorgesetzten jede von ihnen festgestellte unmittelbare erhebliche
@@ -440,6 +459,7 @@ mitteilen.
 
 
 ### § 17 Rechte der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002104377)
 
 (1) Die Beschäftigten sind berechtigt, dem Arbeitgeber Vorschläge zu
 allen Fragen der Sicherheit und des Gesundheitsschutzes bei der Arbeit
@@ -460,10 +480,12 @@ Hinweisgeberschutzgesetzes, der Wehrbeschwerdeordnung und des Gesetzes
 
 
 ## Vierter Abschnitt - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNG002200000)
 
 
 
 ### § 18 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002307126)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates vorzuschreiben, welche Maßnahmen der
@@ -539,6 +561,7 @@ spätestens mit Ablauf des 7. April 2023 endet,
 
 
 ### § 19 Rechtsakte der Europäischen Gemeinschaften und zwischenstaatliche Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002400000)
 
 Rechtsverordnungen nach § 18 können auch erlassen werden, soweit dies
 zur Durchführung von Rechtsakten des Rates oder der Kommission der
@@ -550,6 +573,7 @@ Personen zu regeln.
 
 
 ### § 20 Regelungen für den öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002505124)
 
 (1) Für die Beamten der Länder, Gemeinden und sonstigen
 Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
@@ -581,10 +605,12 @@ und 3 entsprechende Regelungen durch Landesrecht getroffen werden.
 
 
 ## Fünfter Abschnitt - Gemeinsame deutsche Arbeitsschutzstrategie
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNG002700308)
 
 
 
 ### § 20a Gemeinsame deutsche Arbeitsschutzstrategie
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE003300308)
 
 (1) Nach den Bestimmungen dieses Abschnitts entwickeln Bund, Länder
 und Unfallversicherungsträger im Interesse eines wirksamen
@@ -623,6 +649,7 @@ der gemeinsamen deutschen Arbeitsschutzstrategie zu erreichen.
 
 
 ### § 20b Nationale Arbeitsschutzkonferenz
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE003400308)
 
 (1) Die Aufgabe der Entwicklung, Steuerung und Fortschreibung der
 gemeinsamen deutschen Arbeitsschutzstrategie nach § 20a Abs. 1 Satz 1
@@ -669,10 +696,12 @@ der Geschäftsordnung der Nationalen Arbeitsschutzkonferenz festgelegt.
 
 
 ## Sechster Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNG002601308)
 
 
 
 ### § 21 Zuständige Behörden, Zusammenwirken mit den Trägern der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002712126)
 
 (1) Die Überwachung des Arbeitsschutzes nach diesem Gesetz ist
 staatliche Aufgabe. Die zuständigen Behörden haben die Einhaltung
@@ -840,6 +869,7 @@ nicht erstattet.
 
 
 ### § 22 Befugnisse der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002801126)
 
 (1) Die zuständige Behörde kann vom Arbeitgeber oder von den
 verantwortlichen Personen die zur Durchführung ihrer
@@ -915,6 +945,7 @@ werden.
 
 
 ### § 23 Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht, Bundesfachstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE002911126)
 
 (1) Der Arbeitgeber hat der zuständigen Behörde zu einem von ihr
 bestimmten Zeitpunkt Mitteilungen über
@@ -1038,6 +1069,7 @@ und Arbeitsmedizin festlegen.
 
 
 ### § 24 Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE003004126)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften erlassen insbesondere
@@ -1063,6 +1095,7 @@ Verwaltungsvorschriften erlassen insbesondere
 
 
 ### § 24a Ausschuss für Sicherheit und Gesundheit bei der Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE003500126)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Sicherheit und Gesundheit bei der Arbeit gebildet, in dem
@@ -1135,6 +1168,7 @@ Arbeitsmedizin.
 
 
 ### § 25 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE003102126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1166,6 +1200,7 @@ dreißigtausend Euro geahndet werden.
 
 
 ### § 26 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html#BJNR124610996BJNE003200000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer

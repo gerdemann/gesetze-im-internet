@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE000401315)
 
 Auf Grund des § 55 Abs. 3 des Schwerbehindertengesetzes in der Fassung
 der Bekanntmachung vom 8. Oktober 1979 (BGBl. I S. 1649) verordnet die
@@ -27,10 +28,12 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Erster Abschnitt - Fachliche Anforderungen an die Werkstatt für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNG000101308)
 
 
 
 ### § 1 Grundsatz der einheitlichen Werkstatt
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE000504119)
 
 (1) Die Werkstatt für behinderte Menschen (Werkstatt) hat zur
 Erfüllung ihrer gesetzlichen Aufgaben die Voraussetzungen dafür zu
@@ -45,6 +48,7 @@ Arbeitsbereich, Rechnung getragen werden.
 
 
 ### § 2 Fachausschuß
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE000608377)
 
 (1) Bei jeder Werkstatt ist ein Fachausschuß zu bilden. Ihm gehören in
 gleicher Zahl an
@@ -83,6 +87,7 @@ Beschäftigung nach § 55 des Neunten Buches Sozialgesetzbuch.
 
 
 ### § 3 Eingangsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE000705119)
 
 (1) Die Werkstatt führt im Benehmen mit dem zuständigen
 Rehabilitationsträger Eingangsverfahren durch. Aufgabe des
@@ -119,6 +124,7 @@ Teilhabe in der Zwischenzeit durchgeführt werden sollen.
 
 
 ### § 4 Berufsbildungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE000805119)
 
 (1) Die Werkstatt führt im Benehmen mit dem im Berufsbildungsbereich
 und dem im Arbeitsbereich zuständigen Rehabilitationsträger Maßnahmen
@@ -183,6 +189,7 @@ Sozialgesetzbuch). Im übrigen gilt § 3 Abs. 3 entsprechend.
 
 
 ### § 5 Arbeitsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE000904308)
 
 (1) Die Werkstatt soll über ein möglichst breites Angebot an
 Arbeitsplätzen verfügen, um Art und Schwere der Behinderung, der
@@ -232,6 +239,7 @@ entsprechend.
 
 
 ### § 6 Beschäftigungszeit
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001001308)
 
 (1) Die Werkstatt hat sicherzustellen, daß die behinderten Menschen im
 Berufsbildungs- und Arbeitsbereich wenigstens 35 und höchstens 40
@@ -245,6 +253,7 @@ zur Erfüllung des Erziehungsauftrages notwendig erscheint.
 
 
 ### § 7 Größe der Werkstatt
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001101315)
 
 (1) Die Werkstatt soll in der Regel über mindestens 120 Plätze
 verfügen.
@@ -255,6 +264,7 @@ diese Zahl von Plätzen verfügt.
 
 
 ### § 8 Bauliche Gestaltung, Ausstattung, Standort
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001203119)
 
 (1) Die bauliche Gestaltung und die Ausstattung der Werkstatt müssen
 der Aufgabenstellung der Werkstatt als einer Einrichtung zur Teilhabe
@@ -278,6 +288,7 @@ organisieren.
 
 
 ### § 9 Werkstattleiter, Fachpersonal zur Arbeits- und Berufsförderung
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001301308)
 
 (1) Die Werkstatt muß über die Fachkräfte verfügen, die erforderlich
 sind, um ihre Aufgaben entsprechend den jeweiligen Bedürfnissen der
@@ -319,6 +330,7 @@ Anforderungen stellt.
 
 
 ### § 10 Begleitende Dienste
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001401308)
 
 (1) Die Werkstatt muß zur pädagogischen, sozialen und medizinischen
 Betreuung der behinderten Menschen über begleitende Dienste verfügen,
@@ -340,12 +352,14 @@ vertraglich sichergestellt sein.
 
 
 ### § 11 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001501315)
 
 Die Werkstatt hat dem Fachpersonal nach den §§ 9 und 10 Gelegenheit
 zur Teilnahme an Fortbildungsmaßnahmen zu geben.
 
 
 ### § 12 Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001605119)
 
 (1) Die Werkstatt muß nach betriebswirtschaftlichen Grundsätzen
 organisiert sein. Sie hat nach kaufmännischen Grundsätzen Bücher zu
@@ -428,6 +442,7 @@ Angaben durch Einsicht in die nach Absatz 1 zu führenden Unterlagen zu
 
 
 ### § 13 Abschluß von schriftlichen Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001705119)
 
 (1) Die Werkstätten haben mit den im Arbeitsbereich beschäftigten
 behinderten Menschen, soweit auf sie die für einen Arbeitsvertrag
@@ -446,6 +461,7 @@ behinderten Menschen aus dem Arbeitsergebnis näher zu regeln.
 
 
 ### § 14 Mitbestimmung, Mitwirkung, Frauenbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001804119)
 
 Die Werkstatt hat den Menschen mit Behinderungen im Sinne des § 13
 Absatz 1 Satz 1 eine angemessene Mitbestimmung und Mitwirkung durch
@@ -454,6 +470,7 @@ Interessenvertretung zu ermöglichen.
 
 
 ### § 15 Werkstattverbund
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE001903119)
 
 (1) Mehrere Werkstätten desselben Trägers oder verschiedener Träger
 innerhalb eines Einzugsgebietes im Sinne des § 8 Abs. 3 oder mit
@@ -469,6 +486,7 @@ ist.
 
 
 ### § 16 Formen der Werkstatt
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE002001315)
 
 Die Werkstatt kann eine teilstationäre Einrichtung oder ein
 organisatorisch selbständiger Teil einer stationären Einrichtung
@@ -477,10 +495,12 @@ sein.
 
 
 ## Zweiter Abschnitt - Verfahren zur Anerkennung als Werkstatt für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNG000201308)
 
 
 
 ### § 17 Anerkennungsfähige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE002103119)
 
 (1) Als Werkstätten können nur solche Einrichtungen anerkannt werden,
 die die im § 219 des Neunten Buches Sozialgesetzbuch und im Ersten
@@ -505,6 +525,7 @@ des § 7 erfüllt.
 
 
 ### § 18 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE002205301)
 
 (1) Die Anerkennung ist vom Träger der Werkstatt schriftlich oder
 elektronisch zu beantragen. Der Antragsteller hat nachzuweisen, daß
@@ -519,19 +540,23 @@ die Anerkennung als Werkstatt für behinderte Menschen hinzuweisen.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNG000301315)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE002301315)
 
 -
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE002403119)
 
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schwbwv/BJNR013650980.html#BJNR013650980BJNE002501315)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

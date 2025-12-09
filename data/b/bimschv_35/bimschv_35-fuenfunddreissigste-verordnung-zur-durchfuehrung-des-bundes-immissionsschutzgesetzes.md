@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000101310)
 
 (1) Diese Verordnung regelt Ausnahmen von Verkehrsverboten nach § 40
 Abs. 1 des Bundes-Immissionsschutzgesetzes und die Zuordnung von
@@ -45,6 +46,7 @@ nicht aufrechterhalten werden können.
 
 
 ## § 2 Zuordnung von Kraftfahrzeugen zu Schadstoffgruppen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000200000)
 
 (1) Kraftfahrzeuge, die mit einer Plakette nach Anhang 1
 gekennzeichnet sind, sind von einem Verkehrsverbot im Sinne des § 40
@@ -63,6 +65,7 @@ Plakette gekennzeichnet sind.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000300000)
 
 (1) Zur Kennzeichnung der Kraftfahrzeuge nach den Schadstoffgruppen 2
 bis 4 sind nicht wiederverwendbare lichtechte und
@@ -84,6 +87,7 @@ selbst zerstört.
 
 
 ## § 4 Ausgabe der Plaketten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000400000)
 
 Ausgabestellen für die Plaketten sind die Zulassungsbehörden oder die
 nach Landesrecht sonst zuständigen Stellen sowie die nach § 47a Abs. 2
@@ -97,6 +101,7 @@ zuletzt durch Artikel 10 der Verordnung vom 25. April 2006 (BGBl. I S.
 
 
 ## § 5 Nachweis der Schadstoffgruppe für im Inland zugelassene Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000501116)
 
 (1) Die Zuordnung eines Kraftfahrzeuges zu einer Schadstoffgruppe wird
 nachgewiesen
@@ -121,6 +126,7 @@ Verkehrsblatt bekannt.
 
 
 ## § 6 Nachweis der Schadstoffgruppe für im Ausland zugelassene Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000601310)
 
 (1) Bei Fahrzeugen, die im Ausland zugelassen sind und die unter die
 Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der
@@ -318,6 +324,7 @@ der Schadstoffgruppe 4 an, wenn
 Plakettenmuster
 
 ## Anhang 1 (zu § 2 Abs. 1 und § 3 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000700000)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 2220)
 
@@ -374,6 +381,7 @@ St. Augustin, zu entnehmen.
 Zuordnung der Kraftfahrzeuge zu den Schadstoffgruppen
 
 ## Anhang 2 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000801310)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2221 - 2224;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -905,6 +913,7 @@ zugeordnet.
 Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1
 
 ## Anhang 3 (zu § 2 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_35/BJNR221810006.html#BJNR221810006BJNE000901310)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2225;
 bzgl. der einzelnen Änderungen vgl. Fußnote

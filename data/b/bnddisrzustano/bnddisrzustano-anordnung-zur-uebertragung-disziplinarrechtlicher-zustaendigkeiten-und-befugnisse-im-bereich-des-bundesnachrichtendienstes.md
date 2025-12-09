@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bnddisrzustano/BJNR056000002.html#BJNR056000002BJNE000100305)
 
 Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 Satz 2 und § 84 Satz
 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510)

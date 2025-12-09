@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grabfertvbgautv/BJNR270220996.html#BJNR270220996BJNE000100310)
 
 Auf Grund des Artikels 2 Abs. 2 des Gesetzes vom 25. August 1960 zu
 dem Abkommen vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland
@@ -32,6 +33,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/grabfertvbgautv/BJNR270220996.html#BJNR270220996BJNE000200310)
 
 An der deutsch-österreichischen Grenze werden an den Grenzübergängen
 Pfronten-Steinach/Schönbichl, Niederndorf/Oberaudorf, Erl/Windshausen,
@@ -48,6 +50,7 @@ veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/grabfertvbgautv/BJNR270220996.html#BJNR270220996BJNE000300310)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
 

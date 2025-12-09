@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmawidvertrano_2021/BJNR079900021.html#BJNR079900021BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -26,6 +27,7 @@ Bundesministerium der Justiz und für Verbraucherschutz an:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/dpmawidvertrano_2021/BJNR079900021.html#BJNR079900021BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass von
 Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche von
@@ -36,11 +38,13 @@ Ablehnung des Anspruchs zuständig war.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmawidvertrano_2021/BJNR079900021.html#BJNR079900021BJNE000600000)
 
 Die Bundesministerin der Justiz und für Verbraucherschutz
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/dpmawidvertrano_2021/BJNR079900021.html#BJNR079900021BJNE000300000)
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
 die Vertretung der Bundesrepublik Deutschland in
@@ -50,6 +54,7 @@ für den Erlass des Widerspruchsbescheids zuständig war.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/dpmawidvertrano_2021/BJNR079900021.html#BJNR079900021BJNE000400000)
 
 Auf Widersprüche und Klagen in Angelegenheiten des Reisekostenrechts,
 die vor dem Inkrafttreten dieser Anordnung erhoben worden sind, ist
@@ -63,6 +68,7 @@ Inkrafttreten dieser Anordnung erhoben worden sind.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dpmawidvertrano_2021/BJNR079900021.html#BJNR079900021BJNE000500000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig tritt die Anordnung zur

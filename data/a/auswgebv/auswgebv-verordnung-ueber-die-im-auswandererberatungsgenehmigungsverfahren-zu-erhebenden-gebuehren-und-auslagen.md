@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auswgebv/BJNR059800013.html#BJNR059800013BJNE000100000)
 
 Auf Grund des § 3a Absatz 2 Satz 1 in Verbindung mit Satz 2 des
 Auswandererschutzgesetzes in der Fassung der Bekanntmachung vom 12.
@@ -26,6 +27,7 @@ Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/auswgebv/BJNR059800013.html#BJNR059800013BJNE000200000)
 
 (1) Für die Genehmigung der Auswandererberatung wird eine Gebühr von
 150 Euro erhoben.
@@ -39,6 +41,7 @@ erhoben.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auswgebv/BJNR059800013.html#BJNR059800013BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

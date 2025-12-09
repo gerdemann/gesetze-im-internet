@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE000403125)
 
 (1) Hilfe für die Wahrnehmung von Rechten außerhalb eines
 gerichtlichen Verfahrens und im obligatorischen Güteverfahren nach §
@@ -58,6 +59,7 @@ sowie ihre besondere wirtschaftliche Lage zu berücksichtigen.
 
 
 ## § 2 Gegenstand der Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE000503125)
 
 (1) Die Beratungshilfe besteht in Beratung und, soweit erforderlich,
 in Vertretung. Eine Vertretung ist erforderlich, wenn Rechtsuchende
@@ -75,6 +77,7 @@ sofern der Sachverhalt keine Beziehung zum Inland aufweist.
 
 
 ## § 3 Gewährung von Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE000603125)
 
 (1) Die Beratungshilfe wird durch Rechtsanwälte und durch
 Rechtsbeistände, die Mitglied einer Rechtsanwaltskammer sind, gewährt.
@@ -103,6 +106,7 @@ einer Erklärung entsprochen werden kann.
 
 
 ## § 4 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE000704125)
 
 (1) Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht, in
 dessen Bezirk die Rechtsuchenden ihren allgemeinen Gerichtsstand
@@ -154,6 +158,7 @@ Verfahren anhängig ist oder war.
 
 
 ## § 5 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE000802125)
 
 Für das Verfahren gelten die Vorschriften des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -163,6 +168,7 @@ Gerichtsverfassungsgesetzes gelten entsprechend.
 
 
 ## § 6 Berechtigungsschein
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE000902125)
 
 (1) Sind die Voraussetzungen für die Gewährung von Beratungshilfe
 gegeben und wird die Angelegenheit nicht durch das Amtsgericht
@@ -178,6 +184,7 @@ zu stellen.
 
 
 ## § 6a Aufhebung der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE002101125)
 
 (1) Das Gericht kann die Bewilligung von Amts wegen aufheben, wenn die
 Voraussetzungen für die Beratungshilfe zum Zeitpunkt der Bewilligung
@@ -208,6 +215,7 @@ nicht mehr erfüllen.
 
 
 ## § 7 Rechtsbehelf
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE001002125)
 
 Gegen den Beschluss, durch den der Antrag auf Bewilligung von
 Beratungshilfe zurückgewiesen oder durch den die Bewilligung von Amts
@@ -216,6 +224,7 @@ nur die Erinnerung statthaft.
 
 
 ## § 8 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE001104125)
 
 (1) Die Vergütung der Beratungsperson richtet sich nach den für die
 Beratungshilfe geltenden Vorschriften des
@@ -231,6 +240,7 @@ Entscheidung durch das Gericht.
 
 
 ## § 8a Folgen der Aufhebung der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE002201125)
 
 (1) Wird die Beratungshilfebewilligung aufgehoben, bleibt der
 Vergütungsanspruch der Beratungsperson gegen die Staatskasse
@@ -276,6 +286,7 @@ entsprechend.
 
 
 ## § 9 Kostenersatz durch den Gegner
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE001203125)
 
 Ist der Gegner verpflichtet, Rechtsuchenden die Kosten der Wahrnehmung
 ihrer Rechte zu ersetzen, hat er für die Tätigkeit der Beratungsperson
@@ -285,6 +296,7 @@ zum Nachteil der Rechtsuchenden geltend gemacht werden.
 
 
 ## § 10 Streitsachen mit grenzüberschreitendem Bezug
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE001302125)
 
 (1) Bei Streitsachen mit grenzüberschreitendem Bezug nach der
 Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung
@@ -316,6 +328,7 @@ gilt entsprechend.
 
 
 ## § 10a Grenzüberschreitende Unterhaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE002001125)
 
 (1) Bei Unterhaltssachen nach der Verordnung (EG) Nr. 4/2009 des Rates
 vom 18. Dezember 2008 (ABl. L 7 vom 10.1.2009, S. 1) erfolgt die
@@ -332,6 +345,7 @@ zuständig.
 
 
 ## § 11 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE001604125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens
@@ -342,6 +356,7 @@ einzuführen und deren Verwendung vorzuschreiben.
 
 
 ## § 12 Länderklauseln
+[Direktlink](https://www.gesetze-im-internet.de/berathig/BJNR006890980.html#BJNR006890980BJNE001704125)
 
 (1) In den Ländern Bremen und Hamburg tritt die eingeführte
 öffentliche Rechtsberatung an die Stelle der Beratungshilfe nach

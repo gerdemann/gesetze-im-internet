@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000102311)
 
 (1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58
 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die
@@ -53,6 +54,7 @@ soweit
 
 
 ## § 2 Inhalt der Datei und Speicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000201377)
 
 Die beteiligten Behörden sind verpflichtet, bereits erhobene Daten
 nach § 3 Absatz 1 in der Datei nach § 1 zu speichern, wenn sie gemäß
@@ -109,6 +111,7 @@ Rechtsvorschriften automatisiert verarbeiten dürfen.
 
 
 ## § 3 Zu speichernde Datenarten
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000302377)
 
 (1) In der Datei werden, soweit vorhanden, folgende Datenarten
 gespeichert:
@@ -272,6 +275,7 @@ des Absatzes 1 in derselben Verwaltungsvorschrift vorsehen.
 
 
 ## § 4 Beschränkte und verdeckte Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000405377)
 
 (1) Soweit besondere Geheimhaltungsinteressen oder besonders
 schutzwürdige Interessen des Betroffenen dies ausnahmsweise erfordern,
@@ -346,6 +350,7 @@ Satz 1 absehen (beschränkte Speicherung).
 
 
 ## § 5 Zugriff auf die Daten
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000502377)
 
 (1) Die beteiligten Behörden dürfen die in der Datei nach § 1
 gespeicherten Daten im automatisierten Verfahren nutzen, soweit dies
@@ -415,6 +420,7 @@ und dokumentiert werden und erkennbar sein.
 
 
 ## § 6 Weitere Verwendung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000601377)
 
 (1) Die abfragende Behörde darf die Daten, auf die sie Zugriff
 erhalten hat, zur Prüfung, ob der Treffer der gesuchten Person oder
@@ -456,6 +462,7 @@ verwenden. § 487 Absatz 3 der Strafprozessordnung gilt entsprechend.
 
 
 ## § 7 Erweiterte projektbezogene Datennutzung
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000702377)
 
 (1) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
 gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
@@ -584,6 +591,7 @@ nach § 1 Absatz 2 zur Teilnahme an der Datei berechtigt werden.
 
 
 ## § 8 Übermittlung von Erkenntnissen
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000800000)
 
 Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6
 Absatz 1 Satz 1 oder von erweitert genutzten Daten nach § 7 zwischen
@@ -592,6 +600,7 @@ den beteiligten Behörden richtet sich nach den jeweils geltenden
 
 
 ## § 9 Datenschutzrechtliche Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE000901377)
 
 (1) Die datenschutzrechtliche Verantwortung für die in der Datei
 gespeicherten Daten, namentlich für die Rechtmäßigkeit der Erhebung,
@@ -613,6 +622,7 @@ berichtigt.
 
 
 ## § 10 Protokollierung, technische und organisatorische Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE001002377)
 
 (1) Das Bundeskriminalamt hat bei jedem Zugriff für Zwecke der
 Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung
@@ -637,6 +647,7 @@ Bundeskriminalamts zu veröffentlichen.
 
 
 ## § 11 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE001102377)
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 9
 Absatz 1 des Bundesdatenschutzgesetzes der oder dem Bundesbeauftragten
@@ -664,6 +675,7 @@ Rechtsvorschriften.
 
 
 ## § 12 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE001201377)
 
 (1) Unrichtige Daten sind zu berichtigen.
 
@@ -694,6 +706,7 @@ personenbezogene Daten zu berichtigen oder zu löschen sind.
 
 
 ## § 13 Festlegungen für die gemeinsame Datei
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE001302311)
 
 Das Bundeskriminalamt hat für die gemeinsame Datei im Einvernehmen mit
 den beteiligten Behörden Einzelheiten festzulegen zu
@@ -732,6 +745,7 @@ die Informationsfreiheit ist vor den Festlegungen anzuhören.
 
 
 ## § 14 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/red-g/BJNR179810012.html#BJNR179810012BJNE001400000)
 
 Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel
 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel

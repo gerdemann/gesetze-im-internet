@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs3dv/BJNR208600995.html#BJNR208600995BJNE000100000)
 
 Auf Grund des § 5 Abs. 3 des Finanzverwaltungsgesetzes, der durch
 Artikel 3 des Gesetzes vom 11. Oktober 1995 (BGBl. I S. 1250)
@@ -27,6 +28,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Abrechnung durch das Bundeszentralamt für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs3dv/BJNR208600995.html#BJNR208600995BJNE000201308)
 
 Die Mitfinanzierungsanteile der Länder und Gemeinden an den von den
 Familienkassen bei der Durchführung des Familienleistungsausgleichs
@@ -37,6 +39,7 @@ Steuern abzurechnen.
 
 
 ## § 2 Länderweise Aufteilung der Länder- und Gemeindeanteile
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs3dv/BJNR208600995.html#BJNR208600995BJNE000303360)
 
 Grundlage für die länderweise Aufteilung der Länder- und
 Gemeindeanteile an den gewährten Steuervergütungen bilden die von der
@@ -54,6 +57,7 @@ Länder einschließlich ihrer Gemeinden zu.
 
 
 ## § 3 Erstattung durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs3dv/BJNR208600995.html#BJNR208600995BJNE000401360)
 
 Die nach § 2 festgestellten Erstattungsbeträge der einzelnen Länder
 einschließlich ihrer Gemeinden sind von den Ländern bis zum 15. des
@@ -64,11 +68,13 @@ zum 15. Dezember auf demselben Zahlungsweg zu leisten.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs3dv/BJNR208600995.html#BJNR208600995BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs3dv/BJNR208600995.html#BJNR208600995BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

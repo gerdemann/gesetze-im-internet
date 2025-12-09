@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000100000)
 
 Die Digitale Rentenübersicht dient der Verbesserung des
 Kenntnisstandes der Bürgerinnen und Bürger über ihre jeweilige
@@ -29,6 +30,7 @@ vergleichbar sein.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000201126)
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -104,6 +106,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 
 ## § 3 Zentrale Stelle für die Digitale Rentenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000301126)
 
 (1) Es wird eine Zentrale Stelle für die Digitale Rentenübersicht
 errichtet, die ein elektronisches Portal betreibt, über das die
@@ -146,6 +149,7 @@ erfassen und auszuwerten.
 
 
 ## § 4 Grundsätze der Digitalen Rentenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000400000)
 
 (1) Bürgerinnen und Bürger können die Digitale Rentenübersicht über
 das Portal der Zentralen Stelle für die Digitale Rentenübersicht
@@ -175,6 +179,7 @@ Zusammenhang rechtmäßig erhoben hat.
 
 
 ## § 5 Inhalte der Digitalen Rentenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000500000)
 
 (1) Auf Anfrage der Zentralen Stelle für die Digitale Rentenübersicht
 nach § 4 Absatz 2 übermitteln die angebundenen Vorsorgeeinrichtungen
@@ -239,6 +244,7 @@ Altersvorsorgeansprüche abweichen kann.
 
 
 ## § 6 Entwicklung und erste Betriebsphase
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000600000)
 
 (1) Die Zentrale Stelle für die Digitale Rentenübersicht entwickelt
 unter Beachtung der Vorgaben dieses Gesetzes die inhaltliche und
@@ -259,6 +265,7 @@ Betriebsphase vor.
 
 
 ## § 7 Anbindung der Vorsorgeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000700000)
 
 (1) Vorsorgeeinrichtungen können sich freiwillig an die Zentrale
 Stelle für die Digitale Rentenübersicht anbinden. Die Zentrale Stelle
@@ -291,6 +298,7 @@ Digitale Rentenübersicht entstehen, werden diesen nicht erstattet.
 
 
 ## § 8 Gestaltung der Zentralen Stelle für die Digitale Rentenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000801126)
 
 (1) Die Zentrale Stelle für die Digitale Rentenübersicht wird bei der
 Deutschen Rentenversicherung Bund eingerichtet. Damit erhält die
@@ -317,6 +325,7 @@ Ausgestaltung der Digitalen Rentenübersicht.
 
 
 ## § 9 Steuerungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE000900000)
 
 (1) Bei der Zentralen Stelle für die Digitale Rentenübersicht wird ein
 Steuerungsgremium gebildet. Das Steuerungsgremium hat, ungeachtet der
@@ -339,6 +348,7 @@ Arbeit und Soziales und des Bundesministeriums der Finanzen zusammen.
 
 
 ## § 10 Fachbeiräte
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE001000000)
 
 Zu ihrer weiteren Unterstützung und Beratung kann die Zentrale Stelle
 für die Digitale Rentenübersicht Fachbeiräte einsetzen. Zu bestimmten
@@ -347,6 +357,7 @@ Rentenübersicht auf Beschluss des Steuerungsgremiums Fachbeiräte ein.
 
 
 ## § 11 Verarbeitung der Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE001100000)
 
 Die angebundenen Vorsorgeeinrichtungen sind berechtigt, die
 Identifikationsnummern bei ihren Kundinnen und Kunden zu erheben. Nur
@@ -364,6 +375,7 @@ für die Digitale Rentenübersicht beauftragten Dritten.
 
 
 ## § 12 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE001200000)
 
 (1) Die Nutzung des Portals erfordert eine sichere elektronische
 Authentifizierung der oder des Nutzenden nach dem jeweils aktuellen
@@ -388,6 +400,7 @@ Daten zu löschen.
 
 
 ## § 13 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rent_g/BJNR015410021.html#BJNR015410021BJNE001301126)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch

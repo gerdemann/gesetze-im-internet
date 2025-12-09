@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Die Vorschrift gilt im Saarland gem. § 1 Nr. 59 V v. 26.8.1957 I 1255
 
 ## § 1 Arbeitsverhältnis bei Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000100311)
 
 (1) Wird ein Arbeitnehmer auf Grund freiwilliger Verpflichtung zu
 einer Übung zur Auswahl von freiwilligen Soldaten (Eignungsübung)
@@ -44,6 +45,7 @@ geendet hätte.
 
 
 ## § 2 Kündigungsverbot für den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000200311)
 
 (1) Der Arbeitgeber darf das Arbeitsverhältnis während der
 Eignungsübung nicht kündigen. Das Recht zur außerordentlichen
@@ -72,6 +74,7 @@ beabsichtigten Teilnahme an einer Eignungsübung gekündigt hat.
 
 
 ## § 3 Ende des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000300311)
 
 (1) Bleibt der Arbeitnehmer im Anschluß an die Eignungsübung als
 freiwilliger Soldat in den Streitkräften, so endet das
@@ -93,6 +96,7 @@ freiwillig fortsetzt. Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 4 Werkwohnung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000400311)
 
 Eine Werkwohnung ist für die Dauer der Eignungsübung weiterzugewähren.
 Bildet die freie Überlassung der Werkwohnung einen Teil des
@@ -105,6 +109,7 @@ Arbeitsverhältnis gilt entsprechendes.
 
 
 ## § 5 Vorschriften für Handelsvertreter
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000500311)
 
 (1) Das Vertragsverhältnis zwischen einem Handelsvertreter und einem
 Unternehmer wird durch die Teilnahme des Handelsvertreters an einer
@@ -155,6 +160,7 @@ Handelsgesetzbuchs nicht.
 
 
 ## § 6 Ausschluß von Nachteilen
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000600311)
 
 (1) Aus der Teilnahme an einer Eignungsübung darf dem Arbeitnehmer in
 beruflicher und betrieblicher Hinsicht und dem Handelsvertreter in
@@ -172,6 +178,7 @@ Arbeitgeber kann verpflichtet werden, Beiträge vorab zu entrichten.
 
 
 ## § 7 Vorschriften für Beamte und Richter
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000701310)
 
 (1) Ein Beamter oder Richter, der zu einer Eignungsübung einberufen
 wird, ist für die Dauer der Eignungsübung ohne Dienstbezüge beurlaubt.
@@ -219,6 +226,7 @@ sinngemäß; die Entlassung gilt als Entlassung auf eigenen Antrag.
 
 
 ## § 8 Gesetzliche Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000803377)
 
 (1) Die Teilnahme an einer Eignungsübung berührt eine bestehende
 Pflicht- oder freiwillige Versicherung bei einem Träger der
@@ -244,6 +252,7 @@ Sozialgesetzbuch.
 
 
 ## § 8a Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE001301377)
 
 (1) Die Teilnahme an einer Eignungsübung berührt eine bestehende
 Pflegeversicherung nicht.
@@ -262,6 +271,7 @@ hat.
 
 
 ## § 9 Gesetzliche Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE000902307)
 
 (1) War der Teilnehmer an einer Eignungsübung zuletzt vor Beginn der
 Eignungsübung nach dem Sechsten Buch Sozialgesetzbuch
@@ -307,6 +317,7 @@ entsprechend.
 
 
 ## § 9a Öffentlich-rechtliche Versicherungs- oder Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE001001305)
 
 (1) War der Teilnehmer an einer Eignungsübung bis zu deren Beginn auf
 Grund einer durch Gesetz angeordneten oder auf Gesetz beruhenden
@@ -324,6 +335,7 @@ nach Beendigung der Eignungsübung zu stellen.
 
 
 ## § 10 Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE001103377)
 
 Personen, die an einer Eignungsübung teilnehmen, sind
 versicherungspflichtig nach dem Dritten Buch Sozialgesetzbuch. Für
@@ -333,6 +345,7 @@ Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR000130956.html#BJNR000130956BJNE001201310)
 
 -
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000100310)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -33,6 +34,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000200310)
 
 Der Ausbildungsberuf Gerüstbauer/Gerüstbauerin wird
 
@@ -48,11 +50,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000300310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000400310)
 
 (1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
 (Anlage) während einer Dauer von 25 Wochen wie folgt in
@@ -77,6 +81,7 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000500310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -148,6 +153,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000600310)
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -166,12 +172,14 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -180,6 +188,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -225,6 +234,7 @@ kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 
 ## § 9 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE001000310)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -375,6 +385,7 @@ mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE001100310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -383,11 +394,13 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE001200310)
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
 
 ## Anlage (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbausbv_2000/BJNR077800000.html#BJNR077800000BJNE001300310)
 
 (Fundstelle: BGBl. I 2000, 781 - 787)
 

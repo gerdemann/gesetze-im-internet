@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb7_178abs1v/BJNR200500014.html#BJNR200500014BJNE000100000)
 
 Auf Grund des § 178 Absatz 1 in Verbindung mit § 181 Absatz 3 Satz 2
 des Siebten Buches Sozialgesetzbuch – Gesetzliche Unfallversicherung
@@ -27,6 +28,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sgb7_178abs1v/BJNR200500014.html#BJNR200500014BJNE000200000)
 
 Die Faktoren zur Berechnung der von jeder Berufsgenossenschaft
 jährlich zu tragenden Rentenlasten nach § 178 Absatz 1 des Siebten
@@ -36,6 +38,7 @@ Neurenten für Berufskrankheiten.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb7_178abs1v/BJNR200500014.html#BJNR200500014BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000100000)
 
 Auf Grund des § 130 des Elften Buches Sozialgesetzbuch, der durch
 Artikel 1 Nummer 49 des Gesetzes vom 23. Oktober 2012 (BGBl. I S.
@@ -30,6 +31,7 @@ dem Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Zentrale Stelle
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000201126)
 
 (1) Bei der Deutschen Rentenversicherung Bund wird die zentrale Stelle
 im Sinne des Vierzehnten Kapitels des Elften Buches Sozialgesetzbuch
@@ -72,6 +74,7 @@ vorangegangenen Kalenderjahres vorzulegen sowie Statistiken zu
 
 
 ## § 2 Bekanntgabe gegenüber Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000300000)
 
 (1) Kommt die zentrale Stelle zu dem Ergebnis, dass kein Anspruch auf
 Zulage besteht, gibt sie dem Versicherungsunternehmen das Prüfergebnis
@@ -117,6 +120,7 @@ Datensatz.
 
 
 ## § 3 Mitteilungspflichten des Versicherungsunternehmens gegenüber der zentralen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000400000)
 
 (1) Das Versicherungsunternehmen ist verpflichtet, in dem Zeitraum vom
 1\. Januar bis zum 31. März des Kalenderjahres, das auf das
@@ -164,6 +168,7 @@ privater Pflege-Zusatzversicherungen.
 
 
 ## § 4 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000500000)
 
 (1) Das Versicherungsunternehmen hat bei Vorliegen der
 Bevollmächtigung nach § 128 Absatz 1 Satz 2 des Elften Buches
@@ -213,6 +218,7 @@ entsprechend.
 
 
 ## § 5 Festsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000600000)
 
 Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle
 dem Versicherungsunternehmen einen Datensatz nach § 128 Absatz 3 Satz
@@ -220,6 +226,7 @@ dem Versicherungsunternehmen einen Datensatz nach § 128 Absatz 3 Satz
 
 
 ## § 6 Änderung des Prüfergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000700000)
 
 (1) Das Prüfergebnis nach § 2 Absatz 1 sowie das Prüfergebnis nach § 2
 Absatz 3 können aufgehoben oder geändert werden, solange über einen
@@ -237,6 +244,7 @@ des Prüfergebnisses stellt; § 3 Absatz 3 gilt entsprechend.
 
 
 ## § 7 Auszahlung der Zulagen, Auszahlungsreferenzdatei
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000800000)
 
 (1) Die Zulagen werden jeweils am 20. April und am 20. Dezember eines
 Jahres durch die zentrale Stelle zur Zahlung angewiesen. § 26 des
@@ -252,6 +260,7 @@ zentrale Stelle fest.
 
 
 ## § 8 Zulagenrückforderungen
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE000900000)
 
 (1) Das Versicherungsunternehmen hat die ihm mitgeteilten
 Rückforderungen bis zum nächstfolgenden 10. Juni und 10. Dezember in
@@ -279,6 +288,7 @@ möglich oder nicht erfolgt ist.
 
 
 ## § 9 Art der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001001126)
 
 (1) Nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch
 oder nach dieser Verordnung vorgeschriebene Übermittlungen von Daten
@@ -294,6 +304,7 @@ Absatz 3 und 4, § 7 Absatz 2, § 8 Absatz 1 und § 13.
 
 
 ## § 10 Technisches Übermittlungsformat
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001101126)
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
 
@@ -315,6 +326,7 @@ Bundesministerium für Gesundheit im Bundesanzeiger bekannt gegeben.
 
 
 ## § 11 Verfahren der Datenübermittlung, Schnittstellen
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001200000)
 
 (1) Bei der elektronischen Übermittlung der Datensätze durch
 Datenfernübertragung nach § 9 Absatz 1 sind die für den jeweiligen
@@ -333,6 +345,7 @@ jede übermittelnde Stelle für ihren Bereich bereit.
 
 
 ## § 12 Übermittlung durch Datenfernübertragung
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001301126)
 
 (1) Bei der Datenfernübertragung sind dem jeweiligen Stand der Technik
 entsprechende Maßnahmen zur Sicherstellung von Datenschutz und
@@ -364,6 +377,7 @@ nicht widerspricht.
 
 
 ## § 13 Identifikation der am Verfahren Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001401126)
 
 (1) Das Versicherungsunternehmen hat der zentralen Stelle anzuzeigen:
 
@@ -411,6 +425,7 @@ Kundennummer unverzüglich anzuzeigen.
 
 
 ## § 14 Aufzeichnungs- und Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001500000)
 
 Die zentrale Stelle und die Versicherungsunternehmen haben die
 übermittelten Daten aufzuzeichnen und für die Dauer von sechs Jahren
@@ -420,6 +435,7 @@ Satz 1 genannten Aufbewahrungsfrist zu löschen oder zu vernichten.
 
 
 ## § 15 Verwaltungs- und Abschlusskosten
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001600000)
 
 In Tarifen der förderfähigen Pflege-Zusatzversicherung dürfen die
 eingerechneten unmittelbaren Abschlusskosten gemäß § 8 Absatz 1 Nummer
@@ -432,6 +448,7 @@ Bruttoprämie insgesamt eingerechnet werden.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflvdv/BJNR299400012.html#BJNR299400012BJNE001700000)
 
 Diese Verordnung tritt am 4. Januar 2013 in Kraft.
 

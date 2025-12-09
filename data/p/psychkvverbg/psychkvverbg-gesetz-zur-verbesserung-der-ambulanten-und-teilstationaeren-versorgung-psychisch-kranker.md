@@ -19,10 +19,12 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 3
+[Direktlink](https://www.gesetze-im-internet.de/psychkvverbg/BJNR003240986.html#BJNR003240986BJNE000100327)
 
 
 
 ## Art 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/psychkvverbg/BJNR003240986.html#BJNR003240986BJNE000200327)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -31,6 +33,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 5 Inkrafttreten und Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/psychkvverbg/BJNR003240986.html#BJNR003240986BJNE000300327)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1986 in Kraft.
 

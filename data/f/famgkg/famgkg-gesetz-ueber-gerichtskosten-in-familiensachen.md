@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000201311)
 
 (1) In Familiensachen einschließlich der Vollstreckung durch das
 Familiengericht und für Verfahren vor dem Oberlandesgericht nach § 107
@@ -40,6 +42,7 @@ Verfahren geltenden Verfahrensvorschriften vor.
 
 
 ### § 2 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000301311)
 
 (1) Der Bund und die Länder sowie die nach Haushaltsplänen des Bundes
 oder eines Landes verwalteten öffentlichen Anstalten und Kassen sind
@@ -57,6 +60,7 @@ Zahlung der Kosten befreiter Beteiligter Kosten des Verfahrens
 
 
 ### § 3 Höhe der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000400000)
 
 (1) Die Gebühren richten sich nach dem Wert des Verfahrensgegenstands
 (Verfahrenswert), soweit nichts anderes bestimmt ist.
@@ -66,12 +70,14 @@ Gesetz erhoben.
 
 
 ### § 4 Umgangspflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000500000)
 
 Die besonderen Vorschriften für die Dauerpflegschaft sind auf die
 Umgangspflegschaft nicht anzuwenden.
 
 
 ### § 5 Lebenspartnerschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000601160)
 
 In Lebenspartnerschaftssachen nach § 269 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -103,6 +109,7 @@ entsprechend anzuwenden.
 
 
 ### § 6 Verweisung, Abgabe, Fortführung einer Folgesache als selbständige Familiensache
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000700000)
 
 (1) Verweist ein erstinstanzliches Gericht oder ein
 Rechtsmittelgericht ein Verfahren an ein erstinstanzliches Gericht
@@ -123,6 +130,7 @@ Entscheidung trifft das Gericht, an das verwiesen worden ist.
 
 
 ### § 7 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000800000)
 
 (1) Ansprüche auf Zahlung von Kosten verjähren in vier Jahren nach
 Ablauf des Kalenderjahres, in dem das Verfahren durch rechtskräftige
@@ -151,6 +159,7 @@ verzinst.
 
 
 ### § 8 Elektronische Akte, elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE000901311)
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen
 Vorschriften über die elektronische Akte und über das elektronische
@@ -159,6 +168,7 @@ zugrunde liegende Verfahren gelten.
 
 
 ### § 8a Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE007100112)
 
 Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine
 Belehrung über den statthaften Rechtsbehelf sowie über das Gericht,
@@ -167,9 +177,11 @@ die einzuhaltende Form und Frist zu enthalten.
 
 
 ## Abschnitt 2 - Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000200000)
 
 
 ### § 9 Fälligkeit der Gebühren in Ehesachen und selbständigen Familienstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001001311)
 
 (1) In Ehesachen und in selbständigen Familienstreitsachen wird die
 Verfahrensgebühr mit der Einreichung der Antragsschrift, der
@@ -181,6 +193,7 @@ Handlung voraussetzt, wird sie mit dieser fällig.
 
 
 ### § 10 Fälligkeit bei Vormundschaften und Dauerpflegschaften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001100000)
 
 Bei Vormundschaften und bei Dauerpflegschaften werden die Gebühren
 nach den Nummern 1311 und 1312 des Kostenverzeichnisses erstmals bei
@@ -189,6 +202,7 @@ sofort nach ihrer Entstehung fällig.
 
 
 ### § 11 Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001201311)
 
 (1) Im Übrigen werden die Gebühren und die Auslagen fällig, wenn
 
@@ -217,9 +231,11 @@ Akten werden sofort nach ihrer Entstehung fällig.
 
 
 ## Abschnitt 3 - Vorschuss und Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000300000)
 
 
 ### § 12 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001300000)
 
 In weiterem Umfang als das Gesetz über das Verfahren in Familiensachen
 und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, die
@@ -229,12 +245,14 @@ nicht abhängig gemacht werden.
 
 
 ### § 13 Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001400000)
 
 In Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz
 sind die Vorschriften dieses Abschnitts nicht anzuwenden.
 
 
 ### § 14 Abhängigmachung in bestimmten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001502311)
 
 (1) In Ehesachen und selbständigen Familienstreitsachen soll die
 Antragsschrift erst nach Zahlung der Gebühr für das Verfahren im
@@ -254,6 +272,7 @@ Allgemeinen keine gerichtliche Handlung vorgenommen werden.
 
 
 ### § 15 Ausnahmen von der Abhängigmachung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001602125)
 
 § 14 gilt nicht,
 
@@ -284,6 +303,7 @@ Allgemeinen keine gerichtliche Handlung vorgenommen werden.
 
 
 ### § 16 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001701311)
 
 (1) Wird die Vornahme einer Handlung, mit der Auslagen verbunden sind,
 beantragt, hat derjenige, der die Handlung beantragt hat, einen zur
@@ -302,6 +322,7 @@ Vorschuss zur Deckung der Auslagen erhoben werden.
 
 
 ### § 17 Fortdauer der Vorschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001800000)
 
 Die Verpflichtung zur Zahlung eines Vorschusses bleibt bestehen, auch
 wenn die Kosten des Verfahrens einem anderen auferlegt oder von einem
@@ -309,9 +330,11 @@ anderen übernommen sind. § 26 Abs. 2 gilt entsprechend.
 
 
 ## Abschnitt 4 - Kostenansatz
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000400000)
 
 
 ### § 18 Kostenansatz
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE001901311)
 
 (1) Es werden angesetzt:
 
@@ -337,6 +360,7 @@ Kostenansatz ebenfalls berichtigt werden.
 
 
 ### § 19 Nachforderung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002001311)
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Kosten nur nachgefordert
 werden, wenn der berichtigte Ansatz dem Zahlungspflichtigen vor Ablauf
@@ -361,6 +385,7 @@ letzten Wertfestsetzung mitgeteilt worden ist.
 
 
 ### § 20 Nichterhebung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002101311)
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
 wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch
@@ -377,9 +402,11 @@ im Verwaltungsweg geändert werden.
 
 
 ## Abschnitt 5 - Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000500000)
 
 
 ### § 21 Kostenschuldner in Antragsverfahren, Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002201311)
 
 (1) In Verfahren, die nur durch Antrag eingeleitet werden, schuldet
 die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Dies gilt
@@ -410,6 +437,7 @@ schuldet jeder, der an dem Abschluss beteiligt ist.
 
 
 ### § 22 Kosten bei Vormundschaft und Dauerpflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002300000)
 
 Die Kosten bei einer Vormundschaft oder Dauerpflegschaft schuldet der
 von der Maßnahme betroffene Minderjährige. Dies gilt nicht für Kosten,
@@ -417,6 +445,7 @@ die das Gericht einem anderen auferlegt hat.
 
 
 ### § 23 Bestimmte sonstige Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002401311)
 
 (1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der
 Ausfertigungen, Kopien oder Ausdrucke beantragt hat. Sind Kopien oder
@@ -442,6 +471,7 @@ der Antragsteller Schuldner der Auslagen, wenn
 
 
 ### § 24 Weitere Fälle der Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002500000)
 
 Die Kosten schuldet ferner,
 
@@ -467,6 +497,7 @@ Die Kosten schuldet ferner,
 
 
 ### § 25 Erlöschen der Zahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002600000)
 
 Die durch gerichtliche Entscheidung begründete Verpflichtung zur
 Zahlung von Kosten erlischt, soweit die Entscheidung durch eine andere
@@ -477,6 +508,7 @@ zurückerstattet.
 
 
 ### § 26 Mehrere Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002701311)
 
 (1) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -524,6 +556,7 @@ aufgrund des § 24 Nummer 2 haftet, wenn
 
 
 ### § 27 Haftung von Streitgenossen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002800000)
 
 Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht durch
 gerichtliche Entscheidung unter sie verteilt sind. Soweit einen
@@ -533,9 +566,11 @@ wäre, wenn das Verfahren nur diese Teile betroffen hätte.
 
 
 ## Abschnitt 6 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000600000)
 
 
 ### § 28 Wertgebühren
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE002903125)
 
 (1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt
 bei einem Verfahrenswert bis 500 Euro die Gebühr 40 Euro. Die Gebühr
@@ -614,6 +649,7 @@ aufgerundet.
 
 
 ### § 29 Einmalige Erhebung der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003000000)
 
 Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine
 Entscheidung werden in jedem Rechtszug hinsichtlich eines jeden Teils
@@ -621,6 +657,7 @@ des Verfahrensgegenstands nur einmal erhoben.
 
 
 ### § 30 Teile des Verfahrensgegenstands
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003100000)
 
 (1) Für Handlungen, die einen Teil des Verfahrensgegenstands
 betreffen, sind die Gebühren nur nach dem Wert dieses Teils zu
@@ -637,6 +674,7 @@ berechnete Gebühr darf jedoch nicht überschritten werden.
 
 
 ### § 31 Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003200000)
 
 (1) Wird eine Sache an ein Gericht eines unteren Rechtszugs
 zurückverwiesen, bildet das weitere Verfahren mit dem früheren
@@ -651,6 +689,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 ### § 32 Verzögerung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003300000)
 
 Wird in einer selbständigen Familienstreitsache außer im Fall des §
 335 der Zivilprozessordnung durch Verschulden eines Beteiligten oder
@@ -667,12 +706,15 @@ Vertreter gleich.
 
 
 ## Abschnitt 7 - Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000700000)
 
 
 ### Unterabschnitt 1 - Allgemeine Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000800000)
 
 
 #### § 33 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003400000)
 
 (1) In demselben Verfahren und in demselben Rechtszug werden die Werte
 mehrerer Verfahrensgegenstände zusammengerechnet, soweit nichts
@@ -685,6 +727,7 @@ kein niedrigerer Höchstwert bestimmt ist.
 
 
 #### § 34 Zeitpunkt der Wertberechnung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003500000)
 
 Für die Wertberechnung ist der Zeitpunkt der den jeweiligen
 Verfahrensgegenstand betreffenden ersten Antragstellung in dem
@@ -694,6 +737,7 @@ maßgebend.
 
 
 #### § 35 Geldforderung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003600000)
 
 Ist Gegenstand des Verfahrens eine bezifferte Geldforderung, bemisst
 sich der Verfahrenswert nach deren Höhe, soweit nichts anderes
@@ -701,6 +745,7 @@ bestimmt ist.
 
 
 #### § 36 Genehmigung einer Erklärung oder deren Ersetzung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003701311)
 
 (1) Wenn in einer vermögensrechtlichen Angelegenheit Gegenstand des
 Verfahrens die Genehmigung einer Erklärung oder deren Ersetzung ist,
@@ -719,6 +764,7 @@ Verfahrensgegenstand zu bewerten.
 
 
 #### § 37 Früchte, Nutzungen, Zinsen und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003800000)
 
 (1) Sind außer dem Hauptgegenstand des Verfahrens auch Früchte,
 Nutzungen, Zinsen oder Kosten betroffen, wird deren Wert nicht
@@ -734,6 +780,7 @@ Hauptgegenstands nicht übersteigt.
 
 
 #### § 38 Stufenantrag
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE003901311)
 
 Wird mit dem Antrag auf Rechnungslegung oder auf Vorlegung eines
 Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen
@@ -744,6 +791,7 @@ zwar der höhere, maßgebend.
 
 
 #### § 39 Antrag und Widerantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004001311)
 
 (1) Mit einem Antrag und einem Widerantrag geltend gemachte Ansprüche,
 die nicht in getrennten Verfahren verhandelt werden, werden
@@ -767,6 +815,7 @@ Absätze 1 bis 3 entsprechend anzuwenden.
 
 
 #### § 40 Rechtsmittelverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004101311)
 
 (1) Im Rechtsmittelverfahren bestimmt sich der Verfahrenswert nach den
 Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass
@@ -784,6 +833,7 @@ Rechtsmittelverfahren maßgebende Wert.
 
 
 #### § 41 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004200000)
 
 Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel
 unter Berücksichtigung der geringeren Bedeutung gegenüber der
@@ -792,6 +842,7 @@ Hauptsache bestimmten Werts auszugehen.
 
 
 #### § 42 Auffangwert
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004301311)
 
 (1) Soweit in einer vermögensrechtlichen Angelegenheit der
 Verfahrenswert sich aus den Vorschriften dieses Gesetzes nicht ergibt
@@ -810,9 +861,11 @@ Anhaltspunkte, ist von einem Wert von 5 000 Euro auszugehen.
 
 
 ### Unterabschnitt 2 - Besondere Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG000900000)
 
 
 #### § 43 Ehesachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004401311)
 
 (1) In Ehesachen ist der Verfahrenswert unter Berücksichtigung aller
 Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung
@@ -825,6 +878,7 @@ Nettoeinkommen der Ehegatten einzusetzen.
 
 
 #### § 44 Verbund
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004502125)
 
 (1) Die Scheidungssache und die Folgesachen gelten als ein Verfahren.
 
@@ -844,6 +898,7 @@ berücksichtigen.
 
 
 #### § 45 Bestimmte Kindschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004604125)
 
 (1) In einer Kindschaftssache, die
 
@@ -877,6 +932,7 @@ niedrigeren Wert festsetzen.
 
 
 #### § 46 Übrige Kindschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004701311)
 
 (1) Wenn Gegenstand einer Kindschaftssache eine vermögensrechtliche
 Angelegenheit ist, gelten § 38 des Gerichts- und Notarkostengesetzes
@@ -896,6 +952,7 @@ an dem Gesamthandvermögen zu bemessen.
 
 
 #### § 47 Abstammungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004801125)
 
 (1) In Abstammungssachen nach § 169 Nr. 1 und 4 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -908,6 +965,7 @@ niedrigeren Wert festsetzen.
 
 
 #### § 48 Ehewohnungs- und Haushaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE004902125)
 
 (1) In Ehewohnungssachen nach § 200 Absatz 1 Nummer 1 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
@@ -929,6 +987,7 @@ höheren oder einen niedrigeren Wert festsetzen.
 
 
 #### § 49 Gewaltschutzsachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005002125)
 
 (1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in
 Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der
@@ -941,6 +1000,7 @@ niedrigeren Wert festsetzen.
 
 
 #### § 50 Versorgungsausgleichssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005101160)
 
 (1) In Versorgungsausgleichssachen beträgt der Verfahrenswert für
 jedes Anrecht 10 Prozent, bei Ausgleichsansprüchen nach der Scheidung
@@ -957,6 +1017,7 @@ höheren oder einen niedrigeren Wert festsetzen.
 
 
 #### § 51 Unterhaltssachen und sonstige den Unterhalt betreffende Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005201311)
 
 (1) In Unterhaltssachen und in sonstigen den Unterhalt betreffenden
 Familiensachen, soweit diese jeweils Familienstreitsachen sind und
@@ -984,6 +1045,7 @@ Einzelfalls unbillig, kann das Gericht einen höheren Wert festsetzen.
 
 
 #### § 52 Güterrechtssachen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005300000)
 
 Wird in einer Güterrechtssache, die Familienstreitsache ist, auch über
 einen Antrag nach § 1382 Abs. 5 oder nach § 1383 Abs. 3 des
@@ -992,9 +1054,11 @@ Verfahren. Die Werte werden zusammengerechnet.
 
 
 ### Unterabschnitt 3 - Wertfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG001000000)
 
 
 #### § 53 Angabe des Werts
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005400000)
 
 Bei jedem Antrag ist der Verfahrenswert, wenn dieser nicht in einer
 bestimmten Geldsumme besteht, kein fester Wert bestimmt ist oder sich
@@ -1005,6 +1069,7 @@ berichtigt werden.
 
 
 #### § 54 Wertfestsetzung für die Zulässigkeit der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005500000)
 
 Ist der Wert für die Zulässigkeit der Beschwerde festgesetzt, ist die
 Festsetzung auch für die Berechnung der Gebühren maßgebend, soweit die
@@ -1013,6 +1078,7 @@ Verfahrensrechts abweichen.
 
 
 #### § 55 Wertfestsetzung für die Gerichtsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005601311)
 
 (1) Sind Gebühren, die sich nach dem Verfahrenswert richten, mit der
 Einreichung des Antrags, der Einspruchs- oder der Rechtsmittelschrift
@@ -1050,6 +1116,7 @@ Verfahren sich anderweitig erledigt hat.
 
 
 #### § 56 Schätzung des Werts
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005700000)
 
 Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem
 Beschluss, durch den der Verfahrenswert festgesetzt wird (§ 55), über
@@ -1062,9 +1129,11 @@ hat.
 
 
 ### Abschnitt 8 - Erinnerung und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG001100000)
 
 
 #### § 57 Erinnerung gegen den Kostenansatz, Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005801160)
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen
 den Kostenansatz entscheidet das Gericht, bei dem die Kosten angesetzt
@@ -1113,6 +1182,7 @@ des Gerichts.
 
 
 #### § 58 Beschwerde gegen die Anordnung einer Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE005901311)
 
 (1) Gegen den Beschluss, durch den die Tätigkeit des Familiengerichts
 nur aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten
@@ -1127,6 +1197,7 @@ gilt dies auch im Beschwerdeverfahren.
 
 
 #### § 59 Beschwerde gegen die Festsetzung des Verfahrenswerts
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006002125)
 
 (1) Gegen den Beschluss des Familiengerichts, durch den der
 Verfahrenswert für die Gerichtsgebühren festgesetzt worden ist (§ 55
@@ -1157,6 +1228,7 @@ Wiedereinsetzung nicht mehr beantragt werden.
 
 
 #### § 60 Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006100000)
 
 Gegen den Beschluss des Familiengerichts nach § 32 findet die
 Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro
@@ -1167,6 +1239,7 @@ stehenden Frage zugelassen hat. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs.
 
 
 #### § 61 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006201125)
 
 (1) Auf die Rüge eines durch die Entscheidung beschwerten Beteiligten
 ist das Verfahren fortzuführen, wenn
@@ -1209,9 +1282,11 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 
 ### Abschnitt 9 - Schluss- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNG001201308)
 
 
 #### § 61a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE007000308)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass die von den Gerichten der Länder zu erhebenden
@@ -1234,10 +1309,12 @@ eingelegt worden ist.
 
 
 #### § 62 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006301311)
 
 
 
 #### § 62a Bekanntmachung von Neufassungen
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006802125)
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
 Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
@@ -1258,6 +1335,7 @@ angeben
 
 
 #### § 63 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006401311)
 
 (1) In Verfahren, die vor dem Inkrafttreten einer Gesetzesänderung
 anhängig geworden oder eingeleitet worden sind, werden die Kosten nach
@@ -1273,6 +1351,7 @@ bisherige Recht.
 
 
 #### § 64 Übergangsvorschrift für die Erhebung von Haftkosten
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006900160)
 
 Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des
 Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die
@@ -1282,6 +1361,7 @@ Dezember 2010 geltenden Fassung anzuwenden.
 (zu § 3 Abs. 2)
 
 #### Anlage 1 Kostenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006735125)
 
 (Fundstelle: BGBl. I 2008, 2677 - 2690;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3398,6 +3478,7 @@ Gehör**
 
 
 #### Anlage 2 (zu § 28 Absatz 1 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/famgkg/BJNR266600008.html#BJNR266600008BJNE006603125)
 
 (Fundstelle: BGBl. 2025 I Nr. 109, S. 14)
 

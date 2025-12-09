@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2011/BJNR217200011.html#BJNR217200011BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
@@ -47,11 +48,13 @@ Erich Ott aus München.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2011/BJNR217200011.html#BJNR217200011BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2011/BJNR217200011.html#BJNR217200011BJNE000300000)
 
 (Fundstelle: BGBl. I 2011, 2172)
 

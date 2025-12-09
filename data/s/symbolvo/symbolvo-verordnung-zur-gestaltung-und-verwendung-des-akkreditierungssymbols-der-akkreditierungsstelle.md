@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/symbolvo/BJNR387000009.html#BJNR387000009BJNE000100000)
 
 Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom 31.
 Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für
@@ -24,6 +25,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Akkreditierungssymbol
+[Direktlink](https://www.gesetze-im-internet.de/symbolvo/BJNR387000009.html#BJNR387000009BJNE000200000)
 
 (1) Das Akkreditierungssymbol besteht aus dem Zeichen der
 Akkreditierungsstelle in Kombination mit der individuellen
@@ -42,12 +44,14 @@ Akkreditierungsstelle anzugeben.
 
 
 ## § 2 Schutz des Akkreditierungssymbols
+[Direktlink](https://www.gesetze-im-internet.de/symbolvo/BJNR387000009.html#BJNR387000009BJNE000300000)
 
 Das Zeichen der Akkreditierungsstelle wird als Marke beim Deutschen
 Patent- und Markenamt angemeldet.
 
 
 ## § 3 Gestattung der Verwendung des Akkreditierungssymbols
+[Direktlink](https://www.gesetze-im-internet.de/symbolvo/BJNR387000009.html#BJNR387000009BJNE000400000)
 
 Die Akkreditierungsstelle gestattet einer Konformitätsbewertungsstelle
 auf Antrag, das auf ihre Akkreditierung hinweisende
@@ -55,6 +59,7 @@ Akkreditierungssymbol zu verwenden.
 
 
 ## § 4 Verwendung des Akkreditierungssymbols
+[Direktlink](https://www.gesetze-im-internet.de/symbolvo/BJNR387000009.html#BJNR387000009BJNE000500000)
 
 (1) Das Akkreditierungssymbol darf als Hinweis auf die Akkreditierung
 in Prüfberichten, Kalibrierscheinen, Zertifikaten und
@@ -77,6 +82,7 @@ der Verwendung des Akkreditierungssymbols widerrufen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/symbolvo/BJNR387000009.html#BJNR387000009BJNE000600000)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 

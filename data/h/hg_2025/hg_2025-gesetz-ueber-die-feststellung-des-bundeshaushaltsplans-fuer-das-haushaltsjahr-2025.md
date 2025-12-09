@@ -18,14 +18,17 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Abschnitt 1 - Allgemeines, Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNG000100000)
 
 
 ### § 1 Feststellung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000200000)
 
 (1) Der diesem Gesetz als Anlage beigefügte Bundeshaushaltsplan für
 das Haushaltsjahr 2025 wird in Einnahmen und Ausgaben auf
@@ -53,6 +56,7 @@ auf 2 500 000 000 Euro festgestellt.
 
 
 ### § 2 Kreditermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000300000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung
 von Ausgaben für das Haushaltsjahr 2025 Kredite bis zur Höhe von
@@ -207,6 +211,7 @@ Haushaltsgesetze aufgenommen worden sind.
 
 
 ### § 3 Gewährleistungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000400000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, Bürgschaften,
 Garantien oder sonstige Gewährleistungen bis zur Höhe von insgesamt
@@ -341,6 +346,7 @@ Deutschen Bundestages im Anschluss unverzüglich zu unterrichten.
 
 
 ### § 4 Über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000500000)
 
 (1) Der Betrag nach § 37 Absatz 1 Satz 4 der Bundeshaushaltsordnung
 wird auf 5 000 000 Euro festgesetzt. Ergänzend zu den Regelungen in §
@@ -380,6 +386,7 @@ Erhöhungsbetrages zu verpflichten.
 
 
 ### § 5 Ausgaben der Bereichsausnahme nach § 1a des Artikel 115-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000600000)
 
 (1) Ausgaben der Bereichsausnahme nach § 1a Absatz 1 des Artikel
 115-Gesetzes sind
@@ -430,9 +437,11 @@ insbesondere
 
 
 ## Abschnitt 2 - Bewirtschaftung von Einnahmen, Ausgaben und Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNG000200000)
 
 
 ### § 6 Flexibilisierte Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000700000)
 
 (1) Auf die in Teil I Buchstabe D des Gesamtplans aufgeführten Kapitel
 des Bundeshaushalts sind die Absätze 2 bis 5 anzuwenden. Von den
@@ -495,6 +504,7 @@ dessen Zweck verfügt ist. § 5 Absatz 2 ist zu beachten.
 
 
 ### § 7 Verstärkungsmöglichkeiten, Deckungsfähigkeit, Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000800000)
 
 (1) Innerhalb eines Kapitels fließen die Einnahmen den Ausgaben bei
 folgenden Titeln zu:
@@ -614,6 +624,7 @@ außerhalb der Bereichsausnahme nach § 1a Absatz 3 des Artikel
 
 
 ### § 8 Überlassung und Veräußerung von Vermögensgegenständen sowie Verzicht auf Auslagenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE000900000)
 
 (1) Nach § 63 Absatz 3 Satz 2 der Bundeshaushaltsordnung wird
 zugelassen, dass Software, die von Bundesdienststellen im Bereich der
@@ -637,6 +648,7 @@ der Amtshilfe.
 
 
 ### § 9 Bewilligung von Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001000000)
 
 (1) Ausgaben und Verpflichtungsermächtigungen für Zuwendungen im Sinne
 des § 23 der Bundeshaushaltsordnung zur Deckung der gesamten Ausgaben
@@ -748,6 +760,7 @@ entsprechender Haushaltsvermerk ist im Titel aufzunehmen.
 
 
 ### § 10 Sorgfalts- und Prüfpflichten
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001100000)
 
 (1) Leistungen des Bundes dürfen
 
@@ -766,6 +779,7 @@ verpflichtet sind.
 
 
 ### § 11 Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001200000)
 
 (1) Abweichend von § 50 Absatz 3 der Bundeshaushaltsordnung können die
 Personalausgaben für abgeordnete Beschäftigte für die Dauer von bis zu
@@ -803,6 +817,7 @@ für Beschäftigte und Auszubildende geleistet werden.
 
 
 ### § 12 Verbriefung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001300000)
 
 Das zuständige Bundesministerium wird ermächtigt, die Beteiligungen,
 Zuschüsse und Beiträge der Bundesrepublik Deutschland zugunsten der in
@@ -813,6 +828,7 @@ Fonds durch Hingabe unverzinslicher Schuldscheine zu erbringen.
 
 
 ### § 13 Liquiditätshilfen, Darlehen, Fälligkeit von Zuschüssen und Leistungen des Bundes an die Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001400000)
 
 (1) Die Liquiditätshilfen an die Bundesagentur für Arbeit nach § 364
 des Dritten Buches Sozialgesetzbuch sind auf 8 000 000 000 Euro
@@ -891,6 +907,7 @@ Mittelzuweisungen aus dem Haushalt der Europäischen Union.
 
 
 ### § 14 Rückzahlung, Titelverwechslung
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001500000)
 
 (1) Die Rückzahlung zu viel erhobener Einnahmen kann aus dem
 jeweiligen Einnahmetitel geleistet werden und ist dann bei dem
@@ -907,9 +924,11 @@ Bücher noch nicht abgeschlossen sind.
 
 
 ## Abschnitt 3 - Bewirtschaftung der Planstellen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNG000300000)
 
 
 ### § 15 Verbindlichkeit des Stellenplans
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001600000)
 
 (1) Die Erläuterungen zu den Titeln 428 .1 sind hinsichtlich der Zahl
 der für die einzelnen Entgeltgruppen angegebenen Stellen verbindlich.
@@ -935,6 +954,7 @@ der Finanzen seine Befugnisse auf die obersten Bundesbehörden
 
 
 ### § 16 Ausbringung von Planstellen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001700000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, mit
 Einwilligung des Haushaltsausschusses des Deutschen Bundestages
@@ -977,6 +997,7 @@ führt.
 
 
 ### § 17 Stelleneinsparung
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001800000)
 
 (1) Im Haushaltsjahr 2025 sind im Bundeshaushaltsplan ausgebrachte
 Planstellen für Beamtinnen und Beamte und Stellen für
@@ -1056,6 +1077,7 @@ diesem Tag weg.
 
 
 ### § 18 Ausbringung von Planstellen und Stellen für Überhangpersonal
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE001900000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, bei
 nachgewiesenem Bedarf Planstellen und Stellen auszubringen, wenn
@@ -1073,6 +1095,7 @@ Haushaltsmittel von den abgebenden Bundesbehörden umgesetzt werden.
 
 
 ### § 19 Ausbringung von Ersatzplanstellen und Ersatzstellen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002000000)
 
 (1) Soweit ein unabweisbarer Bedarf besteht, einen Dienstposten
 wiederzubesetzen, gilt eine Planstelle für die Beamtin oder den
@@ -1102,6 +1125,7 @@ Soldatinnen und Soldaten sowie für Arbeitnehmerinnen und Arbeitnehmer.
 
 
 ### § 20 Ausbringung von Leerstellen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002100000)
 
 (1) Eine Leerstelle der entsprechenden Besoldungsgruppe gilt von
 Beginn der Beurlaubung oder Verwendung an als ausgebracht für
@@ -1210,6 +1234,7 @@ höhergruppiert worden ist.
 
 
 ### § 21 Umwandlung von Planstellen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002200000)
 
 Die obersten Bundesbehörden werden ermächtigt, Planstellen in
 gleichwertige Stellen und Stellen in gleichwertige Planstellen
@@ -1217,6 +1242,7 @@ umzuwandeln, soweit dafür ein unabweisbarer Bedarf besteht.
 
 
 ### § 22 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002300000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt zuzulassen,
 dass von einem kw-Vermerk mit Datumsangabe abgewichen wird, wenn die
@@ -1258,6 +1284,7 @@ nicht abgeschlossen ist.
 
 
 ### § 23 Überhangpersonal
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002400000)
 
 Freie Planstellen und Stellen sind vorrangig mit Bediensteten zu
 besetzen, die bei anderen Behörden der Bundesverwaltung wegen
@@ -1266,9 +1293,11 @@ werden.
 
 
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNG000400000)
 
 
 ### § 24 Fortgeltung
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002500000)
 
 § 2 Absatz 2 Satz 3 und 4, Absatz 4 und 6 sowie die §§ 3 bis 23 gelten
 bis zum Tag der Verkündung des Haushaltsgesetzes des folgenden
@@ -1276,11 +1305,13 @@ Haushaltsjahres weiter.
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002600000)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 
 
 ### Anlage Gesamtplan des Bundeshaushaltsplans 2025
+[Direktlink](https://www.gesetze-im-internet.de/hg_2025/BJNR0E80A0025.html#BJNR0E80A0025BJNE002700000)
 
 (Fundstelle: BGBl. 2025 I Nr. 232, S. 15 - 27)
 

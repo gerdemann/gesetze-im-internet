@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000204123)
 
 Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 1069/2009
 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit
@@ -34,6 +35,7 @@ Europäischen Gemeinschaft oder der Europäischen Union.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000302123)
 
 Die Durchführung der in § 1 genannten unmittelbar geltenden Rechtsakte
 der Europäischen Gemeinschaft oder der Europäischen Union, der
@@ -45,6 +47,7 @@ anderes bestimmt ist.
 
 
 ## § 2a Grundsatz für den Umgang mit tierischen Nebenprodukten und Folgeprodukten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001900123)
 
 Es ist verboten,
 
@@ -67,6 +70,7 @@ Sachen von bedeutendem Wert gefährdet werden.
 
 
 ## § 3 Beseitigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000401123)
 
 (1) Soweit nach den in § 1 genannten Vorschriften
 
@@ -185,6 +189,7 @@ festgesetzt.
 
 
 ## § 4 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000501123)
 
 (1) § 3 Absatz 1 Satz 1 bis 3 gilt nicht für Heimtiere im Sinne des
 Artikels 3 Nummer 8 der Verordnung (EG) Nr. 1069/2009, soweit diese in
@@ -210,6 +215,7 @@ können.
 
 
 ## § 5 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000601123)
 
 (1) Soweit es zur Durchführung der in § 1 genannten unmittelbar
 geltenden Rechtsakte, der Vorschriften dieses Gesetzes und der auf
@@ -224,6 +230,7 @@ Gesetz entnommen werden, wird keine Entschädigung geleistet.
 
 
 ## § 6 Einzugsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000701123)
 
 (1) Die Länder bestimmen die Einzugsbereiche, innerhalb derer die
 zuständige Behörde oder diejenige Person, der die Pflichten nach § 3
@@ -241,6 +248,7 @@ behandelt, verarbeitet, verwendet oder beseitigt werden darf.
 
 
 ## § 7 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000801123)
 
 (1) Der Besitzer hat der zuständigen Behörde, in deren Einzugsbereich
 die in § 3 Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte oder
@@ -316,6 +324,7 @@ gilt für die Überlassung entsprechend.
 
 
 ## § 8 Abholungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE000901123)
 
 (1) Die zuständige Behörde oder diejenige Person, der die Pflichten
 nach § 3 Absatz 3 übertragen worden sind, hat die in § 3 Absatz 1 Satz
@@ -346,6 +355,7 @@ zur nächsten befahrbaren Straße.
 
 
 ## § 9 Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001001123)
 
 (1) Soweit eine Verarbeitung, Verwendung oder Beseitigung der in § 3
 Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte oder
@@ -364,6 +374,7 @@ tierischen Nebenprodukte oder Folgeprodukte abholt.
 
 
 ## § 10 Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001101123)
 
 (1) Bis zur Abholung oder Ablieferung hat der Besitzer die in § 3
 Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte und
@@ -419,10 +430,12 @@ Nummer 2 darf nur erteilt werden, soweit
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001202123)
 
 
 
 ## § 12 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001303119)
 
 (1) Die Einhaltung der Vorschriften der in § 1 genannten unmittelbar
 geltenden Rechtsakte, die Einhaltung der Vorschriften dieses Gesetzes
@@ -482,6 +495,7 @@ Verlangen die geschäftlichen Unterlagen vorzulegen.
 
 
 ## § 12a Amtshilfe, gegenseitige Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE002000123)
 
 (1) Die zuständigen Behörden
 
@@ -534,6 +548,7 @@ sind.
 
 
 ## § 13 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001405119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
@@ -698,6 +713,7 @@ Zustimmung des Bundesrates
 
 
 ## § 13a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE002100123)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 2a ein dort bezeichnetes tierisches
@@ -706,6 +722,7 @@ befördert, lagert, behandelt, verarbeitet, verwendet oder beseitigt.
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001503123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -805,6 +822,7 @@ Absätzen 1 und 2 bezieht, können eingezogen werden. § 23 des Gesetzes
 
 
 ## § 15 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001601123)
 
 Für die in diesem Gesetz verwendeten Begriffe gelten die
 Begriffsbestimmungen des Artikels 3 der Verordnung (EG) Nr. 1069/2009
@@ -815,6 +833,7 @@ verwendet.
 
 
 ## § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiernebg/BJNR008210004.html#BJNR008210004BJNE001701123)
 
 (1) Bis zum Erlass landesrechtlicher Vorschriften zur Ausführung des §
 3 Absatz 1, längstens drei Jahre nach dem 12. Februar 2017, gelten die

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000100308)
 
 Auf Grund der
 
@@ -58,6 +59,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Bezugsgröße
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000200308)
 
 Die Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch) beträgt in
 dem in Artikel 3 des Einigungsvertrages genannten Gebiet ab 1. Juli
@@ -65,6 +67,7 @@ dem in Artikel 3 des Einigungsvertrages genannten Gebiet ab 1. Juli
 
 
 ## § 2 Beitragsbemessungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000300308)
 
 Die Beitragsbemessungsgrenze beträgt in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet ab 1. Juli 1991 3.400 DM
@@ -72,6 +75,7 @@ monatlich.
 
 
 ## § 3 Grundsatz für die Rentenanpassung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000401308)
 
 Die in § 19 des Rentenangleichungsgesetzes genannten Renten aus der
 Rentenversicherung einschließlich der Renten aus der freiwilligen
@@ -85,6 +89,7 @@ der Deutschen Post.
 
 
 ## § 4 Renten aus der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000500308)
 
 Die Renten aus der Rentenversicherung werden dadurch angepaßt, daß der
 sich für den Monat Juli 1991 ergebende anpassungsfähige Betrag um 15
@@ -92,6 +97,7 @@ vom Hundert erhöht wird.
 
 
 ## § 5 Renten aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000600308)
 
 Die Renten aus der Unfallversicherung für Arbeitsunfälle und
 Berufskrankheiten, die vor dem 1. Juli 1991 eingetreten sind, werden
@@ -100,6 +106,7 @@ Dies gilt nicht für Kinderzuschläge zu Unfallrenten.
 
 
 ## § 6 Kriegsbeschädigtenrenten
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000700308)
 
 Kriegsbeschädigtenrenten werden dadurch angepaßt, daß der sich für den
 Monat Juli 1991 ergebende anpassungsfähige Betrag um 15 vom Hundert
@@ -110,12 +117,14 @@ anzuwenden.
 
 
 ## § 7 Auswirkungen auf den Sozialzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000800308)
 
 Die sich nach den §§ 4 und 5 ergebenden Erhöhungsbeträge werden auf
 den Sozialzuschlag nicht angerechnet.
 
 
 ## § 8 Renten mit Zusatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE000900308)
 
 (1) Anpassungsbeträge nach den §§ 4 und 5 werden auf gleichartige
 zusätzliche Versorgungen in Höhe des Betrages angerechnet, um den sie
@@ -157,6 +166,7 @@ Grenzwert überschreiten.
 
 
 ## § 9 Renten mit Sonderversorgung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE001000308)
 
 (1) Renten, die wegen Bezugs einer Sonderversorgung nicht anzugleichen
 waren, werden nach den Bestimmungen des Ersten und Zweiten Abschnitts
@@ -171,6 +181,7 @@ haben.
 
 
 ## § 10 Berechnung der in der Zeit vom 1. Juli 1991 bis 31. Dezember 1991 entstehenden Rentenansprüche aus der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE001100308)
 
 In der Zeit vom 1. Juli 1991 bis 31. Dezember 1991 entstehende
 Rentenansprüche sind nach den sonst maßgebenden Vorschriften zu
@@ -258,11 +269,13 @@ Prozentsätze:
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE001200308)
 
 Diese Verordnung tritt am 1. Juli 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2/BJNR013000991.html#BJNR013000991BJNE001300308)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,11 +21,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000100311)
 
 Auf Beschluß der Bundesregierung gebe ich folgendes bekannt:
 
 
 ## 1.
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000200311)
 
 (1) Das Amtsschild der Bundesbehörden ist ein rotgerändertes,
 goldfarbenes Rechteck, in dem sich der schwarze Bundesadler befindet,
@@ -38,6 +40,7 @@ Beschriftung ist der Artikel wegzulassen.
 
 
 ## 2.
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000300311)
 
 (1) Befinden sich in einem Gebäude mehrere zur Führung des
 Amtsschildes der Bundesbehörden berechtigte Dienststellen, so können
@@ -48,6 +51,7 @@ besonderen, untereinander aufgehängten Anhängeschildern angeführt.
 
 
 ## 3.
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000400311)
 
 (1) Es sind drei Größen für Amtsschilder zugelassen. Die Abmessungen
 betragen in Zentimetern:
@@ -131,12 +135,14 @@ Fläche, auf der das Amtsschild befestigt werden soll.
 
 
 ## 4.
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000500311)
 
 Für die Gestaltung der Amtsschilder und ihre Beschriftung ist das
 beigefügte Muster maßgebend.
 
 
 ## 5.
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000600311)
 
 (1) Zur Führung des Amtsschildes nach Ziffer 1 sind alle
 Bundesbehörden sowie die Bundesanstalt für Arbeitsvermittlung und
@@ -152,17 +158,20 @@ zuständigen Fachministern.
 
 
 ## 6.
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000700311)
 
 Die Bestimmungen über die Amtsschilder der deutschen Vertretungen im
 Ausland erläßt das Auswärtige Amt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000800311)
 
 Der Bundesminister des Innern
 
 
 ## Muster
+[Direktlink](https://www.gesetze-im-internet.de/amtsscherl/BJNR009270951.html#BJNR009270951BJNE000901377)
 
 (Fundstelle: BAnz AT 17.06.2021 B2)
 

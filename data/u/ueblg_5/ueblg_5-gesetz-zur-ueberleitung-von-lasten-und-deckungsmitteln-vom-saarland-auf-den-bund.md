@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Geltung des Ersten Überleitungsgesetzes im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000100322)
 
 Das Erste Gesetz zur Überleitung von Lasten und Deckungsmitteln auf
 den Bund (Erstes Überleitungsgesetz)
@@ -200,6 +201,7 @@ Zustimmung des Bundesrates bedarf, dieser Änderung anzupassen."
 
 
 ## § 2 Geltung des Zweiten Überleitungsgesetzes im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000200322)
 
 (1) Von dem Zweiten Gesetz zur Überleitung von Lasten und
 Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21.
@@ -219,6 +221,7 @@ Beamten der früheren staatlichen Bergbetriebsverwaltung im Saarland ab
 
 
 ## § 3 Aufwendungen für ehemalige Kriegsgefangene und Heimkehrer
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000300322)
 
 Der Bund übernimmt mit Wirkung vom 1. Januar 1960 die Aufwendungen auf
 Grund des saarländischen Kriegsgefangenenentschädigungsgesetzes vom 9.
@@ -234,6 +237,7 @@ Rahmen der Kriegsfolgenhilfe abgegolten werden.
 
 
 ## § 4 Einnahmen aus Finanzmonopolen und Steuern
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000400322)
 
 (1) Mit Wirkung vom Ablauf der Übergangszeit nach Artikel 3 des
 Saarvertrages vom 27. Oktober 1956 (Bundesgesetzbl. II S. 1587) an
@@ -269,6 +273,7 @@ vom 22. Dezember 1956 (Bundesgesetzbl. II S. 1587) bleibt unberührt.
 
 
 ## § 5 Sonstige Einnahmen und Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000500322)
 
 (1) Die Regelung des § 10 Nr. 1 des Gesetzes über die Eingliederung
 des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011) gilt
@@ -285,6 +290,7 @@ Saarvertrages zu tragen, gilt Absatz 1 entsprechend.
 
 
 ## § 6 Entschädigungslast nach dem Bundesentschädigungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000600322)
 
 (1) Die Regelung des § 3 Nr. 10 des saarländischen Gesetzes zur
 Einführung des Bundesentschädigungsgesetzes - BEG - vom 6. Februar
@@ -304,6 +310,7 @@ das Wort "Saarland" eingefügt.
 
 
 ## § 7 Versorgungslasten nach Artikel 3 der Anlage 1 zum Saarvertrag
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000700322)
 
 Der Bund erstattet dem Saarland mit Wirkung vom 1. Januar 1960 an die
 Ruhegehälter der nach Artikel 3 Abs. 1 der Anlage 1 zum Saarvertrag
@@ -316,6 +323,7 @@ und Arbeiter.
 
 
 ## § 8 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000800322)
 
 (1) Soweit nach diesem Gesetz Einnahmen vom Saarland auf den Bund
 übergehen, stehen die von dem jeweils in Betracht kommenden Stichtag
@@ -366,6 +374,7 @@ von Verpflichtungen der Regie zu leisten sind, trägt das Saarland.
 
 
 ## § 9 Finanzausgleich
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE000900322)
 
 (1) Für die Zeit vom Ablauf der Übergangszeit nach Artikel 3 des
 Saarvertrages bis zum 31. Dezember 1959 gewährt der Bund dem Saarland
@@ -387,6 +396,7 @@ auf das Saarland anzuwenden.
 
 
 ## § 10 Geltung von Vorschriften des Dritten und Vierten Überleitungsgesetzes im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE001000322)
 
 § 1 Abs. 1 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
@@ -398,6 +408,7 @@ Saarvertrages in Kraft.
 
 
 ## § 11 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE001100322)
 
 Die zuständigen Behörden des Bundes und des Saarlandes sind
 verpflichtet, sich gegenseitig die zur Durchführung dieses Gesetzes
@@ -407,6 +418,7 @@ bestätigen zu lassen.
 
 
 ## § 12 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE001200322)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -416,6 +428,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_blg_5/BJNR003350959.html#BJNR003350959BJNE001300322)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

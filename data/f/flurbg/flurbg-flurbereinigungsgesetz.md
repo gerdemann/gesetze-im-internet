@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Grundlagen der Flurbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000100305)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE002900305)
 
 Zur Verbesserung der Produktions- und Arbeitsbedingungen in der Land-
 und Forstwirtschaft sowie zur Förderung der allgemeinen Landeskultur
@@ -35,6 +37,7 @@ nach diesem Gesetz neugeordnet werden (Flurbereinigung).
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003000305)
 
 (1) Die Flurbereinigung wird in einem behördlich geleiteten Verfahren
 innerhalb eines bestimmten Gebietes (Flurbereinigungsgebiet) unter
@@ -60,6 +63,7 @@ Flurbereinigungsbehörde übertragen.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003100305)
 
 (1) Für die Flurbereinigung ist die Flurbereinigungsbehörde örtlich
 zuständig, in deren Bezirk das Flurbereinigungsgebiet liegt. Die obere
@@ -86,6 +90,7 @@ obere Flurbereinigungsbehörde in gegenseitigem Einvernehmen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003200305)
 
 Die obere Flurbereinigungsbehörde kann die Flurbereinigung anordnen
 und das Flurbereinigungsgebiet feststellen, wenn sie eine
@@ -95,6 +100,7 @@ begründen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003300305)
 
 (1) Vor der Anordnung der Flurbereinigung sind die voraussichtlich
 beteiligten Grundstückseigentümer in geeigneter Weise eingehend über
@@ -116,6 +122,7 @@ berührenden Planungen beabsichtigt sind oder bereits feststehen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003400305)
 
 (1) In dem entscheidenden Teil des Flurbereinigungsbeschlusses sind
 Name und Sitz der Teilnehmergemeinschaft (§ 16) festzusetzen. Die
@@ -134,6 +141,7 @@ auszulegen. Hierauf ist in der Bekanntmachung hinzuweisen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003500305)
 
 (1) Das Flurbereinigungsgebiet kann eine oder mehrere Gemeinden oder
 Teile von Gemeinden umfassen. Es ist so zu begrenzen, daß der Zweck
@@ -144,6 +152,7 @@ Grundstücke, soweit sie nicht ausdrücklich ausgeschlossen werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003600305)
 
 (1) Geringfügige Änderungen des Flurbereinigungsgebietes kann die
 Flurbereinigungsbehörde anordnen. § 4 zweiter Halbsatz gilt
@@ -160,6 +169,7 @@ und 3 gelten entsprechend.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003700305)
 
 (1) Erscheint die Flurbereinigung infolge nachträglich eingetretener
 Umstände nicht zweckmäßig, so kann die obere Flurbereinigungsbehörde
@@ -173,14 +183,17 @@ nötigenfalls unter Aufwendung von öffentlichen Mitteln.
 
 
 ## Zweiter Teil - Die Beteiligten und ihre Rechte
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000200305)
 
 
 
 ### Erster Abschnitt - Die einzelnen Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000300305)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003800305)
 
 Am Flurbereinigungsverfahren sind beteiligt (Beteiligte):
 
@@ -229,12 +242,14 @@ Am Flurbereinigungsverfahren sind beteiligt (Beteiligte):
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE003900305)
 
 Die Flurbereinigungsbehörde hat die Beteiligten nach Maßgabe der §§ 12
 bis 14 zu ermitteln.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004001308)
 
 (1) Für die Ermittlung der Beteiligten sind die Eintragungen im
 Grundbuch maßgebend. Die Flurbereinigungsbehörde kann das Eigentum
@@ -276,6 +291,7 @@ die Benachrichtigung verzichtet.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004100305)
 
 (1) Ist der Eigentümer aus dem Grundbuch nicht ersichtlich, so gilt
 der Eigenbesitzer als Beteiligter.
@@ -304,6 +320,7 @@ wenn diese Rechte zur Erhaltung ihrer Wirksamkeit gegenüber dem
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004200305)
 
 (1) Beteiligte, die nicht nach Maßgabe der §§ 12 und 13 ermittelt
 werden, sind durch öffentliche Bekanntmachung aufzufordern, innerhalb
@@ -329,6 +346,7 @@ Bekanntmachung hinzuweisen.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004300305)
 
 Wer ein Grundstück erwirbt, das im Flurbereinigungsgebiet liegt, muß
 das bis zu seiner Eintragung im Grundbuch oder bis zur Anmeldung des
@@ -338,10 +356,12 @@ wird.
 
 
 ### Zweiter Abschnitt - Die Teilnehmergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000400305)
 
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004400305)
 
 Die Beteiligten nach § 10 Nr. 1 bilden die Teilnehmergemeinschaft. Sie
 entsteht mit dem Flurbereinigungsbeschluß und ist eine Körperschaft
@@ -349,6 +369,7 @@ des öffentlichen Rechts.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004500305)
 
 (1) Die Teilnehmergemeinschaft steht unter der Aufsicht der
 Flurbereinigungsbehörde. Durch die Aufsicht ist sicherzustellen, daß
@@ -364,6 +385,7 @@ geleistet werden, soweit diese nichts anderes anordnet.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004600305)
 
 (1) Die Teilnehmergemeinschaft nimmt die gemeinschaftlichen
 Angelegenheiten der Teilnehmer wahr. Sie hat insbesondere die
@@ -391,6 +413,7 @@ Flurbereinigungsbehörde.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004700305)
 
 (1) Die Teilnehmergemeinschaft kann die Teilnehmer nur zu Beiträgen in
 Geld (Geldbeiträge) oder in Sachen, Werken, Diensten oder in anderen
@@ -414,6 +437,7 @@ Teilnehmer befreien.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004800305)
 
 Die Beitrags- und Vorschußpflicht ruht als öffentliche Last auf den im
 Flurbereinigungsgebiet liegenden Grundstücken. Die einzelnen
@@ -424,6 +448,7 @@ Satz 2, des § 50 Abs. 2 Satz 1 und des § 51 Abs. 2.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE004901308)
 
 (1) Die Teilnehmergemeinschaft hat einen aus mehreren Mitgliedern
 bestehenden Vorstand. Die Flurbereinigungsbehörde bestimmt die Zahl
@@ -456,6 +481,7 @@ abweichend regeln und Wahlperioden einführen.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005000305)
 
 (1) Der Vorstand kann die Teilnehmer zu Versammlungen einberufen; er
 muß dies tun, wenn ein Drittel der Teilnehmer oder die
@@ -471,6 +497,7 @@ den Stand des Verfahrens zu geben.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005100305)
 
 (1) Die Versammlung der Teilnehmer kann Mitglieder des Vorstandes oder
 Stellvertreter dadurch abberufen, daß sie an deren Stelle mit der
@@ -501,6 +528,7 @@ durchzuführen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005200305)
 
 Die Mitglieder des Vorstandes und ihre Stellvertreter wirken
 ehrenamtlich. Die Flurbereinigungsbehörde bestimmt, ob und in welcher
@@ -509,6 +537,7 @@ wird; die Entschädigung zahlt die Teilnehmergemeinschaft.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005300305)
 
 (1) Der Vorstand führt die Geschäfte der Teilnehmergemeinschaft. Ihm
 obliegt auch die Ausführung der Aufgaben, die der
@@ -522,6 +551,7 @@ Mitarbeit heranzuziehen.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005400305)
 
 (1) Der Vorstand wählt eines seiner Mitglieder zum Vorsitzenden und
 ein weiteres Mitglied zum Stellvertreter des Vorsitzenden, soweit
@@ -538,10 +568,12 @@ Teilnehmergemeinschaft gerichtlich und außergerichtlich.
 
 
 ### Dritter Abschnitt - Verband der Teilnehmergemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000500305)
 
 
 
 #### § 26a
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005500305)
 
 (1) Mehrere Teilnehmergemeinschaften können sich zu einem Verband
 zusammenschließen, soweit die gemeinsame Durchführung der ihnen nach §
@@ -569,6 +601,7 @@ die Satzung.
 
 
 #### § 26b
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005600305)
 
 (1) Der Verband hat einen Vorstand, der von der Mitgliederversammlung
 mit der Mehrheit der abgegebenen Stimmen gewählt wird. Die Zahl der
@@ -590,6 +623,7 @@ Satzung die Kassen- und Buchführung mit voller Verantwortung zu
 
 
 #### § 26c
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005700305)
 
 (1) Ist für ein bestimmtes Gebiet die Durchführung einer
 Flurbereinigung zu erwarten, so kann die obere Flurbereinigungsbehörde
@@ -604,6 +638,7 @@ Verband vorgenommenen Geschäfte. § 9 Abs. 2 gilt entsprechend.
 
 
 #### § 26d
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005800305)
 
 Der Verband untersteht der Aufsicht der Flurbereinigungsbehörde.
 Erstrecken sich die den Verband bildenden Teilnehmergemeinschaften
@@ -621,6 +656,7 @@ gilt im übrigen entsprechend.
 
 
 #### § 26e
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE005900305)
 
 (1) Mehrere Verbände können sich zur Erfüllung der ihnen nach den §§
 26a bis 26c obliegenden Aufgaben zu einem Gesamtverband
@@ -659,10 +695,12 @@ Flurbereinigung zuständigen obersten Landesbehörde. § 17 gilt im
 
 
 ### Vierter Abschnitt - Wertermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000600305)
 
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006000305)
 
 Um die Teilnehmer mit Land von gleichem Wert abfinden zu können, ist
 der Wert der alten Grundstücke zu ermitteln. Die Wertermittlung hat in
@@ -672,6 +710,7 @@ Flurbereinigungsgebietes zu bestimmen ist.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006102377)
 
 (1) Für landwirtschaftlich genutzte Grundstücke ist das Wertverhältnis
 in der Regel nach dem Nutzen zu ermitteln, den sie bei gemeinüblicher
@@ -688,6 +727,7 @@ erforderlich, in ihrem Wert besonders zu ermitteln.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006200305)
 
 (1) Die Wertermittlung für Bauflächen und Bauland sowie für bauliche
 Anlagen hat auf der Grundlage des Verkehrswertes zu erfolgen.
@@ -711,12 +751,14 @@ Eigentümer zugeteilt werden.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006300305)
 
 Für die Größe der Grundstücke ist in der Regel die Eintragung im
 Liegenschaftskataster maßgebend.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006400305)
 
 (1) Die Wertermittlung wird in der Regel durch landwirtschaftliche
 Sachverständige vorgenommen. Die Flurbereinigungsbehörde bestimmt die
@@ -733,6 +775,7 @@ besondere anerkannte Sachverständige beizuziehen.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006500305)
 
 Die Nachweisungen über die Ergebnisse der Wertermittlung sind zur
 Einsichtnahme für die Beteiligten auszulegen. Die Ergebnisse sind
@@ -743,6 +786,7 @@ bekanntzumachen.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006600305)
 
 Die Länder können die Vornahme der Wertermittlung sowie die
 Bekanntgabe und Feststellung der Wertermittlungsergebnisse abweichend
@@ -750,10 +794,12 @@ regeln.
 
 
 ### Fünfter Abschnitt - Zeitweilige Einschränkungen des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000700305)
 
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006700305)
 
 (1) Von der Bekanntgabe des Flurbereinigungsbeschlusses bis zur
 Unanfechtbarkeit des Flurbereinigungsplanes gelten folgende
@@ -800,6 +846,7 @@ mit der besonderen Bekanntmachung gemäß Absatz 4 ein.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006800305)
 
 (1) Die Beauftragten der Flurbereinigungsbehörde sind berechtigt, zur
 Vorbereitung und zur Durchführung der Flurbereinigung Grundstücke zu
@@ -814,6 +861,7 @@ wird, trägt sie das Land.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE006900305)
 
 (1) Wird es aus dringenden Gründen erforderlich, vor der Ausführung
 oder zur Vorbereitung und zur Durchführung von Änderungen des
@@ -831,10 +879,12 @@ Sachverständigen, rechtzeitig festzustellen.
 
 
 ## Dritter Teil - Neugestaltung des Flurbereinigungsgebietes
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000800305)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007000305)
 
 (1) Das Flurbereinigungsgebiet ist unter Beachtung der jeweiligen
 Landschaftsstruktur neu zu gestalten, wie es den gegeneinander
@@ -874,6 +924,7 @@ erfolgen.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007100305)
 
 Die Flurbereinigungsbehörde stellt im Benehmen mit der
 landwirtschaftlichen Berufsvertretung und den beteiligten Behörden und
@@ -894,10 +945,12 @@ und des Städtebaues sind zu beachten.
 
 
 ### Erster Abschnitt - Gemeinschaftliche und öffentliche Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG000900305)
 
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007200305)
 
 (1) Im Flurbereinigungsgebiet sind Wege, Straßen, Gewässer und andere
 zur gemeinschaftlichen Benutzung oder einem gemeinschaftlichen
@@ -909,6 +962,7 @@ werden.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007300305)
 
 Für Anlagen, die dem öffentlichen Verkehr oder einem anderen
 öffentlichen Interesse dienen, wie öffentliche Wege, Straßen,
@@ -927,6 +981,7 @@ angemessenen Kapitalbetrag an die Teilnehmergemeinschaft zu leisten.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007400305)
 
 (1) Die Flurbereinigungsbehörde stellt im Benehmen mit dem Vorstand
 der Teilnehmergemeinschaft einen Plan auf über die gemeinschaftlichen
@@ -975,6 +1030,7 @@ zuzustellen.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007500305)
 
 (1) Die Teilnehmergemeinschaft hat die gemeinschaftlichen Anlagen,
 soweit nicht ein anderer den Ausbau übernimmt, herzustellen und bis
@@ -1000,6 +1056,7 @@ als öffentliche Last auf den Grundstücken, für die er festgesetzt ist.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007601308)
 
 Sollen Anlagen im Sinne des Gesetzes über Wasser- und Bodenverbände
 (Wasserverbandsgesetz) vom 12. Februar 1991 (BGBl. I S. 405) im
@@ -1012,10 +1069,12 @@ Flurbereinigungsbehörde die obere Aufsichtsbehörde des Verbandes.
 
 
 ### Zweiter Abschnitt - Grundsätze für die Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001000305)
 
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007700305)
 
 (1) Jeder Teilnehmer ist für seine Grundstücke unter Berücksichtigung
 der nach § 47 vorgenommenen Abzüge mit Land von gleichem Wert
@@ -1068,6 +1127,7 @@ entsprechend anzuwenden.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007800305)
 
 (1) Wenn der Zweck der Flurbereinigung es erfordert, können verändert
 werden:
@@ -1131,6 +1191,7 @@ erforderlich.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE007900305)
 
 Sind Teile des Flurbereinigungsgebietes durch besondere Maßnahmen mit
 erheblichen öffentlichen Mitteln im Flurbereinigungsverfahren
@@ -1145,6 +1206,7 @@ verwenden.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008000305)
 
 (1) Den zu den gemeinschaftlichen Anlagen und zu öffentlichen Anlagen
 nach § 40 erforderlichen Grund und Boden haben alle Teilnehmer nach
@@ -1172,6 +1234,7 @@ Anlagen ganz oder teilweise zu Lasten der übrigen Teilnehmer befreien.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008100305)
 
 (1) Zum Flurbereinigungsgebiet gehörende Grundstücke, die nach altem
 Herkommen in gemeinschaftlichem Eigentum stehen, können geteilt
@@ -1184,6 +1247,7 @@ werden.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008200305)
 
 (1) Wenn es der Zweck der Flurbereinigung erfordert, können
 Dienstbarkeiten, Reallasten und Erwerbsrechte an einem Grundstück
@@ -1211,6 +1275,7 @@ nur zu berücksichtigen, wenn sie erheblich ist.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008300305)
 
 (1) Obstbäume, Beerensträucher, Rebstöcke, Hopfenstöcke,
 Bodenaltertümer, Kulturdenkmale sowie Bäume, Feldgehölze und Hecken,
@@ -1243,6 +1308,7 @@ abzufinden.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008400305)
 
 (1) Ein vorübergehender Unterschied zwischen dem Wert der alten
 Grundstücke und dem Wert der Landabfindung sowie andere vorübergehende
@@ -1256,6 +1322,7 @@ Verhältnis seines Vorteiles verlangen.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008500305)
 
 (1) Ein Teilnehmer kann mit seiner Zustimmung statt in Land ganz oder
 teilweise in Geld abgefunden werden.
@@ -1282,6 +1349,7 @@ für diesen Teil einzutragen.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008600305)
 
 (1) Wird ein Teilnehmer ganz oder teilweise in Geld abgefunden und ist
 er mit der Höhe der Geldabfindung einverstanden, so kann diese schon
@@ -1302,6 +1370,7 @@ gegenüber verpflichtet, den Gläubiger rechtzeitig zu befriedigen.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008700305)
 
 (1) Geldabfindungen und Geldausgleiche müssen angemessen sein. Die
 Kapitalerträge sind unter Zugrundelegung des Wertes nach § 28, bei
@@ -1316,6 +1385,7 @@ zu Eigentum zugeteilt wird. Für die Zuteilung gilt § 55 entsprechend.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008800305)
 
 (1) Ist ein Siedlungsunternehmen Teilnehmer, so kann das ihm
 zustehende Abfindungsland mit seiner Zustimmung durch den
@@ -1342,10 +1412,12 @@ Verteilung nicht gefährdet wird.
 
 
 ### Dritter Abschnitt - Flurbereinigungsplan
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001100305)
 
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE008900305)
 
 Vor der Aufstellung des Flurbereinigungsplanes hat die
 Flurbereinigungsbehörde, soweit erforderlich, die Errichtung fester
@@ -1358,12 +1430,14 @@ Flurbereinigungsgebietes festgelegt wird.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009000305)
 
 Vor der Aufstellung des Flurbereinigungsplanes sind die Teilnehmer
 über ihre Wünsche für die Abfindung zu hören.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009100305)
 
 (1) Die Flurbereinigungsbehörde faßt die Ergebnisse des Verfahrens im
 Flurbereinigungsplan zusammen. In den Flurbereinigungsplan ist der
@@ -1400,6 +1474,7 @@ oder aufgehoben werden.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009200305)
 
 (1) Der Flurbereinigungsplan ist den Beteiligten bekanntzugeben. Die
 neue Feldeinteilung ist ihnen auf Wunsch an Ort und Stelle zu
@@ -1426,6 +1501,7 @@ zwei Wochen nach dem Terminstage zulassen.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009300305)
 
 (1) Die Flurbereinigungsbehörde hat begründeten Widersprüchen
 abzuhelfen. Sie kann auch andere Änderungen des Flurbereinigungsplanes
@@ -1439,10 +1515,12 @@ der oberen Flurbereinigungsbehörde vor.
 
 
 ### Vierter Abschnitt - Ausführung des Flurbereinigungsplanes
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001200305)
 
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009400305)
 
 Ist der Flurbereinigungsplan unanfechtbar geworden, ordnet die
 Flurbereinigungsbehörde seine Ausführung an (Ausführungsanordnung). Zu
@@ -1452,6 +1530,7 @@ bisherigen.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009500305)
 
 (1) Die Ausführungsanordnung und der Zeitpunkt des Eintritts des neuen
 Rechtszustandes (§ 61 Satz 2) sind öffentlich bekanntzumachen. In der
@@ -1470,6 +1549,7 @@ auszulegen. Die Auslegung ist öffentlich bekanntzumachen.
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009600305)
 
 (1) Die Ausführung des Flurbereinigungsplanes kann vor seiner
 Unanfechtbarkeit angeordnet werden, wenn die Flurbereinigungsbehörde
@@ -1487,6 +1567,7 @@ bekanntzugeben.
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009700305)
 
 Die Flurbereinigungsbehörde kann den Flurbereinigungsplan auch nach
 der Ausführungsanordnung (§§ 61 und 63) ändern oder ergänzen, wenn
@@ -1499,10 +1580,12 @@ angeordnet war.
 
 
 ### Fünfter Abschnitt - Vorläufige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001300305)
 
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009800305)
 
 (1) Die Beteiligten können in den Besitz der neuen Grundstücke
 vorläufig eingewiesen werden, wenn deren Grenzen in die Örtlichkeit
@@ -1521,6 +1604,7 @@ Vorschriften des § 62 Abs. 2 und 3 gelten sinngemäß.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE009900305)
 
 (1) Mit dem in den Überleitungsbestimmungen bestimmten Zeitpunkt gehen
 der Besitz, die Verwaltung und die Nutzung der neuen Grundstücke auf
@@ -1538,6 +1622,7 @@ mit der Ausführung des Flurbereinigungsplanes (§§ 61 und 63).
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010000305)
 
 (1) Ausgleiche und Abfindungen in Geld sind möglichst anschließend an
 die Anordnung nach § 65 Abs. 2 zu leisten, soweit nicht Rechte Dritter
@@ -1550,10 +1635,12 @@ auszugleichen.
 
 
 ### Sechster Abschnitt - Wahrung der Rechte Dritter
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001400305)
 
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010100305)
 
 (1) Die Landabfindung tritt hinsichtlich der Rechte an den alten
 Grundstücken und der diese Grundstücke betreffenden
@@ -1576,6 +1663,7 @@ hinsichtlich der Bruchteile von Berechtigungen der in § 49 Abs. 1 Satz
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010200305)
 
 Der Nießbraucher hat einen angemessenen Teil der dem Eigentümer zur
 Last fallenden Beiträge (§ 19) zu leisten und dem Eigentümer die
@@ -1586,6 +1674,7 @@ Land zu leisten hat.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010301377)
 
 (1) Bei Pachtverhältnissen ist ein Wertunterschied zwischen dem alten
 und dem neuen Pachtbesitz durch Erhöhung oder Minderung der Pacht oder
@@ -1602,6 +1691,7 @@ Vertragsteile eine abweichende Regelung getroffen haben.
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010400305)
 
 Über die Leistungen nach § 69, den Ausgleich nach § 70 Abs. 1 und die
 Auflösung des Pachtverhältnisses nach § 70 Abs. 2 entscheidet die
@@ -1612,6 +1702,7 @@ Ausführungsanordnung bei der Flurbereinigungsbehörde zu stellen.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010500305)
 
 (1) Wird ein Teilnehmer nur in Geld abgefunden, so sind die Inhaber
 von Hypotheken, Grundschulden, Rentenschulden und Reallasten an den
@@ -1627,6 +1718,7 @@ Berechtigungen treten.
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010600305)
 
 Wird ein Teilnehmer nur in Geld abgefunden, so sind
 Altenteilsberechtigte sowie Inhaber von Erwerbsrechten an den alten
@@ -1637,6 +1729,7 @@ Vorschriften des § 49 Abs. 1 und 3 gelten entsprechend.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010700305)
 
 Wird ein Teilnehmer nur in Geld abgefunden, so sind die Rechte nach §
 72 Abs. 1, soweit sie aus dem Grundbuch ersichtlich oder sonst bekannt
@@ -1680,6 +1773,7 @@ sind, nach folgenden Vorschriften zu wahren:
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010800305)
 
 (1) Nach Eintritt des neuen Rechtszustandes kann jeder
 Hinterlegungsbeteiligte sein Recht an der hinterlegten Summe gegen
@@ -1718,6 +1812,7 @@ Abweichungen sinngemäß anzuwenden:
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE010900305)
 
 (1) Erhält ein Teilnehmer neben einer Landabfindung eine Geldabfindung
 und übersteigt diese den Betrag von tausend Deutsche Mark oder den
@@ -1741,6 +1836,7 @@ Abfindungsgrundstück dauerhaft verbessert.
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011000305)
 
 Die Vorschriften der §§ 74 bis 76 gelten entsprechend, wenn Rechte
 Dritter an den Rechten bestehen, die nach § 74 zu wahren sind oder
@@ -1748,6 +1844,7 @@ deren Inhaber nach den §§ 49 oder 73 in Geld abgefunden werden.
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011100305)
 
 Die Teilnehmergemeinschaft hat Geldabfindungen bis zu ihrer Verwendung
 für die Empfangsberechtigten auf Sonderkonto bei einem Kreditinstitut
@@ -1755,10 +1852,12 @@ bereitzuhalten.
 
 
 ### Siebenter Abschnitt - Berichtigung der öffentlichen Bücher
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001500305)
 
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011200305)
 
 (1) Nach Eintritt des neuen Rechtszustandes sind die öffentlichen
 Bücher auf Ersuchen der Flurbereinigungsbehörde nach dem
@@ -1770,6 +1869,7 @@ stellen, wenn die Entscheidung unanfechtbar geworden ist.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011300305)
 
 Dem Ersuchen um Berichtigung des Grundbuches sind eine Bescheinigung
 über den Eintritt des neuen Rechtszustandes und ein beglaubigter
@@ -1794,6 +1894,7 @@ Auszug aus dem Flurbereinigungsplan beizufügen, der nachweisen muß:
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011400305)
 
 (1) Bis zur Berichtigung des Liegenschaftskatasters dient der
 Flurbereinigungsplan als amtliches Verzeichnis der Grundstücke (§ 2
@@ -1807,6 +1908,7 @@ Behörde zuständig.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011500305)
 
 Solange die Flurbereinigungsbehörde die Berichtigung des Grundbuches
 noch nicht veranlaßt hat, kann ein Teilnehmer, dessen Rechte durch
@@ -1820,6 +1922,7 @@ beizufügen.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011600305)
 
 Nachträgliche Änderungen, Ergänzungen oder Berichtigungen des
 Flurbereinigungsplanes (§§ 64 und 132) werden nach den §§ 79 bis 82 in
@@ -1827,20 +1930,24 @@ das Grundbuch übernommen.
 
 
 ## Vierter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001600305)
 
 
 
 ### Erster Abschnitt - Waldgrundstücke
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001700305)
 
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011700305)
 
 Ländlicher Grundbesitz im Sinne dieses Gesetzes sind auch
 Waldgrundstücke.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011800305)
 
 Für die Einbeziehung von Waldgrundstücken in ein
 Flurbereinigungsverfahren gelten folgende Sondervorschriften:
@@ -1898,10 +2005,12 @@ Flurbereinigungsverfahren gelten folgende Sondervorschriften:
 
 
 ### Zweiter Abschnitt - Vereinfachtes Flurbereinigungsverfahren zur Landentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001801308)
 
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE011901308)
 
 (1) Ein vereinfachtes Flurbereinigungsverfahren kann eingeleitet
 werden, um
@@ -1990,10 +2099,12 @@ der Maßnahme Kosten nach Satz 2 nicht mehr auferlegt werden.
 
 
 ### Dritter Abschnitt - Bereitstellung von Land in großem Umfange für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG001900305)
 
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012000305)
 
 (1) Ist aus besonderem Anlaß eine Enteignung zulässig, durch die
 ländliche Grundstücke in großem Umfange in Anspruch genommen würden,
@@ -2032,6 +2143,7 @@ Abs. 2 und 3 sind entsprechend anzuwenden.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012100305)
 
 Für das Flurbereinigungsverfahren im Falle des § 87 gelten folgende
 Sondervorschriften:
@@ -2129,6 +2241,7 @@ Sondervorschriften:
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012200305)
 
 (1) Soweit im Falle des § 87 ein Teilnehmer nach dem für das
 Unternehmen geltenden Gesetz keinen Anspruch auf Entschädigung in Land
@@ -2147,6 +2260,7 @@ der Ausführung des Flurbereinigungsplanes ausgezahlt werden; § 52 Abs.
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012300305)
 
 Wenn für ländliche Grundstücke eine Grundabtretung nach
 berggesetzlichen Vorschriften in großem Umfange durchgeführt oder
@@ -2160,10 +2274,12 @@ Vorschriften des § 88 sind sinngemäß anzuwenden.
 
 
 ## Fünfter Teil - Beschleunigtes Zusammenlegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002000305)
 
 
 
 ### § 91
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012400305)
 
 Um die in der Flurbereinigung angestrebte Verbesserung der
 Produktions- und Arbeitsbedingungen in der Land- und Forstwirtschaft
@@ -2175,6 +2291,7 @@ Zusammenlegung nach Maßgabe der folgenden Vorschriften stattfinden.
 
 
 ### § 92
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012500305)
 
 (1) Die Zusammenlegung ist ein durch die Flurbereinigungsbehörde
 geleitetes Verfahren, in dem innerhalb eines bestimmten Gebietes
@@ -2190,6 +2307,7 @@ der Zusammenlegung und den §§ 93 bis 103 Abweichungen ergeben.
 
 
 ### § 93
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012601308)
 
 (1) Die Zusammenlegung ist einzuleiten, wenn mehrere
 Grundstückseigentümer oder die landwirtschaftliche Berufsvertretung
@@ -2207,6 +2325,7 @@ Gemeindeverband zu hören.
 
 
 ### § 94
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012700305)
 
 (1) Nachträgliche Änderungen des Zusammenlegungsgebietes bedürfen der
 Zustimmung des Vorstandes der Teilnehmergemeinschaft.
@@ -2220,6 +2339,7 @@ anzuwenden.
 
 
 ### § 95
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012800305)
 
 Die Bildung eines Vorstandes der Teilnehmergemeinschaft kann
 unterbleiben. In diesem Falle unterliegen die Aufgaben des Vorstandes
@@ -2229,6 +2349,7 @@ den Teilnehmern gewählte Vorsitzende der Teilnehmergemeinschaft. Die
 
 
 ### § 96
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE012900305)
 
 Die Ermittlung des Wertes der Grundstücke ist in einfacher Weise
 vorzunehmen. Die Bekanntgabe der Ergebnisse kann mit der Bekanntgabe
@@ -2236,6 +2357,7 @@ des Zusammenlegungsplanes (§ 100) verbunden werden.
 
 
 ### § 97
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013000305)
 
 Der zersplitterte Grundbesitz ist großzügig zusammenzulegen. Nach
 Möglichkeit sollen ganze Flurstücke ausgetauscht werden. Die
@@ -2249,6 +2371,7 @@ Zusammenlegungsplan darzustellen.
 
 
 ### § 98
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013100305)
 
 Für die Abfindung gelten die Grundsätze der §§ 44 bis 55 mit der
 Einschränkung, daß die in § 45 aufgeführten Grundstücke nur mit
@@ -2257,6 +2380,7 @@ nicht anzuwenden ist.
 
 
 ### § 99
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013200305)
 
 (1) Die Abfindungen sind nach Möglichkeit durch Vereinbarungen mit den
 Beteiligten zu bestimmen. Die Vereinbarungen bedürfen der Genehmigung
@@ -2286,6 +2410,7 @@ anzuwenden.
 
 
 ### § 100
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013300305)
 
 An die Stelle des Flurbereinigungsplanes tritt der
 Zusammenlegungsplan. Auf diesen sind die Vorschriften der §§ 58 bis 60
@@ -2294,6 +2419,7 @@ werden.
 
 
 ### § 101
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013400305)
 
 Die Ausführungsanordnung (§§ 61 und 63), die Anordnung der vorläufigen
 Besitzeinweisung (§ 65) und die Überleitungsbestimmungen sind den
@@ -2302,12 +2428,14 @@ bekanntzumachen.
 
 
 ### § 102
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013500305)
 
 Die Durchführung eines Zusammenlegungsverfahrens schließt die spätere
 Durchführung eines Flurbereinigungsverfahrens nicht aus.
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013600305)
 
 Das Bayerische Gesetz über die Zusammenlegung von landwirtschaftlichen
 Grundstücken (Arrondierungsgesetz) in der Fassung der Bekanntmachung
@@ -2321,10 +2449,12 @@ Württemberg S. 96), bleiben unberührt.
 
 
 ## Sechster Teil - Freiwilliger Landtausch
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002100305)
 
 
 
 ### § 103a
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013701308)
 
 (1) Um ländliche Grundstücke zur Verbesserung der Agrarstruktur in
 einem schnellen und einfachen Verfahren neu zu ordnen, kann ein
@@ -2335,6 +2465,7 @@ und der Landschaftspflege durchgeführt werden.
 
 
 ### § 103b
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013800305)
 
 (1) Der freiwillige Landtausch ist ein durch die
 Flurbereinigungsbehörde geleitetes Verfahren, in dem im Einverständnis
@@ -2352,6 +2483,7 @@ gelten nicht.
 
 
 ### § 103c
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE013901308)
 
 (1) Die Durchführung des freiwilligen Landtausches setzt voraus, daß
 die Tauschpartner sie schriftlich oder zur Niederschrift bei der
@@ -2366,12 +2498,14 @@ Satz 2 und § 86 Abs. 2 Nr. 1 entsprechend.
 
 
 ### § 103d
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014001308)
 
 Für die Einstellung des Verfahrens ist die Flurbereinigungsbehörde
 zuständig; § 9 Abs. 1 und § 86 Abs. 2 Nr. 1 gelten entsprechend.
 
 
 ### § 103e
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014100305)
 
 Die Tauschgrundstücke sollen großzügig zusammengelegt werden. Nach
 Möglichkeit sollen ganze Flurstücke getauscht und wege- und
@@ -2381,6 +2515,7 @@ Ein Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan (§
 
 
 ### § 103f
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014200305)
 
 (1) An die Stelle des Flurbereinigungsplanes tritt der Tauschplan. Die
 Flurbereinigungsbehörde hat die Einverständniserklärungen der
@@ -2425,6 +2560,7 @@ Genehmigung erforderlich wäre.
 
 
 ### § 103g
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014300305)
 
 Die zur Ausführung des freiwilligen Landtausches erforderlichen
 Aufwendungen fallen den Tauschpartnern nach Maßgabe des Tauschplanes
@@ -2432,12 +2568,14 @@ zur Last.
 
 
 ### § 103h
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014400305)
 
 Die Schlußfeststellung (§ 149) ist nicht erforderlich. Das Verfahren
 ist beendet, sobald die öffentlichen Bücher berichtigt sind.
 
 
 ### § 103i
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014500305)
 
 Die Durchführung eines freiwilligen Landtausches schließt die spätere
 Durchführung eines beschleunigten Zusammenlegungsverfahrens oder eines
@@ -2445,10 +2583,12 @@ Flurbereinigungsverfahrens nicht aus.
 
 
 ## Siebenter Teil - Verbindung von Flurbereinigungsverfahren beschleunigtem Zusammenlegungsverfahren und freiwilligem Landtausch
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002200305)
 
 
 
 ### § 103j
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014600305)
 
 Ein Flurbereinigungsverfahren kann ganz oder in Teilen des
 Flurbereinigungsgebietes als beschleunigtes Zusammenlegungsverfahren
@@ -2456,6 +2596,7 @@ oder als freiwilliger Landtausch fortgeführt werden.
 
 
 ### § 103k
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014700305)
 
 Ein beschleunigtes Zusammenlegungsverfahren kann ganz oder in Teilen
 des Zusammenlegungsgebietes als freiwilliger Landtausch fortgeführt
@@ -2463,22 +2604,26 @@ werden.
 
 
 ## Achter Teil - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002300305)
 
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014800305)
 
 Die persönlichen und sächlichen Kosten der Behördenorganisation
 (Verfahrenskosten) trägt das Land.
 
 
 ### § 105
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE014900305)
 
 Die zur Ausführung der Flurbereinigung erforderlichen Aufwendungen
 fallen der Teilnehmergemeinschaft zur Last (Ausführungskosten).
 
 
 ### § 106
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015000305)
 
 Eigentümern von Grundstücken, die nicht zum Flurbereinigungsgebiet
 gehören, aber von der Flurbereinigung wesentliche Vorteile haben, ist
@@ -2488,6 +2633,7 @@ Beitrag zu den Ausführungskosten aufzuerlegen. Der Beitrag ruht als
 
 
 ### § 107
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015100305)
 
 (1) Ist die Erledigung eines Antrages zur Durchführung des
 Flurbereinigungsverfahrens nicht erforderlich, so trägt der
@@ -2506,6 +2652,7 @@ werden, der sie verschuldet hat.
 
 
 ### § 108
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015200305)
 
 (1) Geschäfte und Verhandlungen, die der Durchführung der
 Flurbereinigung dienen, einschließlich der Berichtigung der
@@ -2523,10 +2670,12 @@ Verhandlung der Durchführung der Flurbereinigung dient.
 
 
 ## Neunter Teil - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002400305)
 
 
 
 ### § 109
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015300305)
 
 Die Berufsvertretung der Landwirtschaft, Forstwirtschaft oder
 Fischerei, soweit sie nach den Vorschriften dieses Gesetzes zu hören
@@ -2538,6 +2687,7 @@ deren Organ, das im Einzelfall zu beteiligen ist.
 
 
 ### § 110
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015400305)
 
 Die in diesem Gesetz vorgeschriebenen öffentlichen Bekanntmachungen
 erfolgen in den Flurbereinigungsgemeinden und in den angrenzenden
@@ -2550,6 +2700,7 @@ Bekanntmachungen erhalten.
 
 
 ### § 111
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015500305)
 
 (1) Ladungen und andere Mitteilungen können, soweit dieses Gesetz
 nichts anderes bestimmt, in jeder Form bekanntgegeben werden. Sollen
@@ -2567,6 +2718,7 @@ außerdem schriftlich erfolgen.
 
 
 ### § 112
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015601377)
 
 Für das Zustellungsverfahren gelten die Vorschriften des
 Verwaltungszustellungsgesetzes. Daneben gilt die in § 113 geregelte
@@ -2574,6 +2726,7 @@ Sonderart der Zustellung.
 
 
 ### § 113
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015701377)
 
 Mehreren Beteiligten in einer Gemeinde kann auch durch Umlauf
 zugestellt werden. Dabei gilt folgendes:
@@ -2599,6 +2752,7 @@ zugestellt werden. Dabei gilt folgendes:
 
 
 ### § 114
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015800305)
 
 (1) In den Ladungen muß auf den Gegenstand der Verhandlung und die
 gesetzlichen Folgen des Ausbleibens hingewiesen werden.
@@ -2615,6 +2769,7 @@ nicht vor der Verhandlung über seine Sache den Mangel rügt.
 
 
 ### § 115
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE015900305)
 
 (1) Die gesetzlichen Fristen beginnen mit der Bekanntgabe
 (Zustellung), wenn öffentliche Bekanntmachung erfolgt, mit dem ersten
@@ -2627,6 +2782,7 @@ Frist mit Ablauf des nächsten Werktages.
 
 
 ### § 116
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016000305)
 
 (1) Die Flurbereinigungsbehörde und die obere Flurbereinigungsbehörde
 können das persönliche Erscheinen der Beteiligten anordnen,
@@ -2644,6 +2800,7 @@ Abs. 1 Satz 1 bleibt unberührt.
 
 
 ### § 117
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016100305)
 
 (1) Die Ordnung bei den Verhandlungen wahrt der Verhandlungsleiter.
 
@@ -2660,12 +2817,14 @@ und ihr Anlaß sind in die Verhandlungsniederschrift aufzunehmen.
 
 
 ### § 118
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016200305)
 
 Körperschaften des öffentlichen Rechts bedürfen für die von ihnen
 abzugebenden Erklärungen keiner Genehmigung ihrer Aufsichtsbehörde.
 
 
 ### § 119
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016301377)
 
 (1) Auf Ersuchen der Flurbereinigungsbehörde oder der oberen
 Flurbereinigungsbehörde hat das nach Absatz 2 zuständige Gericht, wenn
@@ -2714,6 +2873,7 @@ Vertreters die Vorschriften über die Pflegschaft entsprechend.
 
 
 ### § 120
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016400305)
 
 (1) Beteiligte können sich durch Bevollmächtigte vertreten lassen und
 zu Verhandlungen mit einem Beistand erscheinen.
@@ -2724,6 +2884,7 @@ widerruft oder berichtigt.
 
 
 ### § 121
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016500305)
 
 Bevollmächtigte und Beistände, die nicht unbeschränkt geschäftsfähig
 sind oder denen die Fähigkeit zum geeigneten Vortrag mangelt, können
@@ -2731,6 +2892,7 @@ zurückgewiesen werden.
 
 
 ### § 122
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016600305)
 
 Auf Rechtsanwälte und Personen, denen die Besorgung fremder
 Rechtsangelegenheiten von der zuständigen Behörde gestattet ist, sind
@@ -2738,6 +2900,7 @@ Rechtsangelegenheiten von der zuständigen Behörde gestattet ist, sind
 
 
 ### § 123
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016700305)
 
 (1) Der Bevollmächtigte hat sich durch eine schriftliche Vollmacht
 auszuweisen und sie der Flurbereinigungsbehörde oder der oberen
@@ -2749,6 +2912,7 @@ beglaubigt werden.
 
 
 ### § 124
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016800305)
 
 Handelt jemand für einen Beteiligten als Bevollmächtigter ohne
 Beibringung einer formgültigen Vollmacht, so kann er zu Erklärungen
@@ -2758,6 +2922,7 @@ oder der Vertretene die für ihn abgegebenen Erklärungen genehmigt.
 
 
 ### § 125
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE016900305)
 
 (1) Die für die Flurbereinigung erteilte Vollmacht ermächtigt zu allen
 das Verfahren betreffenden Handlungen, zur Bestellung eines Vertreters
@@ -2770,6 +2935,7 @@ Handlungen nach Absatz 1 ermächtigt.
 
 
 ### § 126
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017000305)
 
 (1) Die Vollmacht erlischt nicht durch den Tod des Vollmachtgebers
 oder durch eine Veränderung in seiner Geschäftsfähigkeit oder seiner
@@ -2785,6 +2951,7 @@ bis dieser für Wahrnehmung seiner Rechte in anderer Weise gesorgt hat.
 
 
 ### § 127
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017100305)
 
 (1) Wohnen Beteiligte außerhalb des Gebietes der Flurbereinigungs-
 oder der angrenzenden Gemeinden und haben sie keinen in diesen
@@ -2804,6 +2971,7 @@ als unbestellbar zurückkommt.
 
 
 ### § 128
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017200305)
 
 Wohnen Beteiligte außerhalb des Geltungsbereichs dieses Gesetzes, so
 sind sie aufzufordern, innerhalb angemessener Frist einen im
@@ -2812,6 +2980,7 @@ bestellen. § 14 Abs. 2 bis 4 gilt entsprechend.
 
 
 ### § 129
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017300305)
 
 (1) Über Verhandlungen ist eine Niederschrift aufzunehmen. Sie soll
 den wesentlichen Hergang der Verhandlungen enthalten.
@@ -2822,6 +2991,7 @@ bezeichnet ist. Auf die Anlage ist in der Niederschrift hinzuweisen.
 
 
 ### § 130
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017400305)
 
 (1) Die Niederschrift ist den an der Verhandlung Beteiligten
 vorzulesen oder vorzulegen. In der Niederschrift ist zu vermerken, daß
@@ -2838,6 +3008,7 @@ unterschreiben.
 
 
 ### § 131
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017500305)
 
 Die Beobachtung der für die Verhandlung vorgeschriebenen
 Förmlichkeiten kann nur durch die Verhandlungsniederschrift bewiesen
@@ -2846,6 +3017,7 @@ der Nachweis der Fälschung zulässig.
 
 
 ### § 132
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017600305)
 
 Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten in
 Verhandlungsniederschriften, im Flurbereinigungsplan, in Anordnungen,
@@ -2856,6 +3028,7 @@ beruhen.
 
 
 ### § 133
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017700305)
 
 Jedem Beteiligten müssen auf Verlangen gegen Erstattung der Kosten
 Abschriften aus Verhandlungsniederschriften und
@@ -2865,6 +3038,7 @@ Interesse darlegt.
 
 
 ### § 134
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017800305)
 
 (1) Versäumt ein Beteiligter einen Termin oder erklärt er sich nicht
 bis zum Schluß des Termins über den Verhandlungsgegenstand, so wird
@@ -2885,6 +3059,7 @@ eigenen Verschulden des Vertretenen gleich.
 
 
 ### § 135
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE017900305)
 
 (1) Die Gerichte und die Behörden des Bundes, der Länder, der
 Gemeinden und Gemeindeverbände sowie anderer Körperschaften des
@@ -2911,6 +3086,7 @@ hierfür geschuldeten Kosten (Gebühren und Auslagen) zu.
 
 
 ### § 136
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018000305)
 
 (1) Für die Vollstreckung von Geldforderungen sind die §§ 1 bis 5 des
 Verwaltungs-Vollstreckungsgesetzes (VwVG) vom 27. April 1953
@@ -2925,6 +3101,7 @@ ist die Flurbereinigungsbehörde.
 
 
 ### § 137
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018100305)
 
 (1) Mit Zwangsmitteln können durchgesetzt werden:
 
@@ -2949,10 +3126,12 @@ den §§ 10 und 12 VwVG genannten Zwangsmittel angewendet werden.
 
 
 ## Zehnter Teil - Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002500305)
 
 
 
 ### § 138
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018200305)
 
 (1) In jedem Land ist bei dem obersten Verwaltungsgericht ein Senat
 für Flurbereinigung (Flurbereinigungsgericht) einzurichten. Für die
@@ -2967,6 +3146,7 @@ Gericht übertragen werden.
 
 
 ### § 139
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018301377)
 
 (1) Das Flurbereinigungsgericht besteht aus den erforderlichen
 Richtern, ehrenamtlichen Richtern und Stellvertretern. Es verhandelt
@@ -2994,6 +3174,7 @@ bilden, so muß sie aus Landwirten und Forstwirten bestehen.
 
 
 ### § 140
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018402377)
 
 Das Flurbereinigungsgericht entscheidet über die Anfechtung von
 Verwaltungsakten, die im Vollzug dieses Gesetzes ergehen, über die
@@ -3007,6 +3188,7 @@ Verwaltungsgerichtsordnung findet keine Anwendung.
 
 
 ### § 141
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018501308)
 
 (1) Mit dem Widerspruch können angefochten werden:
 
@@ -3037,6 +3219,7 @@ gesamten Verhandlungen und Ermittlungen gewonnenen Überzeugung.
 
 
 ### § 142
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018601308)
 
 (1)
 
@@ -3052,6 +3235,7 @@ Art, Umfang und Höhe nicht bestimmt zu sein.
 
 
 ### § 143
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018700305)
 
 Der Vorsitzende des Flurbereinigungsgerichts nimmt die Ermittlungen
 und Verhandlungen vor, die er zur Vorbereitung der Entscheidung für
@@ -3069,6 +3253,7 @@ tätig waren, können nicht beauftragt werden.
 
 
 ### § 144
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018800305)
 
 Soweit das Flurbereinigungsgericht die Klage für begründet hält, kann
 es den angefochtenen Verwaltungsakt durch Urteil ändern oder den
@@ -3082,6 +3267,7 @@ Entscheidung zugrunde zu legen.
 
 
 ### § 145
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE018900305)
 
 (1) Der Vorsitzende kann namens des Flurbereinigungsgerichts die
 Anfechtungsklage ohne mündliche Verhandlung durch einen mit Gründen
@@ -3096,6 +3282,7 @@ er als rechtskräftiges Urteil.
 
 
 ### § 146
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019000305)
 
 In den Fällen der §§ 32 und 59 Abs. 2 gelten folgende
 Sondervorschriften:
@@ -3113,6 +3300,7 @@ Sondervorschriften:
 
 
 ### § 147
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019100305)
 
 (1) Für die abweisende Entscheidung im Verwaltungsgerichtsverfahren
 wird ein Pauschsatz erhoben, der unter Berücksichtigung der durch das
@@ -3133,16 +3321,19 @@ Widerspruchsverfahren vor der oberen Flurbereinigungsbehörde.
 
 
 ### § 148
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019200305)
 
 Für die Vollstreckung der Urteile des Flurbereinigungsgerichts gelten
 die §§ 136 und 137 entsprechend.
 
 
 ## Elfter Teil - Abschluß des Flurbereinigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002600305)
 
 
 
 ### § 149
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019300305)
 
 (1) Die Flurbereinigungsbehörde schließt das Verfahren durch die
 Feststellung (Schlußfeststellung) ab, daß die Ausführung nach dem
@@ -3169,6 +3360,7 @@ Schlußfeststellung für abgeschlossen erklärt sind.
 
 
 ### § 150
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019400305)
 
 (1) Der Gemeinde oder ihrer Aufsichtsbehörde sind zur Aufbewahrung zu
 übersenden:
@@ -3197,10 +3389,12 @@ darlegt, kann die in Absatz 1 aufgeführten Unterlagen einsehen.
 
 
 ## Zwölfter Teil - Die Teilnehmergemeinschaft nach der Beendigung des Flurbereinigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002700305)
 
 
 
 ### § 151
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019500305)
 
 Die Teilnehmergemeinschaft bleibt als Körperschaft des öffentlichen
 Rechts bestehen, solange über die Beendigung des
@@ -3214,6 +3408,7 @@ Flurbereinigungsbehörde gehen auf die Gemeindeaufsichtsbehörde über.
 
 
 ### § 152
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019600305)
 
 Für die Verteilung von Einkünften der Teilnehmergemeinschaft gilt § 19
 Abs. 1 sinngemäß. Sie findet nur insoweit statt, als die Einkünfte
@@ -3223,6 +3418,7 @@ Kosten oder aus anderen Gründen unzweckmäßig erscheint.
 
 
 ### § 153
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019700305)
 
 (1) Die Flurbereinigungsbehörde hat die Teilnehmergemeinschaft
 aufzulösen, wenn ihre Aufgaben erfüllt sind. Dies gilt sinngemäß für
@@ -3241,10 +3437,12 @@ Aufgaben erfüllt sind.
 
 
 ## Dreizehnter Teil - Schluß- und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNG002800305)
 
 
 
 ### § 154
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019800305)
 
 (1) Ordnungswidrig handelt, wer den Vorschriften des § 34 Abs. 1 Nr. 2
 und 3 oder des § 85 Nr. 5 zuwiderhandelt.
@@ -3256,6 +3454,7 @@ eingezogen werden.
 
 
 ### § 155
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE019900305)
 
 (1)
 
@@ -3268,6 +3467,7 @@ Gesetzes.
 
 
 ### § 156
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE020000305)
 
 Auf anhängige Verfahren, in denen die Bekanntgabe des
 Flurbereinigungsplanes oder der ihm gleichstehenden Urkunde begonnen
@@ -3283,6 +3483,7 @@ Stellen über.
 
 
 ### § 157
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE020100305)
 
 Werden Grundstücke in ein Flurbereinigungs- oder Zusammenlegungsgebiet
 eines benachbarten Landes einbezogen (§ 3 Abs. 3 Satz 2), so gelten
@@ -3291,6 +3492,7 @@ Vorschriften des Landes auch für die genannten Grundstücke.
 
 
 ### § 158
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE020200305)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1),
@@ -3300,6 +3502,7 @@ zuletzt geändert durch das Finanzanpassungsgesetz vom 30. August 1971
 
 
 ### § 159
+[Direktlink](https://www.gesetze-im-internet.de/flurbg/BJNR005910953.html#BJNR005910953BJNE020300305)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

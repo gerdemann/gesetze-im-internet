@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## Erster Abschnitt - Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNG000100328)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE000400328)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1988 auf das Jahr 1989 werden die Renten der gesetzlichen
@@ -30,6 +32,7 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 ### § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE000500328)
 
 (1) Renten, die
 
@@ -56,6 +59,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE000600328)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1989 ergebende
@@ -63,6 +67,7 @@ anpassungsfähige Rentenbetrag um 3 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE000700328)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -83,6 +88,7 @@ zulässig.
 
 
 ### § 5 Allgemeine Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE000800328)
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1989 beträgt
 
@@ -100,26 +106,31 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1989 beträgt
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNG000200328)
 
 
 
 ### § 6 Anpassungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE000900328)
 
 Der Anpassungsfaktor für die vom 1. Juli 1989 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,024.
 
 
 ### § 7 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE001000328)
 
 Das Pflegegeld beträgt vom 1. Juli 1989 an zwischen 436 Deutsche Mark
 und 1.747 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNG000300328)
 
 
 
 ### § 8 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1989/BJNR108740989.html#BJNR108740989BJNE001100328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

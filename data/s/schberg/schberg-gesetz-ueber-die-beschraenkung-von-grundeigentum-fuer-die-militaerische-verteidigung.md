@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Schutzbereiche
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNG000100315)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE000700315)
 
 (1) Ein Schutzbereich ist ein Gebiet, in dem die Benutzung von
 Grundstücken auf Grund besonderer Anordnung der zuständigen
@@ -53,6 +55,7 @@ kann.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE000800315)
 
 (1) Ein Gebiet wird zum Schutzbereich durch Anordnung erklärt. Sie muß
 einen Plan über den Umfang des Schutzbereichs enthalten. Sie ist den
@@ -86,6 +89,7 @@ Beteiligten bekanntzugeben.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE000900315)
 
 (1) Wer innerhalb der Schutzbereiche
 
@@ -109,6 +113,7 @@ erforderlich ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001000315)
 
 (1) Soweit es zur Erreichung der Zwecke des Schutzbereichs
 erforderlich ist, kann auch die landwirtschaftliche Nutzung der
@@ -119,6 +124,7 @@ landwirtschaftliche Erzeugung Rücksicht genommen werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001100315)
 
 (1) Für die Grundstücke und Gewässer eines Schutzbereichs kann, soweit
 es zur Erreichung der Zwecke des Schutzbereichs dringend erforderlich
@@ -132,6 +138,7 @@ Darstellungen davon anzufertigen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001200315)
 
 (1) Soweit es zur Erreichung der Zwecke des Schutzbereichs
 erforderlich ist, haben die Eigentümer von Grundstücken innerhalb des
@@ -153,6 +160,7 @@ Unterbringung muß gesichert sein.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001300315)
 
 Bei den Maßnahmen, die nach diesem Gesetz zulässig sind, muß die
 Unterhaltung und der Betrieb der Verkehrs-, Nachrichten- und
@@ -164,16 +172,19 @@ Rücksicht zu nehmen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001400315)
 
 Wer ohne die Genehmigung nach § 3 handelt, muß auf Verlangen der
 zuständigen Behörde den ursprünglichen Zustand wiederherstellen.
 
 
 ## Zweiter Abschnitt - Schutzbereichbehörden
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNG000200315)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001501377)
 
 (1) Der Bundesminister für Verteidigung erklärt die Gebiete zu
 Schutzbereichen.
@@ -189,6 +200,7 @@ unteren Behörden der Bundeswehrverwaltung übertragen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001600315)
 
 Die Beauftragten der Schutzbereichbehörden sind befugt, Grundstücke zu
 betreten, die zum Schutzbereich gehören oder für die Erklärung zum
@@ -198,6 +210,7 @@ nicht erreicht werden kann.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001700315)
 
 Den Schutzbereichbehörden sind auf Verlangen vorhandene Unterlagen und
 Pläne zur Einsicht zu überlassen, die zur Vorbereitung der nach diesem
@@ -205,10 +218,12 @@ Gesetz zulässigen Maßnahmen nötig sind.
 
 
 ## Dritter Abschnitt - Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNG000300315)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001800315)
 
 (1) Entstehen durch die Einwirkungen nach diesem Gesetz dem Eigentümer
 oder einem anderen Berechtigten Vermögensnachteile, so ist dafür eine
@@ -230,6 +245,7 @@ Entschädigung des Eigentümers angewiesen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE001900315)
 
 (1) Eine Entschädigung nach § 12 wird nicht gezahlt, soweit einem
 Entschädigungsberechtigten infolge der Einwirkungen Vermögensvorteile
@@ -242,6 +258,7 @@ Gesetzbuchs sinngemäß.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002000315)
 
 (1) Wenn die Entschädigung für den Entzug oder die Beschränkung der
 Nutzung in einer wiederkehrenden Leistung besteht, ist sie in der
@@ -251,6 +268,7 @@ Regel vierteljährlich nachträglich zu zahlen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002100315)
 
 (1) Wird dem Eigentümer durch eine Einwirkung nach diesem Gesetz die
 wirtschaftliche Nutzung des Grundstücks nicht nur vorübergehend
@@ -267,6 +285,7 @@ Rechtes beantragen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002200315)
 
 (1) Zahlungspflichtig ist der Bund.
 
@@ -278,10 +297,12 @@ unbeschadet § 25 Abs. 4.
 
 
 ## Vierter Abschnitt - Festsetzung der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNG000400315)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002300315)
 
 Die Landesregierungen bestimmen die Behörden, die die Entschädigung
 auf Grund dieses Gesetzes festzusetzen haben (Festsetzungsbehörden),
@@ -289,6 +310,7 @@ und regeln ihre Zuständigkeiten.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002400315)
 
 (1) Vor der Festsetzung der Entschädigung hat die Festsetzungsbehörde
 eine gütliche Einigung zu versuchen.
@@ -304,6 +326,7 @@ ist.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002500315)
 
 (1) Kommt eine Einigung nicht zustande, so setzt die
 Festsetzungsbehörde die Höhe der Entschädigung fest, nachdem sie den
@@ -316,6 +339,7 @@ ist den Beteiligten zuzustellen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002600315)
 
 (1) Die Urkunde über die Einigung nach § 18 Abs. 3 ist nach Zustellung
 an die Beteiligten vollstreckbar. Der Festsetzungsbescheid nach § 19
@@ -336,6 +360,7 @@ Grundstück liegt, an die Stelle des Prozeßgerichts.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002701320)
 
 (1) Wird die Entschädigung auf Grund dieses Gesetzes nicht innerhalb
 eines Monats nach Einigung (§ 18) oder Festsetzung (§ 19), bei
@@ -355,6 +380,7 @@ genannten Zinsen von diesem Zeitpunkt an zu zahlen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002800315)
 
 (1) Das Verfahren vor den Verwaltungsbehörden ist kostenfrei. Dem
 Eigentümer oder einem anderen Berechtigten können jedoch Auslagen
@@ -368,6 +394,7 @@ sein Antrag als begründet erweist.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE002900315)
 
 (1) Nach diesem Gesetz begründete Zahlungsansprüche verjähren in vier
 Jahren. Die Verjährung beginnt mit dem Schluß des Jahres, in dem der
@@ -380,10 +407,12 @@ nach Artikel 8 Abs. 6 des Finanzvertrags bleiben unberührt.
 
 
 ## Fünfter Abschnitt - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNG000500315)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003000315)
 
 (1) Gegen den Festsetzungsbescheid steht den Beteiligten innerhalb
 zweier Wochen nach Zustellung das Rechtsmittel der Beschwerde zu.
@@ -395,6 +424,7 @@ Festsetzungsverfahren Beteiligten zuzustellen.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003100315)
 
 (1) Wegen der Festsetzung der Entschädigung kann ein Beteiligter
 innerhalb einer Frist von zwei Monaten nach Zustellung der
@@ -433,16 +463,19 @@ Wiedereinsetzung in den vorigen Stand Satz 1 entsprechend.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003200315)
 
 Für die Anfechtung der von den Schutzbereichbehörden erlassenen
 Verwaltungsakte gilt die Verwaltungsgerichtsordnung.
 
 
 ## Sechster Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNG000600315)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003301320)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -472,6 +505,7 @@ eine solche Ordnungswidrigkeit bezieht, können eingezogen werden.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003400315)
 
 (1) Sind Grundstücke von den Streitkräften des Vereinigten Königreichs
 von Großbritannien und Nordirland, der Vereinigten Staaten von Amerika
@@ -490,6 +524,7 @@ Uhr Anwendung.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003500315)
 
 (1) Bestehen Beschränkungen von Grundeigentum im Sinne dieses Gesetzes
 auf Grund
@@ -509,12 +544,14 @@ Gesetzes eine angemessene Abschlagszahlung geleistet ist.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003601310)
 
 Zustellungen durch die Verwaltungsbehörden werden nach dem
 Verwaltungszustellungsgesetz bewirkt.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003700315)
 
 Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, durch
 Rechtsverordnung eine von § 24 Abs. 1 und 2 abweichende Regelung zu
@@ -522,11 +559,13 @@ treffen.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003800315)
 
 -
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE003900315)
 
 Soweit durch die Vorschriften dieses Gesetzes das Grundrecht nach
 Artikel 13 des Grundgesetzes berührt wird, wird dieses Grundrecht
@@ -534,11 +573,13 @@ eingeschränkt.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE004000315)
 
 -
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/schberg/BJNR008990956.html#BJNR008990956BJNE004100315)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

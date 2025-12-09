@@ -23,6 +23,7 @@ Geändert durch
 Stand: Ersetzt V 806-21-7-27 v. 27.6.1984 I 847 (KStoffIndMeistPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3
@@ -36,6 +37,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum „Geprüften Industriemeister –
@@ -130,6 +132,7 @@ Fachrichtung Kunststoff und Kautschuk“.
 
 
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000300000)
 
 (1) Die Qualifikation zum „Geprüften Industriemeister – Fachrichtung
 Kunststoff und Kautschuk“ und zur „Geprüften Industriemeisterin –
@@ -176,6 +179,7 @@ Form eines situationsbezogenen Fachgesprächs nach § 5 zu prüfen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000400000)
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende
 Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
@@ -223,6 +227,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000501128)
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
 ist in folgenden Prüfungsbereichen zu prüfen:
@@ -441,6 +446,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000601128)
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst
 die folgenden Handlungsbereiche:
@@ -1140,6 +1146,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -1152,6 +1159,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -1182,6 +1190,7 @@ das arithmetische Mittel berechnet.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE001400128)
 
 (1) Die Prüfung ist insgesamt bestanden, wenn ohne Rundung in den
 folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht
@@ -1239,6 +1248,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE001500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -1264,6 +1274,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -1279,6 +1290,7 @@ Prüfung.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE001001128)
 
 Die bis zum Ablauf des 30. Juni 2014 begonnenen Prüfungsverfahren zum
 anerkannten Abschluss Geprüfter Industriemeister/Geprüfte
@@ -1293,6 +1305,7 @@ Anwendung.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE001101128)
 
 Diese Verordnung tritt am 1. Juli 2014 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -1304,6 +1317,7 @@ worden ist, außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE001201128)
 
 (Fundstelle: BGBl. I 2019, 2397 – 2398)
 
@@ -1605,6 +1619,7 @@ worden ist, außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/kstoffindmeistprv_2014/BJNR051500014.html#BJNR051500014BJNE001301128)
 
 (Fundstelle: BGBl. I 2019, 2398 – 2399)
 

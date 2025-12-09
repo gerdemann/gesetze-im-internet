@@ -21,6 +21,7 @@ Geändert nach maßgabe des art. 5 abs. 2 durch
 Stand: Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
 
 ## § 1 Nachhaftung
+[Direktlink](https://www.gesetze-im-internet.de/nachhg/BJNR012700017.html#BJNR012700017BJNE000101118)
 
 (1) Für sämtliche gegenwärtige und zukünftige öffentlich-rechtliche
 Zahlungsverpflichtungen eines Betreibers von im Inland gelegenen
@@ -92,6 +93,7 @@ als Gesamtschuldner.
 
 
 ## § 2 Beherrschung eines Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/nachhg/BJNR012700017.html#BJNR012700017BJNE000200000)
 
 (1) Herrschende Unternehmen im Sinne dieses Gesetzes sind Unternehmen,
 denen unmittelbar oder mittelbar mindestens die Hälfte der Anteile an
@@ -114,6 +116,7 @@ erlischt.
 
 
 ## § 3 Nachhaftung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/nachhg/BJNR012700017.html#BJNR012700017BJNE000300000)
 
 (1) Die Haftung nach § 1 erlischt nicht dadurch, dass die Eigenschaft
 als herrschendes Unternehmen nach dem 1. Juni 2016 endet.
@@ -143,6 +146,7 @@ Vermögensteils im Zeitpunkt der Übertragung beschränkt.
 
 
 ## § 4 Zeitliche Beschränkung der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/nachhg/BJNR012700017.html#BJNR012700017BJNE000400000)
 
 Die Haftung nach den §§ 1 und 3 endet mit Erlöschen der in § 1
 genannten Zahlungsverpflichtungen, spätestens aber zu dem Zeitpunkt,

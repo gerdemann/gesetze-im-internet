@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek/BJNR164600009.html#BJNR164600009BJNE000100000)
 
 Auf Grund der § 77 Absatz 4 sowie § 78 Absatz 2 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19.
@@ -45,11 +46,13 @@ Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160,
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek/BJNR164600009.html#BJNR164600009BJNE000200000)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1 Besoldungsordnung C
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek/BJNR164600009.html#BJNR164600009BJNE000300000)
 
 (Fundstelle: BGBl. I 2009, 1647)
 ## Grundgehaltssätze
@@ -361,6 +364,7 @@ Der Bundesminister des Innern
 [^f772095_01_BJNR164600009BJNE000300000]: 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek/BJNR164600009.html#BJNR164600009BJNE000400000)
 
 (Fundstelle: BGBl. I 2009, 1648 - 1653)
 (Anlage IV des BBesG)
@@ -2060,6 +2064,7 @@ Gültig ab 1. Juli 2009 für Postnachfolgeunternehmen
 [^f772471_02_BJNR164600009BJNE000400000]: 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek/BJNR164600009.html#BJNR164600009BJNE000500000)
 
 (Fundstelle: BGBl. I 2009, 1654)
 Gültig ab 1. Juli 2009 für Postnachfolgeunternehmen

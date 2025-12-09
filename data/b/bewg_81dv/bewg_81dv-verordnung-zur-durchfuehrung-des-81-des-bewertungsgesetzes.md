@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000100303)
 
 Auf Grund des § 81 und des § 123 Abs. 1 des Bewertungsgesetzes in der
 Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet
@@ -25,6 +26,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000200303)
 
 In den Fällen, in denen die Einheitswerte der bebauten Grundstücke im
 Ertragswertverfahren zu ermitteln und die Wertverhältnisse vom 1.
@@ -34,6 +36,7 @@ Grundsteuerbelastungen im Sinne des § 81 des Gesetzes nach Maßgabe der
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000300303)
 
 (1) Die Grundsteuerbelastung in jeder Gemeinde wird durch eine
 Belastungszahl ausgedrückt. Die Belastungszahl ergibt sich durch die
@@ -733,6 +736,7 @@ zu berücksichtigen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000400303)
 
 Bei den in einer Gemeinde belegenen bebauten Grundstücken, die im
 Ertragswertverfahren zu bewerten sind und nicht zu den in § 79 Abs. 3
@@ -777,6 +781,7 @@ Grundstückswert oder der Wert des entsprechenden Grundstücksteils
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000500303)
 
 Die Belastungszahl (§ 2) bestimmt auch die Grundsteuerbelastung des
 Wohnteils der Betriebe der Land- und Forstwirtschaft (§ 34 des
@@ -785,6 +790,7 @@ Wohnungswerts (§ 47 des Gesetzes) anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000600303)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8
@@ -793,6 +799,7 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bewg_81dv/BJNR005500966.html#BJNR005500966BJNE000700303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

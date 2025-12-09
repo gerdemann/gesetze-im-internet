@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Sitz und Kapital
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000100307)
 
 (1) Die GBB Genossenschafts-Holding Berlin (Holding) ist eine
 rechtsfähige Körperschaft des öffentlichen Rechts. Sie hat ihren Sitz
@@ -33,6 +34,7 @@ eingezahlt.
 
 
 ## § 2 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000200307)
 
 (1) Gegenstand der Holding ist der Erwerb und das Halten von
 Beteiligungen an der DG BANK Deutsche Genossenschaftsbank, an
@@ -50,12 +52,14 @@ zusammenhängenden Geschäfte zu betreiben.
 
 
 ## § 3 Organe
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000300307)
 
 Organe der Holding sind der Vorstand, der Verwaltungsrat und die
 Hauptversammlung.
 
 
 ## § 4 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000400307)
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die
 Vorstandsmitglieder werden vom Verwaltungsrat bestellt. Die jeweilige
@@ -69,6 +73,7 @@ widerrufen, wenn ein wichtiger Grund vorliegt.
 
 
 ## § 5 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000500307)
 
 (1) Dem Vorstand obliegt die Geschäftsführung der Holding nach Maßgabe
 der Gesetze, des Statuts und der Geschäftsordnung. Er ist dem
@@ -101,6 +106,7 @@ die der Zustimmung der Aufsichtsbehörde bedarf.
 
 
 ## § 6 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000600307)
 
 (1) Der Vorstand vertritt die Holding gerichtlich und
 außergerichtlich.
@@ -114,6 +120,7 @@ Vorstandsmitglied.
 
 
 ## § 7 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000704377)
 
 (1) Der Verwaltungsrat besteht aus mindestens drei Personen. Ihm
 gehören an:
@@ -149,6 +156,7 @@ bedarf der Zustimmung der Aufsichtsbehörde.
 
 
 ## § 8 Aufgaben und Befugnisse des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000800307)
 
 (1) Dem Verwaltungsrat obliegt die laufende Überwachung der
 Geschäftsführung der Holding. Er kann sich die Zustimmung zu dem
@@ -233,6 +241,7 @@ abhängig machen.
 
 
 ## § 9 Beschlüsse und Sitzungen des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE000900307)
 
 (1) Der Verwaltungsrat soll in der Regel einmal im
 Kalendervierteljahr, er muß einmal im Kalenderhalbjahr einberufen
@@ -282,6 +291,7 @@ dessen Stellvertreter zu unterzeichnen.
 
 
 ## § 10 Aufwandsentschädigung für den Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001000307)
 
 Die Verwaltungsratsmitglieder erhalten den Ersatz der bei der Ausübung
 ihrer Tätigkeit erwachsenden baren Auslagen und der Auslagen, die
@@ -291,6 +301,7 @@ eventuelle Vergütung.
 
 
 ## § 11 Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001100307)
 
 (1) Die Hauptversammlung ist die Vertretung der Anteilseigner der
 Holding.
@@ -304,6 +315,7 @@ vertreten.
 
 
 ## § 12 Befugnisse der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001200307)
 
 Die Hauptversammlung beschließt über:
 
@@ -343,6 +355,7 @@ Die Hauptversammlung beschließt über:
 
 
 ## § 13 Sitzungen und Beschlüsse der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001300307)
 
 (1) Die ordentliche Hauptversammlung findet einmal jährlich in den
 ersten sieben Monaten des Jahres statt. Eine außerordentliche
@@ -382,6 +395,7 @@ Hauptversammlung teilnehmen.
 
 
 ## § 14 Jahresabschluß und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001400307)
 
 (1) Der Vorstand hat den Jahresabschluß und den Lagebericht für das
 vergangene Geschäftsjahr in den ersten drei Monaten eines jeden
@@ -397,17 +411,20 @@ des Jahresüberschusses dem Verwaltungsrat vorzulegen.
 
 
 ## § 15 Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001500307)
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
 
 ## § 16 Verwendung des Jahresüberschusses
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001600307)
 
 Soweit die Hauptversammlung nicht etwas anderes beschließt, ist der
 Jahresüberschuß an die Anteilseigner auszuschütten.
 
 
 ## § 17 Staatsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001701377)
 
 Die Holding untersteht der Aufsicht der Bundesrepublik Deutschland;
 die Aufsicht wird durch das Bundesministerium der Finanzen ausgeübt.
@@ -418,6 +435,7 @@ halten.
 
 
 ## § 18 Prüfungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001800307)
 
 Den zuständigen Stellen der Bundesrepublik Deutschland stehen die in §
 55 Abs. 2 des Haushaltsgrundsätzegesetzes und in § 112 Abs. 2 der
@@ -425,6 +443,7 @@ Bundeshaushaltsordnung aufgeführten Rechte zu.
 
 
 ## § 19 Übergangs- und Schlußbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndvanl/BJNR021240991.html#BJNR021240991BJNE001900307)
 
 Die Holding, vormals Genossenschaftsbank Berlin, ist
 Rechtsnachfolgerin der Bank für Landwirtschaft und

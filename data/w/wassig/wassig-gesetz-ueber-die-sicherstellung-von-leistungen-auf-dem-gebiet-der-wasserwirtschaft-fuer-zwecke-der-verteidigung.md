@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE000600304)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE000700304)
 
 (1) Um zur Versorgung oder zum Schutz der Zivilbevölkerung und der
 Streitkräfte
@@ -72,10 +74,12 @@ der Zivilbevölkerung (Schutzbaugesetz) vom 9. September 1965
 
 
 ## Erster Teil - Vorsorgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNG000100304)
 
 
 
 ### § 2 Verpflichtung zu Maßnahmen der Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE000800304)
 
 (1) Für Zwecke des § 1 können verpflichtet werden
 
@@ -140,6 +144,7 @@ Maßnahme verpflichtet werden.
 
 
 ### § 3 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE000900304)
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates nähere Vorschriften erlassen über
@@ -160,6 +165,7 @@ Bundesrates nähere Vorschriften erlassen über
 
 
 ### § 4 Planung der Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001000304)
 
 (1) Die Landkreise und die kreisfreien Städte planen die Maßnahmen der
 Vorsorge (§ 2 Abs. 1), die zur Erfüllung der in § 1 Abs. 1 genannten
@@ -185,6 +191,7 @@ vorzulegen ist, und prüft den Plan.
 
 
 ### § 5 Entscheidung über die Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001100304)
 
 (1) Die zuständige Behörde bestimmt Art und Umfang der
 Leistungspflicht sowie den Leistungspflichtigen durch
@@ -207,6 +214,7 @@ Beschreibungen, einreichen.
 
 
 ### § 6 Inhalt des Verpflichtungsbescheides
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001200304)
 
 (1) Der Verpflichtungsbescheid hat zu enthalten
 
@@ -230,6 +238,7 @@ zuzustellen.
 
 
 ### § 7 Zusatzplanung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001300304)
 
 (1) Ist infolge einer wesentlichen Änderung der Voraussetzungen, auf
 denen die Planung nach § 4 beruht, für Zwecke des § 1 die Änderung
@@ -243,6 +252,7 @@ entsprechend.
 
 
 ### § 8 Verwendung der Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001400304)
 
 Die auf Grund des Verpflichtungsbescheides gebauten Anlagen dürfen nur
 mit Zustimmung der zuständigen Behörde zu anderen als den in § 1
@@ -254,6 +264,7 @@ Bewilligung, bleiben unberührt.
 
 
 ### § 9 Instandhaltung und Änderung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001500304)
 
 (1) Der Leistungspflichtige hat die Anlagen, zu deren Bau, Umbau oder
 Erhaltung der Verpflichtungsbescheid verpflichtet, ordnungsgemäß zu
@@ -272,6 +283,7 @@ bleiben unberührt.
 
 
 ### § 10 Aufwendungsersatz an Leistungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001600304)
 
 (1) Der Leistungspflichtige erhält Ersatz der Aufwendungen für die
 Durchführung von Maßnahmen, zu denen er nach dem
@@ -294,6 +306,7 @@ einen angemessenen Betrag zurückzuerstatten.
 
 
 ### § 11 Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001700304)
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
@@ -332,6 +345,7 @@ Bundes.
 
 
 ### § 12 Vorratshaltung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001800304)
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
@@ -355,10 +369,12 @@ Bundes.
 
 
 ## Zweiter Teil - Vorschriften für den Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNG000200304)
 
 
 
 ### § 13 Rechtsverordnungen über Maßnahmen im Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE001901119)
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
@@ -398,6 +414,7 @@ Kraft.
 
 
 ### § 14 Benutzung der Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002000304)
 
 Die Benutzung der Gewässer mittels Anlagen und Einrichtungen, auf die
 sich der Verpflichtungsbescheid bezieht, bedarf keiner Erlaubnis oder
@@ -406,6 +423,7 @@ im Verteidigungsfall für Zwecke des § 1 erforderlich ist.
 
 
 ### § 15 Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002100304)
 
 Die Eigentümer und Besitzer von Grundstücken und die Inhaber sonstiger
 Rechte an Grundstücken sowie die Inhaber von Rechten und Befugnissen
@@ -417,10 +435,12 @@ der Verteidigung der Vorrang gebührt.
 
 
 ## Dritter Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNG000300304)
 
 
 
 ### § 16 Ausführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002201119)
 
 (1) Dieses Gesetz und die auf Grund dieses Gesetzes ergangenen
 Rechtsverordnungen werden von den Ländern einschließlich der Gemeinden
@@ -440,6 +460,7 @@ Gemeindeverbandes.
 
 
 ### § 17 Vorbereitung des Vollzugs
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002300304)
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 personellen, organisatorischen und materiellen Voraussetzungen zur
@@ -448,6 +469,7 @@ bezeichneten Zwecke erforderlich sind.
 
 
 ### § 18 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002400304)
 
 (1) Zur Durchführung dieses Gesetzes haben alle natürlichen und
 juristischen Personen und nichtrechtsfähigen Personenvereinigungen der
@@ -482,6 +504,7 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 
 
 ### § 19 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002500304)
 
 (1) Stellt eine Maßnahme auf Grund dieses Gesetzes oder einer nach
 diesem Gesetz erlassenen Rechtsverordnung eine Enteignung dar, ist
@@ -510,6 +533,7 @@ dieses Gesetzes.
 
 
 ### § 20 Enteignung auf Verlangen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002600304)
 
 (1) Ist die Gemeinde auf Grund des § 2 Abs. 2 zur Durchführung von
 Maßnahmen nach § 2 Abs. 1 Nr. 1 und 2 verpflichtet und wird dem
@@ -530,6 +554,7 @@ Behörde.
 
 
 ### § 21 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002700304)
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach
 diesem Gesetz erlassenen Rechtsverordnung oder durch eine
@@ -544,6 +569,7 @@ oder zum Ausgleich unbilliger Härten geboten erscheint.
 
 
 ### § 22 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002801377)
 
 Für die Zustellungen durch die Verwaltungsbehörde gelten die
 Vorschriften des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
@@ -559,11 +585,13 @@ Zustellung mit dem auf die Bekanntgabe folgenden Tage als bewirkt.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE002901309)
 
 -
 
 
 ### § 24 Kosten der Auftragsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003001119)
 
 Der Bund trägt die Kosten, die den Ländern, Gemeinden und
 Gemeindeverbänden durch den Vollzug dieses Gesetzes, der auf Grund
@@ -574,6 +602,7 @@ Verwaltungskosten werden nicht übernommen.
 
 
 ### § 25 Haushaltsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003100304)
 
 (1) Die Ausgaben für die nach diesem Gesetz vom Bund zu tragenden
 Kosten sind von der zuständigen Behörde für Rechnung des Bundes zu
@@ -591,6 +620,7 @@ Gemeindebehörden angewendet werden.
 
 
 ### § 26 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003201308)
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes ist die zuständige
 oberste Landesbehörde oder die nach Landesrecht bestimmte Behörde. In
@@ -610,15 +640,18 @@ bestimmen.
 
 
 ## Vierter Teil - Straf- und Bußgeldbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNG000400304)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003300304)
 
 -
 
 
 ### § 28 Zuwiderhandlung gegen Sicherstellungsmaßnahmen im Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003400304)
 
 Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund
 des § 13 erlassenen Rechtsverordnung oder gegen eine auf Grund einer
@@ -629,6 +662,7 @@ diese Vorschrift verweist.
 
 
 ### § 29 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003501377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -660,14 +694,17 @@ Euro geahndet werden.
 
 
 ### (XXXX) §§ 30 bis 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003600304)
 
 
 
 ## Fünfter Teil - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNG000500304)
 
 
 
 ### § 33 Anlagen des Bundes und der verbündeten Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003703119)
 
 Die Vorschriften dieses Gesetzes gelten nicht
 
@@ -691,11 +728,13 @@ erforderlichen Maßnahmen.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003800304)
 
 -
 
 
 ### § 35 Stadtstaaten-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE003900304)
 
 Die Senate der Länder Bremen und Hamburg werden ermächtigt, die
 Vorschriften dieses Gesetzes über die Zuständigkeit von Behörden dem
@@ -705,17 +744,20 @@ dieses Gesetzes wahrzunehmen haben.
 
 
 ### § 36 Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE004000304)
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE004100304)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wassig/BJNR012250965.html#BJNR012250965BJNE004200304)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.

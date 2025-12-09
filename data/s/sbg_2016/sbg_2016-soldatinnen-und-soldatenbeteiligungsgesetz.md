@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 51-3 v. 16.1.1991 I 47 (SBG)
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000100000)
 
 
 ### § 1 Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000200000)
 
 (1) Soldatinnen und Soldaten werden durch Vertrauenspersonen, Gremien
 der Vertrauenspersonen oder Personalvertretungen vertreten.
@@ -40,6 +42,7 @@ Vertrauenspersonen gewählt werden.
 
 
 ### § 2 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000302377)
 
 (1) Für die Zusammenarbeit der Vorgesetzten und Vertrauenspersonen mit
 den in der Dienststelle vertretenen Gewerkschaften der Soldatinnen und
@@ -60,12 +63,15 @@ Soldatengesetzes.
 
 
 ## Kapitel 2 - Beteiligung der Soldatinnen und Soldaten durch Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000200000)
 
 
 ### Abschnitt 1 - Wahl der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000300000)
 
 
 #### § 3 Wahlrechtsgrundsätze und allgemeine Vorschriften für die Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000400000)
 
 (1) Die Vertrauensperson und die stellvertretenden Vertrauenspersonen
 werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer
@@ -94,6 +100,7 @@ von Vorteilen oder durch Androhung von Nachteilen beeinflusst werden.
 
 
 #### § 4 Wählergruppen und Wahlbereiche
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000501377)
 
 (1) Offiziere, Unteroffiziere und Mannschaften bilden jeweils eine
 Wählergruppe. Jede Wählergruppe, die mindestens fünf Soldatinnen oder
@@ -175,6 +182,7 @@ Nummer 3, welcher der Einheit unmittelbar übergeordnet ist.
 
 
 #### § 5 Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000600000)
 
 (1) Wahlberechtigt sind
 
@@ -198,6 +206,7 @@ für die Geschäftsführung eines Gremiums der Vertrauenspersonen.
 
 
 #### § 6 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000700000)
 
 (1) Wählbar sind alle Wahlberechtigten nach § 5.
 
@@ -229,6 +238,7 @@ für die Geschäftsführung eines Gremiums der Vertrauenspersonen.
 
 
 #### § 7 Anfechtung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000800000)
 
 (1) Die Wahl kann angefochten werden, wenn gegen wesentliche
 Vorschriften über die Wahlberechtigung, die Wählbarkeit oder das
@@ -253,9 +263,11 @@ aussetzen.
 
 
 ### Abschnitt 2 - Geschäftsführung und Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000400000)
 
 
 #### § 8 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE000902377)
 
 (1) Das Amt der Vertrauensperson ist ein Ehrenamt.
 
@@ -302,6 +314,7 @@ des Bundespersonalvertretungsgesetzes gilt entsprechend.
 
 
 #### § 9 Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001001377)
 
 (1) Die Vertrauensperson und die als Vertrauensperson eingetretenen
 stellvertretenden Vertrauenspersonen werden durch die nächste
@@ -323,6 +336,7 @@ gewesen sind.
 
 
 #### § 10 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001101377)
 
 (1) Die Amtszeit der Vertrauensperson beträgt vier Jahre. Sie beginnt
 mit dem Tag der Wahl oder, wenn zu diesem Zeitpunkt noch eine
@@ -359,6 +373,7 @@ jedoch höchstens um drei Monate.
 
 
 #### § 11 Niederlegung des Amtes
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001200000)
 
 Die Vertrauensperson kann durch schriftliche Erklärung gegenüber der
 oder dem Disziplinarvorgesetzten ihr Amt niederlegen. Diese oder
@@ -366,6 +381,7 @@ dieser gibt die Niederlegung des Amtes dienstlich bekannt.
 
 
 #### § 12 Abberufung der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001300000)
 
 (1) Die Vertrauensperson kann abberufen werden wegen
 
@@ -402,6 +418,7 @@ unter entsprechender Anwendung der Wehrbeschwerdeordnung.
 
 
 #### § 13 Ruhen des Amtes
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001400000)
 
 (1) Das Amt der Vertrauensperson ruht, solange ihr die Ausübung des
 Dienstes verboten oder sie vorläufig des Dienstes enthoben ist. Auf
@@ -414,6 +431,7 @@ noch nicht unanfechtbar entschieden worden ist.
 
 
 #### § 14 Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001501377)
 
 (1) Ruht das Amt der Vertrauensperson oder endet es vorzeitig, so
 tritt die mit der höchsten Stimmenzahl gewählte stellvertretende
@@ -438,6 +456,7 @@ einer der stellvertretenden Vertrauenspersonen entfällt.
 
 
 #### § 15 Schutz der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001600000)
 
 (1) Die Vertrauensperson darf in der Ausübung ihrer Befugnisse nicht
 behindert und wegen ihrer Tätigkeit nicht benachteiligt oder
@@ -453,6 +472,7 @@ nächsten Disziplinarvorgesetzten über.
 
 
 #### § 16 Versetzung der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001700000)
 
 (1) Die Vertrauensperson darf während der Dauer ihres Amtes gegen
 ihren Willen nur versetzt oder für mehr als drei Monate kommandiert
@@ -466,6 +486,7 @@ für die Dauer der ersten vollen Amtszeit.
 
 
 #### § 17 Beschwerderecht der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001800000)
 
 Die Vertrauensperson kann sich entsprechend § 1 Absatz 1 der
 Wehrbeschwerdeordnung beschweren, wenn sie glaubt, in der Ausübung
@@ -474,6 +495,7 @@ werden.
 
 
 #### § 18 Beschwerden gegen die Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE001900000)
 
 Über Beschwerden nach der Wehrbeschwerdeordnung gegen die
 Vertrauensperson oder die nach § 14 als Vertrauensperson eingetretene
@@ -482,9 +504,11 @@ Disziplinarvorgesetzte oder nächsthöherer Disziplinarvorgesetzter.
 
 
 ### Abschnitt 3 - Beteiligung der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000500000)
 
 
 #### § 19 Aufgaben der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002000000)
 
 (1) Die Vertrauensperson soll zur verantwortungsvollen Zusammenarbeit
 zwischen Vorgesetzten und Untergebenen sowie zur Festigung des
@@ -525,6 +549,7 @@ Streitkräfte mit dem Ziel der Verständigung eng zusammen.
 
 
 #### § 20 Pflichten der Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002100000)
 
 (1) Die oder der Disziplinarvorgesetzte hat die Vertrauensperson bei
 der Erfüllung ihrer Aufgaben zu unterstützen. Sie oder er unterrichtet
@@ -565,6 +590,7 @@ Aufgaben erforderlich sind.
 
 
 #### § 21 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002200000)
 
 Ist die Vertrauensperson zu beabsichtigten Maßnahmen anzuhören, ist
 sie über diese rechtzeitig und umfassend zu unterrichten. Die oder der
@@ -574,6 +600,7 @@ erörtern.
 
 
 #### § 22 Vorschlagsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002300000)
 
 (1) Sofern der Vertrauensperson ein Vorschlagsrecht zusteht, hat die
 oder der Disziplinarvorgesetzte die Vorschläge rechtzeitig mit ihr zu
@@ -610,6 +637,7 @@ Maßnahmen.
 
 
 #### § 23 Mitbestimmung, Schlichtungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002404311)
 
 (1) Unterliegt eine Maßnahme der Mitbestimmung der Vertrauensperson,
 ist sie rechtzeitig durch die Vorgesetzte oder den Vorgesetzten, die
@@ -689,6 +717,7 @@ und unverzüglich das Verfahren nach Absatz 2 einzuleiten.
 
 
 #### § 24 Personalangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002500000)
 
 (1) Die oder der nächste Disziplinarvorgesetzte soll die
 Vertrauensperson bei folgenden Maßnahmen oder deren Ablehnung anhören,
@@ -764,6 +793,7 @@ zu nehmen ist.
 
 
 #### § 25 Dienstbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002600000)
 
 (1) Die oder der nächste Disziplinarvorgesetzte hat die
 Vertrauensperson anzuhören
@@ -869,6 +899,7 @@ Gremium der Vertrauenspersonen beteiligt wurde.
 
 
 #### § 26 Betreuung und Fürsorge
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002701377)
 
 (1) Die oder der Disziplinarvorgesetzte beruft eine Vertrauensperson,
 die die zuständige Versammlung der Vertrauenspersonen nach § 33
@@ -916,6 +947,7 @@ Vertrauensperson anzuhören. Sie kann auch Vorschläge machen.
 
 
 #### § 27 Berufsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002802377)
 
 (1) Bei Ermessensentscheidungen der oder des Disziplinarvorgesetzten
 über Maßnahmen der Berufsförderung bestimmt die Vertrauensperson auf
@@ -928,6 +960,7 @@ berufsfördernde und berufsbildende Maßnahmen.
 
 
 #### § 28 Ahndung von Dienstvergehen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE002902377)
 
 (1) Wollen Disziplinarvorgesetzte Disziplinarmaßnahmen verhängen, so
 haben sie die Vertrauensperson vor der Entscheidung zur Person der
@@ -951,6 +984,7 @@ Disziplinarverfahren nicht anzuwenden.
 
 
 #### § 29 Förmliche Anerkennungen, Bestpreise
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003000000)
 
 (1) Die Vertrauensperson hat das Recht, Soldatinnen und Soldaten ihrer
 Wählergruppe für eine förmliche Anerkennung gemäß § 11 Absatz 1 der
@@ -965,6 +999,7 @@ Wehrdisziplinarordnung ist die Vertrauensperson anzuhören.
 
 
 #### § 30 Auszeichnungen und Vergabe leistungsbezogener Elemente der Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003100000)
 
 (1) Die Vertrauensperson soll angehört werden, wenn Soldatinnen oder
 Soldaten ihrer Wählergruppe für die Verleihung des Ehrenzeichens der
@@ -979,6 +1014,7 @@ Soldaten.
 
 
 #### § 31 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003201377)
 
 (1) Die Vertrauensperson der Beschwerdeführerin oder des
 Beschwerdeführers soll angehört werden, wenn eine Beschwerde nach den
@@ -1014,6 +1050,7 @@ Beschwerdeführerin oder des Beschwerdeführers, angehört.
 
 
 #### § 32 Vermittlung durch die Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003300000)
 
 (1) Die Vertrauensperson kann im Verfahren nach der
 Wehrbeschwerdeordnung von der Beschwerdeführerin oder vom
@@ -1025,12 +1062,15 @@ das Anhörungsverfahren nach § 31 Absatz 2 Satz 1 als verhindert.
 
 
 ## Kapitel 3 - Gremien der Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000600000)
 
 
 ### Abschnitt 1 - Versammlungen der Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000700000)
 
 
 #### § 33 Versammlungen der Vertrauenspersonen des Verbands, des Kasernenbereichs und des Standorts
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003400000)
 
 (1) Die Vertrauenspersonen eines Verbands oder einer vergleichbaren
 militärischen Dienststelle bilden die Versammlung der
@@ -1086,6 +1126,7 @@ beteiligt nach den §§ 19, 21 bis 23, 25 und 26.
 
 
 #### § 34 Versammlungen der Vertrauenspersonen der Großverbände
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003501377)
 
 (1) Bei Brigaden oder diesen vergleichbaren militärischen
 Dienststellen werden Versammlungen der Vertrauenspersonen gebildet.
@@ -1110,6 +1151,7 @@ zusammentreten.
 
 
 #### § 35 Sprecherin, Sprecher
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003602311)
 
 (1) Die Mitglieder der Versammlungen der Vertrauenspersonen wählen in
 gesonderten Wahlgängen einen Vorstand. Der Vorstand besteht aus einer
@@ -1143,6 +1185,7 @@ oder der Führer des jeweiligen Großverbands antragsberechtigt ist.
 
 
 #### § 36 Sitzungen, Beschlussfähigkeit, Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003702377)
 
 (1) Die Versammlungen der Vertrauenspersonen treten einmal im
 Kalendervierteljahr zusammen. Auf Anregung der in § 33 Absatz 6
@@ -1210,9 +1253,11 @@ mittels Video- oder Telefonkonferenz unberührt.
 
 
 ### Abschnitt 2 - Vertrauenspersonenausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000800000)
 
 
 #### § 37 Bildung von Vertrauenspersonenausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003801311)
 
 (1) Vertrauenspersonenausschüsse sind
 
@@ -1231,6 +1276,7 @@ nachfolgend nichts anderes bestimmt ist.
 
 
 #### § 38 Gesamtvertrauenspersonenausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE003902311)
 
 (1) Beim Bundesministerium der Verteidigung wird ein
 Gesamtvertrauenspersonenausschuss mit 35 Mitgliedern gebildet. In ihm
@@ -1279,6 +1325,7 @@ entscheidet.
 
 
 #### § 39 Vertrauenspersonenausschüsse bei den unmittelbar dem Bundesministerium der Verteidigung nachgeordneten Kommandos
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004003311)
 
 (1) Bei den unmittelbar dem Bundesministerium der Verteidigung
 nachgeordneten Kommandos werden Vertrauenspersonenausschüsse gebildet,
@@ -1317,6 +1364,7 @@ Grundlage der Empfehlung endgültig entscheidet.
 
 
 #### § 40 Wahl des Gesamtvertrauenspersonenausschusses
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004101311)
 
 (1) Die Mitglieder des Gesamtvertrauenspersonenausschusses werden in
 allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl
@@ -1344,6 +1392,7 @@ Kommandobereich im Sinne des § 39 Absatz 1 soll vertreten sein.
 
 
 #### § 41 Wahl der Vertrauenspersonenausschüsse bei den unmittelbar dem Bundesministerium der Verteidigung nachgeordneten Kommandos
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004201311)
 
 (1) Die Mitglieder der Vertrauenspersonenausschüsse im Sinne des § 39
 Absatz 1 werden in allgemeiner, unmittelbarer, freier, gleicher und
@@ -1374,6 +1423,7 @@ berufen. Jede Laufbahngruppe soll vertreten sein.
 
 
 #### § 42 Amtszeit, Rechtsstellung der Mitglieder der Vertrauenspersonenausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004301311)
 
 (1) Die Amtszeit der Mitglieder der Vertrauenspersonenausschüsse
 beginnt entsprechend § 10 Absatz 1 Satz 2 und beträgt vier Jahre.
@@ -1472,6 +1522,7 @@ Wehrbeschwerdeordnung eingelegt werden.
 
 
 #### § 43 Pflichten der Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004402377)
 
 (1) Die Dienststellen unterrichten den bei ihnen gebildeten
 Vertrauenspersonenausschuss rechtzeitig und umfassend über die
@@ -1510,6 +1561,7 @@ Aufgabenerfüllung erforderlich ist.
 
 
 #### § 44 Nachrücken, Ersatzmitglied
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004501311)
 
 (1) Scheidet ein Mitglied aus, rückt an dessen Stelle die Bewerberin
 oder der Bewerber aus derselben Laufbahngruppe mit der
@@ -1549,6 +1601,7 @@ Laufbahngruppe wie das ausgeschiedene Mitglied angehören.
 
 
 #### § 45 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004601311)
 
 (1) In der ersten Sitzung wählen unter Leitung der oder des
 Vorsitzenden des Zentralen Wahlvorstands der
@@ -1590,6 +1643,7 @@ die er mit der Mehrheit seiner Mitglieder beschließt.
 
 
 #### § 46 Einberufung von Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004701377)
 
 (1) Die Vertrauenspersonenausschüsse sollen in der Regel monatlich
 zusammentreten. Die Sprecherinnen oder Sprecher legen den Zeitpunkt
@@ -1605,6 +1659,7 @@ bei der Terminierung zu berücksichtigen.
 
 
 #### § 47 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004801311)
 
 (1) Die Sitzungen der Vertrauenspersonenausschüsse sind nicht
 öffentlich.
@@ -1626,6 +1681,7 @@ entsprechend.
 
 
 #### § 48 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE004901311)
 
 (1) Ein Vertrauenspersonenausschuss ist beschlussfähig, wenn
 mindestens die Hälfte seiner Mitglieder anwesend ist.
@@ -1641,6 +1697,7 @@ vertreten ist.
 
 
 #### § 49 Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005000000)
 
 (1) Über jede Sitzung der Vertrauenspersonenausschüsse ist ein
 Protokoll zu fertigen. § 36 Absatz 4 gilt entsprechend.
@@ -1652,6 +1709,7 @@ schriftlich zu erheben und diesem beizufügen.
 
 
 #### § 50 Kosten, Geschäftsbedarf, Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005100000)
 
 (1) Die Dienststellen haben die Kosten zu tragen, die den
 Vertrauenspersonenausschüssen aus deren Tätigkeit entstehen.
@@ -1670,6 +1728,7 @@ unverzüglich nach ihrer Wahl zu veranlassen.
 
 
 #### § 51 Beteiligung bei Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005201311)
 
 Sofern eine Angelegenheit, an der der
 Gesamtvertrauenspersonenausschuss zu beteiligen ist, als
@@ -1684,6 +1743,7 @@ kommenden Geheimhaltungsgrades zu erhalten.
 
 
 #### § 52 Anfechtung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005302311)
 
 (1) Fünf Wahlberechtigte oder das Bundesministerium der Verteidigung
 können die Wahl zum Gesamtvertrauenspersonenausschuss innerhalb von
@@ -1716,9 +1776,11 @@ wurde.
 
 
 ## Kapitel 4 - Beteiligung in besonderen Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG000900000)
 
 
 ### § 53 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005400000)
 
 Die Ausübung von Beteiligungsrechten in besonderen Verwendungen im
 Ausland erfolgt unter Beachtung des Vorrangs der Auftragserfüllung der
@@ -1727,6 +1789,7 @@ Soldatinnen und Soldaten nach Maßgabe dieses Gesetzes.
 
 
 ### § 54 Wählergruppen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005500000)
 
 Für die Dauer einer besonderen Verwendung im Ausland werden von den
 teilnehmenden Soldatinnen und Soldaten im vereinfachten Wahlverfahren
@@ -1737,6 +1800,7 @@ Marine.
 
 
 ### § 55 Wahlberechtigung und Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005600000)
 
 Soldatinnen und Soldaten, die an einer besonderen Verwendung im
 Ausland teilnehmen, sind abweichend von § 5 vom Tag ihrer
@@ -1745,6 +1809,7 @@ Stammtruppenteil wahlberechtigt und wählbar.
 
 
 ### § 56 Personalangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005700000)
 
 Die Vertrauensperson soll durch die nächste Disziplinarvorgesetzte
 oder den nächsten Disziplinarvorgesetzten bei der vorzeitigen
@@ -1754,6 +1819,7 @@ angehört werden.
 
 
 ### § 57 Dienstbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005800000)
 
 Eine Beteiligung nach § 25 Absatz 1, 2 Satz 1 Nummer 1 bis 5 und
 Absatz 3 Satz 1 Nummer 1 unterbleibt bei Anordnungen, durch die
@@ -1762,6 +1828,7 @@ geregelt werden.
 
 
 ### § 58 Versammlungen der Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE005900000)
 
 In besonderen Verwendungen im Ausland werden Versammlungen der
 Vertrauenspersonen nach § 33 gebildet. Einsatzliegenschaften stellen
@@ -1769,9 +1836,11 @@ einen Kasernenbereich dar.
 
 
 ## Kapitel 5 - Beteiligung der Soldatinnen und Soldaten durch Personalvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG001000000)
 
 
 ### § 59 Entsprechende Geltung des Bundespersonalvertretungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006000000)
 
 Für Soldatinnen und Soldaten gilt das Bundespersonalvertretungsgesetz
 nach Maßgabe der §§ 60 bis 62 entsprechend. Insoweit werden die
@@ -1779,6 +1848,7 @@ Streitkräfte der Verwaltung gleichgestellt.
 
 
 ### § 60 Personalvertretung der Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006102377)
 
 (1) In anderen als den in § 4 Absatz 1 genannten Dienststellen und
 Einrichtungen wählen Soldatinnen und Soldaten Personalvertretungen.
@@ -1834,6 +1904,7 @@ Personalrat des Stabes, sofern
 
 
 ### § 61 Dienststellen ohne Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006201377)
 
 In Dienststellen und Einrichtungen der Bundeswehr, in denen für die
 Beschäftigten im Sinne des § 4 des Bundespersonalvertretungsgesetzes
@@ -1844,6 +1915,7 @@ Vertrauenspersonen nach § 4.
 
 
 ### § 62 Wahl und Rechtsstellung der Soldatenvertreterinnen und Soldatenvertreter
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006301377)
 
 (1) Für die Wahl der Soldatenvertreterinnen und Soldatenvertreter in
 Personalvertretungen nach § 60 gelten die §§ 19 und 20 des
@@ -1880,6 +1952,7 @@ Absatz 3 Nummer 2 ist nicht anzuwenden.
 
 
 ### § 63 Angelegenheiten der Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006402311)
 
 (1) In Angelegenheiten, die nur die Soldatinnen und Soldaten
 betreffen, haben die Soldatenvertreterinnen und Soldatenvertreter die
@@ -1937,9 +2010,11 @@ Bundespersonalvertretungsgesetzes finden entsprechend Anwendung.
 
 
 ## Kapitel 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNG001100000)
 
 
 ### § 64 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006501377)
 
 (1) Das Bundesministerium der Verteidigung wird ermächtigt, durch
 Rechtsverordnung Vorschriften über die Wahlen nach diesem Gesetz zu
@@ -1975,6 +2050,7 @@ Bezirkspersonalräte gebildet werden.
 
 
 ### § 65 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbg_2016/BJNR206510016.html#BJNR206510016BJNE006603311)
 
 (1) Vertrauenspersonen, Sprecherinnen und Sprecher von Versammlungen,
 Mitglieder des Gesamtvertrauenspersonenausschusses und

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruchsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000202310)
 
 Unbeschränkt Steuerpflichtige im Sinne des Einkommensteuergesetzes
 haben Anspruch auf eine Eigenheimzulage nach Maßgabe der folgenden
@@ -30,6 +31,7 @@ Vorschriften.
 
 
 ## § 2 Begünstigtes Objekt
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000303310)
 
 Begünstigt ist die Herstellung oder Anschaffung einer Wohnung in einem
 im Inland belegenen eigenen Haus oder einer im Inland belegenen
@@ -45,6 +47,7 @@ Einkommensteuergesetzes vorliegen.
 
 
 ## § 3 Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000402310)
 
 Der Anspruchsberechtigte kann die Eigenheimzulage im Jahr der
 Fertigstellung oder Anschaffung und in den sieben folgenden Jahren
@@ -52,6 +55,7 @@ Fertigstellung oder Anschaffung und in den sieben folgenden Jahren
 
 
 ## § 4 Nutzung zu eigenen Wohnzwecken
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000502310)
 
 Der Anspruch besteht nur für Kalenderjahre, in denen der
 Anspruchsberechtigte die Wohnung zu eigenen Wohnzwecken nutzt. Eine
@@ -61,6 +65,7 @@ Abgabenordnung zu Wohnzwecken überlassen wird.
 
 
 ## § 5 Einkunftsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000605310)
 
 Der Anspruchsberechtigte kann die Eigenheimzulage ab dem Jahr in
 Anspruch nehmen (Erstjahr), in dem die Summe der positiven Einkünfte
@@ -80,6 +85,7 @@ Euro für jeden Anspruchsberechtigten.
 
 
 ## § 6 Objektbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000704310)
 
 (1) Der Anspruchsberechtigte kann die Eigenheimzulage nur für eine
 Wohnung oder einen Ausbau oder eine Erweiterung (Objekt) in Anspruch
@@ -119,6 +125,7 @@ selbstgenutzte Wohneigentum in einem anderen Staat gleich.
 
 
 ## § 7 Folgeobjekt
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000803310)
 
 Nutzt der Anspruchsberechtigte die Wohnung (Erstobjekt) nicht bis zum
 Ablauf des Förderzeitraums zu eigenen Wohnzwecken und kann er deshalb
@@ -139,6 +146,7 @@ des Satzes 1 steht ein Erstobjekt im Sinne des § 7b Abs. 5 Satz 4 und
 
 
 ## § 8 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE000903310)
 
 Bemessungsgrundlage für den Fördergrundbetrag nach § 9 Abs. 2 sind die
 Herstellungskosten oder Anschaffungskosten der Wohnung zuzüglich der
@@ -153,6 +161,7 @@ zu kürzen.
 
 
 ## § 9 Höhe der Eigenheimzulage
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001010310)
 
 (1) Die Eigenheimzulage umfaßt den Fördergrundbetrag nach den Absätzen
 2 bis 4 und die Kinderzulage nach Absatz 5.
@@ -247,6 +256,7 @@ Anspruchsberechtigten entfallende Bemessungsgrundlage nicht
 
 
 ## § 10 Entstehung des Anspruchs auf Eigenheimzulage
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001102310)
 
 Der Anspruch auf Eigenheimzulage entsteht mit Beginn der Nutzung der
 hergestellten oder angeschafften Wohnung zu eigenen Wohnzwecken, für
@@ -255,6 +265,7 @@ für das eine Eigenheimzulage festzusetzen ist.
 
 
 ## § 11 Festsetzung der Eigenheimzulage
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001204310)
 
 (1) Die Eigenheimzulage wird für das Jahr, in dem erstmals die
 Voraussetzungen für die Inanspruchnahme der Eigenheimzulage vorliegen,
@@ -317,6 +328,7 @@ des Förderzeitraums entfallen oder eintreten.
 
 
 ## § 12 Antrag auf Eigenheimzulage
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001302310)
 
 (1) Der Antrag auf Eigenheimzulage ist nach amtlichem Vordruck zu
 stellen und eigenhändig zu unterschreiben.
@@ -327,6 +339,7 @@ zu einer Minderung oder dem Wegfall der Eigenheimzulage führen.
 
 
 ## § 13 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001402310)
 
 (1) Für das Jahr der Bekanntgabe des Bescheids und die vorangegangenen
 Jahre ist die Eigenheimzulage innerhalb eines Monats nach Bekanntgabe
@@ -345,6 +358,7 @@ auszuzahlen.
 
 
 ## § 14 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001502310)
 
 Ergibt sich auf Grund der Neufestsetzung eine Minderung der
 Eigenheimzulage oder wird die Festsetzung aufgehoben, sind überzahlte
@@ -353,6 +367,7 @@ zurückzuzahlen.
 
 
 ## § 15 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001603310)
 
 (1) Die für Steuervergütungen geltenden Vorschriften der
 Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163
@@ -368,6 +383,7 @@ Steuerstraftaten entsprechend.
 
 
 ## § 16 Ertragsteuerliche Behandlung der Eigenheimzulage
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001702310)
 
 Die Eigenheimzulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
@@ -375,6 +391,7 @@ Herstellungs- und Anschaffungskosten.
 
 
 ## § 17 Eigenheimzulage bei Anschaffung von Genossenschaftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001806310)
 
 Der Anspruchsberechtigte kann die Eigenheimzulage einmal für die
 Anschaffung von Geschäftsanteilen in Höhe von mindestens 5 000 Euro an
@@ -403,6 +420,7 @@ Jahr der Anschaffung der Genossenschaftsanteile. Im übrigen sind die
 
 
 ## § 18 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE001902310)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung satzweise numeriert
@@ -413,6 +431,7 @@ Vordruck für den nach § 12 Abs. 1 vorgesehenen Antrag zu bestimmen.
 
 
 ## § 19 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eigzulg/BJNR178310995.html#BJNR178310995BJNE002012116)
 
 (1) Dieses Gesetz ist erstmals anzuwenden, wenn der
 Anspruchsberechtigte im Fall der Herstellung nach dem 31. Dezember

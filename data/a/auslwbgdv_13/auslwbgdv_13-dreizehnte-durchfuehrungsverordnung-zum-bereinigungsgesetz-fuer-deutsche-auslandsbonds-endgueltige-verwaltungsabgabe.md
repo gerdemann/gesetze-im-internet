@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000100306)
 
 Auf Grund der §§ 64, 65 des Bereinigungsgesetzes für deutsche
 Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet
@@ -28,6 +29,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Höhe der Verwaltungsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000200306)
 
 (1) Die Aussteller von Auslandsbonds haben als Verwaltungsabgabe für
 das Bereinigungsverfahren sieben vom Tausend des Bemessungsbetrages
@@ -106,6 +108,7 @@ Umrechnungssätze anzuwenden:
 
 
 ## § 2 Anrechnung früherer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000300306)
 
 Auf die Verwaltungsabgabe nach § 1 werden die Beträge angerechnet, die
 als Abschlag auf die Verwaltungsabgabe für das Bereinigungsverfahren
@@ -114,6 +117,7 @@ geleistet worden sind.
 
 
 ## § 3 Erhebung der Verwaltungsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000401377)
 
 (1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt
 für Wertpapierbereinigung gegen die Aussteller einen Zahlungsbescheid.
@@ -140,12 +144,14 @@ gelten sinngemäß, soweit nichts anderes bestimmt ist.
 
 
 ## § 4 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000500306)
 
 Der Bund, die Länder sowie die Konversionskasse für deutsche
 Auslandsschulden sind von den Zahlungen nach § 1 befreit.
 
 
 ## § 5 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000600306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des
@@ -153,6 +159,7 @@ Bereinigungsgesetzes für deutsche Auslandsbonds auch im Land Berlin.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_13/BJNR006820959.html#BJNR006820959BJNE000700306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündigung in Kraft.
 

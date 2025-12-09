@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Allgemeine Wahlstatistik
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNG000100310)
 
 
 
 ### § 1 Durchführung der allgemeinen Wahlstatistik
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000300310)
 
 Das Ergebnis der Wahl zum Deutschen Bundestag und der Wahl der
 Abgeordneten des Europäischen Parlaments aus der Bundesrepublik
@@ -34,10 +36,12 @@ auszuwerten; die Auswertung ist zu veröffentlichen.
 
 
 ## 2. Abschnitt - Repräsentative Wahlstatistik
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNG000200310)
 
 
 
 ### § 2 Art der Statistik
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000401377)
 
 (1) Aus dem Ergebnis der Wahlen gemäß § 1 sind unter Wahrung des
 Wahlgeheimnisses in ausgewählten Wahlbezirken repräsentative
@@ -64,6 +68,7 @@ worden sind.
 
 
 ### § 3 Stichprobenauswahl
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000501377)
 
 Die Auswahl der Stichprobenwahlbezirke und der
 Stichprobenbriefwahlbezirke trifft der Bundeswahlleiter im
@@ -83,6 +88,7 @@ Briefwahlbezirk in eine repräsentative Wahlstatistik einbezogen ist.
 
 
 ### § 4 Erhebungs- und Hilfsmerkmale sowie Bildung der Geburtsjahresgruppen
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000602377)
 
 Erhebungsmerkmale für die Statistik nach § 2 Abs. 1 Buchstabe a sind
 Wahlberechtigte, Wahlscheinvermerk, Beteiligung an der Wahl,
@@ -99,6 +105,7 @@ bei der Wahl zum Deutschen Bundestag auch Wahlkreis.
 
 
 ### § 5 Durchführende Stellen
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000701377)
 
 (1) Die Statistik nach § 2 Abs. 1 Buchstabe a wird von den Gemeinden,
 in denen ausgewählte Wahlbezirke liegen, unter Auszählung der
@@ -129,6 +136,7 @@ Wahlgeräten dürfen nicht zusammengeführt werden.
 
 
 ### § 6 Wahlstatistische Auszählungen der Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000801377)
 
 Gemeinden dürfen bei den in § 1 genannten Wahlen mit Zustimmung des
 Landeswahlleiters außer in den für die Statistiken nach § 2
@@ -147,6 +155,7 @@ zusammengeführt werden.
 
 
 ### § 7 Ergebnisfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE000901377)
 
 (1) Durch die Statistiken nach § 2 und die wahlstatistischen
 Auszählungen nach § 6 darf die Feststellung von Wahlergebnissen nicht
@@ -163,6 +172,7 @@ behandeln.
 
 
 ### § 8 Veröffentlichung der Ergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/wstatg/BJNR102310999.html#BJNR102310999BJNE001001377)
 
 Die Ergebnisse der Statistiken nach § 2 dürfen nur für die Bundes- und
 Landesebene und die der wahlstatistischen Auszählungen nach § 6 nur

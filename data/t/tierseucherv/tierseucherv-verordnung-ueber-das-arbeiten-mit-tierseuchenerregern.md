@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000100326)
 
 Auf Grund des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 16
 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 28. März
@@ -34,6 +35,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000203119)
 
 Diese Verordnung gilt für vermehrungsfähige Erreger oder
 vermehrungsfähige Teile von Erregern
@@ -49,6 +51,7 @@ vermehrungsfähige Teile von Erregern
 
 
 ## § 2 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000301308)
 
 (1) Wer
 
@@ -80,6 +83,7 @@ Tätigkeit nach Absatz 1 gilt als Erlaubnis im Sinne dieser Verordnung.
 
 
 ## § 3 Erlaubnisfreies Arbeiten, Erwerben oder Abgeben
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000402308)
 
 (1) Der Erlaubnis bedarf nicht, wer
 
@@ -146,6 +150,7 @@ der MKS-Verordnung besitzt.
 
 
 ## § 4 Versagen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000500326)
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -193,6 +198,7 @@ nicht vorliegen.
 
 
 ## § 5 Anzeigepflichten des Erlaubnisinhabers
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000600326)
 
 Der Inhaber einer Erlaubnis hat jeden Wechsel der mit der Leitung der
 Tätigkeit beauftragten Person sowie jede wesentliche Änderung der
@@ -202,6 +208,7 @@ unverzüglich der zuständigen Behörde anzuzeigen.
 
 
 ## § 6 Anzeigepflichtige Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000701308)
 
 Wer eine Tätigkeit nach § 3 Abs. 1 oder 2 aufnehmen will, hat dies der
 zuständigen Behörde unter Angabe der Art und des Umfangs der Tätigkeit
@@ -211,6 +218,7 @@ innerhalb von zwei Wochen anzuzeigen.
 
 
 ## § 7 Verbot von Tätigkeiten, Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000800326)
 
 (1) Die zuständige Behörde kann Tätigkeiten nach § 3 Abs. 1 oder 2
 untersagen, wenn
@@ -232,6 +240,7 @@ ausbreitet.
 
 
 ## § 8 Abgabe von Tierseuchenerregern
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE000900326)
 
 Tierseuchenerreger sowie Material, das Tierseuchenerreger enthält,
 dürfen nur an eine Person oder Einrichtung abgegeben werden, die eine
@@ -240,6 +249,7 @@ bedarf.
 
 
 ## § 9 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE001000326)
 
 Wer auf Grund des § 2 oder des § 3 Abs. 1 oder 2 mit
 Tierseuchenerregern arbeitet oder Tierseuchenerreger erwirbt oder
@@ -257,6 +267,7 @@ Behörde auf Verlangen vorzulegen.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE001102301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -292,11 +303,13 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE001301308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/tierseucherv/BJNR021230985.html#BJNR021230985BJNE001400326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 Der Bundesminister für Jugend, Familie und Gesundheit

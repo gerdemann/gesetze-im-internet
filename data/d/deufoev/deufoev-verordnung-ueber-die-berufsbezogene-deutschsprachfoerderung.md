@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000100000)
 
 Auf Grund des § 45a Absatz 3 des Aufenthaltsgesetzes, der durch
 Artikel 3 Nummer 7 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722)
@@ -28,9 +29,11 @@ Soziales im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000100000)
 
 
 ### § 1 Durchführung der berufsbezogenen Deutschsprachförderung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000200000)
 
 (1) Die Durchführung der berufsbezogenen Deutschsprachförderung ist
 Aufgabe des Bundesamtes für Migration und Flüchtlinge (Bundesamt). Zur
@@ -46,6 +49,7 @@ Barrierefreiheit besonders berücksichtigt werden.
 
 
 ### § 2 Persönlicher Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000300000)
 
 (1) Die Verordnung ist anwendbar auf Ausländerinnen und Ausländer im
 Sinne von § 2 Absatz 1 des Aufenthaltsgesetzes und auf Ausländerinnen
@@ -57,15 +61,18 @@ Migrationshintergrund anwendbar.
 
 
 ### § 3 Ziel der berufsbezogenen Deutschsprachförderung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000400000)
 
 Die berufsbezogene Deutschsprachförderung dient dem Spracherwerb, um
 die Chancen auf dem Arbeits- und Ausbildungsmarkt zu verbessern.
 
 
 ## Teil 2 - Rahmenbedingungen für die Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000200000)
 
 
 ### § 4 Teilnahme an der berufsbezogenen Deutschsprachförderung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE003300311)
 
 (1) Personen nach § 2 können eine Teilnahmeberechtigung für die
 berufsbezogene Deutschsprachförderung erhalten, wenn die
@@ -200,6 +207,7 @@ auf Antrag 50 Prozent des Kostenbeitrags nach Absatz 5.
 
 
 ### § 5 Zuständigkeit für die Entscheidung über die Teilnahmeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000604311)
 
 (1) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
 1 Nummer 1 Buchstabe a entscheiden die Agenturen für Arbeit.
@@ -231,6 +239,7 @@ Satz 3 und 4 entscheiden die Agenturen für Arbeit.
 
 
 ### § 6 Erteilung, Form und Inhalt der Teilnahmeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000704311)
 
 (1) Die Teilnahmeberechtigung wird von der nach § 5 zuständigen Stelle
 in schriftlicher Form unter Angabe der ausstellenden Stelle und des
@@ -280,6 +289,7 @@ Teilnahmeberechtigung enthaltenen Daten an das Bundesamt.
 
 
 ### § 7 Anmeldung zur berufsbezogenen Deutschsprachförderung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000801311)
 
 (1) Teilnahmeberechtigte melden sich innerhalb des sich aus § 6 Absatz
 3 Satz 1 und 2 ergebenden Zeitraums bei einem Kursträger an. Bei der
@@ -297,6 +307,7 @@ die Teilnahmeberechtigung erteilende Stelle.
 
 
 ### § 8 Allgemeine Pflichten des Kursträgers
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE000901311)
 
 (1) Der Kursträger nimmt Teilnahmeberechtigte entsprechend ihrem
 Sprachstand in den geeigneten Berufssprachkurs auf. Der Sprachstand
@@ -321,6 +332,7 @@ verfügbaren Kursplätze nach den Vorgaben des Bundesamts.
 
 
 ### § 9 Meldepflichten des Kursträgers; Nichtzustandekommen des Berufssprachkurses
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001001311)
 
 (1) Der Kursträger meldet dem Bundesamt vierzehntägig die Zahl der
 Anmeldungen für die einzelnen Berufssprachkurse und deren
@@ -349,6 +361,7 @@ der erfolgreiche Abschluss des Berufssprachkurses gefährdet ist.
 
 
 ### § 10 Fahrkostenerstattung und Kinderbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001102311)
 
 (1) Teilnahmeberechtigte, die Leistungen nach dem Zweiten Buch
 Sozialgesetzbuch, nach dem Zwölften Buch Sozialgesetzbuch, nach dem
@@ -374,9 +387,11 @@ Vereinbarkeit von Familie und Beruf beinhalten.
 
 
 ## Teil 3 - Struktur, Dauer und Inhalte der berufsbezogenen Deutschsprachförderung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000300000)
 
 
 ### § 11 Grundstruktur der berufsbezogenen Deutschsprachförderung und Berufssprachkurse
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001201311)
 
 (1) Die berufsbezogene Deutschsprachförderung baut auf dem
 Integrationskurs nach § 43 des Aufenthaltsgesetzes auf. Sie wird in
@@ -408,6 +423,7 @@ werden.
 
 
 ### § 12 Basisberufssprachkurse
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001301311)
 
 (1) Die Basisberufssprachkurse dienen der Erreichung
 
@@ -431,6 +447,7 @@ Absatz 1 Nummer 1 in der Regel 500 Unterrichtseinheiten.
 
 
 ### § 13 Spezialberufssprachkurse
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001402311)
 
 (1) Ergänzend werden Spezialberufssprachkurse angeboten, die auf
 
@@ -476,6 +493,7 @@ richten sich nur an
 
 
 ### § 14 Lerninhalte und Lernziele
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001501311)
 
 Das Bundesamt legt die Lerninhalte und Lernziele für die
 Basisberufssprachkurse nach § 12 und die Spezialberufssprachkurse nach
@@ -486,6 +504,7 @@ einem pädagogischen Rahmenkonzept.
 
 
 ### § 15 Zertifikatsprüfungen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001601311)
 
 (1) Die Basisberufssprachkurse nach § 12 und die
 Spezialberufssprachkurse nach § 13 Absatz 1 Satz 1 Nummer 3 und 4
@@ -518,6 +537,7 @@ Teilnahmebescheinigung.
 
 
 ### § 16 Kombination der berufsbezogenen Deutschsprachförderung mit Maßnahmen der aktiven Arbeitsmarktpolitik
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001702311)
 
 Berufssprachkurse können mit Maßnahmen nach dem Zweiten Abschnitt, dem
 Zweiten und Vierten Unterabschnitt des Dritten Abschnitts, dem Vierten
@@ -533,6 +553,7 @@ Grundsicherung für Arbeitsuchende zuständigen Stelle eine Vereinbarung
 
 
 ### § 17 Lehr- und Lernmittel
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001801311)
 
 (1) Die Lehr- und Lernmittel für Basisberufssprachkurse nach § 12 und
 für Spezialberufssprachkurse nach § 13 Absatz 1 Satz 1 Nummer 3 und 4
@@ -553,6 +574,7 @@ in dem pädagogischen Rahmenkonzept nach § 14 festlegen.
 
 
 ### § 18 Lehrkräfte
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE001902311)
 
 (1) Lehrkräfte der berufsbezogenen Deutschsprachförderung müssen ein
 abgeschlossenes Hochschulstudium, das Sprachniveau C 1 nach dem
@@ -592,9 +614,11 @@ Lehrkräften fördern.
 
 
 ## Teil 4 - Zulassung der Kursträger; Beauftragung von Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000400000)
 
 
 ### § 19 Zulassung der Träger der berufsbezogenen Deutschsprachförderung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002002311)
 
 (1) Das Bundesamt erteilt auf Antrag zur Durchführung der
 berufsbezogenen Deutschsprachförderung und des Einstufungstests
@@ -655,6 +679,7 @@ bleiben unberührt.
 
 
 ### § 20 Anforderungen an den Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002103311)
 
 (1) Zur Beurteilung der Zuverlässigkeit und Gesetzestreue der
 antragstellenden Person oder der zur Führung ihrer Geschäfte
@@ -784,6 +809,7 @@ zu verwenden.
 
 
 ### § 21 Prüfung und Entscheidung des Bundesamts
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002201311)
 
 (1) Das Bundesamt entscheidet über den Zulassungsantrag nach Prüfung
 der eingereichten Unterlagen und im Regelfall nach örtlicher Prüfung
@@ -814,6 +840,7 @@ unverzüglich anzuzeigen.
 
 
 ### § 22 Widerruf und Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002301311)
 
 (1) Die Zulassung der Kursträger nach § 21 soll mit Wirkung für die
 Zukunft widerrufen werden, wenn ihre Voraussetzungen nicht mehr
@@ -860,6 +887,7 @@ Verwaltungsverfahrensgesetzes.
 
 
 ### § 23 Beauftragung von Prüfungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002400000)
 
 Das Bundesamt kann unter Anwendung des Vergaberechts eine geeignete
 Stelle mit der Entwicklung, Durchführung und Auswertung der
@@ -870,9 +898,11 @@ durch anerkannte Institutionen durchgeführt wird.
 
 
 ## Teil 5 - Expertengremium; Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000500000)
 
 
 ### § 24 Expertengremium
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002500000)
 
 Zur Bewertung von Lehrplänen, Lehr- und Lernmitteln, zur Entwicklung
 von Verfahren der Qualitätskontrolle sowie Fortentwicklung der
@@ -881,6 +911,7 @@ für Arbeit und Soziales ein Expertengremium ein.
 
 
 ### § 25 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002600000)
 
 (1) Das Bundesamt setzt nach Ermittlung der bundesweiten
 Preisentwicklung angemessene, den Grundsätzen der Wirtschaftlichkeit
@@ -896,9 +927,11 @@ Bundesamt geregelt.
 
 
 ## Teil 6 - Datenverarbeitung; Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000600000)
 
 
 ### § 26 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002701116)
 
 (1) Das Bundesamt verarbeitet zur Erfüllung seiner gesetzlichen
 Koordinierungs- und Durchführungsaufgaben folgende teilnehmerbezogene
@@ -948,6 +981,7 @@ fünf Jahren zu löschen.
 
 
 ### § 27 Monitoring-Bericht
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002800000)
 
 Das Bundesamt erstellt einen Monitoring-Bericht nach den Vorgaben des
 Bundesministeriums für Arbeit und Soziales und übermittelt ihm diesen
@@ -957,9 +991,11 @@ berufsbezogenen Deutschsprachförderung notwendig sind.
 
 
 ## Teil 7 - Übergangsregelungen; Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNG000701311)
 
 
 ### § 27a
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE003200311)
 
 Auf Personen mit einer bis zum Ablauf des 30. Juni 2023
 abgeschlossenen Eingliederungsvereinbarung nach § 15 des Zweiten
@@ -972,6 +1008,7 @@ Juni 2023 gültigen Fassung weiter anzuwenden.
 
 
 ### § 28 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/deuf_v/BJNR612500016.html#BJNR612500016BJNE002901311)
 
 Diese Verordnung tritt am 1. Juli 2016 in Kraft.
 

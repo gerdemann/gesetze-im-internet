@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzislbek/BJNR201790923.html#BJNR201790923BJNE000100303)
 
 Zwischen dem Deutschen Reich und Island ist durch Notenaustausch
 Einverständnis dahin festgestellt worden, daß mit Wirkung vom 15.

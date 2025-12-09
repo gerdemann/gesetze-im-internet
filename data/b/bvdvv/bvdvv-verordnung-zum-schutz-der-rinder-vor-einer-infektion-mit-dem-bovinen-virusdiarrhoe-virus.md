@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000203118)
 
 Im Sinne dieser Verordnung sind:
 
@@ -73,6 +74,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 2 Impfungen
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000303118)
 
 (1) Die zuständige Behörde kann die Impfung eines Rindes oder der
 Rinder eines Bestandes oder eines bestimmten Gebietes gegen die BVDV-
@@ -111,6 +113,7 @@ einzutragen.
 
 
 ## § 3 Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000406118)
 
 (1) Der Tierhalter hat alle Rinder,
 
@@ -213,6 +216,7 @@ lassen.
 
 
 ## § 4 Verbringen von Rindern
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000512118)
 
 (1) Rinder dürfen im Inland
 
@@ -280,6 +284,7 @@ des Rindes aufzubewahren.
 
 
 ## § 5 Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000604118)
 
 (1) Ist ein BVDV-infiziertes Rind in einem Bestand festgestellt
 worden, dürfen ab dem Zeitpunkt der Feststellung des BVDV-infizierten
@@ -338,6 +343,7 @@ beschriebenen Methode auf BVDV untersuchen zu lassen.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000704118)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -378,6 +384,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 7 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000804118)
 
 (1) § 3 Absatz 1 Satz 1 Nummer 1 gilt mit der Maßgabe, dass Rinder,
 die am 30. Juni 2016 den ersten Lebensmonat vollendet haben und noch
@@ -395,6 +402,7 @@ eine BVDV-Infektion nachgewiesen worden ist.
 (zu § 1)
 
 ## Anlage 1 Voraussetzungen, unter denen ein Rinderbestand als BVDV-unverdächtig gilt
+[Direktlink](https://www.gesetze-im-internet.de/bvdvv/BJNR246110008.html#BJNR246110008BJNE000904118)
 
 (Fundstelle: BGBl. I 2016, 1487)
 

@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000100314)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000200314)
 
 (1) Die Treuhandanstalt wird ermächtigt, in den Wirtschaftsjahren 1992
 bis 1994 Kredite bis zur Höhe von 30 Milliarden Deutsche Mark je
@@ -44,6 +46,7 @@ der Finanzen eingeholt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000300314)
 
 (1) Die Treuhandanstalt wird ermächtigt, ab Oktober eines
 Wirtschaftsjahres im Vorgriff auf den Kreditrahmen des nächsten
@@ -61,6 +64,7 @@ nach § 1 Abs. 1 Satz 1 aufzunehmen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000400314)
 
 Der Bundesminister der Finanzen kann den nicht ausgenutzten
 Kreditrahmen eines Wirtschaftsjahres auf das folgende Wirtschaftsjahr
@@ -71,11 +75,13 @@ Deutsche Mark zulassen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000500314)
 
 Der Bund haftet für die von der Treuhandanstalt aufgenommenen Kredite.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000602125)
 
 Artikel 1 Absatz 2 Buchstabe b der Verordnung (EU) 2017/1129 des
 Europäischen Parlaments und des Rates vom 14. Juni 2017 über den
@@ -87,6 +93,7 @@ Treuhandanstalt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/thakredg/BJNR011900992.html#BJNR011900992BJNE000700314)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 

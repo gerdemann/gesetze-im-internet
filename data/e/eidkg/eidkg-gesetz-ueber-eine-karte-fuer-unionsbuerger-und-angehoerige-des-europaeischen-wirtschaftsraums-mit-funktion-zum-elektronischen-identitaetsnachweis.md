@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Mittelbare Änderung gem. Art. 2 G v. 23.10.2024 I Nr. 322 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000100000)
 
 
 ### § 1 eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000200000)
 
 (1) Für Staatsangehörige eines Mitgliedstaats der Europäischen Union
 oder eines Vertragsstaats des Abkommens über den Europäischen
@@ -37,6 +39,7 @@ das Vor-Ort-Auslesen nach den §§ 12 und 13.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000301116)
 
 (1) Diensteanbieter sind natürliche und juristische Personen, die zur
 Wahrnehmung von Aufgaben der öffentlichen Verwaltung oder zur
@@ -104,6 +107,7 @@ können.
 
 
 ### § 3 Besitz und Eigentum; Hersteller, Vergabestelle und Sperrlistenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000401130)
 
 (1) Niemand darf mehr als eine auf seine Person ausgestellte gültige
 eID-Karte besitzen.
@@ -126,6 +130,7 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 
 ### § 4 Kartenmuster; Seriennummer; Chip
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000501116)
 
 (1) Die eID-Karte wird nach einem einheitlichen Muster ausgestellt.
 
@@ -188,6 +193,7 @@ und Auslesen zu sichern.
 
 
 ### § 5 Gültigkeitsdauer
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000600000)
 
 (1) Die eID-Karte wird für eine Gültigkeitsdauer von zehn Jahren
 ausgestellt.
@@ -200,6 +206,7 @@ Neuausstellung dargelegt wird.
 
 
 ### § 6 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000702116)
 
 (1) Zuständig für Angelegenheiten, die die eID-Karte betreffen, sind:
 
@@ -241,6 +248,7 @@ zuständig.
 
 
 ### § 7 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000801130)
 
 (1) Örtlich zuständig ist diejenige eID-Karte-Behörde, in deren Bezirk
 die antragstellende Person oder der Karteninhaber für seine Wohnung,
@@ -260,9 +268,11 @@ ihren gewöhnlichen Aufenthaltsort zu erbringen.
 
 
 ## Abschnitt 2 - Ausstellung und Sperrung der eID-Karte; elektronischer Identitätsnachweis mit einem mobilen Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000201116)
 
 
 ### § 8 Ausstellung der eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE000901130)
 
 (1) Die eID-Karte wird auf Antrag für die antragstellende Person
 ausgestellt, wenn sie
@@ -290,6 +300,7 @@ so ist die Ausstellung einer eID-Karte abzulehnen.
 
 
 ### § 8a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002900116)
 
 (1) Auf elektronische Veranlassung durch den Karteninhaber übermittelt
 der Kartenhersteller die Daten nach § 4 Absatz 4 Satz 2 aus dem Chip
@@ -339,6 +350,7 @@ durchzuführen.
 
 
 ### § 9 Sperrung und Entsperrung
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001000000)
 
 (1) Die ausstellende eID-Karte-Behörde hat unverzüglich zur
 Aktualisierung der Sperrliste die Sperrsumme der eID-Karte an den
@@ -381,6 +393,7 @@ ausstellenden eID-Karte-Behörde mitzuteilen.
 
 
 ### § 10 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001101116)
 
 (1) Auf Verlangen des Karteninhabers hat die eID-Karte-Behörde ihm
 Einsicht in die im Chip der eID-Karte gespeicherten auslesbaren Daten
@@ -409,6 +422,7 @@ hat die Einstellung in die polizeiliche Sachfahndung vorzunehmen.
 
 
 ### § 11 Datenerfassung, -prüfung und -übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001200000)
 
 Für die Form und das Verfahren der Datenerfassung, -prüfung und
 -übermittlung und für die Übermittlung von Geheimnummer,
@@ -417,9 +431,11 @@ Personalausweisgesetzes entsprechend.
 
 
 ## Abschnitt 3 - Nutzung der eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000300000)
 
 
 ### § 12 Elektronischer Identitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001302116)
 
 (1) Der Karteninhaber kann seine eID-Karte dazu nutzen, seine
 Identität gegenüber öffentlichen und nichtöffentlichen Stellen
@@ -456,6 +472,7 @@ hoheitliches Berechtigungszertifikat verwenden.
 
 
 ### § 13 Vor-Ort-Auslesen
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001400000)
 
 (1) Der Karteninhaber kann seine eID-Karte ferner dazu verwenden, die
 im Chip gespeicherten Daten zum Zwecke der medienbruchfreien Übernahme
@@ -471,6 +488,7 @@ Zertifikat an den Chip der eID-Karte übermittelt.
 
 
 ### § 14 Speicherung im Rahmen des elektronischen Identitätsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001500000)
 
 Für die Speicherung von Daten im Rahmen des elektronischen
 Identitätsnachweises, auch durch Identifizierungsdiensteanbieter,
@@ -478,9 +496,11 @@ gelten die §§ 19 und 19a des Personalausweisgesetzes entsprechend.
 
 
 ## Abschnitt 4 - Hoheitliche Berechtigungszertifikate; Berechtigungen; elektronische Signaturen
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000401360)
 
 
 ### § 14a Hoheitliche Berechtigungszertifikate
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002800360)
 
 (1) eID-Karte-Behörden und der Kartenhersteller erhalten hoheitliche
 Berechtigungszertifikate. Umfang und Inhalt der in Satz 1 genannten
@@ -494,6 +514,7 @@ Testausweisen.
 
 
 ### § 15 Berechtigungen für Diensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001600000)
 
 (1) Um Daten im Wege des elektronischen Identitätsnachweises
 anzufragen, benötigen Diensteanbieter eine Berechtigung. Die
@@ -506,6 +527,7 @@ des § 21 Absatz 2 bis 8 des Personalausweisgesetzes entsprechend.
 
 
 ### § 16 Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001700000)
 
 Um Daten nach § 13 unter Anwesenden vor Ort auslesen zu dürfen,
 benötigen Vor-Ort-Diensteanbieter eine Vor-Ort-Berechtigung
@@ -514,6 +536,7 @@ Personalausweisgesetzes gilt hierfür entsprechend.
 
 
 ### § 17 Berechtigung für Identifizierungsdiensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001800000)
 
 Wer als Identifizierungsdiensteanbieter die Funktion des
 elektronischen Identitätsnachweises nach § 12 nutzen möchte, um
@@ -523,6 +546,7 @@ entsprechend.
 
 
 ### § 18 Elektronische Signatur
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE001900000)
 
 Die eID-Karte kann als qualifizierte elektronische
 Signaturerstellungseinheit im Sinne des Artikels 3 Nummer 23 der
@@ -538,9 +562,11 @@ bleiben unberührt.
 
 
 ## Abschnitt 5 - eID-Karte-Register
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000500000)
 
 
 ### § 19 eID-Karte-Register
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002007130)
 
 (1) Zur Durchführung dieses Gesetzes führen die eID-Karte-Behörden
 Register über die beantragten und ausgegebenen eID-Karten (eID-Karte-
@@ -615,6 +641,7 @@ entsprechend.
 
 
 ### § 19a Verwendung von im eID-Karte-Register gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE003000130)
 
 eID-Karte-Behörden dürfen anderen eID-Karte-Behörden im
 automatisierten Verfahren Daten des eID-Karte-Registers übermitteln
@@ -624,9 +651,11 @@ ihrer Pflichten erforderlich ist.
 
 
 ## Abschnitt 6 - Pflichten des Karteninhabers; Ungültigkeit und Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000600000)
 
 
 ### § 20 Pflichten des Karteninhabers
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002102130)
 
 (1) Der Karteninhaber ist verpflichtet, der eID-Karte-Behörde
 unverzüglich
@@ -671,6 +700,7 @@ diesen Einsatzzweck sicher bewertet werden.
 
 
 ### § 21 Ungültigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002200000)
 
 (1) Eine eID-Karte ist ungültig, wenn
 
@@ -689,6 +719,7 @@ Ausstellung nicht vorgelegen haben oder nachträglich weggefallen sind.
 
 
 ### § 22 Einziehung und Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002300000)
 
 (1) Eine ungültige eID-Karte kann eingezogen werden.
 
@@ -710,9 +741,11 @@ und 2 keine aufschiebende Wirkung.
 
 
 ## Abschnitt 7 - Gebühren und Auslagen; Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNG000700000)
 
 
 ### § 23 Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002401130)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz erheben die eID-Karte-Behörden Gebühren und Auslagen nach den
@@ -746,6 +779,7 @@ bis zu 300 Prozent betragen.
 
 
 ### § 24 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002500000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -768,6 +802,7 @@ Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
 
 ### § 25 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002603130)
 
 Das Bundesministerium des Innern und für Heimat wird ermächtigt, im
 Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates
@@ -851,6 +886,7 @@ vorzusehen.
 
 
 ### § 26 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/eidkg/BJNR084610019.html#BJNR084610019BJNE002700000)
 
 Abweichend von § 6 Absatz 1 Nummer 2 und § 7 Absatz 2 ist bis zum 31.
 Oktober 2021 für Antragsberechtigte mit gewöhnlichem Aufenthalt im

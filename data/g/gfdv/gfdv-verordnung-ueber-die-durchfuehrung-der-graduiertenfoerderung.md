@@ -24,15 +24,18 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Umfang und Dauer der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNG003001306)
 
 
 
 ### § 1 Höhe des Grundstipendiums
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE000501306)
 
 Das Grundstipendium beträgt 800 Deutsche Mark monatlich.
 
 
 ### § 2 Familienzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE000601306)
 
 Der Stipendiat erhält auf Antrag zu dem Grundstipendium einen
 Familienzuschlag von 200 Deutsche Mark monatlich, wenn
@@ -57,6 +60,7 @@ nicht gewährt.
 
 
 ### § 3 Zuschläge für Sachkosten und Reisekosten im Inland
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE000701306)
 
 (1) Für Sachkosten, mit Ausnahme von Druckkosten, sowie für
 Reisekosten im Inland, deren Aufwendung für die Durchführung des
@@ -95,6 +99,7 @@ Pauschbetrag gewährt wird.
 
 
 ### § 4 Förderung von Auslandsaufenthalten
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE000801306)
 
 (1) Zuschläge können, soweit sich aus den nachfolgenden Bestimmungen
 nicht etwas anderes ergibt, nach Maßgabe des § 3 auch für die Kosten
@@ -202,6 +207,7 @@ als 20 vom Hundert führen würden.
 
 
 ### § 5 Einkommen des Stipendiaten und seines Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE000901306)
 
 (1) Das Einkommen des Stipendiaten wird auf das Stipendium
 angerechnet. Das Einkommen seines Ehegatten wird zu zwei Dritteln des
@@ -280,6 +286,7 @@ den Monat folgt, in dem die Veränderungen wirksam geworden sind.
 
 
 ### § 6 Anrechnungsfreie Beträge
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001001306)
 
 (1) Vom Einkommen des Stipendiaten und seines Ehegatten wird die
 Einkommensteuer abgezogen, die auf das nach § 5 Abs. 2 oder Abs. 3
@@ -319,6 +326,7 @@ anrechnungsfrei:
 
 
 ### § 7 Vermögen des Stipendiaten
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001101306)
 
 (1) Hat der Stipendiat für das Kalenderjahr der Antragstellung, die
 der Bewilligung zugrunde liegt, Vermögensteuer zu entrichten, so
@@ -332,6 +340,7 @@ zu entrichten ist, neu festzusetzen.
 
 
 ### § 8 Durchführung der Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001201306)
 
 (1) Der Bewerber oder Stipendiat teilt seine Einkommensverhältnisse
 sowie, wenn er verheiratet ist, die seines Ehegatten der Hochschule
@@ -365,6 +374,7 @@ Stipendiengewährung.
 
 
 ### § 9 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001301306)
 
 (1) Die Finanzbehörden erteilen der Hochschule Auskünfte über die
 Einkommensverhältnisse des Stipendiaten und seines Ehegatten sowie
@@ -388,6 +398,7 @@ Gewährung eines Stipendiums von Bedeutung sind.
 
 
 ### § 10 Dauer der Förderung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001401306)
 
 (1) Das zur Vorbereitung auf die Promotion gewährte Stipendium kann
 über die Regelförderungsdauer hinaus bis zu einem weiteren Jahr
@@ -412,10 +423,12 @@ verlängert werden.
 
 
 ## 2. Abschnitt - Vergabe der Stipendien und Verteilung der Förderungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNG000101306)
 
 
 
 ### § 11 Vergabe der Stipendien
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001501306)
 
 (1) Die Stipendien werden von der Hochschule auf Antrag der Bewerber
 zentral vergeben. Die Bewerber haben sich bei der Antragstellung zu
@@ -448,6 +461,7 @@ werden.
 
 
 ### § 12 Verteilung der Förderungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001601306)
 
 (1) Die für die Verteilung zuständige Stelle bestimmt die auf die
 Fachbereiche bzw. Fakultäten entfallenden Förderungsmittel (Verteilung
@@ -467,6 +481,7 @@ Absatz 1 zuständigen Stelle getrennt verteilt.
 
 
 ### § 13 Erstmalige Gewährung des Stipendiums
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001701306)
 
 (1) Der Bewerber fügt seinem Antrag einen Arbeitsplan bei, in welchem
 er die Gründe für die Wahl seines Vorhabens darlegt. Beantragt der
@@ -483,6 +498,7 @@ heranzuziehen.
 
 
 ### § 14 Verlängerung des Stipendiums
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001801306)
 
 (1) Innerhalb der Regelförderungsdauer kann eine Verlängerung des
 Stipendiums für einen Zeitraum bis zu einem Jahr ausgesprochen werden.
@@ -502,6 +518,7 @@ begründen.
 
 
 ### § 15 Abschlußbericht
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE001901306)
 
 (1) Nach Beendigung der Förderung legt der Stipendiat den beteiligten
 Kommissionen einen Bericht über seine Arbeit während der gesamten
@@ -521,16 +538,19 @@ Arbeit.
 
 
 ### § 16 Aufhebung des Bewilligungsbescheides und Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002001306)
 
 Die Entscheidung nach § 7b des Gesetzes trifft die für die Vergabe
 zuständige Stelle nach Anhörung des Stipendiaten.
 
 
 ## 3. Abschnitt - Rückzahlung des Stipendiums
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNG000201306)
 
 
 
 ### § 17 Datenermittlung, Zwischenbescheid
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002101306)
 
 (1) Die Hochschulen stellen nach Ablauf eines jeden Kalenderjahres bis
 zum 31. März dem Bundesverwaltungsamt die für den Darlehenseinzug
@@ -558,6 +578,7 @@ Darlehenseinzug erforderlichen Akten dem Bundesverwaltungsamt.
 
 
 ### § 18 Bescheid des Bundesverwaltungsamtes
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002201306)
 
 Das Bundesverwaltungsamt erteilt dem Stipendiaten einen Bescheid, in
 dem die Höhe des Darlehensbetrages festgestellt und der Zeitpunkt des
@@ -566,6 +587,7 @@ Raten festgesetzt werden.
 
 
 ### § 19 Rückzahlungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002301306)
 
 Die Rückzahlungsrate ist am Ende eines jeden Monats für den
 Lastschrifteinzug bereitzustellen oder auf das vom
@@ -573,6 +595,7 @@ Bundesverwaltungsamt bestimmte Konto zu überweisen.
 
 
 ### § 20 Freistellung von der Rückzahlungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002401306)
 
 (1) Die Entscheidung über die Freistellung von der Verpflichtung zur
 Rückzahlung des Darlehens nach § 7a Abs. 4 oder
@@ -592,6 +615,7 @@ Freistellung.
 
 
 ### § 21 Verzug
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002501306)
 
 (1) Die Verzinsung nach § 7a Abs. 2 des Gesetzes beginnt mit dem
 Ersten des auf den Fälligkeitstag folgenden Kalendermonats.
@@ -608,6 +632,7 @@ Ersten des auf den Fälligkeitstag folgenden Kalendermonats.
 
 
 ### § 22 Veränderungen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002601306)
 
 Stirbt der Stipendiat, bevor das Stipendium zurückgezahlt ist, wird
 gegenüber den Erben kein Rückzahlungsanspruch geltend gemacht. Im
@@ -619,6 +644,7 @@ Gesetz vom 23. Dezember 1971 (Bundesgesetzbl. I S. 2133).
 
 
 ### § 23 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002701306)
 
 (1) Der Stipendiat ist verpflichtet, von der Beendigung der Gewährung
 des Stipendiums an jeden Wohnungswechsel und jede Änderung des
@@ -636,6 +662,7 @@ machen.
 
 
 ### § 24 Rückleitung der eingezogenen Beträge
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002801306)
 
 (1) Das Bundesverwaltungsamt führt bis zum 31. März von dem
 Darlehensbetrag, den es im letzten vorausgegangenen Kalenderjahr
@@ -648,10 +675,12 @@ verbleiben in voller Höhe dem Bund.
 
 
 ## 4. Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNG000301306)
 
 
 
 ### § 25 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/gfdv/BJNR017510971.html#BJNR017510971BJNE002901306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 16 des

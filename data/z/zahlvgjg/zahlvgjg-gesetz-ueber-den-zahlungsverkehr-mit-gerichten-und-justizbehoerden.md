@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zahlvgjg/BJNR341610006.html#BJNR341610006BJNE000101311)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, in welchen Fällen Zahlungen an Gerichte und Justizbehörden
@@ -44,6 +45,7 @@ bundesrechtlicher Vorschriften erfolgen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zahlvgjg/BJNR341610006.html#BJNR341610006BJNE000200000)
 
 Solange am Ort des Gerichts oder der Justizbehörde ein Kreditinstitut
 aufgrund besonderer Ermächtigung kostenlos Zahlungsmittel für das

@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-7-62 v. 5.4.2001 I 534 (FloristMPrV)
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000100000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Floristmeister oder zur
@@ -78,6 +79,7 @@ Abschluss „Geprüfter Floristmeister“ oder „Geprüfte Floristmeisterin“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000200000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -105,6 +107,7 @@ erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000300000)
 
 (1) Die Prüfungsanforderungen beziehen sich auf:
 
@@ -122,6 +125,7 @@ arbeitspädagogischen Eignung nach Maßgabe des § 6 Absatz 6.
 
 
 ## § 4 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000400000)
 
 (1) Der Nachweis der Qualifikation zum Geprüften Floristmeister oder
 zur Geprüften Floristmeisterin erfolgt in den Handlungsbereichen:
@@ -359,6 +363,7 @@ Qualifikationsschwerpunkte geprüft werden:
 
 
 ## § 5 Handlungsobjekte
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000500000)
 
 (1) Handlungsobjekte sind floristische Werkstücke, die in ihrer
 Gestaltung bezogen werden auf Thema, Raum oder Anlass. In der Prüfung
@@ -388,6 +393,7 @@ unterschiedlichen Anforderungen und Kundenwünschen anwenden kann.
 
 
 ## § 6 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000600000)
 
 (1) In der Prüfung sind drei Situationsaufgaben zu bearbeiten, die
 vollständige Handlungen beinhalten, wie sie für die betriebliche
@@ -493,6 +499,7 @@ höchstens 30 Minuten dauern. Wurde die Prüfung im Handlungsbereich
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000700000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -506,6 +513,7 @@ anzuwenden.
 
 
 ## § 8 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000800000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -532,6 +540,7 @@ einzeln zu bewerten.
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE000900000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -586,6 +595,7 @@ ist die Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE001000000)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -612,6 +622,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE001100000)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -628,6 +639,7 @@ wiederholen. In diesem Fall ist das letzte Ergebnis maßgebend.
 (zu den §§ 8 und 9)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE001200000)
 
 (Fundstelle: BGBl. I 2019, 2228 - 2229)
 
@@ -929,6 +941,7 @@ wiederholen. In diesem Fall ist das letzte Ergebnis maßgebend.
 (zu § 10)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/floristmfprv/BJNR222300019.html#BJNR222300019BJNE001300000)
 
 (Fundstelle: BGBl. I 2019, 2229)
 

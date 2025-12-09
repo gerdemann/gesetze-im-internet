@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000104124)
 
 
 
 ### § 1 Gemeinsame Marktorganisationen und Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE001509124)
 
 (1) Gemeinsame Marktorganisationen im Sinne dieses Gesetzes sind
 Regelungen zur Schaffung und Durchführung der gemeinsamen Organisation
@@ -87,6 +89,7 @@ Förderung der Entwicklung des ländlichen Raums, die
 
 
 ### § 2 Marktordnungswaren
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE001603124)
 
 Marktordnungswaren im Sinne dieses Gesetzes sind die Erzeugnisse, die
 den gemeinsamen Marktorganisationen unterliegen, sowie die
@@ -95,12 +98,14 @@ Marktorganisation Regelungen im Sinne des § 1 Absatz 2 getroffen sind.
 
 
 ### § 3 Marktordnungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE001711124)
 
 Marktordnungsstelle im Sinne dieses Gesetzes ist die Bundesanstalt für
 Landwirtschaft und Ernährung (Bundesanstalt).
 
 
 ### § 4 Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE001805124)
 
 Soweit sich aus unmittelbar geltenden Regelungen im Sinne des § 1
 Absatz 2 Nummer 1 bis 3 nichts anderes ergibt, gelten die Vorschriften
@@ -140,6 +145,7 @@ dieses Gesetzes
 
 
 ### § 5 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE001906119)
 
 Im Sinne dieses Gesetzes sind:
 Ausfuhrabgaben:
@@ -162,14 +168,17 @@ Teilvorausfestsetzungsbescheinigungen für Marktordnungswaren.
 
 
 ## Abschnitt 2 - Vergünstigungen, Interventionen, Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000204124)
 
 
 
 ### Titel 1 - Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000303124)
 
 
 
 #### § 6 Vergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002014124)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem
@@ -298,6 +307,7 @@ Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 
 #### § 6a Vermarktungsnormen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006302119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -350,6 +360,7 @@ oder -klasse beziehen.
 
 
 #### § 7 Interventionen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002110124)
 
 (1) Interventionsstelle ist die Marktordnungsstelle. Das
 Bundesministerium wird ermächtigt, im Einvernehmen mit dem
@@ -397,6 +408,7 @@ frühestmöglichen Zeitpunkt, spätestens nach drei Jahren, zu löschen.
 
 
 #### § 8 Mengen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002210124)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -464,6 +476,7 @@ erforderlich ist.
 
 
 #### § 8a Branchenvereinbarungen und Preisberichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006401124)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
@@ -475,6 +488,7 @@ erlassen.
 
 
 #### § 9 Obligatorische Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002310124)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -494,6 +508,7 @@ Maßnahmen gewährt werden, gilt § 6 entsprechend.
 
 
 #### § 9a Einhaltung anderweitiger Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005605119)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft
@@ -513,6 +528,7 @@ entsprechend.
 
 
 #### § 9b Außergewöhnliche Maßnahmen zur Marktstützung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006502124)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, soweit dies im Rahmen von
@@ -611,6 +627,7 @@ sechs Monaten begrenzt wird.
 
 
 #### § 9c Außergewöhnliche Maßnahmen zur Marktstützung auf Antrag mit finanzieller Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005803124)
 
 (1) Das Bundesministerium kann bei den zuständigen Stellen der
 Europäischen Union außergewöhnliche Maßnahmen zur Marktstützung mit
@@ -705,6 +722,7 @@ Absatz 5 Satz 3 gilt entsprechend.
 
 
 #### § 9d Weitere Finanzierung außergewöhnlicher Maßnahmen zur Marktstützung ohne Antrag
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006601124)
 
 (1) Rechtsverordnungen auf Grund der Ermächtigungen der §§ 6, 6a, 7,
 8, 9, 9a, 9b und 12 können auch erlassen werden, soweit ein Rechtsakt
@@ -771,6 +789,7 @@ Maßnahmen verausgabt worden sind, ist ausgeschlossen.
 
 
 #### § 9e Vorbehalt der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005903119)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit dies zur Durchführung der
@@ -809,6 +828,7 @@ Es bedürfen Rechtsverordnungen nach Satz 1
 
 
 #### § 10 Rücknahme, Widerruf, Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002405124)
 
 (1) Rechtswidrige begünstigende Bescheide in den Fällen der §§ 6, 8
 und 9b, jeweils auch in Verbindung mit den §§ 9c und 9d, sind, auch
@@ -840,6 +860,7 @@ Verwaltungsverfahrensgesetzes ist anzuwenden.
 
 
 #### § 11 Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002505124)
 
 Der Begünstigte trägt, soweit nicht Regelungen im Sinne des § 1 Absatz
 2 etwas anderes vorsehen, auch nach Empfang eines rechtlich
@@ -853,6 +874,7 @@ Gewährung folgt.
 
 
 #### § 12 Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002611124)
 
 (1) Auf Abgaben zu Marktordnungszwecken, die nach Regelungen im Sinne
 des § 1 Absatz 2 Nummer 1 bis 3 hinsichtlich Marktordnungswaren
@@ -944,6 +966,7 @@ Grundlagenbescheid im Sinne des § 171 Absatz 10 der Abgabenordnung.
 
 
 #### § 13 Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002710124)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -965,6 +988,7 @@ dieses Gesetzes berechtigt sein.
 
 
 #### § 14 Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002809119)
 
 (1) Ansprüche auf Erstattung von Vergünstigungen sowie auf Beträge,
 die wegen Nichteinhaltung anderweitiger Verpflichtungen zu erstatten
@@ -983,10 +1007,12 @@ unverzinslich.
 
 
 ### Titel 2 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000403124)
 
 
 
 #### § 15 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE002910124)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -999,6 +1025,7 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich sind.
 
 
 #### § 16 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003003124)
 
 In Rechtsverordnungen nach § 15 können Meldepflichten,
 Aufzeichnungspflichten, Pflichten zur Aufbewahrung von geschäftlichen
@@ -1010,6 +1037,7 @@ vorgeschrieben werden.
 
 
 #### § 17 Entnahme von Proben; Erhebung von Gebühren und Auslagen durch Behörden des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003117124)
 
 (1) Wer eine Vergünstigung in Anspruch nimmt oder an einer
 Intervention teilnimmt (Begünstigter), hat, soweit dies zur
@@ -1091,14 +1119,17 @@ Absatz 2 entgegenstehen.
 
 
 ## Abschnitt 3 - Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000504124)
 
 
 
 ### Titel 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000603124)
 
 
 
 #### § 18 Lizenzen, Erlaubnisse, Dokumente, Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003208119)
 
 (1) Lizenzen sowie Erlaubnisse und Genehmigungen im Sinne des § 27
 Nummer 2 Buchstabe b werden von der Marktordnungsstelle erteilt.
@@ -1112,6 +1143,7 @@ von der Marktordnungsstelle erteilt.
 
 
 #### § 19 Vorausfestsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003305124)
 
 Zuständig für die Vorausfestsetzung von Ausfuhrabgaben,
 Ausfuhrerstattungen und Beträgen, die zum Zwecke des
@@ -1120,6 +1152,7 @@ Marktordnungsstelle.
 
 
 #### § 20 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003405119)
 
 (1) Ist die Erteilung der in § 18 genannten Bescheide von der Stellung
 einer Sicherheit abhängig, so ist die Sicherheit durch Hinterlegung
@@ -1137,6 +1170,7 @@ Bundesrepublik Deutschland.
 
 
 #### § 21 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003511119)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -1171,6 +1205,7 @@ bestimmt oder bestimmbar sind. Hinsichtlich des Satzes 1 Nummer 2 gilt
 
 
 #### § 22 Mengenkontingente
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003606124)
 
 (1) Soweit Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3
 vorsehen, dass Genehmigungen im Sinne des § 18 Absatz 1 oder 2
@@ -1201,10 +1236,12 @@ Ausschreibung sind nach Maßgabe des Absatzes 1 festzulegen
 
 
 ### Titel 2 - Ausfuhrabgaben
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000703124)
 
 
 
 #### § 23 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003705119)
 
 (1) Soweit sich aus unmittelbar geltenden Regelungen im Sinne des § 1
 Absatz 2 Nummer 1 bis 3 nichts anderes ergibt oder in diesem Gesetz
@@ -1266,6 +1303,7 @@ geltenden Vorschriften.
 
 
 #### § 24 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003810124)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
@@ -1312,6 +1350,7 @@ erlassen werden.
 
 
 #### § 25 Befugnis zur Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE003905124)
 
 Die Behörden der Bundesfinanzverwaltung sind befugt, dem
 Bundesministerium und der Marktordnungsstelle Auskünfte über Umstände
@@ -1320,6 +1359,7 @@ Ausfuhrabgaben.
 
 
 #### § 26 Abgaben im innergemeinschaftlichen Handel
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004003124)
 
 Die Vorschriften dieses Gesetzes, die sich ausschließlich oder auch
 auf Ausfuhrabgaben beziehen, gelten sinngemäß für Abgaben, die beim
@@ -1328,10 +1368,12 @@ anderen Teilen des Zollgebiets der Gemeinschaft erhoben werden.
 
 
 ### Titel 3 - Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000803124)
 
 
 
 #### § 27 Zuständigkeiten und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004114124)
 
 Für Maßnahmen, die in Regelungen im Sinne des § 1 Absatz 2 Nummer 1
 bis 3 bei Marktstörungen oder drohenden Marktstörungen vorgesehen
@@ -1396,10 +1438,12 @@ folgenden Vorschriften:
 
 
 ### Titel 4 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG000903124)
 
 
 
 #### § 28 Überwachung des Fracht-, Post- und Reiseverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004213124)
 
 § 27 des Außenwirtschaftsgesetzes gilt für Marktordnungswaren
 hinsichtlich des Verbringens in dritte Länder und aus dritten Ländern
@@ -1448,18 +1492,22 @@ mit der Maßgabe, dass
 
 
 ## Abschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG001005124)
 
 
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004309124)
 
 
 
 ## Abschnitt 5 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG001104124)
 
 
 
 ### § 31 Zuständigkeit für die Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004511119)
 
 (1) Zuständig ist für die Durchführung von
 
@@ -1509,6 +1557,7 @@ Absatz 4 Satz 2 gilt entsprechend.
 
 
 ### § 31a Aufsicht; Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE007500119)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 untersteht bei der Durchführung einer ihr durch eine Regelung nach §
@@ -1540,6 +1589,7 @@ entstehen, vom Bund erstattet.
 
 
 ### § 32 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004611119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -1567,6 +1617,7 @@ Häufigkeit sowie Inhalt und Form der Meldungen und die Art der
 
 
 ### § 33 Allgemeine Prüfungsrechte und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004711124)
 
 (1) Das Bundesministerium, der Bundesrechnungshof, das Hauptzollamt,
 die Marktordnungsstelle und, wenn die Länder Regelungen im Sinne des §
@@ -1604,6 +1655,7 @@ würde.
 
 
 ### § 34 Öffentlich-rechtliche Streitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004807124)
 
 (1) In öffentlich-rechtlichen Streitigkeiten über Maßnahmen zur
 Durchführung einer gemeinsamen Marktorganisation ist der
@@ -1645,10 +1697,12 @@ die nach Absatz 1 Satz 1 der Finanzrechtsweg begründet ist, sind die
 
 
 ## Abschnitt 6 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG001501124)
 
 
 
 ### § 34a Betriebsdaten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006701124)
 
 (1) Betriebsdaten sind die in der Anlage bezeichneten Daten,
 
@@ -1679,6 +1733,7 @@ Abgabenordnung anwendbar ist, sind von Absatz 1 ausgenommen.
 
 
 ### § 34b Verarbeitung von Daten durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006802119)
 
 Die nach diesem Gesetz oder auf Grund des § 31 Absatz 2 oder 3
 zuständige Behörde oder die nach Landesrecht zuständige Behörde
@@ -1688,6 +1743,7 @@ im Sinne des § 34a Absatz 1 Nummer 1.
 
 
 ### § 34c Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006901124)
 
 (1) Die nach diesem Gesetz oder auf Grund des § 31 Absatz 2 oder 3
 zuständige Behörde oder die nach Landesrecht zuständige Behörde
@@ -1710,6 +1766,7 @@ Absatz 1 Nummer 1.
 
 
 ### § 34d Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE007002119)
 
 (1) Die Betriebsdaten sind durch die die Daten verarbeitenden Behörden
 unverzüglich zu löschen, sobald die Daten zur Erfüllung des Zwecks, zu
@@ -1723,6 +1780,7 @@ Aufbewahrungsfristen entgegenstehen.
 
 
 ### § 34e Verarbeitung weiterer Daten bei außergewöhnlichen Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE007403119)
 
 Die zuständigen Zahlstellen im Sinne des Integrierten Verwaltungs- und
 Kontrollsystems für Maßnahmen der Gemeinsamen Agrarpolitik übermitteln
@@ -1738,6 +1796,7 @@ entsprechend.
 
 
 ### § 34f Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE007103119)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Verwaltungsverfahren und technische und
@@ -1758,10 +1817,12 @@ Zustimmung des Bundesrates verlängert werden.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG001204124)
 
 
 
 ### § 35 Geltungsbereich der Straf- und Bußgeldvorschriften der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE004904124)
 
 Die nach § 12 Absatz 1 Satz 1 anzuwendenden Straf- und
 Bußgeldvorschriften der Abgabenordnung sowie die auf Zölle für
@@ -1772,6 +1833,7 @@ dieses Gesetzes begangen werden.
 
 
 ### § 36 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005009124)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 unrichtige oder unvollständige Angaben tatsächlicher Art macht oder
@@ -1908,6 +1970,7 @@ eingezogen werden.
 
 
 ### § 37 Befugnisse der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005109124)
 
 (1) Die Staatsanwaltschaft kann bei
 
@@ -1962,6 +2025,7 @@ anordnen.
 
 
 ### § 38 Straf- und Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005213124)
 
 (1) Soweit für Straftaten der in § 37 Absatz 1 Satz 1 bezeichneten Art
 das Amtsgericht sachlich zuständig ist, ist örtlich zuständig das
@@ -2031,10 +2095,12 @@ Stellungnahme.
 
 
 ## Abschnitt 8 - Erweiterung der Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG001304124)
 
 
 
 ### § 39 Gewährung von Ausgleichsbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005306124)
 
 Ausgleichsbeträge, die im Falle des Beitritts neuer Mitgliedstaaten
 zur Europäischen Gemeinschaft oder Europäischen Union auf Grund der
@@ -2047,6 +2113,7 @@ Ausfuhrerstattungen gleich, soweit sich aus Regelungen im Sinne des §
 
 
 ### § 40 Besondere Maßnahmen bei wirtschaftlichen Schwierigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005412124)
 
 (1) Auf Maßnahmen, die im Rahmen der Beitrittsakte oder der Protokolle
 zum Beitrittsvertrag zur Erleichterung oder Beseitigung von
@@ -2079,10 +2146,12 @@ Durchführung zuständige Stelle bestimmt werden.
 
 
 ## Abschnitt 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNG001407124)
 
 
 
 ### § 41 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE005703124)
 
 (1) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass
 von Rechtsverordnungen des Bundes fortgefallen sind, können
@@ -2099,6 +2168,7 @@ entsprechend.
 
 
 ### § 42 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006002124)
 
 Für Vorschriften des Verwaltungsverfahrens in Rechtsverordnungen auf
 Grund
@@ -2136,10 +2206,12 @@ anzuwenden.
 
 
 ### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE006103119)
 
 
 
 ### § 44 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE007201124)
 
 (1) Bis zum Ablauf des 30. April 2016 ist § 4 in der am 22. Januar
 2016 geltenden Fassung weiter anzuwenden.
@@ -2171,6 +2243,7 @@ dieses Gesetzes erlassen worden sind, gilt bis zu ihrer erstmaligen
 
 
 ### Anlage (zu § 34a Absatz 1 und § 34f Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mog/BJNR016170972.html#BJNR016170972BJNE007304119)
 
 (Fundstelle: BGBl. I 2017, 3764;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

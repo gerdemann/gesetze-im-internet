@@ -42,10 +42,12 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 
 ## Abschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNG000101377)
 
 
 
 ### § 1 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE000601377)
 
 (1) Der Sortenschutzantrag ist in zweifacher Ausfertigung, der Antrag
 auf Sortenzulassung in dreifacher Ausfertigung zu stellen; die
@@ -81,6 +83,7 @@ Anforderungen an die Prüfungen fest und teilt diese auf Anfrage mit.
 
 
 ### § 1a Zulassung der elektronischen Form
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE002600377)
 
 Beim Bundessortenamt können in folgenden Antragsverfahren
 elektronische Dokumente eingereicht werden:
@@ -95,6 +98,7 @@ elektronische Dokumente eingereicht werden:
 
 
 ### § 1b Art und Weise der Einreichung der Anträge in elektronischer Form
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE002703301)
 
 (1) Die elektronischen Dokumente sind in der Anlage bezeichneten Art
 und Weise einzureichen.
@@ -106,6 +110,7 @@ handschriftliche Unterschrift zwingend notwendig.
 
 
 ### § 2 Registerprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE000705360)
 
 (1) Das Bundessortenamt beginnt die Prüfung der Sorte auf
 Unterscheidbarkeit, Homogenität und Beständigkeit (Registerprüfung) in
@@ -154,6 +159,7 @@ der Wertprüfung heranziehen.
 
 
 ### § 3 Wertprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE000801377)
 
 (1) Das Bundessortenamt beginnt im Verfahren der Sortenzulassung die
 Prüfung der Sorte auf landeskulturellen Wert (Wertprüfung), sobald es
@@ -182,6 +188,7 @@ Registerprüfung heranziehen.
 
 
 ### § 4 Prüfung der physiologischen Merkmale bei Rebe
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE000901377)
 
 (1) Im Verfahren der Sortenzulassung gilt für die Prüfung der
 physiologischen Merkmale bei Sorten von Rebe § 3 Abs. 1 bis 3 und 5
@@ -193,6 +200,7 @@ oder unter amtlicher Überwachung angelegt und ausgewertet worden sind.
 
 
 ### § 5 Vermehrungsmaterial, Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001001377)
 
 Das Bundessortenamt bestimmt, wann, wo und in welcher Menge und
 Beschaffenheit das Vermehrungsmaterial oder Saatgut für die
@@ -204,6 +212,7 @@ vorgeschrieben oder gestattet hat.
 
 
 ### § 6 Durchführung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001104377)
 
 (1) Unter Berücksichtigung der botanischen Gegebenheiten wählt das
 Bundessortenamt für die einzelnen Arten die für die Unterscheidbarkeit
@@ -247,6 +256,7 @@ Anbauweise oder Nutzungsrichtung gesondert durchgeführt.
 
 
 ### § 7 Prüfungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001201377)
 
 Das Bundessortenamt übersendet dem Antragsteller jeweils einen
 Prüfungsbericht, sobald es das Ergebnis der Registerprüfung, der
@@ -255,6 +265,7 @@ Merkmale zur Beurteilung der Sorte für ausreichend hält.
 
 
 ### § 8 Nachprüfung des Fortbestehens der Sorte, Überwachung der Sortenerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001301377)
 
 (1) Für die Nachprüfung des Fortbestehens der geschützten Sorten und
 die Überwachung der Erhaltung der zugelassenen Sorten gelten die §§ 5
@@ -290,6 +301,7 @@ dem Züchter einen Prüfungsbericht.
 
 
 ### § 9 Anbau- und Marktbedeutung
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001401377)
 
 Zur Feststellung der Anbau- und Marktbedeutung einer Sorte nach § 36
 Abs. 2 Nr. 2 des Saatgutverkehrsgesetzes kann das Bundessortenamt die
@@ -297,16 +309,19 @@ Sorte anbauen. Die §§ 5 und 6 gelten entsprechend.
 
 
 ### § 10 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001501377)
 
 Als Blatt für Bekanntmachungen des Bundessortenamtes wird das vom
 Bundessortenamt herausgegebene Blatt für Sortenwesen bestimmt.
 
 
 ## Abschnitt 2 - Anerkennung von Saatgut nicht zugelassener Sorten
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNG000201377)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001602377)
 
 (1) Saatgut von Sorten nach § 55 Abs. 1 des Saatgutverkehrsgesetzes
 und von Sorten, die in einem der Sortenliste entsprechenden
@@ -331,18 +346,22 @@ Bescheid.
 
 
 ## Abschnitt 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNG000307301)
 
 
 
 ### (XXXX) §§ 12 bis 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE001708301)
 
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNG000401377)
 
 
 
 ### § 15 Verkehr mit anderen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE002002377)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 der Kommission der Europäischen Gemeinschaft obliegt dem
@@ -351,6 +370,7 @@ Saatgutverkehrsgesetzes zuständig ist.
 
 
 ### § 16 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE002506119)
 
 Prüfungsgebühren, bei denen die Gebührenschuld nach § 13 Absatz 1 Satz
 2 vor dem 1. Januar 2020 entstanden ist, sind nach den bis zum 31.
@@ -358,11 +378,13 @@ Dezember 2019 geltenden Vorschriften dieser Verordnung zu erheben.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE002203377)
 
 (Inkrafttreten)
 
 
 ### Anlage (zu § 1b Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bsavfv/BJNR000230986.html#BJNR000230986BJNE002803301)
 
 (Fundstelle: BGBl. I 2007, 578 - 579; \*% bzgl. der einzelnen
 Änderungen vgl. Fußnote)

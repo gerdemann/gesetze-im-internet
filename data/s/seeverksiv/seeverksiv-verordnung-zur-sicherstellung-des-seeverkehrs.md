@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000100326)
 
 Auf Grund des § 1 Abs. 1 und Abs. 2 Nr. 2 bis 4, der §§ 3, 5 Abs. 1,
 des § 19 Abs. 8 und des § 29 des Verkehrssicherstellungsgesetzes in
@@ -28,6 +29,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000200326)
 
 (1) Zweck dieser Verordnung ist es, sicherzustellen, daß in einem
 Verteidigungsfall sowie in einer Zeit, in der die
@@ -42,6 +44,7 @@ berechtigt sind, die Bundesflagge zu führen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000300326)
 
 Die Seeverkehrsbehörden können Reeder und Ausrüster von Seeschiffen
 verpflichten, zur Sicherung ihrer Seeschiffe bei der Ausführung von
@@ -66,6 +69,7 @@ geeignet sind,
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000400326)
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster von
 Seeschiffen verpflichten, ihre Seeschiffe zur Sicherung bei der
@@ -74,6 +78,7 @@ Ausführung von Seereisen entmagnetisieren zu lassen
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000500326)
 
 Die Führer von Seeschiffen sind verpflichtet, sich bei der Führung
 ihres Seeschiffs auf See und in den Häfen so zu verhalten, daß ihr
@@ -90,6 +95,7 @@ benutzen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000600326)
 
 (1) Die Führer von Seeschiffen sind verpflichtet, unverzüglich nach
 dem Anlaufen eines Hafens oder Liegeplatzes außerhalb des
@@ -132,6 +138,7 @@ des weiteren Einsatzes des Seeschiffs erforderlich ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000700326)
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster verpflichten,
 bei der Beladung des Seeschiffs eine bestimmte Reihenfolge zu beachten
@@ -139,6 +146,7 @@ und eine bestimmte Ladezeit einzuhalten.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000800326)
 
 (1) Die Hafenbehörden können die Reeder, Ausrüster oder Führer von
 Seeschiffen verpflichten, beim Güterumschlag, bei der Abfertigung und
@@ -156,6 +164,7 @@ Ladungsempfänger oder deren Beauftragte verpflichtet werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE000900326)
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster von
 Seeschiffen verpflichten, ihre Seeschiffe in Häfen sowie an
@@ -166,6 +175,7 @@ nicht, wenn die Seeschiffe aufgelegt sind.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001001305)
 
 Maßnahmen zum Umbau oder Aufliegen von Seeschiffen, durch die diese
 Seeschiffe vorübergehend nicht benutzbar werden, bedürfen der
@@ -181,6 +191,7 @@ Verkehrsleistungen gefährdet wird.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001100326)
 
 Anstelle der Reeder oder Ausrüster können die Führer von Seeschiffen
 nach den §§ 2, 3, 6 und 8 verpflichtet werden, wenn die Verpflichtung
@@ -194,12 +205,14 @@ Bundeswasserstraßen befindet.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001204123)
 
 Seeverkehrsbehörde im Sinne dieser Verordnung ist die Generaldirektion
 Wasserstraßen und Schifffahrt.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001300326)
 
 Diese Verordnung gilt mit Ausnahme der §§ 2, 3 und 5 auch für
 Binnenschiffe, die im Binnenschiffsregister eines deutschen Gerichts
@@ -209,6 +222,7 @@ Tragfähigkeit haben.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001401308)
 
 Diese Verordnung findet keine Anwendung auf Schiffe der Streitkräfte,
 der Bundespolizei und der Wasserschutzpolizeien sowie auf die Schiffe,
@@ -220,6 +234,7 @@ Verordnung Anwendung.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001501123)
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -305,6 +320,7 @@ Verkehrssicherstellungsgesetzes ist
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/seeverksiv/BJNR012100978.html#BJNR012100978BJNE001603305)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

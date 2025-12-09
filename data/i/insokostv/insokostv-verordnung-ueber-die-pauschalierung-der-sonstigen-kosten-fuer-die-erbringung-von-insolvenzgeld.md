@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/insokostv/BJNR086700999.html#BJNR086700999BJNE000100307)
 
 Auf Grund des § 362 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - vom 24. März 1997 (BGBl. I S. 594) verordnet das
@@ -30,12 +31,14 @@ Unfallversicherungsträger:
 
 
 ## § 1 Pauschalierung sonstiger Kosten
+[Direktlink](https://www.gesetze-im-internet.de/insokostv/BJNR086700999.html#BJNR086700999BJNE000200307)
 
 Die sonstigen Kosten, die mit der Erbringung des Insolvenzgeldes
 zusammenhängen, werden pauschaliert.
 
 
 ## § 2 Bemessung der Pauschale
+[Direktlink](https://www.gesetze-im-internet.de/insokostv/BJNR086700999.html#BJNR086700999BJNE000305140)
 
 Als Pauschale sind die Beträge, die die Bundesagentur für Arbeit für
 Insolvenzgeld und für die Beiträge nach § 175 des Dritten Buches
@@ -56,11 +59,13 @@ sonstigen Kosten anzurechnen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/insokostv/BJNR086700999.html#BJNR086700999BJNE000400307)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1999 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/insokostv/BJNR086700999.html#BJNR086700999BJNE000500307)
 
 Der Bundesrat hat zugestimmt.
 

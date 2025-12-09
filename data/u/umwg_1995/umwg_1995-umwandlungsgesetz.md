@@ -48,10 +48,12 @@ Richtlinien der Europäischen Gemeinschaft:
 
 
 ## Erstes Buch - Möglichkeiten von Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG036800000)
 
 
 
 ### § 1 Arten der Umwandlung; gesetzliche Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE000301377)
 
 (1) Rechtsträger mit Sitz im Inland können umgewandelt werden
 
@@ -80,18 +82,22 @@ denn, daß dieses Gesetz eine abschließende Regelung enthält.
 
 
 ## Zweites Buch - Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG036900000)
 
 
 
 ### Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037000000)
 
 
 
 #### Erster Abschnitt - Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG000400000)
 
 
 
 ##### § 2 Arten der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE000502377)
 
 Rechtsträger können unter Auflösung ohne Abwicklung verschmolzen
 werden
@@ -114,6 +120,7 @@ Partner, Aktionäre oder Mitglieder) der übertragenden Rechtsträger.
 
 
 ##### § 3 Verschmelzungsfähige Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE000602360)
 
 (1) An Verschmelzungen können als übertragende, übernehmende oder neue
 Rechtsträger beteiligt sein:
@@ -164,10 +171,12 @@ bestimmt ist.
 
 
 #### Zweiter Abschnitt - Verschmelzung durch Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG000700000)
 
 
 
 ##### § 4 Verschmelzungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE000801377)
 
 (1) Die Vertretungsorgane der an der Verschmelzung beteiligten
 Rechtsträger schließen einen Verschmelzungsvertrag. § 311b Abs. 2 des
@@ -179,6 +188,7 @@ schriftlicher Entwurf des Vertrags aufzustellen.
 
 
 ##### § 5 Inhalt des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE000901307)
 
 (1) Der Vertrag oder sein Entwurf muß mindestens folgende Angaben
 enthalten:
@@ -244,11 +254,13 @@ dieses Rechtsträgers zuzuleiten.
 
 
 ##### § 6 Form des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001000000)
 
 Der Verschmelzungsvertrag muß notariell beurkundet werden.
 
 
 ##### § 7 Kündigung des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001100000)
 
 Ist der Verschmelzungsvertrag unter einer Bedingung geschlossen worden
 und ist diese binnen fünf Jahren nach Abschluß des Vertrags nicht
@@ -260,6 +272,7 @@ gegenüber sie erklärt wird, ausgesprochen werden.
 
 
 ##### § 8 Verschmelzungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001201360)
 
 (1) Die Vertretungsorgane jedes der an der Verschmelzung beteiligten
 Rechtsträger haben einen ausführlichen schriftlichen Bericht
@@ -326,6 +339,7 @@ ferner nicht erforderlich
 
 
 ##### § 9 Prüfung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001301360)
 
 (1) Soweit in diesem Gesetz vorgeschrieben, ist der
 Verschmelzungsvertrag oder sein Entwurf durch einen oder mehrere
@@ -335,6 +349,7 @@ sachverständige Prüfer (Verschmelzungsprüfer) zu prüfen.
 
 
 ##### § 10 Bestellung der Verschmelzungsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001403140)
 
 (1) Die Verschmelzungsprüfer werden auf Antrag des Vertretungsorgans
 vom Gericht ausgewählt und bestellt. Sie können auf gemeinsamen Antrag
@@ -366,6 +381,7 @@ Landesjustizverwaltung übertragen.
 
 
 ##### § 11 Stellung und Verantwortlichkeit der Verschmelzungsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001503360)
 
 (1) Für die Auswahl und das Auskunftsrecht der Verschmelzungsprüfer
 gelten § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs.
@@ -400,6 +416,7 @@ Verschmelzung beteiligten Rechtsträgern und deren Anteilsinhabern.
 
 
 ##### § 12 Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001601360)
 
 (1) Die Verschmelzungsprüfer haben über das Ergebnis der Prüfung
 schriftlich zu berichten. Der Prüfungsbericht kann auch gemeinsam
@@ -439,6 +456,7 @@ anzugeben,
 
 
 ##### § 13 Beschlüsse über den Verschmelzungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001700000)
 
 (1) Der Verschmelzungsvertrag wird nur wirksam, wenn die
 Anteilsinhaber der beteiligten Rechtsträger ihm durch Beschluß
@@ -461,6 +479,7 @@ Niederschrift des Beschlusses zu erteilen.
 
 
 ##### § 14 Befristung und Ausschluß von Klagen gegen den Verschmelzungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001801360)
 
 (1) Eine Klage gegen die Wirksamkeit eines Verschmelzungsbeschlusses
 muß binnen eines Monats nach der Beschlußfassung erhoben werden.
@@ -473,6 +492,7 @@ oder die Mitgliedschaft bei dem übertragenden Rechtsträger ist.
 
 
 ##### § 15 Verbesserung des Umtauschverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE001905360)
 
 (1) Ist das Umtauschverhältnis der Anteile nicht angemessen oder ist
 die Mitgliedschaft bei dem übernehmenden Rechtsträger kein
@@ -495,6 +515,7 @@ Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
 
 ##### § 16 Anmeldung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002004360)
 
 (1) Die Vertretungsorgane jedes der an der Verschmelzung beteiligten
 Rechtsträger haben die Verschmelzung zur Eintragung in das Register
@@ -563,6 +584,7 @@ Wirkungen der Eintragung der Verschmelzung im Register des Sitzes des
 
 
 ##### § 17 Anlagen der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002103360)
 
 (1) Der Anmeldung sind in Ausfertigung oder öffentlich beglaubigter
 Abschrift oder, soweit sie nicht notariell zu beurkunden sind, in
@@ -586,6 +608,7 @@ Anmeldung liegenden Stichtag aufgestellt worden ist.
 
 
 ##### § 18 Firma oder Name des übernehmenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002202307)
 
 (1) Der übernehmende Rechtsträger darf die Firma eines der
 übertragenden Rechtsträger, dessen Handelsgeschäft er durch die
@@ -609,6 +632,7 @@ anzuwenden.
 
 
 ##### § 19 Eintragung und Bekanntmachung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002303360)
 
 (1) Die Verschmelzung darf in das Register des Sitzes des
 übernehmenden Rechtsträgers erst eingetragen werden, nachdem sie im
@@ -637,6 +661,7 @@ bekanntzumachen.
 
 
 ##### § 20 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002400000)
 
 (1) Die Eintragung der Verschmelzung in das Register des Sitzes des
 übernehmenden Rechtsträgers hat folgende Wirkungen:
@@ -674,6 +699,7 @@ Absatz 1 unberührt.
 
 
 ##### § 21 Wirkung auf gegenseitige Verträge
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002500000)
 
 Treffen bei einer Verschmelzung aus gegenseitigen Verträgen, die zur
 Zeit der Verschmelzung von keiner Seite vollständig erfüllt sind,
@@ -685,6 +711,7 @@ Würdigung der vertraglichen Rechte aller Beteiligten.
 
 
 ##### § 22 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002603125)
 
 (1) Den Gläubigern der an der Verschmelzung beteiligten Rechtsträger
 ist, wenn sie binnen sechs Monaten nach dem Tag, an dem die Eintragung
@@ -704,6 +731,7 @@ Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
 
 ##### § 23 Schutz der Inhaber von Sonderrechten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002700000)
 
 Den Inhabern von Rechten in einem übertragenden Rechtsträger, die kein
 Stimmrecht gewähren, insbesondere den Inhabern von Anteilen ohne
@@ -713,6 +741,7 @@ Rechte in dem übernehmenden Rechtsträger zu gewähren.
 
 
 ##### § 24 Wertansätze des übernehmenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002800000)
 
 In den Jahresbilanzen des übernehmenden Rechtsträgers können als
 Anschaffungskosten im Sinne des § 253 Abs. 1 des Handelsgesetzbuchs
@@ -721,6 +750,7 @@ angesetzten Werte angesetzt werden.
 
 
 ##### § 25 Schadenersatzpflicht der Verwaltungsträger der übertragenden Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE002901377)
 
 (1) Die Mitglieder des Vertretungsorgans und, wenn ein Aufsichtsorgan
 vorhanden ist, des Aufsichtsorgans eines übertragenden Rechtsträgers
@@ -744,6 +774,7 @@ ist.
 
 
 ##### § 26 Geltendmachung des Schadenersatzanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003005360)
 
 (1) Die Ansprüche nach § 25 Abs. 1 und 2 können nur durch einen
 besonderen Vertreter geltend gemacht werden. Das Gericht des Sitzes
@@ -784,6 +815,7 @@ Zivilprozeßordnung statt.
 
 
 ##### § 27 Schadenersatzpflicht der Verwaltungsträger des übernehmenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003101377)
 
 Ansprüche auf Schadenersatz, die sich auf Grund der Verschmelzung
 gegen ein Mitglied des Vertretungsorgans oder, wenn ein Aufsichtsorgan
@@ -794,6 +826,7 @@ Rechtsträgers nach § 19 Abs. 3 bekannt gemacht worden ist.
 
 
 ##### § 28 Unwirksamkeit des Verschmelzungsbeschlusses eines übertragenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003200000)
 
 Nach Eintragung der Verschmelzung in das Register des Sitzes des
 übernehmenden Rechtsträgers ist eine Klage gegen die Wirksamkeit des
@@ -802,6 +835,7 @@ Verschmelzungsbeschlusses eines übertragenden Rechtsträgers gegen den
 
 
 ##### § 29 Abfindungsangebot im Verschmelzungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003303360)
 
 (1) Bei der Verschmelzung eines Rechtsträgers im Wege der Aufnahme
 durch einen Rechtsträger anderer Rechtsform oder bei der Verschmelzung
@@ -834,6 +868,7 @@ Beschlußfassung nicht ordnungsgemäß bekanntgemacht worden ist.
 
 
 ##### § 30 Inhalt des Anspruchs auf Barabfindung und Prüfung der Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003400000)
 
 (1) Die Barabfindung muß die Verhältnisse des übertragenden
 Rechtsträgers im Zeitpunkt der Beschlußfassung über die Verschmelzung
@@ -848,6 +883,7 @@ notariell zu beurkunden.
 
 
 ##### § 31 Annahme des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003502360)
 
 Das Angebot nach § 29 kann nur binnen zwei Monaten nach dem Tage
 angenommen werden, an dem die Eintragung der Verschmelzung in das
@@ -859,6 +895,7 @@ die Entscheidung im Bundesanzeiger bekanntgemacht worden ist.
 
 
 ##### § 32 Ausschluß von Klagen gegen den Verschmelzungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003601360)
 
 Eine Klage gegen die Wirksamkeit des Verschmelzungsbeschlusses eines
 übertragenden Rechtsträgers kann nicht darauf gestützt werden, daß das
@@ -868,6 +905,7 @@ ist.
 
 
 ##### § 33 Anderweitige Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003702360)
 
 Einer anderweitigen Veräußerung des Anteils durch einen
 Anteilsinhaber, der nach § 29 Adressat des Abfindungsangebots ist,
@@ -877,6 +915,7 @@ beteiligten Rechtsträgern nicht entgegen.
 
 
 ##### § 34 Gerichtliche Nachprüfung der Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003802360)
 
 Macht ein Anteilsinhaber geltend, daß eine im Verschmelzungsvertrag
 oder in seinem Entwurf bestimmte Barabfindung, die ihm nach § 29
@@ -887,6 +926,7 @@ Barabfindung nicht oder nicht ordnungsgemäß angeboten worden ist.
 
 
 ##### § 35 Bezeichnung unbekannter Aktionäre; Ruhen des Stimmrechts
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE003901377)
 
 Unbekannte Aktionäre einer übertragenden Aktiengesellschaft oder
 Kommanditgesellschaft auf Aktien sind im Verschmelzungsvertrag, bei
@@ -905,6 +945,7 @@ Zeitpunkt kann das Stimmrecht aus den betreffenden Anteilen in dem
 
 
 ##### § 35a Interessenausgleich und Betriebsübergang
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040200360)
 
 (1) Kommt ein Interessenausgleich nach § 112 des
 Betriebsverfassungsgesetzes zustande, in dem diejenigen Arbeitnehmer
@@ -918,10 +959,12 @@ durch die Wirkungen der Eintragung einer Verschmelzung unberührt.
 
 
 #### Dritter Abschnitt - Verschmelzung durch Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG004000000)
 
 
 
 ##### § 36 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004100000)
 
 (1) Auf die Verschmelzung durch Neugründung sind die Vorschriften des
 Zweiten Abschnitts mit Ausnahme des § 16 Abs. 1 und des § 27
@@ -939,6 +982,7 @@ eine Mindestzahl der Gründer vorschreiben, sind nicht anzuwenden.
 
 
 ##### § 37 Inhalt des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004202377)
 
 In dem Verschmelzungsvertrag muß der Gesellschaftsvertrag, der
 Partnerschaftsvertrag oder die Satzung des neuen Rechtsträgers
@@ -946,6 +990,7 @@ enthalten sein oder festgestellt werden.
 
 
 ##### § 38 Anmeldung der Verschmelzung und des neuen Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004300000)
 
 (1) Die Vertretungsorgane jedes der übertragenden Rechtsträger haben
 die Verschmelzung zur Eintragung in das Register des Sitzes ihres
@@ -957,18 +1002,22 @@ haben soll, zur Eintragung in das Register anzumelden.
 
 
 ### Zweiter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037101307)
 
 
 
 #### Erster Abschnitt - Verschmelzung unter Beteiligung von Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG004401307)
 
 
 
 ##### Erster Unterabschnitt - Verschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041400360)
 
 
 
 ###### § 39 Ausschluss der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039000360)
 
 Eine aufgelöste Gesellschaft bürgerlichen Rechts kann sich nicht als
 übertragender Rechtsträger an einer Verschmelzung beteiligen, wenn die
@@ -978,6 +1027,7 @@ haben.
 
 
 ###### § 39a Verschmelzungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039100360)
 
 Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte
 Gesellschaft bürgerlichen Rechts nicht erforderlich, wenn alle
@@ -986,6 +1036,7 @@ sind.
 
 
 ###### § 39b Unterrichtung der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039200360)
 
 Der Verschmelzungsvertrag oder sein Entwurf und der
 Verschmelzungsbericht sind den Gesellschaftern, die von der Befugnis
@@ -996,6 +1047,7 @@ Einberufung der Gesellschafterversammlung, die gemäß § 13 Absatz 1
 
 
 ###### § 39c Beschluss der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039300360)
 
 (1) Der Verschmelzungsbeschluss der Gesellschafterversammlung bedarf
 der Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die
@@ -1007,6 +1059,7 @@ abgegebenen Stimmen betragen.
 
 
 ###### § 39d Widerspruch gegen den Beschluss der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039400360)
 
 Widerspricht ein Gesellschafter einer übernehmenden Gesellschaft
 bürgerlichen Rechts der Verschmelzung, hat sie zu unterbleiben. Das
@@ -1016,6 +1069,7 @@ Rechts widerspricht.
 
 
 ###### § 39e Prüfung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039500360)
 
 Im Fall des § 39c Absatz 2 ist der Verschmelzungsvertrag oder sein
 Entwurf für eine Gesellschaft bürgerlichen Rechts nach den §§ 9 bis 12
@@ -1025,6 +1079,7 @@ erhalten hat. Die Kosten der Prüfung trägt die Gesellschaft.
 
 
 ###### § 39f Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE039600360)
 
 (1) Überträgt eine Gesellschaft bürgerlichen Rechts ihr Vermögen durch
 Verschmelzung auf einen Rechtsträger anderer Rechtsform, dessen
@@ -1053,10 +1108,12 @@ in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 
 
 ##### Zweiter Unterabschnitt - Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040901360)
 
 
 
 ###### § 40 Inhalt des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004600000)
 
 (1) Der Verschmelzungsvertrag oder sein Entwurf hat zusätzlich für
 jeden Anteilsinhaber eines übertragenden Rechtsträgers zu bestimmen,
@@ -1073,6 +1130,7 @@ Verschmelzungsbeschluß des übertragenden Rechtsträgers zustimmen.
 
 
 ###### § 41 Widerspruch gegen den Beschluss der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004701360)
 
 Widerspricht ein Anteilsinhaber eines übertragenden Rechtsträgers, der
 für dessen Verbindlichkeiten persönlich unbeschränkt haftet, der
@@ -1085,24 +1143,30 @@ widerspricht.
 
 
 ###### § 42 Entsprechend anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004801360)
 
 Die §§ 39, 39a, 39b, 39c, 39e und 39f sind entsprechend anzuwenden.
 
 
 ###### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE004902360)
 
 
 ###### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005002360)
 
 
 ###### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005103360)
 
 
 ##### Dritter Unterabschnitt - Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041001360)
 
 
 
 ###### § 45a Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE036800307)
 
 Eine Verschmelzung auf eine Partnerschaftsgesellschaft ist nur
 möglich, wenn im Zeitpunkt ihres Wirksamwerdens alle Anteilsinhaber
@@ -1113,6 +1177,7 @@ Partnerschaftsgesellschaftsgesetzes bleibt unberührt.
 
 
 ###### § 45b Inhalt des Verschmelzungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE036900307)
 
 (1) Der Verschmelzungsvertrag oder sein Entwurf hat zusätzlich für
 jeden Anteilsinhaber eines übertragenden Rechtsträgers den Namen und
@@ -1123,6 +1188,7 @@ ausgeübten Beruf und den Wohnort jedes Partners zu enthalten.
 
 
 ###### § 45c Verschmelzungsbericht und Unterrichtung der Partner
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE037001360)
 
 Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte
 Partnerschaftsgesellschaft nur erforderlich, wenn ein Partner gemäß §
@@ -1132,6 +1198,7 @@ ausgeschlossene Partner sind entsprechend § 39b zu unterrichten.
 
 
 ###### § 45d Beschluß der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE037100307)
 
 (1) Der Verschmelzungsbeschluß der Gesellschafterversammlung bedarf
 der Zustimmung aller anwesenden Partner; ihm müssen auch die nicht
@@ -1143,20 +1210,24 @@ abgegebenen Stimmen betragen.
 
 
 ###### § 45e Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE037201360)
 
 Die §§ 39 und 39f sind entsprechend anzuwenden. In den Fällen des §
 45d Abs. 2 ist auch § 39e entsprechend anzuwenden.
 
 
 #### Zweiter Abschnitt - Verschmelzung unter Beteiligung von Gesellschaften mit beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG005200000)
 
 
 
 ##### Erster Unterabschnitt - Verschmelzung durch Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037200000)
 
 
 
 ###### § 46 Inhalt des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005305140)
 
 (1) Der Verschmelzungsvertrag oder sein Entwurf hat zusätzlich für
 jeden Anteilsinhaber eines übertragenden Rechtsträgers den Nennbetrag
@@ -1182,6 +1253,7 @@ Entwurf besonders bestimmt werden.
 
 
 ###### § 47 Unterrichtung der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005400000)
 
 Der Verschmelzungsvertrag oder sein Entwurf und der
 Verschmelzungsbericht sind den Gesellschaftern spätestens zusammen mit
@@ -1190,6 +1262,7 @@ der Einberufung der Gesellschafterversammlung, die gemäß § 13 Abs. 1
 
 
 ###### § 48 Prüfung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005502360)
 
 Der Verschmelzungsvertrag oder sein Entwurf ist für eine Gesellschaft
 mit beschränkter Haftung nach den §§ 9 bis 12 zu prüfen, wenn dies
@@ -1202,6 +1275,7 @@ der Prüfung trägt die Gesellschaft.
 
 
 ###### § 49 Vorbereitung der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005600000)
 
 (1) Die Geschäftsführer haben in der Einberufung der
 Gesellschafterversammlung, die gemäß § 13 Abs. 1 über die Zustimmung
@@ -1219,6 +1293,7 @@ Angelegenheiten der anderen beteiligten Rechtsträger zu geben.
 
 
 ###### § 50 Beschluß der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005700000)
 
 (1) Der Verschmelzungsbeschluß der Gesellschafterversammlung bedarf
 einer Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen.
@@ -1237,6 +1312,7 @@ Zustimmung dieser Gesellschafter.
 
 
 ###### § 51 Zustimmungserfordernisse in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005805360)
 
 (1) Ist an der Verschmelzung eine Gesellschaft mit beschränkter
 Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen
@@ -1260,6 +1336,7 @@ beteiligen kann.
 
 
 ###### § 52 Anmeldung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE005904360)
 
 Bei der Anmeldung der Verschmelzung zur Eintragung in das Register
 haben die Vertretungsorgane der an der Verschmelzung beteiligten
@@ -1278,6 +1355,7 @@ zugestimmt haben.
 
 
 ###### § 53 Eintragung bei Erhöhung des Stammkapitals
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006000000)
 
 Erhöht die übernehmende Gesellschaft zur Durchführung der
 Verschmelzung ihr Stammkapital, so darf die Verschmelzung erst
@@ -1286,6 +1364,7 @@ eingetragen worden ist.
 
 
 ###### § 54 Verschmelzung ohne Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006103140)
 
 (1) Die übernehmende Gesellschaft darf zur Durchführung der
 Verschmelzung ihr Stammkapital nicht erhöhen, soweit
@@ -1342,6 +1421,7 @@ Geschäftsanteile der übernehmenden Gesellschaft übersteigen.
 
 
 ###### § 55 Verschmelzung mit Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006203360)
 
 (1) Erhöht die übernehmende Gesellschaft zur Durchführung der
 Verschmelzung ihr Stammkapital, so sind § 55 Abs. 1, §§ 56a, 57 Abs.
@@ -1360,10 +1440,12 @@ Absatz 2 entsprechend.
 
 
 ##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037300000)
 
 
 
 ###### § 56 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006301360)
 
 Auf die Verschmelzung durch Neugründung sind die Vorschriften des
 Ersten Unterabschnitts mit Ausnahme der §§ 51 bis 53, 54 Absatz 1 bis
@@ -1371,6 +1453,7 @@ Ersten Unterabschnitts mit Ausnahme der §§ 51 bis 53, 54 Absatz 1 bis
 
 
 ###### § 57 Inhalt des Gesellschaftsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006402377)
 
 In den Gesellschaftsvertrag sind Festsetzungen über Sondervorteile,
 Gründungsaufwand, Sacheinlagen und Sachübernahmen, die in den
@@ -1379,6 +1462,7 @@ Gesellschaftsverträgen, Partnerschaftsverträgen oder Satzungen
 
 
 ###### § 58 Sachgründungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006500000)
 
 (1) In dem Sachgründungsbericht (§ 5 Abs. 4 des Gesetzes betreffend
 die Gesellschaften mit beschränkter Haftung) sind auch der
@@ -1391,6 +1475,7 @@ Kapitalgesellschaft oder eine eingetragene Genossenschaft
 
 
 ###### § 59 Verschmelzungsbeschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006601377)
 
 Der Gesellschaftsvertrag der neuen Gesellschaft wird nur wirksam, wenn
 ihm die Anteilsinhaber jedes der übertragenden Rechtsträger durch
@@ -1401,14 +1486,17 @@ der neuen Gesellschaft, soweit sie von den Anteilsinhabern der
 
 
 #### Dritter Abschnitt - Verschmelzung unter Beteiligung von Aktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG006700000)
 
 
 
 ##### Erster Unterabschnitt - Verschmelzung durch Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037400000)
 
 
 
 ###### § 60 Prüfung der Verschmelzung, Bestellung der Verschmelzungsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006802360)
 
 Der Verschmelzungsvertrag oder sein Entwurf ist für jede
 Aktiengesellschaft nach den §§ 9 bis 12 zu prüfen. § 9 Absatz 2 und §
@@ -1418,6 +1506,7 @@ Rechtsträger erforderlich ist.
 
 
 ###### § 61 Bekanntmachung des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE006902360)
 
 Der Verschmelzungsvertrag oder sein Entwurf ist vor der
 Hauptversammlung, die gemäß § 13 Abs. 1 über die Zustimmung
@@ -1430,6 +1519,7 @@ Verschmelzungsvertrag gemäß § 13 beschließen.
 
 
 ###### § 62 Konzernverschmelzungen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007003360)
 
 (1) Befinden sich mindestens neun Zehntel des Stammkapitals oder des
 Grundkapitals einer übertragenden Kapitalgesellschaft in der Hand
@@ -1510,6 +1600,7 @@ Aktiengesellschaft wirksam wird. Im Übrigen bleiben die §§ 327a bis
 
 
 ###### § 63 Vorbereitung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007104360)
 
 (1) Von der Einberufung der Hauptversammlung an, die gemäß § 13 Abs. 1
 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
@@ -1565,6 +1656,7 @@ Internetseite der Gesellschaft zugänglich sind.
 
 
 ###### § 64 Durchführung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007203360)
 
 (1) In der Hauptversammlung sind die in § 63 Absatz 1 bezeichneten
 Unterlagen zugänglich zu machen. Der Vorstand hat den
@@ -1584,6 +1676,7 @@ anderen beteiligten Rechtsträger zu geben.
 
 
 ###### § 65 Beschluß der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007300000)
 
 (1) Der Verschmelzungsbeschluß der Hauptversammlung bedarf einer
 Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung
@@ -1598,6 +1691,7 @@ gilt Absatz 1.
 
 
 ###### § 66 Eintragung bei Erhöhung des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007400000)
 
 Erhöht die übernehmende Gesellschaft zur Durchführung der
 Verschmelzung ihr Grundkapital, so darf die Verschmelzung erst
@@ -1606,6 +1700,7 @@ Grundkapitals im Register eingetragen worden ist.
 
 
 ###### § 67 Anwendung der Vorschriften über die Nachgründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007502377)
 
 Wird der Verschmelzungsvertrag in den ersten zwei Jahren seit
 Eintragung der übernehmenden Gesellschaft in das Register geschlossen,
@@ -1621,6 +1716,7 @@ erhöhte Grundkapital zugrunde zu legen.
 
 
 ###### § 68 Verschmelzung ohne Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007602377)
 
 (1) Die übernehmende Gesellschaft darf zur Durchführung der
 Verschmelzung ihr Grundkapital nicht erhöhen, soweit
@@ -1666,6 +1762,7 @@ Gesellschaft entfallenden anteiligen Betrags ihres Grundkapitals
 
 
 ###### § 69 Verschmelzung mit Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007707360)
 
 (1) Erhöht die übernehmende Gesellschaft zur Durchführung der
 Verschmelzung ihr Grundkapital, so sind § 182 Abs. 4, § 184 Abs. 1
@@ -1696,6 +1793,7 @@ Absatz 2 entsprechend.
 
 
 ###### § 70 Geltendmachung eines Schadenersatzanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007800000)
 
 Die Bestellung eines besonderen Vertreters nach § 26 Abs. 1 Satz 2
 können nur solche Aktionäre einer übertragenden Gesellschaft
@@ -1704,6 +1802,7 @@ Rechtsträgers umgetauscht haben.
 
 
 ###### § 71 Bestellung eines Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE007900000)
 
 (1) Jeder übertragende Rechtsträger hat für den Empfang der zu
 gewährenden Aktien und der baren Zuzahlungen einen Treuhänder zu
@@ -1715,6 +1814,7 @@ der im Verschmelzungsvertrag festgesetzten baren Zuzahlungen ist.
 
 
 ###### § 72 Umtausch von Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008000000)
 
 (1) Für den Umtausch der Aktien einer übertragenden Gesellschaft gilt
 § 73 Abs. 1 und 2 des Aktiengesetzes, bei Zusammenlegung von Aktien
@@ -1729,6 +1829,7 @@ Aktiengesetzes entsprechend.
 
 
 ###### § 72a Gewährung zusätzlicher Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040300360)
 
 (1) Im Verschmelzungsvertrag können die beteiligten Rechtsträger
 erklären, dass anstelle einer baren Zuzahlung (§ 15) zusätzliche
@@ -1818,6 +1919,7 @@ gewährenden Aktien trägt die Gesellschaft.
 
 
 ###### § 72b Kapitalerhöhung zur Gewährung zusätzlicher Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040400360)
 
 (1) Die gemäß § 72a Absatz 1 Satz 1 und Absatz 2 Satz 1 zusätzlich zu
 gewährenden Aktien können nach Maßgabe der Absätze 1 bis 4 durch eine
@@ -1889,10 +1991,12 @@ Absatz 2 entsprechend.
 
 
 ##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037500000)
 
 
 
 ###### § 73 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008101360)
 
 Auf die Verschmelzung durch Neugründung sind die Vorschriften des
 Ersten Unterabschnitts mit Ausnahme der §§ 66, 68 Abs. 1 und 2 und des
@@ -1900,6 +2004,7 @@ Ersten Unterabschnitts mit Ausnahme der §§ 66, 68 Abs. 1 und 2 und des
 
 
 ###### § 74 Inhalt der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008202377)
 
 In die Satzung sind Festsetzungen über Sondervorteile,
 Gründungsaufwand, Sacheinlagen und Sachübernahmen, die in den
@@ -1909,6 +2014,7 @@ und 5 des Aktiengesetzes bleibt unberührt.
 
 
 ###### § 75 Gründungsbericht und Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008301360)
 
 (1) In dem Gründungsbericht (§ 32 des Aktiengesetzes) sind auch der
 Geschäftsverlauf und die Lage der übertragenden Rechtsträger
@@ -1921,6 +2027,7 @@ Genossenschaft übertragender Rechtsträger ist.
 
 
 ###### § 76 Verschmelzungsbeschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008402360)
 
 Die Satzung der neuen Gesellschaft wird nur wirksam, wenn ihr die
 Anteilsinhaber jedes der übertragenden Rechtsträger durch
@@ -1932,15 +2039,18 @@ und 3 des Aktiengesetzes entsprechend anzuwenden.
 
 
 ###### § 77 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008501377)
 
 -
 
 
 #### Vierter Abschnitt - Verschmelzung unter Beteiligung von Kommanditgesellschaften auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG008600000)
 
 
 
 ##### § 78 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008700000)
 
 Auf Verschmelzungen unter Beteiligung von Kommanditgesellschaften auf
 Aktien sind die Vorschriften des Dritten Abschnitts entsprechend
@@ -1956,14 +2066,17 @@ Rechtsform im Sinne der §§ 29 und 34.
 
 
 #### Fünfter Abschnitt - Verschmelzung unter Beteiligung eingetragener Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG008800000)
 
 
 
 ##### Erster Unterabschnitt - Verschmelzung durch Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037600000)
 
 
 
 ###### § 79 Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE008901377)
 
 Ein Rechtsträger anderer Rechtsform kann im Wege der Aufnahme mit
 einer eingetragenen Genossenschaft nur verschmolzen werden, wenn eine
@@ -1972,6 +2085,7 @@ gleichzeitig mit der Verschmelzung beschlossen wird.
 
 
 ###### § 80 Inhalt des Verschmelzungsvertrags bei Aufnahme durch eine Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009002377)
 
 (1) Der Verschmelzungsvertrag oder sein Entwurf hat bei
 Verschmelzungen im Wege der Aufnahme durch eine eingetragene
@@ -2009,6 +2123,7 @@ denen er bei der Genossenschaft beteiligt wird.
 
 
 ###### § 81 Gutachten des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009101377)
 
 (1) Vor der Einberufung der Generalversammlung, die gemäß § 13 Abs. 1
 über die Zustimmung zum Verschmelzungsvertrag beschließen soll, ist
@@ -2027,6 +2142,7 @@ durchgeführt werden.
 
 
 ###### § 82 Vorbereitung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009203123)
 
 (1) Von der Einberufung der Generalversammlung an, die gemäß § 13 Abs.
 1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll, sind
@@ -2045,6 +2161,7 @@ Zeitraum über die Internetseite der Genossenschaft zugänglich sind.
 
 
 ###### § 83 Durchführung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009300000)
 
 (1) In der Generalversammlung sind die in § 63 Abs. 1 Nr. 1 bis 4
 bezeichneten Unterlagen sowie die nach § 81 erstatteten
@@ -2059,6 +2176,7 @@ teilzunehmen.
 
 
 ###### § 84 Beschluß der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009401377)
 
 Der Verschmelzungsbeschluß der Generalversammlung bedarf einer
 Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann
@@ -2066,6 +2184,7 @@ eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
 
 ###### § 85 Verbesserung des Umtauschverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009502360)
 
 (1) § 14 Absatz 2 und § 15 sind nicht anzuwenden auf Mitglieder einer
 übernehmenden Genossenschaft.
@@ -2082,6 +2201,7 @@ Geschäftsanteile des Mitglieds bei der übernehmenden Genossenschaft
 
 
 ###### § 86 Anlagen der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009600000)
 
 (1) Der Anmeldung der Verschmelzung ist außer den sonst erforderlichen
 Unterlagen auch das für die anmeldende Genossenschaft erstattete
@@ -2095,6 +2215,7 @@ oder in öffentlich beglaubigter Abschrift beizufügen.
 
 
 ###### § 87 Anteilstausch
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009703140)
 
 (1) Auf Grund der Verschmelzung ist jedes Mitglied einer übertragenden
 Genossenschaft entsprechend dem Verschmelzungsvertrag an dem
@@ -2128,6 +2249,7 @@ Schlußbilanz maßgebend.
 
 
 ###### § 88 Geschäftsguthaben bei der Aufnahme von Kapitalgesellschaften und rechtsfähigen Vereinen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009802377)
 
 (1) Ist an der Verschmelzung eine Kapitalgesellschaft als
 übertragender Rechtsträger beteiligt, so ist jedem Anteilsinhaber
@@ -2154,6 +2276,7 @@ mit denen es an der übernehmenden Genossenschaft beteiligt ist.
 
 
 ###### § 89 Eintragung der Genossen in die Mitgliederliste; Benachrichtigung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE009902377)
 
 (1) Die übernehmende Genossenschaft hat jedes neue Mitglied nach der
 Eintragung der Verschmelzung in das Register des Sitzes der
@@ -2190,6 +2313,7 @@ der übertragenden Gesellschaft, unverzüglich in Textform mitzuteilen:
 
 
 ###### § 90 Ausschlagung durch einzelne Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010001377)
 
 (1) Die §§ 29 bis 34 sind auf die Mitglieder einer übertragenden
 Genossenschaft nicht anzuwenden.
@@ -2221,6 +2345,7 @@ der Beschlußfassung nicht Vertreter ist.
 
 
 ###### § 91 Form und Frist der Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010101377)
 
 (1) Die Ausschlagung ist gegenüber dem übernehmenden Rechtsträger
 schriftlich zu erklären.
@@ -2235,6 +2360,7 @@ Zeitbestimmung erklärt werden.
 
 
 ###### § 92 Eintragung der Ausschlagung in die Mitgliederliste
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010201377)
 
 (1) Die übernehmende Genossenschaft hat jede Ausschlagung unverzüglich
 in die Mitgliederliste einzutragen und das Mitglied von der Eintragung
@@ -2245,6 +2371,7 @@ Ausschlagungserklärung dem übernehmenden Rechtsträger zugeht.
 
 
 ###### § 93 Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010302377)
 
 (1) Mit einem früheren Mitglied, dessen Beteiligung an dem
 übernehmenden Rechtsträger nach § 90 Abs. 2 als nicht erworben gilt,
@@ -2274,6 +2401,7 @@ ihrer Mitglieder berechnet.
 
 
 ###### § 94 Auszahlung des Auseinandersetzungsguthabens
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010401377)
 
 Ansprüche auf Auszahlung des Geschäftsguthabens nach § 93 Abs. 2 sind
 binnen sechs Monaten seit der Ausschlagung zu befriedigen; die
@@ -2285,6 +2413,7 @@ Rechtsträgers nach § 19 Abs. 3 bekannt gemacht worden ist.
 
 
 ###### § 95 Fortdauer der Nachschußpflicht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010502377)
 
 (1) Ist die Haftsumme bei einer übernehmenden Genossenschaft geringer,
 als sie bei einer übertragenden Genossenschaft war, oder haften den
@@ -2307,16 +2436,19 @@ gemacht worden ist.
 
 
 ##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037700000)
 
 
 
 ###### § 96 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010600000)
 
 Auf die Verschmelzung durch Neugründung sind die Vorschriften des
 Ersten Unterabschnitts entsprechend anzuwenden.
 
 
 ###### § 97 Pflichten der Vertretungsorgane der übertragenden Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010701377)
 
 (1) Die Satzung der neuen Genossenschaft ist durch sämtliche
 Mitglieder des Vertretungsorgans jedes der übertragenden Rechtsträger
@@ -2331,6 +2463,7 @@ festgesetzt ist.
 
 
 ###### § 98 Verschmelzungsbeschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE010801377)
 
 Die Satzung der neuen Genossenschaft wird nur wirksam, wenn ihm die
 Anteilsinhaber jedes der übertragenden Rechtsträger durch
@@ -2342,10 +2475,12 @@ Rechtsträger bestellt worden ist.
 
 
 #### Sechster Abschnitt - Verschmelzung unter Beteiligung rechtsfähiger Vereine
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG010900000)
 
 
 
 ##### § 99 Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011001307)
 
 (1) Ein rechtsfähiger Verein kann sich an einer Verschmelzung nur
 beteiligen, wenn die Satzung des Vereins oder Vorschriften des
@@ -2357,6 +2492,7 @@ Verschmelzung solcher Rechtsträger nicht gegründet werden.
 
 
 ##### § 100 Prüfung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011101125)
 
 Der Verschmelzungsvertrag oder sein Entwurf ist für einen
 wirtschaftlichen Verein nach den §§ 9 bis 12 zu prüfen. Bei einem
@@ -2365,6 +2501,7 @@ mindestens zehn vom Hundert der Mitglieder sie in Textform verlangen.
 
 
 ##### § 101 Vorbereitung der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011201360)
 
 (1) Von der Einberufung der Mitgliederversammlung an, die gemäß § 13
 Abs. 1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
@@ -2379,6 +2516,7 @@ Abschrift der in Absatz 1 bezeichneten Unterlagen zu erteilen.
 
 
 ##### § 102 Durchführung der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011300000)
 
 In der Mitgliederversammlung sind die in § 63 Abs. 1 Nr. 1 bis 4
 bezeichneten Unterlagen sowie ein nach § 100 erforderlicher
@@ -2387,6 +2525,7 @@ entsprechend anzuwenden.
 
 
 ##### § 103 Beschluß der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011401140)
 
 Der Verschmelzungsbeschluß der Mitgliederversammlung bedarf einer
 Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann
@@ -2394,6 +2533,7 @@ eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
 
 ##### § 104 Bekanntmachung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011503360)
 
 (1) Ist ein übertragender wirtschaftlicher Verein nicht in ein
 Handelsregister eingetragen, so hat sein Vorstand die bevorstehende
@@ -2411,6 +2551,7 @@ beizufügen.
 
 
 ##### § 104a Ausschluß der Barabfindung in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011600000)
 
 Die §§ 29 bis 34 sind auf die Verschmelzung eines eingetragenen
 Vereins, der nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von
@@ -2418,10 +2559,12 @@ der Körperschaftsteuer befreit ist, nicht anzuwenden.
 
 
 #### Siebenter Abschnitt - Verschmelzung genossenschaftlicher Prüfungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG011700000)
 
 
 
 ##### § 105 Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011802123)
 
 Genossenschaftliche Prüfungsverbände können nur miteinander
 verschmolzen werden. Ein genossenschaftlicher Prüfungsverband kann
@@ -2432,12 +2575,14 @@ Behörde dem Verschmelzungsvertrag zugestimmt hat.
 
 
 ##### § 106 Vorbereitung, Durchführung und Beschluß der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE011900000)
 
 Auf die Vorbereitung, die Durchführung und den Beschluß der
 Mitgliederversammlung sind die §§ 101 bis 103 entsprechend anzuwenden.
 
 
 ##### § 107 Pflichten der Vorstände
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012001377)
 
 (1) Die Vorstände beider Verbände haben die Verschmelzung
 gemeinschaftlich unverzüglich zur Eintragung in die Register des
@@ -2454,6 +2599,7 @@ unverzüglich von der Eintragung zu benachrichtigen.
 
 
 ##### § 108 Austritt von Mitgliedern des übertragenden Verbandes
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012100000)
 
 Tritt ein ehemaliges Mitglied des übertragenden Verbandes gemäß § 39
 des Bürgerlichen Gesetzbuchs aus dem übernehmenden Verband aus, so
@@ -2463,14 +2609,17 @@ als zum Schlusse des Geschäftsjahres vorsehen, nicht anzuwenden.
 
 
 #### Achter Abschnitt - Verschmelzung von Versicherungsvereinen auf Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG012200000)
 
 
 
 ##### Erster Unterabschnitt - Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037800000)
 
 
 
 ###### § 109 Verschmelzungsfähige Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012300000)
 
 Versicherungsvereine auf Gegenseitigkeit können nur miteinander
 verschmolzen werden. Sie können ferner im Wege der Verschmelzung durch
@@ -2480,10 +2629,12 @@ werden.
 
 
 ##### Zweiter Unterabschnitt - Verschmelzung durch Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG037900000)
 
 
 
 ###### § 110 Inhalt des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012400000)
 
 Sind nur Versicherungsvereine auf Gegenseitigkeit an der Verschmelzung
 beteiligt, braucht der Verschmelzungsvertrag oder sein Entwurf die
@@ -2491,6 +2642,7 @@ Angaben nach § 5 Abs. 1 Nr. 3 bis 5 und 7 nicht zu enthalten.
 
 
 ###### § 111 Bekanntmachung des Verschmelzungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012501377)
 
 Der Verschmelzungsvertrag oder sein Entwurf ist vor der Einberufung
 der obersten Vertretung, die gemäß § 13 Abs. 1 über die Zustimmung zum
@@ -2501,6 +2653,7 @@ Entwurf beim Handelsregister eingereicht worden ist.
 
 
 ###### § 112 Vorbereitung, Durchführung und Beschluß der Versammlung der obersten Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012601360)
 
 (1) Von der Einberufung der Versammlung der obersten Vertretung an,
 die gemäß § 13 Abs. 1 über die Zustimmung zum Verschmelzungsvertrag
@@ -2519,6 +2672,7 @@ eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
 
 ###### § 113 Keine gerichtliche Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012700000)
 
 Sind nur Versicherungsvereine auf Gegenseitigkeit an der Verschmelzung
 beteiligt, findet eine gerichtliche Nachprüfung des
@@ -2526,10 +2680,12 @@ Umtauschverhältnisses der Mitgliedschaften nicht statt.
 
 
 ##### Dritter Unterabschnitt - Verschmelzung durch Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038000000)
 
 
 
 ###### § 114 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012800000)
 
 Auf die Verschmelzung durch Neugründung sind die Vorschriften des
 Zweiten Unterabschnitts entsprechend anzuwenden, soweit sich aus den
@@ -2537,6 +2693,7 @@ folgenden Vorschriften nichts anderes ergibt.
 
 
 ###### § 115 Bestellung der Vereinsorgane
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE012900000)
 
 Die Vorstände der übertragenden Vereine haben den ersten Aufsichtsrat
 des neuen Rechtsträgers und den Abschlußprüfer für das erste Voll-
@@ -2546,6 +2703,7 @@ Vorstand.
 
 
 ###### § 116 Beschlüsse der obersten Vertretungen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013001360)
 
 (1) Die Satzung des neuen Rechtsträgers und die Bestellung seiner
 Aufsichtsratsmitglieder bedürfen der Zustimmung der übertragenden
@@ -2564,6 +2722,7 @@ Aufsichtsratsmitglieder der Mitglieder des Vereins.
 
 
 ###### § 117 Entstehung und Bekanntmachung des neuen Vereins
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013101377)
 
 Vor der Eintragung in das Register besteht ein neuer Verein als
 solcher nicht. Wer vor der Eintragung des Vereins in seinem Namen
@@ -2572,10 +2731,12 @@ Gesamtschuldner.
 
 
 ##### Vierter Unterabschnitt - Verschmelzung kleinerer Vereine
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038100000)
 
 
 
 ###### § 118 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013203360)
 
 Auf die Verschmelzung kleinerer Vereine im Sinne des § 210 des
 Versicherungsaufsichtsgesetzes sind die Vorschriften des Zweiten und
@@ -2587,6 +2748,7 @@ Bekanntmachung im Bundesanzeiger nach § 119.
 
 
 ###### § 119 Bekanntmachung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013302360)
 
 Sobald die Verschmelzung von allen beteiligten Aufsichtsbehörden
 genehmigt worden ist, macht die für den übernehmenden kleineren Verein
@@ -2597,10 +2759,12 @@ Bundesanzeiger bekannt.
 
 
 #### Neunter Abschnitt - Verschmelzung von Kapitalgesellschaften mit dem Vermögen eines Alleingesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG013400000)
 
 
 
 ##### § 120 Möglichkeit der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013500000)
 
 (1) Ist eine Verschmelzung nach den Vorschriften des Ersten bis Achten
 Abschnitts nicht möglich, so kann eine Kapitalgesellschaft im Wege der
@@ -2615,12 +2779,14 @@ Verschmelzung dem Gesellschafter oder Aktionär zugerechnet.
 
 
 ##### § 121 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013600000)
 
 Auf die Kapitalgesellschaft sind die für ihre Rechtsform geltenden
 Vorschriften des Ersten und Zweiten Teils anzuwenden.
 
 
 ##### § 122 Eintragung in das Handelsregister
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013701307)
 
 (1) Ein noch nicht in das Handelsregister eingetragener
 Alleingesellschafter oder Alleinaktionär ist nach den Vorschriften des
@@ -2633,18 +2799,22 @@ Register des Sitzes der übertragenden Kapitalgesellschaft ein.
 
 
 ## Drittes Buch - Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038200000)
 
 
 
 ### Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038300000)
 
 
 
 #### Erster Abschnitt - Möglichkeit der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG013800000)
 
 
 
 ##### § 123 Arten der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE013900000)
 
 (1) Ein Rechtsträger (übertragender Rechtsträger) kann unter Auflösung
 ohne Abwicklung sein Vermögen aufspalten
@@ -2704,6 +2874,7 @@ bestehende und neue Rechtsträger erfolgen.
 
 
 ##### § 124 Spaltungsfähige Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014000000)
 
 (1) An einer Aufspaltung oder einer Abspaltung können als
 übertragende, übernehmende oder neue Rechtsträger die in § 3 Abs. 1
@@ -2719,6 +2890,7 @@ die nicht Gebietskörperschaften sind, beteiligt sein.
 
 
 ##### § 125 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014103360)
 
 (1) Soweit sich aus diesem Buch nichts anderes ergibt, sind die
 Vorschriften des Zweiten Buches auf die Spaltung mit folgenden
@@ -2752,10 +2924,12 @@ Rechtsträger.
 
 
 #### Zweiter Abschnitt - Spaltung zur Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG014200000)
 
 
 
 ##### § 126 Inhalt des Spaltungs- und Übernahmevertrags
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014301307)
 
 (1) Der Spaltungs- und Übernahmevertrag oder sein Entwurf muß
 mindestens folgende Angaben enthalten:
@@ -2838,6 +3012,7 @@ zuständigen Betriebsrat dieses Rechtsträgers zuzuleiten.
 
 
 ##### § 127 Spaltungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014401360)
 
 Die Vertretungsorgane jedes der an der Spaltung beteiligten
 Rechtsträger haben einen ausführlichen schriftlichen Bericht zu
@@ -2855,6 +3030,7 @@ ist § 8 Absatz 3 Satz 3 Nummer 1 Buchstabe a nicht anzuwenden.
 
 
 ##### § 128 Zustimmung zur Spaltung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014500000)
 
 Werden bei Aufspaltung oder Abspaltung die Anteile oder
 Mitgliedschaften der übernehmenden Rechtsträger den Anteilsinhabern
@@ -2867,12 +3043,14 @@ der jeweils zu übertragende Teil des Vermögens zugrunde zu legen.
 
 
 ##### § 129 Anmeldung der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014600000)
 
 Zur Anmeldung der Spaltung ist auch das Vertretungsorgan jedes der
 übernehmenden Rechtsträger berechtigt.
 
 
 ##### § 130 Eintragung der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014704377)
 
 (1) Die Spaltung darf in das Register des Sitzes des übertragenden
 Rechtsträgers erst eingetragen werden, nachdem sie im Register des
@@ -2895,6 +3073,7 @@ des übertragenden Rechtsträgers zu vermerken.
 
 
 ##### § 131 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014802377)
 
 (1) Die Eintragung der Spaltung in das Register des Sitzes des
 übertragenden Rechtsträgers hat folgende Wirkungen:
@@ -2949,6 +3128,7 @@ ist sein Gegenwert in dem bezeichneten Verhältnis zu verteilen.
 
 
 ##### § 132 Kündigungsschutzrecht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE014902360)
 
 (1) Führen an einer Spaltung beteiligte Rechtsträger nach dem
 Wirksamwerden der Spaltung einen Betrieb gemeinsam, so gilt dieser als
@@ -2962,6 +3142,7 @@ Wirksamwerdens nicht.
 
 
 ##### § 132a Mitbestimmungsbeibehaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040500360)
 
 (1) Entfallen durch Abspaltung oder Ausgliederung bei einem
 übertragenden Rechtsträger die gesetzlichen Voraussetzungen für die
@@ -2982,6 +3163,7 @@ Betriebsverfassungsgesetzes bleiben unberührt.
 
 
 ##### § 133 Schutz der Gläubiger und der Inhaber von Sonderrechten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015004360)
 
 (1) Für die Verbindlichkeiten des übertragenden Rechtsträgers, die vor
 dem Wirksamwerden der Spaltung begründet worden sind, haften die an
@@ -3028,6 +3210,7 @@ Beginn der Verjährung gilt Absatz 4 Satz 1 entsprechend.
 
 
 ##### § 134 Schutz der Gläubiger in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015101377)
 
 (1) Spaltet ein Rechtsträger sein Vermögen in der Weise, daß die zur
 Führung eines Betriebes notwendigen Vermögensteile im wesentlichen auf
@@ -3058,10 +3241,12 @@ bezeichneten Tage beginnt.
 
 
 #### Dritter Abschnitt - Spaltung zur Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG015200000)
 
 
 
 ##### § 135 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015301360)
 
 (1) Auf die Spaltung eines Rechtsträgers zur Neugründung sind die
 Vorschriften des Zweiten Abschnitts entsprechend anzuwenden, jedoch
@@ -3084,6 +3269,7 @@ nicht erforderlich.
 
 
 ##### § 136 Spaltungsplan
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015400000)
 
 Das Vertretungsorgan des übertragenden Rechtsträgers hat einen
 Spaltungsplan aufzustellen. Der Spaltungsplan tritt an die Stelle des
@@ -3091,6 +3277,7 @@ Spaltungs- und Übernahmevertrags.
 
 
 ##### § 137 Anmeldung und Eintragung der neuen Rechtsträger und der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015504360)
 
 (1) Das Vertretungsorgan des übertragenden Rechtsträgers hat jeden der
 neuen Rechtsträger bei dem Gericht, in dessen Bezirk er seinen Sitz
@@ -3115,20 +3302,24 @@ von Amts wegen einzutragen.
 
 
 ### Zweiter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038400000)
 
 
 
 #### Erster Abschnitt - Spaltung unter Beteiligung von Gesellschaften mit beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG015600000)
 
 
 
 ##### § 138 Sachgründungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015700000)
 
 Ein Sachgründungsbericht (§ 5 Abs. 4 des Gesetzes betreffend die
 Gesellschaften mit beschränkter Haftung) ist stets erforderlich.
 
 
 ##### § 139 Herabsetzung des Stammkapitals
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015800000)
 
 Ist zur Durchführung der Abspaltung oder der Ausgliederung eine
 Herabsetzung des Stammkapitals einer übertragenden Gesellschaft mit
@@ -3139,6 +3330,7 @@ die Herabsetzung des Stammkapitals im Register eingetragen worden ist.
 
 
 ##### § 140 Anmeldung der Abspaltung oder der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE015900000)
 
 Bei der Anmeldung der Abspaltung oder der Ausgliederung zur Eintragung
 in das Register des Sitzes einer übertragenden Gesellschaft mit
@@ -3150,10 +3342,12 @@ vorliegen.
 
 
 #### Zweiter Abschnitt - Spaltung unter Beteiligung von Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG016000000)
 
 
 
 ##### § 141 Ausschluss der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016101377)
 
 Eine Aktiengesellschaft oder eine Kommanditgesellschaft auf Aktien,
 die noch nicht zwei Jahre im Register eingetragen ist, kann außer
@@ -3161,6 +3355,7 @@ durch Ausgliederung zur Neugründung nicht gespalten werden.
 
 
 ##### § 142 Spaltung mit Kapitalerhöhung, Spaltungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016201360)
 
 (1) § 69 ist mit der Maßgabe anzuwenden, daß eine Prüfung der
 Sacheinlage nach § 183 Abs. 3 des Aktiengesetzes stets stattzufinden
@@ -3173,6 +3368,7 @@ Register, bei dem dieser Bericht zu hinterlegen ist, hinzuweisen.
 
 
 ##### § 142a Verpflichtungen nach § 72a
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040600360)
 
 Verpflichtungen des übertragenden Rechtsträgers zur Gewährung
 zusätzlicher Aktien gemäß § 72a Absatz 1 Satz 1 und Absatz 2 Satz 1
@@ -3185,6 +3381,7 @@ Kommanditgesellschaft auf Aktien über.
 
 
 ##### § 143 Verhältniswahrende Spaltung zur Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016301360)
 
 Erfolgt die Gewährung von Aktien an der neu gegründeten
 Aktiengesellschaft oder an den neu gegründeten Aktiengesellschaften (§
@@ -3195,6 +3392,7 @@ anzuwenden.
 
 
 ##### § 144 Gründungsbericht und Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016400000)
 
 Ein Gründungsbericht (§ 32 des Aktiengesetzes) und eine
 Gründungsprüfung (§ 33 Abs. 2 des Aktiengesetzes) sind stets
@@ -3202,6 +3400,7 @@ erforderlich.
 
 
 ##### § 145 Herabsetzung des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016500000)
 
 Ist zur Durchführung der Abspaltung oder der Ausgliederung eine
 Herabsetzung des Grundkapitals einer übertragenden Aktiengesellschaft
@@ -3213,6 +3412,7 @@ Grundkapitals im Register eingetragen worden ist.
 
 
 ##### § 146 Anmeldung der Abspaltung oder der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016600000)
 
 (1) Bei der Anmeldung der Abspaltung oder der Ausgliederung zur
 Eintragung in das Register des Sitzes einer übertragenden
@@ -3236,10 +3436,12 @@ sonst erforderlichen Unterlagen auch beizufügen:
 
 
 #### Dritter Abschnitt - Spaltung unter Beteiligung eingetragener Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG016700000)
 
 
 
 ##### § 147 Möglichkeit der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016801377)
 
 Die Spaltung eines Rechtsträgers anderer Rechtsform zur Aufnahme von
 Teilen seines Vermögens durch eine eingetragene Genossenschaft kann
@@ -3249,6 +3451,7 @@ wird.
 
 
 ##### § 148 Anmeldung der Abspaltung oder der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE016901377)
 
 (1) Bei der Anmeldung der Abspaltung oder der Ausgliederung zur
 Eintragung in das Register des Sitzes einer übertragenden
@@ -3270,10 +3473,12 @@ sonst erforderlichen Unterlagen auch beizufügen:
 
 
 #### Vierter Abschnitt - Spaltung unter Beteiligung rechtsfähiger Vereine
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG017000000)
 
 
 
 ##### § 149 Möglichkeit der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE017100000)
 
 (1) Ein rechtsfähiger Verein kann sich an einer Spaltung nur
 beteiligen, wenn die Satzung des Vereins oder Vorschriften des
@@ -3285,10 +3490,12 @@ ihnen einen eingetragenen Verein gründen.
 
 
 #### Fünfter Abschnitt - Spaltung unter Beteiligung genossenschaftlicher Prüfungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG017200000)
 
 
 
 ##### § 150 Möglichkeit der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE017300000)
 
 Die Aufspaltung genossenschaftlicher Prüfungsverbände oder die
 Abspaltung oder Ausgliederung von Teilen eines solchen Verbandes kann
@@ -3299,10 +3506,12 @@ Neugründung einer Kapitalgesellschaft erfolgen.
 
 
 #### Sechster Abschnitt - Spaltung unter Beteiligung von Versicherungsvereinen auf Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG017400000)
 
 
 
 ##### § 151 Möglichkeit der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE017501377)
 
 Die Spaltung unter Beteiligung von Versicherungsvereinen auf
 Gegenseitigkeit kann nur durch Aufspaltung oder Abspaltung und nur in
@@ -3317,14 +3526,17 @@ Versicherungsverträgen verbunden ist.
 
 
 #### Siebenter Abschnitt - Ausgliederung aus dem Vermögen eines Einzelkaufmanns
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG017600000)
 
 
 
 ##### Erster Unterabschnitt - Möglichkeit der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038500000)
 
 
 
 ###### § 152 Übernehmende oder neue Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE017700000)
 
 Die Ausgliederung des von einem Einzelkaufmann betriebenen
 Unternehmens, dessen Firma im Handelsregister eingetragen ist, oder
@@ -3337,16 +3549,19 @@ Einzelkaufmanns sein Vermögen übersteigen.
 
 
 ##### Zweiter Unterabschnitt - Ausgliederung zur Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038600000)
 
 
 
 ###### § 153 Ausgliederungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE017800000)
 
 Ein Ausgliederungsbericht ist für den Einzelkaufmann nicht
 erforderlich.
 
 
 ###### § 154 Eintragung der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE017900000)
 
 Das Gericht des Sitzes des Einzelkaufmanns hat die Eintragung der
 Ausgliederung auch dann abzulehnen, wenn offensichtlich ist, daß die
@@ -3354,6 +3569,7 @@ Verbindlichkeiten des Einzelkaufmanns sein Vermögen übersteigen.
 
 
 ###### § 155 Wirkungen der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018000000)
 
 Erfaßt die Ausgliederung das gesamte Unternehmen des Einzelkaufmanns,
 so bewirkt die Eintragung der Ausgliederung nach § 131 das Erlöschen
@@ -3362,6 +3578,7 @@ ist von Amts wegen in das Register einzutragen.
 
 
 ###### § 156 Haftung des Einzelkaufmanns
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018100000)
 
 Durch den Übergang der Verbindlichkeiten auf übernehmende oder neue
 Gesellschaften wird der Einzelkaufmann von der Haftung für die
@@ -3370,6 +3587,7 @@ ist nicht anzuwenden.
 
 
 ###### § 157 Zeitliche Begrenzung der Haftung für übertragene Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018203360)
 
 (1) Der Einzelkaufmann haftet für die im Ausgliederungs- und
 Übernahmevertrag aufgeführten Verbindlichkeiten, wenn sie vor Ablauf
@@ -3397,10 +3615,12 @@ in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 
 
 ##### Dritter Unterabschnitt - Ausgliederung zur Neugründung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038700000)
 
 
 
 ###### § 158 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018300000)
 
 Auf die Ausgliederung zur Neugründung sind die Vorschriften des
 Zweiten Unterabschnitts entsprechend anzuwenden, soweit sich aus
@@ -3408,6 +3628,7 @@ diesem Unterabschnitt nichts anderes ergibt.
 
 
 ###### § 159 Sachgründungsbericht, Gründungsbericht und Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018400000)
 
 (1) Auf den Sachgründungsbericht (§ 5 Abs. 4 des Gesetzes betreffend
 die Gesellschaften mit beschränkter Haftung) ist § 58 Abs. 1, auf den
@@ -3433,6 +3654,7 @@ aufgeführt worden sind.
 
 
 ###### § 160 Anmeldung und Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018500000)
 
 (1) Die Anmeldung nach § 137 Abs. 1 ist von dem Einzelkaufmann und den
 Geschäftsführern oder den Mitgliedern des Vorstands und des
@@ -3443,10 +3665,12 @@ Verbindlichkeiten des Einzelkaufmanns sein Vermögen übersteigen.
 
 
 #### Achter Abschnitt - Ausgliederung aus dem Vermögen rechtsfähiger Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG018600000)
 
 
 
 ##### § 161 Möglichkeit der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018700000)
 
 Die Ausgliederung des von einer rechtsfähigen Stiftung (§ 80 des
 Bürgerlichen Gesetzbuchs) betriebenen Unternehmens oder von Teilen
@@ -3457,6 +3681,7 @@ Neugründung von Kapitalgesellschaften erfolgen.
 
 
 ##### § 162 Ausgliederungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018800000)
 
 (1) Ein Ausgliederungsbericht ist nur erforderlich, wenn die
 Ausgliederung nach § 164 Abs. 1 der staatlichen Genehmigung bedarf
@@ -3470,6 +3695,7 @@ Ausgliederungsbericht der zuständigen Behörde und dem Stifter zu
 
 
 ##### § 163 Beschluß über den Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE018900000)
 
 (1) Auf den Ausgliederungsbeschluß sind die Vorschriften des
 Stiftungsrechts für die Beschlußfassung über Satzungsänderungen
@@ -3486,6 +3712,7 @@ notariell beurkundet werden.
 
 
 ##### § 164 Genehmigung der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019000000)
 
 (1) Die Ausgliederung bedarf der staatlichen Genehmigung, sofern das
 Stiftungsrecht dies vorsieht.
@@ -3497,6 +3724,7 @@ die Verbindlichkeiten der Stiftung ihr Vermögen übersteigen.
 
 
 ##### § 165 Sachgründungsbericht und Gründungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019100000)
 
 Auf den Sachgründungsbericht (§ 5 Abs. 4 des Gesetzes betreffend die
 Gesellschaften mit beschränkter Haftung) ist § 58 Abs. 1, auf den
@@ -3505,6 +3733,7 @@ anzuwenden.
 
 
 ##### § 166 Haftung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019200000)
 
 Durch den Übergang der Verbindlichkeiten auf übernehmende oder neue
 Gesellschaften wird die Stiftung von der Haftung für die
@@ -3513,6 +3742,7 @@ ist nicht anzuwenden.
 
 
 ##### § 167 Zeitliche Begrenzung der Haftung für übertragene Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019300000)
 
 Auf die zeitliche Begrenzung der Haftung der Stiftung für die im
 Ausgliederungs- und Übernahmevertrag aufgeführten Verbindlichkeiten
@@ -3520,10 +3750,12 @@ ist § 157 entsprechend anzuwenden.
 
 
 #### Neunter Abschnitt - Ausgliederung aus dem Vermögen von Gebietskörperschaften oder Zusammenschlüssen von Gebietskörperschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG019400000)
 
 
 
 ##### § 168 Möglichkeit der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019500000)
 
 Die Ausgliederung eines Unternehmens, das von einer
 Gebietskörperschaft oder von einem Zusammenschluß von
@@ -3539,6 +3771,7 @@ entgegensteht.
 
 
 ##### § 169 Ausgliederungsbericht, Ausgliederungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019600000)
 
 Ein Ausgliederungsbericht ist für die Körperschaft oder den
 Zusammenschluß nicht erforderlich. Das Organisationsrecht der
@@ -3547,6 +3780,7 @@ Voraussetzungen ein Ausgliederungsbeschluß erforderlich ist.
 
 
 ##### § 170 Sachgründungsbericht und Gründungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019700000)
 
 Auf den Sachgründungsbericht (§ 5 Abs. 4 des Gesetzes betreffend die
 Gesellschaften mit beschränkter Haftung) ist § 58 Abs. 1, auf den
@@ -3555,6 +3789,7 @@ anzuwenden.
 
 
 ##### § 171 Wirksamwerden der Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019800000)
 
 Die Wirkungen der Ausgliederung nach § 131 treten mit deren Eintragung
 in das Register des Sitzes des übernehmenden Rechtsträgers oder mit
@@ -3562,6 +3797,7 @@ der Eintragung des neuen Rechtsträgers ein.
 
 
 ##### § 172 Haftung der Körperschaft oder des Zusammenschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE019900000)
 
 Durch den Übergang der Verbindlichkeiten auf den übernehmenden oder
 neuen Rechtsträger wird die Körperschaft oder der Zusammenschluß von
@@ -3570,6 +3806,7 @@ Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 
 ##### § 173 Zeitliche Begrenzung der Haftung für übertragene Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020000000)
 
 Auf die zeitliche Begrenzung der Haftung für die im Ausgliederungs-
 und Übernahmevertrag aufgeführten Verbindlichkeiten ist § 157
@@ -3577,14 +3814,17 @@ entsprechend anzuwenden.
 
 
 ## Viertes Buch - Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038800000)
 
 
 
 ### Erster Teil - Möglichkeit der Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG038900000)
 
 
 
 #### § 174 Arten der Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020100000)
 
 (1) Ein Rechtsträger (übertragender Rechtsträger) kann unter Auflösung
 ohne Abwicklung sein Vermögen als Ganzes auf einen anderen bestehenden
@@ -3618,6 +3858,7 @@ Rechtsträgers, im Falle der Nummer 3 an den übertragenden Rechtsträger
 
 
 #### § 175 Beteiligte Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020200000)
 
 Eine Vollübertragung ist oder Teilübertragungen sind jeweils nur
 möglich
@@ -3650,14 +3891,17 @@ möglich
 
 
 ### Zweiter Teil - Übertragung des Vermögens oder von Vermögensteilen einer Kapitalgesellschaft auf die öffentliche Hand
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039000000)
 
 
 
 #### Erster Abschnitt - Vollübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG020300000)
 
 
 
 ##### § 176 Anwendung der Verschmelzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020400000)
 
 (1) Bei einer Vollübertragung nach § 175 Nr. 1 sind auf die
 übertragende Kapitalgesellschaft die für die Verschmelzung durch
@@ -3685,10 +3929,12 @@ Vorschriften.
 
 
 #### Zweiter Abschnitt - Teilübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG020500000)
 
 
 
 ##### § 177 Anwendung der Spaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020600000)
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 1 sind auf die
 übertragende Kapitalgesellschaft die für die Aufspaltung, Abspaltung
@@ -3703,18 +3949,22 @@ aus den folgenden Vorschriften nichts anderes ergibt.
 
 
 ### Dritter Teil - Vermögensübertragung unter Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039100000)
 
 
 
 #### Erster Abschnitt - Übertragung des Vermögens einer Aktiengesellschaft auf Versicherungsvereine auf Gegenseitigkeit oder öffentlich-rechtliche Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG020700000)
 
 
 
 ##### Erster Unterabschnitt - Vollübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039200000)
 
 
 
 ###### § 178 Anwendung der Verschmelzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020800000)
 
 (1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe a sind auf
 die beteiligten Rechtsträger die für die Verschmelzung durch Aufnahme
@@ -3734,10 +3984,12 @@ anderen Stelle und welcher Erfordernisse die Zustimmung bedarf.
 
 
 ##### Zweiter Unterabschnitt - Teilübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039300000)
 
 
 
 ###### § 179 Anwendung der Spaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE020900000)
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 2 Buchstabe a sind auf
 die beteiligten Rechtsträger die für die Aufspaltung, Abspaltung oder
@@ -3754,14 +4006,17 @@ anzuwenden.
 
 
 #### Zweiter Abschnitt - Übertragung des Vermögens eines Versicherungsvereins auf Gegenseitigkeit auf Aktiengesellschaften oder öffentlich-rechtliche Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG021000000)
 
 
 
 ##### Erster Unterabschnitt - Vollübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039400000)
 
 
 
 ###### § 180 Anwendung der Verschmelzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021100000)
 
 (1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe b sind auf
 die beteiligten Rechtsträger die für die Verschmelzung durch Aufnahme
@@ -3781,6 +4036,7 @@ notariell beurkundet werden.
 
 
 ###### § 181 Gewährung der Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021200000)
 
 (1) Der übernehmende Rechtsträger ist zur Gewährung einer angemessenen
 Gegenleistung verpflichtet, wenn dies unter Berücksichtigung der
@@ -3826,6 +4082,7 @@ sind entsprechend anzuwenden.
 
 
 ###### § 182 Unterrichtung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021301377)
 
 Sobald die Vermögensübertragung wirksam geworden ist, hat das
 Vertretungsorgan des übernehmenden Rechtsträgers allen Mitgliedern,
@@ -3837,6 +4094,7 @@ angemessenen Gegenleistung zu verlangen.
 
 
 ###### § 183 Bestellung eines Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021400000)
 
 (1) Ist für die Vermögensübertragung eine Gegenleistung vereinbart
 worden, so hat der übertragende Verein einen Treuhänder für deren
@@ -3853,10 +4111,12 @@ ist entsprechend anzuwenden.
 
 
 ##### Zweiter Unterabschnitt - Teilübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039500000)
 
 
 
 ###### § 184 Anwendung der Spaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021500000)
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 2 Buchstabe b sind auf
 die beteiligten Rechtsträger die für die Aufspaltung, Abspaltung oder
@@ -3873,10 +4133,12 @@ anzuwenden.
 
 
 #### Dritter Abschnitt - Übertragung des Vermögens eines kleineren Versicherungsvereins auf Gegenseitigkeit auf eine Aktiengesellschaft oder auf ein öffentlich-rechtliches Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG021600000)
 
 
 
 ##### § 185 Möglichkeit der Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021700000)
 
 Ein kleinerer Versicherungsverein auf Gegenseitigkeit kann sein
 Vermögen nur im Wege der Vollübertragung auf eine Versicherungs-
@@ -3885,6 +4147,7 @@ Versicherungsunternehmen übertragen.
 
 
 ##### § 186 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021802360)
 
 Auf die Vermögensübertragung sind die Vorschriften des Zweiten
 Abschnitts entsprechend anzuwenden. Dabei treten bei kleineren
@@ -3895,6 +4158,7 @@ im Bundesanzeiger nach § 187.
 
 
 ##### § 187 Bekanntmachung der Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE021902360)
 
 Sobald die Vermögensübertragung von allen beteiligten
 Aufsichtsbehörden genehmigt worden ist, macht bei einer
@@ -3905,14 +4169,17 @@ Genehmigung im Bundesanzeiger bekannt.
 
 
 #### Vierter Abschnitt - Übertragung des Vermögens eines öffentlich-rechtlichen Versicherungsunternehmens auf Aktiengesellschaften oder Versicherungsvereine auf Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG022000000)
 
 
 
 ##### Erster Unterabschnitt - Vollübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039600000)
 
 
 
 ###### § 188 Anwendung der Verschmelzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022102360)
 
 (1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe c sind auf
 die übernehmenden Rechtsträger die für die Verschmelzung durch
@@ -3935,10 +4202,12 @@ und ihre Genehmigung im Bundesanzeiger bekannt.
 
 
 ##### Zweiter Unterabschnitt - Teilübertragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039700000)
 
 
 
 ###### § 189 Anwendung der Spaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022200000)
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 2 Buchstabe c sind auf
 die übernehmenden Rechtsträger die für die Aufspaltung, Abspaltung
@@ -3954,14 +4223,17 @@ entsprechend anzuwenden.
 
 
 ## Fünftes Buch - Formwechsel
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039800000)
 
 
 
 ### Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG022300000)
 
 
 
 #### § 190 Allgemeiner Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022400000)
 
 (1) Ein Rechtsträger kann durch Formwechsel eine andere Rechtsform
 erhalten.
@@ -3972,6 +4244,7 @@ die in anderen Gesetzen vorgesehen oder zugelassen sind.
 
 
 #### § 191 Einbezogene Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022502360)
 
 (1) Formwechselnde Rechtsträger können sein:
 
@@ -4018,6 +4291,7 @@ könnte.
 
 
 #### § 192 Formwechselbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022602360)
 
 (1) Das Vertretungsorgan des formwechselnden Rechtsträgers hat einen
 ausführlichen schriftlichen Bericht zu erstatten, in dem der
@@ -4036,6 +4310,7 @@ Verzichtserklärungen sind notariell zu beurkunden.
 
 
 #### § 193 Formwechselbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022701360)
 
 (1) Für den Formwechsel ist ein Beschluß der Anteilsinhaber des
 formwechselnden Rechtsträgers (Formwechselbeschluss) erforderlich. Der
@@ -4055,6 +4330,7 @@ Niederschrift des Beschlusses zu erteilen.
 
 
 #### § 194 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022801360)
 
 (1) In dem Formwechselbeschluss müssen mindestens bestimmt werden:
 
@@ -4102,6 +4378,7 @@ Rechtsträgers zuzuleiten.
 
 
 #### § 195 Befristung und Ausschluß von Klagen gegen den Formwechselbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE022901360)
 
 (1) Eine Klage gegen die Wirksamkeit des Formwechselbeschlusses muß
 binnen eines Monats nach der Beschlußfassung erhoben werden.
@@ -4115,6 +4392,7 @@ ist.
 
 
 #### § 196 Verbesserung des Beteiligungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023002360)
 
 Sind die in dem Formwechselbeschluss bestimmten Anteile an dem
 Rechtsträger neuer Rechtsform nicht angemessen oder ist die
@@ -4129,6 +4407,7 @@ bestimmt. § 15 Abs. 2 ist entsprechend anzuwenden.
 
 
 #### § 197 Anzuwendende Gründungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023101377)
 
 Auf den Formwechsel sind die für die neue Rechtsform geltenden
 Gründungsvorschriften anzuwenden, soweit sich aus diesem Buch nichts
@@ -4140,6 +4419,7 @@ des Aktiengesetzes anwendbar.
 
 
 #### § 198 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023201377)
 
 (1) Die neue Rechtsform des Rechtsträgers ist zur Eintragung in das
 Register, in dem der formwechselnde Rechtsträger eingetragen ist,
@@ -4166,6 +4446,7 @@ eingetragen worden ist.
 
 
 #### § 199 Anlagen der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023302360)
 
 Der Anmeldung der neuen Rechtsform oder des Rechtsträgers neuer
 Rechtsform sind in Ausfertigung oder öffentlich beglaubigter Abschrift
@@ -4180,6 +4461,7 @@ Verzicht auf seine Erstellung, ein Nachweis über die Zuleitung nach §
 
 
 #### § 200 Firma oder Name des Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023403377)
 
 (1) Der Rechtsträger neuer Rechtsform darf seine bisher geführte Firma
 beibehalten, soweit sich aus diesem Buch nichts anderes ergibt.
@@ -4213,6 +4495,7 @@ erlischt die Firma der formwechselnden Gesellschaft.
 
 
 #### § 201 Bekanntmachung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023502360)
 
 Das für die Anmeldung der neuen Rechtsform oder des Rechtsträgers
 neuer Rechtsform zuständige Gericht hat die Eintragung der neuen
@@ -4221,6 +4504,7 @@ Handelsgesetzbuchs bekanntzumachen.
 
 
 #### § 202 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023601360)
 
 (1) Die Eintragung der neuen Rechtsform in das Register hat folgende
 Wirkungen:
@@ -4255,6 +4539,7 @@ Register unberührt.
 
 
 #### § 203 Amtsdauer von Aufsichtsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023701360)
 
 Wird bei einem Formwechsel bei dem Rechtsträger neuer Rechtsform in
 gleicher Weise wie bei dem formwechselnden Rechtsträger ein
@@ -4267,12 +4552,14 @@ des Amtes bestimmen.
 
 
 #### § 204 Schutz der Gläubiger und der Inhaber von Sonderrechten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023800000)
 
 Auf den Schutz der Gläubiger ist § 22, auf den Schutz der Inhaber von
 Sonderrechten § 23 entsprechend anzuwenden.
 
 
 #### § 205 Schadenersatzpflicht der Verwaltungsträger des formwechselnden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE023901377)
 
 (1) Die Mitglieder des Vertretungsorgans und, wenn ein Aufsichtsorgan
 vorhanden ist, des Aufsichtsorgans des formwechselnden Rechtsträgers
@@ -4287,6 +4574,7 @@ ist.
 
 
 #### § 206 Geltendmachung des Schadenersatzanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024000000)
 
 Die Ansprüche nach § 205 Abs. 1 können nur durch einen besonderen
 Vertreter geltend gemacht werden. Das Gericht des Sitzes des
@@ -4300,6 +4588,7 @@ neuer Rechtsform.
 
 
 #### § 207 Angebot der Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024101360)
 
 (1) Der formwechselnde Rechtsträger hat jedem Anteilsinhaber, der
 gegen den Formwechselbeschluss Widerspruch zur Niederschrift erklärt,
@@ -4318,11 +4607,13 @@ Rechtsträger hat die Kosten für eine Übertragung zu tragen.
 
 
 #### § 208 Inhalt des Anspruchs auf Barabfindung und Prüfung der Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024200000)
 
 Auf den Anspruch auf Barabfindung ist § 30 entsprechend anzuwenden.
 
 
 #### § 209 Annahme des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024302360)
 
 Das Angebot nach § 207 kann nur binnen zwei Monaten nach dem Tage
 angenommen werden, an dem die Eintragung der neuen Rechtsform oder des
@@ -4334,6 +4625,7 @@ Bundesanzeiger bekanntgemacht worden ist.
 
 
 #### § 210 Ausschluß von Klagen gegen den Formwechselbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024401360)
 
 Eine Klage gegen die Wirksamkeit des Formwechselbeschlusses kann nicht
 darauf gestützt werden, daß das Angebot nach § 207 nicht angemessen
@@ -4342,6 +4634,7 @@ ordnungsgemäß angeboten worden ist.
 
 
 #### § 211 Anderweitige Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024502360)
 
 Einer anderweitigen Veräußerung des Anteils durch einen
 Anteilsinhaber, der nach § 207 Adressat des Abfindungsangebots ist,
@@ -4350,6 +4643,7 @@ stehen nach Fassung des Formwechselbeschlusses bis zum Ablauf der in §
 
 
 #### § 212 Gerichtliche Nachprüfung der Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024602360)
 
 Macht ein Anteilsinhaber geltend, daß eine im Formwechselbeschluss
 bestimmte Barabfindung, die ihm nach § 207 Abs. 1 anzubieten war,
@@ -4360,23 +4654,28 @@ ordnungsgemäß angeboten worden ist.
 
 
 #### § 213 Unbekannte Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE024701377)
 
 Auf unbekannte Aktionäre ist § 35 entsprechend anzuwenden.
 
 
 ### Zweiter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG024801307)
 
 
 
 #### Erster Abschnitt - Formwechsel von Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG024901307)
 
 
 
 ##### Erster Unterabschnitt - Formwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041101360)
 
 
 
 ###### § 214 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025003360)
 
 (1) Eine Gesellschaft bürgerlichen Rechts oder eine
 Personenhandelsgesellschaft kann aufgrund eines Formwechselbeschlusses
@@ -4391,6 +4690,7 @@ Formwechsel vereinbart haben.
 
 
 ###### § 215 Formwechselbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025101360)
 
 Ein Formwechselbericht ist nicht erforderlich, wenn alle
 Gesellschafter der formwechselnden Gesellschaft zur Geschäftsführung
@@ -4398,6 +4698,7 @@ berechtigt sind.
 
 
 ###### § 216 Unterrichtung der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025202360)
 
 Das Vertretungsorgan der formwechselnden Gesellschaft hat allen von
 der Geschäftsführung ausgeschlossenen Gesellschaftern spätestens
@@ -4409,6 +4710,7 @@ erforderlichen Formwechselbericht sowie ein Abfindungsangebot nach §
 
 
 ###### § 217 Beschluß der Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025302360)
 
 (1) Der Formwechselbeschluss der Gesellschafterversammlung bedarf der
 Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die nicht
@@ -4427,6 +4729,7 @@ eines persönlich haftenden Gesellschafters haben sollen.
 
 
 ###### § 218 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025402360)
 
 (1) In dem Formwechselbeschluss muß auch der Gesellschaftsvertrag der
 Gesellschaft mit beschränkter Haftung oder die Satzung der
@@ -4451,6 +4754,7 @@ anzusehen sind, beteiligt wird.
 
 
 ###### § 219 Rechtsstellung als Gründer
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025500000)
 
 Bei der Anwendung der Gründungsvorschriften stehen den Gründern die
 Gesellschafter der formwechselnden Gesellschaft gleich. Im Falle einer
@@ -4461,6 +4765,7 @@ persönlich haftende Gesellschafter.
 
 
 ###### § 220 Kapitalschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025600000)
 
 (1) Der Nennbetrag des Stammkapitals einer Gesellschaft mit
 beschränkter Haftung oder des Grundkapitals einer Aktiengesellschaft
@@ -4483,6 +4788,7 @@ Wirksamwerden des Formwechsels.
 
 
 ###### § 221 Beitritt persönlich haftender Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025701360)
 
 Der in einem Beschluss zum Formwechsel in eine Kommanditgesellschaft
 auf Aktien vorgesehene Beitritt eines Gesellschafters, welcher der
@@ -4493,6 +4799,7 @@ genehmigen.
 
 
 ###### § 222 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025801377)
 
 (1) Die Anmeldung nach § 198 einschließlich der Anmeldung der Satzung
 der Genossenschaft ist durch alle Mitglieder des künftigen
@@ -4513,6 +4820,7 @@ Gesellschaft ermächtigten Gesellschaftern vorgenommen werden.
 
 
 ###### § 223 Anlagen der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE025900000)
 
 Der Anmeldung der neuen Rechtsform oder des Rechtsträgers neuer
 Rechtsform sind beim Formwechsel in eine Kommanditgesellschaft auf
@@ -4523,6 +4831,7 @@ beizufügen.
 
 
 ###### § 224 Fortdauer und zeitliche Begrenzung der persönlichen Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026003360)
 
 (1) Der Formwechsel berührt nicht die Ansprüche der Gläubiger der
 Gesellschaft gegen einen ihrer Gesellschafter aus Verbindlichkeiten
@@ -4553,6 +4862,7 @@ in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 
 
 ###### § 225 Prüfung des Abfindungsangebots
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026100000)
 
 Im Falle des § 217 Abs. 1 Satz 2 ist die Angemessenheit der
 angebotenen Barabfindung nach § 208 in Verbindung mit § 30 Abs. 2 nur
@@ -4561,10 +4871,12 @@ Gesellschaft.
 
 
 ##### Zweiter Unterabschnitt - Formwechsel von Partnerschaftsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041200307)
 
 
 
 ###### § 225a Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE037301360)
 
 Eine Partnerschaftsgesellschaft kann auf Grund eines
 Formwechselbeschlusses nach diesem Gesetz nur die Rechtsform einer
@@ -4572,6 +4884,7 @@ Kapitalgesellschaft oder einer eingetragenen Genossenschaft erlangen.
 
 
 ###### § 225b Formwechselbericht und Unterrichtung der Partner
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE037401360)
 
 Ein Formwechselbericht ist nur erforderlich, wenn ein Partner der
 formwechselnden Partnerschaft gemäß § 6 Abs. 2 des
@@ -4581,20 +4894,24 @@ sind entsprechend § 216 zu unterrichten.
 
 
 ###### § 225c Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE037500307)
 
 Auf den Formwechsel einer Partnerschaftsgesellschaft sind § 214 Abs. 2
 und die §§ 217 bis 225 entsprechend anzuwenden.
 
 
 #### Zweiter Abschnitt - Formwechsel von Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG026200000)
 
 
 
 ##### Erster Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG039900000)
 
 
 
 ###### § 226 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026302360)
 
 Eine Kapitalgesellschaft kann auf Grund eines Formwechselbeschlusses
 nach diesem Gesetz nur die Rechtsform einer Gesellschaft des
@@ -4604,6 +4921,7 @@ einer eingetragenen Genossenschaft erlangen.
 
 
 ###### § 227 Nicht anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026400000)
 
 Die §§ 207 bis 212 sind beim Formwechsel einer Kommanditgesellschaft
 auf Aktien nicht auf deren persönlich haftende Gesellschafter
@@ -4611,10 +4929,12 @@ anzuwenden.
 
 
 ##### Zweiter Unterabschnitt - Formwechsel in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040000000)
 
 
 
 ###### § 228 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026504360)
 
 (1) Durch den Formwechsel kann eine Kapitalgesellschaft die Rechtsform
 einer Personenhandelsgesellschaft nur erlangen, wenn der
@@ -4636,11 +4956,13 @@ des Handelsgesetzbuchs betreibt.
 
 
 ###### § 229 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026601377)
 
 -
 
 
 ###### § 230 Vorbereitung der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026704360)
 
 (1) Die Geschäftsführer einer formwechselnden Gesellschaft mit
 beschränkter Haftung haben allen Gesellschaftern spätestens zusammen
@@ -4665,6 +4987,7 @@ der Gesellschaft zugänglich ist.
 
 
 ###### § 231 Mitteilung des Abfindungsangebots
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026802360)
 
 Das Vertretungsorgan der formwechselnden Gesellschaft hat den
 Gesellschaftern oder Aktionären spätestens zusammen mit der
@@ -4676,6 +4999,7 @@ Gesellschaftsblättern bekanntgemacht wird.
 
 
 ###### § 232 Durchführung der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE026902360)
 
 (1) In der Gesellschafterversammlung oder in der Hauptversammlung, die
 den Formwechsel beschließen soll, ist der Formwechselbericht
@@ -4688,6 +5012,7 @@ Vertretungsorgan zu Beginn der Verhandlung mündlich zu erläutern.
 
 
 ###### § 233 Beschluß der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027002360)
 
 (1) Der Formwechselbeschluss der Gesellschafterversammlung oder der
 Hauptversammlung bedarf, wenn die formwechselnde Gesellschaft die
@@ -4719,6 +5044,7 @@ der Formwechsel wirksam wird.
 
 
 ###### § 234 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027105360)
 
 In dem Formwechselbeschluss müssen auch enthalten sein:
 
@@ -4736,12 +5062,14 @@ In dem Formwechselbeschluss müssen auch enthalten sein:
 
 
 ###### § 235 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027201360)
 
 Die Anmeldung nach § 198 ist durch das Vertretungsorgan der
 formwechselnden Gesellschaft vorzunehmen.
 
 
 ###### § 236 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027300000)
 
 Mit dem Wirksamwerden des Formwechsels einer Kommanditgesellschaft auf
 Aktien scheiden persönlich haftende Gesellschafter, die nach § 233
@@ -4750,6 +5078,7 @@ der Gesellschaft aus.
 
 
 ###### § 237 Fortdauer und zeitliche Begrenzung der persönlichen Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027400000)
 
 Erlangt ein persönlich haftender Gesellschafter einer formwechselnden
 Kommanditgesellschaft auf Aktien beim Formwechsel in eine
@@ -4760,10 +5089,12 @@ anzuwenden.
 
 
 ##### Dritter Unterabschnitt - Formwechsel in eine Kapitalgesellschaft anderer Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040100000)
 
 
 
 ###### § 238 Vorbereitung der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027501377)
 
 Auf die Vorbereitung der Gesellschafterversammlung oder der
 Hauptversammlung, die den Formwechsel beschließen soll, sind die §§
@@ -4771,6 +5102,7 @@ Hauptversammlung, die den Formwechsel beschließen soll, sind die §§
 
 
 ###### § 239 Durchführung der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027602360)
 
 (1) In der Gesellschafterversammlung oder in der Hauptversammlung, die
 den Formwechsel beschließen soll, ist der Formwechselbericht
@@ -4783,6 +5115,7 @@ Vertretungsorgan zu Beginn der Verhandlung mündlich zu erläutern.
 
 
 ###### § 240 Beschluß der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027701360)
 
 (1) Der Formwechselbeschluss bedarf einer Mehrheit von mindestens drei
 Vierteln der bei der Gesellschafterversammlung einer Gesellschaft mit
@@ -4809,6 +5142,7 @@ dieser Gesellschafter vorsehen.
 
 
 ###### § 241 Zustimmungserfordernisse beim Formwechsel einer Gesellschaft mit beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027803360)
 
 (1) Werden durch den Formwechselbeschluss einer formwechselnden
 Gesellschaft mit beschränkter Haftung die Aktien in der Satzung der
@@ -4831,6 +5165,7 @@ Gesellschafter.
 
 
 ###### § 242 Zustimmungserfordernis beim Formwechsel einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE027903360)
 
 Wird durch den Formwechselbeschluss einer formwechselnden
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien der
@@ -4841,6 +5176,7 @@ nicht mit seinem gesamten Anteil beteiligen kann.
 
 
 ###### § 243 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028004360)
 
 (1) Auf den Formwechselbeschluss ist § 218 entsprechend anzuwenden.
 Festsetzungen über Sondervorteile, Gründungsaufwand, Sacheinlagen und
@@ -4861,6 +5197,7 @@ Gesellschaft mit beschränkter Haftung muss er auf volle Euro lauten.
 
 
 ###### § 244 Niederschrift über den Formwechselbeschluss, Gesellschaftsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028101360)
 
 (1) In der Niederschrift über den Formwechselbeschluss sind die
 Personen, die nach § 245 Abs. 1 bis 3 den Gründern der Gesellschaft
@@ -4873,6 +5210,7 @@ unterzeichnet zu werden.
 
 
 ###### § 245 Rechtsstellung als Gründer; Kapitalschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028201377)
 
 (1) Bei einem Formwechsel einer Gesellschaft mit beschränkter Haftung
 in eine Aktiengesellschaft oder in eine Kommanditgesellschaft auf
@@ -4905,6 +5243,7 @@ Haftung ist ein Sachgründungsbericht nicht erforderlich.
 
 
 ###### § 246 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028300000)
 
 (1) Die Anmeldung nach § 198 ist durch das Vertretungsorgan der
 formwechselnden Gesellschaft vorzunehmen.
@@ -4921,6 +5260,7 @@ Anmeldung nach § 198 nicht anzuwenden.
 
 
 ###### § 247 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028401377)
 
 (1) Durch den Formwechsel wird das bisherige Stammkapital einer
 formwechselnden Gesellschaft mit beschränkter Haftung zum Grundkapital
@@ -4934,6 +5274,7 @@ Gesellschaft aus.
 
 
 ###### § 248 Umtausch der Anteile
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028500000)
 
 (1) Auf den Umtausch der Geschäftsanteile einer formwechselnden
 Gesellschaft mit beschränkter Haftung gegen Aktien ist § 73 des
@@ -4952,6 +5293,7 @@ entsprechend anzuwenden.
 
 
 ###### § 248a Gewährung zusätzlicher Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040700360)
 
 Die §§ 72a und 72b gelten für einen Formwechsel in eine
 Aktiengesellschaft oder eine Kommanditgesellschaft auf Aktien
@@ -4960,6 +5302,7 @@ Absatz 1 Satz 1 zu enthalten.
 
 
 ###### § 249 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028600000)
 
 Auf den Formwechsel einer Kommanditgesellschaft auf Aktien in eine
 Gesellschaft mit beschränkter Haftung oder in eine Aktiengesellschaft
@@ -4967,6 +5310,7 @@ ist auch § 224 entsprechend anzuwenden.
 
 
 ###### § 250 Nicht anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028700000)
 
 Die §§ 207 bis 212 sind auf den Formwechsel einer Aktiengesellschaft
 in eine Kommanditgesellschaft auf Aktien oder einer
@@ -4975,10 +5319,12 @@ anzuwenden.
 
 
 ##### Vierter Unterabschnitt - Formwechsel in eine eingetragene Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040200000)
 
 
 
 ###### § 251 Vorbereitung und Durchführung der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028802140)
 
 (1) Auf die Vorbereitung der Gesellschafterversammlung oder der
 Hauptversammlung, die den Formwechsel beschließen soll, sind die §§
@@ -4991,6 +5337,7 @@ anzuwenden.
 
 
 ###### § 252 Beschluß der Versammlung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE028902360)
 
 (1) Der Formwechselbeschluss der Gesellschafterversammlung oder der
 Hauptversammlung bedarf, wenn die Satzung der Genossenschaft eine
@@ -5013,6 +5360,7 @@ kann eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
 
 ###### § 253 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029002360)
 
 (1) In dem Formwechselbeschluss muß auch die Satzung der
 Genossenschaft enthalten sein. Eine Unterzeichnung der Satzung durch
@@ -5027,6 +5375,7 @@ Genossenschaft als voll eingezahlt anzusehen sind, beteiligt wird.
 
 
 ###### § 254 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029101377)
 
 (1) Die Anmeldung nach § 198 einschließlich der Anmeldung der Satzung
 der Genossenschaft ist durch das Vertretungsorgan der formwechselnden
@@ -5037,6 +5386,7 @@ Vorstandes zur Eintragung in das Register anzumelden.
 
 
 ###### § 255 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029202360)
 
 (1) Jeder Anteilsinhaber, der die Rechtsstellung eines Mitglieds
 erlangt, ist bei der Genossenschaft nach Maßgabe des
@@ -5056,6 +5406,7 @@ Rechtsträger aus.
 
 
 ###### § 256 Geschäftsguthaben, Benachrichtigung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029304140)
 
 (1) Jedem Mitglied ist als Geschäftsguthaben der Wert der
 Geschäftsanteile oder der Aktien gutzuschreiben, mit denen es an der
@@ -5094,16 +5445,19 @@ Textform mitzuteilen:
 
 
 ###### § 257 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029400000)
 
 Auf den Formwechsel einer Kommanditgesellschaft auf Aktien ist auch §
 224 entsprechend anzuwenden.
 
 
 #### Dritter Abschnitt - Formwechsel eingetragener Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG029500000)
 
 
 
 ##### § 258 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029605360)
 
 (1) Eine eingetragene Genossenschaft kann auf Grund eines
 Formwechselbeschlusses nach diesem Gesetz nur die Rechtsform einer
@@ -5117,6 +5471,7 @@ entfällt.
 
 
 ##### § 259 Gutachten des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029701377)
 
 Vor der Einberufung der Generalversammlung, die den Formwechsel
 beschließen soll, ist eine gutachtliche Äußerung des Prüfungsverbandes
@@ -5127,6 +5482,7 @@ Festsetzung des Stammkapitals oder des Grundkapitals § 263 Abs. 2 Satz
 
 
 ##### § 260 Vorbereitung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029805123)
 
 (1) Der Vorstand der formwechselnden Genossenschaft hat allen
 Mitgliedern spätestens zusammen mit der Einberufung der
@@ -5153,6 +5509,7 @@ Genossenschaft zugänglich ist.
 
 
 ##### § 261 Durchführung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE029901360)
 
 (1) In der Generalversammlung, die den Formwechsel beschließen soll,
 ist der Formwechselbericht, sofern er nach diesem Buch erforderlich
@@ -5166,6 +5523,7 @@ teilzunehmen.
 
 
 ##### § 262 Beschluß der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030002360)
 
 (1) Der Formwechselbeschluss der Generalversammlung bedarf einer
 Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen. Er
@@ -5181,6 +5539,7 @@ größere Mehrheiten und weitere Erfordernisse bestimmen.
 
 
 ##### § 263 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030104360)
 
 (1) Auf den Formwechselbeschluss sind auch die §§ 218, 243 Abs. 3 und
 § 244 Abs. 2 entsprechend anzuwenden.
@@ -5212,6 +5571,7 @@ Vertretungsorgan über den Ausschluß des Bezugsrechts entscheidet.
 
 
 ##### § 264 Kapitalschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030201377)
 
 (1) Der Nennbetrag des Stammkapitals einer Gesellschaft mit
 beschränkter Haftung oder des Grundkapitals einer Aktiengesellschaft
@@ -5235,6 +5595,7 @@ Wirksamwerden des Formwechsels.
 
 
 ##### § 265 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030300000)
 
 Auf die Anmeldung nach § 198 ist § 222 Abs. 1 Satz 1 und Abs. 3
 entsprechend anzuwenden. Der Anmeldung ist das nach § 259 erstattete
@@ -5243,6 +5604,7 @@ Abschrift beizufügen.
 
 
 ##### § 266 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030400000)
 
 (1) Durch den Formwechsel werden die bisherigen Geschäftsanteile zu
 Anteilen an der Gesellschaft neuer Rechtsform und zu Teilrechten. §
@@ -5263,6 +5625,7 @@ Teilrechten zu vollen Aktien vermitteln.
 
 
 ##### § 267 Benachrichtigung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030502377)
 
 (1) Das Vertretungsorgan der Gesellschaft neuer Rechtsform hat jedem
 Anteilsinhaber unverzüglich nach der Bekanntmachung der Eintragung der
@@ -5277,6 +5640,7 @@ Gesellschaftsblättern bekanntzumachen. Der Hinweis nach Absatz 1 Satz
 
 
 ##### § 268 Aufforderung an die Aktionäre; Veräußerung von Aktien
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030600000)
 
 (1) In der Mitteilung nach § 267 sind Aktionäre aufzufordern, die
 ihnen zustehenden Aktien abzuholen. Dabei ist darauf hinzuweisen, daß
@@ -5304,6 +5668,7 @@ Aktiengesetzes ist entsprechend anzuwenden.
 
 
 ##### § 269 Hauptversammlungsbeschlüsse, genehmigtes Kapital
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030701307)
 
 Solange beim Formwechsel in eine Aktiengesellschaft oder in eine
 Kommanditgesellschaft auf Aktien die abgeholten oder nach § 268 Abs. 3
@@ -5316,6 +5681,7 @@ des Grundkapitals keinen Gebrauch machen.
 
 
 ##### § 270 Abfindungsangebot
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030803360)
 
 (1) Das Abfindungsangebot nach § 207 Abs. 1 Satz 1 gilt auch für jedes
 Mitglied, das dem Formwechsel bis zum Ablauf des dritten Tages vor dem
@@ -5328,6 +5694,7 @@ anzuwenden.
 
 
 ##### § 271 Fortdauer der Nachschußpflicht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE030902377)
 
 Wird über das Vermögen der Gesellschaft neuer Rechtsform binnen zwei
 Jahren nach dem Tage, an dem ihre Eintragung in das Register bekannt
@@ -5344,14 +5711,17 @@ begründet waren.
 
 
 #### Vierter Abschnitt - Formwechsel rechtsfähiger Vereine
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG031000000)
 
 
 
 ##### Erster Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040300000)
 
 
 
 ###### § 272 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031101360)
 
 (1) Ein rechtsfähiger Verein kann auf Grund eines
 Formwechselbeschlusses nur die Rechtsform einer Kapitalgesellschaft
@@ -5362,10 +5732,12 @@ oder Vorschriften des Landesrechts nicht entgegenstehen.
 
 
 ##### Zweiter Unterabschnitt - Formwechsel in eine Kapitalgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040400000)
 
 
 
 ###### § 273 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031203140)
 
 Der Formwechsel ist nur möglich, wenn auf jedes Mitglied, das an der
 Gesellschaft neuer Rechtsform beteiligt wird, als beschränkt haftender
@@ -5374,6 +5746,7 @@ lautet, oder als Aktionär mindestens eine volle Aktie entfällt.
 
 
 ###### § 274 Vorbereitung und Durchführung der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031302140)
 
 (1) Auf die Vorbereitung der Mitgliederversammlung, die den
 Formwechsel beschließen soll, sind die §§ 229, 230 Abs. 2 Satz 1 und
@@ -5385,6 +5758,7 @@ soll, ist § 239 Abs. 1 Satz 1 und Abs. 2 entsprechend anzuwenden.
 
 
 ###### § 275 Beschluß der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031402360)
 
 (1) Der Formwechselbeschluss der Mitgliederversammlung bedarf, wenn
 der Zweck des Rechtsträgers geändert werden soll (§ 33 Abs. 1 Satz 2
@@ -5407,6 +5781,7 @@ bestimmen.
 
 
 ###### § 276 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031502360)
 
 (1) Auf den Formwechselbeschluss sind auch die §§ 218, 243 Abs. 3, §
 244 Abs. 2 und § 263 Abs. 2 Satz 2, Abs. 3 entsprechend anzuwenden.
@@ -5445,12 +5820,14 @@ oder mehreren der folgenden Maßstäbe festgesetzt werden:
 
 
 ###### § 277 Kapitalschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031600000)
 
 Bei der Anwendung der für die neue Rechtsform maßgebenden
 Gründungsvorschriften ist auch § 264 entsprechend anzuwenden.
 
 
 ###### § 278 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031700000)
 
 (1) Auf die Anmeldung nach § 198 ist § 222 Abs. 1 und 3 entsprechend
 anzuwenden.
@@ -5467,11 +5844,13 @@ entsprechend anzuwenden.
 
 
 ###### § 279 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031801377)
 
 -
 
 
 ###### § 280 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE031900000)
 
 Durch den Formwechsel werden die bisherigen Mitgliedschaften zu
 Anteilen an der Gesellschaft neuer Rechtsform und zu Teilrechten. §
@@ -5479,6 +5858,7 @@ Anteilen an der Gesellschaft neuer Rechtsform und zu Teilrechten. §
 
 
 ###### § 281 Benachrichtigung der Anteilsinhaber, Veräußerung von Aktien, Hauptversammlungsbeschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032000000)
 
 (1) Auf die Benachrichtigung der Anteilsinhaber durch die
 Gesellschaft, auf die Aufforderung von Aktionären zur Abholung der
@@ -5491,6 +5871,7 @@ Erhöhung des Grundkapitals ist § 269 entsprechend anzuwenden.
 
 
 ###### § 282 Abfindungsangebot
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032101307)
 
 (1) Auf das Abfindungsangebot nach § 207 Abs. 1 Satz 1 ist § 270 Abs.
 1 entsprechend anzuwenden.
@@ -5502,10 +5883,12 @@ nicht anzuwenden.
 
 
 ##### Dritter Unterabschnitt - Formwechsel in eine eingetragene Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040500000)
 
 
 
 ###### § 283 Vorbereitung und Durchführung der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032202140)
 
 (1) Auf die Vorbereitung der Mitgliederversammlung, die den
 Formwechsel beschließen soll, sind die §§ 229 und 230 Abs. 2 Satz 1
@@ -5517,6 +5900,7 @@ soll, ist § 239 Abs. 1 Satz 1 und Abs. 2 entsprechend anzuwenden.
 
 
 ###### § 284 Beschluß der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032302360)
 
 Der Formwechselbeschluss der Mitgliederversammlung bedarf, wenn der
 Zweck des Rechtsträgers geändert werden soll (§ 33 Abs. 1 Satz 2 des
@@ -5528,6 +5912,7 @@ ist § 275 Abs. 2 entsprechend anzuwenden.
 
 
 ###### § 285 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032401360)
 
 (1) Auf den Formwechselbeschluss ist auch § 253 Abs. 1 und Abs. 2 Satz
 1 entsprechend anzuwenden.
@@ -5539,17 +5924,20 @@ unterschiedlich hohe Beteiligung nur nach einem oder mehreren der in §
 
 
 ###### § 286 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032500000)
 
 Auf die Anmeldung nach § 198 sind die §§ 254 und 278 Abs. 2
 entsprechend anzuwenden.
 
 
 ###### § 287 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032601377)
 
 -
 
 
 ###### § 288 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032702360)
 
 (1) Jedes Mitglied, das die Rechtsstellung eines Mitglieds der
 Genossenschaft erlangt, ist bei der Genossenschaft nach Maßgabe des
@@ -5563,6 +5951,7 @@ seit dem Wirksamwerden des Formwechsels aussprechen.
 
 
 ###### § 289 Geschäftsguthaben, Benachrichtigung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032801377)
 
 (1) Jedem Mitglied der Genossenschaft kann als Geschäftsguthaben auf
 Grund des Formwechsels höchstens der Nennbetrag der Geschäftsanteile
@@ -5573,16 +5962,19 @@ ist.
 
 
 ###### § 290 Abfindungsangebot
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE032901307)
 
 Auf das Abfindungsangebot nach § 207 Abs. 1 Satz 2 sind § 270 Abs. 1
 sowie § 282 Abs. 2 entsprechend anzuwenden.
 
 
 #### Fünfter Abschnitt - Formwechsel von Versicherungsvereinen auf Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG033000000)
 
 
 
 ##### § 291 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033103360)
 
 (1) Ein Versicherungsverein auf Gegenseitigkeit, der kein kleinerer
 Verein im Sinne des § 210 des Versicherungsaufsichtsgesetzes ist, kann
@@ -5595,6 +5987,7 @@ volle Aktie entfällt.
 
 
 ##### § 292 Vorbereitung und Durchführung der Versammlung der obersten Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033201140)
 
 (1) Auf die Vorbereitung der Versammlung der obersten Vertretung, die
 den Formwechsel beschließen soll, sind die §§ 229 und 230 Abs. 2 Satz
@@ -5606,6 +5999,7 @@ entsprechend anzuwenden.
 
 
 ##### § 293 Beschluß der obersten Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033301360)
 
 Der Formwechselbeschluss der obersten Vertretung bedarf einer Mehrheit
 von mindestens drei Vierteln der abgegebenen Stimmen. Er bedarf einer
@@ -5618,6 +6012,7 @@ bestimmen.
 
 
 ##### § 294 Inhalt des Formwechselbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033402360)
 
 (1) Auf den Formwechselbeschluss sind auch § 218 Abs. 1 und § 263 Abs.
 3 Satz 2 und 3 entsprechend anzuwenden. In dem Formwechselbeschluss
@@ -5668,23 +6063,27 @@ Maßstäbe festgesetzt werden:
 
 
 ##### § 295 Kapitalschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033600000)
 
 Bei der Anwendung der Gründungsvorschriften des Aktiengesetzes ist
 auch § 264 Abs. 1 und 3 entsprechend anzuwenden.
 
 
 ##### § 296 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033700000)
 
 Auf die Anmeldung nach § 198 ist § 246 Abs. 1 und 2 entsprechend
 anzuwenden.
 
 
 ##### § 297 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033801377)
 
 -
 
 
 ##### § 298 Wirkungen des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE033900000)
 
 Durch den Formwechsel werden die bisherigen Mitgliedschaften zu Aktien
 und Teilrechten. § 266 Abs. 1 Satz 2, Abs. 2 und 3 ist entsprechend
@@ -5692,6 +6091,7 @@ anzuwenden.
 
 
 ##### § 299 Benachrichtigung der Aktionäre, Veräußerung von Aktien, Hauptversammlungsbeschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034000000)
 
 (1) Auf die Benachrichtigung der Aktionäre durch die Gesellschaft ist
 § 267, auf die Aufforderung zur Abholung der ihnen zustehenden Aktien
@@ -5707,16 +6107,19 @@ erhebliche Nachteile entstehen.
 
 
 ##### § 300 Abfindungsangebot
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034101307)
 
 Auf das Abfindungsangebot nach § 207 Abs. 1 Satz 1 ist § 270 Abs. 1
 entsprechend anzuwenden.
 
 
 #### Sechster Abschnitt - Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG034200000)
 
 
 
 ##### § 301 Möglichkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034300000)
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, kann eine
 Körperschaft oder Anstalt des öffentlichen Rechts durch Formwechsel
@@ -5728,6 +6131,7 @@ Landesrecht einen Formwechsel vorsieht oder zuläßt.
 
 
 ##### § 302 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034400000)
 
 Die Vorschriften des Ersten Teils sind auf den Formwechsel nur
 anzuwenden, soweit sich aus dem für die formwechselnde Körperschaft
@@ -5741,6 +6145,7 @@ und 29 des Aktiengesetzes sind nicht anzuwenden.
 
 
 ##### § 303 Kapitalschutz, Zustimmungserfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034500000)
 
 (1) Außer den für die neue Rechtsform maßgebenden
 Gründungsvorschriften ist auch § 220 entsprechend anzuwenden.
@@ -5753,6 +6158,7 @@ entsprechend anzuwenden.
 
 
 ##### § 304 Wirksamwerden des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034600000)
 
 Der Formwechsel wird mit der Eintragung der Kapitalgesellschaft in das
 Handelsregister wirksam. Mängel des Formwechsels lassen die Wirkungen
@@ -5760,14 +6166,17 @@ der Eintragung unberührt.
 
 
 ## Sechstes Buch - Grenzüberschreitende Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041500360)
 
 
 
 ### Erster Teil - Grenzüberschreitende Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041600360)
 
 
 
 #### § 305 Grenzüberschreitende Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE034703360)
 
 (1) Eine grenzüberschreitende Verschmelzung ist eine Verschmelzung,
 bei der mindestens eine der beteiligten Gesellschaften dem Recht eines
@@ -5788,6 +6197,7 @@ aus diesem Teil nichts anderes ergibt.
 
 
 #### § 306 Verschmelzungsfähige Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040900360)
 
 (1) An einer grenzüberschreitenden Verschmelzung können beteiligt
 sein:
@@ -5852,6 +6262,7 @@ nicht erheblich von deren Nettoinventarwert abweicht.
 
 
 #### § 307 Verschmelzungsplan
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041000360)
 
 (1) Das Vertretungsorgan einer beteiligten Gesellschaft stellt
 zusammen mit den Vertretungsorganen der übrigen beteiligten
@@ -5979,6 +6390,7 @@ Nummer 13) entfallen, wenn
 
 
 #### § 308 Bekanntmachung des Verschmelzungsplans
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041100360)
 
 (1) Der Verschmelzungsplan oder sein Entwurf ist zum Register
 einzureichen. Das Gericht hat in der Bekanntmachung nach § 10 des
@@ -6046,6 +6458,7 @@ einzureichen.
 
 
 #### § 309 Verschmelzungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041200360)
 
 (1) Die Vertretungsorgane der beteiligten Gesellschaften erstellen
 einen Verschmelzungsbericht. In diesem sind für die Anteilsinhaber und
@@ -6115,6 +6528,7 @@ vorliegen.
 
 
 #### § 310 Zugänglichmachung des Verschmelzungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041300360)
 
 (1) Der einheitliche Bericht ist den Anteilsinhabern und den
 zuständigen Betriebsräten der an der grenzüberschreitenden
@@ -6152,6 +6566,7 @@ der Stellungnahme.
 
 
 #### § 311 Verschmelzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041401360)
 
 (1) Der Verschmelzungsplan oder sein Entwurf ist nach den §§ 9 bis 12
 zu prüfen; die §§ 39e und 48 sind nicht anzuwenden. Der
@@ -6169,6 +6584,7 @@ c.
 
 
 #### § 312 Zustimmung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041500360)
 
 (1) Die Anteilsinhaber können ihre Zustimmung nach § 13 davon abhängig
 machen, dass die Art und Weise der Mitbestimmung der Arbeitnehmer der
@@ -6185,6 +6601,7 @@ Zustimmung zum Verschmelzungsplan beschließt.
 
 
 #### § 313 Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041600360)
 
 (1) Unterliegt die übernehmende oder neue Gesellschaft nicht dem
 deutschen Recht, so hat die übertragende Gesellschaft im
@@ -6235,6 +6652,7 @@ ist stets zu prüfen. § 311 ist entsprechend anzuwenden.
 
 
 #### § 314 Schutz der Gläubiger der übertragenden Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041700360)
 
 (1) Der Gläubiger einer übertragenden Gesellschaft kann verlangen,
 dass ihm Sicherheit geleistet wird für eine Forderung, die
@@ -6284,6 +6702,7 @@ Vorabbescheinigung zuständige Registergericht angehört.
 
 
 #### § 315 Anmeldung der Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041800360)
 
 (1) Das Vertretungsorgan einer übertragenden Gesellschaft hat das
 Vorliegen der sie betreffenden Voraussetzungen für die
@@ -6358,6 +6777,7 @@ Absatz 3 eine Sicherheitsleistung gerichtlich geltend gemacht wurde.
 
 
 #### § 316 Verschmelzungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE041900360)
 
 (1) Das Gericht prüft innerhalb von drei Monaten nach der Anmeldung
 gemäß § 315 Absatz 1 und 2, ob für die übertragende Gesellschaft die
@@ -6441,6 +6861,7 @@ die bei ihm aufbewahrten elektronischen Dokumente diesem Register zu
 
 
 #### § 317 Informationen des Registergerichts
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042000360)
 
 Soweit dies für die Prüfung gemäß § 316 erforderlich ist, kann das
 Gericht
@@ -6478,6 +6899,7 @@ Unterlagen übermitteln.
 
 
 #### § 318 Eintragung der grenzüberschreitenden Hereinverschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042100360)
 
 (1) Bei einer Verschmelzung durch Aufnahme hat das Vertretungsorgan
 der übernehmenden Gesellschaft die Verschmelzung zur Eintragung in das
@@ -6539,6 +6961,7 @@ Satz 1 auf andere Weise mitzuteilen.
 
 
 #### § 319 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042200360)
 
 Unterliegt die übernehmende oder neue Gesellschaft dem deutschen
 Recht, so gilt als grenzüberschreitende Verschmelzung im Sinne dieses
@@ -6564,10 +6987,12 @@ Großbritannien und Nordirland unterliegt, sofern
 
 
 ### Zweiter Teil - Grenzüberschreitende Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041700360)
 
 
 
 #### § 320 Grenzüberschreitende Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042300360)
 
 (1) Spaltungen, bei denen mindestens eine der beteiligten
 Gesellschaften dem Recht eines anderen Mitgliedstaats der Europäischen
@@ -6595,6 +7020,7 @@ anzuwenden, soweit sich aus diesem Teil nichts anderes ergibt.
 
 
 #### § 321 Spaltungsfähige Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042400360)
 
 An einer grenzüberschreitenden Spaltung können als übertragende oder
 neue Gesellschaften Kapitalgesellschaften nach Anhang II zur
@@ -6616,6 +7042,7 @@ Richtlinie (EU) 2017/1132 beteiligt sein, wenn sie
 
 
 #### § 322 Spaltungsplan
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042500360)
 
 (1) Das Vertretungsorgan der übertragenden Gesellschaft stellt einen
 Spaltungsplan auf.
@@ -6662,12 +7089,14 @@ Nummer 2, 3, 5, 7 und 13 nicht erforderlich.
 
 
 #### § 323 Bekanntmachung des Spaltungsplans
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042600360)
 
 § 308 Absatz 1 gilt für die Bekanntmachung des Spaltungsplans oder
 seines Entwurfs entsprechend.
 
 
 #### § 324 Spaltungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042700360)
 
 (1) Das Vertretungsorgan der übertragenden Gesellschaft erstellt einen
 Spaltungsbericht. § 309 Absatz 1 bis 5 und § 310 Absatz 1 und 3 gelten
@@ -6683,6 +7112,7 @@ entbehrlich, wenn die Voraussetzungen der Sätze 1 und 2 vorliegen.
 
 
 #### § 325 Spaltungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042800360)
 
 Der Spaltungsplan oder sein Entwurf sind nach den §§ 9 bis 12 zu
 prüfen; § 48 ist nicht anzuwenden. Der Prüfungsbericht muss den
@@ -6692,6 +7122,7 @@ beschließen soll, zugänglich gemacht werden.
 
 
 #### § 326 Zustimmung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE042900360)
 
 (1) Die Anteilsinhaber können ihre Zustimmung nach § 13 davon abhängig
 machen, dass die Art und Weise der Mitbestimmung der Arbeitnehmer der
@@ -6711,18 +7142,21 @@ die Zuteilung nachteilig ist.
 
 
 #### § 327 Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043000360)
 
 § 313 gilt für die übertragende Gesellschaft entsprechend. Bei einer
 Ausgliederung ist ein Abfindungsangebot nicht erforderlich.
 
 
 #### § 328 Schutz der Gläubiger der übertragenden Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043100360)
 
 § 314 gilt für die übertragende Gesellschaft und ihre Gläubiger
 entsprechend.
 
 
 #### § 329 Anmeldung und Spaltungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043200360)
 
 Die §§ 315 bis 317 sind mit Ausnahme des § 315 Absatz 3 Satz 1 Nummer
 3 zweite Alternative sowie des § 316 Absatz 1 Satz 2, 3 und 4
@@ -6733,6 +7167,7 @@ Gericht von Amts wegen eine Spaltungsbescheinigung aus.
 
 
 #### § 330 Eintragung der grenzüberschreitenden Hinausspaltung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043300360)
 
 (1) Die Anmeldung zur Eintragung gemäß § 329 in Verbindung mit § 315
 gilt als Anmeldung zur Eintragung der grenzüberschreitenden Spaltung
@@ -6748,6 +7183,7 @@ Registervernetzung mitzuteilen.
 
 
 #### § 331 Eintragung der neuen Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043400360)
 
 (1) Das Vertretungsorgan der übertragenden Gesellschaft hat die neue
 Gesellschaft zur Eintragung in das Register des Sitzes der neuen
@@ -6786,6 +7222,7 @@ einzutragen.
 
 
 #### § 332 Spaltung zur Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043500360)
 
 Die Bestimmungen dieses Teils sind auf eine grenzüberschreitende
 Spaltung zur Aufnahme im Sinne des § 320 Absatz 1 Nummer 2
@@ -6812,10 +7249,12 @@ Verschmelzung entsprechend anzuwenden.
 
 
 ### Dritter Teil - Grenzüberschreitender Formwechsel
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG041800360)
 
 
 
 #### § 333 Grenzüberschreitender Formwechsel
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043600360)
 
 (1) Ein grenzüberschreitender Formwechsel ist der Wechsel einer nach
 dem Recht eines Mitgliedstaats der Europäischen Union oder eines
@@ -6854,6 +7293,7 @@ Register tritt.
 
 
 #### § 334 Formwechselfähige Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043700360)
 
 Im Rahmen eines grenzüberschreitenden Formwechsels können
 formwechselnde Gesellschaften und Gesellschaften neuer Rechtsform
@@ -6876,6 +7316,7 @@ Kapitalgesellschaften mit einer in Anhang II zur Richtlinie (EU)
 
 
 #### § 335 Formwechselplan
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043800360)
 
 (1) Das Vertretungsorgan der grenzüberschreitend formwechselnden
 Gesellschaft stellt einen Formwechselplan auf.
@@ -6949,12 +7390,14 @@ Angaben enthalten:
 
 
 #### § 336 Bekanntmachung des Formwechselplans
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE043900360)
 
 § 308 Absatz 1 gilt für die Bekanntmachung des Formwechselplans und
 seines Entwurfs entsprechend.
 
 
 #### § 337 Formwechselbericht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044000360)
 
 (1) § 309 Absatz 1, 2, 3 und 5 sowie § 310 Absatz 1, 2 und 3 gelten
 für den Formwechselbericht entsprechend.
@@ -6983,6 +7426,7 @@ insgesamt nicht erforderlich, wenn die Voraussetzungen der Sätze 1 und
 
 
 #### § 338 Formwechselprüfung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044100360)
 
 (1) Der Formwechselplan oder sein Entwurf ist nach den §§ 9 bis 11 und
 12 Absatz 1 zu prüfen. § 48 ist nicht anzuwenden. Der Prüfungsbericht
@@ -6995,6 +7439,7 @@ Absatz 3 Satz 1, 2 und 3 Nummer 2 sind entsprechend anzuwenden.
 
 
 #### § 339 Zustimmung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044200360)
 
 (1) Die Anteilsinhaber können ihre Zustimmung zum Formwechselplan nach
 § 193 Absatz 1 davon abhängig machen, dass die Art und Weise der
@@ -7008,6 +7453,7 @@ die Zustimmung zum Formwechselplan beschließt.
 
 
 #### § 340 Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044300360)
 
 (1) Die formwechselnde Gesellschaft hat im Formwechselplan oder seinem
 Entwurf jedem Anteilsinhaber, der gegen den Zustimmungsbeschluss der
@@ -7058,6 +7504,7 @@ anzuwenden.
 
 
 #### § 341 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044400360)
 
 (1) § 314 gilt für die formwechselnde Gesellschaft und ihre Gläubiger
 entsprechend.
@@ -7073,6 +7520,7 @@ des formwechselnden Rechtsträgers.
 
 
 #### § 342 Anmeldung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044500360)
 
 (1) Das Vertretungsorgan der Gesellschaft hat das Vorliegen der
 Voraussetzungen für den grenzüberschreitenden Formwechsel zur
@@ -7156,6 +7604,7 @@ innerhalb der Frist des § 341 Absatz 1 in Verbindung mit § 314 Absatz
 
 
 #### § 343 Formwechselbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044600360)
 
 (1) Das Gericht prüft innerhalb von drei Monaten nach der Anmeldung
 gemäß § 342 Absatz 1 und 2, ob für die Gesellschaft die
@@ -7237,6 +7686,7 @@ formwechselnden Gesellschaft den Tag des Wirksamwerdens zu vermerken.
 
 
 #### § 344 Informationen des Registergerichts
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044700360)
 
 Soweit dies für die Prüfung gemäß § 343 erforderlich ist, kann das
 Gericht
@@ -7274,6 +7724,7 @@ Unterlagen übermitteln.
 
 
 #### § 345 Eintragung des grenzüberschreitenden Hereinformwechsels
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE044800360)
 
 (1) Das Vertretungsorgan der formwechselnden Gesellschaft hat die
 Gesellschaft neuer Rechtsform bei dem zuständigen Gericht zur
@@ -7304,10 +7755,12 @@ hinterlegen hatte.
 
 
 ## Siebentes Buch - Strafvorschriften und Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040702360)
 
 
 
 ### § 346 Unrichtige Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE035504360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Mitglied eines Vertretungsorgans, als
@@ -7346,6 +7799,7 @@ unrichtige Angaben macht oder seiner Erklärung zugrunde legt.
 
 
 ### § 347 Verletzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE035601360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Verschmelzungs-, Spaltungs- oder Übertragungsprüfer
@@ -7359,6 +7813,7 @@ die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 ### § 348 Falsche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE038801360)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -7378,6 +7833,7 @@ bestraft, wer
 
 
 ### § 349 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE035704360)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis eines an einer Umwandlung beteiligten
@@ -7420,6 +7876,7 @@ antragsberechtigt.
 
 
 ### § 350 Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE035804360)
 
 (1) Mitglieder eines Vertretungsorgans, vertretungsberechtigte
 Gesellschafter, vertretungsberechtigte Partner oder Abwickler, die §
@@ -7442,10 +7899,12 @@ Absatz 1 werden durch Festsetzung von Zwangsgeld nicht erzwungen.
 
 
 ## Achtes Buch - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNG040802360)
 
 
 
 ### § 351 Umwandlung alter juristischer Personen
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE035901360)
 
 Eine juristische Person im Sinne des Artikels 163 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche kann nach den für
@@ -7456,6 +7915,7 @@ dieses Gesetzes umgewandelt werden.
 
 
 ### § 352 Eingeleitete Umwandlungen. Umstellung auf den Euro
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE036002360)
 
 (1) Die Vorschriften dieses Gesetzes sind nicht auf solche
 Umwandlungen anzuwenden, zu deren Vorbereitung bereits vor dem 1.
@@ -7484,6 +7944,7 @@ zu diesem Tage geltenden Gründungsvorschriften.
 
 
 ### § 353 Enthaftung bei Altverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE036102360)
 
 Die §§ 45, 133 Abs. 1, 3 bis 5, §§ 157, 167, 173, 224, 237, 249 und
 257 sind auch auf vor dem 1. Januar 1995 entstandene Verbindlichkeiten
@@ -7514,6 +7975,7 @@ entsprechend den dort genannten Vorschriften.
 
 
 ### § 354 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE036305360)
 
 (1) Im Fall des § 15 Abs. 2 Satz 1 bleibt es für die Zeit vor dem 1.
 September 2009 bei dem bis dahin geltenden Zinssatz.
@@ -7538,6 +8000,7 @@ vor dem 1. Januar 2022 geschlossen wurde.
 
 
 ### § 355 Übergangsvorschrift zum Gesetz zur Umsetzung der Umwandlungsrichtlinie und zur Änderung weiterer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/umwg_1995/BJNR321010994.html#BJNR321010994BJNE040800360)
 
 (1) Eine Verschmelzung, eine Spaltung oder ein Formwechsel kann von
 den beteiligten Rechtsträgern in Übereinstimmung mit den Bestimmungen

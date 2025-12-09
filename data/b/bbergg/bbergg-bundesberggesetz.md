@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE004800315)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Einleitende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000100315)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE004901307)
 
 Zweck dieses Gesetzes ist es,
 
@@ -52,6 +55,7 @@ Zweck dieses Gesetzes ist es,
 
 
 ### § 2 Sachlicher und räumlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005002123)
 
 (1) Dieses Gesetz gilt für
 
@@ -137,6 +141,7 @@ Absatzes 1 Nr. 1
 
 
 ### § 3 Bergfreie und grundeigene Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005102125)
 
 (1) Bodenschätze sind mit Ausnahme von Wasser alle mineralischen
 Rohstoffe in festem oder flüssigem Zustand und Gase, die in
@@ -209,6 +214,7 @@ anderes ergibt:
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005201123)
 
 (1) Aufsuchen (Aufsuchung) ist die mittelbar oder unmittelbar auf die
 Entdeckung oder Feststellung der Ausdehnung von Bodenschätzen
@@ -302,6 +308,7 @@ Bundesrepublik Deutschland führt oder diesen durchquert.
 
 
 ### § 5 Anwendung des Verwaltungsverfahrensgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005301360)
 
 Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen ist, soweit in diesem Gesetz nichts
@@ -309,6 +316,7 @@ anderes bestimmt ist, das Verwaltungsverfahrensgesetz anzuwenden.
 
 
 ### § 5a Öffentliche Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023900124)
 
 (1) Entscheidungen, die in Ausführung dieses Gesetzes ergehen und auf
 die § 1 Absatz 1 Satz 1 Nummer 1, 5 oder 6 des Umwelt-
@@ -339,18 +347,22 @@ angefordert werden kann.
 
 
 ## Zweiter Teil - Bergbauberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000200315)
 
 
 
 ### Erstes Kapitel - Bergfreie Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000300315)
 
 
 
 #### Erster Abschnitt - Erlaubnis, Bewilligung, Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000400315)
 
 
 
 ##### § 6 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005400315)
 
 Wer bergfreie Bodenschätze aufsuchen will, bedarf der Erlaubnis, wer
 bergfreie Bodenschätze gewinnen will, der Bewilligung oder des
@@ -360,6 +372,7 @@ verliehen werden.
 
 
 ##### § 7 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005500315)
 
 (1) Die Erlaubnis gewährt das ausschließliche Recht, nach den
 Vorschriften dieses Gesetzes in einem bestimmten Feld (Erlaubnisfeld)
@@ -391,6 +404,7 @@ dasselbe Feld nicht aus.
 
 
 ##### § 8 Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005600315)
 
 (1) Die Bewilligung gewährt das ausschließliche Recht, nach den
 Vorschriften dieses Gesetzes
@@ -424,6 +438,7 @@ Aufsuchung zu wissenschaftlichen Zwecken für dasselbe Feld nicht aus.
 
 
 ##### § 9 Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005700315)
 
 (1) Bergwerkseigentum gewährt das ausschließliche Recht, nach den
 Vorschriften dieses Gesetzes die in § 8 Abs. 1 Nr. 1 bis 4
@@ -439,6 +454,7 @@ Bergwerkseigentums ist unzulässig.
 
 
 ##### § 10 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005800315)
 
 Erlaubnis und Bewilligung werden nur auf Antrag erteilt,
 Bergwerkseigentum nur auf Antrag verliehen. Der Antrag ist schriftlich
@@ -446,6 +462,7 @@ bei der zuständigen Behörde zu stellen.
 
 
 ##### § 11 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE005900315)
 
 Die Erlaubnis ist zu versagen, wenn
 
@@ -522,6 +539,7 @@ Die Erlaubnis ist zu versagen, wenn
 
 
 ##### § 12 Versagung der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006000315)
 
 (1) Für die Versagung der Bewilligung gilt § 11 Nr. 1 und 6 bis 10
 entsprechend. Die Bewilligung ist ferner zu versagen, wenn
@@ -556,6 +574,7 @@ eingetreten sind.
 
 
 ##### § 13 Versagung der Verleihung von Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006100315)
 
 Die Verleihung von Bergwerkseigentum ist zu versagen, wenn
 
@@ -602,6 +621,7 @@ Die Verleihung von Bergwerkseigentum ist zu versagen, wenn
 
 
 ##### § 14 Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006200315)
 
 (1) Dem Inhaber einer Erlaubnis zur Aufsuchung zu gewerblichen Zwecken
 hat die zuständige Behörde unverzüglich den Inhalt jedes Antrages
@@ -627,6 +647,7 @@ Abs. 2 bleibt unberührt.
 
 
 ##### § 15 Beteiligung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006300315)
 
 Die zuständige Behörde hat vor der Entscheidung über den Antrag den
 Behörden Gelegenheit zur Stellungnahme zu geben, zu deren Aufgaben die
@@ -634,6 +655,7 @@ Wahrnehmung öffentlicher Interessen im Sinne des § 11 Nr. 10 gehört.
 
 
 ##### § 16 Form, Inhalt und Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006402125)
 
 (1) Erlaubnis und Bewilligung bedürfen der Schriftform. Sie sind für
 ein bestimmtes Feld und für bestimmte Bodenschätze zu erteilen. Das
@@ -675,6 +697,7 @@ planmäßiger Gewinnung ist zulässig.
 
 
 ##### § 17 Entstehung des Bergwerkseigentums
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006501308)
 
 (1) Bergwerkseigentum entsteht mit der Zustellung der
 Berechtsamsurkunde an den Antragsteller. Die Zustellung ist erst
@@ -718,6 +741,7 @@ eines neuen Bergwerkseigentümers zu benachrichtigen.
 
 
 ##### § 18 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006600315)
 
 (1) Erlaubnis und Bewilligung sind zu widerrufen, wenn nachträglich
 Tatsachen eintreten, die zur Versagung hätten führen müssen.
@@ -753,6 +777,7 @@ Bergwerkseigentums, wenn der Widerruf wirksam geworden ist.
 
 
 ##### § 19 Aufhebung der Erlaubnis und Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006700315)
 
 (1) Eine Erlaubnis oder Bewilligung ist auf Antrag ihres Inhabers ganz
 oder teilweise aufzuheben. Der Antrag ist schriftlich oder zur
@@ -764,6 +789,7 @@ oder Bewilligung in dem Umfang, in dem sie aufgehoben wird.
 
 
 ##### § 20 Aufhebung von Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006800315)
 
 (1) Das Bergwerkseigentum ist auf Antrag des Bergwerkseigentümers
 aufzuheben. Eine teilweise Aufhebung ist nicht zulässig.
@@ -797,6 +823,7 @@ Behörde das Grundbuchamt um die Löschung.
 
 
 ##### § 21 Beteiligung an der Aufsuchung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE006900315)
 
 (1) Die zuständige Behörde hat
 
@@ -830,6 +857,7 @@ zumutbar ist.
 
 
 ##### § 22 Übertragung und Übergang der Erlaubnis und Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007001308)
 
 (1) Die Übertragung der Erlaubnis oder Bewilligung auf einen Dritten
 oder die Beteiligung Dritter an einer Erlaubnis oder Bewilligung ist
@@ -860,6 +888,7 @@ sonstige Fälle der Gesamtrechtsnachfolge entsprechend.
 
 
 ##### § 23 Veräußerung von Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007100315)
 
 (1) Die rechtsgeschäftliche Veräußerung von Bergwerkseigentum und der
 schuldrechtliche Vertrag hierüber bedürfen der Genehmigung der
@@ -873,16 +902,19 @@ zuständige Behörde auf Verlangen ein Zeugnis zu erteilen.
 
 
 #### Zweiter Abschnitt - Vereinigung, Teilung und Austausch von Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000500315)
 
 
 
 ##### § 24 Zulässigkeit der Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007200315)
 
 Bergwerksfelder dürfen vereinigt werden, wenn sie aneinandergrenzen
 und das Bergwerkseigentum auf die gleichen Bodenschätze verliehen ist.
 
 
 ##### § 25 Voraussetzungen der Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007300315)
 
 Zur Vereinigung sind erforderlich
 
@@ -912,6 +944,7 @@ Zur Vereinigung sind erforderlich
 
 
 ##### § 26 Genehmigung der Vereinigung, Berechtsamsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007400315)
 
 (1) Die Genehmigung darf nur versagt werden, wenn
 
@@ -935,6 +968,7 @@ Berechtsamsurkunde verbunden.
 
 
 ##### § 27 Wirkung der Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007500315)
 
 (1) Mit der Zustellung der Berechtsamsurkunde an den Antragsteller
 entsteht unter Erlöschen des bisherigen Bergwerkseigentums neues
@@ -947,6 +981,7 @@ ist eine beglaubigte Abschrift der Berechtsamsurkunde beizufügen.
 
 
 ##### § 28 Teilung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007600315)
 
 Ein Bergwerksfeld kann in selbständige Teile geteilt werden, wenn die
 Teile dem § 4 Abs. 7 entsprechen und durch die Teilung eine
@@ -960,6 +995,7 @@ oder beglaubigten Abschriften der Urkunden ausreichend.
 
 
 ##### § 29 Austausch
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007700315)
 
 Der Austausch von Teilen von Bergwerksfeldern ist zulässig, wenn die
 auszutauschenden Teile jeweils an das Bergwerksfeld angrenzen, mit dem
@@ -987,10 +1023,12 @@ Die §§ 25 bis 27 sind mit folgender Maßgabe entsprechend anzuwenden:
 
 
 #### Dritter Abschnitt - Feldes- und Förderabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000600315)
 
 
 
 ##### § 30 Feldesabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007801377)
 
 (1) Der Inhaber einer Erlaubnis zur Aufsuchung zu gewerblichen Zwecken
 hat jährlich eine Feldesabgabe zu entrichten.
@@ -1007,6 +1045,7 @@ Aufsuchung gemachten Aufwendungen anzurechnen.
 
 
 ##### § 31 Förderabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE007900315)
 
 (1) Der Inhaber einer Bewilligung hat jährlich für die innerhalb des
 jeweiligen Jahres aus dem Bewilligungsfeld gewonnenen oder
@@ -1028,6 +1067,7 @@ Förderabgabe zugrunde zu legenden Wert fest.
 
 
 ##### § 32 Feststellung, Erhebung und Änderung der Feldes- und Förderabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008000315)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 die zur Durchführung der §§ 30 und 31 erforderlichen Vorschriften über
@@ -1072,10 +1112,12 @@ und 2 durch Rechtsverordnung auf andere Stellen übertragen.
 
 
 #### Vierter Abschnitt - Fundanzeige
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000700315)
 
 
 
 ##### § 33 Anzeige und Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008100315)
 
 (1) Wer einen bergfreien Bodenschatz entdeckt, ohne zu seiner
 Aufsuchung oder Gewinnung berechtigt zu sein, und der zuständigen
@@ -1094,10 +1136,12 @@ der Erteilung einer Bewilligung zu benachrichtigen.
 
 
 ### Zweites Kapitel - Grundeigene Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000800315)
 
 
 
 #### § 34 Inhalt der Befugnis zur Aufsuchung und Gewinnung grundeigener Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008200315)
 
 Für die Befugnis des Grundeigentümers, bei der Aufsuchung und
 Gewinnung grundeigener Bodenschätze nach Maßgabe dieses Gesetzes
@@ -1117,10 +1161,12 @@ das Grundstück tritt, auf das sich das Grundeigentum bezieht.
 
 
 ### Drittes Kapitel - Zulegung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG000900315)
 
 
 
 #### § 35 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008300315)
 
 Die zuständige Behörde kann auf Antrag dem Inhaber einer
 Gewinnungsberechtigung durch Zulegung das Recht erteilen, den Abbau
@@ -1192,6 +1238,7 @@ fortzuführen (grenzüberschreitender Abbau), wenn
 
 
 #### § 36 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008401118)
 
 Auf das Verfahren sind die Vorschriften über das förmliche
 Verwaltungsverfahren nach Teil V Abschnitt 1 des
@@ -1233,6 +1280,7 @@ Länder, soweit dies landesrechtlich angeordnet ist.
 
 
 #### § 37 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008500315)
 
 (1) Für die Erteilung des Rechts zum grenzüberschreitenden Abbau hat
 der Berechtigte eine Entschädigung an den Inhaber der fremden
@@ -1255,6 +1303,7 @@ Gesetzbuch entsprechend.
 
 
 #### § 38 Inhalt der Zulegung, Aufhebung, Förderabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008600315)
 
 (1) Für das Recht zum grenzüberschreitenden Abbau gelten die §§ 8, 15,
 16 Abs. 5 und § 18 Abs. 1 und 3 entsprechend. § 31 gilt in dem Umfang
@@ -1274,18 +1323,22 @@ gelten würde.
 
 
 ## Dritter Teil - Aufsuchung, Gewinnung und Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001000315)
 
 
 
 ### Erstes Kapitel - Allgemeine Vorschriften über die Aufsuchung und Gewinnung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001100315)
 
 
 
 #### Erster Abschnitt - Aufsuchung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001200315)
 
 
 
 ##### § 39 Einigung mit dem Grundeigentümer, Zustimmung anderer Behörden, Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008700315)
 
 (1) Wer zum Zwecke der Aufsuchung ein fremdes Grundstück benutzen
 will, hat vor Beginn der Aufsuchung
@@ -1352,6 +1405,7 @@ Sicherheitsleistung verlangen.
 
 
 ##### § 40 Streitentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008800315)
 
 (1) Wird die nach § 39 Abs. 1 Satz 1 Nr. 1 erforderliche Zustimmung
 versagt, so kann sie auf Antrag durch eine Entscheidung der
@@ -1371,6 +1425,7 @@ begonnen oder fortgesetzt werden.
 
 
 ##### § 41 Gewinnung von Bodenschätzen bei der Aufsuchung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE008900315)
 
 Der Aufsuchungsberechtigte hat das Recht, Bodenschätze zu gewinnen,
 soweit die Bodenschätze nach der Entscheidung der zuständigen Behörde
@@ -1381,10 +1436,12 @@ Bodenschätze in eigenen Grundstücken zu gewinnen, bleibt unberührt.
 
 
 #### Zweiter Abschnitt - Gewinnung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001300315)
 
 
 
 ##### § 42 Mitgewinnung von Bodenschätzen bei der Gewinnung bergfreier Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009000315)
 
 (1) Bei der Gewinnung bergfreier Bodenschätze hat der
 Gewinnungsberechtigte das Recht, innerhalb des Feldes seiner
@@ -1447,12 +1504,14 @@ Anteile.
 
 
 ##### § 43 Mitgewinnung von Bodenschätzen bei der Gewinnung grundeigener Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009100315)
 
 Bei der Gewinnung grundeigener Bodenschätze gilt für die Mitgewinnung
 bergfreier Bodenschätze § 42 entsprechend.
 
 
 ##### § 44 Hilfsbaurecht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009200315)
 
 (1) Der Gewinnungsberechtigte hat das Recht, außerhalb des Feldes
 seiner Gewinnungsberechtigung unterirdische Anlagen zu errichten, die
@@ -1469,6 +1528,7 @@ leisten.
 
 
 ##### § 45 Mitgewinnung von Bodenschätzen bei Anlegung von Hilfsbauen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009300315)
 
 (1) Der Hilfsbauberechtigte hat das Recht, alle Bodenschätze
 mitzugewinnen, die nach der Entscheidung der zuständigen Behörde bei
@@ -1484,6 +1544,7 @@ verlangen. § 42 Abs. 2 Satz 3 bis 5 und Abs. 4 gilt entsprechend.
 
 
 ##### § 46 Hilfsbau bei Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009400315)
 
 Ein Hilfsbau, der auf Grund von Bergwerkseigentum rechtmäßig angelegt
 worden ist, gilt als dessen wesentlicher Bestandteil. Eine Eintragung
@@ -1491,6 +1552,7 @@ in das Grundbuch ist nicht erforderlich.
 
 
 ##### § 47 Benutzung fremder Grubenbaue
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009500315)
 
 (1) Der Gewinnungsberechtigte hat das Recht, fremde unter Tage
 errichtete Baue (Grubenbaue) zu benutzen, wenn
@@ -1527,10 +1589,12 @@ das Recht zur Benutzung.
 
 
 #### Dritter Abschnitt - Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001400315)
 
 
 
 ##### § 48 Allgemeine Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009602124)
 
 (1) Unberührt bleiben Rechtsvorschriften, die auf Grundstücken solche
 Tätigkeiten verbieten oder beschränken, die ihrer Art nach der
@@ -1559,6 +1623,7 @@ Hierauf ist in der Bekanntmachung hinzuweisen.
 
 
 ##### § 49 Beschränkung der Aufsuchung auf dem Festlandsockel und innerhalb der Küstengewässer
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009701307)
 
 Im Bereich des Festlandsockels und der Küstengewässer ist die
 Aufsuchung insoweit unzulässig, als sie
@@ -1585,10 +1650,12 @@ beeinträchtigt.
 
 
 ### Zweites Kapitel - Anzeige, Betriebsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001500315)
 
 
 
 #### § 50 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009800315)
 
 (1) Der Unternehmer hat der zuständigen Behörde die Errichtung und
 Aufnahme
@@ -1641,6 +1708,7 @@ zuständigen Behörde unverzüglich anzuzeigen.
 
 
 #### § 51 Betriebsplanpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE009900315)
 
 (1) Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur
 Aufbereitung dürfen nur auf Grund von Plänen (Betriebsplänen)
@@ -1670,6 +1738,7 @@ Festlandsockels.
 
 
 #### § 52 Betriebspläne für die Errichtung und Führung des Betriebes
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010007125)
 
 (1) Für die Errichtung und Führung eines Betriebes sind
 Hauptbetriebspläne für einen in der Regel zwei Jahre nicht
@@ -1773,6 +1842,7 @@ Genehmigung oder Zulassung vorliegt oder beantragt ist.
 
 
 #### § 53 Betriebsplan für die Einstellung des Betriebes, Betriebschronik
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010100315)
 
 (1) Für die Einstellung eines Betriebes ist ein Abschlußbetriebsplan
 aufzustellen, der eine genaue Darstellung der technischen Durchführung
@@ -1839,6 +1909,7 @@ Zukunft zukommen kann.
 
 
 #### § 54 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010201125)
 
 (1) Der Unternehmer hat den Betriebsplan, dessen Verlängerung,
 Ergänzung oder Abänderung vor Beginn der vorgesehenen Arbeiten zur
@@ -1890,6 +1961,7 @@ Verfahrensschritten durch den Dritten tragen muss.
 
 
 #### § 55 Zulassung des Betriebsplanes
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010302377)
 
 (1) Die Zulassung eines Betriebsplanes im Sinne des § 52 ist zu
 erteilen, wenn
@@ -1998,6 +2070,7 @@ Absatz 1 Satz 1 Nr. 2 bis 13 mit der Maßgabe entsprechend, daß
 
 
 #### § 56 Form und Inhalt der Zulassung, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010400315)
 
 (1) Die Zulassung eines Betriebsplanes bedarf der Schriftform. Die
 nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen ist
@@ -2030,6 +2103,7 @@ zuständige Behörde.
 
 
 #### § 57 Abweichungen von einem zugelassenen Betriebsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010500315)
 
 (1) Kann eine Gefahr für Leben oder Gesundheit Beschäftigter oder
 Dritter nur durch eine sofortige Abweichung von einem zugelassenen
@@ -2053,6 +2127,7 @@ Betriebsplanes ist unverzüglich zu beantragen.
 
 
 #### § 57a Planfeststellungsverfahren, Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023109125)
 
 (1) Das im Falle des § 52 Abs. 2a durchzuführende
 Planfeststellungsverfahren tritt an die Stelle des Verfahrens nach §
@@ -2113,6 +2188,7 @@ Gesetzes über die Umweltverträglichkeitsprüfung anzuwenden.
 
 
 #### § 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023201125)
 
 (1) Die zuständige Behörde kann unter dem Vorbehalt des Widerrufs
 zulassen, daß bereits vor der Planfeststellung oder vor der Zulassung
@@ -2173,6 +2249,7 @@ das Verfahren nach den anderen Vorschriften durchzuführen.
 
 
 #### § 57c Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023309119)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
@@ -2201,6 +2278,7 @@ enthalten muss.
 
 
 #### § 57d Zulassungsverfahren für störfallrelevante Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE024000118)
 
 (1) Bei der Zulassung eines Betriebsplans zur Errichtung oder Änderung
 eines Betriebs ist ein Rahmen- oder Sonderbetriebsplan zu verlangen
@@ -2267,6 +2345,7 @@ verbindliche Vorgaben Rechnung getragen worden ist.
 
 
 #### § 57e Verfahren im Zusammenhang mit Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE024200125)
 
 (1) Für die Zulassung von Betriebsplänen für Vorhaben im Zusammenhang
 mit der Gewinnung von Erdwärme nach diesem Gesetz sind die Absätze 2
@@ -2313,10 +2392,12 @@ auch der einheitlichen Stelle mit.
 
 
 ### Drittes Kapitel - Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001600315)
 
 
 
 #### § 58 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010600315)
 
 (1) Verantwortlich für die Erfüllung der Pflichten, die sich aus
 diesem Gesetz, den auf Grund der §§ 65 bis 67 erlassenen oder nach §
@@ -2348,6 +2429,7 @@ Zeitpunkt des Erlöschens Inhaber der Berechtigung war.
 
 
 #### § 59 Beschäftigung verantwortlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010700315)
 
 (1) Als verantwortliche Personen im Sinne des § 58 Abs. 1 Nr. 2 dürfen
 nur Personen beschäftigt werden, die die zur Erfüllung ihrer Aufgaben
@@ -2363,6 +2445,7 @@ gewährleistet ist.
 
 
 #### § 60 Form der Bestellung und Abberufung verantwortlicher Personen, Namhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010800315)
 
 (1) Die Bestellung und Abberufung verantwortlicher Personen sind
 schriftlich zu erklären. In Fällen, die nach § 57 Abs. 1 Satz 1 und
@@ -2380,6 +2463,7 @@ Behörde unverzüglich anzuzeigen.
 
 
 #### § 61 Allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE010900315)
 
 (1) Der Unternehmer ist für die ordnungsgemäße Leitung des Betriebes
 verantwortlich; ihm obliegt die Sicherheit und Ordnung im Betrieb. Er
@@ -2429,6 +2513,7 @@ Personen jederzeit eingesehen werden können.
 
 
 #### § 62 Übertragbarkeit bestimmter Pflichten und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011000315)
 
 Der Unternehmer kann
 
@@ -2449,10 +2534,12 @@ sind.
 
 
 ### Viertes Kapitel - Sonstige Bestimmungen für den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001700315)
 
 
 
 #### § 63 Rißwerk
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011100315)
 
 (1) Der Unternehmer hat für jeden Gewinnungsbetrieb und untertägigen
 Aufsuchungsbetrieb ein Rißwerk in zwei Stücken anfertigen und in den
@@ -2494,6 +2581,7 @@ der Einsichtnahme zugegen zu sein.
 
 
 #### § 64 Markscheider
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011200315)
 
 (1) Das für untertägige Aufsuchungs- oder Gewinnungsbetriebe
 vorgeschriebene Rißwerk muß von einem von der zuständigen Behörde
@@ -2512,10 +2600,12 @@ unter denen eine Person als Markscheider tätig werden kann.
 
 
 ## Vierter Teil - Ermächtigungen zum Erlaß von Bergverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001800315)
 
 
 
 ### § 65 Anzeige, Genehmigung, allgemeine Zulassung, Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011301308)
 
 Zum Schutze der in § 55 Abs. 1 Satz 1 Nr. 3 und 4 bezeichneten
 Rechtsgüter und Belange kann, soweit im Hinblick auf eine
@@ -2579,6 +2669,7 @@ werden,
 
 
 ### § 66 Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011403123)
 
 Zum Schutze der Beschäftigten und Dritter vor Gefahren im Betrieb und
 zur Wahrung der in § 55 Abs. 1 Satz 1 Nr. 2 bis 13 und Absatz 2
@@ -2747,6 +2838,7 @@ festlegen:
 
 
 ### § 67 Technische und statistische Unterlagen, Markscheidewesen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011501123)
 
 Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über
 Erteilung, Verleihung und Aufrechterhaltung von Bergbauberechtigungen
@@ -2796,6 +2888,7 @@ Rechtsverordnung (Bergverordnung) bestimmt werden,
 
 
 ### § 68 Erlaß von Bergverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011610119)
 
 (1) Bergverordnungen auf Grund der §§ 65 bis 67 werden, soweit sich
 aus Absatz 2 nichts anderes ergibt, von den Landesregierungen
@@ -2853,10 +2946,12 @@ verwiesen werden.
 
 
 ## Fünfter Teil - Bergaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG001900315)
 
 
 
 ### § 69 Allgemeine Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011701118)
 
 (1) Der Bergbau unterliegt der Aufsicht durch die zuständige Behörde
 (Bergaufsicht).
@@ -2890,6 +2985,7 @@ Abs. 1.
 
 
 ### § 70 Allgemeine Aufsichtsbefugnisse, Auskunfts- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011800315)
 
 (1) Wer zur Aufsuchung oder Gewinnung von bergfreien oder grundeigenen
 Bodenschätzen berechtigt ist, ferner die verantwortlichen Personen,
@@ -2936,6 +3032,7 @@ oder ausgeübt haben.
 
 
 ### § 71 Allgemeine Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE011900315)
 
 (1) Die zuständige Behörde kann im Einzelfall anordnen, welche
 Maßnahmen zur Durchführung der Vorschriften dieses Gesetzes, der auf
@@ -2964,6 +3061,7 @@ Voraussetzungen sicherzustellen.
 
 
 ### § 72 Verhinderung unerlaubter Tätigkeiten, Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012000315)
 
 (1) Wird die Aufsuchung oder Gewinnung bergfreier Bodenschätze ohne
 die erforderliche Berechtigung ausgeübt oder wird ein Betrieb ohne die
@@ -2986,6 +3084,7 @@ an die Stelle der sichergestellten Gegenstände.
 
 
 ### § 73 Untersagung der Beschäftigung verantwortlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012100315)
 
 (1) Die zuständige Behörde kann dem Unternehmer die Beschäftigung
 einer der in § 58 Abs. 1 Nr. 2 genannten verantwortlichen Personen in
@@ -3020,6 +3119,7 @@ zur Vertretung berechtigten Person vorliegen.
 
 
 ### § 74 Hilfeleistung, Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012200315)
 
 (1) Bei Betriebsereignissen, die eine Gefahr für Beschäftigte oder
 Dritte herbeigeführt haben oder herbeizuführen geeignet sind, kann die
@@ -3052,10 +3152,12 @@ unverzüglich anzuzeigen.
 
 
 ## Sechster Teil - Berechtsamsbuch, Berechtsamskarte
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002000315)
 
 
 
 ### § 75 Anlegung und Führung des Berechtsamsbuchs und der Berechtsamskarte
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012300315)
 
 (1) Bei der zuständigen Behörde werden ein Berechtsamsbuch und eine
 Berechtsamskarte angelegt und geführt.
@@ -3096,6 +3198,7 @@ Weise zu kennzeichnen.
 
 
 ### § 76 Einsicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012401118)
 
 (1) Die Einsicht in das Berechtsamsbuch, in die Berechtsamskarte und
 in Urkunden, auf die in der Eintragung Bezug genommen wird, ist jedem
@@ -3135,18 +3238,22 @@ anderer Vorschriften bleiben unberührt.
 
 
 ## Siebenter Teil - Bergbau und Grundbesitz, Öffentliche Verkehrsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002100315)
 
 
 
 ### Erstes Kapitel - Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002200315)
 
 
 
 #### Erster Abschnitt - Zulässigkeit und Voraussetzungen der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002300315)
 
 
 
 ##### § 77 Zweck der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012500315)
 
 (1) Nach den Vorschriften dieses Kapitels kann auf Antrag des
 Unternehmers eine Grundabtretung durchgeführt werden, soweit für die
@@ -3167,6 +3274,7 @@ bezeichneten Zwecken bleiben unberührt.
 
 
 ##### § 78 Gegenstand der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012600315)
 
 Durch Grundabtretung können
 
@@ -3184,6 +3292,7 @@ oder sonst beschränkt werden.
 
 
 ##### § 79 Voraussetzungen für die Zulässigkeit der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012700315)
 
 (1) Die Grundabtretung ist im einzelnen Falle zulässig, wenn sie dem
 Wohle der Allgemeinheit dient, insbesondere die Versorgung des Marktes
@@ -3229,6 +3338,7 @@ Standortgebundenheit des Vorhabens erteilt werden.
 
 
 ##### § 80 Grundabtretungsbegünstigter und -pflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012800315)
 
 (1) Grundabtretungsbegünstigter ist der Unternehmer, für dessen
 Vorhaben ein Grundabtretungsverfahren durchgeführt wird.
@@ -3244,6 +3354,7 @@ Grundabtretung zustehen.
 
 
 ##### § 81 Umfang der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE012900315)
 
 (1) Die Grundabtretung darf nur in dem Umfang durchgeführt werden, in
 dem sie zur Verwirklichung des Grundabtretungszweckes erforderlich
@@ -3300,6 +3411,7 @@ Beendigung der Benutzung zu diesem Zweck,
 
 
 ##### § 82 Ausdehnung der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013000315)
 
 (1) In den in § 81 Abs. 2 Satz 1 Nr. 1 genannten Fällen kann der
 Eigentümer anstelle einer anderen beantragten Form der Grundabtretung
@@ -3331,6 +3443,7 @@ verwerten kann.
 
 
 ##### § 83 Sinngemäße Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013100315)
 
 (1) Soweit nichts anderes bestimmt ist, gelten
 
@@ -3353,10 +3466,12 @@ anderen Rechte sinngemäß anzuwenden.
 
 
 #### Zweiter Abschnitt - Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002400315)
 
 
 
 ##### § 84 Entschädigungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013202377)
 
 (1) Für die Grundabtretung ist eine Entschädigung zu leisten.
 
@@ -3395,6 +3510,7 @@ Zeitpunkt maßgebend, in dem diese wirksam wird.
 
 
 ##### § 85 Entschädigung für den Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013301309)
 
 (1) Die Entschädigung für den Rechtsverlust bemißt sich nach dem
 Verkehrswert des Gegenstandes der Grundabtretung.
@@ -3411,6 +3527,7 @@ Vorschriften sind entsprechend anzuwenden.
 
 
 ##### § 86 Entschädigung für andere Vermögensnachteile, Mitverschulden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013400315)
 
 (1) Wegen anderer durch die Grundabtretung eintretender
 Vermögensnachteile ist eine Entschädigung nur zu gewähren, soweit
@@ -3448,6 +3565,7 @@ Bürgerlichen Gesetzbuchs entsprechend.
 
 
 ##### § 87 Behandlung der Rechte der Nebenberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013500315)
 
 (1) Rechte an dem abzutretenden Grundstück sowie persönliche Rechte,
 die zum Besitz oder zur Nutzung des Grundstücks berechtigen oder die
@@ -3483,6 +3601,7 @@ Restbesitzes nach § 86 Abs. 2 Nr. 2 festgesetzt werden.
 
 
 ##### § 88 Schuldübergang bei Entziehung des Eigentums an Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013600315)
 
 Wird das Eigentum an einem Grundstück entzogen und haftet bei einem
 Grundpfandrecht, das aufrechterhalten wird, der
@@ -3493,6 +3612,7 @@ Grundstücks hinaus.
 
 
 ##### § 89 Entschädigungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013700315)
 
 (1) Wird im Wege der Grundabtretung ein Nutzungsrecht begründet oder
 dem Eigentümer oder sonstigen Nutzungsberechtigten eine mit einem
@@ -3527,6 +3647,7 @@ einer Sicherheit entscheidet die zuständige Behörde.
 
 
 ##### § 90 Wertänderungen, Veränderungen, Begründung neuer Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013800315)
 
 (1) Bei der Festsetzung der Entschädigung bleiben folgende
 Wertänderungen unberücksichtigt:
@@ -3591,10 +3712,12 @@ Zustandes anordnen.
 
 
 #### Dritter Abschnitt - Vorabentscheidung, Ausführung und Rückgängigmachen der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002500315)
 
 
 
 ##### § 91 Vorabentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE013900315)
 
 Auf Antrag des Grundabtretungsbegünstigten, des
 Grundabtretungspflichtigen oder eines Nebenberechtigten hat die
@@ -3606,6 +3729,7 @@ Vorauszahlung in Höhe der zu erwartenden Entschädigung zu leisten ist.
 
 
 ##### § 92 Ausführung der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014000315)
 
 (1) Die Ausführung einer Grundabtretung ist nur zulässig, wenn die
 Entscheidung über den Antrag nach § 77 unanfechtbar geworden ist und
@@ -3656,6 +3780,7 @@ vorzeitige Ausführung der Grundabtretung zu übersenden.
 
 
 ##### § 93 Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014100315)
 
 (1) Entschädigungen, aus denen Entschädigungsberechtigte nach § 87
 Abs. 3 zu befriedigen sind, sind unter Verzicht auf das Recht der
@@ -3671,6 +3796,7 @@ statthaft ist, bleiben unberührt.
 
 
 ##### § 94 Geltendmachung der Rechte an der Hinterlegung, Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014200315)
 
 (1) Nach Eintritt des neuen Rechtszustandes (§ 92 Abs. 1 Satz 4) kann
 jeder Beteiligte seine Rechte an der hinterlegten Summe gegen einen
@@ -3730,6 +3856,7 @@ Vollstreckungsgerichts statt.
 
 
 ##### § 95 Lauf der Verwendungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014300315)
 
 (1) Die Frist, innerhalb deren der Grundabtretungszweck nach § 81 Abs.
 1 Satz 2 zu verwirklichen ist, beginnt mit dem Eintritt der
@@ -3754,6 +3881,7 @@ hören.
 
 
 ##### § 96 Aufhebung der Grundabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014400315)
 
 (1) Auf Antrag des früheren Grundabtretungspflichtigen hat die
 zuständige Behörde vorbehaltlich des Absatzes 2 die durch die
@@ -3807,10 +3935,12 @@ bewirkten Rechtsänderungen entsprechend.
 
 
 #### Vierter Abschnitt - Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002600315)
 
 
 
 ##### § 97 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014500315)
 
 Ist die sofortige Ausführung des die Grundabtretung erfordernden
 Vorhabens aus den in § 79 genannten Gründen des Wohles der
@@ -3823,6 +3953,7 @@ Gelegenheit zur Stellungnahme gegeben worden ist.
 
 
 ##### § 98 Besitzeinweisungsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014600315)
 
 (1) Der Grundabtretungsbegünstigte hat für die durch die vorzeitige
 Besitzeinweisung entstehenden Vermögensnachteile Entschädigung in Geld
@@ -3837,6 +3968,7 @@ fällig, in dem die vorzeitige Besitzeinweisung wirksam wird.
 
 
 ##### § 99 Zustandsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014700315)
 
 Auf Antrag des Grundabtretungsbegünstigten, des Besitzers oder des
 Eigentümers hat die zuständige Behörde den Zustand des Grundstücks vor
@@ -3847,6 +3979,7 @@ festgestellt werden.
 
 
 ##### § 100 Wirksamwerden und Rechtsfolgen der vorzeitigen Besitzeinweisung, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014800315)
 
 (1) Die Besitzeinweisung wird in dem von der zuständigen Behörde
 bezeichneten Zeitpunkt wirksam. In diesem Zeitpunkt wird dem
@@ -3869,6 +4002,7 @@ machen.
 
 
 ##### § 101 Aufhebung und Änderung der vorzeitigen Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE014900315)
 
 (1) Die vorzeitige Besitzeinweisung ist aufzuheben, wenn
 
@@ -3901,6 +4035,7 @@ Besitzer wieder Besitzer.
 
 
 ##### § 102 Entschädigung bei Aufhebung oder Änderung der vorzeitigen Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015000315)
 
 (1) Wird die vorzeitige Besitzeinweisung aufgehoben oder die
 Entscheidung über die Besitzeinweisung geändert, so hat der
@@ -3931,10 +4066,12 @@ wird, die Verpflichtung hierzu auszusprechen.
 
 
 #### Fünfter Abschnitt - Kosten, Zwangsvollstreckung, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002700315)
 
 
 
 ##### § 103 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015100315)
 
 (1) Der Grundabtretungsbegünstigte hat die Kosten des Verfahrens zu
 tragen. Soweit Kosten jedoch durch Verschulden oder durch Anträge
@@ -3953,6 +4090,7 @@ stattgegeben wird.
 
 
 ##### § 104 Vollstreckbarer Titel
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015200315)
 
 (1) Die Zwangsvollstreckung nach den Vorschriften der
 Zivilprozeßordnung über die Vollstreckung von Urteilen in bürgerlichen
@@ -3984,6 +4122,7 @@ zuständige Behörde ihren Sitz hat, an die Stelle des Prozeßgerichts.
 
 
 ##### § 105 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015300315)
 
 Auf die Grundabtretung sind, soweit sich aus diesem Kapitel nichts
 anderes ergibt, die Vorschriften über das förmliche
@@ -3992,6 +4131,7 @@ Verwaltungsverfahrensgesetzes anzuwenden.
 
 
 ##### § 106 Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015400315)
 
 (1) Die zuständige Behörde teilt dem Grundbuchamt die Einleitung des
 Grundabtretungsverfahrens mit. Das Grundbuchamt hat die zuständig
@@ -4009,10 +4149,12 @@ Vollstreckungsverfahrens ist.
 
 
 ### Zweites Kapitel - Baubeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002800315)
 
 
 
 #### § 107 Festsetzung von Baubeschränkungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015500315)
 
 (1) Soweit Grundstücke für die Aufsuchung und Gewinnung von
 Bodenschätzen in Anspruch genommen werden sollen, kann die
@@ -4044,6 +4186,7 @@ beschränken; Absatz 2 gilt entsprechend.
 
 
 #### § 108 Wirkung der Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015600315)
 
 (1) In Baubeschränkungsgebieten darf die für die Errichtung,
 Erweiterung, Änderung oder Nutzungsänderung baulicher Anlagen
@@ -4063,6 +4206,7 @@ oder forstwirtschaftlichen Betrieb zu dienen bestimmt sind.
 
 
 #### § 109 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015700315)
 
 (1) Tritt wegen Versagung der Zustimmung nach § 108 Abs. 2 eine nicht
 nur unwesentliche Wertminderung des Grundstücks ein, so ist dem
@@ -4096,14 +4240,17 @@ entsprechend.
 
 
 ### Drittes Kapitel - Bergschaden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG002900315)
 
 
 
 #### Erster Abschnitt - Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003000315)
 
 
 
 ##### § 110 Anpassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015800315)
 
 (1) Soweit durch Gewinnungsbetriebe, für die zumindest ein
 Rahmenbetriebsplan nach § 52 Abs. 2 Nr. 1 vorliegt, Beeinträchtigungen
@@ -4146,6 +4293,7 @@ einschließende Genehmigung.
 
 
 ##### § 111 Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE015900315)
 
 (1) Soweit ein vorbeugender Schutz durch Maßnahmen nach § 110 nicht
 ausreicht, sind bauliche Anlagen mit den zur Sicherung gegen
@@ -4166,6 +4314,7 @@ Unterlassen beruhenden Teil der Aufwendungen für Sicherungsmaßnahmen.
 
 
 ##### § 112 Verlust des Ersatzanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016000315)
 
 Werden bauliche Anlagen unter Verstoß gegen § 110 oder § 111
 errichtet, erweitert oder wesentlich verändert, so ist ein Anspruch
@@ -4181,6 +4330,7 @@ grober Fahrlässigkeit beruhen, gilt § 118 entsprechend.
 
 
 ##### § 113 Bauwarnung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016100315)
 
 (1) Ist der Schutz baulicher Anlagen vor Bergschäden nach § 110 oder §
 111 nicht möglich oder stehen Nachteile oder Aufwendungen für eine
@@ -4222,14 +4372,17 @@ erklärt wird, um einen Wertersatz zu erlangen.
 
 
 #### Zweiter Abschnitt - Haftung für Bergschäden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003100315)
 
 
 
 ##### Erster Unterabschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003200315)
 
 
 
 ###### § 114 Bergschaden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016200315)
 
 (1) Wird infolge der Ausübung einer der in § 2 Abs. 1 Nr. 1 und 2
 bezeichneten Tätigkeiten oder durch eine der in § 2 Abs. 1 Nr. 3
@@ -4266,6 +4419,7 @@ nach den §§ 115 bis 120 Ersatz zu leisten.
 
 
 ###### § 115 Ersatzpflicht des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016300315)
 
 (1) Zum Ersatz eines Bergschadens ist der Unternehmer verpflichtet,
 der den Bergbaubetrieb zur Zeit der Verursachung des Bergschadens
@@ -4293,6 +4447,7 @@ und 3 entsprechend.
 
 
 ###### § 116 Ersatzpflicht des Bergbauberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016400315)
 
 (1) Neben dem nach § 115 Abs. 1 ersatzpflichtigen Unternehmer ist auch
 der Inhaber der dem Bergbaubetrieb zugrundeliegenden Berechtigung zur
@@ -4311,6 +4466,7 @@ anderes vereinbart ist, allein der Unternehmer.
 
 
 ###### § 117 Umfang der Ersatzpflicht, Verjährung, Rechte Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016502377)
 
 (1) Der Umfang der Ersatzpflicht richtet sich nach den Vorschriften
 des Bürgerlichen Gesetzbuchs über die Verpflichtung zum Ersatz des
@@ -4339,6 +4495,7 @@ Einführungsgesetzes zum Bürgerlichen Gesetzbuch entsprechend.
 
 
 ###### § 118 Mitwirkendes Verschulden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016600315)
 
 Hat bei der Entstehung des Bergschadens ein Verschulden des
 Geschädigten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs;
@@ -4348,6 +4505,7 @@ Geschädigten gleich.
 
 
 ###### § 119 Mitwirkung eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016700315)
 
 Hat bei der Entstehung eines Bergschadens eine Ursache mitgewirkt, die
 die Ersatzpflicht eines Dritten auf Grund eines anderen Gesetzes
@@ -4367,6 +4525,7 @@ die Haftungshöchstbeträge des § 117 hinaus Ersatz zu leisten.
 
 
 ###### § 120 Bergschadensvermutung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016801123)
 
 (1) Entsteht im Einwirkungsbereich der untertägigen Aufsuchung oder
 Gewinnung eines Bergbaubetriebes oder bei einer bergbaulichen
@@ -4410,6 +4569,7 @@ gewähren oder zu ermöglichen.
 
 
 ###### § 121 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE016900315)
 
 Unberührt bleiben gesetzliche Vorschriften, nach denen für einen
 Schaden im Sinne des § 114 in weiterem Umfang als nach den
@@ -4418,10 +4578,12 @@ anderer für den Schaden verantwortlich ist.
 
 
 ##### Zweiter Unterabschnitt - Bergschadensausfallkasse
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003300315)
 
 
 
 ###### § 122 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017106118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem
@@ -4460,6 +4622,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird.
 
 
 ###### § 123 Durchführungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017206118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -4487,10 +4650,12 @@ bedarf, Vorschriften zu erlassen über
 
 
 #### Dritter Abschnitt - Bergbau und öffentliche Verkehrsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003400315)
 
 
 
 ##### § 124 Öffentliche Verkehrsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017300315)
 
 (1) Die Errichtung, Erweiterung, wesentliche Veränderung und der
 Betrieb von öffentlichen Verkehrsanlagen und von Gewinnungsbetrieben
@@ -4542,10 +4707,12 @@ ist; Absatz 2 Satz 3 ist entsprechend anzuwenden.
 
 
 #### Vierter Abschnitt - Beobachtung der Oberfläche
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003500315)
 
 
 
 ##### § 125 Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017506118)
 
 (1) Die beteiligten Unternehmer haben auf ihre Kosten auf Verlangen
 und unter Aufsicht der zuständigen Behörde die Messungen durchführen
@@ -4593,10 +4760,12 @@ unter Angabe der Fundstelle verwiesen werden.
 
 
 ## Achter Teil - Sonstige Tätigkeiten und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003600315)
 
 
 
 ### § 126 Untergrundspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017601123)
 
 (1) Auf Untersuchungen des Untergrundes auf seine Eignung zur
 Errichtung von Untergrundspeichern und auf Untergrundspeicher sind die
@@ -4630,6 +4799,7 @@ behälterlosen Speicherung geeignet ist.
 
 
 ### § 127 Bohrungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017700315)
 
 (1) Für die nicht unter § 2 fallenden Bohrungen und die dazugehörigen
 Betriebseinrichtungen gelten, wenn die Bohrungen mehr als hundert
@@ -4667,6 +4837,7 @@ Rechtsverordnungen bleiben unberührt.
 
 
 ### § 128 Alte Halden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017800315)
 
 Für das Aufsuchen und Gewinnen mineralischer Rohstoffe in Halden
 gelten die §§ 39, 40, 42, 48, 50 bis 74 und 77 bis 104 und 106
@@ -4676,6 +4847,7 @@ Gewinnung oder Aufbereitung von Bodenschätzen stammen.
 
 
 ### § 129 Versuchsgruben, Bergbauversuchsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018006118)
 
 (1) Für Versuchsgruben gelten die §§ 50 bis 74, für nicht unter § 2
 fallende, wie ein Gewinnungsbetrieb eingerichtete bergbauliche
@@ -4691,11 +4863,13 @@ Abs. 1 bezeichneten Rechtsgüter und Belange erforderlich ist.
 
 
 ### § 130
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018101309)
 
 -
 
 
 ### § 131 Hauptstellen für das Grubenrettungswesen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018306118)
 
 (1) Unternehmer, die einen untertägigen Gewinnungsbetrieb oder einen
 Gewinnungsbetrieb mit brand- oder explosionsgefährdeten Anlagen oder
@@ -4720,10 +4894,12 @@ nach Absatz 2 die §§ 69 bis 74 entsprechend anzuwenden.
 
 
 ## Neunter Teil - Besondere Vorschriften für den Festlandsockel
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003700315)
 
 
 
 ### § 132 Forschungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018402308)
 
 (1) Wer in bezug auf den Festlandsockel an Ort und Stelle
 Forschungshandlungen vornehmen will, die ihrer Art nach zur Entdeckung
@@ -4792,6 +4968,7 @@ Wirkung.
 
 
 ### § 133 Unterwasserkabel und Transit-Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018503118)
 
 (1) Die Errichtung und der Betrieb einer Transit-Rohrleitung in oder
 auf dem Festlandsockel bedarf einer Genehmigung
@@ -4851,6 +5028,7 @@ Betrieb von Unterwasserkabeln.
 
 
 ### § 134 Überwachung und Vollziehung von Verwaltungsakten, Zusammenwirken
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018610119)
 
 (1) Im Bereich des Festlandsockels überwachen die in § 6 Nr. 1, 2 und
 4 des Gesetzes über den unmittelbaren Zwang bei Ausübung öffentlicher
@@ -4890,10 +5068,12 @@ Bundes, der Bundespolizei und der Zollverwaltung.
 
 
 ### § 135 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018710301)
 
 
 
 ### § 136 Zuständigkeiten für sonstige Verwaltungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018800315)
 
 Soweit sich aus den §§ 132 bis 134 nichts anderes ergibt, nimmt die
 Verwaltungsaufgaben nach diesem Gesetz und den hierzu erlassenen
@@ -4902,6 +5082,7 @@ Landesbehörde wahr.
 
 
 ### § 137 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE018900315)
 
 (1) Die Zuständigkeit der Länder im Bereich des Festlandsockels
 richtet sich nach dem Äquidistanzprinzip. Eine Feldes- oder
@@ -4916,14 +5097,17 @@ Förderabgabe bleibt einem besonderen Gesetz vorbehalten.
 
 
 ## Zehnter Teil - Bundesprüfanstalt, Sachverständigenausschuß, Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003800315)
 
 
 
 ### Erstes Kapitel - Bundesprüfanstalt für den Bergbau
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG003900315)
 
 
 
 #### § 138 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019006118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem
@@ -4966,6 +5150,7 @@ eine Stelle vorgenommen werden,
 
 
 #### § 139 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019106118)
 
 Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr.
 3 und 4 durchzuführen, soweit dies in Bergverordnungen des
@@ -4975,6 +5160,7 @@ Behörden und die Unternehmen zu beraten.
 
 
 #### § 140 Inanspruchnahme, Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019207123)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -5001,10 +5187,12 @@ Verwaltungsaufwandes zu berücksichtigen.
 
 
 ### Zweites Kapitel - Sachverständigenausschuß, Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG004000315)
 
 
 
 #### § 141 Sachverständigenausschuß Bergbau
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019306118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -5022,6 +5210,7 @@ werden.
 
 
 #### § 142 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019400315)
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen
 die für die Ausführung dieses Gesetzes zuständigen Behörden, soweit
@@ -5031,6 +5220,7 @@ Landes zuständig sind.
 
 
 #### § 143 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019506118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie erläßt mit
 Zustimmung des Bundesrates zur Durchführung dieses Gesetzes und der
@@ -5047,10 +5237,12 @@ Bundesrates.
 
 
 ## Elfter Teil - Rechtsweg, Bußgeld- und Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG004100315)
 
 
 
 ### § 144 Klage vor den ordentlichen Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019600315)
 
 (1) Für Rechtsstreitigkeiten über Entschädigungen ist der ordentliche
 Rechtsweg gegeben.
@@ -5081,6 +5273,7 @@ Ausfertigung der Entscheidung oder des Vergleichs.
 
 
 ### § 145 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019710123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5264,6 +5457,7 @@ bestimmte Behörde.
 
 
 ### § 146 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019804308)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 145 Abs. 1 Nr. 6, 8, 9, 16 und 17, auch in
@@ -5292,6 +5486,7 @@ bestraft.
 
 
 ### § 147 Erforschung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE019900315)
 
 Die für die Ausführung des Gesetzes zuständigen Landesbehörden haben
 bei der Erforschung von Straftaten nach § 146 die Rechte und Pflichten
@@ -5299,6 +5494,7 @@ der Behörden des Polizeidienstes.
 
 
 ### § 148 Tatort, Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020002377)
 
 (1) Werden Taten nach § 146 nicht im Inland begangen, so gilt das
 deutsche Strafrecht unabhängig vom Recht des Tatorts.
@@ -5319,14 +5515,17 @@ Gerichtsstand; zuständiges Amtsgericht ist das Amtsgericht Hamburg.
 
 
 ## Zwölfter Teil - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG004200315)
 
 
 
 ### Erstes Kapitel - Alte Rechte und Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG004300315)
 
 
 
 #### § 149 Voraussetzungen für die Aufrechterhaltung alter Rechte und Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020101307)
 
 (1) Nach Maßgabe der Vorschriften dieses Gesetzes bleiben
 aufrechterhalten
@@ -5503,6 +5702,7 @@ Fällen des Absatzes 5 bis zum Erlöschen des Rechts oder Vertrages.
 
 
 #### § 150 Ausnahme von der Bergfreiheit von Bodenschätzen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020200315)
 
 (1) In § 3 Abs. 3 Satz 1 oder 2 Nr. 2 aufgeführte Bodenschätze, auf
 die sich ein aufrechterhaltenes Recht oder aufrechterhaltener Vertrag
@@ -5519,6 +5719,7 @@ des Rechts, des Vertrages oder der Bewilligung bergfreie Bodenschätze.
 
 
 #### § 151 Bergwerkseigentum
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020300315)
 
 (1) Aufrechterhaltenes Bergwerkseigentum im Sinne des § 149 Abs. 1
 Satz 1 Nr. 1 gewährt das nicht befristete ausschließliche Recht, nach
@@ -5572,6 +5773,7 @@ den Vorschriften dieses Gesetzes
 
 
 #### § 152 Aufrechterhaltene Rechte und Verträge zur Aufsuchung, Forschungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020400315)
 
 (1) Aufrechterhaltene Rechte und Verträge im Sinne des § 149 Abs. 1
 Satz 1 Nr. 1, 2 und 4, die nur zur Aufsuchung von Bodenschätzen
@@ -5608,6 +5810,7 @@ Ablauf von zehn Jahren nach Inkrafttreten dieses Gesetzes.
 
 
 #### § 153 Konzessionen, Erlaubnisse und Verträge zur Gewinnung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020500315)
 
 Aufrechterhaltene Rechte und Verträge im Sinne des § 149 Abs. 1 Satz 1
 Nr. 2 und 7, die zur Gewinnung von Bodenschätzen oder zur Verfügung
@@ -5619,6 +5822,7 @@ befristeter Rechte und Verträge gilt § 16 Abs. 5 Satz 3 entsprechend.
 
 
 #### § 154 Bergwerke, Bergwerksberechtigungen und Sonderrechte
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020600315)
 
 (1) Aufrechterhaltene Rechte im Sinne des § 149 Abs. 1 Satz 1 Nr. 4,
 die zur Aufsuchung und Gewinnung berechtigen, gelten für die
@@ -5655,6 +5859,7 @@ Verleihungsurkunde oder einer entsprechenden Urkunde.
 
 
 #### § 155 Dingliche Gewinnungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020700315)
 
 Aufrechterhaltene dingliche Gewinnungsrechte im Sinne des § 149 Abs. 1
 Satz 1 Nr. 3 treten für die Bodenschätze, die Zeit und den Bereich,
@@ -5663,6 +5868,7 @@ belasteten Bergwerkseigentums. Die §§ 24 bis 29 sind nicht anzuwenden.
 
 
 #### § 156 Aufrechterhaltene Rechte und Verträge über grundeigene Bodenschätze
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020800315)
 
 (1) Der Inhalt aufrechterhaltener Rechte und Verträge im Sinne des §
 149 Abs. 1 Satz 1 Nr. 5 und 6 bleibt unberührt, soweit dieses Gesetz
@@ -5685,6 +5891,7 @@ Gründen erloschen sind. § 149 Abs. 6 gilt entsprechend.
 
 
 #### § 157 Grundrenten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE020900315)
 
 Aufrechterhaltene Grundrenten und sonstige Abgaben im Sinne des § 149
 Abs. 1 Satz 1 Nr. 8 sind nach Maßgabe der für sie beim Inkrafttreten
@@ -5692,6 +5899,7 @@ dieses Gesetzes geltenden Vorschriften weiterhin zu entrichten.
 
 
 #### § 158 Erbstollengerechtigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021000315)
 
 (1) Auf aufrechterhaltene Erbstollengerechtigkeiten im Sinne des § 149
 Abs. 1 Satz 1 Nr. 9 sind, soweit sich aus Absatz 2 nichts anderes
@@ -5708,6 +5916,7 @@ sind.
 
 
 #### § 159 Alte Rechte und Aufsuchung zu wissenschaftlichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021100315)
 
 Aufrechterhaltene alte Rechte und Verträge, die allein oder neben
 anderen Befugnissen ein ausschließliches Recht zur Aufsuchung von
@@ -5718,6 +5927,7 @@ dasselbe Feld nicht aus.
 
 
 #### § 160 Enteignung alter Rechte und Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021201307)
 
 (1) Die nach § 149 aufrechterhaltenen Rechte und Verträge können durch
 die zuständige Behörde gegen Entschädigung ganz oder teilweise
@@ -5758,6 +5968,7 @@ worden sind, gelten die Absätze 1 bis 5 entsprechend.
 
 
 #### § 161 Ausdehnung von Bergwerkseigentum auf aufgehobene Längenfelder
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021300315)
 
 (1) Wird auf Antrag eines Bergwerkseigentümers Bergwerkseigentum für
 ein Längenfeld nach § 151 in Verbindung mit § 20 oder durch Enteignung
@@ -5790,6 +6001,7 @@ Voraussetzungen des Satzes 1 noch des Satzes 2 erfüllt.
 
 
 #### § 162 Entscheidung, Rechtsänderung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021400315)
 
 (1) In der Entscheidung über die Ausdehnung des Bergwerkseigentums für
 ein Geviertfeld auf den Bereich eines durch Enteignung nach § 160 ganz
@@ -5808,10 +6020,12 @@ Grundbuchamt, die Rechtsänderung im Grundbuch einzutragen.
 
 
 ### Zweites Kapitel - Auflösung und Abwicklung der bergrechtlichen Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG004400315)
 
 
 
 #### § 163 Auflösung und Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021502305)
 
 (1) Die bei Inkrafttreten dieses Gesetzes bestehenden Gewerkschaften
 mit eigener oder ohne eigene Rechtspersönlichkeit sind mit Ablauf des
@@ -5869,6 +6083,7 @@ daß an die Stelle des 1.Januar 1986 der 1.Januar 1994 tritt.
 
 
 #### § 164 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021601309)
 
 (1) Eine aufgelöste oder als aufgelöst geltende Gewerkschaft ist
 abzuwickeln. Die Fortsetzung der Gewerkschaft ist ausgeschlossen.
@@ -5889,6 +6104,7 @@ Verzögerung durchgeführt wird.
 
 
 #### § 164a Überleitung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE017800309)
 
 Die Fortsetzung einer nach § 163 Abs. 1 aufgelösten Gewerkschaft gilt
 mit dem Inkrafttreten des § 163 Abs. 4 als beschlossen, wenn bei ihr
@@ -5898,6 +6114,7 @@ des § 4 Abs. 5 tätig gewesen ist.
 
 
 #### § 165 Fortgeltendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021700315)
 
 Bis zu dem in § 163 Abs. 1 Satz 1 oder 2 genannten Zeitpunkt und für
 den Zeitraum einer Abwicklung nach § 164 sind die beim Inkrafttreten
@@ -5907,10 +6124,12 @@ Abs. 1 Satz 3 und § 164 nichts anderes ergibt.
 
 
 ### Drittes Kapitel - Sonstige Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNG004500315)
 
 
 
 #### § 166 Bestehende Hilfsbaue
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021800315)
 
 Die bei Inkrafttreten dieses Gesetzes bestehenden, nach den vor diesem
 Zeitpunkt geltenden Vorschriften rechtmäßig angelegten Hilfsbaue
@@ -5918,6 +6137,7 @@ gelten als Hilfsbaue im Sinne dieses Gesetzes.
 
 
 #### § 167 Fortgeltung von Betriebsplänen und Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE021900315)
 
 (1) Für Tätigkeiten und Einrichtungen im Sinne des § 2 und der §§ 126
 bis 131, die bei Inkrafttreten dieses Gesetzes der Bergaufsicht
@@ -5957,6 +6177,7 @@ oder der Unternehmer ihre Bestellung im Sinne des § 59 ändert.
 
 
 #### § 168 Erlaubnisse für Transit-Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022000315)
 
 Die am 1. Januar 1982 nach § 2 des Gesetzes zur vorläufigen Regelung
 der Rechte am Festlandsockel erteilten vorläufigen Erlaubnisse zur
@@ -5965,6 +6186,7 @@ Dauer ihrer Laufzeit als Genehmigungen im Sinne des § 133.
 
 
 #### § 168a Genehmigungen im Bereich der Erweiterung des Küstenmeeres
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023500308)
 
 Bestehende Rechte im Bereich der Erweiterung des Küstenmeeres nach dem
 Beschluß der Bundesregierung vom 19. Oktober 1994 (BGBl. I s. 3428),
@@ -5977,6 +6199,7 @@ anwendbaren Rechtsvorschriften.
 
 
 #### § 168b Vorhandene Unterwasserkabel
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023600308)
 
 Soweit Unterwasserkabel bereits verlegt worden sind und betrieben
 werden, gelten sie als nach § 133 Abs. 4 genehmigt, wenn sie den
@@ -5984,6 +6207,7 @@ Voraussetzungen des § 133 Abs. 2 entsprechen.
 
 
 #### § 169 Übergangszeit bei Unterstellung unter die Bergaufsicht, eingestellte Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022100315)
 
 (1) Für Tätigkeiten und Einrichtungen im Sinne des § 2 und der §§ 126
 bis 131 (Betriebe), die erst mit Inkrafttreten dieses Gesetzes der
@@ -6022,6 +6246,7 @@ hergestellt werden.
 
 
 #### § 170 Haftung für verursachte Schäden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022201123)
 
 Auf Schäden im Sinne des § 114, die ausschließlich vor Inkrafttreten
 dieses Gesetzes verursacht worden sind, sind die für solche Schäden
@@ -6032,6 +6257,7 @@ geltenden Fassung anzuwenden.
 
 
 #### § 170a Verjährung bei Bergschäden
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023700377)
 
 Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 findet mit der Maßgabe entsprechende Anwendung, dass § 117 Abs. 2 in
@@ -6041,6 +6267,7 @@ Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar
 
 
 #### § 171 Eingeleitete Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022300315)
 
 (1) In eingeleiteten Grundabtretungs- oder anderen
 Enteignungsverfahren ist nach den bisher geltenden Vorschriften zu
@@ -6069,6 +6296,7 @@ bisher geltenden Vorschriften.
 
 
 #### § 171a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE024101119)
 
 Verfahren nach § 52 Absatz 2a bis Absatz 2c des Bundesberggesetzes
 sind nach der Fassung dieses Gesetzes, die vor dem 29. Juli 2017 galt,
@@ -6091,6 +6319,7 @@ bleibt unberührt.
 
 
 #### § 172 Mutungen
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022400315)
 
 Auf Mutungen, die bei Inkrafttreten dieses Gesetzes bereits eingelegt
 sind und auf die nach den beim Inkrafttreten dieses Gesetzes jeweils
@@ -6103,6 +6332,7 @@ Erteilung verzichtet.
 
 
 #### § 173 Zusammenhängende Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022500315)
 
 (1) Stehen Tätigkeiten und Einrichtungen im Sinne des § 2 (Betrieb)
 zur unterirdischen Aufsuchung oder Gewinnung von bergfreien oder
@@ -6131,16 +6361,19 @@ Betriebsvorgänge notwendig erscheint.
 
 
 #### § 174
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022601308)
 
 -
 
 
 #### § 175
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022700315)
 
 -
 
 
 #### § 176 Außerkrafttreten von Landesrecht, Verweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022806118)
 
 (1) Landesrechtliche Vorschriften, deren Gegenstände in diesem Gesetz
 geregelt sind oder die ihm widersprechen, treten, soweit in diesem
@@ -6892,10 +7125,12 @@ an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 
 
 #### § 177 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE022901123)
 
 
 
 #### § 178 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE023000315)
 
 Dieses Gesetz tritt am 1. Januar 1982 in Kraft. Abweichend hiervon
 treten die §§ 32, 65 bis 68, 122 Abs. 4, §§ 123, 125 Abs. 4, § 129
@@ -6906,6 +7141,7 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
 (BGBl. II 1990, 889, 1003)
 
 #### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html#BJNR013100980BJNE888802308)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

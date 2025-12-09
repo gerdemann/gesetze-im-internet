@@ -22,6 +22,7 @@ Geändert durch
 Stand: Die V ist gem. Art. 3 V v. 17.3.2023 I Nr. 81 mWv 22.3.2023 in Kraft getreten
 
 ## § 1 Anpassung der im Erdgas-Wärme-Preisbremsengesetz und im Strompreisbremsegesetz geregelten Berechnung der Differenzbeträge
+[Direktlink](https://www.gesetze-im-internet.de/dbav/BJNR0510B0023.html#BJNR0510B0023BJNE000101377)
 
 (1) Die Regelungen zur Berechnung des Differenzbetrages nach § 9
 Absatz 2 und § 16 Absatz 2 des Erdgas-Wärme-Preisbremsengesetzes vom
@@ -73,6 +74,7 @@ Strompreisbremsegesetzes anzuwenden ist.
 
 
 ## § 2 Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dbav/BJNR0510B0023.html#BJNR0510B0023BJNE000200000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz überprüft die
 Anpassung der Berechnung der Differenzbeträge regelmäßig in einem

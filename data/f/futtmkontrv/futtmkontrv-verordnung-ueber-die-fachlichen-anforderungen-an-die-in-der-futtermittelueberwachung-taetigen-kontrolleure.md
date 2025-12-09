@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000000000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet
@@ -46,6 +47,7 @@ Landwirtschaft verordnet
 
 
 ## § 1 Anforderungen an die Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000100000)
 
 (1) Personen dürfen von den zuständigen Behörden beim Vollzug des
 Futtermittelrechts mit der Überwachung der Einhaltung der
@@ -161,6 +163,7 @@ folgenden Tätigkeiten befähigt sein:
 
 
 ## § 2 Nachweis der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000200000)
 
 (1) Die Anforderungen nach § 1 erfüllt, wer
 
@@ -211,6 +214,7 @@ Fertigkeiten sind durch Bescheinigung nachzuweisen.
 
 
 ## § 3 Lehrgang
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000300000)
 
 (1) Der Lehrgang nach § 2 Abs. 1 Satz 1 Nr. 4 und Satz 2 wird von
 einer Einrichtung, die von der nach Landesrecht zuständigen Behörde
@@ -317,6 +321,7 @@ nach Absatz 1 Satz 2 Nr. 2 zulassen.
 
 
 ## § 4 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000400000)
 
 (1) Die in § 1 genannten Personen haben mindestens alle zwei Jahre an
 Fortbildungsveranstaltungen von insgesamt mindestens einer Woche
@@ -344,6 +349,7 @@ theoretisch und praktisch vermittelt und erweitert werden.
 
 
 ## § 5 Ergänzende Regelungen der Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000501377)
 
 Die Landesregierungen können durch Rechtsverordnung nähere
 Vorschriften über den Lehrgang, die Prüfung und die Fortbildung
@@ -352,6 +358,7 @@ berücksichtigt werden.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000600000)
 
 (1) Die Anforderungen nach § 1 gelten als erfüllt bei Personen, die am
 8\. Oktober 2003 mit der Durchführung der amtlichen
@@ -378,11 +385,13 @@ nachzuweisen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000700000)
 
 Diese Verordnung tritt sechs Monate nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/futtmkontrv/BJNR046400003.html#BJNR046400003BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

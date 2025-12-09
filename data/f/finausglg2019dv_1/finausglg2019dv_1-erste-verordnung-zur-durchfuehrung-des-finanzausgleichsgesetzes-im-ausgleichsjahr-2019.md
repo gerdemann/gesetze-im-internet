@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2019dv_1/BJNR034100019.html#BJNR034100019BJNE000100000)
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes vom 20.
 Dezember 2001 (BGBl. I S. 3955, 3956), von denen § 14 zuletzt durch
@@ -28,6 +29,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2019
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2019dv_1/BJNR034100019.html#BJNR034100019BJNE000200000)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzausgleichs unter den Ländern im Ausgleichsjahr 2019 wird der
@@ -154,11 +156,13 @@ in monatlichen Teilbeträgen jeweils zum 15. des Folgemonats
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2019dv_1/BJNR034100019.html#BJNR034100019BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2019 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2019dv_1/BJNR034100019.html#BJNR034100019BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

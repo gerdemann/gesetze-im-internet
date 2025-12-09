@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000100000)
 
 Auf Grund des § 182 Abs. 3 in Verbindung mit Abs. 4 und des § 357 Abs.
 1 des Dritten Buches Sozialgesetzbuch - Arbeitsförderung - (Artikel 1
@@ -31,6 +32,7 @@ Arbeit und Soziales:
 
 
 ## § 1 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000204311)
 
 (1) Gewerbliche Arbeitnehmer von Betrieben
 
@@ -57,6 +59,7 @@ des Dritten Buches Sozialgesetzbuch.
 
 
 ## § 2 Umlage
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000300000)
 
 Die Mittel für die ergänzenden Leistungen sowie die Verwaltungskosten
 und sonstigen Kosten, die mit der Gewährung der ergänzenden Leistungen
@@ -65,6 +68,7 @@ aufgebracht.
 
 
 ## § 3 Höhe und Aufbringung der Umlage
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000407126)
 
 (1) Die Umlage beträgt in Betrieben
 
@@ -143,6 +147,7 @@ deutschen Lohnsteuerrechts als Bruttoarbeitslohn gelten würde.
 
 
 ## § 4 Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000500000)
 
 Die Bundesagentur für Arbeit (Bundesagentur) gibt im Bundesanzeiger
 bekannt, über welche gemeinsamen Einrichtungen oder Ausgleichskassen
@@ -152,6 +157,7 @@ vereinbart hat.
 
 
 ## § 5 Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000602311)
 
 (1) Die Umlagebeträge sind am 15. des Monats fällig, der dem Monat
 folgt, für den das Arbeitsentgelt zu zahlen ist. Umlagebeträge sind
@@ -202,6 +208,7 @@ der Umlage nicht entgegenstehen.
 
 
 ## § 6 Melde- und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000700000)
 
 (1) Der Arbeitgeber hat Beginn und Ende der Umlagepflicht der
 Bundesagentur unverzüglich zu melden. Die Meldepflicht besteht nicht,
@@ -225,6 +232,7 @@ Umlage erforderlich ist.
 
 
 ## § 7 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000800000)
 
 (1) Die Umlagebeträge sind an die Einzugsstellen der Wirtschaftszweige
 abzuführen, in denen die Winterbeschäftigung gefördert wird. Dies gilt
@@ -243,6 +251,7 @@ entsprechend.
 
 
 ## § 8 Erstattung von Mehraufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE000900000)
 
 (1) Die Pauschale nach § 356 Abs. 2 Satz 2 des Dritten Buches
 Sozialgesetzbuch wird in Höhe von 10 Prozent des Umlagesatzes nach § 3
@@ -254,6 +263,7 @@ gelten die Vorschriften für den Einzug der Umlage entsprechend.
 
 
 ## § 9 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE001002311)
 
 (1) Die im Zusammenhang mit der Gewährung der ergänzenden Leistungen
 und dem Einzug der zur Finanzierung dieser Leistungen erhobenen Umlage
@@ -271,6 +281,7 @@ Höhe von maximal 17,5 Millionen Euro erstattet.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/winterbeschv/BJNR108600006.html#BJNR108600006BJNE001100000)
 
 Diese Verordnung tritt am 1. Mai 2006 in Kraft.
 

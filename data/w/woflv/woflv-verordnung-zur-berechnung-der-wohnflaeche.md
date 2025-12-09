@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich, Berechnung der Wohnfläche
+[Direktlink](https://www.gesetze-im-internet.de/woflv/BJNR234610003.html#BJNR234610003BJNE000100000)
 
 (1) Wird nach dem Wohnraumförderungsgesetz die Wohnfläche berechnet,
 sind die Vorschriften dieser Verordnung anzuwenden.
@@ -28,6 +29,7 @@ Wohnfläche anzurechnen.
 
 
 ## § 2 Zur Wohnfläche gehörende Grundflächen
+[Direktlink](https://www.gesetze-im-internet.de/woflv/BJNR234610003.html#BJNR234610003BJNE000200000)
 
 (1) Die Wohnfläche einer Wohnung umfasst die Grundflächen der Räume,
 die ausschließlich zu dieser Wohnung gehören. Die Wohnfläche eines
@@ -85,6 +87,7 @@ wenn sie ausschließlich zu der Wohnung oder dem Wohnheim gehören.
 
 
 ## § 3 Ermittlung der Grundfläche
+[Direktlink](https://www.gesetze-im-internet.de/woflv/BJNR234610003.html#BJNR234610003BJNE000300000)
 
 (1) Die Grundfläche ist nach den lichten Maßen zwischen den Bauteilen
 zu ermitteln; dabei ist von der Vorderkante der Bekleidung der
@@ -158,6 +161,7 @@ berichtigten Bauzeichnung neu zu ermitteln.
 
 
 ## § 4 Anrechnung der Grundflächen
+[Direktlink](https://www.gesetze-im-internet.de/woflv/BJNR234610003.html#BJNR234610003BJNE000400000)
 
 Die Grundflächen
 
@@ -183,6 +187,7 @@ anzurechnen.
 
 
 ## § 5 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/woflv/BJNR234610003.html#BJNR234610003BJNE000500000)
 
 Ist die Wohnfläche bis zum 31. Dezember 2003 nach der Zweiten
 Berechnungsverordnung in der Fassung der Bekanntmachung vom 12.

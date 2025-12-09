@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000200000)
 
 Diese Verordnung gilt für:
 
@@ -44,6 +46,7 @@ Diese Verordnung gilt für:
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000300000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -90,12 +93,15 @@ Im Sinne dieser Verordnung sind:
 
 
 ## Abschnitt 2 - Bekanntgabevoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000200000)
 
 
 ### Unterabschnitt 1 - Stellen im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000300000)
 
 
 #### § 3 Organisationsform von Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000401116)
 
 Bekannt zu gebende Stellen im Sinne von § 29b Absatz 1 des Bundes-
 Immissionsschutzgesetzes müssen in einem Mitgliedstaat der
@@ -105,6 +111,7 @@ oder rechtsfähige Personengesellschaften sein.
 
 
 #### § 4 Fachkunde und gerätetechnische Ausstattung von Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000501129)
 
 (1) Bekannt zu gebende Stellen im Sinne von § 29b Absatz 1 des Bundes-
 Immissionsschutzgesetzes müssen in ausreichendem Umfang über Personal
@@ -139,6 +146,7 @@ Kompetenzfeststellungsverfahren nach dieser Verordnung verfügen.
 
 
 #### § 5 Unabhängigkeit von Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000600000)
 
 Die für eine Bekanntgabe gemäß § 29b Absatz 2 Satz 2 des Bundes-
 Immissionsschutzgesetzes erforderliche Unabhängigkeit einer Stelle ist
@@ -169,6 +177,7 @@ in der Regel dann nicht gegeben, wenn sie
 
 
 #### § 6 Zuverlässigkeit von Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000700000)
 
 (1) Die erforderliche Zuverlässigkeit im Sinne von § 29b Absatz 2 Satz
 2 des Bundes-Immissionsschutzgesetzes liegt vor, wenn die nach Gesetz,
@@ -275,9 +284,11 @@ gegeben, wenn
 
 
 ### Unterabschnitt 2 - Sachverständige im Sinne von § 29b Absatz 1 des Bundes-Immissionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000400000)
 
 
 #### § 7 Fachkunde von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000800000)
 
 Die erforderliche Fachkunde im Sinne des § 29b Absatz 2 Satz 2 des
 Bundes-Immissionsschutzgesetzes liegt vor, wenn der oder die bekannt
@@ -314,6 +325,7 @@ anzusehen ist.
 
 
 #### § 8 Unabhängigkeit von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE000900000)
 
 Die für eine Bekanntgabe gemäß § 29b Absatz 2 Satz 2 des Bundes-
 Immissionsschutzgesetzes erforderliche Unabhängigkeit eines
@@ -338,6 +350,7 @@ Sachverständigen ist in der Regel dann nicht gegeben, wenn dieser
 
 
 #### § 9 Zuverlässigkeit von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001000000)
 
 (1) Die erforderliche Zuverlässigkeit im Sinne von § 29b Absatz 2 Satz
 2 des Bundes-Immissionsschutzgesetzes liegt vor, wenn bekannt zu
@@ -353,6 +366,7 @@ vorübergehend nicht erfüllen.
 
 
 #### § 10 Gerätetechnische Ausstattung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001100000)
 
 Bekannt zu gebende Sachverständige haben hinsichtlich der
 einzusetzenden Ausstattung, wie Geräten, Programmen und
@@ -380,6 +394,7 @@ Aufgabe geeignet ist, insbesondere dass
 
 
 #### § 11 Hilfspersonal; Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001200000)
 
 (1) Soweit die Durchführung sicherheitstechnischer Prüfungen im Sinne
 von § 29a des Bundes-Immissionsschutzgesetzes den Einsatz von
@@ -408,9 +423,11 @@ mindestens 2,5 Millionen Euro pro Schadensfall nachzuweisen.
 
 
 ## Abschnitt 3 - Bekanntgabeverfahren; Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000500000)
 
 
 ### § 12 Antrag; behördliches Verfahren; Bekanntgabeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001300000)
 
 (1) Der Antragsteller oder die Antragstellerin hat dem Antrag auf
 Bekanntgabe oder Erweiterung einer Bekanntgabe die Unterlagen
@@ -439,6 +456,7 @@ sind im Internet zu veröffentlichen.
 
 
 ### § 13 Nachweise der Fachkunde und gerätetechnischen Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001402129)
 
 (1) Der Nachweis der Fachkunde und der gerätetechnischen Ausstattung
 ist für bekannt zu gebende Stellen durch Vorlage einer Akkreditierung
@@ -489,6 +507,7 @@ besteht und erneut beantragt wird.
 
 
 ### § 14 Gleichwertigkeit von Befähigungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001500000)
 
 (1) Anerkennungen aus einem anderen Mitgliedstaat der Europäischen
 Union oder einem anderen Vertragsstaat des Abkommens über den
@@ -529,6 +548,7 @@ eine Abschlussprüfung beinhalten.
 
 
 ### § 15 Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001602129)
 
 (1) Die Bekanntgabe von Stellen ist auf längstens fünf Jahre zu
 befristen. Falls der Kompetenznachweis für einen kürzeren Zeitraum
@@ -544,9 +564,11 @@ zu befristen.
 
 
 ## Abschnitt 4 - Pflichten bekannt gegebener Stellen und Sachverständiger
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000600000)
 
 
 ### § 16 Pflichten bekannt gegebener Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001701129)
 
 (1) Die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung
 oder Geschäftsführung berechtigten Personen der bekannt gegebenen
@@ -683,6 +705,7 @@ Auftraggebers die wirtschaftliche Existenz der Stelle gefährdet wäre.
 
 
 ### § 17 Pflichten bekannt gegebener Sachverständiger
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001802116)
 
 (1) Für bekannt gegebene Sachverständige gilt § 16 Absatz 1 Nummer 1
 Buchstabe c bis e und Nummer 2 und 3 entsprechend. Sie sind zusätzlich
@@ -781,9 +804,11 @@ Behörde der Unterauftrag nebst Begründung anzuzeigen.
 
 
 ## Abschnitt 5 - Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000700000)
 
 
 ### § 18 Widerruf der Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE001900000)
 
 (1) Ergeben sich aus Berichten von bekannt gegebenen Stellen oder
 Sachverständigen, aus Gutachten, aus den Ergebnissen von Ringversuchen
@@ -804,9 +829,11 @@ Bekanntgabe.
 
 
 ## Abschnitt 6 - Pflichten von Anlagenbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000800000)
 
 
 ### § 19 Gleichwertigkeit von Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE002000000)
 
 (1) Nachweise von nicht nach dieser Verordnung bekannt gegebenen
 Stellen oder Sachverständigen über die Gleichwertigkeit ihrer
@@ -826,9 +853,11 @@ dem Betreiber das Ergebnis mit.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNG000900000)
 
 
 ### § 20 Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE002100000)
 
 VDI-Richtlinien, ISO-, DIN- und DIN-EN-Normen, auf die in dieser
 Verordnung verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin, zu
@@ -837,6 +866,7 @@ gesichert niedergelegt.
 
 
 ### § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE002200000)
 
 Bestehende Bekanntgaben für Stellen und Sachverständige, die vor dem
 2\. Mai 2013 erteilt wurden, gelten in ihrem bisherigen Geltungsbereich
@@ -850,6 +880,7 @@ bestehende Bekanntgaben für Sachverständige jeweils ab dem 2. Mai
 Absatz 3 und 5)
 
 ### Anlage 1 Prüfbereiche für Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE002300000)
 
 (Fundstelle: BGBl. I 2013, 1008)
 
@@ -981,6 +1012,7 @@ Stoffbereichen Sp und Sa.
 Absatz 2a)
 
 ### Anlage 2 Prüfungsbereiche für Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_41/BJNR100100013.html#BJNR100100013BJNE002401129)
 
 (Fundstelle: BGBl. I 2013, 1009 - 1010 bzgl. der einzelnen Änderungen
 vgl. Fußnote)

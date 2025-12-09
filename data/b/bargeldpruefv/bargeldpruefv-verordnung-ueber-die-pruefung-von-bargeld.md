@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000100000)
 
 Auf Grund des § 36a Satz 1 bis 3 und 5 des Gesetzes über die Deutsche
 Bundesbank, der durch Artikel 9 Nummer 3 des Gesetzes vom 22. Dezember
@@ -28,6 +29,7 @@ mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Stichprobenentnahme bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000200000)
 
 (1) Die Deutsche Bundesbank kann im Rahmen ihrer Prüfungen nach § 37a
 Absatz 2 des Gesetzes über die Deutsche Bundesbank an
@@ -53,6 +55,7 @@ Stichprobenprüfung mitzuteilen.
 
 
 ## § 2 Berichte nach § 36 Absatz 2 und 3 Satz 1 des Gesetzes über die Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000300000)
 
 Die Berichte nach § 36 Absatz 2 und 3 Satz 1 des Gesetzes über die
 Deutsche Bundesbank müssen mindestens die folgenden Angaben enthalten:
@@ -101,6 +104,7 @@ Deutsche Bundesbank müssen mindestens die folgenden Angaben enthalten:
 
 
 ## § 3 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000400000)
 
 (1) Verpflichtete nach § 36 Absatz 1 des Gesetzes über die Deutsche
 Bundesbank, die Banknoten mit Banknotenbearbeitungssystemen prüfen und
@@ -153,6 +157,7 @@ gemäß den dafür geltenden Bedingungen erstatten.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
@@ -160,6 +165,7 @@ Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der
 Bargeldprüfungsverordnung
 
 ## Anlage 1 – Stammdaten –
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000600000)
 
 (Fundstelle: BGBl. I 2012, 2707 - 2709)
 
@@ -448,6 +454,7 @@ Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der
 Bargeldprüfungsverordnung
 
 ## Anlage 2 – Operationale Daten –
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000700000)
 
 (Fundstelle: BGBl. I 2012, 2710)
 
@@ -597,6 +604,7 @@ Bargeldprüfungsverordnung
 – Operationale Daten –
 
 ## Anlage 3 Auslagerung
+[Direktlink](https://www.gesetze-im-internet.de/bargeldpr_fv/BJNR270500012.html#BJNR270500012BJNE000800000)
 
 (Fundstelle: BGBl. I 2012, 2711)
 

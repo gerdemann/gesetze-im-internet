@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000100310)
 
 Auf Grund des § 178 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
 Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
@@ -34,6 +35,7 @@ Jugend und dem Bundesministerium der Finanzen:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000201308)
 
 Diese Verordnung findet Anwendung auf Personen, die auf Grund
 gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten
@@ -44,6 +46,7 @@ versicherungspflichtig in der Rentenversicherung sind.
 
 
 ## § 2 Beitragsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000304126)
 
 (1) Die Beiträge für Dienstleistende werden kalenderjährlich
 berechnet. Die Berechnungen werden getrennt für die jeweiligen Träger
@@ -78,6 +81,7 @@ Rentenversicherung vorgenommen.
 
 
 ## § 3 Berechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000404126)
 
 (1) Summe der Arbeitsentgelte (§ 2 Abs. 2 Nr. 1) sind im Fall einer
 Verdienstausfallentschädigung (1. Alternative) die den Leistungen nach
@@ -105,6 +109,7 @@ Zivildienstes, für die Beiträge zu zahlen sind.
 
 
 ## § 4 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000501126)
 
 Die Berechnung und die Zahlung der Beiträge nehmen vor für
 
@@ -120,6 +125,7 @@ Die Berechnung und die Zahlung der Beiträge nehmen vor für
 
 
 ## § 5 Berechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000601308)
 
 (1) Die Beitragsberechnung wird mit den geleisteten Diensttagen eines
 Kalenderjahres durchgeführt. Die Aufteilung der Diensttage auf die
@@ -139,6 +145,7 @@ Träger der Rentenversicherung möglich, findet Satz 3 keine Anwendung.
 
 
 ## § 6 Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000702126)
 
 (1) Die Beiträge sind vom Bundesamt für das Personalmanagement der
 Bundeswehr und vom Bundesamt für Familie und zivilgesellschaftliche
@@ -173,16 +180,19 @@ nächsten Abrechnung berücksichtigt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000801308)
 
 (weggefallen)
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE000900310)
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rvwzpauschbeitrv/BJNR383100998.html#BJNR383100998BJNE001000310)
 
 Der Bundesrat hat zugestimmt.
 

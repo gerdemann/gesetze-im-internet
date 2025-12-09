@@ -30,6 +30,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000100000)
 
 Auf Grund des § 146a Absatz 3 Satz 1 der Abgabenordnung, der durch
 Artikel 1 Nummer 3 des Gesetzes vom 22. Dezember 2016 (BGBl. I S.
@@ -40,6 +41,7 @@ Rechte des Bundestages:
 
 
 ## § 1 Elektronische Aufzeichnungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000202123)
 
 (1) Elektronische Aufzeichnungssysteme im Sinne des § 146a Absatz 1
 Satz 1 der Abgabenordnung sind elektronische oder computergestützte
@@ -86,6 +88,7 @@ Aufzeichnungssysteme gelten
 
 
 ## § 2 Protokollierung von digitalen Grundaufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000301123)
 
 Für jede Aufzeichnung eines Geschäftsvorfalls oder anderen Vorgangs im
 Sinne des § 146a Absatz 1 Satz 1 der Abgabenordnung muss von einem
@@ -126,6 +129,7 @@ Transaktionsaufzeichnungen erkennbar sind.
 
 
 ## § 3 Speicherung der Grundaufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000400000)
 
 (1) Die Speicherung der laufenden Geschäftsvorfälle oder anderen
 Vorgänge im Sinne des § 146a Absatz 1 Satz 1 der Abgabenordnung muss
@@ -150,6 +154,7 @@ nicht mehr gewährleistet ist.
 
 
 ## § 4 Einheitliche digitale Schnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000501123)
 
 Die einheitliche digitale Schnittstelle ist eine Datensatzbeschreibung
 für den standardisierten Datenexport aus dem Speichermedium nach § 3
@@ -169,6 +174,7 @@ veröffentlicht werden.
 
 
 ## § 5 Anforderungen an die technische Sicherheitseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000601123)
 
 Das Bundesamt für Sicherheit in der Informationstechnik legt im
 Benehmen mit dem Bundesministerium der Finanzen in Technischen
@@ -193,6 +199,7 @@ Informationstechnik veröffentlicht.
 
 
 ## § 6 Anforderungen an den Beleg
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000702123)
 
 Ein Beleg muss mindestens enthalten:
 
@@ -247,6 +254,7 @@ elektronisch in einem standardisierten Datenformat ausgegeben werden.
 
 
 ## § 7 Anforderungen an EU-Taxameter
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE001100123)
 
 (1) Die §§ 2 und 6 Satz 1 sind auf EU-Taxameter nicht anzuwenden.
 
@@ -309,6 +317,7 @@ umsatzsteuerlichen Anforderungen an eine Rechnung bleiben unberührt.
 
 
 ## § 8 Anforderungen an Wegstreckenzähler
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE001200123)
 
 (1) Die §§ 2 und 6 Satz 1 sind auf Wegstreckenzähler nicht anzuwenden.
 
@@ -363,6 +372,7 @@ Schnittstelle vorhanden, gilt § 7 Absatz 4 sinngemäß.
 
 
 ## § 9 Übergangsregelung für EU-Taxameter mit INSIKA-Technik
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE001300123)
 
 (1) Soweit ein EU-Taxameter vor dem 1. Januar 2021 mit der INSIKA-
 Technik ausgerüstet wurde, ist § 7 für dieses EU-Taxameter erst ab dem
@@ -379,6 +389,7 @@ dem zuständigen Finanzamt innerhalb eines Monats mitzuteilen.
 
 
 ## § 10 Anwendungszeitpunkt für Wegstreckenzähler
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE001400123)
 
 Für Wegstreckenzähler ist § 8 ab dem Tag anzuwenden, an dem
 
@@ -400,6 +411,7 @@ neu in den Verkehr gebracht werden.
 
 
 ## § 11 Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE000803123)
 
 (1) Für die Zertifizierung technischer Sicherheitseinrichtungen gelten
 § 52 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und
@@ -420,6 +432,7 @@ Besondere Gebührenverordnung BMI vom 2. September 2019 (BGBl. I S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kassensichv/BJNR351500017.html#BJNR351500017BJNE001001123)
 
 Der Bundesrat hat zugestimmt.
 

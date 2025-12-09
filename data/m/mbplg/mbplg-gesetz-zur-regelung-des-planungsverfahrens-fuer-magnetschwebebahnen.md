@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erfordernis der Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000201308)
 
 (1) Magnetschwebebahnstrecken einschließlich der für den Betrieb
 notwendigen Anlagen (Betriebsanlagen einer Magnetschwebebahn) dürfen
@@ -35,6 +36,7 @@ Bauaufsichtsbehörde für Betriebsanlagen von Magnetschwebebahnen.
 
 
 ## § 2 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000307377)
 
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
@@ -57,10 +59,12 @@ mit folgenden Maßgaben:
 
 
 ## § 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001402305)
 
 
 
 ## § 2b Rechtswirkungen der Planfeststellung und der Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001502305)
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -88,6 +92,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 
 
 ## § 2c Planänderung vor Fertigstellung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001602377)
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
@@ -101,6 +106,7 @@ dieses Gesetzes.
 
 
 ## § 2d Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001702305)
 
 (1) § 50 Abs. 1 Nr. 6 der Verwaltungsgerichtsordnung gilt für Vorhaben
 nach § 1 Satz 1.
@@ -131,12 +137,14 @@ entsprechend.
 
 
 ## § 2e Bauaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001800308)
 
 Das Eisenbahn-Bundesamt ist Bauaufsichtsbehörde für Betriebsanlagen
 von Magnetschwebebahnen.
 
 
 ## § 3 Vorarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000401308)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
 der Planung und der Baudurchführung eines Vorhabens oder von
@@ -165,6 +173,7 @@ fest. Vor der Entscheidung sind die Beteiligten zu hören.
 
 
 ## § 4 Veränderungssperre, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000500000)
 
 (1) Vom Beginn der Auslegung der Pläne im Planfeststellungsverfahren
 oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben
@@ -189,11 +198,13 @@ an den betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000601308)
 
 -
 
 
 ## § 6 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000700000)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für den Bau oder die
@@ -256,6 +267,7 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 
 ## § 7 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000800000)
 
 (1) Für Zwecke des Baus und des Ausbaus von Betriebsanlagen der
 Magnetschwebebahnen ist die Enteignung zulässig, soweit sie zur
@@ -276,6 +288,7 @@ werden.
 
 
 ## § 7a Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001900308)
 
 Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses
 oder einer Plangenehmigung verpflichtet ist, eine Entschädigung in
@@ -287,6 +300,7 @@ Enteignungsgesetze der Länder entsprechend.
 
 
 ## § 8 Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE000900000)
 
 (1) Erfordert die Linienführung einer Magnetschwebebahn eine Kreuzung
 mit einem anderen öffentlichen Verkehrsweg oder erfordert die
@@ -318,6 +332,7 @@ Kreuzungsanlagen.
 
 
 ## § 9 Kosten der Herstellung von Kreuzungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001000000)
 
 (1) Werden Magnetschwebebahnen ausgebaut oder neugebaut und müssen
 neue Kreuzungen mit öffentlichen Verkehrswegen hergestellt oder
@@ -359,6 +374,7 @@ Planfeststellungsbeschluß oder bei der Erteilung der Plangenehmigung
 
 
 ## § 10 Erhaltung der Kreuzungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001100000)
 
 (1) Die Anlagen an Kreuzungen hat, soweit sie Magnetschwebebahnanlagen
 sind, der Magnetschwebebahnunternehmer, soweit sie Anlagen anderer
@@ -385,6 +401,7 @@ wird.
 
 
 ## § 11 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE001210124)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates zur Gewährleistung der
@@ -406,6 +423,7 @@ erlassen.
 
 
 ## § 12 Übergangsregelung für Planungen
+[Direktlink](https://www.gesetze-im-internet.de/mbplg/BJNR348610994.html#BJNR348610994BJNE002000308)
 
 (1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
 oder Plangenehmigungsverfahren werden nach den Vorschriften dieses

@@ -27,6 +27,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsv/BJNR1120A0023.html#BJNR1120A0023BJNE000100000)
 
 Auf Grund des § 14 Absatz 1 und des § 19 Absatz 2 des
 Einwegkunststofffondsgesetzes vom 11. Mai 2023 (BGBl. 2023 I Nr. 124;
@@ -36,6 +37,7 @@ der beteiligten Kreise sowie unter Wahrung der Rechte des Bundestages:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsv/BJNR1120A0023.html#BJNR1120A0023BJNE000200000)
 
 Diese Verordnung legt die Abgabesätze für die Einwegkunststoffabgabe
 und das Punktesystem für die Auszahlungen aus dem
@@ -43,6 +45,7 @@ Einwegkunststofffonds fest.
 
 
 ## § 2 Abgabesätze für die Einwegkunststoffabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsv/BJNR1120A0023.html#BJNR1120A0023BJNE000300000)
 
 Für die Einwegkunststoffabgabe nach § 12 des
 Einwegkunststofffondsgesetzes gelten folgende Abgabesätze in Euro pro
@@ -79,6 +82,7 @@ Einwegkunststofffondsgesetzes gelten folgende Abgabesätze in Euro pro
 
 
 ## § 3 Punktesystem des Einwegkunststofffonds
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsv/BJNR1120A0023.html#BJNR1120A0023BJNE000400000)
 
 Für das Punktesystem nach § 19 Absatz 1 des
 Einwegkunststofffondsgesetzes gelten folgende Punktzahlen:
@@ -136,6 +140,7 @@ Einwegkunststofffondsgesetzes gelten folgende Punktzahlen:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsv/BJNR1120A0023.html#BJNR1120A0023BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 

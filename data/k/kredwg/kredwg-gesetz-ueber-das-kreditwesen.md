@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000104377)
 
 
 
 ### 1. - Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000209118)
 
 
 
 #### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030223119)
 
 (1) Kreditinstitute sind Unternehmen, die Bankgeschäfte gewerbsmäßig
 oder in einem Umfang betreiben, der einen in kaufmännischer Weise
@@ -982,6 +985,7 @@ bis 33, 35, 37, 38, 43, 44, 48, 49, 51, 54, 57, 61 bis 63, 66, 67, 73,
 
 
 #### § 1a Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009, (EU) 2015/534 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016610128)
 
 (1) Für Institute, die keine
 
@@ -1088,6 +1092,7 @@ der Deutschen Bundesbank elektronisch einzureichen.
 
 
 #### § 1b Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018902311)
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft
 gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
@@ -1111,6 +1116,7 @@ fällt.
 
 
 #### § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033110119)
 
 (1) Als Kreditinstitut gelten vorbehaltlich der Absätze 2 und 3 nicht
 
@@ -1847,6 +1853,7 @@ anzuzeigen.
 
 
 #### § 2a Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016705118)
 
 (1) Institute können eine Freistellung nach Artikel 7 der Verordnung
 (EU) Nr. 575/2013 in der jeweils geltenden Fassung bei der
@@ -1899,6 +1906,7 @@ anzuwenden hat.
 
 
 #### § 2b Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE002608128)
 
 (1) Kreditinstitute, die eine Erlaubnis nach § 32 Abs. 1 benötigen,
 dürfen nicht in der Rechtsform des Einzelkaufmanns betrieben werden.
@@ -1907,6 +1915,7 @@ dürfen nicht in der Rechtsform des Einzelkaufmanns betrieben werden.
 
 
 #### § 2c Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010628128)
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen
 Personen oder Unternehmen eine bedeutende Beteiligung an einem
@@ -2243,6 +2252,7 @@ erstatten.
 
 
 #### § 2d Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014005119)
 
 (1) Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder
 einer gemischten Finanzholding-Gesellschaft tatsächlich führen, müssen
@@ -2271,6 +2281,7 @@ untersagen, wenn
 
 
 #### § 2e Ausnahmen für gemischte Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE024002119)
 
 (1) Unterliegt eine gemischte Finanzholding-Gesellschaft, insbesondere
 im Hinblick auf eine risikobasierte Beaufsichtigung, gleichwertigen
@@ -2292,6 +2303,7 @@ Aufsichtsgesetzes bezieht.
 
 
 #### § 2f Zulassung von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032502128)
 
 (1) Mutterfinanzholding-Gesellschaften und gemischte
 Mutterfinanzholding-Gesellschaften sowie EU-Mutterfinanzholding-
@@ -2526,6 +2538,7 @@ mitteilen, ob die Zulassung erteilt oder versagt wird.
 
 
 #### § 2g Einrichtung eines zwischengeschalteten EU-Mutterunternehmens bei Mutterunternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032601128)
 
 (1) Haben zwei oder mehr CRR-Kreditinstitute oder Wertpapierinstitute
 mit Sitz in einem Staat des Europäischen Wirtschaftsraums das gleiche
@@ -2650,6 +2663,7 @@ Mutterunternehmen seinen Sitz in einem Drittstaat hat, entweder
 
 
 #### § 3 Verbotene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE002709128)
 
 (1) Verboten sind
 
@@ -2847,6 +2861,7 @@ eine angemessene Frist einzuräumen.
 
 
 #### § 4 Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE002807128)
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein Unternehmen
 den Vorschriften dieses Gesetzes unterliegt. Ihre Entscheidungen
@@ -2854,10 +2869,12 @@ binden die Verwaltungsbehörden.
 
 
 ### 2. - Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000305377)
 
 
 
 #### § 5 Elektronische Kommunikation; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE002908128)
 
 (1) Verwaltungsakte, die aufgrund dieses Gesetzes erlassen werden,
 dürfen nach § 4f des Finanzdienstleistungsaufsichtsgesetzes
@@ -2902,6 +2919,7 @@ ergeht.
 
 
 #### § 6 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031107128)
 
 (1) Die Bundesanstalt übt die Aufsicht über die Institute nach den
 Vorschriften dieses Gesetzes, den dazu erlassenen Rechtsverordnungen,
@@ -3037,6 +3055,7 @@ des Europäischen Wirtschaftsraums zu berücksichtigen.
 
 
 #### § 6a Besondere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013604128)
 
 (1) Liegen Tatsachen vor, die darauf schließen lassen, dass von einem
 Institut angenommene Einlagen, sonstige dem Institut anvertraute
@@ -3090,6 +3109,7 @@ unberührt.
 
 
 #### § 6b Aufsichtliche Überprüfung und Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029102119)
 
 (1) Im Rahmen der Beaufsichtigung beurteilt die Aufsichtsbehörde
 
@@ -3252,6 +3272,7 @@ Risikoprofil Rechnung zu tragen. Die angepasste Methode
 
 
 #### § 6c Zusätzliche Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032000119)
 
 (1) Die Aufsichtsbehörde ordnet an, dass ein Institut, eine
 Institutsgruppe, eine Finanzholding-Gruppe oder eine gemischte
@@ -3447,6 +3468,7 @@ werden:
 
 
 #### § 6d Eigenmittelempfehlung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032102128)
 
 (1) Die Aufsichtsbehörde ermittelt auf Grundlage der Bewertung nach §
 6b Absatz 2 und des nach § 6b Absatz 3 durchgeführten Stresstests für
@@ -3496,6 +3518,7 @@ nicht in voller Höhe keine der Beschränkungen nach § 10i Absatz 1a bis
 
 
 #### § 7 Zusammenarbeit mit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE003111123)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten nach
 Maßgabe dieses Gesetzes zusammen. Unbeschadet weiterer gesetzlicher
@@ -3594,6 +3617,7 @@ erhalten, der zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 
 #### § 7a Zusammenarbeit mit der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022205128)
 
 (1) Die Bundesanstalt meldet der Europäischen Kommission
 
@@ -3656,6 +3680,7 @@ auf zusammengefasster Basis ausübt.
 
 
 #### § 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022313128)
 
 (1) Die Bundesanstalt beteiligt sich nach Maßgabe
 
@@ -3904,10 +3929,12 @@ Anforderungen des Artikels 27 Absatz 1 dieser Verordnung erfährt.
 
 
 #### § 7c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022401119)
 
 
 
 #### § 7d Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029201119)
 
 Die Bundesanstalt arbeitet eng mit dem Europäischen Ausschuss für
 Systemrisiken zusammen und berücksichtigt die von ihm nach Maßgabe von
@@ -3929,6 +3956,7 @@ Berücksichtigung niedriger ausgefallen wäre.
 
 
 #### § 8 Zusammenarbeit mit anderen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE003223128)
 
 (1) (weggefallen)
 
@@ -4266,6 +4294,7 @@ Behörde, so ergreift sie Maßnahmen, soweit dies erforderlich ist.
 
 
 #### § 8a Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016805119)
 
 (1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis
 über eine Institutsgruppe, eine Finanzholding-Gruppe oder eine
@@ -4404,6 +4433,7 @@ gestellt hat, abgestimmt werden.
 
 
 #### § 8b Zuständigkeit für die Aufsicht auf zusammengefasster Basis
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014108128)
 
 (1) Die Bundesanstalt übt die Aufsicht auf zusammengefasster Basis
 über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte
@@ -4489,6 +4519,7 @@ CRR-Wertpapierfirma mit der größten Bilanzsumme ist.
 
 
 #### § 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011711119)
 
 (1) Die Bundesanstalt kann von der Beaufsichtigung einer
 Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-
@@ -4538,9 +4569,11 @@ das Bestehen und den Inhalt dieser Vereinbarungen zu unterrichten.
 
 
 #### § 8d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014202360)
 
 
 #### § 8e Aufsichtskollegien
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE019004119)
 
 (1) Ist die Bundesanstalt für die Aufsicht auf zusammengefasster Basis
 über eine Institutsgruppe, Finanzholding-Gruppe oder gemischte
@@ -4637,6 +4670,7 @@ arbeiten die Bundesanstalt und die Deutsche Bundesbank zusammen.
 
 
 #### § 8f Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029301128)
 
 (1) Die Bundesanstalt stuft die Zweigniederlassung eines CRR-
 Kreditinstituts in einem Aufnahmemitgliedstaat oder einem Staat des
@@ -4681,6 +4715,7 @@ Wirtschaftsraums Rechnung zu tragen.
 
 
 #### § 8g Zusammenarbeit bei der Aufsicht über Zweigstellen und Kreditinstitute, die derselben Drittstaatengruppe angehören
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032200119)
 
 Ist die Bundesanstalt zuständig für die Aufsicht über Zweigstellen
 eines Unternehmens im Sinne des § 53 mit Sitz in einem Drittstaat oder
@@ -4696,6 +4731,7 @@ Wirtschaftsraums Rechnung zu tragen.
 
 
 #### § 8h Zusammenarbeit mit Abwicklungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032301128)
 
 Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
@@ -4711,6 +4747,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
 
 
 #### § 9 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022112128)
 
 (1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
@@ -4951,14 +4988,17 @@ sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 
 ## Zweiter Abschnitt - Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000408118)
 
 
 
 ### 1. - Eigenmittel und Liquidität
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000505377)
 
 
 
 #### § 10 Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032801119)
 
 (1) Im Interesse der Erfüllung der Verpflichtungen der Institute,
 Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-
@@ -5327,6 +5367,7 @@ dort dafür festgelegten Voraussetzungen erfüllt sind.
 
 
 #### § 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032900128)
 
 (1) Eine Institutsgruppe besteht aus einem übergeordneten Unternehmen
 und einem oder mehreren nachgeordneten Unternehmen. Übergeordnete
@@ -5498,6 +5539,7 @@ Nr. 575/2013 sind die Absätze 4 bis 9 entsprechend anzuwenden.
 
 
 #### § 10b Verhältnis der Kapitalpufferanforderungen zu anderen Kapitalanforderungen und zur Eigenmittelempfehlung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014307119)
 
 Zur Erfüllung der Kapitalpufferanforderungen nach den §§ 10c bis 10g
 dürfen die Institute kein hartes Kernkapital verwenden, das
@@ -5540,6 +5582,7 @@ Verordnung (EU) Nr. 575/2013.
 
 
 #### § 10c Kapitalerhaltungspuffer
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016904119)
 
 (1) Ein Institut muss einen aus hartem Kernkapital bestehenden
 Kapitalerhaltungspuffer vorhalten. Seine Höhe beträgt 2,5 Prozent des
@@ -5554,6 +5597,7 @@ Artikels 22 der Verordnung (EU) Nr. 575/2013.
 
 
 #### § 10d Antizyklischer Kapitalpuffer
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE026902119)
 
 (1) Ein Institut muss einen aus hartem Kernkapital bestehenden
 institutsspezifischen antizyklischen Kapitalpuffer vorhalten. Satz 1
@@ -5680,6 +5724,7 @@ Nummer 5 Buchstabe a.
 
 
 #### § 10e Kapitalpuffer für systemische Risiken
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027001119)
 
 (1) Die Bundesanstalt kann anordnen, dass alle Institute oder
 bestimmte Arten oder Gruppen von Instituten einen aus hartem
@@ -5904,6 +5949,7 @@ Buchstabe b erlassene Rechtsverordnung.
 
 
 #### § 10f Kapitalpuffer für global systemrelevante Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027103128)
 
 (1) Die Bundesanstalt ordnet an, dass ein global systemrelevantes
 Institut einen aus hartem Kernkapital bestehenden Kapitalpuffer für
@@ -6046,6 +6092,7 @@ Nummer 5 Buchstabe c.
 
 
 #### § 10g Kapitalpuffer für anderweitig systemrelevante Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027202119)
 
 (1) Die Bundesanstalt kann anordnen, dass ein anderweitig
 systemrelevantes Institut einen aus hartem Kernkapital bestehenden
@@ -6182,6 +6229,7 @@ Nummer 5 Buchstabe d.
 
 
 #### § 10h Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027302119)
 
 (1) Solange neben einem Kapitalpuffer für global systemrelevante
 Institute nach § 10f auch ein Kapitalpuffer für anderweitig
@@ -6203,6 +6251,7 @@ Absatz 1a.
 
 
 #### § 10i Kombinierte Kapitalpufferanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027403128)
 
 (1) Die kombinierte Kapitalpufferanforderung ist das gesamte harte
 Kernkapital eines Instituts, das zur Einhaltung der folgenden
@@ -6448,6 +6497,7 @@ Finanzholding-Gruppen und gemischte Finanzholding-Gruppen.
 
 
 #### § 10j Anforderung an den Puffer der Verschuldungsquote
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE032400119)
 
 (1) Ein global systemrelevantes Institut muss zusätzlich zu dem
 Kernkapital, das zur Einhaltung der Eigenmittelanforderungen nach
@@ -6628,6 +6678,7 @@ ausschließlich Anwendung
 
 
 #### § 11 Liquidität
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE003614119)
 
 (1) Die Institute müssen ihre Mittel so anlegen, dass jederzeit eine
 ausreichende Zahlungsbereitschaft (Liquidität) gewährleistet ist. Das
@@ -6686,6 +6737,7 @@ seiner Liquidität einzureichen hat.
 
 
 #### § 12 Potentiell systemrelevante Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE003818119)
 
 Die Aufsichtsbehörde bestimmt jährlich im Einvernehmen mit der
 Deutschen Bundesbank, welche Institute, Mutterinstitute,
@@ -6710,6 +6762,7 @@ Institute und Gesellschaften sind potentiell systemrelevant, wenn sie
 
 
 #### § 12a Begründung von Unternehmensbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE003913301)
 
 (1) Ein Institut, eine Finanzholding-Gesellschaft oder eine gemischte
 Finanzholding-Gesellschaft hat bei dem Erwerb einer Beteiligung an
@@ -6752,10 +6805,12 @@ Fassung erforderlichen Angaben nicht erhält. Die Ausnahme nach Absatz
 
 
 ### 2. - Kreditgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000604377)
 
 
 
 #### § 13 Großkredite; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE026803119)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
@@ -6843,9 +6898,11 @@ Durchleitungsinstitute, über Hausbanken an Endkreditnehmer leitet.
 
 
 #### (XXXX) §§ 13a u. 13b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004112301)
 
 
 #### § 13c Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014408128)
 
 (1) Ein CRR-Kreditinstitut, das Tochterunternehmen eines gemischten
 Unternehmens ist, hat der Aufsichtsbehörde, der Deutschen Bundesbank
@@ -6923,9 +6980,11 @@ unberührt. § 10a Absatz 8, § 25a Abs. 1 Satz 2 sowie Artikel 11 Absatz
 
 
 #### § 13d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014501360)
 
 
 #### § 14 Millionenkredite
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027503128)
 
 (1) Kreditinstitute, Finanzdienstleistungsinstitute im Sinne des § 1
 Absatz 1a Satz 2 Nummer 4, 9 oder 10, Finanzinstitute im Sinne des
@@ -7013,6 +7072,7 @@ Verfügung stellen.
 
 
 #### § 15 Organkredite
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004316119)
 
 (1) Kredite an
 
@@ -7173,11 +7233,13 @@ oder Unternehmen gelten Absatz 1 Satz 1 bis 4, die Absätze 3 und 4, §
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004406377)
 
 (aufgehoben)
 
 
 #### § 17 Haftungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004505377)
 
 (1) Wird entgegen den Vorschriften des § 15 Kredit gewährt, so haften
 die Geschäftsleiter, die hierbei ihre Pflichten verletzen, und die
@@ -7200,6 +7262,7 @@ Gesellschafterversammlung) beruht.
 
 
 #### § 18 Kreditunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004614119)
 
 Ein Kreditinstitut darf einen Kredit, der insgesamt 750 000 Euro oder
 10 Prozent seines Kernkapitals nach Artikel 25 der Verordnung (EU) Nr.
@@ -7250,6 +7313,7 @@ Eine Offenlegung ist nicht erforderlich bei Krediten an
 
 
 #### § 18a Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE019107128)
 
 (1) Die Kreditinstitute prüfen vor Abschluss eines
 Verbraucherdarlehensvertrags die Kreditwürdigkeit des
@@ -7449,6 +7513,7 @@ Bundesanstalt übertragen.
 
 
 #### § 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004711118)
 
 (1) Kredite im Sinne des § 14 sind Bilanzaktiva, Derivate mit Ausnahme
 der Stillhalterverpflichtungen aus Kaufoptionen sowie die dafür
@@ -7628,6 +7693,7 @@ der Schuldner der Verbindlichkeit als Kreditnehmer.
 
 
 #### § 20 Ausnahmen von den Verpflichtungen nach § 14
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004814301)
 
 Als Kredite im Sinne des § 14 gelten nicht:
 
@@ -7674,9 +7740,11 @@ Als Kredite im Sinne des § 14 gelten nicht:
 
 
 #### (XXXX) §§ 20a bis 20c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017005301)
 
 
 #### § 21 Begriff des Kredits für die §§ 15 bis 18
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE004913118)
 
 (1) Kredite im Sinne der §§ 15 bis 18 sind
 
@@ -7815,6 +7883,7 @@ Kreditnehmers bei dem Institut bleiben außer Betracht.
 
 
 #### § 22 Verordnungsermächtigung für Millionenkredite
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011908301)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
@@ -7862,10 +7931,12 @@ Institute anzuhören.
 
 
 ### 2a. - Refinanzierungsregister
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002400377)
 
 
 
 #### § 22a Registerführendes Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015102301)
 
 (1) Ist das Refinanzierungsunternehmen ein Kreditinstitut oder eine in
 § 2 Abs. 1 Nr. 1 bis 3a genannte Einrichtung und hat ein Unternehmen
@@ -7896,6 +7967,7 @@ Einrichtung sind.
 
 
 #### § 22b Führung des Refinanzierungsregisters für Dritte
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015202301)
 
 (1) Ist das Refinanzierungsunternehmen weder ein Kreditinstitut noch
 eine in § 2 Abs. 1 Nr. 1 bis 3a genannte Einrichtung, können die in §
@@ -7928,6 +8000,7 @@ entsprechende Anwendung.
 
 
 #### § 22c Refinanzierungsmittler
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015300377)
 
 Die §§ 22d bis 22o gelten sinngemäß für Refinanzierungsregister, die
 gemäß § 22a Abs. 4 von einem Refinanzierungsmittler oder gemäß § 22b
@@ -7935,6 +8008,7 @@ Abs. 4 für einen Refinanzierungsmittler geführt werden.
 
 
 #### § 22d Refinanzierungsregister
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015403118)
 
 (1) Eine elektronische Führung des Refinanzierungsregisters ist
 zulässig, sofern sichergestellt ist, dass hinreichende Vorkehrungen
@@ -8011,6 +8085,7 @@ bestätigt hat.
 
 
 #### § 22e Bestellung des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015502128)
 
 (1) Bei jedem registerführenden Unternehmen ist eine natürliche Person
 als Verwalter des Refinanzierungsregisters (Verwalter) zu bestellen.
@@ -8063,6 +8138,7 @@ des Stellvertreters schließen und die Prämien zahlen.
 
 
 #### § 22f Verhältnis des Verwalters zur Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015600377)
 
 (1) Der Verwalter hat der Bundesanstalt Auskunft über die von ihm im
 Rahmen seiner Tätigkeit getroffenen Feststellungen und Beobachtungen
@@ -8073,6 +8149,7 @@ Umstände auf eine nicht ordnungsgemäße Registerführung hindeuten.
 
 
 #### § 22g Aufgaben des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015700377)
 
 (1) Der Verwalter wacht darüber, dass das Refinanzierungsregister
 ordnungsgemäß geführt wird. Zu seinen Aufgaben gehört es jedoch nicht
@@ -8104,6 +8181,7 @@ anderer Personen und Einrichtungen bedienen.
 
 
 #### § 22h Verhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015800377)
 
 (1) Der Verwalter ist befugt, jederzeit die Bücher und Papiere des
 registerführenden Unternehmens einzusehen, es sei denn, dass sie mit
@@ -8124,6 +8202,7 @@ entscheidet die Bundesanstalt.
 
 
 #### § 22i Vergütung des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015901360)
 
 (1) Der Verwalter sowie sein Stellvertreter erhalten von dem
 registerführenden Unternehmen eine angemessene Vergütung, deren Höhe
@@ -8140,6 +8219,7 @@ unzulässig.
 
 
 #### § 22j Wirkungen der Eintragung in das Refinanzierungsregister
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016002301)
 
 (1) Gegenstände des Refinanzierungsunternehmens, die ordnungsgemäß im
 Refinanzierungsregister eingetragen sind, können im Fall der Insolvenz
@@ -8182,6 +8262,7 @@ Werthaltigkeit ganz oder teilweise trägt.
 
 
 #### § 22k Beendigung und Übertragung der Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016101301)
 
 (1) Willigen alle im Refinanzierungsregister eingetragenen
 Übertragungsberechtigten und, sofern ein Übertragungsberechtigter eine
@@ -8213,6 +8294,7 @@ führt, das Insolvenzverfahren eröffnet wird.
 
 
 #### § 22l Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016200377)
 
 (1) Ist über das Vermögen eines Unternehmens, das ein
 Refinanzierungsregister nicht nur für Dritte führt, das
@@ -8252,6 +8334,7 @@ gelten entsprechend für den Stellvertreter des Verwalters.
 
 
 #### § 22m Bekanntmachung der Bestellung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016301128)
 
 (1) Das Insolvenzgericht hat die Ernennung und Abberufung des
 Sachwalters unverzüglich dem zuständigen Registergericht mitzuteilen
@@ -8273,6 +8356,7 @@ eingetragen sind.
 
 
 #### § 22n Rechtsstellung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016400377)
 
 (1) Der Sachwalter steht unter der Aufsicht des Insolvenzgerichts. Das
 Insolvenzgericht kann vom Sachwalter insbesondere jederzeit einzelne
@@ -8324,6 +8408,7 @@ Insolvenzgericht einen Antrag auf Abberufung stellen soll.
 
 
 #### § 22o Bestellung des Sachwalters bei Insolvenzgefahr
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE016501360)
 
 (1) Unter den Voraussetzungen des § 46 bestellt das Gericht am Sitz
 des registerführenden Unternehmens auf Antrag der Bundesanstalt eine
@@ -8357,19 +8442,23 @@ in Zusammenhang stehenden Unterlagen zu übergeben.
 
 
 ### 3. - Kundenrechte
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002201377)
 
 
 
 #### § 22p (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013202360)
 
 -
 
 
 ### 4. - Werbung und Hinweispflichten der Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000806377)
 
 
 
 #### § 23 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE005208118)
 
 (1) Um Missständen bei der Werbung der Institute zu begegnen, kann die
 Bundesanstalt bestimmte Arten der Werbung untersagen. Ein Missstand
@@ -8382,6 +8471,7 @@ der Institute und des Verbraucherschutzes zu hören.
 
 
 #### § 23a Sicherungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010711118)
 
 (1) Ein Institut, das Bankgeschäfte im Sinne des § 1 Abs. 1 Satz 2 Nr.
 1, 4 oder 10 betreibt oder Finanzdienstleistungen im Sinne des § 1
@@ -8429,10 +8519,12 @@ Deutsche Bundesbank hierüber unverzüglich in Textform zu unterrichten.
 
 
 ### 5. - Besondere Pflichten der Institute, ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG000908118)
 
 
 
 #### § 24 Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE005335128)
 
 (1) Ein Institut hat der Aufsichtsbehörde und der Deutschen Bundesbank
 unverzüglich anzuzeigen
@@ -8830,6 +8922,7 @@ Spitzenverbände der Institute anzuhören.
 
 
 #### § 24a Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010822128)
 
 (1) Ein CRR-Kreditinstitut, das die Absicht hat, in einem anderen
 Staat des Europäischen Wirtschaftsraums
@@ -9007,6 +9100,7 @@ Drittstaaten erforderlich ist.
 
 
 #### § 24b Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013109128)
 
 (1) Ein Institut hat die Absicht, ein System nach § 1 Abs. 16 zu
 betreiben, unverzüglich der Bundesanstalt und der Deutschen Bundesbank
@@ -9045,6 +9139,7 @@ bis 4 entsprechend anzuwenden.
 
 
 #### § 24c Automatisierter Abruf von Kontoinformationen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013310128)
 
 (1) Ein Kreditinstitut hat ein Dateisystem zu führen, in dem
 unverzüglich folgende Daten zu speichern sind:
@@ -9253,6 +9348,7 @@ gilt sie als Kreditinstitut nach den Absätzen 1, 5 und 6.
 
 
 #### § 25 Finanzinformationen, Informationen zur Risikotragfähigkeit und zur Liquiditätssteuerung, Refinanzierungspläne; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027602119)
 
 (1) Ein Institut hat unverzüglich nach Ablauf eines jeden Quartals der
 Deutschen Bundesbank Informationen zu seiner finanziellen Situation
@@ -9339,6 +9435,7 @@ Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
 
 #### § 25a Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033001128)
 
 (1) Ein Institut muss über eine ordnungsgemäße Geschäftsorganisation
 verfügen, die die Einhaltung der vom Institut zu beachtenden
@@ -9689,6 +9786,7 @@ Rechtsverordnung sind die Spitzenverbände der Institute zu hören.
 
 
 #### § 25b Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027803123)
 
 (1) Ein Institut muss abhängig von Art, Umfang, Komplexität und
 Risikogehalt einer Auslagerung von Aktivitäten und Prozessen auf ein
@@ -9783,6 +9881,7 @@ Institute zu hören.
 
 
 #### § 25c Geschäftsleiter
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE027908123)
 
 (1) Die Geschäftsleiter eines Instituts müssen für die Leitung eines
 Instituts fachlich geeignet und zuverlässig sein und der Wahrnehmung
@@ -10186,6 +10285,7 @@ dieser Verordnung genügen.
 
 
 #### § 25d Verwaltungs- oder Aufsichtsorgan
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028010128)
 
 (1) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines
 Instituts, einer Finanzholding-Gesellschaft oder einer gemischten
@@ -10534,6 +10634,7 @@ Artikel 27f Absatz 5 dieser Verordnung genügen.
 
 
 #### § 25e Anforderungen bei vertraglich gebundenen Vermittlern
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028102128)
 
 Bedient sich ein CRR-Kreditinstitut eines vertraglich gebundenen
 Vermittlers im Sinne des § 2 Absatz 10 Satz 1, hat es sicherzustellen,
@@ -10550,6 +10651,7 @@ Absatz 4 getroffen werden.
 
 
 #### § 25f Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029601118)
 
 (1) Sämtliche Geschäfte im Sinne des § 3 Absatz 2 und Absatz 4 sind
 bei einem wirtschaftlich, organisatorisch und rechtlich eigenständigen
@@ -10610,10 +10712,12 @@ sicherzustellen.
 
 
 ### 5a. - Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001010360)
 
 
 
 #### § 25g Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013512119)
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Pflichten der
 Kreditinstitute nach
@@ -10658,6 +10762,7 @@ Absatz 1 Nummer 1 bis 4 zu verhindern oder zu unterbinden.
 
 
 #### § 25h Interne Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017810123)
 
 (1) Institute sowie Finanzholding-Gesellschaften und gemischte
 Finanzholding-Gesellschaften nach § 25l müssen unbeschadet der in §
@@ -10739,6 +10844,7 @@ Grund vorliegt.
 
 
 #### § 25i Allgemeine Sorgfaltspflichten in Bezug auf E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017909123)
 
 (1) Kreditinstitute haben bei der Ausgabe von E-Geld die Pflichten
 nach § 10 Absatz 1 des Geldwäschegesetzes zu erfüllen, auch wenn die
@@ -10830,6 +10936,7 @@ Anordnungen erteilen. Insbesondere kann sie
 
 
 #### § 25j Zeitpunkt der Identitätsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018004118)
 
 Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die
 Überprüfung der Identität des Vertragspartners, einer für diesen
@@ -10843,6 +10950,7 @@ werden.
 
 
 #### § 25k Verstärkte Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018107118)
 
 (1) Abweichend von § 10 Absatz 3 Satz 1 Nummer 2 Buchstabe b des
 Geldwäschegesetzes bestehen die Sorgfaltspflichten nach § 10 Absatz 1
@@ -10861,6 +10969,7 @@ waren.
 
 
 #### § 25l Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018209119)
 
 Finanzholding-Gesellschaften und gemischte Finanzholding-
 Gesellschaften mit Sitz im Inland, die über eine Zulassung nach § 2f
@@ -10870,6 +10979,7 @@ Bundesanstalt nach § 50 Nummer 1 des Geldwäschegesetzes.
 
 
 #### § 25m Verbotene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018404118)
 
 Verboten sind:
 
@@ -10889,10 +10999,12 @@ Verboten sind:
 
 
 ### 5b. - Vorlage von Rechnungslegungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002700377)
 
 
 
 #### § 26 Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE005714118)
 
 (1) Die Institute haben den Jahresabschluß in den ersten drei Monaten
 des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und
@@ -10938,10 +11050,12 @@ Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs.
 
 
 ### 5c. - Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002601377)
 
 
 
 #### § 26a Offenlegung durch die Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017307128)
 
 (1) Zusätzlich zu den Angaben, die nach den Artikeln 435 bis 455 der
 Verordnung (EU) Nr. 575/2013 in der jeweils geltenden Fassung zu
@@ -11002,10 +11116,12 @@ zusätzlicher Informationen verlangen.
 
 
 ### 5d. - Besondere Pflichten bei qualifizierter Kryptoverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002603128)
 
 
 
 #### § 26b Vermögenstrennung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033501128)
 
 (1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft
 betreibt, hat sicherzustellen, dass die kryptografischen Instrumente
@@ -11025,15 +11141,18 @@ werden kann.
 
 
 ### 6. - Prüfung und Prüferbestellung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001105377)
 
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006007377)
 
 (aufgehoben)
 
 
 #### § 28 Bestellung des Prüfers in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006113123)
 
 (1) Die Institute haben der Bundesanstalt und der Deutschen Bundesbank
 den von ihnen bestellten Prüfer unverzüglich nach der Bestellung
@@ -11091,6 +11210,7 @@ verlangen kann.
 
 
 #### § 29 Besondere Pflichten des Prüfers
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006252119)
 
 (1) Als Teil der Prüfung des Jahresabschlusses sowie eines
 Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen
@@ -11337,6 +11457,7 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 30 Bestimmung von Prüfungsinhalten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006308377)
 
 Unbeschadet der besonderen Pflichten des Prüfers nach § 29 kann die
 Bundesanstalt auch gegenüber dem Institut Bestimmungen über den Inhalt
@@ -11346,10 +11467,12 @@ Schwerpunkte für die Prüfungen festlegen.
 
 
 ### 7. - Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001204377)
 
 
 
 #### § 31 Befreiungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029801119)
 
 (1) Das Bundesministerium der Finanzen kann nach Anhörung der
 Deutschen Bundesbank durch Rechtsverordnung, die nicht der Zustimmung
@@ -11414,14 +11537,17 @@ Satz 1, § 25 Absatz 2 und nach den Artikeln 11 bis 18 der Verordnung
 
 
 ## Dritter Abschnitt - Vorschriften über die Beaufsichtigung der Institute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001305377)
 
 
 
 ### 1. - Zulassung zum Geschäftsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001404377)
 
 
 
 #### § 32 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006539128)
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert,
@@ -11810,6 +11936,7 @@ verlegt.
 
 
 #### § 33 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE034200128)
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -12013,6 +12140,7 @@ Antrag abzulehnen.
 
 
 #### § 33a Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010911118)
 
 Die Aufsichtsbehörde hat die Entscheidung über einen Antrag auf
 Erlaubnis von Unternehmen mit Sitz außerhalb der Europäischen Union
@@ -12029,6 +12157,7 @@ Beschränkung entsprechend zu verlängern.
 
 
 #### § 33b Anhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011014128)
 
 Soll eine Erlaubnis für das Betreiben von Bankgeschäften nach § 1 Abs.
 1 Satz 2 Nr. 1, 2, 4 oder 10 oder für das Erbringen von
@@ -12059,6 +12188,7 @@ erforderlich sind.
 
 
 #### § 34 Stellvertretung und Fortführung bei Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006707118)
 
 (1) § 45 der Gewerbeordnung findet auf Institute keine Anwendung.
 
@@ -12076,6 +12206,7 @@ verschaffen, genügt ein Stellvertreter.
 
 
 #### § 35 Erlöschen und Aufhebung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE006825311)
 
 (1) Die Erlaubnis erlischt, wenn von ihr nicht innerhalb eines Jahres
 seit ihrer Erteilung Gebrauch gemacht wird. Die Erlaubnis erlischt
@@ -12207,6 +12338,7 @@ grenzüberschreitenden Dienstleistungsverkehrs tätig gewesen ist.
 
 
 #### § 36 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE001731123)
 
 (1) In den Fällen des § 35 Abs. 2 Nr. 3, 4 und 6 kann die
 Bundesanstalt, statt die Erlaubnis aufzuheben, die Abberufung der
@@ -12382,6 +12514,7 @@ der Mitbestimmungsgesetze.
 
 
 #### § 36a Tätigkeitsverbot für natürliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030605123)
 
 (1) In den Fällen des § 35 Absatz 2 Nummer 7, 9 oder 10 kann die
 Aufsichtsbehörde auch einer für den Verstoß verantwortlichen
@@ -12428,6 +12561,7 @@ Tätigkeit als Geschäftsleiter bei einem Institut untersagen.
 
 
 #### § 37 Einschreiten gegen unerlaubte oder verbotene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007016123)
 
 (1) Die Bundesanstalt kann die sofortige Einstellung des
 Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte
@@ -12508,6 +12642,7 @@ betreffende Information zuvor bekannt gegeben hat.
 
 
 #### § 38 Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007113118)
 
 (1) Hebt die Aufsichtsbehörde die Erlaubnis auf oder erlischt die
 Erlaubnis, so kann die Bundesanstalt bei juristischen Personen und
@@ -12546,10 +12681,12 @@ gewesen ist.
 
 
 ### 2. - Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001505377)
 
 
 
 #### § 39 Bezeichnungen "Bank" und "Bankier"
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007207377)
 
 (1) Die Bezeichnung "Bank", "Bankier" oder eine Bezeichnung, in der
 das Wort "Bank" oder "Bankier" enthalten ist, dürfen, soweit durch
@@ -12581,6 +12718,7 @@ rechtfertigen.
 
 
 #### § 40 Bezeichnung "Sparkasse"
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007305377)
 
 (1) Die Bezeichnung "Sparkasse" oder eine Bezeichnung, in der das Wort
 "Sparkasse" enthalten ist, dürfen in der Firma, als Zusatz zur Firma,
@@ -12611,6 +12749,7 @@ Darlehenskasse" führen.
 
 
 #### § 41 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007405377)
 
 Die §§ 39 und 40 gelten nicht für Unternehmen, die die Worte "Bank",
 "Bankier" oder "Sparkasse" in einem Zusammenhang führen, der den
@@ -12624,6 +12763,7 @@ hinweisenden Zusatz ergänzen.
 
 
 #### § 42 Entscheidung der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007505377)
 
 Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein Unternehmen
 zur Führung der in den §§ 39 und 40 genannten Bezeichnungen befugt
@@ -12631,6 +12771,7 @@ ist. Sie hat ihre Entscheidungen dem Registergericht mitzuteilen.
 
 
 #### § 43 Registervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007607377)
 
 (1) Soweit nach § 32 das Betreiben von Bankgeschäften oder das
 Erbringen von Finanzdienstleistungen einer Erlaubnis bedarf, dürfen
@@ -12657,10 +12798,12 @@ freiwilligen Gerichtsbarkeit zulässigen Rechtsmittel einzulegen.
 
 
 ### 3. - Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001604377)
 
 
 
 #### § 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007724128)
 
 (1) Ein Institut oder ein übergeordnetes Unternehmen, die Mitglieder
 deren Organe und deren Beschäftigte haben der Bundesanstalt, den
@@ -12795,6 +12938,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 #### § 44a Grenzüberschreitende Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007819128)
 
 (1) Rechtsvorschriften, die einer Übermittlung von Daten
 entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten
@@ -12843,6 +12987,7 @@ zusammengefaßter Basis einbezogen werden.
 
 
 #### § 44b Auskünfte und Prüfungen bei Inhabern bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011109377)
 
 (1) Die Verpflichtungen nach § 44 Abs. 1 Satz 1 gegenüber der
 Bundesanstalt und der Deutschen Bundesbank zur Auskunft und Vorlegung
@@ -12889,6 +13034,7 @@ Ordnungswidrigkeiten aussetzen würde.
 
 
 #### § 44c Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012714123)
 
 (1) Ein Unternehmen, die Mitglieder seiner Organe, seine Beschäftigten
 sowie andere Unternehmen, die in die Abwicklung seiner Geschäfte
@@ -12985,10 +13131,12 @@ erbracht werden.
 
 
 ### 4. - Maßnahmen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001704377)
 
 
 
 #### § 45 Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE007922119)
 
 (1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung eines
 Instituts oder andere Umstände die Annahme rechtfertigen, dass das
@@ -13259,6 +13407,7 @@ beitragen.
 
 
 #### § 45a Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012010301)
 
 (1) Die Bundesanstalt kann einer Finanzholding-Gesellschaft an der
 Spitze einer Finanzholding-Gruppe im Sinne des § 10a oder einer
@@ -13321,6 +13470,7 @@ Gesellschaft im Sinne der §§ 10a und 13b.
 
 
 #### § 45b Maßnahmen bei organisatorischen Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017511123)
 
 (1) Verfügt ein Institut nicht über eine ordnungsgemäße
 Geschäftsorganisation im Sinne des § 25a Abs. 1, kann die
@@ -13383,6 +13533,7 @@ Sinne des § 25b Absatz 1 Satz 1 ausgelagert hat.
 
 
 #### § 45c Sonderbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE019808311)
 
 (1) Die Aufsichtsbehörde kann einen Sonderbeauftragten bestellen,
 diesen mit der Wahrnehmung von Aufgaben bei einem Institut betrauen
@@ -13549,6 +13700,7 @@ gemischter Finanzholding-Gesellschaften tatsächlich führen.
 
 
 #### § 46 Maßnahmen bei Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008015119)
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines
 Instituts gegenüber seinen Gläubigern, insbesondere für die Sicherheit
@@ -13649,6 +13801,7 @@ Erstattung die Aufsichtsbehörde nach Satz 4 angeordnet hat.
 
 
 #### § 46a Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008118119)
 
 (1) Die Aufsichtsbehörde kann einem Institut, das für aufsichtliche
 Zwecke Ratings einer oder mehrerer Ratingagenturen verwendet, das
@@ -13666,6 +13819,7 @@ des Instituts auf Ratings entgegenzuwirken.
 
 
 #### § 46b Insolvenzantrag
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008219118)
 
 (1) Wird ein Institut, das eine Erlaubnis zum Geschäftsbetrieb im
 Inland besitzt, oder eine nach § 10a als übergeordnetes Unternehmen
@@ -13737,6 +13891,7 @@ Insolvenzverfahren verlangen.
 
 
 #### § 46c Insolvenzrechtliche Fristen und Haftungsfragen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008308360)
 
 (1) Die nach den §§ 88 und 130 bis 136 der Insolvenzordnung vom Tag
 des Antrags auf Eröffnung des Insolvenzverfahrens an zu berechnenden
@@ -13755,6 +13910,7 @@ des Finanzdienstleistungsaufsichtsgesetzes bleibt unberührt.
 
 
 #### § 46d Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013705301)
 
 (1) Vor Erlass einer Sanierungsmaßnahme, insbesondere einer Maßnahme
 nach § 46, gegenüber einem CRR-Kreditinstitut unterrichtet die
@@ -13818,6 +13974,7 @@ hiervon in Kenntnis.
 
 
 #### § 46e Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013806128)
 
 (1) Zuständig für die Eröffnung eines Insolvenzverfahrens über das
 Vermögen eines CRR-Kreditinstituts sind im Bereich des Europäischen
@@ -13871,6 +14028,7 @@ Abwicklungsgesetzes ausgeübt wird.
 
 
 #### § 46f Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013908119)
 
 (1) Mit dem Eröffnungsbeschluss ist den Gläubigern von der
 Geschäftsstelle des Insolvenzgerichts ein Formblatt zu übersenden, das
@@ -14027,6 +14185,7 @@ den gleichen Rang wie Schuldtitel im Sinne des Absatzes 6 Satz 1.
 
 
 #### § 46g Moratorium, Einstellung des Bank- und Börsenverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008408301)
 
 (1) Sind wirtschaftliche Schwierigkeiten bei Kreditinstituten zu
 befürchten, die schwerwiegende Gefahren für die Gesamtwirtschaft,
@@ -14064,6 +14223,7 @@ Verfahrensrechts ergeben.
 
 
 #### § 46h Wiederaufnahme des Bank- und Börsenverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008506301)
 
 (1) Die Bundesregierung kann nach Anhörung der Deutschen Bundesbank
 für die Zeit nach einer vorübergehenden Schließung der Kreditinstitute
@@ -14081,6 +14241,7 @@ sind, drei Monate nach ihrer Verkündung außer Kraft.
 
 
 #### § 46i Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033601128)
 
 (1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für
 einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden
@@ -14106,6 +14267,7 @@ verwahrten Gesamtbestands entsprechend anzuwenden.
 
 
 #### § 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE024202118)
 
 Verstößt ein Institut, das über ein PRIIP im Sinne des Artikels 4
 Nummer 3 der Verordnung (EU) Nr. 1286/2014 berät oder es verkauft oder
@@ -14145,6 +14307,7 @@ Die Bundesanstalt kann insbesondere
 
 
 #### § 47a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE034300128)
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU)
 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
@@ -14185,6 +14348,7 @@ Bundesbank übertragen.
 
 
 #### § 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031701123)
 
 (1) Verstößt ein Originator, Sponsor, ursprünglicher Kreditgeber oder
 eine Verbriefungszweckgesellschaft gegen die Anforderungen der Artikel
@@ -14214,14 +14378,17 @@ bis 26e dieser Verordnung festgelegten Kriterien erfüllen.
 
 
 ### 4a. - Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002802118)
 
 
 
 #### (XXXX) §§ 48a bis 48s (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE019901118)
 
 
 
 #### § 48t Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028302119)
 
 (1) Stellt der Ausschuss für Finanzstabilität Veränderungen in der
 Intensität des makroprudenziellen oder des systemischen Risikos im
@@ -14345,6 +14512,7 @@ Jahren
 
 
 #### § 48u Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031401123)
 
 (1) Die Bundesanstalt kann für Kreditinstitute, die das Kreditgeschäft
 betreiben, im Wege der Allgemeinverfügung die in Absatz 2 vorgesehenen
@@ -14506,10 +14674,12 @@ Absätze 1 bis 4 gelten entsprechend.
 
 
 ### 5. - Vollziehbarkeit, Zwangsmittel, Umlage und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001805377)
 
 
 
 #### § 49 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008636128)
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
@@ -14534,11 +14704,13 @@ aufschiebende Wirkung.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008708377)
 
 (weggefallen)
 
 
 #### § 51 Umlage und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008813119)
 
 (1) Die Kosten des Bundesaufsichtsamtes sind, soweit sie nicht durch
 Gebühren oder durch besondere Erstattung nach Absatz 3 gedeckt sind,
@@ -14585,10 +14757,12 @@ für das Kreditwesen anzuwenden.
 
 
 ## Vierter Abschnitt - Besondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001400301)
 
 
 
 ### § 51a Anforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028801116)
 
 (1) Wohnungsunternehmen mit Spareinrichtung müssen im Interesse der
 Erfüllung ihrer Verpflichtungen gegenüber ihren Gläubigern,
@@ -14745,6 +14919,7 @@ aufzuheben, soweit die Voraussetzung für die Festsetzung wegfällt.
 
 
 ### § 51b Anforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028900360)
 
 (1) Wohnungsunternehmen mit Spareinrichtung müssen ihre Mittel so
 anlegen, dass jederzeit eine ausreichende Zahlungsfähigkeit
@@ -14788,6 +14963,7 @@ Maßnahme die nachhaltige Liquidität nicht gesichert ist.
 
 
 ### § 51c Sonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028603119)
 
 (1) Das Einlagengeschäft im Sinne des § 1 Absatz 29 Satz 1 Nummer 3
 darf nur mit den Mitgliedern der Genossenschaft und ihren Angehörigen
@@ -14815,16 +14991,19 @@ Gegenwert von mindestens 5 Millionen Euro zur Verfügung steht.
 
 
 ## Fünfter Abschnitt - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG001905377)
 
 
 
 ### § 52 Sonderaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE008906377)
 
 Soweit Institute einer anderen staatlichen Aufsicht unterliegen,
 bleibt diese neben der Aufsicht der Bundesanstalt bestehen.
 
 
 ### § 52a Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE021800360)
 
 (1) Ansprüche von Kreditinstituten gegen Geschäftsleiter und
 Mitglieder des Aufsichts- oder Verwaltungsorgans aus dem Organ- und
@@ -14836,6 +15015,7 @@ und noch nicht verjährten Ansprüche anzuwenden.
 
 
 ### § 53 Zweigstellen von Unternehmen mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009114128)
 
 (1) Unterhält ein Unternehmen mit Sitz im Ausland eine Zweigstelle im
 Inland, die Bankgeschäfte betreibt oder Finanzdienstleistungen
@@ -14940,6 +15120,7 @@ Geschäfte der Zweigstelle abgewickelt worden sind.
 
 
 ### § 53a Repräsentanzen von Instituten mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009206377)
 
 Ein Institut mit Sitz im Ausland darf eine Repräsentanz im Inland
 errichten oder fortführen, wenn es befugt ist, in seinem
@@ -14956,6 +15137,7 @@ unverzüglich anzuzeigen.
 
 
 ### § 53b Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011236123)
 
 (1) Ein CRR-Kreditinstitut mit Sitz in einem anderen Staat des
 Europäischen Wirtschaftsraums darf ohne Erlaubnis durch die
@@ -15296,6 +15478,7 @@ vorherige Anhörung getroffen und öffentlich bekannt gegeben werden.
 
 
 ### § 53c Unternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011310118)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung
@@ -15344,6 +15527,7 @@ und 3 entsprechend anzuwenden.
 
 
 ### § 53d Mutterunternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE014906124)
 
 (1) Unterliegen CRR-Kreditinstitute und Wertpapierhandelsunternehmen
 mit Sitz im Inland, die Tochterunternehmen eines Instituts, einer
@@ -15388,14 +15572,17 @@ und § 7b Absatz 3 Nummer 2 bleiben unberührt.
 
 
 ## Sechster Abschnitt - Sondervorschriften für zentrale Gegenparteien und Zentralverwahrer
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002901118)
 
 
 
 ### 1. - Zentrale Gegenparteien
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG003100118)
 
 
 
 #### § 53e Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022700360)
 
 § 2c Absatz 2 in Verbindung mit Absatz 1b Satz 1 Nummer 1, 3, 4 bis 6
 gilt entsprechend, soweit die Bundesanstalt nach Artikel 30 Absatz 4
@@ -15408,6 +15595,7 @@ beenden; § 44b gilt entsprechend.
 
 
 #### § 53f Aufsichtskollegien
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022800360)
 
 (1) Soweit die Bundesanstalt und die Deutsche Bundesbank einem
 Aufsichtskollegium nach Artikel 18 der Verordnung (EU) Nr. 648/2012
@@ -15426,6 +15614,7 @@ abgerechnet wurde.
 
 
 #### § 53g Finanzmittelausstattung von zentralen Gegenparteien
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022900360)
 
 Die Bundesanstalt kann bei der Beurteilung der Angemessenheit der
 Finanzmittel anordnen, dass eine zentrale Gegenpartei Anforderungen an
@@ -15451,6 +15640,7 @@ das Eigenkapital und die sonstigen Finanzmittel einhalten muss, die
 
 
 #### § 53h Liquidität
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023000360)
 
 Die Bundesanstalt kann bei der Beurteilung der Liquidität im
 Einzelfall gegenüber einer zentralen Gegenpartei
@@ -15463,6 +15653,7 @@ ist.
 
 
 #### § 53i Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023101128)
 
 Eine zentrale Gegenpartei, der eine Zulassung nach Artikel 14 der
 Verordnung (EU) Nr. 648/2012 erteilt worden ist, hat die Bundesanstalt
@@ -15487,6 +15678,7 @@ Bundesanstalt kann der zentralen Gegenpartei
 
 
 #### § 53j Anzeigen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023200360)
 
 (1) Eine zentrale Gegenpartei hat der Bundesanstalt und der Deutschen
 Bundesbank jeweils zum Monatsende anzuzeigen:
@@ -15566,6 +15758,7 @@ zu erlassen ist.
 
 
 #### § 53k Auslagerung von Aktivitäten und Prozessen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023301301)
 
 Soweit eine zentrale Gegenpartei eine Auslagerung gemäß Artikel 35 der
 Verordnung (EU) Nr. 648/2012 vornimmt, gilt
@@ -15573,6 +15766,7 @@ Verordnung (EU) Nr. 648/2012 vornimmt, gilt
 
 
 #### § 53l Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023401116)
 
 (1) Die Bundesanstalt kann gegenüber einer zentralen Gegenpartei im
 Einzelfall Anordnungen treffen, die geeignet und erforderlich sind,
@@ -15604,6 +15798,7 @@ nach dessen Absatz 3, hinausgehen.
 
 
 #### § 53m Inhalt des Zulassungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023500360)
 
 (1) Ein Antrag auf Zulassung als zentrale Gegenpartei im Inland nach
 den Artikeln 14 und 17 der Verordnung (EU) Nr. 648/2012 muss
@@ -15661,6 +15856,7 @@ für die Beurteilung des Zulassungsantrags erforderlich sind.
 
 
 #### § 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023603123)
 
 (1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung einer
 zentralen Gegenpartei oder andere Umstände die Annahme rechtfertigen,
@@ -15917,10 +16113,12 @@ tragen.
 
 
 ### 2. - Zentralverwahrer
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG003200118)
 
 
 
 #### § 53o Anträge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030301128)
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU) Nr.
 909/2014 vorzulegen sind, sind in deutscher Sprache und auf Verlangen
@@ -15939,6 +16137,7 @@ Aufgaben nach § 6 Absatz 1c entsprechend.
 
 
 #### § 53p Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030700118)
 
 Die Bundesanstalt kann unbeschadet der anderen Bestimmungen dieses
 Gesetzes gegenüber einem Zentralverwahrer im Sinne des Artikels 2
@@ -15958,6 +16157,7 @@ sicherzustellen.
 
 
 #### § 53q Eigentumsrechte an Zentralverwahrern
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030800118)
 
 (1) Für die Unterrichtung der Bundesanstalt und der Deutschen
 Bundesbank über die Entscheidung, Eigentumsrechte an einem
@@ -15998,16 +16198,19 @@ Im Falle einer Untersagung nach Satz 1 gelten § 2c Absatz 2 Satz 2 bis
 
 
 ## Abschnitt 6a - DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002902128)
 
 
 
 ### § 53r Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033700128)
 
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12
 Absatz 1 bis 3 der Verordnung (EU) 2022/858.
 
 
 ### § 53s Ausnahmen von der Erlaubnispflicht nach § 32
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033800128)
 
 (1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der
 Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach den
@@ -16027,6 +16230,7 @@ Erlaubnis nach § 32 Absatz 1a Satz 2.
 
 
 ### § 53t DLT-Abwicklungssysteme und DLT-Handels- und Abwicklungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033900128)
 
 Die Vorschriften dieses Gesetzes über Zentralverwahrer sind auch auf
 DLT-Abwicklungssysteme im Sinne des Artikels 2 Nummer 7 der Verordnung
@@ -16037,6 +16241,7 @@ anzuwenden, die auf einer Erlaubnis nach der Verordnung (EU) Nr.
 
 
 ### § 53u Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE034000128)
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU)
 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie
@@ -16051,6 +16256,7 @@ der Bundesanstalt zu bestimmen.
 
 
 ### § 53v Betreiber organisierter Märkte
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE034100128)
 
 (1) Die Vorschriften dieses Abschnitts sind auch auf Betreiber
 organisierter Märkte anzuwenden, sofern diese ein multilaterales DLT-
@@ -16064,10 +16270,12 @@ nach der Verordnung (EU) 2022/858 betroffen sind.
 
 
 ## Siebenter Abschnitt - Strafvorschriften, Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002006360)
 
 
 
 ### § 54 Verbotene Geschäfte, Handeln ohne Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009311128)
 
 (1) Wer
 
@@ -16111,6 +16319,7 @@ bis zu drei Jahren oder Geldstrafe.
 
 
 ### § 54a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029500301)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 25c Absatz 4a oder § 25c Absatz 4b Satz 2
@@ -16133,6 +16342,7 @@ Bestandsgefährdung herbeigeführt hat.
 
 
 ### § 55 Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009408377)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 46b Abs. 1 Satz 1, auch in Verbindung mit §
@@ -16144,6 +16354,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 55a Unbefugte Verwertung von Angaben über Millionenkredite
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012803377)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 14 Abs. 2 Satz 10 eine Angabe verwertet.
@@ -16152,6 +16363,7 @@ bestraft, wer entgegen § 14 Abs. 2 Satz 10 eine Angabe verwertet.
 
 
 ### § 55b Unbefugte Offenbarung von Angaben über Millionenkredite
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012904377)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 14 Abs. 2 Satz 10 eine Angabe offenbart.
@@ -16164,6 +16376,7 @@ Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 56 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE033303119)
 
 (1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach §
 36 Absatz 1 Satz 1, Absatz 2 oder Absatz 3 Satz 1 zuwiderhandelt.
@@ -17573,6 +17786,7 @@ sind. Die Verfolgung der Ordnungswidrigkeiten nach den Absätzen 4f bis
 
 
 ### § 57 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009605128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -17597,10 +17811,12 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ### § 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009606128)
 
 
 
 ### § 59 Geldbußen gegen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009707377)
 
 § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für Unternehmen
 im Sinne des § 53b Abs. 1 Satz 1 und Abs. 7 Satz 1, die über eine
@@ -17609,12 +17825,14 @@ Dienstleistungsverkehrs im Inland tätig sind.
 
 
 ### § 60 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009805377)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013006119)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber,
@@ -17668,6 +17886,7 @@ gilt entsprechend.
 
 
 ### § 60b Bekanntmachung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE028905128)
 
 (1) Die Bundesanstalt soll, sofern die Bekanntmachung nicht bereits
 nach § 60c Absatz 1 Satz 1 erfolgt, jede gegen ein ihrer Aufsicht
@@ -17732,6 +17951,7 @@ mehr erforderlich ist.
 
 
 ### § 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030904128)
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und
 Sanktionen, die wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014
@@ -17801,6 +18021,7 @@ unverhältnismäßigen Schaden zufügen würde.
 
 
 ### § 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031500118)
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und
 Sanktionen gemäß § 56 Absatz 4h, die gegen
@@ -17866,10 +18087,12 @@ ist.
 
 
 ## Achter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNG002106360)
 
 
 
 ### § 61 Erlaubnis für bestehende Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE009904377)
 
 Soweit ein Kreditinstitut bei Inkrafttreten dieses Gesetzes
 Bankgeschäfte in dem in § 1 Abs. 1 bezeichneten Umfang betreiben
@@ -17879,6 +18102,7 @@ laufen.
 
 
 ### § 62 Überleitungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010108377)
 
 (1) Die auf dem Gebiet des Kreditwesens bestehenden Rechtsvorschriften
 sowie die auf Grund der bisherigen Rechtsvorschriften erlassenen
@@ -17901,11 +18125,13 @@ Auslandsbonds bleiben unberührt.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010204377)
 
 (Aufhebung und Änderung von Rechtsvorschriften)
 
 
 ### § 63a Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010510377)
 
 (1) Soweit ein Kreditinstitut mit Sitz in der Deutschen Demokratischen
 Republik einschließlich Berlin (Ost) am 1. Juli 1990 Bankgeschäfte in
@@ -17923,6 +18149,7 @@ Einigungsvertrages genannten Gebiet an das Bundesrecht, angezeigt ist.
 
 
 ### § 64 Nachfolgeunternehmen der Deutschen Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010307377)
 
 Ab 1. Januar 1995 gilt die Erlaubnis nach § 32 für das
 Nachfolgeunternehmen der Deutschen Bundespost POSTBANK als erteilt.
@@ -17933,6 +18160,7 @@ und Telekommunikation Deutsche Bundespost gehalten werden.
 
 
 ### § 64a Übergangsvorschrift zum Risikoreduzierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011508128)
 
 (1) Eine bereits am 27. Juni 2019 bestehende Finanzholding-
 Gesellschaft nach § 2f Absatz 1 kann bei der Aufsichtsbehörde eine
@@ -17962,20 +18190,24 @@ anzuwenden.
 
 
 ### § 64b Übergangsvorschrift zu § 24 Absatz 1d
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE011609128)
 
 Die Anzeigepflicht nach § 24 Absatz 1d ist erstmals zum Meldestichtag
 31\. Dezember 2023 zu erfüllen.
 
 
 ### § 64c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012105377)
 
 -
 
 
 ### § 64d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012207301)
 
 
 ### § 64e Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE012309128)
 
 (1) Für ein Kreditinstitut, das am 1. Januar 1998 über eine Erlaubnis
 als Einlagenkreditinstitut verfügt, gilt die Erlaubnis für das
@@ -18029,6 +18261,7 @@ sie § 10 Abs. 1 bis 8 und die §§ 10a, 11 und 13 bis 13b anwenden.
 
 
 ### § 64f Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE013401377)
 
 (1) Für ein Kreditinstitut, das am 1. Juli 2002 über eine Erlaubnis
 als Einlagenkreditinstitut verfügt, gilt die Erlaubnis für das
@@ -18045,6 +18278,7 @@ Bundesbank anzuzeigen. § 64e Abs. 2 Satz 2 bis 5 gilt entsprechend.
 
 
 ### § 64g Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE015002118)
 
 (1) (weggefallen)
 
@@ -18120,6 +18354,7 @@ nicht erreicht.
 
 
 ### § 64h Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017605123)
 
 (1) (weggefallen)
 
@@ -18138,6 +18373,7 @@ nicht erreicht.
 
 
 ### § 64i Übergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE017700377)
 
 (1) Für ein Unternehmen, das am 1. November 2007 eine Erlaubnis für
 ein oder mehrere Bankgeschäfte oder Finanzdienstleistungen im Sinne
@@ -18178,6 +18414,7 @@ des Platzierungsgeschäfts Absatz 1 Satz 2 entsprechend.
 
 
 ### § 64j Übergangsvorschriften zum Jahressteuergesetz 2009
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018500377)
 
 (1) Für ein Unternehmen, das am 25. Dezember 2008 eine Erlaubnis für
 ein oder mehrere Bankgeschäfte im Sinne des § 1 Abs. 1 oder
@@ -18204,6 +18441,7 @@ nach § 14 Abs. 1 Satz 1 der Gewerbeordnung enthalten.
 
 
 ### § 64k Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018700377)
 
 Auf Verfahren nach § 2c, bei denen bis zum 17. März 2009 eine Anzeige
 eingegangen ist, sind die Vorschriften dieses Gesetzes in der bis zum
@@ -18211,6 +18449,7 @@ eingegangen ist, sind die Vorschriften dieses Gesetzes in der bis zum
 
 
 ### § 64l Übergangsvorschrift zur Erlaubnis für die Anlageverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE018800377)
 
 Für ein Institut, das am 25. März 2009 die Erlaubnis für das
 Finanzkommissionsgeschäft, den Eigenhandel oder die
@@ -18222,6 +18461,7 @@ veröffentlicht wurde.
 
 
 ### § 64m Übergangsvorschrift zum Brexit-Steuerbegleitgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE019302128)
 
 (1) § 25a Absatz 5a in der am 29. März 2019 geltenden Fassung ist
 erstmals für Kündigungen anzuwenden, die nach Ablauf von acht Monaten
@@ -18243,6 +18483,7 @@ Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt.
 
 
 ### § 64n Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE022500360)
 
 Für ein Unternehmen, das auf Grund der Erweiterung der Definition der
 Finanzinstrumente in § 1 Absatz 11 Satz 1 am 1. Juni 2012 zum
@@ -18254,6 +18495,7 @@ mit einer Rechtsverordnung nach § 24 Absatz 4, stellt.
 
 
 ### § 64o Übergangsvorschriften zum EMIR-Ausführungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023800360)
 
 (1) Für Kreditinstitute, die am 16. Februar 2013 über eine Erlaubnis
 nach § 32 zur Ausübung der Tätigkeit einer zentralen Gegenpartei nach
@@ -18285,6 +18527,7 @@ Artikel 17 der Verordnung (EU) Nr. 648/2012 erhalten hat.
 
 
 ### § 64p Übergangsvorschrift zum Hochfrequenzhandelsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE023900377)
 
 Für ein Unternehmen, das auf Grund der Ausdehnung des Begriffs des
 Eigenhandels in § 1 Absatz 1a Satz 2 Nummer 4 am 15. Mai 2013 zum
@@ -18300,6 +18543,7 @@ Februar 2014 zu stellen ist.
 
 
 ### § 64q Übergangsvorschrift zum AIFM-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE024100360)
 
 (1) Auf Finanzdienstleistungsinstitute, die durch die Änderung des § 1
 und das Inkrafttreten des Kapitalanlagegesetzbuchs als
@@ -18322,6 +18566,7 @@ Kapitalanlagegesetzbuchs erfüllt sind, bis zur Registrierung gemäß §
 
 
 ### § 64r Übergangsvorschriften zum CRD IV-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029006119)
 
 (1) (weggefallen)
 
@@ -18402,10 +18647,12 @@ verfügen. In diesem Fall darf das Anfangskapital nicht unter den am
 
 
 ### (XXXX) §§ 64s bis 64u (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE029701119)
 
 
 
 ### § 64v Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031000118)
 
 (1) Die Tätigkeit als Zentralverwahrer kann auf Grund einer Erlaubnis
 für das Depotgeschäft nach § 1 Absatz 1 Satz 2 Nummer 5 bis zur
@@ -18425,10 +18672,12 @@ sowie § 29 Absatz 1b sind bis dahin nicht anzuwenden.
 
 
 ### § 64w (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031301119)
 
 
 
 ### § 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031601118)
 
 (1) Für ein Kreditinstitut, das am 3. Januar 2018 über eine Erlaubnis
 als CRR-Kreditinstitut verfügt, und ein Finanzdienstleistungsinstitut,
@@ -18505,10 +18754,12 @@ Freistellungsantrag nach § 2 Absatz 5 Satz 1 stellt.
 
 
 ### § 64y (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE031801128)
 
 
 
 ### § 65 Übergangsvorschrift zum Gesetz zur Einführung von elektronischen Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE010405119)
 
 (1) Ein Unternehmen, das am 10. Juni 2021 über die Erlaubnis für den
 Betrieb des Kryptoverwahrgeschäftes verfügt, darf dieses Geschäft auch
@@ -18536,6 +18787,7 @@ untersagen.
 
 
 ### § 65a Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE034400128)
 
 (1) Für ein Institut, das am 29. Dezember 2024 über eine Erlaubnis zur
 Erbringung des Kryptoverwahrgeschäftes im Sinne des § 1 Absatz 1a Satz
@@ -18553,6 +18805,7 @@ Anforderungen an das Meldewesen nach Kapitel III der Verordnung (EU)
 
 
 ### Anhang I Informationsbogen für den Einleger
+[Direktlink](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html#BJNR008810961BJNE030101128)
 
 (Fundstelle: BGBl. I 2015, 810 - 811; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

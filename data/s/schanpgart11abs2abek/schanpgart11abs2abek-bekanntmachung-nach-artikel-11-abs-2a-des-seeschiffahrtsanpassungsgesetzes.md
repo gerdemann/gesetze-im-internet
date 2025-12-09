@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/schanpgart11abs2abek/BJNR402300998.html#BJNR402300998BJNE000100311)
 
 Auf Grund des Artikels 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes
 vom 9. September 1998 (BGBl. I S. 2860) wird bekanntgemacht, daß die

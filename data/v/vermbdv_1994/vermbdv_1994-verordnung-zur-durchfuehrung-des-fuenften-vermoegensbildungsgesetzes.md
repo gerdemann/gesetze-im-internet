@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000100000)
 
 Auf Grund des § 14 Abs. 5 und des § 15 Abs. 2 des Fünften
 Vermögensbildungsgesetzes in der Fassung der Bekanntmachung vom 4.
@@ -31,6 +32,7 @@ Finanzen:
 
 
 ## § 1 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000200000)
 
 Auf das Verfahren bei der Festsetzung, Auszahlung und Rückzahlung der
 Arbeitnehmer-Sparzulage sind neben den in § 14 Abs. 2 des Gesetzes
@@ -40,6 +42,7 @@ nachstehenden Vorschriften nichts anderes ergibt.
 
 
 ## § 2 Mitteilungspflichten des Arbeitgebers, des Kreditinstituts oder des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000305360)
 
 (1) Der Arbeitgeber hat bei Überweisung vermögenswirksamer Leistungen
 im Dezember und Januar eines Kalenderjahres dem Kreditinstitut oder
@@ -120,6 +123,7 @@ mitzuteilen.
 
 
 ## § 3 Aufzeichnungspflichten des Beteiligungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000400000)
 
 (1) Das Unternehmen, an dem eine nichtverbriefte Vermögensbeteiligung
 im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l des Gesetzes auf Grund
@@ -139,6 +143,7 @@ oder erworben wird.
 
 
 ## § 4 Festlegung von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000502377)
 
 (1) Wertpapiere, die auf Grund eines Vertrags im Sinne des § 4 des
 Gesetzes mit vermögenswirksamen Leistungen erworben werden, sind auf
@@ -208,6 +213,7 @@ entsprechend Absatz 1 in Verwahrung genommen worden sind.
 
 
 ## § 5 Elektronische Vermögensbildungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000605360)
 
 (1) Das Kreditinstitut, das Unternehmen oder der Arbeitgeber, bei dem
 vermögenswirksame Leistungen nach § 2 Absatz 1 Nummer 1 bis 4 oder
@@ -255,6 +261,7 @@ Vermögensbildungsbescheinigung nicht erteilt werden.
 
 
 ## § 6 Festsetzung der Arbeitnehmer-Sparzulage, Mitteilungspflichten der Finanzämter
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000702360)
 
 (1) Die Festsetzung der Arbeitnehmer-Sparzulage ist regelmäßig mit der
 Einkommensteuererklärung zu beantragen. Die festzusetzende
@@ -316,6 +323,7 @@ Kalenderjahr der Veräußerung vorangeht, angelegten Beträge.
 
 
 ## § 7 Auszahlung der Arbeitnehmer-Sparzulage
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000803360)
 
 (1) Die festgesetzte Arbeitnehmer-Sparzulage ist vom Finanzamt an den
 Arbeitnehmer auszuzahlen
@@ -359,6 +367,7 @@ worden ist.
 
 
 ## § 8 Anzeigepflichten des Kreditinstituts, des Unternehmens oder des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE000905360)
 
 (1) Der Zentralstelle für Arbeitnehmer-Sparzulage und
 Wohnungsbauprämie ist anzuzeigen,
@@ -469,6 +478,7 @@ eine Arbeitnehmer-Sparzulage für den Arbeitnehmer festgesetzt hat.
 
 
 ## § 9 Rückforderung der Arbeitnehmer-Sparzulage durch das Finanzamt
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE001001308)
 
 Das für die Besteuerung des Arbeitnehmers nach dem Einkommen
 zuständige Finanzamt (§ 19 der Abgabenordnung) hat eine zu Unrecht
@@ -478,6 +488,7 @@ nicht übersteigt.
 
 
 ## § 10 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE001101360)
 
 (1) Diese Verordnung in der am 20. Juli 2017 geltenden Fassung ist,
 soweit in Absatz 2 nichts anderes bestimmt ist, erstmals ab dem 1.
@@ -488,9 +499,11 @@ Fassung ist anzuwenden bei Anzeigen nach dem 19. Juli 2017.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE001205360)
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vermbdv_1994/BJNR390400994.html#BJNR390400994BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/clnig/BJNR164320998.html#BJNR164320998BJNE000100311)
 
 (1) Dem in Straßburg am 4. November 1988 von der Bundesrepublik
 Deutschland unterzeichneten Straßburger Übereinkommen über die
@@ -34,6 +35,7 @@ unmittelbar anzuwenden sind.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/clnig/BJNR164320998.html#BJNR164320998BJNE000201377)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung die nach Maßgabe des Artikels 20
@@ -42,6 +44,7 @@ und der Rechnungseinheit in Kraft zu setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/clnig/BJNR164320998.html#BJNR164320998BJNE000300311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

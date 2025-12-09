@@ -24,6 +24,7 @@ Handelsregelungen, insbesondere der EWGV 2220/85 und EWGV 3002/92
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000100326)
 
 Auf Grund des § 13 Abs. 1 Satz 1 und 2 und des § 21 Satz 1 Nr. 2 und
 Satz 2, jeweils in Verbindung mit § 6 Abs. 4 Satz 1, des Gesetzes zur
@@ -34,6 +35,7 @@ verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000202119)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft und der Europäischen Union,
@@ -44,6 +46,7 @@ worden sind.
 
 
 ## § 2 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000304119)
 
 (1) Die Sicherheit ist bei der zuständigen Stelle zu leisten.
 Zuständige Stelle ist
@@ -74,6 +77,7 @@ S. 2487) in der jeweils geltenden Fassung unberührt.
 
 
 ## § 3 Arten der Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000403119)
 
 (1) Soweit in den in § 1 genannten Rechtsakten nichts anderes
 vorgeschrieben ist, erfolgt die Sicherheitsleistung durch Hinterlegung
@@ -102,6 +106,7 @@ sind diese zu verwenden.
 
 
 ## § 4 Verzicht auf die Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000503119)
 
 Soweit in den in § 1 genannten Rechtsakten nichts anderes
 vorgeschrieben ist, verzichtet die zuständige Stelle auf die Leistung
@@ -118,6 +123,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 5 Befreiung von der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000601377)
 
 (1) Öffentliche Stellen, die in Ausübung hoheitlicher Gewalt tätig
 werden, sind von der Leistung einer Sicherheit befreit.
@@ -129,6 +135,7 @@ Stelle (§ 2) gehört, über die Befreiung von der Sicherheitsleistung.
 
 
 ## § 6 Verfall von Sicherheiten; Zinshöhe
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000705119)
 
 (1) Die Sicherheiten verfallen zugunsten der Bundesrepublik
 Deutschland, soweit in den in § 1 genannten Rechtsakten nicht etwas
@@ -141,6 +148,7 @@ jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs.
 
 
 ## § 7 Zu Unrecht freigegebene Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE000801377)
 
 (1) Vorbehaltlich einer anderen Regelung in den in § 1 genannten
 Rechtsakten ist eine zu Unrecht freigegebene Sicherheit erneut zu
@@ -151,11 +159,13 @@ durch Bescheid an.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE001101308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ewgsichv/BJNR020920988.html#BJNR020920988BJNE001200326)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

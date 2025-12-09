@@ -25,6 +25,7 @@ Stand: Ersetzt V 7823-7-8 v. 20.7.2015 BAnz AT 20.07.2015 V1, BAnz AT 23.07.2015
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000100000)
 
 Auf Grund des § 19 Absatz 2 und des § 32 Absatz 4 Nummer 1 des
 Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S. 148, 1281), von
@@ -36,6 +37,7 @@ und Landwirtschaft:
 
 
 ## § 1 Verbot der Einfuhr und des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000200000)
 
 (1) Saatgut für Wintergetreide, das mit einem Pflanzenschutzmittel,
 das den Wirkstoff Clothianidin, Imidacloprid oder Thiamethoxam
@@ -50,6 +52,7 @@ ordnungsgemäßen Entsorgung abgegeben werden.
 
 
 ## § 2 Verbot der Aussaat
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000300000)
 
 Saatgut für Wintergetreide, das mit einem Pflanzenschutzmittel im
 Sinne des § 1 behandelt worden ist oder dem ein solches
@@ -57,6 +60,7 @@ Pflanzenschutzmittel anhaftet, darf nicht ausgesät werden.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000400000)
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann
 auf Antrag Ausnahmen von dem Verbot des § 1 oder des § 2 zu
@@ -68,6 +72,7 @@ Pflanzenschutzmittels, zu verhindern.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000500000)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -75,6 +80,7 @@ entgegen § 1 Absatz 1 Saatgut einführt oder in den Verkehr bringt.
 
 
 ## § 5 Aufheben von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000600000)
 
 Die Verordnung über das Inverkehrbringen und die Aussaat von mit
 bestimmten Pflanzenschutzmitteln behandeltem Saatgut für
@@ -83,11 +89,13 @@ Wintergetreide vom 20. Juli 2015 (BAnz AT 20.07.2015 V1, BAnz AT
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pflschsaatganwendv/BJNR178200016.html#BJNR178200016BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

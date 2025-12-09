@@ -26,6 +26,7 @@ Tankstellen (ABl. L 285 vom 31.10.2009, S. 36).
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000202116)
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
 Betrieb von Tankstellen, soweit Kraftstoffbehälter von Kraftfahrzeugen
@@ -35,6 +36,7 @@ Immissionsschutzgesetzes nicht bedürfen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000306116)
 
 In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -183,6 +185,7 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ## § 3 Errichtung und Betrieb von Tankstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000405116)
 
 (1) Tankstellen sind so zu errichten und zu betreiben, dass die beim
 Betanken von Fahrzeugen mit Ottokraftstoff oder einem
@@ -320,6 +323,7 @@ nach Absatz 1 ist zulässig.
 
 
 ## § 4 Messöffnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000503116)
 
 Der Betreiber einer Tankstelle hat zur Kontrolle der Anforderungen
 nach § 3 Absatz 3 Nummer 2 oder 3 und Absatz 4 Nummer 1 vor der
@@ -328,6 +332,7 @@ einzurichten.
 
 
 ## § 5 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000607116)
 
 (1) Der Betreiber hat die Tankstelle vor der Inbetriebnahme der
 zuständigen Behörde anzuzeigen.
@@ -447,6 +452,7 @@ sind.
 
 
 ## § 6 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000703116)
 
 (1) Der Betreiber hat im Bereich der Zapfsäulen ein Schild, einen
 Aufkleber oder eine andere Mitteilung spätestens am 1. Juli 2012 gut
@@ -458,6 +464,7 @@ Vorhandensein des Gasrückführungssystems und der automatischen
 
 
 ## § 7 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000801116)
 
 Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von
 den Anforderungen der §§ 3 bis 6 zulassen, soweit unter
@@ -468,6 +475,7 @@ Dritte sowie schädliche Umwelteinwirkungen nicht zu erwarten sind.
 
 
 ## § 8 Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE000903116)
 
 VDI-Richtlinien, auf die in dieser Verordnung verwiesen wird, sind bei
 der Beuth Verlag GmbH, Berlin, zu beziehen und bei der Deutschen
@@ -475,6 +483,7 @@ Nationalbibliothek archivmäßig gesichert niedergelegt.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE001003116)
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -541,6 +550,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE001105116)
 
 (1) Bestehende Tankstellen haben die Anforderungen des § 3 Absatz 1
 spätestens ab dem 1. Januar 2019 zu erfüllen, wenn sie
@@ -578,6 +588,7 @@ Richtlinie: VDI 4205 Blatt 3, Ausgabe November 2003, erfolgen.
 (zu den §§ 3 und 5)
 
 ## Anlage 1 Bestimmung der Dichtheit von Gasrückführungssystemen und Einstellung des Korrekturfaktors bei Kraftstoffgemischen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_21/BJNR017300992.html#BJNR017300992BJNE001303116)
 
 (Fundstelle: BGBl. I 2014, 1458)
 

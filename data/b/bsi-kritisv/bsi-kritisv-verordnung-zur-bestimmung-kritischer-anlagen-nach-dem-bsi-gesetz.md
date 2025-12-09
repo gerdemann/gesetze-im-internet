@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000100000)
 
 Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009
 (BGBl. I S. 2821), der zuletzt durch die Artikel 1 Nummer 8 des
@@ -39,6 +40,7 @@ Reaktorsicherheit nach Anhörung der beteiligten Kreise:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000203129)
 
 (1) Im Sinne dieser Verordnung ist oder sind
 
@@ -86,6 +88,7 @@ jeder für die Erfüllung der Pflichten als Betreiber verantwortlich.
 
 
 ## § 2 Sektor Energie
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000302129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Energie kritische Dienstleistungen im
@@ -136,6 +139,7 @@ davon, die
 
 
 ## § 3 Sektor Wasser
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000403129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Wasser kritische Dienstleistungen im Sinne
@@ -174,6 +178,7 @@ davon, die
 
 
 ## § 4 Sektor Ernährung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000502129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens ist im Sektor Ernährung die Versorgung der Allgemeinheit
@@ -200,6 +205,7 @@ Teile davon, die
 
 
 ## § 5 Sektor Informationstechnik und Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000602129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Informationstechnik und Telekommunikation
@@ -235,6 +241,7 @@ Anlagen solche Anlagen oder Teile davon, die
 
 
 ## § 6 Sektor Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001302129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Gesundheit kritische Dienstleistungen im
@@ -281,6 +288,7 @@ Teile davon, die
 
 
 ## § 7 Sektor Finanzwesen
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001402129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens sind im Sektor Finanzwesen kritische Dienstleistungen im
@@ -345,6 +353,7 @@ Teile davon, die
 
 
 ## § 8 Sektor Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitssuchende
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE002100115)
 
 (1) Leistungen der Sozialversicherung werden im Bereich
 Inanspruchnahme von Sozialversicherungsleistungen erbracht. Leistungen
@@ -369,6 +378,7 @@ davon, die
 
 
 ## § 9 Sektor Transport und Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001502129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens ist im Sektor Transport und Verkehr die Versorgung der
@@ -396,6 +406,7 @@ Anlagen oder Teile davon, die
 
 
 ## § 10 Sektor Siedlungsabfallentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001901129)
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des
 Gemeinwesens ist im Sektor Siedlungsabfallentsorgung die Entsorgung
@@ -421,6 +432,7 @@ Anlagen oder Teile davon, die
 
 
 ## § 11 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000704129)
 
 Zwei Jahre nach Inkrafttreten dieser Rechtsverordnung und danach alle
 zwei Jahre sind unter Beteiligung der in § 56 Absatz 4 Satz 1 in
@@ -444,6 +456,7 @@ evaluieren
 (zu § 1 Absatz 1 Nummer 2 und 3, § 2 Absatz 5 Nummer 1 und 2)
 
 ## Anhang 1 Anlagenkategorien und Schwellenwerte im Sektor Energie
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE000905129)
 
 (Fundstelle: BGBl. I 2016, 960 - 962
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1347,6 +1360,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 3 Absatz 4 Nummer 1 und 2)
 
 ## Anhang 2 Anlagenkategorien und Schwellenwerte im Sektor Wasser
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001003129)
 
 (Fundstelle: BGBl. I 2016,963 - 964)
 
@@ -1621,6 +1635,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 4 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 3 Anlagenkategorien und Schwellenwerte im Sektor Ernährung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001103129)
 
 (Fundstelle: BGBl. I 2016,965 - 966)
 
@@ -1962,6 +1977,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 5 Absatz 4 Nummer 1 und 2)
 
 ## Anhang 4 Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001205129)
 
 (Fundstelle: BGBl. I 2016, 967 - 969)
 
@@ -2359,6 +2375,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 6 Absatz 6 Nummer 1 und 2)
 
 ## Anhang 5 Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001602129)
 
 (Fundstelle: BGBl. I 2017, 1910 — 1912)
 
@@ -2704,6 +2721,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 7 Absatz 7 Nummer 1 und 2)
 
 ## Anhang 6 Anlagenkategorien und Schwellenwerte im Sektor Finanzwesen
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001703129)
 
 (Fundstelle: BGBl. I 2017, 1913 — 1918
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3454,6 +3472,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 7 Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE001803129)
 
 (Fundstelle: BGBl. I 2017, 1918 - 1922)
 
@@ -4214,6 +4233,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 9 Absatz 3 Nummer 1 und 2)
 
 ## Anhang 8 Anlagenkategorien und Schwellenwerte im Sektor Siedlungsabfallentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE002001129)
 
 (Fundstelle: BGBl. 2023 I Nr. 339, S. 2 – 4)
 
@@ -4541,6 +4561,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Absatz 1 Nummer 2 und 3, § 8 Absatz 2 Nummer 1 und 2)
 
 ## Anhang 9 Anlagenkategorien und Schwellenwerte im Sektor Leistungen der Sozialversicherung sowie Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/bsi-kritisv/BJNR095800016.html#BJNR095800016BJNE002200115)
 
 (Fundstelle: BGBl. 2025 I Nr. 301, S. 52 – 53)
 

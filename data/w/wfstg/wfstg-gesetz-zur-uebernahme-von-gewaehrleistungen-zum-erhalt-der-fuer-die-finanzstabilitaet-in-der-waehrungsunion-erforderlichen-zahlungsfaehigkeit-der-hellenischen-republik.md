@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Gewährleistungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wfstg/BJNR053700010.html#BJNR053700010BJNE000100000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt,
 Gewährleistungen bis zur Höhe von insgesamt 22,4 Milliarden Euro für
@@ -50,6 +51,7 @@ ordnungsgemäße Verwendung zu unterrichten.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wfstg/BJNR053700010.html#BJNR053700010BJNE000200000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

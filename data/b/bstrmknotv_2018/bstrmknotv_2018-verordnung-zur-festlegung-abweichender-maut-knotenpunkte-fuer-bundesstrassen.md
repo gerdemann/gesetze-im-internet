@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bstrmknotv_2018/BJNR622900018.html#BJNR622900018BJNE000100000)
 
 Auf Grund des § 3a Absatz 2 Satz 1 in Verbindung mit Satz 2 des
 Bundesfernstraßenmautgesetzes vom 12. Juli 2011 (BGBl. I S. 1378), der
@@ -32,6 +33,7 @@ Güterverkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bstrmknotv_2018/BJNR622900018.html#BJNR622900018BJNE000200000)
 
 Die Knotenpunkte für Bundesstraßen werden abweichend von § 3a Absatz 1
 Satz 1 Nummer 2 und Satz 2 bis 4 des Bundesfernstraßenmautgesetzes wie
@@ -39,11 +41,13 @@ aus der Anlage ersichtlich festgelegt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bstrmknotv_2018/BJNR622900018.html#BJNR622900018BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1) Festlegung der von § 3a Absatz 1 Satz 1 Nummer 2 und Satz 2 bis 4 BFStrMG abweichenden Knotenpunkte
+[Direktlink](https://www.gesetze-im-internet.de/bstrmknotv_2018/BJNR622900018.html#BJNR622900018BJNE000406123)
 
 (Fundstelle:BGBl. 2025 I Nr. 298, S. 1 – 70)
 

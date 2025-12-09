@@ -20,423 +20,526 @@ Zuletzt geändert durch
 
 
 ## Erstes Buch - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010300314)
 
 
 
 ### Erster Abschnitt - Umfang der Reichsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010400314)
 
 
 
 #### (XXXX) §§ 1 u. 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000200309)
 
 
 
 ### Zweiter Abschnitt - Träger der Reichsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010500314)
 
 
 
 #### I. - Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010600314)
 
 
 
 ##### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000300309)
 
 -
 
 
 #### II. - Rechtsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010700314)
 
 
 
 ##### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000400309)
 
 -
 
 
 #### III. - Organe
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010800314)
 
 
 
 ##### (XXXX) §§ 5 bis 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000500309)
 
 
 
 #### IV. - Ehrenämter
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG010900314)
 
 
 
 ##### (XXXX) §§ 12 bis 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000600309)
 
 
 
 #### V. - Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011000314)
 
 
 
 ##### (XXXX) §§ 25 bis 27f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000700309)
 
 
 ##### § 27g
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000800309)
 
 -
 
 
 ##### § 28
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE000900309)
 
 -
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001000309)
 
 -
 
 
 #### VI. - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011100314)
 
 
 
 ##### (XXXX) §§ 30 bis 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001100309)
 
 
 
 ### Dritter Abschnitt - Versicherungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011200314)
 
 
 
 #### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011300314)
 
 
 
 ##### § 35
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001200309)
 
 -
 
 
 #### II. - Versicherungsämter
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011400314)
 
 
 
 ##### 1. - Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011500314)
 
 
 
 ###### (XXXX) §§ 36 bis 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001300309)
 
 
 
 ##### 2. - Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011600314)
 
 
 
 ###### § 39
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001400309)
 
 -
 
 
 ###### (XXXX) §§ 40 bis 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001500309)
 
 
 
 ##### 3.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011700314)
 
 
 
 ###### (XXXX) §§ 56 bis 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001600309)
 
 
 
 ##### 4. - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011800314)
 
 
 
 ###### (XXXX) §§ 59 u. 60 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001700309)
 
 
 
 #### III.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG011900314)
 
 
 
 ##### (XXXX) §§ 61 bis 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001800309)
 
 
 
 #### IV.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012000314)
 
 
 
 ##### (XXXX) §§ 83 bis 109 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE001900309)
 
 
 
 ### Vierter Abschnitt - Sonstige gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012100314)
 
 
 
 #### I. - Behörden
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012200314)
 
 
 
 ##### (XXXX) §§ 110 bis 114 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002000309)
 
 
 
 #### II. - Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012300314)
 
 
 
 ##### (XXXX) §§ 115 bis 117 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002100309)
 
 
 
 #### III. - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012400314)
 
 
 
 ##### (XXXX) §§ 118 bis 121 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002200309)
 
 
 
 #### IV.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012501308)
 
 
 
 ##### (XXXX) §§ 122 und 123 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002301308)
 
 
 
 #### V. - Fristen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012600314)
 
 
 
 ##### (XXXX) §§ 124 bis 134 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002501308)
 
 
 
 #### VI. - Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012700314)
 
 
 
 ##### (XXXX) §§ 135 u. 136 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002800309)
 
 
 
 #### VII. - Gebühren und Stempel
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012800314)
 
 
 
 ##### (XXXX) §§ 137 u. 138 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE002900309)
 
 
 
 #### VIII. - Verbots- und Bußgeldvorschriften, Zwangs- und Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG012900314)
 
 
 
 ##### (XXXX) §§ 139 bis 148 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003000309)
 
 
 
 #### IX. - Ortslohn
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013100314)
 
 
 
 ##### (XXXX) §§ 149 bis 152 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003100309)
 
 
 
 #### X. - Beschäftigungsort
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013200314)
 
 
 
 ##### (XXXX) §§ 153 bis 156 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003200309)
 
 
 
 #### XI. - Ausländische Gesetzgebung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013300314)
 
 
 
 ##### (XXXX) §§ 157 u. 158 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003300309)
 
 
 
 #### XII. - Gemeinsame Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013400314)
 
 
 
 ##### 1.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013500314)
 
 
 
 ###### § 159
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003400309)
 
 -
 
 
 ##### 2. - Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013600314)
 
 
 
 ###### § 160
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003500309)
 
 -
 
 
 ##### 3. - Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013700314)
 
 
 
 ###### § 161
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003600309)
 
 -
 
 
 ##### 4. - Hausgewerbetreibende
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013800314)
 
 
 
 ###### § 162
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003700309)
 
 -
 
 
 ##### 5. - Deutsche Seeschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG013900314)
 
 
 
 ###### § 163
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003800309)
 
 -
 
 
 ##### 6. - Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014000314)
 
 
 
 ###### § 164
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE003900309)
 
 -
 
 
 ## Zweites Buch - Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014100314)
 
 
 
 ### Erster Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014201308)
 
 
 
 #### (XXXX) §§ 165 bis 178 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE004002308)
 
 
 
 ### Zweiter Abschnitt - Gegenstand der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014501308)
 
 (weggefallen)
 
 
 #### I. - Leistungen im allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014600314)
 
 
 
 ##### § 179 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE006503308)
 
 
 
 ##### (XXXX) §§ 180 und 180a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE006602308)
 
 
 #### I a.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014701308)
 
 
 
 ##### (XXXX) §§ 181 bis 181b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE006801308)
 
 
 #### II.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014801308)
 
 
 
 ##### (XXXX) §§ 182 bis 194 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE007101308)
 
 
 
 #### III. - Leistungen bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG014901308)
 
 
 
 ##### (XXXX) §§ 195 bis 200b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE009603308)
 
 
 
 #### IIIa. - Sonstige Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG015001308)
 
 
 
 #### IV.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG015101308)
 
 
 
 ##### (XXXX) §§ 201 bis 204 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE021201308)
 
 
 
 #### V.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG015201308)
 
 
 
 ##### (XXXX) §§ 205 bis 205d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE021602308)
 
 
 #### VI.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG015301308)
 
 
 
 ##### (XXXX) §§ 206 bis 224 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE022001308)
 
 
 
 ### Dritter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG015401308)
 
 
 
 #### (XXXX) §§ 225 bis 305 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE024101308)
 
 
 
 ### Vierter Abschnitt - Verfassung
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG016600314)
 
 
 
 #### I.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG016701308)
 
 
 
 ##### (XXXX) §§ 306 bis 319a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE032402308)
 
 
 #### II.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG017101308)
 
 
 
 ##### (XXXX) §§ 320 bis 326 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE034801308)
 
 
 
 #### III.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG017201308)
 
 
 
 ##### (XXXX) §§ 327 bis 348 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE035701308)
 
 
 
 #### IV. - Angestellte und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG017600314)
 
 
 
 ##### § 349
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE036400314)
 
 Bei den Krankenkassen werden die aus Mitteln der Kassen bezahlten
 Stellen der Beamten und derjenigen Angestellten, für welche die
@@ -445,6 +548,7 @@ Vorstand besetzt.
 
 
 ##### § 350
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE036501308)
 
 Kommt kein Anstellungsbeschluß zustande, so bestellt die
 Aufsichtsbehörde auf Kosten der Kasse widerruflich die für die
@@ -452,6 +556,7 @@ Geschäfte der Stelle erforderlichen Personen.
 
 
 ##### § 351
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE036600314)
 
 (1) Für die von den Krankenkassen besoldeten Angestellten, die nicht
 nach Landesrecht staatliche oder gemeindliche Beamte sind, wird eine
@@ -464,6 +569,7 @@ sie es ausdrücklich vorsieht.
 
 
 ##### § 352
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE036700314)
 
 Die Dienstordnung regelt die Rechts- und die allgemeinen
 Dienstverhältnisse der Angestellten, insbesondere den Nachweis ihrer
@@ -474,6 +580,7 @@ vorgesehen werden, als sie das Disziplinarrecht für Beamte zuläßt.
 
 
 ##### § 353
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE036800314)
 
 (1) Die Dienstordnung enthält einen Besoldungsplan. Dabei regelt sie:
 
@@ -496,6 +603,7 @@ stattfindet.
 
 
 ##### § 354
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE036901308)
 
 (1) Wer der Dienstordnung unterstehen soll, wird durch schriftlichen
 Vertrag angestellt.
@@ -523,6 +631,7 @@ Entlassung.
 
 
 ##### § 355
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037001308)
 
 (1) Vor Aufstellung der Dienstordnung hat der Vorstand die
 volljährigen Angestellten zu hören.
@@ -537,6 +646,7 @@ ihren Aufgaben steht.
 
 
 ##### § 356
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037101308)
 
 Reicht eine Kasse trotz Aufforderung in der gesetzten Frist keine
 Dienstordnung ein, so stellt die Aufsichtsbehörde die Dienstordnung
@@ -545,6 +655,7 @@ und Ergänzungen.
 
 
 ##### § 357
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037201308)
 
 (1) Beschlüsse des Vorstands oder der Vertreterversammlung, die gegen
 die Dienstordnung verstoßen, hat der Vorsitzende des Vorstands durch
@@ -561,6 +672,7 @@ zuwider, so ist sie nichtig.
 
 
 ##### § 358
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037302308)
 
 Verträge mit Angestellten, die der Dienstordnung unterstehen sollen
 (§§ 349, 354 Abs. 1), dürfen ab dem 1. Januar 1993 nicht mehr
@@ -569,11 +681,13 @@ Dezember 1992 bereits einer Dienstordnung.
 
 
 ##### § 359
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE158100308)
 
 -
 
 
 ##### § 360
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037400314)
 
 Wo nach Landesgesetz auch die nicht auf Lebenszeit oder unwiderruflich
 angestellten Beamten der Gemeinden und anderer öffentlicher
@@ -585,71 +699,88 @@ und deren Angestellte ausdehnen.
 
 
 ##### § 361
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037500314)
 
 -
 
 
 ##### § 362
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037601308)
 
 -
 
 
 #### V.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG017701308)
 
 
 
 ##### (XXXX) §§ 363 bis 367e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE037701308)
 
 
 #### VI. - Verhältnis zu Ärzten, Zahnärzten, Krankenhäusern, Apotheken, Hebammen und Einrichtungen für Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG017800314)
 
 
 
 ##### (XXXX) §§ 368 bis 376d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE038502308)
 
 
 ### Fünfter Abschnitt - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG017900314)
 
 
 
 #### (XXXX) §§ 377 bis 379 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE041800314)
 
 
 
 ### Sechster Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG018001308)
 
 
 
 #### (XXXX) §§ 380 bis 405 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE041903308)
 
 
 
 ### Abschnitt Sechs A
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG018401308)
 
 
 
 #### § 405a
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE045501308)
 
 -
 
 
 ### Siebenter Abschnitt - Kassenverbände, Sektionen
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG018500314)
 
 
 
 #### § 406
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE045601308)
 
 -
 
 
 #### (XXXX) §§ 407 bis 413 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE045702308)
 
 
 
 #### (XXXX) §§ 414 und 414a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE046501308)
 
 
 #### § 414b
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE046701308)
 
 Für die von den Verbänden besoldeten Angestellten wird nach Maßgabe
 der §§ 351 bis 357 vom Vorstand eine Dienstordnung und ein Stellenplan
@@ -659,115 +790,144 @@ Aufsichtsbehörde.
 
 
 #### (XXXX) §§ 414c bis 415c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE046801308)
 
 
 ### Achter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG018601308)
 
 
 
 #### (XXXX) §§ 416 bis 502 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE047901308)
 
 
 
 ### Neunter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG019701308)
 
 
 
 #### (XXXX) §§ 503 bis 525c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE054501308)
 
 
 ### Zehnter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG020201308)
 
 
 
 #### (XXXX) §§ 526 bis 532 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE057901308)
 
 
 
 ### Elfter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG020501308)
 
 
 
 #### (XXXX) §§ 533 bis 536a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE058601308)
 
 
 ## Drittes Buch
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG059001308)
 
 
 
 ### (XXXX) §§ 537 bis 1160 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE071901308)
 
 
 
 #### Zehnter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG071600314)
 
 
 
 ##### (XXXX) §§ 1161 bis 1225
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE106901305)
 
 
 
 ##### Anlage 1 (zu § 646 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE107002308)
 
 -
 
 
 ##### Anlage 2 (zu § 790 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE107103308)
 
 -
 
 
 ## Viertes Buch
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG107501308)
 
 
 
 ### (XXXX) §§ 1226 bis 1500 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE121102308)
 
 
 
 ## Fünftes Buch
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG116901308)
 
 
 
 ### (XXXX) §§ 1501 bis 1543e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE144201308)
 
 
 ### Fünfter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG117800314)
 
 
 
 #### (XXXX) §§ 1544 bis 1544n (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE146000314)
 
 
 ## Sechstes Buch
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG117901308)
 
 
 
 ### (XXXX) §§ 1545 bis 1773 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE146102308)
 
 
 
 ### B.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG121100314)
 
 
 
 #### (XXXX) §§ 1774 bis 1779 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE154400314)
 
 
 
 ### C.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG121200314)
 
 
 
 #### (XXXX) §§ 1780 bis 1801 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE154500314)
 
 
 
 ### D.
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNG121300314)
 
 
 
 #### (XXXX) §§ 1802 bis 1805 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE154600314)
 
 
 Auszug aus EinigVtr Anlage I Kapitel VIII
@@ -777,6 +937,7 @@ Vorschriften)
 - Sachgebiet I Abschnitt III (Maßgaben für das beigetretene Gebiet)
 
 #### Anhang EV (BGBl. II 1990, 889, 1055, 1057, 1062)
+[Direktlink](https://www.gesetze-im-internet.de/rvo/BJNR005090911.html#BJNR005090911BJNE888800301)
 
 - Sachgebiet G Abschnitt II -
 Bundesrecht wird wie folgt geändert oder ergänzt.

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/winzausbsteignv/BJNR011700001.html#BJNR011700001BJNE000100305)
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -35,6 +36,7 @@ Ständigen Ausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/winzausbsteignv/BJNR011700001.html#BJNR011700001BJNE000201360)
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 22 Abs.
 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein,
@@ -89,6 +91,7 @@ worden ist.
 
 
 ## § 2 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/winzausbsteignv/BJNR011700001.html#BJNR011700001BJNE000300305)
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
 in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden,
@@ -100,6 +103,7 @@ Ausbildung vermittelt werden können.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/winzausbsteignv/BJNR011700001.html#BJNR011700001BJNE000400305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

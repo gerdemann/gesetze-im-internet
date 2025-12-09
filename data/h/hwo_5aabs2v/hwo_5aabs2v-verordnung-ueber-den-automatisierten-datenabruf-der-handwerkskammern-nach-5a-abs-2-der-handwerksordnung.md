@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Anlass und Zweck des Abrufverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hwo_5aabs2v/BJNR131500004.html#BJNR131500004BJNE000100000)
 
 (1) Eine Handwerkskammer darf bei anderen Handwerkskammern im
 automatisierten Verfahren Daten abrufen, soweit dies erforderlich ist,
@@ -46,6 +47,7 @@ Betriebsleiters und das Datum der Übernahme der Betriebsleitung
 
 
 ## § 2 Art der zu übermittelnden Daten
+[Direktlink](https://www.gesetze-im-internet.de/hwo_5aabs2v/BJNR131500004.html#BJNR131500004BJNE000200000)
 
 Folgende personenbezogene Daten der Kammerzugehörigen dürfen durch
 Abruf im automatisierten Verfahren übermittelt werden, wenn der
@@ -80,6 +82,7 @@ eingetragen ist:
 
 
 ## § 3 Technisch-organisatorische Maßnahmen und Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/hwo_5aabs2v/BJNR131500004.html#BJNR131500004BJNE000300000)
 
 (1) Das automatisierte Abrufverfahren darf nur eingerichtet werden,
 wenn die beteiligten Stellen

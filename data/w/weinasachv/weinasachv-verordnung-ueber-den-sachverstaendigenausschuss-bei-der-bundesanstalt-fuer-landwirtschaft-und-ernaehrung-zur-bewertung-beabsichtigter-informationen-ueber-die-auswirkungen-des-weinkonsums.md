@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000100000)
 
 Auf Grund des § 3c Absatz 2 Satz 1 des Weingesetzes in der Fassung der
 Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66), der durch Artikel
@@ -29,6 +30,7 @@ Gesundheit:
 
 
 ## § 1 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000200000)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 beruft die Mitglieder des Sachverständigenausschusses auf gemeinsamen
@@ -49,6 +51,7 @@ Bundesanstalt vor der Sitzung bekannt zu geben.
 
 
 ## § 2 Sitzungen des Sachverständigenausschusses
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000300000)
 
 (1) Der oder die nach § 3c Absatz 3 des Weingesetzes den Vorsitz
 führende Vertreter oder Vertreterin der Bundesanstalt lädt bei Bedarf
@@ -83,6 +86,7 @@ Sachverständigenausschusses befunden.
 
 
 ## § 3 Weitere Teilnahme an den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000400000)
 
 (1) Vertreter des Bundesministeriums für Ernährung und Landwirtschaft
 und des Bundesministeriums für Gesundheit können jederzeit an den
@@ -93,6 +97,7 @@ Vertreterinnen der Bundesanstalt teilnehmen.
 
 
 ## § 4 Besondere Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000500000)
 
 Der Sachverständigenausschuss kann zu einzelnen Fragestellungen
 bezüglich der Bewertung von Informationen weitere Sachverständige
@@ -101,6 +106,7 @@ unterbreiten.
 
 
 ## § 5 Ehrenamtliche Tätigkeit, Verfahrensbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000600000)
 
 (1) Die Mitglieder und Ersatzmitglieder üben ihre Tätigkeit
 ehrenamtlich aus.
@@ -110,6 +116,7 @@ Verwaltungsverfahrensgesetzes gelten entsprechend.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/weinasachv/BJNR162800014.html#BJNR162800014BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

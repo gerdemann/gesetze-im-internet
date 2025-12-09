@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglanglfaktorbek_2009/BJNR134100009.html#BJNR134100009BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 Nummer 1 Buchstabe a Satz 4 des
 Versorgungsausgleichs-Überleitungsgesetzes vom 25. Juli 1991 (BGBl. I
@@ -149,6 +150,7 @@ Entscheidungen über den Versorgungsausgleich, die nach dem 30. Juni
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglanglfaktorbek_2009/BJNR134100009.html#BJNR134100009BJNE000300000)
 
 Bundesministerium für Arbeit und Soziales
 

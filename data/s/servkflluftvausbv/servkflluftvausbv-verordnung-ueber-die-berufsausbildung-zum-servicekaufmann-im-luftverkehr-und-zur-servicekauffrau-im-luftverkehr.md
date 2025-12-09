@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-256 v. 23.3.1998 I 611 (LuftServKfAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -35,9 +36,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000300000)
 
 Der Ausbildungsberuf des Servicekaufmanns im Luftverkehr und der
 Servicekauffrau im Luftverkehr wird nach § 4 Absatz 1 des
@@ -45,11 +48,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -67,6 +72,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -128,6 +134,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -135,6 +142,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -145,9 +153,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -157,6 +167,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -173,6 +184,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001100000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -186,6 +198,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich Passagierprozesse
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001200000)
 
 (1) Im Prüfungsbereich Passagierprozesse soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -215,6 +228,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 11 Prüfungsbereich Personalwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001300000)
 
 (1) Im Prüfungsbereich Personalwirtschaft soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -235,9 +249,11 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNG000300000)
 
 
 ### § 12 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001400000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -247,6 +263,7 @@ durchgeführt werden.
 
 
 ### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001500000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -263,6 +280,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001600000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -282,6 +300,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 15 Prüfungsbereich Abfertigungsprozesse
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001700000)
 
 (1) Im Prüfungsbereich Abfertigungsprozesse soll der Prüfling
 nachweisen, dass er in der Lage ist, komplexe Arbeitsaufträge unter
@@ -319,6 +338,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Prüfungsbereich Luftverkehrswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001800000)
 
 (1) Im Prüfungsbereich Luftverkehrswirtschaft soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -347,6 +367,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 17 Prüfungsbereich Serviceleistungen
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE001900000)
 
 (1) Im Prüfungsbereich Serviceleistungen soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -393,6 +414,7 @@ Vorbereitungszeit von 15 Minuten einzuräumen.
 
 
 ### § 18 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE002000000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -406,6 +428,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE002100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -482,9 +505,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNG000400000)
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Servicekaufmann im
@@ -494,6 +519,7 @@ Luftverkehr/zur Servicekauffrau im Luftverkehr vom 23. März 1998
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/servkflluftvausbv/BJNR066000017.html#BJNR066000017BJNE002300000)
 
 (Fundstelle: BGBl. I 2017, 664 - 667)
 

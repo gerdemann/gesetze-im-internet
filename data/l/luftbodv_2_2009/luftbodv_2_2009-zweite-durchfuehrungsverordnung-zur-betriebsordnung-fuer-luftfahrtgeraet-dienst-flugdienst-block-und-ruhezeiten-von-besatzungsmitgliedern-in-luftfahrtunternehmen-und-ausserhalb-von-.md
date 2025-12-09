@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000100000)
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3
 sowie Absatz 4 Nummer 1 des Luftverkehrsgesetzes in der Fassung der
@@ -33,9 +34,11 @@ Luftfahrt-Bundesamt:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000300000)
 
 (1) Diese Verordnung gilt für Mitglieder der Besatzung an Bord eines
 Zivilluftfahrzeugs (Besatzungsmitglieder), die von einem Unternehmen
@@ -64,6 +67,7 @@ anzurechnen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000400000)
 
 (1) Dienstzeit ist jede Zeitspanne, während der ein Besatzungsmitglied
 auf der Grundlage von Rechtsvorschriften, tariflichen und
@@ -126,9 +130,11 @@ verbringen können.
 
 
 ## Abschnitt 2 - Pflichten des Luftfahrtunternehmers
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000200000)
 
 
 ### § 3 Festlegung von höchstzulässigen Dienstzeiten, Flugdienstzeiten, Blockzeiten und Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000500000)
 
 (1) Der Luftfahrtunternehmer hat für alle Besatzungsmitglieder
 höchstzulässige Dienstzeiten, Flugdienstzeiten und Blockzeiten sowie
@@ -160,6 +166,7 @@ Umständen mit befriedigendem Sicherheitsniveau ausüben zu können.
 
 
 ### § 4 Führung von Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000600000)
 
 (1) Der Unternehmer hat fortlaufende Aufzeichnungen über die
 Dienstzeiten, Flugdienstzeiten, einschließlich der Blockzeiten, und
@@ -186,9 +193,11 @@ bestimmen.
 
 
 ## Abschnitt 3 - Dienstzeiten und Ortstage
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000300000)
 
 
 ### § 5 Dienstzeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000700000)
 
 (1) Der Luftfahrtunternehmer benennt gegenüber dem Besatzungsmitglied
 einen Ort als Heimatbasis, an dem das Besatzungsmitglied regelmäßig
@@ -205,6 +214,7 @@ gleichmäßig über das Jahr verteilt werden.
 
 
 ### § 6 Ortstage
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000800000)
 
 (1) Unbeschadet des gesetzlichen Jahresurlaubs erhalten die
 Besatzungsmitglieder Ortstage, die im Voraus bekanntzugeben sind. Die
@@ -221,9 +231,11 @@ Anzahl der Ortstage anteilig gekürzt werden.
 
 
 ## Abschnitt 4 - Flugdienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000400000)
 
 
 ### § 7 Zusammensetzung der Flugdienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE000900000)
 
 (1) Die Flugdienstzeit umfasst
 
@@ -259,6 +271,7 @@ gesetzt wurde.
 
 
 ### § 8 Zulässige Flugdienstzeiten der Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001000000)
 
 (1) Die uneingeschränkte Flugdienstzeit jedes Besatzungsmitgliedes
 zwischen zwei Ruhezeiten beträgt zehn Stunden.
@@ -305,6 +318,7 @@ Flugdienstzeit auf elf Stunden und 45 Minuten zu begrenzen.
 
 
 ### § 9 Verlängerung der Flugdienstzeit bei verstärkter Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001100000)
 
 Die Aufsichtsbehörde kann auf schriftlichen Antrag eine zweimalige
 Verlängerung der Flugdienstzeit nach § 8 Absatz 1 bis zu einer
@@ -321,6 +335,7 @@ entsprechend.
 
 
 ### § 10 Unterbrochene Flugdienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001200000)
 
 (1) Wird die Flugdienstzeit nach § 8 Absatz 1 bis 7 planmäßig durch
 eine Pause am Boden von mindestens drei Stunden unterbrochen und steht
@@ -358,6 +373,7 @@ zu gewähren.
 
 
 ### § 11 Vorzeitige Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001300000)
 
 Ist aufgrund besonderer Umstände bei den Besatzungsmitgliedern eine
 vorzeitige Ermüdung in einem Maße eingetreten, die nach Anhörung der
@@ -368,15 +384,18 @@ sorgen.
 
 
 ## Abschnitt 5 - Blockzeit, Positionierung, Bereitschaftszeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000500000)
 
 
 ### § 12 Blockzeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001400000)
 
 Die Blockzeiten jedes Besatzungsmitgliedes dürfen 900 Stunden während
 eines Kalenderjahres nicht überschreiten.
 
 
 ### § 13 Positionierung
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001500000)
 
 Die für die Positionierung aufgewendete Zeit gilt als Dienstzeit. Die
 Positionierung nach dem Ende der Ruhezeit, aber vor dem Dienst an Bord
@@ -385,6 +404,7 @@ gezählt.
 
 
 ### § 14 Bereitschaftszeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001600000)
 
 (1) Bereitschaftszeit ist als Flugdienstzeit anzurechnen, wenn
 Bereitschaftszeit und Flugdienstzeit nicht durch eine Ruhezeit nach §
@@ -416,9 +436,11 @@ Bereitschaftszeit vor einer Ruhezeit.
 
 
 ## Abschnitt 6 - Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000600000)
 
 
 ### § 15 Ruhezeiten der Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001701305)
 
 (1) Innerhalb einer 24-Stunden-Periode ist jedem Besatzungsmitglied
 eine Ruhezeit von mindestens zehn Stunden zu gewähren. Eine
@@ -460,6 +482,7 @@ unterlassen, die dem Zweck der Ruhezeit entgegenstehen.
 
 
 ### § 16 Ruhezeit – Berücksichtigung von Zeitzonenunterschieden
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001800000)
 
 Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der
 Beendigung des Flugdienstes (Einsatzort) ein Zeitzonenunterschied von
@@ -482,6 +505,7 @@ entsprechend.
 
 
 ### § 17 Zeitüberschreitungen, Verkürzung von Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE001900000)
 
 (1) Können aus unvorhersehbaren Gründen die Zeiten nach den §§ 8, 9,
 10, 15 und 16 nicht eingehalten werden, entscheidet der
@@ -516,9 +540,11 @@ mindestens drei Monate lang aufzubewahren.
 
 
 ## Abschnitt 7 - Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000700000)
 
 
 ### § 18 Verlängerung der Flugdienstzeit und Verkürzung der Ruhezeit in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002000000)
 
 (1) Die Aufsichtsbehörde kann auf schriftlichen Antrag Abweichungen
 von den Vorschriften der §§ 8, 9, 10, 15 und 16 zulassen, wenn
@@ -575,6 +601,7 @@ mit Auflagen verbunden und befristet werden.
 
 
 ### § 19 Ausnahmen für besondere Flüge
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002100000)
 
 (1) Die Aufsichtsbehörde kann für Flüge zum Zwecke der Forschung, für
 Arbeits- und Wettbewerbsflüge Ausnahmen von den Vorschriften dieser
@@ -600,6 +627,7 @@ Auflagen verbunden und befristet werden.
 
 
 ### § 20 Abweichungen bei besonderen Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002200000)
 
 Treten besondere Belastungen auf, insbesondere wegen
 
@@ -631,9 +659,11 @@ Gründen der Sicherheit des Luftverkehrs erforderlich ist.
 
 
 ## Abschnitt 8 - Abweichende Regelungen für Besatzungsmitglieder, die in Hubschraubern des Rettungsdienstes eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000800000)
 
 
 ### § 21 Begrenzung der Flugdienstzeiten im Hubschrauberrettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002300000)
 
 (1) Auf Antrag kann die Aufsichtsbehörde für Besatzungsmitglieder, die
 in Hubschraubern des Rettungsdienstes eingesetzt werden, nach Maßgabe
@@ -683,6 +713,7 @@ gewähren.
 
 
 ### § 22 Dienstperioden und Ruhezeiten im Hubschrauberrettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002400000)
 
 (1) Sofern die Aufsichtsbehörde abweichende Flugdienstzeiten nach § 21
 genehmigt hat, kann sie für diese Besatzungsmitglieder nach Maßgabe
@@ -723,9 +754,11 @@ nach der Dienstperiode auf 24 Stunden.
 
 
 ## Abschnitt 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNG000900000)
 
 
 ### § 23 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002500000)
 
 Für einen Zeitraum von sechs Monaten nach Inkrafttreten der Verordnung
 kann die Aufsichtsbehörde einem Unternehmer auf Antrag Ausnahmen von §
@@ -739,6 +772,7 @@ ausgeschlossen ist. Bei der Prüfung des Antrags sind die Maßgaben von
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_2_2009/BJNR505620009.html#BJNR505620009BJNE002600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/entgbv/BJNR271200012.html#BJNR271200012BJNE000100000)
 
 Auf Grund des § 108 Absatz 3 Satz 1 der Gewerbeordnung, der durch
 Artikel 8 des Gesetzes vom 23. November 2011 (BGBl. I S. 2298) neu
@@ -29,6 +30,7 @@ Soziales:
 
 
 ## § 1 Inhalt der Entgeltbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/entgbv/BJNR271200012.html#BJNR271200012BJNE000204128)
 
 (1) Eine Entgeltbescheinigung nach § 108 Absatz 3 Satz 1 der
 Gewerbeordnung hat folgende Angaben zum Arbeitgeber und zur
@@ -225,6 +227,7 @@ Satz 1 der Gewerbeordnung zu kennzeichnen.
 
 
 ## § 2 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/entgbv/BJNR271200012.html#BJNR271200012BJNE000301119)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer erhalten eine
 Entgeltbescheinigung nach § 1 in Textform für jeden
@@ -247,11 +250,13 @@ Kirchensteuermerkmal in der Entgeltbescheinigung schwärzen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/entgbv/BJNR271200012.html#BJNR271200012BJNE000400000)
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/entgbv/BJNR271200012.html#BJNR271200012BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

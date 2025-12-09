@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bdgrvbundano/BJNR1340A0024.html#BJNR1340A0024BJNE000100000)
 
 Der Vorstand der Deutschen Rentenversicherung Bund erlässt auf der
 Grundlage der Verordnung zur Durchführung des

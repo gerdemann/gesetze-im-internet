@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Sicherung der Qualität der Gewinnung von Pflegekräften aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/auslpflkrgewqsg/BJNR280100021.html#BJNR280100021BJNE000100000)
 
 Die hohen ethischen Standards gerecht werdende Anwerbung von
 Pflegekräften aus Staaten, die nicht Mitgliedstaaten der Europäischen
@@ -41,6 +42,7 @@ die Einhaltung von Anforderungen an
 
 
 ## § 2 Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/auslpflkrgewqsg/BJNR280100021.html#BJNR280100021BJNE000200000)
 
 (1) Im Auftrag des Bundesministeriums für Gesundheit gibt das
 Kuratorium Deutsche Altershilfe Wilhelmine-Lübke-Stiftung e. V.,
@@ -110,6 +112,7 @@ Deutsche Altershilfe Wilhelmine-Lübke-Stiftung e. V. veröffentlicht.
 
 
 ## § 3 Erteilung von Nutzungsberechtigungen für das Gütesiegel
+[Direktlink](https://www.gesetze-im-internet.de/auslpflkrgewqsg/BJNR280100021.html#BJNR280100021BJNE000300000)
 
 (1) Der Herausgeber kann mit Zustimmung des Bundesministeriums für
 Gesundheit eine oder mehrere sachkundige, unabhängige und zuverlässige

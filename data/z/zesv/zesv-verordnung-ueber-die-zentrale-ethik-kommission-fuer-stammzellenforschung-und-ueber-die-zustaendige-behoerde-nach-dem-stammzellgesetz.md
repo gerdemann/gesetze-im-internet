@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000000000)
 
 Auf Grund des § 8 Abs. 4 des Stammzellgesetzes vom 28. Juni 2002
 (BGBl. I S. 2277) verordnet die Bundesregierung und auf Grund des § 7
@@ -29,6 +30,7 @@ für Gesundheit:
 
 
 ## § 1 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000101310)
 
 (1) Zuständige Behörde nach § 7 Abs. 1 Satz 1 des Stammzellgesetzes
 ist das Robert Koch-Institut.
@@ -39,6 +41,7 @@ das Robert Koch-Institut übertragen.
 
 
 ## § 2 Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000200000)
 
 Die Zentrale Ethik-Kommission für Stammzellenforschung nach § 8 Abs. 1
 und 2 des Stammzellgesetzes (Kommission) prüft und bewertet nach § 9
@@ -51,6 +54,7 @@ Stellungnahmen nach den Vorschriften dieser Verordnung ab.
 
 
 ## § 3 Berufung der Mitglieder und stellvertretenden Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000302310)
 
 (1) Die Mitglieder und stellvertretenden Mitglieder der Kommission
 werden von der Bundesregierung auf gemeinsamen Vorschlag des
@@ -69,6 +73,7 @@ bekannt.
 
 
 ## § 4 Mitglieder und stellvertretende Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000402310)
 
 (1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt.
 
@@ -82,6 +87,7 @@ ihre Mitgliedschaft jederzeit beenden.
 
 
 ## § 5 Vorsitz und Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000500000)
 
 Die Mitglieder oder die stimmberechtigten stellvertretenden Mitglieder
 (§ 10 Abs. 4) wählen aus dem Kreis der Mitglieder eine Person für den
@@ -92,6 +98,7 @@ zulässig.
 
 
 ## § 6 Berichterstatter
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000601116)
 
 (1) Anforderungen von Stellungnahmen der Kommission durch die
 zuständige Behörde werden von dem vorsitzenden Mitglied auf je zwei
@@ -113,6 +120,7 @@ Maßnahmen nach § 7 machen.
 
 
 ## § 7 Sachverständige und andere Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000700000)
 
 (1) Zur Erfüllung ihrer Aufgaben kann die Kommission auf Antrag von
 mindestens zwei Mitgliedern oder stimmberechtigten stellvertretenden
@@ -129,6 +137,7 @@ laden.
 
 
 ## § 8 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000800000)
 
 (1) Die Kommission hat ihre Geschäftsstelle bei der zuständigen
 Behörde.
@@ -148,6 +157,7 @@ fristgerechte Abgabe der Stellungnahmen durch die Kommission.
 
 
 ## § 9 Sitzungen der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE000900000)
 
 (1) Die Sitzungen der Kommission sind so anzuberaumen, dass ihre
 Stellungnahmen der zuständigen Behörde innerhalb der gesetzten Fristen
@@ -174,6 +184,7 @@ außerordentlichen Sitzung einzuladen.
 
 
 ## § 10 Durchführung von Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001000000)
 
 (1) Die Sitzungen der Kommission sind nicht öffentlich. Die
 stellvertretenden Mitglieder sollen an den Sitzungen teilnehmen.
@@ -193,6 +204,7 @@ Verschwiegenheit zu wahren.
 
 
 ## § 11 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001100000)
 
 (1) Die Kommission ist beschlussfähig, wenn alle Mitglieder geladen
 und mindestens fünf Mitglieder oder stimmberechtigte stellvertretende
@@ -214,6 +226,7 @@ die Kommission in ihrer Geschäftsordnung.
 
 
 ## § 12 Sitzungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001201116)
 
 (1) Die Geschäftsstelle fertigt über jede Sitzung ein
 Sitzungsprotokoll, das Ort und Zeit der Sitzung, die
@@ -236,6 +249,7 @@ Behörde. Das Sitzungsprotokoll ist vertraulich zu behandeln.
 
 
 ## § 13 Zusammenarbeit mit der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001300000)
 
 (1) Die Kommission soll spätestens sechs Wochen, nachdem ihr die
 Anforderung der zuständigen Behörde und die vollständigen
@@ -251,12 +265,14 @@ die Minderheitsvoten enthalten.
 
 
 ## § 14 Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001402310)
 
 Die Kommission erstellt einen jährlichen Tätigkeitsbericht, der vom
 Bundesministerium für Gesundheit veröffentlicht wird.
 
 
 ## § 15 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001502310)
 
 Die Kommission gibt sich eine Geschäftsordnung. Die Geschäftsordnung
 bedarf der Zustimmung des Bundesministeriums für Gesundheit, das seine
@@ -265,6 +281,7 @@ Forschung trifft.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zesv/BJNR266300002.html#BJNR266300002BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

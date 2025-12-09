@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000100000)
 
 Auf Grund des § 28 Abs. 1 Nr. 2 in Verbindung mit § 32 Abs. 1 Nr. 1,
 des § 28 Abs. 3 Nr. 1 und 2, des § 29 Abs. 1 Nr. 1 und 2 und des § 35
@@ -41,6 +42,7 @@ Technologie:
 
 
 ## § 1 Allgemein verbotene Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000202116)
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln von
 
@@ -90,6 +92,7 @@ im Sinne des Satzes 1 sind
 
 
 ## § 2 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000300000)
 
 (1) Der Hersteller hat der für die Überwachung zuständigen Behörde, in
 deren Zuständigkeitsbereich der Ort der Herstellung liegt, vor dem
@@ -133,6 +136,7 @@ getrennt aufzubewahren.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000400000)
 
 (1) Mittel nach § 1 Satz 1 dürfen gewerbsmäßig nur in den Verkehr
 gebracht werden, wenn folgende Angaben angebracht sind:
@@ -207,12 +211,14 @@ Kärtchen enthalten sein.
 
 
 ## § 4 Gute Herstellungspraxis
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000500000)
 
 Bei der Herstellung von Mitteln nach § 1 Satz 1 sind die Grundsätze
 der Guten Herstellungspraxis zu berücksichtigen.
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000600000)
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -240,17 +246,20 @@ in den Verkehr bringt.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000700000)
 
 Diese Verordnung tritt am 1. Mai 2009 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Satz 2 Nr. 2)
 
 ## Anlage 1 Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE000900000)
 
 (Fundstelle: BGBl. I 2008, 2217 - 2218)
 
@@ -503,6 +512,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 1 Satz 2 Nr. 3)
 
 ## Anlage 2 Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/t_tov/BJNR221500008.html#BJNR221500008BJNE001000000)
 
 (Fundstelle: BGBl. I 2008, 2219)
 

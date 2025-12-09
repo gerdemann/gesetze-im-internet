@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_10abs3uabek/BJNR002600015.html#BJNR002600015BJNE000100000)
 
 Nach § 10 Absatz 3 Satz 1 Nummer 2 Buchstabe b des Stromsteuergesetzes
 vom 24. März 1999 (BGBl. I S. 378; 2000 I S. 147) und nach § 55 Absatz
@@ -32,6 +33,7 @@ Energiesteuergesetzes damit für das Antragsjahr 2015 gewährt werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_10abs3uabek/BJNR002600015.html#BJNR002600015BJNE000200000)
 
 Bundesministerium der Finanzen
 

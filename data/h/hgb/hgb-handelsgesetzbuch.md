@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Erstes Buch - Handelsstand
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000200300)
 
 
 
 ### Erster Abschnitt - Kaufleute
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000300300)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE000401307)
 
 (1) Kaufmann im Sinne dieses Gesetzbuchs ist, wer ein Handelsgewerbe
 betreibt.
@@ -38,6 +41,7 @@ eingerichteten Geschäftsbetrieb nicht erfordert.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE000501307)
 
 Ein gewerbliches Unternehmen, dessen Gewerbebetrieb nicht schon nach §
 1 Abs. 2 Handelsgewerbe ist, gilt als Handelsgewerbe im Sinne dieses
@@ -51,6 +55,7 @@ eingetreten ist.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE000601307)
 
 (1) Auf den Betrieb der Land- und Forstwirtschaft finden die
 Vorschriften des § 1 keine Anwendung.
@@ -70,10 +75,12 @@ Nebengewerbe betriebene Unternehmen die Vorschriften der Absätze 1 und
 
 
 #### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE000701307)
 
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE000801307)
 
 Ist eine Firma im Handelsregister eingetragen, so kann gegenüber
 demjenigen, welcher sich auf die Eintragung beruft, nicht geltend
@@ -82,6 +89,7 @@ Handelsgewerbe sei.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE000901307)
 
 (1) Die in betreff der Kaufleute gegebenen Vorschriften finden auch
 auf die Handelsgesellschaften Anwendung.
@@ -93,6 +101,7 @@ des § 1 Abs. 2 nicht vorliegen.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001000300)
 
 Durch die Vorschriften des öffentlichen Rechtes, nach welchen die
 Befugnis zum Gewerbebetrieb ausgeschlossen oder von gewissen
@@ -101,10 +110,12 @@ Kaufleute betreffenden Vorschriften dieses Gesetzbuchs nicht berührt.
 
 
 ### Zweiter Abschnitt - Handelsregister; Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001101377)
 
 
 
 #### § 8 Handelsregister
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001201377)
 
 (1) Das Handelsregister wird von den Gerichten elektronisch geführt.
 
@@ -114,6 +125,7 @@ werden.
 
 
 #### § 8a Eintragungen in das Handelsregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE079507360)
 
 (1) Eine Eintragung in das Handelsregister wird wirksam, sobald sie in
 den für die Handelsregistereintragungen bestimmten Datenspeicher
@@ -136,6 +148,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 #### § 8b Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099017360)
 
 (1) Das Unternehmensregister wird vorbehaltlich einer Regelung nach §
 9a Abs. 1 vom Bundesministerium der Justiz elektronisch geführt.
@@ -274,6 +287,7 @@ Informationsaustausch nach § 9c ein.
 
 
 #### § 9 Einsichtnahme in das Handelsregister und das Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001307360)
 
 (1) Die Einsichtnahme in das Handelsregister sowie in die zum
 Handelsregister eingereichten Dokumente ist jedem zu
@@ -327,6 +341,7 @@ Hinterlegung eingestellten Daten erfolgt nur auf Antrag durch
 
 
 #### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE038606360)
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates einer juristischen
@@ -380,6 +395,7 @@ tragen.
 
 
 #### § 9b Europäisches System der Registervernetzung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101602360)
 
 (1) Folgende Informationen und Unterlagen, soweit sie
 Kapitalgesellschaften betreffen oder Zweigniederlassungen von
@@ -521,6 +537,7 @@ der Daten über das Europäische System der Registervernetzung.
 
 
 #### § 9c Informationsaustausch über disqualifizierte Personen über das Europäische System der Registervernetzung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114100360)
 
 (1) Die das Unternehmensregister führende Stelle ist die zuständige
 Stelle für die Beantwortung eines über die zentrale Europäische
@@ -626,6 +643,7 @@ werden, einschließlich der Bestimmungen über
 
 
 #### § 10 Bekanntmachung der Eintragungen; Registerbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001402360)
 
 (1) Die Eintragungen in das Handelsregister sowie
 Registerbekanntmachungen nach Absatz 3 werden durch ihre erstmalige
@@ -660,6 +678,7 @@ Registerbekanntmachung
 
 
 #### § 10a Anwendung der Verordnung (EU) 2016/679
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113801360)
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
 Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
@@ -693,6 +712,7 @@ Dokumenten enthaltenen personenbezogenen Daten keine Anwendung.
 
 
 #### § 11 Offenlegung in der Amtssprache eines Mitgliedstaats der Europäischen  Union
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001501377)
 
 (1) Die zum Handelsregister einzureichenden Dokumente sowie der Inhalt
 einer Eintragung können zusätzlich in jeder Amtssprache eines
@@ -708,6 +728,7 @@ Originalfassung bekannt war.
 
 
 #### § 12 Anmeldungen zur Eintragung und Einreichungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001604360)
 
 (1) Anmeldungen zur Eintragung in das Handelsregister sind
 elektronisch in öffentlich beglaubigter Form einzureichen. Die
@@ -730,6 +751,7 @@ versehenes Dokument zu übermitteln.
 
 
 #### § 13 Zweigniederlassungen von Unternehmen mit Sitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001704140)
 
 (1) Die Errichtung einer Zweigniederlassung ist von einem
 Einzelkaufmann oder einer juristischen Person beim Gericht der
@@ -753,6 +775,7 @@ Zweigniederlassung.
 
 
 #### § 13a Europäische Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114200360)
 
 (1) In Bezug auf Zweigniederlassungen, die dem Recht eines anderen
 Mitgliedstaates der Europäischen Union oder eines anderen
@@ -789,9 +812,11 @@ Registerblatt der Gesellschaft ein:
 
 
 #### (XXXX) §§ 13b u. 13c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE001804360)
 
 
 #### § 13d Sitz oder Hauptniederlassung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE082503140)
 
 (1) Befindet sich die Hauptniederlassung eines Einzelkaufmanns oder
 einer juristischen Person oder der Sitz einer Handelsgesellschaft im
@@ -816,6 +841,7 @@ macht.
 
 
 #### § 13e Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE082605360)
 
 (1) Für Zweigniederlassungen von Aktiengesellschaften und
 Gesellschaften mit beschränkter Haftung mit Sitz im Ausland gelten
@@ -906,6 +932,7 @@ auf.
 
 
 #### § 13f Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE082705360)
 
 (1) Für Zweigniederlassungen von Aktiengesellschaften mit Sitz im
 Ausland gelten ergänzend die folgenden Vorschriften.
@@ -958,6 +985,7 @@ ergibt.
 
 
 #### § 13g Zweigniederlassungen von Gesellschaften mit beschränkter Haftung mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE082803360)
 
 (1) Für Zweigniederlassungen von Gesellschaften mit beschränkter
 Haftung mit Sitz im Ausland gelten ergänzend die folgenden
@@ -1007,6 +1035,7 @@ unterliegen.
 
 
 #### § 13h Verlegung des Sitzes einer Hauptniederlassung im Inland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE082900307)
 
 (1) Wird die Hauptniederlassung eines Einzelkaufmanns oder einer
 juristischen Person oder der Sitz einer Handelsgesellschaft im Inland
@@ -1037,6 +1066,7 @@ beachtet ist. Ist dies der Fall, so hat es die Verlegung einzutragen.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002102377)
 
 Wer seiner Pflicht zur Anmeldung oder zur Einreichung von Dokumenten
 zum Handelsregister nicht nachkommt, ist hierzu von dem
@@ -1046,6 +1076,7 @@ einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002203360)
 
 (1) Solange eine in das Handelsregister einzutragende Tatsache nicht
 eingetragen und bekanntgemacht ist, kann sie von demjenigen, in dessen
@@ -1075,6 +1106,7 @@ Registerblatt einer Kapitalgesellschaft eingetragenen Informationen
 
 
 #### § 15a Öffentliche Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099300140)
 
 Ist bei einer juristischen Person, die zur Anmeldung einer
 inländischen Geschäftsanschrift zum Handelsregister verpflichtet ist,
@@ -1090,6 +1122,7 @@ Gesetzbuchs bleibt unberührt.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002300300)
 
 (1) Ist durch eine rechtskräftige oder vollstreckbare Entscheidung des
 Prozeßgerichts die Verpflichtung zur Mitwirkung bei einer Anmeldung
@@ -1107,10 +1140,12 @@ erfolgen, welcher die Entscheidung erwirkt hat.
 
 
 ### Dritter Abschnitt - Handelsfirma
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002400300)
 
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002501307)
 
 (1) Die Firma eines Kaufmanns ist der Name, unter dem er seine
 Geschäfte betreibt und die Unterschrift abgibt.
@@ -1119,6 +1154,7 @@ Geschäfte betreibt und die Unterschrift abgibt.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002601307)
 
 (1) Die Firma muß zur Kennzeichnung des Kaufmanns geeignet sein und
 Unterscheidungskraft besitzen.
@@ -1131,6 +1167,7 @@ ersichtlich ist.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002701307)
 
 (1) Die Firma muß, auch wenn sie nach den §§ 21, 22, 24 oder nach
 anderen gesetzlichen Vorschriften fortgeführt wird, enthalten:
@@ -1160,10 +1197,12 @@ enthalten, welche die Haftungsbeschränkung kennzeichnet.
 
 
 #### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE037500309)
 
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002801307)
 
 Wird ohne eine Änderung der Person der in der Firma enthaltene Name
 des Geschäftsinhabers oder eines Gesellschafters geändert, so kann die
@@ -1171,6 +1210,7 @@ bisherige Firma fortgeführt werden.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE002901307)
 
 (1) Wer ein bestehendes Handelsgeschäft unter Lebenden oder von Todes
 wegen erwirbt, darf für das Geschäft die bisherige Firma, auch wenn
@@ -1185,12 +1225,14 @@ diese Vorschriften entsprechende Anwendung.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003000300)
 
 Die Firma kann nicht ohne das Handelsgeschäft, für welches sie geführt
 wird, veräußert werden.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003101307)
 
 (1) Wird jemand in ein bestehendes Handelsgeschäft als Gesellschafter
 aufgenommen oder tritt ein neuer Gesellschafter in eine
@@ -1205,6 +1247,7 @@ ausdrücklichen Einwilligung des Gesellschafters oder seiner Erben.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003200300)
 
 (1) Wer ein unter Lebenden erworbenes Handelsgeschäft unter der
 bisherigen Firma mit oder ohne Beifügung eines das Nachfolgeverhältnis
@@ -1227,6 +1270,7 @@ Erwerber bekanntgemacht worden ist.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003302377)
 
 (1) Ist der Erwerber des Handelsgeschäfts auf Grund der Fortführung
 der Firma oder auf Grund der in § 25 Abs. 3 bezeichneten Kundmachung
@@ -1251,6 +1295,7 @@ frühere Geschäftsinhaber den Anspruch schriftlich anerkannt hat.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003401377)
 
 (1) Wird ein zu einem Nachlasse gehörendes Handelsgeschäft von dem
 Erben fortgeführt, so finden auf die Haftung des Erben für die
@@ -1269,6 +1314,7 @@ Ausschlagungsfrist.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003501307)
 
 (1) Tritt jemand als persönlich haftender Gesellschafter oder als
 Kommanditist in das Geschäft eines Einzelkaufmanns ein, so haftet die
@@ -1295,6 +1341,7 @@ als Kommanditist bleibt unberührt.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003603140)
 
 Jeder Kaufmann ist verpflichtet, seine Firma, den Ort und die
 inländische Geschäftsanschrift seiner Handelsniederlassung bei dem
@@ -1303,6 +1350,7 @@ Eintragung in das Handelsregister anzumelden.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003702360)
 
 (1) Jede neue Firma muß sich von allen an demselben Ort oder in
 derselben Gemeinde bereits bestehenden und in das
@@ -1326,6 +1374,7 @@ Vorschriften anzusehen sind.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003801140)
 
 (1) Eine Änderung der Firma oder ihrer Inhaber, die Verlegung der
 Niederlassung an einen anderen Ort sowie die Änderung der inländischen
@@ -1339,6 +1388,7 @@ das Gericht das Erlöschen von Amts wegen einzutragen.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003903360)
 
 (1) Wird über das Vermögen eines Kaufmanns das Insolvenzverfahren
 eröffnet, so ist dies von Amts wegen in das Handelsregister
@@ -1372,6 +1422,7 @@ einzutragen. Das gleiche gilt für
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004002377)
 
 (1) Eine juristische Person, deren Eintragung in das Handelsregister
 mit Rücksicht auf den Gegenstand oder auf die Art und den Umfang ihres
@@ -1395,6 +1446,7 @@ des § 37a entsprechend.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004104377)
 
 (1) Jede Änderung der nach § 33 Abs. 2 Satz 2 und 3 einzutragenden
 Tatsachen oder der Satzung, die Auflösung der juristischen Person,
@@ -1420,15 +1472,18 @@ Anwendung.
 
 
 #### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004201377)
 
 -
 
 
 #### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097300307)
 
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004400300)
 
 (1) Wer eine nach den Vorschriften dieses Abschnitts ihm nicht
 zustehende Firma gebraucht, ist von dem Registergerichte zur
@@ -1442,6 +1497,7 @@ begründeter Anspruch auf Schadensersatz bleibt unberührt.
 
 
 #### § 37a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097201377)
 
 (1) Auf allen Geschäftsbriefen des Kaufmanns gleichviel welcher Form,
 die an einen bestimmten Empfänger gerichtet werden, müssen seine
@@ -1464,17 +1520,21 @@ Satz 2 gilt entsprechend.
 
 
 ### Vierter Abschnitt - Handelsbücher
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG004500300)
 
 
 
 #### (XXXX) §§ 38 bis 47b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004601306)
 
 
 ### Fünfter Abschnitt - Prokura und Handlungsvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG005800300)
 
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005900300)
 
 (1) Die Prokura kann nur von dem Inhaber des Handelsgeschäfts oder
 seinem gesetzlichen Vertreter und nur mittels ausdrücklicher Erklärung
@@ -1485,6 +1545,7 @@ erteilt werden.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006000300)
 
 (1) Die Prokura ermächtigt zu allen Arten von gerichtlichen und
 außergerichtlichen Geschäften und Rechtshandlungen, die der Betrieb
@@ -1495,6 +1556,7 @@ nur ermächtigt, wenn ihm diese Befugnis besonders erteilt ist.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006100300)
 
 (1) Eine Beschränkung des Umfanges der Prokura ist Dritten gegenüber
 unwirksam.
@@ -1514,12 +1576,14 @@ bezeichnet.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006200300)
 
 Der Prokurist hat in der Weise zu zeichnen, daß er der Firma seinen
 Namen mit einem die Prokura andeutenden Zusatze beifügt.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006300300)
 
 (1) Die Prokura ist ohne Rücksicht auf das der Erteilung zugrunde
 liegende Rechtsverhältnis jederzeit widerruflich, unbeschadet des
@@ -1532,6 +1596,7 @@ Handelsgeschäfts.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006402377)
 
 (1) Die Erteilung der Prokura ist von dem Inhaber des Handelsgeschäfts
 zur Eintragung in das Handelsregister anzumelden. Ist die Prokura als
@@ -1543,6 +1608,7 @@ zur Eintragung anzumelden.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006500300)
 
 (1) Ist jemand ohne Erteilung der Prokura zum Betrieb eines
 Handelsgewerbes oder zur Vornahme einer bestimmten zu einem
@@ -1563,6 +1629,7 @@ mußte.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006600300)
 
 (1) Die Vorschriften des § 54 finden auch Anwendung auf
 Handlungsbevollmächtigte, die Handelsvertreter sind oder die als
@@ -1585,6 +1652,7 @@ Sicherung des Beweises geltend machen.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006700300)
 
 Wer in einem Laden oder in einem offenen Warenlager angestellt ist,
 gilt als ermächtigt zu Verkäufen und Empfangnahmen, die in einem
@@ -1592,6 +1660,7 @@ derartigen Laden oder Warenlager gewöhnlich geschehen.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006800300)
 
 Der Handlungsbevollmächtigte hat sich bei der Zeichnung jedes eine
 Prokura andeutenden Zusatzes zu enthalten; er hat mit einem das
@@ -1599,6 +1668,7 @@ Vollmachtsverhältnis ausdrückenden Zusatze zu zeichnen.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006900300)
 
 Der Handlungsbevollmächtigte kann ohne Zustimmung des Inhabers des
 Handelsgeschäfts seine Handlungsvollmacht auf einen anderen nicht
@@ -1606,10 +1676,12 @@ Handelsgeschäfts seine Handlungsvollmacht auf einen anderen nicht
 
 
 ### Sechster Abschnitt - Handlungsgehilfen und Handlungslehrlinge
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG007000300)
 
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007100300)
 
 Wer in einem Handelsgewerbe zur Leistung kaufmännischer Dienste gegen
 Entgelt angestellt ist (Handlungsgehilfe), hat, soweit nicht besondere
@@ -1622,6 +1694,7 @@ Leistungen als vereinbart.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007200300)
 
 (1) Der Handlungsgehilfe darf ohne Einwilligung des Prinzipals weder
 ein Handelsgewerbe betreiben noch in dem Handelszweige des Prinzipals
@@ -1634,6 +1707,7 @@ Betriebs nicht ausdrücklich vereinbart.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007301377)
 
 (1) Verletzt der Handlungsgehilfe die ihm nach § 60 obliegende
 Verpflichtung, so kann der Prinzipal Schadensersatz fordern; er kann
@@ -1651,6 +1725,7 @@ Jahren von dem Abschluss des Geschäfts an.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007400300)
 
 (1) Der Prinzipal ist verpflichtet, die Geschäftsräume und die für den
 Geschäftsbetrieb bestimmten Vorrichtungen und Gerätschaften so
@@ -1678,10 +1753,12 @@ nicht im voraus durch Vertrag aufgehoben oder beschränkt werden.
 
 
 #### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007501307)
 
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007600300)
 
 Die Zahlung des dem Handlungsgehilfen zukommenden Gehalts hat am
 Schlusse jedes Monats zu erfolgen. Eine Vereinbarung, nach der die
@@ -1689,6 +1766,7 @@ Zahlung des Gehalts später erfolgen soll, ist nichtig.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007700300)
 
 Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm
 geschlossen oder vermittelt werden, Provision erhalten solle, so sind
@@ -1697,14 +1775,17 @@ und 3 sowie der §§ 87a bis 87c anzuwenden.
 
 
 #### (XXXX) §§ 66 bis 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE037700309)
 
 
 
 #### § 73 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007802377)
 
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007900300)
 
 (1) Eine Vereinbarung zwischen dem Prinzipal und dem
 Handlungsgehilfen, die den Gehilfen für die Zeit nach Beendigung des
@@ -1721,6 +1802,7 @@ erreicht.
 
 
 #### § 74a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008001311)
 
 (1) Das Wettbewerbverbot ist insoweit unverbindlich, als es nicht zum
 Schutze eines berechtigten geschäftlichen Interesses des Prinzipals
@@ -1744,6 +1826,7 @@ guten Sitten verstoßen.
 
 
 #### § 74b
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008100300)
 
 (1) Die nach § 74 Abs. 2 dem Handlungsgehilfen zu gewährende
 Entschädigung ist am Schlusse jedes Monats zu zahlen.
@@ -1761,6 +1844,7 @@ infolge der Dienstleistung entstehen, bleiben sie außer Ansatz.
 
 
 #### § 74c
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008200300)
 
 (1) Der Handlungsgehilfe muß sich auf die fällige Entschädigung
 anrechnen lassen, was er während des Zeitraums, für den die
@@ -1779,6 +1863,7 @@ Höhe seines Erwerbes Auskunft zu erteilen.
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008306125)
 
 (1) Löst der Gehilfe das Dienstverhältnis gemäß § 626 des Bürgerlichen
 Gesetzbuchs wegen vertragswidrigen Verhaltens des Prinzipals auf, so
@@ -1800,6 +1885,7 @@ Gehilfen auf, so gilt Absatz 1 entsprechend.
 
 
 #### § 75a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008400300)
 
 Der Prinzipal kann vor der Beendigung des Dienstverhältnisses durch
 schriftliche Erklärung auf das Wettbewerbverbot mit der Wirkung
@@ -1808,10 +1894,12 @@ der Verpflichtung zur Zahlung der Entschädigung frei wird.
 
 
 #### § 75b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008501311)
 
 
 
 #### § 75c
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008600300)
 
 (1) Hat der Handlungsgehilfe für den Fall, daß er die in der
 Vereinbarung übernommene Verpflichtung nicht erfüllt, eine Strafe
@@ -1829,6 +1917,7 @@ Ersatz eines weiteren Schadens ist ausgeschlossen.
 
 
 #### § 75d
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008700300)
 
 Auf eine Vereinbarung, durch die von den Vorschriften der §§ 74 bis
 75c zum Nachteil des Handlungsgehilfen abgewichen wird, kann sich der
@@ -1838,10 +1927,12 @@ Entschädigung durch Verrechnungen oder auf sonstige Weise zu umgehen.
 
 
 #### § 75e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE037800309)
 
 
 
 #### § 75f
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008800300)
 
 Im Falle einer Vereinbarung, durch die sich ein Prinzipal einem
 anderen Prinzipal gegenüber verpflichtet, einen Handlungsgehilfen, der
@@ -1852,6 +1943,7 @@ statt.
 
 
 #### § 75g
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008900300)
 
 § 55 Abs. 4 gilt auch für einen Handlungsgehilfen, der damit betraut
 ist, außerhalb des Betriebes des Prinzipals für diesen Geschäfte zu
@@ -1860,6 +1952,7 @@ sich nur gelten zu lassen, wenn er sie kannte oder kennen mußte.
 
 
 #### § 75h
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009000300)
 
 (1) Hat ein Handlungsgehilfe, der nur mit der Vermittlung von
 Geschäften außerhalb des Betriebes des Prinzipals betraut ist, ein
@@ -1876,10 +1969,12 @@ abgeschlossen hat, zu dessen Abschluß er nicht bevollmächtigt ist.
 
 
 #### (XXXX) §§ 76 bis 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE037900309)
 
 
 
 #### § 82a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009100300)
 
 Auf Wettbewerbsverbote gegenüber Personen, die, ohne als Lehrlinge
 angenommen zu sein, zum Zwecke ihrer Ausbildung unentgeltlich mit
@@ -1889,6 +1984,7 @@ nicht auf das dem Gehilfen zustehende Entgelt Bezug nehmen.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009200300)
 
 Hinsichtlich der Personen, welche in dem Betrieb eines Handelsgewerbes
 andere als kaufmännische Dienste leisten, bewendet es bei den für das
@@ -1896,10 +1992,12 @@ Arbeitsverhältnis dieser Personen geltenden Vorschriften.
 
 
 ### Siebenter Abschnitt - Handelsvertreter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG009300300)
 
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009401307)
 
 (1) Handelsvertreter ist, wer als selbständiger Gewerbetreibender
 ständig damit betraut ist, für einen anderen Unternehmer (Unternehmer)
@@ -1919,6 +2017,7 @@ kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009500300)
 
 Jeder Teil kann verlangen, daß der Inhalt des Vertrages sowie spätere
 Vereinbarungen zu dem Vertrag in eine vom anderen Teil unterzeichnete
@@ -1927,6 +2026,7 @@ werden.
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009601309)
 
 (1) Der Handelsvertreter hat sich um die Vermittlung oder den Abschluß
 von Geschäften zu bemühen; er hat hierbei das Interesse des
@@ -1944,6 +2044,7 @@ unwirksam.
 
 
 #### § 86a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009701309)
 
 (1) Der Unternehmer hat dem Handelsvertreter die zur Ausübung seiner
 Tätigkeit erforderlichen Unterlagen, wie Muster, Zeichnungen,
@@ -1965,6 +2066,7 @@ unwirksam.
 
 
 #### § 86b
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009800300)
 
 (1) Verpflichtet sich ein Handelsvertreter, für die Erfüllung der
 Verbindlichkeit aus einem Geschäft einzustehen, so kann er eine
@@ -1984,6 +2086,7 @@ Ausführung der Handelsvertreter unbeschränkt bevollmächtigt ist.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009901309)
 
 (1) Der Handelsvertreter hat Anspruch auf Provision für alle während
 des Vertragsverhältnisses abgeschlossenen Geschäfte, die auf seine
@@ -2026,6 +2129,7 @@ auftragsgemäß eingezogenen Beträge.
 
 
 #### § 87a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010001309)
 
 (1) Der Handelsvertreter hat Anspruch auf Provision, sobald und soweit
 der Unternehmer das Geschäft ausgeführt hat. Eine abweichende
@@ -2053,6 +2157,7 @@ den Handelsvertreter nachteilige Vereinbarungen sind unwirksam.
 
 
 #### § 87b
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010100300)
 
 (1) Ist die Höhe der Provision nicht bestimmt, so ist der übliche Satz
 als vereinbart anzusehen.
@@ -2075,6 +2180,7 @@ entsprechend berechnete Provisionen, wenn der Vertrag fortbesteht.
 
 
 #### § 87c
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010200300)
 
 (1) Der Unternehmer hat über die Provision, auf die der
 Handelsvertreter Anspruch hat, monatlich abzurechnen; der
@@ -2103,6 +2209,7 @@ oder beschränkt werden.
 
 
 #### § 87d
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010300300)
 
 Der Handelsvertreter kann den Ersatz seiner im regelmäßigen
 Geschäftsbetrieb entstandenen Aufwendungen nur verlangen, wenn dies
@@ -2110,10 +2217,12 @@ handelsüblich ist.
 
 
 #### § 88 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010401377)
 
 
 
 #### § 88a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010500300)
 
 (1) Der Handelsvertreter kann nicht im voraus auf gesetzliche
 Zurückbehaltungsrechte verzichten.
@@ -2125,6 +2234,7 @@ seiner fälligen Ansprüche auf Provision und Ersatz von Aufwendungen.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010601309)
 
 (1) Ist das Vertragsverhältnis auf unbestimmte Zeit eingegangen, so
 kann es im ersten Jahr der Vertragsdauer mit einer Frist von einem
@@ -2149,6 +2259,7 @@ Vertragsverhältnisses maßgeblich.
 
 
 #### § 89a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010700300)
 
 (1) Das Vertragsverhältnis kann von jedem Teil aus wichtigem Grunde
 ohne Einhaltung einer Kündigungsfrist gekündigt werden. Dieses Recht
@@ -2161,6 +2272,7 @@ verpflichtet.
 
 
 #### § 89b
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010808140)
 
 (1) Der
 Handelvertreter kann von dem Unternehmer nach Beendigung des
@@ -2229,6 +2341,7 @@ und 2 gelten sinngemäß für Bausparkassenvertreter.
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010900300)
 
 Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm
 anvertraut oder als solche durch seine Tätigkeit für den Unternehmer
@@ -2239,6 +2352,7 @@ widersprechen würde.
 
 
 #### § 90a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011002307)
 
 (1) Eine Vereinbarung, die den Handelsvertreter nach Beendigung des
 Vertragsverhältnisses in seiner gewerblichen Tätigkeit beschränkt
@@ -2269,6 +2383,7 @@ können nicht getroffen werden.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011100300)
 
 (1) § 55 gilt auch für einen Handelsvertreter, der zum Abschluß von
 Geschäften von einem Unternehmer bevollmächtigt ist, der nicht
@@ -2286,6 +2401,7 @@ wenn er sie kannte oder kennen mußte.
 
 
 #### § 91a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011200300)
 
 (1) Hat ein Handelsvertreter, der nur mit der Vermittlung von
 Geschäften betraut ist, ein Geschäft im Namen des Unternehmers
@@ -2301,6 +2417,7 @@ abgeschlossen hat, zu dessen Abschluß er nicht bevollmächtigt ist.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011300300)
 
 (1) Versicherungsvertreter ist, wer als Handelsvertreter damit betraut
 ist, Versicherungsverträge zu vermitteln oder abzuschließen.
@@ -2324,6 +2441,7 @@ Bausparkassenvertreter.
 
 
 #### § 92a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011409360)
 
 (1) Für das Vertragsverhältnis eines Handelsvertreters, der
 vertraglich nicht für weitere Unternehmer tätig werden darf oder dem
@@ -2354,6 +2472,7 @@ ihnen zu erfolgen hat.
 
 
 #### § 92b
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011500300)
 
 (1) Auf einen Handelsvertreter im Nebenberuf sind §§ 89 und 89b nicht
 anzuwenden. Ist das Vertragsverhältnis auf unbestimmte Zeit
@@ -2375,6 +2494,7 @@ Versicherungsvertreter und für Bausparkassenvertreter.
 
 
 #### § 92c
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011602305)
 
 (1) Hat der Handelsvertreter seine Tätigkeit für den Unternehmer nach
 dem Vertrag nicht innerhalb des Gebietes der Europäischen Gemeinschaft
@@ -2389,10 +2509,12 @@ auf Schiffen zum Gegenstand haben.
 
 
 ### Achter Abschnitt - Handelsmakler
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG011700300)
 
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097400307)
 
 (1) Wer gewerbsmäßig für andere Personen, ohne von ihnen auf Grund
 eines Vertragsverhältnisses ständig damit betraut zu sein, die
@@ -2412,6 +2534,7 @@ kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011900300)
 
 (1) Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen
 oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon
@@ -2431,6 +2554,7 @@ unverzüglich Anzeige zu machen.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012000300)
 
 (1) Nimmt eine Partei eine Schlußnote an, in der sich der
 Handelsmakler die Bezeichnung der anderen Partei vorbehalten hat, so
@@ -2451,6 +2575,7 @@ erklärt, ob sie Erfüllung verlange.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012100300)
 
 Der Handelsmakler hat, sofern nicht die Parteien ihm dies erlassen
 oder der Ortsgebrauch mit Rücksicht auf die Gattung der Ware davon
@@ -2462,18 +2587,21 @@ ein Zeichen kenntlich zu machen.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012200300)
 
 Der Handelsmakler gilt nicht als ermächtigt, eine Zahlung oder eine
 andere im Vertrage bedungene Leistung in Empfang zu nehmen.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012300300)
 
 Der Handelsmakler haftet jeder der beiden Parteien für den durch sein
 Verschulden entstehenden Schaden.
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012400300)
 
 Ist unter den Parteien nichts darüber vereinbart, wer den Maklerlohn
 bezahlen soll, so ist er in Ermangelung eines abweichenden
@@ -2481,6 +2609,7 @@ Ortsgebrauchs von jeder Partei zur Hälfte zu entrichten.
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012502377)
 
 (1) Der Handelsmakler ist verpflichtet, ein Tagebuch zu führen und in
 dieses alle abgeschlossenen Geschäfte täglich einzutragen. Die
@@ -2495,6 +2624,7 @@ Handelsmaklers Anwendung.
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012600300)
 
 Der Handelsmakler ist verpflichtet, den Parteien jederzeit auf
 Verlangen Auszüge aus dem Tagebuche zu geben, die von ihm
@@ -2503,6 +2633,7 @@ vermittelten Geschäfts eingetragen ist.
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012700300)
 
 Im Laufe eines Rechtsstreits kann das Gericht auch ohne Antrag einer
 Partei die Vorlegung des Tagebuchs anordnen, um es mit der Schlußnote,
@@ -2510,6 +2641,7 @@ den Auszügen oder anderen Beweismitteln zu vergleichen.
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012801311)
 
 (1) Ordnungswidrig handelt, wer als Handelsmakler
 
@@ -2529,6 +2661,7 @@ Euro geahndet werden.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012901309)
 
 Auf Personen, welche die Vermittlung von Warengeschäften im
 Kleinverkehre besorgen, finden die Vorschriften über Schlußnoten und
@@ -2538,10 +2671,12 @@ Versicherungs- oder Bausparverträgen übernehmen, sind die Vorschriften
 
 
 ### Neunter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040400377)
 
 
 
 #### § 104a Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099200377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 8b Abs. 3 Satz 1 Nr. 2 dort genannte Daten nicht, nicht richtig oder
@@ -2554,18 +2689,22 @@ Finanzdienstleistungsaufsicht.
 
 
 ## Zweites Buch - Handelsgesellschaften und stille Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG013000300)
 
 
 
 ### Erster Abschnitt - Offene Handelsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG013101360)
 
 
 
 #### Erster Titel - Errichtung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG013201360)
 
 
 
 ##### § 105 Begriff der offenen Handelsgesellschaft; Anwendbarkeit des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013304360)
 
 (1) Eine Gesellschaft, deren Zweck auf den Betrieb eines
 Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine
@@ -2582,6 +2721,7 @@ Anwendung.
 
 
 ##### § 106 Anmeldung zum Handelsregister; Statuswechsel
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013408360)
 
 (1) Die Gesellschaft ist bei dem Gericht, in dessen Bezirk sie ihren
 Sitz hat, zur Eintragung in das Handelsregister anzumelden.
@@ -2677,6 +2817,7 @@ von der Gesellschaft zu bewirken.
 
 
 ##### § 107 Kleingewerbliche, vermögensverwaltende oder freiberufliche Gesellschaft; Statuswechsel
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013511360)
 
 (1) Eine Gesellschaft, deren Gewerbebetrieb nicht schon nach § 1
 Absatz 2 Handelsgewerbe ist oder die nur eigenes Vermögen verwaltet,
@@ -2701,16 +2842,19 @@ Anwendung.
 
 
 #### Zweiter Titel - Rechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG013701360)
 
 
 
 ##### § 108 Gestaltungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013604360)
 
 Von den Vorschriften dieses Titels kann durch den Gesellschaftsvertrag
 abgewichen werden, soweit im Gesetz nichts anderes bestimmt ist.
 
 
 ##### § 109 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013801360)
 
 (1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst.
 
@@ -2730,6 +2874,7 @@ Stimmen haben.
 
 
 ##### § 110 Anfechtbarkeit und Nichtigkeit von Gesellschafterbeschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013901360)
 
 (1) Ein Beschluss der Gesellschafter kann wegen Verletzung von
 Rechtsvorschriften durch Klage auf Nichtigerklärung angefochten werden
@@ -2752,6 +2897,7 @@ andere Weise als durch Klage auf Feststellung der Nichtigkeit
 
 
 ##### § 111 Anfechtungsbefugnis; Rechtsschutzbedürfnis
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014001360)
 
 (1) Anfechtungsbefugt ist jeder Gesellschafter, der oder dessen
 Rechtsvorgänger im Zeitpunkt der Beschlussfassung der Gesellschaft
@@ -2764,6 +2910,7 @@ Rechtsstreits hat.
 
 
 ##### § 112 Klagefrist
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014101360)
 
 (1) Die Anfechtungsklage ist innerhalb von drei Monaten zu erheben.
 Eine Vereinbarung im Gesellschaftsvertrag, welche eine kürzere Frist
@@ -2782,6 +2929,7 @@ Scheitern der Vergleichsverhandlungen endet.
 
 
 ##### § 113 Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014202360)
 
 (1) Zuständig für die Anfechtungsklage ist ausschließlich das
 Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
@@ -2811,6 +2959,7 @@ Gesellschafter, auch wenn sie nicht Partei sind.
 
 
 ##### § 114 Nichtigkeitsklage
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014301360)
 
 Erhebt ein Gesellschafter Nichtigkeitsklage gegen die Gesellschaft,
 sind die §§ 111 und 113 entsprechend anzuwenden. Mehrere Nichtigkeits-
@@ -2819,6 +2968,7 @@ Entscheidung zu verbinden.
 
 
 ##### § 115 Verbindung von Anfechtungs- und Feststellungsklage
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014401360)
 
 Wendet sich ein Gesellschafter gegen einen Beschluss, mit dem ein
 Beschlussvorschlag abgelehnt wurde, kann er seinen Antrag auf
@@ -2830,6 +2980,7 @@ Vorschriften entsprechende Anwendung.
 
 
 ##### § 116 Geschäftsführungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014501360)
 
 (1) Zur Führung der Geschäfte der Gesellschaft sind alle
 Gesellschafter berechtigt und verpflichtet.
@@ -2872,6 +3023,7 @@ und 3 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
 
 
 ##### § 117 Wettbewerbsverbot
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014601360)
 
 (1) Ein Gesellschafter darf ohne Einwilligung der anderen
 Gesellschafter weder in dem Handelszweig der Gesellschaft Geschäfte
@@ -2887,6 +3039,7 @@ vereinbart wird.
 
 
 ##### § 118 Verletzung des Wettbewerbsverbots
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014702360)
 
 (1) Verletzt ein Gesellschafter die ihm nach § 117 obliegende
 Verpflichtung, kann die Gesellschaft Schadensersatz fordern. Sie kann
@@ -2913,6 +3066,7 @@ verlangen, wird durch diese Vorschriften nicht berührt.
 
 
 ##### § 119 Verzinsungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014801360)
 
 (1) Schuldet die Gesellschaft nach Maßgabe von § 716 Absatz 4 Satz 2
 des Bürgerlichen Gesetzbuchs dem Gesellschafter die Verzinsung von
@@ -2931,6 +3085,7 @@ Schadens ist nicht ausgeschlossen.
 
 
 ##### § 120 Ermittlung von Gewinn- und Verlustanteilen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE014901360)
 
 (1) Die geschäftsführungsbefugten Gesellschafter sind gegenüber der
 Gesellschaft zur Aufstellung des Jahresabschlusses (§ 242 Absatz 3)
@@ -2944,12 +3099,14 @@ entfallende Verlust wird davon abgeschrieben.
 
 
 ##### § 121 Feststellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015001360)
 
 Über die Feststellung des Jahresabschlusses entscheiden die
 Gesellschafter durch Beschluss.
 
 
 ##### § 122 Gewinnauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015101360)
 
 Jeder Gesellschafter hat aufgrund des festgestellten Jahresabschlusses
 Anspruch auf Auszahlung seines ermittelten Gewinnanteils. Der Anspruch
@@ -2959,10 +3116,12 @@ seinen vereinbarten Beitrag trotz Fälligkeit nicht geleistet hat.
 
 
 #### Dritter Titel - Rechtsverhältnis der Gesellschaft zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG015201360)
 
 
 
 ##### § 123 Entstehung der Gesellschaft im Verhältnis zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015302360)
 
 (1) Im Verhältnis zu Dritten entsteht die Gesellschaft, sobald sie im
 Handelsregister eingetragen ist. Dessen ungeachtet entsteht die
@@ -2975,6 +3134,7 @@ Zeitpunkt entstehen soll, ist Dritten gegenüber unwirksam.
 
 
 ##### § 124 Vertretung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015401360)
 
 (1) Zur Vertretung der Gesellschaft ist jeder Gesellschafter befugt,
 wenn er nicht durch den Gesellschaftsvertrag von der Vertretung
@@ -3014,6 +3174,7 @@ genügt die Abgabe gegenüber einem vertretungsbefugten Gesellschafter.
 
 
 ##### § 125 Angaben auf Geschäftsbriefen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015502360)
 
 (1) Auf allen Geschäftsbriefen der Gesellschaft, gleichviel welcher
 Form, die an einen bestimmten Empfänger gerichtet werden, müssen die
@@ -3038,6 +3199,7 @@ anzuwenden.
 
 
 ##### § 126 Persönliche Haftung der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015601360)
 
 Die Gesellschafter haften für die Verbindlichkeiten der Gesellschaft
 den Gläubigern als Gesamtschuldner persönlich. Eine entgegenstehende
@@ -3045,6 +3207,7 @@ Vereinbarung ist Dritten gegenüber unwirksam.
 
 
 ##### § 127 Haftung des eintretenden Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015701360)
 
 Wer in eine bestehende Gesellschaft eintritt, haftet gleich den
 anderen Gesellschaftern nach Maßgabe der §§ 126 und 128 für die vor
@@ -3053,6 +3216,7 @@ entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
 
 ##### § 128 Einwendungen und Einreden des Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015801360)
 
 (1) Wird ein Gesellschafter wegen einer Verbindlichkeit der
 Gesellschaft in Anspruch genommen, kann er Einwendungen und Einreden,
@@ -3067,6 +3231,7 @@ Leistungsverweigerung berechtigen würde, zusteht.
 
 
 ##### § 129 Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE015901360)
 
 (1) Zur Zwangsvollstreckung in das Vermögen der Gesellschaft ist ein
 gegen die Gesellschaft gerichteter Vollstreckungstitel erforderlich.
@@ -3076,10 +3241,12 @@ findet die Zwangsvollstreckung gegen die Gesellschafter nicht statt.
 
 
 #### Vierter Titel - Ausscheiden eines Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG016301360)
 
 
 
 ##### § 130 Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016001360)
 
 (1) Folgende Gründe führen zum Ausscheiden eines Gesellschafters aus
 der Gesellschaft, sofern der Gesellschaftsvertrag für diese Fälle
@@ -3115,6 +3282,7 @@ stattgebenden Urteils.
 
 
 ##### § 131 Fortsetzung mit dem Erben; Ausscheiden des Erben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016406360)
 
 (1) Geht der Anteil eines verstorbenen Gesellschafters auf dessen
 Erben über, so kann jeder Erbe gegenüber den anderen Gesellschaftern
@@ -3150,6 +3318,7 @@ als der des Erblassers bestimmt werden.
 
 
 ##### § 132 Kündigung der Mitgliedschaft durch den Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016501360)
 
 (1) Ist das Gesellschaftsverhältnis auf unbestimmte Zeit eingegangen,
 kann ein Gesellschafter seine Mitgliedschaft unter Einhaltung einer
@@ -3191,6 +3360,7 @@ Vorschriften zuwider beschränkt, ist unwirksam.
 
 
 ##### § 133 Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016601360)
 
 Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der
 letzten sechs Monate eine Zwangsvollstreckung in das bewegliche
@@ -3202,6 +3372,7 @@ einer Frist von sechs Monaten zum Ablauf des Geschäftsjahrs kündigen.
 
 
 ##### § 134 Gerichtliche Entscheidung über Ausschließungsklage
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016701360)
 
 Tritt in der Person eines Gesellschafters ein wichtiger Grund ein,
 kann auf Antrag der anderen Gesellschafter seine Ausschließung aus der
@@ -3216,6 +3387,7 @@ verbleibt.
 
 
 ##### § 135 Ansprüche des ausgeschiedenen Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016801360)
 
 (1) Sofern im Gesellschaftsvertrag nichts anderes vereinbart ist, ist
 die Gesellschaft verpflichtet, den ausgeschiedenen Gesellschafter von
@@ -3234,6 +3406,7 @@ Wege der Schätzung zu ermitteln.
 
 
 ##### § 136 Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE016902360)
 
 Reicht der Wert des Gesellschaftsvermögens zur Deckung der
 Verbindlichkeiten der Gesellschaft nicht aus, hat der ausgeschiedene
@@ -3242,6 +3415,7 @@ seines Anteils am Gewinn und Verlust aufzukommen.
 
 
 ##### § 137 Nachhaftung des ausgeschiedenen Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114600360)
 
 (1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er
 für deren bis dahin begründete Verbindlichkeiten, wenn sie vor Ablauf
@@ -3281,10 +3455,12 @@ unberührt.
 
 
 #### Fünfter Titel - Auflösung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG017801360)
 
 
 
 ##### § 138 Auflösungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114700360)
 
 (1) Die Gesellschaft wird aufgelöst durch:
 
@@ -3324,6 +3500,7 @@ werden.
 
 
 ##### § 139 Auflösung durch gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE017202360)
 
 (1) Auf Antrag eines Gesellschafters kann aus wichtigem Grund die
 Auflösung der Gesellschaft durch gerichtliche Entscheidung
@@ -3341,6 +3518,7 @@ unwirksam.
 
 
 ##### § 140 Auflösungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE017302360)
 
 Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu
 entscheiden, muss ein Beschluss, der die Auflösung der Gesellschaft
@@ -3349,6 +3527,7 @@ abgegebenen Stimmen gefasst werden.
 
 
 ##### § 141 Anmeldung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE017404360)
 
 (1) Die Auflösung der Gesellschaft ist von sämtlichen Gesellschaftern
 zur Eintragung in das Handelsregister anzumelden. Dies gilt nicht in
@@ -3367,6 +3546,7 @@ entgegenstehen.
 
 
 ##### § 142 Fortsetzung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114800360)
 
 (1) Die Gesellschafter können nach Auflösung der Gesellschaft deren
 Fortsetzung beschließen, sobald der Auflösungsgrund beseitigt ist.
@@ -3381,10 +3561,12 @@ in das Handelsregister anzumelden.
 
 
 #### Sechster Titel - Liquidation der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042500360)
 
 
 
 ##### § 143 Notwendigkeit der Liquidation; anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE017602360)
 
 (1) Nach Auflösung der Gesellschaft findet die Liquidation statt,
 sofern nicht über das Vermögen der Gesellschaft das Insolvenzverfahren
@@ -3409,6 +3591,7 @@ ergibt.
 
 
 ##### § 144 Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE017702360)
 
 (1) Zur Liquidation sind alle Gesellschafter berufen.
 
@@ -3429,6 +3612,7 @@ Abberufung eines Liquidators.
 
 
 ##### § 145 Gerichtliche Berufung und Abberufung von Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE017902360)
 
 (1) Auf Antrag eines Beteiligten kann aus wichtigem Grund ein
 Liquidator durch das Gericht, in dessen Bezirk die Gesellschaft ihren
@@ -3465,6 +3649,7 @@ Zivilprozessordnung statt.
 
 
 ##### § 146 Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018002360)
 
 (1) Mit der Auflösung erlischt die einem Gesellschafter im
 Gesellschaftsvertrag übertragene Befugnis zur Geschäftsführung und
@@ -3478,6 +3663,7 @@ kennen muss.
 
 
 ##### § 147 Anmeldung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018101360)
 
 (1) Die Liquidatoren und ihre Vertretungsbefugnis sind von sämtlichen
 Gesellschaftern zur Eintragung in das Handelsregister anzumelden. Das
@@ -3494,6 +3680,7 @@ Amts wegen.
 
 
 ##### § 148 Rechtsstellung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018204360)
 
 (1) Die Liquidatoren haben, auch wenn sie vom Gericht berufen sind,
 den Weisungen Folge zu leisten, welche die Beteiligten in Bezug auf
@@ -3541,6 +3728,7 @@ zu verteilen.
 
 
 ##### § 149 Haftung des Gesellschafters für Fehlbetrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018301360)
 
 Reicht das Gesellschaftsvermögen zur Berichtigung der
 Verbindlichkeiten und zur Rückerstattung der Beiträge nicht aus, haben
@@ -3552,6 +3740,7 @@ Verhältnis zu tragen.
 
 
 ##### § 150 Anmeldung des Erlöschens der Firma
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018402360)
 
 Nach der Beendigung der Liquidation ist das Erlöschen der Firma von
 sämtlichen Liquidatoren zur Eintragung in das Handelsregister
@@ -3559,6 +3748,7 @@ anzumelden.
 
 
 ##### § 151 Verjährung von Ansprüchen aus der Gesellschafterhaftung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018501360)
 
 (1) Ist die Gesellschaft durch Liquidation oder auf andere Weise
 erloschen, verjähren Ansprüche gegen einen Gesellschafter aus
@@ -3578,6 +3768,7 @@ zur Zeit des Erlöschens angehört haben.
 
 
 ##### § 152 Aufbewahrung der Geschäftsunterlagen; Einsicht in die Geschäftsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018601360)
 
 (1) Die Geschäftsunterlagen der aufgelösten Gesellschaft werden einem
 der Gesellschafter oder einem Dritten in Verwahrung gegeben. In
@@ -3590,13 +3781,16 @@ und Benutzung der Geschäftsunterlagen.
 
 
 ##### (XXXX) §§ 153 bis 160
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE018701360)
 
 
 ### Zweiter Abschnitt - Kommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG019600300)
 
 
 
 #### § 161
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE019701360)
 
 (1) Eine Gesellschaft, deren Zweck auf den Betrieb eines
 Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, ist eine
@@ -3612,6 +3806,7 @@ Handelsgesellschaft geltenden Vorschriften entsprechende Anwendung.
 
 
 #### § 162
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114300360)
 
 (1) Die Anmeldung der Gesellschaft hat außer den in § 106 Abs. 2
 vorgesehenen Angaben die Bezeichnung der Kommanditisten und den Betrag
@@ -3624,6 +3819,7 @@ entsprechende Anwendung.
 
 
 #### § 163
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE019900300)
 
 Für das Verhältnis der Gesellschafter untereinander gelten in
 Ermangelung abweichender Bestimmungen des Gesellschaftsvertrags die
@@ -3631,17 +3827,20 @@ besonderen Vorschriften der §§ 164 bis 169.
 
 
 #### § 164 Geschäftsführungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020001360)
 
 Die Kommanditisten sind von der Geschäftsführungsbefugnis
 ausgeschlossen; § 116 Absatz 2 Satz 1 bleibt unberührt.
 
 
 #### § 165
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020101360)
 
 Die §§ 117 und 118 finden auf die Kommanditisten keine Anwendung.
 
 
 #### § 166 Informationsrecht der Kommanditisten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020202360)
 
 (1) Der Kommanditist kann von der Gesellschaft eine Abschrift des
 Jahresabschlusses (§ 242 Absatz 3) verlangen und zu dessen Überprüfung
@@ -3656,15 +3855,18 @@ ausschließt oder dieser Vorschrift zuwider beschränkt, ist unwirksam.
 
 
 #### § 167 Verlustbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020301360)
 
 Soweit der Kommanditist die vereinbarte Einlage geleistet hat, sind
 die §§ 136 und 149 auf ihn nicht anzuwenden.
 
 
 #### § 168 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020401360)
 
 
 #### § 169
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020501360)
 
 (1) Der Kommanditist kann die Auszahlung des Gewinns nicht fordern,
 soweit sein Kapitalanteil durch den ihm zugewiesenen Verlust unter den
@@ -3677,6 +3879,7 @@ wegen späterer Verluste zurückzuzahlen.
 
 
 #### § 170 Vertretung der Kommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020601360)
 
 (1) Der Kommanditist ist als solcher nicht befugt, die Gesellschaft zu
 vertreten.
@@ -3689,6 +3892,7 @@ Kapitalgesellschaft von den Kommanditisten wahrgenommen.
 
 
 #### § 171
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020702360)
 
 (1) Der Kommanditist haftet den Gläubigern der Gesellschaft bis zur
 Höhe seiner Haftsumme unmittelbar; die Haftung ist ausgeschlossen,
@@ -3701,6 +3905,7 @@ Insolvenzverwalter oder den Sachwalter ausgeübt.
 
 
 #### § 172
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020802360)
 
 (1) Im Verhältnisse zu den Gläubigern der Gesellschaft wird nach der
 Eintragung in das Handelsregister die Haftsumme eines Kommanditisten
@@ -3734,11 +3939,13 @@ ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
 
 #### § 172a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE038201140)
 
 -
 
 
 #### § 173
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE020900300)
 
 (1) Wer in eine bestehende Handelsgesellschaft als Kommanditist
 eintritt, haftet nach Maßgabe der §§ 171 und 172 für die vor seinem
@@ -3750,6 +3957,7 @@ unwirksam.
 
 
 #### § 174
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE021001360)
 
 Eine Herabsetzung der Haftsumme eines Kommanditisten ist, solange sie
 nicht in das Handelsregister des Gerichts, in dessen Bezirke die
@@ -3760,6 +3968,7 @@ lassen.
 
 
 #### § 175 Anmeldung der Änderung der Haftsumme
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114400360)
 
 Die Erhöhung sowie die Herabsetzung einer Haftsumme ist durch
 sämtliche Gesellschafter zur Eintragung in das Handelsregister
@@ -3767,6 +3976,7 @@ anzumelden.
 
 
 #### § 176
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE021202360)
 
 (1) Hat die Gesellschaft, deren Zweck auf den Betrieb eines
 Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist, am
@@ -3784,12 +3994,14 @@ begründeten Verbindlichkeiten entsprechend anzuwenden.
 
 
 #### § 177
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE021301307)
 
 Beim Tod eines Kommanditisten wird die Gesellschaft mangels
 abweichender vertraglicher Bestimmung mit den Erben fortgesetzt.
 
 
 #### § 177a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE021404360)
 
 § 125 gilt auch für die Gesellschaft, bei der ein Kommanditist eine
 natürliche Person ist. Der in § 125 Absatz 1 Satz 2 für die
@@ -3798,11 +4010,13 @@ persönlich haftenden Gesellschafter der Gesellschaft.
 
 
 #### § 178 Liquidation der Kommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114900360)
 
 § 144 Absatz 1 findet auf die Kommanditisten keine Anwendung.
 
 
 #### § 179 Insolvenz der Kommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115000360)
 
 § 130 Absatz 1 Nummer 3 findet keine Anwendung, wenn der
 Gesellschafter, über dessen Vermögen das Insolvenzverfahren eröffnet
@@ -3826,14 +4040,17 @@ Abweisungsentscheidung ein.
 
 
 #### (XXXX) §§ 180 bis 229 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE021602360)
 
 
 
 ### Dritter Abschnitt - Stille Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG021901306)
 
 
 
 #### § 230
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022001306)
 
 (1) Wer sich als stiller Gesellschafter an dem Handelsgewerbe, das ein
 anderer betreibt, mit einer Vermögenseinlage beteiligt, hat die
@@ -3845,6 +4062,7 @@ allein berechtigt und verpflichtet.
 
 
 #### § 231
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022101306)
 
 (1) Ist der Anteil des stillen Gesellschafters am Gewinn und Verluste
 nicht bestimmt, so gilt ein den Umständen nach angemessener Anteil als
@@ -3856,6 +4074,7 @@ Beteiligung am Gewinne kann nicht ausgeschlossen werden.
 
 
 #### § 232
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022201306)
 
 (1) Am Schlusse jedes Geschäftsjahrs wird der Gewinn und Verlust
 berechnet und der auf den stillen Gesellschafter fallende Gewinn ihm
@@ -3874,12 +4093,14 @@ vereinbart ist.
 
 
 #### § 233 Informationsrecht des stillen Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022302360)
 
 Auf das Informationsrecht des stillen Gesellschafters ist § 166
 entsprechend anzuwenden.
 
 
 #### § 234
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022402360)
 
 (1) Auf die Kündigung der Gesellschaft durch einen der Gesellschafter
 oder durch einen Gläubiger des stillen Gesellschafters finden die
@@ -3890,6 +4111,7 @@ nicht aufgelöst.
 
 
 #### § 235
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022501306)
 
 (1) Nach der Auflösung der Gesellschaft hat sich der Inhaber des
 Handelsgeschäfts mit dem stillen Gesellschafter auseinanderzusetzen
@@ -3907,6 +4129,7 @@ verlangen.
 
 
 #### § 236
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022602307)
 
 (1) Wird über das Vermögen des Inhabers des Handelsgeschäfts das
 Insolvenzverfahren eröffnet, so kann der stille Gesellschafter wegen
@@ -3920,22 +4143,27 @@ erforderlich ist, zur Insolvenzmasse einzuzahlen.
 
 
 #### § 237 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE022702307)
 
 
 
 ## Drittes Buch - Handelsbücher
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000100306)
 
 
 
 ### Erster Abschnitt - Vorschriften für alle Kaufleute
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000200306)
 
 
 
 #### Erster Unterabschnitt - Buchführung. Inventar
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000300306)
 
 
 
 ##### § 238 Buchführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003300306)
 
 (1) Jeder Kaufmann ist verpflichtet, Bücher zu führen und in diesen
 seine Handelsgeschäfte und die Lage seines Vermögens nach den
@@ -3953,6 +4181,7 @@ Schrift-, Bild- oder anderen Datenträger) zurückzubehalten.
 
 
 ##### § 239 Führung der Handelsbücher
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003400306)
 
 (1) Bei der Führung der Handelsbücher und bei den sonst erforderlichen
 Aufzeichnungen hat sich der Kaufmann einer lebenden Sprache zu
@@ -3982,6 +4211,7 @@ bis 3 gelten sinngemäß.
 
 
 ##### § 240 Inventar
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086500307)
 
 (1) Jeder Kaufmann hat zu Beginn seines Handelsgewerbes seine
 Grundstücke, seine Forderungen und Schulden, den Betrag seines baren
@@ -4012,6 +4242,7 @@ werden.
 
 
 ##### § 241 Inventurvereinfachungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003600306)
 
 (1) Bei der Aufstellung des Inventars darf der Bestand der
 Vermögensgegenstände nach Art, Menge und Wert auch mit Hilfe
@@ -4054,6 +4285,7 @@ Vermögensgegenstände nicht verzeichnet zu werden, wenn
 
 
 ##### § 241a Befreiung von der Pflicht zur Buchführung und Erstellung eines Inventars
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099803125)
 
 Einzelkaufleute, die an den Abschlussstichtagen von zwei aufeinander
 folgenden Geschäftsjahren nicht mehr als jeweils 800 000 Euro
@@ -4065,14 +4297,17 @@ werden.
 
 
 #### Zweiter Unterabschnitt - Eröffnungsbilanz. Jahresabschluß
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000400306)
 
 
 
 ##### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000500306)
 
 
 
 ###### § 242 Pflicht zur Aufstellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003701140)
 
 (1) Der Kaufmann hat zu Beginn seines Handelsgewerbes und für den
 Schluß eines jeden Geschäftsjahrs einen das Verhältnis seines
@@ -4095,6 +4330,7 @@ Abschlussstichtag nach der Neugründung nicht überschritten werden.
 
 
 ###### § 243 Aufstellungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE003800306)
 
 (1) Der Jahresabschluß ist nach den Grundsätzen ordnungsmäßiger
 Buchführung aufzustellen.
@@ -4106,11 +4342,13 @@ Geschäftsgang entsprechenden Zeit aufzustellen.
 
 
 ###### § 244 Sprache. Währungseinheit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088200307)
 
 Der Jahresabschluß ist in deutscher Sprache und in Euro aufzustellen.
 
 
 ###### § 245 Unterzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004000306)
 
 Der Jahresabschluß ist vom Kaufmann unter Angabe des Datums zu
 unterzeichnen. Sind mehrere persönlich haftende Gesellschafter
@@ -4118,10 +4356,12 @@ vorhanden, so haben sie alle zu unterzeichnen.
 
 
 ##### Zweiter Titel - Ansatzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000600306)
 
 
 
 ###### § 246 Vollständigkeit. Verrechnungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004105140)
 
 (1) Der Jahresabschluss hat sämtliche Vermögensgegenstände, Schulden,
 Rechnungsabgrenzungsposten sowie Aufwendungen und Erträge zu
@@ -4155,6 +4395,7 @@ anzuwenden.
 
 
 ###### § 247 Inhalt der Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004202140)
 
 (1) In der Bilanz sind das Anlage- und das Umlaufvermögen, das
 Eigenkapital, die Schulden sowie die Rechnungsabgrenzungsposten
@@ -4167,6 +4408,7 @@ bestimmt sind, dauernd dem Geschäftsbetrieb zu dienen.
 
 
 ###### § 248 Bilanzierungsverbote und -wahlrechte
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004302140)
 
 (1) In die Bilanz dürfen nicht als Aktivposten aufgenommen werden:
 
@@ -4189,6 +4431,7 @@ immaterielle Vermögensgegenstände des Anlagevermögens.
 
 
 ###### § 249 Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004401140)
 
 (1) Rückstellungen sind für ungewisse Verbindlichkeiten und für
 drohende Verluste aus schwebenden Geschäften zu bilden. Ferner sind
@@ -4210,6 +4453,7 @@ aufgelöst werden, soweit der Grund hierfür entfallen ist.
 
 
 ###### § 250 Rechnungsabgrenzungsposten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004501140)
 
 (1) Als Rechnungsabgrenzungsposten sind auf der Aktivseite Ausgaben
 vor dem Abschlußstichtag auszuweisen, soweit sie Aufwand für eine
@@ -4228,6 +4472,7 @@ werden können.
 
 
 ###### § 251 Haftungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004600306)
 
 Unter der Bilanz sind, sofern sie nicht auf der Passivseite
 auszuweisen sind, Verbindlichkeiten aus der Begebung und Übertragung
@@ -4240,10 +4485,12 @@ gegenüberstehen.
 
 
 ##### Dritter Titel - Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000700306)
 
 
 
 ###### § 252 Allgemeine Bewertungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004701140)
 
 (1) Bei der Bewertung der im Jahresabschluß ausgewiesenen
 Vermögensgegenstände und Schulden gilt insbesondere folgendes:
@@ -4286,6 +4533,7 @@ Ausnahmefällen abgewichen werden.
 
 
 ###### § 253 Zugangs- und Folgebewertung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004807360)
 
 (1) Vermögensgegenstände sind höchstens mit den Anschaffungs- oder
 Herstellungskosten, vermindert um die Abschreibungen nach den Absätzen
@@ -4375,6 +4623,7 @@ darzustellen.
 
 
 ###### § 254 Bildung von Bewertungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE004901140)
 
 Werden Vermögensgegenstände, Schulden, schwebende Geschäfte oder mit
 hoher Wahrscheinlichkeit erwartete Transaktionen zum Ausgleich
@@ -4389,6 +4638,7 @@ Veräußerung von Waren.
 
 
 ###### § 255 Bewertungsmaßstäbe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005002360)
 
 (1) Anschaffungskosten sind die Aufwendungen, die geleistet werden, um
 einen Vermögensgegenstand zu erwerben und ihn in einen
@@ -4444,6 +4694,7 @@ Anschaffungs- oder Herstellungskosten im Sinn des Satzes 3.
 
 
 ###### § 256 Bewertungsvereinfachungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005101140)
 
 Soweit es den Grundsätzen ordnungsmäßiger Buchführung entspricht, kann
 für den Wertansatz gleichartiger Vermögensgegenstände des
@@ -4454,6 +4705,7 @@ den Jahresabschluß anwendbar.
 
 
 ###### § 256a Währungsumrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099900140)
 
 Auf fremde Währung lautende Vermögensgegenstände und Verbindlichkeiten
 sind zum Devisenkassamittelkurs am Abschlussstichtag umzurechnen. Bei
@@ -4462,11 +4714,13 @@ einer Restlaufzeit von einem Jahr oder weniger sind § 253 Abs. 1 Satz
 
 
 #### Dritter Unterabschnitt - Aufbewahrung und Vorlage
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000800306)
 
 
 Aufbewahrung von Unterlagen
 
 ##### § 257 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005203125)
 
 (1) Jeder Kaufmann ist verpflichtet, die folgenden Unterlagen geordnet
 aufzubewahren:
@@ -4528,6 +4782,7 @@ worden oder der Buchungsbeleg entstanden ist.
 Vorlegung im
 
 ##### § 258 
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005300306)
 
 (1) Im Laufe eines Rechtsstreits kann das Gericht auf Antrag oder von
 Amts wegen die Vorlegung der Handelsbücher einer Partei anordnen.
@@ -4537,6 +4792,7 @@ Prozeßgegners zur Vorlegung von Urkunden bleiben unberührt.
 
 
 ##### § 259 Auszug bei Vorlegung im Rechtsstreit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005400306)
 
 Werden in einem Rechtsstreit Handelsbücher vorgelegt, so ist von ihrem
 Inhalt, soweit er den Streitpunkt betrifft, unter Zuziehung der
@@ -4547,6 +4803,7 @@ notwendig ist.
 
 
 ##### § 260 Vorlegung bei Auseinandersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005500306)
 
 Bei Vermögensauseinandersetzungen, insbesondere in Erbschafts-,
 Gütergemeinschafts- und Gesellschaftsteilungssachen, kann das Gericht
@@ -4555,6 +4812,7 @@ Inhalt anordnen.
 
 
 ##### § 261 Vorlegung von Unterlagen auf Bild- oder Datenträgern
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005600306)
 
 Wer aufzubewahrende Unterlagen nur in der Form einer Wiedergabe auf
 einem Bildträger oder auf anderen Datenträgern vorlegen kann, ist
@@ -4566,14 +4824,17 @@ beizubringen.
 
 
 #### Vierter Unterabschnitt - Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG000901307)
 
 
 
 ##### § 262 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005701307)
 
 
 
 ##### § 263 Vorbehalt landesrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005800306)
 
 Unberührt bleiben bei Unternehmen ohne eigene Rechtspersönlichkeit
 einer Gemeinde, eines Gemeindeverbands oder eines Zweckverbands
@@ -4582,18 +4843,22 @@ Abschnitts abweichen.
 
 
 ### Zweiter Abschnitt - Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001001305)
 
 
 
 #### Erster Unterabschnitt - Jahresabschluß der Kapitalgesellschaft und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001100306)
 
 
 
 ##### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001200306)
 
 
 
 ###### § 264 Pflicht zur Aufstellung; Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE005917360)
 
 (1) Die gesetzlichen Vertreter einer Kapitalgesellschaft haben den
 Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der
@@ -4748,6 +5013,7 @@ worden ist; § 314 Absatz 3 bleibt unberührt.
 
 
 ###### § 264a Anwendung auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097500305)
 
 (1) Die Vorschriften des Ersten bis Fünften Unterabschnitts des
 Zweiten Abschnitts sind auch anzuwenden auf offene
@@ -4773,6 +5039,7 @@ vertretungsberechtigten Gesellschaften.
 
 
 ###### § 264b Befreiung der offenen Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a von der Anwendung der Vorschriften dieses Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097605360)
 
 Eine Personenhandelsgesellschaft im Sinne des § 264a Absatz 1, die
 nicht im Sinne des § 264d kapitalmarktorientiert ist, ist von der
@@ -4814,6 +5081,7 @@ und offenzulegen, wenn alle folgenden Voraussetzungen erfüllt sind:
 
 
 ###### § 264c Besondere Bestimmungen für offene Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097703360)
 
 (1) Ausleihungen, Forderungen und Verbindlichkeiten gegenüber
 Gesellschaftern sind in der Regel als solche jeweils gesondert
@@ -4885,6 +5153,7 @@ der Bilanzposten nach den vorstehenden Absätzen bleibt unberührt.
 
 
 ###### § 264d Kapitalmarktorientierte Kapitalgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100002123)
 
 Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen
 organisierten Markt im Sinn des § 2 Absatz 11 des
@@ -4895,6 +5164,7 @@ organisierten Markt beantragt hat.
 
 
 ###### § 265 Allgemeine Grundsätze für die Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006002360)
 
 (1) Die Form der Darstellung, insbesondere die Gliederung der
 aufeinanderfolgenden Bilanzen und Gewinn- und Verlustrechnungen, ist
@@ -4956,10 +5226,12 @@ Betrag ausgewiesen wurde.
 
 
 ##### Zweiter Titel - Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001300306)
 
 
 
 ###### § 266 Gliederung der Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006104360)
 
 (1) Die Bilanz ist in Kontoform aufzustellen. Dabei haben mittelgroße
 und große Kapitalgesellschaften (§ 267 Absatz 2 und 3) auf der
@@ -5207,6 +5479,7 @@ E.  Passive latente Steuern.
 
 
 ###### § 267 Umschreibung der Größenklassen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006210360)
 
 (1) Kleine Kapitalgesellschaften sind solche, die mindestens zwei der
 drei nachstehenden Merkmale nicht überschreiten:
@@ -5271,6 +5544,7 @@ nach anderen Gesetzen bleiben unberührt.
 
 
 ###### § 267a Kleinstkapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100402360)
 
 (1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften,
 die mindestens zwei der drei nachstehenden Merkmale nicht
@@ -5317,6 +5591,7 @@ geregelt ist.
 Vorschriften zu einzelnen Posten der Bilanz
 
 ###### § 268 Bilanzvermerke
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006302360)
 
 (1) Die Bilanz darf auch unter Berücksichtigung der vollständigen oder
 teilweisen Verwendung des Jahresergebnisses aufgestellt werden. Wird
@@ -5390,10 +5665,12 @@ anzuwenden, der die Anschaffungskosten übersteigt.
 
 
 ###### § 269 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006403140)
 
 
 
 ###### § 270 Bildung bestimmter Posten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006501140)
 
 (1) Einstellungen in die Kapitalrücklage und deren Auflösung sind
 bereits bei der Aufstellung der Bilanz vorzunehmen.
@@ -5407,6 +5684,7 @@ bei der Aufstellung der Bilanz zu berücksichtigen.
 
 
 ###### § 271 Beteiligungen. Verbundene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006604360)
 
 (1) Beteiligungen sind Anteile an anderen Unternehmen, die bestimmt
 sind, dem eigenen Geschäftsbetrieb durch Herstellung einer dauernden
@@ -5429,6 +5707,7 @@ Unternehmen.
 
 
 ###### § 272 Eigenkapital
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006705123)
 
 (1) Gezeichnetes Kapital ist mit dem Nennbetrag anzusetzen. Die nicht
 eingeforderten ausstehenden Einlagen auf das gezeichnete Kapital sind
@@ -5505,10 +5784,12 @@ ihre Zahlung erwirbt.
 
 
 ###### § 273 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006801140)
 
 
 
 ###### § 274 Latente Steuern
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE006902360)
 
 (1) Bestehen zwischen den handelsrechtlichen Wertansätzen von
 Vermögensgegenständen, Schulden und Rechnungsabgrenzungsposten und
@@ -5552,6 +5833,7 @@ aus der Anwendung folgender Gesetze nicht zu berücksichtigen:
 
 
 ###### § 274a Größenabhängige Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086603360)
 
 Kleine Kapitalgesellschaften sind von der Anwendung der folgenden
 Vorschriften befreit:
@@ -5574,10 +5856,12 @@ Vorschriften befreit:
 
 
 ##### Dritter Titel - Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001400306)
 
 
 
 ###### § 275 Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007003360)
 
 (1) Die Gewinn- und Verlustrechnung ist in Staffelform nach dem
 Gesamtkostenverfahren oder dem Umsatzkostenverfahren aufzustellen.
@@ -5779,6 +6063,7 @@ wie folgt darstellen:
 
 
 ###### § 276 Größenabhängige Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007103360)
 
 Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen
 die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu
@@ -5789,6 +6074,7 @@ Absatz 5 Gebrauch machen.
 
 
 ###### § 277 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007202360)
 
 (1) Als Umsatzerlöse sind die Erlöse aus dem Verkauf und der
 Vermietung oder Verpachtung von Produkten sowie aus der Erbringung von
@@ -5821,22 +6107,27 @@ auszuweisen.
 
 
 ###### § 278 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007302360)
 
 
 
 ##### Vierter Titel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001501140)
 
 
 
 ###### (XXXX) §§ 279 bis 283 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007401140)
 
 
 
 ##### Fünfter Titel - Anhang
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001600306)
 
 
 
 ###### § 284 Erläuterung der Bilanz und der Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE007902360)
 
 (1) In den Anhang sind diejenigen Angaben aufzunehmen, die zu den
 einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung
@@ -5896,6 +6187,7 @@ Betrag an Zinsen im Geschäftsjahr aktiviert worden ist.
 
 
 ###### § 285 Sonstige Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008016360)
 
 Ferner sind im Anhang anzugeben:
 
@@ -6265,6 +6557,7 @@ Ferner sind im Anhang anzugeben:
 
 
 ###### § 286 Unterlassen von Angaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008109360)
 
 (1) Die Berichterstattung hat insoweit zu unterbleiben, als es für das
 Wohl der Bundesrepublik Deutschland oder eines ihrer Länder
@@ -6310,10 +6603,12 @@ Organe feststellen lassen.
 
 
 ###### § 287 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008204140)
 
 
 
 ###### § 288 Größenabhängige Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008305360)
 
 (1) Kleine Kapitalgesellschaften (§ 267 Absatz 1) brauchen nicht
 
@@ -6345,10 +6640,12 @@ oder Verwaltungsorgans abgeschlossen wurden.
 
 
 ##### Sechster Titel - Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001700306)
 
 
 
 ###### § 289 Inhalt des Lageberichts
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008411360)
 
 (1) Im Lagebericht sind der Geschäftsverlauf einschließlich des
 Geschäftsergebnisses und die Lage der Kapitalgesellschaft so
@@ -6419,6 +6716,7 @@ beschreiben.
 
 
 ###### § 289a Ergänzende Vorgaben für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE112902360)
 
 Aktiengesellschaften und Kommanditgesellschaften auf Aktien, die einen
 organisierten Markt im Sinne des § 2 Absatz 7 des Wertpapiererwerbs-
@@ -6477,6 +6775,7 @@ nach anderen gesetzlichen Vorschriften bleibt unberührt.
 
 
 ###### § 289b Pflicht zur nichtfinanziellen Erklärung; Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113001123)
 
 (1) Eine Kapitalgesellschaft hat ihren Lagebericht um eine
 nichtfinanzielle Erklärung zu erweitern, wenn sie die folgenden
@@ -6566,6 +6865,7 @@ Bericht öffentlich zugänglich zu machen.
 
 
 ###### § 289c Inhalt der nichtfinanziellen Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113100123)
 
 (1) In der nichtfinanziellen Erklärung im Sinne des § 289b ist das
 Geschäftsmodell der Kapitalgesellschaft kurz zu beschreiben.
@@ -6656,6 +6956,7 @@ zu erläutern.
 
 
 ###### § 289d Nutzung von Rahmenwerken
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113200123)
 
 Die Kapitalgesellschaft kann für die Erstellung der nichtfinanziellen
 Erklärung nationale, europäische oder internationale Rahmenwerke
@@ -6666,6 +6967,7 @@ sowie andernfalls, warum kein Rahmenwerk genutzt wurde.
 
 
 ###### § 289e Weglassen nachteiliger Angaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113300123)
 
 (1) Die Kapitalgesellschaft muss in die nichtfinanzielle Erklärung
 ausnahmsweise keine Angaben zu künftigen Entwicklungen oder Belangen,
@@ -6692,6 +6994,7 @@ folgende nichtfinanzielle Erklärung aufzunehmen.
 
 
 ###### § 289f Erklärung zur Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100106360)
 
 (1) Börsennotierte Aktiengesellschaften sowie Aktiengesellschaften,
 die ausschließlich andere Wertpapiere als Aktien zum Handel an einem
@@ -6794,14 +7097,17 @@ Erklärung zur Unternehmensführung zu erläutern.
 
 
 #### Zweiter Unterabschnitt - Konzernabschluß und Konzernlagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001800306)
 
 
 
 ##### Erster Titel - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG001900306)
 
 
 
 ###### § 290 Pflicht zur Aufstellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008506360)
 
 (1) Die gesetzlichen Vertreter einer Kapitalgesellschaft
 (Mutterunternehmen) mit Sitz im Inland haben in den ersten fünf
@@ -6892,6 +7198,7 @@ einbezogen werden brauchen.
 
 
 ###### § 291 Befreiende Wirkung von EU/EWR-Konzernabschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008610360)
 
 (1) Ein Mutterunternehmen, das zugleich Tochterunternehmen eines
 Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen
@@ -6993,6 +7300,7 @@ Anspruch genommen werden, wenn
 
 
 ###### § 292 Befreiende Wirkung von Konzernabschlüssen aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008712360)
 
 (1) Ein Mutterunternehmen, das zugleich Tochterunternehmen eines
 Mutterunternehmens mit Sitz in einem Staat ist, der nicht Mitglied der
@@ -7103,10 +7411,12 @@ Befreiung von der Eintragungsverpflichtung offenzulegen.
 
 
 ###### § 292a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086902277)
 
 
 
 ###### § 293 Größenabhängige Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008811360)
 
 (1) Ein Mutterunternehmen ist von der Pflicht, einen Konzernabschluß
 und einen Konzernlagebericht aufzustellen, befreit, wenn
@@ -7182,10 +7492,12 @@ Unterabschnitts des Vierten Abschnitts unterworfen ist.
 
 
 ##### Zweiter Titel - Konsolidierungskreis
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002000306)
 
 
 
 ###### § 294 Einzubeziehende Unternehmen Vorlage- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE008904123)
 
 (1) In den Konzernabschluß sind das Mutterunternehmen und alle
 Tochterunternehmen ohne Rücksicht auf den Sitz und die Rechtsform der
@@ -7212,10 +7524,12 @@ des gesonderten nichtfinanziellen Konzernberichts erfordert.
 
 
 ###### § 295 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009001377)
 
 
 
 ###### § 296 Verzicht auf die Einbeziehung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009101360)
 
 (1) Ein Tochterunternehmen braucht in den Konzernabschluß nicht
 einbezogen zu werden, wenn
@@ -7250,10 +7564,12 @@ begründen.
 
 
 ##### Dritter Titel - Inhalt und Form des Konzernabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002100306)
 
 
 
 ###### § 297 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009209360)
 
 (1) Der Konzernabschluss besteht aus der Konzernbilanz, der Konzern-
 Gewinn- und Verlustrechnung, dem Konzernanhang, der
@@ -7294,6 +7610,7 @@ anzugeben.
 Anzuwendende Vorschriften
 
 ###### § 298 Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009304360)
 
 (1) Auf den Konzernabschluß sind, soweit seine Eigenart keine
 Abweichung bedingt oder in den folgenden Vorschriften nichts anderes
@@ -7314,6 +7631,7 @@ beziehen.
 
 
 ###### § 299 Stichtag für die Aufstellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009401377)
 
 (1) Der Konzernabschluss ist auf den Stichtag des Jahresabschlusses
 des Mutterunternehmens aufzustellen.
@@ -7339,11 +7657,13 @@ Konzernanhang anzugeben.
 
 
 ##### Vierter Titel - Vollkonsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002200306)
 
 
 Konsolidierungsgrundsätze
 
 ###### § 300 Vollständigkeitsgebot
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009502140)
 
 (1) In dem Konzernabschluß ist der Jahresabschluß des
 Mutterunternehmens mit den Jahresabschlüssen der Tochterunternehmen
@@ -7372,6 +7692,7 @@ hinzuweisen.
 
 
 ###### § 301 Kapitalkonsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009603360)
 
 (1) Der Wertansatz der dem Mutterunternehmen gehörenden Anteile an
 einem in den Konzernabschluß einbezogenen Tochterunternehmen wird mit
@@ -7415,10 +7736,12 @@ rechnerischen Wert, in der Vorspalte offen von dem Posten
 
 
 ###### § 302 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009702140)
 
 
 
 ###### § 303 Schuldenkonsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009800306)
 
 (1) Ausleihungen und andere Forderungen, Rückstellungen und
 Verbindlichkeiten zwischen den in den Konzernabschluß einbezogenen
@@ -7432,6 +7755,7 @@ Ertragslage des Konzerns nur von untergeordneter Bedeutung sind.
 
 
 ###### § 304 Behandlung der Zwischenergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE009901377)
 
 (1) In den Konzernabschluß zu übernehmende Vermögensgegenstände, die
 ganz oder teilweise auf Lieferungen oder Leistungen zwischen in den
@@ -7450,6 +7774,7 @@ ist.
 
 
 ###### § 305 Aufwands- und Ertragskonsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010000306)
 
 (1) In der Konzern-Gewinn- und Verlustrechnung sind
 
@@ -7476,6 +7801,7 @@ sind.
 
 
 ###### § 306 Latente Steuern
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010102360)
 
 Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt
 worden sind, zu Differenzen zwischen den handelsrechtlichen
@@ -7499,6 +7825,7 @@ zusammengefasst werden.
 
 
 ###### § 307 Anteile anderer Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010202360)
 
 (1) In der Konzernbilanz ist für nicht dem Mutterunternehmen gehörende
 Anteile an in den Konzernabschluß einbezogenen Tochterunternehmen ein
@@ -7514,10 +7841,12 @@ beherrschende Anteile“ gesondert auszuweisen.
 
 
 ##### Fünfter Titel - Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002300306)
 
 
 
 ###### § 308 Einheitliche Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010301377)
 
 (1) Die in den Konzernabschluß nach § 300 Abs. 2 übernommenen
 Vermögensgegenstände und Schulden der in den Konzernabschluß
@@ -7555,6 +7884,7 @@ sind im Konzernanhang anzugeben und zu begründen.
 
 
 ###### § 308a Umrechnung von auf fremde Währung lautenden Abschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100200140)
 
 Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz
 sind, mit Ausnahme des Eigenkapitals, das zum historischen Kurs in
@@ -7569,6 +7899,7 @@ Höhe erfolgswirksam aufzulösen.
 
 
 ###### § 309 Behandlung des Unterschiedsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010403360)
 
 (1) Die Abschreibung eines nach § 301 Abs. 3 auszuweisenden Geschäfts-
 oder Firmenwertes bestimmt sich nach den Vorschriften des Ersten
@@ -7581,10 +7912,12 @@ den Vorschriften des Ersten Abschnitts entspricht.
 
 
 ##### Sechster Titel - Anteilmäßige Konsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002400306)
 
 
 
 ###### § 310 Anteilmäßige Konsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010502360)
 
 (1) Führt ein in einen Konzernabschluß einbezogenes Mutter- oder
 Tochterunternehmen ein anderes Unternehmen gemeinsam mit einem oder
@@ -7598,10 +7931,12 @@ gehören.
 
 
 ##### Siebenter Titel - Assoziierte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002500306)
 
 
 
 ###### § 311 Definition. Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010600306)
 
 (1) Wird von einem in den Konzernabschluß einbezogenen Unternehmen ein
 maßgeblicher Einfluß auf die Geschäfts- und Finanzpolitik eines nicht
@@ -7621,6 +7956,7 @@ Konzerns von untergeordneter Bedeutung ist.
 
 
 ###### § 312 Wertansatz der Beteiligung und Behandlung des Unterschiedsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010703119)
 
 (1) Eine Beteiligung an einem assoziierten Unternehmen ist in der
 Konzernbilanz mit dem Buchwert anzusetzen. Der Unterschiedsbetrag
@@ -7673,10 +8009,12 @@ Jahresabschluß des assoziierten Unternehmens auszugehen.
 
 
 ##### Achter Titel - Konzernanhang
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002600306)
 
 
 
 ###### § 313 Erläuterung der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung. Angaben zum Beteiligungsbesitz.
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010809360)
 
 (1) In den Konzernanhang sind diejenigen Angaben aufzunehmen, die zu
 einzelnen Posten der Konzernbilanz oder der Konzern-Gewinn- und
@@ -7785,6 +8123,7 @@ Unternehmen seinen Jahresabschluss nicht offenlegt.
 
 
 ###### § 314 Sonstige Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE010916360)
 
 (1) Im Konzernanhang sind ferner anzugeben:
 
@@ -8110,10 +8449,12 @@ gilt § 286 Absatz 4 entsprechend.
 
 
 ##### Neunter Titel - Konzernlagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002700306)
 
 
 
 ###### § 315 Inhalt des Konzernlageberichts
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011010360)
 
 (1) Im Konzernlagebericht sind der Geschäftsverlauf einschließlich des
 Geschäftsergebnisses und die Lage des Konzerns so darzustellen, dass
@@ -8188,6 +8529,7 @@ Anhang ist entsprechend anzuwenden.
 
 
 ###### § 315a Ergänzende Vorschriften für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113402360)
 
 Mutterunternehmen (§ 290), die einen organisierten Markt im Sinne des
 § 2 Absatz 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von
@@ -8247,6 +8589,7 @@ Vorschriften bleibt unberührt.
 
 
 ###### § 315b Pflicht zur nichtfinanziellen Konzernerklärung; Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113501123)
 
 (1) Eine Kapitalgesellschaft, die Mutterunternehmen (§ 290) ist, hat
 ihren Konzernlagebericht um eine nichtfinanzielle Konzernerklärung zu
@@ -8347,6 +8690,7 @@ Konzernbericht öffentlich zugänglich zu machen.
 
 
 ###### § 315c Inhalt der nichtfinanziellen Konzernerklärung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113600123)
 
 (1) Auf den Inhalt der nichtfinanziellen Konzernerklärung ist § 289c
 entsprechend anzuwenden.
@@ -8361,6 +8705,7 @@ erforderlich sind.
 
 
 ###### § 315d Konzernerklärung zur Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113700123)
 
 Ein Mutterunternehmen, das eine Gesellschaft im Sinne des § 289f
 Absatz 1 oder Absatz 3 ist, hat für den Konzern eine Erklärung zur
@@ -8369,10 +8714,12 @@ Konzernlagebericht aufzunehmen. § 289f ist entsprechend anzuwenden.
 
 
 ##### Zehnter Titel - Konzernabschluss nach internationalen Rechnungslegungsstandards
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040200377)
 
 
 
 ###### § 315e
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE098207360)
 
 (1) Ist ein Mutterunternehmen, das nach den Vorschriften des Ersten
 Titels einen Konzernabschluss aufzustellen hat, nach Artikel 4 der
@@ -8407,10 +8754,12 @@ Absatz 1 genannten Standards und Vorschriften vollständig zu befolgen.
 
 
 #### Dritter Unterabschnitt - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002800306)
 
 
 
 ##### § 316 Pflicht zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011102360)
 
 (1) Der Jahresabschluß und der Lagebericht von Kapitalgesellschaften,
 die nicht kleine im Sinne des § 267 Abs. 1 sind, sind durch einen
@@ -8437,6 +8786,7 @@ Offenlegung erstellt hat.
 
 
 ##### § 316a Abschlussprüfung bei Unternehmen von öffentlichem Interesse
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE113900360)
 
 Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen
 von öffentlichem Interesse sind, sind die Vorschriften dieses
@@ -8473,6 +8823,7 @@ Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S.
 
 
 ##### § 317 Gegenstand und Umfang der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011212360)
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung
 einzubeziehen. Die Prüfung des Jahresabschlusses und des
@@ -8582,6 +8933,7 @@ Umfang der Abschlussprüfung bedingt ist und den in den Absätzen 1 bis
 
 
 ##### § 318 Bestellung und Abberufung des Abschlußprüfers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011311360)
 
 (1) Der Abschlußprüfer des Jahresabschlusses wird von den
 Gesellschaftern gewählt; den Abschlußprüfer des Konzernabschlusses
@@ -8695,6 +9047,7 @@ Prüfungsauftrages zu unterrichten.
 
 
 ##### § 319 Auswahl der Abschlussprüfer und Ausschlussgründe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011408123)
 
 (1) Abschlussprüfer können Wirtschaftsprüfer und
 Wirtschaftsprüfungsgesellschaften sein. Abschlussprüfer von
@@ -8804,10 +9157,12 @@ Abschlussprüfer des Konzernabschlusses entsprechend anzuwenden.
 
 
 ##### § 319a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE098303360)
 
 
 
 ##### § 319b Netzwerk
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100301360)
 
 (1) Ein Abschlussprüfer ist von der Abschlussprüfung ausgeschlossen,
 wenn ein Mitglied seines Netzwerks einen Ausschlussgrund nach § 319
@@ -8824,6 +9179,7 @@ entsprechend anzuwenden.
 
 
 ##### § 320 Vorlagepflicht. Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011505360)
 
 (1) Die gesetzlichen Vertreter der Kapitalgesellschaft haben dem
 Abschlußprüfer den Jahresabschluß, den Lagebericht und den gesonderten
@@ -8884,6 +9240,7 @@ allgemeinen datenschutzrechtlichen Vorschriften stehen.
 
 
 ##### § 321 Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011606360)
 
 (1) Der Abschlußprüfer hat über Art und Umfang sowie über das Ergebnis
 der Prüfung zu berichten; auf den Bericht sind die Sätze 2 und 3 sowie
@@ -8953,6 +9310,7 @@ zur Stellungnahme zuzuleiten.
 
 
 ##### § 321a Offenlegung des Prüfungsberichts in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE098400377)
 
 (1) Wird über das Vermögen der Gesellschaft ein Insolvenzverfahren
 eröffnet oder wird der Antrag auf Eröffnung des Insolvenzverfahren
@@ -8989,6 +9347,7 @@ verpflichtet ist.
 
 
 ##### § 322 Bestätigungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011707360)
 
 (1) Der Abschlussprüfer hat das Ergebnis der Prüfung schriftlich in
 einem Bestätigungsvermerk zum Jahresabschluss oder zum
@@ -9112,6 +9471,7 @@ anzuwenden.
 
 
 ##### § 323 Verantwortlichkeit des Abschlußprüfers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011807360)
 
 (1) Der Abschlußprüfer, seine Gehilfen und die bei der Prüfung
 mitwirkenden gesetzlichen Vertreter einer Prüfungsgesellschaft sind
@@ -9173,6 +9533,7 @@ jeweils zuständige Behörde.
 
 
 ##### § 324 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE011909360)
 
 (1) Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse
 (§ 316a Satz 2) sind und keinen Aufsichts- oder Verwaltungsrat haben,
@@ -9234,6 +9595,7 @@ Informationen aus öffentlich zugänglichen Quellen zurückgreifen.
 
 
 ##### § 324a Anwendung auf den Einzelabschluss nach § 325 Abs. 2a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE098500377)
 
 (1) Die Bestimmungen dieses Unterabschnitts, die sich auf den
 Jahresabschluss beziehen, sind auf einen Einzelabschluss nach § 325
@@ -9248,10 +9610,12 @@ werden.
 
 
 #### Vierter Unterabschnitt - Offenlegung. Prüfung durch die das Unternehmensregister führende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG002903360)
 
 
 
 ##### § 325 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012015360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Kapitalgesellschaft haben für die Gesellschaft folgende Unterlagen,
@@ -9358,6 +9722,7 @@ und § 340l Absatz 2 Satz 6 bleiben unberührt.
 
 
 ##### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083015360)
 
 (1) Bei inländischen Zweigniederlassungen von Kapitalgesellschaften
 mit Sitz in einem anderen Staat haben die in § 13e Absatz 2 Satz 5
@@ -9418,6 +9783,7 @@ offengelegt worden ist.
 
 
 ##### § 326 Größenabhängige Erleichterungen für kleine Kapitalgesellschaften und Kleinstkapitalgesellschaften bei der Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012106360)
 
 (1) Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1
 mit der Maßgabe anzuwenden, daß die Mitglieder des
@@ -9437,6 +9803,7 @@ Absatz 4 maßgeblichen Abschlussstichtage nicht überschreiten.
 
 
 ##### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012206360)
 
 Auf mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) ist § 325 Abs. 1
 mit der Maßgabe anzuwenden, daß die Mitglieder des
@@ -9531,6 +9898,7 @@ vertretungsberechtigten Organs
 
 
 ##### § 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099103119)
 
 § 325 Abs. 4 Satz 1 ist auf eine Kapitalgesellschaft nicht anzuwenden,
 wenn sie ausschließlich zum Handel an einem organisierten Markt
@@ -9541,6 +9909,7 @@ begibt.
 
 
 ##### § 328 Form, Format und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012312360)
 
 (1) Bei der Offenlegung des Jahresabschlusses, des Einzelabschlusses
 nach § 325 Absatz 2a, des Konzernabschlusses, des Lage- oder
@@ -9627,6 +9996,7 @@ entsprechend.
 
 
 ##### § 329 Prüfungs- und Unterrichtungspflicht der das Unternehmensregister führenden Stelle
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012406360)
 
 (1) Die das Unternehmensregister führende Stelle prüft, ob die zu
 übermittelnden Unterlagen fristgemäß und vollzählig übermittelt worden
@@ -9657,10 +10027,12 @@ die jeweils für die Durchführung von Ordnungsgeldverfahren nach den §§
 
 
 #### Fünfter Unterabschnitt - Verordnungsermächtigung für Formblätter und andere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG003000306)
 
 
 
 ##### § 330
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE112621360)
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium der Finanzen und dem Bundesministerium für
@@ -9774,14 +10146,17 @@ Versicherungsaufsichtsgesetzes) entsprechend anzuwenden.
 Straf- und Bußgeldvorschriften
 
 #### Sechster Unterabschnitt - Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG003101360)
 
 
 
 ##### Erster Titel - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042100123)
 
 
 
 ###### § 331 Unrichtige Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012707360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -9839,6 +10214,7 @@ Geldstrafe.
 
 
 ###### § 331a Unrichtige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE114000360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 264 Absatz 2 Satz 3, auch in Verbindung mit §
@@ -9852,6 +10228,7 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 ###### § 332 Verletzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012803360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Abschlußprüfer oder Gehilfe eines Abschlußprüfers
@@ -9877,6 +10254,7 @@ oder Geldstrafe.
 
 
 ###### § 333 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE012903360)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis der Kapitalgesellschaft, eines
@@ -9900,6 +10278,7 @@ verwertet.
 
 
 ###### § 333a Verletzung der Pflichten bei Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE112700123)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer als Mitglied eines nach § 324 Absatz 1 Satz 1
@@ -9916,6 +10295,7 @@ eingerichteten Prüfungsausschusses
 
 
 ###### § 334 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013017360)
 
 (1) Ordnungswidrig handelt, wer als Mitglied des
 vertretungsberechtigten Organs oder des Aufsichtsrats einer
@@ -10212,10 +10592,12 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 ##### Zweiter Titel - Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042200123)
 
 
 
 ###### § 335 Festsetzung von Ordnungsgeld; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013121360)
 
 (1) Gegen die Mitglieder des vertretungsberechtigten Organs einer
 Kapitalgesellschaft, die
@@ -10539,6 +10921,7 @@ Bundesamt für Justiz übertragen.
 
 
 ###### § 335a Beschwerde gegen die Festsetzung von Ordnungsgeld; Rechtsbeschwerde; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097805360)
 
 (1) Gegen die Entscheidung, durch die das Ordnungsgeld festgesetzt
 oder der Einspruch oder der Antrag auf Wiedereinsetzung in den vorigen
@@ -10606,10 +10989,12 @@ folgenden Vorschriften entsprechend anzuwenden:
 
 
 ##### Dritter Titel - Gemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042300123)
 
 
 
 ###### § 335b Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097904123)
 
 Die Strafvorschriften der §§ 331 bis 333a, die Bußgeldvorschrift des §
 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene
@@ -10623,6 +11008,7 @@ entsprechend anzuwenden.
 
 
 ###### § 335c Mitteilungen an die Abschlussprüferaufsichtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE112801360)
 
 (1) Das Bundesamt für Justiz übermittelt der
 Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
@@ -10637,10 +11023,12 @@ unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### Dritter Abschnitt - Ergänzende Vorschriften für eingetragene Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG003200306)
 
 
 
 #### § 336 Pflicht zur Aufstellung von Jahresabschluß und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013209360)
 
 (1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242)
 um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und
@@ -10680,6 +11068,7 @@ entsprechend anzuwenden.
 
 
 #### § 337 Vorschriften zur Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013303360)
 
 (1) An Stelle des gezeichneten Kapitals ist der Betrag der
 Geschäftsguthaben der Mitglieder auszuweisen. Dabei ist der Betrag der
@@ -10735,6 +11124,7 @@ gesetzliche Rücklage.
 
 
 #### § 338 Vorschriften zum Anhang
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013407360)
 
 (1) Im Anhang sind auch Angaben zu machen über die Zahl der im Laufe
 des Geschäftsjahrs eingetretenen oder ausgeschiedenen sowie die Zahl
@@ -10779,6 +11169,7 @@ einen Anhang zu erweitern, wenn sie unter der Bilanz angeben:
 
 
 #### § 339 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE013510360)
 
 (1) Der Vorstand hat unverzüglich nach der Generalversammlung über den
 Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des
@@ -10814,18 +11205,22 @@ Vorstands die in Absatz 1 genannten Pflichten zu erfüllen haben.
 
 
 ### Vierter Abschnitt - Ergänzende Vorschriften für bestimmte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG037602360)
 
 
 
 #### Erster Unterabschnitt - Ergänzende Vorschriften für Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungsinstitute und E-Geld-Institute
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038502360)
 
 
 
 ##### Erster Titel - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG037700309)
 
 
 
 ###### § 340
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE082918360)
 
 (1) Dieser Unterabschnitt ist auf Kreditinstitute im Sinne des § 1
 Abs. 1 des Gesetzes über das Kreditwesen anzuwenden, soweit sie nach
@@ -10882,10 +11277,12 @@ oder für Zweigniederlassungen bestehen, bleiben unberührt.
 
 
 ##### Zweiter Titel - Jahresabschluß, Lagebericht, Zwischenabschluß
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG037801301)
 
 
 
 ###### § 340a Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE099705360)
 
 (1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer
 Kapitalgesellschaft betrieben werden, haben auf ihren Jahresabschluß
@@ -10960,6 +11357,7 @@ anzugeben:
 
 
 ###### § 340b Pensionsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083101377)
 
 (1) Pensionsgeschäfte sind Verträge, durch die ein Kreditinstitut oder
 der Kunde eines Kreditinstituts (Pensionsgeber) ihm gehörende
@@ -11009,6 +11407,7 @@ Vorschrift.
 
 
 ###### § 340c Vorschriften zur Gewinn- und Verlustrechnung und zum Anhang
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083204360)
 
 (1) Als Ertrag oder Aufwand des Handelsbestands ist der
 Unterschiedsbetrag aller Erträge und Aufwendungen aus Geschäften mit
@@ -11036,6 +11435,7 @@ und Verlustrechnung anzugeben.
 
 
 ###### § 340d Fristengliederung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083300309)
 
 Die Forderungen und Verbindlichkeiten sind im Anhang nach der
 Fristigkeit zu gliedern. Für die Gliederung nach der Fristigkeit ist
@@ -11043,10 +11443,12 @@ die Restlaufzeit am Bilanzstichtag maßgebend.
 
 
 ##### Dritter Titel - Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG037900309)
 
 
 
 ###### § 340e Bewertung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083403360)
 
 (1) Kreditinstitute haben Beteiligungen einschließlich der Anteile an
 verbundenen Unternehmen, Konzessionen, gewerbliche Schutzrechte und
@@ -11118,6 +11520,7 @@ erläutern.
 
 
 ###### § 340f Vorsorge für allgemeine Bankrisiken
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083501140)
 
 (1) Kreditinstitute dürfen Forderungen an Kreditinstitute und Kunden,
 Schuldverschreibungen und andere festverzinsliche Wertpapiere sowie
@@ -11154,6 +11557,7 @@ nicht gemacht zu werden.
 
 
 ###### § 340g Sonderposten für allgemeine Bankrisiken
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083600309)
 
 (1) Kreditinstitute dürfen auf der Passivseite ihrer Bilanz zur
 Sicherung gegen allgemeine Bankrisiken einen Sonderposten "Fonds für
@@ -11167,10 +11571,12 @@ gesondert auszuweisen.
 
 
 ##### Vierter Titel - Währungsumrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038000309)
 
 
 
 ###### § 340h Währungsumrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084402140)
 
 § 256a gilt mit der Maßgabe, dass Erträge, die sich aus der
 Währungsumrechnung ergeben, in der Gewinn- und Verlustrechnung zu
@@ -11180,10 +11586,12 @@ Termingeschäfte in derselben Währung besonders gedeckt sind.
 
 
 ##### Fünfter Titel - Konzernabschluß, Konzernlagebericht, Konzernzwischenabschluß
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038201301)
 
 
 
 ###### § 340i Pflicht zur Aufstellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE083710360)
 
 (1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer
 Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer Größe
@@ -11263,6 +11671,7 @@ Voraussetzungen für eine Befreiung nicht erfüllen.
 
 
 ###### § 340j Einzubeziehende Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084801377)
 
 Bezieht ein Kreditinstitut ein Tochterunternehmen, das Kreditinstitut
 ist, nach § 296 Abs. 1 Nr. 3 in seinen Konzernabschluß nicht ein und
@@ -11275,10 +11684,12 @@ Bedingungen der finanziellen Stützungsaktion zu machen.
 
 
 ##### Sechster Titel - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038300309)
 
 
 
 ###### § 340k
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084611360)
 
 (1) Kreditinstitute haben unabhängig von ihrer Größe ihren
 Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und
@@ -11377,10 +11788,12 @@ Genossenschaft, auf Sparkassen und auf sonstige landesrechtliche
 
 
 ##### Siebenter Titel - Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038400309)
 
 
 
 ###### § 340l
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084011360)
 
 (1) Kreditinstitute haben den Jahresabschluß und den Lagebericht sowie
 den Konzernabschluß und den Konzernlagebericht und die anderen in §
@@ -11496,10 +11909,12 @@ Maßgaben anzuwenden:
 
 
 ##### Achter Titel - Straf- und Bußgeldvorschriften, Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038501360)
 
 
 
 ###### § 340m Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084106360)
 
 (1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in
 der Rechtsform einer Kapitalgesellschaft betriebene Kreditinstitute,
@@ -11558,6 +11973,7 @@ Verbindung mit § 332 oder § 333 und des Absatzes 2 entsprechend.
 
 
 ###### § 340n Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084218360)
 
 (1) Ordnungswidrig handelt, wer als Geschäftsleiter im Sinne des § 1
 Absatz 2 oder des § 53 Absatz 2 Nummer 1 des Kreditwesengesetzes eines
@@ -11850,6 +12266,7 @@ Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz 2a.
 
 
 ###### § 340o Festsetzung von Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084308360)
 
 (1) Personen, die
 
@@ -11905,14 +12322,17 @@ Folgendes ist:
 
 
 #### Zweiter Unterabschnitt - Ergänzende Vorschriften für Versicherungsunternehmen und Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038601377)
 
 
 
 ##### Erster Titel - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038700307)
 
 
 
 ###### § 341
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE084906360)
 
 (1) Dieser Unterabschnitt ist, soweit nichts anderes bestimmt ist, auf
 Unternehmen, die den Betrieb von Versicherungsgeschäften zum
@@ -11956,10 +12376,12 @@ anzuwenden.
 
 
 ##### Zweiter Titel - Jahresabschluß, Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038800307)
 
 
 
 ###### § 341a Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085008360)
 
 (1) Versicherungsunternehmen haben einen Jahresabschluß und einen
 Lagebericht nach den für große Kapitalgesellschaften geltenden
@@ -12029,10 +12451,12 @@ Satz 2 verlängert sich in den Fällen des Satzes 1 nicht.
 
 
 ##### Dritter Titel - Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG038900307)
 
 
 
 ###### § 341b Bewertung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085104360)
 
 (1) Versicherungsunternehmen haben immaterielle Vermögensgegenstände,
 soweit sie entgeltlich erworben wurden, Grundstücke,
@@ -12071,6 +12495,7 @@ insoweit nicht anzuwenden.
 
 
 ###### § 341c Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085201360)
 
 (1) Abweichend von § 253 Abs. 1 Satz 1 dürfen
 Namensschuldverschreibungen mit ihrem Nennbetrag angesetzt werden.
@@ -12093,6 +12518,7 @@ werden.
 
 
 ###### § 341d Anlagestock der fondsgebundenen Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085301360)
 
 Kapitalanlagen für Rechnung und Risiko von Inhabern von
 Lebensversicherungsverträgen, bei denen das Anlagerisiko vom
@@ -12102,10 +12528,12 @@ Berücksichtigung des Grundsatzes der Vorsicht zu bewerten; die §§
 
 
 ##### Vierter Titel - Versicherungstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039000307)
 
 
 
 ###### § 341e Allgemeine Bilanzierungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085402360)
 
 (1) Versicherungsunternehmen haben versicherungstechnische
 Rückstellungen auch insoweit zu bilden, wie dies nach vernünftiger
@@ -12148,6 +12576,7 @@ Ergebnissen wie Einzelberechnungen führen.
 
 
 ###### § 341f Deckungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085500307)
 
 (1) Deckungsrückstellungen sind für die Verpflichtungen aus dem
 Lebensversicherungs- und dem nach Art der Lebensversicherung
@@ -12179,6 +12608,7 @@ aufsichtsrechtlichen Bestimmungen zu berücksichtigen.
 
 
 ###### § 341g Rückstellung für noch nicht abgewickelte Versicherungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085600307)
 
 (1) Rückstellungen für noch nicht abgewickelte Versicherungsfälle sind
 für die Verpflichtungen aus den bis zum Ende des Geschäftsjahres
@@ -12211,6 +12641,7 @@ versicherungsmathematischen Methoden berechnet werden.
 
 
 ###### § 341h Schwankungsrückstellung und ähnliche Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085700307)
 
 (1) Schwankungsrückstellungen sind zum Ausgleich der Schwankungen im
 Schadenverlauf künftiger Jahre zu bilden, wenn insbesondere
@@ -12238,10 +12669,12 @@ auszuweisen.
 
 
 ##### Fünfter Titel - Konzernabschluß, Konzernlagebericht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039100307)
 
 
 
 ###### § 341i Aufstellung, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085802377)
 
 (1) Versicherungsunternehmen, auch wenn sie nicht in der Rechtsform
 einer Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer
@@ -12280,6 +12713,7 @@ hat, vorzulegen.
 
 
 ###### § 341j Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE085906360)
 
 (1) Auf den Konzernabschluß und den Konzernlagebericht sind die
 Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über
@@ -12339,10 +12773,12 @@ Voraussetzungen für eine Befreiung nicht erfüllen.
 
 
 ##### Sechster Titel - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039200307)
 
 
 
 ###### § 341k
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086004360)
 
 (1) Versicherungsunternehmen haben unabhängig von ihrer Größe ihren
 Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und
@@ -12371,10 +12807,12 @@ betrieben werden.
 
 
 ##### Siebenter Titel - Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039300307)
 
 
 
 ###### § 341l
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086106360)
 
 (1) Versicherungsunternehmen haben den Jahresabschluß und den
 Lagebericht sowie den Konzernabschluß und den Konzernlagebericht und
@@ -12418,10 +12856,12 @@ gelten die folgenden Maßgaben und ergänzenden Bestimmungen:
 
 
 ##### Achter Titel - Straf- und Bußgeldvorschriften, Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039401360)
 
 
 
 ###### § 341m Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086204360)
 
 (1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in
 der Rechtsform einer Kapitalgesellschaft betriebene
@@ -12449,6 +12889,7 @@ Verbindung mit § 332 oder § 333 und des Absatzes 2 entsprechend.
 
 
 ###### § 341n Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086317360)
 
 (1) Ordnungswidrig handelt, wer als Mitglied des
 vertretungsberechtigten Organs oder des Aufsichtsrats eines
@@ -12714,6 +13155,7 @@ Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz
 
 
 ###### § 341o Festsetzung von Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086408360)
 
 (1) Personen, die
 
@@ -12758,6 +13200,7 @@ Folgendes ist:
 
 
 ###### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE098102123)
 
 Die Strafvorschriften des § 341m Absatz 1, die Bußgeldvorschrift des §
 341n Absatz 1 und 2 sowie die Ordnungsgeldvorschrift des § 341o gelten
@@ -12765,14 +13208,17 @@ auch für Pensionsfonds im Sinn des § 341 Abs. 4 Satz 1.
 
 
 #### Dritter Unterabschnitt - Ergänzende Vorschriften für bestimmte Unternehmen des Rohstoffsektors
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041700360)
 
 
 
 ##### Erster Titel - Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041800360)
 
 
 
 ###### § 341q Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101700360)
 
 Dieser Unterabschnitt gilt für Kapitalgesellschaften mit Sitz im
 Inland, die in der mineralgewinnenden Industrie tätig sind oder
@@ -12784,6 +13230,7 @@ gilt entsprechend für Personenhandelsgesellschaften im Sinne des §
 
 
 ###### § 341r Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101801119)
 
 Im Sinne dieses Unterabschnitts sind
 
@@ -12889,10 +13336,12 @@ Im Sinne dieses Unterabschnitts sind
 
 
 ##### Zweiter Titel - Zahlungsbericht, Konzernzahlungsbericht und Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041900360)
 
 
 
 ###### § 341s Pflicht zur Erstellung des Zahlungsberichts; Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101901360)
 
 (1) Kapitalgesellschaften im Sinne des § 341q haben jährlich einen
 Zahlungsbericht zu erstellen.
@@ -12916,6 +13365,7 @@ Satz 5 entsprechend anzuwenden.
 
 
 ###### § 341t Inhalt des Zahlungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE102000360)
 
 (1) In dem Zahlungsbericht hat die Kapitalgesellschaft anzugeben,
 welche Zahlungen sie im Berichtszeitraum an staatliche Stellen im
@@ -12972,6 +13422,7 @@ Unterabschnitts zu umgehen.
 
 
 ###### § 341u Gliederung des Zahlungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE102100360)
 
 (1) Der Zahlungsbericht ist nach Staaten zu gliedern. Für jeden Staat
 hat die Kapitalgesellschaft diejenigen staatlichen Stellen zu
@@ -13022,6 +13473,7 @@ Zuordnung zu einem bestimmten Projekt auferlegt werden.
 
 
 ###### § 341v Konzernzahlungsbericht; Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE102200360)
 
 (1) Kapitalgesellschaften im Sinne des § 341q, die Mutterunternehmen
 (§ 290) sind, haben jährlich einen Konzernzahlungsbericht zu
@@ -13070,6 +13522,7 @@ beziehen.
 
 
 ###### § 341w Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE102303360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Kapitalgesellschaft im Sinne des § 341q haben für diese den
@@ -13089,10 +13542,12 @@ und § 329 Absatz 1, 3 und 4 gelten entsprechend.
 
 
 ##### Dritter Titel - Bußgeldvorschriften, Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042000360)
 
 
 
 ###### § 341x Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE102400360)
 
 (1) Ordnungswidrig handelt, wer als Mitglied des
 vertretungsberechtigten Organs oder des Aufsichtsrats einer
@@ -13125,6 +13580,7 @@ Personenhandelsgesellschaften im Sinne des § 341q Satz 2.
 
 
 ###### § 341y Ordnungsgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE102500360)
 
 (1) Gegen die Mitglieder des vertretungsberechtigten Organs einer
 Kapitalgesellschaft im Sinne des § 341q oder eines Mutterunternehmens
@@ -13151,14 +13607,17 @@ Personenhandelsgesellschaften im Sinne des § 341q Satz 2.
 
 
 #### Vierter Unterabschnitt - Ergänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042600360)
 
 
 
 ##### Erster Titel - Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042700360)
 
 
 
 ###### § 342 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115200360)
 
 (1) Dieser Unterabschnitt ist anzuwenden auf Kapitalgesellschaften mit
 Sitz im Inland und auf Personenhandelsgesellschaften im Sinne des §
@@ -13217,6 +13676,7 @@ Kapitalgesellschaften mit Sitz in einem Drittstaat, die
 
 
 ###### § 342a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115300360)
 
 Im Sinne dieses Unterabschnitts sind
 
@@ -13251,10 +13711,12 @@ Im Sinne dieses Unterabschnitts sind
 
 
 ##### Zweiter Titel - Pflicht zur Ertragsteuerinformationsberichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042800360)
 
 
 
 ###### § 342b Unverbundene Unternehmen mit Sitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115400360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 haben für diese für
@@ -13312,6 +13774,7 @@ folgenden Geschäftsjahren jeweils 750 Millionen Euro unterschreiten.
 
 
 ###### § 342c Oberste Mutterunternehmen mit Sitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115500360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Gesellschaft im Sinne des § 342 Absatz 1 Nummer 2 haben für diese für
@@ -13362,6 +13825,7 @@ unterschreiten.
 
 
 ###### § 342d Tochterunternehmen mit Sitz im Inland von obersten Mutterunternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115600360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Gesellschaft im Sinne des § 342 Absatz 1 Nummer 3 haben das oberste
@@ -13448,6 +13912,7 @@ Mutterunternehmens gelten.
 
 
 ###### § 342e Inländische Zweigniederlassungen unverbundener Unternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115700360)
 
 (1) Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2
 einer Kapitalgesellschaft im Sinne des § 342 Absatz 2 Nummer 1 erste
@@ -13532,6 +13997,7 @@ des Jahresabschlusses der Kapitalgesellschaft gelten.
 
 
 ###### § 342f Inländische Zweigniederlassungen verbundener Unternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115800360)
 
 (1) Bei Zweigniederlassungen im Sinne des § 342 Absatz 2 Nummer 2
 einer Kapitalgesellschaft im Sinne des § 342 Absatz 2 Nummer 1 zweite
@@ -13630,10 +14096,12 @@ Mutterunternehmens gelten.
 
 
 ##### Dritter Titel - Einzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG042900360)
 
 
 
 ###### § 342g Einzubeziehende Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115900360)
 
 In den Ertragsteuerinformationsbericht sind einzubeziehen:
 
@@ -13650,6 +14118,7 @@ In den Ertragsteuerinformationsbericht sind einzubeziehen:
 
 
 ###### § 342h Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116000360)
 
 (1) Im Ertragsteuerinformationsbericht sind anzugeben:
 
@@ -13780,6 +14249,7 @@ Absatz 2 erforderlichen Angaben gemäß den Vorgaben des Absatzes 3 oder
 
 
 ###### § 342i Länderbezogener Ausweis der Angaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116100360)
 
 (1) Die Angaben nach § 342h Absatz 2 sind wie folgt getrennt
 auszuweisen:
@@ -13823,6 +14293,7 @@ nicht mehr als einem Steuerhoheitsgebiet zugeordnet werden.
 
 
 ###### § 342j Währung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116200360)
 
 (1) Der Ertragsteuerinformationsbericht ist in den Fällen der §§ 342b,
 342c und 342d Absatz 2 Nummer 2 in Euro zu erstellen.
@@ -13838,6 +14309,7 @@ für den Berichtszeitraum aufgestellt wird.
 
 
 ###### § 342k Weglassen nachteiliger Angaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116300360)
 
 (1) Angaben nach § 342h Absatz 1 und 2 müssen nicht in den
 Ertragsteuerinformationsbericht aufgenommen werden, wenn ihre
@@ -13854,6 +14326,7 @@ Geschäftsjahr nach dem Berichtszeitraum erstellt wird.
 
 
 ###### § 342l Formblatt; maschinenlesbares elektronisches Format
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116400360)
 
 (1) Der Ertragsteuerinformationsbericht ist unter Verwendung des von
 der Europäischen Kommission auf der Grundlage des Artikels 48c Absatz
@@ -13867,10 +14340,12 @@ elektronischen Format zu erstellen.
 
 
 ##### Vierter Titel - Offenlegung und Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG043000360)
 
 
 
 ###### § 342m Offenlegung im Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116500360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 oder 2, die der
@@ -13958,6 +14433,7 @@ dort genanntes Tochterunternehmen gibt.
 
 
 ###### § 342n Veröffentlichung auf der Internetseite der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116600360)
 
 (1) Die Mitglieder des vertretungsberechtigten Organs einer
 Gesellschaft im Sinne des § 342 Absatz 1 Nummer 1 oder 2, die der
@@ -14034,10 +14510,12 @@ Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
 
 ##### Fünfter Titel - Bußgeldvorschriften; Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG043100360)
 
 
 
 ###### § 342o Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116700360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -14064,6 +14542,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 ###### § 342p Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE116800360)
 
 Das Bundesamt für Justiz hat ein Ordnungsgeldverfahren durchzuführen
 gegen
@@ -14095,10 +14574,12 @@ Ordnungsgeld höchstens zweihundertfünfzigtausend Euro beträgt.
 
 
 ### Fünfter Abschnitt - Privates Rechnungslegungsgremium; Rechnungslegungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039501360)
 
 
 
 #### § 342q Privates Rechnungslegungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088004360)
 
 (1) Das Bundesministerium der Justiz kann eine privatrechtlich
 organisierte Einrichtung durch Vertrag anerkennen und ihr folgende
@@ -14137,6 +14618,7 @@ Absatz 1 Satz 1 anerkannten Einrichtung beachtet worden sind.
 
 
 #### § 342r Rechnungslegungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088105360)
 
 (1) Beim Bundesministerium der Justiz wird vorbehaltlich Absatz 9 ein
 Rechnungslegungsbeirat mit den Aufgaben nach § 342q Absatz 1 Satz 1
@@ -14187,14 +14669,17 @@ nach § 342q Absatz 1 anerkennt.
 
 
 ## Viertes Buch - Handelsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG022801306)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG022901301)
 
 
 
 #### § 343
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023001307)
 
 (1) Handelsgeschäfte sind alle Geschäfte eines Kaufmanns, die zum
 Betriebe seines Handelsgewerbes gehören.
@@ -14203,6 +14688,7 @@ Betriebe seines Handelsgewerbes gehören.
 
 
 #### § 344
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023100300)
 
 (1) Die von einem Kaufmanne vorgenommenen Rechtsgeschäfte gelten im
 Zweifel als zum Betriebe seines Handelsgewerbes gehörig.
@@ -14213,6 +14699,7 @@ Urkunde sich das Gegenteil ergibt.
 
 
 #### § 345
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023200300)
 
 Auf ein Rechtsgeschäft, das für einen der beiden Teile ein
 Handelsgeschäft ist, kommen die Vorschriften über Handelsgeschäfte für
@@ -14221,6 +14708,7 @@ Vorschriften sich ein anderes ergibt.
 
 
 #### § 346
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023300300)
 
 Unter Kaufleuten ist in Ansehung der Bedeutung und Wirkung von
 Handlungen und Unterlassungen auf die im Handelsverkehre geltenden
@@ -14228,6 +14716,7 @@ Gewohnheiten und Gebräuche Rücksicht zu nehmen.
 
 
 #### § 347
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023400300)
 
 (1) Wer aus einem Geschäfte, das auf seiner Seite ein Handelsgeschäft
 ist, einem anderen zur Sorgfalt verpflichtet ist, hat für die Sorgfalt
@@ -14241,6 +14730,7 @@ pflegt.
 
 
 #### § 348
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023500300)
 
 Eine Vertragsstrafe, die von einem Kaufmann im Betriebe seines
 Handelsgewerbes versprochen ist, kann nicht auf Grund der Vorschriften
@@ -14248,6 +14738,7 @@ des § 343 des Bürgerlichen Gesetzbuchs herabgesetzt werden.
 
 
 #### § 349
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023600300)
 
 Dem Bürgen steht, wenn die Bürgschaft für ihn ein Handelsgeschäft ist,
 die Einrede der Vorausklage nicht zu. Das gleiche gilt unter der
@@ -14256,6 +14747,7 @@ Kreditauftrag als Bürge haftet.
 
 
 #### § 350
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023701377)
 
 Auf eine Bürgschaft, ein Schuldversprechen oder ein Schuldanerkenntnis
 finden, sofern die Bürgschaft auf der Seite des Bürgen, das
@@ -14266,10 +14758,12 @@ Anwendung.
 
 
 #### § 351 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023801307)
 
 
 
 #### § 352
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE023901305)
 
 (1) Die Höhe der gesetzlichen Zinsen, mit Ausnahme der Verzugszinsen,
 ist bei beiderseitigen Handelsgeschäften fünf vom Hundert für das
@@ -14283,6 +14777,7 @@ fünf vom Hundert für das Jahr zu verstehen.
 
 
 #### § 353
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024000300)
 
 Kaufleute untereinander sind berechtigt, für ihre Forderungen aus
 beiderseitigen Handelsgeschäften vom Tage der Fälligkeit an Zinsen zu
@@ -14291,6 +14786,7 @@ gefordert werden.
 
 
 #### § 354
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024100300)
 
 (1) Wer in Ausübung seines Handelsgewerbes einem anderen Geschäfte
 besorgt oder Dienste leistet, kann dafür auch ohne Verabredung
@@ -14302,6 +14798,7 @@ vom Tage der Leistung an Zinsen berechnen.
 
 
 #### § 354a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE086701140)
 
 (1) Ist die Abtretung einer Geldforderung durch Vereinbarung mit dem
 Schuldner gemäß § 399 des Bürgerlichen Gesetzbuchs ausgeschlossen und
@@ -14318,6 +14815,7 @@ Kreditwesengesetzes ist.
 
 
 #### § 355
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024200300)
 
 (1) Steht jemand mit einem Kaufmanne derart in Geschäftsverbindung,
 daß die aus der Verbindung entspringenden beiderseitigen Ansprüche und
@@ -14339,6 +14837,7 @@ Zahlung beanspruchen kann.
 
 
 #### § 356
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024300300)
 
 (1) Wird eine Forderung, die durch Pfand, Bürgschaft oder in anderer
 Weise gesichert ist, in die laufende Rechnung aufgenommen, so wird der
@@ -14354,6 +14853,7 @@ Anwendung.
 
 
 #### § 357
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024400300)
 
 Hat der Gläubiger eines Beteiligten die Pfändung und Überweisung des
 Anspruchs auf dasjenige erwirkt, was seinem Schuldner als Überschuß
@@ -14366,12 +14866,14 @@ werden, gelten nicht als neue Geschäfte im Sinne dieser Vorschrift.
 
 
 #### § 358
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024500300)
 
 Bei Handelsgeschäften kann die Leistung nur während der gewöhnlichen
 Geschäftszeit bewirkt und gefordert werden.
 
 
 #### § 359
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024600300)
 
 (1) Ist als Zeit der Leistung das Frühjahr oder der Herbst oder ein in
 ähnlicher Weise bestimmter Zeitpunkt vereinbart, so entscheidet im
@@ -14382,12 +14884,14 @@ Zweifel volle acht Tage zu verstehen.
 
 
 #### § 360
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024700300)
 
 Wird eine nur der Gattung nach bestimmte Ware geschuldet, so ist
 Handelsgut mittlerer Art und Güte zu leisten.
 
 
 #### § 361
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024800300)
 
 Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Orte
 gelten, wo der Vertrag erfüllt werden soll, sind im Zweifel als die
@@ -14395,6 +14899,7 @@ vertragsmäßigen zu betrachten.
 
 
 #### § 362
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE024900300)
 
 (1) Geht einem Kaufmanne, dessen Gewerbebetrieb die Besorgung von
 Geschäften für andere mit sich bringt, ein Antrag über die Besorgung
@@ -14412,6 +14917,7 @@ einstweilen vor Schaden zu bewahren.
 
 
 #### § 363
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025002125)
 
 (1) Anweisungen, die auf einen Kaufmann über die Leistung von Geld,
 Wertpapieren oder anderen vertretbaren Sachen ausgestellt sind, ohne
@@ -14427,6 +14933,7 @@ Indossament übertragen werden, wenn sie an Order lauten.
 
 
 #### § 364
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025100300)
 
 (1) Durch das Indossament gehen alle Rechte aus dem indossierten
 Papier auf den Indossatar über.
@@ -14441,6 +14948,7 @@ zur Leistung verpflichtet.
 
 
 #### § 365
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025201360)
 
 (1) In betreff der Form des Indossaments, in betreff der Legitimation
 des Besitzers und der Prüfung der Legitimation sowie in betreff der
@@ -14456,6 +14964,7 @@ Urkunde von dem Schuldner verlangen.
 
 
 #### § 365a
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE115100360)
 
 Der Transportversicherungspolice nach § 363 Absatz 2 gleichgestellt
 ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt
@@ -14472,6 +14981,7 @@ Transportversicherungspolice zu regeln.
 
 
 #### § 366
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025302377)
 
 (1) Veräußert oder verpfändet ein Kaufmann im Betriebe seines
 Handelsgewerbes eine ihm nicht gehörige bewegliche Sache, so finden
@@ -14497,6 +15007,7 @@ herrührt.
 
 
 #### § 367
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025403360)
 
 (1) Wird ein Inhaberpapier, das dem Eigentümer gestohlen worden,
 verlorengegangen oder sonst abhanden gekommen ist, an einen Kaufmann,
@@ -14524,6 +15035,7 @@ nicht anzuwenden.
 
 
 #### § 368
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025501377)
 
 (1) Bei dem Verkauf eines Pfandes tritt, wenn die Verpfändung auf der
 Seite des Pfandgläubigers und des Verpfänders ein Handelsgeschäft ist,
@@ -14538,6 +15050,7 @@ ihrer Seite der Vertrag ein Handelsgeschäft ist.
 
 
 #### § 369
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025600300)
 
 (1) Ein Kaufmann hat wegen der fälligen Forderungen, welche ihm gegen
 einen anderen Kaufmann aus den zwischen ihnen geschlossenen
@@ -14568,10 +15081,12 @@ ausgeschlossen.
 
 
 #### § 370 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025701307)
 
 
 
 #### § 371
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025800300)
 
 (1) Der Gläubiger ist kraft des Zurückbehaltungsrechts befugt, sich
 aus dem zurückbehaltenen Gegenstande für seine Forderung zu
@@ -14601,6 +15116,7 @@ Gerichtsstand der Niederlassung hat, erhoben werden.
 
 
 #### § 372
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE025900300)
 
 (1) In Ansehung der Befriedigung aus dem zurückbehaltenen Gegenstande
 gilt zugunsten des Gläubigers der Schuldner, sofern er bei dem
@@ -14618,10 +15134,12 @@ war.
 
 
 ### Zweiter Abschnitt - Handelskauf
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG026001301)
 
 
 
 #### § 373
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026101125)
 
 (1) Ist der Käufer mit der Annahme der Ware im Verzuge, so kann der
 Verkäufer die Ware auf Gefahr und Kosten des Käufers in einem
@@ -14652,6 +15170,7 @@ unterbleiben, wenn sie untunlich sind.
 
 
 #### § 374
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026200300)
 
 Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt,
 welche dem Verkäufer nach dem Bürgerlichen Gesetzbuche zustehen, wenn
@@ -14659,6 +15178,7 @@ der Käufer im Verzuge der Annahme ist.
 
 
 #### § 375
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026301377)
 
 (1) Ist bei dem Kaufe einer beweglichen Sache dem Käufer die nähere
 Bestimmung über Form, Maß oder ähnliche Verhältnisse vorbehalten, so
@@ -14677,6 +15197,7 @@ Bestimmung maßgebend.
 
 
 #### § 376
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026400300)
 
 (1) Ist bedungen, daß die Leistung des einen Teiles genau zu einer
 festbestimmten Zeit oder innerhalb einer festbestimmten Frist bewirkt
@@ -14710,6 +15231,7 @@ der Unterlassung ist er zum Schadensersatze verpflichtet.
 
 
 #### § 377
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026500300)
 
 (1) Ist der Kauf für beide Teile ein Handelsgeschäft, so hat der
 Käufer die Ware unverzüglich nach der Ablieferung durch den Verkäufer,
@@ -14733,10 +15255,12 @@ sich auf diese Vorschriften nicht berufen.
 
 
 #### § 378 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026601377)
 
 
 
 #### § 379
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026700300)
 
 (1) Ist der Kauf für beide Teile ein Handelsgeschäft, so ist der
 Käufer, wenn er die ihm von einem anderen Orte übersendete Ware
@@ -14749,6 +15273,7 @@ lassen.
 
 
 #### § 380
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026800300)
 
 (1) Ist der Kaufpreis nach dem Gewichte der Ware zu berechnen, so
 kommt das Gewicht der Verpackung (Taragewicht) in Abzug, wenn nicht
@@ -14765,6 +15290,7 @@ erfüllen hat.
 
 
 #### § 381
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE026901377)
 
 (1) Die in diesem Abschnitte für den Kauf von Waren getroffenen
 Vorschriften gelten auch für den Kauf von Wertpapieren.
@@ -14775,14 +15301,17 @@ hat.
 
 
 #### § 382 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027001377)
 
 
 
 ### Dritter Abschnitt - Kommissionsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG027101301)
 
 
 
 #### § 383
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027201307)
 
 (1) Kommissionär ist, wer es gewerbsmäßig übernimmt, Waren oder
 Wertpapiere für Rechnung eines anderen (des Kommittenten) in eigenem
@@ -14798,6 +15327,7 @@ Vierten Buches mit Ausnahme der §§ 348 bis 350 Anwendung.
 
 
 #### § 384
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027300300)
 
 (1) Der Kommissionär ist verpflichtet, das übernommene Geschäft mit
 der Sorgfalt eines ordentlichen Kaufmanns auszuführen; er hat hierbei
@@ -14817,6 +15347,7 @@ Geschäft abgeschlossen hat.
 
 
 #### § 385
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027400300)
 
 (1) Handelt der Kommissionär nicht gemäß den Weisungen des
 Kommittenten, so ist er diesem zum Ersatze des Schadens verpflichtet;
@@ -14828,6 +15359,7 @@ unberührt.
 
 
 #### § 386
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027500300)
 
 (1) Hat der Kommissionär unter dem ihm gesetzten Preise verkauft oder
 hat er den ihm für den Einkauf gesetzten Preis überschritten, so muß
@@ -14844,6 +15376,7 @@ Schadens bleibt unberührt.
 
 
 #### § 387
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027600300)
 
 (1) Schließt der Kommissionär zu vorteilhafteren Bedingungen ab, als
 sie ihm von dem Kommittenten gesetzt worden sind, so kommt dies dem
@@ -14856,6 +15389,7 @@ dem Kommittenten bestimmten höchsten Preis nicht erreicht.
 
 
 #### § 388
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027700300)
 
 (1) Befindet sich das Gut, welches dem Kommissionär zugesendet ist,
 bei der Ablieferung in einem beschädigten oder mangelhaften Zustande,
@@ -14873,6 +15407,7 @@ der Vorschriften des § 373 bewirken.
 
 
 #### § 389
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027800300)
 
 Unterläßt der Kommittent über das Gut zu verfügen, obwohl er dazu nach
 Lage der Sache verpflichtet ist, so hat der Kommissionär die nach §
@@ -14880,6 +15415,7 @@ Lage der Sache verpflichtet ist, so hat der Kommissionär die nach §
 
 
 #### § 390
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE027900300)
 
 (1) Der Kommissionär ist für den Verlust und die Beschädigung des in
 seiner Verwahrung befindlichen Gutes verantwortlich, es sei denn, daß
@@ -14892,6 +15428,7 @@ die Versicherung zu bewirken.
 
 
 #### § 391
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028000300)
 
 Ist eine Einkaufskommission erteilt, die für beide Teile ein
 Handelsgeschäft ist, so finden in bezug auf die Verpflichtung des
@@ -14906,6 +15443,7 @@ durch eine verspätete Anzeige des Mangels nicht berührt.
 
 
 #### § 392
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028100300)
 
 (1) Forderungen aus einem Geschäfte, das der Kommissionär
 abgeschlossen hat, kann der Kommittent dem Schuldner gegenüber erst
@@ -14917,6 +15455,7 @@ oder dessen Gläubigern als Forderungen des Kommittenten.
 
 
 #### § 393
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028200300)
 
 (1) Wird von dem Kommissionär ohne Zustimmung des Kommittenten einem
 Dritten ein Vorschuß geleistet oder Kredit gewährt, so handelt der
@@ -14936,6 +15475,7 @@ Unterschied nach § 386 zu vergüten.
 
 
 #### § 394
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028300300)
 
 (1) Der Kommissionär hat für die Erfüllung der Verbindlichkeit des
 Dritten, mit dem er das Geschäft für Rechnung des Kommittenten
@@ -14950,6 +15490,7 @@ gefordert werden kann. Er kann eine besondere Vergütung
 
 
 #### § 395
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028400300)
 
 Ein Kommissionär, der den Ankauf eines Wechsels übernimmt, ist
 verpflichtet, den Wechsel, wenn er ihn indossiert, in üblicher Weise
@@ -14957,6 +15498,7 @@ und ohne Vorbehalt zu indossieren.
 
 
 #### § 396
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028500300)
 
 (1) Der Kommissionär kann die Provision fordern, wenn das Geschäft zur
 Ausführung gekommen ist. Ist das Geschäft nicht zur Ausführung
@@ -14973,6 +15515,7 @@ der Beförderungsmittel des Kommissionärs.
 
 
 #### § 397 Pfandrecht des Kommissionärs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028601377)
 
 Der Kommissionär hat wegen der auf das Gut verwendeten Kosten, der
 Provision, der auf das Gut gegebenen Vorschüsse und Darlehen sowie der
@@ -14988,6 +15531,7 @@ verfügen kann.
 
 
 #### § 398
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028700300)
 
 Der Kommissionär kann sich, auch wenn er Eigentümer des
 Kommissionsguts ist, für die in § 397 bezeichneten Ansprüche nach
@@ -14996,6 +15540,7 @@ befriedigen.
 
 
 #### § 399
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028800300)
 
 Aus den Forderungen, welche durch das für Rechnung des Kommittenten
 geschlossene Geschäft begründet sind, kann sich der Kommissionär für
@@ -15004,6 +15549,7 @@ Gläubigern befriedigen.
 
 
 #### § 400
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE028900300)
 
 (1) Die Kommission zum Einkauf oder zum Verkaufe von Waren, die einen
 Börsen- oder Marktpreis haben, sowie von Wertpapieren, bei denen ein
@@ -15041,6 +15587,7 @@ stellen.
 
 
 #### § 401
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE029000300)
 
 (1) Auch im Falle der Ausführung der Kommission durch Selbsteintritt
 hat der Kommissionär, wenn er bei Anwendung pflichtmäßiger Sorgfalt
@@ -15055,12 +15602,14 @@ keinen ungünstigeren als den hierbei vereinbarten Preis berechnen.
 
 
 #### § 402
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE029100300)
 
 Die Vorschriften des § 400 Abs. 2 bis 5 und des § 401 können nicht
 durch Vertrag zum Nachteile des Kommittenten abgeändert werden.
 
 
 #### § 403
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE029200300)
 
 Der Kommissionär, der das Gut selbst als Verkäufer liefert oder als
 Käufer übernimmt, ist zu der gewöhnlichen Provision berechtigt und
@@ -15069,12 +15618,14 @@ Kosten berechnen.
 
 
 #### § 404
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE029300300)
 
 Die Vorschriften der §§ 397 und 398 finden auch im Falle der
 Ausführung der Kommission durch Selbsteintritt Anwendung.
 
 
 #### § 405
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE029400300)
 
 (1) Zeigt der Kommissionär die Ausführung der Kommission an, ohne
 ausdrücklich zu bemerken, daß er selbst eintreten wolle, so gilt dies
@@ -15093,6 +15644,7 @@ mehr zu.
 
 
 #### § 406
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE029500300)
 
 (1) Die Vorschriften dieses Abschnitts kommen auch zur Anwendung, wenn
 ein Kommissionär im Betriebe seines Handelsgewerbes ein Geschäft
@@ -15109,14 +15661,17 @@ beschaffenden Stoffe herzustellen ist, zum Gegenstande hat.
 
 
 ### Vierter Abschnitt - Frachtgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039600307)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039700307)
 
 
 
 ##### § 407 Frachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088300307)
 
 (1) Durch den Frachtvertrag wird der Frachtführer verpflichtet, das
 Gut zum Bestimmungsort zu befördern und dort an den Empfänger
@@ -15143,6 +15698,7 @@ gilt jedoch nicht für die §§ 348 bis 350.
 
 
 ##### § 408 Frachtbrief. Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088404360)
 
 (1) Der Frachtführer kann die Ausstellung eines Frachtbriefs mit
 folgenden Angaben verlangen:
@@ -15213,6 +15769,7 @@ einen elektronischen Frachtbrief zu regeln.
 
 
 ##### § 409 Beweiskraft des Frachtbriefs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088500307)
 
 (1) Der von beiden Parteien unterzeichnete Frachtbrief dient bis zum
 Beweis des Gegenteils als Nachweis für Abschluß und Inhalt des
@@ -15242,6 +15799,7 @@ für die Überprüfung.
 
 
 ##### § 410 Gefährliches Gut
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088601377)
 
 (1) Soll gefährliches Gut befördert werden, so hat der Absender dem
 Frachtführer rechtzeitig in Textform die genaue Art der Gefahr und,
@@ -15263,6 +15821,7 @@ die Art der Gefahr bekannt war oder jedenfalls mitgeteilt worden ist,
 
 
 ##### § 411 Verpackung. Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088701377)
 
 Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung
 der vereinbarten Beförderung eine Verpackung erfordert, so zu
@@ -15277,6 +15836,7 @@ Behandlung dies erfordert, zu kennzeichnen.
 
 
 ##### § 412 Verladen und Entladen. Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088805360)
 
 (1) Soweit sich aus den Umständen oder der Verkehrssitte nicht etwas
 anderes ergibt, hat der Absender das Gut beförderungssicher zu laden,
@@ -15304,6 +15864,7 @@ Entladezeit, deren Dauer sowie die Höhe des Standgeldes zu bestimmen.
 
 
 ##### § 413 Begleitpapiere
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE088901377)
 
 (1) Der Absender hat dem Frachtführer alle Urkunden zur Verfügung zu
 stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung,
@@ -15320,6 +15881,7 @@ Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
 
 ##### § 414 Verschuldensunabhängige Haftung des Absenders in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089002377)
 
 (1) Der Absender hat, auch wenn ihn kein Verschulden trifft, dem
 Frachtführer Schäden und Aufwendungen zu ersetzen, die verursacht
@@ -15353,6 +15915,7 @@ soweit ihn ein Verschulden trifft.
 
 
 ##### § 415 Kündigung durch den Absender
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089100307)
 
 (1) Der Absender kann den Frachtvertrag jederzeit kündigen.
 
@@ -15387,6 +15950,7 @@ wurde, unverzüglich auf eigene Kosten zu entladen.
 
 
 ##### § 416 Anspruch auf Teilbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089201377)
 
 Wird das Gut nur teilweise verladen, so kann der Absender jederzeit
 verlangen, dass der Frachtführer mit der Beförderung des bereits
@@ -15405,6 +15969,7 @@ Sätzen 2 und 3 nur insoweit zu, als tatsächlich Gut befördert wird.
 
 
 ##### § 417 Rechte des Frachtführers bei Nichteinhaltung der Ladezeit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089302377)
 
 (1) Verlädt der Absender das Gut nicht innerhalb der Ladezeit oder
 stellt er, wenn ihm das Verladen nicht obliegt, das Gut nicht
@@ -15438,6 +16003,7 @@ Risikobereich zuzurechnen sind.
 
 
 ##### § 418 Nachträgliche Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089401377)
 
 (1) Der Absender ist berechtigt, über das Gut zu verfügen. Er kann
 insbesondere verlangen, daß der Frachtführer das Gut nicht
@@ -15482,6 +16048,7 @@ Verlust des Gutes zu zahlen wäre.
 
 
 ##### § 419 Beförderungs- und Ablieferungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089501377)
 
 (1) Wird nach Übernahme des Gutes erkennbar, dass die Beförderung oder
 Ablieferung nicht vertragsgemäß durchgeführt werden kann, so hat der
@@ -15524,6 +16091,7 @@ Risikobereich zuzurechnen ist.
 
 
 ##### § 420 Zahlung. Frachtberechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089601377)
 
 (1) Die Fracht ist bei Ablieferung des Gutes zu zahlen. Der
 Frachtführer hat über die Fracht hinaus einen Anspruch auf Ersatz von
@@ -15558,6 +16126,7 @@ standen, die Richtigkeit der Angaben zu überprüfen.
 
 
 ##### § 421 Rechte des Empfängers. Zahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089701377)
 
 (1) Nach Ankunft des Gutes an der Ablieferungsstelle ist der Empfänger
 berechtigt, vom Frachtführer zu verlangen, ihm das Gut gegen Erfüllung
@@ -15588,6 +16157,7 @@ Beträge verpflichtet.
 
 
 ##### § 422 Nachnahme
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089800307)
 
 (1) Haben die Parteien vereinbart, daß das Gut nur gegen Einziehung
 einer Nachnahme an den Empfänger abgeliefert werden darf, so ist
@@ -15604,6 +16174,7 @@ jedoch nur bis zur Höhe des Betrages der Nachnahme.
 
 
 ##### § 423 Lieferfrist
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE089900307)
 
 Der Frachtführer ist verpflichtet, das Gut innerhalb der vereinbarten
 Frist oder mangels Vereinbarung innerhalb der Frist abzuliefern, die
@@ -15612,6 +16183,7 @@ vernünftigerweise zuzubilligen ist (Lieferfrist).
 
 
 ##### § 424 Verlustvermutung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090000307)
 
 (1) Der Anspruchsberechtigte kann das Gut als verloren betrachten,
 wenn es weder innerhalb der Lieferfrist noch innerhalb eines weiteren
@@ -15637,6 +16209,7 @@ nicht geltend, so kann der Frachtführer über das Gut frei verfügen.
 
 
 ##### § 425 Haftung für Güter- und Verspätungsschäden. Schadensteilung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090100307)
 
 (1) Der Frachtführer haftet für den Schaden, der durch Verlust oder
 Beschädigung des Gutes in der Zeit von der Übernahme zur Beförderung
@@ -15651,6 +16224,7 @@ beigetragen haben.
 
 
 ##### § 426 Haftungsausschluß
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090200307)
 
 Der Frachtführer ist von der Haftung befreit, soweit der Verlust, die
 Beschädigung oder die Überschreitung der Lieferfrist auf Umständen
@@ -15659,6 +16233,7 @@ und deren Folgen er nicht abwenden konnte.
 
 
 ##### § 427 Besondere Haftungsausschlußgründe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090300307)
 
 (1) Der Frachtführer ist von seiner Haftung befreit, soweit der
 Verlust, die Beschädigung oder die Überschreitung der Lieferfrist auf
@@ -15714,6 +16289,7 @@ besondere Weisungen beachtet hat.
 
 
 ##### § 428 Haftung für andere
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090400307)
 
 Der Frachtführer hat Handlungen und Unterlassungen seiner Leute in
 gleichem Umfange zu vertreten wie eigene Handlungen und
@@ -15723,6 +16299,7 @@ Personen, deren er sich bei Ausführung der Beförderung bedient.
 
 
 ##### § 429 Wertersatz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090500307)
 
 (1) Hat der Frachtführer für gänzlichen oder teilweisen Verlust des
 Gutes Schadenersatz zu leisten, so ist der Wert am Ort und zur Zeit
@@ -15744,6 +16321,7 @@ Marktpreis ist.
 
 
 ##### § 430 Schadensfeststellungskosten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090600307)
 
 Bei Verlust oder Beschädigung des Gutes hat der Frachtführer über den
 nach § 429 zu leistenden Ersatz hinaus die Kosten der Feststellung des
@@ -15751,6 +16329,7 @@ Schadens zu tragen.
 
 
 ##### § 431 Haftungshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090702377)
 
 (1) Die nach den §§ 429 und 430 zu leistende Entschädigung wegen
 Verlust oder Beschädigung ist auf einen Betrag von 8,33
@@ -15785,6 +16364,7 @@ dem betreffenden Tag für seine Operationen und Transaktionen anwendet.
 
 
 ##### § 432 Ersatz sonstiger Kosten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090800307)
 
 Haftet der Frachtführer wegen Verlust oder Beschädigung, so hat er
 über den nach den §§ 429 bis 431 zu leistenden Ersatz hinaus die
@@ -15795,6 +16375,7 @@ Schaden hat er nicht zu ersetzen.
 
 
 ##### § 433 Haftungshöchstbetrag bei sonstigen Vermögensschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE090900307)
 
 Haftet der Frachtführer wegen der Verletzung einer mit der Ausführung
 der Beförderung des Gutes zusammenhängenden vertraglichen Pflicht für
@@ -15806,6 +16387,7 @@ der bei Verlust des Gutes zu zahlen wäre.
 
 
 ##### § 434 Außervertragliche Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091001377)
 
 (1) Die in diesem Unterabschnitt und im Frachtvertrag vorgesehenen
 Haftungsbefreiungen und Haftungsbegrenzungen gelten auch für einen
@@ -15840,6 +16422,7 @@ Betrag von 2 Rechnungseinheiten nicht unterschreitet.
 
 
 ##### § 435 Wegfall der Haftungsbefreiungen und -begrenzungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091100307)
 
 Die in diesem Unterabschnitt und im Frachtvertrag vorgesehenen
 Haftungsbefreiungen und Haftungsbegrenzungen gelten nicht, wenn der
@@ -15850,6 +16433,7 @@ Wahrscheinlichkeit eintreten werde, begangen hat.
 
 
 ##### § 436 Haftung der Leute
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091200307)
 
 Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder
 Beschädigung des Gutes oder wegen Überschreitung der Lieferfrist gegen
@@ -15861,6 +16445,7 @@ Schaden mit Wahrscheinlichkeit eintreten werde, gehandelt hat.
 
 
 ##### § 437 Ausführender Frachtführer
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091302125)
 
 (1) Wird die Beförderung ganz oder teilweise durch einen Dritten
 ausgeführt (ausführender Frachtführer), so haftet dieser für den
@@ -15882,6 +16467,7 @@ genommen, so gilt für diese § 436 entsprechend.
 
 
 ##### § 438 Schadensanzeige
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091402377)
 
 (1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich
 erkennbar und zeigt der Empfänger oder der Absender dem Frachtführer
@@ -15907,6 +16493,7 @@ der das Gut abliefert.
 
 
 ##### § 439 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091501377)
 
 (1) Ansprüche aus einer Beförderung, die den Vorschriften dieses
 Unterabschnitts unterliegt, verjähren in einem Jahr. Bei Vorsatz oder
@@ -15941,6 +16528,7 @@ Vertragsparteien getroffen ist, erleichtert oder erschwert werden.
 
 
 ##### § 440 Pfandrecht des Frachtführers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091701377)
 
 (1) Der Frachtführer hat für alle Forderungen aus dem Frachtvertrag
 ein Pfandrecht an dem ihm zur Beförderung übergebenen Gut des
@@ -15970,6 +16558,7 @@ erfolgen.
 
 
 ##### § 441 Nachfolgender Frachtführer
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091801377)
 
 (1) Hat im Falle der Beförderung durch mehrere Frachtführer der letzte
 bei der Ablieferung die Forderungen der vorhergehenden Frachtführer
@@ -15987,6 +16576,7 @@ eines Spediteurs, der an der Beförderung mitgewirkt hat.
 
 
 ##### § 442 Rang mehrerer Pfandrechte
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE091901377)
 
 (1) Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b
 und 495 begründete Pfandrechte, so geht unter denjenigen Pfandrechten,
@@ -16000,6 +16590,7 @@ Verfrachters für Vorschüsse.
 
 
 ##### § 443 Ladeschein. Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092004360)
 
 (1) Über die Verpflichtung zur Ablieferung des Gutes kann von dem
 Frachtführer ein Ladeschein ausgestellt werden, der die in § 408 Abs.
@@ -16025,6 +16616,7 @@ Eintragung in einen elektronischen Ladeschein zu regeln.
 
 
 ##### § 444 Wirkung des Ladescheins. Legitimation
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100500377)
 
 (1) Der Ladeschein begründet die Vermutung, dass der Frachtführer das
 Gut so übernommen hat, wie es im Ladeschein beschrieben ist; § 409
@@ -16062,6 +16654,7 @@ des Ladescheins ist, wer einen Ladeschein besitzt, der
 
 
 ##### § 445 Ablieferung gegen Rückgabe des Ladescheins
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092101377)
 
 (1) Nach Ankunft des Gutes an der Ablieferungsstelle ist der
 legitimierte Besitzer des Ladescheins berechtigt, vom Frachtführer die
@@ -16086,6 +16679,7 @@ Verlust des Gutes zu zahlen wäre.
 
 
 ##### § 446 Befolgung von Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092201377)
 
 (1) Das Verfügungsrecht nach den §§ 418 und 419 steht, wenn ein
 Ladeschein ausgestellt worden ist, ausschließlich dem legitimierten
@@ -16103,6 +16697,7 @@ Betrag begrenzt, der bei Verlust des Gutes zu zahlen wäre.
 
 
 ##### § 447 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092301377)
 
 (1) Dem aus dem Ladeschein Berechtigten kann der Frachtführer nur
 solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen
@@ -16118,6 +16713,7 @@ machen.
 
 
 ##### § 448 Traditionswirkung des Ladescheins
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092401377)
 
 Die Begebung des Ladescheins an den darin benannten Empfänger hat,
 sofern der Frachtführer das Gut im Besitz hat, für den Erwerb von
@@ -16126,6 +16722,7 @@ Gleiches gilt für die Übertragung des Ladescheins an Dritte.
 
 
 ##### § 449 Abweichende Vereinbarungen über die Haftung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092502377)
 
 (1) Soweit der Frachtvertrag nicht die Beförderung von Briefen oder
 briefähnlichen Sendungen zum Gegenstand hat, kann von den
@@ -16172,6 +16769,7 @@ Inland liegen.
 
 
 ##### § 450 Anwendung von Seefrachtrecht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092600307)
 
 Hat der Frachtvertrag die Beförderung des Gutes ohne Umladung sowohl
 auf Binnen- als auch auf Seegewässern zum Gegenstand, so ist auf den
@@ -16187,10 +16785,12 @@ Vertrag Seefrachtrecht anzuwenden, wenn
 
 
 #### Zweiter Unterabschnitt - Beförderung von Umzugsgut
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039800307)
 
 
 
 ##### § 451 Umzugsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092700307)
 
 Hat der Frachtvertrag die Beförderung von Umzugsgut zum Gegenstand, so
 sind auf den Vertrag die Vorschriften des Ersten Unterabschnitts
@@ -16199,6 +16799,7 @@ anzuwendende internationale Übereinkommen nichts anderes bestimmen.
 
 
 ##### § 451a Pflichten des Frachtführers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092801305)
 
 (1) Die Pflichten des Frachtführers umfassen auch das Ab- und Aufbauen
 der Möbel sowie das Ver- und Entladen des Umzugsgutes.
@@ -16209,6 +16810,7 @@ Leistungen wie die Verpackung und Kennzeichnung des Umzugsgutes.
 
 
 ##### § 451b Frachtbrief. Gefährliches Gut. Begleitpapiere. Mitteilungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE092901305)
 
 (1) Abweichend von § 408 ist der Absender nicht verpflichtet, einen
 Frachtbrief auszustellen.
@@ -16227,9 +16829,11 @@ Urkunden und erteilte Auskünfte richtig und vollständig sind.
 
 
 ##### § 451c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093002377)
 
 
 ##### § 451d Besondere Haftungsausschlußgründe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093100307)
 
 (1) Abweichend von § 427 ist der Frachtführer von seiner Haftung
 befreit, soweit der Verlust oder die Beschädigung auf eine der
@@ -16275,6 +16879,7 @@ Weisungen beachtet hat.
 
 
 ##### § 451e Haftungshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093201377)
 
 Abweichend von § 431 Abs. 1 und 2 ist die Haftung des Frachtführers
 wegen Verlust oder Beschädigung auf einen Betrag von 620 Euro je
@@ -16283,6 +16888,7 @@ beschränkt.
 
 
 ##### § 451f Schadensanzeige
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093300307)
 
 Abweichend von § 438 Abs. 1 und 2 erlöschen Ansprüche wegen Verlust
 oder Beschädigung des Gutes,
@@ -16301,6 +16907,7 @@ oder Beschädigung des Gutes,
 
 
 ##### § 451g Wegfall der Haftungsbefreiungen und -begrenzungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093401305)
 
 Ist der Absender ein Verbraucher, so kann sich der Frachtführer oder
 eine in § 428 genannte Person
@@ -16326,6 +16933,7 @@ Gestaltung besonders hervorgehoben sein.
 
 
 ##### § 451h Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093502377)
 
 (1) Ist der Absender ein Verbraucher, so kann von den die Haftung des
 Frachtführers und des Absenders regelnden Vorschriften dieses
@@ -16353,10 +16961,12 @@ der Übernahme und der Ort der Ablieferung des Gutes im Inland liegen.
 
 
 #### Dritter Unterabschnitt - Beförderung mit verschiedenartigen Beförderungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG039900307)
 
 
 
 ##### § 452 Frachtvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093601377)
 
 Wird die Beförderung des Gutes auf Grund eines einheitlichen
 Frachtvertrags mit verschiedenartigen Beförderungsmitteln durchgeführt
@@ -16371,6 +16981,7 @@ Teil der Beförderung über See durchgeführt wird.
 
 
 ##### § 452a Bekannter Schadensort
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093700307)
 
 Steht fest, daß der Verlust, die Beschädigung oder das Ereignis, das
 zu einer Überschreitung der Lieferfrist geführt hat, auf einer
@@ -16384,6 +16995,7 @@ Teilstrecke eingetreten ist, obliegt demjenigen, der dies behauptet.
 
 
 ##### § 452b Schadensanzeige. Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093800307)
 
 (1) § 438 ist unabhängig davon anzuwenden, ob der Schadensort
 unbekannt ist, bekannt ist oder später bekannt wird. Die für die
@@ -16399,6 +17011,7 @@ Schadensort frühestens nach Maßgabe des § 439.
 
 
 ##### § 452c Umzugsvertrag über eine Beförderung mit verschiedenartigen Beförderungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE093900307)
 
 Hat der Frachtvertrag die Beförderung von Umzugsgut mit
 verschiedenartigen Beförderungsmitteln zum Gegenstand, so sind auf den
@@ -16409,6 +17022,7 @@ Deutschland verbindlichen internationalen Übereinkommens gelten.
 
 
 ##### § 452d Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094000307)
 
 (1) Von der Regelung des § 452b Abs. 2 Satz 1 kann nur durch
 Vereinbarung abgewichen werden, die im einzelnen ausgehandelt ist,
@@ -16440,10 +17054,12 @@ sind unwirksam.
 
 
 ### Fünfter Abschnitt - Speditionsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040000307)
 
 
 
 #### § 453 Speditionsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094100307)
 
 (1) Durch den Speditionsvertrag wird der Spediteur verpflichtet, die
 Versendung des Gutes zu besorgen.
@@ -16462,6 +17078,7 @@ anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
 
 #### § 454 Besorgung der Versendung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094200307)
 
 (1) Die Pflicht, die Versendung zu besorgen, umfaßt die Organisation
 der Beförderung, insbesondere
@@ -16497,6 +17114,7 @@ Versenders wahrzunehmen und dessen Weisungen zu befolgen.
 
 
 #### § 455 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094303377)
 
 (1) Der Versender ist verpflichtet, das Gut, soweit erforderlich, zu
 verpacken und zu kennzeichnen und Urkunden zur Verfügung zu stellen
@@ -16530,12 +17148,14 @@ Verschulden trifft.
 
 
 #### § 456 Fälligkeit der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094400307)
 
 Die Vergütung ist zu zahlen, wenn das Gut dem Frachtführer oder
 Verfrachter übergeben worden ist.
 
 
 #### § 457 Forderungen des Versenders
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094500307)
 
 Der Versender kann Forderungen aus einem Vertrag, den der Spediteur
 für Rechnung des Versenders im eigenen Namen abgeschlossen hat, erst
@@ -16545,6 +17165,7 @@ den Gläubigern des Spediteurs als auf den Versender übertragen.
 
 
 #### § 458 Selbsteintritt
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094600307)
 
 Der Spediteur ist befugt, die Beförderung des Gutes durch
 Selbsteintritt auszuführen. Macht er von dieser Befugnis Gebrauch, so
@@ -16555,6 +17176,7 @@ verlangen.
 
 
 #### § 459 Spedition zu festen Kosten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094700307)
 
 Soweit als Vergütung ein bestimmter Betrag vereinbart ist, der Kosten
 für die Beförderung einschließt, hat der Spediteur hinsichtlich der
@@ -16564,6 +17186,7 @@ Aufwendungen nur, soweit dies üblich ist.
 
 
 #### § 460 Sammelladung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094800307)
 
 (1) Der Spediteur ist befugt, die Versendung des Gutes zusammen mit
 Gut eines anderen Versenders auf Grund eines für seine Rechnung über
@@ -16578,6 +17201,7 @@ Fracht.
 
 
 #### § 461 Haftung des Spediteurs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE094900307)
 
 (1) Der Spediteur haftet für den Schaden, der durch Verlust oder
 Beschädigung des in seiner Obhut befindlichen Gutes entsteht. Die §§
@@ -16597,6 +17221,7 @@ davon ab, inwieweit diese Umstände zu dem Schaden beigetragen haben.
 
 
 #### § 462 Haftung für andere
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095000307)
 
 Der Spediteur hat Handlungen und Unterlassungen seiner Leute in
 gleichem Umfang zu vertreten wie eigene Handlungen und Unterlassungen,
@@ -16606,6 +17231,7 @@ Erfüllung seiner Pflicht, die Versendung zu besorgen, bedient.
 
 
 #### § 463 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095100307)
 
 Auf die Verjährung der Ansprüche aus einer Leistung, die den
 Vorschriften dieses Abschnitts unterliegt, ist § 439 entsprechend
@@ -16613,6 +17239,7 @@ anzuwenden.
 
 
 #### § 464 Pfandrecht des Spediteurs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095201377)
 
 Der Spediteur hat für alle Forderungen aus dem Speditionsvertrag ein
 Pfandrecht an dem ihm zur Versendung übergebenen Gut des Versenders
@@ -16624,6 +17251,7 @@ abgeschlossenen Speditions-, Fracht-, Seefracht- und Lagerverträgen. §
 
 
 #### § 465 Nachfolgender Spediteur
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095301377)
 
 (1) Wirkt an einer Beförderung neben dem Frachtführer auch ein
 Spediteur mit und hat dieser die Ablieferung zu bewirken, so ist auf
@@ -16635,6 +17263,7 @@ des ersteren auf den letzteren über.
 
 
 #### § 466 Abweichende Vereinbarungen über die Haftung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095402377)
 
 (1) Soweit der Speditionsvertrag nicht die Versendung von Briefen oder
 briefähnlichen Sendungen zum Gegenstand hat, kann von den
@@ -16681,10 +17310,12 @@ Inland liegen.
 
 
 ### Sechster Abschnitt - Lagergeschäft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040100307)
 
 
 
 #### § 467 Lagervertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095501125)
 
 (1) Durch den Lagervertrag wird der Lagerhalter verpflichtet, das Gut
 zu lagern und aufzubewahren.
@@ -16703,6 +17334,7 @@ gilt jedoch nicht für die §§ 348 bis 350.
 
 
 #### § 468 Behandlung des Gutes. Begleitpapiere. Mitteilungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095604125)
 
 (1) Der Einlagerer ist verpflichtet, dem Lagerhalter, wenn
 gefährliches Gut eingelagert werden soll, rechtzeitig in Textform die
@@ -16753,6 +17385,7 @@ Verschulden trifft.
 
 
 #### § 469 Sammellagerung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095700307)
 
 (1) Der Lagerhalter ist nur berechtigt, vertretbare Sachen mit anderen
 Sachen gleicher Art und Güte zu vermischen, wenn die beteiligten
@@ -16768,6 +17401,7 @@ bedarf.
 
 
 #### § 470 Empfang des Gutes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095800307)
 
 Befindet sich Gut, das dem Lagerhalter zugesandt ist, beim Empfang in
 einem beschädigten oder mangelhaften Zustand, der äußerlich erkennbar
@@ -16776,6 +17410,7 @@ sichern und dem Einlagerer unverzüglich Nachricht zu geben.
 
 
 #### § 471 Erhaltung des Gutes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE095900307)
 
 (1) Der Lagerhalter hat dem Einlagerer die Besichtigung des Gutes, die
 Entnahme von Proben und die zur Erhaltung des Gutes notwendigen
@@ -16800,6 +17435,7 @@ Lagerscheins zu richten.
 
 
 #### § 472 Versicherung. Einlagerung bei einem Dritten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096001305)
 
 (1) Der Lagerhalter ist verpflichtet, das Gut auf Verlangen des
 Einlagerers zu versichern. Ist der Einlagerer ein Verbraucher, so hat
@@ -16811,6 +17447,7 @@ einzulagern, wenn der Einlagerer ihm dies ausdrücklich gestattet hat.
 
 
 #### § 473 Dauer der Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096100307)
 
 (1) Der Einlagerer kann das Gut jederzeit herausverlangen. Ist der
 Lagervertrag auf unbestimmte Zeit geschlossen, so kann er den Vertrag
@@ -16831,6 +17468,7 @@ legitimierten Besitzer des Lagerscheins zu richten.
 
 
 #### § 474 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096200307)
 
 Der Lagerhalter hat Anspruch auf Ersatz seiner für das Gut gemachten
 Aufwendungen, soweit er sie den Umständen nach für erforderlich halten
@@ -16838,6 +17476,7 @@ durfte.
 
 
 #### § 475 Haftung für Verlust oder Beschädigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096300307)
 
 Der Lagerhalter haftet für den Schaden, der durch Verlust oder
 Beschädigung des Gutes in der Zeit von der Übernahme zur Lagerung bis
@@ -16848,6 +17487,7 @@ bei einem Dritten einlagert.
 
 
 #### § 475a Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096400307)
 
 Auf die Verjährung von Ansprüchen aus einer Lagerung, die den
 Vorschriften dieses Abschnitts unterliegt, findet § 439 entsprechende
@@ -16858,6 +17498,7 @@ legitimierten Besitzer des Lagerscheins den Verlust anzeigt.
 
 
 #### § 475b Pfandrecht des Lagerhalters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096501377)
 
 (1) Der Lagerhalter hat für alle Forderungen aus dem Lagervertrag ein
 Pfandrecht an dem ihm zur Lagerung übergebenen Gut des Einlagerers
@@ -16880,6 +17521,7 @@ oder Lagerscheins darüber verfügen kann.
 
 
 #### § 475c Lagerschein. Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096604360)
 
 (1) Über die Verpflichtung zur Auslieferung des Gutes kann von dem
 Lagerhalter, nachdem er das Gut erhalten hat, ein Lagerschein
@@ -16933,6 +17575,7 @@ Eintragungen in einen elektronischen Lagerschein zu regeln.
 
 
 #### § 475d Wirkung des Lagerscheins. Legitimation
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096701377)
 
 (1) Der Lagerschein begründet die Vermutung, dass das Gut und seine
 Verpackung in Bezug auf den äußerlich erkennbaren Zustand sowie auf
@@ -16972,6 +17615,7 @@ Besitzer des Lagerscheins ist, wer einen Lagerschein besitzt, der
 
 
 #### § 475e Auslieferung gegen Rückgabe des Lagerscheins
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096801377)
 
 (1) Der legitimierte Besitzer des Lagerscheins ist berechtigt, vom
 Lagerhalter die Auslieferung des Gutes zu verlangen.
@@ -16996,6 +17640,7 @@ Abschreibungsvermerk einzutragen.
 
 
 #### § 475f Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE096901377)
 
 Dem aus dem Lagerschein Berechtigten kann der Lagerhalter nur solche
 Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im
@@ -17007,6 +17652,7 @@ Lagerscheins.
 
 
 #### § 475g Traditionswirkung des Lagerscheins
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097001377)
 
 Die Begebung des Lagerscheins an denjenigen, der darin als der zum
 Empfang des Gutes Berechtigte benannt ist, hat, sofern der Lagerhalter
@@ -17016,26 +17662,31 @@ Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die
 
 
 #### § 475h Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE097102377)
 
 Ist der Einlagerer ein Verbraucher, so kann nicht zu dessen Nachteil
 von den §§ 475a und 475e Absatz 4 abgewichen werden.
 
 
 ## Fünftes Buch - Seehandel
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG035503377)
 
 
 
 ### Erster Abschnitt - Personen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG035603377)
 
 
 
 #### § 476 Reeder
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE038604377)
 
 Reeder ist der Eigentümer eines von ihm zum Erwerb durch Seefahrt
 betriebenen Schiffes.
 
 
 #### § 477 Ausrüster
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE038701377)
 
 (1) Ausrüster ist, wer ein ihm nicht gehörendes Schiff zum Erwerb
 durch Seefahrt betreibt.
@@ -17051,6 +17702,7 @@ Ausrüsters mitteilt.
 
 
 #### § 478 Schiffsbesatzung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE038801377)
 
 Die Schiffsbesatzung besteht aus dem Kapitän, den Schiffsoffizieren,
 der Schiffsmannschaft sowie allen sonstigen im Rahmen des
@@ -17061,6 +17713,7 @@ werden und die den Anordnungen des Kapitäns unterstellt sind.
 
 
 #### § 479 Rechte des Kapitäns. Tagebuch
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE038902377)
 
 (1) Der Kapitän ist befugt, für den Reeder alle Geschäfte und
 Rechtshandlungen vorzunehmen, die der Betrieb des Schiffes gewöhnlich
@@ -17080,6 +17733,7 @@ Beglaubigung dieser Abschrift verlangen.
 
 
 #### § 480 Verantwortlichkeit des Reeders für Schiffsbesatzung und Lotsen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE039001377)
 
 Hat sich ein Mitglied der Schiffsbesatzung oder ein an Bord tätiger
 Lotse in Ausübung seiner Tätigkeit einem Dritten gegenüber
@@ -17091,22 +17745,27 @@ entsprechend anzuwenden.
 
 
 ### Zweiter Abschnitt - Beförderungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG035702377)
 
 
 
 #### Erster Unterabschnitt - Seefrachtverträge
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040500377)
 
 
 
 ##### Erster Titel - Stückgutfrachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040600377)
 
 
 
 ###### Erster Untertitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040700377)
 
 
 
 ###### § 481 Hauptpflichten. Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE039101377)
 
 (1) Durch den Stückgutfrachtvertrag wird der Verfrachter verpflichtet,
 das Gut mit einem Schiff über See zum Bestimmungsort zu befördern und
@@ -17126,6 +17785,7 @@ anzuwenden; dies gilt jedoch nicht für die §§ 348 bis 350.
 
 
 ###### § 482 Allgemeine Angaben zum Gut
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE039201377)
 
 (1) Der Befrachter hat dem Verfrachter vor Übergabe des Gutes die für
 die Durchführung der Beförderung erforderlichen Angaben zum Gut zu
@@ -17139,6 +17799,7 @@ Absatz 1 Satz 2 genannten Angaben verlangen.
 
 
 ###### § 483 Gefährliches Gut
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE039302377)
 
 (1) Soll gefährliches Gut befördert werden, so haben der Befrachter
 und der in § 482 Absatz 2 genannte Dritte dem Verfrachter rechtzeitig
@@ -17166,6 +17827,7 @@ verlangen.
 
 
 ###### § 484 Verpackung. Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE039401377)
 
 Der Befrachter hat das Gut, soweit dessen Natur unter Berücksichtigung
 der vereinbarten Beförderung eine Verpackung erfordert, so zu
@@ -17180,6 +17842,7 @@ Behandlung dies erfordert, zu kennzeichnen.
 
 
 ###### § 485 See- und Ladungstüchtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE039502377)
 
 Der Verfrachter hat dafür zu sorgen, dass das Schiff in seetüchtigem
 Stand, gehörig eingerichtet, ausgerüstet, bemannt und mit genügenden
@@ -17191,6 +17854,7 @@ befinden (Ladungstüchtigkeit).
 
 
 ###### § 486 Abladen. Verladen. Umladen. Löschen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE079705125)
 
 (1) Der Befrachter hat die Übergabe des Gutes an den Verfrachter zur
 Beförderung (Abladung) innerhalb der vertraglich vereinbarten Zeit zu
@@ -17216,6 +17880,7 @@ Lademittels ausgerüstet ist.
 
 
 ###### § 487 Begleitpapiere
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE079801377)
 
 (1) Der Befrachter hat dem Verfrachter alle Urkunden zur Verfügung zu
 stellen und Auskünfte zu erteilen, die für eine amtliche Behandlung,
@@ -17236,6 +17901,7 @@ weiter verringert wird, ist jedoch Dritten gegenüber unwirksam.
 
 
 ###### § 488 Haftung des Befrachters und Dritter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040201377)
 
 (1) Der Befrachter hat dem Verfrachter Schäden und Aufwendungen zu
 ersetzen, die verursacht werden durch
@@ -17299,6 +17965,7 @@ Vertragsbedingungen beschränkt werden.
 
 
 ###### § 489 Kündigung durch den Befrachter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040301377)
 
 (1) Der Befrachter kann den Stückgutfrachtvertrag jederzeit kündigen.
 
@@ -17329,6 +17996,7 @@ abweichend von Satz 1 die Kosten vom Verfrachter zu tragen.
 
 
 ###### § 490 Rechte des Verfrachters bei säumiger Abladung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040401377)
 
 (1) Bewirkt der Befrachter die Abladung des Gutes nicht oder nicht
 vollständig innerhalb der vertraglich vereinbarten Zeit, so kann der
@@ -17365,6 +18033,7 @@ nicht innerhalb der vertraglich vereinbarten Zeit abgeladen wird.
 
 
 ###### § 491 Nachträgliche Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040501377)
 
 (1) Soweit § 520 Absatz 1 nichts Abweichendes bestimmt, ist der
 Befrachter berechtigt, über das Gut zu verfügen. Er kann insbesondere
@@ -17409,6 +18078,7 @@ wird.
 
 
 ###### § 492 Beförderungs- und Ablieferungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040601377)
 
 (1) Wird nach Übernahme des Gutes erkennbar, dass die Beförderung oder
 Ablieferung nicht vertragsgemäß durchgeführt werden kann, so hat der
@@ -17451,6 +18121,7 @@ Risikobereich zuzurechnen ist.
 
 
 ###### § 493 Zahlung. Frachtberechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040701377)
 
 (1) Die Fracht ist bei Ablieferung des Gutes zu zahlen. Der
 Verfrachter hat über die Fracht hinaus einen Anspruch auf Ersatz von
@@ -17485,6 +18156,7 @@ Verfügung standen, die Richtigkeit der Angaben zu überprüfen.
 
 
 ###### § 494 Rechte des Empfängers. Zahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040801377)
 
 (1) Nach Ankunft des Gutes am Löschplatz ist der Empfänger berechtigt,
 vom Verfrachter zu verlangen, ihm das Gut gegen Erfüllung der
@@ -17513,6 +18185,7 @@ geschuldeten Beträge verpflichtet.
 
 
 ###### § 495 Pfandrecht des Verfrachters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE040901377)
 
 (1) Der Verfrachter hat für alle Forderungen aus dem
 Stückgutfrachtvertrag ein Pfandrecht an dem ihm zur Beförderung
@@ -17542,6 +18215,7 @@ richten.
 
 
 ###### § 496 Nachfolgender Verfrachter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041001377)
 
 (1) Hat im Falle der Beförderung durch mehrere Verfrachter der letzte
 bei der Ablieferung die Forderungen vorhergehender Verfrachter
@@ -17559,6 +18233,7 @@ eines Spediteurs, der an der Beförderung mitgewirkt hat.
 
 
 ###### § 497 Rang mehrerer Pfandrechte
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041101377)
 
 Bestehen an demselben Gut mehrere nach den §§ 397, 440, 464, 475b und
 495 begründete Pfandrechte, so bestimmt sich der Rang dieser
@@ -17566,10 +18241,12 @@ Pfandrechte untereinander nach § 442.
 
 
 ###### Zweiter Untertitel - Haftung wegen Verlust oder Beschädigung des Gutes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040800377)
 
 
 
 ###### § 498 Haftungsgrund
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041201377)
 
 (1) Der Verfrachter haftet für den Schaden, der durch Verlust oder
 Beschädigung des Gutes in der Zeit von der Übernahme zur Beförderung
@@ -17595,6 +18272,7 @@ anderen Teil verursacht worden ist.
 
 
 ###### § 499 Besondere Schadensursachen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041301377)
 
 (1) Der Verfrachter haftet nicht, soweit der Verlust oder die
 Beschädigung auf einem der folgenden Umstände beruht:
@@ -17657,6 +18335,7 @@ getroffen und besondere Weisungen beachtet hat.
 
 
 ###### § 500 Unerlaubte Verladung auf Deck
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041401377)
 
 Hat der Verfrachter ohne die nach § 486 Absatz 4 erforderliche
 Zustimmung des Befrachters oder des Abladers Gut auf Deck verladen,
@@ -17668,6 +18347,7 @@ zurückzuführen ist, dass das Gut auf Deck verladen wurde.
 
 
 ###### § 501 Haftung für andere
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041502377)
 
 Der Verfrachter hat ein Verschulden seiner Leute und der
 Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes
@@ -17676,6 +18356,7 @@ er sich bei Ausführung der Beförderung bedient.
 
 
 ###### § 502 Wertersatz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041601377)
 
 (1) Hat der Verfrachter nach den Bestimmungen dieses Untertitels für
 gänzlichen oder teilweisen Verlust des Gutes Schadensersatz zu
@@ -17706,6 +18387,7 @@ erspart ist.
 
 
 ###### § 503 Schadensfeststellungskosten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041701377)
 
 Bei Verlust oder Beschädigung des Gutes hat der Verfrachter über den
 nach § 502 zu leistenden Ersatz hinaus die Kosten der Feststellung des
@@ -17713,6 +18395,7 @@ Schadens zu tragen.
 
 
 ###### § 504 Haftungshöchstbetrag bei Güterschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041801377)
 
 (1) Die nach den §§ 502 und 503 zu leistende Entschädigung wegen
 Verlust oder Beschädigung ist auf einen Betrag von 666,67
@@ -17742,6 +18425,7 @@ Berechnung der Begrenzung nach Absatz 1
 
 
 ###### § 505 Rechnungseinheit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE041902377)
 
 Die in diesem Untertitel genannte Rechnungseinheit ist das
 Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird
@@ -17754,6 +18438,7 @@ Operationen und Transaktionen anwendet.
 
 
 ###### § 506 Außervertragliche Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042001377)
 
 (1) Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen
 Haftungsbefreiungen und Haftungsbegrenzungen gelten auch für einen
@@ -17787,6 +18472,7 @@ Schiffes entstanden ist.
 
 
 ###### § 507 Wegfall der Haftungsbefreiungen und -begrenzungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042101377)
 
 Die in diesem Untertitel und im Stückgutfrachtvertrag vorgesehenen
 Haftungsbefreiungen und Haftungsbegrenzungen gelten nicht, wenn
@@ -17806,6 +18492,7 @@ Haftungsbefreiungen und Haftungsbegrenzungen gelten nicht, wenn
 
 
 ###### § 508 Haftung der Leute und der Schiffsbesatzung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042201377)
 
 (1) Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder
 Beschädigung des Gutes gegen einen der Leute des Verfrachters geltend
@@ -17825,6 +18512,7 @@ verantwortlich, so haften sie als Gesamtschuldner.
 
 
 ###### § 509 Ausführender Verfrachter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042302125)
 
 (1) Wird die Beförderung ganz oder teilweise durch einen Dritten
 ausgeführt, der nicht der Verfrachter ist, so haftet der Dritte
@@ -17850,6 +18538,7 @@ entsprechend anzuwenden.
 
 
 ###### § 510 Schadensanzeige
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042401377)
 
 (1) Ist ein Verlust oder eine Beschädigung des Gutes äußerlich
 erkennbar und zeigt der Empfänger oder der Befrachter dem Verfrachter
@@ -17870,6 +18559,7 @@ genügt die Anzeige gegenüber demjenigen, der das Gut abliefert.
 
 
 ###### § 511 Verlustvermutung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042501377)
 
 (1) Der Anspruchsberechtigte kann das Gut als verloren betrachten,
 wenn es nicht innerhalb eines Zeitraums abgeliefert wird, der dem
@@ -17900,6 +18590,7 @@ nicht geltend, so kann der Verfrachter über das Gut frei verfügen.
 
 
 ###### § 512 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042601377)
 
 (1) Von den Vorschriften dieses Untertitels kann nur durch
 Vereinbarung abgewichen werden, die im Einzelnen ausgehandelt wird,
@@ -17925,10 +18616,12 @@ Vertragsbedingungen bestimmt werden, dass
 
 
 ###### Dritter Untertitel - Beförderungsdokumente
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG040900377)
 
 
 
 ###### § 513 Anspruch auf Ausstellung eines Konnossements
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042701377)
 
 (1) Der Verfrachter hat, sofern im Stückgutfrachtvertrag nicht etwas
 Abweichendes vereinbart ist, dem Ablader auf dessen Verlangen ein
@@ -17946,6 +18639,7 @@ Ablader nicht benannt, gilt der Befrachter als Ablader.
 
 
 ###### § 514 Bord- und Übernahmekonnossement
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042801377)
 
 (1) Das Konnossement ist auszustellen, sobald der Verfrachter das Gut
 übernommen hat. Durch das Konnossement bestätigt der Verfrachter den
@@ -17967,6 +18661,7 @@ Originalausfertigungen auszustellen.
 
 
 ###### § 515 Inhalt des Konnossements
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE042901377)
 
 (1) Das Konnossement soll folgende Angaben enthalten:
 
@@ -18011,6 +18706,7 @@ des Gutes in Textform mitgeteilt hat.
 
 
 ###### § 516 Form des Konnossements. Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043004360)
 
 (1) Das Konnossement ist vom Verfrachter zu unterzeichnen; eine
 Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel
@@ -18031,6 +18727,7 @@ regeln.
 
 
 ###### § 517 Beweiskraft des Konnossements
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043101377)
 
 (1) Das Konnossement begründet die Vermutung, dass der Verfrachter das
 Gut so übernommen hat, wie es nach § 515 Absatz 1 Nummer 7 und 8
@@ -18067,6 +18764,7 @@ hat. Aus dem Vorbehalt muss sich ergeben,
 
 
 ###### § 518 Stellung des Reeders bei mangelhafter Verfrachterangabe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043201377)
 
 Ist in einem Konnossement, das vom Kapitän oder von einem anderen zur
 Zeichnung von Konnossementen für den Reeder Befugten ausgestellt
@@ -18077,6 +18775,7 @@ berechtigt und verpflichtet.
 
 
 ###### § 519 Berechtigung aus dem Konnossement. Legitimation
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043301377)
 
 Die im Konnossement verbrieften seefrachtvertraglichen Ansprüche
 können nur von dem aus dem Konnossement Berechtigten geltend gemacht
@@ -18099,6 +18798,7 @@ besitzt, das
 
 
 ###### § 520 Befolgung von Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043401377)
 
 (1) Ist ein Konnossement ausgestellt, so steht das Verfügungsrecht
 nach den §§ 491 und 492 ausschließlich dem legitimierten Besitzer des
@@ -18117,6 +18817,7 @@ Gutes zu zahlen wäre.
 
 
 ###### § 521 Ablieferung gegen Rückgabe des Konnossements
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043501377)
 
 (1) Nach Ankunft des Gutes am Löschplatz ist der legitimierte Besitzer
 des Konnossements berechtigt, vom Verfrachter die Ablieferung des
@@ -18153,6 +18854,7 @@ Verlust des Gutes zu zahlen wäre.
 
 
 ###### § 522 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043602377)
 
 (1) Dem aus dem Konnossement Berechtigten kann der Verfrachter nur
 solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen
@@ -18180,6 +18882,7 @@ Befugten ausgestellt wurde.
 
 
 ###### § 523 Haftung für unrichtige Konnossementsangaben
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043701377)
 
 (1) Der Verfrachter haftet für den Schaden, der dem aus dem
 Konnossement Berechtigten dadurch entsteht, dass die in das
@@ -18215,6 +18918,7 @@ der bei Verlust des Gutes zu zahlen wäre.
 
 
 ###### § 524 Traditionswirkung des Konnossements
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043801377)
 
 Die Begebung des Konnossements an den darin benannten Empfänger hat,
 sofern der Verfrachter das Gut im Besitz hat, für den Erwerb von
@@ -18223,6 +18927,7 @@ Gleiches gilt für die Übertragung des Konnossements an Dritte.
 
 
 ###### § 525 Abweichende Bestimmung im Konnossement
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE043901377)
 
 Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in
 den §§ 498 bis 511 oder in § 520 Absatz 2, § 521 Absatz 4 oder § 523
@@ -18237,6 +18942,7 @@ begeben wurde, sowie gegenüber einem Dritten, dem das Konnossement
 
 
 ###### § 526 Seefrachtbrief. Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044004360)
 
 (1) Der Verfrachter kann, sofern er nicht ein Konnossement ausgestellt
 hat, einen Seefrachtbrief ausstellen. Auf den Inhalt des
@@ -18265,10 +18971,12 @@ einen elektronischen Seefrachtbrief zu regeln.
 
 
 ##### Zweiter Titel - Reisefrachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041000377)
 
 
 
 ###### § 527 Reisefrachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044101377)
 
 (1) Durch den Reisefrachtvertrag wird der Verfrachter verpflichtet,
 das Gut mit einem bestimmten Schiff im Ganzen, mit einem
@@ -18284,6 +18992,7 @@ bestimmen.
 
 
 ###### § 528 Ladehafen. Ladeplatz
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044201377)
 
 (1) Der Verfrachter hat das Schiff zur Einnahme des Gutes an den im
 Reisefrachtvertrag benannten oder an den vom Befrachter nach Abschluss
@@ -18296,6 +19005,7 @@ gebotenen Sorgfalt einen sicheren Ladehafen oder Ladeplatz auswählen.
 
 
 ###### § 529 Anzeige der Ladebereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100600377)
 
 (1) Der Verfrachter hat, sobald das Schiff am Ladeplatz zur Einnahme
 des Gutes bereit ist, dem Befrachter die Ladebereitschaft anzuzeigen.
@@ -18311,6 +19021,7 @@ zugegangen.
 
 
 ###### § 530 Ladezeit. Überliegezeit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100700377)
 
 (1) Mit dem auf die Anzeige folgenden Tag beginnt die Ladezeit.
 
@@ -18335,6 +19046,7 @@ Risikobereich des Verfrachters zuzurechnen sind, unmöglich ist.
 
 
 ###### § 531 Verladen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044401377)
 
 (1) Soweit sich aus den Umständen oder der Verkehrssitte nicht etwas
 anderes ergibt, hat der Befrachter das Gut zu verladen. Die
@@ -18345,6 +19057,7 @@ Schiffes bleibt unberührt.
 
 
 ###### § 532 Kündigung durch den Befrachter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044501377)
 
 (1) Der Befrachter kann den Reisefrachtvertrag jederzeit kündigen.
 
@@ -18354,6 +19067,7 @@ etwaiges Liegegeld verlangen.
 
 
 ###### § 533 Teilbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044601377)
 
 (1) Der Befrachter kann jederzeit verlangen, dass der Verfrachter nur
 einen Teil des Gutes befördert. Macht der Befrachter von diesem Recht
@@ -18384,6 +19098,7 @@ befördern und die Ansprüche nach Absatz 1 Satz 2 bis 4 geltend machen.
 
 
 ###### § 534 Kündigung durch den Verfrachter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044701377)
 
 (1) Verlädt der Befrachter kein Gut innerhalb der Ladezeit und einer
 vereinbarten Überliegezeit oder wird, wenn dem Befrachter die
@@ -18399,6 +19114,7 @@ wird.
 
 
 ###### § 535 Löschen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044801377)
 
 (1) Die §§ 528 bis 531 über Ladehafen und Ladeplatz, Anzeige der
 Ladebereitschaft, Ladezeit und Verladen sind entsprechend auf
@@ -18414,10 +19130,12 @@ Weise zu bewirken.
 
 
 #### Zweiter Unterabschnitt - Personenbeförderungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041100377)
 
 
 
 ##### § 536 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE044902123)
 
 (1) Für Schäden, die bei der Beförderung von Fahrgästen und ihrem
 Gepäck über See durch den Tod oder die Körperverletzung eines
@@ -18453,6 +19171,7 @@ Atomgesetzes haftet.
 
 
 ##### § 537 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045001377)
 
 Im Sinne dieses Unterabschnitts ist
 
@@ -18511,6 +19230,7 @@ Im Sinne dieses Unterabschnitts ist
 
 
 ##### § 538 Haftung des Beförderers für Personenschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045101377)
 
 (1) Der Beförderer haftet für den Schaden, der durch den Tod oder die
 Körperverletzung eines Fahrgasts entsteht, wenn das den Schaden
@@ -18560,6 +19280,7 @@ befindet.
 
 
 ##### § 539 Haftung des Beförderers für Gepäck- und Verspätungsschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045201377)
 
 (1) Der Beförderer haftet für den Schaden, der durch Verlust oder
 Beschädigung von Kabinengepäck oder von anderem Gepäck entsteht, wenn
@@ -18621,6 +19342,7 @@ Zeiträume:
 
 
 ##### § 540 Haftung für andere
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045301377)
 
 Der Beförderer hat ein Verschulden seiner Leute und der
 Schiffsbesatzung in gleichem Umfang zu vertreten wie eigenes
@@ -18630,6 +19352,7 @@ Personen, deren er sich bei der Ausführung der Beförderung bedient.
 
 
 ##### § 541 Haftungshöchstbetrag bei Personenschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045401377)
 
 (1) Die Haftung des Beförderers wegen Tod oder Körperverletzung eines
 Fahrgasts ist in jedem Fall auf einen Betrag von 400 000
@@ -18676,6 +19399,7 @@ Zahlung oder in Form von Teilzahlungen aufgeteilt werden kann.
 
 
 ##### § 542 Haftungshöchstbetrag bei Gepäck- und Verspätungsschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045501377)
 
 (1) Die Haftung des Beförderers wegen Verlust, Beschädigung oder
 verspäteter Aushändigung von Kabinengepäck ist, soweit Absatz 2 nichts
@@ -18708,12 +19432,14 @@ gegebenenfalls die Reparaturkosten zu ersetzen.
 
 
 ##### § 543 Zinsen und Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045601377)
 
 Zinsen und Verfahrenskosten sind über die in den §§ 538, 541 und 542
 genannten Haftungshöchstbeträge hinaus zu erstatten.
 
 
 ##### § 544 Rechnungseinheit
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045701377)
 
 Die in den §§ 538, 541 und 542 genannte Rechnungseinheit ist das
 Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird
@@ -18726,6 +19452,7 @@ Operationen und Transaktionen anwendet.
 
 
 ##### § 545 Wegfall der Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE045801377)
 
 Die in den §§ 541 und 542 sowie im Personenbeförderungsvertrag
 vorgesehenen Haftungshöchstbeträge gelten nicht, wenn der Schaden auf
@@ -18736,6 +19463,7 @@ solcher Schaden mit Wahrscheinlichkeit eintreten werde.
 
 
 ##### § 546 Ausführender Beförderer
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100801125)
 
 (1) Wird die Beförderung ganz oder teilweise durch einen Dritten
 ausgeführt, der nicht der Beförderer ist, so haftet der Dritte
@@ -18756,6 +19484,7 @@ Gesamtschuldner.
 
 
 ##### § 547 Haftung der Leute und der Schiffsbesatzung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE100900377)
 
 (1) Wird einer der Leute des Beförderers oder des ausführenden
 Beförderers wegen Tod oder Körperverletzung eines Fahrgasts oder wegen
@@ -18777,6 +19506,7 @@ verantwortlich, haften sie als Gesamtschuldner.
 
 
 ##### § 548 Konkurrierende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101000377)
 
 Ansprüche wegen Tod oder Körperverletzung eines Fahrgasts oder wegen
 Verlust, Beschädigung oder verspäteter Aushändigung von Gepäck können
@@ -18786,6 +19516,7 @@ werden.
 
 
 ##### § 549 Schadensanzeige
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101100377)
 
 (1) Zeigt der Fahrgast dem Beförderer eine Beschädigung oder einen
 Verlust seines Gepäcks nicht rechtzeitig an, so wird vermutet, dass er
@@ -18816,6 +19547,7 @@ genügt die rechtzeitige Absendung.
 
 
 ##### § 550 Erlöschen von Schadensersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101200377)
 
 Ein Schadensersatzanspruch wegen Tod oder Körperverletzung eines
 Fahrgasts oder wegen Verlust, Beschädigung oder verspäteter
@@ -18837,6 +19569,7 @@ folgenden Fristen gerichtlich geltend gemacht wird:
 
 
 ##### § 551 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101300377)
 
 Soweit in § 542 Absatz 4 nichts Abweichendes bestimmt ist, ist jede
 Vereinbarung unwirksam, die vor Eintritt des Ereignisses getroffen
@@ -18849,6 +19582,7 @@ eingeschränkt wird.
 
 
 ##### § 552 Pfandrecht des Beförderers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046001377)
 
 (1) Der Beförderer hat für seine Forderung auf das Beförderungsentgelt
 ein Pfandrecht an dem Gepäck des Fahrgasts.
@@ -18858,14 +19592,17 @@ hinterlegt ist.
 
 
 ### Dritter Abschnitt - Schiffsüberlassungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG035802377)
 
 
 
 #### Erster Unterabschnitt - Schiffsmiete
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041200377)
 
 
 
 ##### § 553 Schiffsmietvertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101400377)
 
 (1) Durch den Schiffsmietvertrag (Bareboat Charter) wird der Vermieter
 verpflichtet, dem Mieter ein bestimmtes Seeschiff ohne Besatzung zu
@@ -18887,6 +19624,7 @@ nicht für die §§ 348 bis 350.
 
 
 ##### § 554 Übergabe und Rückgabe des Schiffes. Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE101500377)
 
 (1) Der Vermieter hat dem Mieter das Schiff zur vereinbarten Zeit am
 vereinbarten Ort in einem zum vertragsgemäßen Gebrauch geeigneten
@@ -18900,12 +19638,14 @@ vertragsgemäßen Gebrauchs zurückzugeben.
 
 
 ##### § 555 Sicherung der Rechte des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046201377)
 
 Der Mieter hat die Rechte des Vermieters gegenüber Dritten für den
 Vermieter zu sichern.
 
 
 ##### § 556 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046301377)
 
 Ein auf unbestimmte Zeit eingegangenes Mietverhältnis kann spätestens
 am ersten Werktag einer Woche zum Ablauf des folgenden Sonnabends
@@ -18915,10 +19655,12 @@ eines Kalendervierteljahrs zulässig.
 
 
 #### Zweiter Unterabschnitt - Zeitcharter
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041300377)
 
 
 
 ##### § 557 Zeitchartervertrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046401377)
 
 (1) Durch den Zeitchartervertrag wird der Zeitvercharterer
 verpflichtet, dem Zeitcharterer zu dessen Verwendung ein bestimmtes
@@ -18940,12 +19682,14 @@ nicht für die §§ 348 bis 350.
 
 
 ##### § 558 Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046501377)
 
 Jede Partei des Zeitchartervertrags kann die schriftliche Beurkundung
 dieses Vertrags verlangen.
 
 
 ##### § 559 Bereitstellung des Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046601377)
 
 (1) Das Schiff ist dem Zeitcharterer zur vereinbarten Zeit am
 vereinbarten Ort in einem zum vertragsgemäßen Gebrauch geeigneten
@@ -18959,6 +19703,7 @@ nicht erfüllt werden wird.
 
 
 ##### § 560 Erhaltung des vertragsgemäßen Zustands des Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046701377)
 
 Der Zeitvercharterer hat das Schiff während der Dauer des
 Zeitchartervertrags in einem zum vertragsgemäßen Gebrauch geeigneten
@@ -18968,6 +19713,7 @@ verwendet wird, ladungstüchtig ist.
 
 
 ##### § 561 Verwendung des Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046801377)
 
 (1) Der Zeitcharterer bestimmt über die Verwendung des Schiffes. Er
 ist verpflichtet, mit der gebotenen Sorgfalt einen sicheren Hafen oder
@@ -18982,6 +19728,7 @@ verchartern.
 
 
 ##### § 562 Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE046901377)
 
 Zeitvercharterer und Zeitcharterer sind verpflichtet, sich gegenseitig
 über alle das Schiff und die Reisen betreffenden Umstände von
@@ -18989,6 +19736,7 @@ Bedeutung zu unterrichten.
 
 
 ##### § 563 Verladen und Löschen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047001377)
 
 (1) Der Zeitcharterer hat, wenn das Schiff zur Beförderung von Gütern
 verwendet wird, diese zu verladen und zu löschen.
@@ -18998,6 +19746,7 @@ Seetüchtigkeit des Schiffes nicht beeinträchtigt.
 
 
 ##### § 564 Kosten für den Betrieb des Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047101377)
 
 (1) Der Zeitvercharterer hat die fixen Kosten des Schiffsbetriebs zu
 tragen, insbesondere die Kosten der Besatzung, Ausrüstung,
@@ -19011,6 +19760,7 @@ erforderlichen Treibstoff in handelsüblicher Qualität zu beschaffen.
 
 
 ##### § 565 Zeitfracht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047501377)
 
 (1) Die Zeitfracht ist mangels anderer Vereinbarung halbmonatlich im
 Voraus zu zahlen.
@@ -19024,6 +19774,7 @@ eine angemessen herabgesetzte Zeitfracht zu zahlen.
 
 
 ##### § 566 Pfandrecht des Zeitvercharterers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047601377)
 
 (1) Der Zeitvercharterer hat für seine Forderungen aus dem
 Zeitchartervertrag ein Pfandrecht an den an Bord des Schiffes
@@ -19047,6 +19798,7 @@ fällige Ansprüche auf Zeitfracht.
 
 
 ##### § 567 Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047701377)
 
 Verletzt eine Partei des Zeitchartervertrags eine Pflicht aus diesem
 Vertrag, so bestimmen sich die Rechtsfolgen nach den allgemeinen für
@@ -19056,6 +19808,7 @@ bestimmt ist.
 
 
 ##### § 568 Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047801377)
 
 Der Zeitvercharterer kann die von ihm geschuldeten Leistungen,
 einschließlich der Einnahme von Gut und der Ausstellung von
@@ -19064,6 +19817,7 @@ Anspruch auf Zeitfracht nicht erfüllt.
 
 
 ##### § 569 Rückgabe des Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE047901377)
 
 (1) Nach Beendigung des Vertragsverhältnisses hat der Zeitcharterer
 das Schiff am vereinbarten Ort zurückzugeben.
@@ -19078,14 +19832,17 @@ entstandenen Schaden zu ersetzen.
 
 
 ### Vierter Abschnitt - Schiffsnotlagen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG035902377)
 
 
 
 #### Erster Unterabschnitt - Schiffszusammenstoß
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041400377)
 
 
 
 ##### § 570 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048001377)
 
 Im Falle eines Zusammenstoßes von Seeschiffen haftet der Reeder des
 Schiffes, das den Zusammenstoß verursacht hat, für den Schaden, der
@@ -19096,6 +19853,7 @@ oder eine in § 480 genannte Person ein Verschulden trifft.
 
 
 ##### § 571 Mitverschulden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048101377)
 
 (1) Sind die Reeder mehrerer am Zusammenstoß beteiligter Schiffe zum
 Schadensersatz verpflichtet, so bestimmt sich der Umfang des von einem
@@ -19111,6 +19869,7 @@ des Absatzes 1 verpflichtet.
 
 
 ##### § 572 Fernschädigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048201377)
 
 Fügt ein Schiff durch Ausführung oder Unterlassung eines Manövers oder
 durch Nichtbeachtung einer Schifffahrtsregel einem anderen Schiff oder
@@ -19120,16 +19879,19 @@ und 571 entsprechend anzuwenden.
 
 
 ##### § 573 Beteiligung eines Binnenschiffs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048301377)
 
 Die Vorschriften dieses Unterabschnitts sind entsprechend anzuwenden,
 wenn an dem Unfall ein Binnenschiff beteiligt ist.
 
 
 #### Zweiter Unterabschnitt - Bergung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041500377)
 
 
 
 ##### § 574 Pflichten des Bergers und sonstiger Personen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048401377)
 
 (1) Berger ist, wer folgenden Schiffen oder Vermögensgegenständen
 Hilfe leistet:
@@ -19187,6 +19949,7 @@ zurückzunehmen.
 
 
 ##### § 575 Verhütung oder Begrenzung von Umweltschäden
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048501377)
 
 (1) Der Berger ist gegenüber dem Eigentümer des in Gefahr befindlichen
 Schiffes sowie gegenüber dem Eigentümer eines sonstigen in Gefahr
@@ -19206,6 +19969,7 @@ Explosion oder ähnliche schwerwiegende Ereignisse verursacht wird.
 
 
 ##### § 576 Bergelohnanspruch
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048601377)
 
 (1) Sind die Bergungsmaßnahmen erfolgreich, hat der Berger einen
 Anspruch auf Zahlung eines Bergelohns. Der Anspruch besteht auch dann,
@@ -19225,6 +19989,7 @@ Vermögensgegenstände zueinander anteilig verpflichtet.
 
 
 ##### § 577 Höhe des Bergelohns
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048701377)
 
 (1) Bergelohn ist, wenn die Parteien seine Höhe nicht vereinbart
 haben, so festzusetzen, dass er einen Anreiz für Bergungsmaßnahmen
@@ -19278,6 +20043,7 @@ sonstigen geborgenen Vermögensgegenstände nicht übersteigen.
 
 
 ##### § 578 Sondervergütung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048801377)
 
 (1) Hat der Berger Bergungsmaßnahmen für ein Schiff durchgeführt, das
 als solches oder durch seine Ladung eine Gefahr für die Umwelt
@@ -19306,6 +20072,7 @@ erhöht werden, wenn dies billig und gerecht erscheint.
 
 
 ##### § 579 Ausschluss des Vergütungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE048901377)
 
 (1) Der Berger kann für durchgeführte Bergungsmaßnahmen keine
 Vergütung nach den Vorschriften dieses Unterabschnitts verlangen,
@@ -19322,6 +20089,7 @@ oder befunden hat, Bergungsmaßnahmen durchführt.
 
 
 ##### § 580 Fehlverhalten des Bergers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049001377)
 
 (1) Der Bergelohn kann herabgesetzt oder gänzlich versagt werden, wenn
 Bergungsmaßnahmen durch Verschulden des Bergers notwendig oder
@@ -19335,6 +20103,7 @@ Absatz 2) zu verhüten oder zu begrenzen.
 
 
 ##### § 581 Ausgleichsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049101377)
 
 (1) Wird ein Schiff oder dessen Ladung ganz oder teilweise von einem
 anderen Schiff geborgen, so wird der Bergelohn oder die
@@ -19363,6 +20132,7 @@ durchgeführt werden.
 
 
 ##### § 582 Mehrheit von Bergern
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049201377)
 
 (1) Wirken mehrere Berger an der Bergung mit, so kann jeder Berger nur
 einen Anteil am Bergelohn verlangen. Auf die Bestimmung des
@@ -19377,6 +20147,7 @@ und sich das Ersuchen als nicht vernünftig erweist.
 
 
 ##### § 583 Rettung von Menschen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049301377)
 
 (1) Menschen, denen das Leben gerettet worden ist, haben weder einen
 Bergelohn noch eine Sondervergütung zu entrichten.
@@ -19397,6 +20168,7 @@ entsprechend anzuwenden.
 
 
 ##### § 584 Abschluss und Inhaltskontrolle eines Bergungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049401377)
 
 (1) Sowohl der Eigentümer als auch der Schiffer oder Kapitän des in
 Gefahr befindlichen Schiffes sind berechtigt, im Namen der Eigentümer
@@ -19421,6 +20193,7 @@ Antrag durch Urteil für nichtig erklärt oder abgeändert werden, wenn
 
 
 ##### § 585 Pfandrecht. Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049501377)
 
 (1) Der Gläubiger einer Forderung auf Bergelohn, auf Sondervergütung
 oder auf Bergungskosten hat nach § 596 Absatz 1 Nummer 4 für seine
@@ -19456,6 +20229,7 @@ und Zurückbehaltungsrecht nicht geltend machen oder ausüben,
 
 
 ##### § 586 Rangfolge der Pfandrechte
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049601377)
 
 (1) Pfandrechte an den geborgenen Sachen nach § 585 Absatz 2 haben den
 Vorrang vor allen anderen an den Sachen begründeten Pfandrechten, auch
@@ -19483,6 +20257,7 @@ gegenüber dem Eigentümer wirksam.
 
 
 ##### § 587 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049701377)
 
 (1) Der Berger kann für seine Forderung auf Bergelohn oder
 Sondervergütung einschließlich Zinsen und Kosten von dem Schuldner die
@@ -19512,10 +20287,12 @@ Reeders gehandelt hat.
 
 
 #### Dritter Unterabschnitt - Große Haverei
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG041600377)
 
 
 
 ##### § 588 Errettung aus gemeinsamer Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049801377)
 
 (1) Werden das Schiff, der Treibstoff, die Ladung oder mehrere dieser
 Sachen zur Errettung aus einer gemeinsamen Gefahr auf Anordnung des
@@ -19531,6 +20308,7 @@ Frachtforderung untergeht.
 
 
 ##### § 589 Verschulden eines Beteiligten oder eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE049901377)
 
 (1) Die Anwendung der Vorschriften über die Große Haverei wird nicht
 dadurch ausgeschlossen, dass die Gefahr durch Verschulden eines
@@ -19546,6 +20324,7 @@ sind, gemeinschaftlich tragen müssen.
 
 
 ##### § 590 Bemessung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050001377)
 
 (1) Die Vergütung für die Aufopferung des Schiffes, dessen Zubehörs,
 des Treibstoffs und der zur Ladung gehörenden Frachtstücke bemisst
@@ -19571,6 +20350,7 @@ dieser Sache ist.
 
 
 ##### § 591 Beitrag
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050101377)
 
 (1) Die Beteiligten, mit Ausnahme der Schiffsbesatzung und der
 Fahrgäste, haben zur Zahlung der Vergütung einen Beitrag zu leisten.
@@ -19587,6 +20367,7 @@ Untergang der Frachtforderung wegen Havereimaßnahmen.
 
 
 ##### § 592 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050201377)
 
 (1) Die Höhe der Vergütung, die ein Beteiligter wegen der Aufopferung
 oder Beschädigung eines ihm nach § 588 Absatz 2 zuzurechnenden
@@ -19607,6 +20388,7 @@ ist.
 
 
 ##### § 593 Schiffsgläubigerrecht
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050301377)
 
 Die Vergütungsberechtigten haben nach § 596 Absatz 1 Nummer 4 für ihre
 Beitragsforderungen gegen den Eigentümer des Schiffes sowie den
@@ -19614,6 +20396,7 @@ Gläubiger der Fracht die Rechte eines Schiffsgläubigers an dem Schiff.
 
 
 ##### § 594 Pfandrecht der Vergütungsberechtigten. Nichtauslieferung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050401377)
 
 (1) Die Vergütungsberechtigten haben für ihre Beitragsforderungen ein
 Pfandrecht an dem Treibstoff und der Ladung der Beitragspflichtigen.
@@ -19643,6 +20426,7 @@ Anweisung des Reeders gehandelt hat.
 
 
 ##### § 595 Aufmachung der Dispache
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050501377)
 
 (1) Jeder Beteiligte ist berechtigt, die Aufmachung der Dispache am
 Bestimmungsort oder, wenn dieser nicht erreicht wird, in dem Hafen, in
@@ -19662,10 +20446,12 @@ Verfügung zu stellen.
 
 
 ### Fünfter Abschnitt - Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG036003377)
 
 
 
 #### § 596 Gesicherte Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050601377)
 
 (1) Die Gläubiger folgender Forderungen haben die Rechte eines
 Schiffsgläubigers:
@@ -19706,6 +20492,7 @@ Abfällen zurückzuführen sind.
 
 
 #### § 597 Pfandrecht der Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050701377)
 
 (1) Die Schiffsgläubiger haben für ihre Forderungen ein gesetzliches
 Pfandrecht an dem Schiff. Das Pfandrecht kann gegen jeden Besitzer des
@@ -19717,6 +20504,7 @@ Rechtsverfolgung.
 
 
 #### § 598 Gegenstand des Pfandrechts der Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050801377)
 
 (1) Das Pfandrecht der Schiffsgläubiger erstreckt sich auf das Zubehör
 des Schiffes mit Ausnahme der Zubehörstücke, die nicht in das Eigentum
@@ -19732,12 +20520,14 @@ Versicherung, die der Reeder für das Schiff genommen hat.
 
 
 #### § 599 Erlöschen der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE050901377)
 
 Erlischt die durch das Pfandrecht eines Schiffsgläubigers gesicherte
 Forderung, so erlischt auch das Pfandrecht.
 
 
 #### § 600 Zeitablauf
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051001377)
 
 (1) Das Pfandrecht eines Schiffsgläubigers erlischt ein Jahr nach
 Entstehung der Forderung.
@@ -19758,6 +20548,7 @@ Neubeginn der Frist aus anderen Gründen ist ausgeschlossen.
 
 
 #### § 601 Befriedigung des Schiffsgläubigers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051101377)
 
 (1) Die Befriedigung des Schiffsgläubigers aus dem Schiff erfolgt nach
 den Vorschriften über die Zwangsvollstreckung.
@@ -19774,6 +20565,7 @@ Einwendungen geltend zu machen, bleibt unberührt.
 
 
 #### § 602 Vorrang der Pfandrechte der Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051201377)
 
 Die Pfandrechte der Schiffsgläubiger haben Vorrang vor allen anderen
 Pfandrechten am Schiff. Sie haben Vorrang auch insoweit, als zoll- und
@@ -19782,6 +20574,7 @@ für öffentliche Abgaben dienen.
 
 
 #### § 603 Allgemeine Rangordnung der Pfandrechte der Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051301377)
 
 (1) Die Rangordnung der Pfandrechte der Schiffsgläubiger bestimmt sich
 nach der Reihenfolge der Nummern, unter denen die Forderungen in § 596
@@ -19799,6 +20592,7 @@ Beendigung der Wrackbeseitigung entstanden.
 
 
 #### § 604 Rangordnung der Pfandrechte unter derselben Nummer
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051401377)
 
 (1) Von den Pfandrechten für die in § 596 Absatz 1 Nummer 1 bis 3 und
 5 aufgeführten Forderungen haben die Pfandrechte für die unter
@@ -19816,10 +20610,12 @@ gleichzeitig entstandener Forderungen sind gleichberechtigt.
 
 
 ### Sechster Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG036102377)
 
 
 
 #### § 605 Einjährige Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051501377)
 
 Folgende Ansprüche verjähren in einem Jahr:
 
@@ -19839,6 +20635,7 @@ Folgende Ansprüche verjähren in einem Jahr:
 
 
 #### § 606 Zweijährige Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051601377)
 
 Folgende Ansprüche verjähren in zwei Jahren:
 
@@ -19862,6 +20659,7 @@ Folgende Ansprüche verjähren in zwei Jahren:
 
 
 #### § 607 Beginn der Verjährungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051701377)
 
 (1) Die Verjährungsfrist für die in § 605 Nummer 1 genannten Ansprüche
 beginnt mit dem Tag, an dem das Gut abgeliefert wurde, oder, wenn das
@@ -19924,6 +20722,7 @@ entsprechend anzuwenden.
 
 
 #### § 608 Hemmung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051801377)
 
 Die Verjährung der in den §§ 605 und 606 genannten Ansprüche wird auch
 durch eine Erklärung des Gläubigers, mit der dieser Ersatzansprüche
@@ -19934,6 +20733,7 @@ Ersatzanspruch zum Gegenstand hat, hemmt die Verjährung nicht erneut.
 
 
 #### § 609 Vereinbarungen über die Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE051902125)
 
 (1) Die Verjährung von Schadensersatzansprüchen aus einem
 Stückgutfrachtvertrag oder aus einem Konnossement wegen Verlust oder
@@ -19953,6 +20753,7 @@ insbesondere eine Verkürzung der Verjährungsfrist, ist unzulässig.
 
 
 #### § 610 Konkurrierende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052001377)
 
 Treffen vertragliche Schadensersatzansprüche, die den Vorschriften
 dieses Abschnitts unterworfen sind, mit konkurrierenden
@@ -19962,10 +20763,12 @@ Abschnitts.
 
 
 ### Siebter Abschnitt - Allgemeine Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG036202377)
 
 
 
 #### § 611 Übereinkommen über die Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052101377)
 
 (1) Die Haftung für Seeforderungen kann nach den Bestimmungen des
 Übereinkommens vom 19. November 1976 über die Beschränkung der Haftung
@@ -20015,6 +20818,7 @@ Haftungsbeschränkungsübereinkommens und des Haftungsübereinkommens von
 
 
 #### § 612 Haftungsbeschränkung für Ansprüche aus Wrackbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE080502377)
 
 (1) Das Haftungsbeschränkungsübereinkommen (§ 611 Absatz 1 Satz 1) ist
 auf folgende Ansprüche mit der Maßgabe anzuwenden, dass für sie
@@ -20049,6 +20853,7 @@ nicht anzuwenden.
 
 
 #### § 613 Haftungsbeschränkung für kleine Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052301377)
 
 Für ein Schiff mit einem Raumgehalt bis zu 250 Tonnen wird der nach
 Artikel 6 Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens
@@ -20058,6 +20863,7 @@ geltenden Haftungshöchstbetrags festgesetzt.
 
 
 #### § 614 Haftungsbeschränkung für Schäden an Häfen und Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052401377)
 
 Unbeschadet des Rechts nach Artikel 6 Absatz 2 des
 Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) in Bezug
@@ -20068,6 +20874,7 @@ Absatz 1 Buchstabe b des Haftungsbeschränkungsübereinkommens.
 
 
 #### § 615 Beschränkung der Haftung des Lotsen
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052502377)
 
 (1) Die in Artikel 6 Absatz 1 Buchstabe a und b des
 Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) bestimmten
@@ -20106,6 +20913,7 @@ gegen den Lotsen zur Verfügung steht.
 
 
 #### § 616 Wegfall der Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052601377)
 
 (1) Ist der Schuldner eine juristische Person oder eine
 Personenhandelsgesellschaft, so kann er seine Haftung nicht
@@ -20133,6 +20941,7 @@ für welche auch die Gesellschaft ihre Haftung beschränken kann.
 
 
 #### § 617 Verfahren der Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052701377)
 
 (1) Die Errichtung und Verteilung eines Fonds im Sinne des Artikels 11
 des Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1) oder
@@ -20148,10 +20957,12 @@ der Zivilprozessordnung bleibt unberührt.
 
 
 ### Achter Abschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNG036503377)
 
 
 
 #### § 618 Einstweilige Verfügung eines Bergers
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052801377)
 
 Auf Antrag eines Bergers (§ 574 Absatz 1) kann das für die Hauptsache
 zuständige Gericht unter Berücksichtigung der Umstände des Falles nach
@@ -20165,6 +20976,7 @@ bezeichneten Voraussetzungen nicht zutreffen.
 
 
 #### § 619 Zustellungen an den Kapitän oder Schiffer
+[Direktlink](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html#BJNR002190897BJNE052901377)
 
 Eine Klage eines Schiffsgläubigers auf Duldung der Zwangsvollstreckung
 in ein Schiff sowie ein Urteil oder ein Beschluss in einem Verfahren

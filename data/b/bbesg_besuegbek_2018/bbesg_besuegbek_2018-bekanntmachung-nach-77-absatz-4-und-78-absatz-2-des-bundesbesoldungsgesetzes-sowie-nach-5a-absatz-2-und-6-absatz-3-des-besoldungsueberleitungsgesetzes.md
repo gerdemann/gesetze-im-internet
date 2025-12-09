@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/BJNR190500018.html#BJNR190500018BJNE000100000)
 
 Nach
 
@@ -63,11 +64,13 @@ bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/BJNR190500018.html#BJNR190500018BJNE000200000)
 
 Der Bundesminister des Innern, für Bau und Heimat
 
 
 ## Anhang 1 zu Nummer 1
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/BJNR190500018.html#BJNR190500018BJNE000300000)
 
 (Fundstelle: BGBl. I 2018, 1906 - 1908)
 
@@ -1012,6 +1015,7 @@ Gültig ab 1. März 2020
 [^f804135_02_01_BJNR190500018BJNE000300000]: 
 
 ## Anhang 2 zu Nummer 2
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/BJNR190500018.html#BJNR190500018BJNE000400000)
 
 (Fundstelle: BGBl. I 2018, 1909 - 1926)
 
@@ -5937,6 +5941,7 @@ zusätzlich gewährt.
 [^f804135_06_01_BJNR190500018BJNE000400000]: 
 
 ## Anhang 3 zu Nummer 3
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/BJNR190500018.html#BJNR190500018BJNE000500000)
 
 (Fundstelle: BGBl. I 2018, 1927 - 1932)
 
@@ -7977,6 +7982,7 @@ des gehobenen Dienstes sowie für Offiziere um 10,12 Euro.
 
 
 ## Anhang 4 zu Nummer 4
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/BJNR190500018.html#BJNR190500018BJNE000600000)
 
 (Fundstelle: BGBl. I 2018, 1933 - 1935)
 

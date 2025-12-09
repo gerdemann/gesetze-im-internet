@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kindarbschv/BJNR150800998.html#BJNR150800998BJNE000100000)
 
 Auf Grund des § 5 Abs. 4a des Jugendarbeitsschutzgesetzes, der durch
 Artikel 1 Nr. 2 Buchstabe e des Gesetzes vom 24. Februar 1997 (BGBl. I
@@ -25,6 +26,7 @@ S. 311) eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Beschäftigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/kindarbschv/BJNR150800998.html#BJNR150800998BJNE000200000)
 
 Kinder über 13 Jahre und vollzeitschulpflichtige Jugendliche dürfen
 nicht beschäftigt werden, soweit nicht das Jugendarbeitsschutzgesetz
@@ -32,6 +34,7 @@ und § 2 dieser Verordnung Ausnahmen vorsehen.
 
 
 ## § 2 Zulässige Beschäftigungen
+[Direktlink](https://www.gesetze-im-internet.de/kindarbschv/BJNR150800998.html#BJNR150800998BJNE000300000)
 
 (1) Kinder über 13 Jahre und vollzeitschulpflichtige Jugendliche
 dürfen nur beschäftigt werden
@@ -120,18 +123,21 @@ Schutzvorschriften des Jugendarbeitsschutzgesetzes entsprechen.
 
 
 ## § 3 Behördliche Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/kindarbschv/BJNR150800998.html#BJNR150800998BJNE000400000)
 
 Die Aufsichtsbehörde kann im Einzelfall feststellen, ob die
 Beschäftigung nach § 2 zulässig ist.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kindarbschv/BJNR150800998.html#BJNR150800998BJNE000500000)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kindarbschv/BJNR150800998.html#BJNR150800998BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

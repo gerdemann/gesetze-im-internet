@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000100305)
 
 Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird mit
 Sitz in Berlin eine rechtsfähige Stiftung des öffentlichen Rechts
@@ -29,6 +30,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000200305)
 
 (1) Zweck der Stiftung ist es, in Zusammenarbeit mit anderen
 Einrichtungen auf dem Gebiet der Aufarbeitung der SED-Diktatur,
@@ -108,6 +110,7 @@ innere Einheit Deutschlands zu fördern und zu festigen.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000300305)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -136,6 +139,7 @@ im Sinne des Stiftungszweckes zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000401311)
 
 Die Stiftung gibt sich im Benehmen mit der für Kultur und Medien
 zuständigen obersten Bundesbehörde eine Satzung, die vom Stiftungsrat
@@ -144,6 +148,7 @@ gleiche gilt für Änderungen der Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000500305)
 
 Organe der Stiftung sind
 
@@ -159,6 +164,7 @@ Fachbeiräte berufen.
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000600305)
 
 (1) Der Stiftungsrat setzt sich wie folgt zusammen: Der Deutsche
 Bundestag wählt nach der zum Zeitpunkt der Wahl bestehenden Zahl
@@ -201,6 +207,7 @@ des Stiftungsrates mit beratender Stimme teilzunehmen.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000700305)
 
 (1) Der Vorstand besteht aus mindestens drei, höchstens fünf
 Mitgliedern. Sie werden vom Stiftungsrat mit der Mehrheit seiner
@@ -214,6 +221,7 @@ außergerichtlich.
 
 
 ## § 8 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000800305)
 
 Die Mitglieder des Stiftungsrates, des Vorstandes und gegebenenfalls
 der Fachbeiräte sind, soweit sie nicht nebenamtlich tätig sind,
@@ -221,6 +229,7 @@ ehrenamtlich tätig.
 
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung, Rechts- und Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE000901311)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und
 Medien zuständigen obersten Bundesbehörde.
@@ -234,6 +243,7 @@ Auslagen werden nicht erstattet.
 
 
 ## § 10 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE001000305)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 wahrgenommen.
@@ -247,6 +257,7 @@ beschäftigen, verliehen werden.
 
 
 ## § 11 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE001100305)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -254,11 +265,13 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 12 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE001200305)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seddiktstiftg/BJNR122600998.html#BJNR122600998BJNE001300305)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

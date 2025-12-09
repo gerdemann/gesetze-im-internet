@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000100000)
 
 Auf Grund
 
@@ -50,6 +51,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Bezugsgröße in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000200000)
 
 Die Bezugsgröße nach § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch
 für das Jahr 2025 beträgt 44 940 Euro. Umgerechnet auf den Monat
@@ -57,6 +59,7 @@ ergeben sich 3 745 Euro.
 
 
 ## § 2 Jahresarbeitsentgeltgrenzen in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000300000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
 Buches Sozialgesetzbuch wird für das Jahr 2025 auf 73 800 Euro
@@ -68,6 +71,7 @@ festgesetzt. Umgerechnet auf den Monat ergeben sich 5 512,50 Euro.
 
 
 ## § 3 Durchschnittsentgelte in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000400000)
 
 (1) Das Durchschnittsentgelt nach § 69 Absatz 2 Satz 1 Nummer 1 des
 Sechsten Buches Sozialgesetzbuch für das Jahr 2023 beträgt 44 732
@@ -82,6 +86,7 @@ ergänzt.
 
 
 ## § 4 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000500000)
 
 (1) Die Beitragsbemessungsgrenze nach § 159 des Sechsten Buches
 Sozialgesetzbuch wird für das Jahr 2025 wie folgt festgesetzt:
@@ -101,11 +106,13 @@ Sozialgesetzbuch wird für das Jahr 2025 wie folgt festgesetzt:
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2025/BJNR16D0A0024.html#BJNR16D0A0024BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

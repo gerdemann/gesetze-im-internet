@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000100000)
 
 Auf Grund des § 18 Absatz 4 des Bundesbeamtengesetzes vom 5. Februar
 2009 (BGBl. I S. 160) in Verbindung mit dem 2. Abschnitt des
@@ -35,12 +36,14 @@ das Bundesministerium des Innern:
 
 
 ## § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000303311)
 
 Diese Verordnung gilt für die in § 7 Absatz 1 Satz 1 Nummer 1 des
 Bundesbeamtengesetzes genannten Personen.
 
 
 ## § 1a Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE001500311)
 
 Diese Verordnung regelt die Anerkennung von Berufsqualifikation als
 Befähigung für eine Laufbahn im Bundesdienst auf Grund der Richtlinie
@@ -52,6 +55,7 @@ Befähigung für eine Laufbahn im Bundesdienst auf Grund der Richtlinie
 
 
 ## § 2 Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000403311)
 
 (1) Eine Berufsqualifikation wird auf Antrag als Laufbahnbefähigung
 anerkannt, wenn sie
@@ -156,6 +160,7 @@ Tätigkeit der Laufbahn zugelassen werden.
 
 
 ## § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000502311)
 
 (1) Die Anerkennung ist unter Angabe der angestrebten Tätigkeit oder
 Laufbahn schriftlich oder elektronisch zu beantragen.
@@ -207,6 +212,7 @@ beizufügen.
 
 
 ## § 4 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000601311)
 
 (1) Über die Anerkennung entscheidet das Bundesverwaltungsamt.
 
@@ -218,6 +224,7 @@ oder teilweise auf diese oder eine Behörde ihres Geschäftsbereichs
 
 
 ## § 5 Ausgleichsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000702311)
 
 (1) Das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
 Behörde prüft, ob die Anerkennungsvoraussetzungen nach § 2 erfüllt
@@ -296,6 +303,7 @@ Richtlinie 2005/36/EG entspricht, ablehnen.
 
 
 ## § 6 Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000803311)
 
 (1) Die Eignungsprüfung ist eine Prüfung, mit der festgestellt wird,
 ob die Antragstellerin oder der Antragsteller in der Lage ist, die
@@ -387,6 +395,7 @@ Bescheid.
 
 
 ## § 7 Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE000900000)
 
 (1) Das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
 Behörde vergleicht auf der Grundlage der Ausbildungs-, Studien- und
@@ -410,6 +419,7 @@ Antragsteller erhält über das Ergebnis einen schriftlichen Bescheid.
 
 
 ## § 8 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE001002311)
 
 (1) Das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
 Behörde bestätigt innerhalb eines Monats den Empfang der
@@ -460,10 +470,12 @@ Tätigkeit begründet keinen Anspruch auf Einstellung.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE001103116)
 
 
 
 ## § 10 Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE001202311)
 
 Das Bundesverwaltungsamt arbeitet mit den zuständigen Behörden der
 Qualifikations- oder Anerkennungsstaaten, den Beratungszentren nach
@@ -476,6 +488,7 @@ zusammen und leistet Amtshilfe, um die Anwendung der Richtlinie
 
 
 ## § 11 Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE001302311)
 
 (1) Das Bundesverwaltungsamt stellt den in § 10 genannten Stellen auf
 Ersuchen die erforderlichen Angaben über die Voraussetzungen der
@@ -506,6 +519,7 @@ der empfangende Staat zusichert,
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lbav/BJNR382400009.html#BJNR382400009BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in
 Kraft.Gleichzeitig tritt die EG-Hochschuldiplomanerkennungsverordnung

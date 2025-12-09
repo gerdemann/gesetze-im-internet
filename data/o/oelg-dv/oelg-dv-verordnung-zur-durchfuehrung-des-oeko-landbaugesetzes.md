@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -47,6 +48,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Aufgaben im Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000300000)
 
 (1) Die Bundesanstalt nimmt folgende Aufgaben im Verkehr mit den
 zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union,
@@ -168,6 +170,7 @@ bereitgestellte Computersystem ein.
 
 
 ## § 3 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000400000)
 
 Der Antrag auf Zulassung als Kontrollstelle ist schriftlich oder
 elektronisch bei der Bundesanstalt zu stellen. Im Antrag ist
@@ -176,6 +179,7 @@ die Zulassung beantragt wird.
 
 
 ## § 4 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000500000)
 
 (1) Dem Antrag auf Zulassung als Kontrollstelle sind alle zur Prüfung
 der Voraussetzungen nach Artikel 40 Absatz 1 Buchstabe a und Absatz 3
@@ -202,6 +206,7 @@ erheben, zu speichern und zu verwenden.
 
 
 ## § 5 Ergänzungsantrag für die Kontrolle in gemeinschaftlichen Verpflegungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000600000)
 
 (1) Eine Kontrollstelle, die die Zulassung für den in der Anlage 1
 bezeichneten Kontrollbereich B innehat oder beantragt, kann die
@@ -218,6 +223,7 @@ Absatz 3 Satz 1 und 3, § 9 Absatz 1, § 12 Absatz 1 bis 3, § 13 Absatz
 
 
 ## § 6 Qualitätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000700000)
 
 [^f826929_02_BJNR0CE0B0023BJNE000700000]
 Dem Antrag ist das Qualitätsmanagement-Handbuch einschließlich der
@@ -231,6 +237,7 @@ beizufügen.
 [^f826929_02_BJNR0CE0B0023BJNE000700000]: 
 
 ## § 7 Standardkontrollverfahren
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000800000)
 
 (1) Dem Antrag ist eine Darstellung des von der Kontrollstelle nach
 Artikel 40 Absatz 1 Buchstabe a Nummer ii der Verordnung (EU) 2018/848
@@ -278,6 +285,7 @@ hat.
 
 
 ## § 8 Musterformulare und Musterunterlagen der Kontrollstellen
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE000900000)
 
 (1) Die Darstellung nach § 7 Absatz 1 muss Muster für die von der
 Kontrollstelle zu verwendenden schriftlichen oder elektronischen
@@ -331,6 +339,7 @@ Freifeld vorzusehen.
 
 
 ## § 9 Musterkontrollvertrag, Musterzertifikat
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001000000)
 
 (1) Dem Antrag ist ein Muster für den Kontrollvertrag
 (Musterkontrollvertrag) beizufügen, den die Kontrollstelle mit den
@@ -344,6 +353,7 @@ vorgesehen ist.
 
 
 ## § 10 Risikobewertungsverfahren, Auswahl von Kontrollstichproben
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001100000)
 
 (1) Dem Antrag ist eine Verfahrensanweisung zur Durchführung einer
 jährlichen Risikoanalyse nach Artikel 40 Absatz 1 Buchstabe a Nummer i
@@ -425,6 +435,7 @@ hat. Die betroffenen Erzeugnisse sind risikoorientiert auszuwählen.
 
 
 ## § 11 Durchführung von Probenahmen und Bewertung der Analysen
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001200000)
 
 (1) Dem Antrag ist eine Verfahrensanweisung für die Durchführung von
 Probenahmen und zur Bewertung der Analysen beizufügen.
@@ -487,6 +498,7 @@ das aktuellen fachlichen Erkenntnissen entspricht.
 
 
 ## § 12 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001300000)
 
 (1) Dem Antrag ist eine Verfahrensanweisung für den
 Informationsaustausch beizufügen.
@@ -552,6 +564,7 @@ Kontrollstelle vornimmt.
 
 
 ## § 13 Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001400000)
 
 (1) Dem Antrag ist eine Verfahrensanweisung zur Durchführung der
 ersten und der folgenden Vor-Ort-Kontrollen beizufügen.
@@ -583,6 +596,7 @@ Auskünfte erteilt werden können.
 
 
 ## § 14 Maßnahmenkatalog
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001500000)
 
 Dem Antrag ist eine Verfahrensanweisung beizufügen, die die Anwendung
 des Maßnahmenkatalogs nach Anlage 3 gegenüber den kontrollierten
@@ -593,6 +607,7 @@ werden.
 
 
 ## § 15 Kontrollstellenpersonal
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001600000)
 
 (1) Für die Zulassung als private Kontrollstelle ist vom Antragsteller
 im Zulassungsantrag gegenüber der Bundesanstalt nachzuweisen, dass
@@ -680,6 +695,7 @@ entspricht.
 
 
 ## § 16 Anerkennung von Lehrgängen zur Vermittlung von Grundqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001700000)
 
 (1) Der Antrag auf Anerkennung eines Lehrganges zur Vermittlung von
 Grundqualifikationen nach Absatz 2 oder einer anderweitigen
@@ -713,6 +729,7 @@ gebührenpflichtig.
 
 
 ## § 17 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001800000)
 
 (1) Die Entscheidung über die Zulassung oder die Ergänzung nach § 5
 als Kontrollstelle ergeht durch schriftlichen oder elektronischen
@@ -783,6 +800,7 @@ festgestellt. § 4 Absatz 4 gilt entsprechend.
 
 
 ## § 18 Weitere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE001900000)
 
 Über einen Antrag auf Erteilung der Zulassung oder auf Ergänzung nach
 § 5 ist innerhalb einer Frist von drei Monaten, über einen Antrag nach
@@ -795,6 +813,7 @@ Satz 1 gelten die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes
 
 
 ## § 19 Formulare der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002000000)
 
 (1) Für die in dieser Verordnung vorgesehenen Anträge, Unterlagen,
 Formblätter, Schreiben, Verträge, Verfahrensanweisungen, Berichte,
@@ -809,6 +828,7 @@ ausschließlich diese zu verwenden.
 
 
 ## § 20 Unterrichtung der Länder
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002100000)
 
 Die Bundesanstalt hat die zuständigen Landesbehörden über die
 Erteilung der Zulassung einer Kontrollstelle und deren Personal sowie
@@ -816,6 +836,7 @@ Erteilung der Zulassung einer Kontrollstelle und deren Personal sowie
 
 
 ## § 21 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002200000)
 
 (1) Im Falle einer am 3. August 2023 bestehenden, auf der Grundlage
 des § 12 der ÖLG-Kontrollstellen-Zulassungsverordnung vom 7. Mai 2012
@@ -858,6 +879,7 @@ mehr als fünf Jahren Unterbrechung wiederaufnimmt.
 (zu §§ 3, 5 und 17)
 
 ## Anlage 1 Kontrollbereiche nach § 3
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 206, S. 11 - 12)
 
@@ -1019,6 +1041,7 @@ wird:**
    (zu § 12 Absatz 6)
 
 ## Anlage 2 Aufbau der alphanumerischen Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 206, S. 13)
 
@@ -1139,6 +1162,7 @@ Bedeutung der einzelnen Elemente:
 (zu § 14)
 
 ## Anlage 3 Maßnahmenkatalog nach § 14
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 206, S. 14 - 32)
 
@@ -4590,6 +4614,7 @@ Rückverfolgbarkeit und Einhaltung der Vorschriften für die
 (zu §§ 15 und 16)
 
 ## Anlage 4 Qualifikation des Kontrollstellenpersonals nach den §§ 15 und 16
+[Direktlink](https://www.gesetze-im-internet.de/_lg-dv/BJNR0CE0B0023.html#BJNR0CE0B0023BJNE002600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 206, S. 33 - 37)
 

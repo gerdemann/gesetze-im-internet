@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## § 1 Anwendungsbereich und Grundsätze der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000101360)
 
 (1) Diese Verordnung regelt die Pflichten der Auftraggeber im Sinne
 von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen zur Übermittlung
@@ -51,6 +52,7 @@ Bundesministeriums für Wirtschaft und Energie eine Vergabestatistik.
 
 
 ## § 2 Art und Umfang der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000201360)
 
 (1) Auftraggeber im Sinne von § 98 des Gesetzes gegen
 Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines
@@ -90,6 +92,7 @@ Auftraggebern.
 
 
 ## § 3 Zu übermittelnde Daten
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000301360)
 
 (1) In den Fällen des § 2 Absatz 1 umfasst die Pflicht zur
 Übermittlung die folgenden Daten:
@@ -147,6 +150,7 @@ den Absätzen 1 und 2 zur statistischen Auswertung übermitteln, sind §
 
 
 ## § 4 Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen; Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000401360)
 
 (1) Das Statistische Bundesamt ist mit Einwilligung des
 Bundesministeriums für Wirtschaft und Energie berechtigt, aus den
@@ -201,6 +205,7 @@ unverzüglich zu löschen.
 
 
 ## § 5 Datenübermittlung für die wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000501360)
 
 (1) Das Bundesministerium für Wirtschaft und Energie stellt
 Hochschulen und anderen Einrichtungen, die wissenschaftliche Forschung
@@ -224,6 +229,7 @@ Daten nach Absatz 1 zu übermitteln.
 
 
 ## § 6 Anwendungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000601360)
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 
@@ -244,6 +250,7 @@ Energie unverzüglich im Bundesanzeiger bekanntzumachen.
 
 
 ## § 7 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000801360)
 
 (1) Solange die §§ 1 bis 5 nicht nach § 6 anzuwenden sind, übermitteln
 die Auftraggeber dem Bundesministerium für Wirtschaft und Energie für
@@ -323,6 +330,7 @@ Bundesanzeiger bekannt gemacht.
 (zu § 3 Absatz 1 Nummer 1)
 
 ## Anlage 1 Öffentlicher Auftrag durch einen öffentlichen Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE000901360)
 
 (Fundstelle: BGBl. I 2020, 678 - 680)
 
@@ -680,6 +688,7 @@ dienen**
 (zu § 3 Absatz 1 Nummer 2)
 
 ## Anlage 2 Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen öffentlichen Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001001360)
 
 (Fundstelle: BGBl. I 2020, 682 - 685)
 
@@ -1025,6 +1034,7 @@ dienen**
 (zu § 3 Absatz 1 Nummer 3)
 
 ## Anlage 3 Öffentlicher Auftrag durch einen Sektorenauftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001101360)
 
 (Fundstelle: BGBl. I 2020, 686 - 689)
 
@@ -1382,6 +1392,7 @@ dienen**
 (zu § 3 Absatz 1 Nummer 4)
 
 ## Anlage 4 Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen Sektorenauftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001201360)
 
 (Fundstelle: BGBl. I 2020, 690 - 693)
 
@@ -1730,6 +1741,7 @@ dienen**
 (zu § 3 Absatz 1 Nummer 5)
 
 ## Anlage 5 Konzession durch einen Konzessionsgeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001301360)
 
 (Fundstelle: BGBl. I 2020, 694 - 697)
 
@@ -2050,6 +2062,7 @@ dienen**
 (zu § 3 Absatz 1 Nummer 6)
 
 ## Anlage 6 Konzession über eine soziale oder andere besondere Dienstleistung durch einen Konzessionsgeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001401360)
 
 (Fundstelle: BGBl. I 2020, 698 - 701)
 
@@ -2371,6 +2384,7 @@ dienen**
 (zu § 3 Absatz 1 Nummer 7)
 
 ## Anlage 7 Verteidigungs- oder sicherheitsspezifischer öffentlicher Auftrag durch einen öffentlichen Auftraggeber oder einen Sektorenauftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001501360)
 
 (Fundstelle: BGBl. I 2020, 702 - 705)
 
@@ -2692,6 +2706,7 @@ dienen**
 (zu § 3 Absatz 2)
 
 ## Anlage 8 Öffentlicher Auftrag durch einen öffentlichen Auftraggeber unterhalb des EU-Schwellenwertes
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001600360)
 
 (Fundstelle: BGBl. I 2020, 706 - 709)
 
@@ -3028,6 +3043,7 @@ dienen**
 [^f810686_17_BJNR069100016BJNE001600360]: 
 
 ## Anlage 9 Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/vergstatvo/BJNR069100016.html#BJNR069100016BJNE001700360)
 
 (Fundstelle: BGBl. I 2020, 710)
 

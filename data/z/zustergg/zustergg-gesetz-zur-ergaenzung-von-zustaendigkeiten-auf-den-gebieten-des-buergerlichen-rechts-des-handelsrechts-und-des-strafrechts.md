@@ -21,15 +21,18 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE000600302)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Erster Abschnitt - Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNG000100302)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE000700302)
 
 Im Sinne dieses Gesetzes sind als Gerichte, an deren Sitz deutsche
 Gerichtsbarkeit nicht mehr ausgeübt wird, anzusehen:
@@ -60,10 +63,12 @@ Gerichtsbarkeit nicht mehr ausgeübt wird, anzusehen:
 
 
 ## Zweiter Abschnitt - Bürgerliches Recht
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNG000200302)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE001200302)
 
 (1) Wird am Sitz des Gerichts, des Notars oder des Jugendamts, die
 nach den §§ 4 und 8 der Verordnung über die Ersetzung zerstörter oder
@@ -87,18 +92,22 @@ dies dem Amtsgericht Schöneberg in Berlin-Schöneberg unverzüglich an.
 
 
 ## Dritter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNG000301301)
 
 
 
 ### (XXXX) §§ 14 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE002001301)
 
 
 
 ## Vierter Abschnitt - Strafrecht
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNG000400302)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE002300302)
 
 (1) Für Strafsachen, die am 8. Mai 1945 bei einem Gericht anhängig
 oder rechtskräftig abgeschlossen waren, an dessen Sitz deutsche
@@ -123,6 +132,7 @@ Aufenthalt hat.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE002400302)
 
 (1) Ein Verfahren, das durch Urteil eines Wehrmachtgerichts oder eines
 Gerichts einer wehrmachtähnlichen Formation rechtskräftig
@@ -154,6 +164,7 @@ Aufenthalt hat.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE002500302)
 
 (1) Ergibt sich nach den Vorschriften der §§ 17 und 18 keine
 Zuständigkeit im Geltungsbereich dieses Gesetzes, so ist die
@@ -180,9 +191,11 @@ gebührt dem Gericht der Vorzug, das zuerst mit der Sache befaßt wird.
 
 
 ## Fünfter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNG000501301)
 
 
 
 ### (XXXX) §§ 20 bis 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zustergg/BJNR004070952.html#BJNR004070952BJNE002601301)
 
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000100325)
 
 Auf Grund des § 21b Abs. 3 in Verbindung mit § 54 des Atomgesetzes in
 der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053),
@@ -31,6 +32,7 @@ Bundesrates:
 
 
 ## § 1 Erhebung von Vorausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000205119)
 
 Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung
 radioaktiver Abfälle erhebt das Bundesministerium für Umwelt,
@@ -40,6 +42,7 @@ Beiträge.
 
 
 ## § 2 Vorausleistungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000305118)
 
 (1) Die Vorausleistungen werden von demjenigen erhoben, dem eine
 Genehmigung nach den §§ 6, 7 oder 9 des Atomgesetzes oder nach § 12
@@ -75,6 +78,7 @@ spezifischer Aktivität ergeben.
 
 
 ## § 3 Art und Umfang des Aufwandes
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000401377)
 
 Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand
 entstanden ist für
@@ -101,6 +105,7 @@ entstanden ist für
 
 
 ## § 4 Ermittlung des Aufwandes, Erhebungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000506119)
 
 (1) Der notwendige Aufwand ist einzeln für jede Anlage nach den
 tatsächlich entstandenen Kosten zu ermitteln und abzurechnen.
@@ -138,6 +143,7 @@ Vorausleistungspflichtigen unverzinst erstattet.
 
 
 ## § 5 Vorausleistungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000602119)
 
 (1) Die Vorausleistungen werden durch Bescheid erhoben. Gegen
 Verwaltungsakte nach dieser Vorschrift findet ein Vorverfahren statt.
@@ -156,6 +162,7 @@ Vorausleistungspflichtigen errechnet.
 
 
 ## § 6 Verteilung des Aufwandes
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000710119)
 
 (1) Der notwendige Aufwand wird wie folgt verteilt:
 
@@ -241,6 +248,7 @@ Verordnung vorzunehmen.
 
 
 ## § 7 Fälligkeit der Vorausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000801119)
 
 (1) Die Vorausleistung und der Vorausleistungsabschlag werden einen
 Monat nach Zustellung des Vorausleistungsbescheides fällig, sofern
@@ -257,6 +265,7 @@ verwirkten Säumniszuschläge unberührt.
 
 
 ## § 8 Erstattung der Vorausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE000903377)
 
 (1) Die Vorausleistungen sind zu erstatten, falls die in § 2 Abs. 1
 Satz 1 genannte Genehmigung nicht mehr vorliegt und keine radioaktiven
@@ -281,6 +290,7 @@ sind dabei wie eigene Vorausleistungen zu behandeln.
 
 
 ## § 9 Anrechnung der Vorausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE001003377)
 
 Die nach dieser Verordnung erhobenen Vorausleistungen werden auf
 Beiträge und Vorausleistungen, die im Rahmen einer abschließenden
@@ -299,6 +309,7 @@ Beitragsberechnung einbezogen.
 
 
 ## § 10 Vorausleistungen für vor Inkrafttreten der Verordnung entstandenen Aufwand
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE001100325)
 
 Vorausleistungen werden erhoben für den ab 1. Januar 1977 entstandenen
 notwendigen Aufwand. Der gesamte Aufwand für den vor Inkrafttreten
@@ -310,6 +321,7 @@ Verordnung entstanden ist, miterhoben.
 
 
 ## § 11 Bemessungszeiträume 1977 bis 2003
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE001202377)
 
 (1) Die Vorausleistungen für die Bemessungszeiträume 1977 bis 2002
 werden auf der Grundlage dieser Verordnung vom Bundesamt für
@@ -342,6 +354,7 @@ Kalenderjahr 2004 nach § 4 Abs. 1 und 2 Satz 3 und Absatz 3 Satz 1 Nr.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html#BJNR005620982BJNE001300325)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

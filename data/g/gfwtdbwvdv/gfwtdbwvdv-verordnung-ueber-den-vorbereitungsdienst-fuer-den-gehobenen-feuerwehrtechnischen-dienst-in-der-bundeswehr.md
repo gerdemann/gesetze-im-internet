@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes, dessen Absatz 1 Nummer 2 durch Artikel 1 Nummer
@@ -33,9 +34,11 @@ gefasst worden ist, verordnet das Bundesministerium der Verteidigung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000300000)
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der
 Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in
@@ -43,6 +46,7 @@ der Bundeswehr.
 
 
 ### § 2 Ziel und Inhalt des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000400000)
 
 (1) Ziel des Vorbereitungsdienstes ist es, die Anwärterinnen und
 Anwärter zu befähigen,
@@ -86,6 +90,7 @@ einem demokratischen und sozialen Rechtsstaat vorbereitet.
 
 
 ### § 3 Arten des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000500000)
 
 Der Vorbereitungsdienst wird durchgeführt
 
@@ -106,6 +111,7 @@ Der Vorbereitungsdienst wird durchgeführt
 
 
 ### § 4 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000600000)
 
 (1) Der Vorbereitungsdienst nach § 3 Nummer 1 dauert in der Regel 18
 Monate, mindestens aber zwölf Monate.
@@ -122,12 +128,14 @@ Einstellungsbehörde im Einzelfall.
 
 
 ### § 5 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000700000)
 
 Erholungsurlaub soll nur während der praktischen Ausbildung (§ 27)
 gewährt werden.
 
 
 ### § 6 Einstellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000800000)
 
 (1) Einstellungsbehörde ist das Bundesamt für das Personalmanagement
 der Bundeswehr. Die Einstellungsbehörde ist zuständig für die
@@ -142,9 +150,11 @@ Einstellungsverfahrens auf eine nachgeordnete Behörde übertragen.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000200000)
 
 
 ### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE000901311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In
@@ -170,6 +180,7 @@ zurückgesandt.
 
 
 ### § 8 Anforderungen im Auswahlverfahren; Auswahlinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001001311)
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen
 und Bewerber die folgenden Anforderungen erfüllen:
@@ -212,6 +223,7 @@ unterstützt werden.
 
 
 ### § 9 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001101311)
 
 (1) Für schwerbehinderte Bewerberinnen und Bewerber und für diesen
 gleichgestellte behinderte Bewerberinnen und Bewerber sind die im
@@ -226,6 +238,7 @@ Auswahlverfahren durchführt.
 
 
 ### § 10 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001201311)
 
 (1) Für das Auswahlverfahren richtet die Einstellungsbehörde eine
 Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen
@@ -254,6 +267,7 @@ nicht stimmberechtigt.
 
 
 ### § 11 Ergänzende Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001301311)
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -297,6 +311,7 @@ Ministerialblatt veröffentlicht.
 
 
 ### § 12 Bestandteile des Auswahlverfahrens und Zweck der Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001401311)
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen, einem
 mündlichen und einem praktischen Teil.
@@ -310,6 +325,7 @@ individuellen Trainierbarkeit.
 
 
 ### § 13 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001501311)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens dürfen höchstens vier
 der folgenden Auswahlinstrumente eingesetzt werden:
@@ -336,6 +352,7 @@ einen Arbeitstag.
 
 
 ### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001601311)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
 Eignungsmerkmalen, die ausschließlich im schriftlichen Teil bewertet
@@ -348,6 +365,7 @@ teilgenommen haben.
 
 
 ### § 15 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001701311)
 
 (1) Im mündlichen Teil des Auswahlverfahrens dürfen höchstens vier der
 folgenden Auswahlinstrumente eingesetzt werden:
@@ -379,6 +397,7 @@ auch die Schwerbehindertenvertretung teilnehmen.
 
 
 ### § 15a Bewertung der Eignungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006300311)
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
 den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
@@ -393,6 +412,7 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
 ### § 15b Praktischer Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006400311)
 
 (1) Im praktischen Teil des Auswahlverfahrens werden
 Auswahlinstrumente eingesetzt, die speziell auf den
@@ -409,6 +429,7 @@ werden.
 
 
 ### § 15c Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006500311)
 
 (1) Für die Bewerberinnen und Bewerber, die das Mindestergebnis für
 das Bestehen des praktischen Teils des Auswahlverfahrens erreicht
@@ -444,6 +465,7 @@ die Festlegung der Rangfolge.
 
 
 ### § 15d Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006600311)
 
 (1) In den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen
 Dienst in der Bundeswehr kann eingestellt werden, wer
@@ -508,12 +530,15 @@ entsprechend.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000300000)
 
 
 ### Unterabschnitt 1 - Berufspraktische Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000400000)
 
 
 #### § 16 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001800000)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner
@@ -543,6 +568,7 @@ Ausbildungsbeauftragte oder den Ausbildungsbeauftragten regelmäßig
 
 
 #### § 17 Rahmenlehrplan
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE001900000)
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit
 der Einstellungsbehörde und dem Bildungszentrum der Bundeswehr einen
@@ -554,6 +580,7 @@ Bundesministerium der Verteidigung.
 
 
 #### § 18 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002000000)
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit
 der Einstellungsbehörde und dem Bildungszentrum der Bundeswehr einen
@@ -567,6 +594,7 @@ Ausbildung (§ 27) geregelt.
 
 
 #### § 19 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002100000)
 
 (1) Vor Beginn der Ausbildung erstellt die oder der
 Ausbildungsbeauftragte im Einvernehmen mit der Ausbildungsleitung für
@@ -584,6 +612,7 @@ Ausbildungsplans.
 
 
 #### § 20 Ausbildungsabschnitte
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002200000)
 
 (1) Der Vorbereitungsdienst besteht aus den folgenden
 Ausbildungsabschnitten:
@@ -657,6 +686,7 @@ die Lehrpläne nach Absatz 4 entsprechend.
 
 
 #### § 21 Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002300000)
 
 Im Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen
 feuerwehrtechnischen Dienst“ werden den Anwärterinnen und Anwärtern
@@ -681,6 +711,7 @@ notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
 
 #### § 22 Lehrgang „Menschenführung“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002400000)
 
 Im Lehrgang „Menschenführung“ werden den Anwärterinnen und Anwärtern
 die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
@@ -702,6 +733,7 @@ Situationen ausgerichtet.
 
 
 #### § 23 Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002500000)
 
 Im Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“ werden
 den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den
@@ -721,6 +753,7 @@ folgenden Bereichen vermittelt:
 
 
 #### § 24 Lehrgang „Gruppenführung“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002600000)
 
 Im Lehrgang „Gruppenführung“ werden den Anwärterinnen und Anwärtern
 aufbauend auf dem Lehrgang „Feuerwehrtechnische Grundausbildung für
@@ -752,6 +785,7 @@ Anwärterinnen und Anwärter sollen in der Lage sein,
 
 
 #### § 25 Lehrgang „Zugführung“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002700000)
 
 Im Lehrgang „Zugführung“ werden den Anwärterinnen und Anwärtern
 aufbauend auf dem Lehrgang „Gruppenführung“ die Kenntnisse für den
@@ -775,6 +809,7 @@ und Anwärter sollen in der Lage sein,
 
 
 #### § 26 Lehrgang „Verbandsführung“
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002800000)
 
 Im Lehrgang „Verbandsführung“ werden den Anwärterinnen und Anwärtern
 aufbauend auf dem Lehrgang „Zugführung“ die Kenntnisse für den Einsatz
@@ -796,6 +831,7 @@ und Anwärter werden befähigt
 
 
 #### § 27 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE002900000)
 
 (1) In der praktischen Ausbildung werden die Anwärterinnen und
 Anwärter mit allen Grundlagen der Zusammenarbeit innerhalb der
@@ -822,9 +858,11 @@ den Anwärterinnen und Anwärtern nicht übertragen werden.
 
 
 ### Unterabschnitt 2 - Bachelorstudium mit studienbegleitender berufspraktischer Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000500000)
 
 
 #### § 28 Bachelorstudium
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003000000)
 
 (1) Das Bachelorstudium wird an einer mit der Einstellungsbehörde
 kooperierenden Hochschuleinrichtung durchgeführt.
@@ -840,6 +878,7 @@ kooperierenden Hochschuleinrichtung zu.
 
 
 #### § 29 Inhalt und Aufbau des Bachelorstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003100000)
 
 (1) Inhalt und Aufbau des Bachelorstudiums richten sich nach der
 Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung.
@@ -849,6 +888,7 @@ Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung.
 
 
 #### § 30 Erfolgreicher Abschluss des Bachelorstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003200000)
 
 (1) Für den erfolgreichen Abschluss des Bachelorstudiums müssen die
 Anwärterinnen und Anwärter
@@ -881,6 +921,7 @@ Hochschuleinrichtung.
 
 
 #### § 31 Berufspraktische Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003300000)
 
 (1) Die berufspraktische Studienzeit nach den §§ 16 bis 27 findet
 während des Studiums in der vorlesungsfreien Zeit statt.
@@ -906,9 +947,11 @@ mitzuteilen und mit der Anwärterin oder dem Anwärter zu besprechen.
 
 
 ## Abschnitt 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000600000)
 
 
 ### § 32 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003400000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -925,6 +968,7 @@ Die Laufbahnprüfung besteht aus
 
 
 ### § 33 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003500000)
 
 (1) Beim Bildungszentrum der Bundeswehr wird ein Prüfungsamt
 eingerichtet.
@@ -948,6 +992,7 @@ eingerichtet.
 
 
 ### § 34 Einrichtung von Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003600000)
 
 (1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung
 mindestens eine Prüfungskommission ein.
@@ -962,6 +1007,7 @@ der Prüfung beauftragen.
 
 
 ### § 35 Mitglieder der Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003701311)
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der
 schriftlichen Prüfung sind
@@ -1045,6 +1091,7 @@ Jahren bestellt. Wiederbestellung ist zulässig.
 
 
 ### § 36 Entscheidungen der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003800000)
 
 (1) Die Mitglieder der Prüfungskommissionen sind bei ihrer
 Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
@@ -1060,6 +1107,7 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 ### § 37 Nichtöffentlichkeit der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE003900000)
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -1085,6 +1133,7 @@ Bundesministeriums der Verteidigung bleiben unberührt.
 
 
 ### § 38 Prüfungsort und Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004000000)
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen Prüfung, der
 praktischen Prüfung und der mündlichen Prüfung fest und teilt sie den
@@ -1095,6 +1144,7 @@ Zusammenhang nacheinander durchgeführt werden.
 
 
 ### § 39 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004100000)
 
 (1) In der schriftlichen Prüfung sollen die Anwärterinnen und Anwärter
 zeigen, dass sie die Aufgaben im Bereich der Feuerwehr rasch und
@@ -1136,6 +1186,7 @@ beiden übrigen Klausuren sollen am Ende des Lehrgangs „Zugführung“ (§
 
 
 ### § 40 Durchführung der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004200000)
 
 (1) Die Klausuren werden unter Aufsicht geschrieben. Die
 Aufsichtführenden haben an jedem Prüfungstag ein Protokoll
@@ -1158,6 +1209,7 @@ endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
 
 ### § 41 Bewertung und Bestehen der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004300000)
 
 (1) Jede Klausur wird von den beiden Mitgliedern der
 Prüfungskommission unabhängig voneinander bewertet. Die oder der
@@ -1178,6 +1230,7 @@ Prüfungstag schriftlich bekannt.
 
 
 ### § 42 Zulassung zur praktischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004400000)
 
 (1) Zur praktischen Prüfung zugelassen sind Anwärterinnen und
 Anwärter, die die schriftliche Prüfung bestanden haben. Über die
@@ -1194,6 +1247,7 @@ versehen.
 
 
 ### § 43 Praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004500000)
 
 (1) In der praktischen Prüfung sollen die Anwärterinnen und Anwärter
 nachweisen, dass sie befähigt sind, Einsatzstellen auch beim Einsatz
@@ -1228,6 +1282,7 @@ durchgeführt.
 
 
 ### § 44 Bewertung und Bestehen der praktischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004600000)
 
 (1) Die in der praktischen Prüfung gezeigten Leistungen werden von der
 Prüfungskommission bewertet. Jede und jeder Prüfende gibt jeweils für
@@ -1243,6 +1298,7 @@ worden sind.
 
 
 ### § 45 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004700000)
 
 (1) Zur mündlichen Prüfung zugelassen sind Anwärterinnen und Anwärter,
 die die praktische Prüfung bestanden haben. Über die Zulassung
@@ -1254,6 +1310,7 @@ der Schriftform. Er ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 46 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004800000)
 
 (1) Die mündliche Prüfung besteht aus
 
@@ -1282,6 +1339,7 @@ Gegenstand, Ablauf und Ergebnis der Prüfung hervorgehen.
 
 
 ### § 47 Prüfungsgespräch
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE004900000)
 
 (1) Das Prüfungsgespräch erstreckt sich auf unterschiedliche
 Schwerpunkte der in § 20 Absatz 1 Satz 1 genannten
@@ -1293,6 +1351,7 @@ sind bis zum Beginn des Prüfungsgesprächs unter Verschluss zu halten.
 
 
 ### § 48 Kurzvortrag
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005000000)
 
 (1) Im Kurzvortrag soll die Anwärterin oder der Anwärter zeigen, dass
 sie oder er in der Lage ist, ein vorgegebenes Thema in gebotener Kürze
@@ -1313,6 +1372,7 @@ Zeitpunkt unter Verschluss zu halten.
 
 
 ### § 49 Bewertung und Bestehen der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005100000)
 
 (1) Das Prüfungsgespräch und der Kurzvortrag werden von der
 Prüfungskommission bewertet. Die Prüfenden schlagen jeweils für
@@ -1336,6 +1396,7 @@ Ergebnisse mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
 
 ### § 50 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005200000)
 
 (1) Für Anwärterinnen und Anwärter mit Beeinträchtigungen, die die
 Umsetzung der nachzuweisenden Kenntnisse einschränken, sind die im
@@ -1355,6 +1416,7 @@ davon unberührt.
 
 
 ### § 51 Verhinderung, Rücktritt und Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005300000)
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
 Umstände ganz oder zeitweise an der Ablegung der Prüfung oder Teilen
@@ -1391,6 +1453,7 @@ Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 52 Täuschung und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005400000)
 
 (1) Anwärterinnen oder Anwärtern, die bei einem der Prüfungsteile
 täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst
@@ -1432,6 +1495,7 @@ mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 53 Bewertung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005500000)
 
 (1) Die Leistungen werden wie folgt bewertet:
 
@@ -1568,6 +1632,7 @@ ohne Rundung berechnet.
 
 
 ### § 54 Wiederholung von Prüfungen und Ausbildungsabschnitten
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005600000)
 
 (1) Wer eine Klausur, die praktische oder die mündliche Prüfung nicht
 bestanden hat, kann diesen Prüfungsteil je einmal wiederholen. In
@@ -1586,6 +1651,7 @@ die bisherigen.
 
 
 ### § 55 Bestehen der Laufbahnprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005700000)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die schriftliche, die
 praktische und die mündliche Prüfung bestanden sind.
@@ -1626,6 +1692,7 @@ Verwaltungsdienstes des Bundes.
 
 
 ### § 56 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005800000)
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
 Laufbahnprüfung bestanden haben, einen schriftlichen Bescheid über das
@@ -1659,6 +1726,7 @@ zurückzugeben.
 
 
 ### § 57 Mitteilung über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE005900000)
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen schriftlichen Bescheid über die nichtbestandene
@@ -1675,6 +1743,7 @@ Dauer der Ausbildung und die Ausbildungsinhalte angegeben.
 
 
 ### § 58 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006000000)
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -1704,9 +1773,11 @@ nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNG000700000)
 
 
 ### § 59 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006100000)
 
 Anwärterinnen und Anwärter, die auf Grundlage des Verwaltungsabkommens
 über die Laufbahnausbildung für den gehobenen feuerwehrtechnischen
@@ -1717,6 +1788,7 @@ Laufbahnprüfung ablegen.
 
 
 ### § 60 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gfwtdbwvdv/BJNR327300017.html#BJNR327300017BJNE006200000)
 
 Diese Verordnung tritt am 1. September 2017 in Kraft.
 

@@ -47,15 +47,18 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNG000101377)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE000701377)
 
 Die Vorschriften dieser Verordnung gelten für Pflanzgut von Kartoffel.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE000805119)
 
 Im Sinne dieser Verordnung sind
 
@@ -140,10 +143,12 @@ Im Sinne dieser Verordnung sind
 
 
 ## Abschnitt 2 - Anerkennung von Pflanzgut
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNG000201377)
 
 
 
 ### § 3 Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut, Generationenfolge
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE000903118)
 
    (1) Vorstufenpflanzgut wird wie folgt in die Klassen PBTC und PB
 eingeteilt:
@@ -235,6 +240,7 @@ werden.
 
 
 ### § 4 Anerkennungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001002377)
 
 (1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu
 stellen, in deren Bereich der Betrieb liegt, in dem das Pflanzgut
@@ -251,6 +257,7 @@ das Pflanzgut aufbereitet wird.
 
 
 ### § 5 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001109119)
 
 (1) Der Antrag auf Anerkennung ist bis zum 15. Mai zu stellen. Die
 Anerkennungsstelle kann hiervon Ausnahmen genehmigen, wenn
@@ -399,6 +406,7 @@ dadurch keine phytosanitären Beeinträchtigungen zu erwarten sind.
 
 
 ### § 6 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001204119)
 
 (1) Pflanzgut wird nur anerkannt, wenn
 
@@ -465,11 +473,13 @@ getrennt zu lagern sind.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001302377)
 
 (weggefallen)
 
 
 ### § 8 Anforderungen an den Feldbestand und an die Beschaffenheit des Pflanzgutes
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001405118)
 
 (1) Die Anforderungen an den Feldbestand ergeben sich aus Anlage 1.
 Die Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich
@@ -483,6 +493,7 @@ darf dieser Teil ausgesondert werden.
 
 
 ### § 9 Feldbestandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001501377)
 
 (1) Jede Vermehrungsfläche ist mindestens zweimal vor der Ernte des
 Pflanzgutes durch Feldbesichtigung auf das Vorliegen der Anforderungen
@@ -517,6 +528,7 @@ berücksichtigt, wenn er deutlich abgegrenzt worden ist.
 
 
 ### § 10 Mängel des Feldbestandes
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001601377)
 
 (1) Soweit Mängel des Feldbestandes behoben werden können, wird auf
 einen spätestens drei Werktage nach Mitteilung der Mängel vom
@@ -534,6 +546,7 @@ berücksichtigt wird, der nicht als befallen abgegrenzt ist.
 
 
 ### § 11 Mitteilung des Ergebnisses der Feldbestandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001701377)
 
 Ergibt die Feldbestandsprüfung, dass die Anforderungen an den
 Feldbestand nicht erfüllt sind, so wird dies dem Antragsteller und dem
@@ -541,6 +554,7 @@ Vermehrer schriftlich mitgeteilt.
 
 
 ### § 12 Wiederholungsbesichtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001801377)
 
 (1) Der Antragsteller oder Vermehrer kann innerhalb von drei Werktagen
 nach Zugang der Mitteilung nach § 11 eine Wiederholung der
@@ -556,6 +570,7 @@ werden. § 11 gilt entsprechend.
 
 
 ### § 13 Beschaffenheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE001902377)
 
 Die Beschaffenheitsprüfung besteht aus der Prüfung auf
 Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit sowie der
@@ -563,6 +578,7 @@ Prüfung auf weitere Knollenkrankheiten und äußere Mängel.
 
 
 ### § 14 Probenahme für die Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002003377)
 
 (1) Der von der zuständigen Behörde Beauftragte (Probenehmer) entnimmt
 die Probe für die Prüfung auf Viruskrankheiten
@@ -628,6 +644,7 @@ hinausgehenden Probenumfang festlegen.
 
 
 ### § 15 Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002102377)
 
 (1) Ergibt die Prüfung auf Viruskrankheiten, dass die Anforderungen
 nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag die
@@ -650,6 +667,7 @@ et al. (ABl. EG Nr. L 235 S. 1) durchzuführen.
 
 
 ### § 16 Mitteilung des Ergebnisses der Prüfung auf Viruskrankheiten, Bakterielle Ringfäule und Schleimkrankheit
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002202377)
 
 Das Ergebnis der Prüfung auf Viruskrankheiten, Bakterielle Ringfäule
 und Schleimkrankheit wird dem Antragsteller und, wenn die
@@ -658,6 +676,7 @@ die Probe entnommen worden ist, schriftlich mitgeteilt.
 
 
 ### § 17 Probenahme für die Prüfung auf Knollenkrankheiten und äußere Mängel
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002302377)
 
 (1) Der Probenehmer entnimmt dem für das Inverkehrbringen zu
 gewerblichen Zwecken aufbereiteten Pflanzgut eine Probe für die
@@ -706,6 +725,7 @@ Kartoffelnematoden festgestellt hat.
 
 
 ### § 18 Prüfung auf weitere Knollenkrankheiten und äußere Mängel
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002403118)
 
 (1) Die Prüfung auf weitere Knollenkrankheiten und äußere Mängel wird
 vom Probenehmer durch Inaugenscheinnahme durchgeführt; sie entfällt,
@@ -722,6 +742,7 @@ glaubhaft gemacht wird, dass der festgestellte Mangel beseitigt ist.
 
 
 ### § 19 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002504118)
 
 (1) In dem Bescheid über den Antrag auf Anerkennung sind anzugeben:
 
@@ -764,6 +785,7 @@ Anforderungen erfüllt.
 
 
 ### § 20 Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002602377)
 
 (1) Die Anerkennungsstelle prüft, soweit sie es für erforderlich hält,
 anerkanntes Pflanzgut daraufhin nach, ob es oder sein Aufwuchs
@@ -795,6 +817,7 @@ Fällen des Absatzes 2 dem Bundessortenamt zu.
 
 
 ### § 21 Verfahren für die Nachprüfung durch Anbau
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002701377)
 
 Die Nachprüfung durch Anbau soll in der der Probenahme folgenden
 Vegetationsperiode durchgeführt werden. Die Proben für die Nachprüfung
@@ -802,6 +825,7 @@ durch Anbau sind zusammen mit Vergleichsproben anzubauen.
 
 
 ### § 22 Rücknahme der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002801377)
 
 (1) Wird auf Grund des Ergebnisses der Nachprüfung die Anerkennung
 zurückgenommen und ist der Antragsteller nicht mehr im Besitz des
@@ -820,10 +844,12 @@ Anerkennungsstelle abzuliefern oder unbrauchbar zu machen.
 
 
 ## Abschnitt 2a - Inverkehrbringen von Pflanzgut nicht zugelassener Sorten
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNG000600377)
 
 
 
 ### § 22a Genehmigung durch das Bundessortenamt
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE005000377)
 
 Das Bundessortenamt verbindet die Genehmigung nach § 3 Absatz 2 des
 Saatgutverkehrsgesetzes mit der Auflage, dass derjenige, der dieses
@@ -834,10 +860,12 @@ Bundessortenamtes nach § 32 Absatz 1a vorzulegen hat.
 
 
 ## Abschnitt 3 - Verpackung, Kennzeichnung und Verschließung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNG000301377)
 
 
 
 ### § 23 Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE002902377)
 
 Wird Pflanzgut in Packungen oder in nicht zur Wiederverwendung
 vorgesehenen Behältnissen zu gewerblichen Zwecken in den Verkehr
@@ -850,6 +878,7 @@ beeinträchtigen können.
 
 
 ### § 24 Etikett
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003001377)
 
 (1) Im Anschluss an die Prüfung auf Knollenkrankheiten und äußere
 Mängel ist jede Packung oder jedes Behältnis des Pflanzgutes durch den
@@ -868,6 +897,7 @@ aufgedruckt ist.
 
 
 ### § 24a Pflanzenpass
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE005100119)
 
 (1) Für Pflanzgut, für das in dieser Verordnung besondere
 Anforderungen hinsichtlich des Befalls mit RNQPs vorgeschrieben sind,
@@ -909,6 +939,7 @@ Rechtsakten erforderlichen Angaben.
 
 
 ### § 25 Einleger
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003102118)
 
 Jede Packung oder jedes Behältnis ist mit einem Einleger in der
 jeweiligen Kennfarbe zu versehen, der als Aufdruck die Bezeichnung
@@ -920,6 +951,7 @@ aufgedruckt sind.
 
 
 ### § 26 Angabe einer chemischen Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003202377)
 
 Ist Pflanzgut einer chemischen Behandlung unterzogen worden, so ist
 dies anzugeben. Ist dabei ein Pflanzenschutzmittel angewendet worden,
@@ -943,6 +975,7 @@ unverwischbar aufzudrucken
 
 
 ### § 27 Angaben in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003305118)
 
 (1) Packungen oder Behältnisse mit anerkanntem Pflanzgut müssen bei
 Pflanzgut, das nach § 4 Abs. 2 des Saatgutverkehrsgesetzes anerkannt
@@ -972,6 +1005,7 @@ nach § 29 wiederverschlossen werden sollen.
 
 
 ### § 28 Verschließung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003402377)
 
 (1) Im Anschluss an die Kennzeichnung nach § 24 Abs. 1 wird jede
 Packung oder jedes Behältnis durch den Probenehmer oder unter seiner
@@ -1022,6 +1056,7 @@ Anforderung auch dann als erfüllt, wenn es
 
 
 ### § 29 Wiederverschließung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003501377)
 
 (1) Auf Antrag findet eine Wiederverschließung statt. In dem Antrag
 sind die Einwirkungen und Behandlungen anzugeben, denen das Pflanzgut
@@ -1058,6 +1093,7 @@ Vernichtung abzuliefern.
 
 
 ### § 30 Kleinpackungen
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003604118)
 
 (1) Kleinpackungen im Sinne dieser Verordnung sind Packungen von
 Zertifiziertem Pflanzgut bis zu einem Nettogewicht von 10 Kilogramm.
@@ -1100,6 +1136,7 @@ zusammen.
 
 
 ### § 31 Abgabe in kleinen Mengen
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003703118)
 
 (1) Zertifiziertes Pflanzgut darf aus vorschriftsmäßig
 gekennzeichneten und verschlossenen Packungen oder Behältnissen in
@@ -1127,6 +1164,7 @@ ohne Verlangen hierauf hinzuweisen. § 26 Satz 2 gilt entsprechend.
 
 
 ### § 32 Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003806118)
 
 (1) Wird Pflanzgut, das nicht anerkannt ist, in den Fällen des § 3
 Abs. 1 Nr. 5, 6 und 8 und Abs. 2 des Saatgutverkehrsgesetzes zu
@@ -1218,10 +1256,12 @@ Etiketten und Einlegern zu machen.
 
 
 ## Abschnitt 4 - Zusätzliche Anforderungen für das Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNG000402377)
 
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE003902377)
 
 Anerkanntes Pflanzgut darf zu gewerblichen Zwecken nur in den Verkehr
 gebracht werden, wenn es nach der Größe sortiert ist und den
@@ -1229,10 +1269,12 @@ Anforderungen der Anlage 5 entspricht.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNG000502377)
 
 
 
 ### § 33a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004906118)
 
 Etiketten, die am 17. Juni 2017 bereits hergestellt waren, dürfen noch
 bis zum Ablauf des 30. Juni 2019 für die Kennzeichnung von Packungen
@@ -1241,12 +1283,14 @@ sollen, verwendet werden.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004202377)
 
 (Inkrafttreten)
 
 (zu § 8 Absatz 1 Satz 1)
 
 ### Anlage 1 Anforderungen an den Feldbestand
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004407119)
 
 (Fundstelle: BGBl. I 2015, 2328;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1616,6 +1660,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 8 Absatz 1 Satz 2, § 15 Absatz 2, § 29 Absatz 2 Satz 2)
 
 ### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004508119)
 
 (Fundstelle: BGBl. I 2015, 2329 - 2330;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1925,6 +1970,7 @@ sind RNQPs.
 (zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3)
 
 ### Anlage 3 Größe der Partien und Proben
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004602377)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
 
@@ -2010,6 +2056,7 @@ Fundstelle des Originaltextes: BGBl. I 2004, 2930
 (zu § 24 Absatz 2, § 24a, § 25 Satz 1 und § 32 Absatz 1a)
 
 ### Anlage 4 Angaben auf dem Etikett
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004708119)
 
 (Fundstelle: BGBl. I 2015, 2330;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2096,6 +2143,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 33)
 
 ### Anlage 5 Größensortierung
+[Direktlink](https://www.gesetze-im-internet.de/pflkartv_1986/BJNR001920986.html#BJNR001920986BJNE004802377)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
 

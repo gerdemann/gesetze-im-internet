@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbw_hebek/BJNR009520983.html#BJNR009520983BJNE000100317)
 
 Zwischen dem Land Baden-Württemberg und dem Land Hessen wurde am 18.
 März 1983 ein Staatsvertrag über eine Änderung der Landesgrenze

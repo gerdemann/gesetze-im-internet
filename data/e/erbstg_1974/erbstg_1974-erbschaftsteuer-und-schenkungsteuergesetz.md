@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNG000203140)
 
 
 
 ### § 1 Steuerpflichtige Vorgänge
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE001502301)
 
 (1) Der Erbschaftsteuer (Schenkungsteuer) unterliegen
 
@@ -55,6 +57,7 @@ Zweckzuwendungen unter Lebenden.
 
 
 ### § 2 Persönliche Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE001608123)
 
 (1) Die Steuerpflicht tritt ein
 
@@ -133,6 +136,7 @@ erforscht oder ausgebeutet werden.
 
 
 ### § 2a Rechtsfähige Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE006200123)
 
 Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der
 Abgabenordnung) gelten für Zwecke der Erbschaft- und Schenkungsteuer
@@ -144,6 +148,7 @@ deren Gesellschafter als Zuwendende.
 
 
 ### § 3 Erwerb von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE001707123)
 
 (1) Als Erwerb von Todes wegen gilt
 
@@ -230,6 +235,7 @@ deren Gesellschafter als Zuwendende.
 
 
 ### § 4 Fortgesetzte Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE001803140)
 
 (1) Wird die Gütergemeinschaft beim Tod eines Ehegatten oder beim Tod
 eines Lebenspartners fortgesetzt (§§ 1483 ff. des Bürgerlichen
@@ -243,6 +249,7 @@ Gesetzbuchs zufällt.
 
 
 ### § 5 Zugewinngemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE001906123)
 
 (1) Wird der Güterstand der Zugewinngemeinschaft (§ 1363 des
 Bürgerlichen Gesetzbuchs, § 6 des Lebenspartnerschaftsgesetzes) durch
@@ -286,6 +293,7 @@ Zugewinngemeinschaft) nicht zum Erwerb im Sinne der §§ 3 und 7.
 
 
 ### § 6 Vor- und Nacherbschaft
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002003140)
 
 (1) Der Vorerbe gilt als Erbe.
 
@@ -312,6 +320,7 @@ Vermächtnisse oder Auflagen stehen den Nacherbschaften gleich.
 
 
 ### § 7 Schenkungen unter Lebenden
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002107123)
 
 (1) Als Schenkungen unter Lebenden gelten
 
@@ -436,6 +445,7 @@ erlangt. Absatz 8 Satz 2 ist entsprechend anzuwenden.
 
 
 ### § 8 Zweckzuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002202301)
 
 Zweckzuwendungen sind Zuwendungen von Todes wegen oder freigebige
 Zuwendungen unter Lebenden, die mit der Auflage verbunden sind,
@@ -445,6 +455,7 @@ hierdurch die Bereicherung des Erwerbers gemindert wird.
 
 
 ### § 9 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002307116)
 
 (1) Die Steuer entsteht
 
@@ -522,10 +533,12 @@ als mit dem Zeitpunkt des Erlöschens der Belastung entstanden.
 
 
 ## Abschnitt 2 - Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNG000303140)
 
 
 
 ### § 10 Steuerpflichtiger Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002411123)
 
 (1) Als steuerpflichtiger Erwerb gilt die Bereicherung des Erwerbers,
 soweit sie nicht steuerfrei ist (§§ 5, 13, 13a, 13c, 13d, 16, 17 und
@@ -671,12 +684,14 @@ Satz 2.
 
 
 ### § 11 Bewertungsstichtag
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002502301)
 
 Für die Wertermittlung ist, soweit in diesem Gesetz nichts anderes
 bestimmt ist, der Zeitpunkt der Entstehung der Steuer maßgebend.
 
 
 ### § 12 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002608123)
 
 (1) Die Bewertung richtet sich, soweit nicht in den Absätzen 2 bis 7
 etwas anderes bestimmt ist, nach den Vorschriften des Ersten Teils des
@@ -712,6 +727,7 @@ werden nach § 31 des Bewertungsgesetzes bewertet.
 
 
 ### § 13 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002719123)
 
 (1) Steuerfrei bleiben
 
@@ -1126,6 +1142,7 @@ Steuerbefreiung verzichtet.
 
 
 ### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005514123)
 
 (1) Begünstigtes Vermögen im Sinne des § 13b Absatz 2 bleibt
 vorbehaltlich der folgenden Absätze zu 85 Prozent steuerfrei
@@ -1488,6 +1505,7 @@ Absatz 3 und 4 zum gemeinen Wert des Betriebs.
 
 
 ### § 13b Begünstigtes Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005809123)
 
 (1) Zum begünstigungsfähigen Vermögen gehören
 
@@ -1821,6 +1839,7 @@ Bewertungsgesetzes sind auf die Sätze 1 bis 4 entsprechend anzuwenden.
 
 
 ### § 13c Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE006000377)
 
 (1) Überschreitet der Erwerb von begünstigtem Vermögen im Sinne des §
 13b Absatz 2 die Grenze des § 13a Absatz 1 Satz 1 von 26 Millionen
@@ -1853,6 +1872,7 @@ entsprechend.
 
 
 ### § 13d Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005902123)
 
 (1) Grundstücke im Sinne des Absatzes 3 sind mit 90 Prozent ihres
 Werts anzusetzen.
@@ -1899,10 +1919,12 @@ entsprechend.
 
 
 ## Abschnitt 3 - Berechnung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNG000403140)
 
 
 
 ### § 14 Berücksichtigung früherer Erwerbe
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002805123)
 
 (1) Mehrere innerhalb von zehn Jahren von derselben Person anfallende
 Vermögensvorteile werden in der Weise zusammengerechnet, daß dem
@@ -1937,6 +1959,7 @@ betragen als 50 Prozent dieses Erwerbs.
 
 
 ### § 15 Steuerklassen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE002907140)
 
 (1) Nach dem persönlichen Verhältnis des Erwerbers zum Erblasser oder
 Schenker werden die folgenden drei Steuerklassen unterschieden:
@@ -2021,6 +2044,7 @@ Bedachten von dieser Person anfällt.
 
 
 ### § 16 Freibeträge
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003008116)
 
 (1) Steuerfrei bleibt in den Fällen der unbeschränkten Steuerpflicht
 (§ 2 Absatz 1 Nummer 1) der Erwerb
@@ -2064,6 +2088,7 @@ anzusetzen.
 
 
 ### § 17 Besonderer Versorgungsfreibetrag
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003108123)
 
 (1) Neben dem Freibetrag nach § 16 wird dem überlebenden Ehegatten und
 dem überlebenden Lebenspartner ein besonderer Versorgungsfreibetrag
@@ -2119,6 +2144,7 @@ Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz
 
 
 ### § 18 Mitgliederbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003204123)
 
 Beiträge an Personenvereinigungen und rechtsfähige Vereine, die nicht
 lediglich die Förderung ihrer Mitglieder zum Zweck haben, sind
@@ -2128,6 +2154,7 @@ Vereinigung geleisteten Beiträge 300 Euro nicht übersteigen. § 13 Abs.
 
 
 ### § 19 Steuersätze
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003308116)
 
 (1) Die Erbschaftsteuer wird nach folgenden Prozentsätzen erhoben:
 
@@ -2233,6 +2260,7 @@ des die Wertgrenze übersteigenden Betrags gedeckt werden kann.
 
 
 ### § 19a Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005609123)
 
 (1) Sind in dem steuerpflichtigen Erwerb einer natürlichen Person der
 Steuerklasse II oder III Betriebsvermögen, land- und
@@ -2279,10 +2307,12 @@ erlangt. § 13a Absatz 7 Satz 4 bis 6 gilt entsprechend.
 
 
 ## Abschnitt 4 - Steuerfestsetzung und Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNG000503140)
 
 
 
 ### § 20 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003406123)
 
 (1) Steuerschuldner ist der Erwerber, bei einer Schenkung auch der
 Schenker, bei einer Zweckzuwendung der mit der Ausführung der
@@ -2328,6 +2358,7 @@ nicht übersteigt.
 
 
 ### § 21 Anrechnung ausländischer Erbschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003504116)
 
 (1) Bei Erwerbern, die in einem ausländischen Staat mit ihrem
 Auslandsvermögen zu einer der deutschen Erbschaftsteuer entsprechenden
@@ -2379,6 +2410,7 @@ anzurechnen, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
 
 ### § 22 Kleinbetragsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003603301)
 
 Von der Festsetzung der Erbschaftsteuer ist abzusehen, wenn die
 Steuer, die für den einzelnen Steuerfall festzusetzen ist, den Betrag
@@ -2386,6 +2418,7 @@ von 50 Euro nicht übersteigt.
 
 
 ### § 23 Besteuerung von Renten, Nutzungen und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003702301)
 
 (1) Steuern, die von dem Kapitalwert von Renten oder anderen
 wiederkehrenden Nutzungen oder Leistungen zu entrichten sind, können
@@ -2404,6 +2437,7 @@ dem Monat vorausgeht, in dem die nächste Jahressteuer fällig wird.
 
 
 ### § 24 Verrentung der Steuerschuld in den Fällen des § 1 Abs. 1 Nr. 4
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003803140)
 
 In den Fällen des § 1 Abs. 1 Nr. 4 kann der Steuerpflichtige
 verlangen, daß die Steuer in 30 gleichen jährlichen Teilbeträgen
@@ -2413,10 +2447,12 @@ Zinssatz von 5,5 Prozent auszugehen.
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE003903140)
 
 
 
 ### § 26 Ermäßigung der Steuer bei Aufhebung einer Familienstiftung oder Auflösung eines Vereins
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004003140)
 
 In den Fällen des § 7 Abs. 1 Nr. 9 ist auf die nach § 15 Abs. 2 Satz 2
 zu ermittelnde Steuer die nach § 15 Abs. 2 Satz 3 festgesetzte Steuer
@@ -2434,6 +2470,7 @@ b)  mit 25 Prozent, wenn seit der Entstehung der anrechenbaren Steuer mehr
 
 
 ### § 27 Mehrfacher Erwerb desselben Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004104140)
 
 (1) Fällt Personen der Steuerklasse I von Todes wegen Vermögen an, das
 in den letzten zehn Jahren vor dem Erwerb bereits von Personen dieser
@@ -2501,6 +2538,7 @@ entrichtet hat.
 
 
 ### § 28 Stundung
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004208123)
 
 (1) Gehört zum Erwerb von Todes wegen begünstigtes Vermögen im Sinne
 des § 13b Absatz 2, ist dem Erwerber die darauf entfallende
@@ -2562,6 +2600,7 @@ Teil I eine Liste der Drittstaaten, die die Voraussetzungen nach Satz
 
 
 ### § 28a Verschonungsbedarfsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE006101123)
 
 (1) Überschreitet der Erwerb von begünstigtem Vermögen im Sinne des §
 13b Absatz 2 die Grenze des § 13a Absatz 1 Satz 1 von 26 Millionen
@@ -2694,6 +2733,7 @@ gestellt wurde.
 
 
 ### § 29 Erlöschen der Steuer in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004309123)
 
 (1) Die Steuer erlischt mit Wirkung für die Vergangenheit,
 
@@ -2742,6 +2782,7 @@ behandeln.
 
 
 ### § 30 Anzeige des Erwerbs
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004406123)
 
 (1) Jeder der Erbschaftsteuer unterliegende Erwerb (§ 1) ist vom
 Erwerber, bei einer Zweckzuwendung vom Beschwerten binnen einer Frist
@@ -2819,6 +2860,7 @@ schriftlich anzuzeigen. Die Anzeige soll folgende Angaben enthalten:
 
 
 ### § 31 Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004504123)
 
 (1) Das Finanzamt kann von jedem an einem Erbfall, an einer Schenkung
 oder an einer Zweckzuwendung Beteiligten ohne Rücksicht darauf, ob er
@@ -2861,6 +2903,7 @@ nach Abgabe der Steuererklärung zu entrichten.
 
 
 ### § 32 Bekanntgabe des Steuerbescheides an Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004603140)
 
 (1) In den Fällen des § 31 Abs. 5 ist der Steuerbescheid abweichend
 von § 122 Abs. 1 Satz 1 der Abgabenordnung dem Testamentsvollstrecker
@@ -2874,6 +2917,7 @@ anzuwenden.
 
 
 ### § 33 Anzeigepflicht der Vermögensverwahrer, Vermögensverwalter und Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004703301)
 
 (1) Wer sich geschäftsmäßig mit der Verwahrung oder Verwaltung fremden
 Vermögens befaßt, hat diejenigen in seinem Gewahrsam befindlichen
@@ -2913,6 +2957,7 @@ Steuerordnungswidrigkeit mit Geldbuße geahndet.
 
 
 ### § 34 Anzeigepflicht der Gerichte, Behörden, Beamten und Notare
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004804116)
 
 (1) Die Gerichte, Behörden, Beamten und Notare haben dem für die
 Verwaltung der Erbschaftsteuer zuständigen Finanzamt schriftlich
@@ -2947,6 +2992,7 @@ Bedeutung sein können.
 
 
 ### § 35 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE004906123)
 
 (1) Örtlich zuständig für die Steuerfestsetzung ist in den Fällen, in
 denen der Erblasser zur Zeit seines Todes oder der Schenker zur Zeit
@@ -2991,10 +3037,12 @@ Abgabenordnung ergibt.
 
 
 ## Abschnitt 5 - Ermächtigungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNG000603140)
 
 
 
 ### § 36 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005004301)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates
@@ -3050,6 +3098,7 @@ und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ### § 37 Anwendung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005138123)
 
 (1) Dieses Gesetz in der Fassung des Artikels 6 des Gesetzes vom 22.
 Dezember 2009 (BGBl. I S. 3950) findet auf Erwerbe Anwendung, für die
@@ -3225,6 +3274,7 @@ die Steuer nach dem 31. Dezember 2024 entsteht.
 
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005404140)
 
 (1) (weggefallen)
 
@@ -3270,9 +3320,11 @@ Versteuerung erst nach dem 31. Dezember 1990 entsteht.
 
 
 ### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005203301)
 
 
 
 ### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erbstg_1974/BJNR109330974.html#BJNR109330974BJNE005303301)
 
 

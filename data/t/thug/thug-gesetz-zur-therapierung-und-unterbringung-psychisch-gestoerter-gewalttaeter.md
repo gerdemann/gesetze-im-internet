@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Therapieunterbringung
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000100000)
 
 (1) Steht auf Grund einer rechtskräftigen Entscheidung fest, dass eine
 wegen einer Straftat der in § 66 Absatz 3 Satz 1 des Strafgesetzbuches
@@ -50,6 +51,7 @@ bereits entlassen wurde.
 
 
 ## § 2 Geeignete geschlossene Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000201377)
 
 (1) Für die Therapieunterbringung nach § 1 sind nur solche
 geschlossenen Einrichtungen geeignet, die
@@ -78,6 +80,7 @@ Voraussetzungen des Absatzes 1 Nummer 1 und 2 erfüllen.
 
 
 ## § 3 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000300000)
 
 Für das gerichtliche Verfahren gelten die Vorschriften des Allgemeinen
 Teils und die Vorschriften über das Verfahren in Unterbringungssachen
@@ -87,6 +90,7 @@ nachfolgend nichts Abweichendes bestimmt ist.
 
 
 ## § 4 Sachliche und örtliche Zuständigkeit; Besetzung des Spruchkörpers
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000400000)
 
 (1) Für das gerichtliche Verfahren nach diesem Gesetz sind die
 Zivilkammern der Landgerichte ausschließlich zuständig. Eine
@@ -100,6 +104,7 @@ dessen Bezirk die Einrichtung liegt, in der diese vollstreckt wird.
 
 
 ## § 5 Einleitung des gerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000500000)
 
 (1) Das gerichtliche Verfahren wird eingeleitet, wenn Gründe für die
 Annahme bestehen, dass die Voraussetzungen für eine
@@ -131,6 +136,7 @@ unterrichten.
 
 
 ## § 6 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000600000)
 
 (1) Beteiligte sind der Betroffene und der Antragsteller.
 
@@ -152,6 +158,7 @@ Beiordnung als Beteiligter zum Verfahren hinzugezogen.
 
 
 ## § 7 Beiordnung eines Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000700000)
 
 (1) Das Gericht hat dem Betroffenen zur Wahrnehmung seiner Rechte im
 Verfahren und für die Dauer der Therapieunterbringung einen
@@ -174,6 +181,7 @@ ein anderer Rechtsanwalt beizuordnen.
 
 
 ## § 8 Anhörung des Betroffenen und der sonstigen Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000800000)
 
 (1) Das Gericht hat die Beteiligten anzuhören.
 
@@ -199,6 +207,7 @@ Absatz 1 des Grundgesetzes eingeschränkt.
 
 
 ## § 9 Einholung von Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE000900000)
 
 (1) Vor einer Therapieunterbringung hat eine förmliche Beweisaufnahme
 durch Einholung von zwei Gutachten stattzufinden. Als Sachverständiger
@@ -222,6 +231,7 @@ beinhalten.
 
 
 ## § 10 Entscheidung; Beschlussformel
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001000000)
 
 (1) Das Gericht entscheidet über den Antrag in der Hauptsache erst
 nach Eintritt der Rechtskraft der in § 1 Absatz 1 vorausgesetzten
@@ -237,6 +247,7 @@ anordnen.
 
 
 ## § 11 Zuführung und Vollzug der Therapieunterbringung; Ruhen der Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001100000)
 
 (1) Die Zuführung des Betroffenen in die Einrichtung nach § 2 und der
 Vollzug der Unterbringung obliegen der zuständigen unteren
@@ -246,6 +257,7 @@ Verwaltungsbehörde.
 
 
 ## § 12 Dauer und Verlängerung der Therapieunterbringung
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001200000)
 
 (1) Die Unterbringung endet spätestens mit Ablauf von 18 Monaten, wenn
 sie nicht vorher verlängert wird.
@@ -263,6 +275,7 @@ diesem Gesetz begutachtet hat.
 
 
 ## § 13 Aufhebung der Therapieunterbringung
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001300000)
 
 Das Gericht hebt die Anordnung einer Unterbringung nach § 1 von Amts
 wegen auf, wenn ihre Voraussetzungen wegfallen. Vor der Aufhebung der
@@ -273,6 +286,7 @@ geringen Verzögerung des Verfahrens führen würde.
 
 
 ## § 14 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001400000)
 
 (1) Das Gericht kann im Hauptsacheverfahren durch einstweilige
 Anordnung für die Dauer von drei Monaten eine vorläufige Unterbringung
@@ -305,6 +319,7 @@ Hauptsacheverfahren erheblich verzögert.
 
 
 ## § 15 Einstweilige Anordnung bei gesteigerter Dringlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001500000)
 
 Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung nach
 § 14 bereits vor Anhörung des Betroffenen sowie vor Anhörung und
@@ -313,6 +328,7 @@ sind unverzüglich nachzuholen.
 
 
 ## § 16 Beschwerde; Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001600000)
 
 (1) Das Recht der Beschwerde steht dem Betroffenen, dem ihm
 beigeordneten Rechtsanwalt, der zuständigen unteren Verwaltungsbehörde
@@ -326,6 +342,7 @@ Einzelrichter ist ausgeschlossen.
 
 
 ## § 17 Ausschluss der Rechtsbeschwerde und der Sprungrechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001700000)
 
 Die Entscheidungen des Beschwerdegerichts können nicht mit der
 Rechtsbeschwerde angefochten werden. Die im ersten Rechtszug
@@ -334,6 +351,7 @@ angefochten werden.
 
 
 ## § 18 Divergenzvorlage
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001800000)
 
 (1) Will ein Oberlandesgericht bei seiner Entscheidung in einer
 Rechtsfrage von der Entscheidung eines anderen Oberlandesgerichts oder
@@ -349,6 +367,7 @@ des Beschwerdeverfahrens angezeigt erscheint.
 
 
 ## § 19 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE001900000)
 
 In Verfahren nach diesem Gesetz über die Anordnung, Verlängerung oder
 Aufhebung der Therapieunterbringung werden keine Gerichtskosten
@@ -356,6 +375,7 @@ erhoben.
 
 
 ## § 20 Vergütung des Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE002000000)
 
 (1) In Verfahren nach diesem Gesetz über die Anordnung, Verlängerung
 oder Aufhebung der Therapieunterbringung erhält der Rechtsanwalt
@@ -377,6 +397,7 @@ besondere Angelegenheit im Sinne des Rechtsanwaltsvergütungsgesetzes.
 
 
 ## § 21 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/thug/BJNR230500010.html#BJNR230500010BJNE002100000)
 
 Durch § 1 und die §§ 4 bis 18 wird das Grundrecht der Freiheit der
 Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes) eingeschränkt.

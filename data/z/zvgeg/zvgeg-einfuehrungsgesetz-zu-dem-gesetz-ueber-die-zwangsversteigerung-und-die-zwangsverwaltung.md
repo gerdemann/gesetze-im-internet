@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000101309)
 
 (1) Das Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
 tritt, soweit es die Schiffe betrifft, gleichzeitig mit dem
@@ -32,6 +33,7 @@ zum Bürgerlichen Gesetzbuch finden entsprechende Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000200319)
 
 (1) Soweit in dem Einführungsgesetz zum Bürgerlichen Gesetzbuch
 zugunsten der Landesgesetze Vorbehalte gemacht sind, gelten sie auch
@@ -47,6 +49,7 @@ bezeichneten Ansprüchen beigelegt ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000300319)
 
 Die im Artikel 113 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch
 bezeichneten Vorschriften bleiben auch insoweit unberührt, als sie für
@@ -58,6 +61,7 @@ nur mit der im § 2 Abs. 2 bezeichneten Einschränkung beigelegt werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000400319)
 
 (1) Durch Landesgesetz kann bestimmt werden, daß gewisse öffentliche
 Lasten anderen im Range vorgehen.
@@ -66,6 +70,7 @@ Lasten anderen im Range vorgehen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000500319)
 
 Durch Landesgesetz kann bestimmt werden, daß dem Antrag auf
 Zwangsversteigerung ein Auszug aus einem Steuerbuch beigefügt werden
@@ -73,6 +78,7 @@ soll.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000600319)
 
 Durch die Landesjustizverwaltung kann angeordnet werden, daß die
 Bestimmung des Versteigerungstermins noch andere als die im § 38 des
@@ -81,6 +87,7 @@ vorgeschriebenen Angaben über das Grundstück enthalten soll.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000700319)
 
 Unberührt bleiben die bestehenden landesgesetzlichen Vorschriften,
 nach welchen noch andere als die in den §§ 39, 40 des Gesetzes über
@@ -89,6 +96,7 @@ Veröffentlichungen der Terminsbestimmung zu erfolgen haben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000800319)
 
 (1) Durch Landesgesetz kann für die Zwangsversteigerung bestimmt
 werden, daß die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
@@ -103,6 +111,7 @@ Hypotheken ausgedehnt werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE000900319)
 
 (1) Soweit ein nach Landesgesetz begründetes Recht an einem
 Grundstück, das nicht in einer Hypothek besteht, zur Wirksamkeit gegen
@@ -120,6 +129,7 @@ Beteiligten ist nicht erforderlich.
 
 
 ## § 9a
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE001602301)
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet umfaßt
 die nach dem 31. Dezember 2000 angeordnete Beschlagnahme des
@@ -152,6 +162,7 @@ Gebäudegrundbuch für Gebäudeeigentum auf dem Grundstück einzutragen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE001000319)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 bei der Zwangsversteigerung für Gebote kommunaler Körperschaften sowie
@@ -160,6 +171,7 @@ verlangt werden kann.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE001100319)
 
 Durch Landesgesetz kann für die Zwangsversteigerung, unbeschadet des §
 112 Abs. 2 Satz 4 des Gesetzes über die Zwangsversteigerung und die
@@ -168,6 +180,7 @@ der Wert des Grundstücks festgestellt werden soll.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE001201160)
 
 Die Landesgesetze können für die Fälle, in welchen bei der
 Zwangsversteigerung oder der Zwangsverwaltung ein Aufgebotsverfahren
@@ -178,6 +191,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit bestimmen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE001700311)
 
 Soweit die Vorschriften der Zivilprozessordnung auf Sachverständige,
 die zum Zweck der Festsetzung des Verkehrswertes nach § 74a Absatz 5
@@ -187,6 +201,7 @@ Oktober 2016 geltende Fassung weiterhin maßgeblich.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/zvgeg/BJNR001350897.html#BJNR001350897BJNE001402125)
 
 § 94a des Gesetzes über die Zwangsversteigerung und die
 Zwangsverwaltung ist auf die bis einschließlich 31. Dezember 2024

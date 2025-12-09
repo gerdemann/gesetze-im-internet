@@ -20,27 +20,32 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis Art 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000303310)
 
 -
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000400311)
 
 -
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000500311)
 
 -
 
 
 ## Art 10 Wegfall der Dynamisierung von Stellenzulagen
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000600311)
 
 Stellenzulagen werden bei allgemeinen Anpassungen der Besoldung nicht
 erhöht, soweit sie nicht als das Grundgehalt ergänzend ausgewiesen
@@ -48,11 +53,13 @@ sind.
 
 
 ## (XXXX) Art 11 bis Art 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000700311)
 
 -
 
 
 ## Art 18 Regelungen für den mittleren Dienst bei Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000800311)
 
 Die Landesregierungen werden ermächtigt, jeweils für ihren Bereich
 unter Berücksichtigung der gemeinsamen Belange aller Dienstherren
@@ -63,11 +70,13 @@ zur sachgerechten Bewertung der Funktionen festzusetzen.
 
 
 ## Art 19
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE000900311)
 
 -
 
 
 ## Art 20 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE001200311)
 
 (1) Zeiten der Wahrnehmung von Funktionen nach Nummer 5 Abs. 1
 Buchstabe b, Nummer 5a Abs. 1 und Nummer 30 in der bis zum 31.
@@ -93,6 +102,7 @@ erhöht.
 
 
 ## Art 21 Neubekanntmachungserlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE001300311)
 
 (1) Das Bundesministerium des Innern kann den Wortlaut des
 Beamtenrechtsrahmengesetzes, des Bundesbeamtengesetzes, des
@@ -114,6 +124,7 @@ Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 22 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE001400311)
 
 Die auf Artikel 15, 16, 17 und 19 Abs. 6 beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
@@ -121,12 +132,14 @@ einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 23 Umsetzungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE001500311)
 
 Die Verpflichtung der Länder aus Artikel 75 Abs. 3 des Grundgesetzes
 ist bis zum 1. Januar 2000 zu erfüllen.
 
 
 ## Art 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vreformg/BJNR166600998.html#BJNR166600998BJNE001602320)
 
 (1) Dieses Gesetz tritt am 1. Januar 1999 in Kraft.
 

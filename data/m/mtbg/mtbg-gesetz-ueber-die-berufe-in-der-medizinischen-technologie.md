@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt G 2124-18 v. 2.8.1993 I 1402 (MTAG 1993)
 
 ## Teil 1 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000101000)
 
 
 ### § 1 Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000201000)
 
 (1) Wer die Berufsbezeichnung
 
@@ -69,6 +71,7 @@ antragstellende Person
 
 
 ### § 2 Rücknahme der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000300000)
 
 (1) Die Erlaubnis zum Führen der Berufsbezeichnung ist zurückzunehmen,
 wenn
@@ -99,6 +102,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 3 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000400000)
 
 (1) Die Erlaubnis zum Führen der Berufsbezeichnung ist zu widerrufen,
 wenn bekannt wird, dass sich die Inhaberin oder der Inhaber einer
@@ -115,6 +119,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 4 Ruhen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000500000)
 
 (1) Das Ruhen der Erlaubnis zum Führen der Berufsbezeichnung kann
 angeordnet werden, wenn
@@ -142,9 +147,11 @@ Voraussetzungen nicht mehr vorliegen.
 
 
 ## Teil 2 - Vorbehaltene Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000200000)
 
 
 ### § 5 Vorbehaltene Tätigkeiten für Medizinische Technologinnen und Medizinische Technologen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000600000)
 
 (1) Die folgenden Tätigkeiten dürfen auf dem Gebiet der Humanmedizin
 nur von Medizinischen Technologinnen für Laboratoriumsanalytik und
@@ -254,6 +261,7 @@ oder eines Heilpraktikers ausgeübt werden.
 
 
 ### § 6 Ausnahmen von den vorbehaltenen Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000700000)
 
 (1) Die in § 5 Absatz 1 bis 4 den Medizinischen Technologinnen und
 Medizinischen Technologen vorbehaltenen Tätigkeiten können auch von
@@ -310,21 +318,26 @@ tätig gewesen sind.
 
 
 ## Teil 3 - Ausbildung und Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000400000)
 
 
 #### § 7 Nichtanwendung des Berufsbildungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000800000)
 
 Auf die Ausbildung und das Ausbildungsverhältnis nach diesem Gesetz
 findet das Berufsbildungsgesetz keine Anwendung.
 
 
 ### Abschnitt 2 - Ziele der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000500000)
 
 
 #### § 8 Allgemeines Ausbildungsziel
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE000900000)
 
 (1) Die Ausbildung zur Medizinischen Technologin und zum Medizinischen
 Technologen vermittelt die für die selbständige Berufsausübung in dem
@@ -343,6 +356,7 @@ als Teil der eigenen beruflichen Biographie zu verstehen.
 
 
 #### § 9 Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Laboratoriumsanalytik und Medizinische Technologen für Laboratoriumsanalytik
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001000000)
 
 (1) Die Auszubildenden zur Medizinischen Technologin für
 Laboratoriumsanalytik und zum Medizinischen Technologen für
@@ -408,6 +422,7 @@ sozialen Kompetenzen anzuwenden:
 
 
 #### § 10 Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Radiologie und Medizinische Technologen für Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001100000)
 
 (1) Die Auszubildenden zur Medizinischen Technologin für Radiologie
 und zum Medizinischen Technologen für Radiologie sind zu befähigen,
@@ -488,6 +503,7 @@ methodischen, personalen und sozialen Kompetenzen anzuwenden:
 
 
 #### § 11 Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Funktionsdiagnostik und Medizinische Technologen für Funktionsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001200000)
 
 (1) Die Auszubildenden zur Medizinischen Technologin für
 Funktionsdiagnostik und zum Medizinischen Technologen für
@@ -559,6 +575,7 @@ sozialen Kompetenzen anzuwenden:
 
 
 #### § 12 Berufsspezifisches Ausbildungsziel für Medizinische Technologinnen für Veterinärmedizin und Medizinische Technologen für Veterinärmedizin
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001300000)
 
 (1) Die Auszubildenden zur Medizinischen Technologin für
 Veterinärmedizin und zum Medizinischen Technologen für
@@ -625,9 +642,11 @@ sozialen Kompetenzen anzuwenden:
 
 
 ### Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000600000)
 
 
 #### § 13 Dauer und Struktur der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001400000)
 
 (1) Die Ausbildung kann in Vollzeit oder in Teilzeit absolviert
 werden.
@@ -679,6 +698,7 @@ sich je nach Beruf auf die Bestandteile der Ausbildung:
 
 
 #### § 14 Voraussetzungen für den Zugang zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001500000)
 
 Die Ausbildung darf nur absolvieren, wer
 
@@ -713,6 +733,7 @@ Die Ausbildung darf nur absolvieren, wer
 
 
 #### § 15 Anrechnung gleichwertiger Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001600000)
 
 (1) Die zuständige Behörde kann auf Antrag
 
@@ -735,6 +756,7 @@ Ausbildungsziel erreicht.
 
 
 #### § 16 Anrechnung von Fehlzeiten
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001700000)
 
 (1) Auf die Dauer der Ausbildung werden angerechnet:
 
@@ -780,6 +802,7 @@ Landespersonalvertretungsgesetzen bleiben unberührt.
 
 
 #### § 17 Verlängerung der Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001800000)
 
 (1) Die auszubildende Person kann bei der zuständigen Behörde die
 Verlängerung der Ausbildungsdauer beantragen.
@@ -804,6 +827,7 @@ höchstens jedoch um ein Jahr zu verlängern.
 
 
 #### § 18 Mindestanforderungen an Schulen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE001900000)
 
 (1) Der theoretische und praktische Unterricht findet an staatlichen,
 staatlich genehmigten oder staatlich anerkannten Schulen statt.
@@ -837,6 +861,7 @@ Anforderungen festlegen.
 
 
 #### § 19 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002000000)
 
 (1) Die praktische Ausbildung wird durchgeführt in geeigneten
 
@@ -872,6 +897,7 @@ Ausbildung untersagen.
 
 
 #### § 20 Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002100000)
 
 Die praxisanleitende Person führt die Auszubildenden an die
 praktischen und berufsspezifischen Tätigkeiten in der medizinischen
@@ -880,6 +906,7 @@ praktischen Ausbildung.
 
 
 #### § 21 Träger der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002200000)
 
 (1) Eine nach § 19 geeignete Einrichtung ist der Träger der
 praktischen Ausbildung. Der Träger der praktischen Ausbildung ist für
@@ -921,6 +948,7 @@ der praktischen Ausbildung die Schule
 
 
 #### § 22 Aufgaben und Gesamtverantwortung der Schule
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002300000)
 
 Die Schule
 
@@ -947,6 +975,7 @@ Die Schule
 
 
 #### § 23 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002400000)
 
 (1) Die Schule unterstützt die Auszubildenden während der praktischen
 Ausbildung fachlich und pädagogisch durch eine praxisbegleitende
@@ -957,6 +986,7 @@ unterstützen die Schulen bei der Durchführung der Praxisbegleitung.
 
 
 #### § 24 Schulinternes Curriculum und Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002500000)
 
 (1) Das schulinterne Curriculum nach § 22 Nummer 3 wird für den
 theoretischen und praktischen Unterricht erstellt.
@@ -980,6 +1010,7 @@ die Erstellung der schulinternen Curricula der Schulen erlassen.
 
 
 #### § 25 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002600000)
 
 (1) Die Ausbildung schließt mit einer staatlichen Prüfung ab.
 
@@ -989,9 +1020,11 @@ hat.
 
 
 ### Abschnitt 4 - Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000700000)
 
 
 #### § 26 Ausbildungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002700000)
 
 (1) Zwischen dem Träger der praktischen Ausbildung und der
 auszubildenden Person ist ein Ausbildungsvertrag nach den Vorschriften
@@ -1003,6 +1036,7 @@ kann nicht durch die elektronische Form ersetzt werden.
 
 
 #### § 27 Inhalt des Ausbildungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002800000)
 
 (1) Der Ausbildungsvertrag muss mindestens folgende Regelungen
 enthalten:
@@ -1063,6 +1097,7 @@ im Vertrag enthalten sein oder dem Vertrag beigefügt werden:
 
 
 #### § 28 Wirksamkeit des Ausbildungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE002900000)
 
 Der Ausbildungsvertrag wird nur wirksam, wenn die Schule, mit der der
 Träger der praktischen Ausbildung eine Kooperationsvereinbarung
@@ -1070,6 +1105,7 @@ geschlossen hat, dem Ausbildungsvertrag zustimmt.
 
 
 #### § 29 Vertragsschluss bei Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003000000)
 
 Der Ausbildungsvertrag ist bei Minderjährigen gemeinsam von der
 minderjährigen Person und deren gesetzlichen Vertretern zu schließen.
@@ -1078,6 +1114,7 @@ gesetzlichen Vertretern auszuhändigen.
 
 
 #### § 30 Anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003100000)
 
 Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen und
 Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für den
@@ -1086,6 +1123,7 @@ anzuwenden.
 
 
 #### § 31 Pflichten des Trägers der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003200000)
 
 (1) Der Träger der praktischen Ausbildung ist insbesondere
 verpflichtet,
@@ -1132,6 +1170,7 @@ den weiteren Einrichtungen der praktischen Ausbildung sicherzustellen.
 
 
 #### § 32 Arbeitnehmereigenschaft der auszubildenden Person
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003300000)
 
 Auszubildende sind für die gesamte Dauer der Ausbildung Arbeitnehmer
 im Sinne von § 5 des Betriebsverfassungsgesetzes oder von § 4 des
@@ -1140,6 +1179,7 @@ Ausbildung.
 
 
 #### § 33 Pflichten der auszubildenden Person
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003400000)
 
 (1) Die auszubildende Person hat sich zu bemühen, das Ausbildungsziel
 zu erreichen.
@@ -1168,6 +1208,7 @@ zu erreichen.
 
 
 #### § 34 Ausbildungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003500000)
 
 (1) Der Träger der praktischen Ausbildung hat der auszubildenden
 Person für die Dauer des Ausbildungsverhältnisses eine angemessene
@@ -1184,6 +1225,7 @@ abzugelten.
 
 
 #### § 35 Überstunden
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003600000)
 
 Eine über die vereinbarte regelmäßige tägliche oder wöchentliche
 Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise
@@ -1192,6 +1234,7 @@ auszugleichen.
 
 
 #### § 36 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003700000)
 
 (1) Die ersten sechs Monate des Ausbildungsverhältnisses sind die
 Probezeit.
@@ -1201,6 +1244,7 @@ tarifvertraglichen Regelungen eine andere Dauer ergibt.
 
 
 #### § 37 Ende des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003800000)
 
 (1) Das Ausbildungsverhältnis endet mit Ablauf der Ausbildungszeit.
 Der Zeitpunkt der Beendigung ist unabhängig vom Zeitpunkt der
@@ -1215,6 +1259,7 @@ der Prüfung, höchstens jedoch um ein Jahr.
 
 
 #### § 38 Beendigung des Ausbildungsvertrages durch Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE003900000)
 
 (1) Während der Probezeit kann der Ausbildungsvertrag von jedem
 Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist
@@ -1235,6 +1280,7 @@ werden
 
 
 #### § 39 Wirksamkeit der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004000000)
 
 (1) Die Kündigung muss schriftlich erfolgen.
 
@@ -1252,6 +1298,7 @@ Beendigung der Lauf der Frist nach Satz 1 gehemmt.
 
 
 #### § 40 Beschäftigung im Anschluss an das Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004100000)
 
 Wird die auszubildende Person im Anschluss an das
 Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
@@ -1260,6 +1307,7 @@ unbestimmte Zeit als begründet.
 
 
 #### § 41 Nichtigkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004200000)
 
 (1) Eine Vereinbarung, die zu Ungunsten der auszubildenden Person von
 den §§ 26 bis 40 abweicht, ist nichtig.
@@ -1292,12 +1340,15 @@ Träger der praktischen Ausbildung eingeht.
 
 
 ## Teil 4 - Anerkennung von Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000800000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG000900000)
 
 
 #### § 42 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004300000)
 
 (1) Mitgliedstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der
 Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten
@@ -1327,12 +1378,14 @@ erbringt.
 
 
 #### § 43 Nichtanwendung des Berufsqualifikationsfeststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004400000)
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des
 § 17 des Berufsqualifikationsfeststellungsgesetzes keine Anwendung.
 
 
 #### § 44 Prüfungsreihenfolge
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004500000)
 
 Beantragt eine Person, die außerhalb des Geltungsbereichs dieses
 Gesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach § 1, ist
@@ -1341,6 +1394,7 @@ nach § 1 Absatz 2 Nummer 2 bis 4 zu prüfen.
 
 
 #### § 45 Bescheid über die Feststellung der Gleichwertigkeit der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004600000)
 
 Auf Antrag ist der antragstellenden Person ein gesonderter Bescheid
 über die Feststellung der Gleichwertigkeit ihrer Berufsqualifikation
@@ -1348,9 +1402,11 @@ zu erteilen.
 
 
 ### Abschnitt 2 - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001000000)
 
 
 #### § 46 Anerkennung von außerhalb des Geltungsbereichs dieses Gesetzes erworbenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004700000)
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene
 Berufsqualifikation erfüllt die Voraussetzung nach § 1 Absatz 2 Nummer
@@ -1403,6 +1459,7 @@ geregelten Berufsqualifikationen gleichwertig, wenn
 
 
 #### § 47 Wesentliche Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004800000)
 
 (1) Die Berufsqualifikation der antragstellenden Person unterscheidet
 sich wesentlich, wenn
@@ -1435,6 +1492,7 @@ im Geltungsbereich dieses Gesetzes sind.
 
 
 #### § 48 Ausgleich wesentlicher Unterschiede durch Berufserfahrung oder lebenslanges Lernen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE004900000)
 
 (1) Wesentliche Unterschiede nach § 47 können ganz oder teilweise
 ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen,
@@ -1459,6 +1517,7 @@ Fähigkeiten und Kompetenzen erworben worden sind.
 
 
 #### § 49 Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005000000)
 
 (1) Ist die Berufsqualifikation der antragstellenden Person nicht mit
 derjenigen in diesem Gesetz geregelten Berufsqualifikationen, deren
@@ -1474,6 +1533,7 @@ können.
 
 
 #### § 50 Eignungsprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005100000)
 
 (1) Die antragstellende Person hat als Anpassungsmaßnahme eine
 Eignungsprüfung, die sich auf die festgestellten wesentlichen
@@ -1582,6 +1642,7 @@ zu absolvieren.
 
 
 #### § 51 Kenntnisprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005200000)
 
 (1) Wenn die antragstellende Person eine Berufsqualifikation vorlegt,
 die in einem Drittstaat, der kein gleichgestellter Staat ist, erworben
@@ -1605,6 +1666,7 @@ dem Anpassungslehrgang wählen.
 
 
 #### § 52 Europäischer Berufsausweis
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005300000)
 
 Für den Fall einer Einführung eines Europäischen Berufsausweises für
 den Beruf
@@ -1631,9 +1693,11 @@ von Berufsqualifikationen dieses Teils entsprechend.
 
 
 ### Abschnitt 3 - Partielle Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001100000)
 
 
 #### § 53 Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005400000)
 
 (1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
 erteilen, wenn
@@ -1711,12 +1775,15 @@ Berufsausübung entsprechend.
 
 
 ## Teil 5 - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001200000)
 
 
 ### Abschnitt 1 - Erbringung von Dienstleistungen im Geltungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001300000)
 
 
 #### § 54 Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005500000)
 
 (1) Eine Staatsangehörige oder ein Staatsangehöriger eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -1735,6 +1802,7 @@ mit ein.
 
 
 #### § 55 Meldung der Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005600000)
 
 (1) Wer beabsichtigt, als dienstleistungserbringende Person im
 Geltungsbereich dieses Gesetzes tätig zu werden, ist verpflichtet,
@@ -1794,6 +1862,7 @@ die Meldung zu erneuern.
 
 
 #### § 56 Berechtigung zur Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005700000)
 
 Zur Dienstleistungserbringung ist nur berechtigt, wer
 
@@ -1838,6 +1907,7 @@ Zur Dienstleistungserbringung ist nur berechtigt, wer
 
 
 #### § 57 Zur Dienstleistungserbringung berechtigende Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005800000)
 
 (1) Zur Dienstleistungserbringung berechtigen folgende
 Berufsqualifikationen:
@@ -1894,6 +1964,7 @@ Dienstleistungserbringung.
 
 
 #### § 58 Entscheidung über die Berechtigung zur Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE005900000)
 
 (1) Die zuständige Behörde überprüft, ob die meldende Person
 berechtigt ist, in Deutschland die Tätigkeit in einem der in diesem
@@ -1908,6 +1979,7 @@ meldenden Person anfordern.
 
 
 #### § 59 Rechte und Pflichten der dienstleistungserbringenden Person
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006000000)
 
 (1) Ist eine Person berechtigt, einen der in diesem Gesetz geregelten
 Berufe als dienstleistungserbringende Person vorübergehend und
@@ -1952,6 +2024,7 @@ Bescheinigungen und Erklärungen vorzulegen.
 
 
 #### § 59a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007800360)
 
 (1) Für die Erbringung von vorübergehenden und gelegentlichen
 Dienstleistungen im Sinne des Artikels 57 des Vertrages über die
@@ -2006,9 +2079,11 @@ und 2 gelten entsprechend.
 
 
 ### Abschnitt 2 - Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in gleichgestellten Staaten
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001400000)
 
 
 #### § 60 Bescheinigung der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006100000)
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -2058,9 +2133,11 @@ und gelegentlich auszuüben.
 
 
 ## Teil 6 - Zuständigkeiten und Aufgaben der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001500000)
 
 
 ### § 61 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006200000)
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
@@ -2084,12 +2161,14 @@ einen der in diesem Gesetz geregelten Berufe ausübt.
 
 
 ### § 62 Gemeinsame Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006300000)
 
 Die Länder können vereinbaren, dass die Aufgaben nach Teil 4 von einem
 anderen Land oder einer gemeinsamen Einrichtung wahrgenommen werden.
 
 
 ### § 63 Unterrichtungs- und Überprüfungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006401360)
 
 (1) Die zuständige Behörde des Landes, in dem eine Person einen in
 diesem Gesetz geregelten Beruf vollständig oder partiell ausübt oder
@@ -2179,6 +2258,7 @@ die Europäische Kommission weiter.
 
 
 ### § 64 Warnmitteilung durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006500000)
 
 (1) Die zuständige Behörde eines Landes übermittelt den zuständigen
 Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und
@@ -2245,6 +2325,7 @@ entsprechenden Hinweis.
 
 
 ### § 65 Unterrichtung über Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006600000)
 
 (1) Die zuständige Behörde, die die Warnmitteilung getätigt hat,
 unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten, der
@@ -2265,6 +2346,7 @@ verwenden.
 
 
 ### § 66 Löschung einer Warnmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006700000)
 
 Die zuständige Behörde, die die Warnmitteilung getätigt hat, löscht
 die Warnmitteilung im Binnenmarkt-Informationssystem unverzüglich,
@@ -2273,6 +2355,7 @@ genannten Entscheidung.
 
 
 ### § 67 Unterrichtung über gefälschte Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006800000)
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
 auf Erteilung der Erlaubnis nach § 1 Absatz 1 gefälschte
@@ -2317,6 +2400,7 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 
 
 ### § 68 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE006901360)
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
 dieses Gesetzes einen der in diesem Gesetz geregelten Berufe
@@ -2377,9 +2461,11 @@ Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde
 
 
 ## Teil 7 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001600000)
 
 
 ### § 69 Ermächtigung zum Erlass einer Ausbildungs- und Prüfungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007001360)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer
 Ausbildungs- und Prüfungsverordnung, die der Zustimmung des
@@ -2474,9 +2560,11 @@ Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
 
 ## Teil 8 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001701000)
 
 
 ### § 70 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007101000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2494,9 +2582,11 @@ Euro geahndet werden.
 
 
 ## Teil 9 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNG001800000)
 
 
 ### § 71 Fortgelten der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007200000)
 
 Eine Erlaubnis zum Führen der jeweiligen Berufsbezeichnung nach dem
 Gesetz über technische Assistenten in der Medizin in der bis zum 31.
@@ -2508,6 +2598,7 @@ wurde.
 
 
 ### § 72 Fortgelten der Bestätigung zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007300000)
 
 Eine Bestätigung zur partiellen Berufsausübung, die nach § 2 Absatz 3b
 des Gesetzes über technische Assistenten in der Medizin in der bis zum
@@ -2517,6 +2608,7 @@ einer vorbehaltenen Tätigkeit nach § 5 im bisherigen Umfang.
 
 
 ### § 73 Abschluss begonnener Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007400000)
 
 (1) Eine Ausbildung in einem Beruf der technischen Assistenten in der
 Medizin, die vor dem 31. Dezember 2022 begonnen wurde, kann bis zum
@@ -2538,6 +2630,7 @@ geltenden Fassung.
 
 
 ### § 74 Weitergeltung der staatlichen Anerkennung von Schulen und Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007500000)
 
 (1) Schulen, die nach den Vorgaben des Gesetzes über technische
 Assistenten in der Medizin in der bis zum 31. Dezember 2022 geltenden
@@ -2569,6 +2662,7 @@ Personen als erfüllt,
 
 
 ### § 75 Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007600000)
 
 Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb
 dieses Gesetzes erworbenen Berufsqualifikation kann bis zum 31.
@@ -2578,6 +2672,7 @@ geltenden Fassung getroffen werden.
 
 
 ### § 76 Finanzierung von Ausbildungskosten; Kooperationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/mtbg/BJNR027410021.html#BJNR027410021BJNE007700000)
 
 (1) Als mit Krankenhäusern notwendigerweise verbundene
 Ausbildungsstätten im Sinne des § 2 Nummer 1a des

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_15/BJNR002630967.html#BJNR002630967BJNE000100312)
 
 Auf Grund des § 6 Abs. 1 und des § 27 Abs. 3 des
 Straßenverkehrsgesetzes wird nach Anhören der zuständigen obersten
@@ -27,6 +28,7 @@ Landesbehörden verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_15/BJNR002630967.html#BJNR002630967BJNE000205308)
 
 (1) (weggefallen)
 
@@ -48,11 +50,13 @@ auch von geeigneten Werkstätten der Bundeswehr durchgeführt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_15/BJNR002630967.html#BJNR002630967BJNE000300312)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_15/BJNR002630967.html#BJNR002630967BJNE000400312)
 
 Der Bundesminister für Verkehr
 

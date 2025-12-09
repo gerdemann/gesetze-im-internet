@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/BJNR007420017.html#BJNR007420017BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/BJNR007420017.html#BJNR007420017BJNE000200000)
 
 Dem in Brüssel am 27. Juni 1997 von der Bundesrepublik Deutschland
 unterzeichneten Protokoll zur Neufassung des Internationalen
@@ -44,6 +46,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/BJNR007420017.html#BJNR007420017BJNE000300000)
 
 (1) Die nach Artikel 3 Satz 2 Buchstabe b und c der Anlage IV zum
 Übereinkommen („Bestimmungen über das gemeinsame Flugsicherungs-
@@ -59,6 +62,7 @@ Beschluss dieses vorsieht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/BJNR007420017.html#BJNR007420017BJNE000400000)
 
 Die Einziehung der Gebühr gemäß den Artikeln 6 und 7 der Anlage IV zum
 Übereinkommen wird auf dem Verwaltungsweg durch die Bundesrepublik
@@ -72,6 +76,7 @@ worden ist, findet Anwendung.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/BJNR007420017.html#BJNR007420017BJNE000600000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

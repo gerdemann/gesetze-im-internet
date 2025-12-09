@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmingernano/BJNR152900012.html#BJNR152900012BJNE000100000)
 
 Nach Artikel 1 Absatz 1 Satz 2 der Anordnung des Bundespräsidenten
 über die Ernennung und Entlassung der Beamtinnen, Beamten,
@@ -51,6 +52,7 @@ widerruflich übertragen auf:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmingernano/BJNR152900012.html#BJNR152900012BJNE000200000)
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
 diesem Zeitpunkt an ist die Anordnung über die Ernennung und
@@ -64,6 +66,7 @@ des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmingernano/BJNR152900012.html#BJNR152900012BJNE000300000)
 
 Der Bundesminister für Gesundheit
 

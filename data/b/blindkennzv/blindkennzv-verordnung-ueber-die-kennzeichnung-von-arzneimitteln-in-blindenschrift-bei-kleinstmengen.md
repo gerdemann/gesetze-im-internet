@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blindkennzv/BJNR169600006.html#BJNR169600006BJNE000100000)
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 2 des Arzneimittelgesetzes in der
 Fassung der Bekanntmachung vom 12. Dezember 2005 (BGBl. I S. 3394)
@@ -27,6 +28,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/blindkennzv/BJNR169600006.html#BJNR169600006BJNE000200000)
 
 Diese Verordnung gilt für zur Anwendung bei Menschen bestimmte
 Fertigarzneimittel, die den arzneimittelrechtlichen Vorschriften über
@@ -36,6 +38,7 @@ in einem Jahr in den Verkehr gebracht werden.
 
 
 ## § 2 Kennzeichnung von Kleinstmengen
+[Direktlink](https://www.gesetze-im-internet.de/blindkennzv/BJNR169600006.html#BJNR169600006BJNE000300000)
 
 Für die in § 1 genannten Arzneimittel müssen die nach § 10 Abs. 1b des
 Arzneimittelgesetzes vorgeschriebenen Angaben nicht angebracht werden,
@@ -50,11 +53,13 @@ bereitzustellen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/blindkennzv/BJNR169600006.html#BJNR169600006BJNE000400000)
 
 Die Verordnung tritt am 1. September 2006 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/blindkennzv/BJNR169600006.html#BJNR169600006BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

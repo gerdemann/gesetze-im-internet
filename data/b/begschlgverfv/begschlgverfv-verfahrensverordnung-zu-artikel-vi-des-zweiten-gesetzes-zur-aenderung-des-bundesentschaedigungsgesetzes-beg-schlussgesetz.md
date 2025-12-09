@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000100328)
 
 Auf Grund des Artikels VI Nr. 7 des Zweiten Gesetzes zur Änderung des
 Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14. September 1965
@@ -32,6 +33,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000200328)
 
 (1) Für Anträge beim Bundesverwaltungsamt gemäß Artikel VI des BEG-
 Schlußgesetzes soll der amtliche Vordruck verwendet werden.
@@ -41,12 +43,14 @@ in Urschrift oder beglaubigter Abschrift beigefügt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000300328)
 
 Das Bundesverwaltungsamt ist im Verfahren nach Artikel VI des BEG-
 Schlußgesetzes zur Abnahme von Versicherungen an Eides Statt befugt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000400328)
 
 (1) Für einen offensichtlich unbegründeten Antrag im Sinne des § 207
 Abs. 1 Satz 2 BEG können dem Antragsteller eine Gebühr bis zu 100
@@ -61,6 +65,7 @@ zuerkannt worden ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000501310)
 
 Zeugen und Sachverständige erhalten im Verfahren vor dem
 Bundesverwaltungsamt eine Entschädigung oder Vergütung nach Maßgabe
@@ -68,6 +73,7 @@ des Justizvergütungs- und -entschädigungsgesetzes.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000600328)
 
 Schreib- und Rechenfehler und ähnliche offenbare Unrichtigkeiten in
 den Bescheiden sind von dem Bundesverwaltungsamt zu berichtigen. Über
@@ -76,6 +82,7 @@ nach Maßgabe der §§ 196 und 197 BEG zuzustellen.
 
 
 ## § 6 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000700328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel XI
@@ -83,6 +90,7 @@ des BEG-Schlußgesetzes auch im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/begschlgverfv/BJNR001870966.html#BJNR001870966BJNE000800328)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

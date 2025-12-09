@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmingszustano/BJNR173700004.html#BJNR173700004BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
@@ -35,6 +36,7 @@ war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmingszustano/BJNR173700004.html#BJNR173700004BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt die Vertretung des Bundesministeriums für
@@ -48,11 +50,13 @@ wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmingszustano/BJNR173700004.html#BJNR173700004BJNE000300000)
 
 Diese Anordnung wird am 1. Mai 2004 wirksam.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmingszustano/BJNR173700004.html#BJNR173700004BJNE000400000)
 
 Die Bundesministerin für Gesundheit und Soziale Sicherung
 

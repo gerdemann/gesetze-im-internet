@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mvschpano/BJNR519610993.html#BJNR519610993BJNE000100314)
 
 Auf Grund § 60 Abs. 3 der Seeschiffahrtsstraßen-Ordnung (SeeSchStrO)
 in der Fassung der Bekanntmachung vom 15. April 1987 (BGBl. I S.
@@ -28,6 +29,7 @@ und Schiffahrtsdirektion Nord angeordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/mvschpano/BJNR519610993.html#BJNR519610993BJNE000200314)
 
 Auf den Seeschiffahrtsstraßen im Bereich des Landes Mecklenburg-
 Vorpommern gelten im Sinne von § 5 Abs. 1 SeeSchStrO zusätzlich
@@ -217,6 +219,7 @@ Schiffahrtszeichen -.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/mvschpano/BJNR519610993.html#BJNR519610993BJNE000300314)
 
 Diese schiffahrtspolizeiliche Anordnung tritt am Tage nach ihrer
 Verkündung in Kraft.

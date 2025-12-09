@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000100000)
 
 Auf Grund des § 235a Satz 1 Nummer 1 bis 3 und 5 bis 8, auch in
 Verbindung mit § 144 Absatz 1 und § 62 Absatz 1 Satz 2 Nummer 5 sowie
@@ -39,6 +40,7 @@ dem Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000200000)
 
 Diese Verordnung gilt für durchführende Einrichtungen, die der
 Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -49,6 +51,7 @@ Altersversorgung erbringt.
 
 
 ## § 2 Bereitstellung der Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000300000)
 
 (1) Die durchführende Einrichtung stellt die Informationen, die nach
 den §§ 234l bis 234p des Versicherungsaufsichtsgesetzes und nach
@@ -69,6 +72,7 @@ diese Informationen erhalten.
 
 
 ## § 3 Allgemeine Informationen zu einem Altersversorgungssystem
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000400000)
 
 (1) Die Informationen nach § 234l Absatz 1 des
 Versicherungsaufsichtsgesetzes umfassen zumindest
@@ -167,6 +171,7 @@ Bestimmungen zu machen.
 
 
 ## § 4 Renteninformation
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000500000)
 
 (1) Die Renteninformation nach § 234o Absatz 1 Satz 2 des
 Versicherungsaufsichtsgesetzes enthält zumindest folgende
@@ -304,6 +309,7 @@ Informationen erhältlich sind.
 
 
 ## § 5 Information der Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000600000)
 
 (1) Dem Versorgungsempfänger werden mindestens alle fünf Jahre die in
 § 234p Absatz 1 des Versicherungsaufsichtsgesetzes genannten
@@ -325,6 +331,7 @@ er jährlich zu informieren über
 
 
 ## § 6 Zusätzliche Informationen vor dem Beitritt zu einem Altersversorgungssystem
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000700000)
 
 Versorgungsanwärter, die nicht automatisch in das
 Altersversorgungssystem aufgenommen werden, erhalten die in § 3 Absatz
@@ -333,6 +340,7 @@ zum Altersversorgungssystem.
 
 
 ## § 7 Information auf Anfrage
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000800000)
 
 Die durchführende Einrichtung stellt den Versorgungsanwärtern und
 Versorgungsempfängern auf Anfrage die in § 4 Absatz 3 Nummer 2
@@ -343,6 +351,7 @@ zugrunde liegen.
 
 
 ## § 8 Projektion der Altersversorgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE000900000)
 
 (1) Für die Projektion der Altersversorgungsleistungen nach § 234o
 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes müssen angemessene
@@ -393,6 +402,7 @@ werden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vag-infov/BJNR087100019.html#BJNR087100019BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

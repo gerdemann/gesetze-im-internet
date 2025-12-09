@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000100326)
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte des Deutschen
 Reiches, die zum bisherigen Sondervermögen "Deutsche Reichsbahn"
@@ -35,6 +36,7 @@ nur auf Grund besonderer Vereinbarung für übertragbar erklärt sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000200326)
 
 Soweit Vermögenswerte eines Unternehmens des privaten Rechts mit
 eigener Rechtspersönlichkeit, an dem die Deutsche Reichsbahn am 8. Mai
@@ -44,6 +46,7 @@ ein Land übergegangen sind, gilt dieser Übergang als nicht erfolgt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000300326)
 
 (1) Für Vermögenswerte, die einem Unternehmen des privaten Rechts mit
 eigener Rechtspersönlichkeit gehören, an dem die Deutsche Reichsbahn
@@ -95,6 +98,7 @@ werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000400326)
 
 (1) Treuhandschaften der Länder an dem Eigentum und den
 Vermögensrechten, die unter §§ 1, 2 und 3 fallen, erlöschen mit dem
@@ -110,6 +114,7 @@ Verpflichtungen ein.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000500326)
 
 Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
 Vermögensrechte der in § 1 bezeichneten Art vor dem Inkrafttreten
@@ -117,6 +122,7 @@ dieses Gesetzes getroffen worden sind, bleibt unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000600326)
 
 § 1 gilt nicht für Eigentum und Vermögensrechte, die nach dem 30.
 Januar 1933 einer Gewerkschaft, Genossenschaft, politischen Partei
@@ -124,12 +130,14 @@ oder sonstigen demokratischen Organisation weggenommen worden sind.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000700326)
 
 Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten, die
 unter § 1 fallen, bleiben bestehen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000800326)
 
 (1) Gehört das Eigentum an einem Grundstück nach § 1 zum
 Sondervermögen "Deutsche Bundesbahn", so ist der Antrag auf
@@ -152,6 +160,7 @@ Rechte.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE000900326)
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
@@ -159,6 +168,7 @@ außer Ansatz.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE001000326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
@@ -166,6 +176,7 @@ Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
 (BGBl. II 1990, 889, 1098)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/bbahnvermg/BJNR001550951.html#BJNR001550951BJNE888800305)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

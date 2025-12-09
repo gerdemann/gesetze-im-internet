@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE000400308)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -31,10 +32,12 @@ Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNG000100308)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE000500308)
 
 (1) Dem Glasveredler-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -157,10 +160,12 @@ Fertigkeiten zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNG000200308)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE000600308)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -177,6 +182,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE000700308)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten
 Arbeiten anzufertigen:
@@ -221,6 +227,7 @@ berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE000800308)
 
 (1) Als Arbeitsprobe sind vier der nachstehend genannten Arbeiten
 auszuführen:
@@ -266,6 +273,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE000900308)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern
 nachzuweisen:
@@ -370,10 +378,12 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNG000300308)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE001001116)
 
 Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
 worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
@@ -382,6 +392,7 @@ Meisterprüfungsausschuss fortzuführen.
 
 
 ### § 7 Weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE001102128)
 
 (1) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
@@ -392,6 +403,7 @@ unberührt.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glasvmstrv/BJNR099400994.html#BJNR099400994BJNE001200308)
 
 (1) Diese Verordnung tritt am 1. Juli 1994 in Kraft.
 

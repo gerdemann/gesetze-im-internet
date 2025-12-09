@@ -24,10 +24,12 @@ Geändert durch
 
 
 ## Erster Abschnitt - Allgemeine und grundsätzliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000102116)
 
 
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001103116)
 
 (1) Dieses Gesetz regelt die Erfassung, Erschließung, Verwaltung und
 Verwendung der Unterlagen des Ministeriums für Staatssicherheit und
@@ -64,6 +66,7 @@ befinden.
 
 
 ### § 2 Erfassung, Verwahrung und Verwaltung der Unterlagen des Staatssicherheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001208116)
 
 (1) Die Stasi-Unterlagen werden in Berlin und an regionalen Standorten
 in Erfurt, Frankfurt (Oder), Halle (Saale), Leipzig und Rostock gemäß
@@ -203,6 +206,7 @@ Strafverfolgungsbehörden zur Erfüllung ihrer gesetzlichen Aufgaben zu
 
 
 ### § 3 Rechte des Einzelnen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001303116)
 
 (1) Jeder Einzelne hat das Recht, vom Bundesarchiv Auskunft darüber zu
 verlangen, ob in den erschlossenen Unterlagen Informationen zu seiner
@@ -220,6 +224,7 @@ Interessen anderer Personen nicht beeinträchtigt werden.
 
 
 ### § 4 Zulässigkeit der Verwendung der Unterlagen des Staatssicherheitsdienstes durch öffentliche und nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001403116)
 
 (1) Öffentliche und nichtöffentliche Stellen haben nur Zugang zu den
 Unterlagen und dürfen sie nur verwenden, soweit dieses Gesetz es
@@ -247,6 +252,7 @@ schutzwürdige Interessen anderer Personen nicht beeinträchtigt werden.
 
 
 ### § 5 Besondere Verwendungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001503116)
 
 (1) Die Verwendung personenbezogener Informationen über Betroffene
 oder Dritte, die im Rahmen der zielgerichteten Informationserhebung
@@ -268,6 +274,7 @@ Gericht.
 
 
 ### § 6 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001603116)
 
 (1) Unterlagen des Staatssicherheitsdienstes sind
 
@@ -417,10 +424,12 @@ natürlichen Person zugeordnet werden können.
 
 
 ## Zweiter Abschnitt - Erfassung der Unterlagen des Staatssicherheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000202116)
 
 
 
 ### § 7 Auffinden von Unterlagen des Staatssicherheitsdienstes, Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001704116)
 
 (1) Alle öffentlichen Stellen unterstützen das Bundesarchiv bei seinen
 Ermittlungen zum Auffinden der Unterlagen des
@@ -444,6 +453,7 @@ sobald ihnen dies bekannt wird.
 
 
 ### § 8 Herausgabepflicht öffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001803116)
 
 (1) Jede öffentliche Stelle hat dem Bundesarchiv auf dessen Verlangen
 unverzüglich bei ihr befindliche Unterlagen des
@@ -463,6 +473,7 @@ herauszugeben.
 
 
 ### § 9 Herausgabepflicht nichtöffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE001903116)
 
 (1) Jede natürliche Person und jede sonstige nichtöffentliche Stelle
 hat dem Bundesarchiv auf dessen Verlangen unverzüglich Unterlagen des
@@ -483,6 +494,7 @@ Kopien, Abschriften oder sonstigen Duplikaten zu überlassen.
 
 
 ### § 10 Unterlagen der Sozialistischen Einheitspartei Deutschlands, anderer mit ihr verbundener Parteien und Massenorganisationen sowie sonstige Unterlagen im Zusammenhang mit dem Staatssicherheitsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002003116)
 
 (1) Das Bundesarchiv kann zur Erfüllung seiner Aufgaben nach diesem
 Gesetz von den zuständigen Stellen Auskunft über Art, Inhalt und
@@ -508,6 +520,7 @@ zur Umsetzung seiner Anordnungen oder Hinweise entstanden sind.
 
 
 ### § 11 Rückgabe und Herausgabe von Unterlagen anderer Behörden durch das Bundesarchiv
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002105116)
 
 (1) Das Bundesarchiv hat Unterlagen anderer Behörden, die es nach
 diesem Gesetz verwahrt und in denen sich keine Anhaltspunkte dafür
@@ -571,14 +584,17 @@ Bundesarchiv kann Duplikate zu seinen Unterlagen nehmen.
 
 
 ## Dritter Abschnitt - Verwendung der Unterlagen des Staatssicherheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000302116)
 
 
 
 ### Erster Unterabschnitt - Rechte von Betroffenen, Dritten, Mitarbeitern des Staatssicherheitsdienstes und Begünstigten
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000402116)
 
 
 
 #### § 12 Verfahrensvorschriften für Betroffene, Dritte, Mitarbeiter und Begünstigte des Staatssicherheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002204116)
 
 (1) Der Antrag auf Auskunft, Einsicht in Unterlagen oder Herausgabe
 von Unterlagen ist schriftlich zu stellen. Der Antragsteller hat durch
@@ -649,6 +665,7 @@ Antragsteller enthalten sind.
 
 
 #### § 13 Recht von Betroffenen und Dritten auf Auskunft, Einsicht und Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002302116)
 
 (1) Betroffenen ist auf Antrag Auskunft über die zu ihrer Person
 vorhandenen und erschlossenen Unterlagen zu erteilen. In dem Antrag
@@ -697,10 +714,12 @@ steht.
 
 
 #### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002405116)
 
 
 
 #### § 15 Recht von nahen Angehörigen Vermisster oder Verstorbener auf Auskunft, Einsicht und Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002505116)
 
 (1) Nahen Angehörigen ist auf Antrag Auskunft zu erteilen
 
@@ -743,6 +762,7 @@ sich aus anderen Umständen eindeutig ergibt.
 
 
 #### § 16 Recht von Mitarbeitern des Staatssicherheitsdienstes auf Auskunft, Einsicht und Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002602116)
 
 (1) Mitarbeitern des Staatssicherheitsdienstes ist auf Antrag Auskunft
 über ihre personenbezogenen Informationen zu erteilen, die in den zu
@@ -769,6 +789,7 @@ anonymisieren.
 
 
 #### § 17 Recht von Begünstigten auf Auskunft, Einsicht und Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002703116)
 
 (1) Für das Recht von Begünstigten auf Auskunft, Einsicht in
 Unterlagen und Herausgabe von Unterlagen gilt § 16 Absatz 1, 3 und 5
@@ -785,6 +806,7 @@ Interesses unterbleiben muss.
 
 
 #### § 18 Recht auf Auskunft, Einsicht und Herausgabe bei dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002803116)
 
 Bei Akten von Gerichten und Staatsanwaltschaften, die das Bundesarchiv
 nach diesem Gesetz verwahrt, gelten für das Recht auf Auskunft,
@@ -794,10 +816,12 @@ Verfahrensordnungen.
 
 
 ### Zweiter Unterabschnitt - Verwendung der Unterlagen des Staatssicherheitsdienstes durch öffentliche und nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000503116)
 
 
 
 #### § 19 Zugang zu den Unterlagen durch öffentliche und nichtöffentliche Stellen, Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE002907116)
 
 (1) Das Bundesarchiv macht Mitteilungen an öffentliche und
 nichtöffentliche Stellen, gewährt ihnen Einsicht in Unterlagen und
@@ -895,6 +919,7 @@ Absatz 3 Satz 1 bleibt unberührt.
 
 
 #### § 20 Verwendung von Unterlagen, die keine personenbezogenen Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003008116)
 
 (1) Unterlagen, soweit sie keine personenbezogenen Informationen über
 Betroffene oder Dritte enthalten, dürfen durch öffentliche und
@@ -1076,6 +1101,7 @@ anzubieten.
 
 
 #### § 21 Verwendung von Unterlagen, die personenbezogene Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003108116)
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über
 Betroffene oder Dritte enthalten, dürfen durch öffentliche und
@@ -1246,6 +1272,7 @@ anzubieten.
 
 
 #### § 22 Verwendung von Unterlagen für Zwecke parlamentarischer Untersuchungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003202116)
 
 (1) Das Recht auf Beweiserhebung durch parlamentarische
 Untersuchungsausschüsse nach Artikel 44 Absatz 1 und 2 des
@@ -1257,6 +1284,7 @@ Untersuchungsausschüsse der Länder.
 
 
 #### § 23 Verwendung von Unterlagen für Zwecke der Strafverfolgung und Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003306116)
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über
 Betroffene oder Dritte enthalten, dürfen in dem erforderlichen Umfang
@@ -1322,6 +1350,7 @@ erforderlich ist.
 
 
 #### § 24 Verwendung der dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003403116)
 
 (1) Für die Verwendung der Akten von Gerichten und
 Staatsanwaltschaften, die das Bundesarchiv nach diesem Gesetz
@@ -1338,6 +1367,7 @@ sobald sie für den Verwendungszweck nicht mehr benötigt werden.
 
 
 #### § 25 Verwendung von Unterlagen für Zwecke der Nachrichtendienste
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003505116)
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über
 Betroffene oder Dritte enthalten, dürfen nicht durch oder für
@@ -1387,6 +1417,7 @@ werden.
 
 
 #### § 26 Verwendung von Dienstanweisungen, Organisationsplänen und weiteren Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003603116)
 
 (1) Richtlinien, Dienstanweisungen, Organisationspläne und
 Stellenpläne des Staatssicherheitsdienstes, soweit sie keine
@@ -1403,6 +1434,7 @@ enthalten.
 
 
 #### § 27 Mitteilungen ohne Ersuchen an öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003706116)
 
 (1) Stellt das Bundesarchiv gelegentlich der Erfüllung seiner Aufgaben
 nach diesem Gesetz eine hauptamtliche oder inoffizielle Tätigkeit für
@@ -1458,10 +1490,12 @@ sie auch auf Ersuchen erfolgen dürfen.
 
 
 #### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003803116)
 
 
 
 #### § 29 Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE003904116)
 
 (1) Nach den §§ 19 bis 23, 25 und 27 übermittelte personenbezogene
 Informationen dürfen nur für die Zwecke verarbeitet und genutzt
@@ -1479,6 +1513,7 @@ Informationen in den Unterlagen, die nach § 8 Absatz 2 bei
 
 
 #### § 30 Benachrichtigung von der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004004116)
 
 (1) Werden vom Bundesarchiv personenbezogene Informationen über einen
 Betroffenen nach den §§ 21 und 27 Absatz 1 übermittelt, sind dem
@@ -1497,6 +1532,7 @@ oder eines Landes Nachteile bereiten würde.
 
 
 #### § 31 Gerichtliche Überprüfung von Entscheidungen des Bundesarchivs auf Antrag von Behörden
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004103116)
 
 (1) Lehnt das Bundesarchiv ein Ersuchen einer Behörde um Mitteilung,
 Einsichtnahme oder Herausgabe ab, entscheidet über die Rechtmäßigkeit
@@ -1516,10 +1552,12 @@ durch Akteneinsicht zur Kenntnis gelangt sind.
 
 
 ### Dritter Unterabschnitt - Verwendung der Unterlagen des Staatssicherheitsdienstes für die politische und historische Aufarbeitung sowie durch Presse und Rundfunk
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000602116)
 
 
 
 #### § 32 Verwendung von Unterlagen für die politische und historische Aufarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004209116)
 
 (1) Für die Forschung zum Zwecke der politischen und historischen
 Aufarbeitung der Tätigkeit des Staatssicherheitsdienstes oder der
@@ -1661,6 +1699,7 @@ Vergangenheit.
 
 
 #### § 32a Benachrichtigung
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE006004116)
 
 (1) Sollen Unterlagen nach § 32 Absatz 1 Satz 1 Nummer 4 zur Verfügung
 gestellt werden, sind die hiervon betroffenen Personen zuvor
@@ -1679,6 +1718,7 @@ unverhältnismäßigem Aufwand möglich wäre.
 
 
 #### § 33 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004304116)
 
 (1) Für Zwecke der Forschung und der politischen Bildung kann an allen
 Standorten oder in digitaler Form Einsicht in Unterlagen genommen
@@ -1701,6 +1741,7 @@ zulässig.
 
 
 #### § 34 Verwendung von Unterlagen durch Presse, Rundfunk und Film
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004403116)
 
 (1) Für die Verwendung von Unterlagen durch Presse, Rundfunk, Film,
 deren Hilfsunternehmen und die für sie journalistisch-redaktionell
@@ -1715,14 +1756,17 @@ Gegendarstellungen erneut veröffentlicht werden.
 
 
 ## Vierter Abschnitt - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000703116)
 
 
 
 ### (XXXX) §§ 35 bis 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004504116)
 
 
 
 ### § 37a Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE006202116)
 
 Eine Beschäftigung von ehemaligen Mitarbeitern des
 Staatssicherheitsdienstes beim Bundesarchiv ist vorbehaltlich des
@@ -1743,6 +1787,7 @@ persönlichen und familiären Umstände zu berücksichtigen.
 
 
 ### § 38 Landesbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004803116)
 
 (1) Das Bundesarchiv gibt den Landesbeauftragten zur Aufarbeitung der
 SED-Diktatur und der Folgen der kommunistischen Diktatur Gelegenheit,
@@ -1757,6 +1802,7 @@ soziale Beratung nach Abschluss der Verfahren nach § 12 erstrecken.
 
 
 ### § 39 Beratungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE004906116)
 
 (1) Zur Begleitung des Transformationsprozesses des Stasi-Unterlagen-
 Archivs in das Bundesarchiv und zur Beratung des Bundesarchivs in die
@@ -1800,6 +1846,7 @@ Zustimmung des Bundesarchivs bedarf.
 
 
 ### § 40 Maßnahmen zur Sicherung der Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005005116)
 
 (1) Das Bundesarchiv trifft die organisatorischen und technischen
 Maßnahmen, die erforderlich sind, um die Unterlagen gegen unbefugten
@@ -1853,6 +1900,7 @@ Zugriff zu sichern.
 
 
 ### § 41 Automatisierte Verfahren, Informationsverarbeitung im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005105116)
 
 (1) Personenbezogene Informationen aus Unterlagen des
 Staatssicherheitsdienstes darf das Bundesarchiv nur insoweit
@@ -1873,19 +1921,23 @@ verarbeitet.
 
 
 ## Fünfter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNG000802116)
 
 
 
 ### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005211116)
 
 
 
 ### § 42a Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE006401116)
 
 Gerichtsstand ist Berlin.
 
 
 ### § 43 Vorrang dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005304116)
 
 (1) Die Regelungen dieses Gesetzes gehen Vorschriften über die
 Zulässigkeit der Übermittlung personenbezogener Informationen in
@@ -1904,6 +1956,7 @@ nach Maßgabe dieses Gesetzes gewährt.
 
 
 ### § 44 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005402116)
 
 Wer von diesem Gesetz geschützte Originalunterlagen oder Duplikate von
 Originalunterlagen mit personenbezogenen Informationen über Betroffene
@@ -1914,6 +1967,7 @@ eingewilligt hat.
 
 
 ### § 45 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005505116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1939,16 +1993,19 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesarchiv.
 
 
 ### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005603116)
 
 
 
 ### § 46a Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005902116)
 
 Das Brief-, Post- und Fernmeldegeheimnis (Artikel 10 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 47 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005703116)
 
 Für die Rechtsverhältnisse der bisherigen Bundesbeauftragten für die
 Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen
@@ -1963,6 +2020,7 @@ anzuwenden.
 
 
 ### § 48 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/stug/BJNR022720991.html#BJNR022720991BJNE005803116)
 
 Die für Kultur und Medien zuständige oberste Bundesbehörde legt dem
 Deutschen Bundestag nach Ablauf von fünf Jahren nach Inkrafttreten des

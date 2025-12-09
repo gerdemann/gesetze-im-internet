@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstg/BJNR010530960.html#BJNR010530960BJNE000100328)
 
 (1) Geldinstitute, Versicherungsunternehmen und Bausparkassen dürfen
 für Versorgungsverpflichtungen aus § 61 des Gesetzes zur Regelung der
@@ -43,6 +44,7 @@ vorläufigen Eigenkapitals bleiben sie außer Ansatz.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstg/BJNR010530960.html#BJNR010530960BJNE000200328)
 
 Die Bundesregierung wird ermächtigt, Vorschriften über die Berechnung
 der in § 1 zugelassenen Rückstellungen durch Rechtsverordnung zu
@@ -50,6 +52,7 @@ erlassen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstg/BJNR010530960.html#BJNR010530960BJNE000300328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 und des § 14 des
 Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
@@ -70,11 +73,13 @@ Durchführungsverordnung zum Umstellungsgesetz anzuwenden
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstg/BJNR010530960.html#BJNR010530960BJNE000400328)
 
 Dieses Gesetz gilt nicht im Saarland.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstg/BJNR010530960.html#BJNR010530960BJNE000500328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

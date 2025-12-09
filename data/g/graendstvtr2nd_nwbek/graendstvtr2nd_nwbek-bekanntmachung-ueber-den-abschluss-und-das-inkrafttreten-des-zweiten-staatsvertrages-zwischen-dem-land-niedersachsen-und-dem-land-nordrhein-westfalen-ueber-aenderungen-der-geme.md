@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2nd_nwbek/BJNR186700998.html#BJNR186700998BJNE000100311)
 
 Zwischen dem Land Niedersachsen und dem Land Nordrhein-Westfalen wurde
 am 12./21. November 1997 der Zweite Staatsvertrag über Änderungen der

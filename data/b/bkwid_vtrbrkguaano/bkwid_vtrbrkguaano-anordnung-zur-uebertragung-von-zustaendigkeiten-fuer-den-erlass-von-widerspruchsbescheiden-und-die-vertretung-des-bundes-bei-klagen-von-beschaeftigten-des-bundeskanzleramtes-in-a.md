@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/BJNR055200011.html#BJNR055200011BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt die Befugnis übertragen, über Widersprüche von
@@ -33,6 +34,7 @@ selbst zu entscheiden.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/BJNR055200011.html#BJNR055200011BJNE000200000)
 
 Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt die Vertretung des Bundeskanzleramtes bei
@@ -42,11 +44,13 @@ im Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/BJNR055200011.html#BJNR055200011BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 1. April 2011 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/BJNR055200011.html#BJNR055200011BJNE000400000)
 
 Der Chef des Bundeskanzleramtes
 

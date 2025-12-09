@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv_2001/BJNR122100001.html#BJNR122100001BJNE000100305)
 
 Auf Grund der §§ 31c und 32 Abs. 1 Satz 1 Nr. 7, 9a und Satz 2 sowie
 Abs. 4 Satz 1 Nr. 1 des Luftverkehrsgesetzes in der Fassung der
@@ -30,9 +31,11 @@ und Wohnungswesen:
 
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv_2001/BJNR122100001.html#BJNR122100001BJNE000200305)
 
 
 ## Art 4 Inkrafttreten, Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv_2001/BJNR122100001.html#BJNR122100001BJNE000300305)
 
 (1) Diese Verordnung tritt ... am 1. Juli 2001 in Kraft.
 
@@ -52,6 +55,7 @@ werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv_2001/BJNR122100001.html#BJNR122100001BJNE000400305)
 
 Der Bundesrat hat zugestimmt.
 

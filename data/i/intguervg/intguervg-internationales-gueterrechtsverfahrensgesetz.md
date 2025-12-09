@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Anwendungsbereich; allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000200000)
 
 (1) Dieses Gesetz regelt die Durchführung der Verordnung (EU)
 2016/1103 des Rates vom 24. Juni 2016 zur Durchführung einer
@@ -40,6 +42,7 @@ beiden Güterrechtsverordnungen teilnehmen.
 
 
 ### § 2 Allgemeine gerichtliche Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000300000)
 
 Auf gerichtliche Verfahren sind die Vorschriften des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -49,9 +52,11 @@ nichts anderes bestimmt ist.
 
 
 ## Abschnitt 2 - Bürgerliche Streitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000200000)
 
 
 ### § 3 Örtliche Zuständigkeiten; Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000400000)
 
 (1) Ergibt sich in Fragen des ehelichen Güterstands oder in Fragen
 güterrechtlicher Wirkungen eingetragener Partnerschaften die
@@ -152,12 +157,15 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ## Abschnitt 3 - Zulassung der Zwangsvollstreckung aus ausländischen Titeln; Anerkennungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000300000)
 
 
 ### Unterabschnitt 1 - Vollstreckbarkeit ausländischer Titel
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000400000)
 
 
 #### § 4 Zuständigkeit; Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000500000)
 
 (1) Sachlich zuständig für die Vollstreckbarerklärung von Titeln aus
 einem anderen Mitgliedstaat ist ausschließlich das Amtsgericht.
@@ -183,6 +191,7 @@ durch ein Gericht gelten sinngemäß.
 
 
 #### § 5 Zulassung zur Zwangsvollstreckung; Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000600000)
 
 (1) Der in einem anderen Mitgliedstaat vollstreckbare Titel wird
 dadurch zur Zwangsvollstreckung zugelassen, dass er mit der
@@ -205,6 +214,7 @@ vorgelegt wird, sollen je zwei Abschriften beigefügt werden.
 
 
 #### § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000700000)
 
 (1) Die Entscheidung über den Antrag ergeht ohne mündliche
 Verhandlung. Jedoch kann eine mündliche Erörterung mit dem
@@ -217,6 +227,7 @@ nicht erforderlich.
 
 
 #### § 7 Vollstreckbarkeit ausländischer Titel in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000800000)
 
 Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer dem
 Gläubiger obliegenden Sicherheitsleistung, von dem Ablauf einer Frist
@@ -231,6 +242,7 @@ entscheiden, in dem der Titel errichtet ist.
 
 
 #### § 8 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE000900000)
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
@@ -248,6 +260,7 @@ Antragsteller aufzuerlegen.
 
 
 #### § 9 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001000000)
 
 (1) Auf Grund des Beschlusses nach § 8 Absatz 1 erteilt der
 Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
@@ -289,6 +302,7 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 
 #### § 10 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001100000)
 
 (1) Lässt das Gericht die Zwangsvollstreckung aus dem Titel zu, sind
 dem Antragsgegner eine beglaubigte Abschrift des Beschlusses, des mit
@@ -305,9 +319,11 @@ zuzustellen.
 
 
 ### Unterabschnitt 2 - Beschwerde; Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000500000)
 
 
 #### § 11 Beschwerdegericht; Einlegung der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001200000)
 
 (1) Beschwerdegericht ist das Oberlandesgericht.
 
@@ -326,6 +342,7 @@ zuzustellen.
 
 
 #### § 12 Beschwerdeverfahren und Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001300000)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss, der zu
 begründen ist und ohne mündliche Verhandlung ergehen kann. Der
@@ -350,6 +367,7 @@ Inhalt der Anordnung.
 
 
 #### § 13 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001400000)
 
 (1) Gegen den Beschluss des Beschwerdegerichts findet die
 Rechtsbeschwerde statt, wenn sie das Beschwerdegericht in dem
@@ -363,6 +381,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 
 
 #### § 14 Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001500000)
 
 Soweit die Zwangsvollstreckung aus dem Titel durch das
 Rechtsbeschwerdegericht zugelassen wird, erteilt der Urkundsbeamte der
@@ -372,9 +391,11 @@ Zusatz über die Beschränkung der Zwangsvollstreckung entfällt.
 
 
 ### Unterabschnitt 3 - Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000600000)
 
 
 #### § 15 Einwände gegen die Beschränkung auf Maßregeln zur Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001600000)
 
 Einwendungen des Schuldners, dass bei der Zwangsvollstreckung die
 Beschränkung auf Maßregeln zur Sicherung nach der Verordnung (EU)
@@ -388,6 +409,7 @@ machen.
 
 
 #### § 16 Sicherheitsleistung durch den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001700000)
 
 (1) Solange die Zwangsvollstreckung aus einem Titel, der auf Leistung
 von Geld lautet, nicht über Maßregeln zur Sicherung hinausgehen darf,
@@ -402,6 +424,7 @@ erforderliche Sicherheitsleistung nachweist.
 
 
 #### § 17 Versteigerung beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001800000)
 
 Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
 nicht über Maßregeln zur Sicherung hinausgehen, so kann das
@@ -412,6 +435,7 @@ oder wenn ihre Aufbewahrung unverhältnismäßige Kosten verursacht.
 
 
 #### § 18 Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE001900000)
 
 (1) Weist das Beschwerdegericht die Beschwerde des Schuldners gegen
 die Zulassung der Zwangsvollstreckung zurück oder lässt es auf die
@@ -436,6 +460,7 @@ Beschwerdegerichts abändern oder aufheben.
 
 
 #### § 19 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002000000)
 
 (1) Die Zwangsvollstreckung aus dem für vollstreckbar erklärten Titel
 ist auf Antrag des Gläubigers über Maßregeln zur Sicherung hinaus
@@ -465,6 +490,7 @@ Zwangsvollstreckung unbeschränkt stattfinden darf.
 
 
 #### § 20 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002100000)
 
 (1) Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte
 der Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel
@@ -493,9 +519,11 @@ wird, dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 
 
 ### Unterabschnitt 4 - Feststellung der Anerkennung einer ausländischen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000700000)
 
 
 #### § 21 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002200000)
 
 (1) Auf das Verfahren, das die Feststellung zum Gegenstand hat, ob
 eine Entscheidung aus einem anderen Mitgliedstaat anzuerkennen ist,
@@ -507,6 +535,7 @@ Gericht, die Entscheidung anzuerkennen.
 
 
 #### § 22 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002300000)
 
 Im Fall der Anerkennung einer Entscheidung sind die Kosten dem
 Antragsgegner aufzuerlegen. Dieser kann die Beschwerde (§ 11) auf die
@@ -517,9 +546,11 @@ gegeben hat.
 
 
 ### Unterabschnitt 5 - Vollstreckungsabwehrklage; besonderes Aufhebungs- und Änderungsverfahren; Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000800000)
 
 
 #### § 23 Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002400000)
 
 (1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
 der Schuldner Einwendungen gegen den Anspruch selbst in einem
@@ -533,6 +564,7 @@ Erteilung der Vollstreckungsklausel entschieden hat.
 
 
 #### § 24 Verfahren nach Aufhebung oder Änderung eines für vollstreckbar erklärten ausländischen Titels
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002500000)
 
 (1) Wird der Titel in dem Mitgliedstaat, in dem er errichtet worden
 ist, aufgehoben oder geändert und kann der Schuldner diese Tatsache in
@@ -564,6 +596,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 25 Verfahren nach Aufhebung oder Änderung einer anerkannten ausländischen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002600000)
 
 Wird die Entscheidung in dem Mitgliedstaat, in dem sie ergangen ist,
 aufgehoben oder abgeändert und kann der davon begünstigte Beteiligte
@@ -573,6 +606,7 @@ Feststellung der Anerkennung geltend machen, so ist § 24 Absatz 1 bis
 
 
 #### § 26 Schadensersatzpflicht des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002700000)
 
 (1) Wird die Zulassung zur Zwangsvollstreckung auf Grund der
 Beschwerde (§ 11) oder der Rechtsbeschwerde (§ 13) aufgehoben oder
@@ -591,9 +625,11 @@ Antrag auf Zulassung zur Zwangsvollstreckung entschieden hat.
 
 
 ### Unterabschnitt 6 - Entscheidungen deutscher Gerichte zu inländischen Titeln; Mahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG000900000)
 
 
 #### § 27 Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002800000)
 
 (1) Für die Ausstellung der Bescheinigungen nach Artikel 45 Absatz 3
 Buchstabe b, Artikel 59 Absatz 2 und Artikel 60 Absatz 2 der
@@ -616,6 +652,7 @@ Zivilprozessordnung nicht aus.
 
 
 #### § 28 Ergänzung und Berichtigung inländischer Entscheidungen zur Geltendmachung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE002900000)
 
 (1) Will ein Beteiligter eine Versäumnis- oder
 Anerkenntnisentscheidung, die in verkürzter Form abgefasst worden ist,
@@ -643,6 +680,7 @@ einem anderen Mitgliedstaat geltend gemacht werden sollen.
 
 
 #### § 29 Vollstreckungsklausel zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE003000000)
 
 Vollstreckungsbescheide, Arrestbefehle oder einstweilige Anordnungen,
 deren Zwangsvollstreckung in einem anderen Mitgliedstaat betrieben
@@ -660,6 +698,7 @@ erforderlich wäre.
 
 
 #### § 30 Mahnverfahren mit Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE003100000)
 
 (1) Das Mahnverfahren findet auch statt, wenn die Zustellung des
 Mahnbescheids in einem anderen Mitgliedstaat erfolgen muss. In diesem
@@ -675,9 +714,11 @@ Zivilprozessordnung) beträgt einen Monat.
 
 
 ## Abschnitt 4 - Authentizität von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNG001000000)
 
 
 ### § 31 Authentizität einer deutschen öffentlichen Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE003200000)
 
 (1) Über Einwände nach Artikel 58 Absatz 2 der Verordnung (EU)
 2016/1103 oder Artikel 58 Absatz 2 der Verordnung (EU) 2016/1104 gegen
@@ -694,6 +735,7 @@ ist ausgeschlossen. Der Beschluss wirkt für und gegen jedermann.
 
 
 ### § 32 Aussetzung des inländischen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/intg_rvg/BJNR257310018.html#BJNR257310018BJNE003300000)
 
 Wird in einem anderen Mitgliedstaat ein Verfahren über Einwände gegen
 die Authentizität einer dort errichteten öffentlichen Urkunde

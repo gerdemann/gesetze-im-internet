@@ -20,25 +20,30 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE000700305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 9 - 
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNG000100305)
 
 
 
 ## Art 10 - 
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNG000201310)
 
 (weggefallen)
 
 
 ## Art 11 und 12 - 
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNG000300305)
 
 
 
 ## Art 13 - Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNG000400305)
 
 (1)
 
@@ -50,10 +55,12 @@ erlassenden Rechtsverordnungen weiter anzuwenden.
 
 
 ## Art 14 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNG000500305)
 
 
 
 ## § 1 Überleitungszulage
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE000800305)
 
 (1) Verringerungen des Grundgehaltes auf Grund dieses Gesetzes werden
 durch eine ruhegehaltfähige Überleitungszulage ausgeglichen. Sie wird
@@ -84,6 +91,7 @@ Bundesbankzulage angerechnet.
 
 
 ## § 2 Wahrung des Besitzstandes nach den bisherigen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE000900305)
 
 Abweichend von Artikel 3 Nr. 5 gelten für Beamte, Richter und
 Soldaten, die am Tage vor dem Inkrafttreten dieses Gesetzes die
@@ -92,6 +100,7 @@ bisherigen Vorschriften erfüllt haben, diese insoweit weiter.
 
 
 ## § 3 Änderung des Ortszuschlages nach bisherigem Recht
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001000305)
 
 (1) Der Kläger des Ausgangsverfahrens der Entscheidung des
 Bundesverfassungsgerichts 2 BvL 1/86 erhält für den Zeitraum vom 1.
@@ -117,6 +126,7 @@ einem Soldatenverhältnis in den Ruhestand getreten sind.
 
 
 ## § 4 Übergangsvorschriften für Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001100305)
 
 (1) Bemißt sich die Höhe von Zulagen, Aufwandsentschädigungen und
 anderen Bezügen auf Grund von Landesrecht nach Grundgehältern der
@@ -137,6 +147,7 @@ Inkrafttretens des Gesetzes maßgebenden Sätzen.
 
 
 ## § 5 Fortgeltung bisheriger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001200305)
 
 Bemißt sich die Höhe von Zulagen, Aufwandsentschädigungen und anderen
 Bezügen nach Grundgehältern der Bundesbesoldungsordnungen, gelten für
@@ -146,6 +157,7 @@ anderes bestimmt.
 
 
 ## § 6 Geringfügigkeitsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001300305)
 
 Überleitungs- und Ausgleichszulagen nach diesem Gesetz und nach
 anderen besoldungsrechtlichen und versorgungsrechtlichen Vorschriften
@@ -154,6 +166,7 @@ nicht übersteigt.
 
 
 ## § 7 Austauschregelung
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001400305)
 
 Soweit im Jahre 1997 die in den Anlagen 1 und 2 dieses Gesetzes
 ausgewiesenen Beträge erhöht werden oder die in den Anlagen IV bis IX
@@ -163,10 +176,12 @@ durch Anlagen, die diese erhöhten Beträge enthalten, zu ersetzen.
 
 
 ## Art 15 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNG000600305)
 
 
 
 ## § 1 Neufassungen
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001500305)
 
 (1) Das Bundesministerium des Innern kann den Wortlaut des
 Bundesbesoldungsgesetzes in der am 15. März 1997 geltenden Fassung
@@ -179,6 +194,7 @@ Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## § 2 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001600305)
 
 Die auf Artikel 9 beruhenden Teile der dort geänderten
 Rechtsverordnung können auf Grund der einschlägigen Ermächtigung durch
@@ -186,6 +202,7 @@ Rechtsverordnung geändert werden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001700305)
 
 (1) Dieses Gesetz tritt am 1. Juli 1997 in Kraft.
 
@@ -197,6 +214,7 @@ Artikel 9 Nr. 6 sowie Artikel 10 in Kraft.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ref_dg/BJNR032209997.html#BJNR032209997BJNE001801310)
 
 (weggefallen)
 

@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anspruch auf Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000200308)
 
 (1) Deutsche Staatsangehörige, die ihren Wohnsitz oder gewöhnlichen
 Aufenthalt in der Bundesrepublik Deutschland haben und vor dem 3.
@@ -73,6 +75,7 @@ Geschädigten ein zivilrechtlicher Schadensersatzanspruch zusteht.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000302377)
 
 Soweit in diesem Gesetz der Begriff Grad der Schädigungsfolgen
 verwandt wird, richtet sich die Bemessung nach § 5 Absatz 1 des
@@ -80,11 +83,13 @@ Vierzehnten Buches Sozialgesetzbuch.
 
 
 ## § 3 Umfang der Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000400308)
 
 Die Unterstützung besteht aus laufenden und einmaligen Zahlungen.
 
 
 ## § 4 Laufende Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000501377)
 
 (1) Laufende Zahlungen erhalten Geschädigte bei einem Grad der
 Schädigungsfolgen von 50 und deren Einkommen aus früherer oder
@@ -157,6 +162,7 @@ mehr zustehen, sind bereits gewährte Leistungen nicht zu erstatten.
 
 
 ## § 5 Einmalige Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000601377)
 
 (1) Eine einmalige Zahlung erhalten Geschädigte, die wegen der
 Gesundheitsschädigung nur in beschränktem Umfang am gesellschaftlichen
@@ -194,6 +200,7 @@ Beträge im Verhältnis 2:1.
 
 
 ## § 6 Härteregelung
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000700308)
 
 Soweit sich aus den Vorschriften dieses Gesetzes eine besondere Härte
 ergibt, kann  mit Zustimmung der obersten Landesbehörde ein Ausgleich
@@ -202,6 +209,7 @@ bisherige Dauerleistung durch die Anwendung dieses Gesetzes wegfällt.
 
 
 ## § 7 Antragstellung, Änderung, Beendigung und Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000801377)
 
 (1) Anträge auf Gewährung einer Unterstützung nach diesem Gesetz
 können innerhalb von einem Jahr nach Verkündung dieses Gesetzes
@@ -233,6 +241,7 @@ werden.
 
 
 ## § 8 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE000901377)
 
 (1) Die sachliche und örtliche Zuständigkeit bestimmt sich nach
 Landesrecht.
@@ -243,6 +252,7 @@ seinen Wohnsitz oder gewöhnlichen Aufenthalt hatte.
 
 
 ## § 9 Verfahren, Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE001001377)
 
 (1) Das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften
 des Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden. Die
@@ -254,6 +264,7 @@ Gerichte der Sozialgerichtsbarkeit.
 
 
 ## § 10 Schlußbestimmungen, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/untabschlg/BJNR099000994.html#BJNR099000994BJNE001102377)
 
 (1) Abweichend von § 2 Absatz 2 und § 4 bemessen sich die laufenden
 Zahlungen ab dem 1. Juli 2011 wie folgt:

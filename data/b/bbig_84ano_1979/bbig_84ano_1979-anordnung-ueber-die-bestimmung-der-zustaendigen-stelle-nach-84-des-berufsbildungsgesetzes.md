@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_1979/BJNR010560979.html#BJNR010560979BJNE000100327)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 1 Nr. 1 des Gesetzes vom 12.
@@ -39,11 +40,13 @@ zur zuständigen Stelle für meinen Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_1979/BJNR010560979.html#BJNR010560979BJNE000200327)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_1979/BJNR010560979.html#BJNR010560979BJNE000300327)
 
 Der Bundesminister für Wirtschaft
 

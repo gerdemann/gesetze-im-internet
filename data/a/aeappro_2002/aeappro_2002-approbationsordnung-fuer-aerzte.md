@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000000000)
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
 Bekanntmachung vom 16. April 1987 (BGBl. I S. 1218), zuletzt geändert
@@ -29,10 +30,12 @@ Verbindung mit Artikel 1 Nr. 1 des Gesetzes vom 27. September 1993
 
 
 ## Erster Abschnitt - Die ärztliche Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000100000)
 
 
 
 ### § 1 Ziele und Gliederung der ärztlichen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000105116)
 
 (1) Ziel der ärztlichen Ausbildung ist der wissenschaftlich und
 praktisch in der Medizin ausgebildete Arzt, der zur
@@ -139,6 +142,7 @@ Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung geprüft.
 
 
 ### § 2 Unterrichtsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000204116)
 
 (1) Die Universität vermittelt eine Ausbildung, die den in § 1 Abs. 1
 genannten Zielen entspricht und die es den Studierenden ermöglicht,
@@ -284,6 +288,7 @@ evaluieren. Die Ergebnisse sind bekannt zu geben.
 
 
 ### § 3 Praktisches Jahr
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000307116)
 
 (1) Das Praktische Jahr nach § 1 Absatz 2 Satz 1 Nummer 1 findet nach
 Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung statt. Es
@@ -407,6 +412,7 @@ evaluieren. Die Ergebnisse sind bekannt zu geben.
 
 
 ### § 4 Durchführung des Praktischen Jahres in außeruniversitären Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000402116)
 
 (1) Sofern das Praktische Jahr nach § 3 Abs. 1 in Verbindung mit § 3
 Abs. 2 Satz 1 in Krankenhäusern, die nicht Krankenhäuser der
@@ -450,6 +456,7 @@ mit der nach Landesrecht zuständigen Stelle fest.
 
 
 ### § 5 Ausbildung in erster Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000502310)
 
 (1) Die Ausbildung in erster Hilfe (§ 1 Abs. 2 Satz 1 Nr. 2) soll
 durch theoretischen Unterricht und praktische Unterweisungen
@@ -491,6 +498,7 @@ Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen.
 
 
 ### § 6 Krankenpflegedienst
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000604116)
 
 (1) Der dreimonatige Krankenpflegedienst (§ 1 Abs. 2 Satz 1 Nr. 3) ist
 vor Beginn des Studiums oder während der unterrichtsfreien Zeiten des
@@ -544,6 +552,7 @@ Anlage 5 zu dieser Verordnung.
 
 
 ### § 7 Famulatur
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000707116)
 
 (1) Die Famulatur hat den Zweck, dass die Studierenden die ärztliche
 Tätigkeit in verschiedenen ärztlichen Berufs- und Tätigkeitsfeldern
@@ -597,16 +606,19 @@ nachzuweisen.
 
 
 ## Zweiter Abschnitt - Allgemeine Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000200000)
 
 
 
 ### § 8 Einrichtung der für das Prüfungswesen zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000801310)
 
 Die in § 1 Abs. 2 Satz 1 Nr. 5 vorgesehenen Prüfungen werden vor der
 nach Landesrecht zuständigen Stelle abgelegt.
 
 
 ### § 9 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE000901310)
 
 Die nach § 1 Abs. 2 Satz 1 Nr. 5 vorgesehenen Prüfungen werden vor der
 zuständigen Stelle des Landes abgelegt, in dem der Prüfling im
@@ -625,6 +637,7 @@ die Zulassung beantragt wird, im Benehmen mit der nach Satz 1, 2 oder
 
 
 ### § 10 Meldung und Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001006116)
 
 (1) Über die Zulassung zu einem Prüfungsabschnitt nach § 1 Abs. 2 Satz
 1 Nr. 5 entscheidet die nach Landesrecht zuständige Stelle.
@@ -746,6 +759,7 @@ Arzt verlangen.
 
 
 ### § 11 Versagung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001101360)
 
 Die Zulassung ist zu versagen, wenn
 
@@ -776,6 +790,7 @@ Die Zulassung ist zu versagen, wenn
 
 
 ### § 11a Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE007000116)
 
 (1) Einem Prüfling mit einer Behinderung oder einer Beeinträchtigung
 wird bei der Durchführung eines Abschnitts der Ärztlichen Prüfung oder
@@ -805,6 +820,7 @@ verändert werden.
 
 
 ### § 12 Anrechnung von Studienzeiten und Studienleistungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001201310)
 
 (1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser
 Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben
@@ -840,6 +856,7 @@ des Landes Nordrhein-Westfalen zuständig.
 
 
 ### § 13 Art und Bewertung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001301360)
 
 (1) Geprüft wird
 
@@ -904,6 +921,7 @@ zu vermerken.
 
 
 ### § 14 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001402360)
 
 (1) In der schriftlichen Prüfung hat der Prüfling unter Aufsicht
 schriftlich gestellte Aufgaben zu lösen. Er hat dabei anzugeben,
@@ -1026,6 +1044,7 @@ bestanden haben.
 
 
 ### § 15 Mündlich-praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001504130)
 
 (1) Der mündlich-praktische Teil des Ersten Abschnitts der Ärztlichen
 Prüfung und der Dritte Abschnitt der Ärztlichen Prüfung werden jeweils
@@ -1116,6 +1135,7 @@ dieser Verordnung entsprechen.
 
 
 ### § 16 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001601360)
 
 (1) Der schriftliche Teil des Ersten Abschnitts der Ärztlichen Prüfung
 wird im März und August, der Zweite Abschnitt der Ärztlichen Prüfung
@@ -1134,6 +1154,7 @@ Absatz 1 Satz 2 genannten Prüfungszeiten vorgesehen werden.
 
 
 ### § 17 Ladung zu den Prüfungsterminen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001700000)
 
 Die Ladung zur schriftlichen Prüfung wird dem Prüfling spätestens
 sieben, die Ladung zur mündlich-praktischen Prüfung spätestens fünf
@@ -1141,6 +1162,7 @@ Kalendertage vor dem Prüfungstermin zugestellt.
 
 
 ### § 18 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001800000)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von einem
 Prüfungsabschnitt oder einem Prüfungsteil zurück, so hat er die Gründe
@@ -1159,6 +1181,7 @@ Prüfungsteil als nicht bestanden.
 
 
 ### § 19 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE001900000)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er die
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -1173,6 +1196,7 @@ entsprechend.
 
 
 ### § 20 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002001360)
 
 (1) Die einzelnen Teile des Ersten Abschnitts der Ärztlichen Prüfung,
 der Zweite und der Dritte Abschnitt der Ärztlichen Prüfung können
@@ -1196,6 +1220,7 @@ vor dem 3. Oktober 1990 aufgenommen wurde.
 
 
 ### § 21 Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002101360)
 
 (1) Ist der Dritte Abschnitt der Ärztlichen Prüfung nicht bestanden,
 entscheidet die nach Landesrecht zuständige Stelle unverzüglich, ob
@@ -1214,14 +1239,17 @@ zugelassen werden kann.
 
 
 ## Dritter Abschnitt - Die Ärztliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000300000)
 
 
 
 ### Erster Unterabschnitt - Erster Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000401360)
 
 
 
 #### § 22 Inhalt des Ersten Abschnitts der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002200000)
 
 (1) Der schriftliche Teil des Ersten Abschnitts der Ärztlichen Prüfung
 betrifft folgende Stoffgebiete:
@@ -1260,6 +1288,7 @@ relevanten Ausbildungsinhalte zu konzentrieren.
 
 
 #### § 23 Schriftliche Aufsichtsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002301116)
 
 (1) Die Prüfung soll an zwei aufeinanderfolgenden Tagen stattfinden.
 Die Prüfung dauert an beiden Prüfungstagen vier Stunden. Auf den
@@ -1273,6 +1302,7 @@ Anlage 9 zu dieser Verordnung. Die Fragen müssen auf den in der Anlage
 
 
 #### § 24 Mündlich-praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002400000)
 
 (1) Die mündlich-praktische Prüfung dauert bei maximal vier Prüflingen
 mindestens 45, höchstens 60 Minuten je Prüfling.
@@ -1303,6 +1333,7 @@ darzulegen und zu begründen.
 
 
 #### § 25 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002500000)
 
 Die nach Landesrecht zuständige Stelle ermittelt die Note für den
 Ersten Abschnitt der Ärztlichen Prüfung wie folgt:
@@ -1336,6 +1367,7 @@ wenn die Prüfung nach § 13 Abs. 3 bestanden ist.
 
 
 #### § 26 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002600000)
 
 Über das Bestehen des Ersten Abschnitts der Ärztlichen Prüfung wird
 ein Zeugnis nach dem Muster der Anlage 11 zu dieser Verordnung
@@ -1343,10 +1375,12 @@ erteilt.
 
 
 ### Zweiter Unterabschnitt - Zweiter Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000500000)
 
 
 
 #### § 27 Zulassung zum Zweiten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002703360)
 
 (1) Zum Zweiten Abschnitt der Ärztlichen Prüfung wird unbeschadet § 3
 Abs. 5 und § 10 Abs. 4 Satz 1 Nr. 2 zugelassen, wer die
@@ -1530,6 +1564,7 @@ ausgewiesen.
 
 
 #### § 28 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE002902116)
 
 (1) Die schriftliche Prüfung erstreckt sich auf die Kenntnisse und
 Fähigkeiten der Studierenden, derer ein Arzt zur eigenverantwortlichen
@@ -1561,6 +1596,7 @@ dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
 
 #### § 29 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006300360)
 
 Über das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung wird
 ein Zeugnis nach dem Muster der Anlage 11a zu dieser Verordnung
@@ -1568,10 +1604,12 @@ erteilt.
 
 
 ### Dritter Unterabschnitt - Dritter Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG001100360)
 
 
 
 #### § 30 Mündlich-praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003002116)
 
 (1) Die mündlich-praktische Prüfung findet an zwei Tagen statt. Sie
 dauert an beiden Tagen bei maximal vier Prüflingen jeweils mindestens
@@ -1663,11 +1701,13 @@ Bewertung einzubeziehen.
 
 
 #### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003101360)
 
 -
 
 
 #### § 32 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003201360)
 
 Über das Bestehen des Dritten Abschnitts der Ärztlichen Prüfung wird
 ein Zeugnis nach dem Muster der Anlage 12 zu dieser Verordnung
@@ -1675,6 +1715,7 @@ erteilt.
 
 
 #### § 33 Gesamtnote und Zeugnis für die Ärztliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003301360)
 
 (1) Die nach Landesrecht zuständige Stelle ermittelt die Gesamtnote
 für die bestandene Ärztliche Prüfung wie folgt:
@@ -1710,10 +1751,12 @@ Muster der Anlage 12 zu dieser Verordnung erteilt.
 
 
 ## Vierter Abschnitt - Die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000601116)
 
 
 
 ### § 34 Erlaubnis nach § 10 Absatz 1 der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003402116)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
 Ausübung des ärztlichen Berufs nach § 10 Absatz 1 der
@@ -1877,6 +1920,7 @@ Verordnung ausgestellt.
 
 
 ### § 35 Erlaubnis nach § 10 Absatz 1a der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003502116)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
 Ausübung des ärztlichen Berufs nach § 10 Absatz 1a der
@@ -1946,6 +1990,7 @@ entsprechend.
 
 
 ### § 35a Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006500116)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
 Ausübung des ärztlichen Berufs nach § 10 Absatz 5 der
@@ -2012,10 +2057,12 @@ Verordnung ausgestellt.
 
 
 ## Fünfter Abschnitt - Die Approbation
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000701116)
 
 
 
 ### § 36 Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003605130)
 
 (1) Die Eignungsprüfung nach § 3 Absatz 2 Satz 7 der
 Bundesärzteordnung bezieht sich auf die Fächer einschließlich der
@@ -2095,6 +2142,7 @@ Landes zu.
 
 
 ### § 37 Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003704116)
 
 (1) Die Prüfung bezieht sich auf die Fächer Innere Medizin und
 Chirurgie. Die Fragestellungen sollen ergänzend folgende Aspekte
@@ -2182,6 +2230,7 @@ Bundesärzteordnung zuständigen Behörde des Landes zu.
 
 
 ### § 38 Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003803116)
 
 Der Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der
 Bundesärzteordnung enthält folgende Angaben:
@@ -2215,6 +2264,7 @@ Bundesärzteordnung enthält folgende Angaben:
 
 
 ### § 39 Antrag auf Approbation
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE003909116)
 
 (1) Der Antrag auf die Approbation als Arzt ist an die zuständige
 Stelle des Landes zu richten, in dem der Antragsteller den Dritten
@@ -2273,6 +2323,7 @@ Unterlagen und teilt ihm mit, welche Unterlagen fehlen.
 
 
 ### § 40 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004000000)
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 14 zu dieser
 Verordnung ausgestellt. Sie ist dem Antragsteller gegen
@@ -2281,10 +2332,12 @@ zuzustellen.
 
 
 ## Sechster Abschnitt - Modellstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000800000)
 
 
 
 ### § 41 Modellstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004102360)
 
 (1) Die nach Landesrecht zuständige Stelle kann einen
 Modellstudiengang zulassen, der von den Vorschriften dieser Verordnung
@@ -2374,10 +2427,12 @@ getrennt aufgeführt werden.
 
 
 ## Siebenter Abschnitt - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG000900000)
 
 
 
 ### § 42 Anwendung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004200000)
 
 Die Approbationsordnung für Ärzte in der Fassung der Bekanntmachung
 vom 14. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel 8
@@ -2388,6 +2443,7 @@ Medizin bereits aufgenommen haben.
 
 
 ### § 43 Abweichende Regelungen für die Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004303116)
 
 (1) Studierende nach § 42, die am 1. Oktober 2003 die Ärztliche
 Vorprüfung noch nicht bestanden haben, legen diese bis zum 30. April
@@ -2541,10 +2597,12 @@ betreffenden Prüfungsdurchgangs unterschreitet.
 
 
 ## Achter Abschnitt - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNG001000000)
 
 
 
 ### § 44 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004400000)
 
 (1) Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 
@@ -2556,12 +2614,14 @@ Gesetzes vom 27. April 2002 (BGBl. I S. 1467), außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9)
 
 ### Anlage 1 Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004600000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2420
 
@@ -2631,6 +2691,7 @@ mit einer Gesamtstundenzahl von insgesamt mindestens 630 Stunden.
 (zu § 2 Abs. 7 Satz 1)
 
 ### Anlage 2 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004701310)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2421;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2683,6 +2744,7 @@ Ort, Datum
 (zu § 2 Absatz 7 Satz 1)
 
 ### Anlage 2a Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006100360)
 
 (Fundstelle: BGBl. I 2012, 1546)
 
@@ -2870,6 +2932,7 @@ Veranstaltungen regelmäßig besucht:
 (zu § 2 Absatz 7 Satz 1)
 
 ### Anlage 2b Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006200360)
 
 (Fundstelle: BGBl. I 2012, 1547 – 1548)
 
@@ -3338,6 +3401,7 @@ Ergebnissen erbracht:
 
 
 ### Anlage 3 (zu § 2 Abs. 8 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004800000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2422
 
@@ -3578,6 +3642,7 @@ angeboten werden, insbesondere in Betracht:
 (zu § 3 Absatz 5 sowie § 10 Absatz 4 und 5)
 
 ### Anlage 4 Bescheinigung über das Praktische Jahr
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE004903360)
 
 (Fundstelle: BGBl. I 2012, 1549; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -3681,6 +3746,7 @@ Fehlzeiten:
 (zu § 6 Abs. 4 Satz 2)
 
 ### Anlage 5 Zeugnis über den Krankenpflegedienst
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005000000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2424)
 ----------------------------------------------------------------------
@@ -3720,6 +3786,7 @@ Name des Krankenhauses
 (zu § 7 Abs. 4 Satz 2)
 
 ### Anlage 6 Zeugnis über die Tätigkeit als Famulus
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005101360)
 
 (Fundstelle: BGBl. I 2002, 2425; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3753,6 +3820,7 @@ Siegel)
 (zu § 15 Abs. 8, § 41 Abs. 2 Nr. 9)
 
 ### Anlage 7 Niederschrift über den mündlich-praktischen Teil des Ersten Abschnitts der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005201310)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2426;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3809,6 +3877,7 @@ der Prüfungskommission)
 (zu § 15 Abs. 8)
 
 ### Anlage 8 Niederschrift über den Dritten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005302360)
 
 (Fundstelle: BGBl. I 2002, 2427;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3869,6 +3938,7 @@ Mitglieder der Prüfungskommission)     Prüfungskommission)
 (zu § 23 Abs. 2 Satz 1, § 41 Abs. 2 Nr. 9)
 
 ### Anlage 9 Anzahl und Verteilung der Prüfungsfragen im Ersten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005400000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2428
 
@@ -3914,6 +3984,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 2428
 (zu § 23 Abs. 2 Satz 2, § 41 Abs. 2 Nr. 9)
 
 ### Anlage 10 Prüfungsstoff für den Ersten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005500000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2429
 
@@ -4001,6 +4072,7 @@ IV. Grundlagen der Medizinischen Psychologie und der Medizinischen
 
 
 ### Anlage 11 (zu § 2 Abs. 8, § 26, § 41 Abs. 2 Nr. 9)
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005600000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2430)
 ....................................
@@ -4037,6 +4109,7 @@ Siegel oder Stempel
 
 
 ### Anlage 11a (zu § 2 Absatz 8 Satz 4, § 27 Absatz 5 Satz 3 und § 29)
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006400360)
 
 (Fundstelle: BGBl. I 2012, 1550 - 1552)
 
@@ -4357,6 +4430,7 @@ Abschnitt der Ärztlichen Prüfung folgende Noten erreicht:
 
 
 ### Anlage 12 (zu § 13 Absatz 4, §§ 32, 33 Absatz 2, § 41 Absatz 3 und § 43 Absatz 2 Satz 7)
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005701360)
 
 (Fundstelle: BGBl. I 2012, 1553)
 
@@ -4412,12 +4486,14 @@ Siegel oder Stempel
 [^F777369_03_BJNR240500002BJNE005701360]: 
 
 ### Anlage 13
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005801310)
 
 (weggefallen)
 
 (zu § 40 Satz 1)
 
 ### Anlage 14 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE005900000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2434)
 Herr/Frau
@@ -4439,6 +4515,7 @@ Siegel
 (zu § 28 Absatz 3 Satz 2)
 
 ### Anlage 15 Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006002116)
 
 (Fundstelle: BGBl. I 2002, 2435; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -4548,6 +4625,7 @@ berücksichtigen:
 (zu § 34 Absatz 8)
 
 ### Anlage 16 Erlaubnis nach § 10 Absatz 1 oder Absatz 1a der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006600116)
 
 
 *    *   Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4625,6 +4703,7 @@ berücksichtigen:
 (zu § 35a Absatz 3)
 
 ### Anlage 17 Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006700116)
 
 
 *    *   Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4679,6 +4758,7 @@ berücksichtigen:
 (zu § 36 Absatz 7)
 
 ### Anlage 18 Niederschrift über die staatliche Eignungsprüfung nach § 36 der Approbationsordnung für Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006800116)
 
 
 *    *   Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -4809,6 +4889,7 @@ berücksichtigen:
 (zu § 37 Absatz 7)
 
 ### Anlage 19 Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/_appro_2002/BJNR240500002.html#BJNR240500002BJNE006900116)
 
 
 *    *   Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

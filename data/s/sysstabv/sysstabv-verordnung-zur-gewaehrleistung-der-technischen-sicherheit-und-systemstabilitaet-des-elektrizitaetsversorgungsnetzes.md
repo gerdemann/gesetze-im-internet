@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Die V ist gem. Art. 3 V v. 20.7.2012 I 1635 am 26.7.2012 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNG000100000)
 
 
 ### § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000102118)
 
 Zweck dieser Verordnung ist es, eine Gefährdung der Systemstabilität
 des Elektrizitätsversorgungsnetzes durch Anlagen zur Erzeugung von
@@ -33,6 +35,7 @@ Kopplung bei Über- und Unterfrequenzen zu vermeiden.
 
 
 ### § 2 Sachlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000202118)
 
 (1) Diese Verordnung gilt für die Nachrüstung von Anlagen zur
 Erzeugung von Strom aus solarer Strahlungsenergie
@@ -116,6 +119,7 @@ Satz 1 ist anzuwenden für die Nachrüstung von Anlagen
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000302118)
 
 Im Sinne dieser Verordnung ist
 
@@ -172,9 +176,11 @@ Im Sinne dieser Verordnung ist
 
 
 ## Abschnitt 2 - Nachrüstung von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNG000200118)
 
 
 ### § 4 Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Niederspannungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000401118)
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen müssen
 vorbehaltlich der Absätze 2 bis 5 durch entsprechende Nachrüstung
@@ -254,6 +260,7 @@ angeschlossen wurden.
 [^F777569_03_BJNR163510012BJNE000401118]: 
 
 ### § 5 Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000501118)
 
 [^F777569_04_BJNR163510012BJNE000501118]
 (1) Die Betreiber von Elektrizitätsverteilernetzen müssen
@@ -308,6 +315,7 @@ Pflicht zur Nachrüstung.
 [^F777569_04_BJNR163510012BJNE000501118]: 
 
 ### § 6 Informationspflicht der Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000600000)
 
 Die Betreiber von Übertragungsnetzen sind verpflichtet, den in ihrem
 Netzgebiet angeschlossenen Betreibern von Elektrizitätsverteilernetzen
@@ -322,6 +330,7 @@ und § 5 Absatz 2 einzustellen ist.
 
 
 ### § 7 Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000701118)
 
 Für den Fall, dass zwischen der nach § 2 Absatz 1 betroffenen Anlage
 und dem Netzanschluss eine zusätzliche übergeordnete
@@ -332,6 +341,7 @@ die Überfrequenzabschaltung ein Wert von 51,5 Hertz einzustellen ist.
 
 
 ### § 8 Durchführung der Nachrüstung; Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000801118)
 
 [^F777569_05_BJNR163510012BJNE000801118]
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet,
@@ -397,6 +407,7 @@ schriftlich anzukündigen.
 [^F777569_05_BJNR163510012BJNE000801118]: 
 
 ### § 9 Pflichten der Betreiber von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE000901118)
 
 (1) Betreiber von Anlagen im Sinne von § 2 Absatz 1 sind verpflichtet,
 die für die Vorbereitung der Nachrüstung erforderlichen Informationen
@@ -415,6 +426,7 @@ Elektrizitätsverteilernetzes vorgeschlagenen Zeitpunkt liegen.
 
 
 ### § 10 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001001118)
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind berechtigt, 50
 Prozent der ihnen durch die Nachrüstung nach den §§ 4 bis 9 zusätzlich
@@ -426,9 +438,11 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 3 - Nachrüstung von Anlagen im Sinne von § 2 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNG000300118)
 
 
 ### § 11 Vorbereitung der Nachrüstung
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001100118)
 
 (1) Die Frequenzschutzeinstellungen der gemäß § 2 Absatz 2 betroffenen
 Anlagen sind von den Betreibern von Übertragungsnetzen festzulegen.
@@ -456,6 +470,7 @@ Netz Anlagen unmittelbar angeschlossen sind, zu übermitteln.
 
 
 ### § 12 Aufforderung zur Nachrüstung
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001200118)
 
 Netzbetreiber müssen innerhalb von zehn Wochen nach der Übermittlung
 der Daten durch den Betreiber des Übertragungsnetzes gemäß § 11 Absatz
@@ -491,6 +506,7 @@ stellen.
 
 
 ### § 13 Pflichten der Betreiber von Anlagen gemäß § 2 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001301118)
 
 (1) Betreiber von Anlagen gemäß § 2 Absatz 2 müssen dem Netzbetreiber,
 an dessen Netz ihre Anlage unmittelbar angeschlossen ist, die
@@ -531,6 +547,7 @@ der Vorgaben durch die Bestätigung einer Fachkraft gemäß Absatz 3 Satz
 [^F788644_01_BJNR163510012BJNE001301118]: 
 
 ### § 14 Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001400118)
 
 (1) Für den Fall, dass zwischen Anlagen gemäß § 2 Absatz 2 und dem
 Netzanschluss eine zusätzliche übergeordnete
@@ -549,6 +566,7 @@ der Entkupplungsschutzeinrichtung verlangen.
 
 
 ### § 15 Ausnahmefälle
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001500118)
 
 (1) Eine eingeschränkte Nachrüstungspflicht besteht für den Fall, dass
 der Betreiber einer Anlage gemäß § 2 Absatz 2 nachweist, dass eine
@@ -639,6 +657,7 @@ nachweist, dass
 [^F788644_06_BJNR163510012BJNE001500118]: 
 
 ### § 16 Ausnahmebegehren und Nachweis des Ausnahmefalles
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001600118)
 
 (1) Für Ausnahmefälle gemäß § 15 muss der Betreiber der Anlage
 innerhalb von neun Monaten ab Zugang der Nachrüstungsaufforderung ein
@@ -673,6 +692,7 @@ Gesetzes ist nicht anwendbar.
 
 
 ### § 17 Prüfung der Ausnahmebegehren und Mitteilung der Ergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001700118)
 
 (1) Der Betreiber des Übertragungsnetzes entscheidet innerhalb von
 neun Monaten nach Erhalt der Unterlagen gemäß § 16 Absatz 3 Satz 1, ob
@@ -708,6 +728,7 @@ Nachrüstung gemäß § 13 Absatz 2 bis 5 auf.
 
 
 ### § 18 Frist zur Nachrüstung
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001800118)
 
 (1) Betreiber von Anlagen gemäß § 2 Absatz 2 und Betreiber von
 Entkupplungsschutzeinrichtungen im Sinne von § 14 Absatz 1 sind
@@ -745,6 +766,7 @@ und Eisenbahnen (Bundesnetzagentur) gemäß § 21 Absatz 5.
 
 
 ### § 19 Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE001900118)
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, eine
 stichprobenweise Kontrolle der Nachrüstung durchzuführen oder
@@ -773,6 +795,7 @@ nicht verpflichtet.
 [^F788644_07_BJNR163510012BJNE001900118]: 
 
 ### § 20 Information der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE002001377)
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, auf
 Anforderung der Bundesnetzagentur gemeinsam einen Bericht über den
@@ -788,6 +811,7 @@ notwendigen Daten zu übermitteln.
 
 
 ### § 21 Anteilige Kostenübernahme
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE002101118)
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, den
 Betreibern von Anlagen gemäß § 2 Absatz 2 75 Prozent der durch die
@@ -860,6 +884,7 @@ Voraussetzung des Absatzes 2 Nummer 2 als nicht erfüllt.
 
 
 ### § 22 Kosten der Betreiber von Übertragungsnetzen und der Betreiber von Elektrizitätsverteilernetzen
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE002200118)
 
 (1) Die Betreiber von Übertragungsnetzen und die Betreiber von
 Elektrizitätsverteilernetzen sind berechtigt, die ihnen durch ihre
@@ -871,6 +896,7 @@ entsprechend anzuwenden.
 
 
 ### § 23 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html#BJNR163510012BJNE002300118)
 
 Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 Buchstabe c des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig

@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000100000)
 
 
 
 ### § 1 Zielsetzung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000201126)
 
 (1) Das Gesetz regelt die Mitbestimmung der Arbeitnehmer
 (Arbeitnehmerinnen und Arbeitnehmer) in den Unternehmensorganen der
@@ -53,6 +55,7 @@ sicherzustellen, gefördert wird.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000301126)
 
 (1) Der Begriff des Arbeitnehmers richtet sich nach den
 Rechtsvorschriften und Gepflogenheiten der jeweiligen Mitgliedstaaten.
@@ -121,6 +124,7 @@ Buch des Umwandlungsgesetzes.
 
 
 ### § 3 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000400000)
 
 (1) Dieses Gesetz gilt für eine aus einer grenzüberschreitenden
 Verschmelzung hervorgehende Gesellschaft mit Sitz im Inland. Es gilt
@@ -136,6 +140,7 @@ der Europäischen Union und die anderen Vertragsstaaten des Abkommens
 
 
 ### § 4 Anwendung des Rechts des Sitzstaats
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000500000)
 
 Vorbehaltlich des § 5 finden auf die aus einer grenzüberschreitenden
 Verschmelzung hervorgehende Gesellschaft die Regelungen über die
@@ -144,6 +149,7 @@ Mitgliedstaats Anwendung, in dem diese Gesellschaft ihren Sitz hat.
 
 
 ### § 5 Anwendung der Regelungen über die Mitbestimmung der Arbeitnehmer kraft Vereinbarung oder kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000601126)
 
 Die nachfolgenden Regelungen über die Mitbestimmung der Arbeitnehmer
 kraft Vereinbarung oder in den Fällen des § 23 die Regelungen über die
@@ -193,14 +199,17 @@ Mitbestimmung kraft Gesetzes finden Anwendung, wenn
 
 
 ## Teil 2 - Besonderes Verhandlungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000200000)
 
 
 
 ### Kapitel 1 - Bildung und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000300000)
 
 
 
 #### § 6 Information der Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000701126)
 
 (1) Das besondere Verhandlungsgremium ist auf Grund einer
 schriftlichen Aufforderung der Leitungen zu bilden. Es hat die
@@ -252,6 +261,7 @@ Arbeitnehmer ist der Zeitpunkt der Information nach Absatz 2.
 
 
 #### § 7 Zusammensetzung des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000800000)
 
 (1) Für die in jedem Mitgliedstaat beschäftigten Arbeitnehmer der
 beteiligten Gesellschaften, betroffenen Tochtergesellschaften und
@@ -297,6 +307,7 @@ informieren. § 6 Abs. 2 bis 4 gilt entsprechend.
 
 
 #### § 8 Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE000901126)
 
 (1) Die persönlichen Voraussetzungen der Mitglieder des besonderen
 Verhandlungsgremiums richten sich nach den jeweiligen Bestimmungen der
@@ -321,6 +332,7 @@ leitender Angestellter.
 
 
 #### § 9 Verteilung der auf das Inland entfallenden Sitze des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001000000)
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen
 Verhandlungsgremiums nach § 7 erfolgt nach den jeweiligen Bestimmungen
@@ -354,10 +366,12 @@ entsprechend.
 
 
 ### Kapitel 2 - Wahlgremium
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000400000)
 
 
 
 #### § 10 Zusammensetzung des Wahlgremiums; Urwahl
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001101126)
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen
 Mitgliedstaats auf die im Inland beschäftigten Arbeitnehmer der an der
@@ -440,6 +454,7 @@ Wahlberechtigte. Absatz 1 Satz 2 bis 6 gilt entsprechend.
 
 
 #### § 11 Einberufung des Wahlgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001200000)
 
 (1) Auf der Grundlage der von den Leitungen erhaltenen Informationen
 hat der Vorsitzende der Arbeitnehmervertretung auf Konzernebene oder,
@@ -464,6 +479,7 @@ Arbeitnehmervertretung, die die meisten Arbeitnehmer vertritt.
 
 
 #### § 12 Wahl der Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001300000)
 
 (1) Bei der Wahl müssen mindestens zwei Drittel der Mitglieder des
 Wahlgremiums, die mindestens zwei Drittel der Arbeitnehmer vertreten,
@@ -486,10 +502,12 @@ Mitglieder des Wahlgremiums.
 
 
 ### Kapitel 3 - Verhandlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000500000)
 
 
 
 #### § 13 Information über die Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001400000)
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen
 Verhandlungsgremiums soll innerhalb von zehn Wochen nach der in § 6
@@ -510,6 +528,7 @@ Verhandlungsverfahren beteiligen.
 
 
 #### § 14 Sitzungen; Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001501126)
 
 (1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder
 oder im Fall des § 13 Absatz 2 nach Ablauf der in § 13 Abs. 1 Satz 1
@@ -523,6 +542,7 @@ kann sich eine schriftliche Geschäftsordnung geben.
 
 
 #### § 15 Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001601126)
 
 (1) Das besondere Verhandlungsgremium schließt mit den Leitungen eine
 schriftliche Vereinbarung über die Mitbestimmung der Arbeitnehmer in
@@ -548,6 +568,7 @@ Gesellschaften eine Mitbestimmung der Arbeitnehmer besteht.
 
 
 #### § 16 Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001701126)
 
 (1) Das besondere Verhandlungsgremium kann bei den Verhandlungen
 Sachverständige seiner Wahl, zu denen auch Vertreter von einschlägigen
@@ -563,6 +584,7 @@ Verhandlungen zu unterrichten.
 
 
 #### § 17 Beschlussfassung im besonderen Verhandlungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001801126)
 
 (1) Die Mitglieder des besonderen Verhandlungsgremiums, die in einem
 Mitgliedstaat gewählt oder bestellt werden, vertreten alle in dem
@@ -616,6 +638,7 @@ betroffenen Tochtergesellschaften erstreckt.
 
 
 #### § 18 Nichtaufnahme oder Abbruch der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE001900000)
 
 Das besondere Verhandlungsgremium kann beschließen, keine
 Verhandlungen aufzunehmen oder bereits aufgenommene Verhandlungen
@@ -629,6 +652,7 @@ Anwendung.
 
 
 #### § 19 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002000000)
 
 In eine Niederschrift, die vom Vorsitzenden und einem weiteren
 Mitglied des besonderen Verhandlungsgremiums zu unterzeichnen ist,
@@ -650,6 +674,7 @@ Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
 
 
 #### § 19a Information über das Verhandlungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003700126)
 
 Die Leitungen informieren die Arbeitnehmervertretungen, die
 Sprecherausschüsse sowie die in inländischen Betrieben vertretenen
@@ -660,6 +685,7 @@ Arbeitnehmern.
 
 
 #### § 20 Kosten des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002100000)
 
 Die durch die Bildung und Tätigkeit des besonderen
 Verhandlungsgremiums entstehenden erforderlichen Kosten tragen die
@@ -673,6 +699,7 @@ zu tragen.
 
 
 #### § 21 Dauer der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002200000)
 
 (1) Die Verhandlungen beginnen mit der Einsetzung des besonderen
 Verhandlungsgremiums und können bis zu sechs Monate dauern. Einsetzung
@@ -686,14 +713,17 @@ fortzusetzen.
 
 
 ## Teil 3 - Mitbestimmung der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000600000)
 
 
 
 ### Kapitel 1 - Mitbestimmung kraft Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000700000)
 
 
 
 #### § 22 Inhalt der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002300000)
 
 (1) In der schriftlichen Vereinbarung zwischen den Leitungen und dem
 besonderen Verhandlungsgremium wird, unbeschadet der Autonomie der
@@ -740,10 +770,12 @@ anzupassen.
 
 
 ### Kapitel 2 - Mitbestimmung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000800000)
 
 
 
 #### § 23 Voraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002400000)
 
 (1) Die Regelungen dieses Kapitels finden ab dem Zeitpunkt der
 Eintragung der aus der grenzüberschreitenden Verschmelzung
@@ -801,6 +833,7 @@ gefasst hat.
 
 
 #### § 24 Umfang der Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002501308)
 
 (1) Die Arbeitnehmer der aus der grenzüberschreitenden Verschmelzung
 hervorgehenden Gesellschaft, ihrer Tochtergesellschaften und Betriebe
@@ -830,6 +863,7 @@ anzupassen.
 
 
 #### § 25 Sitzverteilung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002600000)
 
 (1) Das besondere Verhandlungsgremium verteilt die Zahl der Sitze im
 Aufsichts- oder Verwaltungsorgan auf die Mitgliedstaaten, in denen
@@ -874,6 +908,7 @@ den Betrieben des Unternehmens bekannt zu machen.
 
 
 #### § 26 Abberufung und Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002701126)
 
 (1) Ein Mitglied oder ein Ersatzmitglied der Arbeitnehmer aus dem
 Inland im Aufsichts- oder Verwaltungsorgan kann vor Ablauf der
@@ -916,6 +951,7 @@ erhoben werden.
 
 
 #### § 27 Rechtsstellung; Innere Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002800000)
 
 (1) Die Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan der
 aus der grenzüberschreitenden Verschmelzung hervorgehenden
@@ -935,6 +971,7 @@ Vorschlag der Anteilseigner- und der Arbeitnehmervertreter zu wählen.
 
 
 #### § 28 Tendenzunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE002901126)
 
 Auf eine aus einer grenzüberschreitenden Verschmelzung hervorgehende
 Gesellschaft, die unmittelbar und überwiegend
@@ -953,10 +990,12 @@ dient, findet Kapitel 2 keine Anwendung.
 
 
 ### Kapitel 3 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG000901126)
 
 
 
 #### § 29 Fortbestehen nationaler Arbeitnehmervertretungsstrukturen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003000000)
 
 Regelungen über die Arbeitnehmervertretungen und deren Strukturen in
 einer beteiligten Gesellschaft mit Sitz im Inland, die durch die
@@ -969,6 +1008,7 @@ weiterhin wahrnehmen können.
 
 
 #### § 30 Nachfolgende innerstaatliche Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003101126)
 
 (1) Besteht in der aus der grenzüberschreitenden Verschmelzung
 hervorgehenden Gesellschaft eine Mitbestimmung der Arbeitnehmer, so
@@ -1002,6 +1042,7 @@ entsprechende Anwendung.
 
 
 #### § 30a Nachfolgende grenzüberschreitende Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003800126)
 
 (1) Die Vorschriften dieses Gesetzes finden Anwendung, wenn eine aus
 einer grenzüberschreitenden Verschmelzung hervorgegangene Gesellschaft
@@ -1022,10 +1063,12 @@ Absatz 1 Satz 2 keine Anwendung.
 
 
 ## Teil 4 - Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG001000000)
 
 
 
 ### § 31 Geheimhaltung; Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003200000)
 
 (1) Informationspflichten der Leitungen und der Leitung der aus einer
 grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft nach
@@ -1068,6 +1111,7 @@ für die Sachverständigen und Dolmetscher.
 
 
 ### § 32 Schutz der Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003300000)
 
 Bei der Wahrnehmung ihrer Aufgaben genießen
 
@@ -1101,6 +1145,7 @@ beschäftigt sind. Dies gilt insbesondere für
 
 
 ### § 33 Errichtungs- und Tätigkeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003400000)
 
 Niemand darf
 
@@ -1125,10 +1170,12 @@ Niemand darf
 
 
 ## Teil 5 - Straf- und Bußgeldvorschriften, Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNG001101126)
 
 
 
 ### § 34 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003500000)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 31 Abs. 2, auch in Verbindung mit Abs. 4, ein
@@ -1163,6 +1210,7 @@ Gewerkschaft sowie die Leitungen antragsberechtigt.
 
 
 ### § 35 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003600000)
 
 (1) Ordnungswidrig handelt, wer entgegen § 6 Abs. 2 oder § 7 Abs. 4
 Satz 2 eine Information nicht, nicht richtig, nicht vollständig oder
@@ -1173,6 +1221,7 @@ zwanzigtausend Euro geahndet werden.
 
 
 ### § 36 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mgvg/BJNR333210006.html#BJNR333210006BJNE003900126)
 
 Auf grenzüberschreitende Verschmelzungen, für die ein
 Verschmelzungsvertrag vor dem 31. Januar 2023 geschlossen wurde, ist

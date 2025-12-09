@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgdbpano/BJNR003660957.html#BJNR003660957BJNE000100303)
 
 Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister
 für das Post- und Fernmeldewesen für den Bereich der Deutschen

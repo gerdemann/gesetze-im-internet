@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000100000)
 
 Auf Grund des § 27 Abs. 5 des Patentgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der zuletzt
@@ -44,6 +45,7 @@ geändert worden ist, verordnet der Präsident des Deutschen Patentamts:
 
 
 ## § 1 Prüfungsstellen für Patente und Patentabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000204360)
 
 (1) Mit der Wahrnehmung folgender Geschäfte der Prüfungsstellen und
 Patentabteilungen werden auch Beamte des gehobenen Dienstes und
@@ -250,6 +252,7 @@ ergänzenden Schutzzertifikaten entsprechend anzuwenden.
 
 
 ## § 2 Gebrauchsmusterstelle und Gebrauchsmusterabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000303360)
 
 (1) Mit der Wahrnehmung folgender Geschäfte der Gebrauchsmusterstelle
 und der Gebrauchsmusterabteilungen werden auch Beamte des gehobenen
@@ -404,6 +407,7 @@ Dienstes und vergleichbare Tarifbeschäftigte betraut:
 
 
 ## § 3 Topographiestelle und Topographieabteilung
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000401377)
 
 Auf die Wahrnehmung der Geschäfte der Topographiestelle und der
 Topographieabteilung durch Beamte des gehobenen und mittleren Dienstes
@@ -411,6 +415,7 @@ sowie vergleichbare Tarifbeschäftigte ist § 2 entsprechend anzuwenden.
 
 
 ## § 4 Designstellen und Designabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000505360)
 
 (1) Mit der Wahrnehmung derjenigen Geschäfte der Designstellen und
 Designabteilungen, die ihrer Art nach keine besonderen rechtlichen
@@ -445,6 +450,7 @@ Designstellen und Designabteilungen betraut:
 
 
 ## § 5 Markenstellen und Markenabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000606360)
 
 (1) Mit der Wahrnehmung folgender Aufgaben der Markenstellen und der
 Markenabteilungen werden auch Beamte des gehobenen Dienstes und
@@ -592,10 +598,12 @@ vergleichbare Tarifbeschäftigte betraut:
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000702140)
 
 
 
 ## § 7 Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000804140)
 
 (1) Zusätzlich zu den in den §§ 1 bis 4 aufgeführten Geschäften werden
 auch Beamte des gehobenen Dienstes und vergleichbare Tarifbeschäftigte
@@ -657,6 +665,7 @@ der Wahrnehmung folgender Geschäfte betraut:
 
 
 ## § 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE000901360)
 
 Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
@@ -669,6 +678,7 @@ Fassung weiter anzuwenden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wahrnv_1994/BJNR381200994.html#BJNR381200994BJNE001000000)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 

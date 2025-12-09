@@ -21,15 +21,18 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000100000)
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## Abschnitt 1 - Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000100000)
 
 
 ### § 1 Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000201377)
 
 Ziele des Gesetzes sind die Schaffung und Durchsetzung angemessener
 Mindestarbeitsbedingungen für grenzüberschreitend entsandte und für
@@ -42,9 +45,11 @@ und Befriedungsfunktion der Tarifautonomie gewahrt werden.
 
 
 ## Abschnitt 2 - Allgemeine Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000200000)
 
 
 ### § 2 Allgemeine Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000302126)
 
 (1) Die in Rechts- oder Verwaltungsvorschriften enthaltenen Regelungen
 über folgende Arbeitsbedingungen sind auch auf Arbeitsverhältnisse
@@ -111,6 +116,7 @@ der Arbeitnehmer oder die Arbeitnehmerin
 
 
 ### § 2a Gegenstand der Entlohnung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003100126)
 
 Entlohnung im Sinne von § 2 Absatz 1 Nummer 1 sind alle Bestandteile
 der Vergütung, die der Arbeitnehmer oder die Arbeitnehmerin vom
@@ -125,6 +131,7 @@ Ausnahmen und deren Voraussetzungen.
 
 
 ### § 2b Anrechenbarkeit von Entsendezulagen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003200126)
 
 (1) Erhält der Arbeitnehmer oder die Arbeitnehmerin vom Arbeitgeber
 mit Sitz im Ausland eine Zulage für die Zeit der Arbeitsleistung im
@@ -144,9 +151,11 @@ gezahlt wird.
 
 
 ## Abschnitt 3 - Tarifvertragliche Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000300000)
 
 
 ### § 3 Tarifvertragliche Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000403126)
 
 Die Rechtsnormen eines bundesweiten Tarifvertrages finden unter den
 Voraussetzungen der §§ 4 bis 6 auch auf Arbeitsverhältnisse zwischen
@@ -169,6 +178,7 @@ abdecken.
 
 
 ### § 4 Branchen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000503126)
 
 (1) § 3 Satz 1 Nummer 2 gilt für Tarifverträge
 
@@ -215,6 +225,7 @@ entgegen zu wirken.
 
 
 ### § 5 Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000603126)
 
 Gegenstand eines Tarifvertrages nach § 3 können sein
 
@@ -263,6 +274,7 @@ hierzu vereinbarter Ausnahmen und deren Voraussetzungen.
 
 
 ### § 6 Besondere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000707126)
 
 (1) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 1 findet
 dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
@@ -338,6 +350,7 @@ Begriffsbestimmung maßgeblich.
 
 
 ### § 7 Rechtsverordnung für die Fälle des § 4 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000802126)
 
 (1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne
 von § 4 Absatz 1 sowie §§ 5 und 6 kann das Bundesministerium für
@@ -399,6 +412,7 @@ erlassen werden. Die Sätze 1 bis 3 gelten nicht für Tarifverträge nach
 
 
 ### § 7a Rechtsverordnung für die Fälle des § 4 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002803126)
 
 (1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne
 von § 4 Absatz 2 und § 5 kann das Bundesministerium für Arbeit und
@@ -474,6 +488,7 @@ der Bundesregierung erlassen werden.
 
 
 ### § 8 Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE000902126)
 
 (1) Arbeitgeber mit Sitz im In- oder Ausland, die unter den
 Geltungsbereich eines für allgemeinverbindlich erklärten
@@ -511,6 +526,7 @@ Rechtsverordnung fällt.
 
 
 ### § 9 Verzicht, Verwirkung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001002126)
 
 Ein Verzicht auf den aufgrund einer Rechtsverordnung nach § 7 oder §
 7a entstandenen Anspruch der Arbeitnehmer und Arbeitnehmerinnen auf
@@ -524,9 +540,11 @@ die Frist muss mindestens sechs Monate betragen.
 
 
 ## Abschnitt 4 - Arbeitsbedingungen in der Pflegebranche
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000400000)
 
 
 ### § 10 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001101126)
 
 Dieser Abschnitt findet Anwendung auf die Pflegebranche. Diese umfasst
 Betriebe und selbstständige Betriebsabteilungen, die überwiegend
@@ -546,6 +564,7 @@ Vordergrund des Zweckes der Einrichtung stehen, sowie Krankenhäuser.
 
 
 ### § 11 Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001201126)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die
@@ -573,6 +592,7 @@ des Entwurfs der Rechtsverordnung.
 
 
 ### § 12 Berufung der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001302126)
 
 (1) Das Bundesministerium für Arbeit und Soziales beruft eine ständige
 Kommission, die über Empfehlungen zur Festlegung von
@@ -709,6 +729,7 @@ Wirkung.
 
 
 ### § 12a Empfehlung von Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003001126)
 
 (1) Auf Antrag einer vorschlagsberechtigten Stelle im Sinne des § 12
 Absatz 4 Satz 2 nimmt die Kommission Beratungen auf. Hat das
@@ -779,6 +800,7 @@ Video- oder Telefonkonferenz erfolgen, wenn
 
 
 ### § 13 Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001401126)
 
 Die Regelungen einer Rechtsverordnung nach § 7a gehen den Regelungen
 einer Rechtsverordnung nach § 11 vor, soweit sich die Geltungsbereiche
@@ -788,9 +810,11 @@ der Abschnitte 5 und 6 einer Rechtsverordnung nach § 7 gleich.
 
 
 ## Abschnitt 4a - Arbeitsbedingungen im Gewerbe des grenzüberschreitenden Straßentransports von Euro-Bargeld
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000800308)
 
 
 ### § 13a Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002700308)
 
 Die Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des
 Rates vom 16. November 2011 über den gewerbsmäßig
@@ -801,9 +825,11 @@ Rechtsverordnung nach § 7 gleich.
 
 
 ## Abschnitt 4b - Zusätzliche Arbeitsbedingungen für länger als zwölf Monate im Inland Beschäftigte von Arbeitgebern mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000900126)
 
 
 ### § 13b Zusätzliche Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003300126)
 
 (1) Wird ein Arbeitnehmer oder eine Arbeitnehmerin von einem im
 Ausland ansässigen Arbeitgeber mehr als zwölf Monate im Inland
@@ -875,6 +901,7 @@ bestimmen.
 
 
 ### § 13c Berechnung der Beschäftigungsdauer im Inland
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003401126)
 
 (1) Wird der Arbeitnehmer oder die Arbeitnehmerin im Rahmen von
 Dienst- oder Werkverträgen im Inland beschäftigt, werden zur
@@ -979,9 +1006,11 @@ Beschäftigungsdauer im Inland die Zeiten dieser Beschäftigung
 
 
 ## Abschnitt 5 - Zivilrechtliche Durchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000500000)
 
 
 ### § 14 Haftung des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001500000)
 
 Ein Unternehmer, der einen anderen Unternehmer mit der Erbringung von
 Werk- oder Dienstleistungen beauftragt, haftet für die Verpflichtungen
@@ -998,6 +1027,7 @@ Arbeitnehmerinnen auszuzahlen ist (Nettoentgelt).
 
 
 ### § 15 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001601126)
 
 Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im
 Ausland im Geltungsbereich dieses Gesetzes beschäftigt sind oder
@@ -1010,6 +1040,7 @@ Satz 1 Nummer 3 in Bezug auf die ihr zustehenden Beiträge.
 
 
 ### § 15a Unterrichtungspflichten des Entleihers bei grenzüberschreitender Arbeitnehmerüberlassung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003500126)
 
 (1) Bevor ein Entleiher mit Sitz im Ausland einen Leiharbeitnehmer
 oder eine Leiharbeitnehmerin im Inland beschäftigt, unterrichtet er
@@ -1030,9 +1061,11 @@ vorliegen. § 13 des Arbeitnehmerüberlassungsgesetzes bleibt unberührt.
 
 
 ## Abschnitt 6 - Kontrolle und Durchsetzung durch staatliche Behörden
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000600000)
 
 
 ### § 16 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001702124)
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach §
 8, soweit sie sich auf die Gewährung von Arbeitsbedingungen nach § 5
@@ -1041,6 +1074,7 @@ zuständig.
 
 
 ### § 17 Befugnisse der Behörden der Zollverwaltung und anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001802126)
 
 Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des
 Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
@@ -1075,6 +1109,7 @@ Grundgesetzes) wird durch Satz 1 Nummer 3 eingeschränkt.
 
 
 ### § 18 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE001904126)
 
 (1) Soweit Arbeitsbedingungen auf das Arbeitsverhältnis Anwendung
 finden, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung
@@ -1233,6 +1268,7 @@ Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 
 ### § 19 Erstellen und Bereithalten von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002004126)
 
 (1) Soweit Arbeitsbedingungen auf das Arbeitsverhältnis anzuwenden
 sind, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung
@@ -1365,6 +1401,7 @@ Dienstleistungen oder Besonderheiten der Branche dies erfordern.
 
 
 ### § 20 Zusammenarbeit der in- und ausländischen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002102126)
 
 (1) Die Behörden der Zollverwaltung unterrichten die zuständigen
 örtlichen Landesfinanzbehörden über Meldungen nach § 18 Abs. 1 und 3.
@@ -1391,6 +1428,7 @@ beträgt.
 
 
 ### § 21 Ausschluss von der Vergabe öffentlicher Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002205126)
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder
 Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen
@@ -1432,10 +1470,12 @@ Bewerberin zu hören.
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002301377)
 
 
 
 ### § 23 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002405126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1538,9 +1578,11 @@ Verwaltungs-Vollstreckungsgesetz des Bundes.
 
 
 ## Abschnitt 7 - Grenzüberschreitende Durchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001100126)
 
 
 ### § 24 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004800126)
 
 Dieser Abschnitt regelt die Behandlung von Ersuchen eines anderen
 Mitgliedstaats oder an einen anderen Mitgliedstaat der Europäischen
@@ -1579,6 +1621,7 @@ vor.
 
 
 ### § 25 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004900126)
 
 (1) Zentrale Behörde im Sinne dieses Abschnitts ist die Bundesstelle
 Vollstreckung Zoll beim Hauptzollamt Hannover.
@@ -1594,6 +1637,7 @@ Ersuchen erforderlich sind, unverzüglich wechselseitig zur Verfügung.
 
 
 ### § 26 Binnenmarkt-Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE005000126)
 
 Für die grenzüberschreitende Bearbeitung eingehender und ausgehender
 Ersuchen verwendet die zentrale Behörde das Binnenmarkt-
@@ -1601,6 +1645,7 @@ Informationssystem nach der Verordnung (EU) Nr. 1024/2012.
 
 
 ### § 27 Inhalt ausgehender Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE005100126)
 
 Ausgehende Ersuchen müssen mindestens folgende Angaben enthalten:
 
@@ -1672,6 +1717,7 @@ Ausgehende Ersuchen müssen mindestens folgende Angaben enthalten:
 
 
 ### § 28 Behandlung ausgehender Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE005200126)
 
 (1) Ausgehende Ersuchen werden von der Vollstreckungsbehörde nach
 Prüfung der Voraussetzungen nach den Absätzen 2 und 3 erstellt. Sie
@@ -1730,6 +1776,7 @@ die ersuchte Behörde die Vollstreckung verweigert hat.
 
 
 ### § 29 Behandlung eingehender Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE005300126)
 
 (1) Die zentrale Behörde leitet eingehende Ersuchen unverzüglich an
 die Vollstreckungsbehörde weiter. Die zentrale Behörde teilt der
@@ -1785,6 +1832,7 @@ Union oder des Europäischen Wirtschaftsraums.
 
 
 ### § 30 Ablehnung eingehender Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE005400126)
 
 (1) Die ersuchte Vollstreckungsbehörde oder die zentrale Behörde kann
 ein eingehendes Ersuchen ablehnen, wenn
@@ -1830,9 +1878,11 @@ Ersuchens.
 
 
 ## Abschnitt 8 - Arbeits- und Sozialrechtliche Beratung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001001126)
 
 
 ### § 31 Leistungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003602126)
 
 (1) Der Deutsche Gewerkschaftsbund hat für den Aufbau und die
 Unterhaltung von Beratungsstellen zu arbeits- und sozialrechtlichen
@@ -1900,6 +1950,7 @@ Verwendung der Leistung verantwortlich und nachweispflichtig.
 
 
 ### § 32 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003702126)
 
 Das Bundesministerium für Arbeit und Soziales bestimmt durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -1921,6 +1972,7 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 
 ### § 33 Informationspflicht bei Anwerbung aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004102126)
 
 Ein Arbeitgeber mit Sitz im Inland, der mit einem Unionsbürger nach §
 31 Absatz 2 Nummer 1 mit Wohnsitz oder gewöhnlichem Aufenthalt im
@@ -1935,12 +1987,15 @@ besteht, entfällt die Hinweispflicht.
 
 
 ## Abschnitt 9 - Sonderregelungen und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG000701126)
 
 
 ## Unterabschnitt 1 - Sonderregelungen für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001200126)
 
 
 ### § 34 Erstmontage- und Einbauarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE002503126)
 
 Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1
 Nummer 1 bis 3 und § 13b dieses Gesetzes sowie nach § 20 des
@@ -1974,6 +2029,7 @@ Dritten Buches Sozialgesetzbuch.
 
 
 ### § 35 Bestimmte Tätigkeiten ohne Leistungsempfänger im Inland
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004200126)
 
 Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1
 Nummer 1 bis 4 und § 13b dieses Gesetzes sowie nach § 20 des
@@ -2008,9 +2064,11 @@ tätig ist.
 
 
 ## Unterabschnitt 2 - Sonderregelungen für den Straßenverkehrssektor
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001300126)
 
 
 ### § 36 Kraftfahrer und Kraftfahrerinnen, die im Inland von Arbeitgebern mit Sitz im Ausland beschäftigt werden
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004300126)
 
 (1) Die Arbeitsbedingungen nach den §§ 2, 5 und 13b dieses Gesetzes
 sowie nach § 20 des Mindestlohngesetzes sind auf jene Kraftfahrer oder
@@ -2054,6 +2112,7 @@ völkerrechtlichen Vertrag zu behandeln.
 
 
 ### § 37 Bilaterale Beförderung von Gütern
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004400126)
 
 (1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen, wenn sie ausschließlich bilaterale
@@ -2104,6 +2163,7 @@ Verordnung (EU) Nr. 165/2014 ausgestattet sind.
 
 
 ### § 38 Bilaterale Beförderung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004500126)
 
 (1) Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen, wenn sie ausschließlich bilaterale
@@ -2155,6 +2215,7 @@ Verordnung (EU) Nr. 165/2014 ausgestattet sind.
 
 
 ### § 39 Kombinierter Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004600126)
 
 Nicht als im Inland beschäftigt im Sinne von § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen, wenn sie im kombinierten Verkehr im
@@ -2170,6 +2231,7 @@ durchgeführt werden.
 
 
 ### § 40 Transit
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE004700126)
 
 Nicht als im Inland beschäftigt im Sinne des § 36 Absatz 1 gelten
 Kraftfahrer und Kraftfahrerinnen eines Arbeitgebers mit Sitz in einem
@@ -2180,9 +2242,11 @@ abzusetzen (Transit).
 
 
 ## Unterabschnitt 3 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNG001400126)
 
 
 ### § 41 Übergangsbestimmungen für Langzeitentsendung
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003802126)
 
 (1) Die nach § 13b Absatz 1 vorgeschriebenen Arbeitsbedingungen sind
 frühestens ab dem 30. Juli 2020 anzuwenden.
@@ -2194,6 +2258,7 @@ begonnen, gilt die Mitteilung nach § 13b Absatz 2 als abgegeben.
 
 
 ### § 42 Übergangsbestimmungen für das Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/_ntg_2009/BJNR079900009.html#BJNR079900009BJNE003902126)
 
 Die vor dem 30. Juli 2020 ausgesprochene Allgemeinverbindlicherklärung
 eines Tarifvertrags im Baugewerbe nach § 4 Absatz 1 Nummer 1, § 6

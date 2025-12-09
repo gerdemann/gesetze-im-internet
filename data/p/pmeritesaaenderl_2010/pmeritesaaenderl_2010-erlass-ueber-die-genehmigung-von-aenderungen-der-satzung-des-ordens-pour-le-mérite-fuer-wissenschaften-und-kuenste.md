@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl_2010/BJNR139000010.html#BJNR139000010BJNE000100000)
 
 Das Ordenskapitel des Ordens Pour le mérite für Wissenschaften und
 Künste hat am 30. Mai 2010 Änderungen der Satzung des Ordens
@@ -33,6 +34,7 @@ Bundesanzeiger veröffentlicht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl_2010/BJNR139000010.html#BJNR139000010BJNE000200000)
 
 Der Bundespräsident
 

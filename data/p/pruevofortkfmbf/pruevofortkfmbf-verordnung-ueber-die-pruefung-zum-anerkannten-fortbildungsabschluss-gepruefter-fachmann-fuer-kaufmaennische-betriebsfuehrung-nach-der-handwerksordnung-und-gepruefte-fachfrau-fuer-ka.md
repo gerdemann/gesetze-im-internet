@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000100000)
 
 Auf Grund des § 42 der Handwerksordnung, der durch Artikel 146 der
 Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
@@ -34,6 +35,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000201119)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
 Fachmann für kaufmännische Betriebsführung nach der Handwerksordnung
@@ -74,6 +76,7 @@ kaufmännische Betriebsführung nach der Handwerksordnung“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -95,6 +98,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000401119)
 
 (1) Prüfungsbestandteile sind die drei Handlungsbereiche und ein
 Wahlpflichthandlungsbereich. Die zu prüfende Person teilt den
@@ -135,6 +139,7 @@ mit.
 
 
 ## § 4 Prüfungsinhalte im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen beurteilen“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000500000)
 
 Im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen beurteilen“
 sollen die Fähigkeiten nachgewiesen werden, betriebswirtschaftliche,
@@ -175,6 +180,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 5 Prüfungsinhalte im Handlungsbereich „Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000600000)
 
 Im Handlungsbereich „Gründungs- und Übernahmeaktivitäten vorbereiten,
 durchführen und bewerten“ sollen die Fähigkeiten nachgewiesen werden,
@@ -233,6 +239,7 @@ Qualifikationsinhalte verknüpft werden:
 
 
 ## § 6 Prüfungsinhalte im Handlungsbereich „Unternehmensführungsstrategien entwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000700000)
 
 Im Handlungsbereich „Unternehmensführungsstrategien entwickeln“ sollen
 die Fähigkeiten nachgewiesen werden, unter Berücksichtigung
@@ -295,6 +302,7 @@ verknüpft werden:
 
 
 ## § 7 Prüfungsinhalte im Wahlpflichthandlungsbereich „Informations- und Kommunikationstechnologien nutzen“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000800000)
 
 Im Wahlpflichthandlungsbereich „Informations- und
 Kommunikationstechnologien nutzen“ sollen die Fähigkeiten nachgewiesen
@@ -325,6 +333,7 @@ Qualifikationsinhalte verknüpft werden:
 
 
 ## § 8 Prüfungsinhalte im Wahlpflichthandlungsbereich „Kommunikations- und Präsentationstechniken im Geschäftsverkehr einsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE000900000)
 
 Im Wahlpflichthandlungsbereich „Kommunikations- und
 Präsentationstechniken im Geschäftsverkehr einsetzen“ sollen die
@@ -347,6 +356,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 9 Prüfungsinhalte im Wahlpflichthandlungsbereich „Buchhaltung im Handwerksbetrieb unter Einsatz branchenüblicher Software umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001000000)
 
 Im Wahlpflichthandlungsbereich „Buchhaltung im Handwerksbetrieb unter
 Einsatz branchenüblicher Software umsetzen“ sollen die Fähigkeiten
@@ -371,6 +381,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 10 Prüfungsinhalte im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001100000)
 
 Im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb
 umsetzen“ sollen die Fähigkeiten nachgewiesen werden,
@@ -398,6 +409,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 11 Durchführung der Prüfung und Prüfungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001201119)
 
 (1) Für die Prüfungen in den Prüfungsbestandteilen sind komplexe
 situationsbezogene Aufgaben zu stellen. Für jeden Prüfungsbestandteil
@@ -420,6 +432,7 @@ Bewertung der Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 12 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001301119)
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
@@ -431,6 +444,7 @@ zugrunde zu legen.
 
 
 ## § 13 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001402119)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -442,6 +456,7 @@ als Bewertung der Prüfung das arithmetische Mittel berechnet.
 
 
 ## § 14 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE002000119)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in jedem
 Prüfungsbestandteil jeweils mindestens 50 Punkte erreicht worden sind.
@@ -460,6 +475,7 @@ Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 15 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE002100119)
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -486,6 +502,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 16 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001501119)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -499,6 +516,7 @@ zur Wiederholungsprüfung anmeldet.
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001601119)
 
 (1) Begonnene Prüfungsverfahren zum „Fachkaufmann für
 Handwerkswirtschaft“ und zur „Fachkauffrau für Handwerkswirtschaft“,
@@ -515,12 +533,14 @@ Antrag des Prüflings nach dieser Verordnung durchgeführt werden.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE001701119)
 
 Diese Verordnung tritt am 1. Dezember 2014 in Kraft.
 
 (zu den §§ 13 und 14)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE002200119)
 
 (Fundstelle: BGBl. I 2019, 2172 - 2173)
 
@@ -822,6 +842,7 @@ Diese Verordnung tritt am 1. Dezember 2014 in Kraft.
 (zu § 15)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pr_vofortkfmbf/BJNR172500014.html#BJNR172500014BJNE002300119)
 
 (Fundstelle: BGBl. I 2019, 2173)
 

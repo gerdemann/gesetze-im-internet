@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000101301)
 
 Dieses Gesetz gilt für Vollstreckungsersuchen nach dem Übereinkommen
 vom 21. März 1983 über die Überstellung verurteilter Personen (BGBl.
@@ -33,6 +34,7 @@ S. 1010).
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000201301)
 
 (1) Bei Vollstreckungsersuchen nach dem Übereinkommen, nach Artikel 2
 des Zusatzprotokolls und nach den Artikeln 68 und 69 des Schengener
@@ -45,6 +47,7 @@ Strafsachen anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001600301)
 
 (1) Die Zustimmung nach Artikel 7 Abs. 1 des Übereinkommens ist nach
 Belehrung zu Protokoll eines Richters zu erklären. Das Einverständnis
@@ -56,6 +59,7 @@ Durchführungsübereinkommens nicht anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000301301)
 
 Die Aussetzung der Vollstreckung gemäß Artikel 8 Abs. 1 des
 Übereinkommens endet, wenn die verurteilte Person sich der
@@ -63,6 +67,7 @@ Vollstreckung der Sanktion im Vollstreckungsstaat entzieht.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000401301)
 
 Wird die verurteilte Person vor Ablauf der Hälfte der nach der
 verhängten oder nach der im Vollstreckungsstaat umgewandelten Sanktion
@@ -74,6 +79,7 @@ anordnen, daß sie festzuhalten ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000501301)
 
 (1) Das Gericht kann die Festhalteanordnung vor der Übergabe der
 verurteilten Person an die Behörden des Vollstreckungsstaates erlassen
@@ -94,6 +100,7 @@ die Strafvollstreckungskammer. § 462a Abs. 1 Satz 1 und 2, Abs. 3 und
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000601301)
 
 (1) Die Festhalteanordnung ist aufzuheben, sobald
 
@@ -124,6 +131,7 @@ Diese steht einem Entlassungsschein nach § 5 gleich.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000701301)
 
 (1) Die Festhalteanordnung ist der verurteilten Person bei der
 Ergreifung bekanntzugeben. Ist dies nicht möglich, so ist ihr der
@@ -143,6 +151,7 @@ sprechen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000801301)
 
 (1) Kann die verurteilte Person nicht spätestens am Tage nach der
 Ergreifung vor den zuständigen Richter gestellt werden, so ist sie
@@ -168,6 +177,7 @@ entsprechend.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE000901301)
 
 Von der Ergreifung und jeder weiteren Entscheidung über die Fortdauer
 der Festhaltung wird ein Angehöriger der ergriffenen Person oder eine
@@ -178,6 +188,7 @@ Vertrauens von der Ergreifung zu benachrichtigen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001001301)
 
 (1) Der Richter setzt den Vollzug einer Festhalteanordnung aus, wenn
 weniger einschneidende Maßnahmen die Erwartung hinreichend begründen,
@@ -189,6 +200,7 @@ Jugendgerichtsgesetzes gelten entsprechend.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001102160)
 
 (1) Für den Vollzug der Haft auf Grund einer Anordnung nach § 5 gelten
 die Vorschriften über den Vollzug der Untersuchungshaft entsprechend.
@@ -200,6 +212,7 @@ welcher der Ergriffene zu verwahren ist.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001201301)
 
 Wird die verurteilte Person aufgrund einer Festhalteanordnung
 ergriffen, so trifft die ehemalige Vollstreckungsbehörde die
@@ -208,6 +221,7 @@ Vollstreckungsstaat als abgeschlossen erachtet wird.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001301301)
 
 (1) Geht eine Mitteilung nach Artikel 15 Buchstabe b des
 Übereinkommens ein oder steht sonst innerhalb der Frist des § 7 Abs. 1
@@ -222,12 +236,14 @@ Strafprozeßordnung gilt entsprechend.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001401301)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/_ag/BJNR019540991.html#BJNR019540991BJNE001501301)
 
 (1) Dieses Gesetz tritt gleichzeitig mit dem Übereinkommen vom 21.
 März 1983 über die Überstellung verurteilter Personen in Kraft.

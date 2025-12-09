@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Grundlagen der Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG000201310)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG000301310)
 
 
 
 #### § 1 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000302310)
 
 (1) Die Rundfunkanstalt des Bundesrechts Deutsche Welle ist eine
 gemeinnützige Anstalt des öffentlichen Rechts für den
@@ -44,6 +47,7 @@ betrieblichen Ordnung.
 
 
 #### § 2 Sitz und Studios
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000402310)
 
 (1) Die Deutsche Welle hat einen Sitz in Bonn und einen Sitz in
 Berlin. Der Sitz des Intendanten und der dazugehörenden Verwaltung
@@ -57,6 +61,7 @@ die Satzung der Deutschen Welle.
 
 
 #### § 3 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000503130)
 
 (1) Die Deutsche Welle bietet für das Ausland Rundfunk (Hörfunk,
 Fernsehen) und digitale Dienste nach § 1 Absatz 4 Nummer 1 des
@@ -67,10 +72,12 @@ auch in anderen Sprachen verbreitet.
 
 
 ### Unterabschnitt 2 - Gestaltung der Sendungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG000601310)
 
 
 
 #### § 4 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000602310)
 
 Die Angebote der Deutschen Welle sollen Deutschland als europäisch
 gewachsene Kulturnation und freiheitlich verfassten demokratischen
@@ -83,6 +90,7 @@ deutsche Sprache.
 
 
 #### § 4a Aufgabenplanung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006801310)
 
 (1) Die Deutsche Welle erstellt in eigener Verantwortung unter Nutzung
 aller für ihren Auftrag wichtigen Informationen und Einschätzungen,
@@ -110,6 +118,7 @@ Zusammenarbeit mit Dritten gemäß § 8 Abs. 1 und 4 vollziehen soll.
 
 
 #### § 4b Beteiligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006901310)
 
 (1) Die Deutsche Welle leitet den Entwurf ihrer Aufgabenplanung in der
 jährlich fortgeschriebenen Fassung nach dem Beschluss der
@@ -149,6 +158,7 @@ entsprechende Schlussfassung der Aufgabenplanung.
 
 
 #### § 4c Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007001310)
 
 (1) Die Deutsche Welle führt eine fortlaufende Bewertung ihrer
 Angebote und deren Wirkungen durch.
@@ -164,6 +174,7 @@ zu und veröffentlicht ihn.
 
 
 #### § 5 Programmgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000703116)
 
 (1) Die Deutsche Welle hat in ihren Angeboten die Würde des Menschen
 zu achten und zu schützen. Die Vorschriften der allgemeinen Gesetze,
@@ -187,6 +198,7 @@ trennen und unter Nennung des Verfassers als solche zu kennzeichnen.
 
 
 #### § 6 Unzulässige Angebote, Jugendschutz
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000805116)
 
 (1) Unbeschadet strafrechtlicher Verantwortlichkeit sind Angebote
 unzulässig, wenn sie
@@ -245,6 +257,7 @@ durch die Bundesprüfstelle für jugendgefährdende Medien.
 
 
 #### § 6a Entwicklungsbeeinträchtigende Angebote
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007103130)
 
 (1) Sofern die Deutsche Welle Angebote verbreitet oder zugänglich
 macht, die geeignet sind, die Entwicklung von Kindern oder
@@ -316,6 +329,7 @@ gerade an dieser Form der Darstellung oder Berichterstattung vorliegt.
 
 
 #### § 7 Jugendschutzbeauftragte/Jugendschutzbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE000902310)
 
 (1) Der Intendant beruft eine Jugendschutzbeauftragte/einen
 Jugendschutzbeauftragten.
@@ -346,6 +360,7 @@ Erfahrungsaustausch eintreten.
 
 
 #### § 7a Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007600116)
 
 (1) Die Deutsche Welle wird im Rahmen ihrer technischen und
 finanziellen Möglichkeiten stetig und schrittweise weitere
@@ -360,10 +375,12 @@ Kultur und Medien zuständigen obersten Bundesbehörde zu. Diese
 
 
 ### Unterabschnitt 3 - Erfüllung der Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG001001310)
 
 
 
 #### § 8 Zusammenarbeit mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001003116)
 
 (1) Die Deutsche Welle arbeitet zur Erfüllung ihrer Aufgabe und zur
 Erreichung ihrer Ziele mit öffentlich-rechtlichen Rundfunkanstalten im
@@ -391,6 +408,7 @@ befassen.
 
 
 #### § 9 Produktionen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001103130)
 
 (1) Die Deutsche Welle erfüllt die ihr übertragenen Aufgaben durch
 Verbreitung von Sendungen, die sie
@@ -440,6 +458,7 @@ dieses Gesetzes, insbesondere der §§ 4 bis 6, entsprechen.
 
 
 #### § 10 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001206130)
 
 (1) Werbung ist jede Äußerung, die der unmittelbaren oder mittelbaren
 Förderung des Absatzes von Waren und Dienstleistungen, einschließlich
@@ -585,6 +604,7 @@ Richtlinien.
 
 
 #### § 11 Sponsern
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001304130)
 
 (1) Sponsern ist der Beitrag einer natürlichen oder juristischen
 Person oder einer Personenvereinigung, die an Rundfunktätigkeiten, an
@@ -621,6 +641,7 @@ Richtlinien.
 
 
 #### § 12 Programmabgabe an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001401310)
 
 Die Deutsche Welle kann ausländischen Rundfunkveranstaltern oder
 Dritten gestatten, die von ihr produzierten oder verbreiteten
@@ -633,6 +654,7 @@ auf Überlassung von Sendungen der Deutschen Welle.
 
 
 #### § 13 Transkription
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001502310)
 
 (1) Die Deutsche Welle kann für ausländische Rundfunkveranstalter
 sendefertige deutsch- oder fremdsprachige Sendungen herstellen
@@ -648,6 +670,7 @@ gelöscht werden.
 
 
 #### § 14 Druckwerke
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001601310)
 
 Die Deutsche Welle kann Druckwerke mit programmbezogenem Inhalt
 veröffentlichen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich
@@ -655,6 +678,7 @@ ist.
 
 
 #### § 15 Sendetechnik
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001701310)
 
 (1) Die Deutsche Welle kann zur Erfüllung ihrer Aufgabe nach § 3 die
 gleichen technischen Übertragungsmöglichkeiten nutzen, die den
@@ -677,10 +701,12 @@ Sendern oder eigenen Relaisstationen im Ausland ab.
 
 
 ### Unterabschnitt 4 - Rechte Dritter
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG001801310)
 
 
 
 #### § 16 Verlautbarungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001801310)
 
 Die Deutsche Welle räumt der Bundesregierung in Krisen- oder
 Katastrophenfällen oder in anderen erheblichen Gefahrenlagen für
@@ -689,6 +715,7 @@ Sendezeit ein.
 
 
 #### § 17 Sendezeit für Dritte
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE001901310)
 
 Den Evangelischen Kirchen, der Katholischen Kirche und der Jüdischen
 Gemeinde sind auf Wunsch angemessene Sendezeiten zur Übertragung
@@ -700,6 +727,7 @@ angemessen berücksichtigt werden.
 
 
 #### § 18 Gegendarstellung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002001310)
 
 (1) Die Deutsche Welle ist verpflichtet, durch Rundfunk die
 Gegendarstellung der Person oder Stelle zu verbreiten, die durch eine
@@ -761,6 +789,7 @@ verlangt werden.
 
 
 #### § 19 Eingaben und Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002101310)
 
 (1) Jedermann hat das Recht, sich mit Anregungen zum Programm und
 Eingaben an die Deutsche Welle zu wenden.
@@ -785,6 +814,7 @@ Satz 2 überträgt.
 
 
 #### § 20 Anrufungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002202116)
 
 (1) Jedermann kann sich an den Beauftragten für den Datenschutz der
 Deutschen Welle wenden, wenn er der Ansicht ist, bei der Verarbeitung
@@ -811,6 +841,7 @@ Beauftragten für den Datenschutz der Deutschen Welle zu; Absatz 2 Satz
 
 
 #### § 21 Beweissicherung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002302116)
 
 (1) Von allen Sendungen, die die Deutsche Welle verbreitet, sind
 originalgetreue und vollständige Tonaufzeichnungen, von
@@ -831,10 +862,12 @@ Mehrausfertigungen herstellen lassen.
 
 
 ### Unterabschnitt 5 - Verantwortung für Sendungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG002401310)
 
 
 
 #### § 22 Allgemeine Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002401310)
 
 (1) Wer die Sendung eines Beitrages veranlasst oder zugelassen hat,
 trägt für dessen Inhalt und Gestaltung nach Maßgabe der allgemeinen
@@ -857,6 +890,7 @@ unberührt.
 
 
 #### § 23 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002504116)
 
 (1) Die Deutsche Welle gibt auf Verlangen Namen und Dienstanschrift
 des Intendanten oder der sonstigen für die Sendung Verantwortlichen
@@ -906,14 +940,17 @@ Vorschriften benötigt:
 
 
 ## Abschnitt 2 - Struktur der Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG002601310)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG002701310)
 
 
 
 #### § 24 Organe
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002701310)
 
 (1) Die Organe der Deutschen Welle sind:
 
@@ -935,6 +972,7 @@ Verwaltungsrat.
 
 
 #### § 25 Unvereinbarkeit von Ämtern und Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002802116)
 
 (1) Die Mitgliedschaften in den Gremien der Deutschen Welle schließen
 sich gegenseitig aus. Der Intendant darf nicht Gremienmitglied sein.
@@ -983,6 +1021,7 @@ Mitglied der Bundesregierung oder einer Landesregierung sein.
 
 
 #### § 26 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE002901310)
 
 (1) Die Mitglieder der Gremien vertreten bei Wahrnehmung ihrer
 Aufgaben die Interessen der Allgemeinheit. Sie sind weder an Aufträge
@@ -997,6 +1036,7 @@ ihnen die für ihre Tätigkeit erforderliche Zeit zu gewähren.
 
 
 #### § 27 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003001310)
 
 (1) Die Amtszeit der Gremien beträgt fünf Jahre und beginnt jeweils
 mit ihrem ersten Zusammentritt.
@@ -1007,6 +1047,7 @@ Sitzung zusammentreten.
 
 
 #### § 28 Abberufung und vorzeitiges Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003101310)
 
 (1) Die staatlichen Organe sowie die gesellschaftlichen Gruppen und
 Organisationen können das von ihnen gewählte oder benannte Mitglied
@@ -1023,6 +1064,7 @@ ein Nachfolger für den Rest der Amtszeit zu wählen oder zu benennen.
 
 
 #### § 29 Neuberufung der Gremienmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003201310)
 
 (1) Spätestens vier Monate vor Ablauf der Amtszeit des Rundfunkrates
 bittet dessen Vorsitzender die wahl- oder benennungsberechtigten
@@ -1044,6 +1086,7 @@ erhalten wird.
 
 
 #### § 30 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003301310)
 
 Die Mitglieder der Gremien haben Anspruch auf Aufwandsentschädigung
 sowie Reisekostenvergütung, Tagegelder und Übernachtungsgelder. Das
@@ -1051,10 +1094,12 @@ Nähere regelt die Satzung.
 
 
 ### Unterabschnitt 2 - Rundfunkrat
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG003401310)
 
 
 
 #### § 31 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003402310)
 
 (1) Der Rundfunkrat besteht aus 17 Mitgliedern.
 
@@ -1105,6 +1150,7 @@ den Sitzungen des Rundfunkrates und seiner Ausschüsse teil.
 
 
 #### § 32 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003503116)
 
 (1) Der Rundfunkrat vertritt bei der Deutschen Welle die Interessen
 der Allgemeinheit. Er beschließt über Fragen grundsätzlicher Bedeutung
@@ -1167,6 +1213,7 @@ Intendanten durch den Verwaltungsrat.
 
 
 #### § 33 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003601310)
 
 (1) Der Rundfunkrat tritt mindestens alle drei Monate zu einer
 ordentlichen Sitzung zusammen. Auf Antrag von sechs Mitgliedern oder
@@ -1186,6 +1233,7 @@ betreffen, gehört werden.
 
 
 #### § 34 Beschlüsse und Wahlen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003701310)
 
 (1) Der Rundfunkrat ist beschlussfähig, wenn nach ordnungsgemäßer
 Ladung die Mehrheit seiner Mitglieder anwesend ist.
@@ -1227,6 +1275,7 @@ entscheidet die Mehrheit der Mitglieder.
 
 
 #### § 35 Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003802116)
 
 (1) Der Rundfunkrat bildet aus der Mitte seiner Mitglieder je einen
 Programmausschuss für Hörfunk und Fernsehen; daneben kann er weitere
@@ -1240,10 +1289,12 @@ einen Bericht über ihre Tätigkeit.
 
 
 ### Unterabschnitt 3 - Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG003901310)
 
 
 
 #### § 36 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE003902310)
 
 (1) Der Verwaltungsrat besteht aus sieben Mitgliedern. Ihm gehören an:
 
@@ -1269,6 +1320,7 @@ den Sitzungen des Verwaltungsrates teil.
 
 
 #### § 37 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004003116)
 
 (1) Der Verwaltungsrat überwacht die Geschäftsführung des Intendanten
 außerhalb der Programmgestaltung. Hierzu kann er jederzeit vom
@@ -1352,6 +1404,7 @@ Rundfunkrat anzuhören.
 
 
 #### § 38 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004101310)
 
 (1) Der Verwaltungsrat tritt mindestens alle zwei Monate zu einer
 ordentlichen Sitzung zusammen. Auf Verlangen eines Mitglieds oder des
@@ -1365,6 +1418,7 @@ Verwaltungsrates teilnehmen. Sie sind auf Wunsch zu hören.
 
 
 #### § 39 Beschlüsse und Wahlen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004201310)
 
 (1) Der Verwaltungsrat ist beschlussfähig, wenn nach ordnungsgemäßer
 Ladung die Mehrheit seiner Mitglieder anwesend ist.
@@ -1383,10 +1437,12 @@ Stellvertreter.
 
 
 ### Unterabschnitt 4 - Intendant
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG004301310)
 
 
 
 #### § 40 Wahl und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004301310)
 
 (1) Der Intendant wird vom Rundfunkrat für sechs Jahre in geheimer
 Wahl gewählt. Wiederwahl ist zulässig. Nach Ablauf seiner Amtszeit
@@ -1415,6 +1471,7 @@ Nachfolgers beginnt.
 
 
 #### § 41 Vertretung des Intendanten
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004401310)
 
 Wird der Intendant abberufen oder scheidet er aus, nimmt sein
 Vertreter die Geschäfte wahr, bis die Amtszeit eines gewählten
@@ -1422,6 +1479,7 @@ Nachfolgers beginnt.
 
 
 #### § 42 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004501310)
 
 (1) Der Intendant leitet die Deutsche Welle selbständig. Er ist für
 die Programmgestaltung und für den gesamten Betrieb der Anstalt allein
@@ -1438,6 +1496,7 @@ Geschäftsablauf innerhalb der Direktionsbereiche geregelt werden.
 
 
 #### § 43 Ausscheiden und Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004601310)
 
 (1) Der Dienstvertrag des Intendanten endet mit Ablauf der Amtszeit.
 
@@ -1452,14 +1511,17 @@ seiner Amtszeit weitergewährt.
 
 
 ## Abschnitt 3 - Finanzierung der Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG004701310)
 
 
 
 ### Unterabschnitt 1 - Finanzwesen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG004801310)
 
 
 
 #### § 44 Finanzierungsgarantie
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004802310)
 
 Der Deutschen Welle wird die Finanzierung derjenigen Angebote
 ermöglicht, die nach diesem Gesetz unter Berücksichtigung der
@@ -1467,6 +1529,7 @@ rundfunktechnischen Entwicklung erforderlich ist.
 
 
 #### § 45 Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE004902310)
 
 (1) Die Deutsche Welle finanziert sich aus dem jährlichen Zuschuss
 sowie Zuwendungen des Bundes und sonstigen Einnahmen.
@@ -1481,6 +1544,7 @@ sichergestellt.
 
 
 #### § 46 Grundsätze der Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005002310)
 
 (1) Die Deutsche Welle ist in ihrer Wirtschaftsführung selbständig,
 soweit dieses Gesetz nichts anderes bestimmt oder zulässt.
@@ -1506,6 +1570,7 @@ Abgabenordnung - sind entsprechend anzuwenden.
 
 
 #### § 47 Bedeutung und Wirkung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005102310)
 
 (1) Der Wirtschaftsplan der Deutschen Welle (Wirtschaftsplan) dient
 der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung der
@@ -1518,6 +1583,7 @@ weder begründet noch aufgehoben.
 
 
 #### § 48 Aufstellung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005202310)
 
 (1) Die Deutsche Welle stellt für jedes Wirtschaftsjahr einen
 Wirtschaftsplan nach den Grundsätzen der Wirtschaftlichkeit und
@@ -1563,11 +1629,13 @@ Bundesregierung und dem Bundesrechnungshof zu.
 
 
 #### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005302310)
 
 -
 
 
 #### § 50 Deckungsfähigkeit von Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005402310)
 
 (1) Ansätze können im Wirtschaftsplan oder in der Finanzordnung der
 Deutschen Welle nach Maßgabe der folgenden Absätze für deckungsfähig
@@ -1591,11 +1659,13 @@ Verwaltungsausgaben und die Investitionen der Überleitungsrechnung (§
 
 
 #### § 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005502310)
 
 -
 
 
 #### § 52 Vorläufige Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005602310)
 
 Die Deutsche Welle beschließt den Wirtschaftsplan so rechtzeitig, dass
 er zum 1. Januar des Folgejahres in Kraft treten kann. Hat die
@@ -1619,6 +1689,7 @@ leisten, die nötig sind, um
 
 
 #### § 53 Ausführung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005702310)
 
 Die Ausführung des Wirtschaftsplans erfolgt nach den Grundsätzen der
 Wirtschaftlichkeit und Sparsamkeit. Die §§ 55, 56 Abs. 1, §§ 58, 59
@@ -1626,6 +1697,7 @@ der Bundeshaushaltsordnung finden entsprechende Anwendung.
 
 
 #### § 54 Über- und außerplanmäßige Aufwendungen, Nachtrag zum Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005802310)
 
 (1) Aufwendungen, für die die im Erfolgsplan (§ 48 Abs. 2 Nr. 1)
 ausgebrachten Ansätze nicht ausreichen oder für die keine Ansätze
@@ -1660,6 +1732,7 @@ wenn
 
 
 #### § 55 Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE005902310)
 
 Die Deutsche Welle erstellt für jedes Wirtschaftsjahr einen
 Jahresabschluss. Der Jahresabschluss besteht aus
@@ -1693,6 +1766,7 @@ der Bundesregierung und dem Bundesrechnungshof zu.
 
 
 #### § 56 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006002310)
 
 (1) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung
 der Deutschen Welle gemäß § 111 der Bundeshaushaltsordnung. § 44 Abs.
@@ -1723,6 +1797,7 @@ Bundesrechnungshofes.
 
 
 #### § 57 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006102310)
 
 Der festgestellte Wirtschaftsplan und der festgestellte
 Jahresabschluss der Deutschen Welle werden von ihr unverzüglich im
@@ -1730,10 +1805,12 @@ Bundesanzeiger veröffentlicht.
 
 
 ### Unterabschnitt 2 - Vermögen, Beteiligungen, Baumaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG006201310)
 
 
 
 #### § 58 Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006201310)
 
 (1) Die aus dem Zuschuss des Bundes nach § 45 beschafften Gegenstände
 gehören zum Vermögen der Deutschen Welle. Sie sind uneingeschränkt für
@@ -1750,6 +1827,7 @@ ist.
 
 
 #### § 59 Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006301310)
 
 (1) An einem Unternehmen, das einen gewerbsmäßigen oder sonstigen
 wirtschaftlichen Zweck zum Gegenstand hat, darf sich die Deutsche
@@ -1795,6 +1873,7 @@ sind im Gesellschaftervertrag oder in der Satzung die Rechte nach den
 
 
 #### § 60 Baumaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006401310)
 
 (1) Bauunterhaltungsmaßnahmen einschließlich der Schönheitsreparaturen
 sowie zur Deckung des rundfunktechnischen Bedarfs erforderliche, nicht
@@ -1821,15 +1900,18 @@ Finanzbauverwaltung - RBBau - sinngemäß.
 
 
 ## Abschnitt 4 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG006501310)
 
 
 
 ### § 61 Ausschluss der Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006601310)
 
 Die Deutsche Welle unterliegt keiner staatlichen Fachaufsicht.
 
 
 ### § 62 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE006701310)
 
 (1) Die Bundesregierung führt die Rechtsaufsicht über die Deutsche
 Welle.
@@ -1853,10 +1935,12 @@ setzen.
 
 
 ## Abschnitt 5 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNG006600116)
 
 
 
 ### § 63 Datenverarbeitung zu journalistischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007200116)
 
 (1) Sofern die Deutsche Welle oder ein Hilfsunternehmen
 personenbezogene Daten zu journalistischen Zwecken verarbeitet, sind
@@ -1926,6 +2010,7 @@ Wahrnehmung berechtigter Interessen erforderlich ist.
 
 
 ### § 64 Der Beauftragte für den Datenschutz der Deutschen Welle
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007300116)
 
 (1) Die Deutsche Welle ernennt einen Beauftragten für den Datenschutz
 der Deutschen Welle als Aufsichtsbehörde, der im Bereich der
@@ -2009,6 +2094,7 @@ der Deutschen Welle.
 
 
 ### § 65 Aufgaben und Befugnisse des Beauftragten für den Datenschutz der Deutschen Welle
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007400116)
 
 (1) Der Beauftragte für den Datenschutz der Deutschen Welle
 beaufsichtigt die Einhaltung der Datenschutzvorschriften, soweit die
@@ -2073,6 +2159,7 @@ Online-Angebot der Deutschen Welle ausreichend.
 
 
 ### § 66 Der Datenschutzbeauftragte im Sinne der §§ 5 bis 7 des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/dwg/BJNR309410997.html#BJNR309410997BJNE007500116)
 
 Neben dem Beauftragten für den Datenschutz der Deutschen Welle als
 Aufsichtsbehörde benennt die Deutsche Welle einen

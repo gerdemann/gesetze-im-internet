@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbdgano/BJNR1100A0024.html#BJNR1100A0024BJNE000100000)
 
 Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 erlässt
@@ -38,6 +39,7 @@ die folgende Anordnung:
 
 
 ## I. Übertragung von Disziplinarbefugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbdgano/BJNR1100A0024.html#BJNR1100A0024BJNE000200000)
 
 Der Präsidentin/dem Präsidenten des Bundesamtes für Bauwesen und
 Raumordnung werden für die ihr oder ihm nachgeordneten Beamtinnen und
@@ -73,6 +75,7 @@ e)  die Befugnis nach § 127 Absatz 1 Satz 1 des Bundesbeamtengesetzes zur
 
 
 ## II. Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbdgano/BJNR1100A0024.html#BJNR1100A0024BJNE000300000)
 
 Über die Einleitung und Ausweitung von Disziplinarverfahren ist das
 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
@@ -83,6 +86,7 @@ und § 43 Satz 1 des Bundesdisziplinargesetzes bleiben unberührt.
 
 
 ## III. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbdgano/BJNR1100A0024.html#BJNR1100A0024BJNE000400000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.

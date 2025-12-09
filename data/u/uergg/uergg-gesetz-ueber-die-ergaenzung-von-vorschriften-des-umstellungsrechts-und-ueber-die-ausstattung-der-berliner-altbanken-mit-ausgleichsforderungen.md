@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Umwandlung von Uraltguthaben
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNG000100328)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE000500328)
 
 (1) Reichsmarkguthaben, die am 8. Mai 1945 bei einer Berliner
 Niederlassung eines Kreditinstituts bestanden (Uraltguthaben), werden
@@ -49,6 +51,7 @@ umzuwandeln sind, keine Anwendung.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE000600328)
 
 Folgende Uraltguthaben erlöschen:
 
@@ -79,6 +82,7 @@ d ) Uraltguthaben, deren Umwandlungsbetrag weniger als zwei und eine halbe
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE000700328)
 
 Von der Umwandlung nach diesem Gesetz sind ausgeschlossen:
 
@@ -116,6 +120,7 @@ d)  Uraltguthaben von Kontoinhabern, die am 31. Dezember 1952 ihren
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE000800328)
 
 (1) Gutschriften in Deutscher Mark auf Grund der Uraltkontenbestimmung
 vom 23. Dezember 1949 (Verordnungsblatt für Groß-Berlin Teil I S. 509)
@@ -130,6 +135,7 @@ Uraltguthaben nach diesem Gesetz umzuwandeln sein würde.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE000900328)
 
 (1) Einem nach § 1 Abs. 1 Berechtigten steht eine natürliche Person
 gleich, die nach dem 31. Dezember 1952 ihren Wohnsitz oder dauernden
@@ -151,6 +157,7 @@ vorübergehend im Geltungsbereich dieses Gesetzes aufhält.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001000328)
 
 (1) Steht das Uraltguthaben einer ehelichen Gütergemeinschaft oder
 einer Erbengemeinschaft zu, so gelten die Voraussetzungen des § 1 Abs.
@@ -167,12 +174,14 @@ anerkannt hat, begründet hat oder begründet.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001100328)
 
 Bei der Umwandlung von Uraltguthaben werden nur volle
 Reichsmarkbeträge berücksichtigt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001200328)
 
 (1) Zinsen auf Uraltguthaben dürfen für die Zeit vom 1. Januar 1945 an
 nicht mehr gutgeschrieben werden.
@@ -182,6 +191,7 @@ sind von der Umwandlung ausgeschlossen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001300328)
 
 Soweit Gutschriften oder Wiedergutschriften in Reichsmark zu
 vollziehen gewesen wären, dürfen sie noch vorgenommen werden. Hierzu
@@ -192,6 +202,7 @@ mit Wirkung vom 8. Mai 1945 vorzunehmen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001400328)
 
 (1) Soweit in Uraltguthaben, die nach § 2 Buchstaben b bis c erlöschen
 oder nach § 3 Buchstabe d von der Umwandlung ausgeschlossen sind,
@@ -210,6 +221,7 @@ der Berechtigten aus der Hinterlegung oder Einzahlung.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001500328)
 
 Uraltguthaben, bei denen aus der Kontobezeichnung ersichtlich ist, daß
 sie für fremde Rechnung gehalten werden, sind nur insoweit
@@ -219,6 +231,7 @@ gegeben sind.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001600328)
 
 (1) Uraltguthaben, die nach diesem Gesetz umwandlungsfähig sind, sind
 anzumelden. Besteht an einem umwandlungsfähigen Uraltguthaben ein
@@ -233,6 +246,7 @@ Unterlagen beigefügt werden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001700328)
 
 (1) Anmeldestellen sind:
 
@@ -257,6 +271,7 @@ nachgewiesen wird.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001800328)
 
 (1) Aus einem Uraltguthaben, das nicht ordnungsgemäß angemeldet worden
 ist, kann ein Anspruch auf Umwandlung in ein Neugeldguthaben nicht
@@ -268,6 +283,7 @@ geltend gemacht werden.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE001900328)
 
 (1) Die Anmeldestelle hat zu prüfen, ob die Voraussetzungen des § 1
 oder § 5 oder § 6 in der Person desjenigen, für den die Anmeldung
@@ -284,6 +300,7 @@ des Anmelders weiterzuleiten.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002000328)
 
 (1) Sieht die Verwaltungsstelle des Alten Instituts die
 Voraussetzungen der Umwandlung als gegeben an, so erkennt sie an, in
@@ -305,6 +322,7 @@ Berliner Bankaufsichtsbehörde anerkennen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002100328)
 
 Wird die Umwandlung eines Uraltguthabens von nicht mehr als
 fünftausend Reichsmark auf einem auf den Namen eines Verstorbenen
@@ -320,6 +338,7 @@ Berliner Bankaufsichtsbehörde zustimmt.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002200328)
 
 Die Verwaltungsstelle des Alten Instituts hat die Anerkennung der
 Umwandlungsfähigkeit des Uraltguthabens unter Angabe des Berechtigten
@@ -330,6 +349,7 @@ Inhabers, die der Verwaltungsstelle bekannt sind, zu vermerken.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002300328)
 
 (1) Die
 Berliner Bankaufsichtsbehörde überwacht die Anerkennung der
@@ -342,6 +362,7 @@ ausgeschlossen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002400328)
 
 (1) Die mit der Bestätigung versehene Anmeldung ist dem Neuen
 Institut, das als Anmeldestelle tätig geworden ist, zu übersenden.
@@ -359,6 +380,7 @@ Institut noch nicht zum Neugeschäft zugelassen ist.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002500328)
 
 (1) Wird die Umwandlungsfähigkeit des Uraltguthabens nicht oder nur
 teilweise anerkannt, so hat die Verwaltungsstelle des Alten Instituts
@@ -373,6 +395,7 @@ ist er in der Mitteilung zu belehren.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002601377)
 
 (1) Über den Antrag nach § 21 Abs. 2 entscheidet eine Zivilkammer des
 Landgerichts Berlin. Der Bund ist am Verfahren beteiligt;
@@ -386,12 +409,14 @@ Gesetz nichts anderes bestimmt ist.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002700328)
 
 Das Gericht entscheidet über den Antrag durch einen mit Gründen
 versehenen Beschluß.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002802377)
 
 (1) Gegen die Entscheidung findet die Beschwerde an das Kammergericht
 statt.
@@ -410,12 +435,14 @@ Rechtszuge gestellt hat.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE002900328)
 
 Die Entscheidung wird mit der Rechtskraft wirksam. Sie ist für die
 Gerichte, die Verwaltungsbehörden und das Neue Institut bindend.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003000328)
 
 Welche Beteiligten die Kosten zu tragen haben, bestimmt das Gericht
 nach billigem Ermessen. Es kann dabei auch bestimmen, daß die
@@ -425,6 +452,7 @@ Vorschriften der §§
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003100328)
 
 (1) Für die Gerichtskosten gelten, soweit nichts anderes bestimmt ist,
 die Vorschriften der Kostenordnung
@@ -439,11 +467,13 @@ erhoben. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003200328)
 
 -
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003300328)
 
 (1) Das Neue Institut hat den sich aus der bestätigten Anerkennung
 oder aus der gerichtlichen Feststellung ergebenden Betrag dem
@@ -457,6 +487,7 @@ Sichteinlagen zu führen.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003400328)
 
 (1) Rechte, die an dem Uraltguthaben bestehen, und
 Verfügungsbeschränkungen, denen der Inhaber hinsichtlich des
@@ -471,6 +502,7 @@ Zurückbehaltungsrecht des Alten Instituts an dem Uraltguthaben.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003500328)
 
 (1) Dem Anmelder dürfen von der Verwaltungsstelle des Alten Instituts
 und vom Neuen Institut wegen der ihnen nach diesem Gesetz obliegenden
@@ -500,6 +532,7 @@ Nachweisungen an den Bundesminister der Finanzen weiterzuleiten.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003600328)
 
 (1) Dem Neuen Institut wird für jedes Neugeldguthaben eine
 Liquiditätsausstattung von 15 vom Hundert gewährt.
@@ -513,6 +546,7 @@ Bank Deutscher Länder ein entsprechender Betrag gutzuschreiben.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003700328)
 
 (1) In Höhe der Neugeldguthaben gewährt der Bund
 Ausgleichsforderungen.
@@ -531,6 +565,7 @@ Verschulden.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003800328)
 
 (1) Anträge auf Gewährung von Ausgleichsforderungen sind an die
 Berliner Bankaufsichtsbehörde zu richten. Sie können erstmals sechs
@@ -563,6 +598,7 @@ Bank deutscher Länder stellt der Bundesminister der Finanzen fest.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE003902377)
 
 (1) Die Ausgleichsforderungen sind Schuldbuchforderungen. Sie werden
 auf Ersuchen des Bundesministers der Finanzen in das Bundesschuldbuch
@@ -577,6 +613,7 @@ Durchführungsverordnung zum Umstellungsgesetz anzuwenden.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004000328)
 
 (1) Die Ausgleichsforderungen sind vom 1. Januar 1953 an mit jährlich
 3 vom Hundert zu verzinsen. Ausgleichsforderungen der Deutschen
@@ -603,6 +640,7 @@ mit jährlich 5 vom Hundert zu verzinsen.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004100328)
 
 (1) In Höhe der Ausgleichsforderungen, die wegen der Umwandlung von
 Uraltguthaben gewährt worden sind, erwirbt der Bund gegen das Alte
@@ -621,6 +659,7 @@ Kreditinstitute als Berliner Altbanken gelten.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004200328)
 
 Soweit eine Berliner Altbank nach § 37 Abs. 2 wegen der
 Verbindlichkeiten gegenüber der öffentlichen Hand in Anspruch genommen
@@ -636,6 +675,7 @@ mit Wirkung vom 1. Januar 1950 an zu erfolgen.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004300328)
 
 (1) Soweit einer Berliner Altbank wegen der Verbindlichkeiten
 gegenüber der öffentlichen Hand aus der Uraltkontenumstellung auf
@@ -658,6 +698,7 @@ Die zurückgekauften Ausgleichsforderungen erlöschen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004400328)
 
 Die Vorschriften der §§ 37 bis 39 gelten sinngemäß, wenn die gesamten
 Vermögenswerte und Verbindlichkeiten einer Berliner Altbank auf eine
@@ -667,10 +708,12 @@ Kreditinstituts auf eine Berliner Altbank übergehen.
 
 
 ## Abschnitt II - Ergänzung sonstiger umstellungsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNG000200328)
 
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004500328)
 
 (1) Zahlungsverbindlichkeiten, die vor dem 9. Mai 1945 in dem
 Geschäftsbetrieb einer Berliner Niederlassung eines Kreditinstituts
@@ -706,6 +749,7 @@ für Rechnung eines Dritten gegebene Kredite handelt.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004600328)
 
 (1) Soweit Verbindlichkeiten im Geschäftsbetrieb einer außerhalb
 Berlins belegenen Niederlassung begründet worden sind, die nach § 3
@@ -809,6 +853,7 @@ entsprechend.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004700328)
 
 (1) Berliner Altbanken mit Hauptniederlassung (Sitz) in Berlin (West),
 die eine Altbankenrechnung aufgestellt haben, sind vom Stichtag der
@@ -829,6 +874,7 @@ gebührenfrei zu löschen.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004800328)
 
 (1) Von Berliner Altbanken, die gemäß § 1 der Zweiundvierzigsten
 Durchführungsverordnung zum Umstellungsgesetz eine Eröffnungsbilanz in
@@ -848,10 +894,12 @@ Verbindlichkeiten ist den Rücklagen zuzuführen.
 
 
 ## Abschnitt III - Ausstattung der Berliner Altbanken mit Ausgleichsforderungen
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNG000300328)
 
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE004900328)
 
 (1) Berliner Altbanken haben in Höhe desjenigen Betrages, um den die
 im Geschäftsbetrieb der Berliner Niederlassung begründeten, in die
@@ -971,6 +1019,7 @@ geregelt.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005000328)
 
 (1) Hat die Altbank keine Niederlassung außerhalb Berlins, so gilt
 nach ihrer Wahl als früheres Eigenkapital im Sinne des § 45 entweder
@@ -1038,6 +1087,7 @@ besondere Umstände gerechtfertigt ist.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005100328)
 
 (1) Die Ausgleichsforderungen sind vom 1. Januar 1953 an mit jährlich
 3 vom Hundert zu verzinsen.
@@ -1067,6 +1117,7 @@ mit jährlich 5 vom Hundert zu verzinsen.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005200328)
 
 (1) Soweit für Schuldverschreibungen oder Verpflichtungen aus
 Schuldurkunden gesetzlich oder vertraglich eine Deckung unterhalten
@@ -1081,6 +1132,7 @@ verwandt werden.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005300328)
 
 Der Anspruch auf Gewährung der Ausgleichsforderung gemäß § 45 wird auf
 Grund der bestätigten Altbankenrechnung von der
@@ -1091,6 +1143,7 @@ Bundesminister der Finanzen mitzuteilen.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005400328)
 
 (1) Die Ausgleichsforderungen sind Schuldbuchforderungen. Sie werden
 auf Ersuchen des Bundesministers der Finanzen in das Bundesschuldbuch
@@ -1101,6 +1154,7 @@ des Bundesministers der Finanzen zu berichtigen.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005500328)
 
 (1) Eine Altbank, der nach § 45 Abs. 2 in Verbindung mit § 45 Abs. 3
 Buchstabe b oder c eine Ausgleichsforderung gewährt worden ist, die
@@ -1124,6 +1178,7 @@ angemessene Beträge zuzuführen.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005600328)
 
 Stellt eine Altbank, die Anspruch auf Gewährung einer
 Ausgleichsforderung hat, eine Forderung, die vom Reiche verbürgt ist
@@ -1139,6 +1194,7 @@ einzubringen sind. Die Altbankenrechnung ist insoweit zu berichtigen.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005700328)
 
 Jede Altbank, die nach den Vorschriften dieses Abschnittes
 Ausgleichsforderungen erhält, hat ihre Rechte aus Ansprüchen der in §
@@ -1149,6 +1205,7 @@ Satz
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005800328)
 
 (1) Spätestens im Zeitpunkt der Wiedervereinigung Deutschlands werden
 die Voraussetzungen dafür geschaffen, daß auch die Gläubiger
@@ -1166,10 +1223,12 @@ werden muß, wird sie durch den Anspruch nach Absatz 1 ersetzt.
 
 
 ## Abschnitt IV - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNG000400328)
 
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE005900328)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften über das bei der Anmeldung von
@@ -1184,6 +1243,7 @@ Feststellung der zu befriedigenden Verbindlichkeiten zu erlassen.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE006000328)
 
 Die Vorschriften dieses Gesetzes finden Anwendung, sobald es durch
 Übernahme gemäß § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4.
@@ -1194,6 +1254,7 @@ braucht hierbei nicht eingehalten zu werden.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE006100328)
 
 (1) Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen
 Ermächtigungen erlassen werden, gelten in Berlin (West) nach § 14 des
@@ -1208,6 +1269,7 @@ für Groß-Berlin Teil I S. 88) tritt.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/_rgg/BJNR014390953.html#BJNR014390953BJNE006200328)
 
 Dieses Gesetz tritt am ersten Tage des zweiten Kalendermonats in
 Kraft, der auf die Verkündung dieses Gesetzes im Bundesgesetzblatt

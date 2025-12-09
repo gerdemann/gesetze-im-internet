@@ -20,18 +20,22 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Finanzmarktstabilisierung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000600123)
 
 
 ### Teil 1 - Finanzmarktstabilisierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000101123)
 
 
 #### § 1 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000200000)
 
 Es wird ein Fonds des Bundes unter der Bezeichnung
 „Finanzmarktstabilisierungsfonds – FMS“ errichtet.
 
 
 #### § 2 Zweck des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000304116)
 
 (1) Der Fonds dient der Stabilisierung des Finanzmarktes durch
 Überwindung von Liquiditätsengpässen und durch Schaffung der
@@ -50,6 +54,7 @@ Finanzsektors im Sinne des Satzes 1.
 
 
 #### § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000403301)
 
 Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
 rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
@@ -60,9 +65,11 @@ Frankfurt am Main.
 
 
 ### Teil 2 - Institutioneller Rahmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000202123)
 
 
 #### § 3a Bundesanstalt für Finanzmarktstabilisierung; Trägerschaft der Finanzagentur; Organisation und Aufgaben; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000512123)
 
 (1) Die mit diesem Gesetz in der Fassung vom 17. Oktober 2008
 errichtete Finanzmarktstabilisierungsanstalt wird mit Wirkung zum 23.
@@ -187,6 +194,7 @@ nach Absatz 6 unverzüglich zu unterrichten.
 
 
 #### § 3b Verschwiegenheitspflicht; Zusammenarbeit mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE003607116)
 
 (1) Die Mitglieder des Leitungsausschusses der Anstalt, der
 Geschäftsführung der Finanzagentur und die Mitarbeiterinnen und
@@ -289,6 +297,7 @@ vorgenannten Verordnungen und Richtlinien ergangenen Rechtsakte.
 
 
 #### § 3c Rechtsstellung der Mitglieder des Leitungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE003700140)
 
 (1) Die Mitglieder des Leitungsausschusses der Anstalt stehen in einem
 öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere
@@ -381,6 +390,7 @@ entsprechend.
 
 
 #### § 3d Deckung der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE003903301)
 
 Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der
 Aufgaben nach diesem Gesetz entstehen, werden durch den Bund getragen.
@@ -391,6 +401,7 @@ diesem Gesetz bedient.
 
 
 #### § 3e Kostenerstattungen
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE004003123)
 
 (1) Für die Kosten, die der Finanzagentur oder der Anstalt in Ausübung
 der Aufgaben nach diesem Gesetz oder für Maßnahmen in Ausübung ihrer
@@ -441,6 +452,7 @@ sind entsprechend anzuwenden.
 
 
 #### § 3f Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE004601301)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen
@@ -463,9 +475,11 @@ Kostenerstattung nicht bereits festgesetzt ist.
 
 
 ### Teil 3 - Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000301123)
 
 
 #### § 4 Entscheidung über Stabilisierungsmaßnahmen; Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000608123)
 
 (1) Über vom Fonds gemäß den §§ 5a, 6, 7 und 8 vorzunehmende
 Stabilisierungsmaßnahmen entscheidet das Bundesministerium der
@@ -519,6 +533,7 @@ unterrichten.
 
 
 #### § 5 Vermögenstrennung, Bundeshaftung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000700000)
 
 Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und
 Verbindlichkeiten zu trennen. Der Bund haftet unmittelbar für die
@@ -527,6 +542,7 @@ Verbindlichkeiten des Bundes.
 
 
 #### § 5a Anteilserwerb
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002104116)
 
 Der Fonds ist berechtigt, im Zusammenhang mit der Stabilisierung eines
 Unternehmens des Finanzsektors Anteile an dem betroffenen Unternehmen
@@ -542,6 +558,7 @@ entsprechend.
 
 
 #### § 6 Garantieermächtigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000808123)
 
 (1) Der Fonds wird ermächtigt, für den Fonds Garantien bis zur Höhe
 von 400 Milliarden Euro für ab Inkrafttreten dieses Gesetzes und bis
@@ -631,6 +648,7 @@ Absatz 4 unverzüglich zu unterrichten.
 
 
 #### § 6a Garantien an Zweckgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002204123)
 
 (1) Abweichend von § 6 Absatz 1 Satz 1 und 2 kann der Fonds Garantien
 nach § 6 Absatz 1 für Schuldtitel übernehmen, welche von
@@ -773,6 +791,7 @@ und Gewinnausschüttungen an die Anteilseigner keine Anwendung.
 
 
 #### § 6b Verpflichtung zur Zahlung eines Ausgleichsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002303116)
 
 (1) Übertragende Unternehmen zahlen für die Dauer der Laufzeit der
 Garantie, maximal jedoch für die Dauer von 20 Jahren, jährlich aus dem
@@ -831,6 +850,7 @@ anzugeben.
 
 
 #### § 6c Verpflichtung zum weiteren Verlustausgleich
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002403116)
 
 (1) Ist das übertragende Unternehmen in der Rechtsform einer
 Aktiengesellschaft verfasst und reichen die über die Laufzeit der
@@ -870,10 +890,12 @@ anzugeben.
 
 
 #### § 6d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002501140)
 
 
 
 #### § 7 Rekapitalisierung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE000900000)
 
 (1) Der Fonds kann sich an der Rekapitalisierung von Unternehmen des
 Finanzsektors beteiligen, insbesondere gegen Leistung einer Einlage
@@ -916,6 +938,7 @@ Absatz 3 unverzüglich zu unterrichten.
 
 
 #### § 8 Risikoübernahme; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001004123)
 
 (1) Der Fonds kann von Unternehmen des Finanzsektors vor dem 1. Juni
 2014 erworbene Risikopositionen, insbesondere Forderungen,
@@ -959,6 +982,7 @@ Absatz 2 unverzüglich zu unterrichten.
 
 
 #### § 8a Bundesrechtliche Abwicklungsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002617123)
 
 (1) Die Anstalt kann auf Antrag der übertragenden Gesellschaft
 teilrechtsfähige Anstalten des öffentlichen Rechts errichten, auf die
@@ -1438,6 +1462,7 @@ Wirtschaftsstabilisierungsbeschleunigungsgesetzes entsprechend.
 
 
 #### § 8b Landesrechtliche Abwicklungsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002706123)
 
 (1) Eine landesrechtliche Abwicklungsanstalt ist eine Anstalt des
 öffentlichen Rechts nach Landesrecht, der die Aufgabe obliegt,
@@ -1497,6 +1522,7 @@ vorsehen.
 
 
 #### § 9 Kreditermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001109123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für den Fonds
 zur Deckung von Aufwendungen und von Maßnahmen nach den §§ 5a, 7 und 8
@@ -1538,6 +1564,7 @@ Grundgesetzes.
 
 
 #### § 10 Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001205123)
 
 (1) Unternehmen des Finanzsektors, die Stabilisierungsmaßnahmen des
 Fonds nach den §§ 6, 7 und 8 dieses Gesetzes in Anspruch nehmen,
@@ -1649,6 +1676,7 @@ Absatz 2 unverzüglich zu unterrichten.
 
 
 #### § 10a Parlamentarische Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001303301)
 
 (1) (weggefallen)
 
@@ -1672,6 +1700,7 @@ Bundesschuldenwesengesetzes gilt entsprechend.
 
 
 #### § 11 Haushalts- und Vermögensrechnung und parlamentarische Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001402123)
 
 (1) Das Bundesministerium der Finanzen stellt am Schluss eines jeden
 Rechnungsjahres die Haushalts- und Vermögensrechnung für den Fonds
@@ -1690,11 +1719,13 @@ wesentlicher Bedeutung unverzüglich zu unterrichten.
 
 
 #### § 12 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001500000)
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 
 #### § 13 Befristung und Länderbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001607301)
 
 (1) Stabilisierungsmaßnahmen des Fonds einschließlich der Maßnahmen
 nach den §§ 6a und 8a sind bis zum 31. Dezember 2015 möglich.
@@ -1767,9 +1798,11 @@ nach Absatz 4 unverzüglich zu unterrichten.
 
 
 ### Teil 4 - Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000401123)
 
 
 #### § 14 Steuern
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001704123)
 
 (1) Der Fonds unterliegt nicht der Gewerbesteuer oder der
 Körperschaftsteuer. Er ist kein Unternehmer im Sinne des
@@ -1814,6 +1847,7 @@ den Fonds außer Betracht.
 
 
 #### § 14a Steuerrechtliche Sonderregelungen im Zusammenhang mit Vermögensübertragungen nach den §§ 6a und 8a
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE003500160)
 
 (1) Beim übertragenden Unternehmen sind die Schuldtitel im Sinne des §
 6a Absatz 1 abweichend von § 6 Absatz 6 des Einkommensteuergesetzes
@@ -1854,6 +1888,7 @@ Nummer 6.
 
 
 #### § 14b Steuerrechtliche Sonderregelungen zu Zweckgesellschaften und Abwicklungsanstalten nach den §§ 6a und 8a
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002800160)
 
 (1) Die Zweckgesellschaft im Sinne des § 6a Absatz 1 gilt als
 Gewerbebetrieb im Sinne des § 35c Absatz 1 Nummer 2 Buchstabe e des
@@ -1888,6 +1923,7 @@ der Gewerbesteuer-Durchführungsverordnung entsprechend anzuwenden.
 
 
 #### § 14c Steuerrechtliche Behandlung von Zahlungen in die Zweckgesellschaft oder die Abwicklungsanstalt und Auskehrungen der Zweckgesellschaft oder der Abwicklungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE002900160)
 
 (1) Als negative Einnahmen im Sinne des § 20 Absatz 1 Nummer 1 oder 10
 Buchstabe a des Einkommensteuergesetzes gelten
@@ -1990,6 +2026,7 @@ entsprechend anzuwenden.
 
 
 #### § 14d Steuerrechtliche Sonderregelungen im Zusammenhang mit landesrechtlichen Abwicklungsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE003000160)
 
 § 14a Absatz 2 bis 4 gilt im Zusammenhang mit Vermögensübertragungen
 in die landesrechtliche Abwicklungsanstalten im Sinne des § 8b
@@ -1998,18 +2035,22 @@ Abwicklungsanstalten im Sinne des § 8b entsprechend anzuwenden.
 
 
 ## Abschnitt 2 - Wirtschaftsstabilisierung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000700123)
 
 
 ### Teil 1 - Wirtschaftsstabilisierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000800123)
 
 
 #### § 15 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE004800123)
 
 Es wird ein Fonds des Bundes unter der Bezeichnung
 „Wirtschaftsstabilisierungsfonds – WSF –“ errichtet.
 
 
 #### § 16 Zweck des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE004903123)
 
 (1) Der Wirtschaftsstabilisierungsfonds dient der Stabilisierung von
 Unternehmen der Realwirtschaft durch Überwindung von
@@ -2056,6 +2097,7 @@ zuständige Ansprechpartner für die Unternehmen der Realwirtschaft.
 
 
 #### § 17 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005000123)
 
 Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann
 unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und
@@ -2069,6 +2111,7 @@ Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen.
 
 
 #### § 18 Institutioneller Rahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005101123)
 
 (1) Die Verwaltung des Wirtschaftsstabilisierungsfonds mit Ausnahme
 der Entscheidungen über Stabilisierungsmaßnahmen nach § 20 Absatz 1
@@ -2106,6 +2149,7 @@ entsprechend.
 
 
 #### § 19 Kostendeckung und Kostenerstattung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005205123)
 
 (1) Die §§ 3d und 3e gelten hinsichtlich der Kosten der Finanzagentur
 entsprechend, wobei an die Stelle des Bundes der
@@ -2150,9 +2194,11 @@ Kostenerstattung nicht bereits festgesetzt ist.
 
 
 ### Teil 2 - Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG000900123)
 
 
 #### § 20 Entscheidung über Stabilisierungsmaßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005302123)
 
 (1) Über vom Wirtschaftsstabilisierungsfonds nach den §§ 21 und 22
 dieses Gesetzes vorzunehmende Stabilisierungsmaßnahmen entscheidet das
@@ -2248,6 +2294,7 @@ Absatz 4 unverzüglich zu unterrichten.
 
 
 #### § 21 Gewährleistungsermächtigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005402123)
 
 (1) Der Wirtschaftsstabilisierungsfonds wird ermächtigt, für den
 Wirtschaftsstabilisierungsfonds Garantien bis zur Höhe von 100
@@ -2301,6 +2348,7 @@ Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen
 
 
 #### § 22 Rekapitalisierung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005501123)
 
 (1) Der Wirtschaftsstabilisierungsfonds kann sich an der
 Rekapitalisierung von Unternehmen beteiligen. Die
@@ -2361,6 +2409,7 @@ zu unterrichten.
 
 
 #### § 23 Refinanzierung der Sonderprogramme der Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005601123)
 
 (1) Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für
 Wiederaufbau Darlehen zur Refinanzierung der ihr von der
@@ -2379,6 +2428,7 @@ Infrastruktur, gewähren.
 
 
 #### § 24 Kreditermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005702123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für den
 Wirtschaftsstabilisierungsfonds zur Deckung von Inanspruchnahmen nach
@@ -2404,6 +2454,7 @@ Nettokreditaufnahme des Bundes.
 
 
 #### § 25 Voraussetzungen und Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005802123)
 
 (1) Den Unternehmen dürfen anderweitige Finanzierungsmöglichkeiten
 nicht zur Verfügung stehen. Durch die Stabilisierungsmaßnahmen muss
@@ -2492,6 +2543,7 @@ getragen.
 
 
 #### § 26 Befristung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE005902123)
 
 (1) Stabilisierungsmaßnahmen des Wirtschaftsstabilisierungsfonds sind
 bis zum 30. Juni 2022 möglich. Anträge nach § 20 Absatz 1 Satz 1
@@ -2520,9 +2572,11 @@ bedarf, die der Zustimmung des Deutschen Bundestages bedarf.
 
 
 ### Teil 3 - Abfederung der Folgen der Energiekrise
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG001200123)
 
 
 #### § 26a Maßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006201123)
 
 (1) Zur Erfüllung des Zwecks nach § 16 Absatz 4 sind Ausgaben des
 Wirtschaftsstabilisierungsfonds zulässig für
@@ -2595,6 +2649,7 @@ bis 4 betrauten Behörden und sonstigen Stellen, insbesondere über
 
 
 #### § 26b Kreditermächtigung zur Finanzierung von Maßnahmen nach § 26a
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006301123)
 
 (1) Das Bundesministerium der Finanzen wird für das Jahr 2022
 ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Finanzierung
@@ -2633,6 +2688,7 @@ der Kreditaufnahme sind vom Wirtschaftsstabilisierungsfonds zu tragen.
 
 
 #### § 26c Wirtschaftsplan und Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006401123)
 
 Alle Einnahmen und Ausgaben des Wirtschaftsstabilisierungsfonds nach
 Abschnitt 2 Teil 3 dieses Gesetzes werden in einem jährlichen
@@ -2644,6 +2700,7 @@ das Jahr 2023 zusammen mit dem Haushaltsgesetz festgestellt.
 
 
 #### § 26d Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006500123)
 
 Die Bundesregierung legt jährlich zum Stichtag des 31. Dezember
 Rechnung über die Einnahmen und Ausgaben sowie über das Vermögen und
@@ -2653,6 +2710,7 @@ Haushaltsrechnung des Bundes beizufügen.
 
 
 #### § 26e Berichtspflichten; Parlamentarische Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006600123)
 
 (1) Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen
 Bundestages ab dem 1. Januar 2023 mindestens halbjährlich über die
@@ -2664,12 +2722,14 @@ Gesetzes.
 
 
 #### § 26f Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006700123)
 
 Die Kosten für die Verwaltung des Wirtschaftsstabilisierungsfonds nach
 Abschnitt 2 Teil 3 dieses Gesetzes trägt der Bund.
 
 
 #### § 26g Befristung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006802123)
 
 (1) Maßnahmen des Wirtschaftsstabilisierungsfonds nach § 26a Absatz 1
 Satz 1 Nummer 1 bis 4 sind bis zum Ablauf des 31. Dezember 2023
@@ -2694,9 +2754,11 @@ Zustimmung verweigert hat.
 
 
 ### Teil 4 - Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG001001123)
 
 
 #### § 27 Steuern
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006000123)
 
 (1) Sofern Abspaltungen nach § 15 Absatz 1 des
 Umwandlungssteuergesetzes eine notwendige Vorbereitung von
@@ -2717,15 +2779,18 @@ Stabilisierungsmaßnahmen entsprechend.
 
 
 #### § 28 Anwendungsvorschrift für § 27
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006100123)
 
 § 27 ist erstmals für den Veranlagungszeitraum und Erhebungszeitraum
 2020 anzuwenden.
 
 
 ## Abschnitt 3 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNG001100123)
 
 
 ### § 29 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001801123)
 
 Ein Widerspruch ist ausgeschlossen. Die Anfechtungsklage gegen
 Maßnahmen nach diesem Gesetz und den auf diesem Gesetz beruhenden
@@ -2733,6 +2798,7 @@ Rechtsverordnungen hat keine aufschiebende Wirkung.
 
 
 ### § 30 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE001901123)
 
 Das Bundesverwaltungsgericht entscheidet im ersten und letzten
 Rechtszug über öffentlich-rechtliche Streitigkeiten nicht
@@ -2743,6 +2809,7 @@ der Bundesgerichtshof in erster und letzter Instanz.
 Wirtschaftsplan des Wirtschaftsstabilisierungsfonds
 
 ### Anlage Abschnitt 2 Teil 3: Abfederung der Folgen der Energiekrise
+[Direktlink](https://www.gesetze-im-internet.de/fmstfg/BJNR198210008.html#BJNR198210008BJNE006900123)
 
 (Fundstelle: BGBl. I 2022, 1906 — 1908)
 

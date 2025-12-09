@@ -20,16 +20,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE000400314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNG000100314)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE000500314)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1983 auf das Jahr 1984 werden die Renten der gesetzlichen
@@ -39,6 +42,7 @@ nach den §§ 2 bis 6 dieses Gesetzes angepaßt.
 
 
 ### § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE000600314)
 
 (1) Renten, die
 
@@ -65,6 +69,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten und Altersgelder
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE000700314)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, und die
 Altersgelder werden dadurch angepaßt, daß der sich für den Monat Juli
@@ -73,6 +78,7 @@ erhöht wird.
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE000800314)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -91,6 +97,7 @@ zulässig.
 
 
 ### § 5 Berichtigung fehlerhafter Anpassungen
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE000900314)
 
 Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist
 sie zu berichtigen. Die Berichtigung ist nur bis zur nächsten
@@ -100,6 +107,7 @@ Rückforderung überzahlter Beträge findet nicht statt.
 
 
 ### § 6 Allgemeine Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE001000314)
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1984 beträgt
 
@@ -123,26 +131,31 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1984 beträgt
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNG000200314)
 
 
 
 ### § 7 Anpassungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE001100314)
 
 Der Anpassungsfaktor für die vom 1. Juli 1984 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0131.
 
 
 ### § 8 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE001200314)
 
 Das Pflegegeld beträgt vom 1. Juli 1984 an zwischen 389 Deutsche Mark
 und 1.551 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNG000300314)
 
 
 
 ### § 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1984/BJNR107930984.html#BJNR107930984BJNE001300314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

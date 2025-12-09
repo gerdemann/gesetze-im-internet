@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE000600311)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe b und Abs. 3 des
 Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -36,10 +37,12 @@ Landesbehörden:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNG000100311)
 
 
 
 ### § 1 Arten der Genehmigung von Fahrzeugteilen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE000700311)
 
 (1) Die in § 22a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung
 vorgeschriebene Genehmigung der Bauart von Fahrzeugteilen kann für die
@@ -56,10 +59,12 @@ Bedingungen erteilt hat.
 
 
 ## Abschnitt 2 - Allgemeine Bauartgenehmigung und Prüfzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNG000200311)
 
 
 
 ### § 2 Zulässigkeit der Bauartgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE000800311)
 
 (1) Für reihenweise zu fertigende oder gefertigte Fahrzeugteile kann
 die Bauartgenehmigung dem Hersteller nach einer auf seine Kosten
@@ -107,6 +112,7 @@ sind entsprechend anzuwenden.
 
 
 ### § 3 Anträge auf Bauartgenehmigung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE000901305)
 
 (1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich
 oder elektronisch unter Angabe der Typbezeichnung beim Kraftfahrt-
@@ -128,6 +134,7 @@ beizufügen.
 
 
 ### § 4 Erteilung der Bauartgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001001305)
 
 (1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung schriftlich
 oder elektronisch. In der Bauartgenehmigung werden der genehmigte Typ,
@@ -143,6 +150,7 @@ Nachtragsgenehmigung nicht erforderlich ist.
 
 
 ### § 5 Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001101308)
 
 (1) Für die Prüfungen sind Prüfstellen zuständig. Prüfstelle ist
 
@@ -171,6 +179,7 @@ gleichermaßen dauerhaft erreicht werden.
 
 
 ### § 6 Aufgaben der Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001200311)
 
 (1) Die Prüfstelle hat zu prüfen, ob die Fahrzeugteile den
 Anforderungen entsprechen, die zur Einhaltung der Bestimmungen über
@@ -192,6 +201,7 @@ eingebautem Zustand zu prüfen sind.
 
 
 ### § 7 Prüfzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001301311)
 
 (1) Das Prüfzeichen besteht aus einer Wellenlinie von drei Perioden,
 einem oder zwei Kennbuchstaben, einer Nummer und, soweit erforderlich,
@@ -267,6 +277,7 @@ Fahrzeugteil.
 
 
 ### § 8 Verwahrung und Rückgabe der Muster und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001400311)
 
 (1) Ist die Bauartgenehmigung erteilt worden, so ist je eine
 Ausfertigung der nach § 3 eingereichten und von der Prüfstelle
@@ -294,6 +305,7 @@ Ablehnung unanfechtbar geworden ist.
 
 
 ### § 9 Übereinstimmung der Produktion
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001500311)
 
 (1) Das Kraftfahrt-Bundesamt kann die in den einzelnen
 Produktionsstätten angewandten Verfahren zur Kontrolle der
@@ -324,6 +336,7 @@ Bauartgenehmigung oder die Prüfzeichen festgestellt wird.
 
 
 ### § 10 Nachträgliche Nebenbestimmungen, Widerruf, Rücknahme und Erlöschen der Allgemeinen Bauartgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001600311)
 
 (1) Das Kraftfahrt-Bundesamt kann zur Beseitigung aufgetretener Mängel
 und zur Gewährleistung der Vorschriftsmäßigkeit auch bereits im
@@ -375,10 +388,12 @@ unterrichten.
 
 
 ## Abschnitt 3 - Bauartgenehmigung im Einzelfall - Einzelgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNG000300311)
 
 
 
 ### § 11 Antrag auf Einzelgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001700311)
 
 Gehört eines der in § 22a Abs. 1 der Straßenverkehrs-Zulassungs-
 Ordnung genannten Fahrzeugteile nicht zu einem genehmigten Typ, so
@@ -390,6 +405,7 @@ werden. § 6 Abs. 1 ist entsprechend anzuwenden.
 
 
 ### § 12 Prüfung durch die Verwaltungsbehörde (Zulassungsbehörde)
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001800311)
 
 (1) Die Zulassungsbehörde ist an das Gutachten des amtlich anerkannten
 Sachverständigen für den Kraftfahrzeugverkehr oder der Prüfstelle
@@ -402,6 +418,7 @@ Anordnungen erlassen.
 
 
 ### § 13 Erteilung der Einzelgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE001900311)
 
 Die Verwaltungsbehörde (Zulassungsbehörde) erteilt die
 Einzelgenehmigung, indem sie auf dem Gutachten des amtlich anerkannten
@@ -416,6 +433,7 @@ ausgestellten Anhängerverzeichnissen kenntlich zu machen.
 
 
 ### § 14 Widerruf, Rücknahme und Erlöschen der Einzelgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002000311)
 
 (1) Die Einzelgenehmigung erlischt bei Rückgabe, nach Ablauf einer
 etwa festgesetzten Frist, bei Rücknahme oder Widerruf durch die nach §
@@ -434,10 +452,12 @@ unaufgefordert vorzulegen, nötigenfalls von dieser einzuziehen.
 
 
 ## Abschnitt 4 - Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNG000400311)
 
 
 
 ### § 15 Bisherige Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002100311)
 
 Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 19\. November 1998 erteilt worden sind, bleiben gültig. Die §§ 10 und
@@ -445,10 +465,12 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 ## Abschnitt 5 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNG000500311)
 
 
 
 ### § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002200311)
 
 (1) Diese Verordnung tritt am 19. November 1998 in Kraft.
 
@@ -457,6 +479,7 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 (zu § 3 Abs. 2)
 
 ### Anlage 1 Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002303311)
 
 (Fundstelle: BGBl. I 1998, 2146 - 2152)
 
@@ -1317,6 +1340,7 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
    (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)
 
 ### Anlage 2 Teil 1 Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002401311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
@@ -1534,6 +1558,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2153
 (zu § 7 Abs. 3)
 
 ### Anlage 2 Teil 2 Kennbuchstaben, die nicht mehr zugeteilt werden
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002500311)
 
 (Fundstelle: BGBl. I 1998, 2154)
 
@@ -1585,6 +1610,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2153
 (zu § 7 Abs. 1)
 
 ### Anlage 3 Muster für das Prüfzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fztv/BJNR214200998.html#BJNR214200998BJNE002600311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2155
 

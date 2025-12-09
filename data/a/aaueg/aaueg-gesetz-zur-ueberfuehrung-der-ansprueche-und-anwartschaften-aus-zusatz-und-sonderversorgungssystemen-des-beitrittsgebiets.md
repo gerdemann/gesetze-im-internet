@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNG000100307)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE000400307)
 
 (1) Dieses Gesetz gilt für Ansprüche und Anwartschaften, die aufgrund
 der Zugehörigkeit zu Zusatz- und Sonderversorgungssystemen
@@ -40,6 +42,7 @@ gilt dieser Verlust als nicht eingetreten.
 
 
 ### § 2 Grundsätze der Überführung
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE000501308)
 
 (1) Die in Anlage 2 Nr. 1 bis 3 genannten Versorgungssysteme werden
 zum 31. Dezember 1991 geschlossen.
@@ -64,6 +67,7 @@ einem Versorgungssystem erworben.
 
 
 ### § 3 Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE000600307)
 
 Für die Versicherungs- und Beitragspflicht der Personen, die am 31.
 Dezember 1991 einem Versorgungssystem angehört haben, gelten vom 1.
@@ -77,6 +81,7 @@ sinngemäß.
 
 
 ### § 4 Überführung in die Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE000703308)
 
 (1) In die Rentenversicherung werden in Zusatzversorgungssystemen
 erworbene Ansprüche auf folgende Leistungen überführt:
@@ -175,6 +180,7 @@ einem Versorgungssystem.
 
 
 ### § 5 Pflichtbeitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE000805126)
 
 (1) Zeiten der Zugehörigkeit zu einem Versorgungssystem, in denen eine
 Beschäftigung oder Tätigkeit ausgeübt worden ist, gelten als
@@ -216,10 +222,12 @@ Abs. 4.
 
 
 ## Zweiter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNG000200307)
 
 
 
 ### § 6 Art der Überführung in die Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE000911119)
 
 (1) Den Pflichtbeitragszeiten nach diesem Gesetz ist für jedes
 Kalenderjahr als Verdienst (§ 256a Abs. 2 Sechstes Buch
@@ -332,6 +340,7 @@ sind anzuwenden.
 
 
 ### § 7 Begrenzung des berücksichtigungsfähigen Entgelts
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001004308)
 
 (1) Das während der Zugehörigkeit zu dem Versorgungssystem des
 ehemaligen Ministeriums für Staatssicherheit/Amtes für Nationale
@@ -364,6 +373,7 @@ des Ministeriums des Innern.
 
 
 ### § 8 Verfahren zur Mitteilung der Überführungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001107308)
 
 (1) Der vor der Überführung der Ansprüche und Anwartschaften
 zuständige Versorgungsträger hat dem für die Feststellung der
@@ -481,6 +491,7 @@ zurückgelegter rentenrechtlicher Zeiten erforderlich sind.
 
 
 ### § 9 Auszahlung von Versorgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001203308)
 
 (1) In die Rentenversicherung werden nicht überführt:
 
@@ -538,10 +549,12 @@ die erforderliche Auskunft zu erteilen.
 
 
 ## Dritter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNG000300307)
 
 
 
 ### § 10 Vorläufige Begrenzung von Zahlbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001306308)
 
 (1) Die Summe der Zahlbeträge aus gleichartigen Renten der
 Rentenversicherung und Leistungen der Zusatzversorgungssysteme nach
@@ -602,6 +615,7 @@ Abs. 3 Satz 2 ist anzuwenden.
 
 
 ### § 11 Anpassung von Versorgungsleistungen aufgrund vorzeitiger Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001408308)
 
 (1) Die Zahlbeträge aus Versorgungsleistungen aufgrund vorzeitiger
 Entlassung bei Erreichen besonderer Altersgrenzen oder bestimmter
@@ -726,11 +740,13 @@ die Übergangsrente anzuwenden.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001501308)
 
 (weggefallen)
 
 
 ### § 13 Einstellung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001606308)
 
 (1) Vom Ersten des auf die Verkündung dieses Gesetzes folgenden
 Kalendermonats an werden folgende Leistungen nicht mehr gewährt:
@@ -771,6 +787,7 @@ Bescheides ist nicht erforderlich. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
 
 ### § 14 Übergangsregelungen für Versorgungssysteme nach Anlage 1 Nr. 23 bis 27
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001703308)
 
 (1) Bei der Überführung der in einem Versorgungssystem nach Anlage 1
 Nr. 23 bis 27 erworbenen Ansprüche wird die Rente unter
@@ -810,6 +827,7 @@ anzuwenden.
 
 
 ### § 14a Weitergeltung von Bescheiden
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE003000308)
 
 Für Pflichtbeitragszeiten nach diesem Gesetz, für die ein
 Versorgungsträger oder ein Träger der gesetzlichen Rentenversicherung
@@ -821,6 +839,7 @@ anzuwenden.
 
 
 ### § 14b Überprüfung von bestandskräftigen Bescheiden
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE003100308)
 
 Bescheide zur Überführung von Ansprüchen oder Anwartschaften aus
 Versorgungssystemen nach Anlage 1 oder Anlage 2 Nr. 1 bis 3 und
@@ -835,6 +854,7 @@ Wirkung für die Zeit nach dem 30. Juni 2004 zurückgenommen werden.
 
 
 ### § 15 Erstattung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001806126)
 
 (1) Der Bund erstattet der Deutschen Rentenversicherung Bund die
 Aufwendungen einschließlich der Verwaltungskosten, die ihr aufgrund
@@ -869,6 +889,7 @@ erforderlichen Daten teilt das Statistische Bundesamt mit.
 
 
 ### § 16 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE001907124)
 
 (1) (weggefallen)
 
@@ -905,12 +926,14 @@ zuviel gezahlter Versorgungsleistungen zu regeln.
 
 
 ### § 17 Sozialgerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002000307)
 
 Über Streitigkeiten auf Grund dieses Gesetzes entscheiden die Gerichte
 der Sozialgerichtsbarkeit.
 
 
 ### § 18 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002104126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -943,6 +966,7 @@ Ordnungswidrigkeiten.
 
 
 ### Anlage 1 Zusatzversorgungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002201308)
 
 
 1.  Zusätzliche Altersversorgung der technischen Intelligenz, eingeführt
@@ -1078,6 +1102,7 @@ Ordnungswidrigkeiten.
 
 
 ### Anlage 2 Sonderversorgungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002301308)
 
 
 1.  Sonderversorgung der Angehörigen der Nationalen Volksarmee, eingeführt
@@ -1102,6 +1127,7 @@ Ordnungswidrigkeiten.
 
 
 ### Anlage 3 Jahreshöchstverdienst nach § 6 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002402308)
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1683;
 bzgl. d. einzelnen Änderungen vgl. Fußnote
@@ -1411,11 +1437,13 @@ bzgl. d. einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002503308)
 
 (weggefallen)
 
 
 ### Anlage 5 Mindestgrenze nach § 6 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002603308)
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1683 - 1684;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1634,6 +1662,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 6 Jahreshöchstverdienst nach § 7
+[Direktlink](https://www.gesetze-im-internet.de/aa_g/BJNR016770991.html#BJNR016770991BJNE002702308)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1940
 

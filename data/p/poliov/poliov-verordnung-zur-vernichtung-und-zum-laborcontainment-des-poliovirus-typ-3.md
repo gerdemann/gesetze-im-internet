@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/poliov/BJNR118700021.html#BJNR118700021BJNE000100000)
 
 Auf Grund des § 50a Absatz 4 des Infektionsschutzgesetzes, der durch
 Artikel 1 Nummer 24 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2615)
@@ -24,6 +25,7 @@ eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Festlegung der Zeitpunkte nach § 50a Absatz 4 des Infektionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/poliov/BJNR118700021.html#BJNR118700021BJNE000200000)
 
 (1) Der Zeitpunkt, zu dem Poliowildviren Typ 3, vakzine-abgeleitete
 Polioviren Typ 3 sowie Material, das möglicherweise Poliowildviren Typ
@@ -42,11 +44,13 @@ festgelegt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/poliov/BJNR118700021.html#BJNR118700021BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/poliov/BJNR118700021.html#BJNR118700021BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

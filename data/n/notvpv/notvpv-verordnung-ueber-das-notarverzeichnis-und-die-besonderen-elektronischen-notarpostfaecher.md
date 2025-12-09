@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000100000)
 
 Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des
 § 78n Absatz 5 der Bundesnotarordnung, die durch Artikel 1 Nummer 15
@@ -28,9 +29,11 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## Teil 1 - Notarverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNG000100000)
 
 
 ### § 1 Eintragung von Amtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000302125)
 
 (1) In das Notarverzeichnis sind Personen einzutragen, die bestellt
 sind zum
@@ -91,6 +94,7 @@ als Amtspersonen einzutragen.
 
 
 ### § 2 Angaben zu den Amtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000400000)
 
 (1) Zu jeder Amtsperson sind alle amtlichen Tätigkeiten einzutragen,
 die diese ausübt oder ausgeübt hat.
@@ -114,6 +118,7 @@ sie solche mitgeteilt hat.
 
 
 ### § 3 Angaben zu den amtlichen Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000503125)
 
 (1) Zu jeder amtlichen Tätigkeit einer Amtsperson sind folgende
 Angaben einzutragen:
@@ -170,6 +175,7 @@ Verwahrzuständigkeit im Sinne des Satzes 1 unberührt.
 
 
 ### § 4 Frühere Amtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000601125)
 
 Zu früheren Amtspersonen, die nach § 1 Absatz 2 eingetragen sind,
 werden nur die Angaben nach § 78l Absatz 3 Satz 1 Nummer 2, 3 und 5
@@ -179,6 +185,7 @@ eingetragen.
 
 
 ### § 5 Notarvertretung
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000703125)
 
 (1) Die Bestellung einer Notarvertretung ist bei derjenigen amtlichen
 Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz
@@ -212,6 +219,7 @@ Notar erfolgen wird.
 
 
 ### § 6 Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000801125)
 
 (1) Die Notarkammern nehmen die ihnen obliegenden Eintragungen in das
 Notarverzeichnis unverzüglich vor, nachdem sie von den einzutragenden
@@ -243,6 +251,7 @@ unverzüglich vor, nachdem ihr die Mitteilungen zugegangen sind.
 
 
 ### § 7 Berichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE000900000)
 
 Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig
 oder unvollständig sind, hat sie diese unverzüglich zu berichtigen
@@ -254,6 +263,7 @@ Auskünfte einzuholen.
 
 
 ### § 8 Löschungen
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001001125)
 
 (1) Wird ein besonderes elektronisches Notarpostfach gelöscht (§ 20),
 so löscht die Bundesnotarkammer dessen Bezeichnung unverzüglich aus
@@ -268,6 +278,7 @@ Angaben nach § 2 Absatz 5.
 
 
 ### § 9 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001103125)
 
 (1) Die Einsichtnahme in das Notarverzeichnis ist ausschließlich über
 das Internet möglich. Sie muss kostenfrei und ohne vorherige
@@ -292,6 +303,7 @@ erforderlich ist.
 
 
 ### § 10 Suchfunktion
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001201125)
 
 (1) Die Bundesnotarkammer hat die Einsichtnahme in das
 Notarverzeichnis über Funktionen zur Suche der in § 1 Absatz 1 Nummer
@@ -327,6 +339,7 @@ Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
 
 
 ### § 11 Einsehbarkeit und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001300000)
 
 (1) Die Bundesnotarkammer hat durch geeignete organisatorische und dem
 aktuellen Stand entsprechende technische Maßnahmen
@@ -353,9 +366,11 @@ unabhängigen Sicherungsmitteln zugegriffen werden kann.
 
 
 ## Teil 2 - Besonderes elektronisches Notarpostfach
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNG000200000)
 
 
 ### § 12 Besonderes elektronisches Notarpostfach
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001400000)
 
 (1) Das besondere elektronische Notarpostfach dient der elektronischen
 Kommunikation der Postfachinhaber mit den Gerichten auf einem sicheren
@@ -376,6 +391,7 @@ ermöglicht.
 
 
 ### § 13 Führung der Postfächer
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001501125)
 
 (1) Die Bundesnotarkammer hat die besonderen elektronischen
 Notarpostfächer auf der Grundlage des Protokollstandards „Online
@@ -396,6 +412,7 @@ Nachricht von dem Postfachinhaber selbst versandt wurde.
 
 
 ### § 14 Einrichtung und Aktivierung eines Postfachs
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001601125)
 
 (1) Die Bundesnotarkammer richtet für jede ausgeübte amtliche
 Tätigkeit eines Notars oder Notariatsverwalters ein besonderes
@@ -415,6 +432,7 @@ diesen verwendet werden kann.
 
 
 ### § 15 Weitere Zugangsberechtigungen zum Postfach
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001700000)
 
 (1) Der Postfachinhaber kann anderen Personen unterschiedlich weit
 reichende Zugangsberechtigungen zu seinem besonderen elektronischen
@@ -434,6 +452,7 @@ Personen jederzeit geändert oder widerrufen werden.
 
 
 ### § 16 Zugang zum Postfach
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001801125)
 
 (1) Die Anmeldung am besonderen elektronischen Notarpostfach erfolgt
 mit mindestens zwei voneinander unabhängigen Sicherungsmitteln.
@@ -454,12 +473,14 @@ Aufwand für die erneute Anmeldung abzuwägen.
 
 
 ### § 17 Automatisches Löschen von Nachrichten
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE001900000)
 
 Nachrichten dürfen frühestens 120 Tage nach ihrem Eingang automatisch
 gelöscht werden.
 
 
 ### § 18 Sperrung des Postfachs
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE002000000)
 
 (1) Wird das Ende einer amtlichen Tätigkeit in das Notarverzeichnis
 eingetragen, sperrt die Bundesnotarkammer unverzüglich das zugehörige
@@ -490,6 +511,7 @@ Grund für die Sperrung nicht bestanden hat oder entfallen ist.
 
 
 ### § 19 Vorläufige Amtsenthebung
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE002101125)
 
 (1) Wird die vorläufige Amtsenthebung einer Amtsperson in das
 Notarverzeichnis eingetragen, hebt die Bundesnotarkammer unverzüglich
@@ -516,6 +538,7 @@ beschränken.
 
 
 ### § 20 Löschung des Postfachs
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE002200000)
 
 Gesperrte besondere elektronische Notarpostfächer werden
 einschließlich der darin gespeicherten Nachrichten sechs Monate nach
@@ -523,14 +546,17 @@ dem Ende der amtlichen Tätigkeit gelöscht.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNG000300000)
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE002300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/notvpv/BJNR018700019.html#BJNR018700019BJNE002400000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/klwalabkg/BJNR111320993.html#BJNR111320993BJNE000200307)
 
 Dem in New York am 9. April 1992 von der Bundesrepublik Deutschland
 unterzeichneten Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale
@@ -29,6 +30,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/klwalabkg/BJNR111320993.html#BJNR111320993BJNE000303377)
 
 Das Bundesamt für Naturschutz kann auf Antrag abweichend von § 45
 Absatz 7 des Bundesnaturschutzgesetzes für Forschungszwecke Ausnahmen
@@ -44,12 +46,14 @@ sobald sie sich dort selbständig erhalten können.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/klwalabkg/BJNR111320993.html#BJNR111320993BJNE000402119)
 
 Koordinierungsbehörde im Sinne der Nummer 2.3 des Abkommens ist das
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/klwalabkg/BJNR111320993.html#BJNR111320993BJNE000500307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

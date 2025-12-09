@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 4110-4-13 v. 20.7.2007 I 1432 (WpDVerOV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000100000)
 
 Es verordnet
 
@@ -76,6 +77,7 @@ Es verordnet
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000200000)
 
 (1) Die Vorschriften dieser Verordnung sind anzuwenden auf
 
@@ -194,6 +196,7 @@ Wertpapierhandelsgesetzes auf diese Anwendung finden.
 
 
 ## § 2 Kunden
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000301360)
 
 (1) Wertpapierdienstleistungsunternehmen müssen die notwendigen
 organisatorischen Vorkehrungen treffen, insbesondere Grundsätze
@@ -253,6 +256,7 @@ kann in standardisierter Form erfolgen.
 
 
 ## § 3 Kundeninformationen über das Wertpapierdienstleistungsunternehmen und die Wertpapierdienstleistung im Rahmen der Unabhängigen Honorar-Anlageberatung
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000400000)
 
 (1) Die Information nach § 64 Absatz 6 Satz 1 des
 Wertpapierhandelsgesetzes ist dem Kunden für jedes zu empfehlende
@@ -272,6 +276,7 @@ Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie
 
 
 ## § 4 Informationsblätter
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000502123)
 
 (1) Das nach § 64 Absatz 2 Satz 1 Nummer 1 des
 Wertpapierhandelsgesetzes zur Verfügung zu stellende Informationsblatt
@@ -318,6 +323,7 @@ Verordnung ersichtliche Form.
 
 
 ## § 5 Aufhebung der Bekanntmachungspflicht nach § 69 Absatz 2 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000600000)
 
 Eine Aufhebung der Bekanntmachungspflicht nach § 69 Absatz 2 Satz 3
 des Wertpapierhandelsgesetzes setzt voraus, dass die Mindestvolumina
@@ -334,6 +340,7 @@ Internalisierer (ABl. L 87 vom 31.3.2017, S. 387) genannt sind.
 
 
 ## § 6 Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000700000)
 
 (1) Als geringfügige nichtmonetäre Vorteile im Sinne des § 64 Absatz 7
 des Wertpapierhandelsgesetzes kommen, sofern sie die in § 64 Absatz 7
@@ -489,6 +496,7 @@ Wertpapierhandelsgesetzes müssen Wertpapierdienstleistungsunternehmen
 
 
 ## § 7 Zuwendungen im Zusammenhang mit Analysen
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000800000)
 
 (1) Für die Zwecke des § 70 Absatz 2 Satz 2 Nummer 2 Buchstabe a des
 Wertpapierhandelsgesetzes darf eine spezielle Analysegebühr
@@ -577,6 +585,7 @@ Wertpapierhandelsgesetzes müssen auch Informationen enthalten zu:
 
 
 ## § 8 Anforderungen an die Unabhängige Honorar-Anlageberatung
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE000900000)
 
 Um die Unabhängige Honorar-Anlageberatung von der übrigen
 Anlageberatung nach § 80 Absatz 7 des Wertpapierhandelsgesetzes zu
@@ -593,6 +602,7 @@ die Anforderungen gemäß Artikel 53 Absatz 3 Satz 2 der Verordnung (EU)
 
 
 ## § 9 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001000000)
 
 (1) Vertriebsvorgaben im Sinne des § 80 Absatz 1 Satz 2 Nummer 3 des
 Wertpapierhandelsgesetzes, die zur Umsetzung oder Überwachung der
@@ -634,6 +644,7 @@ Verlängerung der Aufbewahrungsfrist erforderlich machen.
 
 
 ## § 10 Getrennte Vermögensverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001100000)
 
 (1) Wertpapierdienstleistungsunternehmen müssen bei der Auswahl,
 Beauftragung und regelmäßigen Überwachung von Dritten, bei denen sie
@@ -913,6 +924,7 @@ zuständigen Abwicklungsbehörde auf Anfrage zur Verfügung zu stellen:
 
 
 ## § 11 Produktfreigabeverfahren für Konzepteure von Finanzinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001201360)
 
 (1) Das Konzipieren von Finanzinstrumenten im Sinne des § 80 Absatz 9
 des Wertpapierhandelsgesetzes umfasst das Neuschaffen, Entwickeln,
@@ -1161,6 +1173,7 @@ ergreifen, beispielsweise
 
 
 ## § 12 Produktfreigabeverfahren für Vertriebsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001302360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen hat bei der Auswahl
 derjenigen Finanzinstrumente, die von diesem oder anderen
@@ -1334,6 +1347,7 @@ verpflichtet,
 
 
 ## § 13 Strukturierte Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001400000)
 
 Die §§ 11 und 12 dieser Verordnung gelten entsprechend für den Verkauf
 von und die Beratung zu strukturierten Einlagen durch
@@ -1342,6 +1356,7 @@ strukturierte Einlagen ausgeben.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001500000)
 
 Diese Verordnung tritt am 3. Januar 2018 in Kraft. Gleichzeitig tritt
 die Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung
@@ -1354,6 +1369,7 @@ Standardisiertes Informationsblatt
 für Aktien am organisierten Markt
 
 ## Anlage nach § 64 Absatz 2 Satz 3 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpdverov_2018/BJNR356600017.html#BJNR356600017BJNE001600119)
 
 (Fundstelle: BGBl. I 2018, 542 – 543)
 

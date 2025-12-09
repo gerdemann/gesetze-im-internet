@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000100000)
 
 Auf Grund des § 11a Absatz 4 Satz 1 des Vermögensanlagengesetzes, der
 durch Artikel 2 Nummer 13 des Gesetzes vom 3. Juli 2015 (BGBl. I S.
@@ -28,6 +29,7 @@ Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000200000)
 
 Diese Verordnung regelt den Mindestinhalt, die Art, die Sprache, den
 Umfang und die Form
@@ -43,6 +45,7 @@ Umfang und die Form
 
 
 ## § 2 Inhalt der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000301116)
 
 In der Veröffentlichung nach § 11a Absatz 3 Satz 1 des Gesetzes sind
 anzugeben:
@@ -111,6 +114,7 @@ hat in deutscher Sprache zu erfolgen.
 
 
 ## § 3 Art der Veröffentlichung von Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000400000)
 
 (1) Bei der Veröffentlichung nach § 11a Absatz 3 Satz 1 des Gesetzes
 ist zu gewährleisten, dass
@@ -183,6 +187,7 @@ leicht aufzufinden sein muss.
 
 
 ## § 4 Form und Inhalt der Mitteilung der Tatsache und der Veröffentlichung an die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000500000)
 
 (1) Mitteilungen an die Bundesanstalt nach § 11a Absatz 2 Satz 1 und
 Absatz 3 Satz 2 des Gesetzes können durch den Emittenten oder einen
@@ -231,6 +236,7 @@ sowie des genauen Zeitpunkts der Versendung an die Medien zu erfolgen.
 
 
 ## § 5 Bekanntmachung der Tatsache durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000601116)
 
 (1) Die Mitteilung nach § 11a Absatz 2 Satz 1 des Gesetzes gilt bei
 der Bundesanstalt als ordnungsgemäß eingegangen, wenn
@@ -255,6 +261,7 @@ spätestens am dritten Arbeitstag nach Eingang mit.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vermvermiv/BJNR143500015.html#BJNR143500015BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

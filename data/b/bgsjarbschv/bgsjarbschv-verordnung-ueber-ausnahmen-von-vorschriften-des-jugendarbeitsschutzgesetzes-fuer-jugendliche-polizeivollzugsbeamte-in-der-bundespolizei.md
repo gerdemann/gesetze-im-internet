@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgsjarbschv/BJNR020710977.html#BJNR020710977BJNE000100303)
 
 Auf Grund des § 80a Abs. 2 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 3. Januar 1977 (BGBl. I S. 1) verordnet die
@@ -28,6 +29,7 @@ Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bgsjarbschv/BJNR020710977.html#BJNR020710977BJNE000201310)
 
 Für jugendliche Polizeivollzugsbeamte in der Bundespolizei, die
 Verbänden oder Einheiten angehören, werden folgende Ausnahmen von den
@@ -123,6 +125,7 @@ sicherzustellen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bgsjarbschv/BJNR020710977.html#BJNR020710977BJNE000301310)
 
 Müssen aus zwingenden dienstlichen Gründen jugendliche
 Polizeivollzugsbeamte in der Bundespolizei, die die Grundausbildung
@@ -143,6 +146,7 @@ sind, ist nicht zulässig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bgsjarbschv/BJNR020710977.html#BJNR020710977BJNE000402311)
 
 Ausnahmen von den Vorschriften des Jugendarbeitsschutzgesetzes in dem
 in § 2 Satz 1 genannten Umfang sind auch für jugendliche
@@ -160,6 +164,7 @@ Belastungen verbunden sind, ist nicht zulässig.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bgsjarbschv/BJNR020710977.html#BJNR020710977BJNE000501310)
 
 Mehrarbeit, die jugendliche Polizeivollzugsbeamte in der Bundespolizei
 in den Fällen der §§ 1 bis 3 über die Arbeitszeit nach § 8 Abs. 1 des
@@ -168,6 +173,7 @@ Wochen durch Dienstbefreiung auszugleichen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bgsjarbschv/BJNR020710977.html#BJNR020710977BJNE000600303)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

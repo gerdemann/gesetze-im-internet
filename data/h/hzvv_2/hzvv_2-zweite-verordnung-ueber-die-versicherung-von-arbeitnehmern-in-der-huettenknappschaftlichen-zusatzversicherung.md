@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_2/BJNR031180976.html#BJNR031180976BJNE000100326)
 
 Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen
 Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (Bundesgesetzbl. I
@@ -28,6 +29,7 @@ Sozialversicherung Behinderter vom 7. Mai 1975 (Bundesgesetzbl. I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_2/BJNR031180976.html#BJNR031180976BJNE000200326)
 
 Die in der Rentenversicherung der Arbeiter oder der Rentenversicherung
 der Angestellten versicherten Arbeitnehmer einschließlich der zu ihrer
@@ -40,6 +42,7 @@ befreit sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_2/BJNR031180976.html#BJNR031180976BJNE000300326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 23 Satz 2
@@ -48,11 +51,13 @@ Dezember 1971 (Bundesgesetzbl. I S. 2104) auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_2/BJNR031180976.html#BJNR031180976BJNE000400326)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1976 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_2/BJNR031180976.html#BJNR031180976BJNE000500326)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

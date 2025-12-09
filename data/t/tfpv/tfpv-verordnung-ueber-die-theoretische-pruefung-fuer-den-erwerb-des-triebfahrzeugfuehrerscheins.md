@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNG000100000)
 
 
 ### § 1 Geltungsbereich und zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000101311)
 
 (1) Diese Verordnung regelt die theoretische Prüfung für den Erwerb
 des Triebfahrzeugführerscheins, die Zulassung zur Prüfung, den Ablauf
@@ -34,6 +36,7 @@ Bundesamt.
 
 
 ### § 2 Zweck der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000200000)
 
 In der theoretischen Prüfung ist festzustellen, ob der Prüfling über
 die Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins nach
@@ -41,6 +44,7 @@ Anlage 5 der Triebfahrzeugführerscheinverordnung verfügt.
 
 
 ### § 3 Durchführung der Prüfung, Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000301311)
 
 (1) Die Prüfung wird von Personen oder Stellen durchgeführt, die nach
 § 15 der Triebfahrzeugführerscheinverordnung von der zuständigen
@@ -54,9 +58,11 @@ der Prüfung eingehalten werden.
 
 
 ## Zweiter Abschnitt - Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNG000200000)
 
 
 ### § 4 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000400000)
 
 (1) Der Prüfungsbewerber oder sein Bevollmächtigter muss die Zulassung
 zur Prüfung für den Erwerb des Triebfahrzeugführerscheins schriftlich
@@ -110,6 +116,7 @@ bei der Prüfungsorganisation beantragen.
 
 
 ### § 5 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000500000)
 
 (1) Über die Zulassung zur Prüfung entscheidet die
 Prüfungsorganisation. Sie kann im Einzelfall Ausnahmen von den
@@ -146,9 +153,11 @@ Ausnahme ist gesondert zu begründen.
 
 
 ## Dritter Abschnitt - Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNG000300000)
 
 
 ### § 6 Aufgaben der Prüfungsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000600000)
 
 Die Prüfungsorganisation
 
@@ -188,6 +197,7 @@ Die Prüfungsorganisation
 
 
 ### § 7 Anforderungen an die Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000702311)
 
 (1) Die Prüfer müssen die Anforderungen nach § 15 Absatz 2 Satz 1
 Nummer 3 bis 5 und 7 bis 11 der Triebfahrzeugführerscheinverordnung
@@ -197,6 +207,7 @@ erfüllen.
 
 
 ### § 8 Gliederung der Prüfung, Prüfungssprache
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000801311)
 
 (1) Die Gliederung der Prüfung richtet sich nach § 7 Absatz 1 Satz 1
 der Triebfahrzeugführerscheinverordnung. Der schriftliche Teil der
@@ -230,6 +241,7 @@ sicherstellen, dass
 
 
 ### § 9 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE000901311)
 
 (1) Der schriftliche Teil der Prüfung umfasst Aufgaben zu den in
 Anlage 5 der Triebfahrzeugführerscheinverordnung genannten
@@ -267,6 +279,7 @@ damit für den mündlichen Teil der Prüfung nicht zugelassen.
 
 
 ### § 10 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001001311)
 
 (1) Die Prüfungsorganisation bestimmt für den mündlichen Teil der
 Prüfung zwei Prüfer, davon einen als Vorsitzenden.
@@ -294,6 +307,7 @@ Wochen nach Abschluss des Prüfungsteils an die zuständige Behörde.
 
 
 ### § 11 Ausweispflicht und Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001100000)
 
 (1) Der Prüfling muss sich auf Verlangen der Prüfer oder der
 Aufsichtsperson über seine Person ausweisen.
@@ -315,6 +329,7 @@ Folgendes zu belehren:
 
 
 ### § 12 Täuschungen und Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001200000)
 
 (1) Wer täuscht, eine Täuschung versucht oder den ordnungsgemäßen
 Ablauf des schriftlichen oder mündlichen Teils der Prüfung stört, kann
@@ -329,6 +344,7 @@ Ausschluss wiederholen.
 
 
 ### § 13 Rücktritt und Nichterscheinen
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001300000)
 
 (1) Die Prüfung gilt als nicht angetreten, wenn der Prüfling
 
@@ -375,6 +391,7 @@ Prüfungsorganisation.
 
 
 ### § 14 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001400000)
 
 Die Prüfer haben gegenüber Dritten Verschwiegenheit zu wahren. Mit
 Einwilligung des Prüflings kann die Prüfungsorganisation das Ergebnis
@@ -382,9 +399,11 @@ der Prüfung der Ausbildungsorganisation des Prüflings mitteilen.
 
 
 ## Vierter Abschnitt - Prüfungsleistungen: Bewertung und Anerkennung; Prüfungsbescheinigung; Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNG000400000)
 
 
 ### § 15 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001500000)
 
 Der schriftliche und der mündliche Teil der Prüfung sind von den
 Prüfern mit jeweils einer Dezimalnote nach Anlage 2 zu bewerten. Die
@@ -392,6 +411,7 @@ Prüfer müssen jeden Prüfungsteil einvernehmlich bewerten.
 
 
 ### § 16 Feststellen und Bekanntgeben des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001600000)
 
 (1) Die theoretische Prüfung ist bestanden, wenn nach § 7 Absatz 4
 Satz 1 und 2 der Triebfahrzeugführerscheinverordnung in Verbindung mit
@@ -463,6 +483,7 @@ den Vorsitzenden bekanntzugeben.
 
 
 ### § 17 Prüfungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001700000)
 
 Wer die theoretische Prüfung bestanden hat, erhält von der
 Prüfungsorganisation eine Prüfungsbescheinigung nach dem Muster der
@@ -471,6 +492,7 @@ Abschluss der Prüfung ausgestellt werden.
 
 
 ### § 18 Nicht bestandene Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001801311)
 
 Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen
 der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin
@@ -480,6 +502,7 @@ nach § 20 ist hinzuweisen.
 
 
 ### § 19 Anerkennung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE001900000)
 
 (1) Bereits erbrachte Prüfungsleistungen können anerkannt werden,
 soweit Gleichwertigkeit festgestellt ist. Gleichwertigkeit ist
@@ -497,9 +520,11 @@ in deutscher Sprache vorzulegen.
 
 
 ## Fünfter Abschnitt - Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNG000500000)
 
 
 ### § 20 Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002000000)
 
 (1) Eine nicht bestandene theoretische Prüfung kann zweimal wiederholt
 werden (Wiederholungsprüfung). Die erste Wiederholungsprüfung muss
@@ -525,6 +550,7 @@ nicht bestanden. Eine weitere Wiederholungsprüfung ist nicht zulässig.
 
 
 ### § 21 Erneute Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002100000)
 
 (1) Die endgültig nicht bestandene theoretische Prüfung zum Erwerb des
 Triebfahrzeugführerscheins kann erneut abgelegt werden, wenn sich der
@@ -538,6 +564,7 @@ vorzulegen hat.
 
 
 ### § 22 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002200000)
 
 (1) Auf Antrag ist dem Prüfling nach Beendigung der theoretischen
 Prüfung Einsicht in seine Prüfungsunterlagen durch die
@@ -555,6 +582,7 @@ löschen.
 
 
 ### § 23 Informationsrechte der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002300000)
 
 Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 
@@ -580,6 +608,7 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 (zu § 9 Absatz 3 und § 10 Absatz 6)
 
 ### Anlage 1 Prüfungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002401311)
 
 (Fundstelle: BGBl. I 2013, 4013; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -764,6 +793,7 @@ Fußnote)
 [^f783331_02_BJNR400810013BJNE002401311]: 
 
 ### Anlage 2 (zu den §§ 15, 16 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002500000)
 
 (Fundstelle: BGBl. I 2013, 4014)
 
@@ -870,6 +900,7 @@ verwendet werden.
 (zu § 17)
 
 ### Anlage 3 Muster
+[Direktlink](https://www.gesetze-im-internet.de/tfpv/BJNR400810013.html#BJNR400810013BJNE002601311)
 
 (Fundstelle: BGBl. I 2013, 4015; bzgl. der einzelnen Änderungen vgl.
 Fußnote)

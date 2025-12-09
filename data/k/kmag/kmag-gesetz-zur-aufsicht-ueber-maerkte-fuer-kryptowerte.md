@@ -20,12 +20,15 @@ Geändert durch
 
 
 ## Kapitel 1 - Allgemeine Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000100000)
 
 
 ### Abschnitt 1 - Ziel, Geltungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000200000)
 
 
 #### § 1 Ziel und Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000200000)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2023/1114
 des Europäischen Parlaments und des Rates vom 31. Mai 2023 über Märkte
@@ -42,6 +45,7 @@ Bundesanstalt nach anderen Rechtsvorschriften unberührt.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000301000)
 
 (1) Kryptowerte sind solche im Sinne des Artikels 3 Absatz 1 Nummer 5
 der Verordnung (EU) 2023/1114.
@@ -108,9 +112,11 @@ Begriffsbestimmungen des Artikels 3 Absatz 1 der Verordnung (EU)
 
 
 ### Abschnitt 2 - Aufgaben und allgemeine Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000300000)
 
 
 #### § 3 Aufgaben der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000401128)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 93
 Absatz 1 der Verordnung (EU) 2023/1114. Sie übt die Aufsicht aus
@@ -175,6 +181,7 @@ Dienstleistungen nach Artikel 59 Absatz 1 Buchstabe b der Verordnung
 
 
 #### § 4 Allgemeine Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000501128)
 
 (1) Die Bundesanstalt kann im Rahmen der ihr gesetzlich zugewiesenen
 Aufgaben Anordnungen gegenüber Instituten und anderen betroffenen
@@ -331,9 +338,11 @@ erheben, speichern und verwenden.
 
 
 ### Abschnitt 3 - Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000400000)
 
 
 #### § 5 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000601128)
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen, einschließlich
 der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage des
@@ -355,9 +364,11 @@ der Androhung und Festsetzung von Zwangsmitteln, auf der Grundlage der
 
 
 ### Abschnitt 4 - Zusammenarbeit der Bundesanstalt mit anderen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000500000)
 
 
 #### § 6 Zusammenarbeit mit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000701128)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der
 Durchführung der Verordnung (EU) 2023/1114 und der Verordnung (EU)
@@ -443,6 +454,7 @@ erforderlich ist.
 
 
 #### § 7 Zusammenarbeit mit sonstigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000800000)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten im Rahmen
 ihrer Tätigkeit nach der Verordnung (EU) 2023/1114 und diesem Gesetz
@@ -464,6 +476,7 @@ gelten in Bezug auf die Aufsicht nach Titel VI der Verordnung (EU)
 
 
 #### § 8 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE000901128)
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
@@ -705,12 +718,15 @@ anzuwenden, soweit Tatsachen betroffen sind,
 
 
 ## Kapitel 2 - Durchsetzung der Zulassungsvorbehalte
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000600000)
 
 
 ### Abschnitt 1 - Einschreiten bei Tätigkeit ohne Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000700000)
 
 
 #### § 9 Einschreiten gegen unerlaubte Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001001128)
 
 (1) Die Bundesanstalt kann die sofortige Einstellung des
 Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte
@@ -781,6 +797,7 @@ Unabhängigkeit des Abwicklers zu besorgen ist.
 
 
 #### § 10 Verfolgung unerlaubter Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001100000)
 
 (1) Steht es fest oder rechtfertigen Tatsachen die Annahme, dass ein
 Unternehmen unerlaubte Geschäfte nach § 9 Absatz 1 Satz 1 erbringt
@@ -920,9 +937,11 @@ Grundrecht des Brief- und Fernmeldegeheimnisses nach Artikel 10 Absatz
 
 
 ### Abschnitt 2 - Erteilung und Entzug der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000800000)
 
 
 #### § 11 Ergänzende Bestimmungen zum Zulassungsverfahren; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001202128)
 
 (1) Die Bundesanstalt kann zusätzlich zu den Fällen des Artikels 21
 Absatz 2 und des Artikels 63 Absatz 8 und 10 der Verordnung (EU)
@@ -975,6 +994,7 @@ Deutschen Bundesbank ergeht.
 
 
 #### § 12 Ergänzende Bestimmungen zum Entzug der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001301128)
 
 (1) Die Bundesanstalt kann zusätzlich zu den Fällen des Artikels 24
 Absatz 1 und 2 und des Artikels 64 Absatz 1 und 2 der Verordnung (EU)
@@ -1042,6 +1062,7 @@ keine Anwendung.
 
 
 #### § 13 Befugnisse nach Entzug oder Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001401128)
 
 (1) Entzieht die Bundesanstalt die Zulassung oder erlischt die
 Zulassung nach § 12 Absatz 4, so kann die Bundesanstalt bei
@@ -1086,6 +1107,7 @@ von Kryptowerte-Dienstleistungen einholen.
 
 
 #### § 14 Bekanntmachungen und Registervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001501128)
 
 (1) Die Bundesanstalt hat die Erteilung, den Entzug und das Erlöschen
 einer Zulassung zum öffentlichen Angebot vermögenswertreferenzierter
@@ -1099,9 +1121,11 @@ nachgewiesen wurde.
 
 
 ## Kapitel 3 - Maßnahmen im Hinblick auf das öffentliche Angebot und die Zulassung zum Handel
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG000900000)
 
 
 ### § 15 Aussetzung und Untersagung eines öffentlichen Angebots oder der Zulassung zum Handel
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001600000)
 
 (1) Die Bundesanstalt kann anordnen, dass ein öffentliches Angebot
 oder die Zulassung zum Handel für bis zu 30 Tage auszusetzen ist, wenn
@@ -1135,6 +1159,7 @@ Handelsplattform für Kryptowerte ergehen.
 
 
 ### § 16 Befugnisse hinsichtlich Kryptowerte-Whitepapers und modifizierter Kryptowerte-Whitepapers
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001701128)
 
 (1) Die Bundesanstalt kann von Anbietern und von Antragstellern
 verlangen, ihr Kryptowerte-Whitepaper oder ihr modifiziertes
@@ -1155,6 +1180,7 @@ für Kryptowerte erlassen.
 
 
 ### § 17 Befugnisse hinsichtlich Marketingmitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001801128)
 
 (1) Entspricht eine Marketingmitteilung nicht den Vorgaben des
 Artikels 7, des Artikels 29 oder des Artikels 53 der Verordnung (EU)
@@ -1173,6 +1199,7 @@ auch ohne den konkreten Verdacht eines Verstoßes gegen die Verordnung
 
 
 ### § 18 Bekanntmachung marktrelevanter Informationen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE001900000)
 
 Die Bundesanstalt kann zur Gewährleistung des Schutzes der Interessen
 der Inhaber von Kryptowerten, insbesondere der Kleinanleger, oder des
@@ -1182,6 +1209,7 @@ Handel zugelassenen Kryptowerte beeinflussen könnten, bekannt machen.
 
 
 ### § 19 Haftung bei fehlendem Kryptowerte-Whitepaper
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002000000)
 
 (1) Ist ein Kryptowerte-Whitepaper entgegen Artikel 9, 28 oder 51
 Absatz 13 der Verordnung (EU) 2023/1114 nicht veröffentlicht worden,
@@ -1213,12 +1241,15 @@ beim Erwerb kannte.
 
 
 ## Kapitel 4 - Beaufsichtigung von Instituten
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001000000)
 
 
 ### Abschnitt 1 - Allgemeine Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001100000)
 
 
 #### § 20 Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002100000)
 
 (1) Ein Institut, die Mitglieder seiner Organe und seine Beschäftigten
 haben der Bundesanstalt, den Personen und Einrichtungen, derer sich
@@ -1255,6 +1286,7 @@ hinzuweisen.
 
 
 #### § 21 Anzeige- und Meldewesen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002202128)
 
 (1) Ein Institut hat der Bundesanstalt und der Deutschen Bundesbank
 unverzüglich anzuzeigen:
@@ -1413,6 +1445,7 @@ mit der Deutschen Bundesbank ergehen.
 
 
 #### § 22 Maßnahmen hinsichtlich Organversammlungen von Instituten
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002301128)
 
 (1) Die Bundesanstalt kann zu den Hauptversammlungen,
 Generalversammlungen oder Gesellschafterversammlungen sowie zu den
@@ -1445,6 +1478,7 @@ Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel
 
 
 #### § 23 Abberufung von Mitgliedern des Leitungsorgans; Übertragung von Organbefugnissen auf Sonderbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002401128)
 
 (1) Die Bundesanstalt kann ein Mitglied des Leitungsorgans eines
 Instituts verwarnen, wenn dieses Mitglied gegen die Bestimmungen der
@@ -1526,6 +1560,7 @@ gilt entsprechend.
 
 
 #### § 24 Weitere Maßnahmen gegen Mitglieder des Leitungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002501128)
 
 (1) Im Falle eines Verstoßes gegen die Artikel 16, 48, 59, 60, oder
 die Artikel 65 bis 83 oder im Falle des Vorliegens der Voraussetzungen
@@ -1564,6 +1599,7 @@ die für den Verstoß verantwortlich ist.
 
 
 #### § 25 Ergänzende Bestimmungen zur Übernahme von Instituten
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002601128)
 
 (1) Die Verpflichtung nach § 20 Absatz 1 gegenüber der Bundesanstalt
 und der Deutschen Bundesbank gilt auch für
@@ -1714,6 +1750,7 @@ begründenden Unternehmen beteiligt ist, nicht zu befolgen.
 
 
 #### § 26 Digitale operationale Resilienz
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002701000)
 
 (1) Die Bundesanstalt kann unbeschadet sonstiger in diesem Gesetz
 geregelter Befugnisse bei Verstößen gegen die Verordnung (EU)
@@ -1758,9 +1795,11 @@ Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel
 
 
 ### Abschnitt 2 - Sonderbestimmungen für Emittenten vermögenswertreferenzierter Token und E-Geld-Token
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001200000)
 
 
 #### § 27 Mindeststückelung; Betragsbegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002800000)
 
 (1) Die Bundesanstalt kann Änderungen an dem nach Artikel 23 Absatz 4
 der Verordnung (EU) 2023/1114 eingereichten Plan von einem Emittenten
@@ -1786,6 +1825,7 @@ Mitgliedstaates lauten.
 
 
 #### § 28 Ergänzende Bestimmungen zum Reservevermögen und zur Sicherung entgegengenommener Geldbeträge
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE002900000)
 
 (1) Institute im Sinne des § 2 Absatz 4 Nummer 1 halten das
 Reservevermögen nach Artikel 36 der Verordnung (EU) 2023/1114 getrennt
@@ -1855,9 +1895,11 @@ investiert wurden.
 
 
 ### Abschnitt 3 - Sonderbestimmungen für Anbieter von Kryptowerte-Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001301000)
 
 
 #### § 29 Aussetzung und Untersagung der Erbringung von Kryptowerte-Dienstleistungen; Einschreiten bei Erbringung von Kryptowerte-Dienstleistungen entgegen Artikel 60 der Verordnung (EU) 2023/1114
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003001000)
 
 (1) Die Bundesanstalt kann gegenüber Anbietern von Kryptowerte-
 Dienstleistungen anordnen, dass diese Anbieter ihre Tätigkeit
@@ -1898,6 +1940,7 @@ Kryptowerte-Dienstleistungen anordnen.
 
 
 #### § 30 Bekanntmachung wesentlicher Informationen zu Anbietern von Kryptowerte-Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003100000)
 
 Die Bundesanstalt kann zur Gewährleistung des Schutzes der Interessen
 der Kunden von Anbietern von Kryptowerte-Dienstleistungen,
@@ -1912,9 +1955,11 @@ Verlangen der Bundesanstalt vorzuschießen.
 
 
 ### Abschnitt 4 - Handel auf Handelsplattformen für Kryptowerte und Verhinderung von Marktmissbrauch auf Handelsplattformen für Kryptowerte
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001401000)
 
 
 #### § 31 Verfolgung von Marktmissbrauch
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003201000)
 
 (1) Die Bundesanstalt kann zur Verfolgung von Verstößen gegen Titel VI
 der Verordnung (EU) 2023/1114 von jeder Person, auch von solchen, die
@@ -2000,6 +2045,7 @@ Wiederholung abgesehen wird.
 
 
 #### § 32 Verschwiegenheitspflicht bei Maßnahmen wegen eines möglichen Verstoßes gegen Artikel 89 oder 91 der Verordnung (EU) 2023/1114
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003300000)
 
 Die Adressaten von Maßnahmen nach § 31, die von der Bundesanstalt
 wegen eines möglichen Verstoßes gegen ein Verbot nach Artikel 89 oder
@@ -2011,6 +2057,7 @@ eingeleiteten Ermittlungsverfahren nicht in Kenntnis setzen.
 
 
 #### § 33 Anzeige straftatbegründender Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003400000)
 
 Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach
 § 46 Absatz 1 Nummer 4 bis 6 oder Absatz 2 begründen, der zuständigen
@@ -2031,6 +2078,7 @@ nicht zu besorgen ist.
 
 
 #### § 34 Aussetzung des Handels und Ausschluss von Kryptowerten vom Handel; Maßnahmen in Bezug auf mit dem Kryptowert verbundene Derivate
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003500000)
 
 (1) Der Betreiber einer Handelsplattform für Kryptowerte kann den
 Handel mit einem Kryptowert aussetzen oder den Kryptowert vom Handel
@@ -2099,6 +2147,7 @@ auch untersagen. Die Bundesanstalt kann eine Anordnung nach den Sätzen
 
 
 #### § 35 Bekanntmachung marktrelevanter Informationen zum Handel zugelassener Kryptowerte
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003600000)
 
 (1) Die Bundesanstalt kann alle erforderlichen Maßnahmen ergreifen, um
 sicherzustellen, dass die Öffentlichkeit im Falle eines Verstoßes
@@ -2121,6 +2170,7 @@ erstatten und auf Verlangen vorzuschießen.
 
 
 #### § 36 Übermittlung von Insiderinformationen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003702000)
 
 (1) Ein Emittent, Anbieter oder Antragsteller, der nach Artikel 88
 Absatz 1 der Verordnung (EU) 2023/1114 verpflichtet ist,
@@ -2147,9 +2197,11 @@ Bundesbank ergeht.
 
 
 ## Kapitel 5 - Rechnungslegung, Vorlage von Rechnungslegungsunterlagen, Bestellung des Abschlussprüfers und Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001500000)
 
 
 ### § 37 Pflicht zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003802128)
 
 (1) Institute im Sinne des § 2 Absatz 4 Nummer 1 und 3, die nicht den
 Vorschriften des Ersten Unterabschnitts des Vierten Abschnitts des
@@ -2244,6 +2296,7 @@ ergeht.
 
 
 ### § 38 Pflicht zur Vorlage von Jahresabschluss, Lagebericht und Abschlussprüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE003900000)
 
 (1) Ein Institut nach § 37 Absatz 1 Satz 1 hat den aufgestellten sowie
 später den festgestellten Jahresabschluss und den Lagebericht der
@@ -2267,6 +2320,7 @@ Handelsgesetzbuches.
 
 
 ### § 39 Pflicht zur Bestellung des Abschlussprüfers und zur Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004000000)
 
 (1) Ein Institut nach § 37 Absatz 1 Satz 1 hat einen Abschlussprüfer
 oder Konzernabschlussprüfer unverzüglich nach dessen Bestellung der
@@ -2320,6 +2374,7 @@ Bundesanstalt einen nach Satz 1 bestellten Abschlussprüfer abberufen.
 
 
 ### § 40 Besondere Pflichten des Abschlussprüfers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004102128)
 
 (1) Als Teil der Prüfung des Jahresabschlusses hat der Abschlussprüfer
 auch die wirtschaftlichen Verhältnisse des Instituts zu prüfen. Bei
@@ -2420,9 +2475,11 @@ ergeht.
 
 
 ## Kapitel 6 - Maßnahmen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001600000)
 
 
 ### § 41 Maßnahmen zur Verbesserung der Eigenmittelausstattung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004201128)
 
 (1) Wenn die Vermögens-, Finanz- oder Ertragsentwicklung eines
 Instituts oder andere Umstände die Annahme rechtfertigen, dass das
@@ -2451,6 +2508,7 @@ Maßnahmen zur dauerhaften Erfüllung der Vorgaben anordnen.
 
 
 ### § 42 Maßnahmen bei organisatorischen Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004301128)
 
 (1) Verfügt ein Institut nicht über eine ordnungsgemäße
 Unternehmensführung nach Artikel 34 oder nach Artikel 68 der
@@ -2480,6 +2538,7 @@ ausgelagert hat.
 
 
 ### § 43 Einstweilige Maßnahmen bei Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004401128)
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines
 Instituts, insbesondere für die Sicherheit der dem Institut
@@ -2528,6 +2587,7 @@ Verordnung (EU) 2023/1114.
 
 
 ### § 44 Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004501128)
 
 (1) Wird ein Institut zahlungsunfähig oder tritt Überschuldung ein, so
 haben die Mitglieder des Vertretungsorgans dies der Bundesanstalt
@@ -2586,6 +2646,7 @@ Institute und Anbieter von Kryptowerte-Dienstleistungen nach Artikel
 
 
 ### § 45 Zuordnung verwahrter Kryptowerte, Kosten der Aussonderung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004601000)
 
 (1) Der im Rahmen der Kryptoverwahrung für einen Kunden verwahrte
 Kryptowert gilt als dem Kunden gehörig. Das gilt nicht, wenn der Kunde
@@ -2609,9 +2670,11 @@ verwahrten Gesamtbestands entsprechend anzuwenden.
 
 
 ## Kapitel 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001700000)
 
 
 ### § 46 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004700000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer gegen die Verordnung (EU)
@@ -2712,6 +2775,7 @@ juristischen Person für die Mitglieder eines gesetzlichen
 
 
 ### § 47 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004801128)
 
 (1) Ordnungswidrig handelt, wer eine in § 46 Absatz 1 Nummer 4 bis 6
 bezeichnete Handlung fahrlässig begeht.
@@ -3754,6 +3818,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 48 Ordnungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE004900000)
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
 Handelsgesetzbuches sind auf die Verletzung der Pflichten zur
@@ -3785,6 +3850,7 @@ Offenlegung nach § 37 Absatz 4 Satz 1 verpflichteten Institute.
 
 
 ### § 49 Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE005000000)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Mitglieder des
@@ -3840,9 +3906,11 @@ entsprechend.
 
 
 ## Kapitel 8 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNG001800000)
 
 
 ### § 50 Übergangsvorschrift zur Erbringung von Kryptowerte-Dienstleistungen nach Artikel 143 der Verordnung (EU) 2023/1114; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE005101000)
 
 (1) Unternehmen mit einer Erlaubnis
 
@@ -3935,6 +4003,7 @@ Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 
 
 ### § 51 Übergangsvorschrift zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/kmag/BJNR1B60B0024.html#BJNR1B60B0024BJNE005201128)
 
 § 37 ist erstmals anzuwenden auf Rechnungslegungsunterlagen für ein
 nach dem 30. Juni 2024 beginnendes Geschäftsjahr. § 40 Absatz 1 Satz 3

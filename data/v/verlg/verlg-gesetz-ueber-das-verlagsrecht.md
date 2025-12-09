@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000100311)
 
 Durch den Verlagsvertrag über ein Werk der Literatur oder der Tonkunst
 wird der Verfasser verpflichtet, dem Verleger das Werk zur
@@ -29,6 +30,7 @@ verbreiten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000200311)
 
 (1) Der Verfasser hat sich während der Dauer des Vertragsverhältnisses
 jeder Vervielfältigung und Verbreitung des Werkes zu enthalten, die
@@ -68,11 +70,13 @@ in welchem das Werk erschienen ist, zwanzig Jahre verstrichen sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000300311)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000400311)
 
 Der Verleger ist nicht berechtigt, ein Einzelwerk für eine
 Gesamtausgabe oder ein Sammelwerk sowie Teile einer Gesamtausgabe oder
@@ -82,6 +86,7 @@ jeden freisteht, bleibt sie dem Verleger gleichfalls gestattet.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000500311)
 
 (1) Der Verleger ist nur zu einer Auflage berechtigt. Ist ihm das
 Recht zur Veranstaltung mehrerer Auflagen eingeräumt, so gelten im
@@ -96,6 +101,7 @@ nur berechtigt, die Auflage in der angegebenen Höhe herzustellen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000600311)
 
 (1) Die üblichen Zuschußexemplare werden in die Zahl der zulässigen
 Abzüge nicht eingerechnet. Das Gleiche gilt von Freiexemplaren, soweit
@@ -107,12 +113,14 @@ nicht verbreitet werden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000700311)
 
 Gehen Abzüge unter, die der Verleger auf Lager hat, so darf er sie
 durch andere ersetzen; er hat vorher dem Verfasser Anzeige zu machen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000800311)
 
 In dem Umfang, in welchem der Verfasser nach den §§ 2 bis 7
 verpflichtet ist, sich der Vervielfältigung und Verbreitung zu
@@ -123,6 +131,7 @@ verschaffen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE000900311)
 
 (1) Das Verlagsrecht entsteht mit der Ablieferung des Werkes an den
 Verleger und erlischt mit der Beendigung des Vertragsverhältnisses.
@@ -134,12 +143,14 @@ sind.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001000311)
 
 Der Verfasser ist verpflichtet, dem Verleger das Werk in einem für die
 Vervielfältigung geeigneten Zustand abzuliefern.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001100311)
 
 (1) Ist der Verlagsvertrag über ein bereits vollendetes Werk
 geschlossen, so ist das Werk sofort abzuliefern.
@@ -156,6 +167,7 @@ kannte noch kennen mußte.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001200311)
 
 (1) Bis zur Beendigung der Vervielfältigung darf der Verfasser
 Änderungen an dem Werke vornehmen. Vor der Veranstaltung einer neuen
@@ -174,11 +186,13 @@ eingetreten sind, die Änderung rechtfertigen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001300311)
 
 -
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001400311)
 
 Der Verleger ist verpflichtet, das Werk in der zweckentsprechenden und
 üblichen Weise zu vervielfältigen und zu verbreiten. Die Form und
@@ -188,6 +202,7 @@ von dem Verleger bestimmt.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001500311)
 
 Der Verleger hat mit der Vervielfältigung zu beginnen, sobald ihm das
 vollständige Werk zugegangen ist. Erscheint das Werk in Abteilungen,
@@ -197,6 +212,7 @@ Herausgabe bestimmt ist.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001600311)
 
 Der Verleger ist verpflichtet, diejenige Zahl von Abzügen
 herzustellen, welche er nach dem Vertrag oder gemäß dem § 5
@@ -205,6 +221,7 @@ der Bestand nicht vergriffen wird.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001700311)
 
 Ein Verleger, der das Recht hat, eine neue Auflage zu veranstalten,
 ist nicht verpflichtet, von diesem Rechte Gebrauch zu machen. Zur
@@ -216,6 +233,7 @@ wenn die Veranstaltung von dem Verleger verweigert wird.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001800311)
 
 (1) Fällt der Zweck, welchem das Werk dienen sollte, nach dem
 Abschlusse des Vertrags weg, so kann der Verleger das
@@ -228,6 +246,7 @@ unterbleibt.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE001900311)
 
 Werden von einem Sammelwerke neue Abzüge hergestellt, so ist der
 Verleger im Einverständnisse mit dem Herausgeber berechtigt, einzelne
@@ -235,6 +254,7 @@ Beiträge wegzulassen.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002000311)
 
 (1) Der Verleger hat für die Korrektur zu sorgen. Einen Abzug hat er
 rechtzeitig dem Verfasser zur Durchsicht vorzulegen.
@@ -244,6 +264,7 @@ einer angemessenen Frist dem Verleger gegenüber beanstandet.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002100311)
 
 Die Bestimmung des Ladenpreises, zu welchem das Werk verbreitet wird,
 steht für jede Auflage dem Verleger zu. Er darf den Ladenpreis
@@ -253,6 +274,7 @@ Verfassers.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002200311)
 
 (1) Der Verleger ist verpflichtet, dem Verfasser die vereinbarte
 Vergütung zu zahlen. Eine Vergütung gilt als stillschweigend
@@ -264,6 +286,7 @@ Vergütung in Geld als vereinbart anzusehen.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002300311)
 
 Die Vergütung ist bei der Ablieferung des Werkes zu entrichten. Ist
 die Höhe der Vergütung unbestimmt oder hängt sie von dem Umfange der
@@ -272,6 +295,7 @@ wird die Vergütung fällig, sobald das Werk vervielfältigt ist.
 
 
 ## § 24
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002400311)
 
 Bestimmt sich die Vergütung nach dem Absatze, so hat der Verleger
 jährlich dem Verfasser für das vorangegangene Geschäftsjahr Rechnung
@@ -280,6 +304,7 @@ Einsicht seiner Geschäftsbücher zu gestatten.
 
 
 ## § 25
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002500311)
 
 (1) Der Verleger eines Werkes der Literatur ist verpflichtet, dem
 Verfasser auf je hundert Abzüge ein Freiexemplar, jedoch im ganzen
@@ -295,6 +320,7 @@ als Freiexemplare geliefert werden.
 
 
 ## § 26
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002600311)
 
 Der Verleger hat die zu seiner Verfügung stehenden Abzüge des Werkes
 zu dem niedrigsten Preise, für welchen er das Werk im Betriebe seines
@@ -303,6 +329,7 @@ Verlagsgeschäfts abgibt, dem Verfasser, soweit dieser es verlangt, zu
 
 
 ## § 27
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002700311)
 
 Der Verleger ist verpflichtet, das Werk, nachdem es vervielfältigt
 worden ist, zurückzugeben, sofern der Verfasser sich vor dem Beginne
@@ -310,11 +337,13 @@ der Vervielfältigung die Rückgabe vorbehalten hat.
 
 
 ## § 28
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002801377)
 
 (weggefallen)
 
 
 ## § 29
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE002900311)
 
 (1) Ist der Verlagsvertrag auf eine bestimmte Zahl von Auflagen oder
 von Abzügen beschränkt, so endigt das Vertragsverhältnis, wenn die
@@ -330,6 +359,7 @@ der noch vorhandenen Abzüge berechtigt.
 
 
 ## § 30
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003000311)
 
 (1) Wird das Werk ganz oder zum Teil nicht rechtzeitig abgeliefert, so
 kann der Verleger, statt den Anspruch auf Erfüllung geltend zu machen,
@@ -358,6 +388,7 @@ Verfassers dem Verleger zustehenden Rechte nicht berührt.
 
 
 ## § 31
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003100311)
 
 (1) Die Vorschriften des § 30 finden entsprechende Anwendung, wenn das
 Werk nicht von vertragsmäßiger Beschaffenheit ist.
@@ -369,6 +400,7 @@ geltend machen.
 
 
 ## § 32
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003200311)
 
 Wird das Werk nicht vertragsmäßig vervielfältigt oder verbreitet, so
 finden zugunsten des Verfassers die Vorschriften des § 30
@@ -376,6 +408,7 @@ entsprechende Anwendung.
 
 
 ## § 33
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003300311)
 
 (1) Geht das Werk nach der Ablieferung an den Verleger durch Zufall
 unter, so behält der Verfasser den Anspruch auf die Vergütung. Im
@@ -397,6 +430,7 @@ Annahme kommt.
 
 
 ## § 34
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003400311)
 
 (1) Stirbt der Verfasser vor der Vollendung des Werkes, so ist, wenn
 ein Teil des Werkes dem Verleger bereits abgeliefert worden war, der
@@ -415,6 +449,7 @@ zu vertretenden Umstandes unmöglich wird.
 
 
 ## § 35
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003500311)
 
 (1) Bis zum Beginne der Vervielfältigung ist der Verfasser berechtigt,
 von dem Verlagsvertrage zurückzutreten, wenn sich Umstände ergeben,
@@ -435,6 +470,7 @@ Antrag nicht angenommen hat.
 
 
 ## § 36
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003601307)
 
 (1) Wird über das Vermögen des Verlegers das Insolvenzverfahren
 eröffnet, so finden die Vorschriften des § 103 der Insolvenzordnung
@@ -457,6 +493,7 @@ zurücktreten.
 
 
 ## § 37
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003701377)
 
 Auf das in den §§ 17, 30, 35, 36 bestimmte Rücktrittsrecht finden die
 für das Rücktrittsrecht geltenden Vorschriften der §§ 346 bis 351 des
@@ -464,6 +501,7 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ## § 38
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003800311)
 
 (1) Wird der Rücktritt von dem Verlagsvertrag erklärt, nachdem das
 Werk ganz oder zum Teil abgeliefert worden ist, so hängt es von den
@@ -483,6 +521,7 @@ anderer Weise rückgängig wird.
 
 
 ## § 39
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE003900311)
 
 (1) Soll Gegenstand des Vertrags ein Werk sein, an dem ein
 Urheberrecht nicht besteht, so ist der Verfasser zur Verschaffung des
@@ -502,6 +541,7 @@ Verleger sechs Monate abgelaufen sind.
 
 
 ## § 40
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004000311)
 
 Im Falle des § 39 verbleibt dem Verleger die Befugnis, das von ihm
 veröffentlichte Werk gleich jedem Dritten von neuem unverändert oder
@@ -512,6 +552,7 @@ ist.
 
 
 ## § 41
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004100311)
 
 Werden für eine Zeitung, eine Zeitschrift oder ein sonstiges
 periodisches Sammelwerk Beiträge zur Veröffentlichung angenommen, so
@@ -520,11 +561,13 @@ aus den §§ 42 bis 46 ein anderes ergibt.
 
 
 ## § 42
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004200311)
 
 -
 
 
 ## § 43
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004300311)
 
 Der Verleger ist in der Zahl der von dem Sammelwerke herzustellenden
 Abzüge, die den Beitrag enthalten, nicht beschränkt. Die Vorschrift
@@ -532,6 +575,7 @@ des § 20 Abs. 1 Satz 2 findet keine Anwendung.
 
 
 ## § 44
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004400311)
 
 Soll der Beitrag ohne den Namen des Verfassers erscheinen, so ist der
 Verleger befugt, an der Fassung solche Änderungen vorzunehmen, welche
@@ -539,6 +583,7 @@ bei Sammelwerken derselben Art üblich sind.
 
 
 ## § 45
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004500311)
 
 (1) Wird der Beitrag nicht innerhalb eines Jahres nach der Ablieferung
 an den Verleger veröffentlicht, so kann der Verfasser das
@@ -552,6 +597,7 @@ von dem Verleger bezeichnet worden ist.
 
 
 ## § 46
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004600311)
 
 (1) Erscheint der Beitrag in einer Zeitung, so kann der Verfasser
 Freiexemplare nicht verlangen.
@@ -561,6 +607,7 @@ Buchhändlerpreise zu überlassen.
 
 
 ## § 47
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004700311)
 
 (1) Übernimmt jemand die Herstellung eines Werkes nach einem Plane, in
 welchem ihm der Besteller den Inhalt des Werkes sowie die Art und
@@ -573,6 +620,7 @@ das Werk eines anderen oder für ein Sammelwerk beschränkt.
 
 
 ## § 48
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004800311)
 
 Die Vorschriften dieses Gesetzes finden auch dann Anwendung, wenn
 derjenige, welcher mit dem Verleger den Vertrag abschließt, nicht der
@@ -580,11 +628,13 @@ Verfasser ist.
 
 
 ## § 49
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE004900311)
 
 -
 
 
 ## § 50
+[Direktlink](https://www.gesetze-im-internet.de/verlg/BJNR002170901.html#BJNR002170901BJNE005000311)
 
 Dieses Gesetz tritt am 1. Januar 1902 in Kraft.
 

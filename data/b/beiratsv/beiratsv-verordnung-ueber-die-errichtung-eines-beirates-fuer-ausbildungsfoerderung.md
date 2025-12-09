@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000100327)
 
 Auf Grund des § 44 Abs. 1 des Bundesausbildungsförderungsgesetzes vom
 26\. August 1971 (Bundesgesetzbl. I S. 1409) wird mit Zustimmung des
@@ -27,12 +28,14 @@ Bundesrates verordnet:
 
 
 ## § 1 Errichtung des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000203310)
 
 Bei dem Bundesministerium für Bildung und Forschung wird ein Beirat
 für Ausbildungsförderung errichtet.
 
 
 ## § 2 Mitglieder des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000304310)
 
 Dem Beirat gehören an
 
@@ -67,6 +70,7 @@ Dem Beirat gehören an
 
 
 ## § 3 Berufung und Dauer der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000403310)
 
 (1) Die Mitglieder des Beirates werden von dem Bundesministerium für
 Bildung und Forschung in der Regel für die Dauer von 4 Jahren berufen.
@@ -83,6 +87,7 @@ maßgebend waren.
 
 
 ## § 4 Aufgaben des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000503310)
 
 Der Beirat berät das Bundesministerium für Bildung und Forschung nach
 Maßgabe des § 44 Abs. 1 des Gesetzes durch gutachtliche
@@ -90,23 +95,27 @@ Stellungnahmen.
 
 
 ## § 5 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000603310)
 
 Der Beirat gibt sich eine Geschäftsordnung, die der Zustimmung des
 Bundesministeriums für Bildung und Forschung bedarf.
 
 
 ## § 6 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000703310)
 
 Die Geschäfte des Beirates führt das Bundesministerium für Bildung und
 Forschung.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE000902301)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/beiratsv/BJNR018010971.html#BJNR018010971BJNE001000327)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

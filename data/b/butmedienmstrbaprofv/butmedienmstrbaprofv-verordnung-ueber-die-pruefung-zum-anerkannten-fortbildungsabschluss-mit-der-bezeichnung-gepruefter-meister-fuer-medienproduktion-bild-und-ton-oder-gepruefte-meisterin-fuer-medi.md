@@ -21,6 +21,7 @@ Fundstelle
 Stand: Ersetzt V 806-22-6-39 v. 4.7.2012 I 1467 (MedienBTMstrPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a
 Absatz 1 Nummer 2 und mit § 53c des Berufsbildungsgesetzes in der
@@ -34,6 +35,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -120,6 +122,7 @@ Ton“ vorangestellt.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -165,6 +168,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalte und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
@@ -178,6 +182,7 @@ Die Prüfung umfasst folgende Prüfungsteile:
 
 
 ## § 4 Prüfungsbereiche im Prüfungsteil „Betriebsmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000500000)
 
 Der Prüfungsteil „Betriebsmanagement“ umfasst folgende
 Prüfungsbereiche:
@@ -192,6 +197,7 @@ Prüfungsbereiche:
 
 
 ## § 5 Prüfungsbereich „Führung“
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000600000)
 
 Im Prüfungsbereich „Führung“ hat die zu prüfende Person die
 Fähigkeiten nachzuweisen, den Personalbedarf zu ermitteln, den
@@ -269,6 +275,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 6 Prüfungsbereich „Organisation“
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000700000)
 
 Im Prüfungsbereich „Organisation“ hat die zu prüfende Person die
 Fähigkeit nachzuweisen, betriebliche Prozesse unter wirtschaftlichen
@@ -312,6 +319,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 7 Prüfungsteil „Projektmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000800000)
 
 Im Prüfungsteil „Projektmanagement“ hat die zu prüfende Person die
 Fähigkeit nachzuweisen, komplexe Projektaufgaben selbständig zu
@@ -415,6 +423,7 @@ wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 8 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE000900000)
 
 (1) Die Prüfung im Prüfungsteil „Betriebsmanagement“ nach § 3 Nummer 1
 gliedert sich in
@@ -449,6 +458,7 @@ vertreten ist.
 
 
 ## § 9 Prüfung im Prüfungsteil „Betriebsmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001000000)
 
 (1) Die schriftliche Prüfung wird in den Prüfungsbereichen „Führung“
 und „Organisation“ jeweils auf der Grundlage der Beschreibung einer
@@ -501,6 +511,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 10 Prüfung im Prüfungsteil „Projektmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001100000)
 
 (1) Die Prüfung im Prüfungsteil „Projektmanagement“ besteht aus einer
 Prüfungsleistung in Form einer schriftlich unter Aufsicht zu
@@ -527,6 +538,7 @@ Minuten auf die Präsentation entfallen.
 
 
 ## § 11 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001200000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -554,6 +566,7 @@ gewichten:
 
 
 ## § 12 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001300000)
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen ohne
 Rundung jeweils mindestens 50 Punkte erreicht worden sind.
@@ -584,6 +597,7 @@ Gesamtnote.
 
 
 ## § 13 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001400000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -596,6 +610,7 @@ zugrunde zu legen.
 
 
 ## § 14 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001500000)
 
 (1) Wer die Prüfung nach § 12 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -624,6 +639,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 15 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001600000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -641,6 +657,7 @@ gestellt und bearbeitet werden.
 
 
 ## § 16 Nachweis der Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001700000)
 
 (1) Für den Erwerb des Fortbildungsabschlusses nach dieser Verordnung
 hat die zu prüfende Person ihre berufs- und arbeitspädagogischen
@@ -662,6 +679,7 @@ vorzulegen.
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001800000)
 
 (1) Prüfungsverfahren, die nach der Verordnung über die Prüfung zum
 anerkannten Fortbildungsabschluss Geprüfter Meister Medienproduktion
@@ -684,6 +702,7 @@ nach dieser Verordnung durchzuführen.
 
 
 ## § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE001900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -695,6 +714,7 @@ Dezember 2019 (BGBl. I S. 2153) geändert worden ist, außer Kraft.
 (zu den §§ 11 und 12)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE002000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 252, S. 8 - 9)
 
@@ -995,6 +1015,7 @@ Dezember 2019 (BGBl. I S. 2153) geändert worden ist, außer Kraft.
 (zu § 14)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/butmedienmstrbaprofv/BJNR0FC0A0023.html#BJNR0FC0A0023BJNE002100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 252, S. 10)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dp_rnano/BJNR067500004.html#BJNR067500004BJNE000100000)
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
 über die Ernennung und Entlassung der Bundesbeamten und Richter im
@@ -32,17 +33,20 @@ Besoldungsgruppen A 13 bis A 15 übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dp_rnano/BJNR067500004.html#BJNR067500004BJNE000200000)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/dp_rnano/BJNR067500004.html#BJNR067500004BJNE000300000)
 
 Diese Anordnung tritt am 1. Juni 2004 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dp_rnano/BJNR067500004.html#BJNR067500004BJNE000400000)
 
 Die Bundesministerin der Justiz
 

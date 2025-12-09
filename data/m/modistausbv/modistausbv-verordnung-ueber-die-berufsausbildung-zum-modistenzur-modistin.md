@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -32,6 +33,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000200000)
 
 Der Ausbildungsberuf Modist/Modistin wird
 
@@ -47,6 +49,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -59,6 +62,7 @@ im zweiten Ausbildungsjahr.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
@@ -72,6 +76,7 @@ nachzuweisen.
 
 
 ## § 4 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000500000)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -81,6 +86,7 @@ Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -137,6 +143,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000700000)
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -147,6 +154,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -154,6 +162,7 @@ zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE000900000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -162,6 +171,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -192,6 +202,7 @@ bei der Durchführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 10 Gesellenprüfung/Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE001100000)
 
 (1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -340,6 +351,7 @@ dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE001200000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -348,12 +360,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Modisten/zur Modistin
+[Direktlink](https://www.gesetze-im-internet.de/modistausbv/BJNR058000004.html#BJNR058000004BJNE001400000)
 
 (Fundstelle: BGBl. I 2004, 583 - 587)
 

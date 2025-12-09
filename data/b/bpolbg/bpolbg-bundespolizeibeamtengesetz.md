@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNG000100314)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE000403311)
 
 (1) Dieses Gesetz gilt für die Polizeivollzugsbeamten in der
 Bundespolizei, im kriminalpolizeilichen Vollzugsdienst des Bundes und
@@ -39,6 +41,7 @@ Deutschen Bundestag.
 
 
 ### § 2 Anwendung beamtenrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE000500314)
 
 Auf die Polizeivollzugsbeamten finden die für Bundesbeamte allgemein
 geltenden Vorschriften Anwendung, soweit in diesem Gesetz nichts
@@ -46,6 +49,7 @@ anderes bestimmt ist.
 
 
 ### § 3 Laufbahnen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE000606311)
 
 (1) Für die in § 1 bezeichneten Polizeivollzugsbeamten bestehen
 folgende Laufbahnen:
@@ -140,6 +144,7 @@ Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
 
 
 ### § 4 Polizeidienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE000703310)
 
 (1) Der Polizeivollzugsbeamte ist dienstunfähig, wenn er den
 besonderen gesundheitlichen Anforderungen für den
@@ -163,6 +168,7 @@ vorbehalten werden.
 
 
 ### § 5 Ruhestand wegen Erreichens der Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE000803311)
 
 (1) Polizeivollzugsbeamte auf Lebenszeit treten mit dem Ende des
 Monats in den Ruhestand, in dem sie das 62. Lebensjahr vollenden.
@@ -352,15 +358,18 @@ angehoben:
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE000900314)
 
 -
 
 
 ## Abschnitt II - Polizeivollzugsbeamte in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNG000201310)
 
 
 
 ### § 7 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001001310)
 
 Die Polizeivollzugsbeamten erhalten eine Ausbildung, die sie für eine
 Verwendung im Polizeivollzugsdienst in der Bundespolizei und in den
@@ -369,6 +378,7 @@ befähigen soll.
 
 
 ### § 8 Versetzung
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001103311)
 
 (1) Die Versetzung eines Beamten, der noch nicht zehn Dienstjahre seit
 seiner Einstellung in der Bundespolizei vollendet hat, in den
@@ -399,6 +409,7 @@ unberührt.
 
 
 ### § 9 Stellenvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001200314)
 
 Die Bundesregierung kann jährlich bestimmen, in welchem Umfange
 Beamten der Laufbahn des mittleren Polizeivollzugsdienstes in der
@@ -409,6 +420,7 @@ Anstalten und Stiftungen des öffentlichen Rechts vorbehalten werden.
 
 
 ### § 10 Wohnen in Gemeinschaftsunterkunft und Teilnahme an der Gemeinschaftsverpflegung
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001300314)
 
 (1) Die Polizeivollzugsbeamten, die noch nicht fünf Dienstjahre
 abgeleistet oder noch nicht das fünfundzwanzigste Lebensjahr vollendet
@@ -424,6 +436,7 @@ werden.
 
 
 ### § 11 Freizeitausgleich bei Einsätzen und Übungen
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001404311)
 
 Bei Einsätzen und bei Übungen von Verbänden, Einheiten oder
 Teileinheiten der Bundespolizei von einer Dauer von mehr als einem Tag
@@ -438,6 +451,7 @@ möglichst innerhalb von drei Monaten.
 
 
 ### § 12 Erstattung der Kosten eines Studiums
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001501310)
 
 Hat ein Polizeivollzugsbeamter, der sich zum Eintritt in die
 Bundespolizei verpflichtet hat, auf Grund dieser Verpflichtung vor
@@ -452,6 +466,7 @@ besondere Härte bedeuten würde.
 
 
 ### § 12a Erstattung der Kosten einer Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE002000310)
 
 (1) Endet das Beamtenverhältnis innerhalb von vier Jahren nach
 Abschluss einer Fortbildungsmaßnahme, so hat die ehemalige Beamtin
@@ -482,15 +497,18 @@ Beamtin oder des ehemaligen Beamten.
 
 
 ## Abschnitt III - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNG000300314)
 
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001602310)
 
 -
 
 
 ### § 14 Verweisungen und Bezeichnungen in anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001700314)
 
 Wird in anderen Vorschriften auf Vorschriften und Bezeichnungen
 verwiesen, die durch dieses Gesetz geändert worden oder weggefallen
@@ -499,6 +517,7 @@ den geänderten Vorschriften.
 
 
 ### § 15 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg/BJNR113570976.html#BJNR113570976BJNE001801311)
 
 Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur
 Durchführung dieses Gesetze erforderlichen allgemeinen

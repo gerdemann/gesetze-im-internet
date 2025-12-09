@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg_bv/BJNR221600016.html#BJNR221600016BJNE000100000)
 
 Auf Grund des § 7 Absatz 2 Satz 2 des Gesetzes zur Errichtung der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der
@@ -33,6 +34,7 @@ Landwirtschaft, Forsten und Gartenbau:
 
 
 ## § 1 Übertragung der Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg_bv/BJNR221600016.html#BJNR221600016BJNE000201126)
 
 Die in § 7 Absatz 2 Satz 1 des Gesetzes zur Errichtung der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
@@ -41,6 +43,7 @@ Bundesamt für Soziale Sicherung übertragen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg_bv/BJNR221600016.html#BJNR221600016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

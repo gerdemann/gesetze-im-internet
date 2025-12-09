@@ -31,9 +31,11 @@ Mittelbare änderung durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNG000100000)
 
 
 ### § 1 Zielsetzung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000200000)
 
 Dieses Gesetz regelt
 
@@ -65,9 +67,11 @@ Dieses Gesetz regelt
 
 
 ## Abschnitt 2 - Versicherungspflicht und Nachweis einer Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNG000200000)
 
 
 ### § 2 Versicherungspflicht für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000300000)
 
 (1) Der Schiffseigentümer eines Schiffes mit einer Bruttoraumzahl von
 mindestens 300, das
@@ -99,6 +103,7 @@ des Schiffes verantwortlich ist.
 
 
 ### § 3 Nachweis einer Versicherung für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000400000)
 
 (1) Das Bestehen einer Versicherung nach § 2 Absatz 1 für
 Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens ist
@@ -118,6 +123,7 @@ mitzuführen und der zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ### § 4 Versicherungspflicht für Wrackbeseitigungskosten nach dem Wrackbeseitigungsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000500000)
 
 Der eingetragene Eigentümer eines Schiffes im Sinne des Artikels 1
 Absatz 2 des Wrackbeseitigungsübereinkommens mit einer Bruttoraumzahl
@@ -142,6 +148,7 @@ ausschließlich für andere als Handelszwecke genutzt werden.
 
 
 ### § 5 Nachweis einer Versicherung für die Haftung nach dem Wrackbeseitigungsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000600000)
 
 (1) Das Bestehen einer Versicherung oder sonstigen finanziellen
 Sicherheit nach § 4 für die Haftung nach dem
@@ -187,6 +194,7 @@ festgestellt hat, dass ein Wrack infolge eines Seeunfalls nach Artikel
 
 
 ### § 6 Nachweis einer Versicherung für die Unfallhaftung von Beförderern in Bezug auf Tod und Körperverletzung von Reisenden auf See
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000700000)
 
 Der Beförderer, der die Beförderung nach Artikel 3 in Verbindung mit
 Anhang I Artikel 4
@@ -206,9 +214,11 @@ bis Absatz 15 der Verordnung (EG) Nr. 392/2009.
 
 
 ## Abschnitt 3 - Behördliche Maßnahmen und Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNG000300000)
 
 
 ### § 7 Behördliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000800000)
 
 (1) Wird
 
@@ -239,6 +249,7 @@ Absätzen 1 und 2, § 3 Absatz 3, § 5 Absatz 3 und § 6 zu überwachen.
 
 
 ### § 8 Behördliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE000900000)
 
 (1) § 3 Absatz 3, § 5 Absatz 1 bis 3, die §§ 6 und 7 und Artikel 3 in
 Verbindung mit Anhang I Artikel 4
@@ -258,6 +269,7 @@ jeweils geltenden Fassung, sind entsprechend anzuwenden.
 
 
 ### § 9 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE001003301)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -280,6 +292,7 @@ nähere Bestimmungen zu erlassen über
 
 
 ### § 10 Datenschutzregelung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE001102116)
 
 (1) Die zur Ausstellung, Einziehung und Kontrolle der
 Versicherungsbescheinigungen, Wrackbeseitigungshaftungsbescheinigungen
@@ -311,9 +324,11 @@ erfolgen.
 
 
 ## Abschnitt 4 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNG000400000)
 
 
 ### § 11 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE001200000)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang I
@@ -329,6 +344,7 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE001301116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -375,9 +391,11 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 ## Abschnitt 5 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNG000500000)
 
 
 ### § 13 Anwendung der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE001400000)
 
 Die Verordnung (EG) Nr. 392/2009 und § 6 sind
 
@@ -399,6 +417,7 @@ anzuwenden.
 
 
 ### § 14 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwg/BJNR147400013.html#BJNR147400013BJNE001501377)
 
 (1) Die §§ 4, 5 und 7 Absatz 1 Nummer 2, § 12, soweit er sich auf die
 §§ 4 und 5 bezieht, und Rechtsverordnungen auf Grund des § 9 Nummer 1

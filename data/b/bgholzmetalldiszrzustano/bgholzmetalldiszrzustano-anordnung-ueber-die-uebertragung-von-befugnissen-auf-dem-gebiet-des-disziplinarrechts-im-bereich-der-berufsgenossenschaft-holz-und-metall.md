@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgholzmetalldiszrzustano/BJNR00B0A0024.html#BJNR00B0A0024BJNE000100000)
 
 Auf Grund des § 83 Absatz 1 des Bundesdisziplinargesetzes vom 9. Juli
 2001 (BGBl. I S. 1510) in Verbindung mit § 1 Nummer 7 der Verordnung
@@ -28,6 +29,7 @@ Geschäftsbereich des Bundesministeriums für Arbeit und Soziales vom
 
 
 ## I. Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bgholzmetalldiszrzustano/BJNR00B0A0024.html#BJNR00B0A0024BJNE000200000)
 
 Gemäß § 1 Nummer 7 der Verordnung zur Durchführung des
 Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften
@@ -46,12 +48,14 @@ Abwesenheitsvertretung.
 
 
 ## II. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgholzmetalldiszrzustano/BJNR00B0A0024.html#BJNR00B0A0024BJNE000300000)
 
 Die vorstehende Anordnung tritt am Tage nach ihrer Bekanntmachung in
 Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bgholzmetalldiszrzustano/BJNR00B0A0024.html#BJNR00B0A0024BJNE000400000)
 
 Berufsgenossenschaft Holz und Metall
 

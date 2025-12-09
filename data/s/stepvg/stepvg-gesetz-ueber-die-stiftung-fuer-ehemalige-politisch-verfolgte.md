@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Stiftung für ehemalige politisch Verfolgte
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000100000)
 
 (1) Die nach § 15 des Häftlingshilfegesetzes in der bis einschließlich
 30\. Juni 2025 geltenden Fassung unter dem Namen „Stiftung für
@@ -32,6 +33,7 @@ bestimmt.
 
 
 ## § 2 Aufgaben der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000200000)
 
 (1) Die Stiftung gewährt Unterstützungsleistungen
 
@@ -54,6 +56,7 @@ berücksichtigen.
 
 
 ## § 3 Finanzierung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000300000)
 
 (1) Einlagen in das Stiftungsvermögen sind zulässig.
 
@@ -70,6 +73,7 @@ werden.
 
 
 ## § 4 Stiftungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000400000)
 
 (1) Organe der Stiftung sind
 
@@ -86,6 +90,7 @@ Anspruch auf Ersatz ihrer notwendigen Auslagen.
 
 
 ## § 5 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000500000)
 
 (1) Der Stiftungsrat besteht aus zwölf Mitgliedern. Die oder der
 Bundesbeauftragte für die Opfer der SED-Diktatur beim Deutschen
@@ -123,6 +128,7 @@ Mitglieder anwesend ist. Er beschließt mit einfacher Mehrheit.
 
 
 ## § 6 Stiftungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000600000)
 
 (1) Der Stiftungsvorstand besteht aus seinem Vorsitzenden und drei
 weiteren Mitgliedern. Der Stiftungsrat wählt den Vorsitzenden und die
@@ -147,6 +153,7 @@ entsprechend.
 
 
 ## § 7 Ausschuss zur Entscheidung über Anträge auf Unterstützungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000700000)
 
 (1) Zur Entscheidung über Anträge auf Unterstützungsleistungen nach §
 2 wird bei dem Stiftungsvorstand ein Ausschuss gebildet.
@@ -181,6 +188,7 @@ entscheidet stets der Ausschuss.
 
 
 ## § 8 Widerspruchsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000800000)
 
 (1) Zur Entscheidung über Widersprüche gegen Bescheide des Ausschusses
 nach § 7 wird ein Widerspruchsausschuss gebildet.
@@ -207,6 +215,7 @@ Absatz 3 und 4 entsprechend.
 
 
 ## § 9 Aufsicht über die Stiftung; Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE000900000)
 
 (1) Die Stiftung untersteht hinsichtlich ihrer Aufgaben nach § 2
 Absatz 1 Nummer 2 der Rechtsaufsicht des Bundesministeriums der
@@ -222,12 +231,14 @@ Opferbeauftragtengesetzes über die Rechtsaufsicht nach Absatz 1 Satz
 
 
 ## § 10 Aufhebung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE001000000)
 
 Bei der Aufhebung der Stiftung vorhandenes Vermögen fließt dem Bund
 zu.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stepvg/BJNR03F0B0025.html#BJNR03F0B0025BJNE001100000)
 
 (1) Bis zum Erlass neuer Regelungen gelten die Regelungen betreffend
 die Stiftung, die der Stiftungsrat oder der Stiftungsvorstand der

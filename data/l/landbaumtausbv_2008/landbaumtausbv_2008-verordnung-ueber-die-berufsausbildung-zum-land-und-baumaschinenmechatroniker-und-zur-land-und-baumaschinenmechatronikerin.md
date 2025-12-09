@@ -28,6 +28,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
@@ -44,6 +45,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000201360)
 
 Der Ausbildungsberuf des Land- und Baumaschinenmechatronikers und der
 Land- und Baumaschinenmechatronikerin wird
@@ -60,11 +62,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000401360)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -157,6 +161,7 @@ Abweichung erfordern.
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000500000)
 
 (1) Die in § 3 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
@@ -177,6 +182,7 @@ Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 5 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000600000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung besteht aus den beiden
 zeitlich auseinanderfallenden Teilen 1 und 2. Durch die
@@ -198,6 +204,7 @@ Abschlussprüfung/Gesellenprüfung mit 70 Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000700000)
 
 (1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll vor dem Ende des
 zweiten Ausbildungsjahres stattfinden.
@@ -282,6 +289,7 @@ Prüfungsbereich Arbeitsauftrag.
 
 
 ## § 7 Teil 2 der Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000801360)
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
 in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -497,6 +505,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -561,6 +570,7 @@ bewertet worden sind.
 
 
 ## § 9 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE001000000)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit schlechter als „ausreichend“
@@ -574,6 +584,7 @@ und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2
 
 
 ## § 10 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE001101360)
 
 Die erfolgreich abgeschlossene Ausbildung zum
 Kraftfahrzeugservicemechaniker und zur
@@ -584,12 +595,14 @@ nach dieser Verordnung fortgesetzt werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin
+[Direktlink](https://www.gesetze-im-internet.de/landbaumtausbv_2008/BJNR154500008.html#BJNR154500008BJNE001301360)
 
 (Fundstelle: BGBl. I 2014, 813 - 823)
 

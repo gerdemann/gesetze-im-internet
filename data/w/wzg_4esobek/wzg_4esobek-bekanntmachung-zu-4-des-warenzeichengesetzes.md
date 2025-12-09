@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4esobek/BJNR019500978.html#BJNR019500978BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -31,11 +32,13 @@ Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4esobek/BJNR019500978.html#BJNR019500978BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Bezeichnungen der Organisation
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4esobek/BJNR019500978.html#BJNR019500978BJNE000200303)
 
 ORGANISATION EUROPEENNE POUR DES RECHERCHES ASTRONOMIQUES DANS
 L'HEMISPHERE AUSTRAL

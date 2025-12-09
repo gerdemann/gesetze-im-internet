@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000101116)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -55,6 +56,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ## § 2 Höchstgehalte
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000200000)
 
 (1) Es ist verboten,
 
@@ -99,6 +101,7 @@ Verdünnung, soweit in der Anlage nichts Abweichendes geregelt ist.
 
 
 ## § 3 Behandlung von Lebensmitteln mit überhöhten Mykotoxingehalten
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000300000)
 
 (1) Das Verbot des § 2 Absatz 1 gilt in Fällen unvermischter
 Erzeugnisse nicht für die Abgabe an Betriebe, die eine Behandlung
@@ -128,6 +131,7 @@ zu entgiften.
 
 
 ## § 4 Lagerung und Aufbewahrung sowie Kenntlichmachung von Lebensmitteln mit überhöhten Mykotoxingehalten
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000400000)
 
 (1) Der Lebensmittelunternehmer hat die in Abschnitt 1 Nummer 1.1, 1.2
 und 2 der Anlage bezeichneten Lebensmittel, deren Mykotoxingehalt die
@@ -158,6 +162,7 @@ Begleitpapieren vermerkt werden.
 
 
 ## § 5 Probenahme und Analyse bei der amtlichen Kontrolle von Lebensmitteln auf Mykotoxine
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000501116)
 
 Bei der amtlichen Kontrolle des Mykotoxingehalts von Lebensmitteln,
 die nicht bereits in Abschnitt 2 des Anhangs der Verordnung (EG) Nr.
@@ -182,6 +187,7 @@ geändert worden ist, aufgeführt sind müssen
 
 
 ## § 5a Homogenisierung und Entnahme von Parallelproben bei der amtlichen Kontrolle von Lebensmitteln auf Mykotoxine
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000900116)
 
 (1) Unbeschadet der Anforderungen des § 5 und abweichend von § 43 des
 Lebensmittel- und Futtermittelgesetzbuches gilt bei der amtlichen
@@ -236,6 +242,7 @@ Lebensmittel- und Futtermittelgesetzbuches unberührt.
 
 
 ## § 5b Probenahme und Analyse bei der amtlichen Kontrolle von Lebensmitteln auf Nitrat
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE001000116)
 
 Bei der amtlichen Kontrolle des Nitratgehalts der in Abschnitt 2 der
 Anlage bezeichneten Lebensmittel sind Probenahme, Probenaufbereitung
@@ -247,6 +254,7 @@ amtliche Kontrolle des Nitratgehalts von bestimmten Lebensmitteln
 
 
 ## § 6 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000604116)
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -321,6 +329,7 @@ oder des Bodens beruhen.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000700000)
 
 Wer eine in § 6 Absatz 4, 5 oder 6 bezeichnete Handlung fahrlässig
 begeht, handelt nach § 60 Absatz 1 des Lebensmittel- und
@@ -328,6 +337,7 @@ Futtermittelgesetzbuches ordnungswidrig.
 
 
 ## Anlage (zu § 2, § 3, § 4 Absatz 1 und 2 Satz 1 und § 5)
+[Direktlink](https://www.gesetze-im-internet.de/kmv/BJNR028700010.html#BJNR028700010BJNE000802116)
 
 (Fundstelle: BGBl. I 2010, 289 - 290
 bzgl. der einzelnen Änderungen vgl. Fußnote)

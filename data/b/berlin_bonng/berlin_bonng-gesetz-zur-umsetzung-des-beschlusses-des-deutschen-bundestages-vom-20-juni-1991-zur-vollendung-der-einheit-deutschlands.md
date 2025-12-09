@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000100308)
 
 Ausgehend davon,
 
@@ -59,6 +60,7 @@ das folgende Gesetz beschlossen:
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000200308)
 
 (1) Zweck des Gesetzes ist es, zur Umsetzung des Beschlusses des
 Deutschen Bundestages zur Vollendung der Einheit Deutschlands vom 20.
@@ -123,6 +125,7 @@ einen Ausgleich für die Region Bonn zu gewährleisten.
 
 
 ## § 2 Sitz des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000300308)
 
 (1) Sitz des Deutschen Bundestages ist die Bundeshauptstadt Berlin.
 
@@ -133,6 +136,7 @@ sind.
 
 
 ## § 3 Sitz der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000400308)
 
 (1) Sitz des Verfassungsorgans Bundesregierung ist die
 Bundeshauptstadt Berlin.
@@ -143,6 +147,7 @@ Deutschen Bundestages vornehmen.
 
 
 ## § 4 Organisation der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000500308)
 
 (1) Bundesministerien befinden sich in der Bundeshauptstadt Berlin und
 in der Bundesstadt Bonn. Der Bundeskanzler bestimmt die
@@ -168,6 +173,7 @@ gewährleistet ist.
 
 
 ## § 5 Maßnahmen des Bundes für die Bundeshauptstadt Berlin
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000600308)
 
 (1) Der Bund und das Land Berlin arbeiten zusammen, um die
 Funktionsfähigkeit der Bundeshauptstadt Berlin als Sitz des Deutschen
@@ -186,6 +192,7 @@ andererseits vorbehalten.
 
 
 ## § 6 Maßnahmen des Bundes für die Region Bonn
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000700308)
 
 (1) Die Folgen des Verlustes des Parlamentssitzes und des
 Regierungssitzes für die Region Bonn werden durch die Übernahme und
@@ -227,6 +234,7 @@ Gebietskörperschaften der Region Bonn andererseits vorbehalten.
 
 
 ## § 7 Verlagerung von Einrichtungen des Bundes und Sitzfestlegungen
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000801377)
 
 (1) Die Gesetze, die die nachstehenden Bundesbehörden
 
@@ -325,6 +333,7 @@ Verlagerung von Regierungsfunktionen nach Berlin vollzogen werden.
 
 
 ## § 8 Dienstrechtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE000900308)
 
 (1) Für die von diesem Gesetz betroffenen Mitarbeiterinnen und
 Mitarbeiter der Bundesverwaltung werden dienstrechtliche oder sonstige
@@ -339,6 +348,7 @@ diese außerhalb dieses Gesetzes.
 
 
 ## § 9 Bekanntmachungen im Bundesgesetzblatt
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE001001307)
 
 Im Bundesgesetzblatt werden bekanntgegeben:
 
@@ -357,6 +367,7 @@ Im Bundesgesetzblatt werden bekanntgegeben:
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/berlin_bonng/BJNR091800994.html#BJNR091800994BJNE001100308)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl4_nderl/BJNR040600003.html#BJNR040600003BJNE000100000)
 
 Das Präsidium des Goethe-Instituts Inter Nationes e. V. hat am 17.
 Februar 2003 das Statut und die Ausführungsbestimmungen zum Statut für

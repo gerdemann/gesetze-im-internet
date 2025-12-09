@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000100000)
 
 Auf Grund des § 16 Abs. 4 Satz 1 bis 3 des Pfandbriefgesetzes vom 22.
 Mai 2005 (BGBl. I S. 1373) in Verbindung mit § 1 Nr. 4 der Verordnung
@@ -35,10 +36,12 @@ Kreditwirtschaft:
 
 
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000200000)
 
 Bei der Ermittlung der Beleihungswerte nach § 16 Abs. 1 und 2 des
 Pfandbriefgesetzes und bei der Erhebung der für die Wertermittlung
@@ -47,6 +50,7 @@ anzuwenden.
 
 
 ### § 2 Gegenstand der Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000300000)
 
 Gegenstand der Beleihungswertermittlung ist das Grundstück,
 grundstücksgleiche Recht oder vergleichbare Recht einer ausländischen
@@ -55,6 +59,7 @@ werden soll.
 
 
 ### § 3 Grundsatz der Beleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000401119)
 
 (1) Der Wert, der der Beleihung zugrunde gelegt wird (Beleihungswert),
 ist der Wert der Immobilie, der erfahrungsgemäß unabhängig von
@@ -76,6 +81,7 @@ darzulegen.
 
 
 ### § 4 Verfahren zur Ermittlung des Beleihungswerts
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000501119)
 
 (1) Zur Ermittlung des Beleihungswerts sind der Ertragswert (§§ 8 bis
 13) und der Sachwert (§§ 14 bis 17) des Beleihungsobjekts getrennt zu
@@ -141,10 +147,12 @@ fertiggestellten Objekts berücksichtigt, vorgenommen werden muss.
 
 
 ## Teil 2 - Gutachten und Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000200000)
 
 
 
 ### § 5 Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000601119)
 
 (1) Der Beleihungswert ist mittels eines Gutachtens zu ermitteln. Das
 zu bewertende Objekt ist im Rahmen der Wertermittlung zu besichtigen.
@@ -197,6 +205,7 @@ gegebenenfalls wertmindernd zu berücksichtigen.
 
 
 ### § 6 Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000700000)
 
 Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit
 über besondere Kenntnisse und Erfahrungen auf dem Gebiet der Bewertung
@@ -213,6 +222,7 @@ Immobilienmarkts und der Objektart, verfügt.
 
 
 ### § 7 Unabhängigkeit des Gutachters
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000800000)
 
 (1) Der Gutachter muss sowohl vom Kreditakquisitions- und
 Kreditentscheidungsprozess als auch von Objektvermittlung, -verkauf
@@ -236,14 +246,17 @@ werden.
 
 
 ## Teil 3 - Wertermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000300000)
 
 
 
 ### Abschnitt 1 - Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000400000)
 
 
 
 #### § 8 Grundlagen der Ertragswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE000900000)
 
 (1) Für das Ertragswertverfahren ist der Ertragswert der baulichen
 Anlage, getrennt von dem Bodenwert, nach den §§ 9 bis 12 zu ermitteln.
@@ -255,6 +268,7 @@ vorbehaltlich § 13 den Ertragswert des Beleihungsobjekts.
 
 
 #### § 9 Ermittlung des Ertragswerts der baulichen Anlage
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001000000)
 
 (1) Bei der Ermittlung des Ertragswerts der baulichen Anlage ist vom
 nachhaltig erzielbaren jährlichen Reinertrag auszugehen. Der
@@ -277,6 +291,7 @@ kapitalisieren.
 
 
 #### § 10 Rohertrag
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001101119)
 
 (1) Bei der Ermittlung des Rohertrags darf nur der Ertrag
 berücksichtigt werden, den das Objekt bei ordnungsgemäßer
@@ -309,6 +324,7 @@ Zeit noch zu erwarten ist.
 
 
 #### § 11 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001201119)
 
 (1) Der nach § 10 ermittelte Rohertrag ist um die üblicherweise beim
 Vermieter verbleibenden Bewirtschaftungskosten zu kürzen. Dafür sind
@@ -369,6 +385,7 @@ prozentualer Anteil an den Neubaukosten darzustellen.
 
 
 #### § 12 Kapitalisierung der Reinerträge
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001301119)
 
 (1) Der um den Verzinsungsbetrag des Bodenwerts nach § 9 Abs. 2
 verminderte Reinertrag ist in Abhängigkeit von der Restnutzungsdauer
@@ -459,6 +476,7 @@ dokumentierten Begründung.
 
 
 #### § 13 Ermittlung des Ertragswerts in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001401119)
 
 (1) Verbleibt bei der Minderung des Reinertrags um den
 Verzinsungsbetrag des Bodenwerts nach § 9 Abs. 2 kein Anteil für die
@@ -489,10 +507,12 @@ Aufwendungen besonders darzulegen.
 
 
 ### Abschnitt 2 - Sachwertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000500000)
 
 
 
 #### § 14 Grundlagen der Sachwertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001501119)
 
 Der Sachwert des Beleihungsobjekts setzt sich aus dem Bodenwert und
 dem nach § 16 zu ermittelnden Wert der baulichen Anlage zusammen. Die
@@ -505,6 +525,7 @@ Abbruchkosten gilt § 13 Absatz 1 Satz 4 entsprechend.
 
 
 #### § 15 Bodenwert
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001601119)
 
 (1) Zur Ermittlung des Bodenwerts sind Erhebungen anzustellen über
 
@@ -538,6 +559,7 @@ Nutzung als zulässig zugrunde gelegt werden.
 
 
 #### § 16 Wert der baulichen Anlage
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001701119)
 
 (1) Zur Ermittlung des Werts der baulichen Anlage sind die aus
 Erfahrungssätzen abzuleitenden Herstellungskosten je Raum- oder
@@ -578,6 +600,7 @@ beschränkt.
 
 
 #### § 17 Wertminderung wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001800000)
 
 (1) Die Wertminderung wegen Alters bestimmt sich nach dem Verhältnis
 der Restnutzungsdauer zur Nutzungsdauer der baulichen Anlage; sie ist
@@ -596,14 +619,17 @@ Nutzungsdauer zugrunde gelegt werden.
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE001901119)
 
 
 
 ### Abschnitt 3 - Vergleichswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000600000)
 
 
 
 #### § 19 Ermittlung des Vergleichswerts
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002001119)
 
 (1) Zur Ermittlung des Vergleichswerts sind nachhaltig erzielbare
 Vergleichspreise von Objekten heranzuziehen, die hinsichtlich der
@@ -631,10 +657,12 @@ Belegenheit der Objekte repräsentativ sein.
 
 
 ### Abschnitt 4 - Besonderheiten bei einzelnen Objekten
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000700000)
 
 
 
 #### § 20 Bauland
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002101119)
 
 Bei der Wertermittlung von Bauland ist sowohl dessen
 Entwicklungszustand als auch der künftige Bedarf an Baugrundstücken zu
@@ -645,6 +673,7 @@ anzuwenden.
 
 
 #### § 21 Erbbaurechte und andere grundstücksgleiche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002200000)
 
 Bei der Beleihung von Erbbaurechten ist die Restlaufzeit des
 Erbbaurechts zu berücksichtigen. Sich aus dem Erbbaurecht ergebenden
@@ -659,6 +688,7 @@ vergleichbar sind, entsprechend.
 
 
 #### § 22 Landwirtschaftlich genutzte Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002301119)
 
 (1) Landwirtschaftlich genutzte Grundstücke sind solche, deren
 überwiegender Teil des Rohertrags durch land- oder
@@ -680,6 +710,7 @@ landwirtschaftlichen Betriebs genutzt werden können.
 
 
 #### § 23 Maschinen und Betriebseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002401119)
 
 Maschinen und Betriebseinrichtungen sind bei der Ermittlung des
 Sachwerts grundsätzlich unberücksichtigt zu lassen, sofern sie nicht
@@ -691,6 +722,7 @@ und technische Entwertung gesondert zu schätzen.
 
 
 #### § 24 Wohnwirtschaftlich genutzte Objekte bei Vergabe von Kleindarlehen
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002502119)
 
 (1) Bei der Beleihung eines im Inland gelegenen wohnwirtschaftlich
 genutzten Objekts kann auf die Erstellung eines Gutachtens nach § 5
@@ -821,10 +853,12 @@ vorzunehmende Überprüfung einzubeziehen.
 
 
 ### Abschnitt 5 - Im Ausland belegene Objekte
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000800000)
 
 
 
 #### § 25 Besonderheiten bei Beleihungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002601119)
 
 (1) Die Ermittlung des Beleihungswerts von im Ausland belegenen
 Objekten ist nach den übrigen Vorschriften dieser Verordnung nur
@@ -888,10 +922,12 @@ erfolgen.
 
 
 ### Abschnitt 6 - Überprüfung der Beleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG000900000)
 
 
 
 #### § 26 Überprüfung der Grundlagen der Beleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002701119)
 
 (1) Der Beleihungswert ist längstens jährlich zu überwachen. Bestehen
 Anhaltspunkte, dass sich die Grundlagen der Beleihungswertermittlung
@@ -909,10 +945,12 @@ zur Überprüfung des Beleihungswerts besteht, bleibt diese unberührt.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNG001000000)
 
 
 
 ### § 27 Bezugsquelle der DIN-Norm
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002800000)
 
 Die in § 6 Satz 1 genannte DIN-Norm ist im Beuth Verlag GmbH, Berlin
 erschienen und im Deutschen Patent- und Markenamt in München
@@ -920,6 +958,7 @@ archivmäßig gesichert niedergelegt.
 
 
 ### § 28 Inkrafttreten, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE002901119)
 
 (1) Diese Verordnung tritt am 1. August 2006 in Kraft.
 
@@ -937,6 +976,7 @@ veröffentlichten Rendite 30-jähriger Bundesanleihen bekannt.
 (zu § 11 Absatz 2)
 
 ### Anlage 1 Mindestsätze für die Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE003001119)
 
 (Fundstelle: BGBl. I 2022, 1713 - 1714)
 
@@ -1038,6 +1078,7 @@ c)  Hohes Modernisierungsrisiko
 (zu § 12 Absatz 2)
 
 ### Anlage 2 Maximalsätze für die Nutzungsdauer in Deutschland belegener baulicher Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE003101119)
 
 (Fundstelle: BGBl. I 2022, 1714)
 
@@ -1077,6 +1118,7 @@ B)  Gewerbliche Nutzung:
 (zu § 12 Absatz 4)
 
 ### Anlage 3 Bei den Mindestkapitalisierungszinssätzen nach § 12 Absatz 4 für einzelne Nutzungsarten zu berücksichtigende Aufschläge
+[Direktlink](https://www.gesetze-im-internet.de/belwertv/BJNR117500006.html#BJNR117500006BJNE003201119)
 
 (Fundstelle: BGBl. I 2022, 1714)
 

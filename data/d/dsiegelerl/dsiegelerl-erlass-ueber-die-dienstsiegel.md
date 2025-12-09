@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000100311)
 
 Auf Vorschlag der Bundesregierung bestimme ich folgendes:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000200311)
 
 (1) Das Bundessiegel wird in Form und Größe der vorgelegten Bildtafel
 festgesetzt.
@@ -33,6 +35,7 @@ die siegelführende Behörde bezeichnenden Umschrift.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000300311)
 
 (1) Das große Bundessiegel wird von dem Bundespräsidenten, dem
 Bundeskanzler, den Bundesministern und dem Rechnungshof der
@@ -50,6 +53,7 @@ Ausfertigung von Urteilen und Beschlüssen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000400311)
 
 (1) Im übrigen führen alle Bundesbehörden das kleine Bundessiegel; das
 gleiche gilt für die Deutsche Bundesbank und ihre Urkundsbeamten.
@@ -61,6 +65,7 @@ Anlaß vorliegt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000500311)
 
 Die Bundesbehörden dürfen Dienstsiegel von abweichender Größe oder
 Form nur zu besonderen Zwecken und nur mit Genehmigung des
@@ -68,12 +73,14 @@ vorgesetzten Bundesministers gebrauchen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000600311)
 
 Der Bundesminister des Innern wird allgemeinverbindliche Richtlinien
 zur Ausführung des Erlasses aufstellen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dsiegelerl/BJNR100260950.html#BJNR100260950BJNE000700311)
 
 Der Bundespräsident
 Der Bundeskanzler

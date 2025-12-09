@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -33,9 +34,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000300000)
 
 Der Ausbildungsberuf des Luftverkehrskaufmanns und der
 Luftverkehrskauffrau wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -43,11 +46,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -65,6 +70,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -130,6 +136,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -137,6 +144,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -147,9 +155,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE000900000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -161,6 +171,7 @@ durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -177,6 +188,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001100000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -191,6 +203,7 @@ statt:
 
 
 ### § 10 Prüfungsbereich Passagierprozesse
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001200000)
 
 (1) Im Prüfungsbereich Passagierprozesse soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -218,6 +231,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 11 Prüfungsbereich Personal und Beschaffung
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001300000)
 
 (1) Im Prüfungsbereich Personal und Beschaffung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -241,6 +255,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 12 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001400000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -262,6 +277,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 13 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001500000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -279,6 +295,7 @@ statt:
 
 
 ### § 14 Prüfungsbereich Kaufmännische Unterstützungsprozesse
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001600000)
 
 (1) Im Prüfungsbereich Kaufmännische Unterstützungsprozesse soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -305,6 +322,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 15 Prüfungsbereich Abfertigungsprozesse
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001700000)
 
 (1) Im Prüfungsbereich Abfertigungsprozesse soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -339,6 +357,7 @@ des Lösungsweges durch den Prüfling eingeleitet.
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -352,6 +371,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -442,15 +462,18 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNG000300000)
 
 
 ### § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Luftverkehrskaufmann und zur Luftverkehrskauffrau
+[Direktlink](https://www.gesetze-im-internet.de/luftvkflausbv/BJNR066800017.html#BJNR066800017BJNE002100000)
 
 (Fundstelle: BGBl. I 2017, 671 - 675)
 

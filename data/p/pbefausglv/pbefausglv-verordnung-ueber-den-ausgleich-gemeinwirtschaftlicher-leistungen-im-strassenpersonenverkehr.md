@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000100312)
 
 Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2439)
 eingefügten § 58 Abs. 1 Nr. 5 des Personenbeförderungsgesetzes in der
@@ -29,6 +30,7 @@ Bundesrates verordnet:
 
 
 ## § 1 Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000203308)
 
 (1) Auszubildende im Sinne des § 45a Abs. 1 des
 Personenbeförderungsgesetzes sind
@@ -112,6 +114,7 @@ Die Bescheinigung gilt längstens ein Jahr.
 
 
 ## § 2 Kostenbestandteile für die Festlegung der Kostensätze
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000300312)
 
 Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung
 nach § 45a Abs. 2 Satz 2 des Gesetzes gelten die in der Anlage
@@ -125,6 +128,7 @@ ausdrücklich aufgeführt sind, außer Ansatz.
 
 
 ## § 3 Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000403308)
 
 (1) Personen-Kilometer werden durch Multiplikation der
 Beförderungsfälle mit der mittleren Reiseweite ermittelt.
@@ -205,6 +209,7 @@ ist nachzuweisen
 
 
 ## § 4 Ermittlung der Erträge
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000500312)
 
 Als Erträge im Sinne von § 45a Abs. 1 und 2 des Gesetzes sind die
 Fahrgeldeinnahmen aus dem Verkauf von Zeitfahrausweisen im
@@ -213,6 +218,7 @@ Beförderungsentgelten anzusetzen.
 
 
 ## § 5 Sonderregelung bei Einnahmeaufteilungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000600312)
 
 (1) Werden in einem von mehreren Unternehmern gebildeten
 zusammenhängenden Liniennetz mit einheitlichen oder verbundenen
@@ -234,6 +240,7 @@ Zustimmung der Genehmigungsbehörde.
 
 
 ## § 6 Länderüberschreitender Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000700312)
 
 (1) Erstreckt sich die Beförderung von Auszubildenden mit
 Zeitfahrausweisen auf das Gebiet mehrerer Länder, sind deren Anteilen
@@ -250,6 +257,7 @@ gilt § 11 Abs. 1, 3 und 4 des Gesetzes entsprechend.
 
 
 ## § 7 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000800312)
 
 (1) Der Antrag auf Gewährung eines Ausgleichs ist vom Unternehmer bis
 zum 31. Mai jeden Jahres für das vorangegangene Kalenderjahr bei der
@@ -273,6 +281,7 @@ Genehmigungsbehörde weitere Nachweise verlangen.
 
 
 ## § 8 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE000900312)
 
 Die Entscheidung ist schriftlich zu erlassen und dem Antragsteller
 zuzustellen. Wird dem Antrag nicht oder nicht in vollem Umfang
@@ -281,12 +290,14 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ## § 9 Änderung der Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE001000312)
 
 Jede Änderung der Tatsachen, die der Berechnung des Ausgleichs
 zugrunde liegen, ist unverzüglich der Genehmigungsbehörde anzuzeigen.
 
 
 ## § 10 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE001102308)
 
 (1) Die Unternehmer erhalten auf den Ausgleichsbetrag auf Antrag für
 das laufende Kalenderjahr Vorauszahlungen in Höhe von insgesamt 80 vom
@@ -298,16 +309,19 @@ geleistet.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE001401308)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE001500312)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage zu § 2
+[Direktlink](https://www.gesetze-im-internet.de/pbefausglv/BJNR014600977.html#BJNR014600977BJNE001601119)
 
 (Fundstelle des Originaltextes: BGBl. I 1977, 1463 - 1464;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

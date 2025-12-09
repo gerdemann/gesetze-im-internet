@@ -20,6 +20,7 @@ Stand: V in Kraft gem. Bek. v. 21.6.1989 II 559 mWv 3.3.1989
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv_3/BJNR209790988.html#BJNR209790988BJNE000100326)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen vom 21. November
@@ -31,6 +32,7 @@ neu gefaßt wurde, verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv_3/BJNR209790988.html#BJNR209790988BJNE000200326)
 
 Für die Gewährung von Vorrechten und Befreiungen an die
 Sonderorganisation der Vereinten Nationen für industrielle Entwicklung
@@ -41,6 +43,7 @@ amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv_3/BJNR209790988.html#BJNR209790988BJNE000300326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -49,6 +52,7 @@ S. 187) neu gefaßt wurde, auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv_3/BJNR209790988.html#BJNR209790988BJNE000400326)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die
 betreffende Anlage gemäß den §§ 43, 44 des Abkommens vom 21. November
@@ -62,6 +66,7 @@ im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv_3/BJNR209790988.html#BJNR209790988BJNE000500326)
 
 Der Bundesrat hat zugestimmt.
 

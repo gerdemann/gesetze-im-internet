@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000200000)
 
 Zweck dieses Gesetzes ist es, die Voraussetzungen für genetische
 Untersuchungen und im Rahmen genetischer Untersuchungen durchgeführte
@@ -34,6 +36,7 @@ des Rechts auf informationelle Selbstbestimmung zu wahren.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000300000)
 
 (1) Dieses Gesetz gilt für genetische Untersuchungen und im Rahmen
 genetischer Untersuchungen durchgeführte genetische Analysen bei
@@ -67,6 +70,7 @@ Analysen und den Umgang mit genetischen Proben und Daten
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000400000)
 
 Im Sinne dieses Gesetzes
 
@@ -218,6 +222,7 @@ Im Sinne dieses Gesetzes
 
 
 ### § 4 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000500000)
 
 (1) Niemand darf wegen seiner oder der genetischen Eigenschaften einer
 genetisch verwandten Person, wegen der Vornahme oder Nichtvornahme
@@ -232,6 +237,7 @@ Vorschriften, die dem Schutz bestimmter Personengruppen dienen.
 
 
 ### § 5 Qualitätssicherung genetischer Analysen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000601000)
 
 (1) Genetische Analysen im Rahmen genetischer Untersuchungen zur
 Klärung der Abstammung dürfen nur von Einrichtungen vorgenommen
@@ -270,6 +276,7 @@ erfüllen.
 
 
 ### § 6 Abgabe genetischer Untersuchungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000700000)
 
 Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates regeln, dass bestimmte, in der
@@ -281,9 +288,11 @@ Untersuchungen nach Maßgabe dieses Gesetzes berechtigt sind.
 
 
 ## Abschnitt 2 - Genetische Untersuchungen zu medizinischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000200000)
 
 
 ### § 7 Arztvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000801000)
 
 (1) Eine diagnostische genetische Untersuchung darf nur durch
 Ärztinnen oder Ärzte und eine prädiktive genetische Untersuchung nur
@@ -303,6 +312,7 @@ qualifiziert haben, vorgenommen werden.
 
 
 ### § 8 Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE000901116)
 
 (1) Eine genetische Untersuchung oder Analyse darf nur vorgenommen und
 eine dafür erforderliche genetische Probe nur gewonnen werden, wenn
@@ -327,6 +337,7 @@ Person oder Einrichtung unverzüglich einen Nachweis des Widerrufs zu
 
 
 ### § 9 Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001000000)
 
 (1) Vor Einholung der Einwilligung hat die verantwortliche ärztliche
 Person die betroffene Person über Wesen, Bedeutung und Tragweite der
@@ -378,6 +389,7 @@ vor der genetischen Untersuchung zu dokumentieren.
 
 
 ### § 10 Genetische Beratung
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001100000)
 
 (1) Bei einer diagnostischen genetischen Untersuchung soll die
 verantwortliche ärztliche Person nach Vorliegen des
@@ -422,6 +434,7 @@ den Inhalt der Beratung zu dokumentieren.
 
 
 ### § 11 Mitteilung der Ergebnisse genetischer Untersuchungen und Analysen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001201116)
 
 (1) Das Ergebnis einer genetischen Untersuchung darf vorbehaltlich der
 Absätze 2 und 3 nur der betroffenen Person und nur durch die
@@ -446,6 +459,7 @@ Abs. 2 ihre Einwilligung widerrufen hat.
 
 
 ### § 12 Aufbewahrung und Vernichtung der Ergebnisse genetischer Untersuchungen und Analysen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001301116)
 
 (1) Die Ergebnisse genetischer Untersuchungen und Analysen hat die
 verantwortliche ärztliche Person zehn Jahre in den
@@ -479,6 +493,7 @@ nach § 7 Abs. 2 beauftragte Person oder Einrichtung entsprechend.
 
 
 ### § 13 Verwendung und Vernichtung genetischer Proben
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001400000)
 
 (1) Eine genetische Probe darf nur für die Zwecke verwendet werden,
 für die sie gewonnen worden ist. Die verantwortliche ärztliche Person
@@ -499,6 +514,7 @@ unzulässige Verwendung der Probe auszuschließen.
 
 
 ### § 14 Genetische Untersuchungen bei nicht einwilligungsfähigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001501311)
 
 (1) Bei einer Person, die nicht in der Lage ist, Wesen, Bedeutung und
 Tragweite der genetischen Untersuchung zu erkennen und ihren Willen
@@ -567,6 +583,7 @@ Anwendung.
 
 
 ### § 15 Vorgeburtliche genetische Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001601311)
 
 (1) Eine genetische Untersuchung darf vorgeburtlich nur zu
 medizinischen Zwecken und nur vorgenommen werden, soweit die
@@ -619,6 +636,7 @@ finden Anwendung.
 
 
 ### § 16 Genetische Reihenuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001700000)
 
 (1) Eine genetische Reihenuntersuchung darf nur vorgenommen werden,
 wenn mit der Untersuchung geklärt werden soll, ob die betroffenen
@@ -638,9 +656,11 @@ Sinne ethisch vertretbar ist.
 
 
 ## Abschnitt 3 - Genetische Untersuchungen zur Klärung der Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000300000)
 
 
 ### § 17 Genetische Untersuchungen zur Klärung der Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001802311)
 
 (1) Eine genetische Untersuchung zur Klärung der Abstammung darf nur
 vorgenommen werden, wenn die Person, deren genetische Probe untersucht
@@ -747,9 +767,11 @@ diesem Fall keine Anwendung.
 
 
 ## Abschnitt 4 - Genetische Untersuchungen im Versicherungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000400000)
 
 
 ### § 18 Genetische Untersuchungen und Analysen im Zusammenhang mit dem Abschluss eines Versicherungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE001900000)
 
 (1) Der Versicherer darf von Versicherten weder vor noch nach
 Abschluss des Versicherungsvertrages
@@ -773,9 +795,11 @@ die §§ 19 bis 22 und 47 des Versicherungsvertragsgesetzes anzuwenden.
 
 
 ## Abschnitt 5 - Genetische Untersuchungen im Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000500000)
 
 
 ### § 19 Genetische Untersuchungen und Analysen vor und nach Begründung des Beschäftigungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002000000)
 
 Der Arbeitgeber darf von Beschäftigten weder vor noch nach Begründung
 des Beschäftigungsverhältnisses
@@ -792,6 +816,7 @@ des Beschäftigungsverhältnisses
 
 
 ### § 20 Genetische Untersuchungen und Analysen zum Arbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002101000)
 
 (1) Im Rahmen arbeitsmedizinischer Vorsorgeuntersuchungen dürfen weder
 
@@ -849,6 +874,7 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 21 Arbeitsrechtliches Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002200000)
 
 (1) Der Arbeitgeber darf Beschäftigte bei einer Vereinbarung oder
 Maßnahme, insbesondere bei der Begründung des
@@ -865,6 +891,7 @@ entsprechend.
 
 
 ### § 22 Öffentlich-rechtliche Dienstverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002300000)
 
 Es gelten entsprechend
 
@@ -889,9 +916,11 @@ Es gelten entsprechend
 
 
 ## Abschnitt 6 - Allgemein anerkannter Stand der Wissenschaft und Technik
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000600000)
 
 
 ### § 23 Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002400000)
 
 (1) Beim Robert Koch-Institut wird eine interdisziplinär
 zusammengesetzte, unabhängige Gendiagnostik-Kommission eingerichtet,
@@ -997,13 +1026,16 @@ Anwendung ihrer Richtlinien abgeben.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002503116)
 
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000700000)
 
 
 ### § 25 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002600000)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -1046,6 +1078,7 @@ des Absatzes 1 Nr. 3 die Schwangere.
 
 
 ### § 26 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002701116)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1087,9 +1120,11 @@ S. 2) in der jeweils geltenden Fassung unmittelbar gilt.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNG000800000)
 
 
 ### § 27 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gendg/BJNR252900009.html#BJNR252900009BJNE002800000)
 
 (1) Dieses Gesetz tritt am 1. Februar 2010 in Kraft, soweit in den
 folgenden Absätzen nichts Abweichendes bestimmt ist.

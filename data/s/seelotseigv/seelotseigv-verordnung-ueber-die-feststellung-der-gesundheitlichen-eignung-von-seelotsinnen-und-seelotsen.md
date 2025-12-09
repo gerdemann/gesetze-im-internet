@@ -19,6 +19,7 @@ Fundstelle
 Stand: Bek. v. 21.11.2022 I 2097 ist berücksichtigt
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000100000)
 
 (1) Diese Verordnung regelt
 
@@ -71,6 +72,7 @@ Stand: Bek. v. 21.11.2022 I 2097 ist berücksichtigt
 
 
 ## § 2 Anforderungen an die Eignung der Seelotsinnen und Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000200000)
 
 (1) Als Seelotsin oder Seelotse auf Seelotsrevieren oder auf
 Seeschifffahrtsstraßen außerhalb der Seelotsreviere oder als
@@ -138,6 +140,7 @@ erfüllt.
 
 
 ## § 3 Anforderungen an die Eignung der Seelotsenbewerberinnen und Seelotsenbewerber
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000300000)
 
 (1) Eine Seelotsenbewerberin oder ein Seelotsenbewerber ist für die
 Zulassung als Seelotsenanwärterin oder Seelotsenanwärter
@@ -232,6 +235,7 @@ elektronisch mitzuteilen.
 
 
 ## § 4 Durchführung der Seelotseignungsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000400000)
 
 (1) Die zur Untersuchung befugte Ärztin oder der zur Untersuchung
 befugte Arzt hat vor jeder Seelotseignungsuntersuchung die Identität
@@ -254,6 +258,7 @@ einzutragen.
 
 
 ## § 5 Seelotseignungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000500000)
 
 (1) Zur Durchführung der Seelotseignungsuntersuchung und Erteilung des
 Seelotseignungszeugnisses bei festgestellter Seelotseignung ist befugt
@@ -307,6 +312,7 @@ diesem Zeitpunkt voraussehbar ist.
 
 
 ## § 6 Ablehnung der Seelotseignung, Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000600000)
 
 (1) Ist die untersuchte Person für den Seelotsberuf nicht geeignet
 oder vorübergehend nicht geeignet, stellt die zur Untersuchung befugte
@@ -324,6 +330,7 @@ Verwaltungsprozessrechts erhoben werden.
 
 
 ## § 7 Zugelassene Ärztinnen und Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000700000)
 
 Nach § 16 des Seearbeitsgesetzes zugelassene Ärztinnen und Ärzte
 müssen, um Seelotseignungsuntersuchungen nach § 13 Absatz 1 des
@@ -360,6 +367,7 @@ Seelotseignungsuntersuchungen
 
 
 ## § 8 Dokumentationspflichten, Zugang zum Seelotseignungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000800000)
 
 (1) Für die Dokumentationspflichten der zugelassenen Ärztinnen oder
 zugelassenen Ärzte und der Ärztinnen oder der Ärzte des Seeärztlichen
@@ -405,6 +413,7 @@ Verordnung vor, ist das Seelotseignungsverzeichnis zu berichtigen.
 
 
 ## § 9 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE000900000)
 
 Die Kosten der Durchführung der Seelotseignungsuntersuchung durch eine
 zugelassene Ärztin oder einen zugelassenen Arzt trägt die untersuchte
@@ -415,6 +424,7 @@ psychologischer Gutachten trägt ebenfalls die untersuchte Person.
 
 
 ## § 10 Muster
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE001000000)
 
 Die Berufsgenossenschaft kann Muster für die nach dieser Verordnung
 vorgesehenen Zeugnisse, Bescheinigungen und Vordrucke im Verkehrsblatt
@@ -422,6 +432,7 @@ bekannt machen.
 
 
 ## § 11 Anwendungs- und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE001100000)
 
 (1) § 3 ist ab dem ersten Tag des Monats anzuwenden, der auf den Monat
 folgt, in dem alle sachlichen, insbesondere räumlichen,
@@ -471,6 +482,7 @@ nach § 3 dieser Verordnung zugrunde zu legen.
 (zu § 2 Absatz 1 Nummer 2 und § 4 Absatz 2 Satz 2)
 
 ## Anlage 1 Umfang der Seelotseignungsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE001200000)
 
 (Fundstelle: BGBl. I 2022, 781)
 
@@ -659,6 +671,7 @@ nachfolgenden Tabelle:
 (zu § 3 Absatz 2)
 
 ## Anlage 2 Psychologischer Eignungstest für Seelotsenbewerberinnen und Seelotsenbewerber
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE001300000)
 
 (Fundstelle: BGBl. I 2022, 782 - 783)
 
@@ -860,6 +873,7 @@ nachfolgenden Tabelle:
 (zu § 11 Absatz 5)
 
 ## Anlage 3 Vergleichbarkeit der Ergebnisse der psychologischen Eignungstests nach bisherigem und neuem Recht
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv/BJNR077710022.html#BJNR077710022BJNE001400000)
 
 (Fundstelle: BGBl. I 2022, 784)
 

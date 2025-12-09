@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bzuschv_2022/BJNR632300021.html#BJNR632300021BJNE000100000)
 
 Auf Grund des § 221a Absatz 3 Satz 3 und 4 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 1 Nummer 52a Buchstabe b des
@@ -28,6 +29,7 @@ des Bundestages vom 18. November 2021:
 
 
 ## § 1 Ergänzender Bundeszuschuss 2022
+[Direktlink](https://www.gesetze-im-internet.de/bzuschv_2022/BJNR632300021.html#BJNR632300021BJNE000200000)
 
 Abweichend von § 221a Absatz 3 Satz 1 des Fünften Buches
 Sozialgesetzbuch wird ein ergänzender Bundeszuschuss für das Jahr 2022
@@ -38,6 +40,7 @@ Gesundheitsfonds an die landwirtschaftliche Krankenversicherung zu
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bzuschv_2022/BJNR632300021.html#BJNR632300021BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

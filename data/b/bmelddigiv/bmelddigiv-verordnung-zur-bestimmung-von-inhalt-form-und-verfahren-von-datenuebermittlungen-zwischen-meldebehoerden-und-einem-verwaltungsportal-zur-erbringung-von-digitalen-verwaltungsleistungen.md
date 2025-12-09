@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000100000)
 
 Diese Verordnung bestimmt die zu übermittelnden Daten, die zur
 Erbringung von elektronischen Verwaltungsleistungen nach dem
@@ -31,6 +32,7 @@ einem Verwaltungsportal nach § 2 Absatz 2 des Onlinezugangsgesetzes.
 
 
 ## § 2 Technische Grundlagen der Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000200000)
 
 (1) Datenübermittlungen nach dieser Verordnung erfolgen elektronisch
 unter Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung
@@ -64,6 +66,7 @@ Transport gleichwertig sind.
 
 
 ## § 3 Standards der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000300000)
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des
 Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil –
@@ -95,6 +98,7 @@ Datenblatts in der jeweils gültigen Fassung.
 
 
 ## § 4 Identifikation der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000401130)
 
 (1) Zum Zweck der Durchführung der angebotenen Dienste nach den §§ 5
 bis 10 ist die betroffene Person anhand eines elektronischen
@@ -151,6 +155,7 @@ identifiziert.
 
 
 ## § 5 Abrufdaten für die Meldebescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000501130)
 
 (1) Die Verwaltungsportale können für die Erteilung einer
 Meldebescheinigung durch die zuständige Meldebehörde nach § 18 Absatz
@@ -515,6 +520,7 @@ Bundesmeldegesetzes im Melderegister eingetragen ist, werden nicht
 
 
 ## § 6 Meldedatensatz zum Abruf
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000600000)
 
 Die Verwaltungsportale können zum Zweck der Weiterleitung der
 Meldedaten in eine elektronische Verwaltungsleistung nach dem
@@ -527,6 +533,7 @@ entsprechend.
 
 
 ## § 7 Abruf einer beschränkten Selbstauskunft aus dem Melderegister
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000704130)
 
 (1) Die Verwaltungsportale können für die elektronische Erteilung
 einer Selbstauskunft aus dem Melderegister durch die zuständige
@@ -970,6 +977,7 @@ Melderegister eingetragen ist, werden nicht übermittelt.
 
 
 ## § 8 Abruf, Eintragung oder Löschung der Daten zu Übermittlungssperren
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000800000)
 
 (1) Die Verwaltungsportale können nach Artikel 15 Absatz 1 der
 Datenschutz-Grundverordnung für die Erteilung einer Auskunft über das
@@ -1037,6 +1045,7 @@ Nebenwohnung zuständige Meldebehörde übermitteln.
 
 
 ## § 9 Elektronische Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE000904130)
 
 (1) Die Verwaltungsportale können für die elektronische Anmeldung auf
 Antrag der meldepflichtigen Person bei der für die alleinige Wohnung
@@ -1402,6 +1411,7 @@ elektronisch an die Zuzugsmeldebehörde.
 
 
 ## § 10 Meldebestätigung der elektronischen Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmelddigiv/BJNR068310022.html#BJNR068310022BJNE001001130)
 
 Die Zuzugsmeldebehörde übermittelt nach Durchführung der
 elektronischen Anmeldung nach § 23a des Bundesmeldegesetzes eine

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000100305)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten
@@ -32,6 +33,7 @@ dem Bundesministerien für Wirtschaft und des Innern:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000201128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Meister für Bäderbetriebe/zur
@@ -99,6 +101,7 @@ Bäderbetriebe".
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000300305)
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte
 Abschlußprüfung in den anerkannten Ausbildungsberufen Fachangestellter
@@ -113,6 +116,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000401308)
 
 (1) Die Qualifikation zum Geprüften Meister für Bäderbetriebe/zur
 Geprüften Meisterin für Bäderbetriebe umfasst:
@@ -147,6 +151,7 @@ der letzten Prüfungsleistung zu erbringen.
 
 
 ## § 4 Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000503128)
 
 (1) Im allgemeinen Teil ist in folgenden Fächern zu prüfen:
 
@@ -407,6 +412,7 @@ gewichtet.
 
 
 ## § 5 Fachtheoretischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000602128)
 
 (1) Im fachtheoretischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -774,6 +780,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Fachpraktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000701128)
 
 (1) Im fachpraktischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -921,6 +928,7 @@ dauern. Die Mindestzeiten betragen in den Prüfungsfächern:
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE000903128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -933,6 +941,7 @@ zugrunde zu legen.
 
 
 ## § 8 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001700128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -948,6 +957,7 @@ gleichgewichtig zu einer Bewertung zusammenzufassen.
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001002128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -990,6 +1000,7 @@ Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001800128)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -1016,6 +1027,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001102128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -1031,12 +1043,14 @@ diesem Fall zählt das letzte Ergebnis für das Bestehen.
 
 
 ## § 12 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001202128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001600128)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die berufliche Fortbildung zum
@@ -1046,6 +1060,7 @@ Kraft.
 (zu den §§ 8 und 9)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001403128)
 
 (Fundstelle: BGBl. I 2019, 2207 - 2208)
 
@@ -1347,6 +1362,7 @@ Kraft.
 (zu § 10)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/b_dermeistprv/BJNR181000998.html#BJNR181000998BJNE001503128)
 
 (Fundstelle: BGBl. I 2019, 2208 - 2209)
 

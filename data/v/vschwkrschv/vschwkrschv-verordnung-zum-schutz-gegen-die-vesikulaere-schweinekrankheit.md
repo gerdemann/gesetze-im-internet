@@ -28,10 +28,12 @@ der vesikulären Schweinekrankheit (ABl. EG 1993 Nr. L 62 S. 69).
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNG000101308)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE000502308)
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -64,6 +66,7 @@ Im Sinne dieser Verordnung liegen vor:
 
 
 ### § 2 Impfverbot
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE000601308)
 
 (1) Impfungen gegen die Vesikuläre Schweinekrankheit sowie
 Heilversuche an seuchenkranken oder verdächtigen Tieren sind verboten.
@@ -73,6 +76,7 @@ für wissenschaftliche Versuche genehmigen.
 
 
 ### § 3 Untersuchungen, Maßregeln beim Einstellen
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE000701308)
 
 Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung
 erforderlich ist, anordnen,
@@ -100,10 +104,12 @@ erforderlich ist, anordnen,
 
 
 ## Abschnitt 2 - Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNG000201308)
 
 
 
 ### § 4 Schutzmaßregeln vor amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE000802124)
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der
 Vesikulären Schweinekrankheit in einem Betrieb oder an einem sonstigen
@@ -156,12 +162,14 @@ ist.
 
 
 ### § 5 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE000901308)
 
 Die zuständige Behörde macht den Ausbruch der Vesikulären
 Schweinekrankheit öffentlich bekannt.
 
 
 ### § 6 Sperre des Betriebes oder sonstigen Standortes
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001001308)
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs der Vesikulären
 Schweinekrankheit amtlich festgestellt, so unterliegt der Betrieb oder
@@ -245,6 +253,7 @@ ist.
 
 
 ### § 7 Tötung und unschädliche Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001101308)
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem
 Betrieb oder an einem sonstigen Standort amtlich festgestellt, so
@@ -258,6 +267,7 @@ unschädliche Beseitigung sämtlicher Schweine anordnen.
 
 
 ### § 8 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001201308)
 
 Bei Betrieben mit gesonderten Betriebseinheiten kann die zuständige
 Behörde für nicht betroffene Betriebseinheiten eines von der Seuche
@@ -270,6 +280,7 @@ auf sie nicht anzunehmen ist.
 
 
 ### § 9 Sperrbezirk
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001302310)
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem
 Betrieb oder an einem sonstigen Standort amtlich festgestellt, so legt
@@ -392,6 +403,7 @@ lassen.
 
 
 ### § 10 Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001402310)
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem
 Betrieb oder an einem sonstigen Standort amtlich festgestellt, so legt
@@ -450,6 +462,7 @@ Vorschriften der Sperre:
 
 
 ### § 11 Schutzmaßregeln bei Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001501308)
 
 (1) Ist in einem Betrieb oder an einem sonstigen Standort der Verdacht
 des Ausbruchs oder der Ausbruch der Vesikulären Schweinekrankheit
@@ -490,6 +503,7 @@ Seuchenerregers auf sie nicht anzunehmen ist.
 
 
 ### § 12 Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001602301)
 
 (1) Nach Tötung und unschädlicher Beseitigung der seuchenkranken oder
 verdächtigen Schweine muss der Besitzer die Schweineställe und
@@ -509,6 +523,7 @@ er verbrennen oder zusammen mit dem Dung behandeln.
 
 
 ### § 13 Schutzmaßregeln auf Tierausstellungen, auf dem Transport und in Schlachtstätten
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001701308)
 
 (1) Wird bei Schweinen, die sich auf Tiermärkten, Tierausstellungen
 oder Veranstaltungen ähnlicher Art oder auf dem Transport befinden,
@@ -549,6 +564,7 @@ Vesikuläre Schweinekrankheit festgestellt,
 
 
 ### § 14 Aufhebung von Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001802308)
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn
 die Vesikuläre Schweinekrankheit erloschen ist oder der Verdacht auf
@@ -598,10 +614,12 @@ Anzeichen ergeben hat, die auf Vesikuläre Schweinekrankheit hinweisen.
 
 
 ## Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNG000301308)
 
 
 
 ### § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/vschwkrschv/BJNR043310994.html#BJNR043310994BJNE001903301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig

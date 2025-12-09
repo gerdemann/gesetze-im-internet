@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sonntverkv/BJNR018810957.html#BJNR018810957BJNE000100317)
 
 Auf Grund des § 12 Abs. 1 des Gesetzes über den Ladenschluß vom 28.
 November 1956 (Bundesgesetzbl. I S. 875) in der Fassung des Gesetzes
@@ -29,6 +30,7 @@ und Forsten mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sonntverkv/BJNR018810957.html#BJNR018810957BJNE000201308)
 
 (1) Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 des Gesetzes
 über den Ladenschluß dürfen an Sonn- und Feiertagen geöffnet sein für
@@ -68,16 +70,19 @@ Oster- und Pfingstfeiertag.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sonntverkv/BJNR018810957.html#BJNR018810957BJNE000301308)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sonntverkv/BJNR018810957.html#BJNR018810957BJNE000400317)
 
 Diese Verordnung tritt am 1. Januar 1958 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sonntverkv/BJNR018810957.html#BJNR018810957BJNE000500317)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

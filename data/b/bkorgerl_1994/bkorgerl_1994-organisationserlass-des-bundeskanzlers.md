@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1994/BJNR366710994.html#BJNR366710994BJNE000100307)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
 17\. November 1994 bekannt, der mit Wirkung vom 17. November 1994 in

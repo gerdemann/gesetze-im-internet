@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2025-11-06_1/BJNR1100A0025.html#BJNR1100A0025BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „Elly Heuss-
@@ -58,11 +59,13 @@ und wird von einem schützenden, glatten Randstab umgeben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2025-11-06_1/BJNR1100A0025.html#BJNR1100A0025BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2025-11-06_1/BJNR1100A0025.html#BJNR1100A0025BJNE000300000)
 
 (Fundstelle: BGBl. 2025 I Nr. 272, S. 2)
 

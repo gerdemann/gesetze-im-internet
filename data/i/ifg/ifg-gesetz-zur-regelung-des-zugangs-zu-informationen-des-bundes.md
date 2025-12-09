@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000100000)
 
 (1) Jeder hat nach Maßgabe dieses Gesetzes gegenüber den Behörden des
 Bundes einen Anspruch auf Zugang zu amtlichen Informationen. Für
@@ -45,6 +46,7 @@ Sozialgesetzbuch vor.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000200000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -61,6 +63,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Schutz von besonderen öffentlichen Belangen
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000300000)
 
 Der Anspruch auf Informationszugang besteht nicht,
 
@@ -142,6 +145,7 @@ Der Anspruch auf Informationszugang besteht nicht,
 
 
 ## § 4 Schutz des behördlichen Entscheidungsprozesses
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000400000)
 
 (1) Der Antrag auf Informationszugang soll abgelehnt werden für
 Entwürfe zu Entscheidungen sowie Arbeiten und Beschlüsse zu ihrer
@@ -157,6 +161,7 @@ Verfahrens informiert werden.
 
 
 ## § 5 Schutz personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000501116)
 
 (1) Zugang zu personenbezogenen Daten darf nur gewährt werden, soweit
 das Informationsinteresse des Antragstellers das schutzwürdige
@@ -192,6 +197,7 @@ der amtlichen Tätigkeit sind und kein Ausnahmetatbestand erfüllt ist.
 
 
 ## § 6 Schutz des geistigen Eigentums und von Betriebs- oder Geschäftsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000600000)
 
 Der Anspruch auf Informationszugang besteht nicht, soweit der Schutz
 geistigen Eigentums entgegensteht. Zugang zu Betriebs- oder
@@ -200,6 +206,7 @@ eingewilligt hat.
 
 
 ## § 7 Antrag und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000700000)
 
 (1) Über den Antrag auf Informationszugang entscheidet die Behörde,
 die zur Verfügung über die begehrten Informationen berechtigt ist. Im
@@ -234,6 +241,7 @@ unberührt.
 
 
 ## § 8 Verfahren bei Beteiligung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000800000)
 
 (1) Die Behörde gibt einem Dritten, dessen Belange durch den Antrag
 auf Informationszugang berührt sind, schriftlich Gelegenheit zur
@@ -250,6 +258,7 @@ Bekanntgabe der Anordnung an den Dritten zwei Wochen verstrichen sind.
 
 
 ## § 9 Ablehnung des Antrags; Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE000900000)
 
 (1) Die Bekanntgabe einer Entscheidung, mit der der Antrag ganz oder
 teilweise abgelehnt wird, hat innerhalb der Frist nach § 7 Abs. 5 Satz
@@ -271,6 +280,7 @@ Bundesbehörde getroffen wurde.
 
 
 ## § 10 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE001002116)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz werden Gebühren und Auslagen erhoben. Dies gilt nicht für die
@@ -288,6 +298,7 @@ des Bundesgebührengesetzes findet keine Anwendung.
 
 
 ## § 11 Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE001100000)
 
 (1) Die Behörden sollen Verzeichnisse führen, aus denen sich die
 vorhandenen Informationssammlungen und -zwecke erkennen lassen.
@@ -301,6 +312,7 @@ elektronischer Form allgemein zugänglich machen.
 
 
 ## § 12 Bundesbeauftragter für die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE001201116)
 
 (1) Jeder kann den Bundesbeauftragten für die Informationsfreiheit
 anrufen, wenn er sein Recht auf Informationszugang nach diesem Gesetz
@@ -318,11 +330,13 @@ entsprechend.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE001300000)
 
 -
 
 
 ## § 14 Bericht und Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE001400000)
 
 Die Bundesregierung unterrichtet den Deutschen Bundestag zwei Jahre
 vor Außerkrafttreten über die Anwendung dieses Gesetzes. Der Deutsche
@@ -331,6 +345,7 @@ wissenschaftlicher Grundlage evaluieren.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ifg/BJNR272200005.html#BJNR272200005BJNE001500000)
 
 Dieses Gesetz tritt am 1. Januar 2006 in Kraft.
 

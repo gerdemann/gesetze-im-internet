@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000100306)
 
 Auf Grund des § 45 des Gesetzes über Arbeitnehmererfindungen vom 25.
 Juli 1957 (Bundesgesetzbl. I S. 756) wird im Einvernehmen mit dem
@@ -27,6 +28,7 @@ Bundesminister für Arbeit verordnet:
 
 
 ## § 1 Voraussetzungen für die Bestellung als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000200306)
 
 (1) Als Beisitzer aus Kreisen der Arbeitgeber und der Arbeitnehmer für
 die Erweiterung der Besetzung der Schiedsstelle gemäß § 30 Abs. 4 und
@@ -61,6 +63,7 @@ Arbeitnehmerseite sein.
 
 
 ## § 2 Beisitzer aus Kreisen der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000300306)
 
 (1) Beisitzer aus Kreisen der Arbeitgeber kann auch sein, wer
 vorübergehend oder regelmäßig zu gewissen Zeiten des Jahres keine
@@ -101,6 +104,7 @@ werden
 
 
 ## § 3 Beisitzer aus Kreisen der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000400306)
 
 (1) Beisitzer aus Kreisen der Arbeitnehmer kann auch sein, wer
 arbeitslos ist.
@@ -114,6 +118,7 @@ Satzung oder Vollmacht zur Vertretung befugt sind.
 
 
 ## § 4 Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000500306)
 
 (1) Vorschlagslisten für die Auswahl der Beisitzer sind dem
 Präsidenten des Patentamts einzureichen.
@@ -149,6 +154,7 @@ Patentamts in der Vorschlagsliste vermerkt.
 
 
 ## § 5 Ehrenamt
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000600306)
 
 (1) Das Amt des Beisitzers ist ein Ehrenamt.
 
@@ -161,6 +167,7 @@ unterzeichnen hat.
 
 
 ## § 6 Zurückziehung eines Beisitzers
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000700306)
 
 (1) Vorschläge für die Bestellung als Beisitzer können von der
 Organisation, die sie eingereicht hat, zurückgezogen werden. Die
@@ -178,6 +185,7 @@ vorgeschlagenen Beisitzer unverzüglich schriftlich mitzuteilen.
 
 
 ## § 7 Abberufung eines Beisitzers
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000800306)
 
 (1) Der Präsident des Patentamts darf einen vorgeschlagenen Beisitzer
 nicht bestellen und hat einen bereits bestellten Beisitzer
@@ -194,6 +202,7 @@ verletzt.
 
 
 ## § 8 Entschädigung der Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE000902140)
 
 Die Beisitzer erhalten eine Entschädigung nach Maßgabe der §§ 2, 3, 5
 bis 7 und 16 bis 18 des Justizvergütungs- und -entschädigungsgesetzes;
@@ -205,11 +214,13 @@ Vorsitzenden der Schiedsstelle auf das Patentamt übertragen werden.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE001001140)
 
 -
 
 
 ## § 10 Beisitzer aus Kreisen der Beamten und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE001100306)
 
 Für den öffentlichen Dienst sind, soweit es sich um Beamte und
 Soldaten handelt, die Vorschriften dieser Verordnung entsprechend
@@ -217,21 +228,25 @@ anzuwenden.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE001201140)
 
 -
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE001301140)
 
 -
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE001400306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfgdv_2/BJNR016800957.html#BJNR016800957BJNE001500306)
 
 Der Bundesminister der Justiz
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/minrsozsbes/DDNR015520990.html#DDNR015520990BJNE000100307)
 
 
 1.  Mitglieder des Ministerrates, die aus nicht in ihrer Person liegenden
@@ -88,12 +89,14 @@ Fundstelle
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/minrsozsbes/DDNR015520990.html#DDNR015520990BJNE000200307)
 
 **Minister im Amt des Ministerpräsidenten**
 
 Auszug aus EinigVtrVbg Art 3
 
 ## Anhang EV (BGBl. II 1990, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/minrsozsbes/DDNR015520990.html#DDNR015520990BJNE888800301)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9

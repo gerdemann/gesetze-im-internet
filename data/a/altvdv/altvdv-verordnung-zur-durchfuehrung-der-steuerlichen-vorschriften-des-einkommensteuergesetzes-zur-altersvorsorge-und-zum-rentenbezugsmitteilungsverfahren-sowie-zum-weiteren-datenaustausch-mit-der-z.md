@@ -25,10 +25,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000102308)
 
 
 
 ### § 1 Datensätze
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000113126)
 
 (1) Eine Übermittlung von Daten nach
 
@@ -74,6 +76,7 @@ Einkommensteuergesetzes erfolgen.
 
 
 ### § 2 Technisches Übermittlungsformat
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000212126)
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
 
@@ -107,6 +110,7 @@ entsprechend.
 
 
 ### § 2a DIN- und ISO/IEC-Normen
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE003000308)
 
 DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird,
 sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim
@@ -115,6 +119,7 @@ niedergelegt.
 
 
 ### § 3 Verfahren der Datenübermittlung, Schnittstellen
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000303308)
 
 (1) Die Übermittlung der Datensätze hat durch Datenfernübertragung zu
 erfolgen.
@@ -135,6 +140,7 @@ jede übermittelnde Stelle für ihren Bereich bereit.
 
 
 ### § 4 Übermittlung durch Datenfernübertragung
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000403124)
 
 (1) Bei der Datenfernübertragung sind dem jeweiligen Stand der Technik
 entsprechende Maßnahmen zur Sicherstellung von Datenschutz und
@@ -160,6 +166,7 @@ widerspricht.
 
 
 ### § 5 Identifikation der am Verfahren Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000511126)
 
 (1) Der Anbieter, die zuständige Stelle und die Familienkassen haben
 der zentralen Stelle auf Anforderung anzuzeigen:
@@ -217,14 +224,17 @@ Satz 1 und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
 
 
 ## Abschnitt 2 - Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000601308)
 
 
 
 ### Unterabschnitt 1 - Mitteilungs- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000202308)
 
 
 
 #### § 6 Mitteilungspflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000603119)
 
 (1) Der Arbeitgeber hat der Versorgungseinrichtung (Pensionsfonds,
 Pensionskasse, Direktversicherung), die für ihn die betriebliche
@@ -262,6 +272,7 @@ Einkommensteuergesetzes handelt.
 
 
 #### § 7 Besondere Mitteilungspflichten der zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000705308)
 
 (1) Beantragt ein Steuerpflichtiger, der zu dem in § 10a Abs. 1 Satz 1
 zweiter Halbsatz des Einkommensteuergesetzes bezeichneten
@@ -312,10 +323,12 @@ Kalenderjahr der Rückforderung folgt, mitzuteilen.
 
 
 #### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000802308)
 
 
 
 #### § 9 Besondere Mitteilungspflicht der Familienkasse
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE000903308)
 
 Hat die zuständige Familienkasse der zentralen Stelle die Daten für
 die Gewährung der Kinderzulage übermittelt und wird für diesen
@@ -324,6 +337,7 @@ Familienkasse dies der zentralen Stelle unverzüglich mitzuteilen.
 
 
 #### § 10 Besondere Mitteilungspflichten des Anbieters
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001009126)
 
 (1) Der Anbieter hat die vom Antragsteller im Zulageantrag
 anzugebenden Daten sowie die Mitteilungen nach § 89 Abs. 1 Satz 5 des
@@ -362,6 +376,7 @@ für das Jahr des Vertragsabschlusses.
 
 
 #### § 11 Anbieterwechsel
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001110360)
 
 (1) Im Fall der Übertragung von Altersvorsorgevermögen nach § 1 Abs. 1
 Satz 1 Nr. 10 Buchstabe b des Altersvorsorgeverträge-
@@ -420,6 +435,7 @@ Beiträge und Erträge anteilig auf den neuen Vertrag über. Die Absätze
 
 
 #### § 12 Besondere Mitteilungspflichten der zentralen Stelle gegenüber dem Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001204126)
 
 (1) Die zentrale Stelle hat dem Anbieter das Ermittlungsergebnis (§ 90
 Abs. 1 Satz 1 des Einkommensteuergesetzes) mitzuteilen. Die Mitteilung
@@ -448,6 +464,7 @@ den Anbieter übermitteln.
 
 
 #### § 13 Anzeigepflichten des Zulageberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001304126)
 
 Liegt ein Tatbestand des § 95 des Einkommensteuergesetzes vor, hat der
 Zulageberechtigte dies dem Anbieter ab Beginn der Auszahlungsphase
@@ -455,10 +472,12 @@ anzuzeigen.
 
 
 ### Unterabschnitt 2 - Ermittlung, Festsetzung, Auszahlung, Rückforderung und Rückzahlung der Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000302308)
 
 
 
 #### § 14 Nachweis der Rentenversicherungspflicht und der Höhe der maßgebenden Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001407377)
 
 (1) Weichen die Angaben des Zulageberechtigten zur
 Rentenversicherungspflicht oder zu den beitragspflichtigen Einnahmen
@@ -491,6 +510,7 @@ Personenkreis vor, gilt Absatz 1 entsprechend.
 
 
 #### § 15 Auszahlung der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001502308)
 
 Die Zulagen werden jeweils am 15. der Monate Februar, Mai, August und
 November eines Jahres zur Zahlung angewiesen. Zum jeweiligen
@@ -510,6 +530,7 @@ b)  Erhöhungen von Zulagen, die bis zum Ablauf des dem Auszahlungstermin
 
 
 #### § 16 Kleinbetragsgrenze für Rückforderungen gegenüber dem Zulageberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001602124)
 
 Ein Rückzahlungsbetrag nach § 94 Absatz 2 des Einkommensteuergesetzes,
 der nicht über den Anbieter zurückgefordert werden kann, wird nur
@@ -517,6 +538,7 @@ festgesetzt, wenn die Rückforderung mindestens 25 Euro beträgt.
 
 
 #### § 17 Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001702308)
 
 Bescheide über Forderungen der zentralen Stelle werden von den
 Hauptzollämtern vollstreckt. Zuständig ist das Hauptzollamt, in dessen
@@ -528,10 +550,12 @@ entscheidet die zentrale Stelle.
 
 
 ### Unterabschnitt 3 - Bescheinigungs-, Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000402308)
 
 
 
 #### § 18 Erteilung der Anbieterbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001805360)
 
 (1) Werden Bescheinigungen nach § 22 Nr. 5 Satz 7, § 92 oder § 94 Abs.
 1 Satz 4 des Einkommensteuergesetzes mit Hilfe automatischer
@@ -546,6 +570,7 @@ der Frist nach § 90 Abs. 4 Satz 2 des Einkommensteuergesetzes ist §
 
 
 #### § 19 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE001906360)
 
 (1) Der Anbieter nach § 1 Abs. 2 des Altersvorsorgeverträge-
 Zertifizierungsgesetzes hat für jedes Kalenderjahr Aufzeichnungen zu
@@ -661,14 +686,17 @@ erforderlichen Unterlagen zur Verfügung zu stellen.
 
 
 ## Abschnitt 3 - Vorschriften zu Rentenbezugsmitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000502308)
 
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE002003119)
 
 
 
 ### § 20a Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE003501119)
 
 § 17 gilt für Bescheide über Forderungen der zentralen Stelle im
 Rahmen des Rentenbezugsmitteilungsverfahrens nach § 22a des
@@ -676,6 +704,7 @@ Einkommensteuergesetzes entsprechend.
 
 
 ### § 21 Erprobung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE003101119)
 
 (1) Die zentrale Stelle kann bei den mitteilungspflichtigen Stellen
 Daten nach § 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum
@@ -725,14 +754,17 @@ Erprobung, spätestens am 31. Dezember 2009, zu löschen.
 
 
 ## Abschnitt 4 - Vorschriften zum weiteren Datenaustausch mit der zentralen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNG000700308)
 
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE003201119)
 
 
 
 ### § 23 Erprobung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE003303126)
 
 § 21 Absatz 1 dieser Verordnung gilt für die Erprobung des Verfahrens
 nach § 10 Absatz 2a, 2b und 4b des Einkommensteuergesetzes
@@ -742,6 +774,7 @@ mitteilungspflichtigen Stellen die Daten nach § 10 Absatz 2a, 2b und
 
 
 ### § 24 Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/altvdv/BJNR454400002.html#BJNR454400002BJNE003401119)
 
 Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten
 mitteilungspflichtigen Stellen haben der zentralen Stelle folgende

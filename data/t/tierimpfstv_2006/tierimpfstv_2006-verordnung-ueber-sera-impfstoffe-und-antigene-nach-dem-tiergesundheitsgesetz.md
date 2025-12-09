@@ -26,6 +26,7 @@ Parlaments und des Rates vom 31. März 2004 (ABl. EU Nr. L 136 S. 58).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000100000)
 
 Auf Grund des § 7 Abs. 1 und 1a Nr. 2, des § 17c Abs. 2, des § 17d
 Abs. 6, 6a Nr. 2 und Abs. 7 Nr. 1, des § 73a Satz 1, auch in
@@ -38,6 +39,7 @@ Verbraucherschutz:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000201360)
 
 
 *    *   **Abschnitt 1**
@@ -360,10 +362,12 @@ Verbraucherschutz:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000100000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000301360)
 
 Im Sinne dieser Verordnung sind
 
@@ -500,6 +504,7 @@ Im Sinne dieser Verordnung sind
 
 
 ### § 2 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000403360)
 
 (1) Zuständig für die Durchführung dieser Verordnung sind
 vorbehaltlich des Absatzes 2 die nach Landesrecht zuständigen
@@ -519,10 +524,12 @@ Behörden.
 
 
 ## Abschnitt 2 - Herstellung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000200000)
 
 
 
 ### § 3 Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000501301)
 
 (1) Der Antrag auf Erlaubnis nach § 12 Absatz 1 des
 Tiergesundheitsgesetzes (Herstellungserlaubnis) muss folgende Angaben
@@ -598,6 +605,7 @@ zuständigen Behörde gesetzten Frist gehemmt.
 
 
 ### § 4 Inhalt der Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000601301)
 
 (1) Die Herstellungserlaubnis beinhaltet mindestens:
 
@@ -643,6 +651,7 @@ Verordnung fort.
 
 
 ### § 5 Sachkundige Personen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000701360)
 
 (1) Der Herstellungsleiter, der Kontrollleiter und die sachkundige
 Person haben die erforderliche Sachkunde nur, wenn er oder sie
@@ -697,6 +706,7 @@ weiter ausüben.
 
 
 ### § 6 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000800000)
 
 (1) Der Inhaber der Herstellungserlaubnis hat der zuständigen Behörde
 14 Tage vor der Aufnahme der jeweiligen Tätigkeit anzuzeigen
@@ -720,6 +730,7 @@ des Vertriebsleiters hat die Anzeige unverzüglich zu erfolgen.
 
 
 ### § 7 Ruhen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE000901301)
 
 Anstelle der Rücknahme oder des Widerrufs nach § 12 Absatz 5 Satz 1
 des Tiergesundheitsgesetzes kann die zuständige Behörde bis zur
@@ -730,6 +741,7 @@ Anordnung und das Ende des Ruhens der Herstellungserlaubnis.
 
 
 ### § 8 Anforderungen an die Herstellung oder das Lagern von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001000000)
 
 (1) Für die Herstellung und Prüfung von Mitteln, die zur Anwendung am
 Tier bestimmt sind, ausgenommen bestandsspezifische Impfstoffe, gelten
@@ -786,6 +798,7 @@ Mittel abgegeben wird.
 
 
 ### § 9 Besondere Anforderungen an Betriebe, die Mittel unter Verwendung exotischer Tierseuchenerreger herstellen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001100000)
 
 (1) Ein Betrieb, in dem Mittel unter Verwendung exotischer
 Tierseuchenerreger oder nach dem jeweiligen Stand der
@@ -897,6 +910,7 @@ aufzukochen.
 
 
 ### § 10 Besondere Vorschriften für die Tierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001200000)
 
 (1) Der Inhaber der Herstellungserlaubnis hat sicherzustellen, dass
 
@@ -960,6 +974,7 @@ Tod oder von der Abgabe des jeweiligen Tieres an aufzubewahren.
 
 
 ### § 11 Verwendung von Tieren zur Herstellung oder Prüfung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001300000)
 
 (1) Zur Herstellung oder Prüfung von Mitteln dürfen nur Tiere
 verwendet werden, die frei von übertragbaren Krankheiten sind und
@@ -990,6 +1005,7 @@ hierüber eine Niederschrift anzufertigen.
 
 
 ### § 12 Wartezeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001401360)
 
 Der Inhaber der Herstellungserlaubnis hat vor der Anwendung nicht
 zugelassener Mittel an Tieren, die der Lebensmittelgewinnung dienen,
@@ -1000,6 +1016,7 @@ Aufzeichnungen zu machen.
 
 
 ### § 13 Farbstoffe
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001501360)
 
 Bei der Herstellung von Mitteln, die zur Anwendung am Tier bestimmt
 sind, dürfen zur Färbung nur verwendet werden
@@ -1036,6 +1053,7 @@ sind, dürfen zur Färbung nur verwendet werden
 
 
 ### § 14 Abfüllen der Charge
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001600000)
 
 Für das Abfüllen einer Charge gelten die Anforderungen an die
 Herstellung nach § 8 Abs. 1, 2, 3 Satz 1 Nr. 1, 2 und 4 und Satz 2 und
@@ -1053,6 +1071,7 @@ muss zusätzlich sicherstellen, dass beim Abfüllen einer Charge
 
 
 ### § 15 Aufbewahrung von Proben abgefüllter Chargen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001700000)
 
 (1) Der Inhaber der Herstellungserlaubnis des Mittels hat von jeder
 Charge, die abgefüllt wird, Proben in einer für eine Prüfung
@@ -1096,6 +1115,7 @@ unterrichten.
 
 
 ### § 16 Arzneibuch
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001800000)
 
 (1) Verfahren, die zur Herstellung und Prüfung von Mitteln angewandt
 werden, müssen, vorbehaltlich der Absätze 2 bis 4, dem jeweiligen
@@ -1124,6 +1144,7 @@ worden ist.
 
 
 ### § 17 Reinigung und Desinfektion, Beseitigung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE001900000)
 
 (1) Schutzkleidung ist regelmäßig in kurzen Abständen, mindestens
 jedoch wöchentlich, zu reinigen und zu desinfizieren. Einrichtungen,
@@ -1159,6 +1180,7 @@ hervorrufen können.
 
 
 ### § 18 Bescheinigung der Guten Herstellungspraxis
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002001301)
 
 (1) Die zuständige Behörde erteilt dem Inhaber der
 Herstellungserlaubnis auf Antrag eine Bescheinigung über die
@@ -1187,6 +1209,7 @@ Sitz hat.
 
 
 ### § 19 Prüfung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002100000)
 
 (1) Die zuständige Behörde prüft Betriebe, denen nach § 18 Abs. 1 eine
 GMP-Bescheinigung erteilt worden ist, in der Regel alle zwei Jahre.
@@ -1202,10 +1225,12 @@ Ausgangsstoffen Prüfungen nach Absatz 1 oder § 18 durchführen.
 
 
 ## Abschnitt 3 - Zulassung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000300000)
 
 
 
 ### § 20 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002203124)
 
 (1) Die Zulassung nach § 11 Absatz 1 Satz 1 Nummer 1 oder Absatz 2
 Satz 1 des Tiergesundheitsgesetzes ist vom pharmazeutischen
@@ -1284,6 +1309,7 @@ beantragt wird, das
 
 
 ### § 21 Zusammenfassung der Merkmale des Mittels
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002300000)
 
 (1) Dem Antrag auf Zulassung eines Mittels, das zur Anwendung am Tier
 bestimmt ist, ist zusätzlich eine Zusammenfassung der Merkmale des
@@ -1295,6 +1321,7 @@ des Mittels nach Anlage 2 beizufügen.
 
 
 ### § 22 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002400000)
 
 (1) Die zuständige Zulassungsstelle entscheidet innerhalb von 210
 Tagen über die Zulassung nach § 23 auf Grund
@@ -1351,6 +1378,7 @@ deren jeweiliger Veröffentlichung nach § 31 Abs. 2 zu übermitteln.
 
 
 ### § 23 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002501360)
 
 (1) Die zuständige Zulassungsstelle darf die Zulassung nur versagen,
 wenn die Prüfung des Mittels ergeben hat, dass
@@ -1463,6 +1491,7 @@ Verordnung fort.
 
 
 ### § 24 Zulassung in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002602301)
 
 (1) Wird die Zulassung in mehr als einem Mitgliedstaat beantragt, hat
 der Antragsteller einen jeweils die gleichen Angaben und Unterlagen
@@ -1522,6 +1551,7 @@ ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung nicht statt.
 
 
 ### § 25 Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002701124)
 
 (1) Die Zulassung nach § 23 oder § 24 erlischt,
 
@@ -1554,6 +1584,7 @@ Voraussetzungen für die Rücknahme oder den Widerruf der Zulassung nach
 
 
 ### § 26 Verlängern der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002800000)
 
 (1) Die Zulassung nach § 23 oder § 24 wird auf Antrag des
 pharmazeutischen Unternehmers verlängert, wenn nicht die Zulassung
@@ -1578,6 +1609,7 @@ auszuschließen sind.
 
 
 ### § 27 Rücknahme, Widerruf oder Ruhen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE002900000)
 
 (1) Die zuständige Zulassungsstelle nimmt die Zulassung nach § 23
 zurück, wenn nachträglich bekannt wird, dass einer der
@@ -1631,6 +1663,7 @@ von Verwaltungsakten unberührt.
 
 
 ### § 28 Pflichten des Zulassungsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003000000)
 
 (1) Der Antragsteller teilt der zuständigen Zulassungsstelle unter
 Beifügung entsprechender Angaben und Unterlagen unverzüglich neue
@@ -1669,6 +1702,7 @@ entsprechender Angaben und Unterlagen unverzüglich anzuzeigen.
 
 
 ### § 29 Änderung der Zulassung eines Mittels, das zur Anwendung am Tier bestimmt ist
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003101360)
 
 (1) Auf die Änderung der Zulassung eines Mittels nach § 23, die auf
 einer Änderung der Angaben und Unterlagen beruht, die eine
@@ -1713,6 +1747,7 @@ des Mittels nach Art oder Menge ist eine neue Zulassung zu beantragen.
 
 
 ### § 29a Änderung der Zulassung eines Mittels, das nicht zur Anwendung am Tier bestimmt ist
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE005500360)
 
 (1) Soweit sich Änderungen gegenüber den Angaben und Unterlagen nach §
 20 Absatz 4 und der Zusammenfassung nach § 21 Absatz 2 ergeben, hat
@@ -1749,6 +1784,7 @@ Sinne der Nummer 4 der Anlage 1 ist eine neue Zulassung zu beantragen.
 
 
 ### § 30 Erfassen und Auswerten von Risiken
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003201360)
 
 (1) Die zuständige Zulassungsstelle hat zur Verhütung von Gefahren für
 die Gesundheit von Mensch oder Tier die bei der Anwendung von Mitteln,
@@ -1849,6 +1885,7 @@ Person gilt § 6 Abs. 1 Satz 1 Nr. 2 und Satz 2 entsprechend.
 
 
 ### § 31 Bekanntmachung, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003300000)
 
 (1) Die zuständige Zulassungsstelle macht im Bundesanzeiger bekannt:
 
@@ -1899,10 +1936,12 @@ Verfahren:
 
 
 ## Abschnitt 4 - Staatliche Chargenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000400000)
 
 
 
 ### § 32 Durchführung der staatlichen Chargenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003401124)
 
 (1) Eine Charge darf nur abgegeben oder angewendet werden, wenn die
 Charge von der zuständigen Zulassungsstelle freigegeben worden ist.
@@ -1997,6 +2036,7 @@ Ergebnisse der Chargenprüfung mit.
 
 
 ### § 33 Umfang der staatlichen Chargenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003502124)
 
 (1) Die zuständige Zulassungsstelle trifft die Entscheidung darüber,
 ob die Charge eines Mittels auf der Grundlage der eingereichten
@@ -2041,6 +2081,7 @@ Chargenprüfung widerrufen.
 
 
 ### § 34 Rücknahme der Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003600000)
 
 (1) Die zuständige Zulassungsstelle kann die Freigabe einer Charge
 zurücknehmen, wenn nachträglich bekannt wird, dass
@@ -2079,10 +2120,12 @@ Charge eines Mittels handelt, das zur Anwendung am Tier bestimmt ist.
 
 
 ## Abschnitt 5 - Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000500000)
 
 
 
 ### § 35 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003700000)
 
 (1) Ein Mittel darf nur abgegeben werden, wenn auf dem Behältnis und,
 soweit verwendet, auf der äußeren Umhüllung in deutscher Sprache, in
@@ -2195,6 +2238,7 @@ Mittel ausschließlich zur Anwendung durch den Tierarzt bestimmt ist.
 
 
 ### § 36 Packungsbeilage
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003800000)
 
 (1) Ein Mittel darf ferner nur abgegeben werden, wenn ihm eine
 Packungsbeilage beigefügt ist, die die Überschrift
@@ -2295,10 +2339,12 @@ Satz 2 gilt entsprechend.
 
 
 ## Abschnitt 6 - Großhandel und Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000600000)
 
 
 
 ### § 37 Pflichten des Großhändlers
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE003901360)
 
 Wer gewerbsmäßig oder berufsmäßig Mittel, die zur Anwendung am Tier
 bestimmt sind, an andere Händler, Apotheken oder Tierärzte abgibt und
@@ -2375,6 +2421,7 @@ Pharmazie abgelegte Prüfung bestanden hat.
 
 
 ### § 38 Einfuhrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004001301)
 
 (1) Wer gewerbsmäßig oder berufsmäßig Mittel, die zur Anwendung am
 Tier bestimmt sind, zum Zwecke der Abgabe, der Verarbeitung oder der
@@ -2450,6 +2497,7 @@ Einfuhrerlaubnis § 7 entsprechend.
 
 
 ### § 39 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004101360)
 
 (1) Der Inhaber der Einfuhrerlaubnis darf Mittel aus einem Drittland,
 das nicht Vertragsstaat des Abkommens über den Europäischen
@@ -2474,10 +2522,12 @@ Zulassungsstelle feststellt, dass die Einfuhr des Mittels im
 
 
 ## Abschnitt 7 - Abgabe und Anwendung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000700000)
 
 
 
 ### § 40 Vertriebsweg, Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004201124)
 
 (1) Pharmazeutische Unternehmer und Großhändler dürfen Mittel, die zur
 Anwendung am Tier bestimmt sind, nur abgeben an
@@ -2565,6 +2615,7 @@ das Datum und das Ergebnis der Prüfung sind Aufzeichnungen zu machen.
 
 
 ### § 41 Abgabe durch Apotheken und zentrale Beschaffungsstellen, Verschreibungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004301377)
 
 (1) Mittel, die zur Anwendung am Tier bestimmt sind, dürfen durch
 Apotheken nur
@@ -2586,6 +2637,7 @@ Bekämpfung von Tierseuchen zuständigen Behörde abgeben.
 
 
 ### § 42 Abgabeverbote
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004401301)
 
 (1) Es ist verboten, Mittel abzugeben, bei denen nach dem jeweiligen
 Stand der wissenschaftlichen Erkenntnisse Anhaltspunkte dafür
@@ -2629,11 +2681,13 @@ ist verboten.
 
 
 ### § 43 Anwendung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004500000)
 
 Mittel dürfen an Tieren nur von Tierärzten angewendet werden.
 
 
 ### § 44 Anwendung durch den Tierhalter
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004603119)
 
 (1) Abweichend von § 43 dürfen Mittel, die zur Anwendung am Tier
 bestimmt sind, von einem gewerbsmäßigen oder berufsmäßigen Halter
@@ -2791,6 +2845,7 @@ nicht eingehalten worden ist.
 
 
 ### § 45 Vorrätighalten von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004700000)
 
 (1) Von Tierärzten und in tierärztlichen Bildungsstätten dürfen
 Mittel, die zur Anwendung am Tier bestimmt sind, nur in tierärztlichen
@@ -2805,6 +2860,7 @@ Futtermittelgesetzbuches gelagert werden.
 
 
 ### § 46 Befugnisse tierärztlicher Bildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004800000)
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich
 und Einrichtungen der pharmazeutischen Industrie, die der
@@ -2817,10 +2873,12 @@ Hochschulbereich oder der pharmazeutischen Industrie tätig sind.
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNG000800000)
 
 
 
 ### § 47 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE004901301)
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2921,6 +2979,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 48 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE005000000)
 
 (1) Mittel, die sich am Tag vor dem Inkrafttreten dieser Verordnung im
 Verkehr befinden und die den Vorschriften des § 29 der Tierimpfstoff-
@@ -2959,16 +3018,19 @@ erfolgen.
 
 
 ### § 49 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE005100000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE005200000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 20 Absatz 4 und § 29a Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE005301360)
 
 (Fundstelle: BGBl. I 2006, 2374; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3074,6 +3136,7 @@ sind:
 
 
 ### Anlage 2 (zu § 21 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/tierimpfstv_2006/BJNR235500006.html#BJNR235500006BJNE005400000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2375
 

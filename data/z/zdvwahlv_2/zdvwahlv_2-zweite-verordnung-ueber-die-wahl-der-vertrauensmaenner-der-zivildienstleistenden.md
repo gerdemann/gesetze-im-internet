@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE001400000)
 
 Auf Grund des § 2 Abs. 5 des Zivildienstvertrauensmann-Gesetzes vom
 16\. Januar 1991 (BGBl. I S. 47, 53), der zuletzt durch Artikel 1 Nr. 1
@@ -27,6 +28,7 @@ Frauen und Jugend:
 
 
 ## § 1 Wahlbereiche
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000100000)
 
 Die Zivildienstleistenden (Dienstleistenden) wählen in einer
 Dienststelle oder in einem Lehrgang mit fünf bis zu 20
@@ -39,6 +41,7 @@ Kalendertage beträgt.
 
 
 ## § 2 Bestellung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000200000)
 
 (1) Die Leitung der Dienststelle oder die von ihr benannte Vertretung
 bestellt spätestens einen Monat vor Ablauf der Amtszeit des
@@ -69,6 +72,7 @@ Wahlvorstandes nach den Vorschriften der Absätze 2 und 3 ein.
 
 
 ## § 3 Wahltermin
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000300000)
 
 Der Wahlvorstand legt im Einvernehmen mit der Leitung der
 Dienststelle, bei Lehrgängen im Einvernehmen mit der Leitung des
@@ -79,6 +83,7 @@ spätestens einen Tag nach Lehrgangsbeginn stattfinden.
 
 
 ## § 4 Wahlbekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000400000)
 
 (1) Der Wahlvorstand gibt durch Aushang oder in sonst geeigneter Weise
 bekannt
@@ -113,6 +118,7 @@ bekannt
 
 
 ## § 5 Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000500000)
 
 (1) Der Wahlvorstand stellt auf der Grundlage der von der Leitung der
 Dienststelle oder des Lehrgangs zur Verfügung gestellten Listen ein
@@ -124,6 +130,7 @@ zu halten.
 
 
 ## § 6 Einspruch gegen das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000600000)
 
 (1) Jeder Wahlberechtigte kann beim Wahlvorstand, in Dienststellen
 innerhalb einer Woche nach dem Auslegen, in Lehrgängen bis zum Beginn
@@ -139,6 +146,7 @@ Wählerverzeichnis.
 
 
 ## § 7 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000700000)
 
 (1) Wählen und gewählt werden kann nur, wer in das Wählerverzeichnis
 eingetragen ist.
@@ -184,12 +192,14 @@ Wählerverzeichnis zu vermerken.
 
 
 ## § 8 Bereitstellen der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000800000)
 
 Die sächlichen Mittel für die Durchführung der Wahl stellt die Leitung
 der Dienststelle oder des Lehrgangs zur Verfügung.
 
 
 ## § 9 Verbot der Wahlbehinderung
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE000900000)
 
 (1) Niemand darf die Wahl behindern, insbesondere darf kein
 Wahlberechtigter in der Ausübung des aktiven oder passiven Wahlrechts
@@ -200,6 +210,7 @@ Androhen von Nachteilen beeinflusst werden.
 
 
 ## § 10 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE001000000)
 
 (1) Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand die
 Auszählung der Stimmen vor und stellt das Wahlergebnis fest. Er
@@ -226,6 +237,7 @@ oder seine Vertreter gesondert durchzuführen.
 
 
 ## § 11 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE001100000)
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine Niederschrift,
 die von seinen Mitgliedern zu unterzeichnen ist. Sie muss enthalten
@@ -253,6 +265,7 @@ vermerken.
 
 
 ## § 12 Bekanntgabe der Gewählten, Aufbewahren der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE001200000)
 
 (1) Der Wahlvorstand gibt die Namen des Vertrauensmannes und der
 Stellvertreter unverzüglich durch dreiwöchigen Aushang, bei Lehrgängen
@@ -268,6 +281,7 @@ Zweitausfertigung der Wahlniederschrift.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zdvwahlv_2/BJNR101100002.html#BJNR101100002BJNE001300000)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

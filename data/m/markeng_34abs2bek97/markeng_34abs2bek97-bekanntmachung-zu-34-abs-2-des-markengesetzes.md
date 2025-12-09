@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_34abs2bek97/BJNR080110997.html#BJNR080110997BJNE000100311)
 
 Auf Grund des § 34 Abs. 2 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082, 1995 I S. 156) wird bekanntgemacht:

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/legregv/BJNR196900003.html#BJNR196900003BJNE000100310)
 
 Auf Grund des § 8 Abs. 1 Nr. 2, 3 und 4 des
 Legehennenbetriebsregistergesetzes vom 12. September 2003 (BGBl. I S.
@@ -26,6 +27,7 @@ und Landwirtschaft:
 
 
 ## § 1 Freiwillige Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/legregv/BJNR196900003.html#BJNR196900003BJNE000200000)
 
 (1) Ein nach § 1 Abs. 2 des Legehennenbetriebsregistergesetzes nicht
 registrierungspflichtiger Betrieb kann sich auf Antrag registrieren
@@ -40,6 +42,7 @@ drei Jahren aufzubewahren.
 
 
 ## § 2 Betriebsnummer, Stallnummer
+[Direktlink](https://www.gesetze-im-internet.de/legregv/BJNR196900003.html#BJNR196900003BJNE000300000)
 
 (1) Die Betriebsnummer besteht aus sechs Stellen. Die ersten beiden
 Stellen der Betriebsnummer bestimmen sich nach der Kennung des Landes,
@@ -105,6 +108,7 @@ Stallnummer gilt Absatz 2.
 
 
 ## § 3 Kennnummer
+[Direktlink](https://www.gesetze-im-internet.de/legregv/BJNR196900003.html#BJNR196900003BJNE000400000)
 
 Die nach § 4 des Legehennenbetriebsregistergesetzes zu vergebende
 Kennnummer hat zwölf Stellen. Die Stellen der Kennnummer sind wie
@@ -137,11 +141,13 @@ folgt zu verwenden:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/legregv/BJNR196900003.html#BJNR196900003BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/legregv/BJNR196900003.html#BJNR196900003BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

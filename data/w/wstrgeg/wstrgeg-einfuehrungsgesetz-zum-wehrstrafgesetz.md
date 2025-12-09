@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## (XXXX) Art 1 bis 3
+[Direktlink](https://www.gesetze-im-internet.de/wstrgeg/BJNR003060957.html#BJNR003060957BJNE000100306)
 
 
 
 ## Art 4 Vormilitärische Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/wstrgeg/BJNR003060957.html#BJNR003060957BJNE000200306)
 
 Ist wegen einer vor Beginn des Wehrdienstes begangenen Straftat die
 Vollstreckung der Strafe zur Bewährung ausgesetzt (§§ 56 bis 58 des
@@ -52,6 +54,7 @@ besonderen Vorschriften:
 
 
 ## Art 5 Vollzug von Freiheitsstrafen und Jugendarrest an Soldaten der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/wstrgeg/BJNR003060957.html#BJNR003060957BJNE000300306)
 
 (1) Strafarrest wird an Soldaten der Bundeswehr von deren Behörden
 vollzogen.
@@ -63,6 +66,7 @@ zu vollziehen.
 
 
 ## Art 6 Unterbrechung der Strafvollstreckung im Krankheitsfall
+[Direktlink](https://www.gesetze-im-internet.de/wstrgeg/BJNR003060957.html#BJNR003060957BJNE000401306)
 
 Die Strafvollstreckungsbehörde unterbricht die Vollstreckung eines
 Strafarrests und einer Freiheitsstrafe, die durch Behörden der
@@ -85,6 +89,7 @@ Gründe entgegenstehen und
 
 
 ## Art 7 Ausführungsvorschriften für den Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/wstrgeg/BJNR003060957.html#BJNR003060957BJNE000500306)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates für den Vollzug durch Behörden der
@@ -102,6 +107,7 @@ und 2 des Grundgesetzes) sowie das Grundrecht des Postgeheimnisses
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wstrgeg/BJNR003060957.html#BJNR003060957BJNE000600306)
 
 (1) Das Wehrstrafgesetz und dieses Einführungsgesetz treten einen
 Monat nach dem Tage der Verkündung in Kraft.

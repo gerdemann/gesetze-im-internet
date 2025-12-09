@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkjpng/BJNR087420999.html#BJNR087420999BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkjpng/BJNR087420999.html#BJNR087420999BJNE000200310)
 
 Folgenden in Tokio am 20. April 1998 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -44,6 +46,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkjpng/BJNR087420999.html#BJNR087420999BJNE000300310)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -78,6 +81,7 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkjpng/BJNR087420999.html#BJNR087420999BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

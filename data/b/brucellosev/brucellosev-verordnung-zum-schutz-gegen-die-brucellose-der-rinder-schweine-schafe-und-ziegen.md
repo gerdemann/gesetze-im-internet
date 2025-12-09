@@ -22,10 +22,12 @@ Neugefasst durch
 Stand: Berichtigung vom 28.7.2017 I 3060 ist berücksichtigt
 
 ## Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000104124)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE001605124)
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -67,14 +69,17 @@ Im Sinne dieser Verordnung liegen vor:
 
 
 ## Abschnitt 2 - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000204124)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000304124)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE001703124)
 
 Impfungen gegen die Brucellose der Rinder, Schweine, Schafe und Ziegen
 und Heilversuche sind verboten. Die zuständige Behörde kann Ausnahmen
@@ -83,6 +88,7 @@ der Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE001811124)
 
 (1) Der Halter von über 24 Monate alten Rindern ist verpflichtet, die
 Tiere nach näherer Anweisung der zuständigen Behörde im Abstand von
@@ -125,6 +131,7 @@ anordnen.
 
 
 #### § 3a
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004401124)
 
 Die zuständige Behörde kann, soweit dies aus Gründen der
 Tierseuchenbekämpfung erforderlich ist,
@@ -153,6 +160,7 @@ Totgeburten dieser Tiere entsprechend.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE001903124)
 
 Bei einem Ausbruch der Brucellose oder einem Verdacht auf Brucellose
 in einem Rinder-, Schweine-, Schaf- oder Ziegenbestand gilt vor der
@@ -169,12 +177,14 @@ amtstierärztlichen Untersuchung Folgendes:
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002003124)
 
 Die zuständige Behörde gibt den Ausbruch der Brucellose öffentlich
 bekannt.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002105124)
 
 Der Tierhalter hat ansteckungsverdächtige Rinder, Schweine, Schafe
 oder Ziegen, die sich in nicht gesperrten Gehöften befinden,
@@ -183,10 +193,12 @@ sind amtlich zu beobachten, bis der Verdacht beseitigt ist.
 
 
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln gegen die Brucellose der Rinder
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000404124)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002205124)
 
 (1) Ist bei Rindern der Ausbruch der Brucellose oder der Verdacht auf
 Brucellose amtlich festgestellt, so hat der Tierhalter von allen über
@@ -208,6 +220,7 @@ Untersuchung auf Brucellose anordnen.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002304124)
 
 (1) Ist bei Rindern der Verdacht auf Brucellose amtlich festgestellt,
 so hat der Tierhalter des Verdachtsbestandes
@@ -288,6 +301,7 @@ entgegenstehen.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002404124)
 
 (1) Ist bei Rindern der Ausbruch der Brucellose amtlich festgestellt,
 so hat der Tierhalter des Seuchenbestandes sowohl die Maßregeln des §
@@ -304,10 +318,12 @@ des Verdachts auf Brucellose angeordnet worden sind.
 
 
 ### Unterabschnitt 3 - Besondere Schutzmaßregeln gegen die Brucellose der Schweine
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000504124)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002505124)
 
 (1) Ist bei Schweinen der Verdacht auf Brucellose amtlich
 festgestellt, so hat der Tierhalter von allen über vier Monate alten
@@ -336,6 +352,7 @@ von Nachgeburtsteilen zur Untersuchung auf Brucellose anordnen.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002605124)
 
 (1) Ist bei Schweinen der Verdacht auf Brucellose amtlich
 festgestellt, so hat der Tierhalter des Verdachtsbestandes
@@ -423,6 +440,7 @@ soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004501124)
 
 (1) Ist bei Schweinen der Ausbruch der Brucellose amtlich
 festgestellt, so hat der Tierhalter des Seuchenbestandes sowohl die
@@ -440,6 +458,7 @@ des Verdachts auf Brucellose angeordnet worden sind.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002704124)
 
 Tritt in einem Gebiet die Brucellose der Schweine in größerem Umfang
 auf, so verbietet oder beschränkt die zuständige Behörde für die Dauer
@@ -471,10 +490,12 @@ ist.
 
 
 ### Unterabschnitt 4 - Besondere Schutzmaßregeln gegen die Brucellose der Schafe und Ziegen
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000604124)
 
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002805124)
 
 (1) Ist bei Schafen oder Ziegen der Verdacht auf Brucellose amtlich
 festgestellt, so hat der Tierhalter von allen über sechs Monate alten
@@ -501,6 +522,7 @@ von Nachgeburtsteilen zur Untersuchung auf Brucellose anordnen.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE002905124)
 
 (1) Ist bei Schafen oder Ziegen der Verdacht auf Brucellose amtlich
 festgestellt, hat der Tierhalter des Verdachtsbestandes
@@ -579,6 +601,7 @@ nicht entgegenstehen.
 
 
 #### § 14a
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004601124)
 
 (1) Ist bei Schafen oder Ziegen der Ausbruch der Brucellose amtlich
 festgestellt, so hat der Tierhalter des Seuchenbestandes sowohl die
@@ -596,10 +619,12 @@ des Verdachts auf Brucellose angeordnet worden sind.
 
 
 ### Unterabschnitt 5 - Besondere Schutzmaßregeln in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000704124)
 
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003004124)
 
 (1) Ist der Ausbruch der Brucellose oder der Verdacht auf Brucellose
 
@@ -637,10 +662,12 @@ Maßnahmen gilt § 17 Absatz 1 entsprechend.
 
 
 ### Unterabschnitt 6 - Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000804124)
 
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003105124)
 
 (1) Behälter, in denen Milch von Kühen, bei denen Brucellose oder
 Verdacht auf Brucellose festgestellt worden ist, an eine
@@ -683,10 +710,12 @@ denen die Blutentnahmen durchgeführt worden sind, beschränkt wird.
 
 
 ### Unterabschnitt 7 - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG000904124)
 
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003205124)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Brucellose
 erloschen ist oder sich der Verdacht als unbegründet erwiesen hat.
@@ -745,14 +774,17 @@ wenn
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003303124)
 
 
 
 ## Abschnitt 3 - Amtlich anerkannter brucellosefreier Rinderbestand
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG001104124)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003405124)
 
 Ein Rinderbestand, der sich im Inland befindet, das nach Artikel 2
 Absatz 1 der Entscheidung 2003/467/EG der Kommission vom 23. Juni 2003
@@ -766,6 +798,7 @@ brucellosefreier Rinderbestand.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003504124)
 
 (1) Die zuständige Behörde entzieht dem Halter eines Rinderbestandes
 die amtliche Anerkennung seines Bestandes als brucellosefrei, soweit
@@ -795,10 +828,12 @@ Anerkennung nach Absatz 1 Satz 2 auf, soweit sich der Verdacht nach §
 
 
 ## Abschnitt 4 - Brucellosefreier Schweinebestand
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG001204124)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003704124)
 
 Ein Schweinebestand gilt als brucellosefrei, wenn
 
@@ -816,10 +851,12 @@ Ein Schweinebestand gilt als brucellosefrei, wenn
 
 
 ## Abschnitt 5 - Amtlich anerkannter brucellosefreier Schaf- und Ziegenbestand
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG001501124)
 
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004701124)
 
 Ein Schaf- oder Ziegenbestand, der sich im Inland befindet, das nach
 Artikel 2 der Entscheidung 93/52/EWG der Kommission vom 21. Dezember
@@ -833,6 +870,7 @@ ein amtlich anerkannter brucellosefreier Schaf- oder Ziegenbestand.
 
 
 ### § 22a
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004801124)
 
 (1) Die zuständige Behörde entzieht dem Halter eines Schaf- oder
 Ziegenbestandes die amtliche Anerkennung seines Bestandes als
@@ -863,10 +901,12 @@ Anerkennung nach Absatz 1 Satz 2 auf, soweit sich der Verdacht nach §
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNG001304124)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003808124)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -936,6 +976,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE003904124)
 
 § 19 findet keine Anwendung, soweit die zuständige Behörde am 30. Mai
 2017
@@ -962,6 +1003,7 @@ vorliegen.
 
 
 ### § 24a
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004901124)
 
 § 22 findet keine Anwendung, soweit die zuständige Behörde am 30. Mai
 2017
@@ -989,6 +1031,7 @@ vorliegen.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/brucellosev/BJNR010460972.html#BJNR010460972BJNE004104124)
 
 (Inkrafttreten)
 

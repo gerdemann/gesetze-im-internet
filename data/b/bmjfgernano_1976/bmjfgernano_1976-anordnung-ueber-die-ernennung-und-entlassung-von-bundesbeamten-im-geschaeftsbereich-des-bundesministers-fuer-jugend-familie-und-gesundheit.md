@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmjfgernano_1976/BJNR026670976.html#BJNR026670976BJNE000100328)
 
 Aufgrund des Artikels 1 Abs. 1 Satz 2 der Anordnung des
 Bundespräsidenten über die Ernennung und Entlassung der Bundesbeamten
@@ -52,17 +53,20 @@ jeweils für ihren Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmjfgernano_1976/BJNR026670976.html#BJNR026670976BJNE000200328)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmjfgernano_1976/BJNR026670976.html#BJNR026670976BJNE000300328)
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjfgernano_1976/BJNR026670976.html#BJNR026670976BJNE000400328)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

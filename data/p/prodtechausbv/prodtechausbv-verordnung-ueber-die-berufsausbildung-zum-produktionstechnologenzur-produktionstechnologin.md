@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -34,17 +35,20 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000200000)
 
 Der Ausbildungsberuf Produktionstechnologe/Produktionstechnologin wird
 nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -215,6 +219,7 @@ Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -236,6 +241,7 @@ durchzusehen.
 
 
 ## § 5 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000600000)
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
 Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der
@@ -256,6 +262,7 @@ Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000700000)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -313,6 +320,7 @@ Produktionsauftrag. Hierfür bestehen folgende Vorgaben:
 
 
 ## § 7 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -434,6 +442,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -501,12 +510,14 @@ zu gewichten.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 3 Abs. 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE001200000)
 
 (Fundstelle: BGBl. I 2008, 1037 - 1043)
 
@@ -1420,6 +1431,7 @@ Fähigkeiten
 (zu § 3 Abs. 1 Satz 2)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/prodtechausbv/BJNR103400008.html#BJNR103400008BJNE001300000)
 
 (Fundstelle: BGBl. I 2008, 1044 - 1051 (2009, 3850))
 ## Abschnitt 1

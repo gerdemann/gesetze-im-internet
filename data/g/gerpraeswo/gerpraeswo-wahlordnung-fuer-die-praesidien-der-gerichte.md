@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000100666)
 
 Auf Grund des § 21b Abs. 5 des Gerichtsverfassungsgesetzes sowie auf
 Grund des § 10 Abs. 1 Halbsatz 1 des Einführungsgesetzes zum
@@ -36,6 +37,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000200666)
 
 (1) Der Wahlvorstand sorgt für die ordnungsmäßige Durchführung der
 Wahl der Mitglieder des Präsidiums. Er faßt seine Beschlüsse mit
@@ -55,6 +57,7 @@ bekannt.
 
 
 ## § 2 Wahlverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000301301)
 
 (1) Der Wahlvorstand erstellt ein Verzeichnis der wahlberechtigten und
 ein Verzeichnis der wählbaren Mitglieder des Gerichts. Die
@@ -81,6 +84,7 @@ Vorkommnisse bei der Auslosung sind in der Niederschrift zu vermerken.
 
 
 ## § 3 Wahltag, Wahlzeit, Wahlraum
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000400666)
 
 Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres
 stattfinden. Der Wahlvorstand bestimmt einen Arbeitstag als Wahltag,
@@ -91,6 +95,7 @@ mindestens zwei Stunden erstrecken.
 
 
 ## § 4 Wahlbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000501301)
 
 (1) Der Wahlvorstand gibt spätestens einen Monat vor dem Wahltag durch
 Aushang bekannt:
@@ -134,6 +139,7 @@ vor der Wahl zugehen.
 
 
 ## § 5 Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000602301)
 
 (1) Das Wahlrecht wird durch Abgabe eines Stimmzettels in einem
 Wahlumschlag ausgeübt.
@@ -150,6 +156,7 @@ verschlossenen Wahlumschlag in die Wahlurne legt.
 
 
 ## § 6 Ordnung im Wahlraum
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000700666)
 
 (1) Die Richter können während der gesamten Wahlzeit im Wahlraum
 anwesend sein.
@@ -188,6 +195,7 @@ beendet.
 
 
 ## § 7 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000801301)
 
 (1) Den wahlberechtigten Mitgliedern des Gerichts, die
 
@@ -234,6 +242,7 @@ ungeöffnet zu den Wahlunterlagen zu nehmen.
 
 
 ## § 8 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE000901301)
 
 (1) Unverzüglich nach Ablauf der Wahlzeit stellt der Wahlvorstand das
 Wahlergebnis fest. Die Richter können bei der Feststellung des
@@ -267,6 +276,7 @@ Gerichtsverfassungsgesetzes als Nächstberufener nachrückt.
 
 
 ## § 9 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001001301)
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine Niederschrift,
 die von sämtlichen Mitgliedern des Wahlvorstandes zu unterzeichnen
@@ -302,18 +312,21 @@ des Wahlergebnisses sind in der Niederschrift zu vermerken.
 
 
 ## § 10 Benachrichtigung der gewählten Richter
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001100666)
 
 Der Wahlvorstand benachrichtigt unverzüglich die in das Präsidium
 gewählten Mitglieder des Gerichts schriftlich von ihrer Wahl.
 
 
 ## § 11 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001200666)
 
 Der Wahlvorstand gibt das Wahlergebnis unverzüglich durch Aushang
 bekannt.
 
 
 ## § 12 Berichtigung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001300666)
 
 Offenbare Unrichtigkeiten des bekanntgemachten Wahlergebnisses,
 insbesondere Schreib- und Rechenfehler, kann der Wahlvorstand von Amts
@@ -322,6 +335,7 @@ durch Aushang bekannt zu machen.
 
 
 ## § 13 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001400666)
 
 Die Wahlunterlagen (Aushänge, Niederschriften, Stimmzettel, verspätet
 oder ohne vorgedruckte Erklärung eingegangene Wahlbriefe usw.) werden
@@ -330,6 +344,7 @@ mit dem auf die Wahl folgenden Geschäftsjahr.
 
 
 ## § 14 Nachwahl
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001500666)
 
 Ist in den Fällen des § 21c Abs. 2 des Gerichtsverfassungsgesetzes
 eine Nachwahl durchzuführen, weil kein Nächstberufener vorhanden ist,
@@ -338,16 +353,19 @@ Verordnung entsprechend.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001600666)
 
 -
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001701301)
 
 (weggefallen)
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gerpr_swo/BJNR018210972.html#BJNR018210972BJNE001800666)
 
 Diese Verordnung tritt am 1. Oktober 1972 in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ustatg2005berpflentlv/BJNR323110013.html#BJNR323110013BJNE000100000)
 
 In die Erhebung nach § 8 des Umweltstatistikgesetzes werden
 nichtöffentliche Betriebe, die Wasser gewinnen, sowie nichtöffentliche

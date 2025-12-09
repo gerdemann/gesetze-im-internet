@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000100328)
 
 (1) Wird durch den Fehler eines Produkts jemand getötet, sein Körper
 oder seine Gesundheit verletzt oder eine Sache beschädigt, so ist der
@@ -70,6 +71,7 @@ ist, so trägt der Hersteller die Beweislast.
 
 
 ## § 2 Produkt
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000201311)
 
 Produkt im Sinne dieses Gesetzes ist jede bewegliche Sache, auch wenn
 sie einen Teil einer anderen beweglichen Sache oder einer
@@ -77,6 +79,7 @@ unbeweglichen Sache bildet, sowie Elektrizität.
 
 
 ## § 3 Fehler
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000300328)
 
 (1) Ein Produkt hat einen Fehler, wenn es nicht die Sicherheit bietet,
 die unter Berücksichtigung aller Umstände, insbesondere
@@ -98,6 +101,7 @@ verbessertes Produkt in den Verkehr gebracht wurde.
 
 
 ## § 4 Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE002003307)
 
 (1) Hersteller im Sinne dieses Gesetzes ist, wer das Endprodukt, einen
 Grundstoff oder ein Teilprodukt hergestellt hat. Als Hersteller gilt
@@ -122,6 +126,7 @@ bekannt ist.
 
 
 ## § 5 Mehrere Ersatzpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000500328)
 
 Sind für denselben Schaden mehrere Hersteller nebeneinander zum
 Schadensersatz verpflichtet, so haften sie als Gesamtschuldner. Im
@@ -134,6 +139,7 @@ verursacht worden ist; im übrigen gelten die §§ 421 bis 425 sowie §
 
 
 ## § 6 Haftungsminderung
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000600328)
 
 (1) Hat bei der Entstehung des Schadens ein Verschulden des
 Geschädigten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs;
@@ -147,6 +153,7 @@ Dritten verursacht worden ist. § 5 Satz 2 gilt entsprechend.
 
 
 ## § 7 Umfang der Ersatzpflicht bei Tötung
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000701123)
 
 (1) Im Falle der Tötung ist Ersatz der Kosten einer versuchten Heilung
 sowie des Vermögensnachteils zu leisten, den der Getötete dadurch
@@ -175,6 +182,7 @@ Getöteten war.
 
 
 ## § 8 Umfang der Ersatzpflicht bei Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000801377)
 
 Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz der
 Kosten der Heilung sowie des Vermögensnachteils zu leisten, den der
@@ -186,6 +194,7 @@ gefordert werden.
 
 
 ## § 9 Schadensersatz durch Geldrente
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE000900328)
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
 Erwerbsfähigkeit und wegen vermehrter Bedürfnisse des Verletzten sowie
@@ -197,6 +206,7 @@ anzuwenden.
 
 
 ## § 10 Haftungshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001001377)
 
 (1) Sind Personenschäden durch ein Produkt oder gleiche Produkte mit
 demselben Fehler verursacht worden, so haftet der Ersatzpflichtige nur
@@ -209,12 +219,14 @@ dem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 
 
 ## § 11 Selbstbeteiligung bei Sachbeschädigung
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001101377)
 
 Im Falle der Sachbeschädigung hat der Geschädigte einen Schaden bis zu
 einer Höhe von 500 Euro selbst zu tragen.
 
 
 ## § 12 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001200328)
 
 (1) Der Anspruch nach § 1 verjährt in drei Jahren von dem Zeitpunkt
 an, in dem der Ersatzberechtigte von dem Schaden, dem Fehler und von
@@ -231,6 +243,7 @@ die Verjährung anzuwenden.
 
 
 ## § 13 Erlöschen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001300328)
 
 (1) Der Anspruch nach § 1 erlischt zehn Jahre nach dem Zeitpunkt, in
 dem der Hersteller das Produkt, das den Schaden verursacht hat, in den
@@ -245,6 +258,7 @@ Erklärung anerkannt wurde.
 
 
 ## § 14 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001400328)
 
 Die Ersatzpflicht des Herstellers nach diesem Gesetz darf im voraus
 weder ausgeschlossen noch beschränkt werden. Entgegenstehende
@@ -252,6 +266,7 @@ Vereinbarungen sind nichtig.
 
 
 ## § 15 Arzneimittelhaftung, Haftung nach anderen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001500328)
 
 (1) Wird infolge der Anwendung eines zum Gebrauch bei Menschen
 bestimmten Arzneimittels, das im Geltungsbereich des
@@ -265,12 +280,14 @@ Produkthaftungsgesetzes nicht anzuwenden.
 
 
 ## § 16 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001600328)
 
 Dieses Gesetz ist nicht auf Produkte anwendbar, die vor seinem
 Inkrafttreten in den Verkehr gebracht worden sind.
 
 
 ## § 17 Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001701301)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung die Beträge der §§ 10 und 11 zu
@@ -283,6 +300,7 @@ fehlerhafte Produkte erforderlich ist.
 
 
 ## § 18 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001800328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die
@@ -291,6 +309,7 @@ des Dritten Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prodhaftg/BJNR021980989.html#BJNR021980989BJNE001900328)
 
 Dieses Gesetz tritt am 1. Januar 1990 in Kraft.
 

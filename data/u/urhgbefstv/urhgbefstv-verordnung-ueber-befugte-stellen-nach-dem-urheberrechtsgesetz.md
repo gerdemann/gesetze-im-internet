@@ -27,6 +27,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urhgbefstv/BJNR242300018.html#BJNR242300018BJNE000100000)
 
 Auf Grund des § 45c Absatz 5 des Urheberrechtsgesetzes, der durch
 Artikel 1 Nummer 3 des Gesetzes vom 28. November 2018 (BGBl. I S.
@@ -35,6 +36,7 @@ und für Verbraucherschutz:
 
 
 ## § 1 Sorgfalts- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/urhgbefstv/BJNR242300018.html#BJNR242300018BJNE000200000)
 
 Eine befugte Stelle im Sinne des § 45c Absatz 3 des
 Urheberrechtsgesetzes, die die in § 45c Absatz 1 und 2 des
@@ -67,6 +69,7 @@ Verfahren fest, die sicherstellen, dass sie
 
 
 ## § 2 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/urhgbefstv/BJNR242300018.html#BJNR242300018BJNE000300000)
 
 (1) Eine befugte Stelle hat Menschen mit einer Seh- oder
 Lesebehinderung, Rechtsinhabern sowie befugten Stellen auf Verlangen
@@ -87,6 +90,7 @@ Auskunft in einem barrierefreien Format.
 
 
 ## § 3 Aufsicht über befugte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/urhgbefstv/BJNR242300018.html#BJNR242300018BJNE000400000)
 
 (1) Aufsichtsbehörde ist das Deutsche Patent- und Markenamt. Die
 Aufsichtsbehörde achtet darauf, dass befugte Stellen den Pflichten
@@ -105,6 +109,7 @@ Verwaltungsverfahrensgesetz und das Verwaltungs-Vollstreckungsgesetz.
 
 
 ## § 4 Anzeige bei der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/urhgbefstv/BJNR242300018.html#BJNR242300018BJNE000500000)
 
 (1) Eine befugte Stelle teilt unverzüglich nach Beginn der in § 45c
 Absatz 1 und 2 des Urheberrechtsgesetzes genannten Nutzungen der
@@ -117,6 +122,7 @@ Internetseite.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/urhgbefstv/BJNR242300018.html#BJNR242300018BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 

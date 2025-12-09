@@ -19,20 +19,24 @@ Fundstelle
 
 
 ## -
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNG000000000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNG000100000)
 
 
 
 ## Art 2 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNG000200000)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNE000100000)
 
 (1) Der Ausgangsbetrag für die für das Jahr 2002 erstmalig nach dem
 Wohnortprinzip gemäß § 83 Abs. 1 Satz 1 des Fünften Buches
@@ -62,6 +66,7 @@ des Landes Berlin getrennt zu ermitteln.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNE000200000)
 
 (1) Die Vertragsparteien der Gesamtverträge für die in § 1 Abs. 2
 genannten Krankenkassen in dem in Artikel 1 Abs. 1 des
@@ -90,6 +95,7 @@ Bundesministerium für Gesundheit den Betrag feststellen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNE000300000)
 
 Die in Artikel 1 Nr. 9 vorgesehene Änderung des Inhalts der
 Krankenversichertenkarte ist jeweils bei der Neuausstellung der
@@ -98,6 +104,7 @@ Sozialgesetzbuch gilt entsprechend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNE000400000)
 
 Besteht in einem Land zum Zeitpunkt des Inkrafttretens dieses Gesetzes
 für eine Kassenart kein Landesverband, gilt Artikel 1 Nr. 7
@@ -105,6 +112,7 @@ entsprechend.
 
 
 ## Art 3 - Erhöhung der Gesamtvergütungen in den Jahren 2002 bis 2004
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNG000300000)
 
 Bei der Vereinbarung der Gesamtvergütung nach § 85 des Fünften Buches
 Sozialgesetzbuch für die Jahre 2002 bis 2004 soll die Veränderungsrate
@@ -122,6 +130,7 @@ Ausgabenreduktionen nach Satz 1.
 
 
 ## Art 4 - Überprüfung der Honorarentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNG000400000)
 
 Im Jahr 2005 werden die Auswirkungen der Einführung des
 Wohnortprinzips bei Honorarvereinbarungen für Ärzte und Zahnärzte
@@ -145,6 +154,7 @@ sicherzustellen.
 
 
 ## Art 5 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/arztwohnortg/BJNR352609001.html#BJNR352609001BJNG000500000)
 
 Dieses Gesetz tritt am 1. Januar 2002 in Kraft.
 

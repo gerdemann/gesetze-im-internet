@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ktefv/BJNR115500010.html#BJNR115500010BJNE000100000)
 
 Auf Grund des § 6a Absatz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende –, der durch Artikel 1 Nummer 3 des
@@ -26,6 +27,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ktefv/BJNR115500010.html#BJNR115500010BJNE000200000)
 
 (1) Kommunale Träger können gemäß § 6a des Zweiten Buches
 Sozialgesetzbuch als Träger der Leistungen nach § 6 Absatz 1 Satz 1
@@ -58,6 +60,7 @@ Arbeit zugelassen werden.
 
 
 ## § 2 Voraussetzungen der Eignungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/ktefv/BJNR115500010.html#BJNR115500010BJNE000300000)
 
 (1) Zur Feststellung der Eignung und Bestimmung der Reihenfolge haben
 die antragstellenden kommunalen Träger mit dem Antrag bei der
@@ -79,6 +82,7 @@ erstellenden Reihenfolge.
 
 
 ## § 3 Eignungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/ktefv/BJNR115500010.html#BJNR115500010BJNE000400000)
 
 (1) Der kommunale Träger stellt in dem Konzept nach § 2 Absatz 1 die
 organisatorische Leistungsfähigkeit seiner Verwaltung dar. Dieses muss
@@ -145,11 +149,13 @@ zugelassene kommunale Trägerschaft.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ktefv/BJNR115500010.html#BJNR115500010BJNE000500000)
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ktefv/BJNR115500010.html#BJNR115500010BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

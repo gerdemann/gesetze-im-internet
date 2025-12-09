@@ -20,20 +20,25 @@ Zuletzt geändert durch
 
 
 ## A. - Personen (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000100000)
 
 
 
 ### (XXXX) §§ 1 bis 15l (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000200000)
 
 
 
 ## B. - Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000200000)
 
 
 ### I. - Zulassung von Fahrzeugen im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000300000)
 
 
 #### § 16 Grundregel der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000301311)
 
 (1) Zum Verkehr auf öffentlichen Straßen sind alle Fahrzeuge
 zugelassen, die den Vorschriften dieser Verordnung und der
@@ -48,6 +53,7 @@ nicht Fahrzeuge im Sinne dieser Verordnung.
 
 
 #### § 17 Einschränkung und Entziehung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000400000)
 
 (1) Erweist sich ein Fahrzeug, das nicht in den Anwendungsbereich der
 Fahrzeug-Zulassungsverordnung fällt, als nicht vorschriftsmäßig, so
@@ -75,13 +81,16 @@ anordnen und wenn nötig mehrere solcher Anordnungen treffen.
 
 
 ### II. - Betriebserlaubnis und Bauartgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000400000)
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000500000)
 
 
 
 #### § 19 Erteilung und Wirksamkeit der Betriebserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000607123)
 
 (1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den
 Vorschriften der Verordnung (EU) Nr. 165/2014 des Europäischen
@@ -324,6 +333,7 @@ die EG-Genehmigung oder die EU-Einzelgenehmigung.
 
 
 #### § 20 Allgemeine Betriebserlaubnis für Typen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000701305)
 
 (1) Für reihenweise zu fertigende oder gefertigte Fahrzeuge kann die
 Betriebserlaubnis dem Hersteller nach einer auf seine Kosten
@@ -463,6 +473,7 @@ Erlaubnis verbundenen Pflichten nachgewiesen wird.
 
 
 #### § 21 Betriebserlaubnis für Einzelfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000803119)
 
 (1) Gehört ein Fahrzeug nicht zu einem genehmigten Typ, so hat der
 Verfügungsberechtigte die Betriebserlaubnis bei der nach Landesrecht
@@ -538,6 +549,7 @@ Datenbestätigung entsprechend Muster 2d ausgestellt hat.
 
 
 #### § 21a Anerkennung von Genehmigungen und Prüfzeichen auf Grund internationaler Vereinbarungen und von Rechtsakten der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE000900000)
 
 (1) Im Verfahren auf Erteilung der Betriebserlaubnis werden
 Genehmigungen und Prüfzeichen anerkannt, die ein ausländischer Staat
@@ -576,6 +588,7 @@ oder Fahrzeugteilen nicht angebracht sein.
 
 
 #### § 21b Anerkennung von Prüfungen auf Grund von Rechtsakten der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001000000)
 
 Im Verfahren auf Erteilung der Betriebserlaubnis werden Prüfungen
 anerkannt, die auf Grund harmonisierter Vorschriften nach § 19 Absatz
@@ -583,10 +596,12 @@ anerkannt, die auf Grund harmonisierter Vorschriften nach § 19 Absatz
 
 
 #### § 21c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001100000)
 
 
 
 #### § 22 Betriebserlaubnis für Fahrzeugteile
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001201123)
 
 (1) Die Betriebserlaubnis kann – auch als nationale
 Teiletypgenehmigung – gesondert für Teile von Fahrzeugen erteilt
@@ -643,6 +658,7 @@ Nachtrags hergestellt worden sind.
 
 
 #### § 22a Bauartgenehmigung für Fahrzeugteile
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001306123)
 
 (1) Die nachstehend aufgeführten Einrichtungen, gleichgültig ob sie an
 zulassungspflichtigen oder an zulassungsfreien Fahrzeugen verwendet
@@ -894,6 +910,7 @@ einer EWG-Bauartgenehmigung bedürfen.
 
 
 #### § 23 Gutachten für die Einstufung eines Fahrzeugs als Oldtimer
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001401311)
 
 Zur Einstufung eines Fahrzeugs als Oldtimer im Sinne des § 2 Nummer 22
 der Fahrzeug-Zulassungsverordnung ist ein Gutachten eines amtlich
@@ -909,10 +926,12 @@ das Erteilen der Prüfplakette gilt § 29 Absatz 3.
 
 
 #### (XXXX) §§ 24 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001500000)
 
 
 
 #### § 29 Untersuchung der Kraftfahrzeuge und Anhänger
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001605119)
 
 (1) Die Halter von zulassungspflichtigen Fahrzeugen im Sinne des § 3
 Absatz 1 der Fahrzeug-Zulassungsverordnung und kennzeichenpflichtigen
@@ -1054,6 +1073,7 @@ aus einem anderen amtlichen Dokument ersichtlich ist.
 
 
 #### § 29a Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001703119)
 
 Die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen
 nach § 29 berechtigten Personen sind verpflichtet, nach Abschluss
@@ -1080,20 +1100,25 @@ zu erfolgen.
 
 
 ### IIa. - Pflichtversicherung (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000501360)
 
 
 
 #### (XXXX) §§ 29b bis 29h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016300123)
 
 
 
 ### III. - Bau- und Betriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000600000)
 
 
 #### 1. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000700000)
 
 
 ##### § 30 Beschaffenheit der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001802119)
 
 (1) Fahrzeuge müssen so gebaut und ausgerüstet sein, dass
 
@@ -1136,6 +1161,7 @@ Zeitpunkt anzuwenden, zu dem sie in Kraft treten.
 
 
 ##### § 30a Durch die Bauart bestimmte Höchstgeschwindigkeit sowie maximales Drehmoment und maximale Nutzleistung des Motors
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE001901311)
 
 (1) Kraftfahrzeuge müssen entsprechend dem Stand der Technik so gebaut
 und ausgerüstet sein, dass technische Veränderungen, die zu einer
@@ -1169,6 +1195,7 @@ Bestimmungen anzuwenden.
 
 
 ##### § 30b Berechnung des Hubraums
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002000000)
 
 Der Hubraum ist wie folgt zu berechnen:
 
@@ -1190,6 +1217,7 @@ Der Hubraum ist wie folgt zu berechnen:
 
 
 ##### § 30c Vorstehende Außenkanten, Frontschutzsysteme
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002100000)
 
 (1) Am Umriss der Fahrzeuge dürfen keine Teile so hervorragen, dass
 sie den Verkehr mehr als unvermeidbar gefährden.
@@ -1210,6 +1238,7 @@ Bestimmungen entsprechen.
 
 
 ##### § 30d Kraftomnibusse
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002200000)
 
 (1) Kraftomnibusse sind Kraftfahrzeuge zur Personenbeförderung mit
 mehr als acht Sitzplätzen außer dem Fahrersitz.
@@ -1233,6 +1262,7 @@ entsprechend.
 
 
 ##### § 31 Verantwortung für den Betrieb der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002300000)
 
 (1) Wer ein Fahrzeug oder einen Zug miteinander verbundener Fahrzeuge
 führt, muss zur selbstständigen Leitung geeignet sein.
@@ -1246,6 +1276,7 @@ Besetzung leidet.
 
 
 ##### § 31a Fahrtenbuch
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002400000)
 
 (1) Die nach Landesrecht zuständige Behörde kann gegenüber einem
 Fahrzeughalter für ein oder mehrere auf ihn zugelassene oder künftig
@@ -1293,6 +1324,7 @@ nach Ablauf der Zeit, für die es geführt werden muss, aufzubewahren.
 
 
 ##### § 31b Überprüfung mitzuführender Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002502123)
 
 Führer von Fahrzeugen sind verpflichtet, zuständigen Personen auf
 Verlangen folgende mitzuführende Gegenstände vorzuzeigen und zur
@@ -1325,6 +1357,7 @@ Prüfung des vorschriftsmäßigen Zustands auszuhändigen:
 
 
 ##### § 31c Überprüfung von Fahrzeuggewichten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002600000)
 
 Kann der Führer eines Fahrzeugs auf Verlangen einer zuständigen Person
 die Einhaltung der für das Fahrzeug zugelassenen Achslasten und
@@ -1340,6 +1373,7 @@ nachzukommen; die Kosten hierfür hat der Halter zu tragen.
 
 
 ##### § 31d Gewichte, Abmessungen und Beschaffenheit ausländischer Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002700000)
 
 (1) Ausländische Kraftfahrzeuge und ihre Anhänger müssen in Gewicht
 und Abmessungen den §§ 32 und 34 entsprechen.
@@ -1376,6 +1410,7 @@ Lauffläche, der etwa drei Viertel der Laufflächenbreite einnimmt.
 
 
 ##### § 31e Geräuscharme ausländische Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002800000)
 
 Ausländische Kraftfahrzeuge, die zur Geräuschklasse G 1 im Sinne der
 Nummer 3.2.1 der Anlage XIV gehören, gelten als geräuscharm; sie
@@ -1385,9 +1420,11 @@ Absatz 3 Satz 2 und 3 entsprechend.
 
 
 #### 2. - Kraftfahrzeuge und ihre Anhänger
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000800000)
 
 
 ##### § 32 Abmessungen von Fahrzeugen und Fahrzeugkombinationen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE002902119)
 
 (1) Bei Kraftfahrzeugen und Anhängern einschließlich mitgeführter
 austauschbarer Ladungsträger (§ 42 Absatz 3) darf die höchstzulässige
@@ -1926,6 +1963,7 @@ Toleranzen gewährt werden.
 
 
 ##### § 32a Mitführen von Anhängern
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003001119)
 
 Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur
 Personenbeförderung (Omnibusanhänger), mitgeführt werden. Es dürfen
@@ -1941,6 +1979,7 @@ selbstfahrenden Arbeitsmaschine dienen.
 
 
 ##### § 32b Unterfahrschutz
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003100000)
 
 (1) Kraftfahrzeuge, Anhänger und Fahrzeuge mit austauschbaren
 Ladungsträgern mit einer durch die Bauart bestimmten
@@ -2000,6 +2039,7 @@ zu dieser Vorschrift genannten Bestimmungen entspricht.
 
 
 ##### § 32c Seitliche Schutzvorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003200000)
 
 (1) Seitliche Schutzvorrichtungen sind Einrichtungen, die verhindern
 sollen, dass Fußgänger, Rad- oder Kraftradfahrer seitlich unter das
@@ -2037,6 +2077,7 @@ Vorschrift genannten Bestimmungen entsprechen.
 
 
 ##### § 32d Kurvenlaufeigenschaften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003300000)
 
 (1) Kraftfahrzeuge und Fahrzeugkombinationen müssen so gebaut und
 eingerichtet sein, dass einschließlich mitgeführter austauschbarer
@@ -2064,6 +2105,7 @@ senkrechte Ebene hinausragen.
 
 
 ##### § 32e Schutzstrukturen an land- oder forstwirtschaftlichen Zugmaschinen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016900119)
 
 (1) Land- oder forstwirtschaftliche Zugmaschinen müssen mit
 Überrollschutzstrukturen ausgerüstet sein, die den im Anhang zu dieser
@@ -2115,12 +2157,14 @@ anerkannt.
 
 
 ##### § 33 Schleppen von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003401311)
 
 Fahrzeuge, die nach ihrer Bauart zum Betrieb als Kraftfahrzeug
 bestimmt sind, dürfen nicht als Anhänger betrieben werden.
 
 
 ##### § 34 Achslast und Gesamtgewicht
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003505123)
 
 (1) Die Achslast ist die Gesamtlast, die von den Rädern einer Achse
 oder einer Achsgruppe auf die Fahrbahn übertragen wird.
@@ -2655,6 +2699,7 @@ dieser Vorschrift genannten Bestimmungen anzuwenden.
 
 
 ##### § 34a Besetzung, Beladung und Kennzeichnung von Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003600000)
 
 (1) In Kraftomnibussen dürfen nicht mehr Personen und Gepäck befördert
 werden, als in der Zulassungsbescheinigung Teil I Sitz- und Stehplätze
@@ -2672,6 +2717,7 @@ Schrift anzuschreiben.
 
 
 ##### § 34b Laufrollenlast und Gesamtgewicht von Gleiskettenfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003701311)
 
 (1) Bei Fahrzeugen, die ganz oder teilweise auf endlosen Ketten oder
 Bändern laufen (Gleiskettenfahrzeuge), darf die Last einer Laufrolle
@@ -2694,6 +2740,7 @@ letzten Laufrolle höchstens mit 9,00 t je Meter belasten.
 
 
 ##### § 35 Motorleistung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003800000)
 
 Bei Lastkraftwagen sowie Kraftomnibussen einschließlich
 Gepäckanhänger, bei Sattelkraftfahrzeugen und Lastkraftwagenzügen muss
@@ -2707,6 +2754,7 @@ Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h.
 
 
 ##### § 35a Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder, Rollstuhlnutzer und Rollstühle
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE003905119)
 
 (1) Der Sitz des Fahrzeugführers und sein Betätigungsraum sowie die
 Einrichtungen zum Führen des Fahrzeugs müssen so angeordnet und
@@ -2855,6 +2903,7 @@ Verordnung (EU) Nr. 1322/2014 anerkannt.
 
 
 ##### § 35b Einrichtungen zum sicheren Führen der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004000000)
 
 (1) Die Einrichtungen zum Führen der Fahrzeuge müssen leicht und
 sicher zu bedienen sein.
@@ -2864,6 +2913,7 @@ allen Betriebs- und Witterungsverhältnissen gewährleistet sein.
 
 
 ##### § 35c Heizung und Lüftung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004101311)
 
 (1) Geschlossene Führerräume in Kraftfahrzeugen mit einer durch die
 Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h müssen
@@ -2882,6 +2932,7 @@ sein.
 
 
 ##### § 35d Einrichtungen zum Auf- und Absteigen an Fahrzeugen und Betätigungsraum
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004201119)
 
 (1) Die Beschaffenheit der Fahrzeuge muss sicheres Auf- und Absteigen
 ermöglichen.
@@ -2892,6 +2943,7 @@ Vorschrift genannten Bestimmungen entsprechen.
 
 
 ##### § 35e Türen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004300000)
 
 (1) Türen und Türverschlüsse müssen so beschaffen sein, dass beim
 Schließen störende Geräusche vermeidbar sind.
@@ -2912,6 +2964,7 @@ können.
 
 
 ##### § 35f Notausstiege in Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004400000)
 
 Notausstiege in Kraftomnibussen sind innen und außen am Fahrzeug zu
 kennzeichnen. Notausstiege und hand- oder fremdkraftbetätigte
@@ -2926,6 +2979,7 @@ Nähe sind eindeutige Bedienungsanweisungen anzubringen.
 
 
 ##### § 35g Feuerlöscher in Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004500000)
 
 (1) In Kraftomnibussen muss mindestens ein Feuerlöscher, in
 Doppeldeckfahrzeugen müssen mindestens zwei Feuerlöscher mit einer
@@ -2969,6 +3023,7 @@ müssen der Name des Prüfers und der Tag der Prüfung angegeben sein.
 
 
 ##### § 35h Erste-Hilfe-Material in Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004601305)
 
 (1) In Kraftomnibussen sind Verbandkästen, die selbst und deren Inhalt
 an Erste-Hilfe-Material dem Normblatt DIN 13 164, Ausgabe Januar 1998
@@ -3006,6 +3061,7 @@ erfüllt.
 
 
 ##### § 35i Gänge, Anordnung von Fahrgastsitzen und Beförderung von Fahrgästen in Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004700000)
 
 (1) In Kraftomnibussen müssen die Fahrgastsitze so angeordnet sein,
 dass der Gang in Längsrichtung frei bleibt. Im Übrigen müssen die
@@ -3018,6 +3074,7 @@ werden. Dies gilt nicht für Kinder in Kinderwagen.
 
 
 ##### § 35j Brennverhalten der Innenausstattung bestimmter Kraftomnibusse
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE004800000)
 
 Die Innenausstattung von Kraftomnibussen, die weder für Stehplätze
 ausgelegt noch für die Benutzung im städtischen Verkehr bestimmt und
@@ -3027,6 +3084,7 @@ entsprechen.
 
 
 ##### § 36 Bereifung und Laufflächen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016802119)
 
 (1) Maße und Bauart der Reifen von Fahrzeugen müssen den
 Betriebsbedingungen, besonders der Belastung und der durch die Bauart
@@ -3253,6 +3311,7 @@ werden.
 
 
 ##### § 36a Radabdeckungen, Ersatzräder
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005001119)
 
 (1) Die Räder von Kraftfahrzeugen und ihren Anhängern müssen mit
 hinreichend wirkenden Abdeckungen (Kotflügel, Schmutzfänger oder
@@ -3305,6 +3364,7 @@ insbesondere durch Bruch, Versagen oder Bedienungsfehler – ausfällt.
 
 
 ##### § 37 Gleitschutzeinrichtungen und Schneeketten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005101123)
 
 (1) Einrichtungen, die die Greifwirkung der Räder bei Fahrten
 außerhalb befestigter Straßen erhöhen sollen (so genannte Bodengreifer
@@ -3332,6 +3392,7 @@ leicht nachgespannt werden können.
 
 
 ##### § 38 Lenkeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005200000)
 
 (1) Die Lenkeinrichtung muss leichtes und sicheres Lenken des
 Fahrzeugs gewährleisten; sie ist, wenn nötig, mit einer Lenkhilfe zu
@@ -3366,6 +3427,7 @@ Lastkraftwagen anzuwenden sind, entsprechen.
 
 
 ##### § 38a Sicherungseinrichtungen gegen unbefugte Benutzung von Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005300000)
 
 (1) Personenkraftwagen sowie Lastkraftwagen, Zugmaschinen und
 Sattelzugmaschinen mit einem zulässigen Gesamtgewicht von nicht mehr
@@ -3391,6 +3453,7 @@ sind, müssen den vorstehenden Vorschriften entsprechen.
 
 
 ##### § 38b Fahrzeug-Alarmsysteme
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005400000)
 
 In Personenkraftwagen sowie in Lastkraftwagen, Zugmaschinen und
 Sattelzugmaschinen mit einem zulässigen Gesamtgewicht von nicht mehr
@@ -3401,6 +3464,7 @@ vorstehenden Vorschriften entsprechen.
 
 
 ##### § 39 Rückwärtsgang
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005500000)
 
 Kraftfahrzeuge – ausgenommen einachsige Zug- oder Arbeitsmaschinen mit
 einem zulässigen Gesamtgewicht von nicht mehr als 400 kg sowie
@@ -3409,6 +3473,7 @@ Rückwärtsfahren gebracht werden können.
 
 
 ##### § 39a Betätigungseinrichtungen, Kontrollleuchten und Anzeiger
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005600000)
 
 (1) Die in Personenkraftwagen und Kraftomnibussen sowie
 Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen – ausgenommen
@@ -3429,6 +3494,7 @@ Bestimmungen entspricht.
 
 
 ##### § 40 Scheiben, Scheibenwischer, Scheibenwascher, Entfrostungs- und Trocknungsanlagen für Scheiben
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005700000)
 
 (1) Sämtliche Scheiben – ausgenommen Spiegel sowie Abdeckscheiben von
 lichttechnischen Einrichtungen und Instrumenten – müssen aus
@@ -3451,6 +3517,7 @@ Bestimmungen entsprechen.
 
 
 ##### § 41 Bremsen und Unterlegkeile
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005801311)
 
 (1) Kraftfahrzeuge müssen zwei voneinander unabhängige Bremsanlagen
 haben oder eine Bremsanlage mit zwei voneinander unabhängigen
@@ -3819,6 +3886,7 @@ entsprechen.
 
 
 ##### § 41a Druckgasanlagen und Druckbehälter
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE005902119)
 
 (1) Kraftfahrzeugtypen, die mit speziellen Ausrüstungen oder Bauteilen
 für die Verwendung von
@@ -3953,6 +4021,7 @@ entsprechend des Anhangs zu kennzeichnen.
 
 
 ##### § 41b Automatischer Blockierverhinderer
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006000000)
 
 (1) Ein automatischer Blockierverhinderer ist der Teil einer
 Betriebsbremsanlage, der selbsttätig den Schlupf in der Drehrichtung
@@ -3997,6 +4066,7 @@ Kraftfahrzeuge mit mehr als vier Achsen.
 
 
 ##### § 42 Anhängelast hinter Kraftfahrzeugen und Leergewicht
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006101311)
 
 (1) Die gezogene Anhängelast darf bei
 
@@ -4056,6 +4126,7 @@ Ladungsträger, die Fahrzeuge miteinander verbinden oder Zugkräfte
 
 
 ##### § 43 Einrichtungen zur Verbindung von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006200000)
 
 (1) Einrichtungen zur Verbindung von Fahrzeugen müssen so ausgebildet
 und befestigt sein, dass die nach dem Stand der Technik erreichbare
@@ -4112,6 +4183,7 @@ genannten Bestimmungen entsprechen.
 
 
 ##### § 44 Stützeinrichtung und Stützlast
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006300000)
 
 (1) An Sattelanhängern muss eine Stützeinrichtung vorhanden sein oder
 angebracht werden können. Wenn Sattelanhänger so ausgerüstet sind,
@@ -4152,6 +4224,7 @@ ziehenden Fahrzeugs angegebene Stützlast überschritten werden.
 
 
 ##### § 45 Kraftstoffbehälter
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006401311)
 
 (1) Kraftstoffbehälter müssen korrosionsfest sein. Sie müssen bei
 doppeltem Betriebsüberdruck, mindestens aber bei einem Überdruck von
@@ -4192,6 +4265,7 @@ genannten Bestimmungen.
 
 
 ##### § 46 Kraftstoffleitungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006500000)
 
 (1) Kraftstoffleitungen sind so auszuführen, dass Verwindungen des
 Fahrzeugs, Bewegungen des Motors und dergleichen keinen nachteiligen
@@ -4220,6 +4294,7 @@ nicht durch Schwerkraft gefördert werden.
 
 
 ##### § 47 Abgase
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006605123)
 
 (1) Kraftfahrzeuge mit Fremdzündungsmotor oder Selbstzündungsmotor mit
 mindestens vier Rädern, einer zulässigen Gesamtmasse von mindestens
@@ -4563,14 +4638,17 @@ Messgenauigkeit mit dem Technischen Dienst regelmäßig abzugleichen.
 
 
 ##### § 47a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006701308)
 
 
 
 ##### § 47b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006800000)
 
 
 
 ##### § 47c Ableitung von Abgasen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE006900000)
 
 Die Mündungen von Auspuffrohren dürfen nur nach oben, nach hinten,
 nach hinten unten oder nach hinten links bis zu einem Winkel von 45
@@ -4581,6 +4659,7 @@ die hintere Begrenzung der Fahrzeuge hinausragen.
 
 
 ##### § 47d Kohlendioxidemissionen, Kraftstoffverbrauch, Reichweite, Stromverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007002123)
 
 (1) Für Kraftfahrzeuge, die in den Anwendungsbereich der Verordnung
 (EG) Nr. 715/2007 in Verbindung mit der Verordnung (EU) 2017/1151,
@@ -4606,6 +4685,7 @@ Fahrzeughalter beim Kauf des Fahrzeugs zu übergeben ist.
 
 
 ##### § 47e Genehmigung, Nachrüstung und Nachfüllen von Klimaanlagen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016100308)
 
 Kraftfahrzeuge mit Klimaanlage, die in den Anwendungsbereich der
 Richtlinie 2006/40/EG des Europäischen Parlaments und des Rates vom
@@ -4621,6 +4701,7 @@ den Vorschriften dieser Verordnung zu entsprechen.
 
 
 ##### § 47f Kraftstoffe, emissionsbedeutsame Betriebsstoffe und Systeme zur Verringerung der Stickoxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016700116)
 
 (1) Ein Kraftfahrzeug darf nur mit den vom Hersteller in der
 Betriebsanleitung oder in anderen für den Fahrzeughalter bestimmten
@@ -4642,6 +4723,7 @@ verbrauchenden Reagens erfordert.
 
 
 ##### § 48 Emissionsklassen für Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007100000)
 
 (1) Kraftfahrzeuge, für die nachgewiesen wird, dass die Emissionen
 gasförmiger Schadstoffe und luftverunreinigender Partikel oder die
@@ -4657,6 +4739,7 @@ Anlage geprüft, genehmigt und eingebaut werden.
 
 
 ##### § 49 Geräuschentwicklung und Schalldämpferanlage
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007201123)
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass
 die Geräuschentwicklung das nach dem jeweiligen Stand der Technik
@@ -4765,6 +4848,7 @@ der Anwendung ist er federführend.
 
 
 ##### § 49a Lichttechnische Einrichtungen, allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007303119)
 
 (1) An Kraftfahrzeugen und ihren Anhängern dürfen nur die
 vorgeschriebenen und die für zulässig erklärten lichttechnischen
@@ -4928,6 +5012,7 @@ gelten die Begriffsbestimmungen in Anhang I der Richtlinie 76/756/EWG.
 
 
 ##### § 50 Scheinwerfer für Fern- und Abblendlicht
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007400000)
 
 (1) Für die Beleuchtung der Fahrbahn darf nur weißes Licht verwendet
 werden.
@@ -5072,6 +5157,7 @@ ausgerüstet sein.
 
 
 ##### § 51 Begrenzungsleuchten, vordere Rückstrahler, Spurhalteleuchten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007500000)
 
 (1) Kraftfahrzeuge – ausgenommen Krafträder ohne Beiwagen und
 Kraftfahrzeuge mit einer Breite von weniger als 1 000 mm – müssen zur
@@ -5127,6 +5213,7 @@ angebracht sein.
 
 
 ##### § 51a Seitliche Kenntlichmachung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007601119)
 
 (1) Kraftfahrzeuge – ausgenommen Personenkraftwagen – mit einer Länge
 von mehr als 6 m sowie Anhänger müssen an den Längsseiten mit nach der
@@ -5206,6 +5293,7 @@ Seitenmarkierungsleuchte anzubringen.
 
 
 ##### § 51b Umrissleuchten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007700000)
 
 (1) Umrissleuchten sind Leuchten, die die Breite über alles eines
 Fahrzeugs deutlich anzeigen. Sie sollen bei bestimmten Fahrzeugen die
@@ -5248,6 +5336,7 @@ beträgt.
 
 
 ##### § 51c Parkleuchten, Park-Warntafeln
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007800000)
 
 (1) Parkleuchten und Park-Warntafeln zeigen die seitliche Begrenzung
 eines geparkten Fahrzeugs an.
@@ -5301,6 +5390,7 @@ Warntafeln nicht verdeckt werden.
 
 
 ##### § 52 Zusätzliche Scheinwerfer und Leuchten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE007904119)
 
 (1) Außer mit den in § 50 vorgeschriebenen Scheinwerfern zur
 Beleuchtung der Fahrbahn dürfen mehrspurige Kraftfahrzeuge mit zwei
@@ -5500,6 +5590,7 @@ Schrittgeschwindigkeit erfolgen darf.
 
 
 ##### § 52a Rückfahrscheinwerfer
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008000000)
 
 (1) Der Rückfahrscheinwerfer ist eine Leuchte, die die Fahrbahn hinter
 und gegebenenfalls neben dem Fahrzeug ausleuchtet und anderen
@@ -5556,6 +5647,7 @@ nicht vorgeschrieben sind, müssen sie den Vorschriften der Absätze 2,
 
 
 ##### § 53 Schlussleuchten, Bremsleuchten, Rückstrahler
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008102119)
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen hinten mit zwei
 ausreichend wirkenden Schlussleuchten für rotes Licht ausgerüstet
@@ -5748,6 +5840,7 @@ genannten Bestimmungen entspricht.
 
 
 ##### § 53a Warndreieck, Warnleuchte, Warnblinkanlage, Warnweste
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008202305)
 
 (1) Warndreiecke und Warnleuchten müssen tragbar, standsicher und so
 beschaffen sein, dass sie bei Gebrauch auf ausreichende Entfernung
@@ -5818,6 +5911,7 @@ sind, müssen den Vorschriften des Absatzes 4 entsprechen.
 
 
 ##### § 53b Ausrüstung und Kenntlichmachung von Anbaugeräten und Hubladebühnen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008301119)
 
 (1) Anbaugeräte, die seitlich mehr als 400 mm über den äußersten Punkt
 der leuchtenden Flächen der Begrenzungs- oder der Schlussleuchten des
@@ -5885,6 +5979,7 @@ zweckentsprechend betrieben werden.
 
 
 ##### § 53c Tarnleuchten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008400000)
 
 (1) Fahrzeuge der Bundeswehr, der Bundespolizei, der Polizei und des
 Katastrophenschutzes dürfen zusätzlich mit den zum Tarnlichtkreis
@@ -5896,6 +5991,7 @@ Fahrzeugbeleuchtung abgeschaltet ist.
 
 
 ##### § 53d Nebelschlussleuchten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008500000)
 
 (1) Die Nebelschlussleuchte ist eine Leuchte, die rotes Licht
 abstrahlt und das Fahrzeug bei dichtem Nebel von hinten besser
@@ -5934,6 +6030,7 @@ bzw. Abziehen des Steckers für die Anhängerbeleuchtung erfolgt.
 
 
 ##### § 54 Fahrtrichtungsanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008601119)
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen mit
 Fahrtrichtungsanzeigern ausgerüstet sein. Die Fahrtrichtungsanzeiger
@@ -6065,6 +6162,7 @@ vorgeschrieben sind, müssen den vorstehenden Vorschriften entsprechen.
 
 
 ##### § 54a Innenbeleuchtung in Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008700000)
 
 (1) Kraftomnibusse müssen eine Innenbeleuchtung haben; diese darf die
 Sicht des Fahrzeugführers nicht beeinträchtigen.
@@ -6075,6 +6173,7 @@ geschlossen ist.
 
 
 ##### § 54b Windsichere Handlampe
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008800000)
 
 In Kraftomnibussen muss außer den nach § 53a Absatz 1 erforderlichen
 Warneinrichtungen eine von der Lichtanlage des Fahrzeugs unabhängige
@@ -6082,6 +6181,7 @@ windsichere Handlampe mitgeführt werden.
 
 
 ##### § 55 Einrichtungen für Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE008902119)
 
 (1) Kraftfahrzeuge müssen mindestens eine Einrichtung für
 Schallzeichen haben, deren Klang gefährdete Verkehrsteilnehmer auf das
@@ -6154,6 +6254,7 @@ nicht zulässig.
 
 
 ##### § 55a Elektromagnetische Verträglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009000000)
 
 (1) Personenkraftwagen, Kraftomnibusse, Lastkraftwagen, Zugmaschinen
 und Sattelzugmaschinen mit mindestens vier Rädern und einer durch die
@@ -6175,6 +6276,7 @@ elektromagnetische Verträglichkeit entsprechen.
 
 
 ##### § 56 Spiegel und andere Einrichtungen für indirekte Sicht
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009100000)
 
 (1) Kraftfahrzeuge müssen nach Maßgabe der Absätze 2 bis 3 Spiegel
 oder andere Einrichtungen für indirekte Sicht haben, die so beschaffen
@@ -6252,6 +6354,7 @@ beladenen Anhängern nach rückwärts Sicht bietet.
 
 
 ##### § 57 Geschwindigkeitsmessgerät und Wegstreckenzähler
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009200000)
 
 (1) Kraftfahrzeuge müssen mit einem im unmittelbaren Sichtfeld des
 Fahrzeugführers liegenden Geschwindigkeitsmessgerät ausgerüstet sein.
@@ -6280,6 +6383,7 @@ tatsächlich zurückgelegten Wegstrecke* 4 Prozent abweichen.
 
 
 ##### § 57a Fahrtschreiber und Kontrollgerät
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009302119)
 
 (1) (weggefallen)
 
@@ -6331,6 +6435,7 @@ unberührt.
 
 
 ##### § 57b Prüfung der Fahrtenschreiber und Kontrollgeräte
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009403123)
 
 (1) Halter, deren Kraftfahrzeuge nach der Verordnung (EU) Nr. 165/2014
 in der aus dem Anhang zu dieser Vorschrift ersichtlichen Fassung mit
@@ -6450,6 +6555,7 @@ entspricht. Absatz 1 Satz 2 bis 5 gilt entsprechend.
 
 
 ##### § 57c Ausrüstung von Kraftfahrzeugen mit Geschwindigkeitsbegrenzern und ihre Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009501311)
 
 (1) Geschwindigkeitsbegrenzer sind Einrichtungen, die im Kraftfahrzeug
 in erster Linie durch die Steuerung der Kraftstoffzufuhr zum Motor die
@@ -6508,6 +6614,7 @@ nicht ausgeschaltet werden kann.
 
 
 ##### § 57d Einbau und Prüfung von Geschwindigkeitsbegrenzern
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009602123)
 
 (1) Geschwindigkeitsbegrenzer dürfen in Kraftfahrzeuge nur eingebaut
 und geprüft werden von hierfür amtlich anerkannten
@@ -6615,6 +6722,7 @@ werden.
 
 
 ##### § 58 Geschwindigkeitsschilder
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009702123)
 
 (1) Ein Geschwindigkeitsschild gibt die zulässige
 Höchstgeschwindigkeit des betreffenden Fahrzeugs in Kilometer je
@@ -6675,6 +6783,7 @@ Längsseite vorhanden sein.
 
 
 ##### § 59 Fabrikschilder, sonstige Schilder, Fahrzeug-Identifizierungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009800000)
 
 (1) An allen Kraftfahrzeugen und Anhängern muss an zugänglicher Stelle
 am vorderen Teil der rechten Seite gut lesbar und dauerhaft ein
@@ -6757,6 +6866,7 @@ entsprechend.
 
 
 ##### § 59a Nachweis der Übereinstimmung mit der Richtlinie 96/53/EG
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE009900000)
 
 (1) Fahrzeuge, die in Artikel 1 der Richtlinie 96/53/EG des Rates vom
 25\. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für
@@ -6774,6 +6884,7 @@ mit den am einzelnen Fahrzeug tatsächlich gemessenen übereinstimmen.
 
 
 ##### § 60 Flüssiggasanlagen in Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010001123)
 
 (1) Die Halter von zulassungspflichtigen Fahrzeugen im Sinne des § 3
 Absatz 1 Satz 1 der Fahrzeug-Zulassungsverordnung und
@@ -6855,10 +6966,12 @@ aufzuzeichnen und aufzubewahren.
 
 
 ##### § 60a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010100000)
 
 
 
 ##### § 61 Halteeinrichtungen für Beifahrer sowie Fußstützen und Ständer von zweirädrigen Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010200000)
 
 (1) Zweirädrige Kraftfahrzeuge, auf denen ein Beifahrer befördert
 werden darf, müssen mit einem Haltesystem für den Beifahrer
@@ -6874,6 +6987,7 @@ Bestimmungen entspricht.
 
 
 ##### § 61a Besondere Vorschriften für Anhänger hinter Fahrrädern mit Hilfsmotor
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010300000)
 
 Anhänger hinter Fahrrädern mit Hilfsmotor werden bei Anwendung der
 Bau- und Betriebsvorschriften wie Anhänger hinter Fahrrädern
@@ -6893,6 +7007,7 @@ Vorschriften über Anhänger hinter Kleinkrafträdern anzuwenden.
 
 
 ##### § 62 Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010400000)
 
 Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen
 müssen so beschaffen sein, dass bei verkehrsüblichem Betrieb der
@@ -6901,9 +7016,11 @@ Sachen beschädigt werden können.
 
 
 #### 3. - Andere Straßenfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG000900000)
 
 
 ##### § 63 Anwendung der für Kraftfahrzeuge geltenden Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010500000)
 
 Die Vorschriften über Abmessungen, Achslast, Gesamtgewicht und
 Bereifung von Kraftfahrzeugen und ihren Anhängern (§§ 32, 34, 36
@@ -6913,6 +7030,7 @@ Umweg zur Waage nicht mehr als 2 km betragen darf.
 
 
 ##### § 63a Fahrräder und Fahrradanhänger
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016501119)
 
 (1) Ein Fahrrad ist ein Fahrzeug mit mindestens zwei Rädern, das
 ausschließlich durch die Muskelkraft auf ihm befindlicher Personen mit
@@ -6939,6 +7057,7 @@ Herstellung entsprechen.
 
 
 ##### § 64 Lenkeinrichtung, sonstige Ausrüstung und Bespannung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010600000)
 
 (1) Fahrzeuge müssen leicht lenkbar sein. § 35a Absatz 1, Absatz 10
 Satz 1 und 4 und § 35d Absatz 1 sind entsprechend anzuwenden, soweit
@@ -6959,6 +7078,7 @@ unzulässig.
 
 
 ##### § 64a Einrichtungen für Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010700000)
 
 Fahrräder und Schlitten müssen mit mindestens einer helltönenden
 Glocke ausgerüstet sein; ausgenommen sind Handschlitten. Andere
@@ -6968,6 +7088,7 @@ zulässig.
 
 
 ##### § 64b Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010800000)
 
 An jedem Gespannfahrzeug – ausgenommen Kutschwagen, Personenschlitten
 und fahrbare land- oder forstwirtschaftliche Arbeitsgeräte – müssen
@@ -6976,6 +7097,7 @@ Besitzers in unverwischbarer Schrift deutlich angegeben sein.
 
 
 ##### § 65 Bremsen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE010900000)
 
 (1) Alle Fahrzeuge müssen eine ausreichende Bremse haben, die während
 der Fahrt leicht bedient werden kann und ihre Wirkung erreicht, ohne
@@ -6995,6 +7117,7 @@ gewöhnlichen Bremse nicht ausreichend gebremst werden kann.
 
 
 ##### § 66 Rückspiegel
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011000000)
 
 Lastfahrzeuge müssen einen Spiegel für die Beobachtung der Fahrbahn
 nach rückwärts haben. Dies gilt nicht, wenn eine zweckentsprechende
@@ -7003,6 +7126,7 @@ ist, ferner nicht für land- oder forstwirtschaftliche Maschinen.
 
 
 ##### § 66a Lichttechnische Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011100000)
 
 (1) Während der Dämmerung, der Dunkelheit oder wenn die
 Sichtverhältnisse es sonst erfordern, müssen die Fahrzeuge
@@ -7052,6 +7176,7 @@ sein; die Leuchten dürfen nicht blenden.
 
 
 ##### § 67 Lichttechnische Einrichtungen an Fahrrädern
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011203123)
 
 (1) Fahrräder dürfen nur dann im öffentlichen Straßenverkehr in
 Betrieb genommen werden, wenn sie mit den vorgeschriebenen und
@@ -7239,6 +7364,7 @@ Anbauhöhen
 
 
 ##### § 67a Lichttechnische Einrichtungen an Fahrradanhängern
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016601123)
 
 (1) An Fahrradanhängern dürfen nur die vorgeschriebenen und
 bauartgenehmigten lichttechnischen Einrichtungen angebracht sein.
@@ -7335,9 +7461,11 @@ gebaut oder kombiniert sein, mit Ausnahme von Fahrtrichtungsanzeigern.
 
 
 ## C. - Durchführungs-,Bußgeld- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNG001000000)
 
 
 ### § 68 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011300000)
 
 (1) Diese Verordnung wird von den nach Landesrecht zuständigen
 Behörden ausgeführt.
@@ -7366,10 +7494,12 @@ Behörden vorgenommen werden.
 
 
 ### § 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011400000)
 
 
 
 ### § 69a Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011509123)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -7935,10 +8065,12 @@ fahrlässig
 
 
 ### § 69b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011600000)
 
 
 
 ### § 70 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011703119)
 
 (1) Ausnahmen können genehmigen
 
@@ -8055,6 +8187,7 @@ Ermächtigung auf oberste Landesbehörden übertragen.
 
 
 ### § 71 Auflagen bei Ausnahmegenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011800000)
 
 Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung
 kann mit Auflagen verbunden werden; der Betroffene hat den Auflagen
@@ -8062,6 +8195,7 @@ nachzukommen.
 
 
 ### § 72 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE011908123)
 
 (1) Für Fahrzeuge sowie für Systeme, Bauteile und selbstständige
 technische Einheiten für diese Fahrzeuge, die vor dem 20. Juni 2024
@@ -8242,6 +8376,7 @@ Absatz 1 Satz 1 Nummer 3 und Satz 2.
 
 
 ### § 73 Technische Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012001123)
 
 Soweit in dieser Verordnung auf DIN- oder ISO-Normen Bezug genommen
 wird, sind diese im Beuth Verlag GmbH, Saatwinkler Damm 42/43, 13627
@@ -8252,11 +8387,13 @@ niedergelegt.
 
 
 ### (XXXX) Anlage I bis VII (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012100000)
 
 
 (§ 29 Absatz 1, 3, 4, 7, 9, 10)
 
 ### Anlage VIII Untersuchung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012208123)
 
 (Fundstelle: BGBl. I 2012, 734 - 740;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9357,6 +9494,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2)
 
 ### Anlage VIIIa Durchführung der Hauptuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012305123)
 
 (Fundstelle: BGBl. I 2012, 1105 - 1114)
 
@@ -11404,6 +11542,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (Anlage VIII Nummer 3.1 und 3.2)
 
 ### Anlage VIIIb Anerkennung von Überwachungsorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012406123)
 
 (Fundstelle: BGBl. I 2012, 748 - 751;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11791,6 +11930,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Anlage VIII Nummer 3.1.1.1 und 3.2)
 
 ### Anlage VIIIc Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Sicherheitsprüfungen und/oder Untersuchungen der Abgase sowie Schulung der verantwortlichen Personen und Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012505123)
 
 (Fundstelle: BGBl. I 2012, 752 - 755;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12369,6 +12509,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Anlage VIII Nummer 4)
 
 ### Anlage VIIId Untersuchungsstellen zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase und wiederkehrenden Gasanlagenprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012604119)
 
 (Fundstelle: BGBl. I 2012, 756 - 761;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13250,6 +13391,7 @@ Abweichungen nach 4.2:
 (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3)
 
 ### Anlage VIIIe Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016202119)
 
 (Fundstelle: BGBl. I 2012, 1115 - 1118)
 
@@ -13530,6 +13672,7 @@ Abweichungen nach 4.2:
 (zu § 29 Absatz 2, 3, 5 bis 8)
 
 ### Anlage IX Prüfplakette für die Untersuchung von Kraftfahrzeugen und Anhängern
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012701123)
 
 (Fundstelle: BGBl. I 2012, 762;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13678,11 +13821,13 @@ Vorgeschriebene Abmessungen der Prüfplakette:
 
 
 ### Anlage IXa (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012801308)
 
 
 (§ 29 Absatz 2 bis 8)
 
 ### Anlage IXb Prüfmarke und SP-Schild für die Durchführung von Sicherheitsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE012900000)
 
 (Fundstelle: BGBl. I 2012, 765 - 768)
 
@@ -14239,6 +14384,7 @@ Vorgeschriebene Abmessungen der Prüfplakette:
 (zu § 35e Absatz 4, §§ 35f, 35i)
 
 ### Anlage X Fahrgasttüren, Notausstiege, Gänge und Anordnung von Fahrgastsitzen in Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013000000)
 
 (Fundstelle: BGBl. I 2012, 769 - 776)
 
@@ -15014,20 +15160,24 @@ Vorgeschriebene Abmessungen der Prüfplakette:
 [^f776225_27_BJNR067910012BJNE013000000]: 
 
 ### Anlage XI (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013100000)
 
 
 
 ### Anlage XIa (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013200000)
 
 
 
 ### Anlage XIb (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013300000)
 
 
 (§ 34 Absatz 4 Nummer 2 Buchstabe d, Absatz 5 Nummer 2 Buchstabe b und
 Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)
 
 ### Anlage XII Bedingungen für die Gleichwertigkeit von Luftfederungen und bestimmten anderen Federungssystemen an der (den) Antriebsachse(n) des Fahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013400000)
 
 (Fundstelle: BGBl. I 2012, 778 - 779)
 
@@ -15170,6 +15320,7 @@ Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)
 (§ 34a Absatz 3)
 
 ### Anlage XIII Zulässige Zahl von Sitzplätzen und Stehplätzen in Kraftomnibussen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013500000)
 
 (Fundstelle: BGBl. I 2012, 780)
 
@@ -15213,6 +15364,7 @@ b)  Das für die Gepäckbeförderung zu berücksichtigende Gewicht kann sowohl
 (zu § 48)
 
 ### Anlage XIV Emissionsklassen für Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013603123)
 
 (Fundstelle: BGBl. I 2012, 781 - 786;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16054,6 +16206,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 49 Absatz 3)
 
 ### Anlage XV Zeichen „Geräuscharmes Kraftfahrzeug“
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013700000)
 
 (Fundstelle: BGBl. I 2012, 787)
 
@@ -16075,6 +16228,7 @@ angebracht sein.
 (zu § 47 Absatz 2 Satz 2)
 
 ### Anlage XVI Maßnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013800000)
 
 (Fundstelle: BGBl. I 2012, 788 - 802)
 
@@ -18001,6 +18155,7 @@ Nummer der Genehmigung
 (zu § 41a Absatz 5 und 6)
 
 ### Anlage XVII Gassystemeinbauprüfungen und sonstige Gasanlagenprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE013901305)
 
 (Fundstelle: BGBl. I 2012, 803)
 
@@ -18127,6 +18282,7 @@ Nummer der Genehmigung
 (zu § 41a Absatz 7 und Anlage VIII Nummer 3.1.1.2)
 
 ### Anlage XVIIa Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder von wiederkehrenden und sonstigen Gasanlagenprüfungen sowie Schulung der verantwortlichen Personen und Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014002305)
 
 (Fundstelle: BGBl. I 2012, 804 - 806;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -18469,6 +18625,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 57b Absatz 1 und 4)
 
 ### Anlage XVIII Prüfung der Fahrtenschreiber
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014102123)
 
 (Fundstelle: BGBl. 2024 I Nr. 191, S. 12 – 14)
 
@@ -18787,6 +18944,7 @@ _\_\__\_\__\_\__
 (zu § 57b Absatz 1 und 4)
 
 ### Anlage XVIIIa Durchführung der Prüfungen der Fahrtenschreiber und Kontrollgeräten
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014202123)
 
 (Fundstelle: BGBl. 2024 I Nr. 191, S. 15 – 18)
 
@@ -19298,6 +19456,7 @@ _\_\__\_\__\_\__
 (zu § 57b Absatz 3 und 4 und § 57d Absatz 1a)
 
 ### Anlage XVIIIb Prüfstellen für die Durchführung von Prüfungen der Fahrtenschreiber und der Geschwindigkeitsbegrenzer
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014303123)
 
 (Fundstelle: BGBl. 2024 I Nr. 191, S. 19 – 20)
 
@@ -19446,6 +19605,7 @@ _\_\__\_\__\_\__
 (zu § 57b Absatz 3 und 4 und § 57d Absatz 1a)
 
 ### Anlage XVIIIc Anerkennung von Fahrtenschreiberherstellern für die Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer sowie von Fahrzeugherstellern oder Fahrzeugimporteuren für die Durchführung von Einbauprüfungen der Fahrtenschreiber
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014403123)
 
 (Fundstelle: BGBl. 2024 I Nr. 191, S. 21 – 22)
 
@@ -19642,6 +19802,7 @@ _\_\__\_\__\_\__
 (zu § 57b Absatz 3 und § 57d Absatz 1a)
 
 ### Anlage XVIIId Beauftragung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen der Fahrtenschreiber oder der Geschwindigkeitsbegrenzer
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014504123)
 
 (Fundstelle: BGBl. 2024 I Nr. 191, S. 23 – 26)
 
@@ -20105,14 +20266,17 @@ _\_\__\_\__\_\__
 
 
 ### Anlage XIX (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014602123)
 
 
 ### Anlage XX (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014700000)
 
 
 (§ 49 Absatz 3)
 
 ### Anlage XXI Kriterien für lärmarme Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014800000)
 
 (Fundstelle: BGBl. I 2012, 822 - 824)
 
@@ -20332,6 +20496,7 @@ Emissionswerts von weniger als 270 mg/km NO
 für Kraftfahrzeuge mit Selbstzündungsmotor (NO
 
 ### Anlage XXII MS-Pkw)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE014901124)
 
 Inhaltsverzeichnis
 ##
@@ -22450,6 +22615,7 @@ Zulassungsbehörde**
 (zu § 47)
 
 ### Anlage XXIII Maßnahmen gegen die Verunreinigung der Luft durch Gase und Partikel von Kraftfahrzeugen mit Fremdzündungsmotoren und Selbstzündungsmotoren (Definition schadstoffarmer Personenkraftwagen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015000000)
 
 (Fundstelle: BGBl. I 2012, 826 - 887)
 
@@ -39045,6 +39211,7 @@ Hauptmerkmale des Motors
 (zu § 47)
 
 ### Anlage XXIV Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- und Selbstzündungsmotoren
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015100000)
 
 (Fundstelle: BGBl. I 2012, 888 - 897)
 
@@ -40553,6 +40720,7 @@ Abgasreinigungssysteme
 (zu § 47)
 
 ### Anlage XXV Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- oder Selbstzündungsmotoren
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015200000)
 
 (Fundstelle: BGBl. I 2012, 898 - 899)
 
@@ -40776,6 +40944,7 @@ Abgasreinigungssysteme
 (zu § 47 Absatz 3a)
 
 ### Anlage XXVI Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Kraftfahrzeugen mit Selbstzündungsmotor
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015300000)
 
 (Fundstelle: BGBl. I 2012, 900 - 915)
 
@@ -42986,6 +43155,7 @@ Ort, Datum, Unterschrift der verantwortlichen Person nach § 29 Absatz
 (zu § 48 Absatz 2 und Anlage XIV Nummer 3.4)
 
 ### Anlage XXVII Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Nutzfahrzeugen sowie von mobilen Maschinen und Geräten mit Selbstzündungsmotor
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015400000)
 
 (Fundstelle: BGBl. I 2012, 916 - 929)
 
@@ -44626,6 +44796,7 @@ StVZO für die Untersuchung der Abgase verantwortlichen Person
 (§ 35a Absatz 8)
 
 ### Anlage XXVIII Beispiel für einen Warnhinweis vor der Verwendung einer nach hinten gerichteten Rückhalteeinrichtung für Kinder auf Beifahrerplätzen mit Airbag
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015500000)
 
 (Fundstelle: BGBl. I 2012, 930)
 
@@ -44638,6 +44809,7 @@ Der Durchmesser des Piktogramms beträgt mindestens 60 mm.
 (zu § 20 Absatz 3a Satz 4)
 
 ### Anlage XXIX EG-Fahrzeugklassen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015601119)
 
 (Fundstelle: BGBl. I 2012, 931 - 935;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -46363,6 +46535,7 @@ Anhänger und gezogene auswechselbare Geräte
 [^F776225_114_BJNR067910012BJNE015601119]: 
 
 ### Anhang
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015708123)
 
 (Fundstelle: BGBl. I 2012, 936 - 947;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -49106,11 +49279,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### (XXXX) Muster 1 bis 2c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015800000)
 
 
 (§ 20)
 
 ### Muster 2d Vorbemerkungen
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE015900000)
 
 (Fundstelle: BGBl. I 2012, 949 - 951)
 
@@ -49703,5 +49878,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^F776225_T12_05_BJNR067910012BJNE015900000]: 
 
 ### (XXXX) Muster 3 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzo_2012/BJNR067910012.html#BJNR067910012BJNE016000140)
 
 

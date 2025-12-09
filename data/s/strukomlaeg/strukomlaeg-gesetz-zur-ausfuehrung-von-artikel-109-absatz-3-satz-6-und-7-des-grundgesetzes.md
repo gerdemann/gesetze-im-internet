@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Grundlagen zur Bestimmung der für die Gesamtheit der Länder zulässigen strukturellen Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/strukoml_g/BJNR0F70B0025.html#BJNR0F70B0025BJNE000100000)
 
 Das zur Bestimmung der zulässigen strukturellen Kreditaufnahme nach
 Artikel 109 Absatz 3 Satz 6 des Grundgesetzes maßgebliche
@@ -28,6 +29,7 @@ Bruttoinlandsprodukt des Jahres 2024 zugrunde zu legen.
 
 
 ## § 2 Verteilung der zulässigen strukturellen Kreditaufnahme für die Ländergesamtheit auf die einzelnen Länder gemäß Artikel 109 Absatz 3 Satz 6 und 7 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strukoml_g/BJNR0F70B0025.html#BJNR0F70B0025BJNE000200000)
 
 (1) Die Verteilung der für die Gesamtheit der Länder nach § 1
 zulässigen strukturellen Kreditaufnahme erfolgt zu zwei Dritteln nach
@@ -154,6 +156,7 @@ Gesetzes zur Verfügung gestellt.
 
 
 ## § 3 Geltungsbeginn
+[Direktlink](https://www.gesetze-im-internet.de/strukoml_g/BJNR0F70B0025.html#BJNR0F70B0025BJNE000300000)
 
 Die gemäß § 2 für jedes Land ermittelte zulässige strukturelle
 Kreditaufnahme kann erstmals für das Haushaltsjahr 2025 in Anspruch

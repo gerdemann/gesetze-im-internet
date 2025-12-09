@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der
 durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S.
@@ -32,9 +33,11 @@ Verteidigung:
 
 
 ## Abschnitt 1 - Zulassung zum Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000100000)
 
 
 ### § 1 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000300000)
 
 (1) Zum Aufstieg in den höheren nichttechnischen Verwaltungsdienst
 über den Masterstudiengang „Intelligence and Security Studies“ können
@@ -56,9 +59,11 @@ Beamtinnen und Beamte zugelassen werden, die
 
 
 ## Abschnitt 2 - Masterstudiengang „Intelligence and Security Studies“
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000200000)
 
 
 ### § 2 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000400000)
 
 (1) Das Studium vermittelt die notwendigen wissenschaftlichen Methoden
 und Kenntnisse für die Erfüllung der Aufgaben im höheren
@@ -73,11 +78,13 @@ zusammenarbeiten, gerecht zu werden.
 
 
 ### § 3 Vollzeitstudium
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000500000)
 
 Das Studium ist ein Vollzeitstudium.
 
 
 ### § 4 Regelstudienzeit
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000600000)
 
 (1) Die Regelstudienzeit beträgt zwei Jahre.
 
@@ -89,6 +96,7 @@ Hochschule des Bundes für öffentliche Verwaltung.
 
 
 ### § 5 Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000700000)
 
 (1) Die Prüfungsordnung regelt insbesondere:
 
@@ -142,6 +150,7 @@ München auf ihrer Internetseite veröffentlicht.
 
 
 ### § 6 Module
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000800000)
 
 Das Studium gliedert sich in
 
@@ -158,6 +167,7 @@ Das Studium gliedert sich in
 
 
 ### § 7 Allgemeine Module
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE000900000)
 
 (1) Die allgemeinen Module sind den folgenden Themenbereichen
 zuzuordnen:
@@ -187,6 +197,7 @@ vergeben.
 
 
 ### § 8 Modul der Vertiefungsrichtung
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001000000)
 
 (1) Die Beamtin oder der Beamte wählt eine Vertiefungsrichtung (§ 5
 Absatz 1 Nummer 2) aus.
@@ -199,6 +210,7 @@ Leistungspunkte vergeben.
 
 
 ### § 9 Modul Masterarbeit
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001100000)
 
 (1) Die Masterarbeit kann berufsbegleitend in der Dienststelle
 angefertigt werden. In diesem Fall werden die Beamtinnen und Beamten
@@ -209,12 +221,14 @@ ihren sonstigen Aufgaben freigestellt.
 
 
 ### § 10 Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001200000)
 
 Für die Modulprüfungen gilt die Prüfungsordnung in der zu Beginn des
 Studiums geltenden Fassung.
 
 
 ### § 11 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001300000)
 
 (1) Wer das Studium erfolgreich abgeschlossen hat, erhält ein
 Abschlusszeugnis.
@@ -237,6 +251,7 @@ Abschlusszeugnis.
 
 
 ### § 12 Leitung, Planung und Durchführung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001400000)
 
 (1) Für die wissenschaftliche und organisatorische Leitung des
 Studiums sind die Universität der Bundeswehr München und die
@@ -271,6 +286,7 @@ Studiums sicher.
 
 
 ### § 13 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001500000)
 
 Die Universität der Bundeswehr München richtet ein Prüfungsamt ein.
 Dieses ist zuständig für
@@ -291,9 +307,11 @@ Dieses ist zuständig für
 
 
 ## Abschnitt 3 - Berufspraktische Einführung
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000300000)
 
 
 ### § 14 Zeitpunkt, Dauer und Ziel
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001600000)
 
 (1) An den erfolgreichen Abschluss des Masterstudiengangs
 „Intelligence and Security Studies“ schließt sich eine einjährige
@@ -308,6 +326,7 @@ bewähren.
 
 
 ### § 15 Aufgaben und Verwendungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001700000)
 
 (1) In der berufspraktischen Einführung nehmen die Beamtinnen und
 Beamten Aufgaben des höheren nichttechnischen Verwaltungsdienstes
@@ -319,9 +338,11 @@ nicht entgegenstehen.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNG000400000)
 
 
 ### § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/missaufstv/BJNR020200019.html#BJNR020200019BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2016-04-04_1/BJNR075000016.html#BJNR075000016BJNE000100000)
 
 Auf Initiative der Europäischen Kommission geben die Mitgliedstaaten
 der Euro-Zone im zweiten Halbjahr 2015 zur Würdigung des 30-jährigen
@@ -53,11 +54,13 @@ Spiegelglanz für Sammlerzwecke produziert.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2016-04-04_1/BJNR075000016.html#BJNR075000016BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2016-04-04_1/BJNR075000016.html#BJNR075000016BJNE000300000)
 
 (Fundstelle: BGBl. I 2016, 750)
 

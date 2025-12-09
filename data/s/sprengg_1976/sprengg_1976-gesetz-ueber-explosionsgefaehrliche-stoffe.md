@@ -31,10 +31,12 @@ und Nr. L 383A S. 1 (S. 87) unmittelbar für anwendbar erklärt.
 
 
 ## Abschnitt I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000101377)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001108118)
 
 (1) Dieses Gesetz regelt den Umgang und den Verkehr mit sowie die
 Einfuhr und die Durchfuhr von
@@ -90,6 +92,7 @@ bei den in Absatz 1 bezeichneten Tätigkeiten
 
 
 ### § 1a Ausnahmen für Behörden und sonstige Einrichtungen des Bundes und der Länder und für deren Bedienstete sowie für Bedienstete anderer Staaten; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008500118)
 
 (1) Dieses Gesetz ist, soweit nicht durch dieses Gesetz oder auf Grund
 dieses Gesetzes ausdrücklich etwas anderes bestimmt ist, nicht
@@ -222,6 +225,7 @@ andere Landesbehörden übertragen.
 
 
 ### § 1b Ausnahmen für den Umgang und den Verkehr mit sowie für die Einfuhr, für die Durchfuhr und für die Beförderung von explosionsgefährlichen Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008600118)
 
 (1) Dieses Gesetz gilt nicht für
 
@@ -412,6 +416,7 @@ Erfüllung ihrer öffentlichen Aufgaben erforderlich sind, nicht für
 
 
 ### § 2 Anwendung auf neue sonstige explosionsgefährliche Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001207128)
 
 (1) Wer einen in einer Liste nach Absatz 6 nicht aufgeführten Stoff,
 bei dem die Annahme begründet ist, dass er explosionsgefährlich ist
@@ -505,6 +510,7 @@ Anlage II zuzuordnen sind.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001305118)
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -809,6 +815,7 @@ Anlage II zuzuordnen sind.
 
 
 ### § 3a Kategorien von pyrotechnischen Gegenständen und pyrotechnischen Sätzen; Klassen von Wettersprengstoffen und Wettersprengschnüren
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE011000118)
 
 (1) Pyrotechnische Gegenstände werden nach dem Grad der von ihnen
 ausgehenden Gefährdung und ihrem Verwendungszweck in folgende
@@ -910,6 +917,7 @@ c)  Klasse III: äußerst geringe Gefahr der Zündung eines zündfähigen
 
 
 ### § 4 Verordnungsermächtigung, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001405128)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung
@@ -961,6 +969,7 @@ durch Rechtsverordnung
 
 
 ### § 5 Konformitätsnachweis und CE-Kennzeichnung für Explosivstoffe und pyrotechnische Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001505118)
 
 (1) Explosivstoffe und pyrotechnische Gegenstände dürfen nur auf dem
 Markt bereitgestellt werden, wenn
@@ -1030,6 +1039,7 @@ pyrotechnische Gegenstände
 
 
 ### § 5a Ausnahmen vom Erfordernis des Konformitätsnachweises und der CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006605118)
 
 (1) § 5 Absatz 1 und 1a ist nicht anzuwenden auf
 
@@ -1175,6 +1185,7 @@ Immissionsschutzgesetzes bearbeitet oder verarbeitet werden sollen.
 
 
 ### § 5b Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände vor dem Inverkehrbringen; Baumusterprüfung; Einzelprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008700118)
 
 (1) Explosivstoffe und pyrotechnische Gegenstände sind vor dem
 Inverkehrbringen auf Antrag des Herstellers von einer benannten Stelle
@@ -1212,6 +1223,7 @@ Baumusterprüfbescheinigung gilt § 34 Absatz 1, 2 und 4 entsprechend.
 
 
 ### § 5c Konformitätsbewertung für Explosivstoffe und pyrotechnische Gegenstände in der Serienfertigung; Qualitätssicherungsverfahren; CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008800118)
 
 (1) Die Übereinstimmung der nach einem Baumuster gefertigten
 Explosivstoffe oder pyrotechnischen Gegenstände mit dem Baumuster ist
@@ -1265,6 +1277,7 @@ nach § 6 Absatz 1.
 
 
 ### § 5d Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008900118)
 
 Der Hersteller und der Bevollmächtigte haben die folgenden Unterlagen
 zehn Jahre lang nach der letzten Herstellung des Produkts
@@ -1292,6 +1305,7 @@ jederzeit vorzulegen:
 
 
 ### § 5e Benannte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009001128)
 
 (1) Die Baumusterprüfung, die Einzelprüfung und die Überwachung des
 Qualitätssicherungsverfahrens werden von einer benannten Stelle
@@ -1380,6 +1394,7 @@ Maßnahmen nach Satz 1 zu dulden.
 
 
 ### § 5f Zulassung von sonstigen explosionsgefährlichen Stoffen und Sprengzubehör
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009100118)
 
 (1) Sonstige explosionsgefährliche Stoffe dürfen nur eingeführt,
 verbracht, vertrieben, anderen überlassen oder verwendet werden, wenn
@@ -1443,6 +1458,7 @@ vom Verwender zu beachten.
 
 
 ### § 5g Ausnahmen vom Zulassungserfordernis für sonstige explosionsgefährliche Stoffe und Sprengzubehör
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009200118)
 
 (1) Eine Zulassung nach § 5f Absatz 1 ist nicht erforderlich für
 sonstige explosionsgefährliche Stoffe, die
@@ -1593,6 +1609,7 @@ Gesundheit Beschäftigter oder Dritter erforderlich ist.
 
 
 ### § 6 Ermächtigungen, Sachverständigenausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001609128)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung
@@ -1748,10 +1765,12 @@ ermittelten Regeln und Erkenntnisse im Bundesanzeiger bekannt geben.
 
 
 ## Abschnitt II - Umgang und Verkehr im gewerblichen Bereich; Einfuhr, Durchfuhr und Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000202377)
 
 
 
 ### § 7 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001702377)
 
 (1) Wer gewerbsmäßig, selbständig im Rahmen einer wirtschaftlichen
 Unternehmung oder eines land- oder forstwirtschaftlichen Betriebes
@@ -1775,6 +1794,7 @@ Munition herzustellen.
 
 
 ### § 8 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001804377)
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -1840,6 +1860,7 @@ machen.
 
 
 ### § 8a Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE007704123)
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen nicht,
 
@@ -2044,6 +2065,7 @@ und 5 gespeicherten Daten unverzüglich zu löschen.
 
 
 ### § 8b Persönliche Eignung, Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE007800377)
 
 (1) Die erforderliche persönliche Eignung besitzen Personen nicht,
 wenn Tatsachen die Annahme rechtfertigen, dass sie
@@ -2083,6 +2105,7 @@ schließen darf.
 
 
 ### § 8c Pflichten des Gutachters
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE007900377)
 
 (1) Zwischen dem Gutachter und der betroffenen Person darf in den
 letzten fünf Jahren kein Behandlungsverhältnis bestanden haben oder im
@@ -2098,6 +2121,7 @@ geeignet ist, mit explosionsgefährlichen Stoffen umzugehen.
 
 
 ### § 9 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE001904128)
 
 (1) Den Nachweis der Fachkunde hat erbracht,
 
@@ -2155,6 +2179,7 @@ ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über
 
 
 ### § 10 Inhalt der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002002377)
 
 Die Erlaubnis kann inhaltlich beschränkt, befristet und mit Auflagen
 verbunden werden, soweit dies erforderlich ist, um Leben, Gesundheit
@@ -2165,6 +2190,7 @@ Auflagen ist zulässig.
 
 
 ### § 11 Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002101377)
 
 Die Erlaubnis erlischt, wenn der Erlaubnisinhaber die Tätigkeit nicht
 innerhalb eines Jahres nach Erteilung der Erlaubnis begonnen oder zwei
@@ -2173,6 +2199,7 @@ Behörde aus besonderen Gründen verlängert werden.
 
 
 ### § 12 Fortführung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002205118)
 
 (1) Nach dem Tode des Erlaubnisinhabers dürfen der Ehegatte, die
 Ehegattin, der Lebenspartner, die Lebenspartnerin oder der
@@ -2191,6 +2218,7 @@ dieser Person Versagungsgründe nach § 8 Abs. 2 Nr. 1 vorliegen.
 
 
 ### § 13 Befreiung von der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002304128)
 
 (1) Einer Erlaubnis nach § 7 Abs. 1 bedarf nicht, wer den Umgang und
 den Verkehr mit explosionsgefährlichen Stoffen betreibt, soweit
@@ -2225,6 +2253,7 @@ nach Absatz 2 abzusehen, wenn
 
 
 ### § 14 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002402377)
 
 Der Inhaber einer Erlaubnis und der Inhaber eines Betriebes, der auf
 Grund einer nach § 4 erlassenen Rechtsverordnung ohne Erlaubnis mit
@@ -2245,6 +2274,7 @@ zuständigen Behörde anzuzeigen.
 
 
 ### § 15 Einfuhr, Durchfuhr und Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002510128)
 
 (1) Wer explosionsgefährliche Stoffe einführen, durchführen oder
 verbringen oder durch einen anderen einführen, durchführen oder
@@ -2317,6 +2347,7 @@ allgemein.
 
 
 ### § 15a Verfahren der Genehmigung des Verbringens von Explosivstoffen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010500118)
 
 [^F797933_03_BJNR027370976BJNE010500118]
 (1) Der Antrag auf Genehmigung des Verbringens von Explosivstoffen
@@ -2366,6 +2397,7 @@ Verbringensvorgangs, zu verwahren.
 [^F797933_03_BJNR027370976BJNE010500118]: 
 
 ### § 16 Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002604128)
 
 (1) Der Inhaber einer Erlaubnis nach § 7 Abs. 1 hat in jedem Betrieb
 oder Betriebsteil ein Verzeichnis zu führen, aus dem die Art und Menge
@@ -2413,6 +2445,7 @@ Unterlagen und Belegen zu erlassen.
 
 
 ### § 16a Kennzeichnung von Explosivstoffen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009300118)
 
 (1) Der Inhaber einer Erlaubnis zum Umgang oder zum Verkehr mit
 Explosivstoffen nach § 7 Absatz 1 muss diese unter Berücksichtigung
@@ -2455,6 +2488,7 @@ werden kann. Näheres regelt eine Rechtsverordnung nach § 6 Absatz 1.
 
 
 ### § 16b Pflichten des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009400118)
 
 (1) Der Hersteller darf nur
 
@@ -2496,6 +2530,7 @@ Gegenstände.
 
 
 ### § 16c Kennzeichnungspflicht des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen; Gebrauchsanleitung; Registrierungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009500118)
 
 (1) Der Hersteller muss auf den Explosivstoffen und auf den
 pyrotechnischen Gegenständen, die er in Verkehr bringt, und auf der
@@ -2574,6 +2609,7 @@ Gegenstände.
 
 
 ### § 16d Bevollmächtigung durch den Hersteller von Explosivstoffen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009600118)
 
 (1) Der Hersteller von Explosivstoffen kann schriftlich einen
 Bevollmächtigten benennen.
@@ -2602,6 +2638,7 @@ dürfen nicht Gegenstand der Vollmacht sein.
 
 
 ### § 16e Maßnahmen des Herstellers von Explosivstoffen und pyrotechnischen Gegenständen bei Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009700118)
 
 Hat der Hersteller berechtigten Grund zu der Annahme, dass ein von ihm
 in Verkehr gebrachter Explosivstoff oder pyrotechnischer Gegenstand
@@ -2618,6 +2655,7 @@ Nichtkonformität und die bereits ergriffenen Maßnahmen.
 
 
 ### § 16f Pflichten des Einführers von Explosivstoffen und pyrotechnischen Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009800118)
 
 (1) Der Einführer darf nur Explosivstoffe und pyrotechnische
 Gegenstände in Verkehr bringen, die die durch dieses Gesetz oder auf
@@ -2662,6 +2700,7 @@ Gegenstände.
 
 
 ### § 16g Kennzeichnungspflicht des Einführers; Registrierungsnummer; Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE009900118)
 
 (1) Der Einführer muss die folgenden Angaben auf dem Explosivstoff
 oder dem pyrotechnischen Gegenstand und auf der Verpackung anbringen:
@@ -2700,6 +2739,7 @@ Gegenstände.
 
 
 ### § 16h Weitere Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010000118)
 
 (1) Solange der Einführer einen Explosivstoff oder einen
 pyrotechnischen Gegenstand aufbewahrt oder verbringt oder aufbewahren
@@ -2729,6 +2769,7 @@ Gegenstände.
 
 
 ### § 16i Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010100118)
 
 (1) Solange der Händler einen Explosivstoff oder einen pyrotechnischen
 Gegenstand aufbewahrt oder verbringt oder aufbewahren oder verbringen
@@ -2777,6 +2818,7 @@ Gegenstände.
 
 
 ### § 16j Herstellerpflichten der Einführer und Händler
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010200118)
 
 Einführer oder Händler haben die Pflichten eines Herstellers, wenn sie
 
@@ -2795,6 +2837,7 @@ Einführer oder Händler haben die Pflichten eines Herstellers, wenn sie
 
 
 ### § 16k Pflichten der Wirtschaftsakteure gegenüber der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010300118)
 
 (1) Der Hersteller, der Bevollmächtigte nach § 16d und der Einführer
 haben der zuständigen Behörde auf Anforderung alle Informationen und
@@ -2862,6 +2905,7 @@ entsprechende Anwendung.
 
 
 ### § 16l Identifizierung und Angaben der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010400118)
 
 (1) Jeder Wirtschaftsakteur muss den zuständigen Behörden auf
 Aufforderung diejenigen Wirtschaftsakteure nennen,
@@ -2886,10 +2930,12 @@ der Wirtschaftsakteur die Informationen der zuständigen Behörde zu
 
 
 ## Abschnitt III - Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000301377)
 
 
 
 ### § 17 Lagergenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002702377)
 
 (1) Der Genehmigung bedürfen
 
@@ -2954,6 +3000,7 @@ Genehmigung instand gesetzt wird.
 
 
 ### § 18 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002801377)
 
 Durch Rechtsverordnung nach § 25 kann bestimmt werden,
 
@@ -2987,10 +3034,12 @@ Durch Rechtsverordnung nach § 25 kann bestimmt werden,
 
 
 ## Abschnitt IV - Verantwortliche Personen und ihre Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000401377)
 
 
 
 ### § 19 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE002904377)
 
 (1) Verantwortliche Personen im Sinne der Abschnitte IV, V und VI sind
 
@@ -3040,6 +3089,7 @@ die tatsächliche Gewalt über die explosionsgefährlichen Stoffe ausübt.
 
 
 ### § 20 Befähigungsschein
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003001377)
 
 (1) Die in § 19 Abs. 1 Nr. 3 und 4 Buchstabe a bezeichneten
 verantwortlichen Personen dürfen ihre Tätigkeit nur ausüben, wenn sie
@@ -3062,6 +3112,7 @@ bezeichneten Personen erlassen werden.
 
 
 ### § 21 Bestellung verantwortlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003104377)
 
 (1) Verantwortliche Personen sind in der Anzahl zu bestellen, die nach
 dem Umfang des Betriebes und der Art der Tätigkeit für einen sicheren
@@ -3101,6 +3152,7 @@ dieser Personen ist unverzüglich der zuständigen Behörde anzuzeigen.
 
 
 ### § 22 Vertrieb und Überlassen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003205128)
 
 (1) Explosionsgefährliche Stoffe dürfen nur von verantwortlichen
 Personen vertrieben oder an andere überlassen werden. Die
@@ -3187,6 +3239,7 @@ sowie sonstige öffentliche Interessen nicht entgegenstehen.
 
 
 ### § 23 Mitführen von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003302377)
 
 Außerhalb des eigenen Betriebes haben die verantwortlichen Personen
 nach § 19 Abs. 1 Nr. 1 bei dem Umgang und dem Verkehr mit
@@ -3202,6 +3255,7 @@ Niederlassung hat.
 
 
 ### § 24 Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003405118)
 
 (1) Die verantwortlichen Personen haben bei dem Umgang und dem Verkehr
 mit explosionsgefährlichen Stoffen Beschäftigte und Dritte vor
@@ -3252,6 +3306,7 @@ bezeichneten Rechtsgüter insbesondere
 
 
 ### § 25 Ermächtigung zum Erlass von Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003504377)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung zum Schutze von Leben, Gesundheit und Sachgütern
@@ -3294,6 +3349,7 @@ explosionsgefährlichen Stoffen und mit Sprengzubehör zu bestimmen,
 
 
 ### § 26 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003602377)
 
 (1) Die verantwortlichen Personen haben das Abhandenkommen von
 explosionsgefährlichen Stoffen der zuständigen Behörde unverzüglich
@@ -3308,10 +3364,12 @@ anderer Rechtsvorschriften anzuzeigen ist.
 
 
 ## Abschnitt V - Umgang und Verkehr im nicht gewerblichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000502377)
 
 
 
 ### § 27 Erlaubnis zum Erwerb und zum Umgang
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003703377)
 
 (1) Wer in anderen als den in § 7 Abs. 1 bezeichneten Fällen
 
@@ -3377,6 +3435,7 @@ Rettungsübungen.
 
 
 ### § 28 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003803118)
 
 Für den Umgang und den Verkehr mit explosionsgefährlichen Stoffen in
 anderen als den in § 7 Abs. 1 bezeichneten Fällen gelten die §§ 13, 15
@@ -3387,6 +3446,7 @@ vorgeschriebene Anzeige nur der zuständigen Behörde zu erstatten ist.
 
 
 ### § 29 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE003903128)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates für den Umgang
@@ -3438,20 +3498,24 @@ in § 7 Abs. 1 bezeichneten Fällen
 
 
 ## Abschnitt VI - Überwachung des Umgangs und des Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000602377)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG001100118)
 
 
 
 #### § 30 Allgemeine Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004002377)
 
 Der Umgang und der Verkehr mit explosionsgefährlichen Stoffen
 unterliegen der Überwachung durch die zuständige Behörde.
 
 
 #### § 31 Auskunft, Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004102377)
 
 (1) Der Inhaber eines Betriebes, der mit explosionsgefährlichen
 Stoffen umgeht oder den Verkehr mit ihnen betreibt und die mit der
@@ -3489,6 +3553,7 @@ Stoffen betreiben.
 
 
 #### § 32 Anordnungen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004205377)
 
 (1) Die zuständige Behörde kann im Einzelfall anordnen, welche
 Maßnahmen zur Durchführung des § 24 und der auf Grund des § 25 oder §
@@ -3540,10 +3605,12 @@ sichergestellt werden.
 
 
 #### § 32a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE007605118)
 
 
 
 #### § 33 Beschäftigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004303377)
 
 (1) Beschäftigt der Erlaubnisinhaber als verantwortliche Person
 entgegen § 21 Abs. 2 eine Person, die nicht im Besitz eines
@@ -3567,14 +3634,17 @@ Befähigungsschein ausüben darf.
 
 
 ### Unterabschnitt 2 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG001200118)
 
 
 
 #### § 33a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010601119)
 
 
 
 #### § 33b Maßnahmen bei mangelhaften explosionsgefährlichen Stoffen und mangelhaftem Sprengzubehör
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010701119)
 
 (1) Besteht der begründete Verdacht, dass bei bestimmungsgemäßer
 Verwendung eines nach § 5 konformitätsbewerteten oder eines nach § 5f
@@ -3631,6 +3701,7 @@ worden ist, sind die Absätze 2 und 3 entsprechend anzuwenden.
 
 
 #### § 33c Maßnahmen bei Information durch andere Mitgliedstaaten der Europäischen Union über Explosivstoffe oder pyrotechnische Gegenstände; Aufhebung oder Änderung getroffener Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010802119)
 
 (1) Wird die zuständige Behörde von Behörden anderer Mitgliedstaaten
 der Europäischen Union über deren Maßnahmen gegen nicht konforme oder
@@ -3654,6 +3725,7 @@ zu ändern.
 
 
 #### § 33d Weitere Maßnahmen im Rahmen der Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE010900118)
 
 (1) Die zuständige Behörde kann gegenüber Wirtschaftsakteuren
 Maßnahmen zur Durchführung der Verordnung (EG) Nr. 765/2008, auch in
@@ -3721,10 +3793,12 @@ zum Ablauf der in § 16l Absatz 2 Satz 1 bezeichneten Frist.
 
 
 ## Abschnitt VII - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000701377)
 
 
 
 ### § 34 Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004404377)
 
 (1) Eine Erlaubnis, eine Zulassung und ein Befähigungsschein nach
 diesem Gesetz sind zurückzunehmen, wenn sie hätten versagt werden
@@ -3779,6 +3853,7 @@ Nichtvorliegens oder Entfallens der Voraussetzungen nach §§ 8, 8a oder
 
 
 ### § 35 Abhandenkommen des Erlaubnisbescheides und des Befähigungsscheines
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004502118)
 
 (1) Der Erlaubnis- und der Befähigungsscheininhaber haben der
 zuständigen Behörde den Verlust des Erlaubnisbescheides oder des
@@ -3792,6 +3867,7 @@ gemacht.
 
 
 ### § 36 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004607119)
 
 (1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung
 bestimmten Stellen können durch Rechtsverordnung die für die
@@ -3860,15 +3936,18 @@ der Verwaltungsverfahrensgesetze abgewickelt werden.
 
 
 ### § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004708301)
 
 
 
 ### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004806377)
 
 -
 
 
 ### § 39 Beteiligung beim Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE004910128)
 
 (1) Rechtsverordnungen nach den §§ 4 und 6, nach § 9 Abs. 3, § 16 Abs.
 3 und § 22 Absatz 6 ergehen im Einvernehmen mit dem Bundesministerium
@@ -3893,6 +3972,7 @@ Energie.
 
 
 ### § 39a Datenübermittlung an und von Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008000377)
 
 (1) Die für die Erteilung einer sprengstoffrechtlichen Erlaubnis
 zuständige Behörde teilt der für den Antragsteller/die Antragstellerin
@@ -3912,10 +3992,12 @@ Vorliegen einer sprengstoffrechtlichen Erlaubnis gespeichert ist.
 
 
 ## Abschnitt VIII - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000801377)
 
 
 
 ### § 40 Strafbarer Umgang und Verkehr sowie strafbare Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005006118)
 
 (1) Wer ohne die erforderliche Erlaubnis
 
@@ -3993,6 +4075,7 @@ Absatz 1 Nummer 1 Buchstabe d.
 
 
 ### § 41 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005108128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4161,6 +4244,7 @@ Mobilität.
 
 
 ### § 42 Strafbare Verletzung von Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005205118)
 
 Wer durch eine in § 41 Absatz 1 Nummer 1a, 1c, 1d, 2, 2a, 3 oder
 Nummer 15 oder eine in § 41 Absatz 1a bezeichnete vorsätzliche
@@ -4170,6 +4254,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 43 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005301377)
 
 Ist eine Straftat nach § 40 oder § 42 oder eine Ordnungswidrigkeit
 nach § 41 begangen worden, so können
@@ -4188,10 +4273,12 @@ eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes
 
 
 ## Abschnitt IX - Bundesanstalt für Materialforschung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG000901377)
 
 
 
 ### § 44 Rechtsstellung der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005410301)
 
 (1) Die Bundesanstalt ist eine bundesunmittelbare, nicht rechtsfähige
 Anstalt des öffentlichen Rechts im Geschäftsbereich des
@@ -4207,6 +4294,7 @@ Bundesanstalt zu erlassen.
 
 
 ### § 45 Aufgaben der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005503377)
 
 Die Bundesanstalt ist zuständig für
 
@@ -4232,10 +4320,12 @@ Die Bundesanstalt ist zuständig für
 
 
 ## Abschnitt X - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNG001001377)
 
 
 
 ### § 46 Fortgeltung erteilter Erlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005601377)
 
 Erlaubnisse und Befähigungsscheine, die nach dem Sprengstoffgesetz vom
 25\. August 1969 (BGBl. I S. 1358) erteilt worden sind, gelten im
@@ -4244,6 +4334,7 @@ dieses Gesetzes.
 
 
 ### § 47 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005705377)
 
 (1) Eine vor Inkrafttreten des Sprengstoffgesetzes vom 25. August 1969
 (BGBl. I S. 1358) erteilte Zulassung zum Vertrieb, zum Überlassen oder
@@ -4289,6 +4380,7 @@ und für die die Durchführung des Qualitätssicherungsverfahrens nach §
 
 
 ### § 47a Übergangsvorschrift zu den §§ 8 bis 8b und 34
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008100377)
 
 (1) § 34 Abs. 2 findet bis zum 31. Dezember 2009 mit der Maßgabe
 Anwendung, dass für den Widerruf vor dem 1. September 2005 erteilter
@@ -4301,10 +4393,12 @@ die Verlängerung von Erlaubnissen oder Befähigungsscheinen.
 
 
 ### § 47b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008304301)
 
 
 
 ### § 48 Bereits errichtete Sprengstofflager
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005801377)
 
 Lager für explosionsgefährliche Stoffe, die bei Inkrafttreten dieses
 Gesetzes bereits errichtet oder genehmigt waren, bedürfen keiner
@@ -4330,6 +4424,7 @@ Gesetzes entsprechend geändert werden, wenn
 
 
 ### § 49 Anwendbarkeit anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE005903377)
 
 (1) Auf die den Vorschriften dieses Gesetzes unterliegenden
 Gewerbebetriebe ist die Gewerbeordnung insoweit anzuwenden, als nicht
@@ -4341,11 +4436,13 @@ in diesem Gesetz besondere Vorschriften erlassen worden sind.
 
 
 ### § 50 (Änderung anderer Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006001377)
 
 -
 
 
 ### § 51 Nicht mehr anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006101377)
 
 (1) Soweit sie nicht bereits auf Grund des § 39 des
 Sprengstoffgesetzes vom 25. August 1969 außer Kraft getreten sind,
@@ -4367,17 +4464,20 @@ Inkrafttreten der entsprechenden Rechtsverordnungen außer Kraft.
 
 
 ### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006202377)
 
 -
 
 
 ### § 53 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006301377)
 
 -
 
 (zu § 15a Absatz 1 und 3)
 
 ### Anlage I Erforderliche Angaben im Antrag auf Genehmigung des Verbringens von Explosivstoffen nach § 15a Absatz 1 und Angaben in der Genehmigung des Verbringens von Explosivstoffen nach § 15a Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006403118)
 
 (Fundstelle: BGBl I 2017, 1604)
 
@@ -4457,6 +4557,7 @@ Inkrafttreten der entsprechenden Rechtsverordnungen außer Kraft.
 
 
 ### Anlage II
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006502377)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3535)
 
@@ -4754,6 +4855,7 @@ Inkrafttreten der entsprechenden Rechtsverordnungen außer Kraft.
 
 
 ### Anlage III (zu § 3 Absatz 1 Nummer 2 Buchstabe b)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE006804118)
 
 (Fundstelle: BGBl I 2017, 1604 bis 1605)
 
@@ -4940,6 +5042,7 @@ Inkrafttreten der entsprechenden Rechtsverordnungen außer Kraft.
 [^F797933_04_BJNR027370976BJNE006804118]: 
 
 ### Anlage IV Gegenstände, die durch Entscheidung einer benannten Stelle den Explosivstoffen zugeordnet werden können (§ 3 Abs. 1 Satz 2, Anhang II der Richtlinie 2004/57/EG)
+[Direktlink](https://www.gesetze-im-internet.de/sprengg_1976/BJNR027370976.html#BJNR027370976BJNE008202377)
 
 ( Fundstelle: BGBl. I 2005, 1635 )
 

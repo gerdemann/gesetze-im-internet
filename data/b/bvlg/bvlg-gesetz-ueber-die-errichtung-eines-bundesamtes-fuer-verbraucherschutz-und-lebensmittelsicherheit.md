@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Name
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE001402116)
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung und
 Landwirtschaft (Bundesministerium) ist ein "Bundesamt für
@@ -28,6 +29,7 @@ selbständige Bundesoberbehörde errichtet.
 
 
 ## § 2 Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE001514116)
 
 (1) Das Bundesamt wird, unbeschadet der Zuständigkeiten sonstiger
 Einrichtungen des Bundes für Fragen der Gesundheit des Menschen,
@@ -246,6 +248,7 @@ seiner Aufgaben.
 
 
 ## § 3 Aufgabendurchführung
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE001603116)
 
 (1) Das Bundesamt erledigt im Rahmen der ihm durch § 2 Absatz 1
 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes, die dem
@@ -258,6 +261,7 @@ Bundesministerium beauftragt wird.
 
 
 ## § 4 Bekanntmachungen im Bundesanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE001704311)
 
 In Rechtsverordnungen auf Grund des Lebensmittel- und
 Futtermittelgesetzbuches, des Milch- und Margarinegesetzes, des
@@ -284,6 +288,7 @@ Bundesamt übertragen werden.
 
 
 ## § 5 Aufsicht im besonderen Fall
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE001800000)
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als
 dem des Bundesministeriums wahrnimmt, untersteht es den fachlichen
@@ -291,10 +296,12 @@ Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE001905116)
 
 
 
 ## § 7 Übernahme der Beamtinnen und Beamten und Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE002001310)
 
 (1) Die beim Bundesinstitut für gesundheitlichen Verbraucherschutz und
 Veterinärmedizin und der Biologischen Bundesanstalt für Land- und
@@ -325,6 +332,7 @@ wahrgenommen werden.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvlg/BJNR308400002.html#BJNR308400002BJNE002101310)
 
 -
 

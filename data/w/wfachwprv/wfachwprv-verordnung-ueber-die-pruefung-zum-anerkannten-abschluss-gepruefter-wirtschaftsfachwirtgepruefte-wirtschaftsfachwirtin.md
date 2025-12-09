@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
@@ -32,6 +33,7 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Wirtschaftsfachwirt/zur Geprüften Wirtschaftsfachwirtin nach
@@ -68,6 +70,7 @@ Führungsaufgaben wahrnehmen zu können und damit die Befähigung,
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000300000)
 
 (1) Zur Teilprüfung „Wirtschaftsbezogene Qualifikationen“ nach § 3
 Abs. 1 Nr. 1 ist zuzulassen, wer Folgendes nachweist:
@@ -119,6 +122,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000400000)
 
 (1) Die Gesamtprüfung beinhaltet folgende Teilprüfungen:
 
@@ -191,6 +195,7 @@ Absätzen 4 und 5 durchgeführt.
 
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000500000)
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen
 zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre
@@ -323,6 +328,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000600000)
 
 (1) Im Handlungsbereich „Betriebliches Management“ soll die Fähigkeit
 nachgewiesen werden, die Bedeutung betrieblicher Planungsprozesse für
@@ -476,6 +482,7 @@ bilden.
 
 
 ## § 6 Befreiung von der Ablegung einzelner Prüfungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -488,6 +495,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -531,6 +539,7 @@ gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -601,6 +610,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001700128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -627,6 +637,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE000901128)
 
 (1) Jede Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen
@@ -643,6 +654,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 11 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001002128)
 
 (1) Wer die Teilprüfung „Handlungsspezifische Qualifikationen“
 erfolgreich abgeschlossen hat, kann beantragen, eine zusätzliche
@@ -668,6 +680,7 @@ Ausbilder-Eignungsverordnung auszustellen.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001102128)
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Wirtschaftsfachwirt/zur
 Geprüften Wirtschaftsfachwirtin, zum Wirtschaftsfachwirt (IHK)/zur
@@ -684,12 +697,14 @@ Fall keine Anwendung.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001201128)
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001403128)
 
 (Fundstelle: BGBl. I 2019, 2306 – 2307)
 
@@ -991,6 +1006,7 @@ Diese Verordnung tritt am 1. September 2008 in Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/wfachwprv/BJNR175200008.html#BJNR175200008BJNE001503128)
 
 (Fundstelle: BGBl. I 2019, 2307)
 

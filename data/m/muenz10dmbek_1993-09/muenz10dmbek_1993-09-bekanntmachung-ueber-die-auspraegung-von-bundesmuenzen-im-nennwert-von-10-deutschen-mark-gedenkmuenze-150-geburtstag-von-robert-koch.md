@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1993-09/BJNR008800994.html#BJNR008800994BJNE000100307)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
@@ -89,6 +90,7 @@ Der Entwurf der Münze stammt von Hubert Klinkel, Würzburg.
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1993-09/BJNR008800994.html#BJNR008800994BJNE000200307)
 
 (Fundstelle: BGBl. I 1994, 88)
 ![bgbl1_1994_j0088_0010.jpg](bgbl1_1994_j0088_0010.jpg)

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverbelv/BJNR213700010.html#BJNR213700010BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -31,6 +32,7 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverbelv/BJNR213700010.html#BJNR213700010BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich Belgien zur Vermeidung
@@ -43,6 +45,7 @@ der jeweils geltenden Fassung.
 
 
 ## § 2 Abfindungen an Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/konsverbelv/BJNR213700010.html#BJNR213700010BJNE000301140)
 
 (1) Die einheitliche Anwendung und Auslegung des Abkommens in Bezug
 auf die Zuordnung des Besteuerungsrechts bei Abfindungen an
@@ -79,17 +82,20 @@ Artikel 19 des Abkommens genannten Einkünfte nicht anzuwenden.
 
 
 ## § 3 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverbelv/BJNR213700010.html#BJNR213700010BJNE000400000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverbelv/BJNR213700010.html#BJNR213700010BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverbelv/BJNR213700010.html#BJNR213700010BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

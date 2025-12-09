@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bregsitzbek/BJNR172500999.html#BJNR172500999BJNE000100305)
 
 Nachstehend mache ich gemäß § 9 Nr. 2 des Berlin/Bonn-Gesetzes die
 Sitzentscheidung der Bundesregierung vom 21. Juli 1999 bekannt:

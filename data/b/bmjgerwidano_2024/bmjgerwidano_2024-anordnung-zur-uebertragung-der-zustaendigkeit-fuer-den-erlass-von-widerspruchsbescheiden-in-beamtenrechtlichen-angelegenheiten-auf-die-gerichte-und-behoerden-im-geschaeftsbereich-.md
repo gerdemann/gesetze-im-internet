@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerwidano_2024/BJNR1340A0023.html#BJNR1340A0023BJNE000100000)
 
 Auf Grund von § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) wird
@@ -54,6 +55,7 @@ Staatsanwältinnen und Staatsanwälte.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerwidano_2024/BJNR1340A0023.html#BJNR1340A0023BJNE000200000)
 
 Das Bundesministerium der Justiz behält sich vor, die Entscheidung im
 Einzelfall an sich zu ziehen. Fälle von grundsätzlicher Bedeutung sind
@@ -63,6 +65,7 @@ Erlass des Widerspruchsbescheids über den Vorgang zu informieren.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerwidano_2024/BJNR1340A0023.html#BJNR1340A0023BJNE000300000)
 
 Diese Anordnung tritt am 1. Januar 2024 in Kraft. Gleichzeitig tritt
 die Anordnung zur Übertragung der Zuständigkeit für den Erlass von
@@ -73,6 +76,7 @@ Kraft. Andere Anordnungen bleiben unberührt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerwidano_2024/BJNR1340A0023.html#BJNR1340A0023BJNE000400000)
 
 Der Bundesminister der Justiz
 

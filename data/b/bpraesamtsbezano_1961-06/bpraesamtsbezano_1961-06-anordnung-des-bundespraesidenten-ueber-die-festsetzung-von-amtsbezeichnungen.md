@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_samtsbezano_1961-06/BJNR007340961.html#BJNR007340961BJNE000100303)
 
 Gemäß § 2 des Bundespolizeibeamtengesetzes vom 19. Juli 1960
 (Bundesgesetzbl. I S. 569) in Verbindung mit § 81 Abs. 1 des

@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## § 1 Mitteilungen nach §§ 55 und 56 des Tierarzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/abamverwv/BJNR0030B0023.html#BJNR0030B0023BJNE000100000)
 
 Für die elektronische Mitteilung ist die von der zuständigen Behörde
 zur Verfügung gestellte digitale Datei zu verwenden.
 
 
 ## § 2 Ausnahmen von den Anforderungen nach § 55 des Tierarzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/abamverwv/BJNR0030B0023.html#BJNR0030B0023BJNE000200000)
 
 Die Mitteilungspflichten nach § 55 des Tierarzneimittelgesetzes gelten
 in Bezug auf die jeweilige Nutzungsart nicht für Tierhaltungsbetriebe,
@@ -72,6 +74,7 @@ Zeitpunkt, an dem das jeweilige Tier vom Muttertier abgesetzt wird.
 
 
 ## § 3 Ermittlung der bundesweiten Kennzahlen
+[Direktlink](https://www.gesetze-im-internet.de/abamverwv/BJNR0030B0023.html#BJNR0030B0023BJNE000300000)
 
 Die bundesweiten jährlichen Kennzahlen nach § 57 Absatz 6 Satz 1 des
 Tierarzneimittelgesetzes sind vom Bundesamt für Verbraucherschutz und
@@ -80,6 +83,7 @@ Anforderungen und Einzelheiten zu berechnen.
 
 
 ## § 4 Vorschriften zum Plan
+[Direktlink](https://www.gesetze-im-internet.de/abamverwv/BJNR0030B0023.html#BJNR0030B0023BJNE000400000)
 
 (1) Der Plan nach § 58 Absatz 2 Satz 1 Nummer 2 des
 Tierarzneimittelgesetzes hat mindestens folgende Angaben zu enthalten:
@@ -142,6 +146,7 @@ zu übermitteln.
 (zu § 3)
 
 ## Anlage Ermittlung der Kennzahlen
+[Direktlink](https://www.gesetze-im-internet.de/abamverwv/BJNR0030B0023.html#BJNR0030B0023BJNE000500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 3, S. 3)
 

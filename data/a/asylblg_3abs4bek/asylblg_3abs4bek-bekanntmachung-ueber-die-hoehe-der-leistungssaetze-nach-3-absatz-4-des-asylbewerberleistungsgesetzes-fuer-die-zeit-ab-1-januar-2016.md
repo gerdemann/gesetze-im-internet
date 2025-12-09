@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/asylblg_3abs4bek/BJNR179300015.html#BJNR179300015BJNE000100000)
 
 Nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes, der zuletzt durch
 Artikel 2 Nummer 3 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722)
@@ -96,6 +97,7 @@ geändert worden ist, wird hiermit Folgendes bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/asylblg_3abs4bek/BJNR179300015.html#BJNR179300015BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

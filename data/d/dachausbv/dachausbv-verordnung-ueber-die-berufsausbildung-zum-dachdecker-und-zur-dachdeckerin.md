@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
@@ -33,9 +34,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000300000)
 
 Der Ausbildungsberuf des Dachdeckers und der Dachdeckerin wird nach §
 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A
@@ -43,11 +46,13 @@ Nummer 4 „Dachdecker“ der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -65,6 +70,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -208,6 +214,7 @@ ergibt sich aus den Abschnitten B bis F der Anlage.
 
 
 ### § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000700000)
 
 (1) Die Berufsausbildung in überbetrieblichen Ausbildungsstätten ist
 entsprechend dem Abschnitt A Spalte 2 und 3 des Ausbildungsrahmenplans
@@ -288,6 +295,7 @@ Ausbildung im Ausbildungsbetrieb vermittelt werden können.
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000800000)
 
 Die Ausbildenden haben für die Auszubildenden spätestens zu Beginn der
 Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden
@@ -296,6 +304,7 @@ erstellen.
 
 
 ### § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE000900000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -306,9 +315,11 @@ regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNG000200000)
 
 
 ### § 8 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -318,6 +329,7 @@ Ausbildungsjahres stattfinden.
 
 
 ### § 9 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001100000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -334,6 +346,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 10 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001200000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -347,6 +360,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 11 Prüfungsbereich Decken, Abdichten und Bekleiden von Dach- und Wandflächen
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001300000)
 
 (1) Im Prüfungsbereich Decken, Abdichten und Bekleiden von Dach- und
 Wandflächen soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -377,6 +391,7 @@ Wandflächen soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 12 Prüfungsbereich Dach- und Wandtechnik
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001400000)
 
 (1) Im Prüfungsbereich Dach- und Wandtechnik soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -402,9 +417,11 @@ nachweisen, dass er in der Lage ist,
 
 
 ## Abschnitt 3 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNG000300000)
 
 
 ### § 13 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001500000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -414,6 +431,7 @@ werden.
 
 
 ### § 14 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001600000)
 
 Die Gesellenprüfung erstreckt sich auf
 
@@ -430,6 +448,7 @@ Die Gesellenprüfung erstreckt sich auf
 
 
 ### § 15 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001700000)
 
 Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -449,6 +468,7 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 16 Prüfungsbereich Dach-, Wand- und Abdichtungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001800000)
 
 (1) Im Prüfungsbereich Dach-, Wand- und Abdichtungstechnik soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -489,6 +509,7 @@ Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 17 Prüfungsbereich Dachdeckungen und Außenwandbekleidungen
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE001900000)
 
 (1) Im Prüfungsbereich Dachdeckungen und Außenwandbekleidungen soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -527,6 +548,7 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 18 Prüfungsbereich Abdichtungen
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE002000000)
 
 (1) Im Prüfungsbereich Abdichtungen soll der Prüfling nachweisen, dass
 er in der Lage ist,
@@ -570,6 +592,7 @@ er in der Lage ist,
 
 
 ### § 19 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE002100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -583,6 +606,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE002200000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -661,9 +685,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNG000400000)
 
 
 ### § 21 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE002300000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -672,6 +698,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE002400000)
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Dachdecker/zur
@@ -680,6 +707,7 @@ Dachdeckerin vom 13. Mai 1998 (BGBl. I S. 918) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Dachdecker und zur Dachdeckerin
+[Direktlink](https://www.gesetze-im-internet.de/dachausbv/BJNR099400016.html#BJNR099400016BJNE002500000)
 
 (Fundstelle: BGBl. I 2016, 999 - 1011)
 

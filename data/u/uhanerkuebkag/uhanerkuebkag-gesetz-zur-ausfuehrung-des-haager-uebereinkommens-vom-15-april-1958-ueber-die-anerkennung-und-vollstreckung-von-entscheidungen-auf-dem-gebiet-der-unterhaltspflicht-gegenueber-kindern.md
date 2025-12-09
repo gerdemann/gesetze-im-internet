@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung ausländischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE000600306)
 
 (1) Für die Vollstreckbarerklärung von Entscheidungen, die über
 Unterhaltsansprüche von Kindern in einem der Vertragsstaaten des
@@ -41,6 +43,7 @@ die Zwangsvollstreckung durchgeführt werden soll.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE000702310)
 
 (1) Für die Vollstreckbarerklärung der in § 1 Abs. 1 genannten
 Entscheidungen gelten § 1063 Abs. 1 und § 1064 Abs. 2 der
@@ -62,6 +65,7 @@ gelten entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE000800306)
 
 Hängt die Vollstreckung nach dem Inhalt der Entscheidung von einer dem
 Gläubiger obliegenden Sicherheitsleistung, dem Ablauf einer Frist oder
@@ -75,6 +79,7 @@ erbracht werden, so ist mündliche Verhandlung anzuordnen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE000901307)
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer Entscheidung
 kann der Schuldner auch Einwendungen gegen den Anspruch selbst
@@ -99,6 +104,7 @@ entstanden sind.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001000306)
 
 (1) Ist die Entscheidung, deren Vollstreckbarerklärung beantragt wird,
 nach dem Recht des Staates, in dem sie ergangen ist, noch nicht
@@ -125,6 +131,7 @@ auszusetzen,
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001100306)
 
 Aus den für vollstreckbar erklärten Entscheidungen (§ 1 Abs. 1) findet
 die Zwangsvollstreckung statt, sofern die Entscheidung über die
@@ -133,10 +140,12 @@ erklärt ist.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNG000200306)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001201310)
 
 (1) Wird eine der in § 1 Abs. 1 bezeichneten Entscheidungen in dem
 Staat, in dem sie ergangen ist, nach der Vollstreckbarerklärung
@@ -161,10 +170,12 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNG000300306)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001300306)
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil, durch
 das über einen Unterhaltsanspruch von Kindern (Artikel 1 des
@@ -174,6 +185,7 @@ gemacht werden soll, so darf das Urteil nicht in abgekürzter Form (§
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001400306)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das über
 einen Unterhaltsanspruch von Kindern ergangen und nach § 313b der
@@ -200,6 +212,7 @@ nicht erhoben.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001500306)
 
 Einer einstweiligen Anordnung oder einer einstweiligen Verfügung,
 durch die über einen Unterhaltsanspruch von Kindern entschieden wird
@@ -208,6 +221,7 @@ eine Begründung beizufügen. § 9 ist entsprechend anzuwenden.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001600306)
 
 Vollstreckungsbescheide und einstweilige Verfügungen, die über einen
 Unterhaltsanspruch von Kindern erlassen sind und auf Grund deren ein
@@ -219,19 +233,23 @@ wäre.
 
 
 ## Vierter Abschnitt - Gerichtsstand in Unterhaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNG000400306)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001700306)
 
 -
 
 
 ## Fünfter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNG000500306)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001800306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -239,6 +257,7 @@ im Land Berlin.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/uhanerk_bkag/BJNR010330961.html#BJNR010330961BJNE001900306)
 
 Dieses Gesetz tritt gleichzeitig mit dem Haager Übereinkommen vom 15.
 April 1958 über die Anerkennung und Vollstreckung von Entscheidungen

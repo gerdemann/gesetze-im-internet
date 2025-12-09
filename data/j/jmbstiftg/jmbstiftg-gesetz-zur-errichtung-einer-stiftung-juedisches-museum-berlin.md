@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Name, Sitz und Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000100000)
 
 Unter dem Namen "Stiftung Jüdisches Museum Berlin" wird mit Sitz in
 Berlin eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen
@@ -29,6 +30,7 @@ Gesetzes.
 
 
 ## § 2 Zweck der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000200000)
 
 (1) Zweck der Stiftung ist es, jüdisches Leben in Berlin und in
 Deutschland, die von hier ausgehenden Einflüsse auf das europäische
@@ -81,6 +83,7 @@ Abgabenordnung.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000300000)
 
 (1) Auf die Stiftung gehen mit Inkrafttreten dieses Gesetzes in vollem
 Umfang Eigentum, Besitz, Forderungen und Rechte der bisherigen
@@ -108,6 +111,7 @@ Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000400000)
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer
 Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der
@@ -116,6 +120,7 @@ Bundesbehörde bedarf. Das Gleiche gilt für Änderungen der Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -132,6 +137,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000600000)
 
 (1) Der Stiftungsrat besteht aus sieben, vom Bundespräsidenten für
 eine Amtszeit von fünf Jahren berufenen Mitgliedern:
@@ -192,6 +198,7 @@ Direktorin hat hierzu im Stiftungsrat zu berichten.
 
 
 ## § 7 Verfahren des Stiftungsrates
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000701116)
 
 (1) Der Stiftungsrat entscheidet in der Regel in Sitzungen, die der
 oder die Vorsitzende nach Bedarf, jedoch mindestens zweimal im Jahr
@@ -220,6 +227,7 @@ Drittel der Mitglieder an der Abstimmung beteiligen.
 
 
 ## § 8 Direktor/Direktorin
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000800000)
 
 (1) Der Direktor oder die Direktorin wird vom Stiftungsrat nach
 Anhörung des Beirates berufen. Die Berufung ist nur mit den Stimmen
@@ -234,6 +242,7 @@ Stiftung gerichtlich und außergerichtlich.
 
 
 ## § 9 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE000900000)
 
 (1) Der Beirat hat mindestens fünf und höchstens 15 Mitglieder. Sie
 werden vom Stiftungsrat für fünf Jahre berufen, nachdem dieser
@@ -253,6 +262,7 @@ die Vorsitzende beruft die Beiratssitzungen ein und leitet sie.
 
 
 ## § 10 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001000000)
 
 Die Mitglieder des Stiftungsrates und des Beirates üben ihre Tätigkeit
 unentgeltlich aus. Die Erstattung von Reisekosten und sonstigen
@@ -261,6 +271,7 @@ Bundesverwaltung gelten.
 
 
 ## § 11 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001100000)
 
 Die Stiftung untersteht der Rechtsaufsicht der auf Bundesebene für die
 Kultur zuständigen obersten Bundesbehörde. Für das Haushalts-, Kassen-
@@ -271,6 +282,7 @@ Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
 
 
 ## § 12 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001201310)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 und Arbeitnehmerinnen (Angestellte und Arbeiter) wahrgenommen. Auf
@@ -290,12 +302,14 @@ dem Direktor oder der Direktorin übertragen ist.
 
 
 ## § 13 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001300000)
 
 Die Stiftung legt regelmäßig einen öffentlich zugänglichen Bericht
 über ihre bisherige Tätigkeit und ihre Vorhaben vor.
 
 
 ## § 14 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001400000)
 
 Die Stiftung kann nach näherer Bestimmung der Satzung Gebühren und
 sonstige Entgelte für die Benutzung von Stiftungseinrichtungen und für
@@ -303,11 +317,13 @@ Veranstaltungen erheben.
 
 
 ## § 15 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001500000)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 16 Übernahme von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001600000)
 
 (1) Mit ihrem Entstehen übernimmt die "Stiftung Jüdisches Museum
 Berlin" die Rechte und Pflichten, welche für die zum selben Zeitpunkt
@@ -326,6 +342,7 @@ entsprechende Anwendung.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jmbstiftg/BJNR213800001.html#BJNR213800001BJNE001700000)
 
 Dieses Gesetz tritt am gleichen Tage in Kraft wie dasjenige des Landes
 Berlin, das die bestehende "Stiftung Jüdisches Museum Berlin" auflöst

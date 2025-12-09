@@ -18,27 +18,33 @@ Fundstelle
 
 
 ## Erster Abschnitt - Beendigung der Aufbringung der Investitionshilfe
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNG000100317)
 
 
 
 ### (XXXX) §§ 1 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE000700317)
 
 
 
 ## Zweiter Abschnitt - Ermäßigung der Verzugszuschläge
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNG000200317)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE000800317)
 
 -
 
 
 ## Dritter Abschnitt - Behandlung des eine Milliarde Deutsche Mark übersteigenden Aufkommens aus der Investitionshilfe
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNG000300317)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE000900317)
 
 (1) Soweit die gezahlten Aufbringungsbeträge eine Milliarde Deutsche
 Mark übersteigen, sind sie von dem Sondervermögen (§ 23 Abs. 1 des
@@ -54,6 +60,7 @@ Investitionshilfegesetzes sinngemäß.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE001000317)
 
 Bei den Zinsen aus den nach § 31 des Investitionshilfegesetzes
 auszugebenden und aus den in § 6 Abs. 1 bezeichneten
@@ -72,19 +79,23 @@ des Körperschaftsteuergesetzes in der Fassung vom 13. April 1954
 
 
 ## Vierter Abschnitt - Erlöschen des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNG000400317)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE001100317)
 
 -
 
 
 ## Fünfter Abschnitt - Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNG000500317)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE001200317)
 
 Investitionshilfegesetz im Sinne dieses Gesetzes ist das Gesetz über
 die Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar 1952
@@ -102,10 +113,12 @@ Wirtschaft vom 19. Dezember 1954 (Bundesgesetzbl. I S. 437).
 
 
 ## Sechster Abschnitt - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNG000600317)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/invhsg/BJNR000690955.html#BJNR000690955BJNE001300317)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

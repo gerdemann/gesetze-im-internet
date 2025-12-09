@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1968-10-31/BJNR011060968.html#BJNR011060968BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzbl. S. 323) wird am 11. November 1968 aus
@@ -54,11 +55,13 @@ GESEGNET SEI - WER DIE SCHRIFT ERFAND .".
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1968-10-31/BJNR011060968.html#BJNR011060968BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1968-10-31/BJNR011060968.html#BJNR011060968BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1968, 1106

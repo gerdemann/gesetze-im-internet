@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000205377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
@@ -41,12 +42,14 @@ und über die Erhebung von Abgaben für
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000301377)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte sind die Hauptzollämter.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000408360)
 
 Im Sinne dieser Verordnung sind:
 
@@ -105,6 +108,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 3a Anmeldung des Herstellungsbetriebes
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001803360)
 
 (1) Wer Zucker oder Isoglukose herstellen oder gewinnen will, hat dies
 sechs Wochen vor der Eröffnung des Betriebes dem Hauptzollamt
@@ -133,6 +137,7 @@ vorzulegen.
 
 
 ## § 3b Anzeige über Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001903360)
 
 (1) Der Hersteller hat über jede Änderung der Betriebsverhältnisse,
 die nach § 3a angemeldet sind, innerhalb einer Woche dem Hauptzollamt
@@ -147,10 +152,12 @@ in zwei Stücken abzugeben.
 
 
 ## § 3c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002002377)
 
 
 
 ## § 3d Probenentnahme
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002105377)
 
 Der Hersteller und der Verarbeiter haben dem Hauptzollamt auf
 Verlangen Proben von Erzeugnissen, die in dem Betrieb hergestellt
@@ -160,6 +167,7 @@ eingebracht worden sind, zu Untersuchungszwecken unentgeltlich zu
 
 
 ## § 3e Bestandsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002202377)
 
 (1) Der Hersteller hat mindestens alle zwei Jahre zu einem von ihm
 festgelegten Stichtag die im Herstellungsbetrieb vorhandenen Bestände
@@ -192,6 +200,7 @@ entsprechend.
 
 
 ## § 3f Zulassung von Verarbeitungsbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002305377)
 
 (1) Jeder Verarbeiter hat eine Zulassung für die industrielle
 Verwendung zu beantragen. Zuständig ist das Hauptzollamt, in dessen
@@ -220,6 +229,7 @@ erteilt, wenn sich der Antragsteller in seinem Antrag verpflichtet:
 
 
 ## § 3g Liefervertrag und Lieferschein
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002406301)
 
 Der Hersteller legt dem für ihn zuständigen Hauptzollamt vor der
 ersten Lieferung den Liefervertrag vor. Der Verarbeiter bescheinigt
@@ -233,6 +243,7 @@ Industrierohstoffe bis zum 28. Tag des Folgemonats mit.
 
 
 ## § 4 Anzeigeverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000506377)
 
 (1) Der Zuckerhersteller hat dem zuständigen Hauptzollamt anzuzeigen
 
@@ -283,6 +294,7 @@ mitzuteilen.
 
 
 ## § 5 Werkverträge über die Herstellung von Zucker
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000604377)
 
 (1) Soll im Rahmen eines Werkvertrages hergestellter Zucker der
 Erzeugung des Auftraggebers zugerechnet werden, so ist dies
@@ -315,6 +327,7 @@ werden.
 
 
 ## § 6 Übertragung von Zucker auf das folgende Wirtschaftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000706360)
 
 (1) Die Übertragung von Zucker auf das folgende Wirtschaftsjahr ist
 dem zuständigen Hauptzollamt spätestens am 31. August des laufenden
@@ -334,6 +347,7 @@ folgenden 31. Juli schriftlich anzuzeigen.
 
 
 ## § 7 Muster, Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000802360)
 
 Für Anzeigen nach den §§ 4 und 6 kann der Bundesministerium der
 Finanzen Muster in der Vorschriftensammlung Bundesfinanzverwaltung
@@ -343,6 +357,7 @@ bereitgehalten werden, sind diese zu verwenden.
 
 
 ## § 8 Amtliche Feststellung der Zucker- und Isoglukoseerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE000901377)
 
 (1) Das zuständige Hauptzollamt erteilt zu den durch die in § 1
 genannten Rechtsakte festgelegten Terminen
@@ -365,6 +380,7 @@ die Übertragungsmengen entschieden.
 
 
 ## § 9 Festsetzung der Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001006360)
 
 (1) Das zuständige Hauptzollamt setzt durch schriftlichen Bescheid
 fest:
@@ -394,15 +410,18 @@ nicht gewährt.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001102377)
 
 -
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001202377)
 
 
 
 ## § 12 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001305377)
 
 Hersteller und Verarbeiter unterliegen der Aufsicht nach den §§ 209
 bis 211 und 213 bis 217 der Abgabenordnung sowie nach den auf Grund
@@ -413,6 +432,7 @@ der Aufsicht.
 
 
 ## § 13 Zuckerbuch, Anordnung weiterer Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001404301)
 
 (1) Der Hersteller hat über den Zugang und Abgang an Zucker und
 Isoglukose ein Zuckerbuch zu führen. Zur Erfassung der Zugangs- und
@@ -453,6 +473,7 @@ dem Hersteller ergänzende Pflichten auferlegen.
 
 
 ## § 13a Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002600377)
 
 Zum Zwecke der Überwachung haben der Hersteller und der Verarbeiter
 den Bediensteten der Bundesfinanzverwaltung im Rahmen ihrer
@@ -470,6 +491,7 @@ erstellen, soweit die zuständigen Stellen dies verlangen.
 
 
 ## § 13b Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE002700377)
 
 Die mit der Verordnung vom 17. Dezember 2010 (BGBl. I S. 2295)
 aufgehobenen, ersetzten oder geänderten Vorschriften dieser Verordnung
@@ -480,6 +502,7 @@ Fassung weiter anzuwenden.
 
 
 ## § 14 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv_1983/BJNR002860983.html#BJNR002860983BJNE001602377)
 
 -
 

@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/dkfag/BJNR245200994.html#BJNR245200994BJNE000100320)
 
 -
 
 
 ## § 2 Regelung zur Besitzstandswahrung, Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/dkfag/BJNR245200994.html#BJNR245200994BJNE000204116)
 
 (1) Nach dem Inkrafttreten dieses Gesetzes können Ansprüche nach den
 in § 1 aufgeführten Rechtsvorschriften nicht mehr geltend gemacht

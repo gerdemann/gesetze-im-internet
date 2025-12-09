@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2003/BJNR464100002.html#BJNR464100002BJNE000100000)
 
 Der Beitragssatz für das Jahr 2003 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,5 Prozent und in der
@@ -26,6 +27,7 @@ knappschaftlichen Rentenversicherung 25,9 Prozent.
 
 
 ## § 2 Zahlungen für Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2003/BJNR464100002.html#BJNR464100002BJNE000200000)
 
 Zur pauschalen Abgeltung für die Beitragszahlung für
 Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der

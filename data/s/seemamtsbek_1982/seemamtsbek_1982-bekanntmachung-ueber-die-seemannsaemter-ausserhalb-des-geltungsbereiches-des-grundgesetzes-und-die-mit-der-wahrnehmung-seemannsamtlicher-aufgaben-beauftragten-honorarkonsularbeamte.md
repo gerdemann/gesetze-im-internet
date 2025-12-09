@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/seemamtsbek_1982/BJNR518600982.html#BJNR518600982BJNE000100326)
 
 Nach § 9 Nr. 2 des Seemannsgesetzes vom 26. Juli 1957 (BGBl. II S.
 713) werden
@@ -59,6 +60,7 @@ mit der Wahrnehmung der Aufgaben nach den §§ 15 bis 17, 19 bis 21, 49,
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/seemamtsbek_1982/BJNR518600982.html#BJNR518600982BJNE000200326)
 
 Die Bestimmung von
 
@@ -171,6 +173,7 @@ Honorarkonsuln in
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/seemamtsbek_1982/BJNR518600982.html#BJNR518600982BJNE000300326)
 
 Nachstehend wird eine Liste der zu Seemannsämtern bestimmten
 Auslandsvertretungen und der mit der Wahrnehmung seemannsamtlicher
@@ -1603,6 +1606,7 @@ Deutschland nach dem neuesten Stand veröffentlicht.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/seemamtsbek_1982/BJNR518600982.html#BJNR518600982BJNE000400326)
 
 Diese Bekanntmachung tritt an die Stelle der Bekanntmachungen vom 9.
 Januar 1976 (BGBl. I S. 226), 31. Januar 1977 (BGBl. I S. 285) und 13.
@@ -1610,6 +1614,7 @@ Juni 1978 (BGBl. I S. 971).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/seemamtsbek_1982/BJNR518600982.html#BJNR518600982BJNE000500326)
 
 Der Bundesminister des Auswärtigen
 

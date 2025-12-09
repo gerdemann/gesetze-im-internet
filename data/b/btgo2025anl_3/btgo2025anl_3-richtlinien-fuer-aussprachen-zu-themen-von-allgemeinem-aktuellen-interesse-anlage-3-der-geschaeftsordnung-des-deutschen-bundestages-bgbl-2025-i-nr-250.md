@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX) Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_3/BJNR0FA0E0025.html#BJNR0FA0E0025BJNE000100000)
 
 ## I. Voraussetzungen der Aktuellen Stunde
 

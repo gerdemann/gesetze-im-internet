@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrczeg/BJNR073320001.html#BJNR073320001BJNE000100000)
 
 Dem in Prag am 2. Februar 2000 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Tschechischen Republik über die
@@ -30,6 +31,7 @@ wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrczeg/BJNR073320001.html#BJNR073320001BJNE000200000)
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne von
 Artikel 23 des Vertrags nur insoweit befugt, als sie nach
@@ -38,6 +40,7 @@ können.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrczeg/BJNR073320001.html#BJNR073320001BJNE000300000)
 
 Rechtshilfeersuchen tschechischer Behörden, denen eine Zuwiderhandlung
 zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre,
@@ -48,6 +51,7 @@ zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrczeg/BJNR073320001.html#BJNR073320001BJNE000400000)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 und 3 am Tag nach
 seiner Verkündung in Kraft. Die Artikel 2 und 3 des Vertrages treten

@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckvtr2000czeg/BJNR234420002.html#BJNR234420002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckvtr2000czeg/BJNR234420002.html#BJNR234420002BJNE000200000)
 
 Dem in Berlin am 12. September 2000 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und der Tschechischen Republik über den
@@ -37,6 +39,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckvtr2000czeg/BJNR234420002.html#BJNR234420002BJNE000300000)
 
 (1) Der Baustellenbereich der Grenzbrücke und nach ihrer
 Fertigstellung die Grenzbrücke selbst gelten, soweit es sich um
@@ -52,6 +55,7 @@ der Einfuhr von Waren für die öffentlichen Bauverwaltungen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckvtr2000czeg/BJNR234420002.html#BJNR234420002BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

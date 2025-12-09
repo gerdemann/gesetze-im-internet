@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Haftung und Entschädigung für Ölverschmutzungsschäden; Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE000404116)
 
 (1) Die Haftung und Entschädigung für Ölverschmutzungsschäden und die
 Verpflichtung zur Aufrechterhaltung einer Versicherung oder sonstigen
@@ -72,6 +73,7 @@ kann.
 
 
 ## § 2 Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE002009130)
 
 (1) Das Bestehen der nach Artikel VII Absatz 1 des
 Haftungsübereinkommens von 1992, auch in Verbindung mit § 1 Absatz 2,
@@ -121,6 +123,7 @@ Bescheinigung geregelt werden.
 
 
 ## § 3 Mitführen der Bescheinigungen; Festhalten des Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE000603116)
 
 (1) Der eingetragene Eigentümer eines Schiffes nach Artikel VII Absatz
 1 des Haftungsübereinkommens von 1992, auch in Verbindung mit § 1
@@ -151,6 +154,7 @@ Bescheinigung vorgelegt worden ist.
 
 
 ## § 4 Behördliche Zuständigkeiten; Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE000703116)
 
 (1) § 2 Absatz 2 und 3 und die nach § 2 Absatz 4 erlassene
 Rechtsverordnung werden durch den Bund ausgeführt; die Wahrnehmung der
@@ -163,6 +167,7 @@ entsprechend anzuwenden.
 
 
 ## § 5 Mitteilung der erhaltenen Ölmengen
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE000806377)
 
 (1) Das Bundesministerium für Wirtschaft und Energie teilt dem
 Direktor des Internationalen Entschädigungsfonds für
@@ -214,6 +219,7 @@ Fristen.
 
 
 ## § 6 Gerichtliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE000904116)
 
 (1) Für Streitigkeiten wegen der Ansprüche
 
@@ -267,6 +273,7 @@ in dessen Bezirk die Hamburg Port Authority ihren Sitz hat.
 
 
 ## § 7 Anerkennung und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE001901116)
 
 Artikel 10 des Bunkeröl-Übereinkommens ist auf die in einem anderen
 Mitgliedstaat der Europäischen Union ergangenen Entscheidungen über
@@ -275,6 +282,7 @@ Europäischen Union anerkannt und vollstreckt werden, nicht anzuwenden.
 
 
 ## § 8 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE001003116)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen Artikel VII Absatz 1 des Haftungsübereinkommens
@@ -295,6 +303,7 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ## § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE001104130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -344,6 +353,7 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/_lsg/BJNR017700988.html#BJNR017700988BJNE001301308)
 
 -
 

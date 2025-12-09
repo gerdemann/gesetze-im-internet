@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btpr_samtsbezano/BJNR007610968.html#BJNR007610968BJNE000100303)
 
 Auf Grund der mir am 29. März 1968 übertragenen Befugnis
 (Bundesgesetzbl. I S. 252) setze ich für den Leiter der Verwaltung des

@@ -22,9 +22,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000100000)
 
 
 ### § 1 Erlaubnis zum Führen der Berufsbezeichnung „Anästhesietechnische Assistentin“ oder „Anästhesietechnischer Assistent“
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000200000)
 
 (1) Wer die Berufsbezeichnung „Anästhesietechnische Assistentin“ oder
 „Anästhesietechnischer Assistent“ führen will, bedarf der Erlaubnis.
@@ -77,6 +79,7 @@ zuständige Behörde des Landes, in dem
 
 
 ### § 2 Erlaubnis zum Führen der Berufsbezeichnung „Operationstechnische Assistentin“ oder „Operationstechnischer Assistent“
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000300000)
 
 (1) Wer die Berufsbezeichnung „Operationstechnische Assistentin“ oder
 „Operationstechnischer Assistent“ führen will, bedarf der Erlaubnis.
@@ -129,6 +132,7 @@ zuständige Behörde des Landes, in dem
 
 
 ### § 3 Rücknahme der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000400000)
 
 (1) Die Erlaubnis zum Führen der Berufsbezeichnung ist zurückzunehmen,
 wenn
@@ -170,6 +174,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 4 Widerruf der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000500000)
 
 (1) Die Erlaubnis zum Führen der Berufsbezeichnung ist zu widerrufen,
 wenn bekannt wird, dass sich die Inhaberin oder der Inhaber einer
@@ -186,6 +191,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 5 Ruhen der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000600000)
 
 (1) Das Ruhen der Erlaubnis zum Führen der Berufsbezeichnung kann
 angeordnet werden, wenn
@@ -213,12 +219,15 @@ Voraussetzungen nicht mehr vorliegen.
 
 
 ## Abschnitt 2 - Ausbildung und Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000300000)
 
 
 #### § 6 Nichtanwendung des Berufsbildungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000700000)
 
 Auf die Ausbildung zum Beruf der Anästhesietechnischen Assistentin und
 des Anästhesietechnischen Assistenten und zum Beruf der
@@ -228,9 +237,11 @@ Berufsbildungsgesetz nicht anzuwenden.
 
 
 ### Unterabschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000400000)
 
 
 #### § 7 Ziel der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000800000)
 
 (1) Die Ausbildung zur Anästhesietechnischen Assistentin oder zum
 Anästhesietechnischen Assistenten und zur Operationstechnischen
@@ -262,6 +273,7 @@ Bedeutung ihrer zukünftigen Tätigkeit angemessen ist.
 
 
 #### § 8 Gemeinsames Ausbildungsziel
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE000900000)
 
 Alle Auszubildenden sind zu befähigen,
 
@@ -373,6 +385,7 @@ Alle Auszubildenden sind zu befähigen,
 
 
 #### § 9 Spezifisches Ausbildungsziel für Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001000000)
 
 Die zur Anästhesietechnischen Assistentin oder zum
 Anästhesietechnischen Assistenten Auszubildenden sind zu befähigen,
@@ -428,6 +441,7 @@ Anästhesietechnischen Assistenten Auszubildenden sind zu befähigen,
 
 
 #### § 10 Spezifisches Ausbildungsziel für Operationstechnische Assistentinnen und Operationstechnische Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001100000)
 
 Die zur Operationstechnischen Assistentin oder zum
 Operationstechnischen Assistenten Auszubildenden sind zu befähigen,
@@ -478,6 +492,7 @@ Operationstechnischen Assistenten Auszubildenden sind zu befähigen,
 
 
 #### § 11 Voraussetzungen für den Zugang zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001200000)
 
 Die Ausbildung darf nur absolvieren, wer
 
@@ -531,6 +546,7 @@ Die Ausbildung darf nur absolvieren, wer
 
 
 #### § 12 Dauer
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001300000)
 
 (1) Die Ausbildung dauert in Vollzeit drei Jahre.
 
@@ -544,6 +560,7 @@ Operationstechnischen Assistenten kann zur Hälfte gemeinsam erfolgen.
 
 
 #### § 13 Teile der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001400000)
 
 (1) Die Ausbildung besteht aus
 
@@ -570,6 +587,7 @@ Operationstechnischen Assistenten kann zur Hälfte gemeinsam erfolgen.
 
 
 #### § 14 Ausbildungsorte
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001500000)
 
 (1) Der theoretische und der praktische Unterricht finden in
 staatlichen, staatlich genehmigten oder staatlich anerkannten Schulen
@@ -605,6 +623,7 @@ Einrichtung der praktischen Ausbildung.
 
 
 #### § 15 Pflegepraktikum
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001600000)
 
 In der praktischen Ausbildung ist ein Pflegepraktikum in dem
 jeweiligen Versorgungsbereich zu absolvieren, der für die Ausbildung
@@ -614,6 +633,7 @@ Assistentin und zum Operationstechnischen Assistenten relevant ist.
 
 
 #### § 16 Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001700000)
 
 (1) Die Einrichtungen der praktischen Ausbildung stellen jeweils die
 Praxisanleitung sicher.
@@ -627,6 +647,7 @@ praktischen Ausbildungszeit betragen.
 
 
 #### § 17 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001800000)
 
 (1) Die Schule unterstützt die praktische Ausbildung, indem sie eine
 Praxisbegleitung in angemessenem Umfang gewährleistet.
@@ -641,6 +662,7 @@ Praxisbegleitung.
 
 
 #### § 18 Curriculum der Schule und Ausbildungsplan für die praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE001900000)
 
 (1) Die Schule erstellt ein schulinternes Curriculum für den
 theoretischen und den praktischen Unterricht nach den Vorgaben dieses
@@ -658,6 +680,7 @@ Curriculum und den Ausbildungsplan ab.
 
 
 #### § 19 Gesamtverantwortung der Schule
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002000000)
 
 (1) Die Gesamtverantwortung für die Koordination des theoretischen und
 praktischen Unterrichts mit der praktischen Ausbildung trägt die
@@ -672,6 +695,7 @@ Vorbereitungszeiten Rücksicht genommen wird.
 
 
 #### § 20 Pflichten der Einrichtungen der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002100000)
 
 (1) Die Einrichtungen der praktischen Ausbildung haben die Ausbildung
 in einer durch ihren Zweck gebotenen Form planmäßig sowie zeitlich und
@@ -696,6 +720,7 @@ Auszubildenden angemessen sein.
 
 
 #### § 21 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002200000)
 
 (1) Die Ausbildung schließt mit einer staatlichen Prüfung ab.
 
@@ -707,6 +732,7 @@ Ausbildungsinhalte in gleicher Form geprüft werden.
 
 
 #### § 22 Mindestanforderungen an Schulen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002300000)
 
 (1) Die Ausbildung darf nur von einer Schule durchgeführt werden, die
 staatlich, staatlich genehmigt oder staatlich anerkannt ist.
@@ -751,6 +777,7 @@ beschränkt wird.
 
 
 #### § 23 Verkürzung der Ausbildungsdauer durch Anrechnung gleichwertiger Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002400000)
 
 (1) Die zuständige Behörde kann auf Antrag eine erfolgreich
 abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer
@@ -808,6 +835,7 @@ Auszubildende das Ausbildungsziel erreicht.
 
 
 #### § 24 Verlängerung der Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002500000)
 
 (1) Eine Auszubildende oder ein Auszubildender kann bei der
 zuständigen Behörde beantragen, dass die Ausbildungsdauer verlängert
@@ -829,6 +857,7 @@ anzuhören.
 
 
 #### § 25 Anrechnung von Fehlzeiten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002600000)
 
 (1) Auf die Dauer der Ausbildung werden angerechnet:
 
@@ -884,9 +913,11 @@ Landespersonalvertretungsgesetzen bleiben unberührt.
 
 
 ### Unterabschnitt 3 - Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000500000)
 
 
 #### § 26 Ausbildungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002701116)
 
 (1) Zwischen dem Ausbildungsträger und der oder dem Auszubildenden ist
 ein Ausbildungsvertrag zu schließen. Der Abschluss und jede Änderung
@@ -968,6 +999,7 @@ anzuwenden.
 
 
 #### § 27 Pflichten des Ausbildungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002800000)
 
 (1) Der Ausbildungsträger hat die Ausbildung in einer durch ihren
 Zweck gebotenen Form planmäßig sowie zeitlich und sachlich gegliedert
@@ -985,6 +1017,7 @@ zu Datenbanken, Instrumente und Apparate.
 
 
 #### § 28 Pflichten der oder des Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE002900000)
 
 (1) Die oder der Auszubildende hat sich zu bemühen, das
 Ausbildungsziel zu erreichen.
@@ -1015,6 +1048,7 @@ Ausbildungsziel zu erreichen.
 
 
 #### § 29 Ausbildungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003000000)
 
 (1) Der Ausbildungsträger hat der oder dem Auszubildenden eine
 angemessene monatliche Ausbildungsvergütung zu gewähren.
@@ -1054,6 +1088,7 @@ angemessene monatliche Ausbildungsvergütung zu gewähren.
 
 
 #### § 30 Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003100000)
 
 (1) Auf die Ausbildungsvergütung können Sachbezüge angerechnet werden.
 Maßgeblich für die Bestimmung der Werte der Sachbezüge sind die Werte,
@@ -1071,6 +1106,7 @@ Sachbezugswerten auszuzahlen.
 
 
 #### § 31 Überstunden und ihre Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003200000)
 
 Eine über die vereinbarte regelmäßige Ausbildungszeit hinausgehende
 Beschäftigung ist nur ausnahmsweise zulässig und besonders zu vergüten
@@ -1078,6 +1114,7 @@ oder in Freizeit auszugleichen.
 
 
 #### § 32 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003300000)
 
 (1) Die ersten sechs Monate des Ausbildungsverhältnisses sind die
 Probezeit.
@@ -1087,6 +1124,7 @@ tarifvertraglichen Regelungen eine andere Dauer ergibt.
 
 
 #### § 33 Ende des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003400000)
 
 (1) Das Ausbildungsverhältnis endet unabhängig vom Zeitpunkt der
 staatlichen Abschlussprüfung mit Ablauf der Ausbildungszeit.
@@ -1108,6 +1146,7 @@ Durchführung der staatlichen Prüfung, höchstens jedoch um ein Jahr.
 
 
 #### § 34 Kündigung des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003500000)
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem
 Vertragspartner jederzeit ohne Einhalten einer Kündigungsfrist
@@ -1148,6 +1187,7 @@ Satz 1 gehemmt.
 
 
 #### § 35 Beschäftigung im Anschluss an das Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003600000)
 
 Wird die oder der Auszubildende im Anschluss an das
 Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
@@ -1156,6 +1196,7 @@ unbestimmte Zeit als begründet.
 
 
 #### § 36 Nichtigkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003700000)
 
 (1) Eine Vereinbarung, die zu Ungunsten der oder des Auszubildenden
 von den §§ 26 bis 35 abweicht, ist nichtig.
@@ -1190,6 +1231,7 @@ Ausbildungsverhältnisses ein Arbeitsverhältnis eingeht.
 
 
 #### § 37 Ausnahmeregelung für Mitglieder geistlicher Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003801116)
 
 Die §§ 26 bis 36 finden keine Anwendung auf Auszubildende, die
 Diakonissen, Diakonieschwestern oder Mitglieder geistlicher
@@ -1197,9 +1239,11 @@ Gemeinschaften sind.
 
 
 ## Abschnitt 3 - Anerkennung von im Ausland erworbenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000600000)
 
 
 ### § 38 Anforderung an die Anerkennung einer außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE003900000)
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene
 Berufsqualifikation wird anerkannt, wenn
@@ -1230,12 +1274,14 @@ Berufsqualifikation zu erteilen.
 
 
 ### § 39 Nichtanwendbarkeit des Berufsqualifikationsfeststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004000000)
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 des Berufsqualifikationsfeststellungsgesetzes keine Anwendung.
 
 
 ### § 40 Begriffsbestimmungen zu den ausländischen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004100000)
 
 (1) Mitgliedstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der
 Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten
@@ -1266,6 +1312,7 @@ Dienstleistungen erbringt.
 
 
 ### § 41 Ausbildungsnachweise bei Berufsqualifikationen, die in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat abgeschlossen worden sind
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004200000)
 
 (1) Bei einer Berufsqualifikation, die in einem anderen Mitgliedstaat,
 in einem anderen Vertragsstaat oder in einem gleichgestellten Staat
@@ -1367,6 +1414,7 @@ beigefügt ist.
 
 
 ### § 42 Ausbildungsnachweise bei Ausbildungen, die in einem Drittstaat abgeschlossen worden sind
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004300000)
 
 (1) Bei einer Berufsqualifikation, die in einem Drittstaat, der kein
 gleichgestellter Staat ist, abgeschlossen worden ist, sind die
@@ -1390,6 +1438,7 @@ Bescheinigung vorzulegen.
 
 
 ### § 43 Gleichwertigkeit der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004400000)
 
 Eine Berufsqualifikation, die außerhalb des Geltungsbereichs dieses
 Gesetzes abgeschlossen worden ist, ist gleichwertig mit der in diesem
@@ -1412,6 +1461,7 @@ oder zum Operationstechnischen Assistenten, wenn
 
 
 ### § 44 Wesentliche Unterschiede bei der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004501116)
 
 (1) Wesentliche Unterschiede liegen vor,
 
@@ -1441,6 +1491,7 @@ Geltungsbereich dieses Gesetzes sind.
 
 
 ### § 45 Ausgleich durch Berufserfahrung oder durch lebenslanges Lernen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004600000)
 
 (1) Wesentliche Unterschiede können vollständig oder teilweise
 ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen, die
@@ -1469,6 +1520,7 @@ sind.
 
 
 ### § 46 Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004700000)
 
 (1) Ist die Berufsqualifikation der antragstellenden Person nicht mit
 der in diesem Gesetz geregelten Berufsqualifikation gleichwertig, so
@@ -1483,6 +1535,7 @@ vorlegen kann.
 
 
 ### § 47 Anerkennung der Berufsqualifikation nach Eignungsprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004800000)
 
 (1) Als Anpassungsmaßnahme ist eine Eignungsprüfung oder ein
 Anpassungslehrgang erforderlich, wenn die antragstellende Person
@@ -1518,6 +1571,7 @@ Eignungsprüfung ablegen.
 
 
 ### § 48 Anerkennung der Berufsqualifikation nach Kenntnisprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE004901116)
 
 (1) Als Anpassungsmaßnahme ist eine Kenntnisprüfung oder ein
 Anpassungslehrgang erforderlich, wenn die antragstellende Person eine
@@ -1545,6 +1599,7 @@ Berufsqualifikation anerkannt.
 
 
 ### § 49 Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005000000)
 
 (1) Die Eignungsprüfung erstreckt sich auf die wesentlichen
 Unterschiede, die zuvor bei der antragstellenden Person festgestellt
@@ -1555,6 +1610,7 @@ Berufsqualifikation anerkannt.
 
 
 ### § 50 Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005100000)
 
 (1) Die Kenntnisprüfung erstreckt sich auf den Inhalt der staatlichen
 Abschlussprüfung.
@@ -1564,6 +1620,7 @@ Berufsqualifikation anerkannt.
 
 
 ### § 51 Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005201116)
 
 (1) Den Inhalt und Umfang des Anpassungslehrgangs regelt die auf der
 Grundlage des § 66 erlassene Ausbildungs- und Prüfungsverordnung.
@@ -1576,12 +1633,15 @@ Grundlage des § 66 erlassene Ausbildungs- und Prüfungsverordnung.
 
 
 ## Abschnitt 4 - Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000700000)
 
 
 ### Unterabschnitt 1 - Personen, die die Dienstleistungserbringung in Deutschland beabsichtigen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000800000)
 
 
 #### § 52 Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005300000)
 
 Eine Staatsangehörige oder ein Staatsangehöriger eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -1596,6 +1656,7 @@ Dienstleistung berechtigt ist.
 
 
 #### § 53 Meldung der Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005401116)
 
 (1) Wer beabsichtigt, in Deutschland als dienstleistungserbringende
 Person tätig zu sein, ist verpflichtet, dies der in Deutschland
@@ -1654,6 +1715,7 @@ richten, in dem die Dienstleistung erbracht werden soll.
 
 
 #### § 54 Berechtigung zur Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005501116)
 
 Zur Dienstleistungserbringung ist nur berechtigt, wer
 
@@ -1707,6 +1769,7 @@ Zur Dienstleistungserbringung ist nur berechtigt, wer
 
 
 #### § 55 Zur Dienstleistungserbringung berechtigende Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005600000)
 
 (1) Zur Dienstleistungserbringung berechtigen folgende
 Berufsqualifikationen:
@@ -1757,6 +1820,7 @@ Dienstleistungserbringung.
 
 
 #### § 56 Überprüfen der Berechtigung zur Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005701116)
 
 (1) Die zuständige Behörde überprüft, ob die meldende Person
 berechtigt ist, in Deutschland die Tätigkeit der Anästhesietechnischen
@@ -1781,6 +1845,7 @@ meldenden Person anfordern.
 
 
 #### § 57 Rechte und Pflichten der dienstleistungserbringenden Person
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005800000)
 
 (1) Ist eine Person berechtigt, den Beruf der Anästhesietechnischen
 Assistentin oder des Anästhesietechnischen Assistenten oder den Beruf
@@ -1831,6 +1896,7 @@ in dem die Dienstleistung erbracht wird.
 
 
 #### § 58 Pflicht zur erneuten Meldung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE005900000)
 
 (1) Beabsichtigt die dienstleistungserbringende Person nach Ablauf
 eines Jahres nach der letzten Meldung erneut, vorübergehend und
@@ -1842,9 +1908,11 @@ machen, in dem die Dienstleistung erbracht werden soll.
 
 
 ### Unterabschnitt 2 - Personen mit Erlaubnis zum Führen der Berufsbezeichnung in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG000900000)
 
 
 #### § 59 Bescheinigung, die erforderlich ist zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder in einem gleichgestellten Staat
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006000000)
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -1894,12 +1962,15 @@ des Operationstechnischen Assistenten ausübt.
 
 
 ## Abschnitt 5 - Zuständigkeiten und weitere Aufgaben der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG001000000)
 
 
 ### Unterabschnitt 1 - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG001100000)
 
 
 #### § 60 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006100000)
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
@@ -1927,9 +1998,11 @@ der Länder wahrgenommen werden:
 
 
 ### Unterabschnitt 2 - Weitere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG001200000)
 
 
 #### § 61 Unterrichtungs- und Überprüfungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006200000)
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den Beruf
 der Anästhesietechnischen Assistentin oder des Anästhesietechnischen
@@ -2020,6 +2093,7 @@ Europäische Kommission weiter.
 
 
 #### § 62 Warnmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006300000)
 
 (1) Die zuständige Behörde eines Landes unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und
@@ -2109,6 +2183,7 @@ entsprechenden Hinweis.
 
 
 #### § 63 Löschung einer Warnmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006400000)
 
 Ist die Entscheidung, die die Warnmitteilung ausgelöst hat, aufgehoben
 worden, so löscht die Behörde, die die Warnmitteilung getätigt hat,
@@ -2118,6 +2193,7 @@ Entscheidung.
 
 
 #### § 64 Unterrichtung über gefälschte Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006500000)
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
 auf Erteilung der Erlaubnis zum Führen der Berufsbezeichnung oder auf
@@ -2164,6 +2240,7 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 
 
 #### § 65 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006600000)
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
 dieses Gesetzes den Beruf der Anästhesietechnischen Assistentin oder
@@ -2215,9 +2292,11 @@ Behörde:
 
 
 ## Abschnitt 6 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG001300000)
 
 
 ### § 66 Ermächtigung zum Erlass der Ausbildungs- und Prüfungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006700000)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -2302,9 +2381,11 @@ werden.
 
 
 ## Abschnitt 7 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG001400000)
 
 
 ### § 67 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006800000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2328,9 +2409,11 @@ Euro geahndet werden.
 
 
 ## Abschnitt 8 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNG001501116)
 
 
 ### § 68 Übergangsvorschrift für die Mindestanforderungen an Schulen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE006900000)
 
 (1) Die Voraussetzungen des § 22 Absatz 3 Nummer 1 und 3 gelten als
 erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt
@@ -2407,6 +2490,7 @@ gewesen sind.
 
 
 ### § 69 Weitergeltung für die Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE007000000)
 
 (1) Folgende Berechtigungen gelten als Erlaubnis zum Führen der
 Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1:
@@ -2488,6 +2572,7 @@ anerkannt, so ist die Nachprüfung nicht erforderlich.
 
 
 ### § 70 Weiterführung einer begonnenen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE007100000)
 
 Wer vor dem 1. Januar 2022 eine der in § 69 Absatz 1 genannten
 Ausbildungen begonnen hat, schließt diese Ausbildung nach den
@@ -2509,6 +2594,7 @@ Absatz 1, wer
 
 
 ### § 71 Weitergeltung der Berechtigung zum Führen der Berufsbezeichnung und Weiterführung eines begonnenen Anerkennungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE007200000)
 
 Antragstellende Personen sind in Deutschland zum Führen der
 Berufsbezeichnung der Anästhesietechnischen Assistentin und des
@@ -2536,6 +2622,7 @@ Prüfung der Gleichwertigkeit ihrer Ausbildung, das vor dem 1. Januar
 
 
 ### § 72 Finanzierung von Ausbildungskosten; Kooperationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-g/BJNR276810019.html#BJNR276810019BJNE007300116)
 
 (1) Als mit Krankenhäusern notwendigerweise verbundene
 Ausbildungsstätten im Sinne des § 2 Nummer 1a des

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000100000)
 
 Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung der
 Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit dem
@@ -30,6 +31,7 @@ Stadtentwicklung:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000202124)
 
 (1) Zur Ausübung des Flugfunk- und Flugnavigationsfunkdienstes
 (Flugfunkdienst) bei Boden- und Luftfunkstellen in der Bundesrepublik
@@ -79,6 +81,7 @@ gleichwertigen Bescheinigung.
 
 
 ## § 2 Arten der Flugfunkzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000303124)
 
 (1) Folgende Flugfunkzeugnisse werden ausgestellt:
 
@@ -165,6 +168,7 @@ vom 6.3.2015, S.1) gilt Absatz 3 entsprechend.
 
 
 ## § 3 Voraussetzungen für den Erwerb von Flugfunkzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000401305)
 
 Voraussetzungen für den Erwerb von Flugfunkzeugnissen sind:
 
@@ -192,6 +196,7 @@ Voraussetzungen für den Erwerb von Flugfunkzeugnissen sind:
 
 
 ## § 4 Prüfungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000501305)
 
 (1) Prüfungsbehörde ist die Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur). Die für
@@ -204,6 +209,7 @@ Stadtentwicklung weitere Behörden als Prüfungsbehörden benennen.
 
 
 ## § 5 Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000601305)
 
 Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses
 muss schriftlich unter Angabe der beantragten Zeugnisart spätestens 14
@@ -211,6 +217,7 @@ Tage vor dem Prüfungstermin bei der Prüfungsbehörde erfolgen.
 
 
 ## § 6 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000701305)
 
 (1) Über die Zulassung zur Prüfung entscheidet die Prüfungsbehörde.
 Die Zulassung zur Prüfung erfolgt, wenn
@@ -233,6 +240,7 @@ Bundesnetzagentur in ihrem Amtsblatt.
 
 
 ## § 7 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000800000)
 
 (1) Der Prüfungsausschuss für die Prüfung zum Erwerb eines
 Flugfunkzeugnisses besteht aus einem Vorsitzenden und mindestens einem
@@ -245,6 +253,7 @@ sein.
 
 
 ## § 8 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE000902305)
 
 (1) Die Prüfungsbehörde legt Zeitpunkt und Ort der Prüfung fest und
 teilt sie dem Bewerber mit. Die Prüfungsbehörde kann Zeitpunkt und Ort
@@ -282,6 +291,7 @@ gestatten.
 
 
 ## § 9 Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001002305)
 
 (1) Hat der Bewerber die Prüfung nicht bestanden, so kann er diese
 einmal wiederholen. Zu wiederholen sind die Prüfungsteile, in denen
@@ -298,6 +308,7 @@ sind die Bestimmungen des § 8 entsprechend anzuwenden.
 
 
 ## § 10 Zusatzprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001102305)
 
 (1) Inhaber gültiger Sprechfunkzeugnisse für den Flugfunkdienst können
 durch eine Zusatzprüfung ein höherwertiges Sprechfunkzeugnis für den
@@ -313,6 +324,7 @@ diese erneut ablegen.
 
 
 ## § 11 Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001201305)
 
 (1) Der Inhaber eines gültigen Flugfunkzeugnisses, dessen
 Betriebsabwicklung mehrfach zu Beanstandungen Anlass gegeben hat oder
@@ -326,6 +338,7 @@ Anlage 1 im Einzelfall von der Bundesnetzagentur festgelegt.
 
 
 ## § 12 Anerkennung von Prüfungen zum Erwerb einer Erlaubnis für Luftfahrzeugführer oder zum Erwerb der Instrumentenflugberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001302124)
 
 (1) Prüfungen nach der Verordnung über Luftfahrtpersonal in der
 Fassung der Bekanntmachung vom 13. Februar 1984 (BGBl. I S. 265), die
@@ -361,6 +374,7 @@ der Länder erteilt und im Luftfahrerschein eingetragen wird.
 
 
 ## § 13 Erwerb von Flugfunkzeugnissen durch Inhaber einer Bescheinigung der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001402124)
 
 (1) Inhabern einer Bescheinigung der Bundeswehr über den Besitz eines
 Militärluftfahrzeugführerscheines,
@@ -385,6 +399,7 @@ nach Absatz 1 beizufügen.
 
 
 ## § 13a Erwerb von Flugfunkzeugnissen durch Inhaber von Lizenzscheinen für den Flugverkehrskontrolldienst
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE002700124)
 
 (1) Inhabern von Lizenzscheinen nach Artikel 4 Nummer 14 der
 Verordnung (EU) Nr. 2015/340 wird auf Antrag ausgestellt:
@@ -419,6 +434,7 @@ Ausbildungsorganisation beizufügen.
 
 
 ## § 14 Anerkennung von Flugfunkzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001502305)
 
 (1) Nicht im Geltungsbereich dieser Verordnung erteilte
 Flugfunkzeugnisse können anerkannt werden. Voraussetzung ist, dass das
@@ -468,6 +484,7 @@ anerkannt.
 
 
 ## § 15 Prüfung von Kenntnissen der englischen Sprache
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001602124)
 
 (1) Bei der Prüfungsbehörde können auch die Sprachprüfung und die
 Verlängerungsprüfung nach § 125 der Verordnung über Luftfahrtpersonal
@@ -512,6 +529,7 @@ veröffentlicht.
 
 
 ## § 16 Zweitschriften
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001700000)
 
 Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust
 geratenen Berechtigungsausweis oder für eine in Verlust geratene
@@ -523,6 +541,7 @@ Zweitschrift zurückzugeben.
 
 
 ## § 17 Entziehung eines Flugfunkzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001803124)
 
 (1) Die Bundesnetzagentur kann ein Flugfunkzeugnis entziehen, wenn der
 Inhaber
@@ -552,6 +571,7 @@ bis 3 entsprechend anzuwenden.
 
 
 ## § 18 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE001903305)
 
 (1) Die für Amtshandlungen nach dieser Verordnung zu erhebenden
 Gebühren bestimmen sich nach dem Gebührenverzeichnis in Anlage 2.
@@ -570,6 +590,7 @@ glaubhaft macht.
 
 
 ## § 19 Zurückziehen einer Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE002000000)
 
 Zieht der Bewerber seine Anmeldung nach der Zulassung zur Prüfung
 zurück, so ermäßigt sich die vorgesehene Prüfungsgebühr um ein
@@ -579,6 +600,7 @@ der Billigkeit entspricht.
 
 
 ## § 20 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE002201305)
 
 Die nach dem 30. April 1955, jedoch vor dem 16. Mai 1968 von der
 Deutschen Bundespost ausgestellten Flugfunkzeugnisse sowie die von der
@@ -609,6 +631,7 @@ Der Antrag ist an eine Außenstelle der Bundesnetzagentur zu richten.
 
 
 ## § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE002301305)
 
 (1) Diese Verordnung tritt am 30. August 2008 in Kraft, soweit im
 folgenden Absatz nichts Abweichendes bestimmt ist.
@@ -618,6 +641,7 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
 (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)
 
 ## Anlage 1 Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE002503305)
 
 (Fundstelle: BGBl. I 2012, 186 - 187)
 
@@ -847,6 +871,7 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
 (zu § 18)
 
 ## Anlage 2 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/flugfunkv_2008/BJNR174200008.html#BJNR174200008BJNE002602124)
 
 (Fundstelle: BGBl. I 2012, 188)
 

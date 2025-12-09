@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Gegenstand der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000101301)
 
 
 
 ### § 1 Erwerbsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE000911123)
 
 (1) Der Grunderwerbsteuer unterliegen die folgenden Rechtsvorgänge,
 soweit sie sich auf inländische Grundstücke beziehen:
@@ -250,6 +252,7 @@ vorausgegangenen Rechtsvorgang die Steuer berechnet worden ist.
 
 
 ### § 2 Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001004123)
 
 (1) Unter Grundstücken im Sinne dieses Gesetzes sind Grundstücke im
 Sinne des bürgerlichen Rechts zu verstehen. Jedoch werden nicht zu den
@@ -289,10 +292,12 @@ Grundstück behandelt.
 
 
 ## Zweiter Abschnitt - Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000201301)
 
 
 
 ### § 3 Allgemeine Ausnahmen von der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001104140)
 
 Von der Besteuerung sind ausgenommen:
 
@@ -355,6 +360,7 @@ Von der Besteuerung sind ausgenommen:
 
 
 ### § 4 Besondere Ausnahmen von der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001214123)
 
 Von der Besteuerung sind ausgenommen:
 
@@ -420,6 +426,7 @@ Von der Besteuerung sind ausgenommen:
 
 
 ### § 5 Übergang auf eine Gesamthand
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001307123)
 
 (1) Geht ein Grundstück von mehreren Miteigentümern auf eine
 Gesamthand (Gemeinschaft zur gesamten Hand) über, so wird die Steuer
@@ -455,6 +462,7 @@ ausgeübt und wirksam wird.
 
 
 ### § 6 Übergang von einer Gesamthand
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001407123)
 
 (1) Geht ein Grundstück von einer Gesamthand in das Miteigentum
 mehrerer an der Gesamthand beteiligter Personen über, so wird die
@@ -526,6 +534,7 @@ Gesellschaftsrecht als Personengesellschaft behandelt wird.
 
 
 ### § 6a Steuervergünstigung bei Umstrukturierungen im Konzern
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003705123)
 
 Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2 bis 3 oder
 Absatz 3a steuerbaren Rechtsvorgang auf Grund einer Umwandlung im
@@ -554,6 +563,7 @@ mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist.
 
 
 ### § 7 Umwandlung von gemeinschaftlichem Eigentum in Flächeneigentum
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001502123)
 
 (1) Wird ein Grundstück, das mehreren Miteigentümern gehört, von den
 Miteigentümern flächenweise geteilt, so wird die Steuer nicht erhoben,
@@ -582,10 +592,12 @@ worden ist.
 
 
 ## Dritter Abschnitt - Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000301301)
 
 
 
 ### § 8 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001607123)
 
 (1) Die Steuer bemißt sich nach dem Wert der Gegenleistung.
 
@@ -625,6 +637,7 @@ im Zeitpunkt der Fertigstellung des Gebäudes maßgebend.
 
 
 ### § 9 Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001703301)
 
 (1) Als Gegenleistung gelten
 
@@ -713,15 +726,18 @@ von ihr abgezogen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001803301)
 
 (weggefallen)
 
 
 ## Vierter Abschnitt - Steuerberechnung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000401301)
 
 
 
 ### § 11 Steuersatz, Abrundung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE001903301)
 
 (1) Die Steuer beträgt 3,5 vom Hundert.
 
@@ -729,6 +745,7 @@ von ihr abgezogen.
 
 
 ### § 12 Pauschbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002001301)
 
 Das Finanzamt kann im Einvernehmen mit dem Steuerpflichtigen von der
 genauen Ermittlung des Steuerbetrags absehen und die Steuer in einem
@@ -737,10 +754,12 @@ das steuerliche Ergebnis nicht wesentlich geändert wird.
 
 
 ## Fünfter Abschnitt - Steuerschuld
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000501301)
 
 
 
 ### § 13 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002105123)
 
 Steuerschuldner sind
 
@@ -799,6 +818,7 @@ Steuerschuldner sind
 
 
 ### § 14 Entstehung der Steuer in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002201301)
 
 Die Steuer entsteht,
 
@@ -813,16 +833,19 @@ Die Steuer entsteht,
 
 
 ### § 15 Fälligkeit der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002301301)
 
 Die Steuer wird einen Monat nach der Bekanntgabe des Steuerbescheids
 fällig. Das Finanzamt darf eine längere Zahlungsfrist setzen.
 
 
 ## Sechster Abschnitt - Nichtfestsetzung der Steuer, Aufhebung oder Änderung der Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000601301)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002408123)
 
 (1) Wird ein Erwerbsvorgang rückgängig gemacht bevor das Eigentum am
 Grundstück auf den Erwerber übergegangen ist, so wird auf Antrag die
@@ -905,10 +928,12 @@ bis 20) war.
 
 
 ## Siebenter Abschnitt - Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen, Anzeigepflichten und Erteilung der Unbedenklichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000701301)
 
 
 
 ### § 17 Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002510123)
 
 (1) Für die Besteuerung ist vorbehaltlich des Satzes 2 das Finanzamt
 örtlich zuständig, in dessen Bezirk das Grundstück oder der
@@ -968,6 +993,7 @@ Anteile hinzuzurechnen.
 
 
 ### § 18 Anzeigepflicht der Gerichte, Behörden und Notare
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002608123)
 
 (1) Gerichte, Behörden und Notare haben dem zuständigen Finanzamt
 schriftlich Anzeige nach amtlich vorgeschriebenem Vordruck zu
@@ -1029,6 +1055,7 @@ Finanzamt zu richten.
 
 
 ### § 19 Anzeigepflicht der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002712123)
 
 (1) Steuerschuldner müssen Anzeige erstatten über
 
@@ -1169,6 +1196,7 @@ Kalenderjahres, in dem die anzeigepflichtige Änderung eingetreten ist.
 
 
 ### § 20 Inhalt der Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002804123)
 
 (1) Die Anzeigen müssen enthalten:
 
@@ -1232,6 +1260,7 @@ müssen außerdem enthalten:
 
 
 ### § 21 Urkundenaushändigung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE002902116)
 
 Die Gerichte, Behörden und Notare dürfen Urkunden, die einen
 anzeigepflichtigen Vorgang betreffen, den Beteiligten erst aushändigen
@@ -1241,6 +1270,7 @@ erteilen, wenn sie die Anzeigen in allen Teilen vollständig (§§ 18 und
 
 
 ### § 22 Unbedenklichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003003301)
 
 (1) Der Erwerber eines Grundstücks darf in das Grundbuch erst dann
 eingetragen werden, wenn eine Bescheinigung des für die Besteuerung
@@ -1261,10 +1291,12 @@ der Bescheinigung ist ausgeschlossen.
 
 
 ## Achter Abschnitt - Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000900140)
 
 
 
 ### § 22a Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003802123)
 
 Zur Vereinfachung des Besteuerungsverfahrens wird das
 Bundesministerium der Finanzen ermächtigt, im Benehmen mit dem
@@ -1277,10 +1309,12 @@ Datenübermittlers sowie die Vertraulichkeit und Integrität des
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNG000802140)
 
 
 
 ### § 23 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003118123)
 
 (1) Dieses Gesetz ist auf Erwerbsvorgänge anzuwenden, die nach dem 31.
 Dezember 1982 verwirklicht werden. Es ist auf Antrag auch auf
@@ -1478,6 +1512,7 @@ Gesamthand das Gesellschaftsvermögen tritt.
 
 
 ### § 24 Rechtsfähige Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003900123)
 
 Rechtsfähige Personengesellschaften (§ 14a Absatz 2 Nummer 2 der
 Abgabenordnung) gelten für Zwecke der Grunderwerbsteuer als Gesamthand
@@ -1485,10 +1520,12 @@ und deren Vermögen als Gesamthandsvermögen.
 
 
 ### (XXXX) §§ 25 bis 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003203123)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/grestg_1983/BJNR017770982.html#BJNR017770982BJNE003601301)
 
 (Inkrafttreten)
 

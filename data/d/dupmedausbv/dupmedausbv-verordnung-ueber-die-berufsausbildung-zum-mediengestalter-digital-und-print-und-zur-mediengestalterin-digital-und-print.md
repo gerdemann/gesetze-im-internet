@@ -26,6 +26,7 @@ Stand: V ersetzt V 806-22-1-82 v. 26.4.2013 I 1173 (Dig/PrintMedAusbV 2013)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000100000)
 
 Auf Grund
 
@@ -47,9 +48,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Mediengestalters
 Digital und Print und der Mediengestalterin Digital und Print wird
@@ -67,11 +70,13 @@ staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -92,6 +97,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -297,6 +303,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -304,9 +311,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000200000)
 
 
 ### § 6 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000800000)
 
 (1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr
 stattfinden.
@@ -315,6 +324,7 @@ stattfinden.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -331,6 +341,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001000000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -345,6 +356,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich „Gestaltungsgrundlagen anwenden, Medienproduktionen planen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001100000)
 
 (1) Im Prüfungsbereich „Gestaltungsgrundlagen anwenden,
 Medienproduktionen planen und organisieren“ hat der Prüfling
@@ -387,6 +399,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 10 Prüfungsbereich „Medienprodukte gestalten und realisieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001200000)
 
 (1) Im Prüfungsbereich „Medienprodukte gestalten und realisieren“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -409,9 +422,11 @@ der Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 ## Abschnitt 3 - Abschluss- oder Gesellenprüfung in der Fachrichtung Projektmanagement
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000300000)
 
 
 ### § 11 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001300000)
 
 (1) Die Abschluss- oder Gesellenprüfung findet am Ende der
 Berufsausbildung statt.
@@ -420,6 +435,7 @@ Berufsausbildung statt.
 
 
 ### § 12 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001400000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -436,6 +452,7 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 13 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001500000)
 
 Die Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -456,6 +473,7 @@ Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich „Projekte planen und umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001600000)
 
 (1) Im Prüfungsbereich „Projekte planen und umsetzen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -499,6 +517,7 @@ Prozent zu gewichten.
 
 
 ### § 15 Prüfungsbereich „Medien konzipieren, gestalten und präsentieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001700000)
 
 (1) Im Prüfungsbereich „Medien konzipieren, gestalten und
 präsentieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -541,6 +560,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Prüfungsbereich „Medien produzieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001800000)
 
 (1) Im Prüfungsbereich „Medien produzieren“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -591,6 +611,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 17 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE001900000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -604,6 +625,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -673,6 +695,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 19 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002100000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -715,9 +738,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Abschluss- oder Gesellenprüfung in der Fachrichtung Designkonzeption
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000400000)
 
 
 ### § 20 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002200000)
 
 (1) Die Abschluss- oder Gesellenprüfung findet am Ende der
 Berufsausbildung statt.
@@ -726,6 +751,7 @@ Berufsausbildung statt.
 
 
 ### § 21 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002300000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -742,6 +768,7 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 22 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002400000)
 
 Die Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -762,6 +789,7 @@ Prüfungsbereichen statt:
 
 
 ### § 23 Prüfungsbereich „Designkonzepte entwickeln und erstellen“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002500000)
 
 (1) Im Prüfungsbereich „Designkonzepte entwickeln und erstellen“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -804,6 +832,7 @@ Prozent zu gewichten.
 
 
 ### § 24 Prüfungsbereich „Medien konzipieren, gestalten und präsentieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002600000)
 
 (1) Im Prüfungsbereich „Medien konzipieren, gestalten und
 präsentieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -848,6 +877,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 25 Prüfungsbereich „Medien produzieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002700000)
 
 (1) Im Prüfungsbereich „Medien produzieren“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -898,6 +928,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 26 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002800000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -911,6 +942,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 27 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE002900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -980,6 +1012,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 28 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003000000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1022,9 +1055,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 5 - Abschluss- oder Gesellenprüfung in der Fachrichtung Printmedien
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000500000)
 
 
 ### § 29 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003100000)
 
 (1) Die Abschluss- oder Gesellenprüfung findet am Ende der
 Berufsausbildung statt.
@@ -1033,6 +1068,7 @@ Berufsausbildung statt.
 
 
 ### § 30 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003200000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich entsprechend der
 gewählten Wahlqualifikation auf
@@ -1050,6 +1086,7 @@ gewählten Wahlqualifikation auf
 
 
 ### § 31 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003300000)
 
 Die Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -1070,6 +1107,7 @@ Prüfungsbereichen statt:
 
 
 ### § 32 Prüfungsbereich „Printmedien gestalten und technisch umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003400000)
 
 (1) Im Prüfungsbereich „Printmedien gestalten und technisch umsetzen“
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1125,6 +1163,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 33 Prüfungsbereich „Medien konzipieren, gestalten und präsentieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003500000)
 
 (1) Im Prüfungsbereich „Medien konzipieren, gestalten und
 präsentieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1166,6 +1205,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 34 Prüfungsbereich „Medien produzieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003600000)
 
 (1) Im Prüfungsbereich „Medien produzieren“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1221,6 +1261,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 35 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1234,6 +1275,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 36 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1303,6 +1345,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 37 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE003900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1345,9 +1388,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 6 - Abschluss- oder Gesellenprüfung in der Fachrichtung Digitalmedien
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000600000)
 
 
 ### § 38 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004000000)
 
 (1) Die Abschluss- oder Gesellenprüfung findet am Ende der
 Berufsausbildung statt.
@@ -1356,6 +1401,7 @@ Berufsausbildung statt.
 
 
 ### § 39 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004100000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich entsprechend der
 gewählten Wahlqualifikation auf
@@ -1373,6 +1419,7 @@ gewählten Wahlqualifikation auf
 
 
 ### § 40 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004200000)
 
 Die Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -1393,6 +1440,7 @@ Prüfungsbereichen statt:
 
 
 ### § 41 Prüfungsbereich „Digitalmedien gestalten und technisch umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004300000)
 
 (1) Im Prüfungsbereich „Digitalmedien gestalten und technisch
 umsetzen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1446,6 +1494,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 42 Prüfungsbereich „Medien konzipieren, gestalten und präsentieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004400000)
 
 (1) Im Prüfungsbereich „Medien konzipieren, gestalten und
 präsentieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1492,6 +1541,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 43 Prüfungsbereich „Medien produzieren“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004500000)
 
 (1) Im Prüfungsbereich „Medien produzieren“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1549,6 +1599,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 44 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004600000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1562,6 +1613,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 45 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1631,6 +1683,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 46 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1673,9 +1726,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNG000700000)
 
 
 ### § 47 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE004900000)
 
 Diese Verordnung tritt am 1. August 2023 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Mediengestalter Digital
@@ -1686,6 +1741,7 @@ Februar 2016 (BGBl. I S. 175) geändert worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
+[Direktlink](https://www.gesetze-im-internet.de/dupmedausbv/BJNR0800A0023.html#BJNR0800A0023BJNE005000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 128, S. 18 - 32)
 

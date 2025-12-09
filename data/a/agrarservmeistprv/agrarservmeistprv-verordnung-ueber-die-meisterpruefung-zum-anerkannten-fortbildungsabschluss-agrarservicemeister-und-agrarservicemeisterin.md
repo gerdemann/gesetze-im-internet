@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000100000)
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 3 durch Artikel 232 Nummer 3
@@ -32,6 +33,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000201377)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die
 durch die berufliche Fortbildung zum Agrarservicemeister und zur
@@ -105,6 +107,7 @@ Fortbildungsabschluss Agrarservicemeister oder Agrarservicemeisterin.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000300000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -137,6 +140,7 @@ Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000400000)
 
 (1) Die Meisterprüfung umfasst die Prüfungsteile
 
@@ -155,6 +159,7 @@ Prüfung rechtfertigen.
 
 
 ## § 4 Anforderungen im Prüfungsteil „Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen“
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000500000)
 
 (1) Der Prüfling soll nachweisen, dass er die pflanzliche Produktion
 und Maßnahmen der Landschaftspflege einschließlich des jeweils damit
@@ -252,6 +257,7 @@ Minuten zur Verfügung.
 
 
 ## § 5 Anforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000600000)
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
 und soziale Zusammenhänge im Betrieb erkennen, analysieren und
@@ -320,6 +326,7 @@ Minuten zur Verfügung.
 
 
 ## § 6 Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000701377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -570,6 +577,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000801377)
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
 einzelner Prüfungsbestandteile nach § 4 Absatz 3, § 5 Absatz 3 und § 6
@@ -582,6 +590,7 @@ Verordnung entspricht.
 
 
 ## § 8 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE000901377)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den
 Prüfungsteil „Pflanzenproduktion, Verfahrens- und Agrartechnik,
@@ -623,6 +632,7 @@ Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE001000000)
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
 wiederholt werden.
@@ -637,6 +647,7 @@ bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agrarservmeistprv/BJNR119100010.html#BJNR119100010BJNE001101377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.

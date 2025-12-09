@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Passvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNG000101130)
 
 
 
 ### § 1 Passpflicht
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE000408130)
 
 (1) Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes, die
 aus dem Geltungsbereich dieses Gesetzes aus- oder in ihn einreisen,
@@ -95,6 +97,7 @@ einer Antragstellung beim Auswärtigen Amt gefertigt werden.
 
 
 ### § 2 Befreiung von der Passpflicht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE000504130)
 
 (1) Das Bundesministerium des Innern und für Heimat kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -115,6 +118,7 @@ humanitären Gründen, Ausnahmen von der Passpflicht zulassen.
 
 
 ### § 3 Grenzübertritt
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE000601130)
 
 Das Überschreiten der Auslandsgrenze ist nur an zugelassenen
 Grenzübergangsstellen und innerhalb der festgesetzten Verkehrsstunden
@@ -123,6 +127,7 @@ zwischenstaatlicher Vereinbarungen Ausnahmen zugelassen sind.
 
 
 ### § 4 Passmuster; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE000715360)
 
 (1) Pässe sind nach einheitlichen Mustern auszustellen; sie erhalten
 eine Seriennummer. Der Pass enthält neben dem Lichtbild des
@@ -300,6 +305,7 @@ Sicherstellung und Pflichten des Inhabers enthalten.
 
 
 ### § 5 Gültigkeitsdauer
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE000807130)
 
 (1) Der Reisepass, der Dienstpass und der Diplomatenpass sind zehn
 Jahre gültig. Bei Personen, die das 24. Lebensjahr noch nicht
@@ -320,6 +326,7 @@ zulässig.
 
 
 ### § 6 Ausstellung eines Passes
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE000910360)
 
 (1) Der Pass wird auf Antrag ausgestellt. § 3a des
 Verwaltungsverfahrensgesetzes findet keine Anwendung. Im
@@ -407,6 +414,7 @@ ist.
 
 
 ### § 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE004201130)
 
 (1) Die Datenübermittlung von den Passbehörden an den Passhersteller
 zum Zweck der Passherstellung, insbesondere die Übermittlung
@@ -483,6 +491,7 @@ mit dem Bundesministerium für Wirtschaft und Klimaschutz.
 
 
 ### § 7 Passversagung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001006130)
 
 (1) Der Pass ist zu versagen, wenn bestimmte Tatsachen die Annahme
 begründen, dass der Passbewerber
@@ -564,6 +573,7 @@ dieses Gesetzes darf nicht versagt werden.
 
 
 ### § 8 Passentziehung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001101130)
 
 Ein Pass oder ein ausschließlich als Passersatz bestimmter amtlicher
 Ausweis kann dem Inhaber entzogen werden, wenn Tatsachen
@@ -572,12 +582,14 @@ würden.
 
 
 ### § 9 Speicherung von passrechtlichen Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001202130)
 
 Anordnungen nach § 7 Absatz 1 oder 2 oder § 8 dürfen im polizeilichen
 Grenzfahndungsbestand gespeichert werden.
 
 
 ### § 10 Untersagung der Ausreise
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001302130)
 
 (1) Die für die polizeiliche Kontrolle des grenzüberschreitenden
 Verkehrs zuständigen Behörden haben einem Deutschen, dem nach § 7
@@ -604,6 +616,7 @@ Deutschen nicht versagt werden.
 
 
 ### § 11 Ungültigkeit
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001404130)
 
 (1) Ein Pass oder Passersatz ist ungültig, wenn
 
@@ -657,6 +670,7 @@ Gültigkeit des Passes.
 
 
 ### § 12 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001502130)
 
 (1) Ein nach § 11 ungültiger Pass oder Passersatz kann eingezogen
 werden. Die Einziehung ist schriftlich zu bestätigen.
@@ -669,6 +683,7 @@ rechtfertigt, geheilt oder fortgefallen ist.
 
 
 ### § 13 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001602130)
 
 (1) Ein Pass oder ein ausschließlich als Passersatz bestimmter
 amtlicher Ausweis kann sichergestellt werden, wenn
@@ -692,6 +707,7 @@ amtlicher Ausweis kann sichergestellt werden, wenn
 
 
 ### § 14 Sofortige Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001702130)
 
 Widerspruch und Anfechtungsklage gegen die Beschränkung des
 Geltungsbereiches oder der Gültigkeitsdauer des Passes (§ 7 Absatz 2),
@@ -701,6 +717,7 @@ aufschiebende Wirkung.
 
 
 ### § 15 Pflichten des Inhabers
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001807130)
 
 Der Inhaber eines Passes ist verpflichtet, der Passbehörde
 unverzüglich
@@ -731,6 +748,7 @@ unverzüglich
 
 
 ### § 16 Datenschutzrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE001906130)
 
 (1) Die Seriennummer und die Prüfziffern dürfen keine Daten über die
 Person des Passinhabers oder Hinweise auf solche Daten enthalten.
@@ -796,6 +814,7 @@ die ausstellende Behörde mitzuteilen.
 
 
 ### § 16a Echtheitsüberprüfung und Identitätsprüfung; Verarbeitung von Passdaten
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE003402130)
 
 (1) Soweit die Polizeivollzugsbehörden, die Zollverwaltung sowie die
 Pass-, Personalausweis- und Meldebehörden die Echtheit des Passes oder
@@ -852,6 +871,7 @@ Gesetz oder auf Grund eines Gesetzes abweichend geregelt ist.
 
 
 ### § 16b Verarbeitung der sichtbaren Daten des Passes
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE004301130)
 
 (1) Die in § 16a Absatz 1 Satz 1 genannten Behörden dürfen die auf dem
 Pass sichtbar aufgedruckten Daten durch nicht automatisierte Verfahren
@@ -867,6 +887,7 @@ entsprechend.
 
 
 ### § 17 Automatischer Abruf aus Dateien und automatische Speicherung im öffentlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002002130)
 
 (1) Behörden und sonstige öffentliche Stellen dürfen den Pass nicht
 zum automatischen Abruf personenbezogener Daten verwenden. Abweichend
@@ -900,6 +921,7 @@ Fahndungsbestand, die zu einer Feststellung geführt haben.
 
 
 ### § 18 Verwendung im nichtöffentlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002104130)
 
 (1) Der Pass oder ein Passersatz können auch im nichtöffentlichen
 Bereich als Ausweis- und Legitimationspapier benutzt werden.
@@ -931,6 +953,7 @@ Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
 
 ### § 19 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002206130)
 
 (1) Für Passangelegenheiten im Geltungsbereich dieses Gesetzes sind
 die von den Ländern bestimmten Behörden zuständig (Passbehörden). Die
@@ -974,6 +997,7 @@ zuständig.
 
 
 ### § 20 Gebühren und Auslagen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002308130)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben
@@ -1011,6 +1035,7 @@ bis zu 300 Prozent der Gebühren betragen.
 
 
 ### § 21 Passregister
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002430130)
 
 (1) Die Passbehörden führen Passregister.
 
@@ -1119,6 +1144,7 @@ Daten speichern. Absatz 4 gilt entsprechend.
 
 
 ### § 22 Verarbeitung und Nutzung der Daten im Passregister
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002508130)
 
 (1) Die Passbehörden dürfen personenbezogene Daten nur nach Maßgabe
 dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben,
@@ -1191,6 +1217,7 @@ Seriennummer des Passes zu übermitteln.
 
 
 ### § 22a Datenübertragung und automatisierter Abruf von Lichtbildern
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE003507130)
 
 (1) In den Fällen des § 22 Absatz 2 kann die Übermittlung auch durch
 Datenübertragung erfolgen. § 6a Absatz 1 Satz 3 gilt entsprechend.
@@ -1277,6 +1304,7 @@ Abruf.
 
 
 ### § 23 Weisungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002602130)
 
 (1) Die Bundesregierung kann Einzelweisungen zur Ausführung dieses
 Gesetzes und der hierzu erlassenen Rechtsverordnungen erteilen, wenn
@@ -1287,10 +1315,12 @@ Bundesrepublik Deutschland es erfordern.
 
 
 ## Zweiter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNG000201130)
 
 
 
 ### § 24 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002703130)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer als Deutscher im Sinne des Artikels 116 Absatz 1 des
@@ -1315,6 +1345,7 @@ Grundgesetzes
 
 
 ### § 25 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002808130)
 
 (1) Ordnungswidrig handelt, wer fahrlässig eine der in § 24 Absatz 1
 Nummer 1 bezeichneten Handlungen begeht.
@@ -1369,6 +1400,7 @@ geahndet werden, wenn sie im Ausland begangen wird.
 
 
 ### § 26 Bußgeldbehörden
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE002906130)
 
 Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten sind
@@ -1390,10 +1422,12 @@ Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 
 
 ## Dritter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNG000301130)
 
 
 
 ### § 27 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE003005130)
 
 Das Auswärtige Amt erlässt im Benehmen mit dem Bundesministerium des
 Innern und für Heimat allgemeine Verwaltungsvorschriften über das
@@ -1401,6 +1435,7 @@ Ausstellen amtlicher Pässe.
 
 
 ### § 27a Regelungsbefugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE003701130)
 
 Durch Landesrecht können zentrale Passregisterdatenbestände zur
 Speicherung des Lichtbilds und der Unterschrift für die Durchführung
@@ -1417,6 +1452,7 @@ Daten ermöglicht wird.
 
 
 ### § 28 Übergangsvorschrift für Kinderreisepässe
+[Direktlink](https://www.gesetze-im-internet.de/passg_1986/BJNR105370986.html#BJNR105370986BJNE003604130)
 
 (1) Für Kinderreisepässe, die vor dem 1. Januar 2021 beantragt worden
 sind, ist § 5 Absatz 2 in der bis einschließlich 31. Dezember 2020

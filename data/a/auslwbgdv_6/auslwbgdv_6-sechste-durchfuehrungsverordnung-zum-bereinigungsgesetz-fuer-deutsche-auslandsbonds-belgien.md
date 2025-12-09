@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000100303)
 
 Auf Grund des § 23 Abs. 5, des § 35 Abs. 2 und des § 76 des
 Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
@@ -26,6 +27,7 @@ Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000200303)
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
@@ -40,6 +42,7 @@ bestellten Auslandsbevollmächtigten sowie einen für ihn nach § 8 Abs.
 
 
 ## § 2 Hinterlegung der Bonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000300303)
 
 (1) Eine Hinterlegung von Auslandsbonds nach § 23 Abs. 2 des Gesetzes
 ist in Belgien nur bei einer Bank zulässig, die in der von der
@@ -56,12 +59,14 @@ Bescheinigung nach § 23 Abs. 2 des Gesetzes beigebracht wird.
 
 
 ## § 3 Verfahren bei der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000400303)
 
 Für die Anmeldung soll der Vordruck verwendet werden, der vom
 Auslandsbevollmächtigten zur Verfügung gestellt wird.
 
 
 ## § 4 Gesetzliches Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000500303)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen des
 Auslandsbevollmächtigten wird nach § 35 des Gesetzes für Belgien ein
@@ -83,6 +88,7 @@ Nachfolgers gilt Absatz 2.
 
 
 ## § 5 Verfahren vor dem gesetzlichen Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000600303)
 
 (1) Der Antrag auf schiedsgerichtliche Entscheidung ist bei dem
 Auslandsbevollmächtigten schriftlich einzureichen. Dem Antrag sind
@@ -115,6 +121,7 @@ sowie die Treuhänder und Zahlungsagenten von der Entscheidung.
 
 
 ## § 6 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000700303)
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können in
 Belgien gemäß § 70 Abs. 2 des Gesetzes durch eingeschriebenen Brief
@@ -122,6 +129,7 @@ gegen Rückschein bewirkt werden.
 
 
 ## § 7 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000800303)
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
@@ -130,6 +138,7 @@ diese Rechtsverordnung auch im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_6/BJNR519300953.html#BJNR519300953BJNE000900303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

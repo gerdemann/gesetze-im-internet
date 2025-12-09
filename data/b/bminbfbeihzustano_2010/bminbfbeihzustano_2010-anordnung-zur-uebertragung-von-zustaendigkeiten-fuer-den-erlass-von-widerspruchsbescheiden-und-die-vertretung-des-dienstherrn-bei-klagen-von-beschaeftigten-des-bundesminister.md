@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminbfbeihzustano_2010/BJNR140300010.html#BJNR140300010BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes übertrage ich dem
 Bundesverwaltungsamt die Befugnis, über Widersprüche von Beschäftigten
@@ -30,6 +31,7 @@ Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminbfbeihzustano_2010/BJNR140300010.html#BJNR140300010BJNE000200000)
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes übertrage ich dem
 Bundesverwaltungsamt die Vertretung des Bundesministeriums für Bildung
@@ -38,11 +40,13 @@ Entscheidung über Widersprüche zuständig ist.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminbfbeihzustano_2010/BJNR140300010.html#BJNR140300010BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 1. November 2010 anzuwenden.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminbfbeihzustano_2010/BJNR140300010.html#BJNR140300010BJNE000400000)
 
 Die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von
 Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
@@ -53,6 +57,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminbfbeihzustano_2010/BJNR140300010.html#BJNR140300010BJNE000500000)
 
 Die Bundesministerin für Bildung und Forschung
 

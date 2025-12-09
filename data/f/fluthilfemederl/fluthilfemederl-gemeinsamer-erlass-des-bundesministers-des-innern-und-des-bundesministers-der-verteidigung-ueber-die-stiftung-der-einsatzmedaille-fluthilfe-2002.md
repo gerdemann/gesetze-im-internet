@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1 Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000200000)
 
 Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei
 der Abwehr von Gefahren und der Beseitigung von Schäden anlässlich der
@@ -41,6 +42,7 @@ Bundesgrenzschutz und der Bundeswehr gemeinsam die
 
 
 ## Art 2 Gestaltung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000300000)
 
 (1) Das Ehrenzeichen hat die Form einer runden, silberfarbenen
 Medaille. Sie trägt auf der Vorderseite den Bundesadler, darüber eine
@@ -55,6 +57,7 @@ aufgesetzter verkleinerter Vorderseite der Medaille.
 
 
 ## Art 3 Verleihung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000400000)
 
 (1) Das Ehrenzeichen verleiht
 
@@ -91,6 +94,7 @@ Ihre Hinterbliebenen sind zur Rückgabe nicht verpflichtet.
 
 
 ## Art 4 Vorschlagsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000500000)
 
 (1) Für die Angehörigen des Bundesgrenzschutzes sind die Präsidenten
 oder Präsidentinnen der Bundesgrenzschutzpräsidien, für die haupt- und
@@ -114,6 +118,7 @@ großzügig verfahren werden.
 
 
 ## Art 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000600000)
 
 (1) Die Verleihungsvorschläge sind dem Bundesministerium des Innern
 oder dem Bundesministerium der Verteidigung mit folgenden
@@ -149,12 +154,14 @@ würdiger Form.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000700000)
 
 Der Bundesminister des Innern
 Der Bundesminister der Verteidigung
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl/BJNR374900002.html#BJNR374900002BJNE000800000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3751 - 3753)
 

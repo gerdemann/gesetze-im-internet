@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2016/BJNR113700016.html#BJNR113700016BJNE000100000)
 
 Auf Grund des § 34 Absatz 2 Satz 1 und § 35 Absatz 1 Nummer 2 des
 Patentgesetzes, die durch Artikel 204 der Verordnung vom 31. August
@@ -60,6 +61,7 @@ aufgehoben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2016/BJNR113700016.html#BJNR113700016BJNE000200000)
 
 Bundesministerium der Justiz und für Verbraucherschutz
 

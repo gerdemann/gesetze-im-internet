@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000101360)
 
 (1) Die Vorschriften dieses Gesetzes gelten für eine Annahme als Kind,
 die auf einer ausländischen Entscheidung oder auf ausländischen
@@ -36,6 +37,7 @@ Anerkennungsfeststellung durch das Familiengericht.
 
 
 ## § 2 Anerkennungs- und Wirkungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000203360)
 
 (1) Auf Antrag stellt das Familiengericht fest, ob eine Annahme als
 Kind im Sinne des § 1 Absatz 1 anzuerkennen oder wirksam und ob das
@@ -64,6 +66,7 @@ gleichzeitig ein Umwandlungsausspruch nach § 3 ergeht.
 
 
 ## § 3 Umwandlungsausspruch
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000304360)
 
 (1) In den Fällen des § 2 Absatz 3 Satz 1 Nummer 2 kann das
 Familiengericht auf Antrag aussprechen, dass das Kind die
@@ -97,6 +100,7 @@ deutschen Sachvorschriften vorgesehenen Wirkungen abweichen.
 
 
 ## § 4 Unbegleitete Auslandsadoptionen
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000600360)
 
 (1) Eine ausländische Adoptionsentscheidung im Sinne von § 1 Absatz 2
 wird nicht anerkannt, wenn die Adoption ohne eine internationale
@@ -112,6 +116,7 @@ Zeitpunkt der gerichtlichen Entscheidung maßgeblich.
 
 
 ## § 5 Antragstellung; Reichweite der Entscheidungswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000403360)
 
 (1) Antragsbefugt sind
 
@@ -158,6 +163,7 @@ beantragt werden.
 
 
 ## § 6 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000505360)
 
 (1) Über Anträge nach den §§ 2 und 3 entscheidet das Familiengericht,
 in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk
@@ -207,6 +213,7 @@ Absatz 1 entsprochen worden ist.
 
 
 ## § 7 Vorläufige Anerkennung der Auslandsadoption
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000700360)
 
 Bis zum Abschluss des Anerkennungsverfahrens gilt die ausländische
 Adoptionsentscheidung vorläufig als anerkannt, wenn eine gültige
@@ -218,6 +225,7 @@ Staatsangehörigkeitsgesetzes bleiben unberührt.
 
 
 ## § 8 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000800360)
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 30. September
 2026 einen Bericht über die Auswirkungen der §§ 1, 2 und 4 bis 7 sowie
@@ -226,6 +234,7 @@ vor.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/adwirkg/BJNR295300001.html#BJNR295300001BJNE000900360)
 
 Auf die Anerkennung ausländischer Adoptionsentscheidungen, die in
 Verfahren ergangen sind, die vor dem 1. April 2021 eingeleitet worden

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frumrv_4/BJNR018150973.html#BJNR018150973BJNE000100328)
 
 Auf Grund des § 2 Abs. 2 des Gesetzes zur Durchführung des Ersten
 Abkommens zur Vereinheitlichung des Luftprivatrechts vom 15. Dezember
@@ -29,6 +30,7 @@ wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/frumrv_4/BJNR018150973.html#BJNR018150973BJNE000200328)
 
 Bei Anwendung des Artikels 22 des Ersten Abkommens zur
 Vereinheitlichung von Regeln über die Beförderung im internationalen
@@ -37,6 +39,7 @@ sind 100 französische Franken mit 21,40 Deutsche Mark zu bewerten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/frumrv_4/BJNR018150973.html#BJNR018150973BJNE000300328)
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
@@ -46,11 +49,13 @@ des Verkehrsrechts und Verkehrshaftpflichtrechts vom 16. Juli 1957
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/frumrv_4/BJNR018150973.html#BJNR018150973BJNE000400328)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/frumrv_4/BJNR018150973.html#BJNR018150973BJNE000500328)
 
 Der Bundesminister der Justiz
 

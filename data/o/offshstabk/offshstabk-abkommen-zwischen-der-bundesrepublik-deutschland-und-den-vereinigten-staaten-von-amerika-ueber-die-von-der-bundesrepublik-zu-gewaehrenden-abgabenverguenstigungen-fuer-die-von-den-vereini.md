@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000100306)
 
 Die Bundesrepublik Deutschland und die Vereinigten Staaten von Amerika
 sind in dem Wunsche, die gemeinsamen Verteidigungsbemühungen zu
@@ -28,6 +29,7 @@ fördern, wie folgt übereingekommen:
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000200306)
 
 Die Bundesrepublik Deutschland, im folgenden die Bundesrepublik
 genannt, wird Vergünstigungen bei Bundessteuern und Zöllen gewähren,
@@ -38,6 +40,7 @@ Abgabenvergünstigungen bestimmt sich nach den nachstehenden Artikeln.
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000300306)
 
 Verteidigungsausgaben im Sinne dieses Abkommens sind Ausgaben, die von
 den Vereinigten Staaten - im Falle der Ausfuhr von den Vereinigten
@@ -48,6 +51,7 @@ für Auslandshilfsprogramme aller Art der Vereinigten Staaten.
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000400306)
 
 Hinsichtlich der Steuern und Zölle, die die Verteidigungsausgaben der
 Vereinigten Staaten im Sinne des Artikels II und der Bestimmungen des
@@ -110,6 +114,7 @@ Anhangs berühren, werden folgende Vergünstigungen gewährt:
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000500306)
 
 Zölle und Verbrauchsteuern einschließlich der Umsatzausgleichsteuer
 werden nicht erhoben für Ausrüstung, Materialien und Einrichtungen der
@@ -121,6 +126,7 @@ werden.
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000600306)
 
 Für die in Artikel III Nr. 2 Buchstabe a und in Artikel IV
 bezeichneten Ausrüstungsgegenstände, Materialien und Einrichtungen,
@@ -133,6 +139,7 @@ werden.
 
 
 ## Art VI
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000700306)
 
 Die Vergünstigungen bei Bundessteuern und Zöllen sind davon abhängig,
 daß den zuständigen deutschen Stellen von Stellen der Vereinigten
@@ -144,6 +151,7 @@ den beiden Regierungen festgelegt werden.
 
 
 ## Art VII
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000800306)
 
 (1) Wenn Dollarausgaben in Betracht kommen, werden die Vereinigten
 Staaten Zahlung leisten in Form von auf Dollar lautenden Urkunden, die
@@ -156,6 +164,7 @@ Vereinbarungen der beiden Regierungen geleistet werden.
 
 
 ## Art VIII
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE000900306)
 
 Waren, für die nach den vorstehenden Bestimmungen
 Abgabenvergünstigungen gewährt worden sind, dürfen im Geltungsbereich
@@ -166,6 +175,7 @@ Bedingungen veräußert werden.
 
 
 ## Art IX
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001000306)
 
 Die in den Artikeln III, IV und V aufgeführten Vergünstigungen werden
 auch gewährt für Rechtsgeschäfte, die vor dem Inkrafttreten dieses
@@ -188,6 +198,7 @@ b)  die Entgelte um den in ihnen enthaltenen Abgabenbetrag zu ermäßigen
 
 
 ## Art X
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001100306)
 
 Dieses Abkommen bezieht sich nicht auf Vergünstigungen bei Steuern,
 deren Aufkommen den Ländern oder den Gemeinden (Gemeindeverbänden)
@@ -196,6 +207,7 @@ Sozialversicherungsbeiträgen vor.
 
 
 ## Art XI
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001200306)
 
 Die Regierung der Bundesrepublik wird der Regierung der Vereinigten
 Staaten die zur Durchführung dieses Abkommens zu erlassenden
@@ -203,6 +215,7 @@ Vorschriften mitteilen.
 
 
 ## Art XII
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001300306)
 
 (1) Dieses Abkommen gilt von dem in Artikel XIV bezeichneten Zeitpunkt
 ab auch für das Land Berlin, welches für die Zwecke dieses Abkommens
@@ -217,6 +230,7 @@ erforderlichen rechtlichen Voraussetzungen erfüllt sind.
 
 
 ## Art XIII
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001400306)
 
 (1) Die beiden Regierungen werden, wenn eine von ihnen dies beantragt,
 sich miteinander über jede Frage ins Benehmen setzen, die die
@@ -234,6 +248,7 @@ den beiden Vertragsteilen geändert werden.
 
 
 ## Art XIV
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001500306)
 
 (1) Dieses Abkommen tritt in Kraft mit der Hinterlegung einer
 Ratifikationsurkunde bei der Regierung der Vereinigten Staaten durch
@@ -243,6 +258,7 @@ die Bundesrepublik.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001600306)
 
 ZU URKUND DESSEN haben die zu diesem Zweck ordnungsmäßig
 bevollmächtigten Vertreter das vorliegende Abkommen unterzeichnet.
@@ -252,6 +268,7 @@ beide Texte authentisch sind.
 
 
 ## Anhang zu dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/offshstabk/BJNR208230955.html#BJNR208230955BJNE001700306)
 
 (Fundstelle: BGBl. II 1955, 826 - 828)
 

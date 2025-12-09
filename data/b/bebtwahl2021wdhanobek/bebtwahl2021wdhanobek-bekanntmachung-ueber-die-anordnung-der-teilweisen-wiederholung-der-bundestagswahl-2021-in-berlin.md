@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bebtwahl2021wdhanobek/BJNR1810A0023.html#BJNR1810A0023BJNE000100000)
 
 Auf Grund des Urteils des Bundesverfassungsgerichts vom 19. Dezember
 2023, Aktenzeichen 2 BvC 4/23, wird nachstehende Anordnung des
@@ -31,6 +32,7 @@ Land Berlin findet am 11. Februar 2024 statt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bebtwahl2021wdhanobek/BJNR1810A0023.html#BJNR1810A0023BJNE000200000)
 
 Bundesministerium des Innern und für Heimat
 

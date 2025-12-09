@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt V 2030-8-5-8 v. 13.7.2016 I 1775 (HArchDVDV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNG000100000)
 
 
 ### § 1 Ziel des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000201311)
 
 (1) Der Vorbereitungsdienst vermittelt die wissenschaftlichen Methoden
 und Kenntnisse, die für die Erfüllung der Aufgaben im höheren
@@ -48,6 +50,7 @@ Herausforderungen des höheren Archivdienstes gerecht zu werden.
 
 
 ### § 2 Einstellungsbehörden, Ausbildungsstellen, Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000301311)
 
 (1) Einstellungsbehörden sind das Bundesarchiv, die oder der
 Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der
@@ -88,6 +91,7 @@ Einstellungsbehörde auch der Dienstaufsicht der Archivschule Marburg.
 
 
 ### § 3 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000400000)
 
 (1) Die Einstellungsbehörde gewährt Menschen mit Beeinträchtigungen,
 die die Umsetzung der nachzuweisenden Kenntnisse einschränken, im
@@ -108,6 +112,7 @@ die Studien- und Prüfungsleistungen dürfen nicht herabgesetzt werden.
 
 
 ### § 4 Bewertung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000500000)
 
 (1) Leistungen werden wie folgt bewertet:
 
@@ -194,9 +199,11 @@ auf ganze Rangpunktzahlen gerundet.
 
 
 ## Abschnitt 2 - Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNG000200000)
 
 
 ### § 5 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000601311)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer über die
 allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen verfügt und
@@ -244,6 +251,7 @@ zudem
 
 
 ### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000701311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens, in dem
@@ -271,6 +279,7 @@ die Ablehnung. Die Bewerbungsunterlagen werden vernichtet.
 
 
 ### § 7 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000801311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Ausbildungsstelle eine Auswahlkommission ein.
@@ -293,6 +302,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ### § 8 Durchführung des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE000900000)
 
 (1) Das Auswahlverfahren besteht aus einem bis zu 30-minütigen
 Einzelgespräch der Auswahlkommission mit der Bewerberin oder dem
@@ -323,6 +333,7 @@ Bewerberin oder dem Bewerber gewonnen hat, werden gesondert bewertet.
 
 
 ### § 9 Ergebnis des Auswahlverfahrens, Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001000000)
 
 (1) Die Auswahlkommission stellt für jede Bewerberin und jeden
 Bewerber das Ergebnis fest, indem sie aus den Rangpunkten, die sie für
@@ -336,9 +347,11 @@ geeigneten Bewerberinnen und Bewerber fest.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNG000300000)
 
 
 ### § 10 Dauer und Gliederung des Vorbereitungsdienstes; Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001101311)
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre. Er besteht aus
 folgenden Ausbildungsphasen:
@@ -435,6 +448,7 @@ Laufbahnprüfung für den höheren Archivdienst des Bundes.
 
 
 ### § 11 Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001200000)
 
 (1) Für erfolgreich absolvierte Module werden Leistungspunkte nach dem
 Europäischen System zur Übertragung und Akkumulierung von
@@ -448,6 +462,7 @@ vergeben werden.
 
 
 ### § 12 Modulhandbücher
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001301311)
 
 (1) Das Modulhandbuch für die berufspraktischen Studien und für die
 Transferphase erstellt die Ausbildungsstelle. Das Modulhandbuch ist zu
@@ -479,6 +494,7 @@ entsprechend.
 
 
 ### § 13 Ausbildungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001400000)
 
 Die Ausbildungsstelle bestellt eine Angehörige oder einen Angehörigen
 des höheren Archivdienstes zur Ausbildungsleiterin oder zum
@@ -520,6 +536,7 @@ Ausbildungsleiter. Diese oder dieser
 
 
 ### § 14 Modulverantwortliche, Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001500000)
 
 (1) Die oder der Modulverantwortliche
 
@@ -556,6 +573,7 @@ Referendare prüft,
 
 
 ### § 15 Berufspraktische Studien
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001601311)
 
 (1) In den berufspraktischen Studien sollen die Referendarinnen und
 Referendare mit den Aufgaben, den Methoden und der Organisation in
@@ -606,6 +624,7 @@ werden. Voraussetzung dafür ist, dass
 
 
 ### § 16 Studienleistungen und Modulprüfungen in den berufspraktischen Studien
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001700000)
 
 (1) Soweit die Ausbildungsinhalte nicht durch Lehrveranstaltungen
 vermittelt werden, sind die Referendarinnen und Referendare
@@ -623,6 +642,7 @@ Studienleistungen werden nicht bewertet.
 
 
 ### § 17 Bewertung der Modulprüfungen und der Gesamtleistung in den berufspraktischen Studien
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001801311)
 
 (1) Die oder der Modulverantwortliche bewertet die Modulprüfungen.
 Besteht eine Modulprüfung aus mehreren Prüfungsteilen, wird jeder
@@ -659,6 +679,7 @@ erhält eine Kopie der Mitteilung.
 
 
 ### § 18 Transferphase, Transferarbeit, Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE001900000)
 
 (1) In der Transferphase sollen die Referendarinnen und Referendare
 nachweisen, dass sie praxisrelevante Fragestellungen selbstständig mit
@@ -696,6 +717,7 @@ allgemeinen Verwaltungsdienst in Hessen.
 
 
 ### § 19 Verhinderung, Rücktritt, Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE002001311)
 
 (1) Ist eine Referendarin oder ein Referendar durch eine Erkrankung
 oder durch sonstige nicht zu vertretende Umstände gehindert, eine
@@ -745,6 +767,7 @@ Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 20 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE002101311)
 
 (1) Eine Referendarin oder ein Referendar, die oder der bei einer
 Modulprüfung oder einem Prüfungsteil täuscht, eine Täuschung versucht,
@@ -791,6 +814,7 @@ Referendarin oder der Referendar anzuhören.
 
 
 ### § 21 Prüfungsakte
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE002201311)
 
 (1) Die Ausbildungsstelle führt zu jeder Referendarin und zu jedem
 Referendar eine Prüfungsakte über die berufspraktischen Studien und
@@ -829,9 +853,11 @@ Einsicht in ihre oder seine Prüfungsakte nehmen.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNG000400000)
 
 
 ### § 22 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/harchdvdv_2017/BJNR189700017.html#BJNR189700017BJNE002300000)
 
 Für Referendarinnen und Referendare, die vor dem Inkrafttreten dieser
 Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die

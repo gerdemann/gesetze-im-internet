@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -35,6 +36,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000200000)
 
 Der Ausbildungsberuf des Tourismuskaufmanns (Kaufmann für Privat- und
 Geschäftsreisen) und der Tourismuskauffrau (Kauffrau für Privat- und
@@ -43,11 +45,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -64,6 +68,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -267,6 +272,7 @@ Pflichtqualifikationseinheiten nach § 3 Nummer 1:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -288,6 +294,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -333,6 +340,7 @@ folgende Vorgaben:
 
 
 ## § 7 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -529,6 +537,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 8 Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE000900000)
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte
 Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt B können als
@@ -539,6 +548,7 @@ Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
 
 
 ## § 9 Prüfung der Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE001000000)
 
 (1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung
 gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die
@@ -553,6 +563,7 @@ der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -561,6 +572,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Reiseverkehrskaufmann/zur
@@ -569,6 +581,7 @@ Reiseverkehrskauffrau vom 18. März 2005 (BGBl. I S. 806) außer Kraft.
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE001300000)
 
 (Fundstelle: BGBl. I 2011, 957 - 963)
 
@@ -1662,6 +1675,7 @@ nach § 3 Nummer 1**
 (zu § 4 Absatz 1 Satz 2)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen) – Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/reisekfmausbv_2011/BJNR095300011.html#BJNR095300011BJNE001400000)
 
 (Fundstelle: BGBl. I 2011, 964, 965)
 

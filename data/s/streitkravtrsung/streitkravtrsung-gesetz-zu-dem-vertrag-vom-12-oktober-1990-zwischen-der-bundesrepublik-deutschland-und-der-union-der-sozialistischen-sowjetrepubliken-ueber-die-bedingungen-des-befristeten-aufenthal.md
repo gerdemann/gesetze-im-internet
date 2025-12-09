@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## -
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrats das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000200308)
 
 Dem in Bonn am 12. Oktober 1990 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Union der Sozialistischen
@@ -39,6 +41,7 @@ wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000301307)
 
 (1) Die den sowjetischen Truppen nach dem Vertrag zur Verfügung
 stehenden Grundstücke gelten als rechtlich in Anspruch genommen,
@@ -65,6 +68,7 @@ zuständig ist. Ansprüche nach dem Vermögensgesetz bleiben unberührt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000400308)
 
 (1) Das Ersuchen um Übergabe und die Zustimmung zur Abgabe einer
 einzelnen Strafsache an die deutschen Gerichte oder Behörden nach
@@ -81,12 +85,14 @@ Strafprozeßordnung entsprechend.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000500308)
 
 Artikel 24 des Vertrags ist nach den folgenden besonderen Bestimmungen
 auszuführen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE000800308)
 
 (1) Ansprüche der in Artikel 24 Abs. 1 des Vertrags genannten Art sind
 zur Vermeidung des Ausschlusses bei der zuständigen deutschen Behörde
@@ -114,6 +120,7 @@ Bürgerlichen Gesetzbuches bleibt unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE000901377)
 
 (1) Zuständige deutsche Behörde ist die Bundesanstalt für
 Immobilienaufgaben.
@@ -122,6 +129,7 @@ Immobilienaufgaben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE001000308)
 
 (1) Die Ansprüche sind durch Einreichung eines Antrags auf
 Entschädigung geltend zu machen.
@@ -141,6 +149,7 @@ Eingangstags schriftlich zu bestätigen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE001100308)
 
 (1) Die Behörde hat dem Antragsteller ihre Entschließung darüber
 mitzuteilen, ob und inwieweit sie einen geltend gemachten Anspruch als
@@ -158,6 +167,7 @@ zu gewährende Entschädigung abgeschlossen wird.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE001200308)
 
 (1) Hat die Behörde einen geltend gemachten Anspruch nicht oder nicht
 in vollem Umfang anerkannt, so kann der Antragsteller Klage vor den
@@ -180,6 +190,7 @@ eines Monats ihre Entschließung mitzuteilen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE001300308)
 
 (1) Hat die Behörde einen geltend gemachten Anspruch in vollem Umfang
 oder zum Teil anerkannt, so sind die danach zahlbaren und fälligen
@@ -196,6 +207,7 @@ gerechtfertigt ist.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNE001400308)
 
 Bei Schäden an Liegenschaften oder bei Verlust oder Beschädigung von
 beweglichen Sachen, die den sowjetischen Truppen zur Verfügung
@@ -208,6 +220,7 @@ Abs. 4 Satz 2 gilt entsprechend.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000600308)
 
 Die Beeinträchtigung des Eigentums oder eines sonstigen Rechts an
 einem Grundstück durch das Vorhandensein, die Nutzung oder die
@@ -217,6 +230,7 @@ entschädigungslos zu dulden.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/streitkravtrsung/BJNR202569991.html#BJNR202569991BJNG000700308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

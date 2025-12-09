@@ -28,6 +28,7 @@ Zuletzt geändert durch
 [^F772647_01_BJNR364300009]: 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000100000)
 
 Auf Grund des § 12 Absatz 6 Satz 1 und 3, auch in Verbindung mit
 Absatz 4 Satz 2, des Zahlungsdiensteaufsichtsgesetzes vom 25. Juni
@@ -37,9 +38,11 @@ Zahlungsinstitute:
 
 
 ## Abschnitt 1 - Angemessenheit und Erforderlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNG000101116)
 
 
 ### § 1 Angemessenheit der Eigenmittel und Erforderlichkeit der Absicherung
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000202116)
 
 (1) Ein Institut im Sinne des Zahlungsdiensteaufsichtsgesetzes, das
 nicht ausschließlich Zahlungsauslöse- oder Kontoinformationsdienste
@@ -68,9 +71,11 @@ als angemessene Eigenmittel vorzuhalten.
 
 
 ## Abschnitt 2 - Regelungen für die Eigenmittelberechnung von Zahlungsinstituten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNG000201116)
 
 
 ### § 2 Berechnung der Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000301116)
 
 (1) Das Zahlungsinstitut hat der Berechnung der
 Eigenmittelanforderungen die in § 4 dargestellte Methode B zugrunde zu
@@ -94,6 +99,7 @@ Skalierungsfaktor k entspricht
 
 
 ### § 3 Berechnung nach Methode A
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000401116)
 
 (1) Zahlungsinstitute müssen eine Eigenmittelunterlegung aufweisen,
 die mindestens 10 Prozent ihrer fixen Gemeinkosten des Vorjahrs
@@ -116,6 +122,7 @@ Anpassung des Geschäftsplans verlangen.
 
 
 ### § 4 Berechnung nach Methode B
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000501116)
 
 Zahlungsinstitute müssen eine Eigenmittelunterlegung aufweisen, die
 mindestens der Summe der folgenden Tranchenwerte multipliziert mit dem
@@ -154,6 +161,7 @@ Zahlungsvorgänge ist:
 
 
 ### § 5 Berechnung nach Methode C
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000601116)
 
 (1) Zahlungsinstitute müssen eine Eigenmittelunterlegung aufweisen,
 die mindestens dem maßgeblichen Indikator nach Absatz 2 entspricht,
@@ -227,6 +235,7 @@ Schätzungen verwendet werden.
 
 
 ### § 6 Festlegung der Methode
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000701116)
 
 (1) Im Einzelfall kann die Bundesanstalt unbeschadet der Befugnisse
 nach § 15 Absatz 2 Satz 3 des Zahlungsdiensteaufsichtsgesetzes und § 3
@@ -246,9 +255,11 @@ jedoch nur einmal pro Geschäftsjahr gestellt werden.
 
 
 ## Abschnitt 3 - Regelungen für die Eigenmittelberechnung von E-Geld-Instituten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNG000301116)
 
 
 ### § 7 Berechnung der Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001201116)
 
 E-Geld-Institute haben stets über einen Bestand an Eigenmitteln zu
 verfügen, der mindestens genauso hoch wie die Summe der in den §§ 8
@@ -256,6 +267,7 @@ und 9 genannten Erfordernisse ist.
 
 
 ### § 8 Berechnung bei Erbringung von Zahlungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001301116)
 
 Erbringt ein E-Geld-Institut Zahlungsdienste im Sinne des § 1 Absatz 1
 Satz 2 Nummer 1 bis 6 des Zahlungsdiensteaufsichtsgesetzes, die nicht
@@ -264,6 +276,7 @@ entsprechende Anwendung.
 
 
 ### § 9 Berechnung nach Methode D für die Ausgabe von E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001401116)
 
 (1) Die Eigenmittel müssen sich für die Ausgabe von E-Geld mindestens
 auf 2 Prozent des durchschnittlichen E-Geld-Umlaufs im Sinne des § 1
@@ -288,9 +301,11 @@ jederzeit eine Anpassung des Geschäftsplans verlangen.
 
 
 ## Abschnitt 4 - Kriterien für die erforderliche Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNG000500116)
 
 
 ### § 10 Kriterien bei Zahlungsauslösediensten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001500116)
 
 (1) Ein Institut, das Zahlungsauslösedienste erbringt, muss eine
 Absicherung für den Haftungsfall nach § 16 Absatz 1 des
@@ -321,6 +336,7 @@ den Risiken der Geschäfte nicht angemessen Rechnung trägt.
 
 
 ### § 11 Kriterien bei Kontoinformationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001600116)
 
 (1) Ein Institut, das Kontoinformationsdienste erbringt, muss eine
 Absicherung für den Haftungsfall nach § 36 Absatz 1 des
@@ -352,9 +368,11 @@ den Risiken der Geschäfte nicht angemessen Rechnung trägt.
 
 
 ## Abschnitt 5 - Melde- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNG000401116)
 
 
 ### § 12 Meldungen zur Eigenmittelausstattung
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000802116)
 
 (1) Ein Institut, das nicht ausschließlich Kontoinformationsdienste
 erbringt, hat die für die Überprüfung der angemessenen
@@ -375,6 +393,7 @@ Dateneinreichung zu verwendenden Satzformate und den Einreichungsweg.
 
 
 ### § 13 Anzeigen bei Nichteinhaltung der Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE000902116)
 
 Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes müssen die
 Nichteinhaltung der Eigenmittelanforderungen zwischen den
@@ -385,6 +404,7 @@ eingehalten wird.
 
 
 ### § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001001116)
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
@@ -392,6 +412,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 ZEM
 
 ### Anlage Meldebogen zur Berechnung der Eigenmittelanforderungen nach § 15 ZAG
+[Direktlink](https://www.gesetze-im-internet.de/ziev/BJNR364300009.html#BJNR364300009BJNE001102116)
 
 (Fundstelle: BGBl. I 2018, 2333 - 2336)
 

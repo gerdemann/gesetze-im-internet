@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000200000)
 
 Soweit in dieser Verordnung nichts anderes bestimmt ist, gelten für
 die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der
@@ -27,6 +28,7 @@ Bundespolizei die Vorschriften der Bundeslaufbahnverordnung.
 
 
 ## § 2 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000300000)
 
 § 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass die
 besonderen gesundheitlichen Anforderungen, die der
@@ -35,6 +37,7 @@ werden.
 
 
 ## § 3 Gestaltung und Ämter der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000400000)
 
 (1) Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei sind
 
@@ -57,6 +60,7 @@ gilt § 9 Absatz 2 der Bundeslaufbahnverordnung.
 
 
 ## § 4 Einrichtung von Vorbereitungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000500000)
 
 Für die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei
 werden Vorbereitungsdienste eingerichtet. Im Übrigen gilt § 10 Absatz
@@ -64,6 +68,7 @@ werden Vorbereitungsdienste eingerichtet. Im Übrigen gilt § 10 Absatz
 
 
 ## § 5 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000602311)
 
 (1) Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte
 auf Widerruf in den Vorbereitungsdienst eingestellt.
@@ -152,6 +157,7 @@ Erledigung der öffentlichen Aufgaben erforderlich ist.
 
 
 ## § 6 Mittlerer Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000700000)
 
 (1) Der Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in
 der Bundespolizei dauert zwei Jahre und sechs Monate. Im Übrigen gilt
@@ -166,6 +172,7 @@ dafür erforderlichen Kenntnisse nachgewiesen haben.
 
 
 ## § 7 Gehobener Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000800000)
 
 Der Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der
 Bundespolizei dauert drei Jahre und wird in einem modularisierten
@@ -175,6 +182,7 @@ Bundeslaufbahnverordnung.
 
 
 ## § 8 Höherer Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE000900000)
 
 Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der
 Bundespolizei dauert in der Regel zwei Jahre. Er besteht aus einer
@@ -186,6 +194,7 @@ Einstellungsbehörde ist das Bundespolizeipräsidium. Im Übrigen gilt §
 
 
 ## § 9 Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei bei Besitz einer erforderlichen Hochschulausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001001311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren
 und gehobenen Polizeivollzugsdienstes in der Bundespolizei, die eine
@@ -208,6 +217,7 @@ haben.
 
 
 ## § 10 Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei für Bewerberinnen und Bewerber mit einer zweiten Staatsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001100000)
 
 (1) Bewerberinnen und Bewerbern für den höheren Polizeivollzugsdienst
 in der Bundespolizei kann die Laufbahnbefähigung für den höheren
@@ -234,6 +244,7 @@ die Unterweisung einen Rahmenplan.
 
 
 ## § 11 Einstellung oder Versetzung aus Laufbahnen des Polizeivollzugsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001201311)
 
 (1) Die Einstellung oder die Versetzung in den Polizeivollzugsdienst
 in der Bundespolizei aus dienstlichen Gründen ist nur zulässig, wenn
@@ -270,6 +281,7 @@ Rahmenplan.
 
 
 ## § 12 Besondere Fachverwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001301311)
 
 (1) Für die besonderen Fachverwendungen im Polizeivollzugsdienst in
 der Bundespolizei nach Anlage 2 können
@@ -358,6 +370,7 @@ zugeordneten Amtsbezeichnungen ergeben sich aus Anlage 1.
 
 
 ## § 12a Altershöchstgrenze für die Verwendungsfortbildung zur Pilotin oder zum Piloten
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE002300311)
 
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der
 Verwendungsfortbildung zur Pilotin oder zum Piloten im Flugdienst der
@@ -366,6 +379,7 @@ noch nicht 40 Jahre alt sind.
 
 
 ## § 13 Erprobungszeit
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001400000)
 
 (1) Die Erprobung auf einem höherwertigen Dienstposten dauert
 
@@ -406,6 +420,7 @@ sofern
 
 
 ## § 14 Fortbildung sowie Erhaltung der körperlichen Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001500000)
 
 (1) Das Bundespolizeipräsidium regelt die dienstliche Fortbildung.
 
@@ -424,6 +439,7 @@ regelmäßig überprüft werden.
 
 
 ## § 15 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001602311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
@@ -480,6 +496,7 @@ Polizeioberkommissars übertragen werden.
 
 
 ## § 16 Verkürzter Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001712311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zu
 einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in
@@ -532,6 +549,7 @@ Polizeioberkommissars übertragen werden.
 
 
 ## § 16a Verkürzter Aufstieg von Spitzensportlerinnen und Spitzensportlern in den gehobenen Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE002201311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der
 Spitzensportförderung in der Bundespolizei können zu einem verkürzten
@@ -598,6 +616,7 @@ Polizeioberkommissars unmittelbar übertragen werden.
 
 
 ## § 17 Verkürzter Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001802311)
 
 (1) Abweichend von § 15 können Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamte zu einem verkürzten Aufstieg in den höheren
@@ -666,6 +685,7 @@ Bundeslaufbahnverordnung.
 
 
 ## § 18 Ausnahmen für besonders leistungsstarke Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren Polizeivollzugsdienstes in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE001901311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren
 Polizeivollzugsdienstes in der Bundespolizei kann ein Amt der Laufbahn
@@ -739,6 +759,7 @@ höchstens ein Amt der Besoldungsgruppe A 11 erreichen.
 
 
 ## Anlage 1 (zu § 3 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE002000000)
 
 (Fundstelle: BGBl. I 2011, 2414)
 
@@ -875,6 +896,7 @@ Dienst**
 (zu § 12 Absatz 1)
 
 ## Anlage 2 Bildungsvoraussetzungen für besondere Fachverwendungen im Polizeivollzugsdienst in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpollv_2011/BJNR240810011.html#BJNR240810011BJNE002103311)
 
 (Fundstelle: BGBl. I 2020, 667 – 669)
 

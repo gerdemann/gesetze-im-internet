@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erhebungszweck, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000102360)
 
 Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom
 18\. November 1974 über ein Internationales Energieprogramm vom 30.
@@ -35,6 +36,7 @@ Meldungen.
 
 
 ## § 2 Meldepflichtige
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000202124)
 
 (1) Meldepflichtig ist, wer gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen
@@ -81,6 +83,7 @@ ist, zur Abgabe von Meldungen verpflichten.
 
 
 ## § 3 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000304360)
 
 (1) Zu melden sind für jeden Kalendermonat (Meldezeitraum) nach Art
 und Menge
@@ -153,6 +156,7 @@ gewähren.
 
 
 ## § 4 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000404118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung die Meldepflichten nach § 3 Abs. 1 zu ändern
@@ -162,6 +166,7 @@ erforderlich ist.
 
 
 ## § 5 Geheimhaltung, Weiterleitung
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000508128)
 
 (1) Die von den Meldepflichtigen erhobenen Einzelangaben sind
 geheimzuhalten. Sie dürfen nur zu den in diesem Gesetz bestimmten
@@ -198,6 +203,7 @@ unterliegen, der § 16 des Bundesstatistikgesetzes entspricht.
 
 
 ## § 6 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000602377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als nach §
 2 Meldepflichtiger entgegen § 3, auch in Verbindung mit einer
@@ -214,16 +220,19 @@ Ausfuhrkontrolle (BAFA).
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000700325)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000801301)
 
 (weggefallen)
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/min_ldatg/BJNR023530988.html#BJNR023530988BJNE000900325)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

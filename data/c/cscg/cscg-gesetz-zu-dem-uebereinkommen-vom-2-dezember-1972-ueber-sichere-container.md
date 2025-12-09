@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000100319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000200319)
 
 Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland
 unterzeichneten Internationalen Übereinkommen vom 2. Dezember 1972
@@ -34,6 +36,7 @@ mit seinen Anlagen nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000303377)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Änderungen der Anlagen des Übereinkommens nach dessen
@@ -65,6 +68,7 @@ Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000408377)
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen des
 Übereinkommens.
@@ -126,6 +130,7 @@ zuständig sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000500319)
 
 (1) Die Kontrollbehörden prüfen nach Artikel VI des Übereinkommens, ob
 der im internationalen Verkehr verwendete Container ein gültiges CSC-
@@ -153,6 +158,7 @@ darstellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000604377)
 
 (1) Der Eigentümer hat die vorgeschriebenen Überprüfungen seiner
 Container (Regel 2 der Anlage I des Übereinkommens) selbst
@@ -206,6 +212,7 @@ Sichtkontrolle auch auf das Innere des Containers zu erstrecken hat.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000701307)
 
 (1) Für das CSC-Sicherheits-Zulassungsschild (Anhang zur Regel 1 der
 Anlage I des Übereinkommens) teilen die Zulassungsbehörden dem
@@ -437,6 +444,7 @@ möglichst nahe des CSC-Sicherheits-Zulassungsschildes angegeben sind
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000805377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -487,6 +495,7 @@ Logistik und Mobilität.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE000905116)
 
 (1) Für Amtshandlungen, Prüfungen und Besichtigungen nach diesem
 Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen
@@ -519,16 +528,19 @@ zum 14. August 2013 geltenden Fassung geregelt werden.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE001000319)
 
 -
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE001101307)
 
 -
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/cscg/BJNR202530976.html#BJNR202530976BJNE001203377)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

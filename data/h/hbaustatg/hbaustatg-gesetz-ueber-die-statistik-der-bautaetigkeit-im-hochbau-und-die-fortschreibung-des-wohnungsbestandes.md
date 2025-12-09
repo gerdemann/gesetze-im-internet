@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000200320)
 
 (1) Zur Feststellung des Umfangs, der Struktur und der Entwicklung der
 Bautätigkeit im Hochbau und zur Fortschreibung des Bestandes an
@@ -54,6 +56,7 @@ durchgeführt.
 
 
 ## § 2 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000301320)
 
 (1) Die Erhebungen nach § 1 Abs. 2 Nr. 1 bis 3 erfassen alle
 genehmigungs- oder zustimmungsbedürftigen sowie landesrechtlichen
@@ -71,6 +74,7 @@ Wohn- und Nichtwohnzwecken geändert wird.
 
 
 ## § 3 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000402125)
 
 (1) Erhebungsmerkmale der Erhebung nach § 1 Abs. 2 Nr. 1 sind
 
@@ -164,6 +168,7 @@ Wohn- und Nichtwohnzwecken geändert wird.
 
 
 ## § 4 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000501116)
 
 Hilfsmerkmale sind
 
@@ -189,6 +194,7 @@ Hilfsmerkmale sind
 
 
 ## § 5 Berichtszeitraum, Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000601310)
 
 Die Erhebungen nach § 1 Abs. 2 Nr. 1 und 4 werden monatlich für den
 abgelaufenen Kalendermonat, die Erhebung nach § 1 Abs. 2 Nr. 2 wird
@@ -197,6 +203,7 @@ jährlich für das abgelaufene Kalenderjahr, die Erhebung nach § 1 Abs.
 
 
 ## § 6 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000701116)
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht.
 Die Auskunftserteilung zu den Angaben nach § 4 Nummer 4 ist
@@ -211,6 +218,7 @@ werden ermächtigt, Näheres durch Rechtsverordnung zu regeln.
 
 
 ## § 7 Anschriftenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000800320)
 
 Für die Durchführung der Erhebungen der Baumaßnahmen, die nicht
 genehmigungs- oder zustimmungspflichtig sind, aber landesrechtlichen
@@ -222,6 +230,7 @@ Näheres durch Rechtsverordnung zu regeln.
 
 
 ## § 8 Fortschreibung des Wohngebäude- und Wohnungsbestandes
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE000900320)
 
 Für Landkreise, für kreisangehörige Gemeinden und für kreisfreie
 Städte ist zum Ende des Kalenderjahres von den statistischen Ämtern
@@ -233,6 +242,7 @@ Gebäude- und Wohnungszählung festgestellt worden ist.
 
 
 ## § 9 Verwendung von Merkmalen
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE001000320)
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -280,6 +290,7 @@ nach § 4 Abs. 1 des Gesetzes über die Preisstatistik verwendet werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hbaustatg/BJNR086900998.html#BJNR086900998BJNE001100320)
 
 Das Gesetz tritt am 1. Januar 1999 in Kraft.
 

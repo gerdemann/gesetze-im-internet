@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000203310)
 
 (1) Der Soldat kann sich beschweren, wenn er glaubt, von Vorgesetzten
 oder von Dienststellen der Bundeswehr unrichtig behandelt oder durch
@@ -42,6 +43,7 @@ Petitionsrecht nach Artikel 17 des Grundgesetzes eingeschränkt.
 
 
 ## § 2 Verbot der Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000301310)
 
 Niemand darf dienstlich gemaßregelt oder benachteiligt werden, weil
 seine Beschwerde nicht auf dem vorgeschriebenen Weg oder nicht
@@ -50,6 +52,7 @@ Beschwerde erhoben hat.
 
 
 ## § 3 Wirkung der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000402310)
 
 (1) Die Beschwerde in truppendienstlichen Angelegenheiten hat keine
 aufschiebende Wirkung. Die Einlegung der Beschwerde befreit
@@ -65,6 +68,7 @@ die Entscheidung des Wehrdienstgerichts beantragen.
 
 
 ## § 4 Vermittlung und Aussprache
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000502310)
 
 (1) Der Beschwerdeführer kann vor Einlegung der Beschwerde einen
 Vermittler anrufen, wenn er sich persönlich gekränkt fühlt und ihm ein
@@ -94,6 +98,7 @@ Aussprache nicht gehemmt.
 
 
 ## § 5 Einlegung der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000602310)
 
 (1) Die Beschwerde ist bei dem nächsten Disziplinarvorgesetzten des
 Beschwerdeführers einzulegen. Ist für die Entscheidung eine andere
@@ -112,6 +117,7 @@ zuständigen Stelle unmittelbar zuzuleiten.
 
 
 ## § 6 Frist und Form der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000702310)
 
 (1) Die Beschwerde darf frühestens nach Ablauf einer Nacht und muss
 innerhalb eines Monats eingelegt werden, nachdem der Beschwerdeführer
@@ -125,6 +131,7 @@ auf Verlangen eine Abschrift auszuhändigen.
 
 
 ## § 7 Fristversäumnis
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000802310)
 
 (1) Wird der Beschwerdeführer an der Einhaltung einer Frist durch
 militärischen Dienst, durch Naturereignisse oder andere unabwendbare
@@ -137,6 +144,7 @@ ist.
 
 
 ## § 8 Zurücknahme der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE000902310)
 
 (1) Die Beschwerde kann jederzeit durch schriftliche oder mündliche
 Erklärung zurückgenommen werden. § 6 Absatz 2 Satz 2 und 3 gilt
@@ -149,6 +157,7 @@ Mängel abzustellen, bleibt bestehen.
 
 
 ## § 9 Zuständigkeit für den Beschwerdebescheid
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001001310)
 
 (1) Über die Beschwerde entscheidet der Disziplinarvorgesetzte, der
 den Gegenstand der Beschwerde zu beurteilen hat. Über Beschwerden
@@ -172,6 +181,7 @@ zu entscheiden hat.
 
 
 ## § 10 Vorbereitung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001102310)
 
 (1) Der entscheidende Vorgesetzte hat den Sachverhalt durch mündliche
 oder schriftliche Verhandlungen zu klären. Er kann die Aufklärung des
@@ -192,6 +202,7 @@ Soldatenbeteiligungsgesetz.
 
 
 ## § 11 Beschwerden bei abgesetzten Truppenteilen
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001202310)
 
 Ist der für die Entscheidung zuständige Disziplinarvorgesetzte bei
 abgesetzten Truppenteilen, an Bord von Schiffen oder in ähnlichen
@@ -215,6 +226,7 @@ b)  Die Beschwerde kann auch bei dem höchsten anwesenden Offizier
 
 
 ## § 12 Beschwerdebescheid
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001303310)
 
 (1) Über die Beschwerde wird schriftlich entschieden. Der Bescheid ist
 zu begründen. Er ist dem Beschwerdeführer nach den Vorschriften der
@@ -240,6 +252,7 @@ sorgen.
 
 
 ## § 13 Inhalt des Beschwerdebescheides
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001402310)
 
 (1) Soweit die Beschwerde sich als begründet erweist, ist ihr
 stattzugeben und für Abhilfe zu sorgen. Dabei sind unzulässige oder
@@ -265,6 +278,7 @@ der Hinzuziehung eines Bevollmächtigten zu entscheiden.
 
 
 ## § 14 Umfang der Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001501310)
 
 Die Untersuchung der Beschwerde ist stets darauf zu erstrecken, ob
 mangelnde Dienstaufsicht oder sonstige Mängel im dienstlichen Bereich
@@ -272,6 +286,7 @@ vorliegen.
 
 
 ## § 15 Verfahren bei Beendigung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001601310)
 
 Die Fortführung des Verfahrens wird nicht dadurch berührt, dass nach
 Einlegung der Beschwerde das Dienstverhältnis des Beschwerdeführers
@@ -279,6 +294,7 @@ endigt.
 
 
 ## § 16 Weitere Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001702310)
 
 (1) Ist die Beschwerde in truppendienstlichen Angelegenheiten
 erfolglos geblieben, kann der Beschwerdeführer innerhalb eines Monats
@@ -295,6 +311,7 @@ Beschwerde entsprechend.
 
 
 ## § 16a Notwendige Aufwendungen und Kosten im vorgerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002603377)
 
 (1) Das vorgerichtliche Verfahren beginnt mit der Einlegung der
 Beschwerde. Es ist kostenfrei.
@@ -327,6 +344,7 @@ entsprechend.
 
 
 ## § 17 Antrag auf Entscheidung des Truppendienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001803310)
 
 (1) Ist die weitere Beschwerde erfolglos geblieben, kann der
 Beschwerdeführer die Entscheidung des Truppendienstgerichts
@@ -375,6 +393,7 @@ gesetzten Frist ausgesetzt hat.
 
 
 ## § 18 Verfahren des Truppendienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE001902310)
 
 (1) Für die Besetzung des Truppendienstgerichts ist der Dienstgrad des
 Beschwerdeführers maßgebend.
@@ -408,6 +427,7 @@ ist in der vorliegenden Sache für das Truppendienstgericht bindend.
 
 
 ## § 19 Inhalt der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002002310)
 
 (1) Hält das Truppendienstgericht einen Befehl oder eine Maßnahme,
 gegen die sich der Antrag richtet, für rechtswidrig, hebt es den
@@ -427,6 +447,7 @@ Maßgabe der Wehrdisziplinarordnung zu verfahren.
 
 
 ## § 20 Notwendige Aufwendungen und Kosten im Verfahren vor dem Truppendienstgericht
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002104377)
 
 (1) Soweit dem Antrag auf Entscheidung des Truppendienstgerichts
 stattgegeben wird, sind die dem Beschwerdeführer im Verfahren vor dem
@@ -450,6 +471,7 @@ bisherigen Sachstands sinngemäß anzuwenden.
 
 
 ## § 21 Entscheidungen des Bundesministers der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002204377)
 
 (1) Gegen Entscheidungen oder Maßnahmen des Bundesministers der
 Verteidigung einschließlich der Entscheidungen über Beschwerden oder
@@ -471,12 +493,14 @@ vertreten.
 
 
 ## § 22 Entscheidungen des Generalinspekteurs der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002304360)
 
 Für die Entscheidungen des Generalinspekteurs der Bundeswehr über
 weitere Beschwerden gilt § 21 Absatz 1, 2 und 3 Satz 2 entsprechend.
 
 
 ## § 22a Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002702311)
 
 (1) Gegen den Beschluss des Truppendienstgerichts steht dem
 Beschwerdeführer und dem Bundesministerium der Verteidigung die
@@ -524,6 +548,7 @@ zurückverweisen.
 
 
 ## § 22b Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002802377)
 
 (1) Bei Nichtzulassung der Rechtsbeschwerde durch das
 Truppendienstgericht steht dem Beschwerdeführer und dem
@@ -557,6 +582,7 @@ begründen. Darauf ist in dem Beschluss hinzuweisen.
 
 
 ## § 23 Verwaltungsgerichtliches Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002402310)
 
 (1) Ist für eine Klage aus dem Wehrdienstverhältnis der
 Verwaltungsrechtsweg gegeben, tritt das Beschwerdeverfahren an die
@@ -589,6 +615,7 @@ entsprechend.
 
 
 ## § 23a Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002902310)
 
 (1) Zur Ergänzung der Vorschriften dieses Gesetzes gelten die
 Vorschriften der Wehrdisziplinarordnung, insbesondere über
@@ -612,6 +639,7 @@ gilt § 152a der Verwaltungsgerichtsordnung entsprechend.
 
 
 ## § 24 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/wbo/BJNR010660956.html#BJNR010660956BJNE002501310)
 
 -
 

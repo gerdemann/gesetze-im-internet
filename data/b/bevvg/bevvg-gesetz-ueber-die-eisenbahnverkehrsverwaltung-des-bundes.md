@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000104305)
 
 (1) Die Aufgaben der Eisenbahnverkehrsverwaltung des Bundes werden,
 soweit dieses Gesetz nichts anderes bestimmt, vom Bundesministerium
@@ -65,6 +66,7 @@ Dezember 1993 (BGBl. I S. 2378) bleiben unberührt.
 
 
 ## § 2 Eisenbahn-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000203305)
 
 (1) Als selbständige Bundesoberbehörde für Aufgaben der
 Eisenbahnverkehrsverwaltung wird das Eisenbahn-Bundesamt errichtet,
@@ -117,6 +119,7 @@ dieses Absatzes nicht.
 
 
 ## § 3 Aufgaben des Eisenbahn-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000905119)
 
 (1) Dem Eisenbahn-Bundesamt obliegen folgende Aufgaben, soweit nicht
 die in § 4 Abs. 1 bezeichnete Behörde zuständig ist:
@@ -179,6 +182,7 @@ Rechnung wahr.
 
 
 ## § 4 Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000412123)
 
 (1) Die Aufgabe, die Einhaltung der Rechtsvorschriften über den Zugang
 zur Eisenbahninfrastruktur zu überwachen, obliegt der
@@ -257,6 +261,7 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach Absatz
 
 
 ## § 4a Leitung der Bundesnetzagentur im Eisenbahnbereich
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000600123)
 
 (1) Der Präsident oder die Präsidentin hat unabhängig von allen
 Marktinteressen in Bezug auf den Eisenbahnsektor zu handeln und darf
@@ -292,6 +297,7 @@ berufliche Aufgaben wahrnehmen.
 
 
 ## § 5 Eisenbahnsicherheitsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000501305)
 
 (1) Beim Eisenbahn-Bundesamt wird ein Eisenbahnsicherheitsbeirat
 gebildet. Er besteht aus je einem Vertreter der für die
@@ -315,6 +321,7 @@ Infrastruktur bedarf.
 
 
 ## § 6 Bundesstelle für Eisenbahnunfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE001100301)
 
 (1) Als selbständige Bundesoberbehörde für Aufgaben der Untersuchung
 gefährlicher Ereignisse im Eisenbahnbetrieb wird die Bundesstelle für
@@ -343,6 +350,7 @@ Direktor oder einer Direktorin geleitet.
 
 
 ## § 7 Aufgaben der Bundesstelle für Eisenbahnunfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE001200301)
 
 (1) Die Untersuchung gefährlicher Ereignisse, die dem Bund obliegt,
 wird durch die Bundesstelle für Eisenbahnunfalluntersuchung
@@ -400,6 +408,7 @@ Aufgaben:
 
 
 ## § 8 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE001301119)
 
 (1) Spätestens sechs Monate nach Errichtung der Bundesstelle für
 Eisenbahnunfalluntersuchung finden Wahlen zur Personalvertretung
@@ -420,6 +429,7 @@ Eisenbahnunfalluntersuchung fort.
 
 
 ## § 9 Zusammenarbeit zwischen Regulierungs-, Sicherheits-, Genehmigungs- und Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000702124)
 
 (1) Die Regulierungsbehörde, die Sicherheitsbehörde und die
 Genehmigungsbehörde arbeiten auf der Grundlage des Absatzes 2
@@ -458,6 +468,7 @@ der zuständigen Behörde abgeschlossen wird.
 
 
 ## § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bevvg/BJNR239400993.html#BJNR239400993BJNE000802124)
 
 (1) § 4a Absatz 1 und 5 ist erst ab dem 1. März 2017 anzuwenden.
 

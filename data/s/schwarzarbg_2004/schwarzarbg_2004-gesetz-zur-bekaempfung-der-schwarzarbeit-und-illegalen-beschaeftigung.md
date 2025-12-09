@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zweck
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000100000)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000203360)
 
 (1) Zweck des Gesetzes ist die Bekämpfung der Schwarzarbeit und
 illegalen Beschäftigung.
@@ -138,10 +140,12 @@ insbesondere eine Tätigkeit, die gegen geringes Entgelt erbracht wird.
 
 
 ## Abschnitt 2 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000200000)
 
 
 
 ### § 2 Prüfungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000318360)
 
 (1) Die Behörden der Zollverwaltung prüfen, ob
 
@@ -363,6 +367,7 @@ Verwaltungskosten der unterstützenden Stellen werden nicht erstattet.
 
 
 ### § 2a Mitführungs- und Vorlagepflicht von Ausweispapieren
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002504360)
 
 (1) Bei der Erbringung von Dienst- oder Werkleistungen sind die in
 folgenden Wirtschaftsbereichen oder Wirtschaftszweigen tätigen
@@ -419,6 +424,7 @@ Fällen des § 2 Absatz 3.
 
 
 ### § 3 Befugnisse bei der Prüfung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000404360)
 
 (1) Zur Durchführung der Prüfungen nach § 2 Absatz 1 sind die Behörden
 der Zollverwaltung und die sie gemäß § 2 Absatz 4 unterstützenden
@@ -485,6 +491,7 @@ Sinne des § 1 Absatz 2 Nummer 4 und 5 geleistet wird.
 
 
 ### § 4 Befugnisse bei der Prüfung von Geschäftsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000503360)
 
 (1) Zur Durchführung der Prüfungen nach § 2 Absatz 1 sind die Behörden
 der Zollverwaltung und die sie gemäß § 2 Absatz 4 unterstützenden
@@ -527,6 +534,7 @@ sonstige Leistungen im Zusammenhang mit einem Grundstück zu nehmen.
 
 
 ### § 5 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000607360)
 
 (1) Arbeitgeber, tatsächlich oder scheinbar beschäftigte Arbeitnehmer
 und Arbeitnehmerinnen, Auftraggeber von Dienst- oder Werkleistungen,
@@ -613,6 +621,7 @@ zurückzugeben oder die Daten unverzüglich zu löschen.
 
 
 ### § 5a Unzulässiges Anbieten und Nachfragen der Arbeitskraft
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002800360)
 
 (1) Es ist einer Person verboten, ihre Arbeitskraft als Tagelöhner im
 öffentlichen Raum aus einer Gruppe heraus in einer Weise anzubieten,
@@ -628,6 +637,7 @@ das Betreten eines Ortes verbieten.
 
 
 ### § 6 Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000708125)
 
 (1) Die Behörden der Zollverwaltung und die sie gemäß § 2 Absatz 4
 unterstützenden Stellen sind verpflichtet, einander die für deren
@@ -803,6 +813,7 @@ Kraftfahrern im Straßenverkehrssektor und zur Änderung der Richtlinie
 Übermittlung personenbezogener
 
 ### § 6a Daten an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002701360)
 
 (1) Die Behörden der Zollverwaltung können personenbezogene Daten, die
 in Zusammenhang mit einem der in § 2 Absatz 1 genannten
@@ -923,6 +934,7 @@ Rechtshilfe in Strafsachen.
 
 
 ### § 7 Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000804360)
 
 (1) Wurden Angebote oder Werbemaßnahmen ohne Angabe von Name und
 Anschrift veröffentlicht und bestehen in diesem Zusammenhang
@@ -983,10 +995,12 @@ die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und
 
 
 ## Abschnitt 3 - Bußgeld- und Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000300000)
 
 
 
 ### § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE000903360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1163,9 +1177,11 @@ unverzüglich danach gegenüber der Einzugsstelle
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001002123)
 
 
 ### § 10 Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und zu ungünstigen Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001101377)
 
 (1) Wer vorsätzlich eine in § 404 Abs. 2 Nr. 3 des Dritten Buches
 Sozialgesetzbuch bezeichnete Handlung begeht und den Ausländer zu
@@ -1182,6 +1198,7 @@ aus grobem Eigennutz handelt.
 
 
 ### § 10a Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002602360)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes
@@ -1191,6 +1208,7 @@ nach § 232a Absatz 1 bis 5 oder § 232b des Strafgesetzbuchs befindet.
 
 
 ### § 11 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001205360)
 
 (1) Wer
 
@@ -1233,10 +1251,12 @@ die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ## Abschnitt 4 - Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000400000)
 
 
 
 ### § 12 Allgemeines zu den Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001305360)
 
 (1) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten sind
@@ -1283,6 +1303,7 @@ Fragen an Betroffene, Zeugen und Sachverständige zu richten.
 
 
 ### § 13 Zusammenarbeit in Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001402360)
 
 (1) Die Behörden der Zollverwaltung arbeiten insbesondere mit den in §
 2 Absatz 4 genannten unterstützenden Stellen zusammen.
@@ -1305,6 +1326,7 @@ Erkenntnisse sind.
 
 
 ### § 14 Ermittlungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001502360)
 
 (1) Die Behörden der Zollverwaltung haben bei der Verfolgung von
 Straftaten und Ordnungswidrigkeiten, die mit einem der in § 2 Abs. 1
@@ -1341,6 +1363,7 @@ durchführen.
 
 
 ### § 14a Selbstständige Durchführung von Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002900360)
 
 (1) Die Behörden der Zollverwaltung führen in den Fällen, in denen
 ihnen die Befugnisse nach § 14 zustehen, die Ermittlungsverfahren nach
@@ -1428,6 +1451,7 @@ ziehen.
 
 
 ### § 14b Rechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE003000360)
 
 (1) Führen die Behörden der Zollverwaltung das Ermittlungsverfahren
 nach § 14a selbstständig durch, so nehmen sie die Rechte und Pflichten
@@ -1459,6 +1483,7 @@ beantragt oder vom Gericht angeordnet ist.
 
 
 ### § 14c Sachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE003100360)
 
 (1) Sachlich zuständig für die Durchführung des selbstständigen
 Ermittlungsverfahrens nach § 14a ist das Hauptzollamt.
@@ -1496,10 +1521,12 @@ davon in Kenntnis zu setzen.
 
 
 ## Abschnitt 5 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000500000)
 
 
 
 ### § 15 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001600000)
 
 Für die Wahrnehmung der Aufgaben nach diesem Gesetz durch die Behörden
 der Zollverwaltung gelten hinsichtlich der Sozialdaten die
@@ -1511,6 +1538,7 @@ bleiben unberührt.
 
 
 ### § 16 Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001707360)
 
 (1) Die Behörden der Zollverwaltung führen ein zentrales
 Informationssystem für die Finanzkontrolle Schwarzarbeit, in dem die
@@ -1629,6 +1657,7 @@ anzuhören.
 
 
 ### § 17 Übermittlung von Daten aus dem zentralen Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001805360)
 
 (1) Die Übermittlung von Daten aus dem zentralen Informationssystem
 für die Finanzkontrolle Schwarzarbeit erfolgt auf Ersuchen an
@@ -1713,6 +1742,7 @@ Zehnten Buches Sozialgesetzbuch.
 
 
 ### § 18 Auskunft an die betroffene Person
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE001900000)
 
 Für die Auskunft an die betroffene Person gilt § 83 des Zehnten Buches
 Sozialgesetzbuch. Die Auskunft bedarf des Einvernehmens der
@@ -1721,6 +1751,7 @@ betrifft, das zu einem Strafverfahren geführt hat.
 
 
 ### § 19 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002002360)
 
 Die Daten im zentralen Informationssystem für die Finanzkontrolle
 Schwarzarbeit und die dazugehörigen Verfahrensakten in Papierform sind
@@ -1758,10 +1789,12 @@ Sozialgesetzbuch zu löschen und zu vernichten, spätestens jedoch
 
 
 ## Abschnitt 6 - Verwaltungsverfahren, Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNG000600000)
 
 
 
 ### § 20 Entschädigung der Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002100000)
 
 Werden Zeugen und Sachverständige von den Behörden der Zollverwaltung
 herangezogen, so erhalten sie auf Antrag in entsprechender Anwendung
@@ -1770,6 +1803,7 @@ oder Vergütung.
 
 
 ### § 21 Ausschluss von öffentlichen Aufträgen
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002206360)
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder
 Dienstleistungsauftrag der in den §§ 99 und 100 des Gesetzes gegen
@@ -1819,6 +1853,7 @@ nach § 241 Abs. 2 des Bürgerlichen Gesetzbuchs gleich.
 
 
 ### § 22 Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002300000)
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten die Vorschriften
 der Abgabenordnung sinngemäß für das Verwaltungsverfahren der Behörden
@@ -1826,6 +1861,7 @@ der Zollverwaltung nach diesem Gesetz.
 
 
 ### § 23 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html#BJNR184210004BJNE002400000)
 
 In öffentlich-rechtlichen Streitigkeiten über Verwaltungshandeln der
 Behörden der Zollverwaltung nach diesem Gesetz ist der Finanzrechtsweg

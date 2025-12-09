@@ -20,6 +20,7 @@ G v. 25.3.1997 I 726 mWv 4.4.1997
 
 
 ## § 7 Steuerliche Behandlung der Aufwendungen für Schutzräume
+[Direktlink](https://www.gesetze-im-internet.de/schbaug/BJNR012320965.html#BJNR012320965BJNE001501308)
 
 (1) Werden Schutzräume nach § 2 errichtet, so können von den für die
 Schutzräume aufgewendeten Herstellungskosten, soweit sie durch
@@ -88,6 +89,7 @@ erforderlich ist, der Zeitpunkt, in dem der Bauantrag gestellt wird.
 
 
 ## § 12 Förderung bei freiwilliger Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/schbaug/BJNR012320965.html#BJNR012320965BJNE002001301)
 
 (1) (weggefallen)
 

@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 7110-3-74 v. 8.12.1982 I 1677 (SchuhmMstrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000100000)
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
 Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
 Prüfung in den Teilen I und II der Meisterprüfung im Schuhmacher-
@@ -40,6 +42,7 @@ Prüfungsteilen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000300000)
 
 Im Schuhmacher-Handwerk sind zum Zwecke der Meisterprüfung folgende
 Fertigkeiten und Kenntnisse zum Nachweis der beruflichen
@@ -128,6 +131,7 @@ Handlungskompetenz zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche
@@ -148,6 +152,7 @@ Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen an
@@ -178,6 +183,7 @@ Dokumentationsunterlagen mit 10 Prozent.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000600000)
 
 In dem Fachgespräch hat der Prüfling nachzuweisen, dass er befähigt
 ist,
@@ -199,6 +205,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung
@@ -213,6 +220,7 @@ Stellungskorrekturen vorzunehmen.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt dauert drei Arbeitstage. Das
 Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe
@@ -231,6 +239,7 @@ jeweils mit mindestens 30 Punkten bewertet worden sein muss.
 
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE000900000)
 
 (1) In der Prüfung in Teil II hat der Prüfling in den in Absatz 2 Satz
 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
@@ -398,6 +407,7 @@ verknüpft werden:
 
 
 ## § 9 Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE001000000)
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie dauert
 in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs
@@ -428,6 +438,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -438,6 +449,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE001200000)
 
 (1) Die bis zum 30. Juni 2014 begonnenen Prüfungsverfahren werden nach
 den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur
@@ -453,6 +465,7 @@ Vorschriften ablegen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schuhmmstrv_2014/BJNR022000014.html#BJNR022000014BJNE001300000)
 
 Diese Verordnung tritt am 1. Juli 2014 in Kraft. Gleichzeitig tritt
 die Schuhmachermeisterverordnung vom 8. Dezember 1982 (BGBl. I S.

@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Dienstrecht
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNG000100000)
 
 
 ### § 1 Beurlaubung
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000101126)
 
 (1) Bis zum 31. Dezember 2017 können zur Verringerung der Zahl der
 Soldatinnen und Soldaten Berufssoldatinnen und Berufssoldaten auf
@@ -95,6 +97,7 @@ Beitragsbemessungsgrundlage gilt Absatz 5 Satz 3 entsprechend.
 
 
 ### § 2 Versetzung in den Ruhestand vor Erreichen der Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000201126)
 
 (1) Bis zum 31. Dezember 2017 können bis zu 2 170 Berufssoldatinnen
 und Berufssoldaten mit ihrer Zustimmung in den Ruhestand versetzt
@@ -148,9 +151,11 @@ Wehrdienstverhältnisses entfällt dieser Zusatz.
 
 
 ## Abschnitt 2 - Finanzieller Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNG000200000)
 
 
 ### § 3 Einmalzahlung
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000301126)
 
 (1) Berufssoldatinnen und Berufssoldaten, die bis zum 31. Dezember
 2017 nach § 1 Absatz 2 Satz 1 entlassen sind, erhalten eine nicht
@@ -199,6 +204,7 @@ volles Jahr gilt.
 
 
 ### § 4 Kosten der Teilnahme an Qualifizierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000400000)
 
 Die notwendigen Kosten der Teilnahme an Qualifizierungsmaßnahmen für
 den Wechsel in den öffentlichen Dienst im Sinne des § 1 werden vom
@@ -206,9 +212,11 @@ Bund bis zum 31. Dezember 2017 übernommen.
 
 
 ## Abschnitt 3 - Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNG000300000)
 
 
 ### § 5 Anwendung des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000500000)
 
 Die Versorgung
 
@@ -239,6 +247,7 @@ Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
 
 
 ### § 6 Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 1
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000601126)
 
 (1) Eine Berufssoldatin oder ein Berufssoldat, die oder der nach § 2
 Absatz 1 Satz 1 in den Ruhestand versetzt worden ist, erhält neben dem
@@ -291,6 +300,7 @@ Kalendermonate jeweils ein Zwölftel von 10 000 Euro gewährt.
 
 
 ### § 7 Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000701126)
 
 (1) Im Fall des § 2 Absatz 1 Satz 2 erhöht sich die ruhegehaltfähige
 Dienstzeit um die Zeit von der Versetzung in den Ruhestand bis zu dem
@@ -357,6 +367,7 @@ ruhegehaltfähige Dienstzeit berücksichtigt worden wären.
 
 
 ### § 8 Einmaliger Ausgleich bei Umwandlung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000801126)
 
 Berufssoldatinnen und Berufssoldaten, deren Dienstverhältnis bis zum
 31\. Dezember 2017 nach § 45a des Soldatengesetzes umgewandelt wird,
@@ -372,6 +383,7 @@ Dienst zusteht.
 
 
 ### § 9 Freistellung vom militärischen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE000901126)
 
 Für Berufsoldatinnen und Berufssoldaten, die wegen Überschreitens der
 für Offiziere in Verwendungen als Flugzeugführer oder
@@ -387,6 +399,7 @@ Soldaten erforderlich ist.
 
 
 ### § 10 Berufsförderung und Dienstzeitversorgung bei Verkürzung der Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE001001126)
 
 Die aus den §§ 7, 16 und 19 des Soldatenversorgungsgesetzes sich
 ergebenden Ansprüche der Soldatinnen auf Zeit und Soldaten auf Zeit,
@@ -398,6 +411,7 @@ dieses Gesetzes begonnen hat.
 
 
 ### § 11 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/skpersstruktanpg/BJNR158310012.html#BJNR158310012BJNE001100000)
 
 Das Bundesministerium der Verteidigung prüft im Einvernehmen mit dem
 Bundesministerium des Innern die Regelungen dieses Gesetzes bis zum

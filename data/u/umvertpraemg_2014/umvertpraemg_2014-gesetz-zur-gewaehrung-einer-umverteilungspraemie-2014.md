@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/umvertpr_mg_2014/BJNR010600014.html#BJNR010600014BJNE000200000)
 
 (1) Dieses Gesetz dient der Durchführung der Artikel 72a und 72b der
 Verordnung (EG) Nr. 73/2009 des Rates vom 19. Januar 2009 mit
@@ -46,6 +47,7 @@ des Marktorganisationsgesetzes mit den Maßgaben, dass
 
 
 ## § 2 Umverteilungsprämie 2014
+[Direktlink](https://www.gesetze-im-internet.de/umvertpr_mg_2014/BJNR010600014.html#BJNR010600014BJNE000300000)
 
 (1) Ein Betriebsinhaber erhält auf Antrag für das Jahr 2014 eine
 Zahlung nach Artikel 72a Absatz 1 der Verordnung (EG) Nr. 73/2009
@@ -74,6 +76,7 @@ beihilfefähige Fläche aktiviert worden ist.
 
 
 ## § 3 Finanzvolumen und Beträge
+[Direktlink](https://www.gesetze-im-internet.de/umvertpr_mg_2014/BJNR010600014.html#BJNR010600014BJNE000400000)
 
 (1) Für die Festlegung des Betrages je Zahlungsanspruch der Gruppe 1
 und des Betrages je Zahlungsanspruch der Gruppe 2 wird ein
@@ -98,6 +101,7 @@ Zahlungsanspruch der Gruppe 2 im Bundesanzeiger bekannt.
 
 
 ## § 4 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/umvertpr_mg_2014/BJNR010600014.html#BJNR010600014BJNE000500000)
 
 Die zuständigen Behörden der Länder teilen dem Bundesministerium für
 Ernährung und Landwirtschaft bis zum 15. September 2014 die Summe der
@@ -107,6 +111,7 @@ Zahlungsansprüche der Gruppe 2 mit dem Faktor 0,6 berücksichtigt.
 
 
 ## § 5 Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umvertpr_mg_2014/BJNR010600014.html#BJNR010600014BJNE000600000)
 
 Die Gewährung einer Umverteilungsprämie 2014 ist ausgeschlossen, wenn
 ein Betriebsinhaber seinen Betrieb nach dem 19. Oktober 2011
@@ -117,6 +122,7 @@ Aufspaltung hervorgegangen ist.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/umvertpr_mg_2014/BJNR010600014.html#BJNR010600014BJNE000700000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

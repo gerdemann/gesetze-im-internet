@@ -24,6 +24,7 @@ demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -40,6 +41,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000200000)
 
 Der Ausbildungsberuf Fachkraft für Holz- und Bautenschutzarbeiten und
 der darauf aufbauende Ausbildungsberuf Holz- und Bautenschützer /Holz-
@@ -58,6 +60,7 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000300000)
 
 Die Ausbildung dauert im Ausbildungsberuf Fachkraft für Holz- und
 Bautenschutzarbeiten zwei Jahre und im Ausbildungsberuf Holz- und
@@ -65,6 +68,7 @@ Bautenschützer/Holz- und Bautenschützerin drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000400000)
 
 Die Berufsausbildung im Ausbildungsberuf Holz- und Bautenschützer
 /Holz- und Bautenschützerin gliedert sich in gemeinsame
@@ -73,6 +77,7 @@ Holzschutz oder Bautenschutz.
 
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung für den Ausbildungsberuf Fachkraft
 für Holz- und Bautenschutzarbeiten sind mindestens die im
@@ -287,6 +292,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -342,6 +348,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung für den Ausbildungsberuf Fachkraft für Holz- und Bautenschutzarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll am Ende des ersten Ausbildungsjahres
@@ -423,6 +430,7 @@ Vorgaben:
 
 
 ## § 7 Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Fachkraft für Holz- und Bautenschutzarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000800000)
 
 (1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der
@@ -696,6 +704,7 @@ im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 8 Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE000900000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung besteht aus den zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die
@@ -717,6 +726,7 @@ Abschlussprüfung/Gesellenprüfung mit 60 Prozent gewichtet.
 
 
 ## § 9 Teil 1 der Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll am Ende des
 zweiten Ausbildungsjahres stattfinden.
@@ -757,6 +767,7 @@ Nr. 1 bis 3 sowie Abs. 4 bis 6.
 
 
 ## § 10 Teil 2 der Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin in der Fachrichtung Holzschutz
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
 in der Anlage Teil II Abschnitt A, B und D aufgeführten Fertigkeiten,
@@ -967,6 +978,7 @@ Bautenschutzarbeiten erreicht.
 
 
 ## § 11 Teil 2 der Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin in der Fachrichtung Bautenschutz
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE001200000)
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
 in der Anlage Teil II Abschnitt A, C und D aufgeführten Fertigkeiten,
@@ -1176,6 +1188,7 @@ Bautenschutzarbeiten erreicht.
 
 
 ## § 12 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE001300000)
 
 (1) Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft
 für Holz- und Bautenschutzarbeiten kann die Berufsausbildung im
@@ -1192,12 +1205,14 @@ Abschlussprüfung/Gesellenprüfung nach § 9 dieser Verordnung.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE001400000)
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung im Holz- und Bautenschutzgewerbe
+[Direktlink](https://www.gesetze-im-internet.de/holzbauschausbv/BJNR061000007.html#BJNR061000007BJNE001500000)
 
 (Fundstelle: BGBl. I 2007, 617 - 627)
 

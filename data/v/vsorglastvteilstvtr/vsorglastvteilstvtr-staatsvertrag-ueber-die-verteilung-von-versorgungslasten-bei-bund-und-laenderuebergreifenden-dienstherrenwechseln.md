@@ -19,6 +19,7 @@ Fundstelle
 Stand: Der Staatsvertrag ist gem. § 17 Abs. 1 Satz 1 iVm Bek. v. 8.10.2010 I 1404 am 1.1.2011 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000100000)
 
 
 *   Die Bundesrepublik Deutschland,
@@ -76,6 +77,7 @@ schließen nachstehenden Staatsvertrag:
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000200000)
 
 Mit dem Gesetz zur Änderung des Grundgesetzes vom 28. August 2006
 wurden die Gesetzgebungszuständigkeiten im Dienstrecht neu geordnet.
@@ -95,9 +97,11 @@ abgegolten werden.
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000300000)
 
 Dieser Staatsvertrag gilt für den Bund, die Länder sowie die
 Gemeinden, Gemeindeverbände und sonstigen, unter der Aufsicht des
@@ -106,6 +110,7 @@ Stiftungen des öffentlichen Rechts.
 
 
 ### § 2 Dienstherrenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000400000)
 
 1Ein Dienstherrenwechsel liegt vor, wenn eine Person, die in einem
 Beamten-, Soldaten- oder Richterverhältnis zu einem in § 1 genannten
@@ -118,9 +123,11 @@ Staatsvertrag nur, wenn dies gesetzlich bestimmt ist.
 
 
 ## Abschnitt 2 - Versorgungslastenteilung
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNG000200000)
 
 
 ### § 3 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000500000)
 
 (1) Eine Versorgungslastenteilung findet bei einem Dienstherrenwechsel
 statt, wenn der abgebende Dienstherr dem Dienstherrenwechsel
@@ -145,6 +152,7 @@ Nachversicherung durchgeführt wurde.
 
 
 ### § 4 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000600000)
 
 (1) Die Versorgungslastenteilung erfolgt durch Zahlung einer
 Abfindung.
@@ -191,6 +199,7 @@ unter Zugrundelegung eines Beitragssatzes in Höhe von 15 % zu zahlen.
 
 
 ### § 5 Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000700000)
 
 (1) Bezüge sind die monatlichen ruhegehaltfähigen Bezüge
 einschließlich Sonderzahlung.
@@ -206,6 +215,7 @@ Dienstherrenwechsel zustehen würde.
 
 
 ### § 6 Dienstzeiten
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000800000)
 
 (1)
 1Dienstzeiten sind die Zeiten, die beim abgebenden Dienstherrn und bei
@@ -223,6 +233,7 @@ den abgebenden Dienstherrn entrichtet.
 
 
 ### § 7 Weitere Zahlungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE000900000)
 
 (1) Liegt ein Dienstherrenwechsel ohne die Voraussetzungen des § 3 vor
 und hat der abgebende Dienstherr aufgrund eines früheren
@@ -247,6 +258,7 @@ zurückzuzahlen.
 
 
 ### § 8 Dokumentationspflichten und Zahlungsmodalitäten
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001000000)
 
 (1) Der zahlungspflichtige Dienstherr hat die Berechnung des
 Zahlungsbetrages durchzuführen und dem berechtigten Dienstherrn
@@ -265,9 +277,11 @@ vereinbaren.
 
 
 ## Abschnitt 3 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNG000300000)
 
 
 ### § 9 Ersetzung von § 107b BeamtVG
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001100000)
 
 1§ 107b BeamtVG wird durch diesen Staatsvertrag ersetzt.
 2Für Erstattungsansprüche, die nach dieser Vorschrift aufgrund eines
@@ -277,6 +291,7 @@ ausschließlich die Regelungen der §§ 10 bis 12.
 
 
 ### § 10 Laufende Erstattungen nach § 107b BeamtVG
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001200000)
 
 (1) Ist in Fällen des § 9 der Versorgungsfall vor Inkrafttreten des
 Staatsvertrages eingetreten, besteht der Erstattungsanspruch mit
@@ -305,6 +320,7 @@ eine Änderung erstattungsrelevanter Umstände.
 Dienstherrenwechsel ohne
 
 ### § 11 laufende Erstattungen nach § 107b BeamtVG
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001300000)
 
 (1) Ist in Fällen des § 9 der Versorgungsfall nicht vor Inkrafttreten
 des Staatsvertrages eingetreten, ist anstelle der Erstattung nach §
@@ -360,6 +376,7 @@ für die Abfindung relevanten Umstände.
 Erneuter Dienstherrenwechsel
 
 ### § 12 nach Inkrafttreten des Staatsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001400000)
 
 1Erfolgt in Fällen des § 11 nach Inkrafttreten des Staatsvertrages ein
 weiterer Dienstherrenwechsel, der die Voraussetzungen des § 3 erfüllt,
@@ -378,6 +395,7 @@ Satz 3 gilt entsprechend.
 Quotelung ohne
 
 ### § 13 Erstattungspflicht nach § 107b BeamtVG
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001600360)
 
 1Haben vor Inkrafttreten des Staatsvertrages Dienstherrenwechsel
 stattgefunden, die die Voraussetzungen des § 107b BeamtVG in der
@@ -393,21 +411,25 @@ Staatsvertrages bis zum 31. Dezember 2016 erfolgen.
 
 
 ### § 14 Entsprechende Anwendung auf § 92b SVG
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001500000)
 
 Die Regelungen der §§ 9 bis 13 gelten entsprechend für § 92b SVG.
 
 Fortgeltung
 
 ### § 15 des § 107c BeamtVG und des § 92c SVG
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001600000)
 
 § 107c BeamtVG und § 92c SVG in der am 31. August 2006 geltenden
 Fassung finden weiter Anwendung.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNG000400000)
 
 
 ### § 16 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001700000)
 
 1Dieser Staatsvertrag kann von jeder Vertragspartei zum Schluss des
 Kalenderjahres mit einer Frist von einem Jahr gekündigt werden.
@@ -419,6 +441,7 @@ unverzüglich den übrigen Vertragsparteien übermittelt.
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001800000)
 
 (1)
 1Dieser Staatsvertrag tritt am 1. Januar 2011 für die Parteien in
@@ -436,6 +459,7 @@ Ratifikationsurkunden unverzüglich mit.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtr/BJNR129000010.html#BJNR129000010BJNE001900000)
 
 
 *    *   Für die Bundesrepublik Deutschland

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmfjubano/BJNR520700962.html#BJNR520700962BJNE000100314)
 
 (1) Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
 Jubiläumszuwendungen an Beamte und Richter des Bundes vom 24. Mai 1962
@@ -50,11 +51,13 @@ Bundeszollverwaltung in Offenbach (Main).
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmfjubano/BJNR520700962.html#BJNR520700962BJNE000200314)
 
 Diese Anordnung tritt mit Wirkung vom 4. August 1962 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfjubano/BJNR520700962.html#BJNR520700962BJNE000300314)
 
 Der Bundesminister der Finanzen
 

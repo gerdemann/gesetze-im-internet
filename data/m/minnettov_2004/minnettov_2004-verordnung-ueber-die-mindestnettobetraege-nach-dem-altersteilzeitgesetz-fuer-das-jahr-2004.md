@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/minnettov_2004/BJNR311400003.html#BJNR311400003BJNE000100000)
 
 Auf Grund des § 15 Satz 1 Nr. 1 des Altersteilzeitgesetzes vom 23.
 Juli 1996 (BGBl. I S. 1078), der durch Artikel 1 Nr. 5 des Gesetzes
@@ -30,6 +31,7 @@ und Arbeit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/minnettov_2004/BJNR311400003.html#BJNR311400003BJNE000200000)
 
 Für das Jahr 2004 ergeben sich die Mindestnettobeträge nach § 3 Abs. 1
 Nr. 1 Buchstabe a des Altersteilzeitgesetzes aus der dieser Verordnung
@@ -37,11 +39,13 @@ als Anlage beigefügten Tabelle.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/minnettov_2004/BJNR311400003.html#BJNR311400003BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/minnettov_2004/BJNR311400003.html#BJNR311400003BJNE000400000)
 
 (Fundstelle: BGBl. I 2003, 3115 - 3138)
 

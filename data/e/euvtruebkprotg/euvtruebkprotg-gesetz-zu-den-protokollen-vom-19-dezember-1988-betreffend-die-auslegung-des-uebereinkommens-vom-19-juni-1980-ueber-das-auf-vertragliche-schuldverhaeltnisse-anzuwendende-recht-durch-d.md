@@ -25,6 +25,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euvtr_bkprotg/BJNR091420995.html#BJNR091420995BJNE000100310)
 
 Den folgenden in Brüssel am 19. Dezember 1988 von der Bundesrepublik
 Deutschland unterzeichneten Protokollen wird zugestimmt:
@@ -48,6 +49,7 @@ Die Protokolle werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euvtr_bkprotg/BJNR091420995.html#BJNR091420995BJNE000200310)
 
 (1) In dem Vorlagebeschluß an den Gerichtshof zur Vorabentscheidung
 ist die zu klärende Auslegungsfrage darzulegen und
@@ -70,12 +72,14 @@ ist der Sach- und Streitstand in gedrängter Form darzustellen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euvtr_bkprotg/BJNR091420995.html#BJNR091420995BJNE000301377)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt
 die zuständige Stelle im Sinne des Artikels 3 des Ersten Protokolls.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/euvtr_bkprotg/BJNR091420995.html#BJNR091420995BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

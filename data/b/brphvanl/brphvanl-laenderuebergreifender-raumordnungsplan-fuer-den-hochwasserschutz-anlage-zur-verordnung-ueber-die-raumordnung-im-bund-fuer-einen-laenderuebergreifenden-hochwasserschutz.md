@@ -19,6 +19,7 @@ Fundstelle
 (zu § 1)
 
 ## Anlage Länderübergreifender Raumordnungsplan für den Hochwasserschutz
+[Direktlink](https://www.gesetze-im-internet.de/brphvanl/BJNR371210021.html#BJNR371210021BJNE000100000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 57 vom 25. August
 2021, S. 1 - 35)

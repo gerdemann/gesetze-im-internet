@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verklv/BJNR100500007.html#BJNR100500007BJNE000100000)
 
 Auf Grund des § 522 Abs. 2 des Handelsgesetzbuchs in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten
@@ -29,6 +30,7 @@ verordnet das Auswärtige Amt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verklv/BJNR100500007.html#BJNR100500007BJNE000200000)
 
 Außerhalb des Geltungsbereichs des Grundgesetzes werden Verklarungen
 durch folgende Auslandsvertretungen aufgenommen:
@@ -155,6 +157,7 @@ durch folgende Auslandsvertretungen aufgenommen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/verklv/BJNR100500007.html#BJNR100500007BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

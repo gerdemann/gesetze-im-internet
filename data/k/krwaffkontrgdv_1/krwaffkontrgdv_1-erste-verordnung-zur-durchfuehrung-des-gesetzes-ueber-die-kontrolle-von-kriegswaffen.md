@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_1/BJNR006490961.html#BJNR006490961BJNE000100311)
 
 Auf Grund des § 11 Abs. 2 und 3 des Gesetzes über die Kontrolle von
 Kriegswaffen vom 20. April 1961 (Bundesgesetzbl. I S. 444) wird von
@@ -30,6 +31,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_1/BJNR006490961.html#BJNR006490961BJNE000205311)
 
 (1) Die Befugnis zur Erteilung und zum Widerruf der Genehmigung in den
 Fällen der §§ 2, 3 Abs. 1 und 2 und des § 4a des Gesetzes wird
@@ -62,6 +64,7 @@ im Einvernehmen mit dem Auswärtigen Amt aus.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_1/BJNR006490961.html#BJNR006490961BJNE000306377)
 
 Die dem Bundesministerium für Wirtschaft und Energie nach § 14 Abs. 1
 Nr. 1 des Gesetzes zustehenden Überwachungsbefugnisse werden auf das
@@ -69,6 +72,7 @@ Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_1/BJNR006490961.html#BJNR006490961BJNE000400311)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

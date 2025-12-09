@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000100000)
 
 Auf Grund des § 8a Abs. 3 und des § 13b Satz 3 der
 Wirtschaftsprüferordnung in der Fassung der Bekanntmachung vom 5.
@@ -31,10 +32,12 @@ verordnet das Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## Teil 1 - Anerkennung von Studiengängen (§ 8a der Wirtschaftsprüferordnung)
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNG000100000)
 
 
 
 ### § 1 Besondere Eignung von Masterstudiengängen
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000200000)
 
 Leistungen aus einem Masterstudiengang im Sinn des § 19 des
 Hochschulrahmengesetzes werden auf das Wirtschaftsprüfungsexamen
@@ -46,6 +49,7 @@ der Wirtschaftsprüferordnung).
 
 
 ### § 2 Anerkennungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000300000)
 
 (1) Die Anerkennung eines Masterstudiengangs nach § 1 Satz 2 setzt
 voraus, dass mit dem Studiengang das Ziel erreicht wird, den
@@ -117,6 +121,7 @@ wird.
 
 
 ### § 3 Anforderungen an den Zugang zum Masterstudiengang und dessen Ausgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000401360)
 
 Die Anerkennung eines Masterstudiengangs nach § 1 Satz 2 setzt voraus,
 dass die Prüfungsordnung
@@ -145,6 +150,7 @@ dass die Prüfungsordnung
 
 
 ### § 4 Referenzrahmen
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000503118)
 
 (1) Die Anforderungen an die einzelnen Studien- und Prüfungsziele des
 Masterstudiengangs auf Grundlage der in § 2 genannten
@@ -172,6 +178,7 @@ von der Prüfungsstelle elektronisch geführt und zugänglich gemacht.
 
 
 ### § 5 Akkreditierung
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000602118)
 
 (1) Die Akkreditierung und Reakkreditierung des Masterstudiengangs
 unter Berücksichtigung der Anforderungen dieser Verordnung erfolgt auf
@@ -196,6 +203,7 @@ Betriebswirtschaftslehre, Volkswirtschaftslehre" und
 
 
 ### § 6 Anrechnung von Leistungen aus dem Masterstudiengang auf das Wirtschaftsprüfungsexamen und Anrechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000702125)
 
 (1) Die Prüfungsstelle stellt auf Grundlage der Akkreditierung des
 Masterstudiengangs gemäß § 5 die Anrechnung von Leistungen auf das
@@ -237,10 +245,12 @@ entsprechend.
 
 
 ## Teil 2 - Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen (§ 13b der Wirtschaftsprüferordnung)
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNG000200000)
 
 
 
 ### § 7 Voraussetzungen der Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000800000)
 
 (1) Leistungsnachweise für schriftliche und mündliche Prüfungen in
 einem oder beiden der Prüfungsgebiete "Angewandte
@@ -290,6 +300,7 @@ beurteilen.
 
 
 ### § 8 Bestätigung der Gleichwertigkeit an die Hochschule
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE000902125)
 
 (1) Die Hochschule kann vor jedem Semester oder Hochschuljahr vorab
 bei der Prüfungsstelle eine Bestätigung beantragen, aus der
@@ -307,6 +318,7 @@ gilt § 5 Abs. 5 der Wirtschaftsprüferordnung entsprechend.
 
 
 ### § 9 Anrechnung auf das Wirtschaftsprüfungsexamen
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE001004125)
 
 (1) Die Prüfungsstelle stellt im Zulassungsverfahren zum
 Wirtschaftsprüfungsexamen die Anrechnung nach § 7 Abs. 1 und die
@@ -349,10 +361,12 @@ entsprechend.
 
 
 ## Teil 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNG000300000)
 
 
 
 ### § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE001101377)
 
 (1) Eine Anrechnung des Masterabschlusses auf das
 Wirtschaftsprüfungsexamen durch die Prüfungsstelle nach Teil 1 findet
@@ -374,11 +388,13 @@ spätestens am 17. Juni 2009 begonnen wurde.
 
 
 ### § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wpanrv/BJNR152000005.html#BJNR152000005BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

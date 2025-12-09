@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beherbmeldv/BJNR121800020.html#BJNR121800020BJNE000100000)
 
 Auf Grund des § 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013
 (BGBl. I S. 1084), der durch Artikel 1 Nummer 4 Buchstabe a des
@@ -29,6 +30,7 @@ verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beherbmeldv/BJNR121800020.html#BJNR121800020BJNE000201130)
 
 Diese Verordnung regelt die Einzelheiten der elektronischen
 Speicherung und Bereitstellung der Daten von beherbergten
@@ -39,6 +41,7 @@ Bundesmeldegesetzes.
 
 
 ## § 2 Dateispezifische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/beherbmeldv/BJNR121800020.html#BJNR121800020BJNE000301130)
 
 (1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der
 Einrichtungen haben zu jeder beherbergten ausländischen Person nach §
@@ -81,6 +84,7 @@ bleiben unberührt.
 
 
 ## § 3 Bereitstellung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/beherbmeldv/BJNR121800020.html#BJNR121800020BJNE000400000)
 
 Verlangt eine nach § 30 Absatz 4 Satz 3 des Bundesmeldegesetzes
 berechtigte Behörde gespeicherte Dateien, so hat der Leiter der
@@ -90,12 +94,14 @@ den Anforderungen des § 2 zur Einsichtnahme bereitzustellen und eine
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beherbmeldv/BJNR121800020.html#BJNR121800020BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 5)
 
 ## Anlage Bei der Speicherung der Daten im Datensatz zu verwendende Bezeichner
+[Direktlink](https://www.gesetze-im-internet.de/beherbmeldv/BJNR121800020.html#BJNR121800020BJNE000601130)
 
 (Fundstelle: BGBl. I 2020, 1219)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2009-11/BJNR388200009.html#BJNR388200009BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
@@ -52,11 +53,13 @@ Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2009-11/BJNR388200009.html#BJNR388200009BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2009-11/BJNR388200009.html#BJNR388200009BJNE000300000)
 
 (Fundstelle: BGBl. I 2009, 3882)
 

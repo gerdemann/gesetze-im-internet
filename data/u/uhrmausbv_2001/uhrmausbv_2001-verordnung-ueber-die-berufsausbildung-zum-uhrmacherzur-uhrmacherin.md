@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000100305)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -33,6 +34,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000200305)
 
 Der Ausbildungsberuf Uhrmacher/Uhrmacherin wird
 
@@ -47,11 +49,13 @@ Der Ausbildungsberuf Uhrmacher/Uhrmacherin wird
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000300305)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000400305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -132,6 +136,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000500305)
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -150,12 +155,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000600305)
 
 Der Ausbildende hat unter Zugrundelegen des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000700305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -164,6 +171,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000800305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -197,6 +205,7 @@ Durchführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE000900305)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -345,6 +354,7 @@ mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE001000305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -353,12 +363,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE001100305)
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
+[Direktlink](https://www.gesetze-im-internet.de/uhrmausbv_2001/BJNR147600001.html#BJNR147600001BJNE001200305)
 
 (Fundstelle: BGBl. I 2001, 1479 - 1485)
 

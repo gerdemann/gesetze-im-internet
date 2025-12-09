@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000100314)
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1959 die
@@ -40,6 +41,7 @@ Versichertenrenten von Berechtigten, die das 65. Lebensjahr im Jahre
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000200314)
 
 Auf Renten, die nach Artikel 2 § 43 Abs. 1 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 § 42
@@ -54,6 +56,7 @@ Neuregelungsgesetzes berechnet worden sind oder berechnet werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000300314)
 
 (1) Anpassungsbetrag ist der Rentenzahlbetrag für Januar 1960
 einschließlich des Kinderzuschusses für jedes Kind, vermindert um den
@@ -94,6 +97,7 @@ Deutsche Mark.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000400314)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Rentenversicherung der Angestellten, die auf Versicherungsfällen der
@@ -218,12 +222,14 @@ sind.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000500314)
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so
 ist dieser weiterzuzahlen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000600314)
 
 Soweit bei den Versorgungsrenten nach dem Bundesversorgungsgesetz, den
 Unterhaltshilfen nach dem Lastenausgleichsgesetz, den Leistungen nach
@@ -243,6 +249,7 @@ nicht zu berücksichtigen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000700314)
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche
 Mitteilung zu geben. Ergibt eine spätere Überprüfung, daß die
@@ -259,6 +266,7 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000800314)
 
 (1) Die Vorschriften dieses Gesetzes gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 4
@@ -292,6 +300,7 @@ eingetreten sind, sind diese Vorschriften weiterhin anzuwenden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE000900314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -299,6 +308,7 @@ im Land Berlin.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/rag_2/BJNR007650959.html#BJNR007650959BJNE001000314)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

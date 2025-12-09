@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000100328)
 
 Die Vorschriften dieses Gesetzes sind anzuwenden auf Glaswaren zur
 Verwendung bei Tisch, in der Küche, bei der Toilette, im Büro, zum
@@ -30,6 +31,7 @@ Spiegelglas, Spiegel, Glaswaren für Beleuchtung und Gehäuse für Uhren.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000204118)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -85,6 +87,7 @@ der sonstigen Verbesserung der Messung dient.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000300328)
 
 (1) Wer Erzeugnisse der in § 2 Abs. 1 genannten Art gewerbsmäßig in
 den Verkehr bringt, einführt (§ 4 Abs. 2 Nr. 4 des
@@ -168,6 +171,7 @@ Mitglieder beschränkt.
 
 
 ## § 4 Verwendung von zusätzlichen Symbolen
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000400328)
 
 (1) Werden für Erzeugnisse der in § 2 Abs. 1 genannten Art die
 Bezeichnungen nach § 3 Abs. 1 verwendet, so dürfen zusätzlich die
@@ -189,6 +193,7 @@ werden.
 
 
 ## § 5 Anbringen anderer Aufschriften
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000501308)
 
 Wird eine Marke, eine Firmenbezeichnung oder eine andere Aufschrift
 verwendet, die die Bezeichnungen nach § 3 Abs. 1 oder mit ihnen
@@ -210,6 +215,7 @@ Eigenschaftswort enthalten und
 
 
 ## § 6 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000601360)
 
 Dieses Gesetz ist nicht anzuwenden auf Erzeugnisse, die
 
@@ -237,6 +243,7 @@ Dieses Gesetz ist nicht anzuwenden auf Erzeugnisse, die
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000701377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -274,6 +281,7 @@ Euro geahndet werden.
 
 
 ## § 8 Abfertigung durch Zolldienststellen
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000800328)
 
 Die Nichtbeachtung des § 3 Abs. 1 Satz 1 steht der Abfertigung durch
 die Zolldienststellen nicht entgegen. Die Zolldienststellen sind
@@ -283,6 +291,7 @@ mitzuteilen.
 
 
 ## § 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE000900328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -292,11 +301,13 @@ Dritten Überleitungsgesetzes.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE001000328)
 
 Dieses Gesetz tritt sechs Monate nach seiner Verkündung in Kraft.
 
 
 ## Anlage Methoden zur Bestimmung der chemischen und physikalischen Eigenschaften der Kristallglasgruppen
+[Direktlink](https://www.gesetze-im-internet.de/krglaskennzg/BJNR008570971.html#BJNR008570971BJNE001100328)
 
 Fundstelle des Originaltextes: BGBl. I 1971, 860 u. 861;
 bezgl. der Änderungen vgl. Fußnote

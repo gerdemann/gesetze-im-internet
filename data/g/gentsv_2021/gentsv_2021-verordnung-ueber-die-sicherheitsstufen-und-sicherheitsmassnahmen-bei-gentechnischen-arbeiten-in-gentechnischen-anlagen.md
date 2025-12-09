@@ -19,9 +19,11 @@ Fundstelle
 Stand: Ersetzt V 2121-60-1-4 v. 24.10.1990 I 2340 (GenTSV)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000200000)
 
 Diese Verordnung regelt Sicherheitsanforderungen an gentechnische
 Arbeiten in gentechnischen Anlagen einschließlich der Tätigkeiten im
@@ -31,6 +33,7 @@ Arbeitsschutz- und Sicherheitsmaßnahmen bleiben unberührt.
 
 
 ### § 2 Sicherheitsstufen und Sicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000300000)
 
 (1) Gentechnische Arbeiten in gentechnischen Anlagen sind nach Maßgabe
 der §§ 4 bis 12 den in § 7 Absatz 1 des Gentechnikgesetzes genannten
@@ -57,6 +60,7 @@ Arbeit
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -188,9 +192,11 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ## Abschnitt 2 - Grundlagen und Durchführung der Sicherheitseinstufung
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNG000200000)
 
 
 ### § 4 Grundlagen der Risikobewertung und der Sicherheitseinstufung gentechnischer Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000500000)
 
 Die Risikobewertung und die Zuordnung gentechnischer Arbeiten zu den
 Sicherheitsstufen nach § 7 Absatz 1 des Gentechnikgesetzes erfolgen
@@ -233,6 +239,7 @@ Punkte:
 
 
 ### § 5 Risikobewertung von Organismen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000600000)
 
 (1) Das Gefährdungspotential des Spender- und des Empfänger- oder des
 Ausgangsorganismus sowie des gentechnisch veränderten Organismus
@@ -303,6 +310,7 @@ eine Gesamtbewertung des Vektor-Empfänger-Systems vorzunehmen.
 
 
 ### § 6 Veröffentlichung der Liste risikobewerteter Spender- und Empfängerorganismen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000700000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft veröffentlicht
 regelmäßig nach Anhörung der Zentralen Kommission für die Biologische
@@ -313,6 +321,7 @@ allgemeinen Kriterien gemäß § 5 Absatz 1 zuordnet.
 
 
 ### § 7 Biologische Sicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000800000)
 
 (1) Werden bei gentechnischen Arbeiten biologische
 Sicherheitsmaßnahmen nach den Absätzen 2 bis 6 und nach § 8
@@ -455,6 +464,7 @@ Sicherheit.
 
 
 ### § 8 Empfängerorganismen und Vektoren als Teil einer biologischen Sicherheitsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE000900000)
 
 (1) Die Verwendung eines Empfängerorganismus kann als Teil einer
 biologischen Sicherheitsmaßnahme anerkannt werden, wenn
@@ -507,6 +517,7 @@ Sicherheitsmaßnahme anerkannt werden, wenn
 
 
 ### § 9 Grundsatz der Sicherheitseinstufung
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001000000)
 
 Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten,
 unter Beachtung des Stands der Wissenschaft, nach den §§ 4, 5 und 6
@@ -515,6 +526,7 @@ sowie nach Maßgabe der §§ 10 bis 12 in die vier Sicherheitsstufen des
 
 
 ### § 10 Sicherheitseinstufung von gentechnischen Arbeiten mit Mikroorganismen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001100000)
 
 (1) Gentechnische Arbeiten mit Mikroorganismen sind der
 Sicherheitsstufe 1 zuzuordnen, wenn
@@ -600,6 +612,7 @@ einzuholen.
 
 
 ### § 11 Sicherheitseinstufung von gentechnischen Arbeiten mit Tieren und Pflanzen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001200000)
 
 (1) Gentechnische Arbeiten mit Tieren und Pflanzen sind der
 Sicherheitsstufe 1 zuzuordnen, wenn
@@ -692,6 +705,7 @@ einzuholen.
 
 
 ### § 12 Gentechnische Arbeiten zur Herstellung von hochwirksamen Toxinen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001300000)
 
 (1) Gentechnische Arbeiten, die darauf gerichtet sind, hochwirksame
 Toxine herzustellen, sind der Sicherheitsstufe 3 zuzuordnen.
@@ -705,9 +719,11 @@ berücksichtigen.
 
 
 ## Abschnitt 3 - Sicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNG000300000)
 
 
 ### § 13 Allgemeine Schutzpflicht, Arbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001400000)
 
 (1) Der Betreiber, der gentechnische Arbeiten durchführen lässt, hat
 zum Schutz der in § 1 Nummer 1 des Gentechnikgesetzes genannten
@@ -754,6 +770,7 @@ Betreiber zu regeln, bevor er die gentechnischen Arbeiten aufnimmt.
 
 
 ### § 14 Sicherheitsmaßnahmen für Labor- und für Produktionsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001500000)
 
 (1) Gentechnische Arbeiten der Sicherheitsstufen 1 bis 4 nach § 7
 Absatz 1 Satz 1 des Gentechnikgesetzes im Labor- und im
@@ -779,6 +796,7 @@ Anlage 4 für Tierräume.
 
 
 ### § 15 Sicherheitsmaßnahmen für Gewächshäuser
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001600000)
 
 (1) Werden in Gewächshäusern Pflanzen gezogen, die durch gentechnische
 Arbeiten entstanden sind oder die bei gentechnischen Arbeiten
@@ -796,6 +814,7 @@ Sicherheitsmaßnahmen der Anlage 2 für den Laborbereich.
 
 
 ### § 16 Sicherheitsmaßnahmen für Tierräume
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001700000)
 
 (1) Werden in Tierräumen Tiere gehalten, die durch gentechnische
 Arbeiten entstanden sind oder die bei gentechnischen Arbeiten
@@ -813,6 +832,7 @@ der Anlage 2 für den Laborbereich.
 
 
 ### § 17 Allgemeine Arbeitssicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001800000)
 
 (1) Beschäftigte dürfen mit gentechnischen Arbeiten nur beauftragt
 werden, wenn sie ausreichend qualifiziert und eingewiesen sind.
@@ -885,6 +905,7 @@ Wirksamkeitsprüfung sind zu dokumentieren.
 
 
 ### § 18 Arbeitssicherheit bei Prüfung, Wartung und Veränderung von Anlagen, Apparaturen und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE001900000)
 
 (1) Prüfungs-, Instandhaltungs-, Reinigungs-, Änderungs- oder
 Abbrucharbeiten in oder an Anlagen, Apparaturen oder Einrichtungen, in
@@ -920,6 +941,7 @@ unterweisen.
 
 
 ### § 19 Anpassung von Maßnahmen der Arbeitssicherheit und Überwachung des Arbeitsbereiches
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002000000)
 
 (1) Hat sich der Stand der Sicherheitstechnik eines Arbeitsverfahrens
 fortentwickelt und hat sich die Sicherheitstechnik bewährt und erhöht
@@ -935,6 +957,7 @@ Maßnahmen zu überwachen.
 
 
 ### § 20 Arbeitsmedizinische Präventionsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002100000)
 
 (1) Der Betreiber hat für Beschäftigte, die gentechnische Arbeiten mit
 Organismen durchführen, die eine Gefährdung für die menschliche
@@ -959,6 +982,7 @@ Gemeinsamen Ministerialblatt bekannt geben.
 
 
 ### § 21 Unterrichtung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002200000)
 
 (1) Der Betreiber hat die betroffenen Beschäftigten und, wenn ein
 Betriebs- oder Personalrat vorhanden ist, diesen sowie den
@@ -998,6 +1022,7 @@ Betriebsverfassungsgesetzes oder der Personalvertretungsgesetze sind.
 
 
 ### § 22 Allgemeine Anforderungen an die Abwasser- und Abfallbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002300000)
 
 Abwasser sowie flüssiger und fester Abfall aus gentechnischen Anlagen
 sind im Hinblick auf die von gentechnisch veränderten Organismen
@@ -1007,6 +1032,7 @@ Anforderungen an die Abwasser- und Abfallentsorgung bleiben unberührt.
 
 
 ### § 23 Abwasser- und Abfallbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002400000)
 
 (1) Der Betreiber hat dafür zu sorgen, dass Abwasser sowie flüssiger
 und fester Abfall aus Anlagen, in denen gentechnische Arbeiten der
@@ -1040,6 +1066,7 @@ insbesondere in Betracht:
 
 
 ### § 24 Entsorgung von Abwässern und Abfällen ohne Vorbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002500000)
 
 (1) Abweichend von § 23 können folgende Abwässer sowie folgende
 flüssige und feste Abfälle ohne besondere Vorbehandlung entsorgt
@@ -1097,6 +1124,7 @@ Satz 1 Nummer 2 und 3 entsprechend.
 
 
 ### § 25 Inaktivierung von gentechnisch veränderten Organismen vor der Abwasser- oder Abfallentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002600000)
 
 (1) Eine Inaktivierung von gentechnisch veränderten Organismen nach §
 23 Absatz 1 Satz 2 in Verbindung mit Absatz 2 Nummer 1 liegt in der
@@ -1129,6 +1157,7 @@ Beispiel durch Vorlage einer Inaktivierungskinetik, nachzuweisen.
 
 
 ### § 26 Abwasser- und Abfallbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 3 und 4
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002700000)
 
 (1) Der Betreiber hat dafür zu sorgen, dass die folgenden Abfälle und
 Abwässer in der Anlage, in der sie entstanden sind, durch
@@ -1199,9 +1228,11 @@ erfüllt.
 
 
 ## Abschnitt 4 - Projektleiter
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNG000400000)
 
 
 ### § 27 Verantwortlichkeiten des Projektleiters
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002800000)
 
 (1) Der Projektleiter führt die unmittelbare Planung, Leitung oder
 Beaufsichtigung der gentechnischen Arbeit oder der Freisetzung durch.
@@ -1278,6 +1309,7 @@ festzulegen.
 
 
 ### § 28 Sachkunde des Projektleiters
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE002900000)
 
 (1) Zum Projektleiter darf nur eine Person bestellt werden, die die
 erforderliche Sachkunde besitzt. Der Projektleiter muss nachweisbare
@@ -1402,9 +1434,11 @@ dem Dritten gestatten. Voraussetzung dafür ist, dass
 
 
 ## Abschnitt 5 - Beauftragter für die Biologische Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNG000500000)
 
 
 ### § 29 Bestellung eines Beauftragten für die Biologische Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003000000)
 
 (1) Der Betreiber hat nach Anhörung des Betriebs- oder Personalrats
 einen oder, wenn dies im Hinblick auf die Art oder den Umfang der
@@ -1424,6 +1458,7 @@ bezeichneten Aufgaben sichergestellt ist.
 
 
 ### § 30 Sachkunde des Beauftragten für die Biologische Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003100000)
 
 Zum Beauftragten für die Biologische Sicherheit darf nur eine Person
 bestellt werden, die die erforderliche Sachkunde besitzt. Die
@@ -1433,6 +1468,7 @@ richten sich nach der für den Projektleiter geltenden Vorschrift des §
 
 
 ### § 31 Aufgaben des Beauftragten für Biologische Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003200000)
 
 (1) Der Beauftragte für die Biologische Sicherheit ist berechtigt und
 verpflichtet,
@@ -1480,6 +1516,7 @@ getroffenen und beabsichtigten Maßnahmen.
 
 
 ### § 32 Pflichten des Betreibers gegenüber dem Beauftragten für die Biologische Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003300000)
 
 (1) Der Betreiber hat den Beauftragten für die Biologische Sicherheit
 bei der Erfüllung seiner Aufgaben zu unterstützen und ihm
@@ -1515,9 +1552,11 @@ Entscheidung dieser Stelle für erforderlich hält.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNG000600000)
 
 
 ### § 33 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003400000)
 
 Ordnungswidrig im Sinne des § 38 Absatz 1 Nummer 12 des
 Gentechnikgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1590,6 +1629,7 @@ Gentechnikgesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 5 Absatz 1)
 
 ### Anlage 1 Allgemeine Kriterien für die Risikobewertung
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003500000)
 
 (Fundstelle: BGBl. I 2019, 1248 - 1250)
 
@@ -1911,6 +1951,7 @@ gentechnischen Arbeiten, sofern relevant:
 (zu § 14)
 
 ### Anlage 2 Sicherheitsmaßnahmen für Labor- und für Produktionsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003600000)
 
 (Fundstelle: BGBl. I 2019, 1251 - 1268)
 
@@ -4162,6 +4203,7 @@ B.  Sicherheitsmaßnahmen für den Produktionsbereich
 (zu § 15)
 
 ### Anlage 3 Sicherheitsmaßnahmen für Gewächshäuser
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003700000)
 
 (Fundstelle: BGBl. I 2019, 1269 - 1275)
 
@@ -5043,6 +5085,7 @@ IV. Sicherheitsstufe 4
 (zu § 16)
 
 ### Anlage 4 Sicherheitsmaßnahmen für Tierräume
+[Direktlink](https://www.gesetze-im-internet.de/gentsv_2021/BJNR123510019.html#BJNR123510019BJNE003800000)
 
 (Fundstelle: BGBl. I 2019, 1276 - 1285)
 

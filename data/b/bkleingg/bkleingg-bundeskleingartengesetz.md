@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE000400309)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNG000100309)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE000501320)
 
 (1) Ein Kleingarten ist ein Garten, der
 
@@ -75,6 +78,7 @@ Bebauungsplan für Dauerkleingärten festgesetzt ist.
 
 
 ### § 2 Kleingärtnerische Gemeinnützigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE000601301)
 
 Eine Kleingärtnerorganisation wird von der zuständigen Landesbehörde
 als gemeinnützig anerkannt, wenn sie im Vereinsregister eingetragen
@@ -97,6 +101,7 @@ wenn die Satzung bestimmt, daß
 
 
 ### § 3 Kleingarten und Gartenlaube
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE000702301)
 
 (1) Ein Kleingarten soll nicht größer als 400 Quadratmeter sein. Die
 Belange des Umweltschutzes, des Naturschutzes und der
@@ -113,10 +118,12 @@ Ausstattung und Einrichtung, nicht zum dauernden Wohnen geeignet sein.
 
 
 ## Zweiter Abschnitt - Kleingartenpachtverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNG000201320)
 
 
 
 ### § 4 Kleingartenpachtverträge
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE000802320)
 
 (1) Für Kleingartenpachtverträge gelten die Vorschriften des
 Bürgerlichen Gesetzbuchs über den Pachtvertrag, soweit sich aus diesem
@@ -140,6 +147,7 @@ Kleingärtnerorganisation zu übertragen.
 
 
 ### § 5 Pacht
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE000905320)
 
 (1) Als Pacht darf höchstens der vierfache Betrag der ortsüblichen
 Pacht im erwerbsmäßigen Obst- und Gemüseanbau, bezogen auf die
@@ -201,6 +209,7 @@ Teilleistungen, höchstens in fünf Jahresleistungen, zu entrichten.
 
 
 ### § 6 Vertragsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001000309)
 
 Kleingartenpachtverträge über Dauerkleingärten können nur auf
 unbestimmte Zeit geschlossen werden; befristete Verträge gelten als
@@ -208,12 +217,14 @@ auf unbestimmte Zeit geschlossen.
 
 
 ### § 7 Schriftform der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001100309)
 
 Die Kündigung des Kleingartenpachtvertrages bedarf der schriftlichen
 Form.
 
 
 ### § 8 Kündigung ohne Einhaltung einer Kündigungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001203320)
 
 Der Verpächter kann den Kleingartenpachtvertrag ohne Einhaltung einer
 Kündigungsfrist kündigen, wenn
@@ -234,6 +245,7 @@ Kündigungsfrist kündigen, wenn
 
 
 ### § 9 Ordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001302320)
 
 (1) Der Verpächter kann den Kleingartenpachtvertrag kündigen, wenn
 
@@ -317,6 +329,7 @@ ist die Kündigung nach Absatz 1 Nr. 3 oder 4 unzulässig.
 
 
 ### § 10 Kündigung von Zwischenpachtverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001400309)
 
 (1) Der Verpächter kann einen Zwischenpachtvertrag auch kündigen, wenn
 
@@ -341,6 +354,7 @@ den Kleingärtnern ein.
 
 
 ### § 11 Kündigungsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001500309)
 
 (1) Wird ein Kleingartenpachtvertrag nach § 9 Abs. 1 Nr. 2 bis 6
 gekündigt, hat der Pächter einen Anspruch auf angemessene
@@ -365,6 +379,7 @@ der Kleingarten geräumt ist.
 
 
 ### § 12 Beendigung des Kleingartenpachtvertrages bei Tod des Kleingärtners
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001607320)
 
 (1) Stirbt der Kleingärtner, endet der Kleingartenpachtvertrag mit dem
 Ablauf des Kalendermonats, der auf den Tod des Kleingärtners folgt.
@@ -383,16 +398,19 @@ gezahlten Miete entsprechend anzuwenden.
 
 
 ### § 13 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001700309)
 
 Vereinbarungen, durch die zum Nachteil des Pächters von den
 Vorschriften dieses Abschnitts abgewichen wird, sind nichtig.
 
 
 ## Dritter Abschnitt - Dauerkleingärten
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNG000300309)
 
 
 
 ### § 14 Bereitstellung und Beschaffung von Ersatzland
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001800309)
 
 (1) Wird ein Kleingartenpachtvertrag über einen Dauerkleingarten nach
 § 9 Abs. 1 Nr. 5 oder 6 gekündigt, hat die Gemeinde geeignetes
@@ -409,6 +427,7 @@ für die kleingärtnerische Nutzung zur Verfügung stehen.
 
 
 ### § 15 Begründung von Kleingartenpachtverträgen durch Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE001901320)
 
 (1) An Flächen, die in einem Bebauungsplan für Dauerkleingärten
 festgesetzt sind, können durch Enteignung Kleingartenpachtverträge
@@ -437,10 +456,12 @@ zugunsten Pachtwilliger begründet werden.
 
 
 ## Vierter Abschnitt - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNG000400309)
 
 
 
 ### § 16 Überleitungsvorschriften für bestehende Kleingärten
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002001307)
 
 (1) Kleingartenpachtverhältnisse, die im Zeitpunkt des Inkrafttretens
 dieses Gesetzes bestehen, richten sich von diesem Zeitpunkt an nach
@@ -473,6 +494,7 @@ Dauerkleingärten anzuwenden.
 
 
 ### § 17 Überleitungsvorschrift für die kleingärtnerische Gemeinnützigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002100309)
 
 Anerkennungen der kleingärtnerischen Gemeinnützigkeit, die vor
 Inkrafttreten dieses Gesetzes ausgesprochen worden sind, bleiben
@@ -480,6 +502,7 @@ unberührt.
 
 
 ### § 18 Überleitungsvorschriften für Lauben
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002200309)
 
 (1) Vor Inkrafttreten dieses Gesetzes rechtmäßig errichtete Lauben,
 die die in § 3 Abs. 2 vorgesehene Größe überschreiten, können
@@ -493,12 +516,14 @@ Entgelt verlangen.
 
 
 ### § 19 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002300309)
 
 Die Freie und Hansestadt Hamburg gilt für die Anwendung des Gesetzes
 auch als Gemeinde.
 
 
 ### § 20 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002400309)
 
 (1) Mit Inkrafttreten dieses Gesetzes treten außer Kraft:
 1\. - 9.
@@ -521,6 +546,7 @@ Berichtigung des Grundbuchs werden Kosten nicht erhoben.
 
 
 ### § 20a Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002703320)
 
 In dem in Artikel 3 des Einigungsvertrages genannten Gebiet ist dieses
 Gesetz mit folgenden Maßgaben anzuwenden:
@@ -610,6 +636,7 @@ Gesetz mit folgenden Maßgaben anzuwenden:
 
 
 ### § 20b Sonderregelungen für Zwischenpachtverhältnisse im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002800301)
 
 Auf Zwischenpachtverträge über Grundstücke in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet, die innerhalb von
@@ -618,11 +645,13 @@ Schuldrechtsanpassungsgesetzes entsprechend anzuwenden.
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002501310)
 
 -
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bkleingg/BJNR002100983.html#BJNR002100983BJNE002600309)
 
 Dieses Gesetz tritt am 1. April 1983 in Kraft.
 

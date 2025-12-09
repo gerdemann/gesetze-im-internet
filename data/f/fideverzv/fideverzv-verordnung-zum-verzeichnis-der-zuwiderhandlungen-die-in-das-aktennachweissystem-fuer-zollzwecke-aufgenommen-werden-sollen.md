@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fideverzv/BJNR205700011.html#BJNR205700011BJNE000100000)
 
 Auf Grund des § 2 Satz 2 des ZIS-Ausführungsgesetzes vom 31. März 2004
 (BGBl. I S. 482) unter Berücksichtigung des Artikels 1 des Gesetzes
@@ -29,6 +30,7 @@ der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fideverzv/BJNR205700011.html#BJNR205700011BJNE000210123)
 
 (1) In das Aktennachweissystem für Zollzwecke dürfen Daten zu
 folgenden Straftaten im Sinne von § 2 des ZIS-Ausführungsgesetzes
@@ -260,11 +262,13 @@ Zollbereich (ABl. L 323 vom 10.12.2009, S. 20, L 234 vom 4.9.2010, S.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fideverzv/BJNR205700011.html#BJNR205700011BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fideverzv/BJNR205700011.html#BJNR205700011BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

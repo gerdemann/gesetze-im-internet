@@ -21,10 +21,12 @@ Neugefasst durch
 
 
 ## Erster Abschnitt - Adoptionsvermittlung und Begleitung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNG000104360)
 
 
 
 ### § 1 Adoptionsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE000405360)
 
 Adoptionsvermittlung ist das Zusammenführen von Kindern unter 18
 Jahren und Personen, die ein Kind adoptieren wollen
@@ -36,6 +38,7 @@ nicht als Adoptionsvermittlung.
 
 
 ### § 2 Adoptionsvermittlungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE000505360)
 
 (1) Die Adoptionsvermittlung ist Aufgabe des Jugendamtes und des
 Landesjugendamtes. Das Jugendamt darf die Adoptionsvermittlung nur
@@ -87,6 +90,7 @@ zusammen.
 
 
 ### § 2a Internationales Adoptionsverfahren; Vermittlungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003206360)
 
 (1) Ein internationales Adoptionsverfahren ist ein Adoptionsverfahren,
 bei dem ein Kind mit gewöhnlichem Aufenthalt im Ausland ins Inland
@@ -166,6 +170,7 @@ vermittelten Kindes an, aufzubewahren und anschließend zu löschen.
 
 
 ### § 2b Unbegleitete Auslandsadoption
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003801360)
 
 Ein internationales Adoptionsverfahren ist untersagt, wenn es ohne die
 Vermittlung durch eine Adoptionsvermittlungsstelle (§ 2a Absatz 4)
@@ -173,6 +178,7 @@ durchgeführt werden soll.
 
 
 ### § 2c Grundsätze der internationalen Adoptionsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003901360)
 
 (1) Bei der internationalen Adoptionsvermittlung (§ 2a Absatz 1 Satz 1
 und 2 und Absatz 2) hat die Adoptionsvermittlungsstelle (§ 9b und § 2
@@ -245,6 +251,7 @@ Absatz 5 Satz 2 an die Fachstelle des Heimatstaats weiter.
 
 
 ### § 2d Bescheinigung über ein internationales Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004001360)
 
 (1) In einem internationalen Adoptionsverfahren hat die
 Adoptionsvermittlungsstelle (§ 2a Absatz 4), die die internationale
@@ -276,6 +283,7 @@ der Auslandsadoption ergangen ist.
 
 
 ### § 3 Persönliche und fachliche Eignung der Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE000605360)
 
 (1) Mit der Adoptionsvermittlung dürfen nur Fachkräfte betraut werden,
 die dazu auf Grund ihrer Persönlichkeit, ihrer Ausbildung und ihrer
@@ -295,6 +303,7 @@ zentrale Adoptionsstelle des Landesjugendamtes kann Ausnahmen von Satz
 
 
 ### § 4 Anerkennung als Adoptionsvermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE000705360)
 
 (1) Die Anerkennung als Adoptionsvermittlungsstelle im Sinne des § 2
 Absatz 3 erfolgt durch die zentrale Adoptionsstelle des
@@ -379,6 +388,7 @@ Wirkung.
 
 
 ### § 4a Verfahren bei der Schließung einer Adoptionsvermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004101360)
 
 (1) Steht fest, dass die Adoptionsvermittlungsstelle (§ 2 Absatz 3, §
 2a Absatz 4 Nummer 2) geschlossen wird, hat sie die zentrale
@@ -420,6 +430,7 @@ Sitz hatte, zur Aufbewahrung nach § 9c Absatz 1 zu übergeben.
 
 
 ### § 5 Vermittlungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE000806360)
 
 (1) Die Adoptionsvermittlung ist nur den nach § 2 Absatz 1 befugten
 Jugendämtern und Landesjugendämtern und den nach § 2 Absatz 3
@@ -447,6 +458,7 @@ anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
 
 ### § 6 Adoptionsanzeigen
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE000905360)
 
 (1) Es ist untersagt, Kinder zur Adoption oder Adoptionsbewerber durch
 öffentliche Erklärungen, insbesondere durch Zeitungsanzeigen oder
@@ -464,6 +476,7 @@ eine Ersatzmutterschaft bezieht.
 
 
 ### § 7 Anspruch auf Durchführung der Eignungsprüfung bei der Adoption eines Kindes im Inland; Umfang der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001007360)
 
 (1) Auf Antrag der Adoptionsbewerber führt die
 Adoptionsvermittlungsstelle (§ 2 Absatz 1) eine Prüfung der
@@ -500,6 +513,7 @@ ausgehändigt werden.
 
 
 ### § 7a Sachdienliche Ermittlungen bei der Adoption eines Kindes im Inland
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004201360)
 
 (1) Wird der Adoptionsvermittlungsstelle (§ 2 Absatz 1 und 3) bekannt,
 dass für ein Kind die Adoptionsvermittlung in Betracht kommt, so führt
@@ -525,6 +539,7 @@ Betroffenen mitzuteilen.
 
 
 ### § 7b Anspruch auf Durchführung der Eignungsprüfung bei der Adoption eines Kindes aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004301360)
 
 (1) Auf Antrag der Adoptionsbewerber erfolgt eine Eignungsprüfung der
 Adoptionsbewerber zur Adoption eines Kindes mit gewöhnlichem
@@ -544,6 +559,7 @@ Adoptionsvermittlungsstelle nach § 2a Absatz 4 Nummer 2 sein.
 
 
 ### § 7c Länderspezifische Eignungsprüfung bei der Adoption eines Kindes aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004401360)
 
 (1) Ist das Ergebnis der Eignungsprüfung positiv festgestellt, prüft
 die von den Adoptionsbewerbern benannte Adoptionsvermittlungsstelle (§
@@ -582,6 +598,7 @@ Kindes zu.
 
 
 ### § 7d Bescheinigung für im Ausland lebende Adoptionsbewerber
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004501360)
 
 (1) Auf Antrag deutscher Adoptionsbewerber mit gewöhnlichem Aufenthalt
 im Ausland prüft die Bundeszentralstelle, ob die Adoptionsbewerber
@@ -599,6 +616,7 @@ hinzuweisen.
 
 
 ### § 7e Mitwirkungspflicht der Adoptionsbewerber
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004601360)
 
 Den Adoptionsbewerbern obliegt es, die erforderlichen Angaben zu
 machen und geeignete Nachweise zu erbringen für:
@@ -621,6 +639,7 @@ Buches Sozialgesetzbuch gelten entsprechend.
 
 
 ### § 8 Beginn der Adoptionspflege
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001103360)
 
 Das Kind darf erst dann zur Eingewöhnung bei den Adoptionsbewerbern in
 Pflege gegeben werden (Adoptionspflege), wenn feststeht, dass die
@@ -628,6 +647,7 @@ Adoptionsbewerber für die Annahme des Kindes geeignet sind.
 
 
 ### § 8a Informationsaustausch oder Kontakt vor und nach der Adoption
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004701360)
 
 (1) Die Adoptionsvermittlungsstelle (§ 2 Absatz 1 und 3) soll vor
 Beginn der Adoptionspflege sowohl mit den Adoptionsbewerbern als auch
@@ -660,6 +680,7 @@ hinzuwirken.
 
 
 ### § 8b Anspruch der abgebenden Eltern auf allgemeine Informationen über das Kind und seine Lebenssituation nach der Adoption
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004801360)
 
 (1) Die abgebenden Eltern haben gegen die Adoptionsvermittlungsstelle
 (§ 2 Absatz 1 und 3) einen Anspruch auf Zugang zu allgemeinen
@@ -684,6 +705,7 @@ widerrufen werden.
 
 
 ### § 9 Anspruch auf Adoptionsbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001205360)
 
 (1) Die Adoptionsvermittlungsstelle (§ 2 Absatz 1, § 2a Absatz 4
 Nummer 1) hat vor und während der Adoptionsvermittlung sowie während
@@ -804,6 +826,7 @@ gilt § 4a Absatz 3.
 
 
 ### § 9a Verpflichtende Beratung bei Stiefkindadoption
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003303360)
 
 (1) Nimmt ein Ehegatte ein Kind seines Ehegatten allein an, so müssen
 sich vor Abgabe ihrer notwendigen Erklärungen und Anträge zur Adoption
@@ -854,6 +877,7 @@ Absätze 1 bis 4 entsprechend.
 
 
 ### § 9b Örtliche Adoptionsvermittlungsstelle; Pflichtaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE004901360)
 
 Die Jugendämter haben die Wahrnehmung der Aufgaben nach den §§ 7, 7a,
 7b, 8a, 8b, 9 und 9a für ihren jeweiligen Bereich sicherzustellen. Für
@@ -862,6 +886,7 @@ Zuständigkeit nach ihrem gewöhnlichen Aufenthalt.
 
 
 ### § 9c Vermittlungsakten
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003404360)
 
 (1) Vermittlungsakten sind, gerechnet vom Geburtsdatum des Kindes an,
 100 Jahre lang aufzubewahren.
@@ -881,6 +906,7 @@ vollendet hat.
 
 
 ### § 9d Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003504360)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz
@@ -942,6 +968,7 @@ diese Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 
 
 ### § 9e Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003604360)
 
 (1)Für die Verarbeitung personenbezogener Daten gilt das Zweite
 Kapitel des Zehnten Buches Sozialgesetzbuch mit der Maßgabe, dass
@@ -994,6 +1021,7 @@ dürfen, zu dem sie übermittelt werden.
 
 
 ### § 10 Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001305360)
 
 (1) Die Adoptionsvermittlungsstelle hat die zentrale Adoptionsstelle
 des Landesjugendamtes zu unterrichten, wenn ein Kind nicht innerhalb
@@ -1016,6 +1044,7 @@ Adoptionsstelle die Vermittlung eines Kindes selbst übernehmen.
 
 
 ### § 11 Aufgaben der zentralen Adoptionsstelle des Landesjugendamtes
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001405360)
 
 (1) Die zentrale Adoptionsstelle des Landesjugendamtes unterstützt die
 Adoptionsvermittlungsstelle bei ihrer Arbeit, insbesondere durch
@@ -1051,10 +1080,12 @@ vorzulegen.
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001505360)
 
 
 
 ### § 13 Ausstattung der zentralen Adoptionsstelle des Landesjugendamtes
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001603360)
 
 Zur Erfüllung ihrer Aufgaben sollen der zentralen Adoptionsstelle
 mindestens ein Kinderarzt oder Kinderpsychiater, ein Psychologe mit
@@ -1064,10 +1095,12 @@ zur Verfügung stehen.
 
 
 ## Zweiter Abschnitt - Ersatzmutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNG000303360)
 
 
 
 ### § 13a Ersatzmutter
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE002604360)
 
 Ersatzmutter ist eine Frau, die auf Grund einer Vereinbarung bereit
 ist,
@@ -1086,6 +1119,7 @@ Aufnahme auf Dauer zu überlassen.
 
 
 ### § 13b Ersatzmuttervermittlung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE002703360)
 
 Ersatzmuttervermittlung ist das Zusammenführen von Personen, die das
 aus einer Ersatzmutterschaft entstandene Kind annehmen oder in
@@ -1096,11 +1130,13 @@ in § 13a bezeichneten Vereinbarung.
 
 
 ### § 13c Verbot der Ersatzmuttervermittlung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE002803360)
 
 Die Ersatzmuttervermittlung ist untersagt.
 
 
 ### § 13d Anzeigenverbot
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE002903360)
 
 Es ist untersagt, Ersatzmütter oder Bestelleltern durch öffentliche
 Erklärungen, insbesondere durch Zeitungsanzeigen oder
@@ -1108,10 +1144,12 @@ Zeitungsberichte, zu suchen oder anzubieten.
 
 
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNG000403360)
 
 
 
 ### § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001706360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1167,10 +1205,12 @@ einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 
 ### § 14a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003004360)
 
 
 
 ### § 14b Strafvorschriften gegen Ersatzmuttervermittlung
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE003103360)
 
 (1) Wer entgegen § 13c Ersatzmuttervermittlung betreibt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
@@ -1186,10 +1226,12 @@ Bestelleltern nicht bestraft.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNG000206360)
 
 
 
 ### § 15 Anzuwendendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE001905360)
 
 Vom Zeitpunkt des Inkrafttretens einer Änderung dieses Gesetzes an
 richtet sich die weitere Durchführung einer vor dem Inkrafttreten der
@@ -1198,6 +1240,7 @@ den geänderten Vorschriften.
 
 
 ### § 16 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/advermig_1976/BJNR017620976.html#BJNR017620976BJNE005001360)
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 30. September
 2026 einen Bericht über die Auswirkungen der §§ 2a, 2b, 2c, 2d, 8a, 8b

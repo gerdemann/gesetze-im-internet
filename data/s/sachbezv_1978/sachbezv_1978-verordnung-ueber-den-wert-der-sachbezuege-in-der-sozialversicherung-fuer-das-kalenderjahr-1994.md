@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Freie Kost und Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_1978/BJNR031560977.html#BJNR031560977BJNE000116308)
 
 (1) Der Wert der freien Kost und Wohnung einschließlich Heizung und
 Beleuchtung wird auf monatlich 610,- DM festgesetzt. Für die
@@ -147,6 +148,7 @@ Pfennige aufzurunden.
 
 
 ## § 2 Verbilligte Kost und Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_1978/BJNR031560977.html#BJNR031560977BJNE000206308)
 
 Wird Kost und Wohnung verbilligt als Sachbezug zur Verfügung gestellt,
 so ist der Unterschiedsbetrag zwischen dem vereinbarten Preis und dem
@@ -161,6 +163,7 @@ Arbeitsentgelt zuzurechnen; § 1 Abs. 5 Satz 2 bis 4 gilt entsprechend.
 
 
 ## § 3 Sonstige Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_1978/BJNR031560977.html#BJNR031560977BJNE000307308)
 
 (1) Werden Sachbezüge, die nicht von § 1 erfaßt werden, unentgeltlich
 zur Verfügung gestellt, ist als Wert für diese Sachbezüge der übliche
@@ -192,6 +195,7 @@ in der Unfallverhütung und im Arbeitsschutz erhält.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_1978/BJNR031560977.html#BJNR031560977BJNE000416308)
 
 Die §§ 1 und 2 sind in dem in Artikel 3 des Einigungsvertrages
 bezeichneten Gebiet mit folgenden Maßgaben anzuwenden:
@@ -229,11 +233,13 @@ bezeichneten Gebiet mit folgenden Maßgaben anzuwenden:
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_1978/BJNR031560977.html#BJNR031560977BJNE000506308)
 
 -
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_1978/BJNR031560977.html#BJNR031560977BJNE000616308)
 
 (1) (Inkrafttreten)
 

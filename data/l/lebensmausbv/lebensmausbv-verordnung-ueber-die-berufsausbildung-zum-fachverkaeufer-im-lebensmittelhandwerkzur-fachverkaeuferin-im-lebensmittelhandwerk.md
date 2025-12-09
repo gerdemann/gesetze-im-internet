@@ -25,6 +25,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und mit § 1
@@ -35,6 +36,7 @@ im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000200000)
 
 Der Ausbildungsberuf Fachverkäufer im
 Lebensmittelhandwerk/Fachverkäuferin im Lebensmittelhandwerk wird
@@ -42,11 +44,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so
@@ -60,6 +64,7 @@ nachzuweisen.
 
 
 ## § 4 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000500000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einem der Schwerpunkte
@@ -77,6 +82,7 @@ C.  Fleischerei.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -137,6 +143,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000700000)
 
 Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen
@@ -148,12 +155,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE000900000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -163,6 +172,7 @@ durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -221,6 +231,7 @@ Qualitätssicherung berücksichtigen kann.
 
 
 ## § 10 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE001100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -410,6 +421,7 @@ ungenügende Leistungen erbracht worden sein.
 
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE001200000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -418,12 +430,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/lebensmausbv/BJNR060400006.html#BJNR060400006BJNE001400000)
 
 (Fundstelle: BGBl. I 2006, 607 - 613)
 

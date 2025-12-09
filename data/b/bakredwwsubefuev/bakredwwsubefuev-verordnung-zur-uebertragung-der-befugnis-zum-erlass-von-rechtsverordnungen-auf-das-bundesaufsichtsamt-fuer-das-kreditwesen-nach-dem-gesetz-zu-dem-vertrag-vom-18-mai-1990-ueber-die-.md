@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bakredwwsubef_v/BJNR019950990.html#BJNR019950990BJNE000100308)
 
 Auf Grund des Artikels 28 Satz 2 des Gesetzes vom 25. Juni 1990 zu dem
 Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-,
@@ -30,6 +31,7 @@ der Bundesminister der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bakredwwsubef_v/BJNR019950990.html#BJNR019950990BJNE000200308)
 
 Dem Bundesaufsichtsamt für das Kreditwesen wird die Befugnis
 übertragen, nach Anhörung der Deutschen Bundesbank mit Zustimmung des
@@ -41,6 +43,7 @@ Republik zu erlassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bakredwwsubef_v/BJNR019950990.html#BJNR019950990BJNE000300308)
 
 (1) Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
 in Verbindung mit Artikel 36 des in der Eingangsformel genannten
@@ -53,6 +56,7 @@ Berlin (Ost).
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bakredwwsubef_v/BJNR019950990.html#BJNR019950990BJNE000400308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

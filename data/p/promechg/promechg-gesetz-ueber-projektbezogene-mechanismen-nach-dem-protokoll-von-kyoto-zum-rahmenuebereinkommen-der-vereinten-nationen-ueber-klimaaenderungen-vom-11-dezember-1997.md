@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000200000)
 
 (1) Dieses Gesetz gilt für die Erzeugung von
 Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen
@@ -39,6 +41,7 @@ Gegenstand haben.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000302310)
 
 Im Sinne dieses Gesetzes ist
 
@@ -179,14 +182,17 @@ Im Sinne dieses Gesetzes ist
 
 
 ## Teil 2 - Gemeinsame Projektumsetzung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000200000)
 
 
 
 ### Abschnitt 1 - Projekttätigkeiten außerhalb des Bundesgebiets
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000300000)
 
 
 
 #### § 3 Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000405116)
 
 (1) Im Rahmen der Gemeinsamen Projektumsetzung außerhalb des
 Bundesgebiets hat die zuständige Behörde die Zustimmung zu erteilen,
@@ -294,6 +300,7 @@ Zusicherung einer Zustimmung nach Absatz 1.
 
 
 #### § 4 Überprüfung der Verifizierung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000501310)
 
 Die zuständige Behörde soll, soweit nach Bekanntgabe des
 Verifizierungsberichts begründete Zweifel an der Richtigkeit oder
@@ -305,10 +312,12 @@ unverzüglich zu unterrichten.
 
 
 ### Abschnitt 2 - Projekttätigkeiten im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000400000)
 
 
 
 #### § 5 Zustimmung und Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000608116)
 
 (1) Im Rahmen einer Gemeinsamen Projektumsetzung im Bundesgebiet hat
 die zuständige Behörde die Zustimmung zu erteilen, wenn
@@ -413,6 +422,7 @@ wurde und ihr die Billigung des Investorstaates vorliegt.
 
 
 #### § 6 Bestätigung des Verifizierungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000702116)
 
 (1) Die zuständige Behörde hat den Verifizierungsbericht zu
 bestätigen, wenn
@@ -463,10 +473,12 @@ Konto.
 
 
 ### Abschnitt 3 - Sachverständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000500000)
 
 
 
 #### § 7 Sachverständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000805116)
 
 (1) Zur Validierung und Verifizierung sind nur solche sachverständigen
 Stellen befugt, die durch den Exekutivrat oder den Aufsichtsausschuss
@@ -499,10 +511,12 @@ Emissionsminderungen und Doppelbegünstigungen ausgeschlossen werden.
 
 
 ## Teil 3 - Mechanismus für umweltverträgliche Entwicklung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000600000)
 
 
 
 ### § 8 Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE000904116)
 
 (1) Im Rahmen des Mechanismus für umweltverträgliche Entwicklung hat
 die zuständige Behörde die Zustimmung zu erteilen, wenn
@@ -595,6 +609,7 @@ der nach Absatz 1 zugestimmt wurde.
 
 
 ### § 9 Überprüfungsgesuch
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001000000)
 
 Die zuständige Behörde kann, soweit die Voraussetzungen der Nummer 41
 des Abschnitts G oder der Nummer 65 des Abschnitts J der Anlage des
@@ -605,10 +620,12 @@ unterrichten.
 
 
 ## Teil 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNG000700000)
 
 
 
 ### § 10 Zuständige Behörde; Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001100000)
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes ist das
 Umweltbundesamt.
@@ -625,6 +642,7 @@ entsprechend.
 
 
 ### § 11 Benennung eines Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001201310)
 
 Wird ein Antrag im Sinne dieses Gesetzes von mehreren natürlichen oder
 juristischen Personen gestellt, haben diese der zuständigen Behörde
@@ -636,6 +654,7 @@ Empfangsberechtigten für Zustellungen zu benennen.
 
 
 ### § 12 Mengenbeobachtung
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001303116)
 
 (1) Die zuständige Behörde hat der Bundesregierung erstmals zum 31.
 Dezember 2006 und danach jährlich über die Anzahl der tatsächlichen
@@ -671,6 +690,7 @@ nach § 5 Abs. 8 registriert wird.
 
 
 ### § 13 Rechtsverordnung zu Zustimmungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001403116)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und
@@ -685,10 +705,12 @@ Abs. 2 zu stellen sind.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001505116)
 
 
 
 ### § 15 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001600000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 6 Abs. 2 Satz 3 oder § 7 Abs. 1 Satz 3
@@ -713,6 +735,7 @@ Teil Zwei
 Von der Konferenz der Vertragsparteien ergriffene Maßnahmen
 
 ### Anhang Band II
+[Direktlink](https://www.gesetze-im-internet.de/promechg/BJNR282610005.html#BJNR282610005BJNE001700000)
 
 Inhalt
 

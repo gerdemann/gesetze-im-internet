@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000100000)
 
 (1) Mediation ist ein vertrauliches und strukturiertes Verfahren, bei
 dem Parteien mithilfe eines oder mehrerer Mediatoren freiwillig und
@@ -31,6 +32,7 @@ Entscheidungsbefugnis, die die Parteien durch die Mediation führt.
 
 
 ## § 2 Verfahren; Aufgaben des Mediators
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000200000)
 
 (1) Die Parteien wählen den Mediator aus.
 
@@ -62,6 +64,7 @@ Abschlussvereinbarung dokumentiert werden.
 
 
 ## § 3 Offenbarungspflichten; Tätigkeitsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000300000)
 
 (1) Der Mediator hat den Parteien alle Umstände offenzulegen, die
 seine Unabhängigkeit und Neutralität beeinträchtigen können. Er darf
@@ -91,6 +94,7 @@ Erfahrung auf dem Gebiet der Mediation zu informieren.
 
 
 ## § 4 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000400000)
 
 Der Mediator und die in die Durchführung des Mediationsverfahrens
 eingebundenen Personen sind zur Verschwiegenheit verpflichtet, soweit
@@ -120,6 +124,7 @@ Verschwiegenheitspflicht zu informieren.
 
 
 ## § 5 Aus- und Fortbildung des Mediators; zertifizierter Mediator
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000500000)
 
 (1) Der Mediator stellt in eigener Verantwortung durch eine geeignete
 Ausbildung und eine regelmäßige Fortbildung sicher, dass er über
@@ -155,6 +160,7 @@ der Rechtsverordnung nach § 6 fortzubilden.
 
 
 ## § 6 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000601311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -199,6 +205,7 @@ werden:
 
 
 ## § 7 Wissenschaftliche Forschungsvorhaben; finanzielle Förderung der Mediation
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000700000)
 
 (1) Bund und Länder können wissenschaftliche Forschungsvorhaben
 vereinbaren, um die Folgen einer finanziellen Förderung der Mediation
@@ -221,6 +228,7 @@ gesammelten Erfahrungen und die gewonnenen Erkenntnisse.
 
 
 ## § 8 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000800000)
 
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 26.
 Juli 2017, auch unter Berücksichtigung der kostenrechtlichen
@@ -236,6 +244,7 @@ Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 
 
 ## § 9 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/mediationsg/BJNR157710012.html#BJNR157710012BJNE000900000)
 
 (1) Die Mediation in Zivilsachen durch einen nicht
 entscheidungsbefugten Richter während eines Gerichtsverfahrens, die

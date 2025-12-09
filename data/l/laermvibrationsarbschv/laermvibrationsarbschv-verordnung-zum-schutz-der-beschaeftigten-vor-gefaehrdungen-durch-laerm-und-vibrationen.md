@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000201360)
 
 (1) Diese Verordnung gilt zum Schutz der Beschäftigten vor
 tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und
@@ -42,6 +44,7 @@ gewährleistet werden kann.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000302119)
 
 (1) Lärm im Sinne dieser Verordnung ist jeder Schall, der zu einer
 Beeinträchtigung des Hörvermögens oder zu einer sonstigen mittelbaren
@@ -109,10 +112,12 @@ Tätigkeiten Lärm und Vibrationen ausgesetzt sind, gleich.
 
 
 ## Abschnitt 2 - Ermittlung und Bewertung der Gefährdung; Messungen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNG000200000)
 
 
 
 ### § 3 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000401308)
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des
 Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob
@@ -228,6 +233,7 @@ Vorsorge als notwendig erweist.
 
 
 ### § 4 Messungen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000500000)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass Messungen nach dem Stand
 der Technik durchgeführt werden. Dazu müssen
@@ -257,6 +263,7 @@ zusätzlich zu den Anforderungen nach Absatz 1 entsprechend den Nummern
 
 
 ### § 5 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000601308)
 
 Der Arbeitgeber hat sicherzustellen, dass die Gefährdungsbeurteilung
 nur von fachkundigen Personen durchgeführt wird. Verfügt der
@@ -269,10 +276,12 @@ erforderlichen Einrichtungen verfügen.
 
 
 ## Abschnitt 3 - Auslösewerte und Schutzmaßnahmen bei Lärm
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNG000300000)
 
 
 
 ### § 6 Auslösewerte bei Lärm
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000700000)
 
 Die Auslösewerte in Bezug auf den Tages-Lärmexpositionspegel und den
 Spitzenschalldruckpegel betragen:
@@ -293,6 +302,7 @@ persönlichen Gehörschutzes der Beschäftigten nicht berücksichtigt.
 
 
 ### § 7 Maßnahmen zur Vermeidung und Verringerung der Lärmexposition
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000801308)
 
 (1) Der Arbeitgeber hat die nach § 3 Abs. 1 Satz 6 festgelegten
 Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um die
@@ -361,6 +371,7 @@ berücksichtigen.
 
 
 ### § 8 Gehörschutz
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE000900000)
 
 (1) Werden die unteren Auslösewerte nach § 6 Satz 1 Nr. 2 trotz
 Durchführung der Maßnahmen nach § 7 Abs. 1 nicht eingehalten, hat der
@@ -391,10 +402,12 @@ Einhaltung der Anforderungen erforderlich sind.
 
 
 ## Abschnitt 4 - Expositionsgrenzwerte und Auslösewerte sowie Schutzmaßnahmen bei Vibrationen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNG000400000)
 
 
 
 ### § 9 Expositionsgrenzwerte und Auslösewerte für Vibrationen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001000000)
 
 (1) Für Hand-Arm-Vibrationen beträgt
 
@@ -427,6 +440,7 @@ nach Nummer 2 des Anhangs ermittelt und bewertet.
 
 
 ### § 10 Maßnahmen zur Vermeidung und Verringerung der Exposition durch Vibrationen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001100000)
 
 (1) Der Arbeitgeber hat die in § 3 Abs. 1 Satz 6 festgelegten
 Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um die
@@ -498,10 +512,12 @@ berücksichtigen.
 
 
 ## Abschnitt 5 - Unterweisung der Beschäftigten; Beratung durch den Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNG000501308)
 
 
 
 ### § 11 Unterweisung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001201308)
 
 (1) Können bei Exposition durch Lärm die unteren Auslösewerte nach § 6
 Satz 1 Nr. 2 oder bei Exposition durch Vibrationen die Auslösewerte
@@ -562,6 +578,7 @@ Absatz 1 erfolgen.
 
 
 ### § 12 Beratung durch den Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001301126)
 
 Der Ausschuss nach § 21 der Betriebssicherheitsverordnung vom 3.
 Februar 2015 (BGBl. I S. 49), die zuletzt durch Artikel 1 der
@@ -573,19 +590,23 @@ Betriebssicherheitsverordnung gilt entsprechend.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001402308)
 
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001501308)
 
 -
 
 
 ## Abschnitt 6 - Ausnahmen, Straftaten und Ordnungswidrigkeiten, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNG000600000)
 
 
 
 ### § 15 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001603119)
 
 (1) Die zuständige Behörde kann auf schriftlichen oder elektronischen
 Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10
@@ -646,6 +667,7 @@ sofern
 
 
 ### § 16 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001701308)
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -718,6 +740,7 @@ Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
 
 ### § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001800000)
 
 (1) Für den Bereich des Musik- und Unterhaltungssektors ist diese
 Verordnung erst ab dem 15. Februar 2008 anzuwenden.
@@ -741,6 +764,7 @@ m/s (hoch) 2 überschritten werden.
 
 
 ### Anhang Vibrationen
+[Direktlink](https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/BJNR026110007.html#BJNR026110007BJNE001901308)
 
 
 **1.** **Hand-Arm-Vibrationen**

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kfzabkgbrg/BJNR203400973.html#BJNR203400973BJNE000100304)
 
 Dem in Bonn am 5. November 1971 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung des
@@ -29,6 +30,7 @@ Verkehr wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kfzabkgbrg/BJNR203400973.html#BJNR203400973BJNE000200304)
 
 (1) Die Befreiung nach Artikel 2 Abs. 1 Buchstabe (a) in Verbindung
 mit den Absätzen 2 und 3 des Abkommens ist bei Fahrzeugen, die nach
@@ -47,6 +49,7 @@ oder auf Grund anderer besonderer Umstände aufgehalten werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kfzabkgbrg/BJNR203400973.html#BJNR203400973BJNE000300304)
 
 Der Bundesminister der Finanzen kann zur Herstellung der
 Gegenseitigkeit oder zur Vermeidung des Mißbrauchs durch
@@ -57,6 +60,7 @@ im Geltungsbereich dieses Gesetzes ansässig sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kfzabkgbrg/BJNR203400973.html#BJNR203400973BJNE000400304)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -66,6 +70,7 @@ S. 1).
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/kfzabkgbrg/BJNR203400973.html#BJNR203400973BJNE000500304)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

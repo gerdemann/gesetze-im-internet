@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2004/BJNR235100004.html#BJNR235100004BJNE000100000)
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
 dem Bundesamt für Finanzen die Zuständigkeiten für die Entscheidungen
@@ -34,6 +35,7 @@ Bundesbeamtengesetzes.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2004/BJNR235100004.html#BJNR235100004BJNE000200000)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126
 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes übertrage ich im
@@ -43,6 +45,7 @@ Nr. I dieser Anordnung zu entscheiden.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2004/BJNR235100004.html#BJNR235100004BJNE000300000)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich im
 Einvernehmen mit dem Bundesministerium der Finanzen dem Bundesamt für
@@ -52,6 +55,7 @@ Entscheidung über Widersprüche zuständig ist.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2004/BJNR235100004.html#BJNR235100004BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Oktober 2004 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -60,6 +64,7 @@ sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2004/BJNR235100004.html#BJNR235100004BJNE000500000)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 52-5-4 v. 7.2.2016 I 178 (WDOBezV 2016)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wdobezv_2020/BJNR196400020.html#BJNR196400020BJNE000100000)
 
 Auf Grund des § 146 der Wehrdisziplinarordnung, der durch Artikel 15
 Nummer 5 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert
@@ -29,6 +30,7 @@ Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Dienstbezüge und Wehrsold
+[Direktlink](https://www.gesetze-im-internet.de/wdobezv_2020/BJNR196400020.html#BJNR196400020BJNE000201377)
 
 (1) Dienstbezüge im Sinne der §§ 24, 61 und 130 der
 Wehrdisziplinarordnung sind
@@ -135,6 +137,7 @@ freiwilligen Wehrdienst Leistende
 
 
 ## § 2 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/wdobezv_2020/BJNR196400020.html#BJNR196400020BJNE000300000)
 
 Die WDO-Bezügeverordnung vom 7. Februar 2016 (BGBl. I S. 178) ist
 weiter anzuwenden, wenn vor dem 1. September 2020
@@ -153,6 +156,7 @@ weiter anzuwenden, wenn vor dem 1. September 2020
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wdobezv_2020/BJNR196400020.html#BJNR196400020BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die WDO-Bezügeverordnung vom 7. Februar 2016 (BGBl.

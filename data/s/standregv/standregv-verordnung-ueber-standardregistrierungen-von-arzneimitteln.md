@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/standregv/BJNR016020982.html#BJNR016020982BJNE000100311)
 
 Auf Grund des § 39 Abs. 3 des Arzneimittelgesetzes vom 24. August 1976
 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister
@@ -28,6 +29,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/standregv/BJNR016020982.html#BJNR016020982BJNE000200311)
 
 Homöopathische Arzneimittel sind von der Pflicht zur
 Einzelregistrierung nach § 38 Abs. 1 Satz 1 freigestellt, wenn
@@ -47,6 +49,7 @@ Einzelregistrierung nach § 38 Abs. 1 Satz 1 freigestellt, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/standregv/BJNR016020982.html#BJNR016020982BJNE000301310)
 
 Arzneimittel, die sich am 19. Juli 2007 im Verkehr befinden und den
 Vorschriften dieser Verordnung in der bis zum 19. Juli 2007 geltenden
@@ -57,17 +60,20 @@ Packungsbeilage versehen werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/standregv/BJNR016020982.html#BJNR016020982BJNE000400311)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/standregv/BJNR016020982.html#BJNR016020982BJNE000500311)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
 Standardregistrierungen
 
 ## Anlage - Anlage zur Verordnung über Standardregistrierungen -
+[Direktlink](https://www.gesetze-im-internet.de/standregv/BJNR016020982.html#BJNR016020982BJNE000602314)
 
 (Inhalt: nicht erfaßter Anlagenband,
 Fundstelle: BGBl. I Nr. 47 v. 8.12.1982 (Anlagenband II))

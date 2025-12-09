@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000100000)
 
 Auf Grund des Artikels 3 des Gesetzes zu den Verträgen vom 5. Oktober
 2004, 12. August 2008, 11. Oktober 2012 und 6. Oktober 2016 des
@@ -34,6 +35,7 @@ Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Zielbestimmung und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000200000)
 
 (1) Mit dieser Verordnung soll Unternehmen der Zugang zu dem
 universellen Postgebiet, das durch die Mitgliedsländer des
@@ -53,6 +55,7 @@ Ergänzenden Bestimmungen und deren Schlussprotokollen ergeben.
 
 
 ## § 2 Erteilung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000301119)
 
 (1) Die Zulassung wird auf schriftlichen oder elektronischen Antrag in
 deutscher Sprache von der Bundesnetzagentur in schriftlicher Form oder
@@ -172,6 +175,7 @@ Weltpostverein benannt.
 
 
 ## § 3 Untersagung und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000401119)
 
 (1) Verletzt das zugelassene Unternehmen seine Verpflichtungen nach
 dieser Rechtsverordnung, so kann die Bundesnetzagentur die zur
@@ -208,6 +212,7 @@ statt.
 
 
 ## § 4 Mitteilungspflichten und Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000500000)
 
 (1) Das zugelassene Unternehmen hat die Aufnahme der Wahrnehmung der
 Rechte und Pflichten nach § 1 innerhalb eines Monats der
@@ -226,12 +231,14 @@ Bundesanzeiger sowie auf ihrer Internetseite.
 
 
 ## § 5 Kosten der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000600000)
 
 Für die Zulassung und deren Widerruf oder Rücknahme werden keine
 Gebühren und Auslagen erhoben.
 
 
 ## § 6 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000700000)
 
 Widerspruch und Anfechtungsklage gegen Entscheidungen der
 Bundesnetzagentur nach dieser Rechtsverordnung haben keine
@@ -239,6 +246,7 @@ aufschiebende Wirkung.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbetreibzulv/BJNR090400019.html#BJNR090400019BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

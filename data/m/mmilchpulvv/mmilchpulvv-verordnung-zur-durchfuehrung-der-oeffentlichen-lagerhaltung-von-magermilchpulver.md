@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000100328)
 
 Auf Grund des § 7 Abs. 3, der §§ 9 und 11 Abs. 2 des Gesetzes zur
 Durchführung der gemeinsamen Marktorganisationen vom 31. August 1972
@@ -31,6 +32,7 @@ Finanzen und für Wirtschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000202377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
@@ -38,6 +40,7 @@ hinsichtlich der öffentlichen Lagerhaltung von Magermilchpulver.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000301308)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 bezeichneten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -45,6 +48,7 @@ Ernährung (Bundesanstalt).
 
 
 ## § 3 Anerkennung der Betriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000400328)
 
 (1) Anträge auf Anerkennung sind auf vorgeschriebenem Formblatt zu
 stellen, das bei der Bundesanstalt angefordert werden kann.
@@ -79,6 +83,7 @@ Monaten neu erteilt werden.
 
 
 ## § 4 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000500328)
 
 (1) Der Beteiligte ist verpflichtet,
 
@@ -128,6 +133,7 @@ Aufbewahrungsfristen nach anderen Vorschriften bestehen.
 
 
 ## § 5 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000600328)
 
 Zum Zwecke der Überwachung hat der Beteiligte den Beauftragten der
 Bundesanstalt das Betreten der Geschäftsräume und Betriebsstätten, die
@@ -144,16 +150,19 @@ erforderlichen Angaben auszudrucken.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE000701377)
 
 -
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE001001308)
 
 Diese Verordnung tritt am 1. Juli 1978 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvv/BJNR009080978.html#BJNR009080978BJNE001100328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

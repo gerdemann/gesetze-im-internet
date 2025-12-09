@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000100000)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz verordnet auf Grund des § 16 Abs. 6 Satz 2 und 3 in
@@ -32,6 +33,7 @@ Anhörung der Tierschutzkommission:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000201360)
 
 Diese Verordnung regelt die Erhebung und Verwendung personenbezogener
 Daten im automatisierten Verfahren zum Zwecke der Überwachung der
@@ -41,6 +43,7 @@ Tierschutzgesetzes.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000301360)
 
 Im Sinne dieser Verordnung ist
 
@@ -57,6 +60,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000401360)
 
 (1) Die erteilende Behörde erhebt vor Erteilung einer Erlaubnis nach §
 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes, wenn
@@ -103,6 +107,7 @@ Kontrolle eines in Absatz 1 Nr. 2 genannten Betriebes folgende Daten:
 
 
 ## § 4 Datenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000501360)
 
 (1) Die in § 3 genannten Daten speichert die erteilende oder die
 kontrollierende Behörde in einem automatisierten Verfahren, das die
@@ -170,6 +175,7 @@ Auskunft über die ihn betreffenden in Absatz 1 genannten Daten.
 
 
 ## § 5 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000601360)
 
 (1) Die Daten nach den §§ 3 und 4 Abs. 1 Satz 2 Nr. 1 bis 7 sind,
 vorbehaltlich des Absatzes 3, ein Jahr nachdem der Inhaber der
@@ -191,11 +197,13 @@ Nummer 8 Buchstabe d zu löschen.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zirkregv/BJNR037600008.html#BJNR037600008BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

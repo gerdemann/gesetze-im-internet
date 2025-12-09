@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1972/BJNR012030972.html#BJNR012030972BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -33,11 +34,13 @@ Bekanntmachung vom 9. März 1972 (Bundesgesetzbl. I S. 455).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1972/BJNR012030972.html#BJNR012030972BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1972/BJNR012030972.html#BJNR012030972BJNE000200303)
 
 (Fundstelle: BGBl. I 1972, 1204 - 1207)
 ![bgbl1_1972_j1204_0010.jpg](bgbl1_1972_j1204_0010.jpg)

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1997-07/BJNR197200997.html#BJNR197200997BJNE000000000)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,

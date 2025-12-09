@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000100000)
 
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000101310)
 
 (1) Ziel des Gesetzes ist es, Benachteiligungen aus Gründen der Rasse,
 der ethnischen Herkunft, der Religion, der Weltanschauung oder der
@@ -45,6 +47,7 @@ Gleichstellungsbeauftragte und deren Stellvertreterinnen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000200000)
 
 (1) Dieses Gesetz findet Anwendung auf
 
@@ -74,6 +77,7 @@ Personengruppen dienen.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000300000)
 
 (1) Eine unmittelbare Benachteiligung liegt vor, wenn eine Person
 wegen eines in § 1 Abs. 1 genannten Grundes eine weniger günstige
@@ -114,6 +118,7 @@ benachteiligt oder benachteiligen kann.
 
 
 ### § 4 Unterschiedliche Behandlung wegen mehrerer Gründe
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000400000)
 
 Erfolgt eine unterschiedliche Behandlung wegen mehrerer der in § 1
 Abs. 1 genannten Gründe, so kann diese unterschiedliche Behandlung
@@ -123,6 +128,7 @@ Behandlung erfolgt.
 
 
 ### § 5 Positive Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000500000)
 
 Ungeachtet des § 8 ist eine unterschiedliche Behandlung auch zulässig,
 wenn durch geeignete und angemessene Maßnahmen tatsächliche Nachteile
@@ -131,14 +137,17 @@ ausgeglichen werden sollen.
 
 
 ## Abschnitt 2 - Schutz vor Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Verbot der Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000300000)
 
 
 
 #### § 6 Persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000600000)
 
 Dieses Gesetz dient dem Schutz von
 
@@ -154,6 +163,7 @@ Dieses Gesetz dient dem Schutz von
 
 
 #### § 7 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000700000)
 
 (1) Die in § 6 genannten Personen dürfen nicht wegen eines in § 1 Abs.
 1 genannten Grundes benachteiligt werden. Dies gilt auch, wenn die
@@ -167,6 +177,7 @@ Soldatinnen und Soldaten untersagt.
 
 
 #### § 8 Zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000800000)
 
 Eine unterschiedliche Behandlung wegen eines in § 1 Abs. 1 genannten
 Grundes ist zulässig, wenn dieser Grund wegen der Art der dienstlichen
@@ -176,10 +187,12 @@ rechtmäßig und die Anforderung angemessen ist.
 
 
 ### Unterabschnitt 2 - Organisationspflichten des Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000400000)
 
 
 
 #### § 9 Personalwerbung; Dienstpostenbekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE000900000)
 
 Anzeigen der Personalwerbung sowie Dienstposten für Soldatinnen und
 Soldaten dürfen nicht unter Verstoß gegen § 7 Abs. 1 bekannt gegeben
@@ -187,6 +200,7 @@ werden.
 
 
 #### § 10 Maßnahmen und Pflichten des Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001000000)
 
 (1) Der Dienstherr ist verpflichtet, die erforderlichen Maßnahmen zum
 Schutz vor Benachteiligungen wegen eines in § 1 Abs. 1 genannten
@@ -220,10 +234,12 @@ erfolgen.
 
 
 ### Unterabschnitt 3 - Rechte der in § 6 genannten Personen
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000500000)
 
 
 
 #### § 11 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001100000)
 
 (1) Soldatinnen und Soldaten, die sich von Dienststellen der
 Bundeswehr, von Vorgesetzten oder von Kameradinnen oder Kameraden
@@ -239,6 +255,7 @@ Person mitzuteilen.
 
 
 #### § 12 Entschädigung und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001200000)
 
 (1) Bei einem Verstoß gegen das Benachteiligungsverbot ist der
 Dienstherr verpflichtet, den hierdurch entstandenen Schaden zu
@@ -269,6 +286,7 @@ sei denn, ein solcher ergibt sich aus einem anderen Rechtsgrund.
 
 
 #### § 13 Maßregelungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001300000)
 
 (1) Der Dienstherr darf eine in § 6 genannte Person nicht wegen der
 Inanspruchnahme von Rechten nach diesem Abschnitt oder wegen der
@@ -286,6 +304,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 14 Mitgliedschaft in Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001400000)
 
 (1) Die Vorschriften dieses Abschnitts gelten entsprechend für die
 Mitgliedschaft oder die Mitwirkung in
@@ -308,10 +327,12 @@ Mitwirkung in den in Absatz 1 genannten Vereinigungen.
 
 
 ## Abschnitt 3 - Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000600000)
 
 
 
 ### § 15 Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001501310)
 
 Wenn im Streitfall die eine Partei Indizien beweist, die eine
 Benachteiligung wegen eines in § 1 Abs. 1 und 2 Satz 1 genannten
@@ -321,6 +342,7 @@ Benachteiligung vorgelegen hat.
 
 
 ### § 16 Unterstützung durch Antidiskriminierungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001600000)
 
 (1) Antidiskriminierungsverbände sind Personenzusammenschlüsse, die
 nicht gewerbsmäßig und nicht nur vorübergehend entsprechend ihrer
@@ -347,10 +369,12 @@ Gunsten von behinderten Menschen bleiben unberührt.
 
 
 ## Abschnitt 4 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNG000700000)
 
 
 
 ### § 17 Antidiskriminierungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001700000)
 
 Abschnitt 6 des Allgemeinen Gleichbehandlungsgesetzes über die
 Antidiskriminierungsstelle des Bundes findet im Rahmen dieses Gesetzes
@@ -358,6 +382,7 @@ Anwendung.
 
 
 ### § 18 Schwerbehinderte Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001801310)
 
 (1) Schwerbehinderte Soldatinnen und Soldaten dürfen bei einer
 Maßnahme, insbesondere beim beruflichen Aufstieg oder bei einem
@@ -387,12 +412,14 @@ Aufstiegs Kenntnis erhalten hat, geltend gemacht werden.
 
 
 ### § 19 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE001900000)
 
 Von den Vorschriften dieses Gesetzes kann nicht zu Ungunsten der
 Soldatinnen und Soldaten abgewichen werden.
 
 
 ### § 20 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/soldgg/BJNR190400006.html#BJNR190400006BJNE002000000)
 
 Erfolgen Benachteiligungen in Form sexueller Belästigungen nach dem
 Beschäftigtenschutzgesetz vor dem 18. August 2006, ist das zu diesem

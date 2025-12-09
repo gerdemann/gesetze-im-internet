@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000300319)
 
 Auf Grund des § 14a Abs. 6 und des § 14b Abs. 5 des
 Arbeitsplatzschutzgesetzes in der Fassung der Bekanntmachung vom 14.
@@ -28,10 +29,12 @@ Zustimmung des Bundesrates:
 
 
 ## Erster Abschnitt - Bestimmung der Einrichtungen der betrieblichen und überbetrieblichen Alters- und Hinterbliebenenversorgung außerhalb des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000400319)
 
 Als betriebliche oder überbetriebliche Alters- und
 Hinterbliebenenversorgung im Sinne des § 14a Abs. 3 des Gesetzes sind
@@ -55,10 +58,12 @@ anzusehen:
 
 
 ## Zweiter Abschnitt - Erstattungsverfahren für Arbeitgeber des öffentlichen Dienstes und außerhalb des öffentlichen Dienstes sowie für Wehrpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNG000200319)
 
 
 
 ### § 2 Für die Erstattung zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000500319)
 
 (1) Der Bundesminister der Verteidigung gibt die für die Erstattung
 zuständigen Stellen im Bundesanzeiger bekannt.
@@ -71,6 +76,7 @@ hat.
 
 
 ### § 3 Erstattungsverfahren für Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000600319)
 
 (1) Der vom Arbeitgeber einzureichende Antrag muß Angaben enthalten
 über
@@ -108,6 +114,7 @@ Stellen Erleichterung gewähren.
 
 
 ### § 4 Erstattungsverfahren für Wehrpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000701305)
 
 (1) Der vom Wehrpflichtigen einzureichende Antrag muß Angaben
 enthalten über
@@ -149,6 +156,7 @@ Stellen Erleichterung gewähren.
 
 
 ### § 5 Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000800319)
 
 (1) Der Bundesminister der Verteidigung oder die von ihm beauftragten
 Stellen sowie der Bundesrechnungshof können beim Antragsteller zu den
@@ -163,6 +171,7 @@ Einrichtung der Alters- und Hinterbliebenenversorgung gezahlt werden.
 
 
 ### § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/arbplschgabschn3v/BJNR020060980.html#BJNR020060980BJNE000900319)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1979 in Kraft.
 

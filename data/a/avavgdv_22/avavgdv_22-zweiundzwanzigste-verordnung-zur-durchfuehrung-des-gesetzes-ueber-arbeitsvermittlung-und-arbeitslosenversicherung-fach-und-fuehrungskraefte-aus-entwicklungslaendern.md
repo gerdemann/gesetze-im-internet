@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/avavgdv_22/BJNR005310967.html#BJNR005310967BJNE000100314)
 
 Auf Grund des § 1 Abs. 2 des Gesetzes über Arbeitsvermittlung und
 Arbeitslosenversicherung (AVAVG) in der Fassung der Bekanntmachung vom
@@ -31,6 +32,7 @@ Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/avavgdv_22/BJNR005310967.html#BJNR005310967BJNE000201308)
 
 Die Bundesagentur für Arbeit wird beauftragt, an der beruflichen Aus-
 und Fortbildung von Fach- und Führungskräften aus Entwicklungsländern
@@ -56,6 +58,7 @@ mitzuwirken
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/avavgdv_22/BJNR005310967.html#BJNR005310967BJNE000301308)
 
 Die Bundesagentur für Arbeit führt eine Datei der in der
 Bundesrepublik Deutschland zu ihrer Aus- und Fortbildung tätigen
@@ -64,11 +67,13 @@ Personen aus Entwicklungsländern, die eine Arbeitsgenehmigung nach den
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/avavgdv_22/BJNR005310967.html#BJNR005310967BJNE000401308)
 
 (weggefallen)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/avavgdv_22/BJNR005310967.html#BJNR005310967BJNE000500314)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 

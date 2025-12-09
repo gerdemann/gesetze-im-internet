@@ -27,6 +27,7 @@ im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000100000)
 
 Auf Grund des § 49 Absatz 4 des Energiewirtschaftsgesetzes, der durch
 Artikel 4 Nummer 2 Buchstabe a des Gesetzes vom 7. März 2011 (BGBl. I
@@ -35,6 +36,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000200000)
 
 (1) Diese Verordnung gilt für die Errichtung und den Betrieb von
 Gashochdruckleitungen, die als Energieanlagen im Sinne des
@@ -56,6 +58,7 @@ November 2010 (BGBl. I S. 1504) geändert worden ist.
 
 
 ## § 2 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000300000)
 
 (1) Gashochdruckleitungen müssen den Anforderungen der §§ 3 und 4
 entsprechen und nach dem Stand der Technik so errichtet und betrieben
@@ -89,6 +92,7 @@ Absatz 1.
 
 
 ## § 3 Anforderungen bei Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000400000)
 
 (1) Gashochdruckleitungen müssen so beschaffen sein, dass sie den zu
 erwartenden Beanspruchungen sicher standhalten und dicht bleiben. Sie
@@ -139,6 +143,7 @@ gefährlichen Eigenschaften der Gase zu treffen.
 
 
 ## § 4 Anforderungen beim Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000500000)
 
 (1) Der Betreiber einer Gashochdruckleitung hat sicherzustellen, dass
 diese in ordnungsgemäßem Zustand erhalten sowie überwacht und
@@ -218,6 +223,7 @@ ist.
 
 
 ## § 5 Verfahren zur Prüfung von Leitungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000603118)
 
 (1) Wer die Errichtung einer Gashochdruckleitung beabsichtigt, hat
 
@@ -263,6 +269,7 @@ der Vorabbescheinigung gemäß § 6 Absatz 3 Satz 1 zu übersenden.
 
 
 ## § 6 Inbetriebnahme und Untersagung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000700000)
 
 (1) Die Gashochdruckleitung darf erst in Betrieb genommen werden,
 
@@ -314,6 +321,7 @@ gefährdet ist.
 
 
 ## § 7 Druckabsenkung, Betriebseinstellung und Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000800000)
 
 (1) Ist eine Gashochdruckleitung nicht in ordnungsgemäßem Zustand und
 entstehen hierdurch Gefahren, muss, soweit erforderlich, der Druck
@@ -336,6 +344,7 @@ so hat er dies der zuständigen Behörde unverzüglich mitzuteilen.
 
 
 ## § 8 Wesentliche Änderungen und Arbeiten an in Betrieb befindlichen Gashochdruckleitungen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE000900000)
 
 (1) Soll eine Gashochdruckleitung oder ein Leitungsabschnitt
 wesentlich geändert oder erweitert werden, so gelten die §§ 2 bis 6
@@ -356,6 +365,7 @@ in diesen Fällen unverzüglich nachzuholen.
 
 
 ## § 9 Auskunfts- und Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001000000)
 
 (1) Wer eine Gashochdruckleitung betreibt, hat der zuständigen Behörde
 unverzüglich Folgendes anzuzeigen:
@@ -387,6 +397,7 @@ nach § 4 Absatz 1 Satz 1 und deren Ergebnis zu verlangen.
 
 
 ## § 10 Erneute und wiederkehrende Prüfungen von Gashochdruckleitungen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001100000)
 
 (1) Die zuständige Behörde kann anordnen, dass Gashochdruckleitungen
 zu überprüfen sind, wenn hierfür ein besonderer Anlass besteht,
@@ -406,6 +417,7 @@ beeinträchtigt wird.
 
 
 ## § 11 Anerkennung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001201118)
 
 (1) Sachverständige im Sinne dieser Verordnung sind Personen, die von
 der zuständigen Behörde für die Überprüfung der technischen Sicherheit
@@ -426,6 +438,7 @@ Verwaltungsverfahrensgesetzes abgewickelt werden.
 [^F775309_02_BJNR092800011BJNE001201118]: 
 
 ## § 12 Voraussetzungen für die Anerkennung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001300000)
 
 (1) Sachverständige sind anzuerkennen, wenn sie die erforderliche
 Sachkunde, Zuverlässigkeit und Unabhängigkeit besitzen. Hierfür ist
@@ -484,6 +497,7 @@ eigenen Unternehmen vornehmen.
 
 
 ## § 13 Nachweis der Qualifikation und Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001400000)
 
 (1) Die Erfüllung der Voraussetzungen nach § 12 Absatz 1 Satz 2 Nummer
 1 bis 3 wird vermutet, wenn die antragstellende Person einen der
@@ -568,6 +582,7 @@ zertifiziert ist.
 
 
 ## § 14 Nachweis der Zuverlässigkeit des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001500000)
 
 (1) Die erforderliche Zuverlässigkeit gemäß § 12 Absatz 1 Satz 2
 Nummer 5 ist in der Regel nicht gegeben, wenn die antragstellende
@@ -598,6 +613,7 @@ nicht älter als drei Monate ist, vorzulegen.
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001600000)
 
 Die Anforderungen nach § 12 Absatz 1 Satz 2 Nummer 2 bis 5 und Absatz
 2 sowie die §§ 13 und 14 gelten auch für Sachverständige, die vor
@@ -609,6 +625,7 @@ Inkrafttreten der Verordnung bei der zuständigen Behörde vorzulegen.
 
 
 ## § 16 Anerkennung gleichwertiger Nachweise aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001700000)
 
 (1) Bei der Prüfung eines Antrags auf Anerkennung stehen Nachweise
 über die Erfüllung von Anforderungen nach den §§ 12 bis 14, die in
@@ -672,6 +689,7 @@ Recht des Herkunftsstaats vergleichbare Handlung ersetzt werden.
 
 
 ## § 17 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001801118)
 
 (1) Der Sachverständige hat wesentliche Änderungen der für die
 Anerkennung relevanten Umstände der zuständigen Behörde unverzüglich
@@ -692,6 +710,7 @@ einmal jährlich zum 15. Januar die anerkannten Sachverständigen.
 
 
 ## § 18 Anzeige der vorübergehenden grenzüberschreitenden Tätigkeit von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE001901118)
 
 (1) Wer als Staatsangehöriger eines Mitgliedstaats der Europäischen
 Union oder eines Vertragsstaats des Abkommens über den Europäischen
@@ -743,6 +762,7 @@ der Sachverständige tätig werden.
 
 
 ## § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE002000000)
 
 Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -781,6 +801,7 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 20 Bestehende Gashochdruckleitungen
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE002100000)
 
 Die zuständige Behörde kann verlangen, dass Gashochdruckleitungen, die
 bei Inkrafttreten dieser Verordnung bereits errichtet sind, den
@@ -796,6 +817,7 @@ Vorschriften dieser Verordnung entsprechend angepasst werden, wenn
 
 
 ## § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über Gashochdruckleitungen vom 17.
@@ -805,6 +827,7 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html#BJNR092800011BJNE002300000)
 
 Der Bundesrat hat zugestimmt.
 

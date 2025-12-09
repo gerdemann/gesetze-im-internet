@@ -24,9 +24,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000100000)
 
 Diese Verordnung gilt für
 
@@ -56,6 +58,7 @@ Diese Verordnung gilt für
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000202130)
 
 Im Sinne dieser Verordnung sind:
 
@@ -132,9 +135,11 @@ Im Sinne dieser Verordnung sind:
 
 
 ## Abschnitt 2 - Kosten-Nutzen-Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNG000200000)
 
 
 ### § 3 Vorlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000301130)
 
 (1) Für die Errichtung oder erhebliche Modernisierung einer Anlage
 gemäß § 1 Nummer 1 sind im Rahmen der Antragsunterlagen nach § 4
@@ -231,6 +236,7 @@ offenlegen und auf Anfrage begründen.
 
 
 ### § 4 Gegenstand des Kosten-Nutzen-Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000400000)
 
 (1) Vor der Errichtung einer Anlage im Sinne des § 1 Nummer 1
 Buchstabe a sind die Kosten und der Nutzen von Vorkehrungen für den
@@ -253,6 +259,7 @@ Anlagen im Sinne von § 1 Nummer 1 Buchstabe b zu bewerten.
 
 
 ### § 5 Ermittlung zu berücksichtigender Wärme- oder Kältebedarfspunkte und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000500000)
 
 (1) Für den Kosten-Nutzen-Vergleich für Vorhaben gemäß § 1 Nummer 1
 Buchstabe a und b sind zunächst geeignete bestehende oder mögliche
@@ -312,6 +319,7 @@ Umstand darzulegen.
 
 
 ### § 6 Wirtschaftlichkeitsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000600000)
 
 (1) Vor der Wirtschaftlichkeitsanalyse sind folgende umfassende
 Beschreibungen vorzunehmen:
@@ -367,6 +375,7 @@ folgenden Kriterien Rechnung trägt:
 
 
 ### § 7 Ergebnis des Kosten-Nutzen-Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000700000)
 
 Das Ergebnis des Kosten-Nutzen-Vergleichs der
 Wirtschaftlichkeitsanalyse gemäß § 6 Absatz 3 Nummer 6 ist positiv,
@@ -397,9 +406,11 @@ wenn
 
 
 ## Abschnitt 3 - Zulassungsentscheidung der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNG000300000)
 
 
 ### § 8 Berücksichtigung des Kosten-Nutzen-Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000800000)
 
 (1) Die zuständige Behörde berücksichtigt bei der Entscheidung über
 die Zulässigkeit des Vorhabens das Ergebnis des Kosten-Nutzen-
@@ -416,9 +427,11 @@ Bundesregierung an die Europäische Kommission übermittelt werden.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNG000400000)
 
 
 ### § 9 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE000901116)
 
 § 7 der Verordnung über Großfeuerungs-, Gasturbinen- und
 Verbrennungsmotoranlagen sowie § 13 der Verordnung über die
@@ -427,6 +440,7 @@ I S. 1021, 1044, 3754) bleiben unberührt.
 
 
 ### § 10 Erstmalige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/knv-v/BJNR067010015.html#BJNR067010015BJNE001000000)
 
 Die Vorschriften dieser Verordnung gelten nicht für Vorhaben, bei
 denen die Vollständigkeit der Antragunterlagen vor dem 1. Mai 2015 von

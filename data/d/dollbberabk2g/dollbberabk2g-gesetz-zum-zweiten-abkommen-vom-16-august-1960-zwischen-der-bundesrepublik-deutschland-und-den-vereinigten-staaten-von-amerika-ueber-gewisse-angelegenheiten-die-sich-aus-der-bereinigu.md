@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1 Zustimmung zum Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000100306)
 
 Dem in Bonn am 16. August 1960 unterzeichneten Zweiten Abkommen
 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten
@@ -29,6 +30,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2 Durchführungsvorschriften zum Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000200306)
 
 (1) Für Dollarbonds, die im Verzeichnis zu Artikel I Abs. 1 des
 Abkommens aufgeführt sind, gelten die Vorschriften der Dreizehnten
@@ -52,6 +54,7 @@ Garanten beginnt.
 
 
 ## Art 3 Konkursrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000300306)
 
 (1) Über das im Geltungsbereich dieses Gesetzes befindliche Vermögen
 von juristischen Personen, die am 8. Mai 1945 ihren Sitz im Deutschen
@@ -74,6 +77,7 @@ Aussteller als Massekosten im Sinne des § 58 Nr. 2 der Konkursordnung.
 
 
 ## Art 4 Nachträgliche Erteilung von Feststellungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000400306)
 
 (1) Auslandsbonds, für die nach §§ 4, 37 des Bereinigungsgesetzes für
 deutsche Auslandsbonds ein Feststellungsbescheid beansprucht wird,
@@ -106,11 +110,13 @@ entsprechend.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000500306)
 
 -
 
 
 ## Art 6 Vorschriften für auf deutsche Währung lautende Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000600306)
 
 (1) Für Schuldverschreibungen, die von den im Verzeichnis zu Artikel I
 Abs. 1 des Abkommens genannten Ausstellern vor dem 9. Mai 1945 in
@@ -178,6 +184,7 @@ Inkrafttretens der Rechtsverordnung tritt.
 
 
 ## Art 7 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000700306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -187,6 +194,7 @@ S. 1).
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dollbberabk2g/BJNR204610961.html#BJNR204610961BJNE000800306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2, 4 und 5 am Tage
 nach seiner Verkündung in Kraft.

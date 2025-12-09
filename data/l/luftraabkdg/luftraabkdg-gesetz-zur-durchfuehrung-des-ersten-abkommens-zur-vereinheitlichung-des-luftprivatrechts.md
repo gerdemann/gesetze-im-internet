@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftraabkdg/BJNR010790933.html#BJNR010790933BJNE000100328)
 
 Die Reichsregierung hat zur Durchführung des Ersten Abkommens zur
 Vereinheitlichung des Luftprivatrechts (Reichsgesetzbl. II S. 1039)
@@ -28,6 +29,7 @@ das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftraabkdg/BJNR010790933.html#BJNR010790933BJNE000201119)
 
 (1) Bei Tötung, Körperverletzung oder Gesundheitsbeschädigung von
 Reisenden bestimmen sich der Kreis der Ersatzberechtigten, der
@@ -46,6 +48,7 @@ Verhältnis, wie ihr Gesamtbetrag zum Höchstbetrag steht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftraabkdg/BJNR010790933.html#BJNR010790933BJNE000300328)
 
 (1) An Stelle der in Artikel 22 des Abkommens in französischer Währung
 festgesetzten Höchstbeträge treten die entsprechenden Beträge in

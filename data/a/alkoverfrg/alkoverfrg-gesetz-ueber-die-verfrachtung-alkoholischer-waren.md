@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000100319)
 
 (1) Alkoholische Waren im Sinne dieses Gesetzes sind Alkohol
 (Weingeist) und alkoholhaltige Flüssigkeiten, die zum Genuß oder zur
@@ -41,6 +42,7 @@ werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000200319)
 
 (1) Schiffen von weniger als 100 Registertonnen Nettoraumgehalt ist
 die Beförderung alkoholischer Waren, insbesondere die Ausfuhr oder das
@@ -51,6 +53,7 @@ regelmäßiger Linienfahrt und für die Beförderung auf Binnengewässern.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000300319)
 
 Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt, die
 einem Staat angehören, der dem Abkommen zur Bekämpfung des
@@ -61,6 +64,7 @@ amtlichen Genehmigung der zuständigen Behörde des Heimatlandes sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000400319)
 
 (1) Die in § 3 genannten Genehmigungen erteilt im Geltungsbereich
 dieses Gesetzes die Hafenbehörde des Heimathafens.
@@ -76,6 +80,7 @@ wechselt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000500319)
 
 Die Ausreise der in § 3 bezeichneten Schiffe aus dem Geltungsbereich
 dieses Gesetzes darf nur erfolgen,
@@ -99,6 +104,7 @@ dieses Gesetzes darf nur erfolgen,
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000600319)
 
 (1) Mit der in den §§ 3 und 4 genannten schriftlichen amtlichen
 Genehmigung ist ein Anhang durchnumerierter freier Blätter fest zu
@@ -124,6 +130,7 @@ Nachweis nicht führen, so hat er diese Hinderungsgründe nachzuweisen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000700319)
 
 Die zur Durchführung der §§ 2 bis 6 erforderlichen Maßnahmen sind von
 den Regierungen der Küstenländer zu treffen. Die Zollverwaltung ist in
@@ -131,6 +138,7 @@ dem durch die jeweiligen Verhältnisse gebotenen Umfang zu beteiligen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000800319)
 
 (1) Ordnungswidrig handelt, wer als Kapitän oder Stellvertreter des
 Kapitäns
@@ -162,6 +170,7 @@ wird.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE000900319)
 
 Im Falle nachgewiesenen Mißbrauchs kann die in § 3 erwähnte
 Genehmigung deutschen Schiffen durch die Hafenbehörde, die sie erteilt
@@ -169,6 +178,7 @@ hat, wieder entzogen werden.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/alkoverfrg/BJNR202300926.html#BJNR202300926BJNE001000319)
 
 Dieses Gesetz tritt 30 Tage nach der Hinterlegung der deutschen
 Ratifikationsurkunde des in § 3 genannten Abkommens in Kraft.

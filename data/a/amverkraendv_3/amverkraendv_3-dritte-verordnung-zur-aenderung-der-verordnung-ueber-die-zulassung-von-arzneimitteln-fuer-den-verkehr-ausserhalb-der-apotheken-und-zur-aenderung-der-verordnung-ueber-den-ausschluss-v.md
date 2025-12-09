@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amverkr_ndv_3/BJNR021030988.html#BJNR021030988BJNE000100326)
 
 Auf Grund der §§ 45 und 46 des Arzneimittelgesetzes vom 24. August
 1976 (BGBl. I S. 2445, 2448), von denen § 45 durch Artikel 1 Nr. 26
@@ -31,11 +32,13 @@ verordnet:
 
 
 ## (XXXX) Art 1 und Art 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amverkr_ndv_3/BJNR021030988.html#BJNR021030988BJNE000200326)
 
 -
 
 
 ## Art 3 Gemeinsame Neufassung
+[Direktlink](https://www.gesetze-im-internet.de/amverkr_ndv_3/BJNR021030988.html#BJNR021030988BJNE000300326)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit kann den
 Wortlaut der Sachvorschriften und Anlagen der durch die Artikel 1 und
@@ -68,12 +71,14 @@ anpassen.
 
 
 ## Art 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/amverkr_ndv_3/BJNR021030988.html#BJNR021030988BJNE000400326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amverkr_ndv_3/BJNR021030988.html#BJNR021030988BJNE000500326)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -83,6 +88,7 @@ den Verkehr außerhalb der Apotheken freigegeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amverkr_ndv_3/BJNR021030988.html#BJNR021030988BJNE000600326)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

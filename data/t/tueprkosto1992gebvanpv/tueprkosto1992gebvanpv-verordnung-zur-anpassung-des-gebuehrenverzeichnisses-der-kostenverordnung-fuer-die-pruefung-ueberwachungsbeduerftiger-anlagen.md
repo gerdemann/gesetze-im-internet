@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000100305)
 
 Auf Grund des § 19 Abs. 6 Satz 4 des Gerätesicherheitsgesetzes in der
 Fassung der Bekanntmachung vom 11. Mai 2001 (BGBl. I S. 866) in
@@ -28,6 +29,7 @@ und Sozialordnung nach Anhörung der beteiligten Kreise:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000200305)
 
 Abweichend von § 1 der Kostenverordnung für die Prüfung
 überwachungsbedürftiger Anlagen vom 23. November 1992 (BGBl. I S.
@@ -39,16 +41,19 @@ nach den Anhängen I bis VI dieser Verordnung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000300305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000400305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anhang I Gebühren für die Prüfung von Dampfkesselanlagen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000500305)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2047 - 2051)
 
@@ -781,6 +786,7 @@ wobei t die Teilung der Rohre in der Rohrwand bedeutet.
 
 
 ## Anhang II Gebühren für die Prüfung von Druckbehältern, Druckgasbehältern und Füllanlagen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000600305)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2052 - 2056)
 
@@ -1485,6 +1491,7 @@ wobei t die Teilung der Rohre in der Rohrwand bedeutet.
 
 
 ## Anhang III Gebühren für die Prüfung von Aufzugsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000700305)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2057 - 2059
 
@@ -2095,6 +2102,7 @@ folgende Gebühren erhoben:
 
 
 ## Anhang IV Gebühren für die Prüfung von Acetylenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000800305)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2060
 
@@ -2152,6 +2160,7 @@ Für die Prüfung von Acetylenanlagen werden folgende Gebühren erhoben:
 
 
 ## Anhang V Gebühren für die Prüfung von Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE000900305)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2061 - 2067)
 
@@ -3613,6 +3622,7 @@ Für die Prüfung von Acetylenanlagen werden folgende Gebühren erhoben:
 
 
 ## Anhang VI Gebühren für die Prüfung elektrischer Anlagen in explosionsgefährdeten Bereichen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/BJNR204600001.html#BJNR204600001BJNE001000305)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2068
 

@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000100000)
 
 Es wird ein nationaler Solidaritätsfonds "Aufbauhilfe" als
 Sondervermögen des Bundes errichtet.
 
 
 ## § 2 Zweck und Mittelverwendung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000201301)
 
 (1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser vom
 August 2002 betroffenen Ländern zur Beseitigung der Hochwasserschäden
@@ -67,6 +69,7 @@ Verteilung der Mittel und zur näheren Durchführung zu erlassen.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000300000)
 
 (1) Der Fonds ist nicht rechtsfähig, er kann unter seinem Namen im
 Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine
@@ -79,6 +82,7 @@ haftet der Bund.
 
 
 ## § 4 Vermögen des Fonds und Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000401301)
 
 (1) Die Finanzierung des Fonds erfolgt in gemeinsamer Verantwortung
 durch Beiträge aus dem Bundeshaushalt und den jeweiligen Haushalten
@@ -189,6 +193,7 @@ werden.
 
 
 ## § 5 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000500000)
 
 Alle Einnahmen und Ausgaben des Fonds werden in einem Wirtschaftsplan
 veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben
@@ -196,6 +201,7 @@ auszugleichen.
 
 
 ## § 6 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000600000)
 
 Der Bundesminister der Finanzen stellt am Schluss des Rechnungsjahres
 die Jahresrechnung für den Fonds auf und fügt sie als Anhang der
@@ -203,11 +209,13 @@ Haushaltsrechnung des Bundes bei.
 
 
 ## § 7 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000700000)
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 
 ## § 8 Auflösung des Fonds und anschließende Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000801160)
 
 (1) Der Fonds wird mit Ablauf des Jahres 2006 aufgelöst. Das Vermögen
 des Fonds geht unter Beibehaltung der bisherigen Zweckbindung
@@ -282,6 +290,7 @@ Mittel entsprechend Satz 1 an Bund und Länder zu erstatten.
 
 
 ## Anlage (zu § 8 Abs. 1 Satz 4)
+[Direktlink](https://www.gesetze-im-internet.de/aufhfg/BJNR365200002.html#BJNR365200002BJNE000900301)
 
 
 *    *

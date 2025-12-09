@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-273 v. 30.6.1999 I 1495 (HwirtAusbV 1999)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -35,9 +36,11 @@ und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes, Anerkennungsbereich des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000300000)
 
 (1) Der Ausbildungsberuf des Hauswirtschafters und der
 Hauswirtschafterin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -50,11 +53,13 @@ Ausbildungsberuf der Landwirtschaft.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -72,6 +77,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -189,6 +195,7 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -196,15 +203,18 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNG000200000)
 
 
 ### § 6 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000800000)
 
 Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den
 Zeitrahmen legt die zuständige Stelle fest.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -221,6 +231,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001000000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Hauswirtschaftliche
 Leistungen durchführen statt.
@@ -270,15 +281,18 @@ Bearbeitung der Aufgaben beträgt 90 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNG000300000)
 
 
 ### § 9 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001100000)
 
 Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den
 Zeitrahmen legt die zuständige Stelle fest.
 
 
 ### § 10 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001200000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -295,6 +309,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 11 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001300000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -319,6 +334,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 12 Prüfungsbereich Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001400000)
 
 (1) Im Prüfungsbereich Hauswirtschaftliche Versorgungs- und
 Betreuungsleistungen planen und umsetzen hat der Prüfling
@@ -369,6 +385,7 @@ Nach der Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch
 
 
 ### § 13 Prüfungsbereich Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001500000)
 
 (1) Im Prüfungsbereich Hauswirtschaftliche Produkte und
 Dienstleistungen erstellen und vermarkten hat der Prüfling
@@ -443,6 +460,7 @@ Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens
 
 
 ### § 14 Prüfungsbereich Verpflegung personenorientiert und zielgruppenorientiert planen
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001600000)
 
 (1) Im Prüfungsbereich Verpflegung personenorientiert und
 zielgruppenorientiert planen hat der Prüfling nachzuweisen, dass er in
@@ -493,6 +511,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001700000)
 
 (1) Im Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen,
 reinigen und pflegen hat der Prüfling nachzuweisen, dass er in der
@@ -554,6 +573,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -567,6 +587,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -642,6 +663,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 ### § 18 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE002000000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -682,9 +704,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNG000400000)
 
 
 ### § 19 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE002100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -694,6 +718,7 @@ Auszubildende noch keine Zwischenprüfung absolviert hat.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt
 die Ausbildungsverordnung Hauswirtschafter/Hauswirtschafterin vom 30.
@@ -702,6 +727,7 @@ Juni 1999 (BGBl. I S. 1495) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin
+[Direktlink](https://www.gesetze-im-internet.de/hawiausbv/BJNR073000020.html#BJNR073000020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 735 - 742)
 

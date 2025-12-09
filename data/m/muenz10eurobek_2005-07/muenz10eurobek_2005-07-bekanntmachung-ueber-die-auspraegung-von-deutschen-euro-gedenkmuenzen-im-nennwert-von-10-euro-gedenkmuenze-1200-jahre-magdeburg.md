@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005-07/BJNR229900005.html#BJNR229900005BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung des
@@ -54,11 +55,13 @@ Der Entwurf der Münze stammt von Herrn Heinz Hoyer, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005-07/BJNR229900005.html#BJNR229900005BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005-07/BJNR229900005.html#BJNR229900005BJNE000300000)
 
 (Fundstelle: BGBl. I 2005, 2299)
 ![bgbl1_2005_j2299_0010.jpg](bgbl1_2005_j2299_0010.jpg)

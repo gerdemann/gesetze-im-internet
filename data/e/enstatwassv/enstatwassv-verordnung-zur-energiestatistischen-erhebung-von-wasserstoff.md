@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/enstatwassv/BJNR1BA0A0024.html#BJNR1BA0A0024BJNE000100000)
 
 Auf Grund des § 12 Absatz 1 Nummer 3 des Energiestatistikgesetzes, der
 durch Artikel 80 des Gesetzes vom 20. November 2019 (BGBl. I S. 1626)
@@ -24,6 +25,7 @@ geändert worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Erhebungen in der Gaswirtschaft einschließlich der erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/enstatwassv/BJNR1BA0A0024.html#BJNR1BA0A0024BJNE000200000)
 
 (1) Die jährliche Erhebung nach § 4 Absatz 3 Satz 1 des
 Energiestatistikgesetzes erfasst zusätzlich:
@@ -106,11 +108,13 @@ erfasst.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/enstatwassv/BJNR1BA0A0024.html#BJNR1BA0A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/enstatwassv/BJNR1BA0A0024.html#BJNR1BA0A0024BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

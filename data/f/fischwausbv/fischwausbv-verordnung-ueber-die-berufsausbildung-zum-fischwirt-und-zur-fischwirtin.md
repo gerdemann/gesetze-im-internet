@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -33,20 +34,24 @@ für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000300000)
 
 Der Ausbildungsberuf des Fischwirtes und der Fischwirtin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -64,6 +69,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -192,6 +198,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -199,6 +206,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -209,9 +217,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -221,6 +231,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -237,6 +248,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001100000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -250,6 +262,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich Fischereiliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001200000)
 
 (1) Im Prüfungsbereich Fischereiliche Nutzung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -295,6 +308,7 @@ bearbeiten.
 
 
 ### § 11 Prüfungsbereich Maschinen und Geräte, Be- und Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001300000)
 
 (1) Im Prüfungsbereich Maschinen und Geräte, Be- und Verarbeitung soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -351,12 +365,15 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 15 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000300000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000400000)
 
 
 #### § 12 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001400000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -366,6 +383,7 @@ durchgeführt werden.
 
 
 #### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001500000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -382,9 +400,11 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### Unterabschnitt 2 - Fachrichtung Aquakultur und Binnenfischerei
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000500000)
 
 
 #### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001600000)
 
 Die Abschlussprüfung in der Fachrichtung Aquakultur und
 Binnenfischerei findet in den folgenden Prüfungsbereichen statt:
@@ -405,6 +425,7 @@ Binnenfischerei findet in den folgenden Prüfungsbereichen statt:
 
 
 #### § 15 Prüfungsbereich Fischereitechnik
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001700000)
 
 (1) Im Prüfungsbereich Fischereitechnik soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -480,6 +501,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 #### § 16 Prüfungsbereich Fang und Vermarktung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001800000)
 
 (1) Im Prüfungsbereich Fang und Vermarktung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -547,6 +569,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 25 Minuten.
 
 
 #### § 17 Prüfungsbereich Fischereiliche Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE001900000)
 
 (1) Im Prüfungsbereich Fischereiliche Bewirtschaftung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -612,6 +635,7 @@ bearbeiten.
 
 
 #### § 18 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002000000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -626,6 +650,7 @@ bearbeiten.
 
 
 #### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -702,9 +727,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Küstenfischerei und Kleine Hochseefischerei
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000600000)
 
 
 #### § 20 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002200000)
 
 Die Abschlussprüfung in der Fachrichtung Küstenfischerei und Kleine
 Hochseefischerei findet in den folgenden Prüfungsbereichen statt:
@@ -728,6 +755,7 @@ Hochseefischerei findet in den folgenden Prüfungsbereichen statt:
 
 
 #### § 21 Prüfungsbereich Motoren- und Maschinentechnik
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002300000)
 
 (1) Im Prüfungsbereich Motoren- und Maschinentechnik soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -804,6 +832,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 #### § 22 Prüfungsbereich Fangtechnik
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002400000)
 
 (1) Im Prüfungsbereich Fangtechnik soll der Prüfling nachweisen, dass
 er in der Lage ist,
@@ -864,6 +893,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 #### § 23 Prüfungsbereich Nautik und Navigation
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002500000)
 
 (1) Im Prüfungsbereich Nautik und Navigation soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -913,6 +943,7 @@ auftragsbezogene Fachgespräch dauert höchstens 10 Minuten.
 
 
 #### § 24 Prüfungsbereich Fischereibiologie, Bewirtschaftung und Vermarktung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002600000)
 
 (1) Im Prüfungsbereich Fischereibiologie, Bewirtschaftung und
 Vermarktung soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -974,6 +1005,7 @@ bearbeiten.
 
 
 #### § 25 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -988,6 +1020,7 @@ bearbeiten.
 
 
 #### § 26 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1074,9 +1107,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNG000700000)
 
 
 ### § 27 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE002900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -1085,6 +1120,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 28 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE003000000)
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Fischwirt vom 16.
@@ -1095,6 +1131,7 @@ außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fischwirt und zur Fischwirtin
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbv/BJNR031200016.html#BJNR031200016BJNE003100000)
 
 (Fundstelle: BGBl. I 2016,319 - 325)
 

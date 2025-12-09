@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000100000)
 
 Dieses Gesetz regelt die Durchführung
 
@@ -68,6 +70,7 @@ Dieses Gesetz regelt die Durchführung
 
 
 ### § 2 Begriffsbestimmungen, Verweise
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000200000)
 
 (1) Ergänzend zu den Begriffsbestimmungen des Artikels 2 der
 Verordnung (EU) 2016/2031 und des Artikels 3 der Verordnung (EU)
@@ -155,6 +158,7 @@ festgelegten Anwendungstages anzuwenden.
 
 
 ### § 3 Leitlinien
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000300000)
 
 Liegt eine in Zusammenarbeit mit den zuständigen Behörden durch das
 Bundesforschungsinstitut für Kulturpflanzen (Julius Kühn-Institut)
@@ -168,9 +172,11 @@ bei der Anwendung pflanzengesundheitlicher Verfahren und Maßnahmen.
 
 
 ## Abschnitt 2 - Durchführung von Pflanzengesundheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNG000200000)
 
 
 ### § 4 Maßnahmen gegen die Ein- und Verschleppung und Ansiedlung von Schadorganismen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000400000)
 
 (1) Das Befördern, das Inverkehrbringen, das innergemeinschaftliche
 Verbringen, die Einfuhr und die Ausfuhr von Schadorganismen und
@@ -313,6 +319,7 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 5 Anordnungen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000500000)
 
 Die zuständige Behörde kann zur Bekämpfung von Schadorganismen oder
 zur Verhütung der Ein- oder Verschleppung sowie zur Bekämpfung der
@@ -340,9 +347,11 @@ zuletzt durch Artikel 278 der Verordnung vom 19. Juni 2020 (BGBl. I S.
 
 
 ## Abschnitt 3 - Entschädigung, Forderungsübergang, Kosten
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNG000300000)
 
 
 ### § 6 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000600000)
 
 (1) Soweit auf Grund dieses Gesetzes oder auf Grund von Rechtsakten
 der Organe der Europäischen Union im Anwendungsbereich dieses Gesetzes
@@ -373,6 +382,7 @@ ordentliche Rechtsweg gegeben.
 
 
 ### § 7 Forderungsübergang, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000700000)
 
 (1) Wird eine Entschädigung nach § 6 Absatz 1 oder 2 geleistet oder
 ein Ausgleich aus Anlass behördlich angeordneter Maßnahmen zur
@@ -401,9 +411,11 @@ beteiligt hat.
 
 
 ## Abschnitt 4 - Behörden, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNG000400000)
 
 
 ### § 8 Julius Kühn-Institut
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000800000)
 
 Im Anwendungsbereich dieses Gesetzes ist das Julius Kühn-Institut
 
@@ -428,6 +440,7 @@ unberührt.
 
 
 ### § 9 Durchführung in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE000900000)
 
 (1) Im Anwendungsbereich dieses Gesetzes haben die als
 Pflanzenschutzdienst zuständigen Behörden insbesondere folgende
@@ -469,6 +482,7 @@ Satz 2 Nummer 2 Buchstabe k erlassenen Rechtsverordnung erfüllen.
 
 
 ### § 10 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001000000)
 
 Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die
 zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße
@@ -481,6 +495,7 @@ beschränken.
 
 
 ### § 11 Mitwirkung der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001100000)
 
 (1) Die Zollbehörden wirken bei der Überwachung der Einfuhr, der
 Durchfuhr und der Ausfuhr von Schadorganismen und Befallsgegenständen
@@ -514,6 +529,7 @@ nach Maßgabe des Absatzes 1 und 2 eingeschränkt.
 
 
 ### § 12 Grenzkontrollstellen mit zugeordneten Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001200000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft gibt im
 Einvernehmen mit dem Bundesministerium der Finanzen die
@@ -527,9 +543,11 @@ des Einvernehmens nach Satz 1 auf die Generalzolldirektion übertragen.
 
 
 ## Abschnitt 5 - Auskunftspflichten und Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNG000500000)
 
 
 ### § 13 Auskunftspflichten, Betretensrechte
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001300000)
 
 (1) Natürliche und juristische Personen und nichtrechtsfähige
 Personenvereinigungen haben dem Julius Kühn-Institut oder der
@@ -600,6 +618,7 @@ Ordnungswidrigkeit verfolgt zu werden.
 
 
 ### § 14 Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001400000)
 
 (1) Das Julius Kühn-Institut kann den zuständigen Behörden anderer
 Mitgliedstaaten und der Europäischen Kommission auf Verlangen
@@ -619,6 +638,7 @@ Bundes oder anderer Mitgliedstaaten sowie der Europäischen Kommission
 
 
 ### § 15 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001500000)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 der Europäischen Kommission obliegt dem Bundesministerium für
@@ -632,9 +652,11 @@ diese Befugnis durch Rechtsverordnung nach Satz 3 auf andere Behörden
 
 
 ## Abschnitt 6 - Bußgeldvorschriften und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNG000600000)
 
 
 ### § 16 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001601119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -918,6 +940,7 @@ Nummer 3 geahndet werden können.
 
 
 ### § 17 Rechtsverordnungen in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/pflgesg/BJNR235410021.html#BJNR235410021BJNE001700000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei
 Gefahr im Verzug Rechtsverordnungen nach § 4 Absatz 2 und 3, in den

@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000100310)
 
 Auf Vorschlag der Bundesregierung bestimme ich zur Form und Führung
 der deutschen Flaggen:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000200310)
 
 
 1.  Die Bundesflagge besteht aus drei gleich breiten Querstreifen, oben
@@ -61,6 +63,7 @@ der deutschen Flaggen:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000300310)
 
 Alle Stellen des Bundes führen die Bundesdienstflagge. Der
 Bundespräsident oder die Bundespräsidentin führt die Standarte am
@@ -70,6 +73,7 @@ gilt auch für Wasserfahrzeuge im öffentlichen Dienst des Bundes.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000400310)
 
 An Dienstkraftfahrzeugen können bei dienstlichen Fahrten die in den
 Anhängen 2 und 3 beschriebenen Flaggen geführt werden, wenn sich der
@@ -79,6 +83,7 @@ Fahrzeug befindet. Die Flagge ist am rechten Kotflügel anzubringen.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000500310)
 
 Über Änderungen des Anhangs 2 sowie bei Zweifeln hinsichtlich der
 Berechtigung zum Führen der Bundesdienstflagge oder des anzuwendenden
@@ -88,6 +93,7 @@ Bundesministerium.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000601377)
 
 
 1.  Die Führung der Bundesdienstflagge an Dienstkraftfahrzeugen der
@@ -102,16 +108,19 @@ Bundesministerium.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000700310)
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000800310)
 
 Der Bundespräsident
 
 
 ## Anhang 1 Flaggen der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE000900310)
 
 (Fundstelle: BGBl. I 1996, S. 1730)
 
@@ -144,6 +153,7 @@ Der Bundespräsident
 
 
 ## Anhang 2
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE001000310)
 
 (1) An Dienstkraftfahrzeugen führen
 
@@ -323,6 +333,7 @@ sie die Vertretung ausüben.
 
 
 ## Anhang 3 Flaggen für Dienstkraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/flaggano_1996/BJNR172900996.html#BJNR172900996BJNE001100310)
 
 
 *    *        ![bgbl1_1996_j1732_0010.jpg](bgbl1_1996_j1732_0010.jpg)

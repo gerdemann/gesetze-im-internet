@@ -24,6 +24,7 @@ gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ndwv/BJNR217200018.html#BJNR217200018BJNE000100000)
 
 Diese Verordnung legt zum Schutz der Bevölkerung vor den Gefahren
 ionisierender Strahlung Dosiswerte fest, die bei einem Notfall im
@@ -43,6 +44,7 @@ Kriterien für die Angemessenheit folgender Schutzmaßnahme dienen:
 
 
 ## § 2 Aufforderung zum Aufenthalt in Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/ndwv/BJNR217200018.html#BJNR217200018BJNE000200000)
 
 (1) Radiologisches Kriterium für die Angemessenheit einer Aufforderung
 der Bevölkerung zum Aufenthalt in Gebäuden ist eine effektive Dosis
@@ -66,6 +68,7 @@ sonstiger Schutzfaktoren.
 
 
 ## § 3 Aufforderung zur Einnahme von Jodtabletten
+[Direktlink](https://www.gesetze-im-internet.de/ndwv/BJNR217200018.html#BJNR217200018BJNE000300000)
 
 (1) Radiologisches Kriterium für die Angemessenheit einer Aufforderung
 zur Einnahme von Jodtabletten ist
@@ -93,6 +96,7 @@ Schilddrüse erfolgt ohne Berücksichtigung sonstiger Schutzfaktoren.
 
 
 ## § 4 Evakuierung
+[Direktlink](https://www.gesetze-im-internet.de/ndwv/BJNR217200018.html#BJNR217200018BJNE000400000)
 
 (1) Radiologisches Kriterium für die Angemessenheit einer Evakuierung
 ist eine effektive Dosis von 100 Millisievert, die betroffene Personen
@@ -115,6 +119,7 @@ sonstiger Schutzfaktoren.
 
 
 ## § 5 Entsprechende Anwendung der Strahlenschutzverordnung
+[Direktlink](https://www.gesetze-im-internet.de/ndwv/BJNR217200018.html#BJNR217200018BJNE000500000)
 
 Für die Schätzung der Dosiswerte nach dieser Verordnung gelten die §§
 1 und 171 sowie die Anlage 18 der Strahlenschutzverordnung

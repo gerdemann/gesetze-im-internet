@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Die V ist gem. Bek. v. 22.6.2005 I 1695 mWv 1.7.2005 in Kraft getreten.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000100000)
 
 Auf Grund des § 45e des Einkommensteuergesetzes in der Fassung der
 Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179),
@@ -30,10 +31,12 @@ S. 2645) eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNG000100000)
 
 
 
 ### § 1 Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000300000)
 
 Die inländischen Zahlstellen haben die für die Durchführung dieser
 Verordnung notwendigen Aufgaben unabhängig davon wahrzunehmen, wo der
@@ -42,6 +45,7 @@ ist.
 
 
 ### § 2 Definition des wirtschaftlichen Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000401308)
 
 (1) Als "wirtschaftlicher Eigentümer" im Sinne dieser Verordnung gilt
 jede natürliche Person, die eine Zinszahlung vereinnahmt oder zu deren
@@ -100,6 +104,7 @@ die betreffende natürliche Person als den wirtschaftlichen Eigentümer.
 
 
 ### § 3 Ermittlung von Identität und Wohnsitz des wirtschaftlichen Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000500000)
 
 (1) Bei vertraglichen Beziehungen, die vor dem 1. Januar 2004
 eingegangen wurden, ermittelt die Zahlstelle die Identität des
@@ -143,6 +148,7 @@ anderer amtlicher Identitätsausweis ausgestellt wurde.
 
 
 ### § 4 Definition der Zahlstelle
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000600000)
 
 (1) Als "Zahlstelle" im Sinne dieser Verordnung gilt jeder
 Wirtschaftsbeteiligte, der dem wirtschaftlichen Eigentümer Zinsen
@@ -211,6 +217,7 @@ sind:
 
 
 ### § 5 Definition der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000701308)
 
 (1) Als "zuständige Behörde" im Sinne dieser Verordnung gilt:
 
@@ -234,6 +241,7 @@ Antragstellers zuständig.
 
 
 ### § 6 Definition der Zinszahlung
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000801308)
 
 (1) Als "Zinszahlung" im Sinne dieser Verordnung gelten:
 
@@ -338,6 +346,7 @@ des Vermögens der betreffenden Organismen oder Einrichtungen.
 
 
 ### § 7 Räumlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE000900000)
 
 Diese Verordnung gilt für Zinszahlungen durch eine inländische
 Zahlstelle an wirtschaftliche Eigentümer, die ihren Wohnsitz in einem
@@ -345,10 +354,12 @@ anderen Mitgliedstaat der Europäischen Gemeinschaft haben.
 
 
 ## Abschnitt 2 - Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNG000201308)
 
 
 
 ### § 8 Datenübermittlung durch die Zahlstelle
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001002308)
 
 Wenn der wirtschaftliche Eigentümer der Zinsen in einem anderen
 Mitgliedstaat ansässig ist, hat die inländische Zahlstelle dem
@@ -378,6 +389,7 @@ auf das Jahr des Zuflusses folgt.
 
 
 ### § 9 Datenerhebung und Datenübermittlung durch das Bundeszentralamt für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001102308)
 
 (1) Das Bundeszentralamt für Steuern speichert die nach § 8
 übermittelten Daten und übermittelt sie zum Zwecke der Besteuerung
@@ -403,10 +415,12 @@ die Weiterübermittlung erfolgt ist, gelöscht.
 
 
 ## Abschnitt 3 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNG000300000)
 
 
 
 ### § 10 Übergangszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001202308)
 
 Deutschland übermittelt Belgien, Luxemburg und Österreich durch das
 Bundeszentralamt für Steuern Daten nach Abschnitt 2 dieser Verordnung,
@@ -417,6 +431,7 @@ Bestimmungen des Abschnitts 2 der Richtlinie nicht anwenden müssen.
 
 
 ### § 11 Besteuerung nach innerstaatlichen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001300000)
 
 Die Erhebung einer Quellensteuer durch Belgien, Luxemburg und
 Österreich als Zahlstellenstaat steht einer Besteuerung der Erträge
@@ -425,6 +440,7 @@ gemäß seinen innerstaatlichen Rechtsvorschriften nicht entgegen.
 
 
 ### § 12 Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001401308)
 
 Das Bundeszentralamt für Steuern nimmt den der Bundesrepublik
 Deutschland zustehenden Anteil aus der Erhebung von Quellensteuern
@@ -432,6 +448,7 @@ durch die Staaten Belgien, Luxemburg und Österreich entgegen.
 
 
 ### § 13 Ausnahmen vom Quellensteuerverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001500000)
 
 Zur Ermöglichung einer Abstandnahme von der Erhebung einer
 Quellensteuer in den Staaten Belgien, Luxemburg und Österreich stellt
@@ -459,6 +476,7 @@ ausgestellt.
 
 
 ### § 14 Vermeidung der Doppelbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001601308)
 
 (1) Bei einem wirtschaftlichen Eigentümer mit inländischem
 steuerlichen Wohnsitz wird gemäß den Absätzen 2 und 3 jegliche
@@ -488,6 +506,7 @@ Absatz 2 zu erfolgen.
 
 
 ### § 15 Umlauffähige Schuldtitel
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001701308)
 
 (1) Während des Übergangszeitraums nach Artikel 10 Abs. 2 der
 Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der
@@ -538,10 +557,12 @@ Rechtsvorschriften nicht entgegen.
 
 
 ## Abschnitt 4 - Anwendungs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNG000400000)
 
 
 
 ### § 16 Andere Quellensteuern
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001800000)
 
 Diese Verordnung steht der Erhebung anderer Arten der Quellensteuer
 als die nach § 11 gemäß den innerstaatlichen Rechtsvorschriften nicht
@@ -549,6 +570,7 @@ entgegen.
 
 
 ### § 16a Erweiterung des Anwendungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE002202160)
 
 (1) Diese Verordnung ist vorbehaltlich der Absätze 2 bis 4
 entsprechend anwendbar auf
@@ -699,6 +721,7 @@ Niederländischen Antillen aus.
 
 
 ### § 17 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE001902377)
 
 (1) Vorbehaltlich der Absätze 2 und 3 gilt diese Verordnung nur für
 Zinszahlungen, die bis zum 31. Dezember 2015 zugeflossen sind.
@@ -715,12 +738,14 @@ ist. Dies gilt auch für Curacao und Sint Maarten.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE002000000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 15)
 
 ### Anlage Liste der verbundenen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ziv/BJNR012800004.html#BJNR012800004BJNE002102160)
 
 Folgende Einrichtungen sind als "mit der Regierung verbundene
 Einrichtungen, die als Behörde handeln oder deren Funktion durch einen

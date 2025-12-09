@@ -21,6 +21,7 @@ Neugefasst durch
 Stand: zuletzt geändert Art. 17 G v. 22.12.2023 I Nr. 414
 
 ## § 1 Verfassungsrechtliche Stellung, Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000102306)
 
 (1) Der Wehrbeauftragte nimmt seine Aufgaben als Hilfsorgan des
 Bundestages bei der Ausübung der parlamentarischen Kontrolle wahr.
@@ -44,6 +45,7 @@ Beratung gemacht hat.
 
 
 ## § 2 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000202306)
 
 (1) Der Wehrbeauftragte erstattet für das Kalenderjahr dem Bundestag
 einen schriftlichen Gesamtbericht (Jahresbericht).
@@ -57,6 +59,7 @@ erstatten.
 
 
 ## § 3 Amtsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000304310)
 
 Der Wehrbeauftragte hat in Erfüllung der ihm übertragenen Aufgaben die
 folgenden Befugnisse:
@@ -113,6 +116,7 @@ folgenden Befugnisse:
 
 
 ## § 4 Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000402306)
 
 Gerichte und Verwaltungsbehörden des Bundes, der Länder und der
 Gemeinden sind verpflichtet, dem Wehrbeauftragten bei der Durchführung
@@ -120,6 +124,7 @@ der erforderlichen Erhebungen Amtshilfe zu leisten.
 
 
 ## § 5 Allgemeine Richtlinien, Weisungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000502306)
 
 (1) Der Bundestag und der Verteidigungsausschuß können allgemeine
 Richtlinien für die Arbeit des Wehrbeauftragten erlassen.
@@ -129,12 +134,14 @@ Weisungen frei.
 
 
 ## § 6 Anwesenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000602306)
 
 Der Bundestag und der Verteidigungsausschuß können jederzeit die
 Anwesenheit des Wehrbeauftragten verlangen.
 
 
 ## § 7 Eingaberecht des Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000702306)
 
 Jeder Soldat hat das Recht, sich einzeln ohne Einhaltung des
 Dienstwegs unmittelbar an den Wehrbeauftragten zu wenden. Wegen der
@@ -143,11 +150,13 @@ gemaßregelt oder benachteiligt werden.
 
 
 ## § 8 Anonyme Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000802306)
 
 Anonyme Eingaben werden nicht bearbeitet.
 
 
 ## § 9 Vertraulichkeit der Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE000902306)
 
 Wird der Wehrbeauftragte auf Grund einer Eingabe tätig, so steht es in
 seinem Ermessen, die Tatsache der Eingabe und den Namen des Einsenders
@@ -157,6 +166,7 @@ Rechtspflichten entgegenstehen.
 
 
 ## § 10 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001002306)
 
 (1) Der Wehrbeauftragte ist auch nach Beendigung seines
 Amtsverhältnisses verpflichtet, über die ihm amtlich bekanntgewordenen
@@ -182,11 +192,13 @@ Grundordnung für deren Erhaltung einzutreten.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001102306)
 
 (weggefallen)
 
 
 ## § 12 Unterrichtungspflichten durch Bundes- und Länderbehörden
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001202306)
 
 Die Justiz- und Verwaltungsbehörden des Bundes und der Länder sind
 verpflichtet, den Wehrbeauftragten über die Einleitung des Verfahrens,
@@ -197,6 +209,7 @@ zugeleitet worden sind.
 
 
 ## § 13 Wahl des Wehrbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001302306)
 
 Der Bundestag wählt in geheimer Wahl mit der Mehrheit seiner
 Mitglieder den Wehrbeauftragten. Vorschlagsberechtigt sind der
@@ -206,6 +219,7 @@ Aussprache findet nicht statt.
 
 
 ## § 14 Wählbarkeit, Amtsdauer, Verbot einer anderen Berufsausübung, Eid, Befreiung vom Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001403305)
 
 (1) Zum Wehrbeauftragten ist jeder/jede Deutsche wählbar, der/die das
 Wahlrecht zum Bundestag besitzt und das 35. Lebensjahr vollendet hat.
@@ -227,6 +241,7 @@ befreit.
 
 
 ## § 15 Rechtsstellung des Wehrbeauftragten, Beginn und Beendigung des Amtsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001502306)
 
 (1) Der Wehrbeauftragte steht nach Maßgabe dieses Gesetzes in einem
 öffentlich-rechtlichen Amtsverhältnis. Der Präsident des Bundestages
@@ -257,6 +272,7 @@ Präsident des Bundestages spricht die Entlassung aus.
 
 
 ## § 16 Sitz des Wehrbeauftragten, Leitender Beamter, Beschäftigte, Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001602306)
 
 (1) Der Wehrbeauftragte hat seinen Sitz beim Bundestag.
 
@@ -275,6 +291,7 @@ Einzelplan des Bundestages in einem eigenen Kapitel auszuweisen.
 
 
 ## § 17 Vertretung des Wehrbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001702306)
 
 (1) Der Leitende Beamte nimmt die Rechte des Wehrbeauftragten mit
 Ausnahme des Rechts nach § 3 Nr. 4 bei Verhinderung und nach
@@ -291,6 +308,7 @@ Verteidigungsausschuß den Leitenden Beamten ermächtigen, das Recht aus
 
 
 ## § 18 Amtsbezüge, Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001808377)
 
 (1) Der Wehrbeauftragte erhält vom Beginn des Kalendermonats an, in
 dem das Amtsverhältnis beginnt, bis zum Schluß des Kalendermonats, in
@@ -324,11 +342,13 @@ anzuwenden.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE001901306)
 
 (weggefallen)
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/wehrbbtg/BJNR006520957.html#BJNR006520957BJNE002002306)
 
 (Inkrafttreten)
 

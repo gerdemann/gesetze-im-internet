@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2025-11-06/BJNR10E0A0025.html#BJNR10E0A0025BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 100-Euro-
@@ -59,11 +60,13 @@ Münzzeichen „A“, „D“, „F“, „G“ oder „J“.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2025-11-06/BJNR10E0A0025.html#BJNR10E0A0025BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2025-11-06/BJNR10E0A0025.html#BJNR10E0A0025BJNE000300000)
 
 (Fundstelle: BGBl. 2025 I Nr. 270, S. 2)
 

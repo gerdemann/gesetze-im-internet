@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000100304)
 
 Im Geltungsbereich dieses Gesetzes wird auf repräsentativer Grundlage
 eine Bundesstatistik über Gebäude, Wohnungen, Wohnparteien und deren
@@ -27,12 +28,14 @@ durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000200304)
 
 Die Wohnungsstichprobe wird mit einem Auswahlsatz von 1 vom Hundert
 der Gebäude mit Wohnraum durchgeführt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000300304)
 
 In der Wohnungsstichprobe sind zu erfassen:
 
@@ -116,6 +119,7 @@ In der Wohnungsstichprobe sind zu erfassen:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000400304)
 
 (1) Auskunftspflichtig sind alle volljährigen oder einen eigenen
 Haushalt führenden minderjährigen Personen, die im April 1978 bei der
@@ -133,6 +137,7 @@ eingeholt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000500304)
 
 (1) Die Weiterleitung von Einzelangaben nach
 § 12 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke in der im
@@ -162,12 +167,14 @@ Ergebnisse in den Tabellen erforderlich sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000600304)
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 auch im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg/BJNR025620977.html#BJNR025620977BJNE000700304)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

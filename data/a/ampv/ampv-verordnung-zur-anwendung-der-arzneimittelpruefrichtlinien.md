@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ampv/BJNR004700016.html#BJNR004700016BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 des Arzneimittelgesetzes, der zuletzt
 durch Artikel 52 Nummer 5 der Verordnung vom 31. August 2015 (BGBl. I
@@ -32,6 +33,7 @@ Naturschutz, Bau und Reaktorsicherheit:
 
 
 ## § 1 Anforderungen an einzureichende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ampv/BJNR004700016.html#BJNR004700016BJNE000200000)
 
 Die Angaben, Unterlagen und Gutachten, die nach den §§ 22 bis 24 des
 Arzneimittelgesetzes, auch in Verbindung mit § 38 Absatz 2 und § 39b
@@ -45,6 +47,7 @@ S. 67) in der jeweils geltenden Fassung geregelt sind.
 
 
 ## § 2 Besondere Vorschriften bei Arzneimitteln, die nach einem homöopathischen Zubereitungsverfahren hergestellt sind
+[Direktlink](https://www.gesetze-im-internet.de/ampv/BJNR004700016.html#BJNR004700016BJNE000300000)
 
 (1) Bei der Bewertung von Arzneimitteln, die nach einem
 homöopathischen Zubereitungsverfahren hergestellt werden und für die
@@ -61,11 +64,13 @@ der Anwendung zugelassener oder registrierter Arzneimittel.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ampv/BJNR004700016.html#BJNR004700016BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ampv/BJNR004700016.html#BJNR004700016BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

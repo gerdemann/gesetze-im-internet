@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000100305)
 
 Auf Grund des § 3 Abs. 4 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
 vom 14. September 1994 (BGBl. I S. 2325, 2353) in Verbindung mit
@@ -32,6 +33,7 @@ der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost:
 
 
 ## § 1 Anwendung der Arbeitszeitverordnung
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000203305)
 
 Für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und
 Beamten gilt die Arbeitszeitverordnung, soweit in dieser Verordnung
@@ -39,6 +41,7 @@ nichts anderes bestimmt ist.
 
 
 ## § 2 Regelmäßige Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000602308)
 
 (1) Die regelmäßige Arbeitszeit der bei der Deutschen Telekom AG
 beschäftigten Beamtinnen und Beamten beträgt im Durchschnitt 34
@@ -57,6 +60,7 @@ Anordnungen im Rahmen der Rechtsaufsicht ändern oder aufheben.
 
 
 ## § 2a Regelmäßige Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000701308)
 
 Wird Beamtinnen und Beamten nach § 4 Abs. 4 des
 Postpersonalrechtsgesetzes oder nach § 29 Abs. 1 des
@@ -76,6 +80,7 @@ oder aufheben.
 
 
 ## § 3 Gleitende Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000302308)
 
 (1) Wird der Beamtin oder dem Beamten gestattet, Beginn und Ende der
 täglichen Arbeitszeit in gewissen Grenzen selbst zu bestimmen
@@ -98,6 +103,7 @@ wenn betriebliche Belange nicht entgegenstehen.
 
 
 ## § 4 Arbeitszeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000403308)
 
 (1) Zur weiteren Flexibilisierung der Arbeitszeit kann der Vorstand
 der Deutschen Telekom AG ein Arbeitszeitmodell mit Arbeitszeitkonten
@@ -126,6 +132,7 @@ gleitender Arbeitszeit § 3 Abs. 2 und 3 keine Anwendung.
 
 
 ## § 5 Lebensarbeitszeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/t-azv_2000/BJNR093100000.html#BJNR093100000BJNE000502305)
 
 (1) Für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und
 Beamte sowie für Beamtinnen und Beamte, denen eine Tätigkeit bei einem

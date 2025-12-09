@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/indkredbkg/BJNR004470951.html#BJNR004470951BJNE000101308)
 
 (1) Gibt die Industriekreditbank Aktiengesellschaft
 Schuldverschreibungen auf den Inhaber aus und bildet sie für eine
@@ -45,6 +46,7 @@ zu treffen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/indkredbkg/BJNR004470951.html#BJNR004470951BJNE000201377)
 
 Das Bundesministerium der Finanzen bestellt einen Treuhänder und einen
 Stellvertreter. Der Treuhänder hat darauf zu achten, daß die Ausgabe,
@@ -54,6 +56,7 @@ Bestimmungen sowie den Anleihebedingungen entspricht.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/indkredbkg/BJNR004470951.html#BJNR004470951BJNE000300325)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

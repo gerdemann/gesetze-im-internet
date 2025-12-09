@@ -32,6 +32,7 @@ EU Nr. L 363 S. 81), sind beachtet worden.
 
 
 ## § 1 Öko-Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzg/BJNR344100001.html#BJNR344100001BJNE000104119)
 
 (1) Ein Erzeugnis im Sinne des Artikels 2 Absatz 1 der Verordnung (EU)
 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018
@@ -71,6 +72,7 @@ von Saatgut, Futtermitteln oder Lebensmitteln bleiben unberührt.
 
 
 ## § 2 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzg/BJNR344100001.html#BJNR344100001BJNE000206119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -112,6 +114,7 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ## § 3 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzg/BJNR344100001.html#BJNR344100001BJNE000302377)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -129,6 +132,7 @@ bestraft, wer
 
 
 ## § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzg/BJNR344100001.html#BJNR344100001BJNE000402377)
 
 (1) Ordnungswidrig handelt, wer eine der in § 3 bezeichneten
 Handlungen fahrlässig begeht.
@@ -144,6 +148,7 @@ dreißigtausend Euro geahndet werden.
 
 
 ## § 5 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzg/BJNR344100001.html#BJNR344100001BJNE000501377)
 
 Ist eine Straftat nach § 3 oder eine Ordnungswidrigkeit nach § 4
 begangen worden, so können
@@ -162,5 +167,6 @@ eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes
 
 
 ## § 6 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzg/BJNR344100001.html#BJNR344100001BJNE000601377)
 
 

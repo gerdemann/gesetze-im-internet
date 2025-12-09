@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000000000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000101310)
 
 (1) Dieses Gesetz dient der Durchführung der Vorschriften zur
 Verbraucherinformation und Etikettierung von Fischen und
@@ -44,6 +46,7 @@ von Fischen und Fischereierzeugnissen bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -78,6 +81,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000303310)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem
@@ -149,6 +153,7 @@ Zustimmung des Bundesrates verlängert werden.
 
 
 ## § 4 Zuständigkeit für die Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000401310)
 
 Die Überwachung der Einhaltung der Rechtsakte der Europäischen Union
 im Anwendungsbereich des § 1 Abs. 1 dieses Gesetzes sowie die
@@ -169,6 +174,7 @@ erlassenen Rechtsverordnungen obliegt
 
 
 ## § 5 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000503310)
 
 (1) Die für die Überwachung nach § 4 zuständigen Behörden können für
 den Fall, dass die Etikettierung den Vorgaben der Rechtsakte der
@@ -252,6 +258,7 @@ zu regeln.
 
 
 ## § 6 Mitwirkung der Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000601310)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Einfuhr oder Ausfuhr von
@@ -272,6 +279,7 @@ Besichtigungen vorsehen.
 
 
 ## § 7 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000700000)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 dritter Staaten sowie der Europäischen Kommission obliegt dem
@@ -283,6 +291,7 @@ diese Befugnis nach Satz 3 auf andere Behörden übertragen.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000801310)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -335,6 +344,7 @@ werden können.
 
 
 ## § 9 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE000900000)
 
 Ist eine Ordnungswidrigkeit nach § 8 Abs. 1 begangen worden, so können
 Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
@@ -344,6 +354,7 @@ Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettg/BJNR298000002.html#BJNR298000002BJNE001000000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

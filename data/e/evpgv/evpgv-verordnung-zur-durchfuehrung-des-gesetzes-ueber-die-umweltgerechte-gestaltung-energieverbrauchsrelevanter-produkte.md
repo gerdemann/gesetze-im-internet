@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten
+[Direktlink](https://www.gesetze-im-internet.de/evpgv/BJNR322110013.html#BJNR322110013BJNE000105128)
 
 Ein Hersteller, Bevollmächtigter oder Importeur darf folgende Produkte
 nur in Verkehr bringen oder, sofern sie noch nicht in Verkehr gebracht
@@ -363,6 +364,7 @@ oder die Inbetriebnahme der Produkte erfüllt sind:
 
 
 ## § 2 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/evpgv/BJNR322110013.html#BJNR322110013BJNE000301124)
 
 Ordnungswidrig im Sinne des § 13 Absatz 1 Nummer 5 Buchstabe a des
 Energieverbrauchsrelevante-Produkte-Gesetzes handelt, wer vorsätzlich

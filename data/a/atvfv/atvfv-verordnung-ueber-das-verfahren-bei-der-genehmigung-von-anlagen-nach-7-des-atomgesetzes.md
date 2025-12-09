@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Anwendungsbereich, Antrag und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNG000101308)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE000801308)
 
 Für die in § 7 Abs. 1 und 5 des Atomgesetzes genannten Anlagen ist das
 Verfahren bei der Erteilung einer Genehmigung, einer Teilgenehmigung
@@ -37,6 +39,7 @@ Atomgesetzes geregelt ist.
 
 
 ### § 1a Gegenstand der Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003104118)
 
 Die Umweltverträglichkeitsprüfung umfasst die Ermittlung, Beschreibung
 und Bewertung der für die Prüfung der Zulassungsvoraussetzungen
@@ -64,6 +67,7 @@ bleibt unberührt.
 
 
 ### § 1b Unterrichtung über voraussichtlich beizubringende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003204118)
 
 (1) Auf Antrag oder wenn die zuständige Behörde es für zweckmäßig
 hält, unterrichtet und berät die zuständige Behörde den Träger des
@@ -113,6 +117,7 @@ Zuständigkeiten zu übertragen.
 
 
 ### § 2 Form und Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE000901308)
 
 (1) Der Antrag ist bei der Genehmigungsbehörde schriftlich zu stellen.
 
@@ -132,6 +137,7 @@ Zuständigkeiten zu übertragen.
 
 
 ### § 3 Art und Umfang der Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001006116)
 
 (1) Dem Antrag sind die Unterlagen beizufügen, die zur Prüfung der
 Zulassungsvoraussetzungen erforderlich sind, insbesondere
@@ -273,10 +279,12 @@ angemessenen Frist zu ergänzen.
 
 
 ## Zweiter Abschnitt - Beteiligung Dritter und anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNG000202308)
 
 
 
 ### § 4 Bekanntmachung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001105116)
 
 (1) Sind die zur Auslegung (§ 6) erforderlichen Unterlagen
 vollständig, so hat die Genehmigungsbehörde das Vorhaben in ihrem
@@ -361,6 +369,7 @@ dienen soll.
 
 
 ### § 5 Inhalt der Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001204118)
 
 (1) Die Bekanntmachung muß die in § 2 Abs. 2 vorgeschriebenen Angaben
 enthalten. Im übrigen ist
@@ -432,6 +441,7 @@ Bekanntmachung zusätzlich folgende Angaben enthalten:
 
 
 ### § 6 Auslegung von Antrag und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001306128)
 
 (1) Während einer Frist von zwei Monaten sind bei der
 Genehmigungsbehörde und einer geeigneten Stelle in der Nähe des
@@ -482,6 +492,7 @@ entsprechend.
 
 
 ### § 6a Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003700118)
 
 (1) Die Rechtsvorschriften über Geheimhaltung und Datenschutz sowie
 den Schutz der Rechte am geistigen Eigentum bleiben unberührt.
@@ -504,6 +515,7 @@ die Inhaltsdarstellung zu ersetzen.
 
 
 ### § 7 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001403124)
 
 (1) Einwendungen können während der Auslegungsfrist schriftlich oder
 zur Niederschrift bei der Genehmigungsbehörde oder der in der
@@ -519,6 +531,7 @@ Zuständigkeitsbereich berühren.
 
 
 ### § 7a Verfahren bei grenzüberschreitenden Umweltauswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003305118)
 
 Für das Verfahren zur grenzüberschreitenden
 Umweltverträglichkeitsprüfung gelten die Vorschriften der Abschnitte 1
@@ -527,10 +540,12 @@ entsprechend.
 
 
 ## Dritter Abschnitt - Erörterungstermin
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNG000301308)
 
 
 
 ### § 8 Gegenstand und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001503128)
 
 (1) Die Genehmigungsbehörde hat die rechtzeitig erhobenen Einwendungen
 mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben,
@@ -549,6 +564,7 @@ zu erläutern.
 
 
 ### § 9 Besondere Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001601308)
 
 Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
 sind im Erörterungstermin nicht zu behandeln; sie sind durch
@@ -557,6 +573,7 @@ Gerichten zu verweisen.
 
 
 ### § 10 Wegfall
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001701308)
 
 (1) Ein Erörterungstermin findet nicht statt, wenn
 
@@ -577,6 +594,7 @@ Gerichten zu verweisen.
 
 
 ### § 11 Verlegung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001801308)
 
 (1) Die Genehmigungsbehörde kann den bekanntgemachten
 Erörterungstermin verlegen, wenn dies im Hinblick auf dessen
@@ -590,6 +608,7 @@ durch öffentliche Bekanntmachung benachrichtigt werden.
 
 
 ### § 12 Verlauf
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE001901308)
 
 (1) Der Erörterungstermin ist nicht öffentlich. Der den
 Erörterungstermin leitende Vertreter der Genehmigungsbehörde
@@ -626,6 +645,7 @@ werden.
 
 
 ### § 13 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002001308)
 
 (1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die
 Niederschrift muß Angaben enthalten über
@@ -662,10 +682,12 @@ Einwendungen erhoben hat, eine Abschrift zu überlassen.
 
 
 ## Vierter Abschnitt - Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNG000401308)
 
 
 
 ### § 14 Sachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002101308)
 
 Die Prüfung durch die Genehmigungsbehörde erstreckt sich außer auf die
 Genehmigungsvoraussetzungen des § 7 Abs. 2 des Atomgesetzes auch auf
@@ -674,6 +696,7 @@ rechtlichen Vorschriften.
 
 
 ### § 14a Zusammenfassende Darstellung, begründete Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003403118)
 
 (1) Bei UVP-pflichtigen Vorhaben erarbeitet die zuständige Behörde
 eine zusammenfassende Darstellung
@@ -720,6 +743,7 @@ Einschätzung der Genehmigungsbehörde noch hinreichend aktuell sein.
 
 
 ### § 15 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002202377)
 
 (1) Die Behörde entscheidet unter Würdigung des Gesamtergebnisses des
 Verfahrens.
@@ -747,6 +771,7 @@ erfolgen.
 
 
 ### § 16 Inhalt des Genehmigungsbescheides
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002303118)
 
 (1) Der Genehmigungsbescheid muß enthalten
 
@@ -826,6 +851,7 @@ wesentlichen Gründe erläutert werden.
 
 
 ### § 17 Zustellung durch öffentliche Bekanntmachung und Auslegung des Bescheids
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002402118)
 
 (1) Die öffentliche Bekanntmachung wird dadurch bewirkt, daß der
 verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung in der
@@ -851,10 +877,12 @@ Einwendungen erhoben haben, schriftlich angefordert werden.
 
 
 ## Fünfter Abschnitt - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNG000502308)
 
 
 
 ### § 18 Teilgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002503377)
 
 (1) Auf Antrag kann eine Teilgenehmigung erteilt werden, wenn eine
 vorläufige Prüfung ergibt, daß die Genehmigungsvoraussetzungen im
@@ -888,6 +916,7 @@ Prüfung nach § 1a; Absatz 2 gilt auch für die dem Antrag nach § 3 Abs.
 
 
 ### § 19 Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002602308)
 
 (1) Der Antrag auf Erteilung eines Vorbescheides ist schriftlich bei
 der Genehmigungsbehörde des Landes zu stellen, in dem das Vorhaben
@@ -944,6 +973,7 @@ sowie in geeigneten Tageszeitungen bekanntzumachen.
 
 
 ### § 19a Raumverträglichkeitsprüfung und Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003503128)
 
 Die Genehmigungsbehörde hat die bei der Raumverträglichkeitsprüfung
 nach § 15 des Raumordnungsgesetzes überschlägig geprüften Auswirkungen
@@ -952,6 +982,7 @@ Absatz 2 bei der Entscheidung über den Antrag zu berücksichtigen.
 
 
 ### § 19b Genehmigungen nach § 7 Abs. 3 des Atomgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE003600377)
 
 (1) Die Unterlagen, die einem erstmaligen Antrag auf Erteilung einer
 Genehmigung nach § 7 Abs. 3 des Atomgesetzes beizufügen sind, müssen
@@ -985,10 +1016,12 @@ nach Absatz 1 auszulegen.
 
 
 ## Sechster Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNG000601308)
 
 
 
 ### § 20 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002704118)
 
 (1) Verfahren, die vor dem Inkrafttreten einer Änderung dieser
 Verordnung begonnen worden sind, sind nach den Vorschriften der
@@ -1014,6 +1047,7 @@ wenn vor diesem Zeitpunkt
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/atvfv/BJNR002800977.html#BJNR002800977BJNE002902308)
 
 (Inkrafttreten)
 

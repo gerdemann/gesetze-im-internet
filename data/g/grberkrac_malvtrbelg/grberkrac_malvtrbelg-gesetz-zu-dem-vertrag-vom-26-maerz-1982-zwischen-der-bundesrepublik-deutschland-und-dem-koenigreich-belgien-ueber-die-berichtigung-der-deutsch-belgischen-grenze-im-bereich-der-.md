@@ -24,12 +24,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grberkrac_malvtrbelg/BJNR204450988.html#BJNR204450988BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grberkrac_malvtrbelg/BJNR204450988.html#BJNR204450988BJNE000200328)
 
 Dem in Brüssel am 26. März 1982 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Königreich Belgien über die
@@ -43,6 +45,7 @@ sowie beim Oberkreisdirektor des Kreises Aachen zur Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grberkrac_malvtrbelg/BJNR204450988.html#BJNR204450988BJNE000300328)
 
 In den Gebietsteilen, die nach den Artikeln 1 und 2 des Vertrags der
 Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
@@ -52,10 +55,12 @@ diesen Gebietsteilen außer Kraft.
 
 
 ## (XXXX) Art 3 und 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/grberkrac_malvtrbelg/BJNR204450988.html#BJNR204450988BJNE000401116)
 
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/grberkrac_malvtrbelg/BJNR204450988.html#BJNR204450988BJNE000600328)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

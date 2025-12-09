@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kkostv_1998/BJNR398200998.html#BJNR398200998BJNE000100311)
 
 Auf Grund des § 22 Abs. 2 des Güterkraftverkehrsgesetzes vom 22. Juni
 1998 (BGBl. I S. 1485) in Verbindung mit dem 2. Abschnitt des
@@ -32,6 +33,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/g_kkostv_1998/BJNR398200998.html#BJNR398200998BJNE000200311)
 
 (1) Die zuständigen Behörden erheben für die in § 22 Abs. 1 des
 Güterkraftverkehrsgesetzes genannten Amtshandlungen Gebühren nach der
@@ -41,6 +43,7 @@ Anlage zu dieser Verordnung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/g_kkostv_1998/BJNR398200998.html#BJNR398200998BJNE000301308)
 
 (1) Für die Beförderung von Medikamenten, medizinischen Geräten,
 Ausrüstungen und anderen Hilfsgütern erfolgt die Ausstellung von
@@ -53,17 +56,20 @@ Erhebung von Kosten abgesehen werden, soweit Gegenseitigkeit besteht.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/g_kkostv_1998/BJNR398200998.html#BJNR398200998BJNE000400311)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kkostv_1998/BJNR398200998.html#BJNR398200998BJNE000500311)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Abs. 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/g_kkostv_1998/BJNR398200998.html#BJNR398200998BJNE000605305)
 
 (Fundstelle: BGBl. I 2004, 2709 - 2710;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

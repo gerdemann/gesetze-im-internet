@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zv/BJNR608610018.html#BJNR608610018BJNE000101123)
 
 Auf Grund des § 4h Satz 1 und 2 in Verbindung mit § 4d Absatz 2 und §
 4f Absatz 2 des Bundesfernstraßenmautgesetzes vom 12. Juli 2011 (BGBl.
@@ -31,6 +32,7 @@ vom 26.01.2016 V1), verordnet das Bundesamt für Güterverkehr:
 
 
 ## § 1 Prüfvereinbarung und Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zv/BJNR608610018.html#BJNR608610018BJNE000200000)
 
 Die Prüfvereinbarung im Sinne des § 4d Absatz 2 des
 Bundesfernstraßenmautgesetzes ergibt sich aus der Anlage I zu dieser
@@ -40,11 +42,13 @@ Verordnung.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zv/BJNR608610018.html#BJNR608610018BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage I Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zv/BJNR608610018.html#BJNR608610018BJNE000404123)
 
 (Fundstelle: BAnz AT 27.03.2018 V2,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -52,6 +56,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage II Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zv/BJNR608610018.html#BJNR608610018BJNE000505123)
 
 (Text siehe: EEMD-ZVAnl II)
 

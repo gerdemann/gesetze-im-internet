@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pkhb_2022/BJNR523900021.html#BJNR523900021BJNE000100000)
 
 Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der
 zuletzt durch Artikel 10 Nummer 3 des Gesetzes vom 21. Dezember 2020
@@ -136,6 +137,7 @@ Einkommen der Partei abzusetzen sind, bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pkhb_2022/BJNR523900021.html#BJNR523900021BJNE000200000)
 
 Der Bundesminister der Justiz
 

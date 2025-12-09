@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-118 v. 21.12.1984, 1985 I 14 (WachsAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -40,9 +41,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000300000)
 
 Der Ausbildungsberuf des Kerzenherstellers und Wachsbildners und der
 Kerzenherstellerin und Wachsbildnerin wird staatlich anerkannt nach
@@ -58,11 +61,13 @@ Kerzenherstellerin und Wachsbildnerin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -80,6 +85,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -191,6 +197,7 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -198,6 +205,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -208,9 +216,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -220,6 +230,7 @@ Ausbildungsjahres durchgeführt werden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -236,6 +247,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich Fertigen und Verzieren von Kerzen
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Fertigen und
 Verzieren von Kerzen statt.
@@ -294,9 +306,11 @@ zwei Stunden.
 
 
 ## Abschnitt 3 - Abschluss- und Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNG000300000)
 
 
 ### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001200000)
 
 (1) Durch die Abschluss- und Gesellenprüfung ist festzustellen, ob der
 Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -306,6 +320,7 @@ Berufsausbildung durchgeführt werden.
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001300000)
 
 Die Abschluss- und Gesellenprüfung erstreckt sich auf
 
@@ -322,6 +337,7 @@ Die Abschluss- und Gesellenprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001400000)
 
 Die Abschluss- und Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -345,6 +361,7 @@ Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich Herstellen von Wachsprodukten
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001500000)
 
 (1) Im Prüfungsbereich Herstellen von Wachsprodukten soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -407,6 +424,7 @@ Präsentation höchstens 15 Minuten.
 
 
 ### § 14 Prüfungsbereich Verarbeiten von Roh- und Hilfsstoffen
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001600000)
 
 (1) Im Prüfungsbereich Verarbeiten von Roh- und Hilfsstoffen soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -467,6 +485,7 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 15 Prüfungsbereich Kundenorientierung und Gestaltung von Wachsprodukten
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001700000)
 
 (1) Im Prüfungsbereich Kundenorientierung und Gestaltung von
 Wachsprodukten soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -524,6 +543,7 @@ Absatz 1 genannten Nachweise ermöglichen.
 
 
 ### § 16 Prüfungsbereich Betriebliche Herstellungsprozesse
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001800000)
 
 (1) Im Prüfungsbereich Betriebliche Herstellungsprozesse soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -559,6 +579,7 @@ begründen.
 
 
 ### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE001900000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -572,6 +593,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- und Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE002000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -660,9 +682,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNG000400000)
 
 
 ### § 19 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE002100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -671,6 +695,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Wachszieher-Ausbildungsverordnung vom 21. Dezember 1984 (BGBl.
@@ -679,6 +704,7 @@ die Wachszieher-Ausbildungsverordnung vom 21. Dezember 1984 (BGBl.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kerzenhersteller und Wachsbildner und zur Kerzenherstellerin und Wachsbildnerin
+[Direktlink](https://www.gesetze-im-internet.de/khwbausbv/BJNR130800015.html#BJNR130800015BJNE002300000)
 
 (Fundstelle: BGBl. I 2015, 1313 - 1318)
 

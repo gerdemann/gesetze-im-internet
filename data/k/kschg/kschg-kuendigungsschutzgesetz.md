@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeiner Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNG000100311)
 
 
 
 ### § 1 Sozial ungerechtfertigte Kündigungen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE000503308)
 
 (1) Die Kündigung des Arbeitsverhältnisses gegenüber einem
 Arbeitnehmer, dessen Arbeitsverhältnis in demselben Betrieb oder
@@ -126,6 +128,7 @@ nach Satz 1 ersetzt die Stellungnahme des Betriebsrates nach § 17 Abs.
 
 
 ### § 1a Abfindungsanspruch bei betriebsbedingter Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE003300308)
 
 (1) Kündigt der Arbeitgeber wegen dringender betrieblicher
 Erfordernisse nach § 1 Abs. 2 Satz 1 und erhebt der Arbeitnehmer bis
@@ -144,6 +147,7 @@ von mehr als sechs Monaten auf ein volles Jahr aufzurunden.
 
 
 ### § 2 Änderungskündigung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE000600311)
 
 Kündigt der Arbeitgeber das Arbeitsverhältnis und bietet er dem
 Arbeitnehmer im Zusammenhang mit der Kündigung die Fortsetzung des
@@ -156,6 +160,7 @@ jedoch innerhalb von drei Wochen nach Zugang der Kündigung erklären.
 
 
 ### § 3 Kündigungseinspruch
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE000700311)
 
 Hält der Arbeitnehmer eine Kündigung für sozial ungerechtfertigt, so
 kann er binnen einer Woche nach der Kündigung Einspruch beim
@@ -167,6 +172,7 @@ schriftlich mitzuteilen.
 
 
 ### § 4 Anrufung des Arbeitsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE000801308)
 
 Will ein Arbeitnehmer geltend machen, dass eine Kündigung sozial
 ungerechtfertigt oder aus anderen Gründen rechtsunwirksam ist, so muss
@@ -184,6 +190,7 @@ ab.
 
 
 ### § 5 Zulassung verspäteter Klagen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE000903308)
 
 (1) War ein Arbeitnehmer nach erfolgter Kündigung trotz Anwendung
 aller ihm nach Lage der Umstände zuzumutenden Sorgfalt verhindert, die
@@ -217,6 +224,7 @@ des Landesarbeitsgerichts. Absatz 4 gilt entsprechend.
 
 
 ### § 6 Verlängerte Anrufungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001001308)
 
 Hat ein Arbeitnehmer innerhalb von drei Wochen nach Zugang der
 schriftlichen Kündigung im Klagewege geltend gemacht, dass eine
@@ -228,6 +236,7 @@ soll ihn hierauf hinweisen.
 
 
 ### § 7 Wirksamwerden der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001101308)
 
 Wird die Rechtsunwirksamkeit einer Kündigung nicht rechtzeitig geltend
 gemacht (§ 4 Satz 1, §§ 5 und 6), so gilt die Kündigung als von Anfang
@@ -236,6 +245,7 @@ erlischt.
 
 
 ### § 8 Wiederherstellung der früheren Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001200311)
 
 Stellt das Gericht im Falle des § 2 fest, daß die Änderung der
 Arbeitsbedingungen sozial ungerechtfertigt ist, so gilt die
@@ -243,6 +253,7 @@ Arbeitsbedingungen sozial ungerechtfertigt ist, so gilt die
 
 
 ### § 9 Auflösung des Arbeitsverhältnisses durch Urteil des Gerichts, Abfindung des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001300311)
 
 (1) Stellt das Gericht fest, daß das Arbeitsverhältnis durch die
 Kündigung nicht aufgelöst ist, ist jedoch dem Arbeitnehmer die
@@ -263,6 +274,7 @@ Kündigung geendet hätte.
 
 
 ### § 10 Höhe der Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001401308)
 
 (1) Als Abfindung ist ein Betrag bis zu zwölf Monatsverdiensten
 festzusetzen.
@@ -284,6 +296,7 @@ Arbeitsverhältnis endet (§ 9 Abs. 2), an Geld und Sachbezügen zusteht.
 
 
 ### § 11 Anrechnung auf entgangenen Zwischenverdienst
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001501308)
 
 Besteht nach der Entscheidung des Gerichts das Arbeitsverhältnis fort,
 so muß sich der Arbeitnehmer auf das Arbeitsentgelt, das ihm der
@@ -309,6 +322,7 @@ lassen,
 
 
 ### § 12 Neues Arbeitsverhältnis des Arbeitnehmers, Auflösung des alten Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001600311)
 
 Besteht nach der Entscheidung des Gerichts das Arbeitsverhältnis fort,
 ist jedoch der Arbeitnehmer inzwischen ein neues Arbeitsverhältnis
@@ -324,6 +338,7 @@ Arbeitsverhältnis zu gewähren. § 11 findet entsprechende Anwendung.
 
 
 ### § 13 Außerordentliche, sittenwidrige und sonstige Kündigungen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001701308)
 
 (1) Die Vorschriften über das Recht zur außerordentlichen Kündigung
 eines Arbeitsverhältnisses werden durch das vorliegende Gesetz nicht
@@ -349,6 +364,7 @@ Anwendung.
 
 
 ### § 14 Angestellte in leitender Stellung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001800311)
 
 (1) Die Vorschriften dieses Abschnitts gelten nicht
 
@@ -372,10 +388,12 @@ Auflösung des Arbeitsverhältnisses keiner Begründung bedarf.
 
 
 ## Zweiter Abschnitt - Kündigungsschutz im Rahmen der Betriebsverfassung und Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNG000200311)
 
 
 
 ### § 15 Unzulässigkeit der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE001904311)
 
 (1) Die Kündigung eines Mitglieds eines Betriebsrats, einer Jugend-
 und Auszubildendenvertretung, einer Bordvertretung oder eines
@@ -467,6 +485,7 @@ Betriebs sinngemäß Anwendung.
 
 
 ### § 16 Neues Arbeitsverhältnis, Auflösung des alten Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002002311)
 
 Stellt das Gericht die Unwirksamkeit der Kündigung einer der in § 15
 Absatz 1 bis 3b genannten Personen fest, so kann diese Person, falls
@@ -478,10 +497,12 @@ entsprechende Anwendung.
 
 
 ## Dritter Abschnitt - Anzeigepflichtige Entlassungen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNG000300311)
 
 
 
 ### § 17 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002103308)
 
 (1) Der Arbeitgeber ist verpflichtet, der Agentur für Arbeit Anzeige
 zu erstatten, bevor er
@@ -588,6 +609,7 @@ nach Absatz 1 nicht mitgerechnet.
 
 
 ### § 18 Entlassungssperre
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002202308)
 
 (1) Entlassungen, die nach § 17 anzuzeigen sind, werden vor Ablauf
 eines Monats nach Eingang der Anzeige bei der Agentur für Arbeit nur
@@ -607,6 +629,7 @@ durchgeführt werden, bedarf es unter den Voraussetzungen des § 17 Abs.
 
 
 ### § 19 Zulässigkeit von Kurzarbeit
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002301308)
 
 (1) Ist der Arbeitgeber nicht in der Lage, die Arbeitnehmer bis zu dem
 in § 18 Abs. 1 und 2 bezeichneten Zeitpunkt voll zu beschäftigen, so
@@ -626,6 +649,7 @@ berührt.
 
 
 ### § 20 Entscheidungen der Agentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002405308)
 
 (1) Die Entscheidungen der Agentur für Arbeit nach § 18 Abs. 1 und 2
 trifft deren Geschäftsführung oder ein Ausschuß (Entscheidungsträger).
@@ -655,6 +679,7 @@ berücksichtigen.
 
 
 ### § 21 Entscheidungen der Zentrale der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002503308)
 
 Für Betriebe, die zum Geschäftsbereich des Bundesministers für Verkehr
 oder des Bundesministers für Post und Telekommunikation gehören,
@@ -668,6 +693,7 @@ gilt § 20 Abs. 1 bis 3 entsprechend.
 
 
 ### § 22 Ausnahmebetriebe
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002604308)
 
 (1) Auf Saisonbetriebe und Kampagne-Betriebe finden die Vorschriften
 dieses Abschnitts bei Entlassungen, die durch diese Eigenart der
@@ -682,10 +708,12 @@ Sinne des Absatzes 1 gelten.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNG000400311)
 
 
 
 ### § 23 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002805360)
 
 (1) Die Vorschriften des Ersten und Zweiten Abschnitts gelten für
 Betriebe und Verwaltungen des privaten und des öffentlichen Rechts,
@@ -715,6 +743,7 @@ Zwecke verfolgen.
 
 
 ### § 24 Anwendung des Gesetzes auf Betriebe der Schifffahrt und des Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE002903126)
 
 (1) Die Vorschriften des Ersten und Zweiten Abschnitts finden nach
 Maßgabe der Absätze 2 bis 4 auf Arbeitsverhältnisse der Besatzung von
@@ -757,6 +786,7 @@ dessen Flagge das Schiff fährt.
 
 
 ### § 25 Kündigung in Arbeitskämpfen
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE003000311)
 
 Die Vorschriften dieses Gesetzes finden keine Anwendung auf
 Kündigungen und Entlassungen, die lediglich als Maßnahmen in
@@ -765,6 +795,7 @@ vorgenommen werden.
 
 
 ### § 25a Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE003200314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -773,6 +804,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ### § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kschg/BJNR004990951.html#BJNR004990951BJNE003100311)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

@@ -22,6 +22,7 @@ Geändert durch
 Stand: Das G ist gem. Bek. v. 3.9.2025 I Nr. 202 am 12.10.2025 in Kraft getreten
 
 ## § 1 Zuständigkeiten des Bundesverwaltungsamts
+[Direktlink](https://www.gesetze-im-internet.de/eesdg/BJNR06A0B0023.html#BJNR06A0B0023BJNE000100000)
 
 (1) Unbeschadet des Zugangs der nach Artikel 9 der Verordnung (EU)
 2017/2226 des Europäischen Parlaments und des Rates vom 30. November
@@ -63,6 +64,7 @@ der Verordnung (EU) 2017/2226 durchzuführen.
 
 
 ## § 2 Zugang zum EES zum Zwecke der Verhütung, Aufdeckung und Untersuchung terroristischer und sonstiger schwerer Straftaten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eesdg/BJNR06A0B0023.html#BJNR06A0B0023BJNE000201311)
 
 (1) Zugriffsberechtigte Behörden im Sinne des Artikels 32 der
 Verordnung (EU) 2017/2226 sind
@@ -150,6 +152,7 @@ Sicherheit und des Rechts (eu-LISA) und an die Europäische Kommission.
 
 
 ## § 3 Sicherheits- und Qualitätsniveau der EES-Registrierung und der EES-Abfrage
+[Direktlink](https://www.gesetze-im-internet.de/eesdg/BJNR06A0B0023.html#BJNR06A0B0023BJNE000300000)
 
 (1) Öffentliche Stellen, die das Einreise- /Ausreisesystem anwenden,
 haben durch geeignete technische und organisatorische Maßnahmen die
@@ -211,6 +214,7 @@ Januar 2025 für folgende Systemkomponenten erforderlich:
 
 
 ## § 4 Nationale Sicherheits- und Qualitätsstatistik für das Einreise-/Ausreisesystem und Bewältigung von Sicherheitsvorfällen
+[Direktlink](https://www.gesetze-im-internet.de/eesdg/BJNR06A0B0023.html#BJNR06A0B0023BJNE000400000)
 
 (1) Das Bundesamt für Sicherheit in der Informationstechnik ist für
 die Erstellung von Berichten und Statistiken nach Artikel 38 Absatz 4
@@ -244,6 +248,7 @@ sowie den Ländern zur Verfügung.
 
 
 ## § 5 Nationale Erleichterungsprogramme für Vielreisende
+[Direktlink](https://www.gesetze-im-internet.de/eesdg/BJNR06A0B0023.html#BJNR06A0B0023BJNE000500000)
 
 Die Bundespolizei ist für die Durchführung des nach Artikel 8d der
 Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom

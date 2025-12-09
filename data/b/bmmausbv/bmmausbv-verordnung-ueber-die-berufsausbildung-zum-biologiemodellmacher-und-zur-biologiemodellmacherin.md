@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -33,9 +34,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000300000)
 
 Der Ausbildungsberuf des Biologiemodellmachers und der
 Biologiemodellmacherin wird nach § 4 Absatz 1 des
@@ -43,11 +46,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -65,6 +70,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -130,6 +136,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -137,6 +144,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -147,9 +155,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -159,6 +169,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -175,6 +186,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen
 einteiliger Modelle statt.
@@ -227,9 +239,11 @@ Prüfungszeit 120 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNG000300000)
 
 
 ### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001200000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -239,6 +253,7 @@ durchgeführt werden.
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001300000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -255,6 +270,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001400000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -271,6 +287,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich Herstellen eines mehrteiligen Modells
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001500000)
 
 (1) Im Prüfungsbereich Herstellen eines mehrteiligen Modells soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -321,6 +338,7 @@ auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 
 ### § 14 Prüfungsbereich Planung und Fertigung
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001600000)
 
 (1) Im Prüfungsbereich Planung und Fertigung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -368,6 +386,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -381,6 +400,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -449,9 +469,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNG000400000)
 
 
 ### § 17 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE001900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -460,12 +482,14 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin
+[Direktlink](https://www.gesetze-im-internet.de/bmmausbv/BJNR155000017.html#BJNR155000017BJNE002100000)
 
 (Fundstelle: BGBl. I 2017, 1554 - 1558)
 

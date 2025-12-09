@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000199126)
 
 
 *    *   Erstes Kapitel
@@ -1442,10 +1443,12 @@ Anlage zu § 34
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000100000)
 
 
 
 ### § 1 Aufgabe der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000200000)
 
 Aufgabe der Sozialhilfe ist es, den Leistungsberechtigten die Führung
 eines Lebens zu ermöglichen, das der Würde des Menschen entspricht.
@@ -1457,6 +1460,7 @@ Rechte und Pflichten zusammenzuwirken.
 
 
 ### § 2 Nachrang der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000300000)
 
 (1) Sozialhilfe erhält nicht, wer sich vor allem durch Einsatz seiner
 Arbeitskraft, seines Einkommens und seines Vermögens selbst helfen
@@ -1471,6 +1475,7 @@ Leistungen vorgesehen sind.
 
 
 ### § 3 Träger der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000400000)
 
 (1) Die Sozialhilfe wird von örtlichen und überörtlichen Trägern
 geleistet.
@@ -1487,6 +1492,7 @@ Aufgaben in dem gesamten Kreisgebiet sichergestellt ist.
 
 
 ### § 4 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000505126)
 
 (1) Die Träger der Sozialhilfe arbeiten mit anderen Stellen, deren
 gesetzliche Aufgaben dem gleichen Ziel dienen oder die an Leistungen
@@ -1510,6 +1516,7 @@ Nähere in einer Vereinbarung zu regeln.
 
 
 ### § 5 Verhältnis zur freien Wohlfahrtspflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000600000)
 
 (1) Die Stellung der Kirchen und Religionsgesellschaften des
 öffentlichen Rechts sowie der Verbände der freien Wohlfahrtspflege als
@@ -1544,6 +1551,7 @@ Leistungsberechtigten gegenüber verantwortlich.
 
 
 ### § 6 Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000700000)
 
 (1) Bei der Durchführung der Aufgaben dieses Buches werden Personen
 beschäftigt, die sich hierfür nach ihrer Persönlichkeit eignen und in
@@ -1557,6 +1565,7 @@ von Beratung und Unterstützung.
 
 
 ### § 7 Aufgabe der Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000800000)
 
 Die obersten Landessozialbehörden unterstützen die Träger der
 Sozialhilfe bei der Durchführung ihrer Aufgaben nach diesem Buch.
@@ -1567,14 +1576,17 @@ Instrumenten der Dienstleistungen, der zielgerichteten Erbringung und
 
 
 ## Zweites Kapitel - Leistungen der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000200000)
 
 
 
 ### Erster Abschnitt - Grundsätze der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000300000)
 
 
 
 #### § 8 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE000905119)
 
 Die Sozialhilfe umfasst:
 
@@ -1602,6 +1614,7 @@ sowie die jeweils gebotene Beratung und Unterstützung.
 
 
 #### § 9 Sozialhilfe nach der Besonderheit des Einzelfalles
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001000000)
 
 (1) Die Leistungen richten sich nach der Besonderheit des
 Einzelfalles, insbesondere nach der Art des Bedarfs, den örtlichen
@@ -1625,6 +1638,7 @@ Bekenntnisses betreut werden können.
 
 
 #### § 10 Leistungsformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001101308)
 
 (1) Die Leistungen werden erbracht in Form von
 
@@ -1651,6 +1665,7 @@ es wünschen.
 
 
 #### § 11 Beratung und Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001202126)
 
 (1) Zur Erfüllung der Aufgaben dieses Buches werden die
 Leistungsberechtigten beraten und, soweit erforderlich, unterstützt.
@@ -1694,6 +1709,7 @@ Schuldnerberatungsstelle oder anderer Fachberatungsstellen erfolgen.
 
 
 #### § 12 Vorbereitung für die Aufnahme einer Tätigkeit und Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001301126)
 
 (1) Die erforderlichen Vorbereitungen für die Aufnahme einer Tätigkeit
 nach § 11 Absatz 3 Satz 2 und 3 können insbesondere Maßnahmen
@@ -1719,6 +1735,7 @@ Erreichbarkeit des angestrebten Ziels.
 
 
 #### § 13 Leistungen für Einrichtungen, Vorrang anderer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001402360)
 
 (1) Die Leistungen nach dem Fünften bis Neunten Kapitel können
 entsprechend den Erfordernissen des Einzelfalles für die Deckung des
@@ -1740,9 +1757,11 @@ deckenden Bedarfe oder der Erziehung dienen.
 
 
 #### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001501360)
 
 
 #### § 15 Vorbeugende und nachgehende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001601360)
 
 (1) Die Sozialhilfe soll vorbeugend geleistet werden, wenn dadurch
 eine drohende Notlage ganz oder teilweise abgewendet werden kann. § 47
@@ -1754,6 +1773,7 @@ Leistung zu sichern.
 
 
 #### § 16 Familiengerechte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001700000)
 
 Bei Leistungen der Sozialhilfe sollen die besonderen Verhältnisse in
 der Familie der Leistungsberechtigten berücksichtigt werden. Die
@@ -1762,10 +1782,12 @@ den Zusammenhalt der Familie festigen.
 
 
 ### Zweiter Abschnitt - Anspruch auf Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000400000)
 
 
 
 #### § 17 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001800000)
 
 (1) Auf Sozialhilfe besteht ein Anspruch, soweit bestimmt wird, dass
 die Leistung zu erbringen ist. Der Anspruch kann nicht übertragen,
@@ -1780,6 +1802,7 @@ abzuändern.
 
 
 #### § 18 Einsetzen der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE001900000)
 
 (1) Die Sozialhilfe, mit Ausnahme der Leistungen der Grundsicherung im
 Alter und bei Erwerbsminderung, setzt ein, sobald dem Träger der
@@ -1796,6 +1819,7 @@ setzt die Sozialhilfe zu dem nach Satz 1 maßgebenden Zeitpunkt ein.
 
 
 #### § 19 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002003360)
 
 (1) Hilfe zum Lebensunterhalt nach dem Dritten Kapitel ist Personen zu
 leisten, die ihren notwendigen Lebensunterhalt nicht oder nicht
@@ -1840,6 +1864,7 @@ erbracht oder die Pflege geleistet hat.
 
 
 #### § 20 Eheähnliche Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002102308)
 
 Personen, die in eheähnlicher oder lebenspartnerschaftsähnlicher
 Gemeinschaft leben, dürfen hinsichtlich der Voraussetzungen sowie des
@@ -1848,6 +1873,7 @@ Umfangs der Sozialhilfe nicht besser gestellt werden als Ehegatten. §
 
 
 #### § 21 Sonderregelung für Leistungsberechtigte nach dem Zweiten Buch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002204308)
 
 Personen, die nach dem Zweiten Buch als Erwerbsfähige oder als
 Angehörige dem Grunde nach leistungsberechtigt sind, erhalten keine
@@ -1864,6 +1890,7 @@ Erwerbsfähigkeit nach § 44a Absatz 1 des Zweiten Buches gebunden.
 
 
 #### § 22 Sonderregelungen für Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002304124)
 
 (1) Auszubildende, deren Ausbildung im Rahmen des
 Bundesausbildungsförderungsgesetzes oder der §§ 51, 57 und 58 des
@@ -1895,6 +1922,7 @@ Kapitel als Beihilfe oder Darlehen gewährt werden.
 
 
 #### § 23 Sozialhilfe für Ausländerinnen und Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002407126)
 
 (1) Ausländern, die sich im Inland tatsächlich aufhalten, ist Hilfe
 zum Lebensunterhalt, Hilfe bei Krankheit, Hilfe bei Schwangerschaft
@@ -2017,6 +2045,7 @@ gerechtfertigt ist.
 
 
 #### § 24 Sozialhilfe für Deutsche im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002500000)
 
 (1) Deutsche, die ihren gewöhnlichen Aufenthalt im Ausland haben,
 erhalten keine Leistungen. Hiervon kann im Einzelfall nur abgewichen
@@ -2065,6 +2094,7 @@ Dienststellen im Ausland zusammen.
 
 
 #### § 25 Erstattung von Aufwendungen Anderer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002600000)
 
 Hat jemand in einem Eilfall einem Anderen Leistungen erbracht, die bei
 rechtzeitigem Einsetzen von Sozialhilfe nicht zu erbringen gewesen
@@ -2076,6 +2106,7 @@ wird.
 
 
 #### § 26 Einschränkung, Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002701126)
 
 (1) Die Geldleistung für den Lebensunterhalt soll eingeschränkt werden
 
@@ -2126,14 +2157,17 @@ dienende Leistungen gefährdet werden.
 
 
 ## Drittes Kapitel - Hilfe zum Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000501308)
 
 
 
 ### Erster Abschnitt - Leistungsberechtigte, notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003300308)
 
 
 
 #### § 27 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002802360)
 
 (1) Hilfe zum Lebensunterhalt ist Personen zu leisten, die ihren
 notwendigen Lebensunterhalt nicht oder nicht ausreichend aus eigenen
@@ -2162,6 +2196,7 @@ Anspruch auf Assistenzleistungen nach § 78 des Neunten Buches hat.
 
 
 #### § 27a Notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014307377)
 
 (1) Der für die Gewährleistung des Existenzminimums notwendige
 Lebensunterhalt umfasst insbesondere Ernährung, Kleidung,
@@ -2253,6 +2288,7 @@ einen angemessenen Umfang nicht übersteigen.
 
 
 #### § 27b Notwendiger Lebensunterhalt in Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014402126)
 
 (1) Der notwendige Lebensunterhalt umfasst
 
@@ -2318,6 +2354,7 @@ Zahlung monatlich, quartalsweise oder halbjährlich zu erfolgen.
 
 
 #### § 27c Sonderregelung für den Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE019602126)
 
 (1) Für Leistungsberechtigte, die nicht in einer Wohnung nach § 42a
 Absatz 2 Satz 1 Nummer 1 und Satz 2 leben, bestimmen sich der
@@ -2354,6 +2391,7 @@ erstatten.
 
 
 #### § 28 Ermittlung der Regelbedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE002907119)
 
 (1) Liegen die Ergebnisse einer bundesweiten neuen Einkommens- und
 Verbrauchsstichprobe vor, wird die Höhe der Regelbedarfe in einem
@@ -2418,6 +2456,7 @@ ergeben die Regelbedarfsstufen (Anlage).
 
 
 #### § 28a Fortschreibung der Regelbedarfsstufen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014204126)
 
 (1) Für Jahre bis zur nächsten Neuermittlung nach § 28 werden die
 Regelbedarfsstufen jeweils zum 1. Januar nach den Absätzen 2 bis 5
@@ -2488,6 +2527,7 @@ Veränderungsrate
 
 
 #### § 29 Festsetzung und Fortschreibung der Regelsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003003308)
 
 (1) Werden die Regelbedarfsstufen nach § 28 neu ermittelt, gelten
 diese als neu festgesetzte Regelsätze (Neufestsetzung), solange die
@@ -2532,10 +2572,12 @@ Anlage zu § 28.
 
 
 ### Zweiter Abschnitt - Zusätzliche Bedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003400308)
 
 
 
 #### § 30 Mehrbedarf
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003106126)
 
 (1) Für Personen, die
 
@@ -2637,6 +2679,7 @@ Bedarfs nicht möglich ist.
 
 
 #### § 31 Einmalige Bedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003203301)
 
 (1) Leistungen zur Deckung von Bedarfen für
 
@@ -2670,6 +2713,7 @@ nachvollziehbare Erfahrungswerte zu berücksichtigen.
 
 
 #### § 32 Bedarfe für eine Kranken- und Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003310126)
 
 (1) Angemessene Beiträge für eine Kranken- und Pflegeversicherung sind
 als Bedarf anzuerkennen, soweit Leistungsberechtigte diese nicht aus
@@ -2777,6 +2821,7 @@ entsprechend.
 
 
 #### § 32a Zeitliche Zuordnung und Zahlung von Beiträgen für eine Kranken- und Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016301119)
 
 (1) Die Bedarfe nach § 32 sind unabhängig von der Fälligkeit des
 Beitrags jeweils in dem Monat als Bedarf anzuerkennen, für den die
@@ -2804,6 +2849,7 @@ nach Absatz 1 ergebenden Monats zu erfolgen.
 
 
 #### § 33 Bedarfe für die Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003404377)
 
 (1) Um die Voraussetzungen eines Anspruchs auf eine angemessene
 Alterssicherung zu erfüllen, können die erforderlichen Aufwendungen
@@ -2842,10 +2888,12 @@ Einkommen abgesetzt werden.
 
 
 ### Dritter Abschnitt - Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003600308)
 
 
 
 #### § 34 Bedarfe für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003507126)
 
 (1) Bedarfe für Bildung nach den Absätzen 2 bis 6 von Schülerinnen und
 Schülern, die eine allgemein- oder berufsbildende Schule besuchen,
@@ -2977,6 +3025,7 @@ dem Regelbedarf zu bestreiten.
 
 
 #### § 34a Erbringung der Leistungen für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015005377)
 
 (1) Leistungen zur Deckung der Bedarfe nach § 34 Absatz 2 und 4 bis 7
 werden auf Antrag erbracht; gesonderte Anträge sind nur für Leistungen
@@ -3061,6 +3110,7 @@ Abschlagszahlungen geleistet werden.
 
 
 #### § 34b Berechtigte Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016101377)
 
 Geht die leistungsberechtigte Person durch Zahlung an Anbieter in
 Vorleistung, ist der nach § 34c Absatz 1 zuständige Träger der
@@ -3084,6 +3134,7 @@ gestellt.
 
 
 #### § 34c Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021200377)
 
 (1) Die für die Ausführung des Gesetzes nach diesem Abschnitt
 zuständigen Träger werden nach Landesrecht bestimmt.
@@ -3092,10 +3143,12 @@ zuständigen Träger werden nach Landesrecht bestimmt.
 
 
 ### Vierter Abschnitt - Bedarfe für Unterkunft und Heizung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003701301)
 
 
 
 #### § 35 Bedarfe für Unterkunft und Heizung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003612126)
 
 (1) Bedarfe für Unterkunft und Heizung werden in Höhe der
 tatsächlichen Aufwendungen anerkannt, soweit diese angemessen sind.
@@ -3182,6 +3235,7 @@ entsprechend.
 
 
 #### § 35a Aufwendungen für Instandhaltung und Reparatur, Aufwendungen bei Wohnungswechsel, Direktzahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014502126)
 
 (1) Als Bedarf für Unterkunft werden auch die unabweisbaren
 Aufwendungen für Instandhaltung und Reparatur bei selbst bewohntem
@@ -3247,6 +3301,7 @@ ist. Das ist insbesondere der Fall, wenn
 
 
 #### § 35b Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE022300126)
 
 Hat ein Kreis oder eine kreisfreie Stadt eine Satzung nach den §§ 22a
 bis 22c des Zweiten Buches erlassen, so gilt sie für die Höhe der
@@ -3263,6 +3318,7 @@ und 5 Satz 2 und 3 nicht anzuwenden.
 
 
 #### § 36 Sonstige Hilfen zur Sicherung der Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003708126)
 
 (1) Schulden können nur übernommen werden, wenn dies zur Sicherung der
 Unterkunft oder zur Behebung einer vergleichbaren Notlage
@@ -3309,10 +3365,12 @@ der Soldatenentschädigung nach dem Soldatenentschädigungsgesetz.
 
 
 ### Fünfter Abschnitt - Gewährung von Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003800308)
 
 
 
 #### § 37 Ergänzende Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003804377)
 
 (1) Kann im Einzelfall ein von den Regelbedarfen umfasster und nach
 den Umständen unabweisbar gebotener Bedarf auf keine andere Weise
@@ -3348,6 +3406,7 @@ Teilbeträgen über das ganze Kalenderjahr.
 
 
 #### § 37a Darlehen bei am Monatsende fälligen Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016500119)
 
 (1) Kann eine leistungsberechtigte Person in dem Monat, in dem ihr
 erstmals eine Rente zufließt, bis zum voraussichtlichen Zufluss der
@@ -3372,6 +3431,7 @@ Aufrechnung nach § 44b.
 
 
 #### § 38 Darlehen bei vorübergehender Notlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE003903126)
 
 Sind Leistungen nach § 27a Absatz 3 und 4, der Barbetrag nach § 27b
 Absatz 2 sowie nach den §§ 30, 32, 33, 35 und 35a voraussichtlich nur
@@ -3382,10 +3442,12 @@ oder an mehrere gemeinsam vergeben werden.
 
 
 ### Sechster Abschnitt - Einschränkung von Leistungsberechtigung und -umfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003900308)
 
 
 
 #### § 39 Vermutung der Bedarfsdeckung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015103377)
 
 Lebt eine nachfragende Person gemeinsam mit anderen Personen in einer
 Wohnung oder in einer entsprechenden anderen Unterkunft, so wird
@@ -3414,10 +3476,12 @@ Hilfe zum Lebensunterhalt zu gewähren. Satz 1 gilt nicht
 
 
 ### Siebter Abschnitt - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG004000308)
 
 
 
 #### § 40 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004106126)
 
 Das Bundesministerium für Arbeit und Soziales hat im Einvernehmen mit
 dem Bundesministerium der Finanzen durch Rechtsverordnung mit
@@ -3447,14 +3511,17 @@ Oktober des jeweiligen Jahres.
 
 
 ## Viertes Kapitel - Grundsicherung im Alter und bei Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000600000)
 
 
 
 ### Erster Abschnitt - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000700000)
 
 
 
 #### § 41 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004206377)
 
 (1) Leistungsberechtigt nach diesem Kapitel sind Personen mit
 gewöhnlichem Aufenthalt im Inland, die ihren notwendigen
@@ -3630,6 +3697,7 @@ fahrlässig herbeigeführt hat.
 
 
 #### § 41a Vorübergehender Auslandsaufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016600119)
 
 Leistungsberechtigte, die sich länger als vier Wochen ununterbrochen
 im Ausland aufhalten, erhalten nach Ablauf der vierten Woche bis zu
@@ -3637,6 +3705,7 @@ ihrer nachgewiesenen Rückkehr ins Inland keine Leistungen.
 
 
 #### § 42 Bedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004313377)
 
 Die Bedarfe nach diesem Kapitel umfassen:
 
@@ -3675,6 +3744,7 @@ Die Bedarfe nach diesem Kapitel umfassen:
 
 
 #### § 42a Bedarfe für Unterkunft und Heizung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016707126)
 
 (1) Für Leistungsberechtigte sind angemessene Bedarfe für Unterkunft
 und Heizung nach dem Vierten Abschnitt des Dritten Kapitels sowie nach
@@ -3859,6 +3929,7 @@ anerkannt werden, wenn
 
 
 #### § 42b Mehrbedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE019703377)
 
 (1) Für Bedarfe, die nicht durch den Regelsatz abgedeckt sind, werden
 ergänzend zu den Mehrbedarfen nach § 30 die Mehrbedarfe nach den
@@ -3903,6 +3974,7 @@ Regelbedarfsstufe nicht übersteigen.
 
 
 #### § 43 Einsatz von Einkommen und Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004407126)
 
 (1) Für den Einsatz des Einkommens sind die §§ 82 bis 84 und für den
 Einsatz des Vermögens die §§ 90 und 91 anzuwenden, soweit in den
@@ -3941,10 +4013,12 @@ nach § 82 Absatz 1 zu berücksichtigen.
 
 
 ### Zweiter Abschnitt - Verfahrensbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000801119)
 
 
 
 #### § 43a Gesamtbedarf, Zahlungsanspruch und Direktzahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016800119)
 
 (1) Der monatliche Gesamtbedarf ergibt sich aus der Summe der nach §
 42 Nummer 1 bis 4 anzuerkennenden monatlichen Bedarfe.
@@ -3977,6 +4051,7 @@ Satz 1 vornehmen.
 
 
 #### § 44 Antragserfordernis, Erbringung von Geldleistungen, Bewilligungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004506126)
 
 (1) Leistungen nach diesem Kapitel werden auf Antrag erbracht.
 Gesondert zu beantragen sind Leistungen zur Deckung von Bedarfen nach
@@ -4007,6 +4082,7 @@ anzuwenden.
 
 
 #### § 44a Vorläufige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016902126)
 
 (1) Über die Erbringung von Geldleistungen ist vorläufig zu
 entscheiden, wenn die Voraussetzungen des § 41 Absatz 2, 3 und 3a
@@ -4099,6 +4175,7 @@ nach der Anrechnung fortbestehen, sind zu erstatten.
 
 
 #### § 44b Aufrechnung, Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017000119)
 
 (1) Die für die Ausführung des Gesetzes nach diesem Kapitel
 zuständigen Träger können mit einem bestandskräftigen
@@ -4126,6 +4203,7 @@ der Bewilligung von Leistungen nach diesem Kapitel beruhen.
 
 
 #### § 44c Erstattungsansprüche zwischen Trägern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016401119)
 
 Im Verhältnis der für die Ausführung des Gesetzes nach diesem Kapitel
 zuständigen Träger untereinander sind die Vorschriften über die
@@ -4142,6 +4220,7 @@ für Geldleistungen nach diesem Kapitel nicht anzuwenden.
 
 
 #### § 45 Feststellung der dauerhaften vollen Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004610126)
 
 Der jeweils für die Ausführung des Gesetzes nach diesem Kapitel
 zuständige Träger ersucht den nach § 109a Absatz 2 des Sechsten Buches
@@ -4188,6 +4267,7 @@ durchgeführt wird.
 
 
 #### § 45a Ermittlung der durchschnittlichen Warmmiete
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021302126)
 
 (1) Die Höhe der durchschnittlichen Warmmiete von
 Einpersonenhaushalten ergibt sich aus den tatsächlichen Aufwendungen,
@@ -4242,6 +4322,7 @@ Unterkunft und Heizung anzuwenden.
 
 
 #### § 46 Zusammenarbeit mit den Trägern der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004703119)
 
 Der zuständige Träger der Rentenversicherung informiert und berät
 leistungsberechtigte Personen nach § 41, die rentenberechtigt sind,
@@ -4262,10 +4343,12 @@ ermittelnden weiteren Einkommen nicht in Betracht kommt.
 
 
 ### Dritter Abschnitt - Erstattung und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003201308)
 
 
 
 #### § 46a Erstattung durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016202126)
 
 (1) Der Bund erstattet den Ländern jeweils einen Anteil von 100
 Prozent der im jeweiligen Kalenderjahr den für die Ausführung des
@@ -4360,6 +4443,7 @@ differenzieren.
 
 
 #### § 46b Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015204126)
 
 (1) Die für die Ausführung des Gesetzes nach diesem Kapitel
 zuständigen Träger werden nach Landesrecht bestimmt, sofern sich nach
@@ -4384,10 +4468,12 @@ entsprechend anzuwenden.
 
 
 ## Fünftes Kapitel - Hilfen zur Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG000900000)
 
 
 
 ### § 47 Vorbeugende Gesundheitshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004800000)
 
 Zur Verhütung und Früherkennung von Krankheiten werden die
 medizinischen Vorsorgeleistungen und Untersuchungen erbracht. Andere
@@ -4397,6 +4483,7 @@ droht.
 
 
 ### § 48 Hilfe bei Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE004900000)
 
 Um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu
 verhüten oder Krankheitsbeschwerden zu lindern, werden Leistungen zur
@@ -4407,6 +4494,7 @@ der Hilfe bei Krankheit nach Satz 1 vor.
 
 
 ### § 49 Hilfe zur Familienplanung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE005000000)
 
 Zur Familienplanung werden die ärztliche Beratung, die erforderliche
 Untersuchung und die Verordnung der empfängnisregelnden Mittel
@@ -4415,6 +4503,7 @@ geleistet. Die Kosten für empfängnisverhütende Mittel werden
 
 
 ### § 50 Hilfe bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE005101360)
 
 Bei Schwangerschaft und Mutterschaft werden
 
@@ -4436,6 +4525,7 @@ geleistet.
 
 
 ### § 51 Hilfe bei Sterilisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE005200000)
 
 Bei einer durch Krankheit erforderlichen Sterilisation werden die
 ärztliche Untersuchung, Beratung und Begutachtung, die ärztliche
@@ -4444,6 +4534,7 @@ die Krankenhauspflege geleistet.
 
 
 ### § 52 Leistungserbringung, Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE005302360)
 
 (1) Die Hilfen nach den §§ 47 bis 51 entsprechen den Leistungen der
 gesetzlichen Krankenversicherung. Soweit Krankenkassen in ihrer
@@ -4482,17 +4573,21 @@ geleistet.
 
 
 ## Sechstes Kapitel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001001360)
 
 
 
 ### (XXXX) §§ 53 bis 60 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE005401360)
 
 
 ## Siebtes Kapitel - Hilfe zur Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001101360)
 
 
 
 ### § 61 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006203360)
 
 Personen, die pflegebedürftig im Sinne des § 61a sind, haben Anspruch
 auf Hilfe zur Pflege, soweit ihnen und ihren nicht getrennt lebenden
@@ -4505,6 +4600,7 @@ berücksichtigen.
 
 
 ### § 61a Begriff der Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017100360)
 
 (1) Pflegebedürftig sind Personen, die gesundheitlich bedingte
 Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten aufweisen
@@ -4755,6 +4851,7 @@ folgenden Kriterien:
 
 
 ### § 61b Pflegegrade
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017200360)
 
 (1) Für die Gewährung von Leistungen der Hilfe zur Pflege sind
 pflegebedürftige Personen entsprechend den im Begutachtungsverfahren
@@ -4793,6 +4890,7 @@ ihre Gesamtpunkte unter 90 liegen.
 
 
 ### § 61c Pflegegrade bei Kindern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017300360)
 
 (1) Bei pflegebedürftigen Kindern, die 18 Monate oder älter sind, ist
 für die Einordnung in einen Pflegegrad nach § 61b der gesundheitlich
@@ -4819,6 +4917,7 @@ der nachfolgenden Pflegegrade einzuordnen:
 
 
 ### § 62 Ermittlung des Grades der Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006301360)
 
 Die Ermittlung des Pflegegrades erfolgt durch ein
 Begutachtungsinstrument nach Maßgabe des § 15 des Elften Buches. Die
@@ -4828,6 +4927,7 @@ Pflegekassen finden entsprechende Anwendung.
 
 
 ### § 62a Bindungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017401126)
 
 Die Entscheidung der Pflegekasse über den Pflegegrad ist für den
 Träger der Sozialhilfe bindend, soweit sie auf Tatsachen beruht, die
@@ -4840,6 +4940,7 @@ der zu vereinbaren ist.
 
 
 ### § 63 Leistungen für Pflegebedürftige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006405377)
 
 (1) Die Hilfe zur Pflege umfasst für Pflegebedürftige der Pflegegrade
 2, 3, 4 oder 5
@@ -4916,12 +5017,14 @@ ist insoweit anzuwenden.
 
 
 ### § 63a Notwendiger pflegerischer Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017500360)
 
 Die Träger der Sozialhilfe haben den notwendigen pflegerischen Bedarf
 zu ermitteln und festzustellen.
 
 
 ### § 63b Leistungskonkurrenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017601360)
 
 (1) Leistungen der Hilfe zur Pflege werden nicht erbracht, soweit
 Pflegebedürftige gleichartige Leistungen nach anderen
@@ -4967,6 +5070,7 @@ Satz 5 und 6 des Elften Buches vorliegen.
 
 
 ### § 64 Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006501360)
 
 Soweit häusliche Pflege ausreicht, soll der Träger der Sozialhilfe
 darauf hinwirken, dass die häusliche Pflege durch Personen, die dem
@@ -4975,6 +5079,7 @@ wird.
 
 
 ### § 64a Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017700360)
 
 (1) Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben bei
 häuslicher Pflege Anspruch auf Pflegegeld in Höhe des Pflegegeldes
@@ -4995,6 +5100,7 @@ Leistungspflicht nach Absatz 1.
 
 
 ### § 64b Häusliche Pflegehilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017800360)
 
 (1) Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf
 körperbezogene Pflegemaßnahmen und pflegerische Betreuungsmaßnahmen
@@ -5027,6 +5133,7 @@ Umfeld, insbesondere
 
 
 ### § 64c Verhinderungspflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE017900360)
 
 Ist eine Pflegeperson im Sinne von § 64 wegen Erholungsurlaubs,
 Krankheit oder aus sonstigen Gründen an der häuslichen Pflege
@@ -5035,6 +5142,7 @@ zu übernehmen.
 
 
 ### § 64d Pflegehilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018000360)
 
 (1) Pflegebedürftige haben Anspruch auf Versorgung mit
 Pflegehilfsmitteln, die
@@ -5058,6 +5166,7 @@ geeigneten Fällen leihweise zur Verfügung gestellt werden.
 
 
 ### § 64e Maßnahmen zur Verbesserung des Wohnumfeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018100360)
 
 Maßnahmen zur Verbesserung des Wohnumfeldes der Pflegebedürftigen
 können gewährt werden,
@@ -5082,6 +5191,7 @@ können gewährt werden,
 
 
 ### § 64f Andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018200360)
 
 (1) Zusätzlich zum Pflegegeld nach § 64a Absatz 1 sind die
 Aufwendungen für die Beiträge einer Pflegeperson oder einer besonderen
@@ -5098,6 +5208,7 @@ werden.
 
 
 ### § 64g Teilstationäre Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018300360)
 
 Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf
 teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege,
@@ -5110,6 +5221,7 @@ zurück.
 
 
 ### § 64h Kurzzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018401360)
 
 (1) Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf
 Kurzeitpflege in einer stationären Pflegeeinrichtung, soweit die
@@ -5140,6 +5252,7 @@ auch in Vorsorge- oder Rehabilitationseinrichtungen nach § 107 Absatz
 
 
 ### § 64i Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018500360)
 
 Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf
 einen Entlastungsbetrag in Höhe von bis zu 125 Euro monatlich. Der
@@ -5160,6 +5273,7 @@ Entlastungsbetrag ist zweckgebunden einzusetzen zur
 
 
 ### § 64j Digitale Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021401126)
 
 (1) Pflegebedürftige haben Anspruch auf Versorgung mit Anwendungen,
 die wesentlich auf digitalen Technologien beruhen und von den
@@ -5177,6 +5291,7 @@ Elften Buches aufgenommen wurden.
 
 
 ### § 64k Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021500377)
 
 Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im
 Sinne des § 64j Anspruch auf erforderliche ergänzende
@@ -5187,6 +5302,7 @@ ambulante Pflegeeinrichtungen.
 
 
 ### § 65 Stationäre Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006601360)
 
 Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf
 Pflege in stationären Einrichtungen, wenn häusliche oder
@@ -5197,6 +5313,7 @@ entsprechende Anwendung.
 
 
 ### § 66 Entlastungsbetrag bei Pflegegrad 1
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006701360)
 
 Pflegebedürftige des Pflegegrades 1 haben Anspruch auf einen
 Entlastungsbetrag in Höhe von bis zu 125 Euro monatlich. Der
@@ -5234,6 +5351,7 @@ Entlastungsbetrag ist zweckgebunden einzusetzen zur
 
 
 ### § 66a Sonderregelungen zum Einsatz von Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018700360)
 
 Für Personen, die Leistungen nach diesem Kapitel erhalten, gilt ein
 zusätzlicher Betrag von bis zu 25 000 Euro für die Lebensführung und
@@ -5245,10 +5363,12 @@ Absatz 3 Satz 1 bleibt unberührt.
 
 
 ## Achtes Kapitel - Hilfe zur Überwindung besonderer sozialer Schwierigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001200000)
 
 
 
 ### § 67 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006801360)
 
 Personen, bei denen besondere Lebensverhältnisse mit sozialen
 Schwierigkeiten verbunden sind, sind Leistungen zur Überwindung dieser
@@ -5259,6 +5379,7 @@ wird, gehen diese der Leistung nach Satz 1 vor.
 
 
 ### § 68 Umfang der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE006900000)
 
 (1) Die Leistungen umfassen alle Maßnahmen, die notwendig sind, um die
 Schwierigkeiten abzuwenden, zu beseitigen, zu mildern oder ihre
@@ -5284,6 +5405,7 @@ wirksam ergänzen.
 
 
 ### § 69 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007001308)
 
 Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen über die
@@ -5292,10 +5414,12 @@ Maßnahmen nach § 68 Abs. 1 erlassen.
 
 
 ## Neuntes Kapitel - Hilfe in anderen Lebenslagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001300000)
 
 
 
 ### § 70 Hilfe zur Weiterführung des Haushalts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007101360)
 
 (1) Personen mit eigenem Haushalt sollen Leistungen zur Weiterführung
 des Haushalts erhalten, wenn weder sie selbst noch, falls sie mit
@@ -5328,6 +5452,7 @@ geboten ist.
 
 
 ### § 71 Altenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007202360)
 
 (1) Alten Menschen soll außer den Leistungen nach den übrigen
 Bestimmungen dieses Buches sowie den Leistungen der
@@ -5395,6 +5520,7 @@ und Gesamtplanung nach dem Neunten Buch sind zu berücksichtigen.
 
 
 ### § 72 Blindenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007304126)
 
 (1) Blinden Menschen wird zum Ausgleich der durch die Blindheit
 bedingten Mehraufwendungen Blindenhilfe gewährt, soweit sie keine
@@ -5447,6 +5573,7 @@ Buches erbracht.
 
 
 ### § 73 Hilfe in sonstigen Lebenslagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007400000)
 
 Leistungen können auch in sonstigen Lebenslagen erbracht werden, wenn
 sie den Einsatz öffentlicher Mittel rechtfertigen. Geldleistungen
@@ -5454,6 +5581,7 @@ können als Beihilfe oder als Darlehen erbracht werden.
 
 
 ### § 74 Bestattungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007500000)
 
 Die erforderlichen Kosten einer Bestattung werden übernommen, soweit
 den hierzu Verpflichteten nicht zugemutet werden kann, die Kosten zu
@@ -5461,10 +5589,12 @@ tragen.
 
 
 ## Zehntes Kapitel - Vertragsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001401360)
 
 
 
 ### § 75 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007607311)
 
 (1) Der Träger der Sozialhilfe darf Leistungen nach dem Siebten bis
 Neunten Kapitel mit Ausnahme der Leistungen der häuslichen Pflege,
@@ -5573,6 +5703,7 @@ erbrachten Leistungen.
 
 
 ### § 76 Inhalt der Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007704360)
 
 (1) In der schriftlichen Vereinbarung mit Erbringern von Leistungen
 nach dem Siebten bis Neunten Kapitel sind zu regeln:
@@ -5633,6 +5764,7 @@ werden.
 
 
 ### § 76a Zugelassene Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE019901126)
 
 (1) Bei zugelassenen Pflegeeinrichtungen im Sinne des § 72 des Elften
 Buches richten sich Art, Inhalt, Umfang und Vergütung
@@ -5676,6 +5808,7 @@ Absatz 4 des Elften Buches getroffen hat.
 
 
 ### § 77 Verfahren und Inkrafttreten der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007802360)
 
 (1) Der Leistungserbringer oder der Träger der Sozialhilfe hat die
 jeweils andere Partei schriftlich zu Verhandlungen über den Abschluss
@@ -5709,6 +5842,7 @@ Fällen der Sätze 1 bis 4 nicht zulässig.
 
 
 ### § 77a Verbindlichkeit der vereinbarten Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020000360)
 
 (1) Mit der Zahlung der vereinbarten Vergütung gelten alle während des
 Vereinbarungszeitraums entstandenen Ansprüche des Leistungserbringers
@@ -5739,6 +5873,7 @@ Inkrafttreten einer neuen Vergütungsvereinbarung weiter.
 
 
 ### § 78 Wirtschaftlichkeits- und Qualitätsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE007904126)
 
 (1) Soweit tatsächliche Anhaltspunkte dafür bestehen, dass ein
 Leistungserbringer seine vertraglichen oder gesetzlichen Pflichten
@@ -5774,6 +5909,7 @@ zugänglich zu machen.
 
 
 ### § 79 Kürzung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008001360)
 
 (1) Hält ein Leistungserbringer seine gesetzlichen oder vertraglichen
 (vereinbarten) Verpflichtungen ganz oder teilweise nicht ein, ist die
@@ -5795,6 +5931,7 @@ Anspruch auf Nachverhandlung gemäß § 77a Absatz 2.
 
 
 ### § 79a Außerordentliche Kündigung der Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020100360)
 
 Der Träger der Sozialhilfe kann die Vereinbarungen mit einem
 Leistungserbringer fristlos kündigen, wenn ihm ein Festhalten an den
@@ -5827,6 +5964,7 @@ unberührt.
 
 
 ### § 80 Rahmenverträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008102360)
 
 (1) Die überörtlichen Träger der Sozialhilfe und die örtlichen Träger
 der Sozialhilfe im Zuständigkeitsbereich des überörtlichen Trägers
@@ -5883,6 +6021,7 @@ die Landesregierung durch Rechtsverordnung die Inhalte regeln.
 
 
 ### § 81 Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008201360)
 
 (1) Für jedes Land oder für Teile eines Landes wird eine Schiedsstelle
 gebildet.
@@ -5945,14 +6084,17 @@ zu bestimmen.
 
 
 ## Elftes Kapitel - Einsatz des Einkommens und des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001500000)
 
 
 
 ### Erster Abschnitt - Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001600000)
 
 
 
 #### § 82 Begriff des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008328126)
 
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert.
 Nicht zum Einkommen gehören
@@ -6153,6 +6295,7 @@ und Absatz 3 nicht einzusetzen ist.
 
 
 #### § 82a Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020900126)
 
 (1) Bei der Hilfe zum Lebensunterhalt und Grundsicherung im Alter und
 bei Erwerbsminderung ist für Personen, die mindestens 33 Jahre an
@@ -6190,6 +6333,7 @@ angerechnet.
 
 
 #### § 83 Nach Zweck und Inhalt bestimmte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008400000)
 
 (1) Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu
 einem ausdrücklich genannten Zweck erbracht werden, sind nur so weit
@@ -6202,6 +6346,7 @@ geleistet wird, ist nicht als Einkommen zu berücksichtigen.
 
 
 #### § 84 Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008500000)
 
 (1) Zuwendungen der freien Wohlfahrtspflege bleiben als Einkommen
 außer Betracht. Dies gilt nicht, soweit die Zuwendung die Lage der
@@ -6215,10 +6360,12 @@ eine besondere Härte bedeuten würde.
 
 
 ### Zweiter Abschnitt - Einkommensgrenzen für die Leistungen nach dem Fünften bis Neunten Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001700000)
 
 
 
 #### § 85 Einkommensgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008602301)
 
 (1) Bei der Hilfe nach dem Fünften bis Neunten Kapitel ist der
 nachfragenden Person und ihrem nicht getrennt lebenden Ehegatten oder
@@ -6286,6 +6433,7 @@ zu ermitteln, ist Satz 1 anzuwenden.
 
 
 #### § 86 Abweichender Grundbetrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008700000)
 
 Die Länder und, soweit landesrechtliche Vorschriften nicht
 entgegenstehen, auch die Träger der Sozialhilfe können für bestimmte
@@ -6294,6 +6442,7 @@ Einkommensgrenze einen höheren Grundbetrag zu Grunde legen.
 
 
 #### § 87 Einsatz des Einkommens über der Einkommensgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008801360)
 
 (1) Soweit das zu berücksichtigende Einkommen die Einkommensgrenze
 übersteigt, ist die Aufbringung der Mittel in angemessenem Umfang
@@ -6324,6 +6473,7 @@ Monats, in dem über die Leistung entschieden worden ist, erwerben.
 
 
 #### § 88 Einsatz des Einkommens unter der Einkommensgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE008904119)
 
 (1) Die Aufbringung der Mittel kann, auch soweit das Einkommen unter
 der Einkommensgrenze liegt, verlangt werden,
@@ -6351,6 +6501,7 @@ anzuwenden.
 
 
 #### § 89 Einsatz des Einkommens bei mehrfachem Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009001360)
 
 (1) Wird im Einzelfall der Einsatz eines Teils des Einkommens zur
 Deckung eines bestimmten Bedarfs zugemutet oder verlangt, darf dieser
@@ -6370,10 +6521,12 @@ Einkommen nur zur Hälfte zu berücksichtigen.
 
 
 ### Dritter Abschnitt - Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001800000)
 
 
 
 #### § 90 Einzusetzendes Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009105126)
 
 (1) Einzusetzen ist das gesamte verwertbare Vermögen.
 
@@ -6451,6 +6604,7 @@ einer angemessenen Alterssicherung wesentlich erschwert würde.
 
 
 #### § 91 Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009200000)
 
 Soweit nach § 90 für den Bedarf der nachfragenden Person Vermögen
 einzusetzen ist, jedoch der sofortige Verbrauch oder die sofortige
@@ -6462,10 +6616,12 @@ anderer Weise gesichert wird.
 
 
 ### Vierter Abschnitt - Einschränkung der Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG001900000)
 
 
 
 #### § 92 Beschränkung des Einkommenseinsatzes auf die häusliche Ersparnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009303360)
 
 (1) Erhält eine Person, die nicht in einer Wohnung nach § 42a Absatz 2
 Satz 2 lebt, Leistungen nach dem Dritten, Vierten, Fünften, Siebten,
@@ -6505,10 +6661,12 @@ Aufbringung der Mittel verlangt werden.
 
 
 ### Fünfter Abschnitt - Verpflichtungen anderer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002000000)
 
 
 
 #### § 93 Übergang von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009402360)
 
 (1) Hat eine leistungsberechtigte Person oder haben bei Gewährung von
 Hilfen nach dem Fünften bis Neunten Kapitel auch ihre Eltern, ihr
@@ -6543,6 +6701,7 @@ Absatzes 1 vor.
 
 
 #### § 94 Übergang von Ansprüchen gegen einen nach bürgerlichem Recht Unterhaltspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009507377)
 
 (1) Hat die leistungsberechtigte Person für die Zeit, für die
 Leistungen erbracht werden, nach bürgerlichem Recht einen
@@ -6620,6 +6779,7 @@ bis 4 ist im Zivilrechtsweg zu entscheiden.
 
 
 #### § 95 Feststellung der Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009600000)
 
 Der erstattungsberechtigte Träger der Sozialhilfe kann die
 Feststellung einer Sozialleistung betreiben sowie Rechtsmittel
@@ -6630,10 +6790,12 @@ selbst betreibt.
 
 
 ### Sechster Abschnitt - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002100000)
 
 
 
 #### § 96 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009701308)
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates Näheres über die Berechnung des Einkommens nach § 82,
@@ -6647,14 +6809,17 @@ bestimmen.
 
 
 ## Zwölftes Kapitel - Zuständigkeit der Träger der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002200000)
 
 
 
 ### Erster Abschnitt - Sachliche und örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002300000)
 
 
 
 #### § 97 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009803377)
 
 (1) Für die Sozialhilfe sachlich zuständig ist der örtliche Träger der
 Sozialhilfe, soweit nicht der überörtliche Träger sachlich zuständig
@@ -6692,6 +6857,7 @@ anderen Kapiteln zu erbringen sind, sowie für eine Leistung nach § 74.
 
 
 #### § 98 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE009907377)
 
 (1) Für die Sozialhilfe örtlich zuständig ist der Träger der
 Sozialhilfe, in dessen Bereich sich die Leistungsberechtigten
@@ -6750,6 +6916,7 @@ trifft.
 
 
 #### § 99 Vorbehalt abweichender Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010000000)
 
 (1) Die Länder können bestimmen, dass und inwieweit die Kreise ihnen
 zugehörige Gemeinden oder Gemeindeverbände zur Durchführung von
@@ -6767,15 +6934,18 @@ nach Landesrecht etwas anderes bestimmt wird.
 
 
 ### Zweiter Abschnitt - Sonderbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002400000)
 
 
 
 #### § 100 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010102308)
 
 -
 
 
 #### § 101 Behördenbestimmung und Stadtstaaten-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010200000)
 
 (1) Welche Stellen zuständige Behörden sind, bestimmt die
 Landesregierung, soweit eine landesrechtliche Regelung nicht besteht.
@@ -6786,14 +6956,17 @@ Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ## Dreizehntes Kapitel - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002500000)
 
 
 
 ### Erster Abschnitt - Kostenersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002600000)
 
 
 
 #### § 102 Kostenersatz durch Erben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010302308)
 
 (1) Der Erbe der leistungsberechtigten Person oder ihres Ehegatten
 oder ihres Lebenspartners, falls diese vor der leistungsberechtigten
@@ -6841,6 +7014,7 @@ entstandenen Kosten der Tuberkulosehilfe.
 
 
 #### § 102a Rücküberweisung und Erstattung im Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021600377)
 
 Für Geldleistungen nach diesem Buch, die für Zeiträume nach dem
 Todesmonat der leistungsberechtigten Person überwiesen wurden, ist §
@@ -6848,6 +7022,7 @@ Todesmonat der leistungsberechtigten Person überwiesen wurden, ist §
 
 
 #### § 103 Kostenersatz bei schuldhaftem Verhalten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010400000)
 
 (1) Zum Ersatz der Kosten der Sozialhilfe ist verpflichtet, wer nach
 Vollendung des 18. Lebensjahres für sich oder andere durch
@@ -6875,6 +7050,7 @@ Kostenersatz nach Absatz 1 und zur Erstattung derselben Kosten nach §
 
 
 #### § 104 Kostenersatz für zu Unrecht erbrachte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010500000)
 
 Zum Ersatz der Kosten für zu Unrecht erbrachte Leistungen der
 Sozialhilfe ist in entsprechender Anwendung des § 103 verpflichtet,
@@ -6885,6 +7061,7 @@ haften als Gesamtschuldner.
 
 
 #### § 105 Kostenersatz bei Doppelleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010604119)
 
 Hat ein vorrangig verpflichteter Leistungsträger in Unkenntnis der
 Leistung des Trägers der Sozialhilfe an die leistungsberechtigte
@@ -6893,10 +7070,12 @@ der Sozialhilfe verpflichtet.
 
 
 ### Zweiter Abschnitt - Kostenerstattung zwischen den Trägern der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002700000)
 
 
 
 #### § 106 Kostenerstattung bei Aufenthalt in einer Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010700000)
 
 (1) Der nach § 98 Abs. 2 Satz 1 zuständige Träger der Sozialhilfe hat
 dem nach § 98 Abs. 2 Satz 3 vorläufig leistenden Träger die
@@ -6927,6 +7106,7 @@ Ablauf von zwei Jahren seit dem Verlassen der Einrichtung.
 
 
 #### § 107 Kostenerstattung bei Unterbringung in einer anderen Familie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010800000)
 
 § 98 Abs. 2 und § 106 gelten entsprechend, wenn ein Kind oder ein
 Jugendlicher in einer anderen Familie oder bei anderen Personen als
@@ -6934,6 +7114,7 @@ bei seinen Eltern oder bei einem Elternteil untergebracht ist.
 
 
 #### § 108 Kostenerstattung bei Einreise aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE010901119)
 
 (1) Reist eine Person, die weder im Ausland noch im Inland einen
 gewöhnlichen Aufenthalt hat, aus dem Ausland ein und setzen innerhalb
@@ -6971,6 +7152,7 @@ durch Vereinbarung zwischen Bund und Ländern geregelt ist.
 
 
 #### § 109 Ausschluss des gewöhnlichen Aufenthalts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011000000)
 
 Als gewöhnlicher Aufenthalt im Sinne des Zwölften Kapitels und des
 Dreizehnten Kapitels, Zweiter Abschnitt, gelten nicht der Aufenthalt
@@ -6980,6 +7162,7 @@ Vollzugsanstalt.
 
 
 #### § 110 Umfang der Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011101308)
 
 (1) Die aufgewendeten Kosten sind zu erstatten, soweit die Leistung
 diesem Buch entspricht. Dabei gelten die am Aufenthaltsort der
@@ -6996,6 +7179,7 @@ zusammen.
 
 
 #### § 111 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011200000)
 
 (1) Der Anspruch auf Erstattung der aufgewendeten Kosten verjährt in
 vier Jahren, beginnend nach Ablauf des Kalenderjahres, in dem er
@@ -7007,16 +7191,19 @@ sinngemäß.
 
 
 #### § 112 Kostenerstattung auf Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011300000)
 
 Die Länder können Abweichendes über die Kostenerstattung zwischen den
 Trägern der Sozialhilfe ihres Bereichs regeln.
 
 
 ### Dritter Abschnitt - Sonstige Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002800000)
 
 
 
 #### § 113 Vorrang der Erstattungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011400000)
 
 Erstattungsansprüche der Träger der Sozialhilfe gegen andere
 Leistungsträger nach § 104 des Zehnten Buches gehen einer Übertragung,
@@ -7025,6 +7212,7 @@ Entstehen des Erstattungsanspruchs erfolgt sind.
 
 
 #### § 114 Ersatzansprüche der Träger der Sozialhilfe nach sonstigen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011501308)
 
 Bestimmt sich das Recht des Trägers der Sozialhilfe, Ersatz seiner
 Aufwendungen von einem anderen zu verlangen, gegen den die
@@ -7046,6 +7234,7 @@ Aufwendungen
 
 
 #### § 115 Übergangsregelung für die Kostenerstattung bei Einreise aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011600000)
 
 Die Pflicht eines Trägers der Sozialhilfe zur Kostenerstattung, die
 nach der vor dem 1. Januar 1994 geltenden Fassung des § 108 des
@@ -7054,10 +7243,12 @@ bestimmt worden ist, bleibt bestehen.
 
 
 ## Vierzehntes Kapitel - Verfahrensbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG002900000)
 
 
 
 ### § 116 Beteiligung sozial erfahrener Dritter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011700000)
 
 (1) Soweit Landesrecht nichts Abweichendes bestimmt, sind vor dem
 Erlass allgemeiner Verwaltungsvorschriften sozial erfahrene Dritte zu
@@ -7071,6 +7262,7 @@ wie sie in Absatz 1 bezeichnet sind, beratend zu beteiligen.
 
 
 ### § 116a Rücknahme von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014601119)
 
 § 44 des Zehnten Buches gilt mit der Maßgabe, dass
 
@@ -7088,6 +7280,7 @@ wie sie in Absatz 1 bezeichnet sind, beratend zu beteiligen.
 
 
 ### § 117 Pflicht zur Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011801308)
 
 (1) Die Unterhaltspflichtigen, ihre nicht getrennt lebenden Ehegatten
 oder Lebenspartner und die Kostenersatzpflichtigen haben dem Träger
@@ -7139,6 +7332,7 @@ Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
 
 ### § 118 Überprüfung, Verwaltungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE011909126)
 
 (1) Die Träger der Sozialhilfe können Personen, die Leistungen nach
 diesem Buch beziehen, auch regelmäßig im Wege des automatisierten
@@ -7267,6 +7461,7 @@ einholen.
 
 
 ### § 119 Wissenschaftliche Forschung im Auftrag des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012001308)
 
 Der Träger der Sozialhilfe darf einer wissenschaftlichen Einrichtung,
 die im Auftrag des Bundesministeriums für Arbeit und Soziales ein
@@ -7295,6 +7490,7 @@ unberührt.
 
 
 ### § 120 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012103126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -7315,14 +7511,17 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ## Fünfzehntes Kapitel - Statistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003000000)
 
 
 
 ### Erster Abschnitt - Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG004100308)
 
 
 
 #### § 121 Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012203360)
 
 Zur Beurteilung der Auswirkungen des Dritten und Fünften bis Neunten
 Kapitels und zu deren Fortentwicklung werden Erhebungen über
@@ -7362,6 +7561,7 @@ als Bundesstatistik durchgeführt.
 
 
 #### § 122 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012309126)
 
 (1) Erhebungsmerkmale bei den Erhebungen nach § 121 Nummer 1 Buchstabe
 a sind für Leistungsberechtigte, denen Leistungen nach dem Dritten
@@ -7465,6 +7665,7 @@ nach Einnahmearten und Leistungen nach § 8.
 
 
 #### § 123 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012404126)
 
 (1) Hilfsmerkmale für Erhebungen nach § 121 sind
 
@@ -7490,6 +7691,7 @@ wiederkehrenden Bestandserhebung zu löschen.
 
 
 #### § 124 Periodizität, Berichtszeitraum und Berichtszeitpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012504126)
 
 (1) Die Erhebungen nach § 122 Absatz 1 Nummer 1 bis 3 werden als
 Bestandserhebungen jährlich zum 31. Dezember durchgeführt. Die Angaben
@@ -7511,6 +7713,7 @@ abgelaufene Kalenderjahr.
 
 
 #### § 125 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012604126)
 
 (1) Für die Erhebungen nach § 121 besteht Auskunftspflicht. Die
 Angaben nach § 123 Absatz 1 Nummer 3 sowie die Angaben zum
@@ -7524,6 +7727,7 @@ wahrnehmen.
 
 
 #### § 126 Übermittlung, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012702301)
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -7548,6 +7752,7 @@ Gemeinde bezogen veröffentlicht werden.
 
 
 #### § 127 Übermittlung an Kommunen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012800000)
 
 (1) Für ausschließlich statistische Zwecke dürfen den zur Durchführung
 statistischer Aufgaben zuständigen Stellen der Gemeinden und
@@ -7564,6 +7769,7 @@ sowie vereinheitlichter Auswertungsroutine erfolgt.
 
 
 #### § 128 Zusatzerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE012901308)
 
 Über Leistungen und Maßnahmen nach dem Dritten und Fünften bis Neunten
 Kapitel, die nicht durch die Erhebungen nach § 121 Nummer 1 erfasst
@@ -7572,10 +7778,12 @@ durchgeführt werden.
 
 
 ### Zweiter Abschnitt - Bundesstatistik für das Vierte Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG004200308)
 
 
 
 #### § 128a Bundesstatistik für das Vierte Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015302126)
 
 (1) Zur Beurteilung der Auswirkungen des Vierten Kapitels sowie zu
 seiner Fortentwicklung sind Erhebungen über die Leistungsberechtigten
@@ -7600,6 +7808,7 @@ durch das Statistische Bundesamt.
 
 
 #### § 128b Persönliche Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015402126)
 
 Erhebungsmerkmale nach § 128a Absatz 2 Nummer 1 sind
 
@@ -7639,6 +7848,7 @@ Erhebungsmerkmale nach § 128a Absatz 2 Nummer 1 sind
 
 
 #### § 128c Art und Höhe der Bedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015504126)
 
 Erhebungsmerkmale nach § 128a Absatz 2 Nummer 2 sind
 
@@ -7765,6 +7975,7 @@ Erhebungsmerkmale nach § 128a Absatz 2 Nummer 2 sind
 
 
 #### § 128d Art und Höhe der angerechneten Einkommen und abgesetzten Beträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015608126)
 
 (1) Erhebungsmerkmale nach § 128a Absatz 2 Nummer 3 sind die jeweilige
 Höhe der angerechneten Einkommensart, getrennt nach
@@ -7819,6 +8030,7 @@ und 6 sowie nach § 82a abgesetzten Beträge.
 
 
 #### § 128e Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015700308)
 
 (1) Hilfsmerkmale für die Bundesstatistik nach § 128a sind
 
@@ -7843,6 +8055,7 @@ wiederkehrenden Bestandserhebung, zu löschen.
 
 
 #### § 128f Periodizität, Berichtszeitraum und Berichtszeitpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015801126)
 
 (1) Die Bundesstatistik nach § 128a wird quartalsweise durchgeführt.
 
@@ -7865,6 +8078,7 @@ Nummer 1 und 2 zu erheben sind.
 
 
 #### § 128g Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE015900308)
 
 (1) Für die Bundesstatistik nach § 128a besteht Auskunftspflicht. Die
 Auskunftserteilung für die Angaben nach § 128e Nummer 3 und zum
@@ -7875,6 +8089,7 @@ dem Vierten Kapitel zuständigen Träger.
 
 
 #### § 128h Datenübermittlung, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE016001126)
 
 (1) Die in sich schlüssigen und nach einheitlichen Standards
 formatierten Einzeldatensätze sind von den Auskunftspflichtigen
@@ -7936,10 +8151,12 @@ auf die einzelnen Gemeinden bezogen veröffentlicht werden.
 
 
 ### Dritter Abschnitt - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG004300308)
 
 
 
 #### § 129 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013004124)
 
 Das Bundesministerium für Arbeit und Soziales kann für
 Zusatzerhebungen nach § 128 im Einvernehmen mit dem Bundesministerium
@@ -7972,10 +8189,12 @@ f)  die Art der Erhebung (Vollerhebung oder Zufallsstichprobe).
 
 
 ## Sechzehntes Kapitel - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNG003100000)
 
 
 
 ### § 130 Übergangsregelung für ambulant Betreute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013100000)
 
 Für Personen, die Leistungen der Eingliederungshilfe für behinderte
 Menschen oder der Hilfe zur Pflege empfangen, deren Betreuung am 26.
@@ -7985,6 +8204,7 @@ am 26. Juni 1996 geltenden Fassung.
 
 
 ### § 131 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013204126)
 
 (1) Abweichend von § 2 sind Leistungsberechtigte für am 31. Dezember
 2022 laufende Bewilligungszeiträume oder Bewilligungszeiträume, die in
@@ -7995,6 +8215,7 @@ verpflichtet, Wohngeld nach dem Wohngeldgesetz in Anspruch zu nehmen.
 
 
 ### § 132 Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013300000)
 
 (1) Deutsche, die am 31. Dezember 2003 Leistungen nach § 147b des
 Bundessozialhilfegesetzes in der zu diesem Zeitpunkt geltenden Fassung
@@ -8044,6 +8265,7 @@ und 2 oder nach § 24 Abs. 1 erfüllen; § 24 Abs. 2 gilt.
 
 
 ### § 133 Übergangsregelung für besondere Hilfen an Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013401000)
 
 (1) Deutsche, die außerhalb des Geltungsbereiches dieses Gesetzes,
 aber innerhalb des in Artikel 116 Abs. 1 des Grundgesetzes genannten
@@ -8063,6 +8285,7 @@ bestimmen.
 
 
 ### § 133a Übergangsregelung für Hilfeempfänger in Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013800308)
 
 Für Personen, die am 31. Dezember 2004 einen Anspruch auf einen
 zusätzlichen Barbetrag nach § 21 Abs. 3 Satz 4 des
@@ -8072,6 +8295,7 @@ erbracht.
 
 
 ### § 133b Übergangsregelung zu Bedarfen für Unterkunft und Heizung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014003126)
 
 § 42a Absatz 3 und 4 findet keine Anwendung auf Leistungsberechtigte,
 bei denen vor dem 1. Juli 2017 Bedarfe für Unterkunft und Heizung nach
@@ -8094,6 +8318,7 @@ mehreren Personen in derselben Wohnung lebt.
 
 
 ### § 134 Fortschreibung der Regelbedarfsstufen zum 1. Januar 2023
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013504126)
 
 (1) Die Veränderungsrate für die Fortschreibung der Regelbedarfsstufen
 nach § 28a Absatz 3 zum 1. Januar 2023 beträgt 4,54 Prozent. Die
@@ -8107,6 +8332,7 @@ ist zum 1. Januar 2023 zu ergänzen.
 
 
 ### § 135 Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013600000)
 
 (1) Erhielten am 31. Dezember 1986 Tuberkulosekranke, von Tuberkulose
 Bedrohte oder von Tuberkulose Genesene laufende Leistungen nach
@@ -8122,6 +8348,7 @@ Tuberkulosehilfe gewährten Darlehen andere Behörden bestimmen.
 
 
 ### § 136 Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE013706119)
 
 (1) Für Leistungsberechtigte nach dem Vierten Kapitel, die zugleich
 Leistungen der Eingliederungshilfe nach dem Sechsten Kapitel in einer
@@ -8188,6 +8415,7 @@ der Summe der Erstattungsbeträge je Kalendermonat nach Satz 1.
 
 
 ### § 136a Erstattung des Barbetrags durch den Bund ab dem Jahr 2020
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE019802126)
 
 (1) Für Leistungsberechtigte nach dem Vierten Kapitel, die zugleich
 Leistungen in einer stationären Einrichtung erhalten, erstattet der
@@ -8238,6 +8466,7 @@ Kalenderjahres zu zahlen, das auf den jeweiligen Meldezeitraum folgt.
 
 
 ### § 137 Überleitung in Pflegegrade zum 1. Januar 2017
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014702360)
 
 Pflegebedürftige, deren Pflegebedürftigkeit nach den Vorschriften des
 Siebten Kapitels in der am 31. Dezember 2016 geltenden Fassung
@@ -8262,6 +8491,7 @@ für den Träger der Sozialhilfe bindend.
 
 
 ### § 138 Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014802360)
 
 Einer Person, die am 31. Dezember 2016 einen Anspruch auf Leistungen
 nach dem Siebten Kapitel in der am 31. Dezember 2016 geltenden Fassung
@@ -8289,6 +8519,7 @@ rückwirkend nach den Vorschriften des Siebten Kapitels in der ab dem
 
 
 ### § 139 Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE018801360)
 
 (1) Für Leistungsberechtigte,
 
@@ -8339,6 +8570,7 @@ Wohnung nach § 42a Absatz 2 Satz 1 Nummer 1 und Satz 2 erfüllt.
 
 
 ### § 140 Übergangsregelung für die Bedarfe für Unterkunft während der Karenzzeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020301126)
 
 (1) Zeiten eines Leistungsbezugs bis zum 31. Dezember 2022 bleiben bei
 der Karenzzeit nach § 35 Absatz 1 Satz 2 unberücksichtigt.
@@ -8350,6 +8582,7 @@ Aufwendungen als Bedarf anerkannt wurden.
 
 
 ### § 141 Übergangsregelung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020604126)
 
 (1) Leistungen nach dem Dritten und Vierten Kapitel werden für
 Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31.
@@ -8394,6 +8627,7 @@ längstens bis zum 31. Dezember 2022 zu verlängern.
 
 
 ### § 142 Verpflegung in Gemeinschaftsunterkünften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE019008126)
 
 Ist eine nach dem Dritten oder Vierten Kapitel leistungsberechtigte
 Person in einer Gemeinschaftsunterkunft ohne
@@ -8432,6 +8666,7 @@ Aufwendungen in Höhe der in Satz 2 benannten Beträge zu erstatten.
 
 
 ### § 143 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021000126)
 
 Der Träger der Sozialhilfe hat über Leistungen der Hilfe zum
 Lebensunterhalt und der Grundsicherung im Alter und bei
@@ -8443,6 +8678,7 @@ Voraussetzungen für die Einräumung des Freibetrages vorliegen.
 
 
 ### § 144 Einmalzahlung für den Monat Juli 2022
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021101126)
 
 Leistungsberechtigte, denen für den Monat Juli 2022 Leistungen nach
 dem Dritten oder Vierten Kapitel gezahlt werden und deren Regelsatz
@@ -8457,6 +8693,7 @@ Leistungsberechtigte nach dem Vierten Kapitel sind Bruttoausgaben nach
 
 
 ### § 145 Sofortzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020807126)
 
 (1) Minderjährige, die einen Anspruch auf Leistungen nach dem Dritten
 Kapitel haben, dem ein Regelsatz nach der Regelbedarfsstufe 4, 5 oder
@@ -8491,6 +8728,7 @@ anzuwenden.
 
 
 ### § 146 Sozialhilfe für Ausländerinnen und Ausländer mit einem Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder einer entsprechenden Fiktionsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE021801126)
 
 (1) Für Ausländerinnen und Ausländer, die gemäß § 49 des
 Aufenthaltsgesetzes erkennungsdienstlich behandelt worden sind und
@@ -8544,6 +8782,7 @@ des Zehnten Buches zu.
 (zu § 28)
 
 ### Anlage Regelbedarfsstufen nach § 28 in Euro
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE014917126)
 
 
 *    *   gültig ab
@@ -8827,6 +9066,7 @@ Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 (zu § 34)
 
 ### Anlage Ausstattung mit persönlichem Schulbedarf in Euro
+[Direktlink](https://www.gesetze-im-internet.de/sgb_12/BJNR302300003.html#BJNR302300003BJNE020205126)
 
 (Fundstelle: BGBl. I 2019, 535;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

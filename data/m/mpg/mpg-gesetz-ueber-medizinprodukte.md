@@ -43,54 +43,67 @@ Dieses Gesetz dient der Umsetzung
 
 
 ## Erster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG000103311)
 
 
 
 ### (XXXX) §§ 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE001303311)
 
 
 
 ## Zweiter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG000204311)
 
 
 
 ### (XXXX) §§ 4 bis 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE001605311)
 
 
 
 ## Dritter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG001103311)
 
 
 
 ### (XXXX) §§ 15 bis 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE006510311)
 
 
 
 ## Vierter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG001203311)
 
 
 
 ### (XXXX) §§ 19 bis 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE003105311)
 
 
 
 ## Fünfter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG000604311)
 
 
 
 ### (XXXX) §§ 25 bis 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE003811311)
 
 
 
 ## Sechster Abschnitt - Zuständige Behörden, Rechtsverordnungen, sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG001301377)
 
 
 
 ### (XXXX) §§ 32 und 32a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE004508311)
 
 
 
 ### § 33 Datenbankgestütztes Informationssystem, Europäische Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE004811116)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den
 für Medizinprodukte zuständigen Behörden des Bundes und der Länder die
@@ -139,29 +152,36 @@ erhalten.
 
 
 ### (XXXX) §§ 34 bis 37a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE006703311)
 
 
 
 ## Siebter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG001403311)
 
 
 
 ### (XXXX) §§ 38 und 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE005304311)
 
 
 
 ## Achter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG001503311)
 
 
 
 ### (XXXX) §§ 40 bis 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE005505311)
 
 
 
 ## Neunter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNG001603311)
 
 
 
 ### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpg/BJNR196300994.html#BJNR196300994BJNE007005311)
 
 

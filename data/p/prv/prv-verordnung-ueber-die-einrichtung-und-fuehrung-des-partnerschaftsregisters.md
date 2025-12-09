@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000100000)
 
 Auf Grund des § 160b Abs. 1 Satz 2 in Verbindung mit § 125 Abs. 3 und
 4 des Gesetzes über die Angelegenheiten der freiwilligen
@@ -34,6 +35,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000201310)
 
 (1) Die Einrichtung und Führung des Partnerschaftsregisters bestimmen
 sich nach den Vorschriften der Handelsregisterverordnung, soweit nicht
@@ -46,6 +48,7 @@ tritt der Name der Partnerschaft.
 
 
 ## § 2 Einteilung und Gestaltung des Registers
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000301310)
 
 (1) Jede Partnerschaft ist unter einer fortlaufenden Nummer
 (Registerblatt) in das Register einzutragen. Das Register wird nach
@@ -56,6 +59,7 @@ dem beigegebenen Muster in Anlage 1 geführt.
 
 
 ## § 3 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000402125)
 
 (1) In der Anmeldung der Partnerschaft zur Eintragung in das Register
 ist die Zugehörigkeit jedes Partners zu dem Freien Beruf, den er in
@@ -91,6 +95,7 @@ Statuswechsels in eine Partnerschaft entsprechend.
 
 
 ## § 4 Stellungnahme der Berufskammer
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000500000)
 
 Bestehen für in der Partnerschaft ausgeübte Berufe Berufskammern, so
 soll das Gericht diesen in zweifelhaften Fällen vor Eintragung
@@ -104,6 +109,7 @@ Gründe mitzuteilen.
 
 
 ## § 5 Inhalt der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000607125)
 
 (1) In Spalte 1 ist die laufende Nummer der die Partnerschaft
 betreffenden Eintragungen anzugeben.
@@ -166,12 +172,14 @@ vermerken.
 
 
 ## § 6 Mitteilungen an Berufskammern
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000700000)
 
 Besteht für einen in der Partnerschaft ausgeübten Beruf eine
 Berufskammer, so sind dieser sämtliche Eintragungen mitzuteilen.
 
 
 ## § 7 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000802125)
 
 Die Bekanntmachungen erfolgen in dem für das Handelsregister
 bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs).
@@ -181,6 +189,7 @@ abzufassen.
 
 
 ## § 8 Namenslöschung wegen Nichtausübung freiberuflicher Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE000901125)
 
 Wird der Name einer Partnerschaft gelöscht, weil unter diesem keine
 freiberufliche Tätigkeit ausgeübt wird, so kann auf Antrag der
@@ -189,21 +198,25 @@ werden.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001002310)
 
 -
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001100000)
 
 Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 2 Abs. 1 und 2)
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001302310)
 
 (Fundstelle: BGBl. I 2001, 3696;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -445,6 +458,7 @@ Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
 
 ## Anlage 2 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001401310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 3697)
 Partnerschaftsregister des Amtsgerichts            Nummer der
@@ -469,12 +483,14 @@ dem Bildschirm stets sichtbar sein.
 
 
 ## Anlage 3 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001500000)
 
 (Fundstelle: BGBl. I 1995, 812)
 ![bgbl1_1995_j0812_0010.jpg](bgbl1_1995_j0812_0010.jpg)
 (zu § 7)
 
 ## Anlage 4 Muster für Registerbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/prv/BJNR080800995.html#BJNR080800995BJNE001602125)
 
 (Fundstelle: BGBl. I 2021, 3348)
 

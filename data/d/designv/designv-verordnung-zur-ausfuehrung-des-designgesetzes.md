@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000200000)
 
 Die Bestimmungen dieser Verordnung gelten für die im Designgesetz
 geregelten Verfahren vor dem Deutschen Patent- und Markenamt neben den
@@ -30,6 +32,7 @@ Bestimmungen des Designgesetzes und der DPMA-Verordnung.
 
 
 ### § 2 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000300000)
 
 Formblätter, auf die in dieser Verordnung verwiesen wird, können beim
 Deutschen Patent- und Markenamt angefordert oder von der Internetseite
@@ -38,9 +41,11 @@ werden.
 
 
 ## Abschnitt 2 - Eintragungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNG000200000)
 
 
 ### § 3 Inhalt der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000400000)
 
 (1) Die Anmeldung zur Eintragung eines Designs in das Designregister
 muss nach § 11 Absatz 2 und 3 des Designgesetzes enthalten:
@@ -93,6 +98,7 @@ muss nach § 11 Absatz 2 und 3 des Designgesetzes enthalten:
 
 
 ### § 4 Einreichung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000502360)
 
 (1) Die Anmeldung kann schriftlich oder elektronisch eingereicht
 werden. Für die elektronische Einreichung ist die Verordnung über den
@@ -106,6 +112,7 @@ Designgesetzes) per Telefax nicht zulässig.
 
 
 ### § 5 Antrag auf Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000600000)
 
 (1) Für den schriftlichen Antrag auf Eintragung eines Designs gemäß §
 11 Absatz 2 Satz 1 Nummer 1 des Designgesetzes muss das vom Deutschen
@@ -147,6 +154,7 @@ zusammengefassten Designs.
 
 
 ### § 6 Angaben zum Anmelder, Vertreter und Entwerfer
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000703360)
 
 (1) Die Anmeldung muss folgende Angaben zum Anmelder enthalten:
 
@@ -199,6 +207,7 @@ Satz 2 und 3 sowie die Absätze 2 und 3 entsprechend.
 
 
 ### § 7 Wiedergabe des Designs
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000800000)
 
 (1) Die Wiedergabe des Designs erfolgt mit Hilfe von fotografischen
 oder sonstigen grafischen Darstellungen. Pro Design sind bis zu zehn
@@ -251,6 +260,7 @@ Schriftgröße 16 Punkt, umfassen.
 
 
 ### § 8 Flächenmäßige Designabschnitte
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE000900000)
 
 (1) Flächenmäßige Designabschnitte (§ 11 Absatz 2 Satz 2 des
 Designgesetzes) sind in zwei übereinstimmenden Exemplaren
@@ -277,6 +287,7 @@ Teil der Fläche mit dem sich wiederholenden Design zeigen.
 
 
 ### § 9 Erzeugnisangabe und Klassifizierung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001000000)
 
 (1) Die Angabe der Erzeugnisse, in die das Design aufgenommen oder bei
 denen es verwendet werden soll (§ 11 Absatz 3 des Designgesetzes),
@@ -304,6 +315,7 @@ Schutzes von Amts wegen angepasst und dem Rechtsinhaber mitgeteilt.
 
 
 ### § 10 Beschreibung zur Erläuterung der Wiedergabe
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001100000)
 
 (1) Wird zur Erläuterung der Wiedergabe eine Beschreibung eingereicht
 (§ 11 Absatz 5 Nummer 1 des Designgesetzes), so darf sie sich nur auf
@@ -328,6 +340,7 @@ Dokument zusammenzufassen.
 
 
 ### § 11 Angaben bei Inanspruchnahme einer Priorität
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001200000)
 
 (1) Wird in der Anmeldung die Inanspruchnahme der Priorität einer
 früheren ausländischen Anmeldung erklärt, so sind Zeit, Land und
@@ -367,6 +380,7 @@ Satz 1 des Designgesetzes), bleibt unberührt.
 
 
 ### § 12 Teilung einer Sammelanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001300000)
 
 (1) Eine Sammelanmeldung kann nach § 12 Absatz 2 des Designgesetzes in
 zwei oder mehrere Anmeldungen geteilt werden.
@@ -390,6 +404,7 @@ einzelner Designs, so wird die Sammelanmeldung von Amts wegen geteilt.
 
 
 ### § 13 Weiterbehandlung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001400000)
 
 Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses
 zurückgewiesenen Anmeldung (§ 17 Absatz 1 des Designgesetzes) muss
@@ -408,6 +423,7 @@ folgende Angaben enthalten:
 
 
 ### § 14 Deutsche Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001500000)
 
 (1) Wird ein fremdsprachiges Schriftstück eingereicht, kann das
 Deutsche Patent- und Markenamt den Anmelder auffordern, innerhalb
@@ -422,9 +438,11 @@ das fremdsprachige Schriftstück als nicht eingegangen.
 
 
 ## Abschnitt 3 - Designregister, Verfahren nach Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNG000300000)
 
 
 ### § 15 Inhalt des Designregisters
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001603360)
 
 (1) Bei der Eintragung der Anmeldung wird Folgendes in das
 Designregister aufgenommen:
@@ -543,6 +561,7 @@ nach Maßgabe der Absätze 1 und 2 in das Designregister aufgenommen.
 
 
 ### § 16 Weitere Eintragungen in das Designregister
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001700000)
 
 Neben den Eintragungen nach § 15 sind gegebenenfalls folgende Angaben
 in das Designregister aufzunehmen:
@@ -592,6 +611,7 @@ in das Designregister aufzunehmen:
 
 
 ### § 17 Eintragungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001800000)
 
 Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und
 Markenamt eine Urkunde über die Eintragung des Designs, sofern er
@@ -599,6 +619,7 @@ hierauf nicht ausdrücklich verzichtet hat.
 
 
 ### § 18 Teilung einer Sammeleintragung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE001900000)
 
 (1) Für die Teilung einer Sammeleintragung gilt § 12 Absatz 1, 2 und 4
 entsprechend.
@@ -612,6 +633,7 @@ Teilungsakte weitergeführt.
 
 
 ### § 19 Angaben bei Erstreckung und Aufrechterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002000000)
 
 (1) Bei der Zahlung der Gebühr zur Erstreckung des Schutzes auf die
 Schutzdauer nach § 27 Absatz 2 des Designgesetzes (§ 21 Absatz 2 Satz
@@ -665,6 +687,7 @@ und 2 entsprechend anzuwenden.
 
 
 ### § 20 Verzicht auf das eingetragene Design
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002100000)
 
 (1) In der Erklärung über den Verzicht auf das eingetragene Design
 nach § 36 Absatz 1 Satz 1 Nummer 2 und Absatz 2 des Designgesetzes
@@ -697,9 +720,11 @@ Unterschrift ist nicht erforderlich.
 
 
 ## Abschnitt 4 - Verfahren zur Feststellung oder Erklärung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNG000400000)
 
 
 ### § 21 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002202360)
 
 (1) Für den Antrag auf Feststellung oder Erklärung der Nichtigkeit
 eines eingetragenen Designs (§ 34a Absatz 1 des Designgesetzes) soll
@@ -734,6 +759,7 @@ können Angaben zum Gegenstandswert gemacht werden, wenn dieser nach §
 
 
 ### § 22 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002301123)
 
 (1) Das Deutsche Patent- und Markenamt kann bei ihm anhängige
 Nichtigkeitsverfahren zur gemeinsamen Behandlung und Entscheidung
@@ -768,9 +794,11 @@ Stellungnahme eingeräumt hat.
 
 
 ## Abschnitt 5 - Internationale Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNG000500000)
 
 
 ### § 23 Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002400000)
 
 Der Inhaber einer internationalen Eintragung nach § 66 des
 Designgesetzes kann zu der Mitteilung über die Schutzverweigerung (§
@@ -781,6 +809,7 @@ Patent- und Markenamt Stellung nehmen.
 
 
 ### § 24 Umschreibung internationaler Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002500000)
 
 Das Deutsche Patent- und Markenamt bestätigt auf Antrag des neuen
 Eigentümers des eingetragenen Designs die Eintragung des
@@ -793,6 +822,7 @@ Verordnung gilt für den Nachweis des Rechtsübergangs entsprechend.
 
 
 ### § 25 Nachträgliche Schutzentziehung
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002600000)
 
 Für den Antrag auf Feststellung der Unwirksamkeit einer
 internationalen Eintragung für das Gebiet der Bundesrepublik
@@ -801,9 +831,11 @@ und 22 entsprechend.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNG000600000)
 
 
 ### § 26 Aufbewahrung der Wiedergabe des eingetragenen Designs
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002700000)
 
 Das Deutsche Patent- und Markenamt bewahrt die Wiedergabe des
 eingetragenen Designs (§ 7) auch nach der Löschung der Eintragung im
@@ -811,6 +843,7 @@ Designregister dauerhaft auf.
 
 
 ### § 27 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/designv/BJNR001810014.html#BJNR001810014BJNE002800000)
 
 (1) § 4 Absatz 2 findet auf bis zum 9. Januar 2014 eingegangene
 Wiedergaben keine Anwendung.

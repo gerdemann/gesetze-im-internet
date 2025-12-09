@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000100311)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -35,6 +36,7 @@ Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000200311)
 
 Der Ausbildungsberuf Glasbläser/Glasbläserin wird
 
@@ -51,6 +53,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000300311)
 
 Die Ausbildung im Ausbildungsberuf Glasbläser/Glasbläserin dauert drei
 Jahre. Es kann zwischen den Fachrichtungen
@@ -69,6 +72,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000400311)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -149,6 +153,7 @@ sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000500311)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -167,12 +172,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000600311)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000700311)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -181,6 +188,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000800311)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -231,6 +239,7 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE000901308)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -490,12 +499,14 @@ Leistungen erbracht sind.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE001000311)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum/zur Glasbläser/zur Glasbläserin
+[Direktlink](https://www.gesetze-im-internet.de/glasblausbv/BJNR161200998.html#BJNR161200998BJNE001100311)
 
 (Fundstelle: BGBl. I 1998, 1615 - 1619)
 

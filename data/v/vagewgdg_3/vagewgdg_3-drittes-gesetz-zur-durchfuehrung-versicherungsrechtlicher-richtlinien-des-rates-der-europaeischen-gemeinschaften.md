@@ -54,20 +54,24 @@ Dieses Gesetz dient der Umsetzung
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE000500307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 15 - 
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNG000100307)
 
 
 
 ## Art 16 - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNG000200307)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE000600307)
 
 Lebensversicherungsunternehmen, die die in § 54a Abs. 4c des
 Versicherungsaufsichtsgesetzes genannte Anlagequote am 9. Dezember
@@ -77,6 +81,7 @@ spätestens bis zum 31. Dezember 1998 zu erfüllen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE000701118)
 
 Soweit Versicherungsunternehmen bis zum 31. Dezember 1994 allgemeine
 Versicherungsbedingungen verwenden, die vor dem 29. Juli 1994 von der
@@ -90,6 +95,7 @@ I S. 334) in der jeweils geltenden Fassung anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE000800307)
 
 (1) Sind auf Versicherungsunternehmen mit Sitz in einem Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum in der Fassung des
@@ -117,6 +123,7 @@ und 2 genannten Versicherungsunternehmen anzuwenden ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE000900307)
 
 Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
 Versicherungsverhältnisse finden die Vorschriften des Gesetzes über
@@ -126,6 +133,7 @@ Anwendung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001000307)
 
 (1) § 31 des Gesetzes über den Versicherungsvertrag in der Fassung
 dieses Gesetzes ist auf die zur Zeit des Inkrafttretens dieses
@@ -142,6 +150,7 @@ nach dem 24. Juni 1994 abgeschlossen worden sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001100307)
 
 Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
 Lebensversicherungsverhältnisse sind die §§ 173 bis 178 des Gesetzes
@@ -153,6 +162,7 @@ abgeschlossen werden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001200307)
 
 (1) Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
 Krankenversicherungsverhältnisse finden Änderungen der Tarife (Prämie
@@ -174,6 +184,7 @@ zugestimmt hat.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001300307)
 
 Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden
 Kraftfahrzeug-Haftpflichtversicherungsverhältnisse finden Änderungen
@@ -189,6 +200,7 @@ Versicherungsbedingungen geschlossen werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001400307)
 
 Die sich aus diesem Gesetz ergebenden Änderungen der
 Versicherungsverhältnisse sind in einem Nachtrag zum
@@ -197,6 +209,7 @@ auszuhändigen ist.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001500307)
 
 In der Kraftfahrzeug-Haftpflichtversicherung müssen
 Versicherungsverträge für Fahrzeuge mit regelmäßigem Standort im
@@ -206,6 +219,7 @@ entsprechen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNE001600307)
 
 Auf Versicherungsverträge, die bis zum 31. Dezember 1994 zu von der
 Aufsichtsbehörde genehmigten Versicherungsbedingungen geschlossen
@@ -214,6 +228,7 @@ Anwendung.
 
 
 ## Art 17 - Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNG000300307)
 
 Das Bundesministerium der Finanzen kann den Wortlaut des
 Versicherungsaufsichtsgesetzes in der vom Inkrafttreten dieses
@@ -225,6 +240,7 @@ Titel gegliederte Inhaltsübersicht voranstellen.
 
 
 ## Art 18 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vagewgdg_3/BJNR163009994.html#BJNR163009994BJNG000400307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

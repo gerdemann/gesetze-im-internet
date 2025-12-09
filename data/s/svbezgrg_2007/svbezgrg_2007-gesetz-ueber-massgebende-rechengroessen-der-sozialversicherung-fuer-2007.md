@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Durchschnittsentgelt in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrg_2007/BJNR274600006.html#BJNR274600006BJNE000100000)
 
 (1) Das Durchschnittsentgelt für das Jahr 2005 beträgt 29.202 Euro.
 
@@ -29,6 +30,7 @@ ergänzt.
 
 
 ## § 2 Bezugsgröße in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrg_2007/BJNR274600006.html#BJNR274600006BJNE000200000)
 
 (1) Die Bezugsgröße im Sinne des § 18 Abs. 1 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahr 2007 29.400 Euro jährlich und 2.450
@@ -40,6 +42,7 @@ Euro monatlich.
 
 
 ## § 3 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrg_2007/BJNR274600006.html#BJNR274600006BJNE000300000)
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahr 2007
 
@@ -71,6 +74,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 
 
 ## § 4 Jahresarbeitsentgeltgrenze in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrg_2007/BJNR274600006.html#BJNR274600006BJNE000400000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Abs. 6 des Fünften Buches
 Sozialgesetzbuch für das Jahr 2007 beträgt 47.700 Euro.
@@ -80,6 +84,7 @@ Sozialgesetzbuch für das Jahr 2007 beträgt 42.750 Euro.
 
 
 ## § 5 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des  Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrg_2007/BJNR274600006.html#BJNR274600006BJNE000500000)
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:

@@ -29,19 +29,23 @@ Stand: Bek. v. 20.5.2025 I Nr. 137 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/regmog/BJNR059100021.html#BJNR059100021BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung (Identifikationsnummerngesetz - IDNrG)
+[Direktlink](https://www.gesetze-im-internet.de/regmog/BJNR059100021.html#BJNR059100021BJNE000300000)
 
 
 ## (XXXX) Art 2 bis 20c Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/regmog/BJNR059100021.html#BJNR059100021BJNE000400000)
 
 
 
 ## Art 21 Übergangsregelung zur Verwendung der Identifikationsnummer nach § 139b der Abgabenordnung für die Pilotierung des Datenschutzcockpits
+[Direktlink](https://www.gesetze-im-internet.de/regmog/BJNR059100021.html#BJNR059100021BJNE000501116)
 
 Bis zum Inkrafttreten der Artikel 1, 3 Nummer 1 Buchstabe a, von
 Artikel 4 Nummer 1 Buchstabe a, Nummer 4 und 5 und von Artikel 5
@@ -81,6 +85,7 @@ Meldebehörden trägt die jeweils abrufende Stelle.
 
 
 ## Art 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/regmog/BJNR059100021.html#BJNR059100021BJNE000600000)
 
 Artikel 1 § 12, Artikel 2 § 11, Artikel 5 Nummer 2, Artikel 7 Nummer
 3, Artikel 8 Nummer 3, Artikel 19 Nummer 2 Buchstabe b und Artikel 21

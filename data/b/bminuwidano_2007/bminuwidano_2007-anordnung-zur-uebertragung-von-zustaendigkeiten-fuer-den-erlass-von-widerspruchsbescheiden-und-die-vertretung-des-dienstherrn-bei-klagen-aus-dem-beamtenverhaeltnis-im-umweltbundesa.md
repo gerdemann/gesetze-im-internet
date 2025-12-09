@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## I. Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2007/BJNR049600007.html#BJNR049600007BJNE000100000)
 
 (1) Aufgrund des § 126 Abs. 3 Nr. 2 Satz 2 des
 Beamtenrechtsrahmengesetzes in Verbindung mit § 172 des
@@ -38,6 +39,7 @@ betroffen ist.
 
 
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2007/BJNR049600007.html#BJNR049600007BJNE000200000)
 
 (1) Aufgrund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich
 die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
@@ -49,6 +51,7 @@ vor.
 
 
 ## III. Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2007/BJNR049600007.html#BJNR049600007BJNE000300000)
 
 (1) Diese Anordnung tritt am Tage nach ihrer Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig tritt die Anordnung zur
@@ -66,6 +69,7 @@ bisherigen Regelung.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2007/BJNR049600007.html#BJNR049600007BJNE000400000)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

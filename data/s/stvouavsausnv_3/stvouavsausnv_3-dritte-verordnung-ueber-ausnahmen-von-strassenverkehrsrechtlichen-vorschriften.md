@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_3/BJNR009990990.html#BJNR009990990BJNE000100328)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe b in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -33,6 +34,7 @@ Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_3/BJNR009990990.html#BJNR009990990BJNE000200328)
 
 Abweichend von § 22a Abs. 1 Nr. 27 der Straßenverkehrs-Zulassungs-
 Ordnung brauchen besondere Rückhalteeinrichtungen für behinderte
@@ -51,6 +53,7 @@ ausgeführt zu sein, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_3/BJNR009990990.html#BJNR009990990BJNE000301308)
 
 Abweichend von § 21 Abs. 1a der Straßenverkehrs-Ordnung dürfen
 behinderte Kinder in Kraftfahrzeugen mitgenommen werden, wenn eine
@@ -65,6 +68,7 @@ und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_3/BJNR009990990.html#BJNR009990990BJNE000400328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 3 des Gesetzes zur Änderung des
@@ -73,6 +77,7 @@ im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_3/BJNR009990990.html#BJNR009990990BJNE000500328)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

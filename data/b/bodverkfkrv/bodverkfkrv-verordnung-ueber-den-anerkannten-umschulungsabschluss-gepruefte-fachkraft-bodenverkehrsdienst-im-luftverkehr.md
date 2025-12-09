@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000100000)
 
 Auf Grund des § 58 des Berufsbildungsgesetzes, der durch Artikel 232
 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
@@ -33,6 +34,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Ziel der Umschulung, Umschulungsprüfung und Bezeichnung des Umschulungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000200000)
 
 (1) Ziel der beruflichen Umschulung ist der Erwerb der beruflichen
 Handlungsfähigkeit im Sinne des § 1 Absatz 3 des
@@ -88,6 +90,7 @@ Luftverkehr“.
 
 
 ## § 2 Zulassungsvoraussetzungen für die Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000301119)
 
 Zur Umschulungsprüfung ist zuzulassen, wer
 
@@ -107,6 +110,7 @@ Zur Umschulungsprüfung ist zuzulassen, wer
 
 
 ## § 3 Art, Dauer und Inhalt der Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000400000)
 
 (1) Die Umschulung gliedert sich in einen Umschulungslehrgang und eine
 betriebliche Umschulung.
@@ -128,6 +132,7 @@ betrieblichen Umschulung ist jeweils eine Bescheinigung auszustellen.
 
 
 ## § 4 Gliederung der Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000500000)
 
 (1) Die Umschulungsprüfung gliedert sich in zwei Prüfungsteile:
 
@@ -146,6 +151,7 @@ des bereits abgelegten Prüfungsteils zu beginnen.
 
 
 ## § 5 Prüfungsteil „Theorie des Bodenverkehrsdienstes“
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000600000)
 
 (1) Im Prüfungsteil „Theorie des Bodenverkehrsdienstes“ ist in
 folgenden Prüfungsbereichen zu prüfen:
@@ -238,6 +244,7 @@ Insgesamt soll die Prüfungsdauer 300 Minuten nicht überschreiten.
 
 
 ## § 6 Prüfungsteil „Praxis des Bodenverkehrsdienstes“
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000700000)
 
 (1) Im Prüfungsteil „Praxis des Bodenverkehrsdienstes“ ist in
 folgenden Prüfungsbereichen zu prüfen:
@@ -364,12 +371,14 @@ situative Fachgespräch soll in der Regel 20 Minuten dauern.
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000801119)
 
 Für die Befreiung von einzelnen Prüfungsbestandteilen ist § 62 Absatz
 4 des Berufsbildungsgesetzes entsprechend anzuwenden.
 
 
 ## § 8 Bewertung der Prüfungsleistungen; Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE000901119)
 
 (1) Die Prüfung ist bestanden, wenn die Prüfungsleistung in jedem der
 geprüften Prüfungsbereiche nach den §§ 5 und 6 mit mindestens
@@ -506,6 +515,7 @@ weiteres Zeugnis aus, in dem mindestens anzugeben sind:
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE001000000)
 
 (1) Ein Prüfungsteil, der bei der ersten Prüfung nicht bestanden ist,
 kann zweimal wiederholt werden.
@@ -519,6 +529,7 @@ mindestens „ausreichend“ bewertet worden sind.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE001100000)
 
 (1) Vor dem 1. Mai 2015 begonnene Prüfungsverfahren zum anerkannten
 Abschluss Geprüfter Flugzeugabfertiger nach der Verordnung über die
@@ -539,6 +550,7 @@ Prüfungsteilnehmerin auch nach dieser Verordnung durchgeführt werden;
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE001200000)
 
 Diese Verordnung tritt am 1. Mai 2015 in Kraft. Gleichzeitig tritt die
 Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter
@@ -549,6 +561,7 @@ worden ist, außer Kraft.
 (zu § 3 Absatz 2)
 
 ## Anlage 1 Umschulungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE001300000)
 
 (Fundstelle: BGBl. I 2015, 309)
 
@@ -762,6 +775,7 @@ Qualifikationsschwerpunkte:
    (zu § 3 Absatz 3)
 
 ## Anlage 2 Betriebliche Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/bodverkfkrv/BJNR030500015.html#BJNR030500015BJNE001400000)
 
 (Fundstelle: BGBl. I 2015, 310 - 311)
 

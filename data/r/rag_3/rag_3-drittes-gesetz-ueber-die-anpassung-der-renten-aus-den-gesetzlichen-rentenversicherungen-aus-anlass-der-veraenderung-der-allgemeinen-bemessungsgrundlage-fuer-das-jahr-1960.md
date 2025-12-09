@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000100314)
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960 die
@@ -40,6 +41,7 @@ Versichertenrenten von Berechtigten, die das 65. Lebensjahr im Jahre
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000200314)
 
 (1) Anpassungsbetrag ist der Rentenzahlbetrag für Januar 1961
 einschließlich des Kinderzuschusses für jedes Kind, vermindert um den
@@ -81,6 +83,7 @@ Deutsche Mark.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000300314)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Rentenversicherung der Angestellten, die auf Versicherungsfällen der
@@ -203,12 +206,14 @@ sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000400314)
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so
 ist dieser weiterzuzahlen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000500314)
 
 Soweit bei den Versorgungsbezügen nach dem Bundesversorgungsgesetz und
 den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
@@ -228,6 +233,7 @@ Arbeitslosenhilfe nicht zu berücksichtigen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000600314)
 
 (1) Dem Berechtigten ist über die Anpassung eine schriftliche
 Mitteilung zu geben. Ergibt eine spätere Überprüfung, daß die
@@ -244,6 +250,7 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000700314)
 
 (1) Die Vorschriften dieses Gesetzes gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 3
@@ -266,6 +273,7 @@ sind.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000800314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -273,6 +281,7 @@ im Land Berlin.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_3/BJNR010130960.html#BJNR010130960BJNE000900314)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

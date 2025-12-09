@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweckvermögen
+[Direktlink](https://www.gesetze-im-internet.de/zweckvg/BJNR236310005.html#BJNR236310005BJNE000100000)
 
 (1) Die Mittel, die nach einmaligem Abzug eines dem Bundeshaushalt
 2005 zuzuführenden Betrages von 45 Millionen Euro aus dem
@@ -40,6 +41,7 @@ Rentenbank verwaltet dieses Zweckvermögen treuhänderisch für den Bund.
 
 
 ## § 2 Verwendung des Zweckvermögens
+[Direktlink](https://www.gesetze-im-internet.de/zweckvg/BJNR236310005.html#BJNR236310005BJNE000202118)
 
 (1) Das Zweckvermögen darf nur zur Förderung von Innovationen in der
 Landwirtschaft, der Forstwirtschaft, dem Gartenbau und der Fischerei
@@ -58,6 +60,7 @@ den Bundeshaushalt abzuführen.
 
 
 ## § 3 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/zweckvg/BJNR236310005.html#BJNR236310005BJNE000300000)
 
 Alle Einnahmen und Ausgaben sowie Verpflichtungsermächtigungen des
 Zweckvermögens werden in einem Wirtschaftsplan veranschlagt. Der
@@ -66,6 +69,7 @@ Bundeshaushalts darzustellen.
 
 
 ## § 4 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/zweckvg/BJNR236310005.html#BJNR236310005BJNE000400000)
 
 Die Kosten für die treuhänderische Verwaltung des Zweckvermögens
 werden der Landwirtschaftlichen Rentenbank erstattet und aus dem

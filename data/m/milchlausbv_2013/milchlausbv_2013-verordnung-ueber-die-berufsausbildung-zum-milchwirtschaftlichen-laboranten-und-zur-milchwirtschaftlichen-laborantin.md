@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -35,6 +36,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000200000)
 
 Der Ausbildungsberuf des Milchwirtschaftlichen Laboranten und der
 Milchwirtschaftlichen Laborantin wird nach § 4 Absatz 1 des
@@ -42,11 +44,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -118,6 +122,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -139,6 +144,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -228,6 +234,7 @@ Vorgaben:
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000700000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -435,6 +442,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000800000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -443,6 +451,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Milchwirtschaftliche-Laboranten-Ausbildungsverordnung vom 31. Mai
@@ -451,6 +460,7 @@ die Milchwirtschaftliche-Laboranten-Ausbildungsverordnung vom 31. Mai
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin
+[Direktlink](https://www.gesetze-im-internet.de/milchlausbv_2013/BJNR140500013.html#BJNR140500013BJNE001000000)
 
 (Fundstelle: BGBl. I 2013, 1408-1411)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rbbek_2012/BJNR209300011.html#BJNR209300011BJNE000100000)
 
 Nach § 20 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – in der Fassung der Bekanntmachung
@@ -70,6 +71,7 @@ Januar 2012 anerkannt:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rbbek_2012/BJNR209300011.html#BJNR209300011BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

@@ -23,16 +23,19 @@ Stand: Das G ist gem. § 23 Abs. 1 iVm Bek. v. 10.5.2004 II 789 mWv 30.4.2004 in
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE000600305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNG000100305)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE000700305)
 
 (1) Im Sinne dieses Gesetzes bedeutet der Ausdruck:
 
@@ -147,6 +150,7 @@ die folgenden Begriffe:
 
 
 ### § 2 Zweck und Begrenzung der Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE000800305)
 
 (1) Die Sicherungsmaßnahmen dienen ausschließlich dazu, nachzuprüfen,
 dass Kernmaterial nicht für Kernwaffen oder sonstige Kernsprengkörper
@@ -177,6 +181,7 @@ Kommissionsverordnung oder bei der Lieferung von Informationen nach §
 
 
 ### § 3 Erleichterung der Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE000900305)
 
 Der zur Duldung und Unterstützung von Sicherungsmaßnahmen
 Verpflichtete und Zusatzverpflichtete haben den Inspektoren der
@@ -187,6 +192,7 @@ Dienstleistungen gegen Erstattung der Kosten zur Verfügung zu stellen.
 
 
 ### § 4 Außergewöhnliche Umstände
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001000305)
 
 Im Falle eines nuklearen Ereignisses oder eines anderen
 außergewöhnlichen Umstandes hat der Verpflichtete oder der
@@ -198,6 +204,7 @@ festgelegt.
 
 
 ### § 5 Identifizierung der Inspektoren
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001100305)
 
 Die Verpflichtungen zur Duldung und Unterstützung von
 Sicherungsmaßnahmen bestehen nur, wenn der von der nach § 22 Abs. 1
@@ -207,10 +214,12 @@ dem Verpflichteten bzw. dem Zusatzverpflichteten vorliegt.
 
 
 ## Zweiter Abschnitt - Sicherungsmaßnahmen nach dem Verifikationsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNG000200305)
 
 
 
 ### § 6 Verpflichtungen zur Duldung und Unterstützung von Sicherungsmaßnahmen nach dem Verifikationsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001200305)
 
 (1) Wer Ausgangsmaterial oder besonderes spaltbares Material
 herstellt, lagert, bearbeitet, verarbeitet, sonst verwendet oder
@@ -226,6 +235,7 @@ durchgeführt werden.
 
 
 ### § 7 Befreiung und Beendigung von Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001300305)
 
 (1) Die Verpflichtung nach § 6 bezieht sich nicht auf Ausgangs- oder
 besonderes spaltbares Material, das nach Artikel 22 Buchstabe b der
@@ -251,6 +261,7 @@ ist.
 
 
 ### § 8 Nachprüfung der technischen Merkmale der Anlage
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001400305)
 
 (1) Die Nachprüfung der technischen Merkmale der Anlage erfolgt zur
 Nachprüfung der nach den Artikeln 1 bis 3 der Kommissionsverordnung
@@ -264,6 +275,7 @@ Anlage erforderlich ist.
 
 
 ### § 9 Ad-hoc-Inspektion
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001500305)
 
 (1) Die Ad-hoc-Inspektion erfolgt, um
 
@@ -318,6 +330,7 @@ während der Betriebs- oder Geschäftszeit den Zugang zu gestatten
 
 
 ### § 10 Routineinspektion
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001600305)
 
 (1) Die Routineinspektion erfolgt, um
 
@@ -348,6 +361,7 @@ Protokollen zu gestatten.
 
 
 ### § 11 Sonderinspektion
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001700305)
 
 (1) Die Sonderinspektion erfolgt,
 
@@ -374,6 +388,7 @@ worden sind.
 
 
 ### § 12 Inspektionstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001800305)
 
 Der Verpflichtete hat den Inspektoren der Organisation für
 Inspektionen nach den §§ 9 bis 11 folgende Tätigkeiten zu ermöglichen:
@@ -401,6 +416,7 @@ Inspektionen nach den §§ 9 bis 11 folgende Tätigkeiten zu ermöglichen:
 
 
 ### § 13 Durchführung der Inspektionstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE001900305)
 
 (1) Der Verpflichtete hat den Inspektoren der Organisation zur
 Durchführung der in § 12 genannten Tätigkeiten zu gestatten,
@@ -465,10 +481,12 @@ Organisation Maßnahmen zu ergreifen, damit
 
 
 ## Dritter Abschnitt - Sicherungsmaßnahmen nach dem Zusatzprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNG000300305)
 
 
 
 ### § 14 Verpflichtungen zur Duldung und Unterstützung von Sicherungsmaßnahmen nach dem Zusatzprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002000305)
 
 (1) Auf Grund des Zusatzprotokolls ist über die Verpflichtung nach § 6
 Abs. 1 hinaus ebenfalls zur Duldung und Unterstützung verpflichtet
@@ -494,6 +512,7 @@ Zusatzprotokolls nur während der normalen Arbeitszeit statt.
 
 
 ### § 15 Erteilung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002100305)
 
 (1) Wer Forschungs- und Entwicklungsarbeiten über den
 Kernbrennstoffkreislauf ohne Anwesenheit von Kernmaterial im Sinne von
@@ -537,6 +556,7 @@ Ausführungen zu seinen Informationen zu machen.
 
 
 ### § 16 Empfänger und Zeitpunkt der Informationen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002200305)
 
 Die in § 15 bezeichneten Informationen sind der Europäischen
 Kommission - Sicherheitsüberwachung Euratom - L-2920 Luxemburg zu
@@ -561,6 +581,7 @@ folgenden Zeitpunkten zu übersenden:
 
 
 ### § 17 Gewährung von erweitertem Zugang, Inspektionszwecke
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002300305)
 
 Der Zusatzverpflichtete hat den Inspektoren der Organisation sowie
 begleitenden Inspektoren der Gemeinschaft Zugang zu folgenden Zwecken
@@ -646,6 +667,7 @@ zu gewähren, soweit nicht eine Beschränkung nach § 19 eingreift:
 
 
 ### § 18 Duldung und Unterstützung von Inspektionstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002400305)
 
 Der zur Gewährung des Zugangs nach § 17 Zusatzverpflichtete hat gemäß
 Artikel 6 des Zusatzprotokolls die folgenden Tätigkeiten der
@@ -710,6 +732,7 @@ unterstützen:
 
 
 ### § 19 Beschränkung des Zugangs
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002500305)
 
 Das Zugangsrecht nach § 17 unterliegt gemäß Artikel 7 des
 Zusatzprotokolls Beschränkungen, die zwischen der Organisation und der
@@ -724,10 +747,12 @@ die Vereinbarung ist der Zusatzverpflichtete zu unterrichten.
 
 
 ## Vierter Abschnitt - Finanzielle Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNG000400305)
 
 
 
 ### § 20 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002600305)
 
 Der Verpflichtete und der Zusatzverpflichtete tragen die ihnen aus der
 Durchführung der Sicherungsmaßnahmen entstehenden Kosten selbst, wenn
@@ -736,6 +761,7 @@ Verifikationsabkommens erstattet werden.
 
 
 ### § 21 Anspruch auf Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002700305)
 
 (1) Wird ein Verpflichteter, ein Zusatzverpflichteter oder ein Dritter
 bei der Durchführung von Sicherungsmaßnahmen durch einen Bediensteten
@@ -754,10 +780,12 @@ gegeben.
 
 
 ## Fünfter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNG000500305)
 
 
 
 ### § 22 Auftragsverwaltung, Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002800305)
 
 (1) Dieses Gesetz wird mit Ausnahme der Verwaltungsaufgaben nach § 21
 von den Ländern im Auftrag des Bundes ausgeführt. Beauftragte der
@@ -787,6 +815,7 @@ Inspektoren der Organisation begleiten.
 
 
 ### § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verifzusausfg/BJNR007400000.html#BJNR007400000BJNE002900305)
 
 (1) Dieses Gesetz tritt an dem Tage in Kraft, an dem das
 Zusatzprotokoll für die Bundesrepublik Deutschland in Kraft tritt.

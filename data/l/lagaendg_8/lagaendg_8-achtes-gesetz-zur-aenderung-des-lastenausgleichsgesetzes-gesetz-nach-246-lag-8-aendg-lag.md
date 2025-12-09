@@ -19,31 +19,38 @@ Fundstelle
 
 
 ## Art I - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNG000100326)
 
 
 
 ### (XXXX) §§ 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE000400326)
 
 
 
 ## Art II - Vergünstigungen für Staatsangehörige der Vereinten Nationen in Berlin (West)
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNG000200326)
 
 
 
 ### (XXXX) §§ 5 bis 10
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE001200326)
 
 
 
 ## Art III - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNG000300326)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE000500326)
 
 -
 
 
 ### § 12 Übergangsregelung bei der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE000600326)
 
 (1) An Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente
 beantragen können, wird bei Antragstellung bis zum 31. März 1958
@@ -89,6 +96,7 @@ den Anspruch auf Hauptentschädigung anzurechnen.
 
 
 ### § 13 Kosten im verwaltungsgerichtlichen Verfahren bei Klaglosstellung
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE000700326)
 
 Soweit eine Partei während eines im Zeitpunkt des Inkrafttretens
 dieses Gesetzes anhängigen verwaltungsgerichtlichen Verfahrens, das
@@ -101,11 +109,13 @@ gegeneinander aufgehoben.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE000800326)
 
 -
 
 
 ### § 15 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE000900326)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
@@ -115,11 +125,13 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 16 Nichtanwendung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE001000326)
 
 Dieses Gesetz gilt nicht im Saarland.
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_8/BJNR008090957.html#BJNR008090957BJNE001100326)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Die
 Vorschriften der §§ 1 bis 3 sind, vorbehaltlich der Absätze 2 bis 4,

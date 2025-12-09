@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000101311)
 
 Auf Grund des § 99 Absatz 1 Nummer 1 des Aufenthaltsgesetzes in der
 Fassung der Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162) in
@@ -34,6 +35,7 @@ Innern und für Heimat:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000201311)
 
 Diese Verordnung regelt die Fortgeltung der Aufenthaltserlaubnisse
 gemäß § 24 Absatz 1 AufenthG für anlässlich des Krieges in der Ukraine
@@ -44,6 +46,7 @@ die Gewährung vorübergehenden Schutzes.
 
 
 ## § 2 Fortgeltung der Aufenthaltserlaubnisse gemäß § 24 Absatz 1 Aufenthaltsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000302311)
 
 (1) Aufenthaltserlaubnisse ukrainischer Staatsangehöriger gemäß § 24
 Absatz 1 Aufenthaltsgesetz, die am 1. Februar 2026 gültig sind, gelten
@@ -80,6 +83,7 @@ Aufenthaltsverordnung entfällt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000402311)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -87,6 +91,7 @@ Aufenthaltsverordnung entfällt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenthfgv/BJNR14E0A0023.html#BJNR14E0A0023BJNE000501311)
 
 Der Bundesrat hat zugestimmt.
 

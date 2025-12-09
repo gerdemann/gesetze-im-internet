@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vermsammlg/BJNR002670951.html#BJNR002670951BJNE000100319)
 
 Wer Kenntnis von dem Verbleib eines Kriegsgefangenen, einer
 festgehaltenen oder verschleppten Zivilperson oder eines Vermißten
@@ -30,6 +31,7 @@ sind. Die Aufforderung erfolgt durch Übersendung des Formblattes.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vermsammlg/BJNR002670951.html#BJNR002670951BJNE000200319)
 
 Wer im Besitz von Unterlagen ist, die Angaben über den Verbleib von
 Kriegsgefangenen, festgehaltenen oder verschleppten Zivilpersonen oder
@@ -39,16 +41,19 @@ Einsicht in die Unterlagen zu gewähren.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/vermsammlg/BJNR002670951.html#BJNR002670951BJNE000300319)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/vermsammlg/BJNR002670951.html#BJNR002670951BJNE000400319)
 
 Das Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage zu § 1
+[Direktlink](https://www.gesetze-im-internet.de/vermsammlg/BJNR002670951.html#BJNR002670951BJNE000500319)
 
 (Inhalt: Nicht darstellbare Anlage,
 Fundstelle: BGBl I 1951, 268)

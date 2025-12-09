@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000100000)
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436
@@ -29,9 +30,11 @@ Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000100000)
 
 
 ### § 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss
 Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin soll die auf
@@ -177,6 +180,7 @@ Fachrichtung.
 
 
 ### § 2 Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000400000)
 
 Der Prüfling wählt für die Prüfung eine der folgenden Fachrichtungen:
 
@@ -199,6 +203,7 @@ Der Prüfling wählt für die Prüfung eine der folgenden Fachrichtungen:
 
 
 ### § 3 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000500000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -229,6 +234,7 @@ rechtfertigt.
 
 
 ### § 4 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000600000)
 
 Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
@@ -245,9 +251,11 @@ Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
 
 ## Abschnitt 2 - Prüfungsteil Pferdehaltung, Pferdeeinsatz, Pferdezucht und Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000200000)
 
 
 ### § 5 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000700000)
 
 (1) Der Prüfling soll nachweisen, dass er die Haltung, den Einsatz und
 die Zucht von Pferden, die Ausbildung von Pferden und Kunden sowie
@@ -315,6 +323,7 @@ durchführen kann.
 
 
 ### § 6 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000800000)
 
 Die Prüfung besteht aus
 
@@ -328,6 +337,7 @@ Die Prüfung besteht aus
 
 
 ### § 7 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE000900000)
 
 (1) Mit der Durchführung des Arbeitsprojekts soll der Prüfling
 nachweisen, dass er in der Lage ist, ausgehend von konkreten
@@ -364,6 +374,7 @@ länger als 120 Minuten dauern.
 
 
 ### § 8 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001000000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -375,9 +386,11 @@ Minuten.
 
 
 ## Abschnitt 3 - Prüfungsteil Betriebs- und Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000300000)
 
 
 ### § 9 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001100000)
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
 und soziale Zusammenhänge im Betrieb erkennen, analysieren und
@@ -429,6 +442,7 @@ beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
 
 ### § 10 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001200000)
 
 Die Prüfung besteht aus
 
@@ -442,6 +456,7 @@ Die Prüfung besteht aus
 
 
 ### § 11 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001300000)
 
 (1) Im Arbeitsprojekt soll der Prüfling eine komplexe
 betriebswirtschaftliche Aufgabe in einem pferdewirtschaftlichen
@@ -474,6 +489,7 @@ länger als 45 Minuten dauern.
 
 
 ### § 12 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001400000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -485,9 +501,11 @@ Minuten.
 
 
 ## Abschnitt 4 - Prüfungsteil Berufsausbildung und Mitarbeiterführung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000400000)
 
 
 ### § 13 Anforderungen und Handlungsfelder
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001500000)
 
 (1) In der Prüfung soll der Prüfling nachweisen, dass er Zusammenhänge
 der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende
@@ -717,6 +735,7 @@ Kompetenzen:
 
 
 ### § 14 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001600000)
 
 (1) Der Prüfungsteil Berufsausbildung und Mitarbeiterführung gliedert
 sich in folgende Abschnitte:
@@ -744,6 +763,7 @@ Fallstudie (§ 17).
 
 
 ### § 15 Praktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001700000)
 
 (1) Der praktische Teil besteht aus der Durchführung einer
 Ausbildungssituation und einem Fachgespräch.
@@ -760,6 +780,7 @@ Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 
 ### § 16 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001800000)
 
 (1) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben
 unter Aufsicht bearbeiten. Die Aufgaben sollen sich auf die in § 13
@@ -770,6 +791,7 @@ Minuten.
 
 
 ### § 17 Fallstudie
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE001900000)
 
 (1) In der Fallstudie soll der Prüfling eine Situation der
 Mitarbeiterführung bearbeiten. Die Situation wird vom
@@ -785,9 +807,11 @@ Verfügung. Das Fachgespräch soll nicht länger als 20 Minuten dauern.
 
 
 ## Abschnitt 5 - Befreiung von Prüfungsleistungen, Bewertungen in den Prüfungen, Bestehens- und Zeugnisregelungen
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000500000)
 
 
 ### § 18 Befreiung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002000000)
 
 Für die Befreiung von einzelnen Prüfungsteilen nach § 4 oder von
 Prüfungen nach den §§ 7 und 8, den §§ 11 und 12 sowie den §§ 15 bis 17
@@ -795,6 +819,7 @@ ist § 56 Absatz 2 des Berufsbildungsgesetzes entsprechend anzuwenden.
 
 
 ### § 19 Bewertungen in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002100000)
 
 (1) Die drei Prüfungsteile nach § 4 sind gesondert zu bewerten.
 
@@ -824,6 +849,7 @@ Prüfungsbestandteilen nach § 18 entfällt diese Verpflichtung.
 
 
 ### § 20 Bestehen der Meisterprüfung und Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002200000)
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil
 (§ 4) mindestens die Note „ausreichend“ erzielt hat.
@@ -859,9 +885,11 @@ Prüfling ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
 
 
 ## Abschnitt 6 - Ergänzungs- und Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000600000)
 
 
 ### § 21 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002300000)
 
 (1) Die Prüfungen nach den §§ 8, 12 und 16 sind jeweils durch eine
 mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
@@ -876,6 +904,7 @@ Verhältnis 2:1 zu gewichten.
 
 
 ### § 22 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002400000)
 
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal
 wiederholt werden.
@@ -898,9 +927,11 @@ zu befreien, wenn
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNG000700000)
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002500000)
 
 (1) Die bis zum Ablauf des 31. Dezember 2015 begonnenen
 Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu
@@ -915,6 +946,7 @@ ablegen.
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pferdewmeistprv/BJNR182500015.html#BJNR182500015BJNE002600000)
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Anforderungen in der Meisterprüfung für den

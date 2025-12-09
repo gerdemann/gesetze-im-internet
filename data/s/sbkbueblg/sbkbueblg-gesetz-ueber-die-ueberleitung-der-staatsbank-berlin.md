@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sbkb_blg/BJNR209920990.html#BJNR209920990BJNE000100301)
 
 Der Bund tritt in die Verbindlichkeiten aus der Gewährträgerhaftung
 der Deutschen Demokratischen Republik für die Staatsbank Berlin ein.
@@ -34,6 +35,7 @@ auch Leistungen zu ihrer Abwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sbkb_blg/BJNR209920990.html#BJNR209920990BJNE000200301)
 
 (1) Der Bundesminister der Finanzen kann zur Ausführung des Artikels
 23 Abs. 7 des Einigungsvertrages sowie zur Herstellung einer gesunden

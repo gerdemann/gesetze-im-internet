@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000102301)
 
 
 
 ### 1. Unterabschnitt - Luftfahrzeuge und Luftfahrtpersonal
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000202301)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE001505305)
 
 (1) Die Benutzung des Luftraums durch Luftfahrzeuge ist frei, soweit
 sie nicht durch dieses Gesetz, durch die zu seiner Durchführung
@@ -84,6 +87,7 @@ Freizeitgestaltung betrieben werden (unbemannte Luftfahrtsysteme).
 
 
 #### § 1a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010403305)
 
 (1) Die Vorschriften dieses Gesetzes und die zur Durchführung dieses
 Gesetzes erlassenen Rechtsvorschriften sind beim Betrieb
@@ -116,6 +120,7 @@ insoweit Anwendung, als es deutschem Recht nicht entgegensteht.
 
 
 #### § 1b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010502301)
 
 (1) Wird ein Luftfahrzeug im Sinne des § 1a Abs. 1 außerhalb des
 Geltungsbereichs dieses Gesetzes betrieben, so sind international
@@ -132,6 +137,7 @@ Regeln und Vorschriften durch deutsches Recht.
 
 
 #### § 1c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010604305)
 
 Die Berechtigung zum Verkehr im Luftraum der Bundesrepublik
 Deutschland haben nach Maßgabe des § 1 Abs. 1
@@ -169,6 +175,7 @@ Deutschland haben nach Maßgabe des § 1 Abs. 1
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE001606305)
 
 (1) Deutsche Luftfahrzeuge dürfen nur verkehren, wenn sie zum
 Luftverkehr zugelassen (Verkehrszulassung) und - soweit es durch
@@ -266,6 +273,7 @@ nach Absatz 7 Satz 1 unwirksam und gilt Absatz 7 Satz 2 nicht.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE001706360)
 
 (1) Luftfahrzeuge werden vorbehaltlich abweichender Verordnungen des
 Rates der Europäischen Union in die deutsche Luftfahrzeugrolle nur
@@ -300,6 +308,7 @@ Ausnahmen zulassen, wenn besondere Umstände vorliegen.
 
 
 #### § 3a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012304360)
 
 (1) Mit der Eintragung in die Luftfahrzeugrolle wird die Pflicht nach
 § 2 Abs. 5 begründet.
@@ -321,6 +330,7 @@ und den auf seiner Grundlage erlassenen Rechtsvorschriften.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE001808124)
 
 (1) Wer ein Luftfahrzeug führt oder bedient (Luftfahrer) bedarf der
 Erlaubnis. Die Erlaubnis wird nur erteilt, wenn
@@ -392,6 +402,7 @@ Eignung gemäß einer Rechtsverordnung nach § 32 Absatz 4 Nummer 4 und
 
 
 #### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013900305)
 
 (1) Luftfahrzeugführern ist das Führen oder Bedienen eines
 Luftfahrzeuges unter dem Einfluss von Alkohol oder anderen
@@ -420,6 +431,7 @@ Betriebsvereinbarung zu regeln.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE001906305)
 
 (1) Wer es unternimmt, Luftfahrer oder Personal für die Flugsicherung
 auszubilden, bedarf unbeschadet der Vorschrift des Absatzes 3 der
@@ -440,10 +452,12 @@ Nr. 1178/2011 oder nach der Verordnung über Luftfahrtpersonal besitzen
 
 
 ### 2. Unterabschnitt - Flugplätze
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000302301)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002010119)
 
 (1) Flugplätze (Flughäfen, Landeplätze und Segelfluggelände) dürfen
 nur mit Genehmigung angelegt oder betrieben werden. Im
@@ -494,6 +508,7 @@ Umweltverträglichkeitsprüfung.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002103301)
 
 (1) Die Genehmigungsbehörde kann dem Antragsteller die zur
 Vorbereitung seines Antrags (§ 6) oder die zur Durchführung des
@@ -526,6 +541,7 @@ Entschädigung entscheiden im Streitfalle die ordentlichen Gerichte.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002211305)
 
 (1) Flughäfen sowie Landeplätze mit beschränktem Bauschutzbereich nach
 § 17 dürfen nur angelegt, bestehende nur geändert werden, wenn der
@@ -599,6 +615,7 @@ Plangenehmigung zu dulden.
 
 
 #### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010103301)
 
 (1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den
 Plan einzusehen, dürfen auf den vom Plan betroffenen Flächen bis zu
@@ -623,6 +640,7 @@ betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002311360)
 
 (1) § 75 Absatz 1 des Verwaltungsverfahrensgesetzes gilt nicht für
 Entscheidungen des Bundesministeriums für Digitales und Verkehr nach §
@@ -645,6 +663,7 @@ verlängert.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002414360)
 
 (1) Planfeststellungsbehörde und Anhörungsbehörde sind die von der
 Landesregierung bestimmten Behörden des Landes, in dem das Gelände
@@ -715,6 +734,7 @@ gelten entsprechend.
 
 
 #### § 10a Zeugnis nach der Verordnung (EG) Nr. 216/2008
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014000305)
 
 Für Flugplätze im Anwendungsbereich von Artikel 4 Absatz 3a der
 Verordnung (EG) Nr. 216/2008 entscheidet die zuständige
@@ -725,6 +745,7 @@ unberührt.
 
 
 #### § 10b Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014700360)
 
 (1) Wird ein Planfeststellungsverfahren oder ein
 Plangenehmigungsverfahren für ein Vorhaben der Anlage durchgeführt,
@@ -764,6 +785,7 @@ Planfeststellungsbehörde eingereicht wurde.
 
 
 #### § 10c Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014800360)
 
 Zur Vorbereitung der Berichterstattung an die Europäische Kommission
 hat die Planfeststellungsbehörde dem Bundesministerium für Digitales
@@ -793,12 +815,14 @@ mitzuteilen:
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002503301)
 
 Die Vorschrift des § 14 des Bundes-Immissionsschutzgesetzes gilt für
 Flugplätze entsprechend.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002607360)
 
 (1) Bei Genehmigung eines Flughafens ist für den Ausbau ein Plan
 festzulegen. Dieser ist maßgebend für den Bereich, in dem die in den
@@ -902,6 +926,7 @@ Auflagen erteilt wird.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002702301)
 
 Sofern Baubeschränkungen im Bauschutzbereich infolge besonderer
 örtlicher Verhältnisse oder des Verwendungszwecks des Flughafens in
@@ -912,6 +937,7 @@ welchen Bauwerke ohne ihre Zustimmung genehmigt werden können.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002803301)
 
 (1) Außerhalb des Bauschutzbereichs darf die für die Erteilung einer
 Baugenehmigung zuständige Behörde die Errichtung von Bauwerken, die
@@ -929,6 +955,7 @@ die Höhe des Flughafenbezugspunktes.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE002902301)
 
 (1) Die §§ 12 bis 14 gelten sinngemäß für Bäume, Freileitungen,
 Masten, Dämme sowie für andere Anlagen und Geräte. § 12 Abs. 2 ist auf
@@ -943,6 +970,7 @@ vorgesehen, so ist die Genehmigung der Luftfahrtbehörde erforderlich.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003002301)
 
 (1) Die Eigentümer und anderen Berechtigten haben auf Verlangen der
 Luftfahrtbehörden zu dulden, dass Bauwerke und andere
@@ -960,6 +988,7 @@ auf eigene Kosten selbst durchzuführen, bleiben unberührt.
 
 
 #### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003106305)
 
 (1) Die Eigentümer und anderen Berechtigten von Bauwerken und von
 Gegenständen im Sinne des § 15 Abs. 1 Satz 1, die die nach § 14
@@ -978,6 +1007,7 @@ Eigentümern und anderen Berechtigten unverzüglich anzuzeigen.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003203305)
 
 Die Luftfahrtbehörden können bei der Genehmigung von Landeplätzen und
 Segelfluggeländen bestimmen, dass die zur Erteilung einer
@@ -999,6 +1029,7 @@ und Abs. 4 sowie die §§ 13, 15 und 16 sinngemäß anzuwenden.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003302301)
 
 Der Umfang des Bauschutzbereichs ist den Eigentümern von Grundstücken
 im Bauschutzbereich und den anderen zum Gebrauch oder zur Nutzung
@@ -1009,6 +1040,7 @@ ersichtlich sind, bekannt zu geben oder in ortsüblicher Weise
 
 
 #### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003406360)
 
 (1) Bauwerke dürfen nicht errichtet werden, wenn dadurch
 Flugsicherungseinrichtungen gestört werden können. Das
@@ -1068,6 +1100,7 @@ näheren Einzelheiten zur Durchführung der Absätze 1 bis 3 zu regeln.
 
 
 #### § 18b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010703305)
 
 (1) Bauwerke dürfen in den Bereichen, die für die Einrichtung und
 Überwachung von Verfahren für Flüge nach Instrumentenflugregeln aus
@@ -1088,6 +1121,7 @@ Bereich errichtet werden sollen.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003504305)
 
 (1) Entstehen durch Maßnahmen auf Grund der Vorschriften der §§ 12, 14
 bis 17 und 18a dem Eigentümer oder einem anderen Berechtigten
@@ -1136,6 +1170,7 @@ Kennzeichnung geltend macht.
 
 
 #### § 19a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003603308)
 
 Der Unternehmer eines Flughafens oder eines Landeplatzes im Sinne von
 § 4 Abs. 1 Nr. 1 und 2 des Gesetzes zum Schutz gegen Fluglärm, hat
@@ -1151,6 +1186,7 @@ Satz 1 nicht besteht, kann die Genehmigungsbehörde Ausnahmen zulassen.
 
 
 #### § 19b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003710119)
 
 (1) Der Unternehmer eines Verkehrsflughafens oder Verkehrslandeplatzes
 trifft eine Regelung über die zu entrichtenden Entgelte für die
@@ -1358,6 +1394,7 @@ Zahlung von Flughafenentgelten Anrecht haben, zu berücksichtigen.
 
 
 #### § 19c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010302301)
 
 (1) Die Unternehmer von Flugplätzen mit gewerblichem Luftverkehr haben
 Luftfahrtunternehmen sowie sonstigen Anbietern die Erbringung von
@@ -1395,6 +1432,7 @@ als jeweils zwei festgelegt werden.
 
 
 #### § 19d
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012101301)
 
 Die Unternehmer von Flughäfen haben für eine gefahrlose und leicht
 zugängliche Benutzung von allgemein zugänglichen Flughafenanlagen,
@@ -1407,10 +1445,12 @@ Behindertengleichstellungsgesetzes festgelegt werden.
 
 
 ### 3. Unterabschnitt - Luftfahrtunternehmen und -veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000402301)
 
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003807305)
 
 (1) Luftfahrtunternehmen, die dem Luftverkehrsrecht der Europäischen
 Union unterliegen, bedürfen zur Beförderung von Fluggästen, Post oder
@@ -1452,6 +1492,7 @@ wenn von ihr länger als sechs Monate kein Gebrauch gemacht worden ist.
 
 
 #### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE003907305)
 
 Luftfahrtunternehmen, die der Öffentlichkeit zugängliche Flugpreise
 und Luftfrachtraten für Flugdienste von einem Flughafen in einem
@@ -1478,6 +1519,7 @@ Mitgliedstaat der Europäischen Union anbieten, sind verpflichtet,
 
 
 #### § 20b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012202301)
 
 Die Luftfahrtunternehmen, die Luftfahrzeuge mit mehr als 5,7 Tonnen
 Höchstgewicht betreiben, haben für eine gefahrlose und leicht
@@ -1491,6 +1533,7 @@ Behindertengleichstellungsgesetzes festgelegt werden.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004008305)
 
 (1) Luftfahrtunternehmen, die Personen oder Sachen gewerbsmäßig durch
 Luftfahrzeuge auf bestimmten Linien öffentlich und regelmäßig
@@ -1529,6 +1572,7 @@ Vorschriften bleiben unberührt.
 
 
 #### § 21a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004106305)
 
 Luftfahrtunternehmen, die ihren Hauptsitz nicht im Geltungsbereich des
 Luftverkehrsrechts der Europäischen Union haben, bedürfen einer
@@ -1538,6 +1582,7 @@ bis 4 und Abs. 2 und 3 finden entsprechende Anwendung.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004204305)
 
 Im gewerblichen Luftverkehr, der nicht Fluglinienverkehr ist
 (Gelegenheitsverkehr), kann die Genehmigungsbehörde Bedingungen und
@@ -1555,6 +1600,7 @@ erforderlich ist.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004304305)
 
 Vorbehaltlich des Luftverkehrsrechts der Europäischen Union kann die
 gewerbsmäßige Beförderung von Personen und Sachen durch Luftfahrzeuge
@@ -1563,6 +1609,7 @@ werden.
 
 
 #### § 23a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004404301)
 
 Für den Betrieb der Luftfahrtunternehmen, die ihren Hauptsitz
 außerhalb des Geltungsbereichs des Luftverkehrsrechts der Europäischen
@@ -1579,6 +1626,7 @@ außerhalb des Geltungsbereichs des Gemeinschaftsrechts durchführen.
 
 
 #### § 23b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010802301)
 
 (1) Soweit dies zur vorherigen Prüfung und zur ständigen Kontrolle der
 Einhaltung der Genehmigungsvoraussetzungen erforderlich ist, kann die
@@ -1628,6 +1676,7 @@ sowie das Betreten von Geschäftsräumen und -grundstücken zu dulden.
 
 
 #### § 23c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013200305)
 
 Zur Umsetzung von
 
@@ -1654,6 +1703,7 @@ und Beförderungsbedingungen nach § 21 Absatz 2 Satz 2.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004502301)
 
 (1) Öffentliche Veranstaltungen von Wettbewerben oder
 Schauvorstellungen, an denen Luftfahrzeuge beteiligt sind
@@ -1666,10 +1716,12 @@ Veranstaltung gefährdet werden kann.
 
 
 ### 4. Unterabschnitt - Verkehrsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000502301)
 
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004604305)
 
 (1) Luftfahrzeuge dürfen außerhalb der für sie genehmigten Flugplätze
 nur starten und landen, wenn der Grundstückseigentümer oder sonst
@@ -1740,6 +1792,7 @@ erteilt. Sie kann mit Auflagen verbunden und befristet werden.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004702301)
 
 (1) Bestimmte Lufträume können vorübergehend oder dauernd für den
 Luftverkehr gesperrt werden (Luftsperrgebiete).
@@ -1750,6 +1803,7 @@ Flugbeschränkungen).
 
 
 #### § 26a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014402360)
 
 (1) Bei tatsächlichen Anhaltspunkten für eine erhebliche Gefährdung
 der Betriebssicherheit von Luftfahrzeugen kann das Bundesministerium
@@ -1773,6 +1827,7 @@ Bundesministeriums für Digitales und Verkehr veröffentlicht und als
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004806301)
 
 (1) Die Beförderung von Stoffen und Gegenständen, die durch
 Rechtsverordnung als gefährliche Güter bestimmt sind, insbesondere
@@ -1803,10 +1858,12 @@ zulassen kann.
 
 
 ### 5. Unterabschnitt - Flughafenkoordinierung, Flugsicherung und Flugwetterdienst
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001403301)
 
 
 
 #### § 27a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009309360)
 
 (1) Die Flughafenkoordinierung wird nach Maßgabe des Rechts der
 Europäischen Union vorgenommen.
@@ -1823,6 +1880,7 @@ regelmäßig benutzen, die Anzahl der im Voraus planbaren Zeitnischen
 
 
 #### § 27b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009403301)
 
 Von den Verfahren der Zeitnischenzuweisung kann aus Gründen der
 öffentlichen Interessen, insbesondere der hoheitlichen Interessen, der
@@ -1831,6 +1889,7 @@ völkerrechtlichen Verträgen abgewichen werden.
 
 
 #### § 27c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009506126)
 
 (1) Flugsicherung dient der sicheren, geordneten und flüssigen
 Abwicklung des Luftverkehrs.
@@ -1910,6 +1969,7 @@ vom 31.3.2004, S. 10).
 
 
 #### § 27d Flugsicherungsdienste, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009610360)
 
 (1) Flugsicherungsdienste und die dazu erforderlichen
 flugsicherungstechnischen Einrichtungen werden an den Flugplätzen
@@ -1981,6 +2041,7 @@ anzuwenden.
 
 
 #### § 27e
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010903305)
 
 (1) Der Flugwetterdienst dient der meteorologischen Sicherung des
 Luftverkehrs. Die Erfüllung dieser Aufgabe obliegt dem Deutschen
@@ -2048,6 +2109,7 @@ und für Rechnung des Deutschen Wetterdienstes.
 
 
 #### § 27f
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011006360)
 
 (1) Flugwetterbetriebsdienste und die dazu erforderlichen
 Einrichtungen werden an den Flugplätzen vorgehalten, bei denen das
@@ -2104,10 +2166,12 @@ unterstehen der Fachaufsicht des Deutschen Wetterdienstes.
 
 
 ### 6. Unterabschnitt - Vorzeitige Besitzeinweisung und Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000604301)
 
 
 
 #### § 27g
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010203301)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für den Bau oder die
@@ -2168,6 +2232,7 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE004905301)
 
 (1) Für Zwecke der Zivilluftfahrt ist die Enteignung zulässig. Die
 Befugnis der Länder, Enteignungen für Sonderflugplätze vorzusehen,
@@ -2182,6 +2247,7 @@ zugrunde zu legen und für die Enteignungsbehörde bindend.
 
 
 #### § 28a Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012901301)
 
 Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses
 oder einer Plangenehmigung verpflichtet ist, eine Entschädigung in
@@ -2193,10 +2259,12 @@ Enteignungsgesetze der Länder entsprechend.
 
 
 ### 7. Unterabschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000703301)
 
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005013305)
 
 (1) Die Abwehr von betriebsbedingten Gefahren für die Sicherheit des
 Luftverkehrs sowie für die öffentliche Sicherheit oder Ordnung durch
@@ -2280,6 +2348,7 @@ Aufzeichnung des Flugfunkverkehrs gilt § 27c Absatz 3 entsprechend.
 
 
 #### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005104301)
 
 Die für die Durchführung der Luftaufsicht auf Flugplätzen
 erforderlichen Räume hat der Unternehmer des Flugplatzes kostenfrei
@@ -2289,6 +2358,7 @@ Kosten der Luftaufsicht zu tragen. § 27d bleibt unberührt.
 
 
 #### § 29b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005205305)
 
 (1) Flugplatzunternehmer, Luftfahrzeughalter und Luftfahrzeugführer
 sind verpflichtet, beim Betrieb von Luftfahrzeugen in der Luft und am
@@ -2304,16 +2374,19 @@ den Schutz der Bevölkerung vor unzumutbarem Fluglärm hinzuwirken.
 
 
 #### § 29c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005307301)
 
 (weggefallen)
 
 
 #### § 29d
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009207301)
 
 (weggefallen)
 
 
 #### § 29e
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005404305)
 
 Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel
 10 des Grundgesetzes) sowie der Unverletzlichkeit der Wohnung (Artikel
@@ -2322,6 +2395,7 @@ eingeschränkt.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005514360)
 
 (1) Die Bundeswehr und die Truppen der NATO-Vertragsstaaten sowie
 Truppen, die auf Grund einer gesonderten Vereinbarung in Deutschland
@@ -2382,6 +2456,7 @@ Erfordernisse des zivilen Luftverkehrs angemessen zu berücksichtigen.
 
 
 #### § 30a Ermächtigung zur Beauftragung Privater
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014100305)
 
 (1) Das Bundesministerium der Verteidigung wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten für
@@ -2424,6 +2499,7 @@ auf Dienststellen der Bundeswehr übertragen.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005621360)
 
 (1) Die Aufgaben des Bundes nach diesem Gesetz und den Verordnungen
 der Europäischen Union werden, soweit es nichts anderes bestimmt, von
@@ -2657,6 +2733,7 @@ erforderlich hält.
 
 
 #### § 31a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009708360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates natürliche oder
@@ -2666,6 +2743,7 @@ zu beauftragen (Flughafenkoordinator).
 
 
 #### § 31b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009814360)
 
 (1) Vorbehaltlich des Luftverkehrsrechts der Europäischen Union und
 der Regelung von § 31f wird mit der Wahrnehmung der in § 27c Absatz 2
@@ -2780,6 +2858,7 @@ sind.
 
 
 #### § 31c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009907360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates juristische Personen
@@ -2815,6 +2894,7 @@ Land für seinen Aufgabenbereich (§ 31 Abs. 2) zustimmt.
 
 
 #### § 31d
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE010014360)
 
 (1) Die Beauftragung nach den §§ 30a und 31a bis 31c ist nur zulässig,
 wenn der zu Beauftragende einwilligt und hinreichende Gewähr für die
@@ -2878,6 +2958,7 @@ Beauftragten haben keine aufschiebende Wirkung.
 
 
 #### § 31e
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011108360)
 
 Im Falle der Staatshaftung wegen Ansprüchen Dritter können die
 Beauftragten nach den §§ 31a bis 31c und 31f bei Vorliegen von Vorsatz
@@ -2896,6 +2977,7 @@ allgemeinen Vorschriften.
 
 
 #### § 31f Beauftragung einer Flugsicherungsorganisation, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013004360)
 
 (1) An Flugplätzen, bei denen nach § 27d Absatz 1a oder 4
 Flugsicherungsdienste und flugsicherungstechnische Einrichtungen im
@@ -3034,6 +3116,7 @@ Verwaltungsverfahrensgesetzes gilt nicht.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005732360)
 
 (1) Das Bundesministerium für Digitales und Verkehr erlässt mit
 Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes und
@@ -3413,6 +3496,7 @@ Verbraucherschutz mit Zustimmung des Bundesrates erlassen.
 
 
 #### § 32a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005811360)
 
 (1) Bei dem Bundesministerium für Umwelt, Naturschutz, nukleare
 Sicherheit und Verbraucherschutz und dem Bundesministerium für
@@ -3448,6 +3532,7 @@ schriftlich mitzuteilen.
 
 
 #### § 32b
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE005906305)
 
 (1) Zur Beratung der Genehmigungsbehörde sowie des
 Bundesaufsichtsamtes für Flugsicherung und der
@@ -3506,6 +3591,7 @@ Absätze 1 bis 6 gelten sinngemäß.
 
 
 #### § 32c
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011202301)
 
 Eine Erlaubnis, Genehmigung, Zulassung oder Berechtigung auf Grund
 dieses Gesetzes, der zu seiner Durchführung erlassenen
@@ -3525,6 +3611,7 @@ bis die ausstehende Zahlung eingegangen ist.
 
 
 #### § 32d Elektronische Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013602360)
 
 Unbeschadet der Regelungen von § 15 Absatz 1 des E-Government-Gesetzes
 kann eine durch Verordnung des Bundesministeriums für Digitales und
@@ -3537,14 +3624,17 @@ entsprechend.
 
 
 ## Zweiter Abschnitt - Haftpflicht und Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000803305)
 
 
 
 ### 1. Unterabschnitt - Haftung für Personen und Sachen, die nicht im Luftfahrzeug befördert werden
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG000902301)
 
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006003301)
 
 (1) Wird beim Betrieb eines Luftfahrzeugs durch Unfall jemand getötet,
 sein Körper oder seine Gesundheit verletzt oder eine Sache beschädigt,
@@ -3567,6 +3657,7 @@ allgemeinen gesetzlichen Vorschriften bleibt unberührt.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006102301)
 
 Hat bei der Entstehung des Schadens ein Verschulden des Verletzten
 mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; bei
@@ -3576,6 +3667,7 @@ gleich.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006204119)
 
 (1) Bei Tötung umfasst der Schadensersatz die Kosten versuchter
 Heilung sowie den Vermögensnachteil, den der Getötete dadurch erlitten
@@ -3604,6 +3696,7 @@ Getöteten war.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006303301)
 
 Bei Verletzung des Körpers oder der Gesundheit umfasst der
 Schadensersatz die Heilungskosten sowie den Vermögensnachteil, den der
@@ -3615,6 +3708,7 @@ Entschädigung in Geld gefordert werden.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006405301)
 
 (1) Der Ersatzpflichtige haftet für die Schäden aus einem Unfall
 
@@ -3683,6 +3777,7 @@ verwenden.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006502301)
 
 (1) Der Schadensersatz für Aufhebung oder Minderung der
 Erwerbsfähigkeit, für Erschwerung des Fortkommens oder für Vermehrung
@@ -3701,6 +3796,7 @@ des § 794 Abs. 1 Nr. 1 und 5 der Zivilprozessordnung entsprechend.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006602301)
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
@@ -3708,6 +3804,7 @@ Anwendung.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006702301)
 
 Der Ersatzberechtigte verliert die Rechte, die ihm nach diesem Gesetz
 zustehen, wenn er nicht spätestens drei Monate, nachdem er von dem
@@ -3720,6 +3817,7 @@ Kenntnis erhalten hat.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006802301)
 
 (1) Wird ein Schaden durch mehrere Luftfahrzeuge verursacht und sind
 die Luftfahrzeughalter einem Dritten kraft Gesetzes zum Schadensersatz
@@ -3735,6 +3833,7 @@ den Schaden verantwortlich ist.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE006902301)
 
 Unberührt bleiben die bundesrechtlichen Vorschriften, wonach für den
 beim Betrieb eines Luftfahrzeugs entstehenden Schaden der Halter oder
@@ -3743,6 +3842,7 @@ anderer haftet.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007005305)
 
 (1) Für die Versicherung zur Deckung der Haftung des Halters eines
 Luftfahrzeugs nach diesem Unterabschnitt gelten die Vorschriften der
@@ -3764,10 +3864,12 @@ Versicherungsvertragsgesetzes gilt nicht.
 
 
 ### 2. Unterabschnitt - Haftung für Personen und Gepäck, die im  Luftfahrzeug befördert werden; Haftung für verspätete Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001003301)
 
 
 
 #### § 44 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007106305)
 
 Für die Haftung auf Schadensersatz wegen der Tötung, der
 Körperverletzung oder der Gesundheitsbeschädigung eines Fluggastes
@@ -3822,6 +3924,7 @@ nicht anwendbar sind oder keine Regelung enthalten.
 
 
 #### § 45 Haftung für Personenschäden
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007205124)
 
 (1) Wird ein Fluggast durch einen Unfall an Bord eines Luftfahrzeugs
 oder beim Ein- oder Aussteigen getötet, körperlich verletzt oder
@@ -3854,6 +3957,7 @@ dem Verhältnis, in welchem ihr Gesamtbetrag zu diesem Betrag steht.
 
 
 #### § 46 Haftung bei verspäteter Personenbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007307124)
 
 (1) Wird ein Fluggast verspätet befördert, ist der Luftfrachtführer
 verpflichtet, den daraus entstehenden Schaden zu ersetzen. Die Haftung
@@ -3869,6 +3973,7 @@ fahrlässig verursacht wurde.
 
 
 #### § 47 Haftung für Gepäckschäden
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007405124)
 
 (1) Wird aufgegebenes Reisegepäck, das sich an Bord eines
 Luftfahrzeugs oder sonst in der Obhut des Luftfrachtführers befindet,
@@ -3926,6 +4031,7 @@ dem das Reisegepäck hätte eintreffen sollen.
 
 
 #### § 48 Haftung auf Grund sonstigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007503301)
 
 (1) Ein Anspruch auf Schadensersatz, auf welchem Rechtsgrund er auch
 beruht, kann gegen den Luftfrachtführer nur unter den Voraussetzungen
@@ -3945,6 +4051,7 @@ Beträge nicht überschreiten.
 
 
 #### § 48a Luftbeförderung durch mehrere Luftfrachtführer
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012401301)
 
 (1) Wird die Luftbeförderung nacheinander durch mehrere
 Luftfrachtführer ausgeführt und wird dabei ein Fluggast getötet,
@@ -3965,6 +4072,7 @@ Gesamtschuldner.
 
 
 #### § 48b Haftung des vertraglichen und des ausführenden Luftfrachtführers
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012501301)
 
 (1) Wer eine Luftbeförderung, zu der sich ein anderer verpflichtet
 hat, mit dessen Einverständnis ausführt (ausführender
@@ -4012,12 +4120,14 @@ für ihn geltenden Höchstbetrag.
 
 
 #### § 49 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007603301)
 
 Für die Haftung nach diesem Unterabschnitt sind im Übrigen die
 Vorschriften der §§ 34 bis 36 und 38 anzuwenden.
 
 
 #### § 49a Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007703301)
 
 Die Klage auf Schadensersatz kann nur binnen einer Ausschlussfrist von
 zwei Jahren erhoben werden. Die Frist beginnt mit dem Tag, an dem das
@@ -4027,6 +4137,7 @@ ist.
 
 
 #### § 49b Umrechnung von Rechnungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012601301)
 
 Die in den §§ 45 bis 47 genannte Rechnungseinheit ist das
 Sonderziehungsrecht des Internationalen Währungsfonds. Der Betrag wird
@@ -4040,6 +4151,7 @@ Operationen und Transaktionen anwendet.
 
 
 #### § 49c Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012701301)
 
 (1) Im Falle einer entgeltlichen oder geschäftsmäßigen Luftbeförderung
 darf die Haftung des Luftfrachtführers nach den Vorschriften dieses
@@ -4052,6 +4164,7 @@ Nichtigkeit des gesamten Vertrages zur Folge.
 
 
 #### § 50 Obligatorische Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007806308)
 
 (1) Der Luftfrachtführer ist verpflichtet, zur Deckung seiner Haftung
 auf Schadensersatz wegen der in § 44 genannten Schäden während der von
@@ -4069,6 +4182,7 @@ Versicherungsvertragsgesetzes gilt nicht.
 
 
 #### § 51 Subsidiarität der Versicherung des vertraglichen Luftfrachtführers
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE007905301)
 
 Führt ein ausführender Luftfrachtführer eine Luftbeförderung für einen
 vertraglichen Luftfrachtführer aus, besteht eine Pflicht zur
@@ -4090,15 +4204,18 @@ Luftfrachtführer nur, soweit
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008004301)
 
 (weggefallen)
 
 
 ### 3. Unterabschnitt - Haftung für militärische Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001102301)
 
 
 
 #### § 53 Haftung für Schäden außerhalb eines militärischen Luftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008105301)
 
 (1) Für Schäden der in § 33 genannten Art, die durch militärische
 Luftfahrzeuge verursacht werden, haftet der Halter nach den
@@ -4115,6 +4232,7 @@ leisten.
 
 
 #### § 54 Haftung für Schäden bei Beförderung in einem militärischen Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008203301)
 
 (1) Wird bei der Beförderung in einem militärischen Luftfahrzeug durch
 einen Unfall jemand getötet, sein Körper verletzt oder seine
@@ -4150,10 +4268,12 @@ noch beschränkt werden.
 
 
 ### 4. Unterabschnitt - Gemeinsame Vorschriften für die Haftpflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001202301)
 
 
 
 #### § 55 Verhältnis zu sozial- und versorgungsrechtlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008303301)
 
 Unberührt bleiben die Vorschriften des Siebten Buches Sozialgesetzbuch
 über die Unfallversicherung von Personen, die im Betrieb des
@@ -4164,6 +4284,7 @@ Vorschriften für die Bundeswehr.
 
 
 #### § 56 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008403301)
 
 (1) Für Klagen, die auf Grund dieses Abschnitts erhoben werden, ist
 auch das Gericht zuständig, in dessen Bezirk der Unfall eingetreten
@@ -4186,10 +4307,12 @@ Reisende zum Zeitpunkt des Unfalls seinen Wohnsitz hatte.
 
 
 ### 5. Unterabschnitt - Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001700305)
 
 
 
 #### § 57 Privatrechtlich organisierte Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008506360)
 
 (1) Das Bundesministerium der Justiz kann im Einvernehmen mit dem
 Bundesministerium für Digitales und Verkehr und dem Bundesministerium
@@ -4261,6 +4384,7 @@ des Verbraucherstreitbeilegungsgesetzes ist nicht anzuwenden.
 
 
 #### § 57a Behördliche Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013305360)
 
 (1) Zur außergerichtlichen Beilegung von Streitigkeiten über Ansprüche
 von Fluggästen nach § 57b Absatz 1 gegen Luftfahrtunternehmen, die
@@ -4312,6 +4436,7 @@ anzuwenden.
 
 
 #### § 57b Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013403360)
 
 (1) Die Streitigkeiten nach den §§ 57 und 57a betreffen
 Zahlungsansprüche bis zu 5 000 Euro aus einer Luftbeförderung, die
@@ -4393,6 +4518,7 @@ erheblich ist, nicht geklärt ist.
 
 
 #### § 57c Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013503360)
 
 (1) Das Bundesministerium der Justiz regelt im Einvernehmen mit dem
 Bundesministerium für Digitales und Verkehr und dem Bundesministerium
@@ -4414,6 +4540,7 @@ als 10 Prozent beträgt.
 
 
 #### § 57d Verhältnis zum Verbraucherstreitbeilegungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013800305)
 
 Soweit die Vorschriften dieses Unterabschnitts und der nach § 57c
 erlassenen Rechtsverordnung keine Regelung enthalten, gelten für die
@@ -4426,10 +4553,12 @@ nicht vertraglich verbunden ist.
 
 
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001302301)
 
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008615360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4740,6 +4869,7 @@ werden.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008702301)
 
 (1) Wer als Führer eines Luftfahrzeugs oder als sonst für die
 Sicherheit Verantwortlicher durch grob pflichtwidriges Verhalten gegen
@@ -4753,6 +4883,7 @@ zwei Jahren oder mit Geldstrafe bestraft.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008804301)
 
 (1) Wer
 
@@ -4798,11 +4929,13 @@ bestraft.
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE008903301)
 
 (weggefallen)
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009002301)
 
 (1) Wer als Führer eines Luftfahrzeugs den Anordnungen über
 Luftsperrgebiete und Gebiete mit Flugbeschränkungen zuwiderhandelt,
@@ -4816,6 +4949,7 @@ bestraft.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE009113360)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist, soweit dieses Gesetz nicht von
@@ -4849,10 +4983,12 @@ Landesbehörden ausgeführt wird,
 
 
 ## Vierter Abschnitt - Luftfahrtdateien
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001502301)
 
 
 
 ### § 64
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011306360)
 
 (1) Beim Luftfahrt-Bundesamt und bei den Beauftragten nach § 31c
 werden Daten aller im Inland zum Verkehr zugelassenen Luftfahrzeuge in
@@ -5048,6 +5184,7 @@ zu löschen.
 
 
 ### § 65
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011405126)
 
 (1) Das Luftfahrt-Bundesamt führt eine Datei über die von ihm, den
 Luftfahrtbehörden der Länder und den Beauftragten nach § 31c im Rahmen
@@ -5162,6 +5299,7 @@ anzuwenden.
 
 
 ### § 65a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013701126)
 
 (1) Das Luftfahrt-Bundesamt führt eine elektronische Datenbank über
 die in der Bundesrepublik Deutschland nach der Verordnung (EU)
@@ -5211,6 +5349,7 @@ zu machen.
 
 
 ### § 65b Flugmedizinische Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014201126)
 
 (1) Das Luftfahrt-Bundesamt führt auf der Grundlage von Anhang VI
 ARA.MED.150 Buchstabe a der Verordnung (EU) Nr. 1178/2011 eine
@@ -5338,6 +5477,7 @@ Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 
 
 ### § 65c Flugmedizinische Sachverständige und flugmedizinische Zentren, Anerkennung und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014300305)
 
 (1) Das Luftfahrt-Bundesamt ist zuständige Behörde nach Anhang IV
 MED.A.001 der Verordnung (EU) Nr. 1178/2011. Es erkennt die
@@ -5388,6 +5528,7 @@ geben.
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011504126)
 
 (1) Das Luftfahrt-Bundesamt führt ein Register zur Speicherung von
 Daten, die für die Entscheidung über die Beschränkung, das Ruhen, den
@@ -5524,6 +5665,7 @@ worden ist, wird gelöscht, wenn der Betroffene gestorben ist.
 
 
 ### § 66a Register über Betreiber von unbemannten Fluggeräten
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014501119)
 
 (1) Das Luftfahrt-Bundesamt führt ein Register über Betreiber von
 unbemannten Fluggeräten, die im Fall von natürlichen Personen ihren
@@ -5746,6 +5888,7 @@ von der Registrierungspflicht ausgenommen.
 
 
 ### § 66b Register über zulassungspflichtige unbemannte Fluggeräte
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014600360)
 
 (1) Das Luftfahrt-Bundesamt führt ein Register über
 zulassungspflichtige unbemannte Fluggeräte. Das Register dient dazu,
@@ -5807,6 +5950,7 @@ gesetzlichen Aufgaben betrieben werden.
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011604305)
 
 Über die vom Bundesaufsichtsamt für Flugsicherung erteilten
 Erlaubnisse und Berechtigungen des Flugsicherungspersonals können
@@ -5834,6 +5978,7 @@ des Flugsicherungspersonals besitzt, erforderlich ist.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011702301)
 
 (1) Rechtskräftige Entscheidungen wegen einer Straftat nach § 60 oder
 wegen einer Ordnungswidrigkeit nach § 58, die von einem in- oder
@@ -5866,11 +6011,13 @@ verwenden, zu dessen Erfüllung sie ihm übermittelt worden sind.
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011803301)
 
 (weggefallen)
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE011909360)
 
 (1) Die Luftaufsichtsstelle oder auf Flugplätzen ohne
 Luftaufsichtsstelle die Flugleitung darf
@@ -5942,10 +6089,12 @@ sind.
 
 
 ## Fünfter Abschnitt - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNG001602301)
 
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012003301)
 
 (1) Ein bis zum 2. Oktober 1990 in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet (Beitrittsgebiet) angelegter
@@ -5971,6 +6120,7 @@ Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE012806124)
 
 (1) Die durch das Gesetz zur Harmonisierung des Haftungsrechts im
 Luftverkehr (BGBl. I S. 550) geänderten Vorschriften des 2.
@@ -6012,6 +6162,7 @@ geschuldet wurde, vor dem 17. Juli 2020 geschlossen wurde.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE013104360)
 
 (1) Beauftragungen nach § 31b Absatz 1 Satz 2 in der Fassung der
 Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) erlöschen mit einer
@@ -6059,6 +6210,7 @@ b)  an Flugplätzen nach § 27d Absatz 4 durch ausländische
 
 
 ### Anlage (zu § 10b Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE014900360)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 32)
 
@@ -6101,6 +6253,7 @@ b)  an Flugplätzen nach § 27d Absatz 4 durch ausländische
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1106)
+[Direktlink](https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html#BJNR006810922BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

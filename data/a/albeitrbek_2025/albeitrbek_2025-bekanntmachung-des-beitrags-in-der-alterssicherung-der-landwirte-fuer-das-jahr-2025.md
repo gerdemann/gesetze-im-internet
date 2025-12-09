@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2025/BJNR1940A0024.html#BJNR1940A0024BJNE000100000)
 
 Auf Grund des § 68 Satz 1 bis 3 des Gesetzes über die Alterssicherung
 der Landwirte, der zuletzt durch Artikel 17 Nummer 23 Buchstabe a und
@@ -29,6 +30,7 @@ Kalenderjahr 2025 bundeseinheitlich monatlich 312 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2025/BJNR1940A0024.html#BJNR1940A0024BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

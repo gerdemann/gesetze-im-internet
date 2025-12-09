@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svzustano/BJNR462800021.html#BJNR462800021BJNE000100000)
 
 Nach § 46 Absatz 1 Satz 3 und 4 des Soldatenversorgungsgesetzes, der
 durch Artikel 2 Nummer 22 des Gesetzes vom 20. August 2021 (BGBl. I S.
@@ -26,6 +27,7 @@ Bau und Heimat und dem Bundesministerium der Finanzen an:
 
 
 ## § 1 Übertragung von Aufgaben und Befugnissen auf das Bundesamt für das Personalmanagement der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/svzustano/BJNR462800021.html#BJNR462800021BJNE000200000)
 
 Dem Bundesamt für das Personalmanagement der Bundeswehr werden
 übertragen:
@@ -86,6 +88,7 @@ Dem Bundesamt für das Personalmanagement der Bundeswehr werden
 
 
 ## § 2 Übertragung von Aufgaben und Befugnissen auf die Service-Center der Generalzolldirektion
+[Direktlink](https://www.gesetze-im-internet.de/svzustano/BJNR462800021.html#BJNR462800021BJNE000300000)
 
 (1) Den Service-Centern der Generalzolldirektion werden übertragen:
 
@@ -132,6 +135,7 @@ werden jedoch:
 
 
 ## § 3 Übertragung von Aufgaben und Befugnissen auf das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/svzustano/BJNR462800021.html#BJNR462800021BJNE000400000)
 
 (1) Dem Bundesverwaltungsamt werden übertragen:
 
@@ -178,6 +182,7 @@ werden jedoch:
 
 
 ## § 4 Vorbehalt des Bundesministeriums der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/svzustano/BJNR462800021.html#BJNR462800021BJNE000500000)
 
 Das Bundesministerium der Verteidigung behält sich vor, die nach den
 §§ 1 bis 3 übertragenen Aufgaben und Befugnisse bei grundsätzlicher
@@ -186,6 +191,7 @@ Befugnisse unter Zustimmungsvorbehalt zu stellen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svzustano/BJNR462800021.html#BJNR462800021BJNE000600000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 

@@ -139,9 +139,11 @@ Diese Verordnung dient der Umsetzung
 
 
 ## Abschnitt 1 - Anwendungsbereich, Ausnahmen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich für Messgeräte und Teilgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000209119)
 
 (1) Das Mess- und Eichgesetz vom 25. Juli 2013 (BGBl. I S. 2722) in
 der jeweils geltenden Fassung und diese Verordnung sind auf Messgeräte
@@ -379,6 +381,7 @@ und dieser Verordnung:
 
 
 ### § 2 Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000300000)
 
 Das Mess- und Eichgesetz und diese Verordnung sind nicht auf
 Messgeräte anzuwenden, bei denen es im Hinblick auf das
@@ -389,6 +392,7 @@ benannt.
 
 
 ### § 3 Anwendungsbereich für sonstige Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000400000)
 
 Die Vorschriften des Mess- und Eichgesetzes und dieser Verordnung über
 sonstige Messgeräte sind anzuwenden auf nichtselbsttätige Waagen,
@@ -398,6 +402,7 @@ Interesse bestimmt sind.
 
 
 ### § 4 Vom Anwendungsbereich ausgenommene Zusatzeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000502119)
 
 Das Mess- und Eichgesetz und diese Verordnung sind nicht anzuwenden
 auf folgende Zusatzeinrichtungen, die über rückwirkungsfreie
@@ -446,6 +451,7 @@ selbsttätigen Waagen anzuwenden.
 
 
 ### § 5 Vom Anwendungsbereich ausgenommene Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000606128)
 
 (1) Auf Messgeräte oder Messwerte, die im geschäftlichen Verkehr
 verwendet werden, sind das Mess- und Eichgesetz und diese Verordnung
@@ -664,6 +670,7 @@ eines Messwerts eine Ausnahme vom Anwendungsbereich nach den Absätzen
 
 
 ### § 6 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000701124)
 
 Im Sinne dieser Verordnung sind die folgenden Begriffsbestimmungen
 anzuwenden:
@@ -764,12 +771,15 @@ anzuwenden:
 
 
 ## Abschnitt 2 - Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000200000)
 
 
 ### Unterabschnitt 1 - Wesentliche Anforderungen an Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000300000)
 
 
 #### § 7 Allgemeine wesentliche Anforderungen und Feststellung der Einhaltung von Fehlergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000801123)
 
 (1) Messgeräte müssen
 
@@ -811,6 +821,7 @@ Absatz 1 zu genügen, die für ihre Funktionalität maßgeblich sind.
 
 
 #### § 8 Gerätespezifische wesentliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE000902124)
 
 (1) Vorbehaltlich des Absatzes 3 müssen die nachfolgend genannten
 Messgeräte oder Teilgeräte im Sinne der Richtlinie 2014/32/EU des
@@ -982,9 +993,11 @@ in Anlage 3 Tabelle 2 Spalte 2 verwiesen wird.
 
 
 ### Unterabschnitt 2 - Regelungen im Zusammenhang mit der Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000400000)
 
 
 #### § 9 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001000000)
 
 (1) Die Konformität eines Messgeräts mit den wesentlichen
 Anforderungen an das Messgerät wird vorbehaltlich des Absatzes 4 durch
@@ -1028,6 +1041,7 @@ in Anlage 3 Tabelle 2 Spalte 4 benannt sind.
 
 
 #### § 10 Technische Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001100000)
 
 (1) Der Hersteller hat technische Unterlagen zu erstellen, die
 
@@ -1082,6 +1096,7 @@ aufgeführt sind.
 
 
 #### § 11 Konformitätserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001201119)
 
 (1) Die Konformitätserklärung für eines der in § 8 genannten
 Messgeräte muss
@@ -1118,6 +1133,7 @@ versehen, die
 
 
 #### § 12 Haftpflichtversicherung der Konformitätsbewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001300000)
 
 (1) Die Haftpflichtversicherung, die die Konformitätsbewertungsstelle
 nach § 15 Absatz 8 des Mess- und Eichgesetzes abzuschließen hat, ist
@@ -1166,9 +1182,11 @@ Mindestversicherungssumme ist zulässig.
 
 
 ### Unterabschnitt 3 - Kennzeichnung, Aufschriften und beizufügende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000500000)
 
 
 #### § 13 Gemeinsame Vorschriften für Kennzeichnungen und Aufschriften von Messgeräten und sonstigen Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001402119)
 
 (1) Kennzeichnungen und Aufschriften müssen gut sichtbar, lesbar und
 dauerhaft auf dem Messgerät oder dem sonstigen Messgerät angebracht
@@ -1186,6 +1204,7 @@ beeinträchtigt wäre.
 
 
 #### § 14 Kennzeichnung von Messgeräten beim Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001501124)
 
 (1) Die in § 8 Absatz 1 genannten Messgeräte sind vorbehaltlich des
 Absatzes 2 zu kennzeichnen
@@ -1279,6 +1298,7 @@ Eichgesetzes und dieser Verordnung erfüllen.
 
 
 #### § 15 Aufschriften auf Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001601124)
 
 (1) Messgeräte sind mit folgenden Aufschriften zu versehen:
 
@@ -1421,6 +1441,7 @@ ist in unmittelbarer Nähe des Zahlenwerts anzugeben.
 
 
 #### § 16 Aufschriften auf sonstigen Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001701124)
 
 Sonstige Messgeräte tragen folgende Aufschriften:
 
@@ -1436,6 +1457,7 @@ Sonstige Messgeräte tragen folgende Aufschriften:
 
 
 #### § 17 Beizufügende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001802124)
 
 (1) Die nach § 23 Absatz 4, § 25 Absatz 2 Nummer 3 und § 26 Absatz 1
 Nummer 2 des Mess- und Eichgesetzes beizufügenden Informationen müssen
@@ -1498,18 +1520,23 @@ deutscher Sprache abgefasst sein.
 
 
 ## Abschnitt 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000601123)
 
 
 ### (XXXX) §§ 18 bis 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE001901123)
 
 
 ## Abschnitt 4 - Pflichten der Verwender
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000700000)
 
 
 ### Unterabschnitt 1 - Allgemeine Pflichten der Verwender
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000800000)
 
 
 #### § 22 Verkehrsfehlergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002300000)
 
 (1) Messgeräte in Form nichtselbsttätiger Waagen müssen bei der
 Verwendung eine Verkehrsfehlergrenze einhalten, die dem Doppelten der
@@ -1526,6 +1553,7 @@ veröffentlicht ist.
 
 
 #### § 23 Aufstellung, Gebrauch und Wartung von Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002400000)
 
 (1) Wer ein Messgerät verwendet im Sinne des § 1 Absatz 2 und 3, muss
 
@@ -1566,6 +1594,7 @@ kann.
 
 
 #### § 24 Vermutungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002501123)
 
 (1) Es wird vermutet, dass Verwender ihre Pflichten nach § 23
 erfüllen, wenn sie die Bedingungen einhalten, die hierzu nach § 46 des
@@ -1576,6 +1605,7 @@ Erkenntnissen ermittelt und veröffentlicht wurden.
 
 
 #### § 25 Ausnahmen bei Werten für Messgrößen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002602119)
 
 Werte für die folgenden Messgrößen dürfen Verwender angeben oder
 verwenden, auch ohne dass die angegebene Größe mit einem Messgerät im
@@ -1661,6 +1691,7 @@ anerkannten Regeln der Technik entsprechend ermittelt wurden.
 
 
 #### § 26 Angabe von Gewichtswerten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002701124)
 
 (1) Im geschäftlichen Verkehr mit losen Erzeugnissen sind
 Gewichtswerte, die der Preisermittlung zugrunde liegen, nur als
@@ -1678,9 +1709,11 @@ ausgeschlossen ist.
 
 
 ### Unterabschnitt 2 - Pflichten der Verwender bei besonderen Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG000900000)
 
 
 #### § 27 Verwenden von Ausschankmaßen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002801124)
 
 Beim Verwenden für den geschäftsmäßigen Ausschank sind Ausschankmaße
 nur mit einem der folgenden Nennvolumina zulässig:
@@ -1749,6 +1782,7 @@ nur mit einem der folgenden Nennvolumina zulässig:
 
 
 #### § 28 Abgabe von flüssigen Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE002900000)
 
 Wer Gasöl, das auf Grund des § 2 Absatz 1 der Energiesteuer-
 Durchführungsverordnung vom 31. Juli 2006 (BGBl. I S. 1753), die
@@ -1763,6 +1797,7 @@ Volumen der Abrechnung zugrunde zu legen.
 
 
 #### § 29 Besondere Vorschriften für das Verwenden von Messgeräten zur Bestimmung der Dosis ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003001116)
 
 (1) Dosimetersonden für ein passives, integrierendes Dosimeter dürfen
 von einer Stelle, die für die Auswertung von Dosimetersonden eines
@@ -1798,9 +1833,11 @@ elektronischer Datenkommunikation erfolgen.
 
 
 ### Unterabschnitt 3 - Öffentliche Waage
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001000000)
 
 
 #### § 30 Pflichten beim Verwenden einer öffentlichen Waage
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003100000)
 
 Wer eine öffentliche Waage verwendet, hat
 
@@ -1821,6 +1858,7 @@ Wer eine öffentliche Waage verwendet, hat
 
 
 #### § 31 Pflichten bei der Durchführung öffentlicher Wägungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003200000)
 
 Wer eine öffentliche Waage verwendet, hat bei Wägungen
 sicherzustellen, dass
@@ -1838,6 +1876,7 @@ sicherzustellen, dass
 
 
 #### § 32 Nachweis des Wägeergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003300000)
 
 (1) Wer eine öffentliche Waage verwendet, hat sicherzustellen, dass
 das Wägeergebnis durch Unterschrift desjenigen bescheinigt wird, der
@@ -1878,9 +1917,11 @@ gerechnet ab dem Zeitpunkt der Beendigung der Wägung, aufbewahren.
 
 
 ## Abschnitt 5 - Eichung und Befundprüfung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001100000)
 
 
 ### § 33 Pflichten der antragstellenden Person bei der Eichung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003400000)
 
 (1) Die antragstellende Person hat die Messgeräte für die Eichung zu
 reinigen und ordnungsgemäß herzurichten.
@@ -1905,6 +1946,7 @@ beizufügenden Unterlagen des Messgeräts vorzulegen.
 
 
 ### § 34 Eichfrist
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003500000)
 
 (1) Die Eichfrist eines Messgeräts beträgt zwei Jahre, soweit nicht
 etwas anderes bestimmt ist
@@ -1940,6 +1982,7 @@ wurde.
 
 
 ### § 35 Verlängerung der Eichfrist auf Grund von Stichprobenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003601119)
 
 Die nach § 40 Absatz 1 des Mess- und Eichgesetzes zuständige Behörde
 verlängert auf Antrag die Eichfrist derjenigen Messgeräte für
@@ -1999,12 +2042,14 @@ Eichfrist gestellt werden.
 
 
 ### § 36 Durchführung der Eichung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003700000)
 
 Die Eichung besteht aus der eichtechnischen Prüfung (§ 37) und dem
 Aufbringen der Eichkennzeichen auf dem Messgerät (§ 38).
 
 
 ### § 37 Eichtechnische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003801124)
 
 (1) Die eichtechnische Prüfung besteht aus der Prüfung der formalen
 Anforderungen und der messtechnischen Prüfung des Messgerätes und der
@@ -2028,6 +2073,7 @@ anfallen.
 
 
 ### § 38 Kennzeichnung der Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE003900000)
 
 (1) Messgeräte werden bei der Eichung von der nach § 40 Absatz 1 des
 Mess- und Eichgesetzes zuständigen Behörde mit dem Eichkennzeichen
@@ -2051,6 +2097,7 @@ Entwertungszeichen nach Anlage 8 Nummer 1.5 anzubringen.
 
 
 ### § 39 Durchführung der Befundprüfung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004001119)
 
 (1) Auf eine Befundprüfung nach § 39 Absatz 1 des Mess- und
 Eichgesetzes sind die Regelungen des § 37 Absatz 1 und 2 entsprechend
@@ -2075,9 +2122,11 @@ antragstellenden Person beendet werden.
 
 
 ## Abschnitt 6 - Softwareaktualisierung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001200000)
 
 
 ### § 40 Genehmigungsverfahren zur Aktualisierung von Software in Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004101119)
 
 (1) Antragsbefugt sind
 
@@ -2163,6 +2212,7 @@ nach § 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes, sofern
 
 
 ### § 41 Konformitätsbewertung der aktualisierten Software
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004200000)
 
 Die Konformitätsbewertung der aktualisierten Software hat durch eine
 Konformitätsbewertungsstelle im Sinne des § 13 Absatz 1 Satz 1 oder
@@ -2171,12 +2221,15 @@ zur Bewertung der jeweiligen Baumuster berechtigt ist.
 
 
 ## Abschnitt 7 - Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001300000)
 
 
 ### Unterabschnitt 1 - Staatlich anerkannte Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001400000)
 
 
 #### § 42 Antrag und Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004301124)
 
 (1) Prüfstellen können staatlich anerkannt werden für
 
@@ -2227,6 +2280,7 @@ benennen:
 
 
 #### § 43 Anforderungen an die Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004400000)
 
 (1) Der Träger der Prüfstelle muss rechtsfähig, die Prüfstelle soll
 rechtsfähig sein. Ist die Prüfstelle nicht selbst rechtsfähig, muss
@@ -2311,6 +2365,7 @@ sicherstellt.
 
 
 #### § 44 Haftpflichtversicherung der Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004500000)
 
 (1) Die Haftpflichtversicherung, die die Prüfstelle nach § 40 Absatz 3
 Satz 2 des Mess- und Eichgesetzes abzuschließen hat, ist zur Deckung
@@ -2351,9 +2406,11 @@ Mindestversicherungssumme vereinbart werden.
 
 
 ### Unterabschnitt 2 - Prüfstellenleitung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001500000)
 
 
 #### § 45 Leitung und stellvertretende Leitung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004600000)
 
 Die Leitung oder stellvertretende Leitung einer Prüfstelle darf nur
 ausüben, wer von der zuständigen Behörde öffentlich bestellt ist und
@@ -2366,6 +2423,7 @@ bestimmten Prüfstelle.
 
 
 #### § 46 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004701124)
 
 (1) Wer als Leiterin oder Leiter oder stellvertretende Leiterin oder
 stellvertretender Leiter einer Prüfstelle tätig sein will, hat seine
@@ -2400,6 +2458,7 @@ Monate sein.
 
 
 #### § 47 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004800000)
 
 Die erforderliche Sachkunde ist gegeben, wenn die antragstellende
 Person
@@ -2420,6 +2479,7 @@ Person
 
 
 #### § 48 Öffentliche Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE004900000)
 
 (1) Die öffentliche Bestellung der Leitung und der stellvertretenden
 Leitung der Prüfstelle erfolgt durch Aushändigung einer
@@ -2447,9 +2507,11 @@ wurde.
 
 
 ### Unterabschnitt 3 - Betrieb der staatlich anerkannten Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001600000)
 
 
 #### § 49 Bezeichnung und Anzeige der staatlich anerkannten Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005000000)
 
 (1) Staatlich anerkannte Prüfstellen führen die Bezeichnung „Staatlich
 anerkannte Prüfstelle“ mit einem Zusatz, der auf die Art der
@@ -2471,6 +2533,7 @@ zuständigen Behörde unverzüglich anzuzeigen:
 
 
 #### § 50 Durchführung von Eichungen durch staatlich anerkannte Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005100000)
 
 (1) Für die Durchführung der Eichung durch staatlich anerkannte
 Prüfstellen sind die §§ 33 und 37 entsprechend anzuwenden.
@@ -2490,6 +2553,7 @@ vorschriftswidrig befunden, so ist § 38 Absatz 4 anzuwenden.
 
 
 #### § 51 Durchführung von Befundprüfungen durch staatlich anerkannte Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005200000)
 
 (1) Staatlich anerkannte Prüfstellen sind im Rahmen ihrer
 Prüfbefugnisse verpflichtet, auf Antrag Befundprüfungen vorzunehmen.
@@ -2506,6 +2570,7 @@ anerkannte Prüfstellen ist § 39 anzuwenden.
 
 
 #### § 52 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005300000)
 
 Die staatlich anerkannten Prüfstellen haben über die von ihnen
 durchgeführten Eichungen und Befundprüfungen Unterlagen zu fertigen,
@@ -2514,6 +2579,7 @@ Unterlagen sind zwei Jahre aufzubewahren.
 
 
 #### § 53 Verantwortung der Prüfstellenleitung
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005400000)
 
 (1) Die Leitung der staatlich anerkannten Prüfstelle oder bei ihrer
 Abwesenheit die stellvertretende Leitung ist insbesondere dafür
@@ -2546,9 +2612,11 @@ vorgenommen werden.
 
 
 ### Unterabschnitt 4 - Instandsetzer
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001700000)
 
 
 #### § 54 Befugniserteilung an Instandsetzer
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005501119)
 
 (1) Die zuständige Behörde darf Betrieben (Instandsetzer) auf Antrag
 die Befugnis erteilen, instand gesetzte Messgeräte durch ein Zeichen
@@ -2589,6 +2657,7 @@ nach Absatz 1 Satz 2 regelmäßig nach, spätestens alle fünf Jahre.
 
 
 #### § 55 Pflichten der Instandsetzer
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005600000)
 
 (1) Der Instandsetzer hat die instand gesetzten Messgeräte mit dem
 Instandsetzerkennzeichen kenntlich zu machen, wenn
@@ -2641,9 +2710,11 @@ Behörde unverzüglich sämtliche Instandsetzerkennzeichen zu übergeben.
 
 
 ## Abschnitt 8 - Meldeverfahren der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001800000)
 
 
 ### § 56 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005700000)
 
 (1) Für Meldungen im Sinne des § 53 Absatz 2 des Mess- und
 Eichgesetzes an die Europäische Kommission und an die übrigen
@@ -2658,9 +2729,11 @@ Mess- und Eichgesetzes.
 
 
 ## Abschnitt 9 - Bußgeldvorschriften, Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNG001900000)
 
 
 ### § 57 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005801119)
 
 Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und
 Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2707,6 +2780,7 @@ Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 58 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE005902119)
 
 (1) Bis zum Ablauf des 30. Oktober 2016:
 
@@ -2764,6 +2838,7 @@ Praxis ermittelt wurden.
 (zu § 2 Satz 2)
 
 ### Anlage 1 Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006002118)
 
 (Fundstelle: BGBl. I 2014, 2033 - 2034;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3065,6 +3140,7 @@ Mess- und Eichgesetzes und dieser Verordnung ausgenommen:
 (zu § 7 Absatz 1 Satz 3)
 
 ### Anlage 2 Anforderungen an Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006102119)
 
 (Fundstelle: BGBl. I 2014, 2035 - 2038;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3593,6 +3669,7 @@ Einhaltung der Anforderungen sind zu beachten.
 (zu § 8, § 9 Absatz 1 Satz 2, § 9 Absatz 4)
 
 ### Anlage 3 Gerätespezifische Anforderungen und anzuwendende Konformitätsbewertungsverfahren für einzelne Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006201124)
 
 (Fundstelle: BGBl. I 2014, 2039 - 2044;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4325,6 +4402,7 @@ nach § 8 Absatz 3 und § 9 Absatz 4 bis zum Ablauf des 19. April 2016
 (zu § 9 Absatz 1 Satz 1)
 
 ### Anlage 4 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006301118)
 
 (Fundstelle: BGBl. I 2014, 2045 - 2060)
 
@@ -6225,6 +6303,7 @@ Konformität auf der Grundlage einer
 (zu § 11 Absatz 2)
 
 ### Anlage 5 Konformitätserklärung für Messgeräte, die nicht europäischen Vorschriften unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006401124)
 
 (Fundstelle: BGBl. I 2014, 2061;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6277,11 +6356,13 @@ Unterzeichnet für und im Namen von ……………….
 
 
 ### Anlage 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006501123)
 
 
 (zu § 34 Absatz 1 Nummer 1)
 
 ### Anlage 7 Besondere Eichfristen für einzelne Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006604119)
 
 (Fundstelle: BGBl. I 2014, 2064 - 2068;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7152,6 +7233,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Satz 2)
 
 ### Anlage 8 Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/messev/BJNR201100014.html#BJNR201100014BJNE006701124)
 
 (Fundstelle: BGBl. I 2014, 2069 - 2071;
 bzgl. der einzelnen Änderungen vgl. Fußnote))

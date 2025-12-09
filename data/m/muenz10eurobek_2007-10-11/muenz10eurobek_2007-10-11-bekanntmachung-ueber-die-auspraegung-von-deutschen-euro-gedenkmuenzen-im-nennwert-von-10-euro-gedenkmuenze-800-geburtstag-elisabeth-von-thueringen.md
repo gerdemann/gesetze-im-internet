@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-10-11/BJNR246400007.html#BJNR246400007BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, aus Anlass des 800.
@@ -47,11 +48,13 @@ Entwurf der Münze stammt von Frau Barbara G. Ruppel, Krailling.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-10-11/BJNR246400007.html#BJNR246400007BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-10-11/BJNR246400007.html#BJNR246400007BJNE000300000)
 
 ( Fundstelle: BGBl. I 2007, 2464 )
 ![bgbl1_2007_j2464-1_0010.jpg](bgbl1_2007_j2464-1_0010.jpg)

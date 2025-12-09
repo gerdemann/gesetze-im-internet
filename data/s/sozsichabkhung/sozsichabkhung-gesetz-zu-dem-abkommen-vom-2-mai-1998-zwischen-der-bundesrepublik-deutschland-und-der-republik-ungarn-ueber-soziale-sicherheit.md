@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhung/BJNR090020999.html#BJNR090020999BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhung/BJNR090020999.html#BJNR090020999BJNE000200310)
 
 Folgenden in Budapest am 2. Mai 1998 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -46,11 +48,13 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhung/BJNR090020999.html#BJNR090020999BJNE000301308)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhung/BJNR090020999.html#BJNR090020999BJNE000400310)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -85,6 +89,7 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhung/BJNR090020999.html#BJNR090020999BJNE000500310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

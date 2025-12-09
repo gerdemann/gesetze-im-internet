@@ -22,12 +22,15 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNG000100000)
 
 
 ### Abschnitt 1 - Internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen, Flaggenstaatszustimmung
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNG000200000)
 
 
 #### § 1 Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000101125)
 
 (1) Um einen Verstoß gegen Sanktionsbeschlüsse des Sicherheitsrates
 der Vereinten Nationen nach Kapitel VII der Charta der Vereinten
@@ -74,6 +77,7 @@ sobald der rechtfertigende Grund für das Unterlassen fortgefallen ist.
 
 
 #### § 2 Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000201125)
 
 (1) Um einen Verstoß gegen Sanktionsrecht der Vereinten Nationen
 abzuwehren, können das Auswärtige Amt, das Bundesministerium des
@@ -106,9 +110,11 @@ Schaden einen angemessenen Ausgleich zu gewähren, falls
 
 
 ### Abschnitt 2 - Strafrechtliche Zusammenarbeit auf Hoher See
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNG000300000)
 
 
 #### § 3 Befugnisse des Kapitäns nach dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt (SUA-Übereinkommen) und dem Protokoll vom 14. Oktober 2005 zu diesem Übereinkommen (SUA-Änderungsprotokoll)
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000300000)
 
 (1) Hat der Kapitän eines Schiffes, das die Bundesflagge führt, Anlass
 zu der Annahme, dass eine Person an Bord eine Straftat begangen hat,
@@ -154,6 +160,7 @@ Artikel 3 dieses Übereinkommens genannten Straftaten.
 
 
 #### § 4 Rechtshilfeersuchen nach dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000400000)
 
 (1) Erhält eine Schifffahrtspolizeibehörde oder die für die
 Hafenstaatkontrolle zuständige Schiffssicherheitsbehörde ein Ersuchen
@@ -179,6 +186,7 @@ Schiffssicherheitsbehörde dieses Staates entgegengenommen werden kann.
 
 
 #### § 5 Rechtshilfeersuchen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000501125)
 
 (1) Ein Ersuchen an einen ausländischen Staat zur Durchführung von
 Strafverfolgungsmaßnahmen seewärts der Grenze des deutschen
@@ -272,12 +280,15 @@ dieser Vorschrift zuständig.
 
 
 ## Teil 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNG000400000)
 
 
 ### Abschnitt 1 - Gemeinsame Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNG000500000)
 
 
 #### § 6 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000601311)
 
 (1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht
 wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind
@@ -289,6 +300,7 @@ Bundespolizeigesetzes entsprechend anzuwenden.
 
 
 #### § 7 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000701125)
 
 Die nach diesem Gesetz zuständigen Bundesbehörden können
 personenbezogene Daten, auch automatisiert, verarbeiten, wenn es zur
@@ -315,9 +327,11 @@ um Strafverfolgungsmaßnahmen nach § 5 Absatz 1 bis 3 durchzusetzen.
 
 
 ### Abschnitt 2 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNG000600000)
 
 
 #### § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000801125)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
@@ -334,6 +348,7 @@ Polizeibeamten nach der Strafprozessordnung.
 
 
 #### § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE000900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -357,6 +372,7 @@ Seeschifffahrt und Hydrographie.
 
 
 #### § 10 Anwendungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE001000000)
 
 (1) § 3 ist vorbehaltlich dessen Absatz 5 erst ab dem Tag anzuwenden,
 an dem das Protokoll vom 14. Oktober 2005 zu dem Übereinkommen vom 10.
@@ -369,6 +385,7 @@ den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
 
 #### § 11 Unberührtheitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/hseezg/BJNR209510015.html#BJNR209510015BJNE001100000)
 
 (1) Maßnahmen der Bundespolizei auf See seewärts der Grenze des
 deutschen Küstenmeeres nach dem Bundespolizeigesetz erfolgen

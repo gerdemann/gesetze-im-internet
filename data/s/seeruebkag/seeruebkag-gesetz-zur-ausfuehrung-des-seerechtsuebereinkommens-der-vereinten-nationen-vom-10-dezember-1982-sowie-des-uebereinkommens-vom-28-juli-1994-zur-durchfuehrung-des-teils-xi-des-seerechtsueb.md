@@ -21,20 +21,24 @@ Stand: geändert Art. 550 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE000700305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Seeschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNG000100305)
 
 
 
 ### (XXXX) Art 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE000800305)
 
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE000901305)
 
 (1) bis (3)
 
@@ -45,6 +49,7 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001000305)
 
 (1) Das Gesetz zu dem Internationalen Übereinkommen von 1973 zur
 Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll
@@ -58,43 +63,52 @@ Artikels an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001100305)
 
 -
 
 
 ## Abschnitt 2 - Meeresbergbau
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNG000200305)
 
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001200305)
 
 -
 
 
 ### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001300305)
 
 -
 
 
 ## Abschnitt 3 - Wissenschaftliche Meeresforschung
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNG000300305)
 
 
 
 ### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001400305)
 
 -
 
 
 ## Abschnitt 4 - Umweltstrafrecht
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNG000400305)
 
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001500305)
 
 -
 
 
 ### Art 12 Erweiterung des Geltungsbereichs des deutschen Strafrechts
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001600305)
 
 Das deutsche Strafrecht gilt für Straftaten gegen die Umwelt in den
 Fällen der §§ 324, 326, 330 und 330a des Strafgesetzbuches, die von
@@ -112,6 +126,7 @@ der Nordsee durch Öl und andere Schadstoffe vom 13. September 1983
 
 
 ### Art 13 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001700305)
 
 Die Erfüllung einer in Artikel 73 Abs. 4, Artikel 217 Abs. 7, Artikel
 228 Abs. 1 Satz 2 oder Artikel 231 des Seerechtsübereinkommens der
@@ -122,19 +137,23 @@ Die Übermittlung erfolgt auf diplomatischem Weg.
 
 
 ## Abschnitt 5 - Vollstreckung seegerichtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNG000500305)
 
 
 
 ### Art 14
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001800305)
 
 -
 
 
 ## Abschnitt 6 - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNG000600305)
 
 
 
 ### Art 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seer_bkag/BJNR077800995.html#BJNR077800995BJNE001900305)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

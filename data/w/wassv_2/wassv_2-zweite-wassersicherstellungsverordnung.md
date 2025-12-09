@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000100304)
 
 Auf Grund des § 3 Nr. 3 des Wassersicherstellungsgesetzes vom 24.
 August 1965 (Bundesgesetzblatt I S. 1225), geändert durch das
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000200304)
 
 Die Bestimmungen dieser Verordnung gelten für Brunnen und
 Quellfassungen, die als selbständig zu betreibende Einzelanlagen zur
@@ -49,6 +51,7 @@ Wasserversorgung.
 
 
 ## § 2 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000300304)
 
 Brunnen und Quellfassungen sind nach den allgemein anerkannten Regeln
 der Technik zu bauen oder umzubauen, soweit diese Verordnung nichts
@@ -56,6 +59,7 @@ anderes bestimmt.
 
 
 ## § 3 Bauweise, Baustoffe und Bestandteile von Brunnen
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000400304)
 
 (1) Bauweise und Baustoffe von Brunnen müssen so beschaffen sein, daß
 sie elektrolytischen und chemischen Einwirkungen für eine möglichst
@@ -87,6 +91,7 @@ kann.
 
 
 ## § 4 Besondere Anforderungen für Trinkwasser-Notbrunnen
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000500304)
 
 (1) Neu zu bauende Brunnen, die zur Versorgung mit Trinkwasser
 bestimmt sind, müssen in der Regel als Bohrbrunnen gebaut werden. Sie
@@ -107,6 +112,7 @@ Förderanlage nach § 3 Abs. 3 haben.
 
 
 ## § 5 Festigkeitsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000600304)
 
 Die Bauteile eines Brunnens müssen folgenden Anforderungen genügen:
 
@@ -216,6 +222,7 @@ P = 1,7 x p(tief)o x --------------------- (kN/m)
 
 
 ## § 6 Bauweise, Baustoffe und Bestandteile von Quellfassungen
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000700304)
 
 (1) Quellfassungen dürfen nur dann gebaut oder umgebaut werden, wenn
 eine ausreichende Quellschüttung gewährleistet ist.
@@ -249,6 +256,7 @@ noch in das abzugebende Wasser gelangen kann.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wassv_2/BJNR013130973.html#BJNR013130973BJNE000800304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

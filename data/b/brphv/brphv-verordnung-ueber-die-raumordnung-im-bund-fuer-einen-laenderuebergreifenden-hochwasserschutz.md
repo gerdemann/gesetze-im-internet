@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brphv/BJNR371200021.html#BJNR371200021BJNE000100000)
 
 Auf Grund des § 17 Absatz 2 Satz 1 des Raumordnungsgesetzes vom 22.
 Dezember 2008 (BGBl. I S. 2986), der zuletzt durch Artikel 159 der
@@ -32,6 +33,7 @@ Verteidigung:
 
 
 ## § 1 Raumordnungsplanung im Bund für einen länderübergreifenden Hochwasserschutz
+[Direktlink](https://www.gesetze-im-internet.de/brphv/BJNR371200021.html#BJNR371200021BJNE000200000)
 
 [^F817842_01_BJNR371200021BJNE000200000]
 Für den länderübergreifenden Hochwasserschutz im Bundesgebiet werden
@@ -96,6 +98,7 @@ Verordnung als Raumordnungsplan festgelegt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/brphv/BJNR371200021.html#BJNR371200021BJNE000300000)
 
 Diese Verordnung tritt am 1. September 2021 in Kraft.
 

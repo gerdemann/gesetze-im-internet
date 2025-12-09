@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-22-1-12 v. 25.1.2006 I 255 (HolzMAusbV 2006)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -36,20 +37,24 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000300000)
 
 Der Ausbildungsberuf des Holzmechanikers und der Holzmechanikerin wird
 nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse
@@ -67,6 +72,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -223,6 +229,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede
@@ -230,6 +237,7 @@ Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -240,9 +248,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -252,6 +262,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -268,6 +279,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich Herstellen eines Werkstücks
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines
 Werkstücks statt.
@@ -315,12 +327,15 @@ Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000300000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000400000)
 
 
 #### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001200000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -330,6 +345,7 @@ durchgeführt werden.
 
 
 #### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001300000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -346,9 +362,11 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### Unterabschnitt 2 - Fachrichtung Herstellen von Möbeln und Innenausbauteilen
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000500000)
 
 
 #### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001400000)
 
 In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet
 die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
@@ -369,6 +387,7 @@ die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 13 Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001500000)
 
 (1) Im Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -426,6 +445,7 @@ Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 14 Prüfungsbereich Fertigungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001600000)
 
 (1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -466,6 +486,7 @@ dass er in der Lage ist,
 
 
 #### § 15 Prüfungsbereich Maschinen- und Anlagentechnik
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001700000)
 
 (1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -498,6 +519,7 @@ nachweisen, dass er in der Lage ist,
 
 
 #### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -511,6 +533,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -588,9 +611,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000600000)
 
 
 #### § 18 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002000000)
 
 In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und
 Rahmen findet die Abschlussprüfung in den folgenden Prüfungsbereichen
@@ -613,6 +638,7 @@ statt:
 
 
 #### § 19 Prüfungsbereich Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002100000)
 
 (1) Im Prüfungsbereich Herstellen eines Bauelementes, eines
 Holzpackmittels oder eines Rahmens soll der Prüfling nachweisen, dass
@@ -677,6 +703,7 @@ Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 20 Prüfungsbereich Fertigungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002200000)
 
 (1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -716,6 +743,7 @@ dass er in der Lage ist,
 
 
 #### § 21 Prüfungsbereich Maschinen- und Anlagentechnik
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002300000)
 
 (1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -748,6 +776,7 @@ nachweisen, dass er in der Lage ist,
 
 
 #### § 22 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002400000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -761,6 +790,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 23 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -839,9 +869,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Fachrichtung Montieren von Innenausbauten und Bauelementen
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000700000)
 
 
 #### § 24 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002600000)
 
 In der Fachrichtung Montieren von Innenausbauten und Bauelementen
 findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
@@ -862,6 +894,7 @@ findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 25 Prüfungsbereich Montieren eines Innenausbaus oder eines Bauelementes
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002700000)
 
 (1) Im Prüfungsbereich Montieren eines Innenausbaus oder eines
 Bauelementes soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -931,6 +964,7 @@ Fachgespräch dauert 20 Minuten.
 
 
 #### § 26 Prüfungsbereich Montagetechnik
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002800000)
 
 (1) Im Prüfungsbereich Montagetechnik soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -982,6 +1016,7 @@ dass er in der Lage ist,
 
 
 #### § 27 Prüfungsbereich Maschinentechnik
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE002900000)
 
 (1) Im Prüfungsbereich Maschinentechnik soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -1011,6 +1046,7 @@ dass er in der Lage ist,
 
 
 #### § 28 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003000000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1024,6 +1060,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 29 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1101,9 +1138,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Zusatzqualifikation CAD- und CNC-Technik Holz
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000800000)
 
 
 ### § 30 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003200000)
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation computergestütztes Konstruieren
@@ -1115,6 +1154,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 31 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003300000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -1176,9 +1216,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNG000900000)
 
 
 ### § 32 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003400000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -1187,6 +1229,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 33 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003500000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Holzmechaniker/zur
@@ -1195,6 +1238,7 @@ Holzmechanikerin vom 25. Januar 2006 (BGBl. I S. 255) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003600000)
 
 (Fundstelle: BGBl. I 2015, 746 - 754)
 
@@ -2486,6 +2530,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 (zu § 30 Absatz 2)
 
 ### Anlage 2 Zusatzqualifikation CAD- und CNC-Technik Holz
+[Direktlink](https://www.gesetze-im-internet.de/holzmechausbv_2015/BJNR073800015.html#BJNR073800015BJNE003700000)
 
 (Fundstelle: BGBl. I 2015, 755)
 

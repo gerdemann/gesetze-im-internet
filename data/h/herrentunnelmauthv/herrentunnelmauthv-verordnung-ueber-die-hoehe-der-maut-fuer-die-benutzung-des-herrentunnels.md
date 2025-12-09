@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/herrentunnelmauthv/BJNR210800005.html#BJNR210800005BJNE000100000)
 
 Auf Grund des § 3a Abs. 2 Satz 1 in Verbindung mit § 3 Abs. 2 bis 5
 des Fernstraßenbauprivatfinanzierungsgesetzes in der Fassung der
@@ -28,6 +29,7 @@ Schleswig-Holstein:
 
 
 ## § 1 Mauthöhe
+[Direktlink](https://www.gesetze-im-internet.de/herrentunnelmauthv/BJNR210800005.html#BJNR210800005BJNE000200000)
 
 Für jede einfache Benutzung des Abschnitts der Bundesstraße 104
 zwischen Straßenkilometer 6 + 034,11 westlich der Trave und
@@ -44,6 +46,7 @@ Mautverzeichnis in der Anlage erhoben.
 
 
 ## § 2 Beginn der Mauterhebung
+[Direktlink](https://www.gesetze-im-internet.de/herrentunnelmauthv/BJNR210800005.html#BJNR210800005BJNE000300000)
 
 Die Mauterhebung beginnt mit dem Tag der Freigabe der in § 1 genannten
 Strecke für den öffentlichen Verkehr. Der in Satz 1 genannte Tag wird
@@ -52,12 +55,14 @@ Bundesanzeiger bekannt gegeben.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/herrentunnelmauthv/BJNR210800005.html#BJNR210800005BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage Mautverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/herrentunnelmauthv/BJNR210800005.html#BJNR210800005BJNE000500000)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 2005, 2109)

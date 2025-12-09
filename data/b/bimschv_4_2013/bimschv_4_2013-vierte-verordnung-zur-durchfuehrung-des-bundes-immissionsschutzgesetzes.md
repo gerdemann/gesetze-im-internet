@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_4_2013/BJNR097310013.html#BJNR097310013BJNE000102116)
 
 (1) Die Errichtung und der Betrieb der im Anhang 1 genannten Anlagen
 bedürfen einer Genehmigung, soweit den Umständen nach zu erwarten ist,
@@ -108,6 +109,7 @@ Gefahrenabwehr sichergestellt hat.
 
 
 ## § 2 Zuordnung zu den Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_4_2013/BJNR097310013.html#BJNR097310013BJNE000201116)
 
 (1) Das Genehmigungsverfahren wird durchgeführt nach
 
@@ -168,6 +170,7 @@ Leistung oder Größe entspricht.
 
 
 ## § 3 Anlagen nach der Industrieemissions-Richtlinie
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_4_2013/BJNR097310013.html#BJNR097310013BJNE000301116)
 
 Anlagen nach Artikel 10 in Verbindung mit Anhang I der Richtlinie
 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November
@@ -178,6 +181,7 @@ gekennzeichnet sind.
 
 
 ## Anhang 1
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_4_2013/BJNR097310013.html#BJNR097310013BJNE000406130)
 
 (Fundstelle: BGBl. I 2017, 1443 — 1465;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4903,6 +4907,7 @@ Anlage gemäß Art. 10 der Richtlinie 2010/75/EU:
 
 
 ## Anhang 2 Stoffliste zu Nr. 9.3 des Anhangs 1
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_4_2013/BJNR097310013.html#BJNR097310013BJNE000502116)
 
    (Fundstelle: BGBl. I 2017, 1466 — 1467)
 

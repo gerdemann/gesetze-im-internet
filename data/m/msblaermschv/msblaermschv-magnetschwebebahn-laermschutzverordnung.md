@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/msbl_rmschv/BJNR233800997.html#BJNR233800997BJNE000100305)
 
 (1) Die Verordnung gilt für den Bau oder die wesentliche Änderung von
 Verkehrswegen der Magnetschwebebahnen.
@@ -44,6 +45,7 @@ wird; dies gilt nicht in Gewerbegebieten.
 
 
 ## § 2 Immissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/msbl_rmschv/BJNR233800997.html#BJNR233800997BJNE000200305)
 
 (1) Zum Schutz der Nachbarschaft vor schädlichen Umwelteinwirkungen
 durch Verkehrsgeräusche von Magnetschwebebahnen ist bei dem Bau oder
@@ -116,6 +118,7 @@ anzuwenden.
 
 
 ## § 3 Berechnung des Beurteilungspegels
+[Direktlink](https://www.gesetze-im-internet.de/msbl_rmschv/BJNR233800997.html#BJNR233800997BJNE000300305)
 
 Der Beurteilungspegel ist nach der Anlage zu berechnen. Die dort unter
 Nummer 2.1 genannten Angaben hat der Betreiber der Magnetschwebebahn
@@ -123,6 +126,7 @@ beizubringen.
 
 
 ## Anlage Berechnung des Beurteilungspegels
+[Direktlink](https://www.gesetze-im-internet.de/msbl_rmschv/BJNR233800997.html#BJNR233800997BJNE000400305)
 
 (Inhalt: nicht darstellbare Anlage;
 Fundstelle: BGBl. I 1997, 2338 - 2344)

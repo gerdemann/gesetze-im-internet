@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich, Erlaubnis und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000100000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000202360)
 
 (1) Pfandbriefbanken sind Kreditinstitute, deren Geschäftsbetrieb das
 Pfandbriefgeschäft umfasst. Pfandbriefgeschäft ist
@@ -73,6 +75,7 @@ Flugzeugpfandbriefe.
 
 
 ### § 2 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000306128)
 
 (1) Ein Kreditinstitut mit Sitz im Geltungsbereich dieses Gesetzes,
 das das Pfandbriefgeschäft betreiben will, bedarf der schriftlichen
@@ -189,6 +192,7 @@ aktualisieren.
 
 
 ### § 3 Aufsicht; Auskunfts- und Vorlageverlangen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000403128)
 
 (1) Die Bundesanstalt übt die Aufsicht über die Pfandbriefbanken nach
 den Vorschriften dieses Gesetzes und den in § 6 Absatz 1 Satz 1 des
@@ -211,6 +215,7 @@ der Deckung Auskünfte zu erteilen und Unterlagen vorzulegen.
 
 
 ### § 3a Zusammenarbeit mit Stellen im Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006600128)
 
 (1) Die Bundesanstalt arbeitet nach Maßgabe der Richtlinie (EU)
 2019/2162 des Europäischen Parlaments und des Rates vom 27. November
@@ -269,10 +274,12 @@ Wirtschaftsraum haben könnten.
 
 
 ## Abschnitt 2 - Allgemeine Vorschriften über die Pfandbriefemission
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000200000)
 
 
 
 ### § 4 Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000514128)
 
 (1) Die jederzeitige Deckung der umlaufenden Pfandbriefe nach dem
 Barwert, der die Zins- und Tilgungsverpflichtungen einbezieht, muss
@@ -496,6 +503,7 @@ Bescheinigung in den Verkehr gebracht werden.
 
 
 ### § 4a Umschuldungsklauseln in Staatsanleihen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006204128)
 
 Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den
 Emissionsbedingungen von Schuldverschreibungen des Bundes sowie
@@ -508,6 +516,7 @@ entgegen.
 
 
 ### § 4b Deckungsgeeignete Derivategeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006701128)
 
 (1) Deckungsgeeignete Derivategeschäfte (Derivategeschäfte) sind unter
 einem standardisierten Rahmenvertrag für jede Pfandbriefgattung
@@ -621,6 +630,7 @@ werden.
 
 
 ### § 5 Deckungsregister
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000606128)
 
 (1) Die zur Deckung der Pfandbriefe sowie der Ansprüche aus
 Derivategeschäften nach § 4 Abs. 3 verwendeten Deckungswerte sind von
@@ -704,6 +714,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 
 ### § 6 Inhalt der Pfandbriefe
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000703128)
 
 (1) In den Pfandbriefen sind die für das Rechtsverhältnis zwischen der
 Pfandbriefbank und den Pfandbriefgläubigern maßgebenden Bestimmungen,
@@ -721,6 +732,7 @@ bekannt ist, ist nicht gestattet.
 
 
 ### § 7 Treuhänder und Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000803128)
 
 (1) Bei jeder Pfandbriefbank ist ein Treuhänder sowie mindestens ein
 Stellvertreter zu bestellen.
@@ -768,6 +780,7 @@ und des Stellvertreters schließen und die Prämien zahlen.
 
 
 ### § 8 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE000904119)
 
 (1) Der Treuhänder hat darauf zu achten, dass die vorschriftsmäßige
 Deckung für die Pfandbriefe und Ansprüche aus Derivategeschäften nach
@@ -818,11 +831,13 @@ ist entsprechend anzuwenden.
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001001377)
 
 -
 
 
 ### § 10 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001101377)
 
 (1) Der Treuhänder ist befugt, jederzeit die Unterlagen der
 Pfandbriefbank einzusehen und Auskünfte zu verlangen, soweit sie sich
@@ -838,6 +853,7 @@ machen.
 
 
 ### § 11 Vergütung, Streitentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001201360)
 
 (1) Der Treuhänder und seine Stellvertreter erhalten von der
 Pfandbriefbank eine angemessene Vergütung, deren Höhe von der
@@ -849,14 +865,17 @@ entscheidet die Bundesanstalt.
 
 
 ## Abschnitt 3 - Besondere Vorschriften über die Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000300000)
 
 
 
 ### Unterabschnitt 1 - Hypothekenpfandbriefe
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000400000)
 
 
 
 #### § 12 Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001306128)
 
 (1) Zur Deckung für Hypothekenpfandbriefe nach § 1 Abs. 1 Satz 2 Nr. 1
 dürfen nur Hypotheken benutzt werden, soweit sie den Erfordernissen
@@ -885,6 +904,7 @@ und § 66 Absatz 5 Satz 3 des Unternehmensstabilisierungs- und
 
 
 #### § 13 Belegenheit der Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001402128)
 
 (1) Die Hypotheken müssen lasten auf Grundstücken, grundstücksgleichen
 Rechten oder solchen Rechten einer ausländischen Rechtsordnung, die
@@ -910,6 +930,7 @@ des Bauwerks nach wirtschaftlichen Grundsätzen erforderlich ist.
 
 
 #### § 14 Beleihungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001501377)
 
 Hypotheken dürfen nur bis zur Höhe der ersten 60 Prozent des von der
 Pfandbriefbank auf Grund einer Wertermittlung nach § 16 festgesetzten
@@ -917,6 +938,7 @@ Wertes des Grundstücks (Beleihungswert) zur Deckung benutzt werden.
 
 
 #### § 15 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001602128)
 
 Werden mit dem Grundstück fest verbundene Bauwerke beim Beleihungswert
 werterhöhend berücksichtigt, muss während der gesamten Dauer der
@@ -956,6 +978,7 @@ Nummer 2 besteht.
 
 
 #### § 16 Beleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001704128)
 
 (1) Die als Grundlage für die Beleihungswertfestsetzung dienende
 Wertermittlung ist von einem von der Kreditentscheidung unabhängigen
@@ -1006,11 +1029,13 @@ Finanzdienstleistungsaufsicht übertragen.
 
 
 #### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001801377)
 
 -
 
 
 #### § 18 Grundschulden und ausländische Sicherungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE001902360)
 
 (1) Im Sinne dieses Gesetzes stehen den Hypotheken die Grundschulden
 und solche ausländische Sicherungsrechte gleich, die eine
@@ -1038,6 +1063,7 @@ so findet auf diese § 12 Abs. 2 entsprechende Anwendung.
 
 
 #### § 19 Weitere Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002011128)
 
 (1) Die in § 12 Absatz 1 vorgeschriebene Deckung kann auch erfolgen
 
@@ -1163,10 +1189,12 @@ und Nummer 4 zulassen.
 
 
 ### Unterabschnitt 2 - Öffentliche Pfandbriefe
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000500000)
 
 
 
 #### § 20 Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002108128)
 
 (1) Zur Deckung Öffentlicher Pfandbriefe dürfen nur Geldforderungen
 aus der Vergabe von Darlehen, aus Schuldverschreibungen oder aus einem
@@ -1389,10 +1417,12 @@ auch auf die in § 12 Abs. 3 genannten Forderungen.
 
 
 ### Unterabschnitt 3 - Schiffspfandbriefe
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000600000)
 
 
 
 #### § 21 Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002201377)
 
 Zur Deckung für Schiffspfandbriefe dürfen nur durch Schiffshypotheken
 gesicherte Darlehensforderungen verwendet werden, soweit sie den
@@ -1402,6 +1432,7 @@ den Vorgang nachvollziehbar zu dokumentieren.
 
 
 #### § 22 Beleihungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002304128)
 
 (1) Die Beleihung ist auf Schiffe und Schiffsbauwerke beschränkt, die
 in einem öffentlichen Register eingetragen sind.
@@ -1489,6 +1520,7 @@ einer Verwertung. § 12 Absatz 3 Satz 2 gilt entsprechend.
 
 
 #### § 23 Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002401377)
 
 (1) Das Schiff oder das Schiffsbauwerk muss während der gesamten Dauer
 der Beleihung zumindest in Höhe von 110 Prozent der jeweiligen
@@ -1517,6 +1549,7 @@ Pfandbriefbank durch Vertrag eine entsprechende Sicherheit erhält.
 
 
 #### § 24 Beleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002503128)
 
 (1) Die als Grundlage für die Festsetzung des Schiffsbeleihungswertes
 dienende Wertermittlung ist von einem von der Kreditentscheidung
@@ -1554,6 +1587,7 @@ für Finanzdienstleistungsaufsicht übertragen.
 
 
 #### § 25 Abzahlungsbeginn
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002601377)
 
 Der Beginn der Abzahlung darf für einen Zeitraum, der die Dauer von
 zwei Jahren nicht übersteigt, hinausgeschoben werden; mit Genehmigung
@@ -1563,6 +1597,7 @@ verlängert werden.
 
 
 #### § 26 Weitere Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002706128)
 
 (1) Die in § 21 Satz 1 vorgeschriebene Deckung kann auch erfolgen
 
@@ -1620,10 +1655,12 @@ Maßgabe des § 19 Absatz 2 zulassen.
 
 
 ### Unterabschnitt 4 - Flugzeugpfandbriefe
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG001100377)
 
 
 
 #### § 26a Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005501128)
 
 Zur Deckung für Flugzeugpfandbriefe dürfen nur durch
 Registerpfandrechte nach § 1 des Gesetzes über Rechte an
@@ -1640,6 +1677,7 @@ Verwertung der Deckungswerte gefährdet ist.
 
 
 #### § 26b Beleihungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005603128)
 
 (1) Die Beleihung ist auf Flugzeuge im Sinne des § 1 Abs. 2 Satz 1 Nr.
 1 des Luftverkehrsgesetzes beschränkt, die in einem öffentlichen
@@ -1726,6 +1764,7 @@ entsprechend.
 
 
 #### § 26c Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005700377)
 
 (1) Das Flugzeug muss während der gesamten Dauer der Beleihung
 zumindest in Höhe von 110 Prozent der jeweiligen ausstehenden
@@ -1755,6 +1794,7 @@ Pfandbriefbank durch Vertrag eine entsprechende Sicherheit erhält.
 
 
 #### § 26d Beleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005802128)
 
 (1) Die als Grundlage für die Festsetzung des Flugzeugbeleihungswertes
 dienende Wertermittlung ist von einem von der Kreditentscheidung
@@ -1785,6 +1825,7 @@ Finanzdienstleistungsaufsicht übertragen.
 
 
 #### § 26e Abzahlungsbeginn
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005900377)
 
 Der Beginn der Abzahlung darf für einen Zeitraum, der die Dauer von
 zwei Jahren nicht übersteigt, hinausgeschoben werden; mit Genehmigung
@@ -1794,6 +1835,7 @@ verlängert werden.
 
 
 #### § 26f Weitere Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006005128)
 
 (1) Die in § 26a Satz 1 vorgeschriebene Deckung kann auch erfolgen
 
@@ -1853,10 +1895,12 @@ Derivategeschäfts zulassen.
 
 
 ## Abschnitt 4 - Allgemeine Vorschriften für das Pfandbriefgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000700000)
 
 
 
 ### § 27 Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002802128)
 
 (1) Die Pfandbriefbank muss für das Pfandbriefgeschäft über ein
 geeignetes Risikomanagementsystem verfügen. Das System hat die
@@ -1908,6 +1952,7 @@ Begründung dieser Darlehensforderungen überzeugt hat.
 
 
 ### § 27a Pfandbriefmeldungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006501128)
 
 (1) Die Pfandbriefbank hat der Bundesanstalt innerhalb von einem Monat
 nach Quartalsende auf das Quartalsende bezogen zu jeder Gattung im
@@ -1930,6 +1975,7 @@ diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ### § 28 Transparenzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE002908128)
 
 (1) Die Pfandbriefbank hat gesondert für ihre im Umlauf befindlichen
 Hypothekenpfandbriefe, Öffentlichen Pfandbriefe, Schiffspfandbriefe
@@ -2247,10 +2293,12 @@ der entsprechende Wert des Vorjahres anzugeben.
 
 
 ## Abschnitt 5 - Schutz vor Zwangsvollstreckung; Trennungsprinzip bei Insolvenz der Pfandbriefbank
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000801360)
 
 
 
 ### § 29 Schutz vor Zwangsvollstreckung, Arresten und Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003002360)
 
 Arreste und Zwangsvollstreckungen in alle in ein Deckungsregister
 eingetragenen Werte einschließlich der Werte im Sinne des § 30 Abs. 3
@@ -2261,6 +2309,7 @@ entsprechend anzuwenden.
 
 
 ### § 30 Trennungsprinzip bei Insolvenz der Pfandbriefbank; Fälligkeitsverschiebung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003110128)
 
 (1) Die in die Deckungsregister eingetragenen Werte einschließlich der
 Werte im Sinne des Absatzes 3 sowie die bei der Deutschen Bundesbank
@@ -2474,6 +2523,7 @@ Anwendung.
 
 
 ### § 31 Ernennung des Sachwalters; Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003210128)
 
 (1) Zuständig für die Ernennung des Sachwalters ist das gemäß Absatz
 11 zuständige Gericht. Die Bundesanstalt schlägt dem Gericht
@@ -2596,6 +2646,7 @@ Halbsatz 1 gilt nicht in den Fällen des § 30 Absatz 6a.
 
 
 ### § 31a Vergütung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006302128)
 
 (1) Der Sachwalter hat Anspruch auf Vergütung seiner Tätigkeit und
 Ersatz angemessener Auslagen. Die Höhe der Vergütung soll den Aufwand
@@ -2614,6 +2665,7 @@ Zivilprozessordnung statt.
 
 
 ### § 32 Übertragung der Deckungsmassen und -verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003301377)
 
 (1) Der Sachwalter kann mit schriftlicher Zustimmung der Bundesanstalt
 alle oder einen Teil der im Deckungsregister eingetragenen Werte
@@ -2654,6 +2706,7 @@ einzelnen Gegenstands ermöglicht; die Urkunden sind dem
 
 
 ### § 33 Handelsregistereintragung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003401377)
 
 (1) Der Sachwalter und das Vertretungsorgan der übernehmenden
 Pfandbriefbank haben die Übertragung zur Eintragung in das
@@ -2689,6 +2742,7 @@ Genossenschaftsregister.
 
 
 ### § 34 Übergang von Deckungswerten und -verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003502128)
 
 (1) Bei Eintragung der Übertragung in das Handelsregister des Sitzes
 der übertragenden Pfandbriefbank gehen die im Übertragungsvertrag
@@ -2707,6 +2761,7 @@ tritt.
 
 
 ### § 35 Treuhänderische Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003603128)
 
 (1) Mit schriftlicher Zustimmung der Bundesanstalt kann der Sachwalter
 mit einer anderen Pfandbriefbank vereinbaren, dass die in den
@@ -2739,6 +2794,7 @@ Deckungswerten zu vermerken.
 
 
 ### § 36 Teilweise Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003700000)
 
 Im Falle der teilweisen Übertragung der Deckungsmasse nach § 32 Abs. 1
 muss der bei der insolventen Pfandbriefbank verbleibende Teil der
@@ -2749,6 +2805,7 @@ Abs. 1.
 
 
 ### § 36a Trennungsprinzip bei Reorganisation oder Restrukturierung der Pfandbriefbank
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006104128)
 
 (1) Trifft die Abwicklungsbehörde bei einer Übertragung im Sinne des §
 107 des Sanierungs- und Abwicklungsgesetzes Bestimmungen zur
@@ -2802,10 +2859,12 @@ Instrumentes nach den Artikeln 24 bis 26 der Verordnung (EU) Nr.
 
 
 ## Abschnitt 6 - Rechtsbehelfe und Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG000900000)
 
 
 
 ### § 37 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003803128)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
@@ -2816,6 +2875,7 @@ Abs. 1, § 35 Abs. 1 Satz 1, § 36a Absatz 1 Satz 5 und Absatz 2 sowie §
 
 
 ### § 38 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE003900000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -2835,6 +2895,7 @@ bestraft, wer
 
 
 ### § 39 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004001128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2868,6 +2929,7 @@ fünfhunderttausend Euro geahndet werden.
 
 
 ### § 40 Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004100000)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt für
@@ -2875,6 +2937,7 @@ Finanzdienstleistungsaufsicht.
 
 
 ### § 40a Bekanntmachung von Maßnahmen und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006800128)
 
 (1) Die Bundesanstalt soll jede gegen eine ihrer Aufsicht
 unterstehende Pfandbriefbank oder gegen einen Geschäftsleiter einer
@@ -2929,10 +2992,12 @@ Kreditwesengesetzes oder nach § 38 zum Gegenstand hatte.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNG001000000)
 
 
 
 ### § 41 Bezeichnungsschutz Pfandbrief
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004203128)
 
 Schuldverschreibungen dürfen außer von Kreditinstituten, denen eine
 Erlaubnis zum Betreiben des Pfandbriefgeschäfts erteilt worden ist,
@@ -2968,6 +3033,7 @@ gebracht werden, wenn
 
 
 ### § 41a Bezeichnungsschutz Europäische gedeckte Schuldverschreibung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006900128)
 
 (1) Es ist verboten, ein Finanzinstrument unter der Bezeichnung
 „Europäische gedeckte Schuldverschreibung“ sowie deren Übersetzung in
@@ -3018,6 +3084,7 @@ bringen, es sei denn, bei dem Finanzinstrument handelt es sich um
 
 
 ### § 42 Erlaubnis für bestehende Pfandbriefbanken
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004300000)
 
 (1) Soweit ein Kreditinstitut vor dem 19. Juli 2005 zulässigerweise
 Pfandbriefe der in § 1 Abs. 1 Satz 2 Nr. 1 bis 3 genannten Gattungen
@@ -3045,6 +3112,7 @@ Hildesheim`schen ritterschaftlichen Kreditverein.
 
 
 ### § 43 Erlaubnis für Hypothekenbanken
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004400000)
 
 Für die bei Ablauf des 18. Juli 2005 zugelassenen Hypothekenbanken im
 Sinne des § 1 des Hypothekenbankgesetzes gilt die Erlaubnis für die in
@@ -3055,10 +3123,12 @@ beginnt am 19. Juli 2005.
 
 
 ### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004501128)
 
 
 
 ### § 45 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004601118)
 
 Hypotheken, die den Pfandbriefbanken zu Beginn des 19. Juli 2005
 zustehen, sind zur Deckung der von ihnen ausgegebenen
@@ -3073,6 +3143,7 @@ Maßgabe des § 23 Abs. 1 Satz 1 versichert ist.
 
 
 ### § 46 Beleihungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004700000)
 
 (1) Hypotheken, die vor dem 13. Oktober 2004 in ein bei der
 Pfandbriefbank geführtes Deckungsregister für Hypothekenpfandbriefe
@@ -3089,14 +3160,17 @@ Beleihungsgrenze die Grenze nach Absatz 1 maßgeblich ist.
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004801128)
 
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE004901128)
 
 
 
 ### § 49 Fortgeltende Deckungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005007128)
 
 (1) Abweichend von § 20 Absatz 1 Nummer 1 Buchstabe a sind Forderungen
 gegen solche Kreditinstitute, die in der Rechtsform einer Körperschaft
@@ -3171,6 +3245,7 @@ zweiter Halbsatz, § 20 Absatz 3, § 22 Absatz 5 Satz 2 und § 26b Absatz
 
 
 ### § 50 Fortgeltung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005100000)
 
 (1) Im Falle des § 2 Abs. 3 gelten für öffentlich-rechtliche
 Kreditanstalten hinsichtlich der von ihnen nach den Vorschriften des
@@ -3222,6 +3297,7 @@ handelt.
 
 
 ### § 51 Getrennter Pfandbriefumlauf
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005201377)
 
 Abweichend von § 4 Abs. 1 bis 2 kann eine Pfandbriefbank die von ihr
 vor Inkrafttreten dieses Gesetzes begebenen Pfandbriefe weiter nach
@@ -3240,6 +3316,7 @@ bisherigen Deckungsregisters nicht anzuwenden.
 
 
 ### § 52 Fortgeltende Bestimmungen des Gesetzes zur Änderung und Ergänzung des Schiffsbankgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005300000)
 
 (1) Wird für eine Forderung, die in ausländischer Währung zu zahlen
 ist, eine Schiffshypothek in das Schiffsregister eingetragen, so kann
@@ -3259,6 +3336,7 @@ Anwendungsbereich unverändert anwendbar.
 
 
 ### § 53 Übergangsvorschrift zum CRD IV-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE005403360)
 
 § 28 Absatz 1 bis 3 dieses Gesetzes in der ab dem 1. Januar 2014
 geltenden Fassung ist erstmals auf das am 1. April 2014 beginnende
@@ -3273,6 +3351,7 @@ letztmalig auf das am 31. März 2015 endende Quartal anzuwenden.
 
 
 ### § 54 Übergangsvorschrift zum BRRD-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE006400118)
 
 § 28 Absatz 1 bis 4 dieses Gesetzes in der ab dem 19. Dezember 2014
 geltenden Fassung ist erstmals auf das am 1. April 2015 beginnende
@@ -3289,6 +3368,7 @@ anzuwenden.
 
 
 ### § 55 Übergangsvorschrift zum CBD-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/pfandbg/BJNR137310005.html#BJNR137310005BJNE007000128)
 
 § 28 Absatz 5 ist in Bezug auf die Angaben nach § 28 Absatz 1 Satz 1
 Nummer 2, 3, 5, 6, 8 bis 10 und 12 in der ab dem 8. Juli 2022

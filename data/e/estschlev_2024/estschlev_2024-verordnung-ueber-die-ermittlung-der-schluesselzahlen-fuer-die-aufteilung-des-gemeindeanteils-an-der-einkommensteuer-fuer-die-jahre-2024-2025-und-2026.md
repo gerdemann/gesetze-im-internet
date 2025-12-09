@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die V tritt gem. § 5 Abs. 2 mit Ablauf des 31.12.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000100000)
 
 Auf Grund des § 3 Absatz 3 in Verbindung mit Absatz 1 des
 Gemeindefinanzreformgesetzes, von dem Absatz 1 zuletzt durch Artikel 1
@@ -27,6 +28,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Grundlagen für die Ermittlung der Schlüsselzahlen
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000200000)
 
 (1) Für die Ermittlung der Schlüsselzahlen für die Aufteilung des
 Gemeindeanteils an der Einkommensteuer für die Jahre 2024, 2025 und
@@ -53,6 +55,7 @@ steuerpflichtigen Personen ist die einbehaltene Lohnsteuer maßgebend.
 
 
 ## § 2 Zurechnung der Steuerbeträge an die Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000300000)
 
 Für die Zurechnung der Steuerbeträge an die Gemeinden ist der Wohnsitz
 der steuerpflichtigen Person zum Zeitpunkt der Abgabe der
@@ -66,12 +69,14 @@ nach § 7 Absatz 2 des Zerlegungsgesetzes festgestellte Gemeinde.
 
 
 ## § 3 Rundung der Schlüsselzahlen
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000400000)
 
 Die Schlüsselzahlen sind auf die siebte Stelle nach dem Komma zu
 runden.
 
 
 ## § 4 Neufestsetzung der Schlüsselzahlen bei kommunaler Neugliederung
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000500000)
 
 Werden Gemeinden neu gegliedert, so sind die Schlüsselzahlen für die
 betroffenen Gemeinden von dem auf die Neugliederung folgenden Jahr an
@@ -84,6 +89,7 @@ die in die Gemeinden aufgenommen wurden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000600000)
 
 (1) Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
@@ -92,6 +98,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/estschlev_2024/BJNR11C0A0023.html#BJNR11C0A0023BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

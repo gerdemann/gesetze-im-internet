@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000201119)
 
 (1) Diese Verordnung gilt auf allen Bundeswasserstraßen der Zonen 1
 bis 4 nach Anhang I der Binnenschiffsuntersuchungsordnung vom 21.
@@ -60,6 +62,7 @@ in der jeweils geltenden Fassung nach Maßgabe des Absatzes 2.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000302119)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -360,6 +363,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ### § 3 Vorübergehende Abweichungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000400000)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
 ermächtigt, durch Rechtsverordnung von dieser Verordnung abweichende
@@ -392,6 +396,7 @@ Vorschriften bis zur Dauer von drei Jahren zu erlassen
 
 
 ### § 4 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000500000)
 
 Zuständige Behörde für die Wahrnehmung der Aufgaben nach dieser
 Verordnung ist die Generaldirektion Wasserstraßen und Schifffahrt,
@@ -399,6 +404,7 @@ soweit in dieser Verordnung nichts Abweichendes bestimmt ist.
 
 
 ### § 5 Identitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000600000)
 
 Ist für die Erteilung oder die Verlängerung von Befähigungszeugnissen
 nach dieser Verordnung der Nachweis der Identität des die Erteilung
@@ -412,6 +418,7 @@ elektronisch nachgewiesen werden.
 
 
 ### § 6 Handlungsfähigkeit von Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000700000)
 
 Verfahrenshandlungen im Zusammenhang mit dem Erwerb von Befähigungen
 oder Schifferdienstbüchern sowie der Aussetzung und dem Entzug von
@@ -420,6 +427,7 @@ vollendet hat.
 
 
 ### § 7 Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000800000)
 
 Wenn nach dieser Verordnung ausländische, fremdsprachige Dokumente
 vorgelegt werden können, sind diese in amtlich beglaubigter deutscher
@@ -429,6 +437,7 @@ Zentralkommission für die Rheinschifffahrt handelt.
 
 
 ### § 8 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE000900000)
 
 Die Gebühren und Auslagen für individuell zurechenbare öffentliche
 Leistungen nach dieser Verordnung bemessen sich nach der BMVI-
@@ -437,12 +446,15 @@ Oktober 2021 (BGBl. I S. 4744) in der jeweils geltenden Fassung.
 
 
 ## Teil 2 - Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000200000)
 
 
 ### Kapitel 1 - Befähigungszeugnisse der Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000300000)
 
 
 #### § 9 Befähigungszeugnisse für Besatzungsmitglieder auf Einstiegsebene und Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001001119)
 
 (1) Wer als Mitglied der Besatzung eines Fahrzeugs auf der
 Einstiegsebene oder der Betriebsebene tätig ist, bedarf für die von
@@ -495,6 +507,7 @@ worden ist.
 
 
 #### § 10 Befähigungszeugnisse für das Maschinenpersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001102119)
 
 (1) Wer als Mitglied des Maschinenpersonals tätig ist, bedarf hierfür
 eines im Schifferdienstbuch eingetragenen Befähigungszeugnisses für
@@ -536,6 +549,7 @@ Befähigungszeugnis für maschinenkundiges Personal.
 
 
 #### § 11 Befähigungszeugnisse für Besatzungsmitglieder auf Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001202119)
 
 (1) Wer ein Schiff führt, bedarf eines nach
 
@@ -601,6 +615,7 @@ ausreichend.
 
 
 #### § 12 Ausnahme von der Pflicht zum Besitz eines Befähigungszeugnisses für die Besatzungsmitglieder auf Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001303119)
 
 (1) Keines Befähigungszeugnisses für Schiffsführer und
 Schiffsführerinnen bedarf nach dieser Verordnung, wer
@@ -679,6 +694,7 @@ sowie Fähren.
 
 
 #### § 13 Amtlicher Berechtigungsschein
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001402119)
 
 (1) Wer eines der folgenden Fahrzeuge führt, kann seine Befähigung
 auch durch einen amtlichen Berechtigungsschein nachweisen:
@@ -707,6 +723,7 @@ sein.
 
 
 #### § 14 Befreiungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001501119)
 
 Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann
 erlauben, dass
@@ -725,6 +742,7 @@ erlauben, dass
 
 
 #### § 15 Geltungsbereich der Befähigungszeugnisse auf Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001602119)
 
 (1) Das Unionspatent berechtigt zum Führen von Fahrzeugen aller Art
 auf Wasserstraßen der Zonen 3 und 4.
@@ -765,6 +783,7 @@ Zonen 1 und 2.
 
 
 #### § 16 Besondere Berechtigungen für das Führen von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001704119)
 
 (1) Wer als Schiffsführer oder Schiffsführerin ein Fahrzeug führt,
 bedarf zusätzlich zu dem nach § 11 Absatz 1, auch in Verbindung mit
@@ -850,6 +869,7 @@ aufgrund von Baumaßnahmen erforderlich ist.
 
 
 #### § 17 Befähigungszeugnisse für das Sicherheitspersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001802119)
 
 (1) Wer als Sachkundiger oder Sachkundige für Flüssigerdgas (LNG) oder
 als Sachkundiger oder Sachkundige für die Fahrgastschifffahrt tätig
@@ -923,6 +943,7 @@ worden ist.
 
 
 #### § 18 Erfassung der Befähigungszeugnisse und Schifferdienstbücher im Befähigungsregister
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE001901119)
 
 (1) Die ausstellende Behörde ist befugt, jedes nach dieser Verordnung
 erteilte oder verlängerte Befähigungszeugnis, mit Ausnahme der
@@ -951,6 +972,7 @@ die Unionsdatenbank der EU-Kommission anzubinden.
 
 
 #### § 19 Abhandengekommene Befähigungszeugnisse, Schifferdienstbücher und Bordbücher
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002000000)
 
 (1) Ist ein Befähigungszeugnis, ein Schifferdienstbuch oder ein
 Bordbuch zerstört oder, insbesondere durch Diebstahl oder Verlust,
@@ -998,12 +1020,15 @@ maßgeblich.
 
 
 ### Kapitel 2 - Erwerb von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000400000)
 
 
 #### Abschnitt 1 - Allgemeine Voraussetzungen für den Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000500000)
 
 
 ##### § 20 Medizinische Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002100000)
 
 Alle Mitglieder der Besatzung müssen medizinisch tauglich sein. Das
 ist der Fall, wenn sie die Voraussetzungen für die medizinische
@@ -1012,6 +1037,7 @@ gilt Satz 2 vorbehaltlich der Bestimmungen des § 23.
 
 
 ##### § 21 Erstmaliger Nachweis der medizinischen Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002201119)
 
 (1) Die medizinische Tauglichkeit ist vom Besatzungsmitglied für jede
 Erteilung eines Befähigungszeugnisses durch den Tauglichkeitsnachweis
@@ -1067,6 +1093,7 @@ Rheinschifffahrt anerkannt worden ist.
 
 
 ##### § 22 Regelmäßiger Nachweis der medizinischen Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002301119)
 
 (1) Die medizinische Tauglichkeit ist ab Vollendung des 60.
 Lebensjahres alle fünf Jahre und ab Vollendung des 70. Lebensjahres
@@ -1118,6 +1145,7 @@ Satz 1.
 
 
 ##### § 23 Medizinische Tauglichkeit der Maschinenkundigen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002400000)
 
 Abweichend von § 20 gelten für die medizinische Tauglichkeit der
 Maschinenkundigen in Hinblick auf ihr Sehvermögen die Vorgaben für den
@@ -1126,6 +1154,7 @@ Anlage 1 der Maritime-Medizin-Verordnung.
 
 
 ##### § 24 Zuständigkeit für die Durchführung von Tauglichkeitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002501119)
 
 (1) Die Tauglichkeitsuntersuchungen nach den §§ 21 und 22 dürfen
 vorbehaltlich des § 21 Absatz 5 nur von Ärzten oder Ärztinnen
@@ -1148,6 +1177,7 @@ ist nicht übertragbar.
 
 
 ##### § 25 Fahrzeit
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002602119)
 
 (1) Fahrzeit kann von Mitgliedern der Besatzung erworben werden, wenn
 sie an Bord eines Fahrzeugs eingesetzt sind, das sich auf
@@ -1243,6 +1273,7 @@ der Binnenschiffsuntersuchungsordnung genügt.
 
 
 ##### § 26 Nachweis der Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002702119)
 
 (1) Fahrzeiten werden durch ein den Anforderungen des § 27 Absatz 1
 Satz 1 genügendes Schifferdienstbuch nachgewiesen.
@@ -1306,6 +1337,7 @@ müssen diese die folgenden Angaben enthalten:
 
 
 ##### § 27 Anerkennung von Fahrzeit
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002801119)
 
 (1) Sind für den Erwerb eines Befähigungszeugnisses Fahrzeiten
 vorgeschrieben, müssen diese von einer der nachfolgend genannten
@@ -1343,6 +1375,7 @@ anderen geeigneten Belegen verlangen.
 
 
 ##### § 28 Schifferdienstbuch
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE002901119)
 
 (1) Mitglieder der Mindestbesatzung auf Einstiegsebene und
 Betriebsebene sowie das Maschinenpersonal benötigen stets ein
@@ -1399,9 +1432,11 @@ Schifferdienstbuches unterzeichnet sein.
 
 
 #### Abschnitt 2 - Einstiegsebene, Betriebsebene und Maschinenpersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000600000)
 
 
 ##### § 29 Decksleute
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003002119)
 
 Wer ein Unionsbefähigungszeugnis als Decksmann oder Decksfrau erwerben
 will, muss
@@ -1421,6 +1456,7 @@ Deutschland anerkanntes, ausländisches Zeugnis verfügen.
 
 
 ##### § 30 Leichtmatrose und Leichtmatrosin
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003101119)
 
 Wer ein Unionsbefähigungszeugnis als Leichtmatrose oder Leichtmatrosin
 erwerben will, muss
@@ -1445,6 +1481,7 @@ erwerben will, muss
 
 
 ##### § 31 Matrose und Matrosin
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003202119)
 
 Wer ein Unionsbefähigungszeugnis als Matrose oder Matrosin erwerben
 will, muss
@@ -1510,6 +1547,7 @@ will, muss
 
 
 ##### § 32 Bootsleute
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003302119)
 
 Wer ein Unionsbefähigungszeugnis als Bootsmann oder Bootsfrau erwerben
 will, muss
@@ -1537,6 +1575,7 @@ will, muss
 
 
 ##### § 33 Steuerleute
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003402119)
 
 Wer ein Unionsbefähigungszeugnis als Steuermann oder Steuerfrau
 erwerben will, muss
@@ -1591,6 +1630,7 @@ erwerben will, muss
 
 
 ##### § 34 Maschinenkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003501119)
 
 (1) Wer ein Befähigungszeugnis als Maschinenkundiger oder
 Maschinenkundige erwerben will, muss
@@ -1662,6 +1702,7 @@ Maschinenkundige erwerben will, muss
 
 
 ##### § 35 Behördliche Befähigungsprüfung für die Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003602119)
 
 (1) Gegenstand der behördlichen Befähigungsprüfung für die
 Betriebsebene sind die Kenntnisse der Anlage 8. Die Prüfung wird als
@@ -1672,13 +1713,16 @@ und besteht aus Antwort-Wahl-Aufgaben.
 
 
 ##### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003701119)
 
 
 
 #### Abschnitt 3 - Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000700000)
 
 
 ##### § 37 Erwerb des Unionspatentes
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003802119)
 
 Wer ein Unionspatent erwerben will, muss
 
@@ -1760,6 +1804,7 @@ Wer ein Unionspatent erwerben will, muss
 
 
 ##### § 38 Behördliche Befähigungsprüfung zum Unionspatent
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE003902119)
 
 (1) Gegenstand der Prüfung zum Unionspatent sind die Kenntnisse und
 Fertigkeiten nach Anlage 9. Die Prüfung besteht aus einem
@@ -1805,6 +1850,7 @@ oder Matrosin vor dem 18. Januar 2022 erworben haben.
 
 
 ##### § 39 Erwerb des Schifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004001119)
 
 (1) Wer ein Schifferzeugnis erwerben möchte, muss
 
@@ -1927,6 +1973,7 @@ Unzuverlässig ist insbesondere,
 
 
 ##### § 40 Behördliche Befähigungsprüfung zum Erwerb des Schifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004102119)
 
 (1) Die behördlichen Befähigungsprüfungen zum Erwerb des
 Schifferzeugnisses bestehen aus einem theoretischen und einem
@@ -1992,9 +2039,11 @@ Fährstelle abzulegen.
 
 
 #### Abschnitt 4 - Voraussetzungen für besondere Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000800000)
 
 
 ##### § 41 Erwerb der besonderen Berechtigung für Radar
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004200000)
 
 (1) Wer eine besondere Berechtigung für Radar erwerben will, muss
 
@@ -2053,6 +2102,7 @@ Fährstelle begrenzt.
 
 
 ##### § 42 Erwerb der besonderen Berechtigung für Risikostrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004301119)
 
 (1) Wer eine besondere Berechtigung für Risikostrecken erwerben will,
 muss
@@ -2107,6 +2157,7 @@ Drittstaat festgelegt wird.
 
 
 ##### § 43 Erwerb der besonderen Berechtigung für maritime Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004401119)
 
 (1) Wer eine besondere Berechtigung für maritime Wasserstraßen
 erwerben will, muss
@@ -2138,6 +2189,7 @@ nach dem STCW-Übereinkommen.
 
 
 ##### § 44 Erwerb der besonderen Berechtigung für Großverbände
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004500000)
 
 Wer die besondere Berechtigung für Großverbände erwerben will, muss
 
@@ -2156,6 +2208,7 @@ Wer die besondere Berechtigung für Großverbände erwerben will, muss
 
 
 ##### § 45 Zeitpunkt der Prüfungen für besondere Berechtigungen für Radar, maritime Wasserstraßen und Risikostrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004601119)
 
 (1) Wer noch kein Befähigungszeugnis als Schiffsführer oder
 Schiffsführerin besitzt, aber bereits den theoretischen Prüfungsteil
@@ -2178,9 +2231,11 @@ Berechtigung erneut abgelegt werden.
 
 
 #### Abschnitt 5 - Sicherheitspersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG000900000)
 
 
 ##### § 46 Erwerb des Unionsbefähigungszeugnisses für Sachkundige für Flüssigerdgas
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004700000)
 
 Wer ein Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas
 erwerben möchte, muss
@@ -2196,6 +2251,7 @@ erwerben möchte, muss
 
 
 ##### § 47 Lehrgang zur Sachkunde für Flüssigerdgas
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004801119)
 
 (1) Der Lehrgang zur Sachkunde für Flüssigerdgas muss nach § 56
 zugelassen sein und enthalten:
@@ -2228,6 +2284,7 @@ technischen Anforderungen nach Anlage 18 entspricht.
 
 
 ##### § 48 Erwerb des Unionsbefähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE004901119)
 
 Wer ein Unionsbefähigungszeugnis für Sachkundige für die
 Fahrgastschifffahrt erwerben will, muss
@@ -2244,6 +2301,7 @@ Fahrgastschifffahrt erwerben will, muss
 
 
 ##### § 49 Basislehrgang für Sachkundige für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005001119)
 
 (1) Der Basislehrgang muss nach § 56 zugelassen sein und enthalten:
 
@@ -2275,6 +2333,7 @@ Anforderungen nach Anlage 20 entspricht.
 
 
 ##### § 50 Auffrischungslehrgang für Sachkundige für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005101119)
 
 Der Auffrischungslehrgang muss nach § 56 zugelassen sein und aus der
 Anlage 19 Schwerpunkte zu typischen Gefahrensituationen, insbesondere
@@ -2284,6 +2343,7 @@ vermitteln. § 49 Absatz 2 bis 5 gilt entsprechend.
 
 
 ##### § 51 Atemschutzgerättragende Personen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005200000)
 
 (1) Wer eine Bescheinigung als atemschutzgerättragende Person erwerben
 will, muss
@@ -2305,6 +2365,7 @@ nachweist.
 
 
 ##### § 52 Durchführung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005301119)
 
 Die nach diesem Abschnitt für den Erwerb von Befähigungszeugnissen
 vorgeschriebenen Prüfungen sind im Rahmen des zugelassenen Lehrgangs
@@ -2312,15 +2373,18 @@ durch den Anbieter abzunehmen.
 
 
 #### Abschnitt 6 - Zulassung von Lehrgängen, Ausbildungsprogrammen und Weiterbildungsprogrammen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001001119)
 
 
 ##### § 53 Lehrgänge für die grundlegende Sicherheitsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005400000)
 
 Das Verfahren zur Zulassung von Lehrgängen für die grundlegende
 Sicherheitsausbildung bestimmt sich nach Anlage 21.
 
 
 ##### § 54 Lehrgänge für Maschinenkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005501119)
 
 Lehrgänge für Maschinenkundige lässt das Bundesministerium für
 Digitales und Verkehr zu. Die Voraussetzungen und das Verfahren hierzu
@@ -2328,6 +2392,7 @@ bestimmen sich nach Anlage 22.
 
 
 ##### § 55 Ausbildungsprogramme und Weiterbildungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005601119)
 
 (1) Zugelassenes Ausbildungsprogramm für die Betriebsebene sind
 
@@ -2410,6 +2475,7 @@ Absatz 2, 4 und 5 gilt entsprechend.
 
 
 ##### § 56 Voraussetzungen für die Zulassung von Lehrgängen für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005701119)
 
 Basislehrgänge oder Auffrischungslehrgänge lässt die zuständige
 Behörde unter den folgenden Voraussetzungen zu:
@@ -2445,6 +2511,7 @@ Behörde unter den folgenden Voraussetzungen zu:
 
 
 ##### § 57 Verfahren zur Zulassung von Lehrgängen für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005802119)
 
 (1) Der Antrag auf Zulassung von Basislehrgängen oder
 Auffrischungslehrgängen für Sachkundige ist schriftlich oder
@@ -2489,6 +2556,7 @@ Ausbildungsprogramme sowie der entsprechenden Prüfungen zu prüfen.
 
 
 ##### § 58 Lehrgänge für atemschutzgerättragende Personen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE005902119)
 
 (1) Die Voraussetzungen und das Verfahren zur Zulassung von
 Grundlehrgängen und Wiederholungslehrgängen für
@@ -2505,12 +2573,15 @@ elektronisch eine Übersicht der nach Satz 1 zugelassenen Lehrgänge.
 
 
 ### Kapitel 3 - Verfahren für die Prüfung der Befähigung, die Erteilung von Befähigungszeugnissen und Ausstellung von Schifferdienstbüchern und ihre Gültigkeit und Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001100000)
 
 
 #### Abschnitt 1 - Verfahren auf Einstiegsebene und Betriebsebene sowie für das Maschinenpersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001200000)
 
 
 ##### § 59 Durchführung der behördlichen Befähigungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006001119)
 
 Zuständig für die Durchführung der behördlichen Befähigungsprüfung für
 die Betriebsebene sind die nach § 71 Absatz 2 des
@@ -2528,6 +2599,7 @@ Regelung von Gebühren und Auslagen zuständig.
 
 
 ##### § 60 Ausstellung des Schifferdienstbuches
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006100000)
 
 Das Schifferdienstbuch für die Besatzungsmitglieder auf der
 Einstiegsebene und der Betriebsebene sowie für das Maschinenpersonal
@@ -2537,6 +2609,7 @@ ausgestellt.
 
 
 ##### § 61 Erteilung des Unionsbefähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006201119)
 
 Ein Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein
 Unionsbefähigungszeugnis für die Einstiegsebene oder die
@@ -2549,6 +2622,7 @@ und Schifffahrtsamt zu stellen.
 
 
 ##### § 62 Erteilung des Unionsbefähigungszeugnisses nach Abschluss eines zugelassenen Ausbildungsprogramms oder Weiterbildungsprogramms
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006302119)
 
 (1) Wer in einem Ausbildungsprogramm oder Weiterbildungsprogramm die
 nötigen Kenntnisse und Fertigkeiten für die Betriebsebene erworben
@@ -2588,6 +2662,7 @@ Schifffahrtsamt nach § 61 zu erteilen, wenn die antragstellende Person
 
 
 ##### § 63 Ablaufen und Verlängerung der Unionsbefähigungszeugnisse für die Einstiegsebene und die Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006401119)
 
 (1) Die Unionsbefähigungszeugnisse für die Einstiegsebene und die
 Betriebsebene sind bis zur Vollendung des 60. Lebensjahrs gültig. Nach
@@ -2608,6 +2683,7 @@ Zeitpunkten verlängert werden.
 
 
 ##### § 64 Befähigungszeugnis für Maschinenkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006500000)
 
 (1) Ein Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein
 Befähigungszeugnis für Maschinenkundige, wenn die antragstellende
@@ -2634,12 +2710,15 @@ Zeitpunkten verlängert werden.
 
 
 #### Abschnitt 2 - Verfahren auf Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001300000)
 
 
 ##### Unterabschnitt 1 - Behördliche Befähigungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001400000)
 
 
 ###### § 65 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006602119)
 
 (1) Die behördliche Befähigungsprüfung auf Führungsebene wird von der
 zuständigen Behörde durchgeführt.
@@ -2657,6 +2736,7 @@ Regelung von Gebühren und Auslagen zuständig.
 
 
 ###### § 66 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006700000)
 
 (1) An der Prüfung kann nur teilnehmen, wer hierzu zugelassen wurde.
 
@@ -2675,6 +2755,7 @@ ist.
 
 
 ###### § 67 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006800000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Voraussetzungen für den Erwerb
 des jeweiligen Befähigungszeugnisses nach Kapitel 2 Abschnitt 1 und
@@ -2703,6 +2784,7 @@ ersetzt werden.
 
 
 ###### § 68 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE006900000)
 
 (1) Die zuständige Behörde hat zu jeder Prüfung eine
 Prüfungskommission zu bilden, die die Prüfung abnimmt. Diese besteht
@@ -2745,6 +2827,7 @@ der das Mitglied angehört.
 
 
 ###### § 69 Bestellung der beisitzenden Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007000000)
 
 (1) Die beisitzenden Mitglieder müssen
 
@@ -2795,6 +2878,7 @@ regelmäßig zu schulen.
 
 
 ###### § 70 Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007101119)
 
 (1) Wer über ein Befähigungszeugnis für das Führen eines Fahrzeugs
 verfügt, kann von dem theoretischen oder dem praktischen Teil der
@@ -2836,6 +2920,7 @@ Risikostrecke nur einmal Gebrauch machen.
 
 
 ###### § 71 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007200000)
 
 Bei der Durchführung der Prüfung sollen die besonderen Verhältnisse
 von Menschen mit Behinderungen berücksichtigt werden. Dies gilt
@@ -2844,6 +2929,7 @@ und die Inanspruchnahme von Hilfeleistungen Dritter.
 
 
 ###### § 72 Nachprüfungen von Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007301119)
 
 (1) Wurde eine Prüfung nur wegen eines Teils nicht bestanden, so kann
 dieser Teil nachgeprüft werden.
@@ -2866,6 +2952,7 @@ wird die gesamte Prüfung als nicht bestanden gewertet.
 
 
 ###### § 73 Wiederholung der gesamten Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007400000)
 
 (1) Wurde die Prüfung insgesamt nicht bestanden, kann sie wiederholt
 werden. Dazu ist ein neuer Antrag nach § 66 und eine neue Zulassung
@@ -2892,6 +2979,7 @@ Prüfungskommission durchgeführt werden.
 
 
 ###### § 74 Ausschluss von der Prüfung; Aberkennung der Prüfungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007500000)
 
 (1) Prüflinge, deren Identität nicht eindeutig festgestellt werden
 kann, sind durch das vorsitzende Mitglied der Prüfungskommission von
@@ -2927,6 +3015,7 @@ zuständigen Behörde zurückzugeben.
 
 
 ###### § 75 Bewertung der Prüfungsleistung, Gültigkeit der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007601119)
 
 (1) Die Prüfungsteile werden jeweils einzeln bewertet. Zum Bestehen
 der Prüfung müssen alle Prüfungsteile innerhalb von zwei Jahren
@@ -2988,6 +3077,7 @@ Programmierfehler.
 
 
 ###### § 76 Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007700000)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 durch Rechtsverordnung die Einzelheiten des Verfahrens zur Zulassung
@@ -2996,6 +3086,7 @@ zu regeln.
 
 
 ###### § 77 Bereitstellung von Prüfungsfragen und -antworten für andere Staaten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007800000)
 
 (1) Die zuständige Behörde stellt vorbehaltlich des Absatzes 2 Nummer
 1 und des Absatzes 3 auf Anfrage der zuständigen Behörde eines anderen
@@ -3070,9 +3161,11 @@ Absatzes 1 zulassen.
 
 
 ##### Unterabschnitt 2 - Befähigungszeugnisse, Schifferdienstbücher
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001500000)
 
 
 ###### § 78 Erteilung des Befähigungszeugnisses für Schiffsführer und Schiffsführerinnen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE007902119)
 
 (1) Die zuständige Behörde erteilt auf Antrag ein Unionspatent oder
 ein Schifferzeugnis, wenn die antragstellende Person die jeweiligen
@@ -3118,6 +3211,7 @@ und gilt befristet, längstens bis zum Erhalt des Zeugnisses.
 
 
 ###### § 79 Erteilung der besonderen Berechtigung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008000000)
 
 (1) Die zuständige Behörde erteilt auf Antrag eine besondere
 Berechtigung, wenn die antragstellende Person die jeweiligen
@@ -3150,6 +3244,7 @@ nach § 41 Absatz 4 wird mit einem
 
 
 ###### § 80 Erteilung des Unionspatentes nach Abschluss eines zugelassenen Ausbildungsprogramms
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008102119)
 
 (1) Wer ein zugelassenes Ausbildungsprogramm auf Führungsebene
 erfolgreich abgeschlossen hat, kann die Erteilung eines Unionspatentes
@@ -3178,6 +3273,7 @@ Aussetzung nach § 91 oder für seinen Entzug nach § 94 vorlägen.
 
 
 ###### § 81 Ablaufen und Verlängerung des Unionspatentes
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008201119)
 
 (1) Das Unionspatent ist 13 Jahre ab Ausstellungsdatum nach dem Tag
 seiner Ausstellung gültig. Vollendet der Inhaber oder die Inhaberin
@@ -3201,6 +3297,7 @@ Absatz 2 und 4 entsprechend.
 
 
 ###### § 82 Ablaufen und Verlängerung des Schifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008301119)
 
 (1) Das Schifferzeugnis läuft mit Vollendung des 60. Lebensjahres ab.
 
@@ -3209,6 +3306,7 @@ entsprechend.
 
 
 ###### § 83 Ablaufen und Verlängerung der besonderen Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008400000)
 
 (1) Die besonderen Berechtigungen der §§ 41 bis 44 laufen an dem Tag
 ab, an dem das jeweilige Befähigungszeugnis als Schiffsführer oder
@@ -3222,6 +3320,7 @@ unbefristet.
 
 
 ###### § 84 Ausstellung des Schifferdienstbuches
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008500000)
 
 Das Schifferdienstbuch für die Führungsebene wird von einem
 Wasserstraßen- und Schifffahrtsamt nach dem Muster des Anhangs IV der
@@ -3229,9 +3328,11 @@ Durchführungsverordnung (EU) 2020/182 ausgestellt.
 
 
 #### Abschnitt 3 - Verfahren für das Sicherheitspersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001600000)
 
 
 ##### § 85 Erteilung des Unionsbefähigungszeugnisses für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008602119)
 
 (1) Das Wasserstraßen- und Schifffahrtsamt erteilt auf Antrag ein
 Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas nach Satz
@@ -3278,6 +3379,7 @@ versehen werden.
 
 
 ##### § 86 Ablaufen und Verlängerung des Unionsbefähigungszeugnisses für Sachkundige für Flüssigerdgas
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008701119)
 
 (1) Das Unionsbefähigungszeugnis für Sachkundige für Flüssigerdgas ist
 fünf Jahre ab Ausstellungsdatum gültig.
@@ -3309,6 +3411,7 @@ nachweisen können, dass sie
 
 
 ##### § 87 Ablaufen und Verlängerung des Unionsbefähigungszeugnisses für Sachkundige für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008801119)
 
 (1) Das Unionsbefähigungszeugnis für Sachkundige für die
 Fahrgastschifffahrt ist fünf Jahre ab Ausstellungsdatum gültig.
@@ -3325,6 +3428,7 @@ verlängerte Zeugnisse.
 
 
 ##### § 88 Ablaufen der Befähigungszeugnisse für atemschutzgerättragende Personen; Wiederholungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE008901119)
 
 (1) Die Bescheinigung für atemschutzgerättragende Personen nach § 17
 Absatz 6 Nummer 1 über die Teilnahme am Grundlehrgang ist zwei Jahre
@@ -3343,9 +3447,11 @@ auszustellen.
 
 
 #### Abschnitt 4 - Zulassung von Simulatoren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001700000)
 
 
 ##### § 89 Voraussetzungen für die Zulassung und den Widerruf der Zulassung von Simulatoren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009001119)
 
 (1) Fahrsimulatoren und Radarsimulatoren sind für den Einsatz in
 praktischen Prüfungen zuzulassen, wenn sie die Anforderungen der
@@ -3357,6 +3463,7 @@ Anlage 30 nicht mehr erfüllt.
 
 
 ##### § 90 Zuständigkeit und Verfahren für die Zulassung von Simulatoren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009100000)
 
 (1) Der Antrag auf Zulassung eines Fahr- oder Radarsimulators ist
 schriftlich oder elektronisch bei der zuständigen Behörde zu stellen.
@@ -3365,9 +3472,11 @@ schriftlich oder elektronisch bei der zuständigen Behörde zu stellen.
 
 
 ### Kapitel 4 - Überprüfung, Aussetzung und Entzug von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001800000)
 
 
 #### § 91 Aussetzung der Befähigungszeugnisse als Schiffsführer und Schiffsführerinnen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009202119)
 
 (1) Die zuständige Behörde kann das Gebrauchmachen eines
 Befähigungszeugnisses als Schiffsführer und Schiffsführerinnen, das
@@ -3407,6 +3516,7 @@ der Aussetzung, der Dauer der Aussetzung sowie deren Begründung.
 
 
 #### § 92 Aussetzung ausländischer Unionspatente
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009300000)
 
 (1) Die zuständige Behörde kann die Gültigkeit eines von der
 zuständigen Behörde eines anderen Mitgliedstaates der Europäischen
@@ -3425,6 +3535,7 @@ die ausstellende ausländische Behörde.
 
 
 #### § 93 Aussetzung anderer Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009400000)
 
 (1) In entsprechender Anwendung des § 91 kann ein Wasserstraßen- und
 Schifffahrtsamt die Gültigkeit eines nach dieser Verordnung erteilten
@@ -3449,6 +3560,7 @@ worden sind. § 92 Absatz 2 gilt entsprechend.
 
 
 #### § 94 Entzug des Befähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009501119)
 
 (1) Entfällt nachträglich eine Voraussetzung für die Erteilung eines
 Befähigungszeugnisses oder für eine besondere Berechtigung, das oder
@@ -3503,6 +3615,7 @@ ausstellenden Behörde mit.
 
 
 #### § 95 Sicherstellung des Befähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009600000)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass ein als
 Karte erteiltes oder in einem Schifferdienstbuch eingetragenes
@@ -3532,9 +3645,11 @@ der ausstellenden Behörde nicht angeordnet wird.
 
 
 ## Teil 3 - Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG001900000)
 
 
 ### § 96 Allgemeines zu den Besatzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009702119)
 
 (1) Die Besatzung, die sich während der Fahrt an Bord von Fahrzeugen
 im Sinne des § 1 Absatz 5 und 6 der Binnenschiffsuntersuchungsordnung
@@ -3567,6 +3682,7 @@ werden.
 
 
 ### § 97 Ausrüstung der Schiffe und anwendbare Vorschriften für die Fahrt auf dem Rhein
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009801119)
 
 (1) Unbeschadet der übrigen Bestimmungen dieser Verordnung und in
 Anwendung des § 19.01 der Rheinschiffspersonalverordnung müssen
@@ -3589,6 +3705,7 @@ und 118 entsprechend.
 
 
 ### § 98 Allgemeines zu den Besatzungsvorschriften auf Wasserstraßen der Zonen 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE009902119)
 
 (1) Die Besatzung, die sich während der Fahrt – mit Ausnahme der Fahrt
 auf dem Rhein – an Bord befinden muss, bestimmt sich nach den §§ 104
@@ -3726,6 +3843,7 @@ werden.
 
 
 ### § 99 Nutzung neuer Technologien
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010001119)
 
 (1) Zu Versuchszwecken und für einen begrenzten Zeitraum kann die
 zuständige Behörde im Einvernehmen mit dem Bundesministerium für
@@ -3741,6 +3859,7 @@ Besatzung einzutragen.
 
 
 ### § 100 Aufgaben auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010100000)
 
 (1) Über die Bestimmungen der Binnenschifffahrtsstraßen-Ordnung hinaus
 hat der Schiffsführer
@@ -3796,6 +3915,7 @@ muss für zwei Jahre auf geeignete Weise nachweisbar sein.
 
 
 ### § 101 Betriebsformen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010200000)
 
 (1) Die zuständige Behörde setzt die Mindestbesatzung entsprechend der
 Betriebsform fest.
@@ -3834,6 +3954,7 @@ automatisiert, zu löschen.
 
 
 ### § 102 Bordbuch
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010300000)
 
 (1) Auf jedem Fahrzeug, ausgenommen auf einem Fahrzeug des
 öffentlichen Dienstes, einem Schubleichter ohne Besatzung, einem
@@ -3884,6 +4005,7 @@ dass dann das Bordbuch wieder an Bord gebracht wird.
 
 
 ### § 103 Dienst- und Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010400000)
 
 (1) Dienstzeit ist die Zeit, in der ein Besatzungsmitglied
 
@@ -3955,6 +4077,7 @@ tarifvertragliche Regelungen unberührt.
 
 
 ### § 104 Mindestbesatzung auf geschleppten Fahrzeugen ohne Antriebsmaschine
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010500000)
 
 (1) Wenn auf einem geschleppten Fahrzeug ohne eigene Antriebsmaschine
 
@@ -4228,6 +4351,7 @@ Zulassung ist an Bord mitzuführen.
 
 
 ### § 105 Mindestbesatzung auf Gütermotorschiffen und Tankmotorschiffen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010600000)
 
 (1) Wenn auf einem Gütermotorschiff oder einem Tankmotorschiff
 
@@ -4590,6 +4714,7 @@ erhöht sich seine Besatzung nicht.
 
 
 ### § 106 Mindestbesatzung auf Schubverbänden
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010701119)
 
 (1) Auf Schubverbänden, gekuppelten Fahrzeugen und anderen starren
 Zusammenstellungen beträgt die Mindestbesatzung
@@ -5182,6 +5307,7 @@ gesetzte Antriebsmaschine und Schleppkähne.
 
 
 ### § 107 Mindestbesatzung auf Schleppbooten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010800000)
 
 (1) Wenn auf einem Schleppboot, ausgenommen einem Bugsierschleppboot,
 
@@ -5512,6 +5638,7 @@ erhöht sich die Besatzung um einen Matrosen.
 
 
 ### § 108 Mindestbesatzung auf Tagesausflugsschiffen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE010900000)
 
 (1) Wenn auf einem Tagesausflugsschiff
 
@@ -6107,6 +6234,7 @@ wenn dies aus technischen oder Sicherheitsgründen notwendig ist.
 
 
 ### § 109 Mindestbesatzung auf Kabinenschiffen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011001119)
 
 (1) Die Mindestbesatzung auf Kabinenschiffen beträgt:
 
@@ -6368,6 +6496,7 @@ bestehen. Satz 1 gilt nicht für Absatz 4.
 
 
 ### § 110 Sicherheitspersonal auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011100000)
 
 (1) Auf jedem Fahrgastschiff muss sich Sicherheitspersonal für
 Fahrgastschiffe im Sinne des § 2 Nummer 39 in der vorgeschriebenen
@@ -6478,6 +6607,7 @@ Person sein.
 
 
 ### § 111 Mindestbesatzung auf Fahrgastbooten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011200000)
 
 (1) Fahrgastboote sind mindestens mit einem Schiffsführer sowie einem
 Decksmann zu besetzen.
@@ -6521,6 +6651,7 @@ eingerichtet sind, dass sie auch durch Segel fortbewegt werden können.
 
 
 ### § 112 Mindestbesatzung auf Personenfähren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011300000)
 
 (1) Die Mindestbesatzung einer Personenfähre beträgt:
 
@@ -6646,6 +6777,7 @@ eines Decksmannes 180 kann auch ein Fährgehilfe eingesetzt werden.
 
 
 ### § 113 Mindestbesatzung auf Wagenfähren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011400000)
 
 (1) Die Mindestbesatzung einer Wagenfähre beträgt:
 
@@ -6794,6 +6926,7 @@ Decksmannes 180 kann ein Fährgehilfe eingesetzt werden.
 
 
 ### § 114 Sachkundige für Flüssigerdgas auf Fahrzeugen mit LNG-Antrieb
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011500000)
 
 Bei Fahrzeugen, die mit Flüssigerdgas betrieben werden, muss über ein
 Befähigungszeugnis für Sachkundige für Flüssigerdgas verfügen, wer
@@ -6809,6 +6942,7 @@ Befähigungszeugnis für Sachkundige für Flüssigerdgas verfügen, wer
 
 
 ### § 115 Mindestbesatzung auf übrigen Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011600000)
 
 Die zuständige Behörde setzt für Fahrzeuge, die nicht unter die §§ 104
 bis 114 fallen, die erforderliche Besatzung, die sich während der
@@ -6818,6 +6952,7 @@ sichere Betrieb des jeweiligen Fahrzeugs gewährleistet ist.
 
 
 ### § 116 Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011700000)
 
 (1) Bei einem Fahrzeug ohne Antriebsmaschine, einem Gütermotorschiff
 oder einem Tankmotorschiff, die nicht mit mechanischen Hilfsmitteln
@@ -6854,6 +6989,7 @@ Assistieren von Seeschiffen auf den Wasserstraßen der Zonen 1, 2 oder
 
 
 ### § 117 Ausnahmebewilligungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011800000)
 
 (1) Die Untersuchungskommission oder die zuständige Behörde kann für
 die Betriebsform A die Besatzung eines Fahrzeugs auf Antrag des
@@ -6880,6 +7016,7 @@ gewährt.
 
 
 ### § 118 Zusätzliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE011902119)
 
 (1) Befinden sich in der Mindestbesatzung zwei oder mehr Steuerleute,
 Matrosen oder Bootsleute, kann in der Betriebsform A ein Matrose durch
@@ -6900,9 +7037,11 @@ Strecke noch ein weiteres Mitglied der Besatzung vorhanden ist.
 
 
 ## Teil 4 - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG002000000)
 
 
 ### § 119 Pflichten der Eigentümer, der Ausrüster, der Bevollmächtigten und der Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012002119)
 
 (1) Die Eigentümer oder, sofern ein Ausrüsterverhältnis besteht, die
 Ausrüster eines Fahrzeugs dürfen nicht anordnen oder zulassen, dass
@@ -6992,9 +7131,11 @@ Schiffsführer oder die Schiffsführerin haben dafür zu sorgen, dass
 
 
 ## Teil 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG002100000)
 
 
 ### § 120 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012102119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -7075,9 +7216,11 @@ fahrlässig
 
 
 ## Teil 6 - Qualitätssicherung und Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG002200000)
 
 
 ### § 121 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012200000)
 
 Die zuständige Behörde hat die Tätigkeiten der ihrer Aufsicht
 unterliegenden staatlichen und nichtstaatlichen Einrichtungen im
@@ -7089,6 +7232,7 @@ sichergestellt ist, dass die Ziele dieser Verordnung erreicht werden.
 
 
 ### § 122 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012302119)
 
 Das Bundesministerium für Digitales und Verkehr evaluiert die
 Regelungen dieser Verordnung und ihre Anwendung bis zum Ablauf des 17.
@@ -7097,9 +7241,11 @@ Januar 2037 nach Maßgabe des Artikels 28 der Richtlinie (EU)
 
 
 ## Teil 7 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNG002300000)
 
 
 ### § 123 Gültigkeit und Umtausch der Schifferdienstbücher
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012402119)
 
 (1) Statt eines Befähigungszeugnisses nach § 9 Absatz 1, auch in
 Verbindung mit den Absätzen 2, 4 und 5, und § 10 Absatz 1, auch in
@@ -7153,6 +7299,7 @@ Rheinschifffahrt.
 
 
 ### § 124 Entsprechungsübersicht der bisherigen und der neuen Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012502119)
 
 (1) Für den Umtausch der bisherigen in eine neue Befähigung nach § 123
 Absatz 4 sowie für die Besatzungsvorschriften nach Teil 3 dieser
@@ -7241,6 +7388,7 @@ der Fachausbildung nicht überschreiten.
 
 
 ### § 125 Gültigkeit der Fahrtenbücher und Bordbücher
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012601119)
 
 (1) Fahrtenbücher, ausgestellt nach den bis zum Ablauf des 17. Januar
 2022 geltenden Vorschriften der Binnenschiffsuntersuchungsordnung,
@@ -7257,6 +7405,7 @@ Bordbuch ausgetauscht werden.
 
 
 ### § 126 Gültigkeit der bisherigen Befähigungszeugnisse für Schiffsführer und Schiffsführerinnen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012702119)
 
 (1) Statt eines Befähigungszeugnisses nach § 11 Absatz 1, auch in
 Verbindung mit den Absätzen 2 oder 4, ist ausreichend ein
@@ -7307,6 +7456,7 @@ dem auf dem Patent vermerkten Ungültigkeitsdatum gültig.
 
 
 ### § 127 Anerkennung von Befähigungszeugnissen nach dem STCW-Übereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012801119)
 
 Bis zum Ablauf des 17. Januar 2038 gilt abweichend von § 11 Absatz 1,
 auch in Verbindung mit den Absätzen 2 und 4, als Befähigungsnachweis
@@ -7318,6 +7468,7 @@ Radars.
 
 
 ### § 128 Anerkennung von Befähigungszeugnissen, Schifferdienstbüchern und Bordbüchern aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE012901119)
 
 Auf der Donau bleiben vorbehaltlich des § 10 Absatz 4
 Befähigungszeugnisse, Schifferdienstbücher und Bordbücher, die von der
@@ -7331,6 +7482,7 @@ zum Ablauf des 17. Januar 2032 anerkannt.
 
 
 ### § 129 Umtausch in ein neues Befähigungszeugnis für Schiffsführer und Schiffsführerinnen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013002119)
 
 (1) Die in § 126 Absatz 1 Satz 1 genannten Befähigungszeugnisse können
 bis zu dem auf der Patentkarte vermerkten Ungültigkeitsdatum,
@@ -7377,6 +7529,7 @@ Lebensjahr vollendet hat, hat zudem einen Tauglichkeitsnachweis nach §
 
 
 ### § 130 Übergangsbestimmungen für Sportfahrzeuge und für Fahrzeuge unter 20 Metern Länge
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013103119)
 
 (1) § 34 der Binnenschiffsuntersuchungsordnung bleibt unberührt.
 
@@ -7410,6 +7563,7 @@ die antragstellende Person das 60. Lebensjahr vollendet hat.
 
 
 ### § 131 Gültigkeit und Umtausch der Radarpatente und Radarbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013203119)
 
 (1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1
 Nummer 1 ist ausreichend ein Radarpatent nach der Verordnung über die
@@ -7435,6 +7589,7 @@ umgetauscht werden.
 
 
 ### § 132 Gültigkeit der bisherigen Streckenkunde
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013302119)
 
 (1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1
 Nummer 2 ist ausreichend der Nachweis über die Streckenkunde nach der
@@ -7453,6 +7608,7 @@ umgetauscht.
 
 
 ### § 133 Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013402119)
 
 (1) Statt einer besonderen Berechtigung nach § 16 Absatz 1 Satz 1
 Nummer 3 ist ausreichend eine Fahrerlaubnis der Klassen A, C1 oder D1
@@ -7476,6 +7632,7 @@ mit maritimem Charakter befindet.
 
 
 ### § 134 Gültigkeit der Befähigungszeugnisse für Sachkundige für die Fahrgastschifffahrt und für Sachkundige für LNG
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013501119)
 
 (1) Statt eines Unionsbefähigungszeugnisses nach § 17 Absatz 1, auch
 in Verbindung mit den Absätzen 2 und 4, ist ausreichend ein nach der
@@ -7498,6 +7655,7 @@ und ihre Identität nachweist.
 
 
 ### § 135 Gültigkeit der Nachweise der Befähigung für Ersthelfer und Ersthelferinnen und atemschutzgerättragende Personen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013601119)
 
 (1) Statt einer Bescheinigung nach § 17 Absatz 5 ist ausreichend eine
 nach der Schiffspersonalverordnung-Rhein ausgestellte Bescheinigung
@@ -7516,6 +7674,7 @@ bleiben bis zu ihrem bisherigen Gültigkeitsdatum gültig.
 
 
 ### § 136 Geltung von Besatzungsdokumenten nach der Schiffspersonalverordnung-Rhein
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013700000)
 
 Das Behördenpatent nach der Schiffspersonalverordnung-Rhein gilt als
 Behördenschifferzeugnis, das Sportpatent nach der
@@ -7524,10 +7683,12 @@ dieser Verordnung.
 
 
 ### § 137 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013803119)
 
 
 
 ### § 138 Fortgelten von Prüfungsvorschriften; Gebühren; Prüfungen von Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE013902119)
 
 (1) Bis zum 1. August 2023 sind § 59 und die auf Grund dieser
 Vorschrift erlassene Rechtsverordnung sowie § 65 in der am 13. April
@@ -7549,6 +7710,7 @@ Behördenschifferzeugnis gleich.
 
 
 ### § 139 Sicherheitspersonal auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014003119)
 
 Für Kabinenschiffe werden die Festlegungen zur Besatzung in der
 Fahrtauglichkeitsbescheinigung nach Anlage 3 des ES-TRIN oder in der
@@ -7560,6 +7722,7 @@ entsprechen.
 
 
 ### § 140 Anrechnung und Nachweis von Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014102119)
 
 (1) Nach dieser Verordnung erforderliche Fahrzeiten werden auch dann
 berücksichtigt, wenn sie vor dem 18. Januar 2022 erbracht worden sind.
@@ -7574,6 +7737,7 @@ nachgewiesen werden, sofern dieses nicht vorgeschrieben war.
 
 
 ### § 141 Umtausch von Radarbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014201119)
 
 Bescheinigungen über eine bestandene Radarbefähigungsprüfung können
 nach § 16 Absatz 4 Satz 2 auch dann umgetauscht werden, wenn die
@@ -7582,6 +7746,7 @@ Wasserschutzpolizei-Schule in Hamburg durchgeführt worden ist.
 
 
 ### § 142 Befahren der Elbe; Befahren von maritimen Wasserstraßen mit Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018402119)
 
 (1) Inhaber oder Inhaberinnen von Befähigungszeugnissen, die bis zum
 Ablauf des 17. Januar 2022 erteilt wurden und die zum Befahren der auf
@@ -7599,6 +7764,7 @@ Erweiterung des Fährschifferzeugnisses.
 
 
 ### § 143 Umschreibung von Fahrerlaubnissen der Klassen D1 und D2
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018900119)
 
 Ein Wasserstraßen- und Schifffahrtsamt hat bis zum Ablauf des 17.
 Januar 2032 ein Befähigungszeugnis als Matrose oder Matrosin
@@ -7610,6 +7776,7 @@ Lebensjahr vollendet hat.
 
 
 ### § 144 Erwerb der besonderen Berechtigung Großverbände beim Umtausch
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE019000119)
 
 Mit dem Umtausch einer Fahrerlaubnis der Klasse A oder B nach der
 Binnenschifferpatentverordnung oder eines Großen Rheinpatentes wird
@@ -7619,6 +7786,7 @@ erteilt.
 (zu § 12 Absatz 1 Satz 1 Nummer 2)
 
 ### Anlage 1 Wasserstraßen, auf denen für nicht in Fahrt befindliche schwimmende Geräte kein Befähigungszeugnis nötig ist
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014401119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 1)
@@ -7680,6 +7848,7 @@ erteilt.
 (zu § 16 Absatz 1 Satz 1 Nummer 2)
 
 ### Anlage 2 Binnenwasserstraßenabschnitte mit besonderen Risiken
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014501119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 2)
@@ -7724,6 +7893,7 @@ erteilt.
 (zu § 17 Absatz 6 Nummer 1)
 
 ### Anlage 3 Bescheinigung Lehrgang atemschutzgerättragende Person
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014601119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 3)
@@ -7803,6 +7973,7 @@ unter der Leitung von ................................................
 (zu § 20)
 
 ### Anlage 4 Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014700000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 4 - 17)
@@ -9380,6 +9551,7 @@ Anhang 2: Relevante Kriterien in Bezug auf das Hörvermögen gemäß Diagnosecod
 
 
 ### Anhang 1 zu Anlage 4 Relevante Kriterien in Bezug auf das Sehvermögen nach Diagnosecode H 00–59
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014800000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 18)
@@ -9494,6 +9666,7 @@ Mindestkriterien in Bezug auf das Sehvermögen:
 [^f819242_02_02_BJNR498210021BJNE014800000]: 
 
 ### Anhang 2 zu Anlage 4 Relevante Kriterien in Bezug auf das Hörvermögen nach Diagnosecode H 68–95
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE014900000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 19)
@@ -9513,6 +9686,7 @@ Beschränkung 02\*\** kann angezeigt sein.
 
 
 ### Anhang 3 zu Anlage 4 Bemerkungen zu der Tabelle und den Anhängen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015000000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 20)
@@ -9616,6 +9790,7 @@ werden. Bei Bedarf werden sie kombiniert.
 (zu § 21 Absatz 1)
 
 ### Anlage 5 Muster des Tauglichkeitsnachweises für Besatzungsmitglieder (außer Maschinenpersonal)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015102119)
 
 (Fundstelle: Fundstelle: BGBl. 2023 II Nr. 105, 15)
 
@@ -9741,6 +9916,7 @@ Bezug auf das Hörvermögen) mit den folgenden Ergebnissen untersucht:
 (zu § 21 Absatz 1)
 
 ### Anlage 6 Muster des Tauglichkeitsnachweises für das Maschinenpersonal
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015201119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 22)
@@ -9862,6 +10038,7 @@ untersucht:
 (zu § 24 Absatz 2)
 
 ### Anlage 6a Voraussetzungen und Verfahren für die Zulassung und die Verlängerung der Zulassung von Ärzten und Ärztinnen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018500119)
 
 (Fundstelle: BGBl. 2023 II Nr. 105, 16 - 18)
 
@@ -10371,6 +10548,7 @@ untersucht:
 
 
 ### Anhang 1 zu Anlage 6a Muster des Antragsformulars
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018600119)
 
 (Fundstelle: BGBl. 2023 II Nr. 105, 19 - 21)
 
@@ -10829,6 +11007,7 @@ _\_\__\_\__\_\__
 
 
 ### Anhang 2 zu Anlage 6a Muster für den Zulassungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018700119)
 
 (Fundstelle: BGBl. 2023 II Nr. 105, 22 - 23)
 
@@ -11032,6 +11211,7 @@ _\_\__\_\__\_\__
 
 
 ### Anhang 3 zu Anlage 6a Muster für den Nachweis der praktischen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018800119)
 
 (Fundstelle: BGBl. 2023 II Nr. 105, 24)
 
@@ -11039,6 +11219,7 @@ _\_\__\_\__\_\__
 (zu § 29)
 
 ### Anlage 7 Grundlegende Sicherheitsausbildung für Decksleute
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015300000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 23 - 24)
@@ -11238,6 +11419,7 @@ englischer Sprache zu verwenden:
 (zu § 35 Absatz 1)
 
 ### Anlage 8 Befähigungsstandards für die Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015400000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 25 - 38)
@@ -13451,6 +13633,7 @@ englischer Sprache zu verwenden:
 (zu § 38 Absatz 1, Absatz 4 Satz 1 Nummer 2)
 
 ### Anlage 9 Befähigungsstandards für die Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015500000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 39 - 59)
@@ -16756,6 +16939,7 @@ englischer Sprache zu verwenden:
 (zu § 38 Absatz 3, § 75 Absatz 4 und 5)
 
 ### Anlage 10 Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015600000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 60 - 62)
@@ -17390,6 +17574,7 @@ Anhang 2
 (zu § 38 Absatz 4)
 
 ### Anlage 11 Standards für das Zusatzmodul zur Aufsicht im Rahmen der praktischen Prüfung zur Erlangung eines Befähigungszeugnisses als Schiffsführer
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015700000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 63 - 64)
@@ -17815,6 +18000,7 @@ erfüllen.
 (zu § 40 Absatz 2)
 
 ### Anlage 12 Prüfungsprogramm Schifferzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015802119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 65 - 67)
@@ -18231,6 +18417,7 @@ erfüllen.
 (zu § 41 Absatz 2)
 
 ### Anlage 13 Befähigungsstandards für das Führen von Fahrzeugen unter Radar
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE015900000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 68 - 69)
@@ -18555,6 +18742,7 @@ erfüllen.
 (zu § 41 Absatz 3)
 
 ### Anlage 14 Standards für die praktische Prüfung zur Erlangung einer besonderen Berechtigung für das Führen von Fahrzeugen unter Radar
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016000000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 70 - 71)
@@ -18761,6 +18949,7 @@ erfüllen.
 (zu § 42 Absatz 2)
 
 ### Anlage 15 Kompetenzen für besondere Berechtigung für Risikostrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016102119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 72 - 76)
@@ -19052,6 +19241,7 @@ Binnenwasserstraßenabschnitts.
 (zu § 43 Absatz 2)
 
 ### Anlage 16 Befähigungsstandards für das Befahren von Binnenwasserstraßen mit maritimem Charakter
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016200000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 77 - 78)
@@ -19228,6 +19418,7 @@ Binnenwasserstraßenabschnitts.
 (zu § 47 Absatz 1)
 
 ### Anlage 17 Befähigungsstandards für Sachkundige für Flüssigerdgas (liquified natural gas – LNG)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016300000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 79 - 81)
@@ -19666,6 +19857,7 @@ Binnenwasserstraßenabschnitts.
 (zu § 47 Absatz 4)
 
 ### Anlage 18 Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für Flüssigerdgas (LNG)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016400000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 82 - 83)
@@ -19977,6 +20169,7 @@ Binnenwasserstraßenabschnitts.
 (zu § 49 Absatz 1)
 
 ### Anlage 19 Befähigungsstandards für Sachkundige für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016500000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 84 - 85)
@@ -20215,6 +20408,7 @@ Binnenwasserstraßenabschnitts.
 (zu § 49 Absatz 4 und 5)
 
 ### Anlage 20 Standards für die praktische Prüfung zur Erlangung eines Befähigungszeugnisses als Sachkundiger für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016600000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 86 - 87)
@@ -20499,6 +20693,7 @@ Binnenwasserstraßenabschnitts.
 (zu § 53)
 
 ### Anlage 21 Zulassung von Lehrgängen für die grundlegende Sicherheitsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016702119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 88 - 90)
@@ -20822,6 +21017,7 @@ Sicherheitsausbildung
 
 
 ### Anhang 1 zu Anlage 21 Bescheinigung über die Teilnahme an einer grundlegenden Sicherheitsausbildung in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016800000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 91)
@@ -20878,6 +21074,7 @@ Vorname] erfolgreich teilgenommen.
 
 
 ### Anhang 2 zu Anlage 21 Lernziele
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE016902119)
 
 (Fundstelle: BGBl. I 2022, 1526 - 1527)
 
@@ -21149,6 +21346,7 @@ Vorname] erfolgreich teilgenommen.
 (zu § 54)
 
 ### Anlage 22 Zulassung von Lehrgängen für Maschinenkundige
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017001119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 94 - 95)
@@ -21290,6 +21488,7 @@ erfüllt.
 (zu § 58)
 
 ### Anlage 23 Zulassung von Lehrgängen für atemschutzgerättragende Personen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017102119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 96 - 98)
@@ -21585,6 +21784,7 @@ atemschutzgerättragende Personen
 
 
 ### Anhang 1 zu Anlage 23 Bescheinigung über die Teilnahme an einem Grundlehrgang/Wiederholungslehrgang für atemschutzgerättragende Personen in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017200000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 99)
@@ -21644,6 +21844,7 @@ Vorname] erfolgreich teilgenommen.
 [^f819242_02_09_BJNR498210021BJNE017200000]: 
 
 ### Anhang 2 zu Anlage 23
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017300000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 100)
@@ -21762,6 +21963,7 @@ Vorname] erfolgreich teilgenommen.
 (zu § 78 Absatz 3 Nummer 2)
 
 ### Anlage 24 Muster Fährschifferzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017400000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 101)
@@ -21836,6 +22038,7 @@ ISO/IEC 7810
 (zu § 78 Absatz 3 Nummer 3)
 
 ### Anlage 25 Muster Behördenschifferzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017500000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 102)
@@ -21904,6 +22107,7 @@ ISO/IEC 7810
 (zu § 78 Absatz 3 Nummer 4)
 
 ### Anlage 26 Muster Sportschifferzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017600000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 103)
@@ -21973,6 +22177,7 @@ ISO/IEC 7810
 (zu § 78 Absatz 3 Nummer 5)
 
 ### Anlage 27 Muster Kleinschifferzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017701119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 104)
@@ -22046,6 +22251,7 @@ ISO/IEC 7810
 (zu § 79 Absatz 4 Nummer 1)
 
 ### Anlage 28 Muster für die besondere Berechtigung als gesonderte Karte bei amtlichem Berechtigungsschein
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017800000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 105)
@@ -22110,6 +22316,7 @@ ISO/IEC 7810
 (zu § 79 Absatz 4 Nummer 2)
 
 ### Anlage 29 Muster für besondere Berechtigung für Radar als gesonderte Karte bei Sportbootführerscheinen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE017900000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 106)
@@ -22173,6 +22380,7 @@ ISO/IEC 7810
 (zu § 89 Absatz 1)
 
 ### Anlage 30 Technische und funktionale Anforderungen an Fahrsimulatoren und Radarsimulatoren in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018001119)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 107 - 120)
@@ -23792,6 +24000,7 @@ ISO/IEC 7810
 (zu § 90 Absatz 2)
 
 ### Anlage 31 Standards für das behördliche Zulassungsverfahren für Fahrsimulatoren und Radarsimulatoren
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018100000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 81 vom 6. Dezember
 2021, S. 121)
@@ -23884,10 +24093,12 @@ ISO/IEC 7810
 (zu § 137 Absatz 2)
 
 ### Anlage 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018201119)
 
 
 (zu § 138)
 
 ### Anlage 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschpersv/BJNR498210021.html#BJNR498210021BJNE018301119)
 
 

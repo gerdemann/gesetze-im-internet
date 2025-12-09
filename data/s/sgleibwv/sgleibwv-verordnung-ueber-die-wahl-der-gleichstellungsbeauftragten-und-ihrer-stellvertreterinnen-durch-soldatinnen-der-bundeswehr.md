@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000100000)
 
 Auf Grund des § 16 Abs. 12 des Soldatinnen- und
 Soldatengleichstellungsgesetzes vom 27. Dezember 2004 (BGBl. I S.
@@ -29,10 +30,12 @@ Soldatengleichstellungsgesetzes vom 27. Dezember 2004 (BGBl. I S.
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNG000100000)
 
 
 
 ### § 1 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000202377)
 
 Der Bestellung der Gleichstellungsbeauftragten und ihrer
 Stellvertreterinnen aus dem Kreis der Soldatinnen geht regelmäßig die
@@ -43,10 +46,12 @@ geheimen Wahl nach Maßgabe der folgenden Vorschriften zu entsprechen.
 
 
 ### § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000301116)
 
 
 
 ### § 3 Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000401116)
 
 (1) Stichtag für die Wahlberechtigung ist der Wahltag.
 
@@ -55,10 +60,12 @@ die Wählerinnenliste nach § 8.
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000501116)
 
 
 
 ### § 5 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000601377)
 
 Die Wahl muss spätestens eine Woche vor Ablauf der laufenden Amtszeit
 der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen
@@ -66,10 +73,12 @@ abgeschlossen sein.
 
 
 ## Abschnitt 2 - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNG000200000)
 
 
 
 ### § 6 Bestellung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000701377)
 
 (1) Spätestens zwölf Wochen vor Ablauf der Amtszeit der
 Gleichstellungsbeauftragten und ihrer Stellvertreterinnen bestellt die
@@ -103,6 +112,7 @@ bekannt.
 
 
 ### § 7 Aufgaben des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000801377)
 
 (1) Der Wahlvorstand bereitet die Wahl vor und führt sie durch.
 Insbesondere legt er im Einvernehmen mit der Dienststellenleitung, der
@@ -124,6 +134,7 @@ Satz 6 entsprechend.
 
 
 ### § 8 Wählerinnenliste
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE000902377)
 
 (1) Dienststellen, bei denen eine militärische
 Gleichstellungsbeauftragte gewählt wird, erstellen eine Namensliste
@@ -143,6 +154,7 @@ Wahl teilnehmenden Dienststellen bekannt.
 
 
 ### § 9 Einspruch gegen die Wählerinnenliste
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001001377)
 
 (1) Jede Wahlberechtigte kann innerhalb von zwei Wochen seit Erlass
 des Wahlausschreibens beim Wahlvorstand Einspruch gegen die
@@ -168,6 +180,7 @@ ergänzt werden.
 
 
 ### § 10 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001101377)
 
 (1) Spätestens zehn Wochen vor dem Wahltag erlässt der Wahlvorstand
 ein Wahlausschreiben, das mindestens von zwei Mitgliedern des
@@ -258,6 +271,7 @@ Bekanntmachung gleichzeitig genutzt werden.
 
 
 ### § 11 Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001203377)
 
 (1) Jede Soldatin, die nach den §§ 23 bis 28 des Soldatinnen- und
 Soldatengleichstellungsgesetzes wählbar ist, kann sich für das Amt der
@@ -297,6 +311,7 @@ enthalten.
 
 
 ### § 12 Nachfrist für Bewerbungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001301377)
 
 (1) Ist nach Ablauf der Frist des § 11 Abs. 2 Satz 1 keine gültige
 Bewerbung für das Amt der Gleichstellungsbeauftragten eingegangen,
@@ -317,6 +332,7 @@ Fall mit der Bekanntgabe.
 
 
 ### § 13 Bekanntgabe der Bewerbungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001400000)
 
 Der Wahlvorstand gibt unverzüglich nach Ablauf der Bewerbungsfrist (§
 11 Abs. 2 Satz 1, § 12 Abs. 1 Satz 1 und 3) die Namen aus den gültigen
@@ -324,10 +340,12 @@ Bewerbungen in gleicher Weise bekannt wie das Wahlausschreiben.
 
 
 ## Abschnitt 3 - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNG000300000)
 
 
 
 ### § 14 Formen der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001501377)
 
 (1) Die Stimmabgabe erfolgt
 
@@ -351,6 +369,7 @@ nachgeordnete oder zugehörende Dienststellen beschränkt sein.
 
 
 ### § 15 Persönliche Stimmabgabe mittels Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001601377)
 
 (1) Jede Wählerin hat für den Wahlgang zur Wahl der
 Gleichstellungsbeauftragten eine Stimme. Die Stimmenanzahl für den
@@ -390,6 +409,7 @@ oder die einen Zusatz oder Vorbehalt enthalten.
 
 
 ### § 16 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001701377)
 
 (1) Der Wahlvorstand trifft geeignete Vorkehrungen, dass die
 Wählerinnen die Stimmzettel im Wahlraum unbeobachtet kennzeichnen und
@@ -432,6 +452,7 @@ unversehrt ist.
 
 
 ### § 17 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001800000)
 
 (1) Eine Wahlberechtigte, die an der persönlichen Stimmabgabe
 verhindert ist, erhält auf Antrag vom Wahlvorstand ausgehändigt oder
@@ -505,6 +526,7 @@ und sicher vor dem Zugriff Dritter aufzubewahren.
 
 
 ### § 18 Behandlung der mittels Briefwahl abgegebenen Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE001900000)
 
 (1) Unmittelbar vor Abschluss der Wahl öffnet der Wahlvorstand in
 öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
@@ -525,6 +547,7 @@ Dienststelle zu vernichten, wenn die Wahl nicht angefochten ist.
 
 
 ### § 19 Elektronische Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002000000)
 
 Die Stimmabgabe kann auch in elektronischer Form erfolgen. Dabei
 müssen die technischen und organisatorischen Abläufe so geregelt
@@ -534,6 +557,7 @@ geprüftes und für Wahlen zugelassenes System eingesetzt werden.
 
 
 ### § 20 Feststellung des Wahlergebnisses, Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002102377)
 
 (1) Unverzüglich nach Abschluss der Wahl zählt der Wahlvorstand
 öffentlich die Stimmen aus. Dazu öffnet er die Wahlurnen, entnimmt
@@ -578,6 +602,7 @@ Soldatengleichstellungsgesetzes hin.
 
 
 ### § 21 Benachrichtigung der Gewählten, Annahme der Wahl; Beendigung des Amtes des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002202377)
 
 (1) Der Wahlvorstand benachrichtigt die gewählten Soldatinnen
 unverzüglich nach Feststellung des Wahlergebnisses schriftlich oder
@@ -617,6 +642,7 @@ des Anfechtungsverfahrens.
 
 
 ### § 22 Bekanntgabe der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002302377)
 
 (1) Sobald die als Gleichstellungsbeauftragte und als
 Stellvertreterinnen Gewählten endgültig feststehen, gibt der
@@ -633,6 +659,7 @@ gleicher Weise wie das Wahlausschreiben bekannt.
 
 
 ### § 23 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002402377)
 
 Die Dienststelle bewahrt die Wahlunterlagen, insbesondere die
 Niederschriften, Bekanntmachungen und Stimmzettel, bis zum Ablauf der
@@ -644,10 +671,12 @@ genannten Fristen unverzüglich zu vernichten.
 
 
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNG000400000)
 
 
 
 ### § 24 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002502377)
 
 (1) Auf die Wahlverfahren, deren Wahlausschreiben vor dem 25. Januar
 2024 bekannt gegeben worden sind, ist die Gleichstellungsbeauftragten-
@@ -663,6 +692,7 @@ Wahlvorstand, dass die Wahl nach dem Gesetz vom 22. Januar 2024 (BGBl.
 
 
 ### § 25 Sonderregelungen für die Nachrichtendienste
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002601116)
 
 Für die Nachrichtendienste gilt diese Wahlverordnung mit der
 Einschränkung, dass bei der Erstellung der Wahlunterlagen die dort
@@ -673,6 +703,7 @@ zugänglich zu machen.
 
 
 ### § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgleibwv/BJNR139400005.html#BJNR139400005BJNE002700000)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Kalendermonats in Kraft.

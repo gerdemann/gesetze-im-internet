@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000205123)
 
 (1) Der Zweite bis Fünfte Teil gilt nur für
 
@@ -175,6 +177,7 @@ nicht anzuwenden.
 
 
 ### § 2 Steuerliche Rückwirkung
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000304123)
 
 (1) Das Einkommen und das Vermögen der übertragenden Körperschaft
 sowie des übernehmenden Rechtsträgers sind so zu ermitteln, als ob das
@@ -255,10 +258,12 @@ oder deren Auflösung.
 
 
 ## Zweiter Teil - Vermögensübergang bei Verschmelzung auf eine Personengesellschaft oder auf eine natürliche Person und Formwechsel einer Kapitalgesellschaft in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000200000)
 
 
 
 ### § 3 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000402123)
 
 (1) Bei einer Verschmelzung auf eine Personengesellschaft oder
 natürliche Person sind die übergehenden Wirtschaftsgüter,
@@ -316,6 +321,7 @@ Freistellung vermeidet.
 
 
 ### § 4 Auswirkungen auf den Gewinn des übernehmenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000504123)
 
 (1) Der übernehmende Rechtsträger hat die auf ihn übergegangenen
 Wirtschaftsgüter mit dem in der steuerlichen Schlussbilanz der
@@ -412,6 +418,7 @@ Einkommensteuergesetzes anzuwenden.
 
 
 ### § 5 Besteuerung der Anteilseigner der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000601123)
 
 (1) Hat der übernehmende Rechtsträger Anteile an der übertragenden
 Körperschaft nach dem steuerlichen Übertragungsstichtag angeschafft
@@ -437,6 +444,7 @@ gemeinen Wert, in das Betriebsvermögen des übernehmenden Rechtsträgers
 
 
 ### § 6 Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000700000)
 
 (1) Erhöht sich der Gewinn des übernehmenden Rechtsträgers dadurch,
 dass der Vermögensübergang zum Erlöschen von Forderungen und
@@ -466,6 +474,7 @@ soweit sie auf der Anwendung der Absätze 1 und 2 beruhen.
 
 
 ### § 7 Besteuerung offener Rücklagen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000800000)
 
 Dem Anteilseigner ist der Teil des in der Steuerbilanz ausgewiesenen
 Eigenkapitals abzüglich des Bestands des steuerlichen Einlagekontos im
@@ -479,6 +488,7 @@ für den Anteilseigner ein Übernahmegewinn oder Übernahmeverlust nach §
 
 
 ### § 8 Vermögensübergang auf einen Rechtsträger ohne Betriebsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE000900000)
 
 (1) Wird das übertragene Vermögen nicht Betriebsvermögen des
 übernehmenden Rechtsträgers, sind die infolge des Vermögensübergangs
@@ -491,6 +501,7 @@ Einkommensteuergesetzes nicht anzuwenden.
 
 
 ### § 9 Formwechsel in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001002123)
 
 Im Falle des Formwechsels einer Kapitalgesellschaft in eine
 Personengesellschaft sind die §§ 3 bis 8 und 10 entsprechend
@@ -504,15 +515,18 @@ Formwechsels zur Eintragung in ein öffentliches Register liegt
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001101301)
 
 -
 
 
 ## Dritter Teil - Verschmelzung oder Vermögensübertragung (Vollübertragung) auf eine andere Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000300000)
 
 
 
 ### § 11 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001201123)
 
 (1) Bei einer Verschmelzung oder Vermögensübertragung
 (Vollübertragung) auf eine andere Körperschaft sind die übergehenden
@@ -552,6 +566,7 @@ Abs. 2 Satz 4 und 5 des Körperschaftsteuergesetzes Anwendung.
 
 
 ### § 12 Auswirkungen auf den Gewinn der übernehmenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001300000)
 
 (1) Die übernehmende Körperschaft hat die auf sie übergegangenen
 Wirtschaftsgüter mit dem in der steuerlichen Schlussbilanz der
@@ -587,6 +602,7 @@ Abs. 1 Nr. 1 des Einkommensteuergesetzes.
 
 
 ### § 13 Besteuerung der Anteilseigner der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001402123)
 
 (1) Die Anteile an der übertragenden Körperschaft gelten als zum
 gemeinen Wert veräußert und die an ihre Stelle tretenden Anteile an
@@ -622,15 +638,18 @@ Buchwerts die Anschaffungskosten.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001500000)
 
 -
 
 
 ## Vierter Teil - Aufspaltung, Abspaltung und Vermögensübertragung (Teilübertragung)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000400000)
 
 
 
 ### § 15 Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001603123)
 
 (1) Geht Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung
 oder durch Teilübertragung auf andere Körperschaften über, gelten die
@@ -687,6 +706,7 @@ auf eine andere Körperschaft übergeht.
 
 
 ### § 16 Aufspaltung oder Abspaltung auf eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001700000)
 
 Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung
 auf eine Personengesellschaft übergeht, gelten die §§ 3 bis 8, 10 und
@@ -696,15 +716,18 @@ Körperschaftsteuergesetzes bezeichneten Teil des Betrags im Sinne des
 
 
 ## Fünfter Teil - Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000500000)
 
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001800000)
 
 -
 
 
 ### § 18 Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE001902123)
 
 (1) Die §§ 3 bis 9 und 16 gelten bei Vermögensübergang auf eine
 Personengesellschaft oder auf eine natürliche Person sowie bei
@@ -739,6 +762,7 @@ nicht zu berücksichtigen.
 
 
 ### § 19 Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002000000)
 
 (1) Geht das Vermögen der übertragenden Körperschaft auf eine andere
 Körperschaft über, gelten die §§ 11 bis 15 auch für die Ermittlung des
@@ -750,10 +774,12 @@ im Sinne des § 10a des Gewerbesteuergesetzes gelten § 12 Abs. 3 und §
 
 
 ## Sechster Teil - Einbringung von Unternehmensteilen in eine Kapitalgesellschaft oder Genossenschaft und Anteilstausch
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000600000)
 
 
 
 ### § 20 Einbringung von Unternehmensteilen in eine Kapitalgesellschaft oder Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002108123)
 
 (1) Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in
 eine Kapitalgesellschaft oder eine Genossenschaft (übernehmende
@@ -881,6 +907,7 @@ auf die übernehmende Gesellschaft über.
 
 
 ### § 21 Bewertung der Anteile beim Anteilstausch
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002203123)
 
 (1) Werden Anteile an einer Kapitalgesellschaft oder einer
 Genossenschaft (erworbene Gesellschaft) in eine Kapitalgesellschaft
@@ -970,6 +997,7 @@ Anwendung.
 
 
 ### § 22 Besteuerung des Anteilseigners
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002304123)
 
 (1) Soweit in den Fällen einer Sacheinlage unter dem gemeinen Wert (§
 20 Abs. 2 Satz 2) der Einbringende die erhaltenen Anteile innerhalb
@@ -1152,6 +1180,7 @@ Einbringungsvertrag vor diesem Zeitpunkt geschlossen worden ist.
 
 
 ### § 23 Auswirkungen bei der übernehmenden Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002401140)
 
 (1) Setzt die übernehmende Gesellschaft das eingebrachte
 Betriebsvermögen mit einem unter dem gemeinen Wert liegenden Wert (§
@@ -1219,10 +1248,12 @@ des § 10a des Gewerbesteuergesetzes gekürzt werden.
 
 
 ## Siebter Teil - Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000700000)
 
 
 
 ### § 24 Einbringung von Betriebsvermögen in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002503116)
 
 (1) Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in
 eine Personengesellschaft eingebracht und wird der Einbringende
@@ -1297,10 +1328,12 @@ Körperschaftsteuergesetzes Anwendung findet.
 
 
 ## Achter Teil - Formwechsel einer Personengesellschaft in eine Kapitalgesellschaft oder Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000800000)
 
 
 
 ### § 25 Entsprechende Anwendung des Sechsten Teils
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002600000)
 
 In den Fällen des Formwechsels einer Personengesellschaft in eine
 Kapitalgesellschaft oder Genossenschaft im Sinne des § 190 des
@@ -1312,19 +1345,23 @@ Fassung oder auf Grund vergleichbarer ausländischer Vorgänge gelten §§
 
 
 ## Neunter Teil - Verhinderung von Missbräuchen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG000900000)
 
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002700000)
 
 -
 
 
 ## Zehnter Teil - Anwendungsvorschriften und Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNG001000000)
 
 
 
 ### § 27 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002816123)
 
 (1) Diese Fassung des Gesetzes ist erstmals auf Umwandlungen und
 Einbringungen anzuwenden, bei denen die Anmeldung zur Eintragung in
@@ -1557,6 +1594,7 @@ in den anderen Fällen der Einbringungsvertrag nach dem 31. Dezember
 
 
 ### § 28 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_2006/BJNR279100006.html#BJNR279100006BJNE002900000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen

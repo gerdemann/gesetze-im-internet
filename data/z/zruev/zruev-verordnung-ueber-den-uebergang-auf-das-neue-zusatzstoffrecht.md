@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/zr_v/BJNR030800998.html#BJNR030800998BJNE000101320)
 
 Bis zum 28. Oktober 1998 dürfen Lebensmittel sowie Erzeugnisse, die
 dem Weingesetz vom 8. Juli 1994 (BGBl. I S. 1467) unterliegen, die den

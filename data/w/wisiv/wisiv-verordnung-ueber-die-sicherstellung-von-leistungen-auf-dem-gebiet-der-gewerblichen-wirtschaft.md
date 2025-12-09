@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000100000)
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1 bis 3, 5, 7 und 8, der §§ 2, 3
 und 5 Abs. 1, des § 6, des § 8 Abs. 1 und 6 und der §§ 9 und 21 Nr. 2
@@ -32,10 +33,12 @@ die Bundesregierung:
 
 
 ## Erster Abschnitt - Anwendungsbereich, Voraussetzungen und Grenzen
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000200000)
 
 (1) Diese Verordnung gilt für
 
@@ -80,10 +83,12 @@ Sie sind auf das unerlässliche Maß zu beschränken.
 
 
 ## Zweiter Abschnitt - Vorrangverträge
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNG000200000)
 
 
 
 ### § 2 Vorrangige Erfüllung von Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000300000)
 
 (1) Unternehmer der gewerblichen Wirtschaft mit einer Betriebsstätte
 im Geltungsbereich dieser Verordnung (Unternehmer) sind für Zwecke der
@@ -152,6 +157,7 @@ regeln.
 
 
 ### § 3 Erklärungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000400000)
 
 (1) Die Ermächtigung zur Abgabe einer Vorrangerklärung kann von der
 zuständigen Behörde auf Antrag für bestehende und für noch
@@ -194,6 +200,7 @@ abzuschließende Verträge oder Teile von Verträgen erteilt werden.
 
 
 ### § 4 Erklärungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000500000)
 
 (1) Eine Vorrangerklärung nach § 2 Abs. 3 darf nur abgeben,
 
@@ -211,6 +218,7 @@ entfallen, ist sie unverzüglich zu widerrufen.
 
 
 ### § 5 Vorrangbestellung
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000600000)
 
 (1) Wer nach § 4 Abs. 1 berechtigt ist, einen Vorrang zu erklären,
 kann einem Unternehmer ein Angebot zum Abschluss eines Vertrages
@@ -256,10 +264,12 @@ des Zuganges der Entscheidung nach § 6 verlängern.
 
 
 ## Dritter Abschnitt - Verpflichtung durch Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNG000300000)
 
 
 
 ### § 6 Verpflichtungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000700000)
 
 (1) Unternehmer können von der zuständigen Behörde verpflichtet
 werden, vor konkurrierenden anderen Verpflichtungen, die nicht
@@ -312,10 +322,12 @@ Verpflichtung im öffentlichen Interesse anzuordnen.
 
 
 ## Vierter Abschnitt - Warenbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNG000400000)
 
 
 
 ### § 7 Einschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000802118)
 
 (1) Schränkt das Bundesministerium für Wirtschaft und Energie durch
 Verordnung die Lieferung, den Bezug oder die Verwendung von Waren
@@ -343,6 +355,7 @@ nur entnehmen, wenn die Voraussetzungen des Absatzes 1 erfüllt sind.
 
 
 ### § 8 Allgemeine Zulassungen und Genehmigungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE000902118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann die
 Lieferung, den Bezug und die Verwendung bewirtschafteter Waren durch
@@ -354,6 +367,7 @@ Bezug oder die Verwendung dieser Waren genehmigen.
 
 
 ### § 9 Bezugsberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001002118)
 
 (1) Für den Bezug von bewirtschafteten Waren kann die zuständige
 Behörde zur Deckung des nach § 1 Abs. 2 bestehenden Bedarfs auf
@@ -391,6 +405,7 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ### § 10 Zuteilungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001102118)
 
 Für Zwecke der Zuteilung und des Bezuges von Waren der gewerblichen
 Wirtschaft zur Deckung des persönlichen Bedarfs kann ein
@@ -400,6 +415,7 @@ Energie im Benehmen mit den Ländern.
 
 
 ### § 11 Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001200000)
 
 (1) Um die für Zwecke der Verteidigung erforderliche Versorgung mit
 Waren sicherzustellen, haben Unternehmer, deren Gewerbebetrieb auf die
@@ -427,10 +443,12 @@ Zeitpunkt erneut Meldungen abzugeben sind.
 
 
 ## Fünfter Abschnitt - Zuständigkeiten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNG000500000)
 
 
 
 ### § 12 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001302118)
 
 (1) Zuständig sind
 
@@ -498,6 +516,7 @@ wahrzunehmen haben.
 
 
 ### § 13 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001400000)
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -571,6 +590,7 @@ Die übergeordnete Behörde ist in den Fällen des § 12 Abs. 2 zuständig.
 
 
 ### § 14 Inkrafttreten und Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001502118)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -584,6 +604,7 @@ bestimmt.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wisiv/BJNR215900004.html#BJNR215900004BJNE001600000)
 
 Der Bundesrat hat zugestimmt.
 

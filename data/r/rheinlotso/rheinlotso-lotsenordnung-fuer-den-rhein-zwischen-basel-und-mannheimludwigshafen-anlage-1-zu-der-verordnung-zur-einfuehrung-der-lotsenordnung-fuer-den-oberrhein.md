@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000100325)
 
 1\. Unbeschadet des Rechts eines jeden Inhabers eines
 Rheinschifferpatents, ein Schiff auf dem Rhein zu führen oder den
@@ -31,6 +32,7 @@ Lotsenpatents als Lotse (pilote patente) bezeichnen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000200325)
 
 1\. Das Lotsenpatent wird durch die zuständigen Behörden für die
 folgenden Rheinstrecken erteilt:
@@ -46,6 +48,7 @@ b)  für die Strecke zwischen Straßburg/Kehl und Mannheim/Ludwigshafen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000300325)
 
 Ein Lotsenpatent erhält, wer nach Erwerb des Rheinschifferpatents für
 Fahrzeuge mit eigener Triebkraft für die betreffende Strecke von einem
@@ -56,6 +59,7 @@ würden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000400325)
 
 1\. Der Bewerber hat einen Antrag auf Eintragung in die Liste der
 Lotsengehilfen unter Bezeichnung der Strecke, für die er das Patent
@@ -87,6 +91,7 @@ Lebensjahr nicht überschritten haben.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000500325)
 
 1\. Die Dauer der Ausbildung als Lotsengehilfe beträgt mindestens ein
 Jahr und soll zwei Jahre nicht überschreiten. In dieser Zeit sind
@@ -103,6 +108,7 @@ Fahrten zu Berg und zwei Fahrten zu Tal.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000600325)
 
 1\. Die Tätigkeit als Lotsengehilfe muß auf derjenigen Strecke des
 Rheins ausgeübt werden, für die das Lotsenpatent beantragt werden
@@ -116,6 +122,7 @@ zurücklegen, in dem der Lehrlotse lotst.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000700325)
 
 
 1.  Der Lotsengehilfe hat den Nachweis der Ausbildung durch ein von der
@@ -139,6 +146,7 @@ zurücklegen, in dem der Lehrlotse lotst.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000800325)
 
 1\. Innerhalb eines Monats nach Beendigung der Ausbildung kann der
 Lotsengehilfe die Abnahme der Lotsenprüfung und die Erteilung des
@@ -156,6 +164,7 @@ b)  zwei Photographien.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE000900325)
 
 1\. In den beteiligten Staaten werden Prüfungsausschüsse gebildet.
 Prüfungsausschüsse bestehen an den in Anhang B aufgeführten Orten.
@@ -166,6 +175,7 @@ Bewerber sein dürfen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001000325)
 
 1\. Die Prüfung erstreckt sich auf
 
@@ -191,6 +201,7 @@ Behörde erläßt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001100325)
 
 1\. Besteht der Bewerber die Prüfung nicht, so kann er sie nach
 Verlängerung der Ausbildung um mindestens sechs Monate einmal
@@ -202,6 +213,7 @@ der §§ 3 bis 8 erneut erfüllt sind.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001200325)
 
 1\. Besteht der Bewerber die Prüfung und sind auch die übrigen
 Voraussetzungen des § 3 erfüllt, so fertigt die zuständige Behörde das
@@ -215,12 +227,14 @@ entsprechend.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001300325)
 
 Der Lotse darf eine ihm angetragene Lotsung nur aus wichtigen Gründen
 ablehnen.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001400325)
 
 1\. Der Lotse ist Berater des Schiffsführers; er hat diesen bei der
 Führung des Fahrzeugs zu unterstützen, ihn auf alle Besonderheiten der
@@ -242,6 +256,7 @@ Fahrzeugs abzulehnen.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001500325)
 
 1\. Die Behörde, die das Lotsenpatent ausgestellt hat, muß dieses
 entziehen, wenn dem Inhaber das Rheinschifferpatent entzogen worden
@@ -258,6 +273,7 @@ Behörde die Erneuerung des Nachweises jederzeit verlangen.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001600325)
 
 Das Lotsenpatent kann entzogen werden,
 
@@ -273,6 +289,7 @@ b)  wenn der Lotse wiederholt Lotsungen ohne wichtigen Grund abgelehnt
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001700325)
 
 Das Lotsenpatent kann für dauernd oder auf Zeit entzogen werden. Im
 Falle zeitweiligen Entzugs kann die zuständige Behörde verlangen, daß
@@ -283,6 +300,7 @@ solange ihm das Rheinschifferpatent entzogen ist.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001800325)
 
 1\. Die beteiligten Staaten bestimmen, welche Behörden im Sinne dieser
 Verordnung zuständig sind, und haben diese öffentlich bekanntzumachen.
@@ -295,6 +313,7 @@ Nummer 1 genannten Behörden mitzuteilen.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE001900325)
 
 1\. Die vom Bewerber zu zahlenden Gebühren
 
@@ -315,6 +334,7 @@ Unterschied gemacht werden.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002000325)
 
 1\.
 2\. Berechtigt das nach den bisherigen Vorschriften erteilte Patent nur
@@ -336,6 +356,7 @@ anderen Lotsen ausführt. § 5 Nr. 2 ist anzuwenden.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002100325)
 
 1\. Innerhalb von zwei Jahren nach Inkrafttreten dieser Verordnung
 können die zuständigen Behörden im Sinne des § 18 solchen Inhabern von
@@ -350,6 +371,7 @@ vorgesehenen zusätzlichen Fahrten ausgeführt werden.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002200325)
 
 Diese Verordnung tritt an die Stelle aller zur Ausführung der
 revidierten Rheinschiffahrtsakte vom 17. Oktober 1868 erlassenen, das
@@ -358,11 +380,13 @@ Mannheim/Ludwigshafen betreffenden Gesetze und Verordnungen.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002300325)
 
 Diese Verordnung tritt am 1. Juli 1956 in Kraft.
 
 
 ## Anhang A (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002400325)
 
 Fundstelle des Originaltextes: BGBl. Teil III 9503-7, S. 20 - 21;
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -505,6 +529,7 @@ I
 (zu § 9 Nr. 1)
 
 ## Anhang B Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002500325)
 
 Prüfungsausschüsse bestehen in:
 
@@ -525,6 +550,7 @@ Prüfungsausschüsse bestehen in:
 
 
 ## Anhang C (zu § 12 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rheinlotso/BJNR207050956.html#BJNR207050956BJNE002600325)
 
 Fundstelle des Originaltextes: BGBl. Teil III 9503-7, S. 22 - 23
 (Originalgröße: DIN A 6)           (Seite 1)

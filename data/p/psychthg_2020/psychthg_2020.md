@@ -28,9 +28,11 @@ Stand: Ersetzt G 2122-5 v. 16.6.1998 I 1311 (PsychThG)
 
 
 ## Abschnitt 1 - Approbation, Erlaubnis zur vorübergehenden oder partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000100000)
 
 
 ### § 1 Berufsbezeichnung, Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000200000)
 
 (1) Wer die Psychotherapie unter der Berufsbezeichnung
 „Psychotherapeutin“ oder „Psychotherapeut“ ausüben will, bedarf der
@@ -102,6 +104,7 @@ ergibt.
 
 
 ### § 2 Erteilung der Approbation
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000300000)
 
 (1) Die Approbation als Psychotherapeutin oder Psychotherapeut ist auf
 Antrag zu erteilen, wenn die antragstellende Person
@@ -139,6 +142,7 @@ ausgesetzt werden, bis das Strafverfahren beendet ist.
 
 
 ### § 3 Erlaubnis zur vorübergehenden Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000400000)
 
 (1) Eine Erlaubnis zur vorübergehenden Berufsausübung ist auf Antrag
 Personen zu erteilen, wenn die antragstellende Person
@@ -189,6 +193,7 @@ geltenden Fassung erteilt worden ist, bleibt wirksam.
 
 
 ### § 4 Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000500000)
 
 (1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
 erteilen, wenn die antragstellende Person
@@ -262,6 +267,7 @@ geltenden Fassung erteilt worden ist, bleibt wirksam.
 
 
 ### § 5 Rücknahme, Widerruf und Ruhen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000600000)
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die
 Voraussetzung des § 2 Absatz 1 Nummer 1 nicht vorgelegen hat. Die
@@ -320,6 +326,7 @@ partiellen Berufsausübung.
 
 
 ### § 6 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000700000)
 
 (1) Auf die Approbation, die Erlaubnis zur vorübergehenden
 Berufsausübung und die Erlaubnis zur partiellen Berufsausübung kann
@@ -334,9 +341,11 @@ soll vor Abgabe der Verzichtserklärung hingewiesen werden.
 
 
 ## Abschnitt 2 - Studium, das Voraussetzung für die Erteilung einer Approbation als Psychotherapeutin oder Psychotherapeut ist, psychotherapeutische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000200000)
 
 
 ### § 7 Ziel des Studiums, das Voraussetzung für die Erteilung einer Approbation als Psychotherapeutin oder Psychotherapeut ist
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000800000)
 
 (1) Das Studium, das Voraussetzung für die Erteilung einer Approbation
 als Psychotherapeutin oder Psychotherapeut ist, vermittelt
@@ -427,6 +436,7 @@ unterstützt sowie deren Recht auf Selbstbestimmung geachtet.
 
 
 ### § 8 Wissenschaftlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE000900000)
 
 Die zuständige Behörde stellt die wissenschaftliche Anerkennung eines
 psychotherapeutischen Verfahrens oder einer psychotherapeutischen
@@ -437,6 +447,7 @@ Bundesärztekammer errichtet worden ist.
 
 
 ### § 9 Dauer, Struktur und Durchführung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001000000)
 
 (1) Das Studium gemäß § 7 darf nur an Hochschulen angeboten werden.
 Hochschulen im Sinne dieses Gesetzes sind Universitäten oder
@@ -532,6 +543,7 @@ ab.
 
 
 ### § 10 Psychotherapeutische Prüfung als Voraussetzung für die Erteilung der Approbation
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001100000)
 
 (1) Die psychotherapeutische Prüfung dient der Feststellung der für
 eine Tätigkeit in der Psychotherapie erforderlichen
@@ -562,9 +574,11 @@ Teilen:
 
 
 ## Abschnitt 3 - Anerkennung von außerhalb des Geltungsbereichs des Gesetzes erworbenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000300000)
 
 
 ### § 11 Anerkennung von Berufsqualifikationen aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001200000)
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb
 eines Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -640,6 +654,7 @@ psychotherapeutischen Prüfung nach § 10 Absatz 1 erstreckt.
 
 
 ### § 12 Anerkennung von Berufsqualifikationen aus anderen Mitgliedstaaten, anderen Vertragsstaaten oder gleichgestellten Staaten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001300000)
 
 (1) Eine in einem Mitgliedstaat, einem anderen Vertragsstaat oder
 einem gleichgestellten Staat erworbene abgeschlossene
@@ -768,6 +783,7 @@ und die einer der in Absatz 1 Satz 1 genannten Staaten anerkannt hat.
 
 
 ### § 13 Allgemeine Regelungen bei der Anerkennung von außerhalb des Geltungsbereichs des Gesetzes erworbenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001400000)
 
 (1) Wird die Voraussetzung des § 2 Absatz 1 Nummer 1 auf eine
 Berufsqualifikation gestützt, die außerhalb des Geltungsbereichs
@@ -796,9 +812,11 @@ wahrgenommen werden.
 
 
 ## Abschnitt 4 - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000400000)
 
 
 ### § 14 Bescheinigungen, die zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat erforderlich sind
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001500000)
 
 (1) Üben deutsche Staatsangehörige, Staatsangehörige eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -832,6 +850,7 @@ Vertrages über die Arbeitsweise der Europäischen Union auszuüben.
 
 
 ### § 15 Dienstleistungserbringung in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001600000)
 
 (1) Vorübergehende und gelegentliche Dienstleistungen im Sinne des
 Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union
@@ -876,6 +895,7 @@ zur Ausübung dieses Berufs ungeeignet ist.
 
 
 ### § 16 Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001700000)
 
 Staatsangehörige eines Mitgliedstaates, eines anderen Vertragsstaates
 oder eines gleichgestellten Staates, die in Deutschland im Beruf der
@@ -892,6 +912,7 @@ Sicherheit der Verbraucher stehen.
 
 
 ### § 17 Meldung der dienstleistungserbringenden Person an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001800000)
 
 (1) Wer beabsichtigt, in Deutschland im Beruf der Psychotherapeutin
 oder des Psychotherapeuten vorübergehend und gelegentlich
@@ -962,6 +983,7 @@ liegen.
 
 
 ### § 18 Prüfen der Angaben durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE001900000)
 
 (1) Im Fall der erstmaligen Meldung der Dienstleistungserbringung
 prüft die zuständige Behörde den nach § 17 Absatz 2 Nummer 2
@@ -984,6 +1006,7 @@ eine Eignungsprüfung nachzuweisen.
 
 
 ### § 19 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002000000)
 
 (1) Wird gegen die Pflichten nach § 16 verstoßen, so hat die
 zuständige Behörde unverzüglich die zuständige Behörde des
@@ -1013,9 +1036,11 @@ haben die zuständigen Behörden in Deutschland nach den Artikeln 8 und
 
 
 ## Abschnitt 5 - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000500000)
 
 
 ### § 20 Regelungen über Ausbildung, Prüfung und Approbation
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002100000)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die
@@ -1075,6 +1100,7 @@ Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
 
 ### § 21 Regelungen über Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002200000)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte für
@@ -1089,9 +1115,11 @@ Verpflichteten Rechnung zu tragen.
 
 
 ## Abschnitt 6 - Aufgaben und Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000600000)
 
 
 ### § 22 Zuständigkeit von Behörden
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002300000)
 
 (1) Die Entscheidungen nach § 2 Absatz 1 trifft die zuständige Behörde
 des Landes, in dem die antragstellende Person die psychotherapeutische
@@ -1145,6 +1173,7 @@ Fassung ausgesprochen wurde.
 
 
 ### § 23 Unterrichtungspflichten, Prüfpflichten, Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002400000)
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den Beruf
 der Psychotherapeutin oder des Psychotherapeuten ausübt oder zuletzt
@@ -1202,6 +1231,7 @@ Kommission weiter.
 
 
 ### § 24 Warnmitteilung durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002500000)
 
 (1) Die zuständige Behörde des Landes, in dem der Beruf der
 Psychotherapeutin oder des Psychotherapeuten ausgeübt wird,
@@ -1340,6 +1370,7 @@ Berufsausübung oder der Erlaubnis zur partiellen Berufsausübung.
 
 
 ### § 25 Unterrichtung über gefälschte Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002600000)
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
 auf Erteilung der Approbation, auf Feststellung der Gleichwertigkeit
@@ -1393,9 +1424,11 @@ entsprechenden Hinweis.
 
 
 ## Abschnitt 7 - Übergangsvorschriften, Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNG000700000)
 
 
 ### § 26 Weiterführen der alten Berufsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002700000)
 
 Psychologische Psychotherapeutinnen und Psychologische
 Psychotherapeuten sowie Kinder- und Jugendlichenpsychotherapeutinnen
@@ -1418,6 +1451,7 @@ Pflichten wie eine Person mit einer Approbation nach § 1 Absatz 1.
 
 
 ### § 27 Abschluss von Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002801116)
 
 (1) Ist eine Ausbildung zur Psychologischen Psychotherapeutin, zum
 Psychologischen Psychotherapeuten, zur Kinder- und
@@ -1516,6 +1550,7 @@ Approbation nach § 1 Absatz 1.
 
 
 ### § 28 Weitergelten der staatlichen Anerkennung von Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html#BJNR160410019BJNE002900000)
 
 (1) Ausbildungsstätten, die nach § 6 des Psychotherapeutengesetzes in
 der bis zum 31. August 2020 geltenden Fassung staatlich anerkannt

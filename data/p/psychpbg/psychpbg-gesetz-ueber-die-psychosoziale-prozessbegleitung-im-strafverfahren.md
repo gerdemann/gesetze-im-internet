@@ -23,6 +23,7 @@ Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000100000)
 
 Dieses Gesetz regelt für die psychosoziale Prozessbegleitung nach §
 406g der Strafprozessordnung
@@ -41,6 +42,7 @@ Dieses Gesetz regelt für die psychosoziale Prozessbegleitung nach §
 
 
 ## § 2 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000200000)
 
 (1) Psychosoziale Prozessbegleitung ist eine besondere Form der nicht
 rechtlichen Begleitung im Strafverfahren für besonders
@@ -61,6 +63,7 @@ diesem zu Beginn der Prozessbegleitung zu informieren.
 
 
 ## § 3 Anforderungen an die Qualifikation
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000300000)
 
 (1) Psychosoziale Prozessbegleiter müssen fachlich, persönlich und
 interdisziplinär qualifiziert sein.
@@ -97,6 +100,7 @@ seine regelmäßige Fortbildung sicher.
 
 
 ## § 4 Anerkennung und weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000400000)
 
 Die Länder bestimmen, welche Personen und Stellen für die
 psychosoziale Prozessbegleitung anerkannt werden, welche weiteren
@@ -106,6 +110,7 @@ sind.
 
 
 ## § 5 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000500000)
 
 (1) Die Vergütung des nach § 406g Absatz 3 der Strafprozessordnung
 beigeordneten psychosozialen Prozessbegleiters richtet sich nach den
@@ -132,6 +137,7 @@ Mitarbeiter einer nicht öffentlichen Stelle tätig, steht die Vergütung
 
 
 ## § 6 Höhe der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000600000)
 
 Der beigeordnete psychosoziale Prozessbegleiter erhält für die
 Wahrnehmung seiner Aufgaben aus der Staatskasse für eine psychosoziale
@@ -154,6 +160,7 @@ auf die Vergütung entfallenden Umsatzsteuer abgegolten.
 
 
 ## § 7 Entstehung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000700000)
 
 Der Anspruch auf Vergütung entsteht für jeden Verfahrensabschnitt nach
 § 6 Satz 1 gesondert. Das gerichtliche Verfahren beginnt, wenn das für
@@ -162,6 +169,7 @@ Hauptverfahrens nach § 203 der Strafprozessordnung beschließt.
 
 
 ## § 8 Anwendung des Rechtsanwaltsvergütungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000800000)
 
 Auf den Umfang und die Fälligkeit des Vergütungsanspruchs sowie auf
 die Festsetzung der Vergütungen und Vorschüsse einschließlich der
@@ -171,6 +179,7 @@ Rechtsanwaltsvergütungsgesetzes entsprechend anzuwenden.
 
 
 ## § 9 Erlöschen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE000900000)
 
 Der Vergütungsanspruch erlischt, wenn er nicht binnen 15 Monaten nach
 Einstellung oder rechtskräftigem Abschluss des Verfahrens bei dem für
@@ -179,6 +188,7 @@ wird.
 
 
 ## § 10 Öffnungsklausel; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE001000000)
 
 (1) Die Landesregierungen können für ihren Bereich durch
 Rechtsverordnung bestimmen, dass die in diesem Gesetz genannten
@@ -192,6 +202,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/psychpbg/BJNR252900015.html#BJNR252900015BJNE001100000)
 
 Die Länder können abweichend von den Voraussetzungen des § 3 Absatz 2
 Satz 1 Nummer 2 bis zum 31. Juli 2017 bestimmen, dass Personen, die

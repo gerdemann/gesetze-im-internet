@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000100000)
 
 Teil I
 
@@ -313,12 +314,15 @@ Kapitel 11
 
 
 ## Teil I - Wasserstraßen der Zone 2-Binnen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000100000)
 
 
 ### Kapitel 1 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 2-Binnen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000200000)
 
 
 #### § 1.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000200000)
 
 
 1.  Auf Wasserstraßen der Zone 2-Binnen ist ES-TRIN mit den sich aus den
@@ -360,6 +364,7 @@ Kapitel 11
 
 
 #### § 1.02 Sonderbestimmungen für Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000301119)
 
 
 1.  Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten
@@ -385,12 +390,15 @@ Kapitel 11
 
 
 ## Teil II - Wasserstraßen der Zone 2-See
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000300000)
 
 
 ### Kapitel 2 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000400000)
 
 
 #### § 2.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000400000)
 
 
 1.  Auf Wasserstraßen der Zone 2-See ist ES-TRIN mit den sich aus den
@@ -410,14 +418,17 @@ Kapitel 11
 
 
 ### Kapitel 3 - Festigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000500000)
 
 (ohne Inhalt)
 
 
 ### Kapitel 4 - Sicherheitsabstand und Freibord
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000600000)
 
 
 #### § 4.01 Sicherheitsabstand
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000500000)
 
 
 1.  Der Sicherheitsabstand muss mindestens 0,45 m betragen.
@@ -436,6 +447,7 @@ Kapitel 11
 
 
 #### § 4.02 Freibord
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000600000)
 
 
 1.  Der Freibord für Schiffe mit durchlaufendem Deck, ohne Sprung und ohne
@@ -534,9 +546,11 @@ Kapitel 11
 
 
 ### Kapitel 5 - Verschlusszustand der Öffnungen des Schiffskörpers und der Aufbauten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000700000)
 
 
 #### § 5.01 Aufbauten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000700000)
 
 
 1.  Alle Öffnungen in den Aufbauten müssen mit Süllen von mindestens 0,15
@@ -557,6 +571,7 @@ Kapitel 11
 
 
 #### § 5.02 Türen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000800000)
 
 Alle äußeren Türen, die Zugang zu Räumen unter dem Freiborddeck
 gewähren, müssen mindestens sprühwasser- und wetterdicht verschließbar
@@ -564,6 +579,7 @@ und von ausreichender Festigkeit sein.
 
 
 #### § 5.03 Fenster und Oberlichter
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE000900000)
 
 
 1.  Fenster unterhalb des Schottendecks müssen wasserdicht und mit einer
@@ -603,6 +619,7 @@ und von ausreichender Festigkeit sein.
 
 
 #### § 5.04 Abdeckung der Laderäume
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001000000)
 
 
 1.  Die wasserdichte Abdeckung der Laderäume muss folgenden Bestimmungen
@@ -669,15 +686,18 @@ und von ausreichender Festigkeit sein.
 
 
 ### Kapitel 6 - Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000800000)
 
 
 #### § 6.01 Ankerketten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001100000)
 
 Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette
 mindestens 60 m lang sein.
 
 
 #### § 6.02 Kompass
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001202119)
 
 
 1.  Fahrzeuge mit eigener Triebkraft müssen mit einem von der zuständigen
@@ -726,6 +746,7 @@ mindestens 60 m lang sein.
 
 
 #### § 6.03 Navigationsradaranlage
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001300000)
 
 
 1.  Fahrzeuge mit eigener Triebkraft müssen mit einer
@@ -740,6 +761,7 @@ mindestens 60 m lang sein.
 
 
 #### § 6.04 Sende- und Empfangsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001400000)
 
 Fahrzeuge mit eigener Triebkraft müssen mit einer Funkanlage für die
 Teilnahme am Binnenschifffahrtsfunk nach den Bestimmungen der
@@ -748,6 +770,7 @@ sein.
 
 
 #### § 6.05 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001500000)
 
 
 1.  Ein Drittel der vorgeschriebenen Rettungsringe muss mit jeweils einer
@@ -767,6 +790,7 @@ sein.
 
 
 #### § 6.06 Sonstige Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001601119)
 
 Folgende Ausrüstungsgegenstände müssen mindestens vorhanden sein:
 
@@ -811,15 +835,18 @@ d)  an Bord von Fahrzeugen mit Besatzung zusätzlich die in § 13 Absatz 1
 
 
 ### Kapitel 7 - Sonderbestimmungen für Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG000900000)
 
 
 #### § 7.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001700000)
 
 Für Fahrgastschiffe auf Wasserstraßen der Zone 2-See gelten Kapitel 3
 und 4 sowie die Bestimmungen des § 6.05 nicht.
 
 
 #### § 7.02 Festigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001800000)
 
 Abweichend von Artikel 3.02 Nummer 1 Buchstabe a ES-TRIN muss der
 Schiffskörper den Vorschriften einer anerkannten
@@ -831,6 +858,7 @@ umgebaut worden ist.
 
 
 #### § 7.03 Stabilität, Sicherheitsabstand und Freibord
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE001900000)
 
 
 1.  Abweichend von den Bestimmungen nach Artikel 19.04 Nummer 1 ES-TRIN
@@ -869,6 +897,7 @@ umgebaut worden ist.
 
 
 #### § 7.04 Höchstzulässige Zahl der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002000000)
 
 Die höchstzulässige Zahl der Fahrgäste ist nach den Bestimmungen des
 Artikels 19.05 Nummer 2 Buchstabe b ES-TRIN unter Berücksichtigung des
@@ -876,6 +905,7 @@ Artikels 19.05 Nummer 2 Buchstabe b ES-TRIN unter Berücksichtigung des
 
 
 #### § 7.05 Anker
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002100000)
 
 Für Fahrgastschiffe ist die Gesamtmasse P der Buganker nach folgender
 Formel zu berechnen:
@@ -895,6 +925,7 @@ f   frontale Windangriffsfläche in m
 
 
 #### § 7.06 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002200000)
 
 Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch
 Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung
@@ -902,22 +933,27 @@ mit dessen Nummer 7 bis 9 ersetzt werden.
 
 
 ### Kapitel 8 - Sonderbestimmungen für Verbände und Containerverkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG001000000)
 
 (ohne Inhalt)
 
 
 ### Kapitel 9 - Sonderbestimmungen für schwimmende Geräte
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG001100000)
 
 (ohne Inhalt)
 
 
 ## Teil III - Wasserstraßen der Zone 1
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG001200000)
 
 
 ### Kapitel 10 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 1
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG001300000)
 
 
 #### § 10.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002300000)
 
 
 1.  Auf Wasserstraßen der Zone 1 ist ES-TRIN mit den sich aus den
@@ -932,16 +968,19 @@ mit dessen Nummer 7 bis 9 ersetzt werden.
 
 
 #### § 10.02 Sicherheitsabstand
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002400000)
 
 Der Sicherheitsabstand muss mindestens 1,20 m betragen.
 
 
 #### § 10.03 Freibord
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002500000)
 
 Der Freibord muss mindestens 0,50 m betragen.
 
 
 #### § 10.04 Verschlusszustand
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002601119)
 
 
 1.  Abweichend von Artikel 4.03 Nummer 11 ES-TRIN ist die Ebene der
@@ -958,6 +997,7 @@ Der Freibord muss mindestens 0,50 m betragen.
 
 
 #### § 10.05 Festigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002700000)
 
 Eine anerkannte Klassifikationsgesellschaft muss bescheinigen, dass
 das Fahrzeug zur Fahrt auf Wasserstraßen der Zone 1 ausreichende
@@ -967,6 +1007,7 @@ Fahrtbedingungen des Fahrzeugs gemäß § 10.06 angeben.
 
 
 #### § 10.06 Zulässige Fahrtbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002800000)
 
 Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs
 werden dessen zulässige Fahrtbedingungen – insbesondere Beschränkung
@@ -978,6 +1019,7 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
 
 #### § 10.07 Zusätzliche Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE002900000)
 
 
 1.  Zusätzlich zu den Bestimmungen nach Kapitel 6 müssen Fahrzeuge mit
@@ -1019,6 +1061,7 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
 
 #### § 10.08 Sonderbestimmungen für Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE003000000)
 
 
 1.  Für Fahrgastschiffe auf Wasserstraßen der Zone 1 gelten die §§ 10.02
@@ -1036,12 +1079,15 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
 
 ## Teil IV - 
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG001400000)
 
 
 ### Kapitel 11 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNG001500000)
 
 
 #### § 11.01 Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE003100000)
 
 
 1.  Die nachstehenden Bestimmungen gelten für Fahrzeuge, für die ein
@@ -1060,6 +1106,7 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
 
 #### § 11.02 Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE003201119)
 
 
 1.  Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig
@@ -1207,6 +1254,7 @@ der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
 
 #### Anlage Anforderungen an Kompasse und Steuerkurstransmitter
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iii/BJNR145900018.html#BJNR145900018BJNE003302119)
 
 (Fundstelle: BGBl. I 2018, 1468 - 1471)
 

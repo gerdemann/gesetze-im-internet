@@ -24,9 +24,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2129-6-3 v. 26.10.1977 I 1913 (AbfBeauftrV)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000200000)
 
 Diese Verordnung regelt den Kreis der zur Bestellung von
 Abfallbeauftragten Verpflichteten und die Anforderungen an
@@ -34,6 +36,7 @@ Abfallbeauftragte.
 
 
 ### § 2 Pflicht zur Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000303130)
 
 Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
@@ -146,6 +149,7 @@ Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
 
 ### § 3 Mehrere Abfallbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000400000)
 
 Die zuständige Behörde kann anordnen, dass die zur Bestellung
 Verpflichteten mehrere betriebsangehörige Abfallbeauftragte zu
@@ -155,6 +159,7 @@ Kreislaufwirtschaftsgesetzes bezeichneten Aufgaben sichergestellt ist.
 
 
 ### § 4 Gemeinsamer Abfallbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000500000)
 
 Betreibt ein zur Bestellung Verpflichteter mehrere Anlagen, mehrere
 Betriebe als Besitzer im Sinne des § 27 des
@@ -166,6 +171,7 @@ bezeichneten Aufgaben nicht beeinträchtigt wird.
 
 
 ### § 5 Nicht betriebsangehöriger Abfallbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000600000)
 
 Die zuständige Behörde soll einem zur Bestellung Verpflichteten auf
 Antrag die Bestellung eines oder mehrerer nicht betriebsangehöriger
@@ -175,6 +181,7 @@ bezeichneten Aufgaben nicht beeinträchtigt wird.
 
 
 ### § 6 Abfallbeauftragter für Konzerne
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000700000)
 
 Ist die Anlage, der Betrieb eines Besitzers im Sinne des § 27 des
 Kreislaufwirtschaftsgesetzes, das Rücknahmesystem oder die
@@ -210,6 +217,7 @@ den Konzernbereich gestatten,
 
 
 ### § 7 Ausnahme von der Pflicht zur Bestellung eines Abfallbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000800000)
 
 Die zuständige Behörde hat auf Antrag den zur Bestellung
 Verpflichteten von seiner Pflicht zu befreien, wenn die Bestellung im
@@ -219,9 +227,11 @@ angelieferten oder zurückgenommenen Abfälle nicht erforderlich ist.
 
 
 ## Abschnitt 2 - Anforderungen an Abfallbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNG000200000)
 
 
 ### § 8 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE000900000)
 
 (1) Die nach § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in
 Verbindung mit § 55 Absatz 2 Satz 1 des Bundes-
@@ -287,6 +297,7 @@ wenn die betroffene Person
 
 
 ### § 9 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE001000000)
 
 (1) Die nach § 60 Absatz 3 Satz 1 des Kreislaufwirtschaftsgesetzes in
 Verbindung mit § 55 Absatz 2 Satz 1 des Bundes-
@@ -377,6 +388,7 @@ werden.
 
 
 ### § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE001100000)
 
 (1) Die Anforderungen des § 9 Absatz 1 gelten nicht für
 Abfallbeauftragte, die am 1. Juni 2017 bereits bestellt worden sind.
@@ -392,6 +404,7 @@ der zuständigen Behörde anerkannten Lehrgang gemäß § 9 Absatz 1 Nummer
 (zu § 9 Absatz 1 Nummer 3 und Absatz 2 Satz 2)
 
 ### Anlage 1 Lehrgangsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/abfbeauftrv_2017/BJNR278900016.html#BJNR278900016BJNE001202130)
 
 (Fundstelle: BGBl. I 2016, 2792 - 2793)
 

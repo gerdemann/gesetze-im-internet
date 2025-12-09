@@ -27,9 +27,11 @@ Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
 
 
 ## (XXXX) Art 1 bis 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrvrg/BJNR185200001.html#BJNR185200001BJNE000100306)
 
 
 ## Art 13 Neufassung des Betriebsverfassungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/betrvrg/BJNR185200001.html#BJNR185200001BJNE000200306)
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Betriebsverfassungsgesetzes in der vom Inkrafttreten dieses
@@ -37,6 +39,7 @@ Gesetzes an geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betrvrg/BJNR185200001.html#BJNR185200001BJNE000300306)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft. Für im
 Zeitpunkt des Inkrafttretens bestehende Betriebsräte gilt Artikel 1

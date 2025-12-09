@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eupatanmver_ffv/BJNR214690978.html#BJNR214690978BJNE000100314)
 
 Auf Grund des Artikels II § 2 Abs. 2 Satz 1 des Gesetzes über
 internationale Patentübereinkommen vom 21. Juni 1976 (BGBl. II S. 649)
@@ -30,6 +31,7 @@ internationale Patentübereinkommen vom 27. November 1978 (BGBl. II S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eupatanmver_ffv/BJNR214690978.html#BJNR214690978BJNE000202377)
 
 Der Antrag auf Veröffentlichung der deutschen Übersetzung der
 Patentansprüche einer europäischen Patentanmeldung ist auf dem vom
@@ -80,12 +82,14 @@ einzureichen. Der Antrag muß in deutscher Sprache enthalten
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eupatanmver_ffv/BJNR214690978.html#BJNR214690978BJNE000301377)
 
 Die deutsche Übersetzung der Patentansprüche ist dem Antrag nach § 1
 als Anlage beizufügen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eupatanmver_ffv/BJNR214690978.html#BJNR214690978BJNE000400314)
 
 Die Anlagen müssen deutlich erkennen lassen, zu welchem Antrag sie
 gehören. Das Aktenzeichen der europäischen Patentanmeldung ist unter
@@ -95,6 +99,7 @@ Blattes anzubringen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/eupatanmver_ffv/BJNR214690978.html#BJNR214690978BJNE000503377)
 
 Die Blätter der Übersetzung sind mit arabischen Ziffern fortlaufend zu
 nummerieren. Die Blattnummern sind unterhalb des oberen Randes in der
@@ -104,6 +109,7 @@ Patentverordnung entsprechend.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eupatanmver_ffv/BJNR214690978.html#BJNR214690978BJNE000800314)
 
 Der Präsident des Deutschen Patentamts
 

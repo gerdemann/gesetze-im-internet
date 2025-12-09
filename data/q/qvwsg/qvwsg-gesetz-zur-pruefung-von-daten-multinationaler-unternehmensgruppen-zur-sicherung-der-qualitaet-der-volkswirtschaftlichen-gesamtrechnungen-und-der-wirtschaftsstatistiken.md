@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Aufgabe des Statistischen Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/qvwsg/BJNR175700021.html#BJNR175700021BJNE000100000)
 
 Das Statistische Bundesamt hat die Aufgabe, in Zusammenarbeit mit den
 statistischen Ämtern der Länder und der Deutschen Bundesbank die Daten
@@ -27,6 +28,7 @@ Gesamtrechnungen und den Wirtschaftsstatistiken zu sichern.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/qvwsg/BJNR175700021.html#BJNR175700021BJNE000200000)
 
 Die deutsche Entscheidungseinheit in einer multinationalen
 Unternehmensgruppe nach Artikel 3 Absatz 1 Buchstabe r der Verordnung
@@ -42,6 +44,7 @@ der Unternehmensgruppe geben kann.
 
 
 ## § 3 Datenübermittlung und Datenzusammenführung
+[Direktlink](https://www.gesetze-im-internet.de/qvwsg/BJNR175700021.html#BJNR175700021BJNE000300000)
 
 (1) Die Wirtschaftsstatistiken im Sinne dieses Gesetzes umfassen
 insbesondere Struktur-, Konjunktur-, Steuer-, Außenhandels-, Forschung
@@ -116,6 +119,7 @@ nach § 30 Absatz 2 der Abgabenordnung betraut sind, unberührt.
 
 
 ## § 4 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/qvwsg/BJNR175700021.html#BJNR175700021BJNE000400000)
 
 (1) Zur Beseitigung von Inkohärenzen dürfen die Leiterinnen und Leiter
 der deutschen Entscheidungseinheit einer multinationalen
@@ -143,6 +147,7 @@ Bundesbank, soweit ihre Datensätze betroffen sind, zu übermitteln.
 
 
 ## § 5 Supranationale Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/qvwsg/BJNR175700021.html#BJNR175700021BJNE000500000)
 
 (1) Das Statistische Bundesamt darf Daten nach § 3 Absatz 2 an
 nationale statistische Ämter der Europäischen Union im Sinne von

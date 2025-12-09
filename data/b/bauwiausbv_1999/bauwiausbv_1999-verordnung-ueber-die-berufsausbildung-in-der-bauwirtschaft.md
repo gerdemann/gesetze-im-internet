@@ -32,6 +32,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -47,10 +48,12 @@ Forschung:
 
 
 ## Erster Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG000201308)
 
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000201308)
 
 (1) Es werden gemäß § 25 der Handwerksordnung für eine Ausbildung in
 den Gewerben Nr. 1 Maurer und Betonbauer, Nr. 3 Zimmerer, Nr. 5
@@ -161,6 +164,7 @@ Bereich der Industrie staatlich anerkannt:
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000301308)
 
 (1) Die Stufenausbildung in der Bauwirtschaft dauert insgesamt 36
 Monate.
@@ -181,6 +185,7 @@ im zweiten Ausbildungsjahr.
 
 
 ### § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000401308)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -198,6 +203,7 @@ nachzuweisen.
 
 
 ### § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000501308)
 
 (1) Die Berufsausbildung ist entsprechend den Ausbildungsrahmenplänen
 (Anlagen 1 bis 18) während einer Dauer von 32 bis 37 Wochen wie folgt
@@ -227,14 +233,17 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## Zweiter Teil - Vorschriften für die Ausbildungsberufe Hochbaufacharbeiter/Hochbaufacharbeiterin, Ausbaufacharbeiter/Ausbaufacharbeiterin und Tiefbaufacharbeiter/Tiefbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG000500000)
 
 
 
 ### 1. Abschnitt - Hochbaufacharbeiter/Hochbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG000601308)
 
 
 
 #### § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000701308)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -307,6 +316,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000801308)
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter
 Berücksichtigung der Schwerpunkte "Maurerarbeiten", "Beton- und
@@ -322,12 +332,14 @@ die Abweichung erfordern.
 
 
 #### § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE000901308)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001001308)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -336,6 +348,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001101308)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -385,6 +398,7 @@ ergeben sich aus § 10 Abs. 1 bis 4.
 
 
 #### § 10 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001201308)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -640,10 +654,12 @@ Berufsbildungsgesetzes.
 
 
 ### 2. Abschnitt - Ausbaufacharbeiter/Ausbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG001300000)
 
 
 
 #### § 11 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -710,6 +726,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 12 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001500000)
 
 Die in § 11 genannten Fertigkeiten und Kenntnisse sollen unter
 Berücksichtigung der Schwerpunkte "Zimmerarbeiten",
@@ -727,12 +744,14 @@ erfordern.
 
 
 #### § 13 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 14 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -741,6 +760,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 15 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001801308)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -800,6 +820,7 @@ ergeben sich aus § 16 Abs. 1 bis 4.
 
 
 #### § 16 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE001901308)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -1139,10 +1160,12 @@ Berufsbildungsgesetzes.
 
 
 ### 3. Abschnitt - Tiefbaufacharbeiter/Tiefbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG002000000)
 
 
 
 #### § 17 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002100000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -1199,6 +1222,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 18 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002200000)
 
 Die in § 17 genannten Fertigkeiten und Kenntnisse sollen unter
 Berücksichtigung der Schwerpunkte "Straßenbauarbeiten",
@@ -1215,12 +1239,14 @@ Abweichung erfordern.
 
 
 #### § 19 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002300000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 20 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002400000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -1229,6 +1255,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 21 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002501308)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -1285,6 +1312,7 @@ ergeben sich aus § 22 Abs. 1 bis 4.
 
 
 #### § 22 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002601308)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 3
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -1590,14 +1618,17 @@ Berufsbildungsgesetzes.
 
 
 ## Dritter Teil - Vorschriften für die aufbauenden Ausbildungsberufe nach § 1 Abs. 1 Nr. 2 bis 4 sowie Abs. 2 Nr. 1 bis 3
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG002601308)
 
 
 
 ### 1. Abschnitt - Maurer/Maurerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG002700000)
 
 
 
 #### § 23 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002800000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -1643,6 +1674,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 24 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE002900000)
 
 Die in § 23 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -1654,12 +1686,14 @@ erfordern.
 
 
 #### § 25 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003000000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 26 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003100000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -1668,6 +1702,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 27 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003200000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 4
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -1863,10 +1898,12 @@ erbracht worden sein.
 
 
 ### 2. Abschnitt - Beton- und Stahlbetonbauer/Beton- und Stahlbetonbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG003300000)
 
 
 
 #### § 28 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -1906,6 +1943,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 29 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003500000)
 
 Die in § 28 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -1917,12 +1955,14 @@ erfordern.
 
 
 #### § 30 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 31 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -1931,6 +1971,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 32 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE003800000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 5
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -2114,10 +2155,12 @@ erbracht worden sein.
 
 
 ### 3. Abschnitt - Feuerungs- und Schornsteinbauer/Feuerungs- und Schornsteinbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG003900000)
 
 
 
 #### § 33 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004000000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -2163,6 +2206,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 34 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004100000)
 
 Die in § 33 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -2174,12 +2218,14 @@ erfordern.
 
 
 #### § 35 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004200000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 36 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004300000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -2188,6 +2234,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 37 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004400000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 6
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -2359,10 +2406,12 @@ erbracht worden sein.
 
 
 ### Abschnitt 3a - Bauwerksmechaniker für Abbruch und Betontrenntechnik/Bauwerksmechanikerin für Abbruch und Betontrenntechnik
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG011700308)
 
 
 
 #### § 37a Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014200308)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -2404,6 +2453,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 37b Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014300308)
 
 Die in § 37a genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 6a enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -2416,12 +2466,14 @@ Abweichung erfordern.
 
 
 #### § 37c Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014400308)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 37d Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014500308)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -2430,6 +2482,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 37e Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014600308)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und
 6a der Verordnung aufgeführten Fertigkeiten und Kenntnisse sowie auf
@@ -2577,10 +2630,12 @@ erbracht worden sein.
 
 
 ### 4. Abschnitt - Zimmerer/Zimmerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG004500000)
 
 
 
 #### § 38 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -2629,6 +2684,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 39 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004700000)
 
 Die in § 38 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 7 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -2640,12 +2696,14 @@ erfordern.
 
 
 #### § 40 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004800000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 41 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE004900000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -2654,6 +2712,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 42 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005000000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 7
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -2814,10 +2873,12 @@ erbracht worden sein.
 
 
 ### 5. Abschnitt - Stukkateur/Stukkateurin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG005100000)
 
 
 
 #### § 43 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005200000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -2865,6 +2926,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 44 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005300000)
 
 Die in § 43 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 8 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -2876,12 +2938,14 @@ erfordern.
 
 
 #### § 45 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005400000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 46 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005500000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -2890,6 +2954,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 47 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005600000)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
 Anlagen 2 und 8 aufgeführten Fertigkeiten und Kenntnisse sowie auf den
@@ -3037,10 +3102,12 @@ erbracht worden sein.
 
 
 ### 6. Abschnitt - Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG005700000)
 
 
 
 #### § 48 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005800000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -3081,6 +3148,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 49 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE005900000)
 
 Die in § 48 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 9 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -3092,12 +3160,14 @@ erfordern.
 
 
 #### § 50 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006000000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 51 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006100000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -3106,6 +3176,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 52 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006200000)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
 Anlagen 2 und 9 aufgeführten Fertigkeiten und Kenntnisse sowie auf den
@@ -3290,10 +3361,12 @@ erbracht worden sein.
 
 
 ### 7. Abschnitt - Estrichleger/Estrichlegerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG006300000)
 
 
 
 #### § 53 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -3342,6 +3415,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 54 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006500000)
 
 Die in § 53 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 10 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -3353,12 +3427,14 @@ erfordern.
 
 
 #### § 55 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 56 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -3367,6 +3443,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 57 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE006800000)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
 Anlagen 2 und 10 aufgeführten Fertigkeiten und Kenntnisse sowie auf
@@ -3541,10 +3618,12 @@ Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 8. Abschnitt - Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und Schallschutzisoliererin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG006900000)
 
 
 
 #### § 58 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007000000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -3595,6 +3674,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 59 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007100000)
 
 Die in § 58 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 11 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -3607,12 +3687,14 @@ Abweichung erfordern.
 
 
 #### § 60 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007200000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 61 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007300000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -3621,6 +3703,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 62 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007400000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 11
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -3805,10 +3888,12 @@ Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ### 9. Abschnitt - Trockenbaumonteur/Trockenbaumonteurin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG007500000)
 
 
 
 #### § 63 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -3847,6 +3932,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 64 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007700000)
 
 Die in § 63 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 12 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -3858,12 +3944,14 @@ erfordern.
 
 
 #### § 65 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007800000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 66 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE007900000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -3872,6 +3960,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 67 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008000000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 12
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -4025,10 +4114,12 @@ erbracht worden sein.
 
 
 ### 10. Abschnitt - Straßenbauer/Straßenbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG008100000)
 
 
 
 #### § 68 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008200000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -4076,6 +4167,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 69 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008300000)
 
 Die in § 68 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 13 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -4087,12 +4179,14 @@ erfordern.
 
 
 #### § 70 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008400000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 71 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008500000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -4101,6 +4195,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 72 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008600000)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
 Anlagen 3 und 13 aufgeführten Fertigkeiten und Kenntnisse sowie auf
@@ -4286,10 +4381,12 @@ erbracht worden sein.
 
 
 ### 11. Abschnitt - Rohrleitungsbauer/Rohrleitungsbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG008700000)
 
 
 
 #### § 73 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008800000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -4334,6 +4431,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 74 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE008900000)
 
 Die in § 73 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 14 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -4345,12 +4443,14 @@ erfordern.
 
 
 #### § 75 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009000000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 76 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009100000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -4359,6 +4459,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 77 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009200000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 14
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -4533,10 +4634,12 @@ erbracht worden sein.
 
 
 ### 12. Abschnitt - Kanalbauer/Kanalbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG009300000)
 
 
 
 #### § 78 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -4581,6 +4684,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 79 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009500000)
 
 Die in § 78 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 15 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -4592,12 +4696,14 @@ erfordern.
 
 
 #### § 80 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 81 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -4606,6 +4712,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 82 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE009800000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 15
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -4778,10 +4885,12 @@ erbracht worden sein.
 
 
 ### 13. Abschnitt - Brunnenbauer/Brunnenbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG009900000)
 
 
 
 #### § 83 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010000000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -4835,6 +4944,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 84 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010100000)
 
 Die in § 83 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 16 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -4846,12 +4956,14 @@ erfordern.
 
 
 #### § 85 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010200000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 86 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010300000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -4860,6 +4972,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 87 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010400000)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den
 Anlagen 3 und 16 aufgeführten Fertigkeiten und Kenntnisse sowie auf
@@ -5027,10 +5140,12 @@ erbracht worden sein.
 
 
 ### 14. Abschnitt - Spezialtiefbauer/Spezialtiefbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG010500000)
 
 
 
 #### § 88 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -5090,6 +5205,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 89 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010700000)
 
 Die in § 88 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 17 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -5101,12 +5217,14 @@ erfordern.
 
 
 #### § 90 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010800000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 91 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE010900000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -5115,6 +5233,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 92 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011000000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 17
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -5288,10 +5407,12 @@ erbracht worden sein.
 
 
 ### 15. Abschnitt - Gleisbauer/Gleisbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG011100000)
 
 
 
 #### § 93 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011200000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -5333,6 +5454,7 @@ Fertigkeiten und Kenntnisse:
 
 
 #### § 94 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011300000)
 
 Die in § 93 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage 18 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -5344,12 +5466,14 @@ erfordern.
 
 
 #### § 95 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011400000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 #### § 96 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011500000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -5358,6 +5482,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 #### § 97 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011600000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 18
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -5533,10 +5658,12 @@ Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
 
 ## Vierter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNG011600000)
 
 
 
 ### § 98 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011700000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -5545,12 +5672,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ### § 99 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE011800000)
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 (zu § 6)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Hochbaufacharbeiter/zur Hochbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE012401308)
 
 (Fundstelle: BGBl. I 1999, 1132 - 1145;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7292,6 +7421,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 12)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Ausbaufacharbeiter/zur Ausbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE012500305)
 
 (Fundstelle: BGBl. I 1999, 1146 - 1168)
 
@@ -10215,6 +10345,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 18)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Tiefbaufacharbeiter/zur Tiefbaufacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE012600305)
 
 (Fundstelle: BGBl. I 1999, 1169 - 1189)
 
@@ -12846,6 +12977,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 24)
 
 ### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Maurer/zur Maurerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE012700305)
 
 (Fundstelle: BGBl. I 1999, 1190 - 1192)
 
@@ -13222,6 +13354,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 29)
 
 ### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Beton- und Stahlbetonbauer/zur Beton- und Stahlbetonbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE012800305)
 
 (Fundstelle: BGBl. I 1999, 1193 - 1195)
 
@@ -13554,6 +13687,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 34)
 
 ### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Feuerungs- und Schornsteinbauer/zur Feuerungs- und Schornsteinbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE012900305)
 
 (Fundstelle: BGBl. I 1999, 1196 - 1198)
 
@@ -13918,6 +14052,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 37b)
 
 ### Anlage 6a Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerkmechaniker für Abbruch und Betontrenntechnik/zur Bauwerksmechanikerin für Abbruch und Betontrenntechnik
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014701310)
 
 (Fundstelle: BGBl. I 2004, 539 - 541;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14270,6 +14405,7 @@ vertiefen.
 (zu § 39)
 
 ### Anlage 7 Ausbildungsrahmenplan für die Berufsausbildung zum Zimmerer/zur Zimmerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013000305)
 
 (Fundstelle: BGBl. I 1999, 1199 - 1201)
 
@@ -14632,6 +14768,7 @@ vertiefen.
 (zu § 44)
 
 ### Anlage 8 Ausbildungsrahmenplan für die Berufsausbildung zum Stukkateur/zur Stukkateurin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013100305)
 
 (Fundstelle: BGBl. I 1999, 1202 - 1204)
 
@@ -15018,6 +15155,7 @@ vertiefen.
 (zu § 49)
 
 ### Anlage 9 Ausbildungsrahmenplan für die Berufsausbildung zum Fliesen-, Platten- und Mosaikleger/zur Fliesen-, Platten- und Mosaiklegerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013200305)
 
 (Fundstelle: BGBl. I 1999, 1205 - 1207)
 
@@ -15339,6 +15477,7 @@ vertiefen.
 (zu § 54)
 
 ### Anlage 10 Ausbildungsrahmenplan für die Berufsausbildung zum Estrichleger/zur Estrichlegerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013300305)
 
 (Fundstelle: BGBl. I 1999, 1208 - 1210)
 
@@ -15690,6 +15829,7 @@ vertiefen.
 (zu § 59)
 
 ### Anlage 11 Ausbildungsrahmenplan für die Berufsausbildung zum Wärme-, Kälte- und Schallschutzisolierer/zur Wärme-, Kälte- und Schallschutzisoliererin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013400305)
 
 (Fundstelle: BGBl. I 1999, 1211 - 1213)
 
@@ -16097,6 +16237,7 @@ vertiefen.
 (zu § 64)
 
 ### Anlage 12 Ausbildungsrahmenplan für die Berufsausbildung zum Trockenbaumonteur/zur Trockenbaumonteurin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013500305)
 
 (Fundstelle: BGBl. I 1999, 1214 - 1216)
 
@@ -16445,6 +16586,7 @@ vertiefen.
 (zu § 69)
 
 ### Anlage 13 Ausbildungsrahmenplan für die Berufsausbildung zum Straßenbauer/zur Straßenbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013600305)
 
 (Fundstelle: BGBl. I 1999, 1217 - 1219)
 
@@ -16807,6 +16949,7 @@ vertiefen.
 (zu § 74)
 
 ### Anlage 14 Ausbildungsrahmenplan für die Berufsausbildung zum Rohrleitungsbauer/zur Rohrleitungsbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013700305)
 
 (Fundstelle: BGBl. I 1999, 1220 - 1222)
 
@@ -17172,6 +17315,7 @@ vertiefen.
 (zu § 79)
 
 ### Anlage 15 Ausbildungsrahmenplan für die Berufsausbildung zum Kanalbauer/zur Kanalbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013800305)
 
 (Fundstelle: BGBl. I 1999, 1223 - 1225)
 
@@ -17539,6 +17683,7 @@ vertiefen.
 (zu § 84)
 
 ### Anlage 16 Ausbildungsrahmenplan für die Berufsausbildung zum Brunnenbauer/zur Brunnenbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE013900305)
 
 (Fundstelle: BGBl. I 1999, 1226 - 1228)
 
@@ -17975,6 +18120,7 @@ vertiefen.
 (zu § 89)
 
 ### Anlage 17 Ausbildungsrahmenplan für die Berufsausbildung zum Spezialtiefbauer/zur Spezialtiefbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014000305)
 
 (Fundstelle: BGBl. I 1999, 1229 - 1232)
 
@@ -18425,6 +18571,7 @@ vertiefen.
 (zu § 94)
 
 ### Anlage 18 Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bauwiausbv_1999/BJNR110200999.html#BJNR110200999BJNE014100305)
 
 (Fundstelle: BGBl. I 1999, 1233 - 1235)
 

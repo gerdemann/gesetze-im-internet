@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2023-03-30_1/BJNR0830A0023.html#BJNR0830A0023BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „Hans im
@@ -54,11 +55,13 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2023-03-30_1/BJNR0830A0023.html#BJNR0830A0023BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2023-03-30_1/BJNR0830A0023.html#BJNR0830A0023BJNE000300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 131, S. 2)
 

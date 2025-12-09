@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000100319)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch § 24 des Gesetzes vom 24.
@@ -35,6 +36,7 @@ verordnet:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000201128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Gerüstbau-
@@ -77,6 +79,7 @@ Geprüfter Gerüstbau-Kolonnenführer.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000300319)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -105,6 +108,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000400319)
 
 (1) Die Prüfung gliedert sich in
 
@@ -123,6 +127,7 @@ beginnen.
 
 
 ## § 4 Fachtheoretischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000501128)
 
 (1) Im fachtheoretischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -267,6 +272,7 @@ Prüfungsfächern gute schriftliche Leistungen erbracht hat.
 
 
 ## § 5 Fachpraktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000601128)
 
 (1) Im fachpraktischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -338,6 +344,7 @@ Kolonne durchgeführt werden.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -349,6 +356,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -365,6 +373,7 @@ Prüfungsfächern nach § 5 Absatz 1 zu bewerten.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -397,6 +406,7 @@ Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE001600128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -423,6 +433,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE000901128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -436,17 +447,20 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE001101128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE001201128)
 
 Der Bundesminister für Bildung und Wissenschaft
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE001301128)
 
 (Fundstelle: BGBl. I 2019, 2277 – 2278)
 
@@ -748,6 +762,7 @@ Der Bundesminister für Bildung und Wissenschaft
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE001401128)
 
 (Fundstelle: BGBl. I 2019, 2279)
 
@@ -820,6 +835,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/ger_stbprv/BJNR017950978.html#BJNR017950978BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

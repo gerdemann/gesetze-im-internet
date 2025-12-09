@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimadiszv/BJNR117600010.html#BJNR117600010BJNE000100000)
 
 Auf Grund des § 83 Absatz 1 Satz 2 des Bundesdisziplinargesetzes vom
 9\. Juli 2001 (BGBl. I S. 1510) verordnet das Bundesministerium der
@@ -25,6 +26,7 @@ Finanzen im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Übertragung der Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimadiszv/BJNR117600010.html#BJNR117600010BJNE000200000)
 
 Die Disziplinarbefugnisse des Bundesministeriums der Finanzen
 gegenüber den Beamtinnen und Beamten der Bundesanstalt für
@@ -33,6 +35,7 @@ Vorstandes der Bundesanstalt übertragen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimadiszv/BJNR117600010.html#BJNR117600010BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

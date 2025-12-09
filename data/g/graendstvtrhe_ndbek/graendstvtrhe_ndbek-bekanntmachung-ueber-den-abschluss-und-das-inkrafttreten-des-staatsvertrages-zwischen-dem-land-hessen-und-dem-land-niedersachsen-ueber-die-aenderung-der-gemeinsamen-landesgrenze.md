@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrhe_ndbek/BJNR154900011.html#BJNR154900011BJNE000100000)
 
 Zwischen dem Land Hessen und dem Land Niedersachsen wurde am
 27\. Oktober 2010/10. November 2010 ein Staatsvertrag über die Änderung
@@ -46,6 +47,7 @@ Staatsvertrag nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrhe_ndbek/BJNR154900011.html#BJNR154900011BJNE000200000)
 
 Bundesministerium des Innern
 

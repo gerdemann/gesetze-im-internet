@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfinbestv_2005/BJNR168600005.html#BJNR168600005BJNE000100000)
 
 Auf Grund des § 3 Abs. 1 Satz 2 des
 Fernstraßenbauprivatfinanzierungsgesetzes in der Fassung der
@@ -28,6 +29,7 @@ Schleswig-Holstein:
 
 
 ## § 1 Bestimmung privatfinanzierter Abschnitte von Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfinbestv_2005/BJNR168600005.html#BJNR168600005BJNE000200000)
 
 Die in der Anlage bezeichneten Abschnitte von Bundesfernstraßen werden
 als Strecken festgelegt, die nach Maßgabe des
@@ -38,12 +40,14 @@ Bundesfernstraßen).
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfinbestv_2005/BJNR168600005.html#BJNR168600005BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage Privatfinanzierte Abschnitte von Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfinbestv_2005/BJNR168600005.html#BJNR168600005BJNE000400000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1686
 

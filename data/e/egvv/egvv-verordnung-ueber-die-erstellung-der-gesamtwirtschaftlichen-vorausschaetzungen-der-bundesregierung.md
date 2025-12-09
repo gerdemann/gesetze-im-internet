@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000100000)
 
 Auf Grund des § 3 Satz 3 des Vorausschätzungsgesetzes vom 27. Juni
 2017 (BGBl. I S. 2080) verordnet das Bundesministerium für Wirtschaft
@@ -25,6 +26,7 @@ und Energie im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Unabhängige Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000200000)
 
 (1) Unabhängige Einrichtung im Sinne des § 3 Satz 1 des
 Vorausschätzungsgesetzes ist die Projektgruppe Gemeinschaftsdiagnose
@@ -55,6 +57,7 @@ Kontaktstelle und einen eigenen Internetauftritt einrichten.
 
 
 ## § 2 Befürwortungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000300000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie legt der
 Gemeinschaftsdiagnose den Entwurf einer dem Befürwortungsverfahren
@@ -92,6 +95,7 @@ Gründe mit.
 
 
 ## § 3 Zugang zu Informationen; Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000400000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie gewährt der
 Gemeinschaftsdiagnose den zur Durchführung des Befürwortungsverfahrens
@@ -106,6 +110,7 @@ Informationen.
 
 
 ## § 4 Öffentliche Stellungnahmen
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000500000)
 
 Die Gemeinschaftsdiagnose kann das Ergebnis ihrer Prüfung
 veröffentlichen, allerdings nicht vor Veröffentlichung der
@@ -116,6 +121,7 @@ Wirtschaft und Energie.
 
 
 ## § 5 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000600000)
 
 Ab dem 1. Juli 2018 setzt sich die Gemeinschaftsdiagnose bis zum Ende
 der jeweiligen Vertragslaufzeit aus denjenigen
@@ -125,11 +131,13 @@ beauftragt sind.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2018 in Kraft.
 
 
 ## Anlage (zu § 2 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/egvv/BJNR337800017.html#BJNR337800017BJNE000800000)
 
 (Fundstelle: BGBl. I 2017, 3380 - 3381)
 

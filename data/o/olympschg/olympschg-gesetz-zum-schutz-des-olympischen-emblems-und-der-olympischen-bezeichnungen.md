@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Gegenstand des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000100000)
 
 (1) Gegenstand dieses Gesetzes ist der Schutz des olympischen Emblems
 und der olympischen Bezeichnungen.
@@ -36,6 +37,7 @@ einer anderen Sprache.
 
 
 ## § 2 Inhaber des Schutzrechts
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000200000)
 
 Das ausschließliche Recht auf die Verwendung und Verwertung des
 olympischen Emblems und der olympischen Bezeichnungen steht dem
@@ -44,6 +46,7 @@ Olympischen Komitee zu.
 
 
 ## § 3 Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000300000)
 
 (1) Dritten ist es untersagt, ohne Zustimmung der Inhaber des
 Schutzrechts im geschäftlichen Verkehr das olympische Emblem
@@ -101,6 +104,7 @@ Olympischen Bewegung im weitesten Sinne befasst.
 
 
 ## § 4 Benutzung von Namen und beschreibenden Angaben
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000400000)
 
 Die Inhaber des Schutzrechts haben nicht das Recht, einem Dritten zu
 untersagen, im geschäftlichen Verkehr
@@ -118,6 +122,7 @@ sofern die Benutzung nicht unlauter ist.
 
 
 ## § 5 Unterlassungsanspruch; Schadensersatzanspruch
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000500000)
 
 (1) Wer das olympische Emblem oder die olympischen Bezeichnungen
 entgegen § 3 benutzt, kann von dem Nationalen Olympischen Komitee für
@@ -131,6 +136,7 @@ Verletzungshandlung entstandenen Schadens verpflichtet.
 
 
 ## § 6 Vernichtungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000600000)
 
 Das Nationale Olympische Komitee für Deutschland und das
 Internationale Olympische Komitee können in Fällen des § 3 verlangen,
@@ -143,6 +149,7 @@ ist. Weitergehende Ansprüche auf Beseitigung bleiben unberührt.
 
 
 ## § 7 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000700000)
 
 Auf die Verjährung der in den §§ 5 und 6 genannten Ansprüche finden
 die Vorschriften des Abschnitts 5 des Ersten Buches Bürgerliches
@@ -150,6 +157,7 @@ Gesetzbuch entsprechende Anwendung.
 
 
 ## § 8 Fortgeltung bestehender Rechte
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000801360)
 
 Rechte Dritter, die auf Grund gesetzlicher Bestimmungen, auf Grund
 vertraglicher Vereinbarungen auf dem Gebiet des Vereins-, Marken-,
@@ -159,6 +167,7 @@ bestehen, bleiben unberührt.
 
 
 ## § 9 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE000901000)
 
 (1) Für alle Klagen, durch die ein Anspruch auf Grund dieses Gesetzes
 geltend gemacht wird, sind die Landgerichte ausschließlich zuständig.
@@ -172,6 +181,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE001000000)
 
 § 9 Abs. 2 tritt am Tag nach der Verkündung in Kraft; im Übrigen tritt
 dieses Gesetz am ersten Tag des dritten auf die Verkündung folgenden
@@ -179,6 +189,7 @@ Kalendermonats in Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/olympschg/BJNR047900004.html#BJNR047900004BJNE001100000)
 
 ![pdf_grafik_olympschg_olympschg-rings.gif](pdf_grafik_olympschg_olympschg-rings.gif)
 Das olympische Symbol besteht aus fünf ineinander verschlungenen

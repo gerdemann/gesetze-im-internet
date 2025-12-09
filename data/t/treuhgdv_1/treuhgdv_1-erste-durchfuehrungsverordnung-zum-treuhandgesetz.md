@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_1/DDNR010760990.html#DDNR010760990BJNE000100307)
 
 Auf der Grundlage des § 7 Abs. 3 in Verbindung mit § 24 Abs. 4 des
 Gesetzes vom 17. Juni 1990 zur Privatisierung und Reorganisation des
@@ -26,6 +27,7 @@ folgendes verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_1/DDNR010760990.html#DDNR010760990BJNE000200307)
 
 (1) Die Treuhand-Aktiengesellschaften dienen der zügigen Erfüllung der
 Aufgaben gemäß dem Treuhandgesetz zur Durchführung des dezentral zu
@@ -41,6 +43,7 @@ der Treuhand-Aktiengesellschaften zu beschließen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_1/DDNR010760990.html#DDNR010760990BJNE000300307)
 
 Den einzelnen Treuhand-Aktiengesellschaften werden die ihnen vom
 Verwaltungsrat der Treuhandanstalt gemäß § 7 Abs. 3 des
@@ -52,6 +55,7 @@ aus.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_1/DDNR010760990.html#DDNR010760990BJNE000400307)
 
 (1) Die Aufgaben, Rechte und Pflichten der Treuhand-
 Aktiengesellschaften bei der treuhänderischen Verwaltung der Anteile
@@ -72,11 +76,13 @@ Einvernehmen mit dem Ministerium der Finanzen festzulegen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_1/DDNR010760990.html#DDNR010760990BJNE000500307)
 
 Diese Verordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_1/DDNR010760990.html#DDNR010760990BJNE000600307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

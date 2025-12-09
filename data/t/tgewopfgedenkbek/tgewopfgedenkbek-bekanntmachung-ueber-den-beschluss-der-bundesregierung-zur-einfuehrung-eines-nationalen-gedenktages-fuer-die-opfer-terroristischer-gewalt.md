@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/tgewopfgedenkbek/BJNR021400022.html#BJNR021400022BJNE000100000)
 
 Die Bundesregierung hat in ihrer Sitzung am 16. Februar 2022
 beschlossen, ab dem Jahre 2022 jährlich am 11. März den „Nationalen

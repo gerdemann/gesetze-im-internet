@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ud_v/BJNR633600021.html#BJNR633600021BJNE000100000)
 
 Auf Grund des § 157 Absatz 5 Satz 1 des Telekommunikationsgesetzes vom
 23\. Juni 2021 (BGBl. I S. 1858) verordnet das Bundesministerium für
@@ -25,6 +26,7 @@ Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Übertragung der Befugnisse und Pflichten nach § 157 Absatz 5 des Telekommunikationsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ud_v/BJNR633600021.html#BJNR633600021BJNE000200000)
 
 Die Ermächtigung zum Erlass der Rechtsverordnung nach § 157 Absatz 3
 des Telekommunikationsgesetzes sowie die Pflichten nach § 157 Absatz 4
@@ -33,6 +35,7 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ud_v/BJNR633600021.html#BJNR633600021BJNE000300000)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 

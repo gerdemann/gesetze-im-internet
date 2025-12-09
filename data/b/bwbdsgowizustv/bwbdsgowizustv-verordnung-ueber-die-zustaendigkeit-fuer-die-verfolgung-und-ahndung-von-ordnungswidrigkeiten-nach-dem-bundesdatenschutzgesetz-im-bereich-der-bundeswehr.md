@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwbdsgowizustv/BJNR171100008.html#BJNR171100008BJNE000100000)
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in
 der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602),
@@ -30,6 +31,7 @@ der Verteidigung:
 
 
 ## § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwbdsgowizustv/BJNR171100008.html#BJNR171100008BJNE000201360)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 43 des Bundesdatenschutzgesetzes wird für
@@ -40,6 +42,7 @@ zuständig.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwbdsgowizustv/BJNR171100008.html#BJNR171100008BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

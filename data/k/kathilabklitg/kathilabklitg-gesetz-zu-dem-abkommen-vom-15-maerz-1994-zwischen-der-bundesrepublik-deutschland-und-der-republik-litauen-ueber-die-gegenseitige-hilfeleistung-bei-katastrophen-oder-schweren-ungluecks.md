@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kathilabklitg/BJNR002720996.html#BJNR002720996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabklitg/BJNR002720996.html#BJNR002720996BJNE000200310)
 
 Dem in Bonn am 15. März 1994 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Litauen über die
@@ -35,6 +37,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabklitg/BJNR002720996.html#BJNR002720996BJNE000300310)
 
 Wenn eine Hilfeleistung durch die Republik Litauen in der
 Bundesrepublik Deutschland auf der Grundlage der Kostenerstattung
@@ -44,6 +47,7 @@ Länder fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabklitg/BJNR002720996.html#BJNR002720996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

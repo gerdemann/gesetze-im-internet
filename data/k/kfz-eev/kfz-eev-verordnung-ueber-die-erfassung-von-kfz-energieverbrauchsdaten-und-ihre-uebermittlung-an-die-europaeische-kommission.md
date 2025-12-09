@@ -27,6 +27,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000100000)
 
 Es verordnen
 
@@ -59,6 +60,7 @@ Es verordnen
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000200000)
 
 (1) Diese Verordnung regelt die Erhebung der Daten aus dem praktischen
 Fahrbetrieb zum Kraftstoffverbrauch oder zum Kraftstoff- und
@@ -80,6 +82,7 @@ Straßenverkehrs-Zulassungs-Ordnung vom 26. April 2012 (BGBl. I S.
 
 
 ## § 2 Datenerhebung bei Gelegenheit der Hauptuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000300000)
 
 (1) Die die Hauptuntersuchung durchführende Stelle ist verpflichtet,
 die Daten nach der Tabelle 1 des Anhangs der Durchführungsverordnung
@@ -141,6 +144,7 @@ Folgendes aufzuklären:
 
 
 ## § 3 Datenübermittlung an die nationale Datenspeicherungsstelle, Energieverbrauchsdatei
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000400000)
 
 (1) Das Kraftfahrt-Bundesamt ist die nationale
 Datenspeicherungsstelle. Es hat die ihr übermittelten Daten in einer
@@ -193,6 +197,7 @@ organisatorische Maßnahmen auszuschließen.
 
 
 ## § 4 Datenübermittlung an die Europäische Umweltagentur und das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000500000)
 
 (1) Das Kraftfahrt-Bundesamt hat aus der Energieverbrauchsdatei
 
@@ -227,11 +232,13 @@ nukleare Sicherheit und Verbraucherschutz zu übermitteln.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kfz-eev/BJNR1030A0024.html#BJNR1030A0024BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

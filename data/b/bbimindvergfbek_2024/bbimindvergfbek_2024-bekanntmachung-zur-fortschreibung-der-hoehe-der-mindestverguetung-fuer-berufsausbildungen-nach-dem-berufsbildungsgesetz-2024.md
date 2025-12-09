@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbimindvergfbek_2024/BJNR1170A0023.html#BJNR1170A0023BJNE000100000)
 
 Auf Grund des § 17 Absatz 2 Satz 5 des Berufsbildungsgesetzes in der
 Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das
@@ -57,6 +58,7 @@ Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2024 begonnen wird,
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbimindvergfbek_2024/BJNR1170A0023.html#BJNR1170A0023BJNE000200000)
 
 Bundesministerium für Bildung und Forschung
 

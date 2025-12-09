@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000100314)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000200314)
 
 (1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, ausüben will,
 bedarf dazu der Erlaubnis.
@@ -42,6 +44,7 @@ Durchführungsbestimmungen; er führt die Berufsbezeichnung
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000301116)
 
 (1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, bisher
 berufsmäßig nicht ausgeübt hat, kann eine Erlaubnis nach § 1 in
@@ -59,17 +62,20 @@ er seine Eignung für die Durchführung des Medizinstudiums nachweist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000400314)
 
 Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde im
 Umherziehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000500314)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000600314)
 
 Wer, ohne zur Ausübung des ärztlichen Berufs berechtigt zu sein und
 ohne eine Erlaubnis nach § 1 zu besitzen, die Heilkunde ausübt, wird
@@ -77,6 +83,7 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ## § 5a
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000701320)
 
 (1) Ordnungswidrig handelt, wer als Inhaber einer Erlaubnis nach § 1
 die Heilkunde im Umherziehen ausübt.
@@ -86,6 +93,7 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000800314)
 
 (1) Die Ausübung der Zahnheilkunde fällt nicht unter die Bestimmungen
 dieses Gesetzes.
@@ -94,6 +102,7 @@ dieses Gesetzes.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE000900314)
 
 Der
 Reichsminister des Innern erläßt ... die zur Durchführung ... dieses
@@ -101,6 +110,7 @@ Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html#BJNR002510939BJNE001000314)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

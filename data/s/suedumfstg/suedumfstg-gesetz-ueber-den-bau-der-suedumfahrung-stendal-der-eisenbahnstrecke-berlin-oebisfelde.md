@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zulassung des Baus
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000200307)
 
 (1) Zur Herstellung der Einheitlichkeit der Lebensverhältnisse im
 gesamten Gebiet der Bundesrepublik Deutschland ist die Südumfahrung
@@ -47,6 +49,7 @@ rechtsgestaltend geregelt.
 
 
 ## § 2 Änderung und Ergänzung des Planes
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000303377)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den
@@ -86,6 +89,7 @@ der Verwaltungsgerichtsordnung entsprechende Anwendung.
 
 
 ## § 3 Enteignungsverfahren, Enteignungsentschädigung, gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000401377)
 
 (1) Die Enteignung zugunsten der Bundesrepublik Deutschland -
 Sondervermögen Deutsche Reichsbahn - ist zulässig, soweit sie zur
@@ -104,6 +108,7 @@ entsprechend.
 
 
 ## § 4 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000500307)
 
 (1) Weigert sich der Eigentümer oder Besitzer, den Besitz eines für
 das Vorhaben benötigten Grundstücks durch Vereinbarung unter Vorbehalt
@@ -151,6 +156,7 @@ festzusetzen.
 
 
 ## § 5 Vertreter des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000600307)
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat
 die kommunale Aufsichtsbehörde der Gemeinde, in der das betroffene
@@ -161,11 +167,13 @@ Verwaltungsverfahrensgesetzes findet Anwendung.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000700307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 
 ## (XXXX) Anlage 1 bis 12
+[Direktlink](https://www.gesetze-im-internet.de/s_dumfstg/BJNR190600993.html#BJNR190600993BJNE000800307)
 
 ( Inhalt: nicht erfaßte Anlagen 1 bis 12
 Fundstelle: Anlagebände I bis III zum BGBl. I Nr. 62 vom 30.11.1993 )

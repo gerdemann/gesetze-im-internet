@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000100000)
 
 
 ### § 1 Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000201119)
 
 (1) Die Registerverwaltung führt das Herkunftsnachweisregister als
 elektronische Datenbank, in der die Ausstellung inländischer
@@ -41,6 +43,7 @@ besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000302119)
 
 Im Sinne dieser Verordnung ist
 
@@ -203,6 +206,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Kommunikation mit der Registerverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000400000)
 
 (1) Die Registerverwaltung stellt ein Kommunikationssystem sowie
 Postfächer innerhalb des Kommunikationssystems zur Verfügung.
@@ -239,6 +243,7 @@ aktuell zu halten.
 
 
 ### § 4 Korrektur von Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000501119)
 
 (1) Die Registerverwaltung ist berechtigt, von ihr festgestellte
 Fehler zu korrigieren, die bei der Ausstellung, der Übertragung, der
@@ -268,6 +273,7 @@ betroffenen Registerteilnehmer über die vorgenommenen Korrekturen.
 
 
 ### § 5 Benennung der Verwendungsgebiete und Bestimmung der Verwendungsregionen für Regionalnachweise
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000601119)
 
 (1) Durch Allgemeinverfügung benennt die Registerverwaltung auf der
 Grundlage von amtlichen Daten oder von Daten sonstiger zuständiger
@@ -290,6 +296,7 @@ Registerverwaltung veröffentlicht.
 
 
 ### § 6 Kontoeröffnung im Herkunftsnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000703119)
 
 (1) Für die Ausstellung, die Anerkennung, die Übertragung und die
 Entwertung von Herkunftsnachweisen ist ein Konto im
@@ -400,6 +407,7 @@ nach § 49 oder für eine Schließung des Kontos nach § 50 vorliegen.
 
 
 ### § 7 Kontoeröffnung im Regionalnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000801128)
 
 (1) Für die Ausstellung, Übertragung und Entwertung von
 Regionalnachweisen ist ein Konto im Regionalnachweisregister
@@ -412,6 +420,7 @@ Kontos im Herkunftsnachweisregister nachgewiesen wurde.
 
 
 ### § 8 Registrierung von Dienstleistern und Beauftragung und Bevollmächtigung von Dienstleistern durch den Kontoinhaber
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE000901128)
 
 (1) Ein Kontoinhaber kann einen Dienstleister beauftragen, ein
 bestehendes Konto zu führen. Ein Dienstleister kann ein Konto für
@@ -474,6 +483,7 @@ Zuordnungen zu Kontoinhabern.
 
 
 ### § 9 Kontoführung durch Nutzer und Hauptnutzer
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001000000)
 
 (1) Ein Kontoinhaber kann eine oder mehrere natürliche Personen, die
 bei ihm beschäftigt sind, als Nutzer mit der Führung seines Kontos im
@@ -536,6 +546,7 @@ Nachweisführung erfolgt ist.
 
 
 ### § 10 Übermittlung der Daten von Umweltgutachtern und Umweltgutachterorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001100000)
 
 (1) Der Umweltgutachter oder die Umweltgutachterorganisation hat vor
 Beginn seiner oder ihrer Tätigkeit nach dieser Verordnung im
@@ -596,6 +607,7 @@ ordnungsgemäß ausführt.
 
 
 ### § 11 Übermittlung der Daten von Betreibern der Elektrizitätsversorgungsnetze
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001200000)
 
 (1) Auf Anforderung durch die Registerverwaltung hat der Betreiber
 eines Elektrizitätsversorgungsnetzes im Herkunftsnachweisregister oder
@@ -623,12 +635,15 @@ unaufgefordert vor deren Ablauf zu aktualisieren.
 
 
 ## Abschnitt 2 - Ausstellung und Inhalte von Herkunftsnachweisen und Regionalnachweisen, Registrierung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000200000)
 
 
 ### Unterabschnitt 1 - Ausstellung von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000300000)
 
 
 #### § 12 Voraussetzungen für die Ausstellung von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001302119)
 
 (1) Auf Antrag des Anlagenbetreibers stellt die Registerverwaltung
 einen Herkunftsnachweis pro netto erzeugter Megawattstunde Strom aus
@@ -814,6 +829,7 @@ einspeisende Anlage, indem das Produkt gebildet wird aus
 
 
 #### § 13 Ausstellung von Herkunftsnachweisen für Strom aus Pumpspeicherkraftwerken und aus Laufwasserkraftwerken mit Pumpbetrieb ohne Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001400000)
 
 (1) Für Strom aus erneuerbaren Energien, der in
 Pumpspeicherkraftwerken mit natürlichen Zuflüssen oder in
@@ -847,6 +863,7 @@ Umweltgutachterorganisation bestätigt worden ist.
 
 
 #### § 14 Ausstellung von Herkunftsnachweisen für Strom aus Grenzkraftwerken
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001500000)
 
 (1) Für Strom aus erneuerbaren Energien, der in Grenzkraftwerken
 gewonnen wird, werden auf Antrag des Anlagenbetreibers
@@ -879,6 +896,7 @@ Registerverwaltung übermitteln.
 
 
 #### § 15 Ablehnung der Ausstellung von Herkunftsnachweisen ohne entsprechende Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001601119)
 
 (1) Die Registerverwaltung lehnt die Ausstellung von
 Herkunftsnachweisen ab, wenn
@@ -908,6 +926,7 @@ Voraussetzungen des § 12 Absatz 1 Satz 1 Nummer 1 bis 9 erfüllt
 
 
 #### § 16 Inhalte des Herkunftsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001702119)
 
 (1) Ein von der Registerverwaltung ausgestellter Herkunftsnachweis
 enthält neben den Angaben nach § 9 Absatz 1 der Erneuerbare-Energien-
@@ -958,6 +977,7 @@ Richtigkeit des Registers sicherzustellen.
 
 
 #### § 17 Festlegung des Erzeugungszeitraums bei Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001800000)
 
 (1) Auf dem Herkunftsnachweis gibt die Registerverwaltung den
 Erzeugungszeitraum der Strommenge an, die dem Herkunftsnachweis
@@ -1005,9 +1025,11 @@ Erzeugung nicht wesentlich weiter als zwölf Monate auseinanderliegen.
 
 
 ### Unterabschnitt 2 - Ausstellung von Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000400000)
 
 
 #### § 18 Voraussetzungen für die Ausstellung von Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE001901119)
 
 (1) Auf Antrag des Anlagenbetreibers stellt die Registerverwaltung
 einen Regionalnachweis pro netto erzeugter Kilowattstunde Strom aus
@@ -1069,6 +1091,7 @@ einen Regionalnachweis für eine Strommenge zu beantragen,
 
 
 #### § 19 Inhalte des Regionalnachweises
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002000000)
 
 Ein Regionalnachweis enthält neben den Angaben nach § 10 der
 Erneuerbare-Energien-Verordnung die folgenden Angaben:
@@ -1101,6 +1124,7 @@ Erneuerbare-Energien-Verordnung die folgenden Angaben:
 
 
 #### § 20 Festlegung des Erzeugungszeitraums bei Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002100000)
 
 Für die Festlegung des Erzeugungszeitraums bei Regionalnachweisen ist
 § 17 Absatz 1 und 2 entsprechend anzuwenden. Liegt die in einem
@@ -1112,9 +1136,11 @@ wurde.
 
 
 ### Unterabschnitt 3 - Registrierung und Löschung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000500000)
 
 
 #### § 21 Anlagenregistrierung im Herkunftsnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002202119)
 
 (1) Auf Antrag des Anlagenbetreibers registriert die
 Registerverwaltung dessen Anlage oder dessen Anlagen im
@@ -1260,6 +1286,7 @@ Anlagenbetreiber der Registerverwaltung die Angabe nach Absatz 1 Satz
 
 
 #### § 22 Einsatz von Umweltgutachter oder Umweltgutachterorganisation bei der Anlagenregistrierung im Herkunftsnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002303119)
 
 (1) Eine Anlage nach § 12 Absatz 1 Satz 1 Nummer 8 wird im
 Herkunftsnachweisregister erst dann registriert, wenn der
@@ -1285,6 +1312,7 @@ ist.
 
 
 #### § 23 Anlagenregistrierung im Regionalnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002401119)
 
 (1) Für die Registrierung einer Anlage im Regionalnachweisregister
 sind die Vorgaben für die Registrierung im Herkunftsnachweisregister
@@ -1346,6 +1374,7 @@ die außerhalb des Bundesgebiets gelegen sind, wenn
 
 
 #### § 24 Änderung von Anlagendaten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002502119)
 
 (1) Ändern sich die nach § 21 Absatz 1 Satz 2, Absatz 1a oder Absatz 2
 Satz 1 oder nach § 23 Absatz 1 Satz 2 mitgeteilten Daten, ist der
@@ -1371,6 +1400,7 @@ Strommenge ausgestellt.
 
 
 #### § 25 Registrierung von Gesamtanlagen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002600000)
 
 (1) Auf Antrag registriert die Registerverwaltung mehrere Anlagen als
 Gesamtanlage, wenn diese Anlagen Strom aus gleichartigen erneuerbaren
@@ -1400,6 +1430,7 @@ anzugeben.
 
 
 #### § 26 Gültigkeitsdauer der Anlagenregistrierung; erneute Anlagenregistrierung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002701119)
 
 (1) Die Anlagenregistrierung ist fünf Jahre gültig.
 
@@ -1443,6 +1474,7 @@ nur nach § 23 erfolgen.
 
 
 #### § 27 Löschung der Anlagenregistrierung und Wechsel des Anlagenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002800000)
 
 (1) Auf Antrag des Anlagenbetreibers oder wenn der Anlagenbetreiber
 die ihm zugeordnete Anlage nicht mehr betreibt, löscht die
@@ -1467,9 +1499,11 @@ wenn der neue Anlagenbetreiber
 
 
 ## Abschnitt 3 - Übertragung, Entwertung, Löschung und Verfall von Herkunftsnachweisen und Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000600000)
 
 
 ### § 28 Übertragung von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE002901119)
 
 (1) Auf Antrag des Kontoinhabers überträgt die Registerverwaltung
 einen Herkunftsnachweis auf das Konto eines anderen Kontoinhabers,
@@ -1513,6 +1547,7 @@ erzeugt worden ist.
 
 
 ### § 29 Übertragung und Rückbuchung von Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003000000)
 
 (1) Auf Antrag des Kontoinhabers überträgt die Registerverwaltung
 einen oder mehrere Regionalnachweise auf das Konto eines anderen
@@ -1575,6 +1610,7 @@ Konto desselben Kontoinhabers entsprechend anzuwenden.
 
 
 ### § 30 Verwendung und Entwertung von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003103119)
 
 (1) Herkunftsnachweise dürfen nur zur Stromkennzeichnung durch einen
 Stromlieferanten verwendet werden. Die Verwendung eines
@@ -1650,6 +1686,7 @@ zu übermitteln:
 
 
 ### § 30a Gekoppelte Lieferung von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005701119)
 
 (1) Auf Antrag kann der Herkunftsnachweis zusätzlich mit der Angabe
 entwertet werden, dass der Anlagenbetreiber die Strommenge, die dem
@@ -1720,6 +1757,7 @@ einschränkende Vorgaben zum Inhalt der Angaben nach den Absätzen 2 und
 
 
 ### § 31 Verwendung und Entwertung von Regionalnachweisen, Ausweisung in der Stromkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003203119)
 
 (1) Für die Verwendung und Entwertung von Regionalnachweisen sind die
 Vorschriften des § 30 zur Verwendung und Entwertung von
@@ -1782,6 +1820,7 @@ Registerverwaltung veröffentlicht.
 
 
 ### § 32 Löschung von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003301119)
 
 (1) Die Registerverwaltung löscht einen Herkunftsnachweis, wenn
 
@@ -1813,12 +1852,14 @@ er davon Kenntnis erlangt hat.
 
 
 ### § 33 Löschung von Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003400000)
 
 Für die Löschung von Regionalnachweisen sind die Vorschriften des § 32
 über die Löschung von Herkunftsnachweisen entsprechend anzuwenden.
 
 
 ### § 34 Verfall von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003502119)
 
 Die Registerverwaltung erklärt Herkunftsnachweise für verfallen, wenn
 sie nicht spätestens 18 Kalendermonate nach dem Ende des
@@ -1828,6 +1869,7 @@ Herkunftsnachweise ist untersagt.
 
 
 ### § 35 Verfall von Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003600000)
 
 Die Registerverwaltung erklärt Regionalnachweise für verfallen, wenn
 sie nicht spätestens 24 Kalendermonate nach dem Ende des
@@ -1836,9 +1878,11 @@ verfallenen Regionalnachweise ist untersagt.
 
 
 ## Abschnitt 4 - Anerkennung und Import von Herkunftsnachweisen von ausländischen registerführenden Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000700000)
 
 
 ### § 36 Anerkennung von Herkunftsnachweisen von ausländischen registerführenden Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003703119)
 
 (1) Die Registerverwaltung erkennt auf Antrag der in das Inland
 übertragenden registerführenden Stelle einen Herkunftsnachweis für
@@ -1890,6 +1934,7 @@ Kommission zu begründen.
 
 
 ### § 37 Import anerkannter Herkunftsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003800000)
 
 (1) Die Registerverwaltung überträgt auf Antrag der in das Inland
 übertragenden registerführenden Stelle Herkunftsnachweise, die nach §
@@ -1915,9 +1960,11 @@ mit.
 
 
 ## Abschnitt 5 - Pflichten von Registerteilnehmern, Hauptnutzern, Nutzern und Betreibern von Elektrizitätsversorgungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000800000)
 
 
 ### § 38 Allgemeine Mitteilungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE003901119)
 
 (1) Die Registerteilnehmer und die Betreiber von
 Elektrizitätsversorgungsnetzen haben, wenn sich Daten geändert haben,
@@ -1933,6 +1980,7 @@ seit ihrer deren letzten Änderung oder Übermittlung geänderten
 
 
 ### § 39 Pflichten bei der Nutzung des Herkunftsnachweisregisters oder des Regionalnachweisregisters
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004000000)
 
 Die Registerteilnehmer, die Hauptnutzer, die Nutzer und die Betreiber
 von Elektrizitätsversorgungsnetzen sind verpflichtet,
@@ -1980,6 +2028,7 @@ von Elektrizitätsversorgungsnetzen sind verpflichtet,
 
 
 ### § 40 Mitteilungs- und Mitwirkungspflichten der Kontoinhaber
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004100000)
 
 (1) Die Kontoinhaber sind verpflichtet, ihr Postfach und ihre Konten
 regelmäßig auf Eingänge zu überprüfen und die eingegangenen
@@ -2003,6 +2052,7 @@ der Registerverwaltung das Erlöschen unverzüglich mitzuteilen.
 
 
 ### § 41 Übermittlungs- und Mitteilungspflichten der Betreiber von Elektrizitätsversorgungsnetzen und der Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004200000)
 
 (1) Der Netzbetreiber, an dessen Netz eine Anlage angeschlossen ist,
 für die eine Registrierung beantragt wurde, ist verpflichtet, der
@@ -2136,6 +2186,7 @@ Formularvorlagen an die Registerverwaltung zu übermitteln hat.
 
 
 ### § 42 Begutachtungspflichten bei im Herkunftsnachweisregister registrierten Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004300000)
 
 (1) Betreiber von Anlagen nach § 12 Absatz 1 Satz 1 Nummer 8, die die
 Ausstellung von Herkunftsnachweisen für Strom beantragen, müssen vor
@@ -2190,6 +2241,7 @@ worden sind. § 44 ist für diese Prüfung entsprechend anzuwenden.
 
 
 ### § 42a Begutachtungspflichten bei im Herkunftsnachweisregister registrierten hocheffizienten KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005500128)
 
 (1) Betreiber von Anlagen nach § 12 Absatz 1a Satz 2, die die
 Ausstellung von Herkunftsnachweisen mit der zusätzlichen Angabe, dass
@@ -2206,6 +2258,7 @@ worden ist, in hocheffizienten KWK-Anlagen erzeugt worden sind.
 
 
 ### § 43 Tätigkeit von Umweltgutachtern und Umweltgutachterorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004402119)
 
 (1) Ein Umweltgutachter oder eine Umweltgutachterorganisation hat die
 Angaben, die ihm oder ihr vom Kontoinhaber nach § 13 Absatz 3 und 4, §
@@ -2243,6 +2296,7 @@ und Daten auf Verlangen unverzüglich zur Verfügung zu stellen.
 
 
 ### § 44 Vorlage weiterer Unterlagen durch Anlagenbetreiber und Kontoinhaber
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004501119)
 
 (1) Die Registerverwaltung kann von den Kontoinhabern verlangen, dass
 sie den Stromliefervertrag nach § 29 Absatz 1 Satz 1 Nummer 1
@@ -2269,9 +2323,11 @@ Herkunftsnachweise oder Regionalnachweise ist untersagt.
 
 
 ## Abschnitt 6 - Erhebung, Speicherung, Verwendung, Übermittlung und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG000900000)
 
 
 ### § 45 Erhebung, Speicherung und Verwendung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004600000)
 
 (1) Die Registerverwaltung ist befugt, die nach § 6 Absatz 4 und 5, §
 8 Absatz 5, § 9 Absatz 1, 4, 5, 8 und 9, § 10 Absatz 1, 2 und 3, § 11
@@ -2293,6 +2349,7 @@ Regionalnachweisregisters erforderlich ist.
 
 
 ### § 46 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004702119)
 
 (1) Die Registerverwaltung kann im Herkunftsnachweisregister
 gespeicherte Daten, einschließlich der personenbezogenen Daten, an
@@ -2365,6 +2422,7 @@ gespeichert sind.
 
 
 ### § 47 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004800000)
 
 Im Herkunftsnachweisregister oder im Regionalnachweisregister
 gespeicherte Daten sind unverzüglich zu löschen, wenn sie für das
@@ -2372,9 +2430,11 @@ Führen des jeweiligen Registers nicht mehr erforderlich sind.
 
 
 ## Abschnitt 7 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG001000000)
 
 
 ### § 48 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE004900000)
 
 (1) Ordnungswidrig im Sinne des § 86 Absatz 1 Nummer 4 Buchstabe b des
 Erneuerbare-Energien-Gesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2411,9 +2471,11 @@ Erneuerbare-Energien-Gesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 8 - Sperrung und Schließung des Kontos, Ausschluss von der Teilnahme an den Registern
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG001100000)
 
 
 ### § 49 Sperrung und Entsperrung des Kontos
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005002119)
 
 (1) Die Registerverwaltung sperrt ein Konto, wenn
 
@@ -2496,6 +2558,7 @@ Kontoinhaber über die Entsperrung.
 
 
 ### § 50 Schließung des Kontos
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005101119)
 
 (1) Die Registerverwaltung schließt das Konto, wenn
 
@@ -2535,6 +2598,7 @@ und Regionalnachweisen bleiben unberührt.
 
 
 ### § 51 Ausschluss von der Teilnahme an den Registern, erneute Teilnahme nach Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005201119)
 
 (1) Die Registerverwaltung schließt den Registerteilnehmer von der
 Teilnahme am Herkunftsnachweisregister oder am
@@ -2594,9 +2658,11 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 9 - Nutzungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNG001200000)
 
 
 ### § 52 Nutzungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005300000)
 
 Die Registerverwaltung ist berechtigt, im Rahmen der Registerführung
 durch Allgemeinverfügung weitere konkretisierende Vorgaben zur
@@ -2610,11 +2676,13 @@ nachträglich mit einer Nebenbestimmung versehen werden.
 
 
 ### § 53 Ausschluss des Widerspruchsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005400000)
 
 Gegen Maßnahmen und Entscheidungen der Registerverwaltung nach dieser
 Rechtsverordnung findet kein Widerspruchsverfahren statt.
 
 
 ### § 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hkrndv/BJNR185310018.html#BJNR185310018BJNE005601119)
 
 

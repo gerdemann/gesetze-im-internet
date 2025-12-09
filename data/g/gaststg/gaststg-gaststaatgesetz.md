@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000200000)
 
 (1) Dieses Gesetz regelt
 
@@ -58,6 +60,7 @@ durch dieses Gesetz nicht berührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000300000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -146,12 +149,15 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Teil 2 - Internationale Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000200000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000300000)
 
 
 #### § 3 Internationale Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000400000)
 
 (1) Eine internationale Organisation im Sinne dieses Gesetzes liegt
 vor, wenn sie von mindestens zwei Völkerrechtssubjekten durch
@@ -192,6 +198,7 @@ Sekretariate gleich.
 
 
 #### § 4 Rechtspersönlichkeit und Rechtsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000500000)
 
 (1) Eine internationale Organisation im Sinne von § 3 besitzt in
 Deutschland Rechtspersönlichkeit und kann
@@ -212,6 +219,7 @@ richtet sich nach ihren Statuten.
 
 
 #### § 5 Verordnungsermächtigung für Sitzabkommen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000600000)
 
 Die Zustimmung der Bundesregierung zur Ansiedlung einer
 internationalen Organisation in der Bundesrepublik Deutschland erfolgt
@@ -225,9 +233,11 @@ Zustimmung des Bundesrates.
 
 
 ### Kapitel 2 - Unmittelbar geltende Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000400000)
 
 
 #### § 6 Unverletzlichkeit des Sitzgeländes
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000700000)
 
 (1) Das Sitzgelände ist unverletzlich. Die zuständigen deutschen
 Behörden betreten das Sitzgelände zur Wahrnehmung einer Amtspflicht
@@ -280,6 +290,7 @@ gehörend.
 
 
 #### § 7 Auf dem Sitzgelände anwendbare Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000800000)
 
 (1) Das Sitzgelände untersteht der Autorität und Kontrolle der
 internationalen Organisation.
@@ -318,6 +329,7 @@ einzuhalten.
 
 
 #### § 8 Unverletzlichkeit der Archive und aller Unterlagen der internationalen Organisation
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE000900000)
 
 Alle Unterlagen, Materialien und Archive, die der internationalen
 Organisation zur Verfügung gestellt werden, ihr gehören oder von ihr
@@ -326,6 +338,7 @@ wessen Besitz sie sich befinden.
 
 
 #### § 9 Schutz des Sitzgeländes und seiner Umgebung
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001000000)
 
 (1) Die zuständigen Behörden haben die erforderliche Sorgfalt
 anzuwenden, um die Sicherheit des Sitzgeländes zu gewährleisten und
@@ -343,6 +356,7 @@ Umgebung sowie zur Entfernung von Personen vom Sitzgelände bereit.
 
 
 #### § 10 Immunität der internationalen Organisation, Gelder, Guthaben und sonstige Vermögenswerte
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001100000)
 
 (1) Die internationale Organisation, ihre Gelder, Guthaben und
 sonstigen Vermögenswerte, gleichviel, wo und in wessen Besitz sie sich
@@ -374,6 +388,7 @@ Organisation
 
 
 #### § 11 Befreiung von direkten Steuern
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001200000)
 
 Die internationale Organisation, ihre Guthaben, Einkünfte und
 sonstigen Vermögenswerte genießen Befreiung im Rahmen ihrer amtlichen
@@ -411,6 +426,7 @@ ist.
 
 
 #### § 12 Befreiungen und Vergütungen von der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001300000)
 
 (1) Die Umsatzsteuer wird einer internationalen Organisation im Sinne
 dieses Gesetzes vom Bundeszentralamt für Steuern vergütet, wenn
@@ -469,6 +485,7 @@ festgelegt.
 
 
 #### § 13 Befreiungen und Vergütungen bei den besonderen Verbrauchsteuern
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001400000)
 
 (1) Verbrauchsteuerpflichtige Waren können von der Verbrauchsteuer
 befreit werden, wenn sie für den amtlichen Zweck einer internationalen
@@ -527,6 +544,7 @@ festgelegt.
 
 
 #### § 14 Befreiungen von Zöllen, Verboten, Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001500000)
 
 (1) Die internationale Organisation, ihre Gelder, Guthaben und
 sonstigen Vermögenswerte sind von allen Zöllen, Verboten und
@@ -549,6 +567,7 @@ Materialien.
 
 
 #### § 15 Erleichterungen im Nachrichtenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001600000)
 
 (1) Die internationale Organisation ist hinsichtlich der Behandlung
 ihres amtlichen Nachrichtenverkehrs und ihrer amtlichen Korrespondenz
@@ -576,6 +595,7 @@ Bundesregierung zugeteilten Frequenzen zu betreiben.
 
 
 #### § 16 Einreise, Aufenthaltstitel
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001700000)
 
 (1) Die Einreise nach und Ausreise aus Deutschland sowie Freizügigkeit
 und freier Aufenthalt von Bediensteten der internationalen
@@ -596,6 +616,7 @@ Aufenthaltsverordnung gilt entsprechend.
 
 
 #### § 17 Passierschein und Bescheinigung der Vereinten Nationen, Reisedokumente anderer internationaler Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001800000)
 
 (1) Der von den Vereinten Nationen ausgestellte Passierschein mit der
 Bezeichnung Laissez-Passer wird als gültiger Reiseausweis, der einem
@@ -615,6 +636,7 @@ Deutschland als visierfähig anerkannt sind.
 
 
 #### § 18 Mitteilung zum Personal, Ausstellung von Ausweisen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE001900000)
 
 (1) Die internationale Organisation unterrichtet das Auswärtige Amt
 über den Dienstantritt der Bediensteten und deren Ausscheiden aus dem
@@ -643,6 +665,7 @@ zurückzugeben.
 
 
 #### § 19 Soziale Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002000000)
 
 (1) Die deutschen Vorschriften über die Versicherungspflicht in der
 gesetzlichen und privaten Krankenversicherung, der gesetzlichen
@@ -750,6 +773,7 @@ Regelungen gehen den Absätzen 1 bis 6 vor.
 
 
 #### § 20 Zugang zum Arbeitsmarkt für unmittelbare Angehörige sowie Ausstellung von Visa und Aufenthaltserlaubnissen an Hausangestellte
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002100000)
 
 (1) Unmittelbare Angehörige eines Bediensteten einer internationalen
 Organisation haben unbeschränkten Zugang zum Arbeitsmarkt in
@@ -771,6 +795,7 @@ für den Aufenthalt in Deutschland verfügen.
 
 
 #### § 21 Personen, die aus dem Dienst bei der internationalen Organisation ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002200000)
 
 Die Erteilung einer Niederlassungserlaubnis für Bedienstete der
 internationalen Organisation und ihre unmittelbaren Angehörigen nach
@@ -781,6 +806,7 @@ nationalem Recht.
 
 
 #### § 22 Vorrechte, Immunitäten, Befreiungen und Erleichterungen der Vertreter der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002300000)
 
 (1) Die Vertreter der Mitglieder der internationalen Organisation, die
 in Deutschland wohnen und die nicht die deutsche Staatsangehörigkeit
@@ -803,6 +829,7 @@ zugelassen ist.
 
 
 #### § 23 Vorrechte, Immunitäten, Befreiungen und Erleichterungen für Bedienstete der internationalen Organisation
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002400000)
 
 (1) Die Bediensteten der internationalen Organisation genießen
 ungeachtet ihrer Staatsangehörigkeit die Vorrechte, Immunitäten,
@@ -882,9 +909,11 @@ Leiter der internationalen Organisation.
 
 
 ### Kapitel 3 - Weitere Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000500000)
 
 
 #### § 24 Bedienstete der internationalen Organisation vergleichbar der Stufe P-4 der Vereinten Nationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002500000)
 
 In begründeten, einzelnen Ausnahmefällen können auf Antrag
 Bediensteten der internationalen Organisation, soweit sie eine der
@@ -899,6 +928,7 @@ dies im Recht der Europäischen Union vorgesehen und zugelassen ist.
 
 
 #### § 25 Sachverständige im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002600000)
 
 (1) Sachverständigen im Auftrag können ungeachtet ihrer
 Staatsangehörigkeit die Vorrechte, Immunitäten, Befreiungen und
@@ -924,6 +954,7 @@ zugelassen ist.
 
 
 #### § 26 Kongresse, Seminare, ähnliche Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002700000)
 
 (1) Personen, die im Geltungsbereich dieses Gesetzes an Kongressen,
 Seminaren oder ähnlichen Veranstaltungen teilnehmen, die von
@@ -992,12 +1023,15 @@ sind.
 
 
 ## Teil 3 - Weitere internationale Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000600000)
 
 
 ### Kapitel 1 - Internationale Institutionen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000700000)
 
 
 #### § 27 Internationale Institutionen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002800000)
 
 (1) Eine internationale Institution im Sinne dieses Gesetzes liegt
 vor, wenn
@@ -1036,6 +1070,7 @@ der Zustimmung des Bundesrates.
 
 
 #### § 28 Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE002900000)
 
 (1) Einer internationalen Institution, die ihren Hauptsitz oder einen
 Zweigsitz in Deutschland nimmt, können Vorrechte, Immunitäten,
@@ -1082,9 +1117,11 @@ gemäß
 
 
 ### Kapitel 2 - Quasizwischenstaatliche Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000800000)
 
 
 #### § 29 Quasizwischenstaatliche Organisationen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003000000)
 
 (1) Eine quasizwischenstaatliche Organisation im Sinne dieses Gesetzes
 liegt vor, wenn
@@ -1130,6 +1167,7 @@ Rechtsverordnung bedarf der Zustimmung des Bundesrates.
 
 
 #### § 30 Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003100000)
 
 (1) Einer quasizwischenstaatlichen Organisation, die ihren Hauptsitz
 oder einen Zweigsitz in Deutschland nimmt, können Vorrechte,
@@ -1164,9 +1202,11 @@ wenn eine Krankenvollversicherung nachgewiesen wurde.
 
 
 ### Kapitel 3 - Sonstige internationale Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG000900000)
 
 
 #### § 31 Sonstige internationale Einrichtungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003200000)
 
 (1) Eine sonstige internationale Einrichtung im Sinne dieses Gesetzes
 liegt vor, wenn
@@ -1197,6 +1237,7 @@ Rechtsverordnung bedarf der Zustimmung des Bundesrates.
 
 
 #### § 32 Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003300000)
 
 (1) Einer sonstigen internationalen Einrichtung, die ihren Hauptsitz
 oder einen Zweigsitz in Deutschland nimmt, können Vorrechte,
@@ -1228,9 +1269,11 @@ Krankenvollversicherung nachgewiesen wurde.
 
 
 ## Teil 4 - Internationale Nichtregierungsorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG001000000)
 
 
 ### § 33 Internationale Nichtregierungsorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003400000)
 
 (1) Einer internationalen nichtstaatlichen Organisation, die ihren
 Hauptsitz oder Zweigsitz in Deutschland hat (internationale
@@ -1313,6 +1356,7 @@ Tätigkeit der Organisation fällt, herbei.
 
 
 ### § 34 Steuerliche Vergünstigungen; Anerkennung der Gemeinnützigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003500000)
 
 Steuerliche Vergünstigungen ergeben sich ausschließlich nach Maßgabe
 der §§ 51 bis 68 der Abgabenordnung und der darauf Bezug nehmenden
@@ -1320,6 +1364,7 @@ Vorschriften der Einzelsteuergesetze.
 
 
 ### § 35 Zugang zum Arbeitsmarkt für Bedienstete und unmittelbare Angehörige
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003600000)
 
 Den Organmitgliedern und hauptamtlich Beschäftigten einer
 internationalen Nichtregierungsorganisation, der die Rechtsstellung
@@ -1335,9 +1380,11 @@ Gesetzes eingeräumt worden ist, gewährt werden.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNG001100000)
 
 
 ### § 36 Beachtung der Gesetze, Zusammenarbeit mit den zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003700000)
 
 (1) Alle Einrichtungen und Personen, die Vorrechte, Immunitäten,
 Befreiungen und Erleichterungen gemäß diesem Gesetz genießen, sind
@@ -1357,6 +1404,7 @@ verhindern.
 
 
 ### § 37 Beilegung von Streitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003800000)
 
 (1) Streitigkeiten zwischen der internationalen Organisation und der
 Bundesrepublik Deutschland werden gemäß dem nach § 3 Absatz 1 Satz 3
@@ -1387,6 +1435,7 @@ internationalen Institution aus Teil 3 dieses Gesetzes.
 
 
 ### § 38 Einhaltung der Vorrechte, Immunitäten, Befreiungen und Erleichterungen; Maßnahmen bei Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE003900000)
 
 (1) Die Bundesregierung hat über das Fortbestehen der Voraussetzungen
 der gemäß diesem Gesetz gewährten Vorrechte, Immunitäten, Befreiungen
@@ -1401,6 +1450,7 @@ Befreiungen und Erleichterungen werden die Bestimmungen des Wiener
 
 
 ### § 39 Verhältnis zu bestehenden Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/gaststg/BJNR192910019.html#BJNR192910019BJNE004000000)
 
 Die Rechte und Pflichten aus vor Inkrafttreten dieses Gesetzes
 bestehenden Abkommen, bei denen die Bundesrepublik Deutschland

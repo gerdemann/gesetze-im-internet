@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000103130)
 
 Arzneimittel,
 
@@ -43,6 +44,7 @@ Vorschriften nichts anderes bestimmt ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE001904130)
 
 (1) Die Verschreibung muss enthalten:
 
@@ -265,6 +267,7 @@ ausschließlich mit Hilfe eines Telefaxgerätes übermittelt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000302310)
 
 Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in
 zwei Ausfertigungen (Original und Durchschrift) zu erstellen. Das
@@ -287,6 +290,7 @@ entsprechend.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE001508130)
 
 (1) Eine Verschreibung von Arzneimitteln, die die Wirkstoffe
 Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem
@@ -389,6 +393,7 @@ Absatz 1 Nummer 1 und 10 und Angaben nach § 17 Absatz 6 Satz 1 Nummer
 
 
 ## § 3b
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE001801125)
 
 (1) Die Höchstmenge der Verschreibungen von oral anzuwendenden
 Arzneimitteln, die die Wirkstoffe Acitretin, Alitretinoin oder
@@ -404,6 +409,7 @@ elektronischen Signatur gültig.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000402116)
 
 (1) Erlaubt die Anwendung eines verschreibungspflichtigen
 Arzneimittels keinen Aufschub, kann die verschreibende Person den
@@ -434,6 +440,7 @@ hinaus ist unzulässig.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000501310)
 
 Von der Verschreibungspflicht sind Arzneimittel ausgenommen, die aus
 den in der Anlage 1 zu dieser Verordnung genannten Stoffen und
@@ -448,25 +455,30 @@ gemischt werden.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000701125)
 
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000803116)
 
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE000901310)
 
 -
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE001701116)
 
 (weggefallen)
 
 (zu § 1 Nr. 1 und § 5)
 
 ## Anlage 1 Stoffe und Zubereitungen nach § 1 Nr. 1
+[Direktlink](https://www.gesetze-im-internet.de/amvv/BJNR363210005.html#BJNR363210005BJNE001629130)
 
 Die Anlage enthält unter grundsätzlicher Verwendung der INN-
 Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und

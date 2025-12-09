@@ -25,6 +25,7 @@ veröffentlicht.
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000100000)
 
 Der Ausbildungsberuf Sport- und Fitnesskaufmann/Sport- und
 Fitnesskauffrau wird nach § 4 Abs. 1 des Berufsbildungsgesetzes
@@ -32,11 +33,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000300000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -147,6 +150,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000400000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -168,6 +172,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000500000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres
@@ -200,6 +205,7 @@ Prüfungszeit beträgt 120 Minuten.
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000600000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -404,6 +410,7 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000700000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -415,6 +422,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und
 Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
 ## Anlage 1 - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000800000)
 
 (Fundstelle: BGBl. I 2007, 1255 - 1259)
 
@@ -1082,6 +1090,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und
 Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
 ## Anlage 2 - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/sport_fitnessausbv/BJNR125210007.html#BJNR125210007BJNE000900000)
 
 (Fundstelle: BGBl. I 2007, 1260 - 1261)
 

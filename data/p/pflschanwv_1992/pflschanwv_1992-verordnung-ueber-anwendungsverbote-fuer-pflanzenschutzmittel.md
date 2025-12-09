@@ -27,6 +27,7 @@ worden.
 
 
 ## § 1 Vollständiges Anwendungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000100305)
 
 Pflanzenschutzmittel, die aus einem in Anlage 1 aufgeführten Stoff
 bestehen oder einen solchen Stoff enthalten, dürfen nicht angewandt
@@ -34,6 +35,7 @@ werden.
 
 
 ## § 2 Eingeschränktes Anwendungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000201377)
 
 Pflanzenschutzmittel, die aus einem in Anlage 2 aufgeführten Stoff
 bestehen oder einen solchen Stoff enthalten, dürfen nur angewandt
@@ -41,6 +43,7 @@ werden, soweit dies nach Spalte 3 zulässig ist.
 
 
 ## § 3 Anwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000302377)
 
 (1) Pflanzenschutzmittel, die aus einem in Anlage 3 Abschnitt A
 aufgeführten Stoff bestehen oder einen solchen Stoff enthalten, dürfen
@@ -82,6 +85,7 @@ nicht angewandt werden dürfen.
 
 
 ## § 3a Besondere Abgabebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE001204119)
 
 Pflanzenschutzmittel, die aus einem in Anlage 4 aufgeführten Stoff
 bestehen oder einen solchen Stoff enthalten und deren Anwendung auf
@@ -93,6 +97,7 @@ Pflanzenschutzgesetzes vorgelegt worden ist.
 
 
 ## § 3b Besondere Anwendungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE001503119)
 
 (1) Bei der Anwendung von Pflanzenschutzmitteln, die aus einem in
 Anlage 3 Abschnitt A Nummer 4 aufgeführten Stoff bestehen oder einen
@@ -178,6 +183,7 @@ Biosphärenreservaten ist nicht zulässig.
 
 
 ## § 4 Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000408119)
 
 (1) In Naturschutzgebieten, Nationalparken, Nationalen
 Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen
@@ -254,6 +260,7 @@ Vorschläge für Anpassungen der Regelungen des Absatzes 1 enthalten.
 
 
 ## § 4a Verbot der Anwendung an Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE001601119)
 
 (1) Pflanzenschutzmittel dürfen an Gewässern, ausgenommen kleine
 Gewässer von wasserwirtschaftlich untergeordneter Bedeutung, innerhalb
@@ -280,6 +287,7 @@ Tier- und Pflanzenwelt, insbesondere vor invasiven Arten, genehmigen.
 
 
 ## § 5 Einfuhrverbote
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000500305)
 
 (1) Pflanzgut, in oder auf dem ein Pflanzenschutzmittel vorhanden ist,
 das aus einem in Anlage 1 aufgeführten Stoff besteht oder einen
@@ -295,6 +303,7 @@ Zustimmung der zuständigen Behörde bedarf.
 
 
 ## § 6 Verunreinigungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000600305)
 
 Im Rahmen der §§ 1 bis 4 bleiben produktionstechnisch bedingte,
 geringfügige Verunreinigen mit in den Anlagen aufgeführten Stoffen
@@ -305,6 +314,7 @@ beeinträchtigt wird.
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000703377)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 kann die Anwendung von Pflanzenschutzmitteln außerhalb von
@@ -360,6 +370,7 @@ oder Versuchszwecke genehmigen.
 
 
 ## § 8 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000808119)
 
 (1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes
 wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
@@ -383,6 +394,7 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu den §§ 1 und 5 Abs. 1)
 
 ## Anlage 1 Vollständiges Anwendungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE000906119)
 
 (Fundstelle: BGBl. I 2003, 1534;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -631,6 +643,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu den §§ 2, 4 und 5 Abs. 2)
 
 ## Anlage 2 Eingeschränktes Anwendungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE001003377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1535)
 
@@ -797,6 +810,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu den §§ 3 und 4)
 
 ## Anlage 3 Anwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE001109119)
 
 (Fundstelle: BGBl. I 2003, 1536 - 1537;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1264,6 +1278,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 3a)
 
 ## Anlage 4 Besondere Abgabebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschanwv_1992/BJNR118870992.html#BJNR118870992BJNE001303119)
 
 (Fundstelle: BGBl. 2024 I Nr. 216, S. 4)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ddrum_nzakbek/BJNR012000991.html#BJNR012000991BJNE000100308)
 
 Gemäß Artikel 1 Abs. 4 der Anlage I des Vertrages über die Schaffung
 einer Währungs-, Wirtschafts- und Sozialunion vom 18. Mai 1990 werden

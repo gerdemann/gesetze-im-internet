@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000100327)
 
 Auf Grund des § 13 Abs. 4 des Bundesausbildungsförderungsgesetzes in
 der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
@@ -28,6 +29,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Zuschläge zu dem Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000204310)
 
 (1) Bei einer Ausbildung im Ausland werden in den Fällen des § 5 Abs.
 2 des Gesetzes nach Maßgabe dieser Verordnung folgende Zuschläge zu
@@ -58,6 +60,7 @@ Gesetzes.
 
 
 ## § 2 Höhe des Auslandszuschlags
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000310310)
 
 (1) Der Auslandszuschlag bemisst sich nach dem Prozentsatz, den das
 Auswärtige Amt zum Kaufkraftausgleich nach § 55 des
@@ -73,6 +76,7 @@ gesamten Bewilligungszeitraum.
 
 
 ## § 3 Studiengebühren
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000404311)
 
 (1) Nachweisbar notwendige Studiengebühren werden längstens für die
 Dauer eines Jahres bis zur Höhe von 5 600 Euro geleistet.
@@ -99,6 +103,7 @@ um Erlaß oder Ermäßigung der Studiengebühren bemüht hat.
 
 
 ## § 4 Aufwendungen für Reisen zum Ausbildungsort
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000501310)
 
 (1) Für die Hinreise zum Ausbildungsort sowie für eine Rückreise wird
 ein Reisekostenzuschlag geleistet. Der Reisekostenzuschlag beträgt
@@ -110,6 +115,7 @@ eine weitere Hin- und Rückreise geleistet werden.
 
 
 ## § 5 Aufwendungen für die Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000605116)
 
 Zu den Aufwendungen der Krankenversicherung des Auszubildenden wird
 monatlich ein Zuschlag in Höhe des Betrages nach § 13a Absatz 1 Satz 1
@@ -118,6 +124,7 @@ Krankenversicherungsschutzes nachweist.
 
 
 ## § 6 Verhältnis zur Härteverordnung
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000705311)
 
 Zur Abgeltung eines besonderen Bedarfs bei einer Ausbildung im Ausland
 nach § 5 Abs. 2 und 5 des Gesetzes wird Ausbildungsförderung nur nach
@@ -129,6 +136,7 @@ geltenden Fassung findet insoweit keine Anwendung.
 
 
 ## § 7 Anwendungsbestimmungen aus Anlass der Änderungen durch das Zweiundzwanzigste Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE000902310)
 
 Für Bewilligungszeiträume, die vor dem 1. August 2008 begonnen haben,
 sind die §§ 1 bis 6 in der bis zum 31. Juli 2008 geltenden Fassung
@@ -137,6 +145,7 @@ weiter anzuwenden, § 2 jedoch nicht in den Fällen einer Förderung nach
 
 
 ## § 8 Anwendungsbestimmung aus Anlass der Änderungen durch das Dreiundzwanzigste Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzuschlagsv/BJNR009350986.html#BJNR009350986BJNE001000310)
 
 Für Bewilligungszeiträume, die vor dem 28. Oktober 2010 begonnen
 haben, ist § 2 bis zum 30. September 2010 in der bis zum 28. Oktober

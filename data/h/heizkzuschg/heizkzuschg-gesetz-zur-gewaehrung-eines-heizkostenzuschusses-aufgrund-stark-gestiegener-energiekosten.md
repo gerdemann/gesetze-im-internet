@@ -24,11 +24,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Anspruchsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000202126)
 
 (1) Anspruch auf den ersten Heizkostenzuschuss haben Personen, denen
 Wohngeld nach dem Wohngeldgesetz bewilligt wurde und bei denen
@@ -134,6 +136,7 @@ Dezember 2022 liegt, sie keinen Anspruch nach Absatz 1 haben und sie
 
 
 ## § 2 Höhe des ersten Heizkostenzuschusses
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000301126)
 
 (1) Die Höhe des ersten Heizkostenzuschusses richtet sich im Fall des
 § 1 Absatz 1 Satz 1 nach der Anzahl der bei der Wohngeldbewilligung
@@ -162,6 +165,7 @@ Zeitraums maßgebend, für den Wohngeld bewilligt wurde.
 
 
 ## § 2a Höhe des zweiten Heizkostenzuschusses
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE001000126)
 
 (1) Die Höhe des zweiten Heizkostenzuschusses richtet sich im Fall des
 § 1 Absatz 1 Satz 2 nach der Anzahl der bei der Wohngeldbewilligung
@@ -190,6 +194,7 @@ Zeitraums maßgebend, für den Wohngeld bewilligt wurde.
 
 
 ## § 3 Zuständigkeit, Verordnungsermächtigung, Leistungsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000402126)
 
 (1) Zuständig für die Durchführung dieses Gesetzes sind in den Fällen
 des § 1 Absatz 1 und 2 die nach Landesrecht zuständigen Stellen. Die
@@ -209,6 +214,7 @@ geleistet werden.
 
 
 ## § 4 Verzicht auf Rückforderung des Heizkostenzuschusses
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000502126)
 
 (1) Im Fall der Aufhebung oder Unwirksamkeit des Verwaltungsakts, mit
 dem Wohngeld, Leistungen nach dem Bundesausbildungsförderungsgesetz,
@@ -229,6 +235,7 @@ Buch Sozialgesetzbuch.
 
 
 ## § 5 Finanzierung aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000601126)
 
 (1) Heizkostenzuschüsse, die ein Land aufgrund dieses Gesetzes
 gewährt, werden diesem vom Bund erstattet.
@@ -239,6 +246,7 @@ aufgrund dieses Gesetzes.
 
 
 ## § 6 Anrechnung bei anderen Sozialleistungen; Pfändungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000701126)
 
 (1) Der Heizkostenzuschuss ist bei Sozialleistungen, deren Zahlung von
 Einkommen abhängig ist, bei Leistungen nach dem
@@ -251,6 +259,7 @@ werden.
 
 
 ## § 7 Entsprechend anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000800000)
 
 Die Vorschriften des Ersten und des Zehnten Buches Sozialgesetzbuch
 gelten entsprechend, soweit dieses Gesetz keine abweichende Regelung
@@ -258,6 +267,7 @@ trifft.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/heizkzuschg/BJNR069800022.html#BJNR069800022BJNE000900000)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Juni 2022
 in Kraft. Es tritt mit Ablauf des 31. Mai 2032 außer Kraft.

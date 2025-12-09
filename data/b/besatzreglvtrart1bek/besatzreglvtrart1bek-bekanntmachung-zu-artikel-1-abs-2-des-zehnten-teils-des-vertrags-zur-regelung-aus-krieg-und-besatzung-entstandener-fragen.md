@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/besatzreglvtrart1bek/BJNR206280955.html#BJNR206280955BJNE000100319)
 
 Gemäß § 1 des Anhangs zum Zehnten Teil des Vertrags zur Regelung aus
 Krieg und Besatzung entstandener Fragen (in der gemäß Liste IV zu dem

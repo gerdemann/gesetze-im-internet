@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_18/BJNR030410993.html#BJNR030410993BJNE000100333)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 1 Nr. 1 des Gesetzes vom 12.
@@ -32,6 +33,7 @@ der Finanzen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_18/BJNR030410993.html#BJNR030410993BJNE000200333)
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
 

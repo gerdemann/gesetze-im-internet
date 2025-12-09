@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewrabkav/BJNR031900996.html#BJNR031900996BJNE000100310)
 
 Auf Grund des § 24a Abs. 4 und des § 53c Nr. 1 des Gesetzes über das
 Kreditwesen in der Fassung der Bekanntmachung vom 22. Januar 1996
@@ -26,6 +27,7 @@ Kreditwesen in der Fassung der Bekanntmachung vom 22. Januar 1996
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ewrabkav/BJNR031900996.html#BJNR031900996BJNE000200310)
 
 § 24a Abs. 1 bis 3 des Gesetzes über das Kreditwesen gilt entsprechend
 für die Errichtung einer Zweigstelle in der Republik Island oder im
@@ -33,6 +35,7 @@ Königreich Norwegen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ewrabkav/BJNR031900996.html#BJNR031900996BJNE000300310)
 
 Die Vorschriften des Gesetzes über das Kreditwesen über Unternehmen
 mit Sitz in einem anderen Mitgliedstaat der Europäischen Gemeinschaft
@@ -42,6 +45,7 @@ Kreditwesen anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ewrabkav/BJNR031900996.html#BJNR031900996BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

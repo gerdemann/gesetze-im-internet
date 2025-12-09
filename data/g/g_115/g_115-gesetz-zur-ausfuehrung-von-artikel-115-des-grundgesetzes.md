@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Kreditermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000100000)
 
 Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das
 Bundesministerium der Finanzen Kredite aufnehmen darf
@@ -40,6 +41,7 @@ fällig werden.
 
 
 ## § 1a Bereichsausnahme
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE001000123)
 
 (1) Ausgaben der Bereichsausnahme sind die Verteidigungsausgaben, die
 Ausgaben des Bundes für den Zivil- und Bevölkerungsschutz sowie für
@@ -60,6 +62,7 @@ Bereichsausnahme.
 
 
 ## § 2 Grundsätze für die Veranschlagung von Kreditaufnahmen zur Deckung von Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000200000)
 
 (1) Einnahmen und Ausgaben sind bei der Veranschlagung in einer
 konjunkturellen Normallage grundsätzlich ohne Einnahmen aus Krediten
@@ -77,6 +80,7 @@ Entwicklung auf den Haushalt entsprechen.
 
 
 ## § 3 Bereinigung um finanzielle Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000301123)
 
 Aus den Ausgaben nach § 2 Absatz 1 Satz 1 erster Halbsatz sind die
 Ausgaben für den Erwerb von Beteiligungen, für Tilgungen an den
@@ -87,6 +91,7 @@ der Veräußerung von Beteiligungen, aus der Kreditaufnahme beim
 
 
 ## § 4 Grundlagen zur Bestimmung einer zulässigen strukturellen Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000400000)
 
 Das zur Bestimmung der zulässigen strukturellen Kreditaufnahme nach §
 2 Absatz 1 Satz 2 maßgebliche Bruttoinlandsprodukt wird durch das
@@ -96,6 +101,7 @@ Jahres.
 
 
 ## § 5 Konjunkturkomponente
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000501377)
 
 (1) Die Höhe der zu veranschlagenden konjunkturell bedingten Einnahmen
 aus Krediten oder der Haushaltsüberschüsse nach § 2 Absatz 2 wird aus
@@ -126,6 +132,7 @@ fortzuentwickeln.
 
 
 ## § 6 Ausnahmesituationen
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000601123)
 
 Im Falle von Naturkatastrophen oder außergewöhnlichen Notsituationen,
 die sich der Kontrolle des Staates entziehen und die staatliche
@@ -138,6 +145,7 @@ erfolgen.
 
 
 ## § 7 Kontrollkonto
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000701123)
 
 (1) Weicht die tatsächliche Kreditaufnahme von dem Betrag ab, der sich
 nach Abschluss des betreffenden Haushaltsjahres auf der Grundlage der
@@ -171,6 +179,7 @@ positiver Veränderung der Produktionslücke.
 
 
 ## § 8 Abweichungsrechte bei Nachträgen zum Haushaltsgesetz und zum Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000800000)
 
 Bei Nachträgen zum Haushaltsgesetz und zum Haushaltsplan kann die nach
 § 2 Absatz 1 Satz 2 ermittelte zulässige Kreditaufnahme bis zu einem
@@ -183,4 +192,5 @@ des § 7 bleiben unberührt.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/g_115/BJNR270400009.html#BJNR270400009BJNE000902123)
 

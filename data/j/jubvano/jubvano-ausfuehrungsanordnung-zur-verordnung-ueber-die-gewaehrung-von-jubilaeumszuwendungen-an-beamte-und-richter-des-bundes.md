@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## 1.
+[Direktlink](https://www.gesetze-im-internet.de/jubvano/BJNR517600978.html#BJNR517600978BJNE000100314)
 
 (1) Auf Grund des § 8 Abs. 1 letzter Halbsatz und des § 9 der
 Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und
@@ -74,6 +75,7 @@ mir gewährt.
 
 
 ## 2.
+[Direktlink](https://www.gesetze-im-internet.de/jubvano/BJNR517600978.html#BJNR517600978BJNE000200314)
 
 Zur Entscheidung über die Versagung der Zuwendungen gegenüber den in
 das Richterverhältnis auf Lebenszeit berufenen Richtern der
@@ -87,11 +89,13 @@ Behördenleiter nicht zuständig sind.
 
 
 ## 3.
+[Direktlink](https://www.gesetze-im-internet.de/jubvano/BJNR517600978.html#BJNR517600978BJNE000300314)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jubvano/BJNR517600978.html#BJNR517600978BJNE000400314)
 
 Der Bundesminister der Justiz
 

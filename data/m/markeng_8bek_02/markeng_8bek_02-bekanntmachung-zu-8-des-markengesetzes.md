@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_02/BJNR375400002.html#BJNR375400002BJNE000100308)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082, 1995 I S. 156) wird bekannt gemacht, dass
@@ -43,11 +44,13 @@ April 2000 (BGBl. I S. 737).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_02/BJNR375400002.html#BJNR375400002BJNE000200308)
 
 Bundesministerium der Justiz
 
 
 ## Anlage 1 Emblem der Europäischen Investitionsbank
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_02/BJNR375400002.html#BJNR375400002BJNE000300308)
 
 Fundstelle: BGBl. I 2002, 3755)
 
@@ -60,6 +63,7 @@ Fundstelle: BGBl. I 2002, 3755)
 
 
 ## Anlage 2 Namen, Abkürzungen und Emblem des Welternährungsprogramms
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_02/BJNR375400002.html#BJNR375400002BJNE000400308)
 
    (Fundstelle: BGBl. I 2002, 3756)
 
@@ -100,6 +104,7 @@ Fundstelle: BGBl. I 2002, 3755)
 
 
 ## Anlage 3 Name, Abkürzung und Emblem der Nordischen Investitionsbank
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_02/BJNR375400002.html#BJNR375400002BJNE000500308)
 
 (Fundstelle: BGBl. I 2002, 3757)
 
@@ -145,6 +150,7 @@ Fundstelle: BGBl. I 2002, 3755)
 
 
 ## Anlage 4 Name, Abkürzung und Emblem des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_02/BJNR375400002.html#BJNR375400002BJNE000600308)
 
 (Fundstelle: BGBl. I 2002, 3758)
 

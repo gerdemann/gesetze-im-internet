@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bebeamtano/BJNR082000994.html#BJNR082000994BJNE000100307)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479), das zuletzt
@@ -27,6 +28,7 @@ durch Artikel 6 Abs. 8 des Gesetzes vom 27. Dezember 1993 (BGBl. I S.
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bebeamtano/BJNR082000994.html#BJNR082000994BJNE000200307)
 
 Zur gerichtlichen Vertretung des Bundeseisenbahnvermögens sind je
 innerhalb ihres Geschäftsbereiches die nachstehend genannten Behörden
@@ -67,11 +69,13 @@ Anordnung vor.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bebeamtano/BJNR082000994.html#BJNR082000994BJNE000300307)
 
 Diese Anordnung tritt mit sofortiger Wirkung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bebeamtano/BJNR082000994.html#BJNR082000994BJNE000400307)
 
 Bundeseisenbahnvermögen
 Der Präsident

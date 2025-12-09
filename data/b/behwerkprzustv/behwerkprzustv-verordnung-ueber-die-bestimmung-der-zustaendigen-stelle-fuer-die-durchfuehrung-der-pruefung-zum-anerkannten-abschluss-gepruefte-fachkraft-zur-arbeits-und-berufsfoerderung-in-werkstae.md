@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/behwerkprzustv/BJNR228100002.html#BJNR228100002BJNE000100000)
 
 Auf Grund des § 97 Satz 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 8 der
@@ -31,6 +32,7 @@ und Forschung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/behwerkprzustv/BJNR228100002.html#BJNR228100002BJNE000200000)
 
 Zuständige Stelle für die Durchführung der Prüfung zum anerkannten
 Abschluss "Geprüfte Fachkraft zur Arbeits- und Berufsförderung in
@@ -41,12 +43,14 @@ in dem die Prüfung abgelegt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/behwerkprzustv/BJNR228100002.html#BJNR228100002BJNE000300000)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Monats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/behwerkprzustv/BJNR228100002.html#BJNR228100002BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

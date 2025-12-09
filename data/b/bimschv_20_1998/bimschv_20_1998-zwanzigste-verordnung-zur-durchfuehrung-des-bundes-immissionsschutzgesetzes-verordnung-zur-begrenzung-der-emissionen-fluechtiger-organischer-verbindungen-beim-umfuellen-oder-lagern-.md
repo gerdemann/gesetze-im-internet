@@ -32,10 +32,12 @@ in deutsches Recht umgesetzt.
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNG000101116)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE000903116)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von
@@ -73,6 +75,7 @@ unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001005116)
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
 
@@ -267,10 +270,12 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 
 
 ## Zweiter Teil - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNG000201116)
 
 
 
 ### § 3 Lagerung in Tanklagern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001103116)
 
 (1) Oberirdische Lagertanks hat der Betreiber so zu errichten und zu
 betreiben, dass die Außenwand und das Dach mit geeigneten
@@ -323,6 +328,7 @@ sind gleichwertige Maßnahmen zur Emissionsminderung anzuwenden.
 
 
 ### § 4 Befüllung und Entleerung von Lagertanks oder beweglichen Behältnissen in Tanklagern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001204116)
 
 (1) Anlagen für die Lagerung und Umfüllung von Ottokraftstoff,
 Kraftstoffgemischen oder Rohbenzin hat der Betreiber so zu errichten
@@ -421,6 +427,7 @@ verhindern.
 
 
 ### § 5 Bewegliche Behältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001303116)
 
 (1) Bewegliche Behältnisse dürfen nur so errichtet und betrieben
 werden, dass
@@ -450,6 +457,7 @@ Abgasreinigungseinrichtung zugeführt werden.
 
 
 ### § 6 Befüllung der Lagertanks von Tankstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001402116)
 
 (1) Anlagen für die Lagerung und Umfüllung von Ottokraftstoff oder
 Kraftstoffgemischen an Tankstellen dürfen nur so errichtet und
@@ -464,10 +472,12 @@ Kraftstoffgemischen 100 Kubikmeter nicht überschreitet.
 
 
 ## Dritter Teil - Verfahren zur Messung und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNG000301116)
 
 
 
 ### § 7 Meßöffnungen und Meßplätze
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001501116)
 
 Soweit zur Kontrolle der Einhaltung von Anforderungen nach den §§ 3
 bis 6 Messungen erforderlich sind, hat der Betreiber geeignete
@@ -475,6 +485,7 @@ Messöffnungen und Messplätze einzurichten.
 
 
 ### § 8 Nicht genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001603116)
 
 (1) Der Betreiber einer nicht genehmigungsbedürftigen ortsfesten
 Anlage hat diese der zuständigen Behörde vor der Inbetriebnahme
@@ -563,6 +574,7 @@ regelmäßigen Prüfungen
 
 
 ### § 9 Genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001703116)
 
 Für die Messung und Überwachung der Emissionen an organischen Stoffen
 gelten die Anforderungen der Nummer 5.3 der Technischen Anleitung zur
@@ -573,10 +585,12 @@ entsprechend.
 
 
 ## Vierter Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNG000401116)
 
 
 
 ### § 10 Andere oder weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001801116)
 
 Die Befugnis der zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
@@ -586,6 +600,7 @@ nicht entgegenstehen.
 
 
 ### § 11 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE001905116)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
 von den Anforderungen dieser Verordnung zulassen, soweit unter
@@ -651,6 +666,7 @@ Ausnahmen sind zu widerrufen, soweit ihnen Vorschriften der Richtlinie
 
 
 ### § 12 Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE002002116)
 
 DIN-, DIN-EN-Normen sowie VDI-Richtlinien, auf die in dieser
 Verordnung verwiesen wird, sind bei der Beuth Verlag GmbH, Berlin, zu
@@ -659,6 +675,7 @@ gesichert niedergelegt.
 
 
 ### § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE002103116)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig als
@@ -726,15 +743,18 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Fünfter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNG000502116)
 
 
 
 ### § 14 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE002202116)
 
 Die Anforderungen des § 3 Absatz 2 und 3 sind bei Anlagen in
 Tanklagern ab dem 30. Juni 2015 einzuhalten.
 
 
 ### § 15 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_20_1998/BJNR117400998.html#BJNR117400998BJNE002401116)
 
 

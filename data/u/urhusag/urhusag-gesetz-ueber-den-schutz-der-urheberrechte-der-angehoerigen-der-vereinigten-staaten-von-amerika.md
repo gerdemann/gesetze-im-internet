@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urhusag/BJNR201290922.html#BJNR201290922BJNE000101377)
 
 Die Angehörigen der Vereinigten Staaten von Amerika genießen für ihre
 Urheberrechte an Werken der Literatur, der Kunst und der Photographie,
@@ -36,6 +37,7 @@ Dezember 1919 erworben haben sollte.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/urhusag/BJNR201290922.html#BJNR201290922BJNE000202301)
 
 Inwieweit im Falle einer Änderung des Schutzes der deutschen
 Urheberrechte in den Vereinigten Staaten von Amerika eine Änderung des
@@ -46,6 +48,7 @@ Bekanntmachung im Bundesgesetzblatt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/urhusag/BJNR201290922.html#BJNR201290922BJNE000300304)
 
 Dieses Gesetz tritt mit dem Tage der Verkündung in Kraft.
 

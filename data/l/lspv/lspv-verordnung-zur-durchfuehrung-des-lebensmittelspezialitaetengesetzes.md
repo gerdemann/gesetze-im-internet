@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000100303)
 
 Auf Grund des § 2 Abs. 2 des Lebensmittelspezialitätengesetzes vom 29.
 Oktober 1993 (BGBl. I S. 1814) verordnet das Bundesministerium für
@@ -28,6 +29,7 @@ Bundesministerien für Gesundheit und für Wirtschaft:
 
 
 ## § 1 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000203116)
 
 (1) Ein Antrag auf Eintragung eines Agrarerzeugnisses oder eines
 Lebensmittels in das von der Europäischen Kommission geführte Register
@@ -61,6 +63,7 @@ Antrag hin von der Bundesanstalt als Beteiligter hinzuzuziehen.
 
 
 ## § 2 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000305116)
 
 (1) Die Bundesanstalt prüft, ob die Voraussetzungen für die
 Weiterleitung eines Antrages nach § 1 Abs. 1 an die Europäische
@@ -81,6 +84,7 @@ das Bundesministerium für Ernährung und Landwirtschaft.
 
 
 ## § 3 Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000404130)
 
 (1) Ein Einspruch nach Artikel 61 Absatz 2 der Verordnung (EU)
 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024
@@ -107,6 +111,7 @@ ist.
 
 
 ## § 4 Änderungs- und Löschungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000503116)
 
 Ein Antrag auf Änderung oder Löschung einer Eintragung in dem von der
 Europäischen Kommission geführten Register der garantiert
@@ -118,6 +123,7 @@ anzuwenden.
 
 
 ## § 5 Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000800130)
 
 Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
@@ -130,6 +136,7 @@ weiter anzuwenden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lspv/BJNR242800993.html#BJNR242800993BJNE000700303)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

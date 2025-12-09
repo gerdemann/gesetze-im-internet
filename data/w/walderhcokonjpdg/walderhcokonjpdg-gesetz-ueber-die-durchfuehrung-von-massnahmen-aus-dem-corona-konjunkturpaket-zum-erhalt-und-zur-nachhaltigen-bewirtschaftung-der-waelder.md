@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/walderhcokonjpdg/BJNR288100020.html#BJNR288100020BJNE000100000)
 
 Zweck dieses Gesetzes ist es, zur Durchführung von Maßnahmen aus dem
 Corona-Konjunkturpaket zum Erhalt und zur nachhaltigen Bewirtschaftung
@@ -26,6 +27,7 @@ Verwaltungsaufgaben zu beleihen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/walderhcokonjpdg/BJNR288100020.html#BJNR288100020BJNE000200000)
 
 Die Fachagentur Nachwachsende Rohstoffe e. V. nimmt als Beliehene im
 Rahmen des § 1 Verwaltungsaufgaben auf dem Gebiet einer
@@ -36,6 +38,7 @@ Bundesministeriums für Ernährung und Landwirtschaft.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/walderhcokonjpdg/BJNR288100020.html#BJNR288100020BJNE000300000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft hat dem
 Deutschen Bundestag bis spätestens 31. Dezember 2022 und danach

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kvstgleichstv/BJNR004540961.html#BJNR004540961BJNE000100304)
 
 Auf Grund des § 29 Abs. 1 Nr. 3 des Kapitalverkehrsteuergesetzes in
 der Fassung der Bekanntmachung vom 24. Juli 1959 (Bundesgesetzbl. I S.
@@ -27,6 +28,7 @@ der Fassung der Bekanntmachung vom 24. Juli 1959 (Bundesgesetzbl. I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kvstgleichstv/BJNR004540961.html#BJNR004540961BJNE000200304)
 
 Bei der Anwendung des Kapitalverkehrsteuergesetzes in der jeweils
 geltenden Fassung stehen folgende überstaatliche Einrichtungen dem
@@ -47,6 +49,7 @@ Bund gleich:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kvstgleichstv/BJNR004540961.html#BJNR004540961BJNE000300304)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 6
@@ -55,6 +58,7 @@ des Gesetzes zur Änderung verkehrsteuerrechtlicher Vorschriften vom
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kvstgleichstv/BJNR004540961.html#BJNR004540961BJNE000400304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

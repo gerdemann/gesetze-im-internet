@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000100000)
 
 Auf Grund des § 39 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2,
 4 und 5 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I
@@ -32,9 +33,11 @@ Justiz und für Verbraucherschutz:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften zu Prüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000300000)
 
 (1) Diese Verordnung regelt den Inhalt der folgenden Prüfungsberichte:
 
@@ -62,6 +65,7 @@ unterliegt.
 
 
 ### § 2 Art und Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000400000)
 
 (1) Der Umfang der Berichterstattung in einem Prüfungsbericht hat der
 Bedeutung und dem Risikogehalt der dargestellten Vorgänge zu
@@ -81,6 +85,7 @@ Beseitigung eingeleitet worden sind.
 
 
 ### § 3 Anlagen zu Prüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000500000)
 
 Erläuternde Darstellungen zu den in dieser Verordnung geforderten
 Angaben können einem Prüfungsbericht als Anlagen beigefügt werden,
@@ -89,12 +94,15 @@ und die Lesbarkeit des Prüfungsberichts nicht beeinträchtigt wird.
 
 
 ## Kapitel 2 - Berichte zur Prüfung der Solvabilitätsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000300000)
 
 
 #### § 4 Gegenstand der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000600000)
 
 Gegenstand der Berichterstattung ist die Prüfung der
 Solvabilitätsübersicht, die das Versicherungsunternehmen nach Maßgabe
@@ -111,6 +119,7 @@ Meldebogens.
 
 
 #### § 5 Grundsätze zur Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000700000)
 
 (1) Die geprüfte Solvabilitätsübersicht ist in den Prüfungsbericht
 aufzunehmen.
@@ -140,6 +149,7 @@ nachvollziehbar begründet wird und sachlich gerechtfertigt ist.
 
 
 #### § 6 Besondere Hinweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000800000)
 
 Der Prüfer hat darauf hinzuweisen, wenn sich die bei der Wahl der
 Wertansätze ausgeübten Ermessensspielräume wesentlich auf den
@@ -151,6 +161,7 @@ beurteilen.
 
 
 #### § 7 Datenqualität
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE000900000)
 
 (1) Der Prüfer hat insbesondere darzustellen und zu beurteilen, ob die
 organisatorischen, personellen und technischen Vorkehrungen zur
@@ -164,9 +175,11 @@ deren Einbindung im berichtspflichtigen Unternehmen.
 
 
 ### Abschnitt 2 - Ansatz und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000400000)
 
 
 #### § 8 Ansatz der Vermögenswerte und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001000000)
 
 Der Prüfer hat darüber zu berichten, ob die in die
 Solvabilitätsübersicht einbezogenen Vermögenswerte und
@@ -176,6 +189,7 @@ sind, für die ein Ansatzverbot besteht.
 
 
 #### § 9 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001100000)
 
 (1) Der Prüfer hat darüber zu berichten, ob Artikel 9 Absatz 1 bis 3,
 5 und 6 sowie Artikel 10 der Delegierten Verordnung (EU) 2015/35 der
@@ -220,6 +234,7 @@ erläutern und hinsichtlich ihrer Zulässigkeit zu beurteilen.
 
 
 #### § 10 Erleichterungen bei der Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001200000)
 
 Macht das Unternehmen von der Erleichterung gemäß Artikel 9 Absatz 4
 der Delegierten Verordnung (EU) 2015/35 Gebrauch, muss der
@@ -254,6 +269,7 @@ Prüfungsbericht Ausführungen dazu enthalten,
 
 
 #### § 11 Eventualverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001300000)
 
 Im Prüfungsbericht ist darauf einzugehen, ob unter Beachtung der
 Kriterien des Artikels 11 der Delegierten Verordnung (EU) 2015/35
@@ -263,9 +279,11 @@ Identifizierung der Eventualverbindlichkeiten zu beurteilen.
 
 
 ### Abschnitt 3 - Besondere Prüfungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000500000)
 
 
 #### § 12 Immaterielle Vermögenswerte
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001400000)
 
 Der Prüfer hat zur Angemessenheit der Bewertung immaterieller
 Vermögenswerte Stellung zu nehmen. Dabei ist insbesondere darauf
@@ -275,6 +293,7 @@ ergeben.
 
 
 #### § 13 Latente Steuern
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001500000)
 
 (1) Soweit in der Solvabilitätsübersicht latente Steuern angesetzt
 sind, ist das Verfahren zu ihrer Ermittlung darzustellen und zur
@@ -286,6 +305,7 @@ darauf einzugehen, ob die Ansatzvoraussetzungen erfüllt sind.
 
 
 #### § 14 Fremdgenutzte Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001600000)
 
 (1) Im Prüfungsbericht ist darauf einzugehen, ob bei der Ermittlung
 von Marktwerten für fremdgenutzte Immobilien alle wesentlichen Risiken
@@ -299,6 +319,7 @@ ist.
 
 
 #### § 15 Bewertungsverfahren und -modelle für bestimmte Vermögenswerte
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001700000)
 
 (1) Im Prüfungsbericht muss der Prüfer auf die Bewertungsmethoden
 gemäß Artikel 13 der Delegierten Verordnung (EU) 2015/35 eingehen und
@@ -326,6 +347,7 @@ machen.
 
 
 #### § 16 Organismen für gemeinsame Anlagen in Wertpapieren und anderen Anlagen in Fondsform
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001800000)
 
 Bei der Anlage in Organismen für gemeinsame Anlagen in Wertpapieren
 und in anderen Anlagen in Fondsform hat der Prüfer die jeweils
@@ -334,6 +356,7 @@ zu bestätigen.
 
 
 #### § 17 Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE001900000)
 
 (1) Der Prüfer hat über die angewendeten Berechnungs- und
 Bewertungsmethoden der einforderbaren Beträge aus
@@ -360,6 +383,7 @@ jeweils zu erläutern,
 
 
 #### § 18 Versicherungstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002000000)
 
 Bei den versicherungstechnischen Rückstellungen hat der Prüfer die
 Einhaltung der aufsichtsrechtlichen Vorschriften zur Berechnung und
@@ -400,6 +424,7 @@ Bewertung zu bestätigen. Dabei ist insbesondere einzugehen auf
 
 
 #### § 19 Besonderheiten bei der Bewertung von versicherungstechnischen Rückstellungen bei Nichtlebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002100000)
 
 Bei Nichtlebensversicherungsverpflichtungen ist getrennt nach Prämien-
 und Schadenrückstellung zu berichten. Dabei ist auch auf die Verfahren
@@ -407,6 +432,7 @@ zur Berechnung der Risikomarge einzugehen.
 
 
 #### § 20 Bewertungsmodelle versicherungstechnischer Rückstellungen in der Personenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002200000)
 
 (1) Soweit ein Unternehmen zur Bewertung der versicherungstechnischen
 Rückstellungen ein eigenes oder von Dritten entwickeltes
@@ -474,6 +500,7 @@ angepasst, ist zusätzlich auf die Angemessenheit der vorgenommenen
 
 
 #### § 21 Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002300000)
 
 (1) Im Prüfungsbericht nach § 1 Absatz 1 Nummer 2 ist darauf
 einzugehen, ob die aufsichtsrechtlichen Konsolidierungsvorschriften
@@ -491,9 +518,11 @@ Eliminierung von gruppeninternen Transaktionen einzugehen.
 
 
 ### Abschnitt 4 - Zusammenfassende Feststellungen und Prüfungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000600000)
 
 
 #### § 22 Zusammenfassende Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002400000)
 
 (1) Im abschließenden Abschnitt des Prüfungsberichts hat der Prüfer
 darzustellen, ob die Elemente der Solvabilitätsübersicht ordnungsgemäß
@@ -523,6 +552,7 @@ kann.
 
 
 #### § 23 Prüfungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002500000)
 
 (1) In einem Prüfungsvermerk hat der Prüfer die wesentlichen
 Feststellungen zusammenzufassen und in einer Gesamtwürdigung der
@@ -538,12 +568,15 @@ zu unterzeichnen und mit Siegel zu versehen.
 
 
 ## Kapitel 3 - Bericht zur Prüfung des Jahresabschlusses und Lageberichts
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000700000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000800000)
 
 
 #### § 24 Bestandteile des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002600000)
 
 (1) Der Bericht über die Prüfung des Jahresabschlusses und
 Lageberichts hat einen Allgemeinen Teil und einen Besonderen Teil. Für
@@ -556,6 +589,7 @@ beizufügen.
 
 
 #### § 25 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002700000)
 
 (1) Der Zeitraum, auf den sich die Prüfung erstreckt
 (Berichtszeitraum), ist in der Regel das am Bilanzstichtag endende
@@ -568,9 +602,11 @@ berücksichtigen und darzulegen.
 
 
 ### Abschnitt 2 - Angaben zum Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG000900000)
 
 
 #### § 26 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002800000)
 
 (1) Die wesentlichen Änderungen der rechtlichen, wirtschaftlichen und
 organisatorischen Grundlagen des Versicherungsunternehmens im
@@ -642,6 +678,7 @@ andere Unternehmen ausgelagert sind, zu berichten.
 
 
 #### § 27 Auslandsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE002900000)
 
 Der Prüfer hat über die wesentlichen ausländischen Aktivitäten im Wege
 des Dienstleistungsverkehrs oder über Niederlassungen zu berichten und
@@ -653,9 +690,11 @@ erläutern.
 
 
 ### Abschnitt 3 - Geschäftliche Entwicklung und Lage des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001000000)
 
 
 #### § 28 Geschäftliche Entwicklung im Berichtsjahr
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003000000)
 
 (1) Die geschäftliche Entwicklung ist unter Gegenüberstellung der für
 sie kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres
@@ -671,6 +710,7 @@ Rechnungswesen ist hinzuweisen.
 
 
 #### § 29 Beurteilung der Vermögenslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003100000)
 
 (1) Die Vermögenslage ist unter Angabe der angewandten Bilanzierungs-
 und Bewertungsmethoden so darzustellen, dass alle Umstände, die zu
@@ -736,6 +776,7 @@ auf Grund nicht dauerhafter Wertminderungen im Anlagevermögen.
 
 
 #### § 30 Liquiditätslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003200000)
 
 (1) Die Art der Liquiditätsvorsorge ist darzustellen. Ergeben sich
 während der Prüfung Anhaltspunkte dafür, dass die Liquidität des
@@ -749,6 +790,7 @@ Verfügung steht.
 
 
 #### § 31 Darstellung der Ertragslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003300000)
 
 (1) Die Ertragslage ist unter Aufgliederung der ordentlichen und
 außerordentlichen Aufwendungen und Erträge so darzustellen, dass alle
@@ -771,9 +813,11 @@ Versicherungsunternehmens haben können, ist zu berichten.
 
 
 ### Abschnitt 4 - Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001100000)
 
 
 #### § 32 Anlage und Struktur der Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003400000)
 
 (1) Die Grundzüge der Bilanzierung und Bewertung der Kapitalanlagen
 sind darzustellen. Dabei ist insbesondere auf die Ausübung von
@@ -788,6 +832,7 @@ sowie deren Sensitivität auf Kapitalmarktschwankungen einzugehen.
 
 
 #### § 33 Geschäfte mit besonderen Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003500000)
 
 (1) Bei Geschäften mit besonderen Kapitalanlagen ist deren Einfluss
 auf die Vermögens-, Finanz- und Ertragslage im Sinne des § 264 Absatz
@@ -840,9 +885,11 @@ Mitarbeitergeschäfte in Derivaten ist zu berichten.
 
 
 ### Abschnitt 5 - Kostenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001200000)
 
 
 #### § 34 Kostenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003600000)
 
 Bei Unternehmensverbindungen ist die Kostenverteilung auf die
 einzelnen Unternehmen sowie innerhalb des zu prüfenden
@@ -855,9 +902,11 @@ Kostenverteilung verursachungsgerecht ist.
 
 
 ### Abschnitt 6 - Rückversicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001300000)
 
 
 #### § 35 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003700000)
 
 (1) Über Art und Umfang des aktiven und passiven
 Rückversicherungsgeschäfts ist anhand einer Darstellung der
@@ -876,6 +925,7 @@ nehmen.
 
 
 #### § 36 Finanzrückversicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003800000)
 
 (1) Über Finanzrückversicherungsverträge im Sinne des § 167 des
 Versicherungsaufsichtsgesetzes und über Verträge, die nach dem
@@ -892,9 +942,11 @@ Finanzrückversicherungsverordnung ist Stellung zu nehmen.
 
 
 ### Abschnitt 7 - Bestimmte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001400000)
 
 
 #### § 37 Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE003900000)
 
 Bei Pensionskassen hat der Prüfer über Konditionen, Umfang und
 Sicherheit von Anlagen bei Mitglieds- oder Trägerunternehmen zu
@@ -902,6 +954,7 @@ berichten.
 
 
 #### § 38 Lebens- und Krankenversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004000000)
 
 Bei Lebens- und Krankenversicherungsunternehmen hat sich die
 Berichterstattung insbesondere zu erstrecken auf
@@ -932,6 +985,7 @@ Berichterstattung insbesondere zu erstrecken auf
 
 
 #### § 39 Schaden- und Unfallversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004100000)
 
 (1) Bei Schaden- und Unfallversicherungsunternehmen ist über die
 Ertragslage aus dem versicherungstechnischen Geschäft nach Maßgabe der
@@ -979,9 +1033,11 @@ nach Maßgabe des Absatzes 1 Satz 2 und des Absatzes 2 zu berichten.
 
 
 ### Abschnitt 8 - Weitere regulatorische Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001500000)
 
 
 #### § 40 Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004201360)
 
 (1) Der Prüfer hat zu beurteilen
 
@@ -1097,6 +1153,7 @@ der Prüfer hierüber zu berichten.
 
 
 #### § 41 Berichterstattung über die Verwendung von Ratings
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004300000)
 
 (1) Im Prüfungsbericht ist darauf einzugehen, wie und in welchem
 Umfang das Unternehmen oder die Gruppe eigene Kreditrisikobewertungen
@@ -1119,6 +1176,7 @@ zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S.
 
 
 #### § 42 Anzeigewesen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004400000)
 
 Bezogen auf die in § 35 Absatz 1 Satz 1 Nummer 1 des
 Versicherungsaufsichtsgesetzes genannten Anzeigepflichten ist die
@@ -1128,6 +1186,7 @@ sind aufzuführen.
 
 
 #### § 43 Anordnungen der Bundesanstalt nach dem Wertpapierhandelsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004500000)
 
 Der Prüfer hat darüber zu berichten, ob die Anordnungen der
 Bundesanstalt nach § 4 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes
@@ -1135,9 +1194,11 @@ eingehalten werden.
 
 
 ### Abschnitt 8a - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG002000360)
 
 
 #### § 43a Zeitpunkt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005800360)
 
 (1) Die Prüfung der Einhaltung der Pflichten nach dem Geldwäschegesetz
 sowie nach den §§ 53 bis 56 des Versicherungsaufsichtsgesetzes durch
@@ -1165,6 +1226,7 @@ Risikolage des Unternehmens erfordert ein kürzeres Prüfintervall.
 
 
 #### § 43b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005900360)
 
 (1) Der Prüfer hat im Prüfungsbericht die Vorkehrungen darzustellen,
 die das verpflichtete Unternehmen im Berichtszeitraum zur Verhinderung
@@ -1301,9 +1363,11 @@ die vorstehenden Absätze unberührt.
 
 
 ### Abschnitt 9 - Schlussbemerkung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001600000)
 
 
 #### § 44 Schlussbemerkung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004600000)
 
 (1) In der Schlussbemerkung ist, soweit dies nicht bereits im Rahmen
 der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz
@@ -1337,9 +1401,11 @@ Bestätigungsvermerk mit Siegel anzufügen.
 
 
 ### Abschnitt 10 - Besonderer Teil des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001700000)
 
 
 #### § 45 Allgemeine Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004700000)
 
 (1) Im Besonderen Teil des Prüfungsberichts sind die einzelnen Posten
 der Bilanz und der Gewinn- und Verlust-Rechnung zu erläutern. Die
@@ -1352,6 +1418,7 @@ die entsprechenden Zeitwerte im Anhang anzugeben sind.
 
 
 #### § 46 Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004800000)
 
 (1) Bei der Erläuterung der Forderungen aus dem selbst abgeschlossenen
 Versicherungsgeschäft an Versicherungsvermittler und
@@ -1369,6 +1436,7 @@ andere Forderungen ausreichend sind.
 
 
 #### § 47 Versicherungstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE004900000)
 
 (1) Die Vollständigkeit der versicherungstechnischen Rückstellungen
 ist zu bestätigen.
@@ -1399,6 +1467,7 @@ dessen Namen im Prüfungsbericht zu nennen.
 
 
 #### § 48 Rückstellung für noch nicht abgewickelte Versicherungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005000000)
 
 (1) Für das selbst abgeschlossene Versicherungsgeschäft in der
 Schaden- und Unfallversicherung sind die Methoden zur Ermittlung der
@@ -1450,6 +1519,7 @@ nehmen. Absatz 1 Satz 6 gilt entsprechend.
 
 
 #### § 49 Schwankungsrückstellung und ähnliche Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005100000)
 
 Es ist darüber zu berichten, ob die in § 341h des Handelsgesetzbuchs,
 in den §§ 29 und 30 sowie in der Anlage zu § 29 der
@@ -1460,6 +1530,7 @@ welche Art eine Nachprüfung erfolgt ist.
 
 
 #### § 50 Einzelne Posten der Gewinn- und Verlust-Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005200000)
 
 Über die bei den sonstigen Aufwendungen und Erträgen ausgewiesenen
 Aufwendungen und Erträge für erbrachte Dienstleistungen ist gesondert
@@ -1467,9 +1538,11 @@ zu berichten.
 
 
 ## Kapitel 4 - Bericht zur Prüfung des Konzernabschlusses und Konzernlageberichts
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001800000)
 
 
 ### § 51 In die Konsolidierung einzubeziehende Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005300000)
 
 (1) Im Bericht über die Prüfung des Konzernabschlusses und
 Konzernlageberichts sind die in die Konsolidierung einbezogenen
@@ -1481,6 +1554,7 @@ einzubeziehenden Unternehmen berücksichtigt worden sind.
 
 
 ### § 52 Mindestanforderungen an den Konzernprüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005400000)
 
 (1) Die wirtschaftliche Lage des Konzerns ist nach Maßgabe der §§ 28
 bis 31 darzustellen und zu erläutern. Dabei ist insbesondere auf die
@@ -1501,6 +1575,7 @@ dargestellt ist.
 
 
 ### § 53 Ort der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005500000)
 
 Die Berichterstattung nach diesem Abschnitt kann auch im
 Prüfungsbericht für den Einzelabschluss des Mutterunternehmens
@@ -1508,9 +1583,11 @@ erfolgen.
 
 
 ## Kapitel 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNG001900000)
 
 
 ### § 54 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005600000)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
@@ -1523,12 +1600,14 @@ geltenden Fassung weiter anzuwenden.
 
 
 ### § 55 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE005700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 43b Absatz 9)
 
 ### Anlage Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fv_2017/BJNR284600017.html#BJNR284600017BJNE006000360)
 
 Unternehmen:
 

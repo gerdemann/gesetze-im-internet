@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE000600326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Landwirtschaftliche Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNG000100326)
 
 
 
 ### § 1 Berechtigter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE000707126)
 
 (1) Eine Leistung wegen Einstellung der landwirtschaftlichen
 Erwerbstätigkeit (Produktionsaufgaberente) erhalten Landwirte im Sinne
@@ -91,6 +94,7 @@ Erzeugung (ABl. EG Nr. L 106 S. 28) erhält.
 
 
 ### § 2 Flächenstillegung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE000806126)
 
 (1) Eine Fläche gilt als stillgelegt, wenn
 
@@ -136,6 +140,7 @@ der Raumordnung zu beachten.
 
 
 ### § 3 Abgabe von Flächen
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE000906308)
 
 (1) Für die Abgabe der genutzten Flächen gilt § 21 Abs. 1, 2, 3, 7 und
 8 des Gesetzes über die Alterssicherung der Landwirte entsprechend mit
@@ -233,6 +238,7 @@ schriftlich widerspricht.
 
 
 ### § 4 Rückbehalt
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001004126)
 
 Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der
 Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht
@@ -247,6 +253,7 @@ Pflegemaßnahmen anfallen, bleiben unberücksichtigt.
 
 
 ### § 5 Leistungen an Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001103308)
 
 Witwen und Witwer Landwirten nach § 1 Abs. 1 erhalten eine
 Produktionsaufgaberente, wenn
@@ -283,6 +290,7 @@ Landwirte gelten entsprechend.
 
 
 ### § 6 Höhe der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001205301)
 
 (1) Als Produktionsaufgaberente wird ein Grundbetrag und bei
 Stillegung von Flächen ein Zuschlag (Flächenzuschlag) gezahlt.
@@ -341,6 +349,7 @@ Flächen gewährt,
 
 
 ### § 7 Beginn und Ende der Leistung, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001304126)
 
 (1) Die Vorschriften des Gesetzes über die Alterssicherung der
 Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn,
@@ -431,6 +440,7 @@ Voraussetzungen vorliegen.
 
 
 ### § 8 Zusammentreffen mit Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001409301)
 
 (1) Trifft eine Produktionsaufgaberente mit Arbeitsentgelt,
 Arbeitseinkommen und vergleichbarem Einkommen ohne Berücksichtigung
@@ -502,10 +512,12 @@ entsprechend, wenn
 
 
 ## Zweiter Abschnitt - Landwirtschaftliche Arbeitnehmer und mitarbeitende Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNG000200326)
 
 
 
 ### § 9 Berechtigter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001507308)
 
 (1) Arbeitnehmer, die in der gesetzlichen Rentenversicherung
 versichert sind, und nach dem Gesetz über die Alterssicherung der
@@ -565,6 +577,7 @@ Landwirte gelten entsprechend.
 
 
 ### § 10 Höhe der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001603308)
 
 (1) Das Ausgleichsgeld beträgt 65 vom Hundert des
 Bruttoarbeitsentgelts. Witwen oder Witwer der Leistungsberechtigten
@@ -595,6 +608,7 @@ Rentenversicherung zu diesem Zeitpunkt angepaßt werden.
 
 
 ### § 11 Beginn und Ende der Leistung, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001702301)
 
 (1) Die Vorschriften des Gesetzes über die Alterssicherung der
 Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn,
@@ -633,6 +647,7 @@ Berechnungsgrundsätze gelten entsprechend.
 
 
 ### § 12 Zusammentreffen mit Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001810126)
 
 Der Anspruch auf ein Ausgleichsgeld ruht während der Zeit, in der der
 Leistungsberechtigte
@@ -690,6 +705,7 @@ entsprechend.
 
 
 ### § 13 Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE001903308)
 
 (1) Die §§ 9 bis 12 gelten entsprechend für Arbeitnehmer und
 mitarbeitende Familienangehörige, deren Beschäftigung in einem
@@ -740,10 +756,12 @@ werden.
 
 
 ## Dritter Abschnitt - Ergänzende Sicherung der Bezieher von Produktionsaufgaberente oder Ausgleichsgeld
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNG000300326)
 
 
 
 ### § 14 Alterssicherung der Landwirte, landwirtschaftliche Unfallversicherung, Krankenversicherung der Landwirte, soziale Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002013308)
 
 (1) Der Bund trägt die Beiträge zur landwirtschaftlichen
 Unfallversicherung, soweit sie für nach § 2 stillgelegte Flächen zu
@@ -796,6 +814,7 @@ Alterssicherung der Landwirte entsprechend anzuwenden.
 
 
 ### § 15 Gesetzliche Rentenversicherung und Krankenversicherung, soziale Pflegeversicherung, Zusatzversorgung für landwirtschaftliche Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002104308)
 
 (1) Die Zeit des Bezuges von Ausgleichsgeld für landwirtschaftliche
 Arbeitnehmer gilt in der gesetzlichen Rentenversicherung als
@@ -848,6 +867,7 @@ Land- und Forstwirtschaft gleich.
 
 
 ### § 15a Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Produktionsaufgaberente und des Ausgleichsgeldes zum 1. April 2004
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE003500308)
 
 Widerspruch und Klage gegen
 
@@ -872,6 +892,7 @@ keine aufschiebende Wirkung.
 
 
 ### § 16 Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002206308)
 
 § 14 Abs. 3 und 4 sowie § 15 gelten entsprechend für mitarbeitende
 Familienangehörige und Arbeitnehmer, deren Beschäftigung in einem
@@ -914,10 +935,12 @@ endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
 
 ## Vierter Abschnitt - Durchführung, Anwendung sonstiger Vorschriften, Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNG000400326)
 
 
 
 ### § 17 Durchführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002306119)
 
 Dieses Gesetz wird von der landwirtschaftlichen Alterskasse
 durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den
@@ -927,6 +950,7 @@ Landwirtschaft erteilt werden.
 
 
 ### § 18 Anwendung sonstiger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002407119)
 
 (1) Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten die für
 die Alterssicherung der Landwirte maßgebenden Vorschriften des Ersten,
@@ -970,6 +994,7 @@ Streitigkeiten in Angelegenheiten der Sozialversicherung.
 
 
 ### § 18a Landwirte im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE003004301)
 
 (1) § 1 gilt für im Beitrittsgebiet selbständig tätige Landwirte auch
 dann, wenn sie
@@ -1024,6 +1049,7 @@ Witwerrente aus der gesetzlichen Rentenversicherung besteht.
 
 
 ### § 18b Abgabe an Unternehmen im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE003100308)
 
 Geht die Nutzung an ein Unternehmen mit Sitz im Beitrittsgebiet über,
 werden auf den nach § 3 Abs. 1 Satz 2 Nr. 1 für das Unternehmen der
@@ -1036,6 +1062,7 @@ Landwirte erfüllt hat.
 
 
 ### § 18c Arbeitnehmer und mitarbeitende Familienangehörige im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE003201308)
 
 (1) Für im Beitrittsgebiet tätige Arbeitnehmer und mitarbeitende
 Familienangehörige, die
@@ -1076,12 +1103,14 @@ zuerkannt ist.
 
 
 ### § 18d Besonderheiten für das Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE003300308)
 
 § 228a des Sechsten Buches Sozialgesetzbuch und § 83 Abs. 3 des
 Gesetzes über die Alterssicherung der Landwirte gelten entsprechend.
 
 
 ### § 18e Besonderheiten für das Ausland
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE003400308)
 
 Für Leistungsberechtigte nach diesem Gesetz steht eine Beschäftigung
 oder selbständige Tätigkeit sowie die Erzielung von Einkommen im
@@ -1089,16 +1118,19 @@ Ausland einer solchen im Geltungsbereich dieses Gesetzes gleich.
 
 
 ### § 19 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002501308)
 
 Die Leistungsaufwendungen und die bei der Durchführung dieses Gesetzes
 entstehenden Verwaltungskosten werden vom Bund getragen.
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNG000500326)
 
 
 
 ### § 20 Befristung der Regelung
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002601308)
 
 Vom 1. Januar 1997 an ist dieses Gesetz nur noch anzuwenden, wenn die
 Voraussetzungen für den Anspruch erstmals vor diesem Zeitpunkt
@@ -1106,11 +1138,13 @@ vorgelegen haben.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002700326)
 
 -
 
 
 ### § 22 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002804126)
 
 (1) § 8 Abs. 1 bis 3 ist auf Leistungen, die bereits am 31. Dezember
 1994 ganz oder teilweise wegen des Zusammentreffens mit Einkommen
@@ -1131,6 +1165,7 @@ Leistung noch nicht endgültig festgesetzt war.
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/feleg/BJNR002330989.html#BJNR002330989BJNE002900326)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 mit Wirkung vom
 1\. Januar 1989 in Kraft.

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/BJNR203280978.html#BJNR203280978BJNE000100306)
 
 Dem in Bonn am 24. Oktober 1974 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Französischen Republik zu dem
@@ -31,11 +32,13 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/BJNR203280978.html#BJNR203280978BJNE000201306)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/BJNR203280978.html#BJNR203280978BJNE000300306)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels VII des Vertrages
@@ -43,6 +46,7 @@ eingeschränkt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/BJNR203280978.html#BJNR203280978BJNE000400306)
 
 Rechtshilfeersuchen französischer Behörden, denen eine Zuwiderhandlung
 zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre,
@@ -53,12 +57,14 @@ zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/BJNR203280978.html#BJNR203280978BJNE000500306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/BJNR203280978.html#BJNR203280978BJNE000600306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 4 am Tage
 seiner Verkündung in Kraft. Die Artikel 2 bis 4 treten zusammen mit

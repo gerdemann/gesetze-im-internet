@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 2124-14 v. 4.6.1985 I 902 (HebG 1985)
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000100000)
 
 
 ### § 1 Hebammenberuf
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000200000)
 
 Der Hebammenberuf umfasst insbesondere die selbständige und umfassende
 Beratung, Betreuung und Beobachtung von Frauen während der
@@ -34,6 +36,7 @@ Säuglingen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000300000)
 
 (1) Mitgliedstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der
 Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten
@@ -68,9 +71,11 @@ dem von Hochschulen verliehenen Bachelorabschluss gleichgestellt ist.
 
 
 ## Teil 2 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000200000)
 
 
 ### § 3 Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000400000)
 
 (1) Den Hebammenberuf darf nur ausüben, wer die Berufsbezeichnung
 „Hebamme“ führen darf.
@@ -79,6 +84,7 @@ dem von Hochschulen verliehenen Bachelorabschluss gleichgestellt ist.
 
 
 ### § 4 Geburtshilfe als vorbehaltene Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000500000)
 
 (1) Zur Leistung von Geburtshilfe sind außer Ärztinnen und Ärzten nur
 Personen mit einer Erlaubnis nach diesem Gesetz berechtigt. Dies gilt
@@ -102,6 +108,7 @@ bei einer Geburt eine Hebamme zugezogen wird.
 
 
 ### § 5 Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000600000)
 
 (1) Wer die Berufsbezeichnung „Hebamme“ führen will, bedarf der
 Erlaubnis.
@@ -131,6 +138,7 @@ Person
 
 
 ### § 6 Rücknahme der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000700000)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die
 Voraussetzung des § 5 Absatz 2 Nummer 1 oder Nummer 2 nicht vorgelegen
@@ -145,6 +153,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 7 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000800000)
 
 (1) Die Erlaubnis ist zu widerrufen, wenn nachträglich
 
@@ -161,6 +170,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 8 Ruhen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE000900000)
 
 (1) Das Ruhen der Erlaubnis kann angeordnet werden, wenn
 
@@ -195,15 +205,19 @@ Voraussetzung für die Anordnung nicht mehr vorliegt.
 
 
 ## Teil 3 - Hebammenstudium und Vertrag zur akademischen Hebammenausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000300000)
 
 
 ### Abschnitt 1 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000400000)
 
 
 #### Unterabschnitt 1 - Studienziel, Zugang, Dauer und Struktur sowie Akkreditierung von Studiengängen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000500000)
 
 
 ##### § 9 Studienziel
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001000000)
 
 (1) Das Hebammenstudium vermittelt die fachlichen und personalen
 Kompetenzen, die für die selbständige und umfassende Hebammentätigkeit
@@ -352,6 +366,7 @@ befähigen,
 
 
 ##### § 10 Zugangsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001100000)
 
 (1) Das Hebammenstudium darf nur absolvieren, wer
 
@@ -434,6 +449,7 @@ Voraussetzungen abhängig machen.
 
 
 ##### § 11 Dauer und Struktur des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001201125)
 
 (1) Das Hebammenstudium dauert in Vollzeit mindestens sechs Semester
 und höchstens acht Semester.
@@ -455,6 +471,7 @@ des Ausbildungsprogramms für Hebammen zu beachten.
 
 
 ##### § 12 Akkreditierung von Studiengängen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001300000)
 
 (1) Das einem Studiengang zugrunde liegende Konzept wird durch die
 zuständige Landesbehörde in einem Akkreditierungsverfahren überprüft.
@@ -469,9 +486,11 @@ Akkreditierungsverfahrens werden durch die zuständige Landesbehörde
 
 
 #### Unterabschnitt 2 - Der berufspraktische Teil des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000600000)
 
 
 ##### § 13 Praxiseinsätze
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001400000)
 
 (1) Der berufspraktische Teil umfasst Praxiseinsätze
 
@@ -512,6 +531,7 @@ bestimmt sich nach den jeweiligen landesrechtlichen Regelungen.
 
 
 ##### § 14 Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001500000)
 
 Die praxisanleitende Person führt die Studierenden schrittweise an die
 Wahrnehmung der im Hebammenberuf anfallenden Aufgaben heran und
@@ -522,6 +542,7 @@ die jeweilige Hochschule.
 
 
 ##### § 15 Die verantwortliche Praxiseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001600000)
 
 (1) Eine Praxiseinrichtung übernimmt die Verantwortung für die
 Durchführung des berufspraktischen Teils gegenüber der studierenden
@@ -534,6 +555,7 @@ ein Krankenhaus nach § 13 Absatz 1 Satz 1 Nummer 1 sein.
 
 
 ##### § 16 Durchführung des berufspraktischen Teils; Praxisplan
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001700000)
 
 (1) Der berufspraktische Teil wird auf der Grundlage eines Praxisplans
 durchgeführt, der von der verantwortlichen Praxiseinrichtung für jede
@@ -552,6 +574,7 @@ absolviert.
 
 
 ##### § 17 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001800000)
 
 (1) Die Hochschule unterstützt die berufspraktische Ausbildung der
 Studierenden, indem sie eine Praxisbegleitung in angemessenem Umfang
@@ -563,6 +586,7 @@ Praxisanleitung.
 
 
 ##### § 18 Nachweis- und Begründungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE001900000)
 
 (1) Die ambulanten hebammengeleiteten Einrichtungen und
 freiberuflichen Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 legen der
@@ -576,9 +600,11 @@ wird in den Vereinbarungen nach § 16 Absatz 2 Satz 2 festgelegt.
 
 
 #### Unterabschnitt 3 - Der hochschulische Teil des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000700000)
 
 
 ##### § 19 Hochschule; theoretische und praktische Lehrveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002000000)
 
 (1) Der hochschulische Studienteil findet an einer Hochschule statt.
 Er umfasst theoretische und praktische Lehrveranstaltungen.
@@ -589,6 +615,7 @@ erstellen ist.
 
 
 ##### § 20 Qualifikation der Lehrenden und der Studiengangsleitung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002100000)
 
 (1) Die theoretischen und praktischen Lehrveranstaltungen an den
 Hochschulen dürfen nur von Lehrenden durchgeführt werden, die
@@ -603,9 +630,11 @@ nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember
 
 
 #### Unterabschnitt 4 - Durchführung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000800000)
 
 
 ##### § 21 Durchführung des Studiums; Kooperationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002200000)
 
 (1) Die berufspraktischen Einsätze und die theoretischen und
 praktischen Lehrveranstaltungen erfolgen inhaltlich und zeitlich eng
@@ -617,6 +646,7 @@ sicherzustellen.
 
 
 ##### § 22 Gesamtverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002300000)
 
 (1) Die Hochschule trägt die Gesamtverantwortung für die Koordination
 der theoretischen und praktischen Lehrveranstaltungen mit den
@@ -630,15 +660,18 @@ modularen Curriculum entspricht.
 
 
 #### Unterabschnitt 5 - Abschluss des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG000900000)
 
 
 ##### § 23 Abschluss des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002400000)
 
 Das Hebammenstudium schließt mit der Verleihung des akademischen
 Grades durch die Hochschule ab.
 
 
 ##### § 24 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002500000)
 
 (1) Die hochschulische Prüfung umfasst die staatliche Prüfung, deren
 Bestehen Voraussetzung für die Erteilung der Erlaubnis nach § 5 ist.
@@ -648,6 +681,7 @@ Person das Studienziel erreicht hat.
 
 
 ##### § 25 Durchführung der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002600000)
 
 (1) Die staatliche Prüfung wird in den im akkreditierten Konzept des
 Studiengangs in Vollzeit vorgesehenen letzten beiden Studiensemestern
@@ -660,6 +694,7 @@ Studienziels im Rahmen der staatlichen Prüfung überprüft wird.
 
 
 ##### § 26 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002700000)
 
 (1) Die Prüfung nach § 24 Absatz 2 wird unter dem gemeinsamen Vorsitz
 von Hochschule und zuständiger Landesbehörde durchgeführt.
@@ -669,9 +704,11 @@ Vorsitz auch für die zuständige Landesbehörde wahrzunehmen.
 
 
 ### Abschnitt 2 - Vertrag zur akademischen Hebammenausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001000000)
 
 
 #### § 27 Vertrag zur akademischen Hebammenausbildung; Schriftformerfordernis
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002800000)
 
 (1) Zwischen dem Inhaber oder Träger der verantwortlichen
 Praxiseinrichtung und der studierenden Person ist ein Vertrag zur
@@ -685,6 +722,7 @@ werden.
 
 
 #### § 28 Inhalt des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE002900000)
 
 (1) Der Vertrag zur akademischen Hebammenausbildung muss mindestens
 folgende Regelungen enthalten:
@@ -749,6 +787,7 @@ im Vertrag enthalten sein oder dem Vertrag beigefügt werden:
 
 
 #### § 29 Wirksamkeit des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003000000)
 
 Der Vertrag zur akademischen Hebammenausbildung wird erst wirksam,
 wenn die studierende Person der verantwortlichen Praxiseinrichtung
@@ -758,6 +797,7 @@ verantwortliche Praxiseinrichtung eine Kooperationsvereinbarung nach §
 
 
 #### § 30 Vertragsschluss bei Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003100000)
 
 Der Vertrag zur akademischen Hebammenausbildung ist bei Minderjährigen
 gemeinsam von dem Minderjährigen und deren gesetzlichen Vertretern zu
@@ -766,6 +806,7 @@ gesetzlichen Vertretern auszuhändigen.
 
 
 #### § 31 Anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003200000)
 
 Auf den Vertrag zur akademischen Hebammenausbildung sind, soweit sich
 aus seinem Wesen und Zweck sowie aus diesem Gesetz nichts anderes
@@ -774,6 +815,7 @@ Rechtsgrundsätze anzuwenden.
 
 
 #### § 32 Pflichten der verantwortlichen Praxiseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003300000)
 
 (1) Die verantwortliche Praxiseinrichtung ist insbesondere
 verpflichtet,
@@ -816,6 +858,7 @@ sein.
 
 
 #### § 33 Pflichten der Studierenden
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003400000)
 
 (1) Die studierende Person hat sich zu bemühen, die in § 9 genannten
 Kompetenzen zu erwerben, die erforderlich sind, um das Studienziel zu
@@ -848,6 +891,7 @@ erreichen.
 
 
 #### § 34 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003500000)
 
 (1) Die verantwortliche Praxiseinrichtung hat der studierenden Person
 vom Beginn des Studiums bis zum Ende des Vertragsverhältnisses eine
@@ -864,6 +908,7 @@ Sachbezugswerten abzugelten.
 
 
 #### § 35 Überstunden
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003600000)
 
 Eine über die vereinbarte regelmäßige tägliche oder wöchentliche
 Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise
@@ -872,6 +917,7 @@ auszugleichen.
 
 
 #### § 36 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003700000)
 
 (1) Die ersten sechs Monate ab Beginn des Studiums sind die Probezeit.
 
@@ -880,6 +926,7 @@ tarifvertraglichen Regelungen eine andere Dauer ergibt.
 
 
 #### § 37 Ende des Vertragsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003800000)
 
 (1) Das Vertragsverhältnis endet mit Ablauf des letzten im
 akkreditierten Konzept des Studiengangs festgelegten Semesters. Der
@@ -895,6 +942,7 @@ Wiederholungsprüfung, höchstens jedoch um ein Jahr.
 
 
 #### § 38 Beendigung durch Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE003900000)
 
 (1) Während der Probezeit kann das Vertragsverhältnis von jedem
 Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist
@@ -915,6 +963,7 @@ werden
 
 
 #### § 39 Wirksamkeit der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004000000)
 
 (1) Die Kündigung hat schriftlich zu erfolgen.
 
@@ -932,6 +981,7 @@ Beendigung der Lauf der Frist nach Satz 1 gehemmt.
 
 
 #### § 40 Beschäftigung im Anschluss an das Vertragsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004100000)
 
 Wird die studierende Person im Anschluss an das erfolgreich
 absolvierte Studium als Hebamme beschäftigt, ohne dass hierüber
@@ -940,6 +990,7 @@ Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
 
 #### § 41 Nichtigkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004200000)
 
 (1) Eine Vereinbarung, die zu Ungunsten der studierenden Person von
 den §§ 27 bis 40 abweicht, ist nichtig.
@@ -970,6 +1021,7 @@ die Zeit nach dessen Beendigung ein Arbeitsverhältnis eingeht.
 
 
 #### § 42 Ausschluss der Geltung von Vorschriften dieses Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004300000)
 
 Die §§ 27 bis 41 sind nicht anzuwenden auf Studierende, die
 Diakonissen, Diakonieschwestern oder Mitglieder geistlicher
@@ -977,12 +1029,15 @@ Gemeinschaften sind.
 
 
 ## Teil 4 - Anerkennung von Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001100000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001200000)
 
 
 #### § 43 Erlaubnis für Personen mit einer außerhalb des Geltungsbereichs dieses Gesetzes absolvierten Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004400000)
 
 (1) Beantragt eine Person, die außerhalb des Geltungsbereichs dieses
 Gesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach § 5, ist
@@ -1004,6 +1059,7 @@ Nummer 1, wenn diese Berufsqualifikation
 
 
 #### § 44 Bescheid über die Feststellung der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004500000)
 
 Auf Antrag ist der antragstellenden Person ein gesonderter Bescheid
 über die Feststellung der Gleichwertigkeit ihrer Berufsqualifikation
@@ -1011,6 +1067,7 @@ zu erteilen.
 
 
 #### § 45 Gemeinsame Einrichtung; Berufsqualifikationsfeststellungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004600000)
 
 (1) Die Länder können vereinbaren, dass die Aufgaben nach diesem Teil
 von einem anderen Land oder einer gemeinsamen Einrichtung wahrgenommen
@@ -1022,9 +1079,11 @@ Anwendung.
 
 
 ### Abschnitt 2 - Automatisch anerkannte Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001300000)
 
 
 #### § 46 Automatisch anerkannte Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004700000)
 
 (1) Eine Berufsqualifikation wird automatisch anerkannt, wenn die
 antragstellende Person
@@ -1092,6 +1151,7 @@ Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
 
 
 #### § 47 Automatische Anerkennung bei erworbenen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004800000)
 
 (1) Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -1199,6 +1259,7 @@ Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
 
 
 #### § 48 Automatische Anerkennung bei in den Gebieten der früheren Tschechoslowakei, der früheren Sowjetunion, dem früheren Jugoslawien erworbenen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE004900000)
 
 Eine Berufsqualifikation wird automatisch anerkannt, wenn die
 antragstellende Person
@@ -1252,6 +1313,7 @@ antragstellende Person
 
 
 #### § 49 Automatische Anerkennung bei in Polen erworbenen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005000000)
 
 Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -1274,6 +1336,7 @@ Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
 
 #### § 50 Automatische Anerkennung bei in Rumänien erworbenen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005100000)
 
 Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -1297,6 +1360,7 @@ Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
 
 #### § 51 Ausschluss der automatischen Anerkennung bei in Kroatien erworbenen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005200000)
 
 Eine Berufsqualifikation wird nicht automatisch anerkannt, da die
 antragstellende Person keine Rechte für die Tätigkeit als Hebamme
@@ -1326,6 +1390,7 @@ Juli 2013 erworben worden sind:
 
 
 #### § 52 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005300000)
 
 Das Bundesministerium für Gesundheit macht die jeweils aktuelle
 Fassung des Anhangs V Nummer 5.5.2 der Richtlinie 2005/36/EG im
@@ -1333,6 +1398,7 @@ Bundesanzeiger bekannt.
 
 
 #### § 53 Europäischer Berufsausweis
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005400000)
 
 Für den Fall einer Einführung eines Europäischen Berufsausweises für
 den Hebammenberuf gelten die Regelungen über die Anerkennung von
@@ -1340,9 +1406,11 @@ Berufsqualifikationen dieses Teils entsprechend.
 
 
 ### Abschnitt 3 - Weitere Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001400000)
 
 
 #### § 54 Anerkennung von weiteren Berufsqualifikationen; Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005500000)
 
 (1) Eine Berufsqualifikation, die nicht nach Abschnitt 2 dieses Teils
 automatisch anerkannt wird, wird anerkannt, wenn
@@ -1374,6 +1442,7 @@ Berufsqualifikation gleichwertig, wenn
 
 
 #### § 55 Wesentliche Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005600000)
 
 (1) Die Berufsqualifikation der antragstellenden Person unterscheidet
 sich wesentlich, wenn
@@ -1406,6 +1475,7 @@ Geltungsbereich dieses Gesetzes sind.
 
 
 #### § 56 Ausgleich wesentlicher Unterschiede durch Berufserfahrung oder lebenslanges Lernen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005700000)
 
 (1) Wesentliche Unterschiede nach § 55 können ganz oder teilweise
 ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen,
@@ -1430,6 +1500,7 @@ Fähigkeiten und Kompetenzen erworben worden sind.
 
 
 #### § 57 Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005800000)
 
 (1) Ist die Berufsqualifikation der antragstellenden Person nicht mit
 der in diesem Gesetz geregelten Berufsqualifikation gleichwertig, ist
@@ -1445,6 +1516,7 @@ können.
 
 
 #### § 58 Eignungsprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE005900000)
 
 (1) Die antragstellende Person hat als Anpassungsmaßnahme eine
 Eignungsprüfung, die sich auf die festgestellten wesentlichen
@@ -1567,6 +1639,7 @@ Anpassungslehrgang zu absolvieren, wenn sie
 
 
 #### § 59 Kenntnisprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006000000)
 
 (1) Wenn die antragstellende Person eine Berufsqualifikation vorlegt,
 die in einem Drittstaat, der kein gleichgestellter Staat ist, erworben
@@ -1590,6 +1663,7 @@ dem Anpassungslehrgang wählen.
 
 
 #### § 59a Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008300125)
 
 (1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
 erteilen, wenn
@@ -1660,12 +1734,15 @@ Berufsausübung entsprechend.
 
 
 ## Teil 5 - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001500000)
 
 
 ### Abschnitt 1 - Erbringen von Dienstleistungen im Geltungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001600000)
 
 
 #### § 60 Dienstleistungserbringende Personen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006100000)
 
 (1) Eine Staatsangehörige oder ein Staatsangehöriger eines
 Mitgliedstaates, eines Vertragsstaates oder eines gleichgestellten
@@ -1732,6 +1809,7 @@ Kontinuität der Dienstleistung einzubeziehen.
 
 
 #### § 61 Meldung der Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006200000)
 
 (1) Wer beabsichtigt, als dienstleistungserbringende Person im
 Geltungsbereich dieses Gesetzes den Hebammenberuf auszuüben, ist
@@ -1790,6 +1868,7 @@ Dienstleistungserbringung nachzuholen.
 
 
 #### § 62 Meldung wesentlicher Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006300000)
 
 (1) Die dienstleistungserbringende Person ist verpflichtet, der
 zuständigen Behörde unverzüglich zu melden
@@ -1821,6 +1900,7 @@ Erklärungen vorzulegen.
 
 
 #### § 62a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008400125)
 
 (1) Für die Erbringung von vorübergehenden und gelegentlichen
 Dienstleistungen im Sinne des Artikels 57 des Vertrages über die
@@ -1874,9 +1954,11 @@ Absatz 2 gelten entsprechend.
 
 
 ### Abschnitt 2 - Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in anderen gleichgestellten Staaten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001700000)
 
 
 #### § 63 Bescheinigung der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006400000)
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -1906,9 +1988,11 @@ der Europäischen Union vorübergehend und gelegentlich auszuüben.
 
 
 ## Teil 6 - Zuständigkeiten und Aufgaben der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001800000)
 
 
 ### § 64 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006501125)
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
@@ -1929,6 +2013,7 @@ den Beruf der Hebamme partiell oder vollständig ausübt.
 
 
 ### § 65 Unterrichtungs- und Überprüfungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006600000)
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den
 Hebammenberuf ausübt oder zuletzt ausgeübt hat, unterrichtet die
@@ -2001,6 +2086,7 @@ statistischen Aufstellungen an die Europäische Kommission weiter.
 
 
 ### § 66 Warnmitteilung durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006700000)
 
 (1) Die zuständige Behörde eines Landes übermittelt den zuständigen
 Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und
@@ -2071,6 +2157,7 @@ entsprechenden Hinweis.
 
 
 ### § 67 Unterrichtung über Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006800000)
 
 (1) Die zuständige Behörde, die die Warnmitteilung getätigt hat,
 unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten, der
@@ -2091,6 +2178,7 @@ verwenden.
 
 
 ### § 68 Löschung einer Warnmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE006900000)
 
 Die zuständige Behörde, die die Warnmitteilung getätigt hat, löscht
 die Warnmitteilung im Binnenmarkt-
@@ -2099,6 +2187,7 @@ Aufhebung der in § 66 Absatz 1 genannten Entscheidung.
 
 
 ### § 69 Unterrichtung über gefälschte Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007000000)
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
 auf Erteilung der Erlaubnis nach § 5 gefälschte
@@ -2142,6 +2231,7 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 
 
 ### § 70 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007101125)
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
 dieses Gesetzes den Hebammenberuf partiell oder vollständig aus oder
@@ -2190,9 +2280,11 @@ Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde
 
 
 ## Teil 7 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG001900000)
 
 
 ### § 71 Ermächtigung zum Erlass einer Studien- und Prüfungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007202125)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer
 Studien- und Prüfungsverordnung, die der Zustimmung des Bundesrates
@@ -2289,9 +2381,11 @@ vorsehen.
 
 
 ## Teil 8 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG002000000)
 
 
 ### § 72 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007300000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2308,9 +2402,11 @@ Euro geahndet werden.
 
 
 ## Teil 9 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNG002100000)
 
 
 ### § 73 Fortgelten der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007400000)
 
 Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem
 Hebammengesetz in der bis zum 31. Dezember 2019 geltenden Fassung
@@ -2321,6 +2417,7 @@ wurde.
 
 
 ### § 74 Übergangsvorschriften für Entbindungspfleger
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007500000)
 
 (1) Die außerhalb dieses Gesetzes für „Hebammen“ bestehenden
 Rechtsvorschriften sind auch auf „Entbindungspfleger“ anzuwenden.
@@ -2333,6 +2430,7 @@ Berufsbezeichnung hinzuweisen.
 
 
 ### § 75 Kooperation von Hochschulen mit Hebammenschulen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007600000)
 
 (1) Hochschulen können bis zum 31. Dezember 2030 die praktischen
 Lehrveranstaltungen des Studiums und die Praxisbegleitung von
@@ -2344,6 +2442,7 @@ die Verantwortung dafür, dass das Studienziel gemäß § 9 erreicht wird.
 
 
 ### § 76 Anwendung von Vorschriften über die fachschulische Ausbildung und die Ausbildung in der Form von Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007700000)
 
 Nach Maßgabe der §§ 77 und 78 kann die Ausbildung zur Hebamme oder zum
 Entbindungspfleger auch nach dem 31. Dezember 2019 auf der Grundlage
@@ -2353,6 +2452,7 @@ Rechtsverordnung fortgesetzt oder begonnen werden.
 
 
 ### § 77 Abschluss begonnener fachschulischer Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007800000)
 
 (1) Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die vor
 dem 31. Dezember 2022 begonnen wurde, kann bis zum 31. Dezember 2027
@@ -2371,6 +2471,7 @@ Diese Erlaubnis gilt als Erlaubnis nach § 5.
 
 
 ### § 77a Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008200116)
 
 (1) Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb
 dieses Gesetzes erworbenen Berufsqualifikation kann bis zum 31.
@@ -2384,6 +2485,7 @@ automatische Anerkennung erfüllt.
 
 
 ### § 78 Abschluss begonnener Ausbildungen in Form von Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE007900000)
 
 Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die vor dem
 31\. Dezember 2022 auf der Grundlage des § 6 Absatz 3 des
@@ -2400,6 +2502,7 @@ als Erlaubnis nach § 5.
 
 
 ### § 79 Weitergeltung der staatlichen Anerkennung von Hebammenschulen
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008000000)
 
 Hebammenschulen, die am 31. Dezember 2019 nach den Vorschriften des
 Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung
@@ -2418,6 +2521,7 @@ gelten weiterhin als staatlich anerkannt
 
 
 ### § 80 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/hebg_2020/BJNR175910019.html#BJNR175910019BJNE008100000)
 
 (1) Das Bundesministerium für Gesundheit evaluiert bis zum 31.
 Dezember 2035 auf wissenschaftlicher Grundlage die Wirkungen dieses

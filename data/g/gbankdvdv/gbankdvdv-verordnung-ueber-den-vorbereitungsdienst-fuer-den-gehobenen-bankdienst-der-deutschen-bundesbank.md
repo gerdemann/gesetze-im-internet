@@ -22,9 +22,11 @@ Geändert durch
 Stand: Ersetzt V 2030-8-3-1 v. 24.2.2011 I 318 (GBankDAPrV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNG000100000)
 
 
 ### § 1 Bachelorstudium
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000200000)
 
 Der Studiengang „Zentralbankwesen / Central Banking“ an der Hochschule
 der Deutschen Bundesbank (Hochschule) ist der Vorbereitungsdienst für
@@ -32,6 +34,7 @@ die Laufbahn des gehobenen Bankdienstes.
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000300000)
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
 die wissenschaftlichen Methoden und Kenntnisse sowie die
@@ -46,14 +49,17 @@ zu werden.
 
 
 ### § 3 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000400000)
 
 Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNG000200000)
 
 
 ### § 4 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000501129)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 für die Ernennung der Beamtinnen und Beamten der Deutschen Bundesbank
@@ -100,6 +106,7 @@ Auswahlverfahren geltende Fassung.
 
 
 ### § 5 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000601129)
 
 (1) Für die Durchführung des Auswahlverfahrens werden eine oder bei
 Bedarf mehrere Auswahlkommissionen gebildet. Die Mitglieder der
@@ -131,12 +138,14 @@ dies erfordern.
 
 
 ### § 6 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000700000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 7 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000801129)
 
 Der schriftliche Teil des Auswahlverfahrens besteht aus drei
 Abschnitten, und zwar aus
@@ -157,6 +166,7 @@ Persönlichkeitstest.
 
 
 ### § 8 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE000901129)
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus zwei
 Abschnitten, und zwar aus
@@ -182,6 +192,7 @@ in den Auswahlrichtlinien festgelegt.
 
 
 ### § 9 Bewertung der im Auswahlverfahren erbrachten Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001000000)
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten
 Leistungen gelten folgende Noten und Notendefinitionen:
@@ -292,6 +303,7 @@ auf die zweite Nachkommastelle gerundet.
 
 
 ### § 10 Ausschluss von der weiteren Teilnahme am Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001100000)
 
 Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am
 Auswahlverfahren ausgeschlossen, wenn
@@ -309,6 +321,7 @@ Auswahlverfahren ausgeschlossen, wenn
 
 
 ### § 11 Gesamtergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001201129)
 
 (1) Für die Ermittlung des Gesamtergebnisses des Auswahlverfahrens
 werden gewichtet:
@@ -343,9 +356,11 @@ sind innerhalb der Fristen nach Satz 2 zu löschen.
 
 
 ## Abschnitt 3 - Studienorganisation
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNG000300000)
 
 
 ### § 12 Dauer und Gliederung des Studiums, Studienplan
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001300000)
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien
 an der Hochschule von insgesamt 22 Monaten Dauer, Praxisstudien von
@@ -394,12 +409,14 @@ die Module, regelt der Studienplan.
 
 
 ### § 13 Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001400000)
 
 Die Fachstudien liegen in der Verantwortung der Hochschule und werden
 von haupt- und nebenamtlichen Lehrkräften durchgeführt.
 
 
 ### § 14 Praxisstudien, Ausbildungsverantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001500000)
 
 (1) Die Hochschule bestimmt und überwacht die Gestaltung und
 Organisation der Praxisstudien. Sie greift hierfür auf die
@@ -438,9 +455,11 @@ regelmäßig über den Stand der Ausbildung.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNG000400000)
 
 
 ### § 15 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001601129)
 
 (1) Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen
 Bankdienst. Sie besteht aus
@@ -461,6 +480,7 @@ in den einzelnen Modulen erbracht werden müssen.
 
 
 ### § 16 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001701129)
 
 (1) Für die Organisation und Durchführung der Laufbahnprüfung ist die
 Hochschule zuständig. Sie richtet hierzu ein Prüfungsamt ein, dessen
@@ -519,6 +539,7 @@ treffen:
 
 
 ### § 17 Prüfende, Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001801129)
 
 (1) Das Prüfungsamt bestellt die Prüfenden. Für die Durchführung und
 Bewertung der Verteidigung der Bachelorthesis richtet es eine oder bei
@@ -559,6 +580,7 @@ voneinander.
 
 
 ### § 18 Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE001901129)
 
 (1) In jedem Modul ist eine Prüfung abzulegen, die aus mehreren
 Prüfungsteilen bestehen kann.
@@ -629,6 +651,7 @@ Verteidigung der Bachelorthesis abgeschlossen sein.
 
 
 ### § 19 Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002001129)
 
 (1) Zur Bachelorthesis ist zugelassen, wer die im Studienplan
 vorgeschriebene Zahl an Modulprüfungen der Studienabschnitte nach § 12
@@ -667,6 +690,7 @@ dauern.
 
 
 ### § 20 Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002101129)
 
 (1) Zur Verteidigung der Bachelorthesis ist zugelassen, wer die
 Bachelorthesis bestanden hat.
@@ -691,10 +715,12 @@ entsprechend.
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002201129)
 
 
 
 ### § 22 Bewertung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002301129)
 
 (1) Die Modulprüfungen, die Bachelorthesis und die Verteidigung der
 Bachelorthesis werden mit Rangpunkten und Noten bewertet. Die
@@ -949,6 +975,7 @@ Prüfungsausgestaltungsordnung.
 
 
 ### § 23 Fernbleiben, Rücktritt, Verlängerung der Bearbeitungsfrist, Rügepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002401129)
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem
 Prüfungsteil ohne Genehmigung des Prüfungsamts gilt die Prüfung als
@@ -991,6 +1018,7 @@ spätere Berufung auf derartige Beeinträchtigungen aus.
 
 
 ### § 24 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002501129)
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung
 versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen,
@@ -1024,6 +1052,7 @@ anzuhören.
 
 
 ### § 25 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002601129)
 
 (1) Das Prüfungsamt bestimmt, wann und in welcher Form eine nicht
 bestandene Modulprüfung wiederholt wird.
@@ -1039,6 +1068,7 @@ sie einmal wiederholt werden.
 
 
 ### § 26 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002701129)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die im Studienplan
 vorgeschriebene Anzahl an Modulprüfungen, die Bachelorthesis und die
@@ -1099,6 +1129,7 @@ zweite Nachkommastelle gerundet.
 
 
 ### § 27 Abschlusszeugnis, Diploma Supplement
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002800000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
 und ein Diploma Supplement.
@@ -1129,6 +1160,7 @@ Laufbahnprüfung.
 
 
 ### § 28 Prüfungsakte, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE002901129)
 
 (1) Die schriftlichen Prüfungsleistungen sowie die Protokolle der
 mündlichen Prüfungen, die Bachelorthesis und eine Ausfertigung des
@@ -1150,9 +1182,11 @@ der Akte zu vermerken.
 
 
 ## Abschnitt 5 - Anerkennung und Anrechnung anderer erbrachter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNG000501129)
 
 
 ### § 29 Anerkennung von Studien- und Prüfungsleistungen sowie Anrechnung von nicht an einer Hochschule erworbenen Kompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE003001129)
 
 (1) Auf Antrag der oder des Studierenden werden folgende Leistungen
 anerkannt, sofern hinsichtlich der erworbenen Kompetenzen kein
@@ -1257,9 +1291,11 @@ mit dem Vermerk „bestanden“ versehen.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNG000600000)
 
 
 ### § 30 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gbankdvdv/BJNR332200017.html#BJNR332200017BJNE003101129)
 
 Für Anwärterinnen und Anwärter, die vor dem 1. Oktober 2025 mit dem
 Vorbereitungsdienst für den gehobenen Bankdienst begonnen haben, ist

@@ -22,24 +22,29 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000200314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNG000200314)
 
 
 
 ## Art 5 - Fünfzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Fünfzehntes Rentenanpassungsgesetz - 15.RAG)
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNG000300314)
 
 
 
 ## Art 6 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNG000100314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000300314)
 
 § 615 Abs. 2 der Reichsversicherungsordnung in der Fassung dieses
 Gesetzes gilt auch für Arbeitsunfälle, die vor seinem Inkrafttreten
@@ -48,12 +53,15 @@ oder für nichtig erklärt ist.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000402308)
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000502308)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000600314)
 
 (1) Wer nach Artikel 2 § 51a Abs. 1 und 2 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder nach Artikel 2 §
@@ -79,14 +87,17 @@ der Beiträge einleiten.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000701308)
 
 -
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000802308)
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE000900314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -96,6 +107,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rrg/BJNR019659972.html#BJNR019659972BJNE001000314)
 
 (1) Dieses Gesetz tritt, vorbehaltlich des Absatzes 2, am 1. Januar
 1973 in Kraft.

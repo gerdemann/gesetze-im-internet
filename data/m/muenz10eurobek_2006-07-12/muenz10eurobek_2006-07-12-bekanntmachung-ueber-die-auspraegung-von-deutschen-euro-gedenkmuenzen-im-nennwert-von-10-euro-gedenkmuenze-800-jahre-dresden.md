@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2006-07-12/BJNR170300006.html#BJNR170300006BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung von 800
@@ -63,11 +64,13 @@ Der Entwurf der Münze stammt von Herrn Heinz Hoyer, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2006-07-12/BJNR170300006.html#BJNR170300006BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2006-07-12/BJNR170300006.html#BJNR170300006BJNE000300000)
 
 (Fundstelle: BGBl. I 2006, 1703)
 ![bgbl1_2006_j1703_0010.jpg](bgbl1_2006_j1703_0010.jpg)

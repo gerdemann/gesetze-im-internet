@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Zweck des Gesetzes; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000100000)
 
 (1) Dieses Gesetz dient der Regelung der Nutzung von Gesundheitsdaten
 zu gemeinwohlorientierten Forschungszwecken und zur datenbasierten
@@ -39,6 +40,7 @@ genannten, im Gemeinwohl liegenden Zwecken verarbeitet werden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000200000)
 
 Im Sinne dieses Gesetzes sind oder ist
 
@@ -107,6 +109,7 @@ Im Sinne dieses Gesetzes sind oder ist
 
 
 ## § 3 Datenzugangs- und Koordinierungsstelle für Gesundheitsdaten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000300000)
 
 (1) Beim Bundesinstitut für Arzneimittel und Medizinprodukte wird eine
 zentrale Datenzugangs- und Koordinierungsstelle für Gesundheitsdaten
@@ -242,6 +245,7 @@ Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch erhobenen Daten.
 
 
 ## § 4 Verknüpfung von Daten des Forschungsdatenzentrums Gesundheit mit Daten der klinischen Krebsregister der Länder; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000400000)
 
 (1) Die Verknüpfung von pseudonymisierten Daten des
 Forschungsdatenzentrums Gesundheit nach § 303d des Fünften Buches
@@ -416,6 +420,7 @@ Sicherheit in der Informationstechnik.
 
 
 ## § 5 Datenschutzaufsicht bei länderübergreifenden Gesundheitsforschungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000500000)
 
 (1) Sind an einem Vorhaben der Versorgungs- oder Gesundheitsforschung,
 bei dem Gesundheitsdaten verarbeitet werden, eine oder mehrere
@@ -480,6 +485,7 @@ Verwaltungsverfahrensgesetzes findet entsprechende Anwendung.
 
 
 ## § 6 Weiterverarbeitung von Versorgungsdaten zur Qualitätssicherung, zur Förderung der Patientensicherheit und zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000600000)
 
 (1) Datenverarbeitende Gesundheitseinrichtungen dürfen die bei ihnen
 gemäß Artikel 9 Absatz 2 Buchstabe h und i der Verordnung (EU)
@@ -571,6 +577,7 @@ informieren.
 
 
 ## § 7 Geheimhaltungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000700000)
 
 (1) Datennutzende dürfen Gesundheitsdaten, die ihnen für
 wissenschaftliche Forschungszwecke verfügbar gemacht wurden,
@@ -620,6 +627,7 @@ der datenhaltenden Stelle.
 
 
 ## § 8 Registrierungspflicht; Publikationspflicht von Forschungsergebnissen bei Verarbeitung von Gesundheitsdaten im öffentlichen Interesse
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000800000)
 
 Sofern in einem Forschungsvorhaben Gesundheitsdaten auf Grundlage
 dieses Gesetzes ohne die Einwilligung der betroffenen Personen zu
@@ -646,6 +654,7 @@ Belangen gemäß § 3 des Informationsfreiheitsgesetzes erforderlich ist.
 
 
 ## § 9 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdng/BJNR0660B0024.html#BJNR0660B0024BJNE000900000)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer

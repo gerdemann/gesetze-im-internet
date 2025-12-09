@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vermittvergv/BJNR243900002.html#BJNR243900002BJNE000500000)
 
 Auf Grund des § 301 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
@@ -28,6 +29,7 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Berufe und Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/vermittvergv/BJNR243900002.html#BJNR243900002BJNE000100000)
 
 Für die Vermittlung in eine Tätigkeit als
 
@@ -49,6 +51,7 @@ nach dem ihm zustehenden Arbeitsentgelt bemessen.
 
 
 ## § 2 Höhe der Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/vermittvergv/BJNR243900002.html#BJNR243900002BJNE000200000)
 
 (1) Die Vergütung einschließlich der auf sie entfallenden Umsatzsteuer
 darf 14 vom Hundert des dem vermittelten Arbeitnehmer zustehenden
@@ -70,6 +73,7 @@ Vermittlung mit einem anderen Vermittler zusammenarbeitet.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vermittvergv/BJNR243900002.html#BJNR243900002BJNE000300000)
 
 Vereinbarungen, die in der Zeit vom 27. März 2002 bis zum Tag der
 Verkündung dieser Verordnung abgeschlossen werden und eine Vergütung
@@ -79,6 +83,7 @@ dieser Verordnung zulässige Höhe übersteigt.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vermittvergv/BJNR243900002.html#BJNR243900002BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 27. März 2002 in Kraft.
 

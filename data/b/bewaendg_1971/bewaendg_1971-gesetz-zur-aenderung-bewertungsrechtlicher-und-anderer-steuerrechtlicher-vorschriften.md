@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 1 Erstmalige Anwendung der Einheitswerte des Grundbesitzes
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000100303)
 
 (1) Die Einheitswerte des Grundbesitzes, denen die Wertverhältnisse
 vom 1. Januar 1964 zugrunde liegen, sind erstmals anzuwenden bei der
@@ -35,6 +36,7 @@ Gesetzes erstmals auf den 1. Januar 1974 vorgenommen.
 
 
 ## Art 2 \*Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte \*KE
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000200303)
 
 (1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
 der Einheitswerte auf den 1. Januar 1972 statt (Hauptfeststellung
@@ -48,10 +50,12 @@ bei denen die Steuerschuld nach dem 31. Dezember 1971 entsteht.
 
 
 ## (XXXX) Art 3 und 4
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000300303)
 
 
 
 ## Art 5 Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000400303)
 
 (1) Bei der Einheitsbewertung des Grundbesitzes sind anzuwenden
 
@@ -77,10 +81,12 @@ Fassung dieses Gesetzes.
 
 
 ## (XXXX) Art 6 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000500303)
 
 
 
 ## Art 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000600303)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -88,6 +94,7 @@ im Land Berlin.
 
 
 ## Art 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg_1971/BJNR011570971.html#BJNR011570971BJNE000700303)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

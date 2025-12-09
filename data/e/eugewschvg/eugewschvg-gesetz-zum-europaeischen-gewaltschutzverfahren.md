@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Verfahrensvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000100000)
 
 
 ### § 1 Anwendung der Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000200000)
 
 Verfahren nach den Abschnitten 2 und 3 dieses Gesetzes sind
 Familiensachen. Auf diese Verfahren sind die Vorschriften des Gesetzes
@@ -35,9 +37,11 @@ Abweichendes bestimmt ist.
 
 
 ## Abschnitt 2 - Anerkennung und Vollstreckung nach der Richtlinie 2011/99/EU
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000200000)
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000300000)
 
 Im Sinne dieses Abschnitts ist
 
@@ -79,6 +83,7 @@ Im Sinne dieses Abschnitts ist
 
 
 ### § 3 Entgegennahme und Übermittlung eines Antrags auf Erlass einer Europäischen Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000400000)
 
 (1) Für die Entgegennahme eines Antrags auf Erlass einer Europäischen
 Schutzanordnung ist das Familiengericht ausschließlich zuständig, in
@@ -94,6 +99,7 @@ Schutzanordnung unverzüglich an die Anordnungsbehörde.
 
 
 ### § 4 Verfahren der Anerkennung einer Europäischen Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000500000)
 
 (1) Für die Anerkennung einer Europäischen Schutzanordnung ist das
 Familiengericht ausschließlich zuständig, in dessen Bezirk sich die
@@ -112,6 +118,7 @@ Form und setzt ihr eine angemessene Frist zur Vervollständigung.
 
 
 ### § 5 Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000601125)
 
 (1) In Verfahren über eine in den §§ 3 und 4 bezeichnete Sache ist das
 Familiengericht zuständig, in dessen Bezirk ein Oberlandesgericht
@@ -129,6 +136,7 @@ die Ermächtigungen auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 6 Versagung der Anerkennung einer Europäischen Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000700000)
 
 Die Anerkennung kann nur versagt werden, wenn
 
@@ -243,6 +251,7 @@ Die Anerkennung kann nur versagt werden, wenn
 
 
 ### § 7 Entscheidung über die Anerkennung einer Europäischen Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000800000)
 
 (1) Das Gericht entscheidet unverzüglich über die Anerkennung der
 Europäischen Schutzanordnung. Die Entscheidung ergeht durch Beschluss
@@ -262,6 +271,7 @@ ohne Anhörung der gefährdenden Person.
 
 
 ### § 8 Beschwerde gegen die Ablehnung der Anerkennung einer Europäischen Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE000900000)
 
 Gegen die Entscheidung, mit der die Anerkennung abgelehnt wird, findet
 die Beschwerde statt. Die Entscheidung, mit der die Europäische
@@ -269,6 +279,7 @@ Schutzanordnung anerkannt wird, ist nicht anfechtbar.
 
 
 ### § 9 Maßnahmen nach Anerkennung einer Europäischen Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001000000)
 
 (1) Erkennt das Gericht die Europäische Schutzanordnung an, so erlässt
 es zugleich eine geeignete Maßnahme nach § 1 des Gewaltschutzgesetzes,
@@ -287,6 +298,7 @@ unberührt.
 
 
 ### § 10 Verstoß gegen eine nach § 9 Absatz 1 erlassene Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001100000)
 
 (1) Erlangt das Gericht Kenntnis von einem Verstoß gegen eine nach § 9
 Absatz 1 erlassene Maßnahme, unterrichtet es hierüber folgende
@@ -319,6 +331,7 @@ bestimmte Formblatt eingeführt.
 
 
 ### § 11 Aufhebung einer nach § 9 Absatz 1 erlassenen Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001200000)
 
 (1) Unterrichtet die Anordnungsbehörde das Gericht von der Aufhebung
 der Europäischen Schutzanordnung, hebt das Gericht auch die aufgrund
@@ -353,6 +366,7 @@ Kenntnis.
 
 
 ### § 12 Änderung einer nach § 9 Absatz 1 erlassenen Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001300000)
 
 (1) Unterrichtet die Anordnungsbehörde das Gericht von der Änderung
 der Europäischen Schutzanordnung, so ändert das Gericht auch die auf
@@ -371,12 +385,15 @@ Person hiervon unverzüglich in Kenntnis.
 
 
 ## Abschnitt 3 - Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 606/2013
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000300000)
 
 
 ### Unterabschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000400000)
 
 
 #### § 13 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001400000)
 
 Im Sinne dieses Abschnitts ist
 
@@ -396,9 +413,11 @@ Im Sinne dieses Abschnitts ist
 
 
 ### Unterabschnitt 2 - Bescheinigungen zu inländischen Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000500000)
 
 
 #### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001500000)
 
 Für die Ausstellung der Bescheinigungen nach Artikel 5 Absatz 1 und
 Artikel 14 Absatz 1 der Verordnung (EU) Nr. 606/2013 sind die Gerichte
@@ -407,6 +426,7 @@ Titels obliegt.
 
 
 #### § 15 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001600000)
 
 Die Bescheinigung nach Artikel 5 Absatz 1 der Verordnung (EU) Nr.
 606/2013 ist ohne Anhörung der gefährdenden Person auszustellen. Die
@@ -415,6 +435,7 @@ Verordnung (EU) Nr. 606/2013.
 
 
 #### § 16 Berichtigung und Aufhebung von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001700000)
 
 Für die Berichtigung und die Aufhebung der gemäß Artikel 5 Absatz 1
 der Verordnung (EU) Nr. 606/2013 ausgestellten Bescheinigung nach
@@ -424,9 +445,11 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 
 ### Unterabschnitt 3 - Anerkennung und Vollstreckung ausländischer Titel im Inland
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000600000)
 
 
 #### § 17 Entbehrlichkeit der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001800000)
 
 Aus einem Titel, der in einem anderen Mitgliedstaat gemäß Artikel 4
 der Verordnung (EU) Nr. 606/2013 vollstreckbar ist, findet die
@@ -435,6 +458,7 @@ Vollstreckungsklausel bedarf.
 
 
 #### § 18 Übersetzung oder Transliteration
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE001900000)
 
 Hat die geschützte Person nach Artikel 4 Absatz 2 Buchstabe c der
 Verordnung (EU) Nr. 606/2013 eine Übersetzung oder eine
@@ -443,6 +467,7 @@ abzufassen.
 
 
 #### § 19 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002001125)
 
 Für die Zwangsvollstreckung ist das Familiengericht ausschließlich
 örtlich zuständig, in dessen Zuständigkeitsbezirk
@@ -458,6 +483,7 @@ Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 
 #### § 20 Anpassung eines ausländischen Titels
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002100000)
 
 (1) Das Gericht passt den ausländischen Titel nach Artikel 11 der
 Verordnung (EU) Nr. 606/2013 an, soweit dies erforderlich ist, um ihm
@@ -481,6 +507,7 @@ Person richtet sich nach Artikel 11 Absatz 4 der Verordnung (EU) Nr.
 
 
 #### § 21 Versagung der Anerkennung oder der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002200000)
 
 (1) Für Anträge auf Versagung der Anerkennung oder der Vollstreckung
 (Artikel 13 Absatz 1 der Verordnung (EU) Nr. 606/2013) ist das in § 19
@@ -499,6 +526,7 @@ hören.
 
 
 #### § 22 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002300000)
 
 Legt die gefährdende Person oder die geschützte Person eine
 Bescheinigung gemäß Artikel 14 Absatz 1 der Verordnung (EU) Nr.
@@ -510,6 +538,7 @@ oder zu beschränken.
 
 
 #### § 23 Vollstreckungsabwehrantrag
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002400000)
 
 Der Antrag nach § 95 Absatz 1 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
@@ -518,9 +547,11 @@ bei dem in § 19 bestimmten Gericht zu stellen.
 
 
 ## Abschnitt 4 - Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNG000700000)
 
 
 ### § 24 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002500000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer einer bestimmten vollstreckbaren Anordnung nach § 9
@@ -532,6 +563,7 @@ Strafbarkeit nach anderen Vorschriften bleibt unberührt.
 (zu § 10 Absatz 3)
 
 ### Anlage Formblatt zur Meldung eines Verstoßes gegen eine aufgrund der Europäischen Schutzanordnung erlassene Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/eugewschvg/BJNR196410014.html#BJNR196410014BJNE002600000)
 
 (Fundstelle: BGBl. I 2014, 1969 - 1971)
 

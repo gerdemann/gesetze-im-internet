@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/psa-bv/BJNR184110996.html#BJNR184110996BJNE000300000)
 
 (1) Diese Verordnung gilt für die Bereitstellung persönlicher
 Schutzausrüstungen durch Arbeitgeber sowie für die Benutzung
@@ -70,6 +71,7 @@ unterliegen.
 
 
 ## § 2 Bereitstellung und Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/psa-bv/BJNR184110996.html#BJNR184110996BJNE000401126)
 
 (1) Unbeschadet seiner Pflichten nach den §§ 3, 4 und 5 des
 Arbeitsschutzgesetzes darf der Arbeitgeber nur persönliche
@@ -114,6 +116,7 @@ befinden.
 
 
 ## § 3 Unterweisung
+[Direktlink](https://www.gesetze-im-internet.de/psa-bv/BJNR184110996.html#BJNR184110996BJNE000500000)
 
 (1) Bei der Unterweisung nach § 12 des Arbeitsschutzgesetzes hat der
 Arbeitgeber die Beschäftigten darin zu unterweisen, wie die

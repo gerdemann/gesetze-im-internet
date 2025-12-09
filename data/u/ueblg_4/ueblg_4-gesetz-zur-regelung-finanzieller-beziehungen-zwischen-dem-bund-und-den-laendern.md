@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000100311)
 
 (1) Auf dem Gebiet der Steuer- und Zollverwaltung fallen die
 Beteiligung des Bundes an den Ausgaben der Länder und Gemeinden
@@ -38,6 +39,7 @@ Beteiligung des Bundes an den Ausgaben der Länder und Gemeinden
 
 
 ## § 2 Kriegsfolgelasten
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000200311)
 
 (1) ...
 
@@ -55,16 +57,19 @@ anfallenden Fürsorgekosten trägt, gilt § 21a des Ersten
 
 
 ## § 3 Behörden der Kriegsopferversorgung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000300311)
 
 -
 
 
 ## § 4 Bundesstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000400311)
 
 -
 
 
 ## § 5 Ablieferung von Steuereinnahmen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000500311)
 
 (1) Die Finanzämter liefern die bei ihnen eingegangenen, nach Artikel
 106 des Grundgesetzes dem Bund zustehenden Einnahmen täglich an die
@@ -82,6 +87,7 @@ regeln.
 
 
 ## § 6 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000600311)
 
 Die zuständigen Bundesbehörden und Landesbehörden sind verpflichtet,
 sich gegenseitig die zur Durchführung dieses Gesetzes erforderlichen
@@ -91,6 +97,7 @@ lassen.
 
 
 ## § 7 Überleitung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000700311)
 
 Soweit nach diesem Gesetz Einnahmen und Ausgaben vom Bund auf die
 Länder und von den Ländern auf den Bund übergehen, stehen die nach dem
@@ -100,16 +107,19 @@ Ausgabenträger zur Last.
 
 
 ## § 8 Außerkrafttreten von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000800311)
 
 -
 
 
 ## § 9 Neufassung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE000900311)
 
 -
 
 
 ## § 10 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE001000311)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -119,6 +129,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_blg_4/BJNR001890955.html#BJNR001890955BJNE001200311)
 
 Dieses Gesetz ist erstmals für das Rechnungsjahr 1955 anzuwenden; es
 tritt am Tage nach seiner Verkündung in Kraft.

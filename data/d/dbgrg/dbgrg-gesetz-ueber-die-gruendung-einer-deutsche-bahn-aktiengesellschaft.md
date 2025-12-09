@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Gründung
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNG000100303)
 
 
 
 ### § 1 Errichtung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE000400303)
 
 (1) Aus dem Bundeseisenbahnvermögen sind in Erfüllung der in § 20 Abs.
 1 des Gesetzes zur Zusammenführung und Neugliederung der
@@ -41,6 +43,7 @@ Aktiengesellschaft".
 
 
 ### § 2 Ausgliederung aus dem Vermögen der Deutsche Bahn Aktiengesellschaft, Auflösung der Deutsche Bahn Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE000500303)
 
 (1) Aus der Deutsche Bahn Aktiengesellschaft sind frühestens in drei
 Jahren, spätestens in fünf Jahren nach ihrer Eintragung im
@@ -75,6 +78,7 @@ veräußert werden soll.
 
 
 ### § 3 Gegenstand des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE000600303)
 
 (1) Gegenstand des Unternehmens der Gesellschaft ist
 
@@ -104,6 +108,7 @@ beschränken.
 
 
 ### § 4 Ausgliederungsplan
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE000700303)
 
 (1) Der Vorstand des Bundeseisenbahnvermögens hat spätestens einen
 Monat nach Inkrafttreten dieses Gesetzes einen Ausgliederungsplan
@@ -152,6 +157,7 @@ Aktiengesellschaft enthalten sein oder festgestellt werden.
 
 
 ### § 5 Anwendung des Gründungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE000800303)
 
 (1) Auf die Gründung der Deutsche Bahn Aktiengesellschaft sind die für
 ihre Rechtsform geltenden Gründungsvorschriften anzuwenden, soweit
@@ -164,6 +170,7 @@ Rumpfgeschäftsjahr den ersten Abschlußprüfer.
 
 
 ### § 6 Wirksamwerden des Ausgliederungsplanes
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE000900303)
 
 Der Ausgliederungsplan wird nur wirksam, wenn ihm das
 Bundesministerium für Verkehr im Einvernehmen mit dem
@@ -171,6 +178,7 @@ Bundesministerium der Finanzen schriftlich zustimmt.
 
 
 ### § 7 Anmeldung und Eintragung im Register
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001000303)
 
 Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn
 Aktiengesellschaft haben die Deutsche Bahn Aktiengesellschaft bei dem
@@ -184,6 +192,7 @@ beizufügen.
 
 
 ### § 8 Wirkung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001100303)
 
 (1) Die Eintragung der Deutsche Bahn Aktiengesellschaft in das
 Handelsregister hat folgende Wirkung:
@@ -212,6 +221,7 @@ Absatz 1 unberührt.
 
 
 ### § 9 Schutz der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001200303)
 
 (1) Durch den Übergang der Verbindlichkeiten auf die Deutsche Bahn
 Aktiengesellschaft wird das Bundeseisenbahnvermögen von der Haftung
@@ -236,6 +246,7 @@ Gesellschaft nicht.
 
 
 ### § 10 Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001300303)
 
 (1) Die Eröffnungsbilanz der Deutsche Bahn Aktiengesellschaft ist auf
 den Tag ihrer Eintragung im Handelsregister zu erstellen. Für die
@@ -282,6 +293,7 @@ einzustellen. In diesen Fällen gilt die Eröffnungsbilanz als geändert.
 
 
 ### § 11 Steuerliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001400303)
 
 (1) Die steuerrechtliche Eröffnungsbilanz entspricht der geprüften
 handelsrechtlichen Eröffnungsbilanz (§ 242 Abs. 1 des
@@ -307,10 +319,12 @@ Ausgliederung nach § 2 Abs. 1 errichtet werden, entsprechend.
 
 
 ## Zweiter Abschnitt - Überleitung des Personals
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNG000200303)
 
 
 
 ### § 12 Beamte
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001504124)
 
 (1) Beurlaubungen von Beamten des Bundeseisenbahnvermögens zur
 Wahrnehmung einer Tätigkeit bei der Deutsche Bahn Aktiengesellschaft
@@ -375,6 +389,7 @@ zur Verfügung steht.
 
 
 ### § 13 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001600303)
 
 (1) Dem Präsidenten des Bundeseisenbahnvermögens obliegt die Aufsicht
 darüber, daß die Deutsche Bahn Aktiengesellschaft bei der Wahrnehmung
@@ -399,6 +414,7 @@ zuständigen besonderen Personalvertretung blieben unberührt.
 
 
 ### § 14 Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001701308)
 
 (1) Der Vorstand des Bundeseisenbahnvermögens stellt vor Anmeldung der
 Deutsche Bahn Aktiengesellschaft zur Eintragung in das Handelsregister
@@ -455,6 +471,7 @@ Altersgrenze oder Zuerkennung einer Rente geendet haben.
 
 
 ### § 15 Übergangsmandat der örtlichen Personalräte
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001800303)
 
 (1) Die örtlichen Personalräte in den Dienststellen, die als Betriebe
 oder Betriebsteile auf die Deutsche Bahn Aktiengesellschaft übergehen,
@@ -479,6 +496,7 @@ Schwerbehindertenvertretungen entsprechend.
 
 
 ### § 16 Überleitung von Dienstleistungsüberlassungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE001900303)
 
 (1) § 12 Abs. 2 gilt nicht für Beamte, die im Zeitpunkt der Eintragung
 der Deutsche Bahn Aktiengesellschaft in das Handelsregister auf Grund
@@ -507,6 +525,7 @@ Dienstleistungsüberlassungsverträge finden § 12 Abs. 1 und 2 sowie §
 
 
 ### § 17 Personalvertretung, Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002001119)
 
 (1) Zur Wahrung der Interessen der Beamten, die gemäß § 12 Abs. 2 und
 3 der Deutsche Bahn Aktiengesellschaft zugewiesen sind, gegenüber den
@@ -580,6 +599,7 @@ Hauptpersonalrat zuständig.
 
 
 ### § 18 Öffentlich-rechtliche Amtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002100303)
 
 (1) Die Amtsverhältnisse der Personen, die nach den §§ 8, 9a und 19a
 des Bundesbahngesetzes in der im Bundesgesetzblatt Teil III,
@@ -651,6 +671,7 @@ Absatz 1 Satz 2 verlieren.
 
 
 ### § 19 Geltung arbeitsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002201308)
 
 (1) Die Beamten des Bundeseisenbahnvermögens, die nach § 12 Abs. 2 und
 3 der Deutsche Bahn Aktiengesellschaft zugewiesen sind, gelten für die
@@ -672,11 +693,13 @@ Bundeseisenbahnvermögen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002301308)
 
 (weggefallen)
 
 
 ### § 21 Personalkosten
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002406119)
 
 (1) Die Deutsche Bahn Aktiengesellschaft leistet an das
 Bundeseisenbahnvermögen für die ihr gemäß § 12 Abs. 2 und 3
@@ -797,6 +820,7 @@ zur Hälfte.
 
 
 ### § 22 Übernahme von Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002503305)
 
 (1) Der Bund leistet einen Beitrag zum Abbau der wirtschaftlichen und
 ökologischen Altlasten im Bereich des bisherigen Sondervermögens
@@ -872,6 +896,7 @@ einem Verwaltungsabkommen des Bundes mit diesen Länder geregelt.
 
 
 ### § 23 Anwendung von Vorschriften auf ausgegliederte Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002600303)
 
 Die §§ 12, 13, 17, 19, 21 und 22 gelten entsprechend für die nach § 2
 Abs. 1 ausgegliederten Gesellschaften. Für nach § 3 Abs. 3
@@ -881,16 +906,19 @@ oder 2 ausübt.
 
 
 ### § 24 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002700303)
 
 Rechtsverordnungen auf Grund des zweiten Abschnitts dieses Gesetzes
 bedürfen nicht der Zustimmung des Bundesrates.
 
 
 ## Dritter Abschnitt - Organisation, Wirtschaftsführung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNG000300303)
 
 
 
 ### § 25 Interne Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002801301)
 
 Innerhalb der Deutsche Bahn Aktiengesellschaft sind mindestens die
 Bereiche "Personennahverkehr", "Personenfernverkehr", "Güterverkehr"
@@ -899,6 +927,7 @@ Die Vermögenswerte sind den jeweiligen Bereichen zuzuordnen.
 
 
 ### § 26 Beteiligung an Sozialeinrichtungen, Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE002900303)
 
 Die Deutsche Bahn Aktiengesellschaft hat spätestens nach Ablauf von
 sechs Monaten nach ihrer Eintragung im Handelsregister gegenüber dem
@@ -911,6 +940,7 @@ Bundeseisenbahnvermögens beteiligt oder diese anerkennt.
 
 
 ### § 27 Prüfungsrechte des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/dbgrg/BJNR238600993.html#BJNR238600993BJNE003001307)
 
 (1) Die Prüfung der Betätigung des Bundes bei der Deutsche Bahn
 Aktiengesellschaft sowie bei den durch Ausgliederung gemäß § 2 Abs. 1

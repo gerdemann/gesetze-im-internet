@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000100000)
 
 Auf Grund des § 5 Abs. 3 des Pfandbriefgesetzes vom 22. Mai 2005
 (BGBl. I S. 1373) in Verbindung mit § 1 Nr. 4 der Verordnung zur
@@ -35,10 +36,12 @@ Kreditwirtschaft:
 
 
 ## Teil 1 - Anwendungsbereich; allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000201119)
 
 (1) Diese Verordnung regelt die Anforderungen an Form und Inhalt der
 Deckungsregister nach § 5 Absatz 1 Satz 1 des Pfandbriefgesetzes, an
@@ -54,6 +57,7 @@ Löschungsvermerke.
 
 
 ### § 2 Form der Deckungsregister; Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000301119)
 
 (1) Das Deckungsregister für eine Pfandbriefgattung kann nach Maßgabe
 des Teils 3 in Papierform oder nach dauerhafter Wahl der
@@ -67,6 +71,7 @@ aufzubewahren.
 
 
 ### § 3 Schutz der Deckungsregister
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000400000)
 
 Deckungsregister sind vor unberechtigtem Zugriff sowie vor
 Beschädigung oder Zerstörung durch äußere Einwirkungen wie Feuer oder
@@ -74,6 +79,7 @@ Wasser besonders zu schützen.
 
 
 ### § 4 Haupt- und Unterregister
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000503119)
 
 (1) Für jede Pfandbriefgattung im Sinne von § 1 Abs. 1 Satz 2 Nr. 1
 bis 4 des Pfandbriefgesetzes ist ein gesondertes Deckungsregister zu
@@ -147,6 +153,7 @@ mindestens für zehn Jahre aufzubewahren.
 
 
 ### § 5 Vollständigkeit des Deckungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000601119)
 
 (1) Eintragungen dürfen, sofern es sich nicht um Schreibfehler,
 Rechnungsfehler oder ähnliche offenbare Unrichtigkeiten handelt, nicht
@@ -163,10 +170,12 @@ Löschung mindestens zehn Jahre verstrichen sind.
 
 
 ## Teil 2 - Zusätzliche Anforderungen bei elektronischer  Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNG000200000)
 
 
 
 ### § 6 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000701119)
 
 (1) Der Inhalt eines elektronisch geführten Deckungsregisters muss auf
 Dauer unverändert in lesbarer Form wiedergabefähig sowie auf Dauer
@@ -181,6 +190,7 @@ vollständig ausgedruckt werden können.
 
 
 ### § 7 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000801119)
 
 (1) Die eingesetzten Datenverarbeitungssysteme müssen dem Stand der
 Technik sowie den Anforderungen des Datenschutzes und der
@@ -238,10 +248,12 @@ verarbeitet werden kann, an den Sachwalter zu übermitteln.
 
 
 ## Teil 3 - Inhalt der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNG000300000)
 
 
 
 ### § 8 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE000900000)
 
 (1) Es ist sicherzustellen, dass Deckungswerte erst eingetragen
 werden, wenn sämtliche Voraussetzungen für deren Indeckungnahme
@@ -258,6 +270,7 @@ Zuordnung erheblich erleichtern können.
 
 
 ### § 9 Eintragung im Inland belegener Hypotheken und Grundschulden
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001002119)
 
 Eintragungen im Inland belegener Hypotheken und Grundschulden sind
 entsprechend des in Anlage 1 dargestellten Formulars DR 1 in folgender
@@ -349,6 +362,7 @@ Weise vorzunehmen:
 
 
 ### § 10 Eintragung ausländischer Sicherungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001101119)
 
 (1) Eintragungen ausländischer Sicherungsrechte sind entsprechend den
 Eintragungen im Inland belegener Hypotheken und Grundschulden nach § 9
@@ -376,6 +390,7 @@ Grundstücks ermöglichen.
 
 
 ### § 11 Eintragung von Deckungswerten nach § 20 Abs. 1 des Pfandbriefgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001202119)
 
 Eintragungen von Deckungswerten nach § 20 Abs. 1 des
 Pfandbriefgesetzes sind entsprechend des in Anlage 2 dargestellten
@@ -414,6 +429,7 @@ Formulars DR 2 in folgender Weise vorzunehmen:
 
 
 ### § 12 Eintragung von Deckungswerten nach § 21 und § 26 Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001302119)
 
 (1) Eintragungen von Deckungswerten nach § 21 und § 26 Absatz 1 Satz 1
 Nummer 1 des Pfandbriefgesetzes sind vorbehaltlich des Absatzes 2
@@ -435,6 +451,7 @@ Schiffsversicherung in Spalte 6 einzutragen.
 
 
 ### § 12a Eintragung von Deckungswerten nach den §§ 26a und § 26f Absatz 1 Satz 1 Nummer 1 des Pfandbriefgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE002402119)
 
 (1) Die Eintragung von Deckungswerten nach den §§ 26a und 26f Absatz 1
 Satz 1 Nummer 1 des Pfandbriefgesetzes ist vorbehaltlich Absatz 2
@@ -457,6 +474,7 @@ einzutragen. § 9 Nr. 4 Satz 2 gilt entsprechend. In den Fällen des
 
 
 ### § 13 Eintragung von Derivategeschäften
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001403119)
 
 Die Eintragung von Derivategeschäften in das jeweilige Unterregister
 ist entsprechend des in Anlage 3 dargestellten Formulars DR 3 durch
@@ -521,6 +539,7 @@ Eintragung der einbezogenen Derivate in folgender Weise vorzunehmen:
 
 
 ### § 14 Eintragung von Deckungswerten der barwertigen sichernden Überdeckung sowie anderer weiterer Deckungswerte
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001503119)
 
 Eintragungen von Deckungswerten nach § 4 Absatz 1 Satz 3, § 19 Absatz
 1 Satz 1 Nummer 2 Buchstabe a und b, auch in Verbindung mit § 20
@@ -561,10 +580,12 @@ einzutragen.
 
 
 ## Teil 4 - Aufzeichnungen und Bestätigungen nach § 5 Abs. 2 des Pfandbriefgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNG000400000)
 
 
 
 ### § 15 Umfang der Aufzeichnung und Form der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001601119)
 
 (1) Die Aufzeichnung nach § 5 Absatz 2 des Pfandbriefgesetzes hat
 sämtliche Eintragungen in den Deckungsregistern vollständig
@@ -579,6 +600,7 @@ Datenabzugs dauerhaft anzubringen.
 
 
 ### § 16 Treuhänderbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001701119)
 
 (1) Der Treuhänder hat zu bestätigen, dass die Aufzeichnung nach § 5
 Absatz 2 des Pfandbriefgesetzes mindestens die Eintragungen des
@@ -603,6 +625,7 @@ wieder entfernen lässt, seine Namensunterschrift beizufügen.
 
 
 ### § 17 Aufbewahrung durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001801119)
 
 Die Bundesanstalt hat die Aufzeichnungen zwei Jahre aufzubewahren. Die
 Aufzeichnungen sind vor unberechtigtem Zugriff sowie vor Beschädigung
@@ -612,10 +635,12 @@ bestimmte Mitarbeiter der Bundesanstalt zu beschränken.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNG000500000)
 
 
 
 ### § 18 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE001901119)
 
 (1) Deckungsregister, die die Institute bereits vor Inkrafttreten
 dieser Verordnung aufgrund gesetzlicher Vorschriften geführt haben und
@@ -653,11 +678,13 @@ Eintragungen vorgenommen werden.
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE002000000)
 
 Diese Verordnung tritt am Tag nach Verkündung in Kraft.
 
 
 ### Anlage 1 (zu § 9)
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE002100000)
 
 (Fundstelle: BGBl. I 2006, 2078
 
@@ -778,6 +805,7 @@ Diese Verordnung tritt am Tag nach Verkündung in Kraft.
 
 
 ### Anlage 2 (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE002201119)
 
    (Fundstelle: BGBl. I 2006, 2078)
 
@@ -871,6 +899,7 @@ Diese Verordnung tritt am Tag nach Verkündung in Kraft.
 Formular DR 3
 
 ### Anlage 3 Unterregister zum Deckungsregister (Hypotheken)/(Kommunal)/(Schiffshypotheken)/(Flugzeughypotheken) Unterregister für Ansprüche aus Derivategeschäften
+[Direktlink](https://www.gesetze-im-internet.de/deckregv/BJNR207400006.html#BJNR207400006BJNE002302119)
 
 (Fundstelle: BGBl. I 2006, 2078;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

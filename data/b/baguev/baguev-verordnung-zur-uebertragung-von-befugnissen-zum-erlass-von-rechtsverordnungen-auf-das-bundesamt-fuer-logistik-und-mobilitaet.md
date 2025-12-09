@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bag_v/BJNR602600016.html#BJNR602600016BJNE000100000)
 
 Auf Grund des § 4h Satz 2 und des § 4i Satz 2 des
 Bundesfernstraßenmautgesetzes vom 12. Juli 2011 (BGBl. I S. 1378), die
@@ -30,6 +31,7 @@ Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Befugnisübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bag_v/BJNR602600016.html#BJNR602600016BJNE000202123)
 
 Dem Bundesamt für Logistik und Mobilität wird die Befugnis übertragen,
 
@@ -49,6 +51,7 @@ zu erlassen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bag_v/BJNR602600016.html#BJNR602600016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

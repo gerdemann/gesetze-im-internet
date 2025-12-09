@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000100000)
 
 Auf Grund des § 609 Absatz 7 der Zivilprozessordnung, der durch
 Artikel 2 Nummer 5 des Gesetzes vom 12. Juli 2018 (BGBl. I S. 1151)
@@ -28,6 +29,7 @@ für Verbraucherschutz:
 
 
 ## § 1 Register für Verbandsklagen
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000201360)
 
 (1) Das Bundesamt für Justiz führt ein Verbandsklageregister, in dem
 es nach Maßgabe der folgenden Vorschriften Folgendes öffentlich
@@ -70,6 +72,7 @@ sind jeweils in einer eigenen Rubrik vorzunehmen.
 
 
 ## § 2 Öffentliche Bekanntmachungen und Mitteilungen des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000302360)
 
 (1) Öffentlich bekannt zu machen sind
 
@@ -100,6 +103,7 @@ Unterlassungsklagengesetzes ist schriftlich zu stellen.
 
 
 ## § 3 Anmeldung und Eintragung von Ansprüchen oder Rechtsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000402360)
 
 (1) Für die Anmeldung zur Eintragung von Ansprüchen oder
 Rechtsverhältnissen in das Verbandsklageregister nach § 43 Absatz 1
@@ -159,6 +163,7 @@ verpflichtend gekennzeichneten Felder ausgefüllt sind.
 
 
 ## § 4 Rücknahme der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000502360)
 
 (1) Für die Rücknahme der Anmeldung von Ansprüchen oder
 Rechtsverhältnissen in das Verbandsklageregister stellt das Bundesamt
@@ -177,6 +182,7 @@ Verbandsklageregister.
 
 
 ## § 4a Austritt aus einem gerichtlichen Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE001000360)
 
 (1) Für den Austritt aus einem gerichtlichen Vergleich stellt das
 Bundesamt für Justiz Verbrauchern unentgeltlich ein Formular zur
@@ -195,6 +201,7 @@ Verbandsklageregister.
 
 
 ## § 5 Maschinell erstellter Ablehnungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000900125)
 
 Lehnt das Bundesamt für Justiz eine Eintragung mit einem vollständig
 maschinell erstellten Bescheid ab, so können die Unterschrift und die
@@ -204,6 +211,7 @@ maschinell erstellt worden ist.
 
 
 ## § 6 Auszug aus dem Verbandsklageregister
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000603360)
 
 (1) Das Bundesamt für Justiz übermittelt dem Gericht der Verbandsklage
 auf Anforderung einen elektronischen Auszug aus dem
@@ -222,6 +230,7 @@ an deren Prozessbevollmächtigten übermitteln.
 
 
 ## § 7 Technische Störungen des Klageregisters
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000702360)
 
 Macht der Verbraucher glaubhaft, dass seine Anmeldung oder seine
 Rücknahme der Anmeldung aufgrund einer vorübergehenden technischen
@@ -234,6 +243,7 @@ Verbandsklageregisters.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mfkregv/BJNR180400018.html#BJNR180400018BJNE000801125)
 
 Diese Verordnung tritt am 1. November 2018 in Kraft.
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000101305)
 
 
 
 ### § 1 Sachlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE001605119)
 
 (1) Den Vorschriften dieses Gesetzes unterliegt die entgeltliche oder
 geschäftsmäßige Beförderung von Personen mit Straßenbahnen, mit
@@ -73,12 +75,14 @@ nicht selbst Beförderer nach Absatz 1 Satz 1 sind.
 
 
 ### § 1a Klimaschutz und Nachhaltigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012400119)
 
 Bei Anwendung dieses Gesetzes sind die Ziele des Klimaschutzes und der
 Nachhaltigkeit zu berücksichtigen.
 
 
 ### § 2 Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE001705119)
 
 (1) Wer im Sinne des § 1 Abs. 1
 
@@ -174,6 +178,7 @@ entgegenstehen.
 
 
 ### § 3 Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE001802305)
 
 (1) Die Genehmigung wird dem Unternehmer für einen bestimmten Verkehr
 (§ 9) und für seine Person (natürliche oder juristische Person)
@@ -194,6 +199,7 @@ anzuwenden.
 
 
 ### § 3a Bereitstellung von Mobilitätsdaten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012003119)
 
 (1) Der Unternehmer und der Vermittler sind verpflichtet, die
 folgenden statischen und dynamischen Daten sowie die entsprechenden
@@ -283,6 +289,7 @@ sind einzuhalten.
 
 
 ### § 3b Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012100119)
 
 (1) Der Nationale Zugangspunkt ist befugt, die Daten nach § 3a Absatz
 1 zu erheben, zu speichern, zu verwenden und auf Anfrage nach Maßgabe
@@ -408,6 +415,7 @@ Verkehrsstatistikgesetzes erforderlich ist.
 
 
 ### § 3c Datenlöschung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012200119)
 
 (1) Der Nationale Zugangspunkt und Behörden nach § 8 Absatz 3 sowie §§
 11 und 29 haben personenbezogene Daten unverzüglich zu löschen, wenn
@@ -487,6 +495,7 @@ Jahr nach Erstellung der jeweiligen Statistik.
 
 
 ### § 4 Straßenbahnen, Obusse, Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE001903305)
 
 (1) Straßenbahnen sind Schienenbahnen, die
 
@@ -543,6 +552,7 @@ dem Fahrzeugschein als Krankenkraftwagen anerkannt sind.
 
 
 ### § 5 Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002003119)
 
 Genehmigungen, einstweilige Erlaubnisse und Bescheinigungen oder deren
 Widerruf nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes
@@ -553,6 +563,7 @@ Verwaltungsverfahrensgesetzes zu erteilen.
 
 
 ### § 6 Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002101305)
 
 Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch
 rechtsgeschäftliche oder firmenrechtliche Gestaltungen oder
@@ -561,6 +572,7 @@ geeignet sind, nicht berührt.
 
 
 ### § 7 Beförderung von Personen auf Lastkraftwagen und auf Anhängern hinter Lastkraftwagen und Zugmaschinen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002201305)
 
 (1) Zu einer Personenbeförderung, die nach diesem Gesetz
 genehmigungspflichtig ist, dürfen Lastkraftwagen sowie Anhänger jeder
@@ -571,6 +583,7 @@ werden.
 
 
 ### § 8 Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002309119)
 
 (1) Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die
 allgemein zugängliche Beförderung von Personen mit Straßenbahnen,
@@ -654,6 +667,7 @@ Anwendungsbereich der Verordnung (EG) Nr. 1370/2007 ausgenommen.
 
 
 ### § 8a Vergabe öffentlicher Dienstleistungsaufträge
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011101305)
 
 (1) Soweit eine ausreichende Verkehrsbedienung für eine Gesamtleistung
 nach § 8a Absatz 2 Satz 4 oder für eine Teilleistung nicht
@@ -732,6 +746,7 @@ beeinträchtigen, nicht ausgeschlossen werden.
 
 
 ### § 8b Wettbewerbliches Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011202119)
 
 (1) Ein wettbewerbliches Vergabeverfahren nach Artikel 5 Absatz 3 der
 Verordnung (EG) Nr. 1370/2007 muss die Anforderungen nach den Absätzen
@@ -784,10 +799,12 @@ Gesetzes gegen Wettbewerbsbeschränkungen gelten entsprechend.
 
 
 ## II. - Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000201305)
 
 
 
 ### § 9 Umfang der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002405119)
 
 (1) Die Genehmigung wird erteilt
 
@@ -830,6 +847,7 @@ mehrere Linien gebündelt erteilt werden.
 
 
 ### § 10 Entscheidung in Zweifelsfällen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002502305)
 
 Entstehen Zweifel darüber, ob eine Personenbeförderung den
 Vorschriften dieses Gesetzes unterliegt oder welcher Verkehrsart oder
@@ -839,6 +857,7 @@ zuständige, von der Landesregierung bestimmte Behörde.
 
 
 ### § 11 Genehmigungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002607119)
 
 (1) Die Genehmigung erteilt die von der Landesregierung bestimmte
 Behörde.
@@ -887,6 +906,7 @@ werden kann.
 
 
 ### § 12 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002704119)
 
 (1) Der Antrag auf Erteilung der Genehmigung soll enthalten
 
@@ -1060,6 +1080,7 @@ Genehmigungsbehörde kann auf Antrag die Frist verkürzen.
 
 
 ### § 13 Voraussetzung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002809119)
 
 (1) Die Genehmigung darf nur erteilt werden, wenn
 
@@ -1270,6 +1291,7 @@ die Absätze 2, 4 und 5 Satz 1, 2, 4 und 5 nicht anzuwenden.
 
 
 ### § 14 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE002906119)
 
 (1) Vor der Entscheidung über den Antrag auf Erteilung der Genehmigung
 für die Beförderung von Personen mit Straßenbahnen, Obussen oder mit
@@ -1333,6 +1355,7 @@ ist nicht anzuwenden.
 
 
 ### § 15 Erteilung und Versagung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003005305)
 
 (1) Die Entscheidung über den Antrag erfolgt schriftlich; sie ist den
 Antragstellern und, soweit diese Einwendungen erhoben haben, auch den
@@ -1371,6 +1394,7 @@ von der Erteilung der Genehmigung zu unterrichten.
 
 
 ### § 16 Geltungsdauer der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003106305)
 
 (1) Die Geltungsdauer der Genehmigung für Straßenbahn-und Obusverkehr
 beträgt höchstens 15 Jahre. Sie kann unter den Voraussetzungen des
@@ -1415,6 +1439,7 @@ Gelegenheitsverkehr mit Kraftfahrzeugen höchstens fünf Jahre.
 
 
 ### § 17 Genehmigungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003207119)
 
 (1) Die Genehmigungsurkunde muß enthalten:
 
@@ -1482,6 +1507,7 @@ zu erklären.
 
 
 ### § 18 Informationspflicht der Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003304119)
 
 (1) Die Genehmigungsbehörde hat ein Verzeichnis aller Genehmigungen,
 die im öffentlichen Personennahverkehr für den Verkehr mit
@@ -1512,6 +1538,7 @@ Absatz 6 Satz 1 besonders festzulegen.
 
 
 ### § 19 Tod des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003402305)
 
 (1) Nach dem Tode des Unternehmers kann der Erbe den Betrieb vorläufig
 weiterführen oder diese Befugnis auf einen Dritten übertragen; das
@@ -1546,6 +1573,7 @@ werden.
 
 
 ### § 20 Einstweilige Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003504119)
 
 (1) Wenn eine sofortige Einrichtung, Erweiterung oder wesentliche
 Änderung eines Straßenbahn-, Obusverkehrs oder Linienverkehrs mit
@@ -1589,9 +1617,11 @@ Erteilung einer Genehmigung. § 15 Abs. 3 und 5 gilt entsprechend.
 
 
 ### § 20a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003602305)
 
 
 ### § 21 Betriebspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003704305)
 
 (1) Der Unternehmer ist verpflichtet, den ihm genehmigten Betrieb
 aufzunehmen und während der Geltungsdauer der Genehmigung den
@@ -1638,6 +1668,7 @@ drei Monate nach Eingang der Anzeige bei der Genehmigungsbehörde.
 
 
 ### § 22 Beförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003802305)
 
 Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
@@ -1656,6 +1687,7 @@ Der Unternehmer ist zur Beförderung verpflichtet, wenn
 
 
 ### § 23 Haftung für Sachschäden
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE003904119)
 
 (1) Der Unternehmer kann die Haftung für Sachschäden gegenüber jeder
 beförderten Person nur insoweit ausschließen, als der Schaden 1 000
@@ -1675,9 +1707,11 @@ Mobilitätshilfen nicht zulässig.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004002305)
 
 
 ### § 25 Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004107305)
 
 (1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn
 
@@ -1733,6 +1767,7 @@ Satz 2 gilt entsprechend.
 
 
 ### § 25a Untersagung von Personenkraftverkehrsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010800308)
 
 Rechtfertigen Tatsachen die Annahme, dass beim Verkehr mit
 Kraftomnibussen der Unternehmer oder der Verkehrsleiter die
@@ -1752,6 +1787,7 @@ wenn hierfür besondere Gründe vorliegen.
 
 
 ### § 26 Erlöschen der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004202305)
 
 Die Genehmigung erlischt
 
@@ -1777,6 +1813,7 @@ Die Genehmigung erlischt
 
 
 ### § 27 Zwangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004302305)
 
 Das Verwaltungszwangsverfahren richtet sich, soweit dieses Gesetz von
 Behörden der Länder ausgeführt wird, nach den landesrechtlichen
@@ -1784,14 +1821,17 @@ Vorschriften.
 
 
 ## III. - Sonderbestimmungen für die einzelnen Verkehrsarten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000301305)
 
 
 
 ### A. - Straßenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000401305)
 
 
 
 #### § 28 Planfeststellung und vorläufige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004409119)
 
 (1) Betriebsanlagen für Straßenbahnen dürfen nur gebaut oder geändert
 werden, wenn der Plan vorher festgestellt ist. Bei der
@@ -1920,6 +1960,7 @@ Recht oder die anerkannten Regeln der Technik.
 
 
 #### § 28a Veränderungssperre, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010300314)
 
 (1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den
 Plan einzusehen, dürfen auf den vom Plan betroffenen Flächen bis zu
@@ -1941,6 +1982,7 @@ betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 #### § 28b Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011701119)
 
 Die Anhörungsbehörde kann einen Dritten mit der Vorbereitung und
 Durchführung von Verfahrensschritten, insbesondere
@@ -1975,6 +2017,7 @@ verbleibt bei der zuständigen Behörde.
 
 
 #### § 28c Veröffentlichung im Internet
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011801119)
 
 Wird der Plan nicht nach § 27a Absatz 1 des
 Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die
@@ -1987,6 +2030,7 @@ der Zugänglichmachung hinzuweisen.
 
 
 #### § 29 Planfeststellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004510119)
 
 (1) Planfeststellungsbehörde ist die Genehmigungsbehörde nach § 11.
 Diese stellt den Plan nach § 28 Absatz 1 fest, erteilt die
@@ -2103,6 +2147,7 @@ Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
 
 
 #### § 29a Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010401119)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für den Bau oder die
@@ -2171,6 +2216,7 @@ Unterhaltungsmaßnahmen die Enteignungsbehörde.
 
 
 #### § 30 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004605119)
 
 (1) Die Enteignung ist zulässig, soweit sie zur Ausführung eines nach
 den §§ 28, 29 festgestellten oder genehmigten Bauvorhabens oder für
@@ -2185,6 +2231,7 @@ oder festgestellten Plan getroffen ist.
 
 
 #### § 30a Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011301126)
 
 Soweit der Unternehmer nach § 28 Absatz 3a oder auf Grund eines
 Planfeststellungsbeschlusses oder einer Plangenehmigung verpflichtet
@@ -2197,6 +2244,7 @@ entsprechend.
 
 
 #### § 31 Benutzung öffentlicher Straßen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004704119)
 
 (1) Der Unternehmer hat die Zustimmung des Trägers der Straßenbaulast
 beizubringen, wenn
@@ -2236,6 +2284,7 @@ Planfeststellungsbeschluß oder in der Plangenehmigung hinzuweisen.
 
 
 #### § 32 Duldungspflichten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004802305)
 
 (1) Eigentümer oder sonstige Nutzungsberechtigte haben
 
@@ -2277,10 +2326,12 @@ ordentliche Rechtsweg gegeben.
 
 
 #### (XXXX) §§ 33 bis 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE004902305)
 
 
 
 #### § 36 Bau- und Unterhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005202305)
 
 (1) Der Unternehmer ist verpflichtet, die ihm genehmigten
 Betriebsanlagen für Straßenbahnen zu bauen und während der
@@ -2292,6 +2343,7 @@ innerhalb derer die Betriebsanlagen zu bauen sind.
 
 
 #### § 36a Besondere Pflichten im Interesse der Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011901119)
 
 (1) Soweit es zur Unterhaltung einer Betriebsanlage für Straßenbahnen
 erforderlich ist, haben Eigentümer und sonstige Nutzungsberechtigte zu
@@ -2312,6 +2364,7 @@ ist Rücksicht zu nehmen.
 
 
 #### § 37 Aufnahme des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005302305)
 
 Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt
 die Genehmigungsbehörde im Einvernehmen mit der für die technische
@@ -2319,9 +2372,11 @@ Aufsicht zuständigen Behörde.
 
 
 #### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005402305)
 
 
 #### § 39 Beförderungsentgelte und -bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005508119)
 
 (1) Beförderungsentgelte und deren Änderung bedürfen der Zustimmung
 der Genehmigungsbehörde. Mit der Zustimmung sind die
@@ -2376,6 +2431,7 @@ Aufenthalt der Fahrgäste bestimmten Räumen auszuhängen.
 
 
 #### § 40 Fahrpläne
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005605119)
 
 (1) Der Fahrplan muß die Führung der Linie, ihren Ausgangs- und
 Endpunkt sowie die Haltestellen und Fahrzeiten enthalten.
@@ -2420,10 +2476,12 @@ Haltestellen sind mindestens die Abfahrtszeiten anzuzeigen.
 
 
 ### B. - Verkehr mit Obussen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000501305)
 
 
 
 #### § 41 Entsprechend anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005704119)
 
 (1) Die Vorschriften der §§ 28 bis 30a und der §§ 32 bis 37 sind auf
 die Errichtung von Bau- und Betriebsanlagen für den Obusverkehr
@@ -2438,10 +2496,12 @@ Straßenbaulast; § 31 Abs. 1, 2, 4 bis 6 ist entsprechend anzuwenden.
 
 
 ### C. - Linienverkehr mit Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000601305)
 
 
 
 #### § 42 Begriffsbestimmung Linienverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005801305)
 
 Linienverkehr ist eine zwischen bestimmten Ausgangs- und Endpunkten
 eingerichtete regelmäßige Verkehrsverbindung, auf der Fahrgäste an
@@ -2451,6 +2511,7 @@ besteht oder Zwischenhaltestellen eingerichtet sind.
 
 
 #### § 42a Personenfernverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011501119)
 
 Personenfernverkehr ist der Linienverkehr mit Kraftfahrzeugen, der
 nicht zum öffentlichen Personennahverkehr im Sinne des § 8 Absatz 1
@@ -2481,6 +2542,7 @@ zu gewähren, wenn
 
 
 #### § 42b Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011401119)
 
 Im innerdeutschen Personenfernverkehr dürfen nur Kraftomnibusse
 eingesetzt werden, die
@@ -2515,6 +2577,7 @@ eingesetzt werden, die
 
 
 #### § 43 Sonderformen des Linienverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE005901305)
 
 Als Linienverkehr gilt, unabhängig davon, wer den Ablauf der Fahrten
 bestimmt, auch der Verkehr, der unter Ausschluß anderer Fahrgäste der
@@ -2539,6 +2602,7 @@ wird.
 
 
 #### § 44 Linienbedarfsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006003119)
 
 Als Linienverkehr gemäß § 42, der öffentlicher Personennahverkehr
 gemäß § 8 Absatz 1 ist, gilt auch der Verkehr, der der Beförderung von
@@ -2554,6 +2618,7 @@ erhoben werden.
 
 
 #### § 45 Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006104119)
 
 (1) Auf den Linienverkehr mit Kraftfahrzeugen ist § 32, soweit diese
 Vorschrift sich auf das Anbringen oder Errichten von
@@ -2590,10 +2655,12 @@ Rechnung getragen wird.
 
 
 ### D. - Ausgleichszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000701305)
 
 
 
 #### § 45a Ausgleichspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006206308)
 
 (1) Im Verkehr mit Straßenbahnen und Obussen sowie im Linienverkehr
 mit Kraftfahrzeugen nach den §§ 42 und 43 Nr. 2 ist dem Unternehmer
@@ -2652,10 +2719,12 @@ der Befolgung der Auflagen errechnet hätte.
 
 
 ### E. - Gelegenheitsverkehr mit Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000802308)
 
 
 
 #### § 46 Formen des Gelegenheitsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006304119)
 
 (1) Gelegenheitsverkehr ist die Beförderung von Personen mit
 Kraftfahrzeugen, die nicht Linienverkehr nach den §§ 42, 42a, 43 und
@@ -2685,6 +2754,7 @@ erteilt werden.
 
 
 #### § 47 Verkehr mit Taxen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006406119)
 
 (1) Verkehr mit Taxen ist die Beförderung von Personen mit
 Personenkraftwagen, die der Unternehmer an behördlich zugelassenen
@@ -2733,6 +2803,7 @@ festgesetzten Beförderungsentgelte (Pflichtfahrbereich).
 
 
 #### § 48 Ausflugsfahrten und Ferienziel-Reisen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006504305)
 
 (1) Ausflugsfahrten sind Fahrten, die der Unternehmer mit
 Kraftomnibussen oder Personenkraftwagen nach einem bestimmten, von ihm
@@ -2761,6 +2832,7 @@ befördert werden, die der Unternehmer zum Reiseziel gebracht hat.
 
 
 #### § 49 Verkehr mit Mietomnibussen und mit Mietwagen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006603119)
 
 (1) Verkehr mit Mietomnibussen ist die Beförderung von Personen mit
 Kraftomnibussen, die nur im ganzen zur Beförderung angemietet werden
@@ -2824,6 +2896,7 @@ insbesondere Regelungen treffen über
 
 
 #### § 50 Gebündelter Bedarfsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006703119)
 
 (1) Gebündelter Bedarfsverkehr ist die Beförderung von Personen mit
 Personenkraftwagen, bei der mehrere Beförderungsaufträge entlang
@@ -2898,6 +2971,7 @@ Bedarfsverkehr festlegen.
 
 
 #### § 51 Beförderungsentgelte und -bedingungen im Taxenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006804119)
 
 (1) Die Landesregierung wird ermächtigt, durch Rechtsverordnung
 Beförderungsentgelte und -bedingungen für den Taxenverkehr
@@ -2963,6 +3037,7 @@ einheitliche Beförderungsentgelte und -bedingungen vereinbaren.
 
 
 #### § 51a Beförderungsentgelte im Verkehr mit Mietwagen und im gebündelten Bedarfsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008904119)
 
 (1) Die Genehmigungsbehörde kann zum Schutz der öffentlichen
 Verkehrsinteressen für den Verkehr mit Mietwagen, der in ihrem Bezirk
@@ -2999,10 +3074,12 @@ Höchstbeförderungsentgelte nicht überschritten werden dürfen.
 
 
 ## IV. - Auslandsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG000901305)
 
 
 
 ### § 52 Grenzüberschreitender Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE006911305)
 
 (1) Für die Beförderung von Personen im grenzüberschreitenden Verkehr
 mit Kraftfahrzeugen durch Unternehmer, die ihren Betriebssitz im
@@ -3057,6 +3134,7 @@ in oder durch die Bundesrepublik Deutschland ausschließen.
 
 
 ### § 53 Transit-(Durchgangs-)Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007009119)
 
 (1) Für die Beförderung von Personen im Transit-(Durchgangs-)Verkehr
 mit Kraftfahrzeugen, der das Gebiet des Geltungsbereichs dieses
@@ -3091,10 +3169,12 @@ Einfahrt stattfindet. § 52 Abs. 4 gilt entsprechend.
 
 
 ## V. - Aufsicht, Prüfungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001001305)
 
 
 
 ### § 54 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007104308)
 
 (1) Der Unternehmer unterliegt hinsichtlich der Erfüllung der
 Vorschriften dieses Gesetzes sowie der hierzu erlassenen
@@ -3132,6 +3212,7 @@ Abs. 7 und § 40 Abs. 4 genügt werden kann.
 
 
 ### § 54a Prüfungsbefugnisse der Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007202305)
 
 (1) Die Genehmigungsbehörde kann zur Durchführung der Aufsicht und zur
 Vorbereitung ihrer Entscheidungen durch Beauftragte die erforderlichen
@@ -3162,6 +3243,7 @@ nach § 45a Abs. 2 zur Festlegung der Kostensätze befugte Behörde.
 
 
 ### § 54b Risikoeinstufung
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010900308)
 
 Die Aufsichtsbehörden führen ein Risikoeinstufungssystem im Sinne des
 Artikels 12 Absatz 1 Satz 3 der Verordnung (EG) Nr. 1071/2009 ein.
@@ -3172,6 +3254,7 @@ Verordnung (EG) Nr. 1071/2009 konkretisiert wird.
 
 
 ### § 54c Verkehrsunternehmensdatei
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011000308)
 
 In der Verkehrsunternehmensdatei nach § 15 des
 Güterkraftverkehrsgesetzes werden alle im Inland niedergelassenen
@@ -3180,10 +3263,12 @@ Personenverkehrs mit Kraftomnibussen geführt.
 
 
 ## VI. - Rechtsbehelfsverfahren und Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001102305)
 
 
 
 ### § 55 Vorverfahren bei der Anfechtung von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007307126)
 
 Eines Vorverfahrens bedarf es auch, wenn ein Verwaltungsakt
 angefochten wird, den eine oberste Landesverkehrsbehörde oder das
@@ -3192,6 +3277,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur erlassen hat.
 
 
 ### § 56 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007404305)
 
 Für die Amtshandlungen nach diesem Gesetz und den auf diesem Gesetz
 beruhenden Rechtsvorschriften sowie nach Verordnungen oder
@@ -3206,10 +3292,12 @@ August 2013 geltenden Fassung Anwendung.
 
 
 ## VII. - Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001202305)
 
 
 
 ### § 57 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007515119)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 erläßt mit Zustimmung des Bundesrates durch Rechtsverordnung die zur
@@ -3370,6 +3458,7 @@ Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
 
 
 ### § 58 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007806308)
 
 Die zur Durchführung dieses Gesetzes erforderlichen Allgemeinen
 Verwaltungsvorschriften erläßt die Bundesregierung mit Zustimmung des
@@ -3377,16 +3466,20 @@ Bundesrates.
 
 
 ### (XXXX) §§ 59 und 59a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE007902305)
 
 
 ## VIII. - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001301305)
 
 
 
 ### (XXXX) §§ 60 und 60a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008101305)
 
 
 ### § 61 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008310119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3497,10 +3590,12 @@ dieses Gesetzes begangen wird.
 
 
 ## IX. - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNG001401305)
 
 
 
 ### § 62 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010701305)
 
 (1) Öffentliche Dienstleistungsaufträge im Sinne von Artikel 3 Absatz
 1 der Verordnung (EG) Nr. 1370/2007 dürfen bis zum 31. Dezember 2013
@@ -3524,6 +3619,7 @@ für alle Kraftomnibusse.
 
 
 ### § 63 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008404305)
 
 Von folgenden Regelungen des Verwaltungsverfahrens kann durch
 Landesrecht nicht abgewichen werden:
@@ -3548,6 +3644,7 @@ Landesrecht nicht abgewichen werden:
 
 
 ### § 64 Andere Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008603123)
 
 (1) Durch dieses Gesetz werden die Vorschriften
 
@@ -3586,6 +3683,7 @@ Genehmigungsbehörde trifft.
 
 
 ### § 64a Ersetzung bundesrechtlicher Vorschriften durch Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE010600308)
 
 Die Länder können mit Wirkung ab dem 1. Januar 2007 § 45a und § 57
 Abs. 1 Nr. 9 sowie die Vorschriften, zu deren Erlass § 57 Abs. 1 Nr. 9
@@ -3593,6 +3691,7 @@ ermächtigt, durch Landesrecht ersetzen.
 
 
 ### § 64b Landesrecht im Bereich des Gelegenheitsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE011601119)
 
 Dieses Gesetz oder auf Grundlage dieses Gesetzes erlassene
 Rechtsverordnungen steht oder stehen Vorschriften der Länder nicht
@@ -3602,6 +3701,7 @@ Fahrzeugemissionen regeln.
 
 
 ### § 64c Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE012300119)
 
 (1) Beim Verkehr mit Taxen und beim gebündelten Bedarfsverkehr sollen
 die Aufgabenträger die Belange der in ihrer Mobilität oder sensorisch
@@ -3629,6 +3729,7 @@ unumgänglich ist.
 
 
 ### § 65 Ausnahmen für Straßenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008705119)
 
 Vorschriften, mit denen nachfolgende Richtlinien umgesetzt werden,
 gelten nicht für Straßenbahnen im Sinne von § 4 Absatz 1 und 2:
@@ -3665,6 +3766,7 @@ gelten nicht für Straßenbahnen im Sinne von § 4 Absatz 1 und 2:
 
 
 ### § 66 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pbefg/BJNR002410961.html#BJNR002410961BJNE008806119)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur legt
 mit Ablauf von fünf Jahren nach Inkrafttreten des Gesetzes zur

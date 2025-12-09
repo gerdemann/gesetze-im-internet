@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eulraum_bkg/BJNR206180984.html#BJNR206180984BJNE000100319)
 
 Dem in Bern am 19. September 1979 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Erhaltung der europäischen
@@ -29,6 +30,7 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eulraum_bkg/BJNR206180984.html#BJNR206180984BJNE000204119)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens
@@ -38,6 +40,7 @@ Bundesrates in Kraft zu setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eulraum_bkg/BJNR206180984.html#BJNR206180984BJNE000301307)
 
 (1) Es ist verboten, in Gebieten, die keiner Staatshoheit unterliegen,
 insbesondere von einem Schiff oder Luftfahrzeug aus, das berechtigt
@@ -91,6 +94,7 @@ b)  Tiere fangen, halten, töten oder beunruhigen, deren Brut- oder
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eulraum_bkg/BJNR206180984.html#BJNR206180984BJNE000402377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 3 Abs. 1 in Gebieten, die keiner Staatshoheit unterliegen,
@@ -110,6 +114,7 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eulraum_bkg/BJNR206180984.html#BJNR206180984BJNE000501307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

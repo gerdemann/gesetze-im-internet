@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000200000)
 
 (1) Dieses Gesetz gilt für die Errichtung, die Änderung und den
 Betrieb überwachungsbedürftiger Anlagen. Es dient dazu, beim Betrieb
@@ -47,6 +49,7 @@ anzuwenden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000300000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -84,9 +87,11 @@ Im Sinne dieses Gesetzes sind
 
 
 ## Abschnitt 2 - Pflichten der Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000200000)
 
 
 ### § 3 Grundlegende Anforderungen an überwachungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000400000)
 
 (1) Der Betreiber hat dafür zu sorgen, dass die
 überwachungsbedürftigen Anlagen so errichtet, geändert und betrieben
@@ -117,6 +122,7 @@ entsprechen.
 
 
 ### § 4 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000500000)
 
 Der Betreiber hat, vorbehaltlich einer abweichenden Regelung in einer
 auf Grund des § 31 erlassenen Rechtsverordnung, die Gefährdungen, die
@@ -127,6 +133,7 @@ Gefährdungsbeurteilung ist zu dokumentieren.
 
 
 ### § 5 Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000600000)
 
 (1) Der Betreiber hat die für den sicheren Betrieb einer
 überwachungsbedürftigen Anlage notwendigen und geeigneten
@@ -149,6 +156,7 @@ Zustand gehalten werden.
 
 
 ### § 6 Zusammenarbeit mit anderen Betreibern überwachungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000700000)
 
 Der Betreiber einer überwachungsbedürftigen Anlage ist verpflichtet,
 mit Betreibern anderer überwachungsbedürftiger Anlagen, die in einem
@@ -159,6 +167,7 @@ führen können.
 
 
 ### § 7 Prüfungen von überwachungsbedürftigen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000800000)
 
 (1) Der Betreiber einer überwachungsbedürftigen Anlage hat
 sicherzustellen, dass die Anlage auf ihren sicheren und
@@ -240,6 +249,7 @@ genannte Bundesministerium bestimmen, wer die Prüfungen vornimmt:
 
 
 ### § 8 Betriebsverbot
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE000900000)
 
 Der Betreiber darf eine überwachungsbedürftige Anlage nicht betreiben,
 wenn sie Mängel aufweist, die die Sicherheit und Gesundheit
@@ -249,9 +259,11 @@ entsprechende Mängel festgestellt wurden.
 
 
 ## Abschnitt 3 - Aufgaben und Pflichten der zugelassenen Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000300000)
 
 
 ### § 9 Durchführung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001000000)
 
 (1) Die zugelassene Überwachungsstelle hat die Prüfungen der
 überwachungsbedürftigen Anlagen mit der größtmöglichen
@@ -271,6 +283,7 @@ durchzuführen.
 
 
 ### § 10 Feststellung von Mängeln, Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001100000)
 
 (1) Wenn die zugelassene Überwachungsstelle bei der Prüfung einer
 überwachungsbedürftigen Anlage einen Mangel festgestellt hat, durch
@@ -315,6 +328,7 @@ wurde.
 
 
 ### § 11 Anlagenkataster
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001200000)
 
 (1) Die Länder richten zur Erfassung der überwachungsbedürftigen
 Anlagen, die ihrer Aufsicht unterliegen, eine Datei führenden Stelle
@@ -359,6 +373,7 @@ durchgeführt werden.
 
 
 ### § 12 Wahrung von Betriebsgeheimnissen, Schutz personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001300000)
 
 (1) Die zugelassene Überwachungsstelle muss gewährleisten, dass
 Tatsachen oder Betriebs- und Geschäftsgeheimnisse, die ihr, ihrer
@@ -372,6 +387,7 @@ Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
 
 ### § 13 Erfahrungsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001400000)
 
 Die zugelassene Überwachungsstelle muss Erkenntnisse, die sie bei
 ihren Tätigkeiten gewonnen hat, sammeln und auswerten und diese
@@ -389,6 +405,7 @@ Erkenntnisse regelmäßig austauschen mit
 
 
 ### § 14 Mitteilungspflichten gegenüber der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001500000)
 
 Die zugelassene Überwachungsstelle muss der Zulassungsbehörde
 Änderungen, die für die Erteilung der Zulassung gemäß § 19 Absatz 1
@@ -412,12 +429,15 @@ mitteilen. Dies betrifft insbesondere
 
 
 ## Abschnitt 4 - Zulassung von Prüfstellen als zugelassene Überwachungsstellen, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000400000)
 
 
 ### Unterabschnitt 1 - Anforderungen an Prüfstellen für die Zulassung als zugelassene Überwachungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000500000)
 
 
 #### § 15 Grundlegende Anforderungen an Prüfstellen für die Zulassung als zugelassene Überwachungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001600000)
 
 Als Voraussetzung für die Zulassung als zugelassene Überwachungsstelle
 muss eine Prüfstelle
@@ -455,6 +475,7 @@ muss eine Prüfstelle
 
 
 #### § 16 Unabhängigkeit und Unparteilichkeit von zugelassenen Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001700000)
 
 (1) Die zugelassene Überwachungsstelle, ihre Leitung und die mit der
 Durchführung der Aufgaben beauftragten Personen müssen unabhängig und
@@ -480,6 +501,7 @@ deren Ergebnissen richten.
 
 
 #### § 17 Anforderungen an die mit Prüfungen von überwachungsbedürftigen Anlagen beauftragten Personen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001800000)
 
 Die zugelassene Überwachungsstelle muss gewährleisten, dass die mit
 Prüfungen von überwachungsbedürftigen Anlagen beauftragten Personen
@@ -516,9 +538,11 @@ Prüfungen von überwachungsbedürftigen Anlagen beauftragten Personen
 
 
 ### Unterabschnitt 2 - Einrichtung, Aufgaben und Befugnisse der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000600000)
 
 
 #### § 18 Einrichtung der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE001900000)
 
 (1) Die Länder haben die Zulassungsbehörde so einzurichten, dass es zu
 keinerlei Interessenkonflikten mit einer zugelassenen
@@ -538,6 +562,7 @@ betraut werden.
 
 
 #### § 19 Zulassung von Prüfstellen als zugelassene Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002000000)
 
 (1) Die Zulassungsbehörde kann eine Prüfstelle auf schriftlichen oder
 elektronischen Antrag für die Prüfung von überwachungsbedürftigen
@@ -575,6 +600,7 @@ Erteilung einer Zulassung regeln.
 
 
 #### § 20 Zulassung von Prüfstellen von Unternehmen als zugelassene Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002100000)
 
 (1) Wenn es sicherheitstechnisch angezeigt und in einer
 Rechtsverordnung nach § 31 vorgesehen ist, können als zugelassene
@@ -618,6 +644,7 @@ Prüfstellen nach Absatz 1 Satz 1 die folgenden Anforderungen erfüllen:
 
 
 #### § 21 Aufsicht über die zugelassenen Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002200000)
 
 Die Zulassungsbehörde beaufsichtigt, ob die zugelassenen
 Überwachungsstellen die in den §§ 9 bis 17 und § 20 sowie die in einer
@@ -640,6 +667,7 @@ zugelassenen Überwachungsstelle die notwendigen Anordnungen treffen
 
 
 #### § 22 Befugnisse der Zulassungsbehörde gegenüber zugelassenen Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002300000)
 
 Die Zulassungsbehörde kann
 
@@ -658,6 +686,7 @@ Die Zulassungsbehörde kann
 
 
 #### § 23 Befugnisse der Zulassungsbehörde gegenüber Betreibern überwachungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002400000)
 
 (1) Die Zulassungsbehörde kann vom Betreiber einer
 überwachungsbedürftigen Anlage die erforderlichen Auskünfte,
@@ -682,6 +711,7 @@ Prüfung dieser zugelassenen Überwachungsstelle auferlegen.
 
 
 #### § 24 Duldung des Aufsichtshandelns der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002500000)
 
 Die von den Maßnahmen nach den §§ 22 und 23 Betroffenen haben die
 Maßnahmen zu dulden. Sie können die Auskunft auf Fragen verweigern,
@@ -694,6 +724,7 @@ belehren.
 
 
 #### § 25 Übermittlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002600000)
 
 Die Zulassungsbehörde übermittelt der Aufsichtsbehörde gemäß § 26 auf
 Anforderung die Informationen, die für deren Aufgabenerfüllung
@@ -701,9 +732,11 @@ erforderlich sind.
 
 
 ## Abschnitt 5 - Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000700000)
 
 
 ### § 26 Zuständigkeit für die Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002700000)
 
 (1) Die zuständigen Behörden der Länder haben die Einhaltung dieses
 Gesetzes und der auf Grund dieses Gesetzes erlassenen
@@ -718,6 +751,7 @@ bleiben unberührt.
 
 
 ### § 27 Befugnisse gegenüber den Betreibern überwachungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002800000)
 
 (1) Die zuständige Behörde kann vom Betreiber die für die Aufsicht
 erforderlichen Auskünfte und die Überlassung von entsprechenden
@@ -787,6 +821,7 @@ Anlage nicht in einem angemessenen Zeitraum ermittelt werden kann.
 
 
 ### § 28 Befugnisse gegenüber zugelassenen Überwachungsstellen, Unterrichtungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE002900000)
 
 (1) Die zuständige Behörde kann
 
@@ -814,6 +849,7 @@ gemäß Artikel 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 
 ### § 29 Betriebs- und Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE003000000)
 
 Die zuständige Behörde darf die ihr bei ihrer Aufsichtstätigkeit zur
 Kenntnis gelangenden Betriebs- und Geschäftsgeheimnisse von Betreibern
@@ -827,6 +863,7 @@ Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
 
 ### § 30 Information der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE003100000)
 
 Verfügt die zuständige Behörde über Erkenntnisse, dass eine
 zugelassene Überwachungsstelle ihre Aufgaben nicht ordnungsgemäß
@@ -834,9 +871,11 @@ durchgeführt hat, informiert sie die Zulassungsbehörde.
 
 
 ## Abschnitt 6 - Verordnungsermächtigungen, Bußgeld- und Strafvorschriften, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNG000800000)
 
 
 ### § 31 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE003200000)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
@@ -909,6 +948,7 @@ Folgendes bestimmt werden:
 
 
 ### § 32 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE003300000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -998,6 +1038,7 @@ zu zehntausend Euro geahndet werden.
 
 
 ### § 33 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE003400000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 32 Absatz 1 Nummer 4, 5, 8, 12 Buchstabe b
@@ -1008,6 +1049,7 @@ Wert gefährdet.
 
 
 ### § 34 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_anlg/BJNR316200021.html#BJNR316200021BJNE003500000)
 
 (1) Bis zur Bestimmung eines Katalogs überwachungsbedürftiger Anlagen
 in einer Rechtsverordnung gemäß § 31 Satz 2 Nummer 1 gelten die in § 2

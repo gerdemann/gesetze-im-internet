@@ -26,10 +26,12 @@ Mittelbare änderung durch
 
 
 ## Erster Abschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000103377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001303377)
 
 Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für
 das Tier als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen.
@@ -38,10 +40,12 @@ Schäden zufügen.
 
 
 ## Zweiter Abschnitt - Tierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000203377)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001404377)
 
 Wer ein Tier hält, betreut oder zu betreuen hat,
 
@@ -63,6 +67,7 @@ Wer ein Tier hält, betreut oder zu betreuen hat,
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001512360)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
@@ -196,6 +201,7 @@ bedürfen Rechtsverordnungen
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001605360)
 
 Es ist verboten,
 
@@ -311,10 +317,12 @@ sicherstellen können.
 
 
 ## Dritter Abschnitt - Töten von Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000303377)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001707360)
 
 (1) Ein Wirbeltier darf nur unter wirksamer Schmerzausschaltung
 (Betäubung) in einem Zustand der Wahrnehmungs- und
@@ -366,6 +374,7 @@ soweit
 
 
 ### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001805360)
 
 (1) Ein warmblütiges Tier darf nur geschlachtet werden, wenn es vor
 Beginn des Blutentzugs zum Zweck des Schlachtens betäubt worden ist.
@@ -392,6 +401,7 @@ Beginn des Blutentzugs zum Zweck des Schlachtens betäubt worden ist.
 
 
 ### § 4b
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE001910119)
 
 Das Bundesministerium wird ermächtigt, für die Zwecke der §§ 4 und 4a
 durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -454,6 +464,7 @@ Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe b und d bedürfen,
 
 
 ### § 4c
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006702119)
 
 (1) Es ist verboten, Küken von Haushühnern der Art Gallus gallus zu
 töten.
@@ -513,10 +524,12 @@ Anwendung eines Verfahrens zur Geschlechtsbestimmung im Hühnerei
 
 
 ## Vierter Abschnitt - Eingriffe an Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000403377)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002007119)
 
 (1) An einem Wirbeltier darf ohne Betäubung ein mit Schmerzen
 verbundener Eingriff nicht vorgenommen werden. Die Betäubung
@@ -629,6 +642,7 @@ Zustimmung des Bundesrates
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002109119)
 
 (1) Verboten ist das vollständige oder teilweise Amputieren von
 Körperteilen oder das vollständige oder teilweise Entnehmen oder
@@ -819,16 +833,19 @@ insbesondere
 
 
 ### § 6a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002205360)
 
 Die Vorschriften dieses Abschnittes gelten nicht für Tierversuche nach
 § 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2.
 
 
 ## Fünfter Abschnitt - Tierversuche
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000503377)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006301119)
 
 (1) Die Vorschriften dieses Abschnitts dienen dem Schutz von Tieren,
 die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe
@@ -952,6 +969,7 @@ Anforderungen nach Absatz 1 Satz 2 Nummer 2 zu regeln.
 
 
 ### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002309119)
 
 (1) Tierversuche dürfen nur durchgeführt werden, soweit sie zu einem
 der folgenden Zwecke unerlässlich sind:
@@ -1108,6 +1126,7 @@ Europäischen Union erforderlich ist.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002407119)
 
 (1) Wer Versuche an Wirbeltieren oder Kopffüßern durchführen will,
 bedarf der Genehmigung des Versuchsvorhabens durch die zuständige
@@ -1295,6 +1314,7 @@ Rechtsverordnung kann auch vorgesehen werden, dass
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002506119)
 
 (1) Die Erteilung der Genehmigung erfolgt in einem vereinfachten
 Genehmigungsverfahren, wenn es sich bei dem Versuchsvorhaben nach § 8
@@ -1429,6 +1449,7 @@ Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002708119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit
@@ -1557,10 +1578,12 @@ Verpflichtung nach Satz 1 zu regeln.
 
 
 ## Sechster Abschnitt - Tierschutzbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000604360)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE002906119)
 
 (1) Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopffüßer,
 
@@ -1638,10 +1661,12 @@ zu erlassen. Dabei kann das Bundesministerium
 
 
 ## Siebenter Abschnitt - Zucht, Halten von Tieren, Handel mit Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000705360)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003010119)
 
 (1) Wer
 
@@ -1841,6 +1866,7 @@ Merkmale (Tierschutzindikatoren) zu erheben und zu bewerten.
 
 
 ### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003107119)
 
 (1) Wer
 
@@ -1958,6 +1984,7 @@ verbieten oder zu beschränken.
 
 
 ### § 11b
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003207360)
 
 (1) Es ist verboten, Wirbeltiere zu züchten oder durch biotechnische
 Maßnahmen zu verändern, soweit im Falle der Züchtung züchterische
@@ -2016,6 +2043,7 @@ Zustimmung des Bundesrates
 
 
 ### § 11c
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003304377)
 
 Ohne Einwilligung der Erziehungsberechtigten dürfen Wirbeltiere an
 Kinder oder Jugendliche bis zum vollendeten 16. Lebensjahr nicht
@@ -2023,10 +2051,12 @@ abgegeben werden.
 
 
 ## Achter Abschnitt - Verbringungs-, Verkehrs- und Haltungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000805360)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003410118)
 
 (1) Wirbeltiere, an denen Schäden feststellbar sind, von denen
 anzunehmen ist, dass sie durch tierschutzwidrige Handlungen verursacht
@@ -2084,10 +2114,12 @@ entgegenstehen.
 
 
 ## Neunter Abschnnitt - Sonstige Bestimmungen zum Schutz der Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG000905360)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003511119)
 
 (1) Es ist verboten, zum Fangen, Fernhalten oder Verscheuchen von
 Wirbeltieren Vorrichtungen oder Stoffe anzuwenden, wenn damit die
@@ -2123,6 +2155,7 @@ geregelt werden.
 
 
 ### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005905360)
 
 (1) Das Bundesministerium wird ermächtigt, zur Verbesserung des
 Tierschutzes durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2236,6 +2269,7 @@ in ein Drittland.
 
 
 ### § 13b
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006400360)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zum
 Schutz freilebender Katzen bestimmte Gebiete festzulegen, in denen
@@ -2272,10 +2306,12 @@ ihre Ermächtigung durch Rechtsverordnung auf andere Behörden
 
 
 ## Zehnter Abschnitt - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG001005360)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003605377)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Einfuhr und Ausfuhr von
@@ -2308,6 +2344,7 @@ Besichtigungen vorsehen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003707119)
 
 (1) Die Durchführung dieses Gesetzes, der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte
@@ -2400,6 +2437,7 @@ Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
 
 ### § 15a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003805360)
 
 Das Bundesinstitut für Risikobewertung nimmt die Aufgaben nach Artikel
 49 der Richtlinie 2010/63/EU wahr. Das Bundesministerium wird
@@ -2413,6 +2451,7 @@ Rechtsakten der Europäischen Union erforderlich ist, zu regeln.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE003914119)
 
 (1) Der Aufsicht durch die zuständige Behörde unterliegen
 
@@ -2701,6 +2740,7 @@ sind.
 
 
 ### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004007119)
 
 (1) Die zuständige Behörde trifft die zur Beseitigung festgestellter
 Verstöße und die zur Verhütung künftiger Verstöße notwendigen
@@ -2779,6 +2819,7 @@ sicherzustellen, dass
 
 
 ### § 16b
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004104377)
 
 (1) Das Bundesministerium beruft eine Tierschutzkommission zu seiner
 Unterstützung in Fragen des Tierschutzes. Vor dem Erlass von
@@ -2792,6 +2833,7 @@ zu regeln.
 
 
 ### § 16c
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006004119)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -2838,6 +2880,7 @@ Zustimmung des Bundesrates
 
 
 ### § 16d
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004204377)
 
 Das Bundesministerium erlässt mit Zustimmung des Bundesrates die
 allgemeinen Verwaltungsvorschriften, die zur Durchführung dieses
@@ -2846,12 +2889,14 @@ Rechtsverordnungen erforderlich sind.
 
 
 ### § 16e
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004305377)
 
 Die Bundesregierung erstattet dem Deutschen Bundestag alle vier Jahre
 einen Bericht über den Stand der Entwicklung des Tierschutzes.
 
 
 ### § 16f
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005406377)
 
 (1) Die zuständigen Behörden
 
@@ -2884,6 +2929,7 @@ mitteilen.
 
 
 ### § 16g
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005507360)
 
 (1) Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten
 und der Europäischen Kommission obliegt dem Bundesministerium. Es kann
@@ -2903,6 +2949,7 @@ im Einzelfall nicht etwas anderes vorbehält.
 
 
 ### § 16h
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005703377)
 
 Die §§ 16f und 16g gelten entsprechend für Staaten, die - ohne
 Mitgliedstaaten zu sein - Vertragsstaaten des Abkommens über den
@@ -2910,6 +2957,7 @@ Europäischen Wirtschaftsraum sind.
 
 
 ### § 16i
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005607377)
 
 (1) Ist eine von der zuständigen Behörde getroffene Maßnahme, die sich
 auf die Durchführung von Tiertransporten aus anderen Mitgliedstaaten
@@ -2932,16 +2980,19 @@ bei Gericht eingereicht werden.
 
 
 ### § 16j
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006500360)
 
 Verwaltungsverfahren nach diesem Gesetz können in den Ländern über
 eine einheitliche Stelle abgewickelt werden.
 
 
 ## Elfter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG001105360)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004404377)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2967,6 +3018,7 @@ bestraft, wer
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004517119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3166,6 +3218,7 @@ werden.
 
 
 ### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006102377)
 
 Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung
 der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
@@ -3184,6 +3237,7 @@ geahndet werden können.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004609360)
 
 (1) Tiere, auf die sich
 
@@ -3222,6 +3276,7 @@ Ordnungswidrigkeit
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004704360)
 
 (1) Wird jemand wegen einer nach § 17 rechtswidrigen Tat verurteilt
 oder nur deshalb nicht verurteilt, weil seine Schuldunfähigkeit
@@ -3245,6 +3300,7 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005304360)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass ein Verbot
 nach § 20 angeordnet werden wird, so kann der Richter dem
@@ -3261,10 +3317,12 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ## Zwölfter Abschnitt - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNG001206360)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004809119)
 
 (1) Längstens bis zum Ablauf des 31. Dezember 2020 ist abweichend von
 § 5 Absatz 1 Satz 1 eine Betäubung nicht erforderlich für das
@@ -3398,6 +3456,7 @@ anzuwenden.
 
 
 ### § 21a
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE004905377)
 
 Rechtsverordnungen nach diesem Gesetz können auch zur Durchführung von
 Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
@@ -3405,6 +3464,7 @@ auf dem Gebiet des Tierschutzes erlassen werden.
 
 
 ### § 21b
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005007360)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Verweisungen auf Vorschriften in
@@ -3415,10 +3475,12 @@ dieser Vorschriften erforderlich ist.
 
 
 ### § 21c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE006204301)
 
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/tierschg/BJNR012770972.html#BJNR012770972BJNE005204377)
 
 (Inkrafttreten)
 

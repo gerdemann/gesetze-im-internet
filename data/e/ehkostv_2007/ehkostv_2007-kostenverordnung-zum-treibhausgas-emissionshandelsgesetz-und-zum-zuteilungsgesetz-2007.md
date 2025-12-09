@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehkostv_2007/BJNR227300004.html#BJNR227300004BJNE000100000)
 
 Auf Grund des § 22 Satz 3 des Treibhausgas-Emissionshandelsgesetzes
 vom 8. Juli 2004 (BGBl. I S. 1578) und des § 23 des Zuteilungsgesetzes
@@ -32,6 +33,7 @@ Reaktorsicherheit:
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ehkostv_2007/BJNR227300004.html#BJNR227300004BJNE000201310)
 
 (1) Die nach § 20 Abs. 1 Satz 2 des Treibhausgas-
 Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das
@@ -55,6 +57,7 @@ Anlage zu dieser Verordnung.
 
 
 ## § 2 Kostenermäßigung und Kostenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/ehkostv_2007/BJNR227300004.html#BJNR227300004BJNE000301310)
 
 Die nach § 20 Abs. 1 Satz 2 des Treibhausgas-Emissionshandelsgesetzes
 vom 8. Juli 2004 (BGBl. I S. 1578), das zuletzt durch Artikel 9 des
@@ -66,6 +69,7 @@ der Erhebung der Gebühr absehen.
 
 
 ## § 3 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/ehkostv_2007/BJNR227300004.html#BJNR227300004BJNE000400000)
 
 Im Falle des Widerspruchs gegen eine Zuteilungsentscheidung oder gegen
 deren Kostenentscheidung wird eine Gebühr nach Nummer 4 des
@@ -74,12 +78,14 @@ oder nach Beginn der sachlichen Bearbeitung zurückgenommen wird.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehkostv_2007/BJNR227300004.html#BJNR227300004BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1 Abs. 1)
 
 ## Anhang Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ehkostv_2007/BJNR227300004.html#BJNR227300004BJNE000601310)
 
 (Fundstelle: BGBl. I 2004, 2274 - 2275;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -31,6 +32,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000200000)
 
 (1) Der Ausbildungsberuf Schifffahrtskaufmann/Schifffahrtskauffrau
 wird staatlich anerkannt.
@@ -48,11 +50,13 @@ gewählt werden.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -64,6 +68,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000501308)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -164,6 +169,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000600000)
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -175,12 +181,14 @@ ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -189,6 +197,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -219,6 +228,7 @@ Fachbegriffe berücksichtigt werden.
 
 
 ## § 9 Abschlussprüfung in der Fachrichtung Linienfahrt
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE001001308)
 
 (1) Die Abschlussprüfung in der Fachrichtung Linienfahrt erstreckt
 sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nr. 1
@@ -346,6 +356,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Abschlussprüfung in der Fachrichtung Trampfahrt
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE001101308)
 
 (1) Die Abschlussprüfung in der Fachrichtung Trampfahrt erstreckt sich
 auf die in der Anlage 1 Abschnitt I und Abschnitt II Nr. 2
@@ -469,6 +480,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE001200000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -477,12 +489,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 5)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE001401308)
 
 (Fundstelle: BGBl. I 2004, 1878 - 1882;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1160,6 +1174,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+[Direktlink](https://www.gesetze-im-internet.de/schkfmausbv_2004/BJNR187400004.html#BJNR187400004BJNE001501308)
 
 (Fundstelle: BGBl. I 2004, 1883 - 1886;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

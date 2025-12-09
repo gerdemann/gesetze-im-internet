@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbw_by2bek/BJNR024680988.html#BJNR024680988BJNE000100326)
 
 Zwischen dem Freistaat Bayern und dem Land Baden-Württemberg wurde am
 22\. Oktober 1987 ein Zweiter Staatsvertrag über eine Änderung der

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000100313)
 
 Auf Grund des § 11 Abs. 3 des Rechtsträger-Abwicklungsgesetzes vom 6.
 September 1965 (Bundesgesetzbl. I S. 1065) wird im Einvernehmen mit
@@ -29,6 +30,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000200313)
 
 (1) Ein Anspruch auf Alters- und Hinterbliebenenversorgung nach § 11
 Abs. 2 des Gesetzes gilt an den Träger der Versorgungslast in der Höhe
@@ -65,6 +67,7 @@ beruhende einmalige Zahlungen (z.B. Weihnachtszuwendungen,
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000300313)
 
 Der Anspruch auf Alters- und Hinterbliebenenversorgung gilt in Höhe
 der Bruttobeträge der Zahlungen (§ 1) als abgetreten, die sich nach
@@ -74,6 +77,7 @@ Kinderzuschläge.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000401160)
 
 Für Zahlungen nach § 1 Abs. 1 Nr. 1 bis 3, die erst nach Beendigung
 der Abwicklung, spätestens nach dem 30. April 1967 fällig werden oder
@@ -93,6 +97,7 @@ nicht anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000500313)
 
 Für Zeiten zwischen dem 1. April 1951 und der Beendigung der
 Abwicklung, spätestens dem 30. April 1967, in denen an eine nach § 11
@@ -109,6 +114,7 @@ ergeben würden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000600313)
 
 Wird eine auf der Nachversicherung nach § 72 des Gesetzes zu Artikel
 131 des Grundgesetzes beruhende Rente aus den gesetzlichen
@@ -123,6 +129,7 @@ auch auf Grund von Soll- oder Kannvorschriften, ergeben würden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000700313)
 
 (1) Der in § 11 Abs. 3 Satz 2 Halbsatz 2 des Gesetzes bezeichnete
 Kapitalbetrag der auf der Nachversicherung nach § 72 des Gesetzes zu
@@ -151,6 +158,7 @@ Satz 1 genannten Kapitalbetrages zu ersetzen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000800313)
 
 Besteht der Träger der Versorgungslast aus mehreren
 Aufnahmeeinrichtungen (§ 61 des Gesetzes zu Artikel 131 des
@@ -166,6 +174,7 @@ bleiben unberührt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE000900313)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 30 des
@@ -173,11 +182,13 @@ Rechtsträger-Abwicklungsgesetzes auch im Land Berlin.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE001000313)
 
 Diese Verordnung tritt mit Wirkung vom 1. November 1965 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg_11abs3dv/BJNR005380967.html#BJNR005380967BJNE001100313)
 
 Der Bundesminister der Finanzen
 Der Bundesminister des Innern

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ozsv/BJNR0DD0A0025.html#BJNR0DD0A0025BJNE000100000)
 
 Das Bundesministerium für Digitales und Staatsmodernisierung verordnet
 aufgrund des § 6 Absatz 1 Nummer 1 und 2 des Onlinezugangsgesetzes vom
@@ -30,6 +31,7 @@ Einvernehmen mit dem IT-Planungsrat:
 
 
 ## § 1 Architekturvorgaben für informationstechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/ozsv/BJNR0DD0A0025.html#BJNR0DD0A0025BJNE000200000)
 
 (1) Informationstechnische Systeme, die für den übergreifenden
 informationstechnischen Zugang zu den Verwaltungsleistungen von Bund
@@ -49,6 +51,7 @@ die jeweilige Fassung der Föderalen IT-Architekturrichtlinie gilt.
 
 
 ## § 2 Qualitätsanforderungen an informationstechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/ozsv/BJNR0DD0A0025.html#BJNR0DD0A0025BJNE000300000)
 
 (1) Für informationstechnische Systeme, die für den übergreifenden
 informationstechnischen Zugang zu den Verwaltungsleistungen von Bund
@@ -65,6 +68,7 @@ gesichert niedergelegt ist, eingehalten werden.
 
 
 ## § 3 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ozsv/BJNR0DD0A0025.html#BJNR0DD0A0025BJNE000400000)
 
 Für informationstechnische Systeme im Anwendungsbereich dieser
 Verordnung, die am ersten Tag des auf die Verkündung folgenden
@@ -74,6 +78,7 @@ und 2 abgewichen werden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ozsv/BJNR0DD0A0025.html#BJNR0DD0A0025BJNE000500000)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Quartals in Kraft.

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000100304)
 
 Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für
 Bundeszwecke vom 3. September 1953 (Bundesgesetzbl. I S. 1314),
@@ -28,12 +29,14 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000200304)
 
 Über Arten und Umfang der betrieblichen Altersversorgung wird im Jahre
 1974 eine Bundesstatistik durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000300304)
 
 (1) In die Erhebung werden, mit Ausnahme der Körperschaften, Anstalten
 und Stiftungen des öffentlichen Rechts, die Unternehmen ausgewählter
@@ -61,6 +64,7 @@ einbezogen:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000400304)
 
 Bei der Erhebung werden erfaßt
 
@@ -85,12 +89,14 @@ Bei der Erhebung werden erfaßt
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000500304)
 
 Auskunftspflichtig nach § 10 des Gesetzes über die Statistik für
 Bundeszwecke sind die Inhaber oder Leiter der befragten Unternehmen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000600304)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 17 des
@@ -98,6 +104,7 @@ Gesetzes über die Statistik für Bundeszwecke auch im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv/BJNR006810974.html#BJNR006810974BJNE000700304)
 
 Diese Verordnung tritt am Tage ihrer Verkündung in Kraft.
 

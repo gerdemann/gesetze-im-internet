@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000100000)
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
 auf Grund des
@@ -49,9 +50,11 @@ auf Grund des
 
 
 ## I. - Allgemeine Regelungen für die Teilnahme am Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000100000)
 
 
 ### § 1 Grundregel der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000300000)
 
 Zum Verkehr auf öffentlichen Straßen ist jeder zugelassen, soweit
 nicht für die Zulassung zu einzelnen Verkehrsarten eine Erlaubnis
@@ -59,6 +62,7 @@ vorgeschrieben ist.
 
 
 ### § 2 Eingeschränkte Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000400000)
 
 (1) Wer sich infolge körperlicher oder geistiger Beeinträchtigungen
 nicht sicher im Verkehr bewegen kann, darf am Verkehr nur teilnehmen,
@@ -82,6 +86,7 @@ Kennzeichen im Straßenverkehr nicht verwenden.
 
 
 ### § 3 Einschränkung und Entziehung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000501123)
 
 (1) Erweist sich jemand als ungeeignet oder nur noch bedingt geeignet
 zum Führen von Fahrzeugen oder Tieren, hat die Fahrerlaubnisbehörde
@@ -103,12 +108,15 @@ Anwendung.
 
 
 ## II. - Führen von Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000200000)
 
 
 ### 1. - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000300000)
 
 
 #### § 4 Erlaubnispflicht und Ausweispflicht für das Führen von Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000606124)
 
 (1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt, bedarf der
 Fahrerlaubnis. Ausgenommen sind
@@ -169,6 +177,7 @@ gilt für eine Bescheinigung im Sinne des Satzes 1 entsprechend.
 
 
 #### § 5 Sonderbestimmungen für das Führen von Mofas und geschwindigkeitsbeschränkten Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000703123)
 
 (1) Wer auf öffentlichen Straßen ein Mofa (§ 4 Absatz 1 Satz 2 Nummer
 1) oder ein Kraftfahrzeug, das den Bestimmungen des § 4 Absatz 1 Satz
@@ -226,6 +235,7 @@ gilt als Führer des Fahrzeugs.
 
 
 #### § 6 Einteilung der Fahrerlaubnisklassen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000812124)
 
 (1) Die Fahrerlaubnis wird in folgenden Klassen erteilt:
 
@@ -630,6 +640,7 @@ Fahrerlaubnisklassen entsprechend Satz 1 ausgefertigt.
 
 
 #### § 6a Fahrerlaubnis der Klasse B mit der Schlüsselzahl 96
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010700308)
 
 (1) Die Fahrerlaubnis der Klasse B kann mit der Schlüsselzahl 96
 erteilt werden für Fahrzeugkombinationen bestehend aus einem
@@ -656,6 +667,7 @@ Muster nach Anlage 7a beizubringen.
 
 
 #### § 6b Fahrerlaubnis der Klasse B mit der Schlüsselzahl 196
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012400124)
 
 (1) Die Fahrerlaubnis der Klasse B kann mit der Schlüsselzahl 196
 erteilt werden für Krafträder(auch mit Beiwagen) mit einem Hubraum von
@@ -695,6 +707,7 @@ kann.
 
 
 #### § 6c Sonderbestimmungen für das Führen von Einsatzfahrzeugen der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und des Katastrophenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE013100123)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 besondere Bestimmungen zu erlassen über
@@ -719,9 +732,11 @@ unterschiedlichen Gewichtsklassen der Fahrberechtigung nach § 2 Absatz
 
 
 ### 2. - Voraussetzungen für die Erteilung einer Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000400000)
 
 
 #### § 7 Ordentlicher Wohnsitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE000901124)
 
 (1) Eine Fahrerlaubnis darf nur erteilt werden, wenn der Bewerber
 seinen ordentlichen Wohnsitz in der Bundesrepublik Deutschland hat.
@@ -754,6 +769,7 @@ mindestens sechs Monate beträgt.
 
 
 #### § 8 Ausschluss des Vorbesitzes einer Fahrerlaubnis der beantragten Klasse
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001000000)
 
 Eine Fahrerlaubnis der beantragten Klasse darf nur erteilt werden,
 wenn der Bewerber keine in einem Mitgliedstaat der Europäischen Union
@@ -763,6 +779,7 @@ dieser Klasse besitzt.
 
 
 #### § 9 Voraussetzung des Vorbesitzes einer Fahrerlaubnis anderer Klassen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001101308)
 
 (1) Eine Fahrerlaubnis der Klassen C1, C, D1 oder D darf nur erteilt
 werden, wenn der Bewerber bereits die Fahrerlaubnis der Klasse B
@@ -782,6 +799,7 @@ Strafgesetzbuches.
 
 
 #### § 10 Mindestalter
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012800123)
 
 (1) Das für die Erteilung einer Fahrerlaubnis maßgebliche Mindestalter
 bestimmt sich nach der folgenden Tabelle:
@@ -1146,6 +1164,7 @@ sein.
 
 
 #### § 11 Eignung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001306360)
 
 (1) Bewerber um eine Fahrerlaubnis müssen die hierfür notwendigen
 körperlichen und geistigen Anforderungen erfüllen. Die Anforderungen
@@ -1362,6 +1381,7 @@ Anfertigung von Kursaufgaben verweigert hat.
 
 
 #### § 12 Sehvermögen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001403124)
 
 (1) Zum Führen von Kraftfahrzeugen sind die in der Anlage 6 genannten
 Anforderungen an das Sehvermögen zu erfüllen.
@@ -1422,6 +1442,7 @@ sind.
 
 
 #### § 13 Klärung von Eignungszweifeln bei Alkoholproblematik
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001500000)
 
 Zur Vorbereitung von Entscheidungen über die Erteilung oder
 Verlängerung der Fahrerlaubnis oder über die Anordnung von
@@ -1465,6 +1486,7 @@ sind, nicht zu berücksichtigen.
 
 
 #### § 13a Klärung von Eignungszweifeln bei Cannabisproblematik
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE013201123)
 
 Zur Vorbereitung von Entscheidungen über die Erteilung oder
 Verlängerung der Fahrerlaubnis oder über die Anordnung von
@@ -1503,6 +1525,7 @@ sind, nicht zu berücksichtigen.
 
 
 #### § 14 Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001603123)
 
 (1) Zur Vorbereitung von Entscheidungen über die Erteilung oder die
 Verlängerung der Fahrerlaubnis oder über die Anordnung von
@@ -1552,6 +1575,7 @@ b und § 13a Satz 1 Nummer 2 Buchstabe b unberührt.
 
 
 #### § 15 Fahrerlaubnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001704305)
 
 (1) Der Bewerber um eine Fahrerlaubnis hat seine Befähigung in einer
 theoretischen und einer praktischen Prüfung nachzuweisen.
@@ -1595,6 +1619,7 @@ Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr abgenommen.
 
 
 #### § 16 Theoretische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001806123)
 
 (1) In der theoretischen Prüfung hat der Bewerber nachzuweisen, dass
 er
@@ -1648,6 +1673,7 @@ nicht durchgeführt werden.
 
 
 #### § 17 Praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE001913123)
 
 (1) In der praktischen Prüfung hat der Bewerber nachzuweisen, dass er
 über die zur sicheren Führung eines Kraftfahrzeugs, gegebenenfalls mit
@@ -1716,6 +1742,7 @@ ist. § 16 Absatz 3 Satz 7 und 8 findet entsprechende Anwendung.
 
 
 #### § 17a Beschränkung auf Fahrzeuge mit Automatikgetriebe
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012701123)
 
 (1) Wird die Prüfungsfahrt auf einem Kraftfahrzeug mit
 Automatikgetriebe durchgeführt, ist die Fahrerlaubnis auf das Führen
@@ -1798,6 +1825,7 @@ Schaltgetriebe gilt ein Kraftfahrzeug, das
 
 
 #### § 18 Gemeinsame Vorschriften für die theoretische und die praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002004123)
 
 (1) Bei Täuschungshandlungen gilt die Prüfung als nicht bestanden.
 Eine nicht bestandene Prüfung darf nicht vor Ablauf eines angemessenen
@@ -1821,6 +1849,7 @@ den Bewerber hierüber zu unterrichten.
 
 
 #### § 19 Schulung in Erster Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002103124)
 
 (1) Bewerber um eine Fahrerlaubnis müssen an einer Schulung in Erster
 Hilfe teilnehmen, die mindestens neun Unterrichtseinheiten zu je 45
@@ -1872,6 +1901,7 @@ vorlegt.
 
 
 #### § 20 Neuerteilung einer Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002202123)
 
 (1) Für die Neuerteilung einer Fahrerlaubnis nach vorangegangener
 Entziehung oder nach vorangegangenem Verzicht gelten die Vorschriften
@@ -1902,9 +1932,11 @@ bei der nach Landesrecht zuständigen Behörde beantragt werden.
 
 
 ### 3. - Verfahren bei der Erteilung einer Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000500000)
 
 
 #### § 21 Antrag auf Erteilung einer Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002308123)
 
 (1) Der Antrag auf Erteilung einer Fahrerlaubnis ist bei der nach
 Landesrecht zuständigen Behörde oder Stelle oder der
@@ -1978,6 +2010,7 @@ Behörde beantragt werden.
 
 
 #### § 22 Verfahren bei der Behörde und der Technischen Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002405124)
 
 (1) Die nach Landesrecht zuständige Behörde oder Stelle und die
 Fahrerlaubnisbehörde können durch Einholung von Auskünften aus dem
@@ -2054,6 +2087,7 @@ Fahrerlaubnisbehörde zurückgeben, wenn
 
 
 #### § 22a Abweichendes Verfahren bei Elektronischem Prüfauftrag und Vorläufigem Nachweis der Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011602124)
 
 (1) Abweichend von § 22 Absatz 4 Satz 1 kann die Fahrerlaubnisbehörde
 mit Zustimmung der zuständigen obersten Landesbehörde von dem
@@ -2156,6 +2190,7 @@ seiner Aushändigung, gültig.
 
 
 #### § 23 Geltungsdauer der Fahrerlaubnis, Beschränkungen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002502123)
 
 (1) Die Fahrerlaubnis der Klassen AM, A1, A2, A, B, BE, L und T wird
 unbefristet erteilt. Die Fahrerlaubnis der Klassen C1, C1E, C, CE, D1,
@@ -2172,6 +2207,7 @@ oder ein bestimmtes Fahrzeug mit besonderen Einrichtungen erstrecken.
 
 
 #### § 24 Verlängerung von Fahrerlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002601123)
 
 (1) Die Geltungsdauer der Fahrerlaubnis der Klassen C, C1, CE, C1E, D,
 D1, DE und D1E wird auf Antrag des Inhabers jeweils um die in § 23
@@ -2210,6 +2246,7 @@ Behörde beantragt werden.
 
 
 #### § 24a Gültigkeit von Führerscheinen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010806124)
 
 (1) Die Gültigkeit der ab dem 19. Januar 2013 ausgestellten
 Führerscheine ist auf 15 Jahre befristet. Die Vorschriften des § 23
@@ -2248,6 +2285,7 @@ Gültigkeitsaufkleber entfernt oder beschädigt wurde.
 
 
 #### § 25 Ausfertigung des Führerscheins
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002705360)
 
 (1) Der Führerschein wird nach Muster 1 der Anlage 8 ausgefertigt. Er
 darf nur ausgestellt werden, wenn der Antragsteller
@@ -2309,6 +2347,7 @@ ist er unverzüglich der zuständigen Fahrerlaubnisbehörde abzuliefern.
 
 
 #### § 25a Antrag auf Ausstellung eines Internationalen Führerscheins
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002802305)
 
 (1) Kraftfahrzeugführer erhalten auf Antrag den Internationalen
 Führerschein, wenn sie das 18. Lebensjahr vollendet haben und die nach
@@ -2326,6 +2365,7 @@ Passverordnung entspricht, und der Führerschein beizufügen.
 
 
 #### § 25b Ausstellung des Internationalen Führerscheins
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE002904305)
 
 (1) Internationale Führerscheine müssen nach den Anlagen 8c und 8d in
 deutscher Sprache mit lateinischen Druck- oder Schriftzeichen
@@ -2365,9 +2405,11 @@ Nummer muss auf dem Internationalen Führerschein vermerkt sein.
 
 
 ### 4. - Sonderbestimmungen für das Führen von Dienstfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000600000)
 
 
 #### § 26 Dienstfahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003002124)
 
 (1) Die von den Dienststellen der Bundeswehr, der Bundespolizei und
 der Polizei (§ 73 Absatz 4) erteilten Fahrerlaubnisse berechtigen nur
@@ -2402,6 +2444,7 @@ welche Klasse von Kraftfahrzeugen ihm die Erlaubnis erteilt war.
 
 
 #### § 27 Verhältnis von allgemeiner Fahrerlaubnis und Dienstfahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003102124)
 
 (1) Beantragt der Inhaber einer Dienstfahrerlaubnis während der Dauer
 des Dienstverhältnisses die Erteilung einer allgemeinen Fahrerlaubnis,
@@ -2473,9 +2516,11 @@ allgemeinen Fahrerlaubnis.
 
 
 ### 5. - Sonderbestimmungen für Inhaber ausländischer Fahrerlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000700000)
 
 
 #### § 28 Anerkennung von Fahrerlaubnissen aus Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003210360)
 
 (1) Inhaber einer gültigen EU- oder EWR-Fahrerlaubnis, die ihren
 ordentlichen Wohnsitz im Sinne des § 7 Absatz 1 oder 2 in der
@@ -2584,6 +2629,7 @@ oder die Sperre nicht mehr bestehen. Absatz 4 Satz 3 sowie § 20 Absatz
 
 
 #### § 29 Ausländische Fahrerlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003308305)
 
 (1) Inhaber einer ausländischen Fahrerlaubnis dürfen im Umfang ihrer
 Berechtigung im Inland Kraftfahrzeuge führen, wenn sie hier keinen
@@ -2685,6 +2731,7 @@ nicht mehr bestehen.
 
 
 #### § 29a Fahrerlaubnisse von in Deutschland stationierten Angehörigen der Streitkräfte der Vereinigten Staaten von Amerika und Kanadas
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011700305)
 
 In Deutschland stationierte Mitglieder der Streitkräfte der
 Vereinigten Staaten von Amerika oder Kanadas oder des zivilen Gefolges
@@ -2713,6 +2760,7 @@ unberührt.
 
 
 #### § 30 Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003408123)
 
 (1) Beantragt der Inhaber einer EU- oder EWR-Fahrerlaubnis, die zum
 Führen von Kraftfahrzeugen im Inland berechtigt oder berechtigt hat,
@@ -2787,6 +2835,7 @@ Familienmitglieder.
 
 
 #### § 30a Weitergeltung einer deutschen Fahrerlaubnis und Rücktausch von Führerscheinen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011001124)
 
 (1) Wird ein auf Grund einer deutschen Fahrerlaubnis ausgestellter
 Führerschein in einen Führerschein eines anderen Staates umgetauscht,
@@ -2810,6 +2859,7 @@ nach drei Jahren vernichtet werden.
 
 
 #### § 31 Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Staat außerhalb des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003505123)
 
 (1) Beantragt der Inhaber einer Fahrerlaubnis, die in einem in Anlage
 11 aufgeführten Staat und in einer in der Anlage 11 aufgeführten
@@ -2896,9 +2946,11 @@ Anwendung.
 
 
 ### 6. - Fahrerlaubnis auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000800000)
 
 
 #### § 32 Ausnahmen von der Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003601308)
 
 Ausgenommen von den Regelungen über die Probezeit nach § 2a des
 Straßenverkehrsgesetzes sind Fahrerlaubnisse der Klassen AM, L und T.
@@ -2908,6 +2960,7 @@ die erweitert wird, auf Probe zu erteilen.
 
 
 #### § 33 Berechnung der Probezeit bei Inhabern von Dienstfahrerlaubnissen und Fahrerlaubnissen aus Staaten außerhalb des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003700000)
 
 (1) Bei erstmaliger Erteilung einer allgemeinen Fahrerlaubnis an den
 Inhaber einer Dienstfahrerlaubnis ist die Zeit seit deren Erwerb auf
@@ -2926,6 +2979,7 @@ nicht berechtigt war.
 
 
 #### § 34 Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe und Anordnung des Aufbauseminars
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003800000)
 
 (1) Die Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen
 der Fahrerlaubnis auf Probe erfolgt nach Anlage 12.
@@ -2939,6 +2993,7 @@ vorzulegen.
 
 
 #### § 35 Aufbauseminare
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE003900000)
 
 (1) Das Aufbauseminar ist in Gruppen mit mindestens sechs und
 höchstens zwölf Teilnehmern durchzuführen. Es besteht aus einem Kurs
@@ -2974,6 +3029,7 @@ durchzuführen sind.
 
 
 #### § 36 Besondere Aufbauseminare nach § 2b Absatz 2 Satz 2 des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004001305)
 
 (1) Inhaber von Fahrerlaubnissen auf Probe, die wegen
 Zuwiderhandlungen nach § 315c Absatz 1 Nummer 1 Buchstabe a, den §§
@@ -3066,6 +3122,7 @@ geeigneter Personen oder Stellen bedienen.
 
 
 #### § 37 Teilnahmebescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004100000)
 
 (1) Über die Teilnahme an einem Aufbauseminar nach § 35 oder § 36 ist
 vom Seminarleiter eine Bescheinigung zur Vorlage bei der
@@ -3101,6 +3158,7 @@ Abschluss der jeweiligen Seminare folgenden Jahres zu löschen.
 
 
 #### § 38 Verkehrspsychologische Beratung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004200000)
 
 In der verkehrspsychologischen Beratung soll der Inhaber der
 Fahrerlaubnis veranlasst werden, Mängel in seiner Einstellung zum
@@ -3117,6 +3175,7 @@ Bestätigung nach § 71 Absatz 2 enthalten.
 
 
 #### § 39 Anordnung der Teilnahme an einem Aufbauseminar und weiterer Maßnahmen bei Inhabern einer Dienstfahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004301308)
 
 Bei Inhabern von Dienstfahrerlaubnissen, die keine allgemeine
 Fahrerlaubnis besitzen, sind für die Anordnung von Maßnahmen nach § 2a
@@ -3130,9 +3189,11 @@ Verwaltungsbehörden.
 
 
 ### 7. - Fahreignungs-Bewertungssystem
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG000901305)
 
 
 #### § 40 Bezeichnung und Bewertung nach dem Fahreignungs-Bewertungssystem
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004401305)
 
 Dem Fahreignungs-Bewertungssystem sind die in Anlage 13 bezeichneten
 Zuwiderhandlungen mit der dort jeweils festgelegten Bewertung zu
@@ -3140,6 +3201,7 @@ Grunde zu legen.
 
 
 #### § 41 Maßnahmen der nach Landesrecht zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004501305)
 
 (1) Die Ermahnung des Inhabers einer Fahrerlaubnis nach § 4 Absatz 5
 Satz 1 Nummer 1 des Straßenverkehrsgesetzes, seine Verwarnung nach § 4
@@ -3153,6 +3215,7 @@ Straßenverkehrs-Ordnung bleibt unberührt.
 
 
 #### § 42 Fahreignungsseminar
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004601305)
 
 (1) Das Fahreignungsseminar besteht aus einer verkehrspädagogischen
 und aus einer verkehrspsychologischen Teilmaßnahme. Die Teilmaßnahmen
@@ -3322,6 +3385,7 @@ begonnen werden.
 
 
 #### § 43 Überwachung der Fahreignungsseminare nach § 42 und der Einweisungslehrgänge nach § 46 Absatz 2 Satz 1 Nummer 4 des Fahrlehrergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004702116)
 
 (1) Die nach Landesrecht zuständige Behörde hat die Durchführung der
 Fahreignungsseminare auf die Einhaltung von folgenden Kriterien zu
@@ -3452,6 +3516,7 @@ gesetzlicher Bestimmungen in die Überwachung einbeziehen.
 
 
 #### § 43a Anforderungen an Qualitätssicherungssysteme für das Fahreignungsseminar
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011201116)
 
 Macht die nach Landesrecht zuständige Behörde von der Möglichkeit der
 Qualitätssicherungssysteme nach § 4a Absatz 8 Satz 6 des
@@ -3542,6 +3607,7 @@ genehmigen, wenn
 
 
 #### § 44 Teilnahmebescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004803305)
 
 (1) Nach Abschluss des Fahreignungsseminars ist vom Seminarleiter der
 abschließenden Teilmaßnahme eine Bescheinigung nach dem Muster der
@@ -3566,12 +3632,15 @@ zu verweigern, wenn der Seminarteilnehmer
 
 
 #### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE004901305)
 
 
 ### 8. - Entziehung oder Beschränkung der Fahrerlaubnis, Anordnung von Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001000000)
 
 
 #### § 46 Entziehung, Beschränkung, Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005000000)
 
 (1) Erweist sich der Inhaber einer Fahrerlaubnis als ungeeignet zum
 Führen von Kraftfahrzeugen, hat ihm die Fahrerlaubnisbehörde die
@@ -3612,6 +3681,7 @@ Kraftfahrzeugen im Inland.
 
 
 #### § 47 Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005102308)
 
 (1) Nach der Entziehung sind von einer deutschen Behörde ausgestellte
 nationale und internationale Führerscheine unverzüglich der
@@ -3652,9 +3722,11 @@ Fahrerlaubnisbehörde den Führerschein zur Eintragung vorzulegen.
 
 
 ### 9. - Sonderbestimmungen für das Führen von Taxen, Mietwagen und Krankenkraftwagen sowie von Personenkraftwagen im Linienverkehr und bei gewerbsmäßigen Ausflugsfahrten und Ferienziel-Reisen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001100000)
 
 
 #### § 48 Fahrerlaubnis zur Fahrgastbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005208123)
 
 (1) Einer zusätzlichen Erlaubnis (Fahrerlaubnis zur
 Fahrgastbeförderung) bedarf, wer einen Krankenkraftwagen führt, wenn
@@ -3793,9 +3865,11 @@ entsprechend anzuwenden.
 
 
 ### 10. - Begleitetes Fahren ab 17 Jahre
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001200000)
 
 
 #### § 48a Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005310123)
 
 (1) Im Falle des § 10 Absatz 1 laufende Nummer 5 Buchstabe b
 Doppelbuchstabe aa findet § 11 Absatz 3 Satz 1 Nummer 2 keine
@@ -3924,6 +3998,7 @@ auf Antrag einen Führerschein nach Muster 1 der Anlage 8 aus.
 
 
 #### § 48b Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005401308)
 
 Die für Zwecke der Evaluation erhobenen personenbezogene Daten der
 teilnehmenden Fahranfänger und Begleiter sind spätestens am 31.
@@ -3933,12 +4008,15 @@ kann.
 
 
 ## III. - Register
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001300000)
 
 
 ### 1. - Zentrales Fahrerlaubnisregister und örtliche Fahrerlaubnisregister
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001400000)
 
 
 #### § 49 Speicherung der Daten im Zentralen Fahrerlaubnisregister
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005506123)
 
 (1) Im Zentralen Fahrerlaubnisregister sind nach § 50 Absatz 1 des
 Straßenverkehrsgesetzes folgende Daten zu speichern:
@@ -4040,6 +4118,7 @@ Fahrerlaubnisnummer gespeichert.
 
 
 #### § 50 Übermittlung der Daten vom Kraftfahrt-Bundesamt an die Fahrerlaubnisbehörden nach § 2c des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005602305)
 
 Das Kraftfahrt-Bundesamt unterrichtet die zuständige
 Fahrerlaubnisbehörde von Amts wegen, wenn über den Inhaber einer
@@ -4081,6 +4160,7 @@ Daten:
 
 
 #### § 51 Übermittlung von Daten aus dem Zentralen Fahrerlaubnisregister nach den §§ 52 und 55 des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005704123)
 
 (1) Übermittelt werden dürfen
 
@@ -4230,6 +4310,7 @@ mitgeteilt hat, dass andere Behörden zuständig sind.
 
 
 #### § 52 Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Inland nach § 53 des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005807123)
 
 (1) Zur Übermittlung aus dem Zentralen Fahrerlaubnisregister dürfen
 durch Abruf im automatisierten Verfahren
@@ -4412,6 +4493,7 @@ für
 
 
 #### § 53 Automatisiertes Anfrage- und Auskunftsverfahren beim Zentralen Fahrerlaubnisregister nach § 54 des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE005900000)
 
 (1) Übermittelt werden dürfen nur die Daten nach § 51 unter den dort
 genannten Voraussetzungen.
@@ -4438,6 +4520,7 @@ ordnungsgemäßer Aufzeichnung unterbrochen wird.
 
 
 #### § 54 Sicherung gegen Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006000000)
 
 (1) Die übermittelnde Stelle darf den Abruf im automatisierten
 Verfahren aus dem Zentralen Fahrerlaubnisregister nach § 53 des
@@ -4484,6 +4567,7 @@ Straßenverkehrsgesetzes.
 
 
 #### § 55 Aufzeichnung der Abrufe
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006100000)
 
 (1) Der Anlass des Abrufs ist unter Verwendung folgender
 Schlüsselzeichen zu übermitteln:
@@ -4541,6 +4625,7 @@ vorgeschriebenen weiteren Aufzeichnungen ist § 53 Absatz 3 Satz 2 und
 
 
 #### § 56 Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Ausland nach § 56 des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006201308)
 
 (1) Zur Übermittlung aus dem Zentralen Fahrerlaubnisregister dürfen
 durch Abruf im automatisierten Verfahren
@@ -4564,6 +4649,7 @@ zu verwendende Daten), § 54 (Sicherung gegen Missbrauch) und § 55
 
 
 #### § 57 Speicherung der Daten in den örtlichen Fahrerlaubnisregistern
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006303124)
 
 Über Fahrerlaubnisinhaber sowie über Personen, denen ein Verbot
 erteilt wurde, ein Fahrzeug zu führen, sind im örtlichen
@@ -4706,6 +4792,7 @@ Daten zu speichern:
 
 
 #### § 58 Übermittlung von Daten aus den örtlichen Fahrerlaubnisregistern
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006400000)
 
 (1) Für die Verfolgung von Straftaten, zur Vollstreckung und zum
 Vollzug von Strafen dürfen im Rahmen des § 52 Absatz 1 Nummer 1 des
@@ -4749,9 +4836,11 @@ automatisierten Verfahren abgerufen werden. § 52 Absatz 2, 3 und 5, §§
 
 
 ### 2. - Fahreignungsregister
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001501305)
 
 
 #### § 59 Speicherung von Daten im Fahreignungsregister
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006506116)
 
 (1) Im Fahreignungsregister sind im Rahmen von § 28 Absatz 3 des
 Straßenverkehrsgesetzes folgende Daten zu speichern:
@@ -4920,6 +5009,7 @@ einzutragen.
 
 
 #### § 60 Übermittlung von Daten nach § 30 des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006602123)
 
 (1) Für Maßnahmen wegen Straftaten oder Ordnungswidrigkeiten werden
 gemäß § 30 Absatz 1 Nummer 1 und 2 des Straßenverkehrsgesetzes die auf
@@ -5042,6 +5132,7 @@ dass andere Behörden zuständig sind.
 
 
 #### § 61 Abruf im automatisierten Verfahren nach § 30a des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006702305)
 
 (1) Zur Übermittlung nach § 30a Absatz 1 und 3 des
 Straßenverkehrsgesetzes durch Abruf im automatisierten Verfahren
@@ -5212,6 +5303,7 @@ Europäischen Wirtschaftsraum übermittelt werden.
 
 
 #### § 62 Automatisiertes Anfrage- und Auskunftsverfahren nach § 30b des Straßenverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006801305)
 
 (1) Die Übermittlung der Daten nach § 60 ist auch in einem
 automatisierten Anfrage- und Auskunftsverfahren zulässig.
@@ -5220,6 +5312,7 @@ automatisierten Anfrage- und Auskunftsverfahren zulässig.
 
 
 #### § 63 Vorzeitige Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE006900000)
 
 (1) Wurde die Fahrerlaubnis durch eine Fahrerlaubnisbehörde
 ausschließlich wegen körperlicher oder geistiger Mängel oder wegen
@@ -5235,6 +5328,7 @@ Entscheidungen aufgehoben wurden.
 
 
 #### § 64 Identitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007002124)
 
 (1) Als Identitätsnachweis bei Auskünften nach § 30 Absatz 8 oder § 58
 des Straßenverkehrsgesetzes werden anerkannt
@@ -5262,9 +5356,11 @@ hiervon erforderlich.
 
 
 ## IV. - Anerkennung und Begutachtung für bestimmte Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001601305)
 
 
 ### § 65 Ärztliche Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007100000)
 
 Der Facharzt hat seine verkehrsmedizinische Qualifikation (§ 11 Absatz
 2 Satz 3 Nummer 1), die sich aus den maßgeblichen landesrechtlichen
@@ -5276,6 +5372,7 @@ für Fahreignung (Anlage 14) aus.
 
 
 ### § 66 Träger von Begutachtungsstellen für Fahreignung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007203123)
 
 (1) Träger von Begutachtungsstellen für Fahreignung und ihre
 Begutachtungsstellen bedürfen der amtlichen Anerkennung durch die nach
@@ -5323,6 +5420,7 @@ Verhalten eine Maßnahme der Behörde veranlasst hat.
 
 
 ### § 67 Sehteststelle
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007301360)
 
 (1) Sehteststellen bedürfen – unbeschadet der Absätze 4 und 5 – der
 amtlichen Anerkennung durch die zuständige oberste Landesbehörde oder
@@ -5394,6 +5492,7 @@ als amtlich anerkannte Sehteststelle. Absatz 4 ist anzuwenden.
 
 
 ### § 68 Stellen für die Schulung in Erster Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007402305)
 
 (1) Stellen, die Schulungen in Erster Hilfe für den Erwerb einer
 Fahrerlaubnis durchführen, bedürfen der amtlichen Anerkennung durch
@@ -5461,6 +5560,7 @@ Absatz 2 Satz 4 und 5.
 
 
 ### § 69 Stellen zur Durchführung der Fahrerlaubnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007500000)
 
 (1) Die Durchführung der Fahrerlaubnisprüfung obliegt den amtlich
 anerkannten Sachverständigen oder Prüfern für den Kraftfahrzeugverkehr
@@ -5478,6 +5578,7 @@ nach Erledigung des Prüfauftrags zu löschen.
 
 
 ### § 70 Träger von Kursen zur Wiederherstellung der Kraftfahreignung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007603123)
 
 (1) Träger, die Kurse zur Wiederherstellung der Kraftfahreignung von
 alkohol- oder drogenauffälligen Kraftfahrern durchführen, werden von
@@ -5523,6 +5624,7 @@ Auflagen vorliegt.
 
 
 ### § 71 Verkehrspsychologische Beratung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007701305)
 
 (1) Für die Durchführung der verkehrspsychologischen Beratung nach §
 2a Absatz 7 des Straßenverkehrsgesetzes gelten die Personen im Sinne
@@ -5639,6 +5741,7 @@ Personen oder Stellen bedienen.
 
 
 ### § 71a Träger von unabhängigen Stellen für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011902123)
 
 (1) Die Eignung von psychologischen Testverfahren und -geräten, die
 Träger von Begutachtungsstellen für die Feststellung der Fahreignung
@@ -5717,6 +5820,7 @@ Absätzen 6 oder 7 haben keine aufschiebende Wirkung.
 
 
 ### § 71b Träger von unabhängigen Stellen für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012000360)
 
 Die Eignung von Kursen, die Träger von Kursen zur Wiederherstellung
 der Kraftfahreignung durchführen, muss von Trägern unabhängiger
@@ -5728,6 +5832,7 @@ der Anerkennung nach Anlage 15a richten.
 
 
 ### § 72 Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007803123)
 
 (1) Die
 
@@ -5803,9 +5908,11 @@ der nach Landesrecht zuständigen Behörden übersandt.
 
 
 ## V. - Durchführungs-, Bußgeld-, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNG001700000)
 
 
 ### § 73 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE007902305)
 
 (1) Diese Verordnung wird, soweit nicht die obersten Landesbehörden
 oder die höheren Verwaltungsbehörden zuständig sind oder diese
@@ -5844,6 +5951,7 @@ deren Dienststellen nach Bestimmung der Fachministerien wahrgenommen.
 
 
 ### § 74 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008003123)
 
 (1) Die nach Landesrecht zuständigen Behörden können in bestimmten
 Einzelfällen oder allgemein für bestimmte einzelne Antragsteller
@@ -5891,6 +5999,7 @@ geboten ist.
 
 
 ### § 75 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008108123)
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -5965,6 +6074,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 76 Übergangsrecht
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012901123)
 
 Zu den nachstehend bezeichneten Vorschriften gelten folgende
 Bestimmungen:
@@ -6553,6 +6663,7 @@ Bestimmungen:
 
 
 ### § 77 Verweis auf technische Regelwerke
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008300000)
 
 Soweit in dieser Verordnung auf DIN-, EN- oder ISO/IEC-Normen Bezug
 genommen wird, sind diese im Beuth Verlag GmbH, 10772 Berlin,
@@ -6561,6 +6672,7 @@ niedergelegt.
 
 
 ### § 78 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Fahrerlaubnis-Verordnung vom 18. August 1998
@@ -6569,12 +6681,14 @@ August 2009 (BGBl. I S. 2631) geändert worden ist, außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 5 Absatz 2)
 
 ### Anlage 1 Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h nach § 5 Absatz 2 durch Fahrlehrer
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008602123)
 
 (Fundstelle: BGBl. I 2010, 2015;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6694,6 +6808,7 @@ praktische Ausbildung durchlaufen.
 (zu § 5 Absatz 2 und 4)
 
 ### Anlage 2 Ausbildungs- und Prüfbescheinigungen für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008703360)
 
 (Fundstelle: BGBl. I 2010, 2016 - 2017; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -7060,6 +7175,7 @@ vgl. Fußnote)
    (zu § 6 Absatz 6)
 
 ### Anlage 3 Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008807124)
 
 (Fundstelle: BGBl. I 2013, 39 - 45;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -8388,6 +8504,7 @@ IV. Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 (zu den §§ 11, 13 und 14)
 
 ### Anlage 4 Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE008911123)
 
 (Fundstelle: BGBl. I 2010, 2023 - 2029;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9851,6 +9968,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 11 Absatz 5)
 
 ### Anlage 4a Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011308123)
 
 (Fundstelle: BGBl. I 2014, 357 - 358; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -10040,6 +10158,7 @@ vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 17. Februar 2021
 
 
 ### Anlage 5 (zu § 11 Absatz 9, § 48 Absatz 4 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009004123)
 
 (Fundstelle: BGBl. I 2010, 2030 - 2033;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10117,6 +10236,7 @@ Fahrgastbeförderung**
 (zu den §§ 12, 48 Absatz 4 und 5)
 
 ### Anlage 6 Anforderungen an das Sehvermögen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009108123)
 
 (Fundstelle: BGBl. I 2010, 2034 - 2044;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10942,6 +11062,7 @@ Die Identität des Untersuchten wurde geprüft.
 (zu § 16 Absatz 2, § 17 Absatz 2 und 3)
 
 ### Anlage 7 Fahrerlaubnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009222123)
 
 (Fundstelle: BGBl. I 2013, 46 - 57;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12174,6 +12295,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (§ 6a Absatz 3 und 4)
 
 ### Anlage 7a Fahrerschulung ab 17 Jahre
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010905116)
 
 (Fundstelle: BGBl. I 2011, 19 - 21; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -12428,6 +12550,7 @@ Fußnote)
 (zu § 6b Absatz 3 und 4)
 
 ### Anlage 7b Fahrerschulung für das Führen von Krafträdern der Klasse A1
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012500124)
 
 (Fundstelle: BGBl. I 2019, 2938 – 2939)
 
@@ -12586,6 +12709,7 @@ Fußnote)
 (zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3)
 
 ### Anlage 8 Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009305123)
 
 (Fundstelle: BGBl. I 2010, 2057 - 2062;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12780,6 +12904,7 @@ Material: Neobond – 200 g/m
 
 
 ### Anlage 8a (zu § 22 Absatz 4 Satz 7)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011801123)
 
    (Fundstelle: BGBl. I 2015, 1679 — 1680)
 
@@ -12989,6 +13114,7 @@ Datenverarbeitung, dies erfordern.
 [^F791268_03_BJNR198000010BJNE011801123]: 
 
 ### Anlage 8b (zu § 48a)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009704305)
 
 (Fundstelle: BGBl. I 2015, 1681 — 1682)
 
@@ -13188,6 +13314,7 @@ Namentlich benannte Personen
 (zu § 25b Absatz 2)
 
 ### Anlage 8c Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009804305)
 
 (Fundstelle: BGBl. I 2010, 2064 - 2083;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13391,6 +13518,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 25b Absatz 3)
 
 ### Anlage 8d Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE009904305)
 
 (Fundstelle: BGBl. I 2010, 2084 - 2089;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -13700,6 +13828,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 (zu § 24a Absatz 2 Satz 1)
 
 ### Anlage 8e Umtausch vor dem 19. Januar 2013 ausgestellter Führerscheine
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012302123)
 
 (Fundstelle: BGBl. I 2019, 222
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13804,6 +13933,7 @@ II)[^bjnr198000010bjne012301124_01_BJNR198000010BJNE012302123]
 (zu § 25 Absatz 3)
 
 ### Anlage 9 Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE013000123)
 
 (Fundstelle: BGBl. I 2013, 60 - 63;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -15424,6 +15554,7 @@ IIa. Entfallene nationale Schlüsselzahlen
 (zu den §§ 26 und 27)
 
 ### Anlage 10 Dienstfahrerlaubnisse der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010102124)
 
 
 (Fundstelle: BGBl. I 2019, 223 - 225)
@@ -15822,6 +15953,7 @@ erteilt
 (zu § 31)
 
 ### Anlage 11 Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010213123)
 
 (Fundstelle: BGBl. I 2010, 2095 - 2097;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16791,6 +16923,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 34)
 
 ### Anlage 12 Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010309123)
 
 (Fundstelle: BGBl. I 2010, 2098 - 2099;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -16997,6 +17130,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 (zu § 40)
 
 ### Anlage 13 Bezeichnung und Bewertung der im Rahmen des Fahreignungs-Bewertungssystems zu berücksichtigenden Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010410123)
 
 (Fundstelle BGBl. I 2014, 363 – 367;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -17827,6 +17961,7 @@ und im Fahreignungs-Bewertungssystem wie folgt zu bewerten:
 (zu § 66 Absatz 2)
 
 ### Anlage 14 Voraussetzungen für die amtliche Anerkennung als Träger von Begutachtungsstellen für Fahreignung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010502360)
 
 (Fundstelle: BGBl. I 2014, 368 – 369; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -17957,6 +18092,7 @@ beizufügen:
 (zu § 71a Absatz 3)
 
 ### Anlage 14a Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Eignung der eingesetzten psychologischen Testverfahren und -geräte und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012100360)
 
 (Fundstelle: BGBl. I 2017, 3238)
 
@@ -18041,6 +18177,7 @@ erfüllt:
 (zu § 70 Absatz 2)
 
 ### Anlage 15 Voraussetzungen für die amtliche Anerkennung als Träger von Kursen zur Wiederherstellung der Kraftfahreignung
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE010603360)
 
 (Fundstelle: BGBl. I 2014, 370 – 371; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -18141,6 +18278,7 @@ spätestens alle 10 Jahren erneut zu evaluieren.
 (zu § 71b)
 
 ### Anlage 15a Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Geeignetheit von Kursen zur Wiederherstellung der Kraftfahreignung und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE012200360)
 
 (Fundstelle: BGBl. I 2017, 3239)
 
@@ -18227,6 +18365,7 @@ erfüllt:
 (zu § 42 Absatz 2)
 
 ### Anlage 16 Rahmenlehrplan für die Durchführung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011100305)
 
 (Fundstelle: BGBl. I 2013, 3930 - 3932)
 
@@ -18792,6 +18931,7 @@ erfüllt:
 (zu § 43a Nummer 3 Buchstabe a)
 
 ### Anlage 17 Inhalte der Prüfung im Rahmen der Qualitätssicherung der Fahreignungsseminare und Einweisungslehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011401116)
 
 (Fundstelle: BGBl. I 2014, 372; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -18933,6 +19073,7 @@ Fußnote)
 (zu § 44 Absatz 1)
 
 ### Anlage 18 
+[Direktlink](https://www.gesetze-im-internet.de/fev_2010/BJNR198000010.html#BJNR198000010BJNE011501305)
 
 (Fundstelle: BGBl. I 2014, 373,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000100000)
 
 Dieses Gesetz regelt die Erprobung von Verfahren eines Zensus, bei dem
 die Daten aus vorhandenen Datenbeständen gewonnen werden
@@ -28,6 +30,7 @@ Bevölkerungsstatistiken. Das Bundesstatistikgesetz findet Anwendung.
 
 
 ### § 2 Aufgaben des Statistischen Bundesamtes und der statistischen Ämter der Länder
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000200000)
 
 (1) Das Statistische Bundesamt bereitet im Benehmen mit den
 statistischen Ämtern der Länder die Erprobung des Registerzensus
@@ -46,15 +49,18 @@ nach § 9 notwendige IT-Infrastruktur bleibt davon unberührt.
 
 
 ### § 3 Kosten der Datenübermittlung an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000300000)
 
 Die Kosten, die für die Übermittlung von Daten an das Statistische
 Bundesamt entstehen, werden nicht erstattet.
 
 
 ## Abschnitt 2 - Bevölkerungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNG000200000)
 
 
 ### § 4 Daten der Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000400000)
 
 (1) Die nach Landesrecht für das Meldewesen zuständigen Stellen
 (Meldebehörden) übermitteln den statistischen Ämtern der Länder zur
@@ -171,6 +177,7 @@ Stichtag zu löschen.
 
 
 ### § 5 Mehrfachfallprüfung; Ergänzende Bevölkerungsstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000500000)
 
 (1) Das Statistische Bundesamt prüft anhand der Daten nach § 4, ob
 Personen für mehr als eine alleinige Wohnung oder Hauptwohnung
@@ -191,6 +198,7 @@ Europäischen Union die Übermittlung derartiger Ergebnisse vorsehen.
 
 
 ### § 6 Verarbeitung von Daten aus dem Zensus 2022 zur Methodenentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000600000)
 
 Für Zwecke der Entwicklung von Methoden für den Registerzensus und der
 Erprobung von Verfahren zur Erstellung ergänzender
@@ -217,6 +225,7 @@ frühestmöglich, spätestens jedoch bis zum
 
 
 ### § 7 Übermittlung von Daten aus Vergleichsdatenbeständen
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000700000)
 
 (1) Die Stellen nach Absatz 2 übermitteln aus den dort genannten
 Datenbeständen einmalig zum Zensusstichtag 2022 zu Personen, die
@@ -359,6 +368,7 @@ jedoch drei Jahre nach der Übermittlung zu löschen.
 
 
 ### § 8 Zusammenführungen
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000800000)
 
 (1) Das Statistische Bundesamt darf die in § 4 genannten Daten für die
 Erstellung ergänzender Bevölkerungsstatistiken mit dem
@@ -386,6 +396,7 @@ Hilfsmerkmale.
 
 
 ### § 8a Klärung von Unstimmigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE000900000)
 
 (1) Soweit bei der Zusammenführung von Daten nach § 8 Absatz 2
 Unstimmigkeiten in Bezug auf die Anschrift festgestellt werden, dürfen
@@ -417,9 +428,11 @@ erlischt die Auskunftspflicht nach den Absätzen 2 und 3.
 
 
 ## Abschnitt 3 - Weitere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNG000300000)
 
 
 ### § 9 Verarbeitung von Daten aus dem Zensus 2022 und dem Mikrozensus für Zwecke europäischer Bevölkerungsstatistiken einschließlich Zensus
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE001000000)
 
 (1) Für Zwecke europäischer Bevölkerungsstatistiken einschließlich
 Zensus speichern die statistischen Ämter der Länder jeweils für ihren
@@ -457,6 +470,7 @@ jeweiligen Mikrozensus zu löschen.
 
 
 ### § 10 Einrichtungsregister
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE001100000)
 
 (1) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung
 von Bundes- und Landesstatistiken sowie für Auswertungszwecke ein
@@ -516,6 +530,7 @@ Erfüllung der Zwecke nach Satz 1 erforderlich ist.
 
 
 ### § 11 Durchführung von Untersuchungen zur Nutzung von Fernerkundungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/regzenserpg/BJNR164910021.html#BJNR164910021BJNE001200000)
 
 Für Untersuchungen zur Eignung von Fernerkundungsdaten für die
 Gewinnung und Qualitätssicherung von Daten zu Gebäuden und Wohnungen

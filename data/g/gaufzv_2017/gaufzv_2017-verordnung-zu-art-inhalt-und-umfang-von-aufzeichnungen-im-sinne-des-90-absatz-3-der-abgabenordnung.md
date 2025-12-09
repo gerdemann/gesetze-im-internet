@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 610-1-15 v. 13.11.2003 I 2296 (GAufzV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000100000)
 
 Auf Grund des § 90 Absatz 3 Satz 11 der Abgabenordnung, der durch
 Artikel 1 Nummer 2 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
@@ -27,6 +28,7 @@ Finanzen:
 
 
 ## § 1 Grundsätze der Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000200000)
 
 (1) Der Steuerpflichtige hat in den Aufzeichnungen, die über die
 Geschäftsbeziehungen im Sinne des § 1 Absatz 4 des Außensteuergesetzes
@@ -75,6 +77,7 @@ werden.
 
 
 ## § 2 Art, Inhalt und Umfang der Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000300000)
 
 (1) Aufzeichnungen über Geschäftsbeziehungen können in Papierform oder
 elektronisch erstellt werden. Sie sind ordnungsmäßig zu führen und
@@ -158,6 +161,7 @@ jederzeit nachgeholt, ergänzt oder geändert werden (§ 90 Absatz 3 Satz
 
 
 ## § 3 Zeitnahe Erstellung von Aufzeichnungen bei außergewöhnlichen Geschäftsvorfällen
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000400000)
 
 (1) Aufzeichnungen über außergewöhnliche Geschäftsvorfälle im Sinne
 des § 90 Absatz 3 Satz 8 der Abgabenordnung sind zeitnah erstellt,
@@ -194,6 +198,7 @@ anzusehen:
 
 
 ## § 4 Landesspezifische, unternehmensbezogene Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000500000)
 
 (1) Der Steuerpflichtige hat nach Maßgabe der §§ 1 bis 3 folgende
 Aufzeichnungen, soweit sie für die Prüfung von Geschäftsbeziehungen
@@ -385,6 +390,7 @@ sinngemäß.
 
 
 ## § 5 Stammdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000600000)
 
 (1) Steuerpflichtige, die nach § 90 Absatz 3 Satz 3 und 4 der
 Abgabenordnung eine Stammdokumentation zu erstellen haben, haben die
@@ -406,6 +412,7 @@ angemessenem Aufwand zu erreichen.
 
 
 ## § 6 Anwendungsregelungen für kleinere Unternehmen und für Steuerpflichtige mit anderen als Gewinneinkünften
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000700000)
 
 (1) Für Steuerpflichtige, die aus Geschäftsbeziehungen andere
 Einkünfte als Gewinneinkünfte beziehen, und für kleinere Unternehmen
@@ -448,12 +455,14 @@ Betragsgrenzen nach Absatz 2 zusammenzurechnen.
 
 
 ## § 7 Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000800000)
 
 Diese Verordnung ist erstmals für Wirtschaftsjahre anzuwenden, die
 nach dem 31. Dezember 2016 beginnen.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Gewinnabgrenzungsaufzeichnungsverordnung vom
@@ -463,12 +472,14 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 5)
 
 ## Anlage Umfang der Stammdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/gaufzv_2017/BJNR236700017.html#BJNR236700017BJNE001100000)
 
 (Fundstelle: BGBl. I 2017, 2371)
 

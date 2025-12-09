@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -33,6 +34,7 @@ Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000200310)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Handzuginstrumentenmacher/Handzuginstrumentenmacherin nach der
@@ -41,6 +43,7 @@ anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000300310)
 
 Der Ausbildungsberuf
 Handzuginstrumentenmacher/Handzuginstrumentenmacherin wird staatlich
@@ -48,11 +51,13 @@ anerkannt.
 
 
 ## § 3 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000400310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000500310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -146,6 +151,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000600310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -164,12 +170,14 @@ und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -178,6 +186,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -248,6 +257,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE001000310)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -407,6 +417,7 @@ sind.
 
 
 ## § 10 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE001100310)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
@@ -415,6 +426,7 @@ anzuwenden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE001200310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -423,12 +435,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE001300310)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 5 Abs. 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Handzuginstrumentenmacher/zur Handzuginstrumentenmacherin
+[Direktlink](https://www.gesetze-im-internet.de/hzinstrmmausbv/BJNR010000997.html#BJNR010000997BJNE001400310)
 
 (Fundstelle: BGBl. I 1997, S. 103 - 108)
 

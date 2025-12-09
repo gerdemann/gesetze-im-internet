@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ceptbek/BJNR018800977.html#BJNR018800977BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,11 +31,13 @@ Europäischen Konferenz der Verwaltungen für Post und Fernmeldewesen
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ceptbek/BJNR018800977.html#BJNR018800977BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Europäische Konferenz der Verwaltungen für Post und Fernmeldewesen (CEPT)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ceptbek/BJNR018800977.html#BJNR018800977BJNE000200303)
 
 Fundstelle: BGBl. I 1977, 1880)
 

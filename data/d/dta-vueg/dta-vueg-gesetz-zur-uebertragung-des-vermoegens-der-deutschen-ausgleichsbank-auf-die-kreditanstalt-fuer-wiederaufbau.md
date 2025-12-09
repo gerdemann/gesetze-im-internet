@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Übertragung des Vermögens der Deutschen Ausgleichsbank
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000200000)
 
 (1) Das Vermögen der Deutschen Ausgleichsbank einschließlich aller
 Rechte und Pflichten geht im Wege der Gesamtrechtsnachfolge auf die
@@ -32,6 +33,7 @@ die Kreditanstalt für Wiederaufbau.
 
 
 ## § 2 Kapitalrücklage
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000300000)
 
 (1) Die Kreditanstalt für Wiederaufbau weist das von der Deutschen
 Ausgleichsbank übernommene Eigenkapital als gesonderte Kapitalrücklage
@@ -42,6 +44,7 @@ Kreditanstalt für Wiederaufbau durch Vertrag.
 
 
 ## § 3 Haftung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000400000)
 
 Die Haftung des Bundes für die von der Deutschen Ausgleichsbank
 aufgenommenen Darlehen und begebenen Schuldverschreibungen, die als
@@ -53,6 +56,7 @@ fort.
 
 
 ## § 4 Neuregelung der Rechtsverhältnisse der Beschäftigten der Deutschen Ausgleichsbank
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000500000)
 
 (1) Der Übergang der Arbeitsverhältnisse der Beschäftigten der
 Deutschen Ausgleichsbank erfolgt in entsprechender Anwendung von §
@@ -82,6 +86,7 @@ Ausgleichsbank verbracht haben.
 
 
 ## § 5 Neuregelung der betrieblichen Altersversorgung für die Beschäftigten der Deutschen Ausgleichsbank
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000600000)
 
 (1) Beschäftigte, deren Pflichtversicherung bei der Versorgungsanstalt
 des Bundes und der Länder infolge der Beendigung der Beteiligung der
@@ -151,6 +156,7 @@ Wiederaufbau erreichte Einkommensniveau.
 
 
 ## § 6 Rechtsverhältnis zur Versorgungsanstalt des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000700000)
 
 Sofern für ehemalige Beschäftigte der Deutschen Ausgleichsbank die
 Pflichtversicherung bei der Versorgungsanstalt des Bundes und der
@@ -160,6 +166,7 @@ Versorgungsanstalt des Bundes und der Länder zu versichern.
 
 
 ## § 7 Übergangsmandat des örtlichen Personalrates Bonn
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000800000)
 
 Der örtliche Personalrat Bonn der Deutschen Ausgleichsbank hat nach
 Inkrafttreten dieses Gesetzes die Zuständigkeiten, die er als
@@ -170,6 +177,7 @@ für Wiederaufbau.
 
 
 ## § 8 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE000900000)
 
 Für die im Zusammenhang mit dem Vollzug dieses Gesetzes stehenden
 Amtshandlungen sind Gerichtskosten nach dem Ersten Teil der
@@ -177,6 +185,7 @@ Kostenordnung nicht zu erheben.
 
 
 ## § 9 Rückwirkung
+[Direktlink](https://www.gesetze-im-internet.de/dta-v_g/BJNR165710003.html#BJNR165710003BJNE001000000)
 
 Die Übertragung des Vermögens der Deutschen Ausgleichsbank erfolgt
 rückwirkend zum 1. Januar 2003. Sämtliche Geschäfte der Deutschen

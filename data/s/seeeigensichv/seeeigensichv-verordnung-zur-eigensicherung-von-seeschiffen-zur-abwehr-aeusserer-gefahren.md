@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck der Verordnung und Zuständigkeit des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000200000)
 
 (1) Diese Verordnung regelt die Einrichtung und Überwachung der zur
 Abwehr äußerer Gefahren für die Sicherheit des Schiffsverkehrs
@@ -56,6 +57,7 @@ anderes bestimmt ist.
 
 
 ## § 2 Verpflichtungen privater Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000300000)
 
 (1) Unternehmen im Sinne der Regel 1 Absatz 1.7 des Kapitels XI-2 der
 Anlage des SOLAS-Übereinkommens sind verpflichtet, den zuständigen
@@ -106,6 +108,7 @@ Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
 
 ## § 3 Anerkannte Stelle zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000400000)
 
 (1) Das Bundesamt kann sich
 
@@ -241,6 +244,7 @@ Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
 
 
 ## § 4 Beauftragte für die Gefahrenabwehr im Unternehmen und auf dem Schiff
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000500000)
 
 (1) Die Beauftragten für die Gefahrenabwehr im Unternehmen gemäß Teil
 A Abschnitt 11 des ISPS-Codes und auf dem Schiff gemäß Teil A
@@ -271,6 +275,7 @@ Informationen jederzeit und vollständig zur Verfügung zu stellen.
 
 
 ## § 5 Anerkennung von Fortbildungslehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000600000)
 
 (1) Nationale Fortbildungslehrgänge im Sinne des § 4 Abs. 1 werden vom
 Bundesamt auf Antrag anerkannt, wenn sie den Vorgaben der von der
@@ -292,6 +297,7 @@ ungültig zu erklären.
 
 
 ## § 6 Risikobewertung
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000700000)
 
 (1) Der Beauftragte für die Gefahrenabwehr im Unternehmen gemäß Teil A
 Abschnitt 11 des ISPS-Codes ist für die Erstellung und Überprüfung der
@@ -310,6 +316,7 @@ Unternehmen gemäß Teil A Abschnitt 8.2 in Verbindung mit Abschnitt
 
 
 ## § 7 Plan zur Gefahrenabwehr auf dem Schiff
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000803305)
 
 (1) Der Beauftragte für die Gefahrenabwehr im Unternehmen ist für die
 Erstellung und Fortschreibung des Plans zur Gefahrenabwehr auf dem
@@ -453,6 +460,7 @@ Schiffes für unbefugte Dritte unzugänglich aufzubewahren.
 
 
 ## § 8 Internationales Zeugnis über die Gefahrenabwehr an Bord eines Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE000900000)
 
 (1) Liegen die in Teil A Abschnitt 19.1 des ISPS-Codes genannten
 Voraussetzungen vor, so stellt das Bundesamt ein Internationales
@@ -477,6 +485,7 @@ Zeugnisses genannten Voraussetzungen nicht mehr erfüllt sind.
 
 
 ## § 9 Sicherheitserklärung
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE001000000)
 
 (1) Der Beauftragte für die Gefahrenabwehr auf dem Schiff trägt dafür
 Sorge, dass erst bei Vorliegen einer Sicherheitserklärung nach Teil A
@@ -533,6 +542,7 @@ Ausstellung an Bord aufzubewahren.
 
 
 ## § 10 Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE001102360)
 
 (1) Gemäß der Regel 7 des Kapitels XI-2 der Anlage des SOLAS-
 Übereinkommens wird eine Zentrale Kontaktstelle des Bundes im
@@ -606,6 +616,7 @@ Zentralen Kontaktstelle mitzuteilen.
 
 
 ## § 11 Schulungen und Übungen
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE001202305)
 
 (1) Schulungen sind gemäß Teil A Abschnitt 13.4 in Verbindung mit Teil
 B Abschnitt 13.6 des ISPS-Codes vom Beauftragten zur Gefahrenabwehr
@@ -637,6 +648,7 @@ eines anderen Flaggenstaates wird als gleichwertig anerkannt.
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE001301311)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -693,6 +705,7 @@ Seeschifffahrt und Hydrographie übertragen.
 
 
 ## § 13 ISO-Normen
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE001400000)
 
 ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind im
 Beuth-Verlag GmbH, Berlin, erschienen und beim Deutschen Patent- und
@@ -700,6 +713,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 ## § 14 Übergangsvorschrift zu § 7 Absatz 2a
+[Direktlink](https://www.gesetze-im-internet.de/seeeigensichv/BJNR278710005.html#BJNR278710005BJNE001500311)
 
 Anträge nach § 7 Absatz 2a auf Genehmigung des Zusatzes zu dem Plan
 zur Gefahrenabwehr auf dem Schiff nach § 7 Absatz 1b in der ab dem 1.

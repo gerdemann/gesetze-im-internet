@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000200000)
 
 (1) Dieses Gesetz gilt für Reservistendienst Leistende.
 Reservistendienst Leistende sind Personen, die Wehrdienst nach dem
@@ -57,6 +59,7 @@ anzuwenden.
 
 
 ### § 2 Teilzeit
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000301377)
 
 Bei Teilzeitbeschäftigung nach § 30a Absatz 1 des Soldatengesetzes
 werden Leistungen nach den §§ 5 bis 9, 11 und 14 anteilig gewährt. Die
@@ -66,6 +69,7 @@ und 13 werden bei Teilzeit anteilig gezählt.
 
 
 ### § 3 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000400000)
 
 Wenn die Durchführung der Vorschriften dieses Gesetzes im Einzelfall
 zu einer offenbar nicht beabsichtigten Härte führen würde, kann im
@@ -74,6 +78,7 @@ für jeden Wehrdiensttag gewährt werden.
 
 
 ### § 4 Ruhen der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000500000)
 
 Die Leistungen nach diesem Gesetz ruhen
 
@@ -91,12 +96,15 @@ Die Leistungen nach diesem Gesetz ruhen
 
 
 ## Kapitel 2 - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000200000)
 
 
 ### Abschnitt 1 - Leistungen zur Sicherung des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000300000)
 
 
 #### § 5 Leistungen an Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000600000)
 
 (1) Arbeitnehmerinnen und Arbeitnehmern, die Reservistendienst
 leisten, wird der Verdienstausfall in Höhe des um die gesetzlichen
@@ -111,6 +119,7 @@ Dienstleistung höchstens 301 Euro.
 
 
 #### § 6 Leistungen an Selbständige
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000700000)
 
 Reservistendienst Leistende, die Inhaberinnen oder Inhaber eines
 Betriebs der Land- und Forstwirtschaft oder eines Gewerbebetriebs sind
@@ -127,6 +136,7 @@ Satz 1 ermittelten Einkünfte.
 
 
 #### § 7 Zusammentreffen mehrerer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000800000)
 
 Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70
 Prozent des nicht ausgeschöpften Höchstbetrags nach § 6 Satz 1
@@ -134,6 +144,7 @@ gewährt.
 
 
 #### § 8 Mindestleistung
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE000901377)
 
 (1) Reservistendienst Leistende erhalten nach ihrer Wahl statt der
 Leistungen nach den §§ 5 und 6 für jeden Tag der Dienstleistung einen
@@ -161,6 +172,7 @@ Leistungen, jeweils gemindert um die gesetzlichen Abzüge, angerechnet:
 
 
 #### § 9 Leistungen für Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001002377)
 
 Leisten Versorgungsempfängerinnen und Versorgungsempfänger
 Reservistendienst, so erhalten sie mindestens die Differenz aus
@@ -189,9 +201,11 @@ Reservistendienst, so erhalten sie mindestens die Differenz aus
 
 
 ### Abschnitt 2 - Prämie, Dienstgeld, Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000400000)
 
 
 #### § 10 Kaufkraftausgleich
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001100000)
 
 Die Leistungen nach den §§ 11 sowie 15 bis 19 unterliegen dem
 Kaufkraftausgleich in entsprechender Anwendung von § 55 des
@@ -202,12 +216,14 @@ unterliegt.
 
 
 #### § 11 Prämie
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001200000)
 
 Reservistendienst Leistende erhalten für jeden Tag Reservistendienst
 eine Prämie nach Spalte 2 der Tabelle in Anlage 2.
 
 
 #### § 11a Prämie für besondere Einsatzbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE003401377)
 
 (1) Reservistendienst Leistenden kann für ihre Verwendung bei der
 Herbeiführung eines im besonderen öffentlichen Interesse liegenden
@@ -225,6 +241,7 @@ entsprechend.
 
 
 #### § 12 Zuschlag für längeren Dienst
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001300000)
 
 Reservistendienst Leistende erhalten einen Zuschlag von 70 Euro pro
 Tag ab dem 15. Tag Reservistendienst im Kalenderjahr, höchstens jedoch
@@ -233,6 +250,7 @@ Verpflichtungsvereinbarung nach § 13 abgeschlossen ist.
 
 
 #### § 13 Zuschlag für die Verpflichtung zu längerem Dienst
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001400000)
 
 Reservistendienst Leistende, die sich vor dem ersten Tag eines
 Reservistendienstes auf Grund eines entsprechenden Angebots
@@ -254,6 +272,7 @@ Verpflichtung einen Zuschlag von 35 Euro je Tag, höchstens jedoch
 
 
 #### § 14 Dienstgeld
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001500000)
 
 Reservistendienst Leistende erhalten für Dienstleistungen an einem
 Samstag, einem Sonntag und einem gesetzlichen Feiertag sowie für eine
@@ -263,6 +282,7 @@ geleistet wird, wird die zweite Prämie nicht gewährt.
 
 
 #### § 15 Zuschlag für herausgehobene Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001600000)
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag
 für die Dauer der Wahrnehmung einer herausgehobenen Funktion unter den
@@ -275,6 +295,7 @@ nach Anlage IX des Bundesbesoldungsgesetzes.
 
 
 #### § 16 Zuschlag für besondere Erschwernisse
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001700000)
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag
 zur Abgeltung besonderer Erschwernisse, sofern sie Aufgaben unter den
@@ -288,6 +309,7 @@ Rechtsverordnung.
 
 
 #### § 17 Zuschlag für besondere zeitliche Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001801377)
 
 (1) Reservistendienst Leistende erhalten einen Zuschlag für jede
 Dienstleistung, für die Besoldungsempfängerinnen und
@@ -302,6 +324,7 @@ gewährt werden.
 
 
 #### § 18 Auslandsverwendungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE001900000)
 
 (1) Reservistendienst Leistende, die an einer besonderen Verwendung im
 Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes
@@ -320,6 +343,7 @@ Auslandsverwendungszuschlags gewährt.
 
 
 #### § 19 Auslandszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002000000)
 
 (1) Reservistendienst Leistende erhalten einen Zuschlag, wenn
 Berufssoldatinnen und Berufssoldaten sowie Soldatinnen auf Zeit und
@@ -332,9 +356,11 @@ Anlage 2.
 
 
 ### Abschnitt 3 - Sachleistungen
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000500000)
 
 
 #### § 20 Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002100000)
 
 (1) Reservistendienst Leistenden, die auf Grund dienstlicher Anordnung
 verpflichtet sind, in einer Gemeinschaftsunterkunft zu wohnen, wird
@@ -346,6 +372,7 @@ Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
 
 #### § 21 Dienstkleidung und Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002200000)
 
 Reservistendienst Leistenden werden die Dienstkleidung und die
 Ausrüstung unentgeltlich bereitgestellt. Reservistendienst Leistende,
@@ -356,6 +383,7 @@ durch Verwaltungsvorschrift.
 
 
 #### § 22 Heilfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002300000)
 
 (1) Reservistendienst Leistende haben Anspruch auf Heilfürsorge in
 Form der unentgeltlichen truppenärztlichen Versorgung. § 69a des
@@ -369,6 +397,7 @@ einer Wehrdienstbeschädigung.
 
 
 #### § 23 Verpflegung, Verpflegungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002400000)
 
 (1) Reservistendienst Leistende, die für die Dauer eines auswärtigen
 Dienstgeschäftes außerhalb von Dienstreisen auf Grund dienstlicher
@@ -404,13 +433,16 @@ die §§ 3 und 4 der Trennungsgeldverordnung und im Ausland die §§ 7 und
 
 
 ## Kapitel 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000600000)
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002501377)
 
 
 
 ### § 25 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002600000)
 
 (1) Die Leistungen nach den §§ 5 bis 9, 14 und 19 werden auf Antrag
 gewährt.
@@ -420,12 +452,14 @@ Beendigung des geleisteten Reservistendienstes.
 
 
 ### § 26 Leistungsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002700000)
 
 Bemisst sich der Anspruch auf Leistungen nach Tagen, wird der Monat
 mit 30 Tagen berechnet.
 
 
 ### § 27 Auskunfts- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002801377)
 
 (1) Reservistendienst Leistende, die Leistungen nach § 8 Absatz 1 Satz
 1 beantragen, haben Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz
@@ -466,6 +500,7 @@ diesem Gesetz erforderlich ist.
 
 
 ### § 28 Folgen fehlender Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE002900000)
 
 (1) Kommt eine Antragstellerin oder ein Antragsteller oder eine
 Leistungsempfängerin oder ein Leistungsempfänger einer
@@ -491,6 +526,7 @@ werden.
 
 
 ### § 29 Vertretung der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE003000000)
 
 Die Bundesministerin der Verteidigung oder der Bundesminister der
 Verteidigung kann die Vertretung der Bundesrepublik Deutschland in
@@ -499,9 +535,11 @@ Rechtsstreitigkeiten nach diesem Gesetz durch allgemeine Anordnung
 
 
 ## Kapitel 4 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNG000700000)
 
 
 ### § 30 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE003100000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -528,6 +566,7 @@ Personalmanagement der Bundeswehr.
 (zu § 8)
 
 ### Anlage 1 Mindestleistung
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE003200000)
 
 (Fundstelle: BGBl. I 2019, 1184)
 
@@ -767,6 +806,7 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 (zu den §§ 11, 14 und 19)
 
 ### Anlage 2 Prämie, Dienstgeld, Auslandszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/usg_2020/BJNR117900019.html#BJNR117900019BJNE003300000)
 
 (Fundstelle: BGBl. I 2019, 1185)
 

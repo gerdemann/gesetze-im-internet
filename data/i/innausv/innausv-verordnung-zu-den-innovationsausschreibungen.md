@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000101119)
 
 Diese Verordnung regelt die Innovationsausschreibungen nach § 39n des
 Erneuerbare-Energien-Gesetzes.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000202119)
 
 Im Sinne dieser Verordnung ist:
 
@@ -55,6 +57,7 @@ Im Sinne dieser Verordnung ist:
 
 
 ## § 3 Anwendung des Erneuerbare-Energien-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000303311)
 
 (1) Die Regelungen des Erneuerbare-Energien-Gesetzes sind bei
 Innovationsausschreibungen entsprechend anzuwenden, sofern in dieser
@@ -69,16 +72,19 @@ Verordnung nicht etwas anderes regelt, anzuwenden.
 
 
 ## § 4 Teilnahmeberechtigte Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000401128)
 
 In den Innovationsausschreibungen können nur Gebote für
 Anlagenkombinationen abgegeben werden.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000503311)
 
 
 
 ## § 6 Weitere Anforderungen an Gebote für Anlagenkombinationen
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000602123)
 
 (1) Ein Gebot für Anlagenkombinationen darf nur für Anlagen abgegeben
 werden, die vor dem jeweiligen Gebotstermin noch nicht in Betrieb
@@ -125,10 +131,12 @@ Leistung.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000701119)
 
 
 
 ## § 8 Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000801119)
 
 (1) Betreiber von Anlagen oder Anlagenkombinationen, die einen
 Zuschlag nach dieser Verordnung erhalten haben, haben für den in
@@ -161,6 +169,7 @@ verwenden.
 
 
 ## § 9 Verringerung des Zahlungsanspruchs bei negativen Preisen
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE000902128)
 
 Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der
 Innovationsauschreibung erhalten, verringert sich der anzulegende Wert
@@ -169,6 +178,7 @@ Erneuerbare-Energien-Gesetzes negativ ist, auf null.
 
 
 ## § 10 Höchstwert
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001001128)
 
 (1) Der Höchstwert beträgt 7,5 Cent pro Kilowattstunde.
 
@@ -181,6 +191,7 @@ zu legen.
 
 
 ## § 11 Zuschlagserteilung, Zuschlagsbegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001103311)
 
 (1) Die Bundesnetzagentur prüft die Zulässigkeit der Gebote nach den
 §§ 33 und 34 des Erneuerbare-Energien-Gesetzes und nach den §§ 5 und
@@ -193,10 +204,12 @@ Nachweise sowie den Zuschlagswert.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001202119)
 
 
 
 ## § 13 Weitere Bestimmungen zu Anlagenkombinationen
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001304311)
 
 (1) Zuschläge für Anlagenkombinationen erlöschen 30 Monate nach der
 öffentlichen Bekanntgabe des Zuschlags, sofern die
@@ -248,6 +261,7 @@ Zuwendungen sein darf.
 
 
 ## § 13a Erstattung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001600128)
 
 (1) Die Bundesnetzagentur gibt unverzüglich die hinterlegte Sicherheit
 für ein bestimmtes Gebot zurück, wenn der Bieter
@@ -270,6 +284,7 @@ Sicherheit in voller Höhe.
 
 
 ## § 14 Beihilferechtlicher Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001402119)
 
 Die §§ 2, 3, 5, 7, 8, 9 und 11 dürfen erst nach der
 beihilferechtlichen Genehmigung durch die Europäische Kommission und
@@ -282,22 +297,27 @@ Fassung anzuwenden.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001503119)
 
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001701119)
 
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001802119)
 
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE001901119)
 
 
 
 ## § 19 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE002003128)
 
 (1) Für Anlagen, deren Zuschläge in einem Zuschlagsverfahren eines
 Gebotstermins vor dem 1. Dezember 2022 ermittelt worden sind, ist
@@ -319,6 +339,7 @@ negativ ist.
 
 
 ## § 20 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/innausv/BJNR010610020.html#BJNR010610020BJNE002100128)
 
 Diese Verordnung tritt zum 31. Dezember 2028 außer Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000104308)
 
 (1) Durch Altersteilzeitarbeit soll älteren Arbeitnehmern ein
 gleitender Übergang vom Erwerbsleben in die Altersrente ermöglicht
@@ -41,6 +42,7 @@ durch die Bundesagentur nach § 4 gefördert wird.
 
 
 ## § 2 Begünstigter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000212126)
 
 (1) Leistungen werden für Arbeitnehmer gewährt, die
 
@@ -122,6 +124,7 @@ Satz 1 genannten Zeitraum von sechs Jahren zu erbringen.
 
 
 ## § 3 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000309126)
 
 (1) Der Anspruch auf die Leistungen nach § 4 setzt voraus, daß
 
@@ -201,6 +204,7 @@ Arbeitsleistung erfolgt.
 
 
 ## § 4 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000403308)
 
 (1) Die Bundesagentur erstattet dem Arbeitgeber für längstens sechs
 Jahre
@@ -232,6 +236,7 @@ befreit wäre.
 
 
 ## § 5 Erlöschen und Ruhen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000503301)
 
 (1) Der Anspruch auf die Leistungen nach § 4 erlischt
 
@@ -292,6 +297,7 @@ Anwendung.
 
 
 ## § 6 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000605308)
 
 (1) Das Regelarbeitsentgelt für die Altersteilzeitarbeit im Sinne
 dieses Gesetzes ist das auf einen Monat entfallende vom Arbeitgeber
@@ -312,6 +318,7 @@ Stunde gerundet werden.
 
 
 ## § 7 Berechnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000703308)
 
 (1) Ein Arbeitgeber beschäftigt in der Regel nicht mehr als 50
 Arbeitnehmer, wenn er in dem Kalenderjahr, das demjenigen, für das die
@@ -351,6 +358,7 @@ Sozialgesetzbuch zu berücksichtigen.
 
 
 ## § 8 Arbeitsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000803301)
 
 (1) Die Möglichkeit eines Arbeitnehmers zur Inanspruchnahme von
 Altersteilzeitarbeit gilt nicht als eine die Kündigung des
@@ -378,6 +386,7 @@ Anspruch auf eine Rente wegen Alters hat, ist zulässig.
 
 
 ## § 8a Insolvenzsicherung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002301308)
 
 (1) Führt eine Vereinbarung über die Altersteilzeitarbeit im Sinne von
 § 2 Abs. 2 zum Aufbau eines Wertguthabens, das den Betrag des
@@ -432,6 +441,7 @@ eine Gemeinde kraft Gesetzes die Zahlungsfähigkeit sichert.
 
 
 ## § 9 Ausgleichskassen, gemeinsame Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE000901308)
 
 (1) Werden die Leistungen nach § 3 Abs. 1 Nr. 1 auf Grund eines
 Tarifvertrages von einer Ausgleichskasse der Arbeitgeber erbracht oder
@@ -443,6 +453,7 @@ Tarifvertragsparteien die Leistungen nach § 4 der Ausgleichskasse.
 
 
 ## § 10 Soziale Sicherung des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001010126)
 
 (1) Beansprucht ein Arbeitnehmer, der Altersteilzeitarbeit (§ 2)
 geleistet hat und für den der Arbeitgeber Leistungen nach § 3 Abs. 1
@@ -498,6 +509,7 @@ Beiträge gezahlt werden.
 
 
 ## § 11 Mitwirkungspflichten des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001101308)
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse,
 die für die Leistungen nach § 4 erheblich sind, dem Arbeitgeber
@@ -524,6 +536,7 @@ nicht in Betracht.
 
 
 ## § 12 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001206311)
 
 (1) Die Agentur für Arbeit entscheidet auf Antrag des Arbeitgebers, ob
 die Voraussetzungen für die Erbringung von Leistungen nach § 4
@@ -577,6 +590,7 @@ Höhe zuerkannt wird.
 
 
 ## § 13 Auskünfte und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001304124)
 
 Die §§ 315 und 319 des Dritten Buches und das Zweite Kapitel des
 Zehnten Buches Sozialgesetzbuch gelten entsprechend. § 2 Abs. 1 Satz 1
@@ -584,6 +598,7 @@ Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes bleibt unberührt.
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001406140)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -627,10 +642,12 @@ Ordnungswidrigkeiten.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001506119)
 
 
 
 ## § 15a Übergangsregelung nach dem Gesetz zur Reform der Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001701308)
 
 Haben die Voraussetzungen für die Erbringung von Leistungen nach § 4
 vor dem 1. April 1997 vorgelegen, erbringt die Bundesagentur die
@@ -640,6 +657,7 @@ vorliegen.
 
 
 ## § 15b Übergangsregelung nach dem Gesetz zur Reform der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001801308)
 
 Abweichend von § 5 Abs. 1 Nr. 2 erlischt der Anspruch auf die
 Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1. Juli
@@ -649,6 +667,7 @@ versicherte Beschäftigung oder Tätigkeit vorliegen.
 
 
 ## § 15c Übergangsregelung nach dem Gesetz zur Fortentwicklung der Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001901308)
 
 Ist eine Vereinbarung über Altersteilzeitarbeit vor dem 1. Januar 2000
 abgeschlossen worden, erbringt die Bundesagentur die Leistungen nach §
@@ -657,6 +676,7 @@ der bis zum 1. Januar 2000 geltenden Fassung vorliegen.
 
 
 ## § 15d Übergangsregelung zum Zweiten Gesetz zur Fortentwicklung der Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002000308)
 
 Ist eine Vereinbarung über Altersteilzeitarbeit vor dem 1. Juli 2000
 abgeschlossen worden, gelten § 5 Abs. 2 Satz 2 und § 6 Abs. 2 Satz 2
@@ -667,6 +687,7 @@ der ab dem 1. Juli 2000 geltenden Fassung.
 
 
 ## § 15e Übergangsregelung nach dem Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002100308)
 
 Abweichend von § 5 Abs. 1 Nr. 2 erlischt der Anspruch auf die
 Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 17.
@@ -676,6 +697,7 @@ Rente wegen Alters besteht, weil die Voraussetzungen nach § 236a Satz
 
 
 ## § 15f Übergangsregelung nach dem Zweiten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002200308)
 
 Wurde mit der Altersteilzeit vor dem 1. April 2003 begonnen, gelten
 Arbeitnehmer, die bis zu diesem Zeitpunkt in einer
@@ -687,6 +709,7 @@ versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
 
 ## § 15g Übergangsregelung zum Dritten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002400308)
 
 Wurde mit der Altersteilzeitarbeit vor dem 1. Juli 2004 begonnen, sind
 die Vorschriften in der bis zum 30. Juni 2004 geltenden Fassung mit
@@ -697,6 +720,7 @@ in der ab dem 1. Juli 2004 geltenden Fassung, wenn die hierfür ab dem
 
 
 ## § 15h Übergangsregelung zum Gesetz über Leistungsverbesserungen in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002401360)
 
 Abweichend von § 5 Absatz 1 Nummer 2 erlischt der Anspruch auf die
 Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1.
@@ -706,6 +730,7 @@ Anspruch auf eine Rente für besonders langjährig Versicherte nach §
 
 
 ## § 15i Übergangsregelung zum Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002500119)
 
 Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten
 Arbeitnehmerinnen und Arbeitnehmer, die bis zu diesem Zeitpunkt in
@@ -717,6 +742,7 @@ versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
 
 ## § 15j Übergangsregelungen zum Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE002501311)
 
 Erhöht sich durch eine Anpassung des Mindestlohnes die
 Geringfügigkeitsgrenze nach § 8 Absatz 1a des Vierten Buches
@@ -744,6 +770,7 @@ Absatz 1 Satz 1 des Mindestlohngesetzes jeweils erlassenen Verordnung.
 
 
 ## § 16 Befristung der Förderungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/alttzg_1996/BJNR107810996.html#BJNR107810996BJNE001603308)
 
 Für die Zeit ab dem 1. Januar 2010 sind Leistungen nach § 4 nur noch
 zu erbringen, wenn die Voraussetzungen des § 2 erstmals vor diesem

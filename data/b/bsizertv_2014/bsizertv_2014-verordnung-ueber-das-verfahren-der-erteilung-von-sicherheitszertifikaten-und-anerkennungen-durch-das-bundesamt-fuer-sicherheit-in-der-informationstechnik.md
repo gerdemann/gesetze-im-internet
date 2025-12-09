@@ -32,6 +32,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000101129)
 
 Auf Grund des § 56 Absatz 1 des BSI-Gesetzes vom 2. Dezember 2025
 (BGBl. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des
@@ -40,9 +41,11 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000201129)
 
 Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt)
 erteilt Zertifikate und Anerkennungen gemäß § 52 des BSI-Gesetzes nach
@@ -50,12 +53,14 @@ dieser Verordnung.
 
 
 ### § 2 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000300000)
 
 Anträge müssen schriftlich eingereicht werden und den Namen und die
 Anschrift des Antragstellers sowie das Datum des Antrags enthalten.
 
 
 ### § 3 Vorlage und Aufbewahrung von Unterlagen und sonstigen Beweismitteln
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000400000)
 
 (1) Der Antrag, die mit dem Antrag eingereichten Unterlagen und die im
 Zertifizierungs- oder Anerkennungsverfahren anfallenden Unterlagen
@@ -75,6 +80,7 @@ jederzeit auf Anfrage kostenfrei zur Verfügung zu stellen.
 
 
 ### § 4 Prüfkriterien, Anforderungen, sachliche Geltungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000500000)
 
 (1) Das Bundesamt bestimmt, soweit erforderlich, für Zertifizierungs-
 und Anerkennungsverfahren nach dieser Verordnung
@@ -115,6 +121,7 @@ notwendigen Sicherheitsvorkehrungen einzuhalten.
 
 
 ### § 5 Form der Entscheidungen; Anhörungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000601116)
 
 (1) Entscheidungen, mit denen abschließend über einen nach dieser
 Verordnung gestellten Antrag entschieden wird, sind schriftlich oder
@@ -132,6 +139,7 @@ Verwaltungsverfahrensgesetzes anzuhören.
 
 
 ### § 6 Mitwirkungsobliegenheit des Antragstellers
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000700000)
 
 (1) Das Bundesamt stellt die Tatsachen fest, die notwendig sind, um
 den für die Zertifizierung oder Anerkennung relevanten Sachverhalt zu
@@ -147,6 +155,7 @@ sicherzustellen.
 
 
 ### § 7 Veröffentlichung von Zertifikaten und Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000800000)
 
 (1) Das Bundesamt veröffentlicht mindestens vierteljährlich im
 Internet oder in anderen Medien Gesamtlisten oder seit der letzten
@@ -187,9 +196,11 @@ Interessen beeinträchtigt würden.
 
 
 ## Abschnitt 2 - Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000200000)
 
 
 ### § 8 Zertifizierung von informationstechnischen Produkten oder Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE000900000)
 
 (1) Ein Antrag auf Zertifizierung von informationstechnischen
 Produkten oder Komponenten kann von einer natürlichen oder
@@ -240,6 +251,7 @@ Folgendes enthalten:
 
 
 ### § 9 Zertifizierung von informationstechnischen Systemen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001000000)
 
 (1) Ein Antrag auf Zertifizierung von informationstechnischen Systemen
 kann nur von dem Betreiber des zu zertifizierenden Systems gestellt
@@ -277,6 +289,7 @@ Folgendes enthalten:
 
 
 ### § 10 Zertifizierung von Schutzprofilen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001100000)
 
 (1) Ein Antrag auf Zertifizierung von Schutzprofilen kann nur von
 einer Vereinigung von Herstellern oder Anwendern von
@@ -314,6 +327,7 @@ Folgendes enthalten:
 
 
 ### § 11 Mitwirkungsobliegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001200000)
 
 (1) Zur Zertifizierung von informationstechnischen Produkten oder
 Komponenten obliegt es dem Antragsteller, kostenfrei dem Bundesamt und
@@ -348,6 +362,7 @@ durchzuführen.
 
 
 ### § 12 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001302129)
 
 (1) Ein Zertifikat nach § 52 Absatz 4 des BSI-Gesetzes wird erteilt,
 wenn
@@ -445,6 +460,7 @@ Internetseite.
 
 
 ### § 13 Rückgabe von informationstechnischen Produkten oder Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001400000)
 
 Vom Antragsteller an das Bundesamt übergebene informationstechnische
 Produkte oder Komponenten werden dem Antragsteller am Ort der Prüfung
@@ -453,9 +469,11 @@ dass das Produkt oder die Komponente beim Bundesamt aufbewahrt wird.
 
 
 ## Abschnitt 3 - Zertifizierung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000300000)
 
 
 ### § 14 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001500000)
 
 (1) Ein Antrag auf Zertifizierung einer Person kann nur von der Person
 gestellt werden, die die Zertifizierung erhalten möchte.
@@ -479,6 +497,7 @@ Folgendes enthalten:
 
 
 ### § 15 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001602129)
 
 (1) Ein Zertifikat für Personen nach § 52 Absatz 6 des BSI-Gesetzes
 wird erteilt, wenn
@@ -533,9 +552,11 @@ veröffentlicht diese auf seiner Internetseite.
 
 
 ## Abschnitt 4 - Zertifizierung von IT-Sicherheitsdienstleistern
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000400000)
 
 
 ### § 16 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001700000)
 
 (1) Ein Antrag auf Zertifizierung als IT-Sicherheitsdienstleister kann
 nur von dem IT-Sicherheitsdienstleister gestellt werden, der die
@@ -573,6 +594,7 @@ Folgendes enthalten:
 
 
 ### § 17 Mitwirkungsobliegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001800000)
 
 (1) Es obliegt dem Antragsteller, im Rahmen des Verfahrens dem
 Bundesamt oder den vom Bundesamt beauftragten Personen, soweit
@@ -585,6 +607,7 @@ fachkompetente Vertreter zu unterstützen.
 
 
 ### § 18 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE001902129)
 
 (1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 52 Absatz 6
 des BSI-Gesetzes wird erteilt, wenn
@@ -643,9 +666,11 @@ veröffentlicht diese auf seiner Internetseite.
 
 
 ## Abschnitt 5 - Anerkennung von sachverständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000500000)
 
 
 ### § 19 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE002000000)
 
 (1) Ein Antrag auf Anerkennung als sachverständige Stelle kann nur von
 der Stelle gestellt werden, die die Anerkennung erhalten möchte.
@@ -688,6 +713,7 @@ angemessener Zeit nicht durchführen kann und an einer Anerkennung ein
 
 
 ### § 20 Mitwirkungsobliegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE002100000)
 
 (1) Es obliegt dem Antragsteller, im Rahmen des Verfahrens dem
 Bundesamt oder den vom Bundesamt beauftragten Personen, soweit
@@ -700,6 +726,7 @@ fachkompetente Vertreter zu unterstützen.
 
 
 ### § 21 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE002202129)
 
 (1) Eine Anerkennung nach § 52 Absatz 7 des BSI-Gesetzes wird erteilt,
 wenn
@@ -760,9 +787,11 @@ seiner Internetseite.
 
 
 ## Abschnitt 6 - Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000600000)
 
 
 ### § 22 Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE002300000)
 
 (1) Ein Zertifikat nach § 12, § 15 und § 18 sowie eine Anerkennung
 nach § 21 kann unter dem Vorbehalt des Widerrufs erlassen werden.
@@ -814,9 +843,11 @@ Befristungen, erlassen werden. Insbesondere kann bestimmt werden, dass
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNG000700000)
 
 
 ### § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsizertv_2014/BJNR223100014.html#BJNR223100014BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die BSI-Zertifizierungsverordnung vom 7. Juli 1992

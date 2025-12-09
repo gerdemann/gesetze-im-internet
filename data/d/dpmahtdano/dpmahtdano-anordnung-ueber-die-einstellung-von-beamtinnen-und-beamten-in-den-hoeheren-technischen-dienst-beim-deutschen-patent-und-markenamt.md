@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dpmahtdano/BJNR266800006.html#BJNR266800006BJNE000100000)
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
 über die Ernennung und Entlassung der Beamtinnen, Beamten,
@@ -29,17 +30,20 @@ und Beamten in den höheren technischen Dienst übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dpmahtdano/BJNR266800006.html#BJNR266800006BJNE000200000)
 
 Für besondere Fälle behalte ich mir die Einstellung der unter
 Abschnitt I genannten Beamtinnen und Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/dpmahtdano/BJNR266800006.html#BJNR266800006BJNE000300000)
 
 Diese Anordnung tritt am 1. Januar 2007 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmahtdano/BJNR266800006.html#BJNR266800006BJNE000400000)
 
 Die Bundesministerin der Justiz
 

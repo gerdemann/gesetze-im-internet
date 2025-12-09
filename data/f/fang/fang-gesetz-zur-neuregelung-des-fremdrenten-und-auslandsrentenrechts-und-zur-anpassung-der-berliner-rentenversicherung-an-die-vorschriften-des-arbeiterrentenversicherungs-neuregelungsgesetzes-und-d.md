@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE000901308)
 
 
 *    *
@@ -135,19 +136,23 @@ Zuletzt geändert durch
 
 
 ## Art 1 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000100319)
 
 -
 
 
 ## Art 6 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000200319)
 
 
 
 ### I. - Gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000300319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001000319)
 
 (1) Auf Grund der Satzung der früheren Eigenunfallversicherung der
 Nationalsozialistischen Deutschen Arbeiterpartei werden keine
@@ -162,6 +167,7 @@ Bundesausführungsbehörde für Unfallversicherung gewährt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001107360)
 
 (1) § 8 des Fremdrentengesetzes in der vor dem 1. August 1991
 geltenden Fassung findet weiter Anwendung auf Berechtigte, die
@@ -214,6 +220,7 @@ Berechtigte, deren Rente vor dem 7. Mai 1996 beginnt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001200319)
 
 §§ 1 bis 13 des Fremdrentengesetzes finden auf Arbeitsunfälle und
 Berufskrankheiten der in § 5 des Fremdrentengesetzes genannten Art
@@ -222,10 +229,12 @@ Auslandsrentengesetz nicht angewendet worden ist.
 
 
 ### II. - Gesetzliche Rentenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000400319)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001311360)
 
 (1) § 15 Abs. 1 Satz 3 des Fremdrentengesetzes ist nicht anzuwenden,
 wenn hierdurch eine besondere Härte vermieden wird. Mögliche
@@ -300,11 +309,13 @@ und Unfallversicherung haben.
 
 
 ### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003703308)
 
 § 22a des Fremdrentengesetzes gilt nicht für Personen nach § 4 Abs. 5.
 
 
 ### § 4b
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003800308)
 
 § 22b des Fremdrentengesetzes ist nicht für Berechtigte anzuwenden,
 die vor dem 7. Mai 1996 ihren gewöhnlichen Aufenthalt in der
@@ -312,6 +323,7 @@ Bundesrepublik Deutschland genommen haben.
 
 
 ### § 4c
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003902301)
 
 (1) Für Berechtigte, die vor dem 7. Mai 1996 ihren gewöhnlichen
 Aufenthalt im Gebiet der Bundesrepublik Deutschland genommen haben und
@@ -354,6 +366,7 @@ Sozialgesetzbuch findet Anwendung.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001402308)
 
 (1) Werden Zeiten der in §§ 15 und 16 des Fremdrentengesetzes
 genannten Art angerechnet, so sind zur Ermittlung der Entgeltpunkte
@@ -410,6 +423,7 @@ Bruttojahresarbeitsentgelte nur anteilmäßig berücksichtigt.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001501308)
 
 Personen, die am 1. Juli 1990 eine Rente aus der deutschen
 Rentenversicherung beziehen, haben Anspruch auf Neufeststellung der
@@ -421,23 +435,28 @@ mindestens der bisherige Zahlbetrag zu leisten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE004001308)
 
 (weggefallen)
 
 
 ### (XXXX) §§ 8 bis 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE001602308)
 
 
 
 ### III. - Anpassung der Berliner Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000500319)
 
 
 
 ### IV. - Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000600319)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE002704124)
 
 (1) Personen, die vor dem 9. Mai 1945 aus dem deutschen öffentlichen
 Dienst ausgeschieden sind und von anderen Rechtsträgern außerhalb des
@@ -510,6 +529,7 @@ aufgrund der Nachversicherung erwerben würden.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE002804124)
 
 Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes und
 frühere deutsche Staatsangehörige im Sinne des Artikels 116 Abs. 2
@@ -534,11 +554,13 @@ gilt entsprechend.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE002900319)
 
 -
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003003124)
 
 Angestellte, die vor dem 9. Mai 1945 im Dienst des Deutschen Reichs
 einschließlich der Deutschen Reichsbahn und der Deutschen Reichspost,
@@ -563,6 +585,7 @@ aufgrund der Nachversicherung erwerben würden.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003101308)
 
 (1) In § 1 Buchstabe d des Fremdrentengesetzes bezeichnete Personen,
 die am 1. September 1939 Angehörige des ausländischen öffentlichen
@@ -636,6 +659,7 @@ aufgrund der Nachversicherung erwerben würden.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003201308)
 
 (1) Die in § 1 Buchstabe d des Fremdrentengesetzes genannten Personen,
 die während des Krieges als ausländische Arbeitskräfte im Gebiet des
@@ -696,19 +720,23 @@ aufgrund der Nachversicherung erwerben würden.
 
 
 ### V. - Wirksamwerden der Verbesserungen
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000700319)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003301308)
 
 -
 
 
 ## Art 7 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNG000800319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003400319)
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
@@ -717,11 +745,13 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003500319)
 
 Dieses Gesetz gilt nicht im Saarland.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fang/BJNR000939960.html#BJNR000939960BJNE003601308)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.
 Mit dem gleichen Zeitpunkt treten unbeschadet der Absätze 2 und 3 alle

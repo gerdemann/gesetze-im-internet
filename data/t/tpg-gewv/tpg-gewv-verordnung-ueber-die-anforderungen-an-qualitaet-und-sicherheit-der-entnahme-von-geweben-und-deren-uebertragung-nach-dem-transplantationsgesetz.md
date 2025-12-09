@@ -46,6 +46,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000100000)
 
 Auf Grund des § 16a Satz 1 und 2 des Transplantationsgesetzes in der
 Fassung der Bekanntmachung vom 4. September 2007 (BGBl. I S. 2206)
@@ -54,6 +55,7 @@ Bundesärztekammer und weiterer Sachverständiger:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000200000)
 
 Diese Verordnung findet Anwendung auf Gewebeeinrichtungen im Sinne des
 § 1a Nr. 8 des Transplantationsgesetzes, die Gewebe im Sinne des § 1a
@@ -66,6 +68,7 @@ Transplantationsgesetzes übertragen.
 
 
 ## § 2 Anforderungen an die Entnahme von Geweben
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000300000)
 
 Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8d
 Abs. 1 Satz 2 Nr. 1 des Transplantationsgesetzes ist die
@@ -76,6 +79,7 @@ biologischen und physikalischen Eigenschaften erhalten bleiben.
 
 
 ## § 3 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000400000)
 
 (1) Die ärztliche Beurteilung zur medizinischen Eignung des toten
 Spenders nach § 8d Abs. 1 Satz 2 Nr. 2 des Transplantationsgesetzes
@@ -93,6 +97,7 @@ dass die in Anlage 2 genannten Anforderungen zu beachten sind.
 
 
 ## § 4 Anforderungen an Laboruntersuchungen und Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000500000)
 
 Bei den für Gewebespender erforderlichen Laboruntersuchungen im Sinne
 des § 8d Abs. 1 Satz 2 Nr. 3 des Transplantationsgesetzes hat die
@@ -104,6 +109,7 @@ in Anlage 3 Nr. 2 festgelegten Anforderungen einzuhalten.
 
 
 ## § 5 Anforderungen an Spenderakte und Entnahmebericht
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000603116)
 
 (1) Die Entnahmeeinrichtung legt vor der Entnahme oder Untersuchung
 eine Spenderakte an, in der ausschließlich folgende Angaben
@@ -203,6 +209,7 @@ freigegeben sind.
 
 
 ## § 6 Voraussetzungen für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000700000)
 
 (1) Für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer
 medizinisch unterstützten Befruchtung ist es erforderlich, dass nach
@@ -232,6 +239,7 @@ entsprechend.
 
 
 ## § 7 Dokumentation von übertragenen Geweben durch Einrichtungen der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000801116)
 
 Die Einrichtungen der medizinischen Versorgung haben zur Erfüllung
 ihrer Verpflichtung nach § 13a des Transplantationsgesetzes dafür zu
@@ -267,6 +275,7 @@ dokumentiert wird:
 
 
 ## § 8 Meldung schwerwiegender Zwischenfälle durch Einrichtungen der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE000901116)
 
 (1) Die Einrichtungen der medizinischen Versorgung errichten und
 unterhalten ein Verfahren zur Erfüllung ihrer Verpflichtung nach § 13b
@@ -302,6 +311,7 @@ sind mindestens:
 
 
 ## § 9 Meldung schwerwiegender unerwünschter Reaktionen durch Einrichtungen der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001001116)
 
 (1) Die Einrichtungen der medizinischen Versorgung errichten und
 unterhalten ein Verfahren zur Erfüllung ihrer Verpflichtung nach § 13b
@@ -334,16 +344,19 @@ sind mindestens:
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des toten Spenders nach § 3 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001300000)
 
 ( Fundstelle: BGBl. I 2008, 515 - 516 )
 
@@ -526,6 +539,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 2 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001401116)
 
 ( Fundstelle: BGBl. I 2008, 517;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -627,6 +641,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ## Anlage 3 Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001501116)
 
 ( Fundstelle: BGBl. I 2008, 518 - 519)
 
@@ -792,6 +807,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ## Anlage 4 Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6
+[Direktlink](https://www.gesetze-im-internet.de/tpg-gewv/BJNR051200008.html#BJNR051200008BJNE001601116)
 
 ( Fundstelle: BGBl. I 2008, 520)
 

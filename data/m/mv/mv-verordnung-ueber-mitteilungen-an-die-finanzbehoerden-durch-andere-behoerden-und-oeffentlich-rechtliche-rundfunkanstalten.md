@@ -21,6 +21,7 @@ Neugefasst durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE000500314)
 
 Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S.
 613, 1977 I S. 269), der durch Artikel 1 Nr. 10 des Gesetzes vom 19.
@@ -29,10 +30,12 @@ Bundesregierung:
 
 
 ## 1. Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNG000101123)
 
 
 
 ### § 1 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE000603123)
 
 (1) Behörden und andere öffentliche Stellen einschließlich öffentlich-
 rechtlicher Rundfunkanstalten (§ 6 Absatz 1 bis 1c der Abgabenordnung)
@@ -55,6 +58,7 @@ mitzuteilen.
 
 
 ### § 2 Allgemeine Zahlungsmitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE000707123)
 
 (1) Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-
 rechtlicher Rundfunkanstalten haben den Finanzbehörden alle Zahlungen
@@ -88,6 +92,7 @@ haben.
 
 
 ### § 3 Honorare der Rundfunkanstalten
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE000801123)
 
 (1) Die öffentlich-rechtlichen Rundfunkanstalten haben Honorare für
 Leistungen freier Mitarbeiter mitzuteilen, die in unmittelbarem
@@ -104,6 +109,7 @@ zufließen.
 
 
 ### § 4 Wegfall oder Einschränkung einer steuerlichen Vergünstigung
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE000903123)
 
 Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-
 rechtlicher Rundfunkanstalten haben Verwaltungsakte und öffentlich-
@@ -112,6 +118,7 @@ Einschränkung einer steuerlichen Vergünstigung zur Folge haben können.
 
 
 ### § 4a Ordnungsgelder nach § 335 des Handelsgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE002004123)
 
 (1) Das Bundesamt für Justiz hat als mitteilungspflichtige Stelle im
 Sinne des § 93c Absatz 1 der Abgabenordnung den Finanzbehörden die
@@ -135,12 +142,14 @@ Abgabenordnung nicht anzuwenden.
 
 
 ### § 5 Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001001123)
 
 Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen
 nach dem Flurbereinigungsgesetz mitzuteilen.
 
 
 ### § 6 Gewerberechtliche Erlaubnisse und Gestattungen
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001104123)
 
 (1) Behörden und andere öffentliche Stellen mit Ausnahme öffentlich-
 rechtlicher Rundfunkanstalten haben mitzuteilen
@@ -201,6 +210,7 @@ Ausführung von Werkverträgen tätig werden:
 
 
 ### § 7 Ausnahmen von der Mitteilungspflicht über Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001204123)
 
 (1) Zahlungen an Behörden und andere öffentliche Stellen, Betriebe
 gewerblicher Art von Körperschaften des öffentlichen Rechts oder
@@ -222,10 +232,12 @@ berücksichtigen.
 
 
 ## 2. Teil - Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNG000201123)
 
 
 
 ### § 8 Form, Inhalt und Zeitpunkt der Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001305123)
 
 (1) Die Mitteilungen sind den Finanzbehörden nach Maßgabe des § 93c
 der Abgabenordnung nach amtlich vorgeschriebenem Datensatz über die
@@ -295,20 +307,25 @@ unterrichten.
 
 
 ### (XXXX) §§ 9 und 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001403123)
 
 
 ## 3. Teil - Unterrichtung des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNG000301123)
 
 
 
 ### (XXXX) §§ 11 und 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001602123)
 
 
 ## 4. Teil - Anwendungsbestimmung und Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNG000501123)
 
 
 
 ### § 13 Anwendungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001805123)
 
 (1) Den Zeitpunkt der erstmaligen Anwendung des § 8 in der am 1.
 Januar 2025 geltenden Fassung bestimmt das Bundesministerium der
@@ -329,6 +346,7 @@ Anwendungszeitpunkt ist im Bundessteuerblatt Teil I bekanntzugeben.
 
 
 ### § 13a Mitteilungen über Billigkeitsleistungen zur temporären Kostendämpfung des Erdgas- und Strompreisanstiegs nach dem Energiekostendämpfungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE002602123)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat als
 mitteilungspflichtige Stelle (§ 93c Absatz 1 der Abgabenordnung) den
@@ -390,6 +408,7 @@ Verordnung ergeben, sind nicht anzuwenden.
 [^F832389_1_BJNR155400993BJNE002602123]: 
 
 ### § 14 Mitteilungen über öffentliche Hilfsleistungen aus Anlass der Starkregen- und Hochwasserkatastrophe im Juli 2021
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE002503123)
 
 (1) Behörden und andere öffentliche Stellen haben als
 mitteilungspflichtige Stellen (§ 93c Absatz 1 der Abgabenordnung) den
@@ -482,6 +501,7 @@ Mitteilungspflicht nach Absatz 1 zulassen.
 [^F832389_2_BJNR155400993BJNE002503123]: 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/mv/BJNR155400993.html#BJNR155400993BJNE001902123)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ruhen der Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/strverjfrg/BJNR003150965.html#BJNR003150965BJNE000100304)
 
 (1) Bei der Berechnung der Verjährungsfrist für die Verfolgung von
 Verbrechen, die mit lebenslanger Freiheitsstrafe bedroht sind, bleibt
@@ -32,6 +33,7 @@ dieses Gesetzes bereits verjährt ist.
 
 
 ## § 2 Anpassung des Ersten Gesetzes zur Aufhebung des Besatzungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/strverjfrg/BJNR003150965.html#BJNR003150965BJNE000200304)
 
 Soweit die Verjährung der Strafverfolgung nach § 1 ruht, findet § 5
 Abs. 1 des Ersten Gesetzes zur Aufhebung des Besatzungsrechts vom 30.
@@ -39,6 +41,7 @@ Mai 1956 (Bundesgesetzbl. I S. 437) keine Anwendung.
 
 
 ## § 3 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/strverjfrg/BJNR003150965.html#BJNR003150965BJNE000300304)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -46,6 +49,7 @@ im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strverjfrg/BJNR003150965.html#BJNR003150965BJNE000400304)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

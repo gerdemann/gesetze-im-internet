@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/anerksparkausbaufhv/BJNR052700995.html#BJNR052700995BJNE000100307)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -32,6 +33,7 @@ Technologie:
 
 
 ## § 1 Aufhebung der staatlichen Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/anerksparkausbaufhv/BJNR052700995.html#BJNR052700995BJNE000200307)
 
 Die staatliche Anerkennung des Ausbildungsberufs
 Sparkassenkaufmann/Sparkassenkauffrau, ausgesprochen durch Satzung der
@@ -39,6 +41,7 @@ Deutschen Sparkassenschule Hannover vom 18. Mai 1951, wird aufgehoben.
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/anerksparkausbaufhv/BJNR052700995.html#BJNR052700995BJNE000300307)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -48,6 +51,7 @@ zum Bankkaufmann vom 8. Februar 1979 (BGBl. I S. 154).
 
 
 ## § 3 Übergangsfrist
+[Direktlink](https://www.gesetze-im-internet.de/anerksparkausbaufhv/BJNR052700995.html#BJNR052700995BJNE000400307)
 
 Berufsausbildungsverhältnisse auf der Grundlage der Vorschriften über
 die Berufsausbildung zum Sparkassenkaufmann/zur Sparkassenkauffrau
@@ -56,6 +60,7 @@ abgeschlossen werden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/anerksparkausbaufhv/BJNR052700995.html#BJNR052700995BJNE000500307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

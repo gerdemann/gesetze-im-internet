@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000201123)
 
 Im Sinn dieser Verordnung ist
 
@@ -95,6 +97,7 @@ Im Sinn dieser Verordnung ist
 
 
 ### § 1a Hauptzollamt, örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE005900123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -116,9 +119,11 @@ für den Anwendungsbereich dieser Verordnung
 
 
 ## Abschnitt 2 - Zu § 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000200000)
 
 
 ### § 2 Steuerbare Menge
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000301123)
 
 Die steuerbare Menge bestimmt sich bei Bier in Fertigpackungen nach
 deren Nennfüllmenge, im Übrigen nach dem Raumgehalt der Umschließung.
@@ -129,9 +134,11 @@ Steuerbelange nicht beeinträchtigt werden.
 
 
 ## Abschnitt 3 - Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000301123)
 
 
 ### § 3 Steuerlager, Anforderungen an die Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000401123)
 
 (1) Das Steuerlager nach § 4 des Gesetzes umfasst die Gesamtheit der
 baulich zueinander gehörenden Räume, in denen sich die Einrichtungen
@@ -179,6 +186,7 @@ Steueraufsicht bestimmen, dass
 
 
 ### § 4 Antrag auf Erlaubnis als Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000502123)
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 5 des
 Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim
@@ -221,6 +229,7 @@ und 4 eine Erweiterung der Erlaubnis.
 
 
 ### § 5 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000601123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten
@@ -265,6 +274,7 @@ Absätze 1 bis 3 bleiben unberührt.
 
 
 ### § 6 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000702123)
 
 (1) Das Hauptzollamt legt die Höhe der Sicherheitsleistung unter
 Berücksichtigung des § 5 Absatz 1 Satz 4 des Gesetzes fest. Es
@@ -279,6 +289,7 @@ Abgabenordnung bleibt unberührt.
 
 
 ### § 6a Überprüfung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006000123)
 
 Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -290,6 +301,7 @@ oder der Neuerteilung durchgeführt.
 
 
 ### § 7 Änderung von Verhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000801123)
 
 (1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach
 § 4 Absatz 1, 2 und 4 Satz 1 angegebenen Verhältnisse vor der Änderung
@@ -369,6 +381,7 @@ schriftlich anzuzeigen:
 
 
 ### § 8 Erlöschen und Fortbestand der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE000901123)
 
 (1) Die Erlaubnis nach § 5 Absatz 1 Satz 1 erlischt unbeschadet des
 § 124 Absatz 2 der Abgabenordnung durch
@@ -498,6 +511,7 @@ Zwecke der Räumung bis zum Fristablauf weiter.
 
 
 ### § 9 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001001123)
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -517,6 +531,7 @@ aufgezeichnet werden.
 
 
 ### § 10 Vollständige Zerstörung, unwiederbringlicher Gesamt- oder Teilverlust und Vernichtung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001103123)
 
 (1) Ist Bier unbeabsichtigt vollständig zerstört worden oder
 vollständig oder teilweise unwiederbringlich verloren gegangen, hat
@@ -542,6 +557,7 @@ für die Beförderung geleistete Sicherheit freigegeben.
 
 
 ### § 11 Bestandsaufnahme im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001202123)
 
 (1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine
 Bestandsaufnahme durchzuführen und beim Hauptzollamt innerhalb eines
@@ -578,6 +594,7 @@ wird.
 
 
 ### § 11a Amtliche Bescheinigung für unabhängige Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006100123)
 
 (1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige
 Hersteller zur Gewährung ermäßigter Steuersätze in anderen
@@ -611,6 +628,7 @@ Mitgliedstaat selbst ausgestellte Bescheinigung, wenn
 
 
 ### § 12 Bierausschank im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001301123)
 
 Wird in einem Steuerlager, in dem Bier hergestellt wird, Bier
 ausgeschenkt, darf der Steuerlagerinhaber Bier nur in Fässern,
@@ -623,9 +641,11 @@ beeinträchtigt werden.
 
 
 ## Abschnitt 4 - Zu § 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000400000)
 
 
 ### § 13 Registrierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001402123)
 
 (1) Wer als registrierter Empfänger nach § 6 Absatz 1 Satz 1 Nummer 1
 des Gesetzes Bier unter Steueraussetzung nicht nur gelegentlich
@@ -692,9 +712,11 @@ Absatz 2 Satz 4 des Gesetzes zu leisten.
 
 
 ## Abschnitt 5 - Zu § 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000500000)
 
 
 ### § 14 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001503123)
 
 (1) Wer als registrierter Versender nach § 7 Absatz 1 des Gesetzes
 Bier vom Ort der Einfuhr unter Steueraussetzung versenden will, hat
@@ -747,9 +769,11 @@ entsprechend.
 
 
 ## Abschnitt 6 - Zu den §§ 8 und 28 Nummer 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000600000)
 
 
 ### § 15 Begünstigte, Ausstellen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001603123)
 
 (1) Ein Begünstigter, der Bier unter Steueraussetzung empfangen will,
 hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach
@@ -809,9 +833,11 @@ sind Gesamtschuldner.
 
 
 ## Abschnitt 7 - Zu den §§ 9 bis 12 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000700000)
 
 
 ### § 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001702123)
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -833,6 +859,7 @@ Voraussetzungen und Rahmenbedingungen einzuhalten.
 
 
 ### § 17 Erstellen des elektronischen Verwaltungsdokuments, Mitführen des eindeutigen Referenzcodes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001803123)
 
 (1) Soll Bier unter Steueraussetzung befördert werden aus einem
 Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
@@ -892,6 +919,7 @@ ein registrierter Empfänger ist.
 
 
 ### § 18 Mitführen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE001901123)
 
 Wird Bier unter Steueraussetzung zu Begünstigten befördert, hat der
 Beförderer während der Beförderung eine dem Versender nach § 15 Absatz
@@ -902,6 +930,7 @@ Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
 
 ### § 19 Art und Höhe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002001123)
 
 (1) Die Sicherheit für Beförderungen von Bier unter Steueraussetzung
 kann für mehrere Verfahren als Gesamtbürgschaft oder für jedes
@@ -923,6 +952,7 @@ Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 
 
 ### § 20 Annullierung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002102123)
 
 (1) Der Versender kann das elektronische Verwaltungsdokument
 annullieren, solange die Beförderung des Bieres noch nicht begonnen
@@ -948,6 +978,7 @@ weiter.
 
 
 ### § 21 Änderung des Bestimmungsorts oder des Empfängers von Bier bei Verwendung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002202123)
 
 (1) Während der Beförderung des Bieres unter Steueraussetzung kann der
 Versender den Bestimmungsort oder den Empfänger des Bieres ändern und
@@ -989,6 +1020,7 @@ geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 
 
 ### § 22 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002303123)
 
 (1) Nach der Aufnahme des Bieres, auch von Teilmengen, an einem
 Bestimmungsort, der in § 10 Absatz 1 Nummer 1 und § 11 Absatz 1 Nummer
@@ -1082,6 +1114,7 @@ Bestimmungsort oder den Empfänger des Bieres.
 
 
 ### § 23 Beförderungen im Steuergebiet in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002403123)
 
 (1) Bei Beförderungen von Bier unter Steueraussetzung zwischen
 Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder, wenn der
@@ -1128,6 +1161,7 @@ entsprechend.
 
 
 ### § 24 Beförderungen im Steuergebiet in Betriebe von Verwendern
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002502123)
 
 (1) Für Beförderungen von Bier unter Steueraussetzung in Betriebe von
 Verwendern nach § 23a Absatz 1 des Gesetzes hat der Versender im
@@ -1206,6 +1240,7 @@ versendendem Bier Verschlussmaßnahmen anordnen.
 
 
 ### § 25 Beginn einer Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002603123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender abweichend von § 17 nur dann eine
@@ -1269,6 +1304,7 @@ Für die Eingangs- und Ausfuhrmeldung ist § 22 anzuwenden.
 
 
 ### § 26 Annullierung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002702123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender das elektronische Verwaltungsdokument
@@ -1292,6 +1328,7 @@ entsprechend.
 
 
 ### § 27 Änderung des Bestimmungsorts oder des Empfängers von Bier im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002802123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender den Bestimmungsort oder den Empfänger
@@ -1329,6 +1366,7 @@ Absatz 2 und 4 Satz 1 und 2 entsprechend.
 
 
 ### § 28 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE002903123)
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 22 Absatz 1 nach
 Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb
@@ -1408,6 +1446,7 @@ gilt entsprechend.
 
 
 ### § 29 Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003001123)
 
 (1) Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den
 Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen
@@ -1440,9 +1479,11 @@ Verordnung zum Unionszollkodex vorgesehen war.
 
 
 ## Abschnitt 8 - Zu den §§ 13 und 14 Absatz 3 und 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000801123)
 
 
 ### § 30 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003101123)
 
 (1) Werden beim Empfänger im Steuergebiet Abweichungen festgestellt,
 entscheidet das Hauptzollamt über die steuerliche Behandlung von
@@ -1468,9 +1509,11 @@ Feststellung einer Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 
 ## Abschnitt 9 - Zu den §§ 14 und 15 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG000900000)
 
 
 ### § 31 Steuererklärung, Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003204123)
 
 (1) Steuererklärungen nach § 15 Absatz 1 Satz 1 des Gesetzes sind nach
 amtlich vorgeschriebenem Vordruck beim Hauptzollamt Stuttgart
@@ -1525,6 +1568,7 @@ Abgabenordnung entsprechend.
 
 
 ### § 31a Herstellung von Bier außerhalb eines Steuerlagers
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006200123)
 
 (1) Wer Bier ohne Erlaubnis als Steuerlagerinhaber zu gewerblichen
 Zwecken herstellt oder herstellen will, hat dies vor dem geplanten
@@ -1572,9 +1616,11 @@ letzten Überprüfungsmaßnahme oder der Anmeldung durchgeführt.
 
 
 ## Abschnitt 10 - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001000000)
 
 
 ### § 32 Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003301123)
 
 Eine angemeldete oder festgesetzte Steuer wird vom Hauptzollamt nur
 abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung
@@ -1583,9 +1629,11 @@ beträgt.
 
 
 ## Abschnitt 11 - Zu § 18 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001100000)
 
 
 ### § 33 Anmeldung des Bieres
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003401123)
 
 Bier aus Drittländern oder Drittgebieten ist in den Fällen der Einfuhr
 nach den Zollvorschriften mit den für die Besteuerung wesentlichen
@@ -1594,9 +1642,11 @@ in der Zollanmeldung abzugeben.
 
 
 ## Abschnitt 12 - Zu § 19 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001200000)
 
 
 ### § 34 Beförderungen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003502123)
 
 (1) Werden mehr als 110 Liter Bier nach § 19 des Gesetzes zu privaten
 Zwecken in das Steuergebiet befördert, wird widerleglich vermutet,
@@ -1609,9 +1659,11 @@ des Gesetzes.
 
 
 ## Abschnitt 13 - Zu den §§ 20 bis 20c des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001301123)
 
 
 ### § 35 Zertifizierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003601123)
 
 (1) Wer als zertifizierter Empfänger nach § 20a Absatz 1 Satz 1 Nummer
 1 des Gesetzes Bier des steuerrechtlich freien Verkehrs nicht nur
@@ -1712,6 +1764,7 @@ unter § 34 oder § 37 fällt.
 
 
 ### § 35a Zertifizierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006300123)
 
 (1) Wer als zertifizierter Versender nach § 20b Absatz 1 Satz 1 Nummer
 1 des Gesetzes Bier des steuerrechtlich freien Verkehrs nicht nur
@@ -1797,6 +1850,7 @@ unter § 34 oder § 37 fällt.
 
 
 ### § 35b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem, Ausfallverfahren und vereinfachte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006400123)
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -1826,6 +1880,7 @@ Zulassung erfolgt im Rahmen der jeweiligen Erlaubnis.
 
 
 ### § 35c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006500123)
 
 (1) Soll Bier des steuerrechtlich freien Verkehrs nach diesem
 Abschnitt aus dem Steuergebiet befördert werden
@@ -1865,6 +1920,7 @@ zertifizierten Empfänger im Steuergebiet weitergeleitet.
 
 
 ### § 35d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006600123)
 
 (1) Während der Beförderung des Bieres kann der zertifizierte
 Versender den Bestimmungsort ändern, und zwar
@@ -1885,6 +1941,7 @@ gilt § 21 Absatz 2, 3 und 6 entsprechend.
 
 
 ### § 35e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006700123)
 
 (1) Nach der Aufnahme des Bieres, auch von Teilmengen, an einem vom
 Erlaubnisumfang umfassten Bestimmungsort hat der zertifizierte
@@ -1922,6 +1979,7 @@ Nachweis, dass die Beförderung des Bieres beendet wurde.
 
 
 ### § 35f Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006800123)
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung und kann das vereinfachte elektronische Verwaltungsdokument
@@ -1931,6 +1989,7 @@ nach amtlich vorgeschriebenem Vordruck zu verwenden.
 
 
 ### § 35g Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE006900123)
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das
 Steuergebiet kein Nachweis nach § 35e Absatz 4 oder § 35f in
@@ -1959,13 +2018,16 @@ akzeptiert wird, als hinreichender Nachweis dafür, dass
 
 
 ### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003701123)
 
 
 
 ## Abschnitt 14 - Zu § 21 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001400000)
 
 
 ### § 37 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003802123)
 
 (1) Wer als Versandhändler nach § 21 Absatz 1 des Gesetzes Bier an
 Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im
@@ -2034,18 +2096,22 @@ Erlaubnis des Steuervertreters erlischt.
 
 
 ## Abschnitt 15 - Zu § 22 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001500000)
 
 
 ### § 38 Unregelmäßigkeiten während der Beförderung von Bier des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE003902123)
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt-
 oder Teilverlusts von Bier gelten § 10 Absatz 2 und § 30 entsprechend.
 
 
 ## Abschnitt 15a - Zu § 22b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG002400123)
 
 
 ### § 38a Steueranmeldung; Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE007000123)
 
 (1) Die Steueranmeldung nach § 22b Absatz 1 bis 4 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
@@ -2055,9 +2121,11 @@ Kleinbetragsregelung gelten § 31 Absatz 4 und § 32 entsprechend.
 
 
 ## Abschnitt 16 - Zu den §§ 23 und 23a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001601140)
 
 
 ### § 39 Antrag auf Erlaubnis zur steuerfreien Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004002123)
 
 (1) Wer Bier steuerfrei verwenden will, hat die Erlaubnis vor Beginn
 der Verwendung nach amtlich vorgeschriebenem Vordruck beim
@@ -2091,6 +2159,7 @@ nicht beeinträchtigt werden.
 
 
 ### § 39a Erteilung der Erlaubnis, Erlaubnisschein
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004902123)
 
 (1) Das Hauptzollamt erteilt dem Verwender schriftlich oder
 elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien
@@ -2119,6 +2188,7 @@ entsprechend.
 
 
 ### § 39b Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE005001123)
 
 (1) Der Verwender hat ein Belegheft zu führen. Das Hauptzollamt kann
 dazu Anordnungen treffen.
@@ -2135,6 +2205,7 @@ entgegenstehen, auf das Führen eines Verwendungsbuchs verzichten.
 
 
 ### § 39c Lagerung, Bestandsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE005102123)
 
 (1) Der Verwender darf das Bier nur an den angemeldeten Orten
 empfangen und lagern. Das Hauptzollamt kann Ausnahmen zulassen, wenn
@@ -2162,6 +2233,7 @@ entsprechend.
 
 
 ### § 39d Abgabe von Bier, zweckwidrige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE005201123)
 
 (1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in
 Ausnahmefällen Bier im Rahmen seiner Erlaubnis zur steuerfreien
@@ -2176,6 +2248,7 @@ nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 
 ### § 40 Haustrunk
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004101123)
 
 (1) In Brauereien ist Bier von der Steuer befreit, das als Haustrunk
 unentgeltlich an Arbeitnehmerinnen und Arbeitnehmer abgegeben wird,
@@ -2194,6 +2267,7 @@ berechtigtes Bedürfnis besteht.
 
 
 ### § 41 Herstellung durch Haus- und Hobbybrauer
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004203123)
 
 (1) Bier, das von Haus- und Hobbybrauern in ihren Haushalten
 ausschließlich zum eigenen Verbrauch hergestellt und nicht verkauft
@@ -2209,9 +2283,11 @@ gilt entsprechend.
 
 
 ## Abschnitt 17 - Zu § 24 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001700000)
 
 
 ### § 42 Steuerentlastung im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004303123)
 
 (1) Nimmt ein Steuerlager versteuertes Bier wieder in das Lager zurück
 (Rückbier), wird die Biersteuer erlassen oder erstattet, wenn das Bier
@@ -2251,9 +2327,11 @@ entsprechend.
 
 
 ## Abschnitt 18 - Zu § 25 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001800000)
 
 
 ### § 43 Steuerentlastung bei der Beförderung von Bier des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004402123)
 
 (1) In den Fällen des § 25 Absatz 1 des Gesetzes ist die
 Steuerentlastung mit einer Entlastungsanmeldung nach amtlich
@@ -2292,9 +2370,11 @@ entsprechend.
 
 
 ## Abschnitt 19 - Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG001900000)
 
 
 ### § 44 Probenentnahme im Rahmen der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004501123)
 
 Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die
 der Biersteuer unterliegen oder unterliegen können, sowie von Stoffen,
@@ -2306,21 +2386,27 @@ zu Untersuchungszwecken unentgeltlich Proben zur Verfügung zu stellen.
 
 
 ## Abschnitt 20 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG002001123)
 
 
 ### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004601123)
 
 
 ## Abschnitt 21 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG002301123)
 
 
 ### (XXXX) §§ 46 bis 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE005301123)
 
 
 ## Abschnitt 22 - Zu § 381 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG002101140)
 
 
 ### § 52 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004703123)
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
@@ -2446,9 +2532,11 @@ rechtzeitig beigibt.
 
 
 ## Abschnitt 23 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNG002201140)
 
 
 ### § 53 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstv_2010/BJNR331900009.html#BJNR331900009BJNE004802123)
 
 Für Beförderungen von Bier des steuerrechtlich freien Verkehrs aus
 anderen, in andere oder über andere Mitgliedstaaten, die vor dem 13.

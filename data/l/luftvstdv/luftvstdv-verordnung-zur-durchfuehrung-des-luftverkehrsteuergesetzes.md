@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE000100000)
 
 Es verordnen
 
@@ -45,9 +46,11 @@ des Luftverkehrsteuergesetzes vom 9. Dezember 2010 (BGBl. I S. 1885):
 
 
 ## Abschnitt 1 - Zu § 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNG000100000)
 
 
 ### § 1 Ergänzende Begriffsbestimmungen zum Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE000300000)
 
 Als Luftverkehrsunternehmen im Sinne des § 2 Nummer 2 des Gesetzes
 gilt auch, wer die gewerbliche Beförderung von Personen betreibt und
@@ -60,9 +63,11 @@ geltenden Fassung bedarf.
 
 
 ## Abschnitt 2 - Zu § 8 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNG000200000)
 
 
 ### § 2 Erteilung der Erlaubnis als steuerlicher Beauftragter
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE000401123)
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis nach § 8 Absatz
 2 des Gesetzes schriftlich oder elektronisch.
@@ -72,9 +77,11 @@ Abgabenordnung aufgezählten Nebenbestimmungen verbunden werden.
 
 
 ## Abschnitt 3 - Zu § 9 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNG000300000)
 
 
 ### § 3 Anzeichen für eine Gefährdung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE000500000)
 
 Als Anzeichen für eine Gefährdung der Steuer nach § 9 des Gesetzes ist
 es insbesondere anzusehen, wenn eine oder mehrere der folgenden
@@ -172,16 +179,20 @@ Voraussetzungen erfüllt sind:
 
 
 ## Abschnitt 4 - Zu den §§ 12 und 18 Absatz 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNG000400000)
 
 
 ### (XXXX) §§ 4 bis 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE000603123)
 
 
 
 ## Abschnitt 5 - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNG000600360)
 
 
 ### § 6a Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE001000360)
 
 (1) Eine angemeldete oder festgesetzte Steuer wird vom zuständigen
 Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
@@ -194,9 +205,11 @@ programmtechnisch umgesetzt worden ist.
 
 
 ## Abschnitt 6 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNG000501360)
 
 
 ### § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstdv/BJNR181200012.html#BJNR181200012BJNE000900000)
 
 Diese Verordnung tritt am 1. September 2012 in Kraft.
 

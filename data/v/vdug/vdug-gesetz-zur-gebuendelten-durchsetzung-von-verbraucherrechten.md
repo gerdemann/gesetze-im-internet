@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000100000)
 
 
 ### § 1 Verbandsklagen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000201125)
 
 (1) In bürgerlichen Rechtsstreitigkeiten, die Ansprüche und
 Rechtsverhältnisse einer Vielzahl von Verbrauchern gegen einen
@@ -49,6 +51,7 @@ eröffnet worden ist.
 
 
 ### § 2 Klageberechtigte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000300000)
 
 (1) Klageberechtigte Stellen für Verbandsklagen sind
 
@@ -87,6 +90,7 @@ b erfüllen.
 
 
 ### § 3 Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000400000)
 
 (1) Für Verbandsklagen ist dasjenige Oberlandesgericht sachlich und
 örtlich ausschließlich zuständig, in dessen Bezirk sich der allgemeine
@@ -115,6 +119,7 @@ auf ihre Landesjustizverwaltung übertragen.
 
 
 ### § 4 Verbraucherquorum; Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000500000)
 
 (1) Eine Verbandsklage ist nur zulässig, wenn die klageberechtigte
 Stelle nachvollziehbar darlegt, dass
@@ -161,6 +166,7 @@ die Finanzierung der Klage erst nach Klageeinreichung erfolgt.
 
 
 ### § 5 Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000600000)
 
 (1) Die Klageschrift, mit der eine Verbandsklage erhoben wird, muss
 Folgendes enthalten:
@@ -202,6 +208,7 @@ anzuwenden.
 
 
 ### § 6 Offenlegung von Beweismitteln; Androhung und Festsetzung von Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000700000)
 
 (1) Ordnet das Gericht die Vorlage einer Urkunde oder sonstiger
 Unterlagen (§ 142 der Zivilprozessordnung), die Vorlage von Akten (§
@@ -219,6 +226,7 @@ gerichtlichen Anordnung wiederholt nicht nachkommt.
 
 
 ### § 7 Streitgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000800000)
 
 (1) Mehrere klageberechtigte Stellen können gemeinschaftlich gegen
 einen Unternehmer klagen. Mehrere Unternehmer können gemeinschaftlich
@@ -229,6 +237,7 @@ anzuwenden.
 
 
 ### § 8 Sperrwirkung der Verbandsklage
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE000900000)
 
 Ab Anhängigkeit einer Verbandsklage kann gegen denselben Unternehmer
 keine weitere Verbandsklage erhoben werden, deren Streitgegenstand
@@ -238,6 +247,7 @@ Verbandsklage ohne Entscheidung in der Sache beendet wird.
 
 
 ### § 9 Gerichtlicher Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001000000)
 
 (1) Zur gütlichen Beilegung des Rechtsstreits können die Parteien
 einen gerichtlichen Vergleich auch mit Wirkung für die im
@@ -254,6 +264,7 @@ die Genehmigung des Vergleichs durch Beschluss ab.
 
 
 ### § 10 Austritt aus dem Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001100000)
 
 (1) Jeder im Verbandsklageregister angemeldete Verbraucher kann
 innerhalb einer Frist von einem Monat gegenüber dem Bundesamt für
@@ -266,6 +277,7 @@ Wirksamkeit der Anmeldung im Verbandsklageregister.
 
 
 ### § 11 Sperrwirkung der Anmeldung; Bindungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001200000)
 
 (1) Hat ein Verbraucher vor der Bekanntgabe der Verbandsklage im
 Verbandsklageregister eine Klage gegen den Unternehmer erhoben, die
@@ -292,6 +304,7 @@ Satz 1 gilt nicht für Abhilfeendurteile nach § 18.
 
 
 ### § 12 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001300000)
 
 (1) Die klageberechtigte Stelle ist verpflichtet, auf ihrer
 Internetseite zu informieren über:
@@ -324,6 +337,7 @@ Absätzen 1 und 2 sind Kosten des Rechtsstreits.
 
 
 ### § 13 Anwendung der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001400000)
 
 (1) Auf Verbandsklageverfahren sind die Vorschriften der
 Zivilprozessordnung anzuwenden, soweit sich aus diesem Gesetz nicht
@@ -354,12 +368,15 @@ sechs Wochen nach dem Schluss der mündlichen Verhandlung.
 
 
 ## Abschnitt 2 - Abhilfeklagen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000200000)
 
 
 ### Unterabschnitt 1 - Besondere Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000300000)
 
 
 #### § 14 Abhilfeklage
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001500000)
 
 Mit der Abhilfeklage begehrt die klageberechtigte Stelle die
 Verurteilung des Unternehmers zu einer Leistung an die betroffenen
@@ -368,6 +385,7 @@ Gesamtbetrags begehrt werden.
 
 
 #### § 15 Gleichartigkeit der Verbraucheransprüche; Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001600000)
 
 (1) Die Abhilfeklage ist nur zulässig, wenn die von der Klage
 betroffenen Ansprüche von Verbrauchern im Wesentlichen gleichartig
@@ -394,9 +412,11 @@ Ansprüche der betroffenen Verbraucher berechnen lässt.
 
 
 ### Unterabschnitt 2 - Abhilfeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000400000)
 
 
 #### § 16 Urteil und Abhilfegrundurteil
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001700000)
 
 (1) Hält das Gericht eine Abhilfeklage, die auf Zahlung eines
 kollektiven Gesamtbetrags oder auf die Verurteilung zu einer anderen
@@ -450,6 +470,7 @@ Diese bedarf keiner Zulassung.
 
 
 #### § 17 Vergleichsvorschlag; Fortsetzung des Abhilfeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001800000)
 
 (1) Nach der Verkündung des Abhilfegrundurteils soll das Gericht die
 Parteien auffordern, einen schriftlichen Vergleichsvorschlag zur
@@ -465,6 +486,7 @@ Abhilfeverfahren fort. Es entscheidet durch Abhilfeendurteil.
 
 
 #### § 18 Abhilfeendurteil
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE001900000)
 
 (1) Die Urteilsformel des Abhilfeendurteils enthält folgende Angaben:
 
@@ -498,6 +520,7 @@ keiner Zulassung.
 
 
 #### § 19 Kollektiver Gesamtbetrag
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002000000)
 
 (1) Das Gericht kann die Höhe des kollektiven Gesamtbetrags unter
 Würdigung aller Umstände nach freier Überzeugung bestimmen.
@@ -506,6 +529,7 @@ Würdigung aller Umstände nach freier Überzeugung bestimmen.
 
 
 #### § 20 Kosten des Umsetzungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002100000)
 
 (1) Kosten des Umsetzungsverfahrens im Sinne dieses Gesetzes sind:
 
@@ -522,6 +546,7 @@ Würdigung aller Umstände nach freier Überzeugung bestimmen.
 
 
 #### § 21 Erhöhung des kollektiven Gesamtbetrags
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002200000)
 
 (1) Die klageberechtigte Stelle kann während des Umsetzungsverfahrens
 die Erhöhung des kollektiven Gesamtbetrags beantragen. Die Klage ist
@@ -539,9 +564,11 @@ Erhöhungsverfahrens.
 
 
 ### Unterabschnitt 3 - Umsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000500000)
 
 
 #### § 22 Zuständigkeit; Entscheidungen im Umsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002300000)
 
 (1) Für das Umsetzungsverfahren ist ausschließlich das Prozessgericht
 der Abhilfeklage zuständig.
@@ -551,6 +578,7 @@ mündliche Verhandlung ergehen.
 
 
 #### § 23 Bestellung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002400000)
 
 (1) Das Gericht bestellt einen Sachwalter. Vor der Bestellung sollen
 die Parteien des Abhilfeverfahrens zur Person des Sachwalters gehört
@@ -585,6 +613,7 @@ wird, findet kein Rechtsmittel statt.
 
 
 #### § 24 Eröffnungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002500000)
 
 Das Gericht beschließt die Eröffnung des Umsetzungsverfahrens, sobald
 der Unternehmer die folgenden Beträge zu Händen des Sachwalters
@@ -601,6 +630,7 @@ gezahlt hat:
 
 
 #### § 25 Umsetzungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002600000)
 
 (1) Der Sachwalter errichtet einen Umsetzungsfonds. In diesen sind der
 vorläufig festgesetzte Kostenbetrag und gegebenenfalls der kollektive
@@ -621,6 +651,7 @@ vorläufig festgesetzten Kostenbetrag nicht übersteigen.
 
 
 #### § 26 Teilnahme am Umsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002700000)
 
 An dem Umsetzungsverfahren nehmen alle Verbraucher teil, die ihre
 Ansprüche wirksam zum Verbandsklageregister angemeldet haben und die
@@ -628,6 +659,7 @@ ihre Anmeldung nicht wirksam zurückgenommen haben.
 
 
 #### § 27 Aufgaben des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002800000)
 
 Der Sachwalter hat folgende Aufgaben und Befugnisse:
 
@@ -699,6 +731,7 @@ Der Sachwalter hat folgende Aufgaben und Befugnisse:
 
 
 #### § 28 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE002900000)
 
 (1) Der Sachwalter teilt dem betroffenen Verbraucher und dem
 Unternehmer in Textform mit, ob sich ein Anspruch nach Prüfung ganz
@@ -726,6 +759,7 @@ nicht anzuwenden. Die Entscheidung des Gerichts ist unanfechtbar.
 
 
 #### § 29 Zwangsmittel gegen den Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003000000)
 
 (1) Kommt der Unternehmer einer Aufforderung des Sachwalters zur
 Erfüllung eines Anspruchs eines Verbrauchers, der auf eine andere
@@ -746,6 +780,7 @@ ist § 888 Absatz 1 Satz 1 der Zivilprozessordnung nicht anzuwenden.
 
 
 #### § 30 Gerichtliche Aufsicht; Zwangsmittel gegen den Sachwalter
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003100000)
 
 (1) Der Sachwalter untersteht der Aufsicht des Gerichts.
 
@@ -774,6 +809,7 @@ kann das Gericht den Sachwalter aus wichtigem Grund entlassen.
 
 
 #### § 31 Haftung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003200000)
 
 Verletzt der Sachwalter schuldhaft ihm nach diesem Gesetz obliegende
 Pflichten, so ist er zum Schadensersatz verpflichtet, und zwar
@@ -792,6 +828,7 @@ gewissenhaften Sachwalters einzustehen.
 
 
 #### § 32 Ansprüche des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003300000)
 
 (1) Der Sachwalter hat Anspruch auf
 
@@ -813,6 +850,7 @@ Auslagen, der Vergütung und des Vorschusses fest.
 
 
 #### § 33 Schlussrechnung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003400000)
 
 Der Sachwalter hat dem Gericht bei Beendigung seines Amtes
 Schlussrechnung zu legen. Die Rechnung einschließlich der Belege muss
@@ -834,6 +872,7 @@ Rechnung als anerkannt.
 
 
 #### § 34 Schlussbericht
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003500000)
 
 (1) Der Sachwalter teilt dem Gericht die Beendigung des
 Umsetzungsverfahrens unverzüglich mit. Das Gericht setzt dem
@@ -886,6 +925,7 @@ Schlussberichts.
 
 
 #### § 35 Prüfung des Schlussberichts und der Schlussrechnung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003600000)
 
 (1) Das Gericht prüft den Schlussbericht und die Schlussrechnung des
 Sachwalters.
@@ -896,6 +936,7 @@ auf, der Beanstandung abzuhelfen.
 
 
 #### § 36 Feststellung der Beendigung des Umsetzungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003700000)
 
 (1) Das Gericht stellt die Beendigung des Umsetzungsverfahrens fest.
 Der Beschluss enthält:
@@ -919,6 +960,7 @@ Kostenfestsetzungsbeschluss gleich.
 
 
 #### § 37 Nicht abgerufene Beträge
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003800000)
 
 Ist der kollektive Gesamtbetrag nach Beendigung des
 Umsetzungsverfahrens nicht vollständig ausgekehrt oder übersteigt der
@@ -931,6 +973,7 @@ Verbandsklageregister fällig.
 
 
 #### § 38 Insolvenzverfahren über das Vermögen des Unternehmers; Restrukturierung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE003900000)
 
 (1) Die Eröffnung eines Insolvenzverfahrens über das Vermögen des
 Unternehmers hindert die Durchführung des Umsetzungsverfahrens nicht.
@@ -970,9 +1013,11 @@ Verbraucherforderungen ist dem Restrukturierungsbeauftragten zu
 
 
 ### Unterabschnitt 4 - Individualklagen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000600000)
 
 
 #### § 39 Offene Verbraucheransprüche
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004000000)
 
 Hat der Sachwalter die Erfüllung eines vom Verbraucher geltend
 gemachten Anspruchs im Umsetzungsverfahren vollständig oder teilweise
@@ -984,6 +1029,7 @@ Widerspruchsverfahren nach § 28 hätte geltend machen können.
 
 
 #### § 40 Herausgabeanspruch des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004100000)
 
 (1) Der Unternehmer kann Einwendungen, die den vom Verbraucher im
 Verbandsklageverfahren geltend gemachten Anspruch selbst betreffen, im
@@ -1000,9 +1046,11 @@ diesem gegenüber schriftlich geltend gemacht wird.
 
 
 ## Abschnitt 3 - Musterfeststellungsklagen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000700000)
 
 
 ### § 41 Musterfeststellungsklage
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004200000)
 
 (1) Mit der Musterfeststellungsklage begehrt die klageberechtigte
 Stelle die Feststellung des Vorliegens oder Nichtvorliegens von
@@ -1016,15 +1064,18 @@ könnte.
 
 
 ### § 42 Revision
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004300000)
 
 Gegen Musterfeststellungsurteile findet die Revision statt. Diese
 bedarf keiner Zulassung.
 
 
 ## Abschnitt 4 - Verbandsklageregister
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000800000)
 
 
 ### § 43 Verbandsklageregister
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004400000)
 
 (1) Das Bundesamt für Justiz führt ein Register für Verbandsklagen
 (Verbandsklageregister). Das Verbandsklageregister kann elektronisch
@@ -1042,6 +1093,7 @@ sodann zu löschen.
 
 
 ### § 44 Bekanntmachung von Angaben zu Verbandsklagen
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004500000)
 
 Die folgenden Angaben zu einer rechtshängigen Verbandsklage sind im
 Verbandsklageregister öffentlich bekannt zu machen:
@@ -1121,6 +1173,7 @@ Verbandsklageregister öffentlich bekannt zu machen:
 
 
 ### § 45 Veranlassung der Bekanntmachung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004600000)
 
 Das Gericht übermittelt dem Bundesamt für Justiz unverzüglich
 veröffentlichungsfähige Fassungen der im Verbandsklageregister
@@ -1130,6 +1183,7 @@ Zwischenentscheidungen und Urteile.
 
 
 ### § 46 Anmeldung von Ansprüchen; Rücknahme der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004700000)
 
 (1) Verbraucher können Ansprüche oder Rechtsverhältnisse, die
 Gegenstand einer Verbandsklage sind, bis zum Ablauf von drei Wochen
@@ -1173,6 +1227,7 @@ Anwendung.
 
 
 ### § 47 Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004800000)
 
 (1) Anmeldung und Rücknahme sind in Textform gegenüber dem Bundesamt
 für Justiz zu erklären.
@@ -1192,6 +1247,7 @@ Vergleich entsprechend anzuwenden.
 
 
 ### § 48 Einsichtnahme und Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE004900000)
 
 (1) Öffentliche Bekanntmachungen können von jedermann unentgeltlich im
 Verbandsklageregister eingesehen werden.
@@ -1218,6 +1274,7 @@ zurückgenommen haben.
 
 
 ### § 49 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE005000000)
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die näheren
@@ -1231,9 +1288,11 @@ Barrierefreiheit zu treffen.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNG000900000)
 
 
 ### § 50 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html#BJNR1100B0023BJNE005100000)
 
 Dieses Gesetz ist fünf Jahre nach dem Inkrafttreten zu evaluieren.
 

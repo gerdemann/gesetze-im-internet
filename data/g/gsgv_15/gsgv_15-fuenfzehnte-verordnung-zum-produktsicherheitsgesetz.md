@@ -17,18 +17,21 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000100000)
 
 Auf Grund des § 8 Absatz 2 des Produktsicherheitsgesetzes vom 27. Juli
 2021 (BGBl. I S. 3146, 3147) verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000200000)
 
 Diese Verordnung regelt das Verbot der Einfuhr, des Inverkehrbringens
 und der Bereitstellung von Himmelslaternen auf dem deutschen Markt.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000300000)
 
 (1) Eine Himmelslaterne im Sinne dieser Verordnung ist ein unbemannter
 ballonartiger Flugleuchtkörper,
@@ -49,6 +52,7 @@ unberührt.
 
 
 ## § 3 Verbot der Einfuhr, des Inverkehrbringens und der Bereitstellung auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000400000)
 
 (1) Die Einfuhr, das Inverkehrbringen und die Bereitstellung von
 Himmelslaternen auf dem deutschen Markt ist verboten.
@@ -64,6 +68,7 @@ die Bundesrepublik Deutschland ausrichtet.
 
 
 ## § 4 Ordnungswidrigkeiten und Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000500000)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -77,11 +82,13 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_15/BJNR0060A0024.html#BJNR0060A0024BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

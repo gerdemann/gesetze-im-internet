@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000100000)
 
 Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24
 Satz 1 Nr. 1 und 2 in Verbindung mit Satz 2 Nr. 1, 2 und 3 sowie Satz
@@ -30,10 +31,12 @@ des § 29 Abs. 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000300000)
 
 Diese Verordnung regelt die Bedingungen für Einspeisungen von
 elektrischer Energie in Einspeisestellen der
@@ -45,6 +48,7 @@ Energiewirtschaftsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000403377)
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -123,6 +127,7 @@ Im Sinne dieser Verordnung bedeutet
 
 
 ### § 3 Grundlagen des Netzzugangs
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000501377)
 
 Der Anspruch auf Netznutzung wird begrenzt durch die jeweiligen
 Kapazitäten der Elektrizitätsversorgungsnetze. Betreiber von
@@ -133,18 +138,22 @@ unberührt.
 
 
 ### § 3a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003901377)
 
 
 
 ## Teil 2 - Zugang zu Übertragungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000200000)
 
 
 
 ### Abschnitt 1 - Bilanzkreissystem
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000300000)
 
 
 
 #### § 4 Bilanzkreise
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000601360)
 
 (1) Innerhalb einer Regelzone sind von einem oder mehreren Netznutzern
 Bilanzkreise zu bilden. Bilanzkreise müssen aus mindestens einer
@@ -185,6 +194,7 @@ elektronischer Form mitzuteilen.
 
 
 #### § 5 Grundsätze der Fahrplanabwicklung und untertäglicher Handel
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000701360)
 
 (1) Die Abwicklung von Lieferungen elektrischer Energie zwischen
 Bilanzkreisen erfolgt auf Grundlage von Fahrplänen. Betreiber von
@@ -236,10 +246,12 @@ darüber verlangen, dass ein ungeplanter Kraftwerksausfall vorliegt.
 
 
 ### Abschnitt 2 - Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000400000)
 
 
 
 #### § 6 Grundsätze der Beschaffung von Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000801360)
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, die
 jeweilige Regelenergieart im Rahmen einer gemeinsamen
@@ -282,6 +294,7 @@ Bundesnetzagentur zu beachten.
 
 
 #### § 7 Erbringung von Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE000900000)
 
 Die Regelenergiearten Primärregelung, Sekundärregelung und
 Minutenreserve sowie sonstige beschaffte und eingesetzte
@@ -294,6 +307,7 @@ werden können.
 
 
 #### § 8 Abrechnung von Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001001311)
 
 (1) Betreiber von Übertragungsnetzen müssen die Kosten für
 Primärregelleistung und -arbeit, für die Vorhaltung von
@@ -333,6 +347,7 @@ verlängert werden.
 
 
 #### § 9 Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001100000)
 
 (1) Betreiber von Übertragungsnetzen sind verpflichtet, die
 Ausschreibungsergebnisse in einem einheitlichen Format getrennt nach
@@ -349,6 +364,7 @@ zu veröffentlichen.
 
 
 #### § 10 Verlustenergie
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001200000)
 
 (1) Die Betreiber von Elektrizitätsversorgungsnetzen sind
 verpflichtet, Verlustenergie in einem marktorientierten, transparenten
@@ -369,6 +385,7 @@ Ausgleich von Verlustenergie umfasst. Von der Verpflichtung nach Satz
 
 
 #### § 11 Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001302116)
 
 Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
 einen Bilanzkreis zu führen, der ausschließlich Energien, die nach dem
@@ -381,6 +398,7 @@ als 100 000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
 
 #### § 11a Bilanzkreis für den energetischen und bilanziellen Ausgleich von Systemsicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE004000118)
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
 einen gesonderten Bilanzkreis für den energetischen und bilanziellen
@@ -405,10 +423,12 @@ Leitlinie für die Kapazitätsvergabe und das Engpassmanagement (ABl. L
 
 
 ## Teil 3 - Zugang zu Elektrizitätsverteilernetzen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000500000)
 
 
 
 ### § 12 Standardisierte Lastprofile; Zählerstandsgangmessung
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001405377)
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen haben im
 Niederspannungsnetz für die Abwicklung der Stromlieferung an
@@ -475,6 +495,7 @@ nach dem Messstellenbetriebsgesetz ausgestattet ist.
 
 
 ### § 13 Jahresmehr- und Jahresmindermengen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001501301)
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet,
 für jeden Lastprofilkunden des Lieferanten eine Prognose über den
@@ -514,10 +535,12 @@ des Betreibers von Elektrizitätsverteilernetzen zu veröffentlichen.
 
 
 ## Teil 4 - Sonstige Pflichten der Betreiber von Elektrizitätsversorgungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000600000)
 
 
 
 ### § 14 Lieferantenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001602360)
 
 (1) Die Netzbetreiber sind verpflichtet, für die Durchführung des
 Lieferantenwechsels für Letztverbraucher sowie für die Zuordnung von
@@ -578,6 +601,7 @@ unberührt.
 
 
 ### § 15 Engpassmanagement
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001700000)
 
 (1) Betreiber von Übertragungsnetzen haben im Rahmen des
 wirtschaftlich Zumutbaren das Entstehen von Engpässen in ihren Netzen
@@ -622,14 +646,17 @@ Elektrizitätsverteilernetzen.
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001801377)
 
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE001901377)
 
 
 
 ### § 18 Messung
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002004118)
 
 Die Messung erfolgt nach den Bestimmungen des
 Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034) in
@@ -637,34 +664,42 @@ der jeweils geltenden Fassung.
 
 
 ### § 18a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003501118)
 
 
 
 ### § 18b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003702118)
 
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002102118)
 
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002203118)
 
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002301118)
 
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002402118)
 
 
 
 ## Teil 5 - Vertragsbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000700000)
 
 
 
 ### § 23 Vertragliche Ausgestaltung des Netzzugangs
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002500000)
 
 (1) Der Netzzugangsberechtigte fordert spätestens durch Anmeldung der
 ersten Kundenentnahmestelle zur Netznutzung ein verbindliches Angebot
@@ -681,6 +716,7 @@ Sicherheitsleistung verlangen.
 
 
 ### § 24 Netznutzungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002601301)
 
 (1) Netznutzer haben einen Anspruch auf Abschluss eines
 Netznutzungsvertrages. Wird der Netznutzungsvertrag von einem
@@ -725,6 +761,7 @@ zu folgenden Gegenständen enthalten:
 
 
 ### § 25 Lieferantenrahmenvertrag
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002700000)
 
 (1) Lieferanten haben gegen die Netzbetreiber einen Anspruch auf
 Abschluss eines Lieferantenrahmenvertrages über die Abwicklung der
@@ -773,11 +810,13 @@ zu folgenden Gegenständen enthalten:
 
 
 ### § 25a Haftung bei Störungen der Netznutzung
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003600377)
 
 § 18 der Niederspannungsanschlussverordnung gilt entsprechend.
 
 
 ### § 26 Bilanzkreisvertrag
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002801311)
 
 (1) Zwischen dem Bilanzkreisverantwortlichen und dem Betreiber von
 Übertragungsnetzen muss ein Vertrag über die Führung, Abwicklung und
@@ -817,6 +856,7 @@ zu folgenden Gegenständen enthalten:
 
 
 ### § 26a Erbringung von Regelleistung durch Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003800311)
 
 (1) Lieferanten, Bilanzkreisverantwortliche und Betreiber von
 Übertragungsnetzen stellen sicher, dass einem Letztverbraucher mit
@@ -841,10 +881,12 @@ Juli 2016, im Übrigen ab dem 1. Januar 2018.
 
 
 ## Teil 6 - Befugnisse der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000800000)
 
 
 
 ### § 27 Festlegungen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE002904118)
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die
@@ -1046,6 +1088,7 @@ bis 3 in ihrem Amtsblatt öffentlich bekannt machen.
 
 
 ### § 28 Standardangebote
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003000000)
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die
@@ -1081,10 +1124,12 @@ Energiewirtschaftsgesetzes gelten die Absätze 1 bis 4 entsprechend.
 
 
 ## Teil 7 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNG000900000)
 
 
 
 ### § 29 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003101377)
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1093,15 +1138,18 @@ einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16,
 
 
 ### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003201377)
 
 
 
 ### § 31 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003300000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html#BJNR224300005BJNE003400000)
 
 Der Bundesrat hat zugestimmt.
 

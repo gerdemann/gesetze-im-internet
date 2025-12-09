@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhl_v/BJNR390800994.html#BJNR390800994BJNE000100000)
 
 Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch
 Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062)
@@ -28,6 +29,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/treuhl_v/BJNR390800994.html#BJNR390800994BJNE000204377)
 
 (1) Die der Treuhandanstalt auf Grund des Treuhandgesetzes und des
 Artikels 25 des Einigungsvertrages zugewiesenen liegenschaftsbezogenen
@@ -61,6 +63,7 @@ zuständigen Bundesministerium wahrnimmt.
 
 
 ## § 2 Übertragung von Unternehmensbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/treuhl_v/BJNR390800994.html#BJNR390800994BJNE000301307)
 
 (1) Die Geschäftsanteile der Treuhandanstalt an der im Handelsregister
 des Amtsgerichts Berlin-Charlottenburg unter HRB 36064 eingetragenen
@@ -78,11 +81,13 @@ Treuhand Liegenschaftsgesellschaft mbH übertragen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/treuhl_v/BJNR390800994.html#BJNR390800994BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage 1 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/treuhl_v/BJNR390800994.html#BJNR390800994BJNE000501307)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3909;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -190,6 +195,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anlage 2 (zu § 2 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/treuhl_v/BJNR390800994.html#BJNR390800994BJNE000600307)
 
 Fundstelle des Originaltextes: BGBl. I 1996, 889
 

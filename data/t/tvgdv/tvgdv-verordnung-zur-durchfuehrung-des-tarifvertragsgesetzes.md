@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Tarifausschuß
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002101308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000205311)
 
 Das Bundesministerium für Arbeit und Soziales errichtet den in § 5 des
 Tarifvertragsgesetzes vorgesehenen Ausschuß (Tarifausschuß). Es
@@ -35,6 +37,7 @@ Mitglieder auf Grund von Vorschlägen dieser Organisationen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000304311)
 
 (1) Die Verhandlungen und Beratungen des Tarifausschusses leitet ein
 Beauftragter des Bundesministeriums für Arbeit und Soziales. Die
@@ -46,6 +49,7 @@ Telefonkonferenz teilnimmt, gilt als anwesend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000404311)
 
 (1) Die Beschlüsse des Tarifausschusses bedürfen der Stimmen der
 Mehrheit seiner Mitglieder. Der Beauftragte des Bundesministeriums für
@@ -67,10 +71,12 @@ Abschluss der Beratung.
 
 
 ## Zweiter Abschnitt - Allgemeinverbindlicherklärung und Aufhebung der Allgemeinverbindlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002201308)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000505311)
 
 (1) Das Bundesministerium für Arbeit und Soziales macht einen Antrag
 auf Allgemeinverbindlicherklärung eines Tarifvertrages im
@@ -91,6 +97,7 @@ Allgemeinverbindlicherklärung abweisen, wenn die Voraussetzungen des §
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000602308)
 
 Ist ein Antrag auf Allgemeinverbindlicherklärung bekanntgemacht
 worden, so können Arbeitgeber und Arbeitnehmer, die von der
@@ -104,6 +111,7 @@ Druckkosten sowie das Übersendungsporto.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000705311)
 
 (1) Das Bundesministerium für Arbeit und Soziales beruft den
 Tarifausschuß zu einer Verhandlung über den Antrag auf
@@ -122,6 +130,7 @@ eine vorherige schriftliche Stellungnahme nicht voraus.
 
 
 ### § 6a
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE002100311)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann eine Teilnahme
 der in § 5 Absatz 2 des Tarifvertragsgesetzes Genannten, der
@@ -166,6 +175,7 @@ Aufzeichnungen der Verhandlung vornehmen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000804308)
 
 Die Allgemeinverbindlicherklärung bedarf des Einvernehmens mit dem
 Tarifausschuß. Mit der Allgemeinverbindlicherklärung bestimmt das
@@ -178,6 +188,7 @@ Antrages.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE000904308)
 
 Das Bundesministerium für Arbeit und Soziales teilt seine Entscheidung
 über den Antrag den Tarifvertragsparteien, im Falle der Ablehnung auch
@@ -187,6 +198,7 @@ begründen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001002308)
 
 (1) Arbeitgeber und Arbeitnehmer, für die der Tarifvertrag infolge der
 Allgemeinverbindlicherklärung verbindlich ist, können von einer der
@@ -200,6 +212,7 @@ Betrieb auszulegen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001105311)
 
 Erwägt das Bundesministerium für Arbeit und Soziales die Aufhebung der
 Allgemeinverbindlichkeit eines Tarifvertrages, so gibt es den
@@ -210,6 +223,7 @@ Absatz 1 und die §§ 6 bis 8 gelten sinngemäß.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001204308)
 
 Die Allgemeinverbindlicherklärung, die Rücknahme oder Ablehnung des
 Antrages auf Allgemeinverbindlicherklärung, die Aufhebung der
@@ -224,6 +238,7 @@ Allgemeinverbindlicherklärung bekanntgemacht worden ist.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001304308)
 
 Das Bundesministerium für Arbeit und Soziales kann der obersten
 Arbeitsbehörde eines Landes für dessen Bereich das Recht zur
@@ -234,10 +249,12 @@ sinngemäß.
 
 
 ## Dritter Abschnitt - Aufhebung von Tarifordnungen und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002301308)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001404311)
 
 Das Bundesministerium für Arbeit und Soziales soll vor der Aufhebung
 einer Tarifordnung oder einer Anordnung (§ 10 Absatz 2 des
@@ -248,10 +265,12 @@ bekannt.
 
 
 ## Vierter Abschnitt - Tarifregister
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002401308)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001503360)
 
 (1) Beim Bundesministerium für Arbeit und Soziales kann ein
 Tarifarchiv auch in elektronischer Form geführt werden. Die Pflicht
@@ -273,6 +292,7 @@ ihres Abschlusses und ihres Inkrafttretens bezeichnet.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001604311)
 
 (1) Das Bundesministerium für Arbeit und Soziales benachrichtigt die
 Tarifvertragsparteien von der Eintragung der
@@ -286,6 +306,7 @@ Tarifregister vermerkt werden.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001705360)
 
 Die Einsicht des Tarifregisters sowie der registrierten Tarifverträge
 ist jedem gestattet. Das Bundesministerium für Arbeit und Soziales
@@ -296,10 +317,12 @@ Geschäftsgeheimnisse oder personenbezogene Daten beinhaltet.
 
 
 ## Fünfter Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002501308)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001801308)
 
 Das Verfahren bei der Allgemeinverbindlicherklärung und bei der
 Beendigung der Allgemeinverbindlichkeit von Tarifverträgen ist
@@ -307,10 +330,12 @@ kostenfrei.
 
 
 ## Sechster Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNG002601308)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/tvgdv/BJNR001930970.html#BJNR001930970BJNE001901308)
 
 (Inkrafttreten, Außerkrafttreten)
 

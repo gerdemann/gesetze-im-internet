@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -56,9 +57,11 @@ Es verordnen auf Grund
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000200000)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung
 
@@ -82,6 +85,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung
 
 
 ### § 2 Landwirtschaftliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000302124)
 
 (1) Eine landwirtschaftliche Tätigkeit im Sinne des Artikels 4 Absatz
 1 Buchstabe c Unterbuchstabe ii oder iii der Verordnung (EU) Nr.
@@ -183,6 +187,7 @@ Fläche gemäß Artikel 46 Absatz 2 Buchstabe m der Verordnung (EU) Nr.
 
 
 ### § 2a Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005500124)
 
 (1) Als Dauergrünland nach Artikel 4 Absatz 1 Buchstabe h der
 Verordnung (EU) Nr. 1307/2013 gelten, unbeschadet des § 2 des
@@ -206,6 +211,7 @@ worden ist, gilt nicht als Umpflügen im Sinne des Absatzes 1.
 
 
 ### § 3 Niederwald mit Kurzumtrieb
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000400000)
 
 Die für Niederwald mit Kurzumtrieb in Betracht kommenden Gehölzarten,
 einschließlich der Angabe der zulässigen Arten für im Umweltinteresse
@@ -214,43 +220,53 @@ festgelegt.
 
 
 ### § 4 Mindestanforderungen für den Bezug von Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000500000)
 
 Direktzahlungen werden im Fall des Artikels 10 Absatz 1 Buchstabe b
 der Verordnung (EU) Nr. 1307/2013 nicht gewährt.
 
 
 ## Teil 2 - Aktiver Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000200000)
 
 
 ### § 5 Nichtanwendung von Artikel 9 Absatz 2 der Verordnung (EU) Nr. 1307/2013
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000601124)
 
 Artikel 9 Absatz 2 der Verordnung (EU) Nr. 1307/2013 wird ab dem Jahr
 2018 nicht mehr angewendet.
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000701124)
 
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000801124)
 
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE000901124)
 
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001002124)
 
 
 
 ## Teil 3 - Basisprämienregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000300000)
 
 
 ### Abschnitt 1 - Erstzuweisung der Zahlungsansprüche und Anwendung der Basisprämienregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000400000)
 
 
 #### § 10 Verfügbarkeit der beihilfefähigen Hektarflächen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001100000)
 
 (1) Der Zeitpunkt im Sinne des Artikels 24 Absatz 2 Satz 1 der
 Verordnung (EU) Nr. 1307/2013 ist der 15. Mai 2015.
@@ -262,6 +278,7 @@ Schlusstermin für den Antrag auf Direktzahlung.
 
 
 #### § 11 Mindestbetriebsgröße
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001200000)
 
 Ein Betriebsinhaber kann die Festsetzung von Zahlungsansprüchen für
 die Basisprämie nur beantragen, wenn die beihilfefähigen Hektarflächen
@@ -269,6 +286,7 @@ des Betriebs nicht kleiner als ein Hektar sind.
 
 
 #### § 12 Hauptsächlich landwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001301360)
 
 (1) Eine landwirtschaftliche Fläche, die auch für
 nichtlandwirtschaftliche Tätigkeiten genutzt wird, wird hauptsächlich
@@ -349,6 +367,7 @@ nichtlandwirtschaftliche Tätigkeit genutzt:
 
 
 #### § 12a Anpassung des Werts von Zahlungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004900118)
 
 Der auf Grund des § 12 Absatz 1 des Direktzahlungen-
 Durchführungsgesetzes bekanntgemachte Wert der Zahlungsansprüche für
@@ -357,9 +376,11 @@ Vorpommern wird linear auf den Betrag von 174,73 Euro angepasst.
 
 
 ### Abschnitt 2 - Nationale Reserve
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000500000)
 
 
 #### § 13 Auffüllung der nationalen Reserve
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001400000)
 
 (1) Reicht die nationale Reserve für eines der Jahre nach 2015 nicht
 aus, um den Bedarf für die in Artikel 30 Absatz 6 und Absatz 9 der
@@ -394,6 +415,7 @@ Durchführungsgesetzes.
 
 
 #### § 13a Kürzung der nationalen Reserve
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE006001130)
 
 (1) In Anwendung des Artikels 22 Absatz 5 Unterabsatz 2 der Verordnung
 (EU) Nr. 1307/2013 für das Kalenderjahr 2021 wird die nationale
@@ -405,6 +427,7 @@ Reserve um 7,5 Millionen Euro gekürzt.
 
 
 #### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001500000)
 
 Die Bundesanstalt ist mit Ausnahme des § 13 zuständig für die
 Überwachung und Berechnung der in der nationalen Reserve zur Verfügung
@@ -412,6 +435,7 @@ stehenden Mittel.
 
 
 #### § 15 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001600000)
 
 Die Länder teilen der Bundesanstalt und dem Bundesministerium für
 Ernährung und Landwirtschaft bis zum 1. November für das jeweilige
@@ -431,6 +455,7 @@ mit.
 
 
 #### § 16 Fälle höherer Gewalt oder außergewöhnlicher Umstände nach Artikel 30 Absatz 7 Buchstabe c der Verordnung (EU) Nr. 1307/2013
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001701360)
 
 (1) Die nationale Reserve wird verwendet zur Zuweisung von
 Zahlungsansprüchen an Betriebsinhaber, soweit ihnen infolge höherer
@@ -474,6 +499,7 @@ gewährt werden kann. Artikel 14 der Delegierten Verordnung (EU) Nr.
 
 
 #### § 16a Zuweisung von Zahlungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004100360)
 
 (1) § 11 gilt entsprechend für die Zuweisung von Zahlungsansprüchen
 aus der nationalen Reserve.
@@ -484,12 +510,15 @@ Betriebsinhaber nicht mehr als einmal.
 
 
 ## Teil 4 - Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000600000)
 
 
 ### Abschnitt 1 - Anbaudiversifizierung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000700000)
 
 
 #### § 17 Anbaudiversifizierung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001801360)
 
 (1) Für die Berechnung der Anteile der verschiedenen Kulturen nach
 Artikel 44 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird der
@@ -504,12 +533,15 @@ bestehen, für die Zwecke des Artikels 44 der Verordnung (EU) Nr.
 
 
 ### Abschnitt 2 - Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000800000)
 
 
 #### Unterabschnitt 1 - Referenzanteil
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG000900000)
 
 
 ##### § 18 Referenzanteil
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE001900000)
 
 Aus der Berechnung der Flächen mit Dauergrünland nach Artikel 45
 Absatz 2 Unterabsatz 2 Buchstabe a der Verordnung (EU) Nr. 1307/2013
@@ -519,9 +551,11 @@ ausgenommen.
 
 
 #### Unterabschnitt 2 - Dauergrünland, das der Verpflichtung nach Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 unterliegt
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG001000000)
 
 
 ##### § 19 Nichteinhaltung der Verpflichtung nach Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 in Verbindung mit § 15 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002000000)
 
 (1) Ein Betriebsinhaber, der entgegen Artikel 45 Absatz 1 Unterabsatz
 3 der Verordnung (EU)
@@ -543,6 +577,7 @@ genehmigen.
 
 
 ##### § 19a Geltungsdauer der Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach § 15 Absatz 2a des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005000124)
 
 Die Aufhebung der Bestimmung von Dauergrünland als umweltsensibel nach
 § 15 Absatz 2a des Direktzahlungen-Durchführungsgesetzes wird zu dem
@@ -552,6 +587,7 @@ Durchführungsgesetzes nach Maßgabe des § 21a endet.
 
 
 ##### § 19b Aufhebung der Bestimmung von Dauergrünland als umweltsensibel in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005101124)
 
 (1) Die Aufhebung der Bestimmung von Dauergrünland als umweltsensibel
 nach § 15 Absatz 2a des Direktzahlungen-Durchführungsgesetzes gilt für
@@ -580,9 +616,11 @@ die
 
 
 #### Unterabschnitt 3 - Dauergrünland, das nicht der Verpflichtung nach Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 unterliegt
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG001100000)
 
 
 ##### § 20 Weitere Voraussetzung bei der Genehmigung der Umwandlung von Dauergrünland im Fall des § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002100000)
 
 (1) Soweit im Fall des § 16 Absatz 3 Satz 2 Nummer 3 des
 Direktzahlungen-Durchführungsgesetzes eine für die Anlage von
@@ -622,6 +660,7 @@ dem nach Satz 2 erforderlichen Inhalt schriftlich abzugeben.
 
 
 ##### § 20a Genehmigung der Umwandlung von Dauergrünland in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005200124)
 
 (1) Die Genehmigung der Umwandlung von Dauergrünland nach § 16 Absatz
 3 des Direktzahlungen-Durchführungsgesetzes gilt für eine Fläche, die
@@ -648,6 +687,7 @@ sich von einer Fläche natürlich ausgebreitet hat, die
 
 
 ##### § 21 Anlage von Dauergrünland in derselben Region im Fall des § 16 Absatz 3 Satz 2 Nummer 3 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002203124)
 
 (1) Die Anlage von Dauergrünland in derselben Region im Fall des § 16
 Absatz 3 Satz 2 Nummer 3 des Direktzahlungen-Durchführungsgesetzes ist
@@ -665,6 +705,7 @@ ist, ist die Vorschrift entsprechend anzuwenden.
 
 
 ##### § 21a Geltungsdauer der Genehmigungen nach § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004200360)
 
 Nicht genutzte Genehmigungen nach § 16 Absatz 3 des Direktzahlungen-
 Durchführungsgesetzes enden,
@@ -694,6 +735,7 @@ Stelle des dort genannten Schlusstermins derjenige für das Jahr 2016.
 
 
 ##### § 22 Rückumwandlung bei Umwandlung entgegen § 16 Absatz 3 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002301124)
 
 Ein Betriebsinhaber hat entgegen § 16 Absatz 3 des Direktzahlungen-
 Durchführungsgesetzes ohne Genehmigung umgewandeltes Dauergrünland bis
@@ -706,9 +748,11 @@ anzuwenden.
 
 
 #### Unterabschnitt 4 - Genehmigung der Umwandlung von Dauergrünland nach Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG001200000)
 
 
 ##### § 23 Erteilung von Genehmigungen zur Umwandlung von Dauergrünland bei Abnahme des Dauergrünlandanteils um mehr als 5 Prozent
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002400000)
 
 (1) Im Fall des § 16 Absatz 5 des Direktzahlungen-
 Durchführungsgesetzes wird, solange
@@ -737,6 +781,7 @@ vorliegen.
 
 
 ##### § 24 Erteilung von Genehmigungen zur Umwandlung von Dauergrünland im Fall des Rückgangs der Abnahme des Dauergrünlandanteils auf weniger als 5 Prozent gegenüber dem Referenzanteil
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002502124)
 
 (1) Liegt ein Fall des § 23 Absatz 1 nicht vor und sinkt nach
 Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-
@@ -779,9 +824,11 @@ Bundesanzeiger bekannt.
 
 
 #### Unterabschnitt 5 - Rückumwandlung von Flächen in Dauergrünland nach Bekanntmachung nach § 16 Absatz 4 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG001500360)
 
 
 ##### § 24a Pflicht zur Umwandlung in Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004300360)
 
 (1) Ein Betriebsinhaber, der über Flächen verfügt, auf denen
 Dauergrünland für andere Nutzungen umgewandelt worden ist, ist
@@ -805,6 +852,7 @@ anzuwenden ist, sind die Vorschriften entsprechend anzuwenden.
 
 
 ##### § 24b Auswahl der Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004400360)
 
 (1) Ein Betriebsinhaber ist in den in Artikel 44 Absatz 2 Unterabsatz
 4 der Delegierten Verordnung (EU) Nr. 639/2014 genannten Fällen zur
@@ -858,6 +906,7 @@ wenn die Voraussetzungen für alle Regionen vorliegen.
 
 
 ##### § 24c Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004500360)
 
 (1) Die Feststellung, dass ein Betriebsinhaber verpflichtet ist,
 Flächen wieder in Dauergrünland umzuwandeln, ergeht schriftlich.
@@ -896,6 +945,7 @@ Referenzanteils sinkt.
 
 
 ##### § 24d Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004600360)
 
 (1) Nach der Bekanntgabe einer Feststellung nach § 24c Absatz 1 in
 Verbindung mit Absatz 2 oder 3 hat ein Betriebsinhaber der zuständigen
@@ -944,6 +994,7 @@ verfügt, als in dem Umfang dieser Meldung geändert.
 
 
 ##### § 24e Weitere Jahre
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004700360)
 
 Solange eine Bekanntmachung in den in § 24a Absatz 1 Nummer 1 und 2
 genannten Fällen nicht aufgehoben ist, sind die §§ 24a bis 24d auch
@@ -955,9 +1006,11 @@ liegt.
 
 
 ### Abschnitt 3 - Flächennutzung im Umweltinteresse
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG001300000)
 
 
 #### § 25 Brachliegende Flächen (Artikel 46 Absatz 2 Buchstabe a der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002605119)
 
 (1) Eine brachliegende Fläche, die von einem Betriebsinhaber im Antrag
 auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz
@@ -976,6 +1029,7 @@ Futterzwecke genutzt werden.
 
 
 #### § 26 Terrassen (Artikel 46 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002700000)
 
 Terrassen können im Antrag auf Direktzahlung für die Zahlung für dem
 Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden als
@@ -986,6 +1040,7 @@ der Verordnung (EU) Nr. 1306/2013 geschützt sind.
 
 
 #### § 27 Landschaftselemente (Artikel 46 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002801124)
 
 Landschaftselemente können im Antrag auf Direktzahlung für die Zahlung
 für dem Klima- und Umweltschutz förderliche
@@ -998,6 +1053,7 @@ Anhang II der Verordnung (EU) Nr. 1306/2013 geschützt sind.
 
 
 #### § 28 Pufferstreifen und Feldränder (Artikel 46 Absatz 2 Buchstabe d der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE002902124)
 
 (1) Alle Pufferstreifen und Feldränder können im Antrag auf
 Direktzahlung für die Zahlung für dem Klima- und Umweltschutz
@@ -1014,6 +1070,7 @@ entsprechend.
 
 
 #### § 29 Streifen von beihilfefähigen Hektarflächen an Waldrändern (Artikel 46 Absatz 2 Buchstabe f der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003001124)
 
 (1) Streifen von beihilfefähigen Hektarflächen an Waldrändern können
 im Antrag auf Direktzahlung für die Zahlung für dem Klima- und
@@ -1031,6 +1088,7 @@ entsprechend.
 
 
 #### § 30 Flächen mit Niederwald mit Kurzumtrieb (Artikel 46 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003100000)
 
 (1) Zulässige Arten für im Umweltinteresse genutzte Flächen mit
 Niederwald mit Kurzumtrieb bei der Zahlung für dem Klima- und
@@ -1044,6 +1102,7 @@ Pflanzenschutzmittel verwendet werden.
 
 
 #### § 31 Flächen mit Zwischenfruchtanbau oder Gründecke (Artikel 46 Absatz 2 Buchstabe i der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003206119)
 
 (1) Auf einer Fläche, die im Antrag auf Direktzahlung für die Zahlung
 für dem Klima- und Umweltschutz förderliche
@@ -1075,6 +1134,7 @@ für Futterzwecke genutzt werden.
 
 
 #### § 32 Flächen mit stickstoffbindenden Pflanzen (Artikel 46 Absatz 2 Buchstabe j der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003302124)
 
 (1) Auf einer Fläche mit stickstoffbindenden Pflanzen, die im Antrag
 auf Direktzahlung für die Zahlung für dem Klima- und Umweltschutz
@@ -1120,6 +1180,7 @@ der stickstoffbindenden Pflanzen führt.
 
 
 #### § 32a Für Honigpflanzen genutztes brachliegendes Land (Artikel 46 Absatz 2 Buchstabe m der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005600124)
 
 (1) Auf für Honigpflanzen genutztem brachliegendem Land (pollen- und
 nektarreiche Arten), das von einem Betriebsinhaber im Antrag auf
@@ -1193,6 +1254,7 @@ etabliert worden ist.
 
 
 #### § 32b Flächen mit Miscanthus (Artikel 46 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005800119)
 
 Auf einer Fläche mit Miscanthus, die von einem Betriebsinhaber im
 Antrag auf Direktzahlung für die Zahlung für dem Klima- und
@@ -1212,6 +1274,7 @@ verboten.
 
 
 #### § 32c Flächen mit Silphium perfoliatum (Artikel 46 Absatz 2 Buchstabe l der Verordnung (EU) Nr. 1307/2013)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005900119)
 
 Auf einer Fläche mit Silphium perfoliatum, die von einem
 Betriebsinhaber im Antrag auf Direktzahlung für die Zahlung für dem
@@ -1231,6 +1294,7 @@ verboten.
 
 
 #### § 33 Umrechnungsfaktoren bei im Umweltinteresse genutzten Flächen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003400000)
 
 Bei der Berechnung der Flächengröße der im Umweltinteresse genutzten
 Flächen werden bei
@@ -1250,14 +1314,17 @@ die Umrechnungsfaktoren nach Anhang X der Verordnung (EU) Nr.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNG001400000)
 
 
 ### § 34 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005300124)
 
 Die §§ 19b und 20a sind mit Wirkung vom 28. Oktober 2016 anzuwenden.
 
 
 ### § 35 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003503124)
 
 (1) Die mit der Verordnung vom 12. Dezember 2017 aufgehobenen,
 ersetzten oder geänderten Vorschriften in den §§ 2, 25, 27, 28, 29, 31
@@ -1271,11 +1338,13 @@ der vor dem 30. März 2018 jeweils geltenden Fassung weiter anzuwenden.
 
 
 ### § 36 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005400124)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003602119)
 
 Der Bundesrat hat zugestimmt.
 
@@ -1283,6 +1352,7 @@ Der Bundesrat hat zugestimmt.
 (zu §§ 3 und 30 Absatz 1)
 
 ### Anlage 1 Für Niederwald mit Kurzumtrieb geeignete Arten, einschließlich Angabe der zulässigen Arten für im Umweltinteresse genutzte Flächen, und deren maximale Erntezyklen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003700000)
 
 (Fundstelle: BGBl. I 2014, 1697)
 
@@ -1484,11 +1554,13 @@ Der Bundesrat hat zugestimmt.
 [^F787185_01_BJNR169000014BJNE003700000]: 
 
 ### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003801124)
 
 
 (zu § 31 Absatz 1)
 
 ### Anlage 3 Zulässige Arten für Kulturpflanzenmischungen auf Flächen mit Zwischenfruchtanbau oder Gründecke, die als im Umweltinteresse genutzte Flächen ausgewiesen werden
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE003902124)
 
 (Fundstelle: BGBl. I 2014, 1699 - 1701)
 
@@ -1963,6 +2035,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 32)
 
 ### Anlage 4 Zulässige Arten stickstoffbindender Pflanzen auf Flächen mit stickstoffbindenden Pflanzen, die als im Umweltinteresse genutzte Flächen ausgewiesen werden
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE004002124)
 
 (Fundstelle: BGBl. I 2014, 1702)
 
@@ -2111,6 +2184,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 32a Absatz 2 Satz 1 und Absatz 3)
 
 ### Anlage 5 Zulässige Arten auf für Honigpflanzen genutztem brachliegendem Land (pollen- und nektarreiche Arten), das als im Umweltinteresse genutzte Fläche ausgewiesen wird
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfv/BJNR169000014.html#BJNR169000014BJNE005700124)
 
 (Fundstelle: BAnz AT 29.03.2018 V1)
 

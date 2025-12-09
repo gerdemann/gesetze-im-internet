@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bmfzversano/BJNR516700960.html#BJNR516700960BJNE000100326)
 
 Auf Grund des § 155 Abs. 1 Satz 2 des Bundesbeamtengesetzes (BBG) vom
 14\. Juli 1953 in der Fassung vom 18. September 1957 (Bundesgesetzbl. I

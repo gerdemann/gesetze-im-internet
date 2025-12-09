@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tamwhv/BJNR0420C0023.html#BJNR0420C0023BJNE000100000)
 
 (1) Diese Verordnung regelt Anforderungen an die Gute
 Herstellungspraxis von Tierarzneimitteln und
@@ -71,6 +72,7 @@ Abfällen von Tierarzneimitteln.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tamwhv/BJNR0420C0023.html#BJNR0420C0023BJNE000200000)
 
 (1) Für die Zwecke dieser Verordnung gelten die Begriffsbestimmungen
 der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft
@@ -142,6 +144,7 @@ der Qualitätsbewertung.
 
 
 ## § 3 Qualitätsmanagementsystem und Gute Herstellungspraxis
+[Direktlink](https://www.gesetze-im-internet.de/tamwhv/BJNR0420C0023.html#BJNR0420C0023BJNE000300000)
 
 (1) Personen, Betriebe und Einrichtungen müssen ein funktionierendes
 QM-System entsprechend Art und Umfang der durchgeführten Tätigkeiten
@@ -170,6 +173,7 @@ geschützt sind.
 
 
 ## § 4 Tierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tamwhv/BJNR0420C0023.html#BJNR0420C0023BJNE000400000)
 
 (1) Der Gesundheitszustand von Tieren, die für die Herstellung oder
 Prüfung von Tierarzneimitteln und veterinärmedizintechnischen

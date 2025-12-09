@@ -20,19 +20,23 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Neufassung des Anfechtungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000100000)
 
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE000200000)
 
 -
 
 
 ## Zweiter Teil - Aufhebung und Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000300000)
 
 
 
 ## Art 2 Aufhebung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001500307)
 
 Es werden aufgehoben:
 1\.
@@ -56,11 +60,13 @@ Es werden aufgehoben:
 
 
 ## (XXXX) Art 3 bis 20
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE000403307)
 
 -
 
 
 ## Art 21 Änderung der Schiffahrtsrechtlichen Verteilungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001701307)
 
 (1)
 
@@ -72,20 +78,24 @@ anzuwenden.
 
 
 ## (XXXX) Art 22 bis 101
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001612307)
 
 -
 
 Internationales Insolvenzrecht.
 
 ## Dritter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000500000)
 
 
 
 ## Art 102 - Durchführung der Verordnung (EG) Nr. 1346/2000 über Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000600301)
 
 
 
 ## § 1 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001900301)
 
 (1) Kommt in einem Insolvenzverfahren den deutschen Gerichten nach
 Artikel 3 Abs. 1 der Verordnung (EG) Nr. 1346/2000 des Rates vom 29.
@@ -113,6 +123,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ## § 2 Begründung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002000301)
 
 Ist anzunehmen, dass sich Vermögen des Schuldners in einem anderen
 Mitgliedstaat der Europäischen Union befindet, sollen im
@@ -123,6 +134,7 @@ Gerichte ergibt.
 
 
 ## § 3 Vermeidung von Kompetenzkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002100301)
 
 (1) Hat das Gericht eines anderen Mitgliedstaats der Europäischen
 Union ein Hauptinsolvenzverfahren eröffnet, so ist, solange dieses
@@ -142,6 +154,7 @@ Mitgliedstaats zuständig seien.
 
 
 ## § 4 Einstellung des Insolvenzverfahrens zugunsten der Gerichte eines anderen Mitgliedstaats
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002200301)
 
 (1) Darf das Insolvenzgericht ein bereits eröffnetes
 Insolvenzverfahren nach § 3 Abs. 1 nicht fortsetzen, so stellt es von
@@ -176,6 +189,7 @@ Insolvenzordnung ist nicht anzuwenden.
 
 
 ## § 5 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002302311)
 
 (1) Der Antrag auf öffentliche Bekanntmachung des wesentlichen Inhalts
 der Entscheidungen nach Artikel 21 Abs. 1 der Verordnung (EG) Nr.
@@ -192,6 +206,7 @@ Beendigung in gleicher Weise bekannt zu machen.
 
 
 ## § 6 Eintragung in öffentliche Bücher und Register
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002400301)
 
 (1) Der Antrag auf Eintragung nach Artikel 22 der Verordnung (EG) Nr.
 1346/2000 ist an das nach § 1 zuständige Gericht zu richten. Dieses
@@ -213,6 +228,7 @@ Antragsteller.
 
 
 ## § 7 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002501308)
 
 Gegen die Entscheidung des Insolvenzgerichts nach § 5 oder § 6 findet
 die sofortige Beschwerde statt. Die §§ 574 bis 577 der
@@ -220,6 +236,7 @@ Zivilprozessordnung gelten entsprechend.
 
 
 ## § 8 Vollstreckung aus der Eröffnungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002600301)
 
 (1) Ist der Verwalter eines Hauptinsolvenzverfahrens nach dem Recht
 des Staats der Verfahrenseröffnung befugt, auf Grund der Entscheidung
@@ -234,6 +251,7 @@ Zwangsvollstreckung gilt Satz 1 entsprechend.
 
 
 ## § 9 Insolvenzplan
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002700301)
 
 Sieht ein Insolvenzplan eine Stundung, einen Erlass oder sonstige
 Einschränkungen der Rechte der Gläubiger vor, so darf er vom
@@ -242,6 +260,7 @@ dem Plan zugestimmt haben.
 
 
 ## § 10 Aussetzung der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002800301)
 
 Wird auf Antrag des Verwalters des Hauptinsolvenzverfahrens nach
 Artikel 33 der Verordnung (EG) Nr. 1346/ 2000 in einem inländischen
@@ -252,6 +271,7 @@ zahlen.
 
 
 ## § 11 Unterrichtung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE002900301)
 
 Neben dem Eröffnungsbeschluss ist den Gläubigern, die in einem anderen
 Mitgliedstaat der Europäischen Union ihren gewöhnlichen Aufenthalt,
@@ -262,6 +282,7 @@ entsprechend.
 
 
 ### Art 102a Insolvenzverwalter aus anderen Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003400160)
 
 Angehörige eines anderen Mitgliedstaates der Europäischen Union oder
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
@@ -276,10 +297,12 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 
 
 ### Art 102b - Durchführung der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000601308)
 
 
 
 ### § 1 Ausfallbestimmungen von zentralen Gegenparteien
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003800308)
 
 (1) Die Eröffnung des Insolvenzverfahrens hindert nicht
 
@@ -308,20 +331,24 @@ Sicherungsmaßnahmen nach § 21 der Insolvenzordnung.
 
 
 ### § 2 Unanfechtbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003900308)
 
 Die nach § 1 zulässigen Maßnahmen unterliegen nicht der
 Insolvenzanfechtung.
 
 
 ### Art 102c - Durchführung der Verordnung (EU) 2015/848 über Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000700311)
 
 
 
 #### Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000800311)
 
 
 
 #### § 1 Örtliche Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004300311)
 
 (1) Kommt in einem Insolvenzverfahren den deutschen Gerichten nach
 Artikel 3 Absatz 1 der Verordnung (EU) 2015/848 des Europäischen
@@ -352,6 +379,7 @@ Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 #### § 2 Vermeidung von Kompetenzkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004400311)
 
 (1) Hat das Gericht eines anderen Mitgliedstaats der Europäischen
 Union ein Hauptinsolvenzverfahren eröffnet, so ist, solange dieses
@@ -373,6 +401,7 @@ Gerichte des anderen Mitgliedstaats zuständig seien.
 
 
 #### § 3 Einstellung des Insolvenzverfahrens zugunsten eines anderen Mitgliedstaats
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004500311)
 
 (1) Vor der Einstellung eines bereits eröffneten Insolvenzverfahrens
 nach § 2 Absatz 1 Satz 2 soll das Insolvenzgericht den
@@ -405,6 +434,7 @@ Gericht ist eine Ausfertigung des Einstellungsbeschlusses zu
 
 
 #### § 4 Rechtsmittel nach Artikel 5 der Verordnung (EU) 2015/848
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004601125)
 
 Unbeschadet des § 21 Absatz 1 Satz 2 und des § 34 der Insolvenzordnung
 steht dem Schuldner und jedem Gläubiger gegen die Entscheidung über
@@ -419,6 +449,7 @@ Rechtskraft wirksam wird.
 
 
 #### § 5 Zusätzliche Angaben im Eröffnungsantrag des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004700311)
 
 Bestehen Anhaltspunkte dafür, dass auch die internationale
 Zuständigkeit eines anderen Mitgliedstaats der Europäischen Union für
@@ -450,6 +481,7 @@ nach § 305 Absatz 1 der Insolvenzordnung zu stellenden Anträge.
 
 
 #### § 6 Örtliche Zuständigkeit für Annexklagen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004800311)
 
 (1) Kommt den deutschen Gerichten infolge der Eröffnung eines
 Insolvenzverfahrens die Zuständigkeit für Klagen nach Artikel 6 Absatz
@@ -465,6 +497,7 @@ zivil-oder handelsrechtliche Klage zuständig ist.
 
 
 #### § 7 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004900311)
 
 (1) Der Antrag auf öffentliche Bekanntmachung nach Artikel 28 Absatz 1
 der Verordnung (EU) 2015/848 ist an das nach § 1 Absatz 2 zuständige
@@ -490,6 +523,7 @@ weiter und unterrichtet den Antragsteller hierüber.
 
 
 #### § 8 Eintragung in öffentliche Bücher und Register
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005000311)
 
 (1) Der Antrag auf Eintragung nach Artikel 29 Absatz 1 der Verordnung
 (EU) 2015/848 ist an das nach § 1 Absatz 2 zuständige Gericht zu
@@ -514,6 +548,7 @@ Verfahrenseröffnung am nächsten kommt.
 
 
 #### § 9 Rechtsmittel gegen eine Entscheidung nach § 7 oder § 8
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005101125)
 
 Gegen die Entscheidung des Insolvenzgerichts nach § 7 oder § 8 findet
 die sofortige Beschwerde statt. Die §§ 574 bis 577 der
@@ -523,6 +558,7 @@ Rechtskraft wirksam wird.
 
 
 #### § 10 Vollstreckung aus der Eröffnungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005200311)
 
 Ist der Verwalter eines Hauptinsolvenzverfahrens nach dem Recht des
 Mitgliedstaats der Europäischen Union, in dem das Insolvenzverfahren
@@ -536,14 +572,17 @@ Wege der Zwangsvollstreckung gilt Satz 1 entsprechend.
 
 
 #### Teil 2 - Sekundärinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG000900311)
 
 
 
 ##### Abschnitt 1 - Hauptinsolvenzverfahren in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG001000311)
 
 
 
 ##### § 11 Voraussetzungen für die Abgabe der Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005300311)
 
 (1) Soll in einem in der Bundesrepublik Deutschland anhängigen
 Insolvenzverfahren eine Zusicherung nach Artikel 36 der Verordnung
@@ -557,6 +596,7 @@ Absatz 1 entsprechend.
 
 
 ##### § 12 Öffentliche Bekanntmachung der Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005400311)
 
 Der Insolvenzverwalter hat die öffentliche Bekanntmachung der
 Zusicherung sowie den Termin und das Verfahren zu deren Billigung zu
@@ -566,12 +606,14 @@ durch den Insolvenzverwalter besonders zuzustellen; § 8 Absatz 3 Satz
 
 
 ##### § 13 Benachrichtigung über die beabsichtigte Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005500311)
 
 Für die Benachrichtigung nach Artikel 36 Absatz 7 Satz 1 der
 Verordnung (EU) 2015/848 gilt § 12 Satz 2 entsprechend.
 
 
 ##### § 14 Haftung des Insolvenzverwalters bei einer Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005600311)
 
 Für die Haftung des Insolvenzverwalters nach Artikel 36 Absatz 10 der
 Verordnung (EU) 2015/848 in einem in der Bundesrepublik Deutschland
@@ -580,10 +622,12 @@ entsprechend.
 
 
 ##### Abschnitt 2 - Hauptinsolvenzverfahren in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG001100311)
 
 
 
 ##### § 15 Insolvenzplan
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005700311)
 
 Sieht ein Insolvenzplan in einem in der Bundesrepublik Deutschland
 eröffneten Sekundärinsolvenzverfahren eine Stundung, einen Erlass oder
@@ -594,6 +638,7 @@ Planregelungen, mit denen in Absonderungsrechte eingegriffen wird.
 
 
 ##### § 16 Aussetzung der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005800311)
 
 Wird auf Antrag des Verwalters des Hauptinsolvenzverfahrens nach
 Artikel 46 der Verordnung (EU) 2015/848 in einem in der Bundesrepublik
@@ -604,6 +649,7 @@ zu zahlen.
 
 
 ##### § 17 Abstimmung über die Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE005900311)
 
 (1) Der Verwalter des Hauptinsolvenzverfahrens führt die Abstimmung
 über die Zusicherung nach Artikel 36 der Verordnung (EU) 2015/848
@@ -622,6 +668,7 @@ Gläubiger im Sinne von Artikel 2 Nummer 11 der Verordnung (EU)
 
 
 ##### § 18 Stimmrecht bei der Abstimmung über die Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006000311)
 
 (1) Der Inhaber einer zur Teilnahme an der Abstimmung über die
 Zusicherung angemeldeten Forderung gilt vorbehaltlich des Satzes 2
@@ -644,12 +691,14 @@ Bundesagentur für Arbeit als lokaler Gläubiger nach Artikel 36 Absatz
 
 
 ##### § 19 Unterrichtung über das Ergebnis der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006100311)
 
 Für die Unterrichtung nach Artikel 36 Absatz 5 Satz 4 der Verordnung
 (EU) 2015/848 gilt § 12 Satz 2 entsprechend.
 
 
 ##### § 20 Rechtsbehelfe gegen Entscheidungen über die Eröffnung eines Sekundärinsolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006201125)
 
 (1) Wird unter Hinweis auf die Zusicherung die Eröffnung eines
 Sekundärinsolvenzverfahrens nach Artikel 38 Absatz 2 der Verordnung
@@ -667,10 +716,12 @@ Insolvenzordnung erst mit Rechtskraft wirksam wird.
 
 
 ##### Abschnitt 3 - Maßnahmen zur Einhaltung einer Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG001200311)
 
 
 
 ##### § 21 Rechtsbehelfe und Anträge nach Artikel 36 der Verordnung (EU) 2015/848
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006300311)
 
 (1) Für Entscheidungen über Anträge nach Artikel 36 Absatz 7 Satz 2
 oder Absatz 8 der Verordnung (EU) 2015/848 ist das Insolvenzgericht
@@ -688,10 +739,12 @@ entscheidet das Gericht durch unanfechtbaren Beschluss.
 
 
 #### Teil 3 - Insolvenzverfahren über das Vermögen von Mitgliedern einer Unternehmensgruppe
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNG001300311)
 
 
 
 #### § 22 Eingeschränkte Anwendbarkeit des § 56b und der §§ 269a bis 269i der Insolvenzordnung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006401311)
 
 (1) Gehören Unternehmen einer Unternehmensgruppe im Sinne von § 3e der
 Insolvenzordnung auch einer Unternehmensgruppe im Sinne von Artikel 2
@@ -717,6 +770,7 @@ bis 77 der Verordnung (EU) 2015/848 beeinträchtigen würde.
 
 
 #### § 23 Beteiligung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006500311)
 
 (1) Beabsichtigt der Verwalter, die Einleitung eines Gruppen-
 Koordinationsverfahrens nach Artikel 61 Absatz 1 der Verordnung (EU)
@@ -748,6 +802,7 @@ Verordnung (EU) 2015/848 genannten Unterlagen vorzulegen.
 
 
 #### § 24 Aussetzung der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006600311)
 
 § 16 gilt entsprechend bei der Aussetzung
 
@@ -764,6 +819,7 @@ Verordnung (EU) 2015/848 genannten Unterlagen vorzulegen.
 
 
 #### § 25 Rechtsbehelf gegen die Entscheidung nach Artikel 69 Absatz 2 der Verordnung (EU) 2015/848
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006700311)
 
 Gegen die Entscheidung des Koordinators nach Artikel 69 Absatz 2 der
 Verordnung (EU) 2015/848 ist die Erinnerung statthaft. § 573 der
@@ -771,6 +827,7 @@ Zivilprozessordnung gilt entsprechend.
 
 
 #### § 26 Rechtsmittel gegen die Kostenentscheidung nach Artikel 77 Absatz 4 der Verordnung (EU) 2015/848
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006801125)
 
 Gegen die Entscheidung über die Kosten des Gruppen-
 Koordinationsverfahrens nach Artikel 77 Absatz 4 der Verordnung (EU)
@@ -781,6 +838,7 @@ Rechtskraft wirksam wird.
 
 
 ## Art 103 Anwendung des bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE000702140)
 
 Auf Konkurs-, Vergleichs- und Gesamtvollstreckungsverfahren, die vor
 dem 1. Januar 1999 beantragt worden sind, und deren Wirkungen sind
@@ -791,6 +849,7 @@ ist.
 
 
 ### Art 103a Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001800301)
 
 Auf Insolvenzverfahren, die vor dem 1. Dezember 2001 eröffnet worden
 sind, sind die bis dahin geltenden gesetzlichen Vorschriften weiter
@@ -798,6 +857,7 @@ anzuwenden.
 
 
 ### Art 103b Überleitungsvorschrift zum Gesetz zur Umsetzung der Richtlinie 2002/47/EG vom 6. Juni 2002 über Finanzsicherheiten und zur Änderung des Hypothekenbankgesetzes und anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003000301)
 
 Auf Insolvenzverfahren, die vor dem 9. April 2004 eröffnet worden
 sind, sind die bis dahin geltenden gesetzlichen Vorschriften weiter
@@ -805,6 +865,7 @@ anzuwenden.
 
 
 ### Art 103c Überleitungsvorschrift zum Gesetz zur Vereinfachung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003101301)
 
 (1) Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes zur
 Vereinfachung des Insolvenzverfahrens vom 13. April 2007 (BGBl. I S.
@@ -830,6 +891,7 @@ Bekanntmachung ist ausschließlich die Bekanntmachung im Internet nach
 
 
 ### Art 103d Überleitungsvorschrift zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003200160)
 
 Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes vom 23.
 Oktober 2008 (BGBl. I S. 2026) am 1. November 2008 eröffnet worden
@@ -843,12 +905,14 @@ entzogen oder in geringerem Umfang unterworfen sind.
 
 
 ### Art 103e Überleitungsvorschrift zum Haushaltsbegleitgesetz 2011
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003300160)
 
 Auf Insolvenzverfahren, die vor dem 1. Januar 2011 beantragt worden
 sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
 
 
 ### Art 103f Überleitungsvorschrift zum Gesetz zur Änderung des § 522 der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003500308)
 
 Für Entscheidungen über die sofortige Beschwerde nach § 6 der
 Insolvenzordnung, bei denen die Frist des § 575 der
@@ -860,6 +924,7 @@ Insolvenzordnung gilt Satz 1 entsprechend.
 
 
 ### Art 103g Überleitungsvorschrift zum Gesetz zur weiteren Erleichterung der Sanierung von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE003601308)
 
 Auf Insolvenzverfahren, die vor dem 1. März 2012 beantragt worden
 sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. §
@@ -869,6 +934,7 @@ ab dem 1. Januar 2013 beantragt werden.
 
 
 ### Art 103h Überleitungsvorschrift zum Gesetz zur Verkürzung des Restschuldbefreiungsverfahrens und zur Stärkung der Gläubigerrechte
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004000311)
 
 Auf Insolvenzverfahren, die vor dem 1. Juli 2014 beantragt worden
 sind, sind vorbehaltlich der Sätze 2 und 3 die bis dahin geltenden
@@ -882,6 +948,7 @@ geltenden Fassung sind auf Insolvenzverfahren, die ab dem 19. Juli
 
 
 ### Art 103i Überleitungsvorschrift zum Bilanzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004100311)
 
 § 22a Absatz 1 der Insolvenzordnung in der Fassung des
 Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S.
@@ -890,6 +957,7 @@ Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S.
 
 
 ### Art 103j Überleitungsvorschrift zum Gesetz zur Verbesserung der Rechtssicherheit bei Anfechtungen nach der Insolvenzordnung und nach dem Anfechtungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004101311)
 
 (1) Auf Insolvenzverfahren, die vor dem 5. April 2017 eröffnet worden
 sind, sind vorbehaltlich des Absatzes 2 die bis dahin geltenden
@@ -904,6 +972,7 @@ anzuwenden.
 
 
 ### Art 103k Überleitungsvorschrift zu Artikel 2 des Gesetzes zur weiteren Verkürzung des Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und Stiftungsrecht sowie im Miet- und Pachtrecht
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE007000125)
 
 (1) Auf Insolvenzverfahren, die vor dem 1. Oktober 2020 beantragt
 worden sind, sind vorbehaltlich des Absatzes 2 die bis dahin geltenden
@@ -1022,12 +1091,14 @@ versucht worden ist.
 
 
 ### Art 103l Überleitungsvorschrift zu Artikel 6 des Gesetzes zur weiteren Verkürzung des Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und Stiftungsrecht sowie im Miet- und Pachtrecht
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE007200125)
 
 Auf Insolvenzverfahren, die vor dem 31. Dezember 2020 beantragt worden
 sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
 
 
 ### Art 103m Überleitungsvorschrift zum Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE006901125)
 
 Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt worden
 sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. §
@@ -1040,6 +1111,7 @@ Januar 2021 vorgenommen worden sind, sind die bis zum 31. Dezember
 
 
 ### Art 103n Überleitungsvorschrift zum Gesetz zur weiteren Digitalisierung der Justiz
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE007300125)
 
 (1) Auf Insolvenzverfahren, die vor dem 17. Juli 2024 eröffnet worden
 sind, sind § 5 Absatz 5 und § 8 Absatz 3 der Insolvenzordnung in der
@@ -1053,6 +1125,7 @@ anzuwenden, die vor dem 17. Juli 2024 eröffnet worden sind.
 
 
 ## Art 104 Anwendung des neuen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE000800000)
 
 In einem Insolvenzverfahren, das nach dem 31. Dezember 1998 beantragt
 wird, gelten die Insolvenzordnung und dieses Gesetz auch für
@@ -1061,6 +1134,7 @@ worden sind.
 
 
 ## Art 105 Finanztermingeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE000900000)
 
 (1) War für Finanzleistungen, die einen Markt- oder Börsenpreis haben,
 eine bestimmte Zeit oder eine bestimmte Frist vereinbart und tritt die
@@ -1112,6 +1186,7 @@ Gesamtvollstreckungsverfahrens.
 
 
 ### Art 105a Überleitungsvorschrift zum Gesetz zur Änderung der Insolvenzordnung und zur Änderung des Gesetzes, betreffend die Einführung der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE004200311)
 
 (1) Auf Insolvenzverfahren, die vor dem 10. Juni 2016 beantragt worden
 sind, ist § 104 der Insolvenzordnung in der bis dahin geltenden
@@ -1123,6 +1198,7 @@ Fassung anzuwenden.
 
 
 ## Art 106 Insolvenzanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001000000)
 
 Die Vorschriften der Insolvenzordnung über die Anfechtung von
 Rechtshandlungen sind auf die vor dem 1. Januar 1999 vorgenommenen
@@ -1132,6 +1208,7 @@ unterworfen sind.
 
 
 ## Art 107 Evaluierungsvorschrift zum Gesetz zur Verkürzung des Restschuldbefreiungsverfahrens und zur Stärkung der Gläubigerrechte
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001102311)
 
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 30.
 Juni 2018, in wie vielen Fällen bereits nach drei Jahren eine
@@ -1145,6 +1222,7 @@ Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 
 
 ### Art 107a Evaluationsvorschrift zum Gesetz zur weiteren Verkürzung des Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und Stiftungsrecht sowie im Miet- und Pachtrecht
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE007100125)
 
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 30.
 Juni 2024, wie sich die Verkürzung des Restschuldbefreiungsverfahrens
@@ -1160,6 +1238,7 @@ Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 
 
 ## Art 108 Fortbestand der Vollstreckungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001200000)
 
 (1) Bei der Zwangsvollstreckung gegen einen Schuldner, über dessen
 Vermögen ein Gesamtvollstreckungsverfahren durchgeführt worden ist,
@@ -1174,6 +1253,7 @@ Forderungen zu berichtigen.
 
 
 ## Art 109 Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001300000)
 
 Soweit den Inhabern von Schuldverschreibungen, die vor dem 1. Januar
 1963 von anderen Kreditinstituten als Hypothekenbanken ausgegeben
@@ -1185,6 +1265,7 @@ Insolvenzverfahren zu beachten.
 
 
 ## Art 110 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eginso/BJNR291109994.html#BJNR291109994BJNE001400000)
 
 (1) Die Insolvenzordnung und dieses Gesetz treten, soweit nichts
 anderes bestimmt ist, am 1. Januar 1999 in Kraft.

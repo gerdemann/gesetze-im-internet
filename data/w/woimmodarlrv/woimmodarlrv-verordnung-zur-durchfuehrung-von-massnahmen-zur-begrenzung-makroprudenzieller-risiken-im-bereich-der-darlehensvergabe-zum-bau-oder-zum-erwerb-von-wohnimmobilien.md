@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet
 
@@ -48,6 +49,7 @@ Das Bundesministerium der Finanzen verordnet
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000200000)
 
 (1) Diese Verordnung gilt für Maßnahmen der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) gegenüber
@@ -71,6 +73,7 @@ nach Absatz 1 nur auf diese Bedingungen nicht anzuwenden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -163,6 +166,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ## § 3 Weitere Begriffsbestimmungen und Wertfestlegung bei einschränkenden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000400000)
 
 (1) Für die Festlegung der Darlehensvolumen-Immobilienwert-Relation
 und der Amortisationsanforderung nach § 48u Absatz 2 des
@@ -213,6 +217,7 @@ der aktuelle Wert der Wohnimmobilie, der nach den Anforderungen des §
 
 
 ## § 4 Verfahren zum Erlass einer Allgemeinverfügung
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000500000)
 
 (1) Die Deutsche Bundesbank unterrichtet die Bundesanstalt und das
 Bundesministerium der Finanzen unverzüglich, wenn sie im Rahmen ihrer
@@ -293,6 +298,7 @@ Absatz 3 Nummer 4 sowie die Zulassung von Ausnahmen nach § 48u Absatz
 
 
 ## § 5 Darlehensvergabe unter festgelegten Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000600000)
 
 (1) Wurden Maßnahmen nach § 1 Absatz 1 festgelegt, können Darlehen zum
 Bau oder Erwerb von Wohnimmobilien nur vergeben werden im Rahmen
@@ -328,6 +334,7 @@ Sätze 1 und 2 unberücksichtigt.
 
 
 ## § 6 Obergrenze für die Darlehensvolumen-Immobilienwert-Relation
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000700000)
 
 (1) Die Obergrenze für die Darlehensvolumen-Immobilienwert-Relation
 gilt für
@@ -354,6 +361,7 @@ gleichzustellen sind.
 
 
 ## § 7 Amortisationsanforderung
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000800000)
 
 (1) Bei Darlehen mit regelmäßigen Tilgungsleistungen legt die
 Bundesanstalt die Länge des Zeitraums und die Höhe des in diesem
@@ -371,6 +379,7 @@ vergebene Darlehen einzeln anzuwenden.
 
 
 ## § 8 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE000900000)
 
 (1) Die Ausnahmen nach § 48u Absatz 1 Satz 3 des Kreditwesengesetzes
 und mögliche weitere von der Bundesanstalt nach § 48u Absatz 1 Satz 5
@@ -393,6 +402,7 @@ der Maßnahme hinausgeht, die Gegenstand einer Förderzusage ist. Absatz
 
 
 ## § 9 Freikontingent
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE001000000)
 
 (1) Der von der Bundesanstalt als Freikontingent festgelegte
 prozentuale Anteil gilt einheitlich für alle gewerblichen
@@ -420,6 +430,7 @@ das Volumen des Freikontingents angerechnet.
 
 
 ## § 10 Bagatellgrenze
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE001100000)
 
 (1) Die Bagatellgrenze wird nach Maßgabe von § 4 Absatz 5 unter
 Berücksichtigung des Mindestwertes nach § 48u Absatz 3 Satz 2 des
@@ -445,6 +456,7 @@ Kreditwesengesetzes gilt entsprechend.
 
 
 ## § 11 Unterer und oberer Schwellenwert
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE001200000)
 
 (1) Werden durch einen gewerblichen Darlehensgeber mehrere Darlehen
 zum Bau oder zum Erwerb von Wohnimmobilien vergeben, fallen solche
@@ -464,6 +476,7 @@ erfolgt nicht.
 
 
 ## § 12 Überprüfung festgelegter Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE001300000)
 
 (1) Die Bundesanstalt überprüft festgelegte Beschränkungen mindestens
 alle sechs Monate daraufhin, ob und inwieweit die dem Erlass der
@@ -516,6 +529,7 @@ des Überprüfungsberichts erforderlich sind.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/woimmodarlrv/BJNR010600021.html#BJNR010600021BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

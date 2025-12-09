@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-223 v. 28.2.1997 I 396 (FloristAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 19. Juli 2024 (BGBl.
@@ -34,9 +35,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Floristen und der
 Floristin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
@@ -44,11 +47,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -143,6 +149,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -150,9 +157,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -164,6 +173,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -180,6 +190,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Herstellen
 floraler Werkstücke“ statt.
@@ -255,6 +266,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -276,6 +288,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -296,6 +309,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich „Entwerfen und Umsetzen floraler Projekte“
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001300000)
 
 (1) Im Prüfungsbereich „Entwerfen und Umsetzen floraler Projekte“
 besteht die Prüfung aus zwei Teilen.
@@ -412,6 +426,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 12 Prüfungsbereich „Angewandte Technologie“
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001400000)
 
 (1) Im Prüfungsbereich „Angewandte Technologie“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -447,6 +462,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 13 Prüfungsbereich „Warenwirtschaft“
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001500000)
 
 (1) Im Prüfungsbereich „Warenwirtschaft“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -489,6 +505,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001600000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -502,6 +519,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -578,6 +596,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -619,9 +638,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNG000300000)
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2025 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Floristen/zur Floristin
@@ -632,6 +653,7 @@ worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Floristen und zur Floristin
+[Direktlink](https://www.gesetze-im-internet.de/floristausbv_2025/BJNR01E0A0025.html#BJNR01E0A0025BJNE002000000)
 
 (Fundstelle: BGBl. 2025 I Nr. 30, S. 8 - 14)
 

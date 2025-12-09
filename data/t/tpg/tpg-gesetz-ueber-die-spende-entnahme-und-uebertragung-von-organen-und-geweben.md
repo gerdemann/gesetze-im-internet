@@ -23,15 +23,18 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE000900311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000102310)
 
 
 ### § 1 Ziel und Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001004116)
 
 (1) Ziel des Gesetzes ist es, die Bereitschaft zur Organspende in
 Deutschland zu fördern. Hierzu soll jede Bürgerin und jeder Bürger
@@ -62,6 +65,7 @@ Handels mit menschlichen Organen oder Geweben.
 
 
 ### § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003703360)
 
 Im Sinne dieses Gesetzes
 
@@ -151,6 +155,7 @@ Im Sinne dieses Gesetzes
 
 
 ### § 2 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespendeausweise
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001111116)
 
 (1) Die nach Landesrecht zuständigen Stellen, die Bundesbehörden im
 Rahmen ihrer Zuständigkeit, insbesondere die Bundeszentrale für
@@ -322,6 +327,7 @@ Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
 
 
 ### § 2a Register für Erklärungen zur Organ- und Gewebespende; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006702130)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte richtet
 ein Register für Erklärungen zur Organ- und Gewebespende ein und führt
@@ -498,9 +504,11 @@ festlegen.
 
 
 ## Abschnitt 2 - Entnahme von Organen und Geweben bei toten Spendern
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000202310)
 
 
 ### § 3 Entnahme mit Einwilligung des Spenders
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001202310)
 
 (1) Die Entnahme von Organen oder Geweben ist, soweit in § 4 oder § 4a
 nichts Abweichendes bestimmt ist, nur zulässig, wenn
@@ -545,6 +553,7 @@ hinzuziehen.
 
 
 ### § 4 Entnahme mit Zustimmung anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001304116)
 
 (1) Hat die Auskunft aus dem Register für Erklärungen zur Organ- und
 Gewebespende nach § 2a Absatz 4 ergeben, dass der mögliche Organ- und
@@ -595,6 +604,7 @@ nach Absatz 2 Satz 5 und Absatz 3 haben das Recht auf Einsichtnahme.
 
 
 ### § 4a Entnahme bei toten Embryonen und Föten
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003802116)
 
 (1) Die Entnahme von Organen oder Geweben bei einem toten Embryo oder
 Fötus ist nur zulässig, wenn
@@ -632,6 +642,7 @@ Rückverfolgung und des Datenschutzes als Spenderin.
 
 
 ### § 5 Nachweisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001402310)
 
 (1) Die Feststellungen nach § 3 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Nr. 2
 sind jeweils durch zwei dafür qualifizierte Ärzte zu treffen, die den
@@ -665,6 +676,7 @@ zu geben. Sie kann eine Person ihres Vertrauens hinzuziehen.
 
 
 ### § 6 Achtung der Würde des Organ- und Gewebespenders
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001502310)
 
 (1) Die Organ- oder Gewebeentnahme bei verstorbenen Personen und alle
 mit ihr zusammenhängenden Maßnahmen müssen unter Achtung der Würde des
@@ -680,6 +692,7 @@ Föten.
 
 
 ### § 7 Datenverarbeitung, Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001605116)
 
 (1) Die Verarbeitung personenbezogener Daten eines möglichen Organ-
 oder Gewebespenders, eines nächsten Angehörigen oder einer Person nach
@@ -794,9 +807,11 @@ behandeln, eingeholt werden.
 
 
 ## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden  Spendern
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000302310)
 
 
 ### § 8 Entnahme von Organen und Geweben
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001806116)
 
 (1) Die Entnahme von Organen oder Geweben zum Zwecke der Übertragung
 auf andere ist bei einer lebenden Person, soweit in § 8a nichts
@@ -900,6 +915,7 @@ wird durch Landesrecht bestimmt.
 
 
 ### § 8a Entnahme von Knochenmark bei minderjährigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003902311)
 
 Die Entnahme von Knochenmark bei einer minderjährigen Person zum
 Zwecke der Übertragung ist abweichend von § 8 Abs. 1 Satz 1 Nr. 1
@@ -942,6 +958,7 @@ des Bürgerlichen Gesetzbuchs herbeizuführen.
 
 
 ### § 8b Entnahme von Organen und Geweben in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004001310)
 
 (1) Sind Organe oder Gewebe bei einer lebenden Person im Rahmen einer
 medizinischen Behandlung dieser Person entnommen worden, ist ihre
@@ -960,6 +977,7 @@ entsprechend.
 
 
 ### § 8c Entnahme von Organen und Geweben zur Rückübertragung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004102311)
 
 (1) Die Entnahme von Organen oder Geweben zum Zwecke der
 Rückübertragung ist bei einer lebenden Person nur zulässig, wenn
@@ -1017,9 +1035,11 @@ entsprechend.
 
 
 ## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000901310)
 
 
 ### § 8d Besondere Pflichten der Gewebeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004203116)
 
 (1) Eine Gewebeeinrichtung, die Gewebe entnimmt oder untersucht, darf
 unbeschadet der Vorschriften des Arzneimittelrechts nur betrieben
@@ -1102,6 +1122,7 @@ eine Liste der belieferten Einrichtungen der medizinischen Versorgung.
 
 
 ### § 8e Untersuchungslabore
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004301310)
 
 Die für Gewebespender nach § 8d Abs. 1 Satz 2 Nr. 3 vorgeschriebenen
 Laboruntersuchungen dürfen nur von einem Untersuchungslabor
@@ -1112,13 +1133,16 @@ Nr. 3 vorgeschriebenen Laboruntersuchungen sicherzustellen.
 
 
 ### § 8f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004402116)
 
 
 
 ## Abschnitt 4 - Entnahme, Vermittlung und Übertragung von Organen, Zusammenarbeit bei der Entnahme von Organen und Geweben
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000403360)
 
 
 ### § 9 Zulässigkeit der Organentnahme und -übertragung, Vorrang der Organspende
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE001903360)
 
 (1) Die Entnahme von Organen bei verstorbenen Spendern darf nur in
 Entnahmekrankenhäusern nach § 9a durchgeführt werden.
@@ -1144,6 +1168,7 @@ möglich ist oder durch die Gewebeentnahme nicht beeinträchtigt wird.
 
 
 ### § 9a Entnahmekrankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005303130)
 
 (1) Entnahmekrankenhäuser sind die nach § 108 des Fünften Buches
 Sozialgesetzbuch oder nach anderen gesetzlichen Bestimmungen
@@ -1244,6 +1269,7 @@ notwendigen Infrastruktur.
 
 
 ### § 9b Transplantationsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005402130)
 
 (1) Die Entnahmekrankenhäuser bestellen mindestens einen ärztlichen
 Transplantationsbeauftragten, der für die Erfüllung seiner Aufgaben
@@ -1345,9 +1371,11 @@ unterworfen werden.
 
 
 ### § 9c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006502116)
 
 
 ### § 10 Transplantationszentren
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002005130)
 
 (1) Transplantationszentren sind Krankenhäuser oder Einrichtungen an
 Krankenhäusern, die nach § 108 des Fünften Buches Sozialgesetzbuch
@@ -1432,6 +1460,7 @@ Absatz 3 Satz 2 zu bevorzugen.
 
 
 ### § 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005500360)
 
 (1) Die von der Koordinierungsstelle beauftragte Person stellt unter
 ärztlicher Beratung und Anleitung sicher, dass die Organe für eine
@@ -1502,6 +1531,7 @@ festgelegten Mindestangaben vor der Übertragung vorliegen.
 
 
 ### § 11 Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002110130)
 
 (1) Die Entnahme von Organen verstorbener Spender einschließlich der
 Vorbereitung von Entnahme, Vermittlung und Übertragung ist
@@ -1754,6 +1784,7 @@ werden.
 
 
 ### § 12 Organvermittlung, Vermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002208116)
 
 (1) Zur Vermittlung der vermittlungspflichtigen Organe errichten oder
 beauftragen der Spitzenverband Bund der Krankenkassen, die
@@ -1885,6 +1916,7 @@ regelt der Vertrag nach Absatz 4.
 
 
 ### § 12a Angehörigenbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006600116)
 
 (1) Die Koordinierungsstelle ist befugt, im Anschluss an eine
 Organspende eine Angehörigenbetreuung anzubieten. Bei der
@@ -2021,9 +2053,11 @@ Absatz 3 ausgeschlossen sind.
 
 
 ## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung,  Datenschutz, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000502310)
 
 
 ### § 13 Dokumentation, Rückverfolgung, Verordnungsermächtigung zur Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002305116)
 
 (1) Die Koordinierungsstelle verschlüsselt in einem mit den
 Transplantationszentren abgestimmten Verfahren die personenbezogenen
@@ -2088,6 +2122,7 @@ mit Zustimmung des Bundesrates das Verfahren regeln
 
 
 ### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen  Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004501310)
 
 Die Einrichtungen der medizinischen Versorgung haben dafür zu sorgen,
 dass für Zwecke der Rückverfolgung oder für Zwecke der Risikoerfassung
@@ -2098,6 +2133,7 @@ nach § 16a dokumentiert wird.
 
 
 ### § 13b Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen bei Geweben
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004603360)
 
 Die Einrichtungen der medizinischen Versorgung haben
 
@@ -2121,6 +2157,7 @@ mitzuteilen.
 
 
 ### § 13c Rückverfolgungsverfahren bei Geweben
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004703360)
 
 (1) Jede Gewebeeinrichtung legt ein Verfahren fest, mit dem sie jedes
 Gewebe, das durch einen schwerwiegenden Zwischenfall im Sinne des §
@@ -2140,6 +2177,7 @@ sperren, wenn sich der Verdacht bestätigt.
 
 
 ### § 14 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002406116)
 
 (1) Ist die Koordinierungsstelle, die Vermittlungsstelle oder die
 Gewebeeinrichtung eine nicht-öffentliche Stelle im Geltungsbereich
@@ -2217,6 +2255,7 @@ ausdrücklich eingewilligt haben.
 
 
 ### § 15 Aufbewahrungs- und Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002505116)
 
 (1) Die Aufzeichnungen über die Beteiligung nach § 4 Abs. 4, über die
 Aufklärung nach § 4a Abs. 2, zur Feststellung der
@@ -2240,9 +2279,11 @@ die Angaben zu löschen oder zu anonymisieren.
 
 
 ## Abschnitt 5a - Transplantationsregister
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG001100116)
 
 
 ### § 15a Zweck des Transplantationsregisters
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005600116)
 
 Zur Verbesserung der Datengrundlage für die
 transplantationsmedizinische Versorgung und Forschung sowie zur
@@ -2281,6 +2322,7 @@ ein Transplantationsregister eingerichtet, insbesondere
 
 
 ### § 15b Transplantationsregisterstelle
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005702116)
 
 (1) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
 und die Deutsche Krankenhausgesellschaft beauftragen eine geeignete
@@ -2402,6 +2444,7 @@ Bundesdatenschutzgesetzes ist nicht anzuwenden.
 
 
 ### § 15c Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005802116)
 
 (1) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
 und die Deutsche Krankenhausgesellschaft beauftragen eine unabhängige
@@ -2474,6 +2517,7 @@ anzuwenden.
 
 
 ### § 15d Fachbeirat
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005901116)
 
 (1) Bei der Transplantationsregisterstelle wird ein Fachbeirat
 eingerichtet. Dem Fachbeirat gehören an jeweils zwei Vertreter
@@ -2533,6 +2577,7 @@ zur Zusammensetzung, zur Arbeitsweise und zum Verfahren.
 
 
 ### § 15e Datenübermittlung an die Transplantationsregisterstelle und an die Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006001116)
 
 (1) Zur Übermittlung transplantationsmedizinischer Daten an die
 Transplantationsregisterstelle sind verpflichtet:
@@ -2710,6 +2755,7 @@ das Bundesamt für Sicherheit in der Informationstechnik zu beteiligen.
 
 
 ### § 15f Datenübermittlung durch die Transplantationsregisterstelle
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006102116)
 
 (1) Die Transplantationsregisterstelle übermittelt
 
@@ -2775,6 +2821,7 @@ fest. Der Fachbeirat nach § 15d ist zu beteiligen.
 
 
 ### § 15g Datenübermittlung durch die Transplantationsregisterstelle zu Forschungszwecken, Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006202116)
 
 (1) Die Transplantationsregisterstelle kann anonymisierte Daten nach
 Abschluss einer Nutzungsvereinbarung an Dritte zu Forschungszwecken
@@ -2818,6 +2865,7 @@ Bericht über die nach den Absätzen 1 bis 3 übermittelten Daten.
 
 
 ### § 15h Aufbewahrungs- und Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006301116)
 
 (1) Die Transplantationsregisterstelle hat
 
@@ -2847,6 +2895,7 @@ nicht mehr erforderlich ist, spätestens 20 Jahre nach der
 
 
 ### § 15i Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE006400116)
 
 (1) Kommt der Vertrag mit der Transplantationsregisterstelle nach §
 15b Absatz 4 nicht bis zum 1. November 2019 zustande, bestimmt das
@@ -2866,9 +2915,11 @@ Finanzierung der Vertrauensstelle nach § 15c Absatz 3.
 
 
 ## Abschnitt 5b - Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG001002116)
 
 
 ### § 16 Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft bei Organen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002604116)
 
 (1) Die Bundesärztekammer stellt den Stand der Erkenntnisse der
 medizinischen Wissenschaft in Richtlinien fest für
@@ -2963,6 +3014,7 @@ ergänzende Stellungnahmen anfordern.
 
 
 ### § 16a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004801310)
 
 Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates nach Anhörung der Bundesärztekammer und
@@ -2998,6 +3050,7 @@ Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
 
 ### § 16b Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft zur Entnahme von Geweben und deren Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE004901310)
 
 (1) Die Bundesärztekammer kann ergänzend zu den Vorschriften der
 Rechtsverordnung nach § 16a in Richtlinien den allgemein anerkannten
@@ -3027,9 +3080,11 @@ nach Absatz 1 beachtet worden sind.
 
 
 ## Abschnitt 6 - Verbotsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000602310)
 
 
 ### § 17 Verbot des Organ- und Gewebehandels
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002702310)
 
 (1) Es ist verboten, mit Organen oder Geweben, die einer
 Heilbehandlung eines anderen zu dienen bestimmt sind, Handel zu
@@ -3061,9 +3116,11 @@ anderen Menschen zu übertragen oder sich übertragen zu lassen.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000702310)
 
 
 ### § 18 Organ- und Gewebehandel
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002802310)
 
 (1) Wer entgegen § 17 Abs. 1 Satz 1 mit einem Organ oder Gewebe Handel
 treibt oder entgegen § 17 Abs. 2 ein Organ oder Gewebe entnimmt,
@@ -3083,6 +3140,7 @@ Strafgesetzbuchs).
 
 
 ### § 19 Weitere Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE002906116)
 
 (1) Wer
 
@@ -3137,6 +3195,7 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 20 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003005116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3215,21 +3274,25 @@ Nummer 3a das Paul-Ehrlich-Institut.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNG000802310)
 
 
 ### § 21 Zuständige Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005001310)
 
 Zuständige Bundesoberbehörde im Sinne dieses Gesetzes ist das Paul-
 Ehrlich-Institut.
 
 
 ### § 22 Verhältnis zu anderen Rechtsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005101310)
 
 Die Vorschriften des Embryonenschutzgesetzes und des Stammzellgesetzes
 bleiben unberührt.
 
 
 ### § 23 Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE005201310)
 
 Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt
 der Vollzug dieses Gesetzes bei der Überwachung den zuständigen
@@ -3237,11 +3300,13 @@ Stellen und Sachverständigen der Bundeswehr.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003102310)
 
 (Änderung des Strafgesetzbuchs)
 
 
 ### § 25 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003201310)
 
 (1) Bei Inkrafttreten dieses Gesetzes bestehende Verträge über
 Regelungsgegenstände nach § 11 gelten weiter, bis sie durch Vertrag
@@ -3255,6 +3320,7 @@ Abs. 6 ersetzt werden.
 
 
 ### § 26 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tpg/BJNR263100997.html#BJNR263100997BJNE003301310)
 
 -
 

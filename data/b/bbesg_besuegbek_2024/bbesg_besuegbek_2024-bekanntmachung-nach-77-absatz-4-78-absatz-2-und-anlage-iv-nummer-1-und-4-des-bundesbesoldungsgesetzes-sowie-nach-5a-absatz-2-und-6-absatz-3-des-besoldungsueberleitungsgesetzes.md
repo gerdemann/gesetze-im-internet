@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000100000)
 
 Nach § 77 Absatz 4, § 78 Absatz 2 und Anlage IV Nummer 1 und 4 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19.
@@ -61,11 +62,13 @@ worden sind, werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000200000)
 
 Die Bundesministerin des Innern und für Heimat
 
 
 ## Anhang 1 (zu Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 3, S. 3)
 
@@ -384,6 +387,7 @@ Die Bundesministerin des Innern und für Heimat
 [^F828497_01_BJNR0030A0024BJNE000300000]: 
 
 ## Anhang 2 (zu Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 3, S. 4 - 9)
 
@@ -2229,6 +2233,7 @@ zusätzlich gewährt.
 
 
 ## Anhang 3 (zu Nummer 3)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000500000)
 
 (Fundstelle: BGBl. 2024 I Nr. 3, S. 10 - 11)
 
@@ -2547,6 +2552,7 @@ Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
 
 
 ## Anhang 4 (zu Nummer 4)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 3, S. 12 - 13)
 
@@ -3242,6 +3248,7 @@ Anlage 2
 
 
 ## Anhang 5 (zu Nummer 5)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/BJNR0030A0024.html#BJNR0030A0024BJNE000700000)
 
 (Fundstelle: BGBl. 2024 I Nr. 3, S. 12)
 

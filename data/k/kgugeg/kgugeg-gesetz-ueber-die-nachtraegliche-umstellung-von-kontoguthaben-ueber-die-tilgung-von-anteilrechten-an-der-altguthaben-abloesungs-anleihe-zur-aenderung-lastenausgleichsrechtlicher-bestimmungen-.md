@@ -21,22 +21,26 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kgugeg/BJNR013890992.html#BJNR013890992BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen (Kontoguthabenumstellungsgesetz - KGUG)
+[Direktlink](https://www.gesetze-im-internet.de/kgugeg/BJNR013890992.html#BJNR013890992BJNE000200314)
 
 -
 
 
 ## (XXXX) Art 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/kgugeg/BJNR013890992.html#BJNR013890992BJNE000300314)
 
 -
 
 
 ## Art 3a Aufhebung des Beweissicherungs- und Feststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kgugeg/BJNR013890992.html#BJNR013890992BJNE000400314)
 
 
 1.  Das Beweissicherungs- und Feststellungsgesetz in der Fassung der
@@ -59,9 +63,11 @@ beschlossen:
 
 
 ## (XXXX) Art 3b bis 3e, 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kgugeg/BJNR013890992.html#BJNR013890992BJNE000500314)
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kgugeg/BJNR013890992.html#BJNR013890992BJNE000600314)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

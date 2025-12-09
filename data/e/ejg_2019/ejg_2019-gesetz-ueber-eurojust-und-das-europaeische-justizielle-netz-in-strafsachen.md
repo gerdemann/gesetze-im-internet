@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000100000)
 
 Dieses Gesetz regelt die Durchführung der Verordnung (EU) 2018/1727
 des Europäischen Parlaments und des Rates vom 14. November 2018
@@ -27,6 +28,7 @@ Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L 295 vom
 
 
 ## § 2 Nationales Mitglied von Eurojust
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000200000)
 
 (1) Das nach Artikel 7 Absatz 1 der Eurojust-Verordnung zu entsendende
 deutsche Mitglied von Eurojust (nationales Mitglied) wird vom
@@ -56,6 +58,7 @@ Artikel 12 Absatz 2 und 3 der Eurojust-Verordnung.
 
 
 ## § 3 Unterstützende Personen
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000300000)
 
 (1) Für die Benennung und Abberufung von Personen, die das nationale
 Mitglied gemäß Artikel 7 Absatz 2 und 3 der Eurojust-Verordnung
@@ -89,6 +92,7 @@ entsprechend.
 
 
 ## § 4 Verbindungsrichterinnen oder Verbindungsrichter sowie Verbindungsstaatsanwältinnen oder Verbindungsstaatsanwälte von Eurojust
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000400000)
 
 Für die Zustimmung des Mitgliedstaates zur Entsendung von deutschen
 Verbindungsrichterinnen oder Verbindungsrichtern und deutschen
@@ -99,6 +103,7 @@ setzt sich mit den Landesjustizverwaltungen ins Benehmen.
 
 
 ## § 5 Befugnisse des nationalen Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000500000)
 
 (1) Das nationale Mitglied übt seine Befugnisse gemäß den Artikeln 8,
 9, 19 und 51 Absatz 4 der Eurojust-Verordnung mit folgenden Maßgaben
@@ -144,6 +149,7 @@ verantwortlichen Stellen dienen.
 
 
 ## § 6 Eurojust-Anlaufstellen und nationales Eurojust-Koordinierungssystem; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000600000)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz ernennt
 oder errichtet durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -194,6 +200,7 @@ Informationen in Arbeitsdateien zu verarbeiten.
 
 
 ## § 7 Informationsaustausch nach Artikel 21 der Eurojust-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000700000)
 
 Für den Informationsaustausch der zuständigen deutschen Stellen mit
 dem nationalen Mitglied, der sich nach Artikel 21 der Eurojust-
@@ -219,6 +226,7 @@ Verordnung richtet, gilt ergänzend:
 
 
 ## § 8 Verwaltung von Arbeitsdateien und Index des Fallbearbeitungssystems von Eurojust durch das nationale Mitglied
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000800000)
 
 (1) Das nationale Mitglied nimmt Informationen zu Arbeitsdateien des
 Fallbearbeitungssystems von Eurojust gemäß Artikel 23 Absatz 5 der
@@ -257,6 +265,7 @@ von der die Daten oder Informationen stammen.
 
 
 ## § 9 Nationale Kontrollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE000900000)
 
 (1) Nationale Kontrollbehörden im Sinne des Artikels 31 Absatz 1, des
 Artikels 40 Absatz 1 und 5 sowie der Artikel 42 und 43 Absatz 2 und 3
@@ -293,6 +302,7 @@ richtet sich nach § 17 des Bundesdatenschutzgesetzes.
 
 
 ## § 10 Zustimmungen durch die zuständigen deutschen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE001000000)
 
 (1) Holt das nationale Mitglied die vorherige Zustimmung der
 zuständigen deutschen Stellen nach Artikel 3 Absatz 6, Artikel 47
@@ -326,6 +336,7 @@ unverzüglich mit.
 
 
 ## § 11 Mitteilung von Einschränkungen und Bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE001100000)
 
 Bei der Übermittlung von personenbezogenen Daten und Informationen an
 Eurojust teilt die übermittelnde Stelle gegebenenfalls mit,
@@ -345,6 +356,7 @@ Eurojust teilt die übermittelnde Stelle gegebenenfalls mit,
 
 
 ## § 12 Europäisches Justizielles Netz in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/ejg_2019/BJNR201010019.html#BJNR201010019BJNE001200000)
 
 (1) Der EJN-Beschluss ist anzuwenden.
 

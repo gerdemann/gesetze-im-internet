@@ -21,6 +21,7 @@ Stand: Die Verordnung tritt gem. Art. 3 Abs. 2 dieser V an dem Tag außer Kraft,
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unhcrb_roabkv/BJNR021820007.html#BJNR021820007BJNE000100000)
 
 Auf Grund des Artikels 2 Abs. 2 des Gesetzes vom 5. Juni 1996 zu dem
 Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unhcrb_roabkv/BJNR021820007.html#BJNR021820007BJNE000200000)
 
 Das am 1. Juli 2005 in Berlin unterzeichnete Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und dem Amt des Hohen
@@ -40,6 +42,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unhcrb_roabkv/BJNR021820007.html#BJNR021820007BJNE000300000)
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10.
 November 1995 zwischen der Bundesrepublik Deutschland und den
@@ -50,6 +53,7 @@ Familienangehörigen im Sinne des Artikels 24 Abs. 2 des Abkommens vom
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unhcrb_roabkv/BJNR021820007.html#BJNR021820007BJNE000400000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem das Abkommen
 nach seinem Artikel 5 Abs. 1 in Kraft tritt .
@@ -62,6 +66,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/unhcrb_roabkv/BJNR021820007.html#BJNR021820007BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

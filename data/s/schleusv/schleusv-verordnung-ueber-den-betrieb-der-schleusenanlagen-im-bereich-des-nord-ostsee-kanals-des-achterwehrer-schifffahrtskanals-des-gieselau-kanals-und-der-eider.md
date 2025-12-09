@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000100307)
 
 Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes (WaStrG) in
 der Fassung der Bekanntmachung vom 4. November 1998 (BGBl. I S. 3294),
@@ -33,6 +34,7 @@ Schifffahrtsdirektion Nord:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000200307)
 
 (1) Diese Verordnung gilt für die Schleusenbereiche Brunsbüttel und
 Kiel-Holtenau (Nord-Ostsee-Kanal), Strohbrück (Achterwehrer
@@ -114,6 +116,7 @@ Eider-Sperrwerk (Eider).
 
 
 ## § 2 Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000300307)
 
 (1) Die Schleusen haben folgende Betriebszeiten:
 
@@ -341,6 +344,7 @@ worden ist.
 
 
 ## § 3 Verhalten in den Schleusenbereichen
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000401305)
 
 (1) Jedermann hat sich in den Schleusenbereichen so zu verhalten, dass
 der Schleusenbetrieb nicht beeinträchtigt wird. Es ist insbesondere
@@ -398,6 +402,7 @@ benutzen.
 
 
 ## § 3a Belegung der Schleusen am Nord-Ostsee-Kanal mit Fahrgastschiffen und Tankfahrzeugen zu gleicher Zeit
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001600305)
 
 (1) Ein Fahrgastschiff darf nur dann zusammen mit einem Öl-, Gas- oder
 Chemikalientankschiff in einer Kammer geschleust werden, wenn das
@@ -411,6 +416,7 @@ und Tankschiff nicht zugleich an die Mittelmauer gelegt werden.
 
 
 ## § 4 Brandverhütung
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000500307)
 
 (1) Auf Fahrzeugen, die bestimmte gefährliche Güter im Sinne des § 2
 Abs. 1 Nr. 16 der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO)
@@ -460,6 +466,7 @@ rotes Rundumlicht gesetzt hat.
 
 
 ## § 5 Anmeldung in den Schleusen
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000600307)
 
 (1) Nach dem Einlaufen in die Schleusen Strohbrück, Lexfähr, Nordfeld
 und Eider-Sperrwerk hat der Fahrzeugführer oder sein Beauftragter das
@@ -472,6 +479,7 @@ nach dem Einlaufen des Fahrzeuges erfolgt.
 
 
 ## § 6 Grenzen und Benutzung der Liegestellen für Sportfahrzeuge in Brunsbüttel und Kiel-Holtenau
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000701124)
 
 (1) Die in den Schleusenbereichen Brunsbüttel und Kiel-Holtenau
 gelegenen Liegestellen werden begrenzt:
@@ -518,6 +526,7 @@ Grenzen dürfen von Sportfahrzeugen nicht benutzt werden.
 
 
 ## § 7 Betreten der Schleusenbereiche
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000801308)
 
 (1) Die Schleusenbereiche Brunsbüttel und Kiel-Holtenau dürfen nur
 betreten werden von:
@@ -604,6 +613,7 @@ vorzuzeigen.
 
 
 ## § 8 Befahren der Landflächen im Schleusenbereich
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE000900307)
 
 (1) Das Befahren der Landflächen ist nur den im § 7 Abs. 1 Nr. 1
 genannten Bediensteten sowie den Personen gestattet, die eine
@@ -618,6 +628,7 @@ Berechtigten benutzt werden.
 
 
 ## § 9 Übernahme von Proviant oder Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001001305)
 
 (1) Bei der Übernahme von Proviant oder Ausrüstung hat der
 Fahrzeugführer rechtzeitig Angehörige der Schiffsbesatzung zur
@@ -630,18 +641,21 @@ nicht verzögert oder sonst beeinträchtigt wird.
 
 
 ## § 10 Haftungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001100307)
 
 Das Betreten und Befahren der Landflächen sowie die Ausübung
 gewerblicher Tätigkeit erfolgen auf eigene Gefahr.
 
 
 ## § 11 Schadensmeldung
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001200307)
 
 Wer in den Schleusenbereichen Schaden verursacht, hat dies
 unverzüglich der Schleusenaufsicht anzuzeigen.
 
 
 ## § 12 Durchführungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001300307)
 
 Die Durchführung dieser Verordnung obliegt den zuständigen Behörden
 der Wasser- und Schifffahrtsverwaltung des Bundes. Sie können zur
@@ -651,6 +665,7 @@ Verordnung im Einzelfall zu befreien.
 
 
 ## § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001401305)
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -684,6 +699,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schleusv/BJNR706530999.html#BJNR706530999BJNE001500307)
 
 Diese Verordnung tritt am 1. November 1999 in Kraft; ...
 

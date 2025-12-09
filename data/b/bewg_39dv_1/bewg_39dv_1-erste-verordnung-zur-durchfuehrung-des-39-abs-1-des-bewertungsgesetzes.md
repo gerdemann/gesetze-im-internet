@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_1/BJNR009370967.html#BJNR009370967BJNE000100306)
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
@@ -25,6 +26,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_1/BJNR009370967.html#BJNR009370967BJNE000200306)
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964
 Vergleichszahlen festgesetzt. Sie sind
@@ -40,6 +42,7 @@ zu entnehmen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_1/BJNR009370967.html#BJNR009370967BJNE000300306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8
@@ -48,12 +51,14 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_1/BJNR009370967.html#BJNR009370967BJNE000400306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 (zu § 1 Nr. 1)
 
 ## Anlage 1 Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_1/BJNR009370967.html#BJNR009370967BJNE000500306)
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 938 - 945)
 **A. Vorbemerkungen**
@@ -3433,6 +3438,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 (zu § 1 Nr. 2)
 
 ## Anlage 2 Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_1/BJNR009370967.html#BJNR009370967BJNE000600306)
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 946 - 947)
 **A. Vorbemerkungen**

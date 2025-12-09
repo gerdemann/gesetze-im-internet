@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Bestellung der Betriebsleiter
+[Direktlink](https://www.gesetze-im-internet.de/ebv/BJNR102310000.html#BJNR102310000BJNE000101308)
 
 (1) Eisenbahninfrastrukturunternehmen mit Sitz im Inland haben vor der
 Betriebsaufnahme einen oder mehrere Betriebsleiter zu bestellen, die
@@ -72,6 +73,7 @@ betreiben, die nicht dem öffentlichen Verkehr dient.
 
 
 ## § 2 Bestätigung der Bestellung zum Betriebsleiter
+[Direktlink](https://www.gesetze-im-internet.de/ebv/BJNR102310000.html#BJNR102310000BJNE000200310)
 
 (1) Die Bestellung der Betriebsleiter und ihrer Stellvertreter bedarf
 der Bestätigung durch die zuständige Aufsichtsbehörde.
@@ -138,6 +140,7 @@ Bestellung als Stellvertreter eines Betriebsleiters.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ebv/BJNR102310000.html#BJNR102310000BJNE000300310)
 
 Die zuständige Aufsichtsbehörde kann im Einzelfall
 
@@ -181,6 +184,7 @@ besitzt.
 
 
 ## § 4 Aufgaben und Befugnisse des Betriebsleiters
+[Direktlink](https://www.gesetze-im-internet.de/ebv/BJNR102310000.html#BJNR102310000BJNE000402305)
 
 (1) Betriebsleiter im Sinne von § 1 Abs. 1 bis 6 haben insbesondere
 
@@ -247,6 +251,7 @@ insbesondere verpflichtet,
 
 
 ## § 5 Pflichten der Eisenbahn
+[Direktlink](https://www.gesetze-im-internet.de/ebv/BJNR102310000.html#BJNR102310000BJNE000502305)
 
 (1) Die für die Führung der Geschäfte des Eisenbahnunternehmens
 bestellten Personen haben die Aufgaben des Betriebsleiters sowie die
@@ -290,6 +295,7 @@ Aufgaben nicht benachteiligt werden.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebv/BJNR102310000.html#BJNR102310000BJNE000600310)
 
 (1) Bestätigungen der Bestellung von Betriebsleitern und ihrer
 Stellvertreter, die am 31. Januar 2001 durch die zuständige

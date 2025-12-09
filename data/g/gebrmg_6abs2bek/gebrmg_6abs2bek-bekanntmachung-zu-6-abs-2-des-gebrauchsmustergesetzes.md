@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg_6abs2bek/BJNR094200995.html#BJNR094200995BJNE000100305)
 
 Auf Grund des § 6 Abs. 2 des Gebrauchsmustergesetzes in der Fassung
 der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455) in Verbindung

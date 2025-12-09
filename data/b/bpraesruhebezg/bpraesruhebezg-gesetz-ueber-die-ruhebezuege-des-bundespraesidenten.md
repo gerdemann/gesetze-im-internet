@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000100304)
 
 Scheidet der Bundespräsident mit Ablauf seiner Amtszeit oder vorher
 aus politischen oder gesundheitlichen Gründen aus seinem Amt aus, so
@@ -29,6 +30,7 @@ Aufwandsgelder.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000200304)
 
 Die Hinterbliebenen eines Bundespräsidenten oder eines ehemaligen
 Bundespräsidenten, dem zur Zeit seines Todes Bezüge nach § 1
@@ -38,6 +40,7 @@ aus dem Ehrensold berechnetes Witwen- und Waisengeld.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000300304)
 
 (1) Ist ein Bundespräsident nach seinem Ausscheiden in den
 öffentlichen Dienst eingetreten oder hat er darin vor dem Antritt
@@ -51,6 +54,7 @@ die ruhegehaltähnliche Versorgung für denselben Zeitraum übersteigen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000401160)
 
 Soweit nicht in den §§ 1 bis 3 etwas anderes bestimmt ist, sind die
 für die Bundesbeamten geltenden beihilfe- und versorgungsrechtlichen
@@ -58,6 +62,7 @@ Vorschriften sinngemäß anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000500304)
 
 Wenn das Bundesverfassungsgericht einen Bundespräsidenten nach Artikel
 61 des Grundgesetzes für schuldig erklärt, so hat es darüber zu
@@ -66,6 +71,7 @@ Bezüge zu gewähren sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000600304)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Gesetzes über die
 Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
@@ -74,6 +80,7 @@ im Lande Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sruhebezg/BJNR004060953.html#BJNR004060953BJNE000700304)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -37,17 +38,20 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000200000)
 
 Der Ausbildungsberuf Musikfachhändler/Musikfachhändlerin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -64,6 +68,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -266,6 +271,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -287,6 +293,7 @@ durchzusehen.
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000701119)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -317,6 +324,7 @@ Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000801119)
 
 (1) Teil 1 der Abschlussprüfung soll am Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -410,6 +418,7 @@ bestehen folgende Vorgaben:
 
 
 ## § 8 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE001600119)
 
 (1) Teil 2 der Abschlussprüfung soll am Ende der Berufsausbildung
 stattfinden.
@@ -536,6 +545,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE001700119)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -634,6 +644,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 10 Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE000901119)
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte
 Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt B können als
@@ -644,6 +655,7 @@ Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
 
 
 ## § 11 Prüfung der Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE001001119)
 
 (1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung
 gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die
@@ -659,6 +671,7 @@ der Prüfling mindestens ausreichende Leistungen erbracht hat.
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE001400000)
 
 (Fundstelle: BGBl. I 2009, 658 - 665)
 ## – Sachliche Gliederung –
@@ -1909,6 +1922,7 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 (zu § 4 Absatz 1 Satz 2)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhausbv/BJNR065400009.html#BJNR065400009BJNE001500000)
 
 (Fundstelle: BGBl. I 2009, 666 - 667)
 ## – Zeitliche Gliederung –

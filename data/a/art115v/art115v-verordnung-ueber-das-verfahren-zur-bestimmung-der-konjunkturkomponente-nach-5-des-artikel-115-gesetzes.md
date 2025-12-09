@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/art115v/BJNR079000010.html#BJNR079000010BJNE000100000)
 
 Auf Grund des § 5 Absatz 4 Satz 1 des Artikel 115-Gesetzes vom 10.
 August 2009 (BGBl. I S. 2702, 2704) verordnet das Bundesministerium
@@ -26,6 +27,7 @@ und Technologie:
 
 
 ## § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/art115v/BJNR079000010.html#BJNR079000010BJNE000200000)
 
 Diese Verordnung regelt die Ermittlung der Konjunkturkomponente bei
 der Aufstellung des Bundeshaushalts nach § 2 Absatz 2 des Gesetzes,
@@ -35,6 +37,7 @@ Gesetzes.
 
 
 ## § 2 Ermittlung der Konjunkturkomponente bei der Haushaltsaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/art115v/BJNR079000010.html#BJNR079000010BJNE000300000)
 
 (1) Die Konjunkturkomponente bei der Haushaltsaufstellung (§ 2 Absatz
 2 des Gesetzes in Verbindung mit § 5 des Gesetzes) wird durch
@@ -73,6 +76,7 @@ kurze und die mittlere Frist.
 
 
 ## § 3 Ermittlung der Konjunkturkomponente nach Haushaltsabschluss
+[Direktlink](https://www.gesetze-im-internet.de/art115v/BJNR079000010.html#BJNR079000010BJNE000400000)
 
 Bei der Ermittlung der nach § 7 des Gesetzes auf dem Kontrollkonto zu
 buchenden Abweichung ist für die Errechnung der zulässigen
@@ -90,6 +94,7 @@ Bruttoinlandsprodukts.
 
 
 ## § 4 Ermittlung der Konjunkturkomponente bei Nachträgen zum Haushaltsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/art115v/BJNR079000010.html#BJNR079000010BJNE000500000)
 
 Bei Nachträgen zum Haushaltsgesetz nach § 8 Satz 3 des Gesetzes wird
 die zum Zeitpunkt der Haushaltsaufstellung nach § 2 ermittelte
@@ -103,6 +108,7 @@ im Haushaltsjahr korrigiert wird.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/art115v/BJNR079000010.html#BJNR079000010BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

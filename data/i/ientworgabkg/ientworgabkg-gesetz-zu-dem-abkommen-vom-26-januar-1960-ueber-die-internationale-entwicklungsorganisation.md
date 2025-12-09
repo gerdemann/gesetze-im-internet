@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ientworgabkg/BJNR221370960.html#BJNR221370960BJNE000100326)
 
 Dem Abkommen von Washington vom 26. Januar 1960 über die
 Internationale Entwicklungsorganisation (International Development
@@ -28,12 +29,14 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ientworgabkg/BJNR221370960.html#BJNR221370960BJNE000200326)
 
 Die Deutsche Bundesbank ist Hinterlegungsstelle für die Internationale
 Entwicklungsorganisation nach Artikel VI Abschnitt 9 des Abkommens.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ientworgabkg/BJNR221370960.html#BJNR221370960BJNE000300326)
 
 Der Gouverneur für die Bundesrepublik Deutschland in der
 Internationalen Entwicklungsorganisation sowie sein Stellvertreter und
@@ -45,12 +48,14 @@ Zusammenarbeit gebunden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ientworgabkg/BJNR221370960.html#BJNR221370960BJNE000400326)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/ientworgabkg/BJNR221370960.html#BJNR221370960BJNE000500326)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

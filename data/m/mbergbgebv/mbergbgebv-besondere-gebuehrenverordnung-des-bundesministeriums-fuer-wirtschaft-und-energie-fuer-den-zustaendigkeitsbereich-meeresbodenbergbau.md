@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mbergbgebv/BJNR371300021.html#BJNR371300021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 in Verbindung mit Absatz 1 Satz 2 des
 Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet
@@ -25,6 +26,7 @@ das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/mbergbgebv/BJNR371300021.html#BJNR371300021BJNE000200000)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach dem
 Meeresbodenbergbaugesetz erhebt das Landesamt für Bergbau, Energie und
@@ -35,6 +37,7 @@ erhoben.
 
 
 ## § 2 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/mbergbgebv/BJNR371300021.html#BJNR371300021BJNE000300000)
 
 Für die Erhebung von Gebühren und Auslagen für eine individuelle
 zurechenbare öffentliche Leistung, die vor dem 1. Oktober 2021
@@ -45,12 +48,14 @@ geltenden Fassung weiter anzuwenden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mbergbgebv/BJNR371300021.html#BJNR371300021BJNE000400000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 1 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/mbergbgebv/BJNR371300021.html#BJNR371300021BJNE000500000)
 
 (Fundstelle: BGBl. I 2021, 3714)
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/widv/BJNR1250A0024.html#BJNR1250A0024BJNE000100000)
 
 Es verordnen
 
@@ -38,6 +39,7 @@ Es verordnen
 
 
 ## § 1 Einführung, Aufbau und Zuteilung der Wirtschafts-Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/widv/BJNR1250A0024.html#BJNR1250A0024BJNE000200000)
 
 (1) Die Wirtschafts-Identifikationsnummer nach § 139c der
 Abgabenordnung wird am 24. Oktober 2024 eingeführt; sie setzt sich aus
@@ -79,6 +81,7 @@ nach Satz 2 werden ab 1. März 2026 zugeordnet.
 
 
 ## § 2 Löschfrist
+[Direktlink](https://www.gesetze-im-internet.de/widv/BJNR1250A0024.html#BJNR1250A0024BJNE000300000)
 
 Die beim Bundeszentralamt für Steuern nach § 139c Absatz 3 bis 5a der
 Abgabenordnung gespeicherten Daten sind zu löschen, wenn sie zur
@@ -88,6 +91,7 @@ Kalenderjahres, in dem die wirtschaftliche Tätigkeit beendet wurde.
 
 
 ## § 3 Mitteilung der Wirtschafts-Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/widv/BJNR1250A0024.html#BJNR1250A0024BJNE000400000)
 
 (1) In den Fällen nach § 1 Absatz 2 macht das Bundeszentralamt für
 Steuern öffentlich bekannt, dass die Umsatzsteuer-
@@ -119,6 +123,7 @@ mitgeteilt.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/widv/BJNR1250A0024.html#BJNR1250A0024BJNE000500000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.
@@ -130,6 +135,7 @@ Bundesgesetzblatt Teil I bekannt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/widv/BJNR1250A0024.html#BJNR1250A0024BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

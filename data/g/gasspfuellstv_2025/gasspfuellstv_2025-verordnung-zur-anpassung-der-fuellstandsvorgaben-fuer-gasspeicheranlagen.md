@@ -20,6 +20,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gasspf_llstv_2025/BJNR0820A0025.html#BJNR0820A0025BJNE000100000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz verordnet
 aufgrund des § 35b Absatz 3 des Energiewirtschaftsgesetzes vom 7. Juli
@@ -28,6 +29,7 @@ vom 21. Februar 2025 (BGBl. 2025 I Nr. 51) geändert worden ist:
 
 
 ## § 1 Füllstandsvorgaben, Stichtage
+[Direktlink](https://www.gesetze-im-internet.de/gasspf_llstv_2025/BJNR0820A0025.html#BJNR0820A0025BJNE000200000)
 
 Abweichend von § 35b Absatz 1 Satz 2 des Energiewirtschaftsgesetzes
 ist zu den folgenden Stichtagen in jeder der genannten
@@ -68,11 +70,13 @@ Gasspeicheranlage vorzuhalten:
 
 
 ## § 2 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gasspf_llstv_2025/BJNR0820A0025.html#BJNR0820A0025BJNE000300000)
 
 Diese Verordnung tritt mit Ablauf des 31. März 2027 außer Kraft.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gasspf_llstv_2025/BJNR0820A0025.html#BJNR0820A0025BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

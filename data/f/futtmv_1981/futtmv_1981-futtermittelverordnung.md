@@ -177,10 +177,12 @@ Gemeinschaft und der Europäischen Union:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG001301118)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE001126119)
 
 Im Sinne dieser Verordnung sind:
 
@@ -294,30 +296,37 @@ Im Sinne dieser Verordnung sind:
 
 
 ## Abschnitt 2 - Verkehr mit Futtermitteln
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG001401118)
 
 
 
 ### Unterabschnitt 1 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG001502119)
 
 
 
 #### § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE005811119)
 
 
 
 ### Unterabschnitt 2 - Kennzeichnung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG001601118)
 
 
 
 #### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010014119)
 
 
 
 #### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010306128)
 
 
 
 #### § 5 Kennzeichnung von Futtermitteln bei Fernabsatzverträgen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE002214118)
 
 Ein Futtermittel darf durch Fernkommunikationsmittel nur zum Verkauf
 angeboten werden, wenn die für das jeweilige Futtermittel
@@ -341,6 +350,7 @@ werden.
 
 
 #### § 6 Angaben
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE002326126)
 
 (1) Werden bei Mischfuttermitteln Angaben über den Gehalt an Energie
 gemacht, so sind diese Angaben nach den Schätzgleichungen in Anlage 2
@@ -372,6 +382,7 @@ Europäischen Union auf Grund des Artikels 17 Absatz 4 der Verordnung
 
 
 #### § 7 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003421126)
 
 Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG
 des Europäischen Parlaments und des Rates vom 7. Mai 2002 über
@@ -388,6 +399,7 @@ Höchstgehalte nicht überschritten werden.
 
 
 #### § 8 Unerwünschte Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003333118)
 
 (1) Es ist verboten, ein Futtermittel mit einem Gehalt an einem
 unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG
@@ -415,12 +427,14 @@ festgesetzten Höchstgehalt nicht überschreiten.
 
 
 #### § 9 Aktionsgrenzwerte für unerwünschte Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008308118)
 
 Die Aktionsgrenzwerte für unerwünschte Stoffe sind in Anhang II der
 Richtlinie 2002/32/EG festgesetzt.
 
 
 #### § 10 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010505118)
 
 (1) Abweichend von
 
@@ -460,6 +474,7 @@ Verfütterung abgeben.“
 
 
 #### § 11 Verbotene Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003511118)
 
 Es ist verboten, ein Futtermittel, das den Anforderungen nach Artikel
 6 Absatz 1 der Verordnung (EG) Nr. 767/2009 nicht entspricht, in den
@@ -467,6 +482,7 @@ Verkehr zu bringen oder zu verfüttern.
 
 
 #### § 12 Inverkehrbringensverbote
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003711118)
 
 Es ist verboten,
 
@@ -486,14 +502,17 @@ Es ist verboten,
 
 
 #### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE002620128)
 
 
 
 ### Unterabschnitt 3 - Fütterung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG001802128)
 
 
 
 #### § 14 Fütterungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003619118)
 
 Einzelfuttermittel oder Mischfuttermittel, für die in Anhang I der
 Richtlinie 2002/32/EG höhere Gehalte an unerwünschten Stoffen als für
@@ -508,6 +527,7 @@ keine Höchstgehalte festgesetzt sind.
 
 
 #### § 15 Ausnahmen vom Verfütterungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE009208124)
 
 In Anhang IV Kapitel II Buchstabe e Satz 1 der Verordnung (EG) Nr.
 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001
@@ -523,10 +543,12 @@ transmissibler spongiformer Enzephalopathien hervorrufen.
 
 
 ### Unterabschnitt 4 - Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG001902128)
 
 
 
 #### § 16 Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008709126)
 
 (1) Das Bundesamt wirkt mit bei:
 
@@ -574,10 +596,12 @@ Erstellung
 
 
 ### Unterabschnitt 5 - Anforderungen an Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002002128)
 
 
 
 #### § 17 Zulassungsbedürftige Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003824118)
 
 (1) (weggefallen)
 
@@ -665,6 +689,7 @@ unberührt.
 
 
 #### § 18 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE003920118)
 
 (1) (weggefallen)
 
@@ -792,6 +817,7 @@ nachträglich mit Auflagen verbinden.
 
 
 #### § 19 Besondere Pflichten für Trocknungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE006010118)
 
 Betriebe nach § 17 Absatz 2 müssen durch eine prozessbegleitende
 Dokumentation nachweisen, dass ein Eintrag unerwünschter Stoffe in das
@@ -826,6 +852,7 @@ Hierzu sind insbesondere
 
 
 #### § 20 Registrierungsbedürftige Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE004022118)
 
 Sofern
 
@@ -890,6 +917,7 @@ Satzes 1 sind Betriebe, die
 
 
 #### § 21 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE004116118)
 
 (1) Registrierungsbedürftige Betriebe nach § 20 werden auf Antrag für
 die jeweils beabsichtigte Tätigkeit von der für den Betriebsort
@@ -947,6 +975,7 @@ Registrierung auch nachträglich mit Auflagen verbinden.
 
 
 #### § 22 Anzeigebedürftige Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008407118)
 
 (1) Wer gewerbsmäßig Futtermittel für Heimtiere in den Verkehr bringen
 will, hat dies vor Beginn des Betriebes der nach Landesrecht
@@ -967,6 +996,7 @@ Verordnung (EG) Nr. 183/2005 unterliegt.
 
 
 #### § 23 Zulassungs- und Registrierungs-Kennnummer
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE006208118)
 
 Die zuständige Behörde erteilt dem Betrieb
 
@@ -980,6 +1010,7 @@ Die zuständige Behörde erteilt dem Betrieb
 
 
 #### § 24 Rücknahme, Widerruf, Ruhen und Erlöschen der Zulassung und der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE004217118)
 
 (1) (weggefallen)
 
@@ -1048,6 +1079,7 @@ ausgeübt hat.
 
 
 #### § 25 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE004316118)
 
 (1) Die nach Landesrecht zuständigen Behörden teilen dem Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit (Bundesamt)
@@ -1079,6 +1111,7 @@ bekannt.
 
 
 #### § 26 Status anerkannter, registrierter und angezeigter Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE007709118)
 
 (1) Betriebe nach
 
@@ -1123,10 +1156,12 @@ gelten als angezeigt nach § 22.
 
 
 ## Abschnitt 3 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002101118)
 
 
 
 ### § 27 Lagerung und Aufbewahrung einer zurückgelassenen Endprobe
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010205118)
 
 Wird eine im Rahmen der amtlichen Überwachung gebildete Endprobe eines
 Futtermittels bei demjenigen zurückgelassen, der nicht der Hersteller
@@ -1135,6 +1170,7 @@ sachgerecht zu lagern und aufzubewahren.
 
 
 ### § 28 Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE002128126)
 
 Soweit für die amtliche Untersuchung von Futtermitteln keine
 geeigneten Regeln oder Protokolle nach Artikel 34 Absatz 2 Buchstabe a
@@ -1157,6 +1193,7 @@ Methoden durchgeführt werden.
 
 
 ### § 29 Untersuchung von Futtermitteln auf Pestizidrückstände
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010406118)
 
 Bei der amtlichen Untersuchung von Futtermitteln auf
 Pestizidrückstände sind die in der amtlichen Sammlung von
@@ -1169,6 +1206,7 @@ Lebensmittel aufgeführten Analysemethoden anzuwenden.
 
 
 ### § 30 Aufbewahrung von Buchführungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE004417118)
 
 (1) Wer gewerbsmäßig ortsfeste oder bewegliche Anlagen zur Herstellung
 von Futtermitteln anderen überlässt, hat über die Überlassung Buch zu
@@ -1183,30 +1221,37 @@ vorsehen, bleiben unberührt.
 
 
 ## Abschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002202128)
 
 
 
 ### (XXXX) §§ 31 bis 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE009308128)
 
 
 
 ## Abschnitt 5 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002301118)
 
 
 
 ### Unterabschnitt 1 - Straftaten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002401118)
 
 
 
 #### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008125128)
 
 
 
 ### Unterabschnitt 2 - Straftaten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002501118)
 
 
 
 #### § 39 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE009608124)
 
 Nach § 58 Absatz 3, 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
@@ -1241,10 +1286,12 @@ vorsätzlich oder fahrlässig
 
 
 ### Unterabschnitt 3 - Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002601118)
 
 
 
 #### § 40 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010123128)
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
 des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
@@ -1323,10 +1370,12 @@ Mischfuttermittel einführt.
 
 
 ### Unterabschnitt 4 - Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002702124)
 
 
 
 #### § 40a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE011500124)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -1341,6 +1390,7 @@ ausführt.
 
 
 #### § 41 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1831/2003
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008226118)
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
@@ -1375,6 +1425,7 @@ Futtermittelzusatzstoff oder eine Vormischung in Verkehr bringt.
 
 
 #### § 42 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 183/2005
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010602128)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
@@ -1455,10 +1506,12 @@ geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 
 #### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010704128)
 
 
 
 #### § 44 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 767/2009
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010802126)
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
@@ -1553,14 +1606,17 @@ Einzelfuttermittel oder ein Mischfuttermittel in den Verkehr bringt.
 
 
 #### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE010903128)
 
 
 
 #### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE011002128)
 
 
 
 #### § 46a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015/786
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE011200118)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -1574,10 +1630,12 @@ zugelassen ist.
 
 
 #### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE011103128)
 
 
 
 #### § 47a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2020/354
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE011700119)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -1589,10 +1647,12 @@ besondere Ernährungszwecke und zur Aufhebung der Richtlinie 2008/38/EG
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNG002801118)
 
 
 
 ### § 48 Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008505118)
 
 Die Befugnis zum Verkehr mit den zuständigen Behörden anderer
 Mitgliedstaaten zur Aufklärung und Verfolgung von Verstößen gegen
@@ -1602,6 +1662,7 @@ Mitteilungen an andere Mitgliedstaaten.
 
 
 ### § 49 Technische Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE008007118)
 
 Soweit in dieser Verordnung auf DIN-Normen Bezug genommen wird, sind
 diese im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie sind beim
@@ -1609,6 +1670,7 @@ Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
 
 ### § 49a Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE011600126)
 
 Futtermittel dürfen noch bis zum 31. August 2020 mit Etiketten, die
 den Anforderungen des § 6 Absatz 2 der Futtermittelverordnung in der
@@ -1620,6 +1682,7 @@ aufgebraucht sind.
 
 
 ### § 50 Weitere Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE009911119)
 
 (1) Auf Sachverhalte, die vor dem 12. November 2015 entstanden sind,
 ist § 36b Absatz 2 Nummer 1 Buchstabe b in der bis zum 30. November
@@ -1636,16 +1699,19 @@ Verfolgung von Ordnungswidrigkeiten weiter anzuwenden.
 
 
 ### § 51 Inkrafttreten, Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE004833118)
 
 (Inkrafttreten; Außerkrafttreten bisheriger Vorschriften)
 
 
 ### Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE005922119)
 
 
 (zu § 6 Absatz 1)
 
 ### Anlage 2 Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE005418126)
 
 (Fundstelle: BGBl. I 2016, 2026)
 
@@ -1843,6 +1909,7 @@ DLG-Verlag, Frankfurt/Main.
 (zu § 6 Absatz 2)
 
 ### Anlage 3 Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für nicht der Lebensmittelgewinnung dienende Tiere mit Ausnahme von Pelztieren ersetzt
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE005215126)
 
 (Fundstelle: BGBl. I 2016, 2027)
 
@@ -2006,6 +2073,7 @@ DLG-Verlag, Frankfurt/Main.
 (zu § 18 Absatz 2)
 
 ### Anlage 4 Anforderungen und Pflichten für Betriebe gemäß § 17 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE007809118)
 
 (Fundstelle: BGBl. I 2016, 2028)
 
@@ -2096,5 +2164,6 @@ DLG-Verlag, Frankfurt/Main.
 
 
 ### Anlage 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/futtmv_1981/BJNR003520981.html#BJNR003520981BJNE009811128)
 
 

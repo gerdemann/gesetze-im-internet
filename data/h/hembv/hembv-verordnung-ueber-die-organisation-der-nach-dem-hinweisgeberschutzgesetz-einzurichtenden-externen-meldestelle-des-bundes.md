@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000100000)
 
 Auf Grund des § 41 des Hinweisgeberschutzgesetzes vom 31. Mai 2023
 (BGBl. 2023 I Nr. 140) verordnet das Bundesministerium der Justiz im
@@ -30,12 +31,14 @@ Sicherheit und Verbraucherschutz:
 
 
 ## § 1 Rechtsaufsicht über die externe Meldestelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000200000)
 
 Die externe Meldestelle des Bundes untersteht der Rechtsaufsicht des
 Bundesministeriums der Justiz.
 
 
 ## § 2 Meldekanäle
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000300000)
 
 (1) Das Bundesamt für Justiz richtet für die externe Meldestelle des
 Bundes die Meldekanäle nach § 27 des Hinweisgeberschutzgesetzes ein.
@@ -75,6 +78,7 @@ untersagt. Dieses Verbot gilt nicht für die Weiterleitung nach Satz 1.
 
 
 ## § 3 Weitere vertrauliche Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000400000)
 
 (1) Die weitere vertrauliche Kommunikation zwischen der externen
 Meldestelle des Bundes und der hinweisgebenden Person erfolgt über die
@@ -92,6 +96,7 @@ Justiz gibt die Übertragungswege auf seiner Internetseite bekannt.
 
 
 ## § 4 Umgang mit anonymen Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000500000)
 
 (1) Die externe Meldestelle des Bundes nimmt auch anonym eingehende
 Meldungen über die nach § 2 Absatz 1 eingerichteten Meldekanäle
@@ -115,6 +120,7 @@ angebotenen Kommunikationswegs bestehen.
 
 
 ## § 5 Elektronische Aktenführung, Akteneinsicht und Digitalisierung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000600000)
 
 (1) Die externe Meldestelle des Bundes kann Akten ganz oder teilweise
 elektronisch führen.
@@ -135,6 +141,7 @@ Justiz gelten für
 
 
 ## § 6 Information und Beratung
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000700000)
 
 (1) Die externe Meldestelle des Bundes informiert und berät natürliche
 Personen, die in Erwägung ziehen, eine Meldung zu erstatten,
@@ -175,6 +182,7 @@ Absatz 1 entsprechend.
 
 
 ## § 7 Weitere externe Meldestelle
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000800000)
 
 Für externe Meldungen über Verstöße innerhalb der externen Meldestelle
 des Bundes, die in die Zuständigkeit der externen Meldestelle des
@@ -183,6 +191,7 @@ Meldestelle nach § 23 Absatz 1 des Hinweisgeberschutzgesetzes.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hembv/BJNR0D30A0023.html#BJNR0D30A0023BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

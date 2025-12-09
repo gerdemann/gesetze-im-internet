@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bvg_27bv/BJNR522600968.html#BJNR522600968BJNE000100325)
 
 Auf Grund des § 1 Abs. 2 Buchstabe b in Verbindung mit § 5 Abs. 2 des
 Gesetzes über die Durchführung von Statistiken auf dem Gebiet der
@@ -28,6 +29,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bvg_27bv/BJNR522600968.html#BJNR522600968BJNE000200325)
 
 Auf dem Gebiet der Kriegsopferfürsorge wird eine Zusatzstatistik über
 Leistungen, die im Rechnungsjahr 1969 nach § 27b des
@@ -36,6 +38,7 @@ Vorschrift gewährt werden, als Bundesstatistik durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bvg_27bv/BJNR522600968.html#BJNR522600968BJNE000300325)
 
 Die Zusatzstatistik erfaßt
 
@@ -53,6 +56,7 @@ Die Zusatzstatistik erfaßt
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bvg_27bv/BJNR522600968.html#BJNR522600968BJNE000400325)
 
 (1) Die Zusatzstatistik wird repräsentativ mit einem Auswahlsatz von
 50 vom Hundert der Empfänger von Leistungen im Sinne des § 1
@@ -63,6 +67,7 @@ Kriegsopferfürsorge sachlich zuständigen Stellen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bvg_27bv/BJNR522600968.html#BJNR522600968BJNE000500325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 6 des
@@ -72,6 +77,7 @@ Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bvg_27bv/BJNR522600968.html#BJNR522600968BJNE000600325)
 
 Diese Verordnung tritt am 1. Januar 1969 in Kraft.
 

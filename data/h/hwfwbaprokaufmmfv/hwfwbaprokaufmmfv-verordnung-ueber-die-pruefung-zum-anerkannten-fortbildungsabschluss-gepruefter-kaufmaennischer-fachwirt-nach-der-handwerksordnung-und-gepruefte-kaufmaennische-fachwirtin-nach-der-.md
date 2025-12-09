@@ -21,6 +21,7 @@ Fundstelle
 Stand: Ersetzt V 7110-20-9 v. 1.3.2016 I 331 (HandwFWFortbPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000100000)
 
 Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit den
 §§ 42a und 42c der Handwerksordnung in der Fassung der Bekanntmachung
@@ -33,6 +34,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Kaufmännischer Fachwirt nach der
@@ -104,6 +106,7 @@ Kaufmännische Fachwirtin nach der Handwerksordnung“ vorangestellt.
 
 
 ## § 2 Voraussetzung für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000400000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 42c der
 Handwerksordnung erfüllt und Folgendes nachweist:
@@ -156,6 +159,7 @@ Prüfung rechtfertigen.
 
 
 ## § 3 Teile des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000500000)
 
 (1) Für den Fortbildungsabschluss zum Geprüften Kaufmännischen
 Fachwirt nach der Handwerksordnung-Bachelor Professional für
@@ -185,6 +189,7 @@ auf den letzten Tag der Prüfung für die erste Prüfungsleistung folgt.
 
 
 ## § 4 Nachweis der berufs- und arbeitspädagogischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000600000)
 
 Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat
 die zu prüfende Person nachzuweisen durch
@@ -206,6 +211,7 @@ die zu prüfende Person nachzuweisen durch
 
 
 ## § 5 Handlungsbereiche der fortbildungsspezifischen kaufmännischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000700000)
 
 In der Prüfung der fortbildungsspezifischen kaufmännischen
 Qualifikationen nach § 3 Absatz 1 Nummer 2 werden folgende
@@ -231,6 +237,7 @@ Handlungsbereiche geprüft:
 
 
 ## § 6 Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen analysieren und fördern“
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000800000)
 
 (1) Im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen
 analysieren und fördern“ soll die zu prüfende Person nachweisen, dass
@@ -273,6 +280,7 @@ Zusammenhänge begreifen und beachten.
 
 
 ## § 7 Handlungsbereich „Marketing nach strategischen Vorgaben gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE000900000)
 
 (1) Im Handlungsbereich „Marketing nach strategischen Vorgaben
 gestalten“ soll die zu prüfende Person nachweisen, dass sie in der
@@ -307,6 +315,7 @@ Nachsteuerung durchführen zu können.
 
 
 ## § 8 Handlungsbereich „Betriebliches Rechnungswesen, Controlling sowie Finanzierung und Investitionen gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001000000)
 
 (1) Im Handlungsbereich „Betriebliches Rechnungswesen, Controlling
 sowie Finanzierung und Investitionen gestalten“ soll die zu prüfende
@@ -345,6 +354,7 @@ betriebliche Rechnungswesen zu gestalten.
 
 
 ## § 9 Handlungsbereich „Personalwesen gestalten und Personal führen“
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001100000)
 
 (1) Im Handlungsbereich „Personalwesen gestalten und Personal führen“
 soll die zu prüfende Person nachweisen, dass sie in der Lage ist,
@@ -399,6 +409,7 @@ adäquat einsetzen kann.
 
 
 ## § 10 Handlungsbereich „Prozesse betriebswirtschaftlich analysieren und optimieren“
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001200000)
 
 (1) Im Handlungsbereich „Prozesse betriebswirtschaftlich analysieren
 und optimieren“ soll die zu prüfende Person nachweisen, dass sie in
@@ -429,6 +440,7 @@ auszuarbeiten.
 
 
 ## § 11 Gliederung der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001300000)
 
 Die Prüfung der fortbildungsspezifischen kaufmännischen
 Qualifikationen gliedert sich in
@@ -443,6 +455,7 @@ Qualifikationen gliedert sich in
 
 
 ## § 12 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001400000)
 
 (1) Die schriftliche Prüfung besteht aus drei Prüfungsbestandteilen.
 Die Aufgaben der drei schriftlichen Prüfungsbestandteile werden als
@@ -485,6 +498,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 13 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001500000)
 
 (1) Voraussetzung für die mündliche Prüfung ist, dass die schriftliche
 Prüfung in allen Prüfungsbestandteilen abgelegt wurde.
@@ -507,6 +521,7 @@ Präsentation verwendet werden.
 
 
 ## § 14 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001600000)
 
 Wird die zu prüfende Person nach § 42h Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
@@ -518,6 +533,7 @@ den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 15 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001700000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -551,6 +567,7 @@ wie folgt zu gewichten:
 
 
 ## § 16 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001800000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -576,6 +593,7 @@ Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 17 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE001900000)
 
 (1) Wer die Prüfung nach § 16 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -601,6 +619,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 18 Wiederholen der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE002000000)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden. Die zu prüfende Person hat die Wiederholungsprüfung bei der
@@ -618,6 +637,7 @@ Wiederholungsprüfung.
 
 
 ## § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE002100000)
 
 (1) Hat sich die zu prüfende Person vor Inkrafttreten dieser
 Verordnung bereits zur Prüfung zum anerkannten Fortbildungsabschluss
@@ -640,6 +660,7 @@ Verordnung erforderlichen Prüfungsbestandteile anzurechnen.
 
 
 ## § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Die
 Handwerksfachwirtfortbildungsprüfungsverordnung vom 1. März 2016
@@ -650,6 +671,7 @@ Kraft.
 (zu den §§ 15 und 16)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 2951 - 2952)
 
@@ -952,6 +974,7 @@ Kraft.
 (zu § 17)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/hwfwbaprokaufmmfv/BJNR294500020.html#BJNR294500020BJNE002400000)
 
 (Fundstelle: BGBl. I 2020, 2953)
 

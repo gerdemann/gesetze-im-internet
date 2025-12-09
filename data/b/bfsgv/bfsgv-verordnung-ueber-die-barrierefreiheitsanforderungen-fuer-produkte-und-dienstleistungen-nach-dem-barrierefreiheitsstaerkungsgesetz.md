@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 des Barrierefreiheitsstärkungsgesetzes vom
 16\. Juli 2021 (BGBl. I S. 2970) in Verbindung mit § 1 Absatz 2 des
@@ -38,6 +39,7 @@ und Klimaschutz und dem Bundesministerium für Digitales und Verkehr:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000300000)
 
 Diese Verordnung ist auf Produkte im Sinne des § 1 Absatz 2 des
 Barrierefreiheitsstärkungsgesetzes und Dienstleistungen im Sinne des §
@@ -45,6 +47,7 @@ Barrierefreiheitsstärkungsgesetzes und Dienstleistungen im Sinne des §
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000401126)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des § 2 des
 Barrierefreiheitsstärkungsgesetzes die folgenden Begriffsbestimmungen:
@@ -79,6 +82,7 @@ Barrierefreiheitsstärkungsgesetzes die folgenden Begriffsbestimmungen:
 
 
 ## § 3 Stand der Technik
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000500000)
 
 (1) Bei der Erfüllung der Anforderungen nach dieser Rechtsverordnung
 ist der Stand der Technik zu beachten. Von dem Stand der Technik kann
@@ -105,6 +109,7 @@ Website regelmäßig
 
 
 ## § 4 Anforderungen an die Bereitstellung von Informationen für Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000600000)
 
 (1) Informationen zur Nutzung des Produkts auf dem Produkt selbst, wie
 die Kennzeichnungen, die Gebrauchsanleitung und die Warnhinweise
@@ -192,6 +197,7 @@ möglich ist, in oder auf dem Produkt selbst anzugeben.
 
 
 ## § 5 Anforderungen an Produktverpackungen und Anleitungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000700000)
 
 Die Verpackungen und Anleitungen der Produkte, mit Ausnahme von
 Selbstbedienungsterminals im Sinne des § 1 Absatz 2 Nummer 2 des
@@ -251,6 +257,7 @@ erfüllen:
 
 
 ## § 6 Anforderungen an Gestaltung von Benutzerschnittstelle und Funktionalität von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000800000)
 
 (1) Das Produkt, einschließlich seiner Benutzerschnittstelle, muss
 Bestandteile, Funktionen und Merkmale enthalten, die es Menschen mit
@@ -352,6 +359,7 @@ wahrzunehmen, zu bedienen, zu verstehen und zu steuern.
 
 
 ## § 7 Zusätzliche branchenspezifische Anforderungen an Selbstbedienungsterminals
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE000900000)
 
 (1) Selbstbedienungsterminals müssen
 
@@ -391,11 +399,13 @@ Barrierefreiheitsfunktionen zu ermöglichen.
 
 
 ## § 8 Zusätzliche branchenspezifische Anforderungen an E-Book-Lesegeräte
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001000000)
 
 E-Book-Lesegeräte müssen mit Sprachausgabe ausgestattet sein.
 
 
 ## § 9 Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur Bereitstellung von Telekommunikationsdiensten eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001100000)
 
 Verbraucherendgeräte mit interaktivem Leistungsumfang, die zur
 Bereitstellung von Telekommunikationsdiensten eingesetzt werden,
@@ -427,6 +437,7 @@ müssen
 
 
 ## § 10 Zusätzliche branchenspezifische Anforderungen an Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den Zugang zu audiovisuellen Mediendiensten verwendet werden
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001200000)
 
 Verbraucherendgeräte mit interaktivem Leistungsumfang, die für den
 Zugang zu audiovisuellen Mediendiensten verwendet werden, müssen
@@ -438,6 +449,7 @@ stellt.
 
 
 ## § 11 Unterstützungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001300000)
 
 Wenn Unterstützungsdienste wie Help-Desk, Call-Center, technische
 Unterstützung, Relaisdienste und Schulungsdienste verfügbar sind,
@@ -447,6 +459,7 @@ barrierefreien Kommunikationsmitteln bereitstellen.
 
 
 ## § 12 Allgemeine Anforderungen an Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001400000)
 
 Damit Dienstleistungen die Anforderungen des § 3 Absatz 1 Satz 2
 Barrierefreiheitsstärkungsgesetz erfüllen, müssen
@@ -521,6 +534,7 @@ Barrierefreiheitsstärkungsgesetz erfüllen, müssen
 
 
 ## § 13 Zusätzliche Anforderungen an bestimmte Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001500000)
 
 Damit Menschen mit Behinderungen die Dienstleistungen der §§ 14 bis 19
 in größtmöglichem Umfang nutzen können, müssen diese Dienstleistungen
@@ -531,6 +545,7 @@ assistiven Technologien gewährleisten.
 
 
 ## § 14 Zusätzliche Anforderungen an Telekommunikationsdienste
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001600000)
 
 Bei Telekommunikationsdiensten, die Sprachkommunikation ermöglichen,
 muss zusätzlich zur Sprachkommunikation Text in Echtzeit
@@ -540,6 +555,7 @@ werden.
 
 
 ## § 15 Zusätzliche Anforderungen an Personenbeförderungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001700000)
 
 Bei Personenbeförderungsdiensten im Luft-, Bus-, Schienen- und
 Schiffsverkehr, ausgenommen Stadt-, Vorort- sowie
@@ -569,6 +585,7 @@ von:
 
 
 ## § 16 Zusätzliche Anforderungen an Stadt-, Vorort- und Regionalverkehrsdienste
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001800000)
 
 Selbstbedienungsterminals im Sinne des § 1 Absatz 2 Nummer 2 Buchstabe
 b Doppelbuchstabe d des Barrierefreiheitsstärkungsgesetzes, die zur
@@ -578,6 +595,7 @@ Regionalverkehrsdienst verwendet werden, müssen die Anforderungen der
 
 
 ## § 17 Zusätzliche Anforderungen an Bankdienstleistungen für Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE001900000)
 
 (1) Soweit Identifizierungsmethoden, Authentifizierungsmethoden,
 elektronische Signaturen, Sicherheitsfunktionen und Zahlungsdienste
@@ -596,6 +614,7 @@ Gemeinsamen europäischen Referenzrahmens für Sprachen des Europarats
 
 
 ## § 18 Zusätzliche Anforderungen an E-Books
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE002000000)
 
 E-Books müssen
 
@@ -644,6 +663,7 @@ E-Books müssen
 
 
 ## § 19 Zusätzliche Anforderungen an Dienstleistungen im elektronischen Geschäftsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE002100000)
 
 Bei Dienstleistungen im elektronischen Geschäftsverkehr müssen
 
@@ -668,6 +688,7 @@ Bei Dienstleistungen im elektronischen Geschäftsverkehr müssen
 
 
 ## § 20 Anwendung von funktionalen Leistungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE002200000)
 
 (1) Funktionen, die die Gestaltung und Herstellung von Produkten sowie
 die Erbringung von Dienstleistungen betreffen und für die keine
@@ -694,6 +715,7 @@ Anforderung zur Anwendung kommen, wenn
 
 
 ## § 21 Funktionale Leistungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE002300000)
 
 (1) Wenn das Produkt oder die Dienstleistung visuelle Bedienungsformen
 bietet, muss
@@ -758,11 +780,13 @@ dieser Barrierefreiheitsfunktionen gewahrt ist.
 
 
 ## § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE002400000)
 
 Diese Verordnung tritt am 28. Juni 2025 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bfsgv/BJNR092800022.html#BJNR092800022BJNE002500000)
 
 Der Bundesrat hat zugestimmt.
 

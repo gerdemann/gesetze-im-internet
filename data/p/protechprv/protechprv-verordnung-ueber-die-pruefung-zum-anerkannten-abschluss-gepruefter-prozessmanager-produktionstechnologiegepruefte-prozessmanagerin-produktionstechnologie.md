@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
@@ -32,6 +33,7 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Prozessmanager – Produktionstechnologie/zur Geprüften
@@ -115,6 +117,7 @@ Prozessmanagerin – Produktionstechnologie.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000301360)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -151,6 +154,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000400000)
 
 Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -170,6 +174,7 @@ nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
 
 ## § 4 Prüfungsteil „Produktionsprozesse“
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000501128)
 
 (1) Im Prüfungsteil „Produktionsprozesse“ sollen die folgenden
 Befähigungen nachgewiesen werden:
@@ -240,6 +245,7 @@ Fachgesprächs sind die Befähigungen nach Absatz 1 zu bewerten.
 
 
 ## § 5 Prüfungsteil „Prozessmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000600000)
 
 (1) Im Prüfungsteil „Prozessmanagement“ soll die Befähigung zur
 Bewältigung berufstypischer Probleme nachgewiesen werden. Insbesondere
@@ -323,6 +329,7 @@ gewichtet.
 
 
 ## § 6 Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000701128)
 
 (1) Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist
 eine Situationsaufgabe schriftlich zu bearbeiten sowie ein
@@ -464,6 +471,7 @@ Minuten dauern.
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000802128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -477,6 +485,7 @@ nicht zulässig.
 
 
 ## § 8 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE000901128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
 bewerten.
@@ -495,6 +504,7 @@ Fachgesprächs zu bilden.
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 Prüfungsleistungen nach § 8 Absatz 2 jeweils mindestens 50 Punkte
@@ -529,6 +539,7 @@ ist die Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001700128)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
@@ -555,6 +566,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001001128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -570,12 +582,14 @@ gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001101128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Abs. 2)
 
 ## Anlage 1 Spezialistenprofile in der Produktionstechnologie
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001302128)
 
 (Fundstelle: BGBl. I 2008, 1056 - 1057; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -794,6 +808,7 @@ zu geben und darüber ein Fachgespräch zu führen.
 (zu den §§ 8 und 9)
 
 ## Anlage 2 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001800128)
 
 (Fundstelle: BGBl. I 2019, 2302 – 2303)
 
@@ -1095,6 +1110,7 @@ zu geben und darüber ein Fachgespräch zu führen.
 (zu § 10)
 
 ## Anlage 3 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/protechprv/BJNR105200008.html#BJNR105200008BJNE001900128)
 
 (Fundstelle: BGBl. I 2019, 2304)
 

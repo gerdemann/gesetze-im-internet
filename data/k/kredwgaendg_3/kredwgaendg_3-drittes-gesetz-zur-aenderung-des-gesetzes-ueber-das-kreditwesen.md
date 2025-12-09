@@ -18,14 +18,17 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNG000100328)
 
 
 
 ## Art 2 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNG000200328)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE000600328)
 
 Bis zum 31. Dezember 1989 kann ein Geschäftsführer einer
 Kreditgenossenschaft auch dann Geschäftsleiter bleiben, wenn er nicht
@@ -34,6 +37,7 @@ ehrenamtliche Mitglieder an.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE000700328)
 
 Vermögenseinlagen stiller Gesellschafter, die vor dem 1. Januar 1985
 geleistet worden sind und am 31. Dezember 1984 dem haftenden
@@ -54,6 +58,7 @@ solange sie dem Kreditinstitut zur Verfügung stehen,
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE000800328)
 
 (1) Haben gruppenangehörige Kreditinstitute insgesamt am 1. Juli 1985
 kein angemessenes haftendes Eigenkapital nach § 10a des Gesetzes über
@@ -70,6 +75,7 @@ hat.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE000900328)
 
 Ein Kreditinstitut hat am 1. Januar 1985 bestehende
 
@@ -89,6 +95,7 @@ bis zum 1. Juli 1985 dem Bundesaufsichtsamt anzuzeigen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE001000328)
 
 (1) Hält ein Kreditinstitut am 1. Januar 1985 wegen der Änderung von §
 12 des Gesetzes über das Kreditwesen die in § 12 Abs. 1 des Gesetzes
@@ -103,6 +110,7 @@ innerhalb der Frist nach Absatz 1 verringert hat.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE001100328)
 
 (1) Hält am 1. Januar 1985 ein Kreditinstitut die durch § 13 Abs. 3
 und 4 des Gesetzes über das Kreditwesen vorgeschriebenen Grenzen für
@@ -130,6 +138,7 @@ Frist nach Absatz 1 Satz 2 Nr. 2 verlängern.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE001200328)
 
 Halten am 1. Januar 1985 gruppenangehörige Kreditinstitute insgesamt
 die durch § 13a in Verbindung mit § 13 Abs. 3 oder 4 des Gesetzes über
@@ -138,6 +147,7 @@ gilt § 6 entsprechend.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNE001300328)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig der
 Pflicht zur Anzeige nach § 4 nicht, nicht rechtzeitig oder nicht
@@ -152,10 +162,12 @@ anzuwenden.
 
 
 ## Art 3 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNG000300328)
 
 
 
 ## Art 7 - Neufassung des Gesetzes über das Kreditwesen
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNG000600377)
 
 Der Bundesminister der Finanzen kann den Wortlaut des Gesetzes über
 das Kreditwesen in der vom 1. Juli 1985 an geltenden Fassung im
@@ -163,12 +175,14 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 8 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNG000400328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 9 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kredwg_ndg_3/BJNR016930984.html#BJNR016930984BJNG000500328)
 
 Dieses Gesetz tritt vorbehaltlich der Sätze 2 und 3 am 1. Januar 1985
 in Kraft. Artikel 1 Nr. 7, 11 und 22 sowie die zugehörigen

@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/werrasalzgaufhg/BJNR003800996.html#BJNR003800996BJNE000100310)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/werrasalzgaufhg/BJNR003800996.html#BJNR003800996BJNE000200310)
 
 Die bei Inkrafttreten dieses Gesetzes nach Maßgabe des Gesetzes über
 den Abbau von Salzen im Grenzgebiet an der Werra in den Abbaugebieten
@@ -33,6 +35,7 @@ bleiben unberührt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/werrasalzgaufhg/BJNR003800996.html#BJNR003800996BJNE000300310)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

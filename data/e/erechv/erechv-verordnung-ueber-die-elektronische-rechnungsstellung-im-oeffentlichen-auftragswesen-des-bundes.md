@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000100000)
 
 Auf Grund des § 4a Absatz 3 des E-Government-
 Gesetzes, der durch Artikel 1 Nummer 2 des Gesetzes vom 4. April 2017
@@ -28,6 +29,7 @@ Gesetzes, der durch Artikel 1 Nummer 2 des Gesetzes vom 4. April 2017
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000200000)
 
 Diese Verordnung gilt grundsätzlich für alle Rechnungen, mit denen
 eine Lieferung oder eine sonstige Leistung abgerechnet wird und die
@@ -39,6 +41,7 @@ Beschaffungen im Ausland enthält.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000300000)
 
 (1) Eine Rechnung ist jedes Dokument, mit dem eine Lieferung oder eine
 sonstige Leistung abgerechnet wird, gleichgültig, wie dieses Dokument
@@ -75,6 +78,7 @@ des Bundes sind.
 
 
 ## § 3 Verbindlichkeit der elektronischen Form
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000401000)
 
 (1) Rechnungssteller müssen Rechnungen gegenüber Rechnungsempfängern
 in elektronischer Form ausstellen und übermitteln. Sie können sich
@@ -102,6 +106,7 @@ gilt nicht für Rechnungen,
 
 
 ## § 4 Anforderungen an das Rechnungsdatenmodell und an die Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000501116)
 
 (1) Für die Ausstellung von elektronischen Rechnungen haben
 Rechnungssteller und Rechnungssender grundsätzlich den
@@ -146,6 +151,7 @@ Wettbewerbsbeschränkungen auszustellen sind.
 
 
 ## § 5 Inhalt der elektronischen Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000600000)
 
 (1) Die elektronische Rechnung hat neben den umsatzsteuerrechtlichen
 Rechnungsbestandteilen mindestens folgende Angaben zu enthalten:
@@ -182,6 +188,7 @@ Rechnungen, die in Verfahren der Organleihe nach § 159 Absatz 1 Nummer
 
 
 ## § 6 Verarbeitung von elektronischen Rechnungen
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000700000)
 
 (1) Rechnungsempfänger, die an das Verfahren für das Haushalts-,
 Kassen- und Rechnungswesen des Bundes angeschlossen sind, haben die
@@ -199,6 +206,7 @@ Wettbewerbsbeschränkungen auszustellen sind.
 
 
 ## § 7 Schutz personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000800000)
 
 (1) Personenbezogene Daten, die durch die elektronische
 Rechnungsstellung übermittelt und empfangen wurden, dürfen vom
@@ -216,6 +224,7 @@ personenbezogenen Daten zu berücksichtigen.
 
 
 ## § 8 Ausnahmen für geheimhaltungsbedürftige Rechnungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE000900000)
 
 (1) Rechnungsdaten, die gemäß § 4 Absatz 2 Nummer 1 bis 3 des
 Sicherheitsüberprüfungsgesetzes geheimhaltungsbedürftig sind, sind vom
@@ -229,6 +238,7 @@ nicht per E-Mail übertragen werden.
 
 
 ## § 9 Ausnahmen für Angelegenheiten des Auswärtigen Dienstes und der sonstigen Beschaffungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE001000000)
 
 (1) Auslandsvertretungen im Sinne von § 3 Absatz 1 des Gesetzes über
 den Auswärtigen Dienst sind lediglich dann zum Empfang elektronischer
@@ -245,6 +255,7 @@ ist das Verfahren vom Geltungsbereich dieser Verordnung ausgenommen.
 
 
 ## § 10 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE001101116)
 
 Das Bundesministerium des Innern, für Bau und Heimat prüft die
 Anwendung dieser Rechtsverordnung und deren Auswirkung auf die
@@ -256,6 +267,7 @@ Bericht zu erstatten.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erechv/BJNR355500017.html#BJNR355500017BJNE001200000)
 
 (1) Diese Verordnung tritt vorbehaltlich der Absätze 2 und 3 am 27.
 November 2018 in Kraft.

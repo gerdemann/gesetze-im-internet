@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000201116)
 
 (1) Die Physikalisch-Technische Bundesanstalt erhebt in ihrem
 Zuständigkeitsbereich nach Maßgabe dieser Verordnung Gebühren und
@@ -74,6 +76,7 @@ werden, wird durch diese Verordnung nicht berührt.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000301116)
 
 (1) Für gebührenfähige Leistungen erhebt die Physikalisch-Technische
 Bundesanstalt Fest- oder Zeitgebühren gemäß § 11 Nummer 1 und 2 des
@@ -114,6 +117,7 @@ die Festsetzung der Gebühren und Auslagen.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000402130)
 
 Für die Erhebung von Gebühren und Auslagen für gebührenfähige
 Leistungen nach Abschnitt 1, 2, 3, 4, 5 und 6 der Anlage 1, die bis
@@ -125,12 +129,14 @@ günstiger ist.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 1 Satz 2)
 
 ## Anlage 1 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000602130)
 
 (Fundstelle: BGBl. 2025 I Nr. 90, S. 1 – 3)
 
@@ -497,6 +503,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 2 Absatz 1 Satz 2)
 
 ## Anlage 2 Stundensätze
+[Direktlink](https://www.gesetze-im-internet.de/ptbbgebv/BJNR171700021.html#BJNR171700021BJNE000702130)
 
 (Fundstelle: BGBl. 2025 I Nr. 90, S. 4 – 5)
 

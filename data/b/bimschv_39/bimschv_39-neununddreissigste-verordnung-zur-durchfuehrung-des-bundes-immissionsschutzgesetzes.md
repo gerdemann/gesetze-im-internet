@@ -29,9 +29,11 @@ Stand: Zuletzt geändert Art. 112 V v. 19.6.2020 I 1328
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000200000)
 
 In dieser Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -293,9 +295,11 @@ In dieser Verordnung gelten folgende Begriffsbestimmungen:
 
 
 ## Teil 2 - Immissionswerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000200000)
 
 
 ### § 2 Immissionsgrenzwerte, Alarmschwelle und kritischer Wert für Schwefeldioxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000300000)
 
 (1) Zum Schutz der menschlichen Gesundheit beträgt der über eine volle
 Stunde gemittelte Immissionsgrenzwert für Schwefeldioxid
@@ -339,6 +343,7 @@ Oktober des laufenden Jahres bis 31. März des Folgejahres)
 
 
 ### § 3 Immissionsgrenzwerte und Alarmschwelle für Stickstoffdioxid (NO2); kritischer Wert für Stickstoffoxide (NOx)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000400000)
 
 (1) Zum Schutz der menschlichen Gesundheit beträgt der über eine volle
 Stunde gemittelte Immissionsgrenzwert für Stickstoffdioxid (NO
@@ -383,6 +388,7 @@ x)
 
 
 ### § 4 Immissionsgrenzwerte für Partikel (PM10)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000500000)
 
 (1) Zum Schutz der menschlichen Gesundheit beträgt der über den Tag
 gemittelte Immissionsgrenzwert für Partikel PM
@@ -405,6 +411,7 @@ Kalenderjahr gemittelte Immissionsgrenzwert für Partikel PM
 
 
 ### § 5 Zielwert, Immissionsgrenzwert, Verpflichtung in Bezug auf die Expositionskonzentration sowie nationales Ziel für die Reduzierung der Exposition für Partikel (PM2,5)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000600000)
 
 (1) Zum Schutz der menschlichen Gesundheit beträgt der über ein
 Kalenderjahr gemittelte Zielwert für PM
@@ -450,6 +457,7 @@ vorgenommen.
 
 
 ### § 6 Immissionsgrenzwert für Blei
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000700000)
 
 Zum Schutz der menschlichen Gesundheit beträgt der über ein
 Kalenderjahr gemittelte Immissionsgrenzwert für Blei
@@ -461,6 +469,7 @@ Kalenderjahr gemittelte Immissionsgrenzwert für Blei
 
 
 ### § 7 Immissionsgrenzwert für Benzol
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000800000)
 
 Zum Schutz der menschlichen Gesundheit beträgt der über ein
 Kalenderjahr gemittelte Immissionsgrenzwert für Benzol
@@ -472,6 +481,7 @@ Kalenderjahr gemittelte Immissionsgrenzwert für Benzol
 
 
 ### § 8 Immissionsgrenzwert für Kohlenmonoxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE000900000)
 
 Zum Schutz der menschlichen Gesundheit beträgt der als höchster
 Achtstundenmittelwert pro Tag zu ermittelnde Immissionsgrenzwert für
@@ -480,6 +490,7 @@ Kohlenmonoxid
 
 
 ### § 9 Zielwerte, langfristige Ziele, Informationsschwelle und Alarmschwelle für bodennahes Ozon
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001000000)
 
 (1) Der Zielwert zum Schutz der menschlichen Gesundheit vor Ozon
 beträgt
@@ -561,6 +572,7 @@ festgelegt.
 
 
 ### § 10 Zielwerte für Arsen, Kadmium, Nickel und Benzo[a]pyren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001100000)
 
 Um schädliche Auswirkungen von Arsen, Kadmium, Nickel und Benzo[
 a]pyren als Marker für polyzyklische aromatische Kohlenwasserstoffe
@@ -601,15 +613,18 @@ zu verhindern oder zu verringern, werden folgende ab dem 1. Januar
 
 
 ## Teil 3 - Beurteilung der Luftqualität
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000300000)
 
 
 ### § 11 Festlegung von Gebieten und Ballungsräumen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001200000)
 
 Die zuständigen Behörden legen für die gesamte Fläche ihres Landes
 Gebiete und Ballungsräume fest.
 
 
 ### § 12 Einstufung der Gebiete und Ballungsräume für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001300000)
 
 (1) Für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel
 (PM
@@ -631,6 +646,7 @@ sind die Einstufungen je nach Signifikanz in kürzeren Intervallen zu
 
 
 ### § 13 Vorschriften zur Ermittlung von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001400000)
 
 (1) Die Luftqualität wird in Bezug auf die in § 12 Absatz 1 genannten
 Schadstoffe in allen Gebieten und Ballungsräumen anhand der in den
@@ -677,6 +693,7 @@ der folgenden Kriterien durchzuführen:
 
 
 ### § 14 Probenahmestellen zur Messung von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001502116)
 
 (1) Für die Festlegung des Standorts von Probenahmestellen, an denen
 die in § 12 Absatz 1 genannten Schadstoffe in der Luft gemessen
@@ -723,6 +740,7 @@ sind. Die Absätze 2 und 3 gelten sinngemäß.
 
 
 ### § 15 Indikator für die durchschnittliche PM2,5-Exposition
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001600000)
 
 Der Indikator für die durchschnittliche PM
 2,5-Exposition wird vom Umweltbundesamt berechnet. Die Länder
@@ -733,6 +751,7 @@ vorgesehenen Anzahl liegen.
 
 
 ### § 16 Referenzmessmethoden für die Beurteilung von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001700000)
 
 (1) Es gelten die in Anlage 6 Abschnitt A und C festgelegten
 Referenzmessmethoden und Kriterien.
@@ -742,6 +761,7 @@ Referenzmessmethoden und Kriterien.
 
 
 ### § 17 Vorschriften zur Ermittlung von Ozonwerten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001800000)
 
 (1) Liegen in einem Gebiet oder Ballungsraum die Ozonwerte in einem
 Jahr der vorangehenden fünfjährigen Messperiode oberhalb der in § 9
@@ -759,6 +779,7 @@ in Absatz 1 genannten langfristigen Ziele lagen.
 
 
 ### § 18 Probenahmestellen zur Messung von Ozonwerten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE001902116)
 
 (1) Für die Festlegung des Standorts von Probenahmestellen zur Messung
 von Ozon gelten die Kriterien der Anlage 8.
@@ -828,6 +849,7 @@ der von ihm beauftragten Stelle ab.
 
 
 ### § 19 Referenzmessmethoden für die Beurteilung von Ozonwerten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002000000)
 
 (1) Es gilt die in Anlage 6 Abschnitt A Nummer 8 festgelegte
 Referenzmethode für die Messung von Ozon.
@@ -837,6 +859,7 @@ Referenzmethode für die Messung von Ozon.
 
 
 ### § 20 Vorschriften zur Ermittlung von Arsen, Kadmium, Nickel und Benzo[a]pyren und Quecksilber
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002102116)
 
 (1) Die zuständigen Behörden erstellen für Arsen, Kadmium, Nickel und
 Benzo[
@@ -981,9 +1004,11 @@ verfügbar sind.
 
 
 ## Teil 4 - Kontrolle der Luftqualität
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000400000)
 
 
 ### § 21 Regelungen für die Einhaltung der Immissionsgrenzwerte für Schwefeldioxid, Stickstoffdioxid, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002200000)
 
 (1) Die Einhaltung der Immissionsgrenzwerte für Schwefeldioxid,
 Stickstoffdioxid, Partikel PM
@@ -1019,6 +1044,7 @@ Toleranzmarge überschreitet.
 
 
 ### § 22 Anforderungen an Gebiete und Ballungsräume, in denen die Zielwerte für Arsen, Kadmium, Nickel und Benzo[a]pyren überschritten sind
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002300000)
 
 Werden in Teilgebieten nach § 20 Absatz 1 Nummer 2 die Zielwerte für
 Arsen, Kadmium, Nickel und Benzo[
@@ -1034,6 +1060,7 @@ des Artikels 2 Nummer 12 jener Richtlinie angewandt wurden.
 
 
 ### § 23 Einhaltung von langfristigem Ziel, nationalem Ziel und Zielwerten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002400000)
 
 Die Einhaltung
 
@@ -1056,6 +1083,7 @@ verursachen, möglich ist.
 
 
 ### § 24 Überschreitung von Immissionsgrenzwerten durch Emissionsbeiträge aus natürlichen Quellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002502116)
 
 (1) Die zuständigen Behörden übermitteln dem Bundesministerium für
 Umwelt, Naturschutz und nukleare Sicherheit über die nach Landesrecht
@@ -1073,6 +1101,7 @@ Ansatz.
 
 
 ### § 25 Überschreitung von Immissionsgrenzwerten für Partikel PM10 auf Grund der Ausbringung von Streusand oder -salz auf Straßen im Winterdienst
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002602116)
 
 (1) Die zuständigen Behörden übermitteln dem Bundesministerium für
 Umwelt, Naturschutz und nukleare Sicherheit über die nach Landesrecht
@@ -1102,6 +1131,7 @@ Ansatz.
 
 
 ### § 26 Erhalten der bestmöglichen Luftqualität
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002701116)
 
 (1) In Gebieten und Ballungsräumen, in denen die Werte von
 Schwefeldioxid, Stickstoffdioxid, Partikel PM
@@ -1128,9 +1158,11 @@ allen für die Luftqualität relevanten Planungen.
 
 
 ## Teil 5 - Pläne
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000500000)
 
 
 ### § 27 Luftreinhaltepläne
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002801116)
 
 (1) Überschreiten in bestimmten Gebieten oder Ballungsräumen die Werte
 für Schadstoffe in der Luft einen Immissionsgrenzwert zuzüglich einer
@@ -1174,6 +1206,7 @@ Umweltziele zu erreichen.
 
 
 ### § 28 Pläne für kurzfristige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE002900000)
 
 (1) Besteht in einem bestimmten Gebiet oder Ballungsraum die Gefahr,
 dass die Werte für Schadstoffe die in § 2 Absatz 3 und § 3 Absatz 3
@@ -1201,6 +1234,7 @@ zum Schutz von Kindern, vorgesehen werden.
 
 
 ### § 29 Maßnahmen bei grenzüberschreitender Luftverschmutzung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003000000)
 
 (1) Wird eine Alarmschwelle, ein Immissionsgrenzwert oder ein Zielwert
 zuzüglich der dafür geltenden Toleranzmarge oder ein langfristiges
@@ -1228,9 +1262,11 @@ informieren.
 
 
 ## Teil 6 - Unterrichtung der Öffentlichkeit und Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000600000)
 
 
 ### § 30 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003103116)
 
 (1) Die zuständigen Behörden unterrichten die Öffentlichkeit,
 insbesondere relevante Organisationen wie Umweltschutzorganisationen,
@@ -1329,6 +1365,7 @@ der Qualitätssicherung.
 
 
 ### § 31 Übermittlung von Informationen und Berichten für Schwefeldioxid, Stickstoffoxide, Partikel PM10, Partikel PM2,5, Blei, Benzol, Kohlenmonoxid, Staubinhaltsstoffe und Ozon
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003202116)
 
 Die zuständigen Behörden übermitteln dem Bundesministerium für Umwelt,
 Naturschutz und nukleare Sicherheit oder der von ihm beauftragten
@@ -1338,6 +1375,7 @@ Informationen.
 
 
 ### § 32 Übermittlung von Informationen und Berichten für Arsen, Kadmium, Nickel und Benzo[a]pyren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003302116)
 
 (1) Die zuständigen Behörden übermitteln dem Bundesministerium für
 Umwelt, Naturschutz und nukleare Sicherheit oder der von ihm
@@ -1380,9 +1418,11 @@ zuständigen Behörden zur Weiterleitung an die Kommission alle gemäß §
 
 
 ## Teil 7 - Emissionshöchstmengen, Programme der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000700000)
 
 
 ### § 33 Emissionshöchstmengen, Emissionsinventare und -prognosen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003401116)
 
 (1) Für die Bundesrepublik Deutschland werden für die Stoffe
 Schwefeldioxid (SO
@@ -1423,6 +1463,7 @@ und 2020.
 
 
 ### § 34 Programm der Bundesregierung zur Verminderung der Ozonwerte und zur Einhaltung der Emissionshöchstmengen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003500000)
 
 (1) Die Bundesregierung erstellt, nach Anhörung der Länder und der
 beteiligten Kreise gemäß § 51 des Bundes-Immissionsschutzgesetzes, ein
@@ -1472,6 +1513,7 @@ Aufwand und Nutzen verhältnismäßig sein.
 
 
 ### § 35 Programme der Bundesregierung zur Einhaltung der Verpflichtung in Bezug auf die PM2,5- Expositionskonzentration sowie des nationalen Ziels für die Reduzierung der PM2,5-Exposition
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003600000)
 
 (1) Besteht die Gefahr, dass die Verpflichtung nach Anlage 12
 Abschnitt C in Bezug auf die PM
@@ -1491,9 +1533,11 @@ erreichen.
 
 
 ## Teil 8 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNG000800000)
 
 
 ### § 36 Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003700000)
 
 DIN-, DIN EN- sowie DIN ISO-Normen, auf die in Anlage 1, 6, 17 und 18
 verwiesen wird, sind bei der Beuth Verlag GmbH Berlin erschienen. Die
@@ -1503,6 +1547,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu den §§ 13, 14 und 18)
 
 ### Anlage 1 Datenqualitätsziele
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003801116)
 
 (Fundstelle: BGBl. I 2010, 1077 - 1078)
 
@@ -1900,6 +1945,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu § 12)
 
 ### Anlage 2 Festlegung der Anforderungen für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft innerhalb eines Gebiets oder Ballungsraums
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE003901116)
 
 (Fundstelle: BGBl. I 2010, 1079 - 1080)
 
@@ -2141,6 +2187,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu den §§ 2, 3, 13, 14 und 21)
 
 ### Anlage 3 Beurteilung der Luftqualität und Lage der Probenahmestellen für Messungen von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004001116)
 
 (Fundstelle: BGBl. I 2010, 1081 - 1082)
 
@@ -2347,6 +2394,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu § 13)
 
 ### Anlage 4 Messungen an Messstationen für den ländlichen Hintergrund (konzentrationsunabhängig)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004100000)
 
 (Fundstelle: BGBl. I 2010, 1083)
 
@@ -2430,6 +2478,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu den §§ 14 und 15)
 
 ### Anlage 5 Kriterien für die Festlegung der Mindestzahl der Probenahmestellen für ortsfeste Messungen der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10, PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004202116)
 
 (Fundstelle: BGBl. I 2010, 1084 - 1085)
 
@@ -2775,6 +2824,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu den §§ 1, 16 und 19)
 
 ### Anlage 6 Referenzmethoden für die Beurteilung der Konzentrationen von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol, Kohlenmonoxid und Ozon
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004301116)
 
 (Fundstelle: BGBl. I 2010, 1086 - 1087)
 
@@ -2915,6 +2965,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 (zu § 9)
 
 ### Anlage 7 Zielwerte und langfristige Ziele für Ozon
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004401116)
 
 (Fundstelle: BGBl. I 2010, 1088 - 1089)
 
@@ -3124,6 +3175,7 @@ der menschlichen Gesundheit: gültige Daten für ein Jahr,
 (zu § 18)
 
 ### Anlage 8 Kriterien zur Einstufung von Probenahmestellen für die Beurteilung der Ozonwerte und zur Bestimmung ihrer Standorte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004500000)
 
 (Fundstelle: BGBl. I 2010, 1090 - 1091)
 Für ortsfeste Messstationen gelten folgende Kriterien:
@@ -3277,6 +3329,7 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 (zu § 18)
 
 ### Anlage 9 Kriterien zur Bestimmung der Mindestzahl von Probenahmestellen für die ortsfesten Messungen von Ozonwerten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004601116)
 
 (Fundstelle: BGBl. I 2010, 1092)
 
@@ -3397,6 +3450,7 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 (zu § 18)
 
 ### Anlage 10 Messung von Ozonvorläuferstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004700000)
 
 (Fundstelle: BGBl. I 2010, 1093)
 
@@ -3508,6 +3562,7 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 (zu den §§ 21 und 28)
 
 ### Anlage 11 Immissionsgrenzwerte zum Schutz der menschlichen Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004801116)
 
 (Fundstelle: BGBl. I 2010, 1094)
 
@@ -3699,6 +3754,7 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 (zu den §§ 5, 15, 27, 28 und 35)
 
 ### Anlage 12 Nationales Ziel, auf das die Exposition reduziert werden soll, Ziel- und Immissionsgrenzwert für PM2,5
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE004901116)
 
 (Fundstelle: BGBl. I 2010, 1095)
 
@@ -3856,6 +3912,7 @@ Für ortsfeste Messstationen gelten folgende Kriterien:
 (zu den §§ 27 und 34)
 
 ### Anlage 13 Erforderlicher Inhalt von Luftreinhalteplänen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE005001116)
 
 (Fundstelle: BGBl. I 2010, 1096)
 
@@ -3985,6 +4042,7 @@ c)  Schätzung der angestrebten Verbesserung der Luftqualität und des für
 (zu § 30)
 
 ### Anlage 14 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE005100000)
 
 (Fundstelle: BGBl. I 2010, 1097)
 
@@ -4087,6 +4145,7 @@ unverhältnismäßigen Aufwand erfordert.
 (zu § 20)
 
 ### Anlage 15 Festlegung der Anforderungen an die Beurteilung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren innerhalb eines Gebiets oder Ballungsraums
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE005200000)
 
 (Fundstelle: BGBl. I 2010, 1098)
 
@@ -4171,6 +4230,7 @@ unverhältnismäßigen Aufwand erfordert.
 (zu § 20)
 
 ### Anlage 16 Standort und Mindestanzahl der Probenahmestellen für die Messung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel und Benzo[a]pyren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE005300000)
 
 (Fundstelle: BGBl. I 2010, 1099 - 1100)
 
@@ -4429,6 +4489,7 @@ unverhältnismäßigen Aufwand erfordert.
 (zu § 20)
 
 ### Anlage 17 Datenqualitätsziele und Anforderungen an Modelle zur Bestimmung der Werte für Arsen, Kadmium, Nickel und Benzo[a]pyren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE005401116)
 
 (Fundstelle: BGBl. I 2010, 1101 - 1102)
 
@@ -4670,6 +4731,7 @@ unverhältnismäßigen Aufwand erfordert.
 (zu § 20)
 
 ### Anlage 18 Referenzmethoden für die Beurteilung der Werte und der Ablagerungsraten von Arsen, Kadmium, Nickel, Quecksilber und Benzo[a]pyren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_39/BJNR106510010.html#BJNR106510010BJNE005501116)
 
 (Fundstelle: BGBl. I 2010, 1103)
 

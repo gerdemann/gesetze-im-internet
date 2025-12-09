@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE000500306)
 
 (1) Für die Vollstreckbarerklärung gerichtlicher Entscheidungen
 (Artikel 1, 6ff., 17 Abs. 2 des Vertrages), gerichtlicher Vergleiche
@@ -42,6 +44,7 @@ die Zwangsvollstreckung durchgeführt werden soll.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE000602310)
 
 (1) Für die Vollstreckbarerklärung der in § 1 Abs. 1 genannten
 Schuldtitel gelten § 1063 Abs. 1 und § 1064 Abs. 2 der
@@ -63,6 +66,7 @@ gelten entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE000700306)
 
 Hängt die Vollstreckung nach dem Inhalt des Schuldtitels (§ 1 Abs. 1)
 von einer dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf
@@ -80,6 +84,7 @@ Verhandlung anzuordnen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE000801307)
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer gerichtlichen
 Entscheidung kann der Schuldner auch Einwendungen gegen den Anspruch
@@ -109,6 +114,7 @@ entstanden sind.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE000900306)
 
 Aus den für vollstreckbar erklärten Schuldtiteln (§ 1 Abs. 1) findet
 die Zwangsvollstreckung statt, sofern die Entscheidung über die
@@ -117,10 +123,12 @@ erklärt ist.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNG000200306)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001001310)
 
 (1) Wird ein Schuldtitel (§ 1 Abs. 1) nach der Vollstreckbarerklärung
 in Griechenland aufgehoben oder geändert und kann der Schuldner diese
@@ -144,10 +152,12 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNG000300306)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001100306)
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in
 Griechenland geltend gemacht werden soll, so darf das Urteil nicht in
@@ -155,6 +165,7 @@ abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001200306)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
@@ -180,6 +191,7 @@ nicht erhoben.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001300306)
 
 Einer einstweiligen Anordnung oder einer einstweiligen Verfügung, die
 in Griechenland geltend gemacht werden soll, ist eine Begründung
@@ -187,6 +199,7 @@ beizufügen. § 8 ist entsprechend anzuwenden.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001400306)
 
 Vollstreckungsbescheide (Artikel 1 des Vertrages) und einstweilige
 Verfügungen (Artikel 17 Abs. 2 des Vertrages), auf Grund deren ein
@@ -197,10 +210,12 @@ eine Zwangsvollstreckung im Inland nach § 796 Abs. 1, §§ 936, 929 Abs.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNG000400306)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001500306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -208,6 +223,7 @@ im Land Berlin.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrgrcag/BJNR001290963.html#BJNR001290963BJNE001600306)
 
 (1) Dieses Gesetz tritt gleichzeitig mit dem Vertrag vom 4. November
 1961 zwischen der Bundesrepublik Deutschland und dem Königreich

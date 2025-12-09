@@ -27,6 +27,7 @@ worden ist
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_9abs9bek_2025/BJNR0720A0025.html#BJNR0720A0025BJNE000100000)
 
 Nach § 9 Absatz 9 Satz 2 des Stromsteuergesetzes vom 24. März 1999
 (BGBl. I S. 378; 2000 I S. 147), das zuletzt durch Artikel 13 des
@@ -42,6 +43,7 @@ oder mehr erzeugt wird.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_9abs9bek_2025/BJNR0720A0025.html#BJNR0720A0025BJNE000200000)
 
 Bundesministerium der Finanzen
 

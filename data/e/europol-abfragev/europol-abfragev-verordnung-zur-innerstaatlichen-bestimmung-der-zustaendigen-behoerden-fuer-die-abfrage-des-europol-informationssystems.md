@@ -20,6 +20,7 @@ Stand: Die Verordnung tritt gem. § 2 Abs. 2 dieser V an dem Tag außer Kraft, a
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/europol-abfragev/BJNR094000007.html#BJNR094000007BJNE000100000)
 
 Auf Grund des Artikels 1 Abs. 2 des Gesetzes zu dem Protokoll vom 27.
 November 2003 zur Änderung des Europol-Übereinkommens und zur Änderung
@@ -28,6 +29,7 @@ verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/europol-abfragev/BJNR094000007.html#BJNR094000007BJNE000200000)
 
 Zuständige Behörden im Sinn des Artikels 9 Abs. 4 Satz 1 des
 Übereinkommens vom 26. Juli 1995 auf Grund von Artikel K.3 des
@@ -52,6 +54,7 @@ sind
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/europol-abfragev/BJNR094000007.html#BJNR094000007BJNE000300000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -65,6 +68,7 @@ geben.
 
 
 ## Anhang Zuständige Behörden für die Abfrage des Europol-Informationssystems
+[Direktlink](https://www.gesetze-im-internet.de/europol-abfragev/BJNR094000007.html#BJNR094000007BJNE000400000)
 
 
 *    *   Baden-Württemberg

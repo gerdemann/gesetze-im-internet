@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v/BJNR008490960.html#BJNR008490960BJNE000100312)
 
 Auf Grund des § 15 Abs. 3 des Fremdrentengesetzes in der Fassung des
 Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes vom 25. Februar
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v/BJNR008490960.html#BJNR008490960BJNE000200312)
 
 Als gesetzliche Rentenversicherungen werden anerkannt
 
@@ -106,6 +108,7 @@ Als gesetzliche Rentenversicherungen werden anerkannt
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v/BJNR008490960.html#BJNR008490960BJNE000300312)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 7
@@ -114,16 +117,19 @@ Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v/BJNR008490960.html#BJNR008490960BJNE000400312)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v/BJNR008490960.html#BJNR008490960BJNE000500312)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1959 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v/BJNR008490960.html#BJNR008490960BJNE000600312)
 
 Der Bundesminister der Justiz
 Der Bundesminister für Arbeit und Sozialordnung

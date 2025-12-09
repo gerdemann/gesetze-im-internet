@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000100312)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Entschädigung für Urteilsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000200312)
 
 (1) Wer durch eine strafgerichtliche Verurteilung einen Schaden
 erlitten hat, wird aus der Staatskasse entschädigt, soweit die
@@ -39,6 +41,7 @@ ist.
 
 
 ## § 2 Entschädigung für andere Strafverfolgungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000303311)
 
 (1) Wer durch den Vollzug der Untersuchungshaft oder einer anderen
 Strafverfolgungsmaßnahme einen Schaden erlitten hat, wird aus der
@@ -80,6 +83,7 @@ auf Ersuchen einer deutschen Behörde angeordnet worden sind.
 
 
 ## § 3 Entschädigung bei Einstellung nach Ermessensvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000400312)
 
 Wird das Verfahren nach einer Vorschrift eingestellt, die dies nach
 dem Ermessen des Gerichts oder der Staatsanwaltschaft zuläßt, so kann
@@ -89,6 +93,7 @@ Billigkeit entspricht.
 
 
 ## § 4 Entschädigung nach Billigkeit
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000500312)
 
 (1) Für die in § 2 genannten Strafverfolgungsmaßnahmen kann eine
 Entschädigung gewährt werden, soweit dies nach den Umständen des
@@ -111,6 +116,7 @@ wird.
 
 
 ## § 5 Ausschluß der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000601311)
 
 (1) Die Entschädigung ist ausgeschlossen
 
@@ -153,6 +159,7 @@ nicht Folge geleistet oder einer Anweisung nach § 116 Abs. 1 Nr. 1 bis
 
 
 ## § 6 Versagung der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000700312)
 
 (1) Die Entschädigung kann ganz oder teilweise versagt werden, wenn
 der Beschuldigte
@@ -178,6 +185,7 @@ erlittene Freiheitsentziehung berücksichtigt.
 
 
 ## § 7 Umfang des Entschädigungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000804125)
 
 (1) Gegenstand der Entschädigung ist der durch die
 Strafverfolgungsmaßnahme verursachte Vermögensschaden, im Falle der
@@ -196,6 +204,7 @@ eingetreten wäre, wird keine Entschädigung geleistet.
 
 
 ## § 8 Entscheidung des Strafgerichts
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE000901309)
 
 (1) Über die Verpflichtung zur Entschädigung entscheidet das Gericht
 in dem Urteil oder in dem Beschluß, der das Verfahren abschließt. Ist
@@ -215,6 +224,7 @@ Strafprozeßordnung ist entsprechend anzuwenden.
 
 
 ## § 9 Verfahren nach Einstellung durch die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001000312)
 
 (1) Hat die Staatsanwaltschaft das Verfahren eingestellt, so
 entscheidet das Amtsgericht am Sitz der Staatsanwaltschaft über die
@@ -249,6 +259,7 @@ der öffentlichen Klage herbeigeführt werden kann.
 
 
 ## § 10 Anmeldung des Anspruchs, Frist
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001100312)
 
 (1) Ist die Entschädigungspflicht der Staatskasse rechtskräftig
 festgestellt, so ist der Anspruch auf Entschädigung innerhalb von
@@ -265,6 +276,7 @@ Vorschriften der Zivilprozeßordnung zuzustellen.
 
 
 ## § 11 Ersatzanspruch des kraft Gesetzes Unterhaltsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001200312)
 
 (1) Außer demjenigen, zu dessen Gunsten die Entschädigungspflicht der
 Staatskasse ausgesprochen worden ist, haben die Personen, denen er
@@ -279,6 +291,7 @@ Abs. 1 anzuwenden.
 
 
 ## § 12 Ausschluß der Geltendmachung der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001300312)
 
 Der Anspruch auf Entschädigung kann nicht mehr geltend gemacht werden,
 wenn seit dem Ablauf des Tages, an dem die Entschädigungspflicht
@@ -287,6 +300,7 @@ Antrag nach § 10 Abs. 1 gestellt worden ist.
 
 
 ## § 13 Rechtsweg, Beschränkung der Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001400312)
 
 (1) Gegen die Entscheidung über den Entschädigungsanspruch ist der
 Rechtsweg gegeben. Die Klage ist innerhalb von drei Monaten nach
@@ -299,6 +313,7 @@ Anspruch nicht übertragbar.
 
 
 ## § 14 Nachträgliche Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001500312)
 
 (1) Die Entscheidung über die Entschädigungspflicht tritt außer Kraft,
 wenn zuungunsten des Freigesprochenen die Wiederaufnahme des
@@ -317,6 +332,7 @@ sowie die Zahlung der Entschädigung ausgesetzt werden.
 
 
 ## § 15 Ersatzpflichtige Kasse
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001600312)
 
 (1) Ersatzpflichtig ist das Land, bei dessen Gericht das
 Strafverfahren im ersten Rechtszug anhängig war oder, wenn das
@@ -331,6 +347,7 @@ nicht zum Nachteil des Berechtigten geltend gemacht werden.
 
 
 ## § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001700312)
 
 Ist vor Inkrafttreten dieses Gesetzes das Verfahren eingestellt oder
 der Beschuldigte außer Verfolgung gesetzt worden oder ist die
@@ -347,6 +364,7 @@ Gesetzes fällig werden.
 
 
 ## § 16a Entschädigung für die Folgen einer rechtskräftigen Verurteilung, einer freiheitsentziehenden oder anderen vorläufigen Strafverfolgungsmaßnahme in der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE002101301)
 
 Die §§ 1 und 2 finden keine Anwendung auf die Folgen einer
 strafgerichtlichen Verurteilung, einer Maßregel oder Nebenfolge oder
@@ -367,19 +385,23 @@ Strafrechtlichen Rehabilitierungsgesetzes entsprechend.
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001801160)
 
 -
 
 
 ## (XXXX) §§ 18 und 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE002201160)
 
 
 
 ## § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE001901160)
 
 
 
 ## § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/streg/BJNR001570971.html#BJNR001570971BJNE002001160)
 
 -
 

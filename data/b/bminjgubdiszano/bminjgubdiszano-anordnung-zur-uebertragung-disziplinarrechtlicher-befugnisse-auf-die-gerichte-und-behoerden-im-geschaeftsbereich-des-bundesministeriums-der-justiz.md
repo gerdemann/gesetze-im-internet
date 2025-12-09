@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt AnO 2031-4-7 v. 2.1.2002 I 400 (BMinJDiszAnO) u. AnO 2031-4-35 v. 28.1.2014 I 102 (BMJVBDGRuAnO)
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminjgubdiszano/BJNR0FC0A0024.html#BJNR0FC0A0024BJNE000100000)
 
 Auf Grund von § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des
 Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510), das
@@ -65,6 +66,7 @@ nicht übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminjgubdiszano/BJNR0FC0A0024.html#BJNR0FC0A0024BJNE000200000)
 
 Das Bundesministerium der Justiz behält sich vor, die übertragenen
 Disziplinarbefugnisse im Einzelfall selbst auszuüben. Über die
@@ -76,6 +78,7 @@ Bundesministerium der Justiz unverzüglich zuzuleiten (§ 35 Absatz 1, §
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminjgubdiszano/BJNR0FC0A0024.html#BJNR0FC0A0024BJNE000300000)
 
 Diese Anordnung tritt am 1. Oktober 2024 in Kraft. Gleichzeitig treten
 die Anordnung zur Übertragung disziplinarrechtlicher Befugnisse auf
@@ -88,6 +91,7 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminjgubdiszano/BJNR0FC0A0024.html#BJNR0FC0A0024BJNE000400000)
 
 Der Bundesminister der Justiz
 

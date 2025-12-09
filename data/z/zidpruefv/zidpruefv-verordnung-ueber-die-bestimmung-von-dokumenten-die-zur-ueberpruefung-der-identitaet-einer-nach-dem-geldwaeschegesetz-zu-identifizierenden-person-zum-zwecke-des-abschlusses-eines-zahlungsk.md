@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zidpr_fv/BJNR618800016.html#BJNR618800016BJNE000100000)
 
 Auf Grund des § 4 Absatz 4 Satz 2 des Geldwäschegesetzes vom 13.
 August 2008 (BGBl. I S. 1690) verordnet das Bundesministerium des
@@ -29,6 +30,7 @@ Innern im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Weitere Dokumente, die zur Überprüfung der Identität zum Zwecke des Abschlusses eines Zahlungskontovertrags zugelassen werden
+[Direktlink](https://www.gesetze-im-internet.de/zidpr_fv/BJNR618800016.html#BJNR618800016BJNE000202118)
 
 (1) Zum Zwecke des Abschlusses eines Vertrags über ein Zahlungskonto
 im Sinne von § 1 Absatz 17 des Zahlungsdiensteaufsichtsgesetzes ist
@@ -72,6 +74,7 @@ zugelassen:
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zidpr_fv/BJNR618800016.html#BJNR618800016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

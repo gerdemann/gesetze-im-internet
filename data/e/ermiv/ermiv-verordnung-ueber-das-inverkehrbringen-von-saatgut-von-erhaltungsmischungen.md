@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000102119)
 
 Diese Verordnung gilt für das Inverkehrbringen von Saatgut von
 Erhaltungsmischungen, welche neben Saatgut von Wildformen von Arten,
@@ -32,6 +33,7 @@ diasporenhaltigen Boden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000200000)
 
 Im Sinne dieser Verordnung sind
 
@@ -126,6 +128,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Antrag auf Genehmigung des Inverkehrbringens einer Erhaltungsmischung
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000301119)
 
 (1) Wer Erhaltungsmischungen in den Verkehr bringen will, bedarf der
 Genehmigung. Diese ist vor dem erstmaligen Inverkehrbringen bei der
@@ -190,6 +193,7 @@ Mischungen bis zum Ablauf des 31. Mai eines jeden Jahres zu melden.
 
 
 ## § 4 Anforderungen an Saatgut von Erhaltungsmischungen
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000406119)
 
 (1) Saatgut von Erhaltungsmischungen darf nur innerhalb des
 Ursprungsgebietes in den Verkehr gebracht werden, in dem sich der
@@ -282,6 +286,7 @@ als Ersatz in Frage kommt.
 
 
 ## § 4a Anforderungen an Saatgut einzelner Komponenten zur Herstellung von Erhaltungsmischungen
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE001100119)
 
 (1) Saatgut von Wildformen der in den Nummern 1.1, 1.2, 1.3 und 2 der
 Anlage zur Verordnung über das Artenverzeichnis zum
@@ -304,6 +309,7 @@ entsprechend.
 
 
 ## § 5 Überwachung durch Sichtkontrollen und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000502119)
 
 (1) Die zuständige Behörde überwacht die Einhaltung der Anforderungen
 nach
@@ -334,6 +340,7 @@ aufzuzeichnen.
 
 
 ## § 5a Gestattung des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000901119)
 
 (1) Saatgut von Erhaltungsmischungen oder von Komponenten zur
 Herstellung von Erhaltungsmischungen darf nur in den Verkehr gebracht
@@ -379,6 +386,7 @@ Widerruf unberührt.
 
 
 ## § 6 Beschränkung des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE001000360)
 
 (1) Das Bundessortenamt setzt die Höchstmenge des in
 Erhaltungsmischungen in den Verkehr gebrachten Saatgutes von Arten,
@@ -441,6 +449,7 @@ mitzuteilen.
 
 
 ## § 7 Verschließung
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000601360)
 
 (1) Packungen oder Behältnisse von Saatgut von Erhaltungsmischungen
 sind von demjenigen zu schließen und mit einer Sicherung zu versehen,
@@ -459,6 +468,7 @@ werden.
 
 
 ## § 8 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000703119)
 
 (1) Saatgut einer Erhaltungsmischung darf nur in Packungen in den
 Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein
@@ -537,6 +547,7 @@ Wege unverzüglich mitzuteilen.
 (zu § 2 Nummer 6 und 7)
 
 ## Anlage Ursprungsgebiete und Produktionsräume
+[Direktlink](https://www.gesetze-im-internet.de/ermiv/BJNR264110011.html#BJNR264110011BJNE000800001)
 
 (Fundstelle: BGBl. I 2011, 2644 - 2645)
 

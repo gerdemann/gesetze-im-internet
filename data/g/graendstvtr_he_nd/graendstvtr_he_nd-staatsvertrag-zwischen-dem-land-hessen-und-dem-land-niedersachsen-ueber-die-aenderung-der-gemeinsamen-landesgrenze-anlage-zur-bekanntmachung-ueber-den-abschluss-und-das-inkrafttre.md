@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000100000)
 
 Zur Beendigung der staatsrechtlichen Trennung geschlossener Siedlungen
 im Interesse der Einwohner und Gemeinden sowie um einen zweckmäßigen
@@ -34,6 +35,7 @@ der gemeinsamen Landesgrenze geschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000200000)
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze zwischen
 dem Land Hessen und dem Land Niedersachsen – im Folgenden: Länder –
@@ -49,6 +51,7 @@ eine Größe von 144 772 m².
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000300000)
 
 (1) In den übergehenden Gebieten befindet sich kein
 Verwaltungsvermögen im Sinne des § 4 G Artikel 29 Abs. 7.
@@ -58,6 +61,7 @@ berührt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000400000)
 
 (1) Die Länder und die betroffenen kommunalen Gebietskörperschaften
 treffen die sich infolge der Grenzänderungen als notwendig erweisenden
@@ -76,6 +80,7 @@ oder erstattet.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000500000)
 
 Der Staatsvertrag zwischen dem Land Hessen und dem Land Niedersachsen
 über die Änderung der gemeinsamen Landesgrenze vom 19./23. Mai 1967
@@ -83,6 +88,7 @@ bleibt im Übrigen unberührt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000600000)
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden werden ausgetauscht.
@@ -92,6 +98,7 @@ Ratifikationsurkunden folgenden Monats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_he_nd/BJNR155000011.html#BJNR155000011BJNE000700000)
 
 Für das Land Hessen
 Volker Bouffier

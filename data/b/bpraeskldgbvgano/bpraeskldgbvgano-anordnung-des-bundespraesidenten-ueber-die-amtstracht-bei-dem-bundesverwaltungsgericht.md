@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNE000400305)
 
 Für die Amtstracht bei dem Bundesverwaltungsgericht ordne ich an:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNG000100305)
 
 Auf Grund des § 20 des Deutschen Beamtengesetzes vom 26. Januar 1937
 (Reichsgesetzbl. I S. 39) in der Fassung der Bekanntmachung vom 30.
@@ -32,6 +34,7 @@ Juni 1950 (Bundesgesetzbl. S. 279) bestimme ich:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNE000501310)
 
 Die Amtstracht der Richter, des Vertreters des Bundesinteresses und
 der für ihn auftretenden Beamten sowie der Urkundsbeamten besteht aus
@@ -42,6 +45,7 @@ Urkundsbeamten eine einfache weiße Halsbinde.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNE000601310)
 
 Die Farbe der Amtstracht ist karmesinrot. Der Besatz an der Amtsrobe
 und am Barett besteht für die Richter aus Samt, für den Vertreter des
@@ -50,6 +54,7 @@ und für die Urkundsbeamten aus Wollstoff.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNE000701310)
 
 Am Barett tragen
 
@@ -76,16 +81,19 @@ e)  die für den Vertreter des Bundesinteresses auftretenden Beamten eine
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNG000200305)
 
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNE000800305)
 
 Rechtsanwälte dürfen als Bevollmächtigte und Beistände der Parteien
 die bei den Gerichten für sie vorgeschriebene Amtstracht tragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNE000900305)
 
 Verwaltungsrechtsräte dürfen als Bevollmächtigte und Beistände die
 Amtstracht tragen, die bei dem für ihren Wohnsitz zuständigen
@@ -93,6 +101,7 @@ Verwaltungsgericht für sie zugelassen ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbvgano/BJNR003829953.html#BJNR003829953BJNG000300305)
 
 Der Bundesminister des Innern wird ermächtigt, Ausführungsbestimmungen
 zu dieser Anordnung zu erlassen.

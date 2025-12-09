@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## § 1 Begriffsbestimmung und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE000202116)
 
 (1) Extraktionslösungsmittel im Sinne dieser Verordnung sind Stoffe,
 die bei der Herstellung von Lebensmitteln zur Extraktion verwendet und
@@ -37,6 +38,7 @@ Lebensmitteln zu ernährungsphysiologischen Zwecken zugesetzt werden.
 
 
 ## § 2 Zugelassene Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE000303116)
 
 (1) Stoffe im Sinne des Artikels 3 Absatz 2 Buchstabe b der Verordnung
 (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16.
@@ -83,6 +85,7 @@ verwendet werden.
 
 
 ## § 3 Höchstmengen
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE000404125)
 
 Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als
 Extraktionslösungsmittel bei dem Herstellen von Lebensmitteln, die
@@ -92,6 +95,7 @@ festgesetzten Höchstmengen nicht überschreiten.
 
 
 ## § 4 Reinheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE000502125)
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als
 Extraktionslösungsmittel bei dem Herstellen von Lebensmitteln, die
@@ -104,6 +108,7 @@ den spezifischen Reinheitskriterien gemäß Anlage 5 entsprechen.
 
 
 ## § 5 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE000705125)
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol
 dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel
@@ -142,6 +147,7 @@ unberührt.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE000807125)
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -150,11 +156,13 @@ Verkehr bringt.
 
 
 ## § 7 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE001004116)
 
 
 (zu § 2 Absatz 2 Nummer 1 Buchstabe c)
 
 ## Anlage 1 Allgemein verwendbare Extraktionslösungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE001203116)
 
 (Fundstelle: BGBl. I 2018, 369)
 
@@ -174,6 +182,7 @@ Distickstoffmonoxid
 (zu § 2 Absatz 2 Nummer 2 und § 3)
 
 ## Anlage 2 Beschränkt verwendbare Extraktionslösungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE001307125)
 
 (Fundstelle: BGBl. I 2018, 370
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -344,6 +353,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Absatz 2 Nummer 3 und § 3)
 
 ## Anlage 3 Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE001407125)
 
 (Fundstelle: BGBl. I 2018, 371;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -445,6 +455,7 @@ werden.
 (zu § 4 Absatz 1)
 
 ## Anlage 4 Reinheitskriterien für Extraktionslösungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE001503125)
 
 (Fundstelle: BGBl. I 2018, 372
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -471,6 +482,7 @@ darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
 (zu § 4 Absatz 2)
 
 ## Anlage 5 Spezifische Reinheitskriterien für die in Anlage 2 bis 3 aufgeführten Extraktionslösungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/elv/BJNR021000991.html#BJNR021000991BJNE001702125)
 
 (Fundstelle: BGBl. 2024 I Nr. 315, S. 2)
 

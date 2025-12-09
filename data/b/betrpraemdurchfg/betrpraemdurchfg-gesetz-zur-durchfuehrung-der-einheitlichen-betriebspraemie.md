@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000104377)
 
 (1) Dieses Gesetz dient der Durchführung
 
@@ -60,6 +61,7 @@ des Marktorganisationsgesetzes.
 
 
 ## § 2 Regionale Anwendung der einheitlichen Betriebsprämie
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000204377)
 
 (1) Die einheitliche Betriebsprämie wird ab dem 1. Januar 2005 auf
 regionaler Ebene nach Maßgabe der nachfolgenden Vorschriften und der
@@ -72,10 +74,12 @@ sowie Schleswig-Holstein und Hamburg jeweils eine Region.
 
 
 ## § 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001104377)
 
 
 
 ## § 3 Nationale Reserve und Härtefälle
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000307377)
 
 (1) Zur Bildung der nationalen Reserve sind
 
@@ -124,6 +128,7 @@ ergebenden Fälle, festsetzen zu können.
 
 
 ## § 4 Aufteilung der Obergrenze auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000408301)
 
 (1) Die nach § 3 Absatz 1 Nummer 1 um 1,0 vom Hundert gekürzte
 angepasste nationale Obergrenze wird auf die einzelnen Regionen nach
@@ -187,6 +192,7 @@ und 3c durchzuführen.
 
 
 ## § 5 Bestimmung des Referenzbetrages der einheitlichen Betriebsprämie
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000506377)
 
 (1) Der Referenzbetrag der einheitlichen Betriebsprämie wird, unter
 Berücksichtigung der Anforderungen des Artikels 41 der Verordnung (EG)
@@ -358,6 +364,7 @@ bei den Berechnungen nach den Absätzen 2 bis 5 nicht berücksichtigt.
 
 
 ## § 5a Ermittlung des betriebsindividuellen Zuckergrundbetrages
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001202377)
 
 (1) Der betriebsindividuelle Zuckergrundbetrag besteht aus der um 1,0
 vom Hundert gekürzten Summe der
@@ -424,6 +431,7 @@ multipliziert wird.
 
 
 ## § 5b Stärkekartoffelerhöhungsbetrag für das Jahr 2012
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001301377)
 
 (1) Jeder Zahlungsanspruch für 2012 eines Betriebsinhabers, der für
 das Wirtschaftsjahr 2011/2012 einen Anbauvertrag nach Artikel 78 der
@@ -449,6 +457,7 @@ entsprechend.
 
 
 ## § 5c Einjähriger Erhöhungsbetrag für das Jahr 2012
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001402377)
 
 (1) Jeder Zahlungsanspruch in einer Region für das Jahr 2012 erhöht
 sich mit Wirkung nur für das Jahr 2012 – vorbehaltlich der Anwendung
@@ -469,6 +478,7 @@ entsprechend.
 
 
 ## § 5d Erhöhung der Zahlungsansprüche ab dem Jahr 2013
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001502377)
 
 (1) Jeder Zahlungsanspruch in einer Region für das Jahr 2012 erhöht
 sich mit Wirkung ab dem Jahr 2013 – vorbehaltlich der Anwendung einer
@@ -488,6 +498,7 @@ entsprechend anzuwenden.
 
 
 ## § 6 Anpassung der Zahlungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000607377)
 
 (1) Jeder Zahlungsanspruch eines Betriebsinhabers in einer Region für
 das Jahr 2009 (Startwert) ist – unbeschadet der §§ 5b bis 5d – bis
@@ -526,6 +537,7 @@ bereits in der Anpassung befindlichen Zahlungsansprüche.
 
 
 ## § 6a Regionaler Wert
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001602377)
 
 Ab dem Jahr 2013 werden neue Zahlungsansprüche in Höhe der Summe aus
 dem – nach § 6 Absatz 2 Nummer 2 für das Jahr 2013 anzuwendenden
@@ -538,6 +550,7 @@ Absatz 2 Nummer 2 auf den regionalen Wert entsprechend anzuwenden.
 
 
 ## § 7 Verarbeitung und Nutzung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000706377)
 
 (1) Die für die Durchführung der im Anhang VI der Verordnung (EG) Nr.
 1782/2003 genannten Stützungsregelungen jeweils zuständigen Behörden
@@ -582,6 +595,7 @@ Beträge nach § 5 Absatz 4b.
 (zu § 4 Abs. 1)
 
 ## Anlage 1 Aufteilung der angepassten nationalen Obergrenze auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000804377)
 
 (Fundstelle: BGBl. I 2010, 1726)
 
@@ -661,6 +675,7 @@ Beträge nach § 5 Absatz 4b.
 (zu § 4 Absatz 3d)
 
 ## Anlage 1a Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001701377)
 
 (Fundstelle: BGBl. I 2010, 1726)
 
@@ -739,6 +754,7 @@ Beträge nach § 5 Absatz 4b.
 (zu § 5 Abs. 3 Nr. 2)
 
 ## Anlage 2 Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE000904377)
 
 (Fundstelle: BGBl. I 2010, 1727)
 
@@ -849,6 +865,7 @@ Beträge nach § 5 Absatz 4b.
 Berechnungsverfahren
 
 ## Anlage 3 zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfg/BJNR176310004.html#BJNR176310004BJNE001004377)
 
 (Fundstelle: BGBl. I 2010, 1727)
 Berechnungsformel: Y

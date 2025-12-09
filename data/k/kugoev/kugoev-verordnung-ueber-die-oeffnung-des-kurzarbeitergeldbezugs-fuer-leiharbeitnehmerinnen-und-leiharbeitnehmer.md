@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kug_v/BJNR627200022.html#BJNR627200022BJNE000100000)
 
 Auf Grund des § 11a des Arbeitnehmerüberlassungsgesetzes, der durch
 Artikel 1a Nummer 2 des Gesetzes vom 18. März 2022 (BGBl. I S. 466)
@@ -28,6 +29,7 @@ geändert worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Öffnung von Kurzarbeit für Leiharbeitnehmerinnen und Leiharbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/kug_v/BJNR627200022.html#BJNR627200022BJNE000201126)
 
 Das in § 11 Absatz 4 Satz 2 des Arbeitnehmerüberlassungsgesetzes
 geregelte Recht von Leiharbeitnehmerinnen und Leiharbeitnehmern auf
@@ -40,6 +42,7 @@ Oktober 2022 längstens bis zum 30. Juni 2023 ausschließen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kug_v/BJNR627200022.html#BJNR627200022BJNE000300000)
 
 Diese Verordnung tritt am 30. September 2022 in Kraft.
 

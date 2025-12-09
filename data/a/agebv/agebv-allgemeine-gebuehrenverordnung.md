@@ -20,15 +20,18 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000100000)
 
 Auf Grund des § 22 Absatz 3 des Bundesgebührengesetzes vom 7. August
 2013 (BGBl. I S. 3154) verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNG000100000)
 
 
 ### § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000200000)
 
 Gegenstand dieser Verordnung sind für individuell zurechenbare
 öffentliche Leistungen (gebührenfähige Leistungen) im
@@ -46,9 +49,11 @@ Anwendungsbereich des Bundesgebührengesetzes:
 
 
 ## Abschnitt 2 - Ermittlung der kostendeckenden Gebühr
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNG000200000)
 
 
 ### § 2 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000300000)
 
 (1) Die kostendeckende Gebühr muss diejenigen durchschnittlichen
 Kosten aller an der Leistungserbringung beteiligten öffentlichen
@@ -73,6 +78,7 @@ Bundesgebührengesetzes.
 
 
 ### § 3 Kosten der gebührenfähigen Leistung
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000400000)
 
 (1) Mit der gebührenfähigen Leistung verbunden sind die Kosten für
 Tätigkeiten und Prozesse, die für die Leistungserbringung notwendig
@@ -109,6 +115,7 @@ Gemeinkosten anteilig erfasst:
 
 
 ### § 4 Pauschalierung und Typisierung
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000500000)
 
 Lassen sich die Kosten nach § 3 nicht oder nur mit einem
 unverhältnismäßig großen Aufwand ermitteln, können sie unter Anwendung
@@ -117,6 +124,7 @@ werden.
 
 
 ### § 5 Berücksichtigung der Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000600000)
 
 (1) Soweit Auslagen in die Ermittlung der Gebühren einzubeziehen sind,
 können sie eingerechnet werden in:
@@ -144,6 +152,7 @@ die kostendeckende Gebühr einbezogen werden.
 
 
 ### § 6 Gegenstand der Kostenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000700000)
 
 (1) Gegenstand der Ermittlung der durchschnittlichen Kosten ist
 ausschließlich die unter den Gebührentatbestand fallende
@@ -174,6 +183,7 @@ berücksichtigt werden:
 
 
 ### § 7 Kalkulatorische Kosten
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000802116)
 
 (1) Als kalkulatorische Kosten sind ausschließlich die folgenden
 Kosten ansatzfähig:
@@ -234,6 +244,7 @@ Gebührenforderungen.
 
 
 ### § 8 Verteilung der Gemeinkosten
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE000900000)
 
 (1) Für die Verteilung der Gemeinkosten sind sachgerechte Maßstäbe
 anzuwenden, die an den für die gebührenfähige Leistung erforderlichen
@@ -245,6 +256,7 @@ angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
 
 
 ### § 9 Festgebühr
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001000000)
 
 (1) Die Festgebühr ist wie folgt zu berechnen:
 
@@ -270,6 +282,7 @@ angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
 
 
 ### § 10 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001101116)
 
 (1) Die Zeitgebühr ist nach dem Zeitaufwand, der für die Erbringung
 der gebührenfähigen Leistung im Einzelfall erforderlich ist, zu
@@ -297,6 +310,7 @@ Viertelstunde ein Viertel des jeweiligen Stundensatzes anzusetzen.
 
 
 ### § 11 Rahmengebühr
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001200000)
 
 Die Unter- und die Obergrenze der Rahmengebühr ergeben sich
 
@@ -325,9 +339,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Einheitliche Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNG000300000)
 
 
 ### § 12 Gebühren für Beglaubigungen
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001304116)
 
 (1) Die Gebühr beträgt 11,20 Euro je Beglaubigungsvermerk für die
 Beglaubigung von
@@ -356,14 +372,17 @@ Beglaubigung von
 
 
 ## Abschnitt 4 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNG000400000)
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 (zu § 5 Absatz 1 Nummer 1, § 9 Absatz 1 Nummer 1 Buchstabe a und § 10 Absatz 2 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001504116)
 
 (Fundstelle: BGBl. I 2021, 204 – 210)
 
@@ -1412,6 +1431,7 @@ Teil B
 
 
 ### Anlage 2 (zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/agebv/BJNR013000015.html#BJNR013000015BJNE001603116)
 
 (Fundstelle: BGBl. I 2021, 210 – 215)
 

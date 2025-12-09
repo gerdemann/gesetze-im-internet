@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 51-3-5 v. 21.8.2012 I 1804 (SKBPRV)
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/skbprv_2017/BJNR151900017.html#BJNR151900017BJNE000104377)
 
 Bezirkspersonalräte werden bei den folgenden militärischen
 Dienststellen gebildet, die den Behörden der Mittelstufe nach § 4

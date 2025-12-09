@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg/BJNR021810976.html#BJNR021810976BJNE000100312)
 
 Artikel 1 bis 4
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg/BJNR021810976.html#BJNR021810976BJNE000200312)
 
 -
 
 
 ## Art 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg/BJNR021810976.html#BJNR021810976BJNE000301301)
 
 (1) (weggefallen)
 
@@ -60,11 +63,13 @@ zu begehen.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg/BJNR021810976.html#BJNR021810976BJNE000401301)
 
 (weggefallen)
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg/BJNR021810976.html#BJNR021810976BJNE000500312)
 
 Dieses Gesetz tritt einen Monat nach der Verkündung in Kraft; Artikel
 5 und Artikel 6 Abs. 2 treten jedoch erst am 1. Januar 1977 in Kraft.

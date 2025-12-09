@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelv/BJNR020020980.html#BJNR020020980BJNE000100306)
 
 Auf Grund des Artikels 2 des Gesetzes vom 25. Juni 1980 zu dem
 Abkommen vom 13. Mai 1975 zwischen der Bundesrepublik Deutschland und
@@ -27,6 +28,7 @@ der Legalisation (BGBl. 1980 II S. 813) verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelv/BJNR020020980.html#BJNR020020980BJNE000200306)
 
 Die Beglaubigung nach Artikel 3 des Abkommens vom 13. Mai 1975
 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien
@@ -37,6 +39,7 @@ Anstalten und Stiftungen des öffentlichen Rechts.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelv/BJNR020020980.html#BJNR020020980BJNE000300306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 6 des eingangs genannten Gesetzes auch im Land
@@ -44,6 +47,7 @@ Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelv/BJNR020020980.html#BJNR020020980BJNE000400306)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

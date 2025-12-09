@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg_1abs1v_2003/BJNR133800003.html#BJNR133800003BJNE000100000)
 
 Auf Grund des § 1 Abs. 1 des Bundespolizeibeamtengesetzes vom 3. Juni
 1976 (BGBl. I S. 1357), das zuletzt durch Artikel 3 des Gesetzes vom
@@ -28,6 +29,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg_1abs1v_2003/BJNR133800003.html#BJNR133800003BJNE000205310)
 
 (1) Folgende Beamtengruppen gehören zu den Polizeivollzugsbeamtinnen
 und Polizeivollzugsbeamten im Sinne des § 1 Abs. 1 Satz 2 des
@@ -208,6 +210,7 @@ Polizeivollzugsbeamten war.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bpolbg_1abs1v_2003/BJNR133800003.html#BJNR133800003BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

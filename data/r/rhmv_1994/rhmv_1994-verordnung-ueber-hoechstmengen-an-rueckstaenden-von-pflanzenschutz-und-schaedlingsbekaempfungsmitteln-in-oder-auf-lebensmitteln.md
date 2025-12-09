@@ -53,6 +53,7 @@ der Europäischen Gemeinschaften:
 
 
 ## § 1 Höchstmengen für Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE000213116)
 
 (1) Als Höchstmengen, die in oder auf Lebensmitteln beim
 gewerbsmäßigen Inverkehrbringen nicht überschritten sein dürfen,
@@ -148,11 +149,13 @@ Arsen, Blei, Cadmium, Quecksilber und Selen sowie deren Verbindungen.
 
 
 ## § 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001901310)
 
 -
 
 
 ## § 2 Zusammengesetzte und weiterverarbeitete Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE000304301)
 
 (1) Die Höchstmengenfestsetzungen nach § 1 Abs. 1, 4 und 5 und das
 Verkehrsverbot nach § 1 Abs. 6 gelten auch für Lebensmittel, die als
@@ -179,6 +182,7 @@ Satz 2 gilt nicht in Fällen des § 1 Abs. 4.
 
 
 ## § 3 Lebensmittel mit überhöhten Rückständen
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE000404310)
 
 (1) Lebensmittel, in oder auf denen Stoffe über die durch diese
 Verordnung festgesetzten Höchstmengen hinaus vorhanden sind, dürfen
@@ -211,6 +215,7 @@ vermerkt werden.
 
 
 ## § 3a Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE002000310)
 
 (1) Abweichend von
 
@@ -251,6 +256,7 @@ Wirkstoffe). Nicht an Verbraucher abgeben.“
 
 
 ## § 3b Kenntlichmachung
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001703310)
 
 (1) Die Behandlung von Zitrusfrüchten mit Thiabendazol nach der Ernte
 zum Zwecke der Haltbarmachung muss bei der Abgabe an den Verbraucher
@@ -276,6 +282,7 @@ Behältnisse.
 
 
 ## § 4 Probenahme und Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE000504310)
 
 (1) Bei der amtlichen Kontrolle der Rückstände von
 Pflanzenschutzmitteln in und auf Obst und Gemüse sind die Proben nach
@@ -298,6 +305,7 @@ gleichwertig sind.
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE000714310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 3b Abs. 1 bei
@@ -320,6 +328,7 @@ der vorgeschriebenen Weise kenntlich macht.
 
 
 ## § 6 Inkrafttreten, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE000821310)
 
 (1) (Inkrafttreten)
 
@@ -387,6 +396,7 @@ gebracht werden.
 
 
 ## Anlage 1 (zu § 1 Abs. 1 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001020310)
 
 ( Inhalt: Nicht darstellbare Liste A und B,
 Fundstelle des Originaltextes: BGBl. I 1999, 2086 - 2093;
@@ -394,6 +404,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ## Anlage 2 (zu § 1 Abs. 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001122310)
 
 ( Inhalt: Nicht darstellbare Liste A und B,
 Fundstelle des Originaltextes: BGBl. I 1999, 2094 - 2130;
@@ -401,11 +412,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001202320)
 
 (gestrichen)
 
 
 ## Anlage 4 (zu § 1 Abs. 2 bis 4)
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001309310)
 
 (Inhalt: Nicht darstellbare Liste A und B
 Fundstelle des Originaltextes: BGBl. I 1999, 2131 - 2137;
@@ -413,6 +426,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 5 (zu § 1 Abs. 4 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001409310)
 
 ( Fundstelle des Originaltextes: BGBl. I 1999, 2138;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -1021,6 +1035,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ## Anlage 6 (zu § 3 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001501320)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2139)
 
@@ -1068,6 +1083,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ## Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/rhmv_1994/BJNR229900994.html#BJNR229900994BJNE001604310)
 
 (weggefallen)
 

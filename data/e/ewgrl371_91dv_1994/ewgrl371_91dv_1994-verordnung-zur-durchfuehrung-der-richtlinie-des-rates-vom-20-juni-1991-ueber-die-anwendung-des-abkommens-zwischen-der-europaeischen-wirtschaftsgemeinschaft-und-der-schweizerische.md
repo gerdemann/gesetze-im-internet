@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewgrl371_91dv_1994/BJNR320200994.html#BJNR320200994BJNE000100320)
 
 Auf Grund des § 111 Abs. 3 Nr. 2 des Versicherungsaufsichtsgesetzes in
 der Fassung der Bekanntmachung vom  17. Dezember 1992 (BGBl. 1993 I S.
@@ -32,6 +33,7 @@ S. 512, 2436), verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ewgrl371_91dv_1994/BJNR320200994.html#BJNR320200994BJNE000201118)
 
 Für Versicherungsunternehmen, die ihren Sitz in der Schweizerischen
 Eidgenossenschaft haben und die im Inland die Direktversicherung mit
@@ -127,6 +129,7 @@ Versicherungsaufsichtsgesetzes mit folgenden Maßgaben entsprechend:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ewgrl371_91dv_1994/BJNR320200994.html#BJNR320200994BJNE000300320)
 
 Die Verordnung zur Durchführung der Richtlinie des Rates vom 20. Juni
 1991 über die Anwendung des Abkommens zwischen der Europäischen
@@ -136,6 +139,7 @@ betreffend die Direktversicherung mit Ausnahme der Lebensversicherung
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ewgrl371_91dv_1994/BJNR320200994.html#BJNR320200994BJNE000400320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

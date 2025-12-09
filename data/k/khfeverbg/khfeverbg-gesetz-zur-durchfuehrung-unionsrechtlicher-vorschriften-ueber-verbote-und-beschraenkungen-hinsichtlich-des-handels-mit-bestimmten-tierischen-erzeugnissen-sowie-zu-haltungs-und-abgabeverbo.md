@@ -22,15 +22,18 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000100000)
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ### Abschnitt 1 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNG000100124)
 
 
 #### § 1 Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000202124)
 
 (1) Der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 obliegt die Durchführung
@@ -66,9 +69,11 @@ Union den nach Landesrecht zuständigen Behörden (Landesbehörden).
 
 
 ### Abschnitt 2 - Durchführung unionsrechtlicher Verbote und Beschränkungen hinsichtlich der Einfuhr, der Ausfuhr oder des Handels mit bestimmten Tierfellen oder tierischen Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNG000200124)
 
 
 #### § 2 Eingriffsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000302124)
 
 (1) Stellt die nach § 1 jeweils zuständige Behörde einen Verstoß gegen
 
@@ -114,9 +119,11 @@ Satz 2 haben keine aufschiebende Wirkung.
 
 
 ### Abschnitt 3 - Haltungs- und Abgabeverbote in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNG000300124)
 
 
 #### § 3 Pelztiere
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE001100124)
 
 (1) Pelztiere im Sinne des Absatzes 2 dürfen ohne Erlaubnis der
 zuständigen Behörde nicht gehalten oder gezüchtet werden. Die
@@ -183,6 +190,7 @@ den Widerruf von Verwaltungsakten.
 
 
 #### § 4 Trächtige Tiere
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE001200124)
 
 Es ist verboten, ein Säugetier, ausgenommen Schafe und Ziegen, das
 sich im letzten Drittel der Trächtigkeit befindet, zum Zweck der
@@ -207,9 +215,11 @@ aufzubewahren.
 
 
 ### Abschnitt 4 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNG000400124)
 
 
 #### § 5 Auskunfts- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000403119)
 
 (1) Natürliche und juristische Personen sowie sonstige
 Personenvereinigungen haben der nach § 1 jeweils zuständigen Behörde
@@ -259,6 +269,7 @@ vorzulegen hat.
 
 
 #### § 6 Mitwirkung der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000502124)
 
 (1) Die Zollbehörden wirken mit bei der Überwachung
 
@@ -313,9 +324,11 @@ vorzulegen hat.
 
 
 ### Abschnitt 5 - Ermächtigungen, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNG000500124)
 
 
 #### § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000602124)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -381,6 +394,7 @@ durch diese ausgeführt wird.
 
 
 #### § 8 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000703124)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates,
@@ -438,6 +452,7 @@ des Bundesrates, wenn den Landesbehörden die Durchführung obliegt.
 
 
 #### § 9 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000812124)
 
 Durch die Besondere Gebührenverordnung des Bundesministeriums für
 Ernährung und Landwirtschaft nach § 22 Absatz 4 des
@@ -447,16 +462,19 @@ den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 
 #### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE000903119)
 
 
 
 #### § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE001001124)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 3 Absatz 1 Satz 2 Nummer 2)
 
 #### Anlage Anforderungen an die Haltung von Pelztieren
+[Direktlink](https://www.gesetze-im-internet.de/khfeverbg/BJNR239400008.html#BJNR239400008BJNE001300124)
 
 (BGBl. I 2017, 2149 — 2150)
 

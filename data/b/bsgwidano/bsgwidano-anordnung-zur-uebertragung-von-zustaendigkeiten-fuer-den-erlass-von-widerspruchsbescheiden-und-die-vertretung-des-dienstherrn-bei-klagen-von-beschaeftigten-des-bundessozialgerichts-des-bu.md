@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bsgwidano/BJNR210400004.html#BJNR210400004BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes und mit § 46 des
@@ -34,6 +35,7 @@ Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bsgwidano/BJNR210400004.html#BJNR210400004BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes in Verbindung mit § 46 des
 Deutschen Richtergesetzes wird dem Bundesverwaltungsamt die Vertretung
@@ -44,6 +46,7 @@ Beihilfevorschriften des Bundes übertragen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bsgwidano/BJNR210400004.html#BJNR210400004BJNE000300000)
 
 Diese Anordnung wird, soweit sie das Bundessozialgericht und das
 Bundesversicherungsamt betrifft, am 1. Juli 2004 und, soweit sie das
@@ -51,6 +54,7 @@ Robert Koch-Institut betrifft, am 15. Juli 2004 wirksam.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bsgwidano/BJNR210400004.html#BJNR210400004BJNE000400000)
 
 Die Bundesministerin für Gesundheit und Soziale Sicherung
 

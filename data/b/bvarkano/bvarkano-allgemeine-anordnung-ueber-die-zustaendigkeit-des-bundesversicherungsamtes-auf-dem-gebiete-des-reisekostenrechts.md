@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bvarkano/BJNR000220969.html#BJNR000220969BJNE000100326)
 
 Auf Grund der §§ 172 und 174 Abs. 3 des Bundesbeamtengesetzes in der
 Fassung vom 22. Oktober 1965 (Bundesgesetzbl. I S. 1776) und des § 126
@@ -33,11 +34,13 @@ Klagen wegen dieser Verwaltungsakte.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bvarkano/BJNR000220969.html#BJNR000220969BJNE000200326)
 
 Diese Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bvarkano/BJNR000220969.html#BJNR000220969BJNE000300326)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

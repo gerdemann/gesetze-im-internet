@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000100000)
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
 
@@ -45,6 +46,7 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
 
 
 ## § 1 Sonderregelung zur 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000200000)
 
 Abweichend von § 21 Absatz 1a Satz 2 des
 Krankenhausfinanzierungsgesetzes kann die für die Krankenhausplanung
@@ -74,6 +76,7 @@ Verbindung mit Satz 6 des Krankenhausfinanzierungsgesetzes sowie § 3.
 
 
 ## § 2 Sonderregelung bei besonders hoher 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000300000)
 
 (1) Sofern in einem Landkreis oder in einer kreisfreien Stadt die
 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000
@@ -112,6 +115,7 @@ in Folge unter 150, gilt § 21 Absatz 1a Satz 2 in Verbindung mit Satz
 
 
 ## § 3 Erweiterung der Bestimmungsmöglichkeit gemäß § 21 Absatz 1a Satz 2 Nummer 2 des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000400000)
 
 (1) Unter den Voraussetzungen des § 21 Absatz 1a Satz 2 Nummer 2 des
 Krankenhausfinanzierungsgesetzes oder in begründeten Ausnahmefällen
@@ -198,6 +202,7 @@ zuständigen Landesbehörden die Übersicht elektronisch zur Verfügung.
 
 
 ## § 4 Verlängerung von Fristen nach den §§ 21 bis 22 und 25 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 415 des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000907130)
 
 (1) Die Frist nach § 21 Absatz 1a Satz 1 des
 Krankenhausfinanzierungsgesetzes wird bis zum 15. Juni 2021
@@ -269,6 +274,7 @@ Sozialgesetzbuch wird bis zum 15. Juni 2021 verlängert.
 
 
 ## § 5 Erlösausgleiche für das Jahr 2021
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000602125)
 
 (1) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des
 Krankenhausfinanzierungsgesetzes vereinbaren bis zum 31. Dezember 2021
@@ -476,6 +482,7 @@ oder § 3 Absatz 7 der Bundespflegesatzverordnung sind für das Jahr
 
 
 ## § 5a Erlösausgleiche für das Jahr 2022
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE001001125)
 
 (1) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des
 Krankenhausfinanzierungsgesetzes vereinbaren bis zum 31. Oktober 2022
@@ -685,6 +692,7 @@ oder § 3 Absatz 7 der Bundespflegesatzverordnung sind für das Jahr
 
 
 ## § 6 Abschlagszahlungen für das Jahr 2021
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000701125)
 
 (1) Der Träger eines zugelassenen Krankenhauses kann vor dem Abschluss
 der Vereinbarung über einen Erlösausgleich nach § 5 Absatz 8 Satz 1
@@ -807,6 +815,7 @@ Erlösausgleich nach § 5 Absatz 8 Satz 1 abzuschließen.
 
 
 ## § 6a Abschlagszahlungen für das Jahr 2022
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE001100125)
 
 (1) Der Träger eines zugelassenen Krankenhauses kann vor dem Abschluss
 der Vereinbarung über einen Erlösausgleich nach § 5a Absatz 8 Satz 1
@@ -929,6 +938,7 @@ Erlösausgleich nach § 5a Absatz 8 Satz 1 abzuschließen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/khwisichv/BJNR609800021.html#BJNR609800021BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung zur Anpassung der Voraussetzungen

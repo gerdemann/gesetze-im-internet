@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/baktwaffvern_bkg/BJNR201320983.html#BJNR201320983BJNE000100314)
 
 Dem in London, Moskau und Washington am 10. April 1972 von der
 Bundesrepublik Deutschland unterzeichneten Übereinkommen über das
@@ -30,6 +31,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/baktwaffvern_bkg/BJNR201320983.html#BJNR201320983BJNE000200314)
 
 (1) Es ist verboten,
 
@@ -54,6 +56,7 @@ machen, bleiben sie unberührt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/baktwaffvern_bkg/BJNR201320983.html#BJNR201320983BJNE000300314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000100000)
 
 Auf Grund des § 3 Abs. 3 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
 vom 14. September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch
@@ -32,6 +33,7 @@ Deutsche Bundespost:
 
 
 ## § 1 Anwendung der Arbeitszeitverordnung
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000201308)
 
 Für die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten
 gelten die Vorschriften der Arbeitszeitverordnung, soweit in den §§ 2
@@ -39,6 +41,7 @@ bis 8 nichts anderes bestimmt ist.
 
 
 ## § 2 Regelmäßige Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000306308)
 
 (1) Die regelmäßige Arbeitszeit beträgt im Durchschnitt 38,5 Stunden
 in der Woche. Wird der Dienst nicht in Wechselschicht geleistet, darf
@@ -54,11 +57,13 @@ lange sie an diesen Tagen tatsächlich Dienst leisten müssen.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000404308)
 
 -
 
 
 ## § 4 Gleitende Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000501308)
 
 (1) Wird den Beamtinnen und Beamten gestattet, Beginn und Ende der
 täglichen Arbeitszeit in gewissen Grenzen selbst zu bestimmen
@@ -86,6 +91,7 @@ Wochenfeiertag.
 
 
 ## § 5 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000601308)
 
 (1) Die Arbeit ist spätestens nach Überschreiten einer Arbeitszeit von
 sechs Stunden durch eine Ruhepause von mindestens 30 Minuten zu
@@ -99,6 +105,7 @@ nicht unterschreiten.
 
 
 ## § 6 Nachtdienst
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000700000)
 
 (1) Der besonderen Beanspruchung der Arbeitskraft durch Nachtdienst
 ist bei der Dienstgestaltung Rechnung zu tragen. Nachtdienst ist eine
@@ -133,6 +140,7 @@ sofern zwingende betriebliche Belange nicht entgegenstehen.
 
 
 ## § 7 Erprobung neuer Arbeitszeitmodelle
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000801119)
 
 (1) Zur besseren Anpassung des Personaleinsatzes an den Arbeitsanfall
 kann der Vorstand der Deutschen Post AG neue Arbeitszeitmodelle zur
@@ -181,6 +189,7 @@ gelten.
 
 
 ## § 8 Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE001001308)
 
 Wird Beamtinnen und Beamten nach § 4 Abs. 4 des
 Postpersonalrechtsgesetzes oder nach § 29 Abs. 1 des
@@ -199,6 +208,7 @@ Rechtsaufsicht ändern oder aufheben.
 
 
 ## § 9 Lebensarbeitszeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE001100305)
 
 (1) Beamtinnen und Beamten kann die Führung eines
 Lebensarbeitszeitkontos gestattet werden, wenn keine betrieblichen
@@ -242,6 +252,7 @@ tätigen Arbeitnehmerinnen und Arbeitnehmer gelten.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/post-azv_2003/BJNR249500003.html#BJNR249500003BJNE000902305)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

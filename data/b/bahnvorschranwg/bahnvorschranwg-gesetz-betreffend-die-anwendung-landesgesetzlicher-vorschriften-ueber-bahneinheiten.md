@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bahnvorschranwg/BJNR208110934.html#BJNR208110934BJNE000100326)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird.
 
 
 ## Einziger Paragraph
+[Direktlink](https://www.gesetze-im-internet.de/bahnvorschranwg/BJNR208110934.html#BJNR208110934BJNE000200326)
 
 (1) Erstreckt sich ein Bahnunternehmen des öffentlichen Verkehrs über
 das Gebiet mehrerer Länder und unterliegt es in mindestens einem

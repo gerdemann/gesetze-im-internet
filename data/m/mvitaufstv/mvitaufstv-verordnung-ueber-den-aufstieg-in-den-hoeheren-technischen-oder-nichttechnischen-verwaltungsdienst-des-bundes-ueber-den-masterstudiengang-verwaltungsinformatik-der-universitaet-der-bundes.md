@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000100000)
 
 Auf Grund des § 26 Absatz 2 Satz 1 des Bundesbeamtengesetzes, der
 durch Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2021 (BGBl. I S.
@@ -29,9 +30,11 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000100000)
 
 
 ### § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000300000)
 
 Diese Verordnung regelt den Aufstieg
 
@@ -52,6 +55,7 @@ Diese Verordnung regelt den Aufstieg
 
 
 ### § 2 Zulassung zum Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000400000)
 
 (1) Zum Aufstieg in den höheren technischen Verwaltungsdienst des
 Bundes – Fachrichtung Informationstechnik – über den Masterstudiengang
@@ -98,9 +102,11 @@ werden, wenn sie oder er
 
 
 ## Abschnitt 2 - Masterstudium „Verwaltungsinformatik“
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000200000)
 
 
 ### § 3 Ziel des Masterstudiums
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000500000)
 
 Ziel des Masterstudiums ist es,
 
@@ -121,6 +127,7 @@ Ziel des Masterstudiums ist es,
 
 
 ### § 4 Dauer des Studiums und Freistellungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000600000)
 
 (1) Die Regelstudienzeit des Masterstudiums „Verwaltungsinformatik“
 der Universität der Bundeswehr München beträgt drei Jahre. Es werden
@@ -141,6 +148,7 @@ Selbststudium im Umfang von einem Arbeitstag je Kalenderwoche.
 
 
 ### § 5 Module
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000700000)
 
 (1) Das Masterstudium wird in Modulen durchgeführt.
 
@@ -159,6 +167,7 @@ Selbststudium im Umfang von einem Arbeitstag je Kalenderwoche.
 
 
 ### § 6 Pflichtmodule
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000800000)
 
 (1) Die Pflichtmodule unterteilen sich in
 
@@ -225,6 +234,7 @@ Themengebiete:
 
 
 ### § 7 Pflichtmodule der Vertiefungsrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE000900000)
 
 (1) Die Pflichtmodule der Vertiefungsrichtungen unterteilen sich in
 
@@ -254,6 +264,7 @@ belegt.
 
 
 ### § 8 Abfolge, Inhalt und Leistungspunkte der Module
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001000000)
 
 Die Abfolge der Module, der Inhalt der Module und die Zahl der
 Leistungspunkte, die für die einzelnen Module vergeben werden, richten
@@ -263,6 +274,7 @@ jeweils geltenden Fassung.
 
 
 ### § 9 Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001100000)
 
 (1) In jedem Modul muss die oder der Studierende eine Modulprüfung
 absolvieren.
@@ -289,6 +301,7 @@ Werner-Heisenberg-Weg 39, 85579 Neubiberg.
 
 
 ### § 10 Masterarbeit
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001200000)
 
 (1) Im Modul Masterarbeit ist die Modulprüfung die Masterarbeit.
 
@@ -328,12 +341,14 @@ werden.
 
 
 ### § 11 Masterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001300000)
 
 Die Masterprüfung setzt sich zusammen aus den einzelnen
 Modulprüfungen.
 
 
 ### § 12 Leitung des Masterstudiums
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001400000)
 
 (1) Für die wissenschaftliche, inhaltliche und organisatorische
 Leitung des Masterstudiums ist die Universität der Bundeswehr München
@@ -380,6 +395,7 @@ ordnungsgemäßen Ablauf des Masterstudiums sicher.
 
 
 ### § 13 Zuständigkeit des Prüfungsamtes
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001500000)
 
 Das Prüfungsamt der Universität der Bundeswehr München ist zuständig
 
@@ -396,15 +412,18 @@ Das Prüfungsamt der Universität der Bundeswehr München ist zuständig
 
 
 ### § 14 Widerspruchsverfahren bei Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001600000)
 
 Prüfungsrechtliche Widerspruchsverfahren werden von der Universität
 der Bundeswehr München durchgeführt.
 
 
 ## Abschnitt 3 - Berufspraktische Einführung
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000300000)
 
 
 ### § 15 Dauer, Durchführung und Aufgaben der berufspraktischen Einführung
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001700000)
 
 (1) Die berufspraktische Einführung in die Aufgaben der höheren
 Laufbahn dauert ein Jahr.
@@ -432,6 +451,7 @@ Verwaltungsdienstes – Fachrichtung Allgemeine und Digitale Verwaltung
 
 
 ### § 16 Dienstliche Beurteilung über Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001800000)
 
 (1) Am Ende der berufspraktischen Einführungszeit ist eine dienstliche
 Beurteilung zu erstellen.
@@ -442,9 +462,11 @@ den Aufgaben der höheren Laufbahn bewährt hat.
 
 
 ## Abschnitt 4 - Abschluss des Aufstiegsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000400000)
 
 
 ### § 17 Verlängerung des Aufstiegsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE001900000)
 
 (1) Das Aufstiegsverfahren kann wegen Unterbrechungen verlängert
 werden, höchstens jedoch insgesamt um drei Jahre. § 15 Absatz 1 und 2
@@ -457,6 +479,7 @@ Universität der Bundeswehr München.
 
 
 ### § 18 Erwerb der Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE002000000)
 
 (1) Beamtinnen und Beamte, die das Masterstudium mit den
 Pflichtmodulen der Vertiefungsrichtung Informationstechnik erfolgreich
@@ -472,9 +495,11 @@ nichttechnischen Verwaltungsdienstes des Bundes.
 
 
 ## Abschnitt 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNG000500000)
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mvitaufstv/BJNR0550A0023.html#BJNR0550A0023BJNE002100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

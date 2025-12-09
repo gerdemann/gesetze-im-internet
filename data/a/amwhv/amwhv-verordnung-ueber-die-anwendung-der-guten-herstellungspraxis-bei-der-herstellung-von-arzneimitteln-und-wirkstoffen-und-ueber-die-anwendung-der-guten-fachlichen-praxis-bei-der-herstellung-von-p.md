@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000208116)
 
 (1) Diese Verordnung findet Anwendung auf Betriebe und Einrichtungen,
 die
@@ -162,6 +164,7 @@ Verordnung (EU) Nr. 536/2014 Bezug genommen wird.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000312116)
 
 Im Sinne dieser Verordnung
 
@@ -363,10 +366,12 @@ Im Sinne dieser Verordnung
 
 
 ## Abschnitt 2 - Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000200000)
 
 
 
 ### § 3 Qualitätsmanagementsystem, Gute Herstellungspraxis und gute fachliche Praxis
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000405130)
 
 (1) Die Betriebe und Einrichtungen müssen ein funktionierendes
 Qualitätsmanagementsystem (QM-System) entsprechend Art und Umfang der
@@ -411,6 +416,7 @@ vor unbefugten Manipulationen geschützt sind.
 
 
 ### § 4 Personal
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000500000)
 
 (1) Die Betriebe und Einrichtungen müssen über sachkundiges und
 angemessen qualifiziertes Personal in ausreichender Zahl verfügen. Das
@@ -438,6 +444,7 @@ Verantwortung nachkommen können.
 
 
 ### § 5 Betriebsräume und Ausrüstungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000600000)
 
 (1) Die Betriebsräume müssen nach Art, Größe, Zahl und Ausrüstung für
 die beabsichtigten Zwecke geeignet sein und so ausgestaltet und
@@ -470,6 +477,7 @@ sonstigen Materialien sind.
 
 
 ### § 6 Hygienemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000701116)
 
 (1) Betriebsräume und ihre Ausrüstungen müssen regelmäßig gereinigt
 und, soweit erforderlich, desinfiziert oder sterilisiert werden. Es
@@ -508,6 +516,7 @@ Haltung die hygienischen Erfordernisse beachtet werden.
 
 
 ### § 7 Lagerung und Transport
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000802116)
 
 (1) Ausgangsstoffe, Zwischen- und Endprodukte sowie Rückstellmuster
 sind so zu lagern, dass ihre Qualität nicht nachteilig beeinflusst
@@ -555,6 +564,7 @@ beeinträchtigt wird.
 
 
 ### § 8 Tierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE000900000)
 
 (1) Der Gesundheitszustand von Tieren, die für die Herstellung oder
 Prüfung von Arzneimitteln oder Wirkstoffen gehalten werden, ist von
@@ -614,6 +624,7 @@ eigene Belüftungsanlagen verfügen.
 
 
 ### § 9 Tätigkeiten im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001001116)
 
 (1) Für jede Tätigkeit im Auftrag, insbesondere die Herstellung,
 Prüfung und das Inverkehrbringen oder jeden damit verbundenen Vorgang,
@@ -638,6 +649,7 @@ die vorgegebenen Herstellungs- und Prüfanweisungen einhalten.
 
 
 ### § 10 Allgemeine Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001100000)
 
 (1) Betriebe und Einrichtungen müssen ein Dokumentationssystem
 entsprechend der jeweils durchgeführten Tätigkeiten unterhalten. Die
@@ -670,6 +682,7 @@ ermöglichen.
 
 
 ### § 11 Selbstinspektionen und Lieferantenqualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001202116)
 
 (1) Um die Beachtung der Vorschriften dieser Verordnung
 sicherzustellen, müssen regelmäßig Selbstinspektionen nach einem im
@@ -725,10 +738,12 @@ Ausgangsmaterialien für die Wirkstoffherstellung entsprechend.
 
 
 ## Abschnitt 3 - Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000300000)
 
 
 
 ### § 12 Personal in leitender und in verantwortlicher Stellung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001304116)
 
 (1) Der Verantwortungsbereich der sachkundigen Person ist nach Maßgabe
 von § 19 des Arzneimittelgesetzes schriftlich oder elektronisch
@@ -808,6 +823,7 @@ für die Qualitätskontrolle verantwortlich sind.
 
 
 ### § 13 Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001407116)
 
 (1) Die Herstellungsvorgänge sind mit Ausnahme der Freigabe unter
 Verantwortung der Leitung der Herstellung nach vorher erstellten
@@ -881,6 +897,7 @@ Herstellungsanweisung hergestellt wurde.
 
 
 ### § 14 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001503116)
 
 (1) Ausgangsstoffe und Endprodukte sowie erforderlichenfalls auch
 Zwischenprodukte sind unter Verantwortung der Leitung der
@@ -926,6 +943,7 @@ Personal zu entscheiden. Die Maßnahmen sind zu dokumentieren.
 
 
 ### § 15 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001601116)
 
 (1) Arzneimittel, die zur Anwendung bei Menschen bestimmt und keine
 Fertigarzneimittel oder Prüfpräparate sind, dürfen im Geltungsbereich
@@ -1018,6 +1036,7 @@ Kennzeichnung zulassen.
 
 
 ### § 16 Freigabe zum Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001704116)
 
 (1) Die Freigabe einer Charge zum Inverkehrbringen darf von der
 sachkundigen Person nach § 14 des Arzneimittelgesetzes, die mit dem
@@ -1104,6 +1123,7 @@ ihr insbesondere alle erforderlichen Mittel zur Verfügung zu stellen.
 
 
 ### § 17 Inverkehrbringen und Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001804116)
 
 (1) Arzneimittel, Blutprodukte und andere Blutbestandteile sowie
 Produkte menschlicher Herkunft, die im Geltungsbereich des
@@ -1218,6 +1238,7 @@ sie in hinreichender Weise vor Manipulationen geschützt sind.
 
 
 ### § 18 Rückstellmuster
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE001903116)
 
 (1) Die für die Freigabe nach § 16 verantwortliche sachkundige Person
 nach § 14 des Arzneimittelgesetzes hat sicherzustellen, dass
@@ -1276,6 +1297,7 @@ gelagert werden.
 
 
 ### § 19 Beanstandungen und Rückruf
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002006116)
 
 (1) Der oder die Stufenplanbeauftragte ist dafür verantwortlich, dass
 alle bekannt gewordenen Meldungen über Arzneimittelrisiken nach
@@ -1357,6 +1379,7 @@ Verordnung (EU) Nr. 536/2014.
 
 
 ### § 20 Aufbewahrung der Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002106116)
 
 (1) Alle Aufzeichnungen über den Erwerb, die Herstellung
 einschließlich der Freigabe, die Prüfung, Lagerung, das Verbringen in
@@ -1431,10 +1454,12 @@ Speichermedium mindestens 30 Jahre aufzubewahren.
 
 
 ## Abschnitt 4 - Wirkstoffe nicht menschlicher Herkunft
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000400000)
 
 
 
 ### § 21 Organisationsstruktur
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002200000)
 
 (1) Das QM-System nach § 3 muss insbesondere die Organisationsstruktur
 sowie die Verfahren, Prozesse und alle Aktivitäten umfassen, die
@@ -1455,6 +1480,7 @@ entsprechend festzulegen.
 
 
 ### § 22 Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002301116)
 
 (1) Die Herstellungsvorgänge einschließlich der Inprozesskontrollen
 sind nach vorher erstellten schriftlichen oder elektronischen
@@ -1500,6 +1526,7 @@ verantwortlich sind.
 
 
 ### § 23 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002401116)
 
 (1) Ausgangsstoffe, Zwischenprodukte und Wirkstoffe sind nach vorher
 erstellten schriftlichen oder elektronischen Anweisungen und
@@ -1542,6 +1569,7 @@ befugtem Personal zu entscheiden. Die Maßnahmen sind zu dokumentieren.
 
 
 ### § 24 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002502116)
 
 (1) Die Kennzeichnung der Zwischenprodukte und Wirkstoffe ist nach
 vorher erstellten schriftlichen oder elektronischen Anweisungen und
@@ -1615,6 +1643,7 @@ Verlangen der zuständigen Behörde vorzulegen.
 
 
 ### § 25 Freigabe zum Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002603116)
 
 (1) Die Freigabe zum Inverkehrbringen darf nur nach vorher erstellten
 schriftlichen oder elektronischen Anweisungen und
@@ -1680,6 +1709,7 @@ erforderlich.
 
 
 ### § 26 Inverkehrbringen und Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002700000)
 
 (1) Wirkstoffe oder Zwischenprodukte, die im Geltungsbereich des
 Arzneimittelgesetzes hergestellt und geprüft wurden oder die in den
@@ -1699,6 +1729,7 @@ weiterzuleiten.
 
 
 ### § 27 Rückstellmuster
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002801116)
 
 (1) Von jeder Wirkstoffcharge sind ordnungsgemäß gekennzeichnete
 Muster in einem geeigneten Behältnis und in ausreichender Menge
@@ -1726,6 +1757,7 @@ Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 
 
 ### § 28 Beanstandungen und Rückruf
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE002901116)
 
 (1) Alle qualitätsbezogenen Beanstandungen sind in Betrieben und
 Einrichtungen, die Wirkstoffe im Geltungsbereich des
@@ -1752,6 +1784,7 @@ Maßnahmen und die Benachrichtigungen sind Aufzeichnungen zu führen.
 
 
 ### § 29 Aufbewahrung der Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003000000)
 
 (1) Alle Aufzeichnungen über den Erwerb, die Herstellung
 einschließlich der Freigabe, die Laborkontrollen, die Lagerung, das
@@ -1794,10 +1827,12 @@ aufzubewahren, die mindestens Angaben aufweisen über:
 
 
 ## Abschnitt 5 - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000500000)
 
 
 
 ### § 30 Ergänzende Regelungen für Fütterungsarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003101116)
 
 (1) Zur Herstellung von Fütterungsarzneimitteln dürfen nur
 Mischfuttermittel verwendet werden, die den futtermittelrechtlichen
@@ -1885,6 +1920,7 @@ der vom Bestimmungsland geforderten Form beizugeben.
 
 
 ### § 31 Ergänzende Regelungen für Blutspendeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003207116)
 
 (1) Das QM-System nach § 3 Abs. 1 muss nach Maßgabe der im Anhang der
 Richtlinie 2005/62/EG der Kommission vom 30. September 2005 zur
@@ -2247,6 +2283,7 @@ Bundesoberbehörde geregelt werden.
 
 
 ### § 31a Verbringen von Arzneimitteln nach § 73 Absatz 3a des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004500116)
 
 (1) Wer Fertigarzneimittel nach § 73 Absatz 3a des
 Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung
@@ -2297,10 +2334,12 @@ nach § 20c des Arzneimittelgesetzes. § 41 gilt entsprechend.
 
 
 ## Abschnitt 5a - Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000800310)
 
 
 
 ### § 32 Ergänzende allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003503116)
 
 (1) Das QM-System nach § 3 Abs. 1 muss für Gewebeeinrichtungen unter
 Verantwortung der verantwortlichen Person nach § 20c des
@@ -2453,6 +2492,7 @@ Anwendung.
 
 
 ### § 33 Feststellung der Spendereignung und für die Gewinnung erforderliche Laboruntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003600310)
 
 (1) Die Feststellung der Spendereignung in der Entnahmeeinrichtung und
 die für die Gewinnung erforderlichen Laboruntersuchungen in dem
@@ -2486,6 +2526,7 @@ Prüfergebnisse richtig sind.
 
 
 ### § 34 Gewinnung von Gewebe durch die Entnahmeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003705116)
 
 (1) § 4 findet für Entnahmeeinrichtungen keine Anwendung. Das
 Personal, das das Gewebe entnimmt, muss vor der Ausführung dieser
@@ -2680,6 +2721,7 @@ bleiben unberührt.
 
 
 ### § 35 Transport zur Be- oder Verarbeitung und Entgegennahme in der Gewebeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003802116)
 
 (1) Der Transport ist nach vorher erstellter Standardarbeitsanweisung
 durchzuführen. Das Verfahren muss der Spende angemessen sein und die
@@ -2745,6 +2787,7 @@ entgegengenommene Gewebe angenommen oder abgelehnt worden ist.
 
 
 ### § 36 Be- oder Verarbeitung und Lagerung durch die Gewebeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003904116)
 
 (1) Unbeschadet des § 4 Abs. 1 muss das Personal unter Verantwortung
 der verantwortlichen Person nach § 20c des Arzneimittelgesetzes über
@@ -2908,6 +2951,7 @@ Kreuzkontaminationen zu vermeiden.
 
 
 ### § 37 Prüfung von Gewebe und Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004000310)
 
 (1) Die Prüfung auf Einhaltung der festgelegten Spezifikation ist nach
 vorher erstellter Standardarbeitsanweisung (Prüfanweisung) in
@@ -2928,6 +2972,7 @@ durchgeführt worden ist und die Ergebnisse richtig sind.
 
 
 ### § 38 Freigabe durch die Gewebeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004101116)
 
 (1) Die Freigabe von Gewebe oder Gewebezubereitungen darf nur von der
 verantwortlichen Person nach § 20c des Arzneimittelgesetzes und nur
@@ -2967,6 +3012,7 @@ schriftlich oder elektronisch festgelegtem Verfahren beurteilt und als
 
 
 ### § 39 Inverkehrbringen, Einfuhr und Transport durch die Gewebeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004202116)
 
 (1) Gewebe und Gewebezubereitungen dürfen nur in den Verkehr gebracht
 werden, wenn sie gemäß § 38 freigegeben wurden.
@@ -3017,6 +3063,7 @@ mindestens mit folgenden Angaben zu versehen:
 
 
 ### § 40 Meldung schwerwiegender unerwünschter Reaktionen und schwerwiegender Zwischenfälle und Rückruf
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004305116)
 
 (1) Unbeschadet des § 13c des Transplantationsgesetzes ist in
 Entnahmeeinrichtungen im Sinne des § 20b Abs. 1 des
@@ -3131,6 +3178,7 @@ nach § 20b des Arzneimittelgesetzes entsprechend.
 
 
 ### § 41 Aufbewahrung der Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004403116)
 
 (1) Für die Aufbewahrung von Aufzeichnungen über die Gewinnung,
 Laboruntersuchung, Be- oder Verarbeitung, Prüfung, Freigabe, Lagerung,
@@ -3162,10 +3210,12 @@ Erlaubnisinhaber die Vorsorge nach Satz 1 zu treffen.
 
 
 ## Abschnitt 5b - Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000900116)
 
 
 
 ### § 41a Europäisches Kodierungssystem für Gewebe und Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004601116)
 
 (1) Gewebe oder Gewebezubereitungen, die zum Zweck der Anwendung beim
 Menschen in Verkehr gebracht werden, müssen mit einem Einheitlichen
@@ -3220,6 +3270,7 @@ Einheitlichen Europäischen Code kennzeichnen.
 
 
 ### § 41b Bestimmungen für die Verwendung des Einheitlichen Europäischen Codes; Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004701116)
 
 (1) Sofern Gewebe oder Gewebezubereitungen gemäß § 41a mit einem
 Einheitlichen Europäischen Code zu kennzeichnen sind, sind
@@ -3312,6 +3363,7 @@ Kodierungsfehlers. Jede Berichtigung ist vollständig zu dokumentieren.
 
 
 ### § 41c Kodierung in anderen Fällen und sonstige Pflichten der Gewebeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004801116)
 
 (1) Werden Gewebe oder Gewebezubereitungen, die nach § 41a der Pflicht
 zur Kodierung unterliegen, von einer Gewebeeinrichtung zu anderen
@@ -3354,6 +3406,7 @@ Absatzes 1 Satz 2 und 3 erfüllt werden.
 
 
 ### § 41d Format des Einheitlichen Europäischen Codes
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE004900116)
 
 (1) Der Einheitliche Europäische Code muss die folgenden Anforderungen
 erfüllen:
@@ -3374,10 +3427,12 @@ zusätzlich verwendet werden.
 
 
 ## Abschnitt 5c - Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000901116)
 
 
 
 ### § 41e Ergänzende Anforderungen an die Gewebevigilanz
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE005100116)
 
 Die Vorschriften des Abschnitts 5b gelten entsprechend für
 Einrichtungen, die Tätigkeiten mit Geweben oder Gewebezubereitungen
@@ -3392,6 +3447,7 @@ erfüllen sind.
 
 
 ### § 41f Ergänzende Anforderungen zur Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE005200116)
 
 Unbeschadet der Anforderungen des § 10 Absatz 8b des
 Arzneimittelgesetzes ist für Gewebezubereitungen § 36 Absatz 8
@@ -3399,6 +3455,7 @@ entsprechend anzuwenden.
 
 
 ### § 41g Ergänzende Anforderungen zur Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE005300116)
 
 Für die Einfuhr von Gewebezubereitungen nach § 72 Absatz 1 des
 Arzneimittelgesetzes aus Staaten, die weder Mitgliedstaaten der
@@ -3408,10 +3465,12 @@ und Absatz 2a entsprechend.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000600000)
 
 
 
 ### § 42 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003303116)
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3466,10 +3525,12 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNG000700000)
 
 
 
 ### § 43 Übergangsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE003404116)
 
 (1) Auf Gewebe, Gewebezubereitungen sowie hämatopoetische Stammzellen
 und Stammzellzubereitungen aus dem peripheren Blut oder aus dem
@@ -3492,6 +3553,7 @@ anzuwenden.
 
 
 ### § 44 Übergangsregelung aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amwhv/BJNR252310006.html#BJNR252310006BJNE005001116)
 
 (1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem
 Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000101130)
 
 (1) Dieses Gesetz gilt für Verwaltungsleistungen der öffentlichen
 Stellen
@@ -45,6 +46,7 @@ zuständigen Gerichte unterliegt.
 
 
 ## § 1a Portalverbund für digitale Verwaltungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001200130)
 
 (1) Bund und Länder sind verpflichtet, ihre Verwaltungsleistungen auch
 elektronisch über Verwaltungsportale anzubieten. Davon abweichend
@@ -83,6 +85,7 @@ Suchdienst auch für ihre Verwaltungsportale mitnutzen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000203130)
 
 (1) Der „Portalverbund“ ist eine technische Verknüpfung der
 Verwaltungsportale von Bund und Ländern, über den der Zugang zu
@@ -154,6 +157,7 @@ Landesbehörde zur Nutzung durch weitere Länder, bereitgestellt werden.
 
 
 ## § 3 Nutzerkonten, Identifizierung und Authentifizierung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000302130)
 
 (1) Die Identifizierung und Authentifizierung der Nutzer im Sinne des
 § 2 Absatz 4 Nummer 1 für die Inanspruchnahme elektronischer
@@ -221,6 +225,7 @@ unberührt.
 
 
 ## § 3a Beratungsangebot im Portalverbund
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001300130)
 
 (1) Bund und Länder stellen für Nutzer im Portalverbund eine
 allgemeine fachunabhängige, barrierearme Beratung für die Abwicklung
@@ -244,6 +249,7 @@ Bundesdatenschutzgesetzes gilt entsprechend.
 
 
 ## § 4 Elektronische Abwicklung von Verwaltungsverfahren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000401130)
 
 (1) Für die elektronische Abwicklung von Verwaltungsverfahren, die der
 Durchführung unmittelbar geltender Rechtsakte der Europäischen Union,
@@ -271,6 +277,7 @@ Lizenz die Verwendung, Weitergabe und Veränderung einschränkt.
 
 
 ## § 5 IT-Sicherheit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000503130)
 
 Für die im Portalverbund und für die zur Anbindung an den
 Portalverbund genutzten IT-Komponenten werden die zur Gewährleistung
@@ -284,6 +291,7 @@ entsprechend.
 
 
 ## § 6 Standards; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000602130)
 
 (1) Für die informationstechnischen Systeme, die für den
 übergreifenden informationstechnischen Zugang zu den
@@ -345,6 +353,7 @@ Bundesrates die Aufgabe nach Satz 1
 
 
 ## § 7 Nutzerfreundlichkeit und Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000702130)
 
 (1) Bund und Länder stellen durch geeignete Maßnahmen die
 Nutzerfreundlichkeit sowie eine einfache und intuitive Bedienbarkeit
@@ -360,6 +369,7 @@ gestalten, dass sie barrierefrei nutzbar sind.
 
 
 ## § 8 Rechtsgrundlagen der Datenverarbeitung in Nutzerkonten und zu Identifizierungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000802130)
 
 (1) Zur Feststellung der Identität des Nutzers eines Bürgerkontos
 dürfen, soweit dies erforderlich ist, folgende Daten verarbeitet
@@ -529,6 +539,7 @@ Verordnung (EU) 2016/679 gemeinsam verantwortlich.
 
 
 ## § 8a Rechtsgrundlagen der Datenverarbeitung in einem länderübergreifenden Onlinedienst
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001400130)
 
 (1) Die einen länderübergreifenden Onlinedienst betreibende Behörde
 darf die für die Zwecke der Unterstützung bei der Inanspruchnahme
@@ -574,6 +585,7 @@ personenbezogene Daten übermittelt werden, bleibt unberührt.
 
 
 ## § 9 Bekanntgabe des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE000902130)
 
 (1) Mit Einwilligung des Nutzers kann ein elektronischer
 Verwaltungsakt dadurch bekannt gegeben werden, dass er vom Nutzer oder
@@ -602,6 +614,7 @@ Praxis mit der Bekanntgabe des Verwaltungsaktes über das Postfach.
 
 
 ## § 9a Grundsätze der elektronischen Abwicklung über Verwaltungsportale; Schriftformersatz
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001500130)
 
 (1) Die Abwicklung einer elektronischen Verwaltungsleistung, die der
 Durchführung unmittelbar geltender Rechtsakte der Europäischen Union,
@@ -634,6 +647,7 @@ qualifizierten elektronischen Siegel der Behörde versehen werden.
 
 
 ## § 10 Datenschutzcockpit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001003130)
 
 (1) Ein „Datenschutzcockpit“ ist eine IT-Komponente, mit der sich
 natürliche Personen Auskünfte zu Datenübermittlungen zwischen
@@ -716,6 +730,7 @@ Bundesrates durch Rechtsverordnung fest.
 
 
 ## § 11 Monitoring und Evaluierung; Ermittlung der Erfüllungsaufwände
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001102130)
 
 Die für die Verwaltungsdigitalisierung zuständigen Ministerien der
 Länder und des Bundes
@@ -744,6 +759,7 @@ Die Evaluationsberichte werden elektronisch veröffentlicht.
 
 
 ## § 12 Übergangsregelungen zu § 3; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ozg/BJNR313800017.html#BJNR313800017BJNE001601130)
 
 (1) Für einen Übergangszeitraum von drei Jahren kann die
 Identifizierung und Authentifizierung sowie die bidirektionale

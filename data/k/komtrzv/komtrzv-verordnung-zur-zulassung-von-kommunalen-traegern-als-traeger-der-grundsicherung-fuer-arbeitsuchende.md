@@ -25,6 +25,7 @@ Geltung der v durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/komtrzv/BJNR234900004.html#BJNR234900004BJNE000100000)
 
 Auf Grund des § 6a Abs. 2 des Zweiten Buches Sozialgesetzbuch -
 Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24.
@@ -34,6 +35,7 @@ verordnet das Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1 Zugelassene kommunale Träger
+[Direktlink](https://www.gesetze-im-internet.de/komtrzv/BJNR234900004.html#BJNR234900004BJNE000202308)
 
 Die in der Anlage bezeichneten kommunalen Träger werden als Träger der
 Leistung nach § 6 Absatz 1 Satz 1 Nummer 1 des Zweiten Buches
@@ -42,11 +44,13 @@ ihr Gebiet jeweils zuständigen Agentur für Arbeit.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/komtrzv/BJNR234900004.html#BJNR234900004BJNE000301308)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/komtrzv/BJNR234900004.html#BJNR234900004BJNE000406360)
 
 (Fundstelle: BGBl. I 2004, 2350; bzgl. einzelner Änderungen vgl.
 Fußnote)

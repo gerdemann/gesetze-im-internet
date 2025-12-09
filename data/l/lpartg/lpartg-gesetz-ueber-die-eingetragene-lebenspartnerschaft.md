@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Begründung der Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000200305)
 
 
 
 ### § 1 Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000104360)
 
 Nach dem 30. September 2017 können Lebenspartnerschaften zwischen zwei
 Personen gleichen Geschlechts nicht mehr begründet werden. Dieses
@@ -41,10 +43,12 @@ Gesetz gilt für
 
 
 ## Abschnitt 2 - Wirkungen der Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000300305)
 
 
 
 ### § 2 Partnerschaftliche Lebensgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000200305)
 
 Die Lebenspartner sind einander zu Fürsorge und Unterstützung sowie
 zur gemeinsamen Lebensgestaltung verpflichtet. Sie tragen füreinander
@@ -52,9 +56,11 @@ Verantwortung.
 
 
 ### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE002202360)
 
 
 ### § 4 Umfang der Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000400305)
 
 Die Lebenspartner haben bei der Erfüllung der sich aus dem
 lebenspartnerschaftlichen Verhältnis ergebenden Verpflichtungen
@@ -63,6 +69,7 @@ Angelegenheiten anzuwenden pflegen.
 
 
 ### § 5 Verpflichtung zum Lebenspartnerschaftsunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000502377)
 
 Die Lebenspartner sind einander verpflichtet, durch ihre Arbeit und
 mit ihrem Vermögen die partnerschaftliche Lebensgemeinschaft
@@ -71,6 +78,7 @@ des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 
 ### § 6 Güterstand
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000601377)
 
 Die Lebenspartner leben im Güterstand der Zugewinngemeinschaft, wenn
 sie nicht durch Lebenspartnerschaftsvertrag (§ 7) etwas anderes
@@ -79,6 +87,7 @@ Gesetzbuchs gelten entsprechend.
 
 
 ### § 7 Lebenspartnerschaftsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000702125)
 
 Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch
 Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1519 des
@@ -86,6 +95,7 @@ Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 
 ### § 8 Sonstige vermögensrechtliche Wirkungen
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000801377)
 
 (1) Zugunsten der Gläubiger eines der Lebenspartner wird vermutet,
 dass die im Besitz eines Lebenspartners oder beider Lebenspartner
@@ -97,6 +107,7 @@ entsprechend.
 
 
 ### § 9 Regelungen in Bezug auf Kinder eines Lebenspartners
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE000905360)
 
 (1) Führt der allein sorgeberechtigte Elternteil eine
 Lebenspartnerschaft, hat sein Lebenspartner im Einvernehmen mit dem
@@ -127,6 +138,7 @@ Bürgerlichen Gesetzbuchs entsprechend.
 
 
 ### § 10 Erbrecht
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001003308)
 
 (1) Der überlebende Lebenspartner des Erblassers ist neben Verwandten
 der ersten Ordnung zu einem Viertel, neben Verwandten der zweiten
@@ -189,6 +201,7 @@ gelten entsprechend.
 
 
 ### § 11 Sonstige Wirkungen der Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001100305)
 
 (1) Ein Lebenspartner gilt als Familienangehöriger des anderen
 Lebenspartners, soweit nicht etwas anderes bestimmt ist.
@@ -201,10 +214,12 @@ Lebenspartnerschaft, die sie begründet hat, aufgelöst wurde.
 
 
 ## Abschnitt 3 - Getrenntleben der Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000400305)
 
 
 
 ### § 12 Unterhalt bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001202377)
 
 Leben die Lebenspartner getrennt, so kann ein Lebenspartner von dem
 anderen den nach den Lebensverhältnissen und den Erwerbs- und
@@ -214,6 +229,7 @@ entsprechend.
 
 
 ### § 13 Verteilung der Haushaltsgegenstände bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001301160)
 
 (1) Leben die Lebenspartner getrennt, so kann jeder von ihnen die ihm
 gehörenden Haushaltsgegenstände von dem anderen Lebenspartner
@@ -232,6 +248,7 @@ Lebenspartner nichts anderes vereinbaren.
 
 
 ### § 14 Wohnungszuweisung bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001401377)
 
 (1) Leben die Lebenspartner voneinander getrennt oder will einer von
 ihnen getrennt leben, so kann ein Lebenspartner verlangen, dass ihm
@@ -273,10 +290,12 @@ Nutzungsrecht überlassen hat.
 
 
 ## Abschnitt 4 - Aufhebung der Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000500305)
 
 
 
 ### § 15 Aufhebung der Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001503123)
 
 (1) Die Lebenspartnerschaft wird auf Antrag eines oder beider
 Lebenspartner durch richterliche Entscheidung aufgehoben.
@@ -331,6 +350,7 @@ Gesetzbuchs gilt entsprechend.
 
 
 ### § 16 Nachpartnerschaftlicher Unterhalt
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001602377)
 
 Nach der Aufhebung der Lebenspartnerschaft obliegt es jedem
 Lebenspartner, selbst für seinen Unterhalt zu sorgen. Ist er dazu
@@ -340,6 +360,7 @@ Bürgerlichen Gesetzbuchs.
 
 
 ### § 17 Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001701160)
 
 Für die Behandlung der gemeinsamen Wohnung und der
 Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft
@@ -348,16 +369,19 @@ entsprechend.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001802160)
 
 -
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE001901160)
 
 -
 
 
 ### § 20 Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE002001140)
 
 (1) Wird eine Lebenspartnerschaft aufgehoben, findet in entsprechender
 Anwendung des Versorgungsausgleichsgesetzes ein Ausgleich von im In-
@@ -381,10 +405,12 @@ haben.
 
 
 ## Abschnitt 5 - Umwandlung einer Lebenspartnerschaft in eine Ehe
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000800123)
 
 
 
 ### § 20a Umwandlung einer Lebenspartnerschaft in eine Ehe
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE002501360)
 
 (1) Eine Lebenspartnerschaft wird in eine Ehe umgewandelt, wenn beide
 Lebenspartner vor dem Standesbeamten persönlich und bei gleichzeitiger
@@ -414,10 +440,12 @@ Lebenspartnerschaft begründet worden ist, als Beginn der Ehezeit.
 
 
 ## Abschnitt 6 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000601123)
 
 
 
 ### § 21 Anwendung eherechtlicher Regelungen auf Lebenspartnerschaften
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE002102360)
 
 Regelungen zu Ehegatten und Ehen, die nach dem 22. Dezember 2018 in
 Kraft treten, gelten entsprechend für Lebenspartner und
@@ -425,6 +453,7 @@ Lebenspartnerschaften, wenn nichts anderes bestimmt ist.
 
 
 ### § 22 Abgabe von Vorgängen
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE002300377)
 
 Die bis zum Inkrafttreten dieses Gesetzes nach Landesrecht für die
 Begründung der Lebenspartnerschaft zuständigen Stellen haben die bei
@@ -447,10 +476,12 @@ Lebenspartnerschaftsregister einzutragen.
 
 
 ## Abschnitt 7 - Länderöffnungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNG000701123)
 
 
 
 ### § 23 Abweichende landesrechtliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lpartg/BJNR026610001.html#BJNR026610001BJNE002403360)
 
 Die Länder können abweichend von den §§ 3 und 9 bestimmen, dass die
 jeweiligen Erklärungen nicht gegenüber dem Standesbeamten, sondern

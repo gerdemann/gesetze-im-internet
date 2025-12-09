@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE000500314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## I. - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNG000100314)
 
 
 
 ### § 1 Entwicklungshelfer
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE000602118)
 
 (1) Entwicklungshelfer im Sinne dieses Gesetzes ist, wer
 
@@ -63,6 +66,7 @@ ausübt und die Voraussetzungen des Absatzes 1 Nr. 2 und 4 erfüllt.
 
 
 ### § 2 Träger des Entwicklungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE000702118)
 
 (1) Als Träger des Entwicklungsdienstes können juristische Personen
 des privaten Rechts anerkannt werden, die
@@ -119,6 +123,7 @@ Entwicklungshelfers nach diesem Gesetz nicht berührt.
 
 
 ### § 3 Finanzierungen durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE000801360)
 
 Zu den Aufwendungen für Leistungen, die dem anerkannten Träger des
 Entwicklungsdienstes (Träger) nach diesem Gesetz obliegen, kann der
@@ -128,6 +133,7 @@ für ihre Vergabe geltenden Richtlinien leisten.
 
 
 ### § 4 Entwicklungsdienstvertrag
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE000901360)
 
 (1) Der Träger hat mit dem Entwicklungshelfer einen schriftlichen
 Vertrag über den Entwicklungsdienst und den Vorbereitungsdienst
@@ -171,6 +177,7 @@ für den Lebenspartner.
 
 
 ### § 5 Leistungen durch andere Stellen
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001001118)
 
 (1) Wirkt der Entwicklungshelfer auf Veranlassung des Trägers in
 Entwicklungsländern an Vorhaben mit, die von anderen Stellen als dem
@@ -189,10 +196,12 @@ Erfüllung.
 
 
 ## II. - Besonderer Teil
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNG000200314)
 
 
 
 ### § 6 Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001100314)
 
 (1) Der Träger ist verpflichtet, für den Entwicklungshelfer und seinen
 unterhaltsberechtigten Ehegatten sowie seine unterhaltsberechtigten
@@ -215,6 +224,7 @@ Versicherung in angemessener Weise Schutz und Hilfe zu leisten.
 
 
 ### § 7 Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001201118)
 
 (1) Für die Zeit des Entwicklungsdienstes hat der Träger einen
 Gruppenversicherungsvertrag abzuschließen und aufrechtzuerhalten, der
@@ -274,6 +284,7 @@ zur Abwendung einer unbilligen Härte geboten ist.
 
 
 ### § 8 Weitergewährung der Unterhaltsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001301124)
 
 (1) Ist der Entwicklungshelfer an der Dienstleistung verhindert und
 hat er die Verhinderung nicht vorsätzlich herbeigeführt, so hat der
@@ -291,6 +302,7 @@ auch dann, wenn das Dienstverhältnis während der Schutzfristen nach §
 
 
 ### § 9 Tagegeld bei Arbeitsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001406118)
 
 (1) Ist der Entwicklungshelfer arbeitsunfähig, so gewährt ihm der Bund
 im Anschluß an die Leistungen nach § 8 Abs. 1 ein Tagegeld in Höhe des
@@ -368,6 +380,7 @@ andernfalls gilt Absatz 4 entsprechend.
 
 
 ### § 10 Leistungen bei Gesundheitsstörungen oder Tod infolge typischer Risiken des Entwicklungslandes
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001505306)
 
 (1) Ist eine Gesundheitsstörung oder der Tod des Entwicklungshelfers
 auf Verhältnisse zurückzuführen, die dem Entwicklungsland eigentümlich
@@ -402,6 +415,7 @@ der Unfallversicherung entsprechende Anwendung.
 
 
 ### § 11 Leistungen für den Fall der Erwerbsminderung, Erwerbsunfähigkeit, Berufsunfähigkeit oder des Todes
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001605306)
 
 Der Träger ist verpflichtet, den Antrag auf Versicherungspflicht in
 der gesetzlichen Rentenversicherung bei Beginn der Dienstzeit für alle
@@ -428,6 +442,7 @@ gewährleistet ist.
 
 
 ### § 12 Berufliche Wiedereingliederung
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001700314)
 
 Wer nach Beendigung des Entwicklungsdienstes einen neuen Arbeitsplatz
 sucht, soll unter Berücksichtigung der besonderen Erfahrungen und
@@ -437,6 +452,7 @@ gefördert werden.
 
 
 ### § 13 Entgeltersatzleistungen bei Arbeitslosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001807360)
 
 (1) Für einen Anspruch auf Leistungen nach dem Dritten Buch
 Sozialgesetzbuch stehen Zeiten des Entwicklungsdienstes einschließlich
@@ -455,11 +471,13 @@ Verwaltungskosten werden nicht erstattet.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE001901309)
 
 -
 
 
 ### § 15 Tagegeld bei Arbeitslosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002002377)
 
 (1) Wird der Arbeitslose binnen vier Wochen nach Beendigung des
 Entwicklungsdienstes, einer späteren krankenversicherungspflichtigen
@@ -485,6 +503,7 @@ Beendigung des Entwicklungsdienstes drei Jahre vergangen sind. Im
 
 
 ### § 16 Feststellung der Leistungen, Verwaltungszuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002103360)
 
 (1) Die vom Bund nach § 7 Abs. 3, §§ 9, 10 dieses Gesetzes zu
 erbringenden Leistungen werden auf Antrag festgestellt.
@@ -496,6 +515,7 @@ Gesetzes obliegt der Unfallversicherung Bund und Bahn.
 
 
 ### § 17 Beamtenrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002200314)
 
 (1) Bewirbt sich ein Entwicklungshelfer oder früherer
 Entwicklungshelfer, der ein Entwicklungsdienstverhältnis von nicht
@@ -536,6 +556,7 @@ Vorbereitungsdienstes durchgeführt wird.
 
 
 ### § 18 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002300314)
 
 Bei Beendigung des Entwicklungsdienstes kann der Entwicklungshelfer
 von dem Träger ein schriftliches Zeugnis über die Art und Dauer des
@@ -545,6 +566,7 @@ erstrecken.
 
 
 ### § 19 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002401309)
 
 (1) Für bürgerliche Rechtsstreitigkeiten zwischen dem Träger und den
 Entwicklungshelfer sind die Gerichte für Arbeitssachen zuständig.
@@ -555,19 +577,23 @@ Gerichten der Sozialgerichtsbarkeit gegeben.
 
 
 ## III. - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNG000300314)
 
 
 
 ### (XXXX) §§ 20 bis 22
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002500314)
 
 -
 
 
 ## IV. - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNG000400314)
 
 
 
 ### § 23 Bisherige Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002601309)
 
 Hat jemand im Dienst eines Trägers des Entwicklungsdienstes vor dessen
 Anerkennung einen Schaden erlitten, der einen Anspruch auf Leistungen
@@ -588,10 +614,12 @@ anerkannt wurde.
 
 
 ### § 23a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002901118)
 
 
 
 ### § 23b Übergangsvorschrift zu § 13
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE003003118)
 
 Zeiten des Entwicklungsdienstes einschließlich des
 Vorbereitungsdienstes, die vor der Entstehung eines Anspruchs auf
@@ -601,6 +629,7 @@ berücksichtigt.
 
 
 ### § 23c Übergangsvorschrift zu § 10
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE003100309)
 
 Bestand am 31. Dezember 1991 Anspruch auf Leistungen nach § 10 Abs. 1
 und 2, ist § 312 des Sechsten Buches Sozialgesetzbuch auch dann
@@ -609,10 +638,12 @@ dem 31. Dezember 1978 eingetreten ist.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002701118)
 
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehfg/BJNR005490969.html#BJNR005490969BJNE002800314)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tsevorsorgv/BJNR361800005.html#BJNR361800005BJNE000100000)
 
 Auf Grund des § 79a Abs. 2 Nr. 4 in Verbindung mit den §§ 18, 20 Abs.
 1 Nr. 2 und § 24 Abs. 1 und 2 und des § 79a Abs. 2 Nr. 6 in Verbindung
@@ -35,6 +36,7 @@ Verbraucherschutz:
 
 
 ## § 1 Ausnahmen von der Tötung bei Rindern
+[Direktlink](https://www.gesetze-im-internet.de/tsevorsorgv/BJNR361800005.html#BJNR361800005BJNE000200000)
 
 (1) Die zuständige Behörde kann im Falle der amtlichen Feststellung
 von boviner spongiformer Enzephalopathie bei einem Rind Ausnahmen von
@@ -72,6 +74,7 @@ Angabe des Empfängers anzuzeigen ist.
 
 
 ## § 2 Ausnahmen von der Tötung bei Schafen und Ziegen
+[Direktlink](https://www.gesetze-im-internet.de/tsevorsorgv/BJNR361800005.html#BJNR361800005BJNE000300000)
 
 (1) Die zuständige Behörde kann im Falle der amtlichen Feststellung
 einer transmissiblen spongiformen Enzephalopathie bei einem Schaf oder
@@ -131,11 +134,13 @@ genehmigt werden.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tsevorsorgv/BJNR361800005.html#BJNR361800005BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tsevorsorgv/BJNR361800005.html#BJNR361800005BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

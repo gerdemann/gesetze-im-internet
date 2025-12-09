@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1975-09/BJNR025320975.html#BJNR025320975BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß des Europäischen
@@ -69,11 +70,13 @@ liegender Rhombus eingeprägt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1975-09/BJNR025320975.html#BJNR025320975BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1975-09/BJNR025320975.html#BJNR025320975BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1975, 2532

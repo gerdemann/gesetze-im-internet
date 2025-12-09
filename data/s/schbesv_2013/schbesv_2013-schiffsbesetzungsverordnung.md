@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000100000)
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
 auf Grund
@@ -46,6 +47,7 @@ auf Grund
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000201305)
 
 (1) Diese Verordnung gilt für die Besetzung der Kauffahrteischiffe,
 die die Bundesflagge führen (Schiffe).
@@ -75,6 +77,7 @@ gleich.
 
 
 ## § 2 Verpflichtungen des Reeders
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000300000)
 
 (1) Der Reeder hat das Schiff nach Anzahl, Befähigung und Eignung der
 Besatzungsmitglieder so zu besetzen, dass
@@ -121,6 +124,7 @@ der Verpflichtungen des Kapitäns nach § 3 dafür zu sorgen, dass
 
 
 ## § 3 Verpflichtungen des Kapitäns
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000400000)
 
 Der Kapitän hat im Rahmen seiner Befugnisse an Bord des Schiffes dafür
 zu sorgen, dass
@@ -153,12 +157,14 @@ zu sorgen, dass
 
 
 ## § 4 Kapitän
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000501305)
 
 Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän
 Unionsbürger sein.
 
 
 ## § 5 Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000601305)
 
 (1) Auf Schiffen mit einer Bruttoraumzahl von über 500 muss von den
 Offizieren des nautischen oder technischen Schiffsdienstes mindestens
@@ -182,6 +188,7 @@ ersetzt werden.
 
 
 ## § 6 Schiffsarzt, Gesundheits- und Krankenpflegepersonal
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000701124)
 
 (1) Auf Schiffen mit einer Fahrtdauer von mehr als drei Tagen und mit
 100 oder mehr Personen an Bord muss ein den seearbeitsrechtlichen
@@ -205,6 +212,7 @@ Rettungshelfern ersetzt werden.
 
 
 ## § 7 Schiffskoch
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000800000)
 
 (1) Auf jedem Schiff muss ein Schiffskoch vorhanden und für die
 Zubereitung von Speisen ausgebildet und qualifiziert sein. Für diese
@@ -241,6 +249,7 @@ sowie Handhabung und Lagerung von Verpflegung an Bord erhalten hat.
 
 
 ## § 8 Schiffsbesatzungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE000903360)
 
 (1) Die Berufsgenossenschaft erteilt auf Antrag des Reeders ein
 Schiffsbesatzungszeugnis nach dem vom Bundesministerium für Verkehr
@@ -266,6 +275,7 @@ Schiffsbesatzungszeugnis ein.
 
 
 ## § 9 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001000000)
 
 (1) Die Berufsgenossenschaft überwacht die Einhaltung der Vorschriften
 dieser Verordnung und führt die dazu erforderlichen Überprüfungen
@@ -286,6 +296,7 @@ Berufsgenossenschaft unverzüglich die zuständige Hafenbehörde.
 
 
 ## § 9a Gewährleistung eines sicheren Wachdienstes
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001500305)
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass alle zum
 Wachdienst eingeteilten Besatzungsmitglieder die im Internationalen
@@ -332,6 +343,7 @@ Küstenfischerei und in der Kleinen Hochseefischerei.
 
 
 ## § 9b Offene oder teilgedeckte Fischereifahrzeuge in der eingeschränkten passiven Küstenfischerei
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001600360)
 
 Im Falle eines offenen oder teilgedeckten Fischereifahrzeug in der
 eingeschränkten passiven Küstenfischerei, für das ein entsprechendes
@@ -344,6 +356,7 @@ Seediensttauglichkeitszeugnis für den Decksdienst verfügt.
 
 
 ## § 10 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001101305)
 
 (1) Die Berufsgenossenschaft kann auf Antrag des Reeders für ein
 bestimmtes Schiff weitere Schiffsbesatzungszeugnisse erteilen, wenn
@@ -372,6 +385,7 @@ Aufgaben erforderlich ist.
 
 
 ## § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001200000)
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -401,6 +415,7 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 12 Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001302360)
 
 (1) Die Wirksamkeit eines vor Inkrafttreten dieser Verordnung
 erteilten Schiffsbesatzungszeugnisses wird durch das Inkrafttreten
@@ -428,6 +443,7 @@ Infrastruktur gibt den Tag nach Satz 1 im Bundesgesetzblatt bekannt.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schbesv_2013/BJNR257500013.html#BJNR257500013BJNE001400000)
 
 (1) Diese Verordnung tritt am 1. August 2013 in Kraft.
 

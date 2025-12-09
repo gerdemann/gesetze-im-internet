@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000100305)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,12 +31,14 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000200305)
 
 Der Ausbildungsberuf Physiklaborant/Physiklaborantin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000300305)
 
 (1) Die Ausbildung dauert dreieinhalb Jahre.
 
@@ -47,6 +50,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000400305)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -56,6 +60,7 @@ erfolgen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000500305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -184,6 +189,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000600305)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage für die berufliche Grundbildung und für die beruflich
@@ -204,12 +210,14 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000700305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000800305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -218,6 +226,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE000900305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -294,6 +303,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE001000305)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -466,6 +476,7 @@ sind.
 
 
 ## § 10 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE001100305)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
@@ -474,6 +485,7 @@ anzuwenden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE001200305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -482,12 +494,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE001300305)
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin
+[Direktlink](https://www.gesetze-im-internet.de/physlabausbv/BJNR015800996.html#BJNR015800996BJNE001400305)
 
 (Fundstelle: BGBl. I 1996, 161 - 168)
 

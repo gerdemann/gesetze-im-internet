@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000100303)
 
 Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24
 Abs. 4, des § 35 Abs. 2 und des § 76 des Bereinigungsgesetzes für
@@ -27,6 +28,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000200303)
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
@@ -46,6 +48,7 @@ des Auslandsbevollmächtigten.
 Hinterlegung der Bonds
 
 ## § 2 (§ 23 Abs. 2 bis 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000300303)
 
 (1) Eine Hinterlegung von Dollarbonds nach § 23 Abs. 2 bis 5 des
 Gesetzes ist in den Vereinigten Staaten von Amerika vorbehaltlich des
@@ -72,6 +75,7 @@ Regierung der Vereinigten Staaten bezeichneten Weise bekanntzumachen.
 Bereinigungsstelle
 
 ## § 3 (§ 9 Abs. 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000400303)
 
 (1) Die Aufgaben des Auslandsbevollmächtigten mit Ausnahme der sich
 aus § 18 Abs. 1, 2, § 33 Abs. 2, § 63 Abs. 5 des Gesetzes ergebenden
@@ -88,6 +92,7 @@ Gesetzes sinngemäß, soweit diese Verordnung nichts anderes bestimmt.
 Inhalt der Anmeldung und Beweisführung
 
 ## § 4 (§§ 22, 24 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000500303)
 
 (1) Für die Anmeldung soll der Vordruck verwendet werden, der von der
 Bereinigungsstelle zur Verfügung gestellt wird.
@@ -167,6 +172,7 @@ der angemeldete Auslandsbond anzuerkennen.
 Verfahren nach der Anmeldung
 
 ## § 5 (§ 24 Abs. 2, 3, § 27 Abs. 2 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000600303)
 
 (1) Nach Eingang der Anmeldung trifft die Bereinigungsstelle
 diejenigen Maßnahmen, die durch § 24 Abs. 2 des Gesetzes
@@ -202,6 +208,7 @@ der Anordnung zur Aushändigung an den Anmelder zur Verfügung steht.
 Gesetzliche Schiedsgerichte
 
 ## § 6 (§ 35 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000700303)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen der
 Bereinigungsstelle wird für jeden der zwölf Federal-Reserve-Bezirke
@@ -275,6 +282,7 @@ freiem Ermessen.
 Zustellungen
 
 ## § 7 (§ 70 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000800303)
 
 (1) Zustellungen auf Grund dieser Verordnung erfolgen durch
 eingeschriebenen Brief gegen Rückschein.
@@ -285,6 +293,7 @@ des Gesetzes erfolgen in derselben Weise.
 Nebenurkunden
 
 ## § 8 (§ 5 Abs. 1 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE000900303)
 
 Die Anerkennung eines Dollarbonds erstreckt sich auf die dazu
 ausgegebenen Zins-, Gewinnanteil-, Erneuerungs- und Bezugscheine sowie
@@ -293,6 +302,7 @@ Nebenurkunden nicht vorgelegt werden.
 
 
 ## § 9 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE001000303)
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
@@ -301,6 +311,7 @@ diese Verordnung auch im Land Berlin.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_2/BJNR505000953.html#BJNR505000953BJNE001100303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

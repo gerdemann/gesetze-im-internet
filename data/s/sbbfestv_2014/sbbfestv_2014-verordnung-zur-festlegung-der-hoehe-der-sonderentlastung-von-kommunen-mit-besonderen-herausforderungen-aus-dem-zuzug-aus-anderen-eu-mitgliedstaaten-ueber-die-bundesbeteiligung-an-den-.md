@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sbbfestv_2014/BJNR200400014.html#BJNR200400014BJNE000100000)
 
 Auf Grund des § 46 Absatz 7a Satz 2 des Zweiten Buches
 Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
@@ -28,6 +29,7 @@ Soziales:
 
 
 ## § 1 Festlegung der Werte nach § 46 Absatz 7a Satz 2 des Zweiten Buches Sozialgesetzbuch im Jahr 2014
+[Direktlink](https://www.gesetze-im-internet.de/sbbfestv_2014/BJNR200400014.html#BJNR200400014BJNE000200000)
 
 Nach § 46 Absatz 7a Satz 1 des Zweiten Buches Sozialgesetzbuch erhöhen
 sich im Jahr 2014 die in § 46 Absatz 5 Satz 3 des Zweiten Buches
@@ -51,11 +53,13 @@ unverändert.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sbbfestv_2014/BJNR200400014.html#BJNR200400014BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sbbfestv_2014/BJNR200400014.html#BJNR200400014BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

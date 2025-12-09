@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Internationale Verflechtungen
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000100314)
 
 
 
 ### § 1 Berichtigung von Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE000809123)
 
 (1) Werden Einkünfte eines Steuerpflichtigen aus einer
 Geschäftsbeziehung zum Ausland mit einer ihm nahestehenden Person
@@ -366,6 +368,7 @@ Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes
 
 
 ### § 1a Preisanpassungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE003100123)
 
 Sind wesentliche immaterielle Werte oder Vorteile Gegenstand einer
 Geschäftsbeziehung und weicht die tatsächliche spätere
@@ -413,10 +416,12 @@ dann nicht, wenn
 
 
 ## Zweiter Teil - Wohnsitzwechsel in niedrigbesteuernde Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000200314)
 
 
 
 ### § 2 Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE000906377)
 
 (1) Eine natürliche Person, die in den letzten zehn Jahren vor dem
 Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des
@@ -529,11 +534,13 @@ Anwendung der Absätze 1 und 5 ergäbe.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001001301)
 
 (weggefallen)
 
 
 ### § 4 Erbschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001102377)
 
 (1) War bei einem Erblasser oder Schenker zur Zeit der Entstehung der
 Steuerschuld § 2 Abs. 1 Satz 1 anzuwenden, so tritt bei
@@ -553,6 +560,7 @@ würde.
 
 
 ### § 5 Zwischengeschaltete Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001203123)
 
 (1) Sind natürliche Personen, die in den letzten zehn Jahren vor dem
 Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des
@@ -578,10 +586,12 @@ Einkünfte geschuldeten Steuern.
 
 
 ## Dritter Teil - Behandlung einer Beteiligung im Sinne des § 17 des Einkommensteuergesetzes bei Wohnsitzwechsel ins Ausland
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000301301)
 
 
 
 ### § 6 Besteuerung des Vermögenszuwachses
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001311123)
 
 (1) Vorbehaltlich der Vorschriften des Einkommensteuergesetzes,
 Körperschaftsteuergesetzes und Umwandlungssteuergesetzes stehen bei
@@ -749,10 +759,12 @@ abzugeben und vom Steuerpflichtigen eigenhändig zu unterschreiben.
 
 
 ## Vierter Teil - Hinzurechnungsbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000401123)
 
 
 
 ### § 7 Beteiligung an ausländischer Zwischengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001412123)
 
 (1) Beherrscht ein unbeschränkt Steuerpflichtiger eine Körperschaft,
 Personenvereinigung oder Vermögensmasse im Sinne des
@@ -812,6 +824,7 @@ Steuerpflichtigen oder ihm nahestehenden Personen betrieben werden.
 
 
 ### § 8 Einkünfte von Zwischengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001514123)
 
 (1) Eine ausländische Gesellschaft ist Zwischengesellschaft für
 Einkünfte, einschließlich Veräußerungsgewinnen, die einer niedrigen
@@ -1017,6 +1030,7 @@ tatsächlich erhoben werden.
 
 
 ### § 9 Freigrenze bei gemischten Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001604123)
 
 Für die Anwendung des § 7 Absatz 1 sind Einkünfte eines maßgebenden
 Wirtschaftsjahres im Sinne des § 7 Absatz 2, für die eine ausländische
@@ -1028,6 +1042,7 @@ Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt
 
 
 ### § 10 Hinzurechnungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001715123)
 
 (1) Die nach § 7 Absatz 1 steuerpflichtigen Einkünfte sind bei dem
 Steuerpflichtigen als Hinzurechnungsbetrag anzusetzen. Ergibt sich ein
@@ -1092,6 +1107,7 @@ Hinzurechnungsbetrag in Höhe dieser Erträge zu mindern.
 
 
 ### § 11 Kürzungsbetrag bei Beteiligung an ausländischer Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001807123)
 
 (1) Erhält der Steuerpflichtige aus der Beteiligung an einer
 ausländischen Gesellschaft, für die Hinzurechnungsbeträge nach § 10
@@ -1158,6 +1174,7 @@ Gewerbesteuergesetzes.
 
 
 ### § 12 Steueranrechnung
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE001905123)
 
 (1) Auf die Einkommen- oder Körperschaftsteuer des Steuerpflichtigen,
 die auf den Hinzurechnungsbetrag entfällt, werden die Steuern vom
@@ -1182,6 +1199,7 @@ nach den Absätzen 1 und 2 entsprechend anzuwenden.
 
 
 ### § 13 Beteiligung an Kapitalanlagegesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002005123)
 
 (1) Ist ein unbeschränkt Steuerpflichtiger unmittelbar oder mittelbar
 an einer ausländischen Gesellschaft beteiligt und bestehen die
@@ -1241,14 +1259,17 @@ des Investmentsteuergesetzes hält.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002109123)
 
 
 
 ## Fünfter Teil - Familienstiftungen
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000500314)
 
 
 
 ### § 15 Steuerpflicht von Stiftern, Bezugsberechtigten und Anfallsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002204123)
 
 (1) Vermögen und Einkünfte einer Familienstiftung, die
 Geschäftsleitung und Sitz außerhalb des Geltungsbereichs dieses
@@ -1362,10 +1383,12 @@ oder abgezogen.
 
 
 ## Sechster Teil - Ermittlung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000600314)
 
 
 
 ### § 16 Mitwirkungspflicht des Steuerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002300314)
 
 (1) Beantragt ein Steuerpflichtiger unter Berufung auf
 Geschäftsbeziehungen mit einer ausländischen Gesellschaft oder einer
@@ -1386,6 +1409,7 @@ Abgabenordnung eine Versicherung an Eides Statt abzugeben.
 
 
 ### § 17 Sachverhaltsaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002402123)
 
 (1) Zur Anwendung der Vorschriften der §§ 5 und 7 bis 15 haben
 Steuerpflichtige für sich selbst und im Zusammenwirken mit anderen die
@@ -1420,6 +1444,7 @@ Steuerpflichtigen zahlt, sind abzuziehen.
 
 
 ### § 18 Gesonderte Feststellung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002506123)
 
 (1) Die Besteuerungsgrundlagen für die Anwendung der §§ 7 bis 13,
 insbesondere der Hinzurechnungsbetrag (§ 10), die anrechenbaren
@@ -1478,15 +1503,18 @@ bei jedem Steuerpflichtigen zulässig.
 
 
 ## Siebenter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNG000700314)
 
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002601301)
 
 -
 
 
 ### § 20 Bestimmungen über die Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE003007123)
 
 (1) Die Vorschriften der §§ 7 bis 18 und des Absatzes 2 werden durch
 die Abkommen zur Vermeidung der Doppelbesteuerung nicht berührt.
@@ -1508,6 +1536,7 @@ Buchstabe a als Zwischeneinkünfte steuerpflichtig wären.
 
 
 ### § 21 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002734123)
 
 (1) Diese Fassung des Gesetzes gilt, sofern in den folgenden Absätzen
 nichts anderes bestimmt ist,
@@ -1649,6 +1678,7 @@ Betriebsstätte entstanden sind, das nach dem 31. Dezember 2024 endet.
 
 
 ### § 22 Neufassung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/astg/BJNR117130972.html#BJNR117130972BJNE002901301)
 
 Das Bundesministerium der Finanzen kann den Wortlaut dieses Gesetzes
 in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt machen.

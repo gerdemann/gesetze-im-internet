@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusbgebv/BJNR048510022.html#BJNR048510022BJNE000100000)
 
 (1) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-
 Bundesamtes nach dem EU-Fahrgastrechte-Kraftomnibus-Gesetz werden die
@@ -29,6 +30,7 @@ auch die Kosten für die Festsetzung der Gebühren.
 
 
 ## § 2 Auslagenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusbgebv/BJNR048510022.html#BJNR048510022BJNE000200000)
 
 Auslagen werden nach Maßgabe des § 12 Absatz 1 des
 Bundesgebührengesetzes gesondert erhoben.
@@ -36,6 +38,7 @@ Bundesgebührengesetzes gesondert erhoben.
 (zu § 1 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusbgebv/BJNR048510022.html#BJNR048510022BJNE000300000)
 
 (Fundstelle: BGBl. I 2022, 485)
 

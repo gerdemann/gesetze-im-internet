@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000100000)
 
 Auf Grund des § 281 Absatz 2 Satz 4 des Dritten Buches
 Sozialgesetzbuch – Arbeitsförderung –, der durch Artikel 1 Nummer 5
@@ -29,6 +30,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000200000)
 
 Diese Verordnung regelt Art und Umfang der zur Bestimmung des
 Migrationshintergrundes für Zwecke der Statistik der Bundesagentur für
@@ -37,6 +39,7 @@ insbesondere die Erhebung und Verarbeitung der erforderlichen Daten.
 
 
 ## § 2 Erhebungspersonen
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000300000)
 
 Die Daten zu Merkmalen des Migrationshintergrundes nach § 4 Absatz 1
 sind für alle Ausbildung- und Arbeitsuchenden, Arbeitslosen und von
@@ -46,6 +49,7 @@ in einer Bedarfsgemeinschaft leben, zu erheben.
 
 
 ## § 3 Erhebende Stellen
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000400000)
 
 Die für die Erhebung der Daten zu Merkmalen des
 Migrationshintergrundes verantwortlichen Stellen sind die örtlichen
@@ -56,6 +60,7 @@ Sozialgesetzbuch (erhebende Stellen).
 
 
 ## § 4 Daten zu Merkmalen des Migrationshintergrundes
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000500000)
 
 (1) Für alle in § 2 genannten Personen ist von den erhebenden Stellen
 als Daten zu Merkmalen des Migrationshintergrundes einmalig zu
@@ -96,6 +101,7 @@ Erhebung zu kennzeichnen.
 
 
 ## § 5 Anforderungen an die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000600000)
 
 (1) Die Daten zu Merkmalen des Migrationshintergrundes sind von den
 erhebenden Stellen unter Angabe der Kundennummer automatisiert und
@@ -111,6 +117,7 @@ Zwecke und in ihren abgeschotteten statistischen Einheiten verwenden.
 
 
 ## § 6 Bestimmung des Migrationshintergrundes
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000700000)
 
 Aus den in § 4 Absatz 1 genannten Daten hat die Bundesagentur für
 Arbeit zur Erfüllung ihrer Aufgaben nach § 281 Absatz 1 des Dritten
@@ -143,6 +150,7 @@ Bundesrepublik Deutschland nach 1949 erfolgte.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mighev/BJNR137200010.html#BJNR137200010BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

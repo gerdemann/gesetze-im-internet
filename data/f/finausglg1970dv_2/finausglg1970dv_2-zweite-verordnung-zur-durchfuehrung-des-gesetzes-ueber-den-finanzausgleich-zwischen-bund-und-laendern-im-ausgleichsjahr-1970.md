@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000100314)
 
 Auf Grund des § 12 des Gesetzes über den Finanzausgleich zwischen Bund
 und Ländern vom 28. August 1969 (Bundesgesetzbl. I S. 1432), zuletzt
@@ -29,6 +30,7 @@ verordnet:
 
 
 ## § 1 Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 1970
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000200314)
 
 Für das Ausgleichsjahr 1970 werden als Länderanteile an der
 Umsatzsteuer festgestellt:
@@ -92,6 +94,7 @@ Umsatzsteuer festgestellt:
 
 
 ## § 2 Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 1970
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000300314)
 
 Für das Ausgleichsjahr 1970 werden festgestellt:
 
@@ -161,6 +164,7 @@ Für das Ausgleichsjahr 1970 werden festgestellt:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000400314)
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und
 den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach §
@@ -240,6 +244,7 @@ dem Inkrafttreten dieser Verordnung fällig:
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000500314)
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
@@ -248,12 +253,14 @@ Bund und Ländern auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000600314)
 
 Diese Verordnung tritt am siebenten Tag nach ihrer Verkündung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_2/BJNR003290973.html#BJNR003290973BJNE000700314)
 
 Der Bundesminister der Finanzen
 

@@ -23,11 +23,13 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrabkg/BJNR206390954.html#BJNR206390954BJNE000100314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrabkg/BJNR206390954.html#BJNR206390954BJNE000200314)
 
 (1)
 
@@ -36,6 +38,7 @@ ist im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrabkg/BJNR206390954.html#BJNR206390954BJNE000300314)
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates,
 soweit dies im Interesse der Pflege internationaler Beziehungen
@@ -82,6 +85,7 @@ erforderlich ist, Rechtsverordnungen zu erlassen
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrabkg/BJNR206390954.html#BJNR206390954BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, wenn das Land Berlin seine
 Anwendung feststellt. Rechtsverordnungen, die auf Grund dieses
@@ -90,6 +94,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrabkg/BJNR206390954.html#BJNR206390954BJNE000500314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

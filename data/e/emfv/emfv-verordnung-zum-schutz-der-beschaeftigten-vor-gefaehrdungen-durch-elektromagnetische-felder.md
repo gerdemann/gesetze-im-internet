@@ -21,9 +21,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000200000)
 
 (1) Diese Verordnung gilt zum Schutz der Beschäftigten bei der Arbeit
 vor tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und
@@ -62,6 +64,7 @@ andere Weise gewährleistet werden können.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000300000)
 
 (1) Im Sinne dieser Verordnung gelten die Begriffsbestimmungen der
 Absätze 2 bis 10.
@@ -231,9 +234,11 @@ die in Anhang 1 enthaltenen Definitionen zugrunde zu legen.
 
 
 ## Abschnitt 2 - Gefährdungsbeurteilung; Fachkundige Personen; Messungen, Berechnungen und Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000200000)
 
 
 ### § 3 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000400000)
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des
 Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob
@@ -385,6 +390,7 @@ vorzusehen.
 
 
 ### § 4 Fachkundige Personen; Messungen, Berechnungen und Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000500000)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass die
 Gefährdungsbeurteilung, die Messungen, die Berechnungen oder die
@@ -422,12 +428,15 @@ repräsentative Stichprobenerhebungen erfolgen.
 
 
 ## Abschnitt 3 - Expositionsgrenzwerte und Auslöseschwellen; Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000300000)
 
 
 ### Unterabschnitt 1 - Expositionsgrenzwerte und Auslöseschwellen; allgemeine Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000400000)
 
 
 #### § 5 Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische Felder
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000600000)
 
 Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische
 Felder sind in den Anhängen 2 und 3 festgelegt. Die zugehörigen
@@ -435,6 +444,7 @@ physikalischen Größen sind in Anhang 1 festgelegt.
 
 
 #### § 6 Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch elektromagnetische Felder
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000700000)
 
 (1) Der Arbeitgeber hat die nach § 3 Absatz 1 Satz 9 festgelegten
 Maßnahmen nach dem Stand der Technik durchzuführen, um Gefährdungen
@@ -586,9 +596,11 @@ Folgendes umfassen:
 
 
 ### Unterabschnitt 2 - Besondere Festlegungen zum Schutz vor Gefährdungen durch statische Magnetfelder
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000500000)
 
 
 #### § 7 Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen bei Tätigkeiten im statischen Magnetfeld über 2 Tesla
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000800000)
 
 Bei Überschreitung des Expositionsgrenzwertes für sensorische
 Wirkungen unter normalen Arbeitsbedingungen im statischen Magnetfeld
@@ -632,6 +644,7 @@ sorgen, dass
 
 
 #### § 8 100 Millitesla)
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE000900000)
 
 (1) Bei Überschreitung der unteren Auslöseschwellen für die
 Projektilwirkung von ferromagnetischen Gegenständen im Streufeld von
@@ -666,6 +679,7 @@ zu minimieren. Dazu zählen insbesondere folgende Maßnahmen:
 
 
 #### § 9 Besondere Festlegungen für die Überschreitung der oberen Auslöseschwelle für die Beeinflussung von implantierten aktiven oder am Körper getragenen medizinischen Geräten in statischen Magnetfeldern
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001000000)
 
 Bei Überschreitung der oberen Auslöseschwelle nach Anhang 2 Tabelle
 A2.10 hat der Arbeitgeber weitere Maßnahmen nach § 6 Absatz 2 zu
@@ -691,9 +705,11 @@ minimieren. Dazu zählen insbesondere folgende Maßnahmen:
 
 
 ### Unterabschnitt 3 - Besondere Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000600000)
 
 
 #### § 10 Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001100000)
 
 Bei Überschreitung der unteren Auslöseschwellen für externe
 elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
@@ -769,6 +785,7 @@ dass
 
 
 #### § 11 Besondere Festlegungen für die Überschreitung der oberen Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001200000)
 
 Bei Überschreitung der oberen Auslöseschwellen für die Exposition
 gegenüber externen elektrischen Feldern im Frequenzbereich von 0 Hertz
@@ -781,6 +798,7 @@ sind. Zu den Maßnahmen zählen insbesondere spezielle Unterweisungen.
 
 
 #### § 12 Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für magnetische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001300000)
 
 Bei Überschreitung der unteren Auslöseschwellen für die Exposition
 gegenüber magnetischen Feldern im Frequenzbereich von 0 Hertz bis 10
@@ -822,6 +840,7 @@ Arbeitsverfahren zur Verfügung stehen, dafür zu sorgen, dass
 
 
 #### § 13 Besondere Festlegungen für die Überschreitung der Auslöseschwellen für Kontaktströme bei berührendem Kontakt
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001400000)
 
 Bei Überschreitung der Auslöseschwellen für Kontaktströme
 I
@@ -848,6 +867,7 @@ Arbeitsmittel zur Verfügung stehen, dafür zu sorgen, dass
 
 
 #### § 14 Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen im Frequenzbereich bis 400 Hertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001500000)
 
 Bei Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen
 für im Frequenzbereich bis 400 Hertz nach Anhang 2 Tabelle A2.4 hat
@@ -873,9 +893,11 @@ festgelegten Maßnahmen entsprechend der Gefährdungsbeurteilung
 
 
 ### Unterabschnitt 4 - Besondere Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000700000)
 
 
 #### § 15 Besondere Festlegungen für die Überschreitung der Auslöseschwellen für elektromagnetische Felder im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001600000)
 
 (1) Bei Überschreitung der Auslöseschwellen für die Exposition
 gegenüber elektromagnetischen Feldern im Frequenzbereich von 100
@@ -909,6 +931,7 @@ Sie sind daher gesondert zu betrachten.
 
 
 #### § 16 Besondere Festlegungen für die Überschreitung der Auslöseschwellen für stationäre Kontaktströme oder induzierte Ströme durch die Gliedmaßen im Frequenzbereich von 100 Kilohertz bis 110 Megahertz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001700000)
 
 Bei Überschreitung der Auslöseschwellen für stationäre Kontaktströme
 I
@@ -934,6 +957,7 @@ Tabelle A3.5 hat der Arbeitgeber dafür zu sorgen, dass
 
 
 #### § 17 Besondere Festlegungen für die Überschreitung des Expositionsgrenzwertes der lokalen spezifischen Energieabsorption für sensorische Wirkungen von gepulsten elektromagnetischen Feldern im Frequenzbereich von 0,3 Gigahertz bis 6 Gigahertz (Mikrowellenhören)
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001800000)
 
 Bei Überschreitung des Expositionsgrenzwertes der lokalen spezifischen
 Energieabsorption
@@ -966,9 +990,11 @@ festgelegten Maßnahmen entsprechend der Gefährdungsbeurteilung
 
 
 ### Unterabschnitt 5 - Besondere Festlegungen zum Schutz vor Gefährdungen durch elektromagnetische Felder bei medizinischen Anwendungen von Magnetresonanzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000800000)
 
 
 #### § 18 Besondere Festlegungen für die Überschreitung von Expositionsgrenzwerten bei medizinischen Anwendungen von Magnetresonanzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE001900000)
 
 Abweichend von den §§ 7 bis 16 hat der Arbeitgeber bei einer
 Überschreitung der Expositionsgrenzwerte nach den Anhängen 2 und 3 bei
@@ -1016,9 +1042,11 @@ am Patienten oder damit verknüpften Forschungsarbeiten
 
 
 ## Abschnitt 4 - Unterweisung der Beschäftigten; Beratung durch den Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG000900000)
 
 
 ### § 19 Unterweisung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002000000)
 
 (1) Bei Gefährdungen der Beschäftigten durch elektromagnetische Felder
 am Arbeitsplatz stellt der Arbeitgeber sicher, dass die betroffenen
@@ -1079,6 +1107,7 @@ Verordnung zur arbeitsmedizinischen Vorsorge zu beteiligen.
 
 
 ### § 20 Beratung durch den Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002101126)
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der
 Sicherheit und des Gesundheitsschutzes bei elektromagnetischen Feldern
@@ -1088,9 +1117,11 @@ entsprechend.
 
 
 ## Abschnitt 5 - Ausnahmen; Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNG001000000)
 
 
 ### § 21 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002200000)
 
 (1) Die zuständige Behörde kann auf schriftlichen oder elektronischen
 Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 17 zulassen, wenn
@@ -1133,6 +1164,7 @@ Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
 
 
 ### § 22 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002300000)
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1221,6 +1253,7 @@ Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
 
 ### Anhang 1 Physikalische Größen im Zusammenhang mit der Exposition gegenüber elektromagnetischen Feldern
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002400000)
 
 (Fundstelle: BGBl. I 2016, 2542)
 
@@ -1337,6 +1370,7 @@ W direkt am Arbeitsplatz des Beschäftigten messen.
 
 
 ### Anhang 2 Nichtthermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für statische und zeitveränderliche elektrische und magnetische Felder im Frequenzbereich bis 10 MHz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002500000)
 
 (Fundstelle: BGBl. I 2016, 2543 - 2545)
 
@@ -1898,6 +1932,7 @@ W direkt am Arbeitsplatz des Beschäftigten messen.
 
 
 ### Anhang 3 Thermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für zeitveränderliche elektromagnetische Felder im Frequenzbereich von 100 kHz bis 300 GHz
+[Direktlink](https://www.gesetze-im-internet.de/emfv/BJNR253110016.html#BJNR253110016BJNE002600000)
 
 (Fundstelle: BGBl. I 2016, 2546 - 2547)
 

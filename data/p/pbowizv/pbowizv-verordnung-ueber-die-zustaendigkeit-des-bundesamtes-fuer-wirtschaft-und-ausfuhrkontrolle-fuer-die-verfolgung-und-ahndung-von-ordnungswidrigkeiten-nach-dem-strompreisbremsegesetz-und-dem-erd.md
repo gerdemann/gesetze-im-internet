@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbowizv/BJNR0E50A0023.html#BJNR0E50A0023BJNE000100000)
 
 Auf Grund des § 48 Absatz 1 Nummer 1a des Strompreisbremsegesetzes vom
 20\. Dezember 2022 (BGBl. I S. 2512), dessen Nummer 1a durch Artikel 2
@@ -29,6 +30,7 @@ der Finanzen:
 
 
 ## § 1 Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/pbowizv/BJNR0E50A0023.html#BJNR0E50A0023BJNE000200000)
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten ist sowohl in den Fällen des § 43 Absatz 4
@@ -40,6 +42,7 @@ Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbowizv/BJNR0E50A0023.html#BJNR0E50A0023BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

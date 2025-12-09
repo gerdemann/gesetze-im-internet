@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/deutschepostbankagzustano_2006/BJNR129200006.html#BJNR129200006BJNE000100000)
 
 Auf Grund des § 3 Abs. 2 Satz 4 des Postpersonalrechtsgesetzes wird
 die Befugnis, Beamtinnen und Beamte der Besoldungsordnung A zu
@@ -30,6 +31,7 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/deutschepostbankagzustano_2006/BJNR129200006.html#BJNR129200006BJNE000200000)
 
 Der Bundesminister der Finanzen
 

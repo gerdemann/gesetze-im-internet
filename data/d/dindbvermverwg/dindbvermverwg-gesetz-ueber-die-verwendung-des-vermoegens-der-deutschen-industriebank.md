@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000100325)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000200325)
 
 (1) Das Vermögen der Deutschen Industriebank darf im Wege der
 Verschmelzung auf die Industriekreditbank Aktiengesellschaft
@@ -63,6 +65,7 @@ Satzung sicherstellt, daß
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000300325)
 
 Mit der Eintragung der Verschmelzung in das Handelsregister des Sitzes
 der übertragenden Gesellschaft wird die gemäß § 1 Abs. 2 errichtete
@@ -71,11 +74,13 @@ Aktiengesellschaft Aktionär der übernehmenden Gesellschaft.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000400325)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000500325)
 
 (1) Die Deutsche Industriebank bleibt auch nach dem Inkrafttreten
 dieses Gesetzes eine Aktiengesellschaft. Die für Aktiengesellschaften
@@ -89,11 +94,13 @@ am Sitz der Deutschen Industriebank anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000600325)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000700325)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -101,6 +108,7 @@ im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/dindbvermverwg/BJNR010370974.html#BJNR010370974BJNE000800325)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

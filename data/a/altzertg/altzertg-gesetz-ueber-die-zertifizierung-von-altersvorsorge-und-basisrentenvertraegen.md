@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen zum Altersvorsorgevertrag
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000118126)
 
 (1) Ein Altersvorsorgevertrag im Sinne dieses Gesetzes liegt vor, wenn
 zwischen dem Anbieter und einer natürlichen Person (Vertragspartner)
@@ -409,6 +410,7 @@ berücksichtigen.
 
 
 ## § 2 Begriffsbestimmungen zum Basisrentenvertrag
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000205119)
 
 (1) Ein Basisrentenvertrag im Sinne dieses Gesetzes liegt vor, wenn
 zwischen dem Anbieter und einer natürlichen Person (Vertragspartner)
@@ -491,6 +493,7 @@ des Absatzes 1 oder des Absatzes 1a sowie dem § 2a fest.
 
 
 ## § 2a Kostenstruktur
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001602126)
 
 Ein Altersvorsorgevertrag oder ein Basisrentenvertrag darf
 ausschließlich die nachfolgend genannten Kostenarten vorsehen:
@@ -559,6 +562,7 @@ anzuwenden.
 
 
 ## § 3 Zertifizierungsstelle, Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000304377)
 
 (1) Zertifizierungsstelle ist das Bundeszentralamt für Steuern.
 
@@ -580,6 +584,7 @@ zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
 
 
 ## § 3a Produktinformationsstelle Altersvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001700360)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, die Aufgaben
 nach § 3 Absatz 2 Satz 2 und 3 einer juristischen Person des
@@ -609,6 +614,7 @@ Genehmigung des Bundesministeriums der Finanzen.
 
 
 ## § 4 Antrag, Ergänzungsanforderungen, Ergänzungsanzeigen, Ausschlussfristen
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000403119)
 
 (1) Die Zertifizierung erfolgt auf Antrag des Anbieters. Mit dem
 Antrag sind vorzulegen:
@@ -665,6 +671,7 @@ Satz 2 ist eine Ausschlussfrist.
 
 
 ## § 5 Zertifizierung von Altersvorsorgeverträgen
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000504360)
 
 Die Zertifizierungsstelle erteilt die Zertifizierung nach § 1 Abs. 3,
 wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen
@@ -674,6 +681,7 @@ der Anbieter den Anforderungen des § 1 Absatz 2 entspricht.
 
 
 ## § 5a Zertifizierung von Basisrentenverträgen
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001502360)
 
 Die Zertifizierungsstelle erteilt die Zertifizierung nach § 2 Abs. 3,
 wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen
@@ -683,6 +691,7 @@ den Anforderungen des § 2 Absatz 2 entspricht.
 
 
 ## § 6 Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000605119)
 
 Zum Schutz der Verbraucher, insbesondere zur besseren Vergleichbarkeit
 der Produkte sowie zur Vereinheitlichung des Verfahrens, kann das
@@ -698,6 +707,7 @@ Bundesrates bedarf, auf das Bundeszentralamt für Steuern übertragen.
 
 
 ## § 7 Informationspflichten im Produktinformationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000712126)
 
 (1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags hat
 den Vertragspartner rechtzeitig durch ein individuelles
@@ -864,6 +874,7 @@ einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zu
 
 
 ## § 7a Jährliche Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001804126)
 
 (1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags ist
 verpflichtet, den Vertragspartner jährlich bis zum Ablauf des auf das
@@ -926,6 +937,7 @@ Absatz 6 Satz 2 genannten Anwendungszeitpunkt abgeschlossen wurden.
 
 
 ## § 7b Information vor der Auszahlungsphase des Altersvorsorgevertrags
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001903126)
 
 (1) Sind aus einem Altersvorsorgevertrag Leistungen nach § 1 Absatz 1
 Satz 1 Nummer 4 zu erbringen, hat ein Anbieter von
@@ -997,6 +1009,7 @@ Zinssatzes nach § 246 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
 
 ## § 7c Kostenänderung
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE002002126)
 
 Ein Anbieter hat dem Vertragspartner eine Änderung der Kosten, die im
 individuellen Produktinformationsblatt nach § 7 Absatz 1 Satz 1
@@ -1032,6 +1045,7 @@ gesonderten Blatt auszuweisen.
 
 
 ## § 7d Sicherung bei Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE002100360)
 
 Zur Erfüllung ihrer Verpflichtung aus § 1 Absatz 2 Satz 1 Nummer 4
 Buchstabe b hat die Genossenschaft dem Vertragspartner einen
@@ -1052,6 +1066,7 @@ wird.
 
 
 ## § 7e Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE002200360)
 
 Dem Vertragspartner steht bei einem nach diesem Gesetz zertifizierten
 Vertrag, unbeschadet anderer Regelungen, ein Widerrufsrecht nach § 355
@@ -1062,6 +1077,7 @@ Widerrufsrecht nach Satz 1 ausgeschlossen.
 
 
 ## § 7f Prüfkompetenz
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE002301126)
 
 Die Zertifizierungsstelle kann anlassunabhängig prüfen, ob der
 Anbieter eines Altersvorsorgevertrags oder eines Basisrentenvertrags
@@ -1069,6 +1085,7 @@ seine Pflichten nach § 7 erfüllt hat.
 
 
 ## § 8 Rücknahme, Widerruf und Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000807119)
 
 (1) Die Zertifizierungsstelle kann den Antrag auf Zertifizierung eines
 Altersvorsorgevertrages ablehnen oder die Zertifizierung eines
@@ -1131,6 +1148,7 @@ des Genossenschaftsgesetzes vornehmen wird.
 
 
 ## § 9 Rechtsbehelf und sofortige Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE000901308)
 
 Einspruch und Klage richten sich nach den Vorschriften der
 Abgabenordnung und der Finanzgerichtsordnung. Sie haben keine
@@ -1138,6 +1156,7 @@ aufschiebende Wirkung.
 
 
 ## § 10 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001002308)
 
 Die Zertifizierungsstelle macht die Zertifizierung sowie den Widerruf,
 die Rücknahme oder den Verzicht durch eine Veröffentlichung des Namens
@@ -1147,6 +1166,7 @@ Zertifizierung von Verträgen im Sinne des § 4 Abs. 2 Satz 1.
 
 
 ## § 11 Verschwiegenheitspflicht und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001105126)
 
 (1) Die bei der Zertifizierungsbehörde beschäftigten oder von ihr
 beauftragen Personen dürfen bei ihrer Tätigkeit erhaltene vertrauliche
@@ -1192,6 +1212,7 @@ Abgabenordnung.
 
 
 ## § 12 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001204360)
 
 (1) Die Zertifizierungsstelle erhebt für die Bearbeitung eines
 Antrags, einen Altersvorsorgevertrag oder einen Basisrentenvertrag zu
@@ -1224,6 +1245,7 @@ gegeben.
 
 
 ## § 13 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001304126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1256,6 +1278,7 @@ mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/altzertg/BJNR132200001.html#BJNR132200001BJNE001410119)
 
 (1) Für Verträge, die nach § 5 in der am 31. Dezember 2004 geltenden
 Fassung zertifiziert wurden und die alle die in Artikel 7 Nr. 1 des

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000100000)
 
 Auf Grund
 
@@ -52,6 +53,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Bezugsgrößen in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000200000)
 
 (1) Die Bezugsgröße nach § 18 Absatz 1 des Vierten Buches
 Sozialgesetzbuch für das Jahr 2023 beträgt 40 740 Euro. Umgerechnet
@@ -63,6 +65,7 @@ auf den Monat ergeben sich 3 290 Euro.
 
 
 ## § 2 Jahresarbeitsentgeltgrenzen in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000300000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
 Buches Sozialgesetzbuch wird für das Jahr 2023 auf 66 600 Euro
@@ -74,6 +77,7 @@ festgesetzt. Umgerechnet auf den Monat ergeben sich 4 987,50 Euro.
 
 
 ## § 3 Durchschnittsentgelte in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000400000)
 
 (1) Das Durchschnittsentgelt nach § 69 Absatz 2 Satz 1 Nummer 1 des
 Sechsten Buches Sozialgesetzbuch für das Jahr 2021 beträgt 40 463
@@ -88,6 +92,7 @@ ergänzt.
 
 
 ## § 4 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000500000)
 
 (1) Die Beitragsbemessungsgrenze nach § 159 des Sechsten Buches
 Sozialgesetzbuch wird für das Jahr 2023 wie folgt festgesetzt:
@@ -124,11 +129,13 @@ Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird um den Zeitraum
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2023/BJNR212800022.html#BJNR212800022BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

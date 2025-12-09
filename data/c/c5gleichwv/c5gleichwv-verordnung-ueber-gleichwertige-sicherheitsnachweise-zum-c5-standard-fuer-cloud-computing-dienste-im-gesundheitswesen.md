@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/c5gleichwv/BJNR05B0A0025.html#BJNR05B0A0025BJNE000100000)
 
 Auf Grund des § 393 Absatz 4 Satz 4 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 2 Nummer 6 des Gesetzes vom 22.
@@ -27,6 +28,7 @@ Sicherheit in der Informationstechnik:
 
 
 ## § 1 Nachweise für ein gleichwertiges Sicherheitsniveau zum C5-Kriterienkatalog
+[Direktlink](https://www.gesetze-im-internet.de/c5gleichwv/BJNR05B0A0025.html#BJNR05B0A0025BJNE000200000)
 
 (1) Eine Testierung oder Zertifizierung eines Cloud-Computing-Dienstes
 nach einem nachfolgend aufgezählten Standard (alternativer Standard)
@@ -95,6 +97,7 @@ Aufsichtsbehörden auf deren Verlangen hin unverzüglich vorzulegen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/c5gleichwv/BJNR05B0A0025.html#BJNR05B0A0025BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 2024 in Kraft.
 

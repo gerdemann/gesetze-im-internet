@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000100326)
 
 Auf Grund des § 55 Abs. 2 des Umstellungsergänzungsgesetzes vom 21.
 September 1953 (Bundesgesetzbl. I S. 1439) verordnet die
@@ -28,6 +29,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000200326)
 
 (1) Ansprüche aus vor dem 9. Mai 1945 ausgegebenen
 Schuldverschreibungen der in der Anlage 1 aufgeführten Berliner
@@ -53,6 +55,7 @@ Ansprüche
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000300326)
 
 (1) Vermittlungsstelle ist für Ansprüche aus Schuldverschreibungen,
 die im Wertpapierbereinigungsverfahren angemeldet worden sind, das
@@ -72,6 +75,7 @@ Wertpapierbereinigungsverfahren tätig gewesen ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000400326)
 
 (1) Ist der Anspruch aus der Schuldverschreibung im
 Wertpapierbereinigungsverfahren angemeldet worden, so kann die
@@ -153,6 +157,7 @@ Berliner Wertpapierbereinigungsgesetzes) abzugeben.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000500326)
 
 Ist für eine Schuldverschreibung eine Lieferbarkeitsbescheinigung
 ausgestellt worden, so kann die Vermittlungsstelle den Anspruch ohne
@@ -187,12 +192,14 @@ Auftrag des Berechtigten (§ 1 Abs. 1) für ihn anmelden, sofern sie
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000600326)
 
 Die Vermittlungsstelle hat den Berechtigten von einer Anmeldung nach §
 3 oder § 4 zu benachrichtigen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000700326)
 
 Ist der Vermittlungsstelle bekannt, daß der Anspruch aus der
 Schuldverschreibung nach § 5 der Fünfunddreißigsten
@@ -203,6 +210,7 @@ Umstellungsrechnung abgelehnt worden ist.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000800326)
 
 Nimmt der Berechtigte die Anmeldung selbst vor, so hat er Unterlagen
 über den Wohnsitz oder dauernden Aufenthaltsort, den Sitz oder Ort der
@@ -212,6 +220,7 @@ Gläubiger war.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE000900326)
 
 (1) Die Anmeldung ist nach dem Muster AE (Anlage 2) vorzunehmen.
 
@@ -235,6 +244,7 @@ Schuldnerinstitut einzureichen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE001000326)
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1) in Verbindung mit § 57 Abs. 1 des
@@ -243,12 +253,14 @@ Verordnung auch in Berlin (West).
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE001100326)
 
 Die Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 Berliner Altbanken, die Schuldverschreibungen ausgegeben haben
 
 ## Anlage 1 (Emissionsinstitute)
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE001200326)
 
 Fundstelle des Originaltextes: BGBl. III 7601-1-2, S 24
 
@@ -348,6 +360,7 @@ Fundstelle des Originaltextes: BGBl. III 7601-1-2, S 24
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE001300326)
 
 Fundstelle des Originaltextes: BGBl. Teil III 7601-1-2, S. 25 u. 26
 (Vorderseite)
@@ -507,6 +520,7 @@ von dem Berechtigten erstattet werden.
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/_rggdv_2/BJNR508100954.html#BJNR508100954BJNE001400326)
 
 Fundstelle des Originaltextes: BGBl. Teil III 7601-1-2, S. 27 u. 28
 (Vorderseite)

@@ -18,16 +18,19 @@ Fundstelle
 Stand: Zuletzt geändert Art. 4 G v. 24.2.2021 I 274
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE000700308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## I. Abschnitt - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNG000100308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE000801310)
 
 (1) Wer die Berufsbezeichnung "Orthoptistin" oder "Orthoptist" führen
 will, bedarf der Erlaubnis.
@@ -45,6 +48,7 @@ Gemeinschaften eine Gleichstellung ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE000907116)
 
 (1) Die Erlaubnis nach § 1 ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -208,6 +212,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002200310)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Orthoptisten ausgeübt wird oder zuletzt ausgeübt worden ist,
@@ -244,6 +249,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 2b
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002600116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -342,10 +348,12 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## II. Abschnitt - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNG000200308)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001000308)
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs dazu
 befähigen, insbesondere bei der Prävention, Diagnose und Therapie von
@@ -354,6 +362,7 @@ Sehschwächen und Augenzittern mitzuwirken (Ausbildungsziel).
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001100308)
 
 Die Ausbildung besteht aus theoretischem und praktischem Unterricht
 und einer praktischen Ausbildung. Sie wird durch staatlich anerkannte
@@ -362,6 +371,7 @@ schließt mit der staatlichen Prüfung ab und dauert drei Jahre.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001200308)
 
 Voraussetzung für den Zugang zur Ausbildung ist
 
@@ -379,6 +389,7 @@ Voraussetzung für den Zugang zur Ausbildung ist
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001300308)
 
 Auf die Dauer der Ausbildung werden angerechnet
 
@@ -398,6 +409,7 @@ durch die Anrechnung nicht gefährdet wird.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001400308)
 
 Die zuständige Behörde kann auf Antrag eine andere Ausbildung im
 Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung anrechnen,
@@ -406,6 +418,7 @@ Ausbildungsziels dadurch nicht gefährdet werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001511116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -461,6 +474,7 @@ Fristenregelungen vorsehen.
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002302116)
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die zur Ausübung des Berufs des Orthoptisten in
@@ -567,6 +581,7 @@ Bescheinigungen darüber auszustellen, dass
 
 
 ### § 8b
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002401116)
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
 berechtigt, für jede Dienstleistungserbringung von den zuständigen
@@ -584,6 +599,7 @@ disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 
 
 ### § 8c
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002500310)
 
 Orthoptistinnen oder Orthoptisten im Sinne des § 8a haben beim
 Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die
@@ -594,10 +610,12 @@ dieses Dienstleistungserbringers hierüber zu unterrichten.
 
 
 ## III. Abschnitt - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNG000300308)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001601310)
 
 (1) Die Entscheidung nach § 1 Abs. 1 trifft die zuständige Behörde des
 Landes, in dem der Antragsteller die Prüfung abgelegt hat.
@@ -620,10 +638,12 @@ des Orthoptisten ausübt.
 
 
 ## IV. Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNG000400308)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001701320)
 
 (1) Ordnungswidrig handelt, wer ohne Erlaubnis nach § 1 die
 Berufsbezeichnung "Orthoptistin" oder "Orthoptist" führt.
@@ -633,10 +653,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## V. Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNG000500308)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001800308)
 
 (1) Eine auf Grund der in § 13 Satz 2 bezeichneten Bestimmungen
 erteilte staatliche Anerkennung als "Orthoptistin" oder "Orthoptist"
@@ -663,6 +685,7 @@ die staatliche Prüfung nach diesem Gesetz ablegt.
 
 
 ### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002100307)
 
 (1) Eine vor dem 1. September 1991 nach der Anordnung über die
 staatliche Erlaubnis zur Ausübung der medizinischen, pharmazeutischen
@@ -680,15 +703,18 @@ Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
 
 
 ## VI. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNG000600308)
 
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE001901310)
 
 -
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/orthoptg/BJNR020610989.html#BJNR020610989BJNE002000308)
 
 Dieses Gesetz tritt mit Ausnahme des § 8 am 1. Januar 1990 in Kraft.
 Gleichzeitig treten außer Kraft:

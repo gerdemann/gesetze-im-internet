@@ -20,6 +20,7 @@ Fundstelle
 Stand: Der Staatsvertrag ist gem. § 3 iVm Bek. v. 12.4.2019 I 496 am 1.1.2019 in Kraft getreten
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000100000)
 
 Aus zeitgeschichtlichen Gründen wurde die Deutsche Dienststelle für
 die Benachrichtigung der nächsten Angehörigen von Gefallenen der
@@ -35,6 +36,7 @@ gehören und perspektivisch zu Archivgut werden.
 
 
 ## Art 1 Auflösung, Übergang
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000200000)
 
 Die Deutsche Dienststelle (WASt) als Behörde des Landes Berlin ist mit
 Inkrafttreten dieses Staatsvertrags aufgelöst. Alle die Deutsche
@@ -49,6 +51,7 @@ Verbindlichkeiten verantwortlich.
 
 
 ## Art 2 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000300000)
 
 (1) Mit Inkrafttreten dieses Staatsvertrags tritt die Bundesrepublik
 Deutschland nach Maßgabe der folgenden Absätze in die Rechte und
@@ -116,12 +119,14 @@ Ausbildungsverhältnisse sind unzulässig.
 
 
 ## Art 3 Dienstort
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000400000)
 
 Die in Artikel 2 genannten Beschäftigten werden am Dienstort Berlin
 übernommen.
 
 
 ## Art 4 Rechtliche Folgeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000500000)
 
 (1) Für erforderliche rechtliche Änderungen im Bundesrecht und im
 Berliner Landesrecht tragen Bund und das Land Berlin in jeweils
@@ -133,6 +138,7 @@ Absprachen auf Verwaltungsebene getroffen werden.
 
 
 ## Art 5 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000600000)
 
 Dieser Staatsvertrag bedarf der Ratifikation. Er tritt am ersten Tag
 des auf den Austausch der Ratifikationsurkunden folgenden Monats in
@@ -145,6 +151,7 @@ ihres § 8 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtr/BJNR225800018.html#BJNR225800018BJNE000700000)
 
 
 

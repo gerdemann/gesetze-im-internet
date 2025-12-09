@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## I. - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000100311)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001000311)
 
 
 1.  Die Firma lautet:
@@ -44,6 +46,7 @@ Fundstelle
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001100311)
 
 
 1.  Die Aktiengesellschaft dient als Zentralkreditinstitut der Förderung
@@ -87,10 +90,12 @@ Fundstelle
 
 
 ## II. - Grundkapital und Aktien
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000200311)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001200311)
 
 
 1.  Das Grundkapital der Aktiengesellschaft beträgt DM 2.533.920.000,- und
@@ -114,6 +119,7 @@ Fundstelle
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001300311)
 
 
 1.  Die Übertragung von Namensaktien und von aus den Namensaktien
@@ -139,10 +145,12 @@ Fundstelle
 
 
 ## III. - Organe der Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000300311)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001400311)
 
 Die Organe der Aktiengesellschaft sind:
 
@@ -159,10 +167,12 @@ c)  die Hauptversammlung.
 
 
 ## IV. - Der Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000400311)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001500311)
 
 
 1.  Der Vorstand besteht aus mindestens drei Mitgliedern. Die Zahl der
@@ -181,6 +191,7 @@ c)  die Hauptversammlung.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001600311)
 
 
 1.  Die Aktiengesellschaft wird durch zwei Vorstandsmitglieder oder durch
@@ -194,6 +205,7 @@ c)  die Hauptversammlung.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001700311)
 
 
 1.  Der Vorstand führt die Geschäfte der Aktiengesellschaft nach Maßgabe
@@ -208,10 +220,12 @@ c)  die Hauptversammlung.
 
 
 ## V. - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000500311)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001800311)
 
 
 1.  Der Aufsichtsrat besteht aus 20 Mitgliedern. Davon werden neun
@@ -281,6 +295,7 @@ c)  die Hauptversammlung.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE001900311)
 
 
 1.  Der Aufsichtsrat hat die Geschäftsführung zu überwachen.
@@ -294,6 +309,7 @@ c)  die Hauptversammlung.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002000311)
 
 
 1.  Unter Vorsitz des an Lebensjahren ältesten Aufsichtsratsmitgliedes
@@ -316,6 +332,7 @@ c)  die Hauptversammlung.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002100311)
 
 
 1.  Der Aufsichtsrat muß mindestens viermal im Kalenderjahr, er muß
@@ -342,6 +359,7 @@ c)  die Hauptversammlung.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002200311)
 
 
 1.  Beschlüsse des Aufsichtsrates werden in der Regel in Sitzungen gefaßt.
@@ -401,12 +419,14 @@ c)  die Hauptversammlung.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002300311)
 
 Der Aufsichtsrat gibt sich im Rahmen von Gesetz und Satzung eine
 Geschäftsordnung.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002400311)
 
 
 1.  Der Aufsichtsrat kann aus seiner Mitte Ausschüsse bilden und ihnen in
@@ -425,6 +445,7 @@ Geschäftsordnung.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002500311)
 
 Die Mitglieder des Aufsichtsrates haben über die ihnen bei ihrer
 Tätigkeit als Aufsichtsratsmitglied bekanntgewordenen Tatsachen, deren
@@ -438,6 +459,7 @@ persönliche Äußerungen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002600311)
 
 Der Zustimmung des Aufsichtsrates bedürfen außer in den gesetzlich
 vorgeschriebenen Fällen:
@@ -472,22 +494,26 @@ vorgeschriebenen Fällen:
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002700311)
 
 Die Mitglieder des Aufsichtsrates erhalten eine Vergütung, die die
 Hauptversammlung festsetzt, sowie Ersatz aller sonstigen Auslagen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002800311)
 
 Der Aufsichtsrat ist befugt, Änderungen der Satzung, die nur deren
 Fassung betreffen, zu beschließen.
 
 
 ## VI. - Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000600311)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE002900311)
 
 
 1.  Die Hauptversammlung findet am Sitz der Aktiengesellschaft oder an
@@ -515,6 +541,7 @@ Fassung betreffen, zu beschließen.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003000311)
 
 
 1.  An der Hauptversammlung können die Aktionäre teilnehmen oder sich
@@ -532,6 +559,7 @@ Fassung betreffen, zu beschließen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003100311)
 
 
 1.  Je DM 5.000,- Nennbetrag einer Aktie gewähren eine Stimme.
@@ -544,6 +572,7 @@ Fassung betreffen, zu beschließen.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003200311)
 
 
 1.  Den Vorsitz in der Hauptversammlung führt der Vorsitzende des
@@ -564,6 +593,7 @@ Fassung betreffen, zu beschließen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003300311)
 
 
 1.  Beschlüsse der Hauptversammlung werden mit einfacher Mehrheit der
@@ -592,6 +622,7 @@ Fassung betreffen, zu beschließen.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003400311)
 
 Die Verhandlungen in der Hauptversammlung sind durch eine notariell
 aufgenommene Niederschrift zu beurkunden. Die Niederschrift ist von
@@ -599,6 +630,7 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003500311)
 
 
 1.  Der Vorstand hat in den ersten 3 Monaten des Geschäftsjahres für das
@@ -636,6 +668,7 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003600311)
 
 
 1.  Stellen Vorstand und Aufsichtsrat den Jahresabschluß fest, so können
@@ -660,6 +693,7 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003700311)
 
 
 1.  Die Hauptversammlung beschließt über die Verwendung des sich aus dem
@@ -674,10 +708,12 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
 
 
 ## VII. - Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000700311)
 
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003800311)
 
 
 1.  Der Vorstand kann einen oder mehrere Beiräte bestellen.
@@ -699,19 +735,23 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
 
 
 ## VIII. - Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000800311)
 
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE003900311)
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
 
 ## IX. - Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNG000900311)
 
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/dgbanksa/BJNR211400998.html#BJNR211400998BJNE004000311)
 
 Die Bekanntmachungen der Aktiengesellschaft erfolgen im
 Bundesanzeiger.

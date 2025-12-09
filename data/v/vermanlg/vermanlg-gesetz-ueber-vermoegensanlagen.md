@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000206360)
 
 (1) Dieses Gesetz ist auf Vermögensanlagen anzuwenden, die im Inland
 öffentlich angeboten werden. Es gilt nicht für ein öffentliches
@@ -102,6 +104,7 @@ Angebots im Inland ausgegeben sind.
 
 
 ### § 2 Ausnahmen für einzelne Arten von Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000307360)
 
 (1) Die §§ 5a bis 26 mit Ausnahme von § 18 Absatz 2 und 3 sowie § 19
 Absatz 1 Nummer 3 und 4 dieses Gesetzes sind nicht anzuwenden auf
@@ -233,6 +236,7 @@ gestellt werden.
 
 
 ### § 2a Befreiungen für Schwarmfinanzierungen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003403360)
 
 (1) Die §§ 5a, 6 bis 11a, 12 Absatz 1, § 14 Absatz 1 Satz 1 und Absatz
 3 Satz 1, die §§ 15a, 17 Absatz 1 und 2, § 18 Absatz 1 Nummer 2 bis 6,
@@ -307,6 +311,7 @@ Interessenverflechtung liegt insbesondere vor, wenn
 
 
 ### § 2b Befreiungen für soziale Projekte
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003501123)
 
 (1) Auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 und 4 sind
 die §§ 5a, 6 bis 11a, 12 Absatz 1, § 14 Absatz 1 Satz 1 und Absatz 3
@@ -356,6 +361,7 @@ anzuwenden.
 
 
 ### § 2c Befreiungen für gemeinnützige Projekte und Religionsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003601123)
 
 (1) Auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 und 4 sind
 die §§ 5a, 6 bis 11a, 12 Absatz 1, die §§ 13 bis 15a, 17, 18 Absatz 1
@@ -408,6 +414,7 @@ anwendbar, die ausgegeben werden von
 
 
 ### § 2d Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003700360)
 
 (1) Der Anleger ist an seine Willenserklärung, die auf den Abschluss
 eines Vertrags über eine Vermögensanlage im Sinne der §§ 2a bis 2c
@@ -440,6 +447,7 @@ des Anlegers abgewichen werden.
 
 
 ### § 3 Aufsicht, Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000400000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt)
 übt die Aufsicht über das Angebot von Vermögensanlagen nach den
@@ -451,6 +459,7 @@ zu erhalten.
 
 
 ### § 4 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000503360)
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen
@@ -518,6 +527,7 @@ jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 
 ### § 5 Bekanntgabe und Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000600000)
 
 (1) Verfügungen, die gegenüber einer Person mit Wohnsitz im Ausland
 oder einem Unternehmen mit Sitz im Ausland ergehen, hat die
@@ -540,6 +550,7 @@ Einreichung des Verkaufsprospekts zur Billigung nach § 8 zu erfolgen.
 
 
 ### § 5a Laufzeit von Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003800360)
 
 Vermögensanlagen müssen eine Laufzeit von mindestens 24 Monaten ab dem
 Zeitpunkt des erstmaligen Erwerbs und eine ordentliche Kündigungsfrist
@@ -550,6 +561,7 @@ Anlagebedingungen nichts Abweichendes vorsehen.
 
 
 ### § 5b Nicht zugelassene Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003901360)
 
 (1) Vermögensanlagen, die eine Nachschusspflicht vorsehen, sind zum
 öffentlichen Angebot oder Vertrieb im Inland nicht zugelassen.
@@ -574,6 +586,7 @@ Verwaltungsgesellschaft nach dem Kapitalanlagegesetzbuch ist.
 
 
 ### § 5c Mittelverwendungskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE005300360)
 
 (1) Bei Vermögensanlagen nach § 1 Absatz 2 Nummer 7 und 8, die den
 Erwerb eines Sachgutes oder eines Rechts an einem Sachgut, die Pacht
@@ -658,12 +671,15 @@ Verwaltungsgesellschaft nach dem Kapitalanlagegesetzbuch ist.
 
 
 ## Abschnitt 2 - Verkaufsprospekt, Vermögensanlagen-Informationsblatt und Information der Anleger
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000200000)
 
 
 ### Unterabschnitt 1 - Pflichten des Anbieters
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000300000)
 
 
 #### § 6 Pflicht zur Veröffentlichung eines Verkaufsprospekts
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000701360)
 
 Ein Anbieter, der im Inland Vermögensanlagen öffentlich anbietet, muss
 einen Verkaufsprospekt nach diesem Gesetz veröffentlichen, sofern
@@ -673,6 +689,7 @@ Gesetzes bereits veröffentlicht worden ist.
 
 
 #### § 7 Inhalt des Verkaufsprospekts; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000805360)
 
 (1) Der Verkaufsprospekt muss alle tatsächlichen und rechtlichen
 Angaben enthalten, die notwendig sind, um dem Publikum eine
@@ -769,6 +786,7 @@ Verkaufsprospekt abgesehen werden kann,
 
 
 #### § 8 Billigung des Verkaufsprospekts
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE000902360)
 
 (1) Ein Verkaufsprospekt darf vor seiner Billigung nicht
 veröffentlicht werden. Die Bundesanstalt entscheidet über die
@@ -812,6 +830,7 @@ Prospektprüfungsverfahren als beendet.
 
 
 #### § 8a Gültigkeit des Verkaufsprospekts
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004000360)
 
 Ein Verkaufsprospekt ist nach seiner Billigung zwölf Monate lang für
 öffentliche Angebote gültig, sofern er um die nach § 11 erforderlichen
@@ -819,6 +838,7 @@ Nachträge ergänzt wird.
 
 
 #### § 9 Frist und Form der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001005360)
 
 (1) Der Verkaufsprospekt muss mindestens einen Arbeitstag vor dem
 öffentlichen Angebot nach Maßgabe des Absatzes 2 Satz 1 und 2
@@ -853,6 +873,7 @@ entsprechend.
 
 
 #### § 10 Mitteilung der Beendigung des öffentlichen Angebots und der vollständigen Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004102360)
 
 (1) Der Anbieter hat der Bundesanstalt die Beendigung des öffentlichen
 Angebots sowie die vollständige Tilgung der Vermögensanlage unter
@@ -871,6 +892,7 @@ Gültigkeit des Verkaufsprospekts als beendet.
 
 
 #### § 11 Veröffentlichung ergänzender Angaben
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001204360)
 
 (1) Jeder wichtige neue Umstand oder jede wesentliche Unrichtigkeit in
 Bezug auf die im Verkaufsprospekt enthaltenen Angaben, die die
@@ -932,6 +954,7 @@ Nachträge sind bis zur vollständigen Tilgung der Vermögensanlage nach
 
 
 #### § 11a Veröffentlichungspflichten nach Beendigung des öffentlichen Angebots; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004201360)
 
 (1) Der Emittent einer Vermögensanlage ist nach Beendigung des
 öffentlichen Angebots einer Vermögensanlage verpflichtet, jede
@@ -998,6 +1021,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 12 Werbung für Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001302360)
 
 (1) Der Anbieter hat dafür zu sorgen, dass in Werbung für öffentlich
 angebotene Vermögensanlagen, in der auf die wesentlichen Merkmale der
@@ -1040,6 +1064,7 @@ Vermögensanlage verwendet werden.
 
 
 #### § 13 Vermögensanlagen-Informationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001410360)
 
 (1) Ein Anbieter, der im Inland Vermögensanlagen öffentlich anbietet,
 muss vor dem Beginn des öffentlichen Angebots neben dem
@@ -1262,6 +1287,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 13a Frist und Form der Veröffentlichung eines Vermögensanlagen-Informationsblatts
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE005203360)
 
 (1) Das hinterlegte Vermögensanlagen-Informationsblatt muss mindestens
 einen Arbeitstag vor dem öffentlichen Angebot auf der Internetseite
@@ -1288,6 +1314,7 @@ Informationsblätter; Satz 2 gilt entsprechend.
 
 
 #### § 14 Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts und Form der Einreichung bei der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001504360)
 
 (1) Der Anbieter muss den für die Vermögensanlagen zu erstellenden
 Verkaufsprospekt vor dessen Veröffentlichung der Bundesanstalt als
@@ -1320,6 +1347,7 @@ Veröffentlichungssystem zu übermitteln. Dies gilt für Nachträge nach §
 
 
 #### § 15 Anlegerinformation
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001604360)
 
 (1) Der Anbieter hat einem Anleger oder einem am Erwerb einer
 Vermögensanlage Interessierten auf dessen Verlangen während der Dauer
@@ -1386,9 +1414,11 @@ Unterschriftsleistung nach Absatz 3 gleichwertig ist.
 
 
 ### Unterabschnitt 2 - Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000400000)
 
 
 #### § 15a Zusätzliche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004300360)
 
 Ist bei der Bundesanstalt ein Verkaufsprospekt zur Billigung
 eingereicht worden, kann sie vom Anbieter die Aufnahme zusätzlicher
@@ -1397,6 +1427,7 @@ geboten erscheint.
 
 
 #### § 16 Untersagung von Werbung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001701360)
 
 (1) Um Missständen bei der Werbung für Vermögensanlagen zu begegnen,
 kann die Bundesanstalt Emittenten und Anbietern bestimmte Arten der
@@ -1436,6 +1467,7 @@ hören.
 
 
 #### § 17 Untersagung der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001805360)
 
 (1) Die Bundesanstalt untersagt die Veröffentlichung des
 Verkaufsprospekts, wenn er nicht die Angaben enthält, die nach § 7
@@ -1463,6 +1495,7 @@ enthalten sind.
 
 
 #### § 18 Untersagung des öffentlichen Angebots
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE001908360)
 
 (1) Die Bundesanstalt untersagt das öffentliche Angebot von
 Vermögensanlagen, wenn sie Anhaltspunkte dafür hat, dass
@@ -1524,6 +1557,7 @@ Vermögensanlagen zu.
 
 
 #### § 19 Auskunftspflichten gegenüber der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002006360)
 
 (1) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von
 Unterlagen und die Überlassung von Kopien verlangen, um
@@ -1569,9 +1603,11 @@ ist über sein Recht zu belehren, die Auskunft zu verweigern.
 
 
 ### Unterabschnitt 3 - Haftung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000500000)
 
 
 #### § 20 Haftung bei fehlerhaftem Verkaufsprospekt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002100000)
 
 (1) Sind für die Beurteilung der Vermögensanlagen wesentliche Angaben
 in einem Verkaufsprospekt unrichtig oder unvollständig, kann der
@@ -1633,6 +1669,7 @@ können, bleiben unberührt.
 
 
 #### § 21 Haftung bei fehlendem Verkaufsprospekt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002200000)
 
 (1) Der Erwerber von Vermögensanlagen kann, wenn ein Verkaufsprospekt
 entgegen § 6 nicht veröffentlicht wurde, von dem Emittenten der
@@ -1672,6 +1709,7 @@ bleiben unberührt.
 
 
 #### § 22 Haftung bei unrichtigem oder fehlendem Vermögensanlagen-Informationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002302123)
 
 (1) Wer Vermögensanlagen auf Grund von Angaben in einem
 Vermögensanlagen-Informationsblatt erworben hat, kann von dem Anbieter
@@ -1770,9 +1808,11 @@ Handlungen erhoben werden können, bleiben unberührt.
 
 
 ## Abschnitt 3 - Rechnungslegung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000600000)
 
 
 ### § 23 Erstellung und Offenlegung von Jahresberichten
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002405360)
 
 (1) Ein Emittent von Vermögensanlagen, der nicht verpflichtet ist,
 nach den Vorschriften des Handelsgesetzbuchs einen Jahresabschluss
@@ -1811,6 +1851,7 @@ gelten entsprechend.
 
 
 ### § 24 Inhalt von Jahresabschlüssen und Lageberichten
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002507360)
 
 (1) Alle Emittenten von Vermögensanlagen mit Sitz im Inland haben für
 den Jahresabschluss die Bestimmungen des Ersten Unterabschnitts des
@@ -1940,6 +1981,7 @@ Wirtschaftsprüferkammer.
 
 
 ### § 25 Prüfung und Bestätigung des Abschlussprüfers
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002601360)
 
 (1) Der Jahresabschluss und der Lagebericht des inländischen
 Emittenten von Vermögensanlagen und des Emittenten von
@@ -1992,6 +2034,7 @@ deutscher Sprache beizufügen (§ 23 Absatz 2 Nummer 4), wonach
 
 
 ### § 26 Verkürzung der handelsrechtlichen Offenlegungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002703360)
 
 (1) Ist der Emittent der Vermögensanlagen nach den Vorschriften des
 Handelsgesetzbuchs zur Offenlegung des Jahresabschlusses verpflichtet,
@@ -2003,9 +2046,11 @@ Absatz 1a des Handelsgesetzbuchs der Ablauf des sechsten Monats.
 
 
 ## Abschnitt 4 - Sofortiger Vollzug und Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000800360)
 
 
 ### § 26a Sofortiger Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004401360)
 
 Keine aufschiebende Wirkung haben
 
@@ -2021,6 +2066,7 @@ Keine aufschiebende Wirkung haben
 
 
 ### § 26b Bekanntmachung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004500360)
 
 (1) Die Bundesanstalt macht sofort vollziehbare Maßnahmen, die sie
 nach den §§ 15a bis 19 getroffen hat, auf ihrer Internetseite
@@ -2071,6 +2117,7 @@ spätestens nach fünf Jahren zu löschen.
 
 
 ### § 26c Bekanntmachung von Bußgeldentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE004600360)
 
 (1) Die Bundesanstalt macht Bußgeldentscheidungen nach § 29
 unverzüglich nach Rechtskraft auf ihrer Internetseite bekannt, wenn
@@ -2101,12 +2148,15 @@ gefährden würde.
 
 
 ## Abschnitt 5 - Gebühren, Straf-, Bußgeld- und Ordnungsgeldbestimmungen sowie Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNG000701360)
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002804123)
 
 
 ### § 28 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE002901360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2127,6 +2177,7 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 29 Allgemeine Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003005360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -2248,6 +2299,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 30 Bußgeldvorschriften zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003102360)
 
 (1) Ordnungswidrig handelt, wer einer Vorschrift des § 24 Absatz 1
 Satz 1 in Verbindung mit
@@ -2272,6 +2324,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 ### § 31 Ordnungsgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003207360)
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
 Handelsgesetzbuchs sind auch auf die Verletzung von Pflichten des
@@ -2332,6 +2385,7 @@ Verhinderung von Missständen geboten ist.
 
 
 ### § 32 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vermanlg/BJNR248110011.html#BJNR248110011BJNE003310360)
 
 (1) Auf Verkaufsprospekte, die vor dem 1. Juni 2012 bei der
 Bundesanstalt zur Gestattung ihrer Veröffentlichung nach § 8i Absatz 2

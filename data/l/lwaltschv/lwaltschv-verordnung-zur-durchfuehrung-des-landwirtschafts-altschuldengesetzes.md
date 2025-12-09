@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000100000)
 
 Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom
 25\. Juni 2004 (BGBl. I S. 1383) verordnet das Bundesministerium der
@@ -29,6 +30,7 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Angemessenheit der Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000201377)
 
 (1) Die Angemessenheit der nach § 2 Abs. 5 des Landwirtschafts-
 Altschuldengesetzes absetzbaren Vergütungen, die ein Gesellschafter
@@ -56,6 +58,7 @@ ortsübliche Pacht anzusetzen.
 
 
 ## § 2 Vorzulegende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000300000)
 
 (1) Für den Antrag gemäß § 8 Abs. 1 des Landwirtschafts-
 Altschuldengesetzes einschließlich der nach dessen Absatz 2
@@ -178,6 +181,7 @@ den Gesichtspunkt der Vollständigkeit einzugehen.
 
 
 ## § 3 Allgemeine Grundsätze zur Ermittlung des Ablösebetrages
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000400000)
 
 (1) Kreditnehmer haben für die Gesamtheit der in die
 Rangrücktrittsvereinbarung einbezogenen Unternehmen ein Ablöseangebot
@@ -226,6 +230,7 @@ Rangrücktrittsvereinbarung gemäß § 6.
 
 
 ## § 4 Ermittlung des Barwertes der zukünftigen Zahlungen aus Gewinn
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000500000)
 
 (1) Für das Geschäftsjahr, das im Jahr 2005 endet, wird die bisherige
 Bemessungsgrundlage für die Zahlungen auf die
@@ -315,6 +320,7 @@ vom Hundert vorgenommen.
 
 
 ## § 5 Ermittlung des Barwertes der zukünftigen Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000600000)
 
 (1) Vermögenswerte werden zur Ermittlung des Ablösebetrages auf der
 Grundlage der entsprechenden Regelungen in der
@@ -342,6 +348,7 @@ Dezember 2006 erfolgt.
 
 
 ## § 6 Berücksichtigung noch ausstehender Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000700000)
 
 Ausstehende fällige Zahlungsverpflichtungen aus der
 Rangrücktrittsvereinbarung für Geschäftsjahre, die vor dem Jahr 2005
@@ -354,6 +361,7 @@ Zahlungen dem Ablösebetrag hinzuzurechnen.
 
 
 ## § 7 Ermittlung des Mindestablösebetrages nach § 7 Abs. 1 Satz 4 des Landwirtschafts-Altschuldengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000800000)
 
 (1) Als entfallende Bankgebühren sind die vertraglich vereinbarten
 Verwaltungskostenpauschalen anzusetzen.
@@ -376,6 +384,7 @@ Zahlungsverpflichtungen aus § 6 zu erfüllen.
 
 
 ## § 8 Barwertberechnung
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE000900000)
 
 Der Barwert der zukünftigen Zahlungen entspricht der Summe der
 Barwerte der jährlichen Zahlungen für die Jahre 2005 bis
@@ -436,6 +445,7 @@ jährlichen Zahlung wird nach folgender Formel berechnet:
 
 
 ## § 9 Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001000000)
 
    (1) Die Gläubigerbanken haben im Zusammenwirken mit der beauftragten
 Stelle zu gewährleisten, dass die Prüfung der Angemessenheit des
@@ -474,11 +484,13 @@ voraus.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001100000)
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
 
 ## Anhang (zu § 2 Abs. 1 LwAltschV - Kalenderjahr)
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001200000)
 
 (... nicht darstellbare Vordrucke,
 "Seite 1 bis 5 - Antrag auf Ablösung landwirtschaftlicher Altschulden"
@@ -486,6 +498,7 @@ Fundstelle: BGBl. I 2004, 2865 - 2869)
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001300000)
 
 (nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 2004, 2870 - 2876)
@@ -504,6 +517,7 @@ Seite 7 - BMG für die Barwertermittlung"
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001400000)
 
 (... nicht darstellbarer Vordruck,
 "Investitionsübersicht gemäß § 8 Abs. 2 Nr. 3 LwAltSchG"
@@ -511,6 +525,7 @@ Fundstelle: BGBl. I 2004, 2877)
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001500000)
 
 (... nicht darstellbarer Vordruck,
 "Darstellung der Finanz- und Liquiditätslage per 31.12.2004"
@@ -518,6 +533,7 @@ Fundstelle: BGBl. I 2004, 2878)
 
 
 ## Anlage 4.1
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001600000)
 
 (... nicht darstellbarer Vordruck,
 "Betriebsnotwendige und nicht betriebsnotwendige Vermögenswerte gemäß
@@ -527,6 +543,7 @@ Fundstelle: BGBl. I 2004, 2879)
 
 
 ## Anlage 4.2
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001700000)
 
 (... nicht darstellbarer Vordruck,
 "Veräußerte Vermögenswerte gemäß § 8 Absatz 2 Nr. 6 LwAltschG, deren
@@ -535,6 +552,7 @@ Fundstelle: BGBl. I 2004, 2880)
 
 
 ## Anlage 4.3
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001800000)
 
 (... nicht darstellbarer Vordruck,
 "Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß § 8
@@ -544,6 +562,7 @@ Fundstelle: BGBl. I 2004, 2881)
 
 
 ## Anhang (zu § 2 Abs. 1 LwAltschV - Wirtschaftsjahr)
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE001900000)
 
 (... nicht darstellbare Vordrucke,
 "Seite 1 bis 5 - Antrag auf Ablösung landwirtschaftlicher Altschulden"
@@ -551,6 +570,7 @@ Fundstelle: BGBl. I 2004, 2882 - 2886)
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE002000000)
 
 (... nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 2004, 2887 - 2893)
@@ -569,6 +589,7 @@ Seite 7 - BMG für die Barwertermittlung"
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE002100000)
 
 (... nicht darstellbarer Vordruck,
 "Investitionsübersicht gemäß § 8 Abs. 2 Nr. 3 LwAltSchG"
@@ -576,6 +597,7 @@ Fundstelle: BGBl. I 2004, 2894)
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE002200000)
 
 (... nicht darstellbarer Vordruck,
 "Darstellung der Finanz- und Liquiditätslage per 31.12.2004"
@@ -583,6 +605,7 @@ Fundstelle: BGBl. I 2004, 2895)
 
 
 ## Anlage 4.1
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE002300000)
 
 (... nicht darstellbarer Vordruck,
 "Betriebsnotwendige und nicht betriebsnotwendige Vermögenswerte gemäß
@@ -592,6 +615,7 @@ Fundstelle: BGBl. I 2004, 2896)
 
 
 ## Anlage 4.2
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE002400000)
 
 (... nicht darstellbarer Vordruck,
 "Veräußerte Vermögenswerte gemäß § 8 Absatz 2 Nr. 6 LwAltschG, deren
@@ -600,6 +624,7 @@ Fundstelle: BGBl. I 2004, 2897)
 
 
 ## Anlage 4.3
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschv/BJNR286100004.html#BJNR286100004BJNE002500000)
 
 (... nicht darstellbarer Vordruck,
 "Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß § 8

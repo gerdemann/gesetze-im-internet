@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE000600305)
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
 Bekanntmachung vom 14. Oktober 1977 (BGBl. I S. 1885), der durch
@@ -28,14 +29,17 @@ geändert worden ist, wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNG000100305)
 
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNG000200305)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE000701307)
 
 Studierende der Medizin, die bis zum 30. Juni 1988 die Ärztliche
 Prüfung erfolgreich ablegen, schließen die ärztliche Ausbildung mit
@@ -43,6 +47,7 @@ dieser Prüfung ab.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE000901307)
 
 Studierende der Medizin, die sich bis zum 20. Januar 1989 zur
 Ärztlichen Vorprüfung melden, legen diese Prüfung nach den bisher
@@ -51,6 +56,7 @@ bestehen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE001001307)
 
 Studierende der Medizin, die sich bis zum 20. Januar 1988 zum Zweiten
 Abschnitt der Ärztlichen Prüfung melden, legen diese Prüfung nach den
@@ -59,6 +65,7 @@ Mai 1989 bestehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE001101307)
 
 Studierende der Medizin, die sich bis zum 20. Januar 1988 zum Dritten
 Abschnitt der Ärztlichen Prüfung melden, legen diese Prüfung nach den
@@ -67,6 +74,7 @@ bisher geltenden Vorschriften ab, sofern sie sie bis zum 31. Dezember
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE001202307)
 
 Unbeschadet des Artikels 2 §§ 3 bis 5 gilt für alle schriftlichen
 Prüfungen § 14 Abs. 4 und 6 der Approbationsordnung für Ärzte in der
@@ -79,6 +87,7 @@ Abs. 6 der Approbationsordnung für Ärzte in der bis zum 31. Dezember
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE001301307)
 
 Für Studierende, die alle Abschnitte der Ärztlichen Prüfung nach
 bisher geltendem Recht ablegen, gilt § 34 Abs. 1 der
@@ -95,6 +104,7 @@ Approbationsordnung für Ärzte gebildet.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNG000300305)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit kann den
 Wortlaut der Approbationsordnung für Ärzte in der nach Inkrafttreten
@@ -104,12 +114,14 @@ mit neuen durchlaufenden Ordnungszeichen versehen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNG000400305)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNG000500305)
 
 Diese Verordnung tritt unbeschadet des Satzes 2 am Tage nach der
 Verkündung in Kraft. Der neue Text des § 14 Abs. 6 gemäß Artikel 1 Nr.
@@ -117,6 +129,7 @@ Verkündung in Kraft. Der neue Text des § 14 Abs. 6 gemäß Artikel 1 Nr.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_5/BJNR024579986.html#BJNR024579986BJNE001400305)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 

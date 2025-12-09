@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000100000)
 
 Auf Grund
 
@@ -66,6 +67,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2009 27,20 Euro.
 
@@ -74,6 +76,7 @@ Euro.
 
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000300000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt ab dem 1. Juli 2009 12,56 Euro.
@@ -83,6 +86,7 @@ Landwirte beträgt ab dem 1. Juli 2009 11,14 Euro.
 
 
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2010
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000400000)
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2010 0,9825.
 
@@ -90,6 +94,7 @@ Landwirte beträgt ab dem 1. Juli 2009 11,14 Euro.
 
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000500000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2009 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -104,6 +109,7 @@ angepasst. Der Anpassungsfaktor beträgt 1,0338.
 
 
 ## § 5 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000600000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2009 an
@@ -121,11 +127,13 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2009 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2009/BJNR133500009.html#BJNR133500009BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

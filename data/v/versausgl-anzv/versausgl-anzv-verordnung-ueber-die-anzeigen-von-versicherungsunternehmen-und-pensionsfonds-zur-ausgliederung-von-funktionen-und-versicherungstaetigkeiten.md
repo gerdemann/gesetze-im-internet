@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000100000)
 
 Auf Grund des § 34 Absatz 3 auch in Verbindung mit § 237 Absatz 1 Satz
 1 des Versicherungsaufsichtsgesetzes, von denen § 34 Absatz 3 durch
@@ -31,6 +32,7 @@ ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000200000)
 
 Diese Verordnung gilt für
 
@@ -50,6 +52,7 @@ Diese Verordnung gilt für
 
 
 ## § 2 Anzeigen nach § 47 Nummer 8 des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000300000)
 
 (1) Die in § 1 genannten Unternehmen haben in Anzeigen nach § 47
 Nummer 8 des Versicherungsaufsichtsgesetzes folgende Informationen
@@ -175,6 +178,7 @@ nicht durchführt, soll es diesen Umstand anzeigen.
 
 
 ## § 3 Anzeigen nach § 47 Nummer 9 des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000400000)
 
 (1) Wesentliche nach Vertragsschluss eingetretene Umstände, die die in
 § 1 genannten Unternehmen nach § 47 Nummer 9 des
@@ -288,6 +292,7 @@ Informationen nach § 2 Absatz 1 anzuzeigen.
 
 
 ## § 4 Übermittlung von Anzeigen und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000500000)
 
 (1) Die in § 1 genannten Unternehmen haben die Anzeigen und die
 Unterlagen nach den §§ 2 und 3 Absatz 1 elektronisch an die Melde- und
@@ -309,6 +314,7 @@ Kennziffer, die sie auf Dauer nutzen dürfen und beibehalten.
 
 
 ## § 5 Zurückweisung von Anzeigen und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000600000)
 
 (1) Die Bundesanstalt weist Datensätze zur Übermittlung von Anzeigen
 und Unterlagen nach den §§ 2 und 3 Absatz 1 zurück wenn,
@@ -328,6 +334,7 @@ und Veröffentlichungsplattform der Bundesanstalt abrufbar.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versausgl-anzv/BJNR209300022.html#BJNR209300022BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000100307)
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom
@@ -30,6 +31,7 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000200307)
 
 Der Ausbildungsberuf
 Manufakturporzellanmaler/Manufakturporzellanmalerin wird staatlich
@@ -37,11 +39,13 @@ anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000300307)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000400307)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -84,6 +88,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000500307)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -102,12 +107,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000600307)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000700307)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -116,6 +123,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000800307)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -177,6 +185,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE000900307)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -318,12 +327,14 @@ Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE001000307)
 
 Diese Verordnung tritt am 1. August 1995 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Manufakturporzellanmaler/zur Manufakturporzellanmalerin
+[Direktlink](https://www.gesetze-im-internet.de/mporzmausbv/BJNR010300995.html#BJNR010300995BJNE001100307)
 
 (Fundstelle: BGBl. I 1995, 105 - 107)
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vzoz_v/BJNR255000003.html#BJNR255000003BJNE000100000)
 
 Auf Grund des § 7 Abs. 6 des Vermögenszuordnungsgesetzes, der durch
 Artikel 1 Nr. 1 Buchstabe b des Gesetzes vom 30. Januar 2002 (BGBl. I
@@ -28,6 +29,7 @@ Finanzen:
 
 
 ## § 1 Übertragung der Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/vzoz_v/BJNR255000003.html#BJNR255000003BJNE000200000)
 
 Die Zuständigkeiten der Oberfinanzpräsidenten der
 Oberfinanzdirektionen Berlin, Chemnitz, Cottbus, Erfurt, Magdeburg und
@@ -39,6 +41,7 @@ Regelung offener Vermögensfragen übertragen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vzoz_v/BJNR255000003.html#BJNR255000003BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

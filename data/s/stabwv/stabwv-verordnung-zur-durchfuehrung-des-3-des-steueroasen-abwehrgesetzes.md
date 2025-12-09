@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stabwv/BJNR523600021.html#BJNR523600021BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Satz 1 des Steueroasen-Abwehrgesetzes vom
 25\. Juni 2021 (BGBl. I S. 2056) in Verbindung mit § 1 Absatz 1 des
@@ -30,6 +31,7 @@ für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stabwv/BJNR523600021.html#BJNR523600021BJNE000200000)
 
 Diese Verordnung benennt
 
@@ -47,6 +49,7 @@ Diese Verordnung benennt
 
 
 ## § 2 Nicht kooperative Steuerhoheitsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/stabwv/BJNR523600021.html#BJNR523600021BJNE000303123)
 
 (1) Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1
 des Gesetzes nicht kooperativ und werden im Anhang I der
@@ -112,11 +115,13 @@ Voraussetzungen des § 2 Absatz 1 des Gesetzes (§ 1 Nummer 2):
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stabwv/BJNR523600021.html#BJNR523600021BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stabwv/BJNR523600021.html#BJNR523600021BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

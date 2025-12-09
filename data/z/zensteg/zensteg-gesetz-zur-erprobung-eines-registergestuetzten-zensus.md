@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anordnung von Testerhebungen und -verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000100305)
 
 (1) Zur Erprobung eines registergestützten Zensusverfahrens werden
 Testerhebungen, Untersuchungen von Registern und statistisch-
@@ -46,6 +47,7 @@ und Wohnungen.
 
 
 ## § 2 Testerhebung zur Prüfung von Mehrfachmeldungen in Melderegistern
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000200305)
 
 (1) Bei allen Meldebehörden wird zur Prüfung von Mehrfachmeldungen
 eine Stichprobenerhebung durchgeführt, die sich auf
@@ -171,6 +173,7 @@ Dezember 2001.
 
 
 ## § 3 Mehrfachfalluntersuchung durch die statistischen Ämter
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000300305)
 
 (1) Die statistischen Ämter der Länder übermitteln die Angaben zu § 2
 Abs. 2 nach Abschluss der Vollzähligkeits- und Vollständigkeitsprüfung
@@ -221,6 +224,7 @@ erhoben:
 
 
 ## § 4 Testerhebung zur Untersuchung von Über- und Untererfassungen in Melderegistern bei Meldebehörden und Personen in ausgewählten Gemeinden und Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000400305)
 
 (1) Zur Untersuchung von Über- und Untererfassungen in Melderegistern
 werden in ausgewählten Gemeinden und Gebäuden Stichprobenerhebungen
@@ -306,6 +310,7 @@ die Melderegister Unter- oder Übererfassungen aufweisen.
 
 
 ## § 5 Unterstichprobe für Verfahrenstests und methodische Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000500305)
 
 Für Verfahrenstests, statistisch-methodische Untersuchungen sowie
 weitere Qualitätsprüfungen werden Stichprobenerhebungen
@@ -318,6 +323,7 @@ mathematische Zufallsverfahren ausgewählt.
 
 
 ## § 6 Zusatzerhebungen bei Meldebehörden in ausgewählten Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000600305)
 
 Bei den Meldebehörden der nach § 5 ausgewählten Gemeinden werden für
 die in den nach § 5 ausgewählten Gebäuden zu den Stichtagen 5.
@@ -364,6 +370,7 @@ Merkmalen nach § 4 Abs. 3 folgende Hilfsmerkmale erhoben:
 
 
 ## § 7 Postalische Gebäude- und Wohnungsstichprobe
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000700305)
 
 Bei der postalischen Gebäude- und Wohnungsstichprobe in den nach § 5
 ausgewählten Gebäuden werden zum Stichtag 5. Dezember 2001 folgende
@@ -456,6 +463,7 @@ Merkmale erhoben:
 
 
 ## § 8 Testerhebung bei der Bundesanstalt für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000800305)
 
 Bei der Bundesanstalt für Arbeit werden aus der Datei für
 sozialversicherungspflichtig Beschäftigte, der Arbeitslosendatei und
@@ -501,6 +509,7 @@ Personen zum Stichtag 5. Dezember 2001 folgende Merkmale erhoben:
 
 
 ## § 9 Zusatzerhebung bei Personen in ausgewählten Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE000900305)
 
 Bei den in den nach § 5 ausgewählten Gebäuden wohnenden Personen
 werden zum Stichtag 5. Dezember 2001 zusätzlich zu den in § 4 Abs. 4
@@ -576,6 +585,7 @@ genannten Merkmalen folgende Merkmale erhoben:
 
 
 ## § 10 Zusammenführung von Datensätzen aus den verschiedenen Erhebungen der Unterstichprobe durch die statistischen Ämter der Länder
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001000305)
 
 (1) Die aus den Melderegistern übermittelten Datensätze nach § 4 Abs.
 3 Nr. 1 der Personen, die in den nach § 5 ausgewählten Gebäuden
@@ -596,6 +606,7 @@ nach § 9 in Verbindung mit § 4 Abs. 4 verglichen.
 
 
 ## § 11 Anschriftenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001100305)
 
 (1) Für die Vorbereitung und Durchführung der Erhebungen nach § 4 Abs.
 4 und § 9 übermitteln die Meldebehörden den statistischen Ämtern der
@@ -615,6 +626,7 @@ der in die Erhebung einbezogenen Gebäude.
 
 
 ## § 12 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001200305)
 
 (1) Für die Erhebungen nach § 3 Abs. 3, § 4 Abs. 4 und § 9 können
 ehrenamtliche Erhebungsbeauftragte eingesetzt werden. Sie dürfen nicht
@@ -637,6 +649,7 @@ des § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes gilt.
 
 
 ## § 13 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001300305)
 
 (1) Für die Testerhebungen besteht Auskunftspflicht, soweit in Absatz
 8 nichts anderes bestimmt ist.
@@ -681,6 +694,7 @@ nach § 4 Abs. 4 sind freiwillig.
 
 
 ## § 14 Art der Auskunftserteilung beim Einsatz von Erhebungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001400305)
 
 (1) Soweit Erhebungsbeauftragte eingesetzt werden, können die Angaben
 zu den Erhebungen nach § 3 Abs. 3, § 4 Abs. 4 und § 9 mündlich
@@ -701,6 +715,7 @@ dem Umschlag anzugeben.
 
 
 ## § 15 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001500305)
 
 (1) Die Erhebungsunterlagen sowie die Angaben nach § 4 Abs. 2 und § 11
 werden zum frühestmöglichen Zeitpunkt, spätestens zwei Jahre nach dem
@@ -734,6 +749,7 @@ dem Stichtag 31. März 2002 zu löschen.
 
 
 ## § 16 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001600305)
 
 (1) Die Erhebungen nach § 2, § 3 Abs. 3, § 4 Abs. 3 und 4, §§ 6, 7 und
 9 werden von den statistischen Ämtern der Länder durchgeführt.
@@ -743,6 +759,7 @@ durchgeführt.
 
 
 ## § 17 Aufbau einer Organisationsdatei
+[Direktlink](https://www.gesetze-im-internet.de/zensteg/BJNR188210001.html#BJNR188210001BJNE001700305)
 
 Die von den Meldebehörden erhobenen Hilfsmerkmale nach § 2 Abs. 3
 dürfen für den Aufbau einer Organisationsdatei zur Vorbereitung und

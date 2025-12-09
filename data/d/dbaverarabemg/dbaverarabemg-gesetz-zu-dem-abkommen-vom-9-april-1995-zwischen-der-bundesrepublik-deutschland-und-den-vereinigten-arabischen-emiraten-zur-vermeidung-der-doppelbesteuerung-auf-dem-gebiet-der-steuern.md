@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbaverarabemg/BJNR051820996.html#BJNR051820996BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbaverarabemg/BJNR051820996.html#BJNR051820996BJNE000200307)
 
 Dem am 9. April 1995 in Abu Dhabi unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbaverarabemg/BJNR051820996.html#BJNR051820996BJNE000300307)
 
 Soweit das Abkommen auf Grund seines Artikels 29 Abs. 2 und der Nr. 9
 des Protokolls zum Abkommen für die Zeit vor dem Inkrafttreten des
@@ -55,6 +58,7 @@ der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbaverarabemg/BJNR051820996.html#BJNR051820996BJNE000400307)
 
 Die Bundesregierung wird ermächtigt, Verlängerungen der Geltungsdauer
 dieses Abkommens nach seinem Artikel 30 Abs. 1 Sätze 2 und 3 mit
@@ -62,6 +66,7 @@ Zustimmung des Bundesrates durch Rechtsverordnung in Kraft zu setzen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/dbaverarabemg/BJNR051820996.html#BJNR051820996BJNE000500307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

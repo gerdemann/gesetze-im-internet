@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl_2022/BJNR030500022.html#BJNR030500022BJNE000100000)
 
 Das Ordenskapitel des Ordens Pour le mérite für Wissenschaften und
 Künste hat am 26. September 2021 folgende Änderungen der Satzung des
@@ -55,6 +56,7 @@ für Heimat im Bundesanzeiger veröffentlicht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl_2022/BJNR030500022.html#BJNR030500022BJNE000200000)
 
 Der Bundespräsident
 

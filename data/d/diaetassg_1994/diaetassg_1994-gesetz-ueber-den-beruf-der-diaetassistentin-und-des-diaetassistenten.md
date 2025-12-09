@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE000601310)
 
 (1) Wer die Berufsbezeichnung "Diätassistentin" oder "Diätassistent"
 führen will, bedarf der Erlaubnis.
@@ -41,6 +43,7 @@ Gemeinschaften eine Gleichstellung ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE000706116)
 
 (1) Die Erlaubnis nach § 1 ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -205,6 +208,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001900310)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Diätassistenten ausgeübt wird oder zuletzt ausgeübt worden ist,
@@ -241,6 +245,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 2b
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE002300116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -339,10 +344,12 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNG000200307)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE000800307)
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs
 insbesondere die Kenntnisse, Fähigkeiten und Fertigkeiten vermitteln,
@@ -356,6 +363,7 @@ Schulungen durchzuführen (Ausbildungsziel).
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE000900307)
 
 Die Ausbildung dauert drei Jahre und besteht aus theoretischem und
 praktischem Unterricht und einer praktischen Ausbildung. Sie wird
@@ -367,6 +375,7 @@ Einrichtungen sicherzustellen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001000307)
 
 Voraussetzung für den Zugang zur Ausbildung ist
 
@@ -384,6 +393,7 @@ Voraussetzung für den Zugang zur Ausbildung ist
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001100307)
 
 (1) Auf die Dauer der Ausbildung werden angerechnet
 
@@ -406,6 +416,7 @@ nach § 8 Abs. 3.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001200307)
 
 Die zuständige Behörde kann auf Antrag eine andere Ausbildung im
 Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung anrechnen,
@@ -414,6 +425,7 @@ Ausbildungsziels dadurch nicht gefährdet werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001309116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -472,9 +484,11 @@ Fristenregelungen vorsehen.
 
 
 ## Abschnitt 2a - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNG000600310)
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE002002116)
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die zur Ausübung des Berufs des Diätassistenten in
@@ -581,6 +595,7 @@ Bescheinigungen darüber auszustellen, dass
 
 
 ### § 8b
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE002101116)
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
 berechtigt, für jede Dienstleistungserbringung von den zuständigen
@@ -598,6 +613,7 @@ disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 
 
 ### § 8c
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE002200310)
 
 Diätassistentinnen oder Diätassistenten im Sinne des § 8a haben beim
 Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die
@@ -608,10 +624,12 @@ dieses Dienstleistungserbringers hierüber zu unterrichten.
 
 
 ## Abschnitt 3 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNG000300307)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001401310)
 
 (1) Die Entscheidung über die Erteilung der Erlaubnis nach § 2 Abs. 1
 trifft die zuständige Behörde des Landes, in dem der Antragsteller die
@@ -635,10 +653,12 @@ des Diätassistenten ausübt.
 
 
 ## Abschnitt 4 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNG000400307)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001501320)
 
 (1) Ordnungswidrig handelt, wer ohne Erlaubnis nach § 1 die
 Berufsbezeichnung "Diätassistentin" oder "Diätassistent" führt.
@@ -648,10 +668,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## Abschnitt 5 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNG000500307)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001600307)
 
 (1) Eine nach § 1 des Gesetzes über den Beruf des Diätassistenten vom
 17\. Juli 1973 (BGBl. I S. 853), zuletzt geändert gemäß Artikel 16 der
@@ -677,6 +699,7 @@ vorliegen, eine Erlaubnis nach § 1.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001700307)
 
 Für Umschüler mit einer abgeschlossenen Ausbildung in einem
 medizinischen Fachberuf kann auf Antrag die Ausbildung nach § 4 Satz 1
@@ -689,6 +712,7 @@ Dezember 2000 begonnen werden. § 7 bleibt unberührt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/di_tassg_1994/BJNR044610994.html#BJNR044610994BJNE001800307)
 
 Schulen, die Diätassistenten ausbilden und vor Inkrafttreten dieses
 Gesetzes die staatliche Anerkennung erhalten haben, gelten weiterhin

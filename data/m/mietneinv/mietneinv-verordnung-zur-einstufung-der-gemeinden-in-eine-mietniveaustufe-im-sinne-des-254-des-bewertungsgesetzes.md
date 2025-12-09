@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mietneinv/BJNR373800021.html#BJNR373800021BJNE000100000)
 
 Auf Grund des § 263 Absatz 2 des Bewertungsgesetzes, der durch Artikel
 1 Nummer 2 des Gesetzes vom 26. November 2019 (BGBl. I S. 1794)
@@ -25,6 +26,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Gemeindebezogene Einordnung
+[Direktlink](https://www.gesetze-im-internet.de/mietneinv/BJNR373800021.html#BJNR373800021BJNE000200000)
 
 Die gemeindebezogene Einordnung in die jeweilige Mietniveaustufe zur
 Ermittlung der Zu- und Abschläge im Sinne des § 254 des Gesetzes in
@@ -34,16 +36,19 @@ Januar 2021.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/mietneinv/BJNR373800021.html#BJNR373800021BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mietneinv/BJNR373800021.html#BJNR373800021BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anhang zu § 1 
+[Direktlink](https://www.gesetze-im-internet.de/mietneinv/BJNR373800021.html#BJNR373800021BJNE000500000)
 
 (Fundstelle: BGBl. I 2021, 3739 - 3885)
 

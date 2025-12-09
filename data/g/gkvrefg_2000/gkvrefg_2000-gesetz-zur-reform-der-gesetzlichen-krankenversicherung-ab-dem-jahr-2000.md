@@ -20,14 +20,17 @@ Geändert durch
 
 
 ## Art 1 bis 18
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNG000100305)
 
 
 
 ## Art 19
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNG000200305)
 
 
 
 ## Art 20 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNG000300305)
 
 Die auf den Artikeln 5, 15, 16, 17 und 18 beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
@@ -35,10 +38,12 @@ einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 21 - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNG000400305)
 
 
 
 ## § 1 Gesamtvergütung
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNE000600305)
 
 Die Veränderungen der Gesamtvergütungen der Kassenärztlichen
 Vereinigungen im Beitrittsgebiet im Jahr 2000 sind auf die um den
@@ -52,6 +57,7 @@ zu beziehen.
 
 
 ## § 2 Rückkehr in die private Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNE000700305)
 
 Artikel 1 Nr. 2 und Artikel 7 Nr. 1 gelten nicht für Versicherte,
 deren privater Krankenversicherungsvertrag vor dem 1. Januar 2000
@@ -59,12 +65,14 @@ geendet hat.
 
 
 ## § 3 Ausschluss der Familienversicherung
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNE000800305)
 
 Artikel 1 Nr. 6 gilt nicht für Personen, die bei Inkrafttreten dieses
 Gesetzes bereits familienversichert sind.
 
 
 ## § 4 Psychiatrische Abteilungen an Allgemeinkrankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNE000900305)
 
 Die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bestehenden
 Ermächtigungen der in § 118 Abs. 2 des Fünften Buches Sozialgesetzbuch
@@ -72,6 +80,7 @@ genannten Einrichtungen bleiben bis zum 31. Dezember 2001 bestehen.
 
 
 ## § 5 Personalübergang zu der Deutschen Verbindungsstelle Krankenversicherung-Ausland
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNE001000305)
 
 Die Deutsche Verbindungsstelle Krankenversicherung-Ausland übernimmt
 die beim AOK-Bundesverband überwiegend mit der Durchführung der
@@ -88,6 +97,7 @@ gültigen Fassung maßgebend. Das Nähere regeln die Spitzenverbände.
 
 
 ## Art 22 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gkvrefg_2000/BJNR262609999.html#BJNR262609999BJNG000500305)
 
 (1) bis (4)
 

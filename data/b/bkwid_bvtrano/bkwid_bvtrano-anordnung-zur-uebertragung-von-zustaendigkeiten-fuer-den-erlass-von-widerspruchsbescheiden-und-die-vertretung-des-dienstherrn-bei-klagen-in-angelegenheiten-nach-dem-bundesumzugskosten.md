@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_bvtrano/BJNR109300999.html#BJNR109300999BJNE000100320)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
@@ -33,6 +34,7 @@ des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_bvtrano/BJNR109300999.html#BJNR109300999BJNE000200320)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich
@@ -42,6 +44,7 @@ Entscheidung über Widersprüche zuständig ist.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_bvtrano/BJNR109300999.html#BJNR109300999BJNE000300320)
 
 Diese Anordnung tritt mit Wirkung vom 1. Mai 1999 in Kraft. Sie findet
 keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -50,6 +53,7 @@ sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bkwid_bvtrano/BJNR109300999.html#BJNR109300999BJNE000400320)
 
 Der Chef des Bundeskanzleramtes
 

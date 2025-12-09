@@ -22,14 +22,17 @@ Zuletzt geändert durch
 Stand: Gem. § 36 Abs. 2 dieses G iVm Nr. 2 Bek. v. 5.12.2022 I 2262 tritt dieses G im Übrigen am 22.11.2022 in Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Teil 1 - Allgemeine und gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000302119)
 
 Dieses Gesetz dient der Durchführung der Regelungen zu den
 Direktzahlungen in der Verordnung (EU) 2021/2115 in der jeweils
@@ -39,6 +42,7 @@ Durchführung erlassenen weiteren Rechtsakte der Europäischen Union
 
 
 ### § 2 Anwendbare Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000400000)
 
 Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des
 Marktorganisationsgesetzes mit den Maßgaben, dass
@@ -70,6 +74,7 @@ Landwirtschaftsfonds für die Entwicklung des ländlichen Raums.
 
 
 ### § 3 Übertragung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000501000)
 
 Von der in der Unionsregelung für Deutschland anfänglich festgesetzten
 Mittelzuweisung für Direktzahlungen für die Kalenderjahre 2023 bis
@@ -98,6 +103,7 @@ die Entwicklung des ländlichen Raums für die Haushaltsjahre 2024 bis
 
 
 ### § 3a Aktiver oder echter Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000600000)
 
 Sieht die Unionsregelung vor, dass Direktzahlungen nur aktiven oder
 echten Betriebsinhabern zu gewähren sind, so werden die in diesem
@@ -106,12 +112,15 @@ Betriebsinhabern gewährt.
 
 
 ## Teil 2 - Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000200000)
 
 
 ### Abschnitt 1 - Einkommensgrundstützung für Nachhaltigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000300000)
 
 
 #### § 4 Einkommensgrundstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000701000)
 
 (1) Ein Betriebsinhaber erhält jährlich auf Antrag eine
 Einkommensgrundstützung für Nachhaltigkeit (Einkommensgrundstützung).
@@ -124,6 +133,7 @@ Hektar förderfähiger Fläche gewährt.
 
 
 #### § 5 Indikative Mittelzuweisung für die Einkommensgrundstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000803119)
 
 (1) Die indikative Mittelzuweisung für die Einkommensgrundstützung für
 jedes Antragsjahr ist der Betrag, der sich ergibt, wenn von der
@@ -169,6 +179,7 @@ Bundesanzeiger bekannt.
 
 
 #### § 6 Geplanter Einheitsbetrag für die Einkommensgrundstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE000903119)
 
 (1) Der geplante Einheitsbetrag je Hektar für die
 Einkommensgrundstützung ist der Betrag, der sich ergibt, wenn der
@@ -206,15 +217,18 @@ Einheitsbetrags zur Anwendung.
 
 
 #### § 7 Tatsächlicher Einheitsbetrag für die Einkommensgrundstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001001000)
 
 Der tatsächliche Einheitsbetrag für die Einkommensgrundstützung ist
 der nach § 31 berechnete Betrag.
 
 
 ### Abschnitt 2 - Ergänzende Umverteilungseinkommensstützung für Nachhaltigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000400000)
 
 
 #### § 8 Umverteilungseinkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001101000)
 
 (1) Ein Betriebsinhaber, der Anspruch auf Einkommensgrundstützung hat,
 erhält jährlich auf Antrag eine ergänzende
@@ -238,6 +252,7 @@ gewährt:
 
 
 #### § 9 Indikative Mittelzuweisung für die Umverteilungseinkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001201000)
 
 (1) Die indikative Mittelzuweisung für die
 Umverteilungseinkommensstützung für jedes Antragsjahr ist der Betrag,
@@ -255,6 +270,7 @@ im Bundesanzeiger bekannt.
 
 
 #### § 10 Geplante Einheitsbeträge für die Umverteilungseinkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001301000)
 
 (1) Für die Berechnung des geplanten Einheitsbetrags je Hektar der
 Gruppe 1 wird die Zahl der mit Gültigkeit zum Antragsschlusstermin des
@@ -304,6 +320,7 @@ Aufspaltung hervorgegangen ist.
 
 
 #### § 11 Tatsächliche Einheitsbeträge für die Umverteilungseinkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001401000)
 
 Die tatsächlichen Einheitsbeträge für die
 Umverteilungseinkommensstützung für die Gruppe 1 und für die Gruppe 2
@@ -311,9 +328,11 @@ sind die nach § 31 berechneten Beträge.
 
 
 ### Abschnitt 3 - Ergänzende Einkommensstützung für Junglandwirte
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000500000)
 
 
 #### § 12 Junglandwirtinnen und Junglandwirte
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001501000)
 
 (1) Eine Junglandwirtin oder ein Junglandwirt ist eine natürliche
 Person, die sich erstmals in einem landwirtschaftlichen Betrieb als
@@ -355,6 +374,7 @@ möglich sein muss.
 
 
 #### § 13 Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001600000)
 
 (1) Eine Junglandwirtin oder ein Junglandwirt, die oder der Anspruch
 auf Einkommensgrundstützung hat, erhält für die Dauer von längstens
@@ -367,6 +387,7 @@ Betrag je Hektar für bis zu 120 Hektar förderfähiger Fläche gewährt.
 
 
 #### § 14 Indikative Mittelzuweisung für die Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001700000)
 
 Die indikative Mittelzuweisung für die Junglandwirte-
 Einkommensstützung für jedes Antragsjahr ist der Betrag, der dem in
@@ -377,6 +398,7 @@ Junglandwirte entspricht.
 
 
 #### § 15 Geplanter Einheitsbetrag für die Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001801000)
 
 (1) Der geplante Einheitsbetrag der Junglandwirte-Einkommensstützung
 je Hektar ist der Betrag, der sich ergibt, wenn der Betrag der
@@ -411,6 +433,7 @@ Bundesanzeiger bekannt.
 
 
 #### § 16 Weitere Bestimmungen für die Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE001902119)
 
 (1) Die Junglandwirte-Einkommensstützung wird nur gewährt, wenn die
 erstmalige Beantragung spätestens für das fünfte Jahr nach dem Jahr
@@ -445,15 +468,18 @@ Junglandwirte-Einkommensstützung kontrolliert hat.
 
 
 #### § 17 Tatsächlicher Einheitsbetrag für die Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002000000)
 
 Der tatsächliche Einheitsbetrag für die Junglandwirte-
 Einkommensstützung ist der nach § 31 berechnete Betrag.
 
 
 ### Abschnitt 4 - Regelungen für Klima und Umwelt
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000600000)
 
 
 #### § 18 Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002101000)
 
 Ein Betriebsinhaber erhält jährlich auf Antrag eine Unterstützung für
 die freiwillig von ihm übernommenen Verpflichtungen zur Einhaltung von
@@ -461,6 +487,7 @@ Regelungen für Klima und Umwelt (Öko-Regelungen).
 
 
 #### § 19 Mittel für Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002203119)
 
 (1) Die indikativen Mittel für die Öko-Regelungen für jedes der Jahre
 2023 und 2024 sowie die Mittel für die Öko-Regelungen für jedes der
@@ -486,6 +513,7 @@ dem Jahr 2023, ergibt, im Bundesanzeiger bekannt.
 
 
 #### § 20 Festlegung der Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002302119)
 
 (1) Es werden mindestens folgende Öko-Regelungen angewendet:
 
@@ -574,18 +602,22 @@ vorgesehenen Instrumente zur Förderung von Umwelt, Klima und Tierwohl.
 
 
 #### § 21 Tatsächliche Einheitsbeträge für Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002401000)
 
 Der tatsächliche Einheitsbetrag oder die tatsächlichen Einheitsbeträge
 jeder Öko-Regelung ist oder sind die nach § 31 berechneten Beträge.
 
 
 ### Abschnitt 5 - Gekoppelte Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000700000)
 
 
 #### Unterabschnitt 1 - Gekoppelte Einkommensstützung für den Sektor Schaf- und Ziegenfleisch
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000800000)
 
 
 ##### § 22 Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002501000)
 
 (1) Ein Betriebsinhaber erhält jährlich auf Antrag eine gekoppelte
 Einkommensstützung für die Haltung von Mutterschafen oder -ziegen
@@ -596,6 +628,7 @@ förderfähigem Mutterschaf und förderfähiger Mutterziege gewährt.
 
 
 ##### § 23 Indikative Mittelzuweisung für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002601000)
 
 (1) Die indikative Mittelzuweisung für die Zahlung für Mutterschafe
 und -ziegen für jedes Antragsjahr ist der Betrag, der 1 Prozent der
@@ -613,6 +646,7 @@ ergibt, im Bundesanzeiger bekannt.
 
 
 ##### § 24 Festlegungen für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002700000)
 
 (1) Die Voraussetzungen für die Zahlung für Mutterschafe und -ziegen
 werden in einer Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1
@@ -644,15 +678,18 @@ bezeichneten Vorschriften.
 
 
 ##### § 25 Tatsächlicher Einheitsbetrag für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002801000)
 
 Der tatsächliche Einheitsbetrag für die Zahlung für Mutterschafe und
 -ziegen ist der nach § 31 berechnete Betrag.
 
 
 #### Unterabschnitt 2 - Gekoppelte Einkommensstützung für den Sektor Rind- und Kalbfleisch
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG000900000)
 
 
 ##### § 26 Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE002901000)
 
 (1) Ein Betriebsinhaber, der keine Kuhmilch oder Kuhmilcherzeugnisse
 abgibt, erhält jährlich auf Antrag eine gekoppelte Einkommensstützung
@@ -663,6 +700,7 @@ Mutterkuh gewährt.
 
 
 ##### § 27 Indikative Mittelzuweisung für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003001000)
 
 (1) Die indikative Mittelzuweisung für die Zahlung für Mutterkühe für
 jedes Antragsjahr ist der Betrag, der 1 Prozent der einschlägigen
@@ -679,6 +717,7 @@ Bundesanzeiger bekannt.
 
 
 ##### § 28 Festlegungen für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003100000)
 
 (1) Die Voraussetzungen für die Zahlung für Mutterkühe werden in einer
 Rechtsverordnung auf Grund der in § 2 Satz 1 Nummer 1 bezeichneten
@@ -708,15 +747,18 @@ Vorschriften.
 
 
 ##### § 29 Tatsächlicher Einheitsbetrag für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003201000)
 
 Der tatsächliche Einheitsbetrag für die Zahlung für Mutterkühe ist der
 nach § 31 berechnete Betrag.
 
 
 ## Teil 3 - Tatsächliche Einheitsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG001000000)
 
 
 ### § 30 Mitteilungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003301000)
 
 Die Länder teilen dem Bundesministerium für Ernährung und
 Landwirtschaft jährlich bis zum 1. November für jeden geplanten
@@ -726,6 +768,7 @@ gewähren ist.
 
 
 ### § 31 Berechnung der tatsächlichen Einheitsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003401000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft berechnet
 die tatsächlichen Einheitsbeträge, die den Betriebsinhabern je Einheit
@@ -776,6 +819,7 @@ führt sie durch.
 
 
 ### § 32 Bekanntmachung der tatsächlichen Einheitsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003501000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft macht die
 tatsächlichen Einheitsbeträge, die sich für jedes Antragsjahr,
@@ -784,9 +828,11 @@ bekannt.
 
 
 ## Teil 4 - Weitere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNG001100000)
 
 
 ### § 33 Horizontale Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003601000)
 
 (1) Werden für die Durchführung der Direktzahlungen
 Begriffsbestimmungen geregelt, die die Mitgliedstaaten nach der
@@ -815,6 +861,7 @@ handelt.
 
 
 ### § 34 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003700000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -873,6 +920,7 @@ Raums zu finanzierenden Maßnahmen vorgesehenen Beträge mit.
 
 
 ### § 35 Bundesanstalt für Landwirtschaft und Ernährung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003800000)
 
 (1) In Rechtsverordnungen auf Grund der in § 2 Satz 1 Nummer 1
 bezeichneten Vorschriften oder auf Grund dieses Gesetzes kann als für
@@ -887,6 +935,7 @@ die Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
 
 ### § 36 Anwendungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html#BJNR300300021BJNE003902119)
 
 Die Anwendung des § 5 Absatz 1a bis 1c, des § 6 Absatz 1a und des § 19
 Absatz 1 Satz 2 steht für jedes der Jahre 2026 und 2027 unter dem

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg/BJNR112200969.html#BJNR112200969BJNE000100317)
 
 Bei der Hauptfeststellung der Einheitswerte des Grundbesitzes auf den
 1\. Januar 1964 sowie bei Fortschreibungen und Nachfeststellungen der
@@ -38,6 +39,7 @@ als unbebautes Grundstück zu bewerten wäre."
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg/BJNR112200969.html#BJNR112200969BJNE000200317)
 
 Sind Einheitswerte des Grundbesitzes auf den 1. Januar 1964 nach § 77
 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 10.
@@ -46,11 +48,13 @@ worden, so ist der Feststellungsbescheid aufzuheben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg/BJNR112200969.html#BJNR112200969BJNE000300317)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg/BJNR112200969.html#BJNR112200969BJNE000400317)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -58,6 +62,7 @@ im Land Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bew_ndg/BJNR112200969.html#BJNR112200969BJNE000500317)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000100000)
 
 Auf Grund des § 3 Abs. 1 Satz 2, des § 8 Abs. 1 Satz 2 und des § 9
 Abs. 8 des Grundbuchbereinigungsgesetzes vom 20. Dezember 1993 (BGBl.
@@ -35,14 +36,17 @@ die Bundesregierung:
 
 
 ## Abschnitt 1 - Leitungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Leitungsrechtserstreckung
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNG000300000)
 
 
 
 #### § 1 Erstreckung auf wasserwirtschaftliche Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000300000)
 
 Die Regelungen des § 9 Abs. 1 bis 7 des Grundbuchbereinigungsgesetzes
 und der §§ 4 bis 10 dieser Verordnung über Energieanlagen gelten,
@@ -61,6 +65,7 @@ seiner Rechtsform.
 
 
 #### § 2 Geltung des Bescheinigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000400000)
 
 Die verwaltungstechnischen Voraussetzungen für das
 Bescheinigungsverfahren nach § 9 Abs. 4 bis 7 des
@@ -69,6 +74,7 @@ Gesetzes bezeichneten Anlagen vor.
 
 
 #### § 3 Behördenzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000500000)
 
 Zuständig für die Durchführung des Bescheinigungsverfahrens sind bei
 Anlagen nach § 1 Satz 1, vorbehaltlich einer abweichenden
@@ -77,10 +83,12 @@ Grundbuchbereinigungsgesetzes, die unteren Wasserbehörden.
 
 
 ### Unterabschnitt 2 - Inhalt der Rechte und Bescheinigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNG000400000)
 
 
 
 #### § 4 Inhalt der Leitungs- und Anlagenrechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000600000)
 
 (1) Die nach § 9 Abs. 1 des Grundbuchbereinigungsgesetzes entstandene
 beschränkte persönliche Dienstbarkeit umfaßt das Recht, in eigener
@@ -244,6 +252,7 @@ Gesetzbuchs.
 
 
 #### § 5 Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000700000)
 
 Wenn nach dem 24. Dezember 1993 die Voraussetzungen für eine
 Verpflichtung zur Duldung von Energieanlagen nach den in § 9 Abs. 2
@@ -256,6 +265,7 @@ bezeichneten Anlagen entsprechend.
 
 
 #### § 6 Antrag auf Erteilung der Leitungs- und Anlagenrechtsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000800000)
 
 (1) Der Antrag auf Erteilung der Leitungs- und
 Anlagenrechtsbescheinigung für die Dienstbarkeit gemäß § 9 Abs. 4 des
@@ -279,6 +289,7 @@ wenn es sich um eine zusammenhängende Leitungstrasse handelt.
 
 
 #### § 7 Erteilung der Leitungs- und Anlagenrechtsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE000900000)
 
 (1) Die zuständige Behörde macht den Antrag oder den Ort, an dem der
 Antrag und die ihm beigefügten Unterlagen eingesehen werden können, in
@@ -373,6 +384,7 @@ verweisen.
 
 
 #### § 8 Grundbuchberichtigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001000000)
 
 (1) Auf Antrag des Versorgungsunternehmens, dem eine der Zahl der
 betroffenen Grundbuchblätter entsprechende Anzahl Kopien der ersten
@@ -394,6 +406,7 @@ Eintragungsdatums.
 
 
 #### § 9 Berichtigungsbewilligung, Verzichtsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001100000)
 
 (1) Eine Bewilligung, die nach ihrem Inhalt der Berichtigung des
 Grundbuchs wegen eines Rechtes nach § 9 Abs. 1 des
@@ -414,6 +427,7 @@ ist.
 
 
 #### § 10 Erlöschensbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001200000)
 
 Auf Antrag des Versorgungsunternehmens, des Grundstückseigentümers,
 des Erbbauberechtigten oder des Gebäudeeigentümers bescheinigt die
@@ -429,10 +443,12 @@ daß die betreffende Dienstbarkeit erloschen ist.
 
 
 ### Unterabschnitt 3 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNG000500000)
 
 
 
 #### § 11 Anwendungsregelung für Energieanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001300000)
 
 Die §§ 6 bis 10 sind von dem Tage an auf Energieanlagen anzuwenden, an
 dem in dem jeweiligen Land die Rechtsverordnung nach § 9 Abs. 11 Satz
@@ -440,10 +456,12 @@ dem in dem jeweiligen Land die Rechtsverordnung nach § 9 Abs. 11 Satz
 
 
 ## Abschnitt 2 - Wertbeständige Hypotheken, nicht eingetragene Rechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNG001400000)
 
 
 
 ### § 12 Mittelwerte und Marktpreise bei sonstigen wertbeständigen Grundpfandrechten
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001500000)
 
 Bei wertbeständigen Grundpfandrechten im Sinne des § 3 Abs. 1 Satz 1
 und Abs. 2 des Grundbuchbereinigungsgesetzes sind für die jeweils
@@ -478,6 +496,7 @@ bestimmten Waren oder Leistungen folgende Werte zugrundezulegen:
 
 
 ### § 13 Verlängerung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001600000)
 
 (1) Die Frist des § 8 Abs. 1 Satz 1 und nach § 8 Abs. 3 Satz 3 in
 Verbindung mit § 8 Abs. 1 Satz 1 des Grundbuchbereinigungsgesetzes
@@ -493,15 +512,18 @@ zum Ablauf des 31. Dezember 1997 verlängert.
 
 
 ## Abschnitt 3 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNG001700000)
 
 
 
 ### § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001800000)
 
 Diese Verordnung tritt am 11. Januar 1995 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sachenr-dv/BJNR390000994.html#BJNR390000994BJNE001900000)
 
 Der Bundesrat hat zugestimmt.
 

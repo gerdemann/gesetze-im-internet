@@ -37,9 +37,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000300000)
 
 (1) Dieses Gesetz regelt im Interesse einer umfassenden und auf
 Langfristigkeit angelegten Information der Endverbraucher die
@@ -55,6 +57,7 @@ Kennzeichnungsvorschriften bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000400000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -119,12 +122,15 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Abschnitt 2 - Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000200000)
 
 
 ### Unterabschnitt 1 - Vorgaben zur Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000300000)
 
 
 #### § 3 Verpflichtende Kennzeichnung inländischer Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000500000)
 
 (1) Ein Lebensmittelunternehmer, der ein Lebensmittel tierischen
 Ursprungs nach Anlage 1, das von einer in Anlage 2 genannten Tierart
@@ -175,6 +181,7 @@ gehalten werden.
 
 
 #### § 4 Haltungsformen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000600000)
 
 (1) Die Haltungsformen, die bei der Kennzeichnung nach § 3 Absatz 1
 verwendet werden, sind:
@@ -215,6 +222,7 @@ der Verordnung (EU) 2018/848 zertifiziert ist.
 
 
 #### § 5 Bezeichnung der Haltungsformen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000700000)
 
 (1) Bei der Kennzeichnung nach § 3 Absatz 1 darf keine andere
 Bezeichnung verwendet werden als die der nach § 4 Absatz 2 und 3
@@ -241,6 +249,7 @@ Auslauf/Weide zu kennzeichnen.
 
 
 #### § 6 Allgemeine Anforderungen an die Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000800000)
 
 Die Kennzeichnung nach § 3 Absatz 1 ist leicht zugänglich, deutlich,
 gut sichtbar und gut lesbar in deutscher Sprache anzubringen. Sie darf
@@ -249,6 +258,7 @@ Material verdeckt, undeutlich gemacht oder getrennt werden.
 
 
 #### § 7 Kennzeichnung bei vorverpackten Lebensmitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE000900000)
 
 (1) Die Kennzeichnung nach § 3 Absatz 1 ist bei vorverpackten
 Lebensmitteln im Hauptsichtfeld auf der Verpackung oder auf einem an
@@ -336,6 +346,7 @@ ein in § 11 genannter Fall vorliegt.
 
 
 #### § 8 Kennzeichnung in Farbe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001000000)
 
 Abweichend von § 7 Absatz 2 kann die verpflichtende Kennzeichnung nach
 § 3 Absatz 1 nach Maßgabe des Musters und der technischen Beschreibung
@@ -343,6 +354,7 @@ der Anlage 7 mit mintgrünem Hintergrund verwendet werden.
 
 
 #### § 9 Kennzeichnung bei nicht vorverpackten Lebensmitteln
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001101119)
 
 (1) Die Kennzeichnung nach § 3 Absatz 1 bei nicht vorverpackten
 Lebensmitteln hat auf einem Schild auf dem Lebensmittel oder in der
@@ -375,6 +387,7 @@ Aushang in der Verkaufsstätte an gut sichtbarer Stelle
 
 
 #### § 10 Kennzeichnung im Fernabsatz
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001201119)
 
 Wird ein nach § 3 Absatz 1 kennzeichnungspflichtiges Lebensmittel
 durch den Einsatz von Fernkommunikationstechniken zur Abgabe an den
@@ -406,6 +419,7 @@ Endverbraucher angeboten, so muss die Kennzeichnung zusätzlich
 
 
 #### § 11 Sonderfälle der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001300000)
 
 (1) Enthält ein nach § 3 Absatz 1 kennzeichnungspflichtiges
 Lebensmittel, das aus mehreren kennzeichnungspflichtigen Lebensmitteln
@@ -525,9 +539,11 @@ entsprechend.
 
 
 ### Unterabschnitt 2 - Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000400000)
 
 
 #### § 12 Mitteilung von Haltungseinrichtungen inländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001401119)
 
 (1) Ein Inhaber eines tierhaltenden Betriebs muss die Haltung von
 Tieren, von denen nach § 3 Absatz 1 kennzeichnungspflichtige
@@ -615,6 +631,7 @@ vorgibt, sind diese zu verwenden.
 [^F833738_02_BJNR0DC0A0023BJNE001401119]: 
 
 #### § 13 Änderungsmitteilung für inländische Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001500000)
 
 (1) Sobald eine Änderung eingetreten ist, hat der Inhaber des
 tierhaltenden Betriebs diese der nach § 12 Absatz 1 zuständigen
@@ -637,6 +654,7 @@ Haltungsabschnitts nicht überschreiten.
 
 
 #### § 14 Festlegung einer unbefristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001600000)
 
 (1) Wenn eine nach § 12 Absatz 1 mitgeteilte Haltungseinrichtung den
 Anforderungen an die angegebene Haltungsform nach § 4 Absatz 2 oder
@@ -683,9 +701,11 @@ personenbezogenen
 
 
 #### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001701119)
 
 
 #### § 16 Register für inländische Betriebe und Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001801119)
 
 (1) Die nach § 12 Absatz 1 zuständige Behörde hat zum Zwecke der
 Überwachung der Einhaltung der Vorschriften dieses Gesetzes ein
@@ -719,6 +739,7 @@ fortlaufend anzupassen.
 
 
 #### § 17 Verarbeitung von Daten inländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE001901119)
 
 (1) Die nach § 12 Absatz 1 zuständige Behörde ist befugt, die Daten
 nach § 12 Absatz 2, § 13 Absatz 1, den §§ 14 und 19 Absatz 1 sowie die
@@ -736,6 +757,7 @@ Einhaltung der Vorschriften dieses Gesetzes verarbeitet werden.
 
 
 #### § 18 Löschung von Daten inländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002001119)
 
 Vorbehaltlich anderer gesetzlicher Regelungen sind personenbezogene
 und nicht personenbezogene Daten nach § 12 Absatz 2, § 13 Absatz 1,
@@ -747,9 +769,11 @@ Löschung automatisiert zu erfolgen.
 
 
 ### Unterabschnitt 3 - Aufzeichnungspflichten und Rückverfolgbarkeit inländischer Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000500000)
 
 
 #### § 19 Aufzeichnungspflichten inländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002100000)
 
 (1) Der Inhaber des tierhaltenden Betriebs ist verpflichtet, im
 Hinblick auf jede nach § 12 Absatz 1 mitgeteilte Haltungseinrichtung
@@ -815,6 +839,7 @@ der Viehverkehrsverordnung besitzt, die Registriernummer anzugeben.
 
 
 #### § 20 Anforderungen an die Rückverfolgbarkeit für inländische Lebensmittelunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002201119)
 
 (1) Lebensmittelunternehmer auf allen Produktions- und Vertriebsstufen
 von Lebensmitteln nach § 3 Absatz 1 haben vor der Weitergabe von
@@ -852,12 +877,15 @@ elektronischem Wege, abrufbar sind.
 
 
 ## Abschnitt 3 - Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000600000)
 
 
 ### Unterabschnitt 1 - Vorgaben zur Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000700000)
 
 
 #### § 21 Freiwillige Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002301119)
 
 (1) Wenn ein Lebensmittelunternehmer Lebensmittel nach Anlage 1, die
 von einer in Anlage 2 genannten Tierart gewonnen wurden und
@@ -942,6 +970,7 @@ zuständigen Behörde vorzulegen.
 
 
 #### § 22 Antrag auf Genehmigung zur Verwendung der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002401119)
 
 (1) Der Antrag auf Erteilung einer Genehmigung nach § 21 Absatz 1 Satz
 1 ist von dem Lebensmittelunternehmer zu stellen, der das Lebensmittel
@@ -1051,6 +1080,7 @@ sind diese zu verwenden.
 [^F833738_04_BJNR0DC0A0023BJNE002401119]: 
 
 #### § 23 Erteilung und Verlängerung der Genehmigung zur Verwendung der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002500000)
 
 (1) Die zuständige Behörde hat die Genehmigung zu erteilen, wenn der
 antragstellende Lebensmittelunternehmer nachgewiesen hat, dass
@@ -1092,6 +1122,7 @@ löschen.
 
 
 #### § 24 Änderungsmitteilung der Genehmigungsinhaber und Aufhebung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002600000)
 
 (1) Der Lebensmittelunternehmer, der eine Genehmigung nach § 22 Absatz
 1 Satz 1 beantragt oder nach § 23 Absatz 1 erhalten hat, hat der
@@ -1127,9 +1158,11 @@ unberührt.
 
 
 ### Unterabschnitt 2 - Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000800000)
 
 
 #### § 25 Mitteilung von Haltungseinrichtungen ausländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002701119)
 
 (1) Ein Inhaber eines tierhaltenden Betriebs kann der Bundesanstalt
 für Landwirtschaft und Ernährung als zuständiger Behörde die Haltung
@@ -1223,6 +1256,7 @@ verwenden.
 [^F833738_06_BJNR0DC0A0023BJNE002701119]: 
 
 #### § 26 Änderungsmitteilung für ausländische Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002800000)
 
 (1) Sobald eine Änderung eingetreten ist, hat der Inhaber des
 tierhaltenden Betriebs diese der Bundesanstalt für Landwirtschaft und
@@ -1245,6 +1279,7 @@ Haltungsabschnitts nicht überschreiten.
 
 
 #### § 27 Festlegung einer Kennnummer für ausländische Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE002900000)
 
 (1) Wenn der Inhaber des tierhaltenden Betriebs nachgewiesen hat, dass
 die in der Mitteilung nach § 25 Absatz 1 bezeichnete
@@ -1315,6 +1350,7 @@ Absatz 3 oder Absatz 5 erforderlich sind.
 
 
 #### § 28 Verwendung einer Kennnummer ausländischer Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003000000)
 
 (1) Der Inhaber eines tierhaltenden Betriebs oder ein anderer
 Lebensmittelunternehmer kann die Kennnummer der Haltungseinrichtung,
@@ -1334,6 +1370,7 @@ zu verbieten.
 
 
 #### § 29 Register ausländischer Betriebe und Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003100000)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung hat zum Zwecke
 der Überwachung der Einhaltung der Vorschriften dieses Gesetzes ein
@@ -1359,6 +1396,7 @@ fortlaufend anzupassen.
 
 
 #### § 30 Verarbeitung von Daten von Genehmigungsinhabern und ausländischen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003201119)
 
 (1) Die zuständigen Behörden sind befugt, die Daten nach § 22 Absatz
 3, 5 und 6 Nummer 2, den §§ 23, 24 Absatz 1 bis 3, § 25 Absatz 2, § 26
@@ -1377,6 +1415,7 @@ gestellt, werden.
 
 
 #### § 31 Löschung von Daten von Genehmigungsinhabern und ausländischen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003300000)
 
 Vorbehaltlich anderer gesetzlicher Regelungen sind personenbezogene
 und nicht personenbezogene Daten nach § 22 Absatz 3, 4, 6 Nummer 2,
@@ -1390,6 +1429,7 @@ automatisiert zu erfolgen.
 
 
 #### § 32 Aufzeichnungspflichten ausländischer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003400000)
 
 (1) Der Inhaber eines tierhaltenden Betriebs ist verpflichtet, im
 Hinblick auf jede in der Mitteilung nach § 25 Absatz 1 Satz 1
@@ -1455,9 +1495,11 @@ der Viehverkehrsverordnung besitzt, die Registriernummer anzugeben.
 
 
 ## Abschnitt 4 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG000900000)
 
 
 ### § 33 Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003500000)
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes einschließlich
 der Überwachung der Einhaltung obliegt den zuständigen Behörden der
@@ -1494,6 +1536,7 @@ Verstöße und zur Verhütung künftiger Verstöße insbesondere
 
 
 ### § 34 Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003601119)
 
 (1) Soweit es zur Überwachung der Einhaltung der Vorschriften dieses
 Gesetzes notwendig ist, sind die von der zuständigen Behörde mit der
@@ -1551,6 +1594,7 @@ vernichten.
 
 
 ### § 35 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003701119)
 
 (1) Die Inhaber des tierhaltenden Betriebs und Lebensmittelunternehmer
 und die vom Inhaber des tierhaltenden Betriebs oder
@@ -1582,6 +1626,7 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 
 
 ### § 36 Übertragung von Aufgaben der zuständigen Behörde auf Personen des Privatrechts
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003800000)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnungen
 die Übertragung von Aufgaben der zuständigen Behörden nach den
@@ -1608,6 +1653,7 @@ Rechtsverordnung auf andere Behörden übertragen.
 
 
 ### § 37 Gegenseitige Information
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE003901119)
 
 (1) Die für die Durchführung dieses Gesetzes zuständigen Behörden und
 Stellen des Bundes und der Länder haben sich gegenseitig die für den
@@ -1631,9 +1677,11 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 ## Abschnitt 5 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG001000000)
 
 
 ### § 38 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004001119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1693,6 +1741,7 @@ Vorschriften zuständig ist.
 
 
 ### § 39 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004101119)
 
 Ist eine Ordnungswidrigkeit nach § 38 Absatz 1 begangen worden, so
 können
@@ -1710,9 +1759,11 @@ anzuwenden.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNG001100000)
 
 
 ### § 40 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004201119)
 
 (1) Abweichend von § 12 Absatz 1 sind Haltungseinrichtungen, in denen
 am 24. August 2023 Tiere gehalten werden, von denen nach § 3 Absatz 1
@@ -1729,6 +1780,7 @@ jeweiligen Bestände aufgebraucht sind.
 
 
 ### § 41 Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004300000)
 
 Verweisungen in diesem Gesetz auf Vorschriften der Europäischen
 Gemeinschaft oder der Europäischen Union beziehen sich auf die in
@@ -1736,6 +1788,7 @@ Anlage 11 angegebenen Fassungen.
 
 
 ### § 42 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004401119)
 
 Das Bundesministerium für Landwirtschaft, Ernährung und Heimat hat dem
 Deutschen Bundestag fünf Jahre nach Inkrafttreten dieses Gesetzes über
@@ -1744,11 +1797,13 @@ berichten.
 
 
 ### § 43 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004500000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 Lebensmittel tierischen Ursprungs im Anwendungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 21)
 
@@ -1759,6 +1814,7 @@ Ausnahme von Fleischzubereitungen.
 
 
 ### Anlage 2 Tierarten im Anwendungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 22)
 
@@ -1784,6 +1840,7 @@ Ausnahme von Fleischzubereitungen.
 (zu § 3 Absatz 2)
 
 ### Anlage 3 Maßgeblicher Haltungsabschnitt
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 23)
 
@@ -1796,6 +1853,7 @@ Lebendgewicht von durchschnittlich 30 Kilogramm erreicht haben.
 (zu § 4 Absatz 2 Nummer1)
 
 ### Anlage 4 Anforderungen an die Haltung von Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE004901119)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 24 - 27;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2306,6 +2364,7 @@ Mastschweine müssen
 (zu § 7 Absatz 2)
 
 ### Anlage 5 Kennzeichnung bei vorverpackten Lebensmitteln in schwarzer Farbe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 28 - 29)
 
@@ -2461,6 +2520,7 @@ Mastschweine müssen
 (zu § 7 Absatz 3 Satz 3)
 
 ### Anlage 6 Kennzeichnung in schwarzer Farbe bei vorverpackten Lebensmitteln tierischen Ursprungs von unterschiedlichen Tierarten
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 30)
 
@@ -2534,6 +2594,7 @@ Mastschweine müssen
 (zu § 8)
 
 ### Anlage 7 Kennzeichnung bei vorverpackten Lebensmitteln in Farbe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 31)
 
@@ -2576,6 +2637,7 @@ Mastschweine müssen
 (zu § 11)
 
 ### Anlage 8 Sonderfälle der Kennzeichnung bei vorverpackten Lebensmitteln in schwarzer Farbe
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 32 - 33)
 
@@ -2727,6 +2789,7 @@ Mastschweine müssen
 (zu § 14 Absatz 5)
 
 ### Anlage 9 Kennung für die Haltung bei inländischen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 34)
 
@@ -2788,6 +2851,7 @@ Beispiel: SWSTADE01
 (zu § 27 Absatz 2)
 
 ### Anlage 10 Kennung für die Haltung bei ausländischen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 35)
 
@@ -2829,6 +2893,7 @@ Beispiel: SWSTAEL
 (zu § 41)
 
 ### Anlage 11 Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tierhaltkennzg/BJNR0DC0A0023.html#BJNR0DC0A0023BJNE005600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 220, S. 36)
 

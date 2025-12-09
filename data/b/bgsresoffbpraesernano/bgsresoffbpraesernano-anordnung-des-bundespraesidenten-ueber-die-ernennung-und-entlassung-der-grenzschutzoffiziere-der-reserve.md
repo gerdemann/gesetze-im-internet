@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgsresoffbpr_sernano/BJNR114650973.html#BJNR114650973BJNE000100314)
 
 Auf Grund des § 55 Abs. 1 des Gesetzes über den Bundesgrenzschutz vom
 18\. August 1972 (BGBl. I S. 1834) ordne ich an:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bgsresoffbpr_sernano/BJNR114650973.html#BJNR114650973BJNE000200314)
 
 (1) Ich übertrage das Recht zur Ernennung und Entlassung aller
 Grenzschutzoffiziere der Reserve bis zum Oberst i. BGS der Reserve dem
@@ -36,12 +38,14 @@ ihm unmittelbar nachgeordneten Behörden weiter übertragen.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bgsresoffbpr_sernano/BJNR114650973.html#BJNR114650973BJNE000300314)
 
 Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen
 erläßt der Bundesminister des Innern.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bgsresoffbpr_sernano/BJNR114650973.html#BJNR114650973BJNE000400314)
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

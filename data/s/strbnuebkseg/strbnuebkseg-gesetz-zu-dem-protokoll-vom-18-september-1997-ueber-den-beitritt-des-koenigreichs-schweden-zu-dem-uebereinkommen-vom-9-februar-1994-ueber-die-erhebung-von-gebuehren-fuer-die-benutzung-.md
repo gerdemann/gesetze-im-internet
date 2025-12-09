@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bkseg/BJNR161520998.html#BJNR161520998BJNE000100311)
 
 (1) Folgenden völkerrechtlichen Übereinkünften wird zugestimmt:
 
@@ -43,6 +44,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bkseg/BJNR161520998.html#BJNR161520998BJNE000200311)
 
 Soweit das Autobahnbenutzungsgebührengesetz für schwere Nutzfahrzeuge
 - ABBG - vom 30. August 1994 (BGBl. 1994 II S. 1765, 2476) auf das
@@ -53,6 +55,7 @@ Zusatzübereinkommen als Bestandteil dieses Übereinkommens.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bkseg/BJNR161520998.html#BJNR161520998BJNE000400311)
 
 (1) Artikel 2 dieses Gesetzes tritt an dem Tage in Kraft, an dem das
 Protokoll nach seinem Artikel 3 Abs. 1 für die Bundesrepublik

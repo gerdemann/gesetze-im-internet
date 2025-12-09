@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gkvbegrg_2003/BJNR464000002.html#BJNR464000002BJNE000101308)
 
 Abweichend von § 71 Abs. 3 des Fünften Buches Sozialgesetzbuch gilt
 für das Jahr 2003 anstelle der vom Bundesministerium für Gesundheit

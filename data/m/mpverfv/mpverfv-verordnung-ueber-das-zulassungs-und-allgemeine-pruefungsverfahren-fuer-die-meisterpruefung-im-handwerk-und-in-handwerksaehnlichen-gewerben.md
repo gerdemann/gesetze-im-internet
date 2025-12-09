@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNG000100000)
 
 
 ### § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000200000)
 
 Diese Verordnung regelt das Zulassungs- und allgemeine
 Prüfungsverfahren für die Meisterprüfung im Handwerk und in
@@ -30,6 +32,7 @@ für die Teile III und IV der Meisterprüfung bleiben unberührt.
 
 
 ### § 2 Zuständiger Meisterprüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000300000)
 
 (1) Für die Durchführung jedes Teils der Meisterprüfung ist der
 Meisterprüfungsausschuss örtlich zuständig, in dessen
@@ -69,6 +72,7 @@ Wiederholungsprüfungen.
 
 
 ### § 3 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000400000)
 
 (1) Der Meisterprüfungsausschuss ist beschlussfähig, wenn mehr als die
 Hälfte der Mitglieder anwesend sind. Abweichend von Satz 1 müssen alle
@@ -112,6 +116,7 @@ ist bei der Berufung festzulegen.
 
 
 ### § 4 Ausschluss von der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000500000)
 
 (1) Bei Entscheidungen des Meisterprüfungsausschusses sowie bei der
 Abnahme und Bewertung jedes Teils der Meisterprüfung dürfen nicht
@@ -208,6 +213,7 @@ teilnehmen.
 
 
 ### § 5 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000600000)
 
 Die Mitglieder des Meisterprüfungsausschusses und der
 Prüfungskommissionen sind zur Amtsverschwiegenheit verpflichtet. Diese
@@ -216,6 +222,7 @@ Meisterprüfungsausschuss oder einer Prüfungskommission bestehen.
 
 
 ### § 6 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000700000)
 
 (1) Die Meisterprüfung ist nicht öffentlich.
 
@@ -231,6 +238,7 @@ Abnahme von Prüfungsleistungen anwesend sind.
 
 
 ### § 7 Rücktritt, Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000800000)
 
 (1) Von jedem Teil der Meisterprüfung kann der Prüfling bis zum Beginn
 der ersten Prüfungsleistung in diesem Teil durch schriftliche oder
@@ -256,6 +264,7 @@ Absatz 1 Satz 2 der Meisterprüfungsausschuss.
 
 
 ### § 8 Täuschungshandlungen, Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE000900000)
 
 (1) Täuschungshandlungen sind untersagt. Eine Täuschungshandlung liegt
 vor, wenn ein Prüfling es unternimmt, das Ergebnis einer
@@ -302,9 +311,11 @@ Absatz 4 gilt entsprechend.
 
 
 ## Abschnitt 2 - Organisation und Vorbereitung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNG000200000)
 
 
 ### § 9 Organisation der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001000000)
 
 (1) Der Vorsitzende des Meisterprüfungsausschusses beraumt die
 Prüfungstermine für die in einem Teil der Meisterprüfung zu
@@ -324,6 +335,7 @@ während des Erbringens der Prüfungsleistungen.
 
 
 ### § 10 Bildung und Zusammensetzung von Prüfungskommissionen, Zuweisung von Prüfungsleistungen, Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001100000)
 
 (1) Der Meisterprüfungsausschuss bildet für die anberaumten
 Prüfungstermine Prüfungskommissionen und weist ihnen folgende Aufgaben
@@ -426,6 +438,7 @@ bleibt.
 
 
 ### § 11 Zulassung zur Meisterprüfung, Anmeldung zu einer Prüfungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001200000)
 
 (1) Der Antrag auf Zulassung zur Meisterprüfung ist schriftlich oder
 elektronisch zu stellen. Darin ist anzugeben, für welches Handwerk
@@ -468,6 +481,7 @@ Meisterprüfung vorgelegt, ist § 8 Absatz 4 entsprechend anzuwenden.
 
 
 ### § 12 Nachteilsausgleich für Menschen mit Behinderungen oder Teilleistungsstörungen
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001300000)
 
 (1) Bei der Durchführung der Prüfungsleistung sind die besonderen
 Verhältnisse von Menschen mit Behinderungen zu berücksichtigen.
@@ -487,6 +501,7 @@ sonstige geeignete Bescheinigungen geführt werden kann.
 
 
 ### § 13 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001400000)
 
 (1) Anträge auf Befreiung von einzelnen Teilen der Meisterprüfung
 können zusammen mit dem Antrag auf Zulassung oder mit der Anmeldung zu
@@ -509,6 +524,7 @@ von Teilen der Meisterprüfung führen, gilt Satz 1 entsprechend.
 
 
 ### § 14 Einladung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001500000)
 
 Der Prüfling ist spätestens zwei Wochen vor der zu erbringenden
 Prüfungsleistung schriftlich oder elektronisch einzuladen. Die
@@ -531,9 +547,11 @@ Einladung hat mindestens folgende Angaben zu enthalten:
 
 
 ## Abschnitt 3 - Durchführung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNG000300000)
 
 
 ### § 15 Prüfungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001600000)
 
 (1) Der Meisterprüfungsausschuss hat nach Maßgabe der jeweiligen
 Meisterprüfungsverordnung für die Teile I und II und der Allgemeinen
@@ -607,6 +625,7 @@ selben Zeitpunkt am gleichen Ort (Klausur) erfolgen.
 
 
 ### § 16 Ausweispflicht, Belehrung und Vorstellung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001700000)
 
 (1) Der Prüfling hat sich auf Verlangen der mit der Aufsicht
 beauftragten Person oder eines Mitglieds des
@@ -626,6 +645,7 @@ Prüfling vorgestellt werden.
 
 
 ### § 17 Durchführung des Meisterprüfungsprojekts, Anfertigung der Meisterprüfungsarbeit, Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001800000)
 
 (1) Anhand der Anforderungen nach § 15 Absatz 1 Satz 1 Nummer 1 hat
 der Prüfling dem Meisterprüfungsausschuss ein Umsetzungskonzept für
@@ -681,6 +701,7 @@ weitere Prüfungsverfahren bindend.
 
 
 ### § 18 Durchführung des Fachgesprächs, der Ergänzungsprüfung und sonstiger mündlicher Prüfungen, Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE001900000)
 
 (1) Das Fachgespräch nimmt die Prüfungskommission als Einzelgespräch
 ab.
@@ -716,6 +737,7 @@ weitere Prüfungsverfahren bindend.
 
 
 ### § 19 Durchführung der Situationsaufgabe oder Arbeitsprobe und der praktischen Prüfung, Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002000000)
 
 (1) Die Prüfungskommission nimmt die Situationsaufgabe oder die
 Arbeitsprobe in Teil I und die Präsentation oder die praktische
@@ -750,6 +772,7 @@ Prüfungsverfahren bindend.
 
 
 ### § 20 Durchführung schriftlicher Prüfungen, Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002100000)
 
 (1) Für die Durchführung schriftlicher Prüfungen in den Teilen II, III
 und IV der Meisterprüfung kann der Vorsitzende des
@@ -814,6 +837,7 @@ sind einzuhalten.
 
 
 ### § 21 Bewertung der Prüfungsleistungen und Berechnung der Prüfungsergebnisse in den Teilen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002200000)
 
 (1) Vorbehaltlich des Absatzes 2 haben die Mitglieder der
 Prüfungskommission anhand der einheitlichen Maßstäbe nach § 15 Absatz
@@ -863,9 +887,11 @@ in Worten festgesetzt.
 
 
 ## Abschnitt 4 - Abschluss des Meisterprüfungsverfahrens, Wiederholung, Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNG000400000)
 
 
 ### § 22 Beschlüsse über die Noten und das Bestehen, Abschluss des Meisterprüfungsverfahrens, Bescheinigungen von Schwerpunkten sowie zum Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002300000)
 
 (1) Die Beschlüsse über das Ergebnis und über das Bestehen oder
 Nichtbestehen des jeweiligen Teils der Meisterprüfung sowie über das
@@ -915,6 +941,7 @@ aufgenommen werden.
 
 
 ### § 23 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002400000)
 
 (1) Jeder nicht bestandene Teil der Meisterprüfung kann dreimal
 wiederholt werden.
@@ -933,6 +960,7 @@ mit der Anmeldung stellt.
 
 
 ### § 24 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002500000)
 
 (1) Über jeden Teil der Meisterprüfung ist eine Niederschrift zu
 fertigen, die von den Mitgliedern des die Teilprüfung durchführenden
@@ -972,6 +1000,7 @@ Bewertungsniederschriften sind der Niederschrift beizufügen.
 
 
 ### § 25 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002600000)
 
 (1) Auf schriftlichen oder elektronischen Antrag ist dem Prüfling
 binnen der gesetzlich vorgegebenen Frist zur Einlegung eines
@@ -987,9 +1016,11 @@ fünfzehn Jahre nach Abschluss der Meisterprüfung aufzubewahren.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNG000500000)
 
 
 ### § 26 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002700000)
 
 (1) Beschlüsse über das Ergebnis und über das Bestehen oder
 Nichtbestehen eines Teils der Meisterprüfung, die nach den vor dem 1.
@@ -1011,6 +1042,7 @@ zuzuordnen sind, sind diese Vorschriften nicht mehr anzuwenden.
 (zu § 21)
 
 ### Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002800000)
 
 (Fundstelle: BGBl. I 2022, 48 - 49)
 
@@ -1312,6 +1344,7 @@ zuzuordnen sind, sind diese Vorschriften nicht mehr anzuwenden.
 (zu § 22 Absatz 3)
 
 ### Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/mpverfv/BJNR003910022.html#BJNR003910022BJNE002900000)
 
 (Fundstelle: BGBl. I 2022, 50)
 

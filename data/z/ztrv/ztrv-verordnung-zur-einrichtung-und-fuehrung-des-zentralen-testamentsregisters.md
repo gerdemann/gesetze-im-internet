@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000100000)
 
 Auf Grund des § 78 Absatz 2 Satz 2 bis 5 in Verbindung mit § 78 Absatz
 2 Satz 1 Nummer 2 der Bundesnotarordnung, der durch Artikel 1 Nummer 1
@@ -28,6 +29,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Inhalt des Registers
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000200000)
 
 Die Registerbehörde nimmt folgende Verwahrangaben in das Zentrale
 Testamentsregister auf:
@@ -70,6 +72,7 @@ Auffinden der erbfolgerelevanten Urkunde erforderlich sind.
 
 
 ## § 2 Meldung zum Register
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000301311)
 
 (1) Notare und Gerichte (Melder) übermitteln nach § 34a Absatz 1 und 2
 des Beurkundungsgesetzes, nach § 347 des Gesetzes über das Verfahren
@@ -91,6 +94,7 @@ Erblasser mitgeteilt wurden.
 
 
 ## § 3 Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000400000)
 
 (1) Die Registerbehörde fasst die übermittelten Verwahrangaben für
 jeden Erblasser unter einer Registernummer zu einem Datensatz
@@ -117,6 +121,7 @@ Absatz 1 Satz 1 bei dem Verwahrgericht nicht aufgefunden werden kann.
 
 
 ## § 4 Verfahren bei Änderungen der Verwahrstelle oder Rücknahme aus der amtlichen Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000500000)
 
 (1) Die erneute besondere amtliche Verwahrung oder die Änderung der
 Verwahrstelle einer erbfolgerelevanten Urkunde auf Wunsch des
@@ -133,6 +138,7 @@ entsprechend.
 
 
 ## § 5 Löschung, Berichtigung und Ergänzung
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000600000)
 
 Ein Verwahrdatensatz wird von der Registerbehörde
 
@@ -155,6 +161,7 @@ bestätigt ist. § 3 Absatz 2 gilt entsprechend.
 
 
 ## § 6 Inhalt der Sterbefallmitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000701311)
 
 (1) Die Sterbefallmitteilung nach § 78e Satz 1 der Bundesnotarordnung
 enthält folgende Daten:
@@ -239,6 +246,7 @@ sind.
 
 
 ## § 7 Benachrichtigungen im Sterbefall
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000804125)
 
 (1) Erhält die Registerbehörde von dem zuständigen Standesamt eine
 Sterbefallmitteilung zu einer Person, für die im Zentralen
@@ -292,6 +300,7 @@ Urkunde in den betroffenen Verwahrdatensätzen.
 
 
 ## § 8 Registerauskünfte
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE000903125)
 
 (1) Die Registerbehörde erteilt Auskunft aus dem Zentralen
 Testamentsregister nach § 78f Absatz 1 der Bundesnotarordnung, wenn
@@ -358,6 +367,7 @@ bleiben unberührt.
 
 
 ## § 9 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE001002125)
 
 (1) Meldungen, Bestätigungen, Benachrichtigungen, Registerabfragen und
 -auskünfte erfolgen grundsätzlich elektronisch.
@@ -394,6 +404,7 @@ erfolgen, insbesondere
 
 
 ## § 10 Elektronische Aufbewahrung und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE001102125)
 
 (1) Die Registerbehörde bewahrt die Verwahrangaben betreffenden
 Dokumente und Sterbefallmitteilungen nur in elektronischer Form auf.
@@ -409,6 +420,7 @@ betreffen, § 78d Absatz 1 Satz 3 der Bundesnotarordnung entsprechend.
 
 
 ## § 11 Nacherfassungen
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE001201125)
 
 Wird festgestellt, dass eine verwahrte erbfolgerelevante Urkunde nicht
 im Zentralen Testamentsregister registriert ist, obwohl dies nach dem
@@ -417,6 +429,7 @@ entsprechende Meldung von der Verwahrstelle nachzuholen.
 
 
 ## § 12 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE001301125)
 
 (1) Das Register ist nur durch solche informationstechnische Netze
 zugänglich, die durch eine staatliche Stelle oder im Auftrag einer
@@ -434,11 +447,13 @@ Umsetzung der Vorgaben dieser Verordnung gewährleisten.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE001400000)
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ztrv/BJNR138600011.html#BJNR138600011BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 

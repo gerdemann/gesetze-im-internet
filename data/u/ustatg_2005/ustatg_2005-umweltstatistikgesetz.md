@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000100000)
 
 Für Zwecke der Umweltpolitik und zur Erfüllung europa- und
 völkerrechtlicher Berichtspflichten werden Erhebungen als
@@ -27,6 +28,7 @@ Bundesstatistik durchgeführt.
 
 
 ## § 2 Erhebungen, Berichtsjahr
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000203311)
 
 (1) Die Statistik umfasst die Erhebungen
 
@@ -82,6 +84,7 @@ bestimmt ist.
 
 
 ## § 3 Erhebung der Abfallentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000303311)
 
 (1) Die Erhebung erfasst, beginnend mit dem Berichtsjahr 2006, bei den
 Betreibern von zulassungsbedürftigen Anlagen, in denen Abfälle
@@ -167,6 +170,7 @@ das Erhebungsmerkmal Erzeugung von Abfällen nach Art und Menge.
 
 
 ## § 4 Erhebung der Abfälle, über die Nachweise zu führen sind
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000401310)
 
 Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006,
 bei den zuständigen Behörden
@@ -200,6 +204,7 @@ bei den zuständigen Behörden
 
 
 ## § 5 Erhebung der Entsorgung bestimmter Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000503311)
 
 (1) Die Erhebung erfasst alle zwei Jahre, beginnend mit dem
 Berichtsjahr 2006, bei den Betreibern von Anlagen zur Aufbereitung und
@@ -239,6 +244,7 @@ Menge und Verbleib der Geräte.
 
 
 ## § 5a Erhebung des Inverkehrbringens und der Entsorgung bestimmter Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001801128)
 
 (1) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr
 2022, bei der Zentralen Stelle nach § 3 Absatz 18 des
@@ -388,6 +394,7 @@ Satz 1 genannten Daten bei diesen vorliegen.
 
 
 ## § 6 Aufbereitung und Veröffentlichung der abfallstatistischen Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000601311)
 
 (1) Das Statistische Bundesamt bereitet die Erhebungen nach den §§ 3
 bis 5a jährlich in Form von Bilanzen auf, die Aufkommen, Verwertung
@@ -399,6 +406,7 @@ spätestens 18 Monate nach Ablauf des Berichtsjahres.
 
 
 ## § 7 Erhebung der öffentlichen Wasserversorgung und Abwasserentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000703128)
 
 (1) Die Erhebung erfasst alle drei Jahre, beginnend mit dem
 Berichtsjahr 2022, bei Anstalten, Körperschaften, Unternehmen und
@@ -520,6 +528,7 @@ Gemeinde an die Abwasserentsorgung angeschlossenen Einwohner.
 
 
 ## § 8 Erhebung der nichtöffentlichen Wasserversorgung und Abwasserentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000803128)
 
 Die Erhebung erstreckt sich auf nichtöffentliche Betriebe, die
 mindestens 2 000 Kubikmeter Wasser pro Jahr gewinnen oder mindestens
@@ -562,6 +571,7 @@ Forstwirtschaft, Fischerei“ des Anhangs I der Verordnung (EG) Nr.
 
 
 ## § 8a Erhebung der Klärschlammaufbringungsflächen in der Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001900128)
 
 Die Erhebung erfasst ab dem Berichtsjahr 2022 jährlich bei den
 Stellen, die nach Landesrecht für die Entgegennahme der Angaben zur
@@ -576,6 +586,7 @@ dem Berichtsjahr folgenden Jahres an das Statistische Landesamt zu
 
 
 ## § 9 Erhebung der Unfälle beim Umgang mit und bei der Beförderung von wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE000903128)
 
 (1) Die Erhebung erfasst bei den nach Landesrecht für die
 Entgegennahme der Anzeigen über die Unfälle beim Umgang mit
@@ -645,6 +656,7 @@ wassergefährdender Stoffe.
 
 
 ## § 10 Erhebung bestimmter klimawirksamer Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001002311)
 
 (1) Die Erhebung erfasst bei Unternehmen, die Halogenderivate der
 aliphatischen Kohlenwasserstoffe mit bis zu zehn Kohlenstoffatomen und
@@ -710,6 +722,7 @@ nach Absatz 2 ist das Statistische Bundesamt.
 
 
 ## § 11 Erhebung der Aufwendungen für den Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001104128)
 
 Die Erhebung erfasst bei Unternehmen und Betrieben des Produzierenden
 Gewerbes mit Ausnahme des Baugewerbes, soweit sie dem Berichtskreis
@@ -805,6 +818,7 @@ ermöglichen.
 
 
 ## § 12 Erhebung der Güter und Leistungen für den Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001202311)
 
 (1) Die Erhebung erfasst bei höchstens 15 000 Betrieben und
 Einrichtungen, die dem Umweltschutz dienende Güter und Leistungen
@@ -853,6 +867,7 @@ Einrichtungen,
 
 
 ## § 13 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001303128)
 
 (1) Hilfsmerkmale der Erhebungen sind
 
@@ -902,6 +917,7 @@ Erhebungsmerkmale nach den §§ 7 und 8 zusammengeführt werden.
 
 
 ## § 14 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001406128)
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht.
 Die Angaben zu § 13 Abs. 1 Nr. 2 sind freiwillig.
@@ -1103,6 +1119,7 @@ Nichtbeschäftigung heraus aufnehmen.
 
 
 ## § 15 Anschriftenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001503311)
 
 (1) Die für das Erteilen von Einsammlungsgenehmigungen und für die
 Genehmigung und Überwachung zulassungsbedürftiger Anlagen zuständigen
@@ -1135,6 +1152,7 @@ Namen und Anschriften der anerkannten Sachverständigenorganisationen.
 
 
 ## § 16 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001605128)
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -1195,6 +1213,7 @@ organisatorisch und personell getrennt sein.
 
 
 ## § 17 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE001701311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates für nach diesem Gesetz durchzuführende
@@ -1226,6 +1245,7 @@ c)  die Erhebung von Merkmalen anzuordnen, soweit dies zur Umsetzung oder
 
 
 ## § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ustatg_2005/BJNR244610005.html#BJNR244610005BJNE002000128)
 
 Für die Erhebung nach § 9 Absatz 2 für das Berichtsjahr 2024 ist § 9
 Absatz 2 in der Fassung des Umweltstatistikgesetzes vom 16. August

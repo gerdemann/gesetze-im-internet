@@ -21,19 +21,23 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kohleausg/BJNR181800020.html#BJNR181800020BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1 Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (Kohleverstromungsbeendigungsgesetz - KVBG)
+[Direktlink](https://www.gesetze-im-internet.de/kohleausg/BJNR181800020.html#BJNR181800020BJNE000300000)
 
 
 
 ## (XXXX) Art 2 bis 9 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kohleausg/BJNR181800020.html#BJNR181800020BJNE000400000)
 
 
 
 ## Art 10 Beihilferechtlicher Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/kohleausg/BJNR181800020.html#BJNR181800020BJNE000503128)
 
 Die Regelungen zur Entschädigung für die Stilllegung von
 Braunkohleanlagen nach den §§ 44 und 45 des
@@ -54,6 +58,7 @@ Bundesanzeiger bekannt.
 
 
 ## Art 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kohleausg/BJNR181800020.html#BJNR181800020BJNE000600000)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am Tag nach
 der Verkündung in Kraft.

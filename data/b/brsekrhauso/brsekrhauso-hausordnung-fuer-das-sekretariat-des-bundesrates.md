@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000000000)
 
 Der Präsident des Bundesrates erlässt in Ausübung des Hausrechts gemäß
 § 6 Abs. 3 der Geschäftsordnung des Bundesrates vom 1. Juli 1966
@@ -26,6 +27,7 @@ Der Präsident des Bundesrates erlässt in Ausübung des Hausrechts gemäß
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000100000)
 
 Diese Anordnung gilt für alle Gebäude, Gebäudeteile und Grundstücke,
 die dem Bundesrat zur Wahrnehmung seiner verfassungsmäßigen Aufgaben
@@ -33,6 +35,7 @@ dienen.
 
 
 ## § 2 Zutrittsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000200000)
 
 (1) Zutritt zu den Gebäuden, Gebäudeteilen und Grundstücken nach § 1
 haben
@@ -116,6 +119,7 @@ Zutrittsberechtigung nachzuweisen.
 
 
 ## § 3 Plenarsaal
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000300000)
 
 (1) Zutritt zum Plenarsaal des Bundesrates während der Sitzungen des
 Bundesrates haben
@@ -168,6 +172,7 @@ Telefonate im Plenarsaal nicht gestattet.
 
 
 ## § 4 Verhaltensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000400000)
 
 (1) Im Bereich des Bundesrates nach § 1 ist jede Handlung zu
 unterlassen, die geeignet ist, die Tätigkeit des Bundesrates sowie
@@ -218,6 +223,7 @@ als solches zu erkennen ist.
 
 
 ## § 5 Ordnungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000500000)
 
 (1) Zum Ordnungspersonal des Bundesrates gehören
 
@@ -255,6 +261,7 @@ wahrzunehmen.
 
 
 ## § 6 Aufgaben und Befugnisse des Ordnungspersonals
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000600000)
 
 (1) Das Ordnungspersonal (§ 5) hat für die Einhaltung der Vorschriften
 dieser Anordnung zu sorgen und ist berechtigt und verpflichtet, gegen
@@ -279,6 +286,7 @@ Maßnahmen zu veranlassen.
 
 
 ## § 7 Sondereinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000700000)
 
 Für die Benutzung der Sondereinrichtungen des Bundesrates wie
 Bibliothek und Archiv gelten neben dieser Anordnung zusätzlich deren
@@ -286,6 +294,7 @@ Benutzungsordnungen in der jeweils geltenden Fassung.
 
 
 ## § 8 Ausnahmen und Einschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000800000)
 
 Die Präsidentin oder der Präsident des Bundesrates entscheidet über
 Ausnahmen oder Abweichungen von dieser Anordnung im Einzelfall sowie
@@ -294,6 +303,7 @@ Besuchern aus besonderem Anlass.
 
 
 ## § 9 Bußgeld- und Strafbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE000900000)
 
 Ein Verstoß gegen die Bestimmungen dieser Anordnungen kann unter den
 Voraussetzungen von § 106b des Strafgesetzbuches oder von § 112 des
@@ -302,6 +312,7 @@ Ordnungswidrigkeit verfolgt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/brsekrhauso/BJNR396400002.html#BJNR396400002BJNE001000000)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung im
 Bundesgesetzblatt in Kraft.

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufgaben des Bundesfreiwilligendienstes
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000101130)
 
 Im Bundesfreiwilligendienst engagieren sich Personen für das
 Allgemeinwohl, insbesondere im sozialen, ökologischen und kulturellen
@@ -32,6 +33,7 @@ lebenslange Lernen.
 
 
 ## § 2 Freiwillige
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000202130)
 
 Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
@@ -82,6 +84,7 @@ kürzen.
 
 
 ## § 3 Einsatzbereiche, Dauer
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000301130)
 
 (1) Der Bundesfreiwilligendienst wird als überwiegend praktische
 Hilfstätigkeit in gemeinwohlorientierten Einrichtungen geleistet,
@@ -111,6 +114,7 @@ Jugendfreiwilligendienstegesetz anzurechnen.
 
 
 ## § 4 Pädagogische Begleitung
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000401130)
 
 (1) Der Bundesfreiwilligendienst wird pädagogisch begleitet mit dem
 Ziel, soziale, ökologische, kulturelle und interkulturelle Kompetenzen
@@ -152,6 +156,7 @@ durchgeführt werden.
 
 
 ## § 5 Anderer Dienst im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000500000)
 
 Die bestehenden Anerkennungen sowie die Möglichkeit neuer
 Anerkennungen von Trägern, Vorhaben und Einsatzplänen des Anderen
@@ -160,6 +165,7 @@ bleiben unberührt.
 
 
 ## § 6 Einsatzstellen
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000600000)
 
 (1) Die Freiwilligen leisten den Bundesfreiwilligendienst in einer
 dafür anerkannten Einsatzstelle.
@@ -206,6 +212,7 @@ Vorschlag nach § 8 Absatz 1 festzuhalten.
 
 
 ## § 7 Zentralstellen
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000700000)
 
 (1) Träger und Einsatzstellen können Zentralstellen bilden. Die
 Zentralstellen tragen dafür Sorge, dass die ihnen angehörenden Träger
@@ -240,6 +247,7 @@ verbinden.
 
 
 ## § 8 Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000801116)
 
 (1) Der Bund und die oder der Freiwillige schließen vor Beginn des
 Bundesfreiwilligendienstes auf gemeinsamen Vorschlag der oder des
@@ -290,6 +298,7 @@ entgegenstehen.
 
 
 ## § 9 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE000900000)
 
 (1) Für Schäden, die die oder der Freiwillige vorsätzlich oder
 fahrlässig herbeigeführt hat, haftet der Bund, wenn die schädigende
@@ -302,6 +311,7 @@ nur wie Arbeitnehmerinnen und Arbeitnehmer.
 
 
 ## § 10 Beteiligung der Freiwilligen
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001000000)
 
 Die Freiwilligen wählen Sprecherinnen und Sprecher, die ihre
 Interessen gegenüber den Einsatzstellen, Trägern, Zentralstellen und
@@ -312,6 +322,7 @@ Bundesrates bedarf.
 
 
 ## § 11 Bescheinigung, Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001100000)
 
 (1) Die Einsatzstelle stellt der oder dem Freiwilligen nach Abschluss
 des Dienstes eine Bescheinigung über den geleisteten Dienst aus. Eine
@@ -327,6 +338,7 @@ Bundesfreiwilligendienstes aufzunehmen.
 
 
 ## § 12 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001201116)
 
 Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene
 Daten nach § 8 Absatz 1 Satz 2 verarbeiten, soweit dies für die
@@ -335,6 +347,7 @@ Abwicklung des Bundesfreiwilligendienstes zu löschen.
 
 
 ## § 13 Anwendung arbeitsrechtlicher, arbeitsschutzrechtlicher und sonstiger Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001303130)
 
 (1) Für eine Tätigkeit im Rahmen eines Bundesfreiwilligendienstes im
 Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das
@@ -348,6 +361,7 @@ Jugendfreiwilligendienstegesetz gelten.
 
 
 ## § 13a Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001900130)
 
 (1) Freiwillige haben Anspruch auf Erholungsurlaub.
 
@@ -375,6 +389,7 @@ nicht mehr gewährt werden, ist er abzugelten.
 
 
 ## § 14 Zuständige Bundesbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001400000)
 
 (1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in
 bundeseigener Verwaltung ausgeführt. Die Durchführung wird dem
@@ -387,6 +402,7 @@ Bundesministerium für Familie, Senioren, Frauen und Jugend untersteht.
 
 
 ## § 15 Beirat für den Bundesfreiwilligendienst
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001500000)
 
 (1) Bei dem Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird ein Beirat für den Bundesfreiwilligendienst gebildet. Der Beirat
@@ -432,6 +448,7 @@ geleitet.
 
 
 ## § 16 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001600000)
 
 Die Einsatzstellen, Zentralstellen und Träger können mit ihrem
 Einverständnis mit der Wahrnehmung von Aufgaben beauftragt werden. Die
@@ -440,6 +457,7 @@ werden.
 
 
 ## § 17 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001702130)
 
 (1) Soweit die Freiwilligen Unterkunft, Verpflegung und
 Arbeitskleidung oder entsprechende Geldersatzleistungen,
@@ -468,5 +486,6 @@ festgesetzt.
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfdg/BJNR068710011.html#BJNR068710011BJNE001803116)
 
 

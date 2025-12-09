@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postszv/BJNR212000007.html#BJNR212000007BJNE000100000)
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
 September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch Artikel 2
@@ -31,6 +32,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Monatliche Sonderzahlung
+[Direktlink](https://www.gesetze-im-internet.de/postszv/BJNR212000007.html#BJNR212000007BJNE000306119)
 
 Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit
 Dienstbezügen erhalten bis einschließlich Dezember 2026 eine
@@ -42,5 +44,6 @@ des Bundesbesoldungsgesetzes gelten entsprechend.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postszv/BJNR212000007.html#BJNR212000007BJNE000403124)
 
 

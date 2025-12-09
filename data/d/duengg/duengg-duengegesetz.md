@@ -28,12 +28,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000202124)
 
 Zweck dieses Gesetzes ist es,
 
@@ -67,6 +69,7 @@ Zweck dieses Gesetzes ist es,
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000303124)
 
 Im Sinne dieses Gesetzes
 
@@ -172,6 +175,7 @@ Personenvereinigungen gleich.
 
 
 ## § 3 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000407119)
 
 (1) Stoffe nach § 2 Nr. 1 und 6 bis 8 dürfen nur angewandt werden,
 soweit sie
@@ -315,6 +319,7 @@ Gefährdungen des Naturhaushalts nicht zu befürchten sind.
 
 
 ## § 3a Nationales Aktionsprogramm zum Schutz von Gewässern vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen, Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE002001119)
 
 (1) Das Bundesministerium erarbeitet im Einvernehmen mit dem
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und
@@ -364,6 +369,7 @@ Entscheidung beruht, zu unterrichten.
 
 
 ## § 4 Mitwirkungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000502124)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zu erlassen über
@@ -377,6 +383,7 @@ sicherzustellen.
 
 
 ## § 5 Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000601377)
 
 (1) Stoffe nach § 2 Nr. 1 und 6 bis 8, die nicht als „EG-Düngemittel“
 bezeichnet sind, dürfen nur in den Verkehr gebracht werden, soweit sie
@@ -513,6 +520,7 @@ Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
 
 ## § 6 EG-Düngemittel
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000700000)
 
 Düngemittel dürfen mit der Bezeichnung „EG-Düngemittel“ nur in den
 Verkehr gebracht werden, wenn sie einem Düngemitteltyp entsprechen,
@@ -524,6 +532,7 @@ worden ist, festgelegt worden ist.
 
 
 ## § 7 Kennzeichnung, Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000801377)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit dies zu den in § 1 genannten
@@ -578,6 +587,7 @@ Satz 1 können insbesondere folgende Angaben vorgeschrieben werden:
 
 
 ## § 8 Toleranzen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE000900000)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates duldbare Abweichungen (Toleranzen) der bei
@@ -591,6 +601,7 @@ aufzufangen.
 
 
 ## § 9 Probenahmeverfahren, Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001001377)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Anwendung bestimmter
@@ -607,6 +618,7 @@ Angabe der Bezugsquelle ersetzt werden.
 
 
 ## § 10 Wissenschaftlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001100000)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates einen Wissenschaftlichen Beirat zu
@@ -620,6 +632,7 @@ Mitglieder sowie die Geschäftsordnung geregelt werden.
 
 
 ## § 11 Klärschlamm-Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001202119)
 
 (1) Der durch Artikel 4 Nr. 8 des Gesetzes vom 27. September 1994
 (BGBl. I S. 2705) errichtete Entschädigungsfonds hat die durch die
@@ -690,6 +703,7 @@ einer erneuten Zuleitung an den Bundestag nicht.
 
 
 ## § 11a Umgang mit Nährstoffen im Betrieb, Nährstoffsteuerung
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE002101119)
 
 (1) Bei der landwirtschaftlichen Erzeugung hat der Umgang mit
 Nährstoffen im Betrieb nach guter fachlicher Praxis zu erfolgen. Zur
@@ -769,6 +783,7 @@ einer erneuten Zuleitung an den Bundestag nicht.
 
 
 ## § 12 Überwachung, Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE002300119)
 
 (1) Die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen sowie unmittelbar
@@ -962,6 +977,7 @@ worden sind, nicht mehr erforderlich sind.
 
 
 ## § 13 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001402124)
 
 Die zuständige Behörde kann die zur Beseitigung festgestellter
 Verstöße und die zur Vermeidung künftiger Verstöße gegen dieses Gesetz
@@ -1003,6 +1019,7 @@ Absatz 2 näher bestimmt sind.
 
 
 ## § 13a Qualitätssicherung im Bereich von Wirtschaftsdüngern
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE002201119)
 
 (1) Zur Förderung der Einhaltung der Vorschriften dieses Gesetzes und
 der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, die für
@@ -1170,6 +1187,7 @@ Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001503119)
 
 (1) Ordnungswidrig handelt, wer entgegen § 8 Abs. 2 eine festgesetzte
 Toleranz planmäßig ausnutzt.
@@ -1244,6 +1262,7 @@ werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## § 15 Rechtsverordnungen in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001604119)
 
 (1) Das Bundesministerium wird ermächtigt, soweit dies zur
 Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der
@@ -1311,6 +1330,7 @@ Im Falle des Satzes 1 in Verbindung mit Satz 2 Nr. 2 gilt § 3a Absatz
 
 
 ## § 16 Ermächtigung zur Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001700000)
 
 Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass von
 Rechtsverordnungen des Bundes fortgefallen sind, können Vorschriften,
@@ -1320,10 +1340,12 @@ werden.
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001802124)
 
 
 
 ## § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/d_ngg/BJNR005400009.html#BJNR005400009BJNE001900000)
 
 [^F3_771702_BJNR005400009BJNE001900000]
 Dieses Gesetz tritt am …

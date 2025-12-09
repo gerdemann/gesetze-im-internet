@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE000700314)
 
 Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der
 Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) verordnet die
@@ -29,10 +30,12 @@ Zustimmung des Bundesrates:
 
 
 ## Erster Teil - Prüfungsordnung für Steuerberater und Steuerbevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNG000100314)
 
 
 
 ### § 1 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE000804140)
 
 (1) Über die Anträge auf Zulassung zur Steuerberaterprüfung
 entscheidet die zuständige Steuerberaterkammer.
@@ -51,16 +54,19 @@ schriftlichen Bescheid zu erteilen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE000902301)
 
 (weggefallen)
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001001301)
 
 -
 
 
 ### § 4 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001103301)
 
 (1) Der Antrag auf Zulassung zur Prüfung ist nach amtlich
 vorgeschriebenem Vordruck zu stellen.
@@ -110,6 +116,7 @@ vorgeschriebenem Vordruck zu stellen.
 
 
 ### § 5 Sonstige Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001209123)
 
 (1) In den Fällen des § 37a Abs. 1 des Steuerberatungsgesetzes ist dem
 Antrag eine Bescheinigung der nach den Vorschriften der
@@ -163,6 +170,7 @@ sind mit einer beglaubigten Übersetzung vorzulegen.
 
 
 ### § 6 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001303140)
 
 (1) Die Zulassung gilt nur für die Teilnahme an der nächsten Prüfung.
 Für eine spätere Prüfung bedarf es einer erneuten Zulassung.
@@ -178,6 +186,7 @@ bestimmenden Zeitpunkt zu erbringen.
 
 
 ### § 7 Antrag auf Erteilung einer verbindlichen Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001403301)
 
 (1) Der Antrag auf Erteilung einer verbindlichen Auskunft ist nach
 amtlich vorgeschriebenem Vordruck zu stellen.
@@ -198,6 +207,7 @@ anzuwenden.
 
 
 ### § 8 Antrag auf Befreiung von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001503123)
 
 (1) § 1 Abs. 1 und § 4 gelten sinngemäß für einen Antrag auf Befreiung
 von der Prüfung nach § 38 des Steuerberatungsgesetzes mit der Maßgabe,
@@ -234,11 +244,13 @@ Stelle der in § 4 Abs. 3 Nr. 2 und 3 genannten Nachweise beizufügen
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001601301)
 
 (weggefallen)
 
 
 ### § 10 Berufung der Mitglieder der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001705123)
 
 (1) Die Mitglieder der Prüfungsausschüsse und ihre Stellvertreter sind
 durch die für die Finanzverwaltung zuständige oberste Landesbehörde
@@ -258,6 +270,7 @@ Obliegenheiten zu verpflichten.
 
 
 ### § 11 Ende der Amtszeit der Mitglieder der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001802123)
 
 (1) Die Amtszeit der Mitglieder der Prüfungsausschüsse und ihrer
 Stellvertreter endet vor dem Ende ihrer regulären Amtszeit, sobald sie
@@ -277,6 +290,7 @@ berufen.
 
 
 ### § 12 Rechtsstellung der Mitglieder der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE001902123)
 
 (1) Die Mitglieder der Prüfungsausschüsse sind nicht weisungsgebunden.
 Sie dürfen die Zulassungs- und Prüfungsunterlagen einsehen.
@@ -290,6 +304,7 @@ Gebührenaufkommen zu entschädigen.
 
 
 ### § 13 Entscheidungen der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002002123)
 
 (1) Die Prüfungsausschüsse entscheiden mit Stimmenmehrheit.
 
@@ -297,6 +312,7 @@ Gebührenaufkommen zu entschädigen.
 
 
 ### § 14 Durchführung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002103140)
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde
 setzt, in der Regel jährlich einmal, die Prüfung der zugelassenen
@@ -312,6 +328,7 @@ gestatten.
 
 
 ### § 15 Prüfungsnoten, Gesamtnoten
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002202301)
 
 (1) Für die Bewertung der einzelnen Prüfungsleistungen werden sechs
 Notenstufen gebildet. Es bedeuten
@@ -358,6 +375,7 @@ berechnen; die dritte Dezimalstelle bleibt unberücksichtigt.
 
 
 ### § 16 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002303123)
 
 (1) Die schriftliche Prüfung besteht aus drei Aufsichtsarbeiten.
 
@@ -375,6 +393,7 @@ entsprechend.
 
 
 ### § 17 Ladung zur schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002402140)
 
 Die zuständige Steuerberaterkammer lädt die Bewerber, die
 Aufsichtsarbeiten zu fertigen haben, spätestens einen Monat vor dem
@@ -382,6 +401,7 @@ Tag der ersten Aufsichtsarbeit.
 
 
 ### § 18 Fertigung der Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002506123)
 
 (1) Die Prüfungsaufgaben der Aufsichtsarbeiten werden von der für die
 Finanzverwaltung zuständigen obersten Landesbehörde im Einvernehmen
@@ -409,6 +429,7 @@ die Vorlage eines amtsärztlichen Zeugnisses verlangen.
 
 
 ### § 19 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002602140)
 
 (1) Die zuständige Steuerberaterkammer veranlaßt, daß die
 Aufsichtsarbeiten unter ständiger Aufsicht angefertigt werden.
@@ -433,6 +454,7 @@ an diesem Prüfungstag anzufertigenden Aufsichtsarbeit ausgeschlossen.
 
 
 ### § 20 Verhalten während der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002703140)
 
 (1) Die Bewerber haben die Aufsichtsarbeiten selbständig zu fertigen.
 Während der Bearbeitungszeit dürfen sie mit anderen Bewerbern nicht
@@ -458,6 +480,7 @@ geltend zu machen.
 
 
 ### § 21 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002802140)
 
 (1) Der Bewerber kann bis zum Ende der Bearbeitungszeit der letzten
 Aufsichtsarbeit durch Erklärung gegenüber der zuständigen
@@ -470,6 +493,7 @@ nicht abgelegt.
 
 
 ### § 22 Niederschrift über die Aufsichtsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE002901301)
 
 Der Aufsichtführende hat an jedem Prüfungstag jeweils eine
 Niederschrift zu fertigen, in der insbesondere zu vermerken sind
@@ -496,6 +520,7 @@ Niederschrift zu fertigen, in der insbesondere zu vermerken sind
 
 
 ### § 23 Täuschungsversuche, Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003001301)
 
 (1) Unternimmt es ein Bewerber, das Ergebnis einer schriftlichen
 Arbeit durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel
@@ -511,6 +536,7 @@ auch wenn der Bewerber von der Prüfung zurückgetreten ist.
 
 
 ### § 24 Bewertung der Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003102140)
 
 (1) Für die Bewertung der Aufsichtsarbeiten kann der Prüfungsausschuß
 mit Stimmenmehrheit auch Prüfer bestimmen, die stellvertretende
@@ -537,6 +563,7 @@ bewerten.
 
 
 ### § 25 Ergebnis der schriftlichen Prüfung und Ausschluss von der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003205123)
 
 (1) Für die schriftliche Prüfung wird eine Gesamtnote gebildet.
 
@@ -552,6 +579,7 @@ die schriftliche Prüfung zu bescheiden.
 
 
 ### § 26 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003305123)
 
 (1) Die zuständige Steuerberaterkammer hat die Bewerber, die an der
 mündlichen Prüfung teilnehmen, hierzu spätestens zwei Wochen vorher zu
@@ -597,6 +625,7 @@ anzuwenden.
 
 
 ### § 27 Bewertung der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003400314)
 
 (1) In der mündlichen Prüfung werden der Vortrag und jeder
 Prüfungsabschnitt gesondert bewertet.
@@ -607,6 +636,7 @@ Prüfungsabschnitt gesondert bewertet.
 
 
 ### § 28 Ergebnis der Prüfung, Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003502140)
 
 (1) Im unmittelbaren Anschluß an die mündliche Prüfung berät der
 Prüfungsausschuß über das Ergebnis der Prüfung. Die Prüfung ist
@@ -624,6 +654,7 @@ Bekanntgabe der tragenden Gründe der Entscheidung verlangen.
 
 
 ### § 29 Überdenken der Prüfungsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006901140)
 
 (1) Die Prüfer sind verpflichtet, ihre Bewertung der
 Prüfungsleistungen zu überdenken, wenn dies von einem Bewerber, der
@@ -638,6 +669,7 @@ Steuerberaterkammer dem Antragsteller schriftlich mit.
 
 
 ### § 30 Nichtteilnahme an der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003601301)
 
 (1) Die mündliche Prüfung gilt als nicht abgelegt, wenn der Bewerber
 aus einem von ihm nicht zu vertretenden Grund an der Ablegung der
@@ -653,6 +685,7 @@ Entschuldigung, so gilt die Prüfung als nicht bestanden.
 
 
 ### § 31 Niederschrift über die mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003702123)
 
 (1) Über die Prüfung ist eine Niederschrift zu fertigen. Aus ihr
 müssen ersichtlich sein
@@ -681,6 +714,7 @@ nehmen.
 
 
 ### § 32 Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE003905123)
 
 (1) Die Aufsichtsarbeiten sind bei der zuständigen Steuerberaterkammer
 für die Dauer von mindestens zwei Jahren nach Eintritt der
@@ -704,15 +738,18 @@ elektronisch aufbewahrt werden.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004001301)
 
 -
 
 
 ## Zweiter Teil - Bestellung als Steuerberater oder Steuerbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNG000200314)
 
 
 
 ### § 34 Bestellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004105123)
 
 (1) Über den Antrag auf Bestellung als Steuerberater entscheidet die
 zuständige Steuerberaterkammer.
@@ -780,6 +817,7 @@ erforderlichenfalls weitere Ermittlungen anstellen.
 
 
 ### § 35 Berufsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004202301)
 
 Die Berufsurkunde enthält
 
@@ -809,16 +847,19 @@ Graduierungen sind nur aufzunehmen, wenn sie nachgewiesen worden sind.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004301301)
 
 (weggefallen)
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004403301)
 
 (weggefallen)
 
 
 ### § 38 Wiederbestellung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004504123)
 
 (1) Über den Antrag auf Wiederbestellung als Steuerberater oder
 Steuerbevollmächtigter entscheidet die zuständige Steuerberaterkammer.
@@ -842,15 +883,18 @@ Fassung).
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004601301)
 
 (weggefallen)
 
 
 ## Dritter Teil - Anerkennung als Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNG000301123)
 
 
 
 ### § 40 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004703123)
 
 (1) Der Antrag auf Anerkennung als Berufsausübungsgesellschaft ist
 schriftlich bei der Steuerberaterkammer einzureichen, in deren
@@ -887,6 +931,7 @@ erteilen.
 
 
 ### § 41 Anerkennungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE004804123)
 
 Die Anerkennungsurkunde enthält
 
@@ -914,10 +959,12 @@ Berufsausübungsgesellschaft in die Anerkennungsurkunde aufzunehmen.
 
 
 ## Vierter Teil - Verleihung der Berechtigung zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle"
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNG000401301)
 
 
 
 ### § 42 Nachweis der besonderen Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE007001123)
 
 (1) Der Antrag auf Verleihung der Berechtigung zur Führung der
 Bezeichnung "Landwirtschaftliche Buchstelle" ist bei der
@@ -1008,6 +1055,7 @@ Prüfung ist ein schriftlicher Bescheid zu erteilen.
 
 
 ### § 43 Sachkunde-Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE005003123)
 
 (1) Die mündliche Prüfung wird vor einem Sachkunde-Ausschuss abgelegt,
 der bei der Steuerberaterkammer zu bilden ist.
@@ -1043,6 +1091,7 @@ hören.
 
 
 ### § 44 Verleihung, Verleihungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE005102301)
 
 (1) Über die Verleihung der Berechtigung zur Führung der Bezeichnung
 "Landwirtschaftliche Buchstelle" ist eine Urkunde auszustellen.
@@ -1075,16 +1124,20 @@ hören.
 
 
 ## Fünfter Teil - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNG000501123)
 
 
 ### (XXXX) §§ 45 bis 50 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE005203123)
 
 
 ## Sechster Teil - Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNG000700301)
 
 
 
 ### § 51 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006106123)
 
 (1) Selbständige Steuerberater und Steuerbevollmächtigte sowie
 Berufsausübungsgesellschaften sind verpflichtet, sich gegen die sich
@@ -1121,6 +1174,7 @@ Versicherungsbedingungen genommen werden.
 
 
 ### § 52 Mindestversicherungssumme
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006203123)
 
 (1) Die Mindestversicherungssumme muß für den einzelnen
 Versicherungsfall zweihundertfünfzigtausend Euro betragen.
@@ -1145,6 +1199,7 @@ Betrag der Mindestversicherungssumme betragen muss.
 
 
 ### § 53 Weiterer Inhalt des Versicherungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006303123)
 
 (1) Der Versicherungsvertrag muß vorsehen, daß
 
@@ -1203,6 +1258,7 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches,
 
 
 ### § 53a Ausschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006803123)
 
 (1) Von der Versicherung kann die Haftung ausgeschlossen werden für
 
@@ -1234,6 +1290,7 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches,
 
 
 ### § 54 Anerkennung anderer Berufshaftpflichtversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006406123)
 
 (1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt,
 niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder
@@ -1270,6 +1327,7 @@ Versicherungsbedingungen und der Deckungsumfang ergeben.
 
 
 ### § 55 Nachweis des Versicherungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006504123)
 
 (1) Bewerber, die ihre Bestellung zum Steuerberater oder zum
 Steuerbevollmächtigten beantragen und den Beruf selbständig ausüben
@@ -1292,6 +1350,7 @@ Berufsausübungsgesellschaft.
 
 
 ### § 56 Anzeige von Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/stbdv/BJNR019220979.html#BJNR019220979BJNE006602123)
 
 (1) Die Beendigung oder Kündigung des Versicherungsvertrages, jede
 Änderung des Versicherungsvertrages, die den nach dieser Verordnung

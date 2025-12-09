@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNG000100000)
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000100000)
 
 Ziel dieses Gesetzes ist es, zum Schutz von Leben und Gesundheit, von
 Gesellschaft, Wirtschaft und Infrastruktur sowie von Natur und
@@ -36,6 +38,7 @@ werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000200000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -60,9 +63,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Abschnitt 2 - Klimaanpassung durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNG000200000)
 
 
 ### § 3 Vorsorgende Klimaanpassungsstrategie
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000300000)
 
 (1) Die Bundesregierung legt bis zum Ablauf des 30. September 2025
 eine vorsorgende Klimaanpassungsstrategie mit messbaren Zielen vor.
@@ -207,6 +212,7 @@ unberührt.
 
 
 ### § 4 Klimarisikoanalyse; Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000400000)
 
 (1) Die Bundesregierung erstellt eine Klimarisikoanalyse nach dem
 aktuellen Stand der Wissenschaft und veröffentlicht sie. Die
@@ -240,6 +246,7 @@ der Öffentlichkeit zur Verfügung, insbesondere
 
 
 ### § 5 Monitoring, Nachsteuerung bei Zielverfehlung
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000500000)
 
 (1) Die Bundesregierung erstellt einen Monitoringbericht nach dem
 aktuellen Stand der Wissenschaft, mit dem sie die Öffentlichkeit über
@@ -270,6 +277,7 @@ die geeigneten Maßnahmen zur Nachbesserung zu ergreifen.
 
 
 ### § 6 Klimaanpassungskonzepte auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000600000)
 
 Juristische Personen des öffentlichen Rechts unter der Aufsicht des
 Bundes sollen Klimaanpassungskonzepte aufstellen und die darin
@@ -280,6 +288,7 @@ Selbstverwaltungskörperschaften der Wirtschaft.
 
 
 ### § 7 Klimaangepasste Bundesliegenschaften
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000700000)
 
 (1) Der Bund setzt sich zum Ziel, die Bundesliegenschaften an die
 Folgen des Klimawandels anzupassen. Zur Verwirklichung dieses Ziels
@@ -306,9 +315,11 @@ Bewertungssystem für das nachhaltige Bauen.
 
 
 ## Abschnitt 3 - Berücksichtigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNG000300000)
 
 
 ### § 8 Berücksichtigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000800000)
 
 (1) Die Träger öffentlicher Aufgaben haben bei ihren Planungen und
 Entscheidungen das Ziel der Klimaanpassung nach § 1 fachübergreifend
@@ -366,9 +377,11 @@ worden ist.
 
 
 ## Abschnitt 4 - Klimaanpassung durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNG000400000)
 
 
 ### § 9 Bund-Länder-Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE000900000)
 
 (1) Unbeschadet der Vereinbarkeit mit Bundesrecht können die Länder
 eigene Gesetze zum Zweck der Klimaanpassung erlassen. Die bestehenden
@@ -388,6 +401,7 @@ Information, Beratung und Vernetzung der Akteure.
 
 
 ### § 10 Klimaanpassung der Länder
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE001000000)
 
 (1) Die Länder legen jeweils eine landeseigene vorsorgende
 Klimaanpassungsstrategie vor und setzen sie um. Zur näheren
@@ -453,6 +467,7 @@ landeseigenen vorsorgenden Klimaanpassungsstrategien im Internet.
 
 
 ### § 11 Berichte der Länder
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE001100000)
 
 (1) Die Länder berichten dem für die Klimaanpassung zuständigen
 Bundesministerium ab dem 30. September 2024 alle zwei Jahre, in
@@ -474,6 +489,7 @@ der Durchführungsverordnung (EU) Nr. 749/2014 der Kommission (ABl. L
 
 
 ### § 12 Klimaanpassungskonzepte
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE001200000)
 
 (1) Die Länder bestimmen im Rahmen der Grenzen des Artikels 28 Absatz
 2 des Grundgesetzes diejenigen öffentlichen Stellen, die für die
@@ -542,9 +558,11 @@ den Deutschen Wetterdienst oder den DAS-Basisdienst.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNG000500000)
 
 
 ### § 13 Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE001300000)
 
 (1) Subjektive Rechte und klagbare Rechtspositionen werden durch
 dieses Gesetz oder aufgrund dieses Gesetzes nicht begründet.
@@ -555,6 +573,7 @@ sowie auf Liegenschaften im Ausland.
 
 
 ### § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kang/BJNR1890A0023.html#BJNR1890A0023BJNE001400000)
 
 Dieses Gesetz tritt am 1. Juli 2024 in Kraft.
 

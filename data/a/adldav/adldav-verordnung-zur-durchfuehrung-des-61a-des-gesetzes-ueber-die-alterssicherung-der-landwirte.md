@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000000000)
 
 Auf Grund des § 61a Abs. 2 des Gesetzes über die Alterssicherung der
 Landwirte, der durch Artikel 2 Nr. 21 des Gesetzes vom 17. Juli 2001
@@ -33,6 +34,7 @@ Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Datenabgleich durch Vermittlungsstellen, einzubeziehende Personen
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000102308)
 
 Der automatisierte Datenabgleich nach § 61a Abs. 1 des Gesetzes über
 die Alterssicherung der Landwirte wird durch zentrale
@@ -46,10 +48,12 @@ sich nach folgenden Vorschriften.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000201308)
 
 
 
 ## § 3 Datenübermittlung an die Vermittlungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000302308)
 
 (1) Die landwirtschaftliche Alterskasse übermittelt für jede in den
 Datenabgleich einzubeziehende Person die in § 61a Absatz 1 Satz 2 des
@@ -65,6 +69,7 @@ Kalendermonats zugeleiteten Meldungen nach Absatz 1 einbezogen.
 
 
 ## § 4 Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000402308)
 
 Der Datenabgleich erstreckt sich auf die Feststellung, wann und für
 welches Veranlagungsjahr Einkommensteuerbescheide ausgefertigt wurden,
@@ -85,6 +90,7 @@ mehr als sechs Jahre zurückliegen.
 
 
 ## § 5 Rückübermittlung an die landwirtschaftliche Alterskasse
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000502308)
 
 Die Vermittlungsstellen übermitteln die von ihnen bei dem Abgleich
 nach § 4 getroffenen Feststellungen als Antwortdatensatz bis zum
@@ -93,6 +99,7 @@ an die landwirtschaftliche Alterskasse.
 
 
 ## § 6 Anfragedatensatz
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000603119)
 
 Die landwirtschaftliche Alterskasse bestimmt nach Anhörung der
 Vermittlungsstellen und des Bundesbeauftragten für den Datenschutz und
@@ -102,6 +109,7 @@ Landwirtschaft die Gestaltung des Anfragedatensatzes.
 
 
 ## § 7 Verfahren der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000702124)
 
 (1) Die Datenübermittlung erfolgt durch Datenfernübertragung.
 
@@ -117,6 +125,7 @@ zugänglich und archivmäßig gesichert niedergelegt.
 
 
 ## § 8 Übermittlung durch Datenfernübertragung
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000802308)
 
 Die Daten sind durch Datenübertragung im 8-Bit-Code – DRV 8 – nach DIN
 66 303 (ISO 8859-1, 1987) Code-Tabelle 1 zu übermitteln. Bei der
@@ -129,19 +138,23 @@ sind Verschlüsselungsverfahren anzuwenden.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE000901308)
 
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE001002308)
 
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/adldav/BJNR449000002.html#BJNR449000002BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

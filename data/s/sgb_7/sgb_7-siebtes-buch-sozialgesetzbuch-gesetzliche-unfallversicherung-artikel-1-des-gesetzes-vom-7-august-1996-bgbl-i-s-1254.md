@@ -24,14 +24,17 @@ Mittelbare änderung durch
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG000100000)
 
 
 
 ### Erster Abschnitt - Aufgaben der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG000200000)
 
 
 
 #### § 1 Prävention, Rehabilitation, Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE000300000)
 
 Aufgabe der Unfallversicherung ist es, nach Maßgabe der Vorschriften
 dieses Buches
@@ -50,10 +53,12 @@ dieses Buches
 
 
 ### Zweiter Abschnitt - Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023300000)
 
 
 
 #### § 2 Versicherung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE000458311)
 
 (1) Kraft Gesetzes sind versichert
 
@@ -390,6 +395,7 @@ der Unternehmer, ihrer Ehegatten oder ihrer Lebenspartner.
 
 
 #### § 3 Versicherung kraft Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE000504311)
 
 (1) Die Satzung kann bestimmen, daß und unter welchen Voraussetzungen
 sich die Versicherung erstreckt auf
@@ -451,6 +457,7 @@ sich die Versicherung erstreckt auf
 
 
 #### § 4 Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE000606311)
 
 (1) Versicherungsfrei sind
 
@@ -514,6 +521,7 @@ erfüllen und die Rente beantragt haben.
 
 
 #### § 5 Versicherungsbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE000702308)
 
 Von der Versicherung nach § 2 Abs. 1 Nr. 5 werden auf Antrag
 Unternehmer landwirtschaftlicher Unternehmen im Sinne des § 123 Abs. 1
@@ -523,6 +531,7 @@ Spezialkulturen. Das Nähere bestimmt die Satzung.
 
 
 #### § 6 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE028102311)
 
 (1) Auf schriftlichen oder elektronischen Antrag können sich
 versichern
@@ -570,10 +579,12 @@ rückständige Beitrag oder Beitragsvorschuß entrichtet worden ist.
 
 
 ### Dritter Abschnitt - Versicherungsfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023400000)
 
 
 
 #### § 7 Begriff
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE000900000)
 
 (1) Versicherungsfälle sind Arbeitsunfälle und Berufskrankheiten.
 
@@ -582,6 +593,7 @@ aus.
 
 
 #### § 8 Arbeitsunfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001002311)
 
 (1) Arbeitsunfälle sind Unfälle von Versicherten infolge einer den
 Versicherungsschutz nach § 2, 3 oder 6 begründenden Tätigkeit
@@ -647,6 +659,7 @@ eines Hilfsmittels.
 
 
 #### § 9 Berufskrankheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001102360)
 
 (1) Berufskrankheiten sind Krankheiten, die die Bundesregierung durch
 Rechtsverordnung mit Zustimmung des Bundesrates als Berufskrankheiten
@@ -825,6 +838,7 @@ Rahmen des Untersuchungsauftrages erforderlich ist.
 
 
 #### § 10 Erweiterung in der See- und Binnenschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001201377)
 
 (1) In der See- und Binnenschiffahrt sind Versicherungsfälle auch
 Unfälle infolge
@@ -847,6 +861,7 @@ Vorschriften.
 
 
 #### § 11 Mittelbare Folgen eines Versicherungsfalls
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001301308)
 
 (1) Folgen eines Versicherungsfalls sind auch Gesundheitsschäden oder
 der Tod von Versicherten infolge
@@ -877,6 +892,7 @@ gleich.
 
 
 #### § 12 Versicherungsfall einer Leibesfrucht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001400000)
 
 Versicherungsfall ist auch der Gesundheitsschaden einer Leibesfrucht
 infolge eines Versicherungsfalls der Mutter während der
@@ -888,6 +904,7 @@ Berufskrankheit der Mutter zu verursachen.
 
 
 #### § 12a Gesundheitsschaden im Zusammenhang mit der Spende von Blut oder körpereigenen Organen, Organteilen oder Gewebe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027800115)
 
 (1) Als Versicherungsfall im Sinne des § 7 Absatz 1 gilt bei
 Versicherten nach § 2 Absatz 1 Nummer 13 Buchstabe b auch der
@@ -910,6 +927,7 @@ Spende kommt.
 
 
 #### § 13 Sachschäden bei Hilfeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001505119)
 
 Den nach § 2 Abs. 1 Nr. 11 Buchstabe a, Nr. 12 und Nr. 13 Buchstabe a
 und c Versicherten sind auf Antrag Schäden, die infolge einer der dort
@@ -928,10 +946,12 @@ Abs. 2. § 116 des Zehnten Buches gilt entsprechend.
 
 
 ## Zweites Kapitel - Prävention
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG001600000)
 
 
 
 ### § 14 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001702119)
 
 (1) Die Unfallversicherungsträger haben mit allen geeigneten Mitteln
 für die Verhütung von Arbeitsunfällen, Berufskrankheiten und
@@ -965,6 +985,7 @@ nach Absatz 1. Sie nimmt insbesondere folgende Aufgaben wahr:
 
 
 ### § 15 Unfallverhütungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001806126)
 
 (1) Die Unfallversicherungsträger können unter Mitwirkung der
 Deutschen Gesetzlichen Unfallversicherung e. V. als autonomes Recht
@@ -1112,6 +1133,7 @@ unterrichten und zur Unterrichtung der Versicherten verpflichtet.
 
 
 ### § 16 Geltung bei Zuständigkeit anderer Unfallversicherungsträger und für ausländische Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE001900000)
 
 (1) Die Unfallverhütungsvorschriften eines Unfallversicherungsträgers
 gelten auch, soweit in dem oder für das Unternehmen Versicherte tätig
@@ -1124,6 +1146,7 @@ Unfallversicherungsträger anzugehören.
 
 
 ### § 17 Überwachung und Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002001308)
 
 (1) Die Unfallversicherungsträger haben die Durchführung der Maßnahmen
 zur Verhütung von Arbeitsunfällen, Berufskrankheiten, arbeitsbedingten
@@ -1147,6 +1170,7 @@ auferlegen.
 
 
 ### § 18 Aufsichtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002100000)
 
 (1) Die Unfallversicherungsträger sind verpflichtet, Aufsichtspersonen
 in der für eine wirksame Überwachung und Beratung gemäß § 17
@@ -1159,6 +1183,7 @@ Prüfungsordnungen bedürfen der Genehmigung durch die Aufsichtsbehörde.
 
 
 ### § 19 Befugnisse der Aufsichtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002202308)
 
 (1) Die Aufsichtspersonen können im Einzelfall anordnen, welche
 Maßnahmen Unternehmerinnen und Unternehmer oder Versicherte zu treffen
@@ -1239,6 +1264,7 @@ Ordnungswidrigkeit aussetzen würde, können verweigert werden.
 
 
 ### § 20 Zusammenarbeit mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002308311)
 
 (1) Die Unfallversicherungsträger und die für den Arbeitsschutz
 zuständigen Behörden wirken bei der Beratung und Überwachung der
@@ -1390,6 +1416,7 @@ unzureichend gewordene Vereinbarung nicht geändert worden ist.
 
 
 ### § 21 Verantwortung des Unternehmers, Mitwirkung der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002401308)
 
 (1) Der Unternehmer ist für die Durchführung der Maßnahmen zur
 Verhütung von Arbeitsunfällen und Berufskrankheiten, für die Verhütung
@@ -1412,6 +1439,7 @@ befolgen.
 
 
 ### § 22 Sicherheitsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002500000)
 
 (1) In Unternehmen mit regelmäßig mehr als 20 Beschäftigten hat der
 Unternehmer unter Beteiligung des Betriebsrates oder Personalrates
@@ -1439,6 +1467,7 @@ aufmerksam zu machen.
 
 
 ### § 23 Aus- und Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002600000)
 
 (1) Die Unfallversicherungsträger haben für die erforderliche Aus- und
 Fortbildung der Personen in den Unternehmen zu sorgen, die mit der
@@ -1469,6 +1498,7 @@ Landesbehörden zu beteiligen.
 
 
 ### § 24 Überbetrieblicher arbeitsmedizinischer und sicherheitstechnischer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002700000)
 
 (1) Unfallversicherungsträger können überbetriebliche
 arbeitsmedizinische und sicherheitstechnische Dienste einrichten; das
@@ -1493,6 +1523,7 @@ erfüllt haben.
 
 
 ### § 25 Bericht gegenüber dem Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE002802308)
 
 (1) Die Bundesregierung hat dem Deutschen Bundestag und dem Bundesrat
 alljährlich bis zum 31. Dezember des auf das Berichtsjahr folgenden
@@ -1516,18 +1547,22 @@ obersten Verwaltungsbehörden der Länder ein.
 
 
 ## Drittes Kapitel - Leistungen nach Eintritt eines Versicherungsfalls
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023500000)
 
 
 
 ### Erster Abschnitt - Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Sozialen Teilhabe und ergänzende Leistungen, Pflege, Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023602360)
 
 
 
 #### Erster Unterabschnitt - Anspruch und Leistungsarten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023700000)
 
 
 
 ##### § 26 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003004360)
 
 (1) Versicherte haben nach Maßgabe der folgenden Vorschriften und
 unter Beachtung des Neunten Buches Anspruch auf Heilbehandlung
@@ -1585,10 +1620,12 @@ geeignet und zumutbar sind, Pflegebedürftigkeit zu vermeiden, zu
 
 
 #### Zweiter Unterabschnitt - Heilbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023800000)
 
 
 
 ##### § 27 Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003103126)
 
 (1) Die Heilbehandlung umfaßt insbesondere
 
@@ -1643,6 +1680,7 @@ Vollzugs nicht entgegenstehen.
 
 
 ##### § 27a Nutzung der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032801126)
 
 (1) Bei der Erbringung von Leistungen nach § 27 Absatz 1 gelten die §§
 31a, 347, 348 und 374a des Fünften Buches entsprechend, sofern der
@@ -1662,6 +1700,7 @@ Unfallversicherungsträger.
 
 
 ##### § 28 Ärztliche und zahnärztliche Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003200000)
 
 (1) Die ärztliche und zahnärztliche Behandlung wird von Ärzten oder
 Zahnärzten erbracht. Sind Hilfeleistungen anderer Personen
@@ -1681,6 +1720,7 @@ erbracht. Die freie Arztwahl kann insoweit eingeschränkt werden.
 
 
 ##### § 29 Arznei- und Verbandmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003303119)
 
 (1) Arznei- und Verbandmittel sind alle ärztlich verordneten, zur
 ärztlichen und zahnärztlichen Behandlung erforderlichen Mittel. Ist
@@ -1699,6 +1739,7 @@ Unfallversicherung.
 
 
 ##### § 30 Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003400000)
 
 Heilmittel sind alle ärztlich verordneten Dienstleistungen, die einem
 Heilzweck dienen oder einen Heilerfolg sichern und nur von
@@ -1708,6 +1749,7 @@ Sprach- und Beschäftigungstherapie.
 
 
 ##### § 31 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003500000)
 
 (1) Hilfsmittel sind alle ärztlich verordneten Sachen, die den Erfolg
 der Heilbehandlung sichern oder die Folgen von Gesundheitsschäden
@@ -1727,6 +1769,7 @@ Unfallversicherungsträger durch gemeinsame Richtlinien.
 
 
 ##### § 32 Häusliche Krankenpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003600000)
 
 (1) Versicherte erhalten in ihrem Haushalt oder ihrer Familie neben
 der ärztlichen Behandlung häusliche Krankenpflege durch geeignete
@@ -1751,6 +1794,7 @@ gemeinsame Richtlinien.
 
 
 ##### § 33 Behandlung in Krankenhäusern und Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003700000)
 
 (1) Stationäre Behandlung in einem Krankenhaus oder in einer
 Rehabilitationseinrichtung wird erbracht, wenn die Aufnahme
@@ -1771,6 +1815,7 @@ diese in besonderen Einrichtungen erbracht.
 
 
 ##### § 34 Durchführung der Heilbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003808126)
 
 (1) Die Unfallversicherungsträger haben alle Maßnahmen zu treffen,
 durch die eine möglichst frühzeitig nach dem Versicherungsfall
@@ -1838,10 +1883,12 @@ geregelt.
 
 
 #### Dritter Unterabschnitt - Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG023901308)
 
 
 
 ##### § 35 Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE003904126)
 
 (1) Die Unfallversicherungsträger erbringen die Leistungen zur
 Teilhabe am Arbeitsleben nach den §§ 49 bis 55 des Neunten Buches, in
@@ -1870,14 +1917,17 @@ erbracht, soweit Belange des Vollzugs nicht entgegenstehen.
 
 
 ##### (XXXX) §§ 36 bis 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004001308)
 
 
 
 #### Vierter Unterabschnitt - Leistungen zur Sozialen Teilhabe und ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024002360)
 
 
 
 ##### § 39 Leistungen zur Sozialen Teilhabe und ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004303360)
 
 (1) Neben den in § 64 Abs. 1 Nr. 2 bis 6 und Abs. 2 sowie in den §§ 73
 und 74 des Neunten Buches genannten Leistungen umfassen die Leistungen
@@ -1897,6 +1947,7 @@ Angehörigen eine besondere Unterstützung gewährt werden.
 
 
 ##### § 40 Kraftfahrzeughilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004401308)
 
 (1) Kraftfahrzeughilfe wird erbracht, wenn die Versicherten infolge
 Art oder Schwere des Gesundheitsschadens nicht nur vorübergehend auf
@@ -1924,6 +1975,7 @@ gemeinsame Richtlinien.
 
 
 ##### § 41 Wohnungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004500000)
 
 (1) Wohnungshilfe wird erbracht, wenn infolge Art oder Schwere des
 Gesundheitsschadens nicht nur vorübergehend die behindertengerechte
@@ -1941,6 +1993,7 @@ gemeinsame Richtlinien.
 
 
 ##### § 42 Haushaltshilfe und Kinderbetreuungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004603360)
 
 Haushaltshilfe und Leistungen zur Kinderbetreuung nach § 74 Abs. 1 bis
 3 des Neunten Buches werden auch bei Leistungen zur Sozialen Teilhabe
@@ -1948,6 +2001,7 @@ erbracht.
 
 
 ##### § 43 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004704360)
 
 (1) Die im Zusammenhang mit der Ausführung von Leistungen zur
 medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben
@@ -1986,10 +2040,12 @@ gemeinsame Richtlinien.
 
 
 #### Fünfter Unterabschnitt - Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024100000)
 
 
 
 ##### § 44 Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004808311)
 
 (1) Solange Versicherte infolge des Versicherungsfalls für die
 gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen im Ablauf
@@ -2033,10 +2089,12 @@ aktuellen Rentenwertes fest.
 
 
 #### Sechster Unterabschnitt - Geldleistungen während der Heilbehandlung und der Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024201308)
 
 
 
 ##### § 45 Voraussetzungen für das Verletztengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE004912311)
 
 (1) Verletztengeld wird erbracht, wenn Versicherte
 
@@ -2109,6 +2167,7 @@ Höchstjahresarbeitsverdienstes.
 
 
 ##### § 46 Beginn und Ende des Verletztengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005003308)
 
 (1) Verletztengeld wird von dem Tag an gezahlt, ab dem die
 Arbeitsunfähigkeit ärztlich festgestellt wird, oder mit dem Tag des
@@ -2156,6 +2215,7 @@ endet das Verletztengeld
 
 
 ##### § 47 Höhe des Verletztengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005120311)
 
 (1) Versicherte, die Arbeitsentgelt oder Arbeitseinkommen erzielt
 haben, erhalten Verletztengeld entsprechend § 47 Abs. 1 und 2 des
@@ -2239,6 +2299,7 @@ Berufsausbildung gelten für das Verletztengeld entsprechend.
 
 
 ##### § 47a Beitragszahlung der Unfallversicherungsträger an berufsständische Versorgungseinrichtungen und private Krankenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032400119)
 
 (1) Für Bezieher von Verletztengeld, die wegen einer
 Pflichtmitgliedschaft in einer berufsständischen
@@ -2269,6 +2330,7 @@ Betrag, der an das private Versicherungsunternehmen zu zahlen ist.
 
 
 ##### § 48 Verletztengeld bei Wiedererkrankung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005200000)
 
 Im Fall der Wiedererkrankung an den Folgen des Versicherungsfalls
 gelten die §§ 45 bis 47 mit der Maßgabe entsprechend, daß anstelle des
@@ -2277,12 +2339,14 @@ abgestellt wird.
 
 
 ##### § 49 Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005301308)
 
 Übergangsgeld wird erbracht, wenn Versicherte infolge des
 Versicherungsfalls Leistungen zur Teilhabe am Arbeitsleben erhalten.
 
 
 ##### § 50 Höhe und Berechnung des Übergangsgeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005403119)
 
 Höhe und Berechnung des Übergangsgeldes bestimmen sich nach den §§ 66
 bis 71 des Neunten Buches, soweit dieses Buch nichts Abweichendes
@@ -2291,10 +2355,12 @@ entsprechend.
 
 
 ##### § 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005503308)
 
 
 
 ##### § 52 Anrechnung von Einkommen auf Verletzten- und Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005616311)
 
 Auf das Verletzten- und Übergangsgeld werden von dem gleichzeitig
 erzielten Einkommen angerechnet
@@ -2318,10 +2384,12 @@ erzielten Einkommen angerechnet
 
 
 #### Siebter Unterabschnitt - Besondere Vorschriften für die Versicherten in der Seefahrt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024300000)
 
 
 
 ##### § 53 Vorrang der medizinischen Betreuung durch die Reeder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005701377)
 
 (1) Der Anspruch von Versicherten in der Seefahrt auf Leistungen nach
 diesem Abschnitt ruht, soweit und solange die Reeder ihre
@@ -2337,10 +2405,12 @@ fortzusetzen, soweit dieser sie dazu beauftragt.
 
 
 #### Achter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024401308)
 
 
 
 ##### § 54 Betriebs- und Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005805308)
 
 (1) Betriebshilfe erhalten landwirtschaftliche Unternehmer mit einem
 Unternehmen im Sinne des § 1 Abs. 2 des Gesetzes über die
@@ -2403,6 +2473,7 @@ Berufsgenossenschaft nicht bewilligt werden.
 
 
 ##### § 55 Art und Form der Betriebs- und Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE005905308)
 
 (1) Bei Vorliegen der Voraussetzungen des § 54 wird Betriebs- und
 Haushaltshilfe in Form der Gestellung einer Ersatzkraft oder durch
@@ -2423,6 +2494,7 @@ Selbstbeteiligung bestimmt die Satzung.
 
 
 ##### § 55a Sonstige Ansprüche, Verletztengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE024200308)
 
 (1) Für regelmäßig wie landwirtschaftliche Unternehmer selbständig
 Tätige, die kraft Gesetzes versichert sind, gelten die §§ 54 und 55
@@ -2448,14 +2520,17 @@ zu erbringen sind, jedoch nicht vor Ende der stationären Behandlung.
 
 
 ### Zweiter Abschnitt - Renten, Beihilfen, Abfindungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024500000)
 
 
 
 #### Erster Unterabschnitt - Renten an Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024600000)
 
 
 
 ##### § 56 Voraussetzungen und Höhe des Rentenanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006002311)
 
 (1) Versicherte, deren Erwerbsfähigkeit infolge eines
 Versicherungsfalls über die 26. Woche nach dem Versicherungsfall
@@ -2495,6 +2570,7 @@ Minderung der Erwerbsfähigkeit entspricht.
 
 
 ##### § 57 Erhöhung der Rente bei Schwerverletzten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006100000)
 
 Können Versicherte mit Anspruch auf eine Rente nach einer Minderung
 der Erwerbsfähigkeit von 50 vom Hundert oder mehr oder auf mehrere
@@ -2506,6 +2582,7 @@ Rente um 10 vom Hundert.
 
 
 ##### § 58 Erhöhung der Rente bei Arbeitslosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006205311)
 
 Solange Versicherte infolge des Versicherungsfalls ohne Anspruch auf
 Arbeitsentgelt oder Arbeitseinkommen sind und die Rente zusammen mit
@@ -2524,6 +2601,7 @@ Satz 1 des Zweiten Buches, finden die Sätze 1 und 2 keine Anwendung.
 
 
 ##### § 59 Höchstbetrag bei mehreren Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023300000)
 
 (1) Beziehen Versicherte mehrere Renten, so dürfen diese ohne die
 Erhöhung für Schwerverletzte zusammen zwei Drittel des höchsten der
@@ -2536,6 +2614,7 @@ ohne die Abfindung noch zu zahlen wäre.
 
 
 ##### § 60 Minderung bei Heimpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006300000)
 
 Für die Dauer einer Heimpflege von mehr als einem Kalendermonat kann
 der Unfallversicherungsträger die Rente um höchstens die Hälfte
@@ -2544,6 +2623,7 @@ Verhältnissen der Versicherten angemessen ist.
 
 
 ##### § 61 Renten für Beamte und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006401311)
 
 (1) Die Renten von Beamten, die nach § 82 Abs. 4 berechnet werden,
 werden nur insoweit gezahlt, als sie die Dienst- oder
@@ -2564,6 +2644,7 @@ gezahlt.
 
 
 ##### § 62 Rente als vorläufige Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006500000)
 
 (1) Während der ersten drei Jahre nach dem Versicherungsfall soll der
 Unfallversicherungsträger die Rente als vorläufige Entschädigung
@@ -2583,10 +2664,12 @@ haben.
 
 
 #### Zweiter Unterabschnitt - Leistungen an Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024700000)
 
 
 
 ##### § 63 Leistungen bei Tod
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006601308)
 
 (1) Hinterbliebene haben Anspruch auf
 
@@ -2640,6 +2723,7 @@ Heuerverhältnisses folgende Tag als Todestag festgesetzt.
 
 
 ##### § 64 Sterbegeld und Erstattung von Überführungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006701308)
 
 (1) Witwen, Witwer, Kinder, Stiefkinder, Pflegekinder, Enkel,
 Geschwister, frühere Ehegatten und Verwandte der aufsteigenden Linie
@@ -2662,6 +2746,7 @@ werden die Bestattungskosten bis zur Höhe des Sterbegeldes nach Absatz
 
 
 ##### § 65 Witwen- und Witwerrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006809119)
 
 (1) Witwen oder Witwer von Versicherten erhalten eine Witwen- oder
 Witwerrente, solange sie nicht wieder geheiratet haben. Der Anspruch
@@ -2752,6 +2837,7 @@ einen Anspruch auf Hinterbliebenenversorgung zu begründen.
 
 
 ##### § 66 Witwen- und Witwerrente an frühere Ehegatten; mehrere Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE006901308)
 
 (1) Frühere Ehegatten von Versicherten, deren Ehe mit ihnen
 geschieden, für nichtig erklärt oder aufgehoben ist, erhalten auf
@@ -2776,6 +2862,7 @@ zahlen ist.
 
 
 ##### § 67 Voraussetzungen der Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007004119)
 
 (1) Kinder von verstorbenen Versicherten erhalten eine
 
@@ -2850,6 +2937,7 @@ als Kind angenommen wird.
 
 
 ##### § 68 Höhe der Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007103119)
 
 (1) Die Rente beträgt
 
@@ -2870,6 +2958,7 @@ Versicherungsfalls zu zahlen ist.
 
 
 ##### § 69 Rente an Verwandte der aufsteigenden Linie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007200000)
 
 (1) Verwandte der aufsteigenden Linie, Stief- oder Pflegeeltern der
 Verstorbenen, die von den Verstorbenen zur Zeit des Todes aus deren
@@ -2905,6 +2994,7 @@ Elternpaar für die folgenden drei Kalendermonate weitergezahlt.
 
 
 ##### § 70 Höchstbetrag der Hinterbliebenenrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007302119)
 
 (1) Die Renten der Hinterbliebenen dürfen zusammen 80 vom Hundert des
 Jahresarbeitsverdienstes nicht übersteigen, sonst werden sie gekürzt,
@@ -2927,6 +3017,7 @@ der übrigen bis zum zulässigen Höchstbetrag.
 
 
 ##### § 71 Witwen-, Witwer- und Waisenbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007400000)
 
 (1) Witwen oder Witwer von Versicherten erhalten eine einmalige
 Beihilfe von 40 vom Hundert des Jahresarbeitsverdienstes, wenn
@@ -2972,10 +3063,12 @@ Vorschriften für Hinterbliebenenrenten Anwendung.
 
 
 #### Dritter Unterabschnitt - Beginn, Änderung und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024800000)
 
 
 
 ##### § 72 Beginn von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007503308)
 
 (1) Renten an Versicherte werden von dem Tag an gezahlt, der auf den
 Tag folgt, an dem
@@ -3005,6 +3098,7 @@ nicht zu zahlen ist.
 
 
 ##### § 73 Änderungen und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007600000)
 
 (1) Ändern sich aus tatsächlichen oder rechtlichen Gründen die
 Voraussetzungen für die Höhe einer Rente nach ihrer Feststellung, wird
@@ -3040,6 +3134,7 @@ die Berechtigten gestorben sind.
 
 
 ##### § 74 Ausnahmeregelungen für die Änderung von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007700000)
 
 (1) Der Anspruch auf eine Rente, die auf unbestimmte Zeit geleistet
 wird, kann aufgrund einer Änderung der Minderung der Erwerbsfähigkeit
@@ -3056,10 +3151,12 @@ Erhalt von Betriebs- und Haushaltshilfe nicht besteht.
 
 
 #### Vierter Unterabschnitt - Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024900000)
 
 
 
 ##### § 75 Abfindung mit einer Gesamtvergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007800000)
 
 Ist nach allgemeinen Erfahrungen unter Berücksichtigung der besonderen
 Verhältnisse des Einzelfalles zu erwarten, daß nur eine Rente in Form
@@ -3073,6 +3170,7 @@ Voraussetzungen hierfür vorliegen.
 
 
 ##### § 76 Abfindung bei Minderung der Erwerbsfähigkeit unter 40 vom Hundert
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE007900000)
 
 (1) Versicherte, die Anspruch auf eine Rente wegen einer Minderung der
 Erwerbsfähigkeit von weniger als 40 vom Hundert haben, können auf
@@ -3093,6 +3191,7 @@ gezahlt.
 
 
 ##### § 77 Wiederaufleben der abgefundenen Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008000000)
 
 (1) Werden Versicherte nach einer Abfindung Schwerverletzte, lebt auf
 Antrag der Anspruch auf Rente in vollem Umfang wieder auf.
@@ -3105,6 +3204,7 @@ verbleibt.
 
 
 ##### § 78 Abfindung bei Minderung der Erwerbsfähigkeit ab 40 vom Hundert
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008100000)
 
 (1) Versicherte, die Anspruch auf eine Rente wegen einer Minderung der
 Erwerbsfähigkeit von 40 vom Hundert oder mehr haben, können auf ihren
@@ -3125,6 +3225,7 @@ Vomhundertsätze zusammen die Zahl 40 erreichen oder übersteigen.
 
 
 ##### § 79 Umfang der Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008200000)
 
 Eine Rente kann in den Fällen einer Abfindung bei einer Minderung der
 Erwerbsfähigkeit ab 40 vom Hundert bis zur Hälfte für einen Zeitraum
@@ -3136,6 +3237,7 @@ zehn Jahre.
 
 
 ##### § 80 Abfindung bei Wiederheirat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008302308)
 
 (1) Eine Witwenrente oder Witwerrente wird bei der ersten Wiederheirat
 der Berechtigten mit dem 24fachen Monatsbetrag abgefunden. In diesem
@@ -3177,10 +3279,12 @@ Witwen- oder Witwerrente an Lebenspartner.
 
 
 #### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG024902308)
 
 
 
 ##### § 80a Voraussetzungen für den Rentenanspruch, Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE024301308)
 
 (1) Versicherte im Sinne des § 2 Abs. 1 Nr. 5 Buchstabe a und b haben
 abweichend von § 56 Abs. 1 Satz 1 Anspruch auf eine Rente, wenn ihre
@@ -3197,24 +3301,29 @@ Versicherungsfalls, nicht gezahlt.
 
 
 ### Dritter Abschnitt - Jahresarbeitsverdienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025000000)
 
 
 
 #### Erster Unterabschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025100000)
 
 
 
 ##### § 81 Jahresarbeitsverdienst als Berechnungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008400000)
 
 Die Vorschriften dieses Abschnitts gelten für Leistungen in Geld, die
 nach dem Jahresarbeitsverdienst berechnet werden.
 
 
 #### Zweiter Unterabschnitt - Erstmalige Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025200000)
 
 
 
 ##### § 82 Regelberechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008502308)
 
 (1) Der Jahresarbeitsverdienst ist der Gesamtbetrag der
 Arbeitsentgelte (§ 14 des Vierten Buches) und Arbeitseinkommen (§ 15
@@ -3255,6 +3364,7 @@ legen wären. Für Berufssoldaten gilt dies entsprechend.
 
 
 ##### § 83 Jahresarbeitsverdienst kraft Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008601308)
 
 Für kraft Gesetzes versicherte selbständig Tätige, für kraft Satzung
 versicherte Unternehmer und Ehegatten oder Lebenspartner und für
@@ -3267,6 +3377,7 @@ einem höheren Jahresarbeitsverdienst versichert werden.
 
 
 ##### § 84 Jahresarbeitsverdienst bei Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008700000)
 
 Bei Berufskrankheiten gilt für die Berechnung des
 Jahresarbeitsverdienstes als Zeitpunkt des Versicherungsfalls der
@@ -3279,6 +3390,7 @@ schädigende versicherte Tätigkeit aufgegeben worden ist.
 
 
 ##### § 85 Mindest- und Höchstjahresarbeitsverdienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008802360)
 
 (1) Der Jahresarbeitsverdienst beträgt für Versicherte, die im
 Zeitpunkt des Versicherungsfalls das 18. Lebensjahr vollendet haben,
@@ -3317,10 +3429,12 @@ kann eine höhere Obergrenze bestimmen.
 
 
 ##### § 86 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE008901360)
 
 
 
 ##### § 87 Jahresarbeitsverdienst nach billigem Ermessen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009001360)
 
 Ist ein nach der Regelberechnung, nach den Vorschriften bei
 Berufskrankheiten oder nach der Regelung über den
@@ -3333,6 +3447,7 @@ Versicherungsfalls berücksichtigt.
 
 
 ##### § 88 Erhöhung des Jahresarbeitsverdienstes für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009100000)
 
 Ist der für die Berechnung von Geldleistungen an Hinterbliebene
 maßgebende Jahresarbeitsverdienst eines durch einen Versicherungsfall
@@ -3346,6 +3461,7 @@ Versicherungsfalls als Jahresarbeitsverdienst zugrunde lag.
 
 
 ##### § 89 Berücksichtigung von Anpassungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009200000)
 
 Beginnt die vom Jahresarbeitsverdienst abhängige Geldleistung nach dem
 30\. Juni eines Jahres und ist der Versicherungsfall im vergangenen
@@ -3355,10 +3471,12 @@ angepaßt.
 
 
 #### Dritter Unterabschnitt - Neufestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025300000)
 
 
 
 ##### § 90 Neufestsetzung nach Altersstufen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009302360)
 
 (1) Ist der Versicherungsfall vor Vollendung des 30. Lebensjahres
 eingetreten, wird, wenn es für die Versicherten günstiger ist, der
@@ -3377,6 +3495,7 @@ entsprechend anzuwenden.
 
 
 ##### § 91 Neufestsetzung nach Schul- oder Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009401360)
 
 (1) Ist der Versicherungsfall während einer Berufsausbildung
 eingetreten, wird, wenn es für die Versicherten günstiger ist, der
@@ -3436,10 +3555,12 @@ maßgebende Bezugsgröße. § 67 Absatz 3 Nummer 2 Buchstabe b ist für
 
 
 #### Vierter Unterabschnitt - Besondere Vorschriften für die bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation versicherten Seeleute und ihre Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025402377)
 
 
 
 ##### § 92 Jahresarbeitsverdienst für Seeleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009502126)
 
 (1) Als Jahresarbeitsverdienst für Versicherte, die an Bord eines
 Seeschiffs beschäftigt sind, gilt das Zwölffache des nach Absatz 2
@@ -3499,10 +3620,12 @@ Antrag mit einem höheren Jahresarbeitsverdienst versichert werden.
 
 
 #### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung und ihre Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025501308)
 
 
 
 ##### § 93 Jahresarbeitsverdienst für landwirtschaftliche Unternehmer, ihre Ehegatten und Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009609308)
 
 (1) Der Jahresarbeitsverdienst der kraft Gesetzes versicherten
 
@@ -3616,10 +3739,12 @@ entsprechend.
 
 
 ### Vierter Abschnitt - Mehrleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025600000)
 
 
 
 #### § 94 Mehrleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009707311)
 
 (1) Die Satzung kann Mehrleistungen bestimmen für
 
@@ -3667,10 +3792,12 @@ Einkommen abhängt, nicht angerechnet.
 
 
 ### Fünfter Abschnitt - Gemeinsame Vorschriften für Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025700000)
 
 
 
 #### § 95 Anpassung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009804308)
 
 (1) Jeweils zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen
 Rentenversicherung angepasst werden, werden die vom
@@ -3698,6 +3825,7 @@ eingetreten sind.
 
 
 #### § 96 Fälligkeit, Auszahlung und Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE009907360)
 
 (1) Laufende Geldleistungen mit Ausnahme des Verletzten- und
 Übergangsgeldes werden am Ende des Monats fällig, zu dessen Beginn die
@@ -3775,6 +3903,7 @@ Unfallversicherung erfüllt.
 
 
 #### § 97 Leistungen ins Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010000000)
 
 Berechtigte, die ihren gewöhnlichen Aufenthalt im Ausland haben,
 erhalten nach diesem Buch
@@ -3791,6 +3920,7 @@ erhalten nach diesem Buch
 
 
 #### § 98 Anrechnung anderer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010101308)
 
 (1) Auf Geldleistungen nach diesem Buch werden Geldleistungen eines
 ausländischen Trägers der Sozialversicherung oder einer ausländischen
@@ -3813,6 +3943,7 @@ beruhen, werden nicht angerechnet.
 
 
 #### § 99 Wahrnehmung von Aufgaben durch die Deutsche Post AG
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010202308)
 
 (1) Die Unfallversicherungsträger zahlen die laufenden Geldleistungen
 mit Ausnahme des Verletzten- und Übergangsgeldes in der Regel durch
@@ -3854,6 +3985,7 @@ Vergütung monatlich rechtzeitig angemessene Vorschüsse.
 
 
 #### § 100 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010304360)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -3880,6 +4012,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 #### § 101 Ausschluß oder Minderung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010401308)
 
 (1) Personen, die den Tod von Versicherten vorsätzlich herbeigeführt
 haben, haben keinen Anspruch auf Leistungen.
@@ -3895,6 +4028,7 @@ oder Lebenspartner und Kinder geleistet werden.
 
 
 #### § 102 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010500000)
 
 In den Fällen des § 36a Abs. 1 Satz 1 Nr. 2 des Vierten Buches wird
 die Entscheidung über einen Anspruch auf eine Leistung schriftlich
@@ -3902,6 +4036,7 @@ erlassen.
 
 
 #### § 103 Zwischennachricht, Unfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010601301)
 
 (1) Kann der Unfallversicherungsträger in den Fällen des § 36a Abs. 1
 Satz 1 des Vierten Buches innerhalb von sechs Monaten ein Verfahren
@@ -3917,14 +4052,17 @@ teilnehmen, wenn sie dies verlangen.
 
 
 ## Viertes Kapitel - Haftung von Unternehmern, Unternehmensangehörigen und anderen Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG010700000)
 
 
 
 ### Erster Abschnitt - Beschränkung der Haftung gegenüber Versicherten, ihren Angehörigen und Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025800000)
 
 
 
 #### § 104 Beschränkung der Haftung der Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010800000)
 
 (1) Unternehmer sind den Versicherten, die für ihre Unternehmen tätig
 sind oder zu ihren Unternehmen in einer sonstigen die Versicherung
@@ -3946,6 +4084,7 @@ infolge des Versicherungsfalls erhalten.
 
 
 #### § 105 Beschränkung der Haftung anderer im Betrieb tätiger Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE010900000)
 
 (1) Personen, die durch eine betriebliche Tätigkeit einen
 Versicherungsfall von Versicherten desselben Betriebs verursachen,
@@ -3970,6 +4109,7 @@ Schadenersatzanspruchs erbracht.
 
 
 #### § 106 Beschränkung der Haftung anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011000000)
 
 (1) In den in § 2 Abs. 1 Nr. 2, 3 und 8 genannten Unternehmen gelten
 die §§ 104 und 105 entsprechend für die Ersatzpflicht
@@ -4013,6 +4153,7 @@ Betriebsangehörigen gegenüber den nach § 3 Abs. 1 Nr. 2 Versicherten.
 
 
 #### § 107 Besonderheiten in der Seefahrt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011102377)
 
 (1) Bei Unternehmen der Seefahrt gilt § 104 auch für die Ersatzpflicht
 anderer das Arbeitsentgelt schuldender Personen entsprechend. § 105
@@ -4028,6 +4169,7 @@ Versicherten.
 
 
 #### § 108 Bindung der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011200000)
 
 (1) Hat ein Gericht über Ersatzansprüche der in den §§ 104 bis 107
 genannten Art zu entscheiden, ist es an eine unanfechtbare
@@ -4043,6 +4185,7 @@ Ablauf die Aufnahme des ausgesetzten Verfahrens zulässig ist.
 
 
 #### § 109 Feststellungsberechtigung von in der Haftung beschränkten Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011300000)
 
 Personen, deren Haftung nach den §§ 104 bis 107 beschränkt ist und
 gegen die Versicherte, ihre Angehörigen und Hinterbliebene
@@ -4054,10 +4197,12 @@ gilt nicht, soweit diese Personen das Verfahren selbst betreiben.
 
 
 ### Zweiter Abschnitt - Haftung gegenüber den Sozialversicherungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG025900000)
 
 
 
 #### § 110 Haftung gegenüber den Sozialversicherungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011403119)
 
 (1) Haben Personen, deren Haftung nach den §§ 104 bis 107 beschränkt
 ist, den Versicherungsfall vorsätzlich oder grob fahrlässig
@@ -4085,6 +4230,7 @@ des Schuldners, auf den Ersatzanspruch ganz oder teilweise verzichten.
 
 
 #### § 111 Haftung des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011501311)
 
 Haben ein Mitglied eines vertretungsberechtigten Organs, Abwickler
 oder Liquidatoren juristischer Personen, vertretungsberechtigte
@@ -4100,12 +4246,14 @@ Vereinsvermögen beschränkt.
 
 
 #### § 112 Bindung der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011600000)
 
 § 108 über die Bindung der Gerichte gilt auch für die Ansprüche nach
 den §§ 110 und 111.
 
 
 #### § 113 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011701308)
 
 Für die Verjährung der Ansprüche nach den §§ 110 und 111 gelten die §§
 195, 199 Abs. 1 und 2 und § 203 des Bürgerlichen Gesetzbuchs
@@ -4117,14 +4265,17 @@ Bürgerlichen Gesetzbuche gilt entsprechend.
 
 
 ## Fünftes Kapitel - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG011800000)
 
 
 
 ### Erster Abschnitt - Unfallversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026000000)
 
 
 
 #### § 114 Unfallversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE011908377)
 
 (1) Träger der gesetzlichen Unfallversicherung
 (Unfallversicherungsträger) sind
@@ -4193,6 +4344,7 @@ Bundesministerium der Finanzen erforderlich ist:
 
 
 #### § 115 Prävention bei der Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012007360)
 
 (1) Für die Unternehmen, für die die Unfallversicherung Bund und Bahn
 nach § 125 Absatz 1 Nummer 1 zuständig ist, erlässt das
@@ -4230,6 +4382,7 @@ besitzen.
 
 
 #### § 116 Unfallversicherungsträger im Landesbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012104308)
 
 (1) Für die Unfallversicherung im Landesbereich errichten die
 Landesregierungen durch Rechtsverordnung eine oder mehrere
@@ -4273,6 +4426,7 @@ Vereinigungen sind sozialverträglich umzusetzen.
 
 
 #### § 117 Unfallversicherungsträger im kommunalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012204308)
 
 (1) Soweit die Unfallversicherung im kommunalen Bereich nicht von
 einer gemeinsamen Unfallkasse für den Landes- und den kommunalen
@@ -4309,6 +4463,7 @@ Satz 6 bis 8 entsprechend.
 
 
 #### § 118 Vereinigung von Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012307126)
 
 (1) Berufsgenossenschaften können sich auf Beschluß ihrer
 Vertreterversammlungen zu einer Berufsgenossenschaft vereinigen. Der
@@ -4392,14 +4547,17 @@ bis 181 als selbständige Körperschaften behandelt.
 
 
 #### § 119 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012405308)
 
 
 
 #### § 119a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE024401308)
 
 
 
 #### § 120 Bundes- und Landesgarantie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012500000)
 
 Soweit durch Rechtsvorschriften des Bundes oder der Länder nicht etwas
 anderes bestimmt worden ist, gehen mit der Auflösung eines
@@ -4410,14 +4568,17 @@ aufsichtführende Land über.
 
 
 ### Zweiter Abschnitt - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026100000)
 
 
 
 #### Erster Unterabschnitt - Zuständigkeit der gewerblichen Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026200000)
 
 
 
 ##### § 121 Zuständigkeit der gewerblichen Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012603377)
 
 (1) Die gewerblichen Berufsgenossenschaften sind für alle Unternehmen
 (Betriebe, Verwaltungen, Einrichtungen, Tätigkeiten) zuständig, soweit
@@ -4528,6 +4689,7 @@ gewerblichen Schiffahrt bleiben unberührt.
 
 
 ##### § 122 Sachliche und örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012703308)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates die sachliche
@@ -4547,10 +4709,12 @@ Rechtsverordnung die Zuständigkeit nicht anders regelt.
 
 
 #### Zweiter Unterabschnitt - Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026301308)
 
 
 
 ##### § 123 Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012806119)
 
 (1) Die landwirtschaftliche Berufsgenossenschaft ist für folgende
 Unternehmen (landwirtschaftliche Unternehmen) zuständig, soweit sich
@@ -4629,6 +4793,7 @@ Berufsgenossenschaften zuzuweisen.
 
 
 ##### § 124 Bestandteile des landwirtschaftlichen Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE012900000)
 
 Zum landwirtschaftlichen Unternehmen gehören
 
@@ -4647,10 +4812,12 @@ Zum landwirtschaftlichen Unternehmen gehören
 
 
 #### Dritter Unterabschnitt - Zuständigkeit der Unfallversicherungsträger der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026400000)
 
 
 
 ##### § 125 Zuständigkeit der Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013024119)
 
 (1) Die Unfallversicherung Bund und Bahn ist zuständig
 
@@ -4764,14 +4931,17 @@ Unternehmens erklärt wird, mit Beginn des Unternehmens wirksam.
 
 
 ##### § 126 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013101377)
 
 
 
 ##### § 127 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013203377)
 
 
 
 ##### § 128 Zuständigkeit der Unfallversicherungsträger im Landesbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013311119)
 
 (1) Die Unfallversicherungsträger im Landesbereich sind zuständig
 
@@ -4855,6 +5025,7 @@ entsprechend.
 
 
 ##### § 129 Zuständigkeit der Unfallversicherungsträger im kommunalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013403308)
 
 (1) Die Unfallversicherungsträger im kommunalen Bereich sind zuständig
 
@@ -4925,6 +5096,7 @@ Unternehmen der in § 123 Absatz 1 Nummer 1, 4 und 5 genannten Art.
 
 
 ##### § 129a Zuständigkeit bei gemeinsamer Beteiligung von Bund, Ländern, Gemeinden oder Gemeindeverbänden an Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023802377)
 
 (1) Zur Feststellung der Voraussetzungen für die Zuständigkeit von
 Unfallversicherungsträgern im Landesbereich oder im kommunalen Bereich
@@ -4962,10 +5134,12 @@ die Verwaltung und Führung des Unternehmens obliegt, entsprechend.
 
 
 #### Vierter Unterabschnitt - Gemeinsame Vorschriften über die Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026500000)
 
 
 
 ##### § 130 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013503360)
 
 (1) Die örtliche Zuständigkeit des Unfallversicherungsträgers für ein
 Unternehmen richtet sich nach dem Sitz des Unternehmens. Ist ein
@@ -5010,6 +5184,7 @@ unterstehen.
 
 
 ##### § 131 Zuständigkeit für Hilfs- und Nebenunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013602308)
 
 (1) Umfaßt ein Unternehmen verschiedenartige Bestandteile
 (Hauptunternehmen, Nebenunternehmen, Hilfsunternehmen), die demselben
@@ -5039,12 +5214,14 @@ eigene Zwecke.
 
 
 ##### § 132 Zuständigkeit für Unfallversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013700000)
 
 Die Unfallversicherungsträger sind für sich und ihre eigenen
 Unternehmen zuständig.
 
 
 ##### § 133 Zuständigkeit für Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013800000)
 
 (1) Sofern in diesem Abschnitt keine abweichenden Regelungen getroffen
 sind, bestimmt sich die Zuständigkeit für Versicherte nach der
@@ -5059,6 +5236,7 @@ Zahlung des Arbeitsentgelts verpflichtet ist.
 
 
 ##### § 134 Zuständigkeit bei Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE013901119)
 
 (1) Wurde im Fall einer Berufskrankheit die gefährdende Tätigkeit für
 mehrere Unternehmen ausgeübt, für die verschiedene
@@ -5078,6 +5256,7 @@ verursacht wurde.
 
 
 ##### § 135 Versicherung nach mehreren Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014010301)
 
 (1) Die Versicherung nach § 2 Abs. 1 Nr. 1 geht einer Versicherung vor
 
@@ -5151,6 +5330,7 @@ und zugleich nach den §§ 3 und 6. Die Versicherung nach § 2 Abs. 1 Nr.
 
 
 ##### § 136 Bescheid über die Zuständigkeit, Begriff des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014107360)
 
 (1) Der Unfallversicherungsträger stellt Beginn und Ende seiner
 Zuständigkeit für ein Unternehmen durch schriftlichen Bescheid
@@ -5238,6 +5418,7 @@ vorliegt.
 
 
 ##### § 136a Unternehmernummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032603311)
 
 (1) Jeder Unternehmer erhält bei erstmaliger Aufnahme einer
 unternehmerischen Tätigkeit eine Unternehmernummer. Die
@@ -5279,6 +5460,7 @@ für Arbeit und Soziales zu genehmigen sind.
 
 
 ##### § 136b Verarbeitung zu Zwecken des Unternehmensbasisdatenregisters
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032700311)
 
 Die im zentralen Unternehmerverzeichnis nach 136a Absatz 1 Satz 5
 gespeicherten Daten dürfen zu den in § 4 des
@@ -5292,6 +5474,7 @@ zentralen Dateisystem nach § 136a Absatz 1 Satz 5 gespeichert werden.
 
 
 ##### § 137 Wirkung von Zuständigkeitsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014202377)
 
 (1) Geht die Zuständigkeit für Unternehmen nach § 136 Abs. 1 Satz 4
 von einem Unfallversicherungsträger auf einen anderen über, bleibt bis
@@ -5312,6 +5495,7 @@ auf einen anderen Unfallversicherungsträger übergeht.
 
 
 ##### § 138 Unterrichtung der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014300000)
 
 Die Unternehmer haben die in ihren Unternehmen tätigen Versicherten
 darüber zu unterrichten, welcher Unfallversicherungsträger für das
@@ -5320,6 +5504,7 @@ Entschädigungen zuständige Geschäftsstelle befindet.
 
 
 ##### § 139 Vorläufige Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014400000)
 
 (1) Ist ein Unfallversicherungsträger der Ansicht, daß ein
 entschädigungspflichtiger Versicherungsfall vorliegt, für den ein
@@ -5351,6 +5536,7 @@ Feststellungen nach Absatz 2 zu treffen.
 
 
 ##### § 139a Deutsche Verbindungsstelle Unfallversicherung – Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027500113)
 
 (1) Die Deutsche Gesetzliche Unfallversicherung
 e. V. nimmt die Aufgaben
@@ -5394,10 +5580,12 @@ Unfallversicherung um. Auf die Umlage kann sie Vorschüsse einfordern.
 
 
 ### Dritter Abschnitt - Weitere Versicherungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026600000)
 
 
 
 #### § 140 Haftpflicht- und Auslandsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014502308)
 
 (1) Die landwirtschaftliche Berufsgenossenschaft kann für diejenigen
 Unternehmer und die ihnen in der Haftpflicht Gleichstehenden, deren
@@ -5421,6 +5609,7 @@ bedürfen der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 141 Träger der Versicherungseinrichtungen, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014601308)
 
 (1) Träger der Haftpflicht- und Auslandsversicherung ist der
 Unfallversicherungsträger. Die Aufsicht mit Ausnahme der Fachaufsicht
@@ -5434,6 +5623,7 @@ eine andere öffentlich-rechtliche Einrichtung übertragen.
 
 
 #### § 142 Gemeinsame Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014700000)
 
 (1) Unfallversicherungsträger, die dieselbe Aufsichtsbehörde haben,
 können vereinbaren, gemeinsame Einrichtungen der Auslandsversicherung
@@ -5445,15 +5635,18 @@ der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 143 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014805308)
 
 -
 
 
 ### Vierter Abschnitt - Dienstrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026700000)
 
 
 
 #### § 144 Dienstordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE014904360)
 
 (1) Die Vertreterversammlung des Unfallversicherungsträgers hat die
 Ein- und Anstellungsbedingungen und die Rechtsverhältnisse der
@@ -5469,6 +5662,7 @@ abgeschlossen werden, es sei denn, die Angestellten unterstanden am
 
 
 #### § 145 Regelungen in der Dienstordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015000000)
 
 Die Dienstordnung hat die Folgen der Nichterfüllung von Pflichten und
 die Zuständigkeit für deren Festsetzung zu regeln. Weitergehende
@@ -5477,6 +5671,7 @@ dürfen nicht vorgesehen werden.
 
 
 #### § 146 Verletzung der Dienstordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015100000)
 
 Widerspricht ein Dienstvertrag der Dienstordnung, ist er insoweit
 nichtig. Dies gilt nicht, wenn der Widerspruch zwischen Dienstvertrag
@@ -5486,6 +5681,7 @@ beruht.
 
 
 #### § 147 Aufstellung und Änderung der Dienstordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015200000)
 
 (1) Vor Aufstellung der Dienstordnung hat der Vorstand des
 Unfallversicherungsträgers die Personalvertretung zu hören.
@@ -5501,6 +5697,7 @@ entsprechend.
 
 
 #### § 147a Dienstbezüge der Geschäftsführer der gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE028201377)
 
 (1) Die Dienstbezüge im Dienstordnungsverhältnis oder die vertraglich
 zu vereinbarende Vergütung der Geschäftsführerinnen oder der
@@ -5598,6 +5795,7 @@ Familienzuschlags der Stufe 2.
 
 
 #### § 148 Dienstrechtliche Vorschriften für die Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015304377)
 
 (1) Die Unfallversicherung Bund und Bahn besitzt Dienstherrnfähigkeit
 im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind
@@ -5618,6 +5816,7 @@ der seine Befugnisse ganz oder teilweise auf den Geschäftsführer
 
 
 #### § 149 Dienstrechtliche Vorschriften für die gewerblichen Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015405311)
 
 (1) Das Personal der Unfallversicherungsträger in den Nummern 1 bis 7
 und 9 der Anlage zu § 114 Absatz 1 Nummer 1 besteht vorrangig aus
@@ -5642,18 +5841,22 @@ ganz oder teilweise auf die Geschäftsführung übertragen kann.
 
 
 ## Sechstes Kapitel - Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG015500000)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026800000)
 
 
 
 #### Erster Unterabschnitt - Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG026900000)
 
 
 
 ##### § 150 Beitragspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015607311)
 
 (1) Beitragspflichtig sind die Unternehmer, für deren Unternehmen
 Versicherte tätig sind oder zu denen Versicherte in einer besonderen,
@@ -5704,6 +5907,7 @@ zusammenhängender Leistungen als Gesamtschuldner verpflichtet.
 
 
 ##### § 151 Beitragserhebung bei überbetrieblichen arbeitsmedizinischen und sicherheitstechnischen Diensten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015700000)
 
 Die Mittel für die Einrichtungen nach § 24 werden von den Unternehmern
 aufgebracht, die diesen Einrichtungen angeschlossen sind. Die Satzung
@@ -5712,10 +5916,12 @@ sind, und über die Fälligkeit.
 
 
 #### Zweiter Unterabschnitt - Beitragshöhe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027000000)
 
 
 
 ##### § 152 Umlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015802308)
 
 (1) Die Beiträge werden nach Ablauf des Kalenderjahres, in dem die
 Beitragsansprüche dem Grunde nach entstanden sind, im Wege der Umlage
@@ -5736,6 +5942,7 @@ Einrichtungen der Wohlfahrtspflege umgelegt werden.
 
 
 ##### § 153 Berechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE015902308)
 
 (1) Berechnungsgrundlagen für die Beiträge sind, soweit sich aus den
 nachfolgenden Vorschriften nicht etwas anderes ergibt, der
@@ -5762,6 +5969,7 @@ umgelegt.
 
 
 ##### § 154 Berechnungsgrundlagen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016006377)
 
 (1) Berechnungsgrundlage für die Beiträge der kraft Gesetzes
 versicherten selbständig Tätigen, der kraft Satzung versicherten
@@ -5790,6 +5998,7 @@ Einrichtungen der Wohlfahrtspflege.
 
 
 ##### § 155 Beiträge nach der Zahl der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016100000)
 
 Die Satzung kann bestimmen, daß die Beiträge nicht nach
 Arbeitsentgelten, sondern nach der Zahl der Versicherten unter
@@ -5800,6 +6009,7 @@ entsprechend.
 
 
 ##### § 156 Beiträge nach einem auf Arbeitsstunden aufgeteilten Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016200000)
 
 Die Satzung kann bestimmen, daß das für die Berechnung der Beiträge
 maßgebende Arbeitsentgelt nach der Zahl der geleisteten Arbeitsstunden
@@ -5810,6 +6020,7 @@ Bezugsgröße bestimmt werden.
 
 
 ##### § 157 Gefahrtarif
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016304377)
 
 (1) Der Unfallversicherungsträger setzt als autonomes Recht einen
 Gefahrtarif fest. In dem Gefahrtarif sind zur Abstufung der Beiträge
@@ -5840,6 +6051,7 @@ Kalenderjahren.
 
 
 ##### § 158 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016400000)
 
 (1) Der Gefahrtarif und jede Änderung bedürfen der Genehmigung der
 Aufsichtsbehörde.
@@ -5853,6 +6065,7 @@ Vierten Buches gilt.
 
 
 ##### § 159 Veranlagung der Unternehmen zu den Gefahrklassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016501308)
 
 (1) Der Unfallversicherungsträger veranlagt die Unternehmen für die
 Tarifzeit nach dem Gefahrtarif zu den Gefahrklassen. Satz 1 gilt nicht
@@ -5869,6 +6082,7 @@ der betrieblichen Verhältnisse vor.
 
 
 ##### § 160 Änderung der Veranlagung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016600000)
 
 (1) Treten in den Unternehmen Änderungen ein, hebt der
 Unfallversicherungsträger den Veranlagungsbescheid mit Beginn des
@@ -5896,12 +6110,14 @@ aufgehoben.
 
 
 ##### § 161 Mindestbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016700000)
 
 Die Satzung kann bestimmen, daß ein einheitlicher Mindestbeitrag
 erhoben wird.
 
 
 ##### § 162 Zuschläge, Nachlässe, Prämien
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016806119)
 
 (1) Die gewerblichen Berufsgenossenschaften haben unter
 Berücksichtigung der anzuzeigenden Versicherungsfälle Zuschläge
@@ -5934,6 +6150,7 @@ Bauarbeiten.
 
 
 ##### § 163 Beitragszuschüsse für Küstenfischer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE016903126)
 
 (1) Für die Unternehmen der Küstenfischerei, deren Unternehmer nach §
 2 Abs. 1 Nr. 7 versichert sind, haben die Länder mit Küstenbezirken im
@@ -5965,10 +6182,12 @@ Bezirk tätig sind, verteilen.
 
 
 #### Dritter Unterabschnitt - Vorschüsse und Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027100000)
 
 
 
 ##### § 164 Beitragsvorschüsse und Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017000000)
 
 (1) Zur Sicherung des Beitragsaufkommens können die
 Unfallversicherungsträger Vorschüsse bis zur Höhe des
@@ -5981,10 +6200,12 @@ Das Nähere bestimmt die Satzung.
 
 
 #### Vierter Unterabschnitt - Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027200000)
 
 
 
 ##### § 165 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017106119)
 
 (1) Die Unternehmer haben nach Ablauf eines Kalenderjahres die
 Arbeitsentgelte der Versicherten und die geleisteten Arbeitsstunden
@@ -6019,6 +6240,7 @@ Jahre lang aufzubewahren.
 
 
 ##### § 166 Auskunftspflicht der Unternehmer und Beitragsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026401377)
 
 (1) Für die Auskunftspflicht der Unternehmer und die
 Beitragsüberwachung gelten § 98 des Zehnten Buches, § 28p des Vierten
@@ -6075,6 +6297,7 @@ Absatz 2 Satz 1.
 
 
 ##### § 167 Beitragsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017300000)
 
 (1) Der Beitrag ergibt sich aus den zu berücksichtigenden
 Arbeitsentgelten, den Gefahrklassen und dem Beitragsfuß.
@@ -6089,6 +6312,7 @@ nach dem Beitragsfuß des letzten Umlagejahres berechnet.
 
 
 ##### § 168 Beitragsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017411360)
 
 (1) Der Unfallversicherungsträger teilt den Beitragspflichtigen den
 von ihnen zu zahlenden Beitrag schriftlich mit. Einer Anhörung nach §
@@ -6133,6 +6357,7 @@ ist.
 
 
 ##### § 169 Erhebung von Säumniszuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017503311)
 
 Ein Säumniszuschlag nach § 24 Absatz 1 Satz 1 des Vierten Buches ist
 nicht zu erheben, wenn
@@ -6148,6 +6373,7 @@ Dies gilt nicht für die landwirtschaftliche Unfallversicherung.
 
 
 ##### § 170 Beitragszahlung an einen anderen Unfallversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017604119)
 
 Soweit das Arbeitsentgelt bereits in dem Lohnnachweis für einen
 anderen Unfallversicherungsträger enthalten ist und die Beiträge, die
@@ -6159,14 +6385,17 @@ Beitrag zusteht.
 
 
 #### Fünfter Unterabschnitt - Betriebsmittel, Rücklage und Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027301308)
 
 
 
 ##### § 171 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017702311)
 
 
 
 ##### § 172 Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017802311)
 
 (1) Betriebsmittel dürfen nur verwendet werden
 
@@ -6185,6 +6414,7 @@ Kalenderjahres am 31. Dezember des laufenden Kalenderjahres nicht
 
 
 ##### § 172a Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026701311)
 
 (1) Die Unfallversicherungsträger bilden die Rücklage über die in § 82
 des Vierten Buches genannte Zweckbestimmung hinaus auch zur
@@ -6211,6 +6441,7 @@ Mindesthöhe erreicht hat, die sich aus Absatz 2 ergibt.
 
 
 ##### § 172b Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026801311)
 
 Mittel für den Erwerb, die Errichtung, die Erweiterung und den Umbau
 von Immobilien der Eigenbetriebe sowie der durch Beteiligungen oder
@@ -6222,6 +6453,7 @@ Unfallversicherungsträger erforderlich sind.
 
 
 ##### § 172c Altersrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026908311)
 
 (1) Die Unfallversicherungsträger sind verpflichtet,
 Altersrückstellungen für die bei ihnen beschäftigten Arbeitnehmerinnen
@@ -6252,10 +6484,12 @@ Bundesministerium für Ernährung und Landwirtschaft.
 
 
 #### Sechster Unterabschnitt - Zusammenlegung und Teilung der Last, Teilung der Entschädigungslast bei Berufskrankheiten, Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027401308)
 
 
 
 ##### § 173 Zusammenlegung und Teilung der Last
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE017903308)
 
 (1) Die gewerblichen Berufsgenossenschaften können vereinbaren, ihre
 Entschädigungslast ganz oder zum Teil gemeinsam zu tragen. Dabei wird
@@ -6288,6 +6522,7 @@ Unfallversicherungsträger regeln das Nähere durch Vereinbarung.
 
 
 ##### § 174 Teilung der Entschädigungslast bei Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018000000)
 
 (1) In den Fällen des § 134 kann der für die Entschädigung zuständige
 Unfallversicherungsträger von den anderen einen Ausgleich verlangen.
@@ -6303,6 +6538,7 @@ oder von einem Ausgleich absehen.
 
 
 ##### § 175 Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018101308)
 
 Erleiden vorübergehend für ein landwirtschaftliches Unternehmen Tätige
 einen Versicherungsfall und ist für ihre hauptberufliche Tätigkeit ein
@@ -6314,16 +6550,19 @@ Beschäftigte zu beanspruchen haben.
 
 
 #### Siebter Unterabschnitt - Lastenverteilung zwischen den gewerblichen Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027501308)
 
 
 
 ##### § 176 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018203308)
 
 Die gewerblichen Berufsgenossenschaften tragen ihre Rentenlasten nach
 Maßgabe der folgenden Vorschriften gemeinsam.
 
 
 ##### § 177 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018303308)
 
 (1) Rentenlasten sind die Aufwendungen der Berufsgenossenschaften für
 Renten, Sterbegeld und Abfindungen.
@@ -6368,6 +6607,7 @@ Entgeltsumme.
 
 
 ##### § 178 Gemeinsame Tragung der Rentenlasten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018402308)
 
 (1) Jede Berufsgenossenschaft trägt jährlich Rentenlasten in Höhe des
 5,5fachen ihrer Neurenten für Arbeitsunfälle und des 3,4fachen ihrer
@@ -6407,6 +6647,7 @@ tragenden Lasten übersteigen, tragen die Berufsgenossenschaften den
 
 
 ##### § 179 Sonderregelung bei außergewöhnlicher Belastung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018503308)
 
 (1) Neurenten für Berufskrankheiten einer Tarifstelle gelten nicht als
 Neurenten im Sinne von § 177 Abs. 3, soweit
@@ -6468,6 +6709,7 @@ Berufskrankheiten zugeordnet.
 
 
 ##### § 180 Freibeträge, Unternehmen ohne Gewinnerzielungsabsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018604308)
 
 (1) Bei der Anwendung des § 178 Abs. 2 Nr. 2 und Abs. 3 Nr. 2 bleibt
 für jedes Unternehmen eine Jahresentgeltsumme außer Betracht, die dem
@@ -6481,6 +6723,7 @@ und kirchlichen Einrichtungen.
 
 
 ##### § 181 Durchführung des Ausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018709126)
 
 (1) Das Bundesamt für Soziale Sicherung führt nach Ablauf des
 Ausgleichsjahres die Lastenverteilung nach § 178 durch. Zu diesem
@@ -6531,10 +6774,12 @@ aufschiebende Wirkung.
 
 
 ### Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027601308)
 
 
 
 #### § 182 Berechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE018802360)
 
 (1) Auf die landwirtschaftliche Berufsgenossenschaft finden anstelle
 der Vorschriften über die Berechnungsgrundlagen aus dem Zweiten
@@ -6605,6 +6850,7 @@ gelten § 157 Abs. 5 und die §§ 158 bis 160 entsprechend.
 
 
 #### § 183 Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026606360)
 
 (1) Auf die landwirtschaftliche Berufsgenossenschaft finden anstelle
 der Vorschriften über das Umlageverfahren aus dem Vierten
@@ -6665,6 +6911,7 @@ Einzug des Beitrags und der Vorschüsse erteilen.
 
 
 #### § 183a Rechenschaft über die Verwendung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE025401308)
 
 Die landwirtschaftliche Berufsgenossenschaft hat in ihrer
 Mitgliederzeitschrift und vergleichbaren elektronischen Medien in
@@ -6675,6 +6922,7 @@ Hebesatzes oder des Beitrages auszuweisen.
 
 
 #### § 184 Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019001308)
 
 Abweichend von § 172a Abs. 2 wird die Rücklage mindestens in einfacher
 Höhe der durchschnittlichen monatlichen Ausgaben des abgelaufenen
@@ -6686,26 +6934,32 @@ Kalenderjahres zugeführt. Es gilt § 172a Abs. 4.
 
 
 #### § 184a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE025501308)
 
 
 
 #### § 184b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE025601308)
 
 
 
 #### § 184c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE025701308)
 
 
 
 #### § 184d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE025802308)
 
 
 
 ### Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027700000)
 
 
 
 #### § 185 Gemeindeunfallversicherungsverbände, Unfallkassen der Länder und Gemeinden, gemeinsame Unfallkassen, Feuerwehr-Unfallkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019107119)
 
 (1) Von den Vorschriften des Ersten Abschnitts finden auf die
 Gemeindeunfallversicherungsverbände, die Unfallkassen der Länder und
@@ -6768,6 +7022,7 @@ werden.
 
 
 #### § 186 Aufwendungen der Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019211377)
 
 (1) Im Zuständigkeitsbereich des § 125 Absatz 1 finden von den
 Vorschriften des Ersten Abschnitts die §§ 150, 152, 155, 164 bis 166,
@@ -6809,14 +7064,17 @@ Erstattung vorgesehen werden.
 
 
 ### Vierter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027801308)
 
 
 
 #### Erster Unterabschnitt - Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028500308)
 
 
 
 ##### § 187 Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019302308)
 
 (1) Berechnungen werden auf vier Dezimalstellen durchgeführt.
 Geldbeträge werden auf zwei Dezimalstellen berechnet. Dabei wird die
@@ -6845,10 +7103,12 @@ durchgeführt.
 
 
 #### Zweiter Unterabschnitt - Reduzierung der Kosten für Verwaltung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028600308)
 
 
 
 ##### § 187a Reduzierung der Kosten für Verwaltung und Verfahren in der landwirtschaftlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026102119)
 
 (1) Die landwirtschaftliche Berufsgenossenschaft ergreift Maßnahmen,
 damit die jährlichen Verwaltungs- und Verfahrenskosten für die
@@ -6869,14 +7129,17 @@ Altersrückstellungsvermögen unberücksichtigt.
 
 
 ## Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG019400000)
 
 
 
 ### Erster Abschnitt - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG027900000)
 
 
 
 #### § 188 Auskunftspflicht der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019501126)
 
 Die Unfallversicherungsträger können von den Krankenkassen Auskunft
 über die Behandlung, den Zustand sowie über Erkrankungen und frühere
@@ -6898,6 +7161,7 @@ des Zehnten Buches entsprechend.
 
 
 #### § 189 Beauftragung einer Krankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019600000)
 
 Unfallversicherungsträger können Krankenkassen beauftragen, die ihnen
 obliegenden Geldleistungen zu erbringen; die Einzelheiten werden durch
@@ -6905,6 +7169,7 @@ Vereinbarung geregelt.
 
 
 #### § 190 Pflicht der Unfallversicherungsträger zur Benachrichtigung der Rentenversicherungsträger beim Zusammentreffen von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019700000)
 
 Erbringt ein Unfallversicherungsträger für einen Versicherten oder
 einen Hinterbliebenen, der eine Rente aus der gesetzlichen
@@ -6916,10 +7181,12 @@ anzugeben.
 
 
 ### Zweiter Abschnitt - Beziehungen der Unfallversicherungsträger zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028000000)
 
 
 
 #### § 191 Unterstützungspflicht der Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019800000)
 
 Die Unternehmer haben die für ihre Unternehmen zuständigen
 Unfallversicherungsträger bei der Durchführung der Unfallversicherung
@@ -6927,6 +7194,7 @@ zu unterstützen; das Nähere regelt die Satzung.
 
 
 #### § 192 Mitteilungs- und Auskunftspflichten von Unternehmern und Bauherren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE019901126)
 
 (1) Die Unternehmer haben binnen einer Woche nach Beginn des
 Unternehmens dem zuständigen Unfallversicherungsträger
@@ -6996,6 +7264,7 @@ erforderlich sind. Dazu gehören
 
 
 #### § 193 Pflicht zur Anzeige eines Versicherungsfalls durch die Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020009126)
 
 (1) Die Unternehmer haben Unfälle von Versicherten in ihren
 Unternehmen dem Unfallversicherungsträger anzuzeigen, wenn Versicherte
@@ -7068,6 +7337,7 @@ besonderen Niederschrift nachzuweisen.
 
 
 #### § 194 Meldepflicht der Eigentümer von Seeschiffen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020102377)
 
 Die Seeschiffe, die unter der Bundesflagge in Dienst gestellt werden
 sollen, haben die Eigentümer bereits nach ihrem Erwerb oder bei Beginn
@@ -7076,6 +7346,7 @@ Telekommunikation zu melden.
 
 
 #### § 195 Unterstützungs- und Mitteilungspflichten von Kammern und der für die Erteilung einer Gewerbe- oder Bauerlaubnis zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020203311)
 
 (1) Kammern und andere Zusammenschlüsse von Unternehmern, die als
 Körperschaften des öffentlichen Rechts errichtet sind, ferner Verbände
@@ -7109,6 +7380,7 @@ zuständigen Behörden.
 
 
 #### § 196 Mitteilungspflichten der Schiffsvermessungs- und -registerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020302377)
 
 Das Bundesamt für Seeschiffahrt und Hydrographie teilt jede Vermessung
 eines Seeschiffs, die für die Führung von Schiffsregistern und des
@@ -7124,6 +7396,7 @@ Unterscheidungssignale erteilen, die gleichen Pflichten.
 
 
 #### § 197 Übermittlungspflicht weiterer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020408119)
 
 (1) Die Gemeinden übermitteln abweichend von § 30 der Abgabenordnung
 zum Zweck der Beitragserhebung auf Anforderung Daten über Eigentums-
@@ -7197,6 +7470,7 @@ entsprechen.
 
 
 #### § 198 Auskunftspflicht der Grundstückseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020500000)
 
 Eigentümer von Grundstücken, die von Unternehmern land- oder
 forstwirtschaftlich bewirtschaftet werden, haben der
@@ -7207,14 +7481,17 @@ erforderlich ist.
 
 
 ## Achtes Kapitel - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG020600000)
 
 
 
 ### Erster Abschnitt - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028100000)
 
 
 
 #### § 199 Verarbeitung von Daten durch die Unfallversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020703126)
 
 (1) Die Unfallversicherungsträger dürfen Sozialdaten nur erheben und
 speichern, soweit dies zur Erfüllung ihrer gesetzlich vorgeschriebenen
@@ -7263,6 +7540,7 @@ Ereignis oder der schädigenden Einwirkung vorliegen.
 
 
 #### § 200 Einschränkung der Übermittlungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020801126)
 
 (1) § 76 Abs. 2 Nr. 1 des Zehnten Buches gilt mit der Maßgabe, daß der
 Unfallversicherungsträger auch auf ein gegenüber einem anderen
@@ -7278,10 +7556,12 @@ Widerspruchsrecht nach § 76 Abs. 2 des Zehnten Buches hinzuweisen und
 
 
 ### Zweiter Abschnitt - Datenverarbeitung durch Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028201126)
 
 
 
 #### § 201 Erhebung, Speicherung und Übermittlung von Daten durch Ärzte und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE020905126)
 
 (1) Ärzte und Zahnärzte sowie Psychotherapeuten, Psychologische
 Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten, die
@@ -7305,6 +7585,7 @@ benötigen, dürfen die Daten auch an sie übermittelt werden.
 
 
 #### § 202 Anzeigepflicht von Ärzten bei Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021001126)
 
 Haben Ärzte oder Zahnärzte den begründeten Verdacht, daß bei
 Versicherten eine Berufskrankheit besteht, haben sie dies dem
@@ -7315,6 +7596,7 @@ Abs. 7 Satz 3 und 4 gilt entsprechend.
 
 
 #### § 203 Auskunftspflicht von Ärzten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021101126)
 
 (1) Ärzte und Zahnärzte, die nicht an einer Heilbehandlung nach § 34
 beteiligt sind, sind verpflichtet, dem Unfallversicherungsträger auf
@@ -7336,10 +7618,12 @@ Versicherten gilt § 25 Absatz 2 des Zehnten Buches entsprechend.
 
 
 ### Dritter Abschnitt - Dateisysteme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028301126)
 
 
 
 #### § 204 Errichtung eines Dateisystems für mehrere Unfallversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021206360)
 
 (1) Die Errichtung eines Dateisystems für mehrere
 Unfallversicherungsträger bei einem Unfallversicherungsträger oder bei
@@ -7508,14 +7792,17 @@ Unfallversicherungsträger, der für den Versicherten zuständig ist.
 
 
 #### § 205 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021306308)
 
 
 
 ### Vierter Abschnitt - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028400000)
 
 
 
 #### § 206 Verarbeitung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021402126)
 
 (1) Ein Arzt oder Angehöriger eines anderen Heilberufes ist befugt,
 für ein bestimmtes Forschungsvorhaben personenbezogene Daten den
@@ -7573,6 +7860,7 @@ gelten entsprechend.
 
 
 #### § 207 Verarbeitung von Daten zur Verhütung von Versicherungsfällen und arbeitsbedingten Gesundheitsgefahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021501126)
 
 (1) Die Unfallversicherungsträger und ihre Verbände dürfen
 
@@ -7601,16 +7889,19 @@ als vertraulich gekennzeichnet sind.
 
 
 #### § 208 Auskünfte der Deutschen Post AG
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021600000)
 
 Soweit die Deutsche Post AG Aufgaben der Unfallversicherung wahrnimmt,
 gilt § 151 des Sechsten Buches entsprechend.
 
 
 ## Neuntes Kapitel - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG021700000)
 
 
 
 ### § 209 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027702119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -7692,12 +7983,14 @@ werden.
 
 
 ### § 210 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE021901308)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist der Unfallversicherungsträger.
 
 
 ### § 211 Zusammenarbeit bei der Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022010308)
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die
 Unfallversicherungsträger insbesondere mit den Behörden der
@@ -7757,10 +8050,12 @@ dürfen die Unfallversicherungsträger nicht übermitteln.
 
 
 ## Zehntes Kapitel - Übergangsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG022100000)
 
 
 
 ### § 212 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022200000)
 
 Die Vorschriften des Ersten bis Neunten Kapitels gelten für
 Versicherungsfälle, die nach dem Inkrafttreten dieses Gesetzes
@@ -7769,6 +8064,7 @@ bestimmt ist.
 
 
 ### § 213 Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022306360)
 
 (1) Unternehmer und ihre Ehegatten, die am Tag vor dem Inkrafttreten
 dieses Gesetzes nach § 539 Abs. 1 Nr. 3 oder 7 der
@@ -7800,6 +8096,7 @@ Leistungen bestehen in diesen Fällen ab dem 1. August 2012.
 
 
 ### § 214 Geltung auch für frühere Versicherungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022404360)
 
 (1) Die Vorschriften des Ersten und Fünften Abschnitts des Dritten
 Kapitels gelten auch für Versicherungsfälle, die vor dem Tag des
@@ -7833,6 +8130,7 @@ Inkrafttretens dieses Gesetzes eingetreten sind.
 
 
 ### § 215 Sondervorschriften für Versicherungsfälle in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022517119)
 
 (1) Für die Übernahme der vor dem 1. Januar 1992 eingetretenen Unfälle
 und Krankheiten als Arbeitsunfälle und Berufskrankheiten nach dem
@@ -7896,10 +8194,12 @@ anzuwenden.
 
 
 ### § 216 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022602119)
 
 
 
 ### § 217 Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022704360)
 
 (1) Ist eine Geldleistung, die aufgrund des bis zum Inkrafttreten
 dieses Gesetzes geltenden Rechts festgestellt worden ist oder hätte
@@ -7929,10 +8229,12 @@ anzuwenden.
 
 
 ### § 218 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022801119)
 
 
 
 ### § 218a Leistungen an Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023402301)
 
 (1) Ist der Ehegatte vor dem 1. Januar 2002 verstorben oder wurde die
 Ehe vor diesem Tag geschlossen und ist mindestens ein Ehegatte vor dem
@@ -7958,6 +8260,7 @@ Nr. 3 Buchstabe b der § 242a Abs. 5 des Sechsten Buches entsprechend.
 
 
 ### § 218b Rückwirkende Anerkennung von Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023604360)
 
 Für die rückwirkende Anerkennung von Berufskrankheiten, die vor dem 1.
 Januar 2021 in der Verordnung nach § 9 Absatz 1 bezeichnet worden
@@ -7966,6 +8269,7 @@ Fassung.
 
 
 ### § 218c Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023700308)
 
 (1) Bei Beginn laufender Geldleistungen mit Ausnahme des Verletzten-
 und Übergangsgeldes vor dem  1. April 2004 werden diese zu Beginn des
@@ -7980,6 +8284,7 @@ Rentenbeginn dieser Rente vor dem  1. April 2004 liegt.
 
 
 ### § 218d Besondere Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023904360)
 
 (1) Verändert sich aufgrund des § 128 Absatz 1 Nummer 1a, des § 129
 Absatz 1 Nummer 1a und Absatz 4 oder des § 129a die Zuständigkeit für
@@ -8010,6 +8315,7 @@ berücksichtigen.
 
 
 ### § 218e Übergangsregelungen aus Anlass des Übergangs der Beitragsüberwachung auf die Träger der Deutschen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027001360)
 
 (1) Soweit der Übergang der Prüfung nach § 166 Abs. 2 auf die Träger
 der Rentenversicherung bei diesen Personalbedarf auslöst, können die
@@ -8057,6 +8363,7 @@ Voraussetzungen erfüllen.
 
 
 ### § 218f Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032302360)
 
 Die Verbände der Unfallversicherungsträger haben bis zum 31. Dezember
 2026 dem Bundesministerium für Arbeit und Soziales einen gemeinsamen
@@ -8070,6 +8377,7 @@ Berufskrankheitenforschung vorzulegen.
 
 
 ### § 218g Übergangsregelungen bei epidemischer Lage von nationaler Tragweite
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE032503311)
 
 (1) § 62 Absatz 2 Satz 1 gilt bis zum Ablauf von sechs Monaten nach
 Beendigung der durch das Coronavirus SARS-CoV-2 verursachten
@@ -8107,10 +8415,12 @@ versichert. Die Versicherung nach Satz 1 geht der Versicherung nach
 
 
 ### § 219 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE022902119)
 
 
 
 ### § 219a Altersrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027103119)
 
 (1) (weggefallen)
 
@@ -8138,6 +8448,7 @@ anteilig im Rahmen der Verpflichtungen nach § 172c berücksichtigt.
 
 
 ### § 220 Ausgleich unter den gewerblichen Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023004360)
 
 (1) (weggefallen)
 
@@ -8168,6 +8479,7 @@ dass für den Zuständigkeitsbereich nach § 121 Absatz 2 Nummer 3 bis 8
 
 
 ### § 221 Besondere Vorschriften für die landwirtschaftliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE024005360)
 
 (1) (weggefallen)
 
@@ -8182,6 +8494,7 @@ Dezember 2007 eingetreten sind.
 
 
 ### § 221a Verarbeitung von Daten durch die landwirtschaftliche Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE025905311)
 
 (1) Die landwirtschaftliche Berufsgenossenschaft (§ 114 Absatz 1 Satz
 1 Nummer 2) darf die bei ihr gespeicherten Namen, Anschriften und
@@ -8243,6 +8556,7 @@ landwirtschaftlichen Berufsgenossenschaft zu regeln.
 
 
 ### § 221b Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE026001308)
 
 (1) Der Beitrag, den die Unternehmer auf die Umlagen für die Jahre
 2013 bis 2017 (Übergangszeit) zu zahlen haben, ergibt sich, wenn der
@@ -8296,10 +8610,12 @@ Beiträge ist in den Beitragsbescheiden gesondert auszuweisen.
 
 
 ## Elftes Kapitel - Übergangsvorschriften zur Neuorganisation der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNG028700308)
 
 
 
 ### § 222 Neuorganisation der gewerblichen Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027202119)
 
 (1) (weggefallen)
 
@@ -8333,6 +8649,7 @@ Benchmarking der Versicherungsträger ergeben.
 
 
 ### § 223 Neuorganisation der landesunmittelbaren Unfallversicherungsträger der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027300308)
 
 (1) Die Selbstverwaltungen der landesunmittelbaren
 Unfallversicherungsträger der öffentlichen Hand erstellen Konzepte zur
@@ -8350,6 +8667,7 @@ Versicherten und Unternehmen sicherzustellen.
 
 
 ### § 224 Umstellung der Mitgliedsnummer auf die Unternehmernummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027405311)
 
 (1) Die Mitgliedsnummern der gewerblichen Berufsgenossenschaften, der
 landwirtschaftlichen Berufsgenossenschaft und der
@@ -8417,11 +8735,13 @@ zu genehmigen sind.
 
 
 ### § 225 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE027603311)
 
 
 (zu § 114)
 
 ### Anlage 1 Gewerbliche Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023104119)
 
 
 1.  Berufsgenossenschaft Rohstoffe und chemische Industrie,
@@ -8456,5 +8776,6 @@ zu genehmigen sind.
 
 
 ### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_7/BJNR125410996.html#BJNR125410996BJNE023203308)
 
 

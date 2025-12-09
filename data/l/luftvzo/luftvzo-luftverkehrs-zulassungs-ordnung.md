@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zulassung des Luftfahrtgeräts und Eintragung der Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000102308)
 
 
 
 ### 1. - Musterzulassung des Luftfahrtgeräts
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000202308)
 
 
 
 #### § 1 Zulassungspflicht und Umfang der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE002914311)
 
 (1) Luftfahrtgeräte, die der Musterzulassung bedürfen, sind:
 
@@ -116,6 +119,7 @@ gilt ohne Gewichtsbeschränkung auch für das zugehörige Schleppgerät.
 
 
 #### § 2 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003008305)
 
 Für Luftfahrtgerät nach § 1 Absatz 1 Nummer 7 und für Luftfahrtgerät
 nach § 1 Absatz 1 Nummer 8 erteilt der Beauftragte nach § 31c des
@@ -125,6 +129,7 @@ die Europäische Agentur für Flugsicherheit zuständig ist.
 
 
 #### § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003106308)
 
 (1) Der Antrag auf Musterzulassung von Luftfahrtgerät nach § 1 Abs. 1
 muss enthalten
@@ -160,6 +165,7 @@ Luftfahrtindustrie in den Nachrichten für Luftfahrer bekannt.
 
 
 #### § 4 Musterzulassung, Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003205308)
 
 (1) Das Muster eines Luftfahrtgeräts
 
@@ -188,6 +194,7 @@ Musterzulassungsschein ist einzuziehen.
 
 
 #### § 5 Änderung der Musterzulassung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003304308)
 
 Wird ein zugelassenes Muster geändert und ist für die Änderung der
 Nachweis der Lufttüchtigkeit nach der Verordnung zur Prüfung von
@@ -200,10 +207,12 @@ entsprechend anzuwenden.
 
 
 ### 2. - Verkehrszulassung des Luftfahrtgeräts
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000302308)
 
 
 
 #### § 6 Umfang der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003408360)
 
 (1) Luftfahrtgeräte, die der Verkehrszulassung bedürfen, sind
 
@@ -251,6 +260,7 @@ Luftfahrtgerät bestätigt ist.
 
 
 #### § 7 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003507305)
 
 Die Verkehrszulassung wird von dem Luftfahrt-Bundesamt erteilt. Die
 Verkehrszulassung der Luftsportgeräte wird von dem vom
@@ -259,6 +269,7 @@ erteilt.
 
 
 #### § 8 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003611305)
 
 (1) Der Antrag auf Verkehrszulassung muss enthalten
 
@@ -374,6 +385,7 @@ erteilt.
 
 
 #### § 9 Verkehrszulassung, Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003705305)
 
 (1) Die zuständige Stelle lässt das Luftfahrtgerät durch Erteilung
 eines Lufttüchtigkeitszeugnisses zum Verkehr zu; hierbei legt sie den
@@ -401,10 +413,12 @@ Bescheinigung nach § 8 Absatz 2 Nummer 6 nachgewiesen ist.
 
 
 #### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003809305)
 
 
 
 #### § 11 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE003904305)
 
 (1) Der Halter des Luftfahrzeugs hat der zuständigen Stelle
 unverzüglich Folgendes anzuzeigen:
@@ -431,6 +445,7 @@ Halter für mindestens sechs Monate wechselt.
 
 
 #### § 12 Vorläufige Verkehrszulassung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE004005305)
 
 (1) Luftfahrtgerät nach § 6 kann ausnahmsweise, insbesondere für
 technische Zwecke, Ausbildungs-, Vorführungs- und Überführungszwecke,
@@ -455,6 +470,7 @@ eingeht.
 
 
 #### § 13 Lufttüchtigkeitszeugnis für die Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE004103308)
 
 Für Luftfahrtgerät, das ausgeführt werden soll, kann die zuständige
 Stelle ein Lufttüchtigkeitszeugnis für die Ausfuhr oder eine
@@ -463,10 +479,12 @@ Lufttüchtigkeit erbracht ist.
 
 
 ### 3. - Luftfahrzeugregister und Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000403308)
 
 
 
 #### § 14 Eintragungen in Luftfahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE004206360)
 
 (1) Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge,
 unbemannte Luftfahrtsysteme nach § 1 Absatz 1 Nummer 8a und bemannte
@@ -487,31 +505,37 @@ nach § 1 Absatz 4.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE004303308)
 
 (weggefallen)
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE016001308)
 
 (weggefallen)
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE016101308)
 
 (weggefallen)
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE016201308)
 
 (weggefallen)
 
 
 #### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE016301308)
 
 (weggefallen)
 
 
 #### § 19 Kennzeichen, Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE004806360)
 
 (1) Bei der Verkehrszulassung nach § 14 Abs. 1 Satz 1 oder bei der
 Eintragung nach § 14 Abs. 1 Satz 2 oder Abs. 2 Satz 1 wird dem
@@ -533,6 +557,7 @@ Beschriftung an dem Fluggerät anbringen.
 
 
 #### § 19a Kodierung und Eintragung von 406 MHz-Notsendern
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE014802308)
 
 (1) Notsender, die auf der Frequenz 406 MHz senden, müssen vor ihrer
 Verwendung in Luftfahrzeugen den internationalen Regelungen
@@ -548,22 +573,27 @@ unverzüglich mitzuteilen.
 
 
 ## Zweiter Abschnitt - (§§ 20 bis 37 weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000505305)
 
 
 
 ### (XXXX) §§ 20 bis 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE004909305)
 
 
 
 ## Dritter Abschnitt - Flugplätze
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000802308)
 
 
 
 ### 1. - Flughäfen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG000902308)
 
 
 
 #### § 38 Begriffsbestimmungen und Einteilung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE006902308)
 
 (1) Flughäfen sind Flugplätze, die nach Art und Umfang des
 vorgesehenen Flugbetriebs einer Sicherung durch einen Bauschutzbereich
@@ -581,6 +611,7 @@ nach § 12 des Luftverkehrsgesetzes bedürfen.
 
 
 #### § 39 Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007002308)
 
 (1) Die Genehmigung eines Flughafens wird von der Luftfahrtbehörde des
 Landes erteilt, in dem das Gelände liegt.
@@ -594,6 +625,7 @@ Luftfahrtbehörden der beteiligten Länder.
 
 
 #### § 40 Antrag auf Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007106305)
 
 (1) Der Antrag auf Erteilung der Genehmigung muss enthalten
 
@@ -701,6 +733,7 @@ einzureichen sind.
 
 
 #### § 41 Anzeigepflichten, Änderungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007204308)
 
 (1) Das Flughafenunternehmen hat beabsichtigte bauliche und
 betriebliche Erweiterungen und Änderungen der Genehmigungsbehörde
@@ -713,6 +746,7 @@ geändert werden soll.
 
 
 #### § 42 Erteilung und Umfang der Genehmigung, Festlegung des Ausbauplans
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007304305)
 
 (1) Die Genehmigung des Flughafens ist für seine Anlage und seinen
 Betrieb zu erteilen. Sie hat in Übereinstimmung mit den einschlägigen
@@ -782,6 +816,7 @@ dienen.
 
 
 #### § 43 Flughafenbenutzungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007404308)
 
 (1) Vor Betriebsaufnahme hat das Flughafenunternehmen der
 Genehmigungsbehörde eine Flughafenbenutzungsordnung zur Genehmigung
@@ -800,10 +835,12 @@ Flughafenbenutzungsordnung in den Nachrichten für Luftfahrer.
 
 
 #### § 43a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018303305)
 
 
 
 #### § 44 Betriebsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007503305)
 
 (1) Der Flughafen darf erst in Betrieb genommen werden, wenn
 
@@ -831,6 +868,7 @@ Betriebes anzuwenden.
 
 
 #### § 45 Erhaltungs- und Betriebspflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007606305)
 
 (1) Das Flughafenunternehmen hat den Flughafen in betriebssicherem
 Zustand zu halten und ordnungsgemäß zu betreiben. Es hat Vorkommnisse,
@@ -865,6 +903,7 @@ aufzuzeichnen.
 
 
 #### § 45a Flugplatzhandbuch
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018402308)
 
 Zur Erfüllung seiner Pflicht nach § 45 Abs. 1 Satz 1 hat das
 Flughafenunternehmen ein Flugplatzhandbuch vorzuhalten. Dieses enthält
@@ -875,6 +914,7 @@ Betriebsleitung sowie über das Sicherheitsmanagementsystem gemäß §
 
 
 #### § 45b Sicherheitsmanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018502308)
 
 (1) Zur Erfüllung der Pflichten nach § 45 Abs. 1 Satz 1 hat das
 Flughafenunternehmen ein Sicherheitsmanagementsystem einzurichten, zu
@@ -893,6 +933,7 @@ mindestens zehn Jahre aufzubewahren.
 
 
 #### § 45c Beauftragter für das Sicherheitsmanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018602308)
 
 (1) Das Flughafenunternehmen bestellt eine andere als die nach § 45
 Abs. 4 Satz 1 bestellte Person als Beauftragten für das
@@ -924,6 +965,7 @@ bedarf der Zustimmung der Genehmigungsbehörde.
 
 
 #### § 45d Flugplätze im Anwendungsbereich der Verordnung (EG) Nr. 216/2008
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE019000305)
 
 § 45 Absatz 4 und die §§ 45a bis 45c finden keine Anwendung auf
 Flugplätze, denen ein Zeugnis nach Artikel 8a der Verordnung (EG) Nr.
@@ -931,6 +973,7 @@ Flugplätze, denen ein Zeugnis nach Artikel 8a der Verordnung (EG) Nr.
 
 
 #### § 46 Sicherung von Flughäfen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007704308)
 
 (1) Das Flughafenunternehmen hat den Flughafen so einzufrieden, dass
 das Betreten durch Unbefugte verhindert wird.
@@ -965,6 +1008,7 @@ kenntlich zu machen.
 
 
 #### § 46a Vollzug der Verordnung (EG) Nr. 1107/2006
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018901308)
 
 Das Luftfahrt-Bundesamt ist Durchsetzungs- und Beschwerdestelle im
 Sinne der Artikel 14 und 15 der Verordnung (EG) Nr. 1107/2006 des
@@ -974,6 +1018,7 @@ Mobilität (ABl. EU Nr. L 204 S. 1).
 
 
 #### § 47 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007804305)
 
 (1) Die Genehmigungsbehörde ist befugt zu prüfen, ob
 
@@ -1019,6 +1064,7 @@ auf dem Flughafen bleibt unberührt.
 
 
 #### § 48 Rücknahme und Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE007902308)
 
 (1) Die Genehmigung ist zurückzunehmen, wenn die Voraussetzungen für
 ihre Erteilung nicht vorgelegen haben. Sie ist zu widerrufen, wenn die
@@ -1032,18 +1078,22 @@ sinngemäß anzuwenden.
 
 
 ### 2. - (§§ 48a bis 48f weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002902119)
 
 
 
 #### (XXXX) §§ 48a bis 48f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE017003119)
 
 
 
 ### 3. - Landeplätze
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001003308)
 
 
 
 #### § 49 Begriffsbestimmung und Einteilung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008002308)
 
 (1) Landeplätze sind Flugplätze, die nach Art und Umfang des
 vorgesehenen Flugbetriebs einer Sicherung durch einen Bauschutzbereich
@@ -1062,12 +1112,14 @@ Segelfluggelände dienen.
 
 
 #### § 50 Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008102308)
 
 Die Genehmigung eines Landeplatzes wird von der Luftfahrtbehörde des
 Landes erteilt, in dem das Gelände liegt. § 39 Abs. 2 ist anzuwenden.
 
 
 #### § 51 Antrag auf Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008204308)
 
 (1) Der Antrag auf Erteilung der Genehmigung eines Landeplatzes für
 Landflugzeuge muss enthalten
@@ -1147,6 +1199,7 @@ Antragserfordernisse.
 
 
 #### § 52 Erteilung und Umfang der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008303308)
 
 (1) Für die Genehmigung des Landeplatzes gilt § 42 Abs. 1
 entsprechend.
@@ -1169,6 +1222,7 @@ entsprechend.
 
 
 #### § 53 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008411119)
 
 (1) Für die Betriebsaufnahme und die Pflichten des Landeplatzhalters
 gelten § 41 Abs. 1, § 43 Abs. 1, §§ 44 und 45 Abs. 1 bis 3 und § 46
@@ -1202,10 +1256,12 @@ Nummer 2 und die §§ 45d und 47 Absatz 2a entsprechend.
 
 
 ### 4. - Segelfluggelände
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001103308)
 
 
 
 #### § 54 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008505308)
 
 (1) Segelfluggelände sind Flugplätze, die für die Benutzung durch
 Segelflugzeuge und nicht selbststartende Motorsegler bestimmt sind.
@@ -1221,6 +1277,7 @@ Halters des Segelfluggeländes.
 
 
 #### § 55 Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008602308)
 
 Die Genehmigung eines Segelfluggeländes wird von der Luftfahrtbehörde
 des Landes erteilt, in dem das Gelände liegt. § 39 Abs. 2 ist
@@ -1228,6 +1285,7 @@ anzuwenden.
 
 
 #### § 56 Antrag auf Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008703308)
 
 (1) Der Antrag auf Erteilung der Genehmigung muss enthalten
 
@@ -1272,6 +1330,7 @@ Absatzes 1 zulassen.
 
 
 #### § 57 Erteilung und Umfang der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008803308)
 
 (1) Für die Genehmigung eines Segelfluggeländes gilt § 42 Abs. 1
 entsprechend.
@@ -1303,6 +1362,7 @@ enthalten; § 42 Abs. 4 Satz 2 zweiter Halbsatz gilt entsprechend.
 
 
 #### § 58 Betrieb des Segelfluggeländes
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE008903308)
 
 Bei dem Betrieb des Segelfluggeländes gelten § 41 Abs. 1, § 44 Abs. 1,
 § 45 Abs. 1, § 46 Abs. 5 und § 53 Abs. 3 entsprechend. Für den Halter
@@ -1310,6 +1370,7 @@ eines Segelfluggeländes besteht keine Betriebspflicht.
 
 
 #### § 59 Sicherung des Segelfluggeländes
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE009002308)
 
 Für die Sicherung von Segelfluggeländen ist § 46 Abs. 1 und 2
 sinngemäß mit der Maßgabe anzuwenden, dass die Sicherungsmaßnahmen
@@ -1320,6 +1381,7 @@ Unbefugten verboten.
 
 
 #### § 60 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE009104308)
 
 Für die Genehmigung wesentlicher Erweiterungen oder Änderungen der
 Anlage oder des Betriebes des Segelfluggeländes sind § 44 Abs. 1 sowie
@@ -1331,14 +1393,17 @@ Beauftragten.
 
 
 ## Vierter Abschnitt - Verwendung und Betrieb von Luftfahrtgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001202308)
 
 
 
 ### 1. - Gewerbsmäßige Verwendung von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001303308)
 
 
 
 #### § 61 Genehmigungsbehörde, Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE014909305)
 
 (1) Die Betriebsgenehmigung für die gewerbsmäßige Beförderung von
 Personen oder Sachen nach der Verordnung (EG) Nr. 1008/2008 des
@@ -1394,6 +1459,7 @@ in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) richtet sich
 
 
 #### § 62 Antrag auf Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015004305)
 
 Der Antrag auf Erteilung einer Betriebsgenehmigung für die gewerbliche
 Beförderung von Fluggästen, Post oder Fracht durch
@@ -1461,6 +1527,7 @@ erbringen sind, bleiben unberührt.
 
 
 #### § 62a Flugliniengenehmigung für Luftfahrtunternehmen mit Hauptsitz im Geltungsbereich des Luftverkehrsrechts der Europäischen Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE017902305)
 
 (1) Die Flugliniengenehmigung nach § 21 Abs. 1 bis 3 des
 Luftverkehrsgesetzes für Luftfahrtunternehmen mit Hauptsitz im
@@ -1492,6 +1559,7 @@ Bundesanzeiger und in den Nachrichten für Luftfahrer bekannt.
 
 
 #### § 63 Betriebsgenehmigung für Luftfahrtunternehmen aus Staaten außerhalb des Geltungsbereichs des Gemeinschaftsrechts
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015107305)
 
 (1) Die Betriebsgenehmigung für Luftfahrtunternehmen nach § 21a des
 Luftverkehrsgesetzes, die von einem Staat außerhalb des
@@ -1548,11 +1616,13 @@ Luftverkehrsgesetzes) vorzulegen.
 
 
 #### § 63a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015206305)
 
 -
 
 
 #### § 63b Flugplan
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015304308)
 
 Die zuständige Behörde kann von den Luftfahrtunternehmen im Einzelfall
 oder allgemein zu bestimmten Stichtagen (bis zum 28. Februar für die
@@ -1563,6 +1633,7 @@ nicht innerhalb von zwei Wochen nach Eingang widerspricht.
 
 
 #### § 63c Flugpreise
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015405305)
 
 (1) Die zuständige Behörde kann von den Luftfahrtunternehmen im
 Einzelfall oder allgemein die Vorlage der Flugpreise und
@@ -1579,6 +1650,7 @@ Wochen nach Eingang wirksam.
 
 
 #### § 63d Nichtbeförderung bei Überbuchung, Annullierung und Verspätung von Flügen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE017702311)
 
 Zur Durchführung der Verordnung (EG) Nr. 261/2004 des Europäischen
 Parlaments und des Rates vom 11. Februar 2004 über eine gemeinsame
@@ -1619,6 +1691,7 @@ Nr. L 46 S. 1) wird bestimmt:
 
 
 #### § 64 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015503360)
 
 Änderungen der Betriebsgrundlagen, die Gegenstand der jeweiligen
 Genehmigung dieses Abschnitts waren, sind von dem Inhaber der
@@ -1630,6 +1703,7 @@ Genehmigungsbehörde anzuzeigen.
 
 
 #### § 65 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015606305)
 
 (1) Die nach diesem Abschnitt jeweils zuständige Behörde ist befugt zu
 prüfen, ob die für eine Genehmigung erforderlichen Voraussetzungen
@@ -1645,22 +1719,27 @@ Befugnisse nach Absatz 1.
 
 
 ### 2. - (§§ 66 bis 68 weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001404305)
 
 
 
 #### (XXXX) §§ 66 bis 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE015703305)
 
 
 
 ### 3. - (§§ 69 bis 72 weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001503308)
 
 
 
 ### 4. - Luftfahrtveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001602308)
 
 
 
 #### § 73 Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE010406305)
 
 Die Genehmigung von Luftfahrtveranstaltungen wird
 
@@ -1683,6 +1762,7 @@ erteilt.
 
 
 #### § 74 Antrag auf Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE010505308)
 
 (1) Der Antrag auf Erteilung der Genehmigung ist acht Wochen vor der
 Veranstaltung in doppelter Ausfertigung bei der Genehmigungsbehörde zu
@@ -1729,6 +1809,7 @@ befördert werden können, bedürfen nicht der Genehmigung.
 
 
 #### § 75 Nebenbestimmungen und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE010603308)
 
 (1) Die Genehmigung kann mit Auflagen verbunden und befristet werden.
 § 20 Abs. 3 Satz 1 bis 4 des Luftverkehrsgesetzes gilt entsprechend.
@@ -1737,10 +1818,12 @@ befördert werden können, bedürfen nicht der Genehmigung.
 
 
 ### 5. - Mitführen gefährlicher Güter
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001702308)
 
 
 
 #### § 76 Begriffsabgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE010702308)
 
 Gefährliche Güter im Sinne dieser Verordnung sind
 
@@ -1773,11 +1856,13 @@ Gefährliche Güter im Sinne dieser Verordnung sind
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE010804308)
 
 (weggefallen)
 
 
 #### § 78 Erlaubnis, Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE010907124)
 
 (1) Die Erlaubnis nach § 27 Absatz 1 des Luftverkehrsgesetzes für
 gefährliche Güter nach § 76 Nummer 1 bis 4 wird den
@@ -1818,29 +1903,36 @@ anzuwenden.
 
 
 ### 6. - (§§ 79 bis 80 weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001803308)
 
 
 
 ### 7. - (§§ 81 und 82 weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG001903305)
 
 
 
 #### § 81 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE011208305)
 
 
 #### § 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE011305305)
 
 
 
 ### 8. - (§§ 83 bis 89 weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002002308)
 
 
 
 ### 9. - Ausflug oder Verbringung deutscher Luftfahrzeuge aus dem Hoheitsgebiet der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002104308)
 
 
 
 #### § 90 Erlaubnisbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012108305)
 
 Die Erlaubnis zum Ausflug nach § 2 Abs. 6 des Luftverkehrsgesetzes
 wird von dem Bundesministerium für Verkehr und digitale Infrastruktur
@@ -1848,6 +1940,7 @@ oder einer anderen von ihm bestimmten Stelle erteilt.
 
 
 #### § 91 Antrag auf Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012204308)
 
 (1) Der Antrag auf Erteilung der Erlaubnis ist spätestens zwei volle
 Werktage vor Beginn des beabsichtigten Ausflugs bei der
@@ -1883,6 +1976,7 @@ erforderlich sind.
 
 
 #### § 92 Erlaubnisfreier Ausflug und erlaubnisfreie Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012308305)
 
 (1) Der Erlaubnis nach § 2 Abs. 6 des Luftverkehrsgesetzes bedarf es
 nicht bei der Verwendung von Luftfahrzeugen für Flüge, die nicht der
@@ -1917,6 +2011,7 @@ eingetragen sind.
 
 
 #### § 93 Erteilung der Erlaubnis, Rücknahme, Widerruf und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012404308)
 
 (1) Die Erlaubnis wird für jeden einzelnen Ausflug oder allgemein oder
 für den Ausflug nach bestimmten Staaten erteilt. Sie kann mit Auflagen
@@ -1942,6 +2037,7 @@ sinngemäß anzuwenden.
 
 
 #### § 93a Verbringung von Luftfahrzeugen auf andere Weise aus dem Hoheitsgebiet der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018001308)
 
 Dem Ausflug im Sinne der Vorschriften dieses Unterabschnittes steht
 die Verbringung von Luftfahrzeugen auf andere Weise aus dem
@@ -1949,10 +2045,12 @@ Hoheitsgebiet der Bundesrepublik Deutschland gleich.
 
 
 ### 10. - Einflug und Verbringung ausländischer Luftfahrzeuge in das Hoheitsgebiet der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002204308)
 
 
 
 #### § 94 Erlaubnisbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012508305)
 
 Die Erlaubnis zum Einflug nach § 2 Abs. 7 des Luftverkehrsgesetzes
 wird, unbeschadet von § 97, vom Bundesministerium für Verkehr und
@@ -1960,6 +2058,7 @@ digitale Infrastruktur oder einer von ihm bestimmten Stelle erteilt.
 
 
 #### § 95 Antrag auf Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012607305)
 
 (1) Der Antrag auf Erteilung der Erlaubnis muss enthalten
 
@@ -2014,6 +2113,7 @@ gebracht wurden.
 
 
 #### § 96 Vereinfachte Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012705308)
 
 Für den Einflug von Luftfahrzeugen, welche die vorgeschriebenen
 Staatszugehörigkeits- und Eintragungszeichen eines ICAO-
@@ -2029,6 +2129,7 @@ Verwaltungszustellungsgesetzes benannt worden ist.
 
 
 #### § 96a Beschränkungen bei Erlaubnisfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012804308)
 
 (1) Die Erlaubnisbehörde kann bei Flügen, die nach § 2 Abs. 7 des
 Luftverkehrsgesetzes einer Erlaubnis nicht bedürfen, den Einflug oder
@@ -2060,6 +2161,7 @@ Heimatstaat jener Unternehmen unterliegen.
 
 
 #### § 96b Verpflichtung zum Verlassen des Hoheitsgebiets der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018102305)
 
 Luftfahrzeuge, für die eine Erlaubnis zum Einflug in deutsches
 Hoheitsgebiet erteilt worden ist, haben dieses spätestens mit Ablauf
@@ -2070,6 +2172,7 @@ kann auf Antrag die Aufenthaltsdauer verlängert werden.
 
 
 #### § 97 Ausländische Staatsluftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE012907305)
 
 (1) Die Erlaubnis zum Einflug von ausländischen Luftfahrzeugen, die im
 Militärdienst verwendet werden, erteilt das Bundesministerium der
@@ -2096,12 +2199,14 @@ Erlaubnisbehörde.
 
 
 #### § 98 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013002308)
 
 Für die Erteilung der Erlaubnis, Rücknahme, Widerruf und Aufsicht ist
 § 93 sinngemäß anzuwenden.
 
 
 #### § 99 Kennzeichen und Versicherungsnachweis ausländischer Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013109305)
 
 (1) Ausländische Luftfahrzeuge müssen deutlich und gut sichtbare
 Kennzeichen tragen, die ihre Feststellung während des Fluges
@@ -2154,6 +2259,7 @@ Sprache ausgestellt sein. Absatz 4 Satz 3 ist entsprechend anzuwenden.
 
 
 #### § 100 Unberechtigter Einflug ausländischer Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013202308)
 
 (1) Gerät ein ausländisches Luftfahrzeug in den Geltungsbereich dieser
 Verordnung, ohne dass dies durch ein zwischen seinem Heimatstaat und
@@ -2169,6 +2275,7 @@ erteilt werden.
 
 
 #### § 100a Verbringung von Luftfahrzeugen auf andere Weise in das Hoheitsgebiet der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE018201308)
 
 Dem Einflug im Sinne der Vorschriften dieses Unterabschnittes steht
 die Verbringung von Luftfahrzeugen auf andere Weise in das
@@ -2176,14 +2283,17 @@ Hoheitsgebiet der Bundesrepublik Deutschland gleich.
 
 
 ## Fünfter Abschnitt - Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002304308)
 
 
 
 ### 1. - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG003001308)
 
 
 
 #### § 101 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013308305)
 
 Für die Haftpflichtversicherung zur Deckung der Haftung auf
 Schadensersatz wegen der Tötung, der Körperverletzung oder der
@@ -2224,10 +2334,12 @@ nicht anwendbar sind oder keine Regelungen enthalten.
 
 
 ### 2. - Haftpflichtversicherung für Drittschäden
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002404308)
 
 
 
 #### § 102 Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013407308)
 
 (1) Der Haftpflichtversicherungsvertrag für Drittschäden muss die sich
 aus dem Betrieb eines Luftfahrzeugs für den Halter ergebende Haftung
@@ -2241,6 +2353,7 @@ ist Gruppenversicherung zulässig.
 
 
 #### § 102a Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE016802308)
 
 Der Versicherer und der Versicherungspflichtige haben jede
 Unterbrechung des Versicherungsschutzes, jede Beendigung des
@@ -2251,15 +2364,18 @@ Verkehrszulassung nach § 6 bedarf.
 
 
 #### § 102b
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE016902308)
 
 (weggefallen)
 
 
 ### 3. - Haftpflichtversicherung für Fluggastschäden
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002504308)
 
 
 
 #### § 103 Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013506308)
 
 (1) Unbeschadet des § 51 des Luftverkehrsgesetzes muss der
 Haftpflichtversicherungsvertrag für Fluggastschäden die Haftung des
@@ -2313,10 +2429,12 @@ erster Halbsatz gilt § 49b des Luftverkehrsgesetzes entsprechend.
 
 
 ### 4. - Haftpflichtversicherung für Güterschäden
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG003101308)
 
 
 
 #### § 104 Versicherung für Güterschäden
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013607305)
 
 (1) Der Haftpflichtversicherungsvertrag für Güterschäden muss die
 Haftung des Luftfrachtführers auf Schadensersatz nach dem Montrealer
@@ -2346,10 +2464,12 @@ entsprechend.
 
 
 ### 5. - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002604308)
 
 
 
 #### § 105 Versicherer
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013705308)
 
 (1) Der Versicherungsvertrag ist mit einem Versicherer zu schließen,
 der zum Geschäftsbetrieb in Deutschland befugt ist.
@@ -2373,6 +2493,7 @@ entsprechend.
 
 
 #### § 106 Versicherungsbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013804308)
 
 (1) Der Versicherer ist verpflichtet, dem Versicherungspflichtigen bei
 Beginn des Versicherungsschutzes eine Versicherungsbestätigung
@@ -2403,6 +2524,7 @@ letzten Beitrags verlangen.
 
 
 #### § 106a Selbstbehalt
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE017801308)
 
 Die Vereinbarung eines Selbstbehaltes des Versicherungsnehmers ist
 zulässig. Der Selbstbehalt kann dem Anspruch des Dritten jedoch nicht
@@ -2410,16 +2532,19 @@ entgegengehalten werden.
 
 
 ## Sechster Abschnitt - Kosten, Ordnungswidrigkeiten und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNG002702308)
 
 
 
 ### § 107 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE013903308)
 
 Kosten (Gebühren und Auslagen) für Amtshandlungen der zuständigen
 Stelle werden nach der Kostenordnung der Luftfahrtverwaltung erhoben.
 
 
 ### § 108 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE014019118)
 
 (1) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2713,6 +2838,7 @@ nicht richtig ausweist.
 
 
 ### § 109 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE014102308)
 
 (1) (Inkrafttreten)
 
@@ -2725,12 +2851,14 @@ anzugleichen.
 
 
 ### § 110 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE014206305)
 
 (weggefallen)
 
 (zu § 14 Abs. 1 und § 19 Abs. 1)
 
 ### Anlage 1 Vorschriften über den Eintragungsschein und das Lufttüchtigkeitszeugnis sowie die Kennzeichnung von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE014308360)
 
 (Fundstelle: BGBl. I 2008, 1264 - 1265)
 
@@ -2998,18 +3126,21 @@ Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern
 
 
 ### Muster 1
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE000502308)
 
 (Inhalt: nicht darstellbares Muster eines Eintragungsscheines,
 Fundstelle: BGBl. I 2008, 1266)
 
 
 ### Muster 2
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE000702308)
 
 (Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses,
 Fundstelle: BGBl. I 2008, 1267)
 
 
 ### Muster 3 (§ 9 Abs. 1 LuftVZO)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE000804308)
 
 (Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses
 für Luftsportgeräte,
@@ -3017,6 +3148,7 @@ Fundstelle: BGBl. I 2008, 1268)
 
 
 ### Muster 4 (§ 14 Abs. 2 LuftVZO)
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001805308)
 
 (Inhalt: nicht darstellbares Muster eines Eintragungsscheins für
 Luftsportgeräte,
@@ -3024,53 +3156,62 @@ Fundstelle: BGBl. I 2008, 1268)
 
 
 ### Muster 5
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE000903308)
 
 (weggefallen)
 
 
 ### Muster 6
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001002308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1269)
 
 
 ### Muster 6a
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001102308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1269)
 
 
 ### Muster 7
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001202308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1270)
 
 
 ### Muster 7a
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001302308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1270)
 
 
 ### Muster 8
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001402308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1271)
 
 
 ### Muster 9
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001502308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1271)
 
 
 ### Muster 10
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001602308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1272)
 
 
 ### Muster 11a
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE001902308)
 
 (Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs,
 aerodynamisch gesteuert,
@@ -3078,6 +3219,7 @@ Fundstelle: BGBl. I 2008, 1273)
 
 
 ### Muster 11b
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE002002308)
 
 (Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs,
 schwerkraftgesteuert,
@@ -3085,12 +3227,14 @@ Fundstelle: BGBl. I 2008, 1273)
 
 
 ### Muster 12
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE002102308)
 
 (Inhalt: nicht darstellbare Abbildung eines Hängegleiters,
 Fundstelle: BGBl. I 2008, 1274)
 
 
 ### Muster 13
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE002202308)
 
 (Inhalt: nicht darstellbare Abbildung eines Gleitsegels,
 Fundstelle: BGBl. I 2008, 1274)
@@ -3098,6 +3242,7 @@ Fundstelle: BGBl. I 2008, 1274)
 (zu § 48c)
 
 ### Anlage 2 Zu berücksichtigende Informationen gemäß § 48c Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/luftvzo/BJNR003700964.html#BJNR003700964BJNE017602305)
 
 (Fundstelle: BGBl. I 2008, 1280)
 

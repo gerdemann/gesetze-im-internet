@@ -20,15 +20,18 @@ Fundstelle
 Stand: Ersetzt G 750-1 v. 4.12.1934 I 1223 (LagerstG) und V 750-1-1 v. 14.12.1934 I 1261 (LagerstGDV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000300000)
 
 Dieses Gesetz regelt die staatliche geologische Landesaufnahme, die
 Übermittlung, die dauerhafte Sicherung und die öffentliche
@@ -57,6 +60,7 @@ insbesondere benötigt
 
 
 ### § 2 Sachlicher und räumlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000400000)
 
 (1) Dieses Gesetz ist anzuwenden auf
 
@@ -158,6 +162,7 @@ Bestimmungen bleiben unberührt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000500000)
 
 (1) Staatliche geologische Landesaufnahme im Sinne dieses Gesetzes ist
 die systematische punkt-, linien-, flächen- und raumbezogene
@@ -263,6 +268,7 @@ unterliegt.
 
 
 ### § 4 Anwendung des Geodatenzugangsgesetzes und des Umweltinformationsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000600000)
 
 Auf die Ausführung dieses Gesetzes und der auf Grund des § 38 Absatz 1
 erlassenen Rechtsverordnungen sind, soweit in diesem Gesetz nichts
@@ -288,9 +294,11 @@ anderes bestimmt ist, in der jeweils geltenden Fassung anzuwenden:
 
 
 ## Kapitel 2 - Aufgaben und Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000200000)
 
 
 ### § 5 Aufgaben der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000700000)
 
 (1) Die zuständige Behörde nimmt die staatliche geologische
 Landesaufnahme mittels eigener geologischer Untersuchungen sowie auf
@@ -348,6 +356,7 @@ entsprechend anzuwenden.
 
 
 ### § 6 Betretensrecht für die staatliche geologische Landesaufnahme; Betretensrecht zur Verhütung geologischer Gefahren; Zutritt zu geologischen Untersuchungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000800000)
 
 (1) Die zuständige Behörde und die von ihr beauftragten Personen sind
 befugt, zum Zweck der staatlichen geologischen Landesaufnahme gemäß §
@@ -419,6 +428,7 @@ Behörde vor der Inanspruchnahme ins Benehmen zu setzen.
 
 
 ### § 7 Wiederherstellungspflicht und Haftung
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE000900000)
 
 (1) Nach Abschluss einer geologischen Untersuchung gemäß § 6 Absatz 1
 oder Absatz 2 stellt die zuständige Behörde bei allen durch die
@@ -474,12 +484,15 @@ entstanden sind.
 
 
 ## Kapitel 3 - Übermittlung geologischer Daten an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000300000)
 
 
 ### Abschnitt 1 - Anzeige geologischer Untersuchungen; Übermittlung geologischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000400000)
 
 
 #### § 8 Anzeige geologischer Untersuchungen und Übermittlung von Nachweisdaten an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001000000)
 
 Spätestens zwei Wochen vor Beginn einer geologischen Untersuchung
 haben die nach § 14 Satz 1 Nummer 1, 2 und 3 verpflichteten Personen
@@ -542,6 +555,7 @@ ist § 15 Absatz 2 entsprechend anzuwenden.
 
 
 #### § 9 Übermittlung von Fachdaten geologischer Untersuchungen an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001100000)
 
 (1) Spätestens drei Monate nach dem Abschluss der geologischen
 Untersuchung haben die nach § 14 Satz 1 Nummer 1, 2 und 3
@@ -637,6 +651,7 @@ für kleine und mittlere Unternehmen anzuwenden.
 
 
 #### § 10 Übermittlung von Bewertungsdaten geologischer Untersuchungen an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001200000)
 
 (1) Spätestens sechs Monate nach dem Abschluss der geologischen
 Untersuchung haben die nach § 14 Satz 1 Nummer 1, 2 und 3
@@ -685,6 +700,7 @@ mittlere Unternehmen anzuwenden.
 
 
 #### § 11 Einschränkung von Anzeige- und Übermittlungspflichten; Vorhaltung geologischer Daten bei übermittlungsverpflichteten Personen; Verlängerung von Übermittlungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001300000)
 
 (1) Die zuständige Behörde kann die Anzeige- und
 Übermittlungspflichten nach den §§ 8 bis 10 Absatz 1 einschränken,
@@ -738,6 +754,7 @@ oder den Umfang von Bohrungen, geboten erscheint.
 
 
 #### § 12 Nachträgliche Anforderung nichtstaatlicher Fachdaten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001400000)
 
 Die zuständige Behörde kann die Übermittlung von nichtstaatlichen
 Fachdaten, die vor dem 30. Juni 2020 in einer geologischen
@@ -749,6 +766,7 @@ Aufgaben zu den in § 1 genannten Zwecken oder andere überwiegende
 
 
 #### § 13 Pflichten vor Entledigung von Proben und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001500000)
 
 Die nach § 14 Satz 1 verpflichteten Personen haben der zuständigen
 Behörde sämtliche in geologischen Untersuchungen gewonnenen Proben und
@@ -797,9 +815,11 @@ der Proben oder geologischen Daten trägt die zuständige Behörde.
 
 
 ### Abschnitt 2 - Anzeige- und übermittlungsverpflichtete Personen, Frist und Form für die Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000500000)
 
 
 #### § 14 Anzeige- und übermittlungsverpflichtete Personen
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001600000)
 
 Zur Anzeige geologischer Untersuchungen nach § 8 Satz 1, zur
 Übermittlung der Nachweisdaten nach § 8 Satz 2 und der Fachdaten nach
@@ -835,6 +855,7 @@ die Verstöße gegen dieses Gesetz durch den Rechtsvorgänger.
 
 
 #### § 15 Abschluss einer geologischen Untersuchung; Beginn der Übermittlungsfrist; Einhaltung der Anzeige- und Übermittlungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001700000)
 
 (1) Eine geologische Untersuchung gilt mit dem Ablauf der nach § 8
 Satz 2 Nummer 2 jeweils angegebenen Dauer als abgeschlossen, es sei
@@ -864,6 +885,7 @@ nicht vollständig sind.
 
 
 #### § 16 Datenformat
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001800000)
 
 (1) In den Fällen der §§ 8 bis 10 sind die Daten der zuständigen
 Behörde, soweit möglich und gegebenenfalls in Absprache mit der
@@ -888,6 +910,7 @@ L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) zu beachten.
 
 
 #### § 17 Kennzeichnung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE001900000)
 
 (1) Die nach § 14 Satz 1 verpflichteten Personen kennzeichnen die zu
 übermittelnden geologischen Daten als
@@ -930,15 +953,19 @@ elektronisch bekannt geben.
 
 
 ## Kapitel 4 - Öffentliche Bereitstellung geologischer Daten und Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000600000)
 
 
 ### Abschnitt 1 - Öffentliche Bereitstellung geologischer Daten und Zugang zu bereitgestellten Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000700000)
 
 
 #### Unterabschnitt 1 - Allgemeine Regeln für die öffentliche Bereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000800000)
 
 
 ##### § 18 Öffentliche Bereitstellung geologischer Daten; anderweitige Ansprüche auf Informationszugang
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002000000)
 
 (1) Die zuständige Behörde stellt geologische Daten nach den §§ 23 bis
 27 sowie 29 vorbehaltlich der Beschränkungen nach den §§ 31 und 32
@@ -956,6 +983,7 @@ landesrechtlichen Regelungen bleiben unberührt.
 
 
 ##### § 19 Öffentliche Bereitstellung nach den Anforderungen des Geodatenzugangsgesetzes; analoge Bereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002100000)
 
 (1) Die zuständige Behörde stellt geologische Daten, die gemäß § 4
 Absatz 1 Nummer 2 des Geodatenzugangsgesetzes in elektronischer Form
@@ -978,6 +1006,7 @@ der beständigen Kenntnisnahme ermöglichen.
 
 
 ##### § 20 Zugang zu öffentlich bereitgestellten geologischen Daten im Rahmen gewerblicher Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002200000)
 
 (1) Wird der Zugang zu öffentlich bereitgestellten geologischen Daten
 im Rahmen einer gewerblichen Tätigkeit begehrt, soll die
@@ -1005,6 +1034,7 @@ Absatz 1 und etwaigen Übermittlungspflichten auf Grund von § 10 Absatz
 
 
 ##### § 21 Öffentliche Bereitstellung geologischer Daten in analoger Form anlässlich eines Zugangsbegehrens
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002300000)
 
 (1) Hat die zuständige Behörde zu dem Zeitpunkt, zu dem sie analoge
 Daten öffentlich bereitstellen müsste, noch nicht geprüft, ob
@@ -1030,6 +1060,7 @@ sind die Gründe für die Verlängerung der Frist anzugeben.
 
 
 ##### § 22 Hinweise auf geologische Daten in Geodatendiensten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002400000)
 
 In den nach § 6 Absatz 1 des Geodatenzugangsgesetzes vorgeschriebenen
 Geodatendiensten muss die zuständige Behörde darauf hinweisen,
@@ -1057,9 +1088,11 @@ Geodatendiensten muss die zuständige Behörde darauf hinweisen,
 
 
 #### Unterabschnitt 2 - Öffentliche Bereitstellung staatlicher geologischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG000900000)
 
 
 ##### § 23 Öffentliche Bereitstellung staatlicher geologischer Daten der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002500000)
 
 (1) Nachweisdaten einer eigenen geologischen Untersuchung der
 zuständigen Behörde werden unverzüglich öffentlich bereitgestellt,
@@ -1081,6 +1114,7 @@ Juni 2020 öffentlich bereitgestellt.
 
 
 ##### § 24 Öffentliche Bereitstellung übermittelter staatlicher geologischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002600000)
 
 (1) Nachweisdaten einer anderen Behörde als der zuständigen Behörde
 oder einer Person nach § 3 Absatz 4 Satz 1 Nummer 2 werden spätestens
@@ -1099,6 +1133,7 @@ Satz 2 öffentlich bereitgestellt.
 
 
 ##### § 25 Inhaberlose Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002700000)
 
 (1) Die zuständige Behörde kann ein Aufgebotsverfahren einleiten, wenn
 sie den Inhaber geologischer Daten mit den ihr zu Gebote stehenden
@@ -1124,9 +1159,11 @@ anderweitig über die Inhaberschaft.
 
 
 #### Unterabschnitt 3 - Öffentliche Bereitstellung nichtstaatlicher geologischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG001000000)
 
 
 ##### § 26 Öffentliche Bereitstellung nichtstaatlicher Nachweisdaten nach § 8
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002800000)
 
 Nichtstaatliche Nachweisdaten, die der zuständigen Behörde gemäß § 8
 Satz 2 übermittelt worden sind, werden spätestens drei Monate nach
@@ -1139,6 +1176,7 @@ der Anschrift einer anzeigenden Firma.
 
 
 ##### § 27 Öffentliche Bereitstellung nichtstaatlicher Fachdaten nach § 9
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE002900000)
 
 (1) Nichtstaatliche Fachdaten, die der zuständigen Behörde nach § 9
 Absatz 1 Satz 1 übermittelt worden sind, werden nach Ablauf von fünf
@@ -1166,6 +1204,7 @@ werden.
 
 
 ##### § 28 Schutz nichtstaatlicher Bewertungsdaten nach § 10 sowie nachträglich angeforderter nichtstaatlicher Fachdaten nach § 12
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003000000)
 
 Nichtstaatliche Bewertungsdaten nach § 10 und die von der zuständigen
 Behörde nachträglich angeforderten nichtstaatlichen Fachdaten nach §
@@ -1173,6 +1212,7 @@ Behörde nachträglich angeforderten nichtstaatlichen Fachdaten nach §
 
 
 ##### § 29 Öffentliche Bereitstellung nichtstaatlicher geologischer Daten, die vor dem 30. Juni 2020 an die zuständige Behörde übermittelt worden sind
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003100000)
 
 (1) Auf nichtstaatliche Nachweisdaten entsprechend § 8 Satz 2, die vor
 dem 30. Juni 2020 auf Grund des Lagerstättengesetzes oder auf Grund
@@ -1222,6 +1262,7 @@ Gesetz oder auf Grund dieses Gesetzes nicht entgegengehalten werden.
 
 
 ##### § 30 Einwilligung des Dateninhabers
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003200000)
 
 Soweit eine nach § 14 Satz 1 verpflichtete Person in die öffentliche
 Bereitstellung der von ihr übermittelten nichtstaatlichen geologischen
@@ -1229,9 +1270,11 @@ Daten eingewilligt hat, ist § 24 entsprechend anzuwenden.
 
 
 ### Abschnitt 2 - Beschränkung der öffentlichen Bereitstellung geologischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG001100000)
 
 
 #### § 31 Schutz öffentlicher Belange
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003300000)
 
 Die zuständige Behörde hat sicherzustellen, dass geologische Daten
 nicht oder nicht innerhalb eines von ihr benannten Zeitraums
@@ -1269,6 +1312,7 @@ die geologischen Daten nach den Sätzen 1 und 2 betroffen ist.
 
 
 #### § 32 Schutz sonstiger Belange bei verbundenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003400000)
 
 (1) Abgesehen von den nach diesem Gesetz oder auf Grund dieses
 Gesetzes öffentlich bereitzustellenden geologischen Daten dürfen die
@@ -1306,9 +1350,11 @@ voraussichtlich nicht mehr von Interesse ist.
 
 
 ### Abschnitt 3 - Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG001200000)
 
 
 #### § 33 Zurverfügungstellung geologischer Daten für öffentliche Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003500000)
 
 (1) Die nach § 37 zuständige Behörde stellt die bei ihr vorhandenen
 geologischen Daten, die zur Erfüllung einer öffentlichen Aufgabe des
@@ -1387,6 +1433,7 @@ die Datenkategorisierung unterbreitet hat. Abweichend von § 29 Absatz
 
 
 #### § 34 Erweiterte öffentliche Bereitstellung geologischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003600000)
 
 (1) Die für die Erfüllung einer öffentlichen Aufgabe des Bundes oder
 der Länder, insbesondere zu einem der in § 1 genannten Zwecke,
@@ -1474,6 +1521,7 @@ diese bekannt sind.
 
 
 #### § 35 Erweiterte öffentliche Bereitstellung geologischer Daten im Standortauswahlverfahren; wissenschaftliche Beratung zur Einsicht in nicht öffentlich bereitgestellte Daten, Bereitstellung und Einsicht im Datenraum
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003700000)
 
 (1) Bei geologischen Daten nach § 34 Absatz 1 und 2, die für das
 Standortauswahlverfahren benötigt werden und entscheidungserheblich
@@ -1548,9 +1596,11 @@ vor dem unberechtigten Zugriff Dritter nach dem Stand der Technik.
 
 
 ## Kapitel 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNG001300000)
 
 
 ### § 36 Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003800000)
 
 Die zuständige Behörde kann im Einzelfall Anordnungen treffen, die zur
 Durchführung dieses Gesetzes und zur Durchführung der auf Grund dieses
@@ -1558,6 +1608,7 @@ Gesetzes erlassenen Rechtsverordnungen erforderlich sind.
 
 
 ### § 37 Zuständige Behörden; Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE003900000)
 
 (1) Die Zuständigkeit für den Vollzug dieses Gesetzes richtet sich
 vorbehaltlich der Absätze 2 und 3 nach Landesrecht.
@@ -1580,6 +1631,7 @@ Behörde ist die Bundesanstalt für Geowissenschaften und Rohstoffe.
 
 
 ### § 38 Verordnungsermächtigung; Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE004000000)
 
 (1) Die Landesregierungen können durch Rechtsverordnung Folgendes
 bestimmen:
@@ -1643,6 +1695,7 @@ Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 
 ### § 39 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE004100000)
 
 (1) Ordnungswidrig handelt, wer im Rahmen einer gewerblichen Tätigkeit
 vorsätzlich oder fahrlässig
@@ -1675,6 +1728,7 @@ dreißigtausend Euro geahndet werden.
 
 
 ### § 40 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geoldg/BJNR138700020.html#BJNR138700020BJNE004200000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

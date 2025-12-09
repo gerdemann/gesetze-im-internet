@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000100326)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -27,17 +28,20 @@ verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000200326)
 
 Der Ausbildungsberuf Leuchtröhrenglasbläser/Leuchtröhrenglasbläserin
 wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000300326)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000400326)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -89,6 +93,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000500326)
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -99,12 +104,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000600326)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000700326)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -113,6 +120,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000800326)
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
@@ -172,6 +180,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE000900326)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -308,6 +317,7 @@ sind.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE001000326)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für Lehrberufe, Anlernberufe und vergleichbar
@@ -317,6 +327,7 @@ sind vorbehaltlich des § 10 nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE001100326)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -325,23 +336,27 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE001200326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE001300326)
 
 Diese Verordnung tritt am 1. August 1986 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE001400326)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Leuchtröhrenglasbläser/zur Leuchtröhrenglasbläserin
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE001500326)
 
 (Fundstelle: BGBl. I 1985, 2294 - 2297)
 
@@ -874,6 +889,7 @@ Der Bundesminister für Wirtschaft
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/leuchtrausbv/BJNR022910985.html#BJNR022910985BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgbafindv/BJNR030300003.html#BJNR030300003BJNE000000000)
 
 Auf Grund des § 83 Abs. 1 Satz 2 des Bundesdisziplinargesetzes vom 9.
 Juli 2001 (BGBl. I S. 1510) verordnet das Bundesministerium der
@@ -27,6 +28,7 @@ Finanzen im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Zuständigkeitsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bdgbafindv/BJNR030300003.html#BJNR030300003BJNE000100000)
 
 Die Befugnisse des Bundesministeriums der Finanzen als oberster
 Dienstbehörde im Sinne des Bundesdisziplinargesetzes werden für alle
@@ -37,6 +39,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bdgbafindv/BJNR030300003.html#BJNR030300003BJNE000200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

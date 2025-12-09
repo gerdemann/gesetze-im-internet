@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Verfahren zur Registrierung homöopathischer Tierarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000100000)
 
 (1) Ein Antrag auf Registrierung eines homöopathischen
 Tierarzneimittels ist elektronisch bei der zuständigen
@@ -131,6 +132,7 @@ gehemmt.
 
 
 ## § 2 Geltung der Registrierung, Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000200000)
 
 (1) Die Registrierung gilt für das im Registrierungsbescheid
 aufgeführte homöopathische Tierarzneimittel oder die im
@@ -147,6 +149,7 @@ auch nachträglich angeordnet werden.
 
 
 ## § 3 Anzeigepflicht bei Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000300000)
 
 (1) Die Inhaberin oder der Inhaber der Registrierung hat folgende
 Änderungen innerhalb von 30 Tagen nach der jeweiligen Änderung der
@@ -180,6 +183,7 @@ der Verordnung
 
 
 ## § 4 Änderung der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000400000)
 
 (1) Bei folgenden Änderungen muss die Registrierung geändert werden:
 
@@ -222,6 +226,7 @@ Bundesoberbehörde. Für den Antrag gelten Artikel 62 Absatz 2, Artikel
 
 
 ## § 5 Neue Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000500000)
 
 Die Inhaberin oder der Inhaber der Registrierung hat im Fall folgender
 Änderungen eine neue Registrierung zu beantragen:
@@ -238,6 +243,7 @@ Die Inhaberin oder der Inhaber der Registrierung hat im Fall folgender
 
 
 ## § 6 Rücknahme, Widerruf und Ruhen einer Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000600000)
 
 (1) Die Registrierung eines homöopathischen Tierarzneimittels ist
 zurückzunehmen, wenn bekannt wird, dass ein Versagungsgrund nach § 1
@@ -324,6 +330,7 @@ unberührt.
 
 
 ## § 7 Erlöschen einer Registrierung durch Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000700000)
 
 Hinsichtlich des Erlöschens der Registrierung für ein homöopathisches
 Tierarzneimittel durch Verzicht gilt § 9 Absatz 5 des
@@ -331,6 +338,7 @@ Tierarzneimittelgesetzes entsprechend.
 
 
 ## § 8 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/homtamregv/BJNR110210022.html#BJNR110210022BJNE000800000)
 
 Die zuständige Bundesoberbehörde hat die Rücknahme, den Widerruf oder
 das Ruhen der Registrierung oder den Verzicht nach § 7 im

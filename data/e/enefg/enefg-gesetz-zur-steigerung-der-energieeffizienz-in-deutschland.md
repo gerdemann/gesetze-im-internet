@@ -26,9 +26,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes, Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000200000)
 
 (1) Zweck dieses Gesetzes ist es, die Energieeffizienz zu steigern und
 dadurch zur Reduzierung des Primär- und des Endenergieverbrauchs sowie
@@ -43,6 +45,7 @@ seiner Wahlperiode über die Wirkung dieses Gesetzes berichten.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000300000)
 
 Dieses Gesetz regelt
 
@@ -79,6 +82,7 @@ Dieses Gesetz regelt
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000400000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -321,6 +325,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 [^F827720_04_BJNR1350B0023BJNE000400000]: 
 
 ### § 4 Energieeffizienzziele
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000500000)
 
 (1) Ziel dieses Gesetzes ist es,
 
@@ -354,9 +359,11 @@ anpassen und wird gemäß § 1 Absatz 2 dazu berichten.
 
 
 ## Abschnitt 2 - Jährliche Endenergieeinsparverpflichtung des Bundes und der Länder sowie Verpflichtung öffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000200000)
 
 
 ### § 5 Einsparung von Endenergie
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000600000)
 
 (1) Der Bund bewirkt vom 1. Januar 2024 bis zum 31. Dezember 2030
 mittels strategischer Maßnahmen jährlich neue Endenergieeinsparungen
@@ -421,6 +428,7 @@ Endenergieeinsparungen hinausgehen, können diese bis zur Höhe des
 
 
 ### § 6 Einsparverpflichtung öffentlicher Stellen; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000700000)
 
 (1) Öffentliche Stellen mit einem jährlichen Gesamtendenergieverbrauch
 von 1 Gigawattstunde oder mehr sind zu jährlichen Einsparungen beim
@@ -536,6 +544,7 @@ Vorjahr als nicht erreichbar erscheinen lassen.
 
 
 ### § 7 Aufgaben der Bundesstelle für Energieeffizienz
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000800000)
 
 (1) Die der Bundesstelle für Energieeffizienz durch dieses Gesetz oder
 andere Rechtsvorschriften des Bundes auf dem Gebiet der
@@ -596,9 +605,11 @@ folgende Aufgaben:
 
 
 ## Abschnitt 3 - Energie- oder Umweltmanagementsysteme und Umsetzungspläne für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000300000)
 
 
 ### § 8 Einrichtung von Energie- oder Umweltmanagementsystemen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE000900000)
 
 (1) Unternehmen mit einem jährlichen durchschnittlichen
 Gesamtendenergieverbrauch innerhalb der letzten drei abgeschlossenen
@@ -652,6 +663,7 @@ Umweltmanagementsystems zu erfüllen:
 [^F827720_05_BJNR1350B0023BJNE000900000]: 
 
 ### § 9 Umsetzungspläne von Endenergieeinsparmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001000000)
 
 Unternehmen mit einem jährlichen durchschnittlichen
 Gesamtendenergieverbrauch innerhalb der letzten drei abgeschlossenen
@@ -702,6 +714,7 @@ Geschäftsgeheimnissen oder der Vertraulichkeit unterliegen.
 [^F827720_06_BJNR1350B0023BJNE001000000]: 
 
 ### § 10 Stichprobenkontrolle hinsichtlich der Einrichtung von Energie- und Umweltmanagementsystemen und der Umsetzungspläne von Energieeinsparmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001100000)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle hat die Einrichtung
 und den Betrieb von Energie- und Umweltmanagementsystemen nach § 8
@@ -714,9 +727,11 @@ vier Wochen über eine elektronisch abrufbare Vorlage zu verlangen.
 
 
 ## Abschnitt 4 - Energieeffizienz in Rechenzentren
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000400000)
 
 
 ### § 11 Klimaneutrale Rechenzentren
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001200000)
 
 (1) Rechenzentren, die vor dem 1. Juli 2026 den Betrieb aufnehmen oder
 aufgenommen haben, sind so zu errichten und zu betreiben, dass sie
@@ -813,6 +828,7 @@ Rechenzentren bilanziell
 [^F827720_07_BJNR1350B0023BJNE001200000]: 
 
 ### § 12 Energie- und Umweltmanagementsysteme in Rechenzentren
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001300000)
 
 (1) Unbeschadet von § 8 sind Betreiber von Rechenzentren verpflichtet,
 bis zum 1. Juli 2025 ein Energie- oder Umweltmanagementsystem
@@ -865,6 +881,7 @@ erbringen.
 
 
 ### § 13 Informationspflicht für Betreiber von Rechenzentren und für Betreiber von Informationstechnik; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001400000)
 
 (1) Betreiber von Rechenzentren sind verpflichtet, bis zum Ablauf des
 31\. März eines jeden Jahres Informationen über ihr Rechenzentrum nach
@@ -883,6 +900,7 @@ erforderlich sind.
 
 
 ### § 14 Energieeffizienzregister für Rechenzentren
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001500000)
 
 Die Bundesregierung errichtet ein Energieeffizienzregister für
 Rechenzentren, in dem die von den Rechenzentren nach § 13 Absatz 1 in
@@ -891,6 +909,7 @@ eine europäische Datenbank über Rechenzentren übertragen werden.
 
 
 ### § 15 Information und Beratung im Kundenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001600000)
 
 Bieten Betreiber von Rechenzentren Dienstleistungen für Dritte
 (Kunden) an, so sind die Betreiber ab dem 1. Januar 2024 dazu
@@ -899,9 +918,11 @@ pro Jahr gegenüber diesen Kunden darzustellen.
 
 
 ## Abschnitt 5 - Abwärme
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000500000)
 
 
 ### § 16 Vermeidung und Verwendung von Abwärme
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001700000)
 
 (1) Unternehmen sind verpflichtet, die in ihrem Unternehmen
 entstehende Abwärme nach dem Stand der Technik zu vermeiden und die
@@ -949,6 +970,7 @@ Kalenderjahre Jahre von 2,5 Gigawattstunden oder weniger haben.
 
 
 ### § 17 Plattform für Abwärme
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001800000)
 
 (1) Unternehmen sind auf Anfrage von Betreibern von Wärmenetzen oder
 Fernwärmeversorgungsunternehmen und sonstigen potenziellen
@@ -1007,9 +1029,11 @@ oder weniger haben.
 
 
 ## Abschnitt 6 - Klimaneutrale Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000600000)
 
 
 ### § 18 Klimaneutrale Unternehmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE001900000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Ausnahmen und Befreiungen von den Pflichten
@@ -1043,9 +1067,11 @@ Einzelheiten
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNG000700000)
 
 
 ### § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE002000000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1101,6 +1127,7 @@ und Ausfuhrkontrolle, ausgenommen hiervon ist Absatz 1 Nummer 7.
 
 
 ### § 20 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE002100000)
 
 (1) Die Länder sind verpflichtet, die Informationen nach § 6 Absatz 7
 Satz 1 erstmals im Jahr 2024 und spätestens sechs Monate nach
@@ -1130,6 +1157,7 @@ elektronische Vorlage verwendet werden.
 
 
 ### § 21 Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE002200000)
 
 (1) Ausgenommen von den Vorgaben und Bestimmungen dieses Gesetzes
 sind:
@@ -1162,6 +1190,7 @@ Klimaschutz.
 (zu § 5 Absatz 2 Satz 2 und 3)
 
 ### Anlage 1 Aufteilung der Endenergieeinsparung unter den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE002300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 309, S. 14)
 
@@ -1301,6 +1330,7 @@ Aufteilung im Zeitraum vom 1. Januar 2024 bis zum 31. Dezember 2030:
 (zu § 10 Satz 2)
 
 ### Anlage 2 Erklärung für eingerichtete Energie- oder Umweltmanagementsysteme
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE002400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 309, S. 15)
 
@@ -1358,6 +1388,7 @@ enthalten:
 (zu § 13 Absatz 1)
 
 ### Anlage 3 Informationen von Betreibern von Rechenzentren
+[Direktlink](https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html#BJNR1350B0023BJNE002500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 309, S. 16)
 

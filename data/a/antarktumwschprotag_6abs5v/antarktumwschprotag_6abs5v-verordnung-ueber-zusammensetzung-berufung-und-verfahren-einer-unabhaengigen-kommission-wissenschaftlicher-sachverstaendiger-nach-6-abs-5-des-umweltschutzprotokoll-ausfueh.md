@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000100305)
 
 Auf Grund des § 6 Abs. 5 des Umweltschutzprotokoll-Ausführungsgesetzes
 vom 22. September 1994 (BGBl. I S. 2593), der gemäß Artikel 14 der
@@ -35,6 +36,7 @@ Auswärtigen Amt und dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000200305)
 
 Es wird eine Kommission unabhängiger Sachverständiger zur Beurteilung
 der Umweltauswirkungen von Forschungstätigkeiten in der Antarktis
@@ -42,6 +44,7 @@ gebildet.
 
 
 ## § 2 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000300305)
 
 (1) Die Kommission besteht aus drei Mitgliedern. Die Mitglieder der
 Kommission müssen über besondere wissenschaftliche Kenntnisse im
@@ -55,12 +58,14 @@ Absatz 1 gilt entsprechend.
 
 
 ## § 3 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000400305)
 
 Die Mitglieder der Kommission und ihre stellvertretenden Mitglieder
 sind unabhängig und nicht an Weisungen gebunden.
 
 
 ## § 4 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000502116)
 
 (1) Die Mitglieder der Kommission und ihre stellvertretenden
 Mitglieder werden durch das Bundesministerium für Umwelt, Naturschutz
@@ -89,6 +94,7 @@ für den Rest der Berufungszeit besetzt.
 
 
 ## § 5 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000601116)
 
 (1) Die Kommission hat die Aufgabe, Tätigkeiten der wissenschaftlichen
 Forschung sowie zu ihrer Vorbereitung oder Durchführung dienende
@@ -108,6 +114,7 @@ Forschungstätigkeit erfolgt nicht.
 
 
 ## § 6 Beteiligung anderer Personen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000700305)
 
 (1) Die in § 4 genannten Bundesministerien werden zu den Sitzungen der
 Kommission eingeladen. Sitzungsunterlagen und Ergebnisprotokolle sind
@@ -131,6 +138,7 @@ lassen.
 
 
 ## § 7 Vorsitzender und Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000802116)
 
 (1) Die Mitglieder der Kommission wählen aus ihrer Mitte ein
 Vorsitzendes Mitglied und sein stellvertretendes Mitglied für die
@@ -143,6 +151,7 @@ Bundesministerium für Bildung und Forschung.
 
 
 ## § 8 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE000900305)
 
 (1) Die Sitzungen der Kommission sind nicht öffentlich.
 
@@ -156,6 +165,7 @@ Mitglied der Kommission.
 
 
 ## § 9 Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE001001116)
 
 (1) Die Kommission ist beschlußfähig, wenn alle Mitglieder im Sinne
 von § 8 Abs. 2 stimmberechtigt oder durch stimmberechtigte
@@ -175,6 +185,7 @@ Minderheitsvotum ist zu begründen.
 
 
 ## § 10 Zusammenarbeit mit dem Umweltbundesamt
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE001100305)
 
 (1) Stellt das Umweltbundesamt fest, daß auf Grund von § 6 Abs. 4 des
 Umweltschutzprotokoll-Ausführungsgesetzes die Befassung der Kommission
@@ -195,6 +206,7 @@ zuzuleiten.
 
 
 ## § 11 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE001202116)
 
 Die Kommission erstellt einen jährlichen Tätigkeitsbericht. Der
 Bericht wird durch das Bundesministerium für Umwelt, Naturschutz und
@@ -202,6 +214,7 @@ nukleare Sicherheit veröffentlicht.
 
 
 ## § 12 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE001300305)
 
 Die Mitglieder der Kommission und ihre Stellvertreter erhalten Ersatz
 ihrer Reisekosten sowie eine Sitzungsentschädigung nach den
@@ -212,6 +225,7 @@ Einrichtungen im Bereich des Bundes vom 12. November 1981 (GMBl. S.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag_6abs5v/BJNR166000999.html#BJNR166000999BJNE001400305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uwg_einigvtre_bv/BJNR021580990.html#BJNR021580990BJNE000100308)
 
 Auf Grund des § 3 Abs. 6 Satz 2 der besonderen Bestimmungen zur
 Einführung der Rechtsvorschriften auf dem Gebiet des gewerblichen
@@ -30,6 +31,7 @@ verordnet der Bundesminister der Justiz:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/uwg_einigvtre_bv/BJNR021580990.html#BJNR021580990BJNE000200308)
 
 Die in § 3 Abs. 6 Satz 1 der besonderen Bestimmungen zur Einführung
 der Rechtsvorschriften auf dem Gebiet des gewerblichen Rechtsschutzes
@@ -39,6 +41,7 @@ den Präsidenten des Deutschen Patentamts übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/uwg_einigvtre_bv/BJNR021580990.html#BJNR021580990BJNE000300308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

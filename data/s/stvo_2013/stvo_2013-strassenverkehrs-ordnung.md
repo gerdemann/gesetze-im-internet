@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## I. - Allgemeine Verkehrsregeln
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNG000100000)
 
 
 ### § 1 Grundregeln
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000100000)
 
 (1) Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und
 gegenseitige Rücksicht.
@@ -34,6 +36,7 @@ unvermeidbar, behindert oder belästigt wird.
 
 
 ### § 2 Straßenbenutzung durch Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000204123)
 
 (1) Fahrzeuge müssen die Fahrbahnen benutzen, von zwei Fahrbahnen die
 rechte. Seitenstreifen sind nicht Bestandteil der Fahrbahn.
@@ -151,6 +154,7 @@ absteigen.
 
 
 ### § 3 Geschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000300000)
 
 (1) Wer ein Fahrzeug führt, darf nur so schnell fahren, dass das
 Fahrzeug ständig beherrscht wird. Die Geschwindigkeit ist insbesondere
@@ -242,6 +246,7 @@ Schneeketten auch unter günstigsten Umständen 50 km/h.
 
 
 ### § 4 Abstand
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000400000)
 
 (1) Der Abstand zu einem vorausfahrenden Fahrzeug muss in der Regel so
 groß sein, dass auch dann hinter diesem gehalten werden kann, wenn es
@@ -272,6 +277,7 @@ Fahrzeugen einen Mindestabstand von 50 m einhalten.
 
 
 ### § 5 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000502124)
 
 (1) Es ist links zu überholen.
 
@@ -338,6 +344,7 @@ mäßiger Geschwindigkeit und besonderer Vorsicht rechts überholen.
 
 
 ### § 6 Vorbeifahren
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000600000)
 
 Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder
 einem haltenden Fahrzeug links vorbeifahren will, muss
@@ -349,6 +356,7 @@ achten und das Ausscheren sowie das Wiedereinordnen – wie beim
 
 
 ### § 7 Benutzung von Fahrstreifen durch Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000700000)
 
 (1) Auf Fahrbahnen mit mehreren Fahrstreifen für eine Richtung dürfen
 Kraftfahrzeuge von dem Gebot möglichst weit rechts zu fahren (§ 2
@@ -418,6 +426,7 @@ sind die Fahrtrichtungsanzeiger zu benutzen.
 
 
 ### § 7a Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000800000)
 
 (1) Gehen Fahrstreifen, insbesondere auf Autobahnen und
 Kraftfahrstraßen, von der durchgehenden Fahrbahn ab, darf beim
@@ -435,6 +444,7 @@ mäßiger Geschwindigkeit und besonderer Vorsicht überholt werden.
 
 
 ### § 8 Vorfahrt
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE000900000)
 
 (1) An Kreuzungen und Einmündungen hat die Vorfahrt, wer von rechts
 kommt. Das gilt nicht,
@@ -468,6 +478,7 @@ werden.
 
 
 ### § 9 Abbiegen, Wenden und Rückwärtsfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001002124)
 
 (1) Wer abbiegen will, muss dies rechtzeitig und deutlich ankündigen;
 dabei sind die Fahrtrichtungsanzeiger zu benutzen. Wer nach rechts
@@ -515,6 +526,7 @@ Fahrbahn überquerendem Fußgängerverkehr zu rechnen ist.
 
 
 ### § 10 Einfahren und Anfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001100000)
 
 Wer aus einem Grundstück, aus einer Fußgängerzone (Zeichen 242.1 und
 242\.2), aus einem verkehrsberuhigten Bereich (Zeichen 325.1 und 325.2)
@@ -529,6 +541,7 @@ Klarstellung notwendig ist, kann Zeichen 205 stehen.
 
 
 ### § 11 Besondere Verkehrslagen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001201123)
 
 (1) Stockt der Verkehr, darf trotz Vorfahrt oder grünem Lichtzeichen
 nicht in die Kreuzung oder Einmündung eingefahren werden, wenn auf ihr
@@ -549,6 +562,7 @@ mit dem oder der Verzichtenden verständigt hat.
 
 
 ### § 12 Halten und Parken
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001301124)
 
 (1) Das Halten ist unzulässig
 
@@ -650,6 +664,7 @@ Halten.
 
 
 ### § 13 Einrichtungen zur Überwachung der Parkzeit
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001401124)
 
 (1) An Parkuhren darf nur während des Laufens der Uhr, an
 Parkscheinautomaten nur mit einem Parkschein, der am oder im Fahrzeug
@@ -711,6 +726,7 @@ bleiben die Vorschriften über die Halt- und Parkverbote unberührt.
 
 
 ### § 14 Sorgfaltspflichten beim Ein- und Aussteigen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001500000)
 
 (1) Wer ein- oder aussteigt, muss sich so verhalten, dass eine
 Gefährdung anderer am Verkehr Teilnehmenden ausgeschlossen ist.
@@ -722,6 +738,7 @@ sichern.
 
 
 ### § 15 Liegenbleiben von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001600000)
 
 Bleibt ein mehrspuriges Fahrzeug an einer Stelle liegen, an der es
 nicht rechtzeitig als stehendes Hindernis erkannt werden kann, ist
@@ -734,6 +751,7 @@ Fahrzeuge.
 
 
 ### § 15a Abschleppen von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001700000)
 
 (1) Beim Abschleppen eines auf der Autobahn liegen gebliebenen
 Fahrzeugs ist die Autobahn (Zeichen 330.1) bei der nächsten Ausfahrt
@@ -750,6 +768,7 @@ einzuschalten.
 
 
 ### § 16 Warnzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001801124)
 
 (1) Schall- und Leuchtzeichen darf nur geben,
 
@@ -787,6 +806,7 @@ Fassung.
 
 
 ### § 17 Beleuchtung
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE001900000)
 
 (1) Während der Dämmerung, bei Dunkelheit oder wenn die
 Sichtverhältnisse es sonst erfordern, sind die vorgeschriebenen
@@ -847,6 +867,7 @@ Fahrbahn benutzt werden.
 
 
 ### § 18 Autobahnen und Kraftfahrstraßen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002000000)
 
 (1) Autobahnen (Zeichen 330.1) und Kraftfahrstraßen (Zeichen 331.1)
 dürfen nur mit Kraftfahrzeugen benutzt werden, deren durch die Bauart
@@ -991,6 +1012,7 @@ weniger eingeschränkt ist, sowie bei Schneeglätte oder Glatteis den
 
 
 ### § 19 Bahnübergänge
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002100000)
 
 (1) Schienenfahrzeuge haben Vorrang
 
@@ -1053,6 +1075,7 @@ blenden.
 
 
 ### § 20 Öffentliche Verkehrsmittel und Schulbusse
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002200000)
 
 (1) An Omnibussen des Linienverkehrs, an Straßenbahnen und an
 gekennzeichneten Schulbussen, die an Haltestellen (Zeichen 224)
@@ -1088,6 +1111,7 @@ sonst am Rand der Fahrbahn erwarten.
 
 
 ### § 21 Personenbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002302124)
 
 (1) In Kraftfahrzeugen dürfen nicht mehr Personen befördert werden,
 als mit Sicherheitsgurten ausgerüstete Sitzplätze vorhanden sind.
@@ -1186,6 +1210,7 @@ Lebensjahr gilt nicht für die Beförderung eines behinderten Kindes.
 
 
 ### § 21a Sicherheitsgurte, Rollstuhl-Rückhaltesysteme, Rollstuhlnutzer-Rückhaltesysteme, Schutzhelme
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002402123)
 
 (1) Vorgeschriebene Sicherheitsgurte müssen während der Fahrt angelegt
 sein; dies gilt ebenfalls für vorgeschriebene Rollstuhl-
@@ -1227,6 +1252,7 @@ Sicherheitsgurte angelegt sind.
 
 
 ### § 22 Ladung
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002500000)
 
 (1) Die Ladung einschließlich Geräte zur Ladungssicherung sowie
 Ladeeinrichtungen sind so zu verstauen und zu sichern, dass sie selbst
@@ -1286,6 +1312,7 @@ schlecht erkennbare Gegenstände dürfen seitlich nicht herausragen.
 
 
 ### § 23 Sonstige Pflichten von Fahrzeugführenden
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002604123)
 
 (1) Wer ein Fahrzeug führt, ist dafür verantwortlich, dass seine Sicht
 und das Gehör nicht durch die Besetzung, Tiere, die Ladung, Geräte
@@ -1421,6 +1448,7 @@ Fällen des § 21a Absatz 2 Satz 1.
 
 
 ### § 24 Besondere Fortbewegungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002700000)
 
 (1) Schiebe- und Greifreifenrollstühle, Rodelschlitten, Kinderwagen,
 Roller, Kinderfahrräder, Inline-Skates, Rollschuhe und ähnliche nicht
@@ -1434,6 +1462,7 @@ werden, jedoch nur mit Schrittgeschwindigkeit.
 
 
 ### § 25 Fußgänger
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002802123)
 
 (1) Wer zu Fuß geht, muss die Gehwege benutzen. Auf der Fahrbahn darf
 nur gegangen werden, wenn die Straße weder einen Gehweg noch einen
@@ -1472,6 +1501,7 @@ betreten werden.
 
 
 ### § 26 Fußgängerüberwege
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE002900000)
 
 (1) An Fußgängerüberwegen haben Fahrzeuge mit Ausnahme von
 Schienenfahrzeugen den zu Fuß Gehenden sowie Fahrenden von
@@ -1490,6 +1520,7 @@ Straßenteil, gelten diese Vorschriften entsprechend.
 
 
 ### § 27 Verbände
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003000000)
 
 (1) Für geschlossene Verbände gelten die für den gesamten Fahrverkehr
 einheitlich bestehenden Verkehrsregeln und Anordnungen sinngemäß. Mehr
@@ -1523,6 +1554,7 @@ geschlossene Verbände geltenden Vorschriften befolgt werden.
 
 
 ### § 28 Tiere
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003100000)
 
 (1) Haus- und Stalltiere, die den Verkehr gefährden können, sind von
 der Straße fernzuhalten. Sie sind dort nur zugelassen, wenn sie von
@@ -1548,6 +1580,7 @@ verwendet werden:
 
 
 ### § 29 Übermäßige Straßenbenutzung
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003201360)
 
 (1) (weggefallen)
 
@@ -1569,6 +1602,7 @@ ausreichendes Sichtfeld lässt.
 
 
 ### § 30 Umweltschutz, Sonn- und Feiertagsfahrverbot
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003303123)
 
 (1) Bei der Benutzung von Fahrzeugen sind unnötiger Lärm und
 vermeidbare Abgasbelästigungen verboten. Es ist insbesondere verboten,
@@ -1672,6 +1706,7 @@ Nordrhein-Westfalen, Rheinland-Pfalz und im Saarland;
 
 
 ### § 31 Sport und Spiel
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003400000)
 
 (1) Sport und Spiel auf der Fahrbahn, den Seitenstreifen und auf
 Radwegen sind nicht erlaubt. Satz 1 gilt nicht, soweit dies durch ein
@@ -1692,6 +1727,7 @@ am rechten Rand in Fahrtrichtung zu bewegen und Fahrzeugen das
 
 
 ### § 32 Verkehrshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003500000)
 
 (1) Es ist verboten, die Straße zu beschmutzen oder zu benetzen oder
 Gegenstände auf Straßen zu bringen oder dort liegen zu lassen, wenn
@@ -1707,6 +1743,7 @@ verkleiden.
 
 
 ### § 33 Verkehrsbeeinträchtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003600000)
 
 (1) Verboten ist
 
@@ -1741,6 +1778,7 @@ Teilnehmenden auf den Bundesautobahnen dienen.
 
 
 ### § 34 Unfall
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003700000)
 
 (1) Nach einem Verkehrsunfall hat, wer daran beteiligt ist,
 
@@ -1806,6 +1844,7 @@ Feststellungen getroffen worden sind.
 
 
 ### § 35 Sonderrechte
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003804123)
 
 (1) Von den Vorschriften dieser Verordnung sind die Bundeswehr und die
 von ihr beauftragten gewerblichen Transportdienstunternehmen, die
@@ -1912,9 +1951,11 @@ Funkgerätes aufnehmen und halten.
 
 
 ## II. - Zeichen und Verkehrseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNG000200000)
 
 
 ### § 36 Zeichen und Weisungen der Polizeibeamten
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE003900000)
 
 (1) Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen. Sie
 gehen allen anderen Anordnungen und sonstigen Regeln vor, entbinden
@@ -1958,6 +1999,7 @@ befolgen.
 
 
 ### § 36a Zeichen und Weisungen bei Transportbegleitung mit Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE006600123)
 
 Die Zeichen und Weisungen eines Transportbegleiters nach § 3 Absatz 1
 Nummer 2 der Straßenverkehr-Transportbegleitungsverordnung, die dieser
@@ -1967,6 +2009,7 @@ Weisungen eines Transportbegleiters vor.
 
 
 ### § 37 Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004001124)
 
 (1) Lichtzeichen gehen Vorrangregeln und Vorrang regelnden
 Verkehrszeichen vor. Wer ein Fahrzeug führt, darf bis zu 10 m vor
@@ -2079,6 +2122,7 @@ Dauerlichtzeichen nicht halten.
 
 
 ### § 38 Blaues Blinklicht und gelbes Blinklicht
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004100000)
 
 (1) Blaues Blinklicht zusammen mit dem Einsatzhorn darf nur verwendet
 werden, wenn höchste Eile geboten ist, um Menschenleben zu retten oder
@@ -2102,6 +2146,7 @@ warnen.
 
 
 ### § 39 Verkehrszeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004205123)
 
 (1) Angesichts der allen Verkehrsteilnehmern obliegenden
 Verpflichtung, die allgemeinen und besonderen Verhaltensvorschriften
@@ -2347,6 +2392,7 @@ des § 4 Absatz 1 und 2 des Carsharinggesetzes, in denen die Plakette
 
 
 ### § 40 Gefahrzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004300000)
 
 (1) Gefahrzeichen mahnen zu erhöhter Aufmerksamkeit, insbesondere zur
 Verringerung der Geschwindigkeit im Hinblick auf eine Gefahrsituation
@@ -2382,6 +2428,7 @@ Vorrang ergeben sich aus der Anlage 1 Abschnitt 2.
 
 
 ### § 41 Vorschriftzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004400000)
 
 (1) Wer am Verkehr teilnimmt, hat die durch Vorschriftzeichen nach
 Anlage 2 angeordneten Ge- oder Verbote zu befolgen.
@@ -2399,6 +2446,7 @@ erweitern.
 
 
 ### § 42 Richtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004500000)
 
 (1) Richtzeichen geben besondere Hinweise zur Erleichterung des
 Verkehrs. Sie können auch Ge- oder Verbote enthalten.
@@ -2414,6 +2462,7 @@ zu dem maßgeblichen Ort auf einem Zusatzzeichen angegeben.
 
 
 ### § 43 Verkehrseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004600000)
 
 (1) Verkehrseinrichtungen sind Schranken, Sperrpfosten, Absperrgeräte
 sowie Leiteinrichtungen, die bis auf Leitpfosten, Leitschwellen und
@@ -2438,9 +2487,11 @@ werden.
 
 
 ## III. - Durchführungs-, Bußgeld- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNG000300000)
 
 
 ### § 44 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004702123)
 
 (1) Zuständig zur Ausführung dieser Verordnung sind, soweit nichts
 anderes bestimmt ist, die Straßenverkehrsbehörden. Nach Maßgabe des
@@ -2498,6 +2549,7 @@ und den Katastrophenschutz.
 
 
 ### § 44a Besondere sachliche Zuständigkeit des Fernstraßen-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE006400123)
 
 (1) Zuständig für den Erlass von verkehrsrechtlichen Anordnungen nach
 dieser Verordnung für die mit Zeichen 330.1 und 330.2 gekennzeichneten
@@ -2528,6 +2580,7 @@ Aufgabenübertragung ist im Bundesanzeiger bekannt zu geben.
 
 
 ### § 45 Verkehrszeichen und Verkehrseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004806123)
 
 (1) Die Straßenverkehrsbehörden können die Benutzung bestimmter
 Straßen oder Straßenstrecken aus Gründen der Sicherheit oder Ordnung
@@ -2888,6 +2941,7 @@ Bundesverwaltung für das Fernstraßen-Bundesamt.
 
 
 ### § 46 Ausnahmegenehmigungen, Erlaubnisse und Bewohnerparkausweise
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE004907123)
 
 (1) Die Straßenverkehrsbehörden können in bestimmten Einzelfällen oder
 allgemein für bestimmte Antragsteller Ausnahmen genehmigen
@@ -3079,6 +3133,7 @@ besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ### § 47 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005002123)
 
 (1) Die Erlaubnisse nach § 29 Absatz 2 und nach § 30 Absatz 2 erteilt
 für eine Veranstaltung, die im Ausland beginnt, die nach § 44 Absatz 3
@@ -3164,6 +3219,7 @@ deren Bezirk der erlaubnispflichtige Verkehr beginnt.
 
 
 ### § 48 Verkehrsunterricht
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005100000)
 
 Wer Verkehrsvorschriften nicht beachtet, ist auf Vorladung der
 Straßenverkehrsbehörde oder der von ihr beauftragten Beamten
@@ -3172,6 +3228,7 @@ teilzunehmen.
 
 
 ### § 49 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005208123)
 
 (1) Ordnungswidrig im Sinne des § 24 Absatz 1 des
 Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig gegen
@@ -3439,12 +3496,14 @@ fahrlässig
 
 
 ### § 50 Sonderregelung für die Insel Helgoland
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005300000)
 
 Auf der Insel Helgoland sind der Verkehr mit Kraftfahrzeugen und das
 Radfahren verboten.
 
 
 ### § 51 Besondere Kostenregelung
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005400000)
 
 Die Kosten der Zeichen 386.1, 386.2 und 386.3 trägt abweichend von §
 5b Absatz 1 des Straßenverkehrsgesetzes derjenige, der die Aufstellung
@@ -3452,6 +3511,7 @@ dieses Zeichens beantragt.
 
 
 ### § 51a Überleitung
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE006500123)
 
 Der Bund, vertreten durch das Bundesministerium für Verkehr und
 digitale Infrastruktur und das Fernstraßen-Bundesamt, tritt im Rahmen
@@ -3468,6 +3528,7 @@ straßenverkehrsrechtlichen Vorschriften beachtet wurden.
 
 
 ### § 52 Übergangs- und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE006204123)
 
 (1) Mit Ablauf des 31. Dezember 2026 sind nicht mehr anzuwenden:
 
@@ -3535,6 +3596,7 @@ hinsichtlich unterschiedlicher Mobilitätsformen angeordnet werden.
 
 
 ### § 53 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005600000)
 
 (1) Diese Verordnung tritt am 1. April 2013 in Kraft.
 
@@ -3573,12 +3635,14 @@ folgenden Maßgaben an dem in Absatz 1 bezeichneten Tag außer Kraft:
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE006100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 40 Absatz 6 und 7)
 
 ### Anlage 1 Allgemeine und Besondere Gefahrzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005700000)
 
 (Fundstelle: BGBl. I 2013, 390 - 393)
 
@@ -3779,6 +3843,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 41 Absatz 1)
 
 ### Anlage 2 Vorschriftzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005804123)
 
 (Fundstelle: BGBl. I 2013, 394 - 410;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -5508,6 +5573,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 (zu § 42 Absatz 2)
 
 ### Anlage 3 Richtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE005902124)
 
 (Fundstelle: BGBl. I 2013, 411 - 424;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -6807,6 +6873,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 (zu § 43 Absatz 3)
 
 ### Anlage 4 Verkehrseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html#BJNR036710013BJNE006000000)
 
 (Fundstelle: BGBl. I 2013, 425 - 427)
 

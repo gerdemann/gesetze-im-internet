@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4aipobek/BJNR011260983.html#BJNR011260983BJNE000100307)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,11 +31,13 @@ Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4aipobek/BJNR011260983.html#BJNR011260983BJNE000900307)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4aipobek/BJNR011260983.html#BJNR011260983BJNE000200307)
 
 Fundstelle: BGBl. I 1962, 480)
 ![bgbl1_1962_j0480_0010.jpg](bgbl1_1962_j0480_0010.jpg)

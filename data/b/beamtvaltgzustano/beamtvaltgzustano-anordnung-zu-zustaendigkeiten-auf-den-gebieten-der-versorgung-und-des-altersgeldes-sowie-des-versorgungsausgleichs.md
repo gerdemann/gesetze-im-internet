@@ -20,6 +20,7 @@ Stand: Berichtigung vom 16.7.2025 I Nr. 170 ist berücksichtigt
 Stand: Ersetzt AnO 2030-14-210 v. 15.12.2015 I 2358 (BeamtVZustAnO 2016) u. AnO 2030-14-224 v. 9.4.2018 I 462 (AltGZustAnO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000100000)
 
 Das Bundesministerium der Finanzen ordnet nach erfolgter Übertragung
 der Befugnisse auf Grund
@@ -170,6 +171,7 @@ an:
 
 
 ## § 1 Anordnungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000200000)
 
 (1) Diese Anordnung regelt für die in der Anlage genannten
 Geschäftsbereiche nach Übertragung der Befugnisse durch die obersten
@@ -308,6 +310,7 @@ Ruhensvorschriften.
 
 
 ## § 2 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000300000)
 
 (1) Versorgungsberechtigte im Sinne dieser Anordnung sind Personen,
 deren Versorgung oder künftige Versorgung beruht auf
@@ -378,6 +381,7 @@ nach § 9 Absatz 2 des Altersgeldgesetzes.
 
 
 ## § 3 Sachliche Zuständigkeit für die Festsetzung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000400000)
 
 (1) Zuständig für die Festsetzung der Versorgungsbezüge nach § 2
 Nummer 1, 2 und 5 bis 12 in Verbindung mit § 49 Absatz 1 Satz 1 des
@@ -482,6 +486,7 @@ Beamtenversorgungsgesetzes vorliegt.
 
 
 ## § 4 Sachliche Zuständigkeit für die Festsetzung von Leistungen nach dem Altersgeldgesetz und des aus Artikel 45 AEUV abgeleiteten Nachteilsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000500000)
 
 (1) Zuständig für die Festsetzung
 
@@ -554,6 +559,7 @@ altersgeldfähigen Dienstzeit vorbehalten, wenn
 
 
 ## § 5 Sachliche Zuständigkeit für die Anerkennung eines Dienstunfalls und die Festsetzung von Unfallfürsorgeleistungen sowie damit zusammenhängender Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000600000)
 
 (1) Zuständig für die Anerkennung eines Dienstunfalls nach § 45 Absatz
 3 Satz 2 des Beamtenversorgungsgesetzes sowie die sich anschließende
@@ -657,6 +663,7 @@ treffen über
 
 
 ## § 6 Sachliche Zuständigkeit für die Geltendmachung eines nach § 76 des Bundesbeamtengesetzes übergegangenen Schadensersatzanspruchs aufgrund eines Unfalls
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000700000)
 
 (1) Zuständig für die Geltendmachung eines gesetzlichen
 Schadensersatzanspruchs aus einem Dienstunfall, der nach § 76 des
@@ -686,6 +693,7 @@ wird.
 
 
 ## § 7 Sachliche Zuständigkeit für die Erteilung von Vorabentscheidungen und für die Erteilung von Versorgungsauskünften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000800000)
 
 (1) Zuständig für die Erteilung
 
@@ -728,6 +736,7 @@ Festsetzung des Altersgeldes nach § 4 Absatz 2 vorbehalten haben.
 
 
 ## § 8 Sachliche Zuständigkeit bei Verschollenheit der versorgungsberechtigten Person
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE000900000)
 
 Zuständig für die Feststellung nach § 29 Absatz 1 des
 Beamtenversorgungsgesetzes, dass das Ableben einer
@@ -740,6 +749,7 @@ Generalzolldirektion.
 
 
 ## § 9 Weitere Befugnisse zur Aufgabenerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001000000)
 
 (1) Zuständig für
 
@@ -783,6 +793,7 @@ der Verteidigung zuständig.
 
 
 ## § 10 Sachliche Zuständigkeit betreffend den Versorgungsausgleich und für die Durchführung des Bundesversorgungsteilungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001100000)
 
 (1) Zuständig beim Versorgungsausgleich und bei der Durchführung des
 Bundesversorgungsteilungsgesetzes ist, soweit sich aus dem
@@ -894,6 +905,7 @@ Altersgeldes durch eine andere Stelle bereits erfolgt ist.
 
 
 ## § 11 Sachliche Zuständigkeit für die Versorgungslastenteilung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001200000)
 
 (1) Zuständig bei der Versorgungslastenteilung ist die
 Generalzolldirektion für
@@ -957,12 +969,14 @@ Soldatenversorgungsgesetzes ist die Generalzolldirektion.
 
 
 ## § 12 Zuständigkeit für Versorgungsangelegenheiten nach dem G 131
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001300000)
 
 Für Versorgungsberechtigte nach dem G 131 ist die Generalzolldirektion
 zuständig.
 
 
 ## § 13 Erlass von Widerspruchsbescheiden; Vertretung des Dienstherrn bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001400000)
 
 (1) Zuständig für den Erlass von Widerspruchsbescheiden in den in § 1
 Absatz 1 Satz 1 Nummer 1 bis 10 genannten Angelegenheiten ist die
@@ -984,6 +998,7 @@ zuständig ist.
 
 
 ## § 14 Sachliche Zuständigkeit für ehemalige Geschäftsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001500000)
 
 Für die Wahrnehmung von Aufgaben nach dieser Anordnung für die in den
 Nummern 11.3 und 22 bis 30 der Anlage 1 der
@@ -993,12 +1008,14 @@ zuständig.
 
 
 ## § 15 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001600000)
 
 Die örtliche Zuständigkeit regelt die Generalzolldirektion mit
 Zustimmung des Bundesministeriums der Finanzen.
 
 
 ## § 16 Übersendung erforderlicher Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001700000)
 
 (1) Für die Wahrnehmung der Aufgaben nach dieser Anordnung übersendet
 die oberste Dienstbehörde oder die von ihr bestimmte Stelle der
@@ -1038,6 +1055,7 @@ Altersgeldgesetz handelt.
 
 
 ## § 17 Berichtspflicht und Beteiligung der obersten Dienstbehörden
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001800000)
 
 (1) Ergeben sich bei einem Dienstherrenwechsel zum Bund bei der
 Prüfung der Dokumentation des zahlungspflichtigen Dienstherrn oder der
@@ -1059,6 +1077,7 @@ Dienstbehörde veranlasst.
 
 
 ## § 18 Schriftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE001900000)
 
 Die Generalzolldirektion führt den erforderlichen Schriftverkehr mit
 den zuständigen Stellen unmittelbar. In Fällen des § 17 Absatz 2 ist
@@ -1068,6 +1087,7 @@ Finanzen die von der Zustimmung betroffene oberste Dienstbehörde.
 
 
 ## § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE002000000)
 
 (1) Diese Anordnung tritt mit Wirkung vom 1. Juni 2025 in Kraft.
 
@@ -1083,6 +1103,7 @@ Dezember 2025 außer Kraft.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvaltgzustano/BJNR0920A0025.html#BJNR0920A0025BJNE002100000)
 
 (Fundstelle: BGBl. 2025 I Nr. 146, S. 11 - 12)
 

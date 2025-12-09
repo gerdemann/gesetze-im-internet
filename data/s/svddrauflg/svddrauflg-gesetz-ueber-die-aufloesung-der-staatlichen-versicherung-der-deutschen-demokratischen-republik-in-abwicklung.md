@@ -23,6 +23,7 @@ betrieblichen Altersversorgung (ABl. EU Nr. L 235 S. 10).
 
 
 ## § 1 Auflösung der Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/svddrauflg/BJNR255300005.html#BJNR255300005BJNE000100000)
 
 Die Staatliche Versicherung der Deutschen Demokratischen Republik in
 Abwicklung - Anstalt des öffentlichen Rechts - (Anstalt) wird mit
@@ -30,12 +31,14 @@ Ablauf des 31. Dezember 2007 aufgelöst.
 
 
 ## § 2 Gesamtrechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/svddrauflg/BJNR255300005.html#BJNR255300005BJNE000200000)
 
 Die Kreditanstalt für Wiederaufbau tritt mit Wirkung vom 1. Januar
 2008 in die Rechte und Pflichten der Anstalt ein.
 
 
 ## § 3 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/svddrauflg/BJNR255300005.html#BJNR255300005BJNE000300000)
 
 Die aus § 2 folgenden Kosten der Abwicklung der auf die Kreditanstalt
 für Wiederaufbau übergegangenen Rechte und Pflichten trägt die
@@ -43,6 +46,7 @@ Bundesanstalt für vereinigungsbedingte Sonderaufgaben.
 
 
 ## § 4 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svddrauflg/BJNR255300005.html#BJNR255300005BJNE000400000)
 
 -
 

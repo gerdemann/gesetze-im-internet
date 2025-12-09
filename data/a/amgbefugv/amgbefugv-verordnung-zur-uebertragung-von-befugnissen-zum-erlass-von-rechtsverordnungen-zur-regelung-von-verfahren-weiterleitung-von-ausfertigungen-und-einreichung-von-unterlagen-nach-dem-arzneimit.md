@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amgbefugv/BJNR068200015.html#BJNR068200015BJNE000100000)
 
 Auf Grund des § 80 Satz 1 Nummer 1 bis 3 und 4 bis 6, Satz 2 und 5 des
 Arzneimittelgesetzes, der zuletzt durch Artikel 3 des Gesetzes vom 17.
@@ -34,6 +35,7 @@ Landwirtschaft:
 
 
 ## § 1 Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/amgbefugv/BJNR068200015.html#BJNR068200015BJNE000201116)
 
 Die in § 80 Satz 1 Nummer 1 bis 3 und 4 bis 6 des Arzneimittelgesetzes
 enthaltenen Ermächtigungen zum Erlass von Rechtsverordnungen werden
@@ -47,6 +49,7 @@ Verordnung in der jeweiligen Fassung.
 
 
 ## § 2 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/amgbefugv/BJNR068200015.html#BJNR068200015BJNE000300000)
 
 Die AMG-Einreichungsverordnung vom 21. Dezember 2000 (BGBl. I S.
 2036), die zuletzt durch Artikel 353 der Verordnung vom 31. Oktober
@@ -61,6 +64,7 @@ Regelungen nach § 1 nicht in Kraft sind.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amgbefugv/BJNR068200015.html#BJNR068200015BJNE000400000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

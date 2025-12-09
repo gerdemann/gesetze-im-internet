@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNG000101307)
 
 
 
 ### § 1 Allgemeine Wahlrechtsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE000407310)
 
 Auf die Bundesrepublik Deutschland entfallen 96 Abgeordnete des
 Europäischen Parlaments. Sie werden in allgemeiner, unmittelbarer,
@@ -35,6 +37,7 @@ freier, gleicher und geheimer Wahl für fünf Jahre gewählt.
 
 
 ### § 2 Wahlsystem, Sitzverteilung
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE000504310)
 
 (1) Die Wahl erfolgt nach den Grundsätzen der Verhältniswahl mit
 Listenwahlvorschlägen. Listenwahlvorschläge können für ein Land oder
@@ -97,6 +100,7 @@ Wahlgebiet abgegebenen gültigen Stimmen erhalten haben.
 
 
 ### § 3 Gliederung des Wahlgebietes
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE000602307)
 
 (1) Wahlgebiet ist das Gebiet der Bundesrepublik Deutschland.
 
@@ -104,6 +108,7 @@ Wahlgebiet abgegebenen gültigen Stimmen erhalten haben.
 
 
 ### § 4 Geltung des Bundeswahlgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE000703307)
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die
 Wahl der Abgeordneten die Vorschriften der Abschnitte zwei bis sieben
@@ -121,6 +126,7 @@ des Bundeswahlgesetzes über
 
 
 ### § 5 Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE000803301)
 
 (1) Wahlorgane sind
 
@@ -173,6 +179,7 @@ entzieht.
 
 
 ### § 6 Wahlrecht, Ausübung des Wahlrechts
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE000907377)
 
 (1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs.
 1 des Grundgesetzes, die am Wahltage
@@ -263,6 +270,7 @@ teilnehmen.
 
 
 ### § 6a Ausschluss vom Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003503377)
 
 (1) Ein Deutscher ist vom Wahlrecht ausgeschlossen, wenn er infolge
 Richterspruchs das Wahlrecht nicht besitzt.
@@ -282,6 +290,7 @@ Richterspruchs das Wahlrecht nicht besitzt.
 
 
 ### § 6b Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003604310)
 
 (1) Wählbar ist, wer am Wahltage
 
@@ -348,6 +357,7 @@ und der am Wahltage
 
 
 ### § 6c Verbot der mehrfachen Bewerbung zur Wahl
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003702310)
 
 Niemand kann sich gleichzeitig in der Bundesrepublik Deutschland und
 in einem anderen Mitgliedstaat der Europäischen Union zur Wahl
@@ -355,6 +365,7 @@ bewerben.
 
 
 ### § 7 Wahltag
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001006310)
 
 Die Bundesregierung bestimmt nach Maßgabe der Festsetzung des
 Wahlzeitpunktes durch den Rat der Europäischen Union und im Rahmen der
@@ -367,6 +378,7 @@ Europäischen Gemeinschaften vom 25. Juni 2002 und 23. September 2002
 
 
 ### § 8 Wahlvorschlagsrecht
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001103310)
 
 (1) Wahlvorschläge können nach Maßgabe des § 9 Abs. 5 von Parteien und
 von sonstigen mitgliedschaftlich organisierten, auf Teilnahme an der
@@ -387,6 +399,7 @@ vorgesehene Stelle.
 
 
 ### § 9 Inhalt und Form der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001205310)
 
 (1) Wahlvorschläge von Parteien müssen den Namen der einreichenden
 Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese
@@ -448,6 +461,7 @@ stellvertretende Vertrauensperson.
 
 
 ### § 10 Aufstellung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001306160)
 
 (1) Als Bewerber oder als Ersatzbewerber kann in einem Wahlvorschlag
 nur benannt werden, wer nicht Mitglied einer anderen Partei ist und in
@@ -519,6 +533,7 @@ sinngemäß.
 
 
 ### § 11 Einreichung der Wahlvorschläge, Erklärung über die Verbindung von Listen für einzelne Länder
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001407310)
 
 (1) Listen für ein Land und gemeinsame Listen für alle Länder sind dem
 Bundeswahlleiter spätestens am dreiundachtzigsten Tage vor der Wahl
@@ -590,6 +605,7 @@ bis 18 Uhr mitzuteilen.
 
 
 ### § 12 Änderung und Zurücknahme von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001502307)
 
 (1) Ein Wahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch
 gemeinsame schriftliche Erklärung der Vertrauensperson und der
@@ -613,6 +629,7 @@ Stelle der Ersatzbewerber, sofern ein solcher für ihn benannt ist.
 
 
 ### § 13 Beseitigung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001607310)
 
 (1) Der Bundeswahlleiter hat die Wahlvorschläge unverzüglich nach
 Eingang zu prüfen. Stellt er bei einem Wahlvorschlag Mängel fest, so
@@ -652,6 +669,7 @@ Wahlvorschlages den Bundeswahlausschuss anrufen.
 
 
 ### § 14 Zulassung der Wahlvorschläge, Entscheidung über die Verbindung von Listen für einzelne Länder
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001704310)
 
 (1) Der Bundeswahlausschuss entscheidet am zweiundsiebzigsten Tage vor
 der Wahl für alle Wahlorgane verbindlich über alle Voraussetzungen für
@@ -723,6 +741,7 @@ Erklärung nach § 11 Abs. 3 abgegeben wurde, öffentlich bekannt.
 
 
 ### § 15 Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001803301)
 
 (1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl
 werden für jedes Land amtlich hergestellt.
@@ -761,6 +780,7 @@ an.
 
 
 ### § 16 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE001902301)
 
 (1) Gewählt wird mit amtlichen Stimmzetteln.
 
@@ -772,6 +792,7 @@ nicht erkennbar ist, und wirft ihn in die Wahlurne.
 
 
 ### § 17 Wahlgeräte
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002005311)
 
 Zur Erleichterung der Abgabe und Zählung der Stimmen können an Stelle
 von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden, deren Bauart
@@ -780,6 +801,7 @@ Bundesministerium des Innern, für Bau und Heimat zugelassen ist.
 
 
 ### § 18 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002102301)
 
 (1) Nach Beendigung der Wahlhandlung stellt der Wahlvorstand fest,
 wieviel Stimmen im Wahlbezirk auf die einzelnen Wahlvorschläge
@@ -802,6 +824,7 @@ gewählt sind.
 
 
 ### § 19 Benachrichtigung der gewählten Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002202160)
 
 Der Bundeswahlleiter benachrichtigt die gewählten Bewerber und weist
 sie darauf hin, dass sie nach der abschließenden Feststellung des
@@ -811,6 +834,7 @@ ersten Sitzung nach der Wahl erlangen.
 
 
 ### § 20 Unterrichtung über das Wahlergebnis
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002301307)
 
 Nach Ablauf der gesetzlichen Frist (§ 19) teilt der Bundeswahlleiter
 dem Präsidenten des Deutschen Bundestages unverzüglich die Namen der
@@ -821,10 +845,12 @@ unverzüglich dem Präsidenten des Europäischen Parlaments.
 
 
 ## Zweiter Abschnitt - Erwerb und Verlust der Mitgliedschaft im Europäischen Parlament
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNG000201307)
 
 
 
 ### § 21 Erwerb der Mitgliedschaft im Europäischen Parlament
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002402160)
 
 (1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Europäischen
 Parlament nach abschließender Feststellung des Ergebnisses für das
@@ -848,6 +874,7 @@ entsprechend.
 
 
 ### § 22 Ende und Verlust der Mitgliedschaft im Europäischen Parlament
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002506310)
 
 (1) Die Mitgliedschaft im Europäischen Parlament endet mit der
 Eröffnung der ersten Sitzung des neu gewählten Parlaments.
@@ -958,6 +985,7 @@ verboten worden ist.
 
 
 ### § 23 Entscheidung über den Verlust der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002604310)
 
 (1) Über den Verlust der Mitgliedschaft nach § 22 Abs. 2 wird
 entschieden
@@ -1012,6 +1040,7 @@ des Deutschen Bundestages entschieden worden ist.
 
 
 ### § 24 Berufung von Listennachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002702160)
 
 (1) Wenn ein gewählter Bewerber stirbt oder dem Bundeswahlleiter
 schriftlich die Ablehnung der Wahl erklärt oder wenn ein Abgeordneter
@@ -1043,10 +1072,12 @@ Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
 
 
 ## Dritter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNG000301307)
 
 
 
 ### § 25 Wahlkosten, Wahlordnung
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002807311)
 
 (1) § 50 des Bundeswahlgesetzes gilt entsprechend.
 
@@ -1101,6 +1132,7 @@ besondere Vorschriften zu treffen insbesondere über
 
 
 ### § 26 Wahlprüfung und Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE002904310)
 
 (1) Über die Gültigkeit der Wahl und die Verletzung von Rechten bei
 der Vorbereitung oder Durchführung der Wahl wird im
@@ -1132,11 +1164,13 @@ angefochten werden.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003001307)
 
 (Änderung des Strafgesetzbuches)
 
 
 ### § 28 Staatliche Mittel für sonstige politische Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003107311)
 
 (1) Sonstige politische Vereinigungen, die sich im Wahlgebiet an der
 Wahl der Abgeordneten des Europäischen Parlaments mit eigenen
@@ -1166,6 +1200,7 @@ Auszahlungsverfahren und die Abschlagszahlungen gelten entsprechend.
 
 
 ### § 29 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003205377)
 
 Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die
 nicht auf einem Richterspruch im Sinne von § 6a Absatz 1 in der ab dem
@@ -1177,6 +1212,7 @@ Nummer 1a des Bundesmeldegesetzes im Melderegister zu speichern.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/euwg/BJNR007090978.html#BJNR007090978BJNE003402307)
 
 (Inkrafttreten)
 

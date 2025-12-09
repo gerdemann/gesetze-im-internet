@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/deutschepostagdiszano_1995-11/BJNR166800995.html#BJNR166800995BJNE000100310)
 
 Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der Fassung
 der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) in Verbindung
@@ -28,6 +29,7 @@ Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325,
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/deutschepostagdiszano_1995-11/BJNR166800995.html#BJNR166800995BJNE000200310)
 
 Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren
 gegen Ruhestandsbeamte der Deutschen Post AG werden der Leiterin
@@ -37,11 +39,13 @@ Ruhestandsbeamten der früheren Deutschen Bundespost POSTDIENST.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/deutschepostagdiszano_1995-11/BJNR166800995.html#BJNR166800995BJNE000300310)
 
 Diese Anordnung tritt am 1. Januar 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/deutschepostagdiszano_1995-11/BJNR166800995.html#BJNR166800995BJNE000400310)
 
 Deutsche Post AG
 

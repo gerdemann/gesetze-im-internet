@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 2030-7-14-2 v. 22.8.2006 I 2057 (LAP-gDFm/EloAufklBundV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes, Absatz 1 Nummer 2 geändert durch Artikel 1
@@ -33,9 +34,11 @@ worden ist, verordnet das Bundesministerium der Verteidigung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000300000)
 
 Der Vorbereitungsdienst für den gehobenen technischen Dienst der
 Fernmelde- und Elektronischen Aufklärung des Bundes besteht aus der
@@ -44,6 +47,7 @@ Verordnung.
 
 
 ### § 2 Ziel und Inhalt des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000400000)
 
 (1) Ziel des Vorbereitungsdienstes ist es, die Anwärterinnen und
 Anwärter zu befähigen, in den Dienststellen der Bundeswehr und des
@@ -96,17 +100,20 @@ demokratischen und sozialen Rechtsstaat vorbereitet.
 
 
 ### § 3 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000500000)
 
 Der Vorbereitungsdienst dauert in der Regel 18 Monate.
 
 
 ### § 4 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000600000)
 
 Erholungsurlaub soll nur während der praktischen Ausbildung (§ 28)
 gewährt werden.
 
 
 ### § 5 Einstellungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000700000)
 
 (1) Einstellungsbehörden sind das Bundesamt für das Personalmanagement
 der Bundeswehr und der Bundesnachrichtendienst.
@@ -123,6 +130,7 @@ eine nachgeordnete Behörde übertragen.
 
 
 ### § 6 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000800000)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse oder Fähigkeiten einschränken, werden auf
@@ -154,9 +162,11 @@ Anforderungen herabgesetzt werden.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNG000200000)
 
 
 ### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE000900000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheiden die
 Einstellungsbehörden auf der Grundlage eines Auswahlverfahrens. In dem
@@ -182,6 +192,7 @@ zurückgesandt.
 
 
 ### § 8 Anforderungen im Auswahlverfahren; Auswahlinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001000000)
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen
 und Bewerber die Anforderungen an ihre Eignung und Befähigung
@@ -212,6 +223,7 @@ unterstützt werden.
 
 
 ### § 9 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001100000)
 
 (1) Für das Auswahlverfahren richten die Einstellungsbehörden eine
 Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen
@@ -243,6 +255,7 @@ nicht stimmberechtigt.
 
 
 ### § 10 Ergänzende Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001200000)
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -279,12 +292,14 @@ Ministerialblatt veröffentlicht.
 
 
 ### § 11 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001300000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 12 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001400000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens dürfen höchstens vier
 der folgenden Auswahlinstrumente eingesetzt werden:
@@ -311,6 +326,7 @@ einen halben Arbeitstag.
 
 
 ### § 13 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001500000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
 den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
@@ -323,6 +339,7 @@ schriftlichen Teil teilgenommen haben.
 
 
 ### § 14 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001600000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens dürfen höchstens vier der
 folgenden Auswahlinstrumente eingesetzt werden:
@@ -358,6 +375,7 @@ Schwerbehindertenvertretung ausdrücklich ablehnen.
 
 
 ### § 15 Bewertung der Eignungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001700000)
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
 den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
@@ -372,6 +390,7 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
 ### § 16 Gesamtergebnis; Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001800000)
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
 Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
@@ -401,6 +420,7 @@ der Rangfolge vor anderen Bewerberinnen und Bewerbern geführt.
 
 
 ### § 17 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE001900000)
 
 (1) In den Vorbereitungsdienst für den gehobenen technischen Dienst
 der Fernmelde- und Elektronischen Aufklärung des Bundes kann
@@ -467,9 +487,11 @@ Satz 2 bis 4 entsprechend.
 
 
 ## Abschnitt 3 - Berufspraktische Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNG000300000)
 
 
 ### § 18 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002000000)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner
@@ -510,6 +532,7 @@ Ausbildungsbeauftragte oder den Ausbildungsbeauftragten regelmäßig
 
 
 ### § 19 Ausbildungsabschnitte der berufspraktischen Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002100000)
 
 (1) Die berufspraktische Studienzeit besteht aus den folgenden
 Ausbildungsabschnitten:
@@ -551,6 +574,7 @@ Kenntnisse hinausgehen.
 
 
 ### § 20 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002200000)
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit
 den Einstellungsbehörden einen Ausbildungsrahmenplan. Der
@@ -579,6 +603,7 @@ der Verteidigung im Benehmen mit dem Bundeskanzleramt.
 
 
 ### § 21 Rahmenlehrplan
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002300000)
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit
 den Einstellungsbehörden und dem Bildungszentrum der Bundeswehr einen
@@ -598,6 +623,7 @@ Bundeskanzleramt.
 
 
 ### § 22 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002400000)
 
 (1) Vor Beginn der Ausbildung erstellt die oder der
 Ausbildungsbeauftragte im Einvernehmen mit der jeweiligen
@@ -620,6 +646,7 @@ Ausbildungsplans.
 
 
 ### § 23 Lehrpläne; Durchführung der Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002500000)
 
 (1) Auf Grundlage des Rahmenlehrplans werden für die Lehrgänge nach
 § 19 Absatz 1 Nummer 1 bis 6 Lehrpläne erstellt.
@@ -663,6 +690,7 @@ Aufklärung des Bundes angepasst.
 
 
 ### § 24 Lehrgang „Technische Aufklärung I“
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002600000)
 
 Im Lehrgang „Technische Aufklärung I“ werden den Anwärterinnen und
 Anwärtern die allgemeinen und fachbezogenen Grundlagen der Fernmelde-
@@ -674,6 +702,7 @@ im Cyber- und Informationsraum vermittelt.
 
 
 ### § 25 Lehrgänge „Technische Aufklärung II Bundeswehr“ und „Technische Aufklärung II Bundesnachrichtendienst“
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002700000)
 
 (1) Die Lehrgänge ergänzen und vertiefen den Inhalt des Lehrgangs
 „Technische Aufklärung I“ sowie die in der praktischen Ausbildung
@@ -686,6 +715,7 @@ erworbenen Kenntnisse in der täglichen Arbeit anzuwenden.
 
 
 ### § 26 Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002800000)
 
 (1) Im Lehrgang „Rechtsgrundlagen in der Praxis für den gehobenen
 technischen Dienst der Fernmelde- und Elektronischen Aufklärung des
@@ -716,6 +746,7 @@ anzuwenden.
 
 
 ### § 27 Lehrgänge „Auswertung Technische Aufklärung Bundeswehr“ und „Auswertung Technische Aufklärung Bundesnachrichtendienst“
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE002900000)
 
 (1) Die Lehrgänge ergänzen und vertiefen den Inhalt der Lehrgänge nach
 den §§ 24 und 25 sowie die in der praktischen Ausbildung vermittelten
@@ -730,6 +761,7 @@ Bundesnachrichtendienst in der täglichen Arbeit sicher anzuwenden.
 
 
 ### § 28 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003000000)
 
 (1) In der praktischen Ausbildung werden die Anwärterinnen und
 Anwärter vertraut gemacht mit
@@ -767,9 +799,11 @@ den Anwärterinnen und Anwärtern nicht übertragen werden.
 
 
 ## Abschnitt 4 - Klausuren und Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNG000400000)
 
 
 ### § 29 Klausuren in den Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003100000)
 
 (1) Die Anwärterinnen und Anwärter schreiben jeweils eine Klausur in
 den Lehrgängen
@@ -801,6 +835,7 @@ Bearbeitungszeit von vier Zeitstunden zur Verfügung.
 
 
 ### § 30 Durchführung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003200000)
 
 (1) Jede Klausur ist mindestens eine Woche vor der Durchführung
 anzukündigen.
@@ -816,6 +851,7 @@ Klausuren geschrieben worden sein.
 
 
 ### § 31 Nachholen von Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003300000)
 
 (1) Können Anwärterinnen und Anwärter an einer Klausur nicht
 teilnehmen und sie nicht innerhalb des Lehrgangs nachholen, erhalten
@@ -828,6 +864,7 @@ sie als mit „ungenügend“ (0 Rangpunkte) bewertet.
 
 
 ### § 32 Zeugnis je Lehrgang
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003400000)
 
 Nach Beendigung jedes Lehrgangs stellt die jeweilige Ausbildungs- oder
 Lehreinrichtung der Anwärterin oder dem Anwärter ein Zeugnis aus, in
@@ -835,6 +872,7 @@ dem die Ergebnisse der Klausuren aufgeführt werden.
 
 
 ### § 33 Zusammenfassendes Zeugnis der Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003500000)
 
 (1) Nach Beendigung der Lehrgänge nach den §§ 24 bis 27 stellt die
 oder der Ausbildungsbeauftragte der Anwärterin oder dem Anwärter ein
@@ -850,6 +888,7 @@ Klausur einfach.
 
 
 ### § 34 Verhinderung, Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003600000)
 
 (1) Die §§ 53 und 54 gelten entsprechend.
 
@@ -859,6 +898,7 @@ beauftragte Stelle.
 
 
 ### § 35 Bewertungen während der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003700000)
 
 (1) Für jeden Praktikumsabschnitt, für den im Ausbildungsrahmenplan
 mindestens vier Wochen vorgesehen sind, erhalten die Anwärterinnen und
@@ -872,6 +912,7 @@ Bewertung schriftlich Stellung nehmen.
 
 
 ### § 36 Zusammenfassendes Zeugnis der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003800000)
 
 (1) Nach Beendigung der praktischen Ausbildung stellt die oder der
 Ausbildungsbeauftragte der Anwärterin oder dem Anwärter ein
@@ -883,9 +924,11 @@ Bewertungen und die Durchschnittsrangpunktzahl aufgeführt werden.
 
 
 ## Abschnitt 5 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNG000500000)
 
 
 ### § 37 Zweck und Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE003900000)
 
 (1) Die Anwärterinnen und Anwärter sollen nachweisen, dass sie das
 erforderliche Wissen und Fachkönnen erworben haben und fähig sind, die
@@ -896,12 +939,14 @@ Ausbildungsabschnitte auszurichten.
 
 
 ### § 38 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004000000)
 
 Zur Laufbahnprüfung ist zugelassen, wer die Ausbildung durchlaufen
 hat.
 
 
 ### § 39 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004100000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -915,6 +960,7 @@ Die Laufbahnprüfung besteht aus
 
 
 ### § 40 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004200000)
 
 (1) Beim Bildungszentrum der Bundeswehr wird ein Prüfungsamt
 eingerichtet.
@@ -938,6 +984,7 @@ eingerichtet.
 
 
 ### § 41 Einrichtung von Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004300000)
 
 (1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung
 mindestens eine Prüfungskommission ein.
@@ -952,6 +999,7 @@ dieses Teils der Prüfung beauftragen.
 
 
 ### § 42 Mitglieder der Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004400000)
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der
 schriftlichen Prüfung sind
@@ -1037,6 +1085,7 @@ Jahren bestellt. Wiederbestellung ist zulässig.
 
 
 ### § 43 Entscheidungen der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004500000)
 
 (1) Die Mitglieder der Prüfungskommissionen sind bei ihrer
 Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
@@ -1055,6 +1104,7 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 ### § 44 Nichtöffentlichkeit der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004600000)
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -1078,6 +1128,7 @@ Bundesministeriums der Verteidigung bleiben unberührt.
 
 
 ### § 45 Prüfungsort und Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004700000)
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen Prüfung und
 der mündlichen Prüfung fest und teilt sie den Anwärterinnen und
@@ -1088,6 +1139,7 @@ mündlichen Prüfung abgeschlossen sein.
 
 
 ### § 46 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004800000)
 
 (1) In der schriftlichen Prüfung sollen die Anwärterinnen und Anwärter
 zeigen, dass sie die Aufgaben im Bereich der Fernmelde- und
@@ -1126,6 +1178,7 @@ Prüfung unter Verschluss zu halten.
 
 
 ### § 47 Durchführung der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE004900000)
 
 (1) Die Klausuren werden unter Aufsicht geschrieben. Die
 Aufsichtführenden haben an jedem Prüfungstag ein Protokoll
@@ -1149,6 +1202,7 @@ der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
 
 ### § 48 Bewertung und Bestehen der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005000000)
 
 (1) Jede Klausur wird von zwei Mitgliedern der Prüfungskommission
 unabhängig voneinander nach § 55 bewertet. Die oder der Zweitprüfende
@@ -1176,6 +1230,7 @@ Rangpunkte, geteilt durch die Anzahl der Klausuren, ergibt.
 
 
 ### § 49 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005100000)
 
 (1) Zur mündlichen Prüfung wird zugelassen, wer die schriftliche
 Prüfung bestanden hat. Über die Zulassung entscheidet das Prüfungsamt
@@ -1192,6 +1247,7 @@ versehen.
 
 
 ### § 50 Gegenstand der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005200000)
 
 (1) Die mündliche Prüfung besteht aus einem Prüfungsgespräch.
 
@@ -1201,6 +1257,7 @@ Die Prüfungskommission wählt den Prüfungsstoff aus.
 
 
 ### § 51 Durchführung der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005300000)
 
 (1) Die mündliche Prüfung wird als Gruppenübung durchgeführt. In einer
 Gruppe sollen nicht mehr als vier Anwärterinnen und Anwärter geprüft
@@ -1220,6 +1277,7 @@ Anwärter hervorgehen.
 
 
 ### § 52 Bewertung und Bestehen der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005400000)
 
 (1) Das Prüfungsgespräch wird von der Prüfungskommission nach § 55 mit
 Rangpunkten bewertet. Die Prüfenden schlagen jeweils die Bewertung für
@@ -1239,6 +1297,7 @@ Ergebnisse mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
 
 ### § 53 Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005500000)
 
 (1) Sind Anwärterinnen und Anwärter an der Erbringung einer
 Prüfungsleistung ganz oder teilweise gehindert, so können sie beim
@@ -1261,6 +1320,7 @@ Rangpunkten bewertet.
 
 
 ### § 54 Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005600000)
 
 (1) Anwärterinnen oder Anwärtern, die bei der Laufbahnprüfung
 täuschen, eine Täuschung versuchen, an einer Täuschung oder einem
@@ -1308,6 +1368,7 @@ Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 55 Bewertungen der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005700000)
 
 (1) Die Leistungen werden wie folgt bewertet:
 
@@ -1447,6 +1508,7 @@ zwei Dezimalstellen ohne Rundung berechnet.
 
 
 ### § 56 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005800000)
 
 (1) Die Laufbahnprüfung kann bei Nichtbestehen einmal wiederholt
 werden. In begründeten Einzelfällen kann das Bundesministerium der
@@ -1466,6 +1528,7 @@ die bisherigen.
 
 
 ### § 57 Bestehen der Laufbahnprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE005900000)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -1520,6 +1583,7 @@ Verwaltungsdienstes des Bundes.
 
 
 ### § 58 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE006000000)
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
 Laufbahnprüfung bestanden haben, einen schriftlichen Bescheid über das
@@ -1554,6 +1618,7 @@ zurückzugeben.
 
 
 ### § 59 Mitteilung über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE006100000)
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen schriftlichen Bescheid über die nichtbestandene
@@ -1567,6 +1632,7 @@ anzugeben.
 
 
 ### § 60 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE006200000)
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -1601,9 +1667,11 @@ nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNG000600000)
 
 
 ### § 61 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE006300000)
 
 Für Anwärterinnen und Anwärter, die bis zum 30. September 2020 mit dem
 Vorbereitungsdienst für den gehobenen Dienst der Fernmelde- und
@@ -1616,6 +1684,7 @@ weiter anzuwenden.
 
 
 ### § 62 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/BJNR096200021.html#BJNR096200021BJNE006400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 2020 in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und

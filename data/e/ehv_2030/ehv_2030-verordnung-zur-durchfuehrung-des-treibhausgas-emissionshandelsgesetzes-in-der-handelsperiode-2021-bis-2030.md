@@ -33,6 +33,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -61,9 +62,11 @@ Es verordnen auf Grund
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000301130)
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Treibhausgas-Emissionshandelsgesetzes. Sie dient der Konkretisierung
@@ -74,6 +77,7 @@ zur Privilegierung von Kleinemittenten für die Handelsperiode 2021 bis
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000401130)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -147,9 +151,11 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 Emissionsberichterstattung
 
 ## Abschnitt 2 - (Zu § 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000200000)
 
 
 ### § 3 Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im stationären Bereich
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000501130)
 
 (1) Die Erfüllung der Nachhaltigkeitsanforderungen und der
 Anforderungen an die Treibhausgaseinsparung, die nach Artikel 38
@@ -222,6 +228,7 @@ ausgewiesen werden.
 
 
 ### § 3a Ausnahmen für den Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im stationären Bereich
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002800130)
 
 (1) Bis zum Ablauf des 31. Dezember 2023 darf der Anlagenbetreiber in
 der Berichterstattung für die Verbrennung von Biomasse-Brennstoffen
@@ -266,6 +273,7 @@ Zertifizierungssystem ausgestellt worden sein.
 
 
 ### § 4 Nachweis der Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen an die Treibhausgaseinsparung im Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000601130)
 
 Die Erfüllung der Nachhaltigkeitsanforderungen und der Anforderungen
 an die Treibhausgaseinsparung, die nach Artikel 54 Absatz 4 in
@@ -278,6 +286,7 @@ Nachhaltigkeitsverordnung erfolgen.
 
 
 ### § 5 Nachweisanforderungen für angewendete Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000700000)
 
 Soweit zur Bestimmung der Emissionen Berechnungsfaktoren verwendet
 werden, die auf Analysen basieren, gelten die Nachweisanforderungen in
@@ -287,9 +296,11 @@ Analysemethoden.
 Überwachung
 
 ## Abschnitt 3 - (Zu § 6 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000300000)
 
 
 ### § 6 Anpassung des Überwachungsplans bei nicht erheblichen Änderungen der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000800000)
 
 (1) Abweichend von § 6 Absatz 3 Satz 1 des Treibhausgas-
 Emissionshandelsgesetzes ist ein Betreiber bei folgenden nicht
@@ -326,9 +337,11 @@ in dem die Überwachung geändert wurde, zu übermitteln.
 Versteigerung von Berechtigungen
 
 ## Abschnitt 4 - (Zu § 8 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000400000)
 
 
 ### § 7 Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE000900000)
 
 (1) Anbieter der gemäß § 8 Absatz 1 Satz 1 des Treibhausgas-
 Emissionshandelsgesetzes zu versteigernden Berechtigungen ist das
@@ -345,9 +358,11 @@ Refinanzierungsbedarf des darauffolgenden Jahres anzurechnen.
 Zuteilung von Berechtigungen
 
 ## Abschnitt 5 - (Zu § 9 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000500000)
 
 
 ### § 8 Erhebung von Bezugsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001000000)
 
 Der Anlagenbetreiber ist verpflichtet, im Antrag auf kostenlose
 Zuteilung für Bestandsanlagen zusätzlich zu den Angaben, die nach der
@@ -387,6 +402,7 @@ EU-Zuteilungsverordnung gefordert sind, folgende Angaben zu machen:
 
 
 ### § 8a Mitteilung der nicht wesentlichen Änderungen am Plan zur Überwachungsmethodik
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002900130)
 
 Beabsichtigt ein Anlagenbetreiber am Plan zur Überwachungsmethodik
 Änderungen, die nicht wesentlich nach Artikel 9 Absatz 3 Satz 1 der
@@ -396,6 +412,7 @@ Zuteilungsverordnung – erst bis zum nächsten 31. März mitteilen.
 
 
 ### § 8b Mitteilung zur Einstellung des Betriebs einer Anlage
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE003000130)
 
 Sofern mindestens eine der in Artikel 26 der EU-Zuteilungsverordnung
 genannten Bedingungen für die Annahme erfüllt ist, dass der Betrieb
@@ -405,9 +422,11 @@ Bedingung vorlag.
 
 
 ## Abschnitt 5a - Einzelheiten zur Überwachung, Berichterstattung und Prüfung (Zu § 18 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG001100130)
 
 
 ### § 8c Berichterstattung über Emissionen von Flügen zwischen zwei Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE003100130)
 
 (1) Ab dem Berichtsjahr 2022 sind die Luftfahrzeugbetreiber –
 abweichend von Artikel 2 Absatz 3 der Delegierten Verordnung (EU)
@@ -431,6 +450,7 @@ Emissionshandelsgesetzes entsprechend.
 
 
 ### § 8d Einreichung eines Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE003200130)
 
 (1) Ein Luftfahrzeugbetreiber ist verpflichtet, unverzüglich einen
 Überwachungsplan bei der zuständigen Behörde einzureichen, wenn er
@@ -452,9 +472,11 @@ Treibhausgas-Emissionshandelsgesetzes eingereicht hat.
 Zertifizierung von Prüfstellen
 
 ## Abschnitt 6 - (Zu § 21 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000600000)
 
 
 ### § 9 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001100000)
 
 (1) Die im Handelsregister, Abteilung B des Amtsgerichts Bonn unter
 der Nummer 6946 eingetragene DAU-Deutsche Akkreditierungs- und
@@ -480,6 +502,7 @@ Entscheidung über den Widerspruch zuständig.
 
 
 ### § 10 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001200000)
 
 (1) Hinsichtlich der Anforderungen an die zu zertifizierenden
 Prüfstellen, die Zulassungsstelle und das Zertifizierungsverfahren
@@ -496,6 +519,7 @@ Artikel 37 Absatz 3 der Akkreditierungs- und Verifizierungsverordnung.
 
 
 ### § 11 Ausschluss von der Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001301116)
 
 (1) Von der Zertifizierung als Prüfstelle sind natürliche Personen
 ausgeschlossen, die
@@ -529,6 +553,7 @@ als Prüfstelle auf.
 
 
 ### § 12 Aufsicht über die Tätigkeit der Beliehenen
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001400000)
 
 (1) Die Aufsicht über die Beliehene erstreckt sich auf die
 Rechtmäßigkeit der Zertifizierungs- und Aufsichtstätigkeit und auf die
@@ -544,6 +569,7 @@ werden.
 
 
 ### § 13 Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001500000)
 
 (1) Die Beleihung endet mit dem Inkrafttreten einer Verordnung, durch
 die die Beleihung aufgehoben wird.
@@ -560,17 +586,21 @@ Ablauf der in Absatz 2 genannten Frist verpflichtet.
 Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle
 
 ## Abschnitt 7 - (Zu § 22 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000700000)
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001601000)
 
 
 Verfahren zur Feststellung einheitlicher Anlagen
 
 ## Abschnitt 8 - (Zu § 24 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000800000)
 
 
 ### § 15 Einheitliche Anlage
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001700000)
 
 (1) Auf Antrag des Betreibers stellt die zuständige Behörde fest, dass
 Anlagen nach Anhang 1 Teil 2 Nummer 1 bis 6 des Treibhausgas-
@@ -600,9 +630,11 @@ der Bildung einer solchen einheitlichen Anlage entgegenstehen.
 Kleinemittenten
 
 ## Abschnitt 9 - (Zu § 27 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG000900000)
 
 
 ### § 16 Befreiung von Kleinemittenten
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001801130)
 
 (1) Die zuständige Behörde befreit den Betreiber einer Anlage auf
 Antrag jeweils für die Dauer eines Zuteilungszeitraums nach Artikel 2
@@ -659,6 +691,7 @@ Treibhausgas-Emissionshandelsgesetzes.
 
 
 ### § 17 Form und Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE001900000)
 
 (1) Die Befreiung nach § 16 Absatz 1 setzt einen Antrag des Betreibers
 bei der zuständigen Behörde auf Befreiung für den jeweiligen
@@ -680,6 +713,7 @@ Bei verspätetem Antrag besteht kein Anspruch auf Befreiung.
 
 
 ### § 18 Gleichwertige Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002000000)
 
 (1) Während der Dauer der Befreiung nach § 16 Absatz 1 unterliegt der
 Betreiber entsprechend seiner nach § 16 Absatz 1 Nummer 2 getroffenen
@@ -701,6 +735,7 @@ gleichwertige Maßnahme nach Absatz 1 Nummer 2 nicht wählen.
 
 
 ### § 19 Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002101130)
 
 (1) Während der Dauer der Befreiung nach § 16 Absatz 1 hat der
 Betreiber für jedes Berichtsjahr einen Ausgleichsbetrag für ersparte
@@ -777,6 +812,7 @@ fließen in das Sondervermögen „Klima- und Transformationsfonds“.
 
 
 ### § 20 Selbstverpflichtung zu Emissionsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002201130)
 
 (1) Gegenstand der Selbstverpflichtung des Betreibers zu
 Emissionsminderungen der Anlage ist die Reduzierung der
@@ -829,6 +865,7 @@ und 5 bis 7 entsprechend.
 
 
 ### § 21 Erlöschen der Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002300000)
 
 Die Befreiung nach § 16 Absatz 1 erlischt, wenn die Anlage in einem
 Berichtsjahr 25 000 Tonnen Kohlendioxidäquivalent oder mehr emittiert.
@@ -838,6 +875,7 @@ Treibhausgas-Emissionshandelsgesetzes.
 
 
 ### § 22 Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002400000)
 
 (1) Die zuständige Behörde gibt im Rahmen des Antragsverfahrens
 folgende Informationen auf ihrer Internetseite bekannt:
@@ -864,6 +902,7 @@ Behörde auf ihrer Internetseite bekannt.
 
 
 ### § 23 Erleichterungen bei Überwachung und Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002500000)
 
 (1) Für die Dauer der Befreiung nach § 16 gilt die Pflicht zur
 Emissionsberichterstattung nach § 5 des Treibhausgas-
@@ -917,9 +956,11 @@ Durchführungsrechtsakt nach Artikel 10a Absatz 21 der Richtlinie
 
 
 ## Abschnitt 10 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNG001000000)
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2030/BJNR053800019.html#BJNR053800019BJNE002600000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

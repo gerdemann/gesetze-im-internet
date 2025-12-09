@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/fe_rwehrkr_nderl/BJNR013120975.html#BJNR013120975BJNE000100304)
 
 Die Delegiertenversammlung des Deutschen Feuerwehrverbandes hat am 11.
 Mai 1974 Änderungen der Stiftungsbestimmungen, der
@@ -33,6 +34,7 @@ werden vom Bundesminister des Innern im Bundesanzeiger veröffentlicht.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fe_rwehrkr_nderl/BJNR013120975.html#BJNR013120975BJNE000200304)
 
 Der Bundespräsident
 Der Bundesminister des Innern

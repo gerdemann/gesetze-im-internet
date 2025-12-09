@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Übersicht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE000900315)
 
 
 *    *   ERSTER ABSCHNITT
@@ -235,20 +236,24 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001000315)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000100315)
 
 
 
 ### Erster Titel - Sachliche Geltung des Strafgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000200315)
 
 
 
 #### Art 1 Geltung des Allgemeinen Teils
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001100315)
 
 (1) Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches
 gelten für das bei seinem Inkrafttreten bestehende und das zukünftige
@@ -262,10 +267,12 @@ derartige Vorschriften enthält.
 
 
 #### Art 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007305360)
 
 
 
 #### Art 1b Anwendbarkeit der Vorschriften des internationalen Strafrechts
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007400309)
 
 Soweit das deutsche Strafrecht auf im Ausland begangene Taten
 Anwendung findet und unterschiedliches Strafrecht im Geltungsbereich
@@ -274,6 +281,7 @@ dem Ort gelten, an welchem der Täter seine Lebensgrundlage hat.
 
 
 #### Art 2 Vorbehalte für das Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001200315)
 
 Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches lassen
 Vorschriften des Landesrechts unberührt, die bei einzelnen
@@ -290,6 +298,7 @@ landesrechtlichen Straftatbeständen
 
 
 #### Art 3 Zulässige Rechtsfolgen bei Straftaten nach Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001301123)
 
 (1) Vorschriften des Landesrechts dürfen bei Straftaten keine anderen
 Rechtsfolgen vorsehen als
@@ -320,6 +329,7 @@ androhen.
 
 
 #### Art 4 Verhältnis des Besonderen Teils zum Bundes- und Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001400315)
 
 (1) Die Vorschriften des Besonderen Teils des Strafgesetzbuches lassen
 die Strafvorschriften des Bundesrechts unberührt, soweit sie nicht
@@ -376,10 +386,12 @@ Landesrechts zum Schutz von Feld und Forst unberührt, die
 
 
 ### Zweiter Titel - Gemeinsame Vorschriften für Ordnungs- und Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000300315)
 
 
 
 #### Art 5 Bezeichnung der Rechtsnachteile
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001500315)
 
 In Vorschriften des Bundes- und des Landesrechts dürfen
 Rechtsnachteile, die nicht bei Straftaten angedroht werden, nicht als
@@ -388,6 +400,7 @@ werden.
 
 
 #### Art 6 Mindest- und Höchstmaß von Ordnungs- und Zwangsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001601377)
 
 (1) Droht das Bundesgesetz Ordnungsgeld oder Zwangsgeld an, ohne
 dessen Mindest- oder Höchstmaß zu bestimmen, so beträgt das Mindestmaß
@@ -400,6 +413,7 @@ Wochen. Die Ordnungshaft wird in diesem Fall nach Tagen bemessen.
 
 
 #### Art 7 Zahlungserleichterungen bei Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001700315)
 
 (1) Ist dem Betroffenen nach seinen wirtschaftlichen Verhältnissen
 nicht zuzumuten, das Ordnungsgeld sofort zu zahlen, so wird ihm eine
@@ -428,6 +442,7 @@ einer anderen Stelle die Vollstreckung obliegt.
 
 
 #### Art 8 Nachträgliche Entscheidungen über die Ordnungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001800315)
 
 (1) Kann das Ordnungsgeld nicht beigetrieben werden und ist die
 Festsetzung der für diesen Fall vorgesehenen Ordnungshaft
@@ -442,6 +457,7 @@ unbillige Härte wäre.
 
 
 #### Art 9 Verjährung von Ordnungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE001900315)
 
 (1) Die Verjährung schließt die Festsetzung von Ordnungsgeld und
 Ordnungshaft aus. Die Verjährungsfrist beträgt, soweit das Gesetz
@@ -469,10 +485,12 @@ Verjährung ruht, solange
 
 
 ## Zweiter Abschnitt - Allgemeine Anpassung von Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000400315)
 
 
 
 ### Art 10 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE002000315)
 
 (1) Die Vorschriften dieses Abschnitts gelten für die
 Strafvorschriften des Bundesrechts, soweit sie nicht durch Gesetz
@@ -483,6 +501,7 @@ Wehrstrafgesetzes und des Zivildienstgesetzes.
 
 
 ### Art 11 Freiheitsstrafdrohungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE002100315)
 
 Droht das Gesetz Freiheitsstrafe mit einem besonderen Mindestmaß an,
 das einen Monat oder weniger beträgt, so entfällt die Androhung dieses
@@ -490,6 +509,7 @@ Mindestmaßes.
 
 
 ### Art 12 Geldstrafdrohungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE002200315)
 
 (1) Droht das Gesetz neben Freiheitsstrafe ohne besonderes Mindestmaß
 wahlweise keine Geldstrafe an, so tritt neben die Freiheitsstrafe die
@@ -514,11 +534,13 @@ Androhung der Geldstrafe aus Absatz 1 ergibt.
 
 
 ### Art 13
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE002301377)
 
 (weggefallen)
 
 
 ### (XXXX) Art 14 bis 17
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE002400315)
 
 Artikel 14
 Polizeiaufsicht
@@ -542,18 +564,22 @@ Straftat auf eine Buße erkannt werden kann, treten sie außer Kraft.
 
 
 ## Dritter bis Fünfter Abschnitt - -
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000500315)
 
 
 
 ### (XXXX) Art 18 bis 287
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003101306)
 
 
 
 ## Sechster Abschnitt - Anpassung des Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000600315)
 
 
 
 ### Art 288 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003200315)
 
 Die Vorschriften dieses Abschnitts gelten für die Strafvorschriften
 des Landesrechts, soweit sie durch ein Landesgesetz nicht besonders
@@ -561,12 +587,14 @@ geändert werden.
 
 
 ### Art 289 Allgemeine Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003300315)
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie Rechtsfolgen
 androhen, die nach Artikel 3 nicht zulässig sind.
 
 
 ### Art 290 Geldstrafdrohungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003400315)
 
 (1) Auf Geldstrafe kann auch dann erkannt werden, wenn das Gesetz
 neben Freiheitsstrafe wahlweise keine Geldstrafe androht.
@@ -585,6 +613,7 @@ neben Freiheitsstrafe vorschreiben oder zulassen.
 
 
 ### Art 291 Rücknahme des Strafantrages, Buße zugunsten des Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003500315)
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie
 
@@ -599,6 +628,7 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie
 
 
 ### Art 292 Nicht mehr anwendbare Straf- und Bußgeldtatbestände
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003600315)
 
 (1) Straf- und Bußgeldvorschriften des Landesrechts, die eine im
 Strafgesetzbuch abschließend geregelte Materie zum Gegenstand haben,
@@ -609,10 +639,12 @@ sind nicht mehr anzuwenden, soweit sie nicht nach Artikel 4 Abs. 3 bis
 
 
 ## Siebenter Abschnitt - Ergänzende strafrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000700315)
 
 
 
 ### Art 293 Abwendung der Vollstreckung der Ersatzfreiheitsstrafe und Erbringung von Arbeitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE009400125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 Regelungen zu treffen, wonach die Vollstreckungsbehörde dem
@@ -644,6 +676,7 @@ entsprechenden Anwendung der genannten Vorschriften.
 
 
 ### Art 294 Gerichtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE003900315)
 
 Die Gerichtshilfe (§ 160 Abs. 3 Satz 2 der Strafprozeßordnung) gehört
 zum Geschäftsbereich der Landesjustizverwaltungen. Die Landesregierung
@@ -652,6 +685,7 @@ Sozialverwaltung bestimmen.
 
 
 ### Art 295 Aufsichtsstellen bei Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004000315)
 
 (1) Die Aufsichtsstellen (§ 68a des Strafgesetzbuches) gehören zum
 Geschäftsbereich der Landesjustizverwaltungen.
@@ -665,10 +699,12 @@ Aufsichtsstelle kann auch einem Richter übertragen werden.
 
 
 ### Art 296 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004101360)
 
 
 
 ### Art 297 Verbot der Prostitution
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004201305)
 
 (1) Die Landesregierung kann zum Schutz der Jugend oder des
 öffentlichen Anstandes
@@ -699,10 +735,12 @@ Zwecke der Ausübung der Prostitution (Kasernierungen) sind verboten.
 
 
 ## Achter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNG000800315)
 
 
 
 ### Art 298 Mindestmaß der Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004300315)
 
 (1) Eine Freiheitsstrafe unter einem Monat darf auch wegen solcher
 Taten nicht verhängt werden, die vor dem 1. Januar 1975 begangen
@@ -714,6 +752,7 @@ Tagessätzen.
 
 
 ### Art 299 Geldstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004400315)
 
 (1) Die Vorschriften des neuen Rechts über die Geldstrafe (§§ 40 bis
 43 des Strafgesetzbuches) gelten auch für die vor dem 1. Januar 1975
@@ -733,6 +772,7 @@ war.
 
 
 ### Art 300 Übertretungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004500315)
 
 (1) Auf die vor dem 1. Januar 1975 begangenen Taten, die nach
 bisherigem Recht Übertretungen waren und nach neuem Recht Vergehen
@@ -746,11 +786,13 @@ des Strafgesetzbuches außer Betracht.
 
 
 ### Art 301
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004601306)
 
 -
 
 
 ### Art 302 Anrechnung des Maßregelvollzugs auf die Strafe
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004700315)
 
 Ist vor dem 1. Januar 1975 die Unterbringung in einer Heil- oder
 Pflegeanstalt oder in einer Trinkerheilanstalt oder einer
@@ -760,6 +802,7 @@ die Zeit des Vollzuges der Maßregel auf die Strafe angerechnet.
 
 
 ### Art 303 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004800315)
 
 (1) Wegen einer Tat, die vor dem 1. Januar 1975 begangen worden ist,
 darf Führungsaufsicht nach § 68 Abs. 1 des Strafgesetzbuches nicht
@@ -771,6 +814,7 @@ des Strafgesetzbuches nicht ein.
 
 
 ### Art 304 Polizeiaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE004900315)
 
 Ist vor dem 1. Januar 1975 auf Zulässigkeit von Polizeiaufsicht
 erkannt worden, so verliert dieser Ausspruch seine Wirkung. Ist im
@@ -780,6 +824,7 @@ tilgen.
 
 
 ### Art 305 Berufsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005000315)
 
 Neben der Strafe, die wegen einer vor dem 1. Januar 1975 begangenen
 Tat verhängt wird, ordnet das Gericht das Berufsverbot nur an, wenn
@@ -790,6 +835,7 @@ in diesem Fall nicht für immer angeordnet werden.
 
 
 ### Art 306 Selbständige Anordnung von Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005100315)
 
 Die Vorschriften des neuen Rechts über die selbständige Anordnung von
 Maßregeln der Besserung und Sicherung (§ 71 des Strafgesetzbuches)
@@ -799,6 +845,7 @@ auch neben der Strafe nicht angeordnet werden darf.
 
 
 ### Art 307 Verfall
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005200315)
 
 (1) Für die Anordnung des Verfalls wegen einer Tat, die vor dem 1.
 Januar 1975 begangen worden ist und über die nach diesem Zeitpunkt
@@ -827,6 +874,7 @@ Betroffenen günstiger ist.
 
 
 ### Art 308 Strafantrag, Ermächtigung, Strafverlangen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005300315)
 
 (1) Die Vorschriften des neuen Rechts über Strafantrag, Ermächtigung
 und Strafverlangen (§§ 77 bis 77e, 194 des Strafgesetzbuches) gelten
@@ -849,6 +897,7 @@ Antrag verfolgbar, so endet die Antragsfrist frühestens am 31. März
 
 
 ### Art 309 Verfolgungs- und Vollstreckungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005400315)
 
 (1) Die Vorschriften des neuen Rechts über die Verfolgungs- und
 Vollstreckungsverjährung (§§ 78 bis 79b des Strafgesetzbuches, §§ 31
@@ -878,6 +927,7 @@ anzuwenden.
 
 
 ### Art 310 Bekanntgabe der Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005500315)
 
 Die Vorschriften des neuen Rechts über die gerichtliche Anordnung, daß
 eine Verurteilung öffentlich bekanntgemacht wird, gelten auch für
@@ -885,6 +935,7 @@ Taten, die vor dem 1. Januar 1975 begangen worden sind.
 
 
 ### Art 311 Verletzung von Privatgeheimnissen durch Amtsträger und besonders Verpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005600315)
 
 (1) Soweit das Offenbaren oder Verwerten eines fremden Geheimnisses,
 namentlich eines Betriebs- oder Geschäftsgeheimnisses, durch Personen,
@@ -915,6 +966,7 @@ sie im übrigen für den Täter günstiger sind.
 
 
 ### Art 312 Gerichtsverfassung und Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005700315)
 
 (1) Soweit sich auf Grund der Vorschriften dieses Gesetzes die
 sachliche Zuständigkeit der Gerichte ändert, gilt dies für gerichtlich
@@ -970,6 +1022,7 @@ erachtet.
 
 
 ### Art 313 Noch nicht vollstreckte Strafen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005800315)
 
 (1) Rechtskräftig verhängte Strafen wegen solcher Taten, die nach
 neuem Recht nicht mehr strafbar und auch nicht mit Geldbuße bedroht
@@ -1019,6 +1072,7 @@ sinngemäß.
 
 
 ### Art 314 Überleitung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE005900315)
 
 (1) Eine vor dem 1. Januar 1975 verhängte und noch nicht oder erst zum
 Teil vollzogene Unterbringung in einer Heil- oder Pflegeanstalt wird
@@ -1051,6 +1105,7 @@ diesem Zeitpunkt noch drei Monate fortgesetzt werden kann.
 
 
 ### Art 315 Geltung des Strafrechts für in der Deutschen Demokratischen Republik begangene Taten
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007501377)
 
 (1) Auf vor dem Wirksamwerden des Beitritts in der Deutschen
 Demokratischen Republik begangene Taten findet § 2 des
@@ -1084,6 +1139,7 @@ Vollstreckungs- und Verfolgungsverjährung für in der Deutschen
 Demokratischen Republik verfolgte und abgeurteilte Taten;
 
 ### Art 315a Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007604377)
 
 (1) Soweit die Verjährung der Verfolgung oder der Vollstreckung nach
 dem Recht der Deutschen Demokratischen Republik bis zum Wirksamwerden
@@ -1121,6 +1177,7 @@ Oktober 1990 außer Ansatz. In dieser Zeit hat die Verjährung geruht.
 
 
 ### Art 315b Strafantrag bei in der Deutschen Demokratischen Republik begangenen Taten
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007700309)
 
 Die Vorschriften des Strafgesetzbuches über den Strafantrag gelten
 auch für die vor dem Wirksamwerden des Beitritts in der Deutschen
@@ -1136,6 +1193,7 @@ so endet die Antragsfrist frühestens am 31. Dezember 1990.
 
 
 ### Art 315c Anpassung der Strafdrohungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007801377)
 
 Soweit Straftatbestände der Deutschen Demokratischen Republik
 fortgelten, treten an die Stelle der bisherigen Strafdrohungen die im
@@ -1147,6 +1205,7 @@ dreihundertsechzig Tagessätze verhängt werden.
 
 
 ### Art 316 Übergangsvorschrift zum Neunten Strafrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007900377)
 
 (1) § 66 Abs. 2 und § 67 Abs. 1 des Strafgesetzbuches in der Fassung
 des Artikels 1 des Neunten Strafrechtsänderungsgesetzes vom 4. August
@@ -1161,6 +1220,7 @@ unberührt.
 
 
 ### Art 316a Übergangsvorschrift zum Sechzehnten Strafrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008000377)
 
 (1) § 78 Abs. 2 des Strafgesetzbuches in der Fassung des Artikels 1
 des Sechzehnten Strafrechtsänderungsgesetzes vom 16. Juli 1979 (BGBl.
@@ -1174,6 +1234,7 @@ unberührt.
 
 
 ### Art 316b Übergangsvorschrift zum Dreiundzwanzigsten Strafrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006102377)
 
 (1) § 67 Abs. 4 und § 67d Abs. 5 des Strafgesetzbuchs finden keine
 Anwendung auf Unterbringungen, die vor dem 1. Mai 1986 angeordnet
@@ -1188,6 +1249,7 @@ als Gesamtstrafe erkannt worden wäre.
 
 
 ### Art 316c Übergangsvorschrift zum Dreißigsten Strafrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008100377)
 
 § 78b Abs. 1 des Strafgesetzbuches in der Fassung des Artikels 1 des
 Dreißigsten Strafrechtsänderungsgesetzes vom 23. Juni 1994 (BGBl. I S.
@@ -1197,6 +1259,7 @@ denn, dass deren Verfolgung zu diesem Zeitpunkt bereits verjährt ist.
 
 
 ### Art 316d Übergangsvorschrift zum Dreiundvierzigsten Strafrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008200140)
 
 § 46b des Strafgesetzbuches und § 31 des Betäubungsmittelgesetzes in
 der Fassung des Artikels 2 des Dreiundvierzigsten
@@ -1206,6 +1269,7 @@ Eröffnung des Hauptverfahrens beschlossen worden ist.
 
 
 ### Art 316e Übergangsvorschrift zum Gesetz zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008303377)
 
 (1) Die Vorschriften über die Sicherungsverwahrung in der Fassung des
 Gesetzes zur Neuordnung des Rechts der Sicherungsverwahrung und zu
@@ -1255,6 +1319,7 @@ angekommen wäre.
 
 
 ### Art 316f Übergangsvorschrift zum Gesetz zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008400377)
 
 (1) Die bisherigen Vorschriften über die Sicherungsverwahrung sind in
 der ab dem 1. Juni 2013 geltenden Fassung anzuwenden, wenn die Tat
@@ -1299,6 +1364,7 @@ wenn die Freiheitsstrafe zu diesem Zeitpunkt bereits vollzogen wird.
 
 
 ### Art 316g Übergangsvorschrift zum Gesetz zur Verbesserung des Schutzes der sexuellen Selbstbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008500123)
 
 Als Straftat im Sinne von § 66 Absatz 3 Satz 1 des Strafgesetzbuches
 in der Fassung des Gesetzes zur Verbesserung des Schutzes der
@@ -1308,6 +1374,7 @@ der bis zum 9. November 2016 geltenden Fassung.
 
 
 ### Art 316h Übergangsvorschrift zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008600123)
 
 Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes
 des Tatertrages wegen einer Tat, die vor dem 1. Juli 2017 begangen
@@ -1324,6 +1391,7 @@ Verfalls von Wertersatz ergangen ist.
 
 
 ### Art 316i Übergangsvorschrift zum Dreiundfünfzigsten Gesetz zur Änderung des Strafgesetzbuches – Ausweitung des Maßregelrechts bei extremistischen Straftätern
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008700123)
 
 § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der Fassung des
 Dreiundfünfzigsten Gesetzes zur Änderung des Strafgesetzbuches vom 11.
@@ -1340,6 +1408,7 @@ Artikel 316g bleibt unberührt.
 
 
 ### Art 316j Übergangsvorschrift zum Jahressteuergesetz 2020
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008800360)
 
 Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes
 des Tatertrages wegen einer Tat, die vor dem 29. Dezember 2020
@@ -1365,6 +1434,7 @@ anzuwenden, wenn
 
 
 ### Art 316k Übergangsvorschrift zum Gesetz zur Verbesserung der strafrechtlichen Bekämpfung der Geldwäsche
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE008901360)
 
 Für die Einziehung von Gegenständen, die nach dem 17. März 2021
 sichergestellt worden sind, gilt abweichend von § 2 Absatz 5 des
@@ -1374,6 +1444,7 @@ bisherige Recht.
 
 
 ### Art 316l Übergangsvorschrift zum Gesetz zur Bekämpfung sexualisierter Gewalt gegen Kinder
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE009000360)
 
 § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der am 1. Juli 2021
 geltenden Fassung, auch in Verbindung mit § 66 Absatz 3 Satz 2, § 66a
@@ -1389,6 +1460,7 @@ Die Artikel 316g und 316i bleiben unberührt.
 
 
 ### Art 316m Übergangsvorschrift zum Gesetz zur Änderung des Anti-Doping-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE009100360)
 
 § 4a des Anti-Doping-Gesetzes in der Fassung des Artikels 1 des
 Gesetzes zur Änderung des Anti-Doping-Gesetzes vom 12. August 2021
@@ -1398,6 +1470,7 @@ ist.
 
 
 ### Art 316n Übergangsvorschrift zum Gesetz zur Änderung des Strafgesetzbuches – Aufhebung des Verbots der Werbung für den Schwangerschaftsabbruch (§ 219a StGB), zur Änderung des Heilmittelwerbegesetzes, zur Änderung des Schwangerschaftskonfliktgesetzes, zur Änderung des Einführungsgesetzes zum Strafgesetzbuch und zur Änderung des Gesetzes zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE009200360)
 
 (1) Strafgerichtliche Urteile, die aufgrund der folgenden Vorschriften
 nach dem 3. Oktober 1990 ergangen sind, werden aufgehoben:
@@ -1433,6 +1506,7 @@ liegen, werden eingestellt.
 
 
 ### Art 316o Übergangsvorschrift zum Gesetz zur Überarbeitung des Sanktionenrechts – Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE009301125)
 
 (1) Für die Vollstreckung von vor dem 1. Oktober 2023 rechtskräftig
 angeordneten Unterbringungen nach § 63 oder § 64 des Strafgesetzbuches
@@ -1446,6 +1520,7 @@ Artikel 313 Absatz 2 gilt entsprechend.
 
 
 ### Art 316p Noch nicht vollstreckte Strafen im Zusammenhang mit Cannabis nach dem Betäubungsmittelgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE009500125)
 
 Im Hinblick auf vor dem 1. April 2024 verhängte Strafen nach dem
 Betäubungsmittelgesetz, die nach dem Konsumcannabisgesetz oder dem
@@ -1454,6 +1529,7 @@ Geldbuße bedroht sind, ist Artikel 313 entsprechend anzuwenden.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006200315)
 
 (1) Die bei Inkrafttreten des neuen Rechts schwebenden Verfahren wegen
 einer Zuwiderhandlung, die nach neuem Recht nur noch mit Geldbuße
@@ -1484,6 +1560,7 @@ wird, zurückverweisen.
 
 
 ### Art 318 Zuwiderhandlungen nach den Gesetzen auf dem Gebiet der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006300315)
 
 (1) Auf die vor dem 1. Januar 1975 begangenen Zuwiderhandlungen nach
 den Gesetzen auf dem Gebiet der Sozialversicherung, die nach
@@ -1499,6 +1576,7 @@ anzuwenden.
 
 
 ### Art 319 Anwendung des bisherigen Kostenrechts
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006400315)
 
 In Straf- und Bußgeldsachen werden Gebühren nach dem bisherigen Recht
 erhoben, wenn die über die Kosten ergangene Entscheidung vor dem 1.
@@ -1506,15 +1584,18 @@ Januar 1975 rechtskräftig geworden ist.
 
 
 ### Art 320
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006501377)
 
 (weggefallen)
 
 
 ### Art 321 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006602360)
 
 
 
 ### Art 322 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006700315)
 
 Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die
 durch dieses Gesetz geändert werden, treten an deren Stelle die
@@ -1522,11 +1603,13 @@ geänderten Vorschriften.
 
 
 ### Art 323
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE006800315)
 
 -
 
 
 ### Art 324 Sonderregelung für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007000315)
 
 (1) Artikel 18 II Nr. 3, soweit diese Nummer sich auf § 5 Nr. 5
 bezieht, Artikel 19 Nr. 5 Buchstabe b, Nr. 6 bis 9, 12, 34 bis 41,
@@ -1569,11 +1652,13 @@ Berlin die nachstehend bezeichneten Besonderheiten:
 
 
 ### Art 325
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007102377)
 
 (weggefallen)
 
 
 ### Art 326 Inkrafttreten, Übergangsfassungen
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE007201306)
 
 (1) Dieses Gesetz tritt am 1. Januar 1975 in Kraft, soweit nichts
 anderes bestimmt ist.
@@ -1601,6 +1686,7 @@ Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III
 (BGBl. II 1990, 889, 957)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/stgbeg/BJNR004690974.html#BJNR004690974BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

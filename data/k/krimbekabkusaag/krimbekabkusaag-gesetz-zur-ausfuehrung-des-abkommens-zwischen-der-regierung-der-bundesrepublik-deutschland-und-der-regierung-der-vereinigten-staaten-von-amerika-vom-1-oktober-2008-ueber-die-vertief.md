@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1 Bestimmung der nationalen Kontaktstelle
+[Direktlink](https://www.gesetze-im-internet.de/krimbekabkusaag/BJNR299810009.html#BJNR299810009BJNE000200000)
 
 Nationale Kontaktstelle nach Artikel 6 Abs. 1, Artikel 9 Abs. 1 und
 Artikel 10 Abs. 7 des Abkommens zwischen der Regierung der
@@ -33,6 +34,7 @@ bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
 
 
 ## § 2 Datenschutzrechtliche Verantwortung für den automatisierten Datenabruf
+[Direktlink](https://www.gesetze-im-internet.de/krimbekabkusaag/BJNR299810009.html#BJNR299810009BJNE000300000)
 
 Die Verantwortung für die Zulässigkeit eines vom Bundeskriminalamt als
 nationaler Kontaktstelle durchgeführten automatisierten Abrufs nach
@@ -42,6 +44,7 @@ Durchführung des Abrufs ersucht hat.
 
 
 ## § 3 Zustimmung zur zweckändernden Verwendung und zur Weitergabe von Daten an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/krimbekabkusaag/BJNR299810009.html#BJNR299810009BJNE000401311)
 
 (1) Über die Erteilung der Zustimmung nach Artikel 13 Abs. 1 Buchstabe
 d und Abs. 2 des Abkommens vom 1. Oktober 2008 entscheidet das
@@ -58,6 +61,7 @@ mit dieser Stelle.
 
 
 ## § 4 Automatisierter Abruf von DNA-Identifizierungsmustern
+[Direktlink](https://www.gesetze-im-internet.de/krimbekabkusaag/BJNR299810009.html#BJNR299810009BJNE000500000)
 
 DNA-Identifizierungsmuster dürfen über die Vorschriften des
 Bundeskriminalamtgesetzes hinaus auch für einen automatisierten Abruf
@@ -65,6 +69,7 @@ nach Artikel 7 des Abkommens vom 1. Oktober 2008 verwendet werden.
 
 
 ## § 5 Rechte des Betroffenen auf Geltendmachung von Auskunfts-, Berichtigungs-, Sperrungs- und Löschungsansprüchen gegenüber den Vereinigten Staaten von Amerika durch das Bundeskriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/krimbekabkusaag/BJNR299810009.html#BJNR299810009BJNE000600000)
 
 (1) Auf Antrag des Betroffenen und bei Nachweis seiner Identität macht
 die Bundesrepublik Deutschland, vertreten durch das Bundeskriminalamt,

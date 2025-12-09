@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Teil I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000101307)
 
 
 
 ### § 1 Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE001201307)
 
 (1) Diese Verordnung ist anzuwenden, wenn
 
@@ -60,17 +62,21 @@ vorausgesetzt ist.
 
 
 ### (XXXX) §§ 1a bis 1d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE001301307)
 
 
 ## Teil II - Wirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000201307)
 
 
 
 ### Erster Abschnitt - Gegenstand, Gliederung und Aufstellung der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000301307)
 
 
 
 #### § 2 Gegenstand der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE001702307)
 
 (1) Die Wirtschaftlichkeit von Wohnraum wird durch eine Berechnung
 (Wirtschaftlichkeitsberechnung) ermittelt. In ihr sind die laufenden
@@ -155,6 +161,7 @@ wäre.
 
 
 #### § 3 Gliederung der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE001801307)
 
 Die Wirtschaftlichkeitsberechnung muß enthalten
 
@@ -174,6 +181,7 @@ Die Wirtschaftlichkeitsberechnung muß enthalten
 
 
 #### § 4 Maßgebende Verhältnisse für die Aufstellung der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE001901307)
 
 (1) Ist im öffentlich geförderten sozialen Wohnungsbau der Bewilligung
 der öffentlichen Mittel eine Wirtschaftlichkeitsberechnung zugrunde zu
@@ -207,6 +215,7 @@ Bezugsfertigkeit aufzustellen.
 
 
 #### § 4a Berücksichtigung von Änderungen bei Aufstellung der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002002307)
 
 (1) Ist im öffentlich geförderten sozialen Wohnungsbau der Bewilligung
 der öffentlichen Mittel eine Wirtschaftlichkeitsberechnung zugrunde
@@ -273,6 +282,7 @@ nach § 4 maßgebend.
 
 
 #### § 4b Berechnung für steuerbegünstigten Wohnraum, der mit Aufwendungszuschüssen oder Aufwendungsdarlehen gefördert ist
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002101307)
 
 (1) Ist die Wirtschaftlichkeit für steuerbegünstigte Wohnungen, die
 mit Aufwendungszuschüssen oder Aufwendungsdarlehen nach § 88 des
@@ -289,6 +299,7 @@ den Maßgaben aus § 6 Abs. 1 Satz 4 und § 20 Abs. 3 anzuwenden.
 
 
 #### § 4c Berechnung des angemessenen Kaufpreises aus den Gesamtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002201307)
 
 Ist in Fällen des § 1 Abs. 1 Nr. 1 oder Nr. 3 der angemessene
 Kaufpreis zu berechnen, so sind die Vorschriften der §§ 4 und 4a bei
@@ -302,10 +313,12 @@ den §§ 5 bis 11a zu ermitteln.
 
 
 ### Zweiter Abschnitt - Berechnung der Gesamtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000401307)
 
 
 
 #### § 5 Gliederung der Gesamtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002301307)
 
 (1) Gesamtkosten sind die Kosten des Baugrundstücks und die Baukosten.
 
@@ -361,6 +374,7 @@ beigefügte Anlage 1 "Aufstellung der Gesamtkosten" zugrunde zu legen.
 
 
 #### § 6 Kosten des Baugrundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002402307)
 
 (1) Als Wert des Baugrundstücks darf höchstens angesetzt werden,
 
@@ -441,6 +455,7 @@ Erschließungskosten höchstens angesetzt werden
 
 
 #### § 7 Baukosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002501307)
 
 (1) Baukosten dürfen nur angesetzt werden, soweit sie tatsächlich
 entstehen oder mit ihrem Entstehen sicher gerechnet werden kann und
@@ -477,6 +492,7 @@ Abschnitt angesetzt werden.
 
 
 #### § 8 Baunebenkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002603320)
 
 (1) Auf die Ansätze für die Kosten der Architekten, Ingenieure und
 anderer Sonderfachleute, die Kosten der Verwaltungsleistungen bei
@@ -644,6 +660,7 @@ anzuwenden. § 6 Abs. 1 Satz 3 bleibt unberührt.
 
 
 #### § 9 Sach- und Arbeitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002701307)
 
 (1) Der Wert der Sach- und Arbeitsleistungen des Bauherrn, vor allem
 der Wert der Selbsthilfe, darf bei den Gesamtkosten mit dem Betrage
@@ -668,6 +685,7 @@ Tätigkeit oder auf Grund seines Berufes erbringt.
 
 
 #### § 10 Leistungen gegen Renten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002801307)
 
 (1) Sind als Entgelt für eine der Vorbereitung oder Durchführung des
 Bauvorhabens dienende Leistung eines Dritten wiederkehrende Leistungen
@@ -688,6 +706,7 @@ Gesamtkosten angesetzt werden,
 
 
 #### § 11 Änderung der Gesamtkosten, bauliche Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE002903310)
 
 (1) Haben sich die Gesamtkosten geändert
 
@@ -779,6 +798,7 @@ zugestimmt hat. Die Zustimmung gilt als erteilt, wenn Mittel aus
 
 
 #### § 11a Nicht feststellbare Gesamtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003001307)
 
 Sind die Bau-, Erwerbs- oder Erschließungskosten nach § 6 Abs. 4 und
 5, den §§ 7 bis 11 ganz oder teilweise nicht oder nur mit
@@ -792,10 +812,12 @@ zugrunde zu legen.
 
 
 ### Dritter Abschnitt - Finanzierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000501307)
 
 
 
 #### § 12 Inhalt des Finanzierungsplanes
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003102307)
 
 (1) Im Finanzierungsplan sind die Mittel auszuweisen, die zur Deckung
 der in der Wirtschaftlichkeitsberechnung angesetzten Gesamtkosten
@@ -866,6 +888,7 @@ auf Hauptentschädigung unanfechtbar geworden ist.
 
 
 #### § 13 Fremdmittel
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003201307)
 
 (1) Fremdmittel sind
 
@@ -901,6 +924,7 @@ ist.
 
 
 #### § 14 Verlorene Baukostenzuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003302307)
 
 Verlorene Baukostenzuschüsse sind Geld-, Sach- und Arbeitsleistungen
 an den Bauherrn, die zur Deckung der Gesamtkosten dienen und erbracht
@@ -915,6 +939,7 @@ gewährt werden.
 
 
 #### § 15 Eigenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003401307)
 
 (1) Eigenleistungen sind die Leistungen des Bauherrn, die zur Deckung
 der Gesamtkosten dienen, namentlich
@@ -956,6 +981,7 @@ ausgewiesen sind.
 
 
 #### § 16 Ersatz der Eigenleistung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003501307)
 
 (1) Im öffentlich geförderten sozialen Wohnungsbau sind von der
 Bewilligungsstelle, soweit der Bauherr nichts anderes beantragt, als
@@ -1004,15 +1030,18 @@ oder verlorene Baukostenzuschüsse.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003601307)
 
 (weggefallen)
 
 
 ### Vierter Abschnitt - Laufende Aufwendungen und Erträge
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000601307)
 
 
 
 #### § 18 Laufende Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003703307)
 
 (1) Laufende Aufwendungen sind die Kapitalkosten und die
 Bewirtschaftungskosten. Zu den laufenden Aufwendungen gehören nicht
@@ -1057,6 +1086,7 @@ Tilgungsbeträge nicht angesetzt werden.
 
 
 #### § 19 Kapitalkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003801307)
 
 (1) Kapitalkosten sind die Kosten, die sich aus der Inanspruchnahme
 der im Finanzierungsplan ausgewiesenen Finanzierungsmittel ergeben,
@@ -1080,6 +1110,7 @@ nicht vor dem Entstehen dieser Gesamtkosten angesetzt werden.
 
 
 #### § 20 Eigenkapitalkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE003901307)
 
 (1) Eigenkapitalkosten sind die Zinsen für die Eigenleistungen.
 
@@ -1109,6 +1140,7 @@ entsprechend Absatz 2 Satz 2.
 
 
 #### § 21 Fremdkapitalkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004001307)
 
 (1) Fremdkapitalkosten sind die Kapitalkosten, die sich aus der
 Inanspruchnahme der Fremdmittel ergeben, namentlich
@@ -1160,6 +1192,7 @@ nach § 5 Abs. 2 Satz 3, zugrunde zu legen.
 
 
 #### § 22 Zinsersatz bei erhöhten Tilgungen
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004101307)
 
 (1) Bei unverzinslichen Fremdmitteln, deren Tilgungssatz 1 vom Hundert
 übersteigt, dürfen Tilgungen als Kapitalkosten angesetzt werden
@@ -1207,6 +1240,7 @@ Mieterdarlehen darf nicht zugestimmt werden.
 
 
 #### § 23 Änderung der Kapitalkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004203310)
 
 (1) Hat sich der Zins- oder Tilgungssatz für ein Fremdmittel geändert
 
@@ -1286,6 +1320,7 @@ Anwendung des § 20 Abs. 3 angesetzt werden.
 
 
 #### § 23a Marktüblicher Zinssatz für erste Hypotheken
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004301307)
 
 (1) Der marktübliche Zinssatz für erste Hypotheken im Zeitpunkt nach §
 4 kann ermittelt werden
@@ -1309,6 +1344,7 @@ anderen Zeitpunkt als den nach § 4 festzustellen ist.
 
 
 #### § 24 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004401307)
 
 (1) Bewirtschaftungskosten sind die Kosten, die zur Bewirtschaftung
 des Gebäudes oder der Wirtschaftseinheit laufend erforderlich sind.
@@ -1345,6 +1381,7 @@ angemessen ist.
 
 
 #### § 25 Abschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004502307)
 
 (1) Abschreibung ist der auf jedes Jahr der Nutzung fallende Anteil
 der verbrauchsbedingten Wertminderung der Gebäude, Anlagen und
@@ -1426,6 +1463,7 @@ Wirtschaftlichkeitsberechnung enthaltenen Kosten
 
 
 #### § 26 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004605310)
 
 (1) Verwaltungskosten sind die Kosten der zur Verwaltung des Gebäudes
 oder der Wirtschaftseinheit erforderlichen Arbeitskräfte und
@@ -1455,6 +1493,7 @@ Verbraucherpreisindexes für Deutschland maßgeblich, die im Oktober
 
 
 #### § 27 Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004702310)
 
 (1) Betriebskosten sind die Kosten, die dem Eigentümer
 (Erbbauberechtigten) durch das Eigentum am Grundstück (Erbbaurecht)
@@ -1480,6 +1519,7 @@ werden.
 
 
 #### § 28 Instandhaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004806320)
 
 (1) Instandhaltungskosten sind die Kosten, die während der
 Nutzungsdauer zur Erhaltung des bestimmungsmäßigen Gebrauchs
@@ -1549,6 +1589,7 @@ vorstehenden Sätzen abgegolten.
 
 
 #### § 29 Mietausfallwagnis
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE004901307)
 
 Mietausfallwagnis ist das Wagnis einer Ertragsminderung, die durch
 uneinbringliche Rückstände von Mieten, Pachten, Vergütungen und
@@ -1562,6 +1603,7 @@ Dritten, gesichert ist, darf kein Mietausfallwagnis angesetzt werden.
 
 
 #### § 30 Änderung der Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005001307)
 
 (1) Haben sich die Verwaltungskosten oder die Instandhaltungskosten
 geändert
@@ -1608,6 +1650,7 @@ entsprechend.
 
 
 #### § 31 Erträge
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005102320)
 
 (1) Erträge sind die Einnahmen aus Miet- und Pachtverträgen sowie
 Vergütungen, die bei ordentlicher Bewirtschaftung des Gebäudes oder
@@ -1630,10 +1673,12 @@ berechnen.
 
 
 ### Fünfter Abschnitt - Besondere Arten der Wirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000701307)
 
 
 
 #### § 32 Voraussetzungen für besondere Arten der Wirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005203307)
 
 (1) Die Wirtschaftlichkeitsberechnung ist, vorbehaltlich des Absatzes
 3, als Teilwirtschaftlichkeitsberechnung aufzustellen, wenn das
@@ -1726,6 +1771,7 @@ späteren Wirtschaftlichkeitsberechnungen maßgebend.
 
 
 #### § 33 Teilwirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005301307)
 
 In der Teilwirtschaftlichkeitsberechnung ist die Gegenüberstellung der
 laufenden Aufwendungen und der Erträge auf den Teil des Gebäudes oder
@@ -1734,6 +1780,7 @@ den die Berechnung aufzustellen ist.
 
 
 #### § 34 Gesamtkosten in der Teilwirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005402307)
 
 (1) In der Teilwirtschaftlichkeitsberechnung sind nur die Gesamtkosten
 anzusetzen, die auf den Teil des Gebäudes oder der Wirtschaftseinheit
@@ -1776,6 +1823,7 @@ Grundstück für einen Anbau neu erworben worden ist.
 
 
 #### § 35 Finanzierungsmittel in der Teilwirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005501307)
 
 In der Teilwirtschaftlichkeitsberechnung sind zur Deckung der
 angesetzten anteiligen Gesamtkosten die Finanzierungsmittel, die nur
@@ -1786,6 +1834,7 @@ verteilen.
 
 
 #### § 36 Laufende Aufwendungen und Erträge in der Teilwirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005601307)
 
 (1) In der Teilwirtschaftlichkeitsberechnung sind die laufenden
 Aufwendungen anzusetzen, die für den Teil des Gebäudes oder der
@@ -1812,6 +1861,7 @@ ergeben.
 
 
 #### § 37 Gesamtwirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005701307)
 
 (1) In der Gesamtwirtschaftlichkeitsberechnung ist die
 Gegenüberstellung der laufenden Aufwendungen und der Erträge für das
@@ -1845,6 +1895,7 @@ Ansätze ganz oder teilweise verzichtet worden ist.
 
 
 #### § 38 Teilberechnungen der laufenden Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005801307)
 
 (1) Für die Teilberechnungen der laufenden Aufwendungen ist der in der
 Wirtschaftlichkeitsberechnung für den öffentlich geförderten Wohnraum
@@ -1894,6 +1945,7 @@ Falle nicht anzuwenden.
 
 
 #### § 39 Vereinfachte Wirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE005901307)
 
 (1) In der vereinfachten Wirtschaftlichkeitsberechnung ist die
 Ermittlung der laufenden Aufwendungen sowie die Gegenüberstellung der
@@ -1925,6 +1977,7 @@ Erhöhung der einzelnen laufenden Aufwendungen erkennbar werden.
 
 
 #### § 39a Zusatzberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006001307)
 
 (1) Ist bereits eine Wirtschaftlichkeitsberechnung aufgestellt worden
 und haben sich nach diesem Zeitpunkt laufende Aufwendungen geändert,
@@ -1966,10 +2019,12 @@ Absatz 3 Satz 2 aufzustellen.
 
 
 ## Teil III - Lastenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000801307)
 
 
 
 ### § 40 Lastenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006102307)
 
 (1) Die Belastung des Eigentümers eines Eigenheims, einer
 Kleinsiedlung oder einer eigengenutzten Eigentumswohnung oder des
@@ -1987,6 +2042,7 @@ anzuwenden.
 
 
 ### § 40a Aufstellung der Lastenberechnung durch den Bauherrn
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006201307)
 
 (1) Ist der Eigentümer der Bauherr, so kann er die Lastenberechnung
 auf Grund einer Wirtschaftlichkeitsberechnung aufstellen. In diesem
@@ -2047,6 +2103,7 @@ Kapitalkosten und Tilgungen zu berücksichtigen ist.
 
 
 ### § 40b Aufstellung der Lastenberechnung durch den Erwerber
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006301307)
 
 (1) Hat der Eigentümer das Gebäude oder die Wohnung auf Grund eines
 Veräußerungsvertrages gegen Entgelt erworben, so ist die
@@ -2075,6 +2132,7 @@ Lastenberechnung durch einen Bewerber nach § 40 Satz 2.
 
 
 ### § 40c Ermittlung der Belastung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006402320)
 
 (1) Die Belastung wird ermittelt
 
@@ -2111,6 +2169,7 @@ benutzten Flächen.
 
 
 ### § 40d Belastung aus dem Kapitaldienst
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006501307)
 
 (1) Zu der Belastung aus dem Kapitaldienst gehören
 
@@ -2173,6 +2232,7 @@ mehr zu entrichten sind, dürfen diese nicht angesetzt werden.
 
 
 ### § 41 Belastung aus der Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006605310)
 
 (1) Zu der Belastung aus der Bewirtschaftung gehören
 
@@ -2235,10 +2295,12 @@ dürfen als Betriebskosten außerdem angesetzt werden
 
 
 ## Teil IV - Wohnflächenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG000901307)
 
 
 
 ### § 42 Wohnfläche
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006702310)
 
 Ist die Wohnfläche bis zum 31. Dezember 2003 nach dieser Verordnung
 berechnet worden, bleibt es bei dieser Berechnung. Soweit in den in
@@ -2250,20 +2312,24 @@ anzuwenden.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006802310)
 
 (weggefallen)
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE006902310)
 
 (weggefallen)
 
 
 ## Teil V - Schluß- und Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNG001001307)
 
 
 
 ### § 45 Befugnisse des Bauherrn und seines Rechtsnachfolgers
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007001307)
 
 (1) Läßt diese Verordnung eine Wahl zwischen zwei oder mehreren
 Möglichkeiten zu oder setzt sie bei einer Berechnung einen Rahmen, so
@@ -2277,6 +2343,7 @@ vertreten.
 
 
 ### § 46 Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007102307)
 
 (1) Soweit bis zum 31. Oktober 1957 für den in § 1 Abs. 1 und § 1a
 Abs. 2 Nr. 2 und 3 bezeichneten Wohnraum Wirtschaftlichkeit oder
@@ -2300,16 +2367,19 @@ zum 29. August 1990 geltenden Fassung anzuwenden.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007201307)
 
 (weggefallen)
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007301307)
 
 (weggefallen)
 
 
 ### § 48a Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007401307)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 125 des Zweiten Wohnungsbaugesetzes, § 53 des Ersten
@@ -2319,17 +2389,20 @@ auch im Land Berlin.
 
 
 ### § 49 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007501307)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007601307)
 
 (Inkrafttreten)
 
 (zu § 5 Abs. 5)
 
 ### Anlage 1 Aufstellung der Gesamtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007701307)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 2198 - 2199
 Die Gesamtkosten bestehen aus:
@@ -2551,6 +2624,7 @@ Zu den Baukosten gehören:
 (zu den §§ 11a und 34 Abs. 1)
 
 ### Anlage 2 Berechnung des umbauten Raumes
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007801307)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 2200)
 Der umbaute Raum ist in
@@ -2640,6 +2714,7 @@ tiefer liegt als im Abschnitt 1.344 angegeben,
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/bvo_2/BJNR017190957.html#BJNR017190957BJNE007906310)
 
 (weggefallen)
 

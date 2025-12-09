@@ -20,10 +20,12 @@ Geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNG000100328)
 
 
 
 ### § 1 Sparanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000300328)
 
 (1) Sparanlagen im Sinne dieses Gesetzes sind
 
@@ -76,6 +78,7 @@ dem beauftragten Institut eingegangen ist.
 
 
 ### § 2 Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000400328)
 
 (1) Ein Anspruch auf Leistung gegen den Bund steht nur natürlichen
 Personen zu, zu deren Gunsten eine Sparanlage in Deutsche Mark
@@ -114,6 +117,7 @@ gebunden war.
 
 
 ### § 3 Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000500328)
 
 Ein Wechsel in der Person des Gläubigers zwischen dem 19. Dezember
 1958 und dem Ende der Übergangszeit schließt einen Anspruch nach
@@ -148,6 +152,7 @@ diesem Gesetz aus, es sei denn, daß der Wechsel beruht auf Erwerb
 
 
 ### § 4 Umwandlung einer Sparanlage
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000600328)
 
 Eine nach dem 19. Dezember 1958 begründete Sparanlage wird bei
 Anwendung des § 1 als Fortsetzung einer früheren Sparanlage des am
@@ -160,6 +165,7 @@ Monaten vom 19. Dezember 1958 an.
 
 
 ### § 5 Anspruch auf Leistung gegen den Bund
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000700328)
 
 (1) Der Berechtigte hat einen Anspruch auf Leistung gegen den Bund in
 Höhe des Unterschiedsbetrages zwischen der nach § 1 Abs. 2 Satz 1
@@ -172,6 +178,7 @@ vererblich.
 
 
 ### § 6 Ansprüche aus Lebensversicherungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000800328)
 
 (1) Bei Ansprüchen aus Lebensversicherungsverträgen (§ 1 Abs. 1 Nr. 4)
 ist zwecks Ermittlung der Sparanlage nach § 1 Abs. 2 Satz 1 von der
@@ -198,10 +205,12 @@ eingeräumt worden ist und wenn die Prämien der Lohnsteuer unterlagen.
 
 
 ## Zweiter Abschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNG000200328)
 
 
 
 ### § 7 Amtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE000900328)
 
 (1) Die Bearbeitung des Anspruchs gegen den Bund obliegt dem Institut.
 Institut ist
@@ -230,6 +239,7 @@ fest.
 
 
 ### § 8 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001000328)
 
 (1) Stellt das Institut den Anspruch nicht nach § 7 Abs. 2 fest oder
 liegt ein Umwandlungsfall (§ 4) vor, so wird die Leistung des Bundes
@@ -286,6 +296,7 @@ Berechtigten und dem Institut bekannt.
 
 
 ### § 9 Antragsverfahren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001100328)
 
 Ist ein Institut nach § 7 Abs. 1 nicht bestimmt worden, so findet § 8
 mit der Maßgabe entsprechende Anwendung, daß der Antrag bei der
@@ -293,6 +304,7 @@ Oberfinanzdirektion Saarbrücken zu stellen ist.
 
 
 ### § 10 Beweis im Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001200328)
 
 (1) Der Berechtigte hat im Antragsverfahren zu beweisen, daß die
 Voraussetzungen der §§ 1 bis 3 gegeben sind. In Umwandlungsfällen hat
@@ -308,6 +320,7 @@ zur Verschwiegenheit zu verpflichten.
 
 
 ### § 11 Ablehnende Entscheidung der Oberfinanzdirektion
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001300328)
 
 (1) Eine ablehnende Entscheidung der Oberfinanzdirektion Saarbrücken
 ergeht schriftlich und ist zu begründen. Sie muß eine
@@ -322,6 +335,7 @@ die Anfechtungsklage beim Verwaltungsgericht erheben.
 
 
 ### § 12 Gutschrift
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001400328)
 
 (1) In den Fällen des § 1 Abs. 1 Nr. 1 bis 3 hat das Institut den
 festgestellten Anspruch auf Leistung gegen den Bund durch Erteilung
@@ -343,12 +357,14 @@ nebst Zinsen nicht vor Fälligkeit der Sparanlage verlangen.
 
 
 ### § 13 Form der Gutschrift bei Spareinlagen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001500328)
 
 Beruht der Anspruch auf Leistung gegen den Bund auf einer Spareinlage,
 so wird die Gutschrift auf dem Sparkonto erteilt.
 
 
 ### § 14 Form der Gutschrift bei Bausparguthaben
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001600328)
 
 Beruht der Anspruch auf Leistung gegen den Bund auf einem
 Bausparguthaben, so wird die Gutschrift auf dem Bausparkonto erteilt.
@@ -357,6 +373,7 @@ der Bergarbeiter.
 
 
 ### § 15 Erfüllung bei Ansprüchen aus Lebensversicherungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001700328)
 
 (1) In den Fällen des § 1 Abs. 1 Nr. 4 hat das Institut den
 festgestellten Anspruch auf Leistung gegen den Bund nach Maßgabe eines
@@ -370,6 +387,7 @@ Bekanntgabe an den Berechtigten erlischt der Anspruch gegen den Bund.
 
 
 ### § 16 Erfüllung bei Ansprüchen aus Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001800328)
 
 (1) Ist in den Fällen des § 1 Abs. 1 Nr. 5 der Anspruch auf Leistung
 gegen den Bund durch das Institut oder nach § 8 Abs. 7 durch die
@@ -384,6 +402,7 @@ Saarbrücken durch Barzahlung.
 
 
 ### § 17 Erfüllung bei Ansprüchen aus Guthaben bei gemeinnützigen Wohnungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE001900328)
 
 In den Fällen des § 1 Abs. 1 Nr. 6 wird der durch die
 Oberfinanzdirektion Saarbrücken festgestellte Anspruch auf Leistung
@@ -394,6 +413,7 @@ sinngemäß.
 
 
 ### § 18 Deckung der Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002000328)
 
 (1) Das Institut hat in den Fällen des § 1 Abs. 1 Nr. 1 bis 3 und 5
 einen Anspruch gegen den Bund auf Deckung der Verbindlichkeiten, die
@@ -420,6 +440,7 @@ festgestellten Anspruches auf Deckung übersteigt, vom Ende der
 
 
 ### § 19 Zuteilung des Anspruchs auf Deckung
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002100328)
 
 (1) Anträge auf Zuteilung der Deckung sind in den Fällen des § 7 Abs.
 2 und des § 8 Abs. 6 von Kreditinstituten, von der Bausparkasse des
@@ -455,6 +476,7 @@ gemäß § 18 Abs. 3 Satz 2 durch das Institut.
 
 
 ### § 20 Zuteilung des Anspruchs auf Deckung in Antragsfällen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002200328)
 
 In den Fällen des § 8 Abs. 7 sind Anträge auf Zuteilung der Deckung an
 die Oberfinanzdirektion Saarbrücken zu richten. § 19 Abs. 2 bis 4 gilt
@@ -462,12 +484,14 @@ entsprechend.
 
 
 ### § 21 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002300328)
 
 Gebühren und Auslagen für das Verfahren bei den Instituten und bei der
 Oberfinanzdirektion Saarbrücken werden nicht erhoben.
 
 
 ### § 22 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002400328)
 
 (1) Die Institute erhalten vom Bund für jeden von ihnen festgestellten
 Anspruch auf Leistung eine Vergütung von einer Deutschen Mark. Bezieht
@@ -485,6 +509,7 @@ sinngemäß.
 
 
 ### § 23 Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002500328)
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
@@ -493,6 +518,7 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaarg/BJNR003670959.html#BJNR003670959BJNE002600328)
 
 Dieses Gesetz tritt mit dem Ende der Übergangszeit in Kraft.
 

@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000100302)
 
 
 
 ### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000200302)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000100302)
 
 (1) Für die Zwangsversteigerung und die Zwangsverwaltung eines
 Grundstücks ist als Vollstreckungsgericht das Amtsgericht zuständig,
@@ -42,6 +45,7 @@ können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000201307)
 
 (1) Ist das Grundstück in den Bezirken verschiedener Amtsgerichte
 belegen oder ist es mit Rücksicht auf die Grenzen der Bezirke ungewiß,
@@ -59,6 +63,7 @@ Kenntnis setzen.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000301301)
 
 Die Zustellungen erfolgen von Amts wegen. Sie können durch
 Einschreiben mit Rückschein erfolgen. Zum Nachweis der Zustellung
@@ -66,6 +71,7 @@ genügt der Rückschein.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000400302)
 
 Wohnt derjenige, welchem zugestellt werden soll, weder am Ort noch im
 Bezirk des Vollstreckungsgerichts, so kann die Zustellung durch
@@ -76,6 +82,7 @@ Gericht angezeigt ist. Die Postsendung muß mit der Bezeichnung
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000500302)
 
 Die Bestellung eines Zustellungsbevollmächtigten bei dem Grundbuchamt
 gilt auch für das Verfahren des Vollstreckungsgerichts, sofern sie
@@ -83,6 +90,7 @@ diesem bekannt geworden ist.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000602360)
 
 (1) Ist der Aufenthalt desjenigen, welchem zugestellt werden soll, und
 der Aufenthalt seines Zustellungsbevollmächtigten dem
@@ -104,6 +112,7 @@ angeordnet wird.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000700302)
 
 (1) An den Zustellungsvertreter erfolgen die Zustellungen, solange
 derjenige, welchem zugestellt werden soll, nicht ermittelt ist.
@@ -121,6 +130,7 @@ Rechtsverfolgung.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000800302)
 
 Die Vorschriften der §§ 4 bis 7 finden auf die an den Schuldner zu
 bewirkende Zustellung des Beschlusses, durch welchen die
@@ -129,6 +139,7 @@ zugelassen wird, keine Anwendung.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE000900302)
 
 In dem Verfahren gelten als Beteiligte, außer dem Gläubiger und dem
 Schuldner:
@@ -151,6 +162,7 @@ Schuldner:
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001004125)
 
 (1) Ein Recht auf Befriedigung aus dem Grundstück gewähren nach
 folgender Rangordnung, bei gleichem Rang nach dem Verhältnis ihrer
@@ -239,6 +251,7 @@ in sonst geeigneter Weise glaubhaft zu machen.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001100302)
 
 (1) Sind Ansprüche aus verschiedenen Rechten nach § 10 Nr. 4, 6 oder 8
 in derselben Klasse zu befriedigen, so ist für sie das Rangverhältnis
@@ -249,6 +262,7 @@ vor, für welchen die Beschlagnahme früher erfolgt ist.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001200302)
 
 Die Ansprüche aus einem und demselben Recht haben untereinander
 folgende Rangordnung:
@@ -267,6 +281,7 @@ folgende Rangordnung:
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001300302)
 
 (1) Laufende Beträge wiederkehrender Leistungen sind der letzte vor
 der Beschlagnahme fällig gewordene Betrag sowie die später fällig
@@ -290,26 +305,31 @@ Beschlagnahme als die erste.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001400302)
 
 Ansprüche von unbestimmtem Betrag gelten als aufschiebend bedingt
 durch die Feststellung des Betrags.
 
 
 ### Zweiter Titel - Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000300302)
 
 
 
 #### I. - Anordnung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000400302)
 
 
 
 ##### § 15
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001500302)
 
 Die Zwangsversteigerung eines Grundstücks wird von dem
 Vollstreckungsgericht auf Antrag angeordnet.
 
 
 ##### § 16
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001600302)
 
 (1) Der Antrag soll das Grundstück, den Eigentümer, den Anspruch und
 den vollstreckbaren Titel bezeichnen.
@@ -319,6 +339,7 @@ sind dem Antrag beizufügen.
 
 
 ##### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001700302)
 
 (1) Die Zwangsversteigerung darf nur angeordnet werden, wenn der
 Schuldner als Eigentümer des Grundstücks eingetragen oder wenn er Erbe
@@ -334,6 +355,7 @@ nicht bei dem Gericht offenkundig ist.
 
 
 ##### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001801301)
 
 Die Zwangsversteigerung mehrerer Grundstücke kann in demselben
 Verfahren erfolgen, wenn sie entweder wegen einer Forderung gegen
@@ -343,6 +365,7 @@ Eigentümer gesamtschuldnerisch haften, betrieben wird.
 
 
 ##### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE001900302)
 
 (1) Ordnet das Gericht die Zwangsversteigerung an, so hat es zugleich
 das Grundbuchamt um Eintragung dieser Anordnung in das Grundbuch zu
@@ -364,6 +387,7 @@ Grundbuchamt dem Gericht mitteilen.
 
 
 ##### § 20
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002000302)
 
 (1) Der Beschluß, durch welchen die Zwangsversteigerung angeordnet
 wird, gilt zugunsten des Gläubigers als Beschlagnahme des Grundstücks.
@@ -373,6 +397,7 @@ sich bei einem Grundstück die Hypothek erstreckt.
 
 
 ##### § 21
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002101301)
 
 (1) Die Beschlagnahme umfaßt land- und forstwirtschaftliche
 Erzeugnisse des Grundstücks sowie die Forderung aus einer Versicherung
@@ -388,6 +413,7 @@ Beschlagnahme nicht berührt.
 
 
 ##### § 22
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002200302)
 
 (1) Die Beschlagnahme des Grundstücks wird mit dem Zeitpunkt wirksam,
 in welchem der Beschluß, durch den die Zwangsversteigerung angeordnet
@@ -405,6 +431,7 @@ oder das Zahlungsverbot ihm zugestellt wird. Die Vorschriften des §
 
 
 ##### § 23
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002300302)
 
 (1) Die Beschlagnahme hat die Wirkung eines Veräußerungsverbots. Der
 Schuldner kann jedoch, wenn sich die Beschlagnahme auf bewegliche
@@ -422,12 +449,14 @@ Versteigerungsvermerk eingetragen ist.
 
 
 ##### § 24
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002400302)
 
 Die Verwaltung und Benutzung des Grundstücks verbleibt dem Schuldner
 nur innerhalb der Grenzen einer ordnungsmäßigen Wirtschaft.
 
 
 ##### § 25
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002500302)
 
 Ist zu besorgen, daß durch das Verhalten des Schuldners die
 ordnungsmäßige Wirtschaft gefährdet wird, so hat das
@@ -438,6 +467,7 @@ Geldbetrag nicht vorgeschossen wird.
 
 
 ##### § 26
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002600302)
 
 Ist die Zwangsversteigerung wegen des Anspruchs aus einem
 eingetragenen Recht angeordnet, so hat eine nach der Beschlagnahme
@@ -446,6 +476,7 @@ gegen den Schuldner keinen Einfluß.
 
 
 ##### § 27
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002700302)
 
 (1) Wird nach der Anordnung der Zwangsversteigerung ein weiterer
 Antrag auf Zwangsversteigerung des Grundstücks gestellt, so erfolgt
@@ -458,10 +489,12 @@ Rechte, wie wenn auf seinen Antrag die Versteigerung angeordnet wäre.
 
 
 #### II. - Aufhebung und einstweilige Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000500302)
 
 
 
 ##### § 28
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002801307)
 
 (1) Wird dem Vollstreckungsgericht ein aus dem Grundbuch ersichtliches
 Recht bekannt, welches der Zwangsversteigerung oder der Fortsetzung
@@ -478,12 +511,14 @@ anzuwenden.
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE002900302)
 
 Das Verfahren ist aufzuheben, wenn der Versteigerungsantrag von dem
 Gläubiger zurückgenommen wird.
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003000302)
 
 (1) Das Verfahren ist einstweilen einzustellen, wenn der Gläubiger die
 Einstellung bewilligt. Die Einstellung kann wiederholt bewilligt
@@ -496,6 +531,7 @@ Gläubiger die Aufhebung des Versteigerungstermins bewilligt.
 
 
 ##### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003101301)
 
 (1) Das Verfahren ist auf Antrag des Schuldners einstweilen auf die
 Dauer von höchstens sechs Monaten einzustellen, wenn Aussicht besteht,
@@ -536,6 +572,7 @@ Auflagen außer Kraft tritt.
 
 
 ##### § 30b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003201310)
 
 (1) Die einstweilige Einstellung ist binnen einer Notfrist von zwei
 Wochen zu beantragen. Die Frist beginnt mit der Zustellung der
@@ -561,6 +598,7 @@ werden.
 
 
 ##### § 30c
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003403301)
 
 War das Verfahren gemäß § 30a einstweilen eingestellt, so kann es auf
 Grund des § 30a einmal erneut eingestellt werden, es sei denn, daß die
@@ -570,6 +608,7 @@ entsprechend.
 
 
 ##### § 30d
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022601308)
 
 (1) Ist über das Vermögen des Schuldners ein Insolvenzverfahren
 eröffnet, so ist auf Antrag des Insolvenzverwalters die
@@ -618,6 +657,7 @@ Sachwalter bestellt, so steht dieses Antragsrecht dem Schuldner zu.\*%
 
 
 ##### § 30e
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022700307)
 
 (1) Die einstweilige Einstellung ist mit der Auflage anzuordnen, daß
 dem betreibenden Gläubiger für die Zeit nach dem Berichtstermin nach §
@@ -642,6 +682,7 @@ Versteigerungserlös zu rechnen ist.
 
 
 ##### § 30f
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022800307)
 
 (1) Im Falle des § 30d Abs. 1 bis 3 ist die einstweilige Einstellung
 auf Antrag des Gläubigers aufzuheben, wenn die Voraussetzungen für die
@@ -662,6 +703,7 @@ entsprechend.
 
 
 ##### § 30g Vollzug der Vollstreckungssperre bei Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE023300125)
 
 (1) Hat das Restrukturierungsgericht eine Vollstreckungssperre nach §
 49 Absatz 1 Nummer 1 des Unternehmensstabilisierungs- und
@@ -687,6 +729,7 @@ Schuldner zu hören.
 
 
 ##### § 31
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003501307)
 
 (1) Im Falle einer einstweiligen Einstellung darf das Verfahren,
 soweit sich nicht aus dem Gesetz etwas anderes ergibt, nur auf Antrag
@@ -722,6 +765,7 @@ zugestellt worden ist.
 
 
 ##### § 32
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003600302)
 
 Der Beschluß, durch welchen das Verfahren aufgehoben oder einstweilen
 eingestellt wird, ist dem Schuldner, dem Gläubiger und, wenn die
@@ -729,6 +773,7 @@ Anordnung von einem Dritten beantragt war, auch diesem zuzustellen.
 
 
 ##### § 33
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003700302)
 
 Nach dem Schluß der Versteigerung darf, wenn ein Grund zur Aufhebung
 oder zur einstweiligen Einstellung des Verfahrens oder zur Aufhebung
@@ -737,21 +782,25 @@ Zuschlags gegeben werden.
 
 
 ##### § 34
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003800302)
 
 Im Falle der Aufhebung des Verfahrens ist das Grundbuchamt um Löschung
 des Versteigerungsvermerks zu ersuchen.
 
 
 #### III. - Bestimmung des Versteigerungstermins
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000600302)
 
 
 
 ##### § 35
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE003900302)
 
 Die Versteigerung wird durch das Vollstreckungsgericht ausgeführt.
 
 
 ##### § 36
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004000302)
 
 (1) Der Versteigerungstermin soll erst nach der Beschlagnahme des
 Grundstücks und nach dem Eingang der Mitteilungen des Grundbuchamts
@@ -769,6 +818,7 @@ werden.
 
 
 ##### § 37
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004100302)
 
 Die Terminsbestimmung muß enthalten:
 
@@ -803,6 +853,7 @@ Die Terminsbestimmung muß enthalten:
 
 
 ##### § 38
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004204301)
 
 (1) Die Terminsbestimmung soll die Angabe des Grundbuchblatts, der
 Größe und des Verkehrswerts des Grundstücks enthalten. Ist in einem
@@ -816,6 +867,7 @@ Kommunikationssystem öffentlich bekannt machen.
 
 
 ##### § 39
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004301310)
 
 (1) Die Terminsbestimmung muß durch einmalige Einrückung in das für
 Bekanntmachungen des Gerichts bestimmte Blatt oder in einem für das
@@ -831,6 +883,7 @@ Stelle angeheftet wird.
 
 
 ##### § 40
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004401310)
 
 (1) Die Terminsbestimmung soll an die Gerichtstafel angeheftet werden.
 Ist das Gericht nach § 2 Abs. 2 zum Vollstreckungsgericht bestellt, so
@@ -846,6 +899,7 @@ ist insbesondere auf den Ortsgebrauch Rücksicht zu nehmen.
 
 
 ##### § 41
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004500302)
 
 (1) Die Terminsbestimmung ist den Beteiligten zuzustellen.
 
@@ -858,6 +912,7 @@ Recht noch glaubhaft zu machen haben.
 
 
 ##### § 42
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004600302)
 
 (1) Die Einsicht der Mitteilungen des Grundbuchamts sowie der
 erfolgten Anmeldungen ist jedem gestattet.
@@ -868,6 +923,7 @@ Abschätzungen.
 
 
 ##### § 43
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004700302)
 
 (1) Der Versteigerungstermin ist aufzuheben und von neuem zu
 bestimmen, wenn die Terminsbestimmung nicht sechs Wochen vor dem
@@ -884,10 +940,12 @@ eingehalten ist, das Verfahren genehmigt.
 
 
 #### IV. - Geringstes Gebot Versteigerungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000700302)
 
 
 
 ##### § 44
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004800302)
 
 (1) Bei der Versteigerung wird nur ein solches Gebot zugelassen, durch
 welches die dem Anspruch des Gläubigers vorgehenden Rechte sowie die
@@ -902,6 +960,7 @@ Versteigerungstermin zugestellt ist.
 
 
 ##### § 45
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE004902125)
 
 (1) Ein Recht ist bei der Feststellung des geringsten Gebots insoweit,
 als es zur Zeit der Eintragung des Versteigerungsvermerks aus dem
@@ -921,6 +980,7 @@ und der Bezugszeitraum des Anspruchs sowie seine Fälligkeit ergeben.
 
 
 ##### § 46
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005000302)
 
 Für wiederkehrende Leistungen, die nicht in Geld bestehen, hat das
 Gericht einen Geldbetrag festzusetzen, auch wenn ein solcher nicht
@@ -928,6 +988,7 @@ angemeldet ist.
 
 
 ##### § 47
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005100302)
 
 Laufende Beträge regelmäßig wiederkehrender Leistungen sind für die
 Zeit bis zum Ablauf von zwei Wochen nach dem Versteigerungstermin zu
@@ -937,6 +998,7 @@ entrichten sind.
 
 
 ##### § 48
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005200302)
 
 Bedingte Rechte sind wie unbedingte, Rechte, die durch Eintragung
 eines Widerspruchs oder einer Vormerkung gesichert sind, wie
@@ -944,6 +1006,7 @@ eingetragene Rechte zu berücksichtigen.
 
 
 ##### § 49
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005303125)
 
 (1) Der Teil des geringsten Gebots, welcher zur Deckung der Kosten
 sowie der im § 10 Nr. 1 bis 3 und im § 12 Nr. 1, 2 bezeichneten
@@ -964,6 +1027,7 @@ Verteilungstermin nachgewiesen werden.
 
 
 ##### § 50
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005400302)
 
 (1) Soweit eine bei der Feststellung des geringsten Gebots
 berücksichtigte Hypothek, Grundschuld oder Rentenschuld nicht besteht,
@@ -992,6 +1056,7 @@ ausgeschlossen, soweit der Ersteher nicht bereichert ist.
 
 
 ##### § 51
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005500302)
 
 (1) Ist das berücksichtigte Recht nicht eine Hypothek, Grundschuld
 oder Rentenschuld, so finden die Vorschriften des § 50 entsprechende
@@ -1004,6 +1069,7 @@ geringsten Gebots bestimmt werden.
 
 
 ##### § 52
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005603160)
 
 (1) Ein Recht bleibt insoweit bestehen, als es bei der Feststellung
 des geringsten Gebots berücksichtigt und nicht durch Zahlung zu decken
@@ -1030,6 +1096,7 @@ b)  Grunddienstbarkeiten und beschränkte persönliche Dienstbarkeiten, die
 
 
 ##### § 53
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005700302)
 
 (1) Haftet bei einer Hypothek, die bestehenbleibt, der Schuldner
 zugleich persönlich, so übernimmt der Ersteher die Schuld in Höhe der
@@ -1046,6 +1113,7 @@ eines Beteiligten glaubhaft gemacht hat.
 
 
 ##### § 54
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005800302)
 
 (1) Die von dem Gläubiger dem Eigentümer oder von diesem dem Gläubiger
 erklärte Kündigung einer Hypothek, einer Grundschuld oder einer
@@ -1059,6 +1127,7 @@ werden kann.
 
 
 ##### § 55
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE005900302)
 
 (1) Die Versteigerung des Grundstücks erstreckt sich auf alle
 Gegenstände, deren Beschlagnahme noch wirksam ist.
@@ -1070,6 +1139,7 @@ daß dieser sein Recht nach Maßgabe des § 37 Nr. 5 geltend gemacht hat.
 
 
 ##### § 56
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006000302)
 
 Die Gefahr des zufälligen Unterganges geht in Ansehung des Grundstücks
 mit dem Zuschlag, in Ansehung der übrigen Gegenstände mit dem Schluß
@@ -1079,6 +1149,7 @@ Gewährleistung findet nicht statt.
 
 
 ##### § 57
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006101301)
 
 Ist das Grundstück einem Mieter oder Pächter überlassen, so finden die
 Vorschriften der §§ 566, 566a, 566b Abs. 1, §§ 566c und 566d des
@@ -1087,6 +1158,7 @@ Anwendung.
 
 
 ##### § 57a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006200302)
 
 Der Ersteher ist berechtigt, das Miet- oder Pachtverhältnis unter
 Einhaltung der gesetzlichen Frist zu kündigen. Die Kündigung ist
@@ -1095,6 +1167,7 @@ sie zulässig ist.
 
 
 ##### § 57b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006301301)
 
 (1) Soweit nach den Vorschriften des § 566b Abs. 1 und der §§ 566c,
 566d des Bürgerlichen Gesetzbuchs für die Wirkung von Verfügungen und
@@ -1124,12 +1197,14 @@ diese Vorschriften keine Anwendung.
 
 
 ##### § 58
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006600302)
 
 Die Kosten des Beschlusses, durch welchen der Zuschlag erteilt wird,
 fallen dem Ersteher zur Last.
 
 
 ##### § 59
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006701307)
 
 (1) Jeder Beteiligte kann spätestens im Versteigerungstermin vor der
 Aufforderung zur Abgabe von Geboten eine von den gesetzlichen
@@ -1149,14 +1224,17 @@ Beteiligten.
 
 
 ##### § 60 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006801301)
 
 
 
 ##### § 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE006901301)
 
 
 
 ##### § 62
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007000302)
 
 Das Gericht kann schon vor dem Versteigerungstermin Erörterungen der
 Beteiligten über das geringste Gebot und die Versteigerungsbedingungen
@@ -1164,6 +1242,7 @@ veranlassen, zu diesem Zweck auch einen besonderen Termin bestimmen.
 
 
 ##### § 63
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007101307)
 
 (1) Mehrere in demselben Verfahren zu versteigernde Grundstücke sind
 einzeln auszubieten. Grundstücke, die mit einem einheitlichen Bauwerk
@@ -1193,6 +1272,7 @@ erklären.
 
 
 ##### § 64
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007200302)
 
 (1) Werden mehrere Grundstücke, die mit einer dem Anspruche des
 Gläubigers vorgehenden Gesamthypothek belastet sind, in demselben
@@ -1222,6 +1302,7 @@ belastet sind.
 
 
 ##### § 65
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007300302)
 
 (1) Das Gericht kann auf Antrag anordnen, daß eine Forderung oder eine
 bewegliche Sache von der Versteigerung des Grundstücks ausgeschlossen
@@ -1238,10 +1319,12 @@ nur zulässig, wenn das geringste Gebot erreicht ist.
 
 
 #### V. - Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000800302)
 
 
 
 ##### § 66
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007400302)
 
 (1) In dem Versteigerungstermin werden nach dem Aufruf der Sache die
 das Grundstück betreffenden Nachweisungen, die das Verfahren
@@ -1259,6 +1342,7 @@ von Geboten aufzufordern.
 
 
 ##### § 67
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007501301)
 
 (1) Ein Beteiligter, dessen Recht durch Nichterfüllung des Gebots
 beeinträchtigt werden würde, kann Sicherheitsleistung verlangen,
@@ -1278,6 +1362,7 @@ verlangt werden.
 
 
 ##### § 68
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007603160)
 
 (1) Die Sicherheit ist für ein Zehntel des in der Terminsbestimmung
 genannten, anderenfalls des festgesetzten Verkehrswerts zu leisten.
@@ -1301,6 +1386,7 @@ spätestens bis zur Entscheidung über den Zuschlag zu erbringen.
 
 
 ##### § 69
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007703301)
 
 (1) Eine Sicherheitsleistung durch Barzahlung ist ausgeschlossen.
 
@@ -1330,6 +1416,7 @@ im Termin vorliegt.
 
 
 ##### § 70
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007802301)
 
 (1) Das Gericht hat über die Sicherheitsleistung sofort zu
 entscheiden.
@@ -1345,6 +1432,7 @@ Widerspruch erhoben, so gilt das Verlangen als zurückgenommen.
 
 
 ##### § 71
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE007900302)
 
 (1) Ein unwirksames Gebot ist zurückzuweisen.
 
@@ -1357,6 +1445,7 @@ beglaubigte Urkunde sofort nachgewiesen wird.
 
 
 ##### § 72
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008001301)
 
 (1) Ein Gebot erlischt, wenn ein Übergebot zugelassen wird und ein
 Beteiligter der Zulassung nicht sofort widerspricht. Das Übergebot
@@ -1375,6 +1464,7 @@ zur Entscheidung über den Zuschlag geleistet worden ist.
 
 
 ##### § 73
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008101307)
 
 (1) Zwischen der Aufforderung zur Abgabe von Geboten und dem
 Zeitpunkt, in welchem bezüglich sämtlicher zu versteigernder
@@ -1389,12 +1479,14 @@ dreimaligen Aufrufs erfolgen.
 
 
 ##### § 74
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008200302)
 
 Nach dem Schlusse der Versteigerung sind die anwesenden Beteiligten
 über den Zuschlag zu hören.
 
 
 ##### § 74a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008302310)
 
 (1) Bleibt das abgegebene Meistgebot einschließlich des Kapitalwertes
 der nach den Versteigerungsbedingungen bestehenbleibenden Rechte unter
@@ -1430,6 +1522,7 @@ festgesetzt sei, nicht angefochten werden.
 
 
 ##### § 74b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008400302)
 
 Ist das Meistgebot von einem zur Befriedigung aus dem Grundstück
 Berechtigten abgegeben worden, so findet § 74a keine Anwendung, wenn
@@ -1442,6 +1535,7 @@ der durch das Gebot noch gedeckt ist.
 
 
 ##### § 75
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008501301)
 
 Das Verfahren wird eingestellt, wenn der Schuldner im
 Versteigerungstermin einen Einzahlungs- oder Überweisungsnachweis
@@ -1453,6 +1547,7 @@ hat.
 
 
 ##### § 76
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008600302)
 
 (1) Wird bei der Versteigerung mehrerer Grundstücke auf eines oder
 einige so viel geboten, daß der Anspruch des Gläubigers gedeckt ist,
@@ -1469,6 +1564,7 @@ der Versteigerungsantrag als zurückgenommen.
 
 
 ##### § 77
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008700302)
 
 (1) Ist ein Gebot nicht abgegeben oder sind sämtliche Gebote
 erloschen, so wird das Verfahren einstweilen eingestellt.
@@ -1484,6 +1580,7 @@ der Zwangsversteigerung keine Anwendung.
 
 
 ##### § 78
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008800302)
 
 Vorgänge in dem Termin, die für die Entscheidung über den Zuschlag
 oder für das Recht eines Beteiligten in Betracht kommen, sind durch
@@ -1493,16 +1590,19 @@ gestellten Anträgen in das Protokoll aufzunehmen.
 
 
 #### VI. - Entscheidung über den Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG000900302)
 
 
 
 ##### § 79
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE008900302)
 
 Bei der Beschlußfassung über den Zuschlag ist das Gericht an eine
 Entscheidung, die es vorher getroffen hat, nicht gebunden.
 
 
 ##### § 80
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009000302)
 
 Vorgänge in dem Versteigerungstermin, die nicht aus dem Protokoll
 ersichtlich sind, werden bei der Entscheidung über den Zuschlag nicht
@@ -1510,6 +1610,7 @@ berücksichtigt.
 
 
 ##### § 81
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009100302)
 
 (1) Der Zuschlag ist dem Meistbietenden zu erteilen.
 
@@ -1532,6 +1633,7 @@ Ersteher als Gesamtschuldner.
 
 
 ##### § 82
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009203301)
 
 In dem Beschluß, durch welchen der Zuschlag erteilt wird, sind das
 Grundstück, der Ersteher, das Gebot und die Versteigerungsbedingungen
@@ -1541,6 +1643,7 @@ Meistbietende für mithaftend zu erklären.
 
 
 ##### § 83
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009302301)
 
 Der Zuschlag ist zu versagen:
 
@@ -1585,6 +1688,7 @@ Der Zuschlag ist zu versagen:
 
 
 ##### § 84
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009400302)
 
 (1) Die im § 83 Nr. 1 bis 5 bezeichneten Versagungsgründe stehen der
 Erteilung des Zuschlags nicht entgegen, wenn das Recht des Beteiligten
@@ -1596,6 +1700,7 @@ nachzuweisen.
 
 
 ##### § 85
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009502301)
 
 (1) Der Zuschlag ist zu versagen, wenn vor dem Schluß der Verhandlung
 ein Beteiligter, dessen Recht durch den Zuschlag beeinträchtigt werden
@@ -1622,6 +1727,7 @@ abgegebenes Gebot.
 
 
 ##### § 85a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022200301)
 
 (1) Der Zuschlag ist ferner zu versagen, wenn das abgegebene
 Meistgebot einschließlich des Kapitalwertes der nach den
@@ -1641,6 +1747,7 @@ ausfallen würde, die Hälfte des Grundstückswertes erreicht.
 
 
 ##### § 86
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009600302)
 
 Die rechtskräftige Versagung des Zuschlags wirkt, wenn die Fortsetzung
 des Verfahrens zulässig ist, wie eine einstweilige Einstellung,
@@ -1648,6 +1755,7 @@ anderenfalls wie die Aufhebung des Verfahrens.
 
 
 ##### § 87
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009700302)
 
 (1) Der Beschluß, durch welchen der Zuschlag erteilt oder versagt
 wird, ist in dem Versteigerungstermin oder in einem sofort zu
@@ -1663,6 +1771,7 @@ gehört werden.
 
 
 ##### § 88
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009803301)
 
 Der Beschluß, durch welchen der Zuschlag erteilt wird, ist den
 Beteiligten, soweit sie weder im Versteigerungstermine noch im
@@ -1674,11 +1783,13 @@ haben.
 
 
 ##### § 89
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE009900302)
 
 Der Zuschlag wird mit der Verkündung wirksam.
 
 
 ##### § 90
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010000302)
 
 (1) Durch den Zuschlag wird der Ersteher Eigentümer des Grundstücks,
 sofern nicht im Beschwerdewege der Beschluß rechtskräftig aufgehoben
@@ -1689,6 +1800,7 @@ sich die Versteigerung erstreckt hat.
 
 
 ##### § 91
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010100302)
 
 (1) Durch den Zuschlag erlöschen unter der im § 90 Abs. 1 bestimmten
 Voraussetzung die Rechte, welche nicht nach den
@@ -1713,6 +1825,7 @@ erlischt, wenn der Berechtigte aus dem Grundstück befriedigt wird.
 
 
 ##### § 92
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010200302)
 
 (1) Erlischt durch den Zuschlag ein Recht, das nicht auf Zahlung eines
 Kapitals gerichtet ist, so tritt an die Stelle des Rechts der Anspruch
@@ -1731,6 +1844,7 @@ durch die Ablösungssumme.
 
 
 ##### § 93
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010300302)
 
 (1) Aus dem Beschluß, durch welchen der Zuschlag erteilt wird, findet
 gegen den Besitzer des Grundstücks oder einer mitversteigerten Sache
@@ -1745,6 +1859,7 @@ ist der Ersteher nicht verpflichtet.
 
 
 ##### § 94
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010400302)
 
 (1) Auf Antrag eines Beteiligten, der Befriedigung aus dem Bargebot zu
 erwarten hat, ist das Grundstück für Rechnung des Erstehers in
@@ -1758,6 +1873,7 @@ entsprechende Anwendung.
 
 
 ##### § 94a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE023400125)
 
 (1) Auf Antrag der Gemeinde, in der das Grundstück belegen ist, ist
 dieses für Rechnung des Erstehers in gerichtliche Verwaltung zu
@@ -1818,10 +1934,12 @@ sie vom Ersteher die Erstattung verlangen.
 
 
 #### VII. - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001000302)
 
 
 
 ##### § 95
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010501310)
 
 Gegen eine Entscheidung, die vor der Beschlußfassung über den Zuschlag
 erfolgt, kann die sofortige Beschwerde nur eingelegt werden, soweit
@@ -1830,6 +1948,7 @@ oder Fortsetzung des Verfahrens betrifft.
 
 
 ##### § 96
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010601310)
 
 Auf die Beschwerde gegen die Entscheidung über den Zuschlag finden die
 Vorschriften der Zivilprozeßordnung über die Beschwerde nur insoweit
@@ -1838,6 +1957,7 @@ ist.
 
 
 ##### § 97
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010700302)
 
 (1) Die Beschwerde steht im Falle der Erteilung des Zuschlags jedem
 Beteiligten sowie dem Ersteher und dem für zahlungspflichtig erklärten
@@ -1850,6 +1970,7 @@ Glaubhaftmachung des Rechts bei dem Beschwerdegericht erfolgt.
 
 
 ##### § 98
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010800302)
 
 Die Frist für die Beschwerde gegen einen Beschluß des
 Vollstreckungsgerichts, durch welchen der Zuschlag versagt wird,
@@ -1859,6 +1980,7 @@ Versteigerungstermin oder im Verkündungstermin erschienen waren.
 
 
 ##### § 99
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE010900302)
 
 (1) Erachtet das Beschwerdegericht eine Gegenerklärung für
 erforderlich, so hat es zu bestimmen, wer als Gegner des
@@ -1868,6 +1990,7 @@ Beschwerdeführers zuzuziehen ist.
 
 
 ##### § 100
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011001301)
 
 (1) Die Beschwerde kann nur darauf gestützt werden, daß eine der
 Vorschriften der §§ 81, 83 bis 85a verletzt oder daß der Zuschlag
@@ -1883,6 +2006,7 @@ Beschwerdegericht von Amts wegen zu berücksichtigen.
 
 
 ##### § 101
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011101310)
 
 (1) Wird die Beschwerde für begründet erachtet, so hat das
 Beschwerdegericht unter Aufhebung des angefochtenen Beschlusses in der
@@ -1895,6 +2019,7 @@ Erteilung des Zuschlags erhobene Beschwerde zurückzuweisen.
 
 
 ##### § 102
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011201310)
 
 Hat das Beschwerdegericht den Beschluß, durch welchen der Zuschlag
 erteilt war, nach der Verteilung des Versteigerungserlöses aufgehoben,
@@ -1903,6 +2028,7 @@ zugelassen hat, auch denjenigen zu, welchen der Erlös zugeteilt ist.
 
 
 ##### § 103
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011303301)
 
 Der Beschluß des Beschwerdegerichts ist, wenn der angefochtene
 Beschluß aufgehoben oder abgeändert wird, allen Beteiligten und
@@ -1914,16 +2040,19 @@ Beschlusses nur an den Beschwerdeführer und den zugezogenen Gegner.
 
 
 ##### § 104
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011400302)
 
 Der Beschluß, durch welchen das Beschwerdegericht den Zuschlag
 erteilt, wird erst mit der Zustellung an den Ersteher wirksam.
 
 
 #### VIII. - Verteilung des Erlöses
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001100302)
 
 
 
 ##### § 105
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011503301)
 
 (1) Nach der Erteilung des Zuschlags hat das Gericht einen Termin zur
 Verteilung des Versteigerungserlöses zu bestimmen.
@@ -1944,6 +2073,7 @@ sofern nicht das Verfahren genehmigt wird.
 
 
 ##### § 106
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011600302)
 
 Zur Vorbereitung des Verteilungsverfahrens kann das Gericht in der
 Terminsbestimmung die Beteiligten auffordern, binnen zwei Wochen eine
@@ -1954,6 +2084,7 @@ Einsicht der Beteiligten niederzulegen.
 
 
 ##### § 107
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011702301)
 
 (1) In dem Verteilungstermin ist festzustellen, wieviel die zu
 verteilende Masse beträgt. Zu der Masse gehört auch der Erlös aus
@@ -1969,10 +2100,12 @@ Satz 1 angerechnet.
 
 
 ##### § 108 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011801307)
 
 
 
 ##### § 109
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE011900302)
 
 (1) Aus dem Versteigerungserlös sind die Kosten des Verfahrens vorweg
 zu entnehmen, mit Ausnahme der durch die Anordnung des Verfahrens oder
@@ -1984,6 +2117,7 @@ sind, verteilt.
 
 
 ##### § 110
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012000302)
 
 Rechte, die ungeachtet der im § 37 Nr. 4 bestimmten Aufforderung nicht
 rechtzeitig angemeldet oder glaubhaft gemacht worden sind, stehen bei
@@ -1991,6 +2125,7 @@ der Verteilung den übrigen Rechten nach.
 
 
 ##### § 111
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012100302)
 
 Ein betagter Anspruch gilt als fällig. Ist der Anspruch unverzinslich,
 so gebührt dem Berechtigten nur die Summe, welche mit Hinzurechnung
@@ -2000,6 +2135,7 @@ Fälligkeit ungewiß ist, gilt der Anspruch als aufschiebend bedingt.
 
 
 ##### § 112
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012200302)
 
 (1) Ist bei der Versteigerung mehrerer Grundstücke der Zuschlag auf
 Grund eines Gesamtausgebots erteilt und wird eine Verteilung des
@@ -2027,6 +2163,7 @@ Fehlbetrag.
 
 
 ##### § 113
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012300302)
 
 (1) In dem Verteilungstermin wird nach Anhörung der anwesenden
 Beteiligten von dem Gericht, nötigenfalls mit Hilfe eines
@@ -2037,6 +2174,7 @@ anzugeben.
 
 
 ##### § 114
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012400302)
 
 (1) In den Teilungsplan sind Ansprüche, soweit ihr Betrag oder ihr
 Höchstbetrag zur Zeit der Eintragung des Versteigerungsvermerks aus
@@ -2051,6 +2189,7 @@ werden.
 
 
 ##### § 114a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012501301)
 
 Ist der Zuschlag einem zur Befriedigung aus dem Grundstück
 Berechtigten zu einem Gebot erteilt, das einschließlich des
@@ -2065,6 +2204,7 @@ nicht zu berücksichtigen.
 
 
 ##### § 115
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012600302)
 
 (1) Über den Teilungsplan wird sofort verhandelt. Auf die Verhandlung
 sowie auf die Erledigung erhobener Widersprüche und die Ausführung des
@@ -2086,6 +2226,7 @@ Hinterlegung erfolgt ist.
 
 
 ##### § 116
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012703301)
 
 Die Ausführung des Teilungsplans soll bis zur Rechtskraft des
 Zuschlags ausgesetzt werden, wenn der Ersteher oder im Falle des § 69
@@ -2094,6 +2235,7 @@ Abs. 2, 3 der Meistbietende die Aussetzung beantragt.
 
 
 ##### § 117
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012802301)
 
 (1) Soweit der Versteigerungserlös in Geld vorhanden ist, wird der
 Teilungsplan durch Zahlung an die Berechtigten ausgeführt. Die Zahlung
@@ -2109,6 +2251,7 @@ Anweisung auf den hinterlegten Betrag erteilt werden.
 
 
 ##### § 118
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE012904301)
 
 (1) Soweit das Bargebot nicht berichtigt wird, ist der Teilungsplan
 dadurch auszuführen, daß die Forderung gegen den Ersteher auf die
@@ -2128,6 +2271,7 @@ Forderung infolge des Verzichts übergeht.
 
 
 ##### § 119
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013000302)
 
 Wird auf einen bedingten Anspruch ein Betrag zugeteilt, so ist durch
 den Teilungsplan festzustellen, wie der Betrag anderweit verteilt
@@ -2135,6 +2279,7 @@ werden soll, wenn der Anspruch wegfällt.
 
 
 ##### § 120
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013100302)
 
 (1) Ist der Anspruch aufschiebend bedingt, so ist der Betrag für die
 Berechtigten zu hinterlegen. Soweit der Betrag nicht gezahlt ist, wird
@@ -2151,6 +2296,7 @@ ausfällt.
 
 
 ##### § 121
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013200302)
 
 (1) In den Fällen des § 92 Abs. 2 ist für den Ersatzanspruch in den
 Teilungsplan ein Betrag aufzunehmen, welcher der Summe aller künftigen
@@ -2164,6 +2310,7 @@ die Art der Anlegung des Geldes bestimmt der zunächst Berechtigte.
 
 
 ##### § 122
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013300302)
 
 (1) Sind mehrere für den Anspruch eines Beteiligten haftende
 Grundstücke in demselben Verfahren versteigert worden, so ist,
@@ -2179,6 +2326,7 @@ dieses Betrags in den Plan aufzunehmen.
 
 
 ##### § 123
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013400302)
 
 (1) Soweit auf einen Anspruch, für den auch ein anderes Grundstück
 haftet, der zugeteilte Betrag nicht gezahlt wird, ist durch den
@@ -2191,6 +2339,7 @@ Ersteher unter der entsprechenden Bedingung übertragen wird.
 
 
 ##### § 124
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013500302)
 
 (1) Im Falle eines Widerspruchs gegen den Teilungsplan ist durch den
 Plan festzustellen, wie der streitige Betrag verteilt werden soll,
@@ -2204,6 +2353,7 @@ Planes unterbleibt.
 
 
 ##### § 125
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013600302)
 
 (1) Hat der Ersteher außer dem durch Zahlung zu berichtigenden Teil
 des Meistgebots einen weiteren Betrag nach den §§ 50, 51 zu zahlen, so
@@ -2221,6 +2371,7 @@ Grundstück.
 
 
 ##### § 126
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013700302)
 
 (1) Ist für einen zugeteilten Betrag die Person des Berechtigten
 unbekannt, insbesondere bei einer Hypothek, Grundschuld oder
@@ -2234,6 +2385,7 @@ Ersteher auf den Berechtigten zu übertragen.
 
 
 ##### § 127
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013800302)
 
 (1) Wird der Brief über eine infolge der Versteigerung erloschene
 Hypothek, Grundschuld oder Rentenschuld vorgelegt, so hat das Gericht
@@ -2250,6 +2402,7 @@ Hinterlegung oder Übertragung gedeckt worden ist.
 
 
 ##### § 128
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE013901301)
 
 (1) Soweit für einen Anspruch die Forderung gegen den Ersteher
 übertragen wird, ist für die Forderung eine Sicherungshypothek an dem
@@ -2273,6 +2426,7 @@ berücksichtigen.
 
 
 ##### § 129
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014000302)
 
 Die Sicherungshypothek für die im § 10 Nr. 1 bis 3 bezeichneten
 Ansprüche, für die im § 10 Nr. 4 bezeichneten Ansprüche auf
@@ -2287,6 +2441,7 @@ Verfahren nach § 31 Abs. 2 aufgehoben, so gilt er als nicht gestellt.
 
 
 ##### § 130
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014100302)
 
 (1) Ist der Teilungsplan ausgeführt und der Zuschlag rechtskräftig, so
 ist das Grundbuchamt zu ersuchen, den Ersteher als Eigentümer
@@ -2309,6 +2464,7 @@ bezeichneten Ersuchens erfolgen.
 
 
 ##### § 130a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020600302)
 
 (1) Soweit für den Gläubiger eines erloschenen Rechts gegenüber einer
 bestehenbleibenden Hypothek, Grundschuld oder Rentenschuld nach §
@@ -2337,6 +2493,7 @@ Vormerkung eingetragen war.
 
 
 ##### § 131
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014200302)
 
 In den Fällen des § 130 Abs. 1 ist zur Löschung einer Hypothek, einer
 Grundschuld oder einer Rentenschuld, im Falle des § 128 zur Eintragung
@@ -2346,6 +2503,7 @@ Eintragung der Vormerkung nach § 130a Abs. 2 Satz 1.
 
 
 ##### § 132
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014303301)
 
 (1) Nach Ausführung des Teilungsplans ist die Forderung gegen den
 Ersteher, im Falle des § 69 Abs. 3 auch gegen den für mithaftend
@@ -2363,6 +2521,7 @@ der Forderung bedarf es nicht.
 
 
 ##### § 133
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014400302)
 
 Die Zwangsvollstreckung in das Grundstück ist gegen den Ersteher ohne
 Zustellung des vollstreckbaren Titels oder der nach § 132 erteilten
@@ -2373,10 +2532,12 @@ Grundbuchamt noch nicht um die Eintragung ersucht ist.
 
 
 ##### § 134 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014501301)
 
 
 
 ##### § 135
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014600302)
 
 Ist für einen zugeteilten Betrag die Person des Berechtigten
 unbekannt, so hat das Vollstreckungsgericht zur Ermittlung des
@@ -2386,6 +2547,7 @@ Vertreters sind aus dem zugeteilten Betrag vorweg zu entnehmen.
 
 
 ##### § 136
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014700302)
 
 Ist der Nachweis des Berechtigten von der Beibringung des Briefes über
 eine Hypothek, Grundschuld oder Rentenschuld abhängig, so kann der
@@ -2394,6 +2556,7 @@ werden, wenn das Recht bereits gelöscht ist.
 
 
 ##### § 137
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014800302)
 
 (1) Wird der Berechtigte nachträglich ermittelt, so ist der
 Teilungsplan weiter auszuführen.
@@ -2406,6 +2569,7 @@ Benachrichtigung.
 
 
 ##### § 138
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE014900302)
 
 (1) Wird der Berechtigte nicht vor dem Ablauf von drei Monaten seit
 dem Verteilungstermin ermittelt, so hat auf Antrag das Gericht den
@@ -2420,6 +2584,7 @@ benachrichtigen. Mit der Benachrichtigung erlischt die Ermächtigung.
 
 
 ##### § 139
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015000302)
 
 (1) Das Gericht kann im Falle der nachträglichen Ermittlung des
 Berechtigten zur weiteren Ausführung des Teilungsplans einen Termin
@@ -2435,6 +2600,7 @@ Frist zur Erhebung der Klage beginnt mit dem Termin.
 
 
 ##### § 140
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015101160)
 
 (1) Für das Aufgebotsverfahren ist das Vollstreckungsgericht
 zuständig.
@@ -2460,6 +2626,7 @@ aus dem zugeteilten Betrag verlangen.
 
 
 ##### § 141
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015201160)
 
 Nach der Erlassung des Ausschließungsbeschlusses hat das Gericht einen
 Termin zur weiteren Ausführung des Teilungsplans zu bestimmen. Die
@@ -2470,6 +2637,7 @@ Zuschlags Eigentümer des Grundstücks war.
 
 
 ##### § 142
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015300302)
 
 In den Fällen des § 117 Abs. 2 und der §§ 120, 121, 124, 126 erlöschen
 die Rechte auf den hinterlegten Betrag mit dem Ablauf von dreißig
@@ -2482,6 +2650,7 @@ Hinterlegung erfolgt ist.
 
 
 ##### § 143
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015400302)
 
 Die Verteilung des Versteigerungserlöses durch das Gericht findet
 nicht statt, wenn dem Gericht durch öffentliche oder öffentlich
@@ -2490,6 +2659,7 @@ die Verteilung des Erlöses geeinigt haben.
 
 
 ##### § 144
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015503301)
 
 (1) Weist der Ersteher oder im Falle des § 69 Abs. 3 der für
 mithaftend erklärte Bürge dem Gericht durch öffentliche oder
@@ -2509,16 +2679,19 @@ des § 65 besonders versteigert oder anderweit verwertet worden sind.
 
 
 ##### § 145
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015601301)
 
 Die Vorschriften des § 105 Abs. 2 Satz 2 und der §§ 127, 130 bis 133
 finden in den Fällen der §§ 143, 144 entsprechende Anwendung.
 
 
 #### IX. - Grundpfandrechte in ausländischer Währung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001700307)
 
 
 
 ##### § 145a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022404310)
 
 Für die Zwangsversteigerung eines Grundstücks, das mit einer Hypothek,
 Grundschuld oder Rentenschuld in einer nach § 28 Satz 2 der
@@ -2559,10 +2732,12 @@ Sonderbestimmungen:
 
 
 ### Dritter Titel - Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001200302)
 
 
 
 #### § 146
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015700302)
 
 (1) Auf die Anordnung der Zwangsverwaltung finden die Vorschriften
 über die Anordnung der Zwangsversteigerung entsprechende Anwendung,
@@ -2574,6 +2749,7 @@ benachrichtigen.
 
 
 #### § 147
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015800302)
 
 (1) Wegen des Anspruchs aus einem eingetragenen Rechte findet die
 Zwangsverwaltung auch dann statt, wenn die Voraussetzungen des § 17
@@ -2585,6 +2761,7 @@ bei dem Gericht offenkundig ist.
 
 
 #### § 148
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE015900302)
 
 (1) Die Beschlagnahme des Grundstücks umfaßt auch die im § 21 Abs. 1,
 2 bezeichneten Gegenstände. Die Vorschrift des § 23 Abs. 1 Satz 2
@@ -2595,6 +2772,7 @@ Benutzung des Grundstücks entzogen.
 
 
 #### § 149
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016001310)
 
 (1) Wohnt der Schuldner zur Zeit der Beschlagnahme auf dem Grundstück,
 so sind ihm die für seinen Hausstand unentbehrlichen Räume zu
@@ -2615,6 +2793,7 @@ Der Beschluß unterliegt der sofortigen Beschwerde.
 
 
 #### § 150
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016100302)
 
 (1) Der Verwalter wird von dem Gericht bestellt.
 
@@ -2624,6 +2803,7 @@ Ermächtigung zu erteilen, sich selbst den Besitz zu verschaffen.
 
 
 #### § 150a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016200302)
 
 (1) Gehört bei der Zwangsverwaltung eines Grundstücks zu den
 Beteiligten eine öffentliche Körperschaft, ein unter staatlicher
@@ -2641,6 +2821,7 @@ vorgeschlagene Verwalter erhält für seine Tätigkeit keine Vergütung.
 
 
 #### § 150b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016300302)
 
 (1) Bei der Zwangsverwaltung eines landwirtschaftlichen,
 forstwirtschaftlichen oder gärtnerischen Grundstücks ist der Schuldner
@@ -2658,6 +2839,7 @@ berücksichtigen, daß der Schuldner nicht zum Verwalter bestellt wird.
 
 
 #### § 150c
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016400302)
 
 (1) Wird der Schuldner zum Zwangsverwalter bestellt, so hat das
 Gericht eine Aufsichtsperson zu bestellen. Aufsichtsperson kann auch
@@ -2684,6 +2866,7 @@ Aufsichtsperson einzuholen.
 
 
 #### § 150d
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016500302)
 
 Der Schuldner darf als Verwalter über die Nutzungen des Grundstücks
 und deren Erlös, unbeschadet der Vorschriften der §§ 155 bis 158, nur
@@ -2695,6 +2878,7 @@ näherer Anordnung des Gerichts unverzüglich anzulegen.
 
 
 #### § 150e
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016600302)
 
 Der Schuldner erhält als Verwalter keine Vergütung.
 Erforderlichenfalls bestimmt das Gericht nach Anhörung der
@@ -2704,6 +2888,7 @@ Familie notwendigen Bedürfnisse verwenden darf.
 
 
 #### § 151
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016700302)
 
 (1) Die Beschlagnahme wird auch dadurch wirksam, daß der Verwalter
 nach § 150 den Besitz des Grundstücks erlangt.
@@ -2719,6 +2904,7 @@ Verwalters zu erlassen.
 
 
 #### § 152
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016800302)
 
 (1) Der Verwalter hat das Recht und die Pflicht, alle Handlungen
 vorzunehmen, die erforderlich sind, um das Grundstück in seinem
@@ -2733,6 +2919,7 @@ gegenüber wirksam.
 
 
 #### § 152a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022301311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, Stellung, Aufgaben und Geschäftsführung des
@@ -2744,6 +2931,7 @@ Höchstsätze vorzusehen.
 
 
 #### § 153
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE016900302)
 
 (1) Das Gericht hat den Verwalter nach Anhörung des Gläubigers und des
 Schuldners mit der erforderlichen Anweisung für die Verwaltung zu
@@ -2757,6 +2945,7 @@ Zwangsgeld ist vorher anzudrohen.
 
 
 #### § 153a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017000302)
 
 Ist in einem Gebiet das zu dem landwirtschaftlichen Betrieb gehörende
 Vieh nach der Verkehrssitte nicht Zubehör des Grundstücks, so hat,
@@ -2769,6 +2958,7 @@ sicherzustellen ist.
 
 
 #### § 153b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022900307)
 
 (1) Ist über das Vermögen des Schuldners das Insolvenzverfahren
 eröffnet, so ist auf Antrag des Insolvenzverwalters die vollständige
@@ -2786,6 +2976,7 @@ betreibende Gläubiger zu hören.
 
 
 #### § 153c
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE023000307)
 
 (1) Auf Antrag des betreibenden Gläubigers hebt das Gericht die
 Anordnung der einstweiligen Einstellung auf, wenn die Voraussetzungen
@@ -2799,6 +2990,7 @@ mit der Beendigung des Insolvenzverfahrens.
 
 
 #### § 154
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017100302)
 
 Der Verwalter ist für die Erfüllung der ihm obliegenden
 Verpflichtungen allen Beteiligten gegenüber verantwortlich. Er hat dem
@@ -2809,6 +3001,7 @@ vorzulegen.
 
 
 #### § 155
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017201310)
 
 (1) Aus den Nutzungen des Grundstücks sind die Ausgaben der Verwaltung
 sowie die Kosten des Verfahrens mit Ausnahme derjenigen, welche durch
@@ -2844,6 +3037,7 @@ Geschäfte üblichen Weise aufgenommen sind.
 
 
 #### § 156
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017302125)
 
 (1) Die laufenden Beträge der öffentlichen Lasten sind von dem
 Verwalter ohne weiteres Verfahren zu berichtigen. Dies gilt auch bei
@@ -2867,6 +3061,7 @@ entsprechende Anwendung.
 
 
 #### § 157
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017400302)
 
 (1) Nach der Feststellung des Teilungsplans hat das Gericht die
 planmäßige Zahlung der Beträge an die Berechtigten anzuordnen; die
@@ -2880,6 +3075,7 @@ zu verfahren. Die Vorschriften des § 142 finden Anwendung.
 
 
 #### § 158
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017500302)
 
 (1) Zur Leistung von Zahlungen auf das Kapital einer Hypothek oder
 Grundschuld oder auf die Ablösungssumme einer Rentenschuld hat das
@@ -2896,6 +3092,7 @@ Anwendung.
 
 
 #### § 158a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022501310)
 
 Für die Zwangsverwaltung eines Grundstücks, das mit einer Hypothek,
 Grundschuld oder Rentenschuld in einer nach § 28 Satz 2 der
@@ -2920,6 +3117,7 @@ Sonderbestimmungen:
 
 
 #### § 159
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017600302)
 
 (1) Jeder Beteiligte kann eine Änderung des Teilungsplans im Wege der
 Klage erwirken, auch wenn er Widerspruch gegen den Plan nicht erhoben
@@ -2930,12 +3128,14 @@ hat.
 
 
 #### § 160
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017700302)
 
 Die Vorschriften der §§ 143 bis 145 über die außergerichtliche
 Verteilung finden entsprechende Anwendung.
 
 
 #### § 161
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017800302)
 
 (1) Die Aufhebung des Verfahrens erfolgt durch Beschluß des Gerichts.
 
@@ -2950,14 +3150,17 @@ Vorschriften der §§ 28, 29, 32, 34 entsprechende Anwendung.
 
 
 ## Zweiter Abschnitt - Zwangsversteigerung von Schiffen, Schiffsbauwerken und Luftfahrzeugen im Wege der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001300302)
 
 
 
 ### Erster Titel - Zwangsversteigerung von Schiffen und Schiffsbauwerken
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001500302)
 
 
 
 #### § 162
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE017900302)
 
 Auf die Zwangsversteigerung eines im Schiffsregister eingetragenen
 Schiffs oder eines Schiffsbauwerks, das im Schiffsbauregister
@@ -2967,6 +3170,7 @@ sich nicht aus den §§ 163 bis 170a etwas anderes ergibt.
 
 
 #### § 163
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018003311)
 
 (1) Für die Zwangsversteigerung eines eingetragenen Schiffs ist als
 Vollstreckungsgericht das Amtsgericht zuständig, in dessen Bezirk sich
@@ -2986,6 +3190,7 @@ Vollstreckungsgericht.
 
 
 #### § 164
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018100302)
 
 Die Beschränkung des § 17 gilt für die Zwangsversteigerung eines
 eingetragenen Schiffs nicht, soweit sich aus den Vorschriften des
@@ -2999,6 +3204,7 @@ Schiffsregister beizufügen.
 
 
 #### § 165
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018200302)
 
 (1) Bei der Anordnung der Zwangsversteigerung hat das Gericht zugleich
 die Bewachung und Verwahrung des Schiffs anzuordnen. Die Beschlagnahme
@@ -3016,6 +3222,7 @@ In der Regel soll er nach den Grundsätzen des § 155 verteilt werden.
 
 
 #### § 166
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018300302)
 
 (1) Ist gegen den Schiffer auf Grund eines vollstreckbaren Titels, der
 auch gegenüber dem Eigentümer wirksam ist, das Verfahren angeordnet,
@@ -3028,6 +3235,7 @@ Gerichts oder eines Beteiligten glaubhaft macht.
 
 
 #### § 167
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018400302)
 
 (1) Die Bezeichnung des Schiffs in der Bestimmung des
 Versteigerungstermins soll nach dem Schiffsregister erfolgen.
@@ -3037,6 +3245,7 @@ die Rechte der Schiffsgläubiger hinweisen.
 
 
 #### § 168
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018502301)
 
 (1) Die Terminbestimmung soll auch durch ein geeignetes
 Schifffahrtsfachblatt bekannt gemacht werden. Die Landesregierungen
@@ -3054,10 +3263,12 @@ werden.
 
 
 #### § 168a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018600302)
 
 
 
 #### § 168b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018700302)
 
 Hat ein Schiffsgläubiger sein Recht innerhalb der letzten sechs Monate
 vor der Bekanntmachung der Terminsbestimmung bei dem Registergericht
@@ -3069,6 +3280,7 @@ Versteigerungsgericht weiterzugeben.
 
 
 #### § 168c
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020704310)
 
 Für die Zwangsversteigerung eines Schiffs, das mit einer
 Schiffshypothek in ausländischer Währung belastet ist, gelten folgende
@@ -3105,6 +3317,7 @@ Sonderbestimmungen:
 
 
 #### § 169
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018802301)
 
 (1) Ist das Schiff einem Mieter oder Pächter überlassen, so gelten die
 Vorschriften des § 578a des Bürgerlichen Gesetzbuchs entsprechend.
@@ -3127,6 +3340,7 @@ Rechtsgeschäft bestellte Schiffshypothek.
 
 
 #### § 169a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE018902307)
 
 (1) Auf die Zwangsversteigerung eines Seeschiffes sind die
 Vorschriften der §§ 74a, 74b und 85a nicht anzuwenden; § 38 Satz 1
@@ -3137,6 +3351,7 @@ Zehntel des Bargebots zu leisten ist.
 
 
 #### § 170
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019001125)
 
 (1) An die Stelle der nach § 94 Abs. 1 zulässigen Verwaltung tritt die
 gerichtliche Bewachung und Verwahrung des versteigerten Schiffs.
@@ -3148,6 +3363,7 @@ ihrer Fortsetzung erforderliche Geldbetrag nicht vorgeschossen wird.
 
 
 #### § 170a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019101125)
 
 (1) Die Zwangsversteigerung eines Schiffsbauwerks darf erst angeordnet
 werden, nachdem es in das Schiffsbauregister eingetragen ist. Der
@@ -3167,6 +3383,7 @@ bestimmten Frist eine solche von einer Woche.
 
 
 #### § 171
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019202125)
 
 (1) Auf die Zwangsversteigerung eines ausländischen Schiffs, das, wenn
 es ein deutsches Schiff wäre, in das Schiffsregister eingetragen
@@ -3210,10 +3427,12 @@ Meistgebots oder die Einwilligung der Beteiligten nachgewiesen wird.
 
 
 ### Zweiter Titel - Zwangsversteigerung von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001600302)
 
 
 
 #### § 171a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020800302)
 
 Auf die Zwangsversteigerung eines in der Luftfahrzeugrolle
 eingetragenen Luftfahrzeugs sind die Vorschriften des Ersten
@@ -3225,6 +3444,7 @@ Luftfahrzeugrolle gelöscht ist.
 
 
 #### § 171b
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020900302)
 
 (1) Für die Zwangsversteigerung des Luftfahrzeugs ist als
 Vollstreckungsgericht das Amtsgericht zuständig, in dessen Bezirk das
@@ -3235,6 +3455,7 @@ für Pfandrechte an Luftfahrzeugen.
 
 
 #### § 171c
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021000302)
 
 (1) Die Zwangsversteigerung darf erst angeordnet werden, nachdem das
 Luftfahrzeug in das Register für Pfandrechte an Luftfahrzeugen
@@ -3258,6 +3479,7 @@ werden.
 
 
 #### § 171d
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021100302)
 
 (1) In der Bestimmung des Versteigerungstermins soll das Luftfahrzeug
 nach dem Register für Pfandrechte an Luftfahrzeugen bezeichnet werden.
@@ -3266,6 +3488,7 @@ nach dem Register für Pfandrechte an Luftfahrzeugen bezeichnet werden.
 
 
 #### § 171e
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021204310)
 
 Für die Zwangsversteigerung eines Luftfahrzeugs, das mit einem
 Registerpfandrecht in ausländischer Währung belastet ist, gelten
@@ -3302,11 +3525,13 @@ folgende Sonderbestimmungen:
 
 
 #### § 171f
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021300302)
 
 § 169 gilt für das Luftfahrzeug entsprechend.
 
 
 #### § 171g
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021401125)
 
 (1) An die Stelle der nach § 94 Abs. 1 zulässigen Verwaltung tritt die
 gerichtliche Bewachung und Verwahrung des versteigerten Luftfahrzeugs.
@@ -3318,6 +3543,7 @@ ihrer Fortsetzung erforderliche Geldbetrag nicht vorgeschossen wird.
 
 
 #### § 171h
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021500302)
 
 Auf die Zwangsversteigerung eines ausländischen Luftfahrzeugs sind die
 Vorschriften in §§ 171a bis 171g entsprechend anzuwenden, soweit sich
@@ -3325,6 +3551,7 @@ nicht aus den §§ 171i bis 171n anderes ergibt.
 
 
 #### § 171i
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021600302)
 
 (1) In der dritten Klasse (§ 10 Abs. 1 Nr. 3) werden nur befriedigt
 Gebühren, Zölle, Bußen und Geldstrafen auf Grund von Vorschriften über
@@ -3338,6 +3565,7 @@ drei Geschäftsjahren rückständigen Beträge.
 
 
 #### § 171k
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021700302)
 
 Wird das Luftfahrzeug nach der Beschlagnahme veräußert oder mit einem
 Recht nach § 103 des Gesetzes über Rechte an Luftfahrzeugen belastet
@@ -3349,6 +3577,7 @@ der Beschlagnahme hatte.
 
 
 #### § 171l
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021800302)
 
 (1) Das Vollstreckungsgericht teilt die Anordnung der
 Zwangsversteigerung tunlichst durch Luftpost der Behörde mit, die das
@@ -3367,6 +3596,7 @@ das Luftfahrzeug eingetragen ist, nach den dort geltenden Bestimmungen
 
 
 #### § 171m
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE021900302)
 
 Die Beschwerde gegen die Erteilung des Zuschlags ist binnen sechs
 Monaten einzulegen. Sie kann auf die Gründe des § 100 nur binnen einer
@@ -3375,6 +3605,7 @@ die Vorschriften des § 171l Abs. 2 verletzt sind.
 
 
 #### § 171n
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022000302)
 
 Erlischt durch den Zuschlag das Recht zum Besitz eines Luftfahrzeugs
 auf Grund eines für einen Zeitraum von sechs oder mehr Monaten
@@ -3383,10 +3614,12 @@ Ersatz für einen Nießbrauch entsprechend.
 
 
 ## Dritter Abschnitt - Zwangsversteigerung und Zwangsverwaltung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNG001400302)
 
 
 
 ### § 172
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019301307)
 
 Wird die Zwangsversteigerung oder die Zwangsverwaltung von dem
 Insolvenzverwalter beantragt, so finden die Vorschriften des ersten
@@ -3395,6 +3628,7 @@ den §§ 173, 174 ein anderes ergibt.
 
 
 ### § 173
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019401307)
 
 Der Beschluß, durch welchen das Verfahren angeordnet wird, gilt nicht
 als Beschlagnahme. Im Sinne der §§ 13, 55 ist jedoch die Zustellung
@@ -3402,6 +3636,7 @@ des Beschlusses an den Insolvenzverwalter als Beschlagnahme anzusehen.
 
 
 ### § 174
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019501307)
 
 Hat ein Gläubiger für seine Forderung gegen den Schuldner des
 Insolvenzverfahrens ein von dem Insolvenzverwalter anerkanntes Recht
@@ -3413,6 +3648,7 @@ Grundstück auch mit der verlangten Abweichung auszubieten.
 
 
 ### § 174a
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE023100307)
 
 Der Insolvenzverwalter kann bis zum Schluß der Verhandlung im
 Versteigerungstermin verlangen, daß bei der Feststellung des
@@ -3422,6 +3658,7 @@ Grundstück auch mit der verlangten Abweichung auszubieten.
 
 
 ### § 175
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019600302)
 
 (1) Hat ein Nachlaßgläubiger für seine Forderung ein Recht auf
 Befriedigung aus einem zum Nachlasse gehörenden Grundstück, so kann
@@ -3437,6 +3674,7 @@ Gläubiger gleichsteht.
 
 
 ### § 176
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019700302)
 
 Wird die Zwangsversteigerung nach § 175 beantragt, so finden die
 Vorschriften des ersten und zweiten Abschnitts sowie der §§ 173, 174
@@ -3445,6 +3683,7 @@ anderes ergibt.
 
 
 ### § 177
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019800302)
 
 Der Antragsteller hat die Tatsachen, welche sein Recht zur Stellung
 des Antrags begründen, durch Urkunden glaubhaft zu machen, soweit sie
@@ -3452,6 +3691,7 @@ nicht bei dem Gericht offenkundig sind.
 
 
 ### § 178
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE019901307)
 
 (1) Die Zwangsversteigerung soll nicht angeordnet werden, wenn die
 Eröffnung des Nachlaßinsolvenzverfahrens beantragt ist.
@@ -3462,6 +3702,7 @@ Insolvenzverwalter als Antragsteller.
 
 
 ### § 179
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020000302)
 
 Ist ein Nachlaßgläubiger, der verlangen konnte, daß das geringste
 Gebot nach Maßgabe des § 174 ohne Berücksichtigung seines Anspruchs
@@ -3471,6 +3712,7 @@ verweigert werden.
 
 
 ### § 180
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020102311)
 
 (1) Soll die Zwangsversteigerung zum Zwecke der Aufhebung einer
 Gemeinschaft erfolgen, so finden die Vorschriften des Ersten und
@@ -3500,6 +3742,7 @@ mehr als fünf Jahre insgesamt einstweilen eingestellt werden.
 
 
 ### § 181
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020202160)
 
 (1) Ein vollstreckbarer Titel ist nicht erforderlich.
 
@@ -3521,6 +3764,7 @@ Antragstellers Anwendung.
 
 
 ### § 182
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020300302)
 
 (1) Bei der Feststellung des geringsten Gebots sind die den Anteil des
 Antragstellers belastenden oder mitbelastenden Rechte an dem
@@ -3536,12 +3780,14 @@ erforderlichen Betrag.
 
 
 ### § 183
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020400302)
 
 Im Falle der Vermietung oder Verpachtung des Grundstücks finden die in
 den §§ 57a und 57b vorgesehenen Maßgaben keine Anwendung.
 
 
 ### § 184
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE020500302)
 
 Ein Miteigentümer braucht für sein Gebot keine Sicherheit zu leisten,
 wenn ihm eine durch das Gebot ganz oder teilweise gedeckte Hypothek,
@@ -3549,6 +3795,7 @@ Grundschuld oder Rentenschuld zusteht.
 
 
 ### § 185
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE022100302)
 
 (1) Ist ein Verfahren über einen Antrag auf Zuweisung eines
 landwirtschaftlichen Betriebes nach § 13 Abs. 1 des
@@ -3574,6 +3821,7 @@ Zwangsversteigerungsverfahrens sind vom Antragsteller nachzuweisen.
 
 
 ### § 186
+[Direktlink](https://www.gesetze-im-internet.de/zvg/BJNR000970897.html#BJNR000970897BJNE023200301)
 
 Die §§ 3, 30c, 38, 49, 68, 69, 70, 72, 75, 82, 83, 85, 88, 103, 105,
 107, 116, 117, 118, 128, 132, 144 und 169 sind in der Fassung des

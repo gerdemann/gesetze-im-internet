@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001300328)
 
 Auf Grund
 
@@ -36,10 +37,12 @@ Auf Grund
 
 
 ## Erster Abschnitt - Grenzen der Seefahrt
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000100328)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001400328)
 
 Als Grenzen der Seefahrt im Sinne des § 1 des Flaggenrechtsgesetzes
 werden bestimmt:
@@ -62,14 +65,17 @@ werden bestimmt:
 
 
 ## Zweiter Abschnitt - Berechtigung zur Führung der Bundesflagge
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000200328)
 
 
 
 ### 1. - Schiffsvorzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000300328)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001501305)
 
 (1) Für die Erteilung eines Schiffsvorzertifikats (§ 3 Buchstabe a, §
 5 des Flaggenrechtsgesetzes) ist das Konsulat zuständig, in dessen
@@ -83,6 +89,7 @@ zuständig.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001602305)
 
 (1) Der Antrag auf Erteilung eines Schiffsvorzertifikats ist vom
 Eigentümer des Schiffs zu stellen. In dem Antrag sind anzugeben:
@@ -153,6 +160,7 @@ des Flaggenrechtsgesetzes ist ferner eine Bescheinigung nach § 5b Abs.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001700328)
 
 Bei der Entscheidung über die Ausstellung des Schiffsvorzertifikats
 ist insbesondere zu berücksichtigen, ob ausreichende Gründe für die
@@ -164,6 +172,7 @@ einem deutschen Schiffsregister nicht möglich war.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001801305)
 
 (1) Das Schiffsvorzertifikat hat die aus dem Muster in der Anlage zu
 dieser Verordnung ersichtliche Form.
@@ -181,10 +190,12 @@ abzugeben.
 
 
 ### 1a. - Beauftragte Personen nach § 2 Abs. 1 des Flaggenrechtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG001300308)
 
 
 
 #### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004801305)
 
 In den Fällen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes hat
 der Eigentümer des Seeschiffs gegenüber der Flaggenbehörde
@@ -206,6 +217,7 @@ der Eigentümer des Seeschiffs gegenüber der Flaggenbehörde
 
 
 #### § 5b
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004905305)
 
 (1) Sind die Nachweise des § 5a geführt, so bescheinigt die
 Flaggenbehörde, daß die Voraussetzungen des § 2 Absatz 1 Nummer 3 des
@@ -229,6 +241,7 @@ Verkehrswirtschaft mit.
 
 
 #### § 5c
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE005003305)
 
 Die Berufsgenossenschaft für Transport und Verkehrswirtschaft ist im
 Rahmen ihrer Befugnisse nach der Schiffssicherheitsverordnung
@@ -241,10 +254,12 @@ ausgeübt werden kann.
 
 
 ### 2. - Befugnisse nach den §§ 10, 11 des Flaggenrechtsgesetzes, Flaggenscheine
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000400328)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE001900328)
 
 Für die Verleihung der Befugnisse zur Führung der Bundesflagge (§§ 10
 und 11 FlRG) und die Erteilung der Flaggenscheine (§ 3 Buchstabe b des
@@ -253,6 +268,7 @@ Unterscheidungssignale der Schiffe, ist die Flaggenbehörde zuständig.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002001308)
 
 (1) Der Antrag auf Verleihung der Befugnis zur Führung der
 Bundesflagge und auf Erteilung eines Flaggenscheins ist
@@ -279,6 +295,7 @@ die Befugnis.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002101308)
 
 (1) In dem Antrag sind der Name, in den Fällen des § 10 des
 Flaggenrechtsgesetzes die Baunummer des Schiffes sowie die in § 3 Abs.
@@ -355,6 +372,7 @@ bezeichneten Angaben entsprechend. Ferner sind vorzulegen:
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002200328)
 
 Der Flaggenschein wird
 
@@ -381,6 +399,7 @@ Fall nicht.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002302305)
 
 Die Flaggenbehörde übersendet der Berufsgenossenschaft für Transport
 und Verkehrswirtschaft eine beglaubigte Abschrift oder Ablichtung des
@@ -388,6 +407,7 @@ Flaggenscheins.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002400328)
 
 Der Antragsteller hat unverzüglich alle Veränderungen der in § 8
 bezeichneten Angaben anzuzeigen. Die Anzeige ist an die Flaggenbehörde
@@ -396,10 +416,12 @@ Berichtigung vorzulegen.
 
 
 ### 3. - Flaggenbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000500328)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002501308)
 
 Flaggenbescheinigungen (§ 3 Buchstabe c des Flaggenrechtsgesetzes)
 werden ausgestellt:
@@ -415,6 +437,7 @@ werden ausgestellt:
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002600328)
 
 Die Flaggenbescheinigung berührt nicht die Vorschriften darüber, ob
 und wie anstelle oder neben der Bundesflagge eine Dienstflagge gesetzt
@@ -422,16 +445,19 @@ werden darf.
 
 
 ### 4. - Flaggenzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000600328)
 
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002700328)
 
 Für die Erteilung der Flaggenzertifikate (§ 3 Buchstabe d des
 Flaggenrechtsgesetzes) ist die Flaggenbehörde zuständig.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002800328)
 
 (1) Wird der Antrag auf Erteilung eines Flaggenzertifikats für ein
 Seeschiff gestellt, das nicht nach den Vorschriften der §§ 1 oder 2
@@ -445,6 +471,7 @@ Erteilung eines Flaggenzertifikats nicht gestellt werden.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE002900328)
 
 (1) Der Antrag auf Erteilung eines Flaggenzertifikats ist vom
 Eigentümer des Seeschiffs zu stellen.
@@ -473,6 +500,7 @@ anzugeben:
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003002305)
 
 Ist der Antragsteller nicht Deutscher im Sinne der §§ 1 und 2 des
 Flaggenrechtsgesetzes oder einem Deutschen nach dessen § 2 oder 23
@@ -484,6 +512,7 @@ eine gesonderte Bescheinigung nach § 5b Abs. 1 nicht erforderlich.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003100328)
 
 (1) Flaggenzertifikate sind spätestens nach Ablauf von 8 Jahren seit
 ihrer Ausstellung ungültig, es sei denn, die Gültigkeitsdauer wird für
@@ -493,15 +522,18 @@ jeweils höchstens den gleichen Zeitraum verlängert.
 
 
 ## Dritter Abschnitt - Genehmigung der Führung einer anderen Nationalflagge (§ 7 des Flaggenrechtsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000701305)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003201305)
 
 (weggefallen)
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003302305)
 
 (1) Der Antrag hat die in § 3 Abs. 1 Nr. 1 bis 7, 9 und 10
 bezeichneten Angaben zu enthalten.
@@ -583,6 +615,7 @@ bezeichneten Angaben entsprechend.
 
 
 ### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE005200305)
 
 (1) Für den Nachweis nach § 7 Absatz 2 Satz 4 des
 Flaggenrechtsgesetzes sind die Personen, durch die ein Platz zur
@@ -597,14 +630,17 @@ Ausbildungsverträge und Heuerverträge nachzuweisen.
 
 
 ## Vierter Abschnitt - Register
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000800328)
 
 
 
 ### 1. - Flaggenregister
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG000900328)
 
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003402305)
 
 (1) Die Flaggenbehörde führt ein Register aller Seeschiffe, denen ein
 amtlicher Ausweis über die Berechtigung zur Führung der Bundesflagge
@@ -656,16 +692,19 @@ Datum der Eintragung aufgenommen:
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003500328)
 
 Die Eintragung wird zehn Jahre nach Beendigung der Berechtigung zur
 Führung der Bundesflagge gelöscht.
 
 
 ### 2. - Internationales Seeschiffahrtsregister
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG001000328)
 
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003600328)
 
 Das internationale Seeschiffahrtsregister (§ 12 des
 Flaggenrechtsgesetzes) wird von der Flaggenbehörde als Anhang zum
@@ -675,6 +714,7 @@ internationalen Seeschiffahrtsregister eingetragen ist.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003700328)
 
 Mit dem Antrag auf Eintragung in das internationale
 Seeschiffahrtsregister hat der Eigentümer glaubhaft die Tatsachen
@@ -684,6 +724,7 @@ jeweils geltenden Fassung ergibt.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003800328)
 
 (1) Ein im Internationalen Seeschiffahrtsregister eingetragenes
 Seeschiff wird ausgetragen
@@ -704,10 +745,12 @@ gelöscht.
 
 
 ## Fünfter Abschnitt - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG001100328)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE003900328)
 
 (1) Bei der Anwendung dieser Verordnung ist den völkerrechtlichen
 Verantwortlichkeiten der Bundesrepublik Deutschland als Flaggen- und
@@ -720,11 +763,13 @@ Besichtigungen und Prüfungen zu stellen, unberührt.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004000328)
 
 Flaggenbehörde ist das Bundesamt für Seeschiffahrt und Hydrographie.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004100328)
 
 (1) Die Anträge im Sinne dieser Verordnung sollen rechtzeitig für
 jedes Schiff gesondert gestellt werden. Die Flaggenbehörde gibt Muster
@@ -736,6 +781,7 @@ Versicherung an Eides Statt verlangen und abnehmen.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004204305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die
 Muster der amtlichen Ausweise über die Berechtigung zur Führung der
@@ -745,6 +791,7 @@ Flaggenrechtsgesetzes im Verkehrsblatt bekannt.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004301308)
 
 (1) Die Anzeige des Schiffsnamens und dessen Änderung ist an die
 Flaggenbehörde zu richten; diese ist auch für die Untersagung der
@@ -768,6 +815,7 @@ werden kann.
 
 
 ### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE005101305)
 
 (1) Die Bescheinigung über die lückenlose Stammdatendokumentation im
 Sinne des § 13 Abs. 2 Satz 1 des Flaggenrechtsgesetzes ist vom
@@ -803,6 +851,7 @@ ergreifen.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004400328)
 
 (1) Für jedes Schiff wird über die Berechtigung zur Führung der
 Bundesflagge nur ein Ausweis erteilt.
@@ -818,20 +867,24 @@ diesen Fällen unbrauchbar zu machen.
 
 
 ## Sechster Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNG001200328)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004501308)
 
 -
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004600328)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Anlage (zu § 5 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/flrv/BJNR013890990.html#BJNR013890990BJNE004701308)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 1394;
 bzgl. der einzelnen Änderungen vgl. Fußnote.

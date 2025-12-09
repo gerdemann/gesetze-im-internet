@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkcesg/BJNR266220996.html#BJNR266220996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkcesg/BJNR266220996.html#BJNR266220996BJNE000200310)
 
 Dem in Prag am 13. Juli 1995 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Tschechischen Republik über den Bau
@@ -35,6 +37,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkcesg/BJNR266220996.html#BJNR266220996BJNE000300310)
 
 (1) Auf die in Artikel 9 Abs. 1 des Vertrags bezeichneten Umsätze
 findet tschechisches Mehrwertsteuerrecht Anwendung. Für diese Umsätze
@@ -49,6 +52,7 @@ Bestimmungen sind mit Wirkung vom 13. Juli 1995 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkcesg/BJNR266220996.html#BJNR266220996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

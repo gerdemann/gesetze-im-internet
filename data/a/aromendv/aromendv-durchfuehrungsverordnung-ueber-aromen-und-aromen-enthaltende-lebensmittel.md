@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000100000)
 
 (1) Diese Verordnung ist anzuwenden in Ergänzung
 
@@ -105,6 +106,7 @@ Geändert durch
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000200000)
 
 Nicht vorverpackte Lebensmittel im Sinne dieser Verordnung sind
 Lebensmittel, die
@@ -123,6 +125,7 @@ Lebensmittel, die
 
 
 ## § 3 Lebensmittel, die für Säuglinge bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000300000)
 
 Die Verwendung von Aromastoffen ist verboten bei der Herstellung
 
@@ -137,6 +140,7 @@ Die Verwendung von Aromastoffen ist verboten bei der Herstellung
 
 
 ## § 4 Verwendung von frisch entwickeltem Rauch
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000400000)
 
 (1) Es ist verboten, Lebensmittel unter Verwendung von frisch
 entwickeltem Rauch herzustellen, wenn die Maßgaben der Absätze 2, 4
@@ -179,6 +183,7 @@ Mikrogramm pro Kilogramm (1,0 µg/kg) nicht überschreiten.
 
 
 ## § 5 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000501130)
 
 (1) Nicht vorverpackte Getränke mit einem Alkoholgehalt bis 1,2
 Volumenprozent und nicht vorverpackte Aromen, die jeweils Chinin oder
@@ -254,6 +259,7 @@ den Anforderungen des Artikels 17 Absatz 2 in Verbindung mit Artikel
 
 
 ## § 6 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000600000)
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -283,6 +289,7 @@ Verkehr bringt.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000700000)
 
 (1) Wer eine in § 6 Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
@@ -309,6 +316,7 @@ indem er vorsätzlich oder fahrlässig entgegen Artikel 14 Absatz 1 Satz
 
 
 ## § 8 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aromendv/BJNR472310021.html#BJNR472310021BJNE000800000)
 
 Lakritzwaren, die nicht den Anforderungen des § 5 Absatz 2
 entsprechen, dürfen bis zum Abbau der Vorräte auch nach dem 27.

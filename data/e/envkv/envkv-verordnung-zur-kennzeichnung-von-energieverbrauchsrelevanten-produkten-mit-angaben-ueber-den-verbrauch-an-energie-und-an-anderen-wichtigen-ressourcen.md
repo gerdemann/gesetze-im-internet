@@ -27,6 +27,7 @@ in Anlage 1 aufgeführten Richtlinien.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000100305)
 
 Auf Grund des § 1 Abs. 1 Nr. 1 des
 Energieverbrauchskennzeichnungsgesetzes vom 1. Juli 1997 (BGBl. I S.
@@ -35,6 +36,7 @@ mit dem Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000201310)
 
 (1) Diese Verordnung gilt für die in den Anlagen 1 und 2 genannten
 energieverbrauchsrelevanten Produkte, die während des Gebrauchs
@@ -67,6 +69,7 @@ Ressourcen haben.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000305128)
 
 Im Sinne dieser Verordnung
 
@@ -139,6 +142,7 @@ Im Sinne dieser Verordnung
 
 
 ## § 3 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000402310)
 
 (1) Energieverbrauchsrelevante Produkte, die für den Endverbraucher am
 Verkaufsort zum Kauf, zum Abschluss eines Mietvertrages oder zu
@@ -168,6 +172,7 @@ ist.
 
 
 ## § 4 Etiketten, Datenblätter
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000506128)
 
 (1) Lieferanten haben den Händlern Etiketten und Datenblätter
 unentgeltlich zur Verfügung zu stellen, wenn sie
@@ -267,6 +272,7 @@ ausstellen.
 
 
 ## § 4a Etiketten für Produkte nach Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001701118)
 
 Lieferanten dürfen für die von der Richtlinie nach Anlage 1 erfassten
 Produkte ein eigenes Lieferverfahren für die Etiketten wählen. Sie
@@ -278,6 +284,7 @@ Händler auf Anforderung unverzüglich zur Verfügung stehen.
 
 
 ## § 4b Etiketten für Produkte nach Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001802128)
 
 (1) Der jeweilige Lieferant hat für die Produkte, die von einer der in
 Anlage 2 Abschnitt 1 Absatz 1 genannten Delegierten Verordnungen
@@ -339,6 +346,7 @@ jedem Händler auf Anforderung unverzüglich zur Verfügung stehen.
 
 
 ## § 5 Nicht ausgestellte Produkte
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000603118)
 
 (1) Werden Produkte, die von der in Anlage 1 Satz 1 genannten
 Richtlinie oder den in Anlage 2 Abschnitt 1 Absatz 1 genannten
@@ -361,6 +369,7 @@ Produktgruppe maßgeblich ist.
 
 
 ## § 6 Technische Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000701310)
 
 (1) Soweit eine Kennzeichnungspflicht nach § 3 besteht, hat der
 Lieferant für das einzelne Produktmodell eine technische Dokumentation
@@ -386,6 +395,7 @@ Arbeitstagen in elektronischer Form zur Verfügung.
 
 
 ## § 6a Anforderungen an die Werbung
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001402128)
 
 Sofern in der Werbung für ein bestimmtes Produktmodell Informationen
 über den Energieverbrauch oder über den Preis angegeben werden, haben
@@ -413,6 +423,7 @@ anzuwenden.
 
 
 ## § 6b Anforderungen an technische Werbeschriften
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001502128)
 
 Sofern in der technischen Werbeschrift für ein Produktmodell die
 spezifischen technischen Parameter des Produktmodells beschrieben
@@ -445,6 +456,7 @@ vorgenannten Verordnung bereitgestellt werden.
 
 
 ## § 7 Missbräuchliche Verwendung von Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000801310)
 
 Es ist verboten, Marken, Symbole, Beschriftungen oder andere Etiketten
 zu verwenden, die nicht im Einklang mit den Anforderungen an die
@@ -458,6 +470,7 @@ Umweltkennzeichnungsregelungen.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE000904128)
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des
 Energieverbrauchskennzeichnungsgesetzes handelt, wer vorsätzlich oder
@@ -537,20 +550,24 @@ fahrlässig
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001005118)
 
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001100305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001200305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 Kennzeichnungspflicht für Wasch-Trockenautomaten
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001306118)
 
 (Fundstelle: BGBl. I 2014, 1653 — 1654)
 
@@ -636,6 +653,7 @@ e)  Bedienungsanleitungen, wenn sie zu dem Gerät mitgeliefert werden.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/envkv/BJNR261600997.html#BJNR261600997BJNE001604128)
 
 (Fundstelle: BGBl. I 2021, 311 - 313)
 

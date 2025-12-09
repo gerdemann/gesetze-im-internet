@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S.
@@ -39,6 +40,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000200000)
 
 Der Ausbildungsberuf Friseur/Friseurin wird nach § 25 Abs. 1 Satz 1
 der Handwerksordnung zur Ausbildung für das Gewerbe Nr. 38, Friseure,
@@ -46,11 +48,13 @@ der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -65,6 +69,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000501128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -177,6 +182,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000601128)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -193,6 +199,7 @@ Ausbildungsrahmenplans einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000700000)
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
@@ -212,6 +219,7 @@ Prozent, Teil 2 mit 75 Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000801128)
 
 (1) Teil 1 der Gesellenprüfung soll Mitte des zweiten
 Ausbildungsjahres stattfinden.
@@ -289,6 +297,7 @@ Vorgaben:
 
 
 ## § 8 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE000901128)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -463,6 +472,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE001001128)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -540,6 +550,7 @@ mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -549,6 +560,7 @@ Zwischenprüfung abgelegt wurde.
 
 
 ## § 10a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE001101128)
 
 Für Berufsausbildungsverhältnisse, die im Zeitraum vom 1. August 2021
 bis zum Ablauf des 31. Juli 2022 begonnen wurden, ist § 7 Absatz 4
@@ -556,12 +568,14 @@ Nummer 1 Buchstabe b nicht anzuwenden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
+[Direktlink](https://www.gesetze-im-internet.de/friseurausbv_2008/BJNR085600008.html#BJNR085600008BJNE001402128)
 
 (Fundstelle: BGBl. I 2008, 860 - 866, bzgl. der einzelnen Änderungen
 vgl. Fußnote)

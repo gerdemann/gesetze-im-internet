@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000100314)
 
 Auf Grund des § 46 Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14.
 August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 2 des
@@ -34,6 +35,7 @@ Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S.
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000201128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Baumaschinenmeister erworben
@@ -88,6 +90,7 @@ Geprüfter Baumaschinenmeister.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000301308)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -117,6 +120,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000402308)
 
 (1) Die Qualifikation zum Geprüften Baumaschinenmeister umfasst:
 
@@ -147,6 +151,7 @@ der letzten Prüfungsleistung zu erbringen.
 
 
 ## § 4 Wirtschafts-, rechts- und sozialkundlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000502128)
 
 (1) Im wirtschafts-, rechts- und sozialkundlichen Teil ist in
 folgenden Fächern zu prüfen:
@@ -342,6 +347,7 @@ gewichtet.
 
 
 ## § 5 Baumaschinentechnischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000602128)
 
 (1) Im baumaschinentechnischen Teil ist in folgenden Fächern zu
 prüfen:
@@ -623,6 +629,7 @@ gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000803128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung
@@ -636,6 +643,7 @@ zugrunde zu legen.
 
 
 ## § 7 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE000903128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -677,6 +685,7 @@ berechnet.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -725,6 +734,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001600128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -750,6 +760,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001003128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -765,23 +776,27 @@ diesem Fall wird das letzte Ergebnis berücksichtigt.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001103128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001201128)
 
 Diese Verordnung tritt am 1. August 1985 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001301128)
 
 Der Bundesminister für Bildung und Wissenschaft
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001404128)
 
 (Fundstelle: BGBl. I 2019, 2183 - 2184)
 
@@ -1083,6 +1098,7 @@ Der Bundesminister für Bildung und Wissenschaft
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE001700128)
 
 (Fundstelle: BGBl. I 2019, 2184 - 2185)
 
@@ -1158,6 +1174,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/baumaschmeistprv/BJNR001770985.html#BJNR001770985BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

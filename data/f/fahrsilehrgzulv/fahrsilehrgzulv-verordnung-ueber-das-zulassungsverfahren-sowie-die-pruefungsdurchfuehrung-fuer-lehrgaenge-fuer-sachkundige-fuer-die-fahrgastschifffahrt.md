@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Nummer 10 des
 Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
@@ -32,6 +33,7 @@ ist, verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
 
 
 ## § 1 Gegenstand dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000200000)
 
 Diese Verordnung regelt das Zulassungsverfahren für Basislehrgänge und
 für Auffrischungslehrgänge für Sachkundige für die Fahrgastschifffahrt
@@ -40,9 +42,11 @@ Durchführung der Prüfung in den zugelassenen Lehrgängen.
 
 
 ## Teil 1 - Antragsstellung und Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNG000100000)
 
 
 ### § 2 Antragsstellung
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000301119)
 
 (1) In dem Antrag auf Lehrgangszulassung ist anzugeben, ob eine
 Zulassung als Basislehrgang, als Auffrischungslehrgang oder beides
@@ -112,6 +116,7 @@ einzureichenden Nachweise im Original vorzulegen.
 
 
 ### § 3 Zulassungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000401119)
 
 Die Zulassungsentscheidung kann mit Nebenbestimmungen versehen werden,
 die sicherstellen, dass die Voraussetzungen des § 56
@@ -122,9 +127,11 @@ entsprechen.
 
 
 ## Teil 2 - Allgemeines über das Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNG000200000)
 
 
 ### § 4 Teilnahme an der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000500000)
 
 (1) Die Abschlussprüfung darf nur ablegen, wer zuvor an einem
 Basislehrgang für Sachkundige für die Fahrgastschifffahrt teilgenommen
@@ -137,6 +144,7 @@ einen Auffrischungslehrgang besucht haben.
 
 
 ### § 5 Anzeigepflicht und Prüfungsort
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000601119)
 
 (1) Die Durchführung einer Abschlussprüfung ist der zuständigen
 Behörde mindestens vier Wochen vorher unter Nennung des genauen
@@ -149,6 +157,7 @@ innerhalb Deutschlands abgenommen werden.
 
 
 ### § 6 Unabhängigkeit der Prüfenden
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000700000)
 
 Vor Abnahme einer Prüfung haben die Prüfenden sicherzustellen, dass
 sie gegenüber den Prüflingen nicht von Interessenskonflikten betroffen
@@ -160,6 +169,7 @@ entsprechend.
 
 
 ### § 7 Nichtbestehen eines Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000800000)
 
 Im Falle des Nichtbestehens des theoretischen oder des praktischen
 Prüfungsteils besteht keine Möglichkeit zur Nachprüfung. Eine
@@ -168,6 +178,7 @@ Prüfung stattfinden.
 
 
 ### § 8 Ausstellen einer Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE000901119)
 
 (1) Jedem Teilnehmenden eines Basislehrgangs oder
 Auffrischungslehrgangs, der die Abschlussprüfung bestanden hat, ist
@@ -181,9 +192,11 @@ Binnenschiffspersonalverordnung gültig.
 
 
 ## Teil 3 - Verfahren des theoretischen Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNG000300000)
 
 
 ### § 9 Prüfungsablauf
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001000000)
 
 (1) Jeder Prüfling hat einen Fragebogen zu beantworten, der nach
 Maßgabe des § 11 aus 30 verschiedenen Fragen im Antwort-Wahl-Verfahren
@@ -205,6 +218,7 @@ Bearbeitungszeit zu beaufsichtigen.
 
 
 ### § 10 Bewertung und Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001100000)
 
 (1) Die theoretische Prüfung kann von einer einzelnen Person bewertet
 werden, die für den Lehrgangsanbieter tätig ist.
@@ -215,6 +229,7 @@ hat.
 
 
 ### § 11 Gestaltung der Fragebögen
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001201119)
 
 (1) Jeder Lehrgangsanbieter hat mindestens vier verschiedene
 Fragebögen mit jeweils 30 Fragen zu erstellen und diese Fragebögen im
@@ -264,9 +279,11 @@ oder Dritten vor oder nach der Prüfung überlassen werden.
 
 
 ## Teil 4 - Verfahren des praktischen Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNG000400000)
 
 
 ### § 12 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001300000)
 
 Der praktische Prüfungsteil ist von einer Prüfungskommission
 abzunehmen und zu bewerten, die aus drei Prüfenden besteht. Die
@@ -275,6 +292,7 @@ Mitglied eine Stimme hat.
 
 
 ### § 13 Qualifikationen der Prüfenden
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001400000)
 
 (1) Als Mitglied einer Prüfungskommission für den praktischen
 Prüfungsteil darf nur eingesetzt werden, wer zum Zeitpunkt der
@@ -305,6 +323,7 @@ Lehrgang als Lehrkraft eingesetzt gewesen sein. § 6 bleibt unberührt.
 
 
 ### § 14 Inhalte und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001500000)
 
 Die Inhalte des praktischen Prüfungsteils sowie die Bewertung der
 Leistungen der Prüflinge ergeben sich aus Anlage 20 der
@@ -312,6 +331,7 @@ Binnenschiffspersonalverordnung.
 
 
 ### § 15 Prüfungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001600000)
 
 (1) Über die wesentlichen Inhalte des praktischen Prüfungsteils, den
 wesentlichen Ablauf sowie die Bewertung durch die Mitglieder der
@@ -323,9 +343,11 @@ Verfügung zu stellen.
 
 
 ## Teil 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNG000500000)
 
 
 ### § 16 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001700000)
 
 (1) Die Vorschriften dieser Verordnung gelten auch für
 Lehrgangsanbieter, die bereits vor dem 18. Mai 2023 als Basislehrgang
@@ -347,12 +369,14 @@ Schiffspersonalverordnung-Rhein nicht mehr anwendbar ist.
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 8)
 
 ### Anlage Bescheinigung über die erfolgreiche Teilnahme an einem Lehrgang für Sachkundige für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/fahrsilehrgzulv/BJNR07D0A0023.html#BJNR07D0A0023BJNE001900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 125, S. 6)
 

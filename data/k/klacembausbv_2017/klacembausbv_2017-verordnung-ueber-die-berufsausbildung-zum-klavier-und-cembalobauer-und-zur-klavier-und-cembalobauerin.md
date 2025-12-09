@@ -29,9 +29,11 @@ Stand: Ersetzt V 806-21-1-99 v. 7.12.1982 I 1647 (KlaCembAusbV)
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNG000101360)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE000301360)
 
 Der Ausbildungsberuf des Klavier- und Cembalobauers und der Klavier-
 und Cembalobauerin wird staatlich anerkannt nach
@@ -48,11 +50,13 @@ und Cembalobauerin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE000401360)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE000501360)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -70,6 +74,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE000601360)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -175,6 +180,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE000701360)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -182,9 +188,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNG000202360)
 
 
 ### § 6 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE000902360)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -194,6 +202,7 @@ Ausbildungsjahres stattfinden.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001002360)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -210,6 +219,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001102360)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -223,6 +233,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich Herstellen von Bauteilen
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001202360)
 
 (1) Im Prüfungsbereich Herstellen von Bauteilen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -269,6 +280,7 @@ Minuten.
 
 
 ### § 10 Prüfungsbereich Teilbereiche stimmen
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001302360)
 
 (1) Im Prüfungsbereich Teilbereiche stimmen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -313,9 +325,11 @@ bearbeitenden Prüfungsaufgaben beträgt 120 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung oder Gesellenprüfung in der Fachrichtung Klavierbau
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNG000302360)
 
 
 ### § 11 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001402360)
 
 (1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen,
 ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -325,6 +339,7 @@ Berufsausbildung durchgeführt werden.
 
 
 ### § 12 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001502360)
 
 Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
@@ -341,6 +356,7 @@ Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 13 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001602360)
 
 Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -364,6 +380,7 @@ Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001702360)
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -412,6 +429,7 @@ auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 
 ### § 15 Prüfungsbereich Durchführen von Reparaturen
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001802360)
 
 (1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -462,6 +480,7 @@ Tätigkeiten zwei Tätigkeiten auszuwählen:
 
 
 ### § 16 Prüfungsbereich Stimmen und Intonieren
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE001902360)
 
 (1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -501,6 +520,7 @@ auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
 
 
 ### § 17 Prüfungsbereich Planen und Konstruieren
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002002360)
 
 (1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -555,6 +575,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 18 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002102360)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -568,6 +589,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002202360)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -653,9 +675,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Abschlussprüfung oder Gesellenprüfung in der Fachrichtung Cembalobau
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNG000402360)
 
 
 ### § 20 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002302360)
 
 (1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen,
 ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -665,6 +689,7 @@ Berufsausbildung durchgeführt werden.
 
 
 ### § 21 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002402360)
 
 Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
@@ -681,6 +706,7 @@ Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 22 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002502360)
 
 Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -704,6 +730,7 @@ Prüfungsbereichen statt:
 
 
 ### § 23 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002602360)
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -753,6 +780,7 @@ auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
 
 ### § 24 Prüfungsbereich Durchführen von Reparaturen
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002702360)
 
 (1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -803,6 +831,7 @@ Tätigkeiten zwei Tätigkeiten auszuwählen:
 
 
 ### § 25 Prüfungsbereich Stimmen und Intonieren
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002802360)
 
 (1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -841,6 +870,7 @@ auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
 
 
 ### § 26 Prüfungsbereich Planen und Konstruieren
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE002902360)
 
 (1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -895,6 +925,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 27 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE003002360)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -908,6 +939,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 28 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE003102360)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -993,9 +1025,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNG000502360)
 
 
 ### § 29 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE003202360)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -1004,11 +1038,13 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 30 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE003303360)
 
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin
+[Direktlink](https://www.gesetze-im-internet.de/klacembausbv_2017/BJNR153500017.html#BJNR153500017BJNE003402360)
 
 (Fundstelle: BGBl. I 2018, 65 - 72)
 

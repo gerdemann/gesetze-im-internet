@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000200000)
 
 (1) Dieses Gesetz gilt für alle Funkanlagen, die auf dem Markt
 bereitgestellt oder in Betrieb genommen werden.
@@ -43,6 +45,7 @@ betroffen ist.
 
 
 ### § 2 Einschränkungen des Anwendungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000301119)
 
 (1) Dieses Gesetz gilt nicht für
 
@@ -177,6 +180,7 @@ Verteidigung dienen.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000400000)
 
 (1) Im Sinne dieses Gesetzes ist beziehungsweise sind
 
@@ -364,6 +368,7 @@ zu berücksichtigen.
 
 
 ### § 4 Grundlegende Anforderungen an Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000501119)
 
 (1) Funkanlagen müssen so konstruiert sein, dass Folgendes
 gewährleistet ist:
@@ -442,6 +447,7 @@ entsprechen.
 
 
 ### § 4a Erwerb von Funkanlagen ohne Ladenetzteil
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE004000119)
 
 (1) Bietet ein Wirtschaftsakteur Endnutzern die Möglichkeit an, die in
 § 4 Absatz 4 genannten Funkanlagen zusammen mit einem Ladenetzteil zu
@@ -461,6 +467,7 @@ Piktogramm in der Nähe der Preisangabe befinden.
 
 
 ### § 5 Bereitstellung von Informationen über die Konformität von Kombinationen von Funkanlagen und Software
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000600000)
 
 (1) Die Hersteller von Funkanlagen und von Software, die die
 bestimmungsgemäße Verwendung von Funkanlagen ermöglicht, haben der
@@ -488,6 +495,7 @@ Funkanlagen den Anforderungen des Absatzes 1 unterfallen.
 
 
 ### § 6 Registrierung von Funkanlagen bestimmter Kategorien
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000700000)
 
 (1) Ab dem 12. Juni 2018 dürfen Funkanlagentypen, die zu
 Gerätekategorien nach Absatz 2 mit einem geringen Maß an Konformität
@@ -509,6 +517,7 @@ Artikel 5 Absatz 3 der Richtlinie 2014/53/EU.
 
 
 ### § 7 Bereitstellung auf dem Markt, Inbetriebnahme und Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000800000)
 
 (1) Funkanlagen dürfen nur auf dem Markt bereitgestellt, in Betrieb
 genommen und genutzt werden, wenn sie bei ordnungsgemäßer
@@ -522,6 +531,7 @@ Gründen der öffentlichen Gesundheit bleiben unberührt.
 
 
 ### § 8 Besondere Regelungen zum freien Warenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE000900000)
 
 (1) Funkanlagen, die den Anforderungen dieses Gesetzes genügen, dürfen
 auf dem Markt bereitgestellt werden. Beschränkungen aufgrund anderer
@@ -542,9 +552,11 @@ für Güter abzuwenden.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000200000)
 
 
 ### § 9 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001000000)
 
 (1) Wenn der Hersteller Funkanlagen in Verkehr bringt, hat er
 sicherzustellen, dass diese so entworfen und gebaut wurden, dass sie
@@ -597,6 +609,7 @@ diese Überwachungstätigkeiten.
 
 
 ### § 10 Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001100000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Funkanlagen beim
 Inverkehrbringen eine Typen-,
@@ -633,6 +646,7 @@ ausgehen, die er in Verkehr gebracht hat.
 
 
 ### § 11 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001200000)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -667,6 +681,7 @@ Richtlinie 2014/53/EU kann der Hersteller nicht dem Bevollmächtigten
 
 
 ### § 12 Allgemeine Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001301119)
 
 (1) Der Einführer darf nur Funkanlagen in Verkehr bringen, die den
 Anforderungen dieses Gesetzes genügen.
@@ -738,6 +753,7 @@ Fernabsatzes in der Nähe der Preisangabe befindet.
 
 
 ### § 13 Kennzeichnungs- und Informationspflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001400000)
 
 (1) Der Einführer hat beim Inverkehrbringen der Funkanlage seinen
 Namen, seinen eingetragenen Handelsnamen oder seine eingetragene
@@ -769,6 +785,7 @@ der Funkanlage ausgehen, die er in Verkehr gebracht hat.
 
 
 ### § 14 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001501119)
 
 (1) Der Händler darf eine Funkanlage erst auf dem Markt bereitstellen,
 wenn er sichergestellt hat, dass
@@ -833,6 +850,7 @@ Fernabsatzes in der Nähe der Preisangabe befindet.
 
 
 ### § 15 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001600000)
 
 Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses
 Gesetzes und unterliegt den Pflichten des Herstellers nach den §§ 9
@@ -853,6 +871,7 @@ und 10, wenn er
 
 
 ### § 16 Identifizierung der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001700000)
 
 (1) Die Wirtschaftsakteure sind verpflichtet, der Bundesnetzagentur
 auf Verlangen die Wirtschaftsakteure zu nennen,
@@ -870,9 +889,11 @@ die Dauer von zehn Jahren nach Abgabe oder Bezug der Funkanlage.
 
 
 ## Abschnitt 3 - Konformität von Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000300000)
 
 
 ### § 17 Konformitätsvermutung bei Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001800000)
 
 Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen
 oder Teilen davon, deren Fundstellen im Amtsblatt der Europäischen
@@ -882,6 +903,7 @@ Normen abgedeckten Anforderungen des § 4 genügt.
 
 
 ### § 18 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE001901119)
 
 (1) Der Hersteller hat die Konformität der Funkanlage mit den
 Anforderungen des § 4 Absatz 1 und 4 durch eines der folgenden
@@ -953,6 +975,7 @@ Europäischen Union enthalten.
 
 
 ### § 19 CE-Kennzeichnung von Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002000000)
 
 (1) Funkanlagen, deren Konformität mit den Anforderungen des § 4 im
 Konformitätsbewertungsverfahren nachgewiesen wurde, sind mit der CE-
@@ -989,6 +1012,7 @@ oder seinen Bevollmächtigten.
 
 
 ### § 20 Gebrauchsanleitung und Sicherheitsinformationen, Hinweise auf Nutzungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002101119)
 
 (1) Jeder Funkanlage sind eine Gebrauchsanleitung und
 Sicherheitsinformationen beizufügen, die zur bestimmungsgemäßen
@@ -1048,6 +1072,7 @@ Etikett in der Nähe der Preisangabe befinden.
 
 
 ### § 21 Technische Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002200000)
 
 (1) Die technischen Unterlagen enthalten alle einschlägigen Daten und
 Angaben darüber, wie der Hersteller sicherstellt, dass die Funkanlage
@@ -1065,9 +1090,11 @@ ist, abgefasst sein.
 
 
 ## Abschnitt 4 - Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000400000)
 
 
 ### § 22 Notifizierende Behörde, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002300000)
 
 (1) Notifizierende Behörde ist die Bundesnetzagentur. Die
 Bundesnetzagentur richtet das Verfahren zur Anerkennung einer
@@ -1106,12 +1133,15 @@ nach Abkommen mit Drittstaaten durchführen.
 
 
 ## Abschnitt 5 - Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000500000)
 
 
 ### Unterabschnitt 1 - Zuständigkeiten und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000600000)
 
 
 #### § 23 Zuständigkeiten und Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002400000)
 
 (1) Die Bundesnetzagentur führt dieses Gesetz aus, soweit nichts
 anderes bestimmt ist. Sie überwacht die Einhaltung der Bestimmungen
@@ -1161,9 +1191,11 @@ Befugnisse wahr:
 
 
 ### Unterabschnitt 2 - Marktüberwachung, Schutz von Personen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000700000)
 
 
 #### § 24 Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht oder die grundlegende Anforderungen nicht erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002501119)
 
 (1) Hat die Bundesnetzagentur Grund zu der Annahme, dass eine
 Funkanlage
@@ -1220,6 +1252,7 @@ hat.
 
 
 #### § 25 Maßnahmen bei nichtkonformen Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002600000)
 
 (1) Ergreift der Wirtschaftsakteur, in dessen Verantwortungsbereich
 sich eine nichtkonforme Funkanlage befindet, innerhalb der in § 24
@@ -1251,6 +1284,7 @@ Nichtkonformität nicht auf das deutsche Hoheitsgebiet beschränkt, so
 
 
 #### § 26 Maßnahmen auf Messen und Ausstellungen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002700000)
 
 (1) Stellt die Bundesnetzagentur fest, dass eine Funkanlage, die auf
 Messen, Ausstellungen oder ähnlichen Veranstaltungen ausgestellt ist
@@ -1265,6 +1299,7 @@ Funkanlage.
 
 
 #### § 27 Maßnahmen bei fehlerhaften technischen Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002800000)
 
 (1) Genügen die technischen Unterlagen nicht den Anforderungen des §
 21 und ergibt sich daraus, dass die vorgelegten einschlägigen Daten
@@ -1281,6 +1316,7 @@ durchzuführen ist.
 
 
 #### § 28 Maßnahmen bei formaler Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE002901119)
 
 (1) Unbeschadet des § 24 fordert die Bundesnetzagentur, wenn sie eine
 formale Nichtkonformität feststellt, den betreffenden
@@ -1357,6 +1393,7 @@ zurückgerufen wird. § 25 Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 29 Pflichten der Bundesnetzagentur bei Funkanlagen, von denen eine Gefahr ausgeht
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003000000)
 
 (1) Ist die Bundesnetzagentur der Auffassung, dass die nach § 24
 Absatz 2 beanstandeten Funkanlagen auch in anderen Mitgliedstaaten der
@@ -1428,6 +1465,7 @@ Maßnahmen, wenn die Kommission nach Artikel 41 Absatz 1 der Richtlinie
 
 
 #### § 30 Pflichten der Bundesnetzagentur bei Funkanlagen, von denen eine Gefahr ausgeht, bei Maßnahmen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003100000)
 
 (1) Wird die Bundesnetzagentur von einem anderen Mitgliedstaat der
 Europäischen Union darüber informiert, dass dieser Mitgliedstaat nach
@@ -1471,6 +1509,7 @@ Bundesnetzagentur der Kommission mit.
 
 
 #### § 31 Auskunftsrechte
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003200000)
 
 (1) Die Bundesnetzagentur kann von den Wirtschaftsakteuren, von
 sonstigen Akteuren, die Funkanlagen ausstellen, betreiben, lagern oder
@@ -1517,6 +1556,7 @@ dulden.
 
 
 #### § 32 Schutz von Personen vor elektromagnetischen Feldern
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates nähere Regelungen zur Gewährleistung des
@@ -1527,9 +1567,11 @@ bleiben hiervon unberührt.
 
 
 ### Unterabschnitt 3 - Schnittstellenbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000800000)
 
 
 #### § 33 Bereitstellung von Schnittstellenbeschreibungen durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003400000)
 
 (1) Die Bundesnetzagentur stellt für Funkanlagen, die in
 Frequenzbändern betrieben werden, deren Nutzungsbedingungen nicht
@@ -1581,9 +1623,11 @@ Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 ### Unterabschnitt 4 - Zwangsgeld und Beiträge, Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG000900000)
 
 
 #### § 34 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003500000)
 
 Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach § 24
 Absatz 2 und 3, § 25 Absatz 1 sowie den §§ 26 bis 29 und 31 ein
@@ -1591,6 +1635,7 @@ Zwangsgeld von bis zu 500 000 Euro festsetzen.
 
 
 #### § 35 Beiträge, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003600000)
 
 (1) Senderbetreiber haben einen Jahresbeitrag zur Abgeltung der Kosten
 für Maßnahmen nach den §§ 24 bis 29 zu entrichten.
@@ -1624,6 +1669,7 @@ Bundesnetzagentur übertragen.
 
 
 #### § 36 Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003701119)
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur
 haben keine aufschiebende Wirkung.
@@ -1633,9 +1679,11 @@ Telekommunikationsgesetzes.
 
 
 ## Abschnitt 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG001000000)
 
 
 ### § 37 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1716,9 +1764,11 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNG001100000)
 
 
 ### § 38 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/fuag/BJNR194710017.html#BJNR194710017BJNE003901119)
 
 (1) Funkanlagen, auf die dieses Gesetz anzuwenden ist und die mit den
 bis zum 13. Juni 2016 geltenden Bestimmungen in Einklang stehen und

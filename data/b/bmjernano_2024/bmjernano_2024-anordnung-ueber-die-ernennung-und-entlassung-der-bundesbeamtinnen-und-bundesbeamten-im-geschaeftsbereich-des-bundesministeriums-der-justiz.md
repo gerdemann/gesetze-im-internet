@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano_2024/BJNR1330A0023.html#BJNR1330A0023BJNE000100000)
 
 Auf Grund des Artikels 1 Absatz 1 der Anordnung des Bundespräsidenten
 über die Ernennung und Entlassung der Beamtinnen, Beamten,
@@ -55,18 +56,21 @@ Bundesbesoldungsordnung A (Anlage I des Bundesbesoldungsgesetzes).
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano_2024/BJNR1330A0023.html#BJNR1330A0023BJNE000200000)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter I. genannten Beamtinnen und Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano_2024/BJNR1330A0023.html#BJNR1330A0023BJNE000300000)
 
 Diese Anordnung tritt am 1. Januar 2024 in Kraft. Frühere Anordnungen
 zum selben Gegenstand sind nicht mehr anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano_2024/BJNR1330A0023.html#BJNR1330A0023BJNE000400000)
 
 Der Bundesminister der Justiz
 

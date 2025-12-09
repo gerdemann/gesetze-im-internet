@@ -21,21 +21,25 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE000400311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Teil 1 - Anpassung von Dienst- und Versorgungsbezügen
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNG000100311)
 
 
 
 ### Art 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE000501310)
 
 -
 
 
 ### Art 2 Sonstige Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE000601310)
 
 (1) (weggefallen)
 
@@ -54,11 +58,13 @@ nicht mehr teil.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE000700311)
 
 -
 
 
 ### Art 4 Berechnungs- und Anpassungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE000800311)
 
 (1) Bei der Berechnung der Erhöhungen nach den Artikeln 1 und 2 sowie
 den Berechnungen nach Artikel 3 sind sich ergebende Bruchteile eines
@@ -77,19 +83,23 @@ Bundesbesoldungsgesetzes im Bundesgesetzblatt bekannt.
 
 
 ## Teil 2 - Änderung sonstiger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNG000200311)
 
 
 
 ### (XXXX) Art 5 bis Art 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE000900311)
 
 -
 
 
 ## Teil 3 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNG000300311)
 
 
 
 ### Art 12 Neubekanntmachungserlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE001000311)
 
 Das Bundesministerium des Innern kann den Wortlaut des
 Bundesbesoldungsgesetzes sowie den Wortlaut der
@@ -100,6 +110,7 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ### Art 13 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE001100311)
 
 Die auf Artikel 2 Abs. 1 Nr. 2 und 3 sowie Artikeln 3 und 11
 beruhenden Teile der dort geänderten Rechtsverordnungen können auf
@@ -108,6 +119,7 @@ geändert werden.
 
 
 ### Art 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_98/BJNR202600998.html#BJNR202600998BJNE001201310)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 mit Wirkung vom
 1\. Januar 1998 in Kraft.

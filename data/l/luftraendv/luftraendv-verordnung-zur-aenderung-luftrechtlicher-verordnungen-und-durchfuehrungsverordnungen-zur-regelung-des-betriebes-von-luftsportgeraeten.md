@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv/BJNR075000993.html#BJNR075000993BJNE000100307)
 
 Auf Grund des § 32 des Luftverkehrsgesetzes, der durch Artikel 1 Nr.
 15 des Zehnten Gesetzes zur Änderung des Luftverkehrsgesetzes vom 23.
@@ -27,10 +28,12 @@ Bundesminister für Verkehr:
 
 
 ## (XXXX) Art 1 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv/BJNR075000993.html#BJNR075000993BJNE000200307)
 
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv/BJNR075000993.html#BJNR075000993BJNE000300307)
 
 (1) Die von den Luftfahrtbehörden der Länder erteilten
 Luftfahrerscheine für Fallschirmspringer und die seit dem 1. Dezember
@@ -66,6 +69,7 @@ Inkrafttreten dieser Verordnung einer Außenstart- und -landeerlaubnis.
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv/BJNR075000993.html#BJNR075000993BJNE000400307)
 
 Der Bundesminister für Verkehr kann nach Inkrafttreten dieser
 Verordnung den Wortlaut der durch sie geänderten Verordnungen in der
@@ -75,11 +79,13 @@ Ordnungszeichen versehen.
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv/BJNR075000993.html#BJNR075000993BJNE000500307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/luftr_ndv/BJNR075000993.html#BJNR075000993BJNE000600307)
 
 Der Bundesrat hat zugestimmt.
 

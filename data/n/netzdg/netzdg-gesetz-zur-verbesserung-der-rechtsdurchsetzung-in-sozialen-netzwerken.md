@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE000802128)
 
 (1) Dieses Gesetz gilt für Anbieter digitaler Dienste, die mit
 Gewinnerzielungsabsicht Plattformen im Internet betreiben, die dazu
@@ -53,10 +54,12 @@ gerechtfertigt sind.
 
 
 ## (XXXX) §§ 2 bis 3f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE000202128)
 
 
 
 ## § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE000901128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 § 5 Satz 1 einen Zustellungsbevollmächtigten nicht benennt.
@@ -75,6 +78,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 ## § 4a Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE001500123)
 
 (1) Die in § 4 genannte Verwaltungsbehörde überwacht die Einhaltung
 der Vorschriften dieses Gesetzes.
@@ -127,6 +131,7 @@ Zeugnisses zu belehren.
 
 
 ## § 5 Inländischer Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE000502128)
 
 Anbieter sozialer Netzwerke, bei denen nach § 2 des Digitale-Dienste-
 Gesetzes kein anderer Mitgliedstaat Sitzland ist oder als Sitzland
@@ -144,10 +149,12 @@ Vollziehungsverfahren.
 
 
 ## § 5a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE001601128)
 
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html#BJNR335210017BJNE000602128)
 
 Die Zuständigkeit des Bundesamts für Justiz nach den Vorschriften der
 bis zum 16. Februar 2024 geltenden Fassung dieses Gesetzes für

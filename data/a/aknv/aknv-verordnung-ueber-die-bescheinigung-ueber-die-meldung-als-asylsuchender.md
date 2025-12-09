@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000100000)
 
 Auf Grund des § 88 Absatz 2 des Asylgesetzes, der zuletzt durch
 Artikel 1 Nummer 5 des Gesetzes vom 2. Februar 2016 (BGBl. I S. 130)
@@ -27,6 +28,7 @@ geändert worden ist, verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000201126)
 
 (1) Die nach § 16 des Asylgesetzes zuständigen Behörden haben das
 Folgende dem Stand der Technik entsprechend zu gewährleisten:
@@ -97,6 +99,7 @@ Systemkomponenten erforderlich:
 
 
 ## § 2 Nationale Sicherheits- und Qualitätsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000301126)
 
 (1) Das Bundesamt für Sicherheit in der Informationstechnik führt eine
 nationale Sicherheits- und Qualitätsstatistik zu den nach § 16 des
@@ -121,6 +124,7 @@ zwischen statistischen und nichtstatistischen Aufgaben einzuhalten.
 
 
 ## § 3 Dokumentationspflichten für den Ankunftsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000402126)
 
 Die Liste der Seriennummern der Bescheinigungen (AKN-Nummern) und die
 Blanko-Ankunftsnachweise sind getrennt voneinander und sicher zu
@@ -128,6 +132,7 @@ verwahren; die bereits vergebenen AKN-Nummern sind zu dokumentieren.
 
 
 ## § 4 Ausstellung des Ankunftsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000500000)
 
 (1) Die ausstellende Behörde prüft, ob die für den Ankunftsnachweis
 nach Anlage 4 erforderlichen Daten vollständig und zutreffend erhoben
@@ -142,12 +147,14 @@ zur Person auf eigenen Angaben des Asylsuchenden beruhen.
 
 
 ## § 5 Muster für den Ankunftsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000601126)
 
 Der Ankunftsnachweis ist ausschließlich nach dem in Anlage 3
 abgedruckten Muster auszustellen.
 
 
 ## § 6 Aushändigung des Ankunftsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000700000)
 
 (1) Der Ankunftsnachweis ist dem Asylsuchenden erst nach
 Unterschriftsleistung auszuhändigen, es sei denn, die
@@ -162,6 +169,7 @@ genügt und das Dokument nicht zum Grenzübertritt berechtigt.
 
 
 ## § 7 Änderung der Anschrift, Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000800000)
 
 (1) Der Verlängerungsvermerk ist auf Seite 4 des Ankunftsnachweises
 einzutragen.
@@ -175,11 +183,13 @@ Behördensiegel zu versehen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE000900000)
 
 Diese Verordnung tritt am 6. Februar 2016 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
@@ -187,6 +197,7 @@ Der Bundesrat hat zugestimmt.
 Technische Richtlinien
 
 ## Anlage 1 des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE001101126)
 
 (Fundstelle: BGBl. I 2016, 164;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -216,6 +227,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu den §§ 3 und 4 Absatz 1)
 
 ## Anlage 2 Formale Anforderungen an variable Einträge
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE001201126)
 
 (Fundstelle: BGBl. I 2016, 165 - 169;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -583,6 +595,7 @@ Anmerkung:
 (zu § 5)
 
 ## Anlage 3 Muster des Ankunftsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/aknv/BJNR016200016.html#BJNR016200016BJNE001401126)
 
 (Fundstelle: BGBl. I 2016, 171;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

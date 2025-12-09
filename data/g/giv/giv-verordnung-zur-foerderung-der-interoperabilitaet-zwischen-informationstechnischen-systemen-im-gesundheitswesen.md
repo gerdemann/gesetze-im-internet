@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/giv/BJNR473900021.html#BJNR473900021BJNE000100000)
 
 Auf Grund des § 375 Absatz 1 Satz 1 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 1 Nummer 66a Buchstabe a des
@@ -32,6 +33,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Schnittstellen in informationstechnischen Systemen in der vertragsärztlichen und vertragszahnärztlichen Versorgung sowie in Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/giv/BJNR473900021.html#BJNR473900021BJNE000200000)
 
 (1) Folgende im Interoperabilitätsverzeichnis nach § 385 des Fünften
 Buches Sozialgesetzbuch veröffentlichte Leitfäden und deren
@@ -61,6 +63,7 @@ Sozialgesetzbuch berücksichtigt werden.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/giv/BJNR473900021.html#BJNR473900021BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

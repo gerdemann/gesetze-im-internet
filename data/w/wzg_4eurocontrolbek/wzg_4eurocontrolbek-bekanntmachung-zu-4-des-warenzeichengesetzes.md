@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -49,11 +50,13 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1 Bezeichnungen und Kennzeichen der Europäischen Organisation zur Sicherung der Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000200303)
 
 Bezeichnungen
 
@@ -92,27 +95,32 @@ Fundstelle: BGBl. I 1971, 671)
 
 
 ## Anlage 2 Kennzeichen des Internationalen Ausstellungsbüros
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000300303)
 
 (Fundstelle: BGBl. I 1971, 672)
 ![bgbl1_1971_j0672_0010.jpg](bgbl1_1971_j0672_0010.jpg)
 
 ## Anlage 3 Kennzeichen der Organisation der Erdöl ausführenden Staaten
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000400303)
 
 (Fundstelle: BGBl. I 1971, 672)
 ![bgbl1_1971_j0672_0020.jpg](bgbl1_1971_j0672_0020.jpg)
 
 ## Anlage 4 Bezeichnungen und Kennzeichen der Weltorganisation für geistiges Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000500303)
 
 (Fundstelle: BGBl. I 1971, 673,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![bgbl1_1971_j0673_0010.jpg](bgbl1_1971_j0673_0010.jpg)
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000600303)
 
 -
 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eurocontrolbek/BJNR006700971.html#BJNR006700971BJNE000700303)
 
 -
 

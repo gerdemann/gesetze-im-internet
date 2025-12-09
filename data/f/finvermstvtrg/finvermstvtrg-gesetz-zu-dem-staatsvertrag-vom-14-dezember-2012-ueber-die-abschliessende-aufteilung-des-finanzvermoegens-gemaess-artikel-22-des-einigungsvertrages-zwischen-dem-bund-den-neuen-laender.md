@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1 Zustimmung zum Finanzvermögen-Staatsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtrg/BJNR185800013.html#BJNR185800013BJNE000100000)
 
 (1) Dem Staatsvertrag vom 14. Dezember 2012 über die abschließende
 Aufteilung des Finanzvermögens gemäß Artikel 22 des Einigungsvertrages
@@ -29,6 +30,7 @@ Staatsvertrag) wird zugestimmt.
 
 
 ## Art 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtrg/BJNR185800013.html#BJNR185800013BJNE000200000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

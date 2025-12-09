@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000100307)
 
 Gemäß § 27 der Verordnung vom 16. Oktober 1975 über die Schüler- und
 Kinderspeisung (GBl. I Nr. 44 S. 713) wird im Einvernehmen mit den
@@ -25,6 +26,7 @@ Leitern der zuständigen zentralen Staatsorgane folgendes bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000200307)
 
 (1) Zur Sicherung einer abwechslungsreichen, nahrhaften, gesunden und
 dem Geschmack der Kinder entsprechenden Schüler- und Kinderspeisung
@@ -57,6 +59,7 @@ Kinderspeisung, Staatsverlag der DDR 1976, veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000300307)
 
 (1) Die Abgabepreise für warme Hauptmahlzeiten der Schüler- und
 Kinderspeisung sind wie folgt zu ermitteln:
@@ -169,6 +172,7 @@ verwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000400307)
 
 (1) Sofern die Schülerspeisung noch nicht in voller Höhe des Bedarfs
 bereitgestellt werden kann, entscheidet der Direktor der jeweiligen
@@ -244,6 +248,7 @@ einheitliche Grundsätze zu berücksichtigen:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000500307)
 
 (1) Bei der Planung der Kapazitäten für die Betriebe und Einrichtungen
 der Schüler- und Kinderspeisung ist von den konkreten örtlichen
@@ -266,6 +271,7 @@ Kinderspeisung zu erteilen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000600307)
 
 (1) Die für die Schüler- und Kinderspeisung erforderlichen Warenfonds
 sind in die Warenfondspläne der zentralen und betrieblichen
@@ -290,6 +296,7 @@ entsprechend anzuwenden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000700307)
 
 (1) Die in den Verantwortungsbereichen Volksbildung und Berufsbildung
 bestehenden Einrichtungen der Schüler- und Kinderspeisung werden von
@@ -330,6 +337,7 @@ b)  Einrichtungen der Schüler- und Kinderspeisung, die ausschließlich für
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000800307)
 
 (1) Die Aufgaben auf dem Gebiet der Schüler- und Kinderspeisung sind
 als in sich geschlossener Komplex in die Bezirksversorgungspläne und
@@ -350,6 +358,7 @@ Planauflagen für die Schüler- und Kinderspeisung durch ihr
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE000900307)
 
 (1) Die Räte der Bezirke können den wirtschaftsleitenden Organen des
 sozialistischen Einzelhandels Aufgaben der Leitung, Planung und
@@ -399,6 +408,7 @@ Rationalisierung der Arbeit in den Küchen und Ausgabestellen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001000307)
 
 (1) Zur Organisation und Durchführung der Trinkmilchversorgung haben
 die Betriebe des volkseigenen Einzelhandels und die
@@ -421,6 +431,7 @@ den Schulen und bei der Gewinnung von Verkaufskräften zu unterstützen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001100307)
 
 (1) Bei den Räten der Bezirke und Kreise üben Aktive für die Schüler-
 und Kinderspeisung eine beratende und unterstützende Tätigkeit aus.
@@ -448,6 +459,7 @@ auszuwerten.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001200307)
 
 (1) Die Bereitstellung von Haushaltsmitteln zur Sicherung der Schüler-
 und Kinderspeisung erfolgt durch die zuständigen örtlichen Räte für
@@ -483,6 +495,7 @@ einem Zinssatz von 1,8%.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001300307)
 
 Die Berichterstattung über die Schüler- und Kinderspeisung erfolgt für
 die Kennziffern der Schüler- und Kinderspeisung durch die Betriebe und
@@ -491,6 +504,7 @@ bestätigten Kennziffernprogramm.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001400307)
 
 (1) Diese Durchführungsbestimmung tritt am 1. Januar 1976 in Kraft.
 
@@ -523,11 +537,13 @@ Gleichzeitig treten außer Kraft:
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001500307)
 
 **Der Minister für Handel und Versorgung**
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001600307)
 
 Fundstelle des Originaltextes: GBl. I 1985, Nr. 5, 68 - 69
 I. **Ernährungsphysiologische Richtwerte**
@@ -858,6 +874,7 @@ III. **Allgemeine Hinweise**
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001700307)
 
 Fundstelle des Originaltextes: GBl. I 1987, Nr. 13, 153 - 154
 
@@ -1322,6 +1339,7 @@ Einrichtungen, die im Speisenferntransport beliefert werden**
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001800307)
 
 (Fundstelle: GBl. DDR I 1975, Nr. 44, 721)
 
@@ -1489,6 +1507,7 @@ Gesetzblattes S. 59).
 [^DDNR007170975BJNE001800307_05]: 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE001900307)
 
 Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 721 - 722
 **Regelungen zur Bilanzierung und Verteilung von küchentechnischen
@@ -1633,6 +1652,7 @@ Maschinenbauhandel.
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE002000307)
 
 Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 722
 **Produktivitätsrichtwerte**
@@ -1698,6 +1718,7 @@ hergestellt werden
 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/schkispvdbest_1/DDNR007170975.html#DDNR007170975BJNE002100307)
 
 (Fundstelle: GBl. DDR I 1987 Nr. 13, 154 - 155)
 

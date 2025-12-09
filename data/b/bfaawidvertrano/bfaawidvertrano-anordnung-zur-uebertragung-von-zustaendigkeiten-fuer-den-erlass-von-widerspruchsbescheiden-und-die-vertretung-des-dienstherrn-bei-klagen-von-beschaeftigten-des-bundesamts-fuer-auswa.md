@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfaawidvertrano/BJNR183200022.html#BJNR183200022BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) sowie § 56
@@ -32,6 +33,7 @@ des Innern und für Heimat an:
 
 
 ## § 1 Zuständigkeiten für das Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfaawidvertrano/BJNR183200022.html#BJNR183200022BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass von
 Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche von
@@ -41,6 +43,7 @@ das Bundesverwaltungsamt die Maßnahme getroffen hat.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bfaawidvertrano/BJNR183200022.html#BJNR183200022BJNE000300000)
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
 die Vertretung der Bundesrepublik Deutschland in
@@ -54,6 +57,7 @@ zu regeln oder selbst wahrzunehmen.
 
 
 ## § 3 Beihilfefestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bfaawidvertrano/BJNR183200022.html#BJNR183200022BJNE000400000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für die
 Beihilfefestsetzung für Beihilfeanträge der Beamtinnen und Beamten des
@@ -64,6 +68,7 @@ Vorschriften der obersten Dienstbehörde vorbehalten sind.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfaawidvertrano/BJNR183200022.html#BJNR183200022BJNE000500000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft.
 

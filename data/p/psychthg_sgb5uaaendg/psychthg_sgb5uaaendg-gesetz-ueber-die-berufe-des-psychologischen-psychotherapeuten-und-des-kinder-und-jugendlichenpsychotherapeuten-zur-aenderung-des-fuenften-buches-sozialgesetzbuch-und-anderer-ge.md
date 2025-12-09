@@ -22,22 +22,26 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000200311)
 
 -
 
 
 ## (XXXX) Art 2 bis Art 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000300311)
 
 -
 
 
 ## Art 10 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000400311)
 
 Die Rechtsstellung der bis zum 31. Dezember 1998 an der
 psychotherapeutischen Versorgung der Versicherten der gesetzlichen
@@ -48,16 +52,19 @@ Zulassung oder Ermächtigung bis zum 31. Dezember 1998 gestellt haben.
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000600311)
 
 -
 
 
 ## (XXXX) Art 12 und Art 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000700311)
 
 -
 
 
 ## Art 14 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000800311)
 
 Der auf Artikel 7 beruhende Teil der geänderten Rechtsverordnung kann
 auf Grund der einschlägigen Ermächtigung durch Rechtsverordnung
@@ -65,6 +72,7 @@ geändert werden.
 
 
 ## Art 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/psychthg_sgb5ua_ndg/BJNR131100998.html#BJNR131100998BJNE000900311)
 
 (1)
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_3/BJNR009300009.html#BJNR009300009BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 104 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -27,12 +28,14 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Aufhebung der Anerkennung des Ausbildungsberufes Schiffszimmerer/Schiffszimmerin
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_3/BJNR009300009.html#BJNR009300009BJNE000200000)
 
 Die Anerkennung des Ausbildungsberufes Schiffszimmerer/Schiffszimmerin
 wird aufgehoben.
 
 
 ## § 2 Besitzstandswahrung
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_3/BJNR009300009.html#BJNR009300009BJNE000300000)
 
 Personen, die vor Inkrafttreten dieser Verordnung in dem in § 1
 genannten Ausbildungsberuf ausgebildet worden sind oder im Zeitpunkt
@@ -42,6 +45,7 @@ fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_3/BJNR009300009.html#BJNR009300009BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

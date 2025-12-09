@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000200000)
 
 Dieses Gesetz ist auf Europäische Genossenschaften mit Sitz im Inland
 anzuwenden; im Übrigen gilt die Verordnung (EG) Nr. 1435/2003 des
@@ -33,6 +35,7 @@ Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1).
 
 
 ### § 2 Kontrolle der Gründung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000300000)
 
 Für die Kontrolle der Gründung der Europäischen Genossenschaft gelten
 die §§ 32 bis 35 des Aktiengesetzes entsprechend. Ist nach § 33 Abs. 2
@@ -44,6 +47,7 @@ Europäische Genossenschaft nach Artikel 71 der Verordnung (EG) Nr.
 
 
 ### § 3 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000400000)
 
 Die Europäische Genossenschaft wird entsprechend den für
 Aktiengesellschaften geltenden Vorschriften in das
@@ -53,6 +57,7 @@ die Europäische Genossenschaft zum Beitritt zugelassen ist.
 
 
 ### § 4 Zulassung investierender Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000500000)
 
 Die Satzung der Europäischen Genossenschaft kann bestimmen, dass
 Personen, die für die Nutzung oder Produktion der Güter und die
@@ -62,10 +67,12 @@ können.
 
 
 ## Abschnitt 2 - Gründung einer Europäischen Genossenschaft durch  Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000200000)
 
 
 
 ### § 5 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000600000)
 
 Die nach Artikel 24 der Verordnung (EG) Nr. 1435/2003 bekannt zu
 machenden Angaben sind dem Genossenschaftsregister bei Einreichung des
@@ -76,6 +83,7 @@ auf die Einreichung zum Genossenschaftsregister zu beziehen hat.
 
 
 ### § 6 Verschmelzungsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000700000)
 
 Die Prüfung des Verschmelzungsplans und die Erstellung des
 schriftlichen Berichts nach Artikel 26 der Verordnung (EG) Nr.
@@ -84,6 +92,7 @@ den Prüfungsverband, dem die Genossenschaft angehört.
 
 
 ### § 7 Verbesserung des Umtauschverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000801140)
 
 (1) Unter den Voraussetzungen des Artikels 29 Abs. 3 Satz 1 der
 Verordnung (EG) Nr. 1435/2003 kann eine Klage gegen den
@@ -124,6 +133,7 @@ sind.
 
 
 ### § 8 Ausschlagung durch einzelne Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE000901125)
 
 (1) Wird eine Europäische Genossenschaft, die ihren Sitz im Ausland
 haben soll, durch Verschmelzung nach dem Verfahren der Verordnung (EG)
@@ -176,6 +186,7 @@ Vorschriften eingetragen und bekannt gemacht worden ist.
 
 
 ### § 9 Gläubigerschutz bei Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001000000)
 
 Liegt der künftige Sitz der Europäischen Genossenschaft im Ausland,
 gilt § 11 Abs. 1 und 2 entsprechend. Das zuständige Gericht stellt die
@@ -187,10 +198,12 @@ wurde.
 
 
 ## Abschnitt 3 - Sitz und Sitzverlegung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000300000)
 
 
 
 ### § 10 Auseinanderfallen von Sitzstaat und Hauptverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001101140)
 
 (1) Erfüllt eine Europäische Genossenschaft nicht mehr die
 Verpflichtung nach Artikel 6 Satz 1 der Verordnung (EG) Nr. 1435/2003,
@@ -212,6 +225,7 @@ löschen.
 
 
 ### § 11 Gläubigerschutz bei Sitzverlegung; Negativerklärung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001201125)
 
 (1) Verlegt eine Europäische Genossenschaft nach Artikel 7 der
 Verordnung (EG) Nr. 1435/2003 ihren Sitz, ist den Gläubigern der
@@ -248,14 +262,17 @@ Abs. 8 der Verordnung (EG) Nr. 1435/2003 nur aus, wenn
 
 
 ## Abschnitt 4 - Aufbau der Europäischen Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000400000)
 
 
 
 ### Unterabschnitt 1 - Dualistisches System
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000500000)
 
 
 
 #### § 12 Bestellung der Mitglieder des Leitungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001300000)
 
 Die Satzung der Europäischen Genossenschaft kann festlegen, dass die
 Mitglieder des Leitungsorgans von der Generalversammlung gewählt und
@@ -263,6 +280,7 @@ abberufen werden.
 
 
 #### § 13 Wahrnehmung der Geschäftsleitung durch Mitglieder des Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001400000)
 
 Die Abstellung eines Mitglieds des Aufsichtsorgans zur Wahrnehmung der
 Aufgaben eines Mitglieds des Leitungsorgans nach Artikel 37 Abs. 3
@@ -271,12 +289,14 @@ begrenzten Zeitraum zulässig.
 
 
 #### § 14 Zahl der Mitglieder des Leitungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001500000)
 
 Das Leitungsorgan muss aus mindestens zwei Personen bestehen. Die
 Satzung kann eine höhere Zahl vorsehen.
 
 
 #### § 15 Zahl der Mitglieder und Zusammensetzung des Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001601360)
 
 (1) Das Aufsichtsorgan besteht aus mindestens drei Personen. Die
 Satzung kann eine höhere Zahl vorsehen. Die Beteiligung der
@@ -296,6 +316,7 @@ Beteiligungsgesetzes.
 
 
 #### § 16 Informationsverlangen einzelner Mitglieder des Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001700000)
 
 Jedes Mitglied des Aufsichtsorgans kann vom Leitungsorgan jegliche
 Information nach Artikel 40 Abs. 3 Satz 1 der Verordnung (EG) Nr.
@@ -303,10 +324,12 @@ Information nach Artikel 40 Abs. 3 Satz 1 der Verordnung (EG) Nr.
 
 
 ### Unterabschnitt 2 - Monistisches System
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000600000)
 
 
 
 #### § 17 Anmeldung und Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001802140)
 
 (1) Eine Europäische Genossenschaft, die nach Artikel 36 Buchstabe b
 der Verordnung (EG) Nr. 1435/2003 in ihrer Satzung das monistische
@@ -331,6 +354,7 @@ deren Vertretungsbefugnis anzugeben.
 
 
 #### § 18 Aufgaben und Rechte des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE001901140)
 
 (1) Der Verwaltungsrat leitet die Europäische Genossenschaft, bestimmt
 die Grundlinien ihrer Tätigkeit und überwacht deren Umsetzung.
@@ -363,6 +387,7 @@ Direktoren besondere Regelungen enthalten sind.
 
 
 #### § 19 Zahl der Mitglieder und Zusammensetzung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002003123)
 
 (1) Der Verwaltungsrat besteht aus mindestens fünf Personen, bei einer
 Europäischen Genossenschaft, die nicht mehr als 20 Mitglieder hat, aus
@@ -413,6 +438,7 @@ des § 100 Absatz 5 des Aktiengesetzes erfüllen.
 
 
 #### § 20 Abberufung der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002100000)
 
 Mitglieder des Verwaltungsrats, die von der Generalversammlung ohne
 Bindung an einen Wahlvorschlag gewählt worden sind, können von ihr vor
@@ -421,6 +447,7 @@ Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen.
 
 
 #### § 21 Sorgfaltspflicht und Verantwortlichkeit der Verwaltungsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002200000)
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Verwaltungsratsmitglieder gilt § 34 des Genossenschaftsgesetzes
@@ -428,6 +455,7 @@ entsprechend.
 
 
 #### § 22 Geschäftsführende Direktoren
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002301140)
 
 (1) Der Verwaltungsrat bestellt einen oder mehrere geschäftsführende
 Direktoren. Mitglieder des Verwaltungsrats können zu
@@ -477,6 +505,7 @@ auch für ihre Stellvertreter.
 
 
 #### § 23 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002401140)
 
 (1) Die geschäftsführenden Direktoren vertreten die Europäische
 Genossenschaft gerichtlich und außergerichtlich. Hat eine Europäische
@@ -509,11 +538,13 @@ außergerichtlich.
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002501140)
 
 -
 
 
 #### § 25 Angaben auf Geschäftsbriefen
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002601377)
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen
 bestimmten Empfänger  gerichtet werden, müssen die Rechtsform und der
@@ -528,6 +559,7 @@ ausgeschriebenen Vornamen angegeben werden.
 
 
 #### § 26 Anmeldung von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002700000)
 
 Die geschäftsführenden Direktoren haben jede sie betreffende Änderung
 des Verwaltungsrats sowie die Bestellung, Abberufung und Änderung der
@@ -537,6 +569,7 @@ entsprechend.
 
 
 #### § 27 Aufstellung, Prüfung und Feststellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002800000)
 
 (1) Die geschäftsführenden Direktoren haben den Jahresabschluss und
 den Lagebericht aufzustellen und danach unverzüglich dem
@@ -550,10 +583,12 @@ Prüfungsberichte sind jedem Verwaltungsratsmitglied auszuhändigen.
 
 
 ### Unterabschnitt 3 - Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000700000)
 
 
 
 #### § 28 Einberufung durch Prüfungsverband
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE002900000)
 
 Unter den Voraussetzungen des § 60 des Genossenschaftsgesetzes ist
 auch der Prüfungsverband berechtigt, eine außerordentliche
@@ -561,6 +596,7 @@ Generalversammlung der Europäischen Genossenschaft einzuberufen.
 
 
 #### § 29 Mehrstimmrechte
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003000000)
 
 Die Satzung der Europäischen Genossenschaft kann Mitgliedern im Rahmen
 des Artikels 59 Abs. 2 der Verordnung (EG) Nr. 1435/2003 nach Maßgabe
@@ -569,6 +605,7 @@ einräumen.
 
 
 #### § 30 Stimmrechte investierender Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003100000)
 
 (1) Jedes investierende Mitglied hat eine Stimme vorbehaltlich des
 Artikels 59 Abs. 3 Satz 2 der Verordnung (EG) Nr. 1435/2003.
@@ -582,6 +619,7 @@ durch investierende Mitglieder nicht verhindert werden können.
 
 
 #### § 31 Sektor- und Sektionsversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003200000)
 
 Die Satzung der Europäischen Genossenschaft kann im Rahmen des
 Artikels 63 der Verordnung (EG) Nr. 1435/2003 eine Sektor- oder
@@ -591,10 +629,12 @@ ist entsprechend anzuwenden, soweit sich aus Artikel 55 der Verordnung
 
 
 ## Abschnitt 5 - Jahresabschluss und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000800000)
 
 
 
 ### § 32 Aufstellung des Jahresabschlusses und Lageberichts
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003300000)
 
 (1) Für die Aufstellung des Jahresabschlusses und des Lageberichts
 gelten die §§ 336 bis 338 des Handelsgesetzbuchs entsprechend.
@@ -605,6 +645,7 @@ entsprechend.
 
 
 ### § 33 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003400000)
 
 (1) Für die Offenlegung gilt § 339 des Handelsgesetzbuchs
 entsprechend.
@@ -615,6 +656,7 @@ entsprechend.
 
 
 ### § 34 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003500000)
 
 (1) Für die Prüfung der Europäischen Genossenschaft gelten die §§ 53
 bis 64c des Genossenschaftsgesetzes entsprechend.
@@ -625,10 +667,12 @@ entsprechend.
 
 
 ## Abschnitt 6 - Zuständigkeits-, Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG000900000)
 
 
 
 ### § 35 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003601140)
 
 Für die Eintragung der Europäischen Genossenschaft und für die in
 Artikel 7 Abs. 8 und Artikel 29 Abs. 2 sowie den Artikeln 30 und 73
@@ -649,6 +693,7 @@ Genossenschaft ihren Sitz hat.
 
 
 ### § 36 Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003704360)
 
 (1) Die Strafvorschriften der §§ 147 bis 151a des
 Genossenschaftsgesetzes, des § 15a Absatz 4 bis 6 der
@@ -703,10 +748,12 @@ eine Versicherung nicht richtig abgibt.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNG001000140)
 
 
 
 ### § 37 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003800140)
 
 § 19 Abs. 1 Satz 3 und Abs. 4 Satz 2 und 3 in der Fassung des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
@@ -715,12 +762,14 @@ und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
 
 ### § 38 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE003900140)
 
 Im Fall des § 7 Abs. 3 Satz 1 bleibt es für die Zeit vor dem 1.
 September 2009 bei dem bis dahin geltenden Zinssatz.
 
 
 ### § 39 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sceag/BJNR191110006.html#BJNR191110006BJNE004000123)
 
 § 19 Absatz 1 Satz 3 und Absatz 4 Satz 3 in der Fassung des
 Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)

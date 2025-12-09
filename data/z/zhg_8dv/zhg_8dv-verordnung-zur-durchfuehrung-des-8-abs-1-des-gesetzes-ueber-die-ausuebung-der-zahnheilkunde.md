@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000100312)
 
 Auf Grund des § 17 des Gesetzes über die Ausübung der Zahnheilkunde
 vom 31. März 1952 (Bundesgesetzbl. I S. 221) wird im Einvernehmen mit
@@ -26,6 +27,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000200312)
 
 Die nach § 8 Abs. 1 des Gesetzes an den Lehrinstituten für Dentisten
 abzuhaltenden Fortbildungskurse werden durchgeführt:
@@ -58,6 +60,7 @@ abzuhaltenden Fortbildungskurse werden durchgeführt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000300312)
 
 Für die Fortbildungskurse sind in jedem Land ein oder mehrere
 Lehrkörper aus approbierten Medizinalpersonen zu bilden. Die
@@ -68,6 +71,7 @@ bestellen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000400312)
 
 (1) Die Orte, an denen die Fortbildungskurse stattfinden, werden von
 den für das Gesundheitswesen zuständigen obersten Landesbehörden im
@@ -78,6 +82,7 @@ teilnehmen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000500312)
 
 (1) Die Anmeldung zur Teilnahme an dem Fortbildungskursus ist an das
 Lehrinstitut zu richten. Der Nachweis der staatlichen Anerkennung als
@@ -89,6 +94,7 @@ des Landes herbeizuführen, in dem der Dentist seinen Wohnsitz hat.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000600312)
 
 Die Fortbildungskurse erstrecken sich auf folgende Stoffgebiete:
 
@@ -107,6 +113,7 @@ Sie sollen nach dem Themenplan der Anlage 1 durchgeführt werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000700312)
 
 (1) Wenn der Dentist die in dem Themenplan enthaltenen Vorlesungen
 regelmäßig gehört hat, wird ihm von dem Vorsitzenden des Lehrkörpers
@@ -125,6 +132,7 @@ nochmals teilzunehmen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000800312)
 
 (1) Für die Teilnahme an einem Fortbildungskursus wird von dem Verband
 Deutscher Dentisten eine Teilnehmergebühr erhoben.
@@ -138,6 +146,7 @@ die Gebühr nochmals zu entrichten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE000900312)
 
 (1) Nach erfolgreicher Teilnahme an einem Fortbildungskursus kann der
 Dentist die Erteilung der Bestallung als Zahnarzt bei der für das
@@ -182,16 +191,19 @@ erfolgreich beendet wurde.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE001000312)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE001100312)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE001200312)
 
 Fundstelle des Originaltextes: BAnz 1952, Nr. 246, Seite 1 - 2
 
@@ -792,6 +804,7 @@ Fundstelle des Originaltextes: BAnz 1952, Nr. 246, Seite 1 - 2
 
 
 ## Anlage 2 Muster 1
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE001300312)
 
    (Fundstelle des Originaltextes: BAnz. 1952, Nr. 246, S 2)
 Bescheinigung
@@ -834,6 +847,7 @@ der Bezeichnung "Zahnarzt" oder "Zahnärztin".
 
 
 ## Anlage 3 Muster 2
+[Direktlink](https://www.gesetze-im-internet.de/zhg_8dv/BJNR524600952.html#BJNR524600952BJNE001400312)
 
 (Fundstelle des Originaltextes: BAnz 1952, Nr. 246, S. 2)
 der Dentist

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eufernsabkg/BJNR212340965.html#BJNR212340965BJNE000100304)
 
 Dem in Straßburg am 11. Juli 1960 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Abkommen vom 22. Juni 1960 zum Schutz von
@@ -28,6 +29,7 @@ Vorbehalten zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eufernsabkg/BJNR212340965.html#BJNR212340965BJNE000200304)
 
 (1) Die Bundesrepublik Deutschland macht nach Artikel 10 des Abkommens
 bei der Hinterlegung der Ratifikationsurkunde von den in Artikel 3
@@ -40,6 +42,7 @@ die §§ 50 und 55 des Urheberrechtsgesetzes vom 9. September 1965
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eufernsabkg/BJNR212340965.html#BJNR212340965BJNE000300304)
 
 (1)
 
@@ -53,12 +56,14 @@ gewährt, wenn die andere Partei von dem Vorbehalt des Artikels 3 Abs.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eufernsabkg/BJNR212340965.html#BJNR212340965BJNE000400304)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eufernsabkg/BJNR212340965.html#BJNR212340965BJNE000500304)
 
 (1) Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 

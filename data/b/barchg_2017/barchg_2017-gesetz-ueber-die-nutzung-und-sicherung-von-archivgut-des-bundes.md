@@ -24,6 +24,7 @@ Geändert durch
 Stand: Ersetzt V 224-8 v. 6.1.1988 I 62 (BArchG)
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000102116)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -140,6 +141,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ## § 2 Organisation des Bundesarchivs
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000201116)
 
 Der Bund unterhält ein Bundesarchiv als selbstständige
 Bundesoberbehörde, die der Dienst- und Fachaufsicht der für Kultur und
@@ -147,6 +149,7 @@ Medien zuständigen obersten Bundesbehörde untersteht.
 
 
 ## § 3 Aufgaben des Bundesarchivs
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000303116)
 
 (1) Das Bundesarchiv hat die Aufgabe, das Archivgut des Bundes auf
 Dauer zu sichern, nutzbar zu machen und wissenschaftlich zu verwerten.
@@ -224,6 +227,7 @@ Archivaufgaben übertragen sind, bleiben unberührt.
 
 
 ## § 3a Wahrnehmung besonderer Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE002002116)
 
 (1) Die Aufgaben der aufgelösten „Deutschen Dienststelle für die
 Benachrichtigung der nächsten Angehörigen von Gefallenen der
@@ -262,6 +266,7 @@ bleibender Wert zukommt, können sie als Archivgut gewidmet werden.
 
 
 ## § 3b Wahrnehmung der Aufgaben nach dem Stasi-Unterlagen-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE002101116)
 
 Das Bundesarchiv erfasst, verwahrt, verwaltet und verwendet die in
 ihrem Gesamtbestand zu erhaltenden Unterlagen des
@@ -272,6 +277,7 @@ Bestimmungen des Bundes.
 
 
 ## § 4 Stiftung „Archiv der Parteien und Massenorganisationen der DDR“
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000401116)
 
 (1) Die „Stiftung Archiv der Parteien und Massenorganisationen der
 DDR“ ist eine unselbständige Stiftung des öffentlichen Rechts im
@@ -294,6 +300,7 @@ Bundesbehörde geregelt.
 
 
 ## § 5 Anbietung und Abgabe von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000502116)
 
 (1) Die öffentlichen Stellen des Bundes haben dem Bundesarchiv oder,
 im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv alle
@@ -361,6 +368,7 @@ der Verordnung (EU) 2016/679 über verstorbene Personen.
 
 
 ## § 6 Anbietung und Abgabe von Unterlagen, die einer Geheimhaltungs-, Vernichtungs- oder Löschungspflicht unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000602116)
 
 (1) Die öffentlichen Stellen des Bundes haben dem Bundesarchiv oder,
 im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv auch
@@ -416,6 +424,7 @@ Archivierung angeboten und abgegeben werden.
 
 
 ## § 7 Anbietung und Abgabe von Unterlagen an Landes- oder Kommunalarchive
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000701116)
 
 Die öffentlichen Stellen des Bundes haben Unterlagen von
 nachgeordneten Stellen des Bundes, deren örtliche Zuständigkeit sich
@@ -428,6 +437,7 @@ sind.
 
 
 ## § 8 Zwischenarchiv und digitales Zwischenarchiv
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000801116)
 
 (1) Das Bundesarchiv unterhält das Zwischenarchiv für die nicht
 elektronischen Unterlagen der obersten Bundesbehörden und der
@@ -453,11 +463,13 @@ Einvernehmen mit der abgebenden öffentlichen Stelle festzulegen.
 
 
 ## § 9 Veräußerungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE000901116)
 
 Archivgut des Bundes ist unveräußerlich.
 
 
 ## § 10 Nutzung von Archivgut des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001001116)
 
 (1) Jeder Person steht nach Maßgabe dieses Gesetzes auf Antrag das
 Recht zu, Archivgut des Bundes zu nutzen. Regelungen in anderen
@@ -475,6 +487,7 @@ werden.
 
 
 ## § 11 Schutzfristen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001101116)
 
 (1) Die allgemeine Schutzfrist für Archivgut des Bundes beträgt 30
 Jahre, sofern durch Rechtsvorschrift nichts anderes bestimmt ist. Sie
@@ -520,6 +533,7 @@ entsprechend anzuwenden.
 
 
 ## § 12 Verkürzungen und Verlängerungen der Schutzfristen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001202116)
 
 (1) Das Bundesarchiv kann die Schutzfrist nach § 11 Absatz 1
 verkürzen, soweit dem keine Einschränkungs- und Versagungsgründe gemäß
@@ -557,6 +571,7 @@ worden ist.
 
 
 ## § 13 Einschränkungs- und Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001302116)
 
 (1) Das Bundesarchiv hat die Nutzung nach den §§ 10 bis 12
 einzuschränken oder zu versagen, wenn
@@ -597,6 +612,7 @@ Betroffener erforderlich ist.
 
 
 ## § 14 Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001402116)
 
 (1) Das Recht der betroffenen Person auf Auskunft gemäß Artikel 15 der
 Verordnung (EU) 2016/679 besteht nicht, wenn das Archivgut des Bundes
@@ -639,6 +655,7 @@ dieser Zwecke erforderlich sind.
 
 
 ## § 15 Nutzung von Archivgut des Bundes durch die abgebenden Stellen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001502116)
 
 (1) Die abgebenden Stellen und ihre Rechts- oder Funktionsnachfolger
 haben gegen Ersatz der Auslagen im Bundesarchiv jederzeit
@@ -655,6 +672,7 @@ Informationen ursprünglich gespeichert worden sind.
 
 
 ## § 16 Übermittlung von Vervielfältigungen von Archivgut des Bundes vor Ablauf der Schutzfristen
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001602116)
 
 (1) Das Bundesarchiv kann Archiven, Bibliotheken und Museen sowie
 Forschungs- und Dokumentationsstellen Vervielfältigungen von Archivgut
@@ -684,6 +702,7 @@ Rechtsvorschriften nicht entgegenstehen.
 
 
 ## § 17 Pflichtregistrierung für deutsche Kinofilme
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001701116)
 
 (1) Die Hersteller und Mithersteller deutscher Kinofilme haben diese
 Filme in einer Datenbank beim Bundesarchiv nach Satz 2 zu
@@ -711,6 +730,7 @@ international bedeutsamen Preisverleihung erhalten haben.
 
 
 ## § 18 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001801116)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -736,6 +756,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesarchiv.
 
 
 ## § 19 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/barchg_2017/BJNR041010017.html#BJNR041010017BJNE001901116)
 
 Das für Kultur und Medien zuständige Mitglied der Bundesregierung wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates

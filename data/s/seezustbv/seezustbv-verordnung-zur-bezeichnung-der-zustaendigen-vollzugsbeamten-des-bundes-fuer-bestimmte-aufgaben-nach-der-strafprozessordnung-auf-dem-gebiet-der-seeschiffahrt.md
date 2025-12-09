@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seezustbv/BJNR044200994.html#BJNR044200994BJNE000100307)
 
 Auf Grund des § 4 Abs. 3 des Seeaufgabengesetzes in der Fassung der
 Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541), der durch Artikel
@@ -31,6 +32,7 @@ dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/seezustbv/BJNR044200994.html#BJNR044200994BJNE000203305)
 
 Seewärts der Begrenzung des deutschen Küstenmeeres sind die Beamten
 der Bundespolizei sowie, soweit sie im deutschen Küstenmeer zuständig
@@ -89,6 +91,7 @@ Durchführung der Maßnahmen nach der Strafprozeßordnung zuständig bei
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/seezustbv/BJNR044200994.html#BJNR044200994BJNE000302305)
 
 (1) Seewärts der Begrenzung des deutschen Küstenmeeres sind auch die
 Beamten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes mit
@@ -105,6 +108,7 @@ sonstiger Zuständigkeiten Hinweise auf solche Taten ergeben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/seezustbv/BJNR044200994.html#BJNR044200994BJNE000401308)
 
 Zuständigkeiten während der Nacheile im Sinne des Artikels 111 des
 Seerechtsübereinkommens der Vereinten Nationen von 1982 bleiben
@@ -112,6 +116,7 @@ unberührt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/seezustbv/BJNR044200994.html#BJNR044200994BJNE000500307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

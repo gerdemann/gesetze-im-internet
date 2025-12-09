@@ -20,6 +20,7 @@ G aufgeh. durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000103308)
 
 Das Bundesministerium für Wirtschaft und Technologie verwaltet die in
 Artikel III des Gesetzes betreffend das Abkommen über Wirtschaftliche
@@ -31,6 +32,7 @@ Sondervermögen".
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000200307)
 
 Das Sondervermögen dient ausschließlich dem Wiederaufbau und der
 Förderung der deutschen Wirtschaft nach Maßgabe der Bestimmungen des
@@ -40,6 +42,7 @@ Dezember 1949 (Bundesgesetzbl. 1950 S. 10).
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000300307)
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
@@ -48,6 +51,7 @@ dem Sitz der obersten Verwaltungsstelle.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000401301)
 
 (1) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen
 Rechten und Verbindlichkeiten getrennt zu halten.
@@ -57,6 +61,7 @@ dieses haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000502301)
 
 (1) Das Sondervermögen soll in seinem Bestand erhalten bleiben. Es ist
 nach wirtschaftlichen Grundsätzen zu verwalten.
@@ -87,6 +92,7 @@ Finanzen erteilt worden ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000603308)
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
 Einvernehmen mit dem Bundesministerium der Finanzen, soweit es zur
@@ -102,6 +108,7 @@ Kreditnehmern ermächtigen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000703308)
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden für jedes
 Rechnungsjahr vom Bundesministerium für Wirtschaft und Technologie im
@@ -114,6 +121,7 @@ Einnahmen und Ausgaben auszugleichen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000800307)
 
 Die in dem Wirtschaftsplan des Sondervermögens vorgesehenen
 Ausgabemittel sind insoweit übertragbar, als die tatsächlich
@@ -121,6 +129,7 @@ aufgekommenen Einnahmen nicht verwendet sind.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE000901301)
 
 (1) Überschreitungen von Ausgabeansätzen des Wirtschaftsplanes und
 außerplanmäßige Ausgaben sind nur zulässig, wenn gleiche Beträge bei
@@ -138,6 +147,7 @@ Finanzen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001006308)
 
 (1) Das Bundesministerium für Wirtschaft und Technologie wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen im
@@ -167,6 +177,7 @@ Bundesministerium für Wirtschaft und Technologie gemeinsam ausgeübt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001103308)
 
 (1) Das Bundesministerium für Wirtschaft und Technologie stellt am
 Schluß eines jeden Rechnungsjahres die Jahresrechnung für das
@@ -191,6 +202,7 @@ Artikel 114 des Grundgesetzes vor.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001203308)
 
 (1) Das Bundesministerium für Wirtschaft und Technologie kann
 unmittelbar oder durch Beauftragte nach Maßgabe der Verordnung über
@@ -212,11 +224,13 @@ Hauptleihinstitute bedienen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001300307)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001401301)
 
 Die Bundeshaushaltsordnung vom 19. August 1969 (BGBl. I S. 1284),
 zuletzt geändert durch das Gesetz vom 18. Juli 1990 (BGBl. I S. 1447),
@@ -225,6 +239,7 @@ Gesetz nichts Abweichendes ergibt.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001500307)
 
 Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund, die
 Länder, die Gemeinden (Gemeindeverbände) und Körperschaften des
@@ -233,17 +248,20 @@ Bundesbehörden geltenden Vorschriften Anwendung.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001601301)
 
 Die Durchführung dieses Gesetzes erfolgt im Einvernehmen mit den
 beteiligten Bundesministerien.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001701301)
 
 -
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/erpvwg/BJNR013120953.html#BJNR013120953BJNE001800307)
 
 §§ 2, 5 Abs. 5 sowie §§ 7, 8 und 9 dieses Gesetzes treten am 1. April
 1954 in Kraft.

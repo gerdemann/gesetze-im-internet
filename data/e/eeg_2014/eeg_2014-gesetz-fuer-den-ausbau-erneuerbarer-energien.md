@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000100000)
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000204311)
 
 (1) Ziel dieses Gesetzes ist insbesondere im Interesse des Klima- und
 Umweltschutzes die Transformation zu einer nachhaltigen und
@@ -41,6 +43,7 @@ umweltverträglich und netzverträglich erfolgen.
 
 
 ### § 1a Zeitliche Transformation
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024300311)
 
 (1) Nach der Vollendung des Kohleausstiegs wird die
 Treibhausgasneutralität der Stromversorgung im Bundesgebiet
@@ -74,6 +77,7 @@ des Kohleausstiegs erfolgen soll.
 
 
 ### § 2 Besondere Bedeutung der erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000303128)
 
 Die Errichtung und der Betrieb von Anlagen sowie den dazugehörigen
 Nebenanlagen liegen im überragenden öffentlichen Interesse und dienen
@@ -85,6 +89,7 @@ Belangen der Landes- und Bündnisverteidigung anzuwenden.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000412128)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -573,6 +578,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ### § 4 Ausbaupfad
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000505128)
 
 Die Ziele nach § 1 sollen erreicht werden durch
 
@@ -642,6 +648,7 @@ Anlage, die weder Gebäude noch Lärmschutzwand ist, angestrebt werden.
 
 
 ### § 4a Strommengenpfad
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024200311)
 
 Um überprüfen zu können, ob die erneuerbaren Energien in der für die
 Erreichung des Ziels nach § 1 Absatz 2 erforderlichen Geschwindigkeit
@@ -676,6 +683,7 @@ Stromerzeugung aus erneuerbaren Energien festgelegt:
 
 
 ### § 5 Ausbau im In- und Ausland
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000604311)
 
 (1) Soweit sich dieses Gesetz auf Anlagen bezieht, ist es anzuwenden,
 wenn und soweit die Erzeugung des Stroms im Bundesgebiet erfolgt.
@@ -804,6 +812,7 @@ anzuwenden.
 
 
 ### § 6 Finanzielle Beteiligung der Kommunen am Ausbau
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000706128)
 
 (1) Anlagenbetreiber sollen Gemeinden, die von der Errichtung ihrer
 Anlage betroffen sind, finanziell beteiligen. Zu diesem Zweck dürfen
@@ -893,6 +902,7 @@ Endabrechnung vom Netzbetreiber verlangen.
 
 
 ### § 7 Gesetzliches Schuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000801123)
 
 (1) Netzbetreiber dürfen die Erfüllung ihrer Pflichten nach diesem
 Gesetz nicht vom Abschluss eines Vertrages abhängig machen.
@@ -918,12 +928,15 @@ Regelungen
 
 
 ## Teil 2 - Anschluss, Abnahme, Übertragung und Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000300000)
 
 
 #### § 8 Anschluss
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE000904128)
 
 (1) Netzbetreiber müssen Anlagen zur Erzeugung von Strom aus
 erneuerbaren Energien und aus Grubengas unverzüglich vorrangig an der
@@ -1126,6 +1139,7 @@ Weiteren ist Absatz 6 Satz 4 entsprechend anzuwenden.
 
 
 #### § 8a Flexible Netzanschlussvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025700128)
 
 (1) Der Netzbetreiber und der Anlagenbetreiber können eine
 anschlussseitige Begrenzung der maximalen Wirkleistungseinspeisung in
@@ -1183,6 +1197,7 @@ Netzverträglichkeitsprüfung mitzuteilen.
 
 
 #### § 8b Mitteilung des Einspeiseortes
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025800128)
 
 Der Netzbetreiber teilt dem Anschlussbegehrenden innerhalb von vier
 Wochen, nachdem sich der Netzbetreiber und der Anschlussbegehrende auf
@@ -1192,6 +1207,7 @@ von Energie mit.
 
 
 #### § 9 Technische Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001017128)
 
 (1) Betreiber von Anlagen oder KWK-Anlagen haben den ordnungsgemäßen
 technischen Zustand der Anlage und der jeweiligen elektrischen Anlage
@@ -1375,6 +1391,7 @@ wirtschaftlich unzumutbar ist.
 
 
 #### § 10 Ausführung und Nutzung des Anschlusses
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001101118)
 
 (1) Anlagenbetreiber dürfen den Anschluss der Anlagen von dem
 Netzbetreiber oder einer fachkundigen dritten Person vornehmen lassen.
@@ -1390,6 +1407,7 @@ Niederspannungsanschlussverordnung entsprechend anzuwenden.
 
 
 #### § 10a Messstellenbetrieb; Übergangsregelung für Steckersolargeräte
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011001128)
 
 (1) Für den Messstellenbetrieb sind die Vorschriften des
 Messstellenbetriebsgesetzes anzuwenden. Abweichend von Satz 1 kann
@@ -1427,6 +1445,7 @@ Manipulation der Messeinrichtung widerlegt werden.
 
 
 #### § 10b Vorgaben zur Direktvermarktung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023304128)
 
 (1) Betreiber von Anlagen mit einer installierten Leistung von mehr
 als 25 Kilowatt, die den in ihren Anlagen erzeugten Strom direkt
@@ -1528,6 +1547,7 @@ Nachweisführung das festgelegte Verfahren und Format nutzen.
 
 
 #### § 10c Zuordnung geringfügiger Verbräuche
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025100128)
 
 Im Fall von Solaranlagen mit einer installierten Leistung von
 insgesamt bis zu 100 Kilowatt, die auf, an oder in einem Gebäude
@@ -1546,6 +1566,7 @@ wird.
 
 
 #### § 11 Abnahme, Übertragung und Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023102128)
 
 (1) Netzbetreiber müssen vorbehaltlich abweichender Vorgaben in einer
 aufgrund des § 91 Nummer 2 erlassenen Verordnung oder in § 13 des
@@ -1586,6 +1607,7 @@ treffen im Verhältnis zum aufnehmenden Netzbetreiber, der nicht
 
 
 #### § 11a Recht zur Verlegung von Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025200128)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte eines Grundstücks im
 Eigentum der öffentlichen Hand haben auf dem Grundstück die Verlegung,
@@ -1649,6 +1671,7 @@ Satz 1 und die Absätze 1 bis 5 entsprechend anzuwenden.
 
 
 #### § 11b Recht zur Überfahrt während der Errichtung und des Rückbaus
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025300128)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte eines Grundstücks im
 Eigentum der öffentlichen Hand haben die Überfahrt und die
@@ -1684,9 +1707,11 @@ bis 3 nicht anzuwenden.
 
 
 ### Abschnitt 2 - Kapazitätserweiterung und Einspeisemanagement
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000400000)
 
 
 #### § 12 Erweiterung der Netzkapazität
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001302311)
 
 (1) Netzbetreiber müssen auf Verlangen der Einspeisewilligen
 unverzüglich ihre Netze entsprechend dem Stand der Technik optimieren,
@@ -1713,6 +1738,7 @@ unberührt.
 
 
 #### § 13 Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001400000)
 
 (1) Verletzt der Netzbetreiber seine Pflicht aus § 12 Absatz 1, können
 Einspeisewillige Ersatz des hierdurch entstandenen Schadens verlangen.
@@ -1727,17 +1753,21 @@ verstärkt und ausgebaut hat.
 
 
 #### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001502118)
 
 
 
 #### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001602118)
 
 
 
 ### Abschnitt 3 - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000500000)
 
 
 #### § 16 Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001700000)
 
 (1) Die notwendigen Kosten des Anschlusses von Anlagen zur Erzeugung
 von Strom aus erneuerbaren Energien oder aus Grubengas an den
@@ -1751,22 +1781,27 @@ Mehrkosten tragen.
 
 
 #### § 17 Kapazitätserweiterung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001800000)
 
 Die Kosten der Optimierung, der Verstärkung und des Ausbaus des Netzes
 trägt der Netzbetreiber.
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE001901118)
 
 
 
 ## Teil 3 - Zahlung von Marktprämie und Einspeisevergütung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000601123)
 
 
 ### Abschnitt 1 - Arten des Zahlungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000701123)
 
 
 #### § 19 Zahlungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002008128)
 
 (1) Betreiber von Anlagen, in denen ausschließlich erneuerbare
 Energien oder Grubengas eingesetzt werden, haben für den in diesen
@@ -1908,6 +1943,7 @@ Anlagenbetreiber zum Zeitpunkt der Inbetriebnahme der Anlage
 
 
 #### § 20 Marktprämie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002107128)
 
 Der Anspruch auf die Zahlung der Marktprämie nach § 19 Absatz 1 Nummer
 1 besteht nur für Kalendermonate, in denen
@@ -1949,6 +1985,7 @@ Direktvermarktungsunternehmer zu vertreten ist.
 
 
 #### § 21 Einspeisevergütung und Mieterstromzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002208128)
 
 (1) Der Anspruch auf die Zahlung der Einspeisevergütung nach § 19
 Absatz 1 Nummer 2 besteht nur für Kalendermonate, in denen der
@@ -2044,6 +2081,7 @@ Neugestaltung der bisherigen Regelung vor.
 
 
 #### § 21a Sonstige Direktvermarktung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011100123)
 
 Das Recht der Anlagenbetreiber, den in ihren Anlagen erzeugten Strom
 ohne Inanspruchnahme der Zahlung nach § 19 Absatz 1 direkt zu
@@ -2051,6 +2089,7 @@ vermarkten (sonstige Direktvermarktung), bleibt unberührt.
 
 
 #### § 21b Zuordnung zu einer Veräußerungsform, Wechsel
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011204128)
 
 (1) Anlagenbetreiber müssen jede Anlage einer der folgenden
 Veräußerungsformen zuordnen:
@@ -2123,6 +2162,7 @@ bilanziert wird.
 
 
 #### § 21c Verfahren für die Zuordnung und den Wechsel
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011302128)
 
 (1) Anlagenbetreiber müssen dem Netzbetreiber vor Beginn des jeweils
 vorangehenden Kalendermonats mitteilen, wenn sie erstmals Strom in
@@ -2186,9 +2226,11 @@ Veräußerungsform das festgelegte Verfahren und Format nutzen.
 
 
 ### Abschnitt 2 - Allgemeine Bestimmungen zur Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000801123)
 
 
 #### § 22 Wettbewerbliche Ermittlung der Marktprämie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002307128)
 
 (1) Die Bundesnetzagentur ermittelt durch Ausschreibungen nach den §§
 28 bis 39q, auch in Verbindung mit den Rechtsverordnungen nach den §§
@@ -2271,6 +2313,7 @@ gesetzlich bestimmt.
 
 
 #### § 22a Pilotwindenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011403119)
 
 (1) Wenn in einem Kalenderjahr Pilotwindenergieanlagen an Land mit
 einer installierten Leistung von insgesamt mehr als 125 Megawatt in
@@ -2312,6 +2355,7 @@ Anforderungen nach § 3 Nummer 37 Buchstabe b erfüllt sind.
 [^f794982_02_BJNR106610014BJNE011403119]: 
 
 #### § 22b Bürgerenergiegesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024401128)
 
 (1) Die Ausnahme von dem Erfordernis eines wirksamen Zuschlags nach §
 22 Absatz 2 Satz 2 Nummer 3 ist nur zulässig, wenn
@@ -2406,6 +2450,7 @@ erlassen, wenn § 80a nicht beeinträchtigt ist.
 
 
 #### § 23 Allgemeine Bestimmungen zur Höhe der Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002406128)
 
 (1) Die Höhe des Anspruchs nach § 19 Absatz 1 bestimmt sich nach den
 hierfür als Berechnungsgrundlage anzulegenden Werten für Strom aus
@@ -2466,12 +2511,14 @@ Anspruch keinen negativen Wert annehmen kann:
 
 
 #### § 23a Besondere Bestimmung zur Höhe der Marktprämie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011501128)
 
 Die Höhe des Anspruchs auf die Marktprämie nach § 19 Absatz 1 Nummer 1
 wird nach Anlage 1 berechnet.
 
 
 #### § 23b Besondere Bestimmung zur Einspeisevergütung bei ausgeförderten Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020104128)
 
 Bei ausgeförderten Anlagen ist als anzulegender Wert für die Höhe des
 Anspruchs auf die Einspeisevergütung nach § 19 Absatz 1 Nummer 2 in
@@ -2482,6 +2529,7 @@ Kilowattstunde.
 
 
 #### § 23c Anteilige Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE017903311)
 
 Besteht für Strom der Anspruch nach § 19 Absatz 1 in Abhängigkeit von
 der Bemessungsleistung oder der installierten Leistung, bestimmt sich
@@ -2500,6 +2548,7 @@ dieser
 
 
 #### § 24 Zahlungsansprüche für Strom aus mehreren Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002507128)
 
 (1) Mehrere Anlagen sind unabhängig von den Eigentumsverhältnissen zum
 Zweck der Ermittlung des Anspruchs nach § 19 Absatz 1 und zur
@@ -2593,6 +2642,7 @@ der Anlagen.
 
 
 #### § 25 Beginn, Dauer und Beendigung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002608128)
 
 (1) Marktprämien, Einspeisevergütungen oder Mieterstromzuschläge sind
 jeweils für die Dauer von 20 Jahren zu zahlen, soweit sich aus den
@@ -2609,6 +2659,7 @@ ausgeförderten Anlagen bis zum 31. Dezember 2032 zu zahlen.
 
 
 #### § 26 Abschläge, Fälligkeit und Endabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002704128)
 
 (1) Auf die zu erwartenden Zahlungen nach § 19 Absatz 1 sind monatlich
 jeweils zum 15. Kalendertag für den Vormonat Abschläge in angemessenem
@@ -2632,6 +2683,7 @@ massengeschäftstauglicher Form auszustellen.
 
 
 #### § 27 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002802311)
 
 (1) Die Aufrechnung von Ansprüchen des Anlagenbetreibers nach § 19
 Absatz 1 mit einer Forderung des Netzbetreibers ist nur zulässig,
@@ -2647,12 +2699,15 @@ Ansprüchen aus diesem Gesetz aufgerechnet wird.
 
 
 ### Abschnitt 3 - Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG000901123)
 
 
 #### Unterabschnitt 1 - Allgemeine Ausschreibungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002400123)
 
 
 ##### § 28 Ausschreibungsvolumen und Gebotstermine für Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE002907128)
 
 (1) Die Ausschreibungen für Windenergieanlagen an Land finden in den
 Jahren 2023 bis 2028 jeweils zu den Gebotsterminen am 1. Februar, 1.
@@ -2796,6 +2851,7 @@ Ausschreibungsvolumen ist Absatz 3 Nummer 1 entsprechend anzuwenden.
 
 
 ##### § 28a Ausschreibungsvolumen und Gebotstermine für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020204311)
 
 (1) Die Ausschreibungen für Solaranlagen des ersten Segments finden in
 den Jahren 2023 bis 2029 jeweils zu den Gebotsterminen am 1. März, 1.
@@ -2895,6 +2951,7 @@ des ersten Segments im Bundesgebiet erhöht wird.
 
 
 ##### § 28b Ausschreibungsvolumen und Gebotstermine für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020304128)
 
 (1) Die Ausschreibungen für Solaranlagen des zweiten Segments finden
 in den Jahren 2023 bis 2029 jeweils zu den Gebotsterminen am 1.
@@ -2982,6 +3039,7 @@ Ausschreibungsvolumen um die Differenz dieser beiden Gebotsmengen.
 
 
 ##### § 28c Ausschreibungsvolumen und Gebotstermine für Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020405128)
 
 (1) Die Ausschreibungen für Biomasseanlagen finden in den Jahren 2023
 bis 2028 jeweils zu den Gebotsterminen am 1. April und 1. Oktober
@@ -3081,6 +3139,7 @@ Gebotstermin nach Absatz 1 zugerechnet.
 
 
 ##### § 28d Ausschreibungsvolumen und Gebotstermine für Biomethananlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024902128)
 
 (1) Die Ausschreibungen für Biomethananlagen finden in den Jahren 2023
 bis 2028 jeweils zu den Gebotsterminen am 1. April und 1. September
@@ -3135,6 +3194,7 @@ Ausschreibungsvolumen sind im Jahr 2024 Absatz 3 und ab dem Jahr 2025
 
 
 ##### § 28e Ausschreibungsvolumen und Gebotstermine für Innovationsausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025001311)
 
 (1) Die Innovationsausschreibungen nach § 39n finden in den Jahren
 2023 bis 2028 jeweils zu den Gebotsterminen am 1. Mai und 1. September
@@ -3192,6 +3252,7 @@ Ausschreibungsvolumen um die Differenz dieser beiden Gebotsmengen.
 
 
 ##### § 28f Ausschreibungsvolumen und Gebotstermine für innovative Konzepte mit wasserstoffbasierter Stromspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023501311)
 
 (1) Die Ausschreibungen für innovative Konzepte mit
 wasserstoffbasierter Stromspeicherung nach § 39o finden statt:
@@ -3246,6 +3307,7 @@ Gebotstermine.
 
 
 ##### § 28g Ausschreibungsvolumen und Gebotstermine für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023601311)
 
 (1) Die Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem
 Wasserstoff nach § 39p finden statt:
@@ -3291,6 +3353,7 @@ Gebotstermine.
 
 
 ##### § 29 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003004128)
 
 (1) Die Bundesnetzagentur macht die Ausschreibungen frühestens acht
 Wochen und spätestens fünf Wochen vor dem jeweiligen Gebotstermin für
@@ -3333,6 +3396,7 @@ Bekanntmachungen müssen mindestens folgende Angaben enthalten:
 
 
 ##### § 30 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003106128)
 
 (1) Die Gebote müssen jeweils die folgenden Angaben enthalten:
 
@@ -3446,6 +3510,7 @@ welchem Gebot gehören.
 
 
 ##### § 30a Ausschreibungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011802128)
 
 (1) Die Bundesnetzagentur darf für die Ausschreibungsverfahren
 Formatvorgaben machen.
@@ -3476,6 +3541,7 @@ auf das elektronische Verfahren hinweisen.
 
 
 ##### § 31 Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003203128)
 
 (1) Bieter müssen bei der Bundesnetzagentur für ihre Gebote bis zum
 jeweiligen Gebotstermin eine Sicherheit leisten. Durch die Sicherheit
@@ -3523,6 +3589,7 @@ nicht verzinst.
 
 
 ##### § 32 Zuschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003303119)
 
 (1) Die Bundesnetzagentur führt bei jeder Ausschreibung für jeden
 Energieträger das folgende Zuschlagsverfahren durch, soweit in den
@@ -3558,6 +3625,7 @@ Nachweise sowie den Zuschlagswert.
 
 
 ##### § 33 Ausschluss von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003404119)
 
 (1) Die Bundesnetzagentur schließt Gebote von dem Zuschlagsverfahren
 aus, wenn
@@ -3626,6 +3694,7 @@ und hierfür Gebote abgegeben werden.
 
 
 ##### § 34 Ausschluss von Bietern
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003503311)
 
 (1) Die Bundesnetzagentur schließt Bieter und deren Gebote von dem
 Zuschlagsverfahren aus, wenn der Bieter keine Eigenerklärung nach § 30
@@ -3658,6 +3727,7 @@ Zuschlagsverfahren ausschließen, wenn
 
 
 ##### § 34a Unionsfremde Bieter
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024500311)
 
 (1) Die Bundesnetzagentur kann im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Klimaschutz einen Bieter, der ein
@@ -3688,6 +3758,7 @@ Beteiligungsstruktur und seinen Geschäftsfeldern.
 
 
 ##### § 35 Bekanntgabe der Zuschläge und anzulegender Wert
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003605128)
 
 (1) Die Bundesnetzagentur gibt die Zuschläge mit den folgenden Angaben
 auf ihrer Internetseite bekannt:
@@ -3777,6 +3848,7 @@ die Projektrealisierungsrate des jeweiligen Gebotstermins bekannt.
 
 
 ##### § 35a Entwertung von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE011901128)
 
 (1) Die Bundesnetzagentur entwertet einen Zuschlag,
 
@@ -3803,9 +3875,11 @@ der zugrundeliegende Zuschlag entwertet.
 
 
 #### Unterabschnitt 2 - Ausschreibungen für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002500123)
 
 
 ##### § 36 Gebote für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003706128)
 
 (1) In Ergänzung zu den Anforderungen an Gebote nach § 30 müssen
 Windenergieanlagen an Land, auf die sich ein Gebot bezieht, folgende
@@ -3870,6 +3944,7 @@ Ausschreibungsvolumen bis spätestens zwei Wochen vor dem Gebotstermin.
 
 
 ##### § 36a Sicherheiten für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012000123)
 
 Die Höhe der Sicherheit nach § 31 für Windenergieanlagen an Land
 bestimmt sich aus der Gebotsmenge multipliziert mit 30 Euro pro
@@ -3877,6 +3952,7 @@ Kilowatt zu installierender Leistung.
 
 
 ##### § 36b Höchstwert für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012103311)
 
 (1) Der Höchstwert für Strom aus Windenergieanlagen an Land beträgt im
 Jahr 2023 5,88 Cent pro Kilowattstunde für den Referenzstandort nach
@@ -3891,6 +3967,7 @@ zu legen.
 
 
 ##### § 36c Ausschluss von Geboten für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012302311)
 
 Die Bundesnetzagentur schließt Gebote für Windenergieanlagen an Land
 nach § 33 von dem Zuschlagsverfahren aus, wenn
@@ -3908,10 +3985,12 @@ nach § 33 von dem Zuschlagsverfahren aus, wenn
 
 
 ##### § 36d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020501119)
 
 
 
 ##### § 36e Erlöschen von Zuschlägen für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012404123)
 
 (1) Der Zuschlag erlischt bei Geboten für Windenergieanlagen an Land
 36 Monate nach der öffentlichen Bekanntgabe des Zuschlags, soweit die
@@ -3939,6 +4018,7 @@ unbeschadet einer Verlängerung nach Absatz 2 eine Dauer von insgesamt
 
 
 ##### § 36f Änderungen nach Erteilung des Zuschlags für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012501128)
 
 (1) Zuschläge sind den Windenergieanlagen an Land, auf die sich die in
 dem Gebot angegebene Genehmigung bezieht, verbindlich und dauerhaft
@@ -3954,10 +4034,12 @@ dadurch nicht.
 
 
 ##### § 36g (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012605311)
 
 
 
 ##### § 36h Anzulegender Wert für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012706128)
 
 (1) Der Netzbetreiber berechnet den anzulegenden Wert aufgrund des
 Zuschlagswerts für den Referenzstandort nach Anlage 2 Nummer 4 für
@@ -4099,6 +4181,7 @@ Stellen nach dem Komma gerundet.
 [^F811746_02_BJNR106610014BJNE012706128]: 
 
 ##### § 36i Dauer des Zahlungsanspruchs für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012802128)
 
 Abweichend von § 25 Absatz 1 Satz 3 beginnt der Zeitraum nach § 25
 Absatz 1 Satz 1 spätestens 30 Monate nach der Bekanntgabe des
@@ -4108,6 +4191,7 @@ Absatz 2 oder Absatz 3 erst zu einem späteren Zeitpunkt erfolgt.
 
 
 ##### § 36j Zusatzgebote
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020601311)
 
 (1) Abweichend von § 36c können Bieter einmalig Gebote für
 bezuschlagte Windenergieanlagen an Land nach deren Inbetriebnahme
@@ -4138,12 +4222,15 @@ anzuwenden.
 
 
 ##### § 36k (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020701123)
 
 
 #### Unterabschnitt 3 - Ausschreibungen für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002601128)
 
 
 ##### § 37 Gebote für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003808128)
 
 (1) Gebote bei den Ausschreibungen für Solaranlagen des ersten
 Segments dürfen nur für Anlagen abgegeben werden, die errichtet werden
@@ -4411,6 +4498,7 @@ Gigawatt beträgt.
 
 
 ##### § 37a Sicherheiten für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE012903311)
 
 Die Höhe der Sicherheit nach § 31 bei den Ausschreibungen für
 Solaranlagen des ersten Segments bestimmt sich aus der Gebotsmenge
@@ -4421,6 +4509,7 @@ Absatz 2 Nummer 2 enthält.
 
 
 ##### § 37b Höchstwert für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013005128)
 
 (1) Der Höchstwert ergibt sich aus dem um 8 Prozent erhöhten
 Durchschnitt der Gebotswerte des jeweils höchsten noch bezuschlagten
@@ -4448,6 +4537,7 @@ ergebender Wert wird auf zwei Stellen nach dem Komma gerundet.
 
 
 ##### § 37c Nichtberücksichtigung von Geboten in benachteiligten Gebieten; Verordnungsermächtigung für die Länder
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025400128)
 
 (1) Gebote für Freiflächenanlagen auf Flächen nach § 37 Absatz 1
 Nummer 2 Buchstabe h und i werden im Zuschlagsverfahren für
@@ -4498,6 +4588,7 @@ bestimmen, dass
 
 
 ##### § 37d Besonderes Zuschlagsverfahren für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025500128)
 
 (1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur für
 Solaranlagen des ersten Segments folgendes zweistufiges
@@ -4575,6 +4666,7 @@ Zuschlag erteilt.
 
 
 ##### § 37e Erlöschen von Zuschlägen für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013204128)
 
 Der Zuschlag erlischt bei Geboten bei den Ausschreibungen für
 Solaranlagen des ersten Segments, soweit die Anlagen nicht innerhalb
@@ -4585,6 +4677,7 @@ zulässig und begründet beantragt worden ist.
 
 
 ##### § 38 Zahlungsberechtigung für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE003904128)
 
 (1) Die Bundesnetzagentur stellt auf Antrag eines Bieters, dem
 mindestens ein Zuschlag bei einer Ausschreibung für Solaranlagen des
@@ -4630,6 +4723,7 @@ Solaranlagen aus.
 
 
 ##### § 38a Ausstellung von Zahlungsberechtigungen für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013305128)
 
 (1) Die Zahlungsberechtigung für Solaranlagen nach § 38 darf nur
 ausgestellt werden,
@@ -4734,6 +4828,7 @@ auf andere Anlagen übertragen werden.
 
 
 ##### § 38b Anzulegender Wert für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013404128)
 
 (1) Die Höhe des anzulegenden Werts bei den Ausschreibungen für
 Solaranlagen des ersten Segments entspricht dem Zuschlagswert des
@@ -4755,9 +4850,11 @@ hinausgehenden Anteil besteht kein Zahlungsanspruch nach § 19.
 
 
 #### Unterabschnitt 4 - Ausschreibungen für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG003100128)
 
 
 ##### § 38c Gebote für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020801311)
 
 (1) Gebote bei den Ausschreibungen für Solaranlagen des zweiten
 Segments dürfen nur für Anlagen abgegeben werden, die auf, an oder in
@@ -4776,6 +4873,7 @@ Gebot eine zu installierende Leistung von 20 Megawatt nicht
 
 
 ##### § 38d Projektsicherungsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE020902128)
 
 (1) Bieter müssen für ihre Gebote einen Projektsicherungsbeitrag
 leisten. Die Höhe des Projektsicherungsbeitrags bestimmt sich aus der
@@ -4806,6 +4904,7 @@ und bezuschlagter Gebotsmenge.
 
 
 ##### § 38e Höchstwert für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021001311)
 
 (1) Der Höchstwert bei den Ausschreibungen für Solaranlagen des
 zweiten Segments beträgt 9 Cent pro Kilowattstunde.
@@ -4819,6 +4918,7 @@ zu legen.
 
 
 ##### § 38f Zuschläge für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021101123)
 
 Zuschläge für Solaranlagen des zweiten Segments sind dem Standort, auf
 den sich das Gebot bezieht, verbindlich und dauerhaft zugeordnet. Sie
@@ -4827,6 +4927,7 @@ werden.
 
 
 ##### § 38g Dauer des Zahlungsanspruchs für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021201123)
 
 Abweichend von § 25 Absatz 1 Satz 1 endet der Zeitraum mit dem Ablauf
 des 252. auf die öffentliche Bekanntgabe des Zuschlags folgenden
@@ -4834,6 +4935,7 @@ Kalendermonats.
 
 
 ##### § 38h Anzulegender Wert für Solaranlagen des zweiten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021303128)
 
 § 38b ist bei den Ausschreibungen für Solaranlagen des zweiten
 Segments entsprechend anzuwenden. Abweichend von § 38b Absatz 2 Satz 2
@@ -4856,12 +4958,15 @@ und 3 gilt bei einer Erhöhung der Leistung durch die Ersetzung, dass
 
 
 ##### § 38i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021401123)
 
 
 #### Unterabschnitt 5 - Ausschreibungen für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002701128)
 
 
 ##### § 39 Gebote für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004003311)
 
 (1) In Ergänzung zu den Anforderungen nach § 30 müssen
 Biomasseanlagen, für die Gebote abgegeben werden, folgende
@@ -4942,6 +5047,7 @@ anzuwenden.
 
 
 ##### § 39a Sicherheiten für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013500123)
 
 Die Höhe der Sicherheit nach § 31 für Biomasseanlagen bestimmt sich
 aus der Gebotsmenge multipliziert mit 60 Euro pro Kilowatt zu
@@ -4949,6 +5055,7 @@ installierender Leistung.
 
 
 ##### § 39b Höchstwert für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013602311)
 
 (1) Der Höchstwert für Strom aus Biomasseanlagen beträgt im Jahr 2023
 16,07 Cent pro Kilowattstunde.
@@ -4962,6 +5069,7 @@ zu legen.
 
 
 ##### § 39c Ausschluss von Geboten für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013701311)
 
 Die Bundesnetzagentur schließt Gebote für Biomasseanlagen von dem
 Zuschlagsverfahren aus, wenn sie für eine in dem Gebot angegebene
@@ -4971,6 +5079,7 @@ entwertet worden ist.
 
 
 ##### § 39d Zuschlagsverfahren für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021503128)
 
 (1) Abweichend von § 32 Absatz 1 führt die Bundesnetzagentur folgendes
 Zuschlagsverfahren für Biomasseanlagen durch, sofern die insgesamt
@@ -5078,6 +5187,7 @@ Zuschlag in dem Umfang, für den das Gebot abgegeben worden ist.
 
 
 ##### § 39e Erlöschen von Zuschlägen für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013802128)
 
 (1) Der Zuschlag erlischt bei Geboten für Biomasseanlagen 36 Monate
 nach der öffentlichen Bekanntgabe des Zuschlags, soweit die Anlage
@@ -5103,6 +5213,7 @@ Monate nicht überschreiten darf.
 
 
 ##### § 39f Änderungen nach Erteilung des Zuschlags für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE013901128)
 
 (1) Zuschläge sind den Biomasseanlagen, auf die sich die in dem Gebot
 angegebene Genehmigung bezieht, verbindlich und dauerhaft zugeordnet.
@@ -5115,6 +5226,7 @@ Zuschlags verändert sich dadurch nicht.
 
 
 ##### § 39g Einbeziehung bestehender Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014005128)
 
 (1) Abweichend von § 39 Absatz 1 Nummer 1 können für Biomasseanlagen,
 die erstmals vor dem 1. Januar 2017 ausschließlich mit Biomasse im
@@ -5248,6 +5360,7 @@ Werte durch drei zu teilen.
 
 
 ##### § 39h Dauer des Zahlungsanspruchs für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014102128)
 
 (1) Abweichend von § 25 Absatz 1 Satz 3 beginnt der Zeitraum nach § 25
 Absatz 1 Satz 1 für bestehende Biomasseanlagen nach § 39g Absatz 1 mit
@@ -5272,6 +5385,7 @@ erneut nach § 39g verlängert werden.
 
 
 ##### § 39i Besondere Zahlungsbestimmungen für Biomasseanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014205128)
 
 (1) Ein durch einen Zuschlag erworbener Anspruch nach § 19 Absatz 1
 für Strom aus Biogas besteht nur, wenn der zur Erzeugung des Biogases
@@ -5389,9 +5503,11 @@ Kilowattstunde.
 
 
 #### Unterabschnitt 6 - Ausschreibungen für Biomethananlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG003200128)
 
 
 ##### § 39j Anwendbarkeit des Unterabschnitts 5
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021603128)
 
 (1) Für die Ausschreibungen für Biomethananlagen sind die Bestimmungen
 des Unterabschnitts 5 mit Ausnahme des § 39 Absatz 3 Nummer 5, Absatz
@@ -5410,6 +5526,7 @@ Bekanntgabe des Zuschlags beginnt.
 
 
 ##### § 39k Gebote für Biomethananlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021702128)
 
 (1) An den Ausschreibungen dürfen nur Anlagen teilnehmen, die nach
 Zuschlagserteilung erstmals in Betrieb gesetzt werden.
@@ -5433,6 +5550,7 @@ Ausschreibungsvolumen bis spätestens zwei Wochen vor dem Gebotstermin.
 
 
 ##### § 39l Höchstwert für Biomethananlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021801311)
 
 (1) Der Höchstwert für Biomethananlagen beträgt 19,31 Cent pro
 Kilowattstunde.
@@ -5446,6 +5564,7 @@ zu legen.
 
 
 ##### § 39m Besondere Zahlungsbestimmungen für Biomethananlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE021901311)
 
 (1) In den Biomethananlagen darf ausschließlich Biomethan zur
 Erzeugung des Stroms eingesetzt werden.
@@ -5468,9 +5587,11 @@ nachzuweisen.
 
 
 #### Unterabschnitt 7 - Ausschreibungen für innovative Konzepte
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002802119)
 
 
 ##### § 39n Innovationsausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014403128)
 
 (1) Die Bundesnetzagentur führt Innovationsausschreibungen für
 erneuerbare Energien durch. Die Teilnahme an diesen Ausschreibungen
@@ -5490,6 +5611,7 @@ Verfahren als effizient erweisen.
 
 
 ##### § 39o Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023700119)
 
 (1) Die Bundesnetzagentur führt nach Maßgabe von Absatz 2
 Ausschreibungen für innovative Konzepte mit wasserstoffbasierter
@@ -5535,6 +5657,7 @@ Energien beruht.
 
 
 ##### § 39p Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023800119)
 
 (1) Die Bundesnetzagentur führt nach Maßgabe von Absatz 2
 Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem
@@ -5553,6 +5676,7 @@ Energien beruht.
 
 
 ##### § 39q Besondere Zahlungsbestimmungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023900119)
 
 Der Anspruch nach § 19 Absatz 1 für Strom aus Grünem Wasserstoff
 besteht nur für den Anteil der in einem Kalenderjahr erzeugten
@@ -5563,12 +5687,15 @@ Strommenge verringert sich der anzulegende Wert auf null.
 
 
 ### Abschnitt 4 - Gesetzliche Bestimmung der Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001001123)
 
 
 #### Unterabschnitt 1 - Anzulegende Werte
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002900123)
 
 
 ##### § 40 Wasserkraft
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004103311)
 
 (1) Für Strom aus Wasserkraft beträgt der anzulegende Wert
 
@@ -5643,6 +5770,7 @@ Satz 1 sind die ungerundeten Werte zugrunde zu legen.
 
 
 ##### § 41 Deponie-, Klär- und Grubengas
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004203311)
 
 (1) Für Strom aus Deponiegas beträgt der anzulegende Wert
 
@@ -5697,6 +5825,7 @@ sind die ungerundeten Werte zugrunde zu legen.
 
 
 ##### § 42 Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004304311)
 
 Für Strom aus Biomasse im Sinn der Biomasseverordnung, für den der
 anzulegende Wert gesetzlich bestimmt wird, beträgt dieser bis
@@ -5706,6 +5835,7 @@ anzuwenden.
 
 
 ##### § 43 Vergärung von Bioabfällen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004404311)
 
 (1) Für Strom aus Anlagen, in denen Biogas eingesetzt wird, das durch
 anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung mit
@@ -5734,6 +5864,7 @@ stofflich verwertet werden.
 
 
 ##### § 44 Vergärung von Gülle
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004505311)
 
 (1) Für Strom aus Anlagen, in denen Biogas eingesetzt wird, das durch
 anaerobe Vergärung von Biomasse im Sinn der Biomasseverordnung
@@ -5779,6 +5910,7 @@ den nicht berücksichtigten Zeitraum.
 
 
 ##### § 44a Absenkung der anzulegenden Werte für Strom aus Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014503311)
 
 Die anzulegenden Werte nach den §§ 42 bis 44 verringern sich erstmals
 ab dem 1. Juli 2024 und sodann jährlich ab dem 1. Juli eines
@@ -5791,6 +5923,7 @@ ungerundeten Werte zugrunde zu legen.
 
 
 ##### § 44b Gemeinsame Bestimmungen für Strom aus Gasen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014603128)
 
 (1) Der Anspruch nach § 19 Absatz 1 für Strom aus Biogas besteht für
 Strom, der in Anlagen mit einer installierten Leistung von mehr als
@@ -5850,6 +5983,7 @@ der Massenbilanzierung nach Absatz 4 Nummer 2 zu dokumentieren.
 
 
 ##### § 44c Sonstige gemeinsame Bestimmungen für Strom aus Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014701128)
 
 (1) Der Anspruch nach § 19 Absatz 1 für Strom aus Biomasse besteht
 unbeschadet des § 44b nur,
@@ -5956,6 +6090,7 @@ Tagebuch von dem Anlagenbetreiber zu schwärzen.
 
 
 ##### § 45 Geothermie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004602128)
 
 (1) Für Strom aus Geothermie beträgt der anzulegende Wert 25,20 Cent
 pro Kilowattstunde.
@@ -5980,6 +6115,7 @@ Betrieb genommen gemeldet worden sind.
 
 
 ##### § 46 Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004706128)
 
 (1) Für Strom aus Windenergieanlagen an Land, deren anzulegender Wert
 gesetzlich bestimmt wird, berechnet der Netzbetreiber den anzulegenden
@@ -6008,10 +6144,12 @@ hat, dass die Anlage eine Flugwindenergieanlage an Land ist.
 
 
 ##### (XXXX) §§ 46a bis 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE014802128)
 
 
 
 ##### § 48 Solare Strahlungsenergie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE004910128)
 
 (1) Für Strom aus Solaranlagen, deren anzulegender Wert gesetzlich
 bestimmt wird, beträgt dieser vorbehaltlich der nachfolgenden Absätze
@@ -6393,6 +6531,7 @@ Kriterien erfüllen:
 
 
 ##### § 48a Mieterstromzuschlag bei solarer Strahlungsenergie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE022001311)
 
 Der anzulegende Wert für den Mieterstromzuschlag nach § 21 Absatz 3
 ist jeweils der Betrag in Cent pro Kilowattstunde, den die
@@ -6420,6 +6559,7 @@ Internetseite veröffentlicht hat für Solaranlagen
 
 
 ##### § 49 Absenkung der anzulegenden Werte für Strom aus solarer Strahlungsenergie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005008311)
 
 Die anzulegenden Werte nach § 48 Absatz 1, 2 und 2a und § 48a
 verringern sich ab dem 1. Februar 2024 und sodann alle sechs Monate
@@ -6432,9 +6572,11 @@ Werte zugrunde zu legen.
 
 
 #### Unterabschnitt 2 - Zahlungen für Flexibilität
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG003000123)
 
 
 ##### § 50 Zahlungsanspruch für Flexibilität
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005102128)
 
 (1) Anlagenbetreiber haben gegen den Netzbetreiber einen
 Zahlungsanspruch nach Maßgabe des § 50a oder § 50b für die
@@ -6488,6 +6630,7 @@ sämtlichen Viertelstunden des jeweiligen Kalenderjahres gekürzt.
 
 
 ##### § 50a Flexibilitätszuschlag für neue Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015004128)
 
 (1) Der Anspruch nach § 50 beträgt für die Bereitstellung flexibler
 installierter Leistung 100 Euro pro Kilowatt installierter Leistung
@@ -6524,6 +6667,7 @@ nach § 19 Absatz 1 verlangt werden.
 
 
 ##### § 50b Flexibilitätsprämie für bestehende Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015101128)
 
 Betreiber von Anlagen zur Erzeugung von Strom aus Biogas, die nach dem
 am 31. Juli 2014 geltenden Inbetriebnahmebegriff vor dem 1. August
@@ -6539,9 +6683,11 @@ Flexibilitätsprämie bestimmt sich nach Anlage 3 Nummer II.
 
 
 ### Abschnitt 5 - Rechtsfolgen und Strafen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001101123)
 
 
 #### § 51 Verringerung des Zahlungsanspruchs bei negativen Preisen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005208128)
 
 (1) Für Zeiträume, in denen der Spotmarktpreis negativ ist, verringert
 sich der anzulegende Wert auf null.
@@ -6574,6 +6720,7 @@ Kalendertag, in dem dieser Zeitraum ganz oder teilweise liegt.
 
 
 #### § 51a Verlängerung des Vergütungszeitraums bei negativen Preisen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE022103128)
 
 (1) Für Strom aus Anlagen, für den sich der anzulegende Wert nach
 Maßgabe des § 51 verringert, verlängert sich der Vergütungszeitraum um
@@ -6712,6 +6859,7 @@ Informationen veröffentlichen:
 
 
 #### § 51b Verringerung des Zahlungsanspruchs für Biogasanlagen in Ausschreibungen bei schwach positiven und negativen Preisen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE026000128)
 
 Für Anlagen, die Biogas mit Ausnahme von Biomethan einsetzen und deren
 anzulegender Wert in einem Zuschlagsverfahren ermittelt worden ist,
@@ -6721,6 +6869,7 @@ der Spotmarktpreis 2 Cent pro Kilowattstunde oder weniger beträgt. Die
 
 
 #### § 52 Zahlungen bei Pflichtverstößen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005311128)
 
 (1) Anlagenbetreiber müssen an den Netzbetreiber, an dessen Netz die
 Anlage angeschlossen ist, eine Zahlung leisten, wenn sie
@@ -6864,6 +7013,7 @@ anzuwenden.
 
 
 #### § 52a Netztrennung oder Unterbindung der Einspeisung durch andere Maßnahmen bei schweren Pflichtverstößen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025900128)
 
 (1) Der Netzbetreiber, an dessen Netz eine Anlage angeschlossen ist,
 muss die Anlage vorbehaltlich der Androhung nach Absatz 2 vom Netz
@@ -6951,6 +7101,7 @@ Wiederherstellung des Anschlusses zu erstatten.
 
 
 #### § 53 Verringerung der Einspeisevergütung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005405128)
 
 (1) Die Höhe des Anspruchs auf die Einspeisevergütung berechnet sich
 aus den anzulegenden Werten, wobei von den anzulegenden Werten
@@ -6999,10 +7150,12 @@ Bundesnetzagentur nach § 85c Absatz 1 Satz 4 nicht erbracht wird.
 
 
 #### § 53a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015201128)
 
 
 
 #### § 53b Verringerung des Zahlungsanspruchs bei Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015300123)
 
 Der anzulegende Wert für Strom, für den dem Anlagenbetreiber ein
 Regionalnachweis ausgestellt worden ist, verringert sich bei Anlagen,
@@ -7011,6 +7164,7 @@ Kilowattstunde.
 
 
 #### § 53c Verringerung des Zahlungsanspruchs bei einer Stromsteuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016700360)
 
 Der anzulegende Wert verringert sich für Strom, der durch ein Netz
 durchgeleitet wird und der von der Stromsteuer nach dem
@@ -7019,6 +7173,7 @@ gewährten Stromsteuerbefreiung.
 
 
 #### § 54 Verringerung des Zahlungsanspruchs bei Ausschreibungen für Solaranlagen des ersten Segments
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005503128)
 
 (1) Der durch Ausschreibungen für Solaranlagen des ersten Segments
 ermittelte anzulegende Wert verringert sich bei Solaranlagen um 0,3
@@ -7062,9 +7217,11 @@ null.
 
 
 #### § 54a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE022201123)
 
 
 #### § 55 Pönalen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005610128)
 
 (1) Bei Geboten für Windenergieanlagen an Land nach § 36 und für
 Zusatzgebote nach § 36j müssen Bieter an den regelverantwortlichen
@@ -7278,6 +7435,7 @@ erforderliche Angaben mit:
 
 
 #### § 55a Erstattung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015401128)
 
 (1) Die Bundesnetzagentur gibt unverzüglich die hinterlegten
 Sicherheiten für ein bestimmtes Gebot zurück, wenn der Bieter
@@ -7312,6 +7470,7 @@ voller Höhe.
 
 
 #### § 55b Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024600311)
 
 Zahlt ein Netzbetreiber einem Anlagenbetreiber mehr als in Teil 3
 vorgeschrieben, muss er den Mehrbetrag zurückfordern. Ist die Zahlung
@@ -7328,9 +7487,11 @@ erlischt insoweit. § 27 Absatz 1 ist nicht anzuwenden.
 
 
 ## Teil 4 - Weitergabe und Vermarktung des Stroms aus erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001301311)
 
 
 ### § 56 Weitergabe an den Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE005703128)
 
 Netzbetreiber müssen unverzüglich an den vorgelagerten
 Übertragungsnetzbetreiber weiterleiten:
@@ -7348,6 +7509,7 @@ Netzbetreiber müssen unverzüglich an den vorgelagerten
 
 
 ### § 57 Vermarktung durch die Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023201311)
 
 Die Übertragungsnetzbetreiber müssen selbst oder gemeinsam den nach §
 19 Absatz 1 Nummer 2 vergüteten oder nach § 13a Absatz 1a des
@@ -7357,6 +7519,7 @@ Erneuerbare-Energien-Verordnung vermarkten.
 
 
 ### § 58 Weitere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE019202311)
 
 (1) Die Finanzierung der Ausgaben der Netzbetreiber nach diesem Gesetz
 bestimmt sich nach dem Energiefinanzierungsgesetz.
@@ -7369,45 +7532,59 @@ Energiewirtschaftsgesetzes bleiben unberührt.
 
 
 ### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006003311)
 
 
 ### § 60 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006106311)
 
 
 ### § 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006207311)
 
 
 ### § 62 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006304311)
 
 
 ### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006402311)
 
 
 ### § 64 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006506311)
 
 
 ### § 65 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006603311)
 
 
 ### § 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006705311)
 
 
 ### § 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006803311)
 
 
 ### § 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE006902311)
 
 
 ### § 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007005311)
 
 
 ## Teil 5 - Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001600000)
 
 
 ### Abschnitt 1 - Mitteilungs- und Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001700000)
 
 
 #### § 70 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007103128)
 
 Anlagenbetreiber, Betreiber von Stromerzeugungsanlagen und
 Netzbetreiber müssen einander die für den bundesweiten Ausgleich nach
@@ -7417,6 +7594,7 @@ unverzüglich zur Verfügung stellen. § 62 ist entsprechend anzuwenden.
 
 
 #### § 71 Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007206128)
 
 (1) Anlagenbetreiber müssen dem Netzbetreiber
 
@@ -7529,6 +7707,7 @@ Verlangen geeignete Nachweise zur Überprüfung der Angaben vorlegen.
 
 
 #### § 72 Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007306311)
 
 (1) Netzbetreiber, die nicht Übertragungsnetzbetreiber sind, müssen
 ihrem vorgelagerten Übertragungsnetzbetreiber im Rahmen der Mitteilung
@@ -7573,6 +7752,7 @@ Angaben unverzüglich, nachdem sie verfügbar sind, zusammengefasst
 
 
 #### § 73 Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007405311)
 
 (1) Übertragungsnetzbetreiber müssen unbeschadet des § 77 Absatz 4 für
 Anlagen, die unmittelbar oder mittelbar an ihr Netz angeschlossen
@@ -7596,6 +7776,7 @@ einheitliche Verfahren zur Verfügung stellen.
 
 
 #### § 74 Vorausschau des weiteren Ausbaus
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007507311)
 
 (1) Die Übertragungsnetzbetreiber müssen bis zum 25. Oktober eines
 Kalenderjahres eine Vorausschau für die Entwicklung des Ausbaus der
@@ -7654,9 +7835,11 @@ die Prognose eingeflossen sind, müssen angegeben werden.
 
 
 #### § 75 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007604311)
 
 
 #### § 76 Information der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007707311)
 
 (1) Übertragungsnetzbetreiber müssen im Rahmen der Vorlage nach § 59
 Absatz 4 des Energiefinanzierungsgesetzes die Angaben, die sie nach §
@@ -7683,6 +7866,7 @@ nach den §§ 98 und 99 zur Verfügung gestellt.
 
 
 #### § 77 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007804311)
 
 (1) Übertragungsnetzbetreiber müssen im Rahmen der Veröffentlichung
 nach § 51 Absatz 1 des Energiefinanzierungsgesetzes auf ihren
@@ -7724,12 +7908,15 @@ kommerziellen und nichtkommerziellen Zwecken verwendet werden.
 
 
 ### Abschnitt 2 - Stromkennzeichnung und Doppelvermarktungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001800000)
 
 
 #### § 78 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE007906311)
 
 
 #### § 79 Herkunftsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008005128)
 
 (1) Das Umweltbundesamt
 
@@ -7829,6 +8016,7 @@ Verwaltungsgerichtsordnung nicht statt.
 [^F814602_03_BJNR106610014BJNE008005128]: 
 
 #### § 79a Regionalnachweise
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015803311)
 
 (1) Das Umweltbundesamt
 
@@ -7935,6 +8123,7 @@ Verwaltungsgerichtsordnung nicht statt.
 
 
 #### § 80 Doppelvermarktungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008101123)
 
 (1) Strom aus erneuerbaren Energien und aus Grubengas sowie in ein
 Gasnetz eingespeistes Deponie- oder Klärgas und Gas aus Biomasse
@@ -7967,6 +8156,7 @@ gemacht werden.
 
 
 #### § 80a Kumulierung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE015903128)
 
 Investitionszuschüsse durch den Bund, das Land oder ein
 Kreditinstitut, an dem der Bund oder das Land beteiligt sind, dürfen
@@ -7978,9 +8168,11 @@ einer Zahlung im Sinne des Satzes 1 nicht gleich.
 
 
 ## Teil 6 - Rechtsschutz und behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG001900000)
 
 
 ### § 81 Clearingstelle
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008208311)
 
 (1) Zur Vermeidung und Beilegung von Streitigkeiten wird eine
 Clearingstelle eingerichtet. Der Betrieb erfolgt im Auftrag des
@@ -8115,12 +8307,14 @@ Clearingstelle zur Deckung des Aufwands Entgelte erheben.
 
 
 ### § 82 Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008301123)
 
 Die §§ 8 bis 14 des Gesetzes gegen den unlauteren Wettbewerb gelten
 für Verstöße gegen die §§ 19 bis 55a entsprechend.
 
 
 ### § 83 Einstweiliger Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008401123)
 
 (1) Auf Antrag des Anlagenbetreibers kann das für die Hauptsache
 zuständige Gericht bereits vor Errichtung der Anlage unter
@@ -8138,6 +8332,7 @@ Voraussetzungen nicht vorliegen.
 
 
 ### § 83a Rechtsschutz bei Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016000123)
 
 (1) Gerichtliche Rechtsbehelfe, die sich unmittelbar gegen eine
 Ausschreibung oder unmittelbar gegen einen erteilten Zuschlag richten,
@@ -8159,6 +8354,7 @@ einer Zahlungsberechtigung durch Dritte ist nicht zulässig.
 
 
 ### § 84 Nutzung von Seewasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008501123)
 
 Solange Anlagenbetreiber eine Zahlung nach § 19 erhalten, können sie
 die deutsche ausschließliche Wirtschaftszone oder das Küstenmeer
@@ -8166,10 +8362,12 @@ unentgeltlich für den Betrieb der Anlagen nutzen.
 
 
 ### § 84a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE022702128)
 
 
 
 ### § 85 Aufgaben der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE019306128)
 
 (1) Die Bundesnetzagentur hat vorbehaltlich weiterer Aufgaben, die ihr
 durch Rechtsverordnung aufgrund dieses Gesetzes übertragen werden, die
@@ -8324,6 +8522,7 @@ keine Unternehmen sind, entsprechend.
 
 
 ### § 85a Festlegung zu den Höchstwerten bei Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016104128)
 
 (1) Die Bundesnetzagentur kann durch Festlegung nach § 29 des
 Energiewirtschaftsgesetzes die Höchstwerte nach § 36b, § 37b oder §
@@ -8364,6 +8563,7 @@ ihrer Internetseite öffentlich bekannt.
 
 
 ### § 85b Auskunftsrecht und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016200123)
 
 (1) Die Bundesnetzagentur ist bei Vorliegen von Anhaltspunkten für
 Falschangaben eines Bieters in einem Ausschreibungsverfahren und zum
@@ -8415,6 +8615,7 @@ diesem Gesetz auswirken können, übermitteln.
 
 
 ### § 85c Festlegung zu den besonderen Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024701128)
 
 (1) Die Bundesnetzagentur bestimmt durch Festlegung nach § 29 des
 Energiewirtschaftsgesetzes die Anforderungen, die an die besonderen
@@ -8452,6 +8653,7 @@ sofortiger Wirkung fest.
 
 
 ### § 85d Festlegung zu flexibler Speichernutzung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE025601128)
 
 Die Bundesnetzagentur kann unter Beachtung der Schutzprofile und
 Technischen Richtlinien des Bundesamtes für Sicherheit in der
@@ -8481,6 +8683,7 @@ Ablauf des 30. Juni 2026.
 
 
 ### § 86 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008704311)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -8544,6 +8747,7 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 ### § 87 Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008804311)
 
 (1) Der Bundesgerichtshof muss die Bundesnetzagentur über alle
 bürgerlichen Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben,
@@ -8563,12 +8767,15 @@ von dem Bundesgerichtshof mitzuteilen.
 
 
 ## Teil 7 - Verordnungsermächtigungen, Berichte, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002000000)
 
 
 ### Abschnitt 1 - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002100000)
 
 
 #### § 88 Verordnungsermächtigung zu Ausschreibungen für Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE008903311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates abweichend von den §§ 3, 22, 24, 25, 28c
@@ -8726,6 +8933,7 @@ Regelungen vorzusehen
 
 
 #### § 88a Verordnungsermächtigung zu grenzüberschreitenden Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE019802311)
 
 (1) Die Bundesregierung wird ermächtigt, unter den in § 5 genannten
 Voraussetzungen durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -9024,6 +9232,7 @@ Mitgliedstaaten der Europäischen Union
 
 
 #### § 88b Verordnungsermächtigung zur Anschlussförderung von Güllekleinanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016402119)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Ernährung und
@@ -9049,6 +9258,7 @@ für Anlagen,
 
 
 #### § 88c Verordnungsermächtigung zur Zielerreichung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016504311)
 
 Soweit das Monitoring zur Zielerreichung nach § 98 ergibt, dass die
 erneuerbaren Energien nicht in der für die Erreichung des Ziels nach §
@@ -9079,6 +9289,7 @@ Bundesrates
 
 
 #### § 88d Verordnungsermächtigung zu Innovationsausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE016604311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates Innovationsausschreibungen nach § 39n
@@ -9266,6 +9477,7 @@ einzuführen; hierfür kann sie Regelungen treffen
 
 
 #### § 88e Verordnungsermächtigung zu den Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024001311)
 
 Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates zu den Ausschreibungen für innovative Konzepte mit
@@ -9501,6 +9713,7 @@ erlassen
 
 
 #### § 88f Verordnungsermächtigung zu den Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024101311)
 
 Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates zu den Ausschreibungen für Anlagen zur Erzeugung von Strom
@@ -9717,6 +9930,7 @@ aus Grünem Wasserstoff nach § 39p nähere Bestimmungen erlassen:
 
 
 #### § 89 Verordnungsermächtigung zur Stromerzeugung aus Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009002128)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates im Anwendungsbereich der §§ 42 bis 44 zu
@@ -9738,6 +9952,7 @@ von aus einem Erdgasnetz entnommenem Gas zu regeln.
 
 
 #### § 90 Verordnungsermächtigung zu Nachhaltigkeitsanforderungen für Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009104119)
 
 Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
 Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
@@ -9812,6 +10027,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 91 Verordnungsermächtigung zum Ausgleichsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009206128)
 
 Die Bundesregierung wird ermächtigt, zur Weiterentwicklung des
 bundesweiten Ausgleichsmechanismus durch Rechtsverordnung ohne
@@ -9865,6 +10081,7 @@ Zustimmung des Bundesrates zu regeln,
 
 
 #### § 92 Verordnungsermächtigung zu Herkunftsnachweisen und Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009306311)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
@@ -9957,6 +10174,7 @@ Zustimmung des Bundesrates
 
 
 #### § 93 Verordnungsermächtigung zu Anforderungen an Grünen Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009406119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die Anforderungen an die Herstellung von
@@ -10013,6 +10231,7 @@ Immissionsschutzgesetzes zu bestimmen.
 
 
 #### § 94 Verordnungsermächtigung zu systemdienlichem Anlagenbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009504128)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 zur Sicherstellung eines netz- und systemdienlichen Betriebs von
@@ -10058,6 +10277,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln,
 
 
 #### § 95 Weitere Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE019406128)
 
 Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung
 ohne Zustimmung des Bundesrates
@@ -10189,6 +10409,7 @@ ohne Zustimmung des Bundesrates
 
 
 #### § 96 Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009706128)
 
 (1) Die Rechtsverordnungen auf Grund der §§ 88, 88b, 88c, 88d, 88e,
 88f, 89, 91, 92 und 93 bedürfen der Zustimmung des Bundestages.
@@ -10213,9 +10434,11 @@ nicht der Zustimmung des Bundesrates oder des Bundestages.
 
 
 ### Abschnitt 2 - Kooperationsausschuss, Monitoring, Berichte
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002201128)
 
 
 #### § 97 Kooperationsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009807128)
 
 (1) Die zuständigen Staatssekretärinnen und Staatssekretäre der Länder
 und des Bundes bilden einen Kooperationsausschuss. Der
@@ -10292,6 +10515,7 @@ Kooperationsausschusses
 
 
 #### § 98 Jährliches Monitoring zur Zielerreichung
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE009908128)
 
 (1) Die Länder berichten dem Sekretariat des Kooperationsausschusses
 jährlich spätestens bis zum 31. Mai über den Stand des Ausbaus der
@@ -10430,6 +10654,7 @@ Daten enthalten.
 
 
 #### § 99 Erfahrungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010005311)
 
 (1) Die Bundesregierung evaluiert dieses Gesetz und das Windenergie-
 auf-See-Gesetz und legt dem Bundestag bis zum 31. Dezember 2023 und
@@ -10485,6 +10710,7 @@ Klimaschutz außerdem wissenschaftliche Gutachten in Auftrag geben.
 
 
 #### § 99a Fortschrittsbericht Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE023401311)
 
 Die Bundesregierung legt dem Bundestag jährlich bis zum 31. Dezember
 einen Bericht vor zu den aktuellen Nutzungskonkurrenzen beim Ausbau
@@ -10510,6 +10736,7 @@ dargestellt werden.
 
 
 #### § 99b Bericht zur Bürgerenergie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE024800311)
 
 Die Bundesnetzagentur berichtet der Bundesregierung bis zum 31.
 Dezember 2024 und dann jährlich über Erfahrungen mit den Bestimmungen
@@ -10518,9 +10745,11 @@ Bürgerbeteiligung.
 
 
 ### Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNG002301311)
 
 
 #### § 100 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010133128)
 
 (1) Soweit sich aus den nachfolgenden Absätzen nichts anderes ergibt,
 sind die Bestimmungen des Erneuerbare-Energien-Gesetzes in der am 31.
@@ -11188,6 +11417,7 @@ um 0,6 Cent pro Kilowattstunde.
 
 
 #### § 101 Beihilferechtlicher Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010210128)
 
 (1) Die Bestimmungen von § 19 Absatz 3c, § 22 Absatz 3 Satz 2, § 28b
 Absatz 2, § 30 Absatz 2, § 36h Absatz 3 Satz 2 und 3, § 37 Absatz 3, §
@@ -11216,6 +11446,7 @@ Absatz 2 in der am 24. Februar 2025 geltenden Fassung anzuwenden.
 (zu § 23a)
 
 #### Anlage 1 Höhe der Marktprämie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010607128)
 
 (Fundstelle: BGBl. I 2020, 3178 - 3180;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11731,6 +11962,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 36h)
 
 #### Anlage 2 Referenzertrag
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010702118)
 
 (Fundstelle: BGBl. I 2014, 1110; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -11885,6 +12117,7 @@ Fußnote)
 (zu § 50b)
 
 #### Anlage 3 Voraussetzungen und Höhe der Flexibilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010807128)
 
 (Fundstelle: BGBl. I 2014, 1111 - 1112;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -12042,10 +12275,12 @@ bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 #### Anlage 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE010902311)
 
 (zu § 3 Nummer 43c)
 
 #### Anlage 5 Südregion
+[Direktlink](https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html#BJNR106610014BJNE022900128)
 
 (Fundstelle: BGBl. I 2020, 3181 - 3185)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000100000)
 
 Auf Grund des § 15 Absatz 7 des Güterkraftverkehrsgesetzes vom 22.
 Juni 1998 (BGBl. I S. 1485), der durch Artikel 1 Nummer 16 Buchstabe g
@@ -29,6 +30,7 @@ Stadtentwicklung:
 
 
 ## § 1 Verkehrsunternehmensdatei
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000201123)
 
 Das Bundesamt für Logistik und Mobilität (Bundesamt) betreibt die
 Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes in
@@ -37,6 +39,7 @@ allgemein zugänglich.
 
 
 ## § 2 Zu speichernde Daten
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000301123)
 
 (1) In der Verkehrsunternehmensdatei sind folgende Daten zu speichern:
 
@@ -153,6 +156,7 @@ umfasst
 
 
 ## § 3 Datenübermittlung durch das Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000400000)
 
 (1) Auskünfte aus dem allgemein zugänglichen Teil der
 Verkehrsunternehmensdatei werden über das Internet erteilt.
@@ -179,6 +183,7 @@ und sechs Monate nach der Protokollierung nach Satz 3 zu löschen.
 
 
 ## § 4 Datenübermittlung an das Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000500000)
 
 (1) Die Erteilungsbehörden haben die Daten nach § 2 Absatz 1 dem
 Bundesamt in einer den Regelungen nach § 7 Absatz 1 entsprechenden
@@ -196,6 +201,7 @@ protokollieren.
 
 
 ## § 5 Auskunft an Behörden
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000600000)
 
 (1) Auf Ersuchen werden inländischen Erteilungsbehörden und
 zuständigen öffentlichen Stellen in einem Mitgliedstaat der
@@ -222,6 +228,7 @@ Absatz 3 gilt entsprechend.
 
 
 ## § 6 Verantwortung für den Inhalt der Verkehrsunternehmensdatei, Datenpflege
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000700000)
 
 (1) Die übermittelnden öffentlichen Stellen sind gegenüber dem
 Bundesamt für die Richtigkeit und Aktualität der von ihnen
@@ -256,6 +263,7 @@ die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist.
 
 
 ## § 7 Organisatorische und technische Leitlinien und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000800000)
 
 (1) Das Bundesamt bestimmt im Benehmen mit den obersten
 Landesverkehrsbehörden sowie unter Beteiligung des Bundesbeauftragten
@@ -278,11 +286,13 @@ Verschlüsselungsverfahren anzuwenden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vudat-dv/BJNR312600011.html#BJNR312600011BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## I. - Begriff und Inhalt des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000100314)
 
 
 
 ### 1. - Gesetzlicher Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000200314)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE002600314)
 
 (1) Ein Grundstück kann in der Weise belastet werden, daß demjenigen,
 zu dessen Gunsten die Belastung erfolgt, das veräußerliche und
@@ -49,10 +52,12 @@ kann sich der Grundstückseigentümer nicht berufen.
 
 
 ### 2. - Vertragsmäßiger Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000300314)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE002700314)
 
 Zum Inhalt des Erbbaurechts gehören auch Vereinbarungen des
 Grundstückseigentümers und des Erbbauberechtigten über:
@@ -88,6 +93,7 @@ Grundstückseigentümers und des Erbbauberechtigten über:
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE002800314)
 
 Der Heimfallanspruch des Grundstückseigentümers kann nicht von dem
 Eigentum an dem Grundstück getrennt werden; der Eigentümer kann
@@ -96,6 +102,7 @@ verlangen, daß das Erbbaurecht einem von ihm zu bezeichnenden Dritten
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE002900314)
 
 Der Heimfallanspruch sowie der Anspruch auf eine Vertragsstrafe (§ 2
 Nr. 4 und 5) verjährt in sechs Monaten von dem Zeitpunkt an, in dem
@@ -105,6 +112,7 @@ Eintreten der Voraussetzungen an.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003000314)
 
 (1) Als Inhalt des Erbbaurechts kann auch vereinbart werden, daß der
 Erbbauberechtigte zur Veräußerung des Erbbaurechts der Zustimmung des
@@ -121,6 +129,7 @@ Grundstückseigentümers erfolgen.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003100314)
 
 (1) Ist eine Vereinbarung gemäß § 5 getroffen, so ist eine Verfügung
 des Erbbauberechtigten über das Erbbaurecht und ein Vertrag, durch den
@@ -135,6 +144,7 @@ nicht berufen.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003202140)
 
 (1) Ist anzunehmen, daß durch die Veräußerung (§ 5 Abs. 1) der mit der
 Bestellung des Erbbaurechts verfolgte Zweck nicht wesentlich
@@ -162,6 +172,7 @@ entsprechend.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003301307)
 
 Verfügungen, die im Wege der Zwangsvollstreckung oder der
 Arrestvollziehung oder durch den Insolvenzverwalter erfolgen, sind
@@ -170,10 +181,12 @@ einer Vereinbarung gemäß § 5 vereiteln oder beeinträchtigen würden.
 
 
 ### 3. - Erbbauzins
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000400314)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003403310)
 
 (1) Wird für die Bestellung des Erbbaurechts ein Entgelt in
 wiederkehrenden Leistungen (Erbbauzins) ausbedungen, so finden die
@@ -215,6 +228,7 @@ mindestens in Höhe zweier Jahresbeträge im Rückstand ist.
 
 
 #### § 9a
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003500314)
 
 (1) Dient das auf Grund eines Erbbaurechts errichtete Bauwerk
 Wohnzwecken, so begründet eine Vereinbarung, daß eine Änderung des
@@ -256,10 +270,12 @@ nicht berührt.
 
 
 ### 4. - Rangstelle
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000500314)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003601140)
 
 (1) Das Erbbaurecht kann nur zur ausschließlich ersten Rangstelle
 bestellt werden; der Rang kann nicht geändert werden. Rechte, die zur
@@ -274,10 +290,12 @@ unschädlich ist.
 
 
 ### 5. - Anwendung des Grundstücksrechts
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000600314)
 
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003702140)
 
 (1) Auf das Erbbaurecht finden die sich auf Grundstücke beziehenden
 Vorschriften mit Ausnahme der §§ 925, 927, 928 des Bürgerlichen
@@ -292,10 +310,12 @@ des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ### 6. - Bauwerk. Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000700314)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003800314)
 
 (1) Das auf Grund des Erbbaurechts errichtete Bauwerk gilt als
 wesentlicher Bestandteil des Erbbaurechts. Das gleiche gilt für ein
@@ -312,15 +332,18 @@ Erbbaurechts Bestandteile des Grundstücks.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE003900314)
 
 Das Erbbaurecht erlischt nicht dadurch, daß das Bauwerk untergeht.
 
 
 ## II. - Grundbuchvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000800314)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004002360)
 
 (1) Für das Erbbaurecht wird bei der Eintragung in das Grundbuch von
 Amts wegen ein besonderes Grundbuchblatt (Erbbaugrundbuch) angelegt.
@@ -349,6 +372,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004100314)
 
 In den Fällen des § 5 darf der Rechtsübergang und die Belastung erst
 eingetragen werden, wenn dem Grundbuchamte die Zustimmung des
@@ -356,12 +380,14 @@ Grundstückseigentümers nachgewiesen ist.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004200314)
 
 Bei der Löschung des Erbbaurechts wird das Erbbaugrundbuch von Amts
 wegen geschlossen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004301307)
 
 (1) Jede Eintragung in das Erbbaugrundbuch soll auch dem
 Grundstückseigentümer, die Eintragung von Verfügungsbeschränkungen des
@@ -380,14 +406,17 @@ bekanntgemacht werden.
 
 
 ## III. - Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG000900314)
 
 
 
 ### 1. - Mündelhypothek
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001000314)
 
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004400314)
 
 Eine Hypothek an einem Erbbaurecht auf einem inländischen Grundstück
 ist für die Anlegung von Mündelgeld als sicher anzusehen, wenn sie
@@ -396,6 +425,7 @@ entspricht.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004501307)
 
 (1) Die Hypothek darf die Hälfte des Wertes des Erbbaurechts nicht
 übersteigen. Dieser ist anzunehmen gleich der halben Summe des
@@ -412,6 +442,7 @@ eine Vereinbarung nach § 9 Abs. 3 Satz 1 getroffen worden ist.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004600314)
 
 (1) Die planmäßige Tilgung der Hypothek muß
 
@@ -438,14 +469,17 @@ des Erbbaurechts möglich ist.
 
 
 #### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004704140)
 
 
 
 ### 2. - Landesrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001201140)
 
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004800314)
 
 Die Landesgesetzgebung kann für die innerhalb ihres Geltungsbereichs
 belegenen Grundstücke
@@ -462,14 +496,17 @@ belegenen Grundstücke
 
 
 ## IV. - Feuerversicherung. Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001300314)
 
 
 
 ### 1. - Feuerversicherung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001400314)
 
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE004900314)
 
 Ist das Bauwerk gegen Feuer versichert, so hat der Versicherer den
 Grundstückseigentümer unverzüglich zu benachrichtigen, wenn ihm der
@@ -477,14 +514,17 @@ Eintritt des Versicherungsfalls angezeigt wird.
 
 
 ### 2. - Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001500314)
 
 
 
 #### a) - des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001600314)
 
 
 
 ##### § 24
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005001377)
 
 Bei einer Zwangsvollstreckung in das Erbbaurecht gilt auch der
 Grundstückseigentümer als Beteiligter im Sinne des § 9 des Gesetzes
@@ -492,10 +532,12 @@ Grundstückseigentümer als Beteiligter im Sinne des § 9 des Gesetzes
 
 
 #### b) - des Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001700314)
 
 
 
 ##### § 25
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005100314)
 
 Wird das Grundstück zwangsweise versteigert, so bleibt das Erbbaurecht
 auch dann bestehen, wenn es bei der Feststellung des geringsten Gebots
@@ -503,18 +545,22 @@ nicht berücksichtigt ist.
 
 
 ## V. - Beendigung, Erneuerung, Heimfall
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001800314)
 
 
 
 ### 1. - Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG001900314)
 
 
 
 #### a) - Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG002000314)
 
 
 
 ##### § 26
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005200314)
 
 Das Erbbaurecht kann nur mit Zustimmung des Grundstückseigentümers
 aufgehoben werden. Die Zustimmung ist dem Grundbuchamt oder dem
@@ -522,10 +568,12 @@ Erbbauberechtigten gegenüber zu erklären; sie ist unwiderruflich.
 
 
 #### b) - Zeitablauf
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG002100314)
 
 
 
 ##### § 27
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005300314)
 
 (1) Erlischt das Erbbaurecht durch Zeitablauf, so hat der
 Grundstückseigentümer dem Erbbauberechtigten eine Entschädigung für
@@ -551,12 +599,14 @@ nicht abgetreten werden.
 
 
 ##### § 28
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005400314)
 
 Die Entschädigungsforderung haftet auf dem Grundstück an Stelle des
 Erbbaurechts und mit dessen Range.
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005500314)
 
 Ist das Erbbaurecht bei Ablauf der Zeit, für die es bestellt war, noch
 mit einer Hypothek oder Grundschuld oder mit Rückständen aus
@@ -568,6 +618,7 @@ zustehen.
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005600314)
 
 (1) Erlischt das Erbbaurecht, so finden auf Miet- und Pachtverträge,
 die der Erbbauberechtigte abgeschlossen hat, die im Falle der
@@ -589,10 +640,12 @@ bis zum Ablauf der Frist erfolgen.
 
 
 ### 2. - Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG002200314)
 
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005701310)
 
 (1) Ist dem Erbbauberechtigten ein Vorrecht auf Erneuerung des
 Erbbaurechts eingeräumt (§ 2 Nr. 6), so kann er das Vorrecht ausüben,
@@ -622,10 +675,12 @@ Entschädigungsforderung erlöschen.
 
 
 ### 3. - Heimfall
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG002300314)
 
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005800314)
 
 (1) Macht der Grundstückseigentümer von seinem Heimfallanspruch
 Gebrauch, so hat er dem Erbbauberechtigten eine angemessene Vergütung
@@ -643,6 +698,7 @@ des Erbbaurechts zur Zeit der Übertragung beträgt.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE005901377)
 
 (1) Beim Heimfall des Erbbaurechts bleiben die Hypotheken, Grund- und
 Rentenschulden und Reallasten bestehen, soweit sie nicht dem
@@ -663,10 +719,12 @@ oder Reallasten der Erbbauberechtigte zugleich persönlich haftet.
 
 
 ### 4. - Bauwerk
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG002400314)
 
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006000314)
 
 Der Erbbauberechtigte ist nicht berechtigt, beim Heimfall oder beim
 Erlöschen des Erbbaurechts das Bauwerk wegzunehmen oder sich
@@ -674,10 +732,12 @@ Bestandteile des Bauwerks anzueignen.
 
 
 ## VI. - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNG002500314)
 
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006101377)
 
 (1) Für nach dem Inkrafttreten des Gesetzes zur Änderung der
 Verordnung über das Erbbaurecht vom 8. Januar 1974 (BGBl. I S. 41) am
@@ -695,22 +755,26 @@ besondere Härte wäre.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006201377)
 
 (weggefallen)
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006300314)
 
 -
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006401140)
 
 Für ein Erbbaurecht, mit dem ein Grundstück am 21. Januar 1919
 belastet war, bleiben die bis dahin geltenden Gesetze maßgebend.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006501377)
 
 Erwirbt ein Erbbauberechtigter auf Grund eines Vorkaufsrechts oder
 einer Kaufberechtigung im Sinne des § 2 Nr. 7 das mit dem Erbbaurecht
@@ -720,6 +784,7 @@ die schon bei Begründung des Erbbaurechts entrichtet worden sind.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/erbbauv/BJNR000720919.html#BJNR000720919BJNE006600314)
 
 Die Reichsregierung
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000100310)
 
 Auf Grund
 
@@ -50,6 +51,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000200310)
 
 Der Beitragssatz für das Jahr 1997 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 20,3 vom Hundert und in der
@@ -57,6 +59,7 @@ knappschaftlichen Rentenversicherung 26,9 vom Hundert.
 
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000300310)
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Kalenderjahr 1997 monatlich 328 Deutsche Mark.
@@ -66,6 +69,7 @@ Beitrittsgebiet für das Kalenderjahr 1997 monatlich 282 Deutsche Mark.
 
 
 ## § 3 Beitragszuschuß in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000400310)
 
 (1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
 wird der monatliche Zuschußbetrag für das Kalenderjahr 1997 wie folgt
@@ -341,6 +345,7 @@ Kalenderjahr 1997 wie folgt festgesetzt:
 
 
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000500310)
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
 Beitragssatzes für das Jahr 1997 berechneten Faktoren betragen im
@@ -435,11 +440,13 @@ Beiträge maßgebend wäre.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000600310)
 
 Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1997/BJNR208500996.html#BJNR208500996BJNE000700310)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 830-2-9-53 v. 28.6.2022 I 1014 (AnrV 2022)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000100000)
 
 Auf Grund des § 33 Absatz 6 in Verbindung mit § 33a Absatz 1 Satz 3
 Buchstabe a und b, § 33b Absatz 5 Satz 3 Buchstabe a und b, § 41
@@ -33,11 +34,13 @@ Arbeit und Soziales:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000200000)
 
 Diese Verordnung gilt im Gebiet der Bundesrepublik Deutschland.
 
 
 ## § 2 Anzurechnendes Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000300000)
 
 Das anzurechnende Einkommen zur Feststellung der Ausgleichsrenten, der
 Ehegatten- und Kinderzuschläge sowie der Elternrenten (§ 33 Absatz 1,
@@ -56,6 +59,7 @@ anzurechnenden Einkommens zu ermitteln.
 
 
 ## § 3 Rundungsvorschrift und Zusammentreffen von Einkommensgruppen
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000400000)
 
 (1) Das Bruttoeinkommen ist vor Anwendung der Tabelle auf volle Euro
 abzurunden.
@@ -70,6 +74,7 @@ Bundesversorgungsgesetzes die für die Feststellung der Leistungen nach
 
 
 ## § 4 Feststellung des Ehegattenzuschlags oder von Kinderzuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000500000)
 
 (1) Zur Feststellung des Ehegattenzuschlags oder von Kinderzuschlägen
 ist von der Stufenzahl, die für das tatsächliche Bruttoeinkommen
@@ -86,6 +91,7 @@ Bundesversorgungsgesetzes.
 
 
 ## § 5 Ermittlung weiterer Stufenzahlen
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000600000)
 
 Soweit die Tabelle in einzelnen Versorgungsfällen nicht ausreicht,
 sind die Werte für jede weitere Stufenzahl wie folgt zu ermitteln:
@@ -108,6 +114,7 @@ sind die Werte für jede weitere Stufenzahl wie folgt zu ermitteln:
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2023 in Kraft. Gleichzeitig tritt
 die 53. Anrechnungsverordnung vom 28. Juni 2022 (BGBl. I S. 1014)
@@ -115,12 +122,14 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2)
 
 ## Anlage Tabelle über das anzurechnende Einkommen und die zustehende Ausgleichs- und Elternrente für die Zeit ab 1. Juli 2023 in Euro
+[Direktlink](https://www.gesetze-im-internet.de/anrv_2023/BJNR0A60A0023.html#BJNR0A60A0023BJNE000900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 166, S. 3 - 9)
 

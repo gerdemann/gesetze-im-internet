@@ -29,6 +29,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrbussv/BJNR176100007.html#BJNR176100007BJNE000100000)
 
 Auf Grund des § 18 Abs. 5 des Abfallverbringungsgesetzes vom 19. Juli
 2007 (BGBl. I S. 1462) verordnet das Bundesministerium für Umwelt,
@@ -36,6 +37,7 @@ Naturschutz und Reaktorsicherheit:
 
 
 ## § 1 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1013/2006
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrbussv/BJNR176100007.html#BJNR176100007BJNE000210116)
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 18 Buchstabe b des
 Abfallverbringungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -148,6 +150,7 @@ Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## § 2 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1418/2007
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrbussv/BJNR176100007.html#BJNR176100007BJNE000309116)
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 18 Buchstabe a des
 Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -227,5 +230,6 @@ Abfallverbringungsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrbussv/BJNR176100007.html#BJNR176100007BJNE000401116)
 
 

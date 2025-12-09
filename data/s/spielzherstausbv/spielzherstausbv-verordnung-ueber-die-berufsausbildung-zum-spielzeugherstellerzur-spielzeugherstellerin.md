@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000100305)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,17 +31,20 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000200305)
 
 Der Ausbildungsberuf Spielzeughersteller/Spielzeugherstellerin wird
 staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000300305)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000400305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -92,6 +96,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000500305)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -109,12 +114,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000600305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000700305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -123,6 +130,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000800305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -182,6 +190,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE000900305)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -357,12 +366,14 @@ sind.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE001000305)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin
+[Direktlink](https://www.gesetze-im-internet.de/spielzherstausbv/BJNR133300997.html#BJNR133300997BJNE001100305)
 
 (Fundstelle: BGBl. I 1997, 1336 - 1339)
 

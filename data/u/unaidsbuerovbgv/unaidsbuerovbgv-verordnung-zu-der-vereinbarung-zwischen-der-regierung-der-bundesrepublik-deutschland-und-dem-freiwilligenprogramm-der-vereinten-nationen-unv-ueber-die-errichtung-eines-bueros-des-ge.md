@@ -21,6 +21,7 @@ Fundstelle
 Stand: Die V tritt gem. Art. 3 Abs. 3 an dem Tag außer Kraft, an dem die Vereinbarung außer Kraft tritt
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unaidsb_rovbgv/BJNR0910O0023.html#BJNR0910O0023BJNE000100000)
 
 Auf Grund des Artikels 2 Absatz 2 des Gesetzes zu dem Abkommen vom 10.
 November 1995 zwischen der Bundesrepublik Deutschland und den
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unaidsb_rovbgv/BJNR0910O0023.html#BJNR0910O0023BJNE000200000)
 
 Die durch Notenwechsel vom 17. August 2022 und 3. März 2023
 geschlossene Vereinbarung zwischen der Regierung der Bundesrepublik
@@ -40,6 +42,7 @@ Der Notenwechsel wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unaidsb_rovbgv/BJNR0910O0023.html#BJNR0910O0023BJNE000300000)
 
 (1) Gemäß Artikel 4 Absatz 2 des Abkommens vom 10. November 1995
 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen
@@ -54,6 +57,7 @@ zwischen der Bundesrepublik Deutschland und den Vereinten Nationen
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unaidsb_rovbgv/BJNR0910O0023.html#BJNR0910O0023BJNE000400000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -67,6 +71,7 @@ Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/unaidsb_rovbgv/BJNR0910O0023.html#BJNR0910O0023BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

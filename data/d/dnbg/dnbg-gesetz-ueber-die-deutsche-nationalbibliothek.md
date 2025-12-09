@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsstellung, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000100000)
 
 (1) Die Deutsche Nationalbibliothek (Bibliothek) ist die zentrale
 Archivbibliothek und das nationalbibliografische Zentrum der
@@ -33,6 +34,7 @@ Musikarchiv. Sie hat ihren Sitz in Frankfurt am Main.
 
 
 ## § 2 Aufgaben, Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000200000)
 
 Die Bibliothek hat die Aufgabe,
 
@@ -66,6 +68,7 @@ Die Bibliothek hat die Aufgabe,
 
 
 ## § 3 Medienwerke
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000300000)
 
 (1) Medienwerke sind alle Darstellungen in Schrift, Bild und Ton, die
 in körperlicher Form verbreitet oder in unkörperlicher Form der
@@ -83,6 +86,7 @@ Bestimmungen dieses Gesetzes.
 
 
 ## § 4 Satzung, Benutzung, Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000400000)
 
 (1) Die Bibliothek gibt sich eine Satzung, die der Verwaltungsrat mit
 der Mehrheit von drei Vierteln seiner Mitglieder erlässt. Sie bedarf
@@ -100,6 +104,7 @@ obersten Bundesbehörde.
 
 
 ## § 5 Organe
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000500000)
 
 Organe der Bibliothek sind
 
@@ -116,6 +121,7 @@ Organe der Bibliothek sind
 
 
 ## § 6 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000600000)
 
 (1) Der Verwaltungsrat hat 13 Mitglieder. Diese werden nach Maßgabe
 der Nummern 1 bis 4 bestimmt.
@@ -169,6 +175,7 @@ er der Generaldirektorin oder dem Generaldirektor der Bibliothek
 
 
 ## § 7 Generaldirektorin, Generaldirektor
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000700000)
 
 (1) Die Generaldirektorin oder der Generaldirektor führt die Geschäfte
 der Bibliothek. Sie oder er entscheidet in allen Angelegenheiten der
@@ -182,6 +189,7 @@ Dienstvorgesetzter der Bediensteten der Bibliothek.
 
 
 ## § 8 Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000800000)
 
 (1) Der Beirat berät den Verwaltungsrat und die Generaldirektorin oder
 den Generaldirektor in allen die Bibliothek betreffenden
@@ -206,12 +214,14 @@ auch die Vorsitzende oder der Vorsitzende des Beirates an.
 
 
 ## § 9 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE000900000)
 
 Die für Kultur und Medien zuständige oberste Bundesbehörde führt die
 Rechtsaufsicht über die Bibliothek.
 
 
 ## § 10 Beamtinnen, Beamte
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001001310)
 
 (1) Die Bibliothek besitzt Dienstherrenfähigkeit im Sinne des § 2 des
 Bundesbeamtengesetzes.
@@ -229,6 +239,7 @@ der Generaldirektorin oder dem Generaldirektor übertragen ist.
 
 
 ## § 11 Arbeitnehmerinnen, Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001100000)
 
 Auf das Arbeitsverhältnis der Angestellten, Arbeiterinnen und Arbeiter
 sind die für Arbeitnehmerinnen und Arbeitnehmer des Bundes jeweils
@@ -238,6 +249,7 @@ Umfang wie Anspruch auf Insolvenzgeld bestünde.
 
 
 ## § 12 Wohnungsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001200000)
 
 Die Vorschriften des Bundes über Bau-, Wohnungs- und
 Mietangelegenheiten gelten für die Bibliothek und ihre Bediensteten
@@ -245,6 +257,7 @@ entsprechend.
 
 
 ## § 13 Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001300000)
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung und -prüfung der Bibliothek finden die für den Bund
@@ -266,6 +279,7 @@ Bundeshaushaltes zur Verfügung gestellt.
 
 
 ## § 14 Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001400000)
 
 (1) Die Ablieferungspflichtigen haben Medienwerke in körperlicher Form
 nach § 2 Nr. 1 Buchstabe a in zweifacher Ausfertigung gemäß § 16 Satz
@@ -291,6 +305,7 @@ der Ablieferungspflichtigen anderweitig zu beschaffen.
 
 
 ## § 15 Ablieferungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001500000)
 
 Ablieferungspflichtig ist, wer berechtigt ist, das Medienwerk zu
 verbreiten oder öffentlich zugänglich zu machen und den Sitz, eine
@@ -298,6 +313,7 @@ Betriebsstätte oder den Hauptwohnsitz in Deutschland hat.
 
 
 ## § 16 Ablieferungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001600000)
 
 Die Ablieferungspflichtigen haben die Medienwerke vollständig, in
 einwandfreiem, nicht befristet benutzbarem Zustand und zur dauerhaften
@@ -310,6 +326,7 @@ bereitgestellt werden.
 
 
 ## § 16a Urheberrechtlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE002300116)
 
 (1) Die Bibliothek darf Medienwerke in unkörperlicher Form für eigene
 und fremde Pflichtexemplarbestände vergütungsfrei vervielfältigen und
@@ -334,6 +351,7 @@ andere, entgeltliche oder unentgeltliche Dienste erreichbar sind.
 
 
 ## § 17 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001700000)
 
 Die Ablieferungspflichtigen haben der Bibliothek bei Ablieferung der
 Medienwerke unentgeltlich die zu ihrer Aufgabenerfüllung notwendigen
@@ -345,6 +363,7 @@ beschaffen.
 
 
 ## § 18 Zuschuss
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001800000)
 
 Für Medienwerke in körperlicher Form gewährt die Bibliothek den
 Ablieferungspflichtigen auf Antrag einen Zuschuss zu den
@@ -354,6 +373,7 @@ regelt eine Rechtsverordnung.
 
 
 ## § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE001900000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -381,6 +401,7 @@ Euro geahndet werden.
 
 
 ## § 20 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE002000000)
 
 Zur geordneten Durchführung der Pflichtablieferung und um einen nicht
 vertretbaren Aufwand der Bibliothek sowie um Unbilligkeiten zu
@@ -410,6 +431,7 @@ Bundesregierung ermächtigt, durch Rechtsverordnung zu regeln:
 
 
 ## § 21 Landesrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE002101116)
 
 Die landesrechtlichen Regelungen über die Ablieferung von Medienwerken
 bleiben unberührt. Für die nach Landesrecht bestimmten Einrichtungen
@@ -417,6 +439,7 @@ für die Ablieferung von Medienwerken gilt § 16a entsprechend.
 
 
 ## § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dnbg/BJNR133800006.html#BJNR133800006BJNE002200000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

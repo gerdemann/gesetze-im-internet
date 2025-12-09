@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000100326)
 
 Auf Grund des § 1 Abs. 2 Satz 6 des Hüttenknappschaftlichen
 Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (Bundesgesetzbl. I
@@ -27,6 +28,7 @@ Bundesrates verordnet:
 
 
 ## § 1 Stimmberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000200326)
 
 (1) Stimmberechtigt sind alle in der Rentenversicherung der Arbeiter
 oder der Rentenversicherung der Angestellten versicherten Arbeitnehmer
@@ -39,6 +41,7 @@ persönlich ausüben.
 
 
 ## § 2 Abstimmungsbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000300326)
 
 Die Landesversicherungsanstalt für das Saarland (Versicherungsträger)
 bestimmt nach Anhörung des Arbeitgebers und des Betriebsrats unter
@@ -52,6 +55,7 @@ betragen.
 
 
 ## § 3 Tag, Zeit und Dauer der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000400326)
 
 (1) Die Abstimmung ist an einem Arbeitstag während der in dem
 Unternehmen üblichen Arbeitszeit in einem oder mehreren von dem
@@ -65,6 +69,7 @@ die Abstimmungsliste Eingetragenen abgestimmt haben.
 
 
 ## § 4 Abstimmungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000500326)
 
 (1) Unmittelbar nach der Bestimmung des Abstimmungstags kann der
 Vorstand des Versicherungsträgers einen Abstimmungsvorstand bestellen.
@@ -103,6 +108,7 @@ Abstimmungsvorstand obliegenden Tätigkeiten selbst war.
 
 
 ## § 5 Abstimmungsliste
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000600326)
 
 (1) Der Arbeitgeber stellt unverzüglich nach der Bekanntgabe des
 Abstimmungstags eine Liste der Stimmberechtigten (Abstimmungsliste)
@@ -132,6 +138,7 @@ in geeigneter Weise unterrichtet werden.
 
 
 ## § 6 Einspruch gegen die Abstimmungsliste
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000700326)
 
 (1) Jeder Stimmberechtigte kann Einspruch gegen die Richtigkeit der
 Abstimmungsliste bis zum vierzehnten Tag vor dem Abstimmungstag bei
@@ -152,6 +159,7 @@ Beginn der Abstimmung berichtigt oder ergänzt werden; § 5 Abs. 1 Satz
 
 
 ## § 7 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000800326)
 
 (1) Das Stimmrecht wird durch Abgabe eines Stimmzettels in einem
 hierfür bestimmten Umschlag ausgeübt.
@@ -178,6 +186,7 @@ einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
 
 ## § 8 Abstimmungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE000900326)
 
 (1) Der Abstimmungsvorstand hat dafür Vorkehrungen zu treffen, daß der
 Stimmberechtigte den Stimmzettel im Abstimmungsraum unbeobachtet
@@ -207,6 +216,7 @@ versiegeln. Dasselbe gilt im Fall der Unterbrechung der Abstimmung.
 
 
 ## § 9 Briefliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001000326)
 
 (1) Einem Stimmberechtigten, der am Abstimmungstag wegen Abwesenheit
 vom Unternehmen verhindert ist, seine Stimme persönlich abzugeben, hat
@@ -260,6 +270,7 @@ briefliche Stimmabgabe beschließen. Absatz 1 gilt entsprechend.
 
 
 ## § 10 Behandlung der Abstimmungsbriefe durch den Abstimmungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001100326)
 
 (1) Unmittelbar vor Abschluß der Abstimmung öffnet der
 Abstimmungsvorstand in öffentlicher Sitzung die bis zu diesem
@@ -275,6 +286,7 @@ ungeöffnet zu den Abstimmungsunterlagen zu nehmen.
 
 
 ## § 11 Ermittlung, Feststellung und Bekanntgabe des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001200326)
 
 (1) Unverzüglich nach Abschluß der Abstimmung nimmt der
 Abstimmungsvorstand öffentlich die Auszählung der Stimmen vor.
@@ -328,6 +340,7 @@ des Betriebsrats die Abstimmungsniederschrift zu übersenden.
 
 
 ## § 12 Aufbewahrung der Abstimmungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001300326)
 
 Der Versicherungsträger hat die Abstimmungsunterlagen mindestens ein
 Jahr aufzubewahren; die Frist beginnt mit dem auf den Tag der
@@ -335,6 +348,7 @@ Entscheidung über den Aufnahmeantrag folgenden Kalenderjahr.
 
 
 ## § 13 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001400326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 23 Satz
@@ -343,6 +357,7 @@ Dezember 1971 (Bundesgesetzbl. I S. 2104) auch im Land Berlin.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001500326)
 
 (1) Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
@@ -350,6 +365,7 @@ Dezember 1971 (Bundesgesetzbl. I S. 2104) auch im Land Berlin.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hav/BJNR031190974.html#BJNR031190974BJNE001600326)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

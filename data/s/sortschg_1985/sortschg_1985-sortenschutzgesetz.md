@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Voraussetzungen und Inhalt des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNG000101308)
 
 
 
 ### § 1 Voraussetzungen des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE000703308)
 
 (1) Sortenschutz wird für eine Pflanzensorte (Sorte) erteilt, wenn sie
 
@@ -54,6 +56,7 @@ erteilt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE000804308)
 
 Im Sinne dieses Gesetzes sind
 
@@ -110,6 +113,7 @@ werden kann,
 
 
 ### § 3 Unterscheidbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE000903308)
 
 (1) Eine Sorte ist unterscheidbar, wenn sie sich in der Ausprägung
 wenigstens eines maßgebenden Merkmals von jeder anderen am Antragstag
@@ -136,6 +140,7 @@ können.
 
 
 ### § 4 Homogenität
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001002308)
 
 Eine Sorte ist homogen, wenn sie, abgesehen von Abweichungen auf Grund
 der Besonderheiten ihrer Vermehrung, in der Ausprägung der für die
@@ -143,6 +148,7 @@ Unterscheidbarkeit maßgebenden Merkmale hinreichend einheitlich ist.
 
 
 ### § 5 Beständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001102308)
 
 Eine Sorte ist beständig, wenn sie in der Ausprägung der für die
 Unterscheidbarkeit maßgebenden Merkmale nach jeder Vermehrung oder, im
@@ -151,6 +157,7 @@ unverändert bleibt.
 
 
 ### § 6 Neuheit
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001205377)
 
 (1) Eine Sorte gilt als neu, wenn Pflanzen oder Pflanzenteile der
 Sorte mit Zustimmung des Berechtigten oder seines Rechtsvorgängers vor
@@ -207,6 +214,7 @@ Sorte abgegeben worden sind.
 
 
 ### § 7 Sortenbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001304377)
 
 (1) Eine Sortenbezeichnung ist eintragbar, wenn kein
 Ausschließungsgrund nach Absatz 2 oder 3 vorliegt.
@@ -271,6 +279,7 @@ entgegensteht.
 
 
 ### § 8 Recht auf Sortenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001402308)
 
 (1) Das Recht auf Sortenschutz steht dem Ursprungszüchter oder
 Entdecker der Sorte oder seinem Rechtsnachfolger zu. Haben mehrere die
@@ -283,6 +292,7 @@ ihm das Recht auf Sortenschutz nicht zusteht.
 
 
 ### § 9 Nichtberechtigter Antragsteller
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001501308)
 
 (1) Hat ein Nichtberechtigter Sortenschutz beantragt, so kann der
 Berechtigte vom Antragsteller verlangen, daß dieser ihm den Anspruch
@@ -297,6 +307,7 @@ gutem Glauben war.
 
 
 ### § 10 Wirkung des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001605308)
 
 (1) Vorbehaltlich der §§ 10a und 10b hat der Sortenschutz die Wirkung,
 daß allein der Sortenschutzinhaber berechtigt ist,
@@ -361,6 +372,7 @@ auf Sorten,
 
 
 ### § 10a Beschränkung der Wirkung des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005604301)
 
 (1) Die Wirkung des Sortenschutzes erstreckt sich nicht auf Handlungen
 nach § 10 Abs. 1
@@ -418,6 +430,7 @@ ist.
 
 
 ### § 10b Erschöpfung des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005701308)
 
 Der Sortenschutz erstreckt sich nicht auf Handlungen, die vorgenommen
 werden mit Pflanzen, Pflanzenteilen oder daraus unmittelbar gewonnenen
@@ -440,6 +453,7 @@ gebracht worden ist, es sei denn, daß diese Handlungen
 
 
 ### § 10c Ruhen des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005801308)
 
 Wird dem Inhaber eines nach diesem Gesetz erteilten Sortenschutzes für
 dieselbe Sorte ein gemeinschaftlicher Sortenschutz erteilt, so können
@@ -449,6 +463,7 @@ gemacht werden.
 
 
 ### § 11 Rechtsnachfolge, Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001703119)
 
 (1) Das Recht auf Sortenschutz, der Anspruch auf Erteilung des
 Sortenschutzes und der Sortenschutz sind auf natürliche und
@@ -464,6 +479,7 @@ ihn geltend gemacht werden.
 
 
 ### § 12 Zwangsnutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001803308)
 
 (1) Das Bundessortenamt kann auf Antrag, soweit es unter
 Berücksichtigung der wirtschaftlichen Zumutbarkeit für den
@@ -507,6 +523,7 @@ verlangen,
 
 
 ### § 12a Zwangsnutzungsrecht bei biotechnologischen Erfindungen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE006000377)
 
 (1) Kann der Inhaber eines Patents für eine biotechnologische
 Erfindung (§ 1 Abs. 2 des Patentgesetzes) diese nicht verwerten, ohne
@@ -538,6 +555,7 @@ gilt entsprechend.
 
 
 ### § 13 Dauer des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE001902308)
 
 Der Sortenschutz dauert bis zum Ende des fünfundzwanzigsten, bei
 Hopfen, Kartoffel, Rebe und Baumarten bis zum Ende des dreißigsten auf
@@ -545,6 +563,7 @@ die Erteilung folgenden Kalenderjahres.
 
 
 ### § 14 Verwendung der Sortenbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002003308)
 
 (1) Vermehrungsmaterial einer geschützten Sorte darf, außer im
 privaten Bereich zu nichtgewerblichen Zwecken, nur in den Verkehr
@@ -565,6 +584,7 @@ werden.
 
 
 ### § 15 Persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002108119)
 
 (1) Die Rechte aus diesem Gesetz stehen nur zu
 
@@ -598,10 +618,12 @@ mit Wohnsitz oder Geschäftsräumen in einem Vertragsstaat
 
 
 ## Abschnitt 2 - Bundessortenamt
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNG000201308)
 
 
 
 ### § 16 Stellung und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002205301)
 
 (1) Das Bundessortenamt ist eine selbständige Bundesoberbehörde im
 Geschäftsbereich des Bundesministeriums für Ernährung und
@@ -614,6 +636,7 @@ Sorten nach.
 
 
 ### § 17 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002306301)
 
 (1) Das Bundessortenamt besteht aus dem Präsidenten und weiteren
 Mitgliedern. Sie müssen besondere Fachkunde auf dem Gebiet des
@@ -640,6 +663,7 @@ Vorschriften über Mitglieder auch auf Hilfsmitglieder anzuwenden.
 
 
 ### § 18 Prüfabteilungen und Widerspruchsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002402308)
 
 (1) Im Bundessortenamt werden gebildet
 
@@ -680,6 +704,7 @@ Der Präsident setzt ihre Zahl fest und regelt die Geschäftsverteilung.
 
 
 ### § 19 Zusammensetzung der Prüfabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002501308)
 
 (1) Die Prüfabteilungen bestehen jeweils aus einem vom Präsidenten
 bestimmten fachkundigen Mitglied des Bundessortenamtes.
@@ -691,6 +716,7 @@ rechtskundig sein muß.
 
 
 ### § 20 Zusammensetzung der Widerspruchsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002605301)
 
 (1) Die Widerspruchsausschüsse bestehen jeweils aus dem Präsidenten
 oder einem von ihm bestimmten weiteren Mitglied des Bundessortenamtes
@@ -715,10 +741,12 @@ eines ehrenamtlichen Beisitzers beschlußfähig.
 
 
 ## Abschnitt 3 - Verfahren vor dem Bundessortenamt
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNG000301308)
 
 
 
 ### § 21 Förmliches Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002701308)
 
 Auf das Verfahren vor den Prüfabteilungen und den
 Widerspruchsausschüssen sind die Vorschriften der §§ 63 bis 69 und 71
@@ -727,6 +755,7 @@ Verwaltungsverfahren anzuwenden.
 
 
 ### § 22 Sortenschutzantrag
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002801308)
 
 (1) Der Antragsteller hat im Sortenschutzantrag den oder die
 Ursprungszüchter oder Entdecker der Sorte anzugeben und zu versichern,
@@ -742,6 +771,7 @@ Bundessortenamtes eine vorläufige Bezeichnung angeben.
 
 
 ### § 23 Zeitrang des Sortenschutzantrags
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE002903308)
 
 (1) Der Zeitrang des Sortenschutzantrags bestimmt sich im Zweifel nach
 der Reihenfolge der Eintragungen in das Eingangsbuch des
@@ -772,6 +802,7 @@ Schutz genießen.
 
 
 ### § 24 Bekanntmachung des Sortenschutzantrags
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003001308)
 
 (1) Das Bundessortenamt macht den Sortenschutzantrag unter Angabe der
 Art, der angegebenen Sortenbezeichnung oder vorläufigen Bezeichnung,
@@ -786,6 +817,7 @@ Bundessortenamt dies ebenfalls bekannt.
 
 
 ### § 25 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003101308)
 
 (1) Gegen die Erteilung des Sortenschutzes kann jeder beim
 Bundessortenamt schriftlich Einwendungen erheben.
@@ -834,6 +866,7 @@ hierfür als Antragstag der Tag des früheren Antrags gilt.
 
 
 ### § 26 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003202308)
 
 (1) Bei der Prüfung, ob die Sorte die Voraussetzungen für die
 Erteilung des Sortenschutzes erfüllt, baut das Bundessortenamt die
@@ -884,6 +917,7 @@ Die §§ 24 und 25 gelten entsprechend.
 
 
 ### § 27 Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003301308)
 
 (1) Kommt der Antragsteller einer Aufforderung des Bundessortenamtes,
 
@@ -912,6 +946,7 @@ Säumnis hingewiesen hat.
 
 
 ### § 28 Sortenschutzrolle
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003402308)
 
 (1) In die Sortenschutzrolle werden nach Eintritt der Unanfechtbarkeit
 der Erteilung des Sortenschutzes eingetragen
@@ -970,6 +1005,7 @@ und verpflichtet.
 
 
 ### § 29 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003501308)
 
 (1) Jedem steht die Einsicht frei in
 
@@ -1009,6 +1045,7 @@ nur bis zur Entscheidung über den Sortenschutzantrag gestellt werden.
 
 
 ### § 30 Änderung der Sortenbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003602308)
 
 (1) Eine bei Erteilung des Sortenschutzes eingetragene
 Sortenbezeichnung ist zu ändern, wenn
@@ -1057,6 +1094,7 @@ Abs. 1 Nr. 1 und Abs. 4 entsprechend.
 
 
 ### § 31 Beendigung des Sortenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003702308)
 
 (1) Der Sortenschutz erlischt, wenn der Sortenschutzinhaber hierauf
 gegenüber dem Bundessortenamt schriftlich verzichtet.
@@ -1089,6 +1127,7 @@ werden, wenn der Sortenschutzinhaber
 
 
 ### § 32 Ermächtigung zum Erlaß von Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003805301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung
@@ -1106,6 +1145,7 @@ ermächtigt, durch Rechtsverordnung
 
 
 ### § 33 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE003913301)
 
 Durch Besondere Gebührenverordnung des Bundesministeriums für
 Ernährung und Landwirtschaft nach § 22 Absatz 4 des
@@ -1115,10 +1155,12 @@ den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 
 ## Abschnitt 4 - Verfahren vor Gericht
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNG000401308)
 
 
 
 ### § 34 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004003377)
 
 (1) Gegen die Beschlüsse der Widerspruchsausschüsse findet die
 Beschwerde an das Patentgericht statt.
@@ -1142,6 +1184,7 @@ rechtskundigen Mitglied und zwei technischen Mitgliedern.
 
 
 ### § 35 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004101308)
 
 (1) Gegen den Beschluß des Beschwerdesenats findet die
 Rechtsbeschwerde an den Bundesgerichtshof statt, wenn der
@@ -1151,6 +1194,7 @@ Beschwerdesenat sie in dem Beschluß zugelassen hat.
 
 
 ### § 36 Anwendung des Patentgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004201308)
 
 Soweit in den §§ 34 und 35 nichts anderes bestimmt ist, gelten die
 Vorschriften des Patentgesetzes über das Beschwerdeverfahren vor dem
@@ -1160,10 +1204,12 @@ Verfahren entsprechend.
 
 
 ## Abschnitt 5 - Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNG000501308)
 
 
 
 ### § 37 Anspruch auf Unterlassung, Schadensersatz und Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004304310)
 
 (1) Wer ohne Zustimmung des Sortenschutzinhabers
 
@@ -1200,6 +1246,7 @@ fordern.
 
 
 ### § 37a Anspruch auf Vernichtung und Rückruf
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005202310)
 
 (1) Der Verletzte kann den Verletzer in den Fällen des § 37 Abs. 1 auf
 Vernichtung des im Besitz oder Eigentum des Verletzers befindlichen
@@ -1220,6 +1267,7 @@ berücksichtigen.
 
 
 ### § 37b Anspruch auf Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005304119)
 
 (1) Der Verletzte kann den Verletzer in den Fällen des § 37 Abs. 1 auf
 unverzügliche Auskunft über die Herkunft und den Vertriebsweg des
@@ -1311,6 +1359,7 @@ Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 ### § 37c Vorlage- und Besichtigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE006100310)
 
 (1) Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung im
 Sinn von § 37 Abs. 1 kann der Rechtsinhaber oder ein anderer
@@ -1345,6 +1394,7 @@ entstandenen Schadens verlangen.
 
 
 ### § 37d Sicherung von Schadensersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE006200310)
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
 begangenen Rechtsverletzung in den Fällen des § 37 Abs. 2 auch auf
@@ -1374,6 +1424,7 @@ entsprechend.
 
 
 ### § 37e Urteilsbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE006300310)
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
 obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das
@@ -1386,6 +1437,7 @@ nach Satz 1 ist nicht vorläufig vollstreckbar.
 
 
 ### § 37f Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005403310)
 
 Auf die Verjährung der Ansprüche wegen Verletzung eines nach diesem
 Gesetz geschützten Rechts finden die Vorschriften des Abschnitts 5 des
@@ -1396,11 +1448,13 @@ Anwendung.
 
 
 ### § 37g Ansprüche aus anderen gesetzlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE006400310)
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 
 ### § 38 Sortenschutzstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004411377)
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
 Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
@@ -1429,6 +1483,7 @@ Rechtsverhältnisse geltend gemacht wird.
 
 
 ### § 39 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004505124)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1475,6 +1530,7 @@ Bekanntmachung ist im Urteil zu bestimmen.
 
 
 ### § 40 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004604377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1511,6 +1567,7 @@ anzuwenden.
 
 
 ### § 40a Vorschriften über Maßnahmen der Zollbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005508118)
 
 (1) Material, das Gegenstand der Verletzung eines im Inland oder nach
 der Verordnung (EG) Nr. 2100/94 des Rates vom 27. Juli 1994 über den
@@ -1587,6 +1644,7 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 
 
 ### § 40b Verfahren nach der Verordnung (EU) Nr. 608/2013
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE006501118)
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 40a
 Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
@@ -1594,10 +1652,12 @@ enthält, die dem entgegenstehen.
 
 
 ## Abschnitt 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNG000601308)
 
 
 
 ### § 41 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE004704377)
 
 (1) Für Sorten, für die beim Inkrafttreten dieses Gesetzes
 Sortenschutz
@@ -1695,11 +1755,13 @@ Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005102308)
 
 (Inkrafttreten)
 
 
 ### Anlage
+[Direktlink](https://www.gesetze-im-internet.de/sortschg_1985/BJNR021700985.html#BJNR021700985BJNE005901308)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3176
 

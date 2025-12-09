@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anspruchsberechtigung, Höhe der Energiepreispauschale, Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/veppgewg/BJNR198700022.html#BJNR198700022BJNE000100000)
 
 (1) Empfängerinnen und Empfänger von Versorgungsbezügen, die sich nach
 dem Beamtenversorgungsgesetz, nach Teil 1 und 2 des
@@ -81,6 +82,7 @@ Selbstverwaltung.
 
 
 ## § 2 Ausschlusstatbestände, Rückforderungsvorbehalt, Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/veppgewg/BJNR198700022.html#BJNR198700022BJNE000200000)
 
 (1) Sofern eine Empfängerin oder ein Empfänger nach § 1 Absatz 1
 mehrere Versorgungsbezüge erhält, die eine dort genannte Stelle trägt,
@@ -123,6 +125,7 @@ nicht.
 
 
 ## § 3 Nichtberücksichtigung als Einkommen bei Sozialleistungen und im Beitragsrecht, Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/veppgewg/BJNR198700022.html#BJNR198700022BJNE000300000)
 
 (1) Die Energiepreispauschale ist bei einkommensabhängigen
 Sozialleistungen nicht als Einkommen zu berücksichtigen. Sie ist bei
@@ -139,6 +142,7 @@ wird.
 
 
 ## § 4 Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/veppgewg/BJNR198700022.html#BJNR198700022BJNE000400000)
 
 Die in § 1 Absatz 1 genannten Träger der Versorgungsbezüge dürfen die
 bei ihnen jeweils vorhandenen personenbezogenen Daten verarbeiten,

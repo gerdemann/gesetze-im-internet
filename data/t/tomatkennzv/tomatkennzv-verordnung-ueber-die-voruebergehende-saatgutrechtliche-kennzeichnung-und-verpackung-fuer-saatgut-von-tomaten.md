@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/tomatkennzv/BJNR002800014.html#BJNR002800014BJNE000100000)
 
 Saatgut der Art Tomate darf noch bis zum 30. April 2015 unter der
 Verwendung von Kennzeichnungs-

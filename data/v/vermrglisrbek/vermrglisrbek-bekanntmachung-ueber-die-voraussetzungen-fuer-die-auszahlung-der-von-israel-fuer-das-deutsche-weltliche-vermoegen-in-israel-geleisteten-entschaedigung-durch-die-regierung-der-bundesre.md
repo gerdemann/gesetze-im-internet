@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vermrglisrbek/BJNR017280965.html#BJNR017280965BJNE000100328)
 
 Auf Grund des § 6 des Gesetzes vom 29. März 1965 über die Verteilung
 des auf die Bundesrepublik Deutschland entfallenden Anteils an der von

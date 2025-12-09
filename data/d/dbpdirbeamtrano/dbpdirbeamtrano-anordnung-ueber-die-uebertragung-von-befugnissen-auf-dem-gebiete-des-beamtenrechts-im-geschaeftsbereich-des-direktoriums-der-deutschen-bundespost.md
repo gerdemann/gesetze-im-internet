@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/dbpdirbeamtrano/BJNR020510990.html#BJNR020510990BJNE000100308)
 
 
 1.  Wir übertragen der Dienststelle für Sozialangelegenheiten des

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fs-auftragsv/BJNR019280992.html#BJNR019280992BJNE000100305)
 
 Auf Grund des § 31b Abs. 1 und des § 31d Abs. 1 Satz 1 des
 Luftverkehrsgesetzes, die durch das Zehnte Gesetz zur Änderung des
@@ -28,6 +29,7 @@ worden sind, verordnet der Bundesminister für Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fs-auftragsv/BJNR019280992.html#BJNR019280992BJNE000201305)
 
 Die im Handelsregister, Abteilung B, des Amtsgerichts Offenbach unter
 der Nummer 34977 eingetragene DFS Deutsche Flugsicherung Gesellschaft
@@ -37,6 +39,7 @@ beauftragt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fs-auftragsv/BJNR019280992.html#BJNR019280992BJNE000301308)
 
 Die Bestellung der Geschäftsführer der Gesellschaft erfolgt im
 Einvernehmen mit dem Bundesministerium für Verkehr, Bau- und
@@ -44,6 +47,7 @@ Wohnungswesen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fs-auftragsv/BJNR019280992.html#BJNR019280992BJNE000400305)
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000102360)
 
 Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten
 Soldatinnen und Soldaten sowie Beamtinnen und Beamte in
@@ -47,6 +48,7 @@ Bundesbesoldungsordnung A,
 
 
 ## § 2 Bereitschaftsdienst
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000201116)
 
 (1) Die während eines Kalendermonats geleisteten Zeiten eines
 Bereitschaftsdienstes werden entsprechend der durchschnittlich
@@ -100,6 +102,7 @@ für die Zukunft geändert werden.
 
 
 ## § 3 Rufbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000300000)
 
 (1) Zeiten einer Rufbereitschaft ohne tatsächliche Inanspruchnahme,
 die 10 Stunden im Kalendermonat übersteigen, werden zu einem Achtel
@@ -112,6 +115,7 @@ gilt entsprechend.
 
 
 ## § 4 Gesamtzeit
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000400000)
 
 Die berücksichtigten Zeiten eines Kalendermonats sind zu addieren und
 danach auf volle Stunden zu runden (Gesamtzeit). Bei einem Bruchteil
@@ -119,6 +123,7 @@ von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
 
 
 ## § 5 Vergütung bei Vollzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000502130)
 
 Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 
@@ -174,6 +179,7 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 
 
 ## § 6 Vergütung bei Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000600000)
 
 (1) Teilzeitbeschäftigte erhalten je Stunde der Gesamtzeit bis zum
 Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine
@@ -191,6 +197,7 @@ Vollzeitbeschäftigten hinausgehen, werden nach § 5 vergütet.
 
 
 ## § 7 Ausschluss des Vergütungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sanoffzvergv/BJNR100010012.html#BJNR100010012BJNE000700000)
 
 Eine Vergütung wird nicht gewährt
 

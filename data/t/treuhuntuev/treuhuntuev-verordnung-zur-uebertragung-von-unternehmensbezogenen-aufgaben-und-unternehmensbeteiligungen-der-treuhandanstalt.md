@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000100000)
 
 Auf Grund des § 23a Abs. 1, 2 und 3 Satz 3 Halbsatz 2 des
 Treuhandgesetzes, der durch Artikel 1 Nr. 9 des Gesetzes vom 9. August
@@ -29,6 +30,7 @@ Bundesregierung:
 
 
 ## § 1 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000204377)
 
 (1) Die der Treuhandanstalt auf Grund des Treuhandgesetzes und des
 Artikels 25 des Einigungsvertrages zugewiesenen unternehmensbezogenen
@@ -66,6 +68,7 @@ dem jeweils zuständigen Bundesministerium wahr.
 
 
 ## § 2 Übertragung von Unternehmensbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000300000)
 
 (1) Die Geschäftsanteile der Treuhandanstalt an der im Handelsregister
 des Amtsgerichts Berlin-Charlottenburg unter HRB 53659 eingetragenen
@@ -90,6 +93,7 @@ Wirkung vom 1. Januar 1995 auf den Bund übertragen.
 
 
 ## § 3 Haftung im Innenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000400000)
 
 (1) Im Innenverhältnis haftet für die nach § 23a Abs. 3 des
 Treuhandgesetzes auf den jeweiligen Rechtsnachfolger übergegangenen
@@ -104,11 +108,13 @@ Unternehmen handelt.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage 1 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000600000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
@@ -216,6 +222,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
 
 ## Anlage 2 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000700000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
@@ -250,6 +257,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
 
 ## Anlage 3 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000800000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
@@ -302,6 +310,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
 
 ## Anlage 4 (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE000900000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3912
 
@@ -346,6 +355,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3912
 
 
 ## Anlage 5 (zu § 2 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v/BJNR391000994.html#BJNR391000994BJNE001000000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3912
 

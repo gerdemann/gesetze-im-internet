@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html#BJNR005310977BJNE000100326)
 
 Auf Grund des § 22 Abs. 1 Satz 1 des Bundesjagdgesetzes in der Fassung
 der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849) wird mit
@@ -27,6 +28,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html#BJNR005310977BJNE000203124)
 
 (1) Die Jagd darf ausgeübt werden auf
 
@@ -274,11 +276,13 @@ Verwechslung von Tierarten nicht besteht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html#BJNR005310977BJNE000401308)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jagdzeitv_1977/BJNR005310977.html#BJNR005310977BJNE000500326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

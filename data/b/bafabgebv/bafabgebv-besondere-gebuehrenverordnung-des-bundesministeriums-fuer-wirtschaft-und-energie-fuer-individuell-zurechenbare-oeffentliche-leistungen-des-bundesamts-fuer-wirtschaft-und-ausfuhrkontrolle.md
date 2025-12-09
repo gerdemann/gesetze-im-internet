@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 754-22-11 v. 5.3.2013 I 448 (BAGebV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bafabgebv/BJNR431700021.html#BJNR431700021BJNE000100000)
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 
@@ -38,6 +39,7 @@ Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bafabgebv/BJNR431700021.html#BJNR431700021BJNE000200000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle erhebt in seinem
 Zuständigkeitsbereich Gebühren und Auslagen für individuell
@@ -98,6 +100,7 @@ erbracht werden, wird durch diese Verordnung nicht berührt.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bafabgebv/BJNR431700021.html#BJNR431700021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis der Anlage. Das Gebühren- und
@@ -112,6 +115,7 @@ Kosten für die Festsetzung der Gebühren und Auslagen.
 
 
 ## § 3 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bafabgebv/BJNR431700021.html#BJNR431700021BJNE000400000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -121,6 +125,7 @@ anzuwenden.
 
 
 ## § 4 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bafabgebv/BJNR431700021.html#BJNR431700021BJNE000500000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft. Gleichzeitig tritt
 die Besondere-Ausgleichsregelung-Gebührenverordnung vom 5. März 2013
@@ -130,6 +135,7 @@ Dezember 2020 (BGBl. I S. 3138) geändert worden ist, außer Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bafabgebv/BJNR431700021.html#BJNR431700021BJNE000600000)
 
 (Fundstelle: BGBl. I 2021, 4319 - 4327)
 

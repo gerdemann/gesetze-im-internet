@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000100000)
 
 Auf Grund des § 120 des Zwölften Buches Sozialgesetzbuch – Sozialhilfe
 –, der zuletzt durch Artikel 2 Nummer 5 des Gesetzes vom 17. August
@@ -26,6 +27,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000200000)
 
 Diese Verordnung regelt das Verfahren und die Kosten der
 Datenabgleiche, die nach § 118 Absatz 1, 1a und 2 des Zwölften Buches
@@ -33,6 +35,7 @@ Sozialgesetzbuch durchgeführt werden.
 
 
 ## § 2 Auswahl der Abgleichsfälle und des Abgleichszeitraums
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000300000)
 
 (1) In den Datenabgleich nach § 118 Absatz 1 Satz 1 Nummer 1, 2 und 4
 sowie Absatz 2 des Zwölften Buches Sozialgesetzbuch beziehen die
@@ -73,6 +76,7 @@ ist wie ein erstmaliger Bezug anzuzeigen.
 
 
 ## § 3 Übermittlung der Anfragedatensätze an die Vermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000400000)
 
 (1) Die Datenübermittlung von den Trägern der Sozialhilfe an die
 Datenstelle der Rentenversicherung als Vermittlungsstelle erfolgt
@@ -102,6 +106,7 @@ zu dem Träger der Sozialhilfe ermöglichen.
 
 
 ## § 4 Verfahren bei der Vermittlungsstelle; Weiterleitung der Anfragedatensätze
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000500000)
 
 (1) Die Vermittlungsstelle ergänzt die Anfragedatensätze für den
 Datenabgleich um die Versicherungsnummer. Sie übermittelt die
@@ -148,6 +153,7 @@ Zulagenstelle für Altersvermögen weiter.
 
 
 ## § 5 Anforderungen an die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000600000)
 
 (1) Das für die Datenübermittlung verwendete Übermittlungsmedium und
 das Übermittlungsverfahren müssen dem Stand der Technik entsprechend
@@ -192,6 +198,7 @@ Anzeige der Beendigung des Leistungsbezugs zu löschen.
 
 
 ## § 6 Automatisierter Datenabgleich bei den Auskunftsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000700000)
 
 (1) Die Bundesagentur für Arbeit gleicht die Anfragedatensätze, die
 ihr von der Vermittlungsstelle übermittelt worden sind, mit den bei
@@ -274,6 +281,7 @@ anzuzeigen.
 
 
 ## § 7 Rückübermittlung der Antwortdatensätze
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000800000)
 
 (1) Die Auskunftsstellen übermitteln der Vermittlungsstelle die
 Antwortdatensätze zu den Anfragedatensätzen zum Datenabgleich nach § 2
@@ -291,6 +299,7 @@ Absatz 3 werden unverzüglich nach Eingang zur Verfügung gestellt.
 
 
 ## § 8 Weiterverwendung der Antwortdatensätze
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE000900000)
 
 (1) Die von der Vermittlungsstelle den Trägern der Sozialhilfe zur
 Verfügung gestellten Antwortdatensätze dürfen in das Fachverfahren
@@ -306,6 +315,7 @@ Sozialgesetzbuch zu überprüfen und überzahlte Beträge zurückzufordern.
 
 
 ## § 9 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE001000000)
 
 (1) Die Vermittlungsstelle legt die technischen Einzelheiten des
 Datenabgleichsverfahrens, insbesondere den Aufbau, die Übermittlung
@@ -318,6 +328,7 @@ dem Ziel beteiligen, einvernehmliche Festlegungen zu erreichen.
 
 
 ## § 10 Kosten der Vermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE001100000)
 
 (1) Die Träger der Sozialhilfe haben der Vermittlungsstelle zu
 gleichen Teilen die notwendigen Kosten für die Durchführung und
@@ -337,6 +348,7 @@ Jahres mit.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE001200000)
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft. Gleichzeitig tritt
 die Sozialhilfedatenabgleichsverordnung vom 21. Januar 1998 (BGBl. I
@@ -345,6 +357,7 @@ November 2016 (BGBl. I S. 2500) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sozhidav_2019/BJNR020700018.html#BJNR020700018BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

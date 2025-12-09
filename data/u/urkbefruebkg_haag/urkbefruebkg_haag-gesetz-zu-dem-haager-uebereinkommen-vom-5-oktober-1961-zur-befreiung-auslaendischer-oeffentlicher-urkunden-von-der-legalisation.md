@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefr_bkg_haag/BJNR208750965.html#BJNR208750965BJNE000100306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefr_bkg_haag/BJNR208750965.html#BJNR208750965BJNE000200306)
 
 Dem in Den Haag am 5. Oktober 1961 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zur Befreiung ausländischer öffentlicher
@@ -35,6 +37,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefr_bkg_haag/BJNR208750965.html#BJNR208750965BJNE000304125)
 
 (1) Die Bundesregierung und die Landesregierungen oder von diesen
 ermächtigte oberste Bundes- oder Landesbehörden bestimmen in ihrem
@@ -60,6 +63,7 @@ beziehen, anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefr_bkg_haag/BJNR208750965.html#BJNR208750965BJNE000400306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -69,6 +73,7 @@ S. 1).
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/urkbefr_bkg_haag/BJNR208750965.html#BJNR208750965BJNE000500306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

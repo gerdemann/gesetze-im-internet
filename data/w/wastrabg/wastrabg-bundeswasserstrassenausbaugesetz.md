@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000100000)
 
 (1) Das Netz der Bundeswasserstraßen wird nach dem Bedarfsplan für die
 Bundeswasserstraßen ausgebaut, der diesem Gesetz als Anlage beigefügt
@@ -29,6 +30,7 @@ des Bundeswasserstraßengesetzes verbindlich.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000200000)
 
 (1) Der Ausbau erfolgt nach Stufen, die im Bedarfsplan vorgesehen
 sind, und nach Maßgabe der zur Verfügung stehenden Haushaltsmittel.
@@ -39,6 +41,7 @@ besonders nachgewiesen wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000300000)
 
 Der Bedarfsplan für die Bundeswasserstraßen und die entsprechenden
 Pläne für andere Verkehrsträger sind im Rahmen der
@@ -46,6 +49,7 @@ Bundesverkehrswegeplanung aufeinander abzustimmen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000400000)
 
 Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für
 Verkehr und digitale Infrastruktur, ob der Bedarfsplan der
@@ -54,6 +58,7 @@ anzupassen ist. Die Anpassung erfolgt durch Gesetz.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000500000)
 
 (1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
 Bundesministerium für Verkehr und digitale Infrastruktur
@@ -66,6 +71,7 @@ geändert worden ist, bleibt unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000600000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur berichtet
 dem Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
@@ -75,6 +81,7 @@ Vorjahres.
 (zu § 1 Absatz 1)
 
 ## Anlage Bedarfsplan für die Bundeswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastrabg/BJNR322410016.html#BJNR322410016BJNE000700000)
 
 (Fundstelle: BGBl. I 2016, 3225)
 

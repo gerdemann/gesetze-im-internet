@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4euratombek/BJNR002880964.html#BJNR002880964BJNE000100303)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird
@@ -27,11 +28,13 @@ Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4euratombek/BJNR002880964.html#BJNR002880964BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4euratombek/BJNR002880964.html#BJNR002880964BJNE000200303)
 
 
 **1.** **Kennzeichen:**

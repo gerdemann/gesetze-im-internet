@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000100000)
 
 Auf Grund des § 152a des Gesetzes über die Zwangsversteigerung und die
 Zwangsverwaltung in der im Bundesgesetzblatt Teil III,
@@ -32,6 +33,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Stellung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000200000)
 
 (1) Zwangsverwalter und Zwangsverwalterinnen führen die Verwaltung
 selbständig und wirtschaftlich nach pflichtgemäßem Ermessen aus. Sie
@@ -60,6 +62,7 @@ der erforderlichen Haftpflichtversicherung nachzuweisen.
 
 
 ## § 2 Ausweis
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000300000)
 
 Der Verwalter erhält als Ausweis eine Bestallungsurkunde, aus der sich
 das Objekt der Zwangsverwaltung, der Name des Schuldners, das Datum
@@ -67,6 +70,7 @@ der Anordnung sowie die Person des Verwalters ergeben.
 
 
 ## § 3 Besitzerlangung über das Zwangsverwaltungsobjekt, Bericht
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000400000)
 
 (1) Der Verwalter hat das Zwangsverwaltungsobjekt in Besitz zu nehmen
 und darüber einen Bericht zu fertigen. Im Bericht sind festzuhalten:
@@ -115,6 +119,7 @@ dies unverzüglich nachzuholen und dem Gericht anzuzeigen.
 
 
 ## § 4 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000500000)
 
 Der Verwalter hat alle betroffenen Mieter und Pächter sowie alle von
 der Verwaltung betroffenen Dritten unverzüglich über die
@@ -124,6 +129,7 @@ beantragen.
 
 
 ## § 5 Nutzungen des Zwangsverwaltungsobjektes
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000600000)
 
 (1) Der Verwalter soll die Art der Nutzung, die bis zur Anordnung der
 Zwangsverwaltung bestand, beibehalten.
@@ -148,6 +154,7 @@ stellen.
 
 
 ## § 6 Miet- und Pachtverträge
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000700000)
 
 (1) Miet- oder Pachtverträge sowie Änderungen solcher Verträge sind
 vom Verwalter schriftlich abzuschließen.
@@ -178,12 +185,14 @@ vom Verwalter schriftlich abzuschließen.
 
 
 ## § 7 Rechtsverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000800000)
 
 Der Verwalter hat die Rechtsverfolgung seiner Ansprüche im Rahmen des
 pflichtgemäßen Ermessens zeitnah einzuleiten.
 
 
 ## § 8 Rückstände, Vorausverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE000900000)
 
 Die Rechtsverfolgung durch den Verwalter erstreckt sich auch auf
 Rückstände nach § 1123 Abs. 1 und 2 des Bürgerlichen Gesetzbuchs und
@@ -193,6 +202,7 @@ Rechtsverfolgung verzichtet.
 
 
 ## § 9 Ausgaben der Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001000000)
 
 (1) Der Verwalter hat von den Einnahmen die Liquidität
 zurückzubehalten, die für Ausgaben der Verwaltung einschließlich der
@@ -221,6 +231,7 @@ sofern
 
 
 ## § 10 Zustimmungsvorbehalte
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001100000)
 
 (1) Der Verwalter hat zu folgenden Maßnahmen die vorherige Zustimmung
 des Gerichts einzuholen:
@@ -258,6 +269,7 @@ Entscheidung anzuhören.
 
 
 ## § 11 Auszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001200000)
 
 (1) Aus den nach Bestreiten der Ausgaben der Verwaltung sowie der
 Kosten des Verfahrens (§ 155 Abs. 1 des Gesetzes über die
@@ -280,6 +292,7 @@ Termins bei dem Gericht zu beantragen.
 
 
 ## § 12 Beendigung der Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001300000)
 
 (1) Die Beendigung der Zwangsverwaltung erfolgt mit dem gerichtlichen
 Aufhebungsbeschluss. Dies gilt auch für den Fall der Erteilung des
@@ -308,6 +321,7 @@ mitteilt, dass er befriedigt ist.
 
 
 ## § 13 Masseverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001400000)
 
 (1) Der Massebestand ist von eigenen Beständen des Verwalters getrennt
 zu halten.
@@ -327,6 +341,7 @@ Kontoauszüge und Belege bei Gericht einzureichen.
 
 
 ## § 14 Buchführung der Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001500000)
 
 (1) Die Buchführung der Zwangsverwaltung ist eine um die Solleinnahmen
 ergänzte Einnahmenüberschussrechnung.
@@ -344,6 +359,7 @@ beendet sind und das Konto auf Null gebracht worden ist.
 
 
 ## § 15 Gliederung der Einnahmen und Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001600000)
 
 (1) Die Soll- und Isteinnahmen sind nach folgenden Konten zu gliedern:
 
@@ -385,6 +401,7 @@ und Vorsteuerbeträge gesondert darzustellen.
 
 
 ## § 16 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001700000)
 
 Der Verwalter hat jederzeit dem Gericht oder einem mit der Prüfung
 beauftragten Sachverständigen Buchführungsunterlagen, die Akten und
@@ -393,6 +410,7 @@ Zusammenhang mit seiner Verwaltung zu erteilen.
 
 
 ## § 17 Vergütung und Auslagenersatz
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001800000)
 
 (1) Der Verwalter hat Anspruch auf eine angemessene Vergütung für
 seine Geschäftsführung sowie auf Erstattung seiner Auslagen nach
@@ -411,6 +429,7 @@ er eine andere besondere Qualifikation, gilt Satz 1 sinngemäß.
 
 
 ## § 18 Regelvergütung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE001901125)
 
 (1) Bei der Zwangsverwaltung von Grundstücken, die durch Vermieten
 oder Verpachten genutzt werden, erhält der Verwalter als Vergütung in
@@ -434,6 +453,7 @@ Anrechnung auf die Vergütung des Verwalters.
 
 
 ## § 19 Abweichende Berechnung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002001125)
 
 (1) Wenn dem Verwalter eine Vergütung nach § 18 nicht zusteht, bemisst
 sich die Vergütung nach Zeitaufwand. In diesem Fall erhält er für jede
@@ -448,6 +468,7 @@ offensichtlich unangemessen ist.
 
 
 ## § 20 Mindestvergütung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002101125)
 
 (1) Ist das Zwangsverwaltungsobjekt von dem Verwalter in Besitz
 genommen, so beträgt die Vergütung des Verwalters mindestens 1 200
@@ -459,6 +480,7 @@ Vergütung von 450 Euro, sofern er bereits tätig geworden ist.
 
 
 ## § 21 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002201125)
 
 (1) Mit der Vergütung sind die allgemeinen Geschäftskosten abgegolten.
 Zu den allgemeinen Geschäftskosten gehört der Büroaufwand des
@@ -481,6 +503,7 @@ Auslagen zu erstatten.
 
 
 ## § 22 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002300000)
 
 Die Vergütung und die dem Verwalter zu erstattenden Auslagen werden im
 Anschluss an die Rechnungslegung nach § 14 Abs. 2 oder die
@@ -491,6 +514,7 @@ Vorschuss auf die Vergütung und die Auslagen entnehmen.
 
 
 ## § 23 Grundstücksgleiche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002400000)
 
 Die vorstehenden Bestimmungen sind auf die Zwangsverwaltung von
 Berechtigungen, für welche die Vorschriften über die Zwangsverwaltung
@@ -498,6 +522,7 @@ von Grundstücken gelten, entsprechend anzuwenden.
 
 
 ## § 24 Nichtanwendbarkeit der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002500000)
 
 (1) Die Vorschriften dieser Verordnung gelten nicht, falls der
 Schuldner zum Verwalter bestellt ist (§§ 150b bis 150e des Gesetzes
@@ -511,6 +536,7 @@ ritterschaftlichen Kreditanstalt übernommen worden ist.
 
 
 ## § 25 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002601125)
 
 (1) Auf die Vergütung des Verwalters und auf den Ersatz seiner
 Auslagen für Zwangsverwaltungen, die seit dem 1. Januar 2004
@@ -540,11 +566,13 @@ Auslagen
 
 
 ## § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002700000)
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zwvwv/BJNR280400003.html#BJNR280400003BJNE002800000)
 
 Der Bundesrat hat zugestimmt.
 

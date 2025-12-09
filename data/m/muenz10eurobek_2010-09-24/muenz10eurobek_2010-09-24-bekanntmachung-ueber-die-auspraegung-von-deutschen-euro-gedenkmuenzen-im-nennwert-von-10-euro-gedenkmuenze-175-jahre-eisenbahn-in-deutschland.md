@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-09-24/BJNR136200010.html#BJNR136200010BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 10-Euro-
@@ -55,11 +56,13 @@ Der Entwurf stammt von Herrn Bodo Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-09-24/BJNR136200010.html#BJNR136200010BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-09-24/BJNR136200010.html#BJNR136200010BJNE000300000)
 
 
 *    *        ![bgbl1_2010_j1362-1_0010.jpg](bgbl1_2010_j1362-1_0010.jpg)

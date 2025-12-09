@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000100000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000204311)
 
 (1) Schengen-Staaten sind die Staaten im Sinne des § 2 Absatz 5 des
 Aufenthaltsgesetzes.
@@ -81,14 +83,17 @@ Absatz 1 der Richtlinie (EU) 2019/997 in der Fassung vom 6. Mai 2024.
 
 
 ## Kapitel 2 - Einreise und Aufenthalt im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000200000)
 
 
 
 ### Abschnitt 1 - Passpflicht für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000300000)
 
 
 
 #### § 2 Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000300000)
 
 Minderjährige Ausländer, die das 16. Lebensjahr noch nicht vollendet
 haben, erfüllen die Passpflicht auch durch Eintragung in einem
@@ -99,6 +104,7 @@ sein eigenes Lichtbild angebracht ist.
 
 
 #### § 3 Zulassung nichtdeutscher amtlicher Ausweise als Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000402311)
 
 (1) Von anderen Behörden als von deutschen Behörden ausgestellte
 amtliche Ausweise sind als Passersatz zugelassen, ohne dass es einer
@@ -184,6 +190,7 @@ dass
 
 
 #### § 4 Deutsche Passersatzpapiere für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000512311)
 
 (1) Durch deutsche Behörden ausgestellte Passersatzpapiere für
 Ausländer sind:
@@ -388,6 +395,7 @@ verlängert hat.
 
 
 #### § 5 Allgemeine Voraussetzungen der Ausstellung des Reiseausweises für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000603311)
 
 (1) Einem Ausländer, der nachweislich keinen Pass oder Passersatz
 besitzt und ihn nicht auf zumutbare Weise erlangen kann, kann nach
@@ -448,6 +456,7 @@ Ausstellungsvoraussetzungen weiterhin vorliegen.
 
 
 #### § 6 Ausstellung des Reiseausweises für Ausländer im Inland
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000704311)
 
 Im Inland darf ein Reiseausweis für Ausländer nach Maßgabe des § 5
 ausgestellt werden,
@@ -488,6 +497,7 @@ Aufenthaltsgesetzes erhalten haben.
 
 
 #### § 7 Ausstellung des Reiseausweises für Ausländer im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000802311)
 
 (1) Im Ausland darf ein Reiseausweis für Ausländer ohne Chip nach
 Maßgabe des § 5 ausgestellt werden, um dem Ausländer die Einreise in
@@ -502,6 +512,7 @@ Ausland mit dem Deutschen in familiärer Lebensgemeinschaft lebt.
 
 
 #### § 8 Gültigkeitsdauer des Reiseausweises für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE000902310)
 
 (1) Die Gültigkeitsdauer des Reiseausweises für Ausländer darf die
 Gültigkeitsdauer des Aufenthaltstitels oder der Aufenthaltsgestattung
@@ -535,6 +546,7 @@ Verlängerung ist im Reiseausweis für Ausländer zu vermerken.
 
 
 #### § 9 Räumlicher Geltungsbereich des Reiseausweises für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001000000)
 
 (1) Der Reiseausweis für Ausländer kann für alle Staaten oder mit
 einer Beschränkung des Geltungsbereichs auf bestimmte Staaten oder
@@ -561,6 +573,7 @@ zu beschränken.
 
 
 #### § 10 Sonstige Beschränkungen im Reiseausweis für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001100000)
 
 In den Reiseausweis für Ausländer können zur Vermeidung von Missbrauch
 bei oder nach der Ausstellung sonstige Beschränkungen aufgenommen
@@ -571,6 +584,7 @@ Abs. 2 des Aufenthaltsgesetzes bleibt unberührt.
 
 
 #### § 11 Verfahren der Ausstellung oder Verlängerung des Reiseausweises für Ausländer im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001203311)
 
 (1) Im Ausland darf ein Reiseausweis für Ausländer nur mit Zustimmung
 des Bundesministeriums des Innern, für Bau und Heimat oder der von ihm
@@ -593,6 +607,7 @@ Beschränkung eingetragen hat.
 
 
 #### § 12 Grenzgängerkarte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001302311)
 
 (1) Einem Ausländer, der sich in einem an das Bundesgebiet
 angrenzenden Staat rechtmäßig aufhält und der mindestens einmal
@@ -644,6 +659,7 @@ die Freizügigkeit (BGBl. 2001 II S. 810) genannt sind.
 
 
 #### § 13 Notreiseausweis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001401311)
 
 (1) Zur Vermeidung einer unbilligen Härte, oder soweit ein besonderes
 öffentliches Interesse besteht, darf einem Ausländer ein
@@ -708,6 +724,7 @@ Monat betragen.
 
 
 #### § 13a EU-Rückkehrausweis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015400311)
 
 (1) Einem Unionsbürger, dessen Pass oder Passersatz verloren gegangen
 ist, gestohlen oder vernichtet wurde oder sonst nicht innerhalb einer
@@ -869,6 +886,7 @@ zu übermitteln.
 
 
 #### § 14 Befreiung von der Passpflicht in Rettungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001500000)
 
 Von der Passpflicht sind befreit
 
@@ -889,14 +907,17 @@ Inanspruchnahme von Hilfe zumutbar wird.
 
 
 ### Abschnitt 2 - Befreiung vom Erfordernis eines Aufenthaltstitels
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000400000)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000500000)
 
 
 
 ##### § 15 Gemeinschaftsrechtliche Regelung der Kurzaufenthalte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001601311)
 
 Die Befreiung vom Erfordernis eines Aufenthaltstitels für die Einreise
 und den Aufenthalt von Ausländern für Kurzaufenthalte richtet sich
@@ -906,6 +927,7 @@ Verbindung mit den nachfolgenden Bestimmungen.
 
 
 ##### § 16 Vorrang älterer Sichtvermerksabkommen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001701310)
 
 Die Inhaber der in Anlage A zu dieser Verordnung genannten Dokumente
 sind für die Einreise und den Aufenthalt im Bundesgebiet, auch bei
@@ -918,6 +940,7 @@ zeitlichen Begrenzung entgegenstehen.
 
 
 ##### § 17 Nichtbestehen der Befreiung bei Erwerbstätigkeit während eines Kurzaufenthalts
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001809311)
 
 (1) Für die Einreise und den Kurzaufenthalt sind die Personen nach
 Artikel 4 Absatz 1 der Verordnung (EU) 2018/1806 in der jeweils
@@ -951,6 +974,7 @@ Beschäftigungsverordnung erteilt hat.
 
 
 ##### § 17a Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014201116)
 
 Ausländer, die in einem anderen Mitgliedstaat der Europäischen Union
 die Rechtsstellung eines langfristig Aufenthaltsberechtigten
@@ -962,10 +986,12 @@ befreit.
 
 
 #### Unterabschnitt 2 - Befreiungen für Inhaber bestimmter Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000600000)
 
 
 
 ##### § 18 Befreiung für Inhaber von Reiseausweisen für Flüchtlinge und Staatenlose
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE001901311)
 
 Inhaber von Reiseausweisen für Flüchtlinge oder für Staatenlose sind
 für die Einreise und den Kurzaufenthalt vom Erfordernis eines
@@ -992,6 +1018,7 @@ ausgestellt wurden.
 
 
 ##### § 19 Befreiung für Inhaber dienstlicher Pässe
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002000000)
 
 Für die Einreise und den Kurzaufenthalt sind Staatsangehörige der in
 Anlage B zu dieser Verordnung aufgeführten Staaten vom Erfordernis
@@ -1001,6 +1028,7 @@ Ausnahme der in § 17 Abs. 2 bezeichneten ausüben.
 
 
 ##### § 20 Befreiung für Inhaber von Ausweisen der Europäischen Union und zwischenstaatlicher Organisationen und der Vatikanstadt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002101116)
 
 Vom Erfordernis eines Aufenthaltstitels befreit sind Inhaber
 
@@ -1027,6 +1055,7 @@ Vom Erfordernis eines Aufenthaltstitels befreit sind Inhaber
 
 
 ##### § 21
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002201116)
 
 Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt
 und für die in der Grenzgängerkarte bezeichnete Erwerbstätigkeit im
@@ -1034,6 +1063,7 @@ Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit.
 
 
 ##### § 22 Befreiung für Schüler auf Sammellisten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002302311)
 
 (1) Schüler, die als Mitglied einer Schülergruppe in Begleitung einer
 Lehrkraft einer allgemein bildenden oder berufsbildenden Schule an
@@ -1076,10 +1106,12 @@ Diese Anordnung ist auf der Schülersammelliste zu vermerken.
 
 
 #### Unterabschnitt 3 - Befreiungen im grenzüberschreitenden Beförderungswesen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000700000)
 
 
 
 ##### § 23 Befreiung für ziviles Flugpersonal
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002400000)
 
 (1) Ziviles Flugpersonal, das im Besitz eines Flugbesatzungsausweises
 ist, ist vom Erfordernis eines Aufenthaltstitels befreit, sofern es
@@ -1106,6 +1138,7 @@ Zum Nachweis der Befreiung wird ein Passierschein ausgestellt.
 
 
 ##### § 24 Befreiung für Seeleute
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002501311)
 
 (1) Seelotsen, die in Ausübung ihres Berufes handeln und sich durch
 amtliche Papiere über ihre Person und Seelotseneigenschaft ausweisen,
@@ -1127,6 +1160,7 @@ beschäftigte Personen, die auf einer Besatzungsliste verzeichnet sind.
 
 
 ##### § 25 Befreiung in der internationalen zivilen Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002602116)
 
 (1) Ausländer, die
 
@@ -1189,6 +1223,7 @@ Binnenschifffahrtsausweisen eingetragenen Familienangehörigen.
 
 
 ##### § 26 Transit ohne Einreise; Flughafentransitvisum
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002702310)
 
 (1) Ausländer, die sich im Bundesgebiet befinden, ohne im Sinne des §
 13 Abs. 2 des Aufenthaltsgesetzes einzureisen, sind vom Erfordernis
@@ -1212,10 +1247,12 @@ besitzt. Das Flughafentransitvisum ist kein Aufenthaltstitel.
 
 
 #### Unterabschnitt 4 - Sonstige Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000800000)
 
 
 
 ##### § 27 Befreiung für Personen bei Vertretungen ausländischer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002800000)
 
 (1) Vom Erfordernis eines Aufenthaltstitels befreit sind, wenn
 Gegenseitigkeit besteht,
@@ -1281,6 +1318,7 @@ Aufenthaltsgesetzes nicht entgegen.
 
 
 ##### § 28 Befreiung für freizügigkeitsberechtigte Schweizer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE002904311)
 
 Staatsangehörige der Schweiz sind nach Maßgabe des Abkommens vom 21.
 Juni 1999 zwischen der Europäischen Gemeinschaft und ihren
@@ -1293,6 +1331,7 @@ Aufenthaltserlaubnis auf Antrag als Dokument mit Chip ausgestellt.
 
 
 ##### § 29 Befreiung in Rettungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003000000)
 
 Für die Einreise und den Aufenthalt im Bundesgebiet sind die in § 14
 Satz 1 genannten Ausländer vom Erfordernis eines Aufenthaltstitels
@@ -1303,6 +1342,7 @@ Inanspruchnahme von Hilfe zumutbar wird.
 
 
 ##### § 30 Befreiung für die Durchreise und Durchbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003102311)
 
 Für die Einreise in das Bundesgebiet aus einem anderen Schengen-Staat
 und einen anschließenden Aufenthalt von bis zu drei Tagen sind
@@ -1323,6 +1363,7 @@ Ausländer vom Erfordernis eines Aufenthaltstitels befreit, wenn sie
 
 
 ##### § 30a Befreiung in Fällen gescheiterter langfristiger Mobilität nach der Richtlinie (EU) 2021/1883
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011404311)
 
 Für die Einreise in das Bundesgebiet und einen anschließenden
 Aufenthalt von bis zu einem Monat sind Ausländer vom Erfordernis eines
@@ -1363,10 +1404,12 @@ abgelaufen war.
 
 
 ### Abschnitt 3 - Visumverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG000901311)
 
 
 
 #### § 31 Zustimmung der Ausländerbehörde zur Visumerteilung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003217311)
 
 (1) Ein Visum bedarf der vorherigen Zustimmung der für den
 vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
@@ -1500,6 +1543,7 @@ zuständig ist, an der der Ausländer beschäftigt werden soll.
 
 
 #### § 31a Beschleunigtes Fachkräfteverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015001311)
 
 (1) Im Fall des § 81a des Aufenthaltsgesetzes bietet die
 Auslandsvertretung unverzüglich nach Vorlage der Vorabzustimmung oder
@@ -1512,12 +1556,14 @@ von drei Wochen ab Stellung des vollständigen Visumantrags.
 
 
 #### § 32 Zustimmung der obersten Landesbehörde
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003300000)
 
 Ein Visum bedarf nicht der Zustimmung der Ausländerbehörde nach § 31,
 wenn die oberste Landesbehörde der Visumerteilung zugestimmt hat.
 
 
 #### § 33 Zustimmungsfreiheit bei Spätaussiedlern
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003400000)
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der
 Ausländerbehörde bei Inhabern von Aufnahmebescheiden nach dem
@@ -1527,6 +1573,7 @@ Ehegatten und Abkömmlingen.
 
 
 #### § 34 Zustimmungsfreiheit bei Wissenschaftlern und Studenten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003505311)
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der
 Ausländerbehörde bei
@@ -1601,6 +1648,7 @@ Ausländers.
 
 
 #### § 35 Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003601311)
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der
 Ausländerbehörde bei Ausländern, die
@@ -1634,6 +1682,7 @@ Ausländerbehörde bei Ausländern, die
 
 
 #### § 36 Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003700000)
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der
 Ausländerbehörde, das einem Mitglied ausländischer Streitkräfte für
@@ -1644,6 +1693,7 @@ Visumpflicht vorsehen, bleiben unberührt.
 
 
 #### § 37 Zustimmungsfreiheit in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003803116)
 
 Abweichend von § 31 Abs. 1 Satz 1 Nr. 1 und 2 bedarf das Visum nicht
 der Zustimmung der Ausländerbehörde für Ausländer, die im Bundesgebiet
@@ -1653,6 +1703,7 @@ entsprechende selbständige Tätigkeiten ausüben wollen.
 
 
 #### § 38 Ersatzzuständigkeit der Ausländerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE003900000)
 
 Ein Ausländer kann ein nationales Visum bei der am Sitz des
 Auswärtigen Amtes zuständigen Ausländerbehörde einholen, soweit die
@@ -1663,10 +1714,12 @@ andere Auslandsvertretung zur Visumerteilung ermächtigt hat.
 
 
 ### Abschnitt 3a - Anerkennung von Forschungseinrichtungen und Abschluss von Aufnahmevereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG002100310)
 
 
 
 #### § 38a Voraussetzungen für die Anerkennung von Forschungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011505311)
 
 (1) Eine überwiegend privat finanzierte Einrichtung soll auf Antrag
 zum Abschluss von Aufnahmevereinbarungen oder von entsprechenden
@@ -1739,6 +1792,7 @@ Beendigung des Betreibens von Forschung anzuzeigen.
 
 
 #### § 38b Aufhebung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011601311)
 
 (1) Die Anerkennung ist zu widerrufen oder die Verlängerung ist
 abzulehnen, wenn die Forschungseinrichtung
@@ -1783,6 +1837,7 @@ Forschungseinrichtung geben könnten.
 
 
 #### § 38c Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011703311)
 
 Eine Forschungseinrichtung ist verpflichtet, der zuständigen
 Ausländerbehörde schriftlich oder elektronisch mitzuteilen, wenn
@@ -1806,6 +1861,7 @@ anzugeben sowie die Aufnahmevereinbarung näher zu bezeichnen.
 
 
 #### § 38d Beirat für Forschungsmigration und Fachkräfteeinwanderung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011802311)
 
 (1) Beim Bundesamt für Migration und Flüchtlinge wird ein Beirat für
 Forschungsmigration und Fachkräfteeinwanderung gebildet, der es bei
@@ -1913,6 +1969,7 @@ Bundesamtes für Migration und Flüchtlinge bedarf.
 
 
 #### § 38e Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011901311)
 
 Das Bundesamt für Migration und Flüchtlinge veröffentlicht im Internet
 eine aktuelle Liste der Bezeichnungen und Anschriften der anerkannten
@@ -1924,6 +1981,7 @@ bekannt.
 
 
 #### § 38f Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012005311)
 
 (1) Eine Aufnahmevereinbarung oder ein entsprechender Vertrag muss
 folgende Angaben enthalten:
@@ -1985,10 +2043,12 @@ einen entsprechenden Vertrag nur wirksam abschließen, wenn
 
 
 ### Abschnitt 4 - Einholung des Aufenthaltstitels im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001000000)
 
 
 
 #### § 39 Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004010311)
 
 Über die im Aufenthaltsgesetz geregelten Fälle hinaus kann ein
 Ausländer einen Aufenthaltstitel im Bundesgebiet einholen oder
@@ -2124,6 +2184,7 @@ Aufenthaltsgesetzes beantragt wird.
 
 
 #### § 40 Verlängerung eines visumfreien Kurzaufenthalts
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004102311)
 
 Staatsangehörige der in Anhang II der Verordnung (EU) 2018/1806
 aufgeführten Staaten können nach der Einreise eine
@@ -2142,6 +2203,7 @@ Tagen, der sich an einen Kurzaufenthalt anschließt, einholen, wenn
 
 
 #### § 41 Vergünstigung für Angehörige bestimmter Staaten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004204377)
 
 (1) Staatsangehörige von Australien, Israel, Japan, Kanada, der
 Republik Korea, von Neuseeland, des Vereinigten Königreichs
@@ -2165,10 +2227,12 @@ des Aufenthaltsgesetzes beantragt wird.
 
 
 ### Abschnitt 5 - Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001100000)
 
 
 
 #### § 42 Antragstellung auf Verlegung des Wohnsitzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004300000)
 
 Ein Ausländer, der auf Grund eines Beschlusses des Rates der
 Europäischen Union gemäß der Richtlinie 2001/ 55/EG des Rates vom 20.
@@ -2188,6 +2252,7 @@ Antrag.
 
 
 #### § 43 Verfahren bei Zustimmung des anderen Mitgliedstaates zur Wohnsitzverlegung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004400000)
 
 (1) Sobald der andere Mitgliedstaat sein Einverständnis mit der
 beantragten Wohnsitzverlegung erklärt hat, teilt das Bundesamt für
@@ -2213,10 +2278,12 @@ Aushändigung an den Ausländer übersandt wird.
 
 
 ## Kapitel 3 - Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001200000)
 
 
 
 ### § 44 Gebühren für die Niederlassungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004503311)
 
 An Gebühren sind zu erheben
 
@@ -2248,11 +2315,13 @@ An Gebühren sind zu erheben
 
 
 ### § 44a Gebühren für die Erlaubnis zum Daueraufenthalt – EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012103311)
 
 An Gebühren sind zu erheben 109 Euro.
 
 
 ### § 45 Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014500377)
 
 An Gebühren sind zu erheben
 
@@ -2328,6 +2397,7 @@ An Gebühren sind zu erheben
 
 
 ### § 45a Gebühren für Expressverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013302311)
 
 Für die Ausstellung eines Aufenthaltstitels nach § 78 Absatz 1 Satz 1
 des Aufenthaltsgesetzes in eilbedürftigen Fällen (Expressverfahren)
@@ -2336,6 +2406,7 @@ zusätzliche Gebühr in Höhe von 35 Euro zu erheben.
 
 
 ### § 45b Gebühren für Aufenthaltstitel in Ausnahmefällen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013402311)
 
 Für die Ausstellung eines Aufenthaltstitels nach § 78a Absatz 1 Satz 1
 des Aufenthaltsgesetzes ermäßigt sich die nach den §§ 44, 44a oder 45
@@ -2343,6 +2414,7 @@ zu erhebende Gebühr um 44 Euro.
 
 
 ### § 45c Gebühr bei Neuausstellung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013504311)
 
 (1) Für die Neuausstellung eines Dokuments nach § 78 Absatz 1 des
 Aufenthaltsgesetzes beträgt die Gebühr 67 Euro, wenn die
@@ -2375,6 +2447,7 @@ Verwendung herbeigeführt hat.
 
 
 ### § 46 Gebühren für das Visum
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004706311)
 
 (1) Die Erhebung von Gebühren für die Erteilung und Verlängerung von
 Schengen-Visa und Flughafentransitvisa richtet sich nach der
@@ -2423,6 +2496,7 @@ Deutscher sind von den Gebühren befreit.
 
 
 ### § 47 Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004809311)
 
 (1) An Gebühren sind zu erheben
 
@@ -2641,6 +2715,7 @@ von 10 Euro zu erheben.
 
 
 ### § 48 Gebühren für pass- und ausweisrechtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE004908311)
 
 (1) An Gebühren sind zu erheben
 
@@ -2908,6 +2983,7 @@ angerechnet.
 
 
 ### § 49 Bearbeitungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005005311)
 
 (1) Für die Bearbeitung eines Antrages auf Erteilung einer
 Niederlassungserlaubnis und einer Erlaubnis zum Daueraufenthalt – EU
@@ -2938,6 +3014,7 @@ Bearbeitungsgebühr.
 
 
 ### § 50 Gebühren für Amtshandlungen zugunsten Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005107311)
 
 (1) Für individuell zurechenbare öffentliche Leistungen zugunsten
 Minderjähriger und die Bearbeitung von Anträgen Minderjähriger sind
@@ -2954,6 +3031,7 @@ erheben.
 
 
 ### § 51 Widerspruchsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005203311)
 
 (1) An Gebühren sind zu erheben für den Widerspruch gegen
 
@@ -3060,6 +3138,7 @@ der Verwaltungsakt aufzuheben ist, auf dem die Ausreisepflicht beruht.
 
 
 ### § 52 Befreiungen und Ermäßigungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005309311)
 
 (1) Ehegatten, Lebenspartner und minderjährige ledige Kinder Deutscher
 sowie die Eltern minderjähriger Deutscher sind von den Gebühren für
@@ -3173,6 +3252,7 @@ bewegen (ABl. EU Nr. L 289 S. 23), sind von den Gebühren nach § 46 Nr.
 
 
 ### § 52a Befreiung und Ermäßigung bei Assoziationsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014401311)
 
 (1) Assoziationsberechtigte im Sinne dieser Vorschrift sind Ausländer,
 für die das Assoziationsrecht EU-Türkei auf Grund des Abkommens vom
@@ -3217,6 +3297,7 @@ befreit:
 
 
 ### § 53 Befreiung und Ermäßigung aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005402311)
 
 (1) Ausländer, die ihren Lebensunterhalt nicht ohne Inanspruchnahme
 von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch
@@ -3270,16 +3351,19 @@ des Gebührenpflichtigen in Deutschland geboten ist.
 
 
 ### § 54 Zwischenstaatliche Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005501310)
 
 Zwischenstaatliche Vereinbarungen über die Befreiung oder die Höhe von
 Gebühren werden durch die Regelungen in diesem Kapitel nicht berührt.
 
 
 ## Kapitel 4 - Ordnungsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001300000)
 
 
 
 ### § 55 Ausweisersatz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005601310)
 
 (1) Einem Ausländer,
 
@@ -3314,6 +3398,7 @@ Abschiebung, sofern keine kürzere Gültigkeitsdauer eingetragen ist.
 
 
 ### § 56 Ausweisrechtliche Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005702377)
 
 (1) Ein Ausländer, der sich im Bundesgebiet aufhält, ist verpflichtet,
 
@@ -3420,6 +3505,7 @@ anzuzeigen. Die Anzeige muss folgende Daten des Ausländers enthalten:
 
 
 ### § 57 Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005800000)
 
 Besitzt ein Ausländer mehr als einen Pass, Passersatz oder deutschen
 Ausweisersatz, so hat er der zuständigen Ausländerbehörde jedes dieser
@@ -3427,6 +3513,7 @@ Papiere unverzüglich vorzulegen.
 
 
 ### § 57a Pflichten der Inhaber von Dokumenten mit Chip nach § 78 des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013604311)
 
 Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2
 Nummer 2 bis 4 des Aufenthaltsgesetzes als Dokument mit Chip
@@ -3457,14 +3544,17 @@ ausgestellt worden ist, ist verpflichtet, unverzüglich
 
 
 ## Kapitel 5 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001400000)
 
 
 
 ### Abschnitt 1 - Muster für Aufenthaltstitel, Pass- und Ausweisersatz und sonstige Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001500000)
 
 
 
 #### § 58 Vordruckmuster
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE005909311)
 
 Für die Ausstellung der Vordrucke sind als Vordruckmuster zu
 verwenden:
@@ -3577,6 +3667,7 @@ Passersatzpapiere werden nicht verlängert.
 
 
 #### § 59 Muster der Aufenthaltstitel
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006015311)
 
 (1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des
 Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr.
@@ -3738,6 +3829,7 @@ bescheinigt. Hierzu sind im Zusatzblatt zu verwenden der Vermerk
 
 
 #### § 59a Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Erlaubnis zum Daueraufenthalt – EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014301311)
 
 (1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die
 Rechtsstellung eines international Schutzberechtigten im Sinne von § 2
@@ -3784,6 +3876,7 @@ eingegangen ist zu erfolgen.
 
 
 #### § 59b Hinweis auf Gewährung internationalen Schutzes bei Inhabern einer Blauen Karte EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015100311)
 
 (1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die
 Rechtsstellung eines international Schutzberechtigten im Sinne von § 2
@@ -3818,6 +3911,7 @@ Verantwortung auf die Bundesrepublik Deutschland zu erfolgen.
 
 
 #### § 60 Lichtbild
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006107311)
 
 (1) Lichtbilder müssen den in § 4 der Passverordnung vom 19. Oktober
 2007 in der jeweils geltenden Fassung festgelegten Anforderungen
@@ -3883,6 +3977,7 @@ verarbeitet werden.
 
 
 #### § 60a Ausgabe und Versand des elektronischen Aufenthaltstitels und des Sperrkennworts
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015200311)
 
 (1) Der elektronische Aufenthaltstitel wird gemeinsam mit dem
 Sperrkennwort von der zuständigen Ausländerbehörde an die
@@ -3932,6 +4027,7 @@ löschen haben.
 
 
 #### § 61 Sicherheitsstandard, Ausstellungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006201311)
 
 (1) Die produktions- und sicherheitstechnischen Spezifikationen für
 die nach dieser Verordnung bestimmten Vordruckmuster werden vom
@@ -3944,14 +4040,17 @@ für Bau und Heimat festgelegt und bekannt gemacht.
 
 
 ### Abschnitt 2 - Datenerfassung, Datenverarbeitung und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001601310)
 
 
 
 #### Unterabschnitt 1 - Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG002202311)
 
 
 
 ##### § 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012502311)
 
 (1) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken
 und rechten Zeigefingers des Antragstellers im Chip des Dokuments
@@ -3969,6 +4068,7 @@ Aushändigung des Dokuments zu löschen.
 
 
 ##### § 61b Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012604311)
 
 (1) Die Ausländerbehörde hat durch technische und organisatorische
 Maßnahmen die erforderliche Qualität der Erfassung des Lichtbildes und
@@ -4026,6 +4126,7 @@ Behörden ausgestellten Passersatzpapiere für Ausländer.
 
 
 ##### § 61c Übermittlung der Daten an den Dokumentenhersteller
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012702311)
 
 (1) Nach der Erfassung werden sämtliche Antragsdaten in den
 Ausländerbehörden zu einem digitalen Datensatz zusammengeführt und an
@@ -4071,6 +4172,7 @@ jeweiligen Landesrecht.
 
 
 ##### § 61d Nachweis der Erfüllung der Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012800310)
 
 (1) Die Einhaltung der Anforderungen nach den Technischen Richtlinien
 ist vom Bundesamt für Sicherheit in der Informationstechnik vor dem
@@ -4095,6 +4197,7 @@ trägt der Antragsteller.
 
 
 ##### § 61e Qualitätsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012901311)
 
 Der Dokumentenhersteller erstellt eine Qualitätsstatistik. Sie enthält
 anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die
@@ -4109,6 +4212,7 @@ hinsichtlich der Vorgaben zur zentralen Qualitätssicherungsstatistik.
 
 
 ##### § 61f Automatischer Abruf aus Dateisystemen und automatische Speicherung im öffentlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013003311)
 
 (1) Behörden und sonstige öffentliche Stellen dürfen Dokumente mit
 Chip nicht zum automatischen Abruf personenbezogener Daten verwenden.
@@ -4140,6 +4244,7 @@ haben.
 
 
 ##### § 61g Verwendung im nichtöffentlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013101311)
 
 (1) Das Passersatzpapier kann auch im nichtöffentlichen Bereich als
 Ausweis und Legitimationspapier benutzt werden.
@@ -4163,6 +4268,7 @@ Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
 
 ##### § 61h Anwendung der Personalausweisverordnung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013205311)
 
 (1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78
 Absatz 5 des Aufenthaltsgesetzes sowie hinsichtlich der technischen
@@ -4208,10 +4314,12 @@ Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 
 
 #### Unterabschnitt 2 - Führung von Ausländerdateien durch die Ausländerbehörden und die Auslandsvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001701310)
 
 
 
 ##### § 62 Dateisystemführungspflicht der Ausländerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006303311)
 
 Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen
 "Ausländerdatei A" und "Ausländerdatei B". Die Pflicht zur Führung der
@@ -4225,6 +4333,7 @@ den Datenübermittlungsstandards nach § 76a ist sicherzustellen.
 
 
 ##### § 63 Ausländerdatei A
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006402311)
 
 (1) In die Ausländerdatei A werden die Daten eines Ausländers
 aufgenommen,
@@ -4256,6 +4365,7 @@ eine Mitteilung über den Ausländer zugeht.
 
 
 ##### § 64 Datensatz der Ausländerdatei A
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006503311)
 
 (1) In die Ausländerdatei A sind über jeden Ausländer, der in dem
 Dateisystem geführt wird, folgende Daten aufzunehmen:
@@ -4313,6 +4423,7 @@ einrichten.
 
 
 ##### § 65 Erweiterter Datensatz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006610311)
 
 In die Ausländerdatei A sollen, soweit die dafür erforderlichen
 technischen Einrichtungen bei der Ausländerbehörde vorhanden sind,
@@ -4483,6 +4594,7 @@ werden:
 
 
 ##### § 66 Dateisystem über Passersatzpapiere
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006703311)
 
 Über die ausgestellten Reiseausweise für Ausländer, Reiseausweise für
 Flüchtlinge, Reiseausweise für Staatenlose, Notreiseausweise und EU-
@@ -4495,6 +4607,7 @@ maximal aber für 180 Tage im Dateisystem gespeichert.
 
 
 ##### § 67 Ausländerdatei B
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006802311)
 
 (1) Die nach § 64 in die Ausländerdatei A aufgenommenen Daten sind in
 die Ausländerdatei B zu übernehmen, wenn der Ausländer
@@ -4521,6 +4634,7 @@ Daten in die Ausländerdatei B übernommen werden.
 
 
 ##### § 68 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE006903311)
 
 (1) In der Ausländerdatei A sind die Daten eines Ausländers zu
 löschen, wenn sie nach § 67 Abs. 1 in die Ausländerdatei B übernommen
@@ -4539,6 +4653,7 @@ fünf Jahre nach Übernahme des Datensatzes gelöscht werden.
 
 
 ##### § 69 Visadateien der Auslandsvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007010311)
 
 (1) Jede Auslandsvertretung, die mit Visumangelegenheiten betraut ist,
 führt ein Dateisystem über Visumanträge, die Rücknahme von
@@ -4801,15 +4916,18 @@ oder des Bundesamts für Auswärtige Angelegenheiten erforderlich ist.
 
 
 ##### § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007102310)
 
 -
 
 
 #### Unterabschnitt 3 - Datenübermittlungen an die Ausländerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001801310)
 
 
 
 ##### § 71 Übermittlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007203311)
 
 (1) Die
 
@@ -4880,6 +4998,7 @@ folgende Daten des Ausländers, soweit sie bekannt sind, zu
 
 
 ##### § 72 Mitteilungen der Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007303116)
 
 (1) Die Meldebehörden teilen den Ausländerbehörden mit
 
@@ -5029,6 +5148,7 @@ bezeichneten Daten zu übermitteln:
 
 
 ##### § 72a Mitteilungen der Pass- und Ausweisbehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012201311)
 
 (1) Die Passbehörden teilen den Ausländerbehörden die Einziehung eines
 Passes nach § 12 Abs. 1 in Verbindung mit § 11 Absatz 1 Nr. 2 des
@@ -5041,6 +5161,7 @@ Verlustes der deutschen Staatsangehörigkeit mit.
 
 
 ##### § 73 Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007401310)
 
 (1) Die Staatsangehörigkeitsbehörden teilen den Ausländerbehörden mit
 
@@ -5069,6 +5190,7 @@ Bundesvertriebenengesetzes mit.
 
 
 ##### § 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007501126)
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -5105,11 +5227,13 @@ Bundesvertriebenengesetzes mit.
 
 
 ##### § 75 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007601311)
 
 -
 
 
 ##### § 76 Mitteilungen der Gewerbebehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007700000)
 
 Die für die Gewerbeüberwachung zuständigen Behörden teilen den
 Ausländerbehörden mit
@@ -5132,6 +5256,7 @@ Ausländerbehörden mit
 
 
 ##### § 76a Form und Verfahren der Datenübermittlung im Ausländerwesen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013701311)
 
 (1) Für die Datenübermittlung zwischen den mit der Ausführung des
 Aufenthaltsgesetzes beauftragten Behörden werden der
@@ -5153,10 +5278,12 @@ Gleichwertigkeit ist durch den Verantwortlichen zu dokumentieren.
 
 
 #### Unterabschnitt 4 - Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG002300311)
 
 
 
 ##### § 76b Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014601126)
 
 (1) Die nach § 49 des Aufenthaltsgesetzes zuständigen Behörden haben
 die Einhaltung des Stands der Technik zu gewährleisten bei
@@ -5214,6 +5341,7 @@ Absätzen 2 und 3 abgewichen werden.
 
 
 ##### § 76c Nationale Sicherheits- und Qualitätsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014701126)
 
 (1) Das Bundesamt für Sicherheit in der Informationstechnik führt eine
 nationale Sicherheits- und Qualitätsstatistik zu den nach § 49 des
@@ -5239,10 +5367,12 @@ gewährleisten.
 
 
 ## Kapitel 6 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG001900000)
 
 
 
 ### § 77 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007802310)
 
 Ordnungswidrig im Sinne des § 98 Abs. 3 Nr. 7 des Aufenthaltsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -5280,6 +5410,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 78 Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE007903310)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Abs. 2
@@ -5292,10 +5423,12 @@ grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
 
 
 ## Kapitel 7 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNG002000000)
 
 
 
 ### § 79 Anwendung auf Freizügigkeitsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008001310)
 
 Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in den
 §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf
@@ -5304,6 +5437,7 @@ geregelt ist.
 
 
 ### § 80 Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008107311)
 
 Bis zum Ablauf des 31. Mai 2021 dürfen Fiktionsbescheinigungen, die
 nicht nach § 11 Absatz 4 des Freizügigkeitsgesetzes/EU in Verbindung
@@ -5313,6 +5447,7 @@ zum 3. Dezember 2020 geltenden Recht vorgesehen war.
 
 
 ### § 80a Übergangsregelungen für britische Staatsangehörige im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014801311)
 
 (1) Britische Staatsangehörige im Sinne des § 1 Absatz 2 Nummer 6 des
 Freizügigkeitsgesetzes/EU, deren Recht auf Aufenthalt im Bundesgebiet
@@ -5339,6 +5474,7 @@ einem Hinweis auf Artikel 10 beziehungsweise Artikel 20 der Richtlinie
 
 
 ### § 81 Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008202377)
 
 (1) Es behalten die auf Grund des zum Zeitpunkt der Ausstellung
 geltenden Rechts ausgestellten
@@ -5462,6 +5598,7 @@ einem Monat nach Inkrafttreten dieser Verordnung ihre Gültigkeit.
 
 
 ### § 82 Übergangsregelung zur Führung von Ausländerdateien
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008300000)
 
 (1) Bis zum 31. Dezember 2004 gespeicherte Angaben zu
 ausländerrechtlichen Maßnahmen und Entscheidungen bleiben auch nach
@@ -5489,6 +5626,7 @@ Speichersachverhalte umzuschreiben.
 
 
 ### § 82a Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012300310)
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthalts- und
 asylrechtlicher Richtlinien der Europäischen Union neu geschaffenen
@@ -5501,6 +5639,7 @@ Speicherung nachzuholen.
 
 
 ### § 82b Übergangsregelung zu § 31 Absatz 1 Satz 1 Nummer 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014100311)
 
 Bis zur vollständigen Umsetzung des § 31 Absatz 1 Satz 1 Nummer 1 und
 2 im automatisierten Visumverfahren des Bundesverwaltungsamtes,
@@ -5512,6 +5651,7 @@ Ausländerbehörde bedarf.
 
 
 ### § 83 Erfüllung ausweisrechtlicher Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008400000)
 
 Sofern die Voraussetzungen der Pflicht zur Vorlage nach § 57 zum
 Zeitpunkt des Inkrafttretens dieser Verordnung erfüllt sind, hat der
@@ -5525,12 +5665,14 @@ unberührt.
 
 
 ### § 84 Beginn der Anerkennung von Forschungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE012400310)
 
 Anträge auf die Anerkennung von Forschungseinrichtungen werden ab dem
 1\. Dezember 2007 bearbeitet.
 
 
 ### Anlage A (zu § 16)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008504116)
 
 
 *    *   1.
@@ -5761,6 +5903,7 @@ Anträge auf die Anerkennung von Forschungseinrichtungen werden ab dem
 
 
 ### Anlage B (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008608377)
 
 (Fundstelle: BGBl. I 2004, 2968;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5910,6 +6053,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage C (zu § 26 Absatz 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008707311)
 
 Indien
 Jordanien
@@ -5945,6 +6089,7 @@ Reisende sind.
 
 
 ### Anlage D1 Ausweisersatz gemäß § 48 Absatz 2 des Aufenthaltsgesetzes in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008801310)
 
 (Fundstelle: BGBl. I 2011, 1536 - 1537)
 
@@ -5967,6 +6112,7 @@ bestätigen.
 
 
 ### Anlage D2a Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE008901311)
 
 (Fundstelle: BGBl. I 2004, 2972;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5976,12 +6122,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![bgbl1_2019_j0010-1_0010.jpg](bgbl1_2019_j0010-1_0010.jpg)
 
 ### Anlage D2b Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009000000)
 
 (Inhalt: nicht darstellbares Muster der Bescheinigung,
 Fundstelle: BGBl. I 2004, 2973)
 
 
 ### Anlage D3 Fiktionsbescheinigung nach § 81 Abs. 5 Aufenthaltsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009102311)
 
 (Fundstelle: BGBl. I 2004, 2975 - 2977;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6005,16 +6153,19 @@ Dienstsiegel zu bestätigen.
 ![bgbl1_2020_j2606-1_0020.jpg](bgbl1_2020_j2606-1_0020.jpg)
 
 ### Anlage D4a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009201310)
 
 -
 
 
 ### Anlage D4b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009301310)
 
 -
 
 
 ### Anlage D4c Ausweismuster Reiseausweis für Ausländer nach § 4 Absatz 1 Satz 1 Nummer 1
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010503311)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -6081,6 +6232,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage D4d Vorläufiger Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010600310)
 
 (Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2064 - 2072)
 - Deckseiten -
@@ -6111,11 +6263,13 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 ![bgbl1_2007_j1970_0180.jpg](bgbl1_2007_j1970_0180.jpg)
 
 ### Anlage D5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009401310)
 
 -
 
 
 ### Anlage D5a Grenzgängerkarte § 12
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010700310)
 
 (Fundstelle des Originaltextes: Fundstelle BGBl I 2007, 2073 - 2074)
 - Vorderseite -
@@ -6124,6 +6278,7 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 ![bgbl1_2007_j1970_0200.jpg](bgbl1_2007_j1970_0200.jpg)
 
 ### Anlage D6 Notreiseausweis nach § 4 Abs. 1 Nr. 2
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009501310)
 
 ( Inhalt: nicht darstellbares Notreiseausweisemuster,
 Fundstelle: BGBl. I 2004, 2996 - 2998,
@@ -6131,11 +6286,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ### Anlage D7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009601310)
 
 -
 
 
 ### Anlage D7a Ausweismuster Reiseausweis für Flüchtlinge nach § 4 Absatz 1 Satz 1 Nummer 3
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010803311)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -6202,6 +6359,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage D7b Vorläufiger Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010900310)
 
 (Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2083 - 2091)
 - Deckseiten -
@@ -6231,11 +6389,13 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 ![bgbl1_2007_j1970_0370.jpg](bgbl1_2007_j1970_0370.jpg)
 
 ### Anlage D8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009701310)
 
 -
 
 
 ### Anlage D8a Ausweismuster Reiseausweis für Staatenlose nach § 4 Absatz 1 Satz 1 Nummer 4
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011003311)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -6302,6 +6462,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage D8b Vorläufiger Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011100310)
 
 (Fundstelle des Originaltextes: Fundstelle BGBl. I 2007, 2100 - 2108)
 - Deckseiten -
@@ -6331,6 +6492,7 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 ![bgbl1_2007_j1970_0540.jpg](bgbl1_2007_j1970_0540.jpg)
 
 ### Anlage D9 Bescheinigung über die Wohnsitzverlegung nach § 4 Abs. 1 Nr. 6
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009801310)
 
 ( Inhalt: nicht darstellbares Muster der Bescheinigung,
 Fundstelle: BGBl. I 2004, 3019 - 3020;
@@ -6338,6 +6500,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ### Anlage D10 Europäisches Reisedokument für die Rückkehr nach § 4 Absatz 1 Satz 1 Nummer 7
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE009903311)
 
 (Fundstelle: BGBl. I 2017, 691;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6345,6 +6508,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![bgbl1_2019_j0010-1_0030.jpg](bgbl1_2019_j0010-1_0030.jpg)
 
 ### Anlage D11 Zusatzblatt zum Aufenthaltstitel und zur Bescheinigung über die Aussetzung der Abschiebung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010001311)
 
 (Fundstelle: BGBl. I 2004, 3022
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6364,6 +6528,7 @@ D2b oder auf einem Etikett nach dieser Anlage eingetragen werden.
 
 
 ### Anlage D11a Zusatzblatt zum Aufenthaltstitel mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013801311)
 
 (Fundstelle: BGBl. I 2011, 1538 - 1539;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6377,6 +6542,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage D12 Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010102311)
 
 (Fundstelle: BGBl. I 2004, 3023 - 3025;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6402,6 +6568,7 @@ Dienstsiegel zu bestätigen.
 
 
 ### Anlage D13a Visum (§ 4 Absatz 1 Satz 2 Nummer 1 Aufenthaltsgesetz)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010202311)
 
 (Fundstelle: BGBl. I 2013, 353;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6411,6 +6578,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![bgbl1_2019_j0010-1_0050.jpg](bgbl1_2019_j0010-1_0050.jpg)
 
 ### Anlage D13b Verlängerung des Visums im Inland
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010302311)
 
 (Fundstelle: BGBl. I 2013, 353;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6420,6 +6588,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![bgbl1_2019_j0010-1_0060.jpg](bgbl1_2019_j0010-1_0060.jpg)
 
 ### Anlage D14 Aufenthaltstitel nach § 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE010404311)
 
 (Fundstelle: BGBl. I 2019, 2586 — 2588;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6442,6 +6611,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage D14a Dokumente mit Chip nach § 78 Absatz 1 des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE013906311)
 
    (Fundstelle: BGBl. I 2021, 3694 - 3703;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6616,6 +6786,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage D15 Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE011302311)
 
    (Fundstelle: BGBl. I 2020, 2609)
 
@@ -6637,6 +6808,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage D16 Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014001311)
 
    (Fundstelle: BGBl. I 2011, 1548)
 
@@ -6644,6 +6816,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage D17 Muster für den Aufkleber mit Brailleschrift
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE014901311)
 
 (Fundstelle: BGBl. I 2021, 3703)
 
@@ -6651,6 +6824,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13a)
 
 ### Anlage D18 Muster Trägervordruck EU-Rückkehrausweis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015500311)
 
 (Fundstelle: BGBl. 2025 I Nr. 260, S. 4)
 
@@ -6673,12 +6847,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 13a)
 
 ### Anlage D19 Muster Etikett EU-Rückkehrausweis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015600311)
 
 (Fundstelle: BGBl. 2025 I Nr. 260, S. 5)
 
 ![bgbl1_2025_j02600_0030.jpg](bgbl1_2025_j02600_0030.jpg)
 
 ### Anlage E Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/aufenthv/BJNR294510004.html#BJNR294510004BJNE015300126)
 
 (Fundstelle: BGBl. 2024 I Nr. 152, S. 24)
 

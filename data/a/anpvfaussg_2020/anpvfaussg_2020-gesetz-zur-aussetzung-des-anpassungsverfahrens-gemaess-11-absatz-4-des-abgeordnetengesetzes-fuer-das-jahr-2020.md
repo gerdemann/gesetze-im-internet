@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Aussetzung für Mitglieder des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/anpvfaussg_2020/BJNR116110020.html#BJNR116110020BJNE000100000)
 
 (1) Das Anpassungsverfahren gemäß § 11 Absatz 4 des
 Abgeordnetengesetzes wird für das Jahr 2020 ausgesetzt.
@@ -27,6 +28,7 @@ hinaus unberührt.
 
 
 ## § 2 Aussetzung für Mitglieder des Europäischen Parlaments
+[Direktlink](https://www.gesetze-im-internet.de/anpvfaussg_2020/BJNR116110020.html#BJNR116110020BJNE000200000)
 
 (1) Das Anpassungsverfahren gemäß § 9 des Europaabgeordnetengesetzes
 wird für das Jahr 2020 ausgesetzt.
@@ -35,6 +37,7 @@ wird für das Jahr 2020 ausgesetzt.
 
 
 ## § 3 Aussetzung für die Altersentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/anpvfaussg_2020/BJNR116110020.html#BJNR116110020BJNE000300000)
 
 (1) Das Verfahren für die Anpassung der fiktiven Bemessungsbeträge für
 die Altersentschädigung nach § 35a Absatz 2 Satz 4 und § 35b Absatz 2

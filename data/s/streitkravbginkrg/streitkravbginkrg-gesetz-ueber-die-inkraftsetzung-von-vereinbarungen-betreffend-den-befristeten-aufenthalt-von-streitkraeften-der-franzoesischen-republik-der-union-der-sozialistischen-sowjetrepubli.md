@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000100308)
 
 In der Erwägung, daß mit der Wiederherstellung der Einheit
 Deutschlands der Aufenthalt der im beitretenden Teil Deutschlands und
@@ -51,6 +52,7 @@ beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000300308)
 
 (1) Den Streitkräften der Union der Sozialistischen Sowjetrepubliken
 wird bis zum Inkrafttreten eines endgültigen Vertrages vorläufig der
@@ -69,6 +71,7 @@ Aufenthalt in Berlin gestattet.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000400308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates ein vorläufiges Abkommen mit der Union der
@@ -156,6 +159,7 @@ q)  die Vereinbarung, daß ein Vertrag unter Berücksichtigung des
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000500308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates vorläufige Abkommen mit der Französischen
@@ -197,6 +201,7 @@ d)  Modalitäten des befristeten Aufenthalts und Abzugs.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000600308)
 
 (1) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung
 mit Zustimmung des Bundesrats vorläufige Abkommen mit der
@@ -234,6 +239,7 @@ f)  Abwicklung der persönlichen Angelegenheiten von Mitgliedern der
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000700308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die aufgrund
@@ -242,6 +248,7 @@ Dritten Überleitungsgesetzes.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/streitkravbginkrg/BJNR212460990.html#BJNR212460990BJNE000800308)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft, mit
 Ausnahme von Artikel 1 Abs. 1 und Artikel 2, die am 3. Oktober 1990 in

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000100000)
 
 Diese Anordnung gilt für die Vertretung der Bundesrepublik Deutschland
 im Geschäftsbereich des Bundesministeriums der Justiz bei allen
@@ -27,6 +28,7 @@ Verwaltungsverfahren.
 
 
 ## § 2 Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000200000)
 
 (1) Die Bundesrepublik Deutschland wird durch die Bundesministerin
 oder den Bundesminister der Justiz vertreten.
@@ -91,6 +93,7 @@ selbst übernehmen.
 
 
 ## § 3 Bezeichnung des Vertretungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000300000)
 
 (1) Wird die Bundesrepublik Deutschland durch die Bundesministerin
 oder den Bundesminister der Justiz vertreten, lautet die Bezeichnung
@@ -108,6 +111,7 @@ vertretungsbefugten Person]“.
 
 
 ## § 4 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000400000)
 
 (1) Wird an eine nicht zur Vertretung der Bundesrepublik Deutschland
 befugte Person zugestellt, so unterrichtet diese unverzüglich die
@@ -119,6 +123,7 @@ werden; hierüber ist die Absenderin oder der Absender zu unterrichten.
 
 
 ## § 5 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000500000)
 
 (1) Soweit die Vertretungsbefugnis nach § 2 Absatz 3 übertragen ist,
 haben die Gerichte und Behörden dem Bundesministerium der Justiz über
@@ -137,6 +142,7 @@ Vorgehen enthalten. Termine und Fristen sind deutlich hervorzuheben.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000600000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig treten außer Kraft:
@@ -157,6 +163,7 @@ Bundesgesetzblatt in Kraft. Gleichzeitig treten außer Kraft:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjvertrano_2013/BJNR016700013.html#BJNR016700013BJNE000700000)
 
 Die Bundesministerin der Justiz
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/egv1334_2008bek/BJNR391000013.html#BJNR391000013BJNE000100000)
 
 
 1.  Nach § 75 Absatz 2 Satz 3 in Verbindung mit Satz 1 des Lebensmittel-
@@ -52,6 +53,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/egv1334_2008bek/BJNR391000013.html#BJNR391000013BJNE000200000)
 
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000100000)
 
 Auf Grund § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des
 Bundesdisziplinargesetzes, von denen § 34 Absatz 5 durch Artikel 1
@@ -28,6 +29,7 @@ Bundesministerium der Finanzen an:
 
 
 ## § 1 Dienstvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000200000)
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind außer
 der Bundesministerin der Finanzen oder dem Bundesminister der Finanzen
@@ -51,6 +53,7 @@ der Bundesministerin der Finanzen oder dem Bundesminister der Finanzen
 
 
 ## § 2 Kürzung der Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000300000)
 
 Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 34
 Absatz 2 Nummer 1 des Bundesdisziplinargesetzes wird auf die in § 1
@@ -58,6 +61,7 @@ Nummer 1 bis 5 genannten Dienstvorgesetzten übertragen.
 
 
 ## § 3 Zurückstufung oder Entfernung aus dem Dienst
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000400000)
 
 Die Befugnis zur Zurückstufung oder Entfernung aus dem
 Beamtenverhältnis nach § 34 Absatz 4 des Bundesdisziplinargesetzes
@@ -67,6 +71,7 @@ Dienstvorgesetzten übertragen.
 
 
 ## § 4 Widerspruchsbescheide
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000500000)
 
 Die Zuständigkeit zum Erlass von Widerspruchsbescheiden im Sinne von §
 42 Absatz 1 Satz 1 des Bundesdisziplinargesetzes wird auf die in § 1
@@ -80,6 +85,7 @@ November 2019 (BGBl. I S. 1624) entsprechend.
 
 
 ## § 5 Disziplinarbefugnisse bei Ruhestandsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000600000)
 
 Die Disziplinarbefugnisse der obersten Dienstbehörde bei
 Ruhestandsbeamtinnen oder Ruhestandsbeamten nach § 84 Satz 1 des
@@ -88,6 +94,7 @@ Präsidenten der Generalzolldirektion übertragen.
 
 
 ## § 6 Vertretung des Dienstherrn bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000700000)
 
 Die gerichtliche Vertretung der Bundesrepublik Deutschland bei Klagen,
 die von Beamtinnen oder Beamten der Besoldungsgruppen A 2 bis A 16
@@ -97,6 +104,7 @@ Dienstvorgesetzten übertragen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmfbdgano_2024/BJNR0DB0A0024.html#BJNR0DB0A0024BJNE000800000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig ist von diesem Zeitpunkt an

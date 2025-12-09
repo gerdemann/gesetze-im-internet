@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Schiedssprüchen und öffentlichen Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE000500306)
 
 (1) Für die Vollstreckbarerklärung gerichtlicher Entscheidungen
 (Artikel 1, 6ff. des Abkommens) und öffentlicher Urkunden (Artikel 14
@@ -41,6 +43,7 @@ die Zwangsvollstreckung durchgeführt werden soll.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE000602310)
 
 (1) Für die Vollstreckbarerklärung der in § 1 Abs. 1 genannten
 Schuldtitel gelten § 1063 Abs. 1, § 1064 Abs. 2 und § 794 Abs. 1 Nr.
@@ -62,6 +65,7 @@ gelten entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE000702310)
 
 Für die Vollstreckbarerklärung von Schiedssprüchen (Artikel 13 des
 Abkommens) gelten § 1061 Abs. 1 und 2, §§ 1063 und 1064 der
@@ -73,6 +77,7 @@ bis 4 entsprechend.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE000800306)
 
 Hängt die Vollstreckung nach dem Inhalt der gerichtlichen
 Entscheidung, des Schiedsspruchs oder der öffentlichen Urkunde von dem
@@ -91,6 +96,7 @@ werden, so ist mündliche Verhandlung anzuordnen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE000901307)
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer gerichtlichen
 Entscheidung oder eines Schiedsspruchs kann der Schuldner auch
@@ -121,10 +127,12 @@ entstanden sind.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNG000200306)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001001310)
 
 (1) Wird eine gerichtliche Entscheidung, ein Schiedsspruch oder eine
 öffentliche Urkunde nach der Vollstreckbarerklärung in Belgien
@@ -149,6 +157,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001100306)
 
 (1) Wird die Vollstreckbarerklärung einer gerichtlichen Entscheidung,
 die im Zeitpunkt der Vollstreckbarerklärung in Belgien noch mit einem
@@ -164,10 +173,12 @@ entschieden hat.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNG000300306)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001200306)
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in
 Belgien geltend gemacht werden soll, so darf das Urteil nicht in
@@ -175,6 +186,7 @@ abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001300306)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
@@ -200,6 +212,7 @@ nicht erhoben. ...
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001400306)
 
 Einer einstweiligen Anordnung oder einer einstweiligen Verfügung, die
 in Belgien geltend gemacht werden soll, ist eine Begründung
@@ -207,10 +220,12 @@ beizufügen. § 9 ist entsprechend anzuwenden.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNG000400306)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001500306)
 
 Die Landesregierungen werden ermächtigt, die Entscheidung über Anträge
 auf Vollstreckbarerklärung ausländischer Schuldtitel in Zivil- und
@@ -223,11 +238,13 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001600306)
 
 -
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001700306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -235,11 +252,13 @@ im Land Berlin.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001800306)
 
 -
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkbelag/BJNR004250959.html#BJNR004250959BJNE001900306)
 
 Dieses Gesetz tritt gleichzeitig mit dem Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich Belgien über die

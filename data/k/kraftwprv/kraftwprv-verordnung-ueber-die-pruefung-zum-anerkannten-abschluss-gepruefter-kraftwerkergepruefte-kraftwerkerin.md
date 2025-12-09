@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000100305)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung
@@ -35,6 +36,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000201128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Kraftwerker/zur
@@ -84,6 +86,7 @@ Geprüfter Kraftwerker/Geprüfte Kraftwerkerin.
 
 
 ## § 2 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000301128)
 
 (1) Die Prüfung zum Kraftwerker gliedert sich in die Prüfungsteile:
 
@@ -107,6 +110,7 @@ durchgeführt werden.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000402128)
 
 (1) Zur Prüfung im Prüfungsteil „Kraftwerkstechnologie“ ist
 zuzulassen, wer Folgendes nachweist:
@@ -244,6 +248,7 @@ Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Kraftwerkstechnologie
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000501128)
 
 (1) Im Prüfungsteil "Kraftwerkstechnologie" ist in folgenden
 Prüfungsbereichen zu prüfen:
@@ -460,6 +465,7 @@ länger als 15 Minuten dauern.
 
 
 ## § 5 Kraftwerksbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000601128)
 
 (1) Im Prüfungsteil "Kraftwerksbetrieb" ist in Form eines
 situationsbezogenen Fachgespräches zu prüfen. Dabei sind der zu
@@ -521,6 +527,7 @@ Minuten dauern.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000701128)
 
 Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“
 nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung
@@ -534,6 +541,7 @@ zugrunde zu legen. Eine Befreiung von der Prüfung im Prüfungsteil
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000802128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -547,6 +555,7 @@ einzelnen Prüfungsbereichen zu bilden.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -575,6 +584,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE001500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -601,6 +611,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden. Der Antrag auf Wiederholung der Prüfung ist innerhalb von zwei
@@ -617,6 +628,7 @@ zu berücksichtigen.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE001001128)
 
 (1) Begonnene Prüfungsverfahren können einschließlich einer
 Wiederholungsprüfung nach den bisherigen Vorschriften zu Ende geführt
@@ -627,12 +639,14 @@ bisherigen Vorschriften noch bis zum 9. März 2002 beantragt werden.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE001101128)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE001600128)
 
 (Fundstelle: BGBl. I 2019, 2218 - 2219)
 
@@ -934,6 +948,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/kraftwprv/BJNR032800001.html#BJNR032800001BJNE001700128)
 
 (Fundstelle: BGBl. I 2019, 2219)
 

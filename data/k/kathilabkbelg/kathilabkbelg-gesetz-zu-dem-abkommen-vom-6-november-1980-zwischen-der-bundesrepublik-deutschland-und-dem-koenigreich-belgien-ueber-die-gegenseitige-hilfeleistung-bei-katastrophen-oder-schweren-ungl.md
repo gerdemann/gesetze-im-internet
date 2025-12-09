@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkbelg/BJNR210060982.html#BJNR210060982BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkbelg/BJNR210060982.html#BJNR210060982BJNE000200314)
 
 Dem in Brüssel am 6. November 1980 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und dem Königreich Belgien über die
@@ -35,6 +37,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkbelg/BJNR210060982.html#BJNR210060982BJNE000300314)
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in Belgien entstehen, trägt in den Fällen
@@ -56,12 +59,14 @@ Hilfsmaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkbelg/BJNR210060982.html#BJNR210060982BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkbelg/BJNR210060982.html#BJNR210060982BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/warnowmauthv/BJNR083500003.html#BJNR083500003BJNE000100000)
 
 Auf Grund des § 3a Abs. 2 Satz 1 in Verbindung mit § 3 Abs. 2 bis 5
 des Fernstraßenbauprivatfinanzierungsgesetzes in der Fassung der
@@ -27,6 +28,7 @@ des Wirtschaftsministeriums des Landes Mecklenburg-Vorpommern:
 
 
 ## § 1 Mauthöhe
+[Direktlink](https://www.gesetze-im-internet.de/warnowmauthv/BJNR083500003.html#BJNR083500003BJNE000200000)
 
 Für jede einfache Benutzung des Abschnittes der Bundesstraße B 103n
 zwischen Kilometer 1 + 040 und Kilometer 3 + 160 (Warnow-Tunnel im
@@ -39,6 +41,7 @@ Mautverzeichnis in der Anlage erhoben.
 
 
 ## § 2 Beginn der Mauterhebung
+[Direktlink](https://www.gesetze-im-internet.de/warnowmauthv/BJNR083500003.html#BJNR083500003BJNE000300000)
 
 Die Mauterhebung beginnt mit dem Tag der Freigabe der in § 1 genannten
 Strecke für den öffentlichen Verkehr. Der in Satz 1 genannte Tag wird
@@ -47,12 +50,14 @@ Bundesanzeiger bekannt gegeben.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/warnowmauthv/BJNR083500003.html#BJNR083500003BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage Mautverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/warnowmauthv/BJNR083500003.html#BJNR083500003BJNE000500000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 836
 

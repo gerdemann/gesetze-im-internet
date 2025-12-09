@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gegenstand der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000104140)
 
 (1) Der Feuerschutzsteuer unterliegt die Entgegennahme des
 Versicherungsentgelts nur aus den folgenden Versicherungen, wenn die
@@ -57,6 +58,7 @@ des Versicherungsteuergesetzes entsprechend.
 
 
 ## § 2 Versicherungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000201301)
 
 (1) Versicherungsentgelt im Sinne dieses Gesetzes ist jede Leistung,
 die für die Begründung und zur Durchführung des
@@ -79,6 +81,7 @@ Versicherungsnehmer mit der Prämienrechnung vorgelegt wird.
 
 
 ## § 3 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000304140)
 
 (1) Bemessungsgrundlage ist
 
@@ -122,6 +125,7 @@ Umsatzsteuer geltenden Vorschriften umzurechnen.
 
 
 ## § 3a Ausnahme von der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001900119)
 
 Von der Besteuerung ausgenommen ist die Zahlung des
 Versicherungsentgelts an Brandunterstützungsvereine, soweit die
@@ -130,6 +134,7 @@ von 5 500 Euro nicht übersteigt.
 
 
 ## § 4 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000409140)
 
 (1) Der Steuersatz beträgt – vorbehaltlich des folgenden Absatzes – 19
 Prozent.
@@ -141,6 +146,7 @@ Nummer 1) 22 Prozent.
 
 
 ## § 5 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000504119)
 
 (1) Steuerschuldner ist der Versicherer.
 
@@ -155,6 +161,7 @@ Steuerschuldner.
 
 
 ## § 6 Rückversicherung
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000601301)
 
 Nimmt der Versicherer Rückversicherung, so ist er berechtigt, das
 Versicherungsentgelt, das er an den Rückversicherer zu entrichten hat,
@@ -163,6 +170,7 @@ für den Rückversicherer, der seinerseits Rückversicherung nimmt.
 
 
 ## § 7 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000701301)
 
 Die Steuer entsteht mit Ablauf des Monats, in dem das
 Versicherungsentgelt entgegengenommen (§ 3 Abs. 2), angefordert (§ 3
@@ -171,6 +179,7 @@ worden ist.
 
 
 ## § 8 Anmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000808119)
 
 (1) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2)
 hat spätestens am fünfzehnten Tag nach Ablauf eines jeden
@@ -213,6 +222,7 @@ Steuer zu entrichten.
 
 
 ## § 9 Aufzeichnungspflichten und Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE000906377)
 
 (1) Der Versicherer (§ 5 Abs. 1) oder der Bevollmächtigte (§ 5 Abs. 2)
 ist verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer
@@ -265,11 +275,13 @@ einen Monat nach Bekanntgabe der Festsetzung fällig.
 
 
 ## § 10 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001007140)
 
 Zuständig ist das Bundeszentralamt für Steuern.
 
 
 ## § 11 Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001112123)
 
 (1) Das Gesamtaufkommen der entrichteten Feuerschutzsteuer wird nach
 den Absätzen 2 und 3 zerlegt.
@@ -316,6 +328,7 @@ Zerlegungsanteile vorläufig zu Grunde zu legen.
 
 
 ## § 12 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001202140)
 
 (1) Die mit der Aufsicht über die Versicherungsunternehmen betrauten
 Behörden teilen dem Bundeszentralamt für Steuern die zu ihrer Kenntnis
@@ -329,6 +342,7 @@ Unterstützungen ohne Rechtsanspruch bezeichnen.
 
 
 ## § 13 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001302301)
 
 Wird ein Steuersatz geändert, ist der neue Steuersatz auf
 Versicherungsentgelte anzuwenden, die ab dem Inkrafttreten der
@@ -346,6 +360,7 @@ Festlegungen der Fälligkeit des Versicherungsentgelts.
 
 
 ## § 14 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001700140)
 
 Die Bemessungsgrundlagen (§ 3 Absatz 1) werden jährlich, beginnend mit
 dem 1. Januar 2012, durch Rechtsverordnung der Bundesregierung, die
@@ -357,6 +372,7 @@ anzupassen.
 
 
 ## § 15 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fe_rschstg_1979/BJNR023530979.html#BJNR023530979BJNE001800140)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates Rechtsverordnungen über den Anteil an der

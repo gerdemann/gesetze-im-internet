@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -28,6 +29,7 @@ verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000200000)
 
 Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau
 und Heimat werden Gebühren und Auslagen für individuell zurechenbare
@@ -74,6 +76,7 @@ Grund der folgenden Vorschriften erbracht werden:
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis. Das Gebühren- und Auslagenverzeichnis regelt
@@ -88,6 +91,7 @@ aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000402116)
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
 ist, gelten
@@ -110,6 +114,7 @@ ist, gelten
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000500000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2019 beantragt oder begonnen, aber
@@ -118,12 +123,14 @@ noch nicht vollständig erbracht wurde, ist das bis einschließlich zum
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000600000)
 
 Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmibgebv/BJNR135900019.html#BJNR135900019BJNE000701116)
 
 (Fundstelle: BGBl. I 2021, 4229 - 4242)
 

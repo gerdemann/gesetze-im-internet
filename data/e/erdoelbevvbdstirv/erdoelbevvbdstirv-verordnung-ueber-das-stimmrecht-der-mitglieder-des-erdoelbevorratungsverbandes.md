@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevvbdstirv/BJNR011570978.html#BJNR011570978BJNE000100304)
 
 Auf Grund des § 13 des Erdölbevorratungsgesetzes vom 25. Juli 1978
 (BGBl. I S. 1073) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevvbdstirv/BJNR011570978.html#BJNR011570978BJNE000201360)
 
 Ein Mitglied, das in dem der Mitgliederversammlung vorangegangenen
 Kalenderjahr mehr als 300 000 Tonnen der in § 13 Absatz 1 des
@@ -36,16 +38,19 @@ Tonnen hinaus angefangenen 300 000 Tonnen eine weitere Stimme.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevvbdstirv/BJNR011570978.html#BJNR011570978BJNE000301360)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevvbdstirv/BJNR011570978.html#BJNR011570978BJNE000400304)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevvbdstirv/BJNR011570978.html#BJNR011570978BJNE000500304)
 
 Der Bundesminister für Wirtschaft
 

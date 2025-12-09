@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Art. 7 Abs. 1 G v. 28.7.2011 I 1690 am 5.8.2011 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000100000)
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000202377)
 
 (1) Die Beschleunigung des Ausbaus der länderübergreifenden und
 grenzüberschreitenden Höchstspannungsleitungen im Sinne des § 12e
@@ -47,6 +49,7 @@ anzuwenden.
 
 
 ### § 2 Anwendungsbereich, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000307311)
 
 (1) Dieses Gesetz gilt nur für die Errichtung oder Änderung von
 länderübergreifenden oder grenzüberschreitenden
@@ -81,6 +84,7 @@ oder der §§ 133 und 136 des Bundesberggesetzes fallen.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000404377)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -186,6 +190,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ### § 3a Zusammenarbeit von Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003700118)
 
 (1) Bund und Länder wirken zur Realisierung dieser Stromleitungen
 konstruktiv zusammen.
@@ -198,9 +203,11 @@ Bundesfachplanung und die Planfeststellung nicht erschwert werden.
 
 
 ## Abschnitt 2 - Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000200000)
 
 
 ### § 4 Zweck der Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000502377)
 
 Für die in einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4
 Satz 1 des Energiewirtschaftsgesetzes als länderübergreifend oder
@@ -211,6 +218,7 @@ für die nachfolgenden Planfeststellungsverfahren.
 
 
 ### § 5 Inhalt der Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000606377)
 
 (1) Die Bundesnetzagentur bestimmt in der Bundesfachplanung zur
 Erfüllung der in § 1 Absatz 1 des Energiewirtschaftsgesetzes genannten
@@ -294,6 +302,7 @@ Vorhabenträger keinen entsprechenden Antrag gestellt hat.
 
 
 ### § 5a Verzicht auf Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003803311)
 
 (1) Auf die Durchführung der Bundesfachplanung soll in folgenden
 Fällen verzichtet werden:
@@ -354,6 +363,7 @@ Antrag des Vorhabenträgers die Frist verlängern.
 
 
 ### § 5b Zusammentreffen mehrerer Vorhaben in der Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003900118)
 
 (1) In Bundesfachplanungsverfahren kann eine einheitliche Entscheidung
 über den Trassenkorridor für ein Vorhaben nach § 2 Absatz 1 und für
@@ -378,6 +388,7 @@ Bundesnetzagentur ergehen.
 
 
 ### § 6 Antrag auf Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000704126)
 
 Die Bundesfachplanung beginnt mit dem Antrag des Vorhabenträgers. Der
 Antrag ist spätestens 18 Monate nach Aufnahme des Vorhabens in den
@@ -418,6 +429,7 @@ geplante Vorhaben darzustellen. Der Antrag muss enthalten:
 
 
 ### § 7 Festlegung des Untersuchungsrahmens
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000805377)
 
 (1) Die Bundesnetzagentur führt unverzüglich nach Einreichung des
 Antrags eine Antragskonferenz durch. In der Antragskonferenz sollen
@@ -470,6 +482,7 @@ schriftlichen oder elektronischen Stellungnahme geben.
 
 
 ### § 8 Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE000904126)
 
 Der Vorhabenträger legt der Bundesnetzagentur auf Grundlage der
 Ergebnisse der Antragskonferenz in einer von der Bundesnetzagentur
@@ -487,6 +500,7 @@ Absatz 5 ist entsprechend anzuwenden.
 
 
 ### § 9 Behörden- und Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001006377)
 
 (1) Spätestens zwei Wochen nach Vorlage der vollständigen Unterlagen
 beteiligt die Bundesnetzagentur die anderen Behörden und die
@@ -582,6 +596,7 @@ Gesetzes über die Umweltverträglichkeitsprüfung zwei Wochen betragen.
 
 
 ### § 10 Erörterungstermin
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001103311)
 
 (1) Die Bundesnetzagentur erörtert die rechtzeitig erhobenen
 Einwendungen und Stellungnahmen mit dem Vorhabenträger, den Trägern
@@ -637,6 +652,7 @@ einem erneuten Erörterungstermin abgesehen werden.
 
 
 ### § 11 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001204377)
 
 (1) Die Bundesfachplanung kann in einem vereinfachten Verfahren
 durchgeführt werden, soweit nach § 37 Satz 1 des Gesetzes über die
@@ -668,6 +684,7 @@ stattgefunden, beträgt die Frist nach Satz 1 sechs Monate.
 
 
 ### § 12 Abschluss der Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001303118)
 
 (1) Die Bundesfachplanung ist binnen sechs Monaten nach Vorliegen der
 vollständigen Unterlagen bei der Bundesnetzagentur abzuschließen.
@@ -718,6 +735,7 @@ verlaufenden Abschnitte der Ausbaumaßnahme.
 
 
 ### § 13 Bekanntgabe und Veröffentlichung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001404377)
 
 (1) Die Entscheidung nach § 12 Absatz 2 und 3 ist den Behörden und
 Trägern öffentlicher Belange nach § 9 Absatz 1 und 2 sowie dem
@@ -743,6 +761,7 @@ Internetseite der Bundesnetzagentur bekannt.
 
 
 ### § 14 Einwendungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001500000)
 
 Jedes Land, das von der Entscheidung nach § 12 Absatz 2 und 3
 betroffen ist, ist berechtigt, innerhalb einer Frist von einem Monat
@@ -753,6 +772,7 @@ Stellung zu nehmen.
 
 
 ### § 15 Bindungswirkung der Bundesfachplanung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001604311)
 
 (1) Die Entscheidung nach § 12 ist für die Planfeststellungsverfahren
 nach §§ 18 ff. verbindlich. Bundesfachplanungen haben grundsätzlich
@@ -774,6 +794,7 @@ entsprechend anzuwenden.
 
 
 ### § 16 Veränderungssperren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001705377)
 
 (1) Die Bundesnetzagentur kann mit dem Abschluss der Bundesfachplanung
 oder nachträglich für einzelne Abschnitte der Trassenkorridore
@@ -840,6 +861,7 @@ Präferenzraums Veränderungssperren erlassen kann.
 
 
 ### § 17 Bundesnetzplan
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001804377)
 
 Die durch die Bundesfachplanung bestimmten Trassenkorridore und die
 für Offshore-Anbindungsleitungen und grenzüberschreitende
@@ -852,9 +874,11 @@ Kalenderjahr im Bundesanzeiger zu veröffentlichen.
 
 
 ## Abschnitt 3 - Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000300000)
 
 
 ### § 18 Erfordernis einer Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE001908377)
 
 (1) Die Errichtung und der Betrieb sowie die Änderung von Leitungen im
 Sinne von § 2 Absatz 1, mit Ausnahme von Nebeneinrichtungen zu
@@ -997,14 +1021,17 @@ anzuwenden.
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002003377)
 
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002105377)
 
 
 
 ### § 21 Einreichung des Plans und der Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002203377)
 
 (1) Die Planfeststellung beginnt mit dem Antrag des Vorhabenträgers,
 welcher durch die Einreichung des Plans bei der
@@ -1069,6 +1096,7 @@ bestätigen.
 
 
 ### § 22 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002306377)
 
 (1) Innerhalb von zwei Wochen nach Vorlage der vollständigen
 Unterlagen nach § 21 beteiligt die Planfeststellungsbehörde die
@@ -1179,6 +1207,7 @@ soll abweichend von Absatz 4 Satz 1 zwei Wochen betragen.
 
 
 ### § 23 Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002400000)
 
 Die Prüfung der Umweltverträglichkeit nach den Bestimmungen des
 Gesetzes über die Umweltverträglichkeitsprüfung kann auf Grund der in
@@ -1188,6 +1217,7 @@ Umweltauswirkungen der beantragten Stromleitung beschränkt werden.
 
 
 ### § 24 Planfeststellungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002504377)
 
 (1) Die Planfeststellungsbehörde stellt den Plan fest
 (Planfeststellungsbeschluss).
@@ -1219,6 +1249,7 @@ anzuwenden.
 
 
 ### § 25 Änderungen im Anzeigeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002605377)
 
 (1) Unwesentliche Änderungen oder Erweiterungen können anstelle des
 Planfeststellungsverfahrens durch ein Anzeigeverfahren zugelassen
@@ -1307,6 +1338,7 @@ Vorhabenträger bekannt zu machen.
 
 
 ### § 26 Zusammentreffen mehrerer Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002702377)
 
 In Planfeststellungsverfahren kann eine einheitliche Entscheidung für
 ein Vorhaben nach § 2 Absatz 1 und für die Errichtung, den Betrieb
@@ -1331,6 +1363,7 @@ zuständig, wendet diese die Vorgaben des dritten Abschnitts an.
 
 
 ### § 27 Vorzeitige Besitzeinweisung und Enteignungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002800000)
 
 (1) Der Vorhabenträger kann verlangen, dass nach Abschluss des
 Anhörungsverfahrens gemäß § 22 eine vorzeitige Besitzeinweisung
@@ -1355,6 +1388,7 @@ Grundlage des ergangenen Planfeststellungsbeschlusses zu ergänzen.
 
 
 ### § 28 Durchführung einer Raumverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE002903377)
 
 Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung
 mit § 1 Satz 1 Nummer 14 der Raumordnungsverordnung findet eine
@@ -1367,9 +1401,11 @@ ist nicht anzuwenden nach Ablauf der Geltungsdauer nach § 15 Absatz 2.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000400000)
 
 
 ### § 29 Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003002126)
 
 (1) Die zuständige Behörde kann einen Dritten, der als
 Verwaltungshelfer beschäftigt werden kann, auf Vorschlag oder mit
@@ -1427,6 +1463,7 @@ zuständigen Behörde.
 
 
 ### § 30 Kostenpflichtige Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003104377)
 
 (1) Die Bundesnetzagentur erhebt für folgende Amtshandlungen nach
 diesem Gesetz kostendeckende Gebühren und Auslagen:
@@ -1504,6 +1541,7 @@ sich nach den Verwaltungskostengesetzen der Länder.
 
 
 ### § 30a Geheimhaltung und Datenschutz, Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE004100377)
 
 (1) Die Rechtsvorschriften über Geheimhaltung und Datenschutz sowie
 über Rechte am geistigen Eigentum bleiben unberührt.
@@ -1548,13 +1586,16 @@ Absatz 2 des Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
 
 
 ### § 30b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE004201377)
 
 
 
 ## Abschnitt 5 - Behörden und Gremien
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000500000)
 
 
 ### § 31 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003204377)
 
 (1) Die Aufgaben nach diesem Gesetz nehmen die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
@@ -1592,6 +1633,7 @@ Landesrechts bleiben unberührt.
 
 
 ### § 32 Bundesfachplanungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003301118)
 
 (1) Bei der Bundesnetzagentur wird ein ständiger
 Bundesfachplanungsbeirat gebildet. Der Beirat besteht aus Vertretern
@@ -1615,9 +1657,11 @@ ordentlichen Sitzungen sind nicht öffentlich.
 
 
 ## Abschnitt 6 - Sanktions- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNG000600000)
 
 
 ### § 33 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003404377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -1649,6 +1693,7 @@ zuständigen Planfeststellungsbehörden der Länder.
 
 
 ### § 34 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003503126)
 
 Die Bundesnetzagentur kann ihre Anordnungen, insbesondere
 Fristsetzungen zur Antragstellung nach § 6 Satz 2 und § 12 Absatz 2
@@ -1664,6 +1709,7 @@ Rechts festsetzen.
 
 
 ### § 35 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE003605377)
 
 (1) Bestehende Entscheidungen über die Bundesfachplanung,
 Genehmigungen und Planfeststellungsbeschlüsse sowie weitere bestehende
@@ -1722,6 +1768,7 @@ Verlangens ist auch § 33 Absatz 1 Nummer 3 in der bis zum Ablauf des
 
 
 ### § 36 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html#BJNR169010011BJNE004002377)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz überprüft und
 evaluiert im Einvernehmen mit dem Bundesministerium für Umwelt,

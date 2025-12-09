@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNG000100307)
 
 
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE000813311)
 
 (1) Dieses Gesetz regelt die Voraussetzungen und das Verfahren zur
 Überprüfung einer Person, die von der zuständigen Stelle mit einer
@@ -117,6 +119,7 @@ genannten Schutzgüter ausgeht.
 
 
 ### § 2 Betroffener Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE000910311)
 
 (1) Eine Person, die mit einer sicherheitsempfindlichen Tätigkeit
 betraut werden soll (betroffene Person), ist vorher einer
@@ -218,6 +221,7 @@ Verschlusssachen kraft Amtes.
 
 
 ### § 3 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001013311)
 
 (1) Zuständige Stelle für die Sicherheitsüberprüfung ist
 
@@ -307,6 +311,7 @@ halten.
 
 
 ### § 3a Geheimschutzbeauftragte, Sabotageschutzbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE005500377)
 
 (1) Die nach § 3 Absatz 1 Satz 1 Nummer 1, 4 und 5 für den Bereich des
 Geheimschutzes zuständigen Stellen sollen zur Erfüllung ihrer Aufgaben
@@ -335,6 +340,7 @@ Verwaltungsvorschriften im Sinne des § 35.
 
 
 ### § 4 Allgemeine Grundsätze zum Schutz von Verschlusssachen, Mitwirkung des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001101377)
 
 (1) Verschlusssachen sind im öffentlichen Interesse, insbesondere zum
 Schutz des Wohles des Bundes oder eines Landes,
@@ -425,6 +431,7 @@ gilt entsprechend.
 
 
 ### § 5 Sicherheitsrisiken, sicherheitserhebliche Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001202377)
 
 (1) Im Sinne dieses Gesetzes liegt ein Sicherheitsrisiko vor, wenn
 tatsächliche Anhaltspunkte Folgendes begründen:
@@ -467,6 +474,7 @@ Anhaltspunkt für ein Sicherheitsrisiko ergibt.
 
 
 ### § 6 Rechte der betroffenen Person und der mitbetroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001302377)
 
 (1) Vor der Feststellung eines Sicherheitsrisikos ist der betroffenen
 Person Gelegenheit zu geben, sich persönlich zu den für die
@@ -492,10 +500,12 @@ anzuwenden.
 
 
 ## Zweiter Abschnitt - Überprüfungsarten und Durchführungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNG000200307)
 
 
 
 ### § 7 Arten der Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001402311)
 
 (1) Entsprechend der vorgesehenen sicherheitsempfindlichen Tätigkeit
 wird entweder eine
@@ -521,6 +531,7 @@ entsprechend; § 12 Absatz 5 bleibt unberührt.
 
 
 ### § 8 Einfache Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001510311)
 
 (1) Die einfache Sicherheitsüberprüfung ist für Personen
 durchzuführen, die
@@ -567,6 +578,7 @@ wenn
 
 
 ### § 9 Erweiterte Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001606377)
 
 (1) Eine erweiterte Sicherheitsüberprüfung ist für Personen
 durchzuführen, die
@@ -610,6 +622,7 @@ durchzuführen.
 
 
 ### § 10 Erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001700307)
 
 Eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen ist
 für Personen durchzuführen,
@@ -635,6 +648,7 @@ ausreichend hält.
 
 
 ### § 11 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001802377)
 
 (1) Die zuständige Stelle und die mitwirkende Behörde dürfen die zur
 Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlichen Daten
@@ -657,6 +671,7 @@ andere geeignete Personen oder Stellen befragt werden.
 
 
 ### § 12 Maßnahmen bei den einzelnen Überprüfungsarten, Überprüfungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE001913311)
 
 (1) Bei der Sicherheitsüberprüfung nach § 8 trifft die mitwirkende
 Behörde folgende Maßnahmen:
@@ -819,10 +834,12 @@ Vorschriften, die einen anderen Zeitraum vorsehen, bleiben unberührt.
 
 
 ## Dritter Abschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNG000300307)
 
 
 
 ### § 13 Sicherheitserklärung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002010311)
 
 (1) In der Sicherheitserklärung sind von der betroffenen Person
 anzugeben:
@@ -1011,6 +1028,7 @@ Beurteilung sicherheitserheblicher Erkenntnisse unerläßlich ist.
 
 
 ### § 14 Abschluß der Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002110311)
 
 (1) Kommt die mitwirkende Behörde zu dem Ergebnis, daß kein
 Sicherheitsrisiko nach § 5 Abs. 1 vorliegt, so teilt sie dies der
@@ -1069,6 +1087,7 @@ unberührt.
 
 
 ### § 15 Vorläufige Zuweisung einer sicherheitsempfindlichen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002201377)
 
 Die zuständige Stelle kann in Ausnahmefällen abweichend von § 2 Absatz
 1 die betroffene Person vor Abschluss der Sicherheitsüberprüfung mit
@@ -1091,6 +1110,7 @@ Sicherheitsrisiko ergeben haben.
 
 
 ### § 15a Unterrichtung durch die personalverwaltende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE005601311)
 
 Die personalverwaltende Stelle unterrichtet die für die
 Sicherheitsüberprüfung zuständige Stelle unverzüglich über
@@ -1127,6 +1147,7 @@ zählen:
 
 
 ### § 16 Sicherheitserhebliche Erkenntnisse nach Abschluß der Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002302377)
 
 (1) Die zuständige Stelle und die mitwirkende Behörde haben sich
 unverzüglich gegenseitig zu unterrichten, wenn sicherheitserhebliche
@@ -1149,6 +1170,7 @@ keinen Aufschub duldet. § 6 Absatz 1 und 2 bleibt unberührt.
 
 
 ### § 17 Aktualisierung und Wiederholungsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002402377)
 
 (1) Die Sicherheitserklärung ist der betroffenen Person, die eine
 sicherheitsempfindliche Tätigkeit ausübt, in der Regel nach fünf
@@ -1187,10 +1209,12 @@ gilt entsprechend.
 
 
 ## Vierter Abschnitt - Akten über die Sicherheitsüberprüfung, Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNG000400307)
 
 
 
 ### § 18 Sicherheitsakte und Sicherheitsüberprüfungsakte
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002503311)
 
 (1) Die zuständige Stelle führt über die betroffene Person eine
 Sicherheitsakte, in die alle die Sicherheitsüberprüfung betreffenden
@@ -1310,6 +1334,7 @@ führen.
 
 
 ### § 19 Aufbewahrung und Vernichtung der Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002603377)
 
 (1) Die Unterlagen über die Sicherheitsüberprüfung sind gesondert
 aufzubewahren und gegen unbefugten Zugriff zu schützen.
@@ -1356,6 +1381,7 @@ Sicherheitsüberprüfung keine Anwendung.
 
 
 ### § 20 Speichern, Verändern und Nutzen personenbezogener Daten in Dateien
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002703311)
 
 (1) Die zuständige Stelle darf zur Erfüllung ihrer Aufgaben nach
 diesem Gesetz die in § 13 Absatz 1 Satz 1 Nummer 1 bis 6 und Absatz 4
@@ -1387,6 +1413,7 @@ werden.
 
 
 ### § 21 Übermittlung und Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002802377)
 
 (1) Die im Rahmen der Sicherheitsüberprüfung gespeicherten
 personenbezogenen Daten dürfen von der zuständigen Stelle oder
@@ -1449,6 +1476,7 @@ hinzuweisen.
 
 
 ### § 22 Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE002903377)
 
 (1) Die zuständige Stelle und die mitwirkende Behörde haben
 personenbezogene Daten zu berichtigen, wenn sie unrichtig sind. Wird
@@ -1539,6 +1567,7 @@ personenbezogene Daten keine Anwendung.
 
 
 ### § 23 Auskunft über gespeicherte personenbezogene Daten
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003001377)
 
 (1) Auf Antrag ist von der zuständigen Stelle oder mitwirkenden
 Behörde unentgeltlich Auskunft zu erteilen, welche Daten über die
@@ -1602,10 +1631,12 @@ gelten entsprechend.
 
 
 ## Fünfter Abschnitt - Sonderregelungen für den nichtöffentlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNG000501377)
 
 
 
 ### § 24 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003108377)
 
 (1) Die Sonderregelungen dieses Abschnitts gelten bei
 Sicherheitsüberprüfungen von betroffenen Personen, die
@@ -1630,6 +1661,7 @@ Anwendung.
 
 
 ### § 25 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003211377)
 
 (1) Zuständige Stelle für sicherheitsempfindliche Tätigkeiten nach § 1
 Absatz 2 Nummer 1 bis 4 ist das Bundesministerium für Wirtschaft und
@@ -1675,6 +1707,7 @@ werden.
 
 
 ### § 26 Sicherheitserklärung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003302377)
 
 Abweichend von § 13 Absatz 6 Satz 1 leitet die betroffene Person ihre
 Sicherheitserklärung der nicht-öffentlichen Stelle zu, in der sie
@@ -1690,6 +1723,7 @@ vorhandene sicherheitserhebliche Erkenntnisse mit.
 
 
 ### § 27 Abschluß der Sicherheitsüberprüfung, Weitergabe sicherheitserheblicher Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003402377)
 
 Die zuständige Stelle unterrichtet die nichtöffentliche Stelle nur
 darüber, dass die betroffene Person
@@ -1716,6 +1750,7 @@ betroffene Person oder die mitbetroffene Person bekanntwerden.
 
 
 ### § 28 Aktualisierung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003501377)
 
 (1) Die nicht-öffentliche Stelle leitet der betroffenen Person, die
 eine sicherheitsempfindliche Tätigkeit ausübt, auf Anforderung der
@@ -1733,6 +1768,7 @@ die mitbetroffene Person erneut durchzuführen und zu bewerten.
 
 
 ### § 29 Übermittlung von Informationen über persönliche und arbeitsrechtliche Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003604311)
 
 (1) Die nichtöffentliche Stelle hat der zuständigen Stelle
 unverzüglich mitzuteilen
@@ -1764,6 +1800,7 @@ Veränderungen nach § 15a Satz 2 Nummer 1, 2, 4 und 6.
 
 
 ### § 30 Sicherheitsakte der nicht-öffentlichen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003700307)
 
 Für die Sicherheitsakte in der nicht-öffentlichen Stelle gelten die
 Vorschriften dieses Gesetzes über die Sicherheitsakte entsprechend mit
@@ -1772,6 +1809,7 @@ einem Wechsel des Arbeitgebers nicht abgegeben wird.
 
 
 ### § 31 Datenverarbeitung in automatisierten Dateien
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003802377)
 
 Die nicht-öffentliche Stelle darf die nach diesem Gesetz zur Erfüllung
 ihrer Aufgaben erforderlichen personenbezogenen Daten der betroffenen
@@ -1781,10 +1819,12 @@ Löschung und Sperrung finden Anwendung.
 
 
 ## Sechster Abschnitt - Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNG000600307)
 
 
 
 ### § 32 Reisebeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE003905377)
 
 (1) Personen, die eine sicherheitsempfindliche Tätigkeit ausüben, die
 eine Sicherheitsüberprüfung nach den § 9 Absatz 1 Nummer 1 und 2 und §
@@ -1808,6 +1848,7 @@ unverzüglich zu unterrichten.
 
 
 ### § 33 Sicherheitsüberprüfung auf Antrag ausländischer Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004001377)
 
 (1) Ersucht eine ausländische Dienststelle die mitwirkenden Behörden
 um die Mitwirkung bei einer Sicherheitsüberprüfung, so richtet sie
@@ -1830,6 +1871,7 @@ die vorgenommene Verwendung der Daten zu bitten.
 
 
 ### § 34 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004106377)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates festzustellen,
@@ -1852,6 +1894,7 @@ Zustimmung des Bundesrates festzustellen,
 
 
 ### § 35 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004206311)
 
 (1) Die allgemeinen Verwaltungsvorschriften zur Ausführung dieses
 Gesetzes erläßt das Bundesministerium des Innern, für Bau und Heimat,
@@ -1874,6 +1917,7 @@ Bundesministerium des Innern, für Bau und Heimat.
 
 
 ### § 36 Anwendung des Bundesdatenschutzgesetzes, Bundesverfassungsschutzgesetzes, MAD-Gesetzes und BND-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004306377)
 
 (1) Die Vorschriften des Bundesdatenschutzgesetzes finden wie folgt
 Anwendung:
@@ -1896,6 +1940,7 @@ finden Anwendung.
 
 
 ### § 36a Unabhängige Datenschutzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE005700377)
 
 (1) Jede Person kann sich an die Bundesbeauftragte oder den
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
@@ -1944,6 +1989,7 @@ des Bundes oder eines Landes gefährden würde.
 
 
 ### § 37 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004400307)
 
 (1) Wer unbefugt von diesem Gesetz geschützte personenbezogene Daten,
 die nicht offenkundig sind,
@@ -1982,6 +2028,7 @@ die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 38 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004501377)
 
 Bei Sicherheitsüberprüfungsverfahren von betroffenen Personen, die vor
 dem 1. Januar 2007 mit einer sicherheitsempfindlichen Tätigkeit
@@ -1993,6 +2040,7 @@ Aktualisierung tritt.
 
 
 ### § 39 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/s_g/BJNR086700994.html#BJNR086700994BJNE004600307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

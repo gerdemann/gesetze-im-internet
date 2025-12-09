@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Name
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000100000)
 
 Im Geschäftsbereich des Bundesministeriums für Verbraucherschutz,
 Ernährung und Landwirtschaft (Bundesministerium) wird ein
@@ -29,6 +30,7 @@ errichtet.
 
 
 ## § 2 Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000207116)
 
 (1) Das Bundesinstitut wird, unbeschadet bestehender Zuständigkeiten
 sonstiger Einrichtungen des Bundes für Fragen der Gesundheit des
@@ -126,6 +128,7 @@ Bundesinstitut vorbehaltlich des § 8 Abs. 1 weisungsunabhängig.
 
 
 ## § 3 Aufgabendurchführung
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000300000)
 
 (1) Das Bundesinstitut erledigt im Rahmen der ihm durch § 2 Abs. 1
 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes, die dem
@@ -139,6 +142,7 @@ Bundesministerium beauftragt wird.
 
 
 ## § 4 Organe
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000400000)
 
 (1) Organe des Bundesinstitutes sind die Präsidentin oder der
 Präsident und das Direktorium.
@@ -148,6 +152,7 @@ sie nicht durch dieses Gesetz geregelt sind.
 
 
 ## § 5 Präsidentin oder Präsident
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000500000)
 
 (1) Die Präsidentin oder der Präsident führt die Geschäfte in eigener
 Verantwortung nach Maßgabe dieses Gesetzes und der Satzung. Sie oder
@@ -158,6 +163,7 @@ er vertritt das Bundesinstitut gerichtlich und außergerichtlich.
 
 
 ## § 6 Direktorium
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000600000)
 
 (1) Das Direktorium besteht aus der Präsidentin oder dem Präsidenten,
 der Vizepräsidentin oder dem Vizepräsidenten und den
@@ -196,6 +202,7 @@ Präsident.
 
 
 ## § 7 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000700000)
 
 Das Direktorium erlässt mit der Mehrheit seiner Mitglieder eine
 Satzung für das Bundesinstitut; § 6 Abs. 4 ist nicht anzuwenden. Die
@@ -220,6 +227,7 @@ erforderlich, insbesondere Bestimmungen aufzunehmen über
 
 
 ## § 8 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000800000)
 
 (1) Das Bundesinstitut untersteht der Aufsicht des Bundesministeriums,
 die sich in den Fällen des § 2 Abs. 1 Nr. 12 und Abs. 3 auf die
@@ -239,6 +247,7 @@ entsprechend.
 
 
 ## § 9 Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE000900000)
 
 (1) Das Bundesinstitut weist die zu erwartenden Einnahmen und
 voraussichtlich zu leistenden Ausgaben in einem Haushaltsplan aus. Auf
@@ -258,6 +267,7 @@ aufzustellen. Die Rechnung ist vom Bundesministerium zu prüfen.
 
 
 ## § 10 Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE001000000)
 
 (1) Das Bundesinstitut hat Dienstherrenfähigkeit. Seine Beamtinnen und
 Beamten sind mittelbare Bundesbeamte.
@@ -274,6 +284,7 @@ Bundesinstitutes.
 
 
 ## § 11 Angestellte, Arbeiterinnen und Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE001100000)
 
 Auf die Angestellten und Arbeiterinnen und Arbeiter des
 Bundesinstitutes sind die für Arbeitnehmerinnen und Arbeitnehmer des
@@ -282,6 +293,7 @@ anzuwenden.
 
 
 ## § 12 Übernahme der Beamtinnen und Beamten und der Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE001202311)
 
 (1) Die beim Bundesinstitut für gesundheitlichen Verbraucherschutz und
 Veterinärmedizin tätigen Beamtinnen und Beamten werden vorbehaltlich
@@ -297,6 +309,7 @@ Inkrafttreten dieses Gesetzes in den Dienst des Bundesinstitutes
 
 
 ## § 13 Übergangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bfrg/BJNR308210002.html#BJNR308210002BJNE001300000)
 
 (1) Nach der Errichtung des Bundesinstitutes finden innerhalb von
 sechs Monaten nach Inkrafttreten dieses Gesetzes Wahlen zur

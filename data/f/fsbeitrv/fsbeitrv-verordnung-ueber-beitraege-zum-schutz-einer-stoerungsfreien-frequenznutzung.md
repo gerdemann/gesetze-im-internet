@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000100000)
 
 Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli
 1996 (BGBl. I S. 1120), zuletzt geändert durch Artikel 1 und 3 des
@@ -32,6 +33,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000206119)
 
 (1) Beitragspflichtig für die Kosten, die der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
@@ -80,6 +82,7 @@ Januar 2003 erhoben.
 
 
 ## § 2 Beitragsbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000305119)
 
 (1) Von der Beitragsverpflichtung werden befreit:
 
@@ -137,6 +140,7 @@ Deutschland besteht, kann Beitragsbefreiung gewährt werden.
 
 
 ## § 3 Ermittlung der Kosten und Festlegung von Jahresbeiträgen
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000405119)
 
 (1) Die durch Beiträge nach
 
@@ -189,6 +193,7 @@ statistischen Unterlagen der Bundesnetzagentur maßgeblich.
 
 
 ## § 4 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000602305)
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheids,
 wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 17 des
@@ -197,6 +202,7 @@ Fassung gilt entsprechend.
 
 
 ## § 5 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000702305)
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
 werden Säumniszuschläge entsprechend § 18 des
@@ -205,6 +211,7 @@ Fassung erhoben.
 
 
 ## § 6 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000801308)
 
 (1) Eine Festsetzung der Beiträge, ihre Aufhebung oder Änderung ist
 nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist
@@ -241,6 +248,7 @@ beginnt eine neue vierjährige Verjährung.
 
 
 ## § 7 Erstattung von Beitragsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE000901308)
 
 (1) Für Zeiten innerhalb eines Kalenderjahres, für die keine
 Beitragspflicht nach § 1 bestand, werden gezahlte Beitragsanteile je
@@ -255,6 +263,7 @@ gegeben wurde.
 
 
 ## § 8 Anwendungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE001203123)
 
 (1) Soweit Beitragsbescheide bestandskräftig geworden sind, verbleibt
 es bei ihren Festsetzungen. Soweit Beiträge für das Jahr 2003, 2004,
@@ -276,11 +285,13 @@ der bis zum 3. Juli 2017 geltenden Fassung maßgeblich.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE001000000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/fsbeitrv/BJNR095800004.html#BJNR095800004BJNE001120119)
 
 (Fundstelle: BGBl. I 2007, 2777 - 2782;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

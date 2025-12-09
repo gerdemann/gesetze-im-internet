@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baubetrv_1980/BJNR020330980.html#BJNR020330980BJNE000100319)
 
 Auf Grund des § 76 Abs. 2 des Arbeitsförderungsgesetzes vom 25. Juni
 1969 (BGBl. I S. 582), der durch Artikel 1 Nr. 23 des Gesetzes vom 23.
@@ -32,6 +33,7 @@ verordnet:
 
 
 ## § 1 Zugelassene Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/baubetrv_1980/BJNR020330980.html#BJNR020330980BJNE000206140)
 
 (1) Die ganzjährige Beschäftigung im Baugewerbe ist durch das Saison-
 Kurzarbeitergeld in Betrieben und Betriebsabteilungen zu fördern, die
@@ -289,6 +291,7 @@ betroffenen Arbeitnehmer führt.
 
 
 ## § 2 Ausgeschlossene Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/baubetrv_1980/BJNR020330980.html#BJNR020330980BJNE000303308)
 
 Nicht als förderfähige Betriebe im Sinne des § 1 Abs. 1 anzusehen sind
 Betriebe
@@ -349,16 +352,19 @@ Betriebe
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/baubetrv_1980/BJNR020330980.html#BJNR020330980BJNE000401308)
 
 (weggefallen)
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baubetrv_1980/BJNR020330980.html#BJNR020330980BJNE000500319)
 
 Diese Verordnung tritt am 1. November 1980 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/baubetrv_1980/BJNR020330980.html#BJNR020330980BJNE000600319)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

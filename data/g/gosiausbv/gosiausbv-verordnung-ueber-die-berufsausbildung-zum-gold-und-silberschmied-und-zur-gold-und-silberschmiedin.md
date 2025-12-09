@@ -25,9 +25,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000200000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Gold- und
 Silberschmiedes und der Gold- und Silberschmiedin wird staatlich
@@ -45,11 +47,13 @@ anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000300000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -77,6 +81,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -97,6 +102,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -230,6 +236,7 @@ sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -237,9 +244,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000200000)
 
 
 ### § 7 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000800000)
 
 (1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr
 stattfinden.
@@ -248,6 +257,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -264,6 +274,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001000000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich „Ausführen von
 Fertigungstechniken“ statt.
@@ -320,12 +331,15 @@ und die Dokumentation insgesamt sieben Stunden.
 
 
 ## Abschnitt 3 - Gesellen- oder Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000300000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000400000)
 
 
 #### § 10 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001100000)
 
 (1) Die Gesellen- oder Abschlussprüfung findet am Ende der
 Berufsausbildung statt.
@@ -334,6 +348,7 @@ Berufsausbildung statt.
 
 
 #### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001200000)
 
 Die Gesellen- oder Abschlussprüfung erstreckt sich auf
 
@@ -350,9 +365,11 @@ Die Gesellen- oder Abschlussprüfung erstreckt sich auf
 
 
 ### Unterabschnitt 2 - Fachrichtung Goldschmieden
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000500000)
 
 
 #### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001300000)
 
 Die Gesellen- oder Abschlussprüfung findet in der Fachrichtung
 Goldschmieden in den folgenden Prüfungsbereichen statt:
@@ -373,6 +390,7 @@ Goldschmieden in den folgenden Prüfungsbereichen statt:
 
 
 #### § 13 Prüfungsbereich „Anfertigen einer Goldschmiedearbeit“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001400000)
 
 (1) Im Prüfungsbereich „Anfertigen einer Goldschmiedearbeit“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -463,6 +481,7 @@ hergestellt worden ist.
 
 
 #### § 14 Prüfungsbereich „Technologie“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001500000)
 
 (1) Im Prüfungsbereich „Technologie“ hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -513,6 +532,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 15 Prüfungsbereich „Gestalten und Planen“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001600000)
 
 (1) Im Prüfungsbereich „Gestalten und Planen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -557,6 +577,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 16 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -570,6 +591,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellen- oder Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -639,6 +661,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 #### § 18 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -680,9 +703,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Silberschmieden
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000600000)
 
 
 #### § 19 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002000000)
 
 Die Gesellen- oder Abschlussprüfung findet in der Fachrichtung
 Silberschmieden in den folgenden Prüfungsbereichen statt:
@@ -703,6 +728,7 @@ Silberschmieden in den folgenden Prüfungsbereichen statt:
 
 
 #### § 20 Prüfungsbereich „Anfertigen einer Silberschmiedearbeit“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002100000)
 
 (1) Im Prüfungsbereich „Anfertigen einer Silberschmiedearbeit“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -780,6 +806,7 @@ hergestellt worden ist.
 
 
 #### § 21 Prüfungsbereich „Technologie“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002200000)
 
 (1) Im Prüfungsbereich „Technologie“ hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -831,6 +858,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 22 Prüfungsbereich „Gestalten und Planen“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002300000)
 
 (1) Im Prüfungsbereich „Gestalten und Planen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -881,6 +909,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 23 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002400000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -894,6 +923,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 24 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellen- oder Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -963,6 +993,7 @@ Handwerksordnung zu fassen.
 
 
 #### § 25 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002600000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1004,9 +1035,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Weitere Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000700000)
 
 
 ### § 26 Befreiung von der Zwischenprüfung und Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002700000)
 
 Bei einer erfolgreich abgeschlossenen Berufsausbildung nach § 16
 Absatz 2 der Edelsteinfasser-Ausbildungsverordnung vom 20. März 2025
@@ -1024,9 +1057,11 @@ Absatz 2 der Edelsteinfasser-Ausbildungsverordnung vom 20. März 2025
 
 
 ## Abschnitt 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNG000800000)
 
 
 ### § 27 Beendigung der Fortgeltung bestehender Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002800000)
 
 (1) Ab dem 1. August 2025 sind die nachfolgenden Berufsbilder
 entsprechend § 103 Absatz 1 Satz 2 des Berufsbildungsgesetzes nicht
@@ -1053,6 +1088,7 @@ Ende zu führen.
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Gold- und Silberschmied und zur Gold- und Silberschmiedin
+[Direktlink](https://www.gesetze-im-internet.de/gosiausbv/BJNR05D0B0025.html#BJNR05D0B0025BJNE002900000)
 
 (Fundstelle: BGBl. 2025 I Nr. 93, S. 12 - 22)
 

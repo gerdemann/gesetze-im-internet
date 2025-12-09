@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -33,6 +34,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000201377)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Fachwirt für Büro- und Projektorganisation und zur Geprüften
@@ -89,6 +91,7 @@ Projektorganisation“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -119,6 +122,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000401128)
 
 (1) Die Prüfung gliedert sich in folgende Handlungsbereiche:
 
@@ -182,6 +186,7 @@ dauern.
 
 
 ## § 4 Inhalte der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000500000)
 
 (1) Im Handlungsbereich „Koordinieren von Entscheidungsprozessen im
 Rahmen betrieblicher Organisationsstrukturen“ soll die Kompetenz
@@ -307,6 +312,7 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -319,6 +325,7 @@ zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -352,6 +359,7 @@ berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
 und der mündlichen Teilprüfung jeweils mindestens 50 Punkte erreicht
@@ -374,6 +382,7 @@ Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE001500128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -400,6 +409,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000801128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -414,6 +424,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE000901128)
 
 Mit der erfolgreich abgelegten Fortbildungsprüfung nach dieser
 Verordnung wurden auch die berufs- und arbeitspädagogischen
@@ -423,6 +434,7 @@ Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE001001128)
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Fachkaufmann für
 Büromanagement und zur Geprüften Fachkauffrau für Büromanagement
@@ -438,6 +450,7 @@ Prüfungen nach Absatz 1 nach dieser Verordnung durchführen; § 7 Absatz
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE001101128)
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -447,6 +460,7 @@ Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE001203128)
 
 (Fundstelle: BGBl. I 2019, 2353 – 2354)
 
@@ -748,6 +762,7 @@ Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fachkb_roprv_2012/BJNR026800012.html#BJNR026800012BJNE001303128)
 
 (Fundstelle: BGBl. I 2019, 2354 – 2355)
 

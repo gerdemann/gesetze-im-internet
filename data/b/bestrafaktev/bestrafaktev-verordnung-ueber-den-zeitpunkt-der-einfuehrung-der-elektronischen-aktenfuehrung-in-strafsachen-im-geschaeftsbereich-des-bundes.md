@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bestrafaktev/BJNR235500020.html#BJNR235500020BJNE000100000)
 
 Auf Grund des § 32 Absatz 1 Satz 2 und 3 der Strafprozessordnung, der
 durch Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S.
@@ -25,6 +26,7 @@ durch Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bestrafaktev/BJNR235500020.html#BJNR235500020BJNE000200000)
 
 Diese Verordnung gilt für die Führung elektronischer
 Strafverfahrensakten bei
@@ -44,6 +46,7 @@ Strafverfahrensakten bei
 
 
 ## § 2 Einführung der elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/bestrafaktev/BJNR235500020.html#BJNR235500020BJNE000300000)
 
 (1) Die Akten können ab dem 14. November 2020 elektronisch geführt
 werden.
@@ -62,6 +65,7 @@ desjenigen zu veröffentlichen, der sie erlassen hat.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bestrafaktev/BJNR235500020.html#BJNR235500020BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

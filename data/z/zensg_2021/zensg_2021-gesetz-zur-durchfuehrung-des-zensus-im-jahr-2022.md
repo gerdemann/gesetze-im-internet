@@ -20,15 +20,18 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000100000)
 
 
 ### § 1 Art, Stichtag, Quellen und Zwecke des Zensus
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000301126)
 
 (1) Die statistischen Ämter des Bundes und der Länder führen eine
 Bevölkerungs-, Gebäude- und Wohnungszählung (Zensus) mit Stand vom 15.
@@ -98,6 +101,7 @@ Mai 2022 (Zensusstichtag) als Bundesstatistik durch.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000400000)
 
 (1) Einwohner einer Gemeinde sind alle Personen, die ihren üblichen
 Aufenthaltsort in der Gemeinde haben.
@@ -128,12 +132,15 @@ allein wohnt, bildet einen eigenen Haushalt.
 
 
 ## Abschnitt 2 - Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000200000)
 
 
 ### Unterabschnitt 1 - Bevölkerungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000300000)
 
 
 #### § 3 Erhebungseinheiten der Bevölkerungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000500000)
 
 (1) Erhebungseinheiten der Bevölkerungszählung sind Personen und
 Haushalte.
@@ -158,6 +165,7 @@ maßgeblich.
 
 
 #### § 4 Gebietsstand und Bevölkerungsfortschreibung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000601126)
 
 (1) Sofern Erhebungen auf Kreise, Gemeindeverbände unterhalb der
 Kreisebene und Gemeinden sowie Teile von Städten Bezug nehmen, werden
@@ -171,6 +179,7 @@ Gebietsreformen kommt.
 
 
 #### § 5 Übermittlung von Daten durch die Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000701126)
 
 (1) Zur Aktualisierung des Steuerungsregisters nach § 3 des
 Zensusvorbereitungsgesetzes 2022 vom 3. März 2017 (BGBl. I S. 388),
@@ -316,6 +325,7 @@ bei den Meldebehörden aufzubewahren und vier Wochen nach der
 
 
 #### § 6 Erhebungsmerkmale und Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000801126)
 
 (1) Die nach § 5 Absatz 2 Nummer 1 bis 2 übermittelten Daten werden
 als Hilfsmerkmale für die Vorbereitung der Durchführung des Zensus
@@ -339,6 +349,7 @@ des Tages als Hilfsmerkmal erfasst.
 
 
 #### § 7 Übermittlungen von Daten durch oberste Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE000900000)
 
 (1) Für die in das Ausland entsandten
 
@@ -400,6 +411,7 @@ Vollständigkeit.
 
 
 #### § 8 Übermittlung von Daten durch die Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001000000)
 
 Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt
 für Zwecke der Hochrechnung zu dem Stichtag, der dem Zensusstichtag am
@@ -429,9 +441,11 @@ werden können, enthalten sind.
 
 
 ### Unterabschnitt 2 - Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000400000)
 
 
 #### § 9 Erhebungseinheiten der Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001100000)
 
 (1) Die statistischen Ämter der Länder führen zum Zensusstichtag eine
 Gebäude- und Wohnungszählung durch.
@@ -447,6 +461,7 @@ berufskonsularischer Vertretungen anderer Staaten vorbehalten sind.
 
 
 #### § 10 Erhebungsmerkmale und Hilfsmerkmale der Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001200000)
 
 (1) Erhebungsmerkmale sind
 
@@ -524,9 +539,11 @@ berufskonsularischer Vertretungen anderer Staaten vorbehalten sind.
 
 
 ### Unterabschnitt 3 - Haushaltebefragung auf Stichprobenbasis
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000500000)
 
 
 #### § 11 Zwecke und Umfang der Haushaltebefragung auf Stichprobenbasis
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001300000)
 
 (1) Die statistischen Ämter der Länder führen zum Zensusstichtag
 Befragungen der Haushalte auf Stichprobenbasis (Haushaltsstichprobe)
@@ -625,6 +642,7 @@ Ausnahmefällen abgewichen werden.
 
 
 #### § 12 Auswahleinheiten der Haushaltebefragung auf Stichprobenbasis
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001401126)
 
 (1) Auswahleinheiten der Haushaltsstichprobe sind, unbeschadet des §
 17 Absatz 1 Satz 1, Anschriften mit Wohnraum aus dem
@@ -646,6 +664,7 @@ Steuerungsregisters.
 
 
 #### § 13 Erhebungsmerkmale und Hilfsmerkmale der Haushaltebefragung auf Stichprobenbasis
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001500000)
 
 (1) Erhebungsmerkmale sind:
 
@@ -725,9 +744,11 @@ Steuerungsregisters.
 
 
 ### Unterabschnitt 4 - Erhebungen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000600000)
 
 
 #### § 14 Umfang und Zuständigkeiten bei den Erhebungen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001600000)
 
 Die statistischen Ämter der Länder stellen für alle Anschriften mit
 Sonderbereichen die dort wohnenden Personen fest. Für die
@@ -737,6 +758,7 @@ Statistische Bundesamt.
 
 
 #### § 15 Erhebungsmerkmale der Erhebungen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001700000)
 
 (1) Für jede an einer Anschrift mit Sonderbereichen wohnende Person
 werden Daten zu folgenden Erhebungsmerkmalen erhoben:
@@ -767,6 +789,7 @@ Personen im Haushalt und der Wohnungsstatus erhoben.
 
 
 #### § 16 Hilfsmerkmale der Erhebungen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001800000)
 
 (1) Für jede an einer Anschrift mit Sonderbereichen wohnende Person
 werden Daten zu folgenden Hilfsmerkmalen erhoben:
@@ -791,6 +814,7 @@ Wohnung im Gebäude erfasst.
 
 
 #### § 17 Durchführung der Haushaltebefragung auf Stichprobenbasis bei Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE001901126)
 
 (1) An Anschriften mit Sonderbereichen mit Gemeinschaftsunterkünften
 darf keine Haushaltsstichprobe nach § 11 durchgeführt werden. Aus den
@@ -808,15 +832,18 @@ Absatz 2 Nummer 4 befragt.
 
 
 #### § 18 Durchführung der Gebäude- und Wohnungszählung bei Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002000000)
 
 An Anschriften mit reinen Gemeinschaftsunterkünften darf keine
 Gebäude- und Wohnungszählung nach § 9 durchgeführt werden.
 
 
 ## Abschnitt 3 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000700000)
 
 
 ### § 19 Weitere Erhebungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002100000)
 
 (1) Zur Durchführung der Erhebungen nach den §§ 9, 11, 14, 22, 24
 Absatz 4 und § 29 Absatz 1 Satz 3 können die Länder neben den
@@ -838,6 +865,7 @@ auch nach Beendigung der Tätigkeit in den Erhebungsstellen.
 
 
 ### § 20 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002200000)
 
 (1) Für die Erhebungen können Erhebungsbeauftragte eingesetzt werden.
 Sie sind von den Erhebungsstellen auszuwählen und zu bestellen.
@@ -888,9 +916,11 @@ für die Wahrnehmung ihrer Aufgaben benötigen.
 
 
 ## Abschnitt 4 - Maßnahmen zur Sicherung der Qualität der Zensusergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000800000)
 
 
 ### § 21 Mehrfachfallprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002301126)
 
 (1) Das Statistische Bundesamt prüft anhand der nach § 5 Absatz 2
 Nummer 1a, 3 und 4 übermittelten Daten, ob Personen für mehr als eine
@@ -913,6 +943,7 @@ gemeldet sind, mit Hauptwohnung oder Nebenwohnung zu zählen sind.
 
 
 ### § 22 Wiederholungsbefragungen zur Qualitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002400000)
 
 (1) Zur Prüfung der Qualität der in der Haushaltsstichprobe und den
 Erhebungen an Anschriften mit Sonderbereichen ermittelten
@@ -960,9 +991,11 @@ wohnende Person Daten zu den folgenden Merkmalen erhoben:
 
 
 ## Abschnitt 5 - Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG000900000)
 
 
 ### § 23 Auskunftspflicht und Form der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002500000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die
 Auskunftserteilung erfolgt grundsätzlich elektronisch. Bei
@@ -981,6 +1014,7 @@ auskunftspflichtigen Person bekannt sind.
 
 
 ### § 24 Auskunftspflichtige für die Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002601126)
 
 (1) Auskunftspflichtig für die Erhebung nach § 9 sind die
 Eigentümerinnen und Eigentümer, die Verwalterinnen und Verwalter sowie
@@ -1011,6 +1045,7 @@ auskunftspflichtig.
 
 
 ### § 25 Auskunftspflichtige für die Haushaltebefragung auf Stichprobenbasis
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002700000)
 
 (1) Auskunftspflichtig für die Haushaltsstichprobe nach § 11 und die
 Wiederholungsbefragungen nach § 22 sind alle Volljährigen und alle
@@ -1050,6 +1085,7 @@ Einwilligung erteilt haben.
 
 
 ### § 26 Auskunftspflichtige für die Erhebungen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002800000)
 
 (1) Personen an Anschriften mit Sonderbereichen, die nicht in einer
 Gemeinschaftsunterkunft wohnen, sind entsprechend § 25 Absatz 1 bis 3
@@ -1073,9 +1109,11 @@ Einrichtung auskunftspflichtig.
 
 
 ## Abschnitt 6 - Datenschutz und Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG001000000)
 
 
 ### § 27 Datenschutzrechtliche Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE002901126)
 
 Datenschutzrechtlich Verantwortlicher für die Verarbeitung der zentral
 gespeicherten Daten ist das nach den Vorschriften dieses Gesetzes
@@ -1089,6 +1127,7 @@ Abrufs im automatisierten Verfahren trägt der Empfänger.
 
 
 ### § 28 Befugnisse zur Verarbeitung der zentral gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003001126)
 
 Soweit dies zur Erfüllung der in diesem Gesetz und im
 Zensusvorbereitungsgesetz 2022 festgelegten Aufgaben erforderlich ist,
@@ -1123,6 +1162,7 @@ verarbeiten:
 
 
 ### § 29 Aufgaben des Statistischen Bundesamts bei der Verarbeitung der Daten nach § 28
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003100000)
 
 (1) Das Statistische Bundesamt gleicht die Daten nach § 28 im Benehmen
 mit den statistischen Ämtern der Länder ab und prüft sie
@@ -1147,6 +1187,7 @@ nach § 22 mit den Daten nach § 28 ab.
 
 
 ### § 30 Verarbeitung der Hilfsmerkmale zur Merkmalsgenerierung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003200000)
 
 Die Hilfsmerkmale nach den §§ 6, 10 Absatz 2, § 13 Absatz 2 und § 16
 dürfen verwendet werden, um neue Merkmale zu Typ und Größe der Familie
@@ -1154,6 +1195,7 @@ und des Haushalts zu generieren und zu speichern.
 
 
 ### § 31 Trennung und Löschung der Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003300000)
 
 (1) Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum
 frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren oder
@@ -1172,6 +1214,7 @@ Zensus, spätestens vier Jahre nach dem Zensusstichtag, zu vernichten.
 
 
 ### § 32 Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003400000)
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und
 für Zwecke der Planung, jedoch nicht für die Regelung von
@@ -1196,6 +1239,7 @@ jedoch zwei Jahre nach Übermittlung, zu löschen.
 
 
 ### § 33 Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003501126)
 
 (1) Als Grundlage für Gebäude-, Wohnungs- und Bevölkerungsstichproben,
 die als Bundes- oder Landesstatistiken durchgeführt werden, dürfen die
@@ -1229,6 +1273,7 @@ aus einer künftigen Zählung zur Verfügung stehen.
 
 
 ### § 34 Bereitstellung der Zensusdaten für die statistischen Ämter der Länder
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003601126)
 
 Nach Abschluss aller Aufbereitungsschritte ist das Statistische
 Bundesamt verpflichtet, auf Anfrage eines statistischen Landesamts für
@@ -1242,15 +1287,18 @@ ausschließlich statistische Zwecke des Landes im Rahmen des § 1 Absatz
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNG001100000)
 
 
 ### § 35 Kosten der Übermittlungen an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003700000)
 
 Die Kosten der Datenübermittlungen an das Statistische Bundesamt
 werden nicht erstattet.
 
 
 ### § 36 Finanzzuweisung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003800000)
 
 Der Bund gewährt den Ländern zum Ausgleich der Kosten der Vorbereitung
 und der Durchführung des registergestützten Zensus am 1. Juli 2021
@@ -1262,6 +1310,7 @@ Verwaltungsvereinbarung zwischen den Ländern bis spätestens 31. März
 
 
 ### § 36a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE004000126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -1307,6 +1356,7 @@ Zensus 2022 zu gewährleisten.
 
 
 ### § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2021/BJNR185100019.html#BJNR185100019BJNE003900000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

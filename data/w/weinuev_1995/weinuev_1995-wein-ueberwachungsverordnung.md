@@ -23,11 +23,13 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG000301320)
 
 
 Vorschriftswidrige Erzeugnisse
 
 ### § 1 (zu § 27 Abs. 2 und § 33 Nr. 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000202310)
 
 (1) Wein, dessen Gehalt an flüchtiger Säure den zulässigen Wert
 übersteigt (essigstichiger Wein), darf zu
@@ -119,6 +121,7 @@ Bezeichnungsvorschriften ergeben.
 Ausnahmegenehmigung
 
 ### § 2 (zu § 27 Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000403310)
 
 (1) Die zuständige Stelle kann bei gesundheitlicher Unbedenklichkeit
 zur Vermeidung unbilliger Härten im Einzelfall durch
@@ -163,6 +166,7 @@ richtet sich bei
 Versuchsgenehmigung
 
 ### § 3 (zu § 27 Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE004205116)
 
 (1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder
 Europäischen Union nichts anderes bestimmt ist, kann die zuständige
@@ -181,6 +185,7 @@ im Übrigen gilt § 2 Abs. 2 entsprechend.
 Vergällung von Weintrub
 
 ### § 4 (zu § 28 Abs. 3 Nr. 1 und 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000501320)
 
 Die Vergällung von Weintrub darf nur mit
 
@@ -195,11 +200,13 @@ in einem Liter vorgenommen werden.
 
 
 ## Abschnitt 2 - Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG004301320)
 
 
 Buchführungspflichtiger Personenkreis
 
 ### § 5 (zu § 29 Abs. 1 Satz 1 Nr. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000603310)
 
 (1) Über den nach Artikel 36 Absatz 1 der Verordnung (EG) Nr. 436/2009
 der Kommission vom 26. Mai 2009 mit Durchführungsbestimmungen zur
@@ -239,6 +246,7 @@ nicht übersteigt.
 Eingangs- und Ausgangsbücher
 
 ### § 6 (zu § 29 Abs. 1 Satz 1 Nr. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000703310)
 
 Ein- und Ausgangsbücher im Sinne des Titels III Kapitel III der
 Verordnung (EG) Nr. 436/2009 sind:
@@ -260,6 +268,7 @@ Verordnung (EG) Nr. 436/2009 sind:
 Kellerbuch und Weinbuch
 
 ### § 7 (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000804116)
 
 (1) Buchführungspflichtige nach Artikel 36 Absatz 1 der Verordnung
 (EG) Nr. 436/2009 haben ein Kellerbuch und ein Weinbuch zu führen.
@@ -432,6 +441,7 @@ Mengenverluste, die die in Satz 1 festgesetzten Höchstsätze
 Buch des Geschäftsvermittlers
 
 ### § 8 (zu § 29 Abs. 1 Satz 1 Nr. 1 und 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE000901320)
 
 Geschäftsvermittler haben für die von ihnen vermittelten Erzeugnisse
 ein Buch mit folgenden Angaben zu führen:
@@ -466,6 +476,7 @@ werden und in zeitlicher Reihenfolge geordnet vorliegen.
 Stoffbuch
 
 ### § 9 (zu § 29 Abs. 1 Satz 1 Nr. 1 und 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001003310)
 
 In das Stoffbuch sind von den in Artikel 43 Absatz 1 Satz 1 der
 Verordnung (EG) Nr. 436/2009 genannten Buchführungspflichtigen die
@@ -477,6 +488,7 @@ betroffene Erzeugnis gesondert einzutragen.
 Zusätzliche Pflichten
 
 ### § 10 (zu § 29 Abs. 1 Satz 1 Nr. 1 und 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001103310)
 
 (1) Behältnisse, die nicht abgefüllte Erzeugnisse enthalten, und
 Flaschenstapel sind so mit Merkzeichen zu versehen, dass sie nicht
@@ -533,6 +545,7 @@ Eintragung in bestimmte Register bleiben unberührt.
 Ausnahmen und Erleichterungen
 
 ### § 11 (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 erster Halbsatz i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001204310)
 
 (1) Soweit Erzeuger selbst erzeugte Trauben abgeben, ohne dass eine
 der in Artikel 41 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr.
@@ -555,6 +568,7 @@ erfolgen.
 Buchführungsverfahren
 
 ### § 12 (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 erster Halbsatz i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001304310)
 
 (1) Buchführungsverfahren nach Artikel 38 Absatz 1 Unterabsatz 1
 Buchstabe c der Verordnung (EG) Nr. 436/2009 sind von der zuständigen
@@ -585,6 +599,7 @@ Stelle.
 Analysenbuchführung
 
 ### § 13 (zu § 29 Abs. 1 Satz 1 Nr. 3 und Abs. 2 erster Halbsatz i. V. m. § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001402310)
 
 (1) Wer die für Erzeugnisse vorgeschriebenen analytischen
 Untersuchungen durchführt, hat ein Analysenbuch zu führen. Aus dem
@@ -621,6 +636,7 @@ Kalenderjahres, in dem die letzte Eintragung gemacht worden ist.
 Herbstbuch, tägliche Erntefeststellung
 
 ### § 14 (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Nr. 1 und 2 i.V.m. § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001501320)
 
 (1) Wer Weintrauben erntet, hat täglich
 
@@ -652,6 +668,7 @@ numerieren und gesammelt aufzubewahren.
 Vereinfachte Regelungen
 
 ### § 15 (zu § 29 Abs. 1 Satz 1 Nr. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001602310)
 
 Die Eintragungen im Herbstbuch können die Eintragungen in das
 Kellerbuch, das Weinbuch und das Stoffbuch bis zum 15. Januar des auf
@@ -663,6 +680,7 @@ Korrekturbuchungen zu bereinigen.
 Buchführung, Ermächtigungen
 
 ### § 16 (zu § 29 Abs. 1 Satz 1 Nr. 1 und Abs. 2 Nr. 1, 2, 3 Buchstabe a, Nr. 6 und 8 i.V.m. § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001701320)
 
 Die Landesregierungen können durch Rechtsverordnung bestimmen, dass
 die Weinbaubetriebe über die nach dieser Verordnung zu führenden
@@ -676,6 +694,7 @@ sowie die Dauer ihrer Aufbewahrung, zu regeln.
 Art der Eintragungen
 
 ### § 17 (zu § 29 Abs. 2 erster Halbsatz des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001801320)
 
 Die Angaben in den Ein- und Ausgangsbüchern einschließlich des
 Registerbuches, im Herbstbuch, im Analysenbuch und in der
@@ -687,11 +706,13 @@ nur gemacht werden, soweit dadurch die Übersichtlichkeit nicht leidet.
 
 
 ## Abschnitt 3 - Begleitpapiere
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG004401320)
 
 
 Ausnahmevorschrift
 
 ### § 18 (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE001902116)
 
 Ein Begleitpapier braucht nicht ausgestellt zu werden für die
 Beförderung von Weintrauben, Maische und Most aus eigener Erzeugung
@@ -714,6 +735,7 @@ Weinbereitungsanlage des Erzeugerzusammenschlusses. Satz 1 gilt bei
 Vorgeschriebenes Begleitpapier für nicht abgefüllte Erzeugnisse
 
 ### § 19 (zu § 30 Satz 1 Nummer 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002004116)
 
 Für die ausschließlich im Inland stattfindende Beförderung von
 Weinbauerzeugnissen in Behältnissen mit einem Nennvolumen von mehr als
@@ -723,6 +745,7 @@ aufgeführten Muster zu verwenden.
 Begleitpapier, Hektarertrag
 
 ### § 20 (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002103310)
 
 (1) Wer eine nicht abgefüllte Übermenge eines inländischen
 Erzeugnisses an andere abgibt, hat in das Begleitpapier deutlich
@@ -742,6 +765,7 @@ einzutragen. Absatz 1 Satz 2 gilt entsprechend.
 Ergänzende Vorschriften für den Versand von Teilmengen
 
 ### § 21 (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002203310)
 
 Die nach Anhang VI Abschnitt A Nummer 8 Satz 2 der Verordnung (EG) Nr.
 436/2009 erforderlichen Vermerke über Mischungen sind auf dem
@@ -758,6 +782,7 @@ Satz 3 aufzubewahren. § 22 Abs. 1 bleibt unberührt.
 Kontrollvorschriften
 
 ### § 22 (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002306116)
 
 (1) Wer ein Erzeugnis des Weinsektors innerhalb der Union in Verkehr
 bringt, hat das amtlich zugelassene Begleitdokument im Sinne des
@@ -817,6 +842,7 @@ ist entsprechend anzuwenden.
 Begleitpapier, Ermächtigungen
 
 ### § 23 (zu § 30 Satz 1 Nummer 2 i. V. m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002404116)
 
 Die Landesregierungen können durch Rechtsverordnung bestimmen, dass
 der zur Ausstellung des Begleitpapiers Verpflichtete
@@ -836,6 +862,7 @@ der zur Ausstellung des Begleitpapiers Verpflichtete
 Begleitpapier, ergänzende Vorschrift
 
 ### § 24 (zu § 30 Satz 1 Nr. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002504310)
 
 Bei unvergorenen Erzeugnissen, die ausschließlich im Inland befördert
 werden, darf nach Maßgabe des Artikels 47 Absatz 1 Buchstabe d der
@@ -844,11 +871,13 @@ Volumenmasse die Dichte in Grad Oechsle angegeben werden.
 
 
 ## Abschnitt 4 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG004501320)
 
 
 Durchführung der Überwachung
 
 ### § 25 (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002601320)
 
 Im Rahmen der Überwachung sind Rückstellproben der amtlichen
 Qualitätsweinprüfung zur Feststellung der Identität sowie bei der
@@ -857,6 +886,7 @@ Herbstkontrolle Proben des geernteten Lesegutes zu entnehmen.
 Handhabung der Überprüfung
 
 ### § 26 (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002701320)
 
 (1) Überprüfungen von Betrieben sind regelmäßig ohne Voranmeldung und
 so durchzuführen, dass in den Betriebsablauf nicht über das notwendige
@@ -869,6 +899,7 @@ Maßnahme in Kenntnis zu setzen.
 Entnahme von Proben
 
 ### § 27 (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002803310)
 
 (1) Bei Überprüfungen sind regelmäßig Proben von Erzeugnissen zur
 analytischen und sensorischen Prüfung zu entnehmen.
@@ -887,6 +918,7 @@ Probe verzichten.
 Zusammenarbeit der Überwachungsbehörden
 
 ### § 28 (zu § 31 Abs. 4 Nr. 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE002901320)
 
 (1) Die für die Überwachung zuständigen Stellen haben sich bei
 Feststellungen von Zuwiderhandlungen gegen weinrechtliche Vorschriften
@@ -911,11 +943,13 @@ zu gewährleisten.
 
 
 ## Abschnitt 5 - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG004601320)
 
 
 Meldungen, Hektarerträge
 
 ### § 29 (zu § 33 Nr. 1 bis 3 i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003008116)
 
 (1) Die Erntemeldung, die Erzeugungsmeldung und die Bestandsmeldung
 nach der Verordnung (EG) Nr. 436/2009 sind den zuständigen Stellen auf
@@ -988,6 +1022,7 @@ Endverbraucher nicht mehr als 100 Liter Wein abgibt.
 Meldungen über önologische Verfahren
 
 ### § 30 (zu § 31 Abs. 4 Nr. 3 und § 33 Abs. 1 Nr. 6, jeweils i.V.m. § 53 Abs. 1 sowie § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE005304360)
 
 (1) Zuständige Behörde für die Meldung über
 
@@ -1040,6 +1075,7 @@ im Voraus erstattet wird.
 Ermächtigungen
 
 ### § 31 (zu § 33 Nr. 2 bis 4 i.V.m. § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003201320)
 
 Die Landesregierungen können durch Rechtsverordnung vorschreiben, dass
 und in welcher Weise die in § 9 Abs. 1 Satz 1 des Weingesetzes
@@ -1065,11 +1101,13 @@ zu melden sind.
 
 
 ## Abschnitt 6 - Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG004701320)
 
 
 Zulassung zur Einfuhr, amtliche Untersuchung und Prüfung
 
 ### § 32 (zu § 36 Abs. 1 Satz 1 und 2 Nr. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003302310)
 
 (1) Wein einschließlich Perlwein und Perlwein mit zugesetzter
 Kohlensäure, Schaumwein, Schaumwein mit zugesetzter Kohlensäure,
@@ -1105,6 +1143,7 @@ abgesehen werden.
 Befreiung von der Zulassung zur Einfuhr
 
 ### § 33 (zu § 36 Abs. 1 Satz 1 und 2 Nr. 6 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003402320)
 
 (1) Von der Zulassung zur Einfuhr sind befreit
 
@@ -1155,6 +1194,7 @@ Befreiung von der Zulassung zur Einfuhr
 Amtliche Untersuchung und Prüfung durch Stichproben
 
 ### § 34 (zu § 36 Abs. 1 Satz 1 und 2 Nr. 7 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003503310)
 
 Die amtliche Untersuchung und Prüfung kann stichprobenweise
 vorgenommen werden, wenn das Dokument nach Artikel 43 Absatz 1
@@ -1164,6 +1204,7 @@ Unterabsatz 2 Satz 1 oder Artikel 44 Absatz 2 Satz 1 der Verordnung
 Zuständigkeit für die Erteilung der Zulassung
 
 ### § 35 (zu § 36 Abs. 1 Satz 1 und 2 Nr. 2, 3 und 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003604310)
 
 (1) Über die Zulassung zur Einfuhr entscheiden die zuständigen
 Zolldienststellen. Dabei prüfen sie, ob das Dokument nach Artikel 43
@@ -1247,6 +1288,7 @@ gesetzten Frist nicht nach, sind sie auf seine Kosten zu vernichten.
 Probenahme und Kosten
 
 ### § 36 (zu § 36 Abs. 1 Satz 2 Nr. 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003701320)
 
 (1) Die Zolldienststelle darf die für die Untersuchung erforderlichen
 Muster und Proben unentgeltlich entnehmen.
@@ -1264,6 +1306,7 @@ werden Kosten nicht erhoben.
 Zollanschlüsse, Freihäfen, vorübergehende Ausfuhr
 
 ### § 37 (zu § 36 Abs. 1 Satz 1 und 2 Nr. 6 i.V.m. § 54 Abs. 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003802310)
 
 (1) Die amtliche Untersuchung und Prüfung kann entfallen bei
 Erzeugnissen, die aus Freihäfen eingeführt werden, wenn nachgewiesen
@@ -1293,6 +1336,7 @@ Voraussetzungen entsprechen.
 Einfuhr weinhaltiger Getränke
 
 ### § 38 (zu § 35 Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE003905360)
 
 (1) In einem Drittland hergestellte weinhaltige Getränke dürfen nur
 eingeführt werden, wenn die gesamte Herstellung in demselben Staat
@@ -1311,10 +1355,12 @@ Behandlungen angewendet worden sind.
 
 
 ## Abschnitt 7 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG004801320)
 
 
 
 ### § 39 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE004001320)
 
 Nach § 48 Abs. 1 Nr. 2, Abs. 2, 3 des Weingesetzes wird bestraft, wer
 vorsätzlich oder fahrlässig
@@ -1331,6 +1377,7 @@ vorsätzlich oder fahrlässig
 
 
 ### § 40 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE004903116)
 
 Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -1410,10 +1457,12 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNG005001320)
 
 
 
 ### § 41 Fortbestehen anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE004101320)
 
 Bis zum 31. August 1997 ist § 2 Abs. 1 der Wein-Überwachungs-
 Verordnung vom 14. Januar 1991 (BGBl. I S. 78), die zuletzt durch
@@ -1432,6 +1481,7 @@ weiter anzuwenden.
 (zu § 35 Abs. 4 Nr. 1)
 
 ### Anlage 1 Untersuchungsstellen für das Erstgutachten bei Einfuhruntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE005106310)
 
 (Fundstelle: BGBl. I 2005, 3382;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1501,6 +1551,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 35 Abs. 4 Nr. 2)
 
 ### Anlage 2 Untersuchungsstellen für das Zweitgutachten bei Einfuhruntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE005205310)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3382
 
@@ -1532,6 +1583,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 3382
 (zu § 19)
 
 ### Anlage 3 Muster für ein Begleitpapier
+[Direktlink](https://www.gesetze-im-internet.de/wein_v_1995/BJNR065500995.html#BJNR065500995BJNE005400116)
 
 (Fundstelle: BGBl. I 2016, 4)
 

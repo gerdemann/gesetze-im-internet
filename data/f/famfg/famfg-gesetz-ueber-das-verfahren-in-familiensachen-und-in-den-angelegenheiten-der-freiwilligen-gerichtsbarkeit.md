@@ -24,12 +24,15 @@ Mittelbare änderung durch
 
 
 ## Buch 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000200000)
 
 Dieses Gesetz gilt für das Verfahren in Familiensachen sowie in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit, soweit sie durch
@@ -37,6 +40,7 @@ Bundesgesetz den Gerichten zugewiesen sind.
 
 
 #### § 2 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000300000)
 
 (1) Unter mehreren örtlich zuständigen Gerichten ist das Gericht
 zuständig, das zuerst mit der Angelegenheit befasst ist.
@@ -49,6 +53,7 @@ von einem örtlich unzuständigen Gericht vorgenommen worden sind.
 
 
 #### § 3 Verweisung bei Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000400000)
 
 (1) Ist das angerufene Gericht örtlich oder sachlich unzuständig, hat
 es sich, sofern das zuständige Gericht bestimmt werden kann, durch
@@ -70,6 +75,7 @@ bezeichneten Gericht anfallen.
 
 
 #### § 4 Abgabe an ein anderes Gericht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000500000)
 
 Das Gericht kann die Sache aus wichtigem Grund an ein anderes Gericht
 abgeben, wenn sich dieses zur Übernahme der Sache bereit erklärt hat.
@@ -77,6 +83,7 @@ Vor der Abgabe sollen die Beteiligten angehört werden.
 
 
 #### § 5 Gerichtliche Bestimmung der Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000600000)
 
 (1) Das zuständige Gericht wird durch das nächsthöhere gemeinsame
 Gericht bestimmt:
@@ -114,6 +121,7 @@ anfechtbar.
 
 
 #### § 6 Ausschließung und Ablehnung der Gerichtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000700000)
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
 die §§ 41 bis 49 der Zivilprozessordnung entsprechend. Ausgeschlossen
@@ -126,6 +134,7 @@ Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar.
 
 
 #### § 7 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000800000)
 
 (1) In Antragsverfahren ist der Antragsteller Beteiligter.
 
@@ -161,6 +170,7 @@ dadurch nicht Beteiligter.
 
 
 #### § 8 Beteiligtenfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE000900000)
 
 Beteiligtenfähig sind
 
@@ -178,6 +188,7 @@ Beteiligtenfähig sind
 
 
 #### § 9 Verfahrensfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001001160)
 
 (1) Verfahrensfähig sind
 
@@ -215,6 +226,7 @@ Verschulden eines Beteiligten gleich.
 
 
 #### § 10 Bevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001101160)
 
 (1) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist,
 können die Beteiligten das Verfahren selbst betreiben.
@@ -274,6 +286,7 @@ auftreten, dem sie angehören.
 
 
 #### § 11 Verfahrensvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001200000)
 
 Die Vollmacht ist schriftlich zu den Gerichtsakten einzureichen. Sie
 kann nachgereicht werden; hierfür kann das Gericht eine Frist
@@ -285,6 +298,7 @@ und 89 der Zivilprozessordnung entsprechend.
 
 
 #### § 12 Beistand
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001300000)
 
 Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand
 kann sein, wer in Verfahren, in denen die Beteiligten das Verfahren
@@ -298,6 +312,7 @@ oder berichtigt wird.
 
 
 #### § 13 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001402125)
 
 (1) Die Beteiligten können die Gerichtsakten auf der Geschäftsstelle
 einsehen, soweit nicht schwerwiegende Interessen eines Beteiligten
@@ -333,6 +348,7 @@ Kollegialgerichten der Vorsitzende.
 
 
 #### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001507125)
 
 (1) Die Gerichtsakten können elektronisch geführt werden. § 298a
 Absatz 2 der Zivilprozessordnung gilt entsprechend.
@@ -427,6 +443,7 @@ Behörden und Gerichten geltenden Standards bestimmen.
 
 
 #### § 14a Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050404125)
 
 Das Bundesministerium der Justiz kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates elektronische Formulare einführen. Die
@@ -443,6 +460,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 
 
 #### § 14b Nutzungspflicht für Rechtsanwälte, Notare und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050501125)
 
 (1) Bei Gericht schriftlich einzureichende Anträge und Erklärungen
 sind durch einen Rechtsanwalt, durch einen Notar, durch eine Behörde
@@ -465,6 +483,7 @@ ist auf Anforderung ein elektronisches Dokument nachzureichen.
 
 
 #### § 15 Bekanntgabe; formlose Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001601125)
 
 (1) Dokumente, deren Inhalt eine Termins- oder Fristbestimmung enthält
 oder den Lauf einer Frist auslöst, sind den Beteiligten bekannt zu
@@ -483,6 +502,7 @@ Beteiligten formlos mitgeteilt werden.
 
 
 #### § 16 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001700000)
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist,
 mit der Bekanntgabe.
@@ -492,6 +512,7 @@ der Zivilprozessordnung entsprechend.
 
 
 #### § 17 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001800000)
 
 (1) War jemand ohne sein Verschulden verhindert, eine gesetzliche
 Frist einzuhalten, ist ihm auf Antrag Wiedereinsetzung in den vorigen
@@ -502,6 +523,7 @@ Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist.
 
 
 #### § 18 Antrag auf Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE001901308)
 
 (1) Der Antrag auf Wiedereinsetzung ist binnen zwei Wochen nach
 Wegfall des Hindernisses zu stellen. Ist der Beteiligte verhindert,
@@ -523,6 +545,7 @@ bewilligt werden.
 
 
 #### § 19 Entscheidung über die Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002000000)
 
 (1) Über die Wiedereinsetzung entscheidet das Gericht, das über die
 versäumte Rechtshandlung zu befinden hat.
@@ -534,12 +557,14 @@ anfechtbar, die für die versäumte Rechtshandlung gelten.
 
 
 #### § 20 Verfahrensverbindung und -trennung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002100000)
 
 Das Gericht kann Verfahren verbinden oder trennen, soweit es dies für
 sachdienlich hält.
 
 
 #### § 21 Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002200000)
 
 (1) Das Gericht kann das Verfahren aus wichtigem Grund aussetzen,
 insbesondere wenn die Entscheidung ganz oder zum Teil von dem Bestehen
@@ -553,6 +578,7 @@ Anwendung der §§ 567 bis 572 der Zivilprozessordnung anfechtbar.
 
 
 #### § 22 Antragsrücknahme; Beendigungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002300000)
 
 (1) Ein Antrag kann bis zur Rechtskraft der Endentscheidung
 zurückgenommen werden. Die Rücknahme bedarf nach Erlass der
@@ -572,6 +598,7 @@ eingeleitet werden können.
 
 
 #### § 22a Mitteilungen an die Familien- und Betreuungsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002400000)
 
 (1) Wird infolge eines gerichtlichen Verfahrens eine Tätigkeit des
 Familien- oder Betreuungsgerichts erforderlich, hat das Gericht dem
@@ -590,9 +617,11 @@ entgegensteht.
 
 
 ### Abschnitt 2 - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000300000)
 
 
 #### § 23 Verfahrenseinleitender Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002501308)
 
 (1) Ein verfahrenseinleitender Antrag soll begründet werden. In dem
 Antrag sollen die zur Begründung dienenden Tatsachen und Beweismittel
@@ -611,6 +640,7 @@ werden.
 
 
 #### § 24 Anregung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002600000)
 
 (1) Soweit Verfahren von Amts wegen eingeleitet werden können, kann
 die Einleitung eines Verfahrens angeregt werden.
@@ -622,6 +652,7 @@ ist.
 
 
 #### § 25 Anträge und Erklärungen zur Niederschrift der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002701125)
 
 (1) Die Beteiligten können Anträge und Erklärungen gegenüber dem
 zuständigen Gericht schriftlich oder zur Niederschrift der
@@ -646,6 +677,7 @@ Niederschrift dort eingeht.
 
 
 #### § 26 Ermittlung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002800000)
 
 Das Gericht hat von Amts wegen die zur Feststellung der
 entscheidungserheblichen Tatsachen erforderlichen Ermittlungen
@@ -653,6 +685,7 @@ durchzuführen.
 
 
 #### § 27 Mitwirkung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE002900000)
 
 (1) Die Beteiligten sollen bei der Ermittlung des Sachverhalts
 mitwirken.
@@ -662,6 +695,7 @@ vollständig und der Wahrheit gemäß abzugeben.
 
 
 #### § 28 Verfahrensleitung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003001308)
 
 (1) Das Gericht hat darauf hinzuwirken, dass die Beteiligten sich
 rechtzeitig über alle erheblichen Tatsachen erklären und ungenügende
@@ -689,6 +723,7 @@ Form des § 14 Abs. 3 ist möglich.
 
 
 #### § 29 Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003100000)
 
 (1) Das Gericht erhebt die erforderlichen Beweise in geeigneter Form.
 Es ist hierbei an das Vorbringen der Beteiligten nicht gebunden.
@@ -702,6 +737,7 @@ machen.
 
 
 #### § 30 Förmliche Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003201125)
 
 (1) Das Gericht entscheidet nach pflichtgemäßem Ermessen, ob es die
 entscheidungserheblichen Tatsachen durch eine förmliche Beweisaufnahme
@@ -732,6 +768,7 @@ sind unanfechtbar.
 
 
 #### § 31 Glaubhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003300000)
 
 (1) Wer eine tatsächliche Behauptung glaubhaft zu machen hat, kann
 sich aller Beweismittel bedienen, auch zur Versicherung an Eides statt
@@ -742,6 +779,7 @@ unstatthaft.
 
 
 #### § 32 Termin
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003401125)
 
 (1) Das Gericht kann die Sache mit den Beteiligten in einem Termin
 erörtern. Die §§ 219, 227 Abs. 1, 2 und 4 der Zivilprozessordnung
@@ -762,6 +800,7 @@ sind unanfechtbar.
 
 
 #### § 33 Persönliches Erscheinen der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003501125)
 
 (1) Das Gericht kann das persönliche Erscheinen eines Beteiligten zu
 einem Termin anordnen und ihn anhören, wenn dies zur Aufklärung des
@@ -794,6 +833,7 @@ hinzuweisen.
 
 
 #### § 34 Persönliche Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003601125)
 
 (1) Das Gericht hat einen Beteiligten persönlich anzuhören,
 
@@ -822,6 +862,7 @@ gestatten. § 32 Absatz 3 gilt entsprechend.
 
 
 #### § 35 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003702308)
 
 (1) Ist auf Grund einer gerichtlichen Anordnung die Verpflichtung zur
 Vornahme oder Unterlassung einer Handlung durchzusetzen, kann das
@@ -855,6 +896,7 @@ bis 572 der Zivilprozessordnung anfechtbar.
 
 
 #### § 36 Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003801308)
 
 (1) Die Beteiligten können einen Vergleich schließen, soweit sie über
 den Gegenstand des Verfahrens verfügen können. Das Gericht soll außer
@@ -881,6 +923,7 @@ Verfahren vor dem Güterichter gelten die Absätze 1 bis 4 entsprechend.
 
 
 #### § 36a Mediation, außergerichtliche Konfliktbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049800308)
 
 (1) Das Gericht kann einzelnen oder allen Beteiligten eine Mediation
 oder ein anderes Verfahren der außergerichtlichen Konfliktbeilegung
@@ -897,6 +940,7 @@ außergerichtlichen Konfliktbeilegung unberührt.
 
 
 #### § 37 Grundlage der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE003900000)
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem gesamten
 Inhalt des Verfahrens gewonnenen Überzeugung.
@@ -907,9 +951,11 @@ stützen, zu denen dieser Beteiligte sich äußern konnte.
 
 
 ### Abschnitt 3 - Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000400000)
 
 
 #### § 38 Entscheidung durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004000000)
 
 (1) Das Gericht entscheidet durch Beschluss, soweit durch die
 Entscheidung der Verfahrensgegenstand ganz oder teilweise erledigt
@@ -978,6 +1024,7 @@ entsprechend.
 
 
 #### § 39 Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004101308)
 
 Jeder Beschluss hat eine Belehrung über das statthafte Rechtsmittel,
 den Einspruch, den Widerspruch oder die Erinnerung sowie das Gericht,
@@ -987,6 +1034,7 @@ Sprungrechtsbeschwerde muss nicht belehrt werden.
 
 
 #### § 40 Wirksamwerden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004200000)
 
 (1) Der Beschluss wird wirksam mit Bekanntgabe an den Beteiligten, für
 den er seinem wesentlichen Inhalt nach bestimmt ist.
@@ -1008,6 +1056,7 @@ Bekanntgabe an den Antragsteller wirksam.
 
 
 #### § 41 Bekanntgabe des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004301125)
 
 (1) Der Beschluss wird den Beteiligten in beglaubigter Abschrift
 bekannt gegeben; Ausfertigungen werden nur auf Antrag und nur in
@@ -1026,6 +1075,7 @@ genehmigt wird, bekannt zu geben.
 
 
 #### § 42 Berichtigung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004400000)
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
 im Beschluss sind jederzeit vom Gericht auch von Amts wegen zu
@@ -1045,6 +1095,7 @@ anfechtbar.
 
 
 #### § 43 Ergänzung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004500000)
 
 (1) Wenn ein Antrag, der nach den Verfahrensakten von einem
 Beteiligten gestellt wurde, ganz oder teilweise übergangen oder die
@@ -1057,6 +1108,7 @@ beantragt werden.
 
 
 #### § 44 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004600000)
 
 (1) Auf die Rüge eines durch eine Entscheidung beschwerten Beteiligten
 ist das Verfahren fortzuführen, wenn
@@ -1096,6 +1148,7 @@ Verfahren fortführt, soweit dies auf Grund der Rüge geboten ist.
 
 
 #### § 45 Formelle Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004700000)
 
 Die Rechtskraft eines Beschlusses tritt nicht ein, bevor die Frist für
 die Einlegung des zulässigen Rechtsmittels oder des zulässigen
@@ -1106,6 +1159,7 @@ eingelegt wird.
 
 
 #### § 46 Rechtskraftzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004801160)
 
 Das Zeugnis über die Rechtskraft eines Beschlusses ist auf Grund der
 Verfahrensakten von der Geschäftsstelle des Gerichts des ersten
@@ -1119,6 +1173,7 @@ Geschäftsstelle ist mit der Erinnerung in entsprechender Anwendung des
 
 
 #### § 47 Wirksam bleibende Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE004900000)
 
 Ist ein Beschluss ungerechtfertigt, durch den jemand die Fähigkeit
 oder die Befugnis erlangt, ein Rechtsgeschäft vorzunehmen oder eine
@@ -1129,6 +1184,7 @@ nicht von Anfang an unwirksam ist.
 
 
 #### § 48 Abänderung und Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005000000)
 
 (1) Das Gericht des ersten Rechtszugs kann eine rechtskräftige
 Endentscheidung mit Dauerwirkung aufheben oder ändern, wenn sich die
@@ -1148,9 +1204,11 @@ oder deren Verweigerung einem Dritten gegenüber wirksam geworden ist.
 
 
 ### Abschnitt 4 - Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000500000)
 
 
 #### § 49 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005100000)
 
 (1) Das Gericht kann durch einstweilige Anordnung eine vorläufige
 Maßnahme treffen, soweit dies nach den für das Rechtsverhältnis
@@ -1165,6 +1223,7 @@ Durchführung erforderlichen Anordnungen treffen.
 
 
 #### § 50 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005200000)
 
 (1) Zuständig ist das Gericht, das für die Hauptsache im ersten
 Rechtszug zuständig wäre. Ist eine Hauptsache anhängig, ist das
@@ -1180,6 +1239,7 @@ abzugeben.
 
 
 #### § 51 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005300000)
 
 (1) Die einstweilige Anordnung wird nur auf Antrag erlassen, wenn ein
 entsprechendes Hauptsacheverfahren nur auf Antrag eingeleitet werden
@@ -1204,6 +1264,7 @@ die allgemeinen Vorschriften.
 
 
 #### § 52 Einleitung des Hauptsacheverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005400000)
 
 (1) Ist eine einstweilige Anordnung erlassen, hat das Gericht auf
 Antrag eines Beteiligten das Hauptsacheverfahren einzuleiten. Das
@@ -1222,6 +1283,7 @@ aufzuheben.
 
 
 #### § 53 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005500000)
 
 (1) Eine einstweilige Anordnung bedarf der Vollstreckungsklausel nur,
 wenn die Vollstreckung für oder gegen einen anderen als den in dem
@@ -1235,6 +1297,7 @@ Anordnung mit Erlass wirksam.
 
 
 #### § 54 Aufhebung oder Änderung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005600000)
 
 (1) Das Gericht kann die Entscheidung in der einstweiligen
 Anordnungssache aufheben oder ändern. Die Aufhebung oder Änderung
@@ -1257,6 +1320,7 @@ Entscheidung durch das erstinstanzliche Gericht unzulässig.
 
 
 #### § 55 Aussetzung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005701160)
 
 (1) In den Fällen des § 54 kann das Gericht, im Fall des § 57 das
 Rechtsmittelgericht, die Vollstreckung einer einstweiligen Anordnung
@@ -1267,6 +1331,7 @@ vorab zu entscheiden.
 
 
 #### § 56 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005800000)
 
 (1) Die einstweilige Anordnung tritt, sofern nicht das Gericht einen
 früheren Zeitpunkt bestimmt hat, bei Wirksamwerden einer anderweitigen
@@ -1298,6 +1363,7 @@ Gegen den Beschluss findet die Beschwerde statt.
 
 
 #### § 57 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE005902308)
 
 Entscheidungen in Verfahren der einstweiligen Anordnung in
 Familiensachen sind nicht anfechtbar. Dies gilt nicht in Verfahren
@@ -1325,12 +1391,15 @@ entschieden hat.
 
 
 ### Abschnitt 5 - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000600000)
 
 
 #### Unterabschnitt 1 - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000700000)
 
 
 ##### § 58 Statthaftigkeit der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006000000)
 
 (1) Die Beschwerde findet gegen die im ersten Rechtszug ergangenen
 Endentscheidungen der Amtsgerichte und Landgerichte in Angelegenheiten
@@ -1343,6 +1412,7 @@ vorausgegangen sind.
 
 
 ##### § 59 Beschwerdeberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006100000)
 
 (1) Die Beschwerde steht demjenigen zu, der durch den Beschluss in
 seinen Rechten beeinträchtigt ist.
@@ -1356,6 +1426,7 @@ besonderen Vorschriften dieses oder eines anderen Gesetzes.
 
 
 ##### § 60 Beschwerderecht Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006200000)
 
 Ein Kind, für das die elterliche Sorge besteht, oder ein unter
 Vormundschaft stehender Mündel kann in allen seine Person betreffenden
@@ -1368,6 +1439,7 @@ das 14. Lebensjahr nicht vollendet haben.
 
 
 ##### § 61 Beschwerdewert; Zulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006300000)
 
 (1) In vermögensrechtlichen Angelegenheiten ist die Beschwerde nur
 zulässig, wenn der Wert des Beschwerdegegenstandes 600 Euro
@@ -1393,6 +1465,7 @@ Das Beschwerdegericht ist an die Zulassung gebunden.
 
 
 ##### § 62 Statthaftigkeit der Beschwerde nach Erledigung der Hauptsache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006402125)
 
 (1) Hat sich die angefochtene Entscheidung in der Hauptsache erledigt,
 spricht das Beschwerdegericht auf Antrag aus, dass die Entscheidung
@@ -1419,6 +1492,7 @@ Beschwerde eingelegt, gelten die Absätze 1 und 2 entsprechend.
 
 
 ##### § 63 Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006501308)
 
 (1) Die Beschwerde ist, soweit gesetzlich keine andere Frist bestimmt
 ist, binnen einer Frist von einem Monat einzulegen.
@@ -1441,6 +1515,7 @@ mit Ablauf von fünf Monaten nach Erlass des Beschlusses.
 
 
 ##### § 64 Einlegung der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006603125)
 
 (1) Die Beschwerde ist bei dem Gericht einzulegen, dessen Beschluss
 angefochten wird. Anträge auf Bewilligung von Verfahrenskostenhilfe
@@ -1463,6 +1538,7 @@ Vollziehung des angefochtenen Beschlusses auszusetzen ist.
 
 
 ##### § 65 Beschwerdebegründung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006701308)
 
 (1) Die Beschwerde soll begründet werden.
 
@@ -1477,6 +1553,7 @@ des ersten Rechtszugs seine Zuständigkeit zu Unrecht angenommen hat.
 
 
 ##### § 66 Anschlussbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006801160)
 
 Ein Beteiligter kann sich der Beschwerde anschließen, selbst wenn er
 auf die Beschwerde verzichtet hat oder die Beschwerdefrist verstrichen
@@ -1487,6 +1564,7 @@ unzulässig verworfen wird.
 
 
 ##### § 67 Verzicht auf die Beschwerde; Rücknahme der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE006901160)
 
 (1) Die Beschwerde ist unzulässig, wenn der Beschwerdeführer hierauf
 nach Bekanntgabe des Beschlusses durch Erklärung gegenüber dem Gericht
@@ -1507,6 +1585,7 @@ zurücknehmen.
 
 
 ##### § 68 Gang des Beschwerdeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007001125)
 
 (1) Hält das Gericht, dessen Beschluss angefochten wird, die
 Beschwerde für begründet, hat es ihr abzuhelfen; anderenfalls ist die
@@ -1558,6 +1637,7 @@ folgenden Entscheidungen in Betracht kommt:
 
 
 ##### § 69 Beschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007100000)
 
 (1) Das Beschwerdegericht hat in der Sache selbst zu entscheiden. Es
 darf die Sache unter Aufhebung des angefochtenen Beschlusses und des
@@ -1577,9 +1657,11 @@ hat, auch seiner Entscheidung zugrunde zu legen.
 
 
 #### Unterabschnitt 2 - Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000800000)
 
 
 ##### § 70 Statthaftigkeit der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007203125)
 
 (1) Die Rechtsbeschwerde eines Beteiligten ist statthaft, wenn sie das
 Beschwerdegericht oder das Oberlandesgericht im ersten Rechtszug in
@@ -1627,6 +1709,7 @@ die Rechtsbeschwerde nicht statt.
 
 
 ##### § 71 Frist und Form der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007300000)
 
 (1) Die Rechtsbeschwerde ist binnen einer Frist von einem Monat nach
 der schriftlichen Bekanntgabe des Beschlusses durch Einreichen einer
@@ -1679,6 +1762,7 @@ Beteiligten bekannt zu geben.
 
 
 ##### § 72 Gründe der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007400000)
 
 (1) Die Rechtsbeschwerde kann nur darauf gestützt werden, dass die
 angefochtene Entscheidung auf einer Verletzung des Rechts beruht. Das
@@ -1694,6 +1778,7 @@ entsprechend.
 
 
 ##### § 73 Anschlussrechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007501160)
 
 Ein Beteiligter kann sich bis zum Ablauf einer Frist von einem Monat
 nach der Bekanntgabe der Begründungsschrift der Rechtsbeschwerde durch
@@ -1707,6 +1792,7 @@ unzulässig verworfen oder nach § 74a Abs. 1 zurückgewiesen wird.
 
 
 ##### § 74 Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007600000)
 
 (1) Das Rechtsbeschwerdegericht hat zu prüfen, ob die Rechtsbeschwerde
 an sich statthaft ist und ob sie in der gesetzlichen Form und Frist
@@ -1750,6 +1836,7 @@ einheitlichen Rechtsprechung beizutragen.
 
 
 ##### § 74a Zurückweisungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007700000)
 
 (1) Das Rechtsbeschwerdegericht weist die vom Beschwerdegericht
 zugelassene Rechtsbeschwerde durch einstimmigen Beschluss ohne
@@ -1770,6 +1857,7 @@ enthalten sind.
 
 
 ##### § 75 Sprungrechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007801308)
 
 (1) Gegen die im ersten Rechtszug erlassenen Beschlüsse, die ohne
 Zulassung der Beschwerde unterliegen, findet auf Antrag unter
@@ -1794,9 +1882,11 @@ Zivilprozessordnung entsprechend.
 
 
 ### Abschnitt 6 - Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG000900000)
 
 
 #### § 76 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE007900000)
 
 (1) Auf die Bewilligung von Verfahrenskostenhilfe finden die
 Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe
@@ -1809,6 +1899,7 @@ bis 572, 127 Abs. 2 bis 4 der Zivilprozessordnung anfechtbar.
 
 
 #### § 77 Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008002311)
 
 (1) Vor der Bewilligung der Verfahrenskostenhilfe kann das Gericht den
 übrigen Beteiligten Gelegenheit zur Stellungnahme geben. In
@@ -1824,6 +1915,7 @@ Abgabe der Vermögensauskunft und der Versicherung an Eides statt.
 
 
 #### § 78 Beiordnung eines Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008100000)
 
 (1) Ist eine Vertretung durch einen Rechtsanwalt vorgeschrieben, wird
 dem Beteiligten ein zur Vertretung bereiter Rechtsanwalt seiner Wahl
@@ -1850,14 +1942,17 @@ ordnet der Vorsitzende ihm auf Antrag einen Rechtsanwalt bei.
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008200000)
 
 (entfallen)
 
 
 ### Abschnitt 7 - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001000000)
 
 
 #### § 80 Umfang der Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008300000)
 
 Kosten sind die Gerichtskosten (Gebühren und Auslagen) und die zur
 Durchführung des Verfahrens notwendigen Aufwendungen der Beteiligten.
@@ -1865,6 +1960,7 @@ Durchführung des Verfahrens notwendigen Aufwendungen der Beteiligten.
 
 
 #### § 81 Grundsatz der Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008402308)
 
 (1) Das Gericht kann die Kosten des Verfahrens nach billigem Ermessen
 den Beteiligten ganz oder zum Teil auferlegen. Es kann auch anordnen,
@@ -1912,12 +2008,14 @@ regeln, bleiben unberührt.
 
 
 #### § 82 Zeitpunkt der Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008500000)
 
 Ergeht eine Entscheidung über die Kosten, hat das Gericht hierüber in
 der Endentscheidung zu entscheiden.
 
 
 #### § 83 Kostenpflicht bei Vergleich, Erledigung und Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008600000)
 
 (1) Wird das Verfahren durch Vergleich erledigt und haben die
 Beteiligten keine Bestimmung über die Kosten getroffen, fallen die
@@ -1929,24 +2027,29 @@ zurückgenommen, gilt § 81 entsprechend.
 
 
 #### § 84 Rechtsmittelkosten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008700000)
 
 Das Gericht soll die Kosten eines ohne Erfolg eingelegten
 Rechtsmittels dem Beteiligten auferlegen, der es eingelegt hat.
 
 
 #### § 85 Kostenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008800000)
 
 Die §§ 103 bis 107 der Zivilprozessordnung über die Festsetzung des zu
 erstattenden Betrags sind entsprechend anzuwenden.
 
 
 ### Abschnitt 8 - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001100000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001200000)
 
 
 ##### § 86 Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE008900000)
 
 (1) Die Vollstreckung findet statt aus
 
@@ -1971,6 +2074,7 @@ erlassen hat.
 
 
 ##### § 87 Verfahren; Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009001125)
 
 (1) Das Gericht wird in Verfahren, die von Amts wegen eingeleitet
 werden können, von Amts wegen tätig und bestimmt die im Fall der
@@ -1996,9 +2100,11 @@ entsprechend.
 
 
 #### Unterabschnitt 2 - Vollstreckung von Entscheidungen über die Herausgabe von Personen und die Regelung des Umgangs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001300000)
 
 
 ##### § 88 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009101311)
 
 (1) Die Vollstreckung erfolgt durch das Gericht, in dessen Bezirk die
 Person zum Zeitpunkt der Einleitung der Vollstreckung ihren
@@ -2012,6 +2118,7 @@ Unterstützung.
 
 
 ##### § 89 Ordnungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009201160)
 
 (1) Bei der Zuwiderhandlung gegen einen Vollstreckungstitel zur
 Herausgabe von Personen und zur Regelung des Umgangs kann das Gericht
@@ -2038,6 +2145,7 @@ die Festsetzung aufgehoben.
 
 
 ##### § 90 Anwendung unmittelbaren Zwanges
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009300000)
 
 (1) Das Gericht kann durch ausdrücklichen Beschluss zur Vollstreckung
 unmittelbaren Zwang anordnen, wenn
@@ -2062,6 +2170,7 @@ mit milderen Mitteln nicht möglich ist.
 
 
 ##### § 91 Richterlicher Durchsuchungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009401160)
 
 (1) Die Wohnung des Verpflichteten darf ohne dessen Einwilligung nur
 auf Grund eines richterlichen Beschlusses durchsucht werden. Dies gilt
@@ -2081,6 +2190,7 @@ gegenüber Mitgewahrsamsinhabern sind zu vermeiden.
 
 
 ##### § 92 Vollstreckungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009500000)
 
 (1) Vor der Festsetzung von Ordnungsmitteln ist der Verpflichtete zu
 hören. Dies gilt auch für die Anordnung von unmittelbarem Zwang, es
@@ -2099,6 +2209,7 @@ Anordnung von unmittelbarem Zwang nicht entgegen.
 
 
 ##### § 93 Einstellung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009600000)
 
 (1) Das Gericht kann durch Beschluss die Vollstreckung einstweilen
 einstellen oder beschränken und Vollstreckungsmaßregeln aufheben, wenn
@@ -2129,6 +2240,7 @@ Aufhebung von Vollstreckungsmaßregeln gelten § 775 Nr. 1 und 2 und §
 
 
 ##### § 94 Eidesstattliche Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009701160)
 
 Wird eine herauszugebende Person nicht vorgefunden, kann das Gericht
 anordnen, dass der Verpflichtete eine eidesstattliche Versicherung
@@ -2137,9 +2249,11 @@ Zivilprozessordnung gilt entsprechend.
 
 
 #### Unterabschnitt 3 - Vollstreckung nach der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001400000)
 
 
 ##### § 95 Anwendung der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009800000)
 
 (1) Soweit in den vorstehenden Unterabschnitten nichts Abweichendes
 bestimmt ist, sind auf die Vollstreckung
@@ -2183,6 +2297,7 @@ nicht etwas anderes bestimmt.
 
 
 ##### § 96 Vollstreckung in Verfahren nach dem Gewaltschutzgesetz und in Ehewohnungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE009902125)
 
 (1) Handelt der Verpflichtete einer Anordnung nach § 1 des
 Gewaltschutzgesetzes zuwider, eine Handlung zu unterlassen, kann der
@@ -2202,6 +2317,7 @@ Zustellung an den Verpflichteten bedarf es nicht.
 
 
 ##### § 96a Vollstreckung in Abstammungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010000000)
 
 (1) Die Vollstreckung eines durch rechtskräftigen Beschluss oder
 gerichtlichen Vergleich titulierten Anspruchs nach § 1598a des
@@ -2217,12 +2333,15 @@ Vorführung zur Untersuchung angeordnet werden.
 
 
 ### Abschnitt 9 - Verfahren mit Auslandsbezug
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001500000)
 
 
 #### Unterabschnitt 1 - Verhältnis zu völkerrechtlichen Vereinbarungen und Rechtsakten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001601125)
 
 
 ##### § 97 Vorrang und Unberührtheit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010101125)
 
 (1) Regelungen in völkerrechtlichen Vereinbarungen gehen, soweit sie
 unmittelbar anwendbares innerstaatliches Recht geworden sind, den
@@ -2235,9 +2354,11 @@ unberührt.
 
 
 #### Unterabschnitt 2 - Internationale Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001700000)
 
 
 ##### § 98 Ehesachen; Verbund von Scheidungs- und Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010202125)
 
 (1) Die deutschen Gerichte sind für Ehesachen zuständig, wenn
 
@@ -2275,6 +2396,7 @@ Folgesachen.
 
 
 ##### § 99 Kindschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010301160)
 
 (1) Die deutschen Gerichte sind außer in Verfahren nach § 151 Nr. 7
 zuständig, wenn das Kind
@@ -2312,6 +2434,7 @@ Nr. 5 und 6.
 
 
 ##### § 100 Abstammungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010400000)
 
 Die deutschen Gerichte sind zuständig, wenn das Kind, die Mutter, der
 Vater oder der Mann, der an Eides statt versichert, der Mutter während
@@ -2327,6 +2450,7 @@ der Empfängniszeit beigewohnt zu haben,
 
 
 ##### § 101 Adoptionssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010500000)
 
 Die deutschen Gerichte sind zuständig, wenn der Annehmende, einer der
 annehmenden Ehegatten oder das Kind
@@ -2341,6 +2465,7 @@ annehmenden Ehegatten oder das Kind
 
 
 ##### § 102 Versorgungsausgleichssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010600000)
 
 Die deutschen Gerichte sind zuständig, wenn
 
@@ -2359,6 +2484,7 @@ Die deutschen Gerichte sind zuständig, wenn
 
 
 ##### § 103 Lebenspartnerschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010700000)
 
 (1) Die deutschen Gerichte sind in Lebenspartnerschaftssachen, die die
 Aufhebung der Lebenspartnerschaft auf Grund des
@@ -2388,6 +2514,7 @@ Folgesachen.
 
 
 ##### § 104 Betreuungs- und Unterbringungssachen; Pflegschaft für Erwachsene
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010803125)
 
 (1) Die deutschen Gerichte sind zuständig, wenn der Betroffene oder
 der volljährige Pflegling
@@ -2410,21 +2537,25 @@ anzuwenden.
 
 
 ##### § 105 Andere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE010900000)
 
 In anderen Verfahren nach diesem Gesetz sind die deutschen Gerichte
 zuständig, wenn ein deutsches Gericht örtlich zuständig ist.
 
 
 ##### § 106 Keine ausschließliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011000000)
 
 Die Zuständigkeiten in diesem Unterabschnitt sind nicht
 ausschließlich.
 
 
 #### Unterabschnitt 3 - Anerkennung und Vollstreckbarkeit ausländischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001800000)
 
 
 ##### § 107 Anerkennung ausländischer Entscheidungen in Ehesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011100000)
 
 (1) Entscheidungen, durch die im Ausland eine Ehe für nichtig erklärt,
 aufgehoben, dem Ehebande nach oder unter Aufrechterhaltung des
@@ -2488,6 +2619,7 @@ Anerkennung nach dieser Vorschrift gleich.
 
 
 ##### § 108 Anerkennung anderer ausländischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011201125)
 
 (1) Abgesehen von Entscheidungen in Ehesachen sowie von Entscheidungen
 nach § 1 Absatz 2 des Adoptionswirkungsgesetzes werden ausländische
@@ -2519,6 +2651,7 @@ Diese Zuständigkeiten sind ausschließlich.
 
 
 ##### § 109 Anerkennungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011301160)
 
 (1) Die Anerkennung einer ausländischen Entscheidung ist
 ausgeschlossen,
@@ -2588,6 +2721,7 @@ Entscheidung findet nicht statt.
 
 
 ##### § 110 Vollstreckbarkeit ausländischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011400000)
 
 (1) Eine ausländische Entscheidung ist nicht vollstreckbar, wenn sie
 nicht anzuerkennen ist.
@@ -2605,12 +2739,15 @@ für dieses Gericht geltenden Recht die Rechtskraft erlangt hat.
 
 
 ## Buch 2 - Verfahren in Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG001900000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002000000)
 
 
 #### § 111 Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011501160)
 
 Familiensachen sind
 
@@ -2651,6 +2788,7 @@ Familiensachen sind
 
 
 #### § 112 Familienstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011601160)
 
 Familienstreitsachen sind folgende Familiensachen:
 
@@ -2670,6 +2808,7 @@ Familienstreitsachen sind folgende Familiensachen:
 
 
 #### § 113 Anwendung von Vorschriften der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011702308)
 
 (1) In Ehesachen und Familienstreitsachen sind die §§ 2 bis 22, 23 bis
 37, 40 bis 45, 46 Satz 1 und 2 sowie die §§ 47 und 48 sowie 76 bis 96
@@ -2739,6 +2878,7 @@ Bezeichnung
 
 
 #### § 114 Vertretung durch einen Rechtsanwalt; Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011804125)
 
 (1) Vor dem Familiengericht und dem Oberlandesgericht müssen sich die
 Ehegatten in Ehesachen und Folgesachen und die Beteiligten in
@@ -2793,6 +2933,7 @@ erstreckt sich auch auf die Folgesachen.
 
 
 #### § 115 Zurückweisung von Angriffs- und Verteidigungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE011900000)
 
 In Ehesachen und Familienstreitsachen können Angriffs- und
 Verteidigungsmittel, die nicht rechtzeitig vorgebracht werden,
@@ -2804,6 +2945,7 @@ Vorschriften zuzulassen.
 
 
 #### § 116 Entscheidung durch Beschluss; Wirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012000000)
 
 (1) Das Gericht entscheidet in Familiensachen durch Beschluss.
 
@@ -2816,6 +2958,7 @@ enthält, soll das Gericht die sofortige Wirksamkeit anordnen.
 
 
 #### § 117 Rechtsmittel in Ehe- und Familienstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012102308)
 
 (1) In Ehesachen und Familienstreitsachen hat der Beschwerdeführer zur
 Begründung der Beschwerde einen bestimmten Sachantrag zu stellen und
@@ -2845,6 +2988,7 @@ Begründung der Beschwerde und Rechtsbeschwerde gelten die §§ 233 und
 
 
 #### § 118 Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012200000)
 
 Für die Wiederaufnahme des Verfahrens in Ehesachen und
 Familienstreitsachen gelten die §§ 578 bis 591 der Zivilprozessordnung
@@ -2852,6 +2996,7 @@ entsprechend.
 
 
 #### § 119 Einstweilige Anordnung und Arrest
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012300000)
 
 (1) In Familienstreitsachen sind die Vorschriften dieses Gesetzes über
 die einstweilige Anordnung anzuwenden. In Familienstreitsachen nach §
@@ -2863,6 +3008,7 @@ entsprechend.
 
 
 #### § 120 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012400000)
 
 (1) Die Vollstreckung in Ehesachen und Familienstreitsachen erfolgt
 entsprechend den Vorschriften der Zivilprozessordnung über die
@@ -2881,12 +3027,15 @@ ehelichen Lebens unterliegt nicht der Vollstreckung.
 
 
 ### Abschnitt 2 - Verfahren in Ehesachen; Verfahren in Scheidungssachen und Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002100000)
 
 
 #### Unterabschnitt 1 - Verfahren in Ehesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002200000)
 
 
 ##### § 121 Ehesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012500000)
 
 Ehesachen sind Verfahren
 
@@ -2904,6 +3053,7 @@ Ehesachen sind Verfahren
 
 
 ##### § 122 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012601311)
 
 Ausschließlich zuständig ist in dieser Rangfolge:
 
@@ -2945,6 +3095,7 @@ Ausschließlich zuständig ist in dieser Rangfolge:
 
 
 ##### § 123 Abgabe bei Anhängigkeit mehrerer Ehesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012700000)
 
 Sind Ehesachen, die dieselbe Ehe betreffen, bei verschiedenen
 Gerichten im ersten Rechtszug anhängig, sind, wenn nur eines der
@@ -2956,6 +3107,7 @@ entsprechend.
 
 
 ##### § 124 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012800000)
 
 Das Verfahren in Ehesachen wird durch Einreichung einer Antragsschrift
 anhängig. Die Vorschriften der Zivilprozessordnung über die
@@ -2963,6 +3115,7 @@ Klageschrift gelten entsprechend.
 
 
 ##### § 125 Verfahrensfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE012901160)
 
 (1) In Ehesachen ist ein in der Geschäftsfähigkeit beschränkter
 Ehegatte verfahrensfähig.
@@ -2974,6 +3127,7 @@ des Familien- oder Betreuungsgerichts.
 
 
 ##### § 126 Mehrere Ehesachen; Ehesachen und andere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013000000)
 
 (1) Ehesachen, die dieselbe Ehe betreffen, können miteinander
 verbunden werden.
@@ -2987,6 +3141,7 @@ auszusprechen.
 
 
 ##### § 127 Eingeschränkte Amtsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013100000)
 
 (1) Das Gericht hat von Amts wegen die zur Feststellung der
 entscheidungserheblichen Tatsachen erforderlichen Ermittlungen
@@ -3004,6 +3159,7 @@ worden sind.
 
 
 ##### § 128 Persönliches Erscheinen der Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013200000)
 
 (1) Das Gericht soll das persönliche Erscheinen der Ehegatten anordnen
 und sie anhören. Die Anhörung eines Ehegatten hat in Abwesenheit des
@@ -3028,6 +3184,7 @@ Ordnungshaft ist ausgeschlossen.
 
 
 ##### § 129 Mitwirkung der Verwaltungsbehörde oder dritter Personen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013300000)
 
 (1) Beantragt die zuständige Verwaltungsbehörde oder bei Verstoß gegen
 § 1306 des Bürgerlichen Gesetzbuchs die dritte Person die Aufhebung
@@ -3044,6 +3201,7 @@ zwischen den Beteiligten gelten die Sätze 1 und 2 entsprechend.
 
 
 ##### § 129a Vorrang- und Beschleunigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051500311)
 
 Das Vorrang- und Beschleunigungsgebot (§ 155 Absatz 1) gilt
 entsprechend für Verfahren auf Aufhebung einer Ehe wegen
@@ -3054,6 +3212,7 @@ denn, die Ehegatten sind zu diesem Zeitpunkt volljährig.
 
 
 ##### § 130 Säumnis der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013400000)
 
 (1) Die Versäumnisentscheidung gegen den Antragsteller ist dahin zu
 erlassen, dass der Antrag als zurückgenommen gilt.
@@ -3063,12 +3222,14 @@ Entscheidung nach Aktenlage ist unzulässig.
 
 
 ##### § 131 Tod eines Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013500000)
 
 Stirbt ein Ehegatte, bevor die Endentscheidung in der Ehesache
 rechtskräftig ist, gilt das Verfahren als in der Hauptsache erledigt.
 
 
 ##### § 132 Kosten bei Aufhebung der Ehe
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013601311)
 
 (1) Wird die Aufhebung der Ehe ausgesprochen, sind die Kosten des
 Verfahrens gegeneinander aufzuheben. Erscheint dies im Hinblick
@@ -3088,9 +3249,11 @@ werden.
 
 
 #### Unterabschnitt 2 - Verfahren in Scheidungssachen und Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002300000)
 
 
 ##### § 133 Inhalt der Antragsschrift
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013701160)
 
 (1) Die Antragsschrift muss enthalten:
 
@@ -3117,6 +3280,7 @@ werden.
 
 
 ##### § 134 Zustimmung zur Scheidung und zur Rücknahme; Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013800000)
 
 (1) Die Zustimmung zur Scheidung und zur Rücknahme des
 Scheidungsantrags kann zur Niederschrift der Geschäftsstelle oder in
@@ -3131,6 +3295,7 @@ des Gerichts erklärt werden.
 
 
 ##### § 135 Außergerichtliche Konfliktbeilegung über Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE013901308)
 
 Das Gericht kann anordnen, dass die Ehegatten einzeln oder gemeinsam
 an einem kostenfreien Informationsgespräch über Mediation oder eine
@@ -3142,6 +3307,7 @@ durchsetzbar.
 
 
 ##### § 136 Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014000000)
 
 (1) Das Gericht soll das Verfahren von Amts wegen aussetzen, wenn nach
 seiner freien Überzeugung Aussicht auf Fortsetzung der Ehe besteht.
@@ -3161,6 +3327,7 @@ nahelegen, eine Eheberatung in Anspruch zu nehmen.
 
 
 ##### § 137 Verbund von Scheidungs- und Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014102160)
 
 (1) Über Scheidung und Folgesachen ist zusammen zu verhandeln und zu
 entscheiden (Verbund).
@@ -3210,6 +3377,7 @@ selbständige Verfahren fortgeführt.
 
 
 ##### § 138 Beiordnung eines Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014200000)
 
 (1) Ist in einer Scheidungssache der Antragsgegner nicht anwaltlich
 vertreten, hat das Gericht ihm für die Scheidungssache und eine
@@ -3227,6 +3395,7 @@ können.
 
 
 ##### § 139 Einbeziehung weiterer Beteiligter und dritter Personen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014300000)
 
 (1) Sind außer den Ehegatten weitere Beteiligte vorhanden, werden
 vorbereitende Schriftsätze, Ausfertigungen oder Abschriften diesen nur
@@ -3241,6 +3410,7 @@ Verhandlung ist.
 
 
 ##### § 140 Abtrennung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014400000)
 
 (1) Wird in einer Unterhaltsfolgesache oder Güterrechtsfolgesache
 außer den Ehegatten eine weitere Person Beteiligter des Verfahrens,
@@ -3295,6 +3465,7 @@ nicht selbständig anfechtbar.
 
 
 ##### § 141 Rücknahme des Scheidungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014500000)
 
 Wird ein Scheidungsantrag zurückgenommen, erstrecken sich die
 Wirkungen der Rücknahme auch auf die Folgesachen. Dies gilt nicht für
@@ -3307,6 +3478,7 @@ werden als selbständige Familiensachen fortgeführt.
 
 
 ##### § 142 Einheitliche Endentscheidung; Abweisung des Scheidungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014601160)
 
 (1) Im Fall der Scheidung ist über sämtliche im Verbund stehenden
 Familiensachen durch einheitlichen Beschluss zu entscheiden. Dies gilt
@@ -3324,6 +3496,7 @@ Beschlussformel Bezug genommen werden.
 
 
 ##### § 143 Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014700000)
 
 Wird im Fall des § 142 Abs. 1 Satz 2 gegen die Versäumnisentscheidung
 Einspruch und gegen den Beschluss im Übrigen ein Rechtsmittel
@@ -3332,6 +3505,7 @@ Versäumnisentscheidung zu verhandeln und zu entscheiden.
 
 
 ##### § 144 Verzicht auf Anschlussrechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014800000)
 
 Haben die Ehegatten auf Rechtsmittel gegen den Scheidungsausspruch
 verzichtet, können sie auch auf dessen Anfechtung im Wege der
@@ -3340,6 +3514,7 @@ ein solches Rechtsmittel eingelegt ist.
 
 
 ##### § 145 Befristung und Einschränkung von Rechtsmittelerweiterung und Anschlussrechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE014902311)
 
 (1) Ist eine nach § 142 einheitlich ergangene Entscheidung teilweise
 durch Beschwerde oder Rechtsbeschwerde angefochten worden, können
@@ -3363,6 +3538,7 @@ kann der Scheidungsausspruch nicht angefochten werden.
 
 
 ##### § 146 Zurückverweisung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015000000)
 
 (1) Wird eine Entscheidung aufgehoben, durch die der Scheidungsantrag
 abgewiesen wurde, soll das Rechtsmittelgericht die Sache an das
@@ -3377,6 +3553,7 @@ Antrag anordnen, dass über die Folgesachen verhandelt wird.
 
 
 ##### § 147 Erweiterte Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015100000)
 
 Wird eine Entscheidung auf Rechtsbeschwerde teilweise aufgehoben, kann
 das Rechtsbeschwerdegericht auf Antrag eines Beteiligten die
@@ -3391,12 +3568,14 @@ beantragt werden.
 
 
 ##### § 148 Wirksamwerden von Entscheidungen in Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015200000)
 
 Vor Rechtskraft des Scheidungsausspruchs werden die Entscheidungen in
 Folgesachen nicht wirksam.
 
 
 ##### § 149 Erstreckung der Bewilligung von Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015301160)
 
 Die Bewilligung der Verfahrenskostenhilfe für die Scheidungssache
 erstreckt sich auf eine Versorgungsausgleichsfolgesache, sofern nicht
@@ -3404,6 +3583,7 @@ eine Erstreckung ausdrücklich ausgeschlossen wird.
 
 
 ##### § 150 Kosten in Scheidungssachen und Folgesachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015401308)
 
 (1) Wird die Scheidung der Ehe ausgesprochen, sind die Kosten der
 Scheidungssache und der Folgesachen gegeneinander aufzuheben.
@@ -3438,9 +3618,11 @@ anzuwenden.
 
 
 ### Abschnitt 3 - Verfahren in Kindschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002400000)
 
 
 #### § 151 Kindschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015504125)
 
 Kindschaftssachen sind die dem Familiengericht zugewiesenen Verfahren,
 die
@@ -3483,6 +3665,7 @@ betreffen.
 
 
 #### § 152 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015601125)
 
 (1) Während der Anhängigkeit einer Ehesache ist unter den deutschen
 Gerichten das Gericht, bei dem die Ehesache im ersten Rechtszug
@@ -3504,6 +3687,7 @@ Vormundschaft oder Pflegschaft anhängig ist.
 
 
 #### § 153 Abgabe an das Gericht der Ehesache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015700000)
 
 Wird eine Ehesache rechtshängig, während eine Kindschaftssache, die
 ein gemeinschaftliches Kind der Ehegatten betrifft, bei einem anderen
@@ -3513,6 +3697,7 @@ Zivilprozessordnung gilt entsprechend.
 
 
 #### § 154 Verweisung bei einseitiger Änderung des Aufenthalts des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015800000)
 
 Das nach § 152 Abs. 2 zuständige Gericht kann ein Verfahren an das
 Gericht des früheren gewöhnlichen Aufenthaltsorts des Kindes
@@ -3524,6 +3709,7 @@ oder des betreuenden Elternteils erforderlich war.
 
 
 #### § 155 Vorrang- und Beschleunigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE015901308)
 
 (1) Kindschaftssachen, die den Aufenthalt des Kindes, das Umgangsrecht
 oder die Herausgabe des Kindes betreffen, sowie Verfahren wegen
@@ -3548,6 +3734,7 @@ Regelung erzielen.
 
 
 #### § 155a Verfahren zur Übertragung der gemeinsamen elterlichen Sorge
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050001125)
 
 (1) Die nachfolgenden Bestimmungen dieses Paragrafen gelten für das
 Verfahren nach § 1626a Absatz 2 des Bürgerlichen Gesetzbuchs. Im
@@ -3585,6 +3772,7 @@ Erörterungstermin zur Niederschrift des Gerichts erklärt werden. §
 
 
 #### § 155b Beschleunigungsrüge
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051100311)
 
 (1) Ein Beteiligter in einer in § 155 Absatz 1 bestimmten
 Kindschaftssache kann geltend machen, dass die bisherige
@@ -3605,6 +3793,7 @@ Sinne des § 198 Absatz 3 Satz 1 des Gerichtsverfassungsgesetzes.
 
 
 #### § 155c Beschleunigungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051200311)
 
 (1) Der Beschluss nach § 155b Absatz 2 Satz 1 kann von dem Beteiligten
 innerhalb einer Frist von zwei Wochen nach der schriftlichen
@@ -3637,6 +3826,7 @@ dem Gericht. Die Absätze 2 und 3 gelten entsprechend.
 
 
 #### § 156 Hinwirken auf Einvernehmen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016001308)
 
 (1) Das Gericht soll in Kindschaftssachen, die die elterliche Sorge
 bei Trennung und Scheidung, den Aufenthalt des Kindes, das
@@ -3677,6 +3867,7 @@ persönlich anhören.
 
 
 #### § 157 Erörterung der Kindeswohlgefährdung; einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016101308)
 
 (1) In Verfahren nach den §§ 1666 und 1666a des Bürgerlichen
 Gesetzbuchs soll das Gericht mit den Eltern und in geeigneten Fällen
@@ -3695,6 +3886,7 @@ einstweiligen Anordnung zu prüfen.
 
 
 #### § 158 Bestellung des Verfahrensbeistands
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016205360)
 
 (1) Das Gericht hat dem minderjährigen Kind in Kindschaftssachen, die
 seine Person betreffen, einen fachlich und persönlich geeigneten
@@ -3759,6 +3951,7 @@ anfechtbar.
 
 
 #### § 158a Eignung des Verfahrensbeistands
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052802360)
 
 (1) Fachlich geeignet im Sinne des § 158 Absatz 1 ist eine Person, die
 Grundkenntnisse auf den Gebieten des Familienrechts, insbesondere des
@@ -3795,6 +3988,7 @@ Straftat enthält.
 
 
 #### § 158b Aufgaben und Rechtsstellung des Verfahrensbeistands
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052901125)
 
 (1) Der Verfahrensbeistand hat das Interesse des Kindes festzustellen
 und im gerichtlichen Verfahren zur Geltung zu bringen. Er soll zu
@@ -3830,6 +4024,7 @@ Vertreter des Kindes.
 
 
 #### § 158c Vergütung; Kosten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE053002125)
 
 (1) Der Verfahrensbeistand erhält für die Wahrnehmung seiner Aufgaben
 in jedem Rechtszug jeweils eine einmalige Vergütung von 690 Euro.
@@ -3856,6 +4051,7 @@ anzuwenden.
 
 
 #### § 159 Persönliche Anhörung des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016301125)
 
 (1) Das Gericht hat das Kind persönlich anzuhören und sich einen
 persönlichen Eindruck von dem Kind zu verschaffen.
@@ -3907,6 +4103,7 @@ im Ermessen des Gerichts.
 
 
 #### § 160 Anhörung der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016400000)
 
 (1) In Verfahren, die die Person des Kindes betreffen, soll das
 Gericht die Eltern persönlich anhören. In Verfahren nach den §§ 1666
@@ -3926,6 +4123,7 @@ unverzüglich nachzuholen.
 
 
 #### § 161 Mitwirkung der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016500000)
 
 (1) Das Gericht kann in Verfahren, die die Person des Kindes
 betreffen, die Pflegeperson im Interesse des Kindes als Beteiligte
@@ -3939,6 +4137,7 @@ seit längerer Zeit in Familienpflege lebt.
 
 
 #### § 162 Mitwirkung des Jugendamts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016601308)
 
 (1) Das Gericht hat in Verfahren, die die Person des Kindes betreffen,
 das Jugendamt anzuhören. Unterbleibt die Anhörung wegen Gefahr im
@@ -3955,6 +4154,7 @@ steht dem Jugendamt die Beschwerde zu.
 
 
 #### § 163 Sachverständigengutachten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016702311)
 
 (1) In Verfahren nach § 151 Nummer 1 bis 3 ist das Gutachten durch
 einen geeigneten Sachverständigen zu erstatten, der mindestens über
@@ -3975,12 +4175,14 @@ Beteiligten hinwirken soll.
 
 
 #### § 163a Ausschluss der Vernehmung des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051300311)
 
 Eine Vernehmung des Kindes als Zeuge oder als Beteiligter findet nicht
 statt.
 
 
 #### § 164 Bekanntgabe der Entscheidung an das Kind
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016800000)
 
 Die Entscheidung, gegen die das Kind das Beschwerderecht ausüben kann,
 ist dem Kind selbst bekannt zu machen, wenn es das 14. Lebensjahr
@@ -3991,6 +4193,7 @@ nicht anzuwenden.
 
 
 #### § 165 Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE016900000)
 
 (1) Macht ein Elternteil geltend, dass der andere Elternteil die
 Durchführung einer gerichtlichen Entscheidung oder eines gerichtlich
@@ -4037,6 +4240,7 @@ Verfahrens behandelt.
 
 
 #### § 166 Abänderung und Überprüfung von Entscheidungen und gerichtlich gebilligten Vergleichen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017001125)
 
 (1) Das Gericht ändert eine Entscheidung oder einen gerichtlich
 gebilligten Vergleich nach Maßgabe des § 1696 des Bürgerlichen
@@ -4052,6 +4256,7 @@ angemessenen Zeitabstand, in der Regel nach drei Monaten, überprüfen.
 
 
 #### § 167 Anwendbare Vorschriften bei Unterbringung Minderjähriger und bei freiheitsentziehenden Maßnahmen bei Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017103311)
 
 (1) In Verfahren nach § 151 Nummer 6 sind die für Unterbringungssachen
 nach § 312 Nummer 1 und 2, in Verfahren nach § 151 Nummer 7 die für
@@ -4097,6 +4302,7 @@ von einem Jahr, wenn sie nicht vorher verlängert werden.
 
 
 #### § 167a Besondere Vorschriften für Verfahren nach § 1686a des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050300311)
 
 (1) Anträge auf Erteilung des Umgangs- oder Auskunftsrechts nach §
 1686a des Bürgerlichen Gesetzbuchs sind nur zulässig, wenn der
@@ -4113,6 +4319,7 @@ es sei denn, dass ihr die Untersuchung nicht zugemutet werden kann.
 
 
 #### § 167b Genehmigungsverfahren nach § 1631e des Bürgerlichen Gesetzbuchs; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052700125)
 
 (1) In Verfahren nach § 1631e Absatz 3 des Bürgerlichen Gesetzbuchs
 erteilt das Gericht die Genehmigung im schriftlichen Verfahren, sofern
@@ -4145,6 +4352,7 @@ hinaus vereinbaren.
 
 
 #### § 168 Auswahl des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017202125)
 
 (1) Hat das Gericht einen Vormund zu bestellen, so soll es bei der
 Auswahl auch nahestehende Familienangehörige sowie Personen des
@@ -4163,6 +4371,7 @@ geschäftsunfähig ist, gilt § 291 entsprechend.
 
 
 #### § 168a Inhalt der Beschlussformel und Wirksamwerden der Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051700125)
 
 (1) Die Beschlussformel enthält im Fall der Bestellung eines Vormunds
 auch
@@ -4194,6 +4403,7 @@ entsprechend.
 
 
 #### § 168b Bestellungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051800125)
 
 (1) Der Vormund erhält eine Urkunde über seine Bestellung. Die Urkunde
 soll enthalten:
@@ -4224,6 +4434,7 @@ Bestellungsurkunde oder die Bescheinigung zurückzugeben.
 
 
 #### § 168c Anhörung in wichtigen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051900125)
 
 Das Gericht soll vor Entscheidungen in wichtigen Angelegenheiten auch
 nahestehende Familienangehörige des Mündels anhören, wenn dies ohne
@@ -4231,12 +4442,14 @@ erhebliche Verzögerung geschehen kann.
 
 
 #### § 168d Verfahren zur Festsetzung von Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052000125)
 
 Für das Verfahren zur Festsetzung von Zahlungen an den Vormund ist §
 292 Absatz 1 und Absatz 3 bis 6 entsprechend anzuwenden.
 
 
 #### § 168e Beendigung der Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052100125)
 
 Bestehen Zweifel oder Uneinigkeit, ob und wann die Vormundschaft
 beendet ist, stellt das Gericht die Beendigung der Vormundschaft und
@@ -4244,6 +4457,7 @@ den Zeitpunkt der Beendigung durch Beschluss fest.
 
 
 #### § 168f Pflegschaft für Minderjährige
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052200125)
 
 Auf die Pflegschaft für Minderjährige sind die für die Vormundschaft
 geltenden Vorschriften entsprechend anzuwenden. Die Beschlussformel
@@ -4252,6 +4466,7 @@ der ihm übertragenen Angelegenheiten.
 
 
 #### § 168g Mitteilungspflichten des Standesamts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017306125)
 
 (1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges
 Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des
@@ -4273,9 +4488,11 @@ Familiengericht mit.
 
 
 ### Abschnitt 4 - Verfahren in Abstammungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002500000)
 
 
 #### § 169 Abstammungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017400000)
 
 Abstammungssachen sind Verfahren
 
@@ -4299,6 +4516,7 @@ Abstammungssachen sind Verfahren
 
 
 #### § 170 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017500000)
 
 (1) Ausschließlich zuständig ist das Gericht, in dessen Bezirk das
 Kind seinen gewöhnlichen Aufenthalt hat.
@@ -4312,6 +4530,7 @@ ist das Amtsgericht Schöneberg in Berlin ausschließlich zuständig.
 
 
 #### § 171 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017601311)
 
 (1) Das Verfahren wird durch einen Antrag eingeleitet.
 
@@ -4324,6 +4543,7 @@ bekannt wurden.
 
 
 #### § 172 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017700000)
 
 (1) Zu beteiligen sind
 
@@ -4343,12 +4563,14 @@ Antrag zu beteiligen.
 
 
 #### § 173 Vertretung eines Kindes durch einen Beistand
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017800000)
 
 Wird das Kind durch das Jugendamt als Beistand vertreten, ist die
 Vertretung durch den sorgeberechtigten Elternteil ausgeschlossen.
 
 
 #### § 174 Verfahrensbeistand
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE017902125)
 
 Das Gericht hat einem minderjährigen Beteiligten in Abstammungssachen
 einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung
@@ -4357,6 +4579,7 @@ entsprechend.
 
 
 #### § 175 Erörterungstermin; persönliche Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018000000)
 
 (1) Das Gericht soll vor einer Beweisaufnahme über die Abstammung die
 Angelegenheit in einem Termin erörtern. Es soll das persönliche
@@ -4371,6 +4594,7 @@ das Gericht persönlich anhören.
 
 
 #### § 176 Anhörung des Jugendamts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018101311)
 
 (1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Absatz 1
 Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer Anfechtung
@@ -4386,6 +4610,7 @@ Beschwerde zu.
 
 
 #### § 177 Eingeschränkte Amtsermittlung; förmliche Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018200000)
 
 (1) Im Verfahren auf Anfechtung der Vaterschaft dürfen von den
 beteiligten Personen nicht vorgebrachte Tatsachen nur berücksichtigt
@@ -4403,6 +4628,7 @@ Feststellungen hat und die Beteiligten zustimmen.
 
 
 #### § 178 Untersuchungen zur Feststellung der Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018300000)
 
 (1) Soweit es zur Feststellung der Abstammung erforderlich ist, hat
 jede Person Untersuchungen, insbesondere die Entnahme von Blutproben,
@@ -4416,6 +4642,7 @@ Vorführung zur Untersuchung angeordnet werden.
 
 
 #### § 179 Mehrheit von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018400000)
 
 (1) Abstammungssachen, die dasselbe Kind betreffen, können miteinander
 verbunden werden. Mit einem Verfahren auf Feststellung des Bestehens
@@ -4426,6 +4653,7 @@ oder mit anderen Verfahren unzulässig.
 
 
 #### § 180 Erklärungen zur Niederschrift des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018500000)
 
 Die Anerkennung der Vaterschaft, die Zustimmung der Mutter sowie der
 Widerruf der Anerkennung können auch in einem Erörterungstermin zur
@@ -4436,6 +4664,7 @@ gesetzlichen Vertreters.
 
 
 #### § 181 Tod eines Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018600000)
 
 Stirbt ein Beteiligter vor Rechtskraft der Endentscheidung, hat das
 Gericht die übrigen Beteiligten darauf hinzuweisen, dass das Verfahren
@@ -4447,6 +4676,7 @@ erledigt.
 
 
 #### § 182 Inhalt des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018700000)
 
 (1) Ein rechtskräftiger Beschluss, der das Nichtbestehen einer
 Vaterschaft nach § 1592 des Bürgerlichen Gesetzbuchs infolge der
@@ -4461,6 +4691,7 @@ Beschlussformel aus.
 
 
 #### § 183 Kosten bei Anfechtung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018800000)
 
 Hat ein Antrag auf Anfechtung der Vaterschaft Erfolg, tragen die
 Beteiligten, mit Ausnahme des minderjährigen Kindes, die
@@ -4469,6 +4700,7 @@ außergerichtlichen Kosten selbst.
 
 
 #### § 184 Wirksamkeit des Beschlusses; Ausschluss der Abänderung; ergänzende Vorschriften über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE018900000)
 
 (1) Die Endentscheidung in Abstammungssachen wird mit Rechtskraft
 wirksam. Eine Abänderung ist ausgeschlossen.
@@ -4482,6 +4714,7 @@ beteiligen gewesen wäre.
 
 
 #### § 185 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019000000)
 
 (1) Der Restitutionsantrag gegen einen rechtskräftigen Beschluss, in
 dem über die Abstammung entschieden ist, ist auch statthaft, wenn ein
@@ -4504,9 +4737,11 @@ anzuwenden.
 
 
 ### Abschnitt 5 - Verfahren in Adoptionssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002600000)
 
 
 #### § 186 Adoptionssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019100000)
 
 Adoptionssachen sind Verfahren, die
 
@@ -4528,6 +4763,7 @@ betreffen.
 
 
 #### § 187 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019203125)
 
 (1) Für Verfahren nach § 186 Nr. 1 bis 3 ist das Gericht
 ausschließlich zuständig, in dessen Bezirk der Annehmende oder einer
@@ -4560,6 +4796,7 @@ aus wichtigem Grund an ein anderes Gericht verweisen.
 
 
 #### § 188 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019302311)
 
 (1) Zu beteiligen sind
 
@@ -4607,6 +4844,7 @@ beteiligen.
 
 
 #### § 189 Fachliche Äußerung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019401125)
 
 (1) Soll ein Minderjähriger als Kind angenommen werden, hat das
 Gericht eine fachliche Äußerung darüber einzuholen, ob das Kind und
@@ -4625,10 +4863,12 @@ vermittelt hat, die Entscheidung mitzuteilen.
 
 
 #### § 190 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019501125)
 
 
 
 #### § 191 Verfahrensbeistand
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019602125)
 
 Das Gericht hat einem minderjährigen Beteiligten in Adoptionssachen
 einen Verfahrensbeistand zu bestellen, sofern dies zur Wahrnehmung
@@ -4637,6 +4877,7 @@ entsprechend.
 
 
 #### § 192 Anhörung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019700000)
 
 (1) Das Gericht hat in Verfahren auf Annahme als Kind oder auf
 Aufhebung des Annahmeverhältnisses den Annehmenden und das Kind
@@ -4651,6 +4892,7 @@ einer Anhörung eine Aufklärung nicht zu erwarten ist.
 
 
 #### § 193 Anhörung weiterer Personen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019800000)
 
 Das Gericht hat in Verfahren auf Annahme als Kind die Kinder des
 Annehmenden und des Anzunehmenden anzuhören. § 192 Abs. 3 gilt
@@ -4658,6 +4900,7 @@ entsprechend.
 
 
 #### § 194 Anhörung des Jugendamts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE019900000)
 
 (1) In Adoptionssachen hat das Gericht das Jugendamt anzuhören, sofern
 der Anzunehmende oder Angenommene minderjährig ist. Dies gilt nicht,
@@ -4670,6 +4913,7 @@ Beschwerde zu.
 
 
 #### § 195 Anhörung des Landesjugendamts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020001125)
 
 (1) In den Fällen des § 11 Absatz 1 Nummer 2 und 3 des
 Adoptionsvermittlungsgesetzes hat das Gericht vor dem Ausspruch der
@@ -4686,12 +4930,14 @@ Beschluss steht dem Landesjugendamt die Beschwerde zu.
 
 
 #### § 196 Unzulässigkeit der Verbindung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020100000)
 
 Eine Verbindung von Adoptionssachen mit anderen Verfahren ist
 unzulässig.
 
 
 #### § 196a Zurückweisung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051600125)
 
 Das Gericht weist den Antrag auf Annahme als Kind zurück, wenn die
 gemäß § 9a des Adoptionsvermittlungsgesetzes erforderlichen
@@ -4699,6 +4945,7 @@ Bescheinigungen über eine Beratung nicht vorliegen.
 
 
 #### § 197 Beschluss über die Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020200000)
 
 (1) In einem Beschluss, durch den das Gericht die Annahme als Kind
 ausspricht, ist anzugeben, auf welche gesetzlichen Vorschriften sich
@@ -4715,6 +4962,7 @@ Wiederaufnahme ist ausgeschlossen.
 
 
 #### § 198 Beschluss in weiteren Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020300000)
 
 (1) Der Beschluss über die Ersetzung einer Einwilligung oder
 Zustimmung zur Annahme als Kind wird erst mit Rechtskraft wirksam. Bei
@@ -4734,14 +4982,17 @@ wenn die Ehe geschlossen worden ist.
 
 
 #### § 199 Anwendung des Adoptionswirkungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020400000)
 
 Die Vorschriften des Adoptionswirkungsgesetzes bleiben unberührt.
 
 
 ### Abschnitt 6 - Verfahren in Ehewohnungs- und Haushaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002701160)
 
 
 #### § 200 Ehewohnungssachen; Haushaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020501160)
 
 (1) Ehewohnungssachen sind Verfahren
 
@@ -4765,6 +5016,7 @@ Die Vorschriften des Adoptionswirkungsgesetzes bleiben unberührt.
 
 
 #### § 201 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020600000)
 
 Ausschließlich zuständig ist in dieser Rangfolge:
 
@@ -4788,6 +5040,7 @@ Ausschließlich zuständig ist in dieser Rangfolge:
 
 
 #### § 202 Abgabe an das Gericht der Ehesache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020701160)
 
 Wird eine Ehesache rechtshängig, während eine Ehewohnungs- oder
 Haushaltssache bei einem anderen Gericht im ersten Rechtszug anhängig
@@ -4796,6 +5049,7 @@ ist, ist diese von Amts wegen an das Gericht der Ehesache abzugeben. §
 
 
 #### § 203 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020801160)
 
 (1) Das Verfahren wird durch den Antrag eines Ehegatten eingeleitet.
 
@@ -4810,6 +5064,7 @@ Kinder im Haushalt der Ehegatten leben.
 
 
 #### § 204 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE020901160)
 
 (1) In Ehewohnungssachen nach § 200 Abs. 1 Nr. 2 sind auch der
 Vermieter der Wohnung, der Grundstückseigentümer, der Dritte (§ 1568a
@@ -4822,6 +5077,7 @@ beteiligen, wenn Kinder im Haushalt der Ehegatten leben.
 
 
 #### § 205 Anhörung des Jugendamts in Ehewohnungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021001160)
 
 (1) In Ehewohnungssachen soll das Gericht das Jugendamt anhören, wenn
 Kinder im Haushalt der Ehegatten leben. Unterbleibt die Anhörung
@@ -4833,6 +5089,7 @@ die Beschwerde zu.
 
 
 #### § 206 Besondere Vorschriften in Haushaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021101160)
 
 (1) Das Gericht kann in Haushaltssachen jedem Ehegatten aufgeben,
 
@@ -4866,18 +5123,21 @@ insoweit zur weiteren Aufklärung des Sachverhalts nicht verpflichtet.
 
 
 #### § 207 Erörterungstermin
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021200000)
 
 Das Gericht soll die Angelegenheit mit den Ehegatten in einem Termin
 erörtern. Es soll das persönliche Erscheinen der Ehegatten anordnen.
 
 
 #### § 208 Tod eines Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021300000)
 
 Stirbt einer der Ehegatten vor Abschluss des Verfahrens, gilt dieses
 als in der Hauptsache erledigt.
 
 
 #### § 209 Durchführung der Entscheidung, Wirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021401160)
 
 (1) Das Gericht soll mit der Endentscheidung die Anordnungen treffen,
 die zu ihrer Durchführung erforderlich sind.
@@ -4895,15 +5155,18 @@ der Entscheidung zu vermerken.
 
 
 ### Abschnitt 7 - Verfahren in Gewaltschutzsachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002800000)
 
 
 #### § 210 Gewaltschutzsachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021500000)
 
 Gewaltschutzsachen sind Verfahren nach den §§ 1 und 2 des
 Gewaltschutzgesetzes.
 
 
 #### § 211 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021600000)
 
 Ausschließlich zuständig ist nach Wahl des Antragstellers
 
@@ -4922,12 +5185,14 @@ Ausschließlich zuständig ist nach Wahl des Antragstellers
 
 
 #### § 212 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021700000)
 
 In Verfahren nach § 2 des Gewaltschutzgesetzes ist das Jugendamt auf
 seinen Antrag zu beteiligen, wenn ein Kind in dem Haushalt lebt.
 
 
 #### § 213 Anhörung des Jugendamts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021800000)
 
 (1) In Verfahren nach § 2 des Gewaltschutzgesetzes soll das Gericht
 das Jugendamt anhören, wenn Kinder in dem Haushalt leben. Unterbleibt
@@ -4940,6 +5205,7 @@ die Beschwerde zu.
 
 
 #### § 214 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE021901311)
 
 (1) Auf Antrag kann das Gericht durch einstweilige Anordnung eine
 vorläufige Regelung nach § 1 oder § 2 des Gewaltschutzgesetzes
@@ -4957,6 +5223,7 @@ nicht vor der Vollstreckung erfolgen.
 
 
 #### § 214a Bestätigung des Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051400311)
 
 Schließen die Beteiligten einen Vergleich, hat das Gericht diesen zu
 bestätigen, soweit es selbst eine entsprechende Maßnahme nach § 1
@@ -4966,6 +5233,7 @@ Bestätigung des Gerichts ist nicht anfechtbar.
 
 
 #### § 215 Durchführung der Endentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022000000)
 
 In Verfahren nach § 2 des Gewaltschutzgesetzes soll das Gericht in der
 Endentscheidung die zu ihrer Durchführung erforderlichen Anordnungen
@@ -4973,6 +5241,7 @@ treffen.
 
 
 #### § 216 Wirksamkeit; Vollstreckung vor Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022100000)
 
 (1) Die Endentscheidung in Gewaltschutzsachen wird mit Rechtskraft
 wirksam. Das Gericht soll die sofortige Wirksamkeit anordnen.
@@ -4986,6 +5255,7 @@ der Entscheidung zu vermerken.
 
 
 #### § 216a Mitteilung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022201311)
 
 Das Gericht teilt Anordnungen nach den §§ 1 und 2 des
 Gewaltschutzgesetzes sowie deren Änderung oder Aufhebung der
@@ -5000,15 +5270,18 @@ entsprechend.
 
 
 ### Abschnitt 8 - Verfahren in Versorgungsausgleichssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG002900000)
 
 
 #### § 217 Versorgungsausgleichssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022300000)
 
 Versorgungsausgleichssachen sind Verfahren, die den
 Versorgungsausgleich betreffen.
 
 
 #### § 218 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022400000)
 
 Ausschließlich zuständig ist in dieser Rangfolge:
 
@@ -5036,6 +5309,7 @@ Ausschließlich zuständig ist in dieser Rangfolge:
 
 
 #### § 219 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022501160)
 
 Zu beteiligen sind
 
@@ -5056,6 +5330,7 @@ Zu beteiligen sind
 
 
 #### § 220 Verfahrensrechtliche Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022601160)
 
 (1) Das Gericht kann über Grund und Höhe der Anrechte Auskünfte
 einholen bei den Personen und Versorgungsträgern, die nach § 219 zu
@@ -5084,6 +5359,7 @@ verpflichtet, gerichtliche Ersuchen und Anordnungen zu befolgen.
 
 
 #### § 221 Erörterung, Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022701160)
 
 (1) Das Gericht soll die Angelegenheit mit den Ehegatten in einem
 Termin erörtern.
@@ -5101,6 +5377,7 @@ hätte geltend gemacht werden können.
 
 
 #### § 222 Durchführung der externen Teilung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022802125)
 
 (1) Die Wahlrechte nach § 14 Absatz 2, § 15 Absatz 1 und § 19 Absatz 2
 Nummer 5 des Versorgungsausgleichsgesetzes sind in den vom Gericht zu
@@ -5120,12 +5397,14 @@ anzuwenden.
 
 
 #### § 223 Antragserfordernis für Ausgleichsansprüche nach der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE022901160)
 
 Über Ausgleichsansprüche nach der Scheidung nach den §§ 20 bis 26 des
 Versorgungsausgleichsgesetzes entscheidet das Gericht nur auf Antrag.
 
 
 #### § 224 Entscheidung über den Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023001160)
 
 (1) Endentscheidungen, die den Versorgungsausgleich betreffen, werden
 erst mit Rechtskraft wirksam.
@@ -5143,6 +5422,7 @@ Anrechte in der Begründung.
 
 
 #### § 225 Zulässigkeit einer Abänderung des Wertausgleichs bei der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023101160)
 
 (1) Eine Abänderung des Wertausgleichs bei der Scheidung ist nur für
 Anrechte im Sinne des § 32 des Versorgungsausgleichsgesetzes zulässig.
@@ -5168,6 +5448,7 @@ Hinterbliebenen auswirken.
 
 
 #### § 226 Durchführung einer Abänderung des Wertausgleichs bei der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023202125)
 
 (1) Antragsberechtigt sind die Ehegatten, ihre Hinterbliebenen und die
 von der Abänderung betroffenen Versorgungsträger.
@@ -5194,6 +5475,7 @@ Verfahren gegen dessen Erben fortgesetzt.
 
 
 #### § 227 Sonstige Abänderungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023301160)
 
 (1) Für die Abänderung einer Entscheidung über Ausgleichsansprüche
 nach der Scheidung nach den §§ 20 bis 26 des
@@ -5205,12 +5487,14 @@ nicht ausgeschlossen worden ist.
 
 
 #### § 228 Zulässigkeit der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023401160)
 
 In Versorgungsausgleichssachen gilt § 61 nur für die Anfechtung einer
 Kostenentscheidung.
 
 
 #### § 229 Elektronischer Rechtsverkehr zwischen den Familiengerichten und den Versorgungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023502311)
 
 (1) Die nachfolgenden Bestimmungen sind anzuwenden, soweit das Gericht
 und der nach § 219 Nr. 2 oder Nr. 3 beteiligte Versorgungsträger an
@@ -5249,16 +5533,20 @@ genannte Zeitpunkt.
 
 
 #### § 230 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023601160)
 
 
 
 ### Abschnitt 9 - Verfahren in Unterhaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003000000)
 
 
 #### Unterabschnitt 1 - Besondere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003100000)
 
 
 ##### § 231 Unterhaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023701125)
 
 (1) Unterhaltssachen sind Verfahren, die
 
@@ -5288,6 +5576,7 @@ Einkommensteuergesetzes. Die §§ 235 bis 245 sind nicht anzuwenden.
 
 
 ##### § 232 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023800000)
 
 (1) Ausschließlich zuständig ist
 
@@ -5339,6 +5628,7 @@ tritt. Nach Wahl des Antragstellers ist auch zuständig
 
 
 ##### § 233 Abgabe an das Gericht der Ehesache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE023902125)
 
 Wird eine Ehesache rechtshängig, während eine Unterhaltssache nach §
 231 Absatz 1 Nummer 3 Buchstabe a oder § 232 Absatz 1 Nummer 1 bei
@@ -5348,12 +5638,14 @@ Satz 1 der Zivilprozessordnung gilt entsprechend.
 
 
 ##### § 234 Vertretung eines Kindes durch einen Beistand
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024000000)
 
 Wird das Kind durch das Jugendamt als Beistand vertreten, ist die
 Vertretung durch den sorgeberechtigten Elternteil ausgeschlossen.
 
 
 ##### § 235 Verfahrensrechtliche Auskunftspflicht der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024100000)
 
 (1) Das Gericht kann anordnen, dass der Antragsteller und der
 Antragsgegner Auskunft über ihre Einkünfte, ihr Vermögen und ihre
@@ -5383,6 +5675,7 @@ selbständig anfechtbar und nicht mit Zwangsmitteln durchsetzbar.
 
 
 ##### § 236 Verfahrensrechtliche Auskunftspflicht Dritter
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024200000)
 
 (1) Kommt ein Beteiligter innerhalb der hierfür gesetzten Frist einer
 Verpflichtung nach § 235 Abs. 1 nicht oder nicht vollständig nach,
@@ -5424,6 +5717,7 @@ Beteiligten nicht selbständig anfechtbar.
 
 
 ##### § 237 Unterhalt bei Feststellung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024300000)
 
 (1) Ein Antrag, durch den ein Mann auf Zahlung von Unterhalt für ein
 Kind in Anspruch genommen wird, ist, wenn die Vaterschaft des Mannes
@@ -5450,6 +5744,7 @@ betrifft, nicht wirksam.
 
 
 ##### § 238 Abänderung gerichtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024400000)
 
 (1) Enthält eine in der Hauptsache ergangene Endentscheidung des
 Gerichts eine Verpflichtung zu künftig fällig werdenden
@@ -5479,6 +5774,7 @@ Grundlagen anzupassen.
 
 
 ##### § 239 Abänderung von Vergleichen und Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024500000)
 
 (1) Enthält ein Vergleich nach § 794 Abs. 1 Nr. 1 der
 Zivilprozessordnung oder eine vollstreckbare Urkunde eine
@@ -5492,6 +5788,7 @@ sich nach den Vorschriften des bürgerlichen Rechts.
 
 
 ##### § 240 Abänderung von Entscheidungen nach den §§ 237 und 253
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024600000)
 
 (1) Enthält eine rechtskräftige Endentscheidung nach § 237 oder § 253
 eine Verpflichtung zu künftig fällig werdenden wiederkehrenden
@@ -5511,6 +5808,7 @@ folgenden Monats. § 238 Abs. 3 Satz 4 gilt entsprechend.
 
 
 ##### § 241 Verschärfte Haftung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024700000)
 
 Die Rechtshängigkeit eines auf Herabsetzung gerichteten
 Abänderungsantrags steht bei der Anwendung des § 818 Abs. 4 des
@@ -5519,6 +5817,7 @@ Rückzahlung der geleisteten Beträge gleich.
 
 
 ##### § 242 Einstweilige Einstellung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024801160)
 
 Ist ein Abänderungsantrag auf Herabsetzung anhängig oder hierfür ein
 Antrag auf Bewilligung von Verfahrenskostenhilfe eingereicht, gilt §
@@ -5527,6 +5826,7 @@ anfechtbar.
 
 
 ##### § 243 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE024900000)
 
 Abweichend von den Vorschriften der Zivilprozessordnung über die
 Kostenverteilung entscheidet das Gericht in Unterhaltssachen nach
@@ -5555,6 +5855,7 @@ die Beteiligten. Es hat hierbei insbesondere zu berücksichtigen:
 
 
 ##### § 244 Unzulässiger Einwand der Volljährigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025000000)
 
 Wenn der Verpflichtete dem Kind nach Vollendung des 18. Lebensjahres
 Unterhalt zu gewähren hat, kann gegen die Vollstreckung eines in einem
@@ -5565,6 +5866,7 @@ werden, dass die Minderjährigkeit nicht mehr besteht.
 
 
 ##### § 245 Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025100000)
 
 (1) Soll ein Unterhaltstitel, der den Unterhalt nach § 1612a des
 Bürgerlichen Gesetzbuchs als Prozentsatz des Mindestunterhalts
@@ -5581,9 +5883,11 @@ einer Vollstreckungsklausel entsprechend anzuwenden.
 
 
 #### Unterabschnitt 2 - Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003200000)
 
 
 ##### § 246 Besondere Vorschriften für die einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025200000)
 
 (1) Das Gericht kann durch einstweilige Anordnung abweichend von § 49
 auf Antrag die Verpflichtung zur Zahlung von Unterhalt oder zur
@@ -5596,6 +5900,7 @@ des Verfahrens geboten erscheint.
 
 
 ##### § 247 Einstweilige Anordnung vor Geburt des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025300000)
 
 (1) Im Wege der einstweiligen Anordnung kann bereits vor der Geburt
 des Kindes die Verpflichtung zur Zahlung des für die ersten drei
@@ -5611,6 +5916,7 @@ Zeitpunkt vor der Geburt des Kindes zu hinterlegen ist.
 
 
 ##### § 248 Einstweilige Anordnung bei Feststellung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025400000)
 
 (1) Ein Antrag auf Erlass einer einstweiligen Anordnung, durch den ein
 Mann auf Zahlung von Unterhalt für ein Kind oder dessen Mutter in
@@ -5639,9 +5945,11 @@ ist.
 
 
 #### Unterabschnitt 3 - Vereinfachtes Verfahren über den Unterhalt Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003300000)
 
 
 ##### § 249 Statthaftigkeit des vereinfachten Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025500000)
 
 (1) Auf Antrag wird der Unterhalt eines minderjährigen Kindes, das mit
 dem in Anspruch genommenen Elternteil nicht in einem Haushalt lebt, im
@@ -5659,6 +5967,7 @@ Schuldtitel errichtet worden ist.
 
 
 ##### § 250 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025601125)
 
 (1) Der Antrag muss enthalten:
 
@@ -5734,6 +6043,7 @@ Entscheidung zu verbinden.
 
 
 ##### § 251 Maßnahmen des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025703311)
 
 (1) Erscheint nach dem Vorbringen des Antragstellers das vereinfachte
 Verfahren zulässig, verfügt das Gericht die Zustellung des Antrags
@@ -5782,6 +6092,7 @@ nach Satz 2 Nummer 3.
 
 
 ##### § 252 Einwendungen des Antragsgegners
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025801311)
 
 (1) Der Antragsgegner kann Einwendungen gegen die Zulässigkeit des
 vereinfachten Verfahrens geltend machen. Bei begründeten Einwendungen
@@ -5815,6 +6126,7 @@ Festsetzungsbeschluss nicht erlassen ist.
 
 
 ##### § 253 Festsetzungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE025902311)
 
 (1) Ist der Antrag zulässig und werden keine oder keine nach § 252
 Absatz 2 bis 4 zulässigen Einwendungen erhoben, wird der Unterhalt
@@ -5835,6 +6147,7 @@ Voraussetzungen eine Abänderung verlangt werden kann.
 
 
 ##### § 254 Mitteilungen über Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026001311)
 
 Hat der Antragsgegner zulässige Einwendungen (§ 252 Absatz 2 bis 4)
 erhoben, teilt das Gericht dem Antragsteller dies mit und weist darauf
@@ -5843,6 +6156,7 @@ durchgeführt wird.
 
 
 ##### § 255 Streitiges Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026102311)
 
 (1) Im Fall des § 254 wird auf Antrag eines Beteiligten das streitige
 Verfahren durchgeführt.
@@ -5872,6 +6186,7 @@ Antragsgegners nach § 252 Absatz 2 hinausgeht, als zurückgenommen.
 
 
 ##### § 256 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026201311)
 
 Mit der Beschwerde können nur Einwendungen gegen die Zulässigkeit oder
 die Unzulässigkeit des vereinfachten Verfahrens, die Zulässigkeit von
@@ -5884,6 +6199,7 @@ erlassen war.
 
 
 ##### § 257 Besondere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026300000)
 
 In vereinfachten Verfahren können die Anträge und Erklärungen vor dem
 Urkundsbeamten der Geschäftsstelle abgegeben werden. Soweit Formulare
@@ -5893,6 +6209,7 @@ Erklärung aufgenommen hat.
 
 
 ##### § 258 Sonderregelungen für maschinelle Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026401311)
 
 (1) In vereinfachten Verfahren ist eine maschinelle Bearbeitung
 zulässig. § 702 Absatz 2 Satz 1, 3 und 4 der Zivilprozessordnung gilt
@@ -5904,6 +6221,7 @@ bedarf es nicht.
 
 
 ##### § 259 Formulare
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026502125)
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, zur
 Vereinfachung und Vereinheitlichung der Verfahren durch
@@ -5919,6 +6237,7 @@ bedienen.
 
 
 ##### § 260 Bestimmung des Amtsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026600000)
 
 (1) Die Landesregierungen werden ermächtigt, die vereinfachten
 Verfahren über den Unterhalt Minderjähriger durch Rechtsverordnung
@@ -5935,9 +6254,11 @@ dem anderen Amtsgericht.
 
 
 ### Abschnitt 10 - Verfahren in Güterrechtssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003400000)
 
 
 #### § 261 Güterrechtssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026701308)
 
 (1) Güterrechtssachen sind Verfahren, die Ansprüche aus dem ehelichen
 Güterrecht betreffen, auch wenn Dritte an dem Verfahren beteiligt
@@ -5953,6 +6274,7 @@ Güterstand der Wahl-Zugewinngemeinschaft.
 
 
 #### § 262 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026800000)
 
 (1) Während der Anhängigkeit einer Ehesache ist das Gericht
 ausschließlich zuständig, bei dem die Ehesache im ersten Rechtszug
@@ -5966,6 +6288,7 @@ Aufenthalt tritt.
 
 
 #### § 263 Abgabe an das Gericht der Ehesache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE026900000)
 
 Wird eine Ehesache rechtshängig, während eine Güterrechtssache bei
 einem anderen Gericht im ersten Rechtszug anhängig ist, ist diese von
@@ -5974,6 +6297,7 @@ Satz 1 der Zivilprozessordnung gilt entsprechend.
 
 
 #### § 264 Verfahren auf Stundung und auf Übertragung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027001308)
 
 (1) In den Verfahren nach den §§ 1382 und 1383 des Bürgerlichen
 Gesetzbuchs sowie nach § 1519 des Bürgerlichen Gesetzbuchs in
@@ -5991,6 +6315,7 @@ Ausgleichsforderung aussprechen.
 
 
 #### § 265 Einheitliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027100000)
 
 Wird in einem Verfahren über eine güterrechtliche Ausgleichsforderung
 ein Antrag nach § 1382 Abs. 5 oder § 1383 Abs. 3 des Bürgerlichen
@@ -5999,9 +6324,11 @@ Beschluss.
 
 
 ### Abschnitt 11 - Verfahren in sonstigen Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003500000)
 
 
 #### § 266 Sonstige Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027200000)
 
 (1) Sonstige Familiensachen sind Verfahren, die
 
@@ -6038,6 +6365,7 @@ nicht bereits nach anderen Vorschriften um eine Familiensache handelt.
 
 
 #### § 267 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027300000)
 
 (1) Während der Anhängigkeit einer Ehesache ist das Gericht
 ausschließlich zuständig, bei dem die Ehesache im ersten Rechtszug
@@ -6051,6 +6379,7 @@ Aufenthalt tritt.
 
 
 #### § 268 Abgabe an das Gericht der Ehesache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027400000)
 
 Wird eine Ehesache rechtshängig, während eine sonstige Familiensache
 bei einem anderen Gericht im ersten Rechtszug anhängig ist, ist diese
@@ -6059,9 +6388,11 @@ von Amts wegen an das Gericht der Ehesache abzugeben. § 281 Abs. 2 und
 
 
 ### Abschnitt 12 - Verfahren in Lebenspartnerschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003600000)
 
 
 #### § 269 Lebenspartnerschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027504125)
 
 (1) Lebenspartnerschaftssachen sind Verfahren, welche zum Gegenstand
 haben:
@@ -6150,6 +6481,7 @@ mit § 1357 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs.
 
 
 #### § 270 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027601160)
 
 (1) In Lebenspartnerschaftssachen nach § 269 Abs. 1 Nr. 1 sind die für
 Verfahren auf Scheidung geltenden Vorschriften, in
@@ -6166,12 +6498,15 @@ Vorschriften entsprechend anzuwenden.
 
 
 ## Buch 3 - Verfahren in Betreuungs- und Unterbringungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003700000)
 
 
 ### Abschnitt 1 - Verfahren in Betreuungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003800000)
 
 
 #### § 271 Betreuungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027701125)
 
 Betreuungssachen sind
 
@@ -6191,6 +6526,7 @@ Betreuungssachen sind
 
 
 #### § 272 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027800000)
 
 (1) Ausschließlich zuständig ist in dieser Rangfolge:
 
@@ -6218,6 +6554,7 @@ Absatz 1 Nr. 1, 2 oder Nr. 4 zuständigen Gericht mitteilen.
 
 
 #### § 273 Abgabe bei Änderung des gewöhnlichen Aufenthalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE027900000)
 
 Als wichtiger Grund für eine Abgabe im Sinne des § 4 Satz 1 ist es in
 der Regel anzusehen, wenn sich der gewöhnliche Aufenthalt des
@@ -6228,6 +6565,7 @@ Aufenthalt von mehr als einem Jahr an einem anderen Ort gleich.
 
 
 #### § 274 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028001125)
 
 (1) Zu beteiligen sind
 
@@ -6277,6 +6615,7 @@ hinzuzuziehen.
 
 
 #### § 275 Stellung des Betroffenen im Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028101125)
 
 (1) In Betreuungssachen ist der Betroffene ohne Rücksicht auf seine
 Geschäftsfähigkeit verfahrensfähig.
@@ -6289,6 +6628,7 @@ können.
 
 
 #### § 276 Verfahrenspfleger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028201125)
 
 (1) Das Gericht hat dem Betroffenen einen geeigneten Verfahrenspfleger
 zu bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
@@ -6341,6 +6681,7 @@ anfechtbar.
 
 
 #### § 277 Vergütung und Aufwendungsersatz des Verfahrenspflegers
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028302125)
 
 (1) Die Verfahrenspflegschaft wird unentgeltlich geführt. Der
 Verfahrenspfleger erhält Ersatz seiner Aufwendungen nach § 1877 Absatz
@@ -6372,6 +6713,7 @@ entsprechend anzuwenden.
 
 
 #### § 278 Persönliche Anhörung des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028403125)
 
 (1) Das Gericht hat den Betroffenen vor der Bestellung eines Betreuers
 oder der Anordnung eines Einwilligungsvorbehalts persönlich anzuhören
@@ -6424,6 +6766,7 @@ Grundgesetzes eingeschränkt.
 
 
 #### § 279 Anhörung der sonstigen Beteiligten, der Betreuungsbehörde und des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028502125)
 
 (1) Das Gericht hat die sonstigen Beteiligten vor der Bestellung eines
 Betreuers oder der Anordnung eines Einwilligungsvorbehalts anzuhören.
@@ -6460,6 +6803,7 @@ gesetzlichen Vertreter des Betroffenen anzuhören.
 
 
 #### § 280 Einholung eines Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028602125)
 
 (1) Vor der Bestellung eines Betreuers oder der Anordnung eines
 Einwilligungsvorbehalts hat eine förmliche Beweisaufnahme durch
@@ -6497,6 +6841,7 @@ vorliegt.
 
 
 #### § 281 Ärztliches Zeugnis; Entbehrlichkeit eines Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028701125)
 
 (1) Anstelle eines Sachverständigengutachtens nach § 280 genügt ein
 ärztliches Zeugnis, wenn der Betroffene die Bestellung eines Betreuers
@@ -6508,6 +6853,7 @@ Aufgabenkreises des Betreuers unverhältnismäßig wäre.
 
 
 #### § 282 Vorhandene Gutachten zur Feststellung der Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028802360)
 
 (1) Das Gericht kann im Verfahren zur Bestellung eines Betreuers von
 der Einholung eines Gutachtens (§ 280 Absatz 1) absehen, soweit es
@@ -6539,6 +6885,7 @@ sonstigen Voraussetzungen für die Bestellung eines Betreuers zur
 
 
 #### § 283 Vorführung zur Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE028901308)
 
 (1) Das Gericht kann anordnen, dass der Betroffene zur Vorbereitung
 eines Gutachtens untersucht und durch die zuständige Behörde zu einer
@@ -6561,6 +6908,7 @@ das Grundrecht auf Unverletzlichkeit der Wohnung aus Artikel 13 Absatz
 
 
 #### § 284 Unterbringung zur Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029000000)
 
 (1) Das Gericht kann nach Anhörung eines Sachverständigen beschließen,
 dass der Betroffene auf bestimmte Dauer untergebracht und beobachtet
@@ -6579,6 +6927,7 @@ Absätzen 1 und 2 findet die sofortige Beschwerde nach den §§ 567 bis
 
 
 #### § 285 Ermittlung und Herausgabe einer Betreuungsverfügung oder einer Vorsorgevollmacht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029103360)
 
 (1) Vor der Bestellung eines Betreuers soll das Gericht die Auskunft
 einholen, ob eine Vorsorgevollmacht oder eine Betreuungsverfügung des
@@ -6596,6 +6945,7 @@ Betreuungsverfügung.
 
 
 #### § 286 Inhalt der Beschlussformel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029201125)
 
 (1) Die Beschlussformel enthält im Fall der Bestellung eines Betreuers
 auch
@@ -6628,6 +6978,7 @@ hat, ist in der Beschlussformel zu bezeichnen.
 
 
 #### § 287 Wirksamwerden von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029302125)
 
 (1) Beschlüsse über Umfang, Inhalt oder Bestand der Bestellung eines
 Betreuers, über die Anordnung eines Einwilligungsvorbehalts oder über
@@ -6657,6 +7008,7 @@ Verfahrenspfleger wirksam.
 
 
 #### § 288 Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029400000)
 
 (1) Von der Bekanntgabe der Gründe eines Beschlusses an den
 Betroffenen kann abgesehen werden, wenn dies nach ärztlichem Zeugnis
@@ -6672,10 +7024,12 @@ deren Erlass angehört wurde.
 
 
 #### § 289 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029501125)
 
 
 
 #### § 290 Bestellungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029601125)
 
 (1) Der Betreuer erhält eine Urkunde über seine Bestellung. Die
 Urkunde soll enthalten:
@@ -6717,6 +7071,7 @@ Bestellungsurkunde und weitere Urkunden nach Absatz 2 zurückzugeben.
 
 
 #### § 291 Überprüfung der Betreuerauswahl
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029701125)
 
 Der Betroffene kann verlangen, dass die Auswahl der Person, der ein
 Verein oder eine Behörde die Wahrnehmung der Betreuung übertragen hat,
@@ -6729,6 +7084,7 @@ nicht anzuwenden.
 
 
 #### § 292 Zahlungen an den Betreuer; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029802360)
 
 (1) Das Gericht setzt auf Antrag des Betreuers oder des Betroffenen
 oder nach eigenem Ermessen durch Beschluss fest:
@@ -6793,6 +7149,7 @@ Landesjustizverwaltungen übertragen.
 
 
 #### § 292a Zahlungen an die Staatskasse
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052301360)
 
 (1) Mit der Festsetzung nach § 292 Absatz 1 legt das Gericht zugleich
 Höhe und Zeitpunkt der Zahlungen fest, die der Betroffene nach § 1880
@@ -6815,6 +7172,7 @@ Gewissen so vollständig angegeben habe, wie er dazu imstande ist.
 
 
 #### § 293 Erweiterung der Betreuung oder des Einwilligungsvorbehalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE029903125)
 
 (1) Für die Erweiterung des Aufgabenkreises des Betreuers und die
 Erweiterung des Kreises der einwilligungsbedürftigen
@@ -6853,6 +7211,7 @@ verbunden, gelten die Absätze 1 bis 3 entsprechend.
 
 
 #### § 294 Aufhebung und Einschränkung der Betreuung oder des Einwilligungsvorbehalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030003360)
 
 (1) Für die Aufhebung der Betreuung oder der Anordnung eines
 Einwilligungsvorbehalts und für die Einschränkung des Aufgabenkreises
@@ -6876,6 +7235,7 @@ erfolgen.
 
 
 #### § 295 Verlängerung der Betreuung oder des Einwilligungsvorbehalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030102125)
 
 (1) Für die Verlängerung der Bestellung eines Betreuers oder der
 Anordnung eines Einwilligungsvorbehalts gelten die Vorschriften über
@@ -6896,6 +7256,7 @@ erstmalige Verlängerung spätestens nach zwei Jahren zu entscheiden.
 
 
 #### § 296 Entlassung des Betreuers und Bestellung eines neuen Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030201125)
 
 (1) Das Gericht hat den Betroffenen und den Betreuer persönlich
 anzuhören, wenn der Betroffene einer Entlassung des Betreuers (§ 1868
@@ -6911,6 +7272,7 @@ erforderlich ist.
 
 
 #### § 297 Sterilisation
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030301125)
 
 (1) Das Gericht hat den Betroffenen vor der Genehmigung einer
 Einwilligung des Betreuers in eine Sterilisation (§ 1830 Absatz 2 des
@@ -6960,6 +7322,7 @@ die Entscheidung stets bekannt zu geben.
 
 
 #### § 298 Verfahren in Fällen des § 1829 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030403125)
 
 (1) Das Gericht darf die Einwilligung, die Nichteinwilligung oder den
 Widerruf einer Einwilligung eines Betreuers oder eines
@@ -6978,6 +7341,7 @@ Der Sachverständige soll nicht auch der behandelnde Arzt sein.
 
 
 #### § 299 Persönliche Anhörung in anderen Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030502125)
 
 Das Gericht hat den Betroffenen vor einer Entscheidung nach § 1833
 Absatz 3, § 1820 Absatz 5 Satz 2 des Bürgerlichen Gesetzbuchs oder § 3
@@ -6988,6 +7352,7 @@ persönlich anhören.
 
 
 #### § 300 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030600000)
 
 (1) Das Gericht kann durch einstweilige Anordnung einen vorläufigen
 Betreuer bestellen oder einen vorläufigen Einwilligungsvorbehalt
@@ -7020,6 +7385,7 @@ Bedürfnis für ein sofortiges Tätigwerden besteht.
 
 
 #### § 301 Einstweilige Anordnung bei gesteigerter Dringlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030701125)
 
 (1) Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung
 nach § 300 bereits vor der persönlichen Anhörung des Betroffenen sowie
@@ -7031,6 +7397,7 @@ nicht an § 1816 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs gebunden.
 
 
 #### § 302 Dauer der einstweiligen Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030800000)
 
 Eine einstweilige Anordnung tritt, sofern das Gericht keinen früheren
 Zeitpunkt bestimmt, nach sechs Monaten außer Kraft. Sie kann jeweils
@@ -7039,6 +7406,7 @@ Anordnungen bis zu einer Gesamtdauer von einem Jahr verlängert werden.
 
 
 #### § 303 Ergänzende Vorschriften über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE030900000)
 
 (1) Das Recht der Beschwerde steht der zuständigen Behörde gegen
 Entscheidungen über
@@ -7078,6 +7446,7 @@ für den Betroffenen selbständig Beschwerde einlegen.
 
 
 #### § 304 Beschwerde der Staatskasse
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031001125)
 
 (1) Das Recht der Beschwerde steht dem Vertreter der Staatskasse zu,
 soweit die Interessen der Staatskasse durch den Beschluss betroffen
@@ -7094,12 +7463,14 @@ Mitteilung (§ 15 Abs. 3) an ihn.
 
 
 #### § 305 Beschwerde des Untergebrachten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031100000)
 
 Ist der Betroffene untergebracht, kann er Beschwerde auch bei dem
 Amtsgericht einlegen, in dessen Bezirk er untergebracht ist.
 
 
 #### § 306 Aufhebung des Einwilligungsvorbehalts
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031200000)
 
 Wird ein Beschluss, durch den ein Einwilligungsvorbehalt angeordnet
 worden ist, als ungerechtfertigt aufgehoben, bleibt die Wirksamkeit
@@ -7108,6 +7479,7 @@ unberührt.
 
 
 #### § 307 Kosten in Betreuungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031301125)
 
 In Betreuungssachen kann das Gericht die Auslagen des Betroffenen,
 soweit sie zur zweckentsprechenden Rechtsverfolgung notwendig waren,
@@ -7119,6 +7491,7 @@ wird.
 
 
 #### § 308 Mitteilung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031400000)
 
 (1) Entscheidungen teilt das Gericht anderen Gerichten, Behörden oder
 sonstigen öffentlichen Stellen mit, soweit dies unter Beachtung
@@ -7160,6 +7533,7 @@ Verfahrenspflegers und des Betreuers sind aktenkundig zu machen.
 
 
 #### § 309 Mitteilungen an die Meldebehörde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031502125)
 
 Wird ein Einwilligungsvorbehalt angeordnet, der sich auf die
 Aufenthaltsbestimmung des Betroffenen erstreckt, so hat das Gericht
@@ -7170,6 +7544,7 @@ eintritt.
 
 
 #### § 309a Mitteilungen an die Betreuungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE052400125)
 
 (1) Endet die Betreuung durch Tod des Betroffenen, so hat das Gericht
 dies der Betreuungsbehörde mitzuteilen.
@@ -7183,6 +7558,7 @@ die Gründe nach Satz 3 entfallen sind.
 
 
 #### § 310 Mitteilungen während einer freiheitsentziehenden Unterbringung oder freiheitsentziehenden Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031602360)
 
 Während der Dauer einer freiheitsentziehenden Unterbringung oder
 freiheitsentziehenden Maßnahme hat das Gericht dem Leiter der
@@ -7194,6 +7570,7 @@ der Person des Betreuers mitzuteilen.
 
 
 #### § 311 Mitteilungen zur Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031701125)
 
 Außer in den sonst in diesem Gesetz, in § 16 des Einführungsgesetzes
 zum Gerichtsverfassungsgesetz sowie in § 70 Absatz 1 Satz 2 und 3 des
@@ -7207,9 +7584,11 @@ Betroffenen an dem Ausschluss der Übermittlung überwiegen. § 308 Abs.
 
 
 ### Abschnitt 2 - Verfahren in Unterbringungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG003900000)
 
 
 #### § 312 Unterbringungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031804125)
 
 Unterbringungssachen sind Verfahren, die die Genehmigung oder
 Anordnung einer
@@ -7237,6 +7616,7 @@ betreffen (Unterbringungsmaßnahme).
 
 
 #### § 313 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE031902125)
 
 (1) Ausschließlich zuständig für Unterbringungssachen nach § 312
 Nummer 1 bis 3 ist in dieser Rangfolge:
@@ -7283,6 +7663,7 @@ Unterbringungsmaßnahme, ihre Änderung, Verlängerung und Aufhebung mit.
 
 
 #### § 314 Abgabe der Unterbringungssache
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032000000)
 
 Das Gericht kann die Unterbringungssache abgeben, wenn der Betroffene
 sich im Bezirk des anderen Gerichts aufhält und die
@@ -7291,6 +7672,7 @@ zur Übernahme des Verfahrens bereit erklärt hat.
 
 
 #### § 315 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032101125)
 
 (1) Zu beteiligen sind
 
@@ -7332,12 +7714,14 @@ beteiligt werden können.
 
 
 #### § 316 Verfahrensfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032200000)
 
 In Unterbringungssachen ist der Betroffene ohne Rücksicht auf seine
 Geschäftsfähigkeit verfahrensfähig.
 
 
 #### § 317 Verfahrenspfleger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032302125)
 
 (1) Das Gericht hat dem Betroffenen einen geeigneten Verfahrenspfleger
 zu bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
@@ -7382,12 +7766,14 @@ anfechtbar.
 
 
 #### § 318 Vergütung und Aufwendungsersatz des Verfahrenspflegers
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032400000)
 
 Für die Vergütung und den Aufwendungsersatz des Verfahrenspflegers
 gilt § 277 entsprechend.
 
 
 #### § 319 Persönliche Anhörung des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032502125)
 
 (1) Das Gericht hat den Betroffenen vor einer Unterbringungsmaßnahme
 persönlich anzuhören und sich einen persönlichen Eindruck von ihm zu
@@ -7430,12 +7816,14 @@ Grundgesetzes eingeschränkt.
 
 
 #### § 320 Anhörung der sonstigen Beteiligten und der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032600000)
 
 Das Gericht hat die sonstigen Beteiligten anzuhören. Es soll die
 zuständige Behörde anhören.
 
 
 #### § 321 Einholung eines Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032702125)
 
 (1) Vor einer Unterbringungsmaßnahme hat eine förmliche Beweisaufnahme
 durch Einholung eines Gutachtens über die Notwendigkeit der Maßnahme
@@ -7453,12 +7841,14 @@ genügt ein ärztliches Zeugnis.
 
 
 #### § 322 Vorführung zur Untersuchung; Unterbringung zur Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032800000)
 
 Für die Vorführung zur Untersuchung und die Unterbringung zur
 Begutachtung gelten die §§ 283 und 284 entsprechend.
 
 
 #### § 323 Inhalt der Beschlussformel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE032901308)
 
 (1) Die Beschlussformel enthält im Fall der Genehmigung oder Anordnung
 einer Unterbringungsmaßnahme auch
@@ -7478,6 +7868,7 @@ Verantwortung eines Arztes.
 
 
 #### § 324 Wirksamwerden von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033001125)
 
 (1) Beschlüsse über die Genehmigung oder die Anordnung einer
 Unterbringungsmaßnahme werden mit Rechtskraft wirksam.
@@ -7505,6 +7896,7 @@ vermerken.
 
 
 #### § 325 Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033100000)
 
 (1) Von der Bekanntgabe der Gründe eines Beschlusses an den
 Betroffenen kann abgesehen werden, wenn dies nach ärztlichem Zeugnis
@@ -7521,6 +7913,7 @@ bekannt zu geben.
 Zuführung zur Unterbringung;
 
 #### § 326 Verbringung zu einem stationären Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033203125)
 
 (1) Die zuständige Behörde hat den Betreuer oder den Bevollmächtigten
 im Sinne des § 1814 Absatz 3 Satz 2 Nummer 1 des Bürgerlichen
@@ -7545,6 +7938,7 @@ Grundgesetzes eingeschränkt.
 
 
 #### § 327 Vollzugsangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033302125)
 
 (1) Gegen eine Maßnahme zur Regelung einzelner Angelegenheiten im
 Vollzug einer Unterbringungsmaßnahme nach § 312 Nummer 4 kann der
@@ -7563,6 +7957,7 @@ aufschiebende Wirkung anordnen.
 
 
 #### § 328 Aussetzung des Vollzugs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033401311)
 
 (1) Das Gericht kann die Vollziehung einer Unterbringung nach § 312
 Nummer 4 aussetzen. Die Aussetzung kann mit Auflagen versehen werden.
@@ -7574,6 +7969,7 @@ eine Auflage nicht erfüllt oder sein Zustand dies erfordert.
 
 
 #### § 329 Dauer und Verlängerung der Unterbringungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033502125)
 
 (1) Die Unterbringungsmaßnahme endet spätestens mit Ablauf eines
 Jahres, bei offensichtlich langer Unterbringungsbedürftigkeit
@@ -7598,6 +7994,7 @@ Einrichtung tätig ist, in der der Betroffene untergebracht ist.
 
 
 #### § 330 Aufhebung der Unterbringungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033602125)
 
 Die Genehmigung oder Anordnung der Unterbringungsmaßnahme ist
 aufzuheben, wenn ihre Voraussetzungen wegfallen. Vor der Aufhebung
@@ -7607,6 +8004,7 @@ geringen Verzögerung des Verfahrens führen würde.
 
 
 #### § 331 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033703125)
 
 Das Gericht kann durch einstweilige Anordnung eine vorläufige
 Unterbringungsmaßnahme anordnen oder genehmigen, wenn
@@ -7637,6 +8035,7 @@ von § 319 Abs. 4 zulässig.
 
 
 #### § 332 Einstweilige Anordnung bei gesteigerter Dringlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033801125)
 
 Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung nach
 § 331 bereits vor der persönlichen Anhörung des Betroffenen sowie vor
@@ -7645,6 +8044,7 @@ Verfahrenshandlungen sind unverzüglich nachzuholen.
 
 
 #### § 333 Dauer der einstweiligen Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE033901308)
 
 (1) Die einstweilige Anordnung darf die Dauer von sechs Wochen nicht
 überschreiten. Reicht dieser Zeitraum nicht aus, kann sie nach
@@ -7662,6 +8062,7 @@ darf die Gesamtdauer sechs Wochen nicht überschreiten.
 
 
 #### § 334 Einstweilige Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034001125)
 
 Die §§ 331, 332 und 333 gelten entsprechend, wenn nach § 1867 des
 Bürgerlichen Gesetzbuchs eine Unterbringungsmaßnahme getroffen werden
@@ -7669,6 +8070,7 @@ soll.
 
 
 #### § 335 Ergänzende Vorschriften über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034100000)
 
 (1) Das Recht der Beschwerde steht im Interesse des Betroffenen
 
@@ -7697,12 +8099,14 @@ Betroffenen Beschwerde einlegen.
 
 
 #### § 336 Einlegung der Beschwerde durch den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034200000)
 
 Der Betroffene kann die Beschwerde auch bei dem Amtsgericht einlegen,
 in dessen Bezirk er untergebracht ist.
 
 
 #### § 337 Kosten in Unterbringungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034302125)
 
 (1) In Unterbringungssachen kann das Gericht die Auslagen des
 Betroffenen, soweit sie zur zweckentsprechenden Rechtsverfolgung
@@ -7721,6 +8125,7 @@ Verwaltungsbehörde angehört.
 
 
 #### § 338 Mitteilung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034400000)
 
 Für Mitteilungen gelten die §§ 308 und 311 entsprechend. Die Aufhebung
 einer Unterbringungsmaßnahme nach § 330 Satz 1 und die Aussetzung der
@@ -7729,6 +8134,7 @@ Einrichtung, in der der Betroffene lebt, mitzuteilen.
 
 
 #### § 339 Benachrichtigung von Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034501125)
 
 Von der Anordnung oder Genehmigung einer Unterbringungsmaßnahme und
 deren Verlängerung hat das Gericht einen Angehörigen des Betroffenen
@@ -7736,9 +8142,11 @@ oder eine Person seines Vertrauens unverzüglich zu benachrichtigen.
 
 
 ### Abschnitt 3 - Verfahren in betreuungsgerichtlichen Zuweisungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004000000)
 
 
 #### § 340 Betreuungsgerichtliche Zuweisungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034601125)
 
 Betreuungsgerichtliche Zuweisungssachen sind
 
@@ -7759,18 +8167,22 @@ handelt.
 
 
 #### § 341 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034700000)
 
 Die Zuständigkeit des Gerichts bestimmt sich in
 betreuungsgerichtlichen Zuweisungssachen nach § 272.
 
 
 ## Buch 4 - Verfahren in Nachlass- und Teilungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004100000)
 
 
 ### Abschnitt 1 - Begriffsbestimmung; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004200000)
 
 
 #### § 342 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034800000)
 
 (1) Nachlasssachen sind Verfahren, die
 
@@ -7825,6 +8237,7 @@ betreffen.
 
 
 #### § 343 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE034901311)
 
 (1) Örtlich zuständig ist das Gericht, in dessen Bezirk der Erblasser
 im Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt hatte.
@@ -7841,6 +8254,7 @@ ein anderes Nachlassgericht verweisen.
 
 
 #### § 344 Besondere örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035002311)
 
 (1) Für die besondere amtliche Verwahrung von Testamenten ist
 zuständig,
@@ -7909,12 +8323,15 @@ von diesem Gericht an das zuständige Nachlassgericht zu übersenden.
 
 
 ### Abschnitt 2 - Verfahren in Nachlasssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004300000)
 
 
 #### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004400000)
 
 
 ##### § 345 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035100000)
 
 (1) In Verfahren auf Erteilung eines Erbscheins ist Beteiligter der
 Antragsteller. Ferner können als Beteiligte hinzugezogen werden:
@@ -7990,9 +8407,11 @@ Antrag sind sie hinzuzuziehen.
 
 
 #### Unterabschnitt 2 - Verwahrung von Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004500000)
 
 
 ##### § 346 Verfahren bei besonderer amtlicher Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035200000)
 
 (1) Die Annahme einer Verfügung von Todes wegen in besondere amtliche
 Verwahrung sowie deren Herausgabe ist von dem Richter anzuordnen und
@@ -8009,6 +8428,7 @@ Hinterlegungsschein, bei einem Erbvertrag jeder Vertragschließende.
 
 
 ##### § 347 Mitteilung über die Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035303125)
 
 (1) Nimmt das Gericht ein eigenhändiges Testament oder ein
 Nottestament in die besondere amtliche Verwahrung, übermittelt es
@@ -8034,9 +8454,11 @@ teilt das verwahrende Gericht dies der Registerbehörde mit.
 
 
 #### Unterabschnitt 3 - Eröffnung von Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004600000)
 
 
 ##### § 348 Eröffnung von Verfügungen von Todes wegen durch das Nachlassgericht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035400000)
 
 (1) Sobald das Gericht vom Tod des Erblassers Kenntnis erlangt hat,
 hat es eine in seiner Verwahrung befindliche Verfügung von Todes wegen
@@ -8058,6 +8480,7 @@ waren.
 
 
 ##### § 349 Besonderheiten bei der Eröffnung von gemeinschaftlichen Testamenten und Erbverträgen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035500000)
 
 (1) Bei der Eröffnung eines gemeinschaftlichen Testaments sind die
 Verfügungen des überlebenden Ehegatten oder Lebenspartners, soweit sie
@@ -8080,6 +8503,7 @@ gegenseitig zu Erben einsetzen.
 
 
 ##### § 350 Eröffnung der Verfügung von Todes wegen durch ein anderes Gericht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035600000)
 
 Hat ein nach § 344 Abs. 6 zuständiges Gericht die Verfügung von Todes
 wegen eröffnet, hat es diese und eine beglaubigte Abschrift der
@@ -8089,6 +8513,7 @@ zurückzubehalten.
 
 
 ##### § 351 Eröffnungsfrist für Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035700000)
 
 Befindet sich ein Testament, ein gemeinschaftliches Testament oder ein
 Erbvertrag seit mehr als 30 Jahren in amtlicher Verwahrung, soll die
@@ -8099,9 +8524,11 @@ bis 350 gelten entsprechend.
 
 
 #### Unterabschnitt 4 - Erbscheinsverfahren; Testamentsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004700000)
 
 
 ##### § 352 Angaben im Antrag auf Erteilung eines Erbscheins; Nachweis der Richtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035801311)
 
 (1) Wer die Erteilung eines Erbscheins als gesetzlicher Erbe
 beantragt, hat anzugeben
@@ -8172,6 +8599,7 @@ erforderlich hält.
 
 
 ##### § 352a Gemeinschaftlicher Erbschein
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050600311)
 
 (1) Sind mehrere Erben vorhanden, so ist auf Antrag ein
 gemeinschaftlicher Erbschein zu erteilen. Der Antrag kann von jedem
@@ -8192,6 +8620,7 @@ Versicherung eines oder mehrerer Erben für ausreichend hält.
 
 
 ##### § 352b Inhalt des Erbscheins für den Vorerben; Angabe des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050700311)
 
 (1) In dem Erbschein, der einem Vorerben erteilt wird, ist anzugeben,
 dass eine Nacherbfolge angeordnet ist, unter welchen Voraussetzungen
@@ -8206,6 +8635,7 @@ Ernennung in dem Erbschein anzugeben.
 
 
 ##### § 352c Gegenständlich beschränkter Erbschein
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050800311)
 
 (1) Gehören zu einer Erbschaft auch Gegenstände, die sich im Ausland
 befinden, kann der Antrag auf Erteilung eines Erbscheins auf die im
@@ -8218,6 +8648,7 @@ befindlich, wenn für die Klage ein deutsches Gericht zuständig ist.
 
 
 ##### § 352d Öffentliche Aufforderung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050900311)
 
 Das Nachlassgericht kann eine öffentliche Aufforderung zur Anmeldung
 der anderen Personen zustehenden Erbrechte erlassen; die Art der
@@ -8226,6 +8657,7 @@ den für das Aufgebotsverfahren geltenden Vorschriften.
 
 
 ##### § 352e Entscheidung über Erbscheinsanträge
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE051000311)
 
 (1) Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die
 zur Begründung des Antrags erforderlichen Tatsachen für festgestellt
@@ -8244,6 +8676,7 @@ Erbscheins beantragt wird.
 
 
 ##### § 353 Einziehung oder Kraftloserklärung von Erbscheinen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE035901311)
 
 (1) Kann der Erbschein im Verfahren über die Einziehung nicht sofort
 erlangt werden, so hat ihn das Nachlassgericht durch Beschluss für
@@ -8266,6 +8699,7 @@ Erbscheins.
 
 
 ##### § 354 Sonstige Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036001311)
 
 (1) Die §§ 352 bis 353 gelten entsprechend für die Erteilung von
 Zeugnissen nach den §§ 1507 und 2368 des Bürgerlichen Gesetzbuchs, den
@@ -8280,6 +8714,7 @@ Nachlass nicht beschränkt sein soll, so ist dies in dem Zeugnis nach §
 
 
 ##### § 355 Testamentsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036100000)
 
 (1) Ein Beschluss, durch den das Nachlassgericht einem Dritten eine
 Frist zur Erklärung nach § 2198 Abs. 2 des Bürgerlichen Gesetzbuchs
@@ -8303,9 +8738,11 @@ entscheidet, jedem Testamentsvollstrecker selbständig zu.
 
 
 #### Unterabschnitt 5 - Sonstige verfahrensrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004800000)
 
 
 ##### § 356 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036201125)
 
 (1) Erhält das Gericht Kenntnis davon, dass ein Kind Vermögen von
 Todes wegen erworben hat, das nach § 1640 Abs. 1 Satz 1 und Abs. 2 des
@@ -8325,6 +8762,7 @@ von einem Erben oder Testamentsvollstrecker beantragt wurde.
 
 
 ##### § 357 Einsicht in eine eröffnete Verfügung von Todes wegen; Ausfertigung eines Erbscheins oder anderen Zeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036300000)
 
 (1) Wer ein rechtliches Interesse glaubhaft macht, ist berechtigt,
 eine eröffnete Verfügung von Todes wegen einzusehen.
@@ -8337,12 +8775,14 @@ die Entlassung eines Testamentsvollstreckers beziehen.
 
 
 ##### § 358 Zwang zur Ablieferung von Testamenten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036400000)
 
 In den Fällen des § 2259 Abs. 1 des Bürgerlichen Gesetzbuchs erfolgt
 die Anordnung der Ablieferung des Testaments durch Beschluss.
 
 
 ##### § 359 Nachlassverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036500000)
 
 (1) Der Beschluss, durch den dem Antrag des Erben, die
 Nachlassverwaltung anzuordnen, stattgegeben wird, ist nicht
@@ -8356,6 +8796,7 @@ berechtigt ist.
 
 
 ##### § 360 Bestimmung einer Inventarfrist
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036600000)
 
 (1) Die Frist zur Einlegung einer Beschwerde gegen den Beschluss,
 durch den dem Erben eine Inventarfrist bestimmt wird, beginnt für
@@ -8370,6 +8811,7 @@ entschieden wird.
 
 
 ##### § 361 Eidesstattliche Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036700000)
 
 Verlangt ein Nachlassgläubiger von dem Erben die Abgabe der in § 2006
 des Bürgerlichen Gesetzbuchs vorgesehenen eidesstattlichen
@@ -8381,6 +8823,7 @@ laden. Die Anwesenheit des Gläubigers ist nicht erforderlich. Die §§
 
 
 ##### § 362 Stundung des Pflichtteilsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036800000)
 
 Für das Verfahren über die Stundung eines Pflichtteilsanspruchs (§
 2331a in Verbindung mit § 1382 des Bürgerlichen Gesetzbuchs) gilt §
@@ -8388,9 +8831,11 @@ Für das Verfahren über die Stundung eines Pflichtteilsanspruchs (§
 
 
 ### Abschnitt 3 - Verfahren in Teilungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG004900000)
 
 
 #### § 363 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE036901311)
 
 (1) Bei mehreren Erben hat der Notar auf Antrag die Auseinandersetzung
 des Nachlasses zwischen den Beteiligten zu vermitteln; das gilt nicht,
@@ -8406,10 +8851,12 @@ bezeichnet werden.
 
 
 #### § 364 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037001311)
 
 
 
 #### § 365 Ladung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037101311)
 
 (1) Der Notar hat den Antragsteller und die übrigen Beteiligten zu
 einem Verhandlungstermin zu laden. Die Ladung durch öffentliche
@@ -8426,6 +8873,7 @@ werden können.
 
 
 #### § 366 Außergerichtliche Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037201311)
 
 (1) Treffen die erschienenen Beteiligten vor der Auseinandersetzung
 eine Vereinbarung, insbesondere über die Art der Teilung, hat der
@@ -8454,6 +8902,7 @@ bestätigen.
 
 
 #### § 367 Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037300000)
 
 War im Fall des § 366 der Beteiligte ohne sein Verschulden verhindert,
 die Anberaumung eines neuen Termins rechtzeitig zu beantragen oder in
@@ -8463,6 +8912,7 @@ entsprechend.
 
 
 #### § 368 Auseinandersetzungsplan; Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037401311)
 
 (1) Sobald nach Lage der Sache die Auseinandersetzung stattfinden
 kann, hat der Notar einen Auseinandersetzungsplan anzufertigen. Sind
@@ -8480,6 +8930,7 @@ Abs. 3 und 4 zu verfahren. § 367 ist entsprechend anzuwenden.
 
 
 #### § 369 Verteilung durch das Los
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037501311)
 
 Ist eine Verteilung durch das Los vereinbart, wird das Los, wenn nicht
 ein anderes bestimmt ist, für die nicht erschienenen Beteiligten von
@@ -8487,6 +8938,7 @@ einem durch den Notar zu bestellenden Vertreter gezogen.
 
 
 #### § 370 Aussetzung bei Streit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037601311)
 
 Ergeben sich bei den Verhandlungen Streitpunkte, ist darüber eine
 Niederschrift aufzunehmen und das Verfahren bis zur Erledigung der
@@ -8496,6 +8948,7 @@ verfahren.
 
 
 #### § 371 Wirkung der bestätigten Vereinbarung und Auseinandersetzung; Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037700000)
 
 (1) Vereinbarungen nach § 366 Abs. 1 sowie Auseinandersetzungen nach §
 368 werden mit Rechtskraft des Bestätigungsbeschlusses wirksam und für
@@ -8508,6 +8961,7 @@ statt. Die §§ 795 und 797 der Zivilprozessordnung sind anzuwenden.
 
 
 #### § 372 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037800000)
 
 (1) Ein Beschluss, durch den eine Frist nach § 366 Abs. 3 bestimmt
 wird, und ein Beschluss, durch den über die Wiedereinsetzung
@@ -8520,6 +8974,7 @@ beachtet wurden.
 
 
 #### § 373 Auseinandersetzung einer Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE037901311)
 
 (1) Auf die Auseinandersetzung des Gesamtguts nach der Beendigung der
 ehelichen, lebenspartnerschaftlichen oder der fortgesetzten
@@ -8535,12 +8990,15 @@ Gütergemeinschaft nach den §§ 36 und 37 der Grundbuchordnung sowie den
 
 
 ## Buch 5 - Verfahren in Registersachen, unternehmensrechtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005000000)
 
 
 ### Abschnitt 1 - Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005100000)
 
 
 #### § 374 Registersachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038003125)
 
 Registersachen sind
 
@@ -8563,6 +9021,7 @@ Registersachen sind
 
 
 #### § 375 Unternehmensrechtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038114125)
 
 Unternehmensrechtliche Verfahren sind die nach
 
@@ -8656,9 +9115,11 @@ vom Gericht zu erledigenden Angelegenheiten.
 
 
 ### Abschnitt 2 - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005200000)
 
 
 #### § 376 Besondere Zuständigkeitsregelungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038205125)
 
 (1) Für Verfahren nach § 374 Nummer 1 bis 3 sowie § 375 Nummer 1, 3
 bis 14 sowie 16 und 17 ist das Gericht, in dessen Bezirk ein
@@ -8676,6 +9137,7 @@ Zuständigkeit eines Gerichts für Verfahren nach § 374 Nummer 1 bis 4
 
 
 #### § 377 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038301125)
 
 (1) Ausschließlich zuständig ist das Gericht, in dessen Bezirk sich
 die Niederlassung des Einzelkaufmanns, der Sitz der Gesellschaft, des
@@ -8692,12 +9154,15 @@ zuständig, an dem die Verteilung der Havereischäden zu erfolgen hat.
 
 
 ### Abschnitt 3 - Registersachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005300000)
 
 
 #### Unterabschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005400000)
 
 
 ##### § 378 Vertretung; notarielle Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038404125)
 
 (1) Für Erklärungen gegenüber dem Register, die zu der Eintragung
 erforderlich sind und in öffentlicher oder öffentlich beglaubigter
@@ -8727,6 +9192,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ##### § 379 Mitteilungspflichten der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038501125)
 
 (1) Die Gerichte, die Staatsanwaltschaften, die Polizei- und
 Gemeindebehörden sowie die Notare haben die ihnen amtlich zur Kenntnis
@@ -8746,6 +9212,7 @@ Akteneinsicht (§ 13).
 
 
 ##### § 380 Beteiligung der berufsständischen Organe; Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038601125)
 
 (1) Die Registergerichte werden bei der Vermeidung unrichtiger
 Eintragungen, der Berichtigung und Vervollständigung des Handels-,
@@ -8790,6 +9257,7 @@ Beschwerde zu.
 
 
 ##### § 381 Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038700000)
 
 Das Registergericht kann, wenn die sonstigen Voraussetzungen des § 21
 Abs. 1 vorliegen, das Verfahren auch aussetzen, wenn ein Rechtsstreit
@@ -8798,6 +9266,7 @@ Frist zur Erhebung der Klage zu bestimmen.
 
 
 ##### § 382 Entscheidung über Eintragungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038803125)
 
 (1) Das Registergericht gibt einem Eintragungsantrag durch die
 Eintragung in das Register statt. Die Eintragung wird mit ihrem
@@ -8819,6 +9288,7 @@ anfechtbar.
 
 
 ##### § 383 Mitteilung; Anfechtbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE038901308)
 
 (1) Die Eintragung ist den Beteiligten formlos mitzuteilen; auf die
 Mitteilung kann verzichtet werden.
@@ -8830,6 +9300,7 @@ Register bleiben unberührt.
 
 
 ##### § 384 Von Amts wegen vorzunehmende Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039000000)
 
 (1) Auf Eintragungen von Amts wegen sind § 382 Abs. 1 Satz 2 und Abs.
 2 sowie § 383 entsprechend anwendbar.
@@ -8840,6 +9311,7 @@ Amts wegen in geeigneter Weise kenntlich zu machen.
 
 
 ##### § 385 Einsicht in die Register
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039100000)
 
 Die Einsicht in die in § 374 genannten Register sowie die zum
 jeweiligen Register eingereichten Dokumente bestimmt sich nach den
@@ -8848,6 +9320,7 @@ besonderen registerrechtlichen Vorschriften sowie den auf Grund von §
 
 
 ##### § 386 Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039200000)
 
 Das Registergericht hat auf Verlangen eine Bescheinigung darüber zu
 erteilen, dass bezüglich des Gegenstands einer Eintragung weitere
@@ -8856,6 +9329,7 @@ bestimmte Eintragung in das Register nicht erfolgt ist.
 
 
 ##### § 387 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039305125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass die Daten des bei einem Gericht geführten Handels-,
@@ -8929,9 +9403,11 @@ erforderlichen Bestimmungen getroffen werden über
 
 
 #### Unterabschnitt 2 - Zwangsgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005500000)
 
 
 ##### § 388 Androhung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039404125)
 
 (1) Sobald das Registergericht von einem Sachverhalt, der sein
 Einschreiten nach den §§ 14, 37a Abs. 4 und § 125 Abs. 2 des
@@ -8954,6 +9430,7 @@ Vorschriften anzuhalten.
 
 
 ##### § 389 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039500000)
 
 (1) Wird innerhalb der bestimmten Frist weder der gesetzlichen
 Verpflichtung genügt noch Einspruch erhoben, ist das angedrohte
@@ -8968,6 +9445,7 @@ Verpflichtung genügt oder Einspruch erhoben wird.
 
 
 ##### § 390 Verfahren bei Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039600000)
 
 (1) Wird rechtzeitig Einspruch erhoben, soll das Gericht, wenn sich
 der Einspruch nicht ohne weiteres als begründet erweist, den
@@ -8998,6 +9476,7 @@ festsetzen.
 
 
 ##### § 391 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039700000)
 
 (1) Der Beschluss, durch den das Zwangsgeld festgesetzt oder der
 Einspruch verworfen wird, ist mit der Beschwerde anfechtbar.
@@ -9008,6 +9487,7 @@ gerechtfertigt gewesen sei.
 
 
 ##### § 392 Verfahren bei unbefugtem Firmengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039801125)
 
 (1) Soll nach § 37 Abs. 1 des Handelsgesetzbuchs gegen eine Person
 eingeschritten werden, die eine ihr nicht zustehende Firma gebraucht,
@@ -9031,9 +9511,11 @@ bürgerlichen Rechts.
 
 
 #### Unterabschnitt 3 - Löschungs- und Auflösungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005600000)
 
 
 ##### § 393 Löschung einer Firma
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE039902125)
 
 (1) Das Erlöschen einer Firma ist gemäß § 31 Abs. 2 des
 Handelsgesetzbuchs von Amts wegen oder auf Antrag der
@@ -9068,6 +9550,7 @@ bürgerlichen Rechts eingetragen werden soll.
 
 
 ##### § 394 Löschung vermögensloser Gesellschaften und Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040002125)
 
 (1) Eine Aktiengesellschaft, Kommanditgesellschaft auf Aktien,
 Gesellschaft mit beschränkter Haftung oder Genossenschaft, die kein
@@ -9109,6 +9592,7 @@ natürliche Person persönlich haftender Gesellschafter ist.
 
 
 ##### § 395 Löschung unzulässiger Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040100000)
 
 (1) Ist eine Eintragung im Register wegen des Mangels einer
 wesentlichen Voraussetzung unzulässig, kann das Registergericht sie
@@ -9124,11 +9608,13 @@ und 2 gilt entsprechend.
 
 
 ##### § 396
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040200000)
 
 (entfallen)
 
 
 ##### § 397 Löschung nichtiger Gesellschaften und Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040300000)
 
 Eine in das Handelsregister eingetragene Aktiengesellschaft oder
 Kommanditgesellschaft auf Aktien kann nach § 395 als nichtig gelöscht
@@ -9145,6 +9631,7 @@ Genossenschaftsgesetzes die Nichtigkeitsklage erhoben werden kann.
 
 
 ##### § 398 Löschung nichtiger Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040400000)
 
 Ein in das Handelsregister eingetragener Beschluss der
 Hauptversammlung oder Versammlung der Gesellschafter einer der in §
@@ -9156,6 +9643,7 @@ seine Beseitigung im öffentlichen Interesse erforderlich erscheint.
 
 
 ##### § 399 Auflösung wegen Mangels der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040500000)
 
 (1) Enthält die Satzung einer in das Handelsregister eingetragenen
 Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien eine
@@ -9194,9 +9682,11 @@ betreffend die Gesellschaften mit beschränkter Haftung nichtig ist.
 
 
 #### Unterabschnitt 4 - Ergänzende Vorschriften für das Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005700000)
 
 
 ##### § 400 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040600000)
 
 Das Gericht hat die Eintragung eines Vereins oder einer
 Satzungsänderung der zuständigen Verwaltungsbehörde mitzuteilen, wenn
@@ -9206,6 +9696,7 @@ eine organisatorische Einrichtung eines ausländischen Vereins nach den
 
 
 ##### § 401 Entziehung der Rechtsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040700000)
 
 Der Beschluss, durch den einem Verein nach § 73 des Bürgerlichen
 Gesetzbuchs die Rechtsfähigkeit entzogen wird, wird erst mit
@@ -9213,9 +9704,11 @@ Rechtskraft wirksam.
 
 
 ### Abschnitt 4 - Unternehmensrechtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005800000)
 
 
 #### § 402 Anfechtbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040802311)
 
 (1) Der Beschluss des Gerichts, durch den über Anträge nach § 375
 entschieden wird, ist mit der Beschwerde anfechtbar.
@@ -9230,6 +9723,7 @@ des Publizitätsgesetzes über die Beschwerde bleiben unberührt.
 
 
 #### § 403 Weigerung des Dispacheurs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE040900000)
 
 (1) Lehnt der Dispacheur den Auftrag eines Beteiligten zur Aufmachung
 der Dispache aus dem Grund ab, weil ein Fall der großen Haverei nicht
@@ -9240,6 +9734,7 @@ Antrag des Beteiligten das Gericht.
 
 
 #### § 404 Aushändigung von Schriftstücken; Einsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041001311)
 
 (1) Auf Antrag des Dispacheurs kann das Gericht einen Beteiligten
 verpflichten, dem Dispacheur die in seinem Besitz befindlichen
@@ -9252,6 +9747,7 @@ Erstattung der Kosten zu erteilen.
 
 
 #### § 405 Termin; Ladung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041100000)
 
 (1) Jeder Beteiligte ist befugt, bei dem Gericht eine mündliche
 Verhandlung über die von dem Dispacheur aufgemachte Dispache zu
@@ -9280,6 +9776,7 @@ Belege anzuordnen. § 404 Abs. 1 gilt entsprechend.
 
 
 #### § 406 Verfahren im Termin
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041200000)
 
 (1) Wird im Termin ein Widerspruch gegen die Dispache nicht erhoben
 und ist ein solcher auch vorher nicht angemeldet, hat das Gericht die
@@ -9298,6 +9795,7 @@ Widerspruch nicht als begründet anerkennt.
 
 
 #### § 407 Verfolgung des Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041300000)
 
 (1) Soweit ein Widerspruch nicht nach § 406 Abs. 2 erledigt wird, hat
 ihn der Widersprechende durch Erhebung der Klage gegen diejenigen an
@@ -9316,6 +9814,7 @@ der Einwendungen berichtigt ist.
 
 
 #### § 408 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041400000)
 
 (1) Der Beschluss, durch den ein nach § 405 gestellter Antrag auf
 gerichtliche Verhandlung zurückgewiesen, über die Bestätigung der
@@ -9329,6 +9828,7 @@ werden.
 
 
 #### § 409 Wirksamkeit; Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041501311)
 
 (1) Die Bestätigung der Dispache ist nur für das gegenseitige
 Verhältnis der an dem Verfahren Beteiligten wirksam.
@@ -9347,9 +9847,11 @@ erheben.
 
 
 ## Buch 6 - Verfahren in weiteren Angelegenheiten der freiwilligen Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG005900000)
 
 
 ### § 410 Weitere Angelegenheiten der freiwilligen Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041601308)
 
 Weitere Angelegenheiten der freiwilligen Gerichtsbarkeit sind
 
@@ -9377,6 +9879,7 @@ Weitere Angelegenheiten der freiwilligen Gerichtsbarkeit sind
 
 
 ### § 411 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041700000)
 
 (1) In Verfahren nach § 410 Nr. 1 ist das Gericht zuständig, in dessen
 Bezirk die Verpflichtung zur Auskunft, zur Rechnungslegung oder zur
@@ -9398,6 +9901,7 @@ Bezirk das Pfand aufbewahrt wird.
 
 
 ### § 412 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041800000)
 
 Als Beteiligte sind hinzuzuziehen:
 
@@ -9425,6 +9929,7 @@ Als Beteiligte sind hinzuzuziehen:
 
 
 ### § 413 Eidesstattliche Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE041900000)
 
 In Verfahren nach § 410 Nr. 1 kann sowohl der Verpflichtete als auch
 der Berechtigte die Abgabe der eidesstattlichen Versicherung
@@ -9434,15 +9939,18 @@ Zivilprozessordnung gelten entsprechend.
 
 
 ### § 414 Unanfechtbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042000000)
 
 Die Entscheidung, durch die in Verfahren nach § 410 Nr. 2 dem Antrag
 stattgegeben wird, ist nicht anfechtbar.
 
 
 ## Buch 7 - Verfahren in Freiheitsentziehungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006000000)
 
 
 ### § 415 Freiheitsentziehungssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042100000)
 
 (1) Freiheitsentziehungssachen sind Verfahren, die die auf Grund von
 Bundesrecht angeordnete Freiheitsentziehung betreffen, soweit das
@@ -9455,6 +9963,7 @@ abgeschlossenen Teil eines Krankenhauses, die Freiheit entzogen wird.
 
 
 ### § 416 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042200000)
 
 Zuständig ist das Gericht, in dessen Bezirk die Person, der die
 Freiheit entzogen werden soll, ihren gewöhnlichen Aufenthalt hat,
@@ -9465,6 +9974,7 @@ zuständig, in dessen Bezirk die Einrichtung liegt.
 
 
 ### § 417 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042301125)
 
 (1) Die Freiheitsentziehung darf das Gericht nur auf Antrag der
 zuständigen Verwaltungsbehörde anordnen.
@@ -9499,6 +10009,7 @@ Tatsacheninstanz ergänzt werden.
 
 
 ### § 418 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042400000)
 
 (1) Zu beteiligen sind die Person, der die Freiheit entzogen werden
 soll (Betroffener), und die Verwaltungsbehörde, die den Antrag auf
@@ -9522,6 +10033,7 @@ zum Verfahren hinzugezogen.
 
 
 ### § 419 Verfahrenspfleger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042501125)
 
 (1) Das Gericht hat dem Betroffenen einen geeigneten Verfahrenspfleger
 zu bestellen, wenn dies zur Wahrnehmung seiner Interessen erforderlich
@@ -9555,6 +10067,7 @@ aufzuerlegen.
 
 
 ### § 420 Anhörung; Vorführung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042600000)
 
 (1) Das Gericht hat den Betroffenen vor der Anordnung der
 Freiheitsentziehung persönlich anzuhören. Erscheint er zu dem
@@ -9579,6 +10092,7 @@ Gutachten beifügen.
 
 
 ### § 421 Inhalt der Beschlussformel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042700000)
 
 Die Beschlussformel zur Anordnung einer Freiheitsentziehung enthält
 auch
@@ -9593,6 +10107,7 @@ auch
 
 
 ### § 422 Wirksamwerden von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042801308)
 
 (1) Der Beschluss, durch den eine Freiheitsentziehung angeordnet wird,
 wird mit Rechtskraft wirksam.
@@ -9625,6 +10140,7 @@ bestimmt ist.
 
 
 ### § 423 Absehen von der Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE042900000)
 
 Von der Bekanntgabe der Gründe eines Beschlusses an den Betroffenen
 kann abgesehen werden, wenn dies nach ärztlichem Zeugnis erforderlich
@@ -9632,6 +10148,7 @@ ist, um erhebliche Nachteile für seine Gesundheit zu vermeiden.
 
 
 ### § 424 Aussetzung des Vollzugs
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043000000)
 
 (1) Das Gericht kann die Vollziehung der Freiheitsentziehung
 aussetzen. Es hat die Verwaltungsbehörde und den Leiter der
@@ -9644,6 +10161,7 @@ eine Auflage nicht erfüllt oder sein Zustand dies erfordert.
 
 
 ### § 425 Dauer und Verlängerung der Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043100000)
 
 (1) In dem Beschluss, durch den eine Freiheitsentziehung angeordnet
 wird, ist eine Frist für die Freiheitsentziehung bis zur Höchstdauer
@@ -9659,6 +10177,7 @@ Vorschriften über die erstmalige Anordnung entsprechend.
 
 
 ### § 426 Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043200000)
 
 (1) Der Beschluss, durch den eine Freiheitsentziehung angeordnet wird,
 ist vor Ablauf der nach § 425 Abs. 1 festgesetzten Frist von Amts
@@ -9671,6 +10190,7 @@ beantragen. Das Gericht entscheidet über den Antrag durch Beschluss.
 
 
 ### § 427 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043301125)
 
 (1) Das Gericht kann durch einstweilige Anordnung eine vorläufige
 Freiheitsentziehung anordnen, wenn dringende Gründe für die Annahme
@@ -9693,6 +10213,7 @@ Anhörung ist unverzüglich nachzuholen.
 
 
 ### § 428 Verwaltungsmaßnahme; richterliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043400000)
 
 (1) Bei jeder Verwaltungsmaßnahme, die eine Freiheitsentziehung
 darstellt und nicht auf richterlicher Anordnung beruht, hat die
@@ -9707,6 +10228,7 @@ Vorschriften dieses Buches zu entscheiden.
 
 
 ### § 429 Ergänzende Vorschriften über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043500000)
 
 (1) Das Recht der Beschwerde steht der zuständigen Behörde zu.
 
@@ -9732,6 +10254,7 @@ werden, in dessen Bezirk die Einrichtung liegt.
 
 
 ### § 430 Auslagenersatz
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043600000)
 
 Wird ein Antrag der Verwaltungsbehörde auf Freiheitsentziehung
 abgelehnt oder zurückgenommen und hat das Verfahren ergeben, dass ein
@@ -9742,6 +10265,7 @@ aufzuerlegen, der die Verwaltungsbehörde angehört.
 
 
 ### § 431 Mitteilung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043700000)
 
 Für Mitteilungen von Entscheidungen gelten die §§ 308 und 311
 entsprechend, wobei an die Stelle des Betreuers die Verwaltungsbehörde
@@ -9752,6 +10276,7 @@ Betroffene befindet, mitzuteilen.
 
 
 ### § 432 Benachrichtigung von Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043800000)
 
 Von der Anordnung der Freiheitsentziehung und deren Verlängerung hat
 das Gericht einen Angehörigen des Betroffenen oder eine Person seines
@@ -9759,12 +10284,15 @@ Vertrauens unverzüglich zu benachrichtigen.
 
 
 ## Buch 8 - Verfahren in Aufgebotssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006100000)
 
 
 ### Abschnitt 1 - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006200000)
 
 
 #### § 433 Aufgebotssachen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE043900000)
 
 Aufgebotssachen sind Verfahren, in denen das Gericht öffentlich zur
 Anmeldung von Ansprüchen oder Rechten auffordert, mit der Wirkung,
@@ -9773,6 +10301,7 @@ hat; sie finden nur in den durch Gesetz bestimmten Fällen statt.
 
 
 #### § 434 Antrag; Inhalt des Aufgebots
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044000000)
 
 (1) Das Aufgebotsverfahren wird nur auf Antrag eingeleitet.
 
@@ -9794,6 +10323,7 @@ erlassen. In das Aufgebot ist insbesondere aufzunehmen:
 
 
 #### § 435 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044101140)
 
 (1) Die öffentliche Bekanntmachung des Aufgebots erfolgt durch Aushang
 an der Gerichtstafel und durch einmalige Veröffentlichung in dem
@@ -9808,6 +10338,7 @@ Weise zu veröffentlichen.
 
 
 #### § 436 Gültigkeit der öffentlichen Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044200000)
 
 Auf die Gültigkeit der öffentlichen Bekanntmachung hat es keinen
 Einfluss, wenn das Schriftstück von der Gerichtstafel oder das
@@ -9817,6 +10348,7 @@ vorgeschriebenen Zwischenfristen nicht eingehalten sind.
 
 
 #### § 437 Aufgebotsfrist
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044301140)
 
 Zwischen dem Tag, an dem das Aufgebot erstmalig in einem Informations-
 und Kommunikationssystem oder im Bundesanzeiger veröffentlicht wird,
@@ -9826,12 +10358,14 @@ Wochen liegen.
 
 
 #### § 438 Anmeldung nach dem Anmeldezeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044400000)
 
 Eine Anmeldung, die nach dem Anmeldezeitpunkt, jedoch vor dem Erlass
 des Ausschließungsbeschlusses erfolgt, ist als rechtzeitig anzusehen.
 
 
 #### § 439 Erlass des Ausschließungsbeschlusses; Beschwerde; Wiedereinsetzung und Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044500000)
 
 (1) Vor Erlass des Ausschließungsbeschlusses kann eine nähere
 Ermittlung, insbesondere die Versicherung der Wahrheit einer
@@ -9852,6 +10386,7 @@ Ausschließungsbeschlusses an gerechnet, unstatthaft ist.
 
 
 #### § 440 Wirkung einer Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044600000)
 
 Bei einer Anmeldung, durch die das von dem Antragsteller zur
 Begründung des Antrags behauptete Recht bestritten wird, ist entweder
@@ -9861,6 +10396,7 @@ angemeldete Recht vorzubehalten.
 
 
 #### § 441 Öffentliche Zustellung des Ausschließungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044700000)
 
 Der Ausschließungsbeschluss ist öffentlich zuzustellen. Für die
 Durchführung der öffentlichen Zustellung gelten die §§ 186, 187, 188
@@ -9868,9 +10404,11 @@ der Zivilprozessordnung entsprechend.
 
 
 ### Abschnitt 2 - Aufgebot des Eigentümers von Grundstücken, Schiffen und Schiffsbauwerken
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006300000)
 
 
 #### § 442 Aufgebot des Grundstückseigentümers; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044800000)
 
 (1) Für das Aufgebotsverfahren zur Ausschließung des Eigentümers eines
 Grundstücks nach § 927 des Bürgerlichen Gesetzbuchs gelten die
@@ -9881,18 +10419,21 @@ belegen ist.
 
 
 #### § 443 Antragsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE044900000)
 
 Antragsberechtigt ist derjenige, der das Grundstück seit der in § 927
 des Bürgerlichen Gesetzbuchs bestimmten Zeit im Eigenbesitz hat.
 
 
 #### § 444 Glaubhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045000000)
 
 Der Antragsteller hat die zur Begründung des Antrags erforderlichen
 Tatsachen vor der Einleitung des Verfahrens glaubhaft zu machen.
 
 
 #### § 445 Inhalt des Aufgebots
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045100000)
 
 In dem Aufgebot ist der bisherige Eigentümer aufzufordern, sein Recht
 spätestens zum Anmeldezeitpunkt anzumelden, widrigenfalls seine
@@ -9900,6 +10441,7 @@ Ausschließung erfolgen werde.
 
 
 #### § 446 Aufgebot des Schiffseigentümers
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045200000)
 
 (1) Für das Aufgebotsverfahren zur Ausschließung des Eigentümers eines
 eingetragenen Schiffes oder Schiffsbauwerks nach § 6 des Gesetzes über
@@ -9911,9 +10453,11 @@ Schiff oder Schiffsbauwerk geführt wird.
 
 
 ### Abschnitt 3 - Aufgebot des Gläubigers von Grund- und Schiffspfandrechten sowie des Berechtigten sonstiger dinglicher Rechte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006400000)
 
 
 #### § 447 Aufgebot des Grundpfandrechtsgläubigers; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045300000)
 
 (1) Für das Aufgebotsverfahren zur Ausschließung eines Hypotheken-,
 Grundschuld- oder Rentenschuldgläubigers auf Grund der §§ 1170 und
@@ -9925,6 +10469,7 @@ Grundstück belegen ist.
 
 
 #### § 448 Antragsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045400000)
 
 (1) Antragsberechtigt ist der Eigentümer des belasteten Grundstücks.
 
@@ -9942,12 +10487,14 @@ erlangt hat.
 
 
 #### § 449 Glaubhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045500000)
 
 Der Antragsteller hat vor der Einleitung des Verfahrens glaubhaft zu
 machen, dass der Gläubiger unbekannt ist.
 
 
 #### § 450 Besondere Glaubhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045600000)
 
 (1) Im Fall des § 1170 des Bürgerlichen Gesetzbuchs hat der
 Antragsteller vor der Einleitung des Verfahrens auch glaubhaft zu
@@ -9977,6 +10524,7 @@ von Amts wegen mitzuteilen.
 
 
 #### § 451 Verfahren bei Ausschluss mittels Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045700000)
 
 (1) Im Fall des § 1171 des Bürgerlichen Gesetzbuchs hat der
 Antragsteller vor der Einleitung des Verfahrens die Hinterlegung des
@@ -9997,6 +10545,7 @@ die Hinterlegung erfolgt ist.
 
 
 #### § 452 Aufgebot des Schiffshypothekengläubigers; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045800000)
 
 (1) Für das Aufgebotsverfahren zur Ausschließung eines
 Schiffshypothekengläubigers auf Grund der §§ 66 und 67 des Gesetzes
@@ -10010,6 +10559,7 @@ Schiff oder Schiffsbauwerk geführt wird.
 
 
 #### § 453 Aufgebot des Berechtigten bei Vormerkung, Vorkaufsrecht, Reallast
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE045900000)
 
 (1) Die Vorschriften des § 447 Abs. 2, des § 448 Abs. 1, der §§ 449,
 450 Abs. 1 bis 4 und der §§ 451, 452 gelten entsprechend für das
@@ -10028,9 +10578,11 @@ Amts wegen mitzuteilen.
 
 
 ### Abschnitt 4 - Aufgebot von Nachlassgläubigern
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006500000)
 
 
 #### § 454 Aufgebot von Nachlassgläubigern; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046000000)
 
 (1) Für das Aufgebotsverfahren zur Ausschließung von
 Nachlassgläubigern auf Grund des § 1970 des Bürgerlichen Gesetzbuchs
@@ -10043,6 +10595,7 @@ zuständig, in dessen Bezirk die Nachlassbehörde ihren Sitz hat.
 
 
 #### § 455 Antragsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046100000)
 
 (1) Antragsberechtigt ist jeder Erbe, wenn er nicht für die
 Nachlassverbindlichkeiten unbeschränkt haftet.
@@ -10056,12 +10609,14 @@ nach der Annahme der Erbschaft stellen.
 
 
 #### § 456 Verzeichnis der Nachlassgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046200000)
 
 Dem Antrag ist ein Verzeichnis der bekannten Nachlassgläubiger mit
 Angabe ihres Wohnorts beizufügen.
 
 
 #### § 457 Nachlassinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046300000)
 
 (1) Das Aufgebot soll nicht erlassen werden, wenn die Eröffnung des
 Nachlassinsolvenzverfahrens beantragt ist.
@@ -10071,6 +10626,7 @@ Aufgebotsverfahren beendet.
 
 
 #### § 458 Inhalt des Aufgebots; Aufgebotsfrist
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046400000)
 
 (1) In dem Aufgebot ist den Nachlassgläubigern, die sich nicht melden,
 als Rechtsnachteil anzudrohen, dass sie von dem Erben nur insoweit
@@ -10083,6 +10639,7 @@ Auflagen berücksichtigt zu werden, bleibt unberührt.
 
 
 #### § 459 Forderungsanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046500000)
 
 (1) In der Anmeldung einer Forderung sind der Gegenstand und der Grund
 der Forderung anzugeben. Urkundliche Beweisstücke sind in Urschrift
@@ -10093,6 +10650,7 @@ der ein rechtliches Interesse glaubhaft macht.
 
 
 #### § 460 Mehrheit von Erben
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046600000)
 
 (1) Sind mehrere Erben vorhanden, kommen der von einem Erben gestellte
 Antrag und der von ihm erwirkte Ausschließungsbeschluss auch den
@@ -10108,12 +10666,14 @@ er für die Nachlassverbindlichkeiten unbeschränkt haftet.
 
 
 #### § 461 Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046700000)
 
 Im Fall der Nacherbfolge ist § 460 Abs. 1 Satz 1 auf den Vorerben und
 den Nacherben entsprechend anzuwenden.
 
 
 #### § 462 Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046800000)
 
 (1) Gehört ein Nachlass zum Gesamtgut der Gütergemeinschaft, kann
 sowohl der Ehegatte, der Erbe ist, als auch der Ehegatte, der nicht
@@ -10130,6 +10690,7 @@ Anwendung.
 
 
 #### § 463 Erbschaftskäufer
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE046900000)
 
 (1) Hat der Erbe die Erbschaft verkauft, so können sowohl der Käufer
 als auch der Erbe das Aufgebot beantragen. Der von dem einen Teil
@@ -10144,6 +10705,7 @@ sonstiger Weise verpflichtet hat.
 
 
 #### § 464 Aufgebot der Gesamtgutsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047000000)
 
 § 454 Abs. 2 und die §§ 455 bis 459, 462 und 463 sind im Fall der
 fortgesetzten Gütergemeinschaft auf das Aufgebotsverfahren zur
@@ -10152,9 +10714,11 @@ des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
 
 ### Abschnitt 5 - Aufgebot der Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006600000)
 
 
 #### § 465 Aufgebot der Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047100000)
 
 (1) Für das Aufgebotsverfahren zur Ausschließung von Schiffsgläubigern
 auf Grund des § 110 des Binnenschifffahrtsgesetzes gelten die
@@ -10178,9 +10742,11 @@ ihre Forderungen dem Antragsteller nicht bekannt sind.
 
 
 ### Abschnitt 6 - Aufgebot zur Kraftloserklärung von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006700000)
 
 
 #### § 466 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047200000)
 
 (1) Für das Aufgebotsverfahren ist das Gericht örtlich zuständig, in
 dessen Bezirk der in der Urkunde bezeichnete Erfüllungsort liegt.
@@ -10202,6 +10768,7 @@ machen.
 
 
 #### § 467 Antragsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047300000)
 
 (1) Bei Papieren, die auf den Inhaber lauten oder die durch
 Indossament übertragen werden können und mit einem Blankoindossament
@@ -10213,6 +10780,7 @@ berechtigt, der das Recht aus der Urkunde geltend machen kann.
 
 
 #### § 468 Antragsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047400000)
 
 Der Antragsteller hat zur Begründung des Antrags
 
@@ -10234,6 +10802,7 @@ Der Antragsteller hat zur Begründung des Antrags
 
 
 #### § 469 Inhalt des Aufgebots
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047500000)
 
 In dem Aufgebot ist der Inhaber der Urkunde aufzufordern, seine Rechte
 bei dem Gericht bis zum Anmeldezeitpunkt anzumelden und die Urkunde
@@ -10242,6 +10811,7 @@ kraftlos erklärt werde.
 
 
 #### § 470 Ergänzende Bekanntmachung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047600000)
 
 Betrifft das Aufgebot ein auf den Inhaber lautendes Papier und ist in
 der Urkunde vermerkt oder in den Bestimmungen, unter denen die
@@ -10258,6 +10828,7 @@ Kommunikationssystem erfolgen.
 
 
 #### § 471 Wertpapiere mit Zinsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047700000)
 
 (1) Bei Wertpapieren, für die von Zeit zu Zeit Zins-, Renten- oder
 Gewinnanteilscheine ausgegeben werden, ist der Anmeldezeitpunkt so zu
@@ -10275,6 +10846,7 @@ an einen anderen als den Antragsteller nicht ausgegeben seien.
 
 
 #### § 472 Zinsscheine für mehr als vier Jahre
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047801311)
 
 (1) Bei Wertpapieren, für die Zins-, Renten- oder Gewinnanteilscheine
 zuletzt für einen längeren Zeitraum als vier Jahre ausgegeben sind,
@@ -10296,6 +10868,7 @@ bezeichneten Angaben enthalten.
 
 
 #### § 473 Vorlegung der Zinsscheine
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE047901311)
 
 Die §§ 471 und 472 sind insoweit nicht anzuwenden, als die Zins-,
 Renten- oder Gewinnanteilscheine, deren Fälligkeit nach diesen
@@ -10307,6 +10880,7 @@ worden seien.
 
 
 #### § 474 Abgelaufene Ausgabe der Zinsscheine
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048000000)
 
 Bei Wertpapieren, für die Zins-, Renten- oder Gewinnanteilscheine
 ausgegeben sind, aber nicht mehr ausgegeben werden, ist der
@@ -10316,6 +10890,7 @@ gilt nicht, wenn die Voraussetzungen der §§ 471 und 472 gegeben sind.
 
 
 #### § 475 Anmeldezeitpunkt bei bestimmter Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048101140)
 
 Ist in einer Schuldurkunde eine Verfallzeit angegeben, die zur Zeit
 der ersten Veröffentlichung des Aufgebots im Bundesanzeiger noch nicht
@@ -10325,11 +10900,13 @@ Verfalltag sechs Monate abgelaufen sind.
 
 
 #### § 476 Aufgebotsfrist
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048200000)
 
 Die Aufgebotsfrist soll höchstens ein Jahr betragen.
 
 
 #### § 477 Anmeldung der Rechte
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048300000)
 
 Meldet der Inhaber der Urkunde vor dem Erlass des
 Ausschließungsbeschlusses seine Rechte unter Vorlegung der Urkunde an,
@@ -10339,6 +10916,7 @@ Urkunde Einsicht zu nehmen und eine Stellungnahme abzugeben.
 
 
 #### § 478 Ausschließungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048401140)
 
 (1) In dem Ausschließungsbeschluss ist die Urkunde für kraftlos zu
 erklären.
@@ -10353,6 +10931,7 @@ aufgehoben wird.
 
 
 #### § 479 Wirkung des Ausschließungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048500000)
 
 (1) Derjenige, der den Ausschließungsbeschluss erwirkt hat, ist dem
 durch die Urkunde Verpflichteten gegenüber berechtigt, die Rechte aus
@@ -10367,6 +10946,7 @@ Ausschließungsbeschlusses gekannt hat.
 
 
 #### § 480 Zahlungssperre
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048600000)
 
 (1) Bezweckt das Aufgebotsverfahren die Kraftloserklärung eines auf
 den Inhaber lautenden Papiers, so hat das Gericht auf Antrag an den
@@ -10391,6 +10971,7 @@ Gewinnanteilscheine wird von dem Verbot nicht betroffen.
 
 
 #### § 481 Entbehrlichkeit des Zeugnisses nach § 471 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048700000)
 
 Wird die Zahlungssperre angeordnet, bevor seit der Zeit des glaubhaft
 gemachten Verlustes Zins-, Renten- oder Gewinnanteilscheine ausgegeben
@@ -10399,6 +10980,7 @@ vorgeschriebenen Zeugnisses nicht erforderlich.
 
 
 #### § 482 Aufhebung der Zahlungssperre
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048801140)
 
 (1) Wird das in Verlust gekommene Papier dem Gericht vorgelegt oder
 wird das Aufgebotsverfahren ohne Erlass eines
@@ -10421,6 +11003,7 @@ bis 572 der Zivilprozessordnung anfechtbar.
 
 
 #### § 483 Hinkende Inhaberpapiere
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE048900000)
 
 Bezweckt das Aufgebotsverfahren die Kraftloserklärung einer Urkunde
 der in § 808 des Bürgerlichen Gesetzbuchs bezeichneten Art, gelten §
@@ -10432,6 +11015,7 @@ abweichende Vorschriften erlassen.
 
 
 #### § 484 Vorbehalt für die Landesgesetzgebung
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049000000)
 
 (1) Bei Aufgeboten auf Grund der §§ 887, 927, 1104, 1112, 1162, 1170,
 1171 des Bürgerlichen Gesetzbuchs, des § 110 des
@@ -10452,15 +11036,18 @@ Aufgebotsfrist auch anders bestimmen, als in den §§ 470, 475, 476 und
 
 
 ## Buch 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNG006800000)
 
 
 ### § 485 Verhältnis zu anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049100000)
 
 Artikel 1 Abs. 2 und die Artikel 2 und 50 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche sind entsprechend anzuwenden.
 
 
 ### § 486 Landesrechtliche Vorbehalte; Ergänzungs- und Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049201311)
 
 (1) Soweit das Einführungsgesetz zum Bürgerlichen Gesetzbuche
 Rechtsgebiete der Landesgesetzgebung vorbehält, gilt dieser Vorbehalt
@@ -10478,6 +11065,7 @@ Stelle öffentlich beglaubigt worden sind.
 
 
 ### § 487 Nachlassauseinandersetzung; Auseinandersetzung einer Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049301311)
 
 (1) Unberührt bleiben die landesrechtlichen Vorschriften,
 
@@ -10505,6 +11093,7 @@ Stelle öffentlich beglaubigt worden sind.
 
 
 ### § 488 Verfahren vor landesgesetzlich zugelassenen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049401311)
 
 (1) Sind für die in den §§ 1 und 363 genannten Angelegenheiten nach
 Landesgesetz andere Behörden zuständig, gelten die Vorschriften des
@@ -10525,6 +11114,7 @@ Gerichte, Rechtshilfe zu leisten, bleibt unberührt.
 
 
 ### § 489 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049500000)
 
 (1) Sind für die in § 1 genannten Angelegenheiten nach Landesgesetz
 anstelle der Gerichte Behörden zuständig, kann durch Landesgesetz
@@ -10538,6 +11128,7 @@ statt.
 
 
 ### § 490 Landesrechtliche Aufgebotsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049600000)
 
 Die Landesgesetze können bei Aufgeboten, deren Zulässigkeit auf
 landesgesetzlichen Vorschriften beruht, die Anwendung der Bestimmungen
@@ -10546,6 +11137,7 @@ andere Vorschriften ersetzen.
 
 
 ### § 491 Landesrechtliche Vorbehalte bei Verfahren zur Kraftloserklärung von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE049700000)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, durch die für
 das Aufgebotsverfahren zum Zweck der Kraftloserklärung von
@@ -10560,6 +11152,7 @@ Art, gilt Satz 1 entsprechend.
 
 
 ### § 492 Anwendbare Vorschriften bei Zuständigkeit von Notaren
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050101311)
 
 (1) Wird in Verfahren nach § 342 Absatz 2 Nummer 1 ein Notar anstelle
 des Amtsgerichts tätig, so sind die für das Amtsgericht geltenden
@@ -10586,6 +11179,7 @@ geändert werden können, sind mit der Erinnerung nicht anfechtbar.
 
 
 ### § 493 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html#BJNR258700008BJNE050205125)
 
 (1) Für bis zum Inkrafttreten des Gesetzes zur Übertragung von
 Aufgaben im Bereich der freiwilligen Gerichtsbarkeit auf Notare vom

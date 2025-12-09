@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000100000)
 
 Auf Grund des § 13 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24.
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Nicht als Einkommen zu berücksichtigende Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000219377)
 
 (1) Außer den in § 11a des Zweiten Buches Sozialgesetzbuch genannten
 Einnahmen sind nicht als Einkommen zu berücksichtigen:
@@ -133,6 +135,7 @@ Mindestgrundrente nach dem Vierzehnten Buch Sozialgesetzbuch.
 
 
 ## § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000303119)
 
 (1) Bei der Berechnung des Einkommens aus nichtselbständiger Arbeit (§
 14 des Vierten Buches Sozialgesetzbuch) ist von den Bruttoeinnahmen
@@ -170,6 +173,7 @@ Einkommen anzusetzen.
 
 
 ## § 3 Berechnung des Einkommens aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000407377)
 
 (1) Bei der Berechnung des Einkommens aus selbständiger Arbeit,
 Gewerbebetrieb oder Land- und Forstwirtschaft ist von den
@@ -230,6 +234,7 @@ notwendige Ausgaben für Kraftstoff nachweist.
 
 
 ## § 4 Berechnung des Einkommens in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000502308)
 
 Für die Berechnung des Einkommens aus Einnahmen, die nicht unter die
 §§ 2 und 3 fallen, ist § 2 entsprechend anzuwenden. Hierzu gehören
@@ -251,6 +256,7 @@ insbesondere Einnahmen aus
 
 
 ## § 5 Begrenzung abzugsfähiger Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000600000)
 
 Ausgaben sind höchstens bis zur Höhe der Einnahmen aus derselben
 Einkunftsart abzuziehen. Einkommen darf nicht um Ausgaben einer
@@ -258,6 +264,7 @@ anderen Einkommensart vermindert werden.
 
 
 ## § 5a Beträge für die Prüfung der Hilfebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE001201126)
 
 Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
@@ -276,6 +283,7 @@ Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
 
 ## § 6 Pauschbeträge für vom Einkommen abzusetzende Beträge
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000707119)
 
 (1) Als Pauschbeträge sind abzusetzen
 
@@ -333,6 +341,7 @@ abwesend ist, ein Pauschbetrag in Höhe von 6 Euro abzusetzen.
 
 
 ## § 7 Nicht zu berücksichtigendes Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000802126)
 
 (1) Außer dem in § 12 Absatz 1 des Zweiten Buches Sozialgesetzbuch
 genannten Vermögen sind Vermögensgegenstände nicht als Vermögen zu
@@ -348,12 +357,14 @@ des Zweiten Buches Sozialgesetzbuch nicht zu berücksichtigen ist.
 
 
 ## § 8 Wert des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE000900000)
 
 Das Vermögen ist ohne Rücksicht auf steuerrechtliche Vorschriften mit
 seinem Verkehrswert zu berücksichtigen.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE001001119)
 
 § 6 Absatz 1 Nummer 3 und 4 in der ab dem 1. August 2016 geltenden
 Fassung ist erstmals anzuwenden für Bewilligungszeiträume, die nach
@@ -361,6 +372,7 @@ dem 31. Juli 2016 begonnen haben.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/algiiv_2008/BJNR294200007.html#BJNR294200007BJNE001100000)
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 

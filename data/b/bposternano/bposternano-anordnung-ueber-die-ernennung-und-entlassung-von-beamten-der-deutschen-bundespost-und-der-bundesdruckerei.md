@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bposternano/BJNR100150954.html#BJNR100150954BJNE000100328)
 
 Auf Grund des Artikels I der Anordnung des Bundespräsidenten über die
 Ernennung und Entlassung der Bundesbeamten und Bundesrichter vom 17.
@@ -49,6 +50,7 @@ je für ihren Dienstbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bposternano/BJNR100150954.html#BJNR100150954BJNE000200328)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Ziffer I genannten Beamten der Deutschen Bundespost und der
@@ -56,11 +58,13 @@ Bundesdruckerei vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bposternano/BJNR100150954.html#BJNR100150954BJNE000300328)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bposternano/BJNR100150954.html#BJNR100150954BJNE000400328)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000100000)
 
 In dem Bestreben, die freie religiöse Betätigung für jüdische Soldaten
 und Soldatinnen zu gewährleisten und die Ausübung der Seelsorge in der
@@ -33,15 +34,18 @@ Zentralrat der Juden in Deutschland folgenden Vertrag:
 
 
 ## Abschnitt I - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000100000)
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000200000)
 
 Für die Bundeswehr wird eine ständige jüdische Militärseelsorge
 eingerichtet.
 
 
 ### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000300000)
 
 (1) Die jüdische Militärseelsorge als Teil der religiösen Betreuung
 wird im Auftrag und unter Aufsicht des Zentralrats der Juden in
@@ -52,6 +56,7 @@ Militärseelsorge und trägt ihre Kosten.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000400000)
 
 (1) Die Militärseelsorge wird von Militärrabbinern und
 Militärrabbinerinnen hauptamtlich ausgeübt.
@@ -67,6 +72,7 @@ Rabbinerinnen auch in Nebenfunktion wahrgenommen werden.
 
 
 ### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000500000)
 
 (1) Aufgabe der Militärrabbiner und Militärrabbinerinnen ist die Lehre
 der Halacha (jüdisches Recht), die Entscheidung religiöser Fragen, die
@@ -79,6 +85,7 @@ unabhängig.
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000600000)
 
 Den Soldaten und Soldatinnen ist im Rahmen der dienstlichen
 Möglichkeiten Gelegenheit zu geben, sich am religiösen jüdischen Leben
@@ -86,9 +93,11 @@ zu beteiligen.
 
 
 ## Abschnitt II - Einbindung der jüdischen Soldaten und Soldatinnen in jüdische Gemeinden vor Ort
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000200000)
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000700000)
 
 Die jüdischen Soldaten und Soldatinnen werden in die jüdischen
 Gemeinden vor Ort eingebunden. Das Errichten von jüdischen
@@ -96,6 +105,7 @@ Militärgemeinden ist nicht vorgesehen.
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000800000)
 
 (1) Die Militärrabbiner und Militärrabbinerinnen leisten Seelsorge
 auch an Soldaten und Soldatinnen, die nicht dem jüdischen Glauben
@@ -106,15 +116,18 @@ der jüdischen Soldaten und Soldatinnen.
 
 
 ## Abschnitt III - Militärbundesrabbiner
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000300000)
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE000900000)
 
 Die religiöse Leitung der jüdischen Militärseelsorge obliegt dem
 Militärbundesrabbiner.
 
 
 ### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001000000)
 
 (1) Der Militärbundesrabbiner wird vom Zentralrat der Juden in
 Deutschland bestimmt. Der Zentralrat der Juden in Deutschland
@@ -136,6 +149,7 @@ Amtsträgers mit.
 
 
 ### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001100000)
 
 (1) Der Militärbundesrabbiner ist zuständig für alle religiösen
 Angelegenheiten im Zusammenhang mit der jüdischen Militärseelsorge,
@@ -195,6 +209,7 @@ sowie an die Militärrabbiner und Militärrabbinerinnen wenden.
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001200000)
 
 Vorschriften und Richtlinien des Militärbundesrabbiners müssen sich im
 Rahmen des religiösen Selbstbestimmungsrechts des Zentralrats der
@@ -204,9 +219,11 @@ Verteidigung.
 
 
 ## Abschnitt IV - Militärrabbinat
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000400000)
 
 
 ### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001300000)
 
 (1) Zur Wahrnehmung der zentralen Verwaltungsaufgaben der jüdischen
 Militärseelsorge wird in Berlin ein Militärrabbinat als Bundesamt
@@ -219,6 +236,7 @@ Militärrabbinats versehen.
 
 
 ### Art 13
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001400000)
 
 (1) Das Bundesministerium der Verteidigung betraut im Einvernehmen mit
 dem Zentralrat der Juden in Deutschland mit der Leitung des
@@ -241,9 +259,11 @@ Absatz 1 zustehenden Befugnissen beauftragen.
 
 
 ## Abschnitt V - Militärrabbiner und Militärrabbinerinnen
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000500000)
 
 
 ### Art 14
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001500000)
 
 Die Militärrabbiner und Militärrabbinerinnen stehen in einem
 religiösen Auftrag. In diesem Dienst sind sie im Rahmen der Halacha
@@ -253,6 +273,7 @@ Rechtsstellung nach Maßgabe der folgenden Bestimmungen geordnet.
 
 
 ### Art 15
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001600000)
 
 (1) Die Militärrabbiner und Militärrabbinerinnen müssen
 
@@ -277,6 +298,7 @@ und Nummer 3 abgewichen werden.
 
 
 ### Art 16
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001700000)
 
 (1) Die Militärrabbiner und Militärrabbinerinnen werden auf Vorschlag
 des Militärbundesrabbiners und mit Zustimmung des Bundesministeriums
@@ -290,6 +312,7 @@ Erprobungszeit als Tarifbeschäftigte tätig.
 
 
 ### Art 17
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001800000)
 
 (1) Nach der Erprobungszeit werden die Militärrabbiner und
 Militärrabbinerinnen in das Beamtenverhältnis auf Zeit berufen. Soweit
@@ -314,6 +337,7 @@ nicht in diesem Vertrag etwas anderes bestimmt ist. § 66 Absatz 2 Satz
 
 
 ### Art 18
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE001900000)
 
 (1) Vorschläge zur Ernennung, Beförderung oder Versetzung der
 Militärrabbiner und Militärrabbinerinnen bedürfen des
@@ -327,6 +351,7 @@ Zentralrats der Juden in Deutschland einzuholen.
 
 
 ### Art 19
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002000000)
 
 (1) In religiösen Angelegenheiten unterstehen die Militärrabbiner und
 Militärrabbinerinnen der Leitung und Dienstaufsicht des
@@ -347,6 +372,7 @@ oder Tarifbeschäftigte ist
 
 
 ### Art 20
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002100000)
 
 Die Militärrabbiner und Militärrabbinerinnen sind unter Beachtung der
 rechtlichen Vorgaben regelmäßig zu entlassen
@@ -376,9 +402,11 @@ rechtlichen Vorgaben regelmäßig zu entlassen
 
 
 ## Abschnitt VI - Hilfskräfte
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000600000)
 
 
 ### Art 21
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002200000)
 
 Den Militärrabbinern und Militärrabbinerinnen werden die zur
 Unterstützung bei religiösen Handlungen und Verwaltungsaufgaben im
@@ -393,9 +421,11 @@ Einvernehmen mit dem Zentralrat der Juden in Deutschland.
 
 
 ## Abschnitt VII - Freundschafts- und Paritätsklausel
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000700000)
 
 
 ### Art 22
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002300000)
 
 (1) Die Vertragsschließenden werden eine etwa in Zukunft zwischen
 ihnen entstehende Meinungsverschiedenheit über die Auslegung einer
@@ -410,9 +440,11 @@ Grundsatzes der Parität Änderungen der Vereinbarung notwendig sind.
 
 
 ## Abschnitt VIII - Zustimmung des Bundestages, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNG000800000)
 
 
 ### Art 23
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002400000)
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
 ein Bundesgesetz.
@@ -422,6 +454,7 @@ Vertrag zugestimmt wird, in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002500000)
 
 Berlin, den 20. Dezember 2019
 
@@ -456,6 +489,7 @@ Berlin, den 20. Dezember 2019
 
 
 ### (XXXX) Schlussprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsvtr/BJNR166500020.html#BJNR166500020BJNE002600000)
 
 Bei der Unterzeichnung des am heutigen Tage zwischen der
 Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland

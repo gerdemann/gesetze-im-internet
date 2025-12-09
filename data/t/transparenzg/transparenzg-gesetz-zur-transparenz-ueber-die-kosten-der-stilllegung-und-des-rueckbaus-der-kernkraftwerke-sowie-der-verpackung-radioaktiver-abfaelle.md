@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
 
 ## § 1 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000100000)
 
 (1) Der Betreiber einer im Inland gelegenen Anlage zur Spaltung von
 Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
@@ -42,6 +43,7 @@ Ausfuhrkontrolle berechtigt, weitere Auskünfte zu verlangen.
 
 
 ## § 2 Aufstellung der Rückstellungen für Rückbauverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000200000)
 
 (1) Die Betreiber sind verpflichtet, auf Grundlage des
 Jahresabschlusses jährlich eine detaillierte Aufstellung der in der
@@ -75,6 +77,7 @@ eingereicht werden.
 
 
 ## § 3 Darstellung des Haftungskreises
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000300000)
 
 (1) Der Aufstellung nach § 2 Absatz 1 ist eine Liste beizufügen, die
 sämtliche Gesellschaften enthält, die nach § 1 des
@@ -94,6 +97,7 @@ erforderlichen Auskünfte zu erteilen.
 
 
 ## § 4 Gesonderter Bericht im Hinblick auf die Rückbauverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000400000)
 
 Die Betreiber sind verpflichtet, in einem gesonderten Bericht, die
 Lage der Gesellschaft im Hinblick auf ihre bestehenden und zukünftigen
@@ -110,6 +114,7 @@ Website des Betreibers zu veröffentlichen.
 
 
 ## § 5 Mitteilungspflicht des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000500000)
 
 Stellt das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 Unrichtigkeiten fest, so ist es verpflichtet, diese dem
@@ -118,6 +123,7 @@ schuldhaftes Zögern mitzuteilen.
 
 
 ## § 6 Datennutzung und -übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000602119)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt, nach
 § 1 erlangte Daten zur Prüfung der finanziellen Sicherung der
@@ -137,6 +143,7 @@ an andere Dritte ist ausgeschlossen.
 
 
 ## § 7 Bericht der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000700000)
 
 Die Bundesregierung legt dem Deutschen Bundestag zum 30. November
 eines jeden Jahres einen Bericht vor. Der Bericht enthält unter
@@ -147,6 +154,7 @@ erstmalig zum 30. November 2018 zu erstellen.
 
 
 ## § 8 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -164,6 +172,7 @@ hunderttausend Euro geahndet werden.
 
 
 ## § 9 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/transparenzg/BJNR012500017.html#BJNR012500017BJNE000901119)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für

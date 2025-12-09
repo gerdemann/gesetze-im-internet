@@ -21,19 +21,23 @@ Zuletzt geändert durch
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNG000100323)
 
 
 
 ## Art 2 - Besoldungsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNG000200323)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNE000600323)
 
 -
 
 
 ## § 2 Überleitungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNE000700323)
 
 (1) Soweit durch dieses Gesetz Einstufungen von Ämtern, Amtszulagen
 und Amtsbezeichnungen geändert werden, sind die hiervon betroffenen
@@ -55,6 +59,7 @@ Ländern.
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNE000801160)
 
 (1) Ein Anspruch auf eine Dienstzeitprämie, der nach § 77 Abs. 3 Satz
 1 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 1976 geltenden
@@ -91,20 +96,24 @@ Juni 1976 geltende Fassung maßgebend.
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNG000300323)
 
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNG000400323)
 
 
 
 ## Art 5 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNG000500323)
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
 
 zu Artikel 2 § 2 Abs. 1
 
 ## Anlage \*Fe Überleitungsübersicht \*/
+[Direktlink](https://www.gesetze-im-internet.de/bgspersg/BJNR013579976.html#BJNR013579976BJNE000901311)
 
 Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 

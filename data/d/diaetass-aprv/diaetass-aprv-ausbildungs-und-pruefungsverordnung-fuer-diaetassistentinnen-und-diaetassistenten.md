@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000100320)
 
 Auf Grund des § 8 des Diätassistentengesetzes vom 8. März 1994 (BGBl.
 I S. 446) verordnet das Bundesministerium für Gesundheit im Benehmen
@@ -27,6 +28,7 @@ mit dem Bundesministerium für Bildung und Wissenschaft:
 
 
 ## § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000201130)
 
 (1) Die dreijährige Ausbildung für Diätassistentinnen und
 Diätassistenten umfaßt den in der Anlage 1 aufgeführten theoretischen
@@ -61,6 +63,7 @@ Bescheinigung nach dem Muster der Anlage 2 nachzuweisen.
 
 
 ## § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000300320)
 
 (1) Die staatliche Prüfung umfaßt einen schriftlichen, einen
 mündlichen und einen praktischen Teil.
@@ -73,6 +76,7 @@ Prüfungsausschüsse sind vorher zu hören.
 
 
 ## § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000401116)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus
 folgenden Mitgliedern besteht:
@@ -123,6 +127,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ## § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000502310)
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
 Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit
@@ -151,6 +156,7 @@ berücksichtigen.
 
 
 ## § 5 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000601130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -194,6 +200,7 @@ Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach §
 
 
 ## § 6 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000701130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -235,6 +242,7 @@ gestatten.
 
 
 ## § 7 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000801130)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende
 Fächer:
@@ -284,6 +292,7 @@ werden.
 
 
 ## § 8 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE000900320)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -291,6 +300,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ## § 9 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001001130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -360,6 +370,7 @@ benotet:
 
 
 ## § 10 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001100320)
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
 vorgeschriebenen Prüfungsteile bestanden ist.
@@ -389,6 +400,7 @@ Behörde Ausnahmen zulassen.
 
 
 ## § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001200320)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
 so hat er die Gründe für seinen Rücktritt unverzüglich dem
@@ -405,6 +417,7 @@ unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. §
 
 
 ## § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001300320)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -418,6 +431,7 @@ entsprechend.
 
 
 ## § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001400320)
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
 ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört
@@ -430,6 +444,7 @@ nach Abschluß der Prüfung zulässig.
 
 
 ## § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001500320)
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
@@ -438,6 +453,7 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## § 15 Erlaubnisurkunden
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001600320)
 
 Liegen die Voraussetzungen nach § 2 des Diätassistentengesetzes für
 die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1
@@ -446,6 +462,7 @@ Erlaubnisurkunde nach dem Muster der Anlage 4 aus.
 
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001704116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes
 beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs.
@@ -522,6 +539,7 @@ Gleichstellung ergibt.
 
 
 ## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002801130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Diätassistentengesetzes beantragen, haben einen Anpassungslehrgang
@@ -589,6 +607,7 @@ werden kann.
 
 
 ## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002403130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Diätassistentengesetzes beantragen, haben einen Anpassungslehrgang
@@ -688,6 +707,7 @@ dem Muster der Anlage 6 erteilt.
 
 
 ## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002502116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Diätassistentin oder Diätassistent nach § 1 Absatz 1 des
@@ -742,6 +762,7 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001800320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt, soweit sich nicht aus § 11 Abs. 3 und 4 des
@@ -754,11 +775,13 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE001900320)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002000320)
 
 Fundstelle des Originaltextes BGBl. I 1994, 2092 - 2098
 
@@ -2383,6 +2406,7 @@ Fundstelle des Originaltextes BGBl. I 1994, 2092 - 2098
 
 
 ## Anlage 2 (zu § 1 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002100320)
 
 (Fundstelle des Originaltextes BGBl. I 1994, 2099)
 -----------------------------------------
@@ -2417,6 +2441,7 @@ Ort, Datum
 
 
 ## Anlage 3 (zu § 10 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002200320)
 
 (Fundstelle des Originaltextes BGBl. I 1994, 2100)
 Der Vorsitzende
@@ -2449,6 +2474,7 @@ Prüfungsausschusses)
 
 
 ## Anlage 4 (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002300320)
 
 (Fundstelle des Originaltextes BGBl. I 1994, 2101)
 Urkunde
@@ -2472,6 +2498,7 @@ Ort, Datum
 
 
 ## Anlage 4a (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002900116)
 
 (Fundstelle: BGBl. I 2016, 927)
 
@@ -2510,6 +2537,7 @@ Unterschrift(en) der Einrichtung
 
 
 ## Anlage 4b (zu § 16a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE003000116)
 
 (Fundstelle: BGBl. I 2016, 927)
 
@@ -2569,6 +2597,7 @@ Ort, Datum
 
 
 ## Anlage 5 (zu § 16b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002601116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2665,6 +2694,7 @@ Ort, Datum
 [^F781546_01_BJNR208800994BJNE002601116]: 
 
 ## Anlage 6 (zu § 16b Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/di_tass-aprv/BJNR208800994.html#BJNR208800994BJNE002701116)
 
 
 *    *   Die/der Vorsitzende

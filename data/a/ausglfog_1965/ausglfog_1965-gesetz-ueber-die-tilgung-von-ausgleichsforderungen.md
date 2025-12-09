@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Sachliche Geltung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000100313)
 
 (1) Ausgleichsforderungen, Rentenausgleichsforderungen und
 Sonderausgleichsforderungen (Ausgleichsforderungen), die in das
@@ -35,6 +36,7 @@ Fernmeldewesen Berlin gewährt worden sind.
 
 
 ## § 2 Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000200313)
 
 Vom 1. Januar 1956 an werden verzinsliche Ausgleichsforderungen
 halbjährlich mit 0,5 vom Hundert des gewährten Betrages zuzüglich der
@@ -46,6 +48,7 @@ hat, gelten als Tilgung im Sinne dieses Gesetzes.
 
 
 ## § 3 Tilgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000300313)
 
 (1) Tilgungsleistungen auf unverzinsliche Ausgleichsforderungen sind
 am 30. Juni und 31. Dezember eines jeden Jahres, auf verzinsliche
@@ -60,6 +63,7 @@ gewährt worden wäre.
 
 
 ## § 4 Änderung von Ausgleichsforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000400313)
 
 (1) Tilgungsleistungen, die der Schuldner erst nach dem Zeitpunkt
 bewirkt, an dem sie nach §§ 2 und 3 zu entrichten sind, sind von
@@ -80,6 +84,7 @@ unverzüglich zu bewirken.
 
 
 ## § 5 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000500313)
 
 Solange eine Ausgleichsforderung noch nicht gewährt ist, aber
 Abschlagszahlungen auf die Zinsen geleistet werden, sind
@@ -88,6 +93,7 @@ entsprechend.
 
 
 ## § 6 Kündigung durch den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000600313)
 
 Der Schuldner kann Ausgleichsforderungen ganz oder teilweise unter
 Einhaltung einer Frist von sechs Monaten kündigen; die Kündigung kann
@@ -95,6 +101,7 @@ auch durch Bekanntgabe im Bundesanzeiger erfolgen.
 
 
 ## § 7 Erstattung von Zins- und Tilgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000700313)
 
 (1) Der Bund erstattet den Ländern die Aufwendungen, die sie nach dem
 30\. Juni 1959 für die Tilgung nach den §§ 2 bis 5 gemacht haben und
@@ -129,6 +136,7 @@ unberührt.
 
 
 ## § 8 Ankaufsfonds
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000800313)
 
 (1) Der bei der Deutschen Bundesbank bestehende Fonds zum Ankauf von
 Ausgleichsforderungen (Ankaufsfonds) ist eine rechtlich unselbständige
@@ -142,6 +150,7 @@ Jahresabschluß einen Bericht über den Stand des Ankaufsfonds.
 
 
 ## § 9 Verwendung der Mittel des Ankaufsfonds
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE000901307)
 
 (1) Mit Mitteln des Ankaufsfonds sollen Ausgleichsforderungen
 angekauft werden, deren endgültige Übernahme geboten erscheint, um den
@@ -181,6 +190,7 @@ Verwendung zugestimmt hat.
 
 
 ## § 10 Auflösung des Ankaufsfonds
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE001000313)
 
 (1) Hat der Schuldner eine Ausgleichsforderung zu einem höheren Betrag
 getilgt, als er sie nach diesem Gesetz unter Berücksichtigung des
@@ -200,6 +210,7 @@ Ausgleichsforderungen sind nicht zu entrichten.
 
 
 ## § 11 Sonderregelung für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE001100313)
 
 (1)
 
@@ -212,6 +223,7 @@ gehen mit Wirkung vom 1. Januar 1965 auf den Bund über.
 
 
 ## § 12 Gesetz über die Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE001200313)
 
 Wo im Gesetz über die Deutsche Bundesbank auf Vorschriften des
 Gesetzes über die Tilgung von Ausgleichsforderungen verwiesen wird,
@@ -220,6 +232,7 @@ Gesetzes.
 
 
 ## § 13 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE001300313)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -227,6 +240,7 @@ im Land Berlin.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausglfog_1965/BJNR006500965.html#BJNR006500965BJNE001400313)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

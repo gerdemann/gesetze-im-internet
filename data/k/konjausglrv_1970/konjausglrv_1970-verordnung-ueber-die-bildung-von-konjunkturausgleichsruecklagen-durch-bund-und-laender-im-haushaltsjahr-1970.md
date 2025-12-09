@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1970/BJNR004110970.html#BJNR004110970BJNE000100312)
 
 Auf Grund des § 15 Abs. 1 des Gesetzes zur Förderung der Stabilität
 und des Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I
@@ -28,12 +29,14 @@ Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1970/BJNR004110970.html#BJNR004110970BJNE000200312)
 
 Bund und Länder bilden im Haushaltsjahr 1970
 Konjunkturausgleichsrücklagen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1970/BJNR004110970.html#BJNR004110970BJNE000300312)
 
 (1) Den Konjunkturausgleichsrücklagen werden insgesamt 2.500.000.000
 Deutsche Mark zugeführt. Hiervon entfallen auf den Bund 1.500.000.000
@@ -52,6 +55,7 @@ aufzubringen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1970/BJNR004110970.html#BJNR004110970BJNE000400312)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 32 des
@@ -60,6 +64,7 @@ auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1970/BJNR004110970.html#BJNR004110970BJNE000500312)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

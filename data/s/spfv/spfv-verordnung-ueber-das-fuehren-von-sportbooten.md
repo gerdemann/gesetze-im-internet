@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000101360)
 
 Diese Verordnung gilt
 
@@ -34,6 +35,7 @@ Diese Verordnung gilt
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000201360)
 
 Im Sinne dieser Verordnung sind
 
@@ -63,6 +65,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Fahrerlaubnis für die Binnenschifffahrtsstraßen
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000304123)
 
 (1) Wer auf den Binnenschifffahrtsstraßen ein Sportboot führen will,
 bedarf einer Fahrerlaubnis für die jeweilige Antriebsart. Die
@@ -214,6 +217,7 @@ werden.
 
 
 ## § 4 Fahrerlaubnis für die Seeschifffahrtsstraßen
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000402123)
 
 (1) Wer auf den Seeschifffahrtsstraßen ein Sportboot mit
 Antriebsmaschine führen will, bedarf einer Fahrerlaubnis. Die
@@ -298,6 +302,7 @@ Deutschland – veröffentlicht.
 
 
 ## § 5 Besondere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000503123)
 
 (1) Keiner Fahrerlaubnis nach dieser Verordnung bedürfen
 
@@ -359,6 +364,7 @@ Binnenschifffahrtsstraßen für beide Antriebsarten erteilt.
 
 
 ## § 6 Anforderungen für die Erteilung der Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000602360)
 
 (1) Der Bewerber muss für die Erteilung einer Fahrerlaubnis für das
 Führen eines Sportbootes
@@ -460,6 +466,7 @@ begründen können, sind insbesondere:
 
 
 ## § 7 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000702360)
 
 (1) Der Antrag auf Zulassung zur Prüfung und Erteilung der
 Fahrerlaubnis ist schriftlich oder elektronisch über das
@@ -559,6 +566,7 @@ Gründen, Kostenentscheidung und Rechtsbehelfsbelehrung zuzustellen.
 
 
 ## § 8 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000801360)
 
 (1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung
 nachzuweisen, deren Inhalt sich nach Antriebsart und Geltungsbereich
@@ -632,6 +640,7 @@ nicht der Prüfungskommission an.
 
 
 ## § 9 Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE000901123)
 
 (1) Für die Zulassung zur Prüfung und deren Abnahme werden
 flächendeckend Prüfungsausschüsse eingerichtet. Die Prüfungsausschüsse
@@ -667,6 +676,7 @@ eine der folgenden Bezeichnungen:
 
 
 ## § 10 Voraussetzungen für die Bestellung der Prüfer; Entlassung der Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001001360)
 
 (1) Die Prüfer müssen
 
@@ -728,6 +738,7 @@ Verband aus seinem Amt zu entlassen.
 
 
 ## § 11 Ersatzausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001101360)
 
 Ist ein Sportbootführerschein, der in einem amtlichen Register
 verzeichnet ist, unbrauchbar geworden oder wird glaubhaft gemacht,
@@ -743,6 +754,7 @@ bei den beliehenen Verbänden abzugeben.
 
 
 ## § 12 Pflichten des Schiffseigentümers und des Schiffsführers
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001201360)
 
 (1) Der jeweils erforderliche Befähigungsnachweis ist beim Führen von
 Sportbooten vom Schiffsführer mitzuführen. Der Befähigungsnachweis ist
@@ -764,6 +776,7 @@ die Anforderungen an den Rudergänger bleiben unberührt.
 
 
 ## § 13 Entziehung der Fahrerlaubnis oder des Befähigungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001301119)
 
 (1) Wenn sich der Inhaber einer Fahrerlaubnis zum Führen von
 Sportbooten als untauglich oder unzuverlässig erweist, ist ihm die
@@ -803,6 +816,7 @@ unverzüglich mit.
 
 
 ## § 14 Ruhen der Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001400000)
 
 (1) Die nach § 16 Absatz 3 Satz 1 zuständige Behörde kann das
 befristete Ruhen der Fahrerlaubnis anordnen, wenn bei dem Inhaber
@@ -872,6 +886,7 @@ beachten.
 
 
 ## § 15 Sicherstellung von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001500000)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass eine
 Erlaubnis entzogen (§ 13) oder das Ruhen der Erlaubnis angeordnet (§
@@ -903,6 +918,7 @@ oder das Befähigungszeugnis ist dem Inhaber zurückzugeben, wenn
 
 
 ## § 16 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001602123)
 
 (1) Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-
 Verband e. V. werden mit der Durchführung von
@@ -951,6 +967,7 @@ erteilt hat.
 
 
 ## § 17 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001701360)
 
 (1) Die beliehenen Verbände sorgen dafür, dass die bei der
 Generaldirektion Wasserstraßen und Schifffahrt geführte Datei über die
@@ -1000,6 +1017,7 @@ erhalten.
 
 
 ## § 18 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE001901124)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -1048,6 +1066,7 @@ Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 (zu § 3 Absatz 1 und § 4 Absatz 1)
 
 ## Anlage 1 Muster für den amtlichen Sportbootführerschein
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002102123)
 
 (Fundstelle: BGBl. I 2022, 2213; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -1066,6 +1085,7 @@ Ländercode gemäß ISO ALPHA-2.
 (zu § 7 Absatz 2 Nummer 4 und § 10 Absatz 1 Satz 2)
 
 ## Anlage 2 Medizinische Tauglichkeitskriterien bei Gesundheitsstörungen (allgemeine Tauglichkeit, Seh- und Hörvermögen)
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002202360)
 
 (Fundstelle: BGBl. I 2022, 2214 - 2219)
 
@@ -1768,6 +1788,7 @@ Bei Bedarf sind sie zu kombinieren.
 (zu § 7 Absatz 2 Nummer 4)
 
 ## Anhang 1 zu Anlage 2 Muster des ärztlichen Nachweises über das Ergebnis zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin in der Sportbootschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE003201360)
 
 (Fundstelle: BGBl. 2023 I Nr. 105, S. 33 – 34)
 
@@ -2103,6 +2124,7 @@ des ausreichenden Hörvermögens hat vorgelegen.
 (zu § 10 Absatz 1 Satz 2)
 
 ## Anhang 2 zu Anlage 2 Muster des ärztlichen Nachweises über das Ergebnis zur medizinischen Tauglichkeit eines Bewerbers/einer Bewerberin um die Funktion als Prüfer/Prüferin in der Sportbootschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE003301360)
 
 (Fundstelle: BGBl. 2023 I Nr. 105, S. 35 – 36)
 
@@ -2340,6 +2362,7 @@ des ausreichenden Hörvermögens hat vorgelegen.
 (zu § 8 Absatz 1 Satz 4)
 
 ## Anlage 3 Theoretische Prüfung zum Erwerb des Sportbootführerscheins
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002301360)
 
 (Fundstelle: BGBl. I 2017, 1029 - 1030)
 
@@ -2562,6 +2585,7 @@ Antriebsart zu erbringen:
 (zu § 8 Absatz 1 Satz 4)
 
 ## Anlage 4 Praktische Prüfung zum Erwerb des Sportbootführerscheins
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002401123)
 
 (Fundstelle: BGBl. I 2017, 1031 - 1033; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -3009,6 +3033,7 @@ zu verwenden:
 (zu § 8 Absatz 5)
 
 ## Anlage 5 Ausstattung und Besatzung des Prüfungsboots
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002501360)
 
 (Fundstelle: BGBl. I 2017, 1034)
 
@@ -3061,6 +3086,7 @@ werden.
 (zu § 10 Absatz 2 Nummer 2)
 
 ## Anlage 6 Voraussetzungen für eine Bestellung als Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002600000)
 
 (Fundstelle: BGBl. I 2017, 1035)
 
@@ -3126,6 +3152,7 @@ Einsatz als Prüfer/in bestehen nicht.
 (zu § 10 Absatz 3 Satz 3)
 
 ## Anlage 7 Belehrung gemäß § 10 Absatz 3 Satz 3
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002701123)
 
 (Fundstelle: BGBl. I 2017, 1036; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -3182,6 +3209,7 @@ führen.
 (zu Anlage 7)
 
 ## Anhang 1 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002801360)
 
 (Fundstelle: BGBl. I 2022, 2222)
 
@@ -3293,6 +3321,7 @@ Artikel 24, 25 und 32 – Anforderungen an die Sicherheit bei der Datenverarbei
 (zu § 5 Absatz 2)
 
 ## Anlage 8 Binnenschifffahrtsstraßen, auf denen für das Führen eines Sportbootes unter Segel eine Fahrerlaubnis erforderlich ist
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE002900000)
 
 (Fundstelle: BGBl. I 2017, 1038)
 
@@ -3359,6 +3388,7 @@ mit: Ruhlebener Altarm
 (zu § 8 Absatz 8 Satz 2)
 
 ## Anlage 9 Vorläufiger Sportbootführerschein
+[Direktlink](https://www.gesetze-im-internet.de/spfv/BJNR101610017.html#BJNR101610017BJNE003001360)
 
 (Fundstelle: BGBl. 2023 I Nr. 105, S. 37 – 38)
 

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_arm/BJNR107720017.html#BJNR107720017BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_arm/BJNR107720017.html#BJNR107720017BJNE000200000)
 
 Dem in Eriwan am 29. Juni 2016 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Armenien zur Vermeidung
@@ -34,6 +36,7 @@ Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_arm/BJNR107720017.html#BJNR107720017BJNE000300000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des
 Bundesrates Rechtsverordnungen zu erlassen, um die folgenden, im
@@ -54,6 +57,7 @@ Abkommen vorgesehenen späteren Bestimmungen zu treffen über
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_arm/BJNR107720017.html#BJNR107720017BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

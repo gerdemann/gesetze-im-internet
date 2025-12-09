@@ -25,6 +25,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000102116)
 
 Diese Verordnung dient der Regelung spezifischer
 lebensmittelhygienischer Fragen sowie der Umsetzung und Durchführung
@@ -33,6 +34,7 @@ Union auf dem Gebiet der Lebensmittelhygiene.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000202116)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -82,6 +84,7 @@ entsprechend.
 
 
 ## § 3 Allgemeine Hygieneanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000301116)
 
 Lebensmittel dürfen nur so hergestellt, behandelt oder in den Verkehr
 gebracht werden, dass sie bei Beachtung der im Verkehr erforderlichen
@@ -94,6 +97,7 @@ nicht ausgesetzt sind.
 
 
 ## § 3a Verwendung von Trinkwasser oder aufbereitetem Wasser
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001701130)
 
 (1) Soweit die Vorschriften der Verordnung (EG) Nr. 852/2004 oder der
 Verordnung (EG) Nr. 853/2004 die Verwendung von Trinkwasser vorsehen,
@@ -154,6 +158,7 @@ Rechtsverordnung im Verfahren nach Artikel 5 Absatz 1 der Verordnung
 
 
 ## § 4 Schulung
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000401116)
 
 (1) Leicht verderbliche Lebensmittel dürfen nur von Personen
 hergestellt, behandelt oder in den Verkehr gebracht werden, die auf
@@ -185,6 +190,7 @@ Tätigkeit
 
 
 ## § 5 Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000501116)
 
 (1) Wer kleine Mengen der in Absatz 2 genannten Primärerzeugnisse
 direkt an Verbraucher oder an örtliche Betriebe des Einzelhandels zur
@@ -224,6 +230,7 @@ Wildes gelegen sind.
 
 
 ## § 6 Herstellung bestimmter traditioneller Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000601116)
 
 Für Lebensmittelunternehmer, die ein in Anlage 3 Spalte 1 genanntes
 Lebensmittel herstellen, gelten die in Anlage 3 Spalte 2 jeweils
@@ -233,6 +240,7 @@ bezeichneten Räume oder Geräte und Ausrüstungen.
 
 
 ## § 6a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001501116)
 
 Für Lebensmittelunternehmer, die in Betrieben der Alm- oder
 Alpwirtschaft Hart- oder Schnittkäse mit einer Reifungszeit von
@@ -243,9 +251,11 @@ Anforderungen erfüllt werden.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000702116)
 
 
 ## § 8 Hygienische Anforderungen an die Beförderung von Rohzucker in Seeschiffen
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000801116)
 
 (1) Rohzucker, der nach Raffination als Lebensmittel verwendet werden
 soll, darf abweichend von Anhang II Kapitel IV Nummer 4 der Verordnung
@@ -295,6 +305,7 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ## § 9 Zulassung zur Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE000901116)
 
 (1) Soweit ein Drittland die Einfuhr von Lebensmitteln von einer
 besonderen Zulassung abhängig macht, erteilt die zuständige Behörde im
@@ -324,6 +335,7 @@ Widerruf unberührt.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001002116)
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -372,6 +384,7 @@ oder fahrlässig
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage 1 Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001101116)
 
 (Fundstelle: BGBl. I 2016, 1473)
 
@@ -413,6 +426,7 @@ oder fahrlässig
 (zu § 5 Absatz 1 Satz 1)
 
 ## Anlage 2 Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001201116)
 
 (Fundstelle: BGBl. I 2016, 1474)
 
@@ -510,6 +524,7 @@ oder fahrlässig
 (zu § 6)
 
 ## Anlage 3 Traditionelle Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001301116)
 
 (Fundstelle: BGBl. I 2016, 1475 — 1476)
 
@@ -670,6 +685,7 @@ oder fahrlässig
 (zu § 6a)
 
 ## Anlage 3a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/lmhv_2007/BJNR181700007.html#BJNR181700007BJNE001601116)
 
 (Fundstelle: BGBl. I 2016, 1477)
 

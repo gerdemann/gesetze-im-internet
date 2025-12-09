@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebarbschv/BJNR343500994.html#BJNR343500994BJNE000100000)
 
 Auf Grund des § 5 Abs. 5 des Allgemeinen Eisenbahngesetzes vom 27.
 Dezember 1993 (BGBl. I S. 2378, 2396) verordnet das Bundesministerium
@@ -27,6 +28,7 @@ Sozialordnung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ebarbschv/BJNR343500994.html#BJNR343500994BJNE000200000)
 
 (1) Die Überwachung der Einhaltung staatlicher Vorschriften des
 technischen Arbeitsschutzes obliegt im Bereich der Eisenbahnen des
@@ -66,12 +68,14 @@ gesetzlichen Unfallversicherung im Arbeitsschutz bleiben unberührt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebarbschv/BJNR343500994.html#BJNR343500994BJNE000300000)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ebarbschv/BJNR343500994.html#BJNR343500994BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

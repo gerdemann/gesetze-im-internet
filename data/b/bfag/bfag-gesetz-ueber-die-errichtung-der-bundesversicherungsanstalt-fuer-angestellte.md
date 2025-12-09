@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003300319)
 
 
 
 ### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003400319)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE000100319)
 
 (1) Als Träger der gesetzlichen Rentenversicherung der Angestellten
 wird die Bundesversicherungsanstalt für Angestellte
@@ -42,14 +45,17 @@ Durchführung erlassenen Vorschriften durch.
 
 
 #### (XXXX) §§ 2 bis 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE000200319)
 
 
 
 ### IV. - Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003500319)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE000700319)
 
 (1) Die Vertreterversammlung beschließt die Satzung; sie bedarf der
 Genehmigung des Bundesministers für Arbeit.
@@ -63,6 +69,7 @@ Bundesversicherungsanstalt durchführen.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE000801308)
 
 Die Satzung muß Bestimmungen enthalten über
 
@@ -99,10 +106,12 @@ Die Satzung muß Bestimmungen enthalten über
 
 
 ### V. - Beamte, Angestellte, Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003600319)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE000900319)
 
 (1) Die Geschäfte der Bundesversicherungsanstalt werden durch Beamte
 wahrgenommen sowie durch Arbeitskräfte, die auf Grund
@@ -114,6 +123,7 @@ erforderlich sind. §§ 15 und 16 bleiben unberührt.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001004308)
 
 (1) Die Beamten der Bundesversicherungsanstalt sind Bundesbeamte.
 
@@ -126,6 +136,7 @@ und § 83 Abs. 1 des Bundesdisziplinargesetzes bleiben unberührt.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001102308)
 
 (1) Der Bundespräsident ernennt die nach den Vorschriften des
 Selbstverwaltungsgesetzes gewählten Mitglieder der Geschäftsführung
@@ -140,23 +151,28 @@ zu vollziehen ist.
 
 
 #### (XXXX) §§ 12 bis 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001200319)
 
 
 
 ## Zweiter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003700319)
 
 
 
 ### I. - Beamte, Angestellte, Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003800319)
 
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001301308)
 
 (weggefallen)
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001400319)
 
 (1)
 Von der Gesamtzahl der am 31. Dezember 1952 bei den
@@ -208,6 +224,7 @@ insbesondere Wartegeld, Ruhegehalt und Hinterbliebenenbezüge.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001500319)
 
 Die Bundesversicherungsanstalt ist "entsprechende Einrichtung" im
 Sinne des § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der
@@ -219,6 +236,7 @@ bestimmt sich nach § 10 Abs. 2.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001600319)
 
 (1)
 Für die bei den Landesversicherungsanstalten beschäftigten
@@ -251,10 +269,12 @@ entsprechend.
 
 
 ### II. - Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG003900319)
 
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001700319)
 
 (1) Die Reichsversicherungsanstalt für Angestellte wird mit dem
 Inkrafttreten dieses Gesetzes aufgelöst. Ihr Vermögen (Eigentum und
@@ -287,6 +307,7 @@ Bundesversicherungsanstalt über.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001800319)
 
 (1) Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
 Vermögensrechte der in § 19 Abs. 1 und 2 bezeichneten Art vor dem
@@ -298,6 +319,7 @@ die unter § 19 Abs. 1 und 2 fallen, bleiben bestehen.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE001900319)
 
 (1) In laufende Miet- oder Pachtverträge, die von der
 Reichsversicherungsanstalt für Angestellte oder nach dem 8. Mai 1945
@@ -310,6 +332,7 @@ tritt die Bundesversicherungsanstalt ein. ...
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002000319)
 
 Auf Verlangen ist der Bundesversicherungsanstalt Auskunft über
 Vermögensverhältnisse der in §§ 19 und 20 bezeichneten Art zu erteilen
@@ -317,6 +340,7 @@ sowie Einsicht in Akten und Unterlagen zu gewähren.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002102119)
 
 Streitigkeiten, die sich zwischen Rechtsträgern des öffentlichen
 Rechtes aus der in § 19 getroffenen Regelung der vermögensrechtlichen
@@ -329,6 +353,7 @@ Anwendung.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002200319)
 
 (1) Gehört das Eigentum an einem Grundstück nach § 19 zum Vermögen der
 Bundesversicherungsanstalt, so ist der Antrag auf Berichtigung des
@@ -346,6 +371,7 @@ entsprechend.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002300319)
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 der Vorschriften der §§ 19 bis 24 entstehen, werden nicht erhoben.
@@ -353,23 +379,28 @@ Bare Auslagen bleiben außer Ansatz.
 
 
 ### III. - Treuhandschaften
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG004000319)
 
 
 
 #### (XXXX) §§ 26 u. 27
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002400319)
 
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNG004100319)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002600319)
 
 -
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002702308)
 
 (1) Die Durchführung der Angestelltenversicherung für Seeleute und
 Seelotsen richtet sich ausschließlich nach der zwischen der
@@ -389,16 +420,19 @@ Stelle die Bundesversicherungsanstalt.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002800319)
 
 -
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE002901308)
 
 (weggefallen)
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE003000319)
 
 Soweit in anderen Gesetzen auf Vorschriften oder Bezeichnungen
 verwiesen wird, die durch dieses Gesetz aufgehoben oder geändert
@@ -407,6 +441,7 @@ die Bezeichnungen dieses Gesetzes.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE003100319)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Gesetzes über
 die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
@@ -417,6 +452,7 @@ im Land Berlin.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/bfag/BJNR008570953.html#BJNR008570953BJNE003200319)
 
 Dieses Gesetz tritt am 1. August 1953 in Kraft; ....
 

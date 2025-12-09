@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE002500311)
 
 Die Reichsregierung hat zur Durchführung der Abkommen zur
 Vereinheitlichung des Wechselrechts (Reichsgesetzbl. 1933 II S. 377)
@@ -27,14 +28,17 @@ das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 
 ## Erster Teil - Gezogener Wechsel
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000100311)
 
 
 
 ### Erster Abschnitt - Ausstellung und Form des gezogenen Wechsels
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000200311)
 
 
 
 #### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE002600311)
 
 Der gezogene Wechsel enthält:
 
@@ -67,6 +71,7 @@ Der gezogene Wechsel enthält:
 
 
 #### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE002700311)
 
 (1) Eine Urkunde, der einer der in vorstehendem Artikel bezeichneten
 Bestandteile fehlt, gilt nicht als gezogener Wechsel, vorbehaltlich
@@ -83,6 +88,7 @@ an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 
 
 #### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE002800311)
 
 (1) Der Wechsel kann an die eigene Order des Ausstellers lauten.
 
@@ -92,12 +98,14 @@ an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 
 
 #### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE002900311)
 
 Der Wechsel kann bei einem Dritten, am Wohnort des Bezogenen oder an
 einem anderen Orte, zahlbar gestellt werden.
 
 
 #### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003000311)
 
 (1) In einem Wechsel, der auf Sicht oder auf eine bestimmte Zeit nach
 Sicht lautet, kann der Aussteller bestimmen, daß die Wechselsumme zu
@@ -112,6 +120,7 @@ nicht ein anderer Tag bestimmt ist.
 
 
 #### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003100311)
 
 (1) Ist die Wechselsumme in Buchstaben und in Ziffern angegeben, so
 gilt bei Abweichungen die in Buchstaben angegebene Summe.
@@ -121,6 +130,7 @@ Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
 
 
 #### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003200311)
 
 Trägt ein Wechsel Unterschriften von Personen, die eine
 Wechselverbindlichkeit nicht eingehen können, gefälschte
@@ -132,6 +142,7 @@ der übrigen Unterschriften keinen Einfluß.
 
 
 #### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003300311)
 
 Wer auf einen Wechsel seine Unterschrift als Vertreter eines anderen
 setzt, ohne hierzu ermächtigt zu sein, haftet selbst wechselmäßig und
@@ -141,6 +152,7 @@ seine Vertretungsbefugnis überschritten hat.
 
 
 #### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003400311)
 
 (1) Der Aussteller haftet für die Annahme und die Zahlung des
 Wechsels.
@@ -151,6 +163,7 @@ geschrieben.
 
 
 #### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003500311)
 
 Wenn ein Wechsel, der bei der Begebung unvollständig war, den
 getroffenen Vereinbarungen zuwider ausgefüllt worden ist, so kann die
@@ -161,10 +174,12 @@ zur Last fällt.
 
 
 ### Zweiter Abschnitt - Indossament
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000300311)
 
 
 
 #### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003600311)
 
 (1) Jeder Wechsel kann durch Indossament übertragen werden, auch wenn
 er nicht ausdrücklich an Order lautet.
@@ -181,6 +196,7 @@ Wechsel weiter indossieren.
 
 
 #### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003700311)
 
 (1) Das Indossament muß unbedingt sein. Bedingungen, von denen es
 abhängig gemacht wird, gelten als nicht geschrieben.
@@ -191,6 +207,7 @@ abhängig gemacht wird, gelten als nicht geschrieben.
 
 
 #### Art 13
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003800311)
 
 (1) Das Indossament muß auf den Wechsel oder auf ein mit dem Wechsel
 verbundenes Blatt (Anhang) gesetzt werden. Es muß von dem Indossanten
@@ -204,6 +221,7 @@ gesetzt werden.
 
 
 #### Art 14
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE003900311)
 
 (1) Das Indossament überträgt alle Rechte aus dem Wechsel.
 
@@ -225,6 +243,7 @@ gesetzt werden.
 
 
 #### Art 15
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004000311)
 
 (1) Der Indossant haftet mangels eines entgegenstehenden Vermerks für
 die Annahme und die Zahlung.
@@ -235,6 +254,7 @@ indossiert wird.
 
 
 #### Art 16
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004100311)
 
 (1) Wer den Wechsel in Händen hat, gilt als rechtmäßiger Inhaber,
 sofern er sein Recht durch eine ununterbrochene Reihe von
@@ -252,6 +272,7 @@ oder ihm beim Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
 
 #### Art 17
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004200311)
 
 Wer aus dem Wechsel in Anspruch genommen wird, kann dem Inhaber keine
 Einwendungen entgegensetzen, die sich auf seine unmittelbaren
@@ -261,6 +282,7 @@ Nachteil des Schuldners gehandelt hat.
 
 
 #### Art 18
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004300311)
 
 (1) Enthält das Indossament den Vermerk "Wert zur Einziehung", "zum
 Inkasso", "in Prokura" oder einen anderen nur eine Bevollmächtigung
@@ -278,6 +300,7 @@ Vollmachtgebers.
 
 
 #### Art 19
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004400311)
 
 (1) Enthält das Indossament den Vermerk "Wert zur Sicherheit", "Wert
 zum Pfande" oder einen anderen eine Verpfändung ausdrückenden Vermerk,
@@ -292,6 +315,7 @@ Wechsels bewußt zum Nachteil des Schuldners gehandelt hat.
 
 
 #### Art 20
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004500311)
 
 (1) Ein Indossament nach Verfall hat dieselben Wirkungen wie ein
 Indossament vor Verfall. Ist jedoch der Wechsel erst nach Erhebung des
@@ -305,10 +329,12 @@ bestimmten Frist auf den Wechsel gesetzt worden ist.
 
 
 ### Dritter Abschnitt - Annahme
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000400311)
 
 
 
 #### Art 21
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004600311)
 
 Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch
 nur in Händen hat, bis zum Verfall dem Bezogenen an seinem Wohnort zur
@@ -316,6 +342,7 @@ Annahme vorgelegt werden.
 
 
 #### Art 22
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004700311)
 
 (1) Der Aussteller kann in jedem Wechsel mit oder ohne Bestimmung
 einer Frist vorschreiben, daß der Wechsel zur Annahme vorgelegt werden
@@ -335,6 +362,7 @@ vorschreiben, daß der Wechsel zur Annahme vorgelegt werden muß.
 
 
 #### Art 23
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004800311)
 
 (1) Wechsel, die auf eine bestimmte Zeit nach Sicht lauten, müssen
 binnen einem Jahr nach dem Tag der Ausstellung zur Annahme vorgelegt
@@ -347,6 +375,7 @@ bestimmen.
 
 
 #### Art 24
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE004900311)
 
 (1) Der Bezogene kann verlangen, daß ihm der Wechsel am Tag nach der
 ersten Vorlegung nochmals vorgelegt wird. Die Beteiligten können sich
@@ -358,6 +387,7 @@ Wechsel in der Hand des Bezogenen zu lassen.
 
 
 #### Art 25
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005000311)
 
 (1) Die Annahmeerklärung wird auf den Wechsel gesetzt. Sie wird durch
 das Wort "angenommen" oder ein gleichbedeutendes Wort ausgedrückt; sie
@@ -375,6 +405,7 @@ lassen.
 
 
 #### Art 26
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005100311)
 
 (1) Die Annahme muß unbedingt sein; der Bezogene kann sie aber auf
 einen Teil der Wechselsumme beschränken.
@@ -385,6 +416,7 @@ Der Annehmende haftet jedoch nach dem Inhalt seiner Annahmeerklärung.
 
 
 #### Art 27
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005200311)
 
 (1) Hat der Aussteller im Wechsel einen von dem Wohnort des Bezogenen
 verschiedenen Zahlungsort angegeben, ohne einen Dritten zu bezeichnen,
@@ -399,6 +431,7 @@ bezeichnen, wo die Zahlung geleistet werden soll.
 
 
 #### Art 28
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005300311)
 
 (1) Der Bezogene wird durch die Annahme verpflichtet, den Wechsel bei
 Verfall zu bezahlen.
@@ -409,6 +442,7 @@ alles, was auf Grund der Artikel 48 und 49 gefordert werden kann.
 
 
 #### Art 29
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005400311)
 
 (1) Hat der Bezogene die auf den Wechsel gesetzte Annahmeerklärung vor
 der Rückgabe des Wechsels gestrichen, so gilt die Annahme als
@@ -422,10 +456,12 @@ Annahmeerklärung.
 
 
 ### Vierter Abschnitt - Wechselbürgschaft
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000500311)
 
 
 
 #### Art 30
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005500311)
 
 (1) Die Zahlung der Wechselsumme kann ganz oder teilweise durch
 Wechselbürgschaft gesichert werden.
@@ -436,6 +472,7 @@ befindet.
 
 
 #### Art 31
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005600311)
 
 (1) Die Bürgschaftserklärung wird auf den Wechsel oder auf einen
 Anhang gesetzt.
@@ -452,6 +489,7 @@ wird; mangels einer solchen Angabe gilt sie für den Aussteller.
 
 
 #### Art 32
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005700311)
 
 (1) Der Wechselbürge haftet in der gleichen Weise wie derjenige, für
 den er sich verbürgt hat.
@@ -466,10 +504,12 @@ alle, die diesem wechselmäßig haften.
 
 
 ### Fünfter Abschnitt - Verfall
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000600311)
 
 
 
 #### Art 33
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005800311)
 
 
 (1) Ein Wechsel kann gezogen werden auf Sicht;
@@ -488,6 +528,7 @@ Verfallzeiten sind nichtig.
 
 
 #### Art 34
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE005900311)
 
 (1) Der Sichtwechsel ist bei der Vorlegung fällig. Er muß binnen einem
 Jahr nach der Ausstellung zur Zahlung vorgelegt werden. Der Aussteller
@@ -500,6 +541,7 @@ Falle beginnt die Vorlegungsfrist mit diesem Tag.
 
 
 #### Art 35
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006000311)
 
 (1) Der Verfall eines Wechsels, der auf eine bestimmte Zeit nach Sicht
 lautet, richtet sich nach dem in der Annahmeerklärung angegebenen Tag
@@ -512,6 +554,7 @@ vorgesehenen Frist angenommen.
 
 
 #### Art 36
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006100311)
 
 (1) Ein Wechsel, der auf einen oder mehrere Monate nach der
 Ausstellung oder nach Sicht lautet, verfällt an dem entsprechenden Tag
@@ -533,6 +576,7 @@ oder zwei Wochen, sondern volle acht oder fünfzehn Tage.
 
 
 #### Art 37
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006200311)
 
 (1) Ist ein Wechsel an einem bestimmten Tag an einem Ort zahlbar,
 dessen Kalender von dem des Ausstellungsorts abweicht, so ist für den
@@ -553,10 +597,12 @@ etwas anderes beabsichtigt war.
 
 
 ### Sechster Abschnitt - Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000700311)
 
 
 
 #### Art 38
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006302301)
 
 (1) Der Inhaber eines Wechsels, der an einem bestimmten Tag oder
 bestimmte Zeit nach der Ausstellung oder nach Sicht zahlbar ist, hat
@@ -572,6 +618,7 @@ und unter welchen Voraussetzungen die Einlieferung erfolgen kann.
 
 
 #### Art 39
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006400311)
 
 (1) Der Bezogene kann vom Inhaber gegen Zahlung die Aushändigung des
 quittierten Wechsels verlangen.
@@ -583,6 +630,7 @@ dem Wechsel vermerkt und ihm eine Quittung erteilt wird.
 
 
 #### Art 40
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006500311)
 
 (1) Der Inhaber des Wechsels ist nicht verpflichtet, die Zahlung vor
 Verfall anzunehmen.
@@ -596,6 +644,7 @@ aber nicht die Unterschriften der Indossanten zu prüfen.
 
 
 #### Art 41
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006600311)
 
 (1) Lautet der Wechsel auf eine Währung, die am Zahlungsort nicht
 gilt, so kann die Wechselsumme in der Landeswährung nach dem Wert
@@ -619,6 +668,7 @@ gemeint ist.
 
 
 #### Art 42
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006700311)
 
 Wird der Wechsel nicht innerhalb der in Artikel 38 bestimmten Frist
 zur Zahlung vorgelegt, so kann der Schuldner die Wechselsumme bei der
@@ -626,10 +676,12 @@ zuständigen Behörde auf Gefahr und Kosten des Inhabers hinterlegen.
 
 
 ### Siebenter Abschnitt - Rückgriff mangels Annahme und mangels Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000800311)
 
 
 
 #### Art 43
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006801307)
 
 (1) Der Inhaber kann gegen die Indossanten, den Aussteller und die
 anderen Wechselverpflichteten bei Verfall des Wechsels Rückgriff
@@ -656,6 +708,7 @@ nehmen, wenn der Wechsel nicht bezahlt worden ist.
 
 
 #### Art 44
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE006902360)
 
 (1) Die Verweigerung der Annahme oder der Zahlung muß durch eine
 öffentliche Urkunde (Protest mangels Annahme oder mangels Zahlung)
@@ -695,6 +748,7 @@ gerichtlichen Beschlusses gleichzuachten.
 
 
 #### Art 45
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007000311)
 
 (1) Der Inhaber muß seinen unmittelbaren Vormann und den Aussteller
 von dem Unterbleiben der Annahme oder der Zahlung innerhalb der vier
@@ -730,6 +784,7 @@ entstandenen Schaden, jedoch nur bis zur Höhe der Wechselsumme.
 
 
 #### Art 46
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007100311)
 
 (1) Der Aussteller sowie jeder Indossant oder Wechselbürge kann durch
 den Vermerk "ohne Kosten", "ohne Protest" oder einen gleichbedeutenden
@@ -753,6 +808,7 @@ Protests verpflichtet.
 
 
 #### Art 47
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007200311)
 
 (1) Alle, die einen Wechsel ausgestellt, angenommen, indossiert oder
 mit einer Bürgschaftserklärung versehen haben, haften dem Inhaber als
@@ -772,6 +828,7 @@ desjenigen, der zuerst in Anspruch genommen worden ist.
 
 
 #### Art 48
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007303377)
 
 (1) Der Inhaber kann im Wege des Rückgriffs verlangen:
 
@@ -803,6 +860,7 @@ berechnet, der am Tag des Rückgriffs am Wohnort des Inhabers gilt.
 
 
 #### Art 49
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007403377)
 
 Wer den Wechsel eingelöst hat, kann von seinen Vormännern verlangen:
 
@@ -827,6 +885,7 @@ Wer den Wechsel eingelöst hat, kann von seinen Vormännern verlangen:
 
 
 #### Art 50
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007500311)
 
 (1) Jeder Wechselverpflichtete, gegen den Rückgriff genommen wird oder
 genommen werden kann, ist berechtigt, zu verlangen, daß ihm gegen
@@ -838,6 +897,7 @@ Indossament und die Indossamente seiner Nachmänner ausstreichen.
 
 
 #### Art 51
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007600311)
 
 Bei dem Rückgriff nach einer Teilannahme kann derjenige, der den nicht
 angenommenen Teil der Wechselsumme entrichtet, verlangen, daß dies auf
@@ -847,6 +907,7 @@ Protest aushändigen, um den weiteren Rückgriff zu ermöglichen.
 
 
 #### Art 52
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007700311)
 
 (1) Wer zum Rückgriff berechtigt ist, kann mangels eines
 entgegenstehenden Vermerkes den Rückgriff dadurch nehmen, daß er auf
@@ -867,6 +928,7 @@ gezogener Sichtwechsel hat.
 
 
 #### Art 53
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007800311)
 
 
 (1) Mit der Versäumung der Fristen für die Vorlegung eines Wechsels, der auf Sicht oder auf eine
@@ -893,6 +955,7 @@ kann sich nur der Indossant darauf berufen.
 
 
 #### Art 54
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE007900311)
 
 (1) Steht der rechtzeitigen Vorlegung des Wechsels oder der
 rechtzeitigen Erhebung des Protestes ein unüberwindliches Hindernis
@@ -928,14 +991,17 @@ Protesterhebung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
 
 ### Achter Abschnitt - Ehreneintritt
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG000900311)
 
 
 
 #### 1. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001000311)
 
 
 
 ##### Art 55
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008000311)
 
 (1) Der Aussteller sowie jeder Indossant oder Wechselbürge kann eine
 Person angeben, die im Notfall annehmen oder zahlen soll.
@@ -956,10 +1022,12 @@ nur bis zur Höhe der Wechselsumme.
 
 
 #### 2. - Ehrenannahme
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001100311)
 
 
 
 ##### Art 56
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008100311)
 
 (1) Die Ehrenannahme ist in allen Fällen zulässig, in denen der
 Inhaber vor Verfall Rückgriff nehmen kann, es sei denn, daß es sich um
@@ -980,6 +1048,7 @@ erklärt worden ist, und gegen dessen Nachmänner.
 
 
 ##### Art 57
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008200311)
 
 Die Ehrenannahme wird auf dem Wechsel vermerkt; sie ist von
 demjenigen, der zu Ehren annimmt, zu unterschreiben. In der
@@ -988,6 +1057,7 @@ mangels einer solchen Angabe gilt sie für den Aussteller.
 
 
 ##### Art 58
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008300311)
 
 (1) Wer zu Ehren annimmt, haftet dem Inhaber und den Nachmännern
 desjenigen, für den er eingetreten ist, in der gleichen Weise wie
@@ -1001,10 +1071,12 @@ sowie einer quittierten Rechnung verlangen.
 
 
 #### 3. - Ehrenzahlung
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001200311)
 
 
 
 ##### Art 59
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008400311)
 
 (1) Die Ehrenzahlung ist in allen Fällen zulässig, in denen der
 Inhaber bei Verfall oder vor Verfall Rückgriff nehmen kann.
@@ -1017,6 +1089,7 @@ des Protests mangels Zahlung stattfinden.
 
 
 ##### Art 60
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008500311)
 
 (1) Ist der Wechsel von Personen zu Ehren angenommen, die ihren
 Wohnsitz am Zahlungsort haben, oder sind am Zahlungsort wohnende
@@ -1032,12 +1105,14 @@ angenommen worden ist, und die Nachmänner frei.
 
 
 ##### Art 61
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008600311)
 
 Weist der Inhaber die Ehrenzahlung zurück, so verliert er den
 Rückgriff gegen diejenigen, die frei geworden wären.
 
 
 ##### Art 62
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008700311)
 
 (1) Über die Ehrenzahlung ist auf dem Wechsel eine Quittung
 auszustellen, die denjenigen bezeichnet, für den gezahlt wird. Fehlt
@@ -1048,6 +1123,7 @@ auszuhändigen.
 
 
 ##### Art 63
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008800311)
 
 (1) Der Ehrenzahler erwirbt die Rechte aus dem Wechsel gegen den
 Wechselverpflichteten, für den er gezahlt hat, und gegen die Personen,
@@ -1066,14 +1142,17 @@ geworden wären.
 Ausfertigung mehrerer Stücke eines Wechsels,
 
 ### Neunter Abschnitt - Wechselabschriften
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001300311)
 
 
 
 #### 1. - Ausfertigungen
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001400311)
 
 
 
 ##### Art 64
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE008900311)
 
 (1) Der Wechsel kann in mehreren gleichen Ausfertigungen ausgestellt
 werden.
@@ -1093,6 +1172,7 @@ wiederholen.
 
 
 ##### Art 65
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009000311)
 
 (1) Wird eine Ausfertigung bezahlt, so erlöschen die Rechte aus allen
 Ausfertigungen, auch wenn diese nicht den Vermerk tragen, daß durch
@@ -1107,6 +1187,7 @@ worden sind.
 
 
 ##### Art 66
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009100311)
 
 (1) Wer eine Ausfertigung zur Annahme versendet, hat auf den anderen
 Ausfertigungen den Namen dessen anzugeben, bei dem sich die versendete
@@ -1129,10 +1210,12 @@ lassen:
 
 
 #### 2. - Abschriften
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001500311)
 
 
 
 ##### Art 67
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009200311)
 
 (1) Jeder Inhaber eines Wechsels ist befugt, Abschriften davon
 herzustellen.
@@ -1147,6 +1230,7 @@ Urschrift.
 
 
 ##### Art 68
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009300311)
 
 (1) In der Abschrift ist der Verwahrer der Urschrift zu bezeichnen.
 Dieser ist verpflichtet, die Urschrift dem rechtmäßigen Inhaber der
@@ -1166,10 +1250,12 @@ nichtig.
 
 
 ### Zehnter Abschnitt - Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001600311)
 
 
 
 #### Art 69
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009400311)
 
 Wird der Text eines Wechsels geändert, so haften diejenigen, die nach
 der Änderung ihre Unterschrift auf den Wechsel gesetzt haben,
@@ -1178,10 +1264,12 @@ haftet nach dem ursprünglichen Text.
 
 
 ### Elfter Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001700311)
 
 
 
 #### Art 70
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009500311)
 
 (1) Die wechselmäßigen Ansprüche gegen den Annehmer verjähren in drei
 Jahren vom Verfalltag.
@@ -1197,6 +1285,7 @@ geltend gemacht worden ist.
 
 
 #### Art 71
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009601377)
 
 Der Neubeginn der Verjährung und ihre Hemmung nach § 204 des
 Bürgerlichen Gesetzbuchs wirken nur gegen den Wechselverpflichteten,
@@ -1205,10 +1294,12 @@ oder die Hemmung bewirkt.
 
 
 ### Zwölfter Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001800311)
 
 
 
 #### Art 72
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009700311)
 
 (1) Verfällt der Wechsel an einem gesetzlichen Feiertage oder einem
 Sonnabend, so kann die Zahlung erst am nächsten Werktage verlangt
@@ -1224,21 +1315,25 @@ der Berechnung der Frist mitgezählt.
 
 
 #### Art 73
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009800311)
 
 Bei der Berechnung der gesetzlichen oder im Wechsel bestimmten Fristen
 wird der Tag, von dem sie zu laufen beginnen, nicht mitgezählt.
 
 
 #### Art 74
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE009900311)
 
 Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 
 ## Zweiter Teil - Eigener Wechsel
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG001900311)
 
 
 
 ### Art 75
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010000311)
 
 Der eigene Wechsel enthält:
 
@@ -1268,6 +1363,7 @@ Der eigene Wechsel enthält:
 
 
 ### Art 76
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010100311)
 
 (1) Eine Urkunde, der einer der im vorstehenden Artikel bezeichneten
 Bestandteile fehlt, gilt nicht als eigener Wechsel, vorbehaltlich der
@@ -1285,6 +1381,7 @@ ist.
 
 
 ### Art 77
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010200311)
 
 (1) Für den eigenen Wechsel gelten, soweit sie nicht mit seinem Wesen
 in Widerspruch stehen, die für den gezogenen Wechsel gegebenen
@@ -1328,6 +1425,7 @@ für wen sie geleistet wird, für den Aussteller des eigenen Wechsels.
 
 
 ### Art 78
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010300311)
 
 (1) Der Aussteller eines eigenen Wechsels haftet in der gleichen Weise
 wie der Annehmer eines gezogenen Wechsels.
@@ -1343,14 +1441,17 @@ bestätigen, so ist dies durch einen Protest festzustellen (Artikel
 
 
 ## Dritter Teil - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG002000311)
 
 
 
 ### Erster Abschnitt - Protest
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG002100311)
 
 
 
 #### Art 79
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010401307)
 
 (1) Jeder Protest muß durch einen Notar oder Gerichtsbeamten
 aufgenommen werden.
@@ -1359,6 +1460,7 @@ aufgenommen werden.
 
 
 #### Art 80
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010500311)
 
 (1) In dem Protest ist aufzunehmen:
 
@@ -1387,6 +1489,7 @@ dem Amtssiegel oder dem Amtsstempel zu versehen.
 
 
 #### Art 81
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010600311)
 
 (1) Der Protest ist auf den Wechsel oder auf ein mit dem Wechsel zu
 verbindendes Blatt zu setzen.
@@ -1413,6 +1516,7 @@ unterschreiben.
 
 
 #### Art 82
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010700311)
 
 (1) Der Protest, den der Inhaber einer Abschrift nach Artikel 68 Abs.
 2 gegen den Verwahrer der Urschrift erheben läßt, ist auf die
@@ -1429,6 +1533,7 @@ entsprechende Anwendung.
 
 
 #### Art 83
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010800311)
 
 Muß eine wechselrechtliche Leistung von mehreren Personen oder von
 derselben Person mehrfach verlangt werden, so ist über die mehrfache
@@ -1436,6 +1541,7 @@ Aufforderung nur eine Protesturkunde erforderlich.
 
 
 #### Art 84
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE010900311)
 
 Der Wechsel kann an den Protestbeamten bezahlt werden. Die Befugnis
 des Protestbeamten zur Annahme der Zahlung kann nicht ausgeschlossen
@@ -1443,6 +1549,7 @@ werden.
 
 
 #### Art 85
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011000311)
 
 (1) Schreibfehler, Auslassungen und sonstige Mängel der Protesturkunde
 können bis zur Aushändigung der Urkunde an denjenigen, für den der
@@ -1479,6 +1586,7 @@ aufzunehmen. Der Vermerk hat zu enthalten:
 
 
 #### Art 86
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011100311)
 
 Proteste sollen in der Zeit von neun Uhr vormittags bis sechs Uhr
 abends erhoben werden, außerhalb dieser Zeit nur dann, wenn derjenige,
@@ -1486,6 +1594,7 @@ gegen den protestiert wird, ausdrücklich einwilligt.
 
 
 #### Art 87
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011200311)
 
 (1) Die Vorlegung zur Annahme oder Zahlung, die Protesterhebung, die
 Abforderung einer Ausfertigung sowie alle sonstigen bei einer
@@ -1507,15 +1616,18 @@ Protestbeamte zu weiteren Nachforschungen nicht verpflichtet.
 
 
 #### Art 88
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011301304)
 
 -
 
 
 ### Zweiter Abschnitt - Bereicherung
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG002200311)
 
 
 
 #### Art 89
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011400311)
 
 (1) Ist die wechselmäßige Verbindlichkeit des Ausstellers oder des
 Annehmers durch Verjährung oder dadurch erloschen, daß eine zur
@@ -1530,10 +1642,12 @@ erloschen ist, findet ein solcher Anspruch nicht statt.
 
 
 ### Dritter Abschnitt - Abhanden gekommene Wechsel und Protesturkunden
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG002300311)
 
 
 
 #### Art 90
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011500311)
 
 (1) Ein abhanden gekommener oder vernichteter Wechsel kann im Wege des
 Aufgebotsverfahrens für kraftlos erklärt werden. Nach Einleitung des
@@ -1549,10 +1663,12 @@ Abs. 2 aufgenommenen Vermerks angegeben sein.
 
 
 ## Vierter Teil - Geltungsbereich der Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNG002400311)
 
 
 
 ### Art 91
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011600311)
 
 (1) Die Fähigkeit einer Person, eine Wechselverbindlichkeit
 einzugehen, bestimmt sich nach dem Recht des Landes, dem sie angehört.
@@ -1568,6 +1684,7 @@ Anwendung, wenn die Verbindlichkeit von einem Inländer im Ausland
 
 
 ### Art 92
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011700311)
 
 (1) Die Form einer Wechselerklärung bestimmt sich nach dem Recht des
 Landes, in dessen Gebiet die Erklärung unterschrieben worden ist.
@@ -1584,6 +1701,7 @@ den Formerfordernissen des inländischen Rechts genügt.
 
 
 ### Art 93
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011800311)
 
 (1) Die Wirkungen der Verpflichtungserklärungen des Annehmers eines
 gezogenen Wechsels und des Ausstellers eines eigenen Wechsels
@@ -1595,6 +1713,7 @@ worden sind.
 
 
 ### Art 94
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE011900311)
 
 Die Fristen für die Ausübung der Rückgriffsrechte werden für alle
 Wechselverpflichteten durch das Recht des Ortes bestimmt, an dem der
@@ -1602,6 +1721,7 @@ Wechsel ausgestellt worden ist.
 
 
 ### Art 95
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE012000311)
 
 Das Recht des Ausstellungsortes bestimmt, ob der Inhaber eines
 gezogenen Wechsels die seiner Ausstellung zugrunde liegende Forderung
@@ -1609,6 +1729,7 @@ erwirbt.
 
 
 ### Art 96
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE012100311)
 
 (1) Das Recht des Zahlungsortes bestimmt, ob die Annahme eines
 gezogenen Wechsels auf einen Teil der Summe beschränkt werden kann und
@@ -1619,6 +1740,7 @@ Teilzahlung anzunehmen.
 
 
 ### Art 97
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE012200311)
 
 Die Form des Protestes und die Fristen für die Protesterhebung sowie
 die Form der übrigen Handlungen, die zur Ausübung oder Erhaltung der
@@ -1628,6 +1750,7 @@ vorzunehmen ist.
 
 
 ### Art 98
+[Direktlink](https://www.gesetze-im-internet.de/wg/BJNR003990933.html#BJNR003990933BJNE012300311)
 
 Das Recht des Zahlungsortes bestimmt die Maßnahmen, die bei Verlust
 oder Diebstahl eines Wechsels zu ergreifen sind.

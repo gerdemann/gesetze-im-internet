@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/urhg_126__121bek_1988-09/BJNR020710988.html#BJNR020710988BJNE000100328)
 
 Auf Grund des § 126 Abs. 3 Satz 2 in Verbindung mit § 121 Abs. 4 Satz
 2 des Urheberrechtsgesetzes vom 9. September 1965 (BGBl. I S. 1273)

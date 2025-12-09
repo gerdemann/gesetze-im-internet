@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000100000)
 
 (1) Diese Verordnung gilt für
 
@@ -96,6 +97,7 @@ Zuletzt geändert durch
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000200000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -124,6 +126,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 3 Errichtung, Betrieb, Stilllegung und Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000301310)
 
 Eine Beseitigungsanlage für Gewinnungsabfälle ist so zu errichten, zu
 betreiben, stillzulegen und nachzusorgen, dass das Wohl der
@@ -140,6 +143,7 @@ wird, gelten § 3 Absatz 3, § 4, § 7 Absatz 1, die §§ 8, 9, 11, 12 und
 
 
 ## § 4 Stabilitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000400000)
 
 Setzt der Erzeuger von Gewinnungsabfällen diese zu Bau- oder
 Sanierungszwecken im Abgrabungsbetrieb ein, hat er geeignete Maßnahmen
@@ -158,6 +162,7 @@ zu treffen, durch die
 
 
 ## § 5 Abfallbewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000500000)
 
 Der Erzeuger von Gewinnungsabfällen hat einen
 Abfallbewirtschaftungsplan nach Anhang für die Entsorgung von
@@ -171,6 +176,7 @@ zuständigen Behörde anzuzeigen.
 
 
 ## § 6 Vermeidung schwerer Unfälle und Information
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000600000)
 
 (1) Der Betreiber einer Anlage der Kategorie A hat vor Inbetriebnahme
 der Anlage ein schriftliches Konzept zur Vermeidung schwerer Unfälle
@@ -218,6 +224,7 @@ des Unfalls für das Wohl der Allgemeinheit zu minimieren.
 
 
 ## § 7 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000700000)
 
 Der Betreiber einer Anlage der Kategorie A hat vor dem Beginn der
 Lagerungs- oder Ablagerungsphase eine Sicherheit zur Erfüllung der
@@ -232,6 +239,7 @@ Sicherheit gilt § 18 der Deponieverordnung entsprechend.
 
 
 ## § 8 Antrag, Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000800000)
 
 (1) Für Errichtung und Betrieb sowie für die wesentliche Änderung des
 Betriebes einer Beseitigungsanlage für Gewinnungsabfälle hat der
@@ -255,6 +263,7 @@ oder geändert werden müssen.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE000901310)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -269,6 +278,7 @@ vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE001000000)
 
 Beseitigungsanlagen für Gewinnungsabfälle, die am 1. Mai 2008
 zugelassen waren oder die bis zu diesem Zeitpunkt bereits in Betrieb
@@ -278,6 +288,7 @@ sind, müssen spätestens am 1. Mai 2012 die Anforderungen der §§ 3 bis
 (zu § 5)
 
 ## Anhang Abfallbewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gewinnungsabfv/BJNR094700009.html#BJNR094700009BJNE001100000)
 
 (Fundstelle: BGBl. I 2009, 949)
 

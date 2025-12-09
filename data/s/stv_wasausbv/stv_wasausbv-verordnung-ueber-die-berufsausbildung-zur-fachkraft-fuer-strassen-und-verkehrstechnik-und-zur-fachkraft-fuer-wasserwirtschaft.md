@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE000500305)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -32,6 +33,7 @@ und das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE000600305)
 
 
 *    *   **Erster Teil**
@@ -168,10 +170,12 @@ und das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
 
 ## Erster Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNG000100305)
 
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE000700305)
 
 Die Ausbildungsberufe
 
@@ -189,11 +193,13 @@ gewerblichen Wirtschaft.
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE000800305)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE000900305)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass der Auszubildende zu einer qualifizierten
@@ -204,10 +210,12 @@ sind auch in den Prüfungen nach den §§ 8, 9, 14 und 15 nachzuweisen.
 
 
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Fachkraft für Straßen- und Verkehrstechnik
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNG000200305)
 
 
 
 ### § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001000305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -270,6 +278,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ### § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001100305)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -280,12 +289,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001200305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001300305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -294,6 +305,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001400305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -336,6 +348,7 @@ Wirtschaftlichkeit berücksichtigen kann.
 
 
 ### § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001500305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -489,10 +502,12 @@ ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## Dritter Teil - Vorschriften für den Ausbildungsberuf Fachkraft für Wasserwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNG000300305)
 
 
 
 ### § 10 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001600305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -558,6 +573,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ### § 11 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001700305)
 
 Die Fertigkeiten und Kenntnisse nach § 10 sollen nach der in der
 Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -569,12 +585,14 @@ erfordern.
 
 
 ### § 12 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001800305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 13 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE001900305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -583,6 +601,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 14 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE002000305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -626,6 +645,7 @@ Wirtschaftlichkeit berücksichtigen kann.
 
 
 ### § 15 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE002100305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -774,10 +794,12 @@ ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## Vierter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNG000400305)
 
 
 
 ### § 16 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE002200305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -786,6 +808,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE002300305)
 
 Diese Verordnung tritt am 1. August 2000 in Kraft. Gleichzeitig treten
 außer Kraft:
@@ -818,6 +841,7 @@ außer Kraft:
 (zu § 5)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE002400305)
 
 (Fundstelle: BGBl. I 2000, 1153 - 1158)
 
@@ -1707,6 +1731,7 @@ außer Kraft:
 (zu § 11)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/stv_wasausbv/BJNR114800000.html#BJNR114800000BJNE002500305)
 
 (Fundstelle: BGBl. I 2000, 1159 - 1164)
 

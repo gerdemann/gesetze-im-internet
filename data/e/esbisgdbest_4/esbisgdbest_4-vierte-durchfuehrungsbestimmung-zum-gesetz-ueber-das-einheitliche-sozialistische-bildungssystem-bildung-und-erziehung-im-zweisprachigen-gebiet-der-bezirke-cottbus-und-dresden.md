@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/esbisgdbest_4/DDNR200330969.html#DDNR200330969BJNE000100307)
 
 In Anwendung des Artikels 40 der Verfassung der Deutschen
 Demokratischen Republik wird zur allseitigen Verwirklichung des
@@ -33,11 +34,13 @@ folgendes bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/esbisgdbest_4/DDNR200330969.html#DDNR200330969BJNE000200307)
 
 -
 
 
 ## § 2 Kindergärten
+[Direktlink](https://www.gesetze-im-internet.de/esbisgdbest_4/DDNR200330969.html#DDNR200330969BJNE000300307)
 
 (1) In Kindergärten im zweisprachigen Gebiet sind, ausgehend von den
 muttersprachlichen Voraussetzungen der Kinder, die deutsche bzw.
@@ -59,10 +62,12 @@ Sprache, Deutsch bzw. Sorbisch, vertraut zu machen.
 
 
 ## (XXXX) §§ 3 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/esbisgdbest_4/DDNR200330969.html#DDNR200330969BJNE000400307)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/esbisgdbest_4/DDNR200330969.html#DDNR200330969BJNE000500307)
 
 **Der Minister für Volksbildung**
 

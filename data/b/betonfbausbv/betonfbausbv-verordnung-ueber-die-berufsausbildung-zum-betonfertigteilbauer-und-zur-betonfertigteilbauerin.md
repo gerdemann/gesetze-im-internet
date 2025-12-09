@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -38,9 +39,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000300000)
 
 Der Ausbildungsberuf des Betonfertigteilbauers und der
 Betonfertigteilbauerin wird nach § 4 Absatz 1 des
@@ -48,11 +51,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -70,6 +75,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -155,6 +161,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -162,6 +169,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -172,9 +180,11 @@ regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -184,6 +194,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -200,6 +211,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001100000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -213,6 +225,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich Herstellen von Schalungen und Bewehrungen
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001200000)
 
 (1) Im Prüfungsbereich Herstellen von Schalungen und Bewehrungen soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -248,6 +261,7 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 11 Prüfungsbereich Herstellen und Prüfen von Beton
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001300000)
 
 (1) Im Prüfungsbereich Herstellen und Prüfen von Beton soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -276,9 +290,11 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNG000300000)
 
 
 ### § 12 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001400000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -288,6 +304,7 @@ durchgeführt werden.
 
 
 ### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001500000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -304,6 +321,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001600000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -323,6 +341,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 15 Prüfungsbereich Betonfertigteilherstellung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001700000)
 
 (1) Im Prüfungsbereich Betonfertigteilherstellung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -376,6 +395,7 @@ Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 16 Prüfungsbereich Betontechnologie und Oberflächengestaltung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001800000)
 
 (1) Im Prüfungsbereich Betontechnologie und Oberflächengestaltung soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -404,6 +424,7 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 17 Prüfungsbereich Betonfertigteile
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE001900000)
 
 (1) Im Prüfungsbereich Betonfertigteile soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -435,6 +456,7 @@ dass er in der Lage ist,
 
 
 ### § 18 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE002000000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -448,6 +470,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE002101119)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -525,9 +548,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNG000400000)
 
 
 ### § 20 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE002200000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -536,12 +561,14 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE002300000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Betonfertigteilbauer und zur Betonfertigteilbauerin
+[Direktlink](https://www.gesetze-im-internet.de/betonfbausbv/BJNR117900015.html#BJNR117900015BJNE002400000)
 
 (Fundstelle: BGBl. I 2015, 1183 - 1186)
 

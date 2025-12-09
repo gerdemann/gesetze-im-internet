@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/intersputnikg/BJNR234620998.html#BJNR234620998BJNE000100305)
 
 Dem Eintritt der Bundesrepublik Deutschland in das Abkommen vom 15.
 November 1971 über die Schaffung des internationalen Systems und der
@@ -35,6 +36,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/intersputnikg/BJNR234620998.html#BJNR234620998BJNE000204305)
 
 Das Bundesministerium für Wirtschaft und Energie kann das Abkommen in
 der durch das Protokoll geänderten Fassung als Neufassung
@@ -42,6 +44,7 @@ bekanntmachen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/intersputnikg/BJNR234620998.html#BJNR234620998BJNE000304305)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde)
@@ -56,6 +59,7 @@ Erstattung der Auslagen zu regeln.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/intersputnikg/BJNR234620998.html#BJNR234620998BJNE000400305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

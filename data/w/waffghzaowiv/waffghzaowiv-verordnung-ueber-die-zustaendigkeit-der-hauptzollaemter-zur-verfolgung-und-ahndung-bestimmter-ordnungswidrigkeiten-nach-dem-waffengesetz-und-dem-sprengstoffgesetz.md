@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/waffghzaowiv/BJNR016160976.html#BJNR016160976BJNE000100304)
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in
 der Fassung der Bekanntmachung vom 2. Januar 1975 (Bundesgesetzbl. I
@@ -32,6 +33,7 @@ wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/waffghzaowiv/BJNR016160976.html#BJNR016160976BJNE000201377)
 
 Die Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
 nach § 53 Abs. 1 Nr. 15 des Waffengesetzes und nach § 41 Abs. 1 Nr. 5
@@ -42,6 +44,7 @@ der Zollverwaltung ausgeführt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/waffghzaowiv/BJNR016160976.html#BJNR016160976BJNE000300304)
 
 Diese Verordnung gilt, soweit die Zuständigkeit zur Verfolgung und
 Ahndung von Ordnungswidrigkeiten nach § 41 Abs. 1 Nr. 5 des
@@ -52,11 +55,13 @@ auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/waffghzaowiv/BJNR016160976.html#BJNR016160976BJNE000400304)
 
 Diese Verordnung tritt am 1. Juli 1976 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/waffghzaowiv/BJNR016160976.html#BJNR016160976BJNE000500304)
 
 Der Bundesminister der Finanzen
 

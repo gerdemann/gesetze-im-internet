@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000100000)
 
 In Anerkennung, dass
 der nationalsozialistische Staat Sklaven- und Zwangsarbeitern durch
@@ -52,6 +53,7 @@ Gesetz beschlossen:
 
 
 ## § 1 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000200000)
 
 (1) Unter dem Namen "Erinnerung, Verantwortung und Zukunft" wird eine
 rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung
@@ -61,6 +63,7 @@ entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000300000)
 
 (1) Zweck der Stiftung ist es, über Partnerorganisationen Finanzmittel
 zur Gewährung von Leistungen an ehemalige Zwangsarbeiter und von
@@ -80,6 +83,7 @@ er auch Projekte im Interesse ihrer Erben fördern.
 
 
 ## § 3 Stifter und Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000400000)
 
 (1) Stifter sind die in der Stiftungsinitiative der deutschen
 Wirtschaft zusammengeschlossenen Unternehmen und der Bund.
@@ -113,6 +117,7 @@ Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -126,6 +131,7 @@ Organe der Stiftung sind
 
 
 ## § 5 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000602130)
 
 (1) Das Kuratorium besteht aus 27 Mitgliedern. Dies sind
 
@@ -262,6 +268,7 @@ Auslagen werden erstattet.
 
 
 ## § 6 Stiftungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000701308)
 
 (1) Der Stiftungsvorstand besteht aus dem Vorsitzenden und einem
 weiteren Mitglied. Mitglieder des Kuratoriums dürfen nicht zugleich
@@ -284,6 +291,7 @@ entscheidet der Vorsitzende.
 
 
 ## § 7 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000800000)
 
 Das Kuratorium beschließt mit einer Mehrheit von zwei Dritteln eine
 Satzung. Kommt innerhalb von drei Monaten nach der konstituierenden
@@ -294,6 +302,7 @@ Dritteln ändern.
 
 
 ## § 8 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE000903310)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
 der Finanzen.
@@ -309,6 +318,7 @@ Dienste und offene Vermögensfragen zu prüfen.
 
 
 ## § 9 Verwendung der Stiftungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001003310)
 
 (1) Dem Stiftungszweck gemäß § 2 Abs. 1 dienende Mittel der Stiftung
 werden Partnerorganisationen zugewiesen. Sie dienen der Gewährung von
@@ -548,6 +558,7 @@ geregelte Tatbestände betreffen, werden Gerichtskosten nicht erhoben.
 
 
 ## § 10 Mittelvergabe durch Partnerorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001100000)
 
 (1) Die Gewährung und die Auszahlung der Einmalleistungen an die nach
 § 11 Leistungsberechtigten erfolgen durch Partnerorganisationen. Die
@@ -566,6 +577,7 @@ und Anmeldefristen.
 
 
 ## § 11 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001200000)
 
 (1) Leistungsberechtigt nach diesem Gesetz ist, wer
 
@@ -647,6 +659,7 @@ Schenkungsteuer befreit.
 
 
 ## § 12 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001300000)
 
 (1) Kennzeichen für andere Haftstätten im Sinne von § 11 Abs. 1 Nr. 1
 sind unmenschliche Haftbedingungen, unzureichende Ernährung und
@@ -664,6 +677,7 @@ mittelbar mit mindestens 25 vom Hundert beteiligt waren.
 
 
 ## § 13 Antragsrecht
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001400000)
 
 (1) Leistungen nach § 11 Abs. 1 Satz 1 Nr. 1 oder 2 oder Satz 2 oder 5
 sind höchstpersönlich und als solche zu beantragen. Ist der
@@ -689,6 +703,7 @@ Rechtsnachfolger Satz 1 nicht.
 
 
 ## § 14 Antrags- und Ausschlussfristen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001502310)
 
 (1) Eine Leistungsberechtigung nach Maßgabe von § 11 kann nicht mehr
 festgestellt werden, wenn bei Ablauf des 31. Dezember 2001 kein Antrag
@@ -722,6 +737,7 @@ Weise bekannt zu machen.
 
 
 ## § 15 Berücksichtigung anderer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001600000)
 
 (1) Die Leistungen sollen den Leistungsberechtigten für erlittenes
 nationalsozialistisches Unrecht zugute kommen und dürfen nicht zur
@@ -736,6 +752,7 @@ Era Insurance Claims bleiben unberührt.
 
 
 ## § 16 Ausschluss von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001700000)
 
 (1) Leistungen aus Mitteln der öffentlichen Hand einschließlich der
 Sozialversicherung sowie deutscher Unternehmen für erlittenes
@@ -777,6 +794,7 @@ die öffentliche Hand bleiben hiervon unberührt.
 
 
 ## § 17 Bereitstellung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001800000)
 
 (1) Die Stiftung stellt den Partnerorganisationen die Mittel nach
 Maßgabe des § 9 Abs. 2 und 3 vierteljährlich entsprechend des
@@ -792,6 +810,7 @@ Deutsche Bundestag fest.
 
 
 ## § 18 Auskunftsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE001900000)
 
 (1) Die Stiftung und ihre Partnerorganisationen sind berechtigt, von
 Behörden und anderen öffentlichen Einrichtungen Auskünfte einzuholen,
@@ -814,6 +833,7 @@ ihrer Leistungsberechtigung erforderlich ist.
 
 
 ## § 19 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE002000000)
 
 Bei den Partnerorganisationen sind unabhängige und keinen Weisungen
 unterworfene Beschwerdestellen einzurichten. Das Verfahren vor den
@@ -822,6 +842,7 @@ nicht erstattet.
 
 
 ## § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/evzstiftg/BJNR126300000.html#BJNR126300000BJNE002100000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

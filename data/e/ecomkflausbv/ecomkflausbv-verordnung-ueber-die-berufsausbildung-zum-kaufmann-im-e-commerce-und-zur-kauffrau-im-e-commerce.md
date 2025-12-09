@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -34,9 +35,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000300000)
 
 Der Ausbildungsberuf des Kaufmanns im E-Commerce und der Kauffrau im
 E-Commerce wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
@@ -44,11 +47,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -66,6 +71,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -137,6 +143,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -144,9 +151,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNG000200000)
 
 
 ### § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -158,6 +167,7 @@ durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -174,6 +184,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 Sortimentsbewirtschaftung und Vertragsanbahnung statt.
@@ -206,6 +217,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -227,6 +239,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -247,6 +260,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich Geschäftsprozesse im E-Commerce
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001300000)
 
 (1) Im Prüfungsbereich Geschäftsprozesse im
 E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -295,6 +309,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 12 Prüfungsbereich Kundenkommunikation im E-Commerce
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001400000)
 
 (1) Im Prüfungsbereich Kundenkommunikation im
 E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -331,6 +346,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 13 Prüfungsbereich Fachgespräch zu einem projektbezogenen Prozess im E-Commerce
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001500000)
 
 (1) Im Prüfungsbereich Fachgespräch zu einem projektbezogenen Prozess
 im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -416,6 +432,7 @@ praxisbezogenen Aufgabe, der Report und die Anlage.
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -429,6 +446,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -523,15 +541,18 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNG000300000)
 
 
 ### § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001800000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce
+[Direktlink](https://www.gesetze-im-internet.de/ecomkflausbv/BJNR392600017.html#BJNR392600017BJNE001900000)
 
 (Fundstelle: BGBl. I 2017, 3930 - 3934)
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000100312)
 
 Auf Grund des Artikels IV des Gesetzes zur Durchführung von
 Richtlinien der Europäischen Wirtschaftsgemeinschaft über die
@@ -35,11 +36,13 @@ Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000200312)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000300312)
 
 Der Nachweis der Sachkunde, der Sachkenntnis oder der fachlichen
 Eignung ist für einen Ausländer, der Staatsangehöriger eines
@@ -74,6 +77,7 @@ erbracht anzusehen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000400312)
 
 (1) Der Nachweis der Sachkunde, der Sachkenntnis oder der fachlichen
 Eignung nach § 2 dieser Verordnung ist als erbracht anzusehen, wenn
@@ -138,6 +142,7 @@ Stelle des Herkunftslandes zu erbringen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000500312)
 
 (1) Der Nachweis der Sachkunde ist für einen Ausländer, der
 Staatsangehöriger eines Mitgliedstaates der EWG ist, für die
@@ -180,6 +185,7 @@ einer zuständigen Berufsinstitution als vollwertig anerkannt sein.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000600312)
 
 (1) Die Bescheinigungen über eine Ausbildung oder Befähigung oder die
 Ausübung einer beruflichen Tätigkeit im Inland nach Artikel IV des
@@ -205,6 +211,7 @@ nach der von ihm zuletzt im Inland ausgeübten Tätigkeit.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000700312)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel V
@@ -217,6 +224,7 @@ Dienstleistungsverkehr auch im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdv_1/BJNR006770971.html#BJNR006770971BJNE000800312)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

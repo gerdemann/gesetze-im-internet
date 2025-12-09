@@ -27,10 +27,12 @@ veröffentlicht.
 
 
 ## Teil 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000101125)
 
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000201125)
 
 Die Ausbildungsberufe
 
@@ -55,11 +57,13 @@ anerkannt.
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000301125)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000402125)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten (berufliche Handlungsfähigkeit) sollen prozessbezogen
@@ -127,17 +131,20 @@ befähigt.
 
 
 ### § 4 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000501125)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000602125)
 
 (weggefallen)
 
 
 ### § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000701125)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -153,10 +160,12 @@ nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Anlagenmechaniker/ Anlagenmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000201125)
 
 
 
 ### § 7 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000802125)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Qualifikationen:
@@ -243,6 +252,7 @@ Absatz 1 vermittelt werden können.
 
 
 ### § 8 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE000901125)
 
 Die in § 7 Absatz 1 genannten Qualifikationen sollen nach der in
 Anlage 1 und Anlage 2 enthaltenen Anleitung zur sachlichen und
@@ -254,6 +264,7 @@ Abweichung erfordern.
 
 
 ### § 9 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001001125)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -303,6 +314,7 @@ zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 10 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001103125)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 und der Anlage 2 aufgeführten Qualifikationen sowie auf den im
@@ -436,9 +448,11 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Industriemechaniker/Industriemechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000301125)
 
 
 ### § 11 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001202125)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Qualifikationen:
@@ -523,6 +537,7 @@ Absatz 1 vermittelt werden können.
 
 
 ### § 12 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001301125)
 
 Die in § 11 Absatz 1 genannten Qualifikationen sollen nach der in
 Anlage 1 und Anlage 3 enthaltenen Anleitung zur sachlichen und
@@ -534,6 +549,7 @@ Abweichung erfordern.
 
 
 ### § 13 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001401125)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -580,6 +596,7 @@ zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 14 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001502125)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 und der Anlage 3 aufgeführten Qualifikationen sowie auf den im
@@ -703,9 +720,11 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Konstruktionsmechaniker/Konstruktionsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000401125)
 
 
 ### § 15 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001602125)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Qualifikationen:
@@ -800,6 +819,7 @@ Absatz 1 vermittelt werden können.
 
 
 ### § 16 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001701125)
 
 Die in § 15 Absatz 1 genannten Qualifikationen sollen nach der in
 Anlage 1 und Anlage 4 enthaltenen Anleitung zur sachlichen und
@@ -811,6 +831,7 @@ Abweichung erfordern.
 
 
 ### § 17 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001801125)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -859,6 +880,7 @@ zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 18 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE001903125)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 und der Anlage 4 aufgeführten Qualifikationen sowie auf den im
@@ -994,9 +1016,11 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Werkzeugmechaniker/ Werkzeugmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000501125)
 
 
 ### § 19 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002002125)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Qualifikationen:
@@ -1085,6 +1109,7 @@ Absatz 1 vermittelt werden können.
 
 
 ### § 20 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002101125)
 
 Die in § 19 Absatz 1 genannten Qualifikationen sollen nach der in
 Anlage 1 und Anlage 5 enthaltenen Anleitung zur sachlichen und
@@ -1096,6 +1121,7 @@ Abweichung erfordern.
 
 
 ### § 21 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002201125)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1143,6 +1169,7 @@ zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 22 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002302125)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 und der Anlage 5 aufgeführten Qualifikationen sowie auf den im
@@ -1268,9 +1295,11 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 6 - Vorschriften für den Ausbildungsberuf Zerspanungsmechaniker/Zerspanungsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000601125)
 
 
 ### § 23 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002402125)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Qualifikationen:
@@ -1357,6 +1386,7 @@ Absatz 1 vermittelt werden können.
 
 
 ### § 24 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002501125)
 
 Die in § 23 Absatz 1 genannten Qualifikationen sollen nach der in
 Anlage 1 und Anlage 6 enthaltenen Anleitung zur sachlichen und
@@ -1368,6 +1398,7 @@ Abweichung erfordern.
 
 
 ### § 25 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002601125)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1415,6 +1446,7 @@ zeitlichen Umfang von höchstens 90 Minuten haben.
 
 
 ### § 26 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002702125)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 und der Anlage 6 aufgeführten Qualifikationen sowie auf den im
@@ -1537,9 +1569,11 @@ Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
 ## Teil 7 - Gemeinsame Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000702125)
 
 
 ### § 27 Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002801125)
 
 (1) Für die in dieser Verordnung genannten Ausbildungsberufe gelten
 jeweils die in den nachfolgenden Absätzen aufgeführten
@@ -1584,9 +1618,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Teil 8 - Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000801125)
 
 
 ### § 28 Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE002902125)
 
 Über das jeweilige Ausbildungsberufsbild, das in § 7 Absatz 1, § 11
 Absatz 1, § 15 Absatz 1, § 19 Absatz 1 und § 23 Absatz 1 beschrieben
@@ -1609,6 +1645,7 @@ Zusatzqualifikationen vereinbart werden:
 
 
 ### § 29 Gegenstand der Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003002125)
 
 (1) Gegenstand der Zusatzqualifikation Systemintegration sind die in
 Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
@@ -1626,6 +1663,7 @@ Fähigkeiten.
 
 
 ### § 30 Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003801125)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -1637,6 +1675,7 @@ gesonderte Prüfung statt.
 
 
 ### § 31 Anforderungen an die Prüfung der Zusatzqualifikation Systemintegration
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003901125)
 
 (1) Die Prüfung der Zusatzqualifikation Systemintegration erstreckt
 sich auf die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und
@@ -1662,6 +1701,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 32 Anforderungen an die Prüfung der Zusatzqualifikation Prozessintegration
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004001125)
 
 (1) Die Prüfung der Zusatzqualifikation Prozessintegration erstreckt
 sich auf die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und
@@ -1686,6 +1726,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 33 Anforderungen an die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004101125)
 
 (1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
 erstreckt sich auf die in Anlage 7 Teil C genannten Fertigkeiten,
@@ -1707,6 +1748,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 34 Anforderungen an die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004201125)
 
 (1) Die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
 erstreckt sich auf die in Anlage 7 Teil D genannten Fertigkeiten,
@@ -1728,6 +1770,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 35 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004301125)
 
 (1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten
 Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
@@ -1764,9 +1807,11 @@ die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Teil 9 - Gemeinsame Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNG000901125)
 
 
 ### § 36 Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004401125)
 
 Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
 bestehen, ist die Verordnung über die Berufsausbildung in den
@@ -1776,6 +1821,7 @@ geändert worden ist, weiter anzuwenden.
 
 
 ### § 37 Änderung bestehender Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004501125)
 
 Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
 bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
@@ -1786,6 +1832,7 @@ nicht Teil 1 der Abschlussprüfung absolviert hat.
 
 
 ### § 38 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004601125)
 
 Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem
 1\. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1.
@@ -1794,6 +1841,7 @@ August 2018 bereits bestehen, angewendet werden.
 (zu den §§ 8, 12, 16, 20 und 24)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003102125)
 
 (Fundstelle: BGBl. I 2018, 989 – 991)
 
@@ -2250,6 +2298,7 @@ August 2018 bereits bestehen, angewendet werden.
 (zu § 8)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003202125)
 
 (Fundstelle: BGBl. I 2018, 992 – 1002)
 
@@ -3851,6 +3900,7 @@ Fachqualifikationen**
 (zu § 12)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003302125)
 
 (Fundstelle: BGBl. I 2018, 1003 – 1016)
 
@@ -5862,6 +5912,7 @@ Fachqualifikationen**
 (zu § 16)
 
 ### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003402125)
 
 (Fundstelle: BGBl. I 2018, 1017 – 1029)
 
@@ -7703,6 +7754,7 @@ Fachqualifikationen**
 (zu § 20)
 
 ### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003502125)
 
 (Fundstelle: BGBl. I 2018, 1030 – 1042)
 
@@ -9627,6 +9679,7 @@ Fachqualifikationen**
 (zu § 24)
 
 ### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE003602125)
 
 (Fundstelle: BGBl. I 2018, 1043 – 1053)
 
@@ -11191,6 +11244,7 @@ Fachqualifikationen**
 (zu § 29)
 
 ### Anlage 7 Ausbildungsrahmenplan für die Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indmetausbv_2007/BJNR159900007.html#BJNR159900007BJNE004701125)
 
 (Fundstelle: BGBl. I 2018, 1054 – 1056)
 

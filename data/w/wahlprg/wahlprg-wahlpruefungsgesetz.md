@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000101377)
 
 (1) Über die Gültigkeit der Wahlen zum Bundestag und die Verletzung
 von Rechten bei der Vorbereitung oder Durchführung der Wahl, soweit
@@ -36,6 +37,7 @@ erklärt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000201314)
 
 (1) Die Prüfung erfolgt nur auf Einspruch.
 
@@ -61,6 +63,7 @@ Verfahren einstellen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000301307)
 
 (1) Die Entscheidung des Bundestages wird durch den
 Wahlprüfungsausschuß vorbereitet.
@@ -80,6 +83,7 @@ Stimmengleichheit entscheidet die Stimme des ältesten Mitglieds.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000400315)
 
 Der Wahlprüfungsausschuß ist beschlußfähig, wenn mindestens die Hälfte
 der Mitglieder anwesend ist. Er beschließt mit Stimmenmehrheit; bei
@@ -87,6 +91,7 @@ Stimmengleichheit ist ein Antrag abgelehnt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000502377)
 
 (1) Der Vorsitzende bestimmt für jeden Einspruch einen
 Berichterstatter.
@@ -117,6 +122,7 @@ den Vernommenen Vorhalte zu machen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000602311)
 
 (1) Vor der Schlussentscheidung wird Termin zur mündlichen Verhandlung
 nur dann anberaumt, wenn die Vorprüfung ergibt, dass davon eine
@@ -158,6 +164,7 @@ Bundestages.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000700315)
 
 (1) Zu Beginn der mündlichen Verhandlung trägt der Berichterstatter
 die Sachlage vor und berichtet über das Ergebnis der Vorprüfung.
@@ -177,6 +184,7 @@ die Aussagen der Zeugen und Sachverständigen wiederzugeben sind.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000800315)
 
 (1) Die mündliche Verhandlung findet öffentlich statt.
 
@@ -189,6 +197,7 @@ geltenden Bestimmungen ergeben.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE000900315)
 
 Für das gesamte Verfahren sind die für den Zivilprozeß geltenden
 Bestimmungen entsprechend anzuwenden auf Fristen, Ladungen,
@@ -197,6 +206,7 @@ und Sachverständigen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001000315)
 
 (1) Der Wahlprüfungsausschuß berät geheim über das Ergebnis der
 Verhandlung.
@@ -209,6 +219,7 @@ teilnehmen, die der mündlichen Verhandlung beigewohnt haben.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001101377)
 
 Der Beschluß des Ausschusses ist schriftlich niederzulegen; er muß dem
 Bundestag eine Entscheidung vorschlagen. Diese muß über die Gültigkeit
@@ -222,6 +233,7 @@ Bezugnahme auf den Akteninhalt zulässig.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001200315)
 
 Der Beschluß ist als Antrag des Wahlprüfungsausschusses an den
 Bundestag zu leiten und spätestens drei Tage vor der Beratung im
@@ -231,6 +243,7 @@ werden.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001301160)
 
 (1) Der Bundestag beschließt über den Antrag des Ausschusses mit
 einfacher Mehrheit. Soweit er ihm nicht zustimmt, gilt er als an den
@@ -248,6 +261,7 @@ genügt.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001400315)
 
 Ergeben sich Zweifel, ob ein Abgeordneter im Zeitpunkt der Wahl
 wählbar war, so kann auch nach Ablauf der Einspruchsfrist (§ 2 Abs. 4)
@@ -257,6 +271,7 @@ Abgeordneten es verlangt.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001500315)
 
 Nach den Vorschriften dieses Gesetzes ist auch zu verfahren, wenn
 darüber zu entscheiden ist, ob ein Abgeordneter des Bundestages die
@@ -268,6 +283,7 @@ Abs. 1 und 3 des Bundeswahlgesetzes), jederzeit gestellt werden.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001600315)
 
 (1) Stellt der Bundestag in den Fällen, in denen über den Verlust der
 Mitgliedschaft im Wahlprüfungsverfahren zu entscheiden ist (§ 47 Abs.
@@ -290,6 +306,7 @@ Anordnung gemäß Absatz 2 treffen.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001700315)
 
 (1) Von der Beratung und Beschlußfassung im Wahlprüfungsverfahren ist
 der Abgeordnete ausgeschlossen, dessen Wahl zur Prüfung steht.
@@ -299,12 +316,14 @@ zehn Abgeordneten angefochten wird.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001800315)
 
 Für die Beschwerde an das Bundesverfassungsgericht gelten die
 Vorschriften des Gesetzes über das Bundesverfassungsgericht.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE001900315)
 
 (1) Die Kosten des Verfahrens beim Bundestag trägt der Bund. Dem in
 nichtamtlicher Eigenschaft Einsprechenden können notwendige Auslagen
@@ -317,11 +336,13 @@ Beschluß des Bundestages zu entscheiden.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE002000315)
 
 -
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/wahlprg/BJNR001660951.html#BJNR001660951BJNE002100315)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

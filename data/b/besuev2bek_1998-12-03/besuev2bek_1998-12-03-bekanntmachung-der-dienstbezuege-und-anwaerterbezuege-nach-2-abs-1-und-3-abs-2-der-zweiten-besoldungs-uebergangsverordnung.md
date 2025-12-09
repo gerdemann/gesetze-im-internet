@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1998-12-03/BJNR350800998.html#BJNR350800998BJNE000100311)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
 Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764),
@@ -33,6 +34,7 @@ Der Bundesminister des Innern
 
 
 ## Anlage 1 (Anlage VIII des BBesG)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1998-12-03/BJNR350800998.html#BJNR350800998BJNE000200311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3508
 
@@ -81,6 +83,7 @@ Anwärtergrundbetrag
 
 
 ## Anlage 2 (Anlage IX des BBesG)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1998-12-03/BJNR350800998.html#BJNR350800998BJNE000300311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 3509 - 3511)
 

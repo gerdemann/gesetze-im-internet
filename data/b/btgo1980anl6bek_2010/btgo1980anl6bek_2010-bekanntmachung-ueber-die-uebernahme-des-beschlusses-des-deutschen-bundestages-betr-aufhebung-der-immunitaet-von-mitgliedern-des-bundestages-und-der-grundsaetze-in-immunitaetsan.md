@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl6bek_2010/BJNR002400010.html#BJNR002400010BJNE000100000)
 
 Der Beschluss des Deutschen Bundestages betr. Aufhebung der Immunität
 von Mitgliedern des Bundestages (Anlage 6 GO-BT), zuletzt geändert
@@ -37,6 +38,7 @@ Anlage 6 GO-BT), zuletzt geändert laut Bekanntmachung vom 15. Juli
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl6bek_2010/BJNR002400010.html#BJNR002400010BJNE000200000)
 
 Der Direktor beim Deutschen Bundestag
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000100000)
 
 Auf Grund des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes, der
 durch Artikel 1 Nummer 24 des Gesetzes vom 20. März 2009 (BGBl. I S.
@@ -30,9 +31,11 @@ Anhörung der Spitzenverbände der Kreditwirtschaft:
 
 
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000200000)
 
 Bei der Ermittlung der Flugzeugbeleihungswerte nach § 26d Absatz 1 und
 2 des Pfandbriefgesetzes und bei der Erhebung der für die
@@ -41,6 +44,7 @@ Verordnung anzuwenden.
 
 
 ### § 2 Gegenstand der Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000300000)
 
 Gegenstand der Flugzeugbeleihungswertermittlung sind Flugzeuge im
 Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Luftverkehrsgesetzes, die
@@ -48,6 +52,7 @@ in einem öffentlichen Register eingetragen sind.
 
 
 ### § 3 Grundsatz der Flugzeugbeleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000400000)
 
 (1) Der Wert, der der Beleihung zugrunde gelegt wird
 (Flugzeugbeleihungswert), ist der Wert des Flugzeugs, der
@@ -62,6 +67,7 @@ zu berücksichtigen.
 
 
 ### § 4 Verfahren zur Ermittlung von Beleihungswerten für Flugzeuge
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000500000)
 
 (1) Zur Ermittlung des Flugzeugbeleihungswerts für ein Flugzeug sind
 der aktuelle Marktwert (§ 9), der durchschnittliche Marktwert der
@@ -89,9 +95,11 @@ ausgeglichenen Marktbedingungen und durchschnittlichem Zustand nicht
 
 
 ## Teil 2 - Gutachten und Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNG000200000)
 
 
 ### § 5 Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000600000)
 
 (1) Der Flugzeugbeleihungswert ist mittels eines Gutachtens zu
 ermitteln.
@@ -141,6 +149,7 @@ den Besichtigungsbericht Bezug nehmen.
 
 
 ### § 6 Besichtigung
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000700000)
 
 (1) Das zu bewertende Flugzeug ist im Rahmen der Wertermittlung zu
 besichtigen. Dabei sind sämtliche gemäß den Regelungen der
@@ -166,6 +175,7 @@ Luftverkehrsgesetzes genannten Betriebsgenehmigung betrieben wird.
 
 
 ### § 7 Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000800000)
 
 (1) Der Gutachter muss nach seiner Ausbildung und beruflichen
 Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet der
@@ -184,6 +194,7 @@ erforderlich.
 
 
 ### § 8 Unabhängigkeit des Gutachters
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE000900000)
 
 (1) Der Gutachter muss sowohl vom Kreditakquisitions- und
 Kreditentscheidungsprozess als auch von Vermittlung, Verkauf,
@@ -210,9 +221,11 @@ einzigen Votums gemacht werden.
 
 
 ## Teil 3 - Wertermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNG000300000)
 
 
 ### § 9 Aktueller Marktwert
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE001000000)
 
 (1) Der aktuelle Marktwert ist der geschätzte Betrag, für welchen ein
 Flugzeug am Bewertungsstichtag zwischen einem verkaufsbereiten
@@ -229,6 +242,7 @@ anzupassen.
 
 
 ### § 10 Durchschnittlicher Marktwert
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE001100000)
 
 (1) Der durchschnittliche Marktwert ist der Durchschnittsbetrag der
 Marktwerte eines gleichartigen Flugzeugs für die zugrunde zu legenden
@@ -238,6 +252,7 @@ letzten Kalenderjahre vor dem Jahr der Wertermittlung.
 
 
 ### § 11 Wert bei ausgeglichenen Marktbedingungen und durchschnittlichem Zustand
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE001200000)
 
 (1) Der Wert bei ausgeglichenen Marktbedingungen und
 durchschnittlichem Zustand ist der geschätzte Betrag, für welchen ein
@@ -253,9 +268,11 @@ Sachkenntnis, Umsicht und ohne Zwang handelt.
 
 
 ## Teil 4 - Überprüfung der Flugzeug- beleihungswertermittlung und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNG000400000)
 
 
 ### § 12 Überprüfung der Grundlagen der Flugzeugbeleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE001301119)
 
 (1) Der Flugzeugbeleihungswert ist längstens jährlich zu überwachen.
 Bestehen Anhaltspunkte, dass sich die Grundlagen der
@@ -274,6 +291,7 @@ unberührt.
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flugbelwertv/BJNR103600009.html#BJNR103600009BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

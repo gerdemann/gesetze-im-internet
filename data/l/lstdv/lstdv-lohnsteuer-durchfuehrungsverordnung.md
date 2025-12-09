@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Arbeitnehmer, Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE000102309)
 
 (1) Arbeitnehmer sind Personen, die in öffentlichem oder privatem
 Dienst angestellt oder beschäftigt sind oder waren und die aus diesem
@@ -47,6 +48,7 @@ handelt.
 
 
 ## § 2 Arbeitslohn
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE000204301)
 
 (1) Arbeitslohn sind alle Einnahmen, die dem Arbeitnehmer aus dem
 Dienstverhältnis zufließen. Es ist unerheblich, unter welcher
@@ -106,11 +108,13 @@ Bezeichnung oder in welcher Form die Einnahmen gewährt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE000406301)
 
 (weggefallen)
 
 
 ## § 4 Lohnkonto
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE000720123)
 
 (1) Der Arbeitgeber hat im Lohnkonto des Arbeitnehmers Folgendes
 aufzuzeichnen:
@@ -245,6 +249,7 @@ Dienstverhältnis gesondert aufzuzeichnen.
 
 
 ## § 5 Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE001303123)
 
 (1) Der Arbeitgeber hat bei der Durchführung einer kapitalgedeckten
 betrieblichen Altersversorgung über eine Pensionskasse oder eine
@@ -293,16 +298,19 @@ Einkommensteuergesetzes zu besteuern sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE001105301)
 
 (aufgehoben)
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE001207301)
 
 (aufgehoben)
 
 
 ## § 8 Anwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/lstdv/BJNR701570949.html#BJNR701570949BJNE000813377)
 
 (1) Die Vorschriften dieser Verordnung in der Fassung des Artikels 2
 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) sind erstmals

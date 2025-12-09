@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000100306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000200306)
 
 Dem in Rom am 7. Juni 1969 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Italienischen Republik über den
@@ -33,6 +35,7 @@ Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000300306)
 
 (1) Die Bundesregierung und die Landesregierungen bestimmen in ihrem
 jeweiligen Geschäftsbereich die Behörden, die für die Beglaubigung
@@ -45,6 +48,7 @@ nicht der Zustimmung des Bundesrates.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000400306)
 
 Die Beglaubigung nach Artikel 2 des Vertrages wird mit den
 entsprechenden Ergänzungen in der folgenden Form auf der Urkunde
@@ -90,6 +94,7 @@ durch
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000500306)
 
 (1) Die Auskunft nach Artikel 4 Abs. 1 des Vertrages erteilt das
 Bundesverwaltungsamt nach Maßgabe des Absatzes 2.
@@ -102,6 +107,7 @@ verpflichtet, eine Äußerung abzugeben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000600306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -111,6 +117,7 @@ S. 1).
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritag/BJNR210690974.html#BJNR210690974BJNE000700306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

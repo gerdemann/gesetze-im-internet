@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -31,6 +32,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000200000)
 
 Der Ausbildungsberuf Kaufmann für Spedition und
 Logistikdienstleistung/Kauffrau für Spedition und
@@ -38,11 +40,13 @@ Logistikdienstleistung wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -53,6 +57,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -140,6 +145,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000600000)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -151,12 +157,14 @@ ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -165,6 +173,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -193,6 +202,7 @@ durchzuführen:
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE001001310)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -302,6 +312,7 @@ bestanden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE001100000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -310,11 +321,13 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 ## Anlage 1 (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE001300000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1905 - 1910
 
@@ -1189,6 +1202,7 @@ Fundstelle des Originaltextes: BGBl. I 2004, 1905 - 1910
 (zu § 5)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/spedkfmausbv_2004/BJNR190200004.html#BJNR190200004BJNE001400000)
 
 (Fundstelle: BGBl. I 2004, 1911 - 1913)
 

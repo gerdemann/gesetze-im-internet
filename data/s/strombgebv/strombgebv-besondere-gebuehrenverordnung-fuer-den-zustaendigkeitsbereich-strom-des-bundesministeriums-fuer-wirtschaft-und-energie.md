@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes vom 7.
 August 2013 (BGBl. I S. 3154) in Verbindung mit § 76 des Windenergie-
@@ -29,6 +30,7 @@ verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000203130)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach Teil 2
 Abschnitt 2 und den Teilen 3 und 5 des Windenergie-auf-See-Gesetzes
@@ -42,12 +44,14 @@ Gebührenverzeichnis der Anlage.
 
 
 ## § 2 Auslagenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000301128)
 
 Auslagen werden nach § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes
 gesondert erhoben.
 
 
 ## § 3 Übergangsregelungen und Verhältnis zu weiteren Gebührenverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000501128)
 
 (1) Für die Erhebung von Gebühren für individuell zurechenbare
 öffentliche Leistungen durch das Bundesamt für Seeschifffahrt und
@@ -79,6 +83,7 @@ werden, wird durch diese Verordnung nicht ausgeschlossen.
 (zu § 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/strombgebv/BJNR000300017.html#BJNR000300017BJNE000405128)
 
 (Fundstelle: BGBl. 2023 I, Nr. 24, 2 - 5
 bzgl. der einzelnen Änderungen vgl. Fußnote)

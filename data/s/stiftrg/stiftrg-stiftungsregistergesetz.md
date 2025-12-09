@@ -17,44 +17,56 @@ Fundstelle
 
 
 ## Abschnitt 1 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000100000)
 
 
 ### Unterabschnitt 1 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000200000)
 
 
 #### (XXXX) §§ 1 bis 2 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE000100000)
 
 
 
 ### Unterabschnitt 2 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000300000)
 
 
 #### (XXXX) §§ 3 bis 9 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE000300000)
 
 
 
 ### Unterabschnitt 3 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000400000)
 
 
 #### (XXXX) §§ 10 bis 14 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001000000)
 
 
 
 ## Abschnitt 2 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000500000)
 
 
 ### (XXXX) §§ 15 bis 17 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001500000)
 
 
 
 ## Abschnitt 3 - Verwaltungsrechtsweg, Ausschluss des Wider- spruchsverfahrens, Verordnungsermächtigung und Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNG000600000)
 
 
 ### (XXXX) § 18 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001800000)
 
 
 
 ### § 19 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE001900000)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
 Rechtsverordnung nähere Bestimmungen zur Einrichtung, insbesondere der
@@ -91,5 +103,6 @@ Stiftungsregister regeln, insbesondere über
 
 
 ### (XXXX) § 20 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/stiftrg/BJNR295300021.html#BJNR295300021BJNE002000000)
 
 

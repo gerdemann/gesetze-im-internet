@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000100000)
 
 Auf Grund des § 46 Nr. 3 des Bundeswasserstraßengesetzes (WaStrG) vom
 02\. April 1968 (BGBl. II S. 173) in der Fassung der Bekanntmachung vom
@@ -29,6 +30,7 @@ September 1971 (BGBl. I S. 1617), wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000200000)
 
 Diese Verordnung gilt auf den Bundeswasserstraßen Weser, von
 Mittelweser-km 354,19 bis Außenweser-km 74,5 nebst den Nebenarmen
@@ -41,6 +43,7 @@ landesrechtlichen wasserrechtlichen Bestimmungen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000300000)
 
 Badende dürfen nicht:
 
@@ -66,6 +69,7 @@ Badende dürfen nicht:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000400000)
 
 Im Geltungsbereich nach § 1 ist das Baden verboten:
 
@@ -97,6 +101,7 @@ Im Geltungsbereich nach § 1 ist das Baden verboten:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000500000)
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -128,6 +133,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000600000)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über das Baden in den
@@ -136,6 +142,7 @@ Bundeswasserstraßen Weser, Lesum und Hunte vom 03. Mai 1982 (VkBl. S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/badev/BJNR762700005.html#BJNR762700005BJNE000700000)
 
 Wasser- und Schifffahrtsdirektion Nordwest
 

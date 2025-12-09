@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-7-50 v. 15.12.1997 I 3127 (ServiceTPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000100000)
 
 Auf Grund
 
@@ -45,6 +46,7 @@ Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -186,6 +188,7 @@ für Kraftfahrzeug-Servicetechnik“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000400000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53b des
 Berufsbildungsgesetzes oder des § 42b der Handwerksordnung erfüllt und
@@ -224,6 +227,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000500000)
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
@@ -237,6 +241,7 @@ Die Prüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Prüfungsbereich „Technik“
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000600000)
 
 Im Prüfungsbereich „Technik“ hat die zu prüfende Person die Fähigkeit
 nachzuweisen, dass sie in der Lage ist, technische Zusammenhänge in
@@ -289,6 +294,7 @@ geprüft:
 
 
 ## § 5 Prüfungsbereich „Organisation“
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000700000)
 
 Im Prüfungsbereich „Organisation“ hat die zu prüfende Person die
 Fähigkeit nachzuweisen, dass sie in der Lage ist,
@@ -339,6 +345,7 @@ diesem Rahmen werden folgende Qualifikationsinhalte geprüft:
 
 
 ## § 6 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000800000)
 
 (1) Die Prüfung gliedert sich in
 
@@ -364,6 +371,7 @@ vertreten ist.
 
 
 ## § 7 Fahrzeugbezogene Arbeitsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE000900000)
 
 (1) Im Rahmen der fahrzeugbezogenen Arbeitsaufgabe hat die zu prüfende
 Person nachzuweisen, dass sie in der Lage ist, Arbeitsaufträge unter
@@ -463,6 +471,7 @@ Umsetzungskonzept.
 
 
 ## § 8 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001000000)
 
 (1) Im Fachgespräch sind die Prüfungsbereiche nach § 3 einzubeziehen.
 
@@ -495,6 +504,7 @@ in der Lage ist,
 
 
 ## § 9 System- und bauteilbezogene Arbeitsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001100000)
 
 (1) Im Rahmen der system- und bauteilbezogenen Arbeitsaufgabe hat die
 zu prüfende Person nachzuweisen, dass sie in der Lage ist, eine
@@ -529,6 +539,7 @@ festgelegt werden:
 
 
 ## § 10 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001200000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -558,6 +569,7 @@ Mittel berechnet.
 
 
 ## § 11 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001300000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind in
@@ -612,6 +624,7 @@ ist die Gesamtnote.
 
 
 ## § 12 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001400000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder § 42h Absatz 2 der Handwerksordnung von
@@ -625,6 +638,7 @@ zugrunde zu legen.
 
 
 ## § 13 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001500000)
 
 (1) Wer die Prüfung nach § 11 Absatz 1 bestanden hat, erhält von der
 nach Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -651,6 +665,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 14 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001600000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -673,6 +688,7 @@ wiederholt werden.
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001700000)
 
 (1) Nach der Verordnung über die Prüfung zum anerkannten Abschluss
 „Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-
@@ -694,6 +710,7 @@ nach dieser Verordnung durchzuführen.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -705,6 +722,7 @@ Kraftfahrzeug-Servicetechnikerin“ vom 15. Dezember 1997 (BGBl. I S.
 (zu den §§ 10 und 11)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE001900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 261, S. 9 - 10)
 
@@ -1005,6 +1023,7 @@ Kraftfahrzeug-Servicetechnikerin“ vom 15. Dezember 1997 (BGBl. I S.
 (zu § 13)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/kfzstfprv/BJNR1050A0023.html#BJNR1050A0023BJNE002000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 261, S. 11)
 

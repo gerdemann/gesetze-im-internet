@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000100308)
 
 Auf Grund des § 14 Abs. 1 Nr. 1, 2 und 3 des Abfallgesetzes vom 27.
 August 1986 (BGBl. I S. 1410) und des § 7 Abs. 1 des Bundes-
@@ -28,6 +29,7 @@ der Bundesregierung nach Anhörung der beteiligten Kreise verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000200308)
 
 (1) Diese Verordnung gilt für Lösemittel, die nach Gebrauch als
 Reststoff verwertet oder als Abfall entsorgt werden müssen und die in
@@ -62,6 +64,7 @@ Grad C bei jeweils 1013 hPa.
 
 
 ## § 2 Getrennte Haltung, Vermischungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000300308)
 
 (1) Betreiber der in § 1 Abs. 1 genannten Anlagen haben Lösemittel
 nach Gebrauch getrennt entsprechend dem Hauptbestandteil des
@@ -79,6 +82,7 @@ vermischen.
 
 
 ## § 3 Rücknahmeverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000400308)
 
 (1) Wer als Vertreiber Lösemittel in Mengen von 10 l oder mehr
 innerhalb eines Monats an einen Betreiber der in § 1 Abs. 1 genannten
@@ -93,6 +97,7 @@ Stoffe oder Zubereitungen.
 
 
 ## § 4 Erklärung über die Verwendung von Lösemitteln
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000501310)
 
 Nimmt der Betreiber der in § 1 Abs. 1 genannten Anlagen nach § 3 Abs.
 1 den Vertreiber auf Rücknahme gebrauchter Lösemittel in Anspruch, so
@@ -102,6 +107,7 @@ der Anlage zu dieser Verordnung enthaltenen Muster abzugeben.
 
 
 ## § 5 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000600308)
 
 Lösemittel dürfen in Gebinden nur in Verkehr gebracht werden, wenn
 diese durch leicht erkennbaren und lesbaren Aufdruck, Prägung oder
@@ -117,6 +123,7 @@ ausweisen. Bei loser Ware muß die Kennzeichnung nach den Sätzen 1 und
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000700308)
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 11 des Abfallgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -170,6 +177,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000800308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 31 des Abfallgesetzes und § 73 des Bundes-
@@ -177,6 +185,7 @@ Immissionsschutzgesetzes auch im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000900308)
 
 Diese Verordnung tritt mit Ausnahme des § 5 am ersten Tag des dritten
 auf die Verkündung folgenden Kalendermonats in Kraft. § 5 tritt am
@@ -185,11 +194,13 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE001000308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 4 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/hkwabfv/BJNR019180989.html#BJNR019180989BJNE000110308)
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1920
 **Erklärung über die Art und Verwendung von Lösemitteln**

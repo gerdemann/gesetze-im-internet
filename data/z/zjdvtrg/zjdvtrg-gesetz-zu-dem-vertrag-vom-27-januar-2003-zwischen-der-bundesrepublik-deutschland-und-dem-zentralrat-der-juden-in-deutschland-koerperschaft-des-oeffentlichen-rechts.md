@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtrg/BJNR159700003.html#BJNR159700003BJNE000100000)
 
 (1) Dem in Berlin am 27. Januar 2003 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und dem Zentralrat der Juden in
@@ -31,6 +32,7 @@ Deutschland - Körperschaft des öffentlichen Rechts - wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtrg/BJNR159700003.html#BJNR159700003BJNE000200000)
 
 Anpassungen der Staatsleistung im Sinne des Artikels 2 Abs. 2 und des
 Artikels 7 des Vertrages bedürfen der Zustimmung des Deutschen
@@ -38,6 +40,7 @@ Bundestages in der Form eines Bundesgesetzes.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtrg/BJNR159700003.html#BJNR159700003BJNE000300000)
 
 Das Gesetz tritt am Tag nach der Verkündung in Kraft.
 

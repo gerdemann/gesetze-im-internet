@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Name, Rechtsform und Sitz der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000101310)
 
 Unter dem Namen "Stiftung Deutsche Geisteswissenschaftliche Institute
 im Ausland" wird eine rechtsfähige bundesunmittelbare Stiftung des
@@ -30,6 +31,7 @@ durch Satzung einen Namenszusatz geben.
 
 
 ## § 2 Zweck der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000201310)
 
 (1) Zweck der Stiftung ist es, Folgendes zu fördern:
 
@@ -75,6 +77,7 @@ Abgabenordnung.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000301310)
 
 (1) Zur Erfüllung des Stiftungszwecks erhält die Stiftung eine
 jährliche Zuwendung des Bundes nach Maßgabe des jeweiligen
@@ -91,6 +94,7 @@ durch unverhältnismäßig hohe Vergütungen begünstigen.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000400000)
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer
 Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der
@@ -99,6 +103,7 @@ Das Gleiche gilt für Änderungen der Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000501310)
 
 Organe der Stiftung sind
 
@@ -121,6 +126,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000601310)
 
 (1) Der Stiftungsrat besteht aus elf vom Bundesministerium für Bildung
 und Forschung für eine Amtszeit von vier Jahren berufenen Mitgliedern.
@@ -178,6 +184,7 @@ die Tätigkeit der Einrichtungen kann er sich berichten lassen.
 
 
 ## § 7 Verfahren des Stiftungsrates
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000702116)
 
 (1) Der Stiftungsrat entscheidet in der Regel in Sitzungen, die der
 oder die Vorsitzende nach Bedarf, jedoch mindestens einmal im Jahr
@@ -207,6 +214,7 @@ Direktionsversammlung ein; die Einzelheiten regelt die Satzung.
 
 
 ## § 8 Direktionsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000801310)
 
 (1) Die Direktionsversammlung setzt sich aus den Direktorinnen und
 Direktoren der Institute zusammen.
@@ -230,6 +238,7 @@ anwesenden Mitglieder.
 
 
 ## § 9 Direktorinnen und Direktoren der Institute
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001600310)
 
 (1) Der Stiftungsrat bestellt für jedes Institut auf Vorschlag des
 Wissenschaftlichen Beirates (§ 10) eine Person zur Direktorin oder zum
@@ -248,6 +257,7 @@ sieben Jahre ist zulässig.
 
 
 ## § 10 Wissenschaftliche Beiräte der Institute
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE000901310)
 
 (1) Für jedes Institut wird ein Wissenschaftlicher Beirat berufen. Er
 hat bis zu neun Mitglieder. Beschäftigte der Institute dürfen ihm
@@ -272,6 +282,7 @@ Versammlung der Beiratsvorsitzenden.
 
 
 ## § 11 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001001310)
 
 Die Mitglieder des Stiftungsrates und der Wissenschaftlichen Beiräte
 der Institute üben ihre Tätigkeit unentgeltlich aus. Die oder der
@@ -280,6 +291,7 @@ Vergütung erhalten.
 
 
 ## § 12 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001700310)
 
 (1) Die Geschäftsführerin oder der Geschäftsführer führt die Geschäfte
 der Stiftung, soweit sie nach dem Gesetz oder der Satzung nicht von
@@ -294,6 +306,7 @@ Geschäftsführers sowie weitere Einzelheiten regelt die Satzung.
 
 
 ## § 13 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001800310)
 
 Die gemeinsame Geschäftsstelle unterstützt die Arbeit der
 Stiftungsorgane, der Beschäftigten der Institute und der
@@ -302,6 +315,7 @@ dem Geschäftsführer geleitet.
 
 
 ## § 14 Aufsicht, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001101310)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
 für Bildung und Forschung.
@@ -313,6 +327,7 @@ Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
 
 
 ## § 15 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001202360)
 
 (1) Auf die Arbeits- und Ausbildungsverhältnisse der Beschäftigten und
 Auszubildenden der Stiftung sind die für die Beschäftigten und
@@ -328,6 +343,7 @@ Beschäftigten gilt das Ortsrecht des jeweiligen Gastlandes.
 
 
 ## § 16 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/geistwstiftg/BJNR200300002.html#BJNR200300002BJNE001301310)
 
 Die Stiftung legt spätestens alle zwei Jahre einen öffentlich
 zugänglichen Bericht über ihre bisherige Tätigkeit und ihre Vorhaben

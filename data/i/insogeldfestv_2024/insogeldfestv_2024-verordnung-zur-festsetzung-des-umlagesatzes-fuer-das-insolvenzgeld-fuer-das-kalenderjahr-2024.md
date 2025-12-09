@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2024/BJNR17B0A0023.html#BJNR17B0A0023BJNE000100000)
 
 Auf Grund des § 361 Nummer 1 des Dritten Buches Sozialgesetzbuch –
 Arbeitsförderung –, der zuletzt durch Artikel 448 der Verordnung vom
@@ -30,6 +31,7 @@ dem Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Umlagesatz
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2024/BJNR17B0A0023.html#BJNR17B0A0023BJNE000200000)
 
 Der für die Finanzierung des Insolvenzgeldes erhobene Umlagesatz nach
 § 358 Absatz 2 Satz 1 des Dritten Buches Sozialgesetzbuch wird für das
@@ -37,11 +39,13 @@ Kalenderjahr 2024 auf 0,06 Prozent festgesetzt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2024/BJNR17B0A0023.html#BJNR17B0A0023BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2024/BJNR17B0A0023.html#BJNR17B0A0023BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNE000100000)
 
 Auf Grund der §§ 16, 17 Abs. 2 Satz 1 und Abs. 2a Satz 1 des
 Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom
@@ -28,18 +29,22 @@ verordnet die Bundesregierung:
 
 
 ## Art 1 - Verordnung zur Regelung der Krankenhauspflegesätze (Bundespflegesatzverordnung - BPflV)
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNG000100000)
 
 
 
 ## Art 2 bis 7 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNG000200000)
 
 
 
 ## Art 8 - Überleitungsvorschriften für die Gebührenminderung bei wahlärztlichen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNG000300000)
 
 
 
 ## § 1 Gebührenordnung für Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNE000200000)
 
 Bis zum 31. Dezember 1995 wird § 6a Abs. 1 der Gebührenordnung für
 Ärzte in der Fassung der Bekanntmachung vom 10. Juni 1988 (BGBl. I S.
@@ -67,6 +72,7 @@ b)  bei Leistungen von Belegärzten oder niedergelassenen anderen Ärzten."
 
 
 ## § 2 Gebührenordnung für Zahnärzte
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNE000300000)
 
 Bis zum 31. Dezember 1995 wird § 7 der Gebührenordnung für Zahnärzte
 vom 22. Oktober 1987 (BGBl. I S. 2316), die durch Artikel 21 des
@@ -129,6 +135,7 @@ b)  bei Leistungen von Belegzahnärzten oder niedergelassenen anderen
 
 
 ## Art 9 - Überleitungsvorschrift für die Krankenhaus-Buchführungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNG000400000)
 
 Für Krankenhäuser, die nicht mit Wirkung zum 1. Januar 1995
 Fallpauschalen und Sonderentgelte nach Artikel 1 § 11 Abs. 1 und 2 im
@@ -137,6 +144,7 @@ ist Artikel 3 Nr. 1 und 3 bis 6 ab dem 1. Januar 1996 anzuwenden.
 
 
 ## Art 10 - Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNG000500000)
 
 (1) Artikel 1 § 16 tritt am Tage nach der Verkündung in Kraft.
 
@@ -155,6 +163,7 @@ Artikel 6 und 7 treten am 1. Januar 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pflnv/BJNR275009994.html#BJNR275009994BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

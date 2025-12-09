@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000100000)
 
 Auf Grund des § 32 Absatz 2 Satz 1 der Strafprozessordnung, der durch
 Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208)
@@ -25,6 +26,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf elektronisch geführte
 Strafverfahrensakten
@@ -44,6 +46,7 @@ Strafverfahrensakten
 
 
 ## § 2 Struktur und Format elektronischer Akten; Repräsentat
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000300000)
 
 (1) In der elektronischen Akte werden zur Akte gebrachte elektronische
 Dokumente einschließlich zugehöriger Signaturdateien sowie sonstige
@@ -76,6 +79,7 @@ unterstützen.
 
 
 ## § 3 Bearbeitung der elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000400000)
 
 (1) Elektronische Dokumente sowie sonstige Dateien und Informationen
 gelten als zur Akte genommen, wenn sie bewusst und dauerhaft in der
@@ -93,6 +97,7 @@ teilweise auf eine andere Stelle übergehen.
 
 
 ## § 4 Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000500000)
 
 Elektronische Akten und Verfahren zur elektronischen Aktenführung und
 -bearbeitung sollen technisch so gestaltet werden, dass sie, soweit
@@ -106,6 +111,7 @@ und Beschaffung beachtet werden.
 
 
 ## § 5 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000600000)
 
 Im Fall technischer Störungen der elektronischen Aktenführung kann
 angeordnet werden, dass eine Ersatzakte in Papierform geführt wird.
@@ -116,6 +122,7 @@ zu unterrichten.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bstrafaktfv/BJNR214000019.html#BJNR214000019BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

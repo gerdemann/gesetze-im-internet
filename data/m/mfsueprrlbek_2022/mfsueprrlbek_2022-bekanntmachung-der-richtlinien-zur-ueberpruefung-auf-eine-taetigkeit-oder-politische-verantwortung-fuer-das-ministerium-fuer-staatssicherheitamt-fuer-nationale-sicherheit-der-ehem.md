@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/mfs_prrlbek_2022/BJNR060200022.html#BJNR060200022BJNE000100000)
 
 Gemäß § 44c Absatz 4 des Abgeordnetengesetzes hat der Deutsche
 Bundestag in seiner Sitzung am 17. März 2022 die Richtlinien zur
@@ -129,6 +130,7 @@ vom 11. November 2009 (BGBl. I S. 3819) treten außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/mfs_prrlbek_2022/BJNR060200022.html#BJNR060200022BJNE000200000)
 
 Der Direktor beim Deutschen Bundestag
 

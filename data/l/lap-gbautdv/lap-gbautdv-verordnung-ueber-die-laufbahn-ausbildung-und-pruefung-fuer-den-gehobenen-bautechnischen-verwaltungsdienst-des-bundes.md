@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000100000)
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
 Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in
@@ -31,10 +32,12 @@ Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## Kapitel 1 - Laufbahn und Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNG000100000)
 
 
 
 ### § 1 Laufbahnämter
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000300000)
 
 (1) Die Laufbahn des gehobenen bautechnischen Verwaltungsdienstes des
 Bundes mit den Fachrichtungen
@@ -90,6 +93,7 @@ und Amtsbezeichnungen:
 
 
 ### § 2 Ziel der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000400000)
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
 Beamtinnen und Beamten die Fähigkeiten, Kenntnisse und Fertigkeiten,
@@ -121,6 +125,7 @@ Selbststudium ist zu fördern.
 
 
 ### § 3 Einstellungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000502311)
 
 Einstellungsbehörden sind
 
@@ -143,6 +148,7 @@ Entscheidungen zuständigen Dienstbehörden.
 
 
 ### § 4 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000601310)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -161,6 +167,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 ### § 5 Ausschreibung, Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000701311)
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
 ermittelt.
@@ -201,6 +208,7 @@ Bewerbung sind beizufügen:
 
 
 ### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000800000)
 
 (1) Vor der Entscheidung über die Einstellung in den
 Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob
@@ -267,6 +275,7 @@ Wiederbestellung ist zulässig.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE000902116)
 
 (1) Die Einstellungsbehörden entscheiden nach dem Ergebnis des
 Auswahlverfahrens über die Einstellung von Bewerberinnen und
@@ -319,6 +328,7 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
 
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001000000)
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
 Beamtenverhältnis auf Widerruf - Bewerberinnen zu
@@ -330,6 +340,7 @@ ihrer Einstellungsbehörde.
 
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001102310)
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
@@ -381,11 +392,13 @@ Verlängerung des Vorbereitungsdienstes nach § 30 Abs. 2.
 
 
 ### § 10 Urlaub während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001200000)
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 
 ### § 11 Ausbildungsakte
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001300000)
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan sowie alle Leistungsnachweise
@@ -393,6 +406,7 @@ und Bewertungen aufzunehmen sind.
 
 
 ### § 12 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001400000)
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
 die Erbringung von Leistungsnachweisen und für die Teilnahme an
@@ -421,6 +435,7 @@ Schwerbehindertenvertretung.
 
 
 ### § 13 Gliederung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001500000)
 
 (1) Der Vorbereitungsdienst gliedert sich für die jeweiligen
 Fachrichtungen wie folgt in eine praktische Ausbildung (Praktika) und
@@ -677,6 +692,7 @@ Prüfungsamt auf.
 
 
 ### § 14 Ausbildungsleitung, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001600000)
 
 (1) Die Einstellungsbehörden bestellen jeweils eine Beamtin oder einen
 Beamten des höheren oder gehobenen technischen Dienstes oder eine
@@ -701,6 +717,7 @@ Ausbildungsstand.
 
 
 ### § 15 Leistungsnachweise während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001700000)
 
 (1) Während des Vorbereitungsdienstes haben die Anwärterinnen und
 Anwärter drei Leistungsnachweise zu erbringen. Leistungsnachweise
@@ -752,6 +769,7 @@ Leistungsnachweises bestimmt hat.
 
 
 ### § 16 Bewertungen während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001800000)
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
 Anwärter während des Vorbereitungsdienstes wird für jeden
@@ -775,10 +793,12 @@ Zeugnisses.
 
 
 ## Kapitel 2 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNG000200000)
 
 
 
 ### § 17 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE001900000)
 
 Dem beim Bundesamt für Bauwesen und Raumordnung eingerichteten
 Prüfungsamt obliegt die Durchführung der Laufbahnprüfung; es trägt
@@ -789,6 +809,7 @@ teilweise auf andere Behörden übertragen werden.
 
 
 ### § 18 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002000000)
 
 (1) Die Laufbahnprüfung wird vor einer Prüfungskommission abgelegt;
 für die schriftliche und mündliche Prüfung können gesonderte
@@ -842,6 +863,7 @@ zulässig.
 
 
 ### § 19 Ziel und Inhalt der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002102311)
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
 Anwärter für die vorgesehene Laufbahn befähigt sind.
@@ -872,6 +894,7 @@ anwesend sein.
 
 
 ### § 20 Prüfungsort, Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002200000)
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen und der
 mündlichen Prüfung fest.
@@ -885,6 +908,7 @@ Ort und Zeit der schriftlichen und der mündlichen Prüfung mit.
 
 
 ### § 21 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002301116)
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt. Es kann hierzu von
 den Ausbildungsbehörden Vorschläge verlangen. Die vier schriftlichen
@@ -973,6 +997,7 @@ versäumte Zeit als Bearbeitungszeit.
 
 
 ### § 22 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002400000)
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
 Prüfung zu, wenn zwei oder mehr schriftliche Aufsichtsarbeiten
@@ -988,6 +1013,7 @@ der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
 
 
 ### § 23 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002501116)
 
 (1) Die mündliche Prüfung richtet sich auf unterschiedliche
 Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt
@@ -1206,6 +1232,7 @@ die Mitglieder der Prüfungskommission unterschreiben.
 
 
 ### § 24 Verhinderung, Rücktritt, Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002600000)
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
 Umstände an der Ablegung der Prüfung oder Teilen der Prüfung
@@ -1231,6 +1258,7 @@ Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 25 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002700000)
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen
 Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen
@@ -1267,6 +1295,7 @@ hören.
 
 
 ### § 26 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002800000)
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten
 bewertet:
@@ -1424,6 +1453,7 @@ sinngemäß.
 
 
 ### § 27 Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE002900000)
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
 die Abschlussnote fest. Dabei werden berücksichtigt:
@@ -1467,6 +1497,7 @@ mündlich.
 
 
 ### § 28 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE003000000)
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
 Prüfung bestanden haben, ein Prüfungszeugnis, das mindestens die
@@ -1490,6 +1521,7 @@ Fällen des § 25 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
 
 ### § 29 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE003100000)
 
 (1) Jeweils eine Ausfertigung der Niederschriften über die
 Laufbahnprüfung und des Laufbahnprüfungszeugnisses ist mit den
@@ -1506,6 +1538,7 @@ Prüfungsakten nehmen.
 
 
 ### § 30 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE003200000)
 
 (1) Wer die Prüfung nicht bestanden hat oder wessen Prüfung als nicht
 bestanden gilt, kann die Prüfung einmal wiederholen; die oberste
@@ -1525,10 +1558,12 @@ werden.
 
 
 ## Kapitel 3 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNG000300000)
 
 
 
 ### § 31 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE003300000)
 
 Für Anwärterinnen und Anwärter, die sich zum Zeitpunkt des
 Inkrafttretens dieser Verordnung bereits im Vorbereitungsdienst
@@ -1539,6 +1574,7 @@ Verwaltungsvorschrift vom 29. September 1998 (GMBl S. 882), weiter.
 
 
 ### § 32 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lap-gbautdv/BJNR010500004.html#BJNR010500004BJNE003400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 

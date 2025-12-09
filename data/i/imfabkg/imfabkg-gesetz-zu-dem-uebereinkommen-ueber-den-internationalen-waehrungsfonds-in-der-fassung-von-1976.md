@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000100326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000200326)
 
 Der Neufassung des Abkommens über den Internationalen Währungsfonds,
 die der Gouverneursrat des Fonds bis zum 30. April 1976 genehmigt hat
@@ -37,6 +39,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000300326)
 
 Das Recht aus Artikel V des Übereinkommens, Mittel des Internationalen
 Währungsfonds innerhalb der Reservetranche im Sinne des Artikels XXX
@@ -45,6 +48,7 @@ Bundesbank aus.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000400326)
 
 (1) Vermögenswerte (Sonderziehungsrechte, Beträge in Deutscher Mark
 oder fremder Währung oder Gold), die zur Erfüllung von Ansprüchen der
@@ -62,6 +66,7 @@ Bundesbank an den Fonds überträgt, gehen auf die Deutsche Bundesbank
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000500326)
 
 Die Deutsche Bundesbank wickelt den Geschäftsverkehr der
 Bundesrepublik Deutschland mit dem Internationalen Währungsfonds nach
@@ -70,6 +75,7 @@ Hinterlegungsstelle nach Artikel XIII Abschnitt 2 des Übereinkommens.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000601377)
 
 (1) Die Bundesregierung bestellt den Gouverneur und den
 Stellvertretenden Gouverneur für die Bundesrepublik Deutschland im
@@ -94,6 +100,7 @@ zeitweiligen Stellvertretenden Exekutivdirektors.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000704118)
 
 (1) Der Gouverneur sowie das Mitglied im Rat auf Ministerebene üben
 ihre Tätigkeit im Einvernehmen mit dem Bundesministerium der Finanzen
@@ -107,6 +114,7 @@ Finanzen.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000800326)
 
 Die Zusammenarbeit zwischen der Bundesregierung und der Deutschen
 Bundesbank bei der Anwendung des Übereinkommens wird in einer
@@ -114,6 +122,7 @@ Verwaltungsvereinbarung geregelt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE000900326)
 
 Die Bundesregierung unterrichtet den Deutschen Bundestag und den
 Bundesrat über Vorgänge von besonderer Bedeutung, die sich bei der
@@ -121,17 +130,20 @@ Anwendung des Übereinkommens ergeben.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE001000326)
 
 -
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE001100326)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/imfabkg/BJNR200130978.html#BJNR200130978BJNE001200326)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 9 am Tage nach
 seiner Verkündung in Kraft.

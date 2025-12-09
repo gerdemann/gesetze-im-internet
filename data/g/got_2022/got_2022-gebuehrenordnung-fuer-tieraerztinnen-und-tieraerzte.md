@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 7830-1-4 v. 28.7.1999 I 1691 (GOT)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000100000)
 
 Es verordnen
 
@@ -41,6 +42,7 @@ Es verordnen
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000200000)
 
 (1) Die Gebühren, Entschädigungen, Auslagen und die Entgelte für
 Arzneimittel und Verbrauchsmaterialien (Vergütungen) für die
@@ -59,6 +61,7 @@ Umsatzsteuer nicht enthalten.
 
 
 ## § 2 Gebührenhöhe
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000300000)
 
 (1) Die Höhe der einzelnen Gebühr bemisst sich, soweit nichts anderes
 bestimmt ist, nach dem Einfachen bis Dreifachen des Gebührensatzes.
@@ -111,6 +114,7 @@ oder sonstigen tierärztlichen Einrichtung erbracht werden.
 
 
 ## § 3 Gebührenhöhe in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000400000)
 
 (1) Gebühren sind nach den einfachen Gebührensätzen des
 Gebührenverzeichnisses zu berechnen, wenn der Tierhalter tierärztliche
@@ -142,6 +146,7 @@ Halters dienen, um 75 Prozent.
 
 
 ## § 4 Gebühren für tierärztlichen Notdienst
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000500000)
 
 (1) Für Leistungen, die bei Nacht, am Wochenende oder an einem
 Feiertag im Rahmen eines tierärztlichen Notdienstes erbracht werden,
@@ -166,6 +171,7 @@ entsprechend.
 
 
 ## § 5 Sonstige abweichende Gebührensätze
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000601119)
 
 (1) Überschreitungen des Dreifachen der Gebührensätze oder eine
 Unterschreitung der einfachen Gebührensätze sind im begründeten
@@ -220,6 +226,7 @@ einfache Gebührensätze im Sinne des § 3 Absatz 1 Satz 1.
 
 
 ## § 6 Verbot von Doppelbewertungen
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000700000)
 
 Eine Gebühr darf für eine Leistung nicht berechnet werden, die nach
 den Leistungsansätzen des Gebührenverzeichnisses Teil einer anderen
@@ -227,6 +234,7 @@ Leistung ist, wenn für letztere eine Gebühr berechnet wird.
 
 
 ## § 7 Gebühren- und Rechnungsbestandteile, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000800000)
 
 (1) Die allgemeinen Praxiskosten und die durch die Anwendung von
 tierärztlichen Instrumenten und Apparaturen entstehenden Kosten werden
@@ -270,6 +278,7 @@ Zahlungspflichtigen aufzugliedern.
 
 
 ## § 8 Außerordentliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE000900000)
 
 Für eine Leistung, die in dem Gebührenverzeichnis nicht aufgeführt
 ist, bestimmt sich die Gebühr nach dem Gebührensatz, der für eine
@@ -280,6 +289,7 @@ Aufwand zu berücksichtigen.
 
 
 ## § 9 Arzneimittelpreise
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE001000000)
 
 Die in der Arzneimittelpreisverordnung vom 14. November 1980 (BGBl. I
 S. 2147), die zuletzt durch Artikel 6 des Gesetzes vom 9. Dezember
@@ -289,6 +299,7 @@ für die von Tierärztinnen oder Tierärzten angewandten Arzneimittel.
 
 
 ## § 10 Wegegeld, Reiseentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE001100000)
 
 (1) Als Entschädigungen für Besuche erhalten die Tierärztinnen oder
 Tierärzte Wegegeld oder Reiseentschädigung; hierdurch sind
@@ -324,6 +335,7 @@ Reiseentschädigung gilt § 5 Absatz 1 entsprechend.
 
 
 ## § 11 Gebühren für im Beitrittsgebiet erbrachte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE001200000)
 
 Anlage I Kapitel X Sachgebiet G Abschnitt III Nummer 1 Buchstabe a
 Doppelbuchstabe aa des Einigungsvertrages vom 31. August 1990 in
@@ -332,6 +344,7 @@ Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE001300000)
 
 Diese Verordnung tritt am 22. November 2022 in Kraft. Gleichzeitig
 tritt die Tierärztegebührenordnung vom 28. Juli 1999 (BGBl. I S.
@@ -340,12 +353,14 @@ tritt die Tierärztegebührenordnung vom 28. Juli 1999 (BGBl. I S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 1 und 2)
 
 ## Anlage Gebührenverzeichnis für tierärztliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/got_2022/BJNR140100022.html#BJNR140100022BJNE001501119)
 
 (Fundstelle: BGBl. I 2022, 1404 - 1435)
 

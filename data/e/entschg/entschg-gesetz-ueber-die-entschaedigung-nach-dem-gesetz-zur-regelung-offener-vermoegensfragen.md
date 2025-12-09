@@ -24,6 +24,7 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Art. 13 Satz 3 G v. 27.9.1994 I 2624 am 1.12.1994 in Kraft getreten
 
 ## § 1 Grundsätze der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000105160)
 
 (1) Ist Rückgabe nach dem Gesetz zur Regelung offener Vermögensfragen
 (Vermögensgesetz) ausgeschlossen (§ 4 Abs. 1 und 2, § 6 Abs. 1 Satz 1
@@ -139,6 +140,7 @@ Verfolgtenentschädigungsgesetzes.
 
 
 ## § 2 Berechnung der Höhe der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000303301)
 
 (1) Die Höhe der Entschädigung bestimmt sich nach der
 Bemessungsgrundlage (§§ 3 bis 5a), von welcher gegebenenfalls
@@ -172,6 +174,7 @@ werden durch Barzahlung aus dem Entschädigungsfonds erfüllt.
 
 
 ## § 2a Berechnung des Zahlungsanspruchs bei fehlgeschlagener Anrechnung von Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE001500308)
 
 (1) Überschreitet die Summe der Beträge nach § 2 Abs. 1 Satz 1 Nr. 1
 bis 3 die Bemessungsgrundlage und schlägt die Anrechnung der
@@ -210,6 +213,7 @@ Verzichtserklärung entsprechend.
 
 
 ## § 3 Bemessungsgrundlage der Entschädigung für Grundvermögen und land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000403160)
 
 (1) Bemessungsgrundlage der Entschädigung für Grundvermögen
 einschließlich Gebäudeeigentum sowie für land- und
@@ -290,6 +294,7 @@ zu entschädigen.
 
 
 ## § 4 Bemessungsgrundlage der Entschädigung für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000502301)
 
 (1) Bemessungsgrundlage der Entschädigung für Unternehmen oder Anteile
 an Unternehmen mit Ausnahme von land- und forstwirtschaftlichen
@@ -381,6 +386,7 @@ gelten die Sätze 1 und 2 entsprechend.
 
 
 ## § 5 Bemessungsgrundlage der Entschädigung für Forderungen und Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000602301)
 
 (1) Bemessungsgrundlage der Entschädigung von privaten geldwerten
 Ansprüchen, z. B. Kontoguthaben, hypothekarisch gesicherte
@@ -428,6 +434,7 @@ nach § 15 des in § 3 Abs. 3 genannten Bewertungsgesetzes ergibt.
 
 
 ## § 5a Bemessungsgrundlage der Entschädigung für bewegliche Sachen
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE001401301)
 
 (1) Bemessungsgrundlage der Entschädigung für bewegliche Sachen ist
 der im Verhältnis 2 zu 1 auf Deutsche Mark umgestellte Wert der Sache
@@ -519,6 +526,7 @@ aufzugreifen.
 
 
 ## § 6 Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000703377)
 
 (1) Hat der Berechtigte nach § 2 Abs. 1 des Vermögensgesetzes oder
 sein Gesamtrechtsvorgänger für den zu entschädigenden Vermögenswert
@@ -545,6 +553,7 @@ der Anrechnung als dem Berechtigten zugeflossen.
 
 
 ## § 7 Kürzungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000801301)
 
 (1) Übersteigt die auf einen Berechtigten entfallende Summe aus
 Bemessungsgrundlage und Abzügen nach § 3 Abs. 4, § 4 Abs. 4 sowie § 6
@@ -605,6 +614,7 @@ die zuletzt entschieden hat, den Gesamtentschädigungsbetrag fest.
 
 
 ## § 8 Entschädigung bei Abzug von Lastenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE000903377)
 
 (1) Hat der Berechtigte nach § 2 Absatz 1 des Vermögensgesetzes oder
 sein Gesamtrechtsvorgänger für zu entschädigende Vermögenswerte
@@ -668,6 +678,7 @@ Fassung dieses Gesetzes.
 
 
 ## § 9 Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE001005301)
 
 (1) Entschädigungen nach diesem Gesetz, Ausgleichsleistungen nach den
 §§ 1 und 2 des Ausgleichsleistungsgesetzes, Entschädigungen nach dem
@@ -719,6 +730,7 @@ auf Euro) zu regeln.
 
 
 ## § 10 Einnahmen des Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE001104301)
 
 (1) An den Entschädigungsfonds sind abzuführen:
 
@@ -822,6 +834,7 @@ Bundesministerium der Finanzen.
 
 
 ## § 11 Bewirtschaftung des Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE001201301)
 
 (1) Die Einnahmen und Ausgaben des Entschädigungsfonds werden für
 jedes Rechnungsjahr in einem Wirtschaftsplan veranschlagt. Der
@@ -844,6 +857,7 @@ Bund.
 
 
 ## § 12 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/entschg/BJNR262410994.html#BJNR262410994BJNE001305160)
 
 (1) Für die Durchführung dieses Gesetzes gelten die Bestimmungen des
 Vermögensgesetzes entsprechend. Für nach diesem Gesetz getroffene

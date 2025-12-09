@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Grundregel
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs7s4stvv/BJNR168000013.html#BJNR168000013BJNE000100000)
 
 (1) Das auf die Länder einschließlich ihrer Gemeinden entfallende
 Aufkommen des Bundeszentralamts für Steuern aus der Ausübung der
@@ -39,6 +40,7 @@ zuständig gewesen wäre.
 
 
 ## § 2 Verteilung bei gebietsfremden Vergütungsschuldnern
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs7s4stvv/BJNR168000013.html#BJNR168000013BJNE000200000)
 
 Ist keine Zuordnung der Einnahmen zu einem Land nach § 1 möglich, sind
 die Einnahmen nach dem Verhältnis der für diesen Feststellungszeitraum
@@ -46,6 +48,7 @@ nach § 1 auf die Länder festgestellten Anteile auszuzahlen.
 
 
 ## § 3 Verfahren zur Verteilung des Steueraufkommens
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs7s4stvv/BJNR168000013.html#BJNR168000013BJNE000300000)
 
 Nach Ablauf eines jeden Monats stellt das Bundeszentralamt für Steuern
 die Anteile der einzelnen Länder getrennt nach Steuerarten oder

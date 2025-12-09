@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE000700305)
 
 Auf Grund des § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes in
 der Fassung der Bekanntmachung vom 6. Mai 1999 (BGBl. I S. 882, 1491)
@@ -28,10 +29,12 @@ Bundesministerium der Verteidigung:
 
 
 ## Abschnitt 1 - Berechnung und Bestimmung der vorbehaltenen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNG000100305)
 
 
 
 ### § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE000802377)
 
 Für die Berechnung und Bestimmung der nach 14 Abs. 1 und 2 des
 Gesetzes den Inhabern eines Eingliederungsscheins, eines
@@ -69,6 +72,7 @@ vorzubehaltenden Stellen sind zuständig
 
 
 ### § 2 Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE000901377)
 
 (1) Für die Berechnung der vorbehaltenen Stellen sind innerhalb des
 Geschäftsbereichs der in § 1 genannten Behörden, bei denen Stellen in
@@ -143,6 +147,7 @@ Anforderung offenzulegen.
 
 
 ### § 3 Bestimmung und Mitteilung der vorbehaltenen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001000305)
 
 (1) Die für die Berechnung und Bestimmung nach § 1 zuständigen
 Behörden bestimmen die mit Eingliederungsberechtigten zu besetzenden
@@ -185,10 +190,12 @@ erfordern.
 
 
 ## Abschnitt 2 - Vormerkstellen
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNG000200305)
 
 
 
 ### § 4 Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001100305)
 
 (1) Das Bundesverwaltungsamt nimmt die Aufgaben der Vormerkstelle des
 Bundes wahr.
@@ -198,6 +205,7 @@ ein.
 
 
 ### § 5 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001201310)
 
 Den Vormerkstellen obliegen
 
@@ -241,10 +249,12 @@ Den Vormerkstellen obliegen
 
 
 ## Abschnitt 3 - Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNG000300305)
 
 
 
 ### § 6 Verfahren und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001301377)
 
 (1) Die Eingliederungsberechtigten bewerben sich über den für sie
 zuständigen Berufsförderungsdienst der Bundeswehr bei den
@@ -280,10 +290,12 @@ Bewerbung bis zur Erteilung des Eingliederungsscheins einzureichen.
 
 
 ## Abschnitt 4 - Zuweisung und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNG000400305)
 
 
 
 ### § 7 Zuweisungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001400305)
 
 Kommt ein Bewerber für die angestrebte Verwendung in Betracht, so
 schlägt ihn die Vormerkstelle der Einstellungsbehörde zur
@@ -292,6 +304,7 @@ Verfügung stehen.
 
 
 ### § 8 Zuweisung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001500305)
 
 (1) Ist ein Bewerber nach dem Ergebnis der Eignungsfeststellung, bei
 der auch das Lebensalter und die Dienstzeit in der Bundeswehr
@@ -313,6 +326,7 @@ Vormerkstelle unverzüglich zu unterrichten.
 
 
 ### § 9 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001600305)
 
 (1) Die Behörde unterrichtet die Vormerkstelle unverzüglich von der
 erfolgten Einstellung des Bewerbers.
@@ -328,6 +342,7 @@ für ihn eine anderweitige Einstellung in Betracht kommt.
 
 
 ### § 10 Ausscheiden vor Anstellung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001702377)
 
 (1) Soll das Eingliederungsverfahren vor der Anstellung oder der
 Übernahme in ein unbefristetes Arbeitsverhältnis beendet werden, so
@@ -345,6 +360,7 @@ Unterstützung der weiteren Eingliederungsbemühungen zugeleitet.
 
 
 ### § 11 Freigabe von Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001800305)
 
 Vorbehaltene Stellen, die von der Vormerkstelle bis zum
 Bewerbungsendtermin der jeweiligen Laufbahn nicht mit ausreichend
@@ -355,10 +371,12 @@ anderweitige Besetzung nicht zulässig.
 
 
 ## Abschnitt 5 - Erlöschen des Rechts aus dem Eingliederungsschein
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNG000500305)
 
 
 
 ### § 12 Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE001902377)
 
 Das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Stelle trifft im Einvernehmen mit der für die Einstellungsbehörde
@@ -370,10 +388,12 @@ der das Original des Eingliederungsscheins beizufügen ist.
 
 
 ## Abschnitt 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNG000600305)
 
 
 
 ### § 13 Verbleib des Eingliederungsscheins, des Zulassungsscheins oder der Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE002001377)
 
 Das Original des Eingliederungsscheins, des Zulassungsscheins und in
 den Fällen des § 14 Abs. 4 Satz 4 des Gesetzes zunächst das Original
@@ -393,11 +413,13 @@ lassen.
 
 
 ### § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE002100305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvorv/BJNR190600999.html#BJNR190600999BJNE002200305)
 
 Der Bundesrat hat zugestimmt.
 

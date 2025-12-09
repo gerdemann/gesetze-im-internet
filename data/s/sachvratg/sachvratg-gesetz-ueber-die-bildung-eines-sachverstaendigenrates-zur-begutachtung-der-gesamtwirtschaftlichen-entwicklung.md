@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000100313)
 
 (1) Zur periodischen Begutachtung der gesamtwirtschaftlichen
 Entwicklung in der Bundesrepublik Deutschland und zur Erleichterung
@@ -47,6 +48,7 @@ haben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000200313)
 
 Der Sachverständigenrat soll in seinen Gutachten die jeweilige
 gesamtwirtschaftliche Lage und deren absehbare Entwicklung darstellen.
@@ -68,6 +70,7 @@ wirtschafts- und sozialpolitische Maßnahmen aussprechen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000300313)
 
 (1) Der Sachverständigenrat ist nur an den durch dieses Gesetz
 begründeten Auftrag gebunden und in seiner Tätigkeit unabhängig.
@@ -78,6 +81,7 @@ Möglichkeit, diese in den Gutachten zum Ausdruck zu bringen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000400313)
 
 Der Sachverständigenrat kann vor Abfassung seiner Gutachten ihm
 geeignet erscheinenden Personen, insbesondere Vertretern von
@@ -87,6 +91,7 @@ Stellung zu nehmen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000501377)
 
 (1) Der Sachverständigenrat kann, soweit er es zur Durchführung seines
 Auftrages für erforderlich hält, die fachlich zuständigen
@@ -100,6 +105,7 @@ Sachverständigenrat Amtshilfe.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000604118)
 
 (1) Der Sachverständigenrat erstattet jährlich ein Gutachten
 (Jahresgutachten) und leitet es der Bundesregierung bis zum 15.
@@ -124,6 +130,7 @@ herbei.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000700313)
 
 (1) Die Mitglieder des Sachverständigenrates werden auf Vorschlag der
 Bundesregierung durch den Bundespräsidenten berufen. Zum 1. März eines
@@ -147,6 +154,7 @@ Absatz 2 gilt entsprechend.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000800313)
 
 (1) Die Beschlüsse des Sachverständigenrates bedürfen der Zustimmung
 von mindestens drei Mitgliedern.
@@ -158,6 +166,7 @@ für die Dauer von drei Jahren.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE000900313)
 
 Das Statistische Bundesamt nimmt die Aufgaben einer Geschäftsstelle
 des Sachverständigenrates wahr. Die Tätigkeit der Geschäftsstelle
@@ -168,6 +177,7 @@ der sonst anfallenden Verwaltungsaufgaben.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE001000313)
 
 Die Mitglieder des Sachverständigenrates und die Angehörigen der
 Geschäftsstelle sind zur Verschwiegenheit über die Beratungen und die
@@ -178,6 +188,7 @@ gegeben und als vertraulich bezeichnet werden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE001105125)
 
 (1) Die Mitglieder des Sachverständigenrates erhalten eine pauschale
 Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden vom
@@ -188,6 +199,7 @@ Bundesministerium des Innern, für Bau und Heimat festgesetzt.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE001200313)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -195,6 +207,7 @@ im Land Berlin.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/sachvratg/BJNR006850963.html#BJNR006850963BJNE001300313)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

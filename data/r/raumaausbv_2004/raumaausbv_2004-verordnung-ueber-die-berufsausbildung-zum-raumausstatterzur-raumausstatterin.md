@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000200000)
 
 Der Ausbildungsberuf Raumausstatter/Raumausstatterin wird gemäß § 25
 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27,
@@ -38,11 +40,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse unter Berücksichtigung der
@@ -58,6 +62,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -129,6 +134,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000600000)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -139,6 +145,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -146,6 +153,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -154,6 +162,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -184,6 +193,7 @@ der Arbeitsaufgabe begründen kann.
 
 
 ## § 9 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE001000000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -322,6 +332,7 @@ dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 9a Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE001400377)
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem
 abgeschlossenen Ausbildungsberuf Polster- und Dekorationsnäher/
@@ -332,6 +343,7 @@ des Berufsbildungsgesetzes bleibt unberührt.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE001100000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -340,12 +352,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
+[Direktlink](https://www.gesetze-im-internet.de/raumaausbv_2004/BJNR098000004.html#BJNR098000004BJNE001301377)
 
 (Fundstelle: BGBl. I 2004, 983 - 991)
 

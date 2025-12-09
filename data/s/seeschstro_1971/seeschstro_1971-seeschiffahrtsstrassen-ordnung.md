@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000101307)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001108140)
 
 (1) Die Verordnung gilt auf den Seeschiffahrtsstraßen mit Ausnahme der
 Emsmündung, die im Osten durch eine Verbindungslinie zwischen dem
@@ -154,6 +156,7 @@ III zu dieser Verordnung beigefügten Karte ersichtlich.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001211124)
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Regeln 3,
 21 und 32 der Kollisionsverhütungsregeln; im übrigen sind im Sinne
@@ -486,6 +489,7 @@ dieser Verordnung:
 
 
 ### § 3 Grundregeln für das Verhalten im Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001309119)
 
 (1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß die
 Sicherheit und Leichtigkeit des Verkehrs gewährleistet ist und daß
@@ -542,6 +546,7 @@ Mitglieder der Schiffsbesatzung entsprechend.
 
 
 ### § 4 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001402307)
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit
 Verantwortliche haben die Vorschriften dieser Verordnung über das
@@ -572,6 +577,7 @@ Verordnung oder sonstigen Vorschriften ergibt, bleibt unberührt.
 
 
 ### § 5 Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001502307)
 
 (1) Schiffahrtszeichen im Sinne dieser Verordnung sind Sichtzeichen
 und Schallsignale, die Gebote, Verbote, Warnungen oder Hinweise
@@ -594,6 +600,7 @@ Schiffahrtszeichen ist verboten.
 
 
 ### § 6 Sichtzeichen und Schallsignale der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001604305)
 
 (1) Soweit die folgenden Vorschriften nicht etwas Besonderes
 vorschreiben, haben Fahrzeuge zusätzlich zu den in den
@@ -630,6 +637,7 @@ dauerhaft erreicht wird.
 
 
 ### § 7 Fahrzeuge des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001703308)
 
 Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen
 Dienstes befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben
@@ -641,10 +649,12 @@ Seeaufgabengesetzes durchführen, entsprechend.
 
 
 ## Zweiter Abschnitt - Sichtzeichen und Schallsignale der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000202307)
 
 
 
 ### § 8 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001805305)
 
 (1) Für die nach dieser Verordnung vorgeschriebenen Sichtzeichen gilt
 Regel 20 sowie Anlage I der Kollisionsverhütungsregeln entsprechend.
@@ -696,6 +706,7 @@ die dem Größenverhältnis des Fahrzeugs angemessen sind.
 
 
 ### § 9 Verwendung von Positionslaternen und Schallsignalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE001911305)
 
 (1) Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind,
 dürfen zur Führung der nach dieser Verordnung vorgeschriebenen Lichter
@@ -754,6 +765,7 @@ zu setzen.
 
 
 ### § 10 Kleine Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE002004140)
 
 (1) (weggefallen)
 
@@ -787,6 +799,7 @@ Regel 21 Buchstabe e der Kollisionsverhütungsregeln zu führen. Regel
 
 
 ### § 11 Schallsignale der Binnenschiffe
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE002103305)
 
 (1) Binnenschiffe, für die keine Besatzung vorgeschrieben ist, müssen
 die in der Regel 33 der Kollisionsverhütungsregeln vorgeschriebenen
@@ -799,23 +812,28 @@ Schallsignale geben.
 
 
 ### (XXXX) §§ 12 bis 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE002104305)
 
 
 
 ## Dritter Abschnitt - Schallsignale der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000302307)
 
 (aufgehoben)
 
 
 ### (XXXX) §§ 19 und 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE008101307)
 
 
 
 ## Vierter Abschnitt - Fahrregeln
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000401307)
 
 
 
 ### § 21 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003102307)
 
 (1) Die Fahrregeln dieses Abschnitts sowie des siebenten Abschnitts
 gelten unabhängig von den Sichtverhältnissen. Abweichend von den
@@ -833,6 +851,7 @@ Dies gilt nicht für Fahrzeuge von weniger als 20 Metern Länge.
 
 
 ### § 22 Ausnahmen vom Rechtsfahrgebot
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003202307)
 
 (1) Abweichend vom Gebot, im Fahrwasser gemäß Regel 9 Buchstabe a der
 Kollisionsverhütungsregeln soweit wie möglich rechts zu fahren, darf
@@ -850,6 +869,7 @@ ihrer Fahrtrichtung rechts vom Fahrwasser liegenden Seite zu halten.
 
 
 ### § 23 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003302307)
 
 (1) Grundsätzlich muß links überholt werden. Soweit die Umstände des
 Falles es erfordern, darf rechts überholt werden.
@@ -917,6 +937,7 @@ Zahl überschreitet.
 
 
 ### § 24 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003404308)
 
 (1) Beim Begegnen auf entgegengesetzten oder fast entgegengesetzten
 Kursen im Fahrwasser ist nach Steuerbord auszuweichen.
@@ -958,6 +979,7 @@ auszuweichen.
 
 
 ### § 25 Vorfahrt der Schiffahrt im Fahrwasser
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003602307)
 
 (1) Die in den nachfolgenden Absätzen enthaltenen Regelungen gelten
 für Fahrzeuge im Fahrwasser abweichend von der Regel 9 Buchstabe b bis
@@ -1017,6 +1039,7 @@ beeinträchtigt wird.
 
 
 ### § 26 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003705308)
 
 (1) Jedes Fahrzeug, Wassermotorrad und Segelsurfbrett muß unter
 Beachtung von Regel 6 der Kollisionsverhütungsregeln mit einer
@@ -1079,6 +1102,7 @@ werden.
 
 
 ### § 27 Schleppen und Schieben
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003802307)
 
 (1) Schleppen oder Schieben dürfen nur Fahrzeuge, welche die dafür
 erforderlichen Einrichtungen besitzen und deren Manövrierfähigkeit
@@ -1096,6 +1120,7 @@ Maschinenkraft nebeneinander gekoppelt fahren.
 
 
 ### § 28 Durchfahren von Brücken und Sperrwerken
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE003902307)
 
 (1) Vor und unter Brücken ist das Begegnen und Überholen nur
 gestattet, wenn das Fahrwasser mit Sicherheit hinreichenden Raum für
@@ -1119,6 +1144,7 @@ gelten die vorstehenden Bestimmungen entsprechend.
 
 
 ### § 29 Einlaufen in Schleusen und Auslaufen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004002307)
 
 (1) Schleusen dürfen nur von Fahrzeugen durchfahren werden, für die
 die Abmessungen der Schleusen mit Sicherheit ausreichen. Solange die
@@ -1156,6 +1182,7 @@ Fahrzeugführer vereinbaren eine andere Reihenfolge.
 
 
 ### § 30 Fahrbeschränkungen und Fahrverbote
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004109305)
 
 (1) Die Seeschiffahrtsstraßen Jade, Weser, Hunte, Elbe, Nord-Ostsee-
 Kanal, Kieler Förde und Trave sowie die Wasserflächen der Zufahrten zu
@@ -1243,6 +1270,7 @@ nach § 60 Abs. 1 bekanntgemacht werden.
 
 
 ### § 31 Wasserskilaufen, Schleppen von Wassersportanhängen, Wasser- motorradfahren, Kite- und Segelsurfen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004207308)
 
 (1) Im Fahrwasser ist das Wasserskilaufen und das Schleppen von
 Wassersportanhängen sowie das Fahren mit einem Wassermotorrad oder
@@ -1271,10 +1299,12 @@ Kite- und Segelsurfbrett gefahren werden.
 
 
 ## Fünfter Abschnitt - Ruhender Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000501307)
 
 
 
 ### § 32 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004302307)
 
 (1) Das Ankern ist im Fahrwasser mit Ausnahme auf den Reeden verboten.
 Dies gilt nicht für manövrierbehinderte Fahrzeuge nach Regel 3
@@ -1326,6 +1356,7 @@ Wasserflächen.
 
 
 ### § 33 Anlegen und Festmachen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004402307)
 
 (1) Die Schiffahrt darf durch das Anlegen und Festmachen nicht
 beeinträchtigt werden. Hat ein Fahrzeug mit dem Manöver des Anlegens
@@ -1372,6 +1403,7 @@ an beiden Enden ausreichend am Ufer zu befestigen.
 
 
 ### § 34 Umschlag
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004502307)
 
 Außerhalb der Häfen und Umschlagstellen ist der Umschlag
 einschließlich des Bunkerns nur auf den nach § 60 Abs. 1 hierfür
@@ -1380,6 +1412,7 @@ bekanntgemachten Voraussetzungen gestattet.
 
 
 ### § 35 Ankern, Anlegen, Festmachen und Vorbeifahren von und an Fahrzeugen, die bestimmte gefährliche Güter befördern
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004602307)
 
 (1) Fahrzeuge, die bestimmte gefährliche Güter (§ 2 Abs. 1 Nr. 16)
 befördern, dürfen nur auf den nach § 60 Abs. 1 bekanntgemachten Reeden
@@ -1412,6 +1445,7 @@ verholen können.
 
 
 ### § 36 Umschlag bestimmter gefährlicher Güter
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004702307)
 
 (1) Der Umschlag bestimmter gefährlicher Güter (§ 2 Abs. 1 Nr. 16) ist
 nur auf den hierfür nach § 60 Abs. 1 bekanntgemachten Reeden und
@@ -1436,10 +1470,12 @@ gefährlichen Gütern betreffen.
 
 
 ## Sechster Abschnitt - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000601307)
 
 
 
 ### § 37 Verhalten bei Schiffsunfällen und bei Verlust von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004803305)
 
 (1) Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem
 Fahrwasser zu schaffen, daß die Schiffahrt nicht beeinträchtigt wird.
@@ -1501,6 +1537,7 @@ insbesondere
 
 
 ### § 38 Ausübung der Fischerei und der Jagd
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE004902307)
 
 Auf den nach § 60 Abs. 1 bekanntgemachten Wasserflächen ist das
 Fischen für bestimmte Arten der Fischerei, Schießen oder Jagen
@@ -1510,6 +1547,7 @@ Wasserflächen.
 
 
 ### § 39 Fahrpläne für Fahrgastschiffe und Fähren
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005003305)
 
 (1) Fahrgastschiffe und Fähren dürfen die Fahrgastbeförderung nur von
 Anlegestellen aus durchführen, die nach § 31 Abs. 1 Nr. 2 und Abs. 3
@@ -1537,6 +1575,7 @@ Verhältnisse oder besondere Umstände erfordern dies.
 
 
 ### § 40 Mitführen von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005103140)
 
 Der Schiffsführer eines Binnenschiffs hat dafür zu sorgen, dass sich
 an Bord des Fahrzeugs jeweils ein Abdruck dieser Verordnung und der
@@ -1556,10 +1595,12 @@ kann. Die Sätze 1 und 2 gelten nicht für
 
 
 ## Siebenter Abschnitt - Ergänzende Vorschriften für den Nord-Ostsee-Kanal
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000701307)
 
 
 
 ### § 41 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005202307)
 
 Auf dem Nord-Ostsee-Kanal und seinen Zufahrten gelten die Vorschriften
 dieses Abschnitts zusätzlich zu den übrigen Vorschriften dieser
@@ -1569,6 +1610,7 @@ Sondervorschriften für den Nord-Ostsee-Kanal.
 
 
 ### § 42 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005303307)
 
 (1) Der Nord-Ostsee-Kanal darf von Fahrzeugen sowie von Schub- und
 Schleppverbänden nur befahren werden, wenn
@@ -1644,6 +1686,7 @@ verkehrsbedingten Gründen nicht liegen.
 
 
 ### § 43 An- und Abmeldung
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005405360)
 
 (1) Der Fahrzeugführer oder sein Beauftragter hat die Kanalfahrt
 umgehend nach dem Einfahren in die Schleusen Brunsbüttel, Kiel-
@@ -1670,11 +1713,13 @@ unberührt.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005502307)
 
 (aufgehoben)
 
 
 ### § 45 Verkehr in den Zufahrten
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005604307)
 
 Die Zufahrten dürfen nur von Fahrzeugen benutzt werden, die in den
 Nord-Ostsee-Kanal einlaufen oder ihn verlassen. Dies gilt nicht
@@ -1699,6 +1744,7 @@ Nord-Ostsee-Kanal einlaufen oder ihn verlassen. Dies gilt nicht
 
 
 ### § 46 Vorfahrt beim Einlaufen in die Schleusen und beim Auslaufen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005703307)
 
 (1) Die in den nachfolgenden Absätzen enthaltenen Regelungen gelten
 abweichend von der Regel 9 Buchstabe b bis d und den Regeln 15 und 18
@@ -1716,6 +1762,7 @@ Schleusen auslaufenden Fahrzeugen.
 
 
 ### § 47 Verbot des Einlaufens in die Schleusen und des Auslaufens
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005802307)
 
 (1) Bei verminderter Sicht dürfen Fahrzeuge nicht aus den Schleusen
 nach den Binnenhäfen und in Kiel-Holtenau auch nicht nach dem
@@ -1730,6 +1777,7 @@ die Schleusen einlaufen oder aus ihnen auslaufen.
 
 
 ### § 48 Fahrabstand
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE005902307)
 
 (1) Außerhalb der Weichengebiete und Schleusen des Nord-Ostsee-Kanals
 mit Ausnahme eines Bereiches von 1000 Metern vor und 2000 Metern
@@ -1752,6 +1800,7 @@ der vorgeschriebene Mindestabstand geringer sein.
 
 
 ### § 49 Verhalten vor und in den Weichengebieten
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006004308)
 
 (1) In die Weichengebiete ist zügig einzulaufen.
 
@@ -1786,6 +1835,7 @@ zuständigen Verkehrszentrale gestattet.
 
 
 ### § 50 Fahrregeln für Freifahrer und Schub- und Schleppverbände
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006103308)
 
 (1) Freifahrer dürfen bei verminderter Sicht auf dem Nord-Ostsee-Kanal
 nur fahren, wenn
@@ -1833,6 +1883,7 @@ festzumachen.
 
 
 ### § 51 Fahrregeln für Sportfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006205360)
 
 (1) Sportfahrzeuge dürfen die Zufahrten und den Nord-Ostsee-Kanal
 lediglich zur Durchfahrt, nur während der Tagfahrzeiten im Sinne des §
@@ -1880,11 +1931,13 @@ betragen.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006302307)
 
 (aufgehoben)
 
 
 ### § 53 Fahrregeln und Festmachen auf dem Gieselaukanal
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006401307)
 
 (1) Das Befahren des Gieselaukanals ist nur während der Tagfahrzeiten
 im Sinne des § 50 Abs. 2 gestattet.
@@ -1894,15 +1947,18 @@ südlich der Gieselauschleuse befindlichen Liegestelle festmachen.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006502307)
 
 (aufgehoben)
 
 
 ## Achter Abschnitt - Aufgaben und Zuständigkeiten der Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000803305)
 
 
 
 ### § 55 Schifffahrtspolizei
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006605305)
 
 (1) Schifffahrtspolizeibehörden sind die Generaldirektion
 Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten, für die
@@ -1928,6 +1984,7 @@ auch von der Wasserschutzpolizei getroffen werden.
 
 
 ### § 55a Verkehrszentralen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007901307)
 
 Die Verkehrszentralen sind im Rahmen der entsprechend den
 Erfordernissen des jeweiligen Reviers eingerichteten maritimen
@@ -1949,6 +2006,7 @@ Verkehrssicherung für folgende Maßnahmen zuständig:
 
 
 ### § 56 Schiffahrtspolizeiliche Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006702307)
 
 (1) Die Schiffahrtspolizeibehörden können zur Erfüllung der Aufgaben
 nach § 3 des Seeaufgabengesetzes Anordnungen erlassen, die an
@@ -1962,6 +2020,7 @@ vor.
 
 
 ### § 57 Schiffahrtspolizeiliche Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006805305)
 
 (1) Einer schiffahrtspolizeilichen Genehmigung des nach § 55 Absatz 2
 zuständigen Wasserstraßen- und Schifffahrtsamtes bedürfen
@@ -2027,6 +2086,7 @@ Die Genehmigung wird für eine bestimmte angemessene Frist erteilt.
 
 
 ### § 58 Schiffahrtspolizeiliche Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE006908308)
 
 (1) Die Führer von Fahrzeugen, Schub- und Schleppverbänden, die die
 nach § 60 Abs. 1 bekannt gemachten Abmessungen und Größen
@@ -2110,12 +2170,14 @@ zu erfolgen.
 
 
 ### § 59 Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007002307)
 
 Die Schiffahrtspolizeibehörden können von Vorschriften dieser
 Verordnung im Einzelfall befreien.
 
 
 ### § 60 Ermächtigung zum Erlaß von schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007105305)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
 ermächtigt, die in den vorstehenden Vorschriften vorgesehenen
@@ -2148,10 +2210,12 @@ zu treffen.
 
 
 ## Neunter Abschnitt - Bußgeld- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNG000901307)
 
 
 
 ### § 61 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007213119)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes oder im Sinne des § 7 Abs. 1 des
@@ -2370,11 +2434,13 @@ werden.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007402307)
 
 (Inkrafttreten; Aufhebung von Vorschriften)
 
 
 ### Anlage I Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007510308)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3228 - 3251;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -5053,6 +5119,7 @@ Abschnitt II - Schallsignale
 
 
 ### Anlage II Sichtzeichen und Schallsignale der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007610119)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3252 - 3262;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -5805,12 +5872,14 @@ II.2 Schallsignale der Fahrzeuge
 Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung
 
 ### Anlage III (zu § 1 Abs. 5)
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE008001307)
 
 (Inhalt: nicht darstellbare kartographische Karte;
 Fundstelle: BGBl. I 1998, 3264)
 
 
 ### Anlage IV Liste der berauschenden Mittel und Substanzen
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE007803119)
 
 (Fundstelle: BGBl. 2024 I Nr. 286, S. 27)
 
@@ -5866,6 +5935,7 @@ Verkehr für den Bereich des Straßenverkehrs.
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1108)
+[Direktlink](https://www.gesetze-im-internet.de/seeschstro_1971/BJNR006410971.html#BJNR006410971BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000100000)
 
 Dieses Gesetz dient der Stärkung der Leistungsfähigkeit und
 internationalen Wettbewerbsfähigkeit von außeruniversitären
@@ -30,6 +31,7 @@ Durchführung von Baumaßnahmen.
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000200000)
 
 Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
@@ -73,6 +75,7 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 
 ## § 3 Globalhaushalt
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000300000)
 
 (1) Die Wissenschaftseinrichtungen können ihren Wirtschaftsplan als
 Globalhaushalt führen, der in seinen Festlegungen mit der
@@ -96,6 +99,7 @@ Steuerungsinstrumente fest.
 
 
 ## § 4 Einschränkung des Besserstellungsverbots
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000400000)
 
 Zuwendungen können nach Maßgabe des jährlichen Haushaltsgesetzes auch
 bewilligt werden, wenn die Wissenschaftseinrichtung die bei ihr
@@ -110,6 +114,7 @@ Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
 
 
 ## § 5 Beteiligung an Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000500000)
 
 Es wird unwiderleglich vermutet, dass das Bundesministerium der
 Finanzen die Einwilligung gemäß § 65 Absatz 3 Satz 2 der
@@ -123,6 +128,7 @@ Bundesministerium der Finanzen die Einwilligung erteilt hat.
 
 
 ## § 6 Durchführung von Bauverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000602311)
 
 Bei Zuwendungsbaumaßnahmen einer Wissenschaftseinrichtung kann von
 einer Beteiligung und verfahrensbegleitenden Prüfung der fachlich
@@ -148,6 +154,7 @@ erlassen wird.
 
 
 ## § 7 Verhältnis zur Bundeshaushaltsordnung
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000700000)
 
 Soweit nach diesem Gesetz keine Sonderregelungen anzuwenden sind,
 richten sich die haushaltsrechtliche Behandlung der Zuwendungen sowie
@@ -157,6 +164,7 @@ jeweils geltenden Fassung.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wissfg/BJNR245700012.html#BJNR245700012BJNE000800000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

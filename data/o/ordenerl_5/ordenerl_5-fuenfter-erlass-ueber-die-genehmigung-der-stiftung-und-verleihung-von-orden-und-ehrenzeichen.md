@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_5/BJNR024790975.html#BJNR024790975BJNE000100315)
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844), zuletzt
@@ -36,12 +37,14 @@ in zwei Klassen.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_5/BJNR024790975.html#BJNR024790975BJNE000200315)
 
 Ich genehmige die Stiftungsbestimmungen und Verleihungsbedingungen des
 in Artikel 1 genannten Ehrenzeichens.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_5/BJNR024790975.html#BJNR024790975BJNE000300315)
 
 Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
 Abbildung und die Beschreibung des nach Artikel 1 genehmigten
@@ -50,6 +53,7 @@ veröffentlicht.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_5/BJNR024790975.html#BJNR024790975BJNE000400315)
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner
@@ -57,6 +61,7 @@ Form und seiner Benennung bedarf meiner Genehmigung.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_5/BJNR024790975.html#BJNR024790975BJNE000500315)
 
 Der Bundespräsident
 Der Bundesminister des Innern

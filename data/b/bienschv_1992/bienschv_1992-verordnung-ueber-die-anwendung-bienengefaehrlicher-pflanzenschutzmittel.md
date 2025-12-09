@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000100314)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten verordnet
 auf Grund des § 3 Abs. 1 Nr. 1 des Pflanzenschutzgesetzes vom 15.
@@ -32,6 +33,7 @@ für Gesundheit und für Umwelt, Naturschutz und Reaktorsicherheit:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000201377)
 
 Im Sinne dieser Verordnung sind
 
@@ -67,6 +69,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 2 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000301377)
 
 (1) Bienengefährliche Pflanzenschutzmittel dürfen nicht an
 
@@ -105,6 +108,7 @@ der angegebenen Tageszeit.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000400314)
 
 Die zuständige Behörde kann Ausnahmen zulassen
 
@@ -125,6 +129,7 @@ des Naturschutzes und der Landschaftspflege versehen.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000502360)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -141,6 +146,7 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 5 Inkrafttreten, abgelöste Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000600314)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -148,6 +154,7 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bienschv_1992/BJNR014100992.html#BJNR014100992BJNE000700314)
 
 Der Bundesrat hat zugestimmt.
 

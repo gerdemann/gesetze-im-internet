@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000101119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf
 Grund
@@ -46,6 +47,7 @@ Grund
 
 
 ## § 1 Anwendungsbereich und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000201119)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung von
 Maßnahmen nach der Durchführungsverordnung (EU) 2024/2675 der
@@ -69,6 +71,7 @@ Verordnung.
 
 
 ## § 2 Beihilfeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000301119)
 
 Eine Beihilfe ist auf Antrag einem Unternehmen der
 landwirtschaftlichen Primärproduktion zu gewähren,
@@ -105,6 +108,7 @@ zugrunde zu legen, der
 
 
 ## § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000401119)
 
 (1) Der Antrag auf Beihilfe ist vom Unternehmen der
 landwirtschaftlichen Primärproduktion bei der zuständigen Landesstelle
@@ -176,6 +180,7 @@ Folgendes durchzuführen:
 
 
 ## § 4 Schadensberechnung
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000501119)
 
 (1) Die zuständige Landesstelle hat den durch den Frosteinbruch
 entstandenen Schaden des antragstellenden Unternehmens der
@@ -211,6 +216,7 @@ Referenzwerten bestimmt werden.
 
 
 ## § 5 Entschädigungsquote
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000601119)
 
 (1) Die zuständigen Landesstellen haben der Bundesanstalt für
 Landwirtschaft und Ernährung (Bundesanstalt) bis zum 19. Februar 2025
@@ -231,6 +237,7 @@ elektronisch mitzuteilen.
 
 
 ## § 6 Höhe der Beihilfe; Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000701119)
 
 (1) Die Höhe der Beihilfe ist das Produkt aus der Entschädigungsquote
 und der Höhe des bereinigten Schadens. Sofern die Summe aus der
@@ -246,6 +253,7 @@ festzusetzen.
 
 
 ## § 7 Überwachung; Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000801119)
 
 Zum Zweck der Überwachung haben die antragstellenden Unternehmen den
 zuständigen Landesstellen, auch in Begleitung von Prüfungsorganen der
@@ -275,6 +283,7 @@ schriftlich oder elektronisch übermittelt werden.
 
 
 ## § 8 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE000901119)
 
 Zum Zwecke der Bewilligung eines Antrags auf Beihilfe sowie zur
 Durchführung von Kontrollen dürfen die zuständigen Landesstellen die
@@ -283,6 +292,7 @@ des Marktorganisationsgesetzes verarbeiten.
 
 
 ## § 9 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE001001119)
 
 Zur Erfüllung der Mitteilungspflichten nach Artikel 2 Absatz 2 der
 Durchführungsverordnung (EU) 2024/2675 haben die zuständigen
@@ -303,6 +313,7 @@ Schaden entstanden ist.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrarfrostbeih2024v/BJNR1600A0024.html#BJNR1600A0024BJNE001101119)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

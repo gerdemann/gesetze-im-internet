@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000100307)
 
 Auf Grund
 
@@ -59,6 +60,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000200307)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1993 an 44,49 Deutsche
 Mark.
@@ -68,6 +70,7 @@ Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000300307)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 1993 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung für Arbeitsunfälle
@@ -81,6 +84,7 @@ Anpassungsfaktor beträgt 1,1412.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000400307)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 1993 an
@@ -99,6 +103,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung in der Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000500307)
 
 Die in § 4 Abs. 1 Satz 1 des Gesetzes über eine Altershilfe für
 Landwirte bestimmten Beträge für das Altersgeld und das vorzeitige
@@ -114,6 +119,7 @@ Altersgeld betragen vom 1. Juli 1993 an
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000600307)
 
 Die Angleichungsfaktoren zur Ermittlung des Wertes von
 angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a
@@ -173,11 +179,13 @@ Juni 1993
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000700307)
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1993/BJNR091700993.html#BJNR091700993BJNE000800307)
 
 Der Bundesrat hat zugestimmt.
 

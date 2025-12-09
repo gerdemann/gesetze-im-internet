@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/schersr_ndg/BJNR015770977.html#BJNR015770977BJNE000100304)
 
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/schersr_ndg/BJNR015770977.html#BJNR015770977BJNE000200304)
 
 (1) Die Vorschriften dieses Gesetzes finden mit Ausnahme von Artikel 4
 keine Anwendung, wenn das schädigende Ereignis vor seinem
@@ -43,11 +45,13 @@ des Verkehrsrechts und Verkehrshaftpflichtrechts vom 16. Juli 1957
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/schersr_ndg/BJNR015770977.html#BJNR015770977BJNE000300304)
 
 -
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/schersr_ndg/BJNR015770977.html#BJNR015770977BJNE000400304)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Die Beschränkungen der
@@ -55,6 +59,7 @@ Lufthoheit im Land Berlin bleiben unberührt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/schersr_ndg/BJNR015770977.html#BJNR015770977BJNE000500304)
 
 (1) Dieses Gesetz tritt am 1. Januar 1978 in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Möglichkeit der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000100308)
 
 Eine Kapitalgesellschaft (Gesellschaft mit beschränkter Haftung,
 Gesellschaft mit beschränkter Haftung im Aufbau, Aktiengesellschaft,
@@ -50,6 +51,7 @@ mit beschränkter Haftung befinden.
 
 
 ## § 2 Spaltungsplan
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000200308)
 
 (1) Das Vertretungsorgan der übertragenden Gesellschaft hat einen
 Spaltungsplan aufzustellen. Dieser muß mindestens folgende Angaben
@@ -126,6 +128,7 @@ zuzuleiten.
 
 
 ## § 3 Anwendung des Gründungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000300308)
 
 Auf die Gründung jeder neuen Gesellschaft sind die für deren
 Rechtsform geltenden Gründungsvorschriften anzuwenden, soweit sich aus
@@ -139,6 +142,7 @@ diese Gesellschaft.
 
 
 ## § 4 Spaltungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000400308)
 
 (1) Bei der Aufspaltung einer Aktiengesellschaft oder einer
 Aktiengesellschaft im Aufbau, durch die eine oder mehrere
@@ -161,6 +165,7 @@ verzichten.
 
 
 ## § 5 Prüfung der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000500308)
 
 (1) Im Falle des § 4 Abs. 1 haben ein oder mehrere unabhängige
 Sachverständige, die vom Vorstand der übertragenden Gesellschaft
@@ -192,6 +197,7 @@ angemessen ist. Dabei ist anzugeben,
 
 
 ## § 6 Vorbereitung der Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000600308)
 
 Im Falle des § 4 Abs. 1 hat der Vorstand der übertragenden
 Aktiengesellschaft mindestens einen Monat vor dem Tage der
@@ -221,6 +227,7 @@ zu stellen:
 
 
 ## § 7 Spaltungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000700308)
 
 (1) Die Spaltung wird nur wirksam, wenn ihr die Gesellschafter oder
 Aktionäre der übertragenden Gesellschaft durch Beschluß zustimmen. Der
@@ -234,6 +241,7 @@ eingetreten ist, zu unterrichten.
 
 
 ## § 8 Anmeldung und Eintragung der neuen Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000800308)
 
 (1) Das Vertretungsorgan der übertragenden Gesellschaft hat jede neue
 Gesellschaft bei dem Gericht, in dessen Bezirk sie ihren Sitz haben
@@ -250,6 +258,7 @@ wirksam wird.
 
 
 ## § 9 Anmeldung und Eintragung der Spaltung
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE000900308)
 
 (1) Das Vertretungsorgan der übertragenden Gesellschaft hat die
 Spaltung zur Eintragung in das Handelsregister des Sitzes der
@@ -278,6 +287,7 @@ Zeitpunkt der Anmeldung vorliegen.
 
 
 ## § 10 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001000308)
 
 (1) Die Eintragung der Spaltung in das Handelsregister des Sitzes der
 übertragenden Gesellschaft hat folgende Wirkungen:
@@ -327,6 +337,7 @@ für die Erfüllung von Verbindlichkeiten einzustehen.
 
 
 ## § 11 Schutz der Gläubiger sowie der Inhaber von Sonderrechten
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001101307)
 
 (1) Für die Verbindlichkeiten der übertragenden Gesellschaft haften
 die an der Spaltung beteiligten Gesellschaften als Gesamtschuldner bis
@@ -355,6 +366,7 @@ als Gesamtschuldner.
 
 
 ## § 12 Heilung unwirksamer Einzelübertragungen, Haftung für Altverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001200308)
 
 (1) Sollte das Vermögen oder ein Teil des Vermögens eines
 Rechtsträgers, der ehemals eine Wirtschaftseinheit im Sinne des § 1
@@ -385,6 +397,7 @@ von Verbindlichkeiten einzustehen.
 
 
 ## § 13 Übergangsmandat des Betriebsrats bei Betriebsspaltung
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001300308)
 
 (1) Hat die Spaltung der Gesellschaft die Spaltung eines Betriebs zur
 Folge, so bleibt dessen Betriebsrat im Amt und führt die Geschäfte für
@@ -411,6 +424,7 @@ zwischen diesen Gesellschaften beeinflussen können.
 
 
 ## § 14 Abspaltung von Betrieben oder Betriebsteilen
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001400308)
 
 Die Leitung oder der Betriebsrat eines Betriebes oder Betriebsteiles
 einer Kapitalgesellschaft im Sinne des § 1 kann von dem
@@ -425,6 +439,7 @@ hat dem Verlangen binnen eines Monats zu entsprechen.
 
 
 ## § 15 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001501377)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Mitglied eines Vertretungsorgans, als Mitglied eines
@@ -458,11 +473,13 @@ falsche Angaben macht.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001600308)
 
 -
 
 
 ## § 16a Anwendung auf den Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001800307)
 
 Soweit sämtliche Geschäftsanteile oder Aktien einer
 Kapitalgesellschaft im Sinne des § 1 auf Grund des § 23a Abs. 1 und 2
@@ -471,6 +488,7 @@ sind, tritt diese an die Stelle der Treuhandanstalt.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sptrug/BJNR008540991.html#BJNR008540991BJNE001700308)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

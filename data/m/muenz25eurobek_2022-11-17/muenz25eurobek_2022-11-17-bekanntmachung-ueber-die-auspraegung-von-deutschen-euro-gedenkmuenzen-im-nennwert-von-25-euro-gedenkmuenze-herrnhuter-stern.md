@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz25eurobek_2022-11-17/BJNR213300022.html#BJNR213300022BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „Herrnhuter
@@ -50,11 +51,13 @@ Der Münzrand wird glatt und ohne Struktur ausgeführt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz25eurobek_2022-11-17/BJNR213300022.html#BJNR213300022BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/m_nz25eurobek_2022-11-17/BJNR213300022.html#BJNR213300022BJNE000300000)
 
 (Fundstelle: BGBl. I 2022, 2133)
 

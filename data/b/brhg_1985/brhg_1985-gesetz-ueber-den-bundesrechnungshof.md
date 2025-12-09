@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Stellung
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000100307)
 
 Der Bundesrechnungshof ist eine oberste Bundesbehörde und als
 unabhängiges Organ der Finanzkontrolle nur dem Gesetz unterworfen. Im
@@ -29,6 +30,7 @@ ihren Entscheidungen.
 
 
 ## § 2 Sitz und Organisation
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000201301)
 
 (1) Der Bundesrechnungshof hat seinen Sitz in Bonn. Er kann
 Außenstellen einrichten.
@@ -39,6 +41,7 @@ gebildet werden. Für die Verwaltung besteht eine Präsidialabteilung.
 
 
 ## § 3 Mitglieder des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000301160)
 
 (1) Mitglieder des Bundesrechnungshofes sind der Präsident, der
 Vizepräsident, die Leiter der Prüfungsabteilungen und die
@@ -69,12 +72,14 @@ Richtergesetzes findet Anwendung.
 
 
 ## § 4 Prüfungsbeamte und weitere Bedienstete
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000400307)
 
 Zum Bundesrechnungshof gehören auch die erforderlichen Prüfungsbeamten
 des höheren und gehobenen Dienstes sowie weitere Bedienstete.
 
 
 ## § 5 Wahl und Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000500307)
 
 (1) Der Deutsche Bundestag und der Bundesrat wählen jeweils ohne
 Aussprache auf Vorschlag der Bundesregierung den Präsidenten und den
@@ -99,6 +104,7 @@ hören.
 
 
 ## § 6 Präsident und Vizepräsident
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000600307)
 
 (1) Der Präsident vertritt die Behörde nach außen. Er leitet die
 Verwaltung des Bundesrechnungshofes und übt die Dienstaufsicht aus.
@@ -119,6 +125,7 @@ beeinträchtigt werden.
 
 
 ## § 7 Geschäftsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000700307)
 
 (1) Im Einvernehmen mit dem Ständigen Ausschuß des Großen Senats
 verteilt der Präsident vor Beginn des Geschäftsjahrs die Geschäfte auf
@@ -147,6 +154,7 @@ Das gleiche gilt erforderlichenfalls nach Entscheidungen gemäß Absatz
 
 
 ## § 8 Entscheidungen des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000800307)
 
 Entscheidungen des Bundesrechnungshofes treffen der Präsident (§ 19
 Satz 1 Nr. 2), die Kollegien (§ 9), die Prüfungsgruppen (§ 10), die
@@ -154,6 +162,7 @@ Senate (§ 11) und der Große Senat (§ 13).
 
 
 ## § 9 Zweier- und Dreierkollegium
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE000900307)
 
 (1) Das Kollegium für ein Prüfungsgebiet besteht aus dem zuständigen
 Abteilungsleiter und dem zuständigen Prüfungsgebietsleiter
@@ -166,6 +175,7 @@ allein zu entscheiden.
 
 
 ## § 10 Prüfungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001000307)
 
 Im Einvernehmen mit dem Ständigen Ausschuß des Großen Senats kann der
 Präsident Prüfungsgruppen für bestimmte Aufgaben bilden. Die §§ 7, 9,
@@ -174,6 +184,7 @@ entsprechend.
 
 
 ## § 11 Senate
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001100307)
 
 (1) Für jede Abteilung wird ein Senat gebildet, dem der
 Abteilungsleiter als Vorsitzender, die Prüfungsgebietsleiter der
@@ -186,6 +197,7 @@ In diesem Falle übernimmt er den Vorsitz.
 
 
 ## § 12 Zuständigkeit der Senate
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001200307)
 
 Die Senate entscheiden
 
@@ -206,6 +218,7 @@ Die Senate entscheiden
 
 
 ## § 13 Großer Senat
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001300307)
 
 (1) Der Große Senat besteht aus dem Präsidenten als Vorsitzendem, dem
 Vizepräsidenten, den Leitern der Prüfungsabteilungen und drei
@@ -233,6 +246,7 @@ Vorsitzenden des Ausschusses.
 
 
 ## § 14 Zuständigkeit des Großen Senats
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001401301)
 
 (1) Der Große Senat entscheidet
 
@@ -275,6 +289,7 @@ Angelegenheiten befassen oder ihn vor eigenen Entscheidungen hören.
 
 
 ## § 15 Abstimmungen
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001500307)
 
 (1) Die Kollegien treffen ihre Entscheidungen einstimmig.
 
@@ -283,6 +298,7 @@ Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 
 ## § 16 Mitglied kraft Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001600307)
 
 (1) Ist ein Prüfungsgebietsleiter an der Ausübung seines Amtes nicht
 nur kurzfristig verhindert, so kann der Präsident nach Anhörung des
@@ -302,6 +318,7 @@ Mitglieds des Bundesrechnungshofes.
 
 
 ## § 17 Ausschluß wegen Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001700307)
 
 (1) Ein Mitglied des Bundesrechnungshofes darf nicht tätig werden,
 wenn ein Grund vorliegt, der geeignet ist, Zweifel an seiner
@@ -327,6 +344,7 @@ Mitglieder der Prüfungsgruppe.
 
 
 ## § 18 Zuständigkeit des Dienstgerichts des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001801301)
 
 (1) Für ein Disziplinarverfahren gegen ein Mitglied des
 Bundesrechnungshofes und für ein Prüfungsverfahren im Sinne des § 66
@@ -348,6 +366,7 @@ Deutschen Richtergesetzes anzuwenden.
 
 
 ## § 19 Geheimhaltungsbedürftige Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE001900307)
 
 Ist im Haushaltsplan nach § 10a der Bundeshaushaltsordnung bestimmt,
 daß die Prüfung durch den Bundesrechnungshof
@@ -368,6 +387,7 @@ entscheidet mit Stimmenmehrheit.
 
 
 ## § 20 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE002000307)
 
 (1) Der Große Senat erläßt die Geschäftsordnung des
 Bundesrechnungshofes. Sie trifft die nach § 11 Abs. 1 Satz 2 und § 13
@@ -395,6 +415,7 @@ und der Bundesregierung mitzuteilen.
 
 
 ## § 20a Prüfungsämter
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE002500301)
 
 (1) Der Bundesrechnungshof kann Prüfungsämter einrichten, die seiner
 Dienst- und Fachaufsicht unterstellt sind.
@@ -413,22 +434,26 @@ ernannt.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE002100307)
 
 -
 
 
 ## § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE002201160)
 
 -
 
 
 ## § 23 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE002300307)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 24 Inkrafttreten, Aufhebung bestehender Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brhg_1985/BJNR014450985.html#BJNR014450985BJNE002400307)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

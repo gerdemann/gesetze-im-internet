@@ -20,6 +20,7 @@ Neufassung durch
 
 
 ## § 1 Erlaubnis zur Auswandererberatung
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE000203116)
 
 (1) Wer geschäftsmäßig Auskunft über die Aussichten der Auswanderung
 und über die Lebensverhältnisse im Einwanderungsland, insbesondere
@@ -85,6 +86,7 @@ Bundesrates bedarf,
 
 
 ## § 2 Werbungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE000305116)
 
 (1) Es ist verboten, geschäftsmäßig für die Auswanderung zu werben.
 
@@ -101,6 +103,7 @@ Personen.
 
 
 ## § 3 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE000402116)
 
 (1) Für die Ausführung dieses Gesetzes und der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen ist das Bundesverwaltungsamt
@@ -132,6 +135,7 @@ abgewickelt werden.
 
 
 ## § 3a Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE001101116)
 
 (1) Für Amtshandlungen nach diesem Gesetz und nach den auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen sind zur Deckung des
@@ -154,6 +158,7 @@ entspricht.
 
 
 ## § 4 Erhebung, Verarbeitung und Nutzung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE000506116)
 
 (1) Das Bundesverwaltungsamt darf personenbezogene Daten der
 antragstellenden Person erheben, soweit die Daten zur Beurteilung der
@@ -170,6 +175,7 @@ dürfen nur für Zwecke des Absatzes 1 verarbeitet werden.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE000703116)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -194,5 +200,6 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesverwaltungsamt.
 
 
 ## § 6 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/auswsg/BJNR007740975.html#BJNR007740975BJNE001002116)
 
 

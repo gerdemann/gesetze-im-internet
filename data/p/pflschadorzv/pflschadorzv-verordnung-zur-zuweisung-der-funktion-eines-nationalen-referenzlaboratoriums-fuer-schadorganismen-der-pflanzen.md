@@ -47,6 +47,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflschadorzv/BJNR048500019.html#BJNR048500019BJNE000100000)
 
 Auf Grund des § 7 Absatz 2 Nummer 2 des Pflanzenschutzgesetzes vom 6.
 Februar 2012 (BGBl. I S. 148, 1281), der zuletzt durch Artikel 375
@@ -56,6 +57,7 @@ Landwirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pflschadorzv/BJNR048500019.html#BJNR048500019BJNE000200000)
 
 Das Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
 nimmt die Funktion eines nationalen Referenzlaboratoriums gemäß
@@ -67,6 +69,7 @@ beschriebenen Bereiche wahr.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pflschadorzv/BJNR048500019.html#BJNR048500019BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

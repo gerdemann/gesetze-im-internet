@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNG000200000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000105130)
 
 (1) Diese Verordnung gilt für Geräte und Maschinen, die nach Artikel 2
 der Richtlinie 2000/14/EG in der Fassung vom 23. Oktober 2024 in den
@@ -35,6 +37,7 @@ Maschinenverordnung bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000200000)
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
 
@@ -97,10 +100,12 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 
 
 ## Abschnitt 2 - Marktverkehrsregelungen für Geräte und Maschinen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNG000300000)
 
 
 
 ### § 3 Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000301130)
 
 (1) Geräte und Maschinen nach dem Anhang dürfen in Deutschland nur in
 Verkehr gebracht oder in Betrieb genommen werden, wenn der Hersteller
@@ -163,10 +168,12 @@ Verkehr bringt oder in Betrieb nimmt.
 
 
 ### (XXXX) § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000401130)
 
 
 
 ### § 5 Aufbewahrung und Übermittlung von Informationen aus der Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000500000)
 
 Der in Deutschland ansässige Hersteller oder andernfalls sein in
 Deutschland ansässiger Bevollmächtigter hat nach Herstellung des
@@ -181,6 +188,7 @@ Informationen zur Verfügung zu stellen.
 
 
 ### § 6 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000605116)
 
 (1) Die zuständige Landesbehörde teilt Marktüberwachungsmaßnahmen nach
 § 8 des Marktüberwachungsgesetzes dem Bundesministerium für Umwelt,
@@ -203,10 +211,12 @@ Richtlinie 2000/14/EG.
 
 
 ## Abschnitt 3 - Betriebsregelungen für Geräte und Maschinen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNG000400000)
 
 
 
 ### § 7 Betrieb in Wohngebieten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000701310)
 
 (1) In reinen, allgemeinen und besonderen Wohngebieten,
 Kleinsiedlungsgebieten, Sondergebieten, die der Erholung dienen, Kur-
@@ -257,6 +267,7 @@ Nachtruhe, bleiben unberührt.
 
 
 ### § 8 Betrieb in empfindlichen Gebieten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000800000)
 
 Die Länder können
 
@@ -286,10 +297,12 @@ Die Länder können
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNG000500000)
 
 
 
 ### § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE000904130)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -323,6 +336,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE001000000)
 
 (1) Für Geräte und Maschinen nach dem Anhang, die vor dem 6. September
 2002 in Verkehr gebracht oder in Betrieb genommen worden sind, gelten
@@ -346,6 +360,7 @@ verwendet werden.
 
 
 ### § 11 Anpassungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE001100000)
 
 Wird Anhang III der in § 3 in Bezug genommen Richtlinie 2000/14/EG im
 Verfahren nach Artikel 18 Abs. 2 dieser Richtlinie an den technischen
@@ -357,6 +372,7 @@ Veröffentlichung folgenden Monats an.
 
 
 ### Anhang
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_32/BJNR347810002.html#BJNR347810002BJNE001200000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3481 - 3482)
 

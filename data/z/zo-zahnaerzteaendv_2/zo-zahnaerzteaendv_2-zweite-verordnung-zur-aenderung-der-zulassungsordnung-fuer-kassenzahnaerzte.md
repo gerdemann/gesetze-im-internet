@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte_ndv_2/BJNR013370977.html#BJNR013370977BJNE000100311)
 
 Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten
@@ -28,11 +29,13 @@ des Bundesrates verordnet:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte_ndv_2/BJNR013370977.html#BJNR013370977BJNE000200311)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte_ndv_2/BJNR013370977.html#BJNR013370977BJNE000300311)
 
 (1) Für die Beteiligungen, die nach § 30 der Zulassungsordnung in der
 bis zum Inkrafttreten dieser Verordnung geltenden Fassung
@@ -56,6 +59,7 @@ Zeitpunkt geltenden Fassung fort.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte_ndv_2/BJNR013370977.html#BJNR013370977BJNE000400311)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 5 § 2 des Dritten Rentenversicherungs-
@@ -64,11 +68,13 @@ Berlin.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte_ndv_2/BJNR013370977.html#BJNR013370977BJNE000500311)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte_ndv_2/BJNR013370977.html#BJNR013370977BJNE000600311)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

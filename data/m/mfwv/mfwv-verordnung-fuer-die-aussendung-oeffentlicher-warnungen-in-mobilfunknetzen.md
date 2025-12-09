@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000100000)
 
 Auf Grund des § 164a Absatz 4 des Telekommunikationsgesetzes, der
 durch Artikel 8 Nummer 2 des Gesetzes vom 10. September 2021 (BGBl. I
@@ -27,6 +28,7 @@ digitale Infrastruktur:
 
 
 ## § 1 Regelungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000200000)
 
 Diese Verordnung
 
@@ -50,6 +52,7 @@ Diese Verordnung
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000300000)
 
 Im Sinne dieser Verordnung ist
 
@@ -69,6 +72,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000400000)
 
 (1) Betreiber öffentlicher Mobilfunknetze haben ihre technischen
 Einrichtungen so zu gestalten, dass eine öffentliche Warnung jederzeit
@@ -129,6 +133,7 @@ Zugriff und unbefugter Inanspruchnahme zu schützen.
 
 
 ## § 4 Organisatorische Vorkehrungen
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000500000)
 
 (1) Betreiber öffentlicher Mobilfunknetze haben sicherzustellen, dass
 sie jederzeit öffentliche Warnungen entgegennehmen und unverzüglich
@@ -154,6 +159,7 @@ sicherzustellen, dass die Kontaktstelle
 
 
 ## § 5 Leistungsmerkmale bei der Aussendung öffentlicher Warnungen
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000600000)
 
 (1) Betreiber öffentlicher Mobilfunknetze haben die Integrität und
 Authentizität einer öffentlichen Warnung zu überprüfen. Hierfür haben
@@ -191,6 +197,7 @@ bestimmten geographischen Gebiet auszusenden.
 
 
 ## § 6 Störung
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000700000)
 
 (1) Betreiber öffentlicher Mobilfunknetze haben die Bundesnetzagentur
 und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
@@ -222,6 +229,7 @@ unverzüglich und vorrangig vor Telekommunikationsanschlüssen und
 
 
 ## § 7 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000800000)
 
 (1) Betreiber öffentlicher Mobilfunknetze haben bei öffentlichen
 Warnungen die Vorgänge nach Maßgabe der Technischen Richtlinie nach §
@@ -254,6 +262,7 @@ aufzubewahren.
 
 
 ## § 8 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE000900000)
 
 (1) Anbieter öffentlich zugänglicher mobiler nummerngebundener
 interpersoneller Telekommunikationsdienste haben ihre Endnutzer bei
@@ -276,6 +285,7 @@ beschränkt werden.
 
 
 ## § 9 Aufgaben und Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE001000000)
 
 (1) Die Bundesnetzagentur hat jährlich dem Bundesministerium für
 Wirtschaft und Energie über die Praxiserfahrungen bei der Aussendung
@@ -289,11 +299,13 @@ Telekommunikationsgesetzes bleiben unberührt.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/mfwv/BJNR504600021.html#BJNR504600021BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

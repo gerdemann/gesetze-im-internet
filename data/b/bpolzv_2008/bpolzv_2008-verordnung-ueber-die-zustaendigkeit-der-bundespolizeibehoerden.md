@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V v. 28.6.2005 I 1870 mWv 1.3.2008
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpolzv_2008/BJNR025000008.html#BJNR025000008BJNE000100000)
 
 Auf Grund des § 58 Abs. 1 des Bundespolizeigesetzes vom 19. Oktober
 1994 (BGBl. I S. 2978), der zuletzt durch Artikel 1 Nr. 11 Buchstabe a
@@ -29,6 +30,7 @@ verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Sachliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bpolzv_2008/BJNR025000008.html#BJNR025000008BJNE000205311)
 
 (1) Das Bundespolizeipräsidium als Oberbehörde und die
 Bundespolizeidirektionen sowie die Bundespolizeiakademie als
@@ -201,6 +203,7 @@ Augustin gelegene Beschussstelle des Bundespolizeipräsidiums.
 
 
 ## § 2 Örtliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bpolzv_2008/BJNR025000008.html#BJNR025000008BJNE000303311)
 
 (1) Örtlich sind die Bundespolizeidirektionen wie folgt zuständig:
 
@@ -283,6 +286,7 @@ die Bundespolizeibehörden bundesweit zuständig
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bpolzv_2008/BJNR025000008.html#BJNR025000008BJNE000400000)
 
 Diese Verordnung tritt am 1. März 2008 in Kraft.
 

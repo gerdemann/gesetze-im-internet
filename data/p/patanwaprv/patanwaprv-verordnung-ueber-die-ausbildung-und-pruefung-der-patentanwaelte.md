@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 424-5-2 v. 3.1.1967 I 118 (PatAnwAPO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000100000)
 
 Es verordnet auf Grund
 
@@ -39,12 +40,15 @@ Es verordnet auf Grund
 
 
 ## Teil 1 - Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000100000)
 
 
 ### Abschnitt 1 - Zulassung zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000200000)
 
 
 #### § 1 Voraussetzungen für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000300000)
 
 Zur Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes wird als
 Bewerberin oder Bewerber für den Beruf des Patentanwalts zugelassen,
@@ -52,6 +56,7 @@ wer die Voraussetzungen des § 6 der Patentanwaltsordnung erfüllt.
 
 
 #### § 2 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000400000)
 
 (1) Die Zulassung zur Ausbildung ist schriftlich zu beantragen. Der
 Antrag ist an das Deutsche Patent- und Markenamt zu richten.
@@ -119,12 +124,14 @@ vorgelegt werden, so ist der Nachweis auf andere Weise zu erbringen.
 
 
 #### § 3 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000500000)
 
 Über die Zulassung zur Ausbildung hat das Deutsche Patent- und
 Markenamt durch schriftlichen Bescheid zu entscheiden.
 
 
 #### § 4 Rücknahme und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000600000)
 
 (1) Die Zulassung zur Ausbildung ist mit Wirkung für die Zukunft durch
 schriftlichen Bescheid zurückzunehmen, wenn nachträglich Tatsachen
@@ -166,18 +173,22 @@ freiwillig aus der Ausbildung ausgeschieden ist.
 
 
 #### § 5 Freiwilliges Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000700000)
 
 Wer freiwillig aus der Ausbildung ausscheiden will, hat dies dem
 Deutschen Patent- und Markenamt unverzüglich schriftlich mitzuteilen.
 
 
 ### Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000300000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000400000)
 
 
 ##### § 6 Ausbildungsziel
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000800000)
 
 (1) Ziel der Ausbildung ist es, dass die Bewerberinnen und Bewerber
 auf der Grundlage ihrer technischen Befähigung (§ 6 der
@@ -204,6 +215,7 @@ und Bewerber darf nicht im Vordergrund stehen.
 
 
 ##### § 7 Ausbildungsabschnitte
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE000900000)
 
 Die Ausbildung gliedert sich in drei Ausbildungsabschnitte, die
 Bewerberinnen und Bewerber in folgender Reihenfolge zu durchlaufen
@@ -226,6 +238,7 @@ haben:
 
 
 ##### § 8 Ausbildung in Teilzeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001000000)
 
 (1) Die Ausbildung hat grundsätzlich in Vollzeit zu erfolgen. Sie kann
 nur aus wichtigem Grund in Teilzeit erfolgen, insbesondere
@@ -272,6 +285,7 @@ Vorschriften unberührt.
 
 
 ##### § 9 Anrechnung früherer Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001100000)
 
 Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2
 widerrufen worden oder sind Bewerberinnen oder Bewerber freiwillig aus
@@ -284,6 +298,7 @@ wird.
 
 
 ##### § 10 Beurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001200000)
 
 (1) Ausbildende haben Bewerberinnen und Bewerber am Ende der bei ihnen
 durchgeführten Ausbildung schriftlich zu beurteilen. Im ersten
@@ -329,6 +344,7 @@ erstellt.
 
 
 ##### § 11 Urlaub und Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001300000)
 
 (1) Erholungsurlaub während des ersten Ausbildungsabschnitts wird mit
 bis zu 30 Arbeitstagen pro Ausbildungsjahr auf die Ausbildungszeit
@@ -368,9 +384,11 @@ und dritten Ausbildungsabschnitt jeweils fünf Arbeitstage nicht
 
 
 #### Unterabschnitt 2 - Erster Ausbildungsabschnitt
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000500000)
 
 
 ##### § 12 Ausbildungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001400000)
 
 (1) Zur Ausbildung befugt sind Patentanwälte und Patentassessoren, die
 insgesamt fünf Jahre lang
@@ -392,6 +410,7 @@ absehen, wenn das Ziel der Ausbildung nicht gefährdet wird.
 
 
 ##### § 13 Pflichten der Ausbildenden
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001500000)
 
 (1) Die Ausbildungstätigkeit ist gewissenhaft auszuüben.
 
@@ -406,6 +425,7 @@ Universität einzuräumen.
 
 
 ##### § 14 Aufsicht über ausbildende Patentassessoren
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001600000)
 
 (1) Patentassessoren unterliegen hinsichtlich der Ausübung ihrer
 Ausbildungsbefugnis der Aufsicht des Deutschen Patent- und Markenamts.
@@ -417,6 +437,7 @@ geführten Unterlagen vorzulegen.
 
 
 ##### § 15 Verlust und Entziehung der Ausbildungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001700000)
 
 (1) Patentanwälte verlieren ihre Ausbildungsbefugnis
 
@@ -478,6 +499,7 @@ Ausbildenden als zur Ausbildung ungeeignet erscheinen lassen.
 
 
 ##### § 16 Beginn und Ende der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001800000)
 
 (1) Der Ausbildungsbeginn wird im Bescheid über die Zulassung zur
 Ausbildung festgesetzt. Er bestimmt sich nach den Angaben in der
@@ -515,6 +537,7 @@ Bewerberinnen und Bewerber schriftlich mitzuteilen.
 
 
 ##### § 17 Wechsel der Ausbildenden
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE001900000)
 
 (1) Bewerberinnen und Bewerber dürfen ihre Ausbildenden jederzeit
 wechseln.
@@ -529,6 +552,7 @@ Monate dauern.
 
 
 ##### § 18 Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002000000)
 
 (1) Ausbildende haben Bewerberinnen und Bewerbern Gelegenheit zu
 geben, folgende Rechtskenntnisse zu erwerben, wobei besonderes Gewicht
@@ -578,6 +602,7 @@ geben,
 
 
 ##### § 19 Ausbildung bei einem Gericht für Patentstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002100000)
 
 (1) Bewerberinnen und Bewerber können während des ersten
 Ausbildungsabschnitts eine Ausbildung bei einem Gericht für
@@ -608,6 +633,7 @@ anschließend dem Deutschen Patent- und Markenamt zuzuleiten.
 
 
 ##### § 20 Ausbildung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002200000)
 
 (1) Bewerberinnen und Bewerber können während des ersten
 Ausbildungsabschnitts eine praktische Ausbildung im gewerblichen
@@ -647,6 +673,7 @@ sollen den Vorgaben des § 10 Absatz 2 bis 4 entsprechen.
 
 
 ##### § 21 Arbeitsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002300000)
 
 (1) Die Patentanwaltskammer hat regionale Arbeitsgemeinschaften zu
 bilden und geeignete Personen mit deren Leitung zu beauftragen. Sie
@@ -692,9 +719,11 @@ aufzunehmen.
 
 
 #### Unterabschnitt 3 - Zweiter und dritter Ausbildungsabschnitt
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000600000)
 
 
 ##### § 22 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002400000)
 
 (1) Eine Bewerberin oder ein Bewerber hat die Zulassung zum zeitlich
 unmittelbar aufeinanderfolgenden zweiten und dritten
@@ -741,6 +770,7 @@ Ausbildungsabschnitt gilt § 4 Absatz 1 entsprechend.
 
 
 ##### § 23 Verschwiegenheitspflicht und Zugang zu Akten
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002500000)
 
 (1) Bewerberinnen und Bewerber haben über die ihnen in der Ausbildung
 beim Deutschen Patent- und Markenamt und beim Bundespatentgericht
@@ -763,6 +793,7 @@ Verlangen unverzüglich herauszugeben.
 
 
 ##### § 24 Anwesenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002600000)
 
 Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen
 und Bewerber Anwesenheitspflicht. Jedes Fernbleiben bedarf der
@@ -775,6 +806,7 @@ Vorlage eines Attests verlangen.
 
 
 ##### § 25 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002700000)
 
 (1) Das Deutsche Patent- und Markenamt und die Präsidentin oder der
 Präsident des Bundespatentgerichts stellen jeweils einen Plan für die
@@ -809,6 +841,7 @@ sind die Rechtsgebiete nach § 18 Absatz 1.
 
 
 ##### § 26 Lehr- und Informationsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002800000)
 
 (1) Das Deutsche Patent- und Markenamt und die Präsidentin oder der
 Präsident des Bundespatentgerichts führen Lehrveranstaltungen vor
@@ -824,6 +857,7 @@ die Bewerberinnen und Bewerber verpflichtend.
 
 
 ##### § 27 Ausbildende und Lehrende
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE002900000)
 
 (1) Mit der Ausbildung nach § 25 Absatz 2 Nummer 1 darf nur betraut
 werden, wer über die erforderlichen fachlichen Kenntnisse und
@@ -840,6 +874,7 @@ Lehrende sollen pädagogisch und fachlich fortgebildet werden.
 
 
 ##### § 28 Erreichen der Ausbildungsziele
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003000000)
 
 (1) Das Ziel der Ausbildung beim Deutschen Patent- und Markenamt hat
 erreicht, wem von der Mehrheit der Ausbildenden eine erfolgreiche
@@ -865,6 +900,7 @@ Bewerberinnen und Bewerber das Ausbildungsziel erreicht haben.
 
 
 ##### § 29 Verlängerung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003100000)
 
 (1) Hat eine Bewerberin oder ein Bewerber das Ausbildungsziel des
 zweiten Ausbildungsabschnitts nicht erreicht, so hat das Deutsche
@@ -882,6 +918,7 @@ Verlängerung der Ausbildung anzuordnen.
 
 
 ##### § 30 Beendigung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003200000)
 
 (1) Hat eine Bewerberin oder ein Bewerber das Ausbildungsziel in allen
 drei Ausbildungsabschnitten erreicht, erklärt das Deutsche Patent- und
@@ -895,6 +932,7 @@ Ausbildung ist ausgeschlossen.
 
 
 ##### § 31 Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003301360)
 
 (1) Bewerberinnen und Bewerber dürfen während der Ausbildung im
 zweiten und dritten Ausbildungsabschnitt entgeltliche oder
@@ -949,9 +987,11 @@ Ausübung von Nebentätigkeiten zu erlassen, wenn diese
 
 
 #### Unterabschnitt 4 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000700000)
 
 
 ##### § 32 Studium im allgemeinen Recht
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003400000)
 
 (1) Das Studium im allgemeinen Recht nach § 7 Absatz 3 der
 Patentanwaltsordnung erfolgt durch das Absolvieren
@@ -994,9 +1034,11 @@ Ausbildungsabschnitts abgeschlossen sein.
 
 
 ## Teil 2 - Prüfung nach § 8 der Patentanwaltsordnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000800000)
 
 
 ### § 33 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003502311)
 
 (1) Die Prüfungskommission beim Deutschen Patent- und Markenamt (§ 9
 der Patentanwaltsordnung) besteht aus folgenden ehrenamtlich tätigen
@@ -1078,6 +1120,7 @@ Vorsitzenden sinngemäß.
 
 
 ### § 34 Aufgaben, Rechte und Pflichten der Mitglieder der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003600000)
 
 (1) Den Mitgliedern der Prüfungskommission obliegt es,
 
@@ -1146,6 +1189,7 @@ Auslagenersatzes erfolgt durch das Deutsche Patent- und Markenamt.
 
 
 ### § 35 Prüfungstermine und Prüfungstage
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003701360)
 
 (1) Das Deutsche Patent- und Markenamt hat möglichst bis zum 31. Juli
 eines Jahres die Monate zu bestimmen und zu veröffentlichen, in denen
@@ -1167,6 +1211,7 @@ der Internetseite des Deutschen Patent- und Markenamts zu erfolgen.
 
 
 ### § 36 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003801360)
 
 (1) Zur Prüfung nach § 8 der Patentanwaltsordnung wird zugelassen, wer
 die Voraussetzungen der §§ 6 und 7 der Patentanwaltsordnung oder des §
@@ -1217,6 +1262,7 @@ Teilnahme noch zulässt. Dem Antrag sind beizufügen:
 
 
 ### § 37 Prüfungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE003901360)
 
 (1) Die Prüfungsgebühr beträgt 650 Euro. Prüflinge, die zur Prüfung
 zugelassen wurden, haben die Prüfungsgebühr spätestens einen Monat vor
@@ -1241,6 +1287,7 @@ erneute Prüfungsgebühr zahlen.
 
 
 ### § 38 Rücknahme der Zulassung und Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004001360)
 
 (1) Das Deutsche Patent- und Markenamt kann die Zulassung zur Prüfung
 zurücknehmen, wenn nachträglich Tatsachen bekannt werden, die der
@@ -1252,6 +1299,7 @@ Deutschen Patent- und Markenamt zu erklären.
 
 
 ### § 39 Bestandteile der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004100000)
 
 (1) Die Prüfung besteht aus einer schriftlichen und einer mündlichen
 Prüfung.
@@ -1267,6 +1315,7 @@ jeden Prüfling eine Prüfungsdauer von etwa 45 Minuten vorzusehen ist.
 
 
 ### § 40 Gegenstände der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004200000)
 
 (1) Gegenstand der schriftlichen Prüfung ist das Gebiet des
 gewerblichen Rechtsschutzes. Zumindest jeweils eine Klausur soll sich
@@ -1320,6 +1369,7 @@ Rechtsgebieten entnommen werden:
 
 
 ### § 41 Hilfsmittel und Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004300000)
 
 (1) Die oder der Vorsitzende der Prüfungskommission hat die
 Hilfsmittel zu bestimmen, die die Prüflinge mitzubringen haben und die
@@ -1361,6 +1411,7 @@ der Prüfungskommission auf die Vorlage eines Attests verzichten.
 
 
 ### § 42 Nichtöffentlichkeit der Prüfung und Zuhörer
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004401360)
 
 (1) Die Prüfung ist nicht öffentlich.
 
@@ -1412,6 +1463,7 @@ Prüfungstermin stattfinden, ist nicht möglich.
 
 
 ### § 43 Säumnis und Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004500000)
 
 (1) Kommt ein Prüfling einer Ladung zu einer Klausur oder zur
 mündlichen Prüfung nicht nach (Säumnis), so gilt die jeweilige
@@ -1461,6 +1513,7 @@ gelten Absatz 3 Satz 2 und 3 und die Absätze 4 bis 7 entsprechend.
 
 
 ### § 44 Ausschluss von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004600000)
 
 (1) Von der Teilnahme an der Prüfung kann ganz oder für einzelne
 Prüfungstage ausgeschlossen werden, wer
@@ -1493,6 +1546,7 @@ Absatzes 1 Nummer 1 § 43 Absatz 1 und im Fall des Absatzes 1 Nummer 2
 
 
 ### § 45 Täuschungsversuch und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004700000)
 
 (1) Eine Klausur ist mit „ungenügend (0 Punkte)“ zu bewerten, wenn ein
 Prüfling durch Täuschung versucht, das Ergebnis einer Klausur zu
@@ -1537,6 +1591,7 @@ Die Entscheidungen trifft der Prüfungsausschuss.
 
 
 ### § 46 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004800000)
 
 Jede Klausur sowie die mündliche Prüfung ist mit einer der folgenden
 Noten und Punktzahlen zu bewerten:
@@ -1602,6 +1657,7 @@ Noten und Punktzahlen zu bewerten:
 
 
 ### § 47 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE004900000)
 
 (1) Für die Abnahme der Prüfung hat das Deutsche Patent- und Markenamt
 aus den Mitgliedern der Prüfungskommission einen Prüfungsausschuss zu
@@ -1652,6 +1708,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ### § 48 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005001360)
 
 (1) Die oder der Vorsitzende der Prüfungskommission hat die Aufgaben
 für die Klausuren auszuwählen. Sie oder er kann von den Mitgliedern
@@ -1712,6 +1769,7 @@ Die Aufsichtsperson
 
 
 ### § 49 Bewertung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005100000)
 
 (1) Für jede Klausur hat die oder der Vorsitzende der
 Prüfungskommission zwei im Schwerpunkt der Aufgabenstellung nach § 40
@@ -1757,6 +1815,7 @@ das Nichtbestehen der Prüfung schriftlich bekanntzugeben.
 
 
 ### § 50 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005200000)
 
 (1) Die oder der Vorsitzende der Prüfungskommission hat die Prüflinge
 zur mündlichen Prüfung zu laden. Dabei dürfen höchstens sechs
@@ -1786,6 +1845,7 @@ die Prüfung insgesamt nicht bestanden.
 
 
 ### § 51 Gesamtpunktzahl und Prüfungsgesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005300000)
 
 (1) Der Prüfungsausschuss hat die vom Prüfling in der Prüfung erzielte
 Gesamtpunktzahl zu berechnen, wobei jede in den beiden vierstündigen
@@ -1875,6 +1935,7 @@ Prüfung nicht bestanden.
 
 
 ### § 52 Niederschrift und Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005400000)
 
 (1) Der Prüfungsausschuss hat in einer Niederschrift für jeden
 Prüfling Folgendes festzuhalten:
@@ -1932,6 +1993,7 @@ aufzunehmen.
 
 
 ### § 53 Mängel im Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005500000)
 
 (1) Ein Prüfling hat Mängel im schriftlichen Prüfungsverfahren
 unverzüglich und spätestens am Ende der Bearbeitungszeit gegenüber der
@@ -1979,6 +2041,7 @@ innerhalb von sechs Monaten nach Abschluss der Prüfung erfolgen.
 
 
 ### § 54 Erste Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005601360)
 
 (1) Wer die Prüfung nicht bestanden hat, darf sie nach Maßgabe der
 Absätze 2 bis 4 wiederholen. Der Zulassungsantrag ist beim Deutschen
@@ -2010,6 +2073,7 @@ Prüfungsgebühr auf die Hälfte ermäßigt.
 
 
 ### § 55 Zweite Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005700000)
 
 (1) Wer die erste Wiederholungsprüfung nicht bestanden hat, ist auf
 Antrag zu einer zweiten Wiederholungsprüfung zuzulassen, wenn die
@@ -2035,6 +2099,7 @@ Absatz 4 Satz 1 aufzunehmen.
 
 
 ### § 56 Aufbewahrungsfrist und Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005800000)
 
 (1) Die Klausuren, die darauf bezogenen Gutachten und die
 Prüfungsniederschriften (Prüfungsakte) sind fünf Jahre aufzubewahren.
@@ -2056,9 +2121,11 @@ eine Kopie der Prüfungsakte zur Verfügung zu stellen.
 
 
 ## Teil 3 - Sicherung des Unterhalts
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG000900000)
 
 
 ### § 57 Darlehensanspruch
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE005901360)
 
 (1) Bewerberinnen und Bewerbern ist auf Antrag zur Sicherung ihres
 Unterhalts während ihrer Ausbildung bei einem Gericht für
@@ -2073,6 +2140,7 @@ entscheiden hat.
 
 
 ### § 58 Entstehen, Ruhen und Erlöschen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006000000)
 
 (1) Der Anspruch auf Zahlung des Unterhaltsdarlehens entsteht am
 Ersten des Monats, in dem die Bewerberinnen oder Bewerber
@@ -2145,6 +2213,7 @@ Monats, in dem
 
 
 ### § 59 Darlehenshöhe und Darlehensschuld
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006101311)
 
 (1) Das Unterhaltsdarlehen setzt sich zusammen aus
 
@@ -2167,6 +2236,7 @@ Bewilligungsmonats maßgeblichen Sätzen.
 
 
 ### § 60 Einkommensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006201311)
 
 (1) Einkommen der Bewerberinnen und Bewerber und ihrer Ehegatten wird
 auf die Höhe des zu gewährenden Unterhaltsdarlehens angerechnet,
@@ -2179,6 +2249,7 @@ Bundesbesoldungsgesetz beträgt.
 
 
 ### § 61 Vermögensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006300000)
 
 (1) Vermögen der Bewerberinnen und Bewerber und ihrer Ehegatten wird
 auf die Höhe des zu gewährenden Unterhaltsdarlehens angerechnet.
@@ -2188,6 +2259,7 @@ bis 30 des Bundesausbildungsförderungsgesetzes entsprechend.
 
 
 ### § 62 Auskunftspflichten und Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006400000)
 
 (1) Bewerberinnen und Bewerber sind verpflichtet, über ihre
 Einkommens- und Vermögensverhältnisse und diejenigen ihrer Ehegatten
@@ -2202,6 +2274,7 @@ Versorgungsbezüge gelten nicht als Änderung im Sinne des Satzes 1.
 
 
 ### § 63 Zahlung und Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006500000)
 
 (1) Das Unterhaltsdarlehen ist monatlich im Voraus zum Ersten des
 Monats auszuzahlen.
@@ -2219,6 +2292,7 @@ Bescheid festzustellen.
 
 
 ### § 64 Verfügungen über das Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006600000)
 
 Sofern gesetzlich nichts anderes bestimmt ist, kann der Anspruch auf
 das Unterhaltsdarlehen nur insoweit abgetreten oder verpfändet werden,
@@ -2226,6 +2300,7 @@ als er der Pfändung unterliegt.
 
 
 ### § 65 Rückforderungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006700000)
 
 (1) Die Rückforderung eines zu viel gezahlten Unterhaltsdarlehens
 bestimmt sich nach den Vorschriften des Bürgerlichen Gesetzbuchs über
@@ -2256,6 +2331,7 @@ die ungerechtfertigte Auszahlung folgenden Monats.
 
 
 ### § 66 Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006800000)
 
 (1) Das Darlehen ist mit 3 Prozent jährlich zu verzinsen. Das Jahr
 wird mit 360 Tagen und jeder Monat mit 30 Tagen berechnet. Die
@@ -2286,6 +2362,7 @@ nicht fällig war.
 
 
 ## Teil 4 - Eignungsprüfung nach dem Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG001000000)
 
 [^BJNR343700017BJNG001000000]
 
@@ -2299,6 +2376,7 @@ nicht fällig war.
 [^BJNR343700017BJNG001000000]: 
 
 ### § 67 Prüfungstermine und Prüfungstage
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE006900000)
 
 Für die Bestimmung und Veröffentlichung der Prüfungstermine und der
 Prüfungstage der Eignungsprüfungen sowie für die Ankündigung des
@@ -2308,6 +2386,7 @@ Abstand von höchstens vier Monaten stattzufinden haben.
 
 
 ### § 68 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007000000)
 
 (1) Die Ablegung einer Eignungsprüfung nach dem Gesetz über die
 Tätigkeit europäischer Patentanwälte in Deutschland ist schriftlich
@@ -2329,6 +2408,7 @@ durch schriftlichen Bescheid zu entscheiden.
 
 
 ### § 69 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007100000)
 
 (1) Für die Abnahme der Eignungsprüfung hat das Deutsche Patent- und
 Markenamt aus den Mitgliedern der Prüfungskommission einen
@@ -2356,6 +2436,7 @@ ist nicht zulässig.
 
 
 ### § 70 Prüfungsteile und Bewertungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007200000)
 
 (1) Die Klausuren sollen die Lösung von Aufgaben aus der beruflichen
 Praxis eines Patentanwalts zum Gegenstand haben. Die Bearbeitungsdauer
@@ -2372,6 +2453,7 @@ Kenntnisse verfügt.
 
 
 ### § 71 Bewertung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007300000)
 
 Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses
 einzeln und unabhängig voneinander bewertet. Für die Bekanntgabe der
@@ -2379,6 +2461,7 @@ Bewertungen gilt § 49 Absatz 5 entsprechend.
 
 
 ### § 72 Beratung, Niederschrift und Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007400000)
 
 (1) Im Anschluss an den mündlichen Teil der Eignungsprüfung hat der
 Prüfungsausschuss in einer Beratung die Prüfungsentscheidung nach § 7
@@ -2424,6 +2507,7 @@ Bescheid aufzunehmen.
 
 
 ### § 73 Erste Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007500000)
 
 (1) Ein Antrag auf Wiederholung einer nicht bestandenen
 Eignungsprüfung ist beim Deutschen Patent- und Markenamt schriftlich
@@ -2441,6 +2525,7 @@ Bekanntgabe des Nichtbestehens der Eignungsprüfung erfolgt.
 
 
 ### § 74 Zweite Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007600000)
 
 (1) Wer die erste Wiederholung einer Eignungsprüfung nicht bestanden
 hat, kann sie unter den Voraussetzungen des § 55 Absatz 1 und 2 Satz 1
@@ -2452,6 +2537,7 @@ Eignungsprüfung gilt § 73 Absatz 2 entsprechend.
 
 
 ### § 75 Geltung weiterer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007700000)
 
 (1) Im Übrigen gelten für Eignungsprüfungen die §§ 33, 34, 37, 38, 39
 Absatz 2 Satz 2, die §§ 41, 42 Absatz 1, 2, 3 Satz 1 Nummer 4, Satz 2
@@ -2465,9 +2551,11 @@ Absatz 2 die Prüfungsgebühr auf die Hälfte ermäßigt.
 
 
 ## Teil 5 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNG001101311)
 
 
 ### § 76 Übergangsbestimmungen zu Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007801311)
 
 (1) Die Ausbildungshöchstdauer nach § 7 Nummer 1 gilt nicht für
 Ausbildungen, die vor dem 1. Oktober 2017 begonnen haben.
@@ -2482,6 +2570,7 @@ zuvor Gegenstand des Studiengangs waren.
 
 
 ### § 77 Übergangsvorschrift zu § 33
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE007901311)
 
 Für Mitglieder der Prüfungskommission, die vor dem 31. Juli 2022
 berufen wurden, gilt § 33 Absatz 3 Satz 1 in der bis zum 31. Juli 2022
@@ -2489,6 +2578,7 @@ geltenden Fassung.
 
 
 ### § 78 Übergangsbestimmungen zu Teil 3
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE008001311)
 
 Die Vorschriften über die Sicherung des Unterhalts nach Teil 3 gelten
 nur für Unterhaltsdarlehen, die ab dem 1. Oktober 2017 gewährt werden.
@@ -2497,6 +2587,7 @@ dieser Verordnung in der bis zum 30. September 2017 geltenden Fassung.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/patanwaprv/BJNR343700017.html#BJNR343700017BJNE008300000)
 
 Der Bundesrat hat zugestimmt.
 

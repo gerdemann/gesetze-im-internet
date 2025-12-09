@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_8/BJNR113000998.html#BJNR113000998BJNE000100305)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1,
@@ -31,6 +32,7 @@ Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_8/BJNR113000998.html#BJNR113000998BJNE000200305)
 
 Abweichend von § 21a Abs. 2 der Straßenverkehrs-Ordnung vom 16.
 November 1970 (BGBl. I S. 1565, 1971 I S. 38), die zuletzt durch die
@@ -49,11 +51,13 @@ Schutzhelm zu tragen, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_8/BJNR113000998.html#BJNR113000998BJNE000300305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_8/BJNR113000998.html#BJNR113000998BJNE000400305)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 1131 - 1133
 

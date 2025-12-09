@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkdnkg/BJNR202860988.html#BJNR202860988BJNE000100304)
 
 Dem in Tondern am 16. Mai 1985 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich Dänemark über die
@@ -29,6 +30,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkdnkg/BJNR202860988.html#BJNR202860988BJNE000200304)
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in Dänemark entstehen, trägt in den Fällen
@@ -50,12 +52,14 @@ Hilfemaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkdnkg/BJNR202860988.html#BJNR202860988BJNE000300304)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkdnkg/BJNR202860988.html#BJNR202860988BJNE000400304)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

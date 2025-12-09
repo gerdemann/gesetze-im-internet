@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000100000)
 
 Auf Grund des § 78a Abs. 3 der Bundesnotarordnung, der durch Artikel
 2b des Gesetzes vom 23. April 2004 (BGBl. I S. 598) eingefügt worden
@@ -27,6 +28,7 @@ ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Inhalt des Zentralen Vorsorgeregisters
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000204125)
 
 (1) Die Bundesnotarkammer stellt die Eintragung folgender
 personenbezogener Daten im Zentralen Vorsorgeregister sicher:
@@ -143,6 +145,7 @@ Notars und die Anschrift seiner Geschäftsstelle aufgenommen werden.
 
 
 ## § 2 Eintragungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000302125)
 
 (1) Die Eintragung erfolgt auf schriftlichen Antrag des
 Vollmachtgebers oder des einer Vertretung durch den Ehegatten
@@ -174,6 +177,7 @@ der mit dem Antrag übermittelten Angaben nicht.
 
 
 ## § 3 Vorschuss, Antragsrücknahme bei Nichtzahlung
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000400000)
 
 (1) Die Bundesnotarkammer kann die Zahlung eines zur Deckung der
 Gebühren hinreichenden Vorschusses verlangen. Sie kann die Vornahme
@@ -187,6 +191,7 @@ mitzuteilen. Die Frist darf 30 Tage nicht unterschreiten.
 
 
 ## § 4 Benachrichtigung des Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000501125)
 
 Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen
 Bevollmächtigten, der nicht schriftlich in die Speicherung der Daten
@@ -197,6 +202,7 @@ unberührt.
 
 
 ## § 5 Änderung, Ergänzung und Löschung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000601125)
 
 (1) Änderungen, Ergänzungen und Löschungen von Eintragungen erfolgen
 auf schriftlichen Antrag des Vollmachtgebers oder des einer Vertretung
@@ -216,6 +222,7 @@ löschen.
 
 
 ## § 6 Auskunft an Betreuungsgerichte, Landgerichte als Beschwerdegerichte und Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000704125)
 
 (1) Die Auskunft aus dem Register erfolgt im Wege eines
 automatisierten Verfahrens auf Abruf, sofern die Bundesnotarkammer
@@ -252,6 +259,7 @@ gewährleisten.
 
 
 ## § 7 Protokollierung der Auskunftserteilungen
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE000804125)
 
 (1) Die Zulässigkeit der Auskunftsersuchen prüft die Bundesnotarkammer
 nur, wenn sie dazu nach den Umständen des Einzelfalls Anlass hat. Für
@@ -299,6 +307,7 @@ bereits eingeleitete Prüfungen benötigt werden.
 
 
 ## § 8 Aufbewahrung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE001001125)
 
 Die ein einzelnes Eintragungs- oder Auskunftsverfahren betreffenden
 Dokumente hat die Bundesnotarkammer fünf Jahre aufzubewahren. Die
@@ -309,6 +318,7 @@ die Dokumente zu vernichten.
 
 
 ## § 9 Betreuungsverfügungen, Patientenverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE001103125)
 
 Im Zentralen Vorsorgeregister können auch Betreuungsverfügungen und
 Patientenverfügungen unabhängig von der Eintragung einer Vollmacht
@@ -316,6 +326,7 @@ registriert werden. Die §§ 1 bis 8 gelten entsprechend.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vregv/BJNR031800005.html#BJNR031800005BJNE001201125)
 
 Der Bundesrat hat zugestimmt.
 

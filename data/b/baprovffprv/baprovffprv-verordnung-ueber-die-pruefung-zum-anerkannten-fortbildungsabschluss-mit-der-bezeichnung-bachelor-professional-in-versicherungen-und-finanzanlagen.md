@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000100000)
 
 Auf Grund
 
@@ -40,6 +41,7 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -106,6 +108,7 @@ Versicherungen und Finanzanlagen“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -155,6 +158,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
@@ -168,6 +172,7 @@ Die Prüfung umfasst folgende Prüfungsteile:
 
 
 ## § 4 Prüfungsteil „Kundenbedarfsfelder“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000500000)
 
 (1) Der Prüfungsteil „Kundenbedarfsfelder“ umfasst folgende
 Prüfungsbereiche:
@@ -186,6 +191,7 @@ Prüfungsbereiche für die Prüfung auszuwählen.
 
 
 ## § 5 Prüfungsteil „Kernprozesse, Steuerung und Zusammenarbeit“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000600000)
 
 Der Prüfungsteil „Kernprozesse, Steuerung und Zusammenarbeit“ umfasst
 folgende Prüfungsbereiche:
@@ -200,6 +206,7 @@ folgende Prüfungsbereiche:
 
 
 ## § 6 Prüfungsbereich „Lösungen im Kundenbedarfsfeld Vorsorge“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000700000)
 
 Im Prüfungsbereich „Lösungen im Kundenbedarfsfeld Vorsorge“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, Kundenbedarfe
@@ -225,6 +232,7 @@ geprüft:
 
 
 ## § 7 Prüfungsbereich „Lösungen für Gewerbekunden im Kundenbedarfsfeld Sach- und Vermögensschutz“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000800000)
 
 Im Prüfungsbereich „Lösungen für Gewerbekunden im Kundenbedarfsfeld
 Sach- und Vermögensschutz“ hat die zu prüfende Person nachzuweisen,
@@ -247,6 +255,7 @@ werden folgende Qualifikationsinhalte geprüft:
 
 
 ## § 8 Prüfungsbereich „Kernprozesse gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE000900000)
 
 Im Prüfungsbereich „Kernprozesse gestalten“ hat die zu prüfende Person
 nachzuweisen, dass sie in der Lage ist, komplexe Aufgaben in den
@@ -321,6 +330,7 @@ folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 9 Prüfungsbereich „Steuerung, Zusammenarbeit und Leadership“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001000000)
 
 Im Prüfungsbereich „Steuerung, Zusammenarbeit und Leadership“ hat die
 zu prüfende Person nachzuweisen, dass sie in der Lage ist, Prozesse in
@@ -449,6 +459,7 @@ wird aus den folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 10 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001100000)
 
 (1) Die Prüfung im Prüfungsteil „Kundenbedarfsfelder“ nach § 3 Nummer
 1 besteht aus einer schriftlichen Prüfung nach § 11.
@@ -475,6 +486,7 @@ vertreten ist.
 
 
 ## § 11 Schriftliche Prüfung im Prüfungsteil „Kundenbedarfsfelder“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001200000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer oder mehrerer komplexer Kundensituationen, aus denen die
@@ -497,6 +509,7 @@ Form von schriftlich unter Aufsicht zu bearbeitenden Aufgaben.
 
 
 ## § 12 Schriftliche Prüfung im Prüfungsteil „Kernprozesse, Steuerung und Zusammenarbeit“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001300000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 von drei komplexen betrieblichen Situationen, aus denen die
@@ -520,6 +533,7 @@ Form von schriftlich unter Aufsicht zu bearbeitenden Aufgaben.
 
 
 ## § 13 Praxisbezogene Prüfung im Prüfungsteil „Kernprozesse, Steuerung und Zusammenarbeit“
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001400000)
 
 (1) Die praxisbezogene Prüfung besteht aus drei Prüfungsleistungen in
 Form einer schriftlichen Praxistransferarbeit, einer Präsentation und
@@ -579,6 +593,7 @@ Prüfungsbereichs nach § 9 einzubeziehen.
 
 
 ## § 14 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001500000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -610,6 +625,7 @@ als Prüfungsleistungen jeweils einzeln zu bewerten:
 
 
 ## § 15 Bestehen der Prüfung, Gewichtung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001600000)
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen ohne
 Rundung jeweils mindestens 50 Punkte erreicht worden sind.
@@ -663,6 +679,7 @@ ist die Gesamtnote.
 
 
 ## § 16 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001700000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -673,6 +690,7 @@ sich die Anteile nach § 14 Absatz 2, Absatz 3 oder § 15 Absatz 3 Satz
 
 
 ## § 17 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001800000)
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -699,6 +717,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 18 Wiederholung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE001900000)
 
 (1) Prüfungsleistungen, die mit weniger als 50 Punkten bewertet worden
 sind, dürfen nach Maßgabe der Absätze 2 und 3 wiederholt werden.
@@ -726,6 +745,7 @@ gesamte Prüfung als nicht bestanden.
 
 
 ## § 19 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE002000000)
 
 Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wurden
 auch die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und
@@ -735,6 +755,7 @@ das Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 
 
 ## § 20 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE002100000)
 
 (1) Prüfungsverfahren, die nach der Verordnung über die Prüfung zum
 anerkannten Abschluss Geprüfter Fachwirt für Versicherungen und
@@ -758,6 +779,7 @@ ohne Beachtung des Termins zu Ende zu führen.
 
 
 ## § 21 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE002200000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -769,6 +791,7 @@ S. 2153) geändert worden ist, außer Kraft.
 (zu den §§ 14 und 15)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE002300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 378, S. 9 - 10)
 
@@ -1070,6 +1093,7 @@ S. 2153) geändert worden ist, außer Kraft.
 (zu § 17)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/baprovffprv/BJNR17A0A0024.html#BJNR17A0A0024BJNE002400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 378, S. 11)
 

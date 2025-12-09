@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2024-02-20_3/BJNR0530A0024.html#BJNR0530A0024BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „75 Jahre
@@ -61,11 +62,13 @@ und wird von einem schützenden, glatten Randstab umgeben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2024-02-20_3/BJNR0530A0024.html#BJNR0530A0024BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2024-02-20_3/BJNR0530A0024.html#BJNR0530A0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 83, S. 2)
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pkdbv/BJNR016600006.html#BJNR016600006BJNE000100000)
 
 Auf Grund des § 1 Abs. 2 des Gesetzes zur Neuordnung der Pensionskasse
 Deutscher Eisenbahnen und Straßenbahnen in der im Bundesgesetzblatt
@@ -32,6 +33,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Feststellung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbv/BJNR016600006.html#BJNR016600006BJNE000201118)
 
 Die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG
 (Pensionskasse) hat die nachstehend veröffentlichte Satzung (Satzung
@@ -39,6 +41,7 @@ im Sinn des § 173 Absatz 1 des Versicherungsaufsichtsgesetzes).
 
 
 ## § 2 Satzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbv/BJNR016600006.html#BJNR016600006BJNE000300000)
 
 Die nach § 1 festgestellte Satzung kann von der Pensionskasse künftig
 im Wege des in dieser Satzung vorgesehenen Verfahrens unter
@@ -47,6 +50,7 @@ geltenden Rechtsvorschriften geändert werden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbv/BJNR016600006.html#BJNR016600006BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2006 in Kraft.
 

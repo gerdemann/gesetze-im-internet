@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Aufbewahrung und Speicherung von Akten
+[Direktlink](https://www.gesetze-im-internet.de/schrag/BJNR085200005.html#BJNR085200005BJNE000102360)
 
 Akten der Gerichte und der Staatsanwaltschaften, die für das Verfahren
 nicht mehr erforderlich sind, dürfen nach Beendigung des Verfahrens
@@ -35,6 +36,7 @@ Archivgesetze des Bundes und der Länder bleiben unberührt.
 
 
 ## § 2 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schrag/BJNR085200005.html#BJNR085200005BJNE000203360)
 
 (1) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
 des Bundesrates das Nähere über die Aufbewahrung und Speicherung nach

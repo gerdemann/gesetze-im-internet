@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000000000)
 
 Auf Grund des § 39 des Mitbestimmungsgesetzes vom 4. Mai 1976 (BGBl. I
 S. 1153) verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000100000)
 
 (1) Besteht ein Unternehmen, in dem die Arbeitnehmerinnen und
 Arbeitnehmer nach § 1 Abs. 1 des Gesetzes ein Mitbestimmungsrecht
@@ -45,18 +47,22 @@ bestimmt sich nach den Vorschriften des Teils 2.
 
 
 ## Teil 1 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000100000)
 
 
 
 ### Kapitel 1 - Einleitung der Wahl, Abstimmung über die Art der Wahl, Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000200000)
 
 
 
 #### Abschnitt 1 - Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000400000)
 
 
 
 ##### § 2 Bekanntmachung des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000201119)
 
 (1) Das Unternehmen macht spätestens 19 Wochen vor dem
 voraussichtlichen Beginn der Amtszeit der zu wählenden
@@ -124,12 +130,14 @@ eine Kopie der Bekanntmachung
 
 
 ##### § 3 Betriebswahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000300000)
 
 Die rechtzeitige Einleitung und die Durchführung der Wahl sowie die
 Feststellung des Wahlergebnisses obliegen dem Betriebswahlvorstand.
 
 
 ##### § 4 Bildung des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000400000)
 
 Der Betriebswahlvorstand wird unverzüglich nach der in § 2
 bezeichneten Bekanntmachung gebildet. Die Geschlechter sollen
@@ -137,6 +145,7 @@ entsprechend ihrem zahlenmäßigen Verhältnis vertreten sein.
 
 
 ##### § 5 Zusammensetzung des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000500000)
 
 (1) Der Betriebswahlvorstand besteht aus drei Mitgliedern. Der
 Betriebsrat kann die Zahl der Mitglieder erhöhen, wenn dies zur
@@ -169,6 +178,7 @@ Stimmen gewählt.
 
 
 ##### § 6 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000600000)
 
 Der Betriebswahlvorstand teilt unverzüglich nach seiner Bildung dem
 Unternehmen und den im Unternehmen vertretenen Gewerkschaften
@@ -176,6 +186,7 @@ schriftlich die Namen seiner Mitglieder und seine Anschrift mit.
 
 
 ##### § 7 Geschäftsführung des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000700000)
 
 (1) Der Betriebswahlvorstand wählt aus seiner Mitte eine Vorsitzende
 oder einen Vorsitzenden und mindestens eine Stellvertreterin oder
@@ -224,6 +235,7 @@ Weise unterrichtet werden.
 
 
 ##### § 8 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000800000)
 
 (1) Der Betriebswahlvorstand stellt unverzüglich nach seiner Bildung
 eine Liste der Wahlberechtigten des Betriebs (Wählerliste) auf,
@@ -274,6 +286,7 @@ Arbeitnehmer teilnehmen, die in der Wählerliste eingetragen sind.
 
 
 ##### § 9 Bekanntmachung über die Bildung des Betriebswahlvorstands und die Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE000900000)
 
 (1) Die Einsichtnahme in die Wählerliste, das Gesetz und diese
 Verordnung ist unverzüglich bis zum Abschluss der Wahl der
@@ -344,6 +357,7 @@ enthalten:
 
 
 ##### § 10 Änderungsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001000000)
 
 (1) Jede Arbeitnehmerin und jeder Arbeitnehmer kann innerhalb von
 einer Woche seit Erlass der Bekanntmachung nach § 9 Abs. 2 und 3
@@ -363,6 +377,7 @@ Arbeitsgericht von einem Mitglied des Betriebswahlvorstands, das dem
 
 
 ##### § 11 Einsprüche gegen die Richtigkeit der Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001100000)
 
 (1) Gegen die Richtigkeit der Wählerliste kann Einspruch eingelegt
 werden, soweit nicht nach § 10 Abs. 1 eine Änderung der Eintragung als
@@ -382,10 +397,12 @@ Einspruch eingelegt hat, unverzüglich schriftlich mit.
 
 
 #### Abschnitt 2 - Abstimmung über die Art der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000500000)
 
 
 
 ##### § 12 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001200000)
 
 (1) In einem Unternehmen mit in der Regel insgesamt nicht mehr als
 8\.000 Arbeitnehmerinnen und Arbeitnehmern erlässt der
@@ -484,6 +501,7 @@ vertretenen Gewerkschaften.
 
 
 ##### § 13 Antrag auf Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001300000)
 
 (1) In einem Unternehmen mit in der Regel insgesamt nicht mehr als
 8\.000 Arbeitnehmerinnen und Arbeitnehmern kann ein Antrag auf
@@ -514,6 +532,7 @@ oder dem an erster Stelle Unterzeichnenden schriftlich mit.
 
 
 ##### § 14 Abstimmungsausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001400000)
 
 (1) Liegt ein gültiger Antrag nach § 13 vor, so erlässt der
 Betriebswahlvorstand unverzüglich ein Abstimmungsausschreiben. Die
@@ -567,6 +586,7 @@ Bekanntmachung. § 12 Abs. 4 ist entsprechend anzuwenden.
 
 
 ##### § 15 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001501308)
 
 (1) Die Stimmzettel für die Abstimmung dürfen nur den Antrag und die
 Frage an die Abstimmungsberechtigten enthalten, ob sie für oder gegen
@@ -582,6 +602,7 @@ die in Absatz 1 bezeichneten Angaben, einen Zusatz oder sonstige
 
 
 ##### § 16 Abstimmungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001601308)
 
 (1) Der Betriebswahlvorstand hat geeignete Vorkehrungen für die
 unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und
@@ -625,10 +646,12 @@ davon zu überzeugen, dass der Verschluss unversehrt ist.
 
 
 ##### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001702119)
 
 
 
 ##### § 18 Voraussetzungen der schriftlichen Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001800000)
 
 (1) Abstimmungsberechtigten, die im Zeitpunkt der Abstimmung wegen
 Abwesenheit vom Betrieb verhindert sind, ihre Stimme persönlich
@@ -684,6 +707,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 
 ##### § 19 Verfahren bei der schriftlichen Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE001901308)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass die abstimmende Person
 
@@ -722,6 +746,7 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### § 20 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002002119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -739,6 +764,7 @@ sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
 
 ##### § 21 Abstimmungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002102119)
 
 Nachdem das Abstimmungsergebnis ermittelt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift fest:
@@ -769,6 +795,7 @@ Betriebswahlvorstand in einer Niederschrift fest:
 
 
 ##### § 22 Bekanntmachung des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002200000)
 
 Der Betriebswahlvorstand macht das Abstimmungsergebnis für die Dauer
 von zwei Wochen in gleicher Weise wie das Abstimmungsausschreiben
@@ -776,14 +803,17 @@ bekannt.
 
 
 #### Abschnitt 3 - Verteilung der Sitze, Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000600000)
 
 
 
 ##### Unterabschnitt 1 - Verteilung der Sitze der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000700000)
 
 
 
 ###### § 23 Verteilung der Sitze der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002300000)
 
 (1) Der Betriebswahlvorstand stellt die Verteilung der Sitze der
 unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer auf
@@ -817,10 +847,12 @@ Arbeitnehmer vermindert sich entsprechend.
 
 
 ##### Unterabschnitt 2 - Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000800000)
 
 
 
 ###### § 24 Bekanntmachung über die Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002401119)
 
 (1) Der Betriebswahlvorstand erlässt gleichzeitig mit der
 Bekanntmachung nach § 12 eine Bekanntmachung über die Einreichung von
@@ -951,6 +983,7 @@ vertretenen Gewerkschaften.
 
 
 ###### § 25 Wahlvorschläge der in § 3 Abs. 1 Nr. 1 des Gesetzes bezeichneten Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002500000)
 
 (1) Zur Wahl der Aufsichtsratsmitglieder der in § 3 Abs. 1 Nr. 1 des
 Gesetzes bezeichneten Arbeitnehmer können die wahlberechtigten in § 3
@@ -1023,6 +1056,7 @@ Wahlvorschlägen zu streichen.
 
 
 ###### § 26 Wahlvorschläge der Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002600000)
 
 (1) Zur Wahl von Aufsichtsratsmitgliedern, die Vertreterinnen oder
 Vertreter von Gewerkschaften sind, können die in dem Unternehmen
@@ -1042,6 +1076,7 @@ Person als Vorschlagsvertreter benennen.
 
 
 ###### § 27 Wahlvorschläge für Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002700000)
 
 (1) In jedem Wahlvorschlag kann für jede Bewerberin oder für jeden
 Bewerber jeweils ein Ersatzmitglied des Aufsichtsrats vorgeschlagen
@@ -1065,10 +1100,12 @@ Abs. 5 Satz 2 ist entsprechend anzuwenden.
 
 
 ##### Unterabschnitt 3 - Zusätzliche Vorschriften für den Wahlvorschlag der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG000900000)
 
 
 
 ###### § 28 Bekanntmachung über die Abstimmung für den Wahlvorschlag der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002801119)
 
 (1) Der Betriebswahlvorstand erlässt gleichzeitig mit der
 Bekanntmachung nach § 12 eine Bekanntmachung über die Abstimmung für
@@ -1165,6 +1202,7 @@ folgende Angaben enthalten:
 
 
 ###### § 29 Abstimmungsvorschläge der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE002901119)
 
 (1) Für den Beschluss über den Wahlvorschlag der leitenden
 Angestellten können die wahlberechtigten leitenden Angestellten
@@ -1209,6 +1247,7 @@ bestimmten Frist erneut dazu auf, Abstimmungsvorschläge einzureichen.
 
 
 ###### § 30 Abstimmung der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003002119)
 
 (1) Der Betriebswahlvorstand setzt den Tag der Abstimmung der
 leitenden Angestellten so fest, dass der Wahlvorschlag der leitenden
@@ -1284,6 +1323,7 @@ entsprechend anzuwenden.
 
 
 ###### § 31 Abstimmungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003102119)
 
 Nach Abschluss der Abstimmung stellt der Betriebswahlvorstand in einer
 Niederschrift fest:
@@ -1313,10 +1353,12 @@ Niederschrift fest:
 
 
 ##### Unterabschnitt 4 - Prüfung und Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001000000)
 
 
 
 ###### § 32 Prüfung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003200000)
 
 (1) Der Betriebswahlvorstand bestätigt dem Vorschlagsvertreter
 schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
@@ -1330,6 +1372,7 @@ schriftlich unter Angabe der Gründe zu unterrichten.
 
 
 ###### § 33 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003301119)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -1376,6 +1419,7 @@ beseitigt worden sind.
 
 
 ###### § 34 Nachfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003400000)
 
 (1) Ist nach Ablauf der für die Einreichung von Wahlvorschlägen
 bestimmten Frist für einen in § 25 Abs. 4 Nr. 1 und 3 bezeichneten
@@ -1416,6 +1460,7 @@ unverzüglich bekannt, dass der Wahlgang nicht stattfindet.
 
 
 ###### § 35 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003500000)
 
 (1) Sind für einen Wahlgang, in dem mehrere Aufsichtsratsmitglieder
 der Arbeitnehmer zu wählen sind, mehrere Wahlvorschläge eingereicht,
@@ -1430,10 +1475,12 @@ getrennt, bekannt; § 24 Abs. 3 und 4 ist entsprechend anzuwenden.
 
 
 #### Abschnitt 4 - Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001100000)
 
 
 
 ##### § 36 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003600000)
 
 (1) Sind die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer
 Wahl zu wählen, so richtet sich das weitere Wahlverfahren nach den
@@ -1445,14 +1492,17 @@ Vorschriften des Kapitels 3.
 
 
 ### Kapitel 2 - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001200000)
 
 
 
 #### Abschnitt 1 - Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001300000)
 
 
 
 ##### § 37 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003701119)
 
 Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer in
 unmittelbarer Wahl zu wählen sind, so erlässt der Betriebswahlvorstand
@@ -1531,14 +1581,17 @@ Für die Bekanntmachung ist § 24 Abs. 3 und 4 entsprechend anzuwenden.
 
 
 #### Abschnitt 2 - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001400000)
 
 
 
 ##### Unterabschnitt 1 - Wahl mehrerer Aufsichtsratmitglieder der Arbeitnehmer in einem Wahlgang auf Grund mehrerer Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001500000)
 
 
 
 ###### § 38 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003802119)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegen für diesen Wahlgang mehrere gültige
@@ -1585,6 +1638,7 @@ gesondert zu vermerken.
 
 
 ###### § 39 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE003902119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -1602,6 +1656,7 @@ sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
 
 ###### § 40 Verteilung der Stimmenzahlen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004001119)
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen
 Stimmenzahlen werden in einer Reihe nebeneinander gestellt und
@@ -1630,10 +1685,12 @@ Benennung.
 
 
 ##### Unterabschnitt 2 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001600000)
 
 
 
 ###### § 41 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004101308)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegt für diesen Wahlgang nur ein gültiger
@@ -1679,6 +1736,7 @@ werden, als in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind. §
 
 
 ###### § 42 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004202119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -1693,6 +1751,7 @@ ein Bewerber mehrfach angekreuzt, so zählt dies als eine Stimme.
 
 
 ###### § 43 Verteilung der Stimmen auf die Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004301119)
 
 Der Betriebswahlvorstand bestimmt so viele Bewerberinnen und Bewerber,
 wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der
@@ -1701,10 +1760,12 @@ Stimmengleichheit entscheidet das Los.
 
 
 ##### Unterabschnitt 3 - Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001700000)
 
 
 
 ###### § 44 Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004400000)
 
 (1) Ist in einem Wahlgang nur ein Aufsichtsratsmitglied der
 Arbeitnehmer zu wählen, so kann die Wählerin ihre und der Wähler seine
@@ -1731,10 +1792,12 @@ Bewerber angekreuzt werden. § 38 Abs. 3 Satz 2, § 41 Abs. 4 und die §§
 
 
 ##### Unterabschnitt 4 - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001800000)
 
 
 
 ###### § 45 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004500000)
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen
 Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich
@@ -1797,6 +1860,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 
 ###### § 46 Verfahren bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004601308)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass die Wählerin oder der
 Wähler
@@ -1837,10 +1901,12 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### Unterabschnitt 5 - Ermittlung der Gewählten, Wahlniederschrift, Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG001901119)
 
 
 
 ###### § 46a Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009700119)
 
 (1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach §
 38, einem Wahlgang nach § 41 und in einem Wahlgang nach § 44 so viele
@@ -1853,6 +1919,7 @@ Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 46b Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009800119)
 
 (1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in
 einem Wahlgang nach § 38, einem Wahlgang nach § 41 und in einem
@@ -1865,6 +1932,7 @@ Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 46c Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009900119)
 
 (1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung
 die Höchstzahlen nach § 40 der Größe nach auf die Bewerberinnen und
@@ -1894,6 +1962,7 @@ Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 47 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004702119)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
@@ -1948,6 +2017,7 @@ Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
 
 
 ###### § 48 Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004801119)
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der
 Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
@@ -1978,6 +2048,7 @@ Adressaten der Absätze 1 und 2 zusätzlich
 
 
 ###### § 49 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE004900000)
 
 Der Betriebswahlvorstand übergibt die Wahlakten dem Unternehmen. Das
 Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf
@@ -1985,18 +2056,22 @@ Jahren auf.
 
 
 ### Kapitel 3 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002000000)
 
 
 
 #### Abschnitt 1 - Wahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002100000)
 
 
 
 ##### Unterabschnitt 1 - Delegierte mit Mehrfachmandat
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002200000)
 
 
 
 ###### § 50 Keine Wahl von Delegierten nach diesem Unterabschnitt, wenn in dem Unternehmen für die Wahl von Aufsichtsratsmitgliedern anderer Unternehmen Delegierte mit Mehrfachmandat gewählt werden
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005000000)
 
 (1) Sind die Aufsichtsratsmitglieder der Arbeitnehmer des Unternehmens
 durch Delegierte zu wählen und nehmen die Arbeitnehmerinnen und
@@ -2015,6 +2090,7 @@ Abschnitts nicht statt.
 
 
 ###### § 51 Delegierte, die zugleich für die Wahl von Aufsichtsratsmitgliedern anderer Unternehmen gewählt werden
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005100000)
 
 Nehmen die Arbeitnehmerinnen und Arbeitnehmer des Unternehmens auch an
 der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer anderer
@@ -2030,10 +2106,12 @@ Delegierten gefasst werden.
 
 
 ##### Unterabschnitt 2 - Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002300000)
 
 
 
 ###### § 52 Errechnung der Zahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005200000)
 
 (1) Der Betriebswahlvorstand errechnet die Zahl der zu wählenden
 Delegierten sowie ihre Verteilung auf die in § 3 Abs. 1 Nr. 1 des
@@ -2117,6 +2195,7 @@ Delegierten entsprechend.
 
 
 ###### § 53 Wahlausschreiben für die Wahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005300000)
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer
 durch Delegierte zu wählen sind, so erlässt der Betriebswahlvorstand
@@ -2224,10 +2303,12 @@ entsprechend anzuwenden.
 
 
 ##### Unterabschnitt 3 - Wahlvorschläge für Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002400000)
 
 
 
 ###### § 54 Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005401308)
 
 (1) Zur Wahl der Delegierten können die Wahlberechtigten
 Wahlvorschläge machen. Jeder Wahlvorschlag für Delegierte
@@ -2289,6 +2370,7 @@ Wahlvorschlägen zu streichen.
 
 
 ###### § 55 Prüfung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005500000)
 
 (1) Der Betriebswahlvorstand bestätigt dem Vorschlagsvertreter
 schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
@@ -2302,6 +2384,7 @@ schriftlich unter Angabe der Gründe zu unterrichten.
 
 
 ###### § 56 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005600000)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -2339,6 +2422,7 @@ beseitigt worden sind.
 
 
 ###### § 57 Nachfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005700000)
 
 (1) Ist nach Ablauf der für die Einreichung von Wahlvorschlägen
 bestimmten Frist für einen Wahlgang kein gültiger Wahlvorschlag
@@ -2370,6 +2454,7 @@ unverzüglich bekannt, dass der Wahlgang nicht stattfindet.
 
 
 ###### § 58 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005800000)
 
 (1) Sind für einen Wahlgang mehrere Wahlvorschläge eingereicht, so
 ermittelt der Betriebswahlvorstand durch das Los nach Ablauf der in §
@@ -2390,10 +2475,12 @@ gelten, wie in dem Wahlgang Delegierte zu wählen sind.
 
 
 ##### Unterabschnitt 4 - Wahl von Delegierten in einem Wahlgang auf Grund mehrerer Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002500000)
 
 
 
 ###### § 59 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE005902119)
 
 (1) Liegen für einen Wahlgang mehrere gültige Wahlvorschläge vor, so
 kann die Wählerin ihre und der Wähler seine Stimme nur für einen
@@ -2438,6 +2525,7 @@ gesondert zu vermerken.
 
 
 ###### § 60 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006002119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -2455,6 +2543,7 @@ sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
 
 ###### § 61 Ermittlung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006100000)
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen
 Stimmenzahlen werden in einer Reihe nebeneinander gestellt und
@@ -2481,10 +2570,12 @@ Benennung.
 
 
 ##### Unterabschnitt 5 - Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags für einen Wahlgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002600000)
 
 
 
 ###### § 62 Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags für einen Wahlgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006200000)
 
 (1) Liegt für einen Wahlgang nur ein gültiger Wahlvorschlag vor, so
 gelten so viele der darin aufgeführten Bewerberinnen und Bewerber in
@@ -2497,10 +2588,12 @@ gelten.
 
 
 ##### Unterabschnitt 6 - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002700000)
 
 
 
 ###### § 63 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006300000)
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen
 Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich
@@ -2563,6 +2656,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 
 ###### § 64 Verfahren bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006401308)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass die Wählerin oder der
 Wähler
@@ -2603,10 +2697,12 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### Unterabschnitt 7 - Wahlniederschrift, Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002800000)
 
 
 
 ###### § 65 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006502119)
 
 Nachdem ermittelt ist, wer als Delegierter gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
@@ -2651,6 +2747,7 @@ gesondert fest:
 
 
 ###### § 66 Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006600000)
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der
 Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
@@ -2661,10 +2758,12 @@ Mehrfachmandat, so ist dies in der Benachrichtigung anzugeben.
 
 
 ##### Unterabschnitt 8 - Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG002900000)
 
 
 
 ###### § 67 Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006700000)
 
 Die Vorschriften der Unterabschnitte 1 bis 7 sind nicht anzuwenden,
 wenn nach den Vorschriften dieser Verordnung oder, unter den in § 50
@@ -2676,14 +2775,17 @@ des Gesetzes).
 
 
 #### Abschnitt 2 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003000000)
 
 
 
 ##### Unterabschnitt 1 - Delegiertenversammlung, Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003100000)
 
 
 
 ###### § 68 Delegiertenversammlung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006800000)
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder der
 Arbeitnehmer in einer Versammlung (Delegiertenversammlung). Sie wird
@@ -2698,6 +2800,7 @@ Aufsichtsratsmitglieder der Arbeitnehmer stattfinden.
 
 
 ###### § 69 Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE006900000)
 
 (1) Der Betriebswahlvorstand stellt eine Liste der Delegierten
 (Delegiertenliste), getrennt nach Delegierten der in § 3 Abs. 1 Nr. 1
@@ -2717,6 +2820,7 @@ ermöglicht werden.
 
 
 ###### § 70 Einsprüche gegen die Richtigkeit der Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007000000)
 
 (1) Einsprüche gegen die Richtigkeit der Delegiertenliste können vor
 Beginn der Stimmabgabe beim Betriebswahlvorstand eingelegt werden.
@@ -2735,10 +2839,12 @@ bis vor Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
 
 ##### Unterabschnitt 2 - Mitteilung an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003200000)
 
 
 
 ###### § 71 Mitteilung an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007101119)
 
 (1) Der Betriebswahlvorstand teilt jedem Delegierten spätestens zwei
 Wochen vor dem Tag der Delegiertenversammlung mit:
@@ -2828,10 +2934,12 @@ dies dem Betriebswahlvorstand mit.
 
 
 ##### Unterabschnitt 3 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund mehrerer Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003300000)
 
 
 
 ###### § 72 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007202119)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegen für diesen Wahlgang mehrere gültige
@@ -2886,6 +2994,7 @@ Stimmauszählung ungefaltete Stimmzettel erfordert.
 
 
 ###### § 73 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007302119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -2904,6 +3013,7 @@ ungültig.
 
 
 ###### § 74 Verteilung der Stimmenzahlen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007401119)
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen
 Stimmenzahlen werden in einer Reihe nebeneinander gestellt und
@@ -2932,10 +3042,12 @@ Benennung.
 
 
 ##### Unterabschnitt 4 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003400000)
 
 
 
 ###### § 75 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007501308)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegt für diesen Wahlgang nur ein gültiger
@@ -2984,6 +3096,7 @@ anzuwenden.
 
 
 ###### § 76 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007602119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -2998,6 +3111,7 @@ angekreuzt, so zählt dies als eine Stimme.
 
 
 ###### § 77 Verteilung der Stimmen auf die Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007701119)
 
 Der Betriebswahlvorstand bestimmt so viele Bewerberinnen und Bewerber,
 wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der
@@ -3006,10 +3120,12 @@ Stimmengleichheit entscheidet das Los.
 
 
 ##### Unterabschnitt 5 - Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003500000)
 
 
 
 ###### § 78 Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007801308)
 
 (1) Ist in einem Wahlgang nur ein Aufsichtsratsmitglied der
 Arbeitnehmer zu wählen, so kann der Delegierte seine Stimme nur für
@@ -3035,10 +3151,12 @@ Abs. 4 und die §§ 76 und 77 sind anzuwenden.
 
 
 ##### Unterabschnitt 6 - Ermittlung der Gewählten, Wahlniederschrift, Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003601119)
 
 
 
 ###### § 78a Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE010000119)
 
 (1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach §
 72, einem Wahlgang nach § 75 und in einem Wahlgang nach § 78 so viele
@@ -3051,6 +3169,7 @@ Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 78b Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE010100119)
 
 (1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in
 einem Wahlgang nach § 72, einem Wahlgang nach § 75 und in einem
@@ -3063,6 +3182,7 @@ Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 78c Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE010200119)
 
 (1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung
 die Höchstzahlen nach § 74 der Größe nach auf die Bewerberinnen und
@@ -3092,6 +3212,7 @@ Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 79 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE007902119)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
@@ -3146,6 +3267,7 @@ Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
 
 
 ###### § 80 Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008001119)
 
 (1) Der Betriebswahlvorstand gibt das Wahlergebnis und die Namen der
 Gewählten in der Delegiertenversammlung bekannt. Er macht das
@@ -3177,6 +3299,7 @@ der Betriebswahlvorstand die Adressaten der Absätze 1 und 2 zusätzlich
 
 
 ###### § 81 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008100000)
 
 Der Betriebswahlvorstand übergibt die Wahlakten dem Unternehmen. Das
 Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf
@@ -3184,14 +3307,17 @@ Jahren auf.
 
 
 ## Teil 2 - Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003700000)
 
 
 
 ### Kapitel 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003800000)
 
 
 
 #### § 82 Einleitung des Abberufungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008200000)
 
 (1) Ein Antrag auf Abberufung eines Aufsichtsratsmitglieds der
 Arbeitnehmer nach § 23 Abs. 1 des Gesetzes ist schriftlich beim
@@ -3211,6 +3337,7 @@ dessen Abberufung beantragt wird, entstandenen Wahlakten zu übergeben.
 
 
 #### § 83 Liste der antragsberechtigten Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008300000)
 
 Wird die Abberufung eines unternehmensangehörigen
 Aufsichtsratsmitglieds der Arbeitnehmer beantragt, so wird
@@ -3223,6 +3350,7 @@ enthalten.
 
 
 #### § 84 Prüfung des Antrags auf Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008400000)
 
 (1) Der Betriebswahlvorstand prüft unverzüglich nach Ablauf der in §
 83 Satz 2, § 10 Abs. 1 bestimmten Frist die Gültigkeit des Antrags auf
@@ -3240,6 +3368,7 @@ Wochen bekannt.
 
 
 #### § 85 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008500000)
 
 (1) Liegt ein gültiger Antrag vor, so stellt der Betriebswahlvorstand
 fest, ob das Aufsichtsratsmitglied, dessen Abberufung beantragt ist,
@@ -3255,10 +3384,12 @@ Abberufungsverfahren nach den Vorschriften des Kapitels 3.
 
 
 ### Kapitel 2 - Abstimmung über die Abberufung eines in unmittelbarer Wahl gewählten Aufsichtsratsmitglieds der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG003900000)
 
 
 
 #### § 86 Abberufungsausschreiben, Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008600000)
 
 (1) Der Betriebswahlvorstand erlässt unverzüglich ein
 Abberufungsausschreiben. Die Abstimmung soll innerhalb von vier Wochen
@@ -3321,6 +3452,7 @@ erforderlich ist.
 
 
 #### § 87 Abstimmung, Abstimmungsergebnis, Akten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008700000)
 
 (1) Für die Abstimmung sind die §§ 16 bis 21 anzuwenden.
 
@@ -3347,10 +3479,12 @@ entstandenen Akten ist § 49 entsprechend anzuwenden.
 
 
 ### Kapitel 3 - Abstimmung über die Abberufung eines durch Delegierte gewählten Aufsichtsratsmitglieds der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG004000000)
 
 
 
 #### § 88 Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008800000)
 
 Der Betriebswahlvorstand stellt für die Abberufung unverzüglich eine
 Liste der Delegierten (Delegiertenliste) auf. § 8 Abs. 1 Satz 2 und 3,
@@ -3358,6 +3492,7 @@ Abs. 3 und 5, § 69 Abs. 2 und 3 und § 70 sind entsprechend anzuwenden.
 
 
 #### § 89 Delegiertenversammlung, Mitteilung des Betriebswahlvorstands an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE008900000)
 
 (1) Die Delegierten stimmen über den Antrag auf Abberufung in einer
 Versammlung (Delegiertenversammlung) ab. Die Delegiertenversammlung
@@ -3413,6 +3548,7 @@ zwei Wochen vor der Delegiertenversammlung übersandt werden.
 
 
 #### § 90 Abstimmung, Abstimmungsergebnis, Akten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009002119)
 
 Für die Abstimmung, das Abstimmungsergebnis und die Aufbewahrung der
 Akten sind die §§ 15, 16, 20, 21 und 72 Absatz 1 Satz 3 und 4, Absatz
@@ -3421,20 +3557,24 @@ entsprechend anzuwenden.
 
 
 ### Kapitel 4 - Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG004100000)
 
 
 
 #### § 91 Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009100000)
 
 Für die Abberufung von Ersatzmitgliedern (§ 23 Abs. 4 des Gesetzes)
 sind die Vorschriften der Kapitel 1 bis 3 entsprechend anzuwenden.
 
 
 ## Teil 3 - Unternehmen mit Mehrheitsbeteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG004300126)
 
 
 
 ### § 91a Geschlechteranteil in nicht börsennotierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE010300126)
 
 Für nicht börsennotierte Unternehmen mit Mehrheitsbeteiligung des
 Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a
@@ -3444,10 +3584,12 @@ Geschlechteranteil bei börsennotierten Unternehmen entsprechend.
 
 
 ## Teil 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNG004201126)
 
 
 
 ### § 92 Erstmalige Anwendung des Gesetzes auf ein Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009200000)
 
 (1) Bei der erstmaligen Anwendung des Gesetzes auf ein Unternehmen hat
 das Unternehmen die in § 2 bezeichnete Bekanntmachung unverzüglich
@@ -3467,6 +3609,7 @@ erlassen.
 
 
 ### § 93 Berechnung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009300000)
 
 Für die Berechnung der in dieser Verordnung bestimmten Fristen sind
 die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechend
@@ -3475,6 +3618,7 @@ Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage.
 
 
 ### § 94 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009402126)
 
 Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
 einschließlich 31. März 2022 abgeschlossen sind, ist diese Verordnung
@@ -3482,6 +3626,7 @@ in der bis zum 11. August 2021 geltenden Fassung anzuwenden.
 
 
 ### § 95 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestgwo_1_2002/BJNR168200002.html#BJNR168200002BJNE009500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

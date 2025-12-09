@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000206360)
 
 (1) Dieses Gesetz gilt für die Beförderung gefährlicher Güter mit
 Eisenbahn-, Magnetschwebebahn-, Straßen-, Wasser- und Luftfahrzeugen
@@ -68,6 +69,7 @@ Es findet keine Anwendung auf die Beförderung
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000304360)
 
 (1) Gefährliche Güter im Sinne dieses Gesetzes sind Stoffe und
 Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder
@@ -96,6 +98,7 @@ dürfen während des zeitweiligen Aufenthaltes nicht geöffnet werden.
 
 
 ## § 3 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000409305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen und
@@ -246,10 +249,12 @@ soweit sicherheitspolitische Interessen dies erfordern.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000505360)
 
 
 
 ## § 5 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000616123)
 
 (1) Im Bereich der Eisenbahnen des Bundes, Magnetschwebebahnen, im
 Luftverkehr sowie auf dem Gebiet der See- und Binnenschiffahrt auf
@@ -319,6 +324,7 @@ oder die Aufgaben der Bundespolizei erfordern.
 
 
 ## § 6 Allgemeine Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000706305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 allgemeine Ausnahmen von den auf diesem Gesetz beruhenden
@@ -347,6 +353,7 @@ Bundesrates zulassen für die Beförderung gefährlicher Güter mit
 
 
 ## § 7 Sofortmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000806305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 die Beförderung bestimmter gefährlicher Güter mit Wasser- und
@@ -383,6 +390,7 @@ Europäischen Gemeinschaften befristet.
 
 
 ## § 7a Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001708124)
 
 (1) Vor dem Erlass von Rechtsverordnungen nach den §§ 3, 6 und 7
 sollen Sicherheitsbehörden und -organisationen angehört werden,
@@ -423,6 +431,7 @@ der Anhörung und die anzuhörenden Verbände und Sachverständigen.
 
 
 ## § 7b Beirat
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001805305)
 
 (1) Beim Bundesministerium für Verkehr und digitale Infrastruktur wird
 ein Gefahrgut-Verkehrs-Beirat (Beirat) eingesetzt.
@@ -460,6 +469,7 @@ vertreten zu sein und gehört zu werden.
 
 
 ## § 8 Maßnahmen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE000904360)
 
 (1) Die jeweils für die Überwachung zuständige Behörde kann im
 Einzelfall die Anordnungen treffen, die zur Beseitigung festgestellter
@@ -495,6 +505,7 @@ sind. Sie kann insbesondere
 
 
 ## § 9 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001005305)
 
 (1) Die Beförderung gefährlicher Güter unterliegt der Überwachung
 durch die zuständigen Behörden.
@@ -582,6 +593,7 @@ in den Verkehr bringt.
 
 
 ## § 9a Amtshilfe und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001908123)
 
 (1) Die Übermittlung personenbezogener Daten bei der Gewährung von
 Amtshilfe gegenüber zuständigen Behörden der Mitgliedstaaten der
@@ -700,6 +712,7 @@ zu erlassen.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001107126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -766,6 +779,7 @@ zuletzt durch Artikel 4 des Gesetzes vom 8. April 2008 (BGBl. I S.
 
 
 ## § 11 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001204360)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 10 Abs. 1 Nr. 1 Buchstabe a bezeichnete
@@ -775,6 +789,7 @@ gehörende Tiere oder fremde Sachen von bedeutendem Wert gefährdet.
 
 
 ## § 12 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001309305)
 
 (1) Für Amtshandlungen einschließlich Prüfungen und Untersuchungen
 nach diesem Gesetz und den auf ihm beruhenden Rechtsvorschriften
@@ -805,13 +820,16 @@ bedürfen nicht der Zustimmung des Bundesrates.
 
 
 ## § 13 (Änderungen anderer Gesetze)
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001403360)
 
 
 
 ## § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001504360)
 
 
 
 ## § 15 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html#BJNR021210975BJNE001603360)
 
 

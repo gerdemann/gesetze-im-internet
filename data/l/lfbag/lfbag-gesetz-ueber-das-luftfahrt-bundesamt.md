@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lfbag/BJNR003540954.html#BJNR003540954BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lfbag/BJNR003540954.html#BJNR003540954BJNE000203305)
 
 (1) Als Bundesoberbehörde für Aufgaben der Zivilluftfahrt wird das
 Luftfahrt-Bundesamt errichtet, das dem Bundesministerium für Verkehr
@@ -36,6 +38,7 @@ bestimmt den Sitz des Luftfahrt-Bundesamts.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lfbag/BJNR003540954.html#BJNR003540954BJNE000310360)
 
 (1) Das Luftfahrt-Bundesamt hat insbesondere folgende Aufgaben:
 
@@ -168,6 +171,7 @@ im Sinne der Verordnung (EU) Nr. 1178/2011 übertragen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lfbag/BJNR003540954.html#BJNR003540954BJNE000404305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 erläßt die für das Luftfahrt-Bundesamt zur Durchführung des Gesetzes
@@ -177,6 +181,7 @@ erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/lfbag/BJNR003540954.html#BJNR003540954BJNE000500328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

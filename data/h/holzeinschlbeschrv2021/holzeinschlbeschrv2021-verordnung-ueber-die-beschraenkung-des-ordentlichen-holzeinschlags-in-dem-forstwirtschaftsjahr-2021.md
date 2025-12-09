@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/BJNR080800021.html#BJNR080800021BJNE000100000)
 
 Auf Grund des § 1 Absatz 1 in Verbindung mit Absatz 2, Absatz 3 Satz 1
 und Absatz 4 des Forstschäden-Ausgleichsgesetzes, von denen § 1 Absatz
@@ -29,6 +30,7 @@ dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Einschlagsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/BJNR080800021.html#BJNR080800021BJNE000200000)
 
 (1) Im Zeitraum vom 1. Oktober 2020 bis zum 30. September 2021
 (Forstwirtschaftsjahr 2021) darf Holz der Holzart Fichte im
@@ -57,6 +59,7 @@ Höhe der Beschränkung anzurechnen.
 
 
 ## § 2 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/BJNR080800021.html#BJNR080800021BJNE000300000)
 
 Ordnungswidrig im Sinne des § 11 Absatz 1 Nummer 1 des Forstschäden-
 Ausgleichsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -64,11 +67,13 @@ Ausgleichsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/BJNR080800021.html#BJNR080800021BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/BJNR080800021.html#BJNR080800021BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

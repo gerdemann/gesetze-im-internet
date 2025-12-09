@@ -24,10 +24,12 @@ Yabuuchi et al. (ABl. EG Nr. L 235 S. 1).
 
 
 ## Abschnitt 1 - Allgemeine Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNG000100000)
 
 
 
 ### § 1 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000200000)
 
 (1) Der Verpflichtete nach Absatz 2 hat das Auftreten und den Verdacht
 des Auftretens
@@ -88,6 +90,7 @@ Samen von Tomatenpflanzen.
 
 
 ### § 2 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000303377)
 
 (1) Die zuständige Behörde überwacht durch jährliche systematische
 Erhebungen
@@ -158,6 +161,7 @@ einbeziehen.
 
 
 ### § 3 Befallsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000403377)
 
 (1) Bei Verdacht des Befalls mit der Bakteriellen Ringfäule oder der
 Schleimkrankheit ordnet die zuständige Behörde die zur Verhütung der
@@ -245,6 +249,7 @@ aufzubewahren.
 
 
 ### § 4 Befallsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000503377)
 
 (1) Die zuständige Behörde stellt fest
 
@@ -311,6 +316,7 @@ Oberflächenwasser oder diesen Abwässern beregnet worden sind.
 
 
 ### § 5 Abgrenzung und Aufhebung der Sicherheitszone
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000600000)
 
 (1) Wird bei der Bakteriellen Ringfäule oder der Schleimkrankheit
 Befall festgestellt, so grenzt die zuständige Behörde eine
@@ -358,6 +364,7 @@ vergangen sind.
 
 
 ### § 6 Schutzmaßnahmen in der Sicherheitszone
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000703377)
 
 (1) In der Sicherheitszone dürfen bei der Bakteriellen Ringfäule
 Kartoffeln nur unter Verwendung amtlich anerkannten oder unter
@@ -485,16 +492,19 @@ Absatz 5 Satz 3 aufzuheben, wenn
 
 
 ### § 7 Züchtungs- und Haltungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000800000)
 
 Das Züchten und das Halten der Schadorganismen nach § 1 Abs. 1 sowie
 das Arbeiten mit diesen Schadorganismen sind verboten.
 
 
 ## Abschnitt 2 - Besondere Schutzbestimmungen bei Befall
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNG000200000)
 
 
 
 ### § 8 Verwendung und Behandlung bei Befall an Kartoffeln
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE000903377)
 
 (1) Verfügungsberechtigte und Besitzer sind verpflichtet,
 
@@ -561,6 +571,7 @@ Schadorganismus erforderlich ist.
 
 
 ### § 9 Verwendung und Behandlung bei Befall an Tomatenpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE001003377)
 
 (1) Verfügungsberechtigte und Besitzer sind verpflichtet,
 
@@ -614,6 +625,7 @@ erforderlich ist.
 
 
 ### § 10 Verbote und Beschränkungen bei Befall mit der Bakteriellen Ringfäule
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE001103377)
 
 (1) Ist in einem landwirtschaftlichen Betrieb der Befall einer
 Anbaufläche, eines Lagers, einer Sendung oder einer Partie
@@ -726,6 +738,7 @@ Kartoffeln.
 
 
 ### § 11 Verbote und Beschränkungen bei Befall mit der Schleimkrankheit
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE001203377)
 
 (1) Ist in einem landwirtschaftlichen oder gärtnerischen
 Produktionsort der Befall einer Anbaufläche, eines Lagers, einer
@@ -916,14 +929,17 @@ getrennt sind. § 10 Abs. 7 Satz 2 bis 5 gilt entsprechend.
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE001303377)
 
 
 
 ## Abschnitt 3 - Ausnahmen, Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNG000300000)
 
 
 
 ### § 13 Ausnahmen zu Versuchs- und Züchtungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE001400000)
 
 (1) Die zuständige Behörde kann auf Antrag im Einzelfall Ausnahmen von
 den §§ 3, 6, 7 und 8 bis 11 für wissenschaftliche Untersuchungen und
@@ -976,6 +992,7 @@ unberührt.
 
 
 ### § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kartringfv_2001/BJNR100800001.html#BJNR100800001BJNE001504377)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig

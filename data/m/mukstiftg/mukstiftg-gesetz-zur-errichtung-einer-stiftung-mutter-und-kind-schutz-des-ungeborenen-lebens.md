@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000202116)
 
 (1) Es wird eine rechtsfähige Stiftung des öffentlichen Rechts "Mutter
 und Kind - Schutz des ungeborenen Lebens" errichtet. Die Stiftung
@@ -33,6 +34,7 @@ entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000302314)
 
 (1) Zweck der Stiftung ist es, Mittel für ergänzende Hilfen zur
 Verfügung zu stellen, die werdenden Müttern, die sich wegen einer
@@ -45,6 +47,7 @@ Rechtsanspruch.
 
 
 ## § 3 Zuwendungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000401314)
 
 Die Stiftung vergibt die Mittel nach Maßgabe des Satzes 2 an
 Einrichtungen in den Ländern, die im Rahmen des Stiftungszweckes (§ 2
@@ -55,6 +58,7 @@ oder eine Einrichtung je Land.
 
 
 ## § 4 Verwendung der Stiftungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000501314)
 
 (1) Aus Mitteln der Stiftung können für Aufwendungen, die im
 Zusammenhang mit der Schwangerschaft und der Geburt sowie der Pflege
@@ -83,6 +87,7 @@ rechtzeitig möglich ist oder nicht ausreicht.
 
 
 ## § 5 Pfändungsfreiheit, Verhältnis zu anderen Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000604116)
 
 (1) Leistungen, die dem in § 2 Abs. 1 genannten Personenkreis aus
 Mitteln der Stiftung im Rahmen des Stiftungszweckes gewährt werden,
@@ -101,6 +106,7 @@ von anderem Einkommen abhängig ist.
 
 
 ## § 6 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000704116)
 
 (1) Der Bund stellt der Stiftung jährlich Mittel in Höhe der für
 diesen Zweck im Haushaltsplan veranschlagten Mittel, mindestens
@@ -118,18 +124,21 @@ anzunehmen.
 
 
 ## § 7 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000801314)
 
 Die Stiftung kann eine Satzung erlassen, die vom Stiftungsrat
 beschlossen wird.
 
 
 ## § 8 Stiftungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE000901314)
 
 Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und das
 Kuratorium.
 
 
 ## § 9 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE001004116)
 
 (1) Der Stiftungsrat besteht aus
 
@@ -174,6 +183,7 @@ Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
 
 ## § 10 Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE001101314)
 
 (1) Der Vorsitzende des Stiftungsrates bestellt einen Geschäftsführer.
 
@@ -186,6 +196,7 @@ außergerichtlich.
 
 
 ## § 11 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE001201314)
 
 (1) Das Kuratorium besteht aus
 
@@ -226,18 +237,21 @@ Aufgaben.
 
 
 ## § 12 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE001303307)
 
 Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend.
 
 
 ## § 13 Inkrafttreten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE001402314)
 
 Dieses Gesetz tritt am 1. Januar 1993 in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet in Kraft.
 
 
 ## § 14 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/mukstiftg/BJNR008800984.html#BJNR008800984BJNE001501314)
 
 -
 

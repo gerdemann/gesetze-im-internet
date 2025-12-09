@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000100314)
 
 Der Inhaber von Grundstücken oder Räumen, in oder auf denen sich
 Kampfpanzer, gepanzerte Kampffahrzeuge, Artilleriewaffen,
@@ -32,6 +33,7 @@ der §§ 3 und 4 unterstützen (Verpflichteter).
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000200314)
 
 (1) Inspektionen nach Abschnitt VIII des Inspektionsprotokolls des
 KSE-Vertrags finden nur in Anwesenheit der Begleitgruppe statt, die
@@ -45,6 +47,7 @@ Anordnungen haben keine aufschiebende Wirkung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000300314)
 
 Soweit es zur Durchführung der Inspektionen nach Abschnitt VIII des
 Inspektionsprotokolls des KSE-Vertrags erforderlich ist, sind die
@@ -79,6 +82,7 @@ Inspektionsgruppen befugt,
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000400314)
 
 (1) Der Verpflichtete hat auf Verlangen Räume oder Behältnisse, in
 denen sich Waffen im Sinne des § 1 befinden können, zu öffnen. Der
@@ -97,6 +101,7 @@ Begleitgruppe vorzuführen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000500314)
 
 (1) Die Begleitgruppe hat die schutzwürdigen Belange des
 Verpflichteten zu berücksichtigen und ihn anzuhören, soweit dies nach
@@ -112,6 +117,7 @@ beeinträchtigt wird.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000600314)
 
 (1) Wer außerhalb von staatlichen Einrichtungen an einem Ort
 tatsächliche Gewalt über mehr als insgesamt 15 Kampfpanzer, gepanzerte
@@ -140,6 +146,7 @@ Informationsaustausch übernommenen Verpflichtungen weiterzugeben.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000700314)
 
 (1) Wird jemand durch ein Mitglied der Inspektionsgruppe geschädigt,
 haftet für diesen Schaden die Bundesrepublik Deutschland nach den
@@ -157,6 +164,7 @@ ordentliche Rechtsweg gegeben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/ksevtrag/BJNR001810992.html#BJNR001810992BJNE000800314)
 
 (1) Dieses Gesetz tritt an dem Tage in Kraft, an dem der Vertrag nach
 seinem Artikel XXII in Kraft tritt.

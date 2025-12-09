@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNG000100314)
 
 
 
 ### § 1 Heberecht
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE000600314)
 
 (1) Die Gemeinde bestimmt, ob von dem in ihrem Gebiet liegenden
 Grundbesitz Grundsteuer zu erheben ist.
@@ -38,6 +40,7 @@ den Gemeinden zustehenden Befugnisse ausübt.
 
 
 ### § 2 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE000702123)
 
 Steuergegenstand ist der inländische Grundbesitz im Sinne des
 Bewertungsgesetzes:
@@ -56,6 +59,7 @@ Bewertungsgesetzes:
 
 
 ### § 3 Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE000806308)
 
 (1) Von der Grundsteuer sind befreit
 
@@ -141,6 +145,7 @@ Körperschaftsteuergesetzes.
 
 
 ### § 4 Sonstige Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE000902123)
 
 Soweit sich nicht bereits eine Befreiung nach § 3 ergibt, sind von der
 Grundsteuer befreit
@@ -204,6 +209,7 @@ Grundsteuer befreit
 
 
 ### § 5 Zu Wohnzwecken benutzter Grundbesitz
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001001301)
 
 (1) Dient Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4)
 benutzt wird, zugleich Wohnzwecken, gilt die Befreiung nur für
@@ -240,6 +246,7 @@ Voraussetzungen des Absatzes 1 vorliegen.
 
 
 ### § 6 Land- und forstwirtschaftlich genutzter Grundbesitz
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001100314)
 
 Wird Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4)
 benutzt wird, zugleich land- und forstwirtschaftlich genutzt, so gilt
@@ -261,6 +268,7 @@ die Befreiung nur für
 
 
 ### § 7 Unmittelbare Benutzung für einen steuerbegünstigten Zweck
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001200314)
 
 Die Befreiung nach den §§ 3 und 4 tritt nur ein, wenn der
 Steuergegenstand für den steuerbegünstigten Zweck unmittelbar benutzt
@@ -269,6 +277,7 @@ für den steuerbegünstigten Zweck hergerichtet wird.
 
 
 ### § 8 Teilweise Benutzung für einen steuerbegünstigten Zweck
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001300314)
 
 (1) Wird ein räumlich abgegrenzter Teil des Steuergegenstandes für
 steuerbegünstigte Zwecke (§§ 3 und 4) benutzt, so ist nur dieser Teil
@@ -283,6 +292,7 @@ Zwecke überwiegen.
 
 
 ### § 9 Stichtag für die Festsetzung der Grundsteuer, Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001400314)
 
 (1) Die Grundsteuer wird nach den Verhältnissen zu Beginn des
 Kalenderjahres festgesetzt.
@@ -292,6 +302,7 @@ Steuer festzusetzen ist.
 
 
 ### § 10 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001501123)
 
 (1) Schuldner der Grundsteuer ist derjenige, dem der Steuergegenstand
 bei der Feststellung des Grundsteuerwerts zugerechnet ist.
@@ -301,6 +312,7 @@ sie Gesamtschuldner.
 
 
 ### § 11 Persönliche Haftung
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001601301)
 
 (1) Neben dem Steuerschuldner haften der Nießbraucher des
 Steuergegenstandes und derjenige, dem ein dem Nießbrauch ähnliches
@@ -316,15 +328,18 @@ und für Erwerbe im Vollstreckungsverfahren.
 
 
 ### § 12 Dingliche Haftung
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001700314)
 
 Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 
 
 ## Abschnitt II - Bemessung der Grundsteuer
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNG000200314)
 
 
 
 ### § 13 Steuermesszahl und Steuermessbetrag
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001803123)
 
 Bei der Berechnung der Grundsteuer ist von einem Steuermessbetrag
 auszugehen. Dieser ist durch Anwendung eines Promillesatzes
@@ -335,12 +350,14 @@ für den Steuergegenstand maßgebend ist.
 
 
 ### § 14 Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE001901123)
 
 Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl
 0,55 Promille.
 
 
 ### § 15 Steuermesszahl für Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002004123)
 
 (1) Die Steuermesszahl beträgt
 
@@ -436,6 +453,7 @@ einer Erklärung nach § 228 Absatz 1 des Bewertungsgesetzes erfolgen.
 
 
 ### § 16 Hauptveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002101123)
 
 (1) Die Steuermeßbeträge werden auf den Hauptfeststellungszeitpunkt (§
 221 Absatz 2 des Bewertungsgesetzes) allgemein festgesetzt
@@ -458,6 +476,7 @@ noch nicht abgelaufen ist.
 
 
 ### § 17 Neuveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002202123)
 
 (1) Wird eine Wertfortschreibung (§ 222 Absatz 1 des
 Bewertungsgesetzes) oder eine Artfortschreibung oder
@@ -509,6 +528,7 @@ Steuermeßbeträge vorgenommen.
 
 
 ### § 18 Nachveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002302123)
 
 (1) Wird eine Nachfeststellung (§ 223 Absatz 1 des Bewertungsgesetzes)
 durchgeführt, so wird der Steuermeßbetrag auf den
@@ -542,6 +562,7 @@ Steuermeßbeträge vorgenommen.
 
 
 ### § 19 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002404123)
 
 (1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen
 eines ganz oder teilweise von der Grundsteuer befreiten
@@ -569,6 +590,7 @@ Abgabenordnung.
 
 
 ### § 20 Aufhebung des Steuermeßbetrags
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002501123)
 
 (1) Der Steuermeßbetrag wird aufgehoben,
 
@@ -614,6 +636,7 @@ vorgenommen.
 
 
 ### § 21 Änderung von Steuermeßbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002600314)
 
 Bescheide über die Neuveranlagung oder die Nachveranlagung von
 Steuermeßbeträgen können schon vor dem maßgebenden
@@ -623,6 +646,7 @@ zu einer abweichenden Festsetzung führen.
 
 
 ### § 22 Zerlegung des Steuermessbetrags
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002702123)
 
 (1) Erstreckt sich der Steuergegenstand über mehrere Gemeinden, so ist
 der Steuermessbetrag vorbehaltlich des § 24 anteilig in die auf die
@@ -646,6 +670,7 @@ oder 3 der größte Zerlegungsanteil zusteht.
 
 
 ### § 23 Zerlegungsstichtag
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002802123)
 
 (1) Der Zerlegung des Steuermeßbetrags werden die Verhältnisse in dem
 Feststellungszeitpunkt zugrunde gelegt, auf den der für die
@@ -661,6 +686,7 @@ von ihrem bisherigen Anteil abweicht.
 
 
 ### § 24 Ersatz der Zerlegung durch Steuerausgleich
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE002900314)
 
 Die Landesregierung kann durch Rechtsverordnung bestimmen, daß bei
 Betrieben der Land- und Forstwirtschaft, die sich über mehrere
@@ -674,10 +700,12 @@ bei einer Zerlegung einträte.
 
 
 ## Abschnitt III - Festsetzung und Entrichtung der Grundsteuer
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNG000300314)
 
 
 
 ### § 25 Festsetzung des Hebesatzes
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003001123)
 
 (1) Die Gemeinde bestimmt, mit welchem Hundertsatz des
 Steuermeßbetrags oder des Zerlegungsanteils die Grundsteuer zu erheben
@@ -745,6 +773,7 @@ Grundstücke sein.
 
 
 ### § 26 Koppelungsvorschriften und Höchsthebesätze
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003101301)
 
 In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe
 der Land- und Forstwirtschaft, für die Grundsteuer der Grundstücke und
@@ -755,6 +784,7 @@ einer landesrechtlichen Regelung vorbehalten.
 
 
 ### § 27 Festsetzung der Grundsteuer
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003200314)
 
 (1) Die Grundsteuer wird für das Kalenderjahr festgesetzt. Ist der
 Hebesatz für mehr als ein Kalenderjahr festgesetzt, kann auch die
@@ -773,6 +803,7 @@ diesem Tage ein schriftlicher Steuerbescheid zugegangen wäre.
 
 
 ### § 28 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003301301)
 
 (1) Die Grundsteuer wird zu je einem Viertel ihres Jahresbetrags am
 15\. Februar, 15. Mai, 15. August und 15. November fällig.
@@ -800,6 +831,7 @@ vorangehenden Jahres beantragt werden.
 
 
 ### § 29 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003400314)
 
 Der Steuerschuldner hat bis zur Bekanntgabe eines neuen
 Steuerbescheids zu den bisherigen Fälligkeitstagen Vorauszahlungen
@@ -808,6 +840,7 @@ entrichten.
 
 
 ### § 30 Abrechnung über die Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003500314)
 
 (1) Ist die Summe der Vorauszahlungen, die bis zur Bekanntgabe des
 neuen Steuerbescheids zu entrichten waren (§ 29), kleiner als die
@@ -829,6 +862,7 @@ aufgehoben oder geändert wird.
 
 
 ### § 31 Nachentrichtung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003600314)
 
 Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine
 Vorauszahlungen nach § 29 zu entrichten, so hat er die Steuer, die
@@ -838,10 +872,12 @@ des Steuerbescheids zu entrichten.
 
 
 ## Abschnitt IV - Erlaß der Grundsteuer
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNG000400314)
 
 
 
 ### § 32 Erlaß für Kulturgut und Grünanlagen
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003700314)
 
 (1) Die Grundsteuer ist zu erlassen
 
@@ -873,6 +909,7 @@ oder die von ihr beauftragte Stelle anerkannt ist.
 
 
 ### § 33 Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003803123)
 
 (1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei
 Betrieben der Land- und Forstwirtschaft der tatsächliche Reinertrag
@@ -903,6 +940,7 @@ auf Fortschreibung hätte berücksichtigt werden können.
 
 
 ### § 34 Erlass wegen wesentlicher Ertragsminderung bei bebauten Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE005300123)
 
 (1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei
 bebauten Grundstücken der normale Rohertrag des Steuergegenstandes um
@@ -937,6 +975,7 @@ auf Fortschreibung hätte berücksichtigt werden können.
 
 
 ### § 35 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE003901123)
 
 (1) Der Erlaß wird jeweils nach Ablauf eines Kalenderjahres für die
 Grundsteuer ausgesprochen, die für das Kalenderjahr festgesetzt worden
@@ -953,10 +992,12 @@ Eintritt der Änderung anzuzeigen.
 
 
 ## Abschnitt V - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNG000700123)
 
 
 
 ### § 36 Sondervorschriften für die Hauptveranlagung 2025
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE004104123)
 
 (1) Auf den 1. Januar 2025 findet eine Hauptveranlagung der
 Grundsteuermessbeträge statt (Hauptveranlagung 2025).
@@ -975,6 +1016,7 @@ Kalenderjahres der Hauptveranlagung bekannt wird.
 
 
 ### § 37 Anwendung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE004309123)
 
 (1) Diese Fassung des Gesetzes gilt erstmals für die Grundsteuer des
 Kalenderjahres 2025.
@@ -989,6 +1031,7 @@ erstmals bei der Hauptveranlagung auf den 1. Januar 2025 anzuwenden.
 
 
 ### § 38 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/grstg_1973/BJNR109650973.html#BJNR109650973BJNE005400123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung bekannt zu machen.

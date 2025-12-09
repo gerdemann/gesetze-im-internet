@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Förderziel und Fördervolumen
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000101126)
 
 (1) Der Bund gewährt den Ländern aus dem Sondervermögen „Ausbau
 ganztägiger Bildungs- und Betreuungsangebote für Kinder im
@@ -41,6 +42,7 @@ Ganztagsbetreuung für Grundschulkinder“.
 
 
 ## § 2 Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000201131)
 
 Förderfähig sind Maßnahmen, die ab dem Inkrafttreten dieses Gesetzes
 begonnen und bis zum 31. Dezember 2029 abgeschlossen werden. Maßnahmen
@@ -49,6 +51,7 @@ Maßnahmen sind bis zum 30. Juni 2030 abzurechnen.
 
 
 ## § 3 Förderbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000300000)
 
 Die Finanzhilfen des Bundes werden trägerneutral gewährt für
 zusätzliche investive Maßnahmen der Länder, Gemeinden und
@@ -69,6 +72,7 @@ verbundene, befristete Ausgaben.
 
 
 ## § 4 Förderquote
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000400000)
 
 Der Bund beteiligt sich gemäß § 4 Absatz 1 des
 Ganztagsfinanzierungsgesetzes vom 9. Dezember 2020 (BGBl. I S. 2865)
@@ -83,6 +87,7 @@ Finanzierungsanteils mindestens 10 Prozent beträgt.
 
 
 ## § 5 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000502131)
 
 (1) Der in § 1 Absatz 2 und 3 Satz 1 festgelegte Betrag (2,75
 Milliarden Euro) wird gemäß dem Königsteiner Schlüssel in der zum 12.
@@ -228,6 +233,7 @@ bewilligt werden.
 
 
 ## § 6 Bewirtschaftung und Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000601131)
 
 (1) Der Bund stellt die Finanzhilfen den Ländern zur eigenen
 Bewirtschaftung nach dem jeweiligen Haushaltsrecht der Länder zur
@@ -246,6 +252,7 @@ Familie, Senioren, Frauen und Jugend fortgeführt.
 
 
 ## § 7 Verbot der Doppelförderung
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000700000)
 
 (1) Für Maßnahmen können nicht gleichzeitig Finanzhilfen des Bundes
 nach diesem Gesetz gewährt werden, wenn diese
@@ -267,6 +274,7 @@ Mittel der Europäischen Union gefördert werden.
 
 
 ## § 8 Überprüfung der Bundesmittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000801131)
 
 Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
 Jugend überprüft für den Bund halbjährlich die zweckentsprechende
@@ -276,6 +284,7 @@ insbesondere über Anzahl und Art der geförderten Maßnahmen.
 
 
 ## § 9 Rückzahlung von Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE000901126)
 
 (1) Beträge, die nicht entsprechend § 1 Absatz 1 und der §§ 2, 3, 4
 und 7 verwendet wurden, sind in Höhe des Finanzierungsanteils des
@@ -295,6 +304,7 @@ beträgt jedoch mindestens 0,1 Prozent jährlich.
 
 
 ## § 10 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/gafinhg/BJNR460300021.html#BJNR460300021BJNE001000000)
 
 (1) Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes
 werden durch Verwaltungsvereinbarung zwischen Bund und Ländern

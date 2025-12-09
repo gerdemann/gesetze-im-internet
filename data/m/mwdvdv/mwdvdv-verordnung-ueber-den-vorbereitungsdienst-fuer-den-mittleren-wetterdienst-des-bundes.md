@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in
@@ -31,9 +32,11 @@ Bau und Stadtentwicklung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000300000)
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der
 Vorbereitungsdienst für den mittleren Wetterdienst des Bundes. Der
@@ -41,6 +44,7 @@ Vorbereitungsdienst dauert in der Regel 20 Monate.
 
 
 ### § 2 Ausbildungsziele
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000400000)
 
 Die Ausbildung vermittelt das Wissen sowie die berufspraktischen
 Kenntnisse und Fähigkeiten, die für die Erfüllung der Aufgaben im
@@ -60,6 +64,7 @@ demokratischen und sozialen Rechtsstaat befähigt werden.
 
 
 ### § 3 Dienstbehörden, Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000500000)
 
 (1) Für Anwärterinnen und Anwärter, die nach Beendigung der Ausbildung
 ihren Dienst beim Deutschen Wetterdienst aufnehmen sollen, ist der
@@ -92,6 +97,7 @@ unterstehen sie auch der Dienstaufsicht der Leitungen dieser Behörden.
 
 
 ### § 4 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000600000)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer neben den
 allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
@@ -121,6 +127,7 @@ Bundeswehr müssen zusätzlich
 
 
 ### § 5 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000701311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In
@@ -197,6 +204,7 @@ gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
 
 ### § 6 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000800000)
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen
 werden im Auswahlverfahren und bei Leistungsnachweisen sowie in der
@@ -212,12 +220,14 @@ entscheidet die Einstellungsbehörde, im Übrigen das Prüfungsamt.
 
 
 ### § 7 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE000900000)
 
 Erholungsurlaub wird in Absprache mit der oder dem jeweiligen
 Ausbildungsbeauftragten gewährt.
 
 
 ### § 8 Ausbildungsakten
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001000000)
 
 Der Deutsche Wetterdienst führt über jede Anwärterin und jeden
 Anwärter eine Ausbildungsakte. Darin aufzunehmen sind der
@@ -226,6 +236,7 @@ Leistungsnachweisen und der berufspraktischen Ausbildung.
 
 
 ### § 9 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001100000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt
 bewertet:
@@ -362,9 +373,11 @@ Abrundung berechnet.
 
 
 ## Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNG000200000)
 
 
 ### § 10 Ausbildungsleitung, Ausbildungsstelle, Ausbildungsbeauftragte, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001200000)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner
@@ -396,6 +409,7 @@ Dienstgeschäften entlastet.
 
 
 ### § 11 Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001300000)
 
 (1) Der Deutsche Wetterdienst erstellt in Zusammenarbeit mit dem
 Zentrum für Geoinformationswesen der Bundeswehr einen
@@ -418,6 +432,7 @@ Ausbildungsleiterin oder der Ausbildungsleiter
 
 
 ### § 12 Fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001400000)
 
 (1) Die fachtheoretische Ausbildung dauert in der Regel acht Monate
 und wird in Form von Ausbildungslehrgängen durchgeführt. Sie soll den
@@ -447,6 +462,7 @@ Einzelheiten regeln der Ausbildungsrahmenplan und die Lehrpläne.
 
 
 ### § 13 Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001500000)
 
 (1) Während der berufspraktischen Ausbildung sollen die Anwärterinnen
 und Anwärter die wesentlichen Aufgaben des mittleren Wetterdienstes
@@ -469,6 +485,7 @@ Anwärter bekannt zu geben und mit ihr oder ihm zu besprechen.
 
 
 ### § 14 Leistungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001600000)
 
 (1) Während der fachtheoretischen Ausbildung sind mindestens zwölf
 Leistungsnachweise und während der berufspraktischen Ausbildung
@@ -507,6 +524,7 @@ Prüfungsamt entscheidet.
 
 
 ### § 15 Zeugnis, Ausbildungsrangpunktzahl
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001700000)
 
 Über den Erfolg der Ausbildung erstellt der Deutsche Wetterdienst ein
 zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der
@@ -517,9 +535,11 @@ Ausfertigung des Zeugnisses.
 
 
 ## Abschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNG000300000)
 
 
 ### § 16 Zweck, Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001800000)
 
 (1) In der Laufbahnprüfung haben die Anwärterinnen und Anwärter
 nachzuweisen, dass sie die erforderlichen Fachkenntnisse erworben
@@ -531,6 +551,7 @@ praktischen und einer mündlichen Abschlussprüfung.
 
 
 ### § 17 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE001901116)
 
 Der Deutsche Wetterdienst richtet ein Prüfungsamt ein, das die
 Laufbahnprüfung organisiert. Das Bundesministerium für Verkehr und
@@ -539,6 +560,7 @@ teilweise auf andere Behörden übertragen.
 
 
 ### § 18 Prüfungskommission, Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002000000)
 
 (1) Für die Durchführung der Laufbahnprüfung richtet das Prüfungsamt
 eine oder mehrere Prüfungskommissionen ein. Im letzteren Fall stellt
@@ -617,6 +639,7 @@ wer Zweitprüfende oder Zweitprüfender ist.
 
 
 ### § 19 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002100000)
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer eine
 Ausbildungsrangpunktzahl von mindestens 5 erreicht hat.
@@ -673,6 +696,7 @@ Durchschnittsrangpunktzahl errechnet.
 
 
 ### § 20 Praktische Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002200000)
 
 (1) Die praktische Abschlussprüfung besteht aus drei Teilen mit
 praktischen Aufgaben aus den folgenden Gebieten:
@@ -700,6 +724,7 @@ Abschlussprüfung wird eine Durchschnittsrangpunktzahl errechnet.
 
 
 ### § 21 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002302116)
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen,
 wer in mindestens vier der in der schriftlichen und praktischen
@@ -764,6 +789,7 @@ dem Vorsitzenden der Prüfungskommission zu bestätigen.
 
 
 ### § 22 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002400000)
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen, der
 praktischen oder der mündlichen Abschlussprüfung oder einem einzelnen
@@ -787,6 +813,7 @@ Prüfungsleistungen gewertet werden.
 
 
 ### § 23 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002500000)
 
 (1) Anwärterinnen und Anwärtern, die bei der Abschlussprüfung
 täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen
@@ -817,6 +844,7 @@ und 3 anzuhören.
 
 
 ### § 24 Wiederholung von Ausbildungsabschnitten und Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002600000)
 
 (1) Wer eine Ausbildungsrangpunktzahl von weniger als 5 erreicht hat,
 kann Ausbildungsabschnitte einschließlich der Leistungsnachweise
@@ -857,6 +885,7 @@ Vorbereitungsdienst beendet.
 
 
 ### § 25 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002700000)
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die
 Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die
@@ -897,6 +926,7 @@ Bewertungen auf Verlangen kurz mündlich.
 
 
 ### § 26 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002800000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
 Abschlusszeugnis. Das Abschlusszeugnis enthält:
@@ -922,6 +952,7 @@ welche Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
 
 
 ### § 27 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE002900000)
 
 (1) Zu jeder Anwärterin und jedem Anwärter führt das Prüfungsamt eine
 Prüfungsakte. Darin aufzunehmen sind:
@@ -955,9 +986,11 @@ der jeweiligen Akte zu vermerken.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNG000400000)
 
 
 ### § 28 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE003000000)
 
 Für Anwärterinnen und Anwärter, die vor dem Inkrafttreten dieser
 Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die
@@ -970,6 +1003,7 @@ weiter anzuwenden.
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mwdvdv/BJNR354100013.html#BJNR354100013BJNE003100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und

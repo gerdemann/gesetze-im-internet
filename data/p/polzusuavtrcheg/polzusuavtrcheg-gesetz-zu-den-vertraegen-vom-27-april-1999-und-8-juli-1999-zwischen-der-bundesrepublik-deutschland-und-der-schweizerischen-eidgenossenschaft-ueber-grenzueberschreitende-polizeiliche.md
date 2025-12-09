@@ -25,12 +25,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000200000)
 
 (1) Dem in Bern am 27. April 1999 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
@@ -72,6 +74,7 @@ völkerrechtlichen Verträgen wird zugestimmt:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000302125)
 
 Es werden ermächtigt, durch Rechtsverordnung mit Zustimmung des
 Bundesrates Vereinbarungen nach folgenden Artikeln des Vertrages vom
@@ -94,6 +97,7 @@ polizeiliche und justitielle Zusammenarbeit in Kraft zu setzen:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000400000)
 
 Die Aufgaben nach Artikel 37 Abs. 3 und Artikel 39 Abs. 1 des
 Vertrages zwischen der Bundesrepublik Deutschland und der
@@ -105,6 +109,7 @@ bestehen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000500000)
 
 In den Fällen des Artikels 38 Abs. 1 des Vertrages vom 27. April 1999
 zwischen der Bundesrepublik Deutschland und der Schweizerischen
@@ -113,6 +118,7 @@ justitielle Zusammenarbeit ist die Vollstreckung unzulässig.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000600000)
 
 Auf die Exequaturentscheidung nach Artikel 39 Abs. 3 des Vertrages vom
 27\. April 1999 zwischen der Bundesrepublik Deutschland und der
@@ -124,6 +130,7 @@ anderes bestimmen.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/polzusuavtrcheg/BJNR094620001.html#BJNR094620001BJNE000700000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Steuern vom Einkommen und Ertrag der Anteilseigner
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000100303)
 
 Erhöht eine Kapitalgesellschaft im Sinne des § 1 Abs. 1 Nr. 1 des
 Körperschaftsteuergesetzes ihr Nennkapital durch Umwandlung von
@@ -32,11 +33,13 @@ des Einkommensteuergesetzes.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000200303)
 
 -
 
 
 ## § 3 Anschaffungskosten nach Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000301301)
 
 Als Anschaffungskosten der vor der Erhöhung des Nennkapitals
 erworbenen Anteilsrechte und der auf sie entfallenen neuen
@@ -48,6 +51,7 @@ Anteile am Nennkapital verteilt werden.
 
 
 ## § 4 Mitteilung der Erhöhung des Nennkapitals an das Finanzamt
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000400303)
 
 Die Kapitalgesellschaft hat die Erhöhung des Nennkapitals innerhalb
 von zwei Wochen nach der Eintragung des Beschlusses über die Erhöhung
@@ -57,16 +61,19 @@ einzureichen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000501301)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000602301)
 
 (weggefallen)
 
 
 ## § 7 Anteilsrechte an ausländischen Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000703123)
 
 (1) § 1 ist auf den Wert neuer Anteilsrechte an ausländischen
 Gesellschaften anzuwenden, wenn
@@ -103,11 +110,13 @@ zuständig, ist das Bundeszentralamt für Steuern zuständig.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000802306)
 
 -
 
 
 ## § 8a Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE000903123)
 
 (1) Dieses Gesetz ist erstmals auf Kapitalerhöhungen anzuwenden, die
 in einem nach dem 31. Dezember 1976 abgelaufenen Wirtschaftsjahr der
@@ -132,9 +141,11 @@ anzuwenden, wenn die Rückzahlung vor dem 1. Januar 2023 erfolgt ist.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE001001123)
 
 
 ## § 10 Anwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE001102306)
 
 Die vorstehende Fassung dieses Gesetzes ist erstmals ab 1. Januar 1984
 anzuwenden. Auf Aktien, die vor dem 1. Januar 1984 an Arbeitnehmer
@@ -143,6 +154,7 @@ anzuwenden. Auf Aktien, die vor dem 1. Januar 1984 an Arbeitnehmer
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg/BJNR008340959.html#BJNR008340959BJNE001200306)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000100311)
 
 Zur Ausführung des Artikels 115d des Grundgesetzes hat der Bundestag
 mit Zustimmung des Bundesrates für die Beratung dringlicher
@@ -26,6 +27,7 @@ beschlossen:
 
 
 ## § 1 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000200311)
 
 (1) Der Präsident des Bundestages beruft den Bundestag und der
 Präsident des Bundesrates den Bundesrat unverzüglich zur gemeinsamen
@@ -43,6 +45,7 @@ Bundesregierung abzukürzen.
 
 
 ## § 2 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000300311)
 
 (1) Bei den gemeinsamen Beratungen von Bundestag und Bundesrat führt
 der Präsident des Bundestages den Vorsitz.
@@ -52,6 +55,7 @@ statt, so führt dabei der Präsident des Bundesrates den Vorsitz.
 
 
 ## § 3 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000400311)
 
 Es findet nur eine Beratung statt. Diese ist auf Beschluß des
 Bundestages oder des Bundesrates für Ausschußberatungen zu
@@ -59,6 +63,7 @@ unterbrechen.
 
 
 ## § 4 Ausschußberatung
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000500311)
 
 (1) Sofern eine Beratung der Gesetzesvorlage im Ausschuß beschlossen
 wird, soll diese nur an jeweils einen Ausschuß des Bundestages und des
@@ -78,6 +83,7 @@ Bundesrat.
 
 
 ## § 5 Schlußberatung und Schlußabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000600311)
 
 (1) Ist die Rednerliste erschöpft und meldet sich niemand mehr zu
 Wort, so erklärt der Präsident des Bundestages die Beratung für
@@ -102,6 +108,7 @@ bestätigen.
 
 
 ## § 6 Entsprechende Anwendung der Geschäftsordnungen des Bundestages und des Bundesrates
+[Direktlink](https://www.gesetze-im-internet.de/ggart115dgo/BJNR111000969.html#BJNR111000969BJNE000700311)
 
 Im übrigen findet auf das Verfahren die Geschäftsordnung des
 Bundestages entsprechende Anwendung. Für die Abstimmungen der

@@ -25,6 +25,7 @@ insbesondern der EWGV 3665/87
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000100310)
 
 Auf Grund des § 6 Abs. 1 Nr. 1, des § 13 Abs. 1 Satz 1 sowie des § 15
 Satz 1 in Verbindung mit § 16 und § 31 Abs. 2 Satz 1 Nr. 1 des
@@ -39,6 +40,7 @@ geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000200310)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft, die im Rahmen der
@@ -47,6 +49,7 @@ Erstattungen bei der Ausfuhr erlassen worden sind.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000304119)
 
 Zuständig für die Durchführung der in § 1 genannten Rechtsakte und
 dieser Verordnung ist vorbehaltlich des Satzes 2 die
@@ -76,6 +79,7 @@ ist das Hauptzollamt Hamburg.
 
 
 ## § 3 Abfertigung zur Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000404377)
 
 (1) Als Dokument im Sinne des Artikels 5 Abs. 4 der Verordnung (EG)
 Nr. 800/1999 ist das vom Bundesministerium der Finanzen zu diesem
@@ -131,6 +135,7 @@ nicht selbst betroffen werden, als Zollhilfspersonen bestellen.
 
 
 ## § 4 Überwachung und Bestätigung der Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000502377)
 
 (1) Die Bestätigung über den Ausgang der Warensendung aus dem
 Zollgebiet der Gemeinschaft (Ausgangsbestätigung) wird von der nach
@@ -159,6 +164,7 @@ Gemeinschaft angegeben ist.
 
 
 ## § 5 Lieferungen, die der Ausfuhr gleichgestellt sind
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000603377)
 
 (1) Bei Lieferungen im Geltungsbereich dieser Verordnung ist Artikel
 36 der Verordnung (EG) Nr. 800/1999 in der jeweils geltenden Fassung
@@ -220,6 +226,7 @@ erteilen, soweit es der Überwachungszweck erfordert.
 
 
 ## § 6 Vorratslager für Schiffs- und Luftfahrzeugbedarf
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000702377)
 
 (1) Als Vorratslager für Schiffs- und Luftfahrzeugbedarf im Sinne des
 Artikels 40 der Verordnung (EG) Nr. 800/1999 (Vorratslager) können
@@ -275,10 +282,12 @@ erfordert.
 
 
 ## (XXXX) §§ 7 bis 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE000803377)
 
 
 
 ## § 11a Zolllagerverfahren bei der Sondererstattung Rindfleisch
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001602377)
 
 Für erstattungsfähige Waren, die im Geltungsbereich dieser Verordnung
 vor ihrer Ausfuhr in das Zolllagerverfahren nach Artikel 4 der VO (EG)
@@ -295,6 +304,7 @@ entsprechend.
 
 
 ## § 12 Zusätzliche Bestimmungen für Malz
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001301308)
 
 (1) Für Malz, für das die im voraus festgesetzte Erstattung für in den
 ersten drei Monaten des Wirtschaftsjahres getätigte Ausfuhren
@@ -377,6 +387,7 @@ eine andere Zollstelle als örtlich zuständige Zollstelle bestimmen.
 
 
 ## § 13 Melde- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001400310)
 
 (1) Ist eine Ware zum Verfahren nach den Artikeln 412 bis 442 der
 Verordnung (EWG) Nr. 2454/93 nach einem Bestimmungsbahnhof oder an
@@ -400,6 +411,7 @@ geschäftliche Unterlagen übernommen worden sind.
 
 
 ## § 13a Duldungs- und sonstige Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE002101377)
 
 Zum Zwecke der Überwachung haben die nach § 33 Abs. 2 des Gesetzes zur
 Durchführung der Gemeinsamen Marktorganisationen und der
@@ -415,6 +427,7 @@ es die zuständige Stelle verlangt.
 
 
 ## § 14 Kontroll- und Überwachungsgesellschaften; Schutz lebender Rinder beim Transport
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001503377)
 
 (1) Die in Artikel 16 Abs. 1 Buchstabe b und Abs. 2 Buchstabe c der
 Verordnung (EG) Nr. 800/1999 sowie Artikel 3 Abs. 2 der Verordnung
@@ -449,11 +462,13 @@ trägt der Ausführer die Auslagen.
 
 
 ## § 14a
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE002201377)
 
 (weggefallen)
 
 
 ## § 15 Antragsteller und Antrag
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE002301119)
 
 (1) Der in Artikel 49 Abs. 1 der Verordnung (EG) Nr. 800/1999
 vorgesehene besondere Antrag wird mit der Ausfuhranmeldung für
@@ -486,6 +501,7 @@ dazugehörenden Ausfuhrlizenz zu vermerken.
 
 
 ## § 16 Gewährung der Ausfuhrerstattung, Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001703119)
 
 (1) Das Hauptzollamt Hamburg setzt die Erstattung durch Bescheid fest.
 Der Erstattungsanspruch wird mit der Bekanntgabe des
@@ -500,6 +516,7 @@ beträgt.
 
 
 ## § 17 Vorauszahlung der Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001803119)
 
 Soll die Erstattung nach Artikel 24 der Verordnung (EG) Nr. 800/1999
 als Vorauszahlung gezahlt werden, so hat der Antragsteller
@@ -517,6 +534,7 @@ als Vorauszahlung gezahlt werden, so hat der Antragsteller
 
 
 ## § 18 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE001903119)
 
 Soll die Erstattung als Vorauszahlung gezahlt werden, so ist die nach
 den in § 1 genannten Rechtsakten vorgeschriebene Sicherheit beim
@@ -524,6 +542,7 @@ Hauptzollamt Hamburg zu leisten.
 
 
 ## § 19 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE002001119)
 
 Ab dem 1. Juni 2019 ist diese Verordnung nur noch auf Anträge zur
 Gewährung der Ausfuhrerstattung nach § 16 anzuwenden, die bis
@@ -531,6 +550,7 @@ einschließlich 31. Mai 2019 gestellt worden sind.
 
 
 ## § 20 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausferstv_1996/BJNR076600996.html#BJNR076600996BJNE002400119)
 
 Diese Verordnung tritt mit Ablauf des 31. Dezember 2030 außer Kraft.
 

@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt G v. 8.4.1922 RGBl I 1922, 335, 393 (RennwLottG)
 
 ## I. Allgemeine Vorschriften für Rennwetten - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000100000)
 
 
 ### § 1 Totalisatorbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000200000)
 
 (1) Ein Verein, der einen Totalisator aus Anlass öffentlicher
 Pferderennen und anderer öffentlicher Leistungsprüfungen für Pferde im
@@ -54,6 +56,7 @@ gestattet.
 
 
 ### § 2 Buchmacher
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000300000)
 
 (1) Wer gewerbsmäßig Wetten bei öffentlichen Leistungsprüfungen für
 Pferde abschließen oder vermitteln will (Buchmacher), bedarf der
@@ -71,6 +74,7 @@ verbunden werden.
 
 
 ### § 3 Wettschein
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000400000)
 
 (1) Der Betreiber des Totalisators und der Buchmacher haben über die
 Wette eine Urkunde (Wettschein) auszustellen.
@@ -94,6 +98,7 @@ Betrag von mindestens 15 Euro angenommen werden.
 
 
 ### § 4 Strafrecht
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000500000)
 
 (1) Wer ohne Erlaubnis einen Totalisator betreibt oder gewerbsmäßig
 Rennwetten abschließt oder vermittelt, wird mit Freiheitsstrafe bis zu
@@ -112,6 +117,7 @@ im Auftrag des Wettunternehmers handeln.
 
 
 ### § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000600000)
 
 (1) Ordnungswidrig handelt, wer als Buchmacher oder dessen Gehilfe
 Rennwetten außerhalb der Örtlichkeiten, für die die Erlaubnis erteilt
@@ -155,6 +161,7 @@ geahndet werden.
 
 
 ### § 6 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000700000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum
@@ -203,6 +210,7 @@ der Allgemeinheit, insbesondere die Gefahrenaufklärung der
 
 
 ### § 7 Zuweisungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000800000)
 
 (1) Die Rennvereine, die einen Totalisator betreiben, erhalten
 vorbehaltlich des Absatzes 2 eine Zuweisung in Höhe von bis zu 96
@@ -243,12 +251,15 @@ anzufordern.
 
 
 ## II. Steuern - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000200000)
 
 
 ### 1. Besteuerung von Rennwetten - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000300000)
 
 
 #### § 8 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE000900000)
 
 (1) Jede von einem im Inland ansässigen Betreiber eines Totalisators
 gehaltene Wette, die aus Anlass öffentlicher Pferderennen und anderer
@@ -263,6 +274,7 @@ Buchmachersteuer erhoben.
 
 
 #### § 9 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001000000)
 
 (1) Die Rennwettsteuer bemisst sich nach dem geleisteten Wetteinsatz
 abzüglich der Rennwettsteuer. Der geleistete Wetteinsatz umfasst
@@ -288,12 +300,14 @@ dem die Rückzahlung oder Verrechnung vorgenommen wird.
 
 
 #### § 10 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001100000)
 
 Die Rennwettsteuer beträgt 5,3 Prozent der Bemessungsgrundlage nach §
 9\.
 
 
 #### § 11 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001200000)
 
 (1) Steuerschuldner der Totalisatorsteuer ist der im Inland ansässige
 Betreiber eines Totalisators.
@@ -305,11 +319,13 @@ Wette hält.
 
 
 #### § 12 Steuerentstehung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001300000)
 
 Die Rennwettsteuer entsteht mit der Leistung des Wetteinsatzes.
 
 
 #### § 13 Steueranmeldung und -entrichtung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001400000)
 
 (1) Der Steuerschuldner der Totalisatorsteuer hat die Steuer für jeden
 Kalendermonat, in dem mindestens ein Rennen stattgefunden hat
@@ -338,6 +354,7 @@ Absatz 2) ersichtlich sind.
 
 
 #### § 14 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001500000)
 
 (1) Der Steuerschuldner (§ 11) ist verpflichtet, Aufzeichnungen zur
 Ermittlung der Steuer und zu den Grundlagen ihrer Berechnung zu
@@ -370,6 +387,7 @@ führen.
 
 
 #### § 15 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001600000)
 
 Örtlich zuständig ist das Finanzamt, in dessen Bezirk der
 Steuerschuldner der Rennwettsteuer seinen Wohnsitz, gewöhnlichen
@@ -377,9 +395,11 @@ Aufenthalt, Ort der Geschäftsleitung oder Sitz hat.
 
 
 ### 2. Besteuerung von Sportwetten - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000400000)
 
 
 #### § 16 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001700000)
 
 Wetten aus Anlass von Sportereignissen, die nicht als Rennwetten nach
 den §§ 8 bis 15 besteuert werden (Sportwetten), unterliegen der
@@ -399,6 +419,7 @@ Gesetzes veranstaltet wird. Dies ist der Fall, wenn
 
 
 #### § 17 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001800000)
 
 (1) Die Sportwettensteuer bemisst sich nach dem geleisteten
 Wetteinsatz abzüglich der Sportwettensteuer. Der geleistete
@@ -424,12 +445,14 @@ dem die Rückzahlung oder Verrechnung vorgenommen wird.
 
 
 #### § 18 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE001900000)
 
 Die Sportwettensteuer beträgt 5,3 Prozent der Bemessungsgrundlage nach
 § 17.
 
 
 #### § 19 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002000000)
 
 Steuerschuldner ist der Veranstalter der Sportwette. Veranstalter ist,
 wer die planmäßige Ausführung des gesamten Unternehmens selbst oder
@@ -438,11 +461,13 @@ gestaltet.
 
 
 #### § 20 Steuerentstehung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002100000)
 
 Die Sportwettensteuer entsteht mit der Leistung des Wetteinsatzes.
 
 
 #### § 21 Steueranmeldung und -entrichtung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002200000)
 
 (1) Der Steuerschuldner hat die Sportwettensteuer für jeden
 Kalendermonat (Anmeldungszeitraum) anzumelden.
@@ -474,6 +499,7 @@ Pferderennens, ersichtlich sind (§ 7 Absatz 3 Satz 3).
 
 
 #### § 22 Steuerlicher Beauftragter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002300000)
 
 (1) Hat der Veranstalter der Sportwetten seinen Wohnsitz, gewöhnlichen
 Aufenthalt, Ort der Geschäftsleitung oder Sitz nicht in einem
@@ -499,6 +525,7 @@ dem Steuerschuldner (Gesamtschuldner).
 
 
 #### § 23 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002400000)
 
 (1) Der Steuerschuldner (§ 19) ist neben der Verpflichtung aus § 7
 Absatz 3 verpflichtet, für jede einzelne Wettannahmestelle getrennte
@@ -537,6 +564,7 @@ Aufzeichnungen nach Satz 1 monatlich zu übermitteln.
 
 
 #### § 24 Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002501123)
 
 (1) Das Gesamtaufkommen der Steuer nach § 16 wird
 kalendervierteljährlich nach den Absätzen 2 und 3 zerlegt.
@@ -569,6 +597,7 @@ September und 15. Dezember zu leisten.
 
 
 #### § 25 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002600000)
 
 Örtlich zuständig ist das Finanzamt, in dessen Bezirk der Veranstalter
 der Sportwette seinen Wohnsitz, gewöhnlichen Aufenthalt, Ort der
@@ -581,9 +610,11 @@ und Lotteriegesetz bestimmte Finanzamt örtlich zuständig.
 
 
 ### 3. Besteuerung von öffentlichen Lotterien und Ausspielungen - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000500000)
 
 
 #### § 26 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002700000)
 
 (1) Lotterien und Ausspielungen unterliegen der Lotteriesteuer, wenn
 sie im Geltungsbereich dieses Gesetzes öffentlich veranstaltet werden.
@@ -606,6 +637,7 @@ eine angehängte Lotterie (Zweitlotterie).
 
 
 #### § 27 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002800000)
 
 (1) Die Lotteriesteuer bemisst sich nach dem geleisteten
 Teilnahmeentgelt abzüglich der Lotteriesteuer. Geleistetes
@@ -641,6 +673,7 @@ nach erlaubt sind.
 
 
 #### § 28 Lotteriesteuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE002900000)
 
 Von der Lotteriesteuer befreit sind von den zuständigen inländischen
 Behörden erlaubte öffentliche Lotterien und Ausspielungen,
@@ -660,12 +693,14 @@ Behörden erlaubte öffentliche Lotterien und Ausspielungen,
 
 
 #### § 29 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003000000)
 
 Die Lotteriesteuer beträgt 20 Prozent der Bemessungsgrundlage nach §
 27\.
 
 
 #### § 30 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003100000)
 
 (1) Steuerschuldner ist der Veranstalter der öffentlichen Lotterie
 oder Ausspielung. Veranstalter ist, wer die planmäßige Ausführung des
@@ -700,6 +735,7 @@ oder ähnliches Vertragsverhältnis besteht.
 
 
 #### § 31 Steuerentstehung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003200000)
 
 Die Lotteriesteuer entsteht mit der Leistung des Teilnahmeentgelts.
 Bei Klassenlotterien entsteht die Steuer mit Beginn der jeweiligen
@@ -708,6 +744,7 @@ wurde.
 
 
 #### § 32 Steueranmeldung und -entrichtung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003300000)
 
 (1) Der Steuerschuldner hat die Lotteriesteuer für jeden
 Kalendermonat, in dem die Steuer entsteht (Anmeldungszeitraum),
@@ -749,6 +786,7 @@ Verwendung des Reinertrags für die dort genannten Zwecke nachzuweisen.
 
 
 #### § 33 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003400000)
 
 (1) Der Steuerschuldner (§ 30) ist verpflichtet, Aufzeichnungen zur
 Ermittlung der Steuer und zu den Grundlagen ihrer Berechnung sowie zum
@@ -784,6 +822,7 @@ Nachweis der Steuerbefreiung (§ 28) zu führen.
 
 
 #### § 34 Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003501123)
 
 (1) Das Aufkommen der Steuer nach § 26 Absatz 1 Satz 2 Nummer 2 wird
 kalendervierteljährlich zerlegt. Die Zerlegungsanteile der einzelnen
@@ -813,6 +852,7 @@ September und 15. Dezember zu leisten.
 
 
 #### § 35 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003600000)
 
 Örtlich zuständig ist das Finanzamt, in dessen Bezirk der Veranstalter
 der Lotterie oder Ausspielung seinen Wohnsitz, gewöhnlichen
@@ -823,9 +863,11 @@ Finanzamt örtlich zuständig.
 
 
 ### 4. Besteuerung von virtuellem Automatenspiel - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000600000)
 
 
 #### § 36 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003700000)
 
 Im Internet angebotene Nachbildungen terrestrischer Automatenspiele
 (virtuelle Automatenspiele) unterliegen der Virtuellen
@@ -849,6 +891,7 @@ Eingabegeräten gespielt werden können.
 
 
 #### § 37 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003800000)
 
 Die Virtuelle Automatensteuer bemisst sich nach dem geleisteten
 Spieleinsatz abzüglich der Virtuellen Automatensteuer. Der geleistete
@@ -857,12 +900,14 @@ am virtuellen Automatenspiel nach § 36.
 
 
 #### § 38 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE003900000)
 
 Die Virtuelle Automatensteuer beträgt 5,3 Prozent der
 Bemessungsgrundlage nach § 37.
 
 
 #### § 39 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004000000)
 
 Steuerschuldner ist der Veranstalter des virtuellen Automatenspiels.
 Veranstalter ist, wer die planmäßige Ausführung des gesamten
@@ -871,12 +916,14 @@ Spielgeschehen maßgeblich gestaltet.
 
 
 #### § 40 Steuerentstehung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004100000)
 
 Die Virtuelle Automatensteuer entsteht mit der Leistung des
 Spieleinsatzes.
 
 
 #### § 41 Steueranmeldung und -entrichtung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004200000)
 
 (1) Der Steuerschuldner hat die Virtuelle Automatensteuer für jeden
 Kalendermonat (Anmeldungszeitraum) anzumelden.
@@ -894,6 +941,7 @@ des Anmeldungszeitraums fällig.
 
 
 #### § 42 Steuerlicher Beauftragter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004300000)
 
 (1) Hat der Veranstalter des virtuellen Automatenspiels seinen
 Wohnsitz, gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz
@@ -919,6 +967,7 @@ dem Steuerschuldner (Gesamtschuldner).
 
 
 #### § 43 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004400000)
 
 (1) Der Steuerschuldner (§ 39) ist verpflichtet, für jedes virtuelle
 Automatenspiel Aufzeichnungen zur Ermittlung der Virtuellen
@@ -952,6 +1001,7 @@ oder gänzlich selbständig über Endgeräte genutzt werden können.
 
 
 #### § 44 Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004501123)
 
 (1) Das Gesamtaufkommen der Steuer nach § 36 wird
 kalendervierteljährlich nach den Absätzen 2 und 3 zerlegt.
@@ -984,6 +1034,7 @@ September und 15. Dezember zu leisten.
 
 
 #### § 45 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004600000)
 
 Örtlich zuständig ist das Finanzamt, in dessen Bezirk der Veranstalter
 des virtuellen Automatenspiels seinen Wohnsitz, gewöhnlichen
@@ -996,9 +1047,11 @@ Rennwett- und Lotteriegesetz bestimmte Finanzamt örtlich zuständig.
 
 
 ### 5. Besteuerung von Online-Poker - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000700000)
 
 
 #### § 46 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004700000)
 
 Varianten des Pokerspiels ohne Bankhalter, bei denen an einem
 virtuellen Tisch gespielt wird (Online-Poker), unterliegen der Online-
@@ -1021,6 +1074,7 @@ Pokersteuer.
 
 
 #### § 47 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004800000)
 
 (1) Die Online-Pokersteuer bemisst sich nach dem Spieleinsatz
 abzüglich der Online-Pokersteuer. Der Spieleinsatz umfasst sämtliche
@@ -1042,12 +1096,14 @@ Spielens am ersten Tisch bis zum Ausscheiden oder Gewinn des Turniers.
 
 
 #### § 48 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE004900000)
 
 Die Online-Pokersteuer beträgt 5,3 Prozent der Bemessungsgrundlage
 nach § 47.
 
 
 #### § 49 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005000000)
 
 Steuerschuldner ist der Veranstalter des Online-
 Pokers. Veranstalter ist, wer die planmäßige Ausführung des gesamten
@@ -1056,11 +1112,13 @@ Spielgeschehen maßgeblich gestaltet.
 
 
 #### § 50 Steuerentstehung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005100000)
 
 Die Online-Pokersteuer entsteht mit der Leistung des Spieleinsatzes.
 
 
 #### § 51 Steueranmeldung und -entrichtung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005200000)
 
 (1) Der Steuerschuldner hat die Online-Pokersteuer für jeden
 Kalendermonat (Anmeldungszeitraum) anzumelden.
@@ -1078,6 +1136,7 @@ Anmeldungszeitraums fällig.
 
 
 #### § 52 Steuerlicher Beauftragter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005300000)
 
 (1) Hat der Veranstalter des Online-Pokers seinen Wohnsitz,
 gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz nicht in
@@ -1103,6 +1162,7 @@ dem Steuerschuldner (Gesamtschuldner).
 
 
 #### § 53 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005400000)
 
 (1) Der Steuerschuldner (§ 49) ist verpflichtet, für jedes Online-
 Poker Aufzeichnungen zur Ermittlung der Online-Pokersteuer und zu den
@@ -1136,6 +1196,7 @@ oder gänzlich selbständig über Endgeräte genutzt werden können.
 
 
 #### § 54 Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005501123)
 
 (1) Das Gesamtaufkommen der Steuer nach § 46 wird
 kalendervierteljährlich nach den Absätzen 2 und 3 zerlegt.
@@ -1168,6 +1229,7 @@ September und 15. Dezember zu leisten.
 
 
 #### § 55 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005600000)
 
 Örtlich zuständig ist das Finanzamt, in dessen Bezirk der Veranstalter
 des Online-Pokers seinen Wohnsitz, gewöhnlichen Aufenthalt, Ort der
@@ -1180,9 +1242,11 @@ Lotteriegesetz bestimmte Finanzamt örtlich zuständig.
 
 
 ### 6. Sonstige Vorschriften - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000800000)
 
 
 #### § 56 Informationspflichten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005700000)
 
 Zur Gewährleistung eines ordnungsgemäßen Besteuerungsverfahrens sind
 alle an der Begründung oder Durchführung der Vereinbarung zwischen
@@ -1194,12 +1258,14 @@ informieren.
 
 
 #### § 57 Umrechnung fremder Währung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005800000)
 
 Werte in fremder Währung sind zur Berechnung der Steuer nach den für
 die Umsatzsteuer geltenden Vorschriften umzurechnen.
 
 
 #### § 58 Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE005900000)
 
 (1) Zur Sicherstellung einer gleichmäßigen und vollständigen
 Festsetzung und Erhebung der Steuern nach diesem Gesetz sind die von
@@ -1235,6 +1301,7 @@ von Bedeutung sein kann.
 
 
 #### § 59 Änderung nach Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE006000000)
 
 Steuerbeträge, die auf Grund einer Außenprüfung nachzuentrichten oder
 zu erstatten sind, sind zusammen mit der Steuer für den letzten
@@ -1243,6 +1310,7 @@ nach Bekanntgabe der Festsetzung fällig.
 
 
 #### § 60 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE006100000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen
@@ -1274,9 +1342,11 @@ Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen
 
 
 ## III. Gemeinsame Vorschriften - 
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNG000900000)
 
 
 ### § 61 Offenbarungs- und Verwertungsbefugnis für nichtsteuerliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE006200000)
 
 Die Finanzbehörde kann die nach § 30 der Abgabenordnung geschützten
 personenbezogenen Daten gegenüber der Glücksspielaufsichtsbehörde und
@@ -1286,6 +1356,7 @@ Zuweisungsverfahren dient.
 
 
 ### § 62 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE006300000)
 
 Die für die Glücksspielaufsicht und für die Erteilung der Erlaubnis
 zuständigen Behörden sind verpflichtet, erlangte Kenntnisse gegenüber
@@ -1294,6 +1365,7 @@ eines Verfahrens in Steuersachen dienen.
 
 
 ### § 63 Bekanntmachungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE006400000)
 
 (1) Das Bundesministerium der Finanzen kann dieses Gesetz, die
 Durchführungsverordnung zu diesem Gesetz sowie die von ihm auf Grund
@@ -1308,6 +1380,7 @@ im Bundesgesetzblatt bekanntmachen.
 
 
 ### § 64 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottg_2021/BJNR206510021.html#BJNR206510021BJNE006500123)
 
 Für die Abrechnung und den Vollzug der Zerlegung des Aufkommens der
 Steuern nach § 16, § 26 Absatz 1 Satz 2 Nummer 2, §§ 36 und 46 vor dem

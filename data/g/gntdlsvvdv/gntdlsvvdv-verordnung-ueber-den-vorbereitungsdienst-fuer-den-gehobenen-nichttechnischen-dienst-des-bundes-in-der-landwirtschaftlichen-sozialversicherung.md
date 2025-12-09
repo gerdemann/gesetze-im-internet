@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000100000)
 
 Auf Grund des § 26 Absatz 2 des Bundesbeamtengesetzes, der durch
 Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250)
@@ -34,9 +35,11 @@ Forsten und Gartenbau:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000100000)
 
 
 ### § 1 Studium
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000300000)
 
 (1) Das duale Studium zur Diplom-Verwaltungswirtin und zum Diplom-
 Verwaltungswirt am Fachbereich Landwirtschaftliche Sozialversicherung
@@ -48,6 +51,7 @@ Bundes in der Landwirtschaftlichen Sozialversicherung dar.
 
 
 ### § 2 Ziel des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000400000)
 
 Das Studium vermittelt den Studierenden die wissenschaftlichen
 Erkenntnisse und Methoden und die berufspraktischen Fähigkeiten,
@@ -57,6 +61,7 @@ landwirtschaftlichen Sozialversicherung befähigen.
 
 
 ### § 3 Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000500000)
 
 (1) Dienstbehörde ist die Sozialversicherung für Landwirtschaft,
 Forsten und Gartenbau.
@@ -66,6 +71,7 @@ zuständig.
 
 
 ### § 4 Ausbildungsstandorte; Ausbildungsverantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000600000)
 
 (1) Ausbildungsstandorte können alle Standorte der Dienstbehörde sein.
 
@@ -78,6 +84,7 @@ berät die Studierenden in Fragen des Studiums.
 
 
 ### § 5 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000700000)
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die
 Leiterin oder der Leiter der Dienstbehörde.
@@ -88,12 +95,14 @@ Landwirtschaftliche Sozialversicherung.
 
 
 ### § 6 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000800000)
 
 Erholungsurlaub ist in der Regel während der praxisintegrierenden
 Studienphasen zu nehmen.
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE000900000)
 
 (1) Schwerbehinderten, diesen gleichgestellte Menschen mit
 Behinderungen und Menschen mit Beeinträchtigungen, die die Umsetzung
@@ -122,9 +131,11 @@ unberührt.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000201000)
 
 
 ### § 8 Zweck des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001001000)
 
 (1) Auf Grundlage eines Auswahlverfahrens entscheidet die
 Dienstbehörde über die Einstellung in den Vorbereitungsdienst.
@@ -154,6 +165,7 @@ Bewerberinnen und Bewerber über Folgendes verfügen:
 
 
 ### § 9 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001100000)
 
 (1) Zum Auswahlverfahren wird von der Dienstbehörde zugelassen, wer
 nach den eingereichten Unterlagen die in der Ausschreibung bestimmten
@@ -188,6 +200,7 @@ spätestens ein Jahr nach der Ablehnung zu vernichten. Elektronisch
 
 
 ### § 10 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001200000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Dienstbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere
@@ -232,12 +245,14 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 11 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001300000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 12 Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001400000)
 
 (1) Die Dienstbehörde legt bundeseinheitlich fest:
 
@@ -270,6 +285,7 @@ Auswahlverfahrens ändern.
 
 
 ### § 13 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001500000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens können folgende
 Kompetenzbereiche geprüft werden:
@@ -327,6 +343,7 @@ Bewerber gebildet.
 
 
 ### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001600000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil des Auswahlverfahrens bestanden hat.
@@ -353,6 +370,7 @@ Auswahlverfahrens noch nicht festgestellt werden konnte.
 
 
 ### § 15 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001700000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung
 der Bewerberinnen und Bewerber in verschiedenen persönlichen und
@@ -381,6 +399,7 @@ worden ist.
 
 
 ### § 16 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001800000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens
@@ -403,6 +422,7 @@ Bewerbungsunterlagen sind innerhalb der Frist zu löschen.
 
 
 ### § 17 Ausnahmeregelung zur Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE001900000)
 
 (1) Schwerbehinderte Bewerberinnen und Bewerber und diesen
 gleichgestellte Bewerberinnen und Bewerber mit Behinderungen, die den
@@ -430,6 +450,7 @@ belegt, hat erfolglos am Auswahlverfahren teilgenommen.
 
 
 ### § 18 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002000000)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder an
 einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
@@ -439,6 +460,7 @@ Auswahlverfahren ausgeschlossen.
 
 
 ### § 19 Einstellung und gesundheitliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002100000)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -467,9 +489,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000300000)
 
 
 ### § 20 Dauer und Gliederung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002200000)
 
 (1) Die Regelstudienzeit beträgt drei Jahre.
 
@@ -589,6 +613,7 @@ Hochschule des Bundes und aus praxisintegrierenden Studienphasen.
 
 
 ### § 21 Studienplan
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002300000)
 
 (1) Das Studium wird nach einem Studienplan durchgeführt, der vom
 Fachbereich Landwirtschaftliche Sozialversicherung erstellt wird. Der
@@ -618,6 +643,7 @@ Maßgeblich ist jeweils die Fassung, die bei Beginn des Studiums gilt.
 
 
 ### § 22 Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002400000)
 
 (1) Das Studium vermittelt rechtswissenschaftliche, ökonomische und
 sozialwissenschaftliche Grundlagen sowie vertiefte sozialrechtliche
@@ -702,6 +728,7 @@ Unfallsicherung.
 
 
 ### § 23 Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002500000)
 
 (1) Die Fachstudien werden am Fachbereich Landwirtschaftliche
 Sozialversicherung durchgeführt. Die Studierenden werden zu diesem
@@ -730,6 +757,7 @@ und der Forschung werden gewährleistet.
 
 
 ### § 24 Praxisintegrierende Studienphasen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002600000)
 
 (1) In den praxisintegrierenden Studienphasen sollen die Studierenden
 berufliche Kenntnisse und Erfahrungen als Grundlage für die
@@ -751,6 +779,7 @@ den jeweiligen Ausbildungsstandorten.
 
 
 ### § 25 Durchführung der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002700000)
 
 (1) Die Praktika werden in den für das Ziel des Studiums wesentlichen
 fachlichen Bereichen der Dienstbehörde unter Anleitung hierfür
@@ -771,6 +800,7 @@ erhält eine schriftliche oder elektronische Ausfertigung.
 
 
 ### § 26 Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002800000)
 
 (1) Jeder Ausbildungsstandort bestellt Ausbilderinnen und Ausbilder.
 
@@ -786,6 +816,7 @@ kann.
 
 
 ### § 27 Praxisbezogene Lehrveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE002900000)
 
 (1) Durch praxisbezogene Lehrveranstaltungen werden die in den
 Fachstudien gewonnenen Kenntnisse in enger Beziehung zur Praxis
@@ -805,12 +836,15 @@ sicherzustellen und Dozentinnen und Dozenten zu benennen.
 
 
 ## Abschnitt 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000500000)
 
 
 #### § 28 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003000000)
 
 (1) Die Laufbahnprüfung besteht aus den folgenden Prüfungsleistungen:
 
@@ -832,6 +866,7 @@ sicherzustellen und Dozentinnen und Dozenten zu benennen.
 
 
 #### § 29 Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003100000)
 
 (1) Für die Organisation und Durchführung der Prüfungsleistungen ist
 das Prüfungsamt des Fachbereichs Landwirtschaftliche
@@ -849,6 +884,7 @@ und ohne unzulässige Hilfsmittel erbracht worden ist.
 
 
 #### § 30 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003200000)
 
 (1) Die Prüfungsleistungen werden mit folgenden Rangpunkten und Noten
 bewertet:
@@ -1101,6 +1137,7 @@ mindestens zur Hälfte erfüllt sind.
 
 
 #### § 31 Prüferinnen und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003300000)
 
 (1) Prüferinnen und Prüfer für die Leistungsnachweise sind
 hauptamtlich Lehrende oder Lehrbeauftragte des Fachbereichs
@@ -1116,6 +1153,7 @@ und nicht weisungsgebunden.
 
 
 #### § 32 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003400000)
 
 (1) Die Zwischenprüfung und die Abschlussprüfung werden vor einer
 Prüfungskommission abgelegt. Es können mehrere Prüfungskommissionen
@@ -1155,6 +1193,7 @@ Prüferinnen und Prüfer unabhängig und an Weisungen nicht gebunden.
 
 
 #### § 33 Durchführung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003500000)
 
 (1) Die Inhalte der Prüfungsleistungen sind bis zum Beginn der
 Prüfungsleistung geheim zu halten.
@@ -1175,6 +1214,7 @@ Protokoll.
 
 
 #### § 34 Termine von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003600000)
 
 (1) Das Prüfungsamt des Fachbereichs Landwirtschaftliche
 Sozialversicherung setzt im Einvernehmen mit der Dienstbehörde Ort und
@@ -1196,6 +1236,7 @@ Studierenden rechtzeitig mitzuteilen.
 
 
 #### § 35 Verhinderung bei Prüfungsleistungen und Teilen von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003700000)
 
 (1) Ist eine Studierende oder ein Studierender ganz oder teilweise
 daran gehindert, eine Prüfungsleistung oder einen Teil der
@@ -1239,6 +1280,7 @@ Prüfungsleistung mit „ungenügend“, Rangpunkte 0, bewertet.
 
 
 #### § 36 Täuschung und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003800000)
 
 (1) Wer bei der Ablegung einer Prüfungsleistung täuscht, eine
 Täuschung versucht oder dazu beiträgt oder gegen die Ordnung verstößt,
@@ -1291,6 +1333,7 @@ oder Absatz 4 anzuhören.
 
 
 #### § 37 Anerkennung von Studienleistungen und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE003900000)
 
 (1) Auf schriftlichen oder elektronischen Antrag der oder des
 Studierenden können folgende Leistungen anerkannt werden:
@@ -1336,9 +1379,11 @@ jeweils die Fassung, die bei Beginn des Studiums gilt.
 
 
 ### Unterabschnitt 2 - Leistungsnachweise und Praktikumsbewertungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000600000)
 
 
 #### § 38 Leistungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004000000)
 
 (1) Während der Fachstudien und praxisintegrierenden Studienphasen
 haben die Studierenden Leistungsnachweise gemäß den Festlegungen im
@@ -1392,6 +1437,7 @@ elektronischer Form zu bescheinigen.
 
 
 #### § 39 Praktikumsbewertungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004100000)
 
 (1) Die oder der Ausbildungsverantwortliche erstellt für die Praktika
 I bis IV jeweils eine Praktikumsbewertung über die Leistungen und den
@@ -1418,9 +1464,11 @@ Praxisbewertungen mit den Rangpunkten und Noten aufgeführt werden.
 
 
 ### Unterabschnitt 3 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000700000)
 
 
 #### § 40 Zeitpunkt und Inhalt der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004200000)
 
 (1) Am Ende des Grundstudiums findet eine Zwischenprüfung statt. In
 der Zwischenprüfung haben Studierende nachzuweisen, dass sie den
@@ -1437,6 +1485,7 @@ drei Zeitstunden.
 
 
 #### § 41 Zusammensetzung der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004300000)
 
 Die Prüfungskommission besteht aus mindestens drei Personen, die
 hauptamtlich Lehrende beziehungsweise Lehrbeauftragte des Fachbereichs
@@ -1445,6 +1494,7 @@ Vorsitz führt.
 
 
 #### § 42 Ergebnis der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004400000)
 
 (1) Die Zwischenprüfung ist bestanden, wenn zwei Aufsichtsarbeiten
 mindestens mit der Note „ausreichend“ bewertet worden sind und
@@ -1471,9 +1521,11 @@ und die Durchschnittsrangpunktzahl enthält.
 
 
 ### Unterabschnitt 4 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000800000)
 
 
 #### § 43 Ziel und Inhalt der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004500000)
 
 (1) Durch die Prüfung ist festzustellen, ob die Studierenden das Ziel
 des Studiums erreicht haben.
@@ -1490,6 +1542,7 @@ gerichtet.
 
 
 #### § 44 Zusammensetzung der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004600000)
 
 (1) Die Prüfungskommission besteht aus:
 
@@ -1522,6 +1575,7 @@ gehobenen oder höheren Dienstes erfüllen.
 
 
 #### § 45 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004700000)
 
 (1) Die Prüfungsaufgaben des schriftlichen Teils bestimmt das
 Prüfungsamt des Fachbereichs Landwirtschaftliche Sozialversicherung
@@ -1565,6 +1619,7 @@ anzusetzen.
 
 
 #### § 46 Zulassung zum mündlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004800000)
 
 (1) Zum mündlichen Teil wird zugelassen, wer für mindestens vier
 schriftliche Aufsichtsarbeiten mindestens die Bewertung „ausreichend“
@@ -1582,6 +1637,7 @@ Rangpunkte mitgeteilt werden.
 
 
 #### § 47 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE004900000)
 
 (1) Die Prüfungskommission bestimmt für das Prüfungsgespräch
 unterschiedliche Themen, die sich nach den Studieninhalten des
@@ -1611,6 +1667,7 @@ Durchschnittsrangpunktzahl 5 erreicht worden ist.
 
 
 #### § 48 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE005000000)
 
 (1) Studierende, die die Abschlussprüfung nicht bestanden haben,
 können die Abschlussprüfung wiederholen.
@@ -1641,9 +1698,11 @@ Abschlussprüfung besteht. Die Absätze 2 bis 4 gelten entsprechend.
 
 
 ### Unterabschnitt 5 - Abschluss und Prüfungsakte
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG000900000)
 
 
 #### § 49 Abschlussnote und Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE005100000)
 
 (1) Im Anschluss an den mündlichen Teil der Abschlussprüfung setzt die
 Prüfungskommission die Abschlussnote der Laufbahnprüfung fest. Für die
@@ -1689,6 +1748,7 @@ Studierenden dies in schriftlicher oder elektronischer Form bekannt.
 
 
 #### § 50 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE005200000)
 
 (1) Das Prüfungsamt des Fachbereichs Landwirtschaftliche
 Sozialversicherung erteilt der oder dem Studierenden über das Ergebnis
@@ -1718,6 +1778,7 @@ unrichtige Abschlusszeugnisse in elektronischer Form zu löschen.
 
 
 #### § 51 Prüfungsakten; Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE005300000)
 
 (1) Zu jeder und jedem Studierenden führt das Prüfungsamt des
 Fachbereichs Landwirtschaftliche Sozialversicherung eine Prüfungsakte.
@@ -1765,15 +1826,18 @@ Einsicht in die Prüfungsakte.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNG001000000)
 
 
 ### § 52 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE005400000)
 
 Für Studierende, die vor dem 1. Oktober 2023 ein Studium bei der
 Dienstbehörde begonnen haben, ist diese Verordnung nicht anzuwenden.
 
 
 ### § 53 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gntdlsvvdv/BJNR10E0A0024.html#BJNR10E0A0024BJNE005500000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 mit Wirkung
 vom 1. Oktober 2023 in Kraft.

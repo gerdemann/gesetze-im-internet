@@ -27,9 +27,11 @@ Stand: Ersetzt V 8053-4-9 v. 25.6.1992 I 1171 (GSGV 6)
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000200000)
 
 (1) Diese Verordnung ist auf neue serienmäßig hergestellte einfache
 Druckbehälter anzuwenden, die auf dem Markt bereitgestellt werden.
@@ -52,6 +54,7 @@ Druckbehälter anzuwenden, die auf dem Markt bereitgestellt werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000301126)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -152,6 +155,7 @@ anzuwenden.
 
 
 ### § 3 Bereitstellung auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000400000)
 
 Einfache Druckbehälter dürfen nur dann auf dem Markt bereitgestellt
 werden, wenn sie bei ordnungsgemäßer Installation und Instandhaltung
@@ -160,6 +164,7 @@ erfüllen.
 
 
 ### § 4 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000500000)
 
 Bei einfachen Druckbehältern mit einem Druckinhaltsprodukt von mehr
 als 50 bar∙Liter, die harmonisierten Normen oder Teilen dieser Normen
@@ -171,9 +176,11 @@ dieser Normen abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure, Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNG000200000)
 
 
 ### § 5 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000600000)
 
 (1) Der Hersteller stellt sicher, wenn er einfache Druckbehälter mit
 einem Druckinhaltsprodukt von mehr als 50 bar∙Liter in den Verkehr
@@ -238,6 +245,7 @@ und die ergriffenen Korrekturmaßnahmen, zu machen.
 
 
 ### § 6 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000700000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine einfachen
 Druckbehälter beim Inverkehrbringen eine Typen- und Seriennummer oder
@@ -274,6 +282,7 @@ gebracht hat.
 
 
 ### § 7 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000800000)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -305,6 +314,7 @@ Hersteller nicht auf einen Bevollmächtigten übertragen.
 
 
 ### § 8 Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE000900000)
 
 (1) Der Einführer darf nur einfache Druckbehälter in den Verkehr
 bringen, die die Anforderungen dieser Verordnung erfüllen.
@@ -384,6 +394,7 @@ dass er auf deren Verlangen die technischen Unterlagen vorlegen kann.
 
 
 ### § 9 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001000000)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit der
 gebührenden Sorgfalt berücksichtigen, wenn er einen einfachen
@@ -455,6 +466,7 @@ Satz 3 und des § 8 Absatz 5 entsprechend anzuwenden.
 
 
 ### § 10 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001100000)
 
 Auf einen Einführer oder einen Händler sind die §§ 5 und 6
 entsprechend anzuwenden, wenn er
@@ -472,6 +484,7 @@ entsprechend anzuwenden, wenn er
 
 
 ### § 11 Angabe der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001200000)
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf
 deren Verlangen die Wirtschaftsakteure,
@@ -490,6 +503,7 @@ der Abgabe des einfachen Druckbehälters vorlegen können.
 
 
 ### § 12 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001300000)
 
 (1) Für einfache Druckbehälter mit einem Druckinhaltsprodukt von mehr
 als 50 bar∙Liter sind entsprechend den Vorgaben des Artikels 13 Absatz
@@ -502,9 +516,11 @@ einer von der notifizierten Stelle anerkannten Sprache abzufassen.
 
 
 ## Abschnitt 3 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNG000300000)
 
 
 ### § 13 Korrekturmaßnahmen der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001400000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
 einfacher Druckbehälter ein Risiko für die Gesundheit oder Sicherheit
@@ -543,6 +559,7 @@ auf dem Markt bereitgestellt hat.
 
 
 ### § 14 Vorläufige Maßnahmen der Marktüberwachungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001500000)
 
 (1) Ergreift der Wirtschaftsakteur innerhalb der in § 13 Absatz 2 Satz
 1 festgesetzten Frist keine geeigneten Korrekturmaßnahmen, so trifft
@@ -611,6 +628,7 @@ wie etwa die Rücknahme des einfachen Druckbehälters.
 
 
 ### § 15 Konforme einfache Druckbehälter, die ein Risiko darstellen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001600000)
 
 (1) Stellt die Marktüberwachungsbehörde im Rahmen einer Beurteilung
 nach § 13 Absatz 1 fest, dass ein einfacher Druckbehälter ein Risiko
@@ -642,6 +660,7 @@ und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 
 ### § 16 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001700000)
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 13 fordert die
 Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf,
@@ -688,9 +707,11 @@ zurückgenommen wird.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNG000400000)
 
 
 ### § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001801126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -743,6 +764,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 18 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE001901126)
 
 Wer eine in § 17 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
 wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
@@ -751,6 +773,7 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_6/BJNR059710016.html#BJNR059710016BJNE002000000)
 
 (1) Einfache Druckbehälter, die die Anforderungen der Richtlinie
 2009/105/EG des Europäischen Parlaments und des Rates vom 16.

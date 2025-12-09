@@ -18,18 +18,22 @@ Fundstelle
 
 
 ## Art I - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNG000100326)
 
 
 
 ### (XXXX) §§ 1 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNE000300326)
 
 
 
 ## Art II - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNG000200326)
 
 
 
 ### § 6 Übergangsregelung bei der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNE000400326)
 
 (1) An Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente
 beantragen können, wird bei Antragstellung bis zum 31. März 1960
@@ -45,6 +49,7 @@ Lastenausgleichsgesetzes nicht entgegen.
 
 
 ### § 7 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNE000500326)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
@@ -54,12 +59,14 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 8 Anwendung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNE000600326)
 
 Die Vorschriften dieses Gesetzes gelten mit Ausnahme der §§ 4 und 5
 nicht im Saarland.
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_11/BJNR005450959.html#BJNR005450959BJNE000700326)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Die
 Vorschriften der §§ 1 bis 3 sind, vorbehaltlich des Absatzes 2, mit

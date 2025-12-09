@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1971-10/BJNR016910971.html#BJNR016910971BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 100.
@@ -81,11 +82,13 @@ Zwischen den einzelnen Worten sind Ornamente eingeprägt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1971-10/BJNR016910971.html#BJNR016910971BJNE000200307)
 
 Der Bundesminister für Wirtschaft und Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1971-10/BJNR016910971.html#BJNR016910971BJNE000300307)
 
 (Fundstelle: BGBl I 1971, 1691)
 

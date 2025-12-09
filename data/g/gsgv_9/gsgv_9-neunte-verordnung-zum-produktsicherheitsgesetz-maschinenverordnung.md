@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000106308)
 
 (1) Diese Verordnung gilt für die Bereitstellung auf dem Markt und die
 Inbetriebnahme von folgenden neuen Produkten:
@@ -186,6 +187,7 @@ dieser Verordnung für diese Maschine und diese Gefährdungen nicht.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000203308)
 
 
 1.  Maschinen im Sinne der Verordnung sind die in § 1 Abs. 1 Nr. 1 bis 6
@@ -329,6 +331,7 @@ dieser Verordnung für diese Maschine und diese Gefährdungen nicht.
 
 
 ## § 3 Voraussetzungen für die Bereitstellung von Maschinen auf dem Markt oder die Inbetriebnahme von Maschinen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000304308)
 
 (1) Der Hersteller oder sein Bevollmächtigter darf Maschinen nur in
 den Verkehr bringen oder in Betrieb nehmen, wenn sie bei
@@ -396,6 +399,7 @@ Gesundheitsschutzanforderungen entspricht.
 
 
 ## § 4 Konformitätsbewertungsverfahren für Maschinen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000700308)
 
 (1) Der Hersteller oder sein Bevollmächtigter führt eines der in den
 Absätzen 2, 3 und 4 beschriebenen Konformitätsbewertungsverfahren
@@ -455,6 +459,7 @@ durch:
 
 
 ## § 5 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000403308)
 
 (1) Die nach § 3 Abs. 2 Nr. 6 erforderliche CE-Kennzeichnung richtet
 sich nach § 7 Absatz 1 und 3 Satz 1 des Produktsicherheitsgesetzes.
@@ -480,6 +485,7 @@ Sichtbarkeit und Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
 
 
 ## § 6 Voraussetzungen für die Bereitstellung von unvollständigen Maschinen auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000505308)
 
 (1) Der Hersteller oder sein Bevollmächtigter stellt vor dem
 Inverkehrbringen einer unvollständigen Maschine sicher, dass
@@ -507,6 +513,7 @@ ist nicht zulässig.
 
 
 ## § 7 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000801308)
 
 (1) Die Marktüberwachungsbehörden treffen alle erforderlichen
 Maßnahmen, um sicherzustellen, dass Maschinen nur auf dem Markt
@@ -535,6 +542,7 @@ Pflanzenschutzrechts zuständigen Behörden der Länder mit.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE000902126)
 
 Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -582,6 +590,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 9 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE001001308)
 
 Tragbare Befestigungsgeräte mit Treibladung und andere Schussgeräte,
 die den Bestimmungen der Beschussverordnung vom 13. Juli 2006 (BGBl. I
@@ -590,6 +599,7 @@ bereitgestellt und in Betrieb genommen werden.
 
 
 ## § 10 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_9/BJNR070410993.html#BJNR070410993BJNE001100131)
 
 Diese Verordnung tritt mit Ablauf des 19. Januar 2027 außer Kraft.
 

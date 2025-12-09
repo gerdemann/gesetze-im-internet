@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbstv_2002/BJNR144200002.html#BJNR144200002BJNE000000000)
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 6 der
@@ -33,6 +34,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbstv_2002/BJNR144200002.html#BJNR144200002BJNE000101360)
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 22 Abs.
 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein,
@@ -97,6 +99,7 @@ worden ist.
 
 
 ## § 2 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbstv_2002/BJNR144200002.html#BJNR144200002BJNE000200000)
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
 in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden,
@@ -108,6 +111,7 @@ werden können.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbstv_2002/BJNR144200002.html#BJNR144200002BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

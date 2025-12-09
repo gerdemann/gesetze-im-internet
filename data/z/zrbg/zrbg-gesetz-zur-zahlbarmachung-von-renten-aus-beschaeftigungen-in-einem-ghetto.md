@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zrbg/BJNR207410002.html#BJNR207410002BJNE000101377)
 
 (1) Dieses Gesetz gilt für Zeiten der Beschäftigung von Verfolgten in
 einem Ghetto, die sich dort zwangsweise aufgehalten haben, wenn
@@ -64,6 +65,7 @@ Leistungen der sozialen Sicherheit.
 
 
 ## § 2 Fiktion der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/zrbg/BJNR207410002.html#BJNR207410002BJNE000200000)
 
 (1) Für Zeiten der Beschäftigung von Verfolgten in einem Ghetto gelten
 Beiträge als gezahlt, und zwar
@@ -86,6 +88,7 @@ ermitteln.
 
 
 ## § 3 Besonderheiten beim Rentenbeginn und Neufeststellung
+[Direktlink](https://www.gesetze-im-internet.de/zrbg/BJNR207410002.html#BJNR207410002BJNE000301377)
 
 (1) Ein Antrag auf Rente aus der gesetzlichen Rentenversicherung gilt
 als am 18. Juni 1997 gestellt. Bei Hinterbliebenenrenten gilt der
@@ -121,12 +124,14 @@ Rentenanspruch zu informieren.
 
 
 ## § 4 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/zrbg/BJNR207410002.html#BJNR207410002BJNE000400377)
 
 Renten mit Zeiten nach diesem Gesetz sollen nur unmittelbar an die
 Berechtigten gezahlt werden.
 
 
 ## § 5 Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/zrbg/BJNR207410002.html#BJNR207410002BJNE000500377)
 
 (1) Fälligkeitszeitpunkt im Sinne von § 44 Absatz 1 des Ersten Buches
 Sozialgesetzbuch ist bei Renten mit Zeiten nach diesem Gesetz

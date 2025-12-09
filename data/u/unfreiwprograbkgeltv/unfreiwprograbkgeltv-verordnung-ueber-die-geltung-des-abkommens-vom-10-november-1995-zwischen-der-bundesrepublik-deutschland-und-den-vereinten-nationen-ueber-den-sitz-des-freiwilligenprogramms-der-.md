@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/BJNR076120998.html#BJNR076120998BJNE000100305)
 
 Auf Grund des Artikels 2 Abs. 2 des Gesetzes zu dem Abkommen vom 10.
 November 1995 zwischen der Bundesrepublik Deutschland und den
@@ -29,6 +30,7 @@ die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/BJNR076120998.html#BJNR076120998BJNE000200305)
 
 Die durch Notenwechsel vom 10./23. September 1997 zwischen der
 Bundesrepublik Deutschland und den Vereinten Nationen abgeschlossene
@@ -40,6 +42,7 @@ Kraft gesetzt. Die Vereinbarung wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/BJNR076120998.html#BJNR076120998BJNE000300305)
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10.
 November 1995 zwischen der Bundesrepublik Deutschland und den
@@ -52,6 +55,7 @@ Vereinten Nationen vom 10. November 1995.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/BJNR076120998.html#BJNR076120998BJNE000400305)
 
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
@@ -60,6 +64,7 @@ in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/BJNR076120998.html#BJNR076120998BJNE000500305)
 
 Der Bundesrat hat zugestimmt.
 

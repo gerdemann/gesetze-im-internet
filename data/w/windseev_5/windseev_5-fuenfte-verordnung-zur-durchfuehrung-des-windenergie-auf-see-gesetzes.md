@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000100000)
 
 Auf Grund des § 15 Absatz 1 der Erneuerbare-Energien-Verordnung vom
 17\. Februar 2015 (BGBl. I S. 146), der zuletzt durch Artikel 2 der
@@ -33,6 +34,7 @@ Bundesamt für Seeschifffahrt und Hydrographie:
 
 
 ## § 1 Anwendungsbereich und Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000200000)
 
 [^F_832520_BJNR0150A0025BJNE000200000]
 Für die im Flächenentwicklungsplan vom 20. Januar 2023
@@ -70,6 +72,7 @@ Wirtschaftszone der Nordsee werden durch diese Verordnung
 [^F_832520_BJNR0150A0025BJNE000200000]: 
 
 ## § 2 Feststellung der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000300000)
 
 Die im Flächenentwicklungsplan vom 20. Januar 2023 festgelegten
 Flächen N-10.1 und N-10.2 in der deutschen ausschließlichen
@@ -81,6 +84,7 @@ See-Gesetzes geeignet.
 
 
 ## § 3 Feststellung der Erforderlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000400000)
 
 Die Realisierung von Windenergieanlagen auf See auf den Flächen N-10.1
 und N-10.2 ist entsprechend § 1 Absatz 3 des Windenergie-auf-See-
@@ -89,6 +93,7 @@ Interesse der öffentlichen Sicherheit erforderlich.
 
 
 ## § 4 Ausschlusszone
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000500000)
 
 Um das Objekt mit der Mittelpunktkoordinate 54°36,7272'N,
 006°09,5431'E WGS84 auf der Fläche N-10.1 ist eine Ausschlusszone mit
@@ -96,6 +101,7 @@ einem Radius von 50 Metern um die Mittelpunktkoordinate einzuhalten.
 
 
 ## § 5 Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000600000)
 
 (1) Die auf der Fläche N-10.1 zu installierende Leistung beträgt 2000
 Megawatt.
@@ -105,6 +111,7 @@ Megawatt.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_5/BJNR0150A0025.html#BJNR0150A0025BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

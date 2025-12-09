@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -37,6 +38,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000200000)
 
 Der Ausbildungsberuf des Fluggerätmechanikers und der
 Fluggerätmechanikerin wird nach § 4 Absatz 1 des
@@ -44,11 +46,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und Ausbildungsinhalte in einer der Fachrichtungen
@@ -66,6 +70,7 @@ und Ausbildungsinhalte in einer der Fachrichtungen
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000501128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -222,6 +227,7 @@ Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -243,6 +249,7 @@ durchzusehen.
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000700000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -260,6 +267,7 @@ ist.
 
 
 ## § 7 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000800000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -311,6 +319,7 @@ Vorgaben:
 
 
 ## § 8 Teil 2 der Abschlussprüfung in der Fachrichtung Instandhaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE000900000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -461,6 +470,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelungen in der Fachrichtung Instandhaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001001377)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -552,6 +562,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 10 Teil 2 der Abschlussprüfung in der Fachrichtung Fertigungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001101128)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -710,6 +721,7 @@ folgende Vorgaben:
 
 
 ## § 11 Gewichtungs- und Bestehensregelungen in der Fachrichtung Fertigungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001201377)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -802,6 +814,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 12 Teil 2 der Abschlussprüfung in der Fachrichtung Triebwerkstechnik
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001300000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -965,6 +978,7 @@ folgende Vorgaben:
 
 
 ## § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Triebwerkstechnik
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001401377)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1057,6 +1071,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001500000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Fluggerätmechaniker/zur
@@ -1067,6 +1082,7 @@ worden ist, außer Kraft.
 (zu § 4 Absatz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001601128)
 
 (Fundstelle: BGBl. I 2013, 1896 - 1900
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1916,6 +1932,7 @@ Fähigkeiten in der Fachrichtung:
 (zu § 4 Absatz 1)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin - Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001701128)
 
 (Fundstelle: BGBl. 2024 I Nr. 186, S. 6 – 22)
 
@@ -4404,6 +4421,7 @@ Zeitrahmen 4: Wartung, Inspektion und Modifikation
    (zu § 4 Absatz 1)
 
 ## Anlage 3 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)
+[Direktlink](https://www.gesetze-im-internet.de/flugmechausbv_2013/BJNR189000013.html#BJNR189000013BJNE001801128)
 
 (Fundstelle: BGBl. 2024 I Nr. 186, S. 23 – 37)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl4_nderl_2009/BJNR052200009.html#BJNR052200009BJNE000100000)
 
 Das Präsidium des Goethe-Instituts e.V. hat am 17. November 2008 das
 Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts
@@ -30,6 +31,7 @@ S. 1857) genehmige ich diese Änderung.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl4_nderl_2009/BJNR052200009.html#BJNR052200009BJNE000200000)
 
 Der Bundespräsident
 

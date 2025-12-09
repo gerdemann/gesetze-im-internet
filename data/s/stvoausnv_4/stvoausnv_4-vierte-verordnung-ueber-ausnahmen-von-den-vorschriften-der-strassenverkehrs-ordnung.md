@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_4/BJNR011240992.html#BJNR011240992BJNE000100314)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1,
@@ -30,6 +31,7 @@ für Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_4/BJNR011240992.html#BJNR011240992BJNE000200314)
 
 Abweichend von § 53 Abs. 9 Satz 2 der Straßenverkehrs-Ordnung vom 16.
 November 1970 (BGBl. I S. 1565, 1971 I S. 38), die zuletzt durch die
@@ -42,6 +44,7 @@ mit den neuen Symbolen angeordnet und aufgestellt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_4/BJNR011240992.html#BJNR011240992BJNE000300314)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

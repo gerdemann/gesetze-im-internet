@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euwaffkontr_bkg/BJNR209530980.html#BJNR209530980BJNE000100314)
 
 Dem in Straßburg am 28. Juni 1978 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen über die Kontrolle des
@@ -27,6 +28,7 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euwaffkontr_bkg/BJNR209530980.html#BJNR209530980BJNE000200314)
 
 Das Bundeskriminalamt ist befugt, den Erwerb von Schußwaffen im Sinne
 des in Artikel 1 genannten Übereinkommens durch Personen mit
@@ -38,6 +40,7 @@ des Bestimmungsstaates mitzuteilen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euwaffkontr_bkg/BJNR209530980.html#BJNR209530980BJNE000300314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

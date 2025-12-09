@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 2030-14-199 v. 13.8.2014 I 1472 (BTBeihZustAnO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/btvbhhfzustano/BJNR046200022.html#BJNR046200022BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet die
@@ -28,6 +29,7 @@ Bundesministerium des Innern und für Heimat an:
 
 
 ## § 1 Beihilfeangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/btvbhhfzustano/BJNR046200022.html#BJNR046200022BJNE000200000)
 
 Die Zuständigkeit für die Entscheidung über Widersprüche von
 Beamtinnen, Beamten und ihrer Hinterbliebenen in
@@ -37,6 +39,7 @@ Bundesverwaltungsamt übertragen.
 
 
 ## § 2 Heilfürsorgeangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/btvbhhfzustano/BJNR046200022.html#BJNR046200022BJNE000300000)
 
 Die Zuständigkeit für die Entscheidung über Widersprüche von
 Beamtinnen, Beamten und ihrer Hinterbliebenen in
@@ -46,6 +49,7 @@ dem Bundespolizeipräsidium übertragen.
 
 
 ## § 3 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/btvbhhfzustano/BJNR046200022.html#BJNR046200022BJNE000400000)
 
 Die Verwaltung des Deutschen Bundestages behält sich vor, die
 Zuständigkeiten und Befugnisse nach den §§ 1 und 2 im Einzelfall
@@ -53,6 +57,7 @@ abweichend zu regeln oder selbst wahrzunehmen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/btvbhhfzustano/BJNR046200022.html#BJNR046200022BJNE000500000)
 
 Diese Anordnung tritt am 1. April 2022 in Kraft. Gleichzeitig tritt
 die Anordnung der Verwaltung des Deutschen Bundestages über die

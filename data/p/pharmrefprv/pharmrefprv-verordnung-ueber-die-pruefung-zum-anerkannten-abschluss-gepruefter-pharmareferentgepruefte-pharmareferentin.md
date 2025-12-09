@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
@@ -34,6 +35,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Pharmareferenten/zur Geprüften Pharmareferentin nach den §§
@@ -81,6 +83,7 @@ Dazu gehört die Befähigung,
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000301360)
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -117,6 +120,7 @@ rechtfertigen.
 
 
 ## § 3 Qualifikationsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000400000)
 
 (1) Die Prüfung gliedert sich in die Qualifikationsbereiche:
 
@@ -593,6 +597,7 @@ werden:
 
 
 ## § 4 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000500000)
 
 (1) Die Prüfung ist in den in § 3 Abs. 1 Nr. 1 bis 3 genannten
 Qualifikationsbereichen schriftlich in Form von anwendungsbezogenen
@@ -636,6 +641,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -648,6 +654,7 @@ Absatz 4 kann nicht befreit werden.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000702128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -661,6 +668,7 @@ und Absatz 4 ist zu bewerten.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -687,6 +695,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE001500128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -713,6 +722,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000801128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -728,6 +738,7 @@ werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE000901128)
 
 (1) Begonnene Prüfungsverfahren können bis zum 30. Juni 2011 zu Ende
 geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
@@ -741,6 +752,7 @@ Anwendung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE001001128)
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft. Gleichzeitig tritt
 die Verordnung über die berufliche Fortbildung zum Geprüften
@@ -749,6 +761,7 @@ Pharmareferenten vom 2. Mai 1978 (BGBl. I S. 600) außer Kraft.
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE001600128)
 
 (Fundstelle: BGBl. I 2019, 2286 – 2287)
 
@@ -1050,6 +1063,7 @@ Pharmareferenten vom 2. Mai 1978 (BGBl. I S. 600) außer Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE001700128)
 
 (Fundstelle: BGBl. I 2019, 2288)
 
@@ -1111,6 +1125,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 (zu § 2 Abs. 1 Nr. 3)
 
 ## Anlage 3 Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
+[Direktlink](https://www.gesetze-im-internet.de/pharmrefprv/BJNR119200007.html#BJNR119200007BJNE001302128)
 
 (Fundstelle: BGBl. I 2007, 1198 - 1201; bzgl. einzelner Änderungen
 vgl. Fußnote)

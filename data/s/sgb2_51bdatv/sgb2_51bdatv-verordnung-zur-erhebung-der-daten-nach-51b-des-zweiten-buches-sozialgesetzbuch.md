@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_51bdatv/BJNR115000010.html#BJNR115000010BJNE000100000)
 
 Auf Grund des § 51b Absatz 1 Satz 2 des Zweiten Buches
 Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
@@ -29,6 +30,7 @@ Arbeit und Soziales:
 
 
 ## § 1 Datenerhebung durch die Träger der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_51bdatv/BJNR115000010.html#BJNR115000010BJNE000204126)
 
 (1) Die zuständigen Träger der Grundsicherung für Arbeitsuchende
 erheben nach § 51b Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch
@@ -139,6 +141,7 @@ Sachgebieten und der Art der Erledigung.
 
 
 ## § 2 Verfahren zur Weiterentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_51bdatv/BJNR115000010.html#BJNR115000010BJNE000300000)
 
 Der Bund-Länder-Ausschuss berät regelmäßig oder im Falle maßgeblicher
 Änderungen der gesetzlichen Rahmenbedingungen über die nach § 51b des
@@ -149,11 +152,13 @@ hierzu Sachverständige hinzuziehen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_51bdatv/BJNR115000010.html#BJNR115000010BJNE000400000)
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_51bdatv/BJNR115000010.html#BJNR115000010BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

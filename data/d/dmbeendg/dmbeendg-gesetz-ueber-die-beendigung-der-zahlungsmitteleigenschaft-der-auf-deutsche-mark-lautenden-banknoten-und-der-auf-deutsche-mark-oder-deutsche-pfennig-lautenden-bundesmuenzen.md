@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/dmbeendg/BJNR240210999.html#BJNR240210999BJNE000100310)
 
 Mit Ablauf des 31. Dezember 2001 verlieren die von der Deutschen
 Bundesbank ausgegebenen, auf Deutsche Mark lautenden Banknoten und die
@@ -38,6 +39,7 @@ Euro-Münzen um.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/dmbeendg/BJNR240210999.html#BJNR240210999BJNE000200310)
 
 Die Deutsche Bundesbank ist nicht verpflichtet, für auf Deutsche Mark
 lautende vernichtete, verlorene, falsche oder verfälschte Banknoten
@@ -49,6 +51,7 @@ oder einen geringeren Teil vorlegt, vernichtet ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/dmbeendg/BJNR240210999.html#BJNR240210999BJNE000301377)
 
 Die Deutsche Bundesbank ist nicht verpflichtet, auf Deutsche Mark oder
 Deutsche Pfennig lautende Bundesmünzen in gesetzliche Zahlungsmittel
@@ -57,11 +60,13 @@ durch den gewöhnlichen Umlauf verändert sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/dmbeendg/BJNR240210999.html#BJNR240210999BJNE000500310)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/dmbeendg/BJNR240210999.html#BJNR240210999BJNE000600310)
 
 Die für die Verfolgung einer Straftat auf dem Gebiet der Geldfälschung
 geltenden Vorschriften der Strafprozessordnung gelten entsprechend für
@@ -74,6 +79,7 @@ Strafgesetzbuches.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/dmbeendg/BJNR240210999.html#BJNR240210999BJNE000700310)
 
 § 4 ist auf Taten, die während seiner Geltung begangen sind, auch dann
 anzuwenden, wenn er außer Kraft getreten ist.

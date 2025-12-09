@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt AnO 2030-11-48-1 v. 18.2.2005 I 453 (BKMErnAnO), AnO 2030-14-164 v. 15.3.2009 I 598 (BKMWidAnO 2009) u. AnO 2031-4-22 v. 18.2.2005 I 454 (BKMBDGAnO 2005)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000100000)
 
 Nach
 
@@ -41,6 +42,7 @@ ordnet die Beauftragte der Bundesregierung für Kultur und Medien an:
 
 
 ## § 1 Ernennung und Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000200000)
 
 Die Befugnis zur Ernennung und Entlassung der Beamtinnen und Beamten
 bis zur Besoldungsgruppe A 15 wird für den jeweiligen Geschäftsbereich
@@ -60,6 +62,7 @@ widerruflich übertragen:
 
 
 ## § 2 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000300000)
 
 Die Zuständigkeit für den Erlass des Widerspruchsbescheids nach § 126
 Absatz 3 Satz 1 des Bundesbeamtengesetzes und § 42 Absatz 1 Satz 1 des
@@ -89,6 +92,7 @@ entsprechend.
 
 
 ## § 3 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000400000)
 
 (1) Die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem
 Beamtenverhältnis wird den Leiterinnen und Leitern der in § 2 Satz 1
@@ -104,6 +108,7 @@ Beamtinnen und Beamten übertragen ist.
 
 
 ## § 4 Befugnisse nach dem Bundesdisziplinargesetz
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000500000)
 
 Den in § 1 genannten Behördenleiterinnen und Behördenleitern werden
 für den jeweiligen Geschäftsbereich widerruflich übertragen:
@@ -126,6 +131,7 @@ für den jeweiligen Geschäftsbereich widerruflich übertragen:
 
 
 ## § 5 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000600000)
 
 Die Beauftragte der Bundesregierung für Kultur und Medien behält sich
 vor, die Zuständigkeiten und Befugnisse nach den §§ 1 bis 4 im
@@ -133,6 +139,7 @@ Einzelfall selbst wahrzunehmen.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000700000)
 
 Die §§ 2 und 3 sind nicht auf Widersprüche und Klagen anzuwenden, die
 vor dem Inkrafttreten dieser Anordnung erhoben worden sind; in diesen
@@ -147,6 +154,7 @@ Medien vom 18. Februar 2005 (BGBl. I S. 454) weiter anzuwenden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bkmzustano/BJNR002600022.html#BJNR002600022BJNE000800000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig treten außer Kraft:

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hkentschg/BJNR283100007.html#BJNR283100007BJNE000100000)
 
 Heimkehrer, die in das in Artikel 3 des Einigungsvertrages genannte
 Gebiet (Beitrittsgebiet) zurückgekehrt sind, erhalten zum Ausgleich
@@ -24,6 +25,7 @@ für den erlittenen Gewahrsam eine einmalige Entschädigung.
 
 
 ## § 2 Heimkehrer
+[Direktlink](https://www.gesetze-im-internet.de/hkentschg/BJNR283100007.html#BJNR283100007BJNE000200000)
 
 (1) Heimkehrer im Sinne dieses Gesetzes sind ehemalige
 Kriegsgefangene, die
@@ -101,6 +103,7 @@ Gericht im Geltungsbereich dieses Gesetzes erfolgt sein.
 
 
 ## § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/hkentschg/BJNR283100007.html#BJNR283100007BJNE000300000)
 
 (1) Die einmalige Entschädigung wird auf Antrag vom
 Bundesverwaltungsamt gewährt.
@@ -116,6 +119,7 @@ Gesetzes zu stellen.
 
 
 ## § 4 Höhe der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/hkentschg/BJNR283100007.html#BJNR283100007BJNE000400000)
 
 (1) Die Höhe der einmaligen Entschädigung für jeden Berechtigten
 beträgt, gestaffelt nach der Dauer des Gewahrsams:
@@ -143,6 +147,7 @@ Gewährung von anderen Einkünften abhängig ist, unberücksichtigt.
 
 
 ## § 5 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/hkentschg/BJNR283100007.html#BJNR283100007BJNE000500000)
 
 Der Bund trägt die Aufwendungen nach § 4 dieses Gesetzes.
 

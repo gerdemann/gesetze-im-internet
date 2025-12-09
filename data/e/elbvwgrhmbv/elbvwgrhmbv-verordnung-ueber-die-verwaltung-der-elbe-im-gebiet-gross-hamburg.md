@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elbvwgrhmbv/BJNR007270937.html#BJNR007270937BJNE000100326)
 
 Auf Grund des § 14 des Gesetzes über Groß-Hamburg und andere
 Gebietsbereinigungen vom 26. Januar 1937 (Reichsgesetzbl. I S. 91)
@@ -25,6 +26,7 @@ wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/elbvwgrhmbv/BJNR007270937.html#BJNR007270937BJNE000200326)
 
 (1) Die nach dem Zusatzvertrag mit Hamburg (Nachtrag vom 18. Februar
 1922, Reichsgesetzbl. I S. 222, in der Fassung des Zweiten Nachtrags
@@ -53,6 +55,7 @@ Reich (Reichswasserstraßenverwaltung).
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/elbvwgrhmbv/BJNR007270937.html#BJNR007270937BJNE000300326)
 
 Der
 Reichsverkehrsminister kann im Einvernehmen mit dem
@@ -64,6 +67,7 @@ widerrufen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/elbvwgrhmbv/BJNR007270937.html#BJNR007270937BJNE000400326)
 
 Der
 Reichsverkehrsminister erläßt die zur Durchführung ... dieser
@@ -71,11 +75,13 @@ Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/elbvwgrhmbv/BJNR007270937.html#BJNR007270937BJNE000500326)
 
 Diese Verordnung tritt am 1. Juli 1937 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/elbvwgrhmbv/BJNR007270937.html#BJNR007270937BJNE000600326)
 
 Der Reichsminister des Innern
 Der Reichsverkehrsminister

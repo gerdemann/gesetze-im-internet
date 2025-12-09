@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## § 1 Erhebung eines Solidaritätszuschlags
+[Direktlink](https://www.gesetze-im-internet.de/solzg/BJNR113180991.html#BJNR113180991BJNE000100308)
 
 Zur Einkommensteuer und zur Körperschaftsteuer wird ein
 Solidaritätszuschlag als Ergänzungsabgabe erhoben.
 
 
 ## § 2 Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/solzg/BJNR113180991.html#BJNR113180991BJNE000200308)
 
 Abgabepflichtig sind
 
@@ -44,6 +46,7 @@ geendet.
 
 
 ## § 3 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/solzg/BJNR113180991.html#BJNR113180991BJNE000301301)
 
 (1) Der Solidaritätszuschlag bemißt sich vorbehaltlich Absatz 2,
 
@@ -109,6 +112,7 @@ mindern die Bemessungsgrundlage nicht.
 
 
 ## § 4 Tarifvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/solzg/BJNR113180991.html#BJNR113180991BJNE000400308)
 
 Der Solidaritätszuschlag beträgt in den Fällen
 
@@ -132,6 +136,7 @@ Ansatz.
 
 
 ## § 5 Doppelbesteuerungsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/solzg/BJNR113180991.html#BJNR113180991BJNE000500308)
 
 Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung
 im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen

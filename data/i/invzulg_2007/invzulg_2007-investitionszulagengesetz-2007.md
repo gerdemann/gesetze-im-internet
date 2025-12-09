@@ -25,6 +25,7 @@ Stand: Dieses G tritt nach seinem § 16 Abs. 1 mit Ausnahme des § 3 Abs. 1 Satz
 Stand: Das G ist gem. § 16 Abs. 1 iVm Satz 1 Bek. v. 22.12.2006 I 3404 mWv 6.12.2006 u. § 3 Abs. 1 Satz 1 Nr. 2 ist gem. § 16 Abs. 2 iVm Satz 2 Bek. v. 22.12.2006 I 3404 mWv 1.1.2007 in Kraft getreten.
 
 ## § 1 Anspruchsberechtigter, Fördergebiet
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000202377)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die im Fördergebiet begünstigte
@@ -45,6 +46,7 @@ Erstinvestitionsvorhaben gehören, die der Anspruchsberechtigte vor dem
 
 
 ## § 2 Begünstigte Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000304377)
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung
 von neuen abnutzbaren beweglichen Wirtschaftsgütern des
@@ -215,6 +217,7 @@ Wirtschaftsgütern bei
 
 
 ## § 3 Investitionszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE002001377)
 
 (1) Investitionen sind begünstigt, wenn sie zu einem
 Erstinvestitionsvorhaben im Sinne des § 2 Abs. 3 gehören, mit dem der
@@ -276,6 +279,7 @@ hergestellt sind.
 
 
 ## § 4 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000501377)
 
 Bemessungsgrundlage der Investitionszulage ist die Summe der
 Anschaffungs- und Herstellungskosten der im Wirtschaftsjahr oder
@@ -304,6 +308,7 @@ Anspruch auf Investitionszulage nach dem Investitionszulagengesetz
 
 
 ## § 5 Höhe der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000602377)
 
 (1) Die Investitionszulage beträgt vorbehaltlich Satz 2
 
@@ -354,6 +359,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 5a Begünstigte Investitionen, Investitionszeitraum und Höhe der Investitionszulage in dem nicht zum Fördergebiet im Sinne des § 1 Abs. 2 gehörenden Teil des Landes Berlin
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE002201377)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die in den in der Anlage 1 zu diesem
@@ -447,6 +453,7 @@ sinngemäß.
 
 
 ## § 6 Antrag auf Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000701377)
 
 (1) Der Antrag ist bei dem für die Besteuerung des
 Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu
@@ -463,6 +470,7 @@ Nachprüfung möglich ist.
 
 
 ## § 7 Gesonderte Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000801377)
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach
 § 180 Abs. 1 Nr. 2 Buchstabe b der Abgabenordnung gesondert
@@ -474,6 +482,7 @@ erforderlichen Angaben sind in den Antrag nach § 6 Abs. 2 aufzunehmen.
 
 
 ## § 8 Einzelnotifizierungspflichten, Genehmigungsvorbehalte und anzuwendende Rechtsvorschriften der Kommission der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE000902377)
 
 (1) Auf Erstinvestitionsvorhaben, mit denen der Anspruchsberechtigte
 nach dem 31. Dezember 2006 beginnt, findet die Verordnung (EG) Nr.
@@ -554,6 +563,7 @@ des Bundesrates anzupassen.
 
 
 ## § 9 Festsetzung und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001001377)
 
 Die Investitionszulage ist nach Ablauf des Wirtschaftsjahrs oder
 Kalenderjahrs festzusetzen und innerhalb eines Monats nach Bekanntgabe
@@ -562,6 +572,7 @@ Körperschaftsteuer auszuzahlen.
 
 
 ## § 10 Zusammentreffen mit anderen Regionalbeihilfen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001103377)
 
 (1) Trifft bei demselben Erstinvestitionsvorhaben die
 Investitionszulage mit anderen Regionalbeihilfen zusammen, sind die in
@@ -600,6 +611,7 @@ erforderlich sind.
 
 
 ## § 11 Verzinsung des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001201377)
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
 zuungunsten des Anspruchsberechtigten geändert worden, ist der
@@ -612,6 +624,7 @@ ist.
 
 
 ## § 12 Ertragsteuerrechtliche Behandlung der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001301377)
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
@@ -619,6 +632,7 @@ Anschaffungs- und Herstellungskosten.
 
 
 ## § 13 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001401377)
 
 Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung
 sind mit Ausnahme des § 163 entsprechend anzuwenden. In öffentlich-
@@ -628,6 +642,7 @@ gegeben.
 
 
 ## § 14 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001501377)
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des
 Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie
@@ -637,6 +652,7 @@ Steuerstraftaten entsprechend.
 
 
 ## § 15 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001601377)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
@@ -644,11 +660,13 @@ bekannt zu machen.
 
 
 ## § 16 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001701377)
 
 -
 
 
 ## Anlage 1 (zu § 1 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE002101377)
 
 (Fundstelle: BGBl. I 2007, 287)
 
@@ -723,6 +741,7 @@ zum D-Fördergebiet gehören:
 
 
 ## Anlage 2 (zu § 2 Abs. 1 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001802377)
 
 Fundstelle des Originaltextes: BGBl. I 2007, 287
 
@@ -773,6 +792,7 @@ Sensible Sektoren sind:
 
 
 ## Anlage 3 (zu § 5 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Satz 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2007/BJNR161400006.html#BJNR161400006BJNE001902377)
 
 Fundstelle des Originaltextes: BGBl. I 2007, 288
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_samtsbezano_1962/BJNR001600962.html#BJNR001600962BJNE000100303)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes in der Fassung vom 1.
 Oktober 1961 (Bundesgesetzblatt I S. 1801) setze ich die

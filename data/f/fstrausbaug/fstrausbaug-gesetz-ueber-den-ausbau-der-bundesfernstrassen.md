@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000106125)
 
 (1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des
 Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan für
@@ -41,12 +42,14 @@ Anlage 2 abschließend aufgeführt ist, liegt im überragenden
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000203308)
 
 Der Ausbau erfolgt nach Stufen, die im Bedarfsplan bezeichnet sind,
 und nach Maßgabe der zur Verfügung stehenden Mittel.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000303308)
 
 Einzelne Verbesserungsmaßnahmen bleiben unberührt; sie sind auf die
 Maßnahmen abzustimmen, die auf Grund des Bedarfsplanes ausgeführt
@@ -54,6 +57,7 @@ werden sollen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000408125)
 
 Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für
 Digitales und Verkehr, ob der Bedarfsplan der Verkehrsentwicklung
@@ -64,6 +68,7 @@ geschieht durch Gesetz.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000507125)
 
 (1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
 Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Sie
@@ -75,6 +80,7 @@ Wirtschaft bleibt unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000604308)
 
 Die Straßenbaupläne können im Einzelfall auch Maßnahmen enthalten, die
 nicht dem Bedarfsplan entsprechen, soweit dies wegen eines
@@ -84,6 +90,7 @@ erforderlich ist.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000707125)
 
 Das Bundesministerium für Digitales und Verkehr berichtet dem
 Deutschen Bundestag jährlich über den Fortgang des
@@ -91,18 +98,21 @@ Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000805123)
 
 Auf laufende und fest disponierte Vorhaben sind die Rechtsvorschriften
 über Vorhaben des Vordringlichen Bedarfs anzuwenden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE000903308)
 
 (Inkrafttreten)
 
 (zu § 1 Absatz 1 Satz 2)
 
 ## Anlage 1 Bedarfsplan für die Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE001009125)
 
 (Fundstelle: BGBl. I 2016, 3354 — 3411,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -27575,6 +27585,7 @@ Linienführung erfolgt gemäß den dafür geltenden Rechtsvorschriften.
 [^F796657_01_BJNR008730971BJNE001009125]: 
 
 ## Anlage 2 (zu § 1 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/fstrausbaug/BJNR008730971.html#BJNR008730971BJNE001100125)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 12 – 15)
 

@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt AnO 111-1/15 v. 23.8.2024 I Nr. 271 (BTWahl2025AnO)
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btwahl20250223ano/BJNR1B30A0024.html#BJNR1B30A0024BJNE000100000)
 
 Auf Grund des § 16 des Bundeswahlgesetzes in der Fassung der
 Bekanntmachung vom 23. Juli 1993 (BGBl. I S. 1288, 1594) ordne ich
@@ -34,6 +35,7 @@ statt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btwahl20250223ano/BJNR1B30A0024.html#BJNR1B30A0024BJNE000200000)
 
 Der Bundespräsident
 Der Bundeskanzler

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE000600314)
 
 Der Bundesminister für Jugend, Familie und Gesundheit verordnet
 auf Grund des § 9 Abs. 1 Nr. 3, 4 Buchstabe a und b und Nr. 5, des §
@@ -38,10 +39,12 @@ mit Zustimmung des Bundesrates:
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNG000100314)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE000702310)
 
 (1) Diese Verordnung gilt für das Herstellen, Behandeln und
 Inverkehrbringen von natürlichem Mineralwasser, von Quellwasser und
@@ -58,10 +61,12 @@ Betriebsstätte beziehen, gleich.
 
 
 ## 2. Abschnitt - Natürliches Mineralwasser
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNG000200314)
 
 
 
 ### § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE000802310)
 
 Natürliches Mineralwasser ist Wasser, das folgende besondere
 Anforderungen erfüllt:
@@ -89,6 +94,7 @@ Anforderungen erfüllt:
 
 
 ### § 3 Amtliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE000907310)
 
 (1) Natürliches Mineralwasser darf gewerbsmäßig nur in den Verkehr
 gebracht werden, wenn es amtlich anerkannt ist. Die amtliche
@@ -142,6 +148,7 @@ Lebensmittelsicherheit im Bundesanzeiger bekanntgemacht.
 
 
 ### § 4 Mikrobiologische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001001310)
 
 (1) Natürliches Mineralwasser muß frei sein von Krankheitserregern.
 Dieses Erfordernis gilt als nicht erfüllt, wenn es in 250 Milliliter
@@ -171,6 +178,7 @@ Untersuchungsverfahren anzuwenden.
 
 
 ### § 5 Gewinnung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001101310)
 
 (1) Ein natürliches Mineralwasser darf vorbehaltlich anderer
 Rechtsvorschriften nur aus Quellen gewonnen werden, für die die
@@ -191,6 +199,7 @@ mikrobiologischen und chemischen Anforderungen entspricht.
 
 
 ### § 6 Herstellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001202116)
 
 (1) Beim Herstellen von natürlichem Mineralwasser dürfen nur folgende
 Verfahren angewendet werden:
@@ -279,6 +288,7 @@ aus natürlichen Mineralwässern und Quellwässern (ABl. L 37 vom
 
 
 ### § 6a Höchstgehalte und Analyseverfahren
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003400310)
 
 (1) Bei der Abfüllung natürlicher Mineralwässer sind die Höchstgehalte
 der in Anlage 4 aufgeführten Stoffe einzuhalten. Die aufgeführten
@@ -294,6 +304,7 @@ dabei die in Anlage 5 genannten Leistungsmerkmale einhalten.
 
 
 ### § 7 Abfüllung und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001301310)
 
 (1) Natürliches Mineralwasser, das nicht unmittelbar nach seiner
 Gewinnung oder Bearbeitung verbraucht wird, muß am Quellort abgefüllt
@@ -307,6 +318,7 @@ ist, Verfälschungen oder Verunreinigungen zu vermeiden.
 
 
 ### § 8 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001405116)
 
 (1) Für ein natürliches Mineralwasser sind die Bezeichnung
 "natürliches Mineralwasser" sowie die nach den Absätzen 2 bis 4
@@ -425,6 +437,7 @@ Bezeichnung des Lebensmittels hingewiesen wird.
 
 
 ### § 9 Irreführende Angaben
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001501310)
 
 (1) Ein natürliches Mineralwasser, das aus ein und derselben
 Quellnutzung stammt, darf nicht unter mehreren Quellnamen oder anderen
@@ -449,10 +462,12 @@ Anforderungen einzuhalten.
 
 
 ## 3. Abschnitt - Quellwasser, Tafelwasser
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNG000300314)
 
 
 
 ### § 10 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001604116)
 
 (1) Quellwasser ist Wasser, das
 
@@ -475,6 +490,7 @@ erfaßten Zutaten enthält.
 
 
 ### § 11 Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001708130)
 
 (1) Zur Herstellung von Tafelwasser dürfen unbeschadet der Verordnung
 (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16.
@@ -512,6 +528,7 @@ festgelegten Grenzwerte für chemische Stoffe eingehalten sind.
 
 
 ### § 12 Gewinnung, Abfüllung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001802310)
 
 (1) Quellwasser darf nur aus Quellen gewonnen oder abgefüllt werden,
 die den Anforderungen der Anlage 1 entsprechen.
@@ -530,6 +547,7 @@ Fertigpackungen nur am Quellort abgefüllt werden.
 
 
 ### § 13 Mikrobiologische Anforderungen, Anforderungen hinsichtlich Indikatorparametern und sonstige Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE001903130)
 
 (1) Für Quellwasser und Tafelwasser gilt § 4 Abs. 1 Satz 1 und 2
 entsprechend. Bei Quellwasser und Tafelwasser, das in zur Abgabe an
@@ -569,6 +587,7 @@ bestimmte Fertigpackungen abgefüllt werden, wenn
 
 
 ### § 14 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002005116)
 
 (1) Bezeichnung des Lebensmittels ist
 
@@ -613,6 +632,7 @@ unverwischbar die folgenden Angaben angebracht sind:
 
 
 ### § 15 Irreführende Angaben
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002105310)
 
 (1) Quellwasser und Tafelwasser dürfen nicht unter Bezeichnungen,
 Angaben, sonstigen Hinweisen oder Aufmachungen gewerbsmäßig in den
@@ -658,10 +678,12 @@ Aufmachungen in der Werbung für Quellwasser und Tafelwasser.
 
 
 ## 4. Abschnitt - Verkehrsverbote, Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNG000400314)
 
 
 
 ### § 16 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002206130)
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
@@ -743,6 +765,7 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 
 ### § 17 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002308116)
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -853,10 +876,12 @@ in den Verkehr bringt, das nicht amtlich anerkannt ist.
 
 
 ## 5. Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNG000500314)
 
 
 
 ### § 18 Trinkwasser
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002404310)
 
 Für Trinkwasser, das nicht die Anforderungen des § 2 oder des § 10
 erfüllt und in zur Abgabe an den Verbraucher bestimmten
@@ -864,11 +889,13 @@ Fertigpackungen in den Verkehr gebracht wird, gilt § 15 entsprechend.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002501301)
 
 (weggefallen)
 
 
 ### § 20 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002607116)
 
 (1) Natürliches Mineralwasser, das bei Inkrafttreten dieser Verordnung
 gewonnen und in den Verkehr gebracht wird, gilt als vorläufig
@@ -893,11 +920,13 @@ werden.
 
 
 ### § 21 Inkrafttreten, abgelöste Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE002801301)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 (zu § 3 Abs. 3, § 5 Abs. 2 und § 12 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003002310)
 
 Fundstelle des Originaltextes: BGBl. I 1984, 1042;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -933,6 +962,7 @@ müssen
 
 
 ### Anlage 2 (zu § 4 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003101310)
 
 Fundstelle des Originaltextes: BGBl. I 1984, 1043 - 1044;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1199,6 +1229,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 3 (zu § 6 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003500310)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1033
 
@@ -1229,6 +1260,7 @@ Mineralwässer und Quellwässer mit ozonangereicherter Luft
 
 
 ### Anlage 4 (zu § 6a Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003600310)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1033
 
@@ -1421,6 +1453,7 @@ natürlichem Mineralwasser
 
 
 ### Anlage 5 (zu § 6a Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003700310)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1034)
 Leistungsmerkmale
@@ -1672,6 +1705,7 @@ bei dem in Anlage 4 vorgesehenen Höchstgehalt.
 
 
 ### Anlage 6 (zu § 9 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003205310)
 
 (Fundstelle: BGBl. I 1984, 1045;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1802,6 +1836,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 3)
 
 ### Anlage 7 Mikrobiologische Anforderungen und Anforderungen hinsichtlich Indikatorparametern für Trinkwasser, das in zur Abgabe an Endverbraucher bestimmte Fertigpackungen abgefüllt wird
+[Direktlink](https://www.gesetze-im-internet.de/min_tafelwv/BJNR010360984.html#BJNR010360984BJNE003800130)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, 62)
 

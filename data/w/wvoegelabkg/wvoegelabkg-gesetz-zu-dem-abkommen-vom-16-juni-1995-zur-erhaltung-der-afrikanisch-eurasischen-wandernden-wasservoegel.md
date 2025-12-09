@@ -19,12 +19,14 @@ Fundstelle
 Stand: Zuletzt geändert Art. 33 V v. 19.6.2020 I 1328
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wv_gelabkg/BJNR249820998.html#BJNR249820998BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wv_gelabkg/BJNR249820998.html#BJNR249820998BJNE000200310)
 
 Dem in Den Haag am 15. August 1996 von der Bundesrepublik Deutschland
 unterzeichneten Abkommen zur Erhaltung der afrikanisch-eurasischen
@@ -34,6 +36,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wv_gelabkg/BJNR249820998.html#BJNR249820998BJNE000304311)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, Änderungen der Anlagen 1 bis 3 des Abkommens nach
@@ -46,6 +49,7 @@ auf Tierarten, die dem Jagdrecht unterliegen, beziehen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wv_gelabkg/BJNR249820998.html#BJNR249820998BJNE000400310)
 
 (1) Es ist verboten, Vögel der in Anlage 3 Tabelle 1 Spalte A des
 Abkommens aufgeführten Arten von einem Schiff aus, das berechtigt ist,
@@ -78,6 +82,7 @@ der Verteidigung sind von den Verboten des Absatzes 1 ausgenommen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wv_gelabkg/BJNR249820998.html#BJNR249820998BJNE000501377)
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen Artikel 3 Abs. 1
 in Verbindung mit Abs. 3 Nr. 2 einen Vogel beunruhigt oder tötet.
@@ -99,6 +104,7 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/wv_gelabkg/BJNR249820998.html#BJNR249820998BJNE000600310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

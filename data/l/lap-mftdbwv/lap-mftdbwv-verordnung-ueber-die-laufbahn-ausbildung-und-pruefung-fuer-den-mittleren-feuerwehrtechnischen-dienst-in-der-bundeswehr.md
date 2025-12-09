@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE004100000)
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
 Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in
@@ -32,10 +33,12 @@ Verteidigung im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## Kapitel 1 - Laufbahn und Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNG000100000)
 
 
 
 ### § 1 Laufbahnämter
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000200000)
 
 (1) Die Laufbahn des mittleren feuerwehrtechnischen Dienstes der
 Bundeswehr umfasst den Vorbereitungsdienst, die Probezeit und alle
@@ -93,6 +96,7 @@ Teilnahme an einem einschlägigen Fortbildungslehrgang.
 
 
 ### § 2 Ziel der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000300000)
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
 Beamtinnen und Beamten die berufliche Grundbildung, die sie zur
@@ -113,6 +117,7 @@ Selbststudium ist zu fördern.
 
 
 ### § 3 Einstellungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000400000)
 
 Einstellungsbehörden sind die Wehrbereichsverwaltungen. Ihnen obliegen
 die Ausschreibung, die Durchführung des Auswahlverfahrens, die
@@ -123,6 +128,7 @@ Entscheidungen zuständigen Dienstbehörden.
 
 
 ### § 4 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000501310)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -140,6 +146,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 ### § 5 Ausschreibung, Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000601311)
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
 ermittelt.
@@ -178,6 +185,7 @@ Bewerbung sind beizufügen
 
 
 ### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000700000)
 
 (1) Vor der Entscheidung über die Einstellung in den
 Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob
@@ -244,6 +252,7 @@ eine Wiederbestellung ist zulässig.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000802310)
 
 (1) Die Wehrbereichsverwaltungen entscheiden nach dem Ergebnis des
 Auswahlverfahrens über die Einstellung von Bewerberinnen und
@@ -300,6 +309,7 @@ Bundeswehrverwaltung die Einstellungsuntersuchung selbst vornehmen.
 
 
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE000900000)
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
 Beamtenverhältnis auf Widerruf - Bewerberinnen zu
@@ -313,6 +323,7 @@ Bundeswehrverwaltungsschule unterstehen sie auch deren Dienstaufsicht.
 
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001002310)
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
@@ -364,11 +375,13 @@ Verlängerung des Vorbereitungsdienstes nach § 36.
 
 
 ### § 10 Urlaub während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001100000)
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 
 ### § 11 Ausbildungsakte
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001200000)
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan, alle Leistungsnachweise und
@@ -377,6 +390,7 @@ sind.
 
 
 ### § 12 Gliederung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001301377)
 
 (1) Der Vorbereitungsdienst gliedert sich in folgende Abschnitte:
 
@@ -451,6 +465,7 @@ Rettungsschwimmabzeichen in Bronze erwerben.
 
 
 ### § 13 Dienstführerschein der Bundeswehr, Einweisungs- und Überprüfungsfahrt, Standortverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001401377)
 
 (1) Anwärterinnen und Anwärter, die nicht im Besitz des
 Dienstführerscheins der Bundeswehr BE/CE sind, müssen diese vor dem
@@ -477,6 +492,7 @@ Brandschutzgerät vermittelt.
 
 
 ### § 14 Feuerwehrtechnischer Grundlehrgang
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001500000)
 
 (1) Im feuerwehrtechnischen Grundlehrgang werden die Anwärterinnen und
 Anwärter als Truppfrau oder Truppmann und Truppführerin oder
@@ -493,6 +509,7 @@ ein Grundwissen verfügen, auf dem die weitere Ausbildung aufbaut.
 
 
 ### § 15 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001600000)
 
 (1) In der praktischen Ausbildung werden die Anwärterinnen und
 Anwärter mit allen Grundlagen der Zusammenarbeit innerhalb der
@@ -510,6 +527,7 @@ den Anwärterinnen und Anwärtern nicht übertragen werden.
 
 
 ### § 16 Verwaltungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001700000)
 
 Im Verwaltungslehrgang werden die Anwärterinnen und Anwärter mit den
 gesetzlichen Bestimmungen und Verwaltungsvorschriften, die bei der
@@ -518,6 +536,7 @@ Einzelheiten regelt der Lehrplan.
 
 
 ### § 17 Abschlusslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001801377)
 
 Im Abschlusslehrgang werden die Anwärterinnen und Anwärter so
 ausgebildet, dass sie eine taktische Einheit bis zur Staffelstärke im
@@ -528,6 +547,7 @@ Lehrplan.
 
 
 ### § 18 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE001900000)
 
 (1) In jeder Einstellungsbehörde wird eine Beamtin oder ein Beamter
 als Ausbildungsleitung bestellt. Die Ausbildungsleitung lenkt und
@@ -559,6 +579,7 @@ eine Ausfertigung.
 
 
 ### § 19 Leistungsnachweise während der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002002116)
 
 (1) Während des feuerwehrtechnischen Grundlehrgangs sind drei
 schriftliche Arbeiten von jeweils drei Stunden Dauer aus dem Gebiet
@@ -613,6 +634,7 @@ Leistungsnachweises bestimmt hat.
 
 
 ### § 20 Bewertungen während der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002101116)
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
 Anwärter während der praktischen Ausbildung wird für jedes
@@ -634,10 +656,12 @@ Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
 
 ## Kapitel 2 - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNG000200000)
 
 
 
 ### § 21 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002200000)
 
 (1) Dem beim Bundesministerium der Verteidigung eingerichteten
 Prüfungsamt obliegt die Durchführung der Laufbahnprüfung; es trägt
@@ -650,6 +674,7 @@ andere Behörden übertragen werden.
 
 
 ### § 22 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002300000)
 
 (1) Die Laufbahnprüfung wird vor einer Prüfungskommission abgelegt;
 für die praktische, schriftliche und mündliche Prüfung können
@@ -770,6 +795,7 @@ zulässig.
 
 
 ### § 23 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002400000)
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
 Anwärter für die Laufbahn befähigt sind.
@@ -797,6 +823,7 @@ Prüfungsleistungen dürfen nur deren Mitglieder anwesend sein.
 
 
 ### § 24 Prüfungsort, Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002500000)
 
 (1) Das Prüfungsamt setzt Ort und Zeit der praktischen, der
 schriftlichen und der mündlichen Prüfung fest.
@@ -811,6 +838,7 @@ rechtzeitig mit.
 
 
 ### § 25 Praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002602116)
 
 (1) Die praktische Prüfung erstreckt sich auf den feuerwehrtechnischen
 Teil der Ausbildung und wird in Form von Anfahrübungen durchgeführt.
@@ -830,6 +858,7 @@ elektronisch gefertigt.
 
 
 ### § 26 Zulassung zur schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002700000)
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur schriftlichen
 Prüfung zu, wenn sie in der praktischen Prüfung mindestens die
@@ -846,6 +875,7 @@ einer Rechtsbehelfsbelehrung versehen.
 
 
 ### § 27 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002801116)
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt. Die Aufgaben der
 drei schriftlichen Prüfungsarbeiten sind aus den folgenden
@@ -900,6 +930,7 @@ Zeit als Bearbeitungszeit.
 
 
 ### § 28 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE002900000)
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
 Prüfung zu, wenn zwei schriftliche Prüfungsarbeiten mindestens mit der
@@ -916,6 +947,7 @@ Rechtsbehelfsbelehrung versehen.
 
 
 ### § 29 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003002116)
 
 (1) Die mündliche Prüfung erstreckt sich auf unterschiedliche
 Schwerpunkte der Ausbildungsinhalte. Die Prüfungskommission wählt den
@@ -943,6 +975,7 @@ elektronisch gefertigt.
 
 
 ### § 30 Verhinderung, Rücktritt, Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003100000)
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
 Umstände an der Ablegung der Prüfung oder Teilen der Prüfung
@@ -971,6 +1004,7 @@ versehen.
 
 
 ### § 31 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003200000)
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen
 Prüfungsarbeit, in der praktischen oder in der mündlichen Prüfung eine
@@ -1009,6 +1043,7 @@ hören.
 
 
 ### § 32 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003300000)
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten
 bewertet:
@@ -1202,6 +1237,7 @@ sinngemäß.
 
 
 ### § 33 Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003402116)
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
 die Abschlussnote fest. Dabei werden berücksichtigt
@@ -1275,6 +1311,7 @@ oder elektronisches Protokoll zu fertigen.
 
 
 ### § 34 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003500000)
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
 Laufbahnprüfung bestanden haben, ein Prüfungszeugnis, das mindestens
@@ -1300,6 +1337,7 @@ Fällen des § 31 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
 
 ### § 35 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003600000)
 
 (1) Jeweils eine Ausfertigung der Bewertungen der
 Ausbildungsabschnitte, der Niederschrift über die praktische,
@@ -1314,6 +1352,7 @@ Prüfungsakten nehmen.
 
 
 ### § 36 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003700000)
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, kann diese einmal
 wiederholen; das Bundesministerium der Verteidigung kann in
@@ -1333,10 +1372,12 @@ werden.
 
 
 ## Kapitel 3 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNG000300000)
 
 
 
 ### § 37 Anderweitige Zuerkennung der Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003801310)
 
 Die anderweitige Zuerkennung der Laufbahnbefähigung nach § 19 Absatz 1
 der Bundeslaufbahnverordnung durch die oberste Dienstbehörde setzt
@@ -1346,6 +1387,7 @@ Prüfung mit der Laufbahnprüfung gleichwertig ist.
 
 
 ### § 38 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE003900000)
 
 Ausbildung und Prüfung der vor Inkrafttreten dieser Verordnung in den
 Vorbereitungsdienst eingestellten Anwärterinnen und Anwärter richten
@@ -1353,6 +1395,7 @@ sich nach den bisherigen Vorschriften.
 
 
 ### § 39 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lap-mftdbwv/BJNR103100002.html#BJNR103100002BJNE004000000)
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 

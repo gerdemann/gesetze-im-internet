@@ -23,6 +23,7 @@ Berufsschule werden als Beilage zum Bundesanzeigerveröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000100305)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -34,6 +35,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000200305)
 
 Der Ausbildungsberuf Glaser/Glaserin wird für die Ausbildung für das
 Gewerbe Nummer 72, Glaser, der Anlage A der Handwerksordnung staatlich
@@ -41,6 +43,7 @@ anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000300305)
 
 Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -55,6 +58,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000400305)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -157,6 +161,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000500305)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -174,12 +179,14 @@ ist auch in den Prüfungen nach den §§ 7, 8 und 9 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000600305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000700305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -188,6 +195,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000800305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -213,6 +221,7 @@ Arbeit beachten kann.
 
 
 ## § 8 Gesellenprüfung der Fachrichtung Verglasung und Glasbau
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE000900305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -367,6 +376,7 @@ bestanden.
 
 
 ## § 9 Gesellenprüfung der Fachrichtung Fenster- und Glasfassadenbau
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE001000305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -522,6 +532,7 @@ bestanden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE001100305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -530,12 +541,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE001200305)
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 (zu § 4 Abs 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
+[Direktlink](https://www.gesetze-im-internet.de/glausbv_2001/BJNR155100001.html#BJNR155100001BJNE001300305)
 
 (Fundstelle: BGBl. I 2001, 1555 - 1561)
 

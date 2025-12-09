@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/babrigeschwv_1978/BJNR018240978.html#BJNR018240978BJNE000100307)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten
@@ -30,6 +31,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/babrigeschwv_1978/BJNR018240978.html#BJNR018240978BJNE000203308)
 
 Den Führern von Personenkraftwagen sowie von anderen Kraftfahrzeugen
 mit einem zulässigen Gesamtgewicht bis zu 3,5 t wird empfohlen, auch
@@ -55,6 +57,7 @@ deren Zeichen Höchstgeschwindigkeiten (Zeichen 274) bestehen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/babrigeschwv_1978/BJNR018240978.html#BJNR018240978BJNE000300307)
 
 Im übrigen bleiben die Vorschriften der Straßenverkehrs-Ordnung
 unberührt und gelten entsprechend für diese Verordnung. Die in § 1
@@ -62,6 +65,7 @@ genannten Zeichen sind die der Straßenverkehrs-Ordnung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/babrigeschwv_1978/BJNR018240978.html#BJNR018240978BJNE000400307)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 33 Abs. 2 des Kostenermächtigungs-
@@ -70,11 +74,13 @@ Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/babrigeschwv_1978/BJNR018240978.html#BJNR018240978BJNE000500307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/babrigeschwv_1978/BJNR018240978.html#BJNR018240978BJNE000600307)
 
 Der Bundesminister für Verkehr
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Bundesamt für das Personalmanagement der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/wvwa_g/BJNR159000012.html#BJNR159000012BJNE000100000)
 
 Dem Bundesamt für das Personalmanagement der Bundeswehr werden die
 Aufgaben und Befugnisse des Bundesamtes für Wehrverwaltung und der
@@ -55,6 +56,7 @@ Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 
 
 ## § 2 Karrierecenter der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/wvwa_g/BJNR159000012.html#BJNR159000012BJNE000200000)
 
 Die Aufgaben und Befugnisse, die in Rechtsvorschriften des Bundes den
 Kreiswehrersatzämtern zugewiesen sind, werden den Karrierecentern der

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mregv_2014/BJNR162700014.html#BJNR162700014BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 Satz 1 in Verbindung mit Satz 2 Nummer 2
 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom
@@ -34,6 +35,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Kürzung der Zahlungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mregv_2014/BJNR162700014.html#BJNR162700014BJNE000200000)
 
 (1) Jeder Zahlungsanspruch im Rahmen der Betriebsprämienregelung für
 das Jahr 2014 wird nach Maßgabe des Absatzes 2 gekürzt.
@@ -43,11 +45,13 @@ Zahlungsanspruches mit dem Faktor 0,8297 multipliziert wird.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mregv_2014/BJNR162700014.html#BJNR162700014BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mregv_2014/BJNR162700014.html#BJNR162700014BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

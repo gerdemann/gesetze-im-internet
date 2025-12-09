@@ -23,6 +23,7 @@ Die v tritt gem. § 12 satz 2 mit ablauf des 23. dezember 2011 außer kraft, sof
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000101377)
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe s und t in Verbindung
 mit Absatz 4, der §§ 15 und 16 in Verbindung mit § 6 Absatz 4 und des
@@ -37,6 +38,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich, Zuständigkeit, Betriebssitz
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000201377)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Durchführungsverordnung (EU) Nr. 585/2011 der Kommission vom 17. Juni
@@ -80,6 +82,7 @@ die Geschäftsleitung befindet.
 
 
 ## § 2 Marktrücknahmen von Nichtmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000301377)
 
 Nichtmitglieder haben die Marktrücknahmen im Sinne des Artikels 5
 Absatz 4 der Durchführungsverordnung (EU) Nr. 585/ 2011 bei der
@@ -87,6 +90,7 @@ zuständigen Landesstelle zu notifizieren.
 
 
 ## § 3 Notifizierungen
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000401377)
 
 (1) Die Frist für Notifizierungen der Erzeugerorganisationen und der
 Nichtmitglieder nach der Durchführungsverordnung (EU) Nr. 585/2011 und
@@ -107,6 +111,7 @@ erfolgt ist.
 
 
 ## § 4 Bestimmungszwecke für die aus dem Markt genommenen Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000501377)
 
 (1) Bestimmungszweck für die aus dem Markt genommenen Erzeugnisse ist
 neben der in Artikel 80 Absatz 2 der Durchführungsverordnung (EU) Nr.
@@ -122,6 +127,7 @@ verwenden.
 
 
 ## § 5 Beträge
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000601377)
 
 Der in Artikel 4 Absatz 5 Unterabsatz 4 der Durchführungsverordnung
 (EU) Nr. 585/2011 genannte Betrag wird – vorbehaltlich eines in einem
@@ -161,6 +167,7 @@ wie folgt festgesetzt:
 
 
 ## § 6 Anträge
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000701377)
 
 (1) Anträge der Erzeugerorganisationen und der Nichtmitglieder nach
 Artikel 8 der Durchführungsverordnung (EU) Nr. 585/2011 müssen neben
@@ -201,6 +208,7 @@ soweit dies zur Entscheidung über den Antrag erforderlich ist.
 
 
 ## § 7 Anerkennung gemeinnütziger Einrichtungen oder wohltätiger Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000801377)
 
 Mit dem Antrag auf Anerkennung als gemeinnützige Einrichtung oder
 wohltätige Stiftung ist die in Artikel 83 Absatz 1 der
@@ -209,6 +217,7 @@ Verpflichtungserklärung vorzulegen.
 
 
 ## § 8 Muster, Vordrucke und Formulare
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE000901377)
 
 (1) Die zuständigen Stellen können für Notifizierungen, Anträge oder
 Erklärungen Muster bekannt geben oder Vordrucke oder Formulare, auch
@@ -219,6 +228,7 @@ oder Formulare bereithalten, sind diese zu verwenden.
 
 
 ## § 9 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE001001377)
 
 Die Länder teilen der Bundesanstalt alle Angaben, die zur Erfüllung
 der Mitteilungspflichten erforderlich sind, die der Bundesrepublik
@@ -229,6 +239,7 @@ werden können.
 
 
 ## § 10 Aufzeichnungs-, Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE001101377)
 
 (1) Der Antragsteller hat die bei ihm verbliebenen Antrags- und
 Bewilligungsunterlagen sowie alle für die Beihilfegewährung
@@ -267,6 +278,7 @@ es verlangen.
 
 
 ## § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE001201377)
 
 Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 des
 Marktorganisationsgesetzes handelt, wer entgegen § 4 Absatz 2 ein dort
@@ -274,6 +286,7 @@ genanntes Erzeugnis verwendet.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/euobstgem_sedv/BJNR607600011.html#BJNR607600011BJNE001301377)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE000106308)
 
 (1) Die Vermögensbildung der Arbeitnehmer durch vereinbarte
 vermögenswirksame Leistungen der Arbeitgeber wird nach den
@@ -52,6 +53,7 @@ die nachstehenden Vorschriften dieses Gesetzes entsprechend.
 
 
 ## § 2 Vermögenswirksame Leistungen, Anlageformen
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE000224126)
 
 (1) Vermögenswirksame Leistungen sind Geldleistungen, die der
 Arbeitgeber für den Arbeitnehmer anlegt
@@ -310,6 +312,7 @@ ist nicht übertragbar.
 
 
 ## § 3 Vermögenswirksame Leistungen für Angehörige, Überweisung durch den Arbeitgeber, Kennzeichnungs-, Bestätigungs- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE001906360)
 
 (1) Vermögenswirksame Leistungen können auch angelegt werden
 
@@ -356,6 +359,7 @@ hat die Richtigkeit der Bestätigung nicht zu prüfen.
 
 
 ## § 4 Sparvertrag über Wertpapiere oder andere Vermögensbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002112377)
 
 (1) Ein Sparvertrag über Wertpapiere oder andere
 Vermögensbeteiligungen im Sinne des § 2 Abs. 1 Nr. 1 ist ein
@@ -468,6 +472,7 @@ abgetreten oder beliehen werden.
 
 
 ## § 5 Wertpapier-Kaufvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002205308)
 
 (1) Ein Wertpapier-Kaufvertrag im Sinne des § 2 Abs. 1 Nr. 2 ist ein
 Kaufvertrag zwischen dem Arbeitnehmer und dem Arbeitgeber zum Erwerb
@@ -496,6 +501,7 @@ angelegten vermögenswirksamen Leistungen setzt voraus, daß
 
 
 ## § 6 Beteiligungs-Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002306308)
 
 (1) Ein Beteiligungs-Vertrag im Sinne des § 2 Abs. 1 Nr. 3 ist ein
 Vertrag zwischen dem Arbeitnehmer und dem Arbeitgeber über die
@@ -546,6 +552,7 @@ angelegten vermögenswirksamen Leistungen setzt voraus, daß
 
 
 ## § 7 Beteiligungs-Kaufvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002406308)
 
 (1) Ein Beteiligungs-Kaufvertrag im Sinne des § 2 Abs. 1 Nr. 3 ist ein
 Kaufvertrag zwischen dem Arbeitnehmer und dem Arbeitgeber zum Erwerb
@@ -569,6 +576,7 @@ entsprechend.
 
 
 ## § 8 Sparvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002608377)
 
 (1) Ein Sparvertrag im Sinne des § 2 Abs. 1 Nr. 6 ist ein Sparvertrag
 zwischen dem Arbeitnehmer und einem Kreditinstitut, in dem die in den
@@ -668,6 +676,7 @@ ist. Satz 1 gilt für vor dem 1. Januar 2009 und nach dem 31. Dezember
 
 
 ## § 9 Kapitalversicherungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002507308)
 
 (1) Ein Kapitalversicherungsvertrag im Sinne des § 2 Abs. 1 Nr. 7 ist
 ein Vertrag über eine Kapitalversicherung auf den Erlebens- und
@@ -705,6 +714,7 @@ erstattet oder der Berechnung der prämienfreien Versicherungsleistung
 
 
 ## § 10 Vereinbarung zusätzlicher vermögenswirksamer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE000306308)
 
 (1) Vermögenswirksame Leistungen können in Verträgen mit
 Arbeitnehmern, in Betriebsvereinbarungen, in Tarifverträgen oder in
@@ -720,6 +730,7 @@ vermögenswirksame Leistungen erbracht worden sind.
 
 
 ## § 11 Vermögenswirksame Anlage von Teilen des Arbeitslohns
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE000407308)
 
 (1) Der Arbeitgeber hat auf schriftliches Verlangen des Arbeitnehmers
 einen Vertrag über die vermögenswirksame Anlage von Teilen des
@@ -776,6 +787,7 @@ Absätzen 3 bis 5 abgewichen werden.
 
 
 ## § 12 Freie Wahl der Anlage
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE000609308)
 
 Vermögenswirksame Leistungen werden nur dann nach den Vorschriften
 dieses Gesetzes gefördert, wenn der Arbeitnehmer die Art der
@@ -788,6 +800,7 @@ und Abs. 4 ist nur mit Zustimmung des Arbeitgebers zulässig.
 
 
 ## § 13 Anspruch auf Arbeitnehmer-Sparzulage
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE001224126)
 
 (1) Der Arbeitnehmer hat Anspruch auf eine Arbeitnehmer-Sparzulage
 nach Absatz 2, wenn er gegenüber dem Unternehmen, dem Institut oder
@@ -845,6 +858,7 @@ entfällt nicht, wenn die Sperrfrist nicht eingehalten wird, weil
 
 
 ## § 14 Festsetzung der Arbeitnehmer-Sparzulage, Anwendung der Abgabenordnung, Verordnungsermächtigung, Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE001312360)
 
 (1) Die Verwaltung der Arbeitnehmer-Sparzulage obliegt den
 Finanzämtern. Die Arbeitnehmer-Sparzulage wird aus den Einnahmen an
@@ -925,6 +939,7 @@ Finanzrechtsweg gegeben.
 
 
 ## § 15 Elektronische Vermögensbildungsbescheinigung, Verordnungsermächtigungen, Haftung, Anrufungsauskunft, Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE001413126)
 
 (1) Das Unternehmen, das Institut oder der in § 3 Absatz 3 genannte
 Gläubiger hat der für die Besteuerung des Arbeitnehmers nach dem
@@ -1012,11 +1027,13 @@ diese mit der Anlage vermögenswirksamer Leistungen nach § 2 Abs. 1 Nr.
 
 
 ## § 16 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE001605308)
 
 (gegenstandslos)
 
 
 ## § 16a Gleichstellung der Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002800126)
 
 Für die Anwendung der vorstehenden Vorschriften dieses Gesetzes sind
 Wertpapierinstitute im Sinne des Wertpapierinstitutsgesetzes den
@@ -1025,6 +1042,7 @@ des Kapitalanlagegesetzbuchs gleichgestellt.
 
 
 ## § 17 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE001725126)
 
 (1) Die vorstehenden Vorschriften dieses Gesetzes gelten vorbehaltlich
 der nachfolgenden Absätze für vermögenswirksame Leistungen, die nach
@@ -1158,6 +1176,7 @@ anzuwenden.
 
 
 ## § 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags und der Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/vermbg_2/BJNR005850965.html#BJNR005850965BJNE002701308)
 
 (1) Hat sich der Arbeitnehmer in einem Vertrag im Sinne des § 17 Abs.
 3 verpflichtet, auch nach dem 31. Dezember 1994 vermögenswirksame

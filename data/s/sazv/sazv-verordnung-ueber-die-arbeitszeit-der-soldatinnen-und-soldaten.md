@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000100000)
 
 Auf Grund des § 30c Absatz 5 in Verbindung mit § 93 Absatz 2 Nummer 5
 des Soldatengesetzes, von denen § 30c Absatz 5 durch Artikel 5 Nummer
@@ -29,9 +30,11 @@ Bundesministerium der Verteidigung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000304311)
 
 (1) Diese Verordnung gilt für alle Soldatinnen und Soldaten, die im
 Geschäftsbereich des Bundesministeriums der Verteidigung verwendet
@@ -51,6 +54,7 @@ Dauer der Verwendung oder Kommandierung ruhen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000403311)
 
 Im Sinne dieser Verordnung ist
 
@@ -165,6 +169,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000500000)
 
 Für Maßnahmen nach dieser Verordnung ist das Bundesministerium der
 Verteidigung zuständig, soweit nichts Abweichendes bestimmt ist. Das
@@ -173,6 +178,7 @@ andere Dienststellen seines Geschäftsbereichs übertragen.
 
 
 ### § 4 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000601377)
 
 Arbeitszeit ist insbesondere nicht:
 
@@ -233,9 +239,11 @@ Arbeitszeit ist insbesondere nicht:
 
 
 ## Abschnitt 2 - Grundbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNG000200000)
 
 
 ### § 5 Regelmäßige wöchentliche Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000702377)
 
 (1) Die regelmäßige wöchentliche Arbeitszeit kann auf Antrag von 41
 auf 40 Stunden verkürzt werden für:
@@ -307,6 +315,7 @@ Zeitraum von zwölf Monaten einschließlich der geleisteten Mehrarbeit
 
 
 ### § 5a Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE003102377)
 
 (1) Für Soldatinnen und Soldaten, die Tätigkeiten als fliegende
 Besatzung zur Überwachung des nationalen Luftraums oder im maritimen
@@ -378,6 +387,7 @@ Soldaten sind anzugeben:
 
 
 ### § 6 Regelmäßige tägliche Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000801377)
 
 (1) Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende
 sind festzulegen. Die regelmäßige tägliche Arbeitszeit darf 13 Stunden
@@ -435,6 +445,7 @@ innerhalb der Grenzen nach Absatz 1 individuell festzulegen.
 
 
 ### § 7 Ruhepausen und Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE000900000)
 
 (1) Die Arbeit ist spätestens nach 6 Stunden durch eine Ruhepause von
 mindestens 30 Minuten zu unterbrechen. Nach mehr als 9 Stunden muss
@@ -466,6 +477,7 @@ Absatz 1 Satz 3 abgewichen werden.
 [^BJNR199500015BJNE000900000_01]: 
 
 ### § 8 Dienstfreie Tage
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001000000)
 
 Samstag, Heiligabend und Silvester sind grundsätzlich dienstfrei. Aus
 dienstlichen Gründen kann an diesen Tagen, an Sonntagen und an
@@ -474,6 +486,7 @@ werden.
 
 
 ### § 9 Schichtdienst
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001101311)
 
 (1) Sind die Dienststunden so festgelegt, dass die regelmäßige
 tägliche Arbeitszeit von Soldatinnen und Soldaten im Rahmen der
@@ -486,6 +499,7 @@ Rahmen der Gleitzeit ausgeglichen werden kann.
 
 
 ### § 10 Mobiles Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001200000)
 
 Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem
 anderen Ort als dem Arbeitsplatz zu leisten, wenn dienstliche Gründe
@@ -493,6 +507,7 @@ nicht entgegenstehen.
 
 
 ### § 11 Dienstreisen
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001301311)
 
 (1) Bei Dienstreisen ist die Zeit, die zur Erledigung von
 Dienstgeschäften außerhalb der Dienststätte benötigt wird,
@@ -544,6 +559,7 @@ gewährt.
 
 
 ### § 12 Rufbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001402377)
 
 (1) Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die
 Soldatin oder der Soldat jedoch über die Arbeitszeit hinaus mehr als
@@ -563,6 +579,7 @@ Auftrages.
 
 
 ### § 13 Bereitschaftsdienst
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001500000)
 
 (1) Bereitschaftsdienst ist Arbeitszeit.
 
@@ -595,6 +612,7 @@ Listen zu vernichten.
 
 
 ### § 14 Nachtdienst
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001601311)
 
 (1) Die Gestaltung von Nachtdienst muss der besonderen Beanspruchung
 der Arbeitskraft der Soldatin oder des Soldaten Rechnung tragen. Dabei
@@ -609,6 +627,7 @@ verrichtet wird, die Arbeitszeit nicht mehr als 8 Stunden betragen. §
 
 
 ### § 15 Mehrarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001701377)
 
 (1) Der Dienstbetrieb ist grundsätzlich so auszugestalten, dass die
 regelmäßige wöchentliche Arbeitszeit oder die im Rahmen der
@@ -647,6 +666,7 @@ sind, fünf weitere Jahre aufzubewahren und anschließend zu löschen.
 
 
 ### § 16 Gleitzeit
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001801311)
 
 (1) Das Bundesministerium der Verteidigung kann Gleitzeit ermöglichen,
 soweit dienstliche Gründe dem nicht entgegenstehen. Die zur Erfüllung
@@ -725,6 +745,7 @@ unmittelbaren Vorgesetzten mitgeteilt werden.
 
 
 ### § 17 Langzeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE001903311)
 
 (1) Für Berufssoldatinnen und Berufssoldaten sowie für Soldatinnen auf
 Zeit und Soldaten auf Zeit kann das Bundesministerium der Verteidigung
@@ -757,6 +778,7 @@ ein weiteres Zeitguthaben nach § 17a ansparen noch Zeitausgleich nach
 
 
 ### § 17a Ansparen bei Langzeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002900311)
 
 (1) Für Soldatinnen und Soldaten, für die ein Langzeitkonto geführt
 wird, kann die regelmäßige wöchentliche Arbeitszeit auf Antrag um bis
@@ -811,6 +833,7 @@ Soldatinnen und Soldaten verwendet werden.
 
 
 ### § 17b Zeitausgleich bei Langzeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE003000311)
 
 (1) Der Ausgleich für das Zeitguthaben auf dem Langzeitkonto wird auf
 Antrag durch Dienstbefreiung gewährt. Während der Dienstbefreiung
@@ -854,6 +877,7 @@ Zeitguthaben verfällt.
 
 
 ### § 18 Automatisierte Zeiterfassung
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002001311)
 
 (1) Das Bundesministerium der Verteidigung kann eine automatisierte
 Zeiterfassung auch unabhängig von der Einführung einer Gleitzeit für
@@ -879,6 +903,7 @@ unmittelbaren Vorgesetzten mitgeteilt werden.
 
 
 ### § 19 Führungskräfte
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002101377)
 
 (1) Die Regelungen dieses Abschnitts zur regelmäßigen wöchentlichen
 Arbeitszeit, zur täglichen und wöchentlichen Ruhezeit, zu Ruhepausen,
@@ -921,9 +946,11 @@ sorgen, bleibt unberührt.
 
 
 ## Abschnitt 3 - Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNG000300000)
 
 
 ### § 20 Nichtanwendung des Abschnitts 2
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002200000)
 
 (1) Bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes sind die
 Bestimmungen des Abschnitts 2 nicht anzuwenden.
@@ -936,6 +963,7 @@ gilt auch für Freistellungszeiten, die aus Diensten nach § 30c Absatz
 
 
 ### § 21 Anordnung von Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002304377)
 
 (1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten
 Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage
@@ -978,6 +1006,7 @@ aufzubewahren und anschließend zu löschen.
 
 
 ### § 22 Umgang mit besonderen zeitlichen Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002401311)
 
 Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage
 die besonderen zeitlichen Belastungen der Soldatinnen und Soldaten so
@@ -986,6 +1015,7 @@ der Regeneration gewähren.
 
 
 ### § 23 Ausgleich besonderer zeitlicher Belastungen bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002502311)
 
 (1) Die oder der zuständige Disziplinarvorgesetzte hat dafür Sorge zu
 tragen, dass besondere zeitliche Belastungen bei Tätigkeiten nach §
@@ -1032,6 +1062,7 @@ soll Soldatinnen und Soldaten, auf Antrag
 
 
 ### Anlage (zu § 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/sazv/BJNR199500015.html#BJNR199500015BJNE002802377)
 
 (Fundstelle: BGBl. 2025 Nr. 78, S. 4 - 6)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000100328)
 
 Auf Grund des § 5 Abs. 1 Nr. 1, 3 und 5, Abs. 2 und § 6 Abs. 2 des
 Gesetzes über das Seelotswesen in der Fassung der Bekanntmachung vom
@@ -30,6 +31,7 @@ der Bundeslotsenkammer verordnet:
 
 
 ## § 1 Seelotsreviere
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000202308)
 
 Im Geltungsbereich des Gesetzes über das Seelotswesen werden die
 Seelotsreviere Ems, Weser I, Weser II/Jade, Elbe, Nord-Ostsee-Kanal I,
@@ -38,6 +40,7 @@ Wismar/Rostock/Stralsund gebildet.
 
 
 ## § 2 Grenzen der Seelotsreviere
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000301308)
 
 (1) Das Seelotsrevier Ems umfaßt alle Fahrtstrecken zwischen Papenburg
 und der Leuchttonne "GW/TG".
@@ -87,12 +90,14 @@ Anlagen 1, 2 und 3 ersichtlich.
 
 
 ## § 3 Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000403305)
 
 Aufsichtsbehörde für die Seelotsreviere ist die Generaldirektion
 Wasserstraßen und Schifffahrt.
 
 
 ## § 4 Ermächtigung der Aufsichtsbehörden zum Erlaß von Lotsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000500328)
 
 Die Ermächtigungen nach § 5 Abs. 1 Nr. 3 bis 5 des Gesetzes über das
 Seelotswesen werden auf die Aufsichtsbehörden übertragen, soweit die
@@ -100,11 +105,13 @@ folgenden Vorschriften nicht bereits Regelungen treffen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000601308)
 
 -
 
 
 ## § 6 Durchführung von Betrieb und Unterhaltung der Lotseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000702305)
 
 Die Durchführung von Betrieb und Unterhaltung der Lotseinrichtungen in
 den Seelotsrevieren Ems, Weser I, Weser II/Jade, Elbe, Nord-Ostsee-
@@ -117,6 +124,7 @@ wird an private natürliche oder juristische Personen vergeben.
 
 
 ## § 7 Führung der Bört- und Schiffsliste
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000800328)
 
 (1) Die Lotsenbrüderschaften haben nach näherer Bestimmung der
 Börtordnung Bört- und Schiffslisten zu führen. In diese sind
@@ -145,6 +153,7 @@ Anforderung vorzulegen.
 
 
 ## § 8 Durchführung der Lotstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE000900328)
 
 (1) Der Seelotse hat jede Lotsung durchzuführen, für die er nach der
 Börtordnung bestimmt ist. § 24 Abs. 1 des Gesetzes über das
@@ -174,6 +183,7 @@ sein, wenn
 
 
 ## § 9 Beendigung der Lotstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001000328)
 
 Wird der Seelotse, bevor er abgelöst wird oder das Schiff den
 Bestimmungsort oder die Grenze des Reviers erreicht hat, vom Kapitän
@@ -183,6 +193,7 @@ bestätigen zu lassen.
 
 
 ## § 10 Mitzuführende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001100328)
 
 Im Dienst hat der Seelotse seinen Lotsenausweis, den Text der
 Allgemeinen Lotsverordnung, der Lotsverordnung des Seelotsreviers
@@ -191,6 +202,7 @@ zu führen. Der Schiffsführung ist auf Verlangen Einsicht zu gewähren.
 
 
 ## § 11 Unterrichtung der Schiffsführung
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001200328)
 
 Der Seelotse hat, soweit erforderlich, die Schiffsführung über alle
 die Schiffahrt auf dem Seelotsrevier und in den Häfen betreffenden
@@ -199,6 +211,7 @@ sicherheitspolizeilichen Regelungen zu unterrichten.
 
 
 ## § 12 Informationspflicht des Seelotsen, Prüfliste und Lotsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001303308)
 
 (1) Sobald der Seelotse an Bord gekommen ist, hat er den Kapitän oder
 seinen Vertreter unverzüglich über Mängel und besondere Eigenschaften
@@ -230,6 +243,7 @@ einer von der Aufsichtsbehörde bestimmten Dienststelle abzuliefern.
 
 
 ## § 13 Beförderung des Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001400328)
 
 Im Bedarfsfall sollen die auf dem Seelotsrevier verkehrenden Schiffe
 Seelotsen zur Auffüllung der Lotsenstation auf deren eigene Gefahr
@@ -238,6 +252,7 @@ Möglichkeiten für ihre angemessene Unterbringung an Bord sorgen.
 
 
 ## § 14 Unterbringung des Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001500328)
 
 Geht der Seelotse, wenn ein Schiff die Fahrt unterbricht, nicht von
 Bord oder kann er bei der Außenstation des Lotsenschiffes nicht
@@ -247,6 +262,7 @@ stellen und ihn zu verpflegen.
 
 
 ## § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001603308)
 
 (1) Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Gesetzes über
 das Seelotswesen handelt, wer vorsätzlich oder fahrlässig
@@ -300,11 +316,13 @@ wird auf die Aufsichtsbehörde übertragen.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001701308)
 
 -
 
 
 ## § 17 Inkrafttreten, Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001800328)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -312,12 +330,14 @@ wird auf die Aufsichtsbehörde übertragen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE001900328)
 
 Der Bundesminister für Verkehr
 
 (zu § 2 Abs. 8)
 
 ## Anlage 1 Bereich Nordsee
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE002001308)
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 939)
@@ -325,6 +345,7 @@ Fundstelle: BGBl. I 1995, 939)
 (zu § 2 Abs. 8)
 
 ## Anlage 2 Bereich Ostsee, Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE002100308)
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 940)
@@ -332,6 +353,7 @@ Fundstelle: BGBl. I 1995, 940)
 (zu § 2 Abs. 8)
 
 ## Anlage 3 Bereich Ostsee, Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE002200308)
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 941)
@@ -339,6 +361,7 @@ Fundstelle: BGBl. I 1995, 941)
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1108)
+[Direktlink](https://www.gesetze-im-internet.de/lotso_1987/BJNR012900987.html#BJNR012900987BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

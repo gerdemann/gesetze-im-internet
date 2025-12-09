@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000100000)
 
 
 
 ### § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000201311)
 
 Dieses Gesetz gilt für Beamte und Ruhestandsbeamte im Sinne des
 Bundesbeamtengesetzes. Frühere Beamte, die Unterhaltsbeiträge nach den
@@ -35,6 +37,7 @@ Ruhestandsbeamte; das Altersgeld gilt als Ruhegehalt.
 
 
 ### § 2 Sachlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000302310)
 
 (1) Dieses Gesetz gilt für die
 
@@ -76,6 +79,7 @@ beamtenrechtlich ein Dienstvergehen darstellt.
 
 
 ### § 3 Ergänzende Anwendung des Verwaltungsverfahrensgesetzes und der Verwaltungsgerichtsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000400000)
 
 Zur Ergänzung dieses Gesetzes sind die Bestimmungen des
 Verwaltungsverfahrensgesetzes und der Verwaltungsgerichtsordnung
@@ -85,15 +89,18 @@ etwas anderes bestimmt ist.
 
 
 ### § 4 Gebot der Beschleunigung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000500000)
 
 Disziplinarverfahren sind beschleunigt durchzuführen.
 
 
 ## Teil 2 - Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000200000)
 
 
 
 ### § 5 Arten der Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000601310)
 
 (1) Disziplinarmaßnahmen gegen Beamte sind:
 
@@ -131,6 +138,7 @@ auf Probe und Beamten auf Widerruf wegen eines Dienstvergehens gelten
 
 
 ### § 6 Verweis
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000700000)
 
 Der Verweis ist der schriftliche Tadel eines bestimmten Verhaltens des
 Beamten. Missbilligende Äußerungen (Zurechtweisungen, Ermahnungen oder
@@ -139,6 +147,7 @@ keine Disziplinarmaßnahmen.
 
 
 ### § 7 Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000800000)
 
 Die Geldbuße kann bis zur Höhe der monatlichen Dienst- oder
 Anwärterbezüge des Beamten auferlegt werden. Hat der Beamte keine
@@ -147,6 +156,7 @@ Dienst- oder Anwärterbezüge, darf die Geldbuße bis zu dem Betrag von
 
 
 ### § 8 Kürzung der Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE000900000)
 
 (1) Die Kürzung der Dienstbezüge ist die bruchteilmäßige Verminderung
 der monatlichen Dienstbezüge des Beamten um höchstens ein Fünftel auf
@@ -183,6 +193,7 @@ bisherigen Amt der Beförderung gleich.
 
 
 ### § 9 Zurückstufung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001000000)
 
 (1) Die Zurückstufung ist die Versetzung des Beamten in ein Amt
 derselben Laufbahn mit geringerem Endgrundgehalt. Der Beamte verliert
@@ -212,6 +223,7 @@ der Beamte zurückgestuft wurde, der Beförderung gleich.
 
 
 ### § 10 Entfernung aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001101125)
 
 (1) Mit der Entfernung aus dem Beamtenverhältnis endet das
 Dienstverhältnis. Der Beamte verliert den Anspruch auf Dienstbezüge
@@ -266,6 +278,7 @@ Beschäftigungsverhältnis begründet werden.
 
 
 ### § 11 Kürzung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001200000)
 
 Die Kürzung des Ruhegehalts ist die bruchteilmäßige Verminderung des
 monatlichen Ruhegehalts des Ruhestandsbeamten um höchstens ein Fünftel
@@ -274,6 +287,7 @@ und 4 gilt entsprechend.
 
 
 ### § 12 Aberkennung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001300000)
 
 (1) Mit der Aberkennung des Ruhegehalts verliert der Ruhestandsbeamte
 den Anspruch auf Versorgung einschließlich der
@@ -297,6 +311,7 @@ Ruhestand inne gehabt hat.
 
 
 ### § 13 Bemessung der Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001401125)
 
 (1) Die Disziplinarmaßnahme ist nach der Schwere des Dienstvergehens
 zu bemessen. Das Persönlichkeitsbild des Beamten ist angemessen zu
@@ -358,6 +373,7 @@ aus dem Beamtenverhältnis hätte entfernt werden müssen.
 
 
 ### § 14 Zulässigkeit von Disziplinarmaßnahmen nach Straf- oder Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001501310)
 
 (1) Ist gegen einen Beamten im Straf- oder Bußgeldverfahren
 unanfechtbar eine Strafe, Geldbuße oder Ordnungsmaßnahme verhängt
@@ -386,6 +402,7 @@ erfüllen.
 
 
 ### § 15 Disziplinarmaßnahmeverbot wegen Zeitablaufs
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001602125)
 
 (1) Es darf nicht mehr ausgesprochen werden:
 
@@ -426,6 +443,7 @@ Dauer dieses Verfahrens gehemmt.
 
 
 ### § 16 Verwertungsverbot, Entfernung aus der Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001702125)
 
 (1) Ein Verweis darf nach zwei Jahren, eine Geldbuße, eine Kürzung der
 Dienstbezüge und eine Kürzung des Ruhegehalts dürfen nach drei Jahren
@@ -478,14 +496,17 @@ Satz 1 Nr. 2, Satz 2 und 3 des Bundesbeamtengesetzes Anwendung.
 
 
 ## Teil 3 - Behördliches Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000300000)
 
 
 
 ### Kapitel 1 - Einleitung, Ausdehnung und Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000400000)
 
 
 
 #### § 17 Einleitung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001801310)
 
 (1) Liegen zureichende tatsächliche Anhaltspunkte vor, die den
 Verdacht eines Dienstvergehens rechtfertigen, hat der
@@ -521,6 +542,7 @@ bestimmt ist.
 
 
 #### § 18 Einleitung auf Antrag des Beamten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE001900000)
 
 (1) Der Beamte kann bei dem Dienstvorgesetzten oder dem höheren
 Dienstvorgesetzten die Einleitung eines Disziplinarverfahrens gegen
@@ -537,6 +559,7 @@ gilt entsprechend.
 
 
 #### § 19 Ausdehnung und Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002001125)
 
 (1) Das Disziplinarverfahren kann bis zum Erlass einer Entscheidung
 nach § 32 oder § 33 auf neue Handlungen ausgedehnt werden, die den
@@ -557,10 +580,12 @@ Gegenstand eines neuen Disziplinarverfahrens sein.
 
 
 ### Kapitel 2 - Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000500000)
 
 
 
 #### § 20 Unterrichtung, Belehrung und Anhörung des Beamten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002101125)
 
 (1) Der Beamte ist über die Einleitung des Disziplinarverfahrens
 unverzüglich zu unterrichten, sobald dies ohne Gefährdung der
@@ -588,6 +613,7 @@ nicht zu seinem Nachteil verwertet werden.
 
 
 #### § 21 Pflicht zur Durchführung von Ermittlungen, Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002200000)
 
 (1) Zur Aufklärung des Sachverhalts sind die erforderlichen
 Ermittlungen durchzuführen. Dabei sind die belastenden, die
@@ -607,6 +633,7 @@ geordneten Verfahrens.
 
 
 #### § 22 Zusammentreffen von Disziplinarverfahren mit Strafverfahren oder anderen Verfahren, Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002300000)
 
 (1) Ist gegen den Beamten wegen des Sachverhalts, der dem
 Disziplinarverfahren zugrunde liegt, im Strafverfahren die öffentliche
@@ -628,6 +655,7 @@ und Absatz 2 gelten entsprechend.
 
 
 #### § 23 Bindung an tatsächliche Feststellungen aus Strafverfahren oder anderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002400000)
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
 Straf- oder Bußgeldverfahren oder im verwaltungsgerichtlichen
@@ -643,6 +671,7 @@ gelegt werden.
 
 
 #### § 24 Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002500000)
 
 (1) Die erforderlichen Beweise sind zu erheben. Hierbei können
 insbesondere
@@ -683,6 +712,7 @@ zwingende Gründe dem entgegenstehen.
 
 
 #### § 25 Zeugen und Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002600000)
 
 (1) Zeugen sind zur Aussage und Sachverständige zur Erstattung von
 Gutachten verpflichtet. Die Bestimmungen der Strafprozessordnung über
@@ -705,6 +735,7 @@ gestellt werden, der die Befähigung zum Richteramt hat.
 
 
 #### § 26 Herausgabe von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002700000)
 
 Der Beamte hat Schriftstücke, Zeichnungen, bildliche Darstellungen und
 Aufzeichnungen einschließlich technischer Aufzeichnungen, die einen
@@ -716,6 +747,7 @@ entsprechend. Der Beschluss ist unanfechtbar.
 
 
 #### § 27 Beschlagnahmen und Durchsuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002801125)
 
 (1) Das Gericht kann auf Antrag durch Beschluss Beschlagnahmen und
 Durchsuchungen anordnen; § 25 Abs. 3 gilt entsprechend. Die Anordnung
@@ -736,6 +768,7 @@ eingeschränkt.
 
 
 #### § 28 Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE002900000)
 
 Über Anhörungen des Beamten und Beweiserhebungen sind Protokolle
 aufzunehmen; § 168a der Strafprozessordnung gilt entsprechend. Bei der
@@ -745,6 +778,7 @@ Aktenvermerks.
 
 
 #### § 29 Innerdienstliche Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003000000)
 
 (1) Die Vorlage von Personalakten und anderen Behördenunterlagen mit
 personenbezogenen Daten sowie die Erteilung von Auskünften aus diesen
@@ -769,6 +803,7 @@ oder anderer Betroffener erforderlich ist.
 
 
 #### § 29a Informationen nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE009000116)
 
 Nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG des
 Europäischen Parlaments und des Rates vom 7. September 2005 über die
@@ -803,6 +838,7 @@ für den Eintritt in den Ruhestand, längstens jedoch 15 Jahre.
 
 
 #### § 30 Abschließende Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003100000)
 
 Nach der Beendigung der Ermittlungen ist dem Beamten Gelegenheit zu
 geben, sich abschließend zu äußern; § 20 Abs. 2 gilt entsprechend. Die
@@ -811,6 +847,7 @@ Abs. 2 Nr. 2 oder 3 eingestellt werden soll.
 
 
 #### § 31 Abgabe des Disziplinarverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003200000)
 
 Hält der Dienstvorgesetzte nach dem Ergebnis der Anhörungen und
 Ermittlungen seine Befugnisse nach den §§ 32 bis 34 nicht für
@@ -823,10 +860,12 @@ ausreichend halten.
 
 
 ### Kapitel 3 - Abschlussentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000600000)
 
 
 
 #### § 32 Einstellungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003300000)
 
 (1) Das Disziplinarverfahren wird eingestellt, wenn
 
@@ -867,6 +906,7 @@ ausreichend halten.
 
 
 #### § 33 Disziplinarverfügung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003401125)
 
 (1) Disziplinarmaßnahmen werden durch Disziplinarverfügung
 ausgesprochen.
@@ -903,6 +943,7 @@ ihnen zugrunde liegenden Urteile verwiesen werden.
 
 
 #### § 34 Disziplinarbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003501125)
 
 (1) Jeder Dienstvorgesetzte ist zur Verhängung von Verweisen und
 Geldbußen gegen die ihm unterstellten Beamten befugt.
@@ -936,6 +977,7 @@ zweiter Teilsatz sowie Absatz 3 und 4 gilt entsprechend.
 
 
 #### § 35 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003601125)
 
 (1) Die Einstellungsverfügung und die Disziplinarverfügung sind dem
 höheren Dienstvorgesetzten unverzüglich zuzuleiten. Hält dieser seine
@@ -970,6 +1012,7 @@ abweichen.
 
 
 #### § 36 Wiederaufgreifen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003701125)
 
 (1) Ergeht nach dem Eintritt der Unanfechtbarkeit der
 Disziplinarverfügung in einem Straf- oder Bußgeldverfahren, das wegen
@@ -993,6 +1036,7 @@ anzuwenden.
 
 
 #### § 37 Kostentragungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003802116)
 
 (1) Dem Beamten, gegen den eine Disziplinarmaßnahme verhängt wird,
 können die entstandenen Auslagen auferlegt werden. Bildet das
@@ -1022,10 +1066,12 @@ das Verschulden eines Vertreters ist ihm zuzurechnen.
 
 
 ### Kapitel 4 - Vorläufige Dienstenthebung und Einbehaltung von Bezügen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000700000)
 
 
 
 #### § 38 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE003902125)
 
 (1) Die für den Erlass der Disziplinarverfügung zuständige Behörde
 kann einen Beamten gleichzeitig mit oder nach der Einleitung des
@@ -1113,6 +1159,7 @@ oder teilweise aufheben.
 
 
 #### § 39 Rechtswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004001125)
 
 (1) Die vorläufige Dienstenthebung wird mit der Zustellung, die
 Einbehaltung von Bezügen mit dem auf die Zustellung folgenden
@@ -1137,6 +1184,7 @@ enden mit dem unanfechtbaren Abschluss des Disziplinarverfahrens.
 
 
 #### § 40 Verfall, Erstattung und Nachzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004102125)
 
 (1) Die nach § 38 Absatz 2 und 3 einbehaltenen Bezüge verfallen, wenn
 
@@ -1199,10 +1247,12 @@ dass ein Dienstvergehen erwiesen ist. Der Beamte ist verpflichtet,
 
 
 ### Kapitel 5 - Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000800000)
 
 
 
 #### § 41 Erforderlichkeit, Form und Frist des Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004200000)
 
 (1) Vor der Erhebung der Klage des Beamten ist ein
 Widerspruchsverfahren durchzuführen. Ein Widerspruchsverfahren findet
@@ -1214,6 +1264,7 @@ Verwaltungsgerichtsordnung.
 
 
 #### § 42 Widerspruchsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004300000)
 
 (1) Der Widerspruchsbescheid wird durch die oberste Dienstbehörde, bei
 Ruhestandsbeamten durch den nach § 84 zuständigen Dienstvorgesetzten
@@ -1229,6 +1280,7 @@ unberührt.
 
 
 #### § 43 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004401125)
 
 Der Widerspruchsbescheid ist der obersten Dienstbehörde unverzüglich
 zuzuleiten. Diese kann den Widerspruchsbescheid, durch den über eine
@@ -1243,6 +1295,7 @@ abweichen.
 
 
 #### § 44 Kostentragungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004502116)
 
 (1) Im Widerspruchsverfahren trägt der unterliegende Teil die
 entstandenen Auslagen. Hat der Widerspruch teilweise Erfolg, sind die
@@ -1261,14 +1314,17 @@ Ermessen zu entscheiden.
 
 
 ## Teil 4 - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG000901125)
 
 
 
 ### Kapitel 1 - Disziplinargerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001000000)
 
 
 
 #### § 45 Zuständigkeit der Verwaltungsgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004600000)
 
 Die Aufgaben der Disziplinargerichtsbarkeit nach diesem Gesetz nehmen
 die Gerichte der Verwaltungsgerichtsbarkeit wahr. Hierzu werden bei
@@ -1284,6 +1340,7 @@ unberührt.
 
 
 #### § 46 Kammer für Disziplinarsachen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004701125)
 
 (1) Die Kammer für Disziplinarsachen entscheidet in der Besetzung von
 drei Richtern und zwei Beamtenbeisitzern als ehrenamtlichen Richtern,
@@ -1329,6 +1386,7 @@ für die in Absatz 2 Satz 2 genannten Verfahren.
 
 
 #### § 47 Beamtenbeisitzer
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004801310)
 
 (1) Die Beamtenbeisitzer müssen auf Lebenszeit ernannte Beamte im
 Bundesdienst sein und bei ihrer Auswahl oder Bestellung ihren
@@ -1347,6 +1405,7 @@ bestimmt sich nach Landesrecht.
 
 
 #### § 48 Ausschluss von der Ausübung des Richteramts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE004901310)
 
 (1) Ein Richter oder Beamtenbeisitzer ist von der Ausübung des
 Richteramts kraft Gesetzes ausgeschlossen, wenn er
@@ -1387,6 +1446,7 @@ Dienststelle des Beamten angehört.
 
 
 #### § 49 Nichtheranziehung eines Beamtenbeisitzers
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005001125)
 
 Ein Beamtenbeisitzer, gegen den eine Disziplinarmaßnahme nach § 9 oder
 § 10 ausgesprochen oder gegen den wegen einer vorsätzlich begangenen
@@ -1397,6 +1457,7 @@ des Verbots zur Ausübung seines Amts nicht herangezogen werden.
 
 
 #### § 50 Entbindung vom Amt des Beamtenbeisitzers
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005101310)
 
 (1) Der Beamtenbeisitzer ist von seinem Amt zu entbinden, wenn
 
@@ -1430,6 +1491,7 @@ Verwaltungsgerichtsordnung entsprechend.
 
 
 #### § 51 Senate für Disziplinarsachen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005200000)
 
 (1) Für den Senat für Disziplinarsachen des Oberverwaltungsgerichts
 gelten § 46 Abs. 1 und 3 sowie die §§ 47 bis 50 entsprechend.
@@ -1438,14 +1500,17 @@ gelten § 46 Abs. 1 und 3 sowie die §§ 47 bis 50 entsprechend.
 
 
 ### Kapitel 2 - Verfahren vor dem Verwaltungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001101125)
 
 
 
 #### Abschnitt 1 - Klageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001200000)
 
 
 
 ##### § 52 Klageerhebung, Form und Frist der Klage
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005301125)
 
 Für die Form und Frist der Klagen gelten die §§ 74, 75 und 81 der
 Verwaltungsgerichtsordnung. Abweichend von § 75 Satz 2 der
@@ -1456,10 +1521,12 @@ das Disziplinarverfahren nach § 22 ausgesetzt ist.
 
 
 ##### (XXXX) §§ 53 bis 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005401125)
 
 
 
 ##### § 56 Beschränkung des Disziplinarverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005700000)
 
 Das Gericht kann das Disziplinarverfahren beschränken, indem es solche
 Handlungen ausscheidet, die für die Art und Höhe der zu erwartenden
@@ -1473,6 +1540,7 @@ Gegenstand eines neuen Disziplinarverfahrens sein.
 
 
 ##### § 57 Bindung an tatsächliche Feststellungen aus anderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005801320)
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
 Straf- oder Bußgeldverfahren oder im verwaltungsgerichtlichen
@@ -1489,6 +1557,7 @@ Entscheidung ohne erneute Prüfung zugrunde gelegt werden.
 
 
 ##### § 58 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE005901125)
 
 (1) Das Gericht erhebt die erforderlichen Beweise.
 
@@ -1500,10 +1569,12 @@ gelten entsprechend.
 
 
 ##### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006001125)
 
 
 
 ##### § 60 Mündliche Verhandlung, Entscheidung durch Urteil
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006101125)
 
 (1) Das Gericht entscheidet über die Klage, wenn das Verfahren nicht
 auf andere Weise abgeschlossen wird, auf Grund mündlicher Verhandlung
@@ -1522,6 +1593,7 @@ unberührt.
 
 
 ##### § 61 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006201125)
 
 Hat das Gericht unanfechtbar über die Klage gegen eine
 Disziplinarverfügung entschieden, ist hinsichtlich der dieser
@@ -1537,10 +1609,12 @@ Feststellungen, auf denen die Entscheidung beruht, abweichen.
 
 
 #### Abschnitt 2 - Besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001300000)
 
 
 
 ##### § 62 Antrag auf gerichtliche Fristsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006301125)
 
 (1) Ist ein behördliches Disziplinarverfahren nicht innerhalb von
 sechs Monaten seit der Einleitung durch Einstellung oder durch Erlass
@@ -1567,6 +1641,7 @@ rechtskräftigen Urteil gleich.
 
 
 ##### § 63 Antrag auf Aussetzung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006400000)
 
 (1) Der Beamte kann die Aussetzung der vorläufigen Dienstenthebung und
 der Einbehaltung von Dienst- oder Anwärterbezügen beim Gericht
@@ -1584,14 +1659,17 @@ Absatz 1 gilt § 80 Abs. 7 der Verwaltungsgerichtsordnung entsprechend.
 
 
 ### Kapitel 3 - Verfahren vor dem Oberverwaltungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001401125)
 
 
 
 #### Abschnitt 1 - Berufung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001500000)
 
 
 
 ##### § 64 Statthaftigkeit, Form und Frist der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006502125)
 
 Gegen das Urteil des Verwaltungsgerichts steht den Beteiligten die
 Berufung zu, wenn sie von dem Verwaltungsgericht oder dem
@@ -1600,6 +1678,7 @@ Verwaltungsgerichtsordnung sind anzuwenden.
 
 
 ##### § 65 Berufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006601125)
 
 (1) Für das Berufungsverfahren gelten die Bestimmungen über das
 Disziplinarverfahren vor dem Verwaltungsgericht entsprechend, soweit
@@ -1610,6 +1689,7 @@ Entscheidung ohne erneute Beweisaufnahme zugrunde gelegt werden.
 
 
 ##### § 66 Mündliche Verhandlung, Entscheidung durch Urteil
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006700000)
 
 Das Oberverwaltungsgericht entscheidet über die Berufung, wenn das
 Disziplinarverfahren nicht auf andere Weise abgeschlossen wird, auf
@@ -1618,10 +1698,12 @@ Verwaltungsgerichtsordnung wird nicht angewandt.
 
 
 #### Abschnitt 2 - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001600000)
 
 
 
 ##### § 67 Statthaftigkeit, Form und Frist der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006802125)
 
 (1) Für die Statthaftigkeit, Form und Frist der Beschwerde gelten die
 §§ 146 und 147 der Verwaltungsgerichtsordnung.
@@ -1632,16 +1714,19 @@ der Verwaltungsgerichtsordnung entsprechend.
 
 
 ##### § 68 Entscheidung des Oberverwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE006900000)
 
 Das Oberverwaltungsgericht entscheidet über die Beschwerde durch
 Beschluss.
 
 
 ### Kapitel 4 - Verfahren vor dem Bundesverwaltungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001701125)
 
 
 
 #### § 69 Form, Frist und Zulassung der Revision
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007001310)
 
 Für die Zulassung der Revision, für die Form und Frist der Einlegung
 der Revision und der Einlegung der Beschwerde gegen ihre
@@ -1650,6 +1735,7 @@ Nichtzulassung sowie für die Revisionsgründe gelten die §§ 132, 133,
 
 
 #### § 70 Revisionsverfahren, Entscheidung über die Revision
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007100000)
 
 (1) Für das Revisionsverfahren gelten die Bestimmungen über das
 Disziplinarverfahren vor dem Oberverwaltungsgericht entsprechend.
@@ -1659,10 +1745,12 @@ der Verwaltungsgerichtsordnung.
 
 
 ### Kapitel 5 - Wiederaufnahme des gerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001801125)
 
 
 
 #### § 71 Wiederaufnahmegründe
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007202125)
 
 (1) Die Wiederaufnahme des durch rechtskräftiges Urteil
 abgeschlossenen Disziplinarverfahrens ist zulässig, wenn
@@ -1726,6 +1814,7 @@ werden kann.
 
 
 #### § 72 Unzulässigkeit der Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007300000)
 
 (1) Die Wiederaufnahme des durch rechtskräftiges Urteil
 abgeschlossenen Disziplinarverfahrens ist unzulässig, wenn nach dem
@@ -1750,6 +1839,7 @@ Rechtskraft des Urteils drei Jahre vergangen sind.
 
 
 #### § 73 Frist, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007401125)
 
 (1) Der Antrag auf Wiederaufnahme des Disziplinarverfahrens muss bei
 dem Gericht, dessen Entscheidung angefochten wird, binnen drei Monaten
@@ -1767,6 +1857,7 @@ nichts anderes ergibt.
 
 
 #### § 74 Entscheidung durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007501125)
 
 (1) Das Gericht kann den Antrag, auch nach der Eröffnung der
 mündlichen Verhandlung, durch Beschluss verwerfen, wenn es die
@@ -1783,6 +1874,7 @@ nach Absatz 2 stehen einem rechtskräftigen Urteil gleich.
 
 
 #### § 75 Mündliche Verhandlung, Entscheidung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007600000)
 
 (1) Das Gericht entscheidet, wenn das Wiederaufnahmeverfahren nicht
 auf andere Weise abgeschlossen wird, auf Grund mündlicher Verhandlung
@@ -1794,6 +1886,7 @@ statthafte Rechtsmittel eingelegt werden.
 
 
 #### § 76 Rechtswirkungen, Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007702125)
 
 (1) Wird in einem Wiederaufnahmeverfahren das angefochtene Urteil
 zugunsten des Beamten aufgehoben, erhält dieser von dem Eintritt der
@@ -1817,10 +1910,12 @@ geltend zu machen.
 
 
 ### Kapitel 6 - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG001901310)
 
 
 
 #### § 77 Kostentragung und erstattungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007801310)
 
 (1) Für die Kostentragungspflicht der Beteiligten und die
 Erstattungsfähigkeit von Kosten gelten die Bestimmungen der
@@ -1840,6 +1935,7 @@ behördlichen Disziplinarverfahrens.
 
 
 #### § 78 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE007901310)
 
 In gerichtlichen Disziplinarverfahren werden Gebühren nach dem
 Gebührenverzeichnis der Anlage zu diesem Gesetz erhoben. Im Übrigen
@@ -1849,10 +1945,12 @@ Gerichtskostengesetzes entsprechend anzuwenden.
 
 
 ## Teil 5 - Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG002000000)
 
 
 
 ### § 79 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008001125)
 
 (1) Die Zahlung des Unterhaltsbeitrags nach § 10 Abs. 3 oder § 12 Abs.
 2 beginnt, soweit in der Entscheidung nichts anderes bestimmt ist, zum
@@ -1887,6 +1985,7 @@ Dienstverhältnis berufen wird.
 
 
 ### § 80 Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008901125)
 
 (1) Im Falle der Entfernung aus dem Beamtenverhältnis oder der
 Aberkennung des Ruhegehalts kann die zuletzt zuständige oberste
@@ -1935,6 +2034,7 @@ bestanden hatte.
 
 
 ### § 81 Begnadigung
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008201310)
 
 (1) Dem Bundespräsidenten steht das Begnadigungsrecht in
 Disziplinarsachen nach diesem Gesetz zu. Er kann es anderen Stellen
@@ -1946,10 +2046,12 @@ Bundesbeamtengesetzes entsprechend.
 
 
 ## Teil 6 - Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG002100000)
 
 
 
 ### § 82 Polizeivollzugsbeamte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008302125)
 
 Das Bundesministerium des Innern und für Heimat bestimmt durch
 Rechtsverordnung, welche Vorgesetzten der Polizeivollzugsbeamten des
@@ -1958,6 +2060,7 @@ Absatz 1 und 2 Nummer 2 und Absatz 5 gelten.
 
 
 ### § 83 Beamte der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008403125)
 
 (1) Das für die Aufsicht zuständige Bundesministerium gilt im Sinne
 dieses Gesetzes als oberste Dienstbehörde der Beamten der
@@ -1977,6 +2080,7 @@ Bundesbeamtengesetzes entsprechend.
 
 
 ### § 84 Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008502125)
 
 Bei Ruhestandsbeamten werden die Disziplinarbefugnisse durch die zum
 Zeitpunkt des Eintritts in den Ruhestand zuständige oberste
@@ -1989,10 +2093,12 @@ ist.
 
 
 ## Teil 7 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNG002200000)
 
 
 
 ### § 85 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008605130)
 
 Auf vor dem 1. April 2024 eingeleitete Disziplinarverfahren sind
 weiterhin das Bundesdisziplinargesetz in der bis zum 31. März 2024
@@ -2002,6 +2108,7 @@ bisherigem Recht getroffen worden sind, bleiben rechtswirksam.
 
 
 ### § 86 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008702125)
 
 Die zur Durchführung dieses Gesetzes erforderlichen
 Verwaltungsvorschriften erlässt das Bundesministerium des Innern und
@@ -2010,6 +2117,7 @@ Ministerialblatt zu veröffentlichen.
 
 
 ### Anlage (zu § 78) Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bdg/BJNR151010001.html#BJNR151010001BJNE008801125)
 
 ## **Gebührenverzeichnis**
 

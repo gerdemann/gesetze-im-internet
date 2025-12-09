@@ -20,15 +20,18 @@ Geändert durch
 
 
 ## Art 1 - Immissionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000100314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001000314)
 
 -
 
 
 ## § 2 Übernahme von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001100314)
 
 (1) Nach Maßgabe der nachfolgenden Bestimmungen treten die in der
 Bundesrepublik Deutschland geltenden immissionsschutzrechtlichen
@@ -49,11 +52,13 @@ Republik in Kraft.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001200314)
 
 -
 
 
 ## § 4 Altanlagen
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001400314)
 
 (1)
 Altanlagen sind Anlagen, die bis zum Zeitpunkt des Inkrafttretens der
@@ -98,19 +103,23 @@ Schadensersatzansprüche.
 
 
 ## (XXXX) §§ 5 bis 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001500314)
 
 
 
 ## Art 2 - Kerntechnische Sicherheit und Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000200314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001600314)
 
 -
 
 
 ## § 2 Übernahme und Außerkrafttreten von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001700314)
 
 (1) Neben dem gemäß § 15 des Gesetzes vom 21.6.1990 über die
 Inkraftsetzung von Rechtsvorschriften der Bundesrepublik Deutschland
@@ -126,19 +135,23 @@ Verwaltungsvorschrift in Kraft.
 
 
 ## (XXXX) §§ 3 bis 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001800314)
 
 
 
 ## Art 3 - Wasserwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000300314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE001900314)
 
 -
 
 
 ## § 2 Übernahme von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002000314)
 
 (1) Nach Maßgabe der nachfolgenden Vorschriften treten die in der
 Bundesrepublik Deutschland geltenden wasserwirtschaftlichen
@@ -157,15 +170,18 @@ Republik wie folgt in Kraft:
 
 
 ## Art 4 - Abfallwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000400314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002100314)
 
 -
 
 
 ## § 2 Übernahme von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002200314)
 
 Nach Maßgabe der nachfolgenden Bestimmungen treten die in der
 Bundesrepublik Deutschland geltenden abfallrechtlichen Vorschriften
@@ -184,41 +200,50 @@ allgemeine Verwaltungsvorschrift in Kraft.
 
 
 ## § 3 Altanlagen
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002300314)
 
 Auf Altanlagen findet Artikel 1 § 4 Abs. 3 entsprechende Anwendung.
 
 
 ## (XXXX) §§ 4 bis 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002400314)
 
 
 
 ## Art 5 - Chemikalienrecht
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000500314)
 
 
 
 ## Art 6 - Naturschutz und Landschaftspflege
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000600314)
 
 
 
 ## Art 7 - Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000700314)
 
 
 
 ## Art 8 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000800314)
 
 
 
 ## Art 9 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNG000900314)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002500314)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002600314)
 
 
 *
@@ -399,6 +424,7 @@ Republik**
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE002700314)
 
 
 *
@@ -486,6 +512,7 @@ Republik**
 Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 885, 1226)
+[Direktlink](https://www.gesetze-im-internet.de/urag/DDNR006499990.html#DDNR006499990BJNE888800301)
 
 Abschnitt III
 Fortgeltendes Recht der Deutschen Demokratischen Republik

@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000100305)
 
 Im Namen und im Einvernehmen mit
 
@@ -107,6 +108,7 @@ März 1999 (BGBl. I S. 654), Folgendes an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000200305)
 
 
 1.  Die Oberfinanzdirektionen, Zoll- und Verbrauchsteuerabteilung,
@@ -133,6 +135,7 @@ März 1999 (BGBl. I S. 654), Folgendes an:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000300305)
 
 Abschnitt I gilt entsprechend für Beihilfeanträge ehemaliger
 Bundespräsidenten, Bundeskanzler, Bundesminister und Parlamentarischer
@@ -140,6 +143,7 @@ Staatssekretäre.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000400305)
 
 
 1.  Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126
@@ -165,6 +169,7 @@ Staatssekretäre.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000500305)
 
 Die nach dieser Anordnung zuständigen Stellen führen den im Rahmen der
 Aufgabenübertragung erforderlich werdenden Schriftwechsel mit den
@@ -174,16 +179,19 @@ GBMl. S. 742) unmittelbar.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000600305)
 
 Die Anordnung tritt am 1. Februar 2000 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000700305)
 
 Der Bundesminister der Finanzen
 
 
 ## Übersicht
+[Direktlink](https://www.gesetze-im-internet.de/zustaobeih/BJNR120900000.html#BJNR120900000BJNE000801320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1211 - 1212;
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/rkizustano/BJNR039600006.html#BJNR039600006BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
@@ -33,6 +34,7 @@ Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/rkizustano/BJNR039600006.html#BJNR039600006BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt die Vertretung des Bundesministeriums für
@@ -44,12 +46,14 @@ Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/rkizustano/BJNR039600006.html#BJNR039600006BJNE000300000)
 
 Diese Anordnung ist für das Robert Koch-Institut mit Wirkung vom 1.
 September 2005 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rkizustano/BJNR039600006.html#BJNR039600006BJNE000400000)
 
 Die Bundesministerin für Gesundheit
 

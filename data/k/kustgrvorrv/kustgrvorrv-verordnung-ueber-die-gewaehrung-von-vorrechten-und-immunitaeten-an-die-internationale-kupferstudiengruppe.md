@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kustgrvorrv/BJNR205340992.html#BJNR205340992BJNE000100333)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kustgrvorrv/BJNR205340992.html#BJNR205340992BJNE000200333)
 
 Die Bestimmungen des Artikels II des Abkommens über die Vorrechte und
 Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21.
@@ -42,6 +44,7 @@ deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kustgrvorrv/BJNR205340992.html#BJNR205340992BJNE000300333)
 
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
@@ -54,6 +57,7 @@ bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kustgrvorrv/BJNR205340992.html#BJNR205340992BJNE000400333)
 
 Der Bundesrat hat zugestimmt.
 

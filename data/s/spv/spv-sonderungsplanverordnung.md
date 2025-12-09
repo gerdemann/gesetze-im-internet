@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000100000)
 
 Auf Grund des § 8 Abs. 6 und des § 18 Abs. 1 Satz 4 des
 Bodensonderungsgesetzes vom 20. Dezember 1993 (BGBl. I S. 2182, 2215),
@@ -30,6 +31,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Grenze des Plangebietes
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000200000)
 
 (1) Die Grenze des nach § 6 Abs. 2 des Bodensonderungsgesetzes zu
 bestimmenden Plangebietes (Umringsgrenze) muß vermessungstechnisch
@@ -60,6 +62,7 @@ angrenzenden Flurstücken nicht.
 
 
 ## § 2 Gestaltung des Sonderungsplans
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000300000)
 
 Der Sonderungsplan ist nach den in §§ 3 bis 5 bestimmten Grundsätzen
 zu gestalten. Hierbei sind die für die einzelnen Arten der
@@ -69,6 +72,7 @@ richtet sich nach Landesrecht.
 
 
 ## § 3 Gestaltung der Grundstückskarte
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000400000)
 
 (1) In der Grundstückskarte sind die Grenze des Plangebietes sowie
 Grenzen und Bezeichnungen der Flurstücke nach den Vorschriften zur
@@ -101,6 +105,7 @@ einer gesonderten Bestandskarte dargestellt werden.
 
 
 ## § 4 Gestaltung der Grundstücksliste
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000500000)
 
 (1) Die Grundstücksliste weist in einer Übersicht über den bisherigen
 Bestand
@@ -146,6 +151,7 @@ aufgestellt werden.
 
 
 ## § 5 Entschädigungs- und Ausgleichsliste, unübersichtliche Belastungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000600000)
 
 (1) In den Fällen der ergänzenden oder komplexen Bodenneuordnung
 umfaßt der Bescheid unbeschadet des § 15 Abs. 6 des
@@ -158,6 +164,7 @@ einem oder mehreren der neu gebildeten Grundstücke aufzuheben.
 
 
 ## § 6 Gestaltung des Sonderungsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000700000)
 
 Der Sonderungsbescheid besteht aus der Angabe der Beteiligten oder
 einer Kurzbezeichnung des Sonderungsgebiets, der Entscheidung und dem
@@ -167,6 +174,7 @@ welche Teile er umfaßt.
 
 
 ## § 7 Grundbuchvollzug
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000800000)
 
 (1) Nach Auslegung des Sonderungsbescheids wartet die
 Sonderungsbehörde ab, bis der Sonderungsbescheid ganz oder teilweise
@@ -206,6 +214,7 @@ oder Gebäude liegt, mitzuteilen.
 
 
 ## § 8 Sonderungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE000900000)
 
 (1) Ersucht die Sonderungsbehörde gemäß § 6 Abs. 4 des
 Bodensonderungsgesetzes um Eintragung eines Zustimmungsvorbehalts, so
@@ -220,6 +229,7 @@ die Sonderungsbehörde von sämtlichen Eintragungen eine Mitteilung.
 
 
 ## § 9 Unterrichtung der Katasterbehörde, Verfahrensakten
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001000000)
 
 (1) Ist die Gemeinde Sonderungsbehörde, so gibt sie beglaubigte
 Abschriften des Sonderungsbescheids an die das Liegenschaftskataster
@@ -239,6 +249,7 @@ die Fortschreibung des Sonderungsplans vorzunehmen.
 
 
 ## § 10 Fortschreibung des Sonderungsplans
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001100000)
 
 Die nach § 20 des Bodensonderungsgesetzes vorzunehmende Fortschreibung
 des Sonderungsplans bei Veränderungen der in dem Plan enthaltenen
@@ -248,6 +259,7 @@ Liegenschaftskatasters gelten.
 
 
 ## § 11 Sonderung zur Sachenrechtsbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001200000)
 
 (1) Wird zur Durchführung der Sachenrechtsbereinigung eine
 Grundstücksfeststellung durch Sonderungsbescheid beantragt, so sind in
@@ -282,6 +294,7 @@ des Bescheids und den abgeschlossenen Verträgen.
 
 
 ## § 12 Zuordnungspläne
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001300000)
 
 § 1, § 7 Abs. 4 und 5 und § 9 Abs. 1 gelten für das
 Zuordnungsverfahren nach § 2 Abs. 2a und 2b des
@@ -291,16 +304,19 @@ Liegenschaftskatasters zu bezeichnen.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001400000)
 
 Diese Verordnung tritt am 27. Dezember 1994 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlagen (Übersicht)
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001600000)
 
 
 *    *   Anlage 1
@@ -345,6 +361,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001700000)
 
 (Fundstelle: BGBl. I 1994, 3705 - 3707)
 
@@ -906,6 +923,7 @@ Nr.
 [^bjnr370100994bjne001700000_01_BJNR370100994BJNE001700000]: 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001800000)
 
 (Fundstelle: BGBl. I 1994, 3708 - 3710)
 
@@ -1328,6 +1346,7 @@ Nr.
 [^bjnr370100994bjne001800000_03_BJNR370100994BJNE001800000]: 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE001900000)
 
 (Fundstelle: BGBl. I 1994, 3711 - 3713)
 
@@ -1789,6 +1808,7 @@ Nr.
 [^BJNR370100994bjne001900000_BJNR370100994BJNE001900000]: 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE002000000)
 
 (Fundstelle: BGBl. I 1994, 3714 - 3717)
 
@@ -2229,6 +2249,7 @@ Nr.
 [^BJNR370100994BJNE002000000_2]: 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE002100000)
 
 (Fundstelle: BGBl. I 1994, 3718 - 3721)
 
@@ -2722,6 +2743,7 @@ Nr.
 [^bjnr370100994bjne002100000_02_BJNR370100994BJNE002100000]: 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE002200000)
 
 (Fundstelle: BGBl. I 1994, 3722 - 3725)
 
@@ -3236,6 +3258,7 @@ Nr.
 
 
 ## Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/spv/BJNR370100994.html#BJNR370100994BJNE002300000)
 
 (Fundstelle: BGBl. I 1994, 3726)
 

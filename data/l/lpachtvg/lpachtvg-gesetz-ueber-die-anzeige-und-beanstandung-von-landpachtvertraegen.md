@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000100325)
 
 Den Vorschriften dieses Gesetzes unterliegen Landpachtverträge nach §
 585 des Bürgerlichen Gesetzbuchs.
 
 
 ## § 2 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000200325)
 
 (1) Der Verpächter hat unbeschadet der Vorschriften des § 3 den
 Abschluß eines Landpachtvertrags durch Vorlage oder im Falle eines
@@ -43,6 +45,7 @@ binnen eines Monats nach ihrer Vereinbarung anzuzeigen.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000400325)
 
 (1) Der Anzeigepflicht unterliegen nicht
 
@@ -65,6 +68,7 @@ Gesetzes nicht erforderlich ist.
 
 
 ## § 4 Beanstandung
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000603377)
 
 (1) Die zuständige Behörde kann einen anzuzeigenden Landpachtvertrag
 oder eine anzuzeigende Vertragsänderung beanstanden, wenn
@@ -135,6 +139,7 @@ Gefahr für die Agrarstruktur zwingend erforderlich ist.
 
 
 ## § 5 Härteklausel
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000700325)
 
 Landpachtverträge und Vertragsänderungen dürfen nicht nach § 4
 beanstandet werden, wenn dies eine unzumutbare Härte für einen
@@ -142,6 +147,7 @@ Vertragsteil wäre.
 
 
 ## § 6 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000800325)
 
 Örtlich zuständig ist die Behörde, in deren Bezirk die Hofstelle des
 Verpächters liegt. Ist eine solche Hofstelle nicht vorhanden, so ist
@@ -150,6 +156,7 @@ ganz oder zum größten Teil liegen.
 
 
 ## § 7 Beanstandungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE000900325)
 
 (1) Die Entscheidung über die Beanstandung eines Landpachtvertrags
 oder einer Vertragsänderung ist binnen eines Monats nach Anzeige des
@@ -177,6 +184,7 @@ die einzuhaltende Frist zu belehren.
 
 
 ## § 8 Entscheidungen und Anordnungen des Landwirtschaftsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001000325)
 
 (1) Stellt ein Vertragsteil den Antrag auf gerichtliche Entscheidung,
 kann das Landwirtschaftsgericht entweder feststellen, daß der
@@ -195,6 +203,7 @@ Landwirtschaftsgericht.
 
 
 ## § 9 Unzulässigkeit der Änderung eines Landpachtvertrags durch das Landwirtschaftsgericht
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001100325)
 
 Ein Antrag nach § 593 Abs. 4 des Bürgerlichen Gesetzbuchs auf Änderung
 eines anzuzeigenden Landpachtvertrags ist nur zulässig, wenn der
@@ -202,6 +211,7 @@ Vertrag angezeigt worden ist.
 
 
 ## § 10 Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001200325)
 
 (1) Ist ein anzuzeigender Landpachtvertrag oder eine anzuzeigende
 Vertragsänderung nicht fristgemäß angezeigt worden, kann die
@@ -217,6 +227,7 @@ entscheidet auf Antrag das Landwirtschaftsgericht.
 
 
 ## § 11 Fischereipacht
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001300325)
 
 Für Verträge, durch die Betriebe oder Grundstücke überwiegend zur
 Fischerei verpachtet werden, gilt dieses Gesetz, soweit nicht
@@ -225,6 +236,7 @@ Bestimmungen enthalten.
 
 
 ## § 12 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001401377)
 
 (1) Bei anhängigen Anzeige- und Beanstandungsverfahren sowie in
 Verfahren über Anträge auf gerichtliche Entscheidung, die vor
@@ -243,11 +255,13 @@ Sinne dieses Gesetzes.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001501377)
 
 -
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001600325)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Juli 1986
 in Kraft.
@@ -257,6 +271,7 @@ Kraft.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lpachtvg/BJNR020750985.html#BJNR020750985BJNE001700308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:

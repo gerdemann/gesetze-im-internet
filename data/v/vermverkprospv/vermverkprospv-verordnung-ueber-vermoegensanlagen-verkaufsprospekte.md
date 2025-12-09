@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000100000)
 
 Auf Grund des § 8g Abs. 2 und 3 des Verkaufsprospektgesetzes, der
 durch Artikel 2 Nr. 1 des Gesetzes vom 28. Oktober 2004 (BGBl. I S.
@@ -28,12 +29,14 @@ durch Artikel 2 Nr. 1 des Gesetzes vom 28. Oktober 2004 (BGBl. I S.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000201360)
 
 Diese Verordnung ist auf den Verkaufsprospekt für Vermögensanlagen im
 Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes anzuwenden.
 
 
 ## § 2 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000304116)
 
 (1) Der Verkaufsprospekt muss über die tatsächlichen und rechtlichen
 Verhältnisse, die für die Beurteilung der angebotenen Vermögensanlagen
@@ -94,6 +97,7 @@ Anbieters zu versehen.
 
 
 ## § 3 Angaben über Personen oder Gesellschaften, die für den Inhalt des Verkaufsprospekts die Verantwortung übernehmen
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000400000)
 
 Der Verkaufsprospekt muss Namen, Geschäftsanschrift und Funktionen,
 bei juristischen Personen oder Gesellschaften die Firma und den Sitz
@@ -105,6 +109,7 @@ ausgelassen sind.
 
 
 ## § 4 Angaben über die Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000505116)
 
 Der Verkaufsprospekt muss über die Vermögensanlagen angeben:
 
@@ -214,6 +219,7 @@ Mittelverwendungskontrolleurs beizufügen.
 
 
 ## § 5 Angaben über den Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000602116)
 
 Der Verkaufsprospekt muss über den Emittenten angeben:
 
@@ -248,6 +254,7 @@ Der Verkaufsprospekt muss über den Emittenten angeben:
 
 
 ## § 6 Angaben über das Kapital des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000702360)
 
 Der Verkaufsprospekt muss über das Kapital des Emittenten angeben:
 
@@ -273,6 +280,7 @@ Umtausch oder den Bezug nennen.
 
 
 ## § 7 Angaben über Gründungsgesellschafter des Emittenten und über die Gesellschafter des Emittenten zum Zeitpunkt der Aufstellung des Verkaufsprospekts
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000804116)
 
 (1) Der Verkaufsprospekt muss über die Gründungsgesellschafter und die
 Gesellschafter zum Zeitpunkt der Prospektaufstellung des Emittenten
@@ -397,6 +405,7 @@ Gesellschafter zum Zeitpunkt der Prospektaufstellung
 
 
 ## § 8 Angaben über die Geschäftstätigkeit des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE000901360)
 
 (1) Der Verkaufsprospekt muss über die Geschäftstätigkeit des
 Emittenten folgende Angaben enthalten:
@@ -425,6 +434,7 @@ beeinflusst worden, so ist darauf hinzuweisen.
 
 
 ## § 9 Angaben über die Anlageziele und Anlagepolitik der Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001003116)
 
 (1) Der Verkaufsprospekt muss über die Anlagestrategie und
 Anlagepolitik der Vermögensanlagen angeben,
@@ -517,6 +527,7 @@ Anlagepolitik angeben:
 
 
 ## § 10 Angaben über die Vermögens-, Finanz- und Ertragslage des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001103116)
 
 (1) Der Verkaufsprospekt muss über die Vermögens-, Finanz- und
 Ertragslage des Emittenten enthalten:
@@ -559,6 +570,7 @@ Geschäftsjahr darstellen.
 
 
 ## § 11 Angaben über die Prüfung des Jahresabschlusses des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001200000)
 
 Der Verkaufsprospekt muss den Namen, die Anschrift und die
 Berufsbezeichnung des Abschlussprüfers, der den Jahresabschluss des
@@ -571,6 +583,7 @@ wiedergegeben werden.
 
 
 ## § 12 Angaben über Mitglieder der Geschäftsführung oder des Vorstands, Aufsichtsgremien und Beiräte des Emittenten, den Treuhänder und sonstige Personen
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001304116)
 
 (1) Der Verkaufsprospekt muss über die Mitglieder der Geschäftsführung
 oder des Vorstands, Aufsichtsgremien und Beiräte des Emittenten
@@ -728,6 +741,7 @@ haben.
 
 
 ## § 13 Angaben über den jüngsten Geschäftsgang und die Geschäftsaussichten des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001400000)
 
 Der Verkaufsprospekt muss allgemeine Ausführungen über die
 Geschäftsentwicklung des Emittenten nach dem Schluss des
@@ -737,6 +751,7 @@ mindestens für das laufende Geschäftsjahr enthalten.
 
 
 ## § 13a Angaben über Auswirkungen auf die Fähigkeit zur Zins- und Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001900360)
 
 Der Verkaufsprospekt muss an hervorgehobener Stelle eine ausführliche
 Darstellung der Auswirkungen der Vermögens-, Finanz- und Ertragslage
@@ -746,6 +761,7 @@ Vermögensanlage nachzukommen, enthalten.
 
 
 ## § 14 Gewährleistete Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001501116)
 
 Für das Angebot von Vermögensanlagen, für deren Verzinsung oder
 Rückzahlung eine juristische Person oder Gesellschaft die
@@ -755,6 +771,7 @@ auch über die Person oder Gesellschaft, welche die Gewährleistung
 
 
 ## § 15 Verringerte Prospektanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001602116)
 
 (1) Für den Fall, dass der Emittent vor weniger als 18 Monaten
 gegründet worden ist und noch keinen Jahresabschluss und Lagebericht
@@ -802,6 +819,7 @@ abgesehen werden, wenn
 
 
 ## § 15a Übergangsvorschrift zur Rechnungslegung und Prüfung des im Verkaufsprospekt enthaltenen Jahresabschlusses und Lageberichts
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001800360)
 
 Für Geschäftsjahre, die vor dem 1. Januar 2014 beginnen, ist § 10 in
 der bis zum 31. Mai 2012 geltenden Fassung in Verbindung mit § 8h des
@@ -810,6 +828,7 @@ anzuwenden.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vermverkprospv/BJNR346400004.html#BJNR346400004BJNE001700000)
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 

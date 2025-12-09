@@ -19,36 +19,44 @@ Fundstelle
 Stand: Zuletzt geändert Art. 244 V v. 31.8.2015 I 1474
 
 ## Art 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000100319)
 
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000200319)
 
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000300319)
 
 
 
 ## Art 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000401160)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000500319)
 
 
 
 ## Art 7 - Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000600319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNE001400319)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNE001503377)
 
 Das Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung gilt
 mit folgenden Maßgaben:
@@ -132,31 +140,38 @@ mit folgenden Maßgaben:
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000700319)
 
 
 
 ## Art 9 bis 12
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000800319)
 
 
 
 ## Art 13 - Straßenbaufinanzierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG000900319)
 
 
 
 ## Art 14 und 15
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG001000319)
 
 
 
 ## Art 16 - Ermächtigung zu Neubekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG001100319)
 
 
 
 ## Art 17 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG001201160)
 
 -
 
 
 ## Art 18 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finplg/BJNR006979966.html#BJNR006979966BJNG001300319)
 
 Die Bestimmungen der Artikel 1 und 2, 5 bis 7 und 9 bis 12 treten am
 1\. Januar 1967 in Kraft. Im übrigen tritt dieses Gesetz am Tage nach

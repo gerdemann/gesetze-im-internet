@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000100310)
 
 Auf Grund des § 15 Abs. 1 in Verbindung mit Abs. 2 des Gesetzes über
 Meldungen über Marktordnungswaren in der Fassung der Bekanntmachung
@@ -32,6 +33,7 @@ und Technologie:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000204119)
 
 Im Sinne dieser Verordnung sind:
 
@@ -315,6 +317,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 2 Meldepflichten der Getreide-, Stärke- und Futtermittelwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000303119)
 
 (1) Die in den folgenden Absätzen 2 und 3 bis 10 aufgeführten
 Unternehmen haben jeweils die dort genannten Angaben nach Maßgabe des
@@ -701,6 +704,7 @@ Nummer 1 Unterabsatz 1 Buchstabe c der Durchführungsverordnung (EU)
 
 
 ## § 3 Meldepflichten der Zuckerwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000403119)
 
 (1) Die in den folgenden Absätzen 2, 4, 6, 7 und 8 aufgeführten
 Unternehmen haben jeweils zu melden:
@@ -884,6 +888,7 @@ je Tonne Produktgewicht anzugeben.
 
 
 ## § 4 Meldepflichten der Fettwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000503119)
 
 (1) Die in den folgenden Absätzen 2, 3 und 5 aufgeführten Unternehmen
 haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz
@@ -1070,6 +1075,7 @@ Erzeugniskategorie zu machen:
 
 
 ## § 5 Meldepflichten der Milchwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000604119)
 
 (1) Abnehmer von Milch haben monatliche Meldungen nach Maßgabe des § 6
 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit folgenden Angaben
@@ -1252,6 +1258,7 @@ Tierhaltungsanforderungen gewonnen wird, beispielsweise Weidemilch.
 
 
 ## § 5a Meldepflichten der Alkoholwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE004001119)
 
 (1) Die in den folgenden Absätzen 2 und 3 aufgeführten Unternehmen
 haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 3
@@ -1270,6 +1277,7 @@ Buchstabe b der Durchführungsverordnung (EU) 2017/1185 abzugeben.
 
 
 ## § 5b Meldepflichten des Lebensmitteleinzelhandels
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE004101119)
 
 (1) Unternehmen des Lebensmitteleinzelhandels haben die Angaben nach
 den Absätzen 4, 5 und 7 nach Maßgabe des § 6 Absatz 3 zu melden.
@@ -1370,6 +1378,7 @@ Produktgewicht anzugeben.
 
 
 ## § 5c Meldepflichten bestimmter Hersteller von Nahrungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE004201119)
 
 (1) Die in den folgenden Absätzen 2 bis 7 aufgeführten Unternehmen des
 Verarbeitenden Gewerbes haben jeweils die dort genannten Meldungen
@@ -1484,6 +1493,7 @@ Verrechnungspreise zu melden. Absatz 8 gilt entsprechend.
 
 
 ## § 6 Meldepflichtige, Gesamtmeldung
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000703119)
 
 (1) Soweit auf diese Vorschrift Bezug genommen wird, haben Unternehmen
 mit mehreren Betrieben für jeden Betrieb gesondert zu melden. Liegen
@@ -1587,6 +1597,7 @@ des § 7 zu melden.
 
 
 ## § 7 Zeitpunkt der Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000803119)
 
 Bei der zuständigen Stelle haben einzugehen:
 
@@ -1635,6 +1646,7 @@ Bei der zuständigen Stelle haben einzugehen:
 
 
 ## § 8 Form der Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE000902118)
 
 (1) Die Meldungen sind unter Beachtung von Artikel 24, 25 und 32 der
 Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
@@ -1655,6 +1667,7 @@ abzugeben, die von der zuständigen Stelle bereitgestellt werden.
 
 
 ## § 9 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE001003119)
 
 Die Meldepflichtigen haben die für die Meldungen nach § 2 Absatz 1, §
 3 Absatz 1, § 4 Absatz 1, § 5 Absatz 1 bis 5, § 5a Absatz 1, § 5b
@@ -1666,6 +1679,7 @@ unberührt.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE001103119)
 
 Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Gesetzes über
 Meldungen über Marktordnungswaren handelt, wer vorsätzlich oder
@@ -1686,6 +1700,7 @@ fahrlässig
 
 
 ## § 11 Mengenangaben zur Wägung von Preisen
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE001203119)
 
 (1) Bis zum 15. Dezember 2020 haben die Meldepflichtigen nach § 2
 Absatz 2a und 7a, § 3 Absatz 8, § 4 Absatz 4, § 5 Absatz 3 bis 5, § 5b
@@ -1712,15 +1727,18 @@ werden, jeweils gerundet auf volle hundert Tonnen.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE001300310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE001400310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## (XXXX) Anlage G 1 bis M 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marktowmeldv/BJNR228600999.html#BJNR228600999BJNE001501377)
 
 

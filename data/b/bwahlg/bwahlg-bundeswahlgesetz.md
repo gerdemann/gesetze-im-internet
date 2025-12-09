@@ -24,10 +24,12 @@ Zuletzt geändert durch
 Stand: Bek. zur Wahlkreiseinteilung v. 27.12.2024 I Nr. 437 ist berücksichtigt
 
 ## Erster Abschnitt - Wahlsystem
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000102307)
 
 
 
 ### § 1 Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001107377)
 
 (1) Der Deutsche Bundestag besteht aus 630 Abgeordneten. Sie werden in
 allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl von den
@@ -53,6 +55,7 @@ ergebenden Anforderungen offen.
 
 
 ### § 2 Gliederung des Wahlgebietes
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001204311)
 
 (1) Wahlgebiet ist das Gebiet der Bundesrepublik Deutschland.
 
@@ -64,6 +67,7 @@ eingeteilt.
 
 
 ### § 3 Wahlkreiskommission und Wahlkreiseinteilung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001313126)
 
 (1) Bei der Wahlkreiseinteilung sind folgende Grundsätze zu beachten:
 
@@ -130,6 +134,7 @@ Wahlkreiseinteilung erst in der nächsten Wahlperiode aus.
 
 
 ### § 4 Grundsätze der Verteilung der Sitze auf Parteien
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001403377)
 
 (1) Die Gesamtzahl der Sitze (§ 1 Absatz 1) wird nach den Grundsätzen
 der Verhältniswahl zunächst auf die Parteien in Bezug auf das ganze
@@ -167,6 +172,7 @@ der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
 
 
 ### § 5 Berechnung der Sitzverteilung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001503377)
 
 (1) Zur Ermittlung der Oberverteilung wird die Zahl der zu
 berücksichtigenden Zweitstimmen im Wahlgebiet durch den nach Absatz 2
@@ -195,6 +201,7 @@ so entscheidet das vom Bundeswahlleiter zu ziehende Los.
 
 
 ### § 6 Vergabe der Sitze an Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001609377)
 
 (1) Ein Wahlkreisbewerber einer Partei (§ 20 Absatz 2) ist dann als
 Abgeordneter gewählt, wenn er die meisten Erststimmen auf sich
@@ -228,14 +235,17 @@ Bewerber benannt sind, so bleiben diese Sitze unbesetzt.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001704377)
 
 
 
 ## Zweiter Abschnitt - Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000202307)
 
 
 
 ### § 8 Gliederung der Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001803320)
 
 (1) Wahlorgane sind
 der Bundeswahlleiter und der Bundeswahlausschuß für das Wahlgebiet,
@@ -260,6 +270,7 @@ von ihr bestimmte Stelle.
 
 
 ### § 9 Bildung der Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE001908126)
 
 (1) Der Bundeswahlleiter und sein Stellvertreter werden vom
 Bundesministerium des Innern und für Heimat, die Landeswahlleiter,
@@ -315,6 +326,7 @@ benachrichtigen.
 
 
 ### § 10 Tätigkeit der Wahlausschüsse und Wahlvorstände
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002004377)
 
 (1) Die Wahlausschüsse und Wahlvorstände verhandeln, beraten und
 entscheiden in öffentlicher Sitzung. Soweit nicht in diesem Gesetz
@@ -330,6 +342,7 @@ ihres Amtes ihr Gesicht nicht verhüllen.
 
 
 ### § 11 Ehrenämter
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002102307)
 
 (1) Die Beisitzer der Wahlausschüsse und die Mitglieder der
 Wahlvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme
@@ -342,10 +355,12 @@ darf nur aus wichtigen Gründen abgelehnt werden.
 
 
 ## Dritter Abschnitt - Wahlrecht und Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000302307)
 
 
 
 ### § 12 Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002207377)
 
 (1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs.
 1 des Grundgesetzes, die am Wahltage
@@ -417,12 +432,14 @@ Frist einzubeziehen.
 
 
 ### § 13 Ausschluss vom Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002305377)
 
 Ausgeschlossen vom Wahlrecht ist, wer infolge Richterspruchs das
 Wahlrecht nicht besitzt.
 
 
 ### § 14 Ausübung des Wahlrechts
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002403377)
 
 (1) Wählen kann nur, wer in ein Wählerverzeichnis eingetragen ist oder
 einen Wahlschein hat.
@@ -459,6 +476,7 @@ Interessenkonflikt der Hilfsperson besteht.
 
 
 ### § 15 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002504160)
 
 (1) Wählbar ist, wer am Wahltage
 
@@ -486,16 +504,19 @@ Interessenkonflikt der Hilfsperson besteht.
 
 
 ## Vierter Abschnitt - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000402307)
 
 
 
 ### § 16 Wahltag
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002602307)
 
 Der Bundespräsident bestimmt den Tag der Hauptwahl (Wahltag). Wahltag
 muß ein Sonntag oder gesetzlicher Feiertag sein.
 
 
 ### § 17 Wählerverzeichnis und Wahlschein
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002708377)
 
 (1) Die Gemeindebehörden führen für jeden Wahlbezirk ein Verzeichnis
 der Wahlberechtigten. Jeder Wahlberechtigte hat das Recht, an den
@@ -519,6 +540,7 @@ einen Wahlschein.
 
 
 ### § 18 Wahlvorschlagsrecht, Beteiligungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002807377)
 
 (1) Wahlvorschläge können von Parteien und von Wahlberechtigten nach
 Maßgabe des § 20 eingereicht werden.
@@ -603,6 +625,7 @@ und in jedem Land nur eine Landesliste einreichen.
 
 
 ### § 19 Einreichung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE002905377)
 
 Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem
 Landeswahlleiter spätestens am neunundsechzigsten Tage vor der Wahl
@@ -610,6 +633,7 @@ bis 18 Uhr schriftlich einzureichen.
 
 
 ### § 20 Inhalt und Form der Kreiswahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003006126)
 
 (1) Der Kreiswahlvorschlag darf nur den Namen eines Bewerbers
 enthalten. Jeder Bewerber kann nur in einem Wahlkreis und hier nur in
@@ -642,6 +666,7 @@ auch diese, andere Kreiswahlvorschläge ein Kennwort enthalten.
 
 
 ### § 21 Aufstellung von Parteibewerbern
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003105160)
 
 (1) Als Bewerber einer Partei kann in einem Kreiswahlvorschlag nur
 benannt werden, wer nicht Mitglied einer anderen Partei ist und in
@@ -697,6 +722,7 @@ er gilt als Behörde im Sinne des § 156 des Strafgesetzbuches.
 
 
 ### § 22 Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003203307)
 
 (1) In jedem Kreiswahlvorschlag sollen eine Vertrauensperson und eine
 stellvertretende Vertrauensperson bezeichnet werden. Fehlt diese
@@ -716,6 +742,7 @@ ersetzt werden.
 
 
 ### § 23 Zurücknahme von Kreiswahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003303307)
 
 Ein Kreiswahlvorschlag kann durch gemeinsame schriftliche Erklärung
 der Vertrauensperson und der stellvertretenden Vertrauensperson
@@ -727,6 +754,7 @@ zurückgenommen werden.
 
 
 ### § 24 Änderung von Kreiswahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003403307)
 
 Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur
 durch gemeinsame schriftliche Erklärung der Vertrauensperson und der
@@ -739,6 +767,7 @@ ausgeschlossen.
 
 
 ### § 25 Beseitigung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003504377)
 
 (1) Der Kreiswahlleiter hat die Kreiswahlvorschläge unverzüglich nach
 Eingang zu prüfen. Stellt er bei einem Kreiswahlvorschlag Mängel fest,
@@ -783,6 +812,7 @@ Kreiswahlausschuß anrufen.
 
 
 ### § 26 Zulassung der Kreiswahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003605377)
 
 (1) Der Kreiswahlausschuß entscheidet am achtundfünfzigsten Tage vor
 der Wahl über die Zulassung der Kreiswahlvorschläge. Er hat
@@ -820,6 +850,7 @@ vor der Wahl öffentlich bekannt.
 
 
 ### § 27 Landeslisten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003706377)
 
 (1) Landeslisten können nur von Parteien eingereicht werden. Sie
 müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände
@@ -855,6 +886,7 @@ erfolgt ist.
 
 
 ### § 28 Zulassung der Landeslisten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003804307)
 
 (1) Der Landeswahlausschuß entscheidet am achtundfünfzigsten Tage vor
 der Wahl über die Zulassung der Landeslisten. Er hat Landeslisten
@@ -889,10 +921,12 @@ spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE003904377)
 
 
 
 ### § 30 Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004003320)
 
 (1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl (§
 36 Abs. 1) werden amtlich hergestellt.
@@ -924,16 +958,19 @@ Kennwörter an.
 
 
 ## Fünfter Abschnitt - Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000502307)
 
 
 
 ### § 31 Öffentlichkeit der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004102307)
 
 Die Wahlhandlung ist öffentlich. Der Wahlvorstand kann Personen, die
 die Ordnung und Ruhe stören, aus dem Wahlraum verweisen.
 
 
 ### § 32 Unzulässige Wahlpropaganda und Unterschriftensammlung, unzulässige Veröffentlichung von Wählerbefragungen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004203307)
 
 (1) Während der Wahlzeit sind in und an dem Gebäude, in dem sich der
 Wahlraum befindet, sowie unmittelbar vor dem Zugang zu dem Gebäude
@@ -946,6 +983,7 @@ der Wahlzeit unzulässig.
 
 
 ### § 33 Wahrung des Wahlgeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004306377)
 
 (1) Es sind Vorkehrungen dafür zu treffen, dass der Wähler den
 Stimmzettel unbeobachtet kennzeichnen und falten kann. Für die
@@ -959,6 +997,7 @@ Person erlangt hat.
 
 
 ### § 34 Stimmabgabe mit Stimmzetteln
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004403320)
 
 (1) Gewählt wird mit amtlichen Stimmzetteln.
 
@@ -980,6 +1019,7 @@ Stimmabgabe nicht erkennbar ist, und wirft ihn in die Wahlurne.
 
 
 ### § 35 Stimmabgabe mit Wahlgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004510126)
 
 (1) Zur Erleichterung der Abgabe und Zählung der Stimmen können
 anstelle von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden.
@@ -1029,6 +1069,7 @@ Abs. 2 entsprechend.
 
 
 ### § 36 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004606160)
 
 (1) Bei der Briefwahl hat der Wähler dem Kreiswahlleiter des
 Wahlkreises, in dem der Wahlschein ausgestellt worden ist, im
@@ -1069,10 +1110,12 @@ Wahlbriefbeförderung.
 
 
 ## Sechster Abschnitt - Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000602307)
 
 
 
 ### § 37 Feststellung des Wahlergebnisses im Wahlbezirk
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004702307)
 
 Nach Beendigung der Wahlhandlung stellt der Wahlvorstand fest, wieviel
 Stimmen im Wahlbezirk auf die einzelnen Kreiswahlvorschläge und
@@ -1080,6 +1123,7 @@ Landeslisten abgegeben worden sind.
 
 
 ### § 38 Feststellung des Briefwahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004802307)
 
 Der für die Briefwahl eingesetzte Wahlvorstand stellt fest, wieviel
 durch Briefwahl abgegebene Stimmen auf die einzelnen
@@ -1087,6 +1131,7 @@ Kreiswahlvorschläge und Landeslisten entfallen.
 
 
 ### § 39 Ungültige Stimmen, Zurückweisung von Wahlbriefen, Auslegungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE004905160)
 
 (1) Ungültig sind Stimmen, wenn der Stimmzettel
 
@@ -1167,6 +1212,7 @@ oder sein Wahlrecht nach § 13 verliert.
 
 
 ### § 40 Entscheidung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005002307)
 
 Der Wahlvorstand entscheidet über die Gültigkeit der abgegebenen
 Stimmen und über alle bei der Wahlhandlung und bei der Ermittlung des
@@ -1175,6 +1221,7 @@ das Recht der Nachprüfung.
 
 
 ### § 41 Feststellung des Wahlergebnisses im Wahlkreis
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005104377)
 
 Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für
 die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden
@@ -1182,6 +1229,7 @@ sind.
 
 
 ### § 42 Feststellung des Ergebnisses der Landeslistenwahl
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005204377)
 
 (1) Der Landeswahlausschuß stellt fest, wieviel Stimmen im Land für
 die einzelnen Landeslisten abgegeben worden sind. Der
@@ -1203,10 +1251,12 @@ sind. Der Bundeswahlleiter benachrichtigt sie.
 
 
 ## Siebenter Abschnitt - Besondere Vorschriften für Nachwahlen und Wiederholungswahlen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000702307)
 
 
 
 ### § 43 Nachwahl
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005304160)
 
 (1) Eine Nachwahl findet statt,
 
@@ -1236,6 +1286,7 @@ bekannt zu geben.
 
 
 ### § 44 Wiederholungswahl
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005404377)
 
 (1) Wird im Wahlprüfungsverfahren eine Wahl ganz oder teilweise für
 ungültig erklärt, so ist sie nach Maßgabe der Entscheidung zu
@@ -1264,10 +1315,12 @@ einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
 
 
 ## Achter Abschnitt - Erwerb und Verlust der Mitgliedschaft im Deutschen Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000802307)
 
 
 
 ### § 45 Erwerb der Mitgliedschaft im Deutschen Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005504377)
 
 (1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Deutschen
 Bundestag nach der abschließenden Feststellung des Ergebnisses für das
@@ -1294,6 +1347,7 @@ angenommen. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 
 ### § 46 Verlust der Mitgliedschaft im Deutschen Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005607126)
 
 (1) Ein Abgeordneter verliert die Mitgliedschaft im Deutschen
 Bundestag bei
@@ -1353,6 +1407,7 @@ unbesetzt. Im übrigen gilt § 48 Abs. 1.
 
 
 ### § 47 Entscheidung über den Verlust der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005702307)
 
 (1) Über den Verlust der Mitgliedschaft nach § 46 Abs. 1 wird
 entschieden
@@ -1391,6 +1446,7 @@ erfolgt nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
 
 ### § 48 Berufung von Nachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005806377)
 
 (1) Wenn ein nach § 6 Absatz 1 oder 4 gewählter Bewerber stirbt oder
 dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der
@@ -1418,10 +1474,12 @@ unbesetzt.
 
 
 ## Neunter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNG000902307)
 
 
 
 ### § 49 Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE005902307)
 
 Entscheidungen und Maßnahmen, die sich unmittelbar auf das
 Wahlverfahren beziehen, können nur mit den in diesem Gesetz und in der
@@ -1430,6 +1488,7 @@ Wahlprüfungsverfahren angefochten werden.
 
 
 ### § 49a Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006003377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1479,6 +1538,7 @@ mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 
 ### § 49b Staatliche Mittel für andere Kreiswahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE007102311)
 
 (1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten
 eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in
@@ -1500,6 +1560,7 @@ relative Obergrenze finden keine Anwendung.
 
 
 ### § 50 Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006107126)
 
 (1) Der Bund erstattet den Ländern zugleich für ihre Gemeinden
 (Gemeindeverbände) die durch die Wahl veranlassten notwendigen
@@ -1531,10 +1592,12 @@ notwendigen Ausgaben.
 
 
 ### § 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006205377)
 
 
 
 ### § 52 Bundeswahlordnung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006313126)
 
 (1) Das Bundesministerium des Innern und für Heimat erläßt die zur
 Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es
@@ -1624,6 +1687,7 @@ abzukürzen.
 
 
 ### § 53 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006409377)
 
 Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die
 nicht auf einem Richterspruch im Sinne von § 13 in der ab dem 1. Juli
@@ -1633,6 +1697,7 @@ Buchstabe a des Bundesmeldegesetzes im Melderegister zu speichern.
 
 
 ### § 54 Fristen, Termine und Form
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006504160)
 
 (1) Die in diesem Gesetz und in der auf Grund dieses Gesetzes
 erlassenen Bundeswahlordnung vorgesehenen Fristen und Termine
@@ -1649,6 +1714,7 @@ vorliegen.
 
 
 ### § 55 Reformkommission
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006804377)
 
 Beim Deutschen Bundestag wird eine Reformkommission eingesetzt, die
 sich mit Fragen des Wahlrechts befasst und Empfehlungen erarbeitet.
@@ -1663,6 +1729,7 @@ Bundestag unverzüglich zu verabschiedender Einsetzungsbeschluss.
 
 
 ### Anlage 1 (zu § 50 Absatz 3 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE006927311)
 
 (Fundstelle: BGBl. I 2020, 1409)
 
@@ -1781,6 +1848,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen
 
 
 ### Anlage 2 (zu § 2 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlg/BJNR003830956.html#BJNR003830956BJNE007202377)
 
 (Fundstelle: BGBl. 2024 I Nr. 91, S. 3 – 62;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

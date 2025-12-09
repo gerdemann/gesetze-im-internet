@@ -32,6 +32,7 @@ S. 18) zur Änderung der Entscheidung 2000/532/EG.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/avv/BJNR337910001.html#BJNR337910001BJNE000102377)
 
 Diese Verordnung gilt für
 
@@ -45,6 +46,7 @@ Diese Verordnung gilt für
 
 
 ## § 2 Abfallbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/avv/BJNR337910001.html#BJNR337910001BJNE000202377)
 
 (1) Soweit Abfälle nach anderen Rechtsvorschriften zu bezeichnen sind,
 sind die Bezeichnungen nach der Anlage (Abfallverzeichnis) zu dieser
@@ -68,6 +70,7 @@ Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und
 
 
 ## § 3 Gefährlichkeit von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/avv/BJNR337910001.html#BJNR337910001BJNE000306116)
 
 (1) Die Abfallarten im Abfallverzeichnis, deren Abfallschlüssel mit
 einem Sternchen (\*) versehen sind, sind gefährlich im Sinne des § 48
@@ -103,6 +106,7 @@ nukleare Sicherheit zu melden.
 (zu § 2 Abs. 1)
 
 ## Anlage Abfallverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/avv/BJNR337910001.html#BJNR337910001BJNE000408116)
 
 (Fundstelle: BGBl. I 2001, 3380 - 3406;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

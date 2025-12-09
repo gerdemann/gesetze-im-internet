@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000202130)
 
 (1) Die Bundesnetzagentur erhebt in ihrem Zuständigkeitsbereich nach
 Maßgabe dieser Verordnung Gebühren und Auslagen für individuell
@@ -146,6 +148,7 @@ erbracht werden, wird durch diese Verordnung nicht ausgeschlossen.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis der Anlage.
@@ -156,6 +159,7 @@ Festsetzung der Gebühren und Auslagen.
 
 
 ## § 3 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000400000)
 
 (1) Neben den in § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes
 genannten Auslagen werden nur die Auslagen nach § 12 Absatz 2 Nummer 2
@@ -172,6 +176,7 @@ entspricht.
 
 
 ## § 4 Gebührenbefreiung und -ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000503130)
 
 (1) Behörden und Organisationen mit Sicherheitsaufgaben sowie
 vergleichbare Organisationen sind, soweit nicht bereits nach § 8
@@ -275,6 +280,7 @@ geltenden Fassung auf Verlängerung der Frist abgelehnt worden ist.
 
 
 ## § 5 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000601130)
 
 (1) Für den Zeitaufwand von Verwaltungsbeschäftigten der
 Bundesnetzagentur des mittleren, des gehobenen und des höheren
@@ -323,6 +329,7 @@ anzuwenden:
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000701130)
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -335,6 +342,7 @@ geworden sind, ist § 4 Absatz 2 nicht anzuwenden.
 
 
 ## § 7 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000800000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft. Gleichzeitig
 treten außer Kraft:
@@ -363,6 +371,7 @@ treten außer Kraft:
 
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bnetzabgebv/BJNR371500021.html#BJNR371500021BJNE000902130)
 
 (Fundstelle: BGBl. 2025 I Nr. 42, S. 3 - 7)
 

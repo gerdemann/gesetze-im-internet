@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/etwstbefrv/BJNR207380989.html#BJNR207380989BJNE000100308)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/etwstbefrv/BJNR207380989.html#BJNR207380989BJNE000200308)
 
 Die auf Grund der Vereinbarung vom 27. April 1988 zwischen den
 Regierungen der Bundesrepublik Deutschland, der Französischen
@@ -46,6 +48,7 @@ Versicherungsteuer und der Feuerschutzsteuer befreit.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/etwstbefrv/BJNR207380989.html#BJNR207380989BJNE000300308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes,
@@ -54,11 +57,13 @@ wurde, auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/etwstbefrv/BJNR207380989.html#BJNR207380989BJNE000400308)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1988 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/etwstbefrv/BJNR207380989.html#BJNR207380989BJNE000500308)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sparkgiroverbg/BJNR001660933.html#BJNR001660933BJNE000100328)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sparkgiroverbg/BJNR001660933.html#BJNR001660933BJNE000200328)
 
 Der Deutsche Sparkassen- und Giroverband in Berlin (Verband) wird zu
 dem in § 2 Satz 2 angegebenen Zeitpunkt eine öffentliche Körperschaft
@@ -32,6 +34,7 @@ Reichs.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sparkgiroverbg/BJNR001660933.html#BJNR001660933BJNE000300328)
 
 Der Verband hat binnen drei Monaten nach dem Inkrafttreten dieser
 Verordnung seine Satzung der
@@ -40,6 +43,7 @@ Satzung tritt die in § 1 bezeichnete Rechtswirkung ein.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sparkgiroverbg/BJNR001660933.html#BJNR001660933BJNE000400328)
 
 (1) Der Verband steht unter Aufsicht der
 Reichsregierung.
@@ -51,6 +55,7 @@ Reichsregierung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sparkgiroverbg/BJNR001660933.html#BJNR001660933BJNE000500328)
 
 Die
 Reichsregierung erläßt die zur Durchführung der
@@ -59,6 +64,7 @@ Verwaltungsvorschriften.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sparkgiroverbg/BJNR001660933.html#BJNR001660933BJNE000600328)
 
 Die
 Verordnung tritt mit ihrer Verkündung in Kraft.

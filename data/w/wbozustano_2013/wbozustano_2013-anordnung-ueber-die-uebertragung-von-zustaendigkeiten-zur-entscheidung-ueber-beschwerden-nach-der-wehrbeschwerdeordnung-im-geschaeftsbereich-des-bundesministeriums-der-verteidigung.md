@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wbozustano_2013/BJNR164100013.html#BJNR164100013BJNE000100000)
 
 Nach § 23 Absatz 4 Satz 1 der Wehrbeschwerdeordnung in der Fassung der
 Bekanntmachung vom 22. Januar 2009 (BGBl. I S. 81) ordne ich an:
 
 
 ## Art 1 Zuständigkeit der Ausgangsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wbozustano_2013/BJNR164100013.html#BJNR164100013BJNE000200000)
 
 Soweit ich zur Entscheidung über eine Beschwerde nach § 23 Absatz 1
 der Wehrbeschwerdeordnung zuständig bin, übertrage ich diese
@@ -35,6 +37,7 @@ Personalamts der Bundeswehr Ausgangsbehörde im Sinne des Satzes 1.
 
 
 ## Art 2 Besondere Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wbozustano_2013/BJNR164100013.html#BJNR164100013BJNE000300000)
 
 Meine Entscheidungsbefugnis übertrage ich
 
@@ -81,12 +84,14 @@ gegen Maßnahmen
 
 
 ## Art 3 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/wbozustano_2013/BJNR164100013.html#BJNR164100013BJNE000400000)
 
 Das Bundesministerium der Verteidigung kann die nach Artikel 1 und 2
 übertragene Zuständigkeit in Einzelfällen an sich ziehen.
 
 
 ## Art 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wbozustano_2013/BJNR164100013.html#BJNR164100013BJNE000500000)
 
 Diese Anordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt die
 Allgemeine Anordnung über die Übertragung von Zuständigkeiten zur
@@ -97,6 +102,7 @@ Bereich des Bundesministers der Verteidigung vom 27. September 1973
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wbozustano_2013/BJNR164100013.html#BJNR164100013BJNE000600000)
 
 Der Bundesminister der Verteidigung
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35kaimbek/BJNR014730979.html#BJNR014730979BJNE000100304)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
 in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1,
@@ -35,6 +36,7 @@ Großbritannien und Nordirland voraus.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35kaimbek/BJNR014730979.html#BJNR014730979BJNE000200304)
 
 Der Bundesminister der Justiz
 

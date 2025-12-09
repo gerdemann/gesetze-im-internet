@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000200000)
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der
 Vorbereitungsdienst für den mittleren Dienst im
@@ -33,6 +35,7 @@ Verfassungsschutz des Bundes.
 
 
 ### § 2 Ausbildungsziele
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000300000)
 
 (1) Die Ausbildung vermittelt die fachtheoretischen Kenntnisse und
 Methoden sowie die berufspraktischen Kenntnisse und Fähigkeiten, die
@@ -59,6 +62,7 @@ Kompetenz sind zu fördern.
 
 
 ### § 3 Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000400000)
 
 (1) Dienstbehörde ist
 
@@ -78,6 +82,7 @@ anderen Stellen übertragen werden.
 
 
 ### § 4 Ausbildungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000500000)
 
 Ausbildungsbehörden sind
 
@@ -92,6 +97,7 @@ Ausbildungsbehörden sind
 
 
 ### § 5 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000600000)
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Anwärterinnen und
 Anwärter ist die Leiterin oder der Leiter der Dienstbehörde.
@@ -113,12 +119,14 @@ Anwärter ist die Leiterin oder der Leiter der Dienstbehörde.
 
 
 ### § 6 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000700000)
 
 Erholungsurlaub wird in der Regel während der berufspraktischen
 Ausbildung gewährt.
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000800000)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse einschränken, werden im Auswahlverfahren,
@@ -145,6 +153,7 @@ Gutachten trägt die Dienstbehörde.
 
 
 ### § 8 Bewertung der Leistungen in der Ausbildung und in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE000900000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter in der Ausbildung
 und in den Prüfungen werden wie folgt bewertet:
@@ -335,6 +344,7 @@ ohne Rundung zu berechnen.
 
 
 ### § 9 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001000000)
 
 (1) Die Prüfenden müssen mindestens die Befähigung für die Laufbahn
 des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder
@@ -348,6 +358,7 @@ des Erstprüfenden haben.
 
 
 ### § 10 Abweichende Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001100000)
 
 (1) Weichen die Bewertungen von zwei Prüfenden um höchstens drei
 Rangpunkte voneinander ab, so wird als Bewertung eine Rangpunktzahl
@@ -383,9 +394,11 @@ aus
 
 
 ## Teil 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000200000)
 
 
 ### § 11 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001200000)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer
@@ -432,6 +445,7 @@ Auswahlverfahrens endgültig zu löschen.
 
 
 ### § 12 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001303129)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Dienstbehörde eine Auswahlkommission ein. Bei Bedarf können mehrere
@@ -491,12 +505,14 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 13 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001400000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 14 Festlegungen der Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001500000)
 
 (1) Die Dienstbehörde legt fest:
 
@@ -524,6 +540,7 @@ vor jedem Teil des Auswahlverfahrens.
 
 
 ### § 15 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001600000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 kognitive Fähigkeiten sowie die Fähigkeit zur sicheren Erfassung eines
@@ -533,6 +550,7 @@ Textes geprüft.
 
 
 ### § 16 Bestehen des schriftlichen Teils und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001700000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn
 die erforderliche Mindestpunktzahl erreicht worden ist.
@@ -542,6 +560,7 @@ Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
 
 ### § 17 Zulassung zum mündlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001800000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil bestanden hat.
@@ -562,6 +581,7 @@ Teil teilgenommen, so werden sie immer zum mündlichen Teil zugelassen.
 
 
 ### § 18 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE001900000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der
 Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich
@@ -600,12 +620,14 @@ teilnehmenden Bewerberinnen und Bewerber auf fünf begrenzt.
 
 
 ### § 19 Bestehen des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002000000)
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die
 erforderliche Mindestpunktzahl erreicht worden ist.
 
 
 ### § 20 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002100000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens
@@ -627,6 +649,7 @@ Auswahlverfahrens endgültig zu löschen.
 
 
 ### § 21 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002200000)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
 einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
@@ -636,12 +659,15 @@ Auswahlverfahren ausgeschlossen.
 
 
 ## Teil 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000400000)
 
 
 #### § 22 Dauer und Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002303129)
 
 (1) Die Ausbildung dauert in der Regel zwei Jahre. Eine Entscheidung
 über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der
@@ -723,6 +749,7 @@ berücksichtigt werden.
 
 
 #### § 23 Lehrplan
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002400000)
 
 (1) Das Zentrum für Nachrichtendienstliche Aus- und Fortbildung
 erstellt im Einvernehmen mit dem Bundesnachrichtendienst und dem
@@ -771,6 +798,7 @@ Bundesamt für Verfassungsschutz einen Lehrplan für die Ausbildung.
 
 
 #### § 24 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002500000)
 
 (1) Leistungstests werden durchgeführt in der Form
 
@@ -802,6 +830,7 @@ Leistungstests zuständig ist.
 
 
 #### § 25 Fernbleiben und Rücktritt von Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002600000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem
 Leistungstest gilt der Leistungstest als mit null Rangpunkten
@@ -830,6 +859,7 @@ Zeitpunkt ein Leistungstest nachgeholt wird.
 
 
 #### § 26 Täuschung und Ordnungsverstoß bei Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002700000)
 
 (1) Anwärterinnen und Anwärtern, die bei einem Leistungstest täuschen,
 eine Täuschung versuchen, an einer Täuschung oder einem
@@ -862,9 +892,11 @@ anzuhören.
 
 
 ### Abschnitt 2 - Fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000500000)
 
 
 #### § 27 Lehrgebiete
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002803129)
 
 Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
@@ -899,6 +931,7 @@ Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
 
 #### § 28 Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE002900000)
 
 Für die Organisation und Durchführung der fachtheoretischen Ausbildung
 ist das Zentrum für Nachrichtendienstliche Aus- und Fortbildung
@@ -906,6 +939,7 @@ zuständig, soweit in diesem Abschnitt nichts anderes bestimmt ist.
 
 
 #### § 29 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003003129)
 
 (1) In der fachtheoretischen Ausbildung sind mindestens zwölf
 Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
@@ -919,6 +953,7 @@ Wochen vor Beginn der Laufbahnprüfung abgeschlossen sein.
 
 
 #### § 30 Zeugnis über die Leistungstests, Rangpunktzahl der Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003100000)
 
 (1) Die Anwärterin oder der Anwärter erhält vom Zentrum für
 Nachrichtendienstliche Aus- und Fortbildung ein Zeugnis über die
@@ -931,9 +966,11 @@ Leistungstests.
 
 
 ### Abschnitt 3 - Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000600000)
 
 
 #### § 31 Gliederung, Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003200000)
 
 (1) Die berufspraktische Ausbildung besteht aus
 
@@ -955,6 +992,7 @@ Dienstbehörde durchgeführt.
 
 
 #### § 32 Ausbildungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003300000)
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktische
 Ausbildung eine Beamtin oder einen Beamten des gehobenen oder höheren
@@ -976,6 +1014,7 @@ Ausbildung.
 
 
 #### § 33 Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003400000)
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktische
 Ausbildung Ausbildende.
@@ -989,6 +1028,7 @@ erforderlich, werden sie von anderen Dienstgeschäften entlastet.
 
 
 #### § 34 Praktikumsordnung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003500000)
 
 (1) Die Dienstbehörde erlässt im Einvernehmen mit der für die
 Anwärterinnen und Anwärter der anderen Fachrichtung zuständigen
@@ -1024,6 +1064,7 @@ Dienstbehörde eine Praktikumsordnung.
 
 
 #### § 35 Ausbildungsplan für die Praktika
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003601129)
 
 (1) Die Dienstbehörde stellt für jede Anwärterin und jeden Anwärter
 einen Ausbildungsplan für die Praktika auf.
@@ -1041,6 +1082,7 @@ identisch sind, und der Anwärterin oder dem Anwärter mitzuteilen.
 
 
 #### § 36 Bewertung der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003700000)
 
 (1) Die Ausbildenden bewerten die Leistungen der Anwärterinnen und
 Anwärter während der Praktika für jede Ausbildungsstation, der die
@@ -1052,6 +1094,7 @@ besprechen.
 
 
 #### § 37 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003803129)
 
 (1) In den praxisbezogenen Lehrveranstaltungen sind mindestens zwei
 Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
@@ -1062,6 +1105,7 @@ anderen Form als der Klausur absolviert werden können.
 
 
 #### § 38 Zeugnis über die Praktika und über die Leistungstests, Rangpunktzahl der Praktika und der Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE003900000)
 
 (1) Die Anwärterin oder der Anwärter erhält vom Zentrum für
 Nachrichtendienstliche Aus- und Fortbildung ein Zeugnis über die
@@ -1104,18 +1148,22 @@ einzelnen Leistungstests.
 
 
 ## Teil 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000700000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000800000)
 
 
 #### § 39 Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004000000)
 
 Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und
 Fortbildung organisiert die Prüfungen und führt sie durch.
 
 
 #### § 40 Bestellung von Prüfenden
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004100000)
 
 (1) Das Prüfungsamt bestellt Prüfende in der Regel für die Dauer von
 fünf Jahren. Wiederbestellung ist zulässig.
@@ -1134,9 +1182,11 @@ fünf Jahren. Wiederbestellung ist zulässig.
 
 
 ### Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG000900000)
 
 
 #### § 41 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004200000)
 
 (1) Der Grundlehrgang schließt mit einer Zwischenprüfung ab.
 
@@ -1146,6 +1196,7 @@ der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
 
 #### § 42 Gegenstand und Durchführung der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004303129)
 
 (1) Die Zwischenprüfung besteht aus drei Klausuren.
 
@@ -1162,6 +1213,7 @@ geschrieben.
 
 
 #### § 43 Prüfende für die Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004400000)
 
 (1) Für die Bewertung jeder Klausur bestellt das Prüfungsamt zwei
 Prüfende.
@@ -1190,6 +1242,7 @@ Prüfende wird vom Prüfungsamt bestellt.
 
 
 #### § 44 Rangpunktzahl der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004500000)
 
 Aus den Bewertungen der Klausuren der Zwischenprüfung wird eine
 Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen
@@ -1197,6 +1250,7 @@ der einzelnen Klausuren ist.
 
 
 #### § 45 Bestehen der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004600000)
 
 Die Zwischenprüfung hat bestanden,
 
@@ -1211,6 +1265,7 @@ Die Zwischenprüfung hat bestanden,
 
 
 #### § 46 Zwischenprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004700000)
 
 Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein
 Zwischenprüfungszeugnis mit Angabe
@@ -1225,6 +1280,7 @@ Zwischenprüfungszeugnis mit Angabe
 
 
 #### § 47 Bescheid über die nichtbestandene Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004800000)
 
 Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt
 einen Bescheid über die nichtbestandene Zwischenprüfung sowie eine
@@ -1232,6 +1288,7 @@ Bescheinigung über die erbrachten Leistungen.
 
 
 #### § 48 Wiederholung der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE004901311)
 
 (1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
@@ -1248,21 +1305,26 @@ erreicht werden, ersetzen die zuvor erreichten.
 
 
 ### Abschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001000000)
 
 
 #### Unterabschnitt 1 - Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001100000)
 
 
 ##### § 49 Bestandteile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005000000)
 
 Die Laufbahnprüfung besteht aus einer schriftlichen und einer
 mündlichen Abschlussprüfung.
 
 
 #### Unterabschnitt 2 - Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001200000)
 
 
 ##### § 50 Gegenstand und Durchführung der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005103129)
 
 (1) Die schriftliche Abschlussprüfung besteht aus fünf Klausuren.
 
@@ -1290,6 +1352,7 @@ Prüfungstagen ist ein freier Tag vorzusehen.
 
 
 ##### § 51 Prüfende für die schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005200000)
 
 (1) Zur Bewertung werden vom Prüfungsamt für jede Klausur der
 schriftlichen Abschlussprüfung zwei Prüfende bestellt.
@@ -1311,6 +1374,7 @@ Tarifbeschäftigter oder Soldatin oder Soldat sein.
 
 
 ##### § 52 Rangpunktzahl der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005300000)
 
 Aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung
 wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der
@@ -1318,6 +1382,7 @@ Bewertungen der einzelnen Klausuren ist.
 
 
 ##### § 53 Bestehen der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005400000)
 
 Die schriftliche Abschlussprüfung hat bestanden,
 
@@ -1333,9 +1398,11 @@ Die schriftliche Abschlussprüfung hat bestanden,
 
 
 #### Unterabschnitt 3 - Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001300000)
 
 
 ##### § 54 Zulassung zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005500000)
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die
 schriftliche Abschlussprüfung bestanden hat.
@@ -1346,6 +1413,7 @@ gegeben.
 
 
 ##### § 55 Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005600000)
 
 Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen
 Abschlussprüfung wird der Anwärterin oder dem Anwärter die in den
@@ -1354,6 +1422,7 @@ Rangpunktzahl mitgeteilt.
 
 
 ##### § 56 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005700000)
 
 (1) Für die Durchführung und Bewertung der mündlichen Abschlussprüfung
 richtet das Prüfungsamt für jede Fachrichtung eine Prüfungskommission
@@ -1411,6 +1480,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ##### § 57 Gegenstand und Durchführung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005803129)
 
 (1) Die Prüfungsfächer der mündlichen Abschlussprüfung stammen aus den
 Lehrgebieten nach § 27. Ausgewählt werden sie von der
@@ -1432,6 +1502,7 @@ Anwärterin oder Anwärter nicht überschreiten.
 
 
 ##### § 58 Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE005901311)
 
 (1) Die mündliche Abschlussprüfung ist nicht öffentlich.
 
@@ -1464,6 +1535,7 @@ Mitglieder anwesend sein.
 
 
 ##### § 59 Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006000000)
 
 (1) Jedes Prüfungsfach der mündlichen Abschlussprüfung wird einzeln
 bewertet.
@@ -1483,6 +1555,7 @@ Bewertungen auf Wunsch kurz mündlich.
 
 
 ##### § 60 Protokoll zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006100000)
 
 (1) Über die mündliche Abschlussprüfung ist ein Protokoll
 anzufertigen.
@@ -1495,6 +1568,7 @@ Prüfungskommission zu bestätigen.
 
 
 ##### § 61 Bestehen der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006200000)
 
 Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen
 Abschlussprüfung mindestens eine Rangpunktzahl von 5,00 erreicht hat.
@@ -1503,9 +1577,11 @@ Bestehen der Laufbahnprüfung,
 Wiederholung der Laufbahnprüfung, Abschlusszeugnis,
 
 #### Unterabschnitt 4 - Bescheid über die nichtbestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001400000)
 
 
 ##### § 62 Bestehen der Laufbahnprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006302129)
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet das
 Prüfungsamt die Rangpunktzahl der Laufbahnprüfung und setzt die
@@ -1555,6 +1631,7 @@ als Abschlussnote festgesetzt.
 
 
 ##### § 63 Wiederholung der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006401311)
 
 (1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und
 Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie
@@ -1583,6 +1660,7 @@ der Laufbahnprüfung erreicht werden, ersetzen die zuvor erreichten.
 
 
 ##### § 64 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006500000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein
 Abschlusszeugnis.
@@ -1601,6 +1679,7 @@ Abschlusszeugnis.
 
 
 ##### § 65 Bescheid über die nichtbestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006600000)
 
 Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
@@ -1614,9 +1693,11 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 
 ### Abschnitt 4 - Weitere Prüfungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001500000)
 
 
 #### § 66 Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006700000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung
 oder einem Prüfungsteil gilt die Prüfung oder der Prüfungsteil als mit
@@ -1641,6 +1722,7 @@ Prüfungsteil nachgeholt wird.
 
 
 #### § 67 Täuschung und Ordnungsverstoß bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006800000)
 
 (1) Anwärterinnen und Anwärtern, die bei einer Prüfung oder einem
 Prüfungsteil täuschen, eine Täuschung versuchen, an einer Täuschung
@@ -1682,6 +1764,7 @@ bis 4 anzuhören.
 
 
 #### § 68 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE006900000)
 
 (1) Zu jeder Anwärterin und jedem Anwärter wird eine Prüfungsakte
 geführt.
@@ -1725,15 +1808,18 @@ Prüfungsakte ist aktenkundig zu machen.
 
 
 #### § 69 Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE007000000)
 
 Über Widersprüche gegen Maßnahmen, die bei den Prüfungsverfahren nach
 dieser Verordnung getroffen worden sind, entscheidet das Prüfungsamt.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNG001600000)
 
 
 ### § 70 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mdbndverfschvdv/BJNR122110019.html#BJNR122110019BJNE007100000)
 
 (1) Für Anwärterinnen und Anwärter, die bis zum 28. Februar 2019 mit
 dem Vorbereitungsdienst des mittleren Dienstes im

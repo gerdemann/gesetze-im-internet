@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Gewährleistungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sure-gew_hrlg/BJNR163310020.html#BJNR163310020BJNE000100000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt,
 Gewährleistungen bis zur Höhe von insgesamt 6 383 820 000 Euro zur
@@ -39,6 +40,7 @@ Verordnung übernommen werden.
 
 
 ## § 2 Unterrichtung des Haushaltsausschusses des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/sure-gew_hrlg/BJNR163310020.html#BJNR163310020BJNE000201123)
 
 (1) Sobald alle teilnehmenden Mitgliedstaaten der Europäischen Union
 ihren anteiligen Beitrag in Form einer Gewährleistung geleistet haben,

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000101314)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE000903310)
 
 Zweck dieses Gesetzes ist,
 
@@ -52,6 +54,7 @@ Zweck dieses Gesetzes ist,
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001006310)
 
 (1) Dieses Gesetz gilt für
 
@@ -110,6 +113,7 @@ unberührt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001106116)
 
 Im Sinne dieses Gesetzes sind
 
@@ -376,6 +380,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 4 Kommission für die Biologische Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001218116)
 
 (1) Unter der Bezeichnung „Zentrale Kommission für die Biologische
 Sicherheit“ (Kommission) wird bei der zuständigen Bundesoberbehörde
@@ -436,6 +441,7 @@ ermittelte feste Sätze oder Rahmensätze zugrunde gelegt werden.
 
 
 ### § 5 Aufgaben der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001405116)
 
 Die Kommission prüft und bewertet sicherheitsrelevante Fragen nach den
 Vorschriften dieses Gesetzes, gibt hierzu Empfehlungen und berät die
@@ -452,11 +458,13 @@ Biostoffverordnung anzuhören.
 
 
 ### § 5a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006301310)
 
 -
 
 
 ### § 6 Allgemeine Sorgfalts- und Aufzeichnungspflichten, Gefahrenvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001505310)
 
 (1) Wer gentechnische Anlagen errichtet oder betreibt, gentechnische
 Arbeiten durchführt, gentechnisch veränderte Organismen freisetzt oder
@@ -512,10 +520,12 @@ Biologische Sicherheit zu bestellen.
 
 
 ## Zweiter Teil - Gentechnische Arbeiten in gentechnischen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000201314)
 
 
 
 ### § 7 Sicherheitsstufen, Sicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001704310)
 
 (1) Gentechnische Arbeiten werden in vier Sicherheitsstufen
 eingeteilt:
@@ -574,6 +584,7 @@ Empfängerorganismen und Vektoren.
 
 
 ### § 8 Genehmigung, Anzeige und Anmeldung von gentechnischen Anlagen und erstmaligen gentechnischen Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE001904310)
 
 (1) Gentechnische Arbeiten dürfen nur in gentechnischen Anlagen
 durchgeführt werden. Die Errichtung und der Betrieb gentechnischer
@@ -616,6 +627,7 @@ werden sollen, gilt Absatz 2 entsprechend.
 
 
 ### § 9 Weitere gentechnische Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002004310)
 
 (1) Weitere gentechnische Arbeiten der Sicherheitsstufe 1 können ohne
 Anzeige durchgeführt werden.
@@ -659,6 +671,7 @@ werden.
 
 
 ### § 10 Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002207310)
 
 (1) Das Genehmigungsverfahren setzt einen schriftlichen Antrag voraus.
 
@@ -804,6 +817,7 @@ sofern ein Anhörungsverfahren nach § 18 durchgeführt wurde.
 
 
 ### § 11 Genehmigungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002404310)
 
 (1) Die Genehmigung zur Errichtung und zum Betrieb einer
 gentechnischen Anlage ist zu erteilen, wenn
@@ -866,6 +880,7 @@ vorliegen.
 
 
 ### § 12 Anzeige- und Anmeldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002307310)
 
 (1) Anzeige und Anmeldung bedürfen der Schriftform.
 
@@ -973,15 +988,18 @@ Die Entscheidung bedarf der Schriftform.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE007000310)
 
 (weggefallen)
 
 
 ## Dritter Teil - Freisetzung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000301314)
 
 
 
 ### § 14 Freisetzung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002511310)
 
 (1) Einer Genehmigung der zuständigen Bundesoberbehörde bedarf, wer
 
@@ -1098,6 +1116,7 @@ erlassen.
 
 
 ### § 15 Zulassungsantrag bei Freisetzung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002704310)
 
 (1) Dem Antrag auf Genehmigung einer Freisetzung sind die zur Prüfung
 erforderlichen Unterlagen beizufügen. Die Unterlagen müssen außer den
@@ -1224,6 +1243,7 @@ hinzuweisen.
 
 
 ### § 16 Genehmigung bei Freisetzung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE002816116)
 
 (1) Die Genehmigung für eine Freisetzung ist zu erteilen, wenn
 
@@ -1333,6 +1353,7 @@ durchgeführt wurde.
 
 
 ### § 16a Standortregister
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006402116)
 
 (1) Zum Zweck der Überwachung etwaiger Auswirkungen von gentechnisch
 veränderten Organismen auf die in § 1 Nr. 1 und 2 genannten
@@ -1449,6 +1470,7 @@ entsprechend.
 
 
 ### § 16b Umgang mit in Verkehr gebrachten Produkten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006501310)
 
 (1) Wer zum Inverkehrbringen zugelassene Produkte, die gentechnisch
 veränderte Organismen enthalten oder daraus bestehen, anbaut,
@@ -1547,6 +1569,7 @@ Absatz 5 näher zu bestimmen.
 
 
 ### § 16c Beobachtung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006600310)
 
 (1) Wer als Betreiber Produkte, die aus gentechnisch veränderten
 Organismen bestehen oder solche enthalten, in Verkehr bringt, hat
@@ -1579,6 +1602,7 @@ der Einbeziehung bundesbehördlicher Beobachtungstätigkeiten.
 
 
 ### § 16d Entscheidung der Behörde bei Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006702310)
 
 (1) Die zuständige Bundesoberbehörde entscheidet im Rahmen der
 Genehmigung des Inverkehrbringens eines Produkts, das gentechnisch
@@ -1646,6 +1670,7 @@ Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 
 ### § 16e Ausnahmen für nicht kennzeichnungspflichtiges Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE007200310)
 
 Die §§ 16a und 16b sind nicht auf Saatgut anzuwenden, sofern das
 Saatgut auf Grund eines in Rechtsakten der Europäischen Union und
@@ -1656,10 +1681,12 @@ werden würde, gekennzeichnet werden müsste.
 
 
 ## Vierter Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000401314)
 
 
 
 ### § 17 Verwendung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003003310)
 
 (1) Unterlagen nach § 10 Abs. 2 Satz 2 Nr. 5, Abs. 3 Satz 2 Nr. 4,
 auch in Verbindung mit § 12 Abs. 2, nach § 12 Abs. 2a Satz 2 Nr. 1 und
@@ -1720,6 +1747,7 @@ Erstellung zu erstatten; sie haften als Gesamtschuldner.
 
 
 ### § 17a Vertraulichkeit von Angaben
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006103310)
 
 (1) Angaben, die ein Betriebs- oder Geschäftsgeheimnis darstellen,
 sind vom Betreiber als vertraulich zu kennzeichnen. Er hat begründet
@@ -1775,6 +1803,7 @@ Vertraulichkeit zu wahren.
 
 
 ### § 17b Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006802310)
 
 (1) Produkte, die gentechnisch veränderte Organismen enthalten oder
 aus solchen bestehen und in Verkehr gebracht werden, sind auf einem
@@ -1817,6 +1846,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates festsetzen.
 
 
 ### § 18 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003104310)
 
 (1) Vor der Entscheidung über die Errichtung und den Betrieb einer
 gentechnischen Anlage, in der gentechnische Arbeiten der
@@ -1847,6 +1877,7 @@ werden, bei der Antrag und Unterlagen zur Einsicht ausgelegt sind.
 
 
 ### § 19 Nebenbestimmungen, nachträgliche Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003303310)
 
 Die zuständige Behörde kann ihre Entscheidung mit Nebenbestimmungen
 versehen, soweit dies erforderlich ist, um die
@@ -1859,6 +1890,7 @@ Nebenbestimmungen oder Auflagen ist unter den Voraussetzungen von Satz
 
 
 ### § 20 Einstweilige Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003406310)
 
 (1) Sind die Voraussetzungen für die Fortführung des Betriebs der
 gentechnischen Anlage, der gentechnischen Arbeit oder der Freisetzung
@@ -1883,6 +1915,7 @@ nach Artikel 23 in Verbindung mit Artikel 30 Abs. 2 der Richtlinie
 
 
 ### § 21 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003510116)
 
 (1) Der Betreiber hat jede Änderung in der Beauftragung des
 Projektleiters, des Beauftragten für die Biologische Sicherheit oder
@@ -1959,6 +1992,7 @@ verwendet werden.
 
 
 ### § 22 Andere behördliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003604310)
 
 (1) Die Anlagengenehmigung schließt andere die gentechnische Anlage
 betreffende behördliche Entscheidungen ein, insbesondere öffentlich-
@@ -1980,6 +2014,7 @@ Abs. 2 bleiben unberührt.
 
 
 ### § 23 Ausschluß von privatrechtlichen Abwehransprüchen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003701314)
 
 Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender
 Ansprüche zur Abwehr benachteiligender Einwirkungen von einem
@@ -1995,10 +2030,12 @@ verlangt werden.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE003811116)
 
 
 
 ### § 25 Überwachung, Auskunfts-, Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004008116)
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes,
 der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, der
@@ -2076,6 +2113,7 @@ durch Landesrecht diese Aufgabe übertragen worden ist.
 
 
 ### § 26 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004106310)
 
 (1) Die zuständige Behörde kann im Einzelfall die Anordnungen treffen,
 die zur Beseitigung festgestellter oder zur Verhütung künftiger
@@ -2147,6 +2185,7 @@ eintreten.
 
 
 ### § 27 Erlöschen der Genehmigung, Unwirksamwerden der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004205310)
 
 (1) Die Genehmigung erlischt, wenn
 
@@ -2186,6 +2225,7 @@ wenn
 
 
 ### § 28 Informationsweitergabe
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004308310)
 
 (1) Die zuständigen Behörden unterrichten die zuständige
 Bundesoberbehörde unverzüglich über
@@ -2213,6 +2253,7 @@ Behörden bekannt.
 
 
 ### § 28a Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE007101116)
 
 (1) Die zuständige Behörde soll die Öffentlichkeit über Anordnungen
 nach § 26 unterrichten, sofern diese unanfechtbar geworden sind oder
@@ -2280,6 +2321,7 @@ die betreffenden Informationen zuvor bekannt gegeben hat.
 
 
 ### § 28b Methodensammlung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006204310)
 
 (1) Die zuständige Bundesoberbehörde veröffentlicht im Benehmen mit
 den lebens- und futtermittelrechtlichen Vorschriften zuständigen
@@ -2296,6 +2338,7 @@ zu halten.
 
 
 ### § 29 Auswertung und Bereitstellung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004412116)
 
 (1) Die zuständige Bundesoberbehörde hat Daten gemäß § 28, die im
 Zusammenhang mit der Errichtung und dem Betrieb gentechnischer
@@ -2352,6 +2395,7 @@ Bundesrates.
 
 
 ### § 30 Erlaß von Rechtsverordnungen und Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004609310)
 
 (1) Die Bundesregierung bestimmt nach Anhörung der Kommission durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Erreichung der in
@@ -2583,6 +2627,7 @@ Verwaltungsvorschriften erlassen.
 
 
 ### § 31 Zuständige Behörde und zuständige Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004703310)
 
 Die zur Ausführung dieses Gesetzes zuständigen Behörden bestimmt die
 nach Landesrecht zuständige Stelle, mangels einer solchen Bestimmung
@@ -2592,10 +2637,12 @@ und Lebensmittelsicherheit.
 
 
 ## Fünfter Teil - Haftungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000501314)
 
 
 
 ### § 32 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004803116)
 
 (1) Wird infolge von Eigenschaften eines Organismus, die auf
 gentechnischen Arbeiten beruhen, jemand getötet, sein Körper oder
@@ -2670,6 +2717,7 @@ Vorschriften des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ### § 33 Haftungshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE004902320)
 
 Sind infolge von Eigenschaften eines Organismus, die auf
 gentechnischen Arbeiten beruhen, Schäden verursacht worden, so haftet
@@ -2682,6 +2730,7 @@ Höchstbetrag steht.
 
 
 ### § 34 Ursachenvermutung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005001314)
 
 (1) Ist der Schaden durch gentechnisch veränderte Organismen
 verursacht worden, so wird vermutet, daß er durch Eigenschaften dieser
@@ -2692,6 +2741,7 @@ Schaden auf anderen Eigenschaften dieser Organismen beruht.
 
 
 ### § 35 Auskunftsansprüche des Geschädigten
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005101314)
 
 (1) Liegen Tatsachen vor, die die Annahme begründen, daß ein Personen-
 oder Sachschaden auf gentechnischen Arbeiten eines Betreibers beruht,
@@ -2713,6 +2763,7 @@ Betreibers oder eines Dritten entspricht.
 
 
 ### § 36 Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005207116)
 
 (1) Die Bundesregierung bestimmt in einer Rechtsverordnung mit
 Zustimmung des Bundesrates, dass derjenige, der eine gentechnische
@@ -2767,6 +2818,7 @@ bieten.
 
 
 ### § 36a Ansprüche bei Nutzungsbeeinträchtigungen
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006900310)
 
 (1) Die Übertragung von Eigenschaften eines Organismus, die auf
 gentechnischen Arbeiten beruhen, oder sonstige Einträge von
@@ -2809,6 +2861,7 @@ gemäß § 287 der Zivilprozessordnung möglich ist.
 
 
 ### § 37 Haftung nach anderen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005404116)
 
 (1) Wird infolge der Anwendung eines Arzneimittels, das im
 Geltungsbereich des Arzneimittelgesetzes an den Verbraucher abgegeben
@@ -2831,10 +2884,12 @@ gentechnischen Arbeiten beruht.
 
 
 ## Sechster Teil - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000601314)
 
 
 
 ### § 38 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005507310)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2926,6 +2981,7 @@ Ordnungswidrigkeiten die nach Landesrecht zuständige Behörde.
 
 
 ### § 39 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005602310)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer einer Rechtsverordnung nach § 36 Abs. 1 Satz 1
@@ -2966,15 +3022,18 @@ oder mit Geldstrafe bestraft.
 
 
 ## Siebter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNG000701314)
 
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005702314)
 
 (weggefallen)
 
 
 ### § 41 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005806310)
 
 (1) Für gentechnische Arbeiten, die bei Inkrafttreten der Vorschriften
 dieses Gesetzes über Anmeldungen und Genehmigungspflichten in einem
@@ -3048,11 +3107,13 @@ eines Ausschusses nach den §§ 5 und 5a einmal geändert werden.
 
 
 ### § 41a
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE006002314)
 
 (weggefallen)
 
 
 ### § 42 Anwendbarkeit der Vorschriften für die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/gentg/BJNR110800990.html#BJNR110800990BJNE005903310)
 
 Bei Inkrafttreten des Abkommens über den Europäischen Wirtschaftsraum
 gelten die Vorschriften, die eine Beteiligung der Mitgliedstaaten der

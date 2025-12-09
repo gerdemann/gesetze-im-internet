@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/d_bv/BJNR178900003.html#BJNR178900003BJNE000100000)
 
 Auf Grund des § 7 des Düngemittelgesetzes vom 15. November 1977 (BGBl.
 I S. 2134), der durch Artikel 4 Nr. 4 des Gesetzes vom 27. September
@@ -28,6 +29,7 @@ Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Errichtung und Aufgaben des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/d_bv/BJNR178900003.html#BJNR178900003BJNE000202301)
 
 (1) Beim Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ein Wissenschaftlicher Beirat für
@@ -38,6 +40,7 @@ gutachtliche Stellungnahmen und ist in seiner Tätigkeit unabhängig.
 
 
 ## § 2 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/d_bv/BJNR178900003.html#BJNR178900003BJNE000301377)
 
 (1) Der Beirat setzt sich aus zehn Wissenschaftlern und
 Wissenschaftlerinnen zusammen, die auf folgenden Fachgebieten tätig
@@ -102,6 +105,7 @@ geltenden Fassung erstattet.
 
 
 ## § 3 Vorsitz, Geschäftsführung, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/d_bv/BJNR178900003.html#BJNR178900003BJNE000400000)
 
 (1) Der Beirat wählt in geheimer Wahl mit der Mehrheit der Stimmen
 jeweils ein Mitglied in den Vorsitz und in den stellvertretenden
@@ -118,6 +122,7 @@ Bundesministerium festgesetzt.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/d_bv/BJNR178900003.html#BJNR178900003BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: § 5 Abs. 7 und § 6 Abs. 5 dieses G sind gem. § 42 Abs. 1 Satz 1 am 1.10.1994 in Kraft getreten\*. Im übrigen ist das G gem. § 42 Abs. 1 Satz 2 iVm Bek. v. 10.2.1998 II 299 mWv 14.1.1998 in Kraft getreten\*.
 
 ## § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000200000)
 
 Ziele dieses Gesetzes sind der umfassende Schutz der antarktischen
 Umwelt und der abhängigen und verbundenen Ökosysteme sowie die
@@ -29,6 +30,7 @@ gewidmetes Naturreservat.
 
 
 ## § 2 Begriffsbestimmungen, Gebote und Verbote
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000300000)
 
 (1) Im Sinne dieses Gesetzes sind:
 
@@ -79,6 +81,7 @@ Bundesrepublik Deutschland.
 
 
 ## § 3 Allgemeine Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000402116)
 
 (1) Jede Tätigkeit nach § 2 Abs. 1 Nr. 2, die von
 
@@ -201,6 +204,7 @@ Meeresforschung Gelegenheit zur Äußerung zu geben.
 
 
 ## § 4 Allgemeines Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000500000)
 
 (1) Der Antragsteller muß zur Begründung seines Genehmigungsantrages
 die geplante Tätigkeit im einzelnen beschreiben und zugleich angeben,
@@ -260,6 +264,7 @@ Antragsteller zur Verfügung stellen.
 
 
 ## § 5 Verhütung der Meeresverschmutzung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE004404116)
 
 (1) Wird im Rahmen einer Tätigkeit im Sinne des § 2 Abs. 1 Nr. 2 ein
 Schiff eingesetzt, so berücksichtigt das Umweltbundesamt bei seiner
@@ -361,6 +366,7 @@ Meeresumwelt finden Anwendung.
 
 
 ## § 6 Forschungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000705116)
 
 (1) Tätigkeiten der wissenschaftlichen Forschung in der Antarktis und
 ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
@@ -406,6 +412,7 @@ Kommission zu regeln.
 
 
 ## § 7 Genehmigungsverfahren mit Umwelterheblichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000800000)
 
 (1) Tätigkeiten, die voraussichtlich zumindest geringfügige oder
 vorübergehende Auswirkungen haben werden, sind einer
@@ -444,6 +451,7 @@ Abs. 4 auch die Stellungnahme der Kommission zugänglich zu machen.
 
 
 ## § 8 Genehmigungsverfahren mit Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE000900000)
 
 (1) Tätigkeiten, die mehr als geringfügige oder vorübergehende
 Auswirkungen erwarten lassen, bedürfen einer
@@ -525,6 +533,7 @@ vorzulegen, die insbesondere folgende Angaben enthalten muß:
 
 
 ## § 9 Öffentliche Auslegung, Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001001116)
 
 (1) Der Antrag auf Erteilung der Genehmigung und die Untersuchung nach
 § 8 Abs. 3 sind, mit Ausnahme der Unterlagen nach § 4 Abs. 2 Satz 1,
@@ -560,6 +569,7 @@ Einwendern zu erörtern.
 
 
 ## § 10 Unterrichtung der Parteien des Umweltschutzprotokolls zum Antarktis-Vertrag und des Ausschusses für Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001100000)
 
 (1) Die Untersuchung nach § 8 Abs. 3 wird jeder Vertragspartei des
 Umweltschutzprotokolls zum Antarktis-Vertrag übermittelt. Bei der
@@ -572,6 +582,7 @@ Antarktis-Vertrag übermittelt.
 
 
 ## § 11 Beratung durch eine Konsultativtagung der Vertragsparteien des Antarktis-Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001200000)
 
 (1) Über den Antrag auf Genehmigung einer Tätigkeit, die gemäß § 8
 einer Umweltverträglichkeitsprüfung bedarf, darf erst entschieden
@@ -591,6 +602,7 @@ nicht abgeschlossen werden kann.
 
 
 ## § 12 Genehmigung nach Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001300000)
 
 (1) Das Umweltbundesamt erarbeitet auf der Grundlage der Untersuchung
 nach § 8 Abs. 3, der Stellungnahmen anderer Vertragsparteien des
@@ -619,6 +631,7 @@ Betriebssicherheit der Schiffe nach § 5 Abs. 2 bleibt unberührt.
 
 
 ## § 13 Unterrichtung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001400000)
 
 (1) Genehmigungen nach § 12 Abs. 2 sind mit Begründung und allen
 entscheidungserheblichen Unterlagen
@@ -642,6 +655,7 @@ Vertragsparteien des Antarktis-Vertrages begonnen werden.
 
 
 ## § 14 Überwachung und Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001504116)
 
 (1) Das Umweltbundesamt ist zuständig für die Überwachung der
 Einhaltung dieses Gesetzes und der erteilten Genehmigungen.
@@ -661,6 +675,7 @@ Antarktis durch Rechtsverordnung zu regeln.
 
 
 ## § 15 Regelmäßige Unterrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001600000)
 
 (1) Dem Ausschuß für Umweltschutz nach Artikel 11 des
 Umweltschutzprotokolls zum Antarktis-Vertrag sowie den
@@ -683,6 +698,7 @@ allgemeinen Einsicht bereitzuhalten.
 
 
 ## § 16 Umweltverträglichkeitsprüfungen anderer Vertragsparteien
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001700000)
 
 (1) Unterlagen zu Umweltverträglichkeitsprüfungen, die von anderen
 Vertragsparteien des Umweltschutzprotokolls zum Antarktis-Vertrag
@@ -699,6 +715,7 @@ Vertragsparteien weiterzuleiten.
 
 
 ## § 17 Erhaltung der antarktischen Tier- und Pflanzenwelt
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001800000)
 
 (1) Es ist verboten, in der Antarktis
 
@@ -813,6 +830,7 @@ Erhaltung der lebenden Meeresschätze der Antarktis (BGBl. 1982 II S.
 
 
 ## § 18 Verbringen von Tieren und Pflanzen in die Antarktis
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE001900000)
 
 (1) Es ist verboten, Hunde in die Antarktis zu verbringen.
 
@@ -851,6 +869,7 @@ Tier- und Pflanzenwelt keine Gefahr darstellen.
 
 
 ## § 19 Ausfuhrüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002004116)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Ausfuhr von Erde, Tieren
@@ -870,6 +889,7 @@ Entnahmen unentgeltlicher Muster und Proben vorsehen.
 
 
 ## § 20 Verbringen von Stoffen und Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002100000)
 
 Polystyrolkügelchen, Polystyrolspäne oder ähnlich beschaffenes
 Verpackungsmaterial sowie Polychlorbiphenyle (PCBs) und
@@ -878,6 +898,7 @@ Schelfeis verbracht oder in das Wasser eingebracht werden.
 
 
 ## § 21 Grundsätze der Vermeidung und Entsorgung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002200000)
 
 (1) Die Entstehung und Entsorgung von Abfällen in der Antarktis sind
 soweit wie möglich zu vermeiden.
@@ -899,6 +920,7 @@ findet keine Anwendung.
 
 
 ## § 22 Entfernung von Abfällen aus der Antarktis
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002300000)
 
 (1) Die folgenden in der Antarktis erzeugten Abfälle sind aus der
 Antarktis zu entfernen:
@@ -956,6 +978,7 @@ Antarktis zu entledigen.
 
 
 ## § 23 Abfallverbrennung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002403116)
 
 (1) Brennbare Abfälle, die nicht aus der Antarktis entfernt werden,
 sind in Abfallverbrennungsanlagen so zu behandeln, daß schädliche
@@ -976,6 +999,7 @@ des Absatzes 1 festzulegen.
 
 
 ## § 24 Entsorgung flüssiger Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002500000)
 
 (1) In der Antarktis erzeugte flüssige Haushaltsabfälle oder andere
 flüssige, nicht in § 22 Abs. 1 aufgezählte Abfälle, sind soweit wie
@@ -996,12 +1020,14 @@ bedarf der Genehmigung.
 
 
 ## § 25 Feldlager
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002600000)
 
 In Feldlagern erzeugte Abfälle sind soweit irgend möglich zu den
 Unterstützungsstationen oder -schiffen zur Entsorgung zu bringen.
 
 
 ## § 26 Abfallagerung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002700000)
 
 Alle aus der Antarktis zu entfernenden oder anderweitig zu
 entsorgenden Abfälle sind so zu lagern, daß sie nicht in die Umwelt
@@ -1009,6 +1035,7 @@ gelangen können.
 
 
 ## § 27 Arbeitsstätten und Abfallagerstätten
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002800000)
 
 (1) Frühere und bestehende Abfallagerstätten an Land und aufgegebene
 Arbeitsstätten sind vorbehaltlich des Absatzes 2 von den Erzeugern der
@@ -1022,6 +1049,7 @@ sind, dürfen nicht entfernt oder verändert werden.
 
 
 ## § 28 Planung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE002900000)
 
 (1) Das Umweltbundesamt erstellt im Benehmen mit dem Alfred-Wegener-
 Institut ein System der Abfallklassifikation, um Abfälle, die bei
@@ -1102,6 +1130,7 @@ Aufgaben nach den Absätzen 1 und 2 benötigt.
 
 
 ## § 29 Schutz und Verwaltung von Gebieten, historischen Stätten und Denkmälern
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003006116)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, im Einvernehmen mit den Bundesministerien
@@ -1133,6 +1162,7 @@ und Denkmälern ist verboten.
 
 
 ## § 30 Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003100000)
 
 (1) Das Umweltbundesamt kann Ausnahmen von dem Verbot nach § 29 Abs. 2
 genehmigen, wenn die vom Antragsteller beabsichtigte Tätigkeit den
@@ -1160,6 +1190,7 @@ Art der im Zeitraum vom 1. Juli bis 30. Juni erteilten Genehmigungen.
 
 
 ## § 31 Verwaltungspläne
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003200000)
 
 Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5
 der Anlage V des Umweltschutzprotokolls zum Antarktis-Vertrag ist das
@@ -1168,6 +1199,7 @@ und Meeresforschung zuständig.
 
 
 ## § 32 Bergbauverbot
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003300000)
 
 (1) Die Prospektion, Exploration, Erschließung oder Gewinnung von
 Bodenschätzen in der Antarktis ist verboten.
@@ -1176,6 +1208,7 @@ Bodenschätzen in der Antarktis ist verboten.
 
 
 ## § 33 Schulung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003400000)
 
 (1) Der Antragsteller und der nach § 6 Abs. 1 Anzeigende haben
 sicherzustellen, daß alle Teilnehmer der Tätigkeit aufgrund geeigneter
@@ -1200,6 +1233,7 @@ umfassen.
 
 
 ## § 34 Inspektionen
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003506116)
 
 (1) Das Auswärtige Amt ist im Einvernehmen mit dem Bundesministerium
 für Wirtschaft und Energie, dem Bundesministerium für Verkehr und
@@ -1226,10 +1260,12 @@ Antarktis-Vertrag verlangt werden, zu gewähren.
 
 
 ## § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003608116)
 
 
 
 ## § 36 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003700000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1328,6 +1364,7 @@ Bundesamt für Seeschiffahrt und Hydrographie.
 
 
 ## § 37 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003800000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 36 Abs. 1 Nr. 1 bis 4 oder 9 bis 19
@@ -1351,6 +1388,7 @@ Strafe bedroht ist.
 
 
 ## § 38 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE003900000)
 
 Ist eine Ordnungswidrigkeit nach § 36 oder eine Straftat nach § 37
 begangen worden, so können Gegenstände, die zu ihrer Begehung oder
@@ -1360,6 +1398,7 @@ Strafgesetzbuches sind anzuwenden.
 
 
 ## § 39 Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE004000000)
 
 Das Auswärtige Amt ist zuständig für das im Anhang des
 Umweltschutzprotokolls zum Antarktis-Vertrag geregelte
@@ -1367,6 +1406,7 @@ Schiedsverfahren.
 
 
 ## § 40 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE004100000)
 
 Die Erarbeitung des jährlichen Berichts nach Artikel 17 des
 Umweltschutzprotokolls zum Antarktis-Vertrag obliegt dem
@@ -1374,6 +1414,7 @@ Umweltbundesamt.
 
 
 ## § 41 Notfälle
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE004200000)
 
 (1) Die Regelungen dieses Gesetzes finden keine Anwendung in
 Notfällen, in denen der Schutz von Menschenleben oder die Sicherheit
@@ -1400,6 +1441,7 @@ dem Umweltbundesamt unverzüglich die für die Unterrichtung nach Absatz
 
 
 ## § 42 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/antarktumwschprotag/BJNR259300994.html#BJNR259300994BJNE004300000)
 
 (1) § 5 Abs. 7 und § 6 Abs. 5 dieses Gesetzes treten am Tage nach der
 Verkündung in Kraft. Im übrigen tritt dieses Gesetz an dem Tage in

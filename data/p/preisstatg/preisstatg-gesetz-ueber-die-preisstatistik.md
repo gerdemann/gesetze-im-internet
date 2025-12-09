@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000100326)
 
 Im Geltungsbereich dieses Gesetzes wird eine Preisstatistik als
 Bundesstatistik durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000201311)
 
 Die Statistik erstreckt sich auf
 
@@ -52,6 +54,7 @@ Die Statistik erstreckt sich auf
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000304128)
 
 (1) Die Statistik nach § 2 Nr. 1 erfaßt die Preise für nach Art,
 Sorte, Qualität und Handelsbedingungen bezeichnete Güter. Die
@@ -132,6 +135,7 @@ Unternehmen, Behörden und Einrichtungen ab.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000403119)
 
 (1) Die Statistik nach § 2 Nr. 2 erfaßt die Preise und Entgelte für
 nach Arten und Merkmalen bezeichnete Werk- und Dienstleistungen.
@@ -145,6 +149,7 @@ Auskunftspflichtigen durchgeführt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000500326)
 
 (1) Die Statistik nach § 2 Nr. 3 erfaßt die Preise und Entgelte für
 nach Arten und Merkmalen bezeichnete Leistungen und Nebenleistungen im
@@ -159,6 +164,7 @@ Verkehrswesens.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000602311)
 
 (1) Die Statistik nach § 2 Nummer 4 erfasst die Mieten einschließlich
 Umlagen und Zuschläge für nach Arten und Merkmalen bezeichneten
@@ -169,6 +175,7 @@ werden bei höchstens 38 000 Auskunftspflichtigen durchgeführt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000702311)
 
 (1) Die Statistik nach § 2 Nummer 5 erfasst
 
@@ -199,6 +206,7 @@ der Gutachterausschüsse für Grundstückswerte.
 
 
 ## § 7a
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE001302311)
 
 (1) Hilfsmerkmale der Erhebungen sind:
 
@@ -324,6 +332,7 @@ zu zehn Jahre gespeichert werden:
 
 
 ## § 7b
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE001405128)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 7a
 Absatz 1 Nummer 2 sind freiwillig.
@@ -371,6 +380,7 @@ aufnehmen.
 
 
 ## § 7c
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE001402128)
 
 Die nach § 7b Absatz 2 abgerufenen Daten sowie die nach § 7b Absatz 3
 übermittelten Aufzeichnungen dürfen auch für andere als die Zwecke
@@ -378,6 +388,7 @@ dieses Gesetzes statistisch ausgewertet werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000801311)
 
 (1) Die Erhebungen nach den §§ 3 bis 7 finden, soweit die folgenden
 Absätze nichts anderes bestimmen, monatlich statt.
@@ -470,6 +481,7 @@ wöchentlich.
 
 
 ## § 8a
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE001500311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der
 Zustimmung des Bundesrates bedarf, für die nach § 2 durchzuführenden
@@ -496,6 +508,7 @@ Zustimmung des Bundesrates.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE000901311)
 
 Folgende Statistiken werden zentral vom Statistischen Bundesamt
 durchgeführt:
@@ -572,10 +585,12 @@ durchgeführt:
 
 
 ## (XXXX) §§ 10 und 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE001001311)
 
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/preisstatg/BJNR006050958.html#BJNR006050958BJNE001200326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

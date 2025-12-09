@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE000400325)
 
 Auf Grund des § 2 des Gesetzes über die Bildung von Rückstellungen in
 der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen
@@ -33,10 +34,12 @@ mit Zustimmung des Bundesrates:
 
 
 ## Abschnitt I - Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNG000100325)
 
 
 
 ### § 1 Versorgungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE000500325)
 
 Versorgungsverpflichtungen im Sinne des § 1 des Gesetzes vom 21.
 Dezember 1960 sind Verpflichtungen
@@ -63,6 +66,7 @@ Dezember 1960 sind Verpflichtungen
 
 
 ### § 2 Berechnung der Rückstellung
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE000600325)
 
 (1) Der Berechnung der Rückstellung sind zugrunde zu legen
 
@@ -122,6 +126,7 @@ Stelle des 1. April 1951 der 1. Oktober 1951.
 
 
 ### § 3 Berechnung und Prüfung der Gesamtrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE000700325)
 
 (1) Haben Aufnahmeeinrichtungen die Mittel für die Erfüllung der
 Versorgungsverpflichtungen gemeinschaftlich aufzubringen, so berechnet
@@ -137,6 +142,7 @@ Treuhänders wahrnimmt.
 
 
 ### § 4 Einstellung in die Umstellungsrechnung oder Altbankenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE000800325)
 
 (1) In die Umstellungsrechnung oder Altbankenrechnung eines jeden
 beteiligten Instituts kann der Teil der Gesamtrückstellung eingestellt
@@ -160,19 +166,23 @@ Durchführungsverordnung zum Umstellungsgesetz aufgestellt wird.
 
 
 ## Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNG000200325)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE000900325)
 
 -
 
 
 ## Abschnitt III - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNG000300325)
 
 
 
 ### § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE001000325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 3 des
@@ -205,11 +215,13 @@ Durchführungsverordnung zum Umstellungsgesetz"
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE001100325)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/umstr_ckstgdv/BJNR001490962.html#BJNR001490962BJNE001200325)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

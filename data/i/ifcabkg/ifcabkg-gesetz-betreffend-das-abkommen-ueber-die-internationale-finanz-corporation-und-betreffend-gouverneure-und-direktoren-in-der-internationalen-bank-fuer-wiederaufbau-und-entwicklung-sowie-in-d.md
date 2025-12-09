@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000100326)
 
 Dem Abkommen über die Internationale Finanz-Corporation (International
 Finance Corporation), das am 11. April 1955 von dem Direktorium der
@@ -31,6 +32,7 @@ ist, wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000200326)
 
 (1) Die
 Bank deutscher Länder wird ermächtigt, gemäß Artikel IV Abschnitt 9
@@ -44,6 +46,7 @@ Abkommens.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000301360)
 
 Das Bundesministerium für wirtschaftliche Zusammenarbeit und
 Entwicklung wird ermächtigt, Änderungen des Abkommens vom 11. April
@@ -56,6 +59,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000400326)
 
 (1) Der Gouverneur und der Stellvertretende Gouverneur für die
 Bundesrepublik Deutschland in der Internationalen Bank für
@@ -84,6 +88,7 @@ Zeitweiligen Stellvertretenden Direktors gilt Satz 2 entsprechend.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000500326)
 
 Der Gouverneur für die Bundesrepublik Deutschland in der
 Internationalen Bank für Wiederaufbau und Entwicklung sowie in der
@@ -96,12 +101,14 @@ für wirtschaftliche Zusammenarbeit gebunden.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000600326)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/ifcabkg/BJNR207470956.html#BJNR207470956BJNE000700326)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzgrcbek/BJNR200920924.html#BJNR200920924BJNE000100303)
 
 Zwischen dem deutschen Reiche und Griechenland ist durch
 Notenaustausch vom 21. März 1924 Einverständnis dahin festgestellt

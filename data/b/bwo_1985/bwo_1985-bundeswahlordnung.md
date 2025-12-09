@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000103377)
 
 
 
 ### § 1 Bundeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE001608126)
 
 Der Bundeswahlleiter und sein Stellvertreter werden auf unbestimmte
 Zeit ernannt. Das Bundesministerium des Innern und für Heimat macht
@@ -36,6 +38,7 @@ Anschriften ihrer Dienststellen mit Telekommunikationsanschlüssen
 
 
 ### § 2 Landeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE001705377)
 
 Der Landeswahlleiter und sein Stellvertreter werden auf unbestimmte
 Zeit ernannt. Die ernennende Stelle teilt die Namen des
@@ -45,6 +48,7 @@ Bundeswahlleiter mit und macht sie öffentlich bekannt.
 
 
 ### § 3 Kreiswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE001806377)
 
 (1) Die Kreiswahlleiter und deren Stellvertreter werden vor jeder Wahl
 ernannt. Die Ernennung erfolgt zu dem Termin, zu dem nach § 21 Absatz
@@ -60,6 +64,7 @@ nach der Hauptwahl, längstens bis zum Ablauf der Wahlperiode, aus.
 
 
 ### § 4 Bildung der Wahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE001905377)
 
 (1) Der Bundeswahlleiter, die Landeswahlleiter und die Kreiswahlleiter
 berufen alsbald nach der Bestimmung des Tages der Hauptwahl die
@@ -88,6 +93,7 @@ zum Ablauf der Wahlperiode, fort.
 
 
 ### § 5 Tätigkeit der Wahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002005377)
 
 (1) Die Wahlausschüsse sind ohne Rücksicht auf die Zahl der
 erschienenen Beisitzer beschlussfähig.
@@ -118,6 +124,7 @@ Schriftführer zu unterzeichnen.
 
 
 ### § 6 Wahlvorsteher und Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002106377)
 
 (1) Vor jeder Wahl sind, nach Möglichkeit aus den Wahlberechtigten der
 Gemeinde, für jeden Wahlbezirk ein Wahlvorsteher und sein
@@ -174,6 +181,7 @@ erforderlichen Hilfskräfte zu Verfügung.
 
 
 ### § 7 Briefwahlvorsteher und Briefwahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002207160)
 
 Für die Briefwahlvorsteher und Briefwahlvorstände gilt § 6
 entsprechend mit folgenden Maßgaben:
@@ -234,6 +242,7 @@ entsprechend mit folgenden Maßgaben:
 
 
 ### § 8 Beweglicher Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002304377)
 
 Für die Stimmabgabe in kleineren Krankenhäusern, kleineren Alten- oder
 Pflegeheimen, Klöstern, sozialtherapeutischen Anstalten und
@@ -247,6 +256,7 @@ beauftragen.
 
 
 ### § 9 Ehrenämter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002405126)
 
 Die Übernahme eines Wahlehrenamtes können ablehnen
 
@@ -274,6 +284,7 @@ Die Übernahme eines Wahlehrenamtes können ablehnen
 
 
 ### § 10 Auslagenersatz für Inhaber von Wahlämtern, Erfrischungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002510377)
 
 (1) Wahlleiter, Beisitzer der Wahlausschüsse und Mitglieder der
 Wahlvorstände erhalten, wenn sie außerhalb ihres Wahlbezirks tätig
@@ -292,6 +303,7 @@ Es ist auf ein Tagegeld nach Absatz 1 anzurechnen.
 
 
 ### § 11 Geldbußen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002604160)
 
 Geldbußen nach § 49a Abs. 1 Nr. 1 des Bundeswahlgesetzes fließen in
 die Kasse der Gemeinde, in der der Betroffene in das Wählerverzeichnis
@@ -300,14 +312,17 @@ Bundeswahlgesetzes in die Kasse des Bundes.
 
 
 ## Zweiter Abschnitt - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000203377)
 
 
 
 ### Erster Unterabschnitt - Wahlbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000303377)
 
 
 
 #### § 12 Allgemeine Wahlbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002708377)
 
 (1) Gemeinden mit nicht mehr als 2.500 Einwohnern bilden in der Regel
 einen Wahlbezirk. Größere Gemeinden werden in mehrere Wahlbezirke
@@ -335,6 +350,7 @@ welche Gemeinde die Wahl durchführt.
 
 
 #### § 13 Sonderwahlbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002803377)
 
 (1) Für Krankenhäuser, Altenheime, Altenwohnheime, Pflegeheime,
 Erholungsheime und gleichartige Einrichtungen mit einer größeren
@@ -350,10 +366,12 @@ zusammengefasst werden.
 
 
 ### Zweiter Unterabschnitt - Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000403377)
 
 
 
 #### § 14 Führung des Wählerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE002905160)
 
 (1) Die Gemeindebehörde legt vor jeder Wahl für jeden allgemeinen
 Wahlbezirk (§ 12) ein Verzeichnis der Wahlberechtigten nach
@@ -377,11 +395,13 @@ ihren Teil des Wahlbezirks an.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003004377)
 
 (weggefallen)
 
 
 #### § 16 Eintragung der Wahlberechtigten in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003113126)
 
 (1) Von Amts wegen sind in das Wählerverzeichnis alle Wahlberechtigten
 einzutragen, die am 42. Tage vor der Wahl (Stichtag) bei der
@@ -499,6 +519,7 @@ die sich in den Einrichtungen aufhaltenden Personen nicht besteht.
 
 
 #### § 17 Zuständigkeiten für die Eintragung in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003209377)
 
 (1) Zuständig für die Eintragung in das Wählerverzeichnis ist in den
 Fällen des
@@ -575,6 +596,7 @@ Fällen des
 
 
 #### § 18 Verfahren für die Eintragung in das Wählerverzeichnis auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003313126)
 
 (1) Der Antrag auf Eintragung in das Wählerverzeichnis ist schriftlich
 bis spätestens zum 21. Tage vor der Wahl bei der zuständigen
@@ -664,6 +686,7 @@ unbefugtem Zugriff auf die Daten zu treffen.
 
 
 #### § 19 Benachrichtigung der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003410126)
 
 (1) Spätestens am Tage vor der Bereithaltung des Wählerverzeichnisses
 zur Einsichtnahme benachrichtigt die Gemeindebehörde jeden
@@ -754,6 +777,7 @@ bekannt.
 
 
 #### § 20 Bekanntmachung über das Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003507126)
 
 (1) Die Gemeindebehörde macht spätestens am 24. Tage vor der Wahl nach
 dem Muster der Anlage 5 öffentlich bekannt,
@@ -810,6 +834,7 @@ der einzelnen bekannten Betroffenen vorzunehmen.
 
 
 #### § 21 Einsicht in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003606126)
 
 (1) Die Gemeindebehörde hält das Wählerverzeichnis mindestens am Ort
 der Gemeindeverwaltung an den Werktagen vom 20. bis zum 16. Tag vor
@@ -830,6 +855,7 @@ unbeteiligten Dritten nicht zugänglich gemacht werden.
 
 
 #### § 22 Einspruch gegen das Wählerverzeichnis und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003708126)
 
 (1) Wer das Wählerverzeichnis für unrichtig oder unvollständig hält,
 kann innerhalb der Einsichtsfrist Einspruch einlegen.
@@ -867,6 +893,7 @@ Entscheidung im Wahlprüfungsverfahren endgültig.
 
 
 #### § 23 Berichtigung des Wählerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003808126)
 
 (1) Nach Beginn der Einsichtsfrist ist die Eintragung oder Streichung
 von Personen sowie die Vornahme sonstiger Änderungen im
@@ -895,6 +922,7 @@ Berichtigungen nicht mehr vorgenommen werden.
 
 
 #### § 24 Abschluss des Wählerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE003904377)
 
 (1) Das Wählerverzeichnis ist spätestens am Tage vor der Wahl, jedoch
 nicht früher als am dritten Tage vor der Wahl, durch die
@@ -911,10 +939,12 @@ Wahlbezirks verbunden und abgeschlossen.
 
 
 ### Dritter Unterabschnitt - Wahlscheine
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000503377)
 
 
 
 #### § 25 Voraussetzungen für die Erteilung von Wahlscheinen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004005160)
 
 (1) Ein Wahlberechtigter, der in das Wählerverzeichnis eingetragen
 ist, erhält auf Antrag einen Wahlschein.
@@ -939,6 +969,7 @@ eingetragen ist, erhält auf Antrag einen Wahlschein,
 
 
 #### § 26 Zuständige Behörde, Form des Wahlscheines
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004104377)
 
 Der Wahlschein wird nach dem Muster der Anlage 9 von der
 Gemeindebehörde erteilt, in deren Wählerverzeichnis der
@@ -946,6 +977,7 @@ Wahlberechtigte eingetragen ist oder hätte eingetragen werden müssen.
 
 
 #### § 27 Wahlscheinanträge
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004210126)
 
 (1) Die Erteilung eines Wahlscheines kann schriftlich oder mündlich
 bei der Gemeindebehörde beantragt werden. Die Schriftform gilt auch
@@ -982,6 +1014,7 @@ aufzubewahren.
 
 
 #### § 28 Erteilung von Wahlscheinen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004309126)
 
 (1) Wahlscheine dürfen nicht vor Zulassung der Wahlvorschläge durch
 den Landes- und den Kreiswahlausschuss nach den §§ 26 und 28 des
@@ -1099,6 +1132,7 @@ entsprechend.
 
 
 #### § 29 Erteilung von Wahlscheinen an bestimmte Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004405160)
 
 (1) Die Gemeindebehörde fordert spätestens am achten Tage vor der Wahl
 von den Leitungen
@@ -1148,6 +1182,7 @@ wahlberechtigten Soldaten entsprechend Absatz 2 Nr. 2 zu verständigen.
 
 
 #### § 30 Vermerk im Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004503377)
 
 Hat ein Wahlberechtigter einen Wahlschein erhalten, so wird im
 Wählerverzeichnis in der Spalte für den Vermerk über die Stimmabgabe
@@ -1155,6 +1190,7 @@ Wählerverzeichnis in der Spalte für den Vermerk über die Stimmabgabe
 
 
 #### § 31 Einspruch gegen die Versagung des Wahlscheines und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004604377)
 
 Wird die Erteilung eines Wahlscheines versagt, so kann dagegen
 Einspruch eingelegt werden. § 22 Abs. 2, 4 und 5 gilt entsprechend.
@@ -1164,10 +1200,12 @@ Einspruch vor dem zwölften Tage vor der Wahl eingelegt worden ist.
 
 
 ### Vierter Unterabschnitt - Wahlvorschläge, Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000603377)
 
 
 
 #### § 32 Aufforderung zur Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004705377)
 
 Nachdem der Wahltag bestimmt ist, fordern die Kreis- und
 Landeswahlleiter durch öffentliche Bekanntmachung zur möglichst
@@ -1184,6 +1222,7 @@ Bundeswahlgesetzes).
 
 
 #### § 33 Beteiligungsanzeige der in § 18 Abs. 2 des Bundeswahlgesetzes genannten Parteien, Beseitigung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004807126)
 
 (1) Der Bundeswahlleiter vermerkt auf jeder Beteiligungsanzeige den
 Tag des Eingangs und prüft unverzüglich, ob sie den Anforderungen des
@@ -1241,6 +1280,7 @@ Niederschrift mit den nach Absatz 3 Satz 2 erforderlichen Hinweisen.
 
 
 #### § 34 Inhalt und Form der Kreiswahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE004915126)
 
 (1) Der Kreiswahlvorschlag soll nach dem Muster der Anlage 13
 eingereicht werden. Er muss enthalten
@@ -1401,6 +1441,7 @@ Vorlage der erforderlichen Nachweise zu beantragen.
 
 
 #### § 35 Vorprüfung der Kreiswahlvorschläge durch den Kreiswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005006126)
 
 (1) Der Kreiswahlleiter vermerkt auf jedem Kreiswahlvorschlag den Tag
 und bei Eingang am letzten Tage der Einreichungsfrist außerdem die
@@ -1426,6 +1467,7 @@ Gelegenheit zur Äußerung zu geben.
 
 
 #### § 36 Zulassung der Kreiswahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005106126)
 
 (1) Der Kreiswahlleiter lädt die Vertrauenspersonen der
 Kreiswahlvorschläge zu der Sitzung, in der über die Zulassung der
@@ -1473,6 +1515,7 @@ erforderlichen Auskünfte zu erteilen und Feststellungen zu treffen.
 
 
 #### § 37 Beschwerde gegen Entscheidungen des Kreiswahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005206126)
 
 (1) Die Beschwerde gegen eine Entscheidung des Kreiswahlausschusses
 ist schriftlich oder zur Niederschrift beim Kreiswahlleiter
@@ -1496,6 +1539,7 @@ sofort dem Bundeswahlleiter mit.
 
 
 #### § 38 Bekanntmachung der Kreiswahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005311126)
 
 Der Kreiswahlleiter stellt vor der öffentlichen Bekanntmachung der
 zugelassenen Kreiswahlvorschläge den Bedingungseintritt des § 26
@@ -1522,6 +1566,7 @@ Wahlgebiet.
 
 
 #### § 39 Inhalt und Form der Landeslisten
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005409126)
 
 (1) Die Landesliste soll nach dem Muster der Anlage 20 eingereicht
 werden. Sie muss enthalten
@@ -1603,6 +1648,7 @@ gilt § 34 Abs. 4 entsprechend.
 
 
 #### § 40 Vorprüfung der Landeslisten durch den Landeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005505126)
 
 (1) Der Landeswahlleiter vermerkt auf jeder Landesliste den Tag und
 bei Eingang am letzten Tage der Einreichungsfrist außerdem die Uhrzeit
@@ -1627,6 +1673,7 @@ Abs. 3 entsprechend.
 
 
 #### § 41 Zulassung der Landeslisten
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005604126)
 
 (1) Der Landeswahlausschuss stellt die zugelassenen Landeslisten mit
 den in § 39 Abs. 1 Satz 2 bezeichneten Angaben und mit der maßgebenden
@@ -1645,6 +1692,7 @@ Daten zu treffen.
 
 
 #### § 42 Beschwerde gegen Entscheidungen des Landeswahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005706126)
 
 (1) Die Beschwerde gegen eine Entscheidung des Landeswahlausschusses
 ist schriftlich oder zur Niederschrift beim Landeswahlleiter
@@ -1666,6 +1714,7 @@ Beschlussfassung unter kurzer Angabe der Gründe bekannt.
 
 
 #### § 43 Bekanntmachung der Landeslisten
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005812126)
 
 (1) Der Landeswahlleiter ordnet die endgültig zugelassenen
 Landeslisten in der durch § 30 Abs. 3 Satz 1 und 2 des
@@ -1690,9 +1739,11 @@ ersten fünf Bewerber mit.
 
 
 #### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE005906377)
 
 
 #### § 45 Stimmzettel, Umschläge für die Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006012126)
 
 (1) Der Stimmzettel ist mindestens 21 x 29,7 cm (DIN A4) groß und aus
 weißem oder weißlichem Papier. Das Papier muss so beschaffen sein,
@@ -1763,10 +1814,12 @@ Briefwahl.
 
 
 ### Fünfter Unterabschnitt - Wahlräume, Wahlzeit
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000703377)
 
 
 
 #### § 46 Wahlräume
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006106126)
 
 (1) Die Gemeindebehörde bestimmt für jeden Wahlbezirk einen Wahlraum.
 Soweit möglich, stellen die Gemeinden Wahlräume in Gemeindegebäuden
@@ -1788,6 +1841,7 @@ sorgt.
 
 
 #### § 47 Wahlzeit
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006203377)
 
 (1) Die Wahl dauert von 8 bis 18 Uhr.
 
@@ -1796,6 +1850,7 @@ erfordern, die Wahlzeit mit einem früheren Beginn festsetzen.
 
 
 #### § 48 Wahlbekanntmachung der Gemeindebehörde
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006306377)
 
 (1) Die Gemeindebehörde macht spätestens am sechsten Tage vor der Wahl
 nach dem Muster der Anlage 27 Beginn und Ende der Wahlzeit sowie die
@@ -1855,14 +1910,17 @@ Dem Auszug ist ein Stimmzettel als Muster beizufügen.
 
 
 ## Dritter Abschnitt - Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000803377)
 
 
 
 ### Erster Unterabschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG000903377)
 
 
 
 #### § 49 Ausstattung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006405377)
 
 Die Gemeindebehörde übergibt dem Wahlvorsteher eines jeden Wahlbezirks
 vor Beginn der Wahlhandlung
@@ -1903,6 +1961,7 @@ vor Beginn der Wahlhandlung
 
 
 #### § 50 Wahlkabinen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006505377)
 
 (1) In jedem Wahlraum richtet die Gemeindebehörde eine Wahlkabine oder
 mehrere Wahlkabinen mit Tischen ein, in denen der Wähler seinen
@@ -1916,6 +1975,7 @@ dienen, wenn dessen Eingang vom Tisch des Wahlvorstandes aus
 
 
 #### § 51 Wahlurnen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006604377)
 
 (1) Die Gemeindebehörde sorgt für die erforderlichen Wahlurnen.
 
@@ -1930,12 +1990,14 @@ beweglichen Wahlvorstand können kleinere Wahlurnen verwendet werden.
 
 
 #### § 52 Wahltisch
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006703377)
 
 Der Tisch, an dem der Wahlvorstand Platz nimmt, muss von allen Seiten
 zugänglich sein. An oder auf diesen Tisch wird die Wahlurne gestellt.
 
 
 #### § 53 Eröffnung der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006806160)
 
 (1) Der Wahlvorsteher eröffnet die Wahlhandlung damit, dass er die
 anwesenden Beisitzer auf ihre Verpflichtung zur unparteiischen
@@ -1962,6 +2024,7 @@ geöffnet werden.
 
 
 #### § 54 Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE006903377)
 
 Während der Wahlhandlung sowie der Ermittlung und Feststellung des
 Wahlergebnisses hat jedermann zum Wahlraum Zutritt, soweit das ohne
@@ -1969,12 +2032,14 @@ Störung des Wahlgeschäfts möglich ist.
 
 
 #### § 55 Ordnung im Wahlraum
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007003377)
 
 Der Wahlvorstand sorgt für Ruhe und Ordnung im Wahlraum. Er ordnet bei
 Andrang den Zutritt zum Wahlraum.
 
 
 #### § 56 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007109377)
 
 (1) Wenn der Wähler den Wahlraum betritt, erhält er einen amtlichen
 Stimmzettel. Der Wahlvorstand kann anordnen, dass er hierzu seine
@@ -2066,6 +2131,7 @@ Mitglieds des Wahlvorstandes vernichtet hat.
 
 
 #### § 57 Stimmabgabe von Wählern mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007209377)
 
 (1) Ein Wähler, der des Lesens unkundig ist oder der wegen einer
 Behinderung gehindert ist, den Stimmzettel zu kennzeichnen, zu falten
@@ -2091,11 +2157,13 @@ des Stimmzettels auch einer Stimmzettelschablone bedienen.
 
 
 #### § 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007305160)
 
 -
 
 
 #### § 59 Stimmabgabe von Inhabern eines Wahlscheines
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007403377)
 
 Der Inhaber eines Wahlscheines nennt seinen Namen, weist sich aus und
 übergibt den Wahlschein dem Wahlvorsteher. Dieser prüft den
@@ -2108,6 +2176,7 @@ ein.
 
 
 #### § 60 Schluss der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007505126)
 
 Ist die Wahlzeit (§ 47) abgelaufen, wird dies vom Wahlvorsteher
 bekanntgegeben. Von da ab sind nur noch die Wahlberechtigten zur
@@ -2120,10 +2189,12 @@ geschlossen.
 
 
 ### Zweiter Unterabschnitt - Besondere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG001003377)
 
 
 
 #### § 61 Wahl in Sonderwahlbezirken
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007606160)
 
 (1) Zur Stimmabgabe in Sonderwahlbezirken (§ 13) wird jeder in der
 Einrichtung anwesende Wahlberechtigte zugelassen, der einen für den
@@ -2180,6 +2251,7 @@ allgemeinen Wahlzeit ermittelt werden.
 
 
 #### § 62 Stimmabgabe in kleineren Krankenhäusern und kleineren Alten- oder Pflegeheimen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007705377)
 
 (1) Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit
 möglich im Benehmen mit der Leitung eines kleineren Krankenhauses oder
@@ -2215,6 +2287,7 @@ allgemeinen Bestimmungen.
 
 
 #### § 63 Stimmabgabe in Klöstern
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007803377)
 
 Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit
 möglich im Benehmen mit der Leitung eines Klosters die Stimmabgabe im
@@ -2222,6 +2295,7 @@ Kloster entsprechend § 62 regeln.
 
 
 #### § 64 Stimmabgabe in sozialtherapeutischen Anstalten und Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE007903377)
 
 (1) In sozialtherapeutischen Anstalten und Justizvollzugsanstalten
 soll die Gemeindebehörde bei entsprechendem Bedürfnis und soweit
@@ -2242,11 +2316,13 @@ gelten die allgemeinen Bestimmungen.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008004377)
 
 (weggefallen)
 
 
 #### § 66 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008108305)
 
 (1) Wer durch Briefwahl wählt, kennzeichnet persönlich den
 Stimmzettel, legt ihn in den amtlichen Stimmzettelumschlag und
@@ -2295,10 +2371,12 @@ des Absatzes 4 hin.
 
 
 ## Vierter Abschnitt - Ermittlung und Feststellung der Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG001103377)
 
 
 
 ### § 67 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008204377)
 
 Im Anschluss an die Wahlhandlung ermittelt der Wahlvorstand
 vorbehaltlich § 68 Absatz 2 ohne Unterbrechung das Wahlergebnis im
@@ -2328,6 +2406,7 @@ Wahlbezirk und stellt fest
 
 
 ### § 68 Zählung der Wähler
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008306126)
 
 (1) Vor dem Öffnen der Wahlurne werden alle nicht benutzten
 Stimmzettel vom Wahltisch entfernt. Zunächst werden die Zahl der
@@ -2358,6 +2437,7 @@ des aufnehmenden Wahlvorstands zu vermerken.
 
 
 ### § 69 Zählung der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008405126)
 
 (1) Nachdem die Stimmzettel sowie die Stimmabgabevermerke und die
 Wahlscheine gezählt worden sind, bilden mehrere Beisitzer unter
@@ -2463,6 +2543,7 @@ je für sich und behalten sie unter Aufsicht.
 
 
 ### § 70 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008503377)
 
 Im Anschluss an die Feststellungen nach § 67 gibt der Wahlvorsteher
 das Wahlergebnis im Wahlbezirk mit den in dieser Vorschrift
@@ -2472,6 +2553,7 @@ durch die Mitglieder des Wahlvorstandes nicht mitgeteilt werden.
 
 
 ### § 71 Schnellmeldungen, vorläufige Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008607126)
 
 (1) Sobald das Wahlergebnis im Wahlbezirk festgestellt ist, meldet es
 der Wahlvorsteher der Gemeindebehörde, die die Wahlergebnisse aller
@@ -2539,6 +2621,7 @@ Kreiswahlleiters nach Absatz 3 Satz 2 vorliegt.
 
 
 ### § 72 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008705377)
 
 (1) Über die Wahlhandlung sowie die Ermittlung und Feststellung des
 Wahlergebnisses ist vom Schriftführer eine Niederschrift nach dem
@@ -2569,6 +2652,7 @@ Wahlniederschriften mit den Anlagen Unbefugten nicht zugänglich sind.
 
 
 ### § 73 Übergabe und Verwahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008804377)
 
 (1) Hat der Wahlvorstand seine Aufgaben erledigt, so verpackt der
 Wahlvorsteher je für sich
@@ -2608,6 +2692,7 @@ zu fertigen, die von allen Beteiligten zu unterzeichnen ist.
 
 
 ### § 74 Behandlung der Wahlbriefe, Vorbereitung der Ermittlung und Feststellung des Briefwahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE008906377)
 
 (1) Die für den Eingang der Wahlbriefe zuständige Stelle (§ 66 Abs. 2)
 sammelt die Wahlbriefe ungeöffnet und hält sie unter Verschluss. Sie
@@ -2643,6 +2728,7 @@ Paket Unbefugten nicht zugänglich ist.
 
 
 ### § 75 Zulassung der Wahlbriefe, Ermittlung und Feststellung des Briefwahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009006160)
 
 (1) Ein vom Briefwahlvorsteher bestimmtes Mitglied des
 Briefwahlvorstandes öffnet die Wahlbriefe nacheinander und entnimmt
@@ -2765,6 +2851,7 @@ treffen.
 
 
 ### § 76 Ermittlung und Feststellung des Wahlergebnisses im Wahlkreis
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009108126)
 
 (1) Der Kreiswahlleiter prüft die Wahlniederschriften der
 Wahlvorstände auf Vollständigkeit und Ordnungsmäßigkeit. Er stellt
@@ -2849,6 +2936,7 @@ Zusammenstellung.
 
 
 ### § 77 Ermittlung und Feststellung des Zweitstimmenergebnisses im Land
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009205126)
 
 (1) Der Landeswahlleiter prüft die Wahlniederschriften der
 Kreiswahlausschüsse und stellt danach die endgültigen Wahlergebnisse
@@ -2910,6 +2998,7 @@ einzelnen Wahlkreisen des Landes (Absatz 1).
 
 
 ### § 78 Abschließende Ermittlung und Feststellung des Ergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009307126)
 
 (1) Der Bundeswahlleiter prüft die Wahlniederschriften der
 Landeswahlausschüsse. Er ermittelt nach den Niederschriften der
@@ -2999,6 +3088,7 @@ Bewerber gewählt sind.
 
 
 ### § 79 Bekanntmachung der endgültigen Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009405126)
 
 (1) Sobald die Feststellungen aller Wahlausschüsse abgeschlossen sind,
 machen
@@ -3029,6 +3119,7 @@ Präsidenten des Deutschen Bundestages.
 
 
 ### § 80 Benachrichtigung der gewählten Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009505126)
 
 (1) Der Bundeswahlleiter benachrichtigt die vom Bundeswahlausschuss
 abschließend für gewählt festgestellten Bewerber nach seiner
@@ -3051,6 +3142,7 @@ Benachrichtigungen zugestellt worden sind.
 
 
 ### § 81 Überprüfung der Wahl durch die Landeswahlleiter und den Bundeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009603377)
 
 (1) Die Landeswahlleiter und der Bundeswahlleiter prüfen, ob die Wahl
 nach den Vorschriften des Bundeswahlgesetzes, dieser Verordnung und
@@ -3067,10 +3159,12 @@ Landeswahlleiter die bei ihnen vorhandenen Wahlunterlagen übersenden.
 
 
 ## Fünfter Abschnitt - Nachwahl, Wiederholungswahl, Berufung von Nachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG001204126)
 
 
 
 ### § 82 Nachwahl
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009704160)
 
 (1) Sobald feststeht, dass die Wahl wegen Todes eines
 Wahlkreisbewerbers, infolge höherer Gewalt oder aus sonstigem Grunde
@@ -3116,6 +3210,7 @@ bekannt.
 
 
 ### § 83 Wiederholungswahl
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009805126)
 
 (1) Das Wahlverfahren ist nur insoweit zu erneuern, als das nach der
 Entscheidung im Wahlprüfungsverfahren erforderlich ist.
@@ -3189,6 +3284,7 @@ Verhältnisse treffen.
 
 
 ### § 84 Berufung von Nachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE009910126)
 
 (1) Liegen die Voraussetzungen für eine Nachfolge vor, so
 benachrichtigt der Landeswahlleiter den gemäß § 48 Absatz 1 Sätze 1
@@ -3222,10 +3318,12 @@ erklärt. Die Ablehnung kann nicht widerrufen werden.
 
 
 ## Sechster Abschnitt - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNG001303377)
 
 
 
 ### § 85 Datenschutzrechtliche Spezialregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010006126)
 
 (1) Hinsichtlich der im Wählerverzeichnis enthaltenen
 personenbezogenen Daten besteht abweichend von Artikel 15 Absatz 1 und
@@ -3271,6 +3369,7 @@ Bundeswahlgesetzes gelten die Absätze 1 bis 4 entsprechend.
 
 
 ### § 86 Öffentliche Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010108126)
 
 (1) Die nach dem Bundeswahlgesetz und dieser Verordnung
 vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch das
@@ -3303,6 +3402,7 @@ zugelassenen Bewerber, der vorläufig Gewählten sowie der Gewählten.
 
 
 ### § 87 Zustellungen, Versicherungen an Eides statt
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010205305)
 
 (1) Für Zustellungen gilt das Verwaltungszustellungsgesetz des Bundes
 in der jeweils geltenden Fassung.
@@ -3313,6 +3413,7 @@ Eides statt ist die jeweilige Gemeindebehörde zur Abnahme zuständig.
 
 
 ### § 88 Beschaffung von Stimmzetteln und Vordrucken
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010311126)
 
 (1) Der Kreiswahlleiter beschafft
 
@@ -3410,6 +3511,7 @@ Bereitstellung erfolgen.
 
 
 ### § 89 Sicherung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010404377)
 
 (1) Die Wählerverzeichnisse, die Wahlscheinverzeichnisse, die
 Verzeichnisse nach § 28 Abs. 8 Satz 2 und § 29 Abs. 1, die Formblätter
@@ -3435,6 +3537,7 @@ Wahlstraftat erforderlich ist.
 
 
 ### § 90 Vernichtung von Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010504377)
 
 (1) Die eingenommenen Wahlbenachrichtigungen sind unverzüglich zu
 vernichten.
@@ -3457,6 +3560,7 @@ Bedeutung sein können.
 
 
 ### § 91 Stadtstaatklausel
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010603377)
 
 In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche
 Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser
@@ -3464,16 +3568,19 @@ Verordnung der Gemeindebehörde übertragen sind.
 
 
 ### § 92
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010703377)
 
 (Änderung der Bundeswahlgeräteverordnung)
 
 
 ### § 93
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE010904377)
 
 (Inkrafttreten, Außerkrafttreten)
 
 
 ### Anlage 1 (zu § 18 Absatz 6)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011109126)
 
 (Fundstelle: BGBl. I 2017, 588 — 592);
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4204,18 +4311,21 @@ Rückkehrer aus dem Ausland
 [^f797800_03_BJNR017690985BJNE011109126]: 
 
 ### Anlage 2 (zu § 18 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011216126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 13 – 16)
 
 
 
 ### Anlage 2a (zu § 18 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE015600115)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 17 – 20)
 
 
 
 ### Anlage 3 (zu § 19 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011313126)
 
 (Fundstelle: BGBl. I 2017, 595);
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4431,6 +4541,7 @@ Wahlbenachrichtigung
 
 
 ### Anlage 4 (zu § 19 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011411126)
 
 (Fundstelle: BGBl. I 2017, 596;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4657,6 +4768,7 @@ Rückseite der Wahlbenachrichtigung
 [^f797800_16_BJNR017690985BJNE011411126]: 
 
 ### Anlage 5 (zu § 20 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011514126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 12 - 13;
@@ -5040,6 +5152,7 @@ _\_\__\_\__\_\__\_\__\_\_
 [^BJNR017690985BJNE011507160_05_BJNR017690985BJNE011514126]: 
 
 ### Anlage 6 (zu § 20 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011612377)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 14;
@@ -5137,11 +5250,13 @@ Vertretungen der Bundesrepublik Deutschland.
 [^bjnr017690985bjne011612377_03_BJNR017690985BJNE011612377]: 
 
 ### Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011703377)
 
 (weggefallen)
 
 
 ### Anlage 8 (zu § 24 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011805377)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 16)
@@ -5414,6 +5529,7 @@ gemacht worden.
 [^BJNR017690985BJNE011805377_03]: 
 
 ### Anlage 9 (zu § 26)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE011911126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 17;
@@ -5687,6 +5803,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR017690985BJNE011908377_04_BJNR017690985BJNE011911126]: 
 
 ### Anlage 10 (zu § 28 Abs. 3 und § 45 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012005126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 18;
@@ -5752,6 +5869,7 @@ Vorderseite des Stimmzettelumschlags für die Briefwahl
 [^BJNR017690985BJNE012004160_01_BJNR017690985BJNE012005126]: 
 
 ### Anlage 11 (zu § 28 Abs. 3 und § 45 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012110126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 19;
@@ -6065,6 +6183,7 @@ hellrot (maschinenlesbar)
 
 
 ### Anlage 12 (zu § 28 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012211126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 21 – 22)
 
@@ -6210,6 +6329,7 @@ Rückseite des Merkblatts zur Briefwahl
 [^F831225_3_BJNR017690985BJNE012211126]: 
 
 ### Anlage 13 (zu § 34 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012308126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 22 -
 23; bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6607,6 +6727,7 @@ _\_\__\_\__\_\__\_\__\_\_\_\_
 [^BJNR017690985BJNE012307160_06_BJNR017690985BJNE012308126]: 
 
 ### Anlage 14 (zu § 34 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012412126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 23 – 25)
 
@@ -6977,6 +7098,7 @@ Bescheinigung des Wahlrechts
 [^F831225_11_BJNR017690985BJNE012412126]: 
 
 ### Anlage 15 (zu § 34 Absatz 5 Nummer 1 und 3 Buchstabe b)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012506126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 26 – 27)
 
@@ -7222,6 +7344,7 @@ beschweren.
 [^F831225_18_BJNR017690985BJNE012506126]: 
 
 ### Anlage 16 (zu § 34 Absatz 5 Nummer 2 und § 39 Absatz 4 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012609126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 28 – 29)
 
@@ -7415,6 +7538,7 @@ _\_\__\_\__\_\__
 [^F831225_21_BJNR017690985BJNE012609126]: 
 
 ### Anlage 17 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012707126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 28 -
 30; bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8042,6 +8166,7 @@ _\_\__\_\__\_\__\_\_\_\_
 [^BJNR017690985BJNE012706160_06_BJNR017690985BJNE012707126]: 
 
 ### Anlage 18 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012807126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 31;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8214,6 +8339,7 @@ _\_\__\_\__\_\__\_\__\_\_
 [^BJNR017690985BJNE012806160_02_BJNR017690985BJNE012807126]: 
 
 ### Anlage 19 (zu § 36 Abs. 6)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE012908126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 32 -
 34;
@@ -8995,12 +9121,14 @@ für die Wahl zum Deutschen Bundestag
 
 
 ### Anlage 19a zu § 38 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE015500126)
 
    (Fundstelle: BGBl. 2024 I Nr. 283, S. 30)
 
 
 
 ### Anlage 20 (zu § 39 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013008126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 35;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9418,6 +9546,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 21 (zu § 39 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013109126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 31 – 33)
 
@@ -9735,6 +9864,7 @@ für die Wahl zum Deutschen Bundestag
 [^F831225_29_BJNR017690985BJNE013109126]: 
 
 ### Anlage 22 (zu § 39 Absatz 4 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013206126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 34 –35)
 
@@ -9937,6 +10067,7 @@ _\_\__\_\__\_\_
 [^F831225_34_BJNR017690985BJNE013206126]: 
 
 ### Anlage 23 (zu § 39 Abs. 4 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013307126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 39 -
 40;
@@ -10405,6 +10536,7 @@ _\_\__\_\__\_\__\_\__\_\__\_\__
 [^BJNR017690985BJNE013306160_05_BJNR017690985BJNE013307126]: 
 
 ### Anlage 24 (zu § 39 Abs. 4 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013406126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 41;
@@ -10553,15 +10685,18 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\__
 [^BJNR017690985BJNE013405377_02_BJNR017690985BJNE013406126]: 
 
 ### Anlage 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013506377)
 
 
 ### Anlage 26 (zu § 28 Absatz 3 und § 45 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013608126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 36)
 
 
 
 ### Anlage 27 (zu § 48 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013709377)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 44 - 45;
@@ -10945,6 +11080,7 @@ _\_\__\_\__\_\__\_\__\_\__\_\__\_\_
 [^BJNR017690985BJNE013708305_05_BJNR017690985BJNE013709377]: 
 
 ### Anlage 28 (zu § 71 Abs. 7 und § 75 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013806126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 46 - 47;
@@ -11343,12 +11479,14 @@ Schnellmeldung
 [^BJNR017690985BJNE013805377_04_BJNR017690985BJNE013806126]: 
 
 ### Anlage 29 (zu § 72 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE013911126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 37 - 50)
 
 
 
 ### Anlage 30 (zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE014004126)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 56 -
 57)
@@ -11356,18 +11494,21 @@ Schnellmeldung
 
 
 ### Anlage 31 (zu § 75 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE014112126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 51 - 63)
 
 
 
 ### Anlage 32 (zu § 76 Absatz 6)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE014206126)
 
 (Fundstelle: BGBl. 2024 I Nr. 283, S. 64 - 66)
 
 
 
 ### Anlage 33 (zu § 77 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/bwo_1985/BJNR017690985.html#BJNR017690985BJNE014307126)
 
 (Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
 April 2002, S. 68 - 69;

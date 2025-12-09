@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000100000)
 
 Auf Grund des § 14 Absatz 1 des Bundesumzugskostengesetzes in der
 Fassung der Bekanntmachung vom 11. Dezember 1990 (BGBl. I S. 2682) und
@@ -30,15 +31,18 @@ und dem Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000301116)
 
 Diese Verordnung regelt die bei Auslandsumzügen geltenden Abweichungen
 von den allgemeinen Vorschriften des Bundesumzugskostenrechts.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000401116)
 
 (1) Berücksichtigungsfähige Personen sind:
 
@@ -86,6 +90,7 @@ oder eine berücksichtigungsfähige Person ist.
 
 
 ### § 3 Antrag und Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000500000)
 
 (1) Die Ausschlussfrist für die Beantragung der Umzugskostenvergütung
 nach § 14 Absatz 6 Satz 1 des Bundesumzugskostengesetzes beginnt mit
@@ -99,6 +104,7 @@ von dritter Seite sind anzurechnen.
 
 
 ### § 4 Bemessung der Umzugskostenvergütung, berücksichtigungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000601116)
 
 (1) Die Bemessung der Umzugskostenvergütung richtet sich nach den
 persönlichen Verhältnissen der berechtigten Person am Tag des
@@ -148,12 +154,15 @@ die Befugnis zur Erteilung der Zustimmung auf eine andere Behörde
 
 
 ## Abschnitt 2 - Erstattungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000200000)
 
 
 ### Unterabschnitt 1 - Beförderung und Lagerung des Umzugsguts
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000300000)
 
 
 #### § 5 Umzugsgut
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000700000)
 
 (1) Die Auslagen für die Beförderung des Umzugsguts
 (Beförderungsauslagen) von der bisherigen zur neuen Wohnung werden
@@ -191,6 +200,7 @@ Beförderungsauslagen erstattet.
 
 
 #### § 6 Umzugsvolumen
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000800000)
 
 (1) Der berechtigten Person werden Beförderungsauslagen für ein
 Umzugsvolumen von bis zu 100 Kubikmetern erstattet. Zieht eine
@@ -215,6 +225,7 @@ veranlassen.
 
 
 #### § 7 Personenkraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE000900000)
 
 (1) Die Kosten der Beförderung eines Personenkraftfahrzeugs werden
 erstattet.
@@ -242,6 +253,7 @@ Dienstort als auch der Verkauf am bisherigen Dienstort verboten sind.
 
 
 #### § 8 Tiere
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001000000)
 
 Beförderungsauslagen für bis zu zwei Haustiere werden erstattet,
 soweit diese üblicherweise in der Wohnung gehalten werden. Kosten für
@@ -250,6 +262,7 @@ werden nicht erstattet.
 
 
 #### § 9 Zwischenlagern von Umzugsgut
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001100000)
 
 (1) Auslagen für das Zwischenlagern einschließlich der
 Lagerversicherung sind nur erstattungsfähig, wenn die berechtigte
@@ -263,6 +276,7 @@ Wohnung erstattet.
 
 
 #### § 10 Lagern von Umzugsgut
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001200000)
 
 (1) Zieht die berechtigte Person in eine ganz oder teilweise
 ausgestattete Dienstwohnung, werden ihr die Auslagen für das
@@ -316,9 +330,11 @@ von bis zu 50 Kubikmetern Umzugsgut erstattet werden.
 
 
 ### Unterabschnitt 2 - Reisen
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000400000)
 
 
 #### § 11 Wohnungsbesichtigungsreise, Umzugsabwicklungsreise
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001300000)
 
 (1) Die Auslagen für eine gemeinsame Reise der berechtigten Person und
 einer berücksichtigungsfähigen Person nach § 2 Absatz 1 Satz 1 Nummer
@@ -349,6 +365,7 @@ Dienstwohnung werden nicht erstattet.
 
 
 #### § 12 Umzugsreise
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001400000)
 
 (1) Die Auslagen für die Umzugsreise vom bisherigen zum neuen
 Dienstort werden unter Berücksichtigung der notwendigen Reisedauer
@@ -410,6 +427,7 @@ entsprechend.
 
 
 #### § 13 Reisegepäck
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001501116)
 
 (1) Die Auslagen für die Beförderung unbegleiteten Reisegepäcks
 anlässlich der Umzugsreise vom bisherigen zum neuen Dienstort werden
@@ -445,9 +463,11 @@ Prozent der Gewichtsgrenzen nach Absatz 1 erstattet, wenn
 
 
 ### Unterabschnitt 3 - Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000500000)
 
 
 #### § 14 Vorübergehende Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001601116)
 
 (1) Auslagen für eine vorübergehende Unterkunft am bisherigen oder am
 neuen Dienstort werden für die Zeit vom letzten Tag des Einladens des
@@ -508,6 +528,7 @@ geleistet, an denen die berechtigte Person
 
 
 #### § 15 Mietentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001701116)
 
 (1) Muss für dieselbe Zeit sowohl für die bisherige als auch für die
 neue eigene Wohnung der berechtigten Person Miete gezahlt werden, wird
@@ -571,6 +592,7 @@ neue Eigentumswohnung wird keine Mietentschädigung gewährt.
 
 
 #### § 16 Wohnungsbeschaffungskosten
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001800000)
 
 (1) Gutachterkosten, Maklerkosten, ortsübliche
 Mietvertragsabschlussgebühren, Kosten für Garantieerklärungen und
@@ -608,6 +630,7 @@ Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
 
 #### § 17 Technische Geräte
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE001901116)
 
 (1) Müssen beim Bezug der neuen Wohnung aufgrund der örtlichen
 Verhältnisse Klimageräte oder Notstromerzeuger beschafft werden,
@@ -632,9 +655,11 @@ Gerät bei der berechtigten Person.
 
 
 ### Unterabschnitt 4 - Pauschalen und zusätzlicher Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000600000)
 
 
 #### § 18 Umzugspauschale
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002000000)
 
 (1) Eine berechtigte Person, die eine eigene Wohnung einrichtet,
 erhält für sich und die berücksichtigungsfähigen Personen eine
@@ -755,6 +780,7 @@ berechtigten Personen unterschiedlich hoch, wird die höhere gezahlt.
 
 
 #### § 19 Ausstattungspauschale
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002100000)
 
 (1) Bei der ersten Verwendung im Ausland erhält die verheiratete oder
 in einer Lebenspartnerschaft lebende berechtigte Person eine
@@ -818,6 +844,7 @@ erhalten keine Ausstattungspauschale.
 
 
 #### § 20 Einrichtungspauschale
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002200000)
 
 (1) Bei der Bestellung zur Leiterin oder zum Leiter einer
 Auslandsvertretung erhält die berechtigte Person, die eine
@@ -871,6 +898,7 @@ berechtigte Personen in vergleichbaren Dienststellungen gelten.
 
 
 #### § 21 Pauschale für klimagerechte Kleidung
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002300000)
 
 (1) Bei der ersten Verwendung an einem Auslandsdienstort mit einem
 Klima, das vom mitteleuropäischen Klima erheblich abweicht, wird eine
@@ -946,6 +974,7 @@ Dienstort Auslandsdienstbezüge erhält.
 
 
 #### § 22 Zusätzlicher Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002400000)
 
 (1) Benötigt ein berücksichtigungsfähiges Kind aufgrund des Umzugs
 zusätzlichen Unterricht, werden die Unterrichtskosten für höchstens
@@ -962,9 +991,11 @@ Härte bedeuten würde.
 
 
 ## Abschnitt 3 - Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000700000)
 
 
 ### § 23 Umzug am ausländischen Dienstort
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002501116)
 
 (1) Für einen Umzug am ausländischen Dienstort kann
 Umzugskostenvergütung zugesagt werden, wenn die Gesundheit oder die
@@ -994,6 +1025,7 @@ vorläufige Wohnung anerkannt hat.
 
 
 ### § 24 Umzugsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002600000)
 
 (1) Wenn einer berechtigten Person mit Dienstbezügen die
 Umzugskostenvergütung zugesagt worden ist und sie nach dem
@@ -1060,6 +1092,7 @@ im Ausland.
 
 
 ### § 25 Widerruf der Zusage der Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002700000)
 
 (1) Die Zusage der Umzugskostenvergütung kann ganz oder teilweise
 widerrufen werden, wenn
@@ -1120,6 +1153,7 @@ entsprechend.
 
 
 ### § 26 Umzugskostenvergütung bei einer Auslandsverwendung von bis zu zwei Jahren
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002801116)
 
 (1) Soweit von vornherein feststeht, dass die berechtigte Person für
 nicht mehr als zwei Jahre ins Ausland oder im Ausland versetzt,
@@ -1224,6 +1258,7 @@ Person die Verlängerung ihrer Verwendung bekannt gegeben wird.
 
 
 ### § 27 Rückführung aus Gefährdungsgründen
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE002900000)
 
 (1) Sind an einem ausländischen Dienstort Leben oder Gesundheit der
 berechtigten Person oder der zu ihrer häuslichen Gemeinschaft
@@ -1266,6 +1301,7 @@ erstreckt.
 
 
 ### § 28 Umzug bei Beendigung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE003001116)
 
 (1) Einer berechtigten Person mit Dienstort im Ausland, die in den
 Ruhestand tritt oder deren Dienstverhältnis auf Zeit endet, ist
@@ -1309,9 +1345,11 @@ Sitz der obersten Dienstbehörde entstanden wären.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNG000800000)
 
 
 ### § 29 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE003101116)
 
 (1) Die Kosten für die Beförderung und die Einlagerung von Umzugsgut
 werden der berechtigten Person, die bereits vor dem 1. Dezember 2012
@@ -1336,6 +1374,7 @@ Juni 2010 geltenden Fassung und dem Bundesbesoldungsgesetz.
 
 
 ### § 30 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auv_2012/BJNR234900012.html#BJNR234900012BJNE003200000)
 
 Diese Verordnung tritt am 1. Dezember 2012 in Kraft. Gleichzeitig
 tritt die Auslandsumzugskostenverordnung in der Fassung der

@@ -31,6 +31,7 @@ Die geltung dieser v ist durch
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/speisherprobv/BJNR083000008.html#BJNR083000008BJNE001100000)
 
 Die bei Außerkrafttreten dieser Verordnung bestehenden
 Berufsausbildungsverhältnisse können nach den Vorschriften dieser
@@ -38,6 +39,7 @@ Verordnung zu Ende geführt werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/speisherprobv/BJNR083000008.html#BJNR083000008BJNE001201140)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft und mit Ausnahme des
 § 10 am 31. Juli 2014 außer Kraft.

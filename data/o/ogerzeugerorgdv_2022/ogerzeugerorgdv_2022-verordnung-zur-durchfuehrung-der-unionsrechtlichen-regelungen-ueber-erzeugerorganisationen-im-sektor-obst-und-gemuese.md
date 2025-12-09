@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 7840-4-2 v. 25.9.2014 I 1561 (OGErzeugerOrgDV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000201119)
 
 (1) Die Vorschriften dieser Verordnung gelten
 
@@ -66,9 +68,11 @@ zuständig.
 
 
 ## Abschnitt 2 - Anerkennung von Erzeugerorganisationen, Vereinigungen von Erzeugerorganisationen und Branchenverbänden
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000201119)
 
 
 ### § 2 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000300000)
 
 Als Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen
 wird auf Antrag eine juristische Person des privaten Rechts sowie eine
@@ -78,6 +82,7 @@ erfüllt.
 
 
 ### § 3 Mindestgröße
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000400000)
 
 (1) Für eine anerkannte Erzeugerorganisation wird festgesetzt
 
@@ -147,6 +152,7 @@ und den anderen Ländern mit.
 
 
 ### § 4 Mitgliedschaft von Nichterzeugern
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000500000)
 
 (1) Mitglied einer anerkannten Erzeugerorganisation kann auch sein:
 
@@ -188,6 +194,7 @@ Sektor Obst und Gemüse sein.
 
 
 ### § 5 Stimmrechte und Geschäftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000600000)
 
 (1) Die Satzung einer anerkannten Erzeugerorganisation muss
 sicherstellen, dass
@@ -277,6 +284,7 @@ ausüben kann.
 
 
 ### § 6 Kündigung der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000700000)
 
 Eine Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen
 kann nur anerkannt werden, wenn durch ihre Satzung sichergestellt ist,
@@ -285,6 +293,7 @@ Monate zum Ende eines Geschäftsjahres beträgt.
 
 
 ### § 7 Auslagerung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000800000)
 
 Eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung von
 Erzeugerorganisationen kann die Steuerung der Erzeugung sowie die
@@ -293,6 +302,7 @@ auslagern.
 
 
 ### § 8 Anwendung der Agrarorganisationen-und-Lieferketten-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE000901119)
 
 Auf Branchenverbände im Geltungsbereich dieser Verordnung sind die
 einschlägigen Vorschriften der Agrarorganisationen-und-Lieferketten-
@@ -303,9 +313,11 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 3 - Wert der vermarkteten Erzeugung und Betriebsfonds
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000300000)
 
 
 ### § 9 Wert der vermarkteten Erzeugung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001000000)
 
 (1) Für die Berechnung der jährlichen Obergrenze nach Artikel 52 der
 Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates
@@ -345,6 +357,7 @@ zugelassen ist, zu prüfen und zu bestätigen.
 
 
 ### § 10 Betriebsfonds
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001100000)
 
 (1) Der Betriebsfonds ist über eine Finanzbuchhaltung zu verwalten,
 die es ermöglicht, alle Ausgaben und Einnahmen im Rahmen des
@@ -368,9 +381,11 @@ unverzüglich nach Abschluss der Prüfung vorzulegen.
 
 
 ## Abschnitt 4 - Operationelle Programme und Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000400000)
 
 
 ### § 11 Beantragung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001202119)
 
 (1) Ein operationelles Programm ist von einer anerkannten
 Erzeugerorganisation oder anerkannten Vereinigung von
@@ -497,6 +512,7 @@ Zahlungen darf nicht Gegenstand eines operationellen Programms sein.
 
 
 ### § 12 Genehmigung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001302119)
 
 (1) Die Landesstelle soll über die Genehmigung eines operationellen
 Programms und des Betriebsfonds einer anerkannten Erzeugerorganisation
@@ -545,6 +561,7 @@ operationelle Programm zu berücksichtigen hat.
 
 
 ### § 13 Durchführungszeitraum eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001401119)
 
 (1) Ein operationelles Programm ist in Jahrestranchen durchzuführen,
 die jeweils ein Kalenderjahr umfassen.
@@ -559,6 +576,7 @@ Vorlage des operationellen Programms beginnen.
 
 
 ### § 14 Änderungen eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001502128)
 
 (1) Anträge auf Änderungen des operationellen Programms und des
 Betriebsfonds des laufenden Programmjahres können vorbehaltlich des
@@ -606,6 +624,7 @@ Anträge bis zum 15. Dezember des laufenden Jahres.
 
 
 ### § 15 Beihilfeantrag
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001602119)
 
 (1) Eine finanzielle Unterstützung durch die Union (Beihilfe) wird auf
 Antrag gewährt.
@@ -733,6 +752,7 @@ wenn die Vereinigung ihren Sitz in Deutschland hat.
 
 
 ### § 16 Genehmigung und Auszahlung einer Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001701119)
 
 (1) Die Landesstelle soll über die Obergrenze der Beihilfe bis zum 15.
 Dezember des Jahres, das dem Durchführungsjahr vorangeht, entscheiden.
@@ -748,6 +768,7 @@ Programms folgt.
 
 
 ### § 17 Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001800000)
 
 (1) Die Landesstelle kann auf Antrag Vorschüsse gewähren.
 
@@ -789,6 +810,7 @@ Unregelmäßigkeit einbehalten.
 
 
 ### § 18 Teilzahlung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE001901128)
 
 (1) Die Landesstelle kann auf Antrag Teilzahlungen gewähren. Der
 Antrag kann höchstens dreimal jährlich gestellt werden.
@@ -806,6 +828,7 @@ Rechnungen und Zahlungsnachweise beizufügen.
 
 
 ### § 19 Einstellung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002000000)
 
 (1) Stellt eine anerkannte Erzeugerorganisation oder eine anerkannte
 Vereinigung von Erzeugerorganisationen die Durchführung ihres
@@ -836,6 +859,7 @@ wurden, sind nicht zurückzufordern, sofern
 
 
 ### § 20 Zweckbindung der Beihilfe für Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002102128)
 
 Für im Rahmen einer Beihilfe nach der Verordnung (EU) 2021/2115
 geförderte Investitionen gilt eine Zweckbindungsfrist von fünf Jahren.
@@ -848,6 +872,7 @@ verwendet werden.
 
 
 ### § 21 Rechtswidrige Beihilfen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002201119)
 
 (1) Die Gewährung einer Beihilfe ist rechtswidrig, sofern
 
@@ -912,6 +937,7 @@ Maßnahmen nicht erreicht werden können.
 
 
 ### § 22 Umfang der Krisenmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002300000)
 
 Von den Maßnahmen zur Krisenprävention und zum Risikomanagement nach
 Artikel 47 Absatz 2 der Verordnung (EU) 2021/2115 sind nur die
@@ -923,9 +949,11 @@ beiträgt, im Sinne des Artikels 47 Absatz 2 Buchstabe i der Verordnung
 
 
 ## Abschnitt 5 - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000500000)
 
 
 ### § 23 Rechnungsführung und Standardpauschalen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002400000)
 
 (1) Die im Rahmen des operationellen Programms getätigten Ausgaben
 sind durch Rechnungen und Zahlungsnachweise zu belegen. Rechnungen
@@ -978,6 +1006,7 @@ sind.
 
 
 ### § 24 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002501119)
 
 (1) Eine Erzeugerorganisation, einschließlich ihrer Mitglieder, eine
 Vereinigung von Erzeugerorganisationen, Tochtergesellschaften von
@@ -1030,6 +1059,7 @@ aufzuklären.
 
 
 ### § 25 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002601119)
 
 (1) Eine anerkannte Erzeugerorganisation oder anerkannte Vereinigung
 von Erzeugerorganisationen hat der Landesstelle alle für die
@@ -1072,9 +1102,11 @@ Tage vor Ablauf der entsprechenden Frist verkürzt werden.
 
 
 ## Abschnitt 6 - Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000600000)
 
 
 ### § 26 Verwaltungskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002701119)
 
 (1) Die Landesstellen haben vor der Anerkennung einer
 Erzeugerorganisation oder einer Vereinigung von
@@ -1155,6 +1187,7 @@ Maßnahmen zu protokollieren.
 
 
 ### § 27 Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002803128)
 
 (1) Die Landesstellen haben ergänzend zu den Verwaltungskontrollen bei
 den anerkannten Erzeugerorganisationen, anerkannten Vereinigungen von
@@ -1260,6 +1293,7 @@ Ort-Kontrollen:
 
 
 ### § 28 Berichte über Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE002900000)
 
 (1) Für jede Vor-Ort-Kontrolle ist im Anschluss an die Kontrolle am
 Kontrollort ein schriftlicher oder elektronischer Bericht zu
@@ -1289,6 +1323,7 @@ Kopie des Berichts.
 
 
 ### § 29 Kontrollen zum Ausschluss einer regelwidrigen Doppelfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003000000)
 
 (1) Die Landesstellen haben regelmäßig Kontrollen mit dem Ziel
 durchzuführen, eine regelwidrige Doppelfinanzierung auszuschließen.
@@ -1308,6 +1343,7 @@ Abgleiche durchzuführen.
 
 
 ### § 30 Kontrollen zur Einhaltung der Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003100000)
 
 (1) Die Landesstellen haben bei jedem Beihilfeempfänger
 stichprobenartig die Einhaltung der Zweckbindung von Investitionen
@@ -1326,9 +1362,11 @@ zu dokumentieren.
 
 
 ## Abschnitt 7 - Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000700000)
 
 
 ### § 31 Verwaltungssanktionen bei Nichterreichen der Mindestquoten für Umwelt- und Forschungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003201119)
 
 (1) Sofern nach Abschluss eines operationellen Programms festgestellt
 wird, dass die in Artikel 50 Absatz 7 Unterabsatz 1 Buchstabe a der
@@ -1348,6 +1386,7 @@ operationellen Programms.
 
 
 ### § 32 Verwaltungssanktionen bei Beantragung von nichtförderfähigen Beihilfen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003301119)
 
 Übersteigt der im Rahmen einer Beihilfe nach § 15 beantragte Betrag
 denjenigen Betrag, der dem Antragsteller nach Prüfung des
@@ -1360,6 +1399,7 @@ nicht verantwortlich ist.
 
 
 ### § 33 Verwaltungssanktionen bei Verstößen im Zusammenhang mit dem jährlichen Leistungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003401119)
 
 (1) Hat die Landesstelle festgestellt, dass eine anerkannte
 Erzeugerorganisation oder anerkannte Vereinigung von
@@ -1402,6 +1442,7 @@ vollständig übermittelt worden sind.
 
 
 ### § 34 Verwaltungssanktionen bei hinreichendem Verdacht von Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003502119)
 
 (1) Ergibt sich aus Ermittlungen der Staatsanwaltschaft, der
 Europäischen Staatsanwaltschaft, der Landesstelle oder einer anderen
@@ -1480,6 +1521,7 @@ betreffenden operationellen Programms aus.
 
 
 ### § 35 Verwaltungssanktionen bei Verhinderung von Vor-Ort-Kontrollen und bei Verstoß gegen sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003603128)
 
 (1) Soweit die anerkannte Erzeugerorganisation, ihre Mitglieder, eine
 anerkannte Vereinigung von Erzeugerorganisationen oder die jeweils
@@ -1517,6 +1559,7 @@ Mitteilungs- oder Mitwirkungspflichten verstoßen.
 
 
 ### § 36 Kürzung bei verspäteter Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003700000)
 
 Bei einem Beihilfeantrag, der nach dem in § 15 Absatz 2 festgesetzten
 Zeitpunkt eingereicht wird, ist die Beihilfe für jeden Verzugstag um 1
@@ -1524,6 +1567,7 @@ Prozent zu kürzen.
 
 
 ### § 37 Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003800000)
 
 (1) Die Vorschriften der §§ 31 bis 36 gelten nicht für Verstöße, die
 auf höhere Gewalt oder außergewöhnliche Umstände im Sinne von Artikel
@@ -1538,9 +1582,11 @@ anzuzeigen.
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNG000800000)
 
 
 ### § 38 Muster und Formulare
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE003900000)
 
 Für alle Anträge und Meldungen können die Landesstellen schriftliche
 oder elektronische Muster bekannt geben oder schriftliche oder
@@ -1549,6 +1595,7 @@ bekannt geben oder Formulare bereithalten, sind diese zu verwenden.
 
 
 ### § 39 Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE004000000)
 
 Zum Zweck der Beantragung eines operationellen Programms, zur
 Beantragung einer Beihilfe sowie zur Durchführung von Kontrollen
@@ -1557,6 +1604,7 @@ Anlage des Marktorganisationsgesetzes.
 
 
 ### § 40 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/BJNR119710022.html#BJNR119710022BJNE004104128)
 
 (1) Für eine anerkannte Erzeugerorganisation oder eine anerkannte
 Vereinigung von Erzeugerorganisationen im Obst- und Gemüsesektor,

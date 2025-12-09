@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000100000)
 
 Die oder der Polizeibeauftragte des Bundes hat die Aufgabe:
 
@@ -36,6 +37,7 @@ Die oder der Polizeibeauftragte des Bundes hat die Aufgabe:
 
 
 ## § 2 Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000200000)
 
 (1) Die oder der Polizeibeauftragte des Bundes wird aufgrund von
 Eingaben von Beschäftigten der Polizeibehörden des Bundes oder von
@@ -58,6 +60,7 @@ hindeuten.
 
 
 ## § 3 Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000300000)
 
 (1) Beschäftigte der Polizeibehörden des Bundes können mit einer
 Eingabe an die oder den Polizeibeauftragten des Bundes mögliche
@@ -152,6 +155,7 @@ Polizeibehörden des Bundes und der eingebenden Person.
 
 
 ## § 4 Aufklärung des Sachverhalts; Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000400000)
 
 (1) Die oder der Polizeibeauftragte des Bundes kann Bürgerinnen und
 Bürger, die eine Eingabe eingesendet haben, Betroffene von
@@ -219,6 +223,7 @@ anwesend sein.
 
 
 ## § 5 Bearbeitung von Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000500000)
 
 Nach Abschluss der Untersuchungen erstellt die oder der
 Polizeibeauftragte des Bundes einen Bericht, wenn der Sachverhalt aus
@@ -233,6 +238,7 @@ Bundestagsdrucksache.
 
 
 ## § 6 Verhältnis zu Disziplinar- und Arbeitsrecht, Bußgeld- und Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000600000)
 
 (1) Liegen zureichende tatsächliche Anhaltspunkte für eine verfolgbare
 Straftat vor, hat die oder der Polizeibeauftragte des Bundes der für
@@ -315,6 +321,7 @@ oder den Polizeibeauftragten des Bundes erforderlich ist.
 
 
 ## § 7 Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000700000)
 
 Gerichte und Verwaltungsbehörden des Bundes und der Länder sind
 verpflichtet, der oder dem Polizeibeauftragten des Bundes bei der
@@ -325,6 +332,7 @@ Untersuchungen übermittelt und genutzt werden.
 
 
 ## § 8 Aussagegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000800000)
 
 Über die Erteilung einer Genehmigung für die Polizeibeauftragte oder
 den Polizeibeauftragten des Bundes, als Zeugin oder Zeuge auszusagen,
@@ -338,6 +346,7 @@ Aufgaben ernstlich gefährden oder erheblich erschweren würden.
 
 
 ## § 9 Wahl der oder des Polizeibeauftragten des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE000900000)
 
 (1) Die oder der Polizeibeauftragte des Bundes wird auf Vorschlag
 einer oder mehrerer Fraktionen vom Deutschen Bundestag gewählt.
@@ -355,6 +364,7 @@ Bundestages für sie oder ihn gestimmt hat.
 
 
 ## § 10 Rechtstellung und Amtszeit der oder des Polizeibeauftragten des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001000000)
 
 (1) Die oder der Polizeibeauftragte des Bundes steht nach Maßgabe
 dieses Gesetzes in einem öffentlich-rechtlichen Amtsverhältnis. Sie
@@ -370,6 +380,7 @@ fünf Jahre.
 
 
 ## § 11 Ernennung; Beginn und Ende des Amtsverhältnisses der oder des Polizeibeauftragten des Bundes; Amtseid
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001100000)
 
 (1) Die nach § 9 Absatz 4 gewählte Person wird von der Präsidentin
 oder dem Präsidenten des Deutschen Bundestages ernannt. Das
@@ -407,6 +418,7 @@ Bundestages wirksam.
 
 
 ## § 12 Sitz, Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001200000)
 
 (1) Die oder der Polizeibeauftragte des Bundes hat ihren oder seinen
 Sitz beim Deutschen Bundestag in Berlin.
@@ -418,6 +430,7 @@ auszuweisen.
 
 
 ## § 13 Leitende Beamtin oder Leitender Beamter, Beschäftigte, Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001300000)
 
 (1) Die oder der Polizeibeauftragte des Bundes wird von einer
 Leitenden Beamtin oder einem Leitenden Beamten unterstützt.
@@ -445,6 +458,7 @@ oder des Polizeibeauftragten des Bundes in folgenden Fällen wahr:
 
 
 ## § 14 Anspruch der oder des Polizeibeauftragten des Bundes auf Amtsbezüge, Versorgung und auf andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001400000)
 
 (1) Die oder der Polizeibeauftragte des Bundes erhält Amtsbezüge
 entsprechend dem Grundgehalt der Besoldungsgruppe B9 und den
@@ -482,6 +496,7 @@ Bundesbeamtinnen und Bundesbeamte geltenden Vorschriften.
 
 
 ## § 15 Unerlaubte Handlungen und Tätigkeiten der oder des Polizeibeauftragten des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001500000)
 
 (1) Die oder der Polizeibeauftragte des Bundes darf keine Handlungen
 vornehmen, die mit den Aufgaben des Amtes nicht zu vereinbaren sind.
@@ -506,6 +521,7 @@ unentgeltliche Tätigkeiten sind. Sie oder er darf insbesondere
 
 
 ## § 16 Verschwiegenheitspflicht der oder des Polizeibeauftragten des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001600000)
 
 (1) Die oder der Polizeibeauftragte des Bundes ist verpflichtet, über
 die Angelegenheiten, die ihr oder ihm im Amt bekannt werden,
@@ -533,6 +549,7 @@ anzuzeigen.
 
 
 ## § 17 Verwendung von Geschenken an die oder den Polizeibeauftragten des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001700000)
 
 (1) Erhält die oder der Polizeibeauftragte des Bundes ein Geschenk in
 Bezug auf das Amt, so muss sie oder er dies der Präsidentin oder dem
@@ -544,6 +561,7 @@ Verfahrensvorschriften erlassen.
 
 
 ## § 18 Berufsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001800000)
 
 (1) Die oder der Polizeibeauftragte des Bundes ist verpflichtet, eine
 beabsichtigte Erwerbstätigkeit oder sonstige entgeltliche
@@ -576,6 +594,7 @@ werden.
 
 
 ## § 19 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE001900000)
 
 Die oder der Polizeibeauftragte des Bundes erstattet den zuständigen
 Gremien des Deutschen Bundestages und der Öffentlichkeit erstmals zum
@@ -587,6 +606,7 @@ des Deutschen Bundestages auf entsprechende Anforderung.
 
 
 ## § 20 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE002000000)
 
 Dieses Gesetz wird spätestens fünf Jahre nach dem Inkrafttreten
 hinsichtlich des mit dem Vorhaben verbundenen Erfüllungsaufwands durch
@@ -603,6 +623,7 @@ Grundlage von entsprechenden Befragungen, einschließen.
 
 
 ## § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/polbeauftrg/BJNR0480A0024.html#BJNR0480A0024BJNE002100000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

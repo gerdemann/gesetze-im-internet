@@ -109,6 +109,7 @@ S. 54).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000100000)
 
 Auf Grund des § 3a Absatz 2 Nummer 2, des § 14a, des § 14b Absatz 2,
 des § 15a Absatz 2 Satz 1 Nummer 1 Buchstabe a und b und Nummer 2, des
@@ -132,9 +133,11 @@ Landwirtschaft:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000300000)
 
 Diese Verordnung regelt die Anforderungen an Anbaumaterial von
 
@@ -154,6 +157,7 @@ Inverkehrbringens sowie der Einfuhr.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000401119)
 
 Im Anwendungsbereich dieser Verordnung gelten folgende
 Begriffsbestimmungen:
@@ -316,12 +320,15 @@ Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000300000)
 
 
 #### § 3 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000501119)
 
 (1) Wer Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten zu
 gewerblichen Zwecken
@@ -416,6 +423,7 @@ Rücknahme und Widerruf von Verwaltungsakten unberührt.
 
 
 #### § 4 Pflichten der Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000602119)
 
 (1) Wer nach § 3 Absatz 1 registriert ist, hat die erforderlichen
 Maßnahmen in seinem Betrieb zu ergreifen, um sicherzustellen,
@@ -688,6 +696,7 @@ Anforderungen einer anderen Kategorie dieser Verordnung entspricht.
 
 
 #### § 5 Aufgaben des Bundessortenamtes bei Anbaumaterial von Obstarten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000700000)
 
 (1) Das Bundessortenamt legt fest, welche Angaben und Unterlagen gemäß
 § 4 Absatz 5 Satz 1 Nummer 1 und 2 zu machen und vorzulegen sind, und
@@ -712,6 +721,7 @@ die nach Absatz 1 festgelegten Angaben und Unterlagen vorliegen.
 
 
 #### § 6 Anforderungen an Standardmaterial von Obstpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000802119)
 
 (1) Standardmaterial von Obstpflanzen muss
 
@@ -832,6 +842,7 @@ erhalten werden.
 
 
 #### § 6a Anforderungen an Anbaumaterial von Zierpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE003400119)
 
 (1) Anbaumaterial von Zierpflanzen muss
 
@@ -928,6 +939,7 @@ Gebrauchswert als Anbaumaterial herabsetzen.
 
 
 #### § 6b Anforderungen an Anbaumaterial von Gemüsepflanzen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE003500119)
 
 (1) Anbaumaterial von Gemüsepflanzen muss
 
@@ -1020,6 +1032,7 @@ aufweisen, die seinen Gebrauchswert als Anbaumaterial herabsetzen.
 
 
 #### § 7 Anforderungen an Anbaumaterial von Obstarten bestimmter Sorten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE000901119)
 
 (1) Anbaumaterial von Obst darf im Fall von Amateursorten im Sinne des
 § 3a Absatz 1 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe ee des
@@ -1037,9 +1050,11 @@ Doppelbuchstabe ff des Saatgutverkehrsgesetzes entsprechen.
 
 
 ### Unterabschnitt 2 - Anforderungen an anerkanntes Anbaumaterial von Obstarten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000400000)
 
 
 #### § 8 Allgemeine Anforderungen an anerkanntes Anbaumaterial von Obstarten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001001119)
 
 (1) Anerkanntes Anbaumaterial mit Ausnahme von sonstigen Unterlagen,
 die keiner Sorte zugehören, muss
@@ -1170,6 +1185,7 @@ Kryokonservierung erhalten werden.
 
 
 #### § 9 Besondere Anforderungen an die Anerkennung von Vorstufenmaterial
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001101119)
 
 (1) Auf Antrag kann die zuständige Behörde die Verwendung von
 Mutterpflanzen für Vorstufenmaterial mit Ausnahme von sonstigen
@@ -1252,6 +1268,7 @@ das Material
 
 
 #### § 10 Besondere Anforderungen an die Anerkennung von Basismaterial
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001201119)
 
 (1) Auf Antrag kann die zuständige Behörde Anbaumaterial, mit der
 Ausnahme von Mutterpflanzen und sonstigen Unterlagen, die keiner Sorte
@@ -1291,6 +1308,7 @@ betreffenden Gebiet und das sich daraus ergebende Risiko.
 
 
 #### § 11 Besondere Anforderungen an die Anerkennung von Zertifiziertem Material
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001300000)
 
 (1) Auf Antrag kann die zuständige Behörde Anbaumaterial, mit Ausnahme
 von Mutterpflanzen und sonstigen Unterlagen, die keiner Sorte
@@ -1311,6 +1329,7 @@ ergebende Risiko.
 
 
 #### § 12 Besondere Anforderungen an die Anerkennung von Unterlagen, die keiner Sorte zugehören
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001401119)
 
 (1) Unterlagen, die keiner Sorte zugehören und somit nicht den
 Anforderungen des § 14b Absatz 1 Satz 1 Nummer 1 des
@@ -1340,9 +1359,11 @@ gesamten Erzeugungsprozesses gewährleistet ist.
 
 
 ### Unterabschnitt 3 - Kennzeichnung, Verschließung, Verpackung und Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000500000)
 
 
 #### § 13 Kennzeichnung bei Anbaumaterial von Gemüse- und Zierpflanzenarten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001501119)
 
 (1) Anbaumaterial von Gemüse- und Zierpflanzenarten darf zu
 gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn es von
@@ -1414,6 +1435,7 @@ Union bleiben unberührt.
 
 
 #### § 14 Kennzeichnung, Verpackung und Verschließung bei Anbaumaterial von Obstarten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001602119)
 
 (1) Anerkanntes Anbaumaterial von Obstarten darf zu gewerblichen
 Zwecken nur in den Verkehr gebracht werden, wenn es mit einem
@@ -1557,6 +1579,7 @@ nach Absatz 1 Nummer 3, 4, 6, 7 und 8 zulässig.
 
 
 #### § 15 Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001701119)
 
 (1) Die zuständige Behörde kontrolliert diejenigen, die nach § 3
 Absatz 1 registriert sind, mindestens einmal jährlich.
@@ -1649,6 +1672,7 @@ ergreifen, damit das Anbaumaterial den Anforderungen wieder genügt.
 
 
 #### § 16 Vergleichsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001801119)
 
 (1) Die zuständige Behörde kann über die in § 15 aufgeführten
 Maßnahmen hinaus zur Durchführung von Vergleichsprüfungen in Betrieben
@@ -1697,6 +1721,7 @@ Behörde mit.
 
 
 #### § 17 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE001900000)
 
 Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
 wird die Befugnis zum Verkehr mit der Europäischen Kommission oder den
@@ -1721,9 +1746,11 @@ zuständigen Behörden anderer Mitgliedstaaten in folgenden Fällen
 
 
 ## Abschnitt 3 - Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000600000)
 
 
 ### § 18 Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002002119)
 
 (1) Anbaumaterial aus einem Drittland darf zu gewerblichen Zwecken nur
 eingeführt werden, wenn der Einführer vor der Einfuhr sichergestellt
@@ -1897,6 +1924,7 @@ die im Vereinigten Königreich erzeugt wurden (ABl. L 438 vom
 
 
 ### § 19 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002100000)
 
 Anbaumaterial, das für die Ausfuhr in einen Staat außerhalb der
 Europäischen Union bestimmt ist und nicht den Anforderungen dieser
@@ -1906,9 +1934,11 @@ zu kennzeichnen.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNG000700000)
 
 
 ### § 20 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002201119)
 
 (1) Die zuständige Behörde kann für Betriebe Ausnahmen von § 4
 zulassen und von Kontrollen nach § 15 absehen, soweit
@@ -1929,6 +1959,7 @@ genetischen Vielfalt bestimmt ist.
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002301119)
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 3 des
 Saatgutverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1960,6 +1991,7 @@ vollständig oder nicht rechtzeitig erstattet.
 
 
 ### § 22 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002402119)
 
 Handelt es sich bei Anbaumaterial von Obstarten um Samen oder
 Sämlinge, die aus Mutterpflanzen zur Erzeugung anerkannten Materials
@@ -1995,6 +2027,7 @@ bis zum Ablauf des 31. Dezember 2029 in Verkehr gebracht werden, wenn
 
 
 ### § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Anbaumaterialverordnung vom 16. Juni 1998
@@ -2003,11 +2036,13 @@ Oktober 2012 (BGBl. I S. 2113) geändert worden ist, außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002600000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu den §§ 1 und 2 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002702119)
 
 (Fundstelle: BGBl. I 2018, 1976 - 1977;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2898,6 +2933,7 @@ Pflanzenarten im Anwendungsbereich dieser Verordnung
 (zu § 6a Absatz 2 Nummer 3)
 
 ### Anlage 2 Besondere Anforderungen an Bestände von Anbaumaterial von Zierpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE002902119)
 
 (Fundstelle: BGBl. I 2018, 1991 - 1992;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2936,6 +2972,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 10 Absatz 1)
 
 ### Anlage 3 Maximal zulässige Anzahl Generationen für Basismaterial auf dem Feld unter nicht insektensicheren Bedingungen und maximal zulässige Lebensdauer von Mutterpflanzen für Basismaterial
+[Direktlink](https://www.gesetze-im-internet.de/agozv_2018/BJNR196400018.html#BJNR196400018BJNE003302119)
 
 (Fundstelle: BGBl. 2023 I Nr. 277, S. 19)
 

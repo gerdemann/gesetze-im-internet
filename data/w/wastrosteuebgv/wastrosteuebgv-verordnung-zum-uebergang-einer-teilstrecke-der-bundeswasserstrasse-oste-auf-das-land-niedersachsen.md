@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastroste_bgv/BJNR054000010.html#BJNR054000010BJNE000100000)
 
 Auf Grund des § 2 Absatz 1 Satz 2 in Verbindung mit Absatz 2 des
 Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
@@ -27,6 +28,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastroste_bgv/BJNR054000010.html#BJNR054000010BJNE000200000)
 
 Die Teilstrecke der Bundeswasserstraße Oste von der Nordostkante des
 Mühlenwehres in Bremervörde (km 0,00) bis Oste-km 69,360 verliert die
@@ -35,10 +37,12 @@ des Bundes und geht auf das Land Niedersachsen über.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastroste_bgv/BJNR054000010.html#BJNR054000010BJNE000300000)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastroste_bgv/BJNR054000010.html#BJNR054000010BJNE000400000)
 
 Diese Verordnung tritt am 1. Juli 2010 in Kraft.
 

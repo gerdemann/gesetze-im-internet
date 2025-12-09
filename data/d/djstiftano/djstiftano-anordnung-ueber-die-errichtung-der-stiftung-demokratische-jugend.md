@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/djstiftano/DDNR114730990.html#DDNR114730990BJNE000100307)
 
 Der Minister für Jugend und Sport errichtet aus Mitteln des ehemaligen
 zentralen "Kontos Junger Sozialisten" in Höhe von 20 Millionen DM die
@@ -37,21 +38,25 @@ zentralen "Kontos Junger Sozialisten" in Höhe von 20 Millionen DM die
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/djstiftano/DDNR114730990.html#DDNR114730990BJNE000200307)
 
 Die Stiftung erhält die im Anhang befindliche Satzung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/djstiftano/DDNR114730990.html#DDNR114730990BJNE000300307)
 
 Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/djstiftano/DDNR114730990.html#DDNR114730990BJNE000400307)
 
 **Der Minister für Jugend und Sport**
 
 
 ## Anlage Satzung der "Stiftung Demokratische Jugend"
+[Direktlink](https://www.gesetze-im-internet.de/djstiftano/DDNR114730990.html#DDNR114730990BJNE000500307)
 
 (Text siehe: DJStiftSa)
 

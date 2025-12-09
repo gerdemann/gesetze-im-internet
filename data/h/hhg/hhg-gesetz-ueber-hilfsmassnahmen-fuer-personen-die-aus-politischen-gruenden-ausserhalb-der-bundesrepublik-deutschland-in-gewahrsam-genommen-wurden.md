@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000104314)
 
 (1) Leistungen nach Maßgabe der folgenden Vorschriften erhalten
 deutsche Staatsangehörige und deutsche Volkszugehörige, wenn sie
@@ -72,6 +73,7 @@ Ansprüche bleiben unberührt.
 
 
 ## § 2 Ausschließungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000203314)
 
 (1) Leistungen nach diesem Gesetz werden nicht gewährt an Personen,
 
@@ -116,6 +118,7 @@ Leistungen können ausgesetzt werden.
 
 
 ## § 3 Erweiterung des Personenkreises
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000302314)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates weitere Gruppen von Personen, die aus den
@@ -135,6 +138,7 @@ Empfang von Leistungen Berechtigten gleichzustellen.
 
 
 ## § 4 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000408130)
 
 (1) Ein nach § 1 Absatz 1 Nummer 1 Berechtigter, der infolge des
 Gewahrsams eine gesundheitliche Schädigung erlitten hat, erhält wegen
@@ -205,6 +209,7 @@ erteilt werden.
 
 
 ## § 5 Leistungen der Sozialen Entschädigung für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000505116)
 
 Ist die geschädigte Person an den Folgen der Schädigung gestorben, so
 erhalten die Hinterbliebenen Leistungen der Sozialen Entschädigung in
@@ -233,6 +238,7 @@ Sozialgesetzbuch sind entsprechend anzuwenden.
 
 
 ## § 6 Zusammentreffen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000604116)
 
 (1) Treffen Ansprüche aus § 4 mit folgenden Ansprüchen zusammen,
 werden die Leistungen der Sozialen Entschädigung unter
@@ -268,21 +274,25 @@ nicht gewährt.
 
 
 ## § 7 Antragsfristen
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000702314)
 
 (weggefallen)
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000803310)
 
 -
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE000906314)
 
 (weggefallen)
 
 
 ## § 9a Eingliederungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001009301)
 
 (1) Ein Berechtigter nach § 1 Abs. 1 Nr. 1, der nach dem 31. Dezember
 1946 insgesamt länger als drei Monate in Gewahrsam gehalten wurde,
@@ -345,6 +355,7 @@ nach den Gesichtspunkten der sozialen Dringlichkeit zu bestimmen.
 
 
 ## § 9b Zusätzliche Eingliederungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001103314)
 
 Ein Berechtigter nach § 9a Abs. 1, der nur wegen seines persönlichen
 Verhaltens nach der Besetzung seines Aufenthaltsortes oder nach dem 8.
@@ -360,6 +371,7 @@ für diese Leistung.
 
 
 ## § 9c Weitere Eingliederungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001204314)
 
 Ein Berechtigter nach § 9a Abs. 1, der keinen Anspruch auf die
 zusätzliche Eingliederungshilfe nach § 9b hat, erhält auf Antrag im
@@ -373,6 +385,7 @@ diese Leistungen.
 
 
 ## § 10 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001310116)
 
 (1) Für die Gewährung von Leistungen nach den §§ 4 und 5 sind die
 Behörden zuständig, denen nach Landesrecht die Durchführung des
@@ -431,11 +444,13 @@ sind die Leistungen nach diesem Gesetz einzustellen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001503314)
 
 (weggefallen)
 
 
 ## § 12 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001602314)
 
 Die zuständige oberste Landesbehörde kann im Einvernehmen mit dem für
 dieses Gesetz federführenden Bundesminister zur Vermeidung unbilliger
@@ -444,6 +459,7 @@ teilweise zulassen.
 
 
 ## § 13 Kostenregelung
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001704116)
 
 Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz
 jeweils in dem gleichen Umfange wie die Aufwendungen für Leistungen,
@@ -455,55 +471,68 @@ entsprechend anwendbar.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001803314)
 
 (weggefallen)
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE001903130)
 
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002009130)
 
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002105130)
 
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002209130)
 
 
 
 ## § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002303130)
 
 
 
 ## § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002406130)
 
 
 
 ## § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002503130)
 
 
 
 ## § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002605130)
 
 
 
 ## § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002704130)
 
 
 
 ## § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002803130)
 
 
 
 ## § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE002903130)
 
 
 
 ## § 25a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE003207314)
 
 (1) § 9b ist in der bis zum 31. Dezember 1985 geltenden Fassung
 weiterhin anzuwenden, wenn der Berechtigte spätestens an diesem Tage
@@ -553,17 +582,20 @@ Anwendung.
 
 
 ## § 25b Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE003303130)
 
 Die Leistungen nach den §§ 9a bis 9c unterliegen in der Person des
 unmittelbar Berechtigten nicht der Zwangsvollstreckung.
 
 
 ## § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE003006310)
 
 -
 
 
 ## § 27
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE003102314)
 
 (Inkrafttreten) \*)
 -----
@@ -606,6 +638,7 @@ unmittelbar Berechtigten nicht der Zwangsvollstreckung.
 Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 920)
+[Direktlink](https://www.gesetze-im-internet.de/hhg/BJNR004980955.html#BJNR004980955BJNE003402310)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

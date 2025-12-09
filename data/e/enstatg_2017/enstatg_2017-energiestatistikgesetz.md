@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Zweck der Erhebungen und Erhebungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000200000)
 
 (1) Die in Absatz 2 genannten statistischen Erhebungen werden als
 Bundesstatistik durchgeführt als Beitrag zur Darstellung des
@@ -74,6 +75,7 @@ Energiebilanzen des Bundes und der Länder, für Zwecke
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000300000)
 
 (1) „Betreiber von Anlagen zur Erzeugung“ im Sinne dieses Gesetzes
 sind natürliche oder juristische Personen oder Personenvereinigungen,
@@ -139,6 +141,7 @@ Speicher- und Entladeverluste.
 
 
 ## § 3 Erhebungen in der Elektrizitätswirtschaft einschließlich der erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000400000)
 
 (1) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich
 bei allen Betreibern
@@ -326,6 +329,7 @@ Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
 
 ## § 4 Erhebungen in der Gaswirtschaft einschließlich der erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000500000)
 
 (1) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich
 bei allen Betreibern von Anlagen
@@ -516,6 +520,7 @@ sind auch länderweise zu erfassen.
 
 
 ## § 5 Erhebungen in der Wärmewirtschaft einschließlich der erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000600000)
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen
 Betreibern von Heizwerken ab einer installierten Nettonennleistung von
@@ -575,6 +580,7 @@ länderweise zu erfassen.
 
 
 ## § 6 Erhebungen über Kohleeinfuhr und -ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000700000)
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen
 Unternehmen, die Braunkohle, Braunkohleprodukte, Steinkohle,
@@ -596,6 +602,7 @@ zu folgenden Erhebungsmerkmalen:
 
 
 ## § 7 Erhebungen über Flüssiggas, Klärgas, Klärschlamm, Tiefengeothermie, Biokraftstoffe, Mineralöl und Mineralölerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000800000)
 
 Die Erhebungen erfassen, jeweils bezogen auf das Inland, jährlich für
 das Vorjahr
@@ -710,6 +717,7 @@ abzusehen.
 
 
 ## § 8 Erhebungen über die Energieverwendung einschließlich der erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE000900000)
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei den
 Betrieben des Bergbaus, der Gewinnung von Steinen und Erden sowie des
@@ -744,6 +752,7 @@ Erhebungsmerkmalen:
 
 
 ## § 9 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001000000)
 
 Hilfsmerkmale bei der Erhebung sind:
 
@@ -765,6 +774,7 @@ Satz 1 Nummer 3.
 
 
 ## § 10 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001100000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die
 Auskunftserteilung zu den Angaben nach § 9 Satz 1 Nummer 2 ist
@@ -883,6 +893,7 @@ Gewinnung, zum Transport oder zur Speicherung von Biogas betreiben.
 
 
 ## § 11 Durchführung der Erhebung, Übermittlungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001200000)
 
 (1) Die Erhebungen nach § 4 Absatz 1 und 2 sowie § 6 werden vom
 Statistischen Bundesamt durchgeführt.
@@ -893,6 +904,7 @@ spätestens am 27. Tag des dem Berichtsmonat folgenden Monats zu
 
 
 ## § 12 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001301125)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates für die nach den §§ 3, 4 Absatz 3, den §§
@@ -948,6 +960,7 @@ beeinträchtigt.
 
 
 ## § 13 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001401125)
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -1015,6 +1028,7 @@ Ersuchen Namen und Anschriften der Betreiber dieser Anlagen.
 
 
 ## § 14 Nutzung von nach energierechtlichen Vorschriften erhobenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001500000)
 
 Das Statistische Bundesamt nutzt für die Erstellung der jeweiligen
 Bundesstatistik folgende Daten, soweit diese Daten für die Erstellung
@@ -1037,6 +1051,7 @@ Auskunftspflichtigen ab.
 
 
 ## § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001600000)
 
 Die Jahreserhebungen für das Berichtsjahr 2017 und die monatlichen
 Erhebungen für das Jahr 2017 werden nach dem Energiestatistikgesetz
@@ -1046,6 +1061,7 @@ durchgeführt.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/enstatg_2017/BJNR039200017.html#BJNR039200017BJNE001700000)
 
 Dieses Gesetz tritt am 10. März 2017 in Kraft. Gleichzeitig tritt das
 Energiestatistikgesetz vom 26. Juli 2002 (BGBl. I S. 2867), das

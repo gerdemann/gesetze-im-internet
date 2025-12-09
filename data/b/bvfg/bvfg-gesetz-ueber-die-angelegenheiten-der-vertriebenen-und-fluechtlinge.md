@@ -21,10 +21,12 @@ Neugefasst durch
 Stand: zuletzt geändert Art. 5 Abs. 1 G v. 11.6.2024 I Nr. 185
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG000103310)
 
 
 
 ### § 1 Vertriebener
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE002504310)
 
 (1) Vertriebener ist, wer als deutscher Staatsangehöriger oder
 deutscher Volkszugehöriger seinen Wohnsitz in den ehemals unter
@@ -102,6 +104,7 @@ diese Gebiete nach dem 31. Dezember 1989 verlassen hat.
 
 
 ### § 2 Heimatvertriebener
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE002603310)
 
 (1) Heimatvertriebener ist ein Vertriebener, der am 31. Dezember 1937
 oder bereits einmal vorher seinen Wohnsitz in dem Gebiet desjenigen
@@ -120,6 +123,7 @@ Wohnsitz im Vertreibungsgebiet (Absatz 1) gehabt hat.
 
 
 ### § 3 Sowjetzonenflüchtling
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE002703310)
 
 (1) Sowjetzonenflüchtling ist ein deutscher Staatsangehöriger oder
 deutscher Volkszugehöriger, der seinen Wohnsitz in der sowjetischen
@@ -159,6 +163,7 @@ sinngemäß anzuwenden.
 
 
 ### § 4 Spätaussiedler
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE002808125)
 
 (1) Spätaussiedler ist in der Regel ein deutscher Volkszugehöriger,
 der die Republiken der ehemaligen Sowjetunion nach dem 31. Dezember
@@ -206,6 +211,7 @@ sind etwa das Aussiedlungsgebiet oder die Aufenthaltsdauer.
 
 
 ### § 5 Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE002905310)
 
 Die Rechtsstellung nach § 4 Abs. 1, 2 oder Abs. 3 Satz 2 erwirbt
 nicht, wer
@@ -280,6 +286,7 @@ nicht, wer
 
 
 ### § 6 Volkszugehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003009125)
 
 (1) Deutscher Volkszugehöriger im Sinne dieses Gesetzes ist, wer sich
 in seiner Heimat zum deutschen Volkstum bekannt hat, sofern dieses
@@ -317,10 +324,12 @@ und keiner anderen anzugehören.
 
 
 ## Zweiter Abschnitt - Verteilung, Rechte und Vergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG002402310)
 
 
 
 ### § 7 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003103310)
 
 (1) Spätaussiedlern ist die Eingliederung in das berufliche,
 kulturelle und soziale Leben in der Bundesrepublik Deutschland zu
@@ -334,6 +343,7 @@ verlassen haben, entsprechend anzuwenden. § 5 gilt sinngemäß.
 
 
 ### § 8 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003205310)
 
 (1) Die Länder nehmen die Spätaussiedler und ihre Ehegatten und
 Abkömmlinge, soweit sie die Voraussetzungen des § 7 Abs. 2 erfüllen,
@@ -374,6 +384,7 @@ Aufnahme von Spätaussiedlern.
 
 
 ### § 9 Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003308116)
 
 (1) Spätaussiedler gemäß § 4 Abs. 1 oder 2 sowie deren Ehegatten oder
 Abkömmlinge, welche die Voraussetzungen des § 7 Abs. 2 Satz 1
@@ -447,6 +458,7 @@ b)  die Durchführung der Maßnahmen nach den Absätzen 1 und 4.
 
 
 ### § 10 Prüfungen und Befähigungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003404310)
 
 (1) Prüfungen oder Befähigungsnachweise, die Spätaussiedler bis zum 8.
 Mai 1945 im Gebiet des Deutschen Reiches nach dem Gebietsstande vom
@@ -489,6 +501,7 @@ Befähigungsnachweis.
 
 
 ### § 11 Leistungen bei Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE013215116)
 
 (1) Wer als Spätaussiedler aus den Aussiedlungsgebieten innerhalb von
 zwei Monaten nach dem Verlassen dieser Gebiete im Geltungsbereich
@@ -555,11 +568,13 @@ gegeben.
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003603310)
 
 -
 
 
 ### § 13 Gesetzliche Rentenversicherung, gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003705310)
 
 Die Rechtsstellung der Spätaussiedler in der gesetzlichen
 Rentenversicherung und der gesetzlichen Unfallversicherung richtet
@@ -567,6 +582,7 @@ sich nach dem Fremdrentengesetz.
 
 
 ### § 14 Förderung einer selbständigen Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003803310)
 
 (1) Spätaussiedlern ist die Begründung und Festigung einer
 selbständigen Erwerbstätigkeit in der Landwirtschaft, im Gewerbe und
@@ -601,6 +617,7 @@ Glaubhaftmachung ist § 10 Abs. 3 und 4 entsprechend anzuwenden.
 
 
 ### § 15 Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE003908125)
 
 (1) Das Bundesverwaltungsamt stellt Spätaussiedlern zum Nachweis ihrer
 Spätaussiedlereigenschaft eine Bescheinigung aus. Eine Wiederholung
@@ -650,6 +667,7 @@ einer Bescheinigung ist nicht zulässig.
 
 
 ### § 16 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE004006310)
 
 Für die Verfahren nach § 15 gilt § 29 Abs. 1 und 1a entsprechend. Die
 in diesen Verfahren gespeicherten Daten dürfen auf Ersuchen zur
@@ -681,6 +699,7 @@ mitgeteilt werden:
 
 
 ### § 17 Datenaufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE004105125)
 
 Verwaltungsvorgänge und Daten zur Aufnahme nach diesem Gesetz sind bei
 den zuständigen Verwaltungsbehörden solange aufzubewahren, wie
@@ -692,23 +711,28 @@ Verfahrensbeteiligten.
 
 
 ### (XXXX) §§ 18 bis 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE014200125)
 
 
 
 ## Dritter Abschnitt - Behörden und Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG000603310)
 
 
 
 ### (XXXX) §§ 21 bis 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE004503310)
 
 -
 
 
 ## Vierter Abschnitt - Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG000904310)
 
 
 
 ### § 26 Aufnahmebescheid
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE005004310)
 
 Personen, die die Aussiedlungsgebiete als Spätaussiedler verlassen
 wollen, um im Geltungsbereich dieses Gesetzes ihren ständigen
@@ -717,6 +741,7 @@ Aufnahmebescheid erteilt.
 
 
 ### § 27 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE005109311)
 
 (1) Der Aufnahmebescheid wird auf Antrag Personen mit Wohnsitz in den
 Aussiedlungsgebieten erteilt, die nach Begründung des ständigen
@@ -774,6 +799,7 @@ oder unten abweichen.
 
 
 ### § 28 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE005206310)
 
 Das Bundesverwaltungsamt führt das Aufnahmeverfahren durch und erteilt
 den Aufnahmebescheid. Zur Feststellung von Ausschlussgründen nach § 5
@@ -785,6 +811,7 @@ Lebensjahr vollendet hat.
 
 
 ### § 29 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE005306310)
 
 (1) Das Bundesverwaltungsamt und die im Aufnahmeverfahren mitwirkenden
 Behörden dürfen, soweit es zur Feststellung der Voraussetzungen nach §
@@ -862,15 +889,18 @@ genutzt und übermittelt werden.
 
 
 ### (XXXX) §§ 30 bis 93 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE005404310)
 
 -
 
 
 ## Fünfter Abschnitt - Namensführung, Beratung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG002003310)
 
 
 
 ### § 94 Familiennamen und Vornamen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE011809125)
 
 (1) Vertriebene und Spätaussiedler, deren Ehegatten und Abkömmlinge,
 die Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind,
@@ -922,6 +952,7 @@ erhoben.
 
 
 ### § 95 Unentgeltliche Beratung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE011904310)
 
 (1) Organisationen der Vertriebenen, Flüchtlinge und Spätaussiedler,
 deren Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb
@@ -935,10 +966,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates.
 
 
 ## Sechster Abschnitt - Kultur, Forschung und Statistik
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG002103310)
 
 
 
 ### § 96 Pflege des Kulturgutes der Vertriebenen und Flüchtlinge und Förderung der wissenschaftlichen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012002310)
 
 Bund und Länder haben entsprechend ihrer durch das Grundgesetz
 gegebenen Zuständigkeit das Kulturgut der Vertreibungsgebiete in dem
@@ -954,6 +987,7 @@ berichtet jährlich dem Bundestag über das von ihr Veranlasste.
 
 
 ### § 97 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012103310)
 
 Bund und Länder haben die auf dem Gebiete des Spätaussiedlerwesens
 erforderlichen statistischen Arbeiten durchzuführen. Insbesondere
@@ -964,10 +998,12 @@ können.
 
 
 ## Siebter Abschnitt - Strafbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG002203310)
 
 
 
 ### § 98 Erschleichung von Vergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012203310)
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer unrichtige oder unvollständige Angaben tatsächlicher Art
@@ -977,6 +1013,7 @@ erschleichen.
 
 
 ### § 99 Pflichtverletzung von Verwaltungsangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012303310)
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer als Verwaltungsangehöriger bei der Durchführung dieses
@@ -985,10 +1022,12 @@ dass sie kein Recht auf Erteilung der Bescheinigung haben.
 
 
 ## Achter Abschnitt - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNG002303310)
 
 
 
 ### § 100 Anwendung des bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012405310)
 
 (1) Für Personen im Sinne der §§ 1 bis 3 finden die vor dem 1. Januar
 1993 geltenden Vorschriften nach Maßgabe der Absätze 2 bis 8
@@ -1037,6 +1076,7 @@ geltenden Fassung weiterhin anzuwenden.
 
 
 ### § 100a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE013904116)
 
 Die Spätaussiedlereigenschaft von Personen aus Estland, Lettland oder
 Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach § 26
@@ -1046,6 +1086,7 @@ Ausschlussgrund nach § 5 Nr. 1 Buchstabe d oder Buchstabe e vorliegt.
 
 
 ### § 100b Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE014103310)
 
 § 4 Abs. 3 Satz 2 ist in der bis zum 1. Januar 2005 geltenden Fassung
 auf Ehegatten, die bis zu diesem Zeitpunkt in den Aufnahmebescheid
@@ -1059,22 +1100,26 @@ Grundgesetzes nicht erworben haben.
 
 
 ### § 101 Geltung für Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE013704116)
 
 Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten
 entsprechend für Lebenspartner.
 
 
 ### § 102 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE013803310)
 
 -
 
 
 ### § 103 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012503310)
 
 Der Bund trägt die Aufwendungen nach § 9 dieses Gesetzes.
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012605116)
 
 Das Bundesministerium des Innern, für Bau und Heimat kann allgemeine
 Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das
@@ -1082,6 +1127,7 @@ Bundesverwaltungsamt erlassen.
 
 
 ### (XXXX) §§ 105 bis 107 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bvfg/BJNR002010953.html#BJNR002010953BJNE012703310)
 
 -
 

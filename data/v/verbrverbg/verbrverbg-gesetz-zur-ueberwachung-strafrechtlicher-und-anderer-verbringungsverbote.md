@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNG000100311)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000400311)
 
 Die Behörden, die das Verbringen von Gegenständen in den räumlichen
 Geltungsbereich dieses Gesetzes zu überwachen haben, stellen sicher,
@@ -33,6 +35,7 @@ diesen Bereich verbracht werden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000502377)
 
 (1) Die Hauptzollämter und ihre Beamten nehmen eine Nachprüfung vor,
 wenn sich tatsächliche Anhaltspunkte für den Verdacht ergeben, daß
@@ -54,6 +57,7 @@ entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000602307)
 
 Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den
 räumlichen Geltungsbereich dieses Gesetzes beförderten Sendungen, bei
@@ -63,16 +67,19 @@ vor.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000700311)
 
 Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
 nach Maßgabe der §§ 2 und 3 eingeschränkt.
 
 
 ## Zweiter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNG000200311)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000801311)
 
 (1) Es ist verboten, Filme, die nach ihrem Inhalt dazu geeignet sind,
 als Propagandamittel gegen die freiheitliche demokratische
@@ -99,6 +106,7 @@ Vorschriften auf den Besitzer entsprechend anzuwenden.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE000902116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Aufforderung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
@@ -116,14 +124,17 @@ Ausfuhrkontrolle (BAFA).
 
 
 ### (XXXX) §§ 7 bis 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE001000311)
 
 
 
 ## Dritter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNG000300311)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE001100311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -133,6 +144,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/verbrverbg/BJNR006070961.html#BJNR006070961BJNE001200311)
 
 Dieses Gesetz tritt am ersten Tage des vierten auf die Verkündung
 folgenden Kalendermonats in Kraft.

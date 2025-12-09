@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000202307)
 
 Für die gemäß § 7 Abs. 1, § 8 Abs. 2 des Wohnungseigentumsgesetzes vom
 15\. März 1951 (Bundesgesetzbl. I S. 175) für jeden Miteigentumsanteil
@@ -35,6 +36,7 @@ anderes ergibt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000301307)
 
 In der Aufschrift ist unter die Blattnummer in Klammern das Wort
 "Wohnungsgrundbuch" oder "Teileigentumsgrundbuch" zu setzen, je
@@ -47,6 +49,7 @@ und Teileigentumsgrundbuch" zu bezeichnen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000402125)
 
 (1) Im Bestandsverzeichnis sind in dem durch die Spalte 3 gebildeten
 Raum einzutragen:
@@ -109,6 +112,7 @@ einzutragenden Vermerk hinzuweisen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000501307)
 
 (1) Rechte, die ihrer Natur nach nicht an dem Wohnungseigentum als
 solchem bestehen können (wie z.B. Wegerechte), sind in Spalte 3 der
@@ -123,6 +127,7 @@ auf das Grundstück als Ganzes beziehen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000601307)
 
 Bei der Bildung von Hypotheken-, Grundschuld- und Rentenschuldbriefen
 ist kenntlich zu machen, daß der belastete Gegenstand ein
@@ -130,6 +135,7 @@ Wohnungseigentum (Teileigentum) ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000701307)
 
 Sind gemäß § 7 Abs. 1 oder § 8 Abs. 2 WEG des
 Wohnungseigentumsgesetzes für die Miteigentumsanteile besondere
@@ -142,17 +148,20 @@ eingetragen sind.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000802311)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE000902311)
 
 Die Vorschriften der §§ 2 bis 6 gelten für Wohnungs- und
 Teilerbbaugrundbücher entsprechend.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001002311)
 
 Die nähere Einrichtung der Wohnungs- und Teileigentumsgrundbücher
 sowie der Wohnungs- und Teilerbbaugrundbücher ergibt sich aus den als
@@ -165,6 +174,7 @@ dieser Verfügung.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001103311)
 
 (1) Die Befugnis der zuständigen Landesbehörden, zur Anpassung an
 landesrechtliche Besonderheiten ergänzende Vorschriften zu treffen,
@@ -190,12 +200,14 @@ angelegt werden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001201307)
 
 (Inkrafttreten)
 
 (zu § 9)
 
 ## Anlage 1 (Wohnungs- und Teileigentumsgrundbuch)
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001401307)
 
 (Inhalt: nicht darstellbares Muster eines Wohnungs- und
 Teileigentumsgrundbuchs
@@ -203,12 +215,14 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 70 - 76)
 
 
 ## Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001502311)
 
 -
 
 (zu § 9)
 
 ## Anlage 3 (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001601307)
 
 (Inhalt: nicht darstellbares Muster einer Aufschrift und
 Bestandsverzeichnis eines Wohnungserbbaugrundbuchs
@@ -217,6 +231,7 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 78 - 80)
 (zu § 9)
 
 ## Anlage 4 (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/w_igvfg/BJNR515200951.html#BJNR515200951BJNE001701307)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 81)

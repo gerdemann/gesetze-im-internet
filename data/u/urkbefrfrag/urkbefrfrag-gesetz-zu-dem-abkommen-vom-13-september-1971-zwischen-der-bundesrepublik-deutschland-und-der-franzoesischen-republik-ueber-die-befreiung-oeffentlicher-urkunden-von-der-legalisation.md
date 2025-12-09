@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000100306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000200306)
 
 Dem in Bonn am 13. September 1971 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Französischen Republik über die
@@ -34,6 +36,7 @@ Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000300306)
 
 Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 6 des
 Abkommens aus der Französischen Republik zugeleitet, so führt es eine
@@ -44,6 +47,7 @@ Stelle. Die Person, Stelle oder Behörde ist verpflichtet, eine
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000400306)
 
 Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 7 des
 Abkommmens aus der Französischen Republik zugeleitet, so führt es eine
@@ -59,6 +63,7 @@ ersuchenden Stelle.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000500306)
 
 (1) Ersuchen, mit denen außerhalb eines gerichtlichen oder
 behördlichen Verfahrens eine Nachprüfung nach Artikel 6 oder Auskunft
@@ -74,12 +79,14 @@ geregelten Voraussetzungen vorliegen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000600306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrfrag/BJNR210740974.html#BJNR210740974BJNE000700306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

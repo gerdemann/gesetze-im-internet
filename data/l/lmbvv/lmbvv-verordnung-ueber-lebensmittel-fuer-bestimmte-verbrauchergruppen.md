@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000100000)
 
 (1) Diese Verordnung regelt die Anforderungen an die Herstellung und
 das Inverkehrbringen von Lebensmitteln für bestimmte
@@ -42,6 +44,7 @@ Absatz 1 der Verordnung (EU) Nr. 609/2013.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000200000)
 
 Im Sinne dieser Verordnung sind Kräuter- und Früchtetee für Säuglinge
 oder Kleinkinder:
@@ -72,9 +75,11 @@ Im Übrigen sind die Begriffsbestimmungen des Artikels 2 der Verordnung
 
 
 ## Abschnitt 2 - Anzeige des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNG000200000)
 
 
 ### § 3 Zuständige Behörde und Anzeige des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000300000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 (Bundesamt) ist die zuständige Behörde für die Entgegennahme von
@@ -146,9 +151,11 @@ Lebensmittelüberwachung zuständigen obersten Landesbehörden zu
 
 
 ## Abschnitt 3 - Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNG000300000)
 
 
 ### § 4 Besondere Anforderungen an die Herstellung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000400000)
 
 (1) Bei der Herstellung von Kräuter- und Früchtetee für Säuglinge oder
 Kleinkinder dürfen nicht verwendet werden:
@@ -213,6 +220,7 @@ zubereitete Lebensmittel.
 
 
 ### § 5 Besondere Anforderungen beim Inverkehrbringen von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000500000)
 
 (1) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen im
 Einzelhandel nur in Form vorverpackter Lebensmittel vertrieben werden.
@@ -245,9 +253,11 @@ Lebensmonaten liegen.
 
 
 ## Abschnitt 4 - Sondervorschriften für bestimmte Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNG000400000)
 
 
 ### § 6 Besondere Anforderungen an Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für besondere medizinische Zwecke, die für die Ernährungsanforderungen von Säuglingen oder Kleinkindern entwickelt wurden
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000600000)
 
 (1) Säuglingsanfangsnahrung, Folgenahrung und Lebensmittel für
 besondere medizinische Zwecke, die für die Ernährungsanforderungen von
@@ -265,6 +275,7 @@ zubereitete Lebensmittel.
 
 
 ### § 7 Besondere Anforderungen an die Bezeichnung, die Werbung und die Verteilung von Material für Informations- oder Ausbildungszwecke
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000700000)
 
 (1) Es ist verboten, Säuglingsanfangsnahrung oder Folgenahrung unter
 Verwendung des Hinweises
@@ -348,6 +359,7 @@ nicht eingehalten werden.
 
 
 ### § 8 Genehmigungspflicht bei der Herstellung von Lebensmitteln
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000800000)
 
 (1) Wer Lebensmittel im Sinne von Artikel 1 Absatz 1 Buchstabe a oder
 d der Verordnung (EU) Nr. 609/2013 mit einem Zusatz von Jod oder
@@ -371,9 +383,11 @@ Die Genehmigung wird für eine bestimmte Betriebsstätte erteilt.
 
 
 ## Abschnitt 5 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNG000500000)
 
 
 ### § 9 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE000900000)
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -563,6 +577,7 @@ Verordnung (EU) 2017/1798 verstößt, indem er
 
 
 ### § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE001000000)
 
 (1) Wer eine in § 9 Absatz 2, 4, 5, 7, 8, 10, 11 oder 13 bezeichnete
 Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des
@@ -649,6 +664,7 @@ gewichtskontrollierende Ernährung in den Verkehr bringt.
 
 
 ### § 11 Übergangsregelungen aus Anlass dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE001100000)
 
 (1) Solange und soweit noch nicht ein unmittelbar geltender
 delegierter Rechtsakt der Europäischen Union auf Grundlage des
@@ -698,6 +714,7 @@ anzuwenden.
 
 
 ### Anlage 1 (zu § 4 Absatz 2 Satz 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE001200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 115, S. 9)
 
@@ -755,6 +772,7 @@ Früchtetee für Säuglinge oder Kleinkinder
 (zu § 4 Absatz 2 Satz 1 Nummer 3)
 
 ### Anlage 2 Wirkstoffe von Pflanzenschutz- und Schädlingsbekämpfungsmitteln, die bei Erzeugnissen, die zur Herstellung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder bestimmt sind, nicht angewendet werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/lmbvv/BJNR0730B0023.html#BJNR0730B0023BJNE001300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 115, S. 10)
 

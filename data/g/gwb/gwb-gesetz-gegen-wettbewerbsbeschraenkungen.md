@@ -26,14 +26,17 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG000104118)
 
 
 
 ### Kapitel 1 - Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG000205118)
 
 
 
 #### § 1 Verbot wettbewerbsbeschränkender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE000304360)
 
 Vereinbarungen zwischen Unternehmen, Beschlüsse von
 Unternehmensvereinigungen und aufeinander abgestimmte
@@ -42,6 +45,7 @@ Verfälschung des Wettbewerbs bezwecken oder bewirken, sind verboten.
 
 
 #### § 2 Freigestellte Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE000405360)
 
 (1) Vom Verbot des § 1 freigestellt sind Vereinbarungen zwischen
 Unternehmen, Beschlüsse von Unternehmensvereinigungen oder aufeinander
@@ -73,6 +77,7 @@ Mitgliedstaaten der Europäischen Union zu beeinträchtigen.
 
 
 #### § 3 Mittelstandskartelle
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE000505360)
 
 Vereinbarungen zwischen miteinander im Wettbewerb stehenden
 Unternehmen und Beschlüsse von Unternehmensvereinigungen, die die
@@ -92,14 +97,17 @@ Zusammenarbeit zum Gegenstand haben, erfüllen die Voraussetzungen des
 
 
 #### (XXXX) §§ 4 bis 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE000605360)
 
 
 
 ### Kapitel 2 - Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG002206118)
 
 
 
 #### § 18 Marktbeherrschung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022003125)
 
 (1) Ein Unternehmen ist marktbeherrschend, soweit es als Anbieter oder
 Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen
@@ -235,6 +243,7 @@ Erfahrungen mit den Vorschriften.
 
 
 #### § 19 Verbotenes Verhalten von marktbeherrschenden Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE002307125)
 
 (1) Der Missbrauch einer marktbeherrschenden Stellung durch ein oder
 mehrere Unternehmen ist verboten.
@@ -289,6 +298,7 @@ oder § 30 Absatz 1 Satz 1 oder § 31 Absatz 1 Nummer 3 binden.
 
 
 #### § 19a Missbräuchliches Verhalten von Unternehmen mit überragender marktübergreifender Bedeutung für den Wettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029500125)
 
 (1) Das Bundeskartellamt kann durch Verfügung feststellen, dass einem
 Unternehmen, das in erheblichem Umfang auf Märkten im Sinne des § 18
@@ -439,6 +449,7 @@ Erfahrungen mit der Vorschrift.
 
 
 #### § 20 Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE002414360)
 
 (1) § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 gilt auch für
 Unternehmen und Vereinigungen von Unternehmen, soweit von ihnen andere
@@ -537,6 +548,7 @@ Benachteiligung des Unternehmens im Wettbewerb führen würde.
 
 
 #### § 21 Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE002506118)
 
 (1) Unternehmen und Vereinigungen von Unternehmen dürfen nicht ein
 anderes Unternehmen oder Vereinigungen von Unternehmen in der Absicht,
@@ -587,10 +599,12 @@ oder angeregt hat.
 
 
 ### Kapitel 3 - Anwendung des europäischen Wettbewerbsrechts
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG011303118)
 
 
 
 #### § 22 Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE002607118)
 
 (1) Auf Vereinbarungen zwischen Unternehmen, Beschlüsse von
 Unternehmensvereinigungen und aufeinander abgestimmte Verhaltensweisen
@@ -648,13 +662,16 @@ Abschnitts unberührt.
 
 
 #### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE002704360)
 
 
 ### Kapitel 4 - Wettbewerbsregeln
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG002804118)
 
 
 
 #### § 24 Begriff, Antrag auf Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE002903360)
 
 (1) Wirtschafts- und Berufsvereinigungen können für ihren Bereich
 Wettbewerbsregeln aufstellen.
@@ -711,6 +728,7 @@ Kartellbehörde mitzuteilen.
 
 
 #### § 25 Stellungnahme Dritter
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003004360)
 
 Die Kartellbehörde hat nichtbeteiligten Unternehmen der gleichen
 Wirtschaftsstufe, Wirtschafts- und Berufsvereinigungen der durch die
@@ -725,6 +743,7 @@ Einwendungen gegen die Anerkennung zu erheben.
 
 
 #### § 26 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003105118)
 
 (1) Die Anerkennung erfolgt durch Verfügung der Kartellbehörde. Sie
 hat zum Inhalt, dass die Kartellbehörde von den ihr nach Kapitel 6
@@ -746,6 +765,7 @@ für die Ablehnung der Anerkennung nach Absatz 2 vorliegen.
 
 
 #### § 27 Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003205360)
 
 (1) Anerkannte Wettbewerbsregeln sind im Bundesanzeiger zu
 veröffentlichen.
@@ -784,10 +804,12 @@ nicht nach Absatz 1 veröffentlicht worden sind, auf Anfrage Auskunft
 
 
 ### Kapitel 5 - Sonderregeln für bestimmte Wirtschaftsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG003304118)
 
 
 
 #### § 28 Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003405360)
 
 (1) § 1 gilt nicht für Vereinbarungen von landwirtschaftlichen
 Erzeugerbetrieben sowie für Vereinbarungen und Beschlüsse von
@@ -820,6 +842,7 @@ pflegt.
 
 
 #### § 29 Energiewirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003506125)
 
 Einem Unternehmen ist es verboten, als Anbieter von Elektrizität,
 Fernwärme oder leitungsgebundenem Gas (Versorgungsunternehmen) auf
@@ -847,6 +870,7 @@ unberührt.
 
 
 #### § 30 Presse
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003606118)
 
 (1) § 1 gilt nicht für vertikale Preisbindungen, durch die ein
 Unternehmen, das Zeitungen oder Zeitschriften herstellt, die Abnehmer
@@ -931,6 +955,7 @@ Erfahrungen mit der Vorschrift.
 
 
 #### § 31 Verträge der Wasserwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003705360)
 
 (1) Das Verbot wettbewerbsbeschränkender Vereinbarungen nach § 1 gilt
 nicht für Verträge von Unternehmen der öffentlichen Versorgung mit
@@ -1002,6 +1027,7 @@ und eine damit verbundene Entnahme (Durchleitung) verweigert.
 
 
 #### § 31a Wasserwirtschaft, Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022101360)
 
 (1) Verträge nach § 31 Absatz 1 Nummer 1, 2 und 4 sowie ihre
 Änderungen und Ergänzungen bedürfen zu ihrer Wirksamkeit der
@@ -1029,6 +1055,7 @@ für jedes beteiligte Unternehmen anzugeben:
 
 
 #### § 31b Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022202125)
 
 (1) Die Kartellbehörde erteilt zu den nach § 31 Absatz 1 Nummer 1, 2
 und 4 freigestellten Verträgen auf Anfrage Auskunft über
@@ -1075,14 +1102,17 @@ Wasserversorgungsunternehmen eine marktbeherrschende Stellung innehat.
 
 
 ### Kapitel 6 - Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG003805118)
 
 
 
 #### Abschnitt 1 - Befugnisse der Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019200118)
 
 
 
 ##### § 32 Abstellung und nachträgliche Feststellung von Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE003906118)
 
 (1) Die Kartellbehörde kann Unternehmen oder Vereinigungen von
 Unternehmen verpflichten, eine Zuwiderhandlung gegen eine Vorschrift
@@ -1113,6 +1143,7 @@ auch eine Zuwiderhandlung feststellen, nachdem diese beendet ist.
 
 
 ##### § 32a Einstweilige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018003125)
 
 (1) Die Kartellbehörde kann von Amts wegen einstweilige Maßnahmen
 anordnen, wenn eine Zuwiderhandlung im Sinne des § 32 Absatz 1
@@ -1128,6 +1159,7 @@ verlängert werden. Sie soll insgesamt ein Jahr nicht überschreiten.
 
 
 ##### § 32b Verpflichtungszusagen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018103360)
 
 (1) Bieten Unternehmen im Rahmen eines Verfahrens nach § 30 Absatz 3,
 § 31b Absatz 3 oder § 32 an, Verpflichtungen einzugehen, die geeignet
@@ -1157,6 +1189,7 @@ das Verfahren wieder aufnehmen, wenn
 
 
 ##### § 32c Kein Anlass zum Tätigwerden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018205125)
 
 (1) Sind die Voraussetzungen für ein Verbot nach den §§ 1, 19 bis 21
 und 29, nach Artikel 101 Absatz 1 oder Artikel 102 des Vertrages über
@@ -1186,6 +1219,7 @@ entscheiden.
 
 
 ##### § 32d Entzug der Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018303360)
 
 Haben Vereinbarungen, Beschlüsse von Unternehmensvereinigungen oder
 aufeinander abgestimmte Verhaltensweisen, die unter eine
@@ -1198,6 +1232,7 @@ Rechtsvorteil der Gruppenfreistellung in diesem Gebiet entziehen.
 
 
 ##### § 32e Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018407125)
 
 (1) Lassen Umstände vermuten, dass der Wettbewerb im Inland
 möglicherweise eingeschränkt oder verfälscht ist, können das
@@ -1247,6 +1282,7 @@ nach Absatz 6 für vier Monate ausgeschlossen.
 
 
 ##### § 32f Maßnahmen nach einer Sektoruntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031601125)
 
 (1) Nach der Veröffentlichung eines Berichts nach § 32e Absatz 4 zu
 einer Sektoruntersuchung nach § 32e Absatz 1 hat das Bundeskartellamt
@@ -1450,6 +1486,7 @@ Erfahrungen mit der Vorschrift.
 
 
 ##### § 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031700125)
 
 (1) Das Bundeskartellamt kann eine Untersuchung bei einer möglichen
 Nichteinhaltung der Artikel 5, 6 oder 7 der Verordnung (EU) 2022/1925
@@ -1472,10 +1509,12 @@ Bericht über die Ergebnisse der Untersuchung veröffentlichen.
 
 
 #### Abschnitt 2 - Schadensersatz und Vorteilsabschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019300118)
 
 
 
 ##### § 33 Beseitigungs- und Unterlassungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004009125)
 
 (1) Wer gegen eine Vorschrift dieses Teils oder gegen Artikel 101 oder
 102 des Vertrages über die Arbeitsweise der Europäischen Union oder
@@ -1523,6 +1562,7 @@ durch den Verstoß beeinträchtigt ist.
 
 
 ##### § 33a Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028101125)
 
 (1) Wer einen Verstoß nach § 33 Absatz 1 vorsätzlich oder fahrlässig
 begeht, ist zum Ersatz des daraus entstehenden Schadens verpflichtet.
@@ -1564,6 +1604,7 @@ Gesetzbuchs finden entsprechende Anwendung.
 
 
 ##### § 33b Bindungswirkung von Entscheidungen einer Wettbewerbsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028201125)
 
 Wird wegen eines Verstoßes gegen eine Vorschrift dieses Teils oder
 gegen Artikel 101 oder 102 des Vertrages über die Arbeitsweise der
@@ -1583,6 +1624,7 @@ Verpflichtung gilt unbeschadet der Rechte und Pflichten nach Artikel
 
 
 ##### § 33c Schadensabwälzung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028303125)
 
 (1) Wird eine Ware oder Dienstleistung zu einem überteuerten Preis
 bezogen (Preisaufschlag), so ist der Schaden nicht deshalb
@@ -1642,6 +1684,7 @@ des Rechtsverletzers betrifft.
 
 
 ##### § 33d Gesamtschuldnerische Haftung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028400118)
 
 (1) Begehen mehrere gemeinschaftlich einen Verstoß im Sinne des § 33a
 Absatz 1, sind sie als Gesamtschuldner zum Ersatz des daraus
@@ -1710,6 +1753,7 @@ ausgeschlossen, wenn
 
 
 ##### § 33e Kronzeuge
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028500118)
 
 (1) Abweichend von § 33a Absatz 1 ist ein an einem Kartell beteiligtes
 Unternehmen oder eine an dem Kartell beteiligte natürliche Person, dem
@@ -1736,6 +1780,7 @@ Verstoß entstehen.
 
 
 ##### § 33f Wirkungen des Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028600118)
 
 (1) Wenn nicht anders vereinbart, wird im Falle einer durch
 einvernehmliche Streitbeilegung erzielten Einigung (Vergleich) über
@@ -1759,6 +1804,7 @@ des sich vergleichenden Gesamtschuldners verblieben ist.
 
 
 ##### § 33g Anspruch auf Herausgabe von Beweismitteln und Erteilung von Auskünften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028701125)
 
 (1) Wer im Besitz von Beweismitteln ist, die für die Erhebung eines
 auf Schadensersatz gerichteten Anspruchs nach § 33a Absatz 1
@@ -1916,6 +1962,7 @@ entsprechend.
 
 
 ##### § 33h Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028803125)
 
 (1) Ansprüche aus § 33 Absatz 1 und § 33a Absatz 1 verjähren in fünf
 Jahren.
@@ -2027,6 +2074,7 @@ Verjährungsfrist nach Maßgabe dieses Absatzes beginnt.
 
 
 ##### § 34 Vorteilsabschöpfung durch die Kartellbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004109125)
 
 (1) Hat ein Unternehmen vorsätzlich oder fahrlässig gegen eine
 Vorschrift dieses Teils, gegen Artikel 101 oder 102 des Vertrages über
@@ -2101,6 +2149,7 @@ die Frist nach Satz 1 erneut.
 
 
 ##### § 34a Vorteilsabschöpfung durch Verbände
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018509125)
 
 (1) Wer einen Verstoß im Sinne des § 34 Absatz 1 vorsätzlich begeht
 und hierdurch zu Lasten einer Vielzahl von Abnehmern oder Anbietern
@@ -2132,10 +2181,12 @@ beschränkt.
 
 
 ### Kapitel 7 - Zusammenschlusskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG004204118)
 
 
 
 #### § 35 Geltungsbereich der Zusammenschlusskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004309125)
 
 (1) Die Vorschriften über die Zusammenschlusskontrolle finden
 Anwendung, wenn im letzten Geschäftsjahr vor dem Zusammenschluss
@@ -2212,6 +2263,7 @@ ausschließlich zuständig ist.
 
 
 #### § 36 Grundsätze für die Beurteilung von Zusammenschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004407125)
 
 (1) Ein Zusammenschluss, durch den wirksamer Wettbewerb erheblich
 behindert würde, insbesondere von dem zu erwarten ist, dass er eine
@@ -2259,6 +2311,7 @@ Unternehmen.
 
 
 #### § 37 Zusammenschluss
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004504118)
 
 (1) Ein Zusammenschluss liegt in folgenden Fällen vor:
 
@@ -2335,6 +2388,7 @@ wird, dass die Veräußerung innerhalb der Frist unzumutbar war.
 
 
 #### § 38 Berechnung der Umsatzerlöse, der Marktanteile und des Wertes der Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004608125)
 
 (1) Für die Ermittlung der Umsatzerlöse gilt § 277 Absatz 1 des
 Handelsgesetzbuchs. Verwendet ein Unternehmen für seine regelmäßige
@@ -2395,6 +2449,7 @@ Erwerbsvorgang.
 
 
 #### § 39 Anmelde- und Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004712125)
 
 (1) Zusammenschlüsse sind vor dem Vollzug beim Bundeskartellamt gemäß
 den Absätzen 2 und 3 anzumelden. Elektronische Anmeldungen sind
@@ -2508,10 +2563,12 @@ unberührt.
 
 
 #### § 39a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029601125)
 
 
 
 #### § 40 Verfahren der Zusammenschlusskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004807125)
 
 (1) Das Bundeskartellamt darf einen Zusammenschluss, der ihm
 angemeldet worden ist, nur untersagen, wenn es den anmeldenden
@@ -2588,6 +2645,7 @@ Frist nach Absatz 2 Satz 2 mit Eintritt der Rechtskraft von Neuem.
 
 
 #### § 41 Vollzugsverbot, Entflechtung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE004912118)
 
 (1) Die Unternehmen dürfen einen Zusammenschluss, der vom
 Bundeskartellamt nicht freigegeben ist, nicht vor Ablauf der Fristen
@@ -2665,6 +2723,7 @@ insbesondere
 
 
 #### § 42 Ministererlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005011118)
 
 (1) Die Bundesministerin oder der Bundesminister für Wirtschaft und
 Energie erteilt auf Antrag die Erlaubnis zu einem vom Bundeskartellamt
@@ -2722,6 +2781,7 @@ Leitlinien über die Durchführung des Verfahrens.
 
 
 #### § 43 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005106360)
 
 (1) Die Einleitung des Hauptprüfverfahrens durch das Bundeskartellamt
 nach § 40 Absatz 1 Satz 1 und der Antrag auf Erteilung einer
@@ -2751,6 +2811,7 @@ nach § 39 Absatz 3 Satz 1 sowie Satz 2 Nummer 1 und 2.
 
 
 #### § 43a Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029400118)
 
 Das Bundesministerium für Wirtschaft und Energie berichtet den
 gesetzgebenden Körperschaften nach Ablauf von drei Jahren nach
@@ -2759,10 +2820,12 @@ von § 35 Absatz 1a, § 37 Absatz 1 Nummer 1 und § 38 Absatz 4a.
 
 
 ### Kapitel 8 - Monopolkommission
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG005204118)
 
 
 
 #### § 44 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005305125)
 
 (1) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in
 dem sie den Stand und die absehbare Entwicklung der
@@ -2805,6 +2868,7 @@ zu der Empfehlung.
 
 
 #### § 45 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005403360)
 
 (1) Die Monopolkommission besteht aus fünf Mitgliedern, die über
 besondere volkswirtschaftliche, betriebswirtschaftliche,
@@ -2835,6 +2899,7 @@ eine derartige Stellung innegehabt haben.
 
 
 #### § 46 Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005513125)
 
 (1) Die Beschlüsse der Monopolkommission bedürfen der Zustimmung von
 mindestens drei Mitgliedern.
@@ -2876,6 +2941,7 @@ der Monopolkommission trägt der Bund.
 
 
 #### § 47 Übermittlung statistischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005606118)
 
 (1) Für die Begutachtung der Entwicklung der Unternehmenskonzentration
 werden der Monopolkommission vom Statistischen Bundesamt aus
@@ -2961,14 +3027,17 @@ der Monopolkommission übermittelt werden dürfen.
 
 
 ### Kapitel 9 - Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG017802118)
 
 
 
 #### Abschnitt 1 - Markttransparenzstelle für den Großhandel im Bereich Strom und Gas
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG017902118)
 
 
 
 ##### § 47a Einrichtung, Zuständigkeit, Organisation
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE020702118)
 
 (1) Zur Sicherstellung einer wettbewerbskonformen Bildung der
 Großhandelspreise von Elektrizität und Gas wird eine
@@ -3005,6 +3074,7 @@ Mitarbeiter der Markttransparenzstelle entsprechend.
 
 
 ##### § 47b Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE020801360)
 
 (1) Die Markttransparenzstelle beobachtet laufend den gesamten
 Großhandel mit Elektrizität und Erdgas, unabhängig davon, ob er auf
@@ -3087,6 +3157,7 @@ Erdgas im Geltungsbereich dieses Gesetzes auswirken.
 
 
 ##### § 47c Datenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE020903125)
 
 (1) Die Markttransparenzstelle stellt die nach § 47b Absatz 3
 erhaltenen Daten ferner folgenden Stellen zur Verfügung:
@@ -3158,6 +3229,7 @@ Behandlung der Daten zugesichert haben.
 
 
 ##### § 47d Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021003125)
 
 (1) Zur Erfüllung ihrer Aufgaben hat die Markttransparenzstelle die
 Befugnisse nach §§ 59, 59a und 59b gegenüber natürlichen und
@@ -3195,6 +3267,7 @@ Mitteilung über den Abschluss der Untersuchung anfordern.
 
 
 ##### § 47e Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021102118)
 
 (1) Folgende Personen und Unternehmen unterliegen neben den in § 47g
 genannten Mitteilungspflichtigen der Mitteilungspflicht nach den
@@ -3321,6 +3394,7 @@ Verbesserung des Zugangs zu diesen Informationen zu treffen.
 
 
 ##### § 47f Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021203118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im
 Wege der Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -3383,6 +3457,7 @@ Artikel 8 Absatz 2 oder Absatz 6 der Verordnung (EU) Nr. 1227/2011
 
 
 ##### § 47g Festlegungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028002125)
 
 (1) Die Markttransparenzstelle entscheidet nach Maßgabe von § 47d
 Absatz 1 und § 47e sowie der nach § 47f zu erlassenden
@@ -3565,6 +3640,7 @@ und Vermarktung von Biogas übermittelt werden.
 
 
 ##### § 47h Berichtspflichten, Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021503118)
 
 (1) Die Markttransparenzstelle unterrichtet das Bundesministerium für
 Wirtschaft und Energie über die Übermittlung von Informationen nach §
@@ -3596,6 +3672,7 @@ Transparenz auf den Strom- und Gasmärkten bleiben unberührt.
 
 
 ##### § 47i Zusammenarbeit mit anderen Behörden und Aufsichtsstellen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021602118)
 
 (1) Das Bundeskartellamt und die Bundesnetzagentur arbeiten bei der
 Wahrnehmung der Aufgaben der Markttransparenzstelle nach § 47b mit
@@ -3639,6 +3716,7 @@ Zusammenarbeit der Energieregulierungsbehörden schließen.
 
 
 ##### § 47j Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021704118)
 
 (1) Informationen, die die Markttransparenzstelle bei ihrer
 Aufgabenerfüllung im gewöhnlichen Geschäftsverkehr erlangt oder
@@ -3684,10 +3762,12 @@ Betroffenen und der Markttransparenzstelle zuzuordnen sind.
 
 
 #### Abschnitt 2 - Markttransparenzstelle für Kraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018002118)
 
 
 
 ##### § 47k Marktbeobachtung im Bereich Kraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021805125)
 
 (1) Beim Bundeskartellamt wird eine Markttransparenzstelle für
 Kraftstoffe eingerichtet. Sie beobachtet die Wertschöpfungsstufen der
@@ -3811,10 +3891,12 @@ Kraftstoffe entsprechend.
 
 
 #### Abschnitt 3 - Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018102118)
 
 
 
 ##### § 47l Evaluierung der Markttransparenzstellen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE021902118)
 
 Das Bundesministerium für Wirtschaft und Energie berichtet den
 gesetzgebenden Körperschaften über die Ergebnisse der Arbeit der
@@ -3830,14 +3912,17 @@ Mineralölwirtschaft eingehen.
 
 
 ## Teil 2 - Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG005604118)
 
 
 
 ### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG005705125)
 
 
 
 #### § 48 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005811125)
 
 (1) Kartellbehörden sind das Bundeskartellamt, das Bundesministerium
 für Wirtschaft und Energie und die nach Landesrecht zuständigen
@@ -3862,6 +3947,7 @@ Verfügung stellen.
 
 
 #### § 49 Bundeskartellamt und oberste Landesbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE005905125)
 
 (1) Leitet das Bundeskartellamt ein Verfahren ein oder führt es
 Ermittlungen durch, so benachrichtigt es gleichzeitig die oberste
@@ -3895,6 +3981,7 @@ setzenden Frist widerspricht.
 
 
 #### § 50 Vollzug des europäischen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006007125)
 
 (1) Abweichend von § 48 Absatz 2 ist das Bundeskartellamt für die
 Anwendung der Artikel 101 und 102 des Vertrages über die Arbeitsweise
@@ -3933,10 +4020,12 @@ vertreten. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### Kapitel 2 - Behördenzusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019400125)
 
 
 
 #### § 50a Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018604125)
 
 (1) Das Bundeskartellamt darf im Namen und für Rechnung der
 Wettbewerbsbehörde eines anderen Mitgliedstaates der Europäischen
@@ -3967,6 +4056,7 @@ verzichtet wurde.
 
 
 #### § 50b Zustellung im Netzwerk der europäischen Wettbewerbsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018705125)
 
 (1) Auf Ersuchen der Wettbewerbsbehörde eines anderen Mitgliedstaates
 der Europäischen Union stellt das Bundeskartellamt in deren Namen
@@ -4068,6 +4158,7 @@ zuständige Gericht. Es gilt deutsches Recht.
 
 
 #### § 50c Vollstreckung im Netzwerk der europäischen Wettbewerbsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018811125)
 
 (1) Auf Ersuchen der Wettbewerbsbehörde eines anderen Mitgliedstaates
 der Europäischen Union vollstreckt das Bundeskartellamt
@@ -4170,6 +4261,7 @@ eines anderen Mitgliedstaates vornimmt.
 
 
 #### § 50d Informationsaustausch im Netzwerk der europäischen Wettbewerbsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029700125)
 
 (1) Das Bundeskartellamt ist nach Artikel 12 Absatz 1 der Verordnung
 (EG) Nr. 1/2003 befugt, der Europäischen Kommission und den
@@ -4235,6 +4327,7 @@ bleibt unberührt.
 
 
 #### § 50e Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029800125)
 
 (1) Das Bundeskartellamt hat die in § 50d Absatz 1 genannten
 Befugnisse auch in anderen Fällen, in denen es zum Zweck der Anwendung
@@ -4268,6 +4361,7 @@ Rechtshilfeabkommen bleiben unberührt.
 
 
 #### § 50f Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029902125)
 
 (1) Die Kartellbehörden, Regulierungsbehörden, die oder der
 Bundesbeauftragte für den Datenschutz und die Informationsfreiheit und
@@ -4321,10 +4415,12 @@ veröffentlicht worden sind.
 
 
 ### Kapitel 3 - Bundeskartellamt
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG006105125)
 
 
 
 #### § 51 Sitz, Organisation
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006208118)
 
 (1) Das Bundeskartellamt ist eine selbstständige Bundesoberbehörde mit
 dem Sitz in Bonn. Es gehört zum Geschäftsbereich des
@@ -4351,6 +4447,7 @@ Wirtschafts- oder Berufsvereinigung sein.
 
 
 #### § 52 Veröffentlichung allgemeiner Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006309118)
 
 Soweit das Bundesministerium für Wirtschaft und Energie dem
 Bundeskartellamt allgemeine Weisungen für den Erlass oder die
@@ -4359,6 +4456,7 @@ Weisungen im Bundesanzeiger zu veröffentlichen.
 
 
 #### § 53 Tätigkeitsbericht und Monitoringberichte
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006412125)
 
 (1) Das Bundeskartellamt veröffentlicht alle zwei Jahre einen Bericht
 über seine Tätigkeit sowie über die Lage und Entwicklung auf seinem
@@ -4417,18 +4515,22 @@ mitteilen. Die Mitteilung soll mindestens Folgendes enthalten:
 
 
 ## Teil 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG006405118)
 
 
 
 ### Kapitel 1 - Verwaltungssachen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG006505125)
 
 
 
 #### Abschnitt 1 - Verfahren vor den Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG006605125)
 
 
 
 ##### § 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006606125)
 
 (1) Die Kartellbehörde leitet ein Verfahren von Amts wegen oder auf
 Antrag ein. Die Kartellbehörde kann auf entsprechendes Ersuchen zum
@@ -4470,6 +4572,7 @@ Personenvereinigungen.
 
 
 ##### § 55 Vorabentscheidung über Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006705125)
 
 (1) Macht ein Beteiligter die örtliche oder sachliche Unzuständigkeit
 der Kartellbehörde geltend, so kann die Kartellbehörde über die
@@ -4484,6 +4587,7 @@ Zuständigkeit zu Unrecht angenommen hat.
 
 
 ##### § 56 Anhörung, Akteneinsicht, mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006812125)
 
 (1) Die Kartellbehörde hat den Beteiligten Gelegenheit zur
 Stellungnahme zu geben. Über die Form der Anhörung entscheidet die
@@ -4553,6 +4657,7 @@ anzuwenden.
 
 
 ##### § 57 Ermittlungen, Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE006904125)
 
 (1) Die Kartellbehörde kann alle Ermittlungen führen und alle Beweise
 erheben, die erforderlich sind.
@@ -4585,6 +4690,7 @@ entscheidet das Gericht.
 
 
 ##### § 58 Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007005125)
 
 (1) Die Bediensteten der Kartellbehörde können Gegenstände, die als
 Beweismittel für die Ermittlung von Bedeutung sein können,
@@ -4608,6 +4714,7 @@ entsprechend.
 
 
 ##### § 59 Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007112125)
 
 (1) Soweit es zur Erfüllung der in diesem Gesetz der Kartellbehörde
 übertragenen Aufgaben erforderlich ist, kann die Kartellbehörde bis
@@ -4676,6 +4783,7 @@ bestimmen.
 
 
 ##### § 59a Prüfung von geschäftlichen Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030000125)
 
 (1) Soweit es zur Erfüllung der in diesem Gesetz der Kartellbehörde
 übertragenen Aufgaben erforderlich ist, kann die Kartellbehörde bis
@@ -4705,6 +4813,7 @@ Gegenstand und Zweck der Prüfung anzugeben.
 
 
 ##### § 59b Durchsuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030100125)
 
 (1) Zur Erfüllung der ihr in diesem Gesetz übertragenen Aufgaben kann
 die Kartellbehörde Geschäftsräume, Wohnungen, Grundstücke und Sachen
@@ -4773,6 +4882,7 @@ durchgesetzt werden.
 
 
 ##### § 60 Einstweilige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007206125)
 
 Die Kartellbehörde kann bis zur endgültigen Entscheidung über
 
@@ -4793,6 +4903,7 @@ treffen.
 
 
 ##### § 61 Verfahrensabschluss, Begründung der Verfügung, Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007307125)
 
 (1) Verfügungen der Kartellbehörde sind zu begründen und mit einer
 Belehrung über das zulässige Rechtsmittel den Beteiligten nach den
@@ -4821,6 +4932,7 @@ veröffentlicht werden.
 
 
 ##### § 62 Gebührenpflichtige Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007407125)
 
 (1) Im Verfahren vor der Kartellbehörde werden Kosten (Gebühren und
 Auslagen) zur Deckung des Verwaltungsaufwandes erhoben. Als
@@ -4996,10 +5108,12 @@ Grundsätzen des § 71 bestimmt.
 
 
 #### Abschnitt 2 - Gemeinsame Bestimmungen für Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG007505125)
 
 
 
 ##### § 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007511125)
 
 (1) An dem Rechtsbehelfsverfahren sind beteiligt:
 
@@ -5027,6 +5141,7 @@ Personenvereinigungen.
 
 
 ##### § 64 Anwaltszwang
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007608125)
 
 Die Beteiligten müssen sich durch einen Rechtsanwalt als
 Bevollmächtigten vertreten lassen. Die Kartellbehörde kann sich durch
@@ -5034,6 +5149,7 @@ ein Mitglied der Behörde vertreten lassen.
 
 
 ##### § 65 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007705125)
 
 (1) Das Gericht entscheidet über die Beschwerde und über die
 Rechtsbeschwerde aufgrund mündlicher Verhandlung; mit Einverständnis
@@ -5045,6 +5161,7 @@ gleichwohl in der Sache verhandelt und entschieden werden.
 
 
 ##### § 66 Aufschiebende Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007812125)
 
 (1) Rechtsbehelfe haben aufschiebende Wirkung, soweit durch die
 angefochtene Verfügung
@@ -5070,6 +5187,7 @@ Anordnung kann jederzeit aufgehoben oder geändert werden.
 
 
 ##### § 67 Anordnung der sofortigen Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE007904125)
 
 (1) Die Kartellbehörde kann in den Fällen des § 66 Absatz 1 die
 sofortige Vollziehung der Verfügung anordnen, wenn dies im
@@ -5120,6 +5238,7 @@ oder aufgehoben werden.
 
 
 ##### § 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008005125)
 
 § 60 gilt für Rechtsbehelfsverfahren entsprechend. Dies gilt nicht für
 die Fälle des § 67. Für den Erlass einstweiliger Anordnungen im
@@ -5127,6 +5246,7 @@ Rechtsbehelfsverfahren ist das Gericht der Hauptsache zuständig.
 
 
 ##### § 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008105125)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -5177,6 +5297,7 @@ entsprechend anzuwenden.
 
 
 ##### § 70 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008204125)
 
 (1) Die in § 63 Absatz 1 Nummer 1 und 2 und Absatz 2 bezeichneten
 Beteiligten können die Akten des Gerichts einsehen und sich durch die
@@ -5210,6 +5331,7 @@ gleichem Umfang gewähren.
 
 
 ##### § 71 Kostentragung und -festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008305125)
 
 Das Gericht kann anordnen, dass die Kosten, die zur
 zweckentsprechenden Erledigung der Angelegenheit notwendig waren, von
@@ -5223,6 +5345,7 @@ Kostenfestsetzungsbeschlüssen entsprechend.
 
 
 ##### § 72 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008405125)
 
 Soweit nichts anderes bestimmt ist, gelten entsprechend
 
@@ -5247,10 +5370,12 @@ Soweit nichts anderes bestimmt ist, gelten entsprechend
 
 
 #### Abschnitt 3 - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG008605125)
 
 
 
 ##### § 73 Zulässigkeit, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008507125)
 
 (1) Gegen Verfügungen der Kartellbehörde ist die Beschwerde zulässig.
 Sie kann auch auf neue Tatsachen und Beweismittel gestützt werden.
@@ -5298,6 +5423,7 @@ Verfahrenshandlungen.
 
 
 ##### § 74 Frist und Form
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008607125)
 
 (1) Die Beschwerde ist binnen einer Frist von einem Monat bei der
 Kartellbehörde, deren Verfügung angefochten wird, schriftlich
@@ -5340,6 +5466,7 @@ der Kartellbehörden.
 
 
 ##### § 75 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008706125)
 
 (1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen.
 
@@ -5369,6 +5496,7 @@ Stellungnahme der Monopolkommission einholen.
 
 
 ##### § 76 Beschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008806125)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner
 freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung.
@@ -5414,10 +5542,12 @@ den Beteiligten zuzustellen.
 
 
 #### Abschnitt 4 - Rechtsbeschwerde und Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG008905125)
 
 
 
 ##### § 77 Zulassung, absolute Rechtsbeschwerdegründe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE008904125)
 
 (1) Gegen Beschlüsse der Oberlandesgerichte findet die
 Rechtsbeschwerde an den Bundesgerichtshof statt, wenn das
@@ -5474,6 +5604,7 @@ folgenden Mängel des Verfahrens vorliegt und gerügt wird:
 
 
 ##### § 78 Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009004125)
 
 (1) Die Nichtzulassung der Rechtsbeschwerde kann von den am
 Beschwerdeverfahren Beteiligten durch Nichtzulassungsbeschwerde
@@ -5508,6 +5639,7 @@ der Rechtsbeschwerde.
 
 
 ##### § 79 Rechtsbeschwerdeberechtigte, Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009104125)
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
 zu.
@@ -5544,6 +5676,7 @@ Rechtsbeschwerdegründe vorgebracht sind.
 
 
 ##### § 80 Rechtsbeschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009211125)
 
 (1) Der Bundesgerichtshof entscheidet durch Beschluss.
 
@@ -5581,14 +5714,17 @@ zugrunde zu legen.
 
 
 ### Kapitel 2 - Bußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG009305125)
 
 
 
 #### Abschnitt 1 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019500125)
 
 
 
 ##### § 81 Bußgeldtatbestände
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009417125)
 
 (1) Ordnungswidrig handelt, wer gegen den Vertrag über die
 Arbeitsweise der Europäischen Union in der Fassung der Bekanntmachung
@@ -5721,6 +5857,7 @@ vorsätzlich oder fahrlässig
 
 
 ##### § 81a Geldbußen gegen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE028901125)
 
 (1) Hat jemand als Leitungsperson im Sinne des § 30 Absatz 1 Nummer 1
 bis 5 des Gesetzes über Ordnungswidrigkeiten eine Ordnungswidrigkeit
@@ -5765,6 +5902,7 @@ entsprechende Anwendung.
 
 
 ##### § 81b Geldbußen gegen Unternehmensvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022304125)
 
 (1) Wird gegen eine Unternehmensvereinigung als juristische Person
 oder Personenvereinigung im Sinne des § 30 des Gesetzes gegen
@@ -5820,6 +5958,7 @@ der Unternehmensvereinigung,
 
 
 ##### § 81c Höhe der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030200125)
 
 (1) Die Ordnungswidrigkeit kann in den Fällen des § 81 Absatz 1, 2
 Nummer 1, 2 Buchstabe a und Nummer 5 und Absatz 3 mit einer Geldbuße
@@ -5861,6 +6000,7 @@ Einheit operieren. Die Höhe des Gesamtumsatzes kann geschätzt werden.
 
 
 ##### § 81d Zumessung der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030300125)
 
 (1) Bei der Festsetzung der Höhe der Geldbuße ist sowohl die Schwere
 der Zuwiderhandlung als auch deren Dauer zu berücksichtigen. Bei
@@ -5920,6 +6060,7 @@ Zusammenarbeit mit ausländischen Wettbewerbsbehörden, festlegen.
 
 
 ##### § 81e Ausfallhaftung im Übergangszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030400125)
 
 (1) Erlischt die nach § 30 des Gesetzes über Ordnungswidrigkeiten
 verantwortliche juristische Person oder Personenvereinigung nach der
@@ -5958,6 +6099,7 @@ Einzelbetrages erfolgen.
 
 
 ##### § 81f Verzinsung der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030500125)
 
 Im Bußgeldbescheid festgesetzte Geldbußen gegen juristische Personen
 und Personenvereinigungen sind zu verzinsen; die Verzinsung beginnt
@@ -5969,6 +6111,7 @@ vollständig gezahlt oder beigetrieben wurde.
 
 
 ##### § 81g Verjährung der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030600125)
 
 (1) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach § 81
 bestimmt sich nach den Vorschriften des Gesetzes über
@@ -6007,10 +6150,12 @@ anhängig ist.
 
 
 #### Abschnitt 2 - Kronzeugenprogramm
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019600125)
 
 
 
 ##### § 81h Ziel und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030700125)
 
 (1) Die Kartellbehörde kann an Kartellen beteiligten natürlichen
 Personen, Unternehmen und Unternehmensvereinigungen
@@ -6031,6 +6176,7 @@ Verwaltungsgrundsätze sind im Bundesanzeiger zu veröffentlichen.
 
 
 ##### § 81i Antrag auf Kronzeugenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030800125)
 
 (1) Eine Kronzeugenbehandlung ist nur auf Antrag möglich.
 Kartellbeteiligte können wegen einer verfolgbaren Tat einen Antrag auf
@@ -6061,6 +6207,7 @@ Eingang des Antrags mit Datum und Uhrzeit.
 
 
 ##### § 81j Allgemeine Voraussetzungen für die Kronzeugenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE030900125)
 
 (1) Die Kronzeugenbehandlung kann nur gewährt werden, wenn der
 Antragsteller
@@ -6131,6 +6278,7 @@ Kronzeugenbehandlung gemäß § 81i Absatz 2 gestellt ist.
 
 
 ##### § 81k Erlass der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031000125)
 
 (1) Die Kartellbehörde sieht von der Verhängung einer Geldbuße
 gegenüber einem Kartellbeteiligten ab, wenn er
@@ -6168,6 +6316,7 @@ zwingen.
 
 
 ##### § 81l Ermäßigung der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031100125)
 
 (1) Die Kartellbehörde kann gegenüber einem Kartellbeteiligten die
 Geldbuße ermäßigen, wenn er
@@ -6198,6 +6347,7 @@ begünstigten Kartellbeteiligten nicht berücksichtigt.
 
 
 ##### § 81m Marker
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031200125)
 
 (1) Ein Kartellbeteiligter kann sich an die Kartellbehörde wenden, um
 zunächst die Bereitschaft zur Zusammenarbeit zu erklären (Marker), um
@@ -6243,6 +6393,7 @@ Markers vorgelegt.
 
 
 ##### § 81n Kurzantrag
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031300125)
 
 (1) Die Kartellbehörde nimmt von Kartellbeteiligten, die bei der
 Europäischen Kommission in Bezug auf dasselbe Kartell einen Antrag auf
@@ -6272,10 +6423,12 @@ Kronzeugenbehandlung.
 
 
 #### Abschnitt 3 - Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019700125)
 
 
 
 ##### § 82 Zuständigkeiten in Kartellbußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009506125)
 
 (1) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind
@@ -6327,6 +6480,7 @@ Durchsuchungen, unterrichten.
 
 
 ##### § 82a Befugnisse und Zuständigkeiten im Verfahren nach Einspruchseinlegung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE018904125)
 
 (1) Im Verfahren nach Einspruch gegen eine Bußgeldentscheidung ist §
 69 Absatz 4 und 5 Satz 1 zweiter Halbsatz des Gesetzes über
@@ -6353,6 +6507,7 @@ Kosten trägt.
 
 
 ##### § 82b Besondere Ermittlungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031400125)
 
 (1) In Verfahren zur Festsetzung einer Geldbuße nach § 81 oder zur
 Festsetzung eines Haftungsbetrages nach § 81e sind über § 46 Absatz 2
@@ -6376,6 +6531,7 @@ anzuwenden.
 
 
 ##### § 83 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009605125)
 
 (1) Im gerichtlichen Verfahren wegen einer Ordnungswidrigkeit nach §
 81 entscheidet das Oberlandesgericht, in dessen Bezirk die zuständige
@@ -6393,6 +6549,7 @@ Mitgliedern mit Einschluss des vorsitzenden Mitglieds.
 
 
 ##### § 84 Rechtsbeschwerde zum Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009704118)
 
 Über die Rechtsbeschwerde (§ 79 des Gesetzes über
 Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die
@@ -6402,6 +6559,7 @@ Entscheidung aufgehoben wird, zurück.
 
 
 ##### § 85 Wiederaufnahmeverfahren gegen Bußgeldbescheid
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009803360)
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der
 Kartellbehörde (§ 85 Absatz 4 des Gesetzes über Ordnungswidrigkeiten)
@@ -6409,6 +6567,7 @@ entscheidet das nach § 83 zuständige Gericht.
 
 
 ##### § 86 Gerichtliche Entscheidungen bei der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE009903360)
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen
 Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
@@ -6416,10 +6575,12 @@ von dem nach § 83 zuständigen Gericht erlassen.
 
 
 ### Kapitel 3 - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG011603118)
 
 
 
 #### § 86a Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE019003125)
 
 Die Kartellbehörde kann ihre Anordnungen nach den für die
 Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
@@ -6432,10 +6593,12 @@ betragen.
 
 
 ### Kapitel 4 - Bürgerliche Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG010005118)
 
 
 
 #### § 87 Ausschließliche Zuständigkeit der Landgerichte
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010110125)
 
 Für bürgerliche Rechtsstreitigkeiten, die die Anwendung von
 Vorschriften des Teils 1, des Artikels 101 oder 102 des Vertrages über
@@ -6453,6 +6616,7 @@ Verordnung (EU) 2022/1925 abhängt.
 
 
 #### § 88 Klageverbindung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010205125)
 
 Mit der Klage nach § 87 kann die Klage wegen eines anderen Anspruchs
 verbunden werden, wenn dieser im rechtlichen oder unmittelbaren
@@ -6463,6 +6627,7 @@ Zuständigkeit gegeben ist.
 
 
 #### § 89 Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010304125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 bürgerliche Rechtsstreitigkeiten, für die nach § 87 ausschließlich die
@@ -6484,6 +6649,7 @@ Regelung nach den Absätzen 1 und 2 gehören würde.
 
 
 #### § 89a Streitwertanpassung, Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE019103118)
 
 (1) Macht in einer Rechtsstreitigkeit, in der ein Anspruch nach den §§
 33, 33a Absatz 1 oder § 34a geltend gemacht wird, eine Partei
@@ -6523,6 +6689,7 @@ Nebeninterventionen den Streitwert der Hauptsache nicht übersteigen.
 
 
 #### § 89b Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029002125)
 
 (1) Für die Erteilung von Auskünften gemäß § 33g gilt § 142 der
 Zivilprozessordnung entsprechend.
@@ -6618,6 +6785,7 @@ Absatz findet sofortige Beschwerde statt.
 
 
 #### § 89c Offenlegung aus der Behördenakte
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029101125)
 
 (1) In einem Rechtsstreit wegen eines Anspruchs nach § 33a Absatz 1
 oder nach § 33g Absatz 1 oder 2 kann das Gericht auf Antrag einer
@@ -6730,6 +6898,7 @@ beteiligen.
 
 
 #### § 89d Beweisregeln
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029200118)
 
 (1) Beweismittel, die allein durch Einsicht in die Akten einer
 Wettbewerbsbehörde oder nach § 89c erlangt worden sind, können nur
@@ -6769,6 +6938,7 @@ eine Vorlage nach § 89c Absatz 1 bis 4 und 6 vorliegen müssen.
 
 
 #### § 89e Gemeinsame Vorschriften für die §§ 33g und 89b bis 89d
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE029301125)
 
 (1) Wettbewerbsbehörden im Sinne der §§ 33g und 89b bis 89d sind
 
@@ -6815,10 +6985,12 @@ für Unternehmen geltende Wettbewerbsrecht durchzusetzen.
 
 
 ### Kapitel 5 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG011403118)
 
 
 
 #### § 90 Benachrichtigung und Beteiligung der Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010408125)
 
 (1) Die deutschen Gerichte unterrichten das Bundeskartellamt über alle
 Rechtsstreitigkeiten, deren Entscheidung ganz oder teilweise von der
@@ -6869,6 +7041,7 @@ die Zuständigkeit anderer Bundesbehörden fällt.
 
 
 #### § 90a Zusammenarbeit der Gerichte mit der Europäischen Kommission und den Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE019205125)
 
 (1) In allen gerichtlichen Verfahren, in denen der Artikel 101 oder
 102 des Vertrages über die Arbeitsweise der Europäischen Union oder
@@ -6904,6 +7077,7 @@ Bundeskartellamt erfolgen.
 
 
 #### § 91 Kartellsenat beim Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010506360)
 
 Bei den Oberlandesgerichten wird ein Kartellsenat gebildet. Er
 entscheidet über die ihm gemäß § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§
@@ -6916,6 +7090,7 @@ Rechtsstreitigkeiten betreffen.
 
 
 #### § 92 Zuständigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts für mehrere Gerichtsbezirke in Verwaltungs- und Bußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010605125)
 
 (1) Sind in einem Land mehrere Oberlandesgerichte errichtet, so können
 die Rechtssachen, für die nach § 57 Absatz 2 Satz 2, § 73 Absatz 4, §§
@@ -6933,6 +7108,7 @@ oder das gesamte Gebiet mehrerer Länder begründet werden.
 
 
 #### § 93 Zuständigkeit für Berufung und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010705125)
 
 § 92 Absatz 1 und 2 gilt entsprechend für die Entscheidung über die
 Berufung gegen Endurteile und die Beschwerde gegen sonstige
@@ -6940,6 +7116,7 @@ Entscheidungen in bürgerlichen Rechtsstreitigkeiten nach § 87.
 
 
 #### § 94 Kartellsenat beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010808360)
 
 (1) Beim Bundesgerichtshof wird ein Kartellsenat gebildet; er
 entscheidet im ersten und letzten Rechtszug über die in § 73 Absatz 5
@@ -6994,28 +7171,34 @@ Gerichtsverfassungsgesetzes in Bußgeldsachen als Strafsenat, in allen
 
 
 #### § 95 Ausschließliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE010903360)
 
 Die Zuständigkeit der nach diesem Gesetz zur Entscheidung berufenen
 Gerichte ist ausschließlich.
 
 
 #### § 96 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE011005360)
 
 
 
 ## Teil 4 - Vergabe von öffentlichen Aufträgen und Konzessionen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG002404118)
 
 
 
 ### Kapitel 1 - Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018200118)
 
 
 
 #### Abschnitt 1 - Grundsätze, Definitionen und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG002504118)
 
 
 
 ##### § 97 Grundsätze der Vergabe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE014405118)
 
 (1) Öffentliche Aufträge und Konzessionen werden im Wettbewerb und im
 Wege transparenter Verfahren vergeben. Dabei werden die Grundsätze der
@@ -7050,6 +7233,7 @@ Vergabeverfahren eingehalten werden.
 
 
 ##### § 98 Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE014505118)
 
 Auftraggeber im Sinne dieses Teils sind öffentliche Auftraggeber im
 Sinne des § 99, Sektorenauftraggeber im Sinne des § 100 und
@@ -7057,6 +7241,7 @@ Konzessionsgeber im Sinne des § 101.
 
 
 ##### § 99 Öffentliche Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE014608118)
 
 Öffentliche Auftraggeber sind
 
@@ -7107,6 +7292,7 @@ Konzessionsgeber im Sinne des § 101.
 
 
 ##### § 100 Sektorenauftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE014708118)
 
 (1) Sektorenauftraggeber sind
 
@@ -7161,6 +7347,7 @@ gemäß § 99 Nummer 1 bis 3
 
 
 ##### § 101 Konzessionsgeber
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE014807118)
 
 (1) Konzessionsgeber sind
 
@@ -7184,6 +7371,7 @@ gemäß § 99 Nummer 1 bis 3
 
 
 ##### § 102 Sektorentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015005118)
 
 (1) Sektorentätigkeiten im Bereich Wasser sind
 
@@ -7301,6 +7489,7 @@ Einzelhandel. Die Erzeugung von Gas fällt unter Absatz 6.
 
 
 ##### § 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015105118)
 
 (1) Öffentliche Aufträge sind entgeltliche Verträge zwischen
 öffentlichen Auftraggebern oder Sektorenauftraggebern und Unternehmen
@@ -7359,6 +7548,7 @@ sollen.
 
 
 ##### § 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015205118)
 
 (1) Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge
 sind öffentliche Aufträge, deren Auftragsgegenstand mindestens eine
@@ -7409,6 +7599,7 @@ militärische Zwecke im Sinne des Absatzes 1 Nummer 4, und
 
 
 ##### § 105 Konzessionen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015305118)
 
 (1) Konzessionen sind entgeltliche Verträge, mit denen ein oder
 mehrere Konzessionsgeber ein oder mehrere Unternehmen
@@ -7449,6 +7640,7 @@ Das Betriebsrisiko kann ein Nachfrage- oder Angebotsrisiko sein.
 
 
 ##### § 106 Schwellenwerte
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015410118)
 
 (1) Dieser Teil gilt für die Vergabe von öffentlichen Aufträgen und
 Konzessionen sowie die Ausrichtung von Wettbewerben, deren geschätzter
@@ -7496,6 +7688,7 @@ bekannt.
 
 
 ##### § 107 Allgemeine Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015506360)
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen und Konzessionen
@@ -7574,6 +7767,7 @@ berührt sein, wenn der öffentliche Auftrag oder die Konzession
 
 
 ##### § 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015604118)
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen, die von einem öffentlichen Auftraggeber im Sinne des § 99
@@ -7704,6 +7898,7 @@ Absatz 1 Nummer 1 und 2 hinsichtlich der Vergabe von Konzessionen.
 
 
 ##### § 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015704118)
 
 (1) Dieser Teil ist nicht anzuwenden, wenn öffentliche Aufträge,
 Wettbewerbe oder Konzessionen
@@ -7745,6 +7940,7 @@ Verteidigung und Sicherheit ist § 150 Nummer 7 anzuwenden.
 
 
 ##### § 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015806118)
 
 (1) Öffentliche Aufträge, die verschiedene Leistungen wie Liefer-,
 Bau- oder Dienstleistungen zum Gegenstand haben, werden nach den
@@ -7771,6 +7967,7 @@ oder Dienstleistungen am höchsten ist.
 
 
 ##### § 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE015905118)
 
 (1) Sind die verschiedenen Teile eines öffentlichen Auftrags, die
 jeweils unterschiedlichen rechtlichen Regelungen unterliegen, objektiv
@@ -7852,6 +8049,7 @@ Nummer 1 und 2 sowie die Absätze 4 und 5 entsprechend anzuwenden.
 
 
 ##### § 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016004118)
 
 (1) Umfasst ein öffentlicher Auftrag mehrere Tätigkeiten, von denen
 eine Tätigkeit eine Sektorentätigkeit im Sinne des § 102 darstellt,
@@ -7930,6 +8128,7 @@ hauptsächlich bestimmt ist, unterliegt die Vergabe
 
 
 ##### § 113 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016105118)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen mit
 Zustimmung des Bundesrates die Einzelheiten zur Vergabe von
@@ -7990,6 +8189,7 @@ unveränderten Rechtsverordnungen dem Bundesrat zugeleitet.
 
 
 ##### § 114 Monitoring und Vergabestatistik
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016208125)
 
 (1) Die obersten Bundesbehörden und die Länder erstatten in ihrem
 jeweiligen Zuständigkeitsbereich dem Bundesministerium für Wirtschaft
@@ -8015,14 +8215,17 @@ und der Anwendung der entsprechenden Verpflichtungen zu regeln.
 
 
 #### Abschnitt 2 - Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG002604118)
 
 
 
 ##### Unterabschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018300118)
 
 
 
 ###### § 115 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016306118)
 
 Dieser Abschnitt ist anzuwenden auf die Vergabe von öffentlichen
 Aufträgen und die Ausrichtung von Wettbewerben durch öffentliche
@@ -8030,6 +8233,7 @@ Auftraggeber.
 
 
 ###### § 116 Besondere Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016406118)
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen durch öffentliche Auftraggeber, wenn diese Aufträge
@@ -8127,6 +8331,7 @@ zu ermöglichen.
 
 
 ###### § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016505118)
 
 Bei öffentlichen Aufträgen und Wettbewerben, die Verteidigungs- oder
 Sicherheitsaspekte umfassen, ohne verteidigungs- oder
@@ -8194,6 +8399,7 @@ anzuwenden,
 
 
 ###### § 118 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016606118)
 
 (1) Öffentliche Auftraggeber können das Recht zur Teilnahme an
 Vergabeverfahren Werkstätten für Menschen mit Behinderungen und
@@ -8209,10 +8415,12 @@ oder benachteiligte Personen sind.
 
 
 ##### Unterabschnitt 2 - Vergabeverfahren und Auftragsausführung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018400118)
 
 
 
 ###### § 119 Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016704118)
 
 (1) Die Vergabe von öffentlichen Aufträgen erfolgt im offenen
 Verfahren, im nicht offenen Verfahren, im Verhandlungsverfahren, im
@@ -8254,6 +8462,7 @@ Unternehmen über die Erst- und Folgeangebote.
 
 
 ###### § 120 Besondere Methoden und Instrumente in Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016807118)
 
 (1) Ein dynamisches Beschaffungssystem ist ein zeitlich befristetes,
 ausschließlich elektronisches Verfahren zur Beschaffung marktüblicher
@@ -8289,6 +8498,7 @@ unberührt.
 
 
 ###### § 121 Leistungsbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE016906118)
 
 (1) In der Leistungsbeschreibung ist der Auftragsgegenstand so
 eindeutig und erschöpfend wie möglich zu beschreiben, sodass die
@@ -8309,6 +8519,7 @@ Konzeption für alle Nutzer zu berücksichtigen.
 
 
 ###### § 122 Eignung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017004118)
 
 (1) Öffentliche Aufträge werden an fachkundige und leistungsfähige
 (geeignete) Unternehmen vergeben, die nicht nach den §§ 123 oder 124
@@ -8342,6 +8553,7 @@ Interessensbestätigung aufzuführen.
 
 
 ###### § 123 Zwingende Ausschlussgründe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017108125)
 
 (1) Öffentliche Auftraggeber schließen ein Unternehmen zu jedem
 Zeitpunkt des Vergabeverfahrens von der Teilnahme aus, wenn sie
@@ -8447,6 +8659,7 @@ bleibt unberührt.
 
 
 ###### § 124 Fakultative Ausschlussgründe
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017209125)
 
 (1) Öffentliche Auftraggeber können unter Berücksichtigung des
 Grundsatzes der Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt
@@ -8534,6 +8747,7 @@ Lieferkettensorgfaltspflichtengesetzes vom 16. Juli 2021 (BGBl. I S.
 
 
 ###### § 125 Selbstreinigung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017306125)
 
 (1) Öffentliche Auftraggeber schließen ein Unternehmen, bei dem ein
 Ausschlussgrund nach § 123 oder § 124 vorliegt, nicht von der
@@ -8570,6 +8784,7 @@ begründen.
 
 
 ###### § 126 Zulässiger Zeitraum für Ausschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017404118)
 
 Wenn ein Unternehmen, bei dem ein Ausschlussgrund vorliegt, keine oder
 keine ausreichenden Selbstreinigungsmaßnahmen nach § 125 ergriffen
@@ -8589,6 +8804,7 @@ hat, darf es
 
 
 ###### § 127 Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017512118)
 
 (1) Der Zuschlag wird auf das wirtschaftlichste Angebot erteilt.
 Grundlage dafür ist eine Bewertung des öffentlichen Auftraggebers, ob
@@ -8622,6 +8838,7 @@ Auftragsbekanntmachung oder den Vergabeunterlagen aufgeführt werden.
 
 
 ###### § 128 Auftragsausführung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017607118)
 
 (1) Unternehmen haben bei der Ausführung des öffentlichen Auftrags
 alle für sie geltenden rechtlichen Verpflichtungen einzuhalten,
@@ -8648,6 +8865,7 @@ Schutz der Vertraulichkeit von Informationen umfassen.
 
 
 ###### § 129 Zwingend zu berücksichtigende Ausführungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE017707118)
 
 Ausführungsbedingungen, die der öffentliche Auftraggeber dem
 beauftragten Unternehmen verbindlich vorzugeben hat, dürfen nur
@@ -8655,6 +8873,7 @@ aufgrund eines Bundes- oder Landesgesetzes festgelegt werden.
 
 
 ###### § 130 Vergabe von öffentlichen Aufträgen über soziale und andere besondere Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE011107118)
 
 (1) Bei der Vergabe von öffentlichen Aufträgen über soziale und andere
 besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie
@@ -8673,6 +8892,7 @@ mehr als 20 Prozent des ursprünglichen Auftragswertes beträgt.
 
 
 ###### § 131 Vergabe von öffentlichen Aufträgen über Personenverkehrsleistungen im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE011209118)
 
 (1) Bei der Vergabe von öffentlichen Aufträgen, deren Gegenstand
 Personenverkehrsleistungen im Eisenbahnverkehr sind, stehen
@@ -8712,6 +8932,7 @@ hierzu erforderlichen Angaben zu machen.
 
 
 ###### § 132 Auftragsänderungen während der Vertragslaufzeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022400118)
 
 (1) Wesentliche Änderungen eines öffentlichen Auftrags während der
 Vertragslaufzeit erfordern ein neues Vergabeverfahren. Wesentlich sind
@@ -8835,6 +9056,7 @@ der Europäischen Union bekannt zu machen.
 
 
 ###### § 133 Kündigung von öffentlichen Aufträgen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022500118)
 
 (1) Unbeschadet des § 135 können öffentliche Auftraggeber einen
 öffentlichen Auftrag während der Vertragslaufzeit kündigen, wenn
@@ -8869,6 +9091,7 @@ Kündigung nicht ausgeschlossen.
 
 
 ###### § 134 Informations- und Wartepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022600118)
 
 (1) Öffentliche Auftraggeber haben die Bieter, deren Angebote nicht
 berücksichtigt werden sollen, über den Namen des Unternehmens, dessen
@@ -8899,6 +9122,7 @@ lauteren Wettbewerb zwischen ihnen beeinträchtigen könnte.
 
 
 ###### § 135 Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022700118)
 
 (1) Ein öffentlicher Auftrag ist von Anfang an unwirksam, wenn der
 öffentliche Auftraggeber
@@ -8953,14 +9177,17 @@ erhalten soll, umfassen.
 
 
 #### Abschnitt 3 - Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG003004118)
 
 
 
 ##### Unterabschnitt 1 - Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018500118)
 
 
 
 ###### § 136 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022800118)
 
 Dieser Unterabschnitt ist anzuwenden auf die Vergabe von öffentlichen
 Aufträgen und die Ausrichtung von Wettbewerben durch
@@ -8968,6 +9195,7 @@ Sektorenauftraggeber zum Zweck der Ausübung einer Sektorentätigkeit.
 
 
 ###### § 137 Besondere Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE022900118)
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen durch Sektorenauftraggeber zum Zweck der Ausübung einer
@@ -9037,6 +9265,7 @@ Folgendes zum Gegenstand haben:
 
 
 ###### § 138 Besondere Ausnahme für die Vergabe an verbundene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023000118)
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen,
@@ -9107,6 +9336,7 @@ Absatz 3 geforderten Umsatzziels wahrscheinlich ist.
 
 
 ###### § 139 Besondere Ausnahme für die Vergabe durch oder an ein Gemeinschaftsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023100118)
 
 (1) Dieser Teil ist nicht anzuwenden auf die Vergabe von öffentlichen
 Aufträgen,
@@ -9140,6 +9370,7 @@ Aufträgen,
 
 
 ###### § 140 Besondere Ausnahme für unmittelbar dem Wettbewerb ausgesetzte Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023201125)
 
 (1) Dieser Teil ist nicht anzuwenden auf öffentliche Aufträge, die zum
 Zweck der Ausübung einer Sektorentätigkeit vergeben werden, wenn die
@@ -9159,6 +9390,7 @@ entsprechend.
 
 
 ###### § 141 Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023400118)
 
 (1) Sektorenauftraggebern stehen das offene Verfahren, das nicht
 offene Verfahren, das Verhandlungsverfahren mit Teilnahmewettbewerb
@@ -9170,6 +9402,7 @@ aufgrund dieses Gesetzes gestattet ist.
 
 
 ###### § 142 Sonstige anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023300118)
 
 Im Übrigen gelten für die Vergabe von öffentlichen Aufträgen durch
 Sektorenauftraggeber zum Zweck der Ausübung von Sektorentätigkeiten
@@ -9193,6 +9426,7 @@ die §§ 118 und 119, soweit in § 141 nicht abweichend geregelt, die §§
 
 
 ###### § 143 Regelung für Auftraggeber nach dem Bundesberggesetz
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023500118)
 
 (1) Sektorenauftraggeber, die nach dem Bundesberggesetz berechtigt
 sind, Erdöl, Gas, Kohle oder andere feste Brennstoffe aufzusuchen oder
@@ -9222,10 +9456,12 @@ Befreiung von der Pflicht zur Anwendung dieser Bestimmung erreichen.
 
 
 ##### Unterabschnitt 2 - Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018600118)
 
 
 
 ###### § 144 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023600118)
 
 Dieser Unterabschnitt ist anzuwenden auf die Vergabe von
 verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
@@ -9233,6 +9469,7 @@ durch öffentliche Auftraggeber und Sektorenauftraggeber.
 
 
 ###### § 145 Besondere Ausnahmen für die Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023700118)
 
 Dieser Teil ist nicht anzuwenden auf die Vergabe von verteidigungs-
 oder sicherheitsspezifischen öffentlichen Aufträgen, die
@@ -9331,6 +9568,7 @@ oder sicherheitsspezifischen öffentlichen Aufträgen, die
 
 
 ###### § 146 Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023800118)
 
 Bei der Vergabe von verteidigungs- oder sicherheitsspezifischen
 öffentlichen Aufträgen stehen öffentlichen Auftraggebern und
@@ -9342,6 +9580,7 @@ dieses Gesetzes gestattet ist.
 
 
 ###### § 147 Sonstige anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE023900118)
 
 Im Übrigen gelten für die Vergabe von verteidigungs- oder
 sicherheitsspezifischen öffentlichen Aufträgen die §§ 119, 120, 121
@@ -9355,16 +9594,19 @@ kann auch mit Hilfe geschützter Datenquellen erfolgen.
 
 
 ##### Unterabschnitt 3 - Vergabe von Konzessionen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018700118)
 
 
 
 ###### § 148 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024000118)
 
 Dieser Unterabschnitt ist anzuwenden auf die Vergabe von Konzessionen
 durch Konzessionsgeber.
 
 
 ###### § 149 Besondere Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024100118)
 
 Dieser Teil ist nicht anzuwenden auf die Vergabe von:
 
@@ -9465,6 +9707,7 @@ Dieser Teil ist nicht anzuwenden auf die Vergabe von:
 
 
 ###### § 150 Besondere Ausnahmen für die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024201360)
 
 Dieser Teil ist nicht anzuwenden auf die Vergabe von Konzessionen in
 den Bereichen Verteidigung und Sicherheit,
@@ -9550,6 +9793,7 @@ den Bereichen Verteidigung und Sicherheit,
 
 
 ###### § 151 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024300118)
 
 Konzessionsgeber geben die Absicht bekannt, eine Konzession zu
 vergeben. Auf die Veröffentlichung der Konzessionsvergabeabsicht darf
@@ -9561,6 +9805,7 @@ ausgestalten.
 
 
 ###### § 152 Anforderungen im Konzessionsvergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024400118)
 
 (1) Zur Leistungsbeschreibung ist § 121 Absatz 1 und 3 entsprechend
 anzuwenden.
@@ -9586,6 +9831,7 @@ entsprechend anzuwenden.
 
 
 ###### § 153 Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024500118)
 
 Für das Verfahren zur Vergabe von Konzessionen, die soziale und andere
 besondere Dienstleistungen im Sinne des Anhangs IV der Richtlinie
@@ -9593,6 +9839,7 @@ besondere Dienstleistungen im Sinne des Anhangs IV der Richtlinie
 
 
 ###### § 154 Sonstige anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024601125)
 
 Im Übrigen sind für die Vergabe von Konzessionen einschließlich der
 Konzessionen nach § 153 folgende Vorschriften entsprechend anzuwenden:
@@ -9659,14 +9906,17 @@ Konzessionen nach § 153 folgende Vorschriften entsprechend anzuwenden:
 
 
 ### Kapitel 2 - Nachprüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018800118)
 
 
 
 #### Abschnitt 1 - Nachprüfungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG018900118)
 
 
 
 ##### § 155 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024700118)
 
 Unbeschadet der Prüfungsmöglichkeiten von Aufsichtsbehörden unterliegt
 die Vergabe öffentlicher Aufträge und von Konzessionen der Nachprüfung
@@ -9674,6 +9924,7 @@ durch die Vergabekammern.
 
 
 ##### § 156 Vergabekammern
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024800118)
 
 (1) Die Nachprüfung der Vergabe öffentlicher Aufträge und der Vergabe
 von Konzessionen nehmen die Vergabekammern des Bundes für die dem Bund
@@ -9693,6 +9944,7 @@ bleiben unberührt.
 
 
 ##### § 157 Besetzung, Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE024900118)
 
 (1) Die Vergabekammern üben ihre Tätigkeit im Rahmen der Gesetze
 unabhängig und in eigener Verantwortung aus.
@@ -9725,6 +9977,7 @@ unterworfen.
 
 
 ##### § 158 Einrichtung, Organisation
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025100118)
 
 (1) Der Bund richtet die erforderliche Anzahl von Vergabekammern beim
 Bundeskartellamt ein. Einrichtung und Besetzung der Vergabekammern
@@ -9744,6 +9997,7 @@ einrichten.
 
 
 ##### § 159 Abgrenzung der Zuständigkeit der Vergabekammern
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025200118)
 
 (1) Die Vergabekammer des Bundes ist zuständig für die Nachprüfung der
 Vergabeverfahren
@@ -9800,10 +10054,12 @@ nur eine zuständige Vergabekammer.
 
 
 #### Abschnitt 2 - Verfahren vor der Vergabekammer
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019000118)
 
 
 
 ##### § 160 Einleitung, Antrag
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025300118)
 
 (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag
 ein.
@@ -9847,6 +10103,7 @@ bleibt unberührt.
 
 
 ##### § 161 Form, Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025400118)
 
 (1) Der Antrag ist schriftlich bei der Vergabekammer einzureichen und
 unverzüglich zu begründen. Er soll ein bestimmtes Begehren enthalten.
@@ -9864,6 +10121,7 @@ Beteiligten benennen.
 
 
 ##### § 162 Verfahrensbeteiligte, Beiladung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025500118)
 
 Verfahrensbeteiligte sind der Antragsteller, der Auftraggeber und die
 Unternehmen, deren Interessen durch die Entscheidung schwerwiegend
@@ -9872,6 +10130,7 @@ worden sind. Die Entscheidung über die Beiladung ist unanfechtbar.
 
 
 ##### § 163 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025601125)
 
 (1) Die Vergabekammer erforscht den Sachverhalt von Amts wegen. Sie
 kann sich dabei auf das beschränken, was von den Beteiligten
@@ -9893,6 +10152,7 @@ sofort zur Verfügung zu stellen. Die §§ 57 bis 59 Absatz 1 bis 4, §
 
 
 ##### § 164 Aufbewahrung vertraulicher Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025700118)
 
 (1) Die Vergabekammer stellt die Vertraulichkeit von Verschlusssachen
 und anderen vertraulichen Informationen sicher, die in den von den
@@ -9905,6 +10165,7 @@ nicht erkennen lassen.
 
 
 ##### § 165 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025800118)
 
 (1) Die Beteiligten können die Akten bei der Vergabekammer einsehen
 und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen,
@@ -9926,6 +10187,7 @@ sofortigen Beschwerde in der Hauptsache angegriffen werden.
 
 
 ##### § 166 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE025900118)
 
 (1) Die Vergabekammer entscheidet aufgrund einer mündlichen
 Verhandlung, die sich auf einen Termin beschränken soll. Alle
@@ -9940,6 +10202,7 @@ verhandelt und entschieden werden.
 
 
 ##### § 167 Beschleunigung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026000118)
 
 (1) Die Vergabekammer trifft und begründet ihre Entscheidung
 schriftlich innerhalb einer Frist von fünf Wochen ab Eingang des
@@ -9957,6 +10220,7 @@ bleiben kann.
 
 
 ##### § 168 Entscheidung der Vergabekammer
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026101125)
 
 (1) Die Vergabekammer entscheidet, ob der Antragsteller in seinen
 Rechten verletzt ist und trifft die geeigneten Maßnahmen, um eine
@@ -9980,6 +10244,7 @@ Millionen Euro. § 61 Absatz 1 und 2 gilt entsprechend.
 
 
 ##### § 169 Aussetzung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026201360)
 
 (1) Informiert die Vergabekammer den Auftraggeber in Textform über den
 Antrag auf Nachprüfung, darf dieser vor einer Entscheidung der
@@ -10051,16 +10316,19 @@ sowie Absatz 3 und 4 ist entsprechend anzuwenden.
 
 
 ##### § 170 Ausschluss von abweichendem Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026301360)
 
 Soweit dieser Abschnitt Regelungen zum Verwaltungsverfahren enthält,
 darf hiervon durch Landesrecht nicht abgewichen werden.
 
 
 #### Abschnitt 3 - Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG019100118)
 
 
 
 ##### § 171 Zulässigkeit, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026400118)
 
 (1) Gegen Entscheidungen der Vergabekammer ist die sofortige
 Beschwerde zulässig. Sie steht den am Verfahren vor der Vergabekammer
@@ -10083,6 +10351,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ##### § 172 Frist, Form, Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026500118)
 
 (1) Die sofortige Beschwerde ist binnen einer Notfrist von zwei
 Wochen, die mit der Zustellung der Entscheidung, im Fall des § 171
@@ -10112,6 +10381,7 @@ Verfahrens vor der Vergabekammer vom Beschwerdeführer durch
 
 
 ##### § 173 Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026601360)
 
 (1) Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der
 Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt
@@ -10158,12 +10428,14 @@ Beschwerdegericht die Entscheidung der Vergabekammer nach § 176 oder §
 
 
 ##### § 174 Beteiligte am Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026700118)
 
 An dem Verfahren vor dem Beschwerdegericht beteiligt sind die an dem
 Verfahren vor der Vergabekammer Beteiligten.
 
 
 ##### § 175 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026801125)
 
 (1) Vor dem Beschwerdegericht müssen sich die Beteiligten durch einen
 Rechtsanwalt als Bevollmächtigten vertreten lassen. Juristische
@@ -10176,6 +10448,7 @@ die §§ 165 und 167 Absatz 2 Satz 1 sind entsprechend anzuwenden.
 
 
 ##### § 176 Vorabentscheidung über den Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE026901360)
 
 (1) Auf Antrag des Auftraggebers oder auf Antrag des Unternehmens, das
 nach § 134 vom Auftraggeber als das Unternehmen benannt ist, das den
@@ -10231,6 +10504,7 @@ Rechtsmittel nicht zulässig.
 
 
 ##### § 177 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027000118)
 
 Ist der Auftraggeber mit einem Antrag nach § 176 vor dem
 Beschwerdegericht unterlegen, gilt das Vergabeverfahren nach Ablauf
@@ -10241,6 +10515,7 @@ Verfahren darf nicht fortgeführt werden.
 
 
 ##### § 178 Beschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027100118)
 
 Hält das Gericht die Beschwerde für begründet, so hebt es die
 Entscheidung der Vergabekammer auf. In diesem Fall entscheidet das
@@ -10253,6 +10528,7 @@ entsprechend.
 
 
 ##### § 179 Bindungswirkung und Vorlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027200118)
 
 (1) Wird wegen eines Verstoßes gegen Vergabevorschriften
 Schadensersatz begehrt und hat ein Verfahren vor der Vergabekammer
@@ -10273,6 +10549,7 @@ scheint. Die Vorlagepflicht gilt nicht im Verfahren nach § 173 Absatz
 
 
 ##### § 180 Schadensersatz bei Rechtsmissbrauch
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027300118)
 
 (1) Erweist sich der Antrag nach § 160 oder die sofortige Beschwerde
 nach § 171 als von Anfang an ungerechtfertigt, ist der Antragsteller
@@ -10306,6 +10583,7 @@ entstandenen Schaden zu ersetzen.
 
 
 ##### § 181 Anspruch auf Ersatz des Vertrauensschadens
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027400118)
 
 Hat der Auftraggeber gegen eine den Schutz von Unternehmen bezweckende
 Vorschrift verstoßen und hätte das Unternehmen ohne diesen Verstoß bei
@@ -10317,6 +10595,7 @@ Weiterreichende Ansprüche auf Schadensersatz bleiben unberührt.
 
 
 ##### § 182 Kosten des Verfahrens vor der Vergabekammer
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027500118)
 
 (1) Für Amtshandlungen der Vergabekammern werden Kosten (Gebühren und
 Auslagen) zur Deckung des Verwaltungsaufwandes erhoben. Das
@@ -10357,6 +10636,7 @@ Kostenfestsetzungsverfahren findet nicht statt.
 
 
 ##### § 183 Korrekturmechanismus der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027600118)
 
 (1) Erhält die Bundesregierung im Laufe eines Vergabeverfahrens vor
 Abschluss des Vertrags eine Mitteilung der Europäischen Kommission,
@@ -10381,6 +10661,7 @@ Ausgang des Verfahrens zu informieren.
 
 
 ##### § 184 Unterrichtungspflichten der Nachprüfungsinstanzen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027700118)
 
 Die Vergabekammern und die Oberlandesgerichte unterrichten das
 Bundesministerium für Wirtschaft und Energie bis zum 31. Januar eines
@@ -10389,10 +10670,12 @@ und deren Ergebnisse.
 
 
 ## Teil 5 - Anwendungsbereich der Teile 1 bis 3
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG011105118)
 
 
 
 ### § 185 Unternehmen der öffentlichen Hand, Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027802125)
 
 (1) Die Vorschriften des Ersten bis Dritten Teils dieses Gesetzes sind
 auch auf Unternehmen anzuwenden, die ganz oder teilweise im Eigentum
@@ -10424,10 +10707,12 @@ nicht für Privatisierungen nach § 17b Absatz 2 Satz 3 oder § 20 Absatz
 
 
 ## Teil 6 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNG011205125)
 
 
 
 ### § 186 Anwendungsbestimmung zu § 47k
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE031500125)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz hat
 
@@ -10450,6 +10735,7 @@ machen.
 
 
 ### § 187 Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gwb/BJNR252110998.html#BJNR252110998BJNE027906125)
 
 (1) § 29 ist nach dem 31. Dezember 2027 nicht mehr anzuwenden.
 

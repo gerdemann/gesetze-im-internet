@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Grundsätze der Lastentragung
+[Direktlink](https://www.gesetze-im-internet.de/lastg/BJNR210500006.html#BJNR210500006BJNE000100000)
 
 (1) Verpflichtungen der Bundesrepublik Deutschland zu finanzwirksamen
 Leistungen wegen der Verletzung supranationaler oder völkerrechtlicher
@@ -37,6 +38,7 @@ anderes bestimmt.
 
 
 ## § 2 Länderübergreifende Finanzkorrekturen der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/lastg/BJNR210500006.html#BJNR210500006BJNE000200000)
 
 (1) Eine Finanzkorrektur der Europäischen Gemeinschaften liegt vor,
 wenn die Europäische Kommission entscheidet, dass Ausgaben der
@@ -73,6 +75,7 @@ Eine weitergehende Lastentragung des Bundes ist ausgeschlossen.
 
 
 ## § 3 Sanktionen auf Grund von Artikel 228 des Vertrags zur Gründung der Europäischen Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/lastg/BJNR210500006.html#BJNR210500006BJNE000300000)
 
 Verurteilt der Gerichtshof der Europäischen Gemeinschaften die
 Bundesrepublik Deutschland zur Zahlung eines Pauschalbetrages oder
@@ -83,6 +86,7 @@ im Königsteiner Schlüssel.
 
 
 ## § 4 Verletzungen von Verpflichtungen durch die Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/lastg/BJNR210500006.html#BJNR210500006BJNE000400000)
 
 (1) Erfolgt die Verurteilung wegen einer Verletzung von
 Verpflichtungen durch die Gerichte, ist für die Lastenzuordnung nach §
@@ -98,6 +102,7 @@ an der Verfahrensdauer getragen.
 
 
 ## § 5 Erstattung durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/lastg/BJNR210500006.html#BJNR210500006BJNE000500000)
 
 (1) Soweit der Bund die Leistungspflichten im Außenverhältnis zu der
 zwischenstaatlichen Einrichtung erfüllt oder die finanziellen Lasten

@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt 2190-2 G v. 7.7.1997 I 1650 (BKAG 1997)
 
 ## Abschnitt 1 - Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten, Aufgaben des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000100000)
 
 
 ### § 1 Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000200000)
 
 (1) Der Bund unterhält ein Bundeskriminalamt zur Zusammenarbeit des
 Bundes und der Länder in kriminalpolizeilichen Angelegenheiten.
@@ -40,6 +42,7 @@ gesetzlich nichts anderes bestimmt ist.
 
 
 ### § 2 Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000300000)
 
 (1) Das Bundeskriminalamt unterstützt als Zentralstelle für das
 polizeiliche Auskunfts- und Nachrichtenwesen und für die
@@ -143,6 +146,7 @@ Polizeidienststellen, Staatsanwaltschaften und Gerichten.
 
 
 ### § 3 Internationale Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000402116)
 
 (1) Das Bundeskriminalamt ist Nationales Zentralbüro der
 Bundesrepublik Deutschland für die Internationale Kriminalpolizeiliche
@@ -255,6 +259,7 @@ zuständigen zwischen- und überstaatlichen Stellen führen.
 
 
 ### § 4 Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000502130)
 
 (1) Das Bundeskriminalamt nimmt die polizeilichen Aufgaben auf dem
 Gebiet der Strafverfolgung wahr
@@ -378,6 +383,7 @@ geben. Die oberste Landesbehörde ist unverzüglich zu benachrichtigen.
 
 
 ### § 5 Abwehr von Gefahren des internationalen Terrorismus
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000601116)
 
 (1) Das Bundeskriminalamt kann die Aufgabe der Abwehr von Gefahren des
 internationalen Terrorismus in Fällen wahrnehmen, in denen
@@ -434,6 +440,7 @@ zur Bekämpfung der Verbreitung terroristischer Online-Inhalte (ABl. L
 
 
 ### § 6 Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000701116)
 
 (1) Unbeschadet der Rechte des Präsidenten des Deutschen Bundestages
 und der Zuständigkeit der Bundespolizei und der Polizeien der Länder
@@ -476,6 +483,7 @@ Bau und Heimat im Einvernehmen mit der obersten Landesbehörde.
 
 
 ### § 7 Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000800000)
 
 (1) In den Fällen des § 4 Absatz 1 und 2 Satz 1 obliegt dem
 Bundeskriminalamt der Schutz von Personen, deren Aussage zur
@@ -499,6 +507,7 @@ unberührt.
 
 
 ### § 8 Sicherung des Bundeskriminalamtes, behördlicher Eigenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE000900000)
 
 (1) Dem Bundeskriminalamt obliegt die Sicherung seiner behördlichen
 Liegenschaften, sonstigen Einrichtungen und eigenen Veranstaltungen
@@ -514,12 +523,15 @@ Bundeskriminalamt tätig werden sollen.
 
 
 ## Abschnitt 2 - Allgemeine Befugnisse zur Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000200000)
 
 
 ### Unterabschnitt 1 - Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000300000)
 
 
 #### § 9 Allgemeine Datenerhebung durch und Datenübermittlung an das Bundeskriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001001125)
 
 (1) Das Bundeskriminalamt kann, soweit dies zur Erfüllung seiner
 Aufgabe als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6
@@ -610,6 +622,7 @@ verpflichtet sind.
 
 
 #### § 10 Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001106130)
 
 (1) Zur Erfüllung der Aufgabe als Zentralstelle nach § 2 Absatz 2
 Nummer 1 und Absatz 6 darf nach Maßgabe der nachfolgenden Vorschriften
@@ -765,6 +778,7 @@ finden entsprechend Anwendung.
 
 
 #### § 10a Erhebung von Nutzerdaten zur Identifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009305130)
 
 (1) Das Bundeskriminalamt darf im Rahmen seiner Aufgaben als
 Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 von demjenigen,
@@ -812,6 +826,7 @@ finden entsprechend Anwendung.
 
 
 #### § 11 Aufzeichnung eingehender Telefonanrufe
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001200000)
 
 Das Bundeskriminalamt kann Telefonanrufe aufzeichnen, die über
 Rufnummern eingehen, die der Öffentlichkeit bekannt gegeben wurden
@@ -832,9 +847,11 @@ Aufgaben nach den §§ 4 bis 6 benötigt.
 
 
 ### Unterabschnitt 2 - Weiterverarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000400000)
 
 
 #### § 12 Zweckbindung, Grundsatz der hypothetischen Datenneuerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001300000)
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten, die es selbst
 erhoben hat, weiterverarbeiten
@@ -919,6 +936,7 @@ sicher, dass die Absätze 1 bis 4 beachtet werden.
 
 
 #### § 13 Informationssystem des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001401130)
 
 (1) Das Bundeskriminalamt betreibt ein Informationssystem zur
 Erfüllung seiner Aufgaben nach den §§ 2 bis 8.
@@ -953,6 +971,7 @@ nach § 29 teil.
 
 
 #### § 14 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001500000)
 
 (1) Bei der Speicherung im Informationssystem sind personenbezogene
 Daten wie folgt zu kennzeichnen:
@@ -995,6 +1014,7 @@ Kennzeichnung nach Absatz 1 durch diese Stelle aufrechtzuerhalten.
 
 
 #### § 15 Regelung von Zugriffsberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001600000)
 
 (1) Das Bundeskriminalamt hat bei der Erteilung von
 Zugriffsberechtigungen der Nutzer des Informationssystems
@@ -1035,6 +1055,7 @@ Bundeskriminalamtes erfolgt.
 
 
 #### § 16 Datenweiterverarbeitung im Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001701116)
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten nach Maßgabe des
 § 12 im Informationssystem weiterverarbeiten, soweit dies zur
@@ -1110,6 +1131,7 @@ weiterverarbeiten:
 
 
 #### § 17 Projektbezogene gemeinsame Dateien
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001801116)
 
 (1) Das Bundeskriminalamt kann für die Dauer einer befristeten
 projektbezogenen Zusammenarbeit mit den Verfassungsschutzbehörden des
@@ -1231,6 +1253,7 @@ den Sätzen 1 und 3 ist unverzüglich nachzuholen.
 
 
 #### § 18 Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE001900000)
 
 (1) Das Bundeskriminalamt kann zur Erfüllung seiner Aufgaben nach § 2
 Absatz 1 bis 3 personenbezogene Daten weiterverarbeiten von
@@ -1318,6 +1341,7 @@ nicht rechtswidrig begangen hat.
 
 
 #### § 19 Daten zu anderen Personen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002000000)
 
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige
 Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist,
@@ -1381,6 +1405,7 @@ die Voraussetzungen nach Absatz 1 oder Absatz 2 erfüllt.
 
 
 #### § 20 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002102116)
 
 Das Bundesministerium des Innern, für Bau und Heimat bestimmt durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
@@ -1422,6 +1447,7 @@ bestimmt es insbesondere
 
 
 #### § 21 Weiterverarbeitung für die wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002200000)
 
 (1) Das Bundeskriminalamt kann im Rahmen seiner Aufgaben bei ihm
 vorhandene personenbezogene Daten, wenn dies für bestimmte
@@ -1499,6 +1525,7 @@ ist und das Bundeskriminalamt zugestimmt hat.
 
 
 #### § 22 Weiterverarbeitung von Daten zur Aus- und Fortbildung, zu statistischen Zwecken und zur Vorgangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002300000)
 
 (1) Das Bundeskriminalamt kann bei ihm vorhandene personenbezogene
 Daten zur polizeilichen Aus- und Fortbildung oder zu statistischen
@@ -1516,6 +1543,7 @@ weiterverarbeiten.
 
 
 #### § 23 Elektronische Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002401116)
 
 (1) Die Akten des Bundeskriminalamtes sollen elektronisch geführt
 werden.
@@ -1532,6 +1560,7 @@ Strafverfahren bleiben unberührt.
 
 
 #### § 24 Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002500000)
 
 (1) Das Bundeskriminalamt kann von seinen Mitarbeiterinnen und
 Mitarbeitern, die Umgang mit Spurenmaterial haben oder die Bereiche in
@@ -1581,9 +1610,11 @@ Löschung der erhobenen Daten zu informieren.
 
 
 ### Unterabschnitt 3 - Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000500000)
 
 
 #### § 25 Datenübermittlung im innerstaatlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002601116)
 
 (1) Das Bundeskriminalamt kann unter Beachtung des § 12 Absatz 2 bis 4
 an andere Polizeien des Bundes und an Polizeien der Länder
@@ -1686,6 +1717,7 @@ ist unzulässig.
 
 
 #### § 26 Datenübermittlung an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002700000)
 
 (1) § 25 gilt entsprechend für die Übermittlung von personenbezogenen
 Daten an
@@ -1722,6 +1754,7 @@ Besitzstandes anwenden.
 
 
 #### § 27 Datenübermittlung im internationalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002802116)
 
 (1) Das Bundeskriminalamt kann unter Beachtung des § 12 Absatz 2 bis 4
 und unter Beachtung der §§ 78 bis 80 des Bundesdatenschutzgesetzes an
@@ -1854,6 +1887,7 @@ dass Straftaten von erheblicher Bedeutung begangen werden sollen.
 
 
 #### § 28 Übermittlungsverbote und Verweigerungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE002900000)
 
 (1) Die Übermittlung nach den Vorschriften dieses Gesetzes
 unterbleibt, wenn
@@ -1918,9 +1952,11 @@ und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (ABl. L
 
 
 ## Abschnitt 3 - Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000600000)
 
 
 ### § 29 Polizeilicher Informationsverbund, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003005130)
 
 (1) Das Bundeskriminalamt ist im Rahmen seiner Aufgabe nach § 2 Absatz
 3 Zentralstelle für den polizeilichen Informationsverbund zwischen
@@ -2025,6 +2061,7 @@ wegen ihrer besonderen Eilbedürftigkeit angemessen ist.
 
 
 ### § 30 Verbundrelevanz
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003100000)
 
 (1) Die am polizeilichen Informationsverbund teilnehmenden Stellen
 verarbeiten im polizeilichen Informationsverbund ausschließlich
@@ -2066,6 +2103,7 @@ Datenschutz und die Informationsfreiheit.
 
 
 ### § 30a Besondere Regelungen für die Weiterverarbeitung personenbezogener Daten im polizeilichen Informationsverbund
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009800130)
 
 (1) Für die Weiterverarbeitung von Daten im polizeilichen
 Informationsverbund gelten § 12 Absatz 2 bis 5, die §§ 14, 15 und 16
@@ -2084,6 +2122,7 @@ Verfolgung beitragen kann.
 
 
 ### § 31 Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003200000)
 
 (1) Das Bundeskriminalamt hat als Zentralstelle für den polizeilichen
 Informationsverbund die Einhaltung der Regelungen zur Zusammenarbeit
@@ -2113,6 +2152,7 @@ den Datenschutz zuständig sind, zusammen.
 
 
 ### § 32 Unterrichtung der Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003300000)
 
 (1) Die Landeskriminalämter übermitteln dem Bundeskriminalamt nach
 Maßgabe der Rechtsverordnung nach § 20 die zur Erfüllung seiner
@@ -2170,6 +2210,7 @@ den Absätzen 1 bis 3 trägt die übermittelnde Stelle.
 
 
 ### § 33 Ausschreibungen bei der Zusammenarbeit im internationalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003401116)
 
 (1) Das Bundeskriminalamt kann auf ein der Verfolgung von Straftaten
 oder der Strafvollstreckung dienendes Ersuchen einer zuständigen
@@ -2294,6 +2335,7 @@ Senatsinnenverwaltungen der Länder sind unverzüglich zu unterrichten.
 
 
 ### § 33a Schengener Informationssystem (SIS)
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009601116)
 
 (1) Als zentrale nationale Stelle nach § 3 Absatz 2 Nummer 2 ist das
 Bundeskriminalamt dafür zuständig, ein einheitliches nationales System
@@ -2348,6 +2390,7 @@ nationalen Teils des SIS.
 
 
 ### § 33b Auf das SIS zugriffsberechtigte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009701116)
 
 (1) Die auf Grundlage der in § 33a Absatz 1 Satz 1 genannten
 Verordnungen auf das SIS zugriffsberechtigten staatlichen Stellen sind
@@ -2515,9 +2558,11 @@ der Vorschriften über den Datenschutz zuständig sind, zusammen.
 
 
 ## Abschnitt 4 - Befugnisse im Rahmen der Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000700000)
 
 
 ### § 34 Einsatz technischer Mittel zur Eigensicherung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003500000)
 
 (1) Werden vom Bundeskriminalamt beauftragte Personen im Rahmen der
 Befugnisse des Bundeskriminalamtes aus Gründen der Strafverfolgung
@@ -2570,6 +2615,7 @@ die in Absatz 4 genannten Zwecke noch benötigt.
 
 
 ### § 35 Unterstützung der Polizeibehörden der Länder bei der Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003600000)
 
 (1) Zur Unterstützung von Strafverfolgungsmaßnahmen kann das
 Bundeskriminalamt Bedienstete zu den Polizeibehörden in den Ländern
@@ -2581,6 +2627,7 @@ Polizeibehörden in den Ländern bleibt unberührt.
 
 
 ### § 36 Koordinierung bei der Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003700000)
 
 (1) Berührt eine Straftat den Bereich mehrerer Länder oder besteht ein
 Zusammenhang mit einer anderen Straftat in einem anderen Land und ist
@@ -2601,6 +2648,7 @@ Polizeibehörde im Land für zuständig erklären.
 
 
 ### § 37 Amtshandlungen, Unterstützungspflichten der Länder
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003800000)
 
 (1) Vollzugsbeamtinnen und Vollzugsbeamte des Bundes und der Länder
 können in den Fällen des § 4 Absatz 1 und 2 und des § 36 Absatz 1 im
@@ -2631,9 +2679,11 @@ werden, wenn das jeweilige Landesrecht es vorsieht.
 
 
 ## Abschnitt 5 - Befugnisse zur Abwehr von Gefahren des internationalen Terrorismus
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000800000)
 
 
 ### § 38 Allgemeine Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE003900000)
 
 (1) Das Bundeskriminalamt kann zur Erfüllung seiner Aufgabe nach § 5
 Absatz 1 Satz 1 die notwendigen Maßnahmen treffen, um eine Gefahr
@@ -2647,6 +2697,7 @@ Straftaten nach § 5 Absatz 1 Satz 2.
 
 
 ### § 39 Erhebung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004000000)
 
 (1) Das Bundeskriminalamt kann, sofern in diesem Abschnitt nichts
 anderes bestimmt ist, personenbezogene Daten erheben, soweit dies zur
@@ -2686,6 +2737,7 @@ Annahme rechtfertigen, dass
 
 
 ### § 40 Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004104130)
 
 (1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig
 Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
@@ -2794,6 +2846,7 @@ finden entsprechend Anwendung.
 
 
 ### § 41 Befragung und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004200000)
 
 (1) Das Bundeskriminalamt kann eine Person befragen, wenn Tatsachen
 die Annahme rechtfertigen, dass die Person sachdienliche Angaben für
@@ -2832,6 +2885,7 @@ Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
 
 
 ### § 42 Identitätsfeststellung und Prüfung von Berechtigungsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004300000)
 
 (1) Wenn Tatsachen die Annahme rechtfertigen, dass eine Straftat nach
 § 5 Absatz 1 Satz 2 begangen werden soll, kann das Bundeskriminalamt
@@ -2875,6 +2929,7 @@ mitzuführen.
 
 
 ### § 43 Erkennungsdienstliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004400000)
 
 (1) Ist eine nach § 42 Absatz 1 zulässige Identitätsfeststellung auf
 andere Weise nicht oder nur unter erheblichen Schwierigkeiten möglich,
@@ -2889,6 +2944,7 @@ Sind die Unterlagen an andere Stellen übermittelt worden, sind diese
 
 
 ### § 44 Vorladung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004500000)
 
 (1) Das Bundeskriminalamt kann eine Person schriftlich oder mündlich
 vorladen, wenn
@@ -2908,6 +2964,7 @@ vorladen, wenn
 
 
 ### § 45 Besondere Mittel der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004601130)
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten mit den
 besonderen Mitteln nach Absatz 2 erheben über
@@ -3126,6 +3183,7 @@ unverzüglich nachzuholen.
 
 
 ### § 46 Besondere Bestimmungen über den Einsatz technischer Mittel in oder aus Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004700000)
 
 (1) Das Bundeskriminalamt kann zur Abwehr einer dringenden Gefahr für
 den Bestand oder die Sicherheit des Bundes oder eines Landes oder für
@@ -3267,6 +3325,7 @@ unverzüglich nachzuholen.
 
 
 ### § 47 Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004801116)
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten, insbesondere
 die Personalien einer Person und die von ihr genutzten oder
@@ -3343,6 +3402,7 @@ zu löschen.
 
 
 ### § 48 Rasterfahndung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE004900000)
 
 (1) Das Bundeskriminalamt kann von öffentlichen oder nichtöffentlichen
 Stellen die Übermittlung von personenbezogenen Daten von bestimmten
@@ -3388,6 +3448,7 @@ durch das Gericht angeordnet werden.
 
 
 ### § 49 Verdeckter Eingriff in informationstechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005000000)
 
 (1) Das Bundeskriminalamt darf ohne Wissen der betroffenen Person mit
 technischen Mitteln in von der betroffenen Person genutzte
@@ -3525,6 +3586,7 @@ unverzüglich nachzuholen.
 
 
 ### § 50 Postbeschlagnahme und Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005101116)
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person
 Postsendungen und Telegramme beschlagnahmen, die sich im Gewahrsam von
@@ -3687,6 +3749,7 @@ nicht verwertet werden.
 
 
 ### § 51 Überwachung der Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005200000)
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person die
 Telekommunikation einer Person überwachen und aufzeichnen,
@@ -3860,6 +3923,7 @@ unverzüglich nachzuholen.
 
 
 ### § 52 Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005303130)
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person
 Verkehrsdaten (§§ 9 und 12 des Telekommunikation-Digitale-Dienste-
@@ -3919,6 +3983,7 @@ erschwert wäre.
 
 
 ### § 53 Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005400000)
 
 (1) Das Bundeskriminalamt kann unter den Voraussetzungen des § 51
 Absatz 1 durch technische Mittel ermitteln:
@@ -3952,6 +4017,7 @@ mitzuteilen.
 
 
 ### § 54 Platzverweisung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005500000)
 
 Das Bundeskriminalamt kann zur Abwehr einer Gefahr eine Person
 vorübergehend von einem Ort verweisen oder ihr vorübergehend das
@@ -3959,6 +4025,7 @@ Betreten eines Ortes verbieten.
 
 
 ### § 55 Aufenthaltsvorgabe und Kontaktverbot
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005600000)
 
 (1) Das Bundeskriminalamt kann zur Abwehr einer Gefahr oder zur
 Verhütung von Straftaten nach § 5 Absatz 1 Satz 2 einer Person
@@ -4063,6 +4130,7 @@ nicht mehr vor, ist die Maßnahme unverzüglich zu beenden.
 
 
 ### § 56 Elektronische Aufenthaltsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005700000)
 
 (1) Das Bundeskriminalamt kann eine Person dazu verpflichten, ein
 technisches Mittel, mit dem der Aufenthaltsort dieser Person
@@ -4233,6 +4301,7 @@ beenden.
 
 
 ### § 57 Gewahrsam
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005800000)
 
 (1) Das Bundeskriminalamt kann eine Person in Gewahrsam nehmen, wenn
 dies unerlässlich ist,
@@ -4253,6 +4322,7 @@ die Maßnahme nach Absatz 1 tritt.
 
 
 ### § 58 Durchsuchung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE005900000)
 
 (1) Das Bundeskriminalamt kann eine Person durchsuchen, wenn
 
@@ -4293,6 +4363,7 @@ Dritten gegen eine Gefahr für Leib oder Leben erforderlich ist.
 
 
 ### § 59 Durchsuchung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006000000)
 
 (1) Das Bundeskriminalamt kann eine Sache durchsuchen, wenn
 
@@ -4330,6 +4401,7 @@ Anhaltspunkten erforderlich ist. § 42 Absatz 1 bleibt unberührt.
 
 
 ### § 60 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006100000)
 
 (1) Das Bundeskriminalamt kann eine Sache sicherstellen,
 
@@ -4360,6 +4432,7 @@ Anhaltspunkten erforderlich ist. § 42 Absatz 1 bleibt unberührt.
 
 
 ### § 61 Betreten und Durchsuchen von Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006200000)
 
 (1) Das Bundeskriminalamt kann eine Wohnung ohne Einwilligung des
 Inhabers betreten und durchsuchen, wenn
@@ -4404,6 +4477,7 @@ Aufenthaltszeit betreten werden.
 
 
 ### § 62 Schutz zeugnisverweigerungsberechtigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006300000)
 
 (1) Maßnahmen nach diesem Abschnitt, die sich gegen eine in § 53
 Absatz 1 Satz 1 Nummer 1, 2, 3 oder Nummer 4 der Strafprozessordnung
@@ -4444,9 +4518,11 @@ Gefahr verantwortlich ist.
 
 
 ## Abschnitt 6 - Befugnisse zum Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG000900000)
 
 
 ### § 63 Allgemeine Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006400000)
 
 (1) Zur Erfüllung seiner Aufgaben nach § 6 kann das Bundeskriminalamt
 die notwendigen Maßnahmen treffen, um eine im Einzelfall bestehende
@@ -4542,6 +4618,7 @@ Absatz 2 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ### § 63a Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009501130)
 
 (1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig
 Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
@@ -4651,6 +4728,7 @@ machen.
 
 
 ### § 64 Besondere Mittel der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006500000)
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten mit den
 besonderen Mitteln nach Absatz 2 erheben über
@@ -4735,6 +4813,7 @@ mehr erforderlich sind.
 
 
 ### § 65 Ausschreibung zur polizeilichen Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006601116)
 
 (1) Das Bundeskriminalamt kann eine Ausschreibung zur polizeilichen
 Beobachtung, Ermittlungsanfrage oder gezielten Kontrolle vornehmen,
@@ -4764,9 +4843,11 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 
 ## Abschnitt 7 - Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001000000)
 
 
 ### § 66 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006700000)
 
 (1) Zur Erfüllung seiner Aufgabe nach § 7 kann das Bundeskriminalamt,
 soweit nicht dieses Gesetz oder das Zeugenschutz-Harmonisierungsgesetz
@@ -4793,6 +4874,7 @@ Staatsanwaltschaft zu unterrichten.
 
 
 ### § 66a Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009403130)
 
 (1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig
 Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über
@@ -4895,9 +4977,11 @@ machen.
 
 
 ## Abschnitt 8 - Befugnisse zur Sicherung des Bundeskriminalamtes und zum behördlichen Eigenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001100000)
 
 
 ### § 67 Befugnisse zur Sicherung des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006800000)
 
 Das Bundeskriminalamt kann zur Erfüllung seiner Aufgabe nach § 8
 Absatz 1 die erforderlichen Maßnahmen treffen, um Gefahren für seine
@@ -4907,6 +4991,7 @@ Veranstaltungen abzuwehren. § 63 Absatz 2, 4 bis 6 und 8 sowie die §§
 
 
 ### § 68 Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE006900000)
 
 Für Personen, die für das Bundeskriminalamt tätig werden sollen, ist
 eine einfache Sicherheitsüberprüfung nach dem
@@ -4915,12 +5000,15 @@ Sicherheitsüberprüfungsgesetzes gilt entsprechend.
 
 
 ## Abschnitt 9 - Datenschutz und Datensicherheit, Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001200000)
 
 
 ### Unterabschnitt 1 - Datenschutzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001300000)
 
 
 #### § 69 Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007000000)
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit führt, unbeschadet ihrer oder seiner in § 14 des
@@ -4942,9 +5030,11 @@ Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
 
 
 ### Unterabschnitt 2 - Datenschutzbeauftragte oder Datenschutzbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001400000)
 
 
 #### § 70 Benennung der oder des Datenschutzbeauftragten des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007101116)
 
 Unbeschadet des § 5 Absatz 1 des Bundesdatenschutzgesetzes benennt das
 Bundeskriminalamt im Einvernehmen mit dem Bundesministerium des
@@ -4957,6 +5047,7 @@ Bundesministerium des Innern, für Bau und Heimat herzustellen.
 
 
 #### § 71 Aufgaben der oder des Datenschutzbeauftragten des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007200000)
 
 (1) Unbeschadet seiner in § 7 des Bundesdatenschutzgesetzes genannten
 Aufgaben arbeitet die oder der Datenschutzbeauftragte des
@@ -4973,6 +5064,7 @@ Steuergeheimnis nach § 30 der Abgabenordnung, unterliegen.
 
 
 #### § 72 Stellung der oder des Datenschutzbeauftragten des Bundeskriminalamtes und Zusammenarbeit mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007301116)
 
 (1) Die oder der Datenschutzbeauftragte des Bundeskriminalamtes ist
 der Leitung des Bundeskriminalamtes unmittelbar zu unterstellen.
@@ -4988,9 +5080,11 @@ entscheidet das Bundesministerium des Innern, für Bau und Heimat.
 
 
 ### Unterabschnitt 3 - Datenschutzrechtliche Verantwortung für die Tätigkeit der an deutsche Auslandsvertretungen abgeordneten Verbindungsbeamtinnen und Verbindungsbeamten des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001500000)
 
 
 #### § 73 Datenschutzrechtliche Verantwortung der Verbindungsbeamtinnen und Verbindungsbeamten des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007400000)
 
 Die datenschutzrechtliche Verantwortung für die Tätigkeit der an
 deutsche Auslandsvertretungen abgeordneten Verbindungsbeamtinnen und
@@ -4999,9 +5093,11 @@ Bundeskriminalamt.
 
 
 ### Unterabschnitt 4 - Pflichten des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001600000)
 
 
 #### § 74 Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007500000)
 
 (1) Über eine Maßnahme nach den §§ 34, 45 bis 53 und 64 sind zu
 benachrichtigen im Falle
@@ -5124,6 +5220,7 @@ letzten Maßnahme.
 
 
 #### § 75 Benachrichtigung über die Speicherung personenbezogener Daten von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007600000)
 
 Werden personenbezogene Daten von Kindern, die ohne Kenntnis der
 Sorgeberechtigten erhoben worden sind, gespeichert, sind die
@@ -5136,6 +5233,7 @@ dateneingebenden Stelle.
 
 
 #### § 76 Nachträgliche Benachrichtigung über Ausschreibungen zur polizeilichen Beobachtung im Schengener Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007701116)
 
 (1) Ist eine Ausschreibung zur polizeilichen Beobachtung nach Artikel
 36 Absatz 1 der Verordnung (EU) 2018/1862 durch eine Bundes- oder
@@ -5175,6 +5273,7 @@ Gefährdung des Zwecks der Ausschreibung ausgeschlossen werden kann.
 
 
 #### § 77 Aussonderungsprüffrist; Mitteilung von Löschungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007803130)
 
 (1) Das Bundeskriminalamt prüft nach § 75 des
 Bundesdatenschutzgesetzes bei der Einzelfallbearbeitung und nach
@@ -5299,6 +5398,7 @@ erneute Aussonderungsprüffrist festgelegt werden.
 
 
 #### § 78 Berichtigung personenbezogener Daten sowie die Einschränkung der Verarbeitung in Akten sowie Vernichtung von Akten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE007900000)
 
 (1) Stellt das Bundeskriminalamt die Unrichtigkeit personenbezogener
 Daten in Akten fest, ist die in § 75 Absatz 1 des
@@ -5355,6 +5455,7 @@ und 5 gelten entsprechend.
 
 
 #### § 79 Löschung von durch Maßnahmen zur Abwehr von Gefahren des internationalen Terrorismus oder vergleichbaren Maßnahmen erlangten personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008000000)
 
 (1) Sind die durch eine in Abschnitt 5 genannte Maßnahme oder durch
 Maßnahmen nach § 34 oder § 64 erlangten personenbezogenen Daten, die
@@ -5384,6 +5485,7 @@ Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
 
 #### § 80 Verzeichnis von Verarbeitungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008100000)
 
 (1) Das Bundeskriminalamt nimmt in das Verzeichnis nach § 70 des
 Bundesdatenschutzgesetzes Angaben auf zu
@@ -5436,6 +5538,7 @@ und die Informationsfreiheit zur Verfügung.
 
 
 #### § 81 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008201125)
 
 (1) Die Protokollierung nach § 76 des Bundesdatenschutzgesetzes
 erfolgt zu Verarbeitungsvorgängen im Informationssystem ergänzend zu
@@ -5496,6 +5599,7 @@ das Bundesministerium des Innern, für Bau und Heimat.
 
 
 #### § 82 Protokollierung bei verdeckten und eingriffsintensiven Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008300000)
 
 (1) Bei der Erhebung von Daten nach den §§ 34, 45 bis 53 und 64 sind
 zu protokollieren:
@@ -5638,6 +5742,7 @@ genannten Zweck noch erforderlich sind.
 
 
 #### § 83 Benachrichtigung der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bei Verletzungen des Schutzes personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008400000)
 
 Bei einer Verletzung des Schutzes personenbezogener Daten sind die
 teilnehmenden Behörden im Rahmen des polizeilichen
@@ -5647,9 +5752,11 @@ eingegebene Daten betroffen sind.
 
 
 ### Unterabschnitt 5 - Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001700000)
 
 
 #### § 84 Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008501116)
 
 (1) Über die in den §§ 57 und 58 des Bundesdatenschutzgesetzes
 enthaltenen Rechte der betroffenen Person hinaus gilt für die
@@ -5677,6 +5784,7 @@ des Schengener Informationssystems zu prüfen.
 
 
 #### § 85 Ausübung der Betroffenenrechte im polizeilichen Informationsverbund sowie bei projektbezogenen gemeinsamen Dateien
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008600000)
 
 Sind die Daten der betroffenen Person beim Bundeskriminalamt
 automatisiert in der Weise gespeichert, dass mehrere Stellen
@@ -5693,9 +5801,11 @@ nach § 57 Absatz 7 Satz 3 und 6 des Bundesdatenschutzgesetzes.
 
 
 ### Unterabschnitt 6 - Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001800000)
 
 
 #### § 86 Schadensersatz im polizeilichen Informationsverbund
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008700000)
 
 (1) Bei der Datenverarbeitung im polizeilichen Informationsverbund
 gilt das Bundeskriminalamt gegenüber einer betroffenen Person als
@@ -5709,9 +5819,11 @@ einer anderen Stelle zuzurechnen ist.
 
 
 ## Abschnitt 10 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNG001900000)
 
 
 ### § 87 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008800000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -5733,6 +5845,7 @@ bestraft, wer
 
 
 ### § 88 Berichtspflicht gegenüber dem Deutschen Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE008901116)
 
 Das Bundeskriminalamt berichtet dem Bundesministerium des Innern, für
 Bau und Heimat alle zwei Jahre, erstmals bis zum 1. Oktober 2019, über
@@ -5748,6 +5861,7 @@ Bundestag macht die Unterrichtung öffentlich zugänglich.
 
 
 ### § 89 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009000000)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2
 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2
@@ -5758,6 +5872,7 @@ des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 90 Gerichtliche Zuständigkeit, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009100000)
 
 (1) Für Maßnahmen nach den §§ 10, 33, 34, Abschnitt 5 und § 64 sowie
 für gerichtliche Entscheidungen nach § 74 gelten, soweit nichts
@@ -5781,6 +5896,7 @@ Löschung das Gericht anordnet, verpflichtet.
 
 
 ### § 91 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bkag_2018/BJNR135410017.html#BJNR135410017BJNE009200000)
 
 Abweichend von § 14 Absatz 2 ist eine Weiterverarbeitung oder
 Übermittlung personenbezogener Daten auch zulässig nach den

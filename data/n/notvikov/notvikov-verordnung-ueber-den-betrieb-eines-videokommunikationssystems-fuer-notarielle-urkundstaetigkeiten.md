@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000100000)
 
 Auf Grund des § 78p Absatz 3 der Bundesnotarordnung, der zuletzt durch
 Artikel 2 Nummer 3 Buchstabe b des Gesetzes vom 15. Juli 2022 (BGBl. I
@@ -33,6 +34,7 @@ Heimat:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000200000)
 
 Im Sinne dieser Verordnung bezeichnet:
 
@@ -159,6 +161,7 @@ Im Sinne dieser Verordnung bezeichnet:
 
 
 ## § 2 Technische Zugangsberechtigung zum Videokommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000300000)
 
 (1) Eine technische Zugangsberechtigung zum Videokommunikationssystem
 ist einzuräumen:
@@ -191,6 +194,7 @@ entsprechend.
 
 
 ## § 3 Einräumung der technischen Zugangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000400000)
 
 (1) Die technische Zugangsberechtigung nach § 2 Absatz 1 Nummer 1 und
 2 ist durch die Notarkammer einzuräumen.
@@ -260,6 +264,7 @@ dieses Absatzes steht deren Notarvertretung gleich.
 
 
 ## § 4 Wegfall und Entziehung der technischen Zugangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000500000)
 
 (1) Die Bundesnotarkammer hat im Zusammenwirken mit den Notarkammern
 sicherzustellen, dass eine technische Zugangsberechtigung endet, wenn
@@ -313,6 +318,7 @@ missbräuchlichen Verwendung nicht mehr besteht.
 
 
 ## § 5 Vorgang
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000600000)
 
 (1) In einem Vorgang dürfen zu einer Urkundstätigkeit folgende Daten
 zusammengefasst werden:
@@ -421,6 +427,7 @@ enthaltene personenbezogene Daten.
 
 
 ## § 6 Sicherungsmaßnahmen gegen Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000700000)
 
 Die Bundesnotarkammer hat geeignete technische und organisatorische
 Maßnahmen nach dem Stand der Technik zur Verhinderung der
@@ -430,6 +437,7 @@ Vorgänge zu treffen.
 
 
 ## § 7 Sichere informationstechnische Netze
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000800000)
 
 Das Videokommunikationssystem ist für Amtspersonen und die bei diesen
 beschäftigten Personen nur über solche informationstechnischen Netze
@@ -440,6 +448,7 @@ gesichert verbunden sind.
 
 
 ## § 8 Funktionen des Videokommunikationssystems
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE000900000)
 
 (1) Das Videokommunikationssystem hat folgende Funktionen zu
 ermöglichen:
@@ -488,6 +497,7 @@ der Barrierefreie-Informationstechnik-Verordnung berücksichtigen.
 
 
 ## § 9 Technische Abwicklung der Videokommunikation
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001000000)
 
 (1) Das Videokommunikationssystem hat die technische Abwicklung der
 Videokommunikation im Wege der Bild- und Tonübertragung zu
@@ -501,6 +511,7 @@ Videokommunikationsvorgang insgesamt zu beenden.
 
 
 ## § 10 Technische Abwicklung der Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001100000)
 
 (1) Das Videokommunikationssystem hat die technische Abwicklung der
 Identitätsfeststellung der Beteiligten und hinzugezogener Personen
@@ -561,6 +572,7 @@ sind unverzüglich zu löschen.
 
 
 ## § 11 Übermittlung elektronischer Dokumente zur Durchsicht
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001200000)
 
 (1) Das Videokommunikationssystem hat die Übermittlung elektronischer
 Dokumente durch die Amtsperson an die Nutzer zur Durchsicht zu
@@ -575,6 +587,7 @@ speichern.
 
 
 ## § 12 Erstellen qualifizierter elektronischer Signaturen
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001300000)
 
 (1) Das Videokommunikationssystem hat nach Maßgabe der folgenden
 Absätze durch Einbindung einer qualifizierten
@@ -624,6 +637,7 @@ ausgelesen werden:
 
 
 ## § 13 Rechtsgrundlagen der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001400000)
 
 (1) Soweit dies zur Registrierung eines Nutzers unter Nachweis seiner
 Identität nach § 3 Absatz 3 erforderlich ist, dürfen die nach § 3
@@ -680,6 +694,7 @@ werden.
 
 
 ## § 14 Speicherung und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001500000)
 
 (1) In einem Vorgang zusammengefasste Daten dürfen für einen Zeitraum
 von zwei Jahren gespeichert werden, um sie den zugriffsberechtigten
@@ -707,6 +722,7 @@ sind die Nutzerdaten unverzüglich zu löschen.
 
 
 ## § 15 Datenschutz, Daten- und Informationssicherheit und Vertraulichkeit, Funktions- und Sicherheitskonzept
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001600000)
 
 (1) Zum Schutz und zur Gewährleistung der Sicherheit und
 Vertraulichkeit der mittels des Videokommunikationssystems erfolgenden
@@ -822,6 +838,7 @@ Systems erforderlich ist.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/notvikov/BJNR119100022.html#BJNR119100022BJNE001700000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft.
 

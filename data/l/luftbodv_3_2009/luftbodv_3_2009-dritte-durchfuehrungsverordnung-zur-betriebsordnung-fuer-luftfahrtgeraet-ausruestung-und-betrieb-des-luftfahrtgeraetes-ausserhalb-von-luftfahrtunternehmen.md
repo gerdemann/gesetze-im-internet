@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000100000)
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 1, Absatz 3 Satz 2 und 3 und
 Absatz 4 Nummer 1 des Luftverkehrsgesetzes in der Fassung der
@@ -32,9 +33,11 @@ Luftfahrt-Bundesamt:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000300000)
 
 Diese Verordnung gilt für die Ausrüstung und den Betrieb des nach den
 Vorschriften der Luftverkehrs-Zulassungs-Ordnung zum Verkehr
@@ -44,13 +47,16 @@ Sachen.
 
 
 ## Abschnitt 2 - Ausrüstung von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000200000)
 
 
 ### Unterabschnitt 1 - Alle Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000300000)
 
 Ausrüstung für Flüge nach Instrumentenflugregeln
 
 #### § 2 (zu § 20 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000400000)
 
 (1) Motorgetriebene Luftfahrzeuge, die nach Instrumentenflugregeln
 geflogen werden, sind wie folgt auszurüsten:
@@ -121,6 +127,7 @@ zusätzlichen künstlichen Horizont auszurüsten.
 Ausrüstung für Flüge nach Instrumentenflugregeln über den Nordatlantik
 
 #### § 3 (zu § 20 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000500000)
 
 (1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln über den
 Nordatlantik zusätzlich zu der Ausrüstung nach § 2 mit zwei
@@ -210,6 +217,7 @@ Ausrüstung für Flüge in Lufträumen mit verringerter Höhenstaffelung
 (Reduced Vertical Separation Minimum, RVSM)
 
 #### § 4 (zu § 20 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000600000)
 
 (1) Flugzeuge müssen für Flüge nach Instrumentenflugregeln in
 Lufträumen mit verringerter Höhenstaffelung (RVSM-Lufträume) mit
@@ -265,6 +273,7 @@ beträgt.
 Ausrüstung für Flüge nach Sichtflugregeln
 
 #### § 5 (zu § 20 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000700000)
 
 (1) Für Flüge nach Sichtflugregeln am Tage sind motorgetriebene
 Luftfahrzeuge wie folgt auszurüsten:
@@ -326,6 +335,7 @@ auszurüsten:
 Ausrüstung für kontrollierte Flüge nach Sichtflugregeln
 
 #### § 6 (zu § 20 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000800000)
 
 Für kontrollierte Flüge nach Sichtflugregeln in dafür von der
 zuständigen Flugsicherungsorganisation festgelegten Lufträumen sind
@@ -349,6 +359,7 @@ Absatz 1 wie folgt auszurüsten:
 Ausrüstung von Segelflugzeugen für Wolkenflüge
 
 #### § 7 (zu § 20 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE000900000)
 
 Für Wolkenflüge sind Segelflugzeuge wie folgt auszurüsten:
 
@@ -372,6 +383,7 @@ Für Wolkenflüge sind Segelflugzeuge wie folgt auszurüsten:
 Sonstige Ausrüstung
 
 #### § 8 (zu §§ 19 bis 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001000000)
 
 Flugzeuge und Hubschrauber sind im Übrigen immer wie folgt
 auszurüsten:
@@ -402,6 +414,7 @@ auszurüsten:
 Durchbruchstellen
 
 #### § 9 (zu § 19 Absatz 1 Nummer 2 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001100000)
 
 (1) Wenn an einem Luftfahrzeug von außen aufbrechbare
 Rettungsöffnungen (Durchbruchstellen) gemäß den Angaben des
@@ -420,6 +433,7 @@ Markierungen liegen.
 Navigations- und Sprechfunkausrüstung
 
 #### § 10 (zu § 20 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001200000)
 
 Luftfahrzeuge müssen mit einer Navigations- und Sprechfunkausrüstung
 ausgestattet sein, die es ermöglicht, den Flug in Übereinstimmung mit
@@ -430,6 +444,7 @@ Flugverkehrskontrolldienstes durchzuführen.
 Sauerstoffversorgung
 
 #### § 11 (zu § 21 Absatz 2 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001300000)
 
 (1) Der erforderliche mitzuführende Sauerstoffvorrat richtet sich nach
 der Flughöhe, der Flugdauer in bestimmten Flughöhen und nach der
@@ -464,6 +479,7 @@ Flughöhe über Normal Null.
 Ausrüstung für Flüge über Land - Notausrüstung
 
 #### § 12 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001400000)
 
 Weist ein Staat, in dessen Luftraum der Flug durchgeführt werden soll,
 in seinem Luftfahrthandbuch (AIP – Aeronautical Information
@@ -477,10 +493,12 @@ erlassenen Vorschriften entsprechen.
 
 
 ### Unterabschnitt 2 - Flugzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000400000)
 
 Ausrüstung für Flüge über Wasser - Wasserflugzeuge
 
 #### § 13 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001500000)
 
 (1) Für Flüge über Wasser sind Wasserflugzeuge mit einer Ausrüstung,
 die zum Festmachen, Ankern und Manövrieren des Luftfahrzeuges auf dem
@@ -503,6 +521,7 @@ Amphibienflugzeuge, sofern sie als Wasserflugzeug betrieben werden.
 Ausrüstung für Flüge über Wasser - Landflugzeuge
 
 #### § 14 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001600000)
 
 (1) Wenn bei Flügen mit einmotorigen Landflugzeugen über Wasser die
 Entfernung von der nächsten Küste größer ist, als die jeweilige
@@ -517,6 +536,7 @@ Amphibienflugzeuge, sofern sie als Landflugzeuge betrieben werden.
 Ausrüstung für Flüge über Wasser - Alle Flugzeuge
 
 #### § 15 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001700000)
 
 (1) Für Flüge über Wasser, bei denen geeignete Flächen an Land zur
 Notlandung mehr als 93 Kilometer (50 Nautische Meilen) vom
@@ -546,6 +566,7 @@ zugänglich sind.
 Notsender
 
 #### § 16 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001800000)
 
 (1) Für Flüge ins Ausland müssen ab dem 1. Oktober 2009 alle Flugzeuge
 mit mindestens einem Notsender ausgerüstet sein, der auf 121,5
@@ -562,6 +583,7 @@ kann.
 Tonaufzeichnungsanlage für das Cockpit
 
 #### § 17 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE001900000)
 
 (1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als
 27 000 Kilogramm, die seit dem 1. Januar 1987 erstmals zum Verkehr
@@ -583,6 +605,7 @@ muss mindestens zwei Stunden betragen.
 Flugdatenschreiberanlage
 
 #### § 18 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002000000)
 
 (1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als
 27 000 Kilogramm, die am oder nach dem 1. Januar 1989 erstmals zum
@@ -617,6 +640,7 @@ der die per Datenverbindung ausgetauschten Daten aufzeichnet.
 Bodenannäherungswarnanlage
 
 #### § 19 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002100000)
 
 Ab dem 1. Oktober 2009 sind turbinengetriebene Flugzeuge mit einer
 höchstzulässigen Startmasse von mehr als 5 700 Kilogramm oder einer
@@ -628,6 +652,7 @@ ausgerüstet sind.
 Machzahlanzeige
 
 #### § 20 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002200000)
 
 Flugzeuge, deren Kompressibilitätsgrenzwerte auf den vorgeschriebenen
 Fahrtmessern nicht angezeigt werden, müssen mit einer Machzahlanzeige
@@ -636,6 +661,7 @@ ausgerüstet sein.
 Bordseitige Kollisionsschutzanlage
 
 #### § 21 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002300000)
 
 Turbinengetriebene Flugzeuge mit einer höchstzulässigen Startmasse von
 mehr als 5 700 Kilogramm oder mit einer Fluggastsitzzahl von mehr als
@@ -645,10 +671,12 @@ hinsichtlich der Leistungsanforderungen mindestens denen der Klasse II
 
 
 ### Unterabschnitt 3 - Hubschrauber
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000500000)
 
 Ausrüstung für Flüge über Wasser - Notschwimmeranlage
 
 #### § 22 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002400000)
 
 Folgende Hubschrauber, die für Flüge über Wasser eingesetzt werden,
 müssen mit einer dauerhaft entfalteten oder schnell entfaltbaren
@@ -669,6 +697,7 @@ Notschwimmeranlage ausgerüstet sein:
 Ausrüstung für Flüge über Wasser - Notausrüstung
 
 #### § 23 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002500000)
 
 (1) Hubschrauber dürfen für Flüge über Wasser nur betrieben werden,
 wenn für jede Person an Bord eine Schwimmweste mit einem Licht zur
@@ -694,6 +723,7 @@ zusätzlich mit folgender Notausrüstung auszustatten:
 Ausrüstung für Flüge über Wasser - Notsender
 
 #### § 24 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002600000)
 
 Ab dem 1. Oktober 2009 müssen alle Hubschrauber für Flüge über Wasser
 nach § 22 mit mindestens einem automatischen Notsender und einem
@@ -704,6 +734,7 @@ Megahertz senden können.
 Ausrüstung für Flüge über Land - Notsender
 
 #### § 25 (zu § 21 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002700000)
 
 (1) Für Flüge ins Ausland müssen ab dem 1. Oktober 2009 alle
 Hubschrauber mit mindestens einem automatischen Notsender ausgerüstet
@@ -716,6 +747,7 @@ Megahertz und 406 Megahertz senden kann.
 Tonaufzeichnungsanlage für das Cockpit
 
 #### § 26 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002800000)
 
 (1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als
 7 000 Kilogramm, die am oder nach dem 1. Januar 1987 erstmals zum
@@ -736,6 +768,7 @@ zugelassen worden sind, muss mindestens zwei Stunden betragen.
 Flugdatenschreiberanlage
 
 #### § 27 (zu § 22 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE002900000)
 
 (1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als
 7 000 Kilogramm, die nach dem 1. Januar 1989 erstmals zum Verkehr
@@ -769,9 +802,11 @@ sein, der die per Datenverbindung ausgetauschten Daten aufzeichnet.
 
 
 ### Unterabschnitt 4 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000600000)
 
 
 #### § 28 Ausnahmegenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003001305)
 
 (1) Das Luftfahrt-Bundesamt kann auf Antrag in begründeten Fällen
 befristet Ausnahmegenehmigungen von den Bestimmungen des § 8 Nummer 1
@@ -800,10 +835,12 @@ Ausrüstungsgegenstände sicher durchgeführt werden kann.
 
 
 ## Abschnitt 3 - Flugbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000700000)
 
 Herbeiführen simulierter Gefahrenzustände
 
 ### § 29 (zu § 3 Absatz 1 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003100000)
 
 Simulierte Gefahrenzustände und somit jedes absichtliche Abweichen vom
 Normalbetrieb eines Luftfahrzeuges dürfen nur dann herbeigeführt
@@ -813,6 +850,7 @@ gefährliche Guter an Bord befinden.
 Schleppstarts
 
 ### § 30 (zu § 2 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003200000)
 
 Luftfahrzeugführer dürfen Segelflugzeuge oder Motorsegler, die nicht
 mit einer Bugkupplung ausgerüstet sind, nur dann durch andere
@@ -822,6 +860,7 @@ Schleppstarts innerhalb der letzten sechs Monate durchgeführt haben.
 Betriebsmindestbedingungen
 
 ### § 31 (zu § 34 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003300000)
 
 (1) Ein Flug zu einem Landeplatz darf nicht fortgesetzt werden, wenn
 die zuletzt erhaltenen Wetterinformationen über den Landeplatz oder
@@ -834,6 +873,7 @@ nicht unterschritten werden.
 Ausweichflugplatz
 
 ### § 32 (zu § 29 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003400000)
 
 (1) Auf die Festlegung eines Ausweichflugplatzes für einen Flug nach
 Instrumentenflugregeln kann verzichtet werden, wenn nach den neuesten
@@ -878,6 +918,7 @@ werden.
 Betriebsstoffvorräte - Flugzeuge
 
 ### § 33 (zu § 29 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003500000)
 
 (1) Für einen Flug nach Instrumentenflugregeln ohne Planung eines
 Ausweichflugplatzes müssen die an Bord mitgeführten
@@ -918,6 +959,7 @@ folgende Umstände zu berücksichtigen:
 Betriebsstoffvorräte - Hubschrauber
 
 ### § 34 (zu § 29 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003600000)
 
 (1) Für einen Flug nach Sichtflugregeln müssen die an Bord
 mitgeführten Betriebsstoffmengen den Flug zum geplanten
@@ -992,9 +1034,11 @@ folgende Umstände zu berücksichtigen:
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNG000800000)
 
 
 ### § 35 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_3_2009/BJNR504800009.html#BJNR504800009BJNE003700000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

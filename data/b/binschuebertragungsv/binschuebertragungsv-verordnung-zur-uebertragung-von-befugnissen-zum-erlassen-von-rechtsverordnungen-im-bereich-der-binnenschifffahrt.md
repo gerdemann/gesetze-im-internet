@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Eder- und Diemeltalsperre
+[Direktlink](https://www.gesetze-im-internet.de/binsch_bertragungsv/BJNR458010002.html#BJNR458010002BJNE000101305)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, im
 Rahmen des § 1 Abs. 1 Nr. 2, 4 und 5 des
@@ -31,6 +32,7 @@ Abs. 6 auch in Verbindung mit Abs. 7 zu erlassen.
 
 
 ## § 2 Lotsenentgelte
+[Direktlink](https://www.gesetze-im-internet.de/binsch_bertragungsv/BJNR458010002.html#BJNR458010002BJNE000201305)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 die Entgelte für die Leistungen der Binnenlotsen auf der

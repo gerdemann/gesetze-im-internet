@@ -18,6 +18,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 5 V v. 18.3.2024 I Nr. 100
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000100308)
 
 Auf Grund des § 3 Abs. 1 Nr. 1 und 5 und des § 3c Abs. 1 Satz 1 und 2
 Nr. 2 in Verbindung mit § 11 Abs. 1 Satz 2 des
@@ -26,6 +27,7 @@ vom 4. August 1986 (BGBl. I S. 1270) wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000206123)
 
 (1) Auf den Binnenschiffahrtstraßen darf das Wasserskilaufen nur
 betrieben werden
@@ -89,6 +91,7 @@ und Verkehr der Bundesrepublik Deutschland - veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000300308)
 
 Im Sinne dieser Verordnung sind
 
@@ -107,6 +110,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000405123)
 
 (1) Die Schiffsführer der ziehenden Fahrzeuge und die Wasserskiläufer
 dürfen insbesondere durch die Erzeugung von Wellenschlag oder
@@ -168,6 +172,7 @@ Fahrzeuge beim Wasserskilaufen eingesetzt werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000502305)
 
 (1) Unbeschadet des § 1 Abs. 1 Satz 1 Nr. 1 dürfen nur mit Erlaubnis
 der Generaldirektion Wasserstraßen und Schifffahrt betrieben werden:
@@ -196,6 +201,7 @@ nachgeordneten Wasserstraßen- und Schifffahrtsämtern übertragen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000601305)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 durch Rechtsverordnung für einzelne zum Wasserskilaufen freigegebene
@@ -205,6 +211,7 @@ oder zulassen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000702123)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -229,16 +236,19 @@ fahrlässig
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000801307)
 
 (weggefallen)
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE000902308)
 
 (weggefallen)
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wasskiv_1990/BJNR001070990.html#BJNR001070990BJNE001000308)
 
 Der Bundesminister für Verkehr
 

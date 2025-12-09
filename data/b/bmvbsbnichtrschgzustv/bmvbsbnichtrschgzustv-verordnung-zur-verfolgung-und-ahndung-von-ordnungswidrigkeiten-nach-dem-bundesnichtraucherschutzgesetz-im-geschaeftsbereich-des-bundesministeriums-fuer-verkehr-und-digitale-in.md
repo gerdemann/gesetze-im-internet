@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/BJNR234700007.html#BJNR234700007BJNE000100000)
 
 Auf Grund des § 5 Abs. 3 Halbsatz 2 des
 Bundesnichtraucherschutzgesetzes vom 20. Juli 2007 (BGBl. I S. 1595)
@@ -32,6 +33,7 @@ verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/BJNR234700007.html#BJNR234700007BJNE000202360)
 
 (1) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 5 Abs. 1 des
@@ -103,6 +105,7 @@ Bundesnichtraucherschutzgesetzes wird auf
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/BJNR234700007.html#BJNR234700007BJNE000300000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 5 Abs. 1 des
@@ -122,6 +125,7 @@ Bundesnichtraucherschutzgesetzes, die in
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/BJNR234700007.html#BJNR234700007BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 2. September 2007 in Kraft.
 

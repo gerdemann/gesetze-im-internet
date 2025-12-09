@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000100000)
 
 Auf Grund des § 44a Absatz 3 in Verbindung mit § 75 Absatz 4 Satz 2
 des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der
@@ -28,6 +29,7 @@ Reaktorsicherheit:
 
 
 ## § 1 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000200000)
 
 Die Verpflichtung zur Mitteilung von Untersuchungsergebnissen nach §
 44a Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches
@@ -70,6 +72,7 @@ Stoffgruppe.
 
 
 ## § 2 Mitteilungen der Lebensmittel- und Futtermittelunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000300000)
 
 (1) Die Mitteilung nach § 44a Absatz 1 Satz 1 des Lebensmittel- und
 Futtermittelgesetzbuches (Mitteilung) zu den in § 1 genannten Stoffen
@@ -106,6 +109,7 @@ festgesetzter Höchstgehalt überschritten worden ist.
 
 
 ## § 3 Übermittlungen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000400000)
 
 (1) Die Übermittlung in anonymisierter Form nach § 44a Absatz 2 Satz 1
 des Lebensmittel- und Futtermittelgesetzbuches (Übermittlung) ist
@@ -125,23 +129,27 @@ vorzunehmen.
 
 
 ## § 4 Nicht mehr anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000500000)
 
 § 75 Absatz 4 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches
 ist nicht mehr anzuwenden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000600000)
 
 Diese Verordnung tritt am 1. Mai 2012 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a)
 
 ## Anlage 1 Kongenere von Dibenzo-p-dioxinen und Dibenzofuranen
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000800000)
 
 (Fundstelle: BGBl. I 2012, 60)
 
@@ -249,6 +257,7 @@ CDF = Chlordibenzofuran
 (zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b)
 
 ## Anlage 2 Kongenere von dioxinähnlichen polychlorierten Biphenylen
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE000900000)
 
 (Fundstelle: BGBl. I 2012, 61)
 
@@ -322,6 +331,7 @@ CDF = Chlordibenzofuran
 (zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c)
 
 ## Anlage 3 Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE001000000)
 
 (Fundstelle: BGBl. I 2012, 62)
 
@@ -364,6 +374,7 @@ CDF = Chlordibenzofuran
 
 
 ## Anlage 4 (zu § 2 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE001100000)
 
 (Fundstelle: BGBl. I 2012, 63 - 65)
 
@@ -779,6 +790,7 @@ Rahmen der Untersuchung ermittelt worden sind.
 
 
 ## Anlage 5 (zu § 3 Absatz 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/mit_bermitv/BJNR005800012.html#BJNR005800012BJNE001200000)
 
 (Fundstelle: BGBl. I 2012, 66 - 68)
 

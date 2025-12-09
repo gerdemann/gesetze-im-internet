@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/BJNR731200008.html#BJNR731200008BJNE000100000)
 
 Auf Grund von § 46 Nr. 1 des Bundeswasserstraßengesetz in der  Fassung
 der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962), zuletzt geändert
@@ -30,6 +31,7 @@ Schifffahrtsdirektion Süd:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/BJNR731200008.html#BJNR731200008BJNE000200000)
 
 Die Schiffsschleusen am Main, Main-Donau-Kanal und an der Donau werden
 während des ganzen Jahres ganztägig betrieben. Verkehrszeiten sind:
@@ -37,6 +39,7 @@ Tagverkehr  6:00 bis 22:00 Uhr, Nachtverkehr 22:00 bis 6:00 Uhr.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/BJNR731200008.html#BJNR731200008BJNE000300000)
 
 (1) Von den Schiffsschleusen Obernau bis Regensburg werden im
 Nachtverkehr grundsätzlich nur Fahrzeuge der gewerblichen Schifffahrt
@@ -55,6 +58,7 @@ DonauSchPV bleiben unberührt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/BJNR731200008.html#BJNR731200008BJNE000400000)
 
 Die Fahrzeuge müssen an nicht fernbedienten Schleusen im Tagverkehr
 bis spätestens 21:30 Uhr und im Nachtverkehr bis spätestens 5:30 Uhr
@@ -63,6 +67,7 @@ Schleusenkammer eingefahren sein.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/BJNR731200008.html#BJNR731200008BJNE000500000)
 
 Aus verkehrlichen und betrieblichen Gründen sowie zur Vorbereitung und
 Durchführung von Unterhaltungsmaßnahmen an den Schiffsschleusenanlagen
@@ -72,6 +77,7 @@ mit Aussetzung des Betriebs anordnen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/BJNR731200008.html#BJNR731200008BJNE000600000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 

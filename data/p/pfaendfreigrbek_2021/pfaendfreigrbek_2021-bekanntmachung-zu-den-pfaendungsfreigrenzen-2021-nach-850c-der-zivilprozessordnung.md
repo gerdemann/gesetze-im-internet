@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2021/BJNR109900021.html#BJNR109900021BJNE000100000)
 
 Auf Grund des § 850c Absatz 4 Satz 1 der Zivilprozessordnung in der
 Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006
@@ -67,11 +68,13 @@ gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2021/BJNR109900021.html#BJNR109900021BJNE000200000)
 
 Die Bundesministerin der Justiz und für Verbraucherschutz
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2021/BJNR109900021.html#BJNR109900021BJNE000300000)
 
 (Fundstelle: BGBl. I 2021, 1100 - 1118)
 

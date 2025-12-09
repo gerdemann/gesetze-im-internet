@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Wohnungseigentum
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG000102360)
 
 
 
 ### Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG001201360)
 
 
 
 #### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001202360)
 
 (1) Nach Maßgabe dieses Gesetzes kann an Wohnungen das
 Wohnungseigentum, an nicht zu Wohnzwecken dienenden Räumen eines
@@ -58,16 +61,19 @@ Wohnungseigentum entsprechend.
 
 
 ### Abschnitt 2 - Begründung des Wohnungseigentums
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG000202360)
 
 
 
 #### § 2 Arten der Begründung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001401360)
 
 Wohnungseigentum wird durch die vertragliche Einräumung von
 Sondereigentum (§ 3) oder durch Teilung (§ 8) begründet.
 
 
 #### § 3 Vertragliche Einräumung von Sondereigentum
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001504360)
 
 (1) Das Miteigentum (§ 1008 des Bürgerlichen Gesetzbuchs) an einem
 Grundstück kann durch Vertrag der Miteigentümer in der Weise
@@ -90,6 +96,7 @@ im Aufteilungsplan bestimmt sind.
 
 
 #### § 4 Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001602360)
 
 (1) Zur Einräumung und zur Aufhebung des Sondereigentums ist die
 Einigung der Beteiligten über den Eintritt der Rechtsänderung und die
@@ -105,6 +112,7 @@ Absatz 1 des Bürgerlichen Gesetzbuchs entsprechend.
 
 
 #### § 5 Gegenstand und Inhalt des Sondereigentums
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001703360)
 
 (1) Gegenstand des Sondereigentums sind die gemäß § 3 Absatz 1 Satz 1
 bestimmten Räume sowie die zu diesen Räumen gehörenden Bestandteile
@@ -139,6 +147,7 @@ aufgehoben, geändert oder übertragen wird.
 
 
 #### § 6 Unselbständigkeit des Sondereigentums
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001801360)
 
 (1) Das Sondereigentum kann ohne den Miteigentumsanteil, zu dem es
 gehört, nicht veräußert oder belastet werden.
@@ -148,6 +157,7 @@ gehörende Sondereigentum.
 
 
 #### § 7 Grundbuchvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE001904360)
 
 (1) Im Fall des § 3 Absatz 1 wird für jeden Miteigentumsanteil von
 Amts wegen ein besonderes Grundbuchblatt (Wohnungsgrundbuch,
@@ -197,6 +207,7 @@ Wohnungsgrundbücher entsprechend.
 
 
 #### § 8 Teilung durch den Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002002360)
 
 (1) Der Eigentümer eines Grundstücks kann durch Erklärung gegenüber
 dem Grundbuchamt das Eigentum an dem Grundstück in Miteigentumsanteile
@@ -215,6 +226,7 @@ gehörenden Räumen übergeben wurde.
 
 
 #### § 9 Schließung der Wohnungsgrundbücher
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002102360)
 
 (1) Die Wohnungsgrundbücher werden geschlossen:
 
@@ -240,10 +252,12 @@ bereits aufgehoben sind, mit der Anlegung des Grundbuchblatts.
 
 
 ### Abschnitt 3 - Rechtsfähige Gemeinschaft der Wohnungseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG001301360)
 
 
 
 #### § 9a Gemeinschaft der Wohnungseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE007902360)
 
 (1) Die Gemeinschaft der Wohnungseigentümer kann Rechte erwerben und
 Verbindlichkeiten eingehen, vor Gericht klagen und verklagt werden.
@@ -282,6 +296,7 @@ statt.
 
 
 #### § 9b Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE008001360)
 
 (1) Die Gemeinschaft der Wohnungseigentümer wird durch den Verwalter
 gerichtlich und außergerichtlich vertreten, beim Abschluss eines
@@ -297,10 +312,12 @@ Wohnungseigentümer die Gemeinschaft der Wohnungseigentümer.
 
 
 ### Abschnitt 4 - Rechtsverhältnis der Wohnungseigentümer untereinander und zur Gemeinschaft der Wohnungseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG000302360)
 
 
 
 #### § 10 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002203360)
 
 (1) Das Verhältnis der Wohnungseigentümer untereinander und zur
 Gemeinschaft der Wohnungseigentümer bestimmt sich nach den
@@ -329,6 +346,7 @@ Grundbuch.
 
 
 #### § 11 Aufhebung der Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002304360)
 
 (1) Kein Wohnungseigentümer kann die Aufhebung der Gemeinschaft
 verlangen. Dies gilt auch für eine Aufhebung aus wichtigem Grund. Eine
@@ -351,6 +369,7 @@ Betracht.
 
 
 #### § 12 Veräußerungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002404360)
 
 (1) Als Inhalt des Sondereigentums kann vereinbart werden, dass ein
 Wohnungseigentümer zur Veräußerung seines Wohnungseigentums der
@@ -375,6 +394,7 @@ Grundbuch gelöscht werden. § 7 Absatz 2 gilt entsprechend.
 
 
 #### § 13 Rechte des Wohnungseigentümers aus dem Sondereigentum
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002502360)
 
 (1) Jeder Wohnungseigentümer kann, soweit nicht das Gesetz
 entgegensteht, mit seinem Sondereigentum nach Belieben verfahren,
@@ -389,6 +409,7 @@ Zusammenleben unvermeidliche Maß hinaus ein Nachteil erwächst.
 
 
 #### § 14 Pflichten des Wohnungseigentümers
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002602360)
 
 (1) Jeder Wohnungseigentümer ist gegenüber der Gemeinschaft der
 Wohnungseigentümer verpflichtet,
@@ -425,6 +446,7 @@ verlangen.
 
 
 #### § 15 Pflichten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002702360)
 
 Wer Wohnungseigentum gebraucht, ohne Wohnungseigentümer zu sein, hat
 gegenüber der Gemeinschaft der Wohnungseigentümer und anderen
@@ -445,6 +467,7 @@ Wohnungseigentümern zu dulden:
 
 
 #### § 16 Nutzungen und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE002803360)
 
 (1) Jedem Wohnungseigentümer gebührt ein seinem Anteil entsprechender
 Bruchteil der Früchte des gemeinschaftlichen Eigentums und des
@@ -466,6 +489,7 @@ Verteilung beschließen.
 
 
 #### § 17 Entziehung des Wohnungseigentums
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003004360)
 
 (1) Hat ein Wohnungseigentümer sich einer so schweren Verletzung der
 ihm gegenüber anderen Wohnungseigentümern oder der Gemeinschaft der
@@ -491,6 +515,7 @@ Veräußerung seines Wohnungseigentums verpflichtet.
 
 
 #### § 18 Verwaltung und Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE008101360)
 
 (1) Die Verwaltung des gemeinschaftlichen Eigentums obliegt der
 Gemeinschaft der Wohnungseigentümer.
@@ -521,6 +546,7 @@ Wohnungseigentümer Einsicht in die Verwaltungsunterlagen verlangen.
 
 
 #### § 19 Regelung der Verwaltung und Benutzung durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003103360)
 
 (1) Soweit die Verwaltung des gemeinschaftlichen Eigentums und die
 Benutzung des gemeinschaftlichen Eigentums und des Sondereigentums
@@ -558,6 +584,7 @@ Benutzung.
 
 
 #### § 20 Bauliche Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003203125)
 
 (1) Maßnahmen, die über die ordnungsmäßige Erhaltung des
 gemeinschaftlichen Eigentums hinausgehen (bauliche Veränderungen),
@@ -600,6 +627,7 @@ gestattet werden; sie können auch nicht verlangt werden.
 
 
 #### § 21 Nutzungen und Kosten bei baulichen Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003303360)
 
 (1) Die Kosten einer baulichen Veränderung, die einem
 Wohnungseigentümer gestattet oder die auf sein Verlangen nach § 20
@@ -640,6 +668,7 @@ nicht zu tragen hat, keine Kosten auferlegt werden.
 
 
 #### § 22 Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003404360)
 
 Ist das Gebäude zu mehr als der Hälfte seines Wertes zerstört und ist
 der Schaden nicht durch eine Versicherung oder in anderer Weise
@@ -648,6 +677,7 @@ werden.
 
 
 #### § 23 Wohnungseigentümerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003504125)
 
 (1) Angelegenheiten, über die nach diesem Gesetz oder nach einer
 Vereinbarung der Wohnungseigentümer die Wohnungseigentümer durch
@@ -682,6 +712,7 @@ rechtskräftiges Urteil für ungültig erklärt ist.
 
 
 #### § 24 Einberufung, Vorsitz, Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003604360)
 
 (1) Die Versammlung der Wohnungseigentümer wird von dem Verwalter
 mindestens einmal im Jahr einberufen.
@@ -749,6 +780,7 @@ Aufgabe bestellt haben.
 
 
 #### § 25 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003702360)
 
 (1) Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen
 Stimmen.
@@ -767,6 +799,7 @@ oder wenn er nach § 17 rechtskräftig verurteilt ist.
 
 
 #### § 26 Bestellung und Abberufung des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003803360)
 
 (1) Über die Bestellung und Abberufung des Verwalters beschließen die
 Wohnungseigentümer.
@@ -791,6 +824,7 @@ beglaubigt sind.
 
 
 #### § 26a Zertifizierter Verwalter
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE008202125)
 
 (1) Als zertifizierter Verwalter darf sich bezeichnen, wer vor einer
 Industrie- und Handelskammer durch eine Prüfung nachgewiesen hat, dass
@@ -824,6 +858,7 @@ Satz 1 können insbesondere festgelegt werden:
 
 
 #### § 27 Aufgaben und Befugnisse des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE003903360)
 
 (1) Der Verwalter ist gegenüber der Gemeinschaft der
 Wohnungseigentümer berechtigt und verpflichtet, die Maßnahmen
@@ -844,6 +879,7 @@ ordnungsmäßiger Verwaltung zu treffen, die
 
 
 #### § 28 Wirtschaftsplan, Jahresabrechnung, Vermögensbericht
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004002360)
 
 (1) Die Wohnungseigentümer beschließen über die Vorschüsse zur
 Kostentragung und zu den nach § 19 Absatz 2 Nummer 4 oder durch
@@ -868,6 +904,7 @@ Wohnungseigentümer zur Verfügung zu stellen.
 
 
 #### § 29 Verwaltungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004102360)
 
 (1) Wohnungseigentümer können durch Beschluss zum Mitglied des
 Verwaltungsbeirats bestellt werden. Hat der Verwaltungsbeirat mehrere
@@ -886,10 +923,12 @@ sie nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
 
 
 ### Abschnitt 5 - Wohnungserbbaurecht
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG000502360)
 
 
 
 #### § 30 Wohnungserbbaurecht
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004202360)
 
 (1) Steht ein Erbbaurecht mehreren gemeinschaftlich nach Bruchteilen
 zu, so können die Anteile in der Weise beschränkt werden, dass jedem
@@ -909,10 +948,12 @@ Teilerbbaugrundbuch). Im Übrigen gelten für das Wohnungserbbaurecht
 
 
 ## Teil 2 - Dauerwohnrecht
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG000602360)
 
 
 
 ### § 31 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004301360)
 
 (1) Ein Grundstück kann in der Weise belastet werden, dass derjenige,
 zu dessen Gunsten die Belastung erfolgt, berechtigt ist, unter
@@ -934,6 +975,7 @@ Dauerwohnrecht entsprechend.
 
 
 ### § 32 Voraussetzungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004404360)
 
 (1) Das Dauerwohnrecht soll nur bestellt werden, wenn die Wohnung in
 sich abgeschlossen ist.
@@ -967,6 +1009,7 @@ keine Vereinbarungen getroffen sind.
 
 
 ### § 33 Inhalt des Dauerwohnrechts
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004501360)
 
 (1) Das Dauerwohnrecht ist veräußerlich und vererblich. Es kann nicht
 unter einer Bedingung bestellt werden.
@@ -1004,6 +1047,7 @@ werden über:
 
 
 ### § 34 Ansprüche des Eigentümers und der Dauerwohnberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004601360)
 
 (1) Auf die Ersatzansprüche des Eigentümers wegen Veränderungen oder
 Verschlechterungen sowie auf die Ansprüche der Dauerwohnberechtigten
@@ -1017,6 +1061,7 @@ Vorschriften entsprechend anzuwenden.
 
 
 ### § 35 Veräußerungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004701360)
 
 Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der
 Berechtigte zur Veräußerung des Dauerwohnrechts der Zustimmung des
@@ -1025,6 +1070,7 @@ gelten in diesem Fall entsprechend.
 
 
 ### § 36 Heimfallanspruch
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004801360)
 
 (1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der
 Berechtigte verpflichtet ist, das Dauerwohnrecht beim Eintritt
@@ -1051,6 +1097,7 @@ der Entschädigung oder die Art ihrer Zahlung getroffen werden.
 
 
 ### § 37 Vermietung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE004902360)
 
 (1) Hat der Dauerwohnberechtigte die dem Dauerwohnrecht unterliegenden
 Gebäude- oder Grundstücksteile vermietet oder verpachtet, so erlischt
@@ -1069,6 +1116,7 @@ Zwangsverwaltung zu.
 
 
 ### § 38 Eintritt in das Rechtsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005001360)
 
 (1) Wird das Dauerwohnrecht veräußert, so tritt der Erwerber an Stelle
 des Veräußerers in die sich während der Dauer seiner Berechtigung aus
@@ -1083,6 +1131,7 @@ erlischt.
 
 
 ### § 39 Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005101360)
 
 (1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass das
 Dauerwohnrecht im Fall der Zwangsversteigerung des Grundstücks
@@ -1106,6 +1155,7 @@ Dauerwohnrechts vom Vorliegen weiterer Voraussetzungen abhängig ist.
 
 
 ### § 40 Haftung des Entgelts
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005202360)
 
 (1) Hypotheken, Grundschulden, Rentenschulden und Reallasten, die dem
 Dauerwohnrecht im Rang vorgehen oder gleichstehen, sowie öffentliche
@@ -1124,6 +1174,7 @@ eine solche Vereinbarung gilt § 39 Absatz 2 entsprechend.
 
 
 ### § 41 Besondere Vorschriften für langfristige Dauerwohnrechte
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005301360)
 
 (1) Für Dauerwohnrechte, die zeitlich unbegrenzt oder für einen
 Zeitraum von mehr als zehn Jahren eingeräumt sind, gelten die
@@ -1142,6 +1193,7 @@ Heimfallanspruch Gebrauch macht.
 
 
 ### § 42 Belastung eines Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005401360)
 
 (1) Die Vorschriften der §§ 31 bis 41 gelten für die Belastung eines
 Erbbaurechts mit einem Dauerwohnrecht entsprechend.
@@ -1150,10 +1202,12 @@ Erbbaurechts mit einem Dauerwohnrecht entsprechend.
 
 
 ## Teil 3 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG000702360)
 
 
 
 ### § 43 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005503360)
 
 (1) Die Gemeinschaft der Wohnungseigentümer hat ihren allgemeinen
 Gerichtsstand bei dem Gericht, in dessen Bezirk das Grundstück liegt.
@@ -1183,6 +1237,7 @@ ausschließlich zuständig für
 
 
 ### § 44 Beschlussklagen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005603360)
 
 (1) Das Gericht kann auf Klage eines Wohnungseigentümers einen
 Beschluss für ungültig erklären (Anfechtungsklage) oder seine
@@ -1205,6 +1260,7 @@ war.
 
 
 ### § 45 Fristen der Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE005707360)
 
 Die Anfechtungsklage muss innerhalb eines Monats nach der
 Beschlussfassung erhoben und innerhalb zweier Monate nach der
@@ -1213,10 +1269,12 @@ Zivilprozessordnung gelten entsprechend.
 
 
 ## Teil 4 - Ergänzende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNG001102360)
 
 
 
 ### § 46 Veräußerung ohne erforderliche Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE007802360)
 
 Fehlt eine nach § 12 erforderliche Zustimmung, so sind die Veräußerung
 und das zugrundeliegende Verpflichtungsgeschäft unbeschadet der
@@ -1233,6 +1291,7 @@ Wohnungseigentumsgesetzes.
 
 
 ### § 47 Auslegung von Altvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE007307360)
 
 Vereinbarungen, die vor dem 1. Dezember 2020 getroffen wurden und die
 von solchen Vorschriften dieses Gesetzes abweichen, die durch das
@@ -1244,6 +1303,7 @@ Wille ist in der Regel nicht anzunehmen.
 
 
 ### § 48 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE007504125)
 
 (1) § 5 Absatz 4, § 7 Absatz 2 und § 10 Absatz 3 in der vom 1.
 Dezember 2020 an geltenden Fassung gelten auch für solche Beschlüsse,
@@ -1296,6 +1356,7 @@ Wohnungseigentümerversammlung gefassten Beschlüsse.
 
 
 ### § 49 Überleitung bestehender Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/w_igg/BJNR001750951.html#BJNR001750951BJNE007602360)
 
 (1) Werden Rechtsverhältnisse, mit denen ein Rechtserfolg bezweckt
 wird, der den durch dieses Gesetz geschaffenen Rechtsformen

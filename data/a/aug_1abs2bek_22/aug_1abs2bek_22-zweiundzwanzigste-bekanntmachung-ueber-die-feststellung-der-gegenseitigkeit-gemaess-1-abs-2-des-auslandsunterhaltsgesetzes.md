@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/aug_1abs2bek_22/BJNR036400003.html#BJNR036400003BJNE000100000)
 
 Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19.
 Dezember 1986 (BGBl. I S. 2563) wird bekannt gemacht, dass die

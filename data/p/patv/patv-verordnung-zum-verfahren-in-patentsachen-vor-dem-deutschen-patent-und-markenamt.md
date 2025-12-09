@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000100000)
 
 Auf Grund des § 34 Abs. 6 und des § 63 Abs. 4 des Patentgesetzes in
 der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S.
@@ -33,10 +34,12 @@ worden ist, verordnet das Deutsche Patent- und Markenamt:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000201377)
 
 Für die im Patentgesetz geregelten Verfahren vor dem Deutschen Patent-
 und Markenamt gelten ergänzend zu den Bestimmungen des Patentgesetzes
@@ -44,6 +47,7 @@ und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 
 
 ### § 2 DIN-Normen, Einheiten im Messwesen, Symbole und Zeichen
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000301377)
 
 (1) DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im
 Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
@@ -57,10 +61,12 @@ oder international anerkannten Zeichen und Symbole zu verwenden.
 
 
 ## Abschnitt 2 - Patentanmeldungen; Patentverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNG000200000)
 
 
 
 ### § 3 Form der Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000403360)
 
 Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§ 36
 des Patentgesetzes) sind beim Deutschen Patent- und Markenamt
@@ -70,6 +76,7 @@ beim Deutschen Patent- und Markenamt maßgebend.
 
 
 ### § 4 Anmeldung zur Erteilung eines Patents
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000506360)
 
 (1) Für die schriftliche Anmeldung zur Erteilung eines Patents ist für
 die nachfolgend genannten Angaben das vom Deutschen Patent- und
@@ -160,6 +167,7 @@ gesonderten Blatt anzugeben.
 
 
 ### § 5 Anmeldungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000601360)
 
 (1) Die Anmeldungsunterlagen und die Zusammenfassung dürfen im Text
 keine bildlichen Darstellungen enthalten. Ausgenommen sind chemische
@@ -176,6 +184,7 @@ Verwendung verschiedener Ausdrücke sachdienlich ist.
 
 
 ### § 6 Formerfordernisse der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000704360)
 
 (1) Die Anmeldungsunterlagen sind in einer Form einzureichen, die eine
 elektronische Erfassung gestattet.
@@ -255,6 +264,7 @@ welcher Anmeldung sie gehören.
 
 
 ### § 7 Benennung des Erfinders
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000802360)
 
 (1) Der Anmelder muss bei schriftlicher Benennung des Erfinders das
 vom Deutschen Patent- und Markenamt herausgegebene Formblatt
@@ -290,6 +300,7 @@ verwenden.
 
 
 ### § 8 Nichtnennung des Erfinders; Änderungen der Erfindernennung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE000900000)
 
 (1) Der Antrag des Erfinders, ihn nicht als Erfinder zu nennen, der
 Widerruf dieses Antrags (§ 63 Abs. 1 Satz 3 und 4 des Patentgesetzes)
@@ -304,6 +315,7 @@ Abs. 2 des Patentgesetzes) hat schriftlich zu erfolgen.
 
 
 ### § 9 Patentansprüche
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001002360)
 
 (1) In den Patentansprüchen kann das, was als patentfähig unter Schutz
 gestellt werden soll (§ 34 Abs. 3 Nr. 3 des Patentgesetzes), einteilig
@@ -358,6 +370,7 @@ sein.♦
 
 
 ### § 10 Beschreibung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001101360)
 
 (1) Am Anfang der Beschreibung nach § 34 Abs. 3 Nr. 4 des
 Patentgesetzes ist als Titel die in der Anmeldung nach § 4 Absatz 2
@@ -409,6 +422,7 @@ Bezugnahme auf diese ersetzt werden.
 
 
 ### § 11 Darstellung von Nukleotid- und Aminosäuresequenzen; Sequenzprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001205125)
 
 (1) Sind in der Patentanmeldung Nukleotid- oder Aminosäuresequenzen
 offenbart, die nach Satz 2 in ein Sequenzprotokoll aufgenommen werden
@@ -461,6 +475,7 @@ Sequenzkennzahlen verwiesen werden.
 
 
 ### § 11a Einreichung des Sequenzprotokolls als elektronisches Dokument; sprachbezogene Anforderungen an Sequenzprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002700125)
 
 (1) Abweichend von § 3 Satz 1 ist das Sequenzprotokoll nach den
 Vorgaben des in § 11 Absatz 2 Satz 1 bezeichneten Standards in einer
@@ -491,6 +506,7 @@ ergänzt und gegebenenfalls aktualisiert werden.
 
 
 ### § 11b Geänderte und nachgereichte Sequenzprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002800125)
 
 (1) Eine Änderung des Sequenzprotokolls ist in Form eines
 vollständigen neuen Sequenzprotokolls einzureichen. Die Änderungen
@@ -515,12 +531,14 @@ Patentgesetzes bleibt unberührt.
 
 
 ### § 12 Zeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001300000)
 
 Eingereichte Zeichnungen müssen den in der Anlage 2 enthaltenen
 Standards entsprechen.
 
 
 ### § 13 Zusammenfassung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001401360)
 
 (1) Die Zusammenfassung nach § 36 des Patentgesetzes soll aus nicht
 mehr als 1.500 Zeichen bestehen.
@@ -534,6 +552,7 @@ werden, die die Erfindung am deutlichsten kennzeichnet.
 
 
 ### § 14 Fremdsprachige Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001502360)
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
 einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
@@ -572,10 +591,12 @@ eingegangen.
 
 
 ## Abschnitt 3 - Sonstige Formerfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNG000300000)
 
 
 
 ### § 15 Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001603125)
 
 (1) Auf allen nach Mitteilung des amtlichen Aktenzeichens
 eingereichten Schriftstücken ist dieses vollständig anzubringen.
@@ -607,6 +628,7 @@ hinausgehenden Änderungen enthält.
 
 
 ### § 16 Modelle und Proben
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001701360)
 
 (1) Modelle und Proben sind nur auf Anforderung des Deutschen Patent-
 und Markenamts einzureichen. Sie sind mit einer dauerhaften
@@ -631,6 +653,7 @@ angewandten Herstellungs- oder Verwendungsverfahrens zu erläutern.
 
 
 ### § 17 Öffentliche Beglaubigung von Unterschriften
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001800000)
 
 Auf Anforderung des Deutschen Patent- und Markenamts sind die in § 7
 Abs. 2 Nr. 5 und in § 8 genannten Unterschriften öffentlich
@@ -638,15 +661,18 @@ beglaubigen zu lassen (§ 129 des Bürgerlichen Gesetzbuchs).
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE001901377)
 
 (weggefallen)
 
 
 ## Abschnitt 4 - Ergänzende Schutzzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNG000400000)
 
 
 
 ### § 19 Form der Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002003360)
 
 (1) Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats und
 der Antrag auf Verlängerung der Laufzeit eines ergänzenden
@@ -661,6 +687,7 @@ Schutzes beizufügen.
 
 
 ### § 20 Ergänzende Schutzzertifikate für Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002101360)
 
 Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für
 Arzneimittel und der Antrag auf Verlängerung der Laufzeit eines
@@ -672,6 +699,7 @@ Nr. 469/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009
 
 
 ### § 21 Ergänzende Schutzzertifikate für Pflanzenschutzmittel
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002201360)
 
 Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für
 Pflanzenschutzmittel muss die Angaben und Unterlagen enthalten, die in
@@ -682,10 +710,12 @@ S. 30) bezeichnet sind.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNG000500000)
 
 
 
 ### § 22 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002301377)
 
 Für Patentanmeldungen, Erfinderbenennungen und Anträge auf Erteilung
 eines ergänzenden Schutzzertifikats, die vor Inkrafttreten von
@@ -695,15 +725,18 @@ anzuwenden.
 
 
 ### § 23 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002400000)
 
 Diese Verordnung tritt am 15. Oktober 2003 in Kraft.
 
 
 ### Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002503125)
 
 (zu § 12)
 
 ### Anlage 2 Standards für die Einreichung von Zeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/patv/BJNR170200003.html#BJNR170200003BJNE002602360)
 
 (Fundstelle: BGBl. I 2003, 1726 - 1727;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

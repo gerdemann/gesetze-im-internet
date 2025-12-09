@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000202116)
 
 (1) Diese Verordnung gilt für
 
@@ -124,6 +126,7 @@ Zuletzt geändert durch
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000305116)
 
 In dieser Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -383,9 +386,11 @@ In dieser Verordnung gelten folgende Begriffsbestimmungen:
 
 
 ## Teil 2 - Errichtung, Betrieb, Stilllegung und Nachsorge von Deponien
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNG000200000)
 
 
 ### § 3 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000401310)
 
 (1) Deponien oder Deponieabschnitte der Klasse 0, I, II oder III sind
 so zu errichten, dass die Anforderungen nach Absatz 3 sowie nach
@@ -415,6 +420,7 @@ Anforderungen nach Absatz 1 entsprechend herabgesetzt werden.
 
 
 ### § 4 Organisation und Personal
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000502116)
 
 Der Deponiebetreiber hat die Organisation einer Deponie so
 auszugestalten, dass
@@ -445,6 +451,7 @@ auszugestalten, dass
 
 
 ### § 5 Inbetriebnahme
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000600000)
 
 Der Deponiebetreiber darf die Deponie oder einen Deponieabschnitt erst
 in Betrieb nehmen, wenn die zuständige Behörde die für den Betrieb
@@ -454,6 +461,7 @@ entsprechend.
 
 
 ### § 6 Voraussetzungen für die Ablagerung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000703116)
 
 (1) Abfälle dürfen auf Deponien oder Deponieabschnitten nur abgelagert
 werden, wenn die jeweiligen Annahmekriterien nach den Absätzen 3 bis
@@ -731,6 +739,7 @@ gilt auch
 
 
 ### § 7 Nicht zugelassene Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000806116)
 
 (1) Folgende Abfälle dürfen nicht auf einer Deponie der Klasse 0, I,
 II oder III abgelagert werden:
@@ -881,6 +890,7 @@ Kreislaufwirtschaftsgesetzes gilt entsprechend.
 
 
 ### § 8 Annahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE000905116)
 
 (1) Der Abfallerzeuger, bei Sammelentsorgung der Einsammler, hat dem
 Deponiebetreiber rechtzeitig vor der ersten Anlieferung die
@@ -1266,6 +1276,7 @@ nachgewiesen wird.
 
 
 ### § 9 Handhabung der Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001000000)
 
 Der Betreiber einer Deponie der Klasse 0, I, II oder III hat
 sicherzustellen, dass durch die abgelagerten Abfälle eine
@@ -1276,6 +1287,7 @@ Abfälle nach Anhang 5 Nummer 5 zu handhaben.
 
 
 ### § 10 Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001102116)
 
 (1) In der Stilllegungsphase hat der Betreiber
 
@@ -1309,6 +1321,7 @@ erfolgt nach der Errichtung des Oberflächenabdichtungssystems.
 
 
 ### § 11 Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001201310)
 
 (1) Der Deponiebetreiber hat in der Nachsorgephase alle Maßnahmen,
 insbesondere die Kontroll- und Überwachungsmaßnahmen, nach § 12
@@ -1335,6 +1348,7 @@ feststellen.
 
 
 ### § 12 Maßnahmen zur Kontrolle, Verminderung und Vermeidung von Emissionen, Immissionen, Belästigungen und Gefährdungen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001301116)
 
 (1) Zur Feststellung, ob von einer Deponie die Besorgnis einer
 schädlichen Verunreinigung des Grundwassers oder sonstigen
@@ -1410,6 +1424,7 @@ erforderlich sind.
 
 
 ### § 13 Information und Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001402116)
 
 (1) Der Deponiebetreiber hat vor Beginn der Ablagerungsphase folgende
 Unterlagen zu erstellen:
@@ -1479,9 +1494,11 @@ genannten Anforderungen ermöglichen.
 
 
 ## Teil 3 - Verwertung von Deponieersatzbaustoffen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNG000300000)
 
 
 ### § 14 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001502116)
 
 (1) Deponieersatzbaustoffe dürfen für Einsatzbereiche im Sinne des §
 15 auf Deponien der Klasse 0, I, II oder III nur verwendet werden,
@@ -1533,6 +1550,7 @@ Anlieferung eingehalten werden. § 6 Absatz 4 Satz 3 gilt entsprechend.
 
 
 ### § 15 Einsatzbereiche und Zuordnung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001601310)
 
 Die Verwendung von Deponieersatzbaustoffen ist nur zulässig, wenn die
 Anforderungen des Anhangs 3 eingehalten werden. Beim Einsatz von
@@ -1560,6 +1578,7 @@ dass
 
 
 ### § 16 Inverkehrbringen von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001701310)
 
 Abfälle dürfen zur Herstellung von Deponieersatzbaustoffen nur in
 Verkehr gebracht werden, wenn sie die Anforderungen nach § 14 Absatz 2
@@ -1570,6 +1589,7 @@ Anforderungen nach den §§ 14 und 15 eingehalten werden.
 
 
 ### § 17 Annahmeverfahren und Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001800000)
 
 (1) Für die Annahme von Deponieersatzbaustoffen gilt § 8 entsprechend.
 
@@ -1585,9 +1605,11 @@ Entsorgungsweg in das Register nach § 24 der Nachweisverordnung zu
 
 
 ## Teil 4 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNG000400000)
 
 
 ### § 18 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE001902116)
 
 (1) Der Deponiebetreiber hat vor Beginn der Ablagerungsphase der
 zuständigen Behörde die Sicherheit für die Erfüllung von
@@ -1655,6 +1677,7 @@ ist.
 
 
 ### § 19 Antrag, Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002001310)
 
 (1) Für Errichtung und Betrieb einer Deponie nach § 35 Absatz 2 und 3
 des Kreislaufwirtschaftsgesetzes sowie für die Zulassung vorzeitigen
@@ -1748,6 +1771,7 @@ betreffenden Angaben.
 
 
 ### § 20 Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002101310)
 
 Kann ein nach § 35 Absatz 2 des Kreislaufwirtschaftsgesetzes
 planfeststellungspflichtiges Vorhaben erhebliche Auswirkungen in einem
@@ -1763,6 +1787,7 @@ das Genehmigungsverfahren entsprechend anzuwenden.
 
 
 ### § 21 Behördliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002203116)
 
 (1) Im Planfeststellungsbeschluss oder in der Plangenehmigung nach §
 35 Absatz 2 oder Absatz 3 des Kreislaufwirtschaftsgesetzes hat die
@@ -1905,6 +1930,7 @@ lassen, den sie nach Anhörung des Trägers des Vorhabens bestimmt.
 
 
 ### § 21a Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003600116)
 
 (1) Die Entscheidung über den Antrag auf Planfeststellung einer
 Deponie ist im Internet öffentlich bekannt zu machen; davon
@@ -1919,6 +1945,7 @@ Kreislaufwirtschaftsgesetzes.
 
 
 ### § 22 Überprüfung behördlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002303116)
 
 (1) Die zuständige Behörde hat durch geeignete Maßnahmen zu
 überwachen, dass die Deponie im Einklang mit den umweltbezogenen
@@ -1939,6 +1966,7 @@ oder neue umweltrechtliche Vorschriften dies erfordern.
 
 
 ### § 22a Überwachungspläne, Überwachungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003701130)
 
 (1) Überwachungspläne im Sinne des § 47 Absatz 7 Satz 1 des
 Kreislaufwirtschaftsgesetzes haben Folgendes zu enthalten:
@@ -2038,9 +2066,11 @@ Besichtigung zugänglich zu machen.
 
 
 ## Teil 5 - Langzeitlager
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNG000500000)
 
 
 ### § 23 Errichtung und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002404116)
 
 (1) Für die Errichtung und den Betrieb von Langzeitlagern gelten die
 folgenden Vorschriften entsprechend:
@@ -2190,6 +2220,7 @@ verlängert werden.
 
 
 ### § 24 Stilllegung und Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002502310)
 
 (1) Besteht die Besorgnis, dass nach Stilllegung des Langzeitlagers
 von der Anlage oder dem Anlagengrundstück schädliche
@@ -2242,9 +2273,11 @@ Gewerbeordnung entsprechend.
 
 
 ## Teil 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNG000600000)
 
 
 ### § 25 In der Ablagerungsphase befindliche Altdeponien
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002601310)
 
 (1) Abweichend von den §§ 3 bis 6, § 9, § 12 Absatz 1 und 2, § 13
 Absatz 1 und 2 sowie den §§ 14 bis 16 kann eine Deponie oder ein
@@ -2365,6 +2398,7 @@ nachfolgende Mindestanforderungen erfüllt sind:
 
 
 ### § 26 In der Stilllegungsphase befindliche Altdeponien
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002703116)
 
 (1) Abweichend von den §§ 10, 11, 12 Absatz 1 und 2, § 13 Absatz 1 und
 2 sowie den §§ 14 bis 16 kann eine Deponie oder ein Deponieabschnitt,
@@ -2394,6 +2428,7 @@ Absatz 1 entsprechend.
 
 
 ### § 27 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002804116)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2568,10 +2603,12 @@ des § 23 Absatz 1 Satz 1.
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE002902116)
 
 
 
 ### Anhang 1 Anforderungen an den Standort, die geologische Barriere, Basis- und Oberflächenabdichtungssysteme von Deponien der Klasse 0, I, II und III (zu § 3 Absatz 1, § 10 Absatz 1, den §§ 23, 28)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003006130)
 
 (Fundstelle: BGBl. I 2009, 915 - 919;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3389,6 +3426,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^f772033_13_BJNR090010009BJNE003006130]: 
 
 ### Anhang 2 Anforderungen an den Standort, geologische Barriere, Langzeitsicherheitsnachweis und Stilllegungsmaßnahmen von Deponien der Klasse IV im Salzgestein (zu § 3 Absatz 2, § 10 Absatz 1, § 11 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003100000)
 
 (Fundstelle: BGBl. I 2009, 920 - 924)
 
@@ -4053,6 +4091,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anhang 3 Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 23 bis 26, 37, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003204116)
 
 (Fundstelle: BGBl. I 2009, 925 - 928;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5339,6 +5378,7 @@ Nummer 3.18b nicht überschritten wird.
 
 
 ### Anhang 4 Vorgaben zur Beprobung (Probenahme, Probevorbereitung und Untersuchung von Abfällen und Deponieersatzbaustoffen) (zu § 6 Absatz 2, § 8 Absatz 1, 3 und 5, § 23)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003303116)
 
 (Fundstelle: BGBl. I 2009, 929 - 939;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6700,6 +6740,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^f772033_34_BJNR090010009BJNE003303116]: 
 
 ### Anhang 5 Information, Dokumentation, Kontrollen, Betrieb (zu § 4 Nummer 2, den §§ 9, 10 Absatz 2, § 11 Absatz 2, § 12 Absatz 1 bis 3, § 13 Absatz 1 bis 3 und 5, § 17 Absatz 2, § 23 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003402116)
 
 (Fundstelle: BGBl. I 2009, 940 - 946;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7669,6 +7710,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^f772033_44_BJNR090010009BJNE003402116]: 
 
 ### Anhang 6 Besondere Anforderungen an die zeitweilige Lagerung von metallischen Quecksilberabfällen bei einer Lagerdauer von mehr als einem Jahr in Langzeitlagern (zu § 23 Absatz 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/depv_2009/BJNR090010009.html#BJNR090010009BJNE003500116)
 
 (Fundstelle: BGBl. I 2013, 818 - 819)
 

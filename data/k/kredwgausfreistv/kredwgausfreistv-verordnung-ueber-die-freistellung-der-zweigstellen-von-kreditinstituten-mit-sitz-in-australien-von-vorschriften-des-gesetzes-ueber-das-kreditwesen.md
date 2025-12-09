@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredwgausfreistv/BJNR032310014.html#BJNR032310014BJNE000101119)
 
 Für Zweigstellen von Kreditinstituten mit Sitz in Australien, die der
 Aufsicht der Australian Prudential Regulation Authority unterstehen,
@@ -59,6 +60,7 @@ gilt § 1a Absatz 1 des Kreditwesengesetzes mit der Maßgabe, dass
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredwgausfreistv/BJNR032310014.html#BJNR032310014BJNE000202119)
 
 § 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 10j des
 Kreditwesengesetzes sowie die zugehörigen Vorgaben der Artikel 430 bis

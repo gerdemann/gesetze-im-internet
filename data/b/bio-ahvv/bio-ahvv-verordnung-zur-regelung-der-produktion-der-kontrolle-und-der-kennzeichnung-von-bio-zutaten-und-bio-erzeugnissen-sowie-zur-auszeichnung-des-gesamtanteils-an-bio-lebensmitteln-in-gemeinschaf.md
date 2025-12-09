@@ -19,14 +19,17 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000200000)
 
 Diese Verordnung gilt für Unternehmen der Außer-Haus-Verpflegung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -127,9 +130,11 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ## Abschnitt 2 - Produktion, Kennzeichnung und Auszeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNG000200000)
 
 
 ### § 3 Kennzeichnung von Zutaten und Erzeugnissen und Auszeichnung des Bio-Anteils
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000400000)
 
 (1) Unbeschadet der allgemeinen Vorschriften zur Kennzeichnung von
 Lebensmitteln darf ein Unternehmer
@@ -164,6 +169,7 @@ Unternehmerpflichten nach § 10 nicht.
 
 
 ### § 4 Voraussetzungen für die Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000500000)
 
 (1) Ein Unternehmer darf Zutaten und Erzeugnisse unbeschadet der
 weiteren Anforderungen nach Absatz 2 Satz 1 nur dann
@@ -220,6 +226,7 @@ Aufzeichnungspflichten nach § 11 Absatz 2 erfüllt.
 
 
 ### § 5 Gestaltung der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000600000)
 
 (1) Zutaten und Erzeugnisse gelten als mit Bezug auf die
 ökologische/biologische Produktion gekennzeichnet, wenn sie in der
@@ -258,6 +265,7 @@ Zutaten und Erzeugnisse.
 
 
 ### § 6 Zutatenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000700000)
 
 (1) Ergänzend zur Kennzeichnung auf Speiseplänen, Tafeln,
 Schriftstücken oder anderen Übersichten, auch in elektronischer Form,
@@ -275,6 +283,7 @@ Zutatenübersicht nicht erforderlich.
 
 
 ### § 7 Nutzungsmöglichkeit von Kennzeichen und Logos
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000800000)
 
 (1) Das Öko-Kennzeichen nach § 1 Absatz 1 des Öko-Kennzeichengesetzes
 darf zur Kennzeichnung von ökologischen/biologischen Zutaten und
@@ -299,6 +308,7 @@ mit Bezug auf die ökologische/biologische Produktion dürfen
 
 
 ### § 8 Auszeichnung des Bio-Anteils
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE000900000)
 
 (1) Zusätzlich zur Kennzeichnung nach § 4 Absatz 1 darf ein
 Unternehmer für seine Betriebseinheiten deren jeweiligen Bio-Anteil
@@ -343,6 +353,7 @@ Kennzeichnung sind verboten.
 
 
 ### § 9 Berechnung und Zertifizierung des Bio-Anteils
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001000000)
 
 (1) Die Berechnung des Bio-Anteils ist vom Unternehmer selbstständig
 durchzuführen. Sie ist monatlich zu aktualisieren.
@@ -381,9 +392,11 @@ festgestellten Bio-Anteil ein aktualisiertes Zertifikat auszustellen.
 
 
 ## Abschnitt 3 - Unternehmerpflichten
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNG000300000)
 
 
 ### § 10 Allgemeine Pflichten der Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001100000)
 
 (1) Vor der erstmaligen Verwendung von Bezeichnungen mit Bezug auf die
 ökologische/biologische Produktion und vor der erstmaligen
@@ -441,6 +454,7 @@ Anschrift der neuen Kontrollstelle anzuzeigen.
 
 
 ### § 11 Aufzeichnungspflichten bei Kennzeichnung nach § 4
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001200000)
 
 (1) Sofern ein Unternehmer Zutaten oder Erzeugnisse nach § 4
 kennzeichnet, hat er schriftlich oder elektronisch Folgendes
@@ -477,6 +491,7 @@ Warenflussdokumentation ist nicht erforderlich.
 
 
 ### § 12 Aufzeichnungspflichten bei Auszeichnung des Bio-Anteils
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001300000)
 
 (1) Sofern ein Unternehmer den Bio-Anteil nach § 8 auszeichnet, hat er
 für jeden Wareneinkauf schriftlich oder elektronisch Folgendes
@@ -511,9 +526,11 @@ Produkte, die keine Lebensmittel sind, und Wasser.
 
 
 ## Abschnitt 4 - Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNG000400000)
 
 
 ### § 13 Durchführung der Kontrollen und Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001400000)
 
 (1) Im Rahmen ihrer Zuständigkeit nach § 3 Absatz 1a des Öko-
 Landbaugesetzes haben die Kontrollstellen die Kontrolle der Einhaltung
@@ -553,6 +570,7 @@ zu sein.
 
 
 ### § 14 Veranstaltungszertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001500000)
 
 (1) Der Unternehmer hat eine Veranstaltung mindestens vier Wochen vor
 deren Beginn bei einer zugelassenen Kontrollstelle, die im Land der
@@ -581,6 +599,7 @@ jederzeit dem tatsächlichen Bio-Anteil entspricht.
 
 
 ### § 15 Kontrollbericht
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001600000)
 
 (1) Die Kontrollstelle hat im Anschluss an jede Vor-Ort-Kontrolle
 einen Kontrollbericht zu erstellen. Der Kontrollbericht ist vom
@@ -624,6 +643,7 @@ auf deren Verlangen zu übermitteln.
 
 
 ### § 16 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001700000)
 
 (1) Der Unternehmer hat den von der zuständigen Behörde oder der
 Kontrollstelle beauftragten Personen Zugang zu den Betriebstätten zu
@@ -637,6 +657,7 @@ dulden.
 
 
 ### § 17 Feststellung von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001800000)
 
 (1) Sofern ein Verstoß gegen diese Verordnung festgestellt wird, hat
 die Kontrollstelle im Rahmen der ihr durch § 3 Absatz 1a des Öko-
@@ -683,9 +704,11 @@ nach § 13 Absatz 2.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNG000500000)
 
 
 ### § 18 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE001900000)
 
 Ordnungswidrig im Sinne des § 13 Absatz 2 Nummer 5 des Öko-
 Landbaugesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -723,6 +746,7 @@ Landbaugesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 8 Absatz 2 und 3)
 
 ### Anlage 1 AHV-Kennzeichen in 3 Kategorien
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE002000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 265, S. 10 - 13)
 
@@ -899,6 +923,7 @@ Bedarfsfall kann es in Schwarz-Weiß ausgeführt werden.
 (zu § 13 Absatz 3)
 
 ### Anlage 2 Musterzertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE002100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 265, S. 14 - 17)
 
@@ -915,6 +940,7 @@ Bedarfsfall kann es in Schwarz-Weiß ausgeführt werden.
 (zu § 14 Absatz 1 Satz 4)
 
 ### Anlage 3 Musterveranstaltungszertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bio-ahvv/BJNR1090B0023.html#BJNR1090B0023BJNE002200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 265, S. 18 - 21)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000100000)
 
 Auf Grund des § 34 Absatz 2 Satz 1 in Verbindung mit Satz 6 des
 Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434)
@@ -28,6 +29,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000201118)
 
 (1) Diese Verordnung gilt für die folgenden Unternehmen:
 
@@ -109,6 +111,7 @@ Dienstvereinbarung vereinbart sind, nicht anzuwenden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -191,6 +194,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ## § 3 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000401118)
 
 (1) Die Unternehmen müssen Grundsätze zu den Vergütungssystemen für
 Geschäftsleiter und Geschäftsleiterinnen sowie für Mitarbeiter und
@@ -394,6 +398,7 @@ entgegen.
 
 
 ## § 4 Besondere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000501118)
 
 (1) Die besonderen Anforderungen gelten nur für Geschäftsleiter und
 Geschäftsleiterinnen bedeutender Unternehmen im Sinne des § 1 Absatz 3
@@ -535,6 +540,7 @@ Anteils der variablen Vergütung enthält.
 
 
 ## § 5 Anforderungen auf Versicherungsgruppen- und Finanzkonglomeratsebene
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000600000)
 
 (1) Übergeordnete Unternehmen einer Versicherungsgruppe im Sinne des §
 25 Absatz 3 des Versicherungsaufsichtsgesetzes und übergeordnete
@@ -572,6 +578,7 @@ schriftlich zu dokumentieren.
 
 
 ## § 6 Anpassung bestehender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000700000)
 
 (1) Die Unternehmen haben darauf hinzuwirken, dass, soweit rechtlich
 zulässig, folgende Vereinbarungen angepasst werden:
@@ -593,6 +600,7 @@ konkreten Erfolgsaussichten zu berücksichtigen sind.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versvergv_2016/BJNR076300016.html#BJNR076300016BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

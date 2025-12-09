@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000100306)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000200306)
 
 (1) Für Grundbesitz findet die nächste Hauptfeststellung der
 Einheitswerte nach § 21 des Bewertungsgesetzes in der Fassung des
@@ -168,6 +170,7 @@ worden sind.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000300306)
 
 (1) Der Zeitpunkt, von dem an die Einheitswerte des Grundbesitzes der
 Hauptfeststellung 1964 (Artikel 2 Abs. 1 Satz 1) bei der Feststellung
@@ -196,6 +199,7 @@ jeweils insgesamt ergeben.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000400306)
 
 (1) Der Zeitpunkt, von dem an die nach den Vorschriften des
 Bewertungsgesetzes in der Fassung dieses Gesetzes festgestellten
@@ -211,16 +215,19 @@ Durchführungsvorschriften festgestellt sind.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000500306)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000600306)
 
 -
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000700306)
 
 In Verbindung mit der Hauptfeststellung der Einheitswerte des
 Grundbesitzes auf den 1. Januar 1964 wird eine Einheitswertstatistik
@@ -230,6 +237,7 @@ Namen und die Anschriften der Steuerpflichtigen nicht enthalten.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000800306)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -239,6 +247,7 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE000900306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
@@ -246,41 +255,49 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001000306)
 
 -
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001100306)
 
 -
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001200306)
 
 -
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001300306)
 
 -
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001400306)
 
 -
 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001500306)
 
 -
 
 
 ## Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001600306)
 
 -
 
 
 ## Anlage 8
+[Direktlink](https://www.gesetze-im-internet.de/bewg_ndg/BJNR008510965.html#BJNR008510965BJNE001700306)
 
 -
 

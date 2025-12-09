@@ -81,12 +81,15 @@ Offshore-Erdöl- und -Erdgasaktivitäten und zur Änderung der Richtlinie
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000100000)
 
 
 ### Abschnitt 1 - Einleitung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000200000)
 
 
 #### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000200000)
 
 (1) Diese Verordnung ist für die Aufsuchung, Gewinnung und
 Aufbereitung von Bodenschätzen im Gebiet der Küstengewässer und des
@@ -111,6 +114,7 @@ Festland aus vorgenommen werden und unter ein Küstengewässer reichen.
 
 
 #### § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000300000)
 
 (1) „Offshore-Erdöl- und -Erdgasaktivitäten“ sind alle Tätigkeiten,
 die der Aufsuchung, Gewinnung und Aufbereitung von Erdöl und Erdgas im
@@ -276,9 +280,11 @@ sonstigen Unterstützungshandlungen betraut ist.
 
 
 ### Abschnitt 2 - Maßnahmen zum Schutz des Meeres und des Meeresgrundes
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000300000)
 
 
 #### § 3 Grundsätzliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000400000)
 
 (1) Der Unternehmer hat bei der Wahl der Aufsuchungs-, Gewinnungs- und
 Aufbereitungsverfahren, der Einrichtungen und der Stellen, an denen
@@ -313,6 +319,7 @@ den Stand der Technik einzuhalten.
 
 
 #### § 4 Abwasser, Abfall
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000500000)
 
 (1) Es ist verboten, Abwasser und Abfall in das Meer einzubringen, es
 sei denn, dies ist nach den Vorschriften dieser Verordnung oder nach
@@ -350,6 +357,7 @@ darf nicht gechlort werden.
 
 
 #### § 5 Bohrspülung, Bohrklein
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000600000)
 
 (1) Der Unternehmer hat bei der Durchführung der Bohrungsarbeiten
 sicherzustellen, dass der Verlust oder der Austritt von Bohrspülung so
@@ -405,6 +413,7 @@ jeweiligen Meeresbereiches zu berücksichtigen.
 
 
 #### § 6 Entledigung und Bergung von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000700000)
 
 (1) Arbeitsgeräte, Kabel, Trossen oder sonstige Gegenstände, die ein
 Hindernis für die Schifffahrt oder den Fischfang oder sonst eine
@@ -420,6 +429,7 @@ nach Absatz 1 Satz 1 ist.
 
 
 #### § 7 Sonstige Vorsorge- und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000800000)
 
 (1) Für den Fall, dass Treibstoffe, die zur Versorgung der Plattform
 bestimmt sind, bei der Übernahme von Wasserfahrzeugen austreten, hat
@@ -437,6 +447,7 @@ werden.
 
 
 #### § 8 Verfüllen nicht mehr genutzter Bohrungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE000900000)
 
 Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht
 kommen oder nicht mehr genutzt werden,
@@ -458,6 +469,7 @@ unberührt.
 
 
 #### § 9 Maßnahmen bei der Gewinnung von Lockersedimenten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001000000)
 
 (1) Bei der Gewinnung von Lockersedimenten hat der Unternehmer dafür
 zu sorgen, dass der Meeresgrund sich ökologisch regenerieren kann und
@@ -472,9 +484,11 @@ zurücklassen.
 
 
 ### Abschnitt 3 - Maßnahmen zur Sicherheit des Schiffs- und Luftverkehrs und von Unterwasser-Leitungsinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000400000)
 
 
 #### § 10 Schifffahrtszeichen, Kennzeichnung für Luftfahrt, Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001100000)
 
 (1) Der Unternehmer hat Plattformen zur Gewährleistung der Sicherheit
 des Schiffsverkehrs mit den erforderlichen Schifffahrtszeichen zu
@@ -542,6 +556,7 @@ akustisch oder optisch angezeigt werden.
 [^F795092_02_BJNR186610016BJNE001100000]: 
 
 #### § 11 Verbot der Beeinträchtigung von Schifffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001200000)
 
 (1) Es ist verboten, Schifffahrtszeichen im Zusammenhang mit
 Tätigkeiten nach § 1 zu beseitigen, zu beschädigen oder anderweitig in
@@ -556,6 +571,7 @@ irreführen oder behindern können.
 
 
 #### § 12 Schiffe im Nahbereich
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001300000)
 
 (1) Der Unternehmer hat dafür zu sorgen, dass Schiffe, die sich einer
 Plattform nähern, auf der regelmäßig Personen beschäftigt sind,
@@ -569,6 +585,7 @@ Wasserfahrzeugs aus.
 
 
 #### § 13 Sicherheitszonen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001400000)
 
 (1) Der Unternehmer hat mit Beginn der Errichtung der Plattform eine
 Sicherheitszone um die Plattform einzurichten und zu überwachen. Die
@@ -619,6 +636,7 @@ Eintragung in die Seekarten unverzüglich mitzuteilen.
 
 
 #### § 14 Sicherung des Hubschrauberverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001500000)
 
 Hubschrauberflugplätze auf ortsfesten Plattformen müssen den
 Anforderungen der Allgemeinen Verwaltungsvorschrift zur Genehmigung
@@ -630,6 +648,7 @@ Anforderungen genügen, die sich aus den in § 53 Absatz 2 Satz 1 Nummer
 
 
 #### § 15 Schutz von Unterwasser-Leitungsinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001600000)
 
 (1) Der Unternehmer hat dafür zu sorgen, dass durch seine Tätigkeiten
 und Einrichtungen Kabel und Rohrleitungen, die auf oder im Meeresgrund
@@ -655,9 +674,11 @@ bereits vorhandenen Unterwasser-Leitungsinfrastruktur herbeizuführen.
 
 
 ### Abschnitt 4 - Eignungsuntersuchungen; Arbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000500000)
 
 
 #### § 16 Eignungsuntersuchungen, Verbot der Beschäftigung Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001701124)
 
 (1) Der Unternehmer darf in Betrieben im Offshore-Bereich nur Personen
 einsetzen, soweit nach dem Ergebnis ärztlicher Untersuchungen
@@ -678,6 +699,7 @@ werden.
 
 
 #### § 17 Arbeitsschutz, Betriebsaufsicht und Pflichten der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001800000)
 
 (1) Zur Gewährleistung von Sicherheit und Gesundheitsschutz der
 Beschäftigten hat der Unternehmer die Vorschriften der Allgemeinen
@@ -713,6 +735,7 @@ Plattform anwesenden Personen enthalten sind.
 
 
 #### § 18 Vorkehrungen zur Ersten Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE001900000)
 
 Der Unternehmer hat die Anforderungen nach § 11 Absatz 1 Nummer 4 und
 Anhang 1 Nummer 5 der Allgemeinen Bundesbergverordnung zu beachten und
@@ -759,6 +782,7 @@ dabei dafür zu sorgen, dass:
 
 
 #### § 19 Sicherheits- und Gesundheitsschutzdokument
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002000000)
 
 (1) Der Unternehmer hat das Sicherheits- und Gesundheitsschutzdokument
 nach § 3 der Allgemeinen Bundesbergverordnung zu erstellen und für
@@ -793,6 +817,7 @@ anzuwenden.
 
 
 #### § 20 Sprachliche Verständigung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002100000)
 
 (1) Sind in einem Betrieb Personen mit unterschiedlicher Muttersprache
 beschäftigt, so hat der Unternehmer eine einheitliche Verkehrssprache
@@ -810,6 +835,7 @@ in der Verkehrssprache sichergestellt ist.
 
 
 #### § 21 Wetterschutzkleidung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002200000)
 
 Der Unternehmer hat den Beschäftigten
 
@@ -827,6 +853,7 @@ Der Unternehmer hat den Beschäftigten
 
 
 #### § 22 Unterkünfte, sanitäre Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002300000)
 
 (1) Der Unternehmer hat auf der Plattform Unterkünfte bereitzustellen,
 die der Art, dem Umfang und der Dauer der jeweiligen betrieblichen
@@ -969,6 +996,7 @@ unmittelbarer Zugang zwischen Wasch- und Umkleideräumen erforderlich.
 
 
 #### § 23 Allgemeine Anforderungen an Taucherarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002400000)
 
 (1) Bei Taucherarbeiten ist der Stand der Tauchtechnik einzuhalten.
 
@@ -1032,6 +1060,7 @@ zurückliegen.
 
 
 #### § 24 Durchführung von Taucherarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002500000)
 
 (1) Der Unternehmer hat dafür zu sorgen, dass bei Taucherarbeiten und
 Arbeiten in Unterwasserdruckkammern
@@ -1147,6 +1176,7 @@ gesetzlichen Unfallversicherung.
 [^F795092_03_BJNR186610016BJNE002500000]: 
 
 #### § 25 Plan für Unterwasserarbeiten und Dokumentation von Taucherarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002600000)
 
 (1) Für die Durchführung von Taucherarbeiten und Arbeiten in
 Unterwasserdruckkammern ist ein Plan (Plan für Unterwasserarbeiten)
@@ -1254,6 +1284,7 @@ vorzulegen.
 
 
 #### § 26 Brand-, Explosions- und Gasschutz
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002700000)
 
 (1) Der Unternehmer hat die nach der Art der Tätigkeiten sowie der
 Einrichtungen erforderlichen Maßnahmen und Vorkehrungen gegen das
@@ -1380,6 +1411,7 @@ bestellen.
 
 
 #### § 27 Ablegestationen und Sammelpunkte
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002800000)
 
 (1) Der Unternehmer hat auf Plattformen alle erforderlichen Maßnahmen
 zu treffen, damit
@@ -1415,6 +1447,7 @@ dem Laufenden zu halten und gut sichtbar auszuhängen.
 
 
 #### § 28 Umgang mit brennbaren und wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE002900000)
 
 (1) Der Unternehmer hat Behälter und Behältnisse zur Lagerung von
 brennbaren Flüssigkeiten so auszuwählen, aufzustellen und zu
@@ -1472,6 +1505,7 @@ Landesrecht bleiben unberührt.
 
 
 #### § 29 Umgang mit Sprengstoffen und Zündmitteln
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003000000)
 
 (1) Für die Kontrolle des Umgangs mit Sprengstoffen und Zündmitteln
 ist eine verantwortliche Person zu bestellen. Der selbständige Umgang
@@ -1560,6 +1594,7 @@ nächsterreichbaren verantwortlichen Person abzuliefern.
 
 
 #### § 30 Umgang mit radioaktiven Stoffen und Schutz vor ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003101116)
 
 (1) Bedarf der ortsveränderliche Umgang mit oder die Beförderung von
 radioaktiven Stoffen oder der ortsveränderliche Betrieb einer Anlage
@@ -1650,9 +1685,11 @@ sein muss, die als Verkehrssprache für die Plattform gemäß § 20 Absatz
 
 
 ### Abschnitt 5 - Bohrungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000600000)
 
 
 #### § 31 Niederbringen von Bohrungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003200000)
 
 (1) Bohrungen, mit denen Erdöl- oder Erdgaslagerstätten erschlossen
 werden sollen oder andere ausbruchsgefährdete Gebirgsschichten
@@ -1754,6 +1791,7 @@ wird.
 
 
 #### § 32 Überwachung des Bohrlochverlaufs und Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003300000)
 
 (1) Der Unternehmer hat bei Bohrungen
 
@@ -1803,6 +1841,7 @@ oder Erdgas dienen, ist § 49 Absatz 3 und 4 entsprechend anzuwenden.
 
 
 #### § 33 Bohrungen zur Gewinnung von Erdöl und Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003400000)
 
 (1) Bei Bohrungen zur Gewinnung von Erdöl und Erdgas müssen der
 Bohrlochkopf und seine Einrichtungen so beschaffen sein, dass sie dem
@@ -1866,6 +1905,7 @@ gefahrlos zu verbrennen.
 
 
 #### § 34 Hilfsbohrungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003500000)
 
 (1) Bei Hilfsbohrungen hat der Unternehmer dafür zu sorgen, dass die
 durch die Bohrung eingeleiteten Stoffe nicht in andere als in die
@@ -1907,6 +1947,7 @@ aufzufüllen.
 
 
 #### § 35 Verhütung und Bekämpfung von Ausbrüchen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003600000)
 
 (1) Die Beaufsichtigung von Bohrungen, bei denen ein Ausbruch nicht
 ausgeschlossen werden kann, darf der Unternehmer nur Personen
@@ -1925,6 +1966,7 @@ gefährdeter Personen getroffen werden.
 
 
 #### § 36 Zusätzliche Überwachungsmaßnahmen für die Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003700000)
 
 (1) Der Unternehmer hat in Betrieben mit Offshore-Erdöl- und
 -Erdgasaktivitäten Überwachungsvorrichtungen einzubauen, die eine
@@ -1968,9 +2010,11 @@ des Bohrlochverschlusses und das Druckverhalten zu überwachen.
 
 
 ### Abschnitt 6 - Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000700000)
 
 
 #### § 37 Betriebsanweisungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003800000)
 
 (1) Der Unternehmer hat zur Regelung wiederkehrender und für die
 Sicherheit bedeutsamer Betriebs- und Arbeitsvorgänge die für ihren
@@ -2031,6 +2075,7 @@ geeigneter Stelle im Betrieb auszuhängen oder zur Einsicht auszulegen.
 
 
 #### § 38 Bereithaltungs- und Aufbewahrungspflichten für Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE003900000)
 
 (1) Der Unternehmer hat die für den Betrieb und die Überwachung der
 Plattformen und der anderen Einrichtungen erforderlichen Unterlagen
@@ -2125,6 +2170,7 @@ Rechtsvorschriften etwas anderes ergibt.
 
 
 #### § 39 Anzeige von besonderen Ereignissen und Unfällen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004001116)
 
 (1) Der Unternehmer hat der zuständigen Behörde unverzüglich Folgendes
 anzuzeigen:
@@ -2202,12 +2248,15 @@ unverzüglich folgende Stellen zu unterrichten:
 
 
 ## Kapitel 2 - Offshore-Erdöl- und -Erdgasaktivitäten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000800000)
 
 
 ### Abschnitt 1 - Anforderungen an das Risikomanagement und den Betriebsplan; unabhängige Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG000900000)
 
 
 #### § 40 Allgemeine Anforderungen an das Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004100000)
 
 (1) Der Unternehmer hat sicherzustellen, dass Offshore-Erdöl- und
 -Erdgasaktivitäten auf der Grundlage eines systematischen
@@ -2262,6 +2311,7 @@ Gesundheit und die Umwelt zu begrenzen.
 
 
 #### § 41 Prüfung der Leistungsfähigkeit; Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004200000)
 
 (1) Ein Betriebsplan nach § 52 Absatz 1 des Bundesberggesetzes für
 Offshore-Erdöl- und -Erdgasaktivitäten ist nur zuzulassen wenn,
@@ -2364,6 +2414,7 @@ sind insbesondere zu berücksichtigen:
 
 
 #### § 42 Anforderungen an den Betriebsplan
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004300000)
 
 (1) Ein Betriebsplan nach § 52 des Bundesberggesetzes für Offshore-
 Erdöl- und -Erdgasaktivitäten ist nur zuzulassen, wenn die folgenden
@@ -2406,6 +2457,7 @@ Nummer 2 des Bundesberggesetzes vorgelegt werden.
 
 
 #### § 43 Bericht über ernste Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004400000)
 
 (1) Der Unternehmer hat einen Bericht über ernste Gefahren für
 Plattformen und angebundene Einrichtungen zu erstellen und diesen
@@ -2453,6 +2505,7 @@ der Erstellung des Berichts angehört.
 
 
 #### § 44 Unternehmenskonzept zur Verhütung schwerer Unfälle
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004500000)
 
 (1) Der Unternehmer hat ein Unternehmenskonzept zur Verhütung schwerer
 Unfälle für die Plattform, die angebundenen Einrichtungen und, sofern
@@ -2480,6 +2533,7 @@ tatsächlich umgesetzt wird. Hierzu hat er insbesondere geeignete
 
 
 #### § 45 Sicherheits- und Umweltmanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004600000)
 
 (1) Der Unternehmer hat ein Sicherheits- und Umweltmanagementsystem
 für die Plattform, die angebundenen Einrichtungen und, sofern sich der
@@ -2526,6 +2580,7 @@ Manipulationen an den Daten zu verhindern.
 
 
 #### § 46 Systeme zur unabhängigen Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004700000)
 
 (1) Der Unternehmer hat Systeme zur unabhängigen Überprüfung zu
 erstellen und diese Systeme zu beschreiben für
@@ -2625,6 +2680,7 @@ Prüfung zu beteiligen.
 
 
 #### § 47 Durchführung der unabhängigen Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004800000)
 
 (1) Der Unternehmer hat Plattformen sowie die in § 46 Absatz 1 Satz 1
 Nummer 2 genannten Einrichtungen und Geräte, soweit sie nicht von der
@@ -2702,6 +2758,7 @@ Dokumente und Betriebsanweisungen zu nehmen.
 
 
 #### § 48 Interner Notfalleinsatzplan
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE004900000)
 
 (1) Der Unternehmer hat einen internen Notfalleinsatzplan nach Anlage
 1 Nummer 10 zu erstellen für die Plattform, angebundenen Einrichtungen
@@ -2772,6 +2829,7 @@ erforderlichenfalls in weiteren Sprachen auszuhändigen.
 
 
 #### § 49 Mitteilung und Berichte über Bohrungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005000000)
 
 (1) Vor Beginn von Bohrungsarbeiten hat der Unternehmer eine
 Mitteilung über Bohrungsarbeiten zu erstellen. Diese enthält
@@ -2823,6 +2881,7 @@ Absatz 3 anzuwenden.
 
 
 #### § 50 Mitteilung über den kombinierten Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005100000)
 
 (1) Der Unternehmer hat eine Mitteilung über den kombinierten Betrieb
 nach Anlage 1 Nummer 7 zu erstellen. Sind an einem kombinierten
@@ -2839,6 +2898,7 @@ Betriebsmanagement, zu unterrichten. Die zuständige Behörde prüft die
 
 
 #### § 51 Mitteilung über die Standortverlegung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005200000)
 
 (1) Vor der Verlegung des Standortes einer Plattform hat der
 Unternehmer die Mitteilung über die Standortverlegung nach den
@@ -2856,6 +2916,7 @@ unverzüglich in Kenntnis zu setzen.
 
 
 #### § 52 Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005300000)
 
 (1) Zur Beförderung von Erdöl, Erdgas und von weiteren Stoffen, die im
 Zusammenhang mit der Aufsuchung, Gewinnung oder Aufbereitung von Erdöl
@@ -2964,9 +3025,11 @@ anzuwenden.
 
 
 ### Abschnitt 2 - Anforderungen an Plattformen; Notfallmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG001000000)
 
 
 #### § 53 Genehmigung von Plattformen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005400000)
 
 (1) Die Errichtung, der Betrieb sowie alle wesentlichen Änderungen
 einer Plattform sowie einer angebundenen Einrichtung nach § 2 Absatz
@@ -3064,6 +3127,7 @@ nach Absatz 4 abzugeben.
 [^F795092_04_BJNR186610016BJNE005400000]: 
 
 #### § 54 Positionierung von Plattformen auf See
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005500000)
 
 (1) Während der Positionierung der Plattformen auf See sind alle
 personellen, organisatorischen und sachlichen Maßnahmen zu treffen,
@@ -3094,6 +3158,7 @@ ist.
 
 
 #### § 55 Sprech- und Sprechfunkverbindungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005600000)
 
 (1) Der Unternehmer hat auf jeder Plattform eine Sprechverbindung
 zwischen dem Dienstraum der für die Plattform verantwortlichen Person,
@@ -3137,6 +3202,7 @@ Beschäftigten an den Lastaufnahmeeinrichtungen erforderlich ist.
 
 
 #### § 56 Melde- und Schutzsysteme
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005700000)
 
 (1) Der Unternehmer hat jede Plattform mit einem akustischen
 Warnsystem auszustatten, mit dem die Beschäftigten bei Gefahr gewarnt
@@ -3220,6 +3286,7 @@ folgende Systeme ausgestattet sein:
 
 
 #### § 57 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005800000)
 
 (1) Der Unternehmer hat dafür zu sorgen, dass bei Gefahr alle Personen
 die Plattform sofort verlassen und Verunglückte aus dem Wasser
@@ -3271,6 +3338,7 @@ müssen sofort einsatzfähig sein.
 
 
 #### § 58 Notfallübungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE005900000)
 
 (1) Der Unternehmer hat in enger Zusammenarbeit mit der zuständigen
 Behörde auf Grundlage des internen und des externen
@@ -3310,6 +3378,7 @@ vermitteln.
 
 
 #### § 59 Notfallmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006000000)
 
 (1) Der Unternehmer hat im Fall eines schweren Unfalls alle geeigneten
 Maßnahmen zu ergreifen, um eine Eskalation des schweren Unfalls zu
@@ -3331,9 +3400,11 @@ anderen Vorschriften bleiben unberührt.
 
 
 ### Abschnitt 3 - Sonstige Berichts- und Handlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG001100000)
 
 
 #### § 60 Leitfäden
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006100000)
 
 (1) Unternehmer, die
 Offshore-Erdöl- und Erdgasaktivitäten durchführen, haben Leitfäden zu
@@ -3354,6 +3425,7 @@ Mitgliedstaaten sind zu nutzen.
 
 
 #### § 61 Vertrauliche Meldung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006200000)
 
 (1) Die Beschäftigten sowie andere im Betrieb eingesetzte Personen
 können der zuständigen Behörde Bedenken hinsichtlich der Sicherheit
@@ -3378,6 +3450,7 @@ grob missbräuchlich gewesen ist.
 
 
 #### § 62 Informationsaustausch zwischen Unternehmer und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006300000)
 
 (1) Zur Gewährleistung eines grenzübergreifenden europäischen
 Informationsaustausches für ernste Gefahren hat der Unternehmer der
@@ -3397,6 +3470,7 @@ entsprechend den Vorgaben der Durchführungsverordnung (EU) Nr.
 
 
 #### § 63 Beförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006400000)
 
 Der Unternehmer hat auf Verlangen der zuständigen Behörde Personen,
 die auf Weisung der zuständigen Behörde tätig sind, samt ihrer
@@ -3408,6 +3482,7 @@ unterstützen.
 
 
 #### § 64 Bericht über Offshore-Erdöl- und -Erdgasaktivitäten außerhalb der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006500000)
 
 (1) Unternehmer, die ihren Sitz in der Bundesrepublik Deutschland
 haben und selbst oder über Tochterunternehmen
@@ -3425,9 +3500,11 @@ Europäischen Union ausgetauscht.
 
 
 ### Abschnitt 4 - Pflichten der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG001200000)
 
 
 #### § 65 Externe Notfalleinsatzpläne und Notfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006600000)
 
 (1) Die zuständige Behörde hat einen oder mehrere externe
 Notfalleinsatzpläne für die Plattformen oder angebundene Einrichtungen
@@ -3499,6 +3576,7 @@ nach § 58 Absatz 1 und § 67 Absatz 5 zu berücksichtigen.
 
 
 #### § 66 Untersuchungen bei und nach einem schweren Unfall
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006700000)
 
 (1) Die zuständige Behörde hat bei schweren Unfällen in ihrem
 Zuständigkeitsbereich gründliche Untersuchungen einzuleiten und aus
@@ -3538,6 +3616,7 @@ Fassung bleiben unberührt.
 
 
 #### § 67 Zusammenarbeit innerhalb der Europäischen Union, Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006800000)
 
 (1) Die zuständige Behörde hat für Offshore-Erdöl- und
 -Erdgasaktivitäten, die in ihrem Zuständigkeitsbereich stattfinden,
@@ -3606,9 +3685,11 @@ Kommission.
 
 
 ## Kapitel 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNG001300000)
 
 
 ### § 68 Übertragung der Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE006900000)
 
 Der Unternehmer kann die sich aus dieser Verordnung ergebenden
 Pflichten ganz oder teilweise auf verantwortliche Personen übertragen,
@@ -3617,6 +3698,7 @@ ausgeschlossen ist.
 
 
 ### § 69 Untergrundspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007000000)
 
 (1) Die Vorschriften der Kapitel 1 und 3 sind auf die in § 1 Absatz 2
 genannten Tätigkeiten entsprechend anzuwenden.
@@ -3641,6 +3723,7 @@ anzuwenden:
 
 
 ### § 70 Ausnahmebewilligungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007100000)
 
 Die zuständige Behörde kann im Einzelfall Ausnahmen von den
 Vorschriften des § 24 Absatz 1 Nummer 8, des § 31 Absatz 3 bis 5, des
@@ -3653,6 +3736,7 @@ gleichwertig sichergestellt ist.
 
 
 ### § 71 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007200000)
 
 (1) Ordnungswidrig im Sinne des § 145 Absatz 3 Nummer 1 des
 Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3786,6 +3870,7 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 72 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007300000)
 
 Auf Plattformen und andere Einrichtungen, die am 5. August 2016
 aufgrund einer Genehmigung oder Betriebsplanzulassung bereits
@@ -3810,6 +3895,7 @@ Absatz 2, § 48 Absatz 1 und 2, § 49 Absatz 1, § 50 Absatz 1, § 51
 Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)
 
 ### Anlage 1 Ausgestaltung der Unterlagen für den Betriebsplan und die Genehmigung von Plattformen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007400000)
 
 (Fundstelle: BGBl. I 2016,1896 - 1902
 
@@ -5015,6 +5101,7 @@ Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)
 (zu § 49 Absatz 3)
 
 ### Anlage 2 Informationen in den Berichten über Bohrungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007500000)
 
 (Fundstelle: BGBl. I 2016,1903)
 
@@ -5078,6 +5165,7 @@ Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)
 (zu den §§ 44, 45)
 
 ### Anlage 3 Vorkehrungen des Unternehmers zur Verhütung schwerer Unfälle
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007600000)
 
 (Fundstelle: BGBl. I 2016,1904)
 
@@ -5190,6 +5278,7 @@ Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)
 (zu § 60 Absatz 1)
 
 ### Anlage 4 Prioritäten für Entwicklung von Leitfäden nach § 60
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007700000)
 
 (Fundstelle: BGBl. I 2016,1905)
 
@@ -5239,6 +5328,7 @@ folgende Aspekte zu berücksichtigen:
 (zu § 65 Absatz 1)
 
 ### Anlage 5 Informationen in den externen Notfalleinsatzplänen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007800000)
 
 (Fundstelle: BGBl. I 2016,1906)
 
@@ -5339,6 +5429,7 @@ folgende Aspekte zu berücksichtigen:
 (zu § 65 Absatz 5)
 
 ### Anlage 6 Verzeichnis über Notfallgerätschaften und -vorkehrungen
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE007900000)
 
 (Fundstelle: BGBl. I 2016,1907)
 
@@ -5462,6 +5553,7 @@ folgende Aspekte zu berücksichtigen:
 (zu § 62 Absatz 1 und § 67 Absatz 1)
 
 ### Anlage 7 Informationsaustausch und Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/offshorebergv/BJNR186610016.html#BJNR186610016BJNE008000000)
 
 (Fundstelle: BGBl. I 2016,1908)
 

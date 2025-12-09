@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNG000100118)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000200000)
 
 Diese Verordnung gilt für alle Institute im Sinne des § 1 Absatz 1b
 des Kreditwesengesetzes sowie für übergeordnete Unternehmen im Sinne
@@ -32,9 +34,11 @@ Verbindung mit Absatz 3, des Kreditwesengesetzes.
 
 
 ## Abschnitt 2 - Finanzinformationen
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNG000200118)
 
 
 ### § 2 Art und Umfang der Finanzinformationen und der ergänzenden Informationen
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000302128)
 
 (1) Die Finanzinformationen im Sinne des § 25 Absatz 1 und 2 des
 Kreditwesengesetzes bestehen aus:
@@ -69,6 +73,7 @@ darüber hinaus ergänzende Informationen nach § 7 einzureichen.
 
 
 ### § 3 Termin und Verfahren zur Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000401118)
 
 (1) Der Berichtszeitraum für die Finanzinformationen und die
 ergänzenden Informationen umfasst ein Quartal. Abweichend davon
@@ -93,6 +98,7 @@ einzureichen.
 
 
 ### § 4 Finanzinformationen von Kreditinstituten
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000501118)
 
 (1) Kreditinstitute mit Ausnahme von Wertpapierhandelsbanken im Sinne
 des § 1 Absatz 3d Satz 5 des Kreditwesengesetzes haben die folgenden
@@ -153,6 +159,7 @@ die Gleichwertigkeit trifft die Bundesanstalt.
 
 
 ### § 5 Finanzinformationen von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000601128)
 
 (1) Finanzdienstleistungsinstitute haben die folgenden
 Finanzinformationen einzureichen und hierfür die folgenden Formulare
@@ -174,6 +181,7 @@ Absatz 1 einzureichen, befreit.
 
 
 ### § 6 Finanzinformationen auf zusammengefasster Basis
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000701118)
 
 (1) Übergeordnete Unternehmen haben auf zusammengefasster Basis das
 Formular Sonstige Angaben – QSA (Anlage 13) einzureichen.
@@ -200,6 +208,7 @@ Formulare aus den Anlagen der Verordnung zu verwenden:
 
 
 ### § 7 Ergänzende Informationen von Finanzdienstleistungsinstituten
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000802128)
 
 (1) Finanzdienstleistungsinstitute, die die
 Drittstaateneinlagenvermittlung erbringen, haben ergänzend zu den
@@ -257,9 +266,11 @@ einzureichen:
 
 
 ## Abschnitt 3 - Risikotragfähigkeitsinformationen
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNG000300118)
 
 
 ### § 8 Art und Umfang der Risikotragfähigkeitsinformationen
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE000902119)
 
 (1) Die Risikotragfähigkeitsinformationen im Sinne des § 25 Absatz 1
 und 2 des Kreditwesengesetzes bestehen aus den Angaben zur Konzeption
@@ -280,6 +291,7 @@ Anlagen 14 bis 26 nicht berührt.
 
 
 ### § 9 Turnus, Frist und Verfahren zur Einreichung der Risikotragfähigkeitsinformationen
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002301119)
 
 (1) Nach § 25 Absatz 1 Satz 2 und Absatz 2 Satz 2 des
 Kreditwesengesetzes haben Kreditinstitute und übergeordnete
@@ -299,6 +311,7 @@ Datenformate und den Übertragungsweg.
 
 
 ### § 10 Risikotragfähigkeitsinformationen von Kreditinstituten
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002402119)
 
 (1) Kreditinstitute haben die Angaben gemäß § 8 Absatz 1 zu melden und
 hierfür die Formulare aus den Anlagen 14 und 17 bis 26 dieser
@@ -320,6 +333,7 @@ gewährt gilt.
 
 
 ### § 11 Risikotragfähigkeitsinformationen auf zusammengefasster Ebene
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002502119)
 
 (1) Übergeordnete Unternehmen einer Gruppe, zu der mindestens ein
 Kreditinstitut mit Sitz im Inland gehört, haben die
@@ -335,6 +349,7 @@ Risikotragfähigkeitsinformationen nach Absatz 1 einzureichen, befreit.
 
 
 ### § 12 Kreditinstitute und Gruppen mit erhöhter Meldefrequenz
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002601119)
 
 Die Bundesanstalt kann für ein Kreditinstitut oder eine Gruppe im
 Einzelfall eine erhöhte Meldefrequenz anordnen, soweit dies zur
@@ -342,14 +357,17 @@ Erfüllung ihrer Aufgaben erforderlich ist.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNG000400118)
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002701118)
 
 
 (zu § 4 Abs 1 Nummer 1)
 
 ### Anlage 1 GVKI
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001000000)
 
 (Fundstelle: BGBl. I 2013, 4213 - 4214)
 
@@ -357,6 +375,7 @@ Erfüllung ihrer Aufgaben erforderlich ist.
 (zu § 4 Absatz 1 Nummer 2)
 
 ### Anlage 2 GVKIP
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001100000)
 
 (Fundstelle: BGBl. I 2013, 4215 - 4216)
 
@@ -364,6 +383,7 @@ Erfüllung ihrer Aufgaben erforderlich ist.
 (zu § 4 Absatz 1 Nummer 3)
 
 ### Anlage 3 SAKI
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001202119)
 
 (Fundstelle: BGBl. I 2020, 1891 – 1892)
 
@@ -1535,6 +1555,7 @@ _\_\__\_\__\_\__\_\_
 (zu § 5 Absatz 1 Nummer 1)
 
 ### Anlage 4 GVFDI
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001300000)
 
 (Fundstelle: BGBl. I 2013, 4219 - 4220)
 
@@ -1542,6 +1563,7 @@ _\_\__\_\__\_\__\_\_
 (zu § 5 Absatz 1 Nummer 2)
 
 ### Anlage 5 STFDI
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001400000)
 
 (Fundstelle: BGBl. I 2013, 4221 - 4222)
 
@@ -1549,6 +1571,7 @@ _\_\__\_\__\_\__\_\_
 (zu § 6 Absatz 2 Nummer 1)
 
 ### Anlage 6 QGV
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001501118)
 
 (Fundstelle: BGBl. I 2013, 4223 - 4224; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1557,6 +1580,7 @@ vgl. Fußnote)
 (zu § 4 Absatz 6 Satz 1)
 
 ### Anlage 7 QGVP
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001601118)
 
 (Fundstelle: BGBl. I 2013, 4225 - 4226; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1565,6 +1589,7 @@ vgl. Fußnote)
 (zu § 6 Absatz 2 Nummer 2)
 
 ### Anlage 8 QV 1
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001701118)
 
 (Fundstelle: BGBl. I 2013, 4227 - 4228; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1573,6 +1598,7 @@ vgl. Fußnote)
 (zu § 6 Absatz 2 Nummer 3)
 
 ### Anlage 9 QV 2
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001801118)
 
 (Fundstelle: BGBl. I 2013, 4229 - 4230; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1580,19 +1606,23 @@ vgl. Fußnote)
 
 
 ### Anlage 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE001901118)
 
 
 
 ### Anlage 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002001118)
 
 
 
 ### Anlage 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002101118)
 
 
 (zu § 6 Absatz 1)
 
 ### Anlage 13 QSA
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002202119)
 
 (Fundstelle: BGBl. I 2020, 1893)
 
@@ -2101,6 +2131,7 @@ _\_\__\_\__\_\__\_\_
 (zu § zu § 7 Absatz 3)
 
 ### Anlage 13a EKRQU
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003900118)
 
 (Fundstelle: BGBl. I 2018, 1088 – 1089)
 
@@ -2526,12 +2557,14 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 [^F803224_06_BJNR420910013BJNE003900118]: 
 
 ### Anlage 14
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002801119)
 
 (Fundstelle: BGBl. I 2020, 1894)
 
 
 
 ### Anlage 15
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE002901119)
 
 (Fundstelle: BGBl. I 2020, 1895 – 1896)
 
@@ -2539,18 +2572,21 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 16 (zu § 11 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003000118)
 
 (Fundstelle: BGBl. I 2014, 2343)
 
 
 
 ### Anlage 17 (zu § 10 Absatz 1 und § 11 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003100118)
 
 (Fundstelle: BGBl. I 2014, 2344)
 
 
 
 ### Anlage 18
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003201119)
 
 (Fundstelle: BGBl. I 2020, 1897 – 1898)
 
@@ -2558,6 +2594,7 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 19
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003301119)
 
 (Fundstelle: BGBl. I 2020, 1899 – 1901)
 
@@ -2566,6 +2603,7 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 20
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003401119)
 
 (Fundstelle: BGBl. I 2020, 1902 – 1904)
 
@@ -2574,6 +2612,7 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 21
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003501119)
 
 (Fundstelle: BGBl. I 2020, 1905 – 1907)
 
@@ -2582,6 +2621,7 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 22
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003601119)
 
 (Fundstelle: BGBl. I 2020, 1908 – 1909)
 
@@ -2589,6 +2629,7 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 23
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003701119)
 
 (Fundstelle: BGBl. I 2020, 1910 – 1917)
 
@@ -2602,12 +2643,14 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 24
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE003801119)
 
 (Fundstelle: BGBl. I 2020, 1918)
 
 
 
 ### Anlage 25
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE004000119)
 
 (Fundstelle: BGBl. I 2020, 1919 – 1925)
 
@@ -2620,6 +2663,7 @@ Finanzinformationen gemäß § 25 Absatz 1 Satz 1 KWG
 
 
 ### Anlage 26
+[Direktlink](https://www.gesetze-im-internet.de/finav/BJNR420910013.html#BJNR420910013BJNE004100119)
 
 (Fundstelle: BGBl. I 2020, 1926 – 1930)
 

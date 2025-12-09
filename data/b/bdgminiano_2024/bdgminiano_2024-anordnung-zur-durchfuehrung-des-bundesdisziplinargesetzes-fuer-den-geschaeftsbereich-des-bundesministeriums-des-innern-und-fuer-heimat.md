@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano_2024/BJNR0930A0024.html#BJNR0930A0024BJNE000100000)
 
 Das Bundesministerium des Innern und für Heimat erlässt nach § 34
 Absatz 5 Satz 1, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des
@@ -27,6 +28,7 @@ I Nr. 389) geändert worden ist, die folgende Anordnung:
 
 
 ## I. Geschäftsbereich des Bundesministeriums des Innern und für Heimat ohne Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano_2024/BJNR0930A0024.html#BJNR0930A0024BJNE000200000)
 
 
 1.  Den Leiterinnen und Leitern der Behörden des Geschäftsbereichs werden
@@ -60,6 +62,7 @@ I Nr. 389) geändert worden ist, die folgende Anordnung:
 
 
 ## II. Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano_2024/BJNR0930A0024.html#BJNR0930A0024BJNE000300000)
 
 
 1.  Die in § 1 Absatz 1 Nummer 2 und 3 der Verordnung zu § 82 des
@@ -101,6 +104,7 @@ I Nr. 389) geändert worden ist, die folgende Anordnung:
 
 
 ## III. Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano_2024/BJNR0930A0024.html#BJNR0930A0024BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. April 2024 in Kraft. Von
 diesem Zeitpunkt an ist die Anordnung zur Durchführung des

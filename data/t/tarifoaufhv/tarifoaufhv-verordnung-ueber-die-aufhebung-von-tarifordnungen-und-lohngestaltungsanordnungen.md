@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tarifoaufhv/BJNR507800968.html#BJNR507800968BJNE000100314)
 
 Auf Grund des § 9 Abs. 2 des Tarifvertragsgesetzes vom 9. April 1949
 (Gesetzblatt der Verwaltung des Vereinigten Wirtschaftsgebietes S. 55)
@@ -29,6 +30,7 @@ Tarifausschusses verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/tarifoaufhv/BJNR507800968.html#BJNR507800968BJNE000200314)
 
 Die Tarifordnungen und die auf Grund der Verordnung über die
 Lohngestaltung vom 25. Juni 1938 (Reichsgesetzbl. I S. 691) und der
@@ -51,11 +53,13 @@ ausgenommen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/tarifoaufhv/BJNR507800968.html#BJNR507800968BJNE000300314)
 
 Diese Verordnung tritt am 1. Januar 1971 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/tarifoaufhv/BJNR507800968.html#BJNR507800968BJNE000400314)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

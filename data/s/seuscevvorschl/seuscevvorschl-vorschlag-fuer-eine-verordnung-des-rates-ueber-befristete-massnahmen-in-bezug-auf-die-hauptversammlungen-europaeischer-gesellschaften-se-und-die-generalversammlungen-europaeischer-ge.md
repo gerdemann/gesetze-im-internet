@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/seuscevvorschl/BJNR095000020.html#BJNR095000020BJNE000100000)
 
 Der Rat der Europäischen Union –
 
@@ -133,6 +134,7 @@ hat folgende Verordnung erlassen:
 Befristete Maßnahme in Bezug auf die
 
 ## Art 1 Hauptversammlungen Europäischer Gesellschaften (SE)
+[Direktlink](https://www.gesetze-im-internet.de/seuscevvorschl/BJNR095000020.html#BJNR095000020BJNE000200000)
 
 Europäische Gesellschaften (SE), die verpflichtet sind, im Jahr 2020
 eine Hauptversammlung nach Artikel 54 Absatz 1 Satz 1 der Verordnung
@@ -146,6 +148,7 @@ Befristete Maßnahme
 in Bezug auf die Generalversammlungen
 
 ## Art 2 Europäischer Genossenschaften (SCE)
+[Direktlink](https://www.gesetze-im-internet.de/seuscevvorschl/BJNR095000020.html#BJNR095000020BJNE000300000)
 
 Europäische Genossenschaften (SCE), die verpflichtet sind, im Jahr
 2020 eine Generalversammlung nach Artikel 54 Absatz 1 Satz 1 der
@@ -157,12 +160,14 @@ Dezember 2020 stattfindet.
 
 
 ## Art 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seuscevvorschl/BJNR095000020.html#BJNR095000020BJNE000400000)
 
 Diese Verordnung tritt am Tag nach ihrer Veröffentlichung im Amtsblatt
 der Europäischen Union in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/seuscevvorschl/BJNR095000020.html#BJNR095000020BJNE000500000)
 
 
 *    *   Diese Verordnung ist in allen ihren Teilen verbindlich und gilt

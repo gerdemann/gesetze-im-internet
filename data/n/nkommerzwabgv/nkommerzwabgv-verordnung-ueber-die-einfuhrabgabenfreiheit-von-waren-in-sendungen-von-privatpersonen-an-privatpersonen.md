@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000100311)
 
 Auf Grund des § 24 Abs. 1 und des § 79 Abs. 1 des Zollgesetzes in der
 Fassung der Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529) und des
@@ -29,6 +30,7 @@ Artikels 3 des Vierzehnten Gesetzes zur Änderung des Zollgesetzes vom
 
 
 ## § 1 Kleinsendungen nichtkommerzieller Art
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000208301)
 
 (1) Frei von Einfuhrabgaben (§ 1 Abs. 1 Satz 3 des
 Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125, 1993 I
@@ -105,37 +107,44 @@ Zollfreiheit.
 
 
 ## § 2 Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000301301)
 
 Für die Abgabenfreiheit von Verbrauchsteuern ist das Steuergebiet nach
 den Verbrauchsteuergesetzen maßgeblich.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000400311)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000500311)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000600311)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000701301)
 
 -
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000800311)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1979 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/nkommerzwabgv/BJNR000730979.html#BJNR000730979BJNE000900306)
 
 Der Bundesminister der Finanzen
 

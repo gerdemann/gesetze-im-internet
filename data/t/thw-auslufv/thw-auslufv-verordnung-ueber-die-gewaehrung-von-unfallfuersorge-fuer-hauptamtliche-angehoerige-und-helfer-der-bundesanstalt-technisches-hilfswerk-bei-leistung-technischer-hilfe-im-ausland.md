@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/thw-auslufv/BJNR157100996.html#BJNR157100996BJNE000100000)
 
 Auf Grund des § 3 Abs. 8 des THW-Helferrechtsgesetzes vom 22. Januar
 1990 (BGBl. I S. 118), der durch Artikel 5 des Gesetzes vom 28. Juli
@@ -31,6 +32,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/thw-auslufv/BJNR157100996.html#BJNR157100996BJNE000200000)
 
 (1) Diese Verordnung regelt die Unfallfürsorge für Angestellte und
 Arbeiter der Bundesanstalt Technisches Hilfswerk (hauptamtliche
@@ -43,6 +45,7 @@ bleibt unberührt.
 
 
 ## § 2 Erkrankungen und Unfälle im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/thw-auslufv/BJNR157100996.html#BJNR157100996BJNE000301310)
 
 Bei einer Verwendung hauptamtlicher Angehöriger und Helfer im Sinne
 des § 1 Abs. 2 Satz 2 Nr. 2 des THW-Gesetzes wird diesen Personen
@@ -56,6 +59,7 @@ einen Unfall infolge derartiger Verhältnisse.
 
 
 ## § 3 Ausschluß der Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/thw-auslufv/BJNR157100996.html#BJNR157100996BJNE000400000)
 
 Die Unfallfürsorge ist ausgeschlossen, wenn sich der hauptamtliche
 Angehörige oder Helfer grob fahrlässig der Gefährdung ausgesetzt hat,
@@ -63,6 +67,7 @@ es sei denn, daß der Ausschluß für ihn eine unbillige Härte wäre.
 
 
 ## § 4 Anrechnung anderer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/thw-auslufv/BJNR157100996.html#BJNR157100996BJNE000500000)
 
 (1) Auf laufende und einmalige Geldleistungen, die im Rahmen der
 Unfallfürsorge wegen eines Körper-, Sach- oder Vermögensschadens
@@ -82,6 +87,7 @@ beruhen, werden nicht angerechnet.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/thw-auslufv/BJNR157100996.html#BJNR157100996BJNE000600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

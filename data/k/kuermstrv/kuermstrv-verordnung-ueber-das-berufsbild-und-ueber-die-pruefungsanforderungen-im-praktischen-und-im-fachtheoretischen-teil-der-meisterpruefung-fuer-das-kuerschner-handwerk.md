@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE000400305)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -32,10 +33,12 @@ Wissenschaft:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNG000100305)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE000500305)
 
 (1) Dem Kürschner-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -129,10 +132,12 @@ zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNG000200305)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE000600305)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -149,6 +154,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE000701116)
 
 (1) Als Meisterprüfungsarbeit sind die nachstehend genannten Arbeiten
 anzufertigen:
@@ -177,6 +183,7 @@ berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE000800305)
 
 (1) Als Arbeitsprobe sind die nachstehend genannten Arbeiten
 auszuführen:
@@ -204,6 +211,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE000900305)
 
 (1) In Teil II sind Kenntnisse in den folgenden vier Prüfungsfächern
 nachzuweisen:
@@ -275,16 +283,19 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 3.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNG000300305)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE001000305)
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -294,6 +305,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/k_rmstrv/BJNR346300994.html#BJNR346300994BJNE001200305)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 

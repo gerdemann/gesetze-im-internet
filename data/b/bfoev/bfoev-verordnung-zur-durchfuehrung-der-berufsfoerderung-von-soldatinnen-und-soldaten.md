@@ -24,6 +24,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000100000)
 
 Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in
 der Fassung der Bekanntmachung vom 9. April 2002 (BGBl. I S. 1258,
@@ -32,10 +33,12 @@ I S. 1234) eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Vorschriften und Berufsberatung nach § 5 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNG000700377)
 
 
 
 ### § 1 Maßnahmen der schulischen und beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000303377)
 
 (1) Schulische und berufliche Bildung werden durch Maßnahmen mit einem
 bestimmten Bildungsziel vermittelt. Gefördert werden nur Maßnahmen,
@@ -55,6 +58,7 @@ Bildung sein wird.
 
 
 ### § 1a Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004301377)
 
 (1) Für die Beratung in Fragen der schulischen und beruflichen Bildung
 sind die Karrierecenter der Bundeswehr – Berufsförderungsdienst –
@@ -111,6 +115,7 @@ aus.
 
 
 ### § 2 Berufsberatung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000404377)
 
 (1) Das Beratungsgespräch umfasst:
 
@@ -219,6 +224,7 @@ Soldatenversorgungsgesetzes, und im Übrigen auf Antrag beraten.
 
 
 ### § 2a Erstattung von Aufwendungen für die Berufsberatung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004401377)
 
 (1) Hat die Soldatin auf Zeit oder der Soldat auf Zeit die
 Wehrdienstzeit beendet und ist ihr oder ihm gestattet worden, von
@@ -238,6 +244,7 @@ gestellt wird. Absatz 1 gilt entsprechend.
 
 
 ### § 3 Förderungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000501116)
 
 (1) Die Beratungsergebnisse sind im Einvernehmen mit den
 Förderungsberechtigten in einer Niederschrift zu dokumentieren und
@@ -251,10 +258,12 @@ aktualisieren.
 
 
 ## Teil 2 - Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 6 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNG000201377)
 
 
 
 ### § 4 Voraussetzungen der Förderungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000601116)
 
 (1) Förderungsfähig sind Bildungsmaßnahmen fachberuflicher und
 berufsübergreifender Art. Soweit dies im Einzelfall nach dem
@@ -288,6 +297,7 @@ benannten Stelle.
 
 
 ### § 5 Durchführung der dienstzeitbegleitenden Förderung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000703377)
 
 (1) Gefördert wird die Teilnahme an Bildungsmaßnahmen der
 Bundeswehrfachschulen und an Bildungsmaßnahmen, die durch das
@@ -312,6 +322,7 @@ nicht anzuwenden.
 
 
 ### § 6 Erstattung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000804377)
 
 (1) Die Teilnahme an internen Maßnahmen ist kostenfrei. § 8 Absatz 3
 des Soldatenversorgungsgesetzes gilt entsprechend.
@@ -330,6 +341,7 @@ machen.
 
 
 ### § 7 Bestandteile der Bewilligungen nach § 6 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE000904377)
 
 (1) Der Bescheid über die Bewilligung der dienstzeitbegleitenden
 Förderung kann widerrufen werden, wenn
@@ -378,10 +390,12 @@ erstattet.
 
 
 ## Teil 3 - Förderung der schulischen Bildung nach § 7 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNG000301377)
 
 
 
 ### § 8 Grundsatz zur Förderung der schulischen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001001116)
 
 Die Förderung der schulischen Bildung weicht von der Förderung der
 beruflichen Bildung nur ab, soweit die §§ 9 bis 14 ausdrücklich
@@ -389,6 +403,7 @@ Anderes regeln.
 
 
 ### § 9 Lehrgänge an Bundeswehrfachschulen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001103377)
 
 (1) An Bundeswehrfachschulen können folgende Lehrgänge durchgeführt
 werden:
@@ -500,12 +515,14 @@ gemacht werden.
 
 
 ### § 10 Zahl der Unterrichtsstunden
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001201116)
 
 Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach
 Lehrgang bis zu 750 Unterrichtsstunden.
 
 
 ### § 11 Zulassung ab einem höheren Studienhalbjahr und Lehrgangswechsel
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001302377)
 
 (1) Auf Antrag kann bei entsprechender Vorbildung der
 Förderungsberechtigten die Teilnahme an den Lehrgängen nach § 9 Abs. 1
@@ -521,6 +538,7 @@ Berufsförderungsdienst – zu stellen.
 
 
 ### § 12 Kosten der Lehrgangsteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001403377)
 
 (1) Bei Maßnahmen nach § 9 Absatz 1 Satz 1 Nummer 7 werden pro
 angefangenem Monat der Förderung pauschal 200 Euro, höchstens jedoch
@@ -540,6 +558,7 @@ Soldatenversorgungsgesetzes.
 
 
 ### § 13 Form und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001503377)
 
 (1) Förderungsberechtigte haben dem Karrierecenter der Bundeswehr –
 Berufsförderungsdienst – spätestens sieben Monate vor Beginn der
@@ -564,6 +583,7 @@ Einzelfällen abgewichen werden.
 
 
 ### § 14 Versetzung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001601377)
 
 (1) Nach erfolgreichem Unterrichtsbesuch werden die
 Förderungsberechtigten von einem Studienhalbjahr in das nächstfolgende
@@ -583,10 +603,12 @@ durch eine Prüfung an der Bundeswehrfachschule abgeschlossen.
 
 
 ## Teil 4 - Förderung der beruflichen Bildung nach § 7 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNG000401377)
 
 
 
 ### § 15 Gegenstand der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001703377)
 
 (1) Gefördert werden die fachberufliche Aus-, Fort- und Weiterbildung
 sowie die Umschulung der Förderungsberechtigten in öffentlichen und
@@ -673,6 +695,7 @@ Europäischen Union kann gefördert werden, wenn
 
 
 ### § 16 Durchführung der Förderung der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004800377)
 
 (1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie
 bis zum Ablauf von sieben Jahren nach Beendigung des
@@ -721,6 +744,7 @@ personalbearbeitenden Stelle widerrufen werden, wenn
 
 
 ### § 17 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE001903377)
 
 (1) Die Förderung ist vor Beginn der Maßnahme schriftlich oder
 elektronisch zu beantragen. Wird der Antrag verspätet gestellt und
@@ -736,6 +760,7 @@ Einzelfalls.
 
 
 ### § 18 Persönliche Förderungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002002377)
 
 (1) Die beantragte Maßnahme der beruflichen Bildung wird bewilligt,
 wenn
@@ -778,6 +803,7 @@ berufsständische Organisationen gutachtlich gehört werden.
 
 
 ### § 19 Kosten der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002103377)
 
 (1) Soweit die Soldatinnen auf Zeit und Soldaten auf Zeit oder die zu
 ihrem Unterhalt Verpflichteten die Kosten selbst tragen müssten, wenn
@@ -936,6 +962,7 @@ Soldatenversorgungsgesetzes nicht angerechnet.
 
 
 ### § 20 Lehrgangs- und Studiengebühren
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002203377)
 
 (1) Zu den Lehrgangs- und Studiengebühren gehören auch Aufnahme- und
 Prüfungsgebühren. Die Prüfungsgebühren und die durch Teilnahme an der
@@ -967,6 +994,7 @@ Maßnahme.
 
 
 ### § 21 Kosten für Ausbildungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002302377)
 
 (1) Ausbildungsmittel sind:
 
@@ -1019,10 +1047,12 @@ Fassung.
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002402377)
 
 
 
 ### § 23 Reise- und Trennungsauslagen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002501116)
 
 (1) Bei der Förderung einer Maßnahme der beruflichen Bildung sind die
 für die Beamtinnen und Beamten des Bundes geltenden reise- und
@@ -1039,6 +1069,7 @@ Teilnahme nachzuweisen.
 
 
 ### § 24 Kosten für Studienfahrten aus Anlass der Maßnahme der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002602377)
 
 (1) Notwendige Kosten für Studienfahrten - auch in das Ausland - aus
 Anlass der Maßnahme der beruflichen Bildung sind zu übernehmen, wenn
@@ -1055,6 +1086,7 @@ stellen. § 20 Abs. 2 und § 23 gelten entsprechend.
 
 
 ### § 25 Kosten für Eignungsfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002703377)
 
 (1) Förderungsberechtigten, die sich vor der Entscheidung über den
 Antrag auf Förderung einer Maßnahme der beruflichen Bildung mit
@@ -1071,6 +1103,7 @@ Karrierecenter der Bundeswehr – Berufsförderungsdienst – zu stellen. §
 
 
 ### § 26 Zuschuss zu den Umzugsauslagen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002801123)
 
 Förderungsberechtigte, denen eine Maßnahme der beruflichen Bildung
 außerhalb ihres Wohnortes bewilligt worden ist, können auf einen
@@ -1114,6 +1147,7 @@ erfüllt sind.
 
 
 ### § 27 Verbrauch und Verlängerung der Förderungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE002902377)
 
 Bei der Berechnung des zeitlichen Umfanges des Verbrauchs sind im
 Bewilligungsbescheid die Gesamtdauer der bewilligten Maßnahme und bei
@@ -1129,6 +1163,7 @@ auf kostenintensive Teile der Maßnahme.
 
 
 ### § 28 Pflichten der Förderungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003004377)
 
 (1) Die Förderungsberechtigten haben dem Karrierecenter der Bundeswehr
 – Berufsförderungsdienst – alle Umstände, die für die Förderung von
@@ -1190,6 +1225,7 @@ zivilberuflichen Eingliederung auf und überwacht deren Eingang.
 
 
 ### § 29 Bestandteile der Bewilligungen nach § 7 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003103377)
 
 (1) Eine bewilligte Förderung kann auch mit Wirkung für die
 Vergangenheit widerrufen werden, wenn
@@ -1235,10 +1271,12 @@ vor Antritt einer Maßnahme entstanden sind.
 
 
 ## Teil 5 - Eingliederung nach § 9 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNG000501377)
 
 
 
 ### § 30 Unterstützung zur Erlangung eines Arbeitsplatzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003202377)
 
 (1) Für die Unterstützung zur Erlangung eines Arbeitsplatzes wird bei
 dem Bundesamt für das Personalmanagement der Bundeswehr und bei den
@@ -1285,6 +1323,7 @@ nach sechsmonatiger Dauer des Beschäftigungsverhältnisses gezahlt.
 
 
 ### § 31 Eingliederungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004900377)
 
 (1) Zu den Eingliederungshilfen zählen neben den
 Eingliederungsmaßnahmen nach § 9 Absatz 2 des
@@ -1340,6 +1379,7 @@ beginnen.
 
 
 ### § 32 Einarbeitungszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003402123)
 
 (1) Der Einarbeitungszuschuss soll gewährt werden, wenn die
 Arbeitgeberin oder der Arbeitgeber in einem unbefristeten oder in
@@ -1384,6 +1424,7 @@ wird, die die Arbeitgeberin oder der Arbeitgeber zu vertreten hat.
 
 
 ### § 32a Lohnkostenzuschuss
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004501377)
 
 (1) Von einem zusätzlichen Unterstützungsbedarf im Sinne des § 9
 Absatz 9 des Soldatenversorgungsgesetzes ist auszugehen, wenn nach den
@@ -1466,6 +1507,7 @@ eines Arbeitsvertrages aufzuheben.
 
 
 ### § 33 Erstattung von Kosten für Vorstellungsreisen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003502123)
 
 (1) Den Förderungsberechtigten können die notwendigen Kosten für
 Vorstellungsreisen auf schriftlichen Antrag erstattet werden, es sei
@@ -1486,6 +1528,7 @@ Absatz 6 und § 23 gelten entsprechend.
 
 
 ### § 34 Berufsorientierungspraktika nach § 9 Absatz 3 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE005000377)
 
 (1) Über die Freistellung vom militärischen Dienst zur Teilnahme an
 einem Berufsorientierungspraktikum nach § 9 Absatz 3 des
@@ -1504,6 +1547,7 @@ für auswärtige Unterkunft und Verpflegung gilt § 23 entsprechend.
 
 
 ### § 35 Berufsorientierungspraktikum nach § 9 Absatz 4 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE005100377)
 
 (1) Über die Freistellung vom militärischen Dienst nach § 9 Absatz 3
 des Soldatenversorgungsgesetzes zur Teilnahme an einem
@@ -1526,6 +1570,7 @@ Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle.
 
 
 ### § 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003802377)
 
 Auf schriftlichen oder elektronischen Antrag werden die Kosten für
 fachberufliche Prüfungen, die unabhängig von Maßnahmen nach den §§ 6
@@ -1539,6 +1584,7 @@ erleichtert wird. Hinsichtlich der Anrechnung der Kosten gilt § 5 Abs.
 
 
 ### § 36a Eingliederungsseminar nach § 9 Absatz 5 des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE005200377)
 
 (1) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst –
 bietet unter Beteiligung des Sozialdienstes der Bundeswehr regelmäßig
@@ -1557,6 +1603,7 @@ Eingliederungsseminar teilnimmt.
 
 
 ### § 37 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE003902377)
 
 Auf schriftlichen oder elektronischen Antrag bescheinigt das
 Karrierecenter der Bundeswehr – Berufsförderungsdienst – Art und
@@ -1566,10 +1613,12 @@ ist von den Förderungsberechtigten in geeigneter Form nachzuweisen.
 
 
 ## Teil 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNG000600000)
 
 
 
 ### § 38 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004003377)
 
 (1) Für Soldatinnen auf Zeit und Soldaten auf Zeit, für die nach § 126
 des Soldatenversorgungsgesetzes das Soldatenversorgungsgesetz in der
@@ -1583,6 +1632,7 @@ dem 1. Oktober 2019 beginnen.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bf_v/BJNR233600006.html#BJNR233600006BJNE004200000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_bkbern_berlinav/BJNR009890910.html#BJNR009890910BJNE000100304)
 
 Wir Wilhelm, ... Deutscher Kaiser, König von Preußen usw.
 verordnen im Namen des Reichs, auf Grund des Artikel IV § 3 des
@@ -29,6 +30,7 @@ Bundesrats, was folgt:\*
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_bkbern_berlinav/BJNR009890910.html#BJNR009890910BJNE000200304)
 
 Die in Artikel 18 der Übereinkunft vorgesehene Anwendung ihrer
 Bestimmungen auf alle Werke, die beim Inkrafttreten der Übereinkunft
@@ -95,6 +97,7 @@ mechanischen Musikinstrumenten, den nachstehenden Einschränkungen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_bkbern_berlinav/BJNR009890910.html#BJNR009890910BJNE000300304)
 
 Im Verhältnis zu einem Staate, demgegenüber die revidierte
 Übereinkunft nach dem in ihrem Artikel 29 bezeichneten Zeitpunkt
@@ -106,6 +109,7 @@ erlangt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_bkbern_berlinav/BJNR009890910.html#BJNR009890910BJNE000400304)
 
 Durch die Vorschriften dieser Verordnung werden die Einschränkungen
 nicht berührt, denen auf Grund der Verordnungen vom 11. Juli 1888

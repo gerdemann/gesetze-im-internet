@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1 Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/ra_g/BJNR010140990.html#BJNR010140990BJNE000103310)
 
 (1) Die für Raumfahrtangelegenheiten zuständigen obersten
 Bundesbehörden verleihen dem Deutschen Zentrum für Luft- und Raumfahrt
@@ -51,6 +52,7 @@ auftraggebenden obersten Bundesbehörden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ra_g/BJNR010140990.html#BJNR010140990BJNE000203310)
 
 Soweit das DLR im Rahmen der von ihm wahrgenommenen Aufgaben
 Haushaltsmittel weiterleitet, sollen ihm diese Mittel zur
@@ -58,6 +60,7 @@ Bewirtschaftung übertragen werden.
 
 
 ## § 3 Prüfungsrecht des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/ra_g/BJNR010140990.html#BJNR010140990BJNE000304310)
 
 Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung des
 DLR. Für das Prüfungsverfahren gelten die §§ 89, 90, 91, 94, 95, 96
@@ -65,6 +68,7 @@ und 100 der Bundeshaushaltsordnung entsprechend.
 
 
 ## § 4 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/ra_g/BJNR010140990.html#BJNR010140990BJNE000503310)
 
 -
 

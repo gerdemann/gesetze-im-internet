@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt AnO 2031-4-30 v. 26.6.2009 I 2051 (BMinWiTBDGAnO 2009)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bminwkbdgano/BJNR10D0A0024.html#BJNR10D0A0024BJNE000100000)
 
 Nach § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des
 Bundesdisziplinargesetzes, von denen § 34 Absatz 5 durch Artikel 1
@@ -29,6 +30,7 @@ Bundesministerium für Wirtschaft und Klimaschutz an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminwkbdgano/BJNR10D0A0024.html#BJNR10D0A0024BJNE000200000)
 
 Die unmittelbar nachgeordneten Dienstvorgesetzten im Sinne des
 Bundesdisziplinargesetzes sind:
@@ -60,6 +62,7 @@ Bundesdisziplinargesetzes sind:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminwkbdgano/BJNR10D0A0024.html#BJNR10D0A0024BJNE000300000)
 
 Die Befugnis zur Festsetzung der Kürzung von Dienstbezügen bis zum
 Höchstmaß nach § 34 Absatz 2 Nummer 1 des Bundesdisziplinargesetzes
@@ -72,6 +75,7 @@ der Behörde beauftragten Personen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminwkbdgano/BJNR10D0A0024.html#BJNR10D0A0024BJNE000400000)
 
 Die Zuständigkeit zum Erlass von Widerspruchsbescheiden im Sinne des §
 42 Absatz 1 des Bundesdisziplinargesetzes und die Vertretung des
@@ -84,6 +88,7 @@ für Wirtschaft und Technologie vom 9. Juni 2009 (BGBl. I S. 1308).
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminwkbdgano/BJNR10D0A0024.html#BJNR10D0A0024BJNE000500000)
 
 Die Disziplinarbefugnis für Ruhestandsbeamtinnen oder Ruhestandsbeamte
 nach § 84 Satz 1 des Bundesdisziplinargesetzes wird auf die in
@@ -93,6 +98,7 @@ Behördenleiter.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bminwkbdgano/BJNR10D0A0024.html#BJNR10D0A0024BJNE000600000)
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
 diesem Zeitpunkt an ist die Anordnung zur Durchführung des

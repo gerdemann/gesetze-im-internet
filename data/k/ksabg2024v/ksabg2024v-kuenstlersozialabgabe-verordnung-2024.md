@@ -23,6 +23,7 @@ Ersetzt durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ksabg2024v/BJNR0F00A0023.html#BJNR0F00A0023BJNE000100000)
 
 Auf Grund des § 26 Absatz 5 in Verbindung mit Absatz 1 des
 Künstlersozialversicherungsgesetzes, dessen Absatz 5 Satz 1 zuletzt
@@ -34,12 +35,14 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Bestimmung des Prozentsatzes der Künstlersozialabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ksabg2024v/BJNR0F00A0023.html#BJNR0F00A0023BJNE000200000)
 
 Der Prozentsatz der Künstlersozialabgabe im Jahr 2024 beträgt 5,0
 Prozent.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ksabg2024v/BJNR0F00A0023.html#BJNR0F00A0023BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft. Gleichzeitig tritt
 die Künstlersozialabgabe-Verordnung 2022 vom 13. September 2021 (BGBl.

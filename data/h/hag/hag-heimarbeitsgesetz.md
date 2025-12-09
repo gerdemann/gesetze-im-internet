@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000100311)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001300311)
 
 (1) In Heimarbeit Beschäftigte sind
 
@@ -101,6 +103,7 @@ Befragen des Auftraggebers ihre Gleichstellung bekanntzugeben.
 
 
 ### § 2 Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001405119)
 
 (1) Heimarbeiter im Sinne dieses Gesetzes ist, wer in selbstgewählter
 Arbeitsstätte (eigener Wohnung oder selbstgewählter Betriebsstätte)
@@ -162,10 +165,12 @@ ist.
 
 
 ## Zweiter Abschnitt - Zuständige Arbeitsbehörde, Heimarbeitsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000200311)
 
 
 
 ### § 3 Zuständige Arbeitsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001502308)
 
 (1) Zuständige Arbeitsbehörde im Sinne dieses Gesetzes ist die oberste
 Arbeitsbehörde des Landes. Für Angelegenheiten (§§ 1, 4, 5, 11, 19 und
@@ -187,6 +192,7 @@ der Arbeitsstätten der in Heimarbeit Beschäftigten entsprechend.
 
 
 ### § 4 Heimarbeitsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001606126)
 
 (1) Die zuständige Arbeitsbehörde errichtet zur Wahrnehmung der in den
 §§ 1, 10, 11, 18 und 19 genannten Aufgaben Heimarbeitsausschüsse für
@@ -234,6 +240,7 @@ die Beschlußfassung über die Geschäftsordnung gilt Absatz 3.
 
 
 ### § 5 Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001700311)
 
 (1) Als Beisitzer oder Stellvertreter werden von der zuständigen
 Arbeitsbehörde geeignete Personen unter Berücksichtigung der Gruppen
@@ -272,10 +279,12 @@ Heimarbeitsausschusses fest.
 
 
 ## Dritter Abschnitt - Allgemeine Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000300311)
 
 
 
 ### § 6 Listenführung
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001802126)
 
 Wer Heimarbeit ausgibt oder weitergibt, hat jeden, den er mit
 Heimarbeit beschäftigt oder dessen er sich zur Weitergabe von
@@ -285,6 +294,7 @@ zu übermitteln.
 
 
 ### § 7 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE001901126)
 
 Wer erstmalig Personen mit Heimarbeit beschäftigen will, hat dies der
 obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle
@@ -292,6 +302,7 @@ mitzuteilen.
 
 
 ### § 7a Unterrichtungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002000311)
 
 Wer Heimarbeit ausgibt oder weitergibt, hat die Personen, die die
 Arbeit entgegennehmen, vor Aufnahme der Beschäftigung über die Art und
@@ -304,6 +315,7 @@ daß sie entsprechend dieser Vorschrift unterrichtet worden ist.
 
 
 ### § 8 Entgeltverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002100311)
 
 (1) Wer Heimarbeit ausgibt oder abnimmt, hat in den Räumen der Ausgabe
 und Abnahme Entgeltverzeichnisse und Nachweise über die sonstigen
@@ -329,6 +341,7 @@ die als Einzelstücke erst auszuarbeiten sind.
 
 
 ### § 9 Entgeltbelege
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002200311)
 
 (1) Wer Heimarbeit ausgibt oder weitergibt, hat den Personen, welche
 die Arbeit entgegennehmen, auf seine Kosten Entgeltbücher für jeden
@@ -351,10 +364,12 @@ deren Händen sich die Entgeltbelege befinden.
 
 
 ## Vierter Abschnitt - Arbeitszeitschutz
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000400311)
 
 
 
 ### § 10 Schutz vor Zeitversäumnis
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002300311)
 
 Wer Heimarbeit ausgibt oder abnimmt, hat dafür zu sorgen, daß unnötige
 Zeitversäumnis bei der Ausgabe oder Abnahme vermieden wird. Die
@@ -366,6 +381,7 @@ die Beteiligung des Heimarbeitsausschusses unterbleiben.
 
 
 ### § 11 Verteilung der Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002401308)
 
 (1) Wer Heimarbeit an mehrere in Heimarbeit Beschäftigte ausgibt, soll
 die Arbeitsmenge auf die Beschäftigten gleichmäßig unter
@@ -410,10 +426,12 @@ jeweils nur für einen bestimmten Zeitraum, der sechs Monate nicht
 
 
 ## Fünfter Abschnitt - Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000500311)
 
 
 
 ### § 12 Grundsätze des Gefahrenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002500311)
 
 (1) Die Arbeitsstätten der in Heimarbeit Beschäftigten einschließlich
 der Maschinen, Werkzeuge und Geräte müssen so beschaffen, eingerichtet
@@ -429,6 +447,7 @@ des Arbeitgebers seinen Arbeitnehmern gegenüber.
 
 
 ### § 13 Arbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002600311)
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates für
 einzelne Gewerbezweige oder bestimmte Arten von Beschäftigungen oder
@@ -442,6 +461,7 @@ verbieten.
 
 
 ### § 14 Schutz der öffentlichen Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002700311)
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates für
 einzelne Gewerbezweige oder bestimmte Arten von Beschäftigungen oder
@@ -464,6 +484,7 @@ Rechtsverordnung verbieten.
 
 
 ### § 15 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002800311)
 
 Wer Heimarbeit ausgibt, für die zur Durchführung des Gefahrenschutzes
 besondere Vorschriften gelten, hat dem Gewerbeaufsichtsamt und der
@@ -472,6 +493,7 @@ Beschäftigten anzuzeigen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE002900311)
 
 (1) Wer Heimarbeit ausgibt oder weitergibt, hat dafür zu sorgen, daß
 Leben oder Gesundheit der in der Heimarbeit Beschäftigten durch
@@ -484,6 +506,7 @@ der zu treffen, der die Räume und Betriebseinrichtungen unterhält.
 
 
 ### § 16a Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003000311)
 
 Das Gewerbeaufsichtsamt kann in Einzelfällen anordnen, welche
 Maßnahmen zur Durchführung der §§ 12, 13 und 16 sowie der auf § 13 und
@@ -494,10 +517,12 @@ Gewerbeordnung wahr.
 
 
 ## Sechster Abschnitt - Entgeltregelung
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000600311)
 
 
 
 ### § 17 Tarifverträge, Entgeltregelungen
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003100311)
 
 (1) Als Tarifverträge gelten auch schriftliche Vereinbarungen zwischen
 Gewerkschaften einerseits und Auftraggebern oder deren Vereinigungen
@@ -512,6 +537,7 @@ bindende Festsetzungen von Entgelten und sonstigen Vertragsbedingungen
 
 
 ### § 18 Aufgaben des Heimarbeitsausschusses auf dem Gebiet der Entgeltregelung
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003200311)
 
 Der Heimarbeitsausschuß hat die Aufgaben:
 
@@ -534,6 +560,7 @@ c)  bindende Festsetzungen für Entgelte und sonstige Vertragsbedingungen
 
 
 ### § 19 Bindende Festsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003303308)
 
 (1) Bestehen Gewerkschaften oder Vereinigungen der Auftraggeber für
 den Zuständigkeitsbereich eines Heimarbeitsausschusses nicht oder
@@ -594,6 +621,7 @@ Vermögensbildungsgesetzes.
 
 
 ### § 20 Art der Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003400311)
 
 Die Entgelte für Heimarbeit sind in der Regel als Stückentgelte, und
 zwar möglichst auf der Grundlage von Stückzeiten zu regeln. Ist dieses
@@ -602,6 +630,7 @@ Stückentgeltberechnung im Einzelfall zugrunde gelegt werden können.
 
 
 ### § 21 Entgeltregelung für Zwischenmeister, Mithaftung des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003500311)
 
 (1) Für Zwischenmeister, die nach § 1 Abs. 2 Buchstabe d den in
 Heimarbeit Beschäftigten gleichgestellt sind, können im Verhältnis zu
@@ -617,6 +646,7 @@ Zwischenmeister für diese Entgelte.
 
 
 ### § 22 Mindestarbeitsbedingungen für fremde Hilfskräfte
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003600311)
 
 (1) Für fremde Hilfskräfte, die von Hausgewerbetreibenden oder
 Gleichgestellten beschäftigt werden, können Mindestarbeitsbedingungen
@@ -642,10 +672,12 @@ Beteiligten jeweils zu berufen.
 
 
 ## Siebenter Abschnitt - Entgeltschutz
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000700311)
 
 
 
 ### § 23 Entgeltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003700311)
 
 (1) Die oberste Arbeitsbehörde des Landes hat für eine wirksame
 Überwachung der Entgelte und sonstigen Vertragsbedingungen durch
@@ -663,6 +695,7 @@ denen Heimarbeit nur in geringerem Umfang geleistet wird.
 
 
 ### § 24 Aufforderung zur Nachzahlung der Minderbeträge
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003800311)
 
 Hat ein Auftraggeber oder Zwischenmeister einem in Heimarbeit
 Beschäftigten oder einem Gleichgestellten ein Entgelt gezahlt, das
@@ -681,6 +714,7 @@ geantwortet hat.
 
 
 ### § 25 Klagebefugnis der Länder
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE003900311)
 
 Das Land, vertreten durch die oberste Arbeitsbehörde oder die von ihr
 bestimmte Stelle, kann im eigenen Namen den Anspruch auf Nachzahlung
@@ -690,6 +724,7 @@ den Gleichgestellten. § 24 Satz 3 gilt entsprechend.
 
 
 ### § 26 Entgeltschutz für fremde Hilfskräfte
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004000311)
 
 (1) Hat ein Hausgewerbetreibender oder Gleichgestellter einer fremden
 Hilfskraft ein Entgelt gezahlt, das niedriger ist als das durch
@@ -705,6 +740,7 @@ Hausgewerbetreibenden oder Gleichgestellten durch eine Entgeltregelung
 
 
 ### § 27 Pfändungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004100311)
 
 Für das Entgelt, das den in Heimarbeit Beschäftigten oder den
 Gleichgestellten gewährt wird, gelten die Vorschriften über den
@@ -713,10 +749,12 @@ Dienstverhältnisses geschuldet werden, entsprechend.
 
 
 ## Achter Abschnitt - Auskunfts- und Aufklärungspflicht über Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000800311)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004200311)
 
 (1) Auftraggeber, Zwischenmeister, Beschäftigte und fremde Hilfskräfte
 haben den mit der Entgeltfestsetzung oder Entgeltprüfung beauftragten
@@ -734,10 +772,12 @@ seines Entgelts erläutert wird.
 
 
 ## Neunter Abschnitt - Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG000900311)
 
 
 
 ### § 29 Allgemeiner Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004302126)
 
 (1) Das Beschäftigungsverhältnis eines in Heimarbeit Beschäftigten
 kann beiderseits an jedem Tag für den Ablauf des folgenden Tages
@@ -829,6 +869,7 @@ Auftraggebers nicht möglich war.
 
 
 ### § 29a Kündigungsschutz im Rahmen der Betriebsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004401308)
 
 (1) Die Kündigung des Beschäftigungsverhältnisses eines in Heimarbeit
 beschäftigten Mitglieds eines Betriebsrats oder einer Jugend- und
@@ -872,10 +913,12 @@ durch zwingende betriebliche Erfordernisse bedingt ist.
 
 
 ## Zehnter Abschnitt - Ausgabeverbot
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG001000311)
 
 
 
 ### § 30 Verbot der Ausgabe von Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004500311)
 
 Die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte
 Stelle kann einer Person, die
@@ -903,10 +946,12 @@ die Aus- und Weitergabe von Heimarbeit verbieten.
 
 
 ## Elfter Abschnitt - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG001100311)
 
 
 
 ### § 31 Ausgabe verbotener Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004600311)
 
 (1) Wer Heimarbeit, die nach einer zur Durchführung des
 Gefahrenschutzes erlassenen Rechtsvorschrift (§ 13 Abs. 2, § 14 Abs.
@@ -919,6 +964,7 @@ Tagessätzen.
 
 
 ### § 32 Straftaten und Ordnungswidrigkeiten im Bereich des Arbeits- und Gefahrenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004701308)
 
 (1) Ordnungswidrig handelt, wer, abgesehen von den Fällen des § 31,
 vorsätzlich oder fahrlässig
@@ -952,6 +998,7 @@ zu einhundertachtzig Tagessätzen bestraft.
 
 
 ### § 32a Sonstige Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004801308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einem nach
 § 30 ergangenen vollziehbaren Verbot der Ausgabe oder Weitergabe von
@@ -988,10 +1035,12 @@ Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
 
 ## Zwölfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNG001200311)
 
 
 
 ### § 33 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE004902308)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, mit
 Zustimmung des Bundesrates und nach Anhörung der Spitzenverbände der
@@ -1023,6 +1072,7 @@ Verwaltungsvorschriften für die Durchführung dieses Gesetzes erlassen.
 
 
 ### § 34 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hag/BJNR001910951.html#BJNR001910951BJNE005000311)
 
 (1) Das Gesetz tritt einen Monat nach seiner Verkündung,
 der § 33 am Tag nach der Verkündung in Kraft.

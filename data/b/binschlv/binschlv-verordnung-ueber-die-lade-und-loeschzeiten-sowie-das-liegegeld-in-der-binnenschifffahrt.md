@@ -21,10 +21,12 @@ Neugefasst durch
 
 
 ## Abschnitt 1 - Trockenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNG000101140)
 
 
 
 ### § 1 Beginn der Ladezeit
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE000501140)
 
 (1) Hat der Frachtvertrag die Beförderung von anderem als flüssigem
 oder gasförmigem Gut zum Gegenstand, so beginnt die Ladezeit nach
@@ -46,6 +48,7 @@ geladen, so beginnt die Ladezeit mit dem Beginn des Ladens.
 
 
 ### § 2 Dauer der Ladezeit
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE000601140)
 
 (1) Die Ladezeit beträgt eine Stunde für jeweils 45 Tonnen Rohgewicht
 der für ein Schiff bestimmten Sendung. Als ein Schiff im Sinne von
@@ -73,6 +76,7 @@ oder auf Weisung des Absenders oder der Meldestelle ladebereit ist.
 
 
 ### § 3 Löschzeit
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE000701140)
 
 Für die Bestimmung des Beginns der Entladezeit (Löschzeit) sowie ihrer
 Dauer sind die §§ 1 und 2 entsprechend mit der Maßgabe anzuwenden,
@@ -80,6 +84,7 @@ dass an die Stelle des Absenders der Empfänger tritt.
 
 
 ### § 4 Liegegeld
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE000801140)
 
 (1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt bei
 einem Schiff mit einer Tragfähigkeit bis zu 1 500 Tonnen für jede
@@ -99,10 +104,12 @@ Koppelverband anzusehen.
 
 
 ## Abschnitt 2 - Tankschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNG000201140)
 
 
 
 ### § 5 Beginn der Lade- und Löschzeit
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE000901140)
 
 (1) Hat der Frachtvertrag die Beförderung flüssigen Gutes durch ein
 Tankschiff zum Gegenstand, so beginnen die Lade- und die Löschzeit
@@ -122,6 +129,7 @@ oder Löschens.
 
 
 ### § 6 Dauer der Lade- und Löschzeit
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE001002140)
 
 (1) Die gesamte Lade- und Löschzeit beträgt in der Tankschifffahrt bei
 einer für ein Schiff bestimmten Sendung mit einem Gewicht
@@ -180,6 +188,7 @@ der Meldestelle oder des Absenders lade- oder löschbereit ist.
 
 
 ### § 7 Liegegeld
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE001102140)
 
 (1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt für
 jede angefangene Stunde, in der der Frachtführer nach Ablauf der Lade-
@@ -229,9 +238,11 @@ Koppelverband anzusehen.
 
 
 ## Abschnitt 3 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNG000301140)
 
 
 
 ### § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/binschlv/BJNR238900999.html#BJNR238900999BJNE001201140)
 
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbbzstv/BJNR0AF0A0025.html#BJNR0AF0A0025BJNE000100000)
 
 Das Bundesministerium des Innern verordnet aufgrund des § 15b Absatz
 2a des BDBOS-Gesetzes vom 28. August 2006 (BGBl. I S. 2039), das
@@ -31,12 +32,14 @@ Dezember 2021 (BGBl. I S. 5176) und dem Organisationserlass vom 6. Mai
 
 
 ## § 1 Zuständige Stelle Digitalfunk BOS Bund
+[Direktlink](https://www.gesetze-im-internet.de/dbbzstv/BJNR0AF0A0025.html#BJNR0AF0A0025BJNE000200000)
 
 Zuständige Stelle des Bundes für den Betrieb des Digitalfunk BOS im
 Sinne des § 2a Absatz 2 BDBOS-Gesetz ist das Bundespolizeipräsidium.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbbzstv/BJNR0AF0A0025.html#BJNR0AF0A0025BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 Stand: Berichtigung v. 15.10.2020 I 2180 ist berücksichtigt
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pnupzv/BJNR373710013.html#BJNR373710013BJNE000100000)
 
 (1) Beamtinnen und Beamten mit Dienstbezügen, die bei einem
 Postnachfolgeunternehmen beschäftigt sind, können
@@ -39,6 +40,7 @@ Zulage gewährt werden.
 
 
 ## § 2 Prämie
+[Direktlink](https://www.gesetze-im-internet.de/pnupzv/BJNR373710013.html#BJNR373710013BJNE000200000)
 
 (1) Die Prämie wird als Einmalzahlung gewährt. Der Gesamtbetrag der
 Prämien, die eine Beamtin oder ein Beamter in einem Kalenderjahr
@@ -48,6 +50,7 @@ erhält, darf 20 000 Euro nicht überschreiten.
 
 
 ## § 3 Zulage
+[Direktlink](https://www.gesetze-im-internet.de/pnupzv/BJNR373710013.html#BJNR373710013BJNE000300000)
 
 (1) Die Zulage wird als Monatsbetrag gewährt
 
@@ -72,6 +75,7 @@ Beamtin oder der Beamte angehört, nicht überschreiten.
 
 
 ## § 4 Entscheidungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/pnupzv/BJNR373710013.html#BJNR373710013BJNE000400000)
 
 Der Vorstand des Postnachfolgeunternehmens entscheidet,
 

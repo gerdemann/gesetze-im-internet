@@ -19,6 +19,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 1 G v. 25.11.2025 I Nr. 284
 
 ## § 1 Erfassung und Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000101119)
 
 (1) Zum Zweck der späteren Überleitung zur Gesellschaft privaten
 Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes oder
@@ -135,6 +136,7 @@ Arbeit dieses Gremiums in Bezug auf die Beschäftigten beteiligt.
 
 
 ## § 2 Anordnungskompetenz des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000201119)
 
 Das Bundesministerium für Verkehr ist berechtigt, gegenüber den
 Ländern die notwendigen Anordnungen durch Erlass zu treffen, um eine
@@ -145,6 +147,7 @@ Straßenbaubehörden der Länder zu gewährleisten.
 
 
 ## § 3 Beamtinnen und Beamte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000302119)
 
 (1) Die in der Bestätigung nach § 1 Absatz 4 Satz 3 genannten
 Beamtinnen und Beamten werden spätestens mit Wirkung zum 1. Januar
@@ -209,6 +212,7 @@ Beamten aufgehoben werden soll.
 
 
 ## § 4 Rechtsaufsicht in beamtenrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000401125)
 
 (1) Dem Fernstraßen-Bundesamt obliegt auch die Rechtsaufsicht darüber,
 dass die Gesellschaft privaten Rechts im Sinne des
@@ -240,6 +244,7 @@ Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 
 ## § 5 Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000502119)
 
 (1) Für den Übergang der Arbeits- bzw. Ausbildungsverhältnisse der
 Arbeitnehmerinnen und Arbeitnehmer sowie der Auszubildenden auf das
@@ -260,6 +265,7 @@ abzuschließen. Für die Überleitung der Beschäftigten werden
 
 
 ## § 6 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000601119)
 
 Die Tätigkeit bei der Gesellschaft privaten Rechts im Sinne des
 Infrastrukturgesellschaftserrichtungsgesetzes lässt die Rechtsstellung
@@ -269,6 +275,7 @@ Verkehr unberührt.
 
 
 ## § 7 Sächliche Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000700000)
 
 Mit Wirkung zum 1. Januar 2021 geht das Eigentum an den sächlichen
 Betriebsmitteln nach Maßgabe der Zuordnung in der Mitteilung nach § 1
@@ -287,6 +294,7 @@ als Eigentum des Bundes.
 
 
 ## § 8 Übergangsmandate, Gleichstellungsbeauftragte, Dienstvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000801119)
 
 (1) Die in den Dienststellen bestehenden Personalräte nehmen längstens
 bis zum 31. Dezember 2020 in den Betrieben und Betriebsteilen der
@@ -367,6 +375,7 @@ Regelungen ersetzt werden.
 
 
 ## § 9 Personalkosten, Versorgungslastenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE000900000)
 
 Die Verteilung von Versorgungslasten zwischen Bund und Ländern richtet
 sich in Bezug auf die Beamtinnen und Beamten nach den Bestimmungen des
@@ -378,6 +387,7 @@ abgebenden Dienstherrn gilt insoweit als erteilt.
 
 
 ## § 10 Übergang von Rechten und Pflichten, laufende Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE001000000)
 
 (1) Mit Wirkung zum 1. Januar 2021 tritt der Bund in die Rechte und
 Pflichten aus den zu diesem Zeitpunkt bestehenden
@@ -398,6 +408,7 @@ Rechtspositionen ein.
 
 
 ## § 11 Überleitungsregelungen für Bundesstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE001100000)
 
 Soweit nach Artikel 90 Absatz 4 oder Artikel 143e Absatz 2 des
 Grundgesetzes auf Antrag eines Landes Bundesstraßen, soweit sie im
@@ -408,6 +419,7 @@ auf die Antragstellung folgenden Kalenderjahres wirksam.
 
 
 ## § 12 Grunderwerbsteuer
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE001200000)
 
 Erwirbt die Gesellschaft privaten Rechts im Sinne des § 1 Absatz 1 des
 Infrastrukturgesellschaftserrichtungsgesetzes von der Bundesrepublik
@@ -420,6 +432,7 @@ Grunderwerbsteuer befreit.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE001300000)
 
 Soweit die Gesellschaft privaten Rechts nach § 10 Absatz 1 des
 Infrastrukturgesellschaftserrichtungsgesetzes ab dem 1. Januar 2020 im
@@ -431,6 +444,7 @@ Gesetzes.
 
 
 ## Anlage (zu § 1 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/fernstr_g/BJNR314400017.html#BJNR314400017BJNE001400000)
 
 (Fundstelle: BGBl. I 2017, 3148)
 

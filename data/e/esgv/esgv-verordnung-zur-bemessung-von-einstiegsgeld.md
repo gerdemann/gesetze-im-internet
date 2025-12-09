@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/esgv/BJNR234200009.html#BJNR234200009BJNE000100000)
 
 Auf Grund des § 16b Absatz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24.
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Einzelfallbezogene Bemessung des Einstiegsgeldes
+[Direktlink](https://www.gesetze-im-internet.de/esgv/BJNR234200009.html#BJNR234200009BJNE000201308)
 
 (1) Bei der einzelfallbezogenen Bemessung des Einstiegsgeldes ist ein
 monatlicher Grundbetrag zu bestimmen, dem Ergänzungsbeträge
@@ -74,6 +76,7 @@ entspricht.
 
 
 ## § 2 Pauschale Bemessung des Einstiegsgeldes bei besonders zu fördernden Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/esgv/BJNR234200009.html#BJNR234200009BJNE000301308)
 
 (1) Das Einstiegsgeld kann abweichend von § 1 pauschal bemessen
 werden, wenn dies zur Eingliederung von besonders zu fördernden
@@ -90,6 +93,7 @@ entspricht.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/esgv/BJNR234200009.html#BJNR234200009BJNE000400000)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Kalendermonats in Kraft.

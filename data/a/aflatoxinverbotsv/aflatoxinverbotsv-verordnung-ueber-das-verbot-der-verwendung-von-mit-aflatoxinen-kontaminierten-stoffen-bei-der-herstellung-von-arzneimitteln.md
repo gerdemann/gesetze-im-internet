@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aflatoxinverbotsv/BJNR108100000.html#BJNR108100000BJNE000100310)
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
 
@@ -42,6 +43,7 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/aflatoxinverbotsv/BJNR108100000.html#BJNR108100000BJNE000200310)
 
 (1) Es ist verboten, bei der Herstellung von Arzneimitteln Stoffe,
 Zubereitungen aus Stoffen oder Erzeugnisse zu verwenden, bei denen die
@@ -65,6 +67,7 @@ Verteilung der Aflatoxine berücksichtigen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/aflatoxinverbotsv/BJNR108100000.html#BJNR108100000BJNE000301310)
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird
 bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 2 Satz 1
@@ -80,12 +83,14 @@ handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/aflatoxinverbotsv/BJNR108100000.html#BJNR108100000BJNE000400310)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 siebten Kalendermonats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/aflatoxinverbotsv/BJNR108100000.html#BJNR108100000BJNE000500310)
 
 Der Bundesrat hat zugestimmt.
 

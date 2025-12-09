@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000100304)
 
 Auf Grund des § 3 Nr. 1 und 2 des Wassersicherstellungsgesetzes vom
 24\. August 1965 (Bundesgesetzbl. I S. 1225, 1817), geändert durch das
@@ -27,6 +28,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Sachlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000200304)
 
 Die Bestimmungen dieser Verordnung gelten für Vorsorgemaßnahmen nach
 dem Wassersicherstellungsgesetz zur Deckung des lebensnotwendigen
@@ -35,6 +37,7 @@ unentbehrlichen Umfang und zur Deckung des Bedarfs an Löschwasser.
 
 
 ## § 2 Bemessung des lebensnotwendigen Bedarfs an Trinkwasser
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000300304)
 
 (1) Für die Deckung des lebensnotwendigen Bedarfs an Trinkwasser sind
 in der Regel 15 l je Person und Tag zugrunde zu legen.
@@ -79,6 +82,7 @@ Gesamtlebendgewicht von 500 kg.
 
 
 ## § 3 Beschaffenheit des Trinkwassers
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000400304)
 
 (1) Trinkwasser aus Anlagen, die nach der Zivilverteidigungsplanung im
 Verteidigungsfall der Deckung des lebensnotwendigen Bedarfs an
@@ -99,6 +103,7 @@ Deckung des lebensnotwendigen Bedarfs verwendet werden kann.
 
 
 ## § 4 Bemessung des Bedarfs an Betriebswasser im unentbehrlichen Umfang
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000500304)
 
 Der unentbehrliche Bedarf an Betriebswasser für Betriebe und
 Anstalten, deren Weiterarbeit nach der Zivilverteidigungsplanung
@@ -108,6 +113,7 @@ errechnet.
 
 
 ## § 5 Beschaffenheit des Betriebswassers
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000600304)
 
 (1) Betriebswasser muß so beschaffen sein, daß Betriebe und Anstalten
 die nach der Zivilverteidigungsplanung geforderten Leistungen im
@@ -119,6 +125,7 @@ Gesundheitsschädigung der Betriebsangehörigen nicht zu befürchten ist.
 
 
 ## § 6 Bemessung des Bedarfs an Löschwasser
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000700304)
 
 (1) Der Bedarf an Löschwasser ist in der Regel auf einen Zeitraum von
 5 Stunden zu bemessen; er richtet sich nach der Art und dem Maß der
@@ -177,6 +184,7 @@ legen:
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wassv_1/BJNR003570970.html#BJNR003570970BJNE000800304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

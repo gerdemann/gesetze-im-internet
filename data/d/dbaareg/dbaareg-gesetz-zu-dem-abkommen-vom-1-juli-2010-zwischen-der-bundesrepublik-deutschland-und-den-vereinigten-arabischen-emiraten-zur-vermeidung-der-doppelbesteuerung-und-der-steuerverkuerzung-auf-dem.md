@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbaareg/BJNR053820011.html#BJNR053820011BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbaareg/BJNR053820011.html#BJNR053820011BJNE000200000)
 
 Dem in Berlin am 1. Juli 2010 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur
@@ -34,6 +36,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbaareg/BJNR053820011.html#BJNR053820011BJNE000300000)
 
 Soweit das Abkommen auf Grund seines Artikels 29 Absatz 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -50,6 +53,7 @@ bestand, wird der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbaareg/BJNR053820011.html#BJNR053820011BJNE000400000)
 
 Die Bundesregierung wird ermächtigt, Verlängerungen der Geltungsdauer
 dieses Abkommens nach seinem Artikel 30 Absatz 1 Satz 2 und 3 mit
@@ -57,6 +61,7 @@ Zustimmung des Bundesrates durch Rechtsverordnung in Kraft zu setzen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/dbaareg/BJNR053820011.html#BJNR053820011BJNE000500000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

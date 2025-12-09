@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 190-1-6 v. 1.7.2004 I 1448 (KrWaffUmgV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000100000)
 
 Auf Grund der §§ 13a und 14 Absatz 8 des Gesetzes über die Kontrolle
 von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November
@@ -32,9 +33,11 @@ ist, verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNG000100000)
 
 
 ### § 1 Gegenstand der Verordnung; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000200000)
 
 (1) Diese Verordnung regelt die Unbrauchbarmachung von Kriegswaffen,
 die dadurch ihre Fähigkeit zum bestimmungsgemäßen Einsatz als
@@ -69,9 +72,11 @@ Im Übrigen gelten die Begriffsbestimmungen des Abschnitts 2 der Anlage
 
 
 ## Teil 2 - Art und Weise der Unbrauchbarmachung von Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNG000200000)
 
 
 ### § 2 Maßnahmen zur Unbrauchbarmachung; Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000300000)
 
 (1) Die für die Unbrauchbarmachung erforderlichen technischen
 Veränderungen richten sich nach der Art der Kriegswaffe.
@@ -82,6 +87,7 @@ erforderlichen technischen Veränderungen anordnen.
 
 
 ### § 3 Bescheinigung über die Unbrauchbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000400000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann auf Antrag
 feststellen, dass eine Kriegswaffe unbrauchbar im Sinne des § 1 Absatz
@@ -96,9 +102,11 @@ Antragstellung in geeigneter Form nachzuweisen.
 
 
 ## Teil 3 - Beschränkungen des Umgangs mit unbrauchbar gemachten Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNG000300000)
 
 
 ### § 4 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000500000)
 
 (1) Kindern und Jugendlichen ist der Umgang mit unbrauchbar gemachten
 Kriegswaffen verboten.
@@ -129,6 +137,7 @@ vorliegen und öffentliche Interessen nicht entgegenstehen.
 
 
 ### § 5 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000600000)
 
 (1) Wer abweichend von § 4 Absatz 3 Satz 1 Nummer 2 mit einer dort
 genannten fahrfähigen unbrauchbar gemachten Kriegswaffe innerhalb
@@ -156,6 +165,7 @@ Sicherheit oder Ordnung nicht entgegenstehen.
 
 
 ### § 6 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000700000)
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen in der Regel
 nicht
@@ -191,6 +201,7 @@ Monate sein darf.
 
 
 ### § 7 Ausnahmen von der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000800000)
 
 (1) Einer Erlaubnis nach § 5 für den Umgang mit einer dort genannten
 unbrauchbar gemachten Kriegswaffe bedarf nicht,
@@ -215,6 +226,7 @@ Belange der öffentlichen Sicherheit und Ordnung nicht entgegenstehen.
 
 
 ### § 8 Inhaltliche Beschränkungen; Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE000900000)
 
 (1) Eine Erlaubnis nach dieser Verordnung kann zur Abwehr von Gefahren
 für die öffentliche Sicherheit und Ordnung inhaltlich beschränkt
@@ -226,6 +238,7 @@ aufgenommen oder geändert werden.
 
 
 ### § 9 Umgangsregeln für fahrfähige unbrauchbar gemachte Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001000000)
 
 (1) Sofern bei einer fahrfähigen unbrauchbar gemachten Kriegswaffe der
 Nummern 25 bis 28, 31 – ausgenommen fahrfähige unbrauchbar gemachte
@@ -245,6 +258,7 @@ erforderlichen Vorkehrungen nachzuweisen.
 
 
 ### § 10 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001100000)
 
 (1) Wer eine unbrauchbar gemachte Kriegswaffe, deren Umgang nach
 dieser Verordnung verboten ist oder einer Erlaubnis bedarf,
@@ -277,6 +291,7 @@ anzuzeigen.
 
 
 ### § 11 Weitere Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001200000)
 
 (1) Wird eine Genehmigung nach § 4 Absatz 4 oder § 7 Absatz 2 oder
 eine Erlaubnis nach § 5 zurückgenommen oder widerrufen, so hat der
@@ -297,15 +312,18 @@ werden.
 
 
 ## Teil 4 - Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNG000400000)
 
 
 ### § 12 Durchfuhren
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001300000)
 
 Teil 3 dieser Verordnung gilt nicht für Durchfuhren im Sinne des § 2
 Absatz 9 des Außenwirtschaftsgesetzes.
 
 
 ### § 13 Behörden und Stellen in staatlicher Trägerschaft
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001400000)
 
 Teil 3 dieser Verordnung gilt nicht für
 
@@ -336,15 +354,18 @@ Arbeitsverhältnisses tätig werden.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNG000500000)
 
 
 ### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001500000)
 
 Zuständige Behörde ist das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle.
 
 
 ### § 15 Formerfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001600000)
 
 (1) Soweit nichts anderes bestimmt ist, bedürfen die Verwaltungsakte
 nach dieser Verordnung der Schriftform. Die zuständige Behörde kann
@@ -361,6 +382,7 @@ Verwaltungsakte elektronisch erlassen werden können.
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001700000)
 
 (1) Ordnungswidrig im Sinne des § 22b Absatz 1 Nummer 3a des Gesetzes
 über die Kontrolle von Kriegswaffen handelt, wer vorsätzlich oder
@@ -399,6 +421,7 @@ Wirtschaft und Ausfuhrkontrolle übertragen.
 
 
 ### § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001800000)
 
 (1) Personen, die am 1. September 2018 Umgang mit fahrfähigen
 unbrauchbar gemachten Kriegswaffen der Nummer 24 oder fahrfähigen
@@ -418,6 +441,7 @@ gilt der Umgang als vorläufig erlaubt.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krwaffunbrumgv/BJNR131800018.html#BJNR131800018BJNE001900000)
 
 Diese Verordnung tritt am 1. September 2018 in Kraft. Gleichzeitig
 tritt die Verordnung über den Umgang mit unbrauchbar gemachten

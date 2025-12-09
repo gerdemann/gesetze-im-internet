@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/hypbkg_ndg_5/BJNR000090963.html#BJNR000090963BJNE000100328)
 
 -
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/hypbkg_ndg_5/BJNR000090963.html#BJNR000090963BJNE000203377)
 
 Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:
 
@@ -45,21 +47,25 @@ Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/hypbkg_ndg_5/BJNR000090963.html#BJNR000090963BJNE000300328)
 
 -
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/hypbkg_ndg_5/BJNR000090963.html#BJNR000090963BJNE000400328)
 
 -
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/hypbkg_ndg_5/BJNR000090963.html#BJNR000090963BJNE000501377)
 
 (weggefallen)
 
 
 ## Art VI
+[Direktlink](https://www.gesetze-im-internet.de/hypbkg_ndg_5/BJNR000090963.html#BJNR000090963BJNE000600328)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft,
 Artikel I Nr. 28 bis 31 jedoch erst am Tage nach der Verkündung des

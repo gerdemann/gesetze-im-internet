@@ -22,16 +22,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000100000)
 
 Auf Grund des § 8 Abs. 4 des Treibhausgas-Emissionshandelsgesetzes vom
 8\. Juli 2004 (BGBl. I S. 1578) verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000201310)
 
 (1) Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Treibhausgas-Emissionshandelsgesetzes. Sie dient der Aufstellung des
@@ -48,6 +51,7 @@ Tag haben.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000300000)
 
 (1) Soweit nichts anderes bestimmt ist, gelten die
 Begriffsbestimmungen des Treibhausgas-Emissionshandelsgesetzes, des
@@ -70,10 +74,12 @@ Zuteilungsgesetzes 2007 sowie der Zuteilungsverordnung 2007.
 
 
 ## Abschnitt 2 - Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNG000200000)
 
 
 
 ### § 3 Angabe von Emissionsdaten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000400000)
 
 (1) Der Betreiber hat die durch seine Tätigkeit in den Kalenderjahren
 2003 und 2004 verursachten Kohlendioxid-Emissionen nach Maßgabe der
@@ -99,6 +105,7 @@ Kapazitätserweiterungen und Kapazitätsverringerungen entsprechend.
 
 
 ### § 4 Zusätzliche Angaben bei Weiterleitungen von Kuppelgasen
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000500000)
 
 Für Anlagen, die Kuppelgase an andere Anlagen weiterleiten, sind die
 in den Kalenderjahren 2003 und 2004 weitergeleiteten Kuppelgase und
@@ -109,6 +116,7 @@ zusätzlich für die Kalenderjahre 2000 bis 2002.
 
 
 ### § 5 Zusätzliche Angaben für Anlagen mit Kraft-Wärme-Kopplung
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000601116)
 
 Betreiber von Kraft-Wärme-Kopplungsanlagen im Sinne von § 2 Nummer 14
 des Kraft-Wärme-Kopplungsgesetzes, haben für die Kalenderjahre 2002
@@ -150,6 +158,7 @@ gebracht wurde, ist dieses an Stelle der Angabe zu Nummer 7 anzugeben.
 
 
 ### § 6 Zusätzliche Angaben bei Kondensationskraftwerken auf Steinkohle- oder Braunkohlebasis
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000700000)
 
 (1) Für Kondensationskraftwerke auf Steinkohle- oder Braunkohlebasis,
 die erstmals vor dem 1. Januar 1978 in Betrieb genommen wurden, sind
@@ -167,6 +176,7 @@ Absätze 1 und 2 für jede Teilanlage gesondert.
 
 
 ### § 7 Allgemeine Anforderungen an die Ermittlung und Angabe von Daten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000800000)
 
 (1) Soweit die Vorschriften dieser Verordnung keine abweichenden
 Regelungen enthalten, sind die in der Datenmitteilung anzugebenden
@@ -230,6 +240,7 @@ der Entscheidung 280/2004/EG des Europäischen Parlaments und des Rates
 
 
 ### § 8 Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE000900000)
 
 Hinsichtlich der allgemeinen Regeln zur Bestimmung der Kohlendioxid-
 Emissionen gelten die §§ 4 bis 9 der Zuteilungsverordnung 2007
@@ -241,10 +252,12 @@ Zuteilungsverordnung 2007 gelten nicht.
 
 
 ## Abschnitt 3 - Verfahren der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNG000300000)
 
 
 
 ### § 9 Elektronische Formularvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE001001310)
 
 Die zuständige Behörde kann vorschreiben, dass der Betreiber die auf
 ihrer Internetseite zur Verfügung gestellten elektronischen
@@ -254,6 +267,7 @@ Anordnungen nach Satz 1 rechtzeitig im Bundesanzeiger bekannt.
 
 
 ### § 10 Verifizierung der Datenmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE001102310)
 
 (1) Die Angaben in der Datenmitteilung müssen von einer
 sachverständigen Stelle verifiziert worden sein, die nach § 10 Abs. 1
@@ -283,6 +297,7 @@ Abs. 3 Satz 2 entsprechend.
 
 
 ### § 11 Übermittlungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE001200000)
 
 Der Betreiber ist verpflichtet, die den Anforderungen dieser
 Verordnung entsprechende Datenmitteilung bis zum 6. Oktober 2006 an
@@ -290,6 +305,7 @@ die zuständige Behörde zu übermitteln.
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2012/BJNR157200006.html#BJNR157200006BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

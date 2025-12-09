@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000100000)
 
 Auf Grund des § 59 Absatz 3 des Mess- und Eichgesetzes vom 25. Juli
 2013 (BGBl. I S. 2722, 2723) in Verbindung mit § 1 Absatz 2 des
@@ -29,6 +30,7 @@ verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000200000)
 
 (1) Die nach dem Mess- und Eichgesetz vom 25. Juli 2013 (BGBl. I S.
 2722, 2723) zuständigen Behörden der Länder erheben für individuell
@@ -45,6 +47,7 @@ Verordnung.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000302123)
 
 Im Sinne dieser Verordnung sind die folgenden Begriffsbestimmungen
 anzuwenden:
@@ -90,6 +93,7 @@ anzuwenden:
 
 
 ## § 3 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000401118)
 
 (1) Die Gebühren werden für individuell zurechenbare öffentliche
 Leistungen gemäß den nachfolgenden Bestimmungen und dem dieser
@@ -126,6 +130,7 @@ erfordern eine Vorprüfung, sind für diese Prüfung Zeitgebühren nach §
 
 
 ## § 4 Gebührenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000500000)
 
 Soweit keine Fest- oder Rahmengebühr angegeben ist, wird nach
 Zeitgebühr abgerechnet. Der Zeitgebühr sind die in der Anlage
@@ -142,6 +147,7 @@ berechnen.
 
 
 ## § 5 Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000601118)
 
 (1) Fällt die Durchführung von individuell zurechenbaren öffentlichen
 Leistungen auf Veranlassung des Gebührenschuldners ganz oder teilweise
@@ -168,6 +174,7 @@ enthaltenen Fahrtanteil von 20 vom Hundert zu reduzieren.
 
 
 ## § 6 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000701118)
 
 (1) Für die Erhebung von Auslagen der für die Durchführung der
 individuell zurechenbaren öffentlichen Leistung zuständigen Stelle
@@ -233,6 +240,7 @@ entsprechend anzuwenden.
 
 
 ## § 7 Gebührenermäßigung und Gebührenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000801118)
 
 (1) Findet auf Verlangen der antragstellenden Person eine
 Teilbefundprüfung statt, so ermäßigt sich die für eine Vollprüfung zu
@@ -256,6 +264,7 @@ gewährt werden, sofern diese im Gebührenverzeichnis vorgesehen sind.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE000900000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -265,12 +274,14 @@ vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3)
 
 ## Anlage Gebührenverzeichnis ab 1. Januar 2021
+[Direktlink](https://www.gesetze-im-internet.de/messegebv/BJNR033000015.html#BJNR033000015BJNE001105123)
 
 (Fundstelle: BGBl. I 2019, 611 - 640; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

@@ -33,6 +33,7 @@ Verwaltungsvorschriften für die Direktversicherung
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE000100000)
 
 Auf Grund des § 330 Abs. 1, 3 und 4 des Handelsgesetzbuchs in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten
@@ -43,10 +44,12 @@ mit dem Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE000300000)
 
 Diese Verordnung ist auf Versicherungsunternehmen und Niederlassungen
 anzuwenden, für die nach § 341 Abs. 1 und 2 des Handelsgesetzbuchs der
@@ -55,10 +58,12 @@ Handelsgesetzbuchs anzuwenden ist.
 
 
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG000400000)
 
 
 
 ### § 2 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE000500000)
 
 Versicherungsunternehmen haben an Stelle des § 266 des
 Handelsgesetzbuchs über die Gliederung der Bilanz das anliegende
@@ -95,6 +100,7 @@ ausschließlich die Rückversicherung betreiben.
 
 
 ### § 3 Zusammenfassung von Posten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE000600000)
 
 In der
 
@@ -165,6 +171,7 @@ In der
 
 
 ### § 4 Davon-Vermerke
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE000700000)
 
 In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
@@ -191,6 +198,7 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
 
 ### § 5 Zusätze
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE000800000)
 
 (1) Wird in den Formblättern für die Bilanz und die Gewinn- und
 Verlustrechnung und in den folgenden Vorschriften der Zusatz "Brutto"
@@ -216,14 +224,17 @@ Versicherungsgeschäft betreffen.
 
 
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG000900000)
 
 
 
 ### Unterabschnitt 1 - Posten der Aktivseite
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG001000000)
 
 
 
 #### § 6 Immaterielle Vermögensgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001001140)
 
 (1) Im Posten „Immaterielle Vermögensgegenstände“ sind jeweils
 gesondert auszuweisen:
@@ -254,6 +265,7 @@ Geschäftsjahrs jeweils gesondert aufzuführen.
 
 
 #### § 7 Aktien, Anteile oder Aktien an Investmentvermögen und andere nicht festverzinsliche Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001101360)
 
 Im Posten "Aktien, Anteile oder Aktien an Investmentvermögen und
 andere nicht festverzinsliche Wertpapiere" sind Aktien auszuweisen,
@@ -268,6 +280,7 @@ aufzunehmen.
 
 
 #### § 8 Inhaberschuldverschreibungen und andere festverzinsliche Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001200000)
 
 (1) Als Inhaberschuldverschreibungen und andere festverzinsliche
 Wertpapiere sind insbesondere die folgenden Rechte auszuweisen, wenn
@@ -293,6 +306,7 @@ einem gepoolten Forderungsvermögen verbriefen.
 
 
 #### § 9 Hypotheken-, Grundschuld- und Rentenschuldforderungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001300000)
 
 Im Posten "Hypotheken-, Grundschuld- und Rentenschuldforderungen" sind
 Forderungen auszuweisen, für die dem bilanzierenden
@@ -304,6 +318,7 @@ Versicherungsvertrag zusätzlich gesichert sind.
 
 
 #### § 10 Sonstige Ausleihungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001401377)
 
 (1) Im Posten "Sonstige Ausleihungen" sind ohne Rücksicht auf ihre
 Laufzeit folgende Ausleihungen auszuweisen, soweit sie nicht im Posten
@@ -348,6 +363,7 @@ einen größeren Umfang haben.
 
 
 #### § 11 Einlagen bei Kreditinstituten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001501377)
 
 Im Posten "Einlagen bei Kreditinstituten" sind die Guthaben und
 Sparguthaben bei Kreditinstituten auszuweisen, über die erst nach
@@ -360,6 +376,7 @@ auszuweisen; dazu gehören auch die laufenden Postbankguthaben.
 
 
 #### § 12 Andere Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001600000)
 
 Im Posten "Andere Kapitalanlagen" sind auch die Ausgleichsforderungen
 aus der Währungsreform von 1948 auszuweisen. Die "Anderen
@@ -368,6 +385,7 @@ Umfang haben.
 
 
 #### § 13 Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001700000)
 
 (1) Im Posten "Depotforderungen aus dem in Rückdeckung übernommenen
 Versicherungsgeschäft" sind von Unternehmen, die die Rückversicherung
@@ -386,6 +404,7 @@ auszuweisen. Absatz 1 ist insoweit nicht anzuwenden.
 
 
 #### § 14 Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungspolicen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001800000)
 
 (1) Auszuweisen sind in der Lebensversicherung die Kapitalanlagen,
 nach deren Wert sich der Wert oder die Überschüsse bei fondsgebundenen
@@ -400,6 +419,7 @@ der Anteileinheiten zum Abschlußstichtag anzugeben.
 
 
 #### § 15 Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE001900000)
 
 (1) Im Unterposten "noch nicht fällige Ansprüche" sind von den
 Lebensversicherungsunternehmen und von den Pensions- und Sterbekassen,
@@ -418,6 +438,7 @@ uneingeschränkt gezillmerten Deckungsrückstellung hier auszuweisen.
 
 
 #### § 16 Abrechnungsforderungen aus dem Rückversicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002000000)
 
 Im Posten "Abrechnungsforderungen aus dem Rückversicherungsgeschäft"
 sind die sich aus den laufenden Abrechnungen mit den Vor- und
@@ -435,6 +456,7 @@ auszuweisen.
 
 
 #### § 17 Sonstige Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002100000)
 
 Im Posten "Sonstige Forderungen" sind Forderungen auszuweisen, die
 einem anderen Posten nicht zugeordnet werden können. Hierzu gehören
@@ -447,6 +469,7 @@ Trägerunternehmen, die nicht aus dem Versicherungsgeschäft herrühren.
 
 
 #### § 18 Sachanlagen und Vorräte
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002200000)
 
 (1) Als Sachanlagen sind technische Anlagen und Maschinen, andere
 Anlagen, Betriebs- und Geschäftsausstattung sowie hierauf geleistete
@@ -457,12 +480,14 @@ Büromaterial sowie hierauf geleistete Anzahlungen auszuweisen.
 
 
 #### § 19 Andere Vermögensgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002300000)
 
 Der Posten "Andere Vermögensgegenstände" ist im Anhang zu erläutern,
 wenn er einen größeren Umfang hat.
 
 
 #### § 20 Abgegrenzte Zinsen und Mieten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002400000)
 
 Als "Abgegrenzte Zinsen und Mieten" sind die Zins- und Mieterträge
 auszuweisen, die auf die Zeit bis zum Abschlußstichtag entfallen, aber
@@ -470,6 +495,7 @@ noch nicht fällig sind.
 
 
 #### § 21 Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002500000)
 
 Niederlassungen haben als letzten Posten der Aktivseite den Posten
 "Ausgleichsbetrag" einzufügen, wenn sich ein Überhang der Passivposten
@@ -477,10 +503,12 @@ Niederlassungen haben als letzten Posten der Aktivseite den Posten
 
 
 ### Unterabschnitt 2 - Posten der Passivseite
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG002600000)
 
 
 
 #### § 22 Nachrangige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002601377)
 
 Im Posten "Nachrangige Verbindlichkeiten" sind Verbindlichkeiten
 auszuweisen, die im Falle der Liquidation oder der Insolvenz erst nach
@@ -488,6 +516,7 @@ den Forderungen der anderen Gläubiger erfüllt werden dürfen.
 
 
 #### § 23 Anteile für das in Rückdeckung gegebene Versicherungsgeschäft an den Bruttobeträgen der versicherungstechnischen Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002700000)
 
 Die Anteile für das in Rückdeckung gegebene Versicherungsgeschäft an
 den versicherungstechnischen Rückstellungen umfassen die Beträge, um
@@ -499,6 +528,7 @@ des Rückversicherungsvertrags gilt Satz 1.
 
 
 #### § 24 Beitragsüberträge
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002800000)
 
 Der Bruttobetrag der Beitragsüberträge gemäß § 341e Abs. 2 Nr. 1 des
 Handelsgesetzbuchs umfaßt den Teil der gebuchten Bruttobeiträge, der
@@ -514,6 +544,7 @@ Entwicklung des Risikos Rechnung tragen.
 
 
 #### § 25 Deckungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE002902360)
 
 (1) Bei der Berechnung der Deckungsrückstellung sind für die
 Berücksichtigung der Risiken aus dem Versicherungsvertrag angemessene
@@ -574,6 +605,7 @@ auszuweisen.
 
 
 #### § 26 Rückstellung für noch nicht abgewickelte Versicherungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003000000)
 
 (1) Für die Höhe der Rückstellung für noch nicht abgewickelte
 Versicherungsfälle gemäß § 341g Abs. 1 Satz 1 des Handelsgesetzbuchs
@@ -603,6 +635,7 @@ größeren Umfang, so sind sie im Anhang anzugeben.
 
 
 #### § 27 Näherungs- und Vereinfachungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003100000)
 
 (1) Reichen die das Geschäftsjahr betreffenden Informationen über die
 fälligen Beiträge oder die eingetretenen Versicherungsfälle auf Grund
@@ -647,6 +680,7 @@ Umfang die betreffenden Geschäfte haben.
 
 
 #### § 28 Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003202360)
 
 (1) Im Posten "Rückstellung für erfolgsabhängige und
 erfolgsunabhängige Beitragsrückerstattung" sind die Rückstellungen für
@@ -808,6 +842,7 @@ Unfallversicherung gelten die Absätze 6 bis 8 entsprechend.
 
 
 #### § 29 Schwankungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003300000)
 
 Auf die Bildung von Schwankungsrückstellungen nach § 341h Abs. 1 des
 Handelsgesetzbuchs sind die in der Anlage enthaltenen Vorschriften
@@ -819,6 +854,7 @@ jährlichen Schadenbedarf nicht oder nicht ausreichend gewährleistet.
 
 
 #### § 30 Der Schwankungsrückstellung ähnliche Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003401377)
 
 (1) Für die selbst abgeschlossenen und in Rückdeckung übernommenen
 Produkthaftpflicht-Versicherungen von Pharmarisiken nach dem
@@ -917,6 +953,7 @@ mehr vorliegen.
 
 
 #### § 31 Sonstige versicherungstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003501377)
 
 (1) Zu dem Posten "Sonstige versicherungstechnische Rückstellungen"
 gehören insbesondere:
@@ -959,6 +996,7 @@ auszuweisen:
 
 
 #### § 32 Versicherungstechnische Rückstellungen im Bereich der Lebensversicherung, wenn das Anlagerisiko von den Versicherungsnehmern getragen wird
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003600000)
 
 (1) Unter diesem Posten sind die versicherungstechnischen
 Rückstellungen für Verpflichtungen des Versicherungsunternehmens aus
@@ -978,6 +1016,7 @@ ebenfalls hier auszuweisen.
 
 
 #### § 33 Depotverbindlichkeiten aus dem in Rückdeckung gegebenen Versicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003700000)
 
 (1) Im Posten "Depotverbindlichkeiten aus dem in Rückdeckung gegebenen
 Versicherungsgeschäft" sind die Verbindlichkeiten gegenüber
@@ -991,6 +1030,7 @@ mit Forderungen an den Rückversicherer verrechnet werden.
 
 
 #### § 34 Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003800000)
 
 Im Posten "Abrechnungsverbindlichkeiten aus dem
 Rückversicherungsgeschäft" sind die sich aus den laufenden
@@ -1001,6 +1041,7 @@ Versicherungsgeschäft auszuweisen. Im übrigen gilt § 16 Satz 2.
 
 
 #### § 35 Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE003900000)
 
 Niederlassungen haben als letzten Posten der Passivseite den Posten
 "Ausgleichsbetrag" einzufügen, wenn sich ein Überhang der Aktivposten
@@ -1010,10 +1051,12 @@ sondern unter dem Passivposten "Kapitalrücklage" auszuweisen.
 
 
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG004000000)
 
 
 
 ### § 36 Gebuchte Bruttobeiträge
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004100000)
 
 (1) Im Unterposten "Gebuchte Bruttobeiträge" sind, soweit es sich um
 das selbst abgeschlossene Versicherungsgeschäft handelt, insbesondere
@@ -1101,6 +1144,7 @@ Vorversicherer abgeführten Portefeuille-Austrittsbeiträge abzusetzen.
 
 
 ### § 37 Abgegebene Rückversicherungsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004200000)
 
 Im Unterposten "Abgegebene Rückversicherungsbeiträge" sind folgende
 Beträge auszuweisen:
@@ -1124,6 +1168,7 @@ Rückversicherer erhaltenen Portefeuille-Austrittsbeiträge abzusetzen.
 
 
 ### § 38 Technischer Zinsertrag für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004300000)
 
 (1) Im Posten "Technischer Zinsertrag für eigene Rechnung" sind von
 den Schaden- und Unfallversicherungsunternehmen sowie
@@ -1157,6 +1202,7 @@ Berechnungsgrundlage zu erläutern.
 
 
 ### § 39 Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004400000)
 
 Lebensversicherungsunternehmen haben die nicht realisierten Gewinne
 oder Verluste aus den Kapitalanlagen für Rechnung und Risiko von
@@ -1166,6 +1212,7 @@ aus Kapitalanlagen" auszuweisen.
 
 
 ### § 40 Sonstige versicherungstechnische Erträge für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004500000)
 
 Im Posten "Sonstige versicherungstechnische Erträge für eigene
 Rechnung" sind die versicherungstechnischen Erträge auszuweisen, die
@@ -1200,6 +1247,7 @@ abzusetzen.
 
 
 ### § 41 Aufwendungen für Versicherungsfälle für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004600000)
 
 (1) Die Aufwendungen für Versicherungsfälle für eigene Rechnung
 umfassen die im Geschäftsjahr für Versicherungsfälle geleisteten
@@ -1248,6 +1296,7 @@ Anhang zu erläutern.
 
 
 ### § 42 Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004700000)
 
 (1) Die Aufwendungen für die erfolgsabhängige Beitragsrückerstattung
 in der Lebens- und Krankenversicherung umfassen die Zuführungen zur
@@ -1277,6 +1326,7 @@ Umfang, so sind sie im Anhang getrennt anzugeben.
 
 
 ### § 43 Aufwendungen für den Versicherungsbetrieb für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004800000)
 
 (1) Die gesamten Personal- und Sachaufwendungen des Unternehmens
 zuzüglich der kalkulatorischen Mietaufwendungen für die eigengenutzten
@@ -1392,6 +1442,7 @@ auszuweisen. Im Anhang sind diese Posten jedoch gesondert anzugeben.
 
 
 ### § 44 Sonstige versicherungstechnische Aufwendungen für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE004900000)
 
 Im Posten "Sonstige versicherungstechnische Aufwendungen für eigene
 Rechnung" sind die versicherungstechnischen Aufwendungen auszuweisen,
@@ -1430,6 +1481,7 @@ abzusetzen.
 
 
 ### § 45 Erträge aus Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005000000)
 
 (1) Betreibt ein Lebensversicherungsunternehmen auch das selbst
 abgeschlossene Unfallversicherungsgeschäft, sind die Erträge aus
@@ -1450,6 +1502,7 @@ Bauten auszuweisen.
 
 
 ### § 46 Aufwendungen für Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005101360)
 
 (1) Für den Ausweis der Aufwendungen für Kapitalanlagen ist § 45 Abs.
 1 entsprechend anzuwenden.
@@ -1483,6 +1536,7 @@ Kapitalanlagen umfassen insbesondere:
 
 
 ### § 47 Sonstige Erträge
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005201140)
 
 Im Posten "Sonstige Erträge" sind die nichtversicherungstechnischen
 Erträge auszuweisen, die einem anderen Posten nicht zugeordnet werden
@@ -1518,6 +1572,7 @@ können. Hierzu gehören insbesondere:
 
 
 ### § 48 Sonstige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005301140)
 
 Im Posten "Sonstige Aufwendungen" sind die
 nichtversicherungstechnischen Aufwendungen auszuweisen, die einem
@@ -1565,6 +1620,7 @@ insbesondere:
 
 
 ### § 49 Sonstige Steuern
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005400000)
 
 Im Posten "Sonstige Steuern" sind Steuern auszuweisen, soweit es sich
 nicht um Steuern vom Einkommen und vom Ertrag oder um die
@@ -1572,6 +1628,7 @@ Feuerschutzsteuer handelt.
 
 
 ### § 50 Ausgleichsposten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005500000)
 
 Pensions- und Sterbekassen haben zu den Abschlußstichtagen, zu denen
 die versicherungsmathematische Berechnung der Deckungsrückstellung
@@ -1585,10 +1642,12 @@ nachfolgenden Geschäftsjahr ist dieser Unterschiedsbetrag unter dem
 
 
 ## Abschnitt 5 - Anhang
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG005600000)
 
 
 
 ### § 51 Zusätzliche Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005708360)
 
 (1) In den Anhang sind neben den nach § 341a in Verbindung mit § 284
 und § 285 Nummer 1 bis 3a, 7, 9 bis 14a, 15a bis 30, 32 bis 34 des
@@ -2039,6 +2098,7 @@ Muster 2 zu machen.
 
 
 ### § 52 Zusätzliche Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005801360)
 
 Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im
 Anhang zusätzlich anzugeben:
@@ -2089,6 +2149,7 @@ Anhang zusätzlich anzugeben:
 
 
 ### § 53 Versicherungsunternehmen, die im selbst abgeschlossenen Versicherungsgeschäft mehrere Geschäftszweige betreiben
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE005900000)
 
 Lebensversicherungsunternehmen, die auch das selbst abgeschlossene
 Unfallversicherungsgeschäft betreiben, haben die für den Anhang
@@ -2101,6 +2162,7 @@ auch für das Krankenversicherungsgeschäft zu machen.
 
 
 ### § 54 Zeitwert der Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006001377)
 
 Für zum Anschaffungswert oder zum Nennwert ausgewiesene Kapitalanlagen
 ist im Anhang jeweils der Zeitwert anzugeben. Die Ermittlung des
@@ -2121,6 +2183,7 @@ daraus ergebende Saldo anzugeben.
 
 
 ### § 55 Zeitwert der Grundstücke, grundstücksgleichen Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006101140)
 
 (1) Bei Grundstücken, grundstücksgleichen Rechten und Bauten
 einschließlich der Bauten auf fremden Grundstücken ist der Zeitwert
@@ -2164,6 +2227,7 @@ Bewertung erfolgte, anzugeben.
 
 
 ### § 56 Zeitwert der übrigen Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006200000)
 
 (1) Bei den übrigen Kapitalanlagen ist der Zeitwert vorbehaltlich
 Absatz 5 der Freiverkehrswert.
@@ -2195,10 +2259,12 @@ Grund für ihre Anwendung anzugeben.
 
 
 ## Abschnitt 6 - Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG006300000)
 
 
 
 ### § 57 Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006401377)
 
 (1) In den Lagebericht sind zusätzlich zu den in § 289 des
 Handelsgesetzbuchs vorgeschriebenen Angaben die in diesem Abschnitt
@@ -2254,10 +2320,12 @@ gesondert auch für das Krankenversicherungsgeschäft zu machen.
 
 
 ## Abschnitt 7 - Konzernrechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG006500000)
 
 
 
 ### § 58 Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006600000)
 
 (1) Für die Aufstellung der Konzernbilanz ist das Formblatt 1 und für
 die Aufstellung der Konzern-Gewinn- und Verlustrechnung das Formblatt
@@ -2331,6 +2399,7 @@ entsprechend anzuwenden.
 
 
 ### § 59 Konzernanhang
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006703360)
 
 (1) In den Konzernanhang sind neben den nach § 341j Abs. 1 in
 Verbindung mit den §§ 313 und 314 Abs. 1 Nr. 1, 2 und 2a sowie 4 bis
@@ -2389,6 +2458,7 @@ anzugeben.
 
 
 ### § 60 Konzernlagebericht
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE006800000)
 
 In den Konzernlagebericht sind zusätzlich zu den in § 315 Abs. 1 und 2
 des Handelsgesetzbuchs vorgeschriebenen Angaben die folgenden Angaben
@@ -2407,10 +2477,12 @@ aufzunehmen:
 
 
 ## Abschnitt 8 - Befreiungen und Vereinfachungen für bestimmte Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG006900000)
 
 
 
 ### § 61 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007003360)
 
 § 341k in Verbindung mit den Vorschriften des Dritten Unterabschnitts
 des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs über
@@ -2470,6 +2542,7 @@ es handelt sich bei diesen Unternehmen um Pensionskassen.
 
 
 ### § 62 Vereinfachungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007101360)
 
 (1) Die in § 61 Abs. 1 bezeichneten Versicherungsunternehmen dürfen
 abweichend von § 2
@@ -2522,10 +2595,12 @@ Jahre nicht überschreiten dürfen.
 
 
 ## Abschnitt 9 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG007200000)
 
 
 
 ### § 63 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007301360)
 
 Ordnungswidrig im Sinne des § 341n Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer als Mitglied des
@@ -2586,10 +2661,12 @@ dieser Verordnung
 
 
 ## Abschnitt 10 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNG007400000)
 
 
 
 ### § 64 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007515360)
 
 (1) § 61 Abs. 1 Nr. 4 sowie Abschnitt I Nr. 1 und Abschnitt II Nr. 3
 Abs. 1 Satz 2 der Anlage zu § 29 in der vom 1. Januar 2002 an
@@ -2656,17 +2733,20 @@ beginnende Geschäftsjahr anzuwenden.
 
 
 ### § 65 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007700000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 29)
 
 ### Anlage Vorschriften zur Bildung von Schwankungsrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007804377)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3396 - 3398;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2982,6 +3062,7 @@ Abschnitt II Nr. 1 Abs. 3 Satz 1 aufgestellt werden.
 
 
 ### Formblatt 1
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE007906360)
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1994, S. 3399 - 3401;
@@ -2989,6 +3070,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Formblatt 2
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008004360)
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1994, S. 3402 - 3404;
@@ -2996,6 +3078,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Formblatt 3
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008104360)
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1994, S. 3405 - 3407;
@@ -3003,6 +3086,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Formblatt 4
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008203140)
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1994, S. 3408 - 3411;
@@ -3010,6 +3094,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 1
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008303360)
 
 (Inhalt: nicht darstellbares Muster)
 (Fundstelle: BGBl. I 1994, S. 3412;
@@ -3017,6 +3102,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 2
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008401307)
 
 (Fundstelle: BGBl. I 1994, S. 3413;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3024,6 +3110,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 3
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008501307)
 
 (Fundstelle: BGBl. I 1994, S. 3414 - 3416;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3031,6 +3118,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 4
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008601307)
 
 (Fundstelle: BGBl. I 1994, S. 3417;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3038,6 +3126,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 5 Bewegung des Bestandes an Sterbegeldversicherungen, weiteren Kapitalversicherungen und Zusatzversicherungen im Geschäftsjahr ...
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008702377)
 
 (Fundstelle: BGBl. I 1994, S. 3418;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3045,6 +3134,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 6
+[Direktlink](https://www.gesetze-im-internet.de/rechversv/BJNR337800994.html#BJNR337800994BJNE008801360)
 
 (Fundstelle: BGBl. I 2001, S. 3421)
 (Inhalt: nicht darstellbares Muster)

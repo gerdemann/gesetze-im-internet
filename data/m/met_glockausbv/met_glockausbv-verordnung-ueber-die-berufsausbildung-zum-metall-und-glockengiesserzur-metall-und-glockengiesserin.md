@@ -25,6 +25,7 @@ zumBundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000100310)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember
@@ -36,6 +37,7 @@ Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000200310)
 
 Der Ausbildungsberuf Metall- und Glockengießer/Metall- und
 Glockengießerin wird für die Ausbildung für das Gewerbe Nummer 35,
@@ -44,6 +46,7 @@ anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000300310)
 
 Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann
 zwischen den Fachrichtungen
@@ -62,6 +65,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000400310)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -196,6 +200,7 @@ Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000500310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -214,12 +219,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000600310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000700310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -228,6 +235,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000800310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -271,6 +279,7 @@ Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
 Glockengießerin
 
 ## § 8 Fachrichtung Zinngußtechnik
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE000900310)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -406,6 +415,7 @@ Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
 Glockengießerin
 
 ## § 9 Fachrichtung Kunst- und Glockengußtechnik
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE001000310)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -555,6 +565,7 @@ Gesellenprüfung zum Metall- und Glockengießer/zur Metall- und
 Glockengießerin
 
 ## § 10 Fachrichtung Metallgußtechnik
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE001100310)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -676,6 +687,7 @@ Leistungen erbracht sind.
 
 
 ## § 11 Nichtanwenden von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE001200310)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
@@ -685,6 +697,7 @@ anzuwenden.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE001300310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -693,12 +706,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE001400310)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metall- und Glockengießer/zur Metall- und Glockengießerin
+[Direktlink](https://www.gesetze-im-internet.de/met_glockausbv/BJNR099600998.html#BJNR099600998BJNE001500310)
 
 (Fundstelle: BGBl. I 1998, S. 1000 - 1006)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_stmprokbek/BJNR342800994.html#BJNR342800994BJNE000100305)
 
 Die von der Bundesregierung am 19. Oktober 1994 beschlossene
 Proklamation über die Ausweitung des deutschen Küstenmeeres wird
@@ -26,6 +27,7 @@ hiermit bekanntgemacht:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/k_stmprokbek/BJNR342800994.html#BJNR342800994BJNE000200305)
 
 
 *   Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik
@@ -413,6 +415,7 @@ Nocht-Straße 78, 20359 Hamburg
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/k_stmprokbek/BJNR342800994.html#BJNR342800994BJNE000300305)
 
 
 *   Dieser Beschluß tritt am 1. Januar 1995 in Kraft.

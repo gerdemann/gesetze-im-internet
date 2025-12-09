@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE000500319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNG000100319)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE000600319)
 
 Der Arbeitgeber hat nach Maßgabe dieses Gesetzes Betriebsärzte und
 Fachkräfte für Arbeitssicherheit zu bestellen. Diese sollen ihn beim
@@ -54,10 +57,12 @@ erreicht werden, daß
 
 
 ## Zweiter Abschnitt - Betriebsärzte
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNG000200319)
 
 
 
 ### § 2 Bestellung von Betriebsärzten
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE000701308)
 
 (1) Der Arbeitgeber hat Betriebsärzte schriftlich zu bestellen und
 ihnen die in § 3 genannten Aufgaben zu übertragen, soweit dies
@@ -99,6 +104,7 @@ freizustellen.
 
 
 ### § 3 Aufgaben der Betriebsärzte
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE000801308)
 
 (1) Die Betriebsärzte haben die Aufgabe, den Arbeitgeber beim
 Arbeitsschutz und bei der Unfallverhütung in allen Fragen des
@@ -189,6 +195,7 @@ der Arbeitnehmer auf ihre Berechtigung zu überprüfen.
 
 
 ### § 4 Anforderungen an Betriebsärzte
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE000900319)
 
 Der Arbeitgeber darf als Betriebsärzte nur Personen bestellen, die
 berechtigt sind, den ärztlichen Beruf auszuüben, und die über die zur
@@ -197,10 +204,12 @@ arbeitsmedizinische Fachkunde verfügen.
 
 
 ## Dritter Abschnitt - Fachkräfte für Arbeitssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNG000300319)
 
 
 
 ### § 5 Bestellung von Fachkräften für Arbeitssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001001308)
 
 (1) Der Arbeitgeber hat Fachkräfte für Arbeitssicherheit
 (Sicherheitsingenieure, -techniker, -meister) schriftlich zu bestellen
@@ -249,6 +258,7 @@ Aufgaben freizustellen.
 
 
 ### § 6 Aufgaben der Fachkräfte für Arbeitssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001101308)
 
 Die Fachkräfte für Arbeitssicherheit haben die Aufgabe, den
 Arbeitgeber beim Arbeitsschutz und bei der Unfallverhütung in allen
@@ -318,6 +328,7 @@ Gestaltung der Arbeit zu unterstützen. Sie haben insbesondere
 
 
 ### § 7 Anforderungen an Fachkräfte für Arbeitssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001200319)
 
 (1) Der Arbeitgeber darf als Fachkräfte für Arbeitssicherheit nur
 Personen bestellen, die den nachstehenden Anforderungen genügen: Der
@@ -336,10 +347,12 @@ entsprechende Fachkenntnisse verfügt.
 
 
 ## Vierter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNG000400319)
 
 
 
 ### § 8 Unabhängigkeit bei der Anwendung der Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001301308)
 
 (1) Betriebsärzte und Fachkräfte für Arbeitssicherheit sind bei der
 Anwendung ihrer arbeitsmedizinischen und sicherheitstechnischen
@@ -370,6 +383,7 @@ Betriebsrat erhält eine Abschrift.
 
 
 ### § 9 Zusammenarbeit mit dem Betriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001400319)
 
 (1) Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit haben
 bei der Erfüllung ihrer Aufgaben mit dem Betriebsrat
@@ -394,6 +408,7 @@ ist der Betriebsrat zu hören.
 
 
 ### § 10 Zusammenarbeit der Betriebsärzte und der Fachkräfte für Arbeitssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001501308)
 
 Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit haben bei
 der Erfüllung ihrer Aufgaben zusammenzuarbeiten. Dazu gehört es
@@ -405,6 +420,7 @@ Umweltschutzes beauftragten Personen zusammen.
 
 
 ### § 11 Arbeitsschutzausschuß
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001605308)
 
 Soweit in einer sonstigen Rechtsvorschrift nichts anderes bestimmt
 ist, hat der Arbeitgeber in Betrieben mit mehr als zwanzig
@@ -433,6 +449,7 @@ zusammen.
 
 
 ### § 12 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001700319)
 
 (1) Die zuständige Behörde kann im Einzelfall anordnen, welche
 Maßnahmen der Arbeitgeber zur Erfüllung der sich aus diesem Gesetz und
@@ -463,6 +480,7 @@ Arbeitgeber getroffene Anordnung schriftlich in Kenntnis zu setzen.
 
 
 ### § 13 Auskunfts- und Besichtigungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001800319)
 
 (1) Der Arbeitgeber hat der zuständigen Behörde auf deren Verlangen
 die zur Durchführung des Gesetzes erforderlichen Auskünfte zu
@@ -483,6 +501,7 @@ eingeschränkt.
 
 
 ### § 14 Ermächtigung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE001903308)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung
 des Bundesrates durch Rechtsverordnung bestimmen, welche Maßnahmen der
@@ -500,6 +519,7 @@ gewordene Unfallverhütungsvorschrift nicht ändert.
 
 
 ### § 15 Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002002308)
 
 Das Bundesministerium für Arbeit und Soziales erläßt mit Zustimmung
 des Bundesrates allgemeine Verwaltungsvorschriften zu diesem Gesetz
@@ -507,6 +527,7 @@ und den auf Grund des Gesetzes erlassenen Rechtsverordnungen.
 
 
 ### § 16 Öffentliche Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002100319)
 
 In Verwaltungen und Betrieben des Bundes, der Länder, der Gemeinden
 und der sonstigen Körperschaften, Anstalten und Stiftungen des
@@ -516,6 +537,7 @@ Arbeitsschutz zu gewährleisten.
 
 
 ### § 17 Nichtanwendung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002201377)
 
 (1) Dieses Gesetz ist nicht anzuwenden, soweit Arbeitnehmer im
 Haushalt beschäftigt werden.
@@ -531,6 +553,7 @@ enthält, gelten diese Regelungen. Im übrigen gilt dieses Gesetz.
 
 
 ### § 18 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002300319)
 
 Die zuständige Behörde kann dem Arbeitgeber gestatten, auch solche
 Betriebsärzte und Fachkräfte für Arbeitssicherheit zu bestellen, die
@@ -541,6 +564,7 @@ Arbeitssicherheit entsprechend fortbilden zu lassen.
 
 
 ### § 19 Überbetriebliche Dienste
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002400319)
 
 Die Verpflichtung des Arbeitgebers, Betriebsärzte und Fachkräfte für
 Arbeitssicherheit zu bestellen, kann auch dadurch erfüllt werden, daß
@@ -550,6 +574,7 @@ Fachkräften für Arbeitssicherheit zur Wahrnehmung der Aufgaben nach §
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002501308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -572,11 +597,13 @@ geahndet werden.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002800319)
 
 -
 
 
 ### § 22 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002600319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -586,6 +613,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE002700319)
 
 (1) Dieses Gesetz, ausgenommen § 14 und
 § 21, tritt am ersten Tag des auf die Verkündung folgenden zwölften
@@ -598,6 +626,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 1029)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/asig/BJNR018850973.html#BJNR018850973BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

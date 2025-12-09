@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr_1/BJNR112700019.html#BJNR112700019BJNE000100000)
 
 
 *   Das Land Baden-Württemberg,
@@ -81,10 +82,12 @@ schließen nachstehenden Staatsvertrag:
 
 
 ## Art 1 Änderung des Vertrags über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr_1/BJNR112700019.html#BJNR112700019BJNE000200000)
 
 
 
 ## Art 2 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr_1/BJNR112700019.html#BJNR112700019BJNE000300000)
 
 Der Bund und die Länder können den Wortlaut des
 IT-Staatsvertrags in der am Tag des Inkrafttretens nach Artikel 3
@@ -93,6 +96,7 @@ jeweiligen Landesgesetzblättern bekannt machen.
 
 
 ## Art 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr_1/BJNR112700019.html#BJNR112700019BJNE000400000)
 
 (1) Dieser Staatsvertrag tritt am ersten Tag des Monats in Kraft, der
 dem Monat folgt, in dem die letzte Ratifikationsurkunde bei der

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2018/BJNR184300018.html#BJNR184300018BJNE000100000)
 
 Nach
 
@@ -85,6 +86,7 @@ aufgehoben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2018/BJNR184300018.html#BJNR184300018BJNE000200000)
 
 Bundesministerium der Justiz und für Verbraucherschutz
 

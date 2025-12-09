@@ -29,15 +29,18 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000100000)
 
 Auf Grund des § 24 Nummer 2 des Elektro- und Elektronikgerätegesetzes
 vom 20. Oktober 2015 (BGBl. I S. 1739) verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000300000)
 
 (1) Diese Verordnung regelt die Anforderungen an die Behandlung von
 Altgeräten im Sinne des § 3 Nummer 3 des Elektro- und
@@ -81,6 +84,7 @@ unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000400000)
 
 (1) Mechanische Zerkleinerung ist die Zerkleinerung von Feststoffen
 unter mechanischer Einwirkung in oder mit Hilfe von Maschinen auf eine
@@ -92,12 +96,15 @@ Metallanteil unter zehn Prozent liegt.
 
 
 ## Abschnitt 2 - Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeine Behandlungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNG000300000)
 
 
 #### § 3 Schadstoffentfrachtung und Wertstoffseparierung
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000500000)
 
 (1) Vor einer mechanischen Zerkleinerung von getrennt erfassten
 Altgeräten müssen aus diesen Altgeräten mindestens folgende Bauteile,
@@ -256,6 +263,7 @@ Verteilung von staubförmigen Emissionen zu vermeiden.
 
 
 #### § 4 Allgemeine Anforderungen an die weitere Behandlung von entfernten Stoffen, Gemischen und Bauteilen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000601130)
 
 (1) Die nach § 3 entfernten Bauteile, Gemische und Stoffe sind der
 Vorbereitung zur Wiederverwendung zuzuführen oder zu recyceln.
@@ -272,9 +280,11 @@ stellen.
 
 
 ### Unterabschnitt 2 - Selektive Behandlungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNG000400000)
 
 
 #### § 5 Anforderungen an die Behandlung von radioaktiven Bauteilen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000700000)
 
 (1) Bauteile aus Konsumgütern, die radioaktive Stoffe enthalten und
 
@@ -305,6 +315,7 @@ erlassenen Rechtsverordnungen zu entsorgen.
 
 
 #### § 6 Anforderungen an die Behandlung von Leiterplatten
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000800000)
 
 Aluminium-Kühlkörper ab einer Masse von 100 Gramm aus den gemäß § 3
 Absatz 1 Nummer 5 und Absatz 2 Nummer 4 entfernten Leiterplatten sind
@@ -314,6 +325,7 @@ Edelmetallverluste entstehen.
 
 
 #### § 7 Anforderungen an die Behandlung von Kunststoffen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE000900000)
 
 (1) Wenn bei gemäß § 3 Absatz 2 Nummer 5 entfernten Kunststoffen nicht
 ausgeschlossen werden kann, dass die jeweiligen Konzentrationsgrenzen
@@ -336,6 +348,7 @@ Vorbereitung zur Wiederverwendung oder einem Recycling zuzuführen.
 
 
 #### § 8 Anforderungen an die Behandlung von Flachbildschirm-Geräten mit quecksilberhaltiger Hintergrundbeleuchtung und von Gasentladungslampen sowie deren Fraktionen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001000000)
 
 (1) Bei Flachbildschirm-Geräten mit quecksilberhaltiger
 Hintergrundbeleuchtung ist die Lampenfraktion von den anderen zu
@@ -371,6 +384,7 @@ Quecksilbergehalt nicht überschritten werden:
 
 
 #### § 9 Anforderungen an die Behandlung von Kathodenstrahlröhren
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001100000)
 
 (1) Von gemäß § 3 Absatz 1 Nummer 14 entfernten Kathodenstrahlröhren
 ist die fluoreszierende Beschichtung zu entfernen.
@@ -389,6 +403,7 @@ bleihaltigem Strahlenschutzglas zulässig.
 
 
 #### § 10 Anforderungen an die Behandlung von Photovoltaikmodulen
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001200000)
 
 (1) Siliziumbasierte und nicht-siliziumbasierte Photovoltaikmodule
 sind getrennt voneinander zu behandeln. Photovoltaikmodule aus Tandem-
@@ -460,6 +475,7 @@ Cadmium-Tellurid zu trennen und einem Recycling zuzuführen.
 
 
 #### § 11 Anforderungen an die Behandlung von Wärmeüberträgern
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001300000)
 
 (1) Bei der Behandlung von Wärmeüberträgern sind Gase, die
 ozonabbauend sind oder ein Erderwärmungspotenzial (GWP100) über 15
@@ -483,9 +499,11 @@ physikalischen Behandlungsanlage zuzuführen.
 
 
 ## Abschnitt 3 - Eigenüberwachung, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNG000500000)
 
 
 ### § 12 Eigenüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001400000)
 
 (1) Der Betreiber einer Erstbehandlungsanlage ist verpflichtet,
 
@@ -524,17 +542,20 @@ einer Erstbehandlungsanlage
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001500000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3 Absatz 1 Nummer 5)
 
 ### Anlage Nicht abschließende Liste der Altgeräte mit besonders hohen Wertstoffgehalten in Leiterplatten
+[Direktlink](https://www.gesetze-im-internet.de/eag-behandv/BJNR184100021.html#BJNR184100021BJNE001700000)
 
 (Fundstelle: BGBl. I 2021, 1846)
 

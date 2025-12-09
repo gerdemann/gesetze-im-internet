@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000000000)
 
 Auf Grund des § 36 Abs. 8 des Zivildienstgesetzes in der Fassung der
 Bekanntmachung vom 28. September 1994 (BGBl. I S. 2811), der durch
@@ -29,6 +30,7 @@ Senioren, Frauen und Jugend:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000101310)
 
 Diese Verordnung gilt für die Personalakten
 
@@ -46,6 +48,7 @@ Diese Verordnung gilt für die Personalakten
 
 
 ## § 2 Grundakte, Teilakten, Nebenakten
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000201310)
 
 (1) Die Personalakte ist nach sachlichen und organisatorischen
 Gesichtspunkten in Grundakte, Teilakten und Nebenakten gegliedert.
@@ -84,6 +87,7 @@ oder in einer Teilakte befinden.
 
 
 ## § 3 Tauglichkeitsakte
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000300000)
 
 (1) Die Tauglichkeitsakte dient der personenbezogenen Dokumentation
 ärztlicher Unterlagen, die die Tauglichkeit des Zivildienstpflichtigen
@@ -103,6 +107,7 @@ Rechtsstreits zuständige Personal Einsicht nehmen.
 
 
 ## § 4 Sachakten
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000400000)
 
 (1) Als Sachakten gehören nicht zu der Personalakte
 
@@ -129,6 +134,7 @@ Organisationseinheit des Bundesamtes zu führen.
 
 
 ## § 5 Weitergabe der Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000501310)
 
 (1) Für die Rückgabe der Personalakte gilt § 12 Abs. 2 bis 4 des
 Kriegsdienstverweigerungsgesetzes.
@@ -148,6 +154,7 @@ erforderlichen Teile der Heilfürsorgeakte.
 
 
 ## § 6 Aufbewahrung der Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000601310)
 
 (1) Die Personalakte wird während der Bearbeitung vom zuständigen
 Personal und im Übrigen in einer Registratur aufbewahrt und vor
@@ -188,6 +195,7 @@ dem Personal dieser Stellen zugänglich sind, aufzubewahren.
 
 
 ## § 7 Aufbewahrungsfristen; Vernichtung der Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000701310)
 
 (1) Die Grundakte und die Tauglichkeitsakte sind bis zum Ablauf des
 Jahres, in dem die Kriegsdienstverweigerin oder der
@@ -235,6 +243,7 @@ Ablauf des Todesjahres zu vernichten.
 
 
 ## § 8 Ersetzung der Urschrift
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000801310)
 
 (1) Die Grundakte und die Tauglichkeitsakte können nach Vollendung des
 32\. Lebensjahres des Zivildienstpflichtigen zur Ersetzung der
@@ -268,6 +277,7 @@ Datenträger gespeicherten Personalunterlagen erfüllt sind.
 
 
 ## § 9 Erhebung, Verarbeitung und Nutzung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE000901310)
 
 (1) Personenbezogene Daten dürfen nur für Zwecke der Durchführung des
 Zivildienstgesetzes und des Kriegsdienstverweigerungsgesetzes sowie
@@ -291,6 +301,7 @@ Zusammenstellung der zu ihrer Person gespeicherten Daten.
 
 
 ## § 10 Zugriff auf gespeicherte personenbezogene Daten
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001001310)
 
 (1) Das Personal des Bundesamtes darf nur auf die gespeicherten
 personenbezogenen Daten Zugriff haben, die zur Erledigung seiner
@@ -306,6 +317,7 @@ zu § 9 Satz 1 des Bundesdatenschutzgesetzes.
 
 
 ## § 11 Übermittlung personenbezogener Daten durch das Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001101310)
 
 (1) Das Bundesamt übermittelt die Entscheidung über den Antrag einer
 Reservistin oder eines Wehrpflichtigen auf Anerkennung als
@@ -386,6 +398,7 @@ zulässig.
 
 
 ## § 12 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001201310)
 
 (1) Für die Löschung automatisiert verarbeiteter personenbezogener
 Daten von Zivildienstpflichtigen und sonstigen Personen, die einen
@@ -412,6 +425,7 @@ löschen.
 
 
 ## § 13 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001301310)
 
 (1) Zivildienstpflichtige und sonstige Personen, die einen Antrag nach
 § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, können auch
@@ -436,6 +450,7 @@ ist zulässig, soweit dienstliche Gründe nicht entgegenstehen.
 
 
 ## § 14 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001401310)
 
 (1) Auskünfte an Dritte über personenbezogene Daten von
 Zivildienstpflichtigen und sonstigen Personen, die einen Antrag nach §
@@ -469,6 +484,7 @@ Empfängerin der Auskunft schriftlich zu informieren.
 
 
 ## § 15 Entbindung von der ärztlichen Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001500000)
 
 Personenbezogene medizinische Daten, die im Rahmen der Gewährung der
 Heilfürsorge oder anlässlich von Nach-, Einstellungs-,
@@ -483,6 +499,7 @@ ist.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zdpersav/BJNR402500002.html#BJNR402500002BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

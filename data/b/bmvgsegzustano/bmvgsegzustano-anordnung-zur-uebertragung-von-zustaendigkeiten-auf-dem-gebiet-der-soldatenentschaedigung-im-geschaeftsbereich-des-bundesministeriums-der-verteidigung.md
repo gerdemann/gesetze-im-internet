@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgsegzustano/BJNR0C70A0024.html#BJNR0C70A0024BJNE000100000)
 
 Auf Grund des § 71 Absatz 2 Satz 1 sowie § 72 Absatz 2 Satz 2 des
 Soldatenentschädigungsgesetzes vom 20. August 2021 (BGBl. I S. 3932,
@@ -25,6 +26,7 @@ Soldatenentschädigungsgesetzes vom 20. August 2021 (BGBl. I S. 3932,
 
 
 ## § 1 Entscheidung im Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bmvgsegzustano/BJNR0C70A0024.html#BJNR0C70A0024BJNE000200000)
 
 Die Zuständigkeit für die Entscheidung im Vorverfahren (§ 71
 Soldatenentschädigungsgesetz) wird auf das Bundesamt für das
@@ -32,6 +34,7 @@ Personalmanagement der Bundeswehr übertragen.
 
 
 ## § 2 Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bmvgsegzustano/BJNR0C70A0024.html#BJNR0C70A0024BJNE000300000)
 
 Die Befugnis zur Vertretung der Bundesrepublik Deutschland bei
 Rechtsstreitigkeiten nach dem Soldatenentschädigungsgesetz wird auf
@@ -42,6 +45,7 @@ Hinterbliebenen.
 
 
 ## § 3 Entscheidung durch das Bundesministerium der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgsegzustano/BJNR0C70A0024.html#BJNR0C70A0024BJNE000400000)
 
 Das Bundesministerium der Verteidigung behält sich vor, in
 Einzelfällen
@@ -61,6 +65,7 @@ Einzelfällen
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmvgsegzustano/BJNR0C70A0024.html#BJNR0C70A0024BJNE000500000)
 
 Diese Anordnung tritt am 1. Januar 2025 in Kraft.
 

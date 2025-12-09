@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000100312)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000201308)
 
 Wer, ohne als Dentist staatlich anerkannt zu sein, die Zahnheilkunde
 nach § 19 des Gesetzes über die Ausübung der Zahnheilkunde in der
@@ -38,6 +40,7 @@ Vorschriften zuzulassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000301308)
 
 Die für Zahnärzte geltenden Vorschriften des Fünften Buches
 Sozialgesetzbuch und der Zulassungsverordnung für Kassenzahnärzte in
@@ -49,6 +52,7 @@ nachstehenden Vorschriften nicht etwas anderes ergibt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000400312)
 
 (1) An die Stelle der Bestallung als Zahnarzt tritt die Berechtigung
 zur Ausübung der Zahnheilkunde nach § 19 des Zahnheilkundegesetzes.
@@ -65,12 +69,14 @@ ausgeübt haben.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000500312)
 
 Der Umfang, in welchem die Zahnheilkunde ausgeübt werden darf, ist
 auch in den Beschluß über die Zulassung aufzunehmen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000600312)
 
 Die Zulassung bewirkt, daß die in § 1 genannten Personen ordentliche
 Mitglieder der für ihren Praxisort zuständigen Kassenzahnärztlichen
@@ -82,6 +88,7 @@ verbindlich.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000700312)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -89,6 +96,7 @@ im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/zhg_19zg/BJNR004150970.html#BJNR004150970BJNE000800312)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

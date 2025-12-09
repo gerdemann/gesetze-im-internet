@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1 Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000100000)
 
 Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei
 der Rettung von Menschenleben, Abwehr von Gefahren und der Beseitigung
@@ -38,6 +39,7 @@ Einsatzmedaille „Fluthilfe 2021“.
 
 
 ## Art 2 Gestaltung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000200000)
 
 (1) Das Ehrenzeichen hat die Form einer runden, silberfarbenen
 Medaille. Auf der Vorderseite ist der Bundesadler dargestellt. Der
@@ -55,6 +57,7 @@ Medaille.
 
 
 ## Art 3 Verleihung und Trageweise
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000300000)
 
 (1) Das Ehrenzeichen verleiht
 
@@ -101,6 +104,7 @@ Für die Verleihungsurkunde gilt das Muster der Anlage.
 
 
 ## Art 4 Vorschlagsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000400000)
 
 (1) Für die Angehörigen der Bundespolizei sind die Präsidenten der
 Bundespolizeidirektionen und der Präsident des
@@ -139,6 +143,7 @@ wohlwollend verfahren werden.
 
 
 ## Art 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000500000)
 
 (1) Die Verleihungsvorschläge sind dem Bundesministerium des Innern
 und für Heimat, dem Bundesministerium der Verteidigung (Referat P I 2
@@ -178,6 +183,7 @@ würdiger Form.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000600000)
 
 Die Bundesministerin des Innern und für Heimat
 Die Bundesministerin der Verteidigung
@@ -185,6 +191,7 @@ Der Bundesminister für Digitales und Verkehr
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000700000)
 
 (Fundstelle: BGBl. I 2022, 1497)
 
@@ -252,6 +259,7 @@ Der Bundesminister für Digitales und Verkehr
 
 
 ## (XXXX) Fluthilfemedaille 2021
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2022/BJNR149500022.html#BJNR149500022BJNE000800000)
 
 (Fundstelle: BGBl. I 2022, 1498)
 

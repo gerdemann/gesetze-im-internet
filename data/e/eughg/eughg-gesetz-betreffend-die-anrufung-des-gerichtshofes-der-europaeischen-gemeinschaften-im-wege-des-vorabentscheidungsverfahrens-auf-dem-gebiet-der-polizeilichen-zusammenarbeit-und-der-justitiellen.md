@@ -21,6 +21,7 @@ Stand: Dieses G ist gem. § 2 iVm Bek. v. 19.4.1999 I 728 am 1.5.1999 in Kraft g
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eughg/BJNR203500998.html#BJNR203500998BJNE000100311)
 
 (1) Jedes Gericht kann dem Gerichtshof der Europäischen Gemeinschaften
 auf dem Gebiet der polizeilichen Zusammenarbeit und der justitiellen
@@ -41,6 +42,7 @@ oder Beschlusses für erforderlich hält.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eughg/BJNR203500998.html#BJNR203500998BJNE000200311)
 
 (1) Dieses Gesetz tritt an dem Tage in Kraft, an dem der Vertrag von
 Amsterdam zur Änderung des Vertrages über die Europäische Union, der

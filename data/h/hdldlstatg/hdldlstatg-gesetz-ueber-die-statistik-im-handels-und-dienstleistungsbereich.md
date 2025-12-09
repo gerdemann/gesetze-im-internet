@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNG000100000)
 
 
 ### § 1 Zweck der Statistik, Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000100000)
 
 (1) Die in diesem Gesetz geregelten statistische Erhebungen dienen
 
@@ -42,6 +44,7 @@ durchgeführt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -106,6 +109,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 3 Erhebungseinheiten, Erhebungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000300000)
 
 (1) Erhebungseinheiten sind rechtliche Einheiten, sofern es sich um
 Marktproduzenten handelt.
@@ -217,9 +221,11 @@ folgenden Wirtschaftszweige:
 
 
 ## Abschnitt 2 - Konjunkturstatistische Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNG000200000)
 
 
 ### § 4 Periodizität und Berichtszeitraum bei konjunkturstatistischen Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000400000)
 
 (1) Die konjunkturstatistischen Erhebungen werden monatlich
 durchgeführt.
@@ -230,6 +236,7 @@ durchgeführt.
 
 
 ### § 5 Art und Umfang der konjunkturstatistischen Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000500000)
 
 (1) Die konjunkturstatistischen Erhebungen werden als
 Stichprobenerhebungen durchgeführt. Die Erhebungseinheiten werden nach
@@ -244,6 +251,7 @@ Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.
 
 
 ### § 6 Erhebungsmerkmale für konjunkturstatistische Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000601125)
 
 (1) Erhebungsmerkmale für konjunkturstatistische Erhebungen sind:
 
@@ -301,9 +309,11 @@ gegliedert nach Geschäftsfeldern gemäß Absatz 1 Satz 2 und 3 erhoben.
 
 
 ## Abschnitt 3 - Strukturstatistische Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNG000300000)
 
 
 ### § 7 Periodizität und Berichtszeitraum bei strukturstatistischen Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000700000)
 
 (1) Die strukturstatistischen Erhebungen werden jährlich durchgeführt.
 
@@ -314,6 +324,7 @@ im Kalenderjahr abgelaufene Geschäftsjahr.
 
 
 ### § 8 Art und Umfang der strukturstatistischen Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000800000)
 
 (1) Die strukturstatistischen Erhebungen werden als
 Stichprobenerhebungen durchgeführt. Die Erhebungseinheiten werden nach
@@ -328,6 +339,7 @@ Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.
 
 
 ### § 9 Erhebungsmerkmale für strukturstatistische Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE000901360)
 
 (1) Erhebungsmerkmale für die strukturstatistischen Erhebungen sind:
 
@@ -506,9 +518,11 @@ Erhebungseinheiten des Abschnitts G erfasst.
 
 
 ## Abschnitt 4 - Übergreifende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNG000400000)
 
 
 ### § 10 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001000000)
 
 Hilfsmerkmale sind:
 
@@ -530,6 +544,7 @@ Hilfsmerkmale sind:
 
 
 ### § 11 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001100000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig
 sind die Inhaber und Inhaberinnen oder Leiter und Leiterinnen der
@@ -569,6 +584,7 @@ Tätigkeit aufnehmen in Form
 
 
 ### § 12 Nutzung von Angaben der Krankenhausstatistik-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001200000)
 
 Soweit Erhebungsmerkmale nach § 9 Absatz 1 für Erhebungseinheiten aus
 der Gruppe 86.1 – Krankenhäuser – bereits auf Grund der Erhebung nach
@@ -583,6 +599,7 @@ Erhebungseinheiten fort.
 
 
 ### § 13 Nutzung der Daten für Zwecke der Preisstatistik
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001300000)
 
 (1) Die Erhebungsmerkmale nach § 9 Absatz 1 Nummer 1 Buchstabe a,
 Nummer 2 Buchstabe a und Nummer 3 Buchstabe a und c dürfen verwendet
@@ -622,6 +639,7 @@ Nummer 3 Buchstabe a, d und e dürfen verwendet werden für
 
 
 ### § 14 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001400000)
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen den obersten Bundes- und Landesbehörden für die Verwendung
@@ -632,6 +650,7 @@ Einzelfällen dürfen keine Tabellen übermittelt werden.
 
 
 ### § 15 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001500000)
 
 Die Angaben zu den konjunktur- und strukturstatistischen Erhebungen im
 Wirtschaftszweig 46 werden vom Statistischen Bundesamt erhoben und
@@ -639,9 +658,11 @@ aufbereitet.
 
 
 ## Abschnitt 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNG000500000)
 
 
 ### § 16 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/hdldlstatg/BJNR026610021.html#BJNR026610021BJNE001600000)
 
 (1) Die Pflicht zur Auskunftserteilung bei den Erhebungsmerkmalen in
 der Gliederung nach Geschäftsfeldern gemäß § 6 Absatz 1 Satz 2 und 3

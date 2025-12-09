@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg95art3abs3bek/BJNR005010996.html#BJNR005010996BJNE000100310)
 
 Auf Grund des Artikels 3 Abs. 3 des Bundesbesoldungs- und
 versorgungsanpassungsgesetzes 1995 vom 18. Dezember 1995 (BGBl. I S.

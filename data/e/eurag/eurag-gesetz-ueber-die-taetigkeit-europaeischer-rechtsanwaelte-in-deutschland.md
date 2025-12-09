@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG000200310)
 
 
 
 ### § 1 Persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE000302308)
 
 Dieses Gesetz regelt für natürliche Personen, die berechtigt sind, als
 Rechtsanwalt unter einer der in der Anlage zu dieser Vorschrift
@@ -33,14 +35,17 @@ Rechtsanwaltschaft in Deutschland.
 
 
 ## Teil 2 - Berufsausübung als niedergelassener europäischer Rechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG000400310)
 
 
 
 ### Abschnitt 1 - Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG000500310)
 
 
 
 #### § 2 Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE000601125)
 
 (1) Wer als europäischer Rechtsanwalt auf Antrag in die für den Ort
 seiner Niederlassung zuständige Rechtsanwaltskammer aufgenommen wurde,
@@ -55,6 +60,7 @@ als europäischer Rechtsanwalt eingetragen ist.
 
 
 #### § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE000704308)
 
 (1) Über den Antrag auf Aufnahme in die Rechtsanwaltskammer
 entscheidet die Rechtsanwaltskammer.
@@ -69,6 +75,7 @@ verlangen, dass diese Bescheinigung zum Zeitpunkt ihrer Vorlage nicht
 
 
 #### § 4 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE000805125)
 
 (1) Für die Aufnahme in die Rechtsanwaltskammer gelten mit Ausnahme
 des § 12 Absatz 4 sowie der §§ 17 und 46a Absatz 1 Satz 1 Nummer 1 der
@@ -90,10 +97,12 @@ Ausübung der Berufsaufsicht zu ermöglichen.
 
 
 ### Abschnitt 2 - Berufliche Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG000900310)
 
 
 
 #### § 5 Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001002311)
 
 (1) Der niedergelassene europäische Rechtsanwalt hat die
 Berufsbezeichnung zu verwenden, die er im Herkunftsstaat nach dem dort
@@ -115,6 +124,7 @@ verwendet werden.
 
 
 #### § 6 Berufliche Stellung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001105125)
 
 (1) Für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer
 gelten die Vorschriften des Dritten, Vierten, Sechsten, Siebenten,
@@ -138,6 +148,7 @@ entzogen worden ist.
 
 
 #### § 7 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001204311)
 
 (1) Von der Verpflichtung, eine Berufshaftpflichtversicherung nach §
 51 der Bundesrechtsanwaltsordnung zu unterhalten, ist der
@@ -168,6 +179,7 @@ Bundesrechtsanwaltsordnung zugelassen sind, entsprechend.
 
 
 #### § 8 Sozietät im Herkunftsstaat
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001302125)
 
 (1) Gehört der niedergelassene europäische Rechtsanwalt im
 Herkunftsstaat einem Zusammenschluss zur gemeinschaftlichen
@@ -194,10 +206,12 @@ Herkunftsstaat anzugeben.
 
 
 ### Abschnitt 3 - Anwaltsgerichtliches Verfahren, Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG001400310)
 
 
 
 #### § 9 Mitteilungspflichten, rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001503125)
 
 (1) Für Zwecke der Prüfung, ob berufsrechtliche Maßnahmen zu ergreifen
 sind, teilt die ermittelnde Staatsanwaltschaft nach Abschluss der
@@ -259,6 +273,7 @@ Stelle des Herkunftsstaates Gelegenheit zur Äußerung zu geben.
 
 
 #### § 10 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001600310)
 
 Kann in anwaltsgerichtlichen Verfahren und in Verfahren nach den §§
 56, 57, 74, 74a der Bundesrechtsanwaltsordnung gegen einen
@@ -272,14 +287,17 @@ Aufgabe zur Post vier Wochen verstrichen sind.
 
 
 ## Teil 3 - Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG001700310)
 
 
 
 ### Abschnitt 1 - Zulassung zur Rechtsanwaltschaft nach dreijähriger Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG001800310)
 
 
 
 #### § 11 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE001904311)
 
 (1) Wer eine mindestens dreijährige effektive und regelmäßige
 Tätigkeit als niedergelassener europäischer Rechtsanwalt in
@@ -307,6 +325,7 @@ wird bei der Berechnung des Dreijahreszeitraums nicht berücksichtigt.
 
 
 #### § 12 Nachweis der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002004125)
 
 (1) Die antragstellende Person hat die Anzahl und die Art der von ihr
 im deutschen Recht bearbeiteten Rechtssachen sowie die Dauer ihrer
@@ -323,10 +342,12 @@ Rechtsanwaltskammer anonymisierte Arbeitsproben vorzulegen.
 
 
 ### Abschnitt 2 - Zulassung bei kürzerer Tätigkeit im deutschen Recht
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG002100310)
 
 
 
 #### § 13 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002204311)
 
 (1) Wer mindestens drei Jahre effektiv und regelmäßig als
 niedergelassener europäischer Rechtsanwalt in Deutschland tätig war,
@@ -344,6 +365,7 @@ der Rechtsanwälte. § 11 Abs. 1 Satz 2, Abs. 2, 3 gilt entsprechend.
 
 
 #### § 14 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002303125)
 
 Die antragstellende Person hat die Nachweise gemäß § 12 zu erbringen.
 Darüber hinaus hat sie der Rechtsanwaltskammer alle Auskünfte zu
@@ -352,6 +374,7 @@ Kenntnisse und Berufserfahrungen im deutschen Recht geeignet sind.
 
 
 #### § 15 Gespräch
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002402125)
 
 Die Rechtsanwaltskammer überprüft in einem Gespräch, ob die
 antragstellende Person effektiv und regelmäßig als niedergelassener
@@ -363,10 +386,12 @@ Erfahrungen im deutschen Recht zu entnehmen.
 
 
 ## Teil 4 - Feststellung einer gleichwertigen Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG002501311)
 
 
 
 ### § 16 Antrag auf Feststellung einer gleichwertigen Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002603311)
 
 (1) Eine Person, die eine Ausbildung abgeschlossen hat, die zum
 unmittelbaren Zugang zum Beruf eines europäischen Rechtsanwalts (§ 1)
@@ -430,6 +455,7 @@ Dokumente sind in deutscher Sprache abzufassen.
 
 
 ### § 16a Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE006200311)
 
 (1) Das Prüfungsamt bestätigt den Eingang des Antrags nach § 16 Absatz
 1 innerhalb eines Monats. Innerhalb dieser Frist teilt es der
@@ -495,6 +521,7 @@ des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 
 ### § 17 Zweck der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002703125)
 
 Die Eignungsprüfung ist eine staatliche Prüfung, die ausschließlich
 die beruflichen Kenntnisse und Kompetenzen der antragstellenden Person
@@ -508,6 +535,7 @@ Rechtsanwaltsberufes verfügt.
 
 
 ### § 18 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002802125)
 
 (1) Die Eignungsprüfung wird von dem Prüfungsamt durchgeführt, das für
 die zweite juristische Staatsprüfung zuständig ist.
@@ -536,10 +564,12 @@ bestimmt wird.
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE002901311)
 
 
 
 ### § 20 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003001125)
 
 (1) Prüfungsfächer sind das Pflichtfach Zivilrecht, zwei Wahlfächer
 und das Recht für das berufliche Verhalten der Rechtsanwälte. Die
@@ -566,6 +596,7 @@ Zwangsvollstreckungsrechts und des Insolvenzrechts.
 
 
 ### § 21 Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003102125)
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen
 Teil. Sie wird in deutscher Sprache abgelegt.
@@ -602,6 +633,7 @@ dieser Arbeit.
 
 
 ### § 22 Prüfungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003201125)
 
 Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks der
 Leistungen in der schriftlichen und mündlichen Prüfung mit
@@ -610,6 +642,7 @@ erforderlichen Kenntnisse verfügt.
 
 
 ### § 23 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003302125)
 
 (1) Die antragstellende Person kann schriftlich oder elektronisch
 Einwendungen gegen die Bewertung ihrer Prüfungsleistungen erheben.
@@ -640,15 +673,18 @@ den jeweiligen Prüfern zur Überprüfung ihrer Bewertung zugeleitet.
 
 
 ### § 24 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003400310)
 
 Die Prüfung kann wiederholt werden.
 
 
 ## Teil 5 - Vorübergehende Dienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG003500310)
 
 
 
 ### § 25 Vorübergehende Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003603125)
 
 (1) Ein europäischer Rechtsanwalt darf die Tätigkeiten eines
 Rechtsanwalts in Deutschland nach den folgenden Vorschriften
@@ -689,6 +725,7 @@ anzuwenden, in dem das Vertretungsverbot besteht.
 
 
 ### § 26 Berufsbezeichnung, Nachweis der Rechtsanwaltseigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003701311)
 
 (1) Für die Führung der Berufsbezeichnung ist § 5 Absatz 1 Satz 1 und
 2 und Absatz 2 Satz 2 entsprechend anzuwenden.
@@ -702,6 +739,7 @@ Gesetzes erst ausüben, wenn der Nachweis erbracht ist.
 
 
 ### § 27 Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003804311)
 
 (1) Der dienstleistende europäische Rechtsanwalt hat im Zusammenhang
 mit der Vertretung oder Verteidigung eines Mandanten im Bereich der
@@ -736,6 +774,7 @@ Syndikusrechtsanwalts ausgeübt wird.
 
 
 ### § 27a Besonderes elektronisches Anwaltspostfach
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE006101125)
 
 (1) Der dienstleistende europäische Rechtsanwalt kann bei der nach §
 32 Absatz 4 zuständigen Rechtsanwaltskammer die Einrichtung eines
@@ -780,6 +819,7 @@ Bundesrechtsanwaltsordnung sinngemäß anwendbar.
 
 
 ### § 28 Vertretung und Verteidigung im Bereich der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE003901301)
 
 (1) Der dienstleistende europäische Rechtsanwalt darf in gerichtlichen
 Verfahren sowie in behördlichen Verfahren wegen Straftaten,
@@ -802,6 +842,7 @@ bestimmt haben.
 
 
 ### § 29 Nachweis des Einvernehmens, Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004000310)
 
 (1) Das Einvernehmen ist bei der ersten Handlung gegenüber dem Gericht
 oder der Behörde schriftlich nachzuweisen.
@@ -815,6 +856,7 @@ ihrer Vornahme nicht vorliegt, sind unwirksam.
 
 
 ### § 30 Besonderheiten bei Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004101125)
 
 (1) Der dienstleistende europäische Rechtsanwalt darf einen Mandanten,
 dem in einem Strafverfahren die Freiheit auf Grund gerichtlicher oder
@@ -836,6 +878,7 @@ entsprechend anzuwenden.
 
 
 ### § 31 Zustellungen in behördlichen und gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004204125)
 
 (1) Der dienstleistende europäische Rechtsanwalt hat einen
 Zustellungsbevollmächtigten, der im Inland wohnt oder dort einen
@@ -862,6 +905,7 @@ Zustellungsbevollmächtigten verzichtet.
 
 
 ### § 32 Aufsicht, zuständige Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004307125)
 
 (1) Dienstleistende europäische Rechtsanwälte werden durch die
 zuständigen Rechtsanwaltskammern beaufsichtigt. Dem Vorstand der
@@ -979,6 +1023,7 @@ ausgeübt für dienstleistende europäische Rechtsanwälte aus
 
 
 ### § 33 Anwaltsgerichtsbarkeit, Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004401160)
 
 (1) Der dienstleistende europäische Rechtsanwalt untersteht
 hinsichtlich der Erfüllung seiner Berufspflichten der
@@ -990,6 +1035,7 @@ Aufsicht nach § 32 ausübt.
 
 
 ### § 34 Anwaltsgerichtliche Ahndung von Pflichtverletzungen, vorläufige anwaltsgerichtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004503311)
 
 Für die anwaltsgerichtliche Ahndung von Pflichtverletzungen und die
 Verhängung vorläufiger anwaltsgerichtlicher Maßnahmen gelten für den
@@ -1023,6 +1069,7 @@ folgenden Maßgaben:
 
 
 ### § 34a Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005803125)
 
 Gerichte und Behörden übermitteln personenbezogene Daten, die zur
 Einleitung eines Rügeverfahrens oder eines anwaltsgerichtlichen
@@ -1035,10 +1082,12 @@ Bundesrechtsanwaltsordnung gilt entsprechend.
 
 
 ## Teil 6 - Rechtsweg in verwaltungsrechtlichen Anwaltssachen und allgemeine Vorschriften für das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG004701160)
 
 
 
 ### § 35 Rechtsweg in verwaltungsrechtlichen Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004601160)
 
 Für öffentlich-rechtliche Streitigkeiten nach den Teilen 2, 3, 5 und 6
 dieses Gesetzes oder nach einer in Bezug auf diese Teile erlassenen
@@ -1049,6 +1098,7 @@ Anwaltssachen entsprechend.
 
 
 ### § 36 Bescheinigungen des Heimat- oder Herkunftsstaates
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004802311)
 
 Sofern für eine Entscheidung über die Aufnahme in die
 Rechtsanwaltskammer nach Teil 2 oder über die Zulassung zur
@@ -1080,6 +1130,7 @@ Verbindung mit Anhang VII Nummer 1 Buchstabe d bis f der Richtlinie
 
 
 ### § 37 Europäische Verwaltungszusammenarbeit; Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE004903119)
 
 (1) Für die Verwaltungszusammenarbeit mit Behörden anderer
 Mitgliedstaaten der Europäischen Union, anderer Vertragsstaaten des
@@ -1096,6 +1147,7 @@ Rechtsanwaltskammer diese innerhalb eines Monats aus.
 
 
 ### § 38 Mitteilungspflichten gegenüber anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005003311)
 
 (1) Ist ein Rechtsanwalt auch in einem anderen Mitgliedstaat der
 Europäischen Union, einem anderen Vertragsstaat des Europäischen
@@ -1153,6 +1205,7 @@ die auf Grund der Mitteilung getroffenen Maßnahmen.
 
 
 ### § 38a Statistik
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE006000308)
 
 Über Verfahren nach Teil 4 dieses Gesetzes wird eine Bundesstatistik
 durchgeführt. § 17 des Berufsqualifikationsfeststellungsgesetzes mit
@@ -1160,6 +1213,7 @@ Ausnahme von Absatz 2 Nummer 4 ist anzuwenden.
 
 
 ### § 39 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005103160)
 
 Auf die Erhebung und Beitreibung von Gebühren und Auslagen für
 Amtshandlungen nach diesem Gesetz sind die Vorschriften der
@@ -1167,10 +1221,12 @@ Bundesrechtsanwaltsordnung entsprechend anzuwenden.
 
 
 ## Teil 7 - Ermächtigungen, Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG005200310)
 
 
 
 ### § 40 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005302311)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -1212,6 +1268,7 @@ Einzelheiten der Eignungsprüfung zu regeln, insbesondere
 
 
 ### § 41 Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005404311)
 
 (1) Die Landesregierungen werden ermächtigt, die Aufgaben und
 Befugnisse, die den Landesjustizverwaltungen nach diesem Gesetz
@@ -1229,10 +1286,12 @@ Bundesrechtsanwaltsordnung entsprechend.
 
 
 ## Teil 8 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNG005501160)
 
 
 
 ### § 42 Anwendung von Vorschriften des Strafgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005601311)
 
 (1) Für die Anwendung der Vorschriften des Strafgesetzbuches über die
 Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Abs. 3
@@ -1248,6 +1307,7 @@ entsprechend anzuwenden.
 
 
 ### § 43 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005902125)
 
 Teil 4 gilt auch für Staatsangehörige eines Mitgliedstaates der
 Europäischen Union, eines anderen Vertragsstaates des Europäischen
@@ -1259,6 +1319,7 @@ zum unmittelbaren Zugang zu den Berufen „Advocate“, „Barrister“ oder
 zu § 1
 
 ### Anlage Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/eurag/BJNR018210000.html#BJNR018210000BJNE005707125)
 
 Fundstelle: BGBl. I 2003, 2075;
 bzgl. der einzelnen Änderungen vgl. Fußnote

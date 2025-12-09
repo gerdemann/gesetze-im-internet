@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000100326)
 
 Dem Beitritt der Bundesrepublik Deutschland zu den auf der Währungs-
 und Finanz-Konferenz der Vereinten Nationen in Bretton Woods (N.H.,
@@ -34,6 +35,7 @@ zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000200326)
 
 Zur Erfüllung der Verbindlichkeiten, die die Bundesrepublik
 Deutschland als Anteilseigner der Internationalen Bank für
@@ -45,11 +47,13 @@ fünfhundertdreißig Millionen Deutsche Mark aufzunehmen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000300326)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000400326)
 
 Die Deutsche Bundesbank wickelt den Geschäftsverkehr der
 Bundesrepublik Deutschland mit der Internationalen Bank für
@@ -60,11 +64,13 @@ Entwicklung ab. Sie ist Hinterlegungsstelle nach Artikel V Abschnitt
 
 
 ## Art 4a
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000500326)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000600326)
 
 (1) Die beiden in Artikel 1 genannten Abkommen werden nachstehend mit
 Gesetzeskraft veröffentlicht.
@@ -73,6 +79,7 @@ Gesetzeskraft veröffentlicht.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000700326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Gesetzes über die
 Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
@@ -81,6 +88,7 @@ in Berlin-West.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/BJNR206370952.html#BJNR206370952BJNE000800326)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

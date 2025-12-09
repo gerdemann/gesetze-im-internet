@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arbzv_ndv_8/BJNR002270989.html#BJNR002270989BJNE000100326)
 
 Auf Grund des § 72 Abs. 4 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) verordnet die
@@ -28,11 +29,13 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/arbzv_ndv_8/BJNR002270989.html#BJNR002270989BJNE000200326)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/arbzv_ndv_8/BJNR002270989.html#BJNR002270989BJNE000300326)
 
 Für die im Zustelldienst der Deutschen Bundespost beschäftigten
 Beamten kann die regelmäßige Arbeitszeit weiterhin im Durchschnitt 40
@@ -41,6 +44,7 @@ Durchschnitt 38 1/2 Stunden herabgesetzt werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/arbzv_ndv_8/BJNR002270989.html#BJNR002270989BJNE000400326)
 
 Der Bundesminister des Innern kann den Wortlaut der
 Arbeitszeitverordnung in der vom 1. April 1990 an geltenden Fassung im
@@ -48,11 +52,13 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbzv_ndv_8/BJNR002270989.html#BJNR002270989BJNE000501310)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/arbzv_ndv_8/BJNR002270989.html#BJNR002270989BJNE000600326)
 
 Diese Verordnung tritt am 1. April 1989 in Kraft.
 

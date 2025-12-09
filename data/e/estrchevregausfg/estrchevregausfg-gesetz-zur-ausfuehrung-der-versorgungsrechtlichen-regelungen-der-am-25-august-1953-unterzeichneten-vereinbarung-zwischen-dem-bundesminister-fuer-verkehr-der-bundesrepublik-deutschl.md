@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## § 1 Versorgungsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/estrchevregausfg/BJNR025130020.html#BJNR025130020BJNE000100000)
 
 (1) Ist das Bundeseisenbahnvermögen nach Artikel 9 der Vereinbarung
 zwischen dem Bundesminister für Verkehr der Bundesrepublik Deutschland
@@ -52,6 +53,7 @@ Europäischen Zentralbank veröffentlichten Referenzkurs ausgezahlt.
 
 
 ## § 2 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/estrchevregausfg/BJNR025130020.html#BJNR025130020BJNE000200000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch eine Rechtsverordnung, die nicht der Zustimmung des

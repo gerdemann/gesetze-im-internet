@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruchsberechtigter, Fördergebiet
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000104308)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die im Fördergebiet begünstigte
@@ -39,6 +40,7 @@ Gebietsstand vom 3. Oktober 1990.
 
 
 ## § 2 Art der Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000203308)
 
 Begünstigte Investitionen sind die Anschaffung und die Herstellung von
 neuen abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens,
@@ -83,6 +85,7 @@ Nicht begünstigt sind
 
 
 ## § 3 Investitionszeiträume
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000305308)
 
 Die Investitionen sind begünstigt, wenn sie der Anspruchsberechtigte
 
@@ -126,6 +129,7 @@ oder herzustellen begonnen worden sind.
 
 
 ## § 4 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000402308)
 
 Bemessungsgrundlage für die Investitionszulage ist die Summe der
 Anschaffungs- und Herstellungskosten der im Wirtschaftsjahr
@@ -141,6 +145,7 @@ Einkommensteuergesetzes gilt entsprechend.
 
 
 ## § 5 Höhe der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000507308)
 
 (1) Die Investitionszulage beträgt
 
@@ -288,6 +293,7 @@ Absatzes 3 vorliegen.
 
 
 ## § 6 Antrag auf Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000602308)
 
 (1) Der Antrag auf Investitionszulage ist bis zum 30. September des
 Kalenderjahrs zu stellen, das auf das Wirtschaftsjahr folgt, in dem
@@ -309,6 +315,7 @@ Feststellung bei einer Nachprüfung möglich ist.
 
 
 ## § 7 Anwendung der Abgabenordnung, Festsetzung und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000703308)
 
 (1) Die für Steuervergütungen geltenden Vorschriften der
 Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163
@@ -328,6 +335,7 @@ Beihilfeintensität festgelegt hat.
 
 
 ## § 8 Verzinsung des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000802308)
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
 zuungunsten des Anspruchsberechtigten geändert worden, so ist der
@@ -340,6 +348,7 @@ ist.
 
 
 ## § 9 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE000902308)
 
 Für die Verfolgung einer Straftat nach § 264 des Strafgesetzbuches,
 die sich auf die Investitionszulage bezieht, sowie der Begünstigung
@@ -349,6 +358,7 @@ Steuerstraftaten entsprechend.
 
 
 ## § 10 Ertragsteuerliche Behandlung der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE001002308)
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
@@ -356,6 +366,7 @@ Anschaffungs- und Herstellungskosten.
 
 
 ## § 10a Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE001202308)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum,
@@ -364,6 +375,7 @@ und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ## § 11 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1991/BJNR013330991.html#BJNR013330991BJNE001107308)
 
 (1) Dieses Gesetz ist vorbehaltlich des Absatzes 2 bei Investitionen
 anzuwenden, die nach dem 31. Dezember 1990 abgeschlossen werden. Bei

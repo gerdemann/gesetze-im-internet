@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000100314)
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 5 bis 7, des
 § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des
@@ -36,6 +37,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000201309)
 
 (1) Zur Sicherstellung der öffentlichen Gasversorgung wird eine
 Lastverteilung für Gas eingerichtet.
@@ -49,6 +51,7 @@ für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000304118)
 
 Die Lastverteilung obliegt
 
@@ -66,6 +69,7 @@ Die Lastverteilung obliegt
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000404118)
 
 (1) Beim Bundesministerium für Wirtschaft und Energie und bei den
 obersten Wirtschaftsbehörden der Länder sind besondere Stellen
@@ -93,6 +97,7 @@ besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000504118)
 
 (1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage
 zu dieser Verordnung. Die Befugnis, diese Grenzen durch
@@ -104,6 +109,7 @@ bestimmen sich nach Landesrecht.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000601309)
 
 (1) Die Lastverteiler können Verfügungen erlassen
 
@@ -174,6 +180,7 @@ ursprünglichen Inhalt wieder auf.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000700314)
 
 Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
 
@@ -191,6 +198,7 @@ ursprünglichen Inhalt wieder auf.
 
 
 ## § 6a
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE001400309)
 
 (1) Der Leiter einer Lastverteilerstelle muß mit der technischen
 Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der
@@ -218,6 +226,7 @@ Lastverteilerstelle.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000801377)
 
 Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer
 Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es
@@ -227,6 +236,7 @@ worden ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE000901309)
 
 Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5
 Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18
@@ -235,6 +245,7 @@ Wirtschaftsstrafgesetz 1954 geahndet wird.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE001000314)
 
 Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des
 Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die
@@ -242,6 +253,7 @@ Verfügung nach § 5 erlassen hat.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE001100314)
 
 Die Senate der Länder Bremen und Hamburg werden ermächtigt, die
 Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem
@@ -249,6 +261,7 @@ besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE001205118)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -261,6 +274,7 @@ Energie durch Rechtsverordnung bestimmt.
 
 
 ## Anlage zu § 4 Abs. 1 Satz 1 der Gaslastverteilungs-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/gaslastv/BJNR018490976.html#BJNR018490976BJNE001302377)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 390 - 394
 

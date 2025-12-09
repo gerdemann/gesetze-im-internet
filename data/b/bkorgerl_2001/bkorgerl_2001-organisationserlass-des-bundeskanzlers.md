@@ -20,6 +20,7 @@ Organisationserlass teilweise aufgeh. durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2001/BJNR012700001.html#BJNR012700001BJNE000100305)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:

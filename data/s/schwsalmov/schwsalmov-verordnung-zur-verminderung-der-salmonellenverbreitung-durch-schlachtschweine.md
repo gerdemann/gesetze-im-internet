@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000100000)
 
 Auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1,
 3, 4, 7, 13, 14, 17 und 19, des § 79a Abs. 2 Nr. 2 in Verbindung mit §
@@ -36,6 +37,7 @@ Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000200000)
 
 Im Sinne dieser Verordnung sind
 
@@ -96,6 +98,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 2 Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000301124)
 
 (1) Der Inhaber eines Endmastbetriebs (Untersuchungspflichtiger) hat
 Blutproben von Mastschweinen seines Betriebs oder, soweit
@@ -169,6 +172,7 @@ Ausstellung an gerechnet mindestens drei Jahre aufzubewahren.
 
 
 ## § 3 Untersuchungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000400000)
 
 Der Untersuchungspflichtige hat sicherzustellen, dass ihm die
 Untersuchungsstelle das Ergebnis der Untersuchung unverzüglich
@@ -176,6 +180,7 @@ schriftlich oder elektronisch mitteilt.
 
 
 ## § 4 Aufzeichnungen und Kategorisierung
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000500000)
 
 (1) Der Untersuchungspflichtige hat, im Falle des § 2 Abs. 1 Satz 2
 geordnet nach Betriebsabteilungen,
@@ -219,6 +224,7 @@ bereits zu einem früheren Zeitpunkt erfolgen.
 
 
 ## § 5 Impfungen
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000600000)
 
 Bei einer Impfung gegen Salmonellen dürfen keine Impfstoffe angewendet
 werden, die geeignet sind, die Untersuchungen auf Antikörper nach § 2
@@ -226,6 +232,7 @@ Abs. 1 und 2 zu beeinträchtigen.
 
 
 ## § 6 Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000700000)
 
 Ergibt die Feststellung der positiven Salmonellenantikörperbefunde
 nach § 4 Abs. 2 einen Vom-Hundert-Anteil von mehr als 40, so hat der
@@ -250,6 +257,7 @@ mindestens drei Jahre aufzubewahren.
 
 
 ## § 7 Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000800000)
 
 (1) Auf Anforderung der zuständigen Behörde hat der
 Untersuchungspflichtige
@@ -275,6 +283,7 @@ oder elektronisch mitzuteilen.
 
 
 ## § 8 Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE000900000)
 
 Der Untersuchungspflichtige kann sich zur Erfüllung seiner Pflichten
 nach dieser Verordnung einer von ihm beauftragten Einrichtung
@@ -282,6 +291,7 @@ bedienen.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE001001301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -321,6 +331,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE001100000)
 
 Diese Verordnung findet bis zum 31. Dezember 2008 mit der Maßgabe
 Anwendung, dass ein Endmastbetrieb im Sinne des § 1 Nr. 1 ein Betrieb
@@ -330,16 +341,19 @@ gemästet werden.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE001200000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 2 Abs. 1 und 2, § 4 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE001400000)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 325)
 
@@ -388,6 +402,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 2 (zu § 4 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/schwsalmov/BJNR032200007.html#BJNR032200007BJNE001500000)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 325)
 

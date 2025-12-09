@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000101128)
 
 (1) Ziel des Gesetzes ist es, die Zwecke und die Ziele von § 1 des
 Energiewirtschaftsgesetzes und § 1 des Erneuerbare-Energien-Gesetzes
@@ -42,6 +43,7 @@ Baugesetzbuchs.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000203128)
 
 Im Sinne dieses Gesetzes sind
 
@@ -116,6 +118,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Verpflichtungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000302128)
 
 (1) In jedem Bundesland ist ein prozentualer Anteil der Landesfläche
 nach Maßgabe der Anlage (Flächenbeitragswert) für die Windenergie an
@@ -176,6 +179,7 @@ einen früheren Zeitpunkt vorziehen.
 
 
 ## § 4 Anrechenbare Fläche
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000402123)
 
 (1) Für die Windenergie an Land im Sinne des § 3 Absatz 1 ausgewiesen
 sind alle Flächen, die in Windenergiegebieten liegen. Soweit sich
@@ -223,6 +227,7 @@ Anrechnungsfaktor von 0,5 anzurechnen.
 
 
 ## § 5 Feststellung und Bekanntmachung des Erreichens der Flächenbeitragswerte
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000503128)
 
 (1) Der Planungsträger stellt in dem Beschluss über den Plan fest,
 dass der Plan mit den Flächenbeitragswerten oder mit den
@@ -264,6 +269,7 @@ geben oder zu verkünden.
 
 
 ## § 6 Genehmigungserleichterung in Windenergiegebieten
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000902128)
 
 (1) Wird die Errichtung und der Betrieb oder die Änderung der Lage,
 der Beschaffenheit oder des Betriebs einer Windenergieanlage oder
@@ -346,6 +352,7 @@ nach dem 1. Februar 2024 wirksam geworden ist.
 
 
 ## § 6a Erklärung bestehender Windenergiegebiete zu Beschleunigungsgebieten für die Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE001000128)
 
 (1) Windenergiegebiete im Sinne des § 2 Nummer 1, die bis zum Ablauf
 des 19. Mai 2024 ausgewiesen worden sind, sind Beschleunigungsgebiete
@@ -378,6 +385,7 @@ worden ist,
 
 
 ## § 6b Genehmigungserleichterung in Beschleunigungsgebieten für die Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE001100128)
 
 (1) Im jeweiligen Zulassungsverfahren sind die Erleichterungen der
 Absätze 2 bis 7 anzuwenden, wenn in einem Beschleunigungsgebiet für
@@ -591,6 +599,7 @@ Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 
 ## § 7 Evaluierung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000604128)
 
 (1) Die Bundesregierung berichtet ab dem 1. Januar 2024 nach § 98
 Absatz 4 des Erneuerbare-Energien-Gesetzes zum Stand der Umsetzung
@@ -644,6 +653,7 @@ Flächenbeitragswerte gemäß Anlage Spalte 2 vorlegen.
 (zu § 3 Absatz 1)
 
 ## Anlage Flächenbeitragswerte
+[Direktlink](https://www.gesetze-im-internet.de/windbg/BJNR135310022.html#BJNR135310022BJNE000702128)
 
 (Fundstelle: BGBl. I 2022, 1356)
 

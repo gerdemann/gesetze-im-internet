@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE000800314)
 
 Auf Grund des § 48 des Künstlersozialversicherungsgesetzes vom 27.
 Juli 1981 (BGBl. I S. 705) wird verordnet:
 
 
 ### Erster Abschnitt - Beirat
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNG000200314)
 
 
 
 #### § 1 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE000901308)
 
 Der Beirat berät die Künstlersozialkasse bei der Erfüllung ihrer
 Aufgaben, insbesondere bei der Erfassung des versicherungs- und
@@ -38,6 +41,7 @@ Versicherungs- und Abgabepflicht.
 
 
 #### § 2 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001000314)
 
 (1) Der Beirat besteht aus höchstens je 12 Mitgliedern aus den Kreisen
 der Versicherten und der zur Künstlersozialabgabe Verpflichteten.
@@ -50,6 +54,7 @@ der Versicherten und der zur Abgabe Verpflichteten.
 
 
 #### § 3 Rechte und Pflichten der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001101131)
 
 Die Mitglieder des Beirats sind zu gewissenhafter und unparteiischer
 Erfüllung ihrer Aufgabe verpflichtet. Sie sind nicht an Weisungen
@@ -58,6 +63,7 @@ in der sie ein Mitglied vertreten, dessen Rechte und Pflichten.
 
 
 #### § 4 Amtsdauer
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001200314)
 
 Die Amtsdauer der Mitglieder des Beirats beträgt vier Jahre. Scheidet
 ein Mitglied vorzeitig aus seinem Amt aus, so ist für den Rest der
@@ -65,6 +71,7 @@ Amtsdauer ein Nachfolger zu berufen.
 
 
 #### § 5 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001302308)
 
 Der Beirat gibt sich eine Geschäftsordnung. Er wählt aus seiner Mitte
 einen Vorsitzenden und einen stellvertretenden Vorsitzenden; diese
@@ -74,6 +81,7 @@ stellvertretenden Vorsitz ab.
 
 
 #### § 6 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001404131)
 
 (1) Die oder der Vorsitzende beruft die Mitglieder des Beirats durch
 Einladung in Textform zu den Sitzungen ein; dabei soll nach
@@ -94,6 +102,7 @@ Haushaltsplans beizufügen.
 
 
 #### § 7 Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001501131)
 
 (1) Die Sitzungen des Beirats sind nicht öffentlich und werden
 grundsätzlich mit persönlicher Anwesenheit der Mitglieder am
@@ -146,6 +155,7 @@ Beirats gefasst wird. Die §§ 8 und 9 bleiben unberührt.
 
 
 #### § 8 Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001600314)
 
 (1) Der Beirat ist beschlußfähig, wenn die Mehrheit der Mitglieder
 anwesend ist.
@@ -155,6 +165,7 @@ Stimmen der anwesenden Mitglieder.
 
 
 #### § 9 Erstattung der baren Auslagen, Pauschbetrag für Zeitaufwand
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001709131)
 
 (1) Die Künstlersozialkasse erstattet den Mitgliedern des Beirats ihre
 baren Auslagen. Die Erstattung richtet sich nach den für Bundesbeamte
@@ -166,10 +177,12 @@ den Vorsitzenden beträgt der Pauschbetrag 180 Euro.
 
 
 ### Zweiter Abschnitt - Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNG000300314)
 
 
 
 #### § 10 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001800314)
 
 (1) Bei der Künstlersozialkasse wird für jeden der Bereiche Wort,
 Musik, darstellende Kunst und bildende Kunst ein Ausschuß nach § 39
@@ -181,12 +194,14 @@ Bereichs berufen.
 
 
 #### § 11 Berufung der Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE001901131)
 
 Für jedes Mitglied eines Ausschusses ist mindestens ein Stellvertreter
 zu berufen. § 10 Abs. 2 gilt entsprechend.
 
 
 #### § 12 Amtsdauer
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002001131)
 
 Die Amtsdauer der Mitglieder der Ausschüsse und ihrer Stellvertreter
 richtet sich nach ihrer Amtsdauer als Mitglieder oder Stellvertreter
@@ -200,12 +215,14 @@ berufen worden sind.
 
 
 #### § 13 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002100314)
 
 Den Vorsitz in den Ausschüssen führt jeweils der Vertreter der
 Künstlersozialkasse.
 
 
 #### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002202308)
 
 (1) Betrifft der Gegenstand des Widerspruchs nur einen Bereich, ist
 der Ausschuß des betroffenen Bereichs zuständig.
@@ -230,12 +247,14 @@ Künstlersozialkasse den zuständigen Ausschuß.
 
 
 #### § 15 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002301131)
 
 Zu den Sitzungen des Ausschusses lädt die oder der Vorsitzende in
 Textform ein.
 
 
 #### § 16 Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002401131)
 
 (1) Die Sitzungen des Ausschusses sind nicht öffentlich.
 
@@ -257,6 +276,7 @@ des Ausschusses entsprechend mit der Maßgabe, dass
 
 
 #### § 17 Hinderungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002500314)
 
 Ist ein Mitglied aus den in § 16 des Zehnten Buches Sozialgesetzbuch
 genannten Gründen oder einem anderen wichtigen Grund gehindert, an der
@@ -265,6 +285,7 @@ unverzüglich anzuzeigen.
 
 
 #### § 18 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002600314)
 
 (1) Der Ausschuß ist beschlußfähig, wenn alle Mitglieder des
 Ausschusses anwesend sind.
@@ -277,6 +298,7 @@ zurückgewiesen.
 
 
 #### § 19 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002700314)
 
 Über die Ausschußsitzung ist eine Niederschrift zu fertigen, die Ort
 und Tag, Beginn und Ende der Sitzung, die Namen der Anwesenden und die
@@ -285,6 +307,7 @@ Vorsitzenden zu unterzeichnen.
 
 
 #### § 20 Widerspruchsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002801311)
 
 Der Widerspruchsbescheid ist vom Vorsitzenden zu unterzeichnen, wobei
 die elektronische Namenswiedergabe genügt. Sofern der
@@ -293,6 +316,7 @@ zuzustellen.
 
 
 #### § 21 Beanstandung von Rechtsverstößen
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE002903311)
 
 (1) Verstößt eine Entscheidung eines Widerspruchsausschusses gegen
 Gesetz oder sonstiges für die Künstlersozialkasse maßgebendes Recht,
@@ -308,21 +332,25 @@ zuzustellen.
 
 
 #### § 22 Erstattung der baren Auslagen, Pauschbetrag für Zeitaufwand
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE003001308)
 
 Für die Tätigkeit der Beiratsmitglieder in den Ausschüssen gilt § 9
 entsprechend.
 
 
 ### Dritter Abschnitt - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNG000401308)
 
 
 
 #### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE003101308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 #### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ksksav/BJNR011490982.html#BJNR011490982BJNE003300314)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

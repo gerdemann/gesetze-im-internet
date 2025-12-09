@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000100000)
 
 Auf Grund des § 19 Absatz 5 in Verbindung mit Absatz 1 und 3 des
 Zahlungskontengesetzes vom 11. April 2016 (BGBl. I S. 720), der
@@ -35,6 +36,7 @@ Verbraucherschutz:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000200000)
 
 Diese Verordnung trifft Regelungen
 
@@ -49,6 +51,7 @@ Diese Verordnung trifft Regelungen
 
 
 ## § 2 Zu meldende Daten
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000300000)
 
 (1) Die Meldeverpflichtung nach § 17 Absatz 2 des
 Zahlungskontengesetzes umfasst für jedes von einem
@@ -88,6 +91,7 @@ Berichtigung unrichtig gemeldeter Daten.
 
 
 ## § 3 Frist für die erstmalige Umsetzung der Meldeverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000400000)
 
 Die erste Meldung nach § 17 Absatz 2 Satz 1 des Zahlungskontengesetzes
 in Verbindung mit § 2 muss im Zeitraum vom 1. September 2024 bis 30.
@@ -95,6 +99,7 @@ September 2024 erfolgen.
 
 
 ## § 4 Form der Meldung
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000500000)
 
 (1) Der Zahlungsdienstleister muss alle Daten zu den jeweils
 angebotenen Zahlungskonten, zu deren Meldung er nach § 17 Absatz 2
@@ -119,6 +124,7 @@ Meldung ist das hierfür bereitgestellte Fachverfahren zu verwenden.
 
 
 ## § 5 Ordnungsgemäße Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000600000)
 
 (1) Bei der Meldung muss der Zahlungsdienstleister die ordnungsgemäße
 Datenübermittlung sicherstellen.
@@ -148,12 +154,14 @@ meldenden Daten darf er in der Meldung nicht übermitteln.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 1 Nummer 7)
 
 ## Anlage Zu meldende Daten zu den Vergleichskriterien
+[Direktlink](https://www.gesetze-im-internet.de/vglwebmv/BJNR0440A0024.html#BJNR0440A0024BJNE000800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 68, S. 3 - 6)
 

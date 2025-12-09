@@ -19,9 +19,11 @@ Fundstelle
 Stand: Ersetzt V 2030-8-5-7 v. 2.6.2016 I 1322 (GntZollDVDV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000100000)
 
 
 ### § 1 Bachelorstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000200000)
 
 Der Studiengang „Zolldienst des Bundes“ am Fachbereich Finanzen der
 Hochschule des Bundes für öffentliche Verwaltung (Fachbereich
@@ -33,6 +35,7 @@ Bundes.
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000300000)
 
 (1) Das Studium vermittelt die wissenschaftlichen Methoden und das
 fachtheoretische Wissen sowie die berufspraktischen Fähigkeiten und
@@ -55,12 +58,14 @@ der Zollverwaltung gerecht werden zu können.
 
 
 ### § 3 Bachelorgrad
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000400000)
 
 Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad
 „Bachelor of Laws (LL.B.)“ verliehen.
 
 
 ### § 4 Einstellungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000500000)
 
 (1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom
 Bundesministerium der Finanzen oder bei entsprechender Delegation auf
@@ -72,6 +77,7 @@ Verordnung nicht anderen Behörden übertragen werden.
 
 
 ### § 5 Ausbildungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000600000)
 
 Ausbildungsbehörden sind
 
@@ -89,6 +95,7 @@ Ausbildungsbehörden sind
 
 
 ### § 6 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000700000)
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die
 Leiterin oder der Leiter der Einstellungsbehörde.
@@ -108,6 +115,7 @@ Leiterin oder der Leiter der Einstellungsbehörde.
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000800000)
 
 (1) Schwerbehinderten Menschen, diesen gleichgestellten behinderten
 Menschen und Menschen mit Beeinträchtigungen, die die Umsetzung der
@@ -148,6 +156,7 @@ gewährten Nachteilsausgleiche dem Prüfungsamt mit.
 
 
 ### § 8 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE000900000)
 
 (1) Erholungsurlaub wird auf den Vorbereitungsdienst angerechnet. Die
 Zeiten des Erholungsurlaubs bestimmt:
@@ -168,6 +177,7 @@ können, festlegt.
 
 
 ### § 9 Elektronisches Informations- und Kommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001000000)
 
 (1) Der Fachbereich Finanzen kann ein elektronisches Informations- und
 Kommunikationssystem nutzen, um den Studierenden die Informationen
@@ -209,9 +219,11 @@ Informations- und Kommunikationssystem abzurufen.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000200000)
 
 
 ### § 10 Zweck des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001100000)
 
 (1) Auf Grundlage eines Auswahlverfahrens entscheidet die
 Einstellungsbehörde über die Einstellung in den Vorbereitungsdienst.
@@ -241,6 +253,7 @@ verfügen über:
 
 
 ### § 11 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001200000)
 
 (1) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen,
 wer nach den eingereichten Unterlagen die in der Ausschreibung
@@ -275,6 +288,7 @@ spätestens ein Jahr nach der Ablehnung zu vernichten. Elektronisch
 
 
 ### § 12 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001300000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie
@@ -326,6 +340,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 13 Gemeinsame Auswahlkommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001400000)
 
 (1) Die Generalzolldirektion kann vorsehen, dass eine oder mehrere
 gemeinsame Auswahlkommissionen bestimmt werden, die das
@@ -339,12 +354,14 @@ Einzelheiten in einer entsprechenden Verfügung.
 
 
 ### § 14 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001500000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 15 Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001600000)
 
 (1) Das Bundesministerium der Finanzen oder bei entsprechender
 Delegation die Generalzolldirektion legt bundeseinheitlich fest:
@@ -379,6 +396,7 @@ Auswahlverfahrens ändern.
 
 
 ### § 16 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001700000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens können folgende
 Kompetenzbereiche geprüft werden:
@@ -431,6 +449,7 @@ gleichgestellte behinderte Bewerberinnen und Bewerber.
 
 
 ### § 17 Bestehen des schriftlichen Teils des Auswahlverfahrens und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001800000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn im
 Leistungstest und im Fall der Ergänzung durch weitere
@@ -450,6 +469,7 @@ Auswahlverfahren maßgebend.
 
 
 ### § 18 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE001900000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil des Auswahlverfahrens bestanden hat.
@@ -475,6 +495,7 @@ Auswahlverfahrens noch nicht festgestellt werden konnte.
 
 
 ### § 19 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002000000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung
 der Bewerberinnen und Bewerber in verschiedenen persönlichen und
@@ -504,6 +525,7 @@ zur Stellungnahme zu geben.
 
 
 ### § 20 Bestehen des mündlichen Teils des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002100000)
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn in den
 Simulationsübungen und im strukturierten Interview jeweils die
@@ -511,6 +533,7 @@ erforderliche Mindestpunktzahl erreicht worden ist.
 
 
 ### § 21 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002200000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens
@@ -534,6 +557,7 @@ Frist zu löschen.
 
 
 ### § 22 Ausnahmeregelung zur Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002300000)
 
 (1) Schwerbehinderte Bewerberinnen und Bewerber und diesen
 gleichgestellte behinderte Bewerberinnen und Bewerber, die den
@@ -560,6 +584,7 @@ erfolglos am Auswahlverfahren teilgenommen.
 
 
 ### § 23 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002400000)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder an
 einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
@@ -569,6 +594,7 @@ Auswahlverfahren ausgeschlossen.
 
 
 ### § 24 Einstellung und gesundheitliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002500000)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -596,9 +622,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000300000)
 
 
 ### § 25 Dauer und Umfang des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002600000)
 
 (1) Die Regelstudienzeit beträgt drei Jahre. Jedes Studienjahr besteht
 aus zwei Semestern.
@@ -616,6 +644,7 @@ Finanzen.
 
 
 ### § 26 Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002700000)
 
 Das Studium vermittelt rechtswissenschaftliche, ökonomische und
 verwaltungspsychologische Grundlagen sowie berufsfeldbezogene
@@ -642,6 +671,7 @@ und Verwaltungspsychologie sind wie folgt gegliedert:
 
 
 ### § 27 Studienstruktur
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002800000)
 
 (1) Die Studieninhalte werden in thematisch und zeitlich abgegrenzten
 Modulen vermittelt. Die Module können interdisziplinär ausgestaltet
@@ -838,6 +868,7 @@ sein.
 
 
 ### § 28 Modulhandbuch
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE002900000)
 
 (1) Für das Studium erstellt der Fachbereich Finanzen ein
 Modulhandbuch.
@@ -883,6 +914,7 @@ Maßgeblich ist jeweils die Fassung, die bei Beginn des Studiums gilt.
 
 
 ### § 29 Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003000000)
 
 (1) Die Fachstudien bestehen aus fachtheoretischen
 Lehrveranstaltungen.
@@ -903,6 +935,7 @@ Einstellungsbehörden an den Fachbereich Finanzen abgeordnet.
 
 
 ### § 30 Praxisintegrierende Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003100000)
 
 (1) Die praxisintegrierenden Fachstudien bestehen aus
 
@@ -930,6 +963,7 @@ Finanzen. Ihre Durchführung obliegt den Ausbildungsbehörden.
 
 
 ### § 31 Wahlpflichtpraktikum
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003200000)
 
 (1) Das Wahlpflichtpraktikum besteht aus Praxisstudien.
 
@@ -948,6 +982,7 @@ Nummer 2 durchgeführt, so gilt
 
 
 ### § 32 Transferkoordinatorin und Transferkoordinator
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003300000)
 
 (1) Der Fachbereich Finanzen bestellt eine Transferkoordinatorin oder
 einen Transferkoordinator und eine Vertretung.
@@ -962,6 +997,7 @@ Fachstudien und des Wahlpflichtpraktikums aus.
 
 
 ### § 33 Praxisstudienleiterin und Praxisstudienleiter
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003400000)
 
 (1) Jede Ausbildungsbehörde bestellt im Einvernehmen mit dem
 Fachbereich Finanzen eine Praxisstudienleiterin oder einen
@@ -982,6 +1018,7 @@ Studierenden in Angelegenheiten der Praxisstudien.
 
 
 ### § 34 Praxistutorinnen und Praxistutoren
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003500000)
 
 (1) Jede Ausbildungsbehörde bestellt Praxistutorinnen und
 Praxistutoren für die praktische Ausbildung der Studierenden.
@@ -1005,6 +1042,7 @@ aktuellen Ausbildungsstand der Studierenden, die ihnen zugeteilt sind.
 
 
 ### § 35 Qualitätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003600000)
 
 (1) Das Studium unterliegt einem systematischen Qualitätsmanagement.
 
@@ -1018,12 +1056,15 @@ geltenden Fassung in unveränderlicher Form vorgehalten und archiviert.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000500000)
 
 
 #### § 36 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003700000)
 
 (1) Für die Organisation und Durchführung der Prüfungen ist das
 Prüfungsamt des Fachbereichs Finanzen zuständig.
@@ -1033,6 +1074,7 @@ Rahmen der Prüfungen.
 
 
 #### § 37 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003800000)
 
 (1) Die Prüfenden werden vom Prüfungsamt bestellt.
 
@@ -1050,6 +1092,7 @@ weisungsgebunden.
 
 
 #### § 38 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE003900000)
 
 Prüfungen können aus mehreren Teilprüfungen bestehen. Jede Teilprüfung
 ist zeitlich und räumlich abgegrenzt und wird in einem bestimmten
@@ -1057,6 +1100,7 @@ Prüfungsformat durchgeführt.
 
 
 #### § 39 Durchführung der Prüfungen; Prüfungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004000000)
 
 (1) Das Prüfungsamt erstellt vor Beginn eines Semesters einen
 Prüfungsplan, in dem geregelt wird, welche Prüfungen zu welchem
@@ -1077,6 +1121,7 @@ und ohne unzulässige fremde Mitwirkung erbracht worden ist.
 
 
 #### § 40 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004100000)
 
 (1) Die Prüfungsleistungen werden, soweit sich aus § 41 nichts anderes
 ergibt, wie folgt bewertet:
@@ -1414,6 +1459,7 @@ werden, gelten als mit der Note „ungenügend“, numerischer Notenwert
 
 
 #### § 41 Multiple-Choice-Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004200000)
 
 (1) Multiple-Choice-Aufgaben können gestellt werden als
 
@@ -1615,12 +1661,14 @@ automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
 
 #### § 42 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004300000)
 
 Eine Prüfung ist vorbehaltlich § 58 bestanden, wenn sie mit mindestens
 der Note „ausreichend“, numerischer Notenwert 4,0, bewertet ist.
 
 
 #### § 43 Bewertungsverfahren bei Wiederholungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004400000)
 
 (1) Prüfungsleistungen in Wiederholungsprüfungen werden von zwei
 Prüfenden als Erst- und Zweitprüfenden bewertet. Das Prüfungsamt legt
@@ -1634,14 +1682,17 @@ Erstprüfenden haben.
 
 
 ### Unterabschnitt 2 - Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000600000)
 
 
 #### § 44 Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004500000)
 
 In jedem belegten Modul ist eine Modulprüfung abzulegen.
 
 
 #### § 45 Modulprüfungen in den Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004600000)
 
 Die Modulprüfungen während der Fachstudien können aus einem oder
 mehreren der folgenden Prüfungsformate bestehen:
@@ -1668,6 +1719,7 @@ mehreren der folgenden Prüfungsformate bestehen:
 
 
 #### § 46 Modulprüfungen in den praxisintegrierenden Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004700000)
 
 (1) Die Modulprüfungen während der praxisintegrierenden Fachstudien
 bestehen aus einer Praxisbewertung mit einer Gewichtung in Höhe von 25
@@ -1700,6 +1752,7 @@ Prüfungsformaten bestehen:
 
 
 #### § 47 Modulprüfung im Wahlpflichtpraktikum
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004800000)
 
 (1) Die Modulprüfung im Wahlpflichtpraktikum besteht aus einer
 Praxisbewertung mit einer Gewichtung in Höhe von 50 Prozent und einer
@@ -1729,6 +1782,7 @@ Prüfungsformaten bestehen:
 
 
 #### § 48 Anforderungen an Prüfungsformate bei Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE004900000)
 
 (1) Eine Klausur ist eine unter Aufsicht anzufertigende schriftliche
 Ausarbeitung. Sie kann ganz oder teilweise aus Multiple-Choice-
@@ -1783,6 +1837,7 @@ entsprechenden Fremdsprache durchgeführt werden.
 
 
 #### § 49 Verfahren zur Bewertung der Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005000000)
 
 (1) Modulprüfungen werden von einer oder einem Prüfenden bewertet.
 Handelt es sich um eine mündliche Modulprüfung, so bewerten zwei
@@ -1801,6 +1856,7 @@ an der Prüfung gesonderte Erst- und Zweitprüfende zu bestellen sind.
 
 
 #### § 50 Wiederholung von Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005100000)
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
 Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt
@@ -1826,15 +1882,18 @@ Studium beendet.
 
 
 ### Unterabschnitt 3 - Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000700000)
 
 
 #### § 51 Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005200000)
 
 Die Bachelorarbeit besteht aus der Bachelorthesis und ihrer mündlichen
 Verteidigung.
 
 
 #### § 52 Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005300000)
 
 (1) Durch die Bachelorthesis sollen die Studierenden nachweisen, dass
 sie in der Lage sind, innerhalb einer vorgegebenen Frist eine für die
@@ -1866,6 +1925,7 @@ kann die Form der Erklärung vorgeben.
 
 
 #### § 53 Verfahren zur Bewertung und Prüfende der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005400000)
 
 (1) Die Bachelorthesis wird von einer Erstprüferin oder einem
 Erstprüfer und von einer Zweitprüferin oder einem Zweitprüfer geprüft.
@@ -1879,6 +1939,7 @@ Terminen für die Verteidigung der Bachelorthesis abgeschlossen sein.
 
 
 #### § 54 Wiederholung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005500000)
 
 (1) Ist die Bachelorthesis nicht bestanden, kann sie einmal wiederholt
 werden.
@@ -1896,6 +1957,7 @@ Studium beendet.
 
 
 #### § 55 Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005600000)
 
 (1) Zur Verteidigung der Bachelorthesis wird zugelassen, wer die
 Bachelorthesis bestanden hat.
@@ -1932,6 +1994,7 @@ Prüfungsleistung dürfen nur die Prüfenden anwesend sein.
 
 
 #### § 56 Wiederholung der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005700000)
 
 (1) Ist die Verteidigung nicht bestanden worden, kann sie einmal
 wiederholt werden. Die Wiederholung soll innerhalb von zwei Monaten
@@ -1944,6 +2007,7 @@ ihrer Einstellungsbehörde zugeteilt.
 
 
 #### § 57 Gesamtnote der Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005800000)
 
 (1) Ist die Verteidigung bestanden, so wird die Gesamtnote der
 Bachelorarbeit berechnet und festgelegt.
@@ -1962,9 +2026,11 @@ genannten Gewichtung ein
 
 
 ### Unterabschnitt 4 - Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000800000)
 
 
 #### § 58 Bestehen der Bachelorprüfung, Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE005900000)
 
 (1) Die Bachelorprüfung ist bestanden, wenn die Modulprüfungen und die
 Bachelorarbeit bestanden sind und mindestens 180 ECTS-Leistungspunkte
@@ -2044,11 +2110,13 @@ unveränderlicher Form vorgehalten und archiviert.
 
 
 #### § 59 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006000000)
 
 Die Bachelorprüfung ist die Laufbahnprüfung.
 
 
 #### § 60 Abschlusszeugnis, Urkunde, Diploma Supplement
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006100000)
 
 (1) Wer die Bachelorprüfung bestanden hat, erhält
 
@@ -2105,6 +2173,7 @@ ausgestellt.
 
 
 #### § 61 Bescheid bei Nichtbestehen der Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006200000)
 
 Wer die Bachelorprüfung nicht bestanden hat, erhält vom Prüfungsamt
 einen Bescheid in schriftlicher oder elektronischer Form über das
@@ -2115,9 +2184,11 @@ Noten hervorgehen.
 
 
 ### Unterabschnitt 5 - Weitere Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG000900000)
 
 
 #### § 62 Verhinderung, Säumnis und Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006300000)
 
 (1) Sind Prüfungsteilnehmende aus wichtigem Grund verhindert, eine
 Prüfung oder eine Teilprüfung rechtzeitig zu erbringen, so haben sie
@@ -2158,6 +2229,7 @@ entsprechend.
 
 
 #### § 63 Verstöße bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006400000)
 
 (1) Verstöße bei Prüfungen können sein:
 
@@ -2212,6 +2284,7 @@ verfügen. Die Bachelorprüfung gilt in diesem Fall als nicht bestanden.
 
 
 #### § 64 Störungen und Mängel im Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006500000)
 
 (1) Fühlt sich eine Prüfungsteilnehmende oder ein
 Prüfungsteilnehmender während einer Prüfung oder einer Teilprüfung
@@ -2239,6 +2312,7 @@ Absatz 2 nicht mehr treffen.
 
 
 #### § 65 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006600000)
 
 (1) Zu jeder und jedem Studierenden führt das Prüfungsamt eine
 Prüfungsakte.
@@ -2283,9 +2357,11 @@ Einsichtnahme ist in der Prüfungsakte zu vermerken.
 
 
 ## Abschnitt 5 - Anerkennung und Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG001000000)
 
 
 ### § 66 Anerkennung von Studien- und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006700000)
 
 (1) Auf Antrag der oder des Studierenden werden folgende Leistungen
 anerkannt:
@@ -2314,6 +2390,7 @@ Einzelne Teilprüfungen können nicht ersetzt werden.
 
 
 ### § 67 Anrechnung von Kenntnissen und Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006800000)
 
 (1) Auf Antrag der oder des Studierenden können Kenntnisse und
 Qualifikationen, die auf andere Weise als durch ein Studium erworben
@@ -2330,6 +2407,7 @@ gilt entsprechend.
 
 
 ### § 68 Verfahren zur Anerkennung oder Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE006900000)
 
 (1) Der Antrag auf Anerkennung oder Anrechnung ist beim Prüfungsamt zu
 stellen. Es ist anzugeben, welche Prüfungsleistung ersetzt werden
@@ -2365,9 +2443,11 @@ Absatz 6 möglich ist.
 
 
 ## Abschnitt 6 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNG001100000)
 
 
 ### § 69 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gntzolldvdv_2023/BJNR11A0B0023.html#BJNR11A0B0023BJNE007000000)
 
 Auf Studierende, die vor Ablauf des 30. November 2023 das Studium
 begonnen haben, sind die Vorschriften der Verordnung über den

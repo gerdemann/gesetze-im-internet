@@ -21,10 +21,12 @@ Neugefasst durch
 
 
 ## Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000101360)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000204360)
 
 Dieses Gesetz dient
 
@@ -63,6 +65,7 @@ Dieses Gesetz dient
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000302360)
 
 Im Sinne dieses Gesetzes sind „Titel“ Entscheidungen, Vereinbarungen
 und öffentliche Urkunden, auf welche die durchzuführende EU-Verordnung
@@ -70,10 +73,12 @@ oder das jeweils auszuführende Übereinkommen Anwendung findet.
 
 
 ## Abschnitt 2 - Zentrale und nationale Behörde; Jugendamt
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000202360)
 
 
 
 ### § 3 Bestimmung der Zentralen und der nationalen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000405360)
 
 (1) Zentrale Behörde nach
 
@@ -98,6 +103,7 @@ gelten als Justizverwaltungsverfahren.
 
 
 ### § 4 Übersetzungen bei eingehenden Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000503360)
 
 (1) Die Zentrale Behörde, bei der ein Antrag aus einem anderen Staat
 nach der Verordnung (EU) 2019/1111 oder nach dem Europäischen
@@ -118,6 +124,7 @@ die Übersetzung.
 
 
 ### § 5 Übersetzungen bei ausgehenden Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000603360)
 
 (1) Beschafft die antragstellende Person erforderliche Übersetzungen
 für Anträge, die in einem anderen Staat zu erledigen sind, nicht
@@ -136,6 +143,7 @@ erfüllt.
 
 
 ### § 6 Aufgabenerfüllung durch die Zentrale Behörde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000701360)
 
 (1) Zur Erfüllung der ihr obliegenden Aufgaben veranlasst die Zentrale
 Behörde mit Hilfe der zuständigen Stellen alle erforderlichen
@@ -156,6 +164,7 @@ bleibt unberührt.
 
 
 ### § 7 Aufenthaltsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000803360)
 
 (1) Die Zentrale Behörde trifft alle erforderlichen Maßnahmen
 einschließlich der Einschaltung von Polizeivollzugsbehörden, um den
@@ -181,6 +190,7 @@ Daten; diese dürfen nur für den Zweck verwendet werden, für den sie
 
 
 ### § 8 Anrufung des Oberlandesgerichts
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE000902360)
 
 (1) Nimmt die Zentrale Behörde einen Antrag nicht an oder lehnt sie es
 ab, tätig zu werden, so kann die Entscheidung des Oberlandesgerichts
@@ -196,6 +206,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit gelten entsprechend.
 
 
 ### § 9 Mitwirkung des Jugendamts an Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001002360)
 
 (1) Unbeschadet der Aufgaben des Jugendamts bei der
 grenzüberschreitenden Zusammenarbeit unterstützt das Jugendamt die
@@ -237,10 +248,12 @@ Verfahren nicht beteiligt war.
 
 
 ## Abschnitt 3 - Gerichtliche Zuständigkeit und Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000301360)
 
 
 
 ### § 10 Örtliche Zuständigkeit für die Anerkennung und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001103360)
 
 Das Familiengericht, in dessen Zuständigkeitsbereich sich die Person,
 gegen die sich der Antrag richtet, oder das Kind, auf das sich die
@@ -276,6 +289,7 @@ das im Bezirk des Kammergerichts zur Entscheidung berufene Gericht
 
 
 ### § 11 Örtliche Zuständigkeit nach dem Haager Kindesentführungsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001202360)
 
 Örtlich zuständig für Verfahren nach dem Haager
 Kindesentführungsübereinkommen ist das Familiengericht, in dessen
@@ -293,6 +307,7 @@ Zuständigkeitsbereich
 
 
 ### § 12 Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001304360)
 
 (1) In Verfahren über eine in den §§ 10 und 11 bezeichnete Sache
 entscheidet das Familiengericht, in dessen Bezirk ein
@@ -311,6 +326,7 @@ die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 13 Zuständigkeitskonzentration für andere Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005903360)
 
 (1) Das Familiengericht, bei dem eine in den §§ 10 bis 12 bezeichnete
 Sache anhängig wird, ist von diesem Zeitpunkt an ungeachtet des § 137
@@ -368,6 +384,7 @@ freiwilligen Gerichtsbarkeit bleibt unberührt.
 
 
 ### § 13a Verfahren bei grenzüberschreitender Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE007300360)
 
 (1) Ersucht das Familiengericht das Gericht eines anderen
 Vertragsstaats nach Artikel 8 des Haager Kinderschutzübereinkommens um
@@ -441,10 +458,12 @@ freiwilligen Gerichtsbarkeit genannten Beteiligten. Die Vorschriften
 
 
 ## Abschnitt 4 - Allgemeine gerichtliche Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000401360)
 
 
 
 ### § 14 Familiengerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001503360)
 
 Soweit nicht anders bestimmt, entscheidet das Familiengericht
 
@@ -464,6 +483,7 @@ Soweit nicht anders bestimmt, entscheidet das Familiengericht
 
 
 ### § 15 Einstweilige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001602360)
 
 Das Gericht kann auf Antrag oder von Amts wegen einstweilige
 Anordnungen treffen, um Gefahren von dem Kind abzuwenden oder eine
@@ -476,14 +496,17 @@ Gerichtsbarkeit gilt entsprechend.
 
 
 ## Abschnitt 5 - Zulassung der Zwangsvollstreckung, Anerkennungsfeststellung und Wiederherstellung des Sorgeverhältnisses im Anwendungsbereich des Haager Kinderschutzübereinkommens und des Europäischen Sorgerechtsübereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000502360)
 
 
 
 ### Unterabschnitt 1 - Zulassung der Zwangsvollstreckung im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000601360)
 
 
 
 #### § 16 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001702360)
 
 (1) Im Anwendungsbereich des Haager Kinderschutzübereinkommens und des
 Europäischen Sorgerechtsübereinkommens wird der in einem anderen Staat
@@ -510,6 +533,7 @@ hierzu befugten Person bestätigt worden ist.
 
 
 #### § 17 Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE001804360)
 
 (1) Hat die antragstellende Person in dem Antrag keinen
 Zustellungsbevollmächtigten im Sinne des § 184 Absatz 1 Satz 1 der
@@ -532,6 +556,7 @@ Absatz 1 Satz 2, Absatz 2 der Zivilprozessordnung) bewirkt werden.
 
 
 #### § 18 Besondere Regelungen zum Haager Kinderschutzübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006003360)
 
 Im Anwendungsbereich des Haager Kinderschutzübereinkommens erhält im
 erstinstanzlichen Verfahren auf Zulassung der Zwangsvollstreckung nur
@@ -543,6 +568,7 @@ ist und die Erörterung der Beschleunigung dient.
 
 
 #### § 19 Besondere Regelungen zum Europäischen Sorgerechtsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002001360)
 
 Die Vollstreckbarerklärung eines Titels aus einem anderen
 Vertragsstaat des Europäischen Sorgerechtsübereinkommens ist auch in
@@ -554,6 +580,7 @@ unvereinbar wären.
 
 
 #### § 20 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002103360)
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
@@ -573,6 +600,7 @@ gilt Absatz 2.
 
 
 #### § 21 Bekanntmachung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002202360)
 
 (1) Im Falle des § 20 Absatz 1 sind der verpflichteten Person eine
 beglaubigte Abschrift des Beschlusses, eine beglaubigte Abschrift des
@@ -606,12 +634,14 @@ untergebracht werden soll.
 
 
 #### § 22 Wirksamwerden der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002303360)
 
 Der Beschluss nach § 20 wird erst mit Rechtskraft wirksam. Hierauf ist
 in dem Beschluss hinzuweisen.
 
 
 #### § 23 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002401360)
 
 (1) Auf Grund eines wirksamen Beschlusses nach § 20 Absatz 1 erteilt
 der Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
@@ -643,10 +673,12 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 
 ### Unterabschnitt 2 - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000701360)
 
 
 
 #### § 24 Einlegung der Beschwerde; Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002503360)
 
 (1) Gegen die im ersten Rechtszug ergangene Entscheidung findet die
 Beschwerde zum Oberlandesgericht statt. Die Beschwerde wird bei dem
@@ -682,6 +714,7 @@ zuzustellen.
 
 
 #### § 25 Einwendungen gegen den zu vollstreckenden Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002601360)
 
 Die verpflichtete Person kann mit der Beschwerde gegen die Zulassung
 der Zwangsvollstreckung aus einem Titel über die Erstattung von
@@ -691,6 +724,7 @@ Erlass des Titels entstanden sind.
 
 
 #### § 26 Verfahren und Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002702360)
 
 (1) Der Senat des Oberlandesgerichts entscheidet durch Beschluss, der
 mit Gründen zu versehen ist und ohne mündliche Verhandlung ergehen
@@ -709,6 +743,7 @@ worden ist.
 
 
 #### § 27 Anordnung der sofortigen Wirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002801360)
 
 (1) Der Beschluss des Oberlandesgerichts nach § 26 wird erst mit
 seiner Rechtskraft wirksam. Hierauf ist in dem Beschluss hinzuweisen.
@@ -718,10 +753,12 @@ die Beschwerde die sofortige Wirksamkeit eines Beschlusses anordnen.
 
 
 ### Unterabschnitt 3 - Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000801360)
 
 
 
 #### § 28 Statthaftigkeit der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE002901360)
 
 Gegen den Beschluss des Oberlandesgerichts findet die Rechtsbeschwerde
 zum Bundesgerichtshof nach Maßgabe des § 574 Absatz 1 Nr. 1, Absatz 2
@@ -729,6 +766,7 @@ der Zivilprozessordnung statt.
 
 
 #### § 29 Einlegung und Begründung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003002360)
 
 § 575 Absatz 1 bis 4 der Zivilprozessordnung ist entsprechend
 anzuwenden. Soweit die Rechtsbeschwerde darauf gestützt wird, dass das
@@ -738,6 +776,7 @@ angefochtene Beschluss abweicht, bezeichnet werden.
 
 
 #### § 30 Verfahren und Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003102360)
 
 (1) Der Bundesgerichtshof kann nur überprüfen, ob der Beschluss auf
 einer Verletzung des Rechts der Europäischen Union, eines
@@ -757,6 +796,7 @@ mündliche Verhandlung entscheiden. Entsprechend anzuwenden sind die §§
 
 
 #### § 31 Anordnung der sofortigen Wirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003201360)
 
 Der Bundesgerichtshof kann auf Antrag der verpflichteten Person eine
 Anordnung nach § 27 Absatz 2 aufheben oder auf Antrag der berechtigten
@@ -764,10 +804,12 @@ Person erstmals eine Anordnung nach § 27 Absatz 2 treffen.
 
 
 ### Unterabschnitt 4 - Feststellung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG000901360)
 
 
 
 #### § 32 Anerkennungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003303360)
 
 Auf das Verfahren über einen gesonderten Feststellungsantrag nach
 Artikel 24 des Haager Kinderschutzübereinkommens oder nach dem
@@ -781,10 +823,12 @@ auch mit weiteren Beteiligten stattfinden kann.
 
 
 ### Unterabschnitt 5 - Wiederherstellung des Sorgeverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001001360)
 
 
 
 #### § 33 Anordnung auf Herausgabe des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003403360)
 
 (1) Umfasst ein vollstreckungsfähiger Titel im Anwendungsbereich des
 Haager Kinderschutzübereinkommens oder des Europäischen
@@ -804,10 +848,12 @@ Kind herauszugeben hat.
 
 
 ### Unterabschnitt 6 - Aufhebung oder Änderung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001101360)
 
 
 
 #### § 34 Verfahren auf Aufhebung oder Änderung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003502360)
 
 (1) Wird der Titel in dem Staat, in dem er geschaffen worden ist,
 aufgehoben oder abgeändert und kann die verpflichtete Person diese
@@ -839,6 +885,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 35 Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003602360)
 
 (1) Wird die Zulassung der Zwangsvollstreckung aus einem Titel über
 die Erstattung von Verfahrenskosten auf die Rechtsbeschwerde
@@ -861,10 +908,12 @@ freiwilligen Gerichtsbarkeit geltenden Vorschriften.
 
 
 ### Unterabschnitt 7 - Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001202360)
 
 
 
 #### § 36 Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003703360)
 
 (1) Ist die Zwangsvollstreckung aus einem Titel über die Erstattung
 von Verfahrenskosten zugelassen, so kann die verpflichtete Person
@@ -889,10 +938,12 @@ Vollstreckungsklausel entschieden hat.
 
 
 ## Abschnitt 6 - Verfahren nach dem Haager Kindesentführungsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001301360)
 
 
 
 ### § 37 Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003801360)
 
 Kommt im Einzelfall die Rückgabe des Kindes nach dem Haager
 Kindesentführungsübereinkommen und dem Europäischen
@@ -903,6 +954,7 @@ Europäischen Sorgerechtsübereinkommens begehrt.
 
 
 ### § 38 Besondere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE003902360)
 
 (1) Das Gericht hat das Verfahren auf Rückgabe eines Kindes in allen
 Rechtszügen vorrangig und beschleunigt zu behandeln. Mit Ausnahme von
@@ -928,6 +980,7 @@ Antrag ist sie am Verfahren zu beteiligen.
 
 
 ### § 39 Ausstellung von Bescheinigungen nach Artikel 29 Absatz 2 der Verordnung (EU) 2019/1111 und Übersendung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004002360)
 
 (1) Die Bescheinigung nach Artikel 29 Absatz 2 der Verordnung (EU)
 2019/1111 wird beim Gericht des ersten Rechtszugs von dem
@@ -943,6 +996,7 @@ Kindesentführungsübereinkommens Abschriften dieser Unterlagen zu
 
 
 ### § 40 Wirksamkeit der Entscheidung; Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004104360)
 
 (1) Eine Entscheidung, die zur Rückgabe des Kindes in einen anderen
 Vertragsstaat verpflichtet, wird erst mit deren Rechtskraft wirksam.
@@ -971,6 +1025,7 @@ während des Beschwerdeverfahrens abgeändert werden.
 
 
 ### § 41 Bescheinigung über Widerrechtlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004202360)
 
 (1) Über einen Antrag, die Widerrechtlichkeit des Verbringens oder des
 Zurückhaltens eines Kindes nach Artikel 15 Satz 1 des Haager
@@ -1004,6 +1059,7 @@ Rechtsbeschwerde findet nicht statt.
 
 
 ### § 42 Einreichung von Anträgen bei dem Amtsgericht
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004301360)
 
 (1) Ein Antrag, der in einem anderen Vertragsstaat zu erledigen ist,
 kann auch bei dem Amtsgericht als Justizverwaltungsbehörde eingereicht
@@ -1020,6 +1076,7 @@ der Fälle nach § 5 Absatz 1 Kosten nicht erhoben.
 
 
 ### § 43 Verfahrenskosten- und Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004402360)
 
 Abweichend von Artikel 26 Absatz 2 des Haager
 Kindesentführungsübereinkommens findet eine Befreiung von
@@ -1029,14 +1086,17 @@ Beratungshilfe und Verfahrenskostenhilfe statt.
 
 
 ## Abschnitt 7 - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001402360)
 
 
 
 ### Unterabschnitt 1 - Besondere Vorschriften zur Vollstreckung von Titeln über die Herausgabe und Rückgabe von Personen und die Regelung des Umgangs
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG002001360)
 
 
 
 #### § 44 Ordnungsmittel; Vollstreckung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004506360)
 
 (1) Bei Zuwiderhandlung gegen einen im Inland zu vollstreckenden Titel
 nach Kapitel IV der Verordnung (EU) 2019/1111, nach dem Haager
@@ -1062,10 +1122,12 @@ Antrag der berechtigten Person soll das Gericht hiervon absehen.
 
 
 ### Unterabschnitt 2 - Besondere Vorschriften zur Vollstreckung von Titeln nach Kapitel IV der Verordnung (EU) 2019/1111
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG002101360)
 
 
 
 #### § 44a Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006201360)
 
 (1) Aus einem Titel nach Kapitel IV der Verordnung (EU) 2019/1111, der
 in einem anderen Mitgliedstaat vollstreckbar ist, findet die
@@ -1090,6 +1152,7 @@ Anordnung klarstellend aufnehmen.
 
 
 #### § 44b Verfahren auf Versagung der Vollstreckung nach Artikel 59 der Verordnung (EU) 2019/1111
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006301360)
 
 (1) Mit dem Antrag auf Versagung der Vollstreckung nach Artikel 59 der
 Verordnung (EU) 2019/1111 können ausschließlich die in den Artikeln
@@ -1131,6 +1194,7 @@ Gerichts glaubhaft zu machen.
 
 
 #### § 44c Entscheidung über die Versagung der Vollstreckung und Bekanntmachung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006401360)
 
 (1) Über den Antrag auf Versagung der Vollstreckung nach Artikel 59
 der Verordnung (EU) 2019/1111 entscheidet das Gericht durch Beschluss.
@@ -1175,6 +1239,7 @@ Kind untergebracht werden soll.
 
 
 #### § 44d Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006501360)
 
 (1) Der Beschluss ist in entsprechender Anwendung der §§ 567 bis 572
 der Zivilprozessordnung mit der sofortigen Beschwerde anfechtbar.
@@ -1196,6 +1261,7 @@ ausgeschlossen.
 
 
 #### § 44e Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006601360)
 
 (1) Gegen den Beschluss des Beschwerdegerichts findet die
 Rechtsbeschwerde zum Bundesgerichtshof statt, wenn das
@@ -1218,6 +1284,7 @@ bezeichnet werden.
 
 
 #### § 44f Aussetzung der Vollstreckung nach Artikel 56 Absatz 1, 2 und 4 der Verordnung (EU) 2019/1111
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006701360)
 
 (1) Antragsberechtigt nach Artikel 56 Absatz 1 und 2 der Verordnung
 (EU) 2019/1111 ist auch das betroffene Kind. Antragsberechtigt nach
@@ -1240,6 +1307,7 @@ Anwendung.
 
 
 #### § 44g Einstellung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006801360)
 
 (1) Die Zwangsvollstreckung ist einzustellen, wenn die Ausfertigung
 einer rechtskräftigen Entscheidung vorgelegt wird, aus der sich
@@ -1286,6 +1354,7 @@ erstellen.
 
 
 #### § 44h Schadensersatz wegen ungerechtfertigter Vollstreckung aus Titeln über die Erstattung von Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE006901360)
 
 (1) Wird ein Titel über die Erstattung von Verfahrenskosten in dem
 Mitgliedstaat, in dem er geschaffen wurde, aufgehoben oder abgeändert,
@@ -1306,6 +1375,7 @@ Vorschriften.
 
 
 #### § 44i Vollstreckungsabwehrklage bei Titeln über die Erstattung von Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE007001360)
 
 (1) Die aus einem Titel über die Erstattung von Verfahrenskosten
 verpflichtete Person kann Einwendungen gegen den Anspruch selbst im
@@ -1320,6 +1390,7 @@ entscheiden hätte.
 
 
 #### § 44j Verfahren auf Feststellung des Nichtvorliegens von Anerkennungsversagungsgründen und auf Versagung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE007101360)
 
 (1) Auf das Verfahren über einen gesonderten Feststellungsantrag nach
 Artikel 30 Absatz 3 der Verordnung (EU) 2019/1111 und auf das
@@ -1353,10 +1424,12 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 8 - Grenzüberschreitende Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001501360)
 
 
 
 ### § 45 Zuständigkeit für die Zustimmung zu einer Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004603360)
 
 Zuständig für die Erteilung der Zustimmung zu einer Unterbringung
 eines Kindes nach Artikel 82 der Verordnung (EU) 2019/1111 oder nach
@@ -1369,6 +1442,7 @@ ist das Land Berlin zuständig.
 
 
 ### § 46 Konsultationsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004701360)
 
 (1) Dem Ersuchen soll in der Regel zugestimmt werden, wenn
 
@@ -1427,6 +1501,7 @@ werden soll, mitzuteilen. Sie ist unanfechtbar.
 
 
 ### § 47 Genehmigung des Familiengerichts
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004803360)
 
 (1) Die Zustimmung des überörtlichen Trägers der öffentlichen
 Jugendhilfe nach den §§ 45 und 46 ist nur mit Genehmigung des
@@ -1452,10 +1527,12 @@ soll, seinen Sitz hat. § 12 Absatz 2 und 3 gilt entsprechend.
 
 
 ## Abschnitt 9 - Bescheinigungen zu inländischen Entscheidungen nach Kapitel IV der Verordnung (EU) 2019/1111
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001602360)
 
 
 
 ### § 48 Ausstellung von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE004902360)
 
 (1) Bescheinigungen nach Artikel 36 Absatz 1 der Verordnung (EU)
 2019/1111 werden von dem Gericht ausgestellt, das die Entscheidung
@@ -1485,6 +1562,7 @@ findet nicht statt.
 
 
 ### § 49 Berichtigung von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005002360)
 
 Für die Berichtigung einer Bescheinigung nach Artikel 36 der
 Verordnung (EU) 2019/1111 (Artikel 37 der Verordnung (EU) 2019/1111)
@@ -1494,6 +1572,7 @@ Verordnung (EU) 2019/1111 (Artikel 48 Absatz 1 und 3 der Verordnung
 
 
 ### § 50 Widerruf von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE007201360)
 
 (1) Über den Widerruf einer Bescheinigung nach Artikel 47 der
 Verordnung (EU) 2019/1111 (Artikel 48 der Verordnung (EU) 2019/1111)
@@ -1504,10 +1583,12 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 10 - Verfahren nach dem Europäischen Adoptionsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001703360)
 
 
 
 ### § 51 Verfahren der nationalen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005104360)
 
 Auf Anträge aus einem anderen Staat nach Artikel 15 des Europäischen
 Adoptionsübereinkommens finden § 4 Absatz 1, § 6 Absatz 1 und § 9
@@ -1515,18 +1596,22 @@ entsprechende Anwendung.
 
 
 ## Abschnitt 11 - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001902360)
 
 
 
 ### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005302360)
 
 
 
 ### § 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005402360)
 
 
 
 ### § 54 Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005501360)
 
 Die Höhe der Vergütung für die von der Zentralen Behörde veranlassten
 Übersetzungen richtet sich nach dem Justizvergütungs- und
@@ -1534,10 +1619,12 @@ Die Höhe der Vergütung für die von der Zentralen Behörde veranlassten
 
 
 ## Abschnitt 12 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNG001802360)
 
 
 
 ### § 55 Übergangsvorschriften zur Verordnung (EU) 2019/1111
+[Direktlink](https://www.gesetze-im-internet.de/intfamrvg/BJNR016210005.html#BJNR016210005BJNE005602360)
 
 Wenn für vor dem 1. August 2022 eingeleitete gerichtliche Verfahren,
 förmlich errichtete oder eingetragene öffentliche Urkunden und

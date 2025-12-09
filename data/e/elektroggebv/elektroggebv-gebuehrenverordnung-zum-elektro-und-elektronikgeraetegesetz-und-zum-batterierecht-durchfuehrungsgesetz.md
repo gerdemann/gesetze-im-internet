@@ -24,6 +24,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2129-43-1 v. 6.7.2005 I 2020 (ElektroGKostV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000100000)
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes
 vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium
@@ -31,6 +32,7 @@ für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000204116)
 
 (1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und
 Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes
@@ -64,6 +66,7 @@ Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ## § 2 Gebührenermäßigung und Gebührenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000306130)
 
 (1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und
 Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes
@@ -111,6 +114,7 @@ Gebührenbescheids zuständig ist.
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000412130)
 
 (1) Diese Verordnung gilt auch für die Erhebung von Gebühren für
 gebührenfähige Leistungen, die am 7. Oktober 2025 bereits beantragt
@@ -138,6 +142,7 @@ geltenden Fassung ist § 2 Absatz 1 und 3 entsprechend anzuwenden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Elektro- und Elektronikgerätegesetz-
@@ -148,6 +153,7 @@ geändert worden ist, außer Kraft.
 (zu § 1 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/elektroggebv/BJNR177600015.html#BJNR177600015BJNE000611130)
 
 (Fundstelle: BGBl. 2025 I Nr. 187, S. 2 – 5)
 

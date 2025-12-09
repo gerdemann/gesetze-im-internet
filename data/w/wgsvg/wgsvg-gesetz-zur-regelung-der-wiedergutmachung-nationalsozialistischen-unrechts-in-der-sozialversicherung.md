@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## I. - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000100314)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE000801308)
 
 (1) Dieses Gesetz gilt für Versicherte, die Verfolgte im Sinne des
 Bundesentschädigungsgesetzes sind (Verfolgte) und durch die Verfolgung
@@ -62,6 +64,7 @@ vorliegt.
 
 
 ### § 2 Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE000901308)
 
 §§ 3 bis 7 des Zehnten Buches Sozialgesetzbuch gelten auch für
 Ersuchen der Versicherungsbehörden und der Organe der
@@ -69,6 +72,7 @@ Versicherungsträger, die in Durchführung dieses Gesetzes ergehen.
 
 
 ### § 3 Glaubhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001001308)
 
 (1) Für die Feststellung der nach diesem Gesetz erheblichen Tatsachen
 genügt es, wenn sie glaubhaft gemacht sind. Eine Tatsache ist
@@ -84,10 +88,12 @@ Sinne des § 156 des Strafgesetzbuches.
 
 
 ## II. - Gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000200314)
 
 
 
 ### § 4 Jahresarbeitsverdienst bei verfolgungsbedingtem Wechsel der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001101308)
 
 (1) Hat der Verfolgte wegen der Verfolgung seine Tätigkeit gewechselt
 und während der neuen Tätigkeit einen Arbeitsunfall erlitten, so ist
@@ -102,6 +108,7 @@ Mehraufwendungen werden ihnen vom Bund erstattet.
 
 
 ### § 5 Zahlungen ins Ausland an Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001201308)
 
 § 625 Abs. 1 Nr. 1 der Reichsversicherungsordnung gilt nicht für
 Verfolgte und ihre Hinterbliebenen, die nach dem 8. Mai 1945 und vor
@@ -113,6 +120,7 @@ Vertretung hat.
 
 
 ### § 6 Zahlungen ins Ausland an Deutsche
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001301308)
 
 § 13 Abs. 1, 2 und 4 des Fremdrentengesetzes gilt entsprechend für
 Verfolgte, die im Gebiet des Deutschen Reiches nach dem Stande vom 31.
@@ -123,10 +131,12 @@ Berechtigte diese Gebiete nach dem 8. Mai 1945 und vor dem 1. Januar
 
 
 ## III. - Gesetzliche Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000301308)
 
 
 
 ### § 7 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001401308)
 
 Die Vorschriften dieses Teils ergänzen zugunsten von Verfolgten die
 allgemein anzuwendenden Vorschriften des Sechsten Buches
@@ -134,10 +144,12 @@ Sozialgesetzbuch.
 
 
 ### 1. - Freiwillige Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000401308)
 
 
 
 #### § 8 Freiwillige Versicherung bei Beitragserstattung wegen Heirat
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001501308)
 
 Sind einer Verfolgten oder der Ehefrau eines Verfolgten, den sie vor
 dem 9. Mai 1945 geheiratet hat, in der Zeit vom 30. Januar 1933 bis
@@ -146,6 +158,7 @@ freiwillig versichern.
 
 
 #### § 9 Beitragsnachzahlung bei Beitragserstattung wegen Heirat
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001601308)
 
 Wer zur freiwilligen Versicherung bei Beitragserstattung wegen Heirat
 berechtigt ist, kann auf Antrag Beiträge für Zeiten vor Vollendung des
@@ -155,12 +168,14 @@ Beitragszeiten oder beitragsfreie Zeiten sind.
 
 
 #### § 10 Freiwillige Versicherung für pflichtversicherte Verfolgte
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001701308)
 
 Pflichtversicherte Verfolgte können sich freiwillig versichern, wenn
 sie die allgemeine Wartezeit erfüllt haben.
 
 
 #### § 10a Nachzahlung bei anzurechnenden Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE003100308)
 
 Elternteile, die zur freiwilligen Versicherung berechtigt sind und
 denen eine Kindererziehungszeit nach § 12a anzurechnen ist, können auf
@@ -175,10 +190,12 @@ Alter und von der Staatsangehörigkeit.
 
 
 ### 2. - Leistungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000501308)
 
 
 
 #### § 11 Gleichstellung nachgezahlter Beiträge mit Pflichtbeiträgen
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE001901308)
 
 Folgende nachgezahlte Beiträge stehen Pflichtbeiträgen für Zeiten
 einer versicherten Beschäftigung oder selbständigen Tätigkeit gleich:
@@ -221,6 +238,7 @@ einer versicherten Beschäftigung oder selbständigen Tätigkeit gleich:
 
 
 #### § 12 Gleichstellung von Zeiten einer Beschäftigung oder Tätigkeit mit Pflichtbeitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002001308)
 
 Als Pflichtbeitragszeiten gelten Zeiten, in denen ein Verfolgter eine
 rentenversicherungspflichtige Beschäftigung oder Tätigkeit ausgeübt
@@ -228,6 +246,7 @@ hat, für die aus Verfolgungsgründen Beiträge nicht gezahlt sind.
 
 
 #### § 12a Anrechnung von Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE003200308)
 
 Für die Anrechnung von Kindererziehungszeiten und
 Berücksichtigungszeiten wegen Kindererziehung nach dem Sechsten Buchs
@@ -245,6 +264,7 @@ nichterziehenden Ehegatten Verfolgungsgründe vorgelegen haben.
 
 
 #### § 13 Berücksichtigung von Anrechnungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002101308)
 
 (1) Hat der Verfolgte aus Verfolgungsgründen seine Lehrzeit,
 Fachschulausbildung oder Hochschulausbildung nicht abschließen können,
@@ -260,6 +280,7 @@ Höchstdauer anzuerkennen.
 
 
 #### § 14 Besondere Ermittlung der Entgeltpunkte für Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002202308)
 
 (1) Entgeltpunkte für Zeiten, in denen ein Verfolgter eine
 rentenversicherungspflichtige Beschäftigung oder Tätigkeit ausgeübt
@@ -286,6 +307,7 @@ gleichstehen.
 
 
 #### § 15 Bewertung von Verfolgungszeiten für pflichtversicherte Verfolgte
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002302308)
 
 Verfolgungszeiten werden bei der Ermittlung der Entgeltpunkte für
 einen pflichtversicherten Verfolgten wie Zeiten mit vollwertigen
@@ -312,6 +334,7 @@ einzuordnen wäre, ist die höhere Leistungsgruppe zugrunde zu legen.
 
 
 #### § 16 Gleichstellung von Verfolgungszeiten für den Leistungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002401308)
 
 Für Verfolgungszeiten, die der knappschaftlichen Rentenversicherung
 zugeordnet sind, werden zusätzliche Entgeltpunkte für ständige
@@ -321,6 +344,7 @@ Beschäftigungsmerkmalen ausgeübt hat.
 
 
 #### § 17 Entgeltpunkte für nachgezahlte Beiträge für Zeiten vor Rentenbeginn
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002501308)
 
 Für eine Rente werden Entgeltpunkte für nachgezahlte Beitragszeiten
 bei Beitragserstattung wegen Heirat auch dann ermittelt, wenn die
@@ -329,6 +353,7 @@ Erwerbsfähigkeit vor diesem Zeitpunkt eingetreten ist.
 
 
 #### § 17a Ausnahmen von der Anwendung des neuen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE003300308)
 
 (1) Durch das Rentenreformgesetz 1992 aufgehobene und durch das
 Sechste Buch Sozialgesetzbuch ersetzte Vorschriften sind auch nach dem
@@ -348,6 +373,7 @@ Entgeltpunkten ist entsprechend anzuwenden.
 
 
 #### § 17b Ausnahmen von der Anwendung des alten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE003400308)
 
 Die in § 294 Abs. 2 Nr. 3 des Sechsten Buches Sozialgesetzbuch
 getroffene Regelung gilt für die Zeit vom 17. Juli 1987 bis zum 31.
@@ -359,6 +385,7 @@ Personenkreis.
 
 
 #### § 17c Rentenbeginn in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE003500308)
 
 Wird durch eine Nachzahlung nach § 10a bis zum 31. Dezember 1994 oder
 durch die Anrechnung von Kindererziehungszeiten nach § 12a die
@@ -368,10 +395,12 @@ Versicherung von dem Kalendermonat an geleistet, zu dessen Beginn das
 
 
 ### 3. - Zahlung von Renten ins Ausland
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000600314)
 
 
 
 #### § 18 Zahlungen an Verfolgte
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002602308)
 
 (1) Verfolgte, die zwischen dem 30. Januar 1933 und dem 8. Mai 1945
 das Gebiet des Deutschen Reiches oder der Freien Stadt Danzig
@@ -407,6 +436,7 @@ der sozialen Sicherheit.
 
 
 #### § 19 Zahlungen an vertriebene Verfolgte
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002701308)
 
 (1) Vertriebenen Verfolgten im Sinne von § 1 Abs. 2 Nr. 1 des
 Bundesvertriebenengesetzes, die die in den Jahren 1938 und 1939 in das
@@ -444,10 +474,12 @@ der sozialen Sicherheit.
 
 
 ### 4. - Anwendung des Fremdrentengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNG000700314)
 
 
 
 #### § 20 Gleichstellung vertriebener Verfolgter mit Vertriebenen
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002803308)
 
 (1) Bei Anwendung des Fremdrentengesetzes stehen den anerkannten
 Vertriebenen im Sinne des Bundesvertriebenengesetzes vertriebene
@@ -478,6 +510,7 @@ zum 31. Dezember 1990 beantragt wird.
 
 
 #### § 21 Wiedereröffnung eines außerordentlichen Nachentrichtungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE002901308)
 
 (1) Verfolgte, für die erstmals nach § 20 Abs. 2 in der vom 1. Januar
 1990 an geltenden Fassung Beitragszeiten oder Beschäftigungszeiten
@@ -565,6 +598,7 @@ Regelung unberührt.
 
 
 #### § 22 Nachentrichtung für Zeiten der freiwilligen Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg/BJNR118460970.html#BJNR118460970BJNE003001308)
 
 (1) Verfolgte, für die erstmals nach § 20 Abs. 2 in der vom 1. Januar
 1990 an geltenden Fassung Beitragszeiten oder Beschäftigungszeiten

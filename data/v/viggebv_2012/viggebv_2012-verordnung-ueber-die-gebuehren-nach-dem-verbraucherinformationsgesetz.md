@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/viggebv_2012/BJNR234600012.html#BJNR234600012BJNE000100000)
 
 Auf Grund des § 7 Absatz 3 Satz 1 des Verbraucherinformationsgesetzes
 in der Fassung der Bekanntmachung vom 17. Oktober 2012 (BGBl. I S.
@@ -28,6 +29,7 @@ vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung:
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/viggebv_2012/BJNR234600012.html#BJNR234600012BJNE000201116)
 
 Behörden des Bundes erheben für individuell zurechenbare öffentliche
 Leistungen nach dem Verbraucherinformationsgesetz Gebühren nach
@@ -39,6 +41,7 @@ Bundesgebührengesetzes.
 
 
 ## § 2 Gebührenbemessung
+[Direktlink](https://www.gesetze-im-internet.de/viggebv_2012/BJNR234600012.html#BJNR234600012BJNE000300000)
 
 Die Gebühren bestimmen sich nach dem mit der Informationsgewährung
 verbundenen Personal- und Sachaufwand. Dieser beläuft sich auf 41 bis
@@ -46,6 +49,7 @@ verbundenen Personal- und Sachaufwand. Dieser beläuft sich auf 41 bis
 
 
 ## § 3 Befreiung und Ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/viggebv_2012/BJNR234600012.html#BJNR234600012BJNE000400000)
 
 Gebühren nach § 7 Absatz 1 Satz 1 des Verbraucherinformationsgesetzes
 können aus Gründen der Billigkeit oder des öffentlichen Interesses
@@ -53,6 +57,7 @@ ermäßigt oder erlassen werden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/viggebv_2012/BJNR234600012.html#BJNR234600012BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verbraucherinformationsgebührenverordnung vom

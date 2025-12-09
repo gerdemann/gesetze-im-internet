@@ -21,27 +21,32 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000100317)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000200317)
 
 -
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000300317)
 
 -
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000400317)
 
 -
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000500317)
 
 Begünstigte im Sinne der Richtlinien des Rats der Europäischen
 Wirtschaftsgemeinschaft über die Verwirklichung der
@@ -54,6 +59,7 @@ dieser Bescheinigungen zuständigen Behörden oder Stellen zu bestimmen.
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000600317)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -63,6 +69,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art VI
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_1/BJNR008490965.html#BJNR008490965BJNE000700317)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

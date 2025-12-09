@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000100000)
 
 Auf Grund des § 802k Absatz 4 der Zivilprozessordnung, der durch
 Artikel 3 Nummer 4 Buchstabe b des Gesetzes vom 22. Dezember 2011
@@ -28,6 +29,7 @@ der Justiz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000201125)
 
 Diese Verordnung gilt für Vermögensverzeichnisse, die nach § 802f
 Absatz 8 der Zivilprozessordnung oder nach § 284 Absatz 7 Satz 4 der
@@ -39,6 +41,7 @@ Hinterlegung anordnet.
 
 
 ## § 2 Vermögensverzeichnisregister
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000300000)
 
 Die Vermögensverzeichnisse werden in jedem Land von einem zentralen
 Vollstreckungsgericht in elektronischer Form in einem
@@ -46,6 +49,7 @@ Vermögensverzeichnisregister verwaltet.
 
 
 ## § 3 Errichtung und Form der Vermögensverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000401125)
 
 (1) Der Gerichtsvollzieher oder die Behörde, die zur Errichtung eines
 Vermögensverzeichnisses befugt ist, errichtet das Vermögensverzeichnis
@@ -79,6 +83,7 @@ Vermögensverzeichnis elektronisch nach § 4 Absatz 1 Satz 3 beizufügen.
 
 
 ## § 4 Elektronische Übermittlung der Vermögensverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000500000)
 
 (1) Der Gerichtsvollzieher oder die Behörde, die zur Errichtung eines
 Vermögensverzeichnisses befugt ist, übermittelt das
@@ -126,6 +131,7 @@ genutzt, ist ein geeignetes Verschlüsselungsverfahren zu verwenden.
 
 
 ## § 5 Hinterlegung der Vermögensverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000601125)
 
 (1) Das zentrale Vollstreckungsgericht prüft, ob die elektronische
 Übermittlung der Vermögensverzeichnisse die Anforderungen des § 4
@@ -164,6 +170,7 @@ ist. § 4 Absatz 2 gilt entsprechend.
 
 
 ## § 6 Löschung der Vermögensverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000700000)
 
 (1) Das zentrale Vollstreckungsgericht löscht das hinterlegte
 Vermögensverzeichnis im Vermögensverzeichnisregister nach Ablauf von
@@ -185,6 +192,7 @@ verwaltet wird.
 
 
 ## § 7 Einsichtnahme in das Vermögensverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000800000)
 
 (1) Die Einsichtnahme in das Vermögensverzeichnis erfolgt über eine
 zentrale und länderübergreifende Abfrage im Internet. Sie setzt eine
@@ -231,6 +239,7 @@ dieser Verfahren zu löschen.
 
 
 ## § 8 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE000900000)
 
 (1) Die Registrierung der Errichtungsberechtigten für die Übermittlung
 der Vermögensverzeichnisse (§ 1 in Verbindung mit § 3 Absatz 1) dient
@@ -258,6 +267,7 @@ Vollstreckungsgericht, das die Registrierung vorgenommen hat.
 
 
 ## § 9 Ende der Nutzungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE001000000)
 
 (1) Die Errichtungsberechtigung für Vermögensverzeichnisse endet, wenn
 dem Errichtungsberechtigten diese Aufgabe gesetzlich nicht mehr
@@ -293,11 +303,13 @@ erfordern. Die Absätze 1 bis 3 gelten entsprechend.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE001100000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vermvv/BJNR166300012.html#BJNR166300012BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

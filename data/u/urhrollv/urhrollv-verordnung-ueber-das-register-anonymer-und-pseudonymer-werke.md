@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000101377)
 
 Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September
 1965 (Bundesgesetzbl. I S. 1273) wird verordnet:
 
 
 ## § 1 Form des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000201377)
 
 (1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer
 Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist
@@ -50,6 +52,7 @@ schriftlich beim Patentamt einzureichen.
 
 
 ## § 2 Inhalt der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000301377)
 
 In das Register anonymer und pseudonymer Werke sind die laufende
 Nummer der Eintragung, der Tag, an dem der Antrag beim Patentamt
@@ -58,6 +61,7 @@ einzutragen.
 
 
 ## § 3 Alphabetisches Register
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000401377)
 
 Zum Register anonymer und pseudonymer Werke wird je ein alphabetisches
 Register der eingetragenen Urhebernamen einschließlich der Decknamen
@@ -66,12 +70,14 @@ geführt.
 
 
 ## § 4 Eintragungsschein
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000501377)
 
 Dem Antragsteller ist auf Verlangen eine Bescheinigung über die
 Eintragung auszustellen.
 
 
 ## § 5 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000602377)
 
 (1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym
 veröffentlichten Werkes in das Register werden folgende Gebühren
@@ -122,6 +128,7 @@ Markenamt entsprechend anzuwenden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000702377)
 
 In Angelegenheiten, die bei Inkrafttreten von Änderungen dieser
 Verordnung anhängig sind, bestimmen sich die Kosten weiterhin nach den
@@ -129,6 +136,7 @@ bisherigen Vorschriften.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/urhrollv/BJNR021050965.html#BJNR021050965BJNE000801377)
 
 Diese Verordnung tritt am 1. Januar 1966 in Kraft.
 

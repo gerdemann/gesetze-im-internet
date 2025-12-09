@@ -26,24 +26,29 @@ Mittelbare änderung durch
 
 
 ## Buch 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000032301)
 
 
 
 ### Abschnitt 1 - Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079100301)
 
 
 
 #### Titel 1 - Sachliche Zuständigkeit der Gerichte und Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079200301)
 
 
 
 ##### § 1 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000092301)
 
 Die sachliche Zuständigkeit der Gerichte wird durch das Gesetz über
 die Gerichtsverfassung bestimmt.
 
 
 ##### § 2 Bedeutung des Wertes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146600301)
 
 Kommt es nach den Vorschriften dieses Gesetzes oder des
 Gerichtsverfassungsgesetzes auf den Wert des Streitgegenstandes, des
@@ -52,6 +57,7 @@ gelten die nachfolgenden Vorschriften.
 
 
 ##### § 3 Wertfestsetzung nach freiem Ermessen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146700301)
 
 Der Wert wird von dem Gericht nach freiem Ermessen festgesetzt; es
 kann eine beantragte Beweisaufnahme sowie von Amts wegen die Einnahme
@@ -59,6 +65,7 @@ des Augenscheins und die Begutachtung durch Sachverständige anordnen.
 
 
 ##### § 4 Wertberechnung; Nebenforderungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146800301)
 
 (1) Für die Wertberechnung ist der Zeitpunkt der Einreichung der
 Klage, in der Rechtsmittelinstanz der Zeitpunkt der Einlegung des
@@ -73,6 +80,7 @@ werden, als Nebenforderungen anzusehen.
 
 
 ##### § 5 Mehrere Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146900301)
 
 Mehrere in einer Klage geltend gemachte Ansprüche werden
 zusammengerechnet; dies gilt nicht für den Gegenstand der Klage und
@@ -80,6 +88,7 @@ der Widerklage.
 
 
 ##### § 6 Besitz; Sicherstellung; Pfandrecht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147000301)
 
 Der Wert wird bestimmt: durch den Wert einer Sache, wenn es auf deren
 Besitz, und durch den Betrag einer Forderung, wenn es auf deren
@@ -88,6 +97,7 @@ Pfandrechts einen geringeren Wert, so ist dieser maßgebend.
 
 
 ##### § 7 Grunddienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000193301)
 
 Der Wert einer Grunddienstbarkeit wird durch den Wert, den sie für das
 herrschende Grundstück hat, und wenn der Betrag, um den sich der Wert
@@ -96,6 +106,7 @@ durch diesen Betrag bestimmt.
 
 
 ##### § 8 Pacht- oder Mietverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147100301)
 
 Ist das Bestehen oder die Dauer eines Pacht- oder Mietverhältnisses
 streitig, so ist der Betrag der auf die gesamte streitige Zeit
@@ -105,6 +116,7 @@ Wertberechnung entscheidend.
 
 
 ##### § 9 Wiederkehrende Nutzungen oder Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147200301)
 
 Der Wert des Rechts auf wiederkehrende Nutzungen oder Leistungen wird
 nach dem dreieinhalbfachen Wert des einjährigen Bezuges berechnet. Bei
@@ -113,11 +125,13 @@ Bezüge maßgebend, wenn er der geringere ist.
 
 
 ##### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147300301)
 
 (weggefallen)
 
 
 ##### § 11 Bindende Entscheidung über Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147400301)
 
 Ist die Unzuständigkeit eines Gerichts auf Grund der Vorschriften über
 die sachliche Zuständigkeit der Gerichte rechtskräftig ausgesprochen,
@@ -126,10 +140,12 @@ später anhängig wird.
 
 
 #### Titel 2 - Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000152301)
 
 
 
 ##### § 12 Allgemeiner Gerichtsstand; Begriff
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147500301)
 
 Das Gericht, bei dem eine Person ihren allgemeinen Gerichtsstand hat,
 ist für alle gegen sie zu erhebenden Klagen zuständig, sofern nicht
@@ -137,17 +153,20 @@ für eine Klage ein ausschließlicher Gerichtsstand begründet ist.
 
 
 ##### § 13 Allgemeiner Gerichtsstand des Wohnsitzes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147600301)
 
 Der allgemeine Gerichtsstand einer Person wird durch den Wohnsitz
 bestimmt.
 
 
 ##### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147700301)
 
 (weggefallen)
 
 
 ##### § 15 Allgemeiner Gerichtsstand für exterritoriale Deutsche
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147800301)
 
 (1) Deutsche, die das Recht der Exterritorialität genießen, sowie die
 im Ausland beschäftigten deutschen Angehörigen des öffentlichen
@@ -159,6 +178,7 @@ ihren allgemeinen Gerichtsstand beim Amtsgericht Schöneberg in Berlin.
 
 
 ##### § 16 Allgemeiner Gerichtsstand wohnsitzloser Personen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000292301)
 
 Der allgemeine Gerichtsstand einer Person, die keinen Wohnsitz hat,
 wird durch den Aufenthaltsort im Inland und, wenn ein solcher nicht
@@ -166,6 +186,7 @@ bekannt ist, durch den letzten Wohnsitz bestimmt.
 
 
 ##### § 17 Allgemeiner Gerichtsstand juristischer Personen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE147900301)
 
 (1) Der allgemeine Gerichtsstand der Gemeinden, der Korporationen
 sowie derjenigen Gesellschaften, Genossenschaften oder anderen Vereine
@@ -184,6 +205,7 @@ geregelter Gerichtsstand zulässig.
 
 
 ##### § 18 Allgemeiner Gerichtsstand des Fiskus
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148000301)
 
 Der allgemeine Gerichtsstand des Fiskus wird durch den Sitz der
 Behörde bestimmt, die berufen ist, den Fiskus in dem Rechtsstreit zu
@@ -191,6 +213,7 @@ vertreten.
 
 
 ##### § 19 Mehrere Gerichtsbezirke am Behördensitz
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148101311)
 
 Ist der Ort, an dem eine Behörde ihren Sitz hat, in mehrere
 Gerichtsbezirke geteilt, so wird der Bezirk, der im Sinne der §§ 17,
@@ -200,6 +223,7 @@ der Landesjustizverwaltung durch allgemeine Anordnung bestimmt.
 
 
 ##### § 19a Allgemeiner Gerichtsstand des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130302301)
 
 Der allgemeine Gerichtsstand eines Insolvenzverwalters für Klagen, die
 sich auf die Insolvenzmasse beziehen, wird durch den Sitz des
@@ -207,6 +231,7 @@ Insolvenzgerichts bestimmt.
 
 
 ##### § 19b Ausschließlicher Gerichtsstand bei restrukturierungsbezogenen Klagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168200125)
 
 (1) Für Klagen, die sich auf Restrukturierungssachen nach dem
 Unternehmensstabilisierungs- und -restrukturierungsgesetz beziehen,
@@ -223,6 +248,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ##### § 20 Besonderer Gerichtsstand des Aufenthaltsorts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148200301)
 
 Wenn Personen an einem Ort unter Verhältnissen, die ihrer Natur nach
 auf einen Aufenthalt von längerer Dauer hinweisen, insbesondere als
@@ -233,6 +259,7 @@ vermögensrechtlicher Ansprüche erhoben werden.
 
 
 ##### § 21 Besonderer Gerichtsstand der Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148300301)
 
 (1) Hat jemand zum Betrieb einer Fabrik, einer Handlung oder eines
 anderen Gewerbes eine Niederlassung, von der aus unmittelbar Geschäfte
@@ -248,6 +275,7 @@ beziehenden Rechtsverhältnisse betreffen.
 
 
 ##### § 22 Besonderer Gerichtsstand der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148401160)
 
 Das Gericht, bei dem Gemeinden, Korporationen, Gesellschaften,
 Genossenschaften oder andere Vereine den allgemeinen Gerichtsstand
@@ -257,6 +285,7 @@ Mitgliedern in dieser Eigenschaft gegeneinander erhoben werden.
 
 
 ##### § 23 Besonderer Gerichtsstand des Vermögens und des Gegenstands
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148500301)
 
 Für Klagen wegen vermögensrechtlicher Ansprüche gegen eine Person, die
 im Inland keinen Wohnsitz hat, ist das Gericht zuständig, in dessen
@@ -268,6 +297,7 @@ Sache sich befindet.
 
 
 ##### § 24 Ausschließlicher dinglicher Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148700301)
 
 (1) Für Klagen, durch die das Eigentum, eine dingliche Belastung oder
 die Freiheit von einer solchen geltend gemacht wird, für
@@ -281,6 +311,7 @@ belasteten Grundstücks entscheidend.
 
 
 ##### § 25 Dinglicher Gerichtsstand des Sachzusammenhanges
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000392301)
 
 In dem dinglichen Gerichtsstand kann mit der Klage aus einer Hypothek,
 Grundschuld oder Rentenschuld die Schuldklage, mit der Klage auf
@@ -292,6 +323,7 @@ Klagen gegen denselben Beklagten gerichtet sind.
 
 
 ##### § 26 Dinglicher Gerichtsstand für persönliche Klagen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148800301)
 
 In dem dinglichen Gerichtsstand können persönliche Klagen, die gegen
 den Eigentümer oder Besitzer einer unbeweglichen Sache als solche
@@ -301,6 +333,7 @@ erhoben werden.
 
 
 ##### § 27 Besonderer Gerichtsstand der Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE148900301)
 
 (1) Klagen, welche die Feststellung des Erbrechts, Ansprüche des Erben
 gegen einen Erbschaftsbesitzer, Ansprüche aus Vermächtnissen oder
@@ -318,6 +351,7 @@ Abs. 1 Satz 2 entsprechend.
 
 
 ##### § 28 Erweiterter Gerichtsstand der Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149000301)
 
 In dem Gerichtsstand der Erbschaft können auch Klagen wegen anderer
 Nachlassverbindlichkeiten erhoben werden, solange sich der Nachlass
@@ -326,6 +360,7 @@ vorhandenen mehreren Erben noch als Gesamtschuldner haften.
 
 
 ##### § 29 Besonderer Gerichtsstand des Erfüllungsorts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149100301)
 
 (1) Für Streitigkeiten aus einem Vertragsverhältnis und über dessen
 Bestehen ist das Gericht des Ortes zuständig, an dem die streitige
@@ -338,6 +373,7 @@ Sondervermögen sind.
 
 
 ##### § 29a Ausschließlicher Gerichtsstand bei Miet- oder Pachträumen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149200301)
 
 (1) Für Streitigkeiten über Ansprüche aus Miet- oder
 Pachtverhältnissen über Räume oder über das Bestehen solcher
@@ -350,11 +386,13 @@ handelt.
 
 
 ##### § 29b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE128703301)
 
 -
 
 
 ##### § 29c Besonderer Gerichtsstand für Haustürgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143403311)
 
 (1) Für Klagen aus außerhalb von Geschäftsräumen geschlossenen
 Verträgen (§ 312b des Bürgerlichen Gesetzbuchs) ist das Gericht
@@ -379,6 +417,7 @@ der Klageerhebung nicht bekannt ist.
 
 
 ##### § 30 Gerichtsstand bei Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE142503311)
 
 (1) Für Rechtsstreitigkeiten aus einer Güterbeförderung ist auch das
 Gericht zuständig, in dessen Bezirk der Ort der Übernahme des Gutes
@@ -400,6 +439,7 @@ hat.
 
 
 ##### § 30a Gerichtsstand bei Bergungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165200311)
 
 Für Klagen wegen Ansprüchen aus Bergung von Schiffen oder sonstigen
 Vermögensgegenständen in einem Gewässer gegen eine Person, die im
@@ -408,6 +448,7 @@ der Kläger im Inland seinen allgemeinen Gerichtsstand hat.
 
 
 ##### § 31 Besonderer Gerichtsstand der Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149300301)
 
 Für Klagen, die aus einer Vermögensverwaltung von dem Geschäftsherrn
 gegen den Verwalter oder von dem Verwalter gegen den Geschäftsherrn
@@ -416,12 +457,14 @@ geführt ist.
 
 
 ##### § 32 Besonderer Gerichtsstand der unerlaubten Handlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149400301)
 
 Für Klagen aus unerlaubten Handlungen ist das Gericht zuständig, in
 dessen Bezirk die Handlung begangen ist.
 
 
 ##### § 32a Ausschließlicher Gerichtsstand der Umwelteinwirkung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158900301)
 
 Für Klagen gegen den Inhaber einer im Anhang 1 des
 Umwelthaftungsgesetzes genannten Anlage, mit denen der Ersatz eines
@@ -432,6 +475,7 @@ die Anlage im Ausland belegen ist.
 
 
 ##### § 32b Ausschließlicher Gerichtsstand bei musterverfahrensfähigen Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145605125)
 
 (1) Für Klagen, in denen ein in § 1 Absatz 1 des Kapitalanleger-
 Musterverfahrensgesetzes genannter Anspruch geltend gemacht wird, ist
@@ -464,6 +508,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ##### § 33 Besonderer Gerichtsstand der Widerklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149500301)
 
 (1) Bei dem Gericht der Klage kann eine Widerklage erhoben werden,
 wenn der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch
@@ -476,6 +521,7 @@ unzulässig ist.
 
 
 ##### § 34 Besonderer Gerichtsstand des Hauptprozesses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000482301)
 
 Für Klagen der Prozessbevollmächtigten, der Beistände, der
 Zustellungsbevollmächtigten und der Gerichtsvollzieher wegen Gebühren
@@ -483,11 +529,13 @@ und Auslagen ist das Gericht des Hauptprozesses zuständig.
 
 
 ##### § 35 Wahl unter mehreren Gerichtsständen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149600301)
 
 Unter mehreren zuständigen Gerichten hat der Kläger die Wahl.
 
 
 ##### § 36 Gerichtliche Bestimmung der Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149800301)
 
 (1) Das zuständige Gericht wird durch das im Rechtszug zunächst höhere
 Gericht bestimmt:
@@ -534,6 +582,7 @@ Bundesgerichtshof.
 
 
 ##### § 37 Verfahren bei gerichtlicher Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE149900301)
 
 (1) Die Entscheidung über das Gesuch um Bestimmung des zuständigen
 Gerichts ergeht durch Beschluss.
@@ -543,10 +592,12 @@ anfechtbar.
 
 
 #### Titel 3 - Vereinbarung über die Zuständigkeit der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000492301)
 
 
 
 ##### § 38 Zugelassene Gerichtsstandsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150000301)
 
 (1) Ein an sich unzuständiges Gericht des ersten Rechtszuges wird
 durch ausdrückliche oder stillschweigende Vereinbarung der Parteien
@@ -580,6 +631,7 @@ sie ausdrücklich und schriftlich
 
 
 ##### § 39 Zuständigkeit infolge rügeloser Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150100301)
 
 Die Zuständigkeit eines Gerichts des ersten Rechtszuges wird ferner
 dadurch begründet, dass der Beklagte, ohne die Unzuständigkeit geltend
@@ -588,6 +640,7 @@ die Belehrung nach § 504 unterblieben ist.
 
 
 ##### § 40 Unwirksame und unzulässige Gerichtsstandsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150200301)
 
 (1) Die Vereinbarung hat keine rechtliche Wirkung, wenn sie nicht auf
 ein bestimmtes Rechtsverhältnis und die aus ihm entspringenden
@@ -609,10 +662,12 @@ durch rügeloses Verhandeln zur Hauptsache begründet.
 
 
 #### Titel 4 - Ausschließung und Ablehnung der Gerichtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079300301)
 
 
 
 ##### § 41 Ausschluss von der Ausübung des Richteramtes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000584308)
 
 Ein Richter ist von der Ausübung des Richteramtes kraft Gesetzes
 ausgeschlossen:
@@ -661,6 +716,7 @@ ausgeschlossen:
 
 
 ##### § 42 Ablehnung eines Richters
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150300301)
 
 (1) Ein Richter kann sowohl in den Fällen, in denen er von der
 Ausübung des Richteramts kraft Gesetzes ausgeschlossen ist, als auch
@@ -674,6 +730,7 @@ Unparteilichkeit eines Richters zu rechtfertigen.
 
 
 ##### § 43 Verlust des Ablehnungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150400301)
 
 Eine Partei kann einen Richter wegen Besorgnis der Befangenheit nicht
 mehr ablehnen, wenn sie sich bei ihm, ohne den ihr bekannten
@@ -682,6 +739,7 @@ oder Anträge gestellt hat.
 
 
 ##### § 44 Ablehnungsgesuch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150501125)
 
 (1) Das Ablehnungsgesuch ist bei dem Gericht, dem der Richter
 angehört, anzubringen; es kann vor der Geschäftsstelle zu Protokoll
@@ -703,6 +761,7 @@ geworden sei. Das Ablehnungsgesuch ist unverzüglich anzubringen.
 
 
 ##### § 45 Entscheidung über das Ablehnungsgesuch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE005404301)
 
 (1) Über das Ablehnungsgesuch entscheidet das Gericht, dem der
 Abgelehnte angehört, ohne dessen Mitwirkung.
@@ -718,6 +777,7 @@ Rechtszug zunächst höhere Gericht.
 
 
 ##### § 46 Entscheidung und Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150600301)
 
 (1) Die Entscheidung über das Ablehnungsgesuch ergeht durch Beschluss.
 
@@ -728,6 +788,7 @@ statt.
 
 
 ##### § 47 Unaufschiebbare Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150700301)
 
 (1) Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs
 nur solche Handlungen vorzunehmen, die keinen Aufschub gestatten.
@@ -741,6 +802,7 @@ Verhandlung zu wiederholen.
 
 
 ##### § 48 Selbstablehnung; Ablehnung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150800301)
 
 Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat
 auch dann zu entscheiden, wenn ein solches Gesuch nicht angebracht
@@ -751,6 +813,7 @@ ausgeschlossen sei.
 
 
 ##### § 49 Urkundsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE150900301)
 
 Die Vorschriften dieses Titels sind auf den Urkundsbeamten der
 Geschäftsstelle entsprechend anzuwenden; die Entscheidung ergeht durch
@@ -758,19 +821,23 @@ das Gericht, bei dem er angestellt ist.
 
 
 ### Abschnitt 2 - Parteien
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000592301)
 
 
 
 #### Titel 1 - Parteifähigkeit; Prozessfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000602301)
 
 
 
 ##### § 50 Parteifähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000694125)
 
 Parteifähig ist, wer rechtsfähig ist.
 
 
 ##### § 51 Prozessfähigkeit; gesetzliche Vertretung; Prozessführung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151001125)
 
 (1) Die Fähigkeit einer Partei, vor Gericht zu stehen, die Vertretung
 nicht prozessfähiger Parteien durch andere Personen (gesetzliche
@@ -792,12 +859,14 @@ entfallen zu lassen.
 
 
 ##### § 52 Umfang der Prozessfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151101125)
 
 Eine Person ist insoweit prozessfähig, als sie sich durch Verträge
 verpflichten kann.
 
 
 ##### § 53 Prozessfähigkeit bei rechtlicher Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151201125)
 
 (1) Bei Personen, für die ein Betreuer bestellt ist, richtet sich die
 Prozessfähigkeit nach den allgemeinen Vorschriften.
@@ -814,6 +883,7 @@ Zukunft zurücknehmen.
 
 
 ##### § 54 Besondere Ermächtigung zu Prozesshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151400301)
 
 Einzelne Prozesshandlungen, zu denen nach den Vorschriften des
 bürgerlichen Rechts eine besondere Ermächtigung erforderlich ist, sind
@@ -823,6 +893,7 @@ Ermächtigung im Allgemeinen statthaft ist.
 
 
 ##### § 55 Prozessfähigkeit von Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151500301)
 
 Ein Ausländer, dem nach dem Recht seines Landes die Prozessfähigkeit
 mangelt, gilt als prozessfähig, wenn ihm nach dem Recht des
@@ -830,6 +901,7 @@ Prozessgerichts die Prozessfähigkeit zusteht.
 
 
 ##### § 56 Prüfung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151600301)
 
 (1) Das Gericht hat den Mangel der Parteifähigkeit, der
 Prozessfähigkeit, der Legitimation eines gesetzlichen Vertreters und
@@ -844,6 +916,7 @@ des Mangels zu bestimmende Frist abgelaufen ist.
 
 
 ##### § 57 Prozesspfleger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151700301)
 
 (1) Soll eine nicht prozessfähige Partei verklagt werden, die ohne
 gesetzlichen Vertreter ist, so hat ihr der Vorsitzende des
@@ -857,6 +930,7 @@ ihres Aufenthaltsortes verklagt werden soll.
 
 
 ##### § 58 Prozesspfleger bei herrenlosem Grundstück oder Schiff
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151800301)
 
 (1) Soll ein Recht an einem Grundstück, das von dem bisherigen
 Eigentümer nach § 928 des Bürgerlichen Gesetzbuchs aufgegeben und von
@@ -876,10 +950,12 @@ noch nicht erworben worden ist.
 
 
 #### Titel 2 - Streitgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000762301)
 
 
 
 ##### § 59 Streitgenossenschaft bei Rechtsgemeinschaft oder Identität des Grundes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000792301)
 
 Mehrere Personen können als Streitgenossen gemeinschaftlich klagen
 oder verklagt werden, wenn sie hinsichtlich des Streitgegenstandes in
@@ -888,6 +964,7 @@ und rechtlichen Grund berechtigt oder verpflichtet sind.
 
 
 ##### § 60 Streitgenossenschaft bei Gleichartigkeit der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE151900301)
 
 Mehrere Personen können auch dann als Streitgenossen gemeinschaftlich
 klagen oder verklagt werden, wenn gleichartige und auf einem im
@@ -897,6 +974,7 @@ Rechtsstreits bilden.
 
 
 ##### § 61 Wirkung der Streitgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152000301)
 
 Streitgenossen stehen, soweit nicht aus den Vorschriften des
 bürgerlichen Rechts oder dieses Gesetzes sich ein anderes ergibt, dem
@@ -906,6 +984,7 @@ gereichen.
 
 
 ##### § 62 Notwendige Streitgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152100301)
 
 (1) Kann das streitige Rechtsverhältnis allen Streitgenossen gegenüber
 nur einheitlich festgestellt werden oder ist die Streitgenossenschaft
@@ -919,16 +998,19 @@ zuzuziehen.
 
 
 ##### § 63 Prozessbetrieb; Ladungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152200301)
 
 Das Recht zur Betreibung des Prozesses steht jedem Streitgenossen zu;
 zu allen Terminen sind sämtliche Streitgenossen zu laden.
 
 
 #### Titel 3 - Beteiligung Dritter am Rechtsstreit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079400301)
 
 
 
 ##### § 64 Hauptintervention
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152300301)
 
 Wer die Sache oder das Recht, worüber zwischen anderen Personen ein
 Rechtsstreit anhängig geworden ist, ganz oder teilweise für sich in
@@ -939,12 +1021,14 @@ der Rechtsstreit im ersten Rechtszug anhängig wurde.
 
 
 ##### § 65 Aussetzung des Hauptprozesses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152400301)
 
 Der Hauptprozess kann auf Antrag einer Partei bis zur rechtskräftigen
 Entscheidung über die Hauptintervention ausgesetzt werden.
 
 
 ##### § 66 Nebenintervention
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152500301)
 
 (1) Wer ein rechtliches Interesse daran hat, dass in einem zwischen
 anderen Personen anhängigen Rechtsstreit die eine Partei obsiege, kann
@@ -956,6 +1040,7 @@ eines Rechtsmittels, erfolgen.
 
 
 ##### § 67 Rechtsstellung des Nebenintervenienten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000893125)
 
 Der Nebenintervenient muss den Rechtsstreit in der Lage annehmen, in
 der er sich zur Zeit seines Beitritts befindet; er ist berechtigt,
@@ -967,6 +1052,7 @@ Absatz 3 entsprechend.
 
 
 ##### § 68 Wirkung der Nebenintervention
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152600301)
 
 Der Nebenintervenient wird im Verhältnis zu der Hauptpartei mit der
 Behauptung nicht gehört, dass der Rechtsstreit, wie er dem Richter
@@ -981,6 +1067,7 @@ Verschulden nicht geltend gemacht sind.
 
 
 ##### § 69 Streitgenössische Nebenintervention
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152700301)
 
 Insofern nach den Vorschriften des bürgerlichen Rechts die Rechtskraft
 der in dem Hauptprozess erlassenen Entscheidung auf das
@@ -990,6 +1077,7 @@ der Hauptpartei.
 
 
 ##### § 70 Beitritt des Nebenintervenienten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152800301)
 
 (1) Der Beitritt des Nebenintervenienten erfolgt durch Einreichung
 eines Schriftsatzes bei dem Prozessgericht und, wenn er mit der
@@ -1013,6 +1101,7 @@ vorbereitenden Schriftsätze.
 
 
 ##### § 71 Zwischenstreit über Nebenintervention
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE152900301)
 
 (1) Über den Antrag auf Zurückweisung einer Nebenintervention wird
 nach mündlicher Verhandlung unter den Parteien und dem
@@ -1026,6 +1115,7 @@ ausgesprochen ist, wird der Intervenient im Hauptverfahren zugezogen.
 
 
 ##### § 72 Zulässigkeit der Streitverkündung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153001301)
 
 (1) Eine Partei, die für den Fall des ihr ungünstigen Ausganges des
 Rechtsstreits einen Anspruch auf Gewährleistung oder Schadloshaltung
@@ -1041,6 +1131,7 @@ anzuwenden.
 
 
 ##### § 73 Form der Streitverkündung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153100301)
 
 Zum Zwecke der Streitverkündung hat die Partei einen Schriftsatz
 einzureichen, in dem der Grund der Streitverkündung und die Lage des
@@ -1051,6 +1142,7 @@ Dritten wirksam.
 
 
 ##### § 74 Wirkung der Streitverkündung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153200301)
 
 (1) Wenn der Dritte dem Streitverkünder beitritt, so bestimmt sich
 sein Verhältnis zu den Parteien nach den Grundsätzen über die
@@ -1066,6 +1158,7 @@ infolge der Streitverkündung möglich war.
 
 
 ##### § 75 Gläubigerstreit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153300301)
 
 Wird von dem verklagten Schuldner einem Dritten, der die geltend
 gemachte Forderung für sich in Anspruch nimmt, der Streit verkündet
@@ -1083,6 +1176,7 @@ verurteilen.
 
 
 ##### § 76 Urheberbenennung bei Besitz
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153400301)
 
 (1) Wer als Besitzer einer Sache verklagt ist, die er auf Grund eines
 Rechtsverhältnisses der im § 868 des Bürgerlichen Gesetzbuchs
@@ -1112,6 +1206,7 @@ vollstreckbar.
 
 
 ##### § 77 Urheberbenennung bei Eigentumsbeeinträchtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE000992301)
 
 Ist von dem Eigentümer einer Sache oder von demjenigen, dem ein Recht
 an einer Sache zusteht, wegen einer Beeinträchtigung des Eigentums
@@ -1123,10 +1218,12 @@ haben behauptet.
 
 
 #### Titel 4 - Prozessbevollmächtigte und Beistände
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG000912301)
 
 
 
 ##### § 78 Anwaltsprozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE009216160)
 
 (1) Vor den Landgerichten und Oberlandesgerichten müssen sich die
 Parteien durch einen Rechtsanwalt vertreten lassen. Ist in einem Land
@@ -1156,11 +1253,13 @@ Vertretung berechtigt ist, kann sich selbst vertreten.
 
 
 ##### § 78a
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE009303301)
 
 (weggefallen)
 
 
 ##### § 78b Notanwalt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052402301)
 
 (1) Insoweit eine Vertretung durch Anwälte geboten ist, hat das
 Prozessgericht einer Partei auf ihren Antrag durch Beschluss für den
@@ -1174,6 +1273,7 @@ abgelehnt wird, findet die sofortige Beschwerde statt.
 
 
 ##### § 78c Auswahl des Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157101301)
 
 (1) Der nach § 78b beizuordnende Rechtsanwalt wird durch den
 Vorsitzenden des Gerichts aus der Zahl der in dem Bezirk des
@@ -1191,6 +1291,7 @@ Abs. 2 der Bundesrechtsanwaltsordnung), ablehnt.
 
 
 ##### § 79 Parteiprozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153504125)
 
 (1) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist,
 können die Parteien den Rechtsstreit selbst führen. Parteien, die eine
@@ -1256,6 +1357,7 @@ auftreten, dem sie angehören. Absatz 3 Satz 1 und 2 gilt entsprechend.
 
 
 ##### § 80 Prozessvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153601301)
 
 Die Vollmacht ist schriftlich zu den Gerichtsakten einzureichen. Sie
 kann nachgereicht werden; hierfür kann das Gericht eine Frist
@@ -1263,6 +1365,7 @@ bestimmen.
 
 
 ##### § 81 Umfang der Prozessvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153700301)
 
 Die Prozessvollmacht ermächtigt zu allen den Rechtsstreit betreffenden
 Prozesshandlungen, einschließlich derjenigen, die durch eine
@@ -1276,6 +1379,7 @@ Staatskasse zu erstattenden Kosten.
 
 
 ##### § 82 Geltung für Nebenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153800301)
 
 Die Vollmacht für den Hauptprozess umfasst die Vollmacht für das eine
 Hauptintervention, einen Arrest oder eine einstweilige Verfügung
@@ -1283,6 +1387,7 @@ betreffende Verfahren.
 
 
 ##### § 83 Beschränkung der Prozessvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE153900301)
 
 (1) Eine Beschränkung des gesetzlichen Umfanges der Vollmacht hat dem
 Gegner gegenüber nur insoweit rechtliche Wirkung, als diese
@@ -1295,6 +1400,7 @@ eine Vollmacht für einzelne Prozesshandlungen erteilt werden.
 
 
 ##### § 84 Mehrere Prozessbevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE001092301)
 
 Mehrere Bevollmächtigte sind berechtigt, sowohl gemeinschaftlich als
 einzeln die Partei zu vertreten. Eine abweichende Bestimmung der
@@ -1302,6 +1408,7 @@ Vollmacht hat dem Gegner gegenüber keine rechtliche Wirkung.
 
 
 ##### § 85 Wirkung der Prozessvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154000301)
 
 (1) Die von dem Bevollmächtigten vorgenommenen Prozesshandlungen sind
 für die Partei in gleicher Art verpflichtend, als wenn sie von der
@@ -1314,6 +1421,7 @@ Partei gleich.
 
 
 ##### § 86 Fortbestand der Prozessvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154100301)
 
 Die Vollmacht wird weder durch den Tod des Vollmachtgebers noch durch
 eine Veränderung in seiner Prozessfähigkeit oder seiner gesetzlichen
@@ -1323,6 +1431,7 @@ auftritt, dessen Vollmacht beizubringen.
 
 
 ##### § 87 Erlöschen der Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154200301)
 
 (1) Dem Gegner gegenüber erlangt die Kündigung des Vollmachtvertrags
 erst durch die Anzeige des Erlöschens der Vollmacht, in
@@ -1335,6 +1444,7 @@ bis dieser für Wahrnehmung seiner Rechte in anderer Weise gesorgt hat.
 
 
 ##### § 88 Mangel der Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154300301)
 
 (1) Der Mangel der Vollmacht kann von dem Gegner in jeder Lage des
 Rechtsstreits gerügt werden.
@@ -1345,6 +1455,7 @@ auftritt.
 
 
 ##### § 89 Vollmachtloser Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154400301)
 
 (1) Handelt jemand für eine Partei als Geschäftsführer ohne Auftrag
 oder als Bevollmächtigter ohne Beibringung einer Vollmacht, so kann er
@@ -1363,6 +1474,7 @@ Prozessführung ausdrücklich oder stillschweigend genehmigt hat.
 
 
 ##### § 90 Beistand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154501301)
 
 (1) In der Verhandlung können die Parteien mit Beiständen erscheinen.
 Beistand kann sein, wer in Verfahren, in denen die Partei den
@@ -1378,10 +1490,12 @@ berichtigt wird.
 
 
 #### Titel 5 - Prozesskosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG001072301)
 
 
 
 ##### § 91 Grundsatz und Umfang der Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154602125)
 
 (1) Die unterliegende Partei hat die Kosten des Rechtsstreits zu
 tragen, insbesondere die dem Gegner erwachsenen Kosten zu erstatten,
@@ -1423,6 +1537,7 @@ andere Weise beendet wird.
 
 
 ##### § 91a Kosten bei Erledigung der Hauptsache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154700301)
 
 (1) Haben die Parteien in der mündlichen Verhandlung oder durch
 Einreichung eines Schriftsatzes oder zu Protokoll der Geschäftsstelle
@@ -1441,6 +1556,7 @@ der Gegner zu hören.
 
 
 ##### § 92 Kosten bei teilweisem Obsiegen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154800301)
 
 (1) Wenn jede Partei teils obsiegt, teils unterliegt, so sind die
 Kosten gegeneinander aufzuheben oder verhältnismäßig zu teilen. Sind
@@ -1463,6 +1579,7 @@ auferlegen, wenn
 
 
 ##### § 93 Kosten bei sofortigem Anerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE001192301)
 
 Hat der Beklagte nicht durch sein Verhalten zur Erhebung der Klage
 Veranlassung gegeben, so fallen dem Kläger die Prozesskosten zur Last,
@@ -1470,11 +1587,13 @@ wenn der Beklagte den Anspruch sofort anerkennt.
 
 
 ##### § 93a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE154901160)
 
 -
 
 
 ##### § 93b Kosten bei Räumungsklagen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155000301)
 
 (1) Wird einer Klage auf Räumung von Wohnraum mit Rücksicht darauf
 stattgegeben, dass ein Verlangen des Beklagten auf Fortsetzung des
@@ -1506,6 +1625,7 @@ angemessene Räumungsfrist vom Kläger vergeblich begehrt hatte.
 
 
 ##### § 94 Kosten bei übergegangenem Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155300301)
 
 Macht der Kläger einen auf ihn übergangenen Anspruch geltend, ohne
 dass er vor der Erhebung der Klage dem Beklagten den Übergang
@@ -1516,6 +1636,7 @@ veranlasst worden ist, den Anspruch zu bestreiten.
 
 
 ##### § 95 Kosten bei Säumnis oder Verschulden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155400301)
 
 Die Partei, die einen Termin oder eine Frist versäumt oder die
 Verlegung eines Termins, die Vertagung einer Verhandlung, die
@@ -1525,6 +1646,7 @@ dadurch verursachten Kosten zu tragen.
 
 
 ##### § 96 Kosten erfolgloser Angriffs- oder Verteidigungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155500301)
 
 Die Kosten eines ohne Erfolg gebliebenen Angriffs- oder
 Verteidigungsmittels können der Partei auferlegt werden, die es
@@ -1532,6 +1654,7 @@ geltend gemacht hat, auch wenn sie in der Hauptsache obsiegt.
 
 
 ##### § 97 Rechtsmittelkosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155601160)
 
 (1) Die Kosten eines ohne Erfolg eingelegten Rechtsmittels fallen der
 Partei zur Last, die es eingelegt hat.
@@ -1545,6 +1668,7 @@ machen imstande war.
 
 
 ##### § 98 Vergleichskosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155700301)
 
 Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander
 aufgehoben anzusehen, wenn nicht die Parteien ein anderes vereinbart
@@ -1554,6 +1678,7 @@ ist.
 
 
 ##### § 99 Anfechtung von Kostenentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE001283301)
 
 (1) Die Anfechtung der Kostenentscheidung ist unzulässig, wenn nicht
 gegen die Entscheidung in der Hauptsache ein Rechtsmittel eingelegt
@@ -1568,6 +1693,7 @@ hören.
 
 
 ##### § 100 Kosten bei Streitgenossen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155800301)
 
 (1) Besteht der unterliegende Teil aus mehreren Personen, so haften
 sie für die Kostenerstattung nach Kopfteilen.
@@ -1588,6 +1714,7 @@ Kosten erstreckt, bleiben unberührt.
 
 
 ##### § 101 Kosten einer Nebenintervention
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE155900301)
 
 (1) Die durch eine Nebenintervention verursachten Kosten sind dem
 Gegner der Hauptpartei aufzuerlegen, soweit er nach den Vorschriften
@@ -1600,11 +1727,13 @@ aufzuerlegen.
 
 
 ##### § 102
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156000301)
 
 (weggefallen)
 
 
 ##### § 103 Kostenfestsetzungsgrundlage; Kostenfestsetzungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156100301)
 
 (1) Der Anspruch auf Erstattung der Prozesskosten kann nur auf Grund
 eines zur Zwangsvollstreckung geeigneten Titels geltend gemacht
@@ -1617,6 +1746,7 @@ Rechtfertigung der einzelnen Ansätze dienenden Belege sind beizufügen.
 
 
 ##### § 104 Kostenfestsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156201301)
 
 (1) Über den Festsetzungsantrag entscheidet das Gericht des ersten
 Rechtszuges. Auf Antrag ist auszusprechen, dass die festgesetzten
@@ -1643,6 +1773,7 @@ auf die der Festsetzungsantrag gestützt wird, rechtskräftig ist.
 
 
 ##### § 105 Vereinfachter Kostenfestsetzungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156300301)
 
 (1) Der Festsetzungsbeschluss kann auf das Urteil und die
 Ausfertigungen gesetzt werden, sofern bei Eingang des Antrags eine
@@ -1667,6 +1798,7 @@ Kostenberechnung von Amts wegen anzufertigen.
 
 
 ##### § 106 Verteilung nach Quoten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156400301)
 
 (1) Sind die Prozesskosten ganz oder teilweise nach Quoten verteilt,
 so hat nach Eingang des Festsetzungsantrags das Gericht den Gegner
@@ -1682,6 +1814,7 @@ nachträgliche Verfahren entstehen.
 
 
 ##### § 107 Änderung nach Streitwertfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156500301)
 
 (1) Ergeht nach der Kostenfestsetzung eine Entscheidung, durch die der
 Wert des Streitgegenstandes festgesetzt wird, so ist, falls diese
@@ -1699,10 +1832,12 @@ des Streitgegenstandes festsetzenden Beschlusses.
 
 
 #### Titel 6 - Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG001292301)
 
 
 
 ##### § 108 Art und Höhe der Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE001352301)
 
 (1) In den Fällen der Bestellung einer prozessualen Sicherheit kann
 das Gericht nach freiem Ermessen bestimmen, in welcher Art und Höhe
@@ -1720,6 +1855,7 @@ Gesetzbuchs sind entsprechend anzuwenden.
 
 
 ##### § 109 Rückgabe der Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156600301)
 
 (1) Ist die Veranlassung für eine Sicherheitsleistung weggefallen, so
 hat auf Antrag das Gericht, das die Bestellung der Sicherheit
@@ -1745,6 +1881,7 @@ zu.
 
 
 ##### § 110 Prozesskostensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156700301)
 
 (1) Kläger, die ihren gewöhnlichen Aufenthalt nicht in einem
 Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des
@@ -1777,6 +1914,7 @@ Verlangen des Beklagten wegen der Prozesskosten Sicherheit.
 
 
 ##### § 111 Nachträgliche Prozesskostensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156800301)
 
 Der Beklagte kann auch dann Sicherheit verlangen, wenn die
 Voraussetzungen für die Verpflichtung zur Sicherheitsleistung erst im
@@ -1785,6 +1923,7 @@ ausreichender Teil des erhobenen Anspruchs unbestritten ist.
 
 
 ##### § 112 Höhe der Prozesskostensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE156900301)
 
 (1) Die Höhe der zu leistenden Sicherheit wird von dem Gericht nach
 freiem Ermessen festgesetzt.
@@ -1801,6 +1940,7 @@ ausreichender Teil des erhobenen Anspruchs unbestritten ist.
 
 
 ##### § 113 Fristbestimmung für Prozesskostensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157000301)
 
 Das Gericht hat dem Kläger bei Anordnung der Sicherheitsleistung eine
 Frist zu bestimmen, binnen der die Sicherheit zu leisten ist. Nach
@@ -1811,10 +1951,12 @@ ist, dieses zu verwerfen.
 
 
 #### Titel 7 - Prozesskostenhilfe und Prozesskostenvorschuss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG052302301)
 
 
 
 ##### § 114 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157201311)
 
 (1) Eine Partei, die nach ihren persönlichen und wirtschaftlichen
 Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder
@@ -1832,6 +1974,7 @@ auf Erfolg besteht.
 
 
 ##### § 115 Einsatz von Einkommen und Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052711125)
 
 (1) Die Partei hat ihr Einkommen einzusetzen. Zum Einkommen gehören
 alle Einkünfte in Geld oder Geldeswert. Von ihm sind abzusetzen:
@@ -1919,6 +2062,7 @@ aufzubringenden Teilbeträge voraussichtlich nicht übersteigen.
 
 
 ##### § 116 Partei kraft Amtes; juristische Person; parteifähige Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157302311)
 
 Prozesskostenhilfe erhalten auf Antrag
 
@@ -1945,6 +2089,7 @@ werden, so sind die entsprechenden Beträge zu zahlen.
 
 
 ##### § 117 Antrag; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157404125)
 
 (1) Der Antrag auf Bewilligung der Prozesskostenhilfe ist bei dem
 Prozessgericht zu stellen; er kann vor der Geschäftsstelle zu
@@ -1976,6 +2121,7 @@ Geschäftsstelle die Erklärung auch zu Protokoll aufnehmen.
 
 
 ##### § 118 Bewilligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157502125)
 
 (1) Dem Gegner ist Gelegenheit zur Stellungnahme zu geben, ob er die
 Voraussetzungen für die Bewilligung von Prozesskostenhilfe für gegeben
@@ -2009,6 +2155,7 @@ durchgeführt.
 
 
 ##### § 119 Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157601311)
 
 (1) Die Bewilligung der Prozesskostenhilfe erfolgt für jeden Rechtszug
 besonders. In einem höheren Rechtszug ist nicht zu prüfen, ob die
@@ -2023,6 +2170,7 @@ Abgabe der Vermögensauskunft und der eidesstattlichen Versicherung.
 
 
 ##### § 120 Festsetzung von Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157701311)
 
 (1) Mit der Bewilligung der Prozesskostenhilfe setzt das Gericht zu
 zahlende Monatsraten und aus dem Vermögen zu zahlende Beträge fest.
@@ -2056,6 +2204,7 @@ bestimmen,
 
 
 ##### § 120a Änderung der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165301125)
 
 (1) Das Gericht soll die Entscheidung über die zu leistenden Zahlungen
 ändern, wenn sich die für die Prozesskostenhilfe maßgebenden
@@ -2099,6 +2248,7 @@ gemäß § 117 Absatz 3 eingeführte Formular benutzen. Für die
 
 
 ##### § 121 Beiordnung eines Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157801301)
 
 (1) Ist eine Vertretung durch Anwälte vorgeschrieben, wird der Partei
 ein zur Vertretung bereiter Rechtsanwalt ihrer Wahl beigeordnet.
@@ -2124,6 +2274,7 @@ der Vorsitzende ihr auf Antrag einen Rechtsanwalt bei.
 
 
 ##### § 122 Wirkung der Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE157900301)
 
 (1) Die Bewilligung der Prozesskostenhilfe bewirkt, dass
 
@@ -2161,12 +2312,14 @@ Buchstabe a bezeichneten Kosten zur Folge.
 
 
 ##### § 123 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158000301)
 
 Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die
 dem Gegner entstandenen Kosten zu erstatten, keinen Einfluss.
 
 
 ##### § 124 Aufhebung der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158101311)
 
 (1) Das Gericht soll die Bewilligung der Prozesskostenhilfe aufheben,
 wenn
@@ -2208,6 +2361,7 @@ auf Erfolg bietet oder der Beweisantritt mutwillig erscheint.
 
 
 ##### § 125 Einziehung der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158200301)
 
 (1) Die Gerichtskosten und die Gerichtsvollzieherkosten können von dem
 Gegner erst eingezogen werden, wenn er rechtskräftig in die
@@ -2220,6 +2374,7 @@ Kosten beendet ist.
 
 
 ##### § 126 Beitreibung der Rechtsanwaltskosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158300301)
 
 (1) Die für die Partei bestellten Rechtsanwälte sind berechtigt, ihre
 Gebühren und Auslagen von dem in die Prozesskosten verurteilten Gegner
@@ -2232,6 +2387,7 @@ erstatten sind.
 
 
 ##### § 127 Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158402125)
 
 (1) Entscheidungen im Verfahren über die Prozesskostenhilfe ergehen
 ohne mündliche Verhandlung. Zuständig ist das Gericht des ersten
@@ -2267,14 +2423,17 @@ wegen mitgeteilt.
 
 
 ### Abschnitt 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG015502301)
 
 
 
 #### Titel 1 - Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG015602301)
 
 
 
 ##### § 128 Grundsatz der Mündlichkeit; schriftliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE015705125)
 
 (1) Die Parteien verhandeln über den Rechtsstreit vor dem erkennenden
 Gericht mündlich.
@@ -2295,6 +2454,7 @@ mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
 
 ##### § 128a Videoverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE142904125)
 
 (1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit
 ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung
@@ -2341,6 +2501,7 @@ Satz 2 bleibt unberührt.
 
 
 ##### § 129 Vorbereitende Schriftsätze
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE015802301)
 
 (1) In Anwaltsprozessen wird die mündliche Verhandlung durch
 Schriftsätze vorbereitet.
@@ -2352,6 +2513,7 @@ Erklärungen vorzubereiten.
 
 
 ##### § 129a Anträge und Erklärungen zu Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE015904125)
 
 (1) Anträge und Erklärungen, deren Abgabe vor dem Urkundsbeamten der
 Geschäftsstelle zulässig ist, können vor der Geschäftsstelle eines
@@ -2373,6 +2535,7 @@ hat, mit seiner Zustimmung überlassen werden.
 
 
 ##### § 130 Inhalt der Schriftsätze
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016004311)
 
 Die vorbereitenden Schriftsätze sollen enthalten:
 
@@ -2410,6 +2573,7 @@ Die vorbereitenden Schriftsätze sollen enthalten:
 
 
 ##### § 130a Elektronisches Dokument; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE142609125)
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Parteien sowie schriftlich
@@ -2495,6 +2659,7 @@ eingereichten Dokument inhaltlich übereinstimmt.
 
 
 ##### § 130b Gerichtliches elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145102311)
 
 Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem
 Urkundsbeamten der Geschäftsstelle oder dem Gerichtsvollzieher die
@@ -2508,6 +2673,7 @@ das handschriftlich unterzeichnete Schriftstück gemäß § 298a Absatz 2
 
 
 ##### § 130c Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165402125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates elektronische
@@ -2524,6 +2690,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 
 
 ##### § 130d Nutzungspflicht für Rechtsanwälte und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165500311)
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -2538,6 +2705,7 @@ machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 ##### § 130e Formfiktion
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169400125)
 
 Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen
 oder elektronischen Form bedarf, klar erkennbar in einem
@@ -2550,6 +2718,7 @@ ausgeschlossen ist.
 
 
 ##### § 131 Beifügung von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016103311)
 
 (1) Dem vorbereitenden Schriftsatz sind die in den Händen der Partei
 befindlichen Urkunden, auf die in dem Schriftsatz Bezug genommen wird,
@@ -2565,6 +2734,7 @@ zu gewähren.
 
 
 ##### § 132 Fristen für Schriftsätze
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016202301)
 
 (1) Der vorbereitende Schriftsatz, der neue Tatsachen oder ein anderes
 neues Vorbringen enthält, ist so rechtzeitig einzureichen, dass er
@@ -2580,6 +2750,7 @@ Gegenerklärung in einem Zwischenstreit handelt.
 
 
 ##### § 133 Abschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016307301)
 
 (1) Die Parteien sollen den Schriftsätzen, die sie bei dem Gericht
 einreichen, die für die Zustellung erforderliche Zahl von Abschriften
@@ -2594,6 +2765,7 @@ bei dem Gericht einzureichen.
 
 
 ##### § 134 Einsicht von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016402301)
 
 (1) Die Partei ist, wenn sie rechtzeitig aufgefordert wird,
 verpflichtet, die in ihren Händen befindlichen Urkunden, auf die sie
@@ -2607,6 +2779,7 @@ abgekürzt werden.
 
 
 ##### § 135 Mitteilung von Urkunden unter Rechtsanwälten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016502301)
 
 (1) Den Rechtsanwälten steht es frei, die Mitteilung von Urkunden von
 Hand zu Hand gegen Empfangsbescheinigung zu bewirken.
@@ -2619,6 +2792,7 @@ Verhandlung zur unverzüglichen Rückgabe zu verurteilen.
 
 
 ##### § 136 Prozessleitung durch Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016602301)
 
 (1) Der Vorsitzende eröffnet und leitet die Verhandlung.
 
@@ -2637,6 +2811,7 @@ Beschlüsse des Gerichts.
 
 
 ##### § 137 Gang der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016703301)
 
 (1) Die mündliche Verhandlung wird dadurch eingeleitet, dass die
 Parteien ihre Anträge stellen.
@@ -2655,6 +2830,7 @@ auf Antrag das Wort zu gestatten.
 
 
 ##### § 138 Erklärungspflicht über Tatsachen; Wahrheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016802301)
 
 (1) Die Parteien haben ihre Erklärungen über tatsächliche Umstände
 vollständig und der Wahrheit gemäß abzugeben.
@@ -2672,6 +2848,7 @@ Wahrnehmung gewesen sind.
 
 
 ##### § 139 Materielle Prozessleitung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE016903125)
 
 (1) Das Gericht hat das Sach- und Streitverhältnis, soweit
 erforderlich, mit den Parteien nach der tatsächlichen und rechtlichen
@@ -2705,6 +2882,7 @@ kann.
 
 
 ##### § 140 Beanstandung von Prozessleitung oder Fragen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017002301)
 
 Wird eine auf die Sachleitung bezügliche Anordnung des Vorsitzenden
 oder eine von dem Vorsitzenden oder einem Gerichtsmitglied gestellte
@@ -2713,6 +2891,7 @@ beanstandet, so entscheidet das Gericht.
 
 
 ##### § 141 Anordnung des persönlichen Erscheinens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017103125)
 
 (1) Das Gericht soll das persönliche Erscheinen beider Parteien
 anordnen, wenn dies zur Aufklärung des Sachverhalts geboten erscheint.
@@ -2737,6 +2916,7 @@ ihres Ausbleibens in der Ladung hinzuweisen.
 
 
 ##### § 142 Anordnung der Urkundenvorlegung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017205160)
 
 (1) Das Gericht kann anordnen, dass eine Partei oder ein Dritter die
 in ihrem oder seinem Besitz befindlichen Urkunden und sonstigen
@@ -2764,6 +2944,7 @@ Satz 1 kann nicht gegenüber dem Dritten ergehen.
 
 
 ##### § 143 Anordnung der Aktenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017304301)
 
 Das Gericht kann anordnen, dass die Parteien die in ihrem Besitz
 befindlichen Akten vorlegen, soweit diese aus Dokumenten bestehen,
@@ -2771,6 +2952,7 @@ welche die Verhandlung und Entscheidung der Sache betreffen.
 
 
 ##### § 144 Augenschein; Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017403125)
 
 (1) Das Gericht kann die Einnahme des Augenscheins sowie die
 Hinzuziehung von Sachverständigen anordnen. Es kann zu diesem Zweck
@@ -2790,6 +2972,7 @@ haben, sind entsprechend anzuwenden.
 
 
 ##### § 145 Prozesstrennung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017504308)
 
 (1) Das Gericht kann anordnen, dass mehrere in einer Klage erhobene
 Ansprüche in getrennten Prozessen verhandelt werden, wenn dies aus
@@ -2808,6 +2991,7 @@ Vorschriften des § 302 sind anzuwenden.
 
 
 ##### § 146 Beschränkung auf einzelne Angriffs- und Verteidigungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017602301)
 
 Das Gericht kann anordnen, dass bei mehreren auf denselben Anspruch
 sich beziehenden selbständigen Angriffs- oder Verteidigungsmitteln
@@ -2817,6 +3001,7 @@ beschränken sei.
 
 
 ##### § 147 Prozessverbindung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017702301)
 
 Das Gericht kann die Verbindung mehrerer bei ihm anhängiger Prozesse
 derselben oder verschiedener Parteien zum Zwecke der gleichzeitigen
@@ -2826,6 +3011,7 @@ oder in einer Klage hätten geltend gemacht werden können.
 
 
 ##### § 148 Aussetzung bei Vorgreiflichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017806125)
 
 (1) Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz
 oder zum Teil von dem Bestehen oder Nichtbestehen eines
@@ -2861,6 +3047,7 @@ Absatz 2 gilt entsprechend.
 
 
 ##### § 149 Aussetzung bei Verdacht einer Straftat
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE017902301)
 
 (1) Das Gericht kann, wenn sich im Laufe eines Rechtsstreits der
 Verdacht einer Straftat ergibt, deren Ermittlung auf die Entscheidung
@@ -2874,6 +3061,7 @@ Aussetzung sprechen.
 
 
 ##### § 150 Aufhebung von Trennung, Verbindung oder Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018002301)
 
 Das Gericht kann die von ihm erlassenen, eine Trennung, Verbindung
 oder Aussetzung betreffenden Anordnungen wieder aufheben. § 149 Abs. 2
@@ -2881,11 +3069,13 @@ bleibt unberührt.
 
 
 ##### § 151
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018102301)
 
 (weggefallen)
 
 
 ##### § 152 Aussetzung bei Eheaufhebungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018203301)
 
 Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine Ehe
 aufhebbar ist, und ist die Aufhebung beantragt, so hat das Gericht auf
@@ -2894,6 +3084,7 @@ erledigt, so findet die Aufnahme des ausgesetzten Verfahrens statt.
 
 
 ##### § 153 Aussetzung bei Vaterschaftsanfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018303301)
 
 Hängt die Entscheidung eines Rechtsstreits davon ab, ob ein Mann,
 dessen Vaterschaft im Wege der Anfechtungsklage angefochten worden
@@ -2902,6 +3093,7 @@ entsprechend.
 
 
 ##### § 154 Aussetzung bei Ehe- oder Kindschaftsstreit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018403301)
 
 (1) Wird im Laufe eines Rechtsstreits streitig, ob zwischen den
 Parteien eine Ehe oder eine Lebenspartnerschaft bestehe oder nicht
@@ -2920,6 +3112,7 @@ abhängt.
 
 
 ##### § 155 Aufhebung der Aussetzung bei Verzögerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018503301)
 
 In den Fällen der §§ 152, 153 kann das Gericht auf Antrag die
 Anordnung, durch die das Verfahren ausgesetzt ist, aufheben, wenn die
@@ -2928,6 +3121,7 @@ hat, verzögert wird.
 
 
 ##### § 156 Wiedereröffnung der Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018602301)
 
 (1) Das Gericht kann die Wiedereröffnung einer Verhandlung, die
 geschlossen war, anordnen.
@@ -2953,6 +3147,7 @@ geschlossen war, anordnen.
 
 
 ##### § 157 Untervertretung in der Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018705301)
 
 Der bevollmächtigte Rechtsanwalt kann in Verfahren, in denen die
 Parteien den Rechtsstreit selbst führen können, zur Vertretung in der
@@ -2961,6 +3156,7 @@ Vorbereitungsdienst bei ihm beschäftigt ist.
 
 
 ##### § 158 Entfernung infolge Prozessleitungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018803301)
 
 Ist eine bei der Verhandlung beteiligte Person zur Aufrechterhaltung
 der Ordnung von dem Ort der Verhandlung entfernt worden, so kann auf
@@ -2969,6 +3165,7 @@ freiwillig sich entfernt hätte.
 
 
 ##### § 159 Protokollaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE018904308)
 
 (1) Über die Verhandlung und jede Beweisaufnahme ist ein Protokoll
 aufzunehmen. Für die Protokollführung kann ein Urkundsbeamter der
@@ -2986,6 +3183,7 @@ aufgenommen.
 
 
 ##### § 160 Inhalt des Protokolls
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019003125)
 
 (1) Das Protokoll enthält
 
@@ -3068,6 +3266,7 @@ bezeichnet ist.
 
 
 ##### § 160a Vorläufige Protokollaufzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019106125)
 
 (1) Der Inhalt des Protokolls kann vorläufig aufgezeichnet werden.
 
@@ -3123,6 +3322,7 @@ Absatz 3 und 4 gewährt, ohne dass es eines besonderen Antrags nach §
 
 
 ##### § 161 Entbehrliche Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019202301)
 
 (1) Feststellungen nach § 160 Abs. 3 Nr. 4 und 5 brauchen nicht in das
 Protokoll aufgenommen zu werden,
@@ -3143,6 +3343,7 @@ Augenschein durchgeführt worden ist. § 160a Abs. 3 gilt entsprechend.
 
 
 ##### § 162 Genehmigung des Protokolls
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019303125)
 
 (1) Das Protokoll ist insoweit, als es Feststellungen nach § 160 Abs.
 3 Nr. 1, 3, 4, 5, 8, 9 oder zu Protokoll erklärte Anträge enthält, den
@@ -3167,6 +3368,7 @@ dass der Verzicht ausgesprochen worden ist.
 
 
 ##### § 163 Unterschreiben des Protokolls
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019403125)
 
 (1) Das Protokoll ist von dem Vorsitzenden und von dem Urkundsbeamten
 der Geschäftsstelle zu unterschreiben. Ist der Inhalt des Protokolls
@@ -3185,6 +3387,7 @@ soll im Protokoll vermerkt werden.
 
 
 ##### § 164 Protokollberichtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019603301)
 
 (1) Unrichtigkeiten des Protokolls können jederzeit berichtigt werden.
 
@@ -3206,6 +3409,7 @@ ist mit dem Protokoll untrennbar zu verbinden.
 
 
 ##### § 165 Beweiskraft des Protokolls
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE019702301)
 
 Die Beachtung der für die Verhandlung vorgeschriebenen Förmlichkeiten
 kann nur durch das Protokoll bewiesen werden. Gegen seinen diese
@@ -3214,14 +3418,17 @@ zulässig.
 
 
 #### Titel 2 - Verfahren bei Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG019803301)
 
 
 
 ##### Untertitel 1 - Zustellungen von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG019903301)
 
 
 
 ###### § 166 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020003301)
 
 (1) Zustellung ist die Bekanntgabe eines Dokuments an eine Person in
 der in diesem Titel bestimmten Form.
@@ -3232,6 +3439,7 @@ bestimmt ist.
 
 
 ###### § 167 Rückwirkung der Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020104360)
 
 Soll durch die Zustellung eine Frist gewahrt werden oder die
 Verjährung neu beginnen oder nach § 204 oder § 204a des Bürgerlichen
@@ -3241,6 +3449,7 @@ erfolgt.
 
 
 ###### § 168 Aufgaben der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020205125)
 
 (1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176
 Absatz 1 aus. Sie kann einen nach § 61 des Postgesetzes beliehenen
@@ -3255,6 +3464,7 @@ Absatz 1 keinen Erfolg verspricht.
 
 
 ###### § 169 Bescheinigung des Zeitpunktes der Zustellung; Beglaubigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020308125)
 
 (1) Die Geschäftsstelle bescheinigt auf Antrag den Zeitpunkt der
 Zustellung.
@@ -3293,6 +3503,7 @@ zugestellt werden, wenn es
 
 
 ###### § 170 Zustellung an Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020403301)
 
 (1) Bei nicht prozessfähigen Personen ist an ihren gesetzlichen
 Vertreter zuzustellen. Die Zustellung an die nicht prozessfähige
@@ -3306,6 +3517,7 @@ Zustellung an einen von ihnen.
 
 
 ###### § 170a Zustellung bei rechtlicher Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168600125)
 
 (1) Wird an eine Person zugestellt, für die ein Betreuer bestellt ist,
 ist diesem eine Abschrift des zugestellten Dokuments mitzuteilen,
@@ -3316,6 +3528,7 @@ Betreuten eine Abschrift des zugestellten Dokuments mitzuteilen.
 
 
 ###### § 171 Zustellung an Bevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020503301)
 
 An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher
 Wirkung wie an den Vertretenen zugestellt werden. Der Vertreter hat
@@ -3323,6 +3536,7 @@ eine schriftliche Vollmacht vorzulegen.
 
 
 ###### § 172 Zustellung an Prozessbevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020603301)
 
 (1) In einem anhängigen Verfahren hat die Zustellung an den für den
 Rechtszug bestellten Prozessbevollmächtigten zu erfolgen. Das gilt
@@ -3342,6 +3556,7 @@ wenn sie einen Prozessbevollmächtigten nicht bestellt hat.
 
 
 ###### § 173 Zustellung von elektronischen Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169003125)
 
 (1) Ein elektronisches Dokument kann elektronisch nur auf einem
 sicheren Übermittlungsweg zugestellt werden.
@@ -3382,6 +3597,7 @@ das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
 
 
 ###### § 174 Zustellung durch Aushändigung an der Amtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020704125)
 
 Ein Schriftstück kann dem Adressaten oder seinem rechtsgeschäftlich
 bestellten Vertreter durch Aushändigung an der Amtsstelle zugestellt
@@ -3395,6 +3611,7 @@ Aushändigung vorgenommen hat.
 
 
 ###### § 175 Zustellung von Schriftstücken gegen Empfangsbekenntnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE020904125)
 
 (1) Ein Schriftstück kann den in § 173 Absatz 2 Genannten gegen
 Empfangsbekenntnis zugestellt werden.
@@ -3415,6 +3632,7 @@ elektronisches Dokument (§ 130a) an das Gericht gesandt werden.
 
 
 ###### § 176 Zustellung durch Einschreiben mit Rückschein; Zustellungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021004125)
 
 (1) Ein Schriftstück kann durch Einschreiben mit Rückschein zugestellt
 werden. Zum Nachweis der Zustellung genügt der Rückschein.
@@ -3428,12 +3646,14 @@ Zustellung erfolgt nach den §§ 177 bis 181.
 
 
 ###### § 177 Ort der Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021103301)
 
 Das Schriftstück kann der Person, der zugestellt werden soll, an jedem
 Ort übergeben werden, an dem sie angetroffen wird.
 
 
 ###### § 178 Ersatzzustellung in der Wohnung, in Geschäftsräumen und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021203301)
 
 (1) Wird die Person, der zugestellt werden soll, in ihrer Wohnung, in
 dem Geschäftsraum oder in einer Gemeinschaftseinrichtung, in der sie
@@ -3459,6 +3679,7 @@ zugestellt werden soll, beteiligt ist.
 
 
 ###### § 179 Zustellung bei verweigerter Annahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021302301)
 
 Wird die Annahme des zuzustellenden Schriftstücks unberechtigt
 verweigert, so ist das Schriftstück in der Wohnung oder in dem
@@ -3469,6 +3690,7 @@ Schriftstück als zugestellt.
 
 
 ###### § 180 Ersatzzustellung durch Einlegen in den Briefkasten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021403301)
 
 Ist die Zustellung nach § 178 Abs. 1 Nr. 1 oder 2 nicht ausführbar,
 kann das Schriftstück in einen zu der Wohnung oder dem Geschäftsraum
@@ -3481,6 +3703,7 @@ das Datum der Zustellung.
 
 
 ###### § 181 Ersatzzustellung durch Niederlegung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021505301)
 
 (1) Ist die Zustellung nach § 178 Abs. 1 Nr. 3 oder § 180 nicht
 ausführbar, kann das zuzustellende Schriftstück auf der
@@ -3504,6 +3727,7 @@ Absender zurückzusenden.
 
 
 ###### § 182 Zustellungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021604311)
 
 (1) Zum Nachweis der Zustellung nach den §§ 171, 177 bis 181 ist eine
 Urkunde auf dem hierfür vorgesehenen Formular anzufertigen. Für diese
@@ -3551,6 +3775,7 @@ als elektronisches Dokument unverzüglich zurückzuleiten.
 
 
 ###### § 183 Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021710125)
 
 (1) Für die Durchführung
 
@@ -3627,6 +3852,7 @@ Person.
 
 
 ###### § 184 Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021805311)
 
 (1) Das Gericht kann bei der Zustellung nach § 183 Absatz 2 bis 5
 anordnen, dass die Partei innerhalb einer angemessenen Frist einen
@@ -3645,6 +3871,7 @@ und unter welcher Anschrift das Schriftstück zur Post gegeben wurde.
 
 
 ###### § 185 Öffentliche Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE021904160)
 
 Die Zustellung kann durch öffentliche Bekanntmachung (öffentliche
 Zustellung) erfolgen, wenn
@@ -3674,6 +3901,7 @@ Zustellung) erfolgen, wenn
 
 
 ###### § 186 Bewilligung und Ausführung der öffentlichen Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022004125)
 
 (1) Über die Bewilligung der öffentlichen Zustellung entscheidet das
 Prozessgericht. Die Entscheidung kann ohne mündliche Verhandlung
@@ -3711,6 +3939,7 @@ ausgehängt und wann sie abgenommen wurde.
 
 
 ###### § 187 Veröffentlichung der Benachrichtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022104140)
 
 Das Prozessgericht kann zusätzlich anordnen, dass die Benachrichtigung
 einmal oder mehrfach im Bundesanzeiger oder in anderen Blättern zu
@@ -3718,6 +3947,7 @@ veröffentlichen ist.
 
 
 ###### § 188 Zeitpunkt der öffentlichen Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022203301)
 
 Das Schriftstück gilt als zugestellt, wenn seit dem Aushang der
 Benachrichtigung ein Monat vergangen ist. Das Prozessgericht kann eine
@@ -3725,6 +3955,7 @@ längere Frist bestimmen.
 
 
 ###### § 189 Heilung von Zustellungsmängeln
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022303301)
 
 Lässt sich die formgerechte Zustellung eines Dokuments nicht
 nachweisen oder ist das Dokument unter Verletzung zwingender
@@ -3735,6 +3966,7 @@ zugegangen ist.
 
 
 ###### § 190 Einheitliche Zustellungsformulare
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022404311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -3743,10 +3975,12 @@ einzuführen.
 
 
 ##### Untertitel 2 - Zustellungen auf Betreiben der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078101301)
 
 
 
 ###### § 191 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022503301)
 
 Ist eine Zustellung auf Betreiben der Parteien zugelassen oder
 vorgeschrieben, finden die Vorschriften über die Zustellung von Amts
@@ -3755,6 +3989,7 @@ Vorschriften Abweichungen ergeben.
 
 
 ###### § 192 Zustellung durch Gerichtsvollzieher
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022605125)
 
 Die von den Parteien zu betreibenden Zustellungen erfolgen unbeschadet
 der Zustellung im Ausland (§ 183) durch den Gerichtsvollzieher. Im
@@ -3765,6 +4000,7 @@ mit der Zustellung zu beauftragen.
 
 
 ###### § 193 Zustellung von Schriftstücken
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022704125)
 
 (1) Soll ein Dokument als Schriftstück zugestellt werden, so
 übermittelt die Partei dem Gerichtsvollzieher das zuzustellende
@@ -3803,6 +4039,7 @@ zugestellt wurde.
 
 
 ###### § 193a Zustellung von elektronischen Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169100125)
 
 (1) Soll ein Dokument als elektronisches Dokument zugestellt werden,
 so übermittelt die Partei dem Gerichtsvollzieher das zuzustellende
@@ -3832,6 +4069,7 @@ der Partei, für die zugestellt wurde.
 
 
 ###### § 194 Zustellungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022803301)
 
 (1) Beauftragt der Gerichtsvollzieher die Post mit der Ausführung der
 Zustellung, vermerkt er auf dem zuzustellenden Schriftstück, im
@@ -3847,6 +4085,7 @@ Gerichtsvollzieher zurück.
 
 
 ###### § 195 Zustellung von Anwalt zu Anwalt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE022908125)
 
 (1) Sind die Parteien durch Anwälte vertreten, so kann ein Dokument
 auch dadurch zugestellt werden, dass der zustellende Anwalt das
@@ -3872,18 +4111,22 @@ erteilen.
 
 
 ###### (XXXX) §§ 195a bis 213a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE023004301)
 
 
 #### Titel 3 - Ladungen, Termine und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG025402301)
 
 
 
 ##### § 214 Ladung zum Termin
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE025502301)
 
 Die Ladung zu einem Termin wird von Amts wegen veranlasst.
 
 
 ##### § 215 Notwendiger Inhalt der Ladung zur mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE025605301)
 
 (1) In der Ladung zur mündlichen Verhandlung ist über die Folgen einer
 Versäumung des Termins zu belehren (§§ 330 bis 331a). Die Belehrung
@@ -3895,6 +4138,7 @@ Aufforderung enthalten, einen Anwalt zu bestellen.
 
 
 ##### § 216 Terminsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE025702301)
 
 (1) Die Termine werden von Amts wegen bestimmt, wenn Anträge oder
 Erklärungen eingereicht werden, über die nur nach mündlicher
@@ -3908,6 +4152,7 @@ nur in Notfällen anzuberaumen.
 
 
 ##### § 217 Ladungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE025803301)
 
 Die Frist, die in einer anhängigen Sache zwischen der Zustellung der
 Ladung und dem Terminstag liegen soll (Ladungsfrist), beträgt in
@@ -3916,6 +4161,7 @@ mindestens drei Tage.
 
 
 ##### § 218 Entbehrlichkeit der Ladung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE025902301)
 
 Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine
 Ladung der Parteien unbeschadet der Vorschriften des § 141 Abs. 2
@@ -3923,6 +4169,7 @@ nicht erforderlich.
 
 
 ##### § 219 Terminsort
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026002301)
 
 (1) Die Termine werden an der Gerichtsstelle abgehalten, sofern nicht
 die Einnahme eines Augenscheins an Ort und Stelle, die Verhandlung mit
@@ -3935,6 +4182,7 @@ Gerichtsstelle zu erscheinen.
 
 
 ##### § 220 Aufruf der Sache; versäumter Termin
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026102301)
 
 (1) Der Termin beginnt mit dem Aufruf der Sache.
 
@@ -3943,6 +4191,7 @@ nicht verhandelt.
 
 
 ##### § 221 Fristbeginn
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026203301)
 
 (1) Der Lauf einer richterlichen Frist beginnt, sofern nicht bei ihrer
 Festsetzung ein anderes bestimmt wird, mit der Zustellung des
@@ -3951,6 +4200,7 @@ solchen Zustellung nicht bedarf, mit der Verkündung der Frist.
 
 
 ##### § 222 Fristberechnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026302301)
 
 (1) Für die Berechnung der Fristen gelten die Vorschriften des
 Bürgerlichen Gesetzbuchs.
@@ -3965,11 +4215,13 @@ mitgerechnet.
 
 
 ##### § 223
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026402301)
 
 (weggefallen)
 
 
 ##### § 224 Fristkürzung; Fristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026503301)
 
 (1) Durch Vereinbarung der Parteien können Fristen, mit Ausnahme der
 Notfristen, abgekürzt werden. Notfristen sind nur diejenigen Fristen,
@@ -3985,6 +4237,7 @@ bestimmt ist.
 
 
 ##### § 225 Verfahren bei Friständerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026602301)
 
 (1) Über das Gesuch um Abkürzung oder Verlängerung einer Frist kann
 ohne mündliche Verhandlung entschieden werden.
@@ -3997,6 +4250,7 @@ Verlängerung einer Frist zurückgewiesen ist, findet nicht statt.
 
 
 ##### § 226 Abkürzung von Zwischenfristen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026702301)
 
 (1) Einlassungsfristen, Ladungsfristen sowie diejenigen Fristen, die
 für die Zustellung vorbereitender Schriftsätze bestimmt sind, können
@@ -4012,6 +4266,7 @@ Verfügung ist dem Beteiligten abschriftlich mitzuteilen.
 
 
 ##### § 227 Terminsänderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026807125)
 
 (1) Aus erheblichen Gründen kann ein Termin aufgehoben oder verlegt
 sowie eine Verhandlung vertagt werden. Erhebliche Gründe sind
@@ -4089,11 +4344,13 @@ begründen. Sie ist unanfechtbar.
 
 
 ##### § 228
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE026901301)
 
 (weggefallen)
 
 
 ##### § 229 Beauftragter oder ersuchter Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027002301)
 
 Die in diesem Titel dem Gericht und dem Vorsitzenden beigelegten
 Befugnisse stehen dem beauftragten oder ersuchten Richter in Bezug auf
@@ -4101,16 +4358,19 @@ die von diesen zu bestimmenden Termine und Fristen zu.
 
 
 #### Titel 4 - Folgen der Versäumung; Rechtsbehelfsbelehrung; Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG027103308)
 
 
 
 ##### § 230 Allgemeine Versäumungsfolge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027202301)
 
 Die Versäumung einer Prozesshandlung hat zur allgemeinen Folge, dass
 die Partei mit der vorzunehmenden Prozesshandlung ausgeschlossen wird.
 
 
 ##### § 231 Keine Androhung; Nachholung der Prozesshandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027302301)
 
 (1) Einer Androhung der gesetzlichen Folgen der Versäumung bedarf es
 nicht; sie treten von selbst ein, sofern nicht dieses Gesetz einen auf
@@ -4122,6 +4382,7 @@ Prozesshandlung nachgeholt werden.
 
 
 ##### § 232 Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027402308)
 
 Jede anfechtbare gerichtliche Entscheidung hat eine Belehrung über das
 statthafte Rechtsmittel, den Einspruch, den Widerspruch oder die
@@ -4135,6 +4396,7 @@ die Belehrung ist an einen Zeugen oder Sachverständigen zu richten.
 
 
 ##### § 233 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027504308)
 
 War eine Partei ohne ihr Verschulden verhindert, eine Notfrist oder
 die Frist zur Begründung der Berufung, der Revision, der
@@ -4146,6 +4408,7 @@ fehlerhaft ist.
 
 
 ##### § 234 Wiedereinsetzungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027604160)
 
 (1) Die Wiedereinsetzung muss innerhalb einer zweiwöchigen Frist
 beantragt werden. Die Frist beträgt einen Monat, wenn die Partei
@@ -4159,11 +4422,13 @@ gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
 
 
 ##### § 235
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027701301)
 
 (weggefallen)
 
 
 ##### § 236 Wiedereinsetzungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027802301)
 
 (1) Die Form des Antrags auf Wiedereinsetzung richtet sich nach den
 Vorschriften, die für die versäumte Prozesshandlung gelten.
@@ -4176,12 +4441,14 @@ geschehen, so kann Wiedereinsetzung auch ohne Antrag gewährt werden.
 
 
 ##### § 237 Zuständigkeit für Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE027902301)
 
 Über den Antrag auf Wiedereinsetzung entscheidet das Gericht, dem die
 Entscheidung über die nachgeholte Prozesshandlung zusteht.
 
 
 ##### § 238 Verfahren bei Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028002301)
 
 (1) Das Verfahren über den Antrag auf Wiedereinsetzung ist mit dem
 Verfahren über die nachgeholte Prozesshandlung zu verbinden. Das
@@ -4202,10 +4469,12 @@ entstanden sind.
 
 
 #### Titel 5 - Unterbrechung und Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG028102301)
 
 
 
 ##### § 239 Unterbrechung durch Tod der Partei
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028202301)
 
 (1) Im Falle des Todes einer Partei tritt eine Unterbrechung des
 Verfahrens bis zu dessen Aufnahme durch die Rechtsnachfolger ein.
@@ -4227,6 +4496,7 @@ Rechtsstreits nicht verpflichtet.
 
 
 ##### § 240 Unterbrechung durch Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028303301)
 
 Im Falle der Eröffnung des Insolvenzverfahrens über das Vermögen einer
 Partei wird das Verfahren, wenn es die Insolvenzmasse betrifft,
@@ -4238,6 +4508,7 @@ das Vermögen des Schuldners auf einen vorläufigen Insolvenzverwalter
 
 
 ##### § 241 Unterbrechung durch Prozessunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028402301)
 
 (1) Verliert eine Partei die Prozessfähigkeit oder stirbt der
 gesetzliche Vertreter einer Partei oder hört seine Vertretungsbefugnis
@@ -4256,6 +4527,7 @@ Nachlassverwaltung angeordnet wird.
 
 
 ##### § 242 Unterbrechung durch Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028502301)
 
 Tritt während des Rechtsstreits zwischen einem Vorerben und einem
 Dritten über einen der Nacherbfolge unterliegenden Gegenstand der Fall
@@ -4266,6 +4538,7 @@ der Unterbrechung und der Aufnahme des Verfahrens die Vorschriften des
 
 
 ##### § 243 Aufnahme bei Nachlasspflegschaft und Testamentsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028603301)
 
 Wird im Falle der Unterbrechung des Verfahrens durch den Tod einer
 Partei ein Nachlasspfleger bestellt oder ist ein zur Führung des
@@ -4276,6 +4549,7 @@ Aufnahme des Verfahrens anzuwenden.
 
 
 ##### § 244 Unterbrechung durch Anwaltsverlust
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028704301)
 
 (1) Stirbt in Anwaltsprozessen der Anwalt einer Partei oder wird er
 unfähig, die Vertretung der Partei fortzuführen, so tritt eine
@@ -4293,6 +4567,7 @@ alle Zustellungen an die zur Anzeige verpflichtete Partei.
 
 
 ##### § 245 Unterbrechung durch Stillstand der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028802301)
 
 Hört infolge eines Krieges oder eines anderen Ereignisses die
 Tätigkeit des Gerichts auf, so wird für die Dauer dieses Zustandes das
@@ -4300,6 +4575,7 @@ Verfahren unterbrochen.
 
 
 ##### § 246 Aussetzung bei Vertretung durch Prozessbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE028902301)
 
 (1) Fand in den Fällen des Todes, des Verlustes der Prozessfähigkeit,
 des Wegfalls des gesetzlichen Vertreters, der Anordnung einer
@@ -4317,6 +4593,7 @@ sie beantragt ist, auch dem Bevollmächtigten zuzustellen.
 
 
 ##### § 247 Aussetzung bei abgeschnittenem Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029002301)
 
 Hält sich eine Partei an einem Ort auf, der durch obrigkeitliche
 Anordnung oder durch Krieg oder durch andere Zufälle von dem Verkehr
@@ -4326,6 +4603,7 @@ Hindernisses anordnen.
 
 
 ##### § 248 Verfahren bei Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029102301)
 
 (1) Das Gesuch um Aussetzung des Verfahrens ist bei dem Prozessgericht
 anzubringen; es kann vor der Geschäftsstelle zu Protokoll erklärt
@@ -4335,6 +4613,7 @@ werden.
 
 
 ##### § 249 Wirkung von Unterbrechung und Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029202301)
 
 (1) Die Unterbrechung und Aussetzung des Verfahrens hat die Wirkung,
 dass der Lauf einer jeden Frist aufhört und nach Beendigung der
@@ -4351,6 +4630,7 @@ Verhandlung zu erlassenden Entscheidung nicht gehindert.
 
 
 ##### § 250 Form von Aufnahme und Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029302301)
 
 Die Aufnahme eines unterbrochenen oder ausgesetzten Verfahrens und die
 in diesem Titel erwähnten Anzeigen erfolgen durch Zustellung eines bei
@@ -4358,6 +4638,7 @@ Gericht einzureichenden Schriftsatzes.
 
 
 ##### § 251 Ruhen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029402301)
 
 Das Gericht hat das Ruhen des Verfahrens anzuordnen, wenn beide
 Parteien dies beantragen und anzunehmen ist, dass wegen Schwebens von
@@ -4367,6 +4648,7 @@ bezeichneten Fristen keinen Einfluss.
 
 
 ##### § 251a Säumnis beider Parteien; Entscheidung nach Lage der Akten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029502301)
 
 (1) Erscheinen oder verhandeln in einem Termin beide Parteien nicht,
 so kann das Gericht nach Lage der Akten entscheiden.
@@ -4385,6 +4667,7 @@ nach § 227 vertagt, ordnet es das Ruhen des Verfahrens an.
 
 
 ##### § 252 Rechtsmittel bei Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE029602301)
 
 Gegen die Entscheidung, durch die auf Grund der Vorschriften dieses
 Titels oder auf Grund anderer gesetzlicher Bestimmungen die Aussetzung
@@ -4393,18 +4676,22 @@ Beschwerde statt.
 
 
 ## Buch 2 - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG029702301)
 
 
 
 ### Abschnitt 1 - Verfahren vor den Landgerichten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG029802301)
 
 
 
 #### Titel 1 - Verfahren bis zum Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG029902301)
 
 
 
 ##### § 253 Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030005125)
 
 (1) Die Erhebung der Klage erfolgt durch Zustellung eines
 Schriftsatzes (Klageschrift).
@@ -4455,6 +4742,7 @@ wird.
 
 
 ##### § 254 Stufenklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030102301)
 
 Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines
 Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen
@@ -4467,6 +4755,7 @@ abgegeben ist.
 
 
 ##### § 255 Fristbestimmung im Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030202301)
 
 (1) Hat der Kläger für den Fall, dass der Beklagte nicht vor dem
 Ablauf einer ihm zu bestimmenden Frist den erhobenen Anspruch
@@ -4483,6 +4772,7 @@ Auflage.
 
 
 ##### § 256 Feststellungsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030302301)
 
 (1) Auf Feststellung des Bestehens oder Nichtbestehens eines
 Rechtsverhältnisses, auf Anerkennung einer Urkunde oder auf
@@ -4501,6 +4791,7 @@ werde.
 
 
 ##### § 257 Klage auf künftige Zahlung oder Räumung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030402301)
 
 Ist die Geltendmachung einer nicht von einer Gegenleistung abhängigen
 Geldforderung oder die Geltendmachung des Anspruchs auf Räumung eines
@@ -4510,6 +4801,7 @@ Zahlung oder Räumung erhoben werden.
 
 
 ##### § 258 Klage auf wiederkehrende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030502301)
 
 Bei wiederkehrenden Leistungen kann auch wegen der erst nach Erlass
 des Urteils fällig werdenden Leistungen Klage auf künftige Entrichtung
@@ -4517,6 +4809,7 @@ erhoben werden.
 
 
 ##### § 259 Klage wegen Besorgnis nicht rechtzeitiger Leistung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030602301)
 
 Klage auf künftige Leistung kann außer den Fällen der §§ 257, 258
 erhoben werden, wenn den Umständen nach die Besorgnis gerechtfertigt
@@ -4525,6 +4818,7 @@ werde.
 
 
 ##### § 260 Anspruchshäufung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030702301)
 
 Mehrere Ansprüche des Klägers gegen denselben Beklagten können, auch
 wenn sie auf verschiedenen Gründen beruhen, in einer Klage verbunden
@@ -4533,6 +4827,7 @@ dieselbe Prozessart zulässig ist.
 
 
 ##### § 261 Rechtshängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE030803301)
 
 (1) Durch die Erhebung der Klage wird die Rechtshängigkeit der
 Streitsache begründet.
@@ -4556,6 +4851,7 @@ mündlichen Verhandlung geltend gemacht oder ein den Erfordernissen des
 
 
 ##### § 262 Sonstige Wirkungen der Rechtshängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031204301)
 
 Die Vorschriften des bürgerlichen Rechts über die sonstigen Wirkungen
 der Rechtshängigkeit bleiben unberührt. Diese Wirkungen sowie alle
@@ -4566,6 +4862,7 @@ unbeschadet der Vorschrift des § 167 mit der Erhebung der Klage ein.
 
 
 ##### § 263 Klageänderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031302301)
 
 Nach dem Eintritt der Rechtshängigkeit ist eine Änderung der Klage
 zulässig, wenn der Beklagte einwilligt oder das Gericht sie für
@@ -4573,6 +4870,7 @@ sachdienlich erachtet.
 
 
 ##### § 264 Keine Klageänderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031402301)
 
 Als eine Änderung der Klage ist es nicht anzusehen, wenn ohne Änderung
 des Klagegrundes
@@ -4594,6 +4892,7 @@ des Klagegrundes
 
 
 ##### § 265 Veräußerung oder Abtretung der Streitsache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031502301)
 
 (1) Die Rechtshängigkeit schließt das Recht der einen oder der anderen
 Partei nicht aus, die in Streit befangene Sache zu veräußern oder den
@@ -4613,6 +4912,7 @@ Anspruchs nicht mehr befugt sei.
 
 
 ##### § 266 Veräußerung eines Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031602301)
 
 (1) Ist über das Bestehen oder Nichtbestehen eines Rechts, das für ein
 Grundstück in Anspruch genommen wird, oder einer Verpflichtung, die
@@ -4632,6 +4932,7 @@ solchen Fall gilt, wenn der Kläger veräußert hat, die Vorschrift des §
 
 
 ##### § 267 Vermutete Einwilligung in die Klageänderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031702301)
 
 Die Einwilligung des Beklagten in die Änderung der Klage ist
 anzunehmen, wenn er, ohne der Änderung zu widersprechen, sich in einer
@@ -4639,12 +4940,14 @@ mündlichen Verhandlung auf die abgeänderte Klage eingelassen hat.
 
 
 ##### § 268 Unanfechtbarkeit der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031802301)
 
 Eine Anfechtung der Entscheidung, dass eine Änderung der Klage nicht
 vorliege oder dass die Änderung zuzulassen sei, findet nicht statt.
 
 
 ##### § 269 Klagerücknahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031905311)
 
 (1) Die Klage kann ohne Einwilligung des Beklagten nur bis zum Beginn
 der mündlichen Verhandlung des Beklagten zur Hauptsache zurückgenommen
@@ -4689,6 +4992,7 @@ Einlassung verweigern, bis die Kosten erstattet sind.
 
 
 ##### § 270 Zustellung; formlose Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE031106125)
 
 Mit Ausnahme der Klageschrift und solcher Schriftsätze, die
 Sachanträge enthalten, sind Schriftsätze und sonstige Erklärungen der
@@ -4700,6 +5004,7 @@ oder erst in einem späteren Zeitpunkt zugegangen ist.
 
 
 ##### § 271 Zustellung der Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032005301)
 
 (1) Die Klageschrift ist unverzüglich zuzustellen.
 
@@ -4709,6 +5014,7 @@ beabsichtigt.
 
 
 ##### § 272 Bestimmung der Verfahrensweise
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032103308)
 
 (1) Der Rechtsstreit ist in der Regel in einem umfassend vorbereiteten
 Termin zur mündlichen Verhandlung (Haupttermin) zu erledigen.
@@ -4724,6 +5030,7 @@ wie möglich stattfinden.
 
 
 ##### § 273 Vorbereitung des Termins
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032203301)
 
 (1) Das Gericht hat erforderliche vorbereitende Maßnahmen rechtzeitig
 zu veranlassen.
@@ -4763,6 +5070,7 @@ Vorschriften des § 141 Abs. 2, 3.
 
 
 ##### § 273a Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169500125)
 
 Das Gericht kann auf Antrag einer Partei streitgegenständliche
 Informationen ganz oder teilweise als geheimhaltungsbedürftig
@@ -4773,6 +5081,7 @@ entsprechend anzuwenden.
 
 
 ##### § 274 Ladung der Parteien; Einlassungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032304311)
 
 (1) Nach der Bestimmung des Termins zur mündlichen Verhandlung ist die
 Ladung der Parteien durch die Geschäftsstelle zu veranlassen.
@@ -4788,6 +5097,7 @@ eine längere Frist bestimmen.
 
 
 ##### § 275 Früher erster Termin
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032403301)
 
 (1) Zur Vorbereitung des frühen ersten Termins zur mündlichen
 Verhandlung kann der Vorsitzende oder ein von ihm bestimmtes Mitglied
@@ -4814,6 +5124,7 @@ Vorsitzende die Frist setzen.
 
 
 ##### § 276 Schriftliches Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032506311)
 
 (1) Bestimmt der Vorsitzende keinen frühen ersten Termin zur
 mündlichen Verhandlung, so fordert er den Beklagten mit der Zustellung
@@ -4839,6 +5150,7 @@ Stellungnahme auf die Klageerwiderung setzen.
 
 
 ##### § 277 Klageerwiderung; Replik
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032604125)
 
 (1) In der Klageerwiderung hat der Beklagte seine Verteidigungsmittel
 vorzubringen, soweit es nach der Prozesslage einer sorgfältigen und
@@ -4866,6 +5178,7 @@ Absatz 1 Satz 1 und Absätze 2 und 3 entsprechend.
 
 
 ##### § 278 Gütliche Streitbeilegung, Güteverhandlung, Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032707125)
 
 (1) Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche
 Beilegung des Rechtsstreits oder einzelner Streitpunkte bedacht sein.
@@ -4904,6 +5217,7 @@ Vergleichs durch Beschluss fest. § 164 gilt entsprechend.
 
 
 ##### § 278a Mediation, außergerichtliche Konfliktbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164900308)
 
 (1) Das Gericht kann den Parteien eine Mediation oder ein anderes
 Verfahren der außergerichtlichen Konfliktbeilegung vorschlagen.
@@ -4914,6 +5228,7 @@ Konfliktbeilegung, ordnet das Gericht das Ruhen des Verfahrens an.
 
 
 ##### § 279 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032802301)
 
 (1) Erscheint eine Partei in der Güteverhandlung nicht oder ist die
 Güteverhandlung erfolglos, soll sich die mündliche Verhandlung (früher
@@ -4929,6 +5244,7 @@ Beweisaufnahme mit den Parteien zu erörtern.
 
 
 ##### § 280 Abgesonderte Verhandlung über Zulässigkeit der Klage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE032902301)
 
 (1) Das Gericht kann anordnen, dass über die Zulässigkeit der Klage
 abgesondert verhandelt wird.
@@ -4939,6 +5255,7 @@ dass zur Hauptsache zu verhandeln ist.
 
 
 ##### § 281 Verweisung bei Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033003301)
 
 (1) Ist auf Grund der Vorschriften über die örtliche oder sachliche
 Zuständigkeit der Gerichte die Unzuständigkeit des Gerichts
@@ -4961,6 +5278,7 @@ Mehrkosten auch dann aufzuerlegen, wenn er in der Hauptsache obsiegt.
 
 
 ##### § 282 Rechtzeitigkeit des Vorbringens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033102301)
 
 (1) Jede Partei hat in der mündlichen Verhandlung ihre Angriffs- und
 Verteidigungsmittel, insbesondere Behauptungen, Bestreiten,
@@ -4982,6 +5300,7 @@ machen.
 
 
 ##### § 283 Schriftsatzfrist für Erklärungen zum Vorbringen des Gegners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033302301)
 
 Kann sich eine Partei in der mündlichen Verhandlung auf ein Vorbringen
 des Gegners nicht erklären, weil es ihr nicht rechtzeitig vor dem
@@ -4994,6 +5313,7 @@ Entscheidung berücksichtigen.
 
 
 ##### § 283a Sicherungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165000308)
 
 (1) Wird eine Räumungsklage mit einer Zahlungsklage aus demselben
 Rechtsverhältnis verbunden, ordnet das Prozessgericht auf Antrag des
@@ -5031,6 +5351,7 @@ entsprechend.
 
 
 ##### § 284 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033604125)
 
 (1) Die Beweisaufnahme und die Anordnung eines besonderen
 Beweisaufnahmeverfahrens durch Beweisbeschluss werden durch die
@@ -5056,6 +5377,7 @@ näher zu bestimmenden Gerichtsstelle aufhalten.
 
 
 ##### § 285 Verhandlung nach Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033702301)
 
 (1) Über das Ergebnis der Beweisaufnahme haben die Parteien unter
 Darlegung des Streitverhältnisses zu verhandeln.
@@ -5066,6 +5388,7 @@ vorzutragen.
 
 
 ##### § 286 Freie Beweiswürdigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033802301)
 
 (1) Das Gericht hat unter Berücksichtigung des gesamten Inhalts der
 Verhandlungen und des Ergebnisses einer etwaigen Beweisaufnahme nach
@@ -5079,6 +5402,7 @@ dieses Gesetz bezeichneten Fällen gebunden.
 
 
 ##### § 287 Schadensermittlung; Höhe der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE033902301)
 
 (1) Ist unter den Parteien streitig, ob ein Schaden entstanden sei und
 wie hoch sich der Schaden oder ein zu ersetzendes Interesse belaufe,
@@ -5100,6 +5424,7 @@ stehen.
 
 
 ##### § 288 Gerichtliches Geständnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034002301)
 
 (1) Die von einer Partei behaupteten Tatsachen bedürfen insoweit
 keines Beweises, als sie im Laufe des Rechtsstreits von dem Gegner bei
@@ -5111,6 +5436,7 @@ nicht erforderlich.
 
 
 ##### § 289 Zusätze beim Geständnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034102301)
 
 (1) Die Wirksamkeit des gerichtlichen Geständnisses wird dadurch nicht
 beeinträchtigt, dass ihm eine Behauptung hinzugefügt wird, die ein
@@ -5123,6 +5449,7 @@ des einzelnen Falles.
 
 
 ##### § 290 Widerruf des Geständnisses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034202301)
 
 Der Widerruf hat auf die Wirksamkeit des gerichtlichen Geständnisses
 nur dann Einfluss, wenn die widerrufende Partei beweist, dass das
@@ -5132,12 +5459,14 @@ Wirksamkeit.
 
 
 ##### § 291 Offenkundige Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034302301)
 
 Tatsachen, die bei dem Gericht offenkundig sind, bedürfen keines
 Beweises.
 
 
 ##### § 292 Gesetzliche Vermutungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034402301)
 
 Stellt das Gesetz für das Vorhandensein einer Tatsache eine Vermutung
 auf, so ist der Beweis des Gegenteils zulässig, sofern nicht das
@@ -5146,11 +5475,13 @@ Antrag auf Parteivernehmung nach § 445 geführt werden.
 
 
 ##### § 292a
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE142702301)
 
 (weggefallen)
 
 
 ##### § 293 Fremdes Recht; Gewohnheitsrecht; Statuten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034502301)
 
 Das in einem anderen Staat geltende Recht, die Gewohnheitsrechte und
 Statuten bedürfen des Beweises nur insofern, als sie dem Gericht
@@ -5161,6 +5492,7 @@ solchen Benutzung das Erforderliche anzuordnen.
 
 
 ##### § 294 Glaubhaftmachung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034602301)
 
 (1) Wer eine tatsächliche Behauptung glaubhaft zu machen hat, kann
 sich aller Beweismittel bedienen, auch zur Versicherung an Eides statt
@@ -5171,6 +5503,7 @@ unstatthaft.
 
 
 ##### § 295 Verfahrensrügen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034702301)
 
 (1) Die Verletzung einer das Verfahren und insbesondere die Form einer
 Prozesshandlung betreffenden Vorschrift kann nicht mehr gerügt werden,
@@ -5186,6 +5519,7 @@ verzichten kann.
 
 
 ##### § 296 Zurückweisung verspäteten Vorbringens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034802301)
 
 (1) Angriffs- und Verteidigungsmittel, die erst nach Ablauf einer
 hierfür gesetzten Frist (§ 273 Abs. 2 Nr. 1 und, soweit die
@@ -5211,6 +5545,7 @@ Verlangen des Gerichts glaubhaft zu machen.
 
 
 ##### § 296a Vorbringen nach Schluss der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE034902301)
 
 Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht,
 können Angriffs- und Verteidigungsmittel nicht mehr vorgebracht
@@ -5218,6 +5553,7 @@ werden. § 139 Abs. 5, §§ 156, 283 bleiben unberührt.
 
 
 ##### § 297 Form der Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035002301)
 
 (1) Die Anträge sind aus den vorbereitenden Schriftsätzen zu verlesen.
 Soweit sie darin nicht enthalten sind, müssen sie aus einer dem
@@ -5230,6 +5566,7 @@ die Schriftsätze Bezug nehmen, die die Anträge enthalten.
 
 
 ##### § 298 Aktenausdruck
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145202311)
 
 (1) Werden die Akten in Papierform geführt, ist von einem
 elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
@@ -5263,6 +5600,7 @@ sechs Monaten gelöscht werden.
 
 
 ##### § 298a Elektronische Akte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145305125)
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
@@ -5328,6 +5666,7 @@ Behörden und Gerichten geltenden Standards bestimmen.
 
 
 ##### § 299 Akteneinsicht; Abschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035207125)
 
 (1) Die Parteien können die Prozessakten einsehen und sich aus ihnen
 durch die Geschäftsstelle Ausfertigungen, Auszüge und Abschriften
@@ -5364,6 +5703,7 @@ mitgeteilt.
 
 
 ##### § 299a Datenträgerarchiv
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035303301)
 
 Sind die Prozessakten nach ordnungsgemäßen Grundsätzen zur Ersetzung
 der Urschrift auf einen Bild- oder anderen Datenträger übertragen
@@ -5375,10 +5715,12 @@ bei dem Nachweis angebracht.
 
 
 #### Titel 2 - Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG035402301)
 
 
 
 ##### § 300 Endurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035502301)
 
 (1) Ist der Rechtsstreit zur Endentscheidung reif, so hat das Gericht
 sie durch Endurteil zu erlassen.
@@ -5389,6 +5731,7 @@ Endentscheidung reif ist.
 
 
 ##### § 301 Teilurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035603301)
 
 (1) Ist von mehreren in einer Klage geltend gemachten Ansprüchen nur
 der eine oder ist nur ein Teil eines Anspruchs oder bei erhobener
@@ -5404,6 +5747,7 @@ Gericht nach Lage der Sache nicht für angemessen erachtet.
 
 
 ##### § 302 Vorbehaltsurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035703301)
 
 (1) Hat der Beklagte die Aufrechnung einer Gegenforderung geltend
 gemacht, so kann, wenn nur die Verhandlung über die Forderung zur
@@ -5431,12 +5775,14 @@ Zahlung oder Leistung rechtshängig geworden anzusehen.
 
 
 ##### § 303 Zwischenurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035802301)
 
 Ist ein Zwischenstreit zur Entscheidung reif, so kann die Entscheidung
 durch Zwischenurteil ergehen.
 
 
 ##### § 304 Zwischenurteil über den Grund
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE035902301)
 
 (1) Ist ein Anspruch nach Grund und Betrag streitig, so kann das
 Gericht über den Grund vorab entscheiden.
@@ -5448,6 +5794,7 @@ sei.
 
 
 ##### § 305 Urteil unter Vorbehalt erbrechtlich beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036003311)
 
 (1) Durch die Geltendmachung der dem Erben nach den §§ 2014, 2015 des
 Bürgerlichen Gesetzbuchs zustehenden Einreden wird eine unter dem
@@ -5461,6 +5808,7 @@ Bürgerlichen Gesetzbuchs zustehen.
 
 
 ##### § 305a Urteil unter Vorbehalt seerechtlich beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE126405311)
 
 (1) Unterliegt der in der Klage geltend gemachte Anspruch der
 Haftungsbeschränkung nach § 611 Absatz 1 oder 3, §§ 612 bis 616 des
@@ -5511,6 +5859,7 @@ unberücksichtigt, so ergeht das Urteil
 
 
 ##### § 305b Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169300125)
 
 Durch die Geltendmachung der dem Rechtsträger nach § 133 Absatz 3 Satz
 2 des Umwandlungsgesetzes zustehenden Einrede wird eine unter dem
@@ -5519,6 +5868,7 @@ Rechtsträgers nicht ausgeschlossen.
 
 
 ##### § 306 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036102301)
 
 Verzichtet der Kläger bei der mündlichen Verhandlung auf den geltend
 gemachten Anspruch, so ist er auf Grund des Verzichts mit dem Anspruch
@@ -5526,6 +5876,7 @@ abzuweisen, wenn der Beklagte die Abweisung beantragt.
 
 
 ##### § 307 Anerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036203301)
 
 Erkennt eine Partei den gegen sie geltend gemachten Anspruch ganz oder
 zum Teil an, so ist sie dem Anerkenntnis gemäß zu verurteilen. Einer
@@ -5533,6 +5884,7 @@ mündlichen Verhandlung bedarf es insoweit nicht.
 
 
 ##### § 308 Bindung an die Parteianträge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036302301)
 
 (1) Das Gericht ist nicht befugt, einer Partei etwas zuzusprechen, was
 nicht beantragt ist. Dies gilt insbesondere von Früchten, Zinsen und
@@ -5543,6 +5895,7 @@ Gericht auch ohne Antrag zu erkennen.
 
 
 ##### § 308a Entscheidung ohne Antrag in Mietsachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036403301)
 
 (1) Erachtet das Gericht in einer Streitigkeit zwischen dem Vermieter
 und dem Mieter oder dem Mieter und dem Untermieter wegen Räumung von
@@ -5557,12 +5910,14 @@ Ausspruch sind die Parteien zu hören.
 
 
 ##### § 309 Erkennende Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036502301)
 
 Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der
 dem Urteil zugrunde liegenden Verhandlung beigewohnt haben.
 
 
 ##### § 310 Termin der Urteilsverkündung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036605125)
 
 (1) Das Urteil wird in dem Termin, in dem die mündliche Verhandlung
 geschlossen wird, oder in einem sofort anzuberaumenden Termin
@@ -5584,6 +5939,7 @@ einem Urteil, das den Einspruch gegen ein Versäumnisurteil verwirft (§
 
 
 ##### § 311 Form der Urteilsverkündung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036702301)
 
 (1) Das Urteil ergeht im Namen des Volkes.
 
@@ -5606,6 +5962,7 @@ Abwesenheit der anderen Mitglieder des Prozessgerichts verkünden.
 
 
 ##### § 312 Anwesenheit der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036802301)
 
 (1) Die Wirksamkeit der Verkündung eines Urteils ist von der
 Anwesenheit der Parteien nicht abhängig. Die Verkündung gilt auch
@@ -5618,6 +5975,7 @@ nicht dieses Gesetz ein anderes bestimmt.
 
 
 ##### § 313 Form und Inhalt des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE036902301)
 
 (1) Das Urteil enthält:
 
@@ -5656,6 +6014,7 @@ rechtlicher Hinsicht beruht.
 
 
 ##### § 313a Weglassen von Tatbestand und Entscheidungsgründen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037006160)
 
 (1) Des Tatbestandes bedarf es nicht, wenn ein Rechtsmittel gegen das
 Urteil unzweifelhaft nicht zulässig ist. In diesem Fall bedarf es auch
@@ -5683,6 +6042,7 @@ entsprechend.
 
 
 ##### § 313b Versäumnis-, Anerkenntnis- und Verzichtsurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037104301)
 
 (1) Wird durch Versäumnisurteil, Anerkenntnisurteil oder
 Verzichtsurteil erkannt, so bedarf es nicht des Tatbestandes und der
@@ -5710,6 +6070,7 @@ geführt werden.
 
 
 ##### § 314 Beweiskraft des Tatbestandes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037202301)
 
 Der Tatbestand des Urteils liefert Beweis für das mündliche
 Parteivorbringen. Der Beweis kann nur durch das Sitzungsprotokoll
@@ -5717,6 +6078,7 @@ entkräftet werden.
 
 
 ##### § 315 Unterschrift der Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037303301)
 
 (1) Das Urteil ist von den Richtern, die bei der Entscheidung
 mitgewirkt haben, zu unterschreiben. Ist ein Richter verhindert, seine
@@ -5744,11 +6106,13 @@ Urteil untrennbar zu verbinden.
 
 
 ##### § 316
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037401301)
 
 (weggefallen)
 
 
 ##### § 317 Urteilszustellung und -ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037506125)
 
 (1) Die Urteile werden den Parteien, verkündete Versäumnisurteile nur
 der unterliegenden Partei in Abschrift zugestellt. Eine Zustellung
@@ -5781,12 +6145,14 @@ Rechtsanwalt des Klägers beglaubigt werden.
 
 
 ##### § 318 Bindung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037602301)
 
 Das Gericht ist an die Entscheidung, die in den von ihm erlassenen
 End- und Zwischenurteilen enthalten ist, gebunden.
 
 
 ##### § 319 Berichtigung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037703301)
 
 (1) Schreibfehler, Rechnungsfehler und ähnliche offenbare
 Unrichtigkeiten, die in dem Urteil vorkommen, sind jederzeit von dem
@@ -5804,6 +6170,7 @@ der eine Berichtigung ausspricht, findet sofortige Beschwerde statt.
 
 
 ##### § 320 Berichtigung des Tatbestandes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037805125)
 
 (1) Enthält der Tatbestand des Urteils Unrichtigkeiten, die nicht
 unter die Vorschriften des vorstehenden Paragraphen fallen,
@@ -5833,6 +6200,7 @@ Teils des Urteils nicht zur Folge.
 
 
 ##### § 321 Ergänzung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE037903125)
 
 (1) Wenn ein nach dem ursprünglich festgestellten oder nachträglich
 berichtigten Tatbestand von einer Partei geltend gemachter Haupt- oder
@@ -5859,6 +6227,7 @@ Rechtsstreits zum Gegenstand.
 
 
 ##### § 321a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143004125)
 
 (1) Auf die Rüge der durch die Entscheidung beschwerten Partei ist das
 Verfahren fortzuführen, wenn
@@ -5906,6 +6275,7 @@ eingereicht werden können.
 
 
 ##### § 322 Materielle Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038002301)
 
 (1) Urteile sind der Rechtskraft nur insoweit fähig, als über den
 durch die Klage oder durch die Widerklage erhobenen Anspruch
@@ -5918,6 +6288,7 @@ gemacht worden ist, der Rechtskraft fähig.
 
 
 ##### § 323 Abänderung von Urteilen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038104160)
 
 (1) Enthält ein Urteil eine Verpflichtung zu künftig fällig werdenden
 wiederkehrenden Leistungen, kann jeder Teil die Abänderung beantragen.
@@ -5939,6 +6310,7 @@ Grundlagen anzupassen.
 
 
 ##### § 323a Abänderung von Vergleichen und Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162000160)
 
 (1) Enthält ein Vergleich nach § 794 Abs. 1 Nr. 1 oder eine
 vollstreckbare Urkunde eine Verpflichtung zu künftig fällig werdenden
@@ -5951,6 +6323,7 @@ sich nach den Vorschriften des bürgerlichen Rechts.
 
 
 ##### § 323b Verschärfte Haftung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162100160)
 
 Die Rechtshängigkeit einer auf Herabsetzung gerichteten
 Abänderungsklage steht bei der Anwendung des § 818 Abs. 4 des
@@ -5959,6 +6332,7 @@ Rückzahlung der geleisteten Beträge gleich.
 
 
 ##### § 324 Nachforderungsklage zur Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038202301)
 
 Ist bei einer nach den §§ 843 bis 845 oder §§ 1569 bis 1586b des
 Bürgerlichen Gesetzbuchs erfolgten Verurteilung zur Entrichtung einer
@@ -5970,6 +6344,7 @@ dem Urteil bestimmten Sicherheit verlangen.
 
 
 ##### § 325 Subjektive Rechtskraftwirkung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038302301)
 
 (1) Das rechtskräftige Urteil wirkt für und gegen die Parteien und die
 Personen, die nach dem Eintritt der Rechtshängigkeit Rechtsnachfolger
@@ -5994,12 +6369,14 @@ Schiffshypothek, so gilt Absatz 3 Satz 1 entsprechend.
 
 
 ##### § 325a Feststellungswirkung des Musterentscheids \*)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145702301)
 
 Für die weitergehenden Wirkungen des Musterentscheids gelten die
 Vorschriften des Kapitalanleger-Musterverfahrensgesetzes.
 
 
 ##### § 326 Rechtskraft bei Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038402301)
 
 (1) Ein Urteil, das zwischen einem Vorerben und einem Dritten über
 einen gegen den Vorerben als Erben gerichteten Anspruch oder über
@@ -6014,6 +6391,7 @@ des Nacherben über den Gegenstand zu verfügen.
 
 
 ##### § 327 Rechtskraft bei Testamentsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038502301)
 
 (1) Ein Urteil, das zwischen einem Testamentsvollstrecker und einem
 Dritten über ein der Verwaltung des Testamentsvollstreckers
@@ -6026,6 +6404,7 @@ Führung des Rechtsstreits berechtigt ist.
 
 
 ##### § 328 Anerkennung ausländischer Urteile
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038606160)
 
 (1) Die Anerkennung des Urteils eines ausländischen Gerichts ist
 ausgeschlossen:
@@ -6064,6 +6443,7 @@ Inland nicht begründet war.
 
 
 ##### § 329 Beschlüsse und Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038704311)
 
 (1) Die auf Grund einer mündlichen Verhandlung ergehenden Beschlüsse
 des Gerichts müssen verkündet werden. Die Vorschriften der §§ 309, 310
@@ -6084,10 +6464,12 @@ unterliegen, sind zuzustellen.
 
 
 #### Titel 3 - Versäumnisurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG038802301)
 
 
 
 ##### § 330 Versäumnisurteil gegen den Kläger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE038902301)
 
 Erscheint der Kläger im Termin zur mündlichen Verhandlung nicht, so
 ist auf Antrag das Versäumnisurteil dahin zu erlassen, dass der Kläger
@@ -6095,6 +6477,7 @@ mit der Klage abzuweisen sei.
 
 
 ##### § 331 Versäumnisurteil gegen den Beklagten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039005125)
 
 (1) Beantragt der Kläger gegen den im Termin zur mündlichen
 Verhandlung nicht erschienenen Beklagten das Versäumnisurteil, so ist
@@ -6120,6 +6503,7 @@ ist.
 
 
 ##### § 331a Entscheidung nach Aktenlage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039102301)
 
 Beim Ausbleiben einer Partei im Termin zur mündlichen Verhandlung kann
 der Gegner statt eines Versäumnisurteils eine Entscheidung nach Lage
@@ -6129,6 +6513,7 @@ erscheint. § 251a Abs. 2 gilt entsprechend.
 
 
 ##### § 332 Begriff des Verhandlungstermins
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039202301)
 
 Als Verhandlungstermine im Sinne der vorstehenden Paragraphen sind
 auch diejenigen Termine anzusehen, auf welche die mündliche
@@ -6137,12 +6522,14 @@ dem Erlass eines Beweisbeschlusses bestimmt sind.
 
 
 ##### § 333 Nichtverhandeln der erschienenen Partei
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039302301)
 
 Als nicht erschienen ist auch die Partei anzusehen, die in dem Termin
 zwar erscheint, aber nicht verhandelt.
 
 
 ##### § 334 Unvollständiges Verhandeln
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039402301)
 
 Wenn eine Partei in dem Termin verhandelt, sich jedoch über Tatsachen,
 Urkunden oder Anträge auf Parteivernehmung nicht erklärt, so sind die
@@ -6150,6 +6537,7 @@ Vorschriften dieses Titels nicht anzuwenden.
 
 
 ##### § 335 Unzulässigkeit einer Versäumnisentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039503301)
 
 (1) Der Antrag auf Erlass eines Versäumnisurteils oder einer
 Entscheidung nach Lage der Akten ist zurückzuweisen:
@@ -6186,6 +6574,7 @@ zu dem neuen Termin zu laden.
 
 
 ##### § 336 Rechtsmittel bei Zurückweisung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039602301)
 
 (1) Gegen den Beschluss, durch den der Antrag auf Erlass des
 Versäumnisurteils zurückgewiesen wird, findet sofortige Beschwerde
@@ -6197,6 +6586,7 @@ ist unanfechtbar.
 
 
 ##### § 337 Vertagung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039702301)
 
 Das Gericht vertagt die Verhandlung über den Antrag auf Erlass des
 Versäumnisurteils oder einer Entscheidung nach Lage der Akten, wenn es
@@ -6207,12 +6597,14 @@ ist zu dem neuen Termin zu laden.
 
 
 ##### § 338 Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039804308)
 
 Der Partei, gegen die ein Versäumnisurteil erlassen ist, steht gegen
 das Urteil der Einspruch zu.
 
 
 ##### § 339 Einspruchsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE039903311)
 
 (1) Die Einspruchsfrist beträgt zwei Wochen; sie ist eine Notfrist und
 beginnt mit der Zustellung des Versäumnisurteils.
@@ -6227,6 +6619,7 @@ nachträglich durch besonderen Beschluss zu bestimmen.
 
 
 ##### § 340 Einspruchsschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040002301)
 
 (1) Der Einspruch wird durch Einreichung der Einspruchsschrift bei dem
 Prozessgericht eingelegt.
@@ -6256,6 +6649,7 @@ Versäumnisurteils hinzuweisen.
 
 
 ##### § 340a Zustellung der Einspruchsschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040103301)
 
 Die Einspruchsschrift ist der Gegenpartei zuzustellen. Dabei ist
 mitzuteilen, wann das Versäumnisurteil zugestellt und Einspruch
@@ -6265,6 +6659,7 @@ Einspruchsschrift als elektronisches Dokument übermittelt wird.
 
 
 ##### § 341 Einspruchsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040202301)
 
 (1) Das Gericht hat von Amts wegen zu prüfen, ob der Einspruch an sich
 statthaft und ob er in der gesetzlichen Form und Frist eingelegt ist.
@@ -6275,6 +6670,7 @@ unzulässig zu verwerfen.
 
 
 ##### § 341a Einspruchstermin
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040302301)
 
 Wird der Einspruch nicht als unzulässig verworfen, so ist der Termin
 zur mündlichen Verhandlung über den Einspruch und die Hauptsache zu
@@ -6282,6 +6678,7 @@ bestimmen und den Parteien bekannt zu machen.
 
 
 ##### § 342 Wirkung des zulässigen Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040402301)
 
 Ist der Einspruch zulässig, so wird der Prozess, soweit der Einspruch
 reicht, in die Lage zurückversetzt, in der er sich vor Eintritt der
@@ -6289,6 +6686,7 @@ Versäumnis befand.
 
 
 ##### § 343 Entscheidung nach Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040502301)
 
 Insoweit die Entscheidung, die auf Grund der neuen Verhandlung zu
 erlassen ist, mit der in dem Versäumnisurteil enthaltenen Entscheidung
@@ -6298,6 +6696,7 @@ wird das Versäumnisurteil in dem neuen Urteil aufgehoben.
 
 
 ##### § 344 Versäumniskosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040602301)
 
 Ist das Versäumnisurteil in gesetzlicher Weise ergangen, so sind die
 durch die Versäumnis veranlassten Kosten, soweit sie nicht durch einen
@@ -6307,6 +6706,7 @@ abändernde Entscheidung erlassen wird.
 
 
 ##### § 345 Zweites Versäumnisurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040702301)
 
 Einer Partei, die den Einspruch eingelegt hat, aber in der zur
 mündlichen Verhandlung bestimmten Sitzung oder in derjenigen Sitzung,
@@ -6316,6 +6716,7 @@ Einspruch verworfen wird, ein weiterer Einspruch nicht zu.
 
 
 ##### § 346 Verzicht und Zurücknahme des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040802301)
 
 Für den Verzicht auf den Einspruch und seine Zurücknahme gelten die
 Vorschriften über den Verzicht auf die Berufung und über ihre
@@ -6323,6 +6724,7 @@ Zurücknahme entsprechend.
 
 
 ##### § 347 Verfahren bei Widerklage und Zwischenstreit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE040902301)
 
 (1) Die Vorschriften dieses Titels gelten für das Verfahren, das eine
 Widerklage oder die Bestimmung des Betrages eines dem Grunde nach
@@ -6335,10 +6737,12 @@ Vorschriften dieses Titels gelten entsprechend.
 
 
 #### Titel 4 - Verfahren vor dem Einzelrichter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG041002301)
 
 
 
 ##### § 348 Originärer Einzelrichter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE041105125)
 
 (1) Die Zivilkammer entscheidet durch eines ihrer Mitglieder als
 Einzelrichter. Dies gilt nicht, wenn
@@ -6428,6 +6832,7 @@ ein Rechtsmittel nicht gestützt werden.
 
 
 ##### § 348a Obligatorischer Einzelrichter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143101301)
 
 (1) Ist eine originäre Einzelrichterzuständigkeit nach § 348 Abs. 1
 nicht begründet, überträgt die Zivilkammer die Sache durch Beschluss
@@ -6469,6 +6874,7 @@ Einzelrichter ist ausgeschlossen.
 
 
 ##### § 349 Vorsitzender der Kammer für Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158500301)
 
 (1) In der Kammer für Handelssachen hat der Vorsitzende die Sache so
 weit zu fördern, dass sie in einer mündlichen Verhandlung vor der
@@ -6527,6 +6933,7 @@ Beweisaufnahme sachgemäß zu würdigen vermag.
 
 
 ##### § 350 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE041302301)
 
 Für die Anfechtung der Entscheidungen des Einzelrichters (§§ 348,
 348a) und des Vorsitzenden der Kammer für Handelssachen (§ 349) gelten
@@ -6535,14 +6942,17 @@ Entscheidungen der Kammer.
 
 
 ##### (XXXX) §§ 351 bis 354 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE041401301)
 
 
 
 #### Titel 5 - Allgemeine Vorschriften über die Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG041802301)
 
 
 
 ##### § 355 Unmittelbarkeit der Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE041902301)
 
 (1) Die Beweisaufnahme erfolgt vor dem Prozessgericht. Sie ist nur in
 den durch dieses Gesetz bestimmten Fällen einem Mitglied des
@@ -6553,6 +6963,7 @@ andere Art der Beweisaufnahme angeordnet wird, findet nicht statt.
 
 
 ##### § 356 Beibringungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042002301)
 
 Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer
 entgegen, so ist durch Beschluss eine Frist zu bestimmen, nach deren
@@ -6562,6 +6973,7 @@ verzögert wird.
 
 
 ##### § 357 Parteiöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042103125)
 
 (1) Den Parteien ist gestattet, der Beweisaufnahme beizuwohnen.
 
@@ -6575,17 +6987,20 @@ oder erst in einem späteren Zeitpunkt zugegangen ist.
 
 
 ##### § 357a
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042201301)
 
 (weggefallen)
 
 
 ##### § 358 Notwendigkeit eines Beweisbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042302301)
 
 Erfordert die Beweisaufnahme ein besonderes Verfahren, so ist es durch
 Beweisbeschluss anzuordnen.
 
 
 ##### § 358a Beweisbeschluss und Beweisaufnahme vor mündlicher Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042403301)
 
 Das Gericht kann schon vor der mündlichen Verhandlung einen
 Beweisbeschluss erlassen. Der Beschluss kann vor der mündlichen
@@ -6610,6 +7025,7 @@ Verhandlung ausgeführt werden, soweit er anordnet
 
 
 ##### § 359 Inhalt des Beweisbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042502301)
 
 Der Beweisbeschluss enthält:
 
@@ -6628,6 +7044,7 @@ Der Beweisbeschluss enthält:
 
 
 ##### § 360 Änderung des Beweisbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042602301)
 
 Vor der Erledigung des Beweisbeschlusses kann keine Partei dessen
 Änderung auf Grund der früheren Verhandlungen verlangen. Das Gericht
@@ -6642,6 +7059,7 @@ in jedem Fall von der Änderung unverzüglich zu benachrichtigen.
 
 
 ##### § 361 Beweisaufnahme durch beauftragten Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042702301)
 
 (1) Soll die Beweisaufnahme durch ein Mitglied des Prozessgerichts
 erfolgen, so wird bei der Verkündung des Beweisbeschlusses durch den
@@ -6654,6 +7072,7 @@ so ernennt der Vorsitzende ein anderes Mitglied.
 
 
 ##### § 362 Beweisaufnahme durch ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042803301)
 
 (1) Soll die Beweisaufnahme durch ein anderes Gericht erfolgen, so ist
 das Ersuchungsschreiben von dem Vorsitzenden zu erlassen.
@@ -6665,6 +7084,7 @@ Parteien von dem Eingang.
 
 
 ##### § 363 Beweisaufnahme im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE042906360)
 
 (1) Für die Durchführung der Verordnung (EU) 2020/1783 des
 Europäischen Parlaments und des Rates vom 25. November 2020 über die
@@ -6696,6 +7116,7 @@ Konsularbeamte um Aufnahme des Beweises ersuchen.
 
 
 ##### § 364 Parteimitwirkung bei Beweisaufnahme im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043002301)
 
 (1) Wird eine ausländische Behörde ersucht, den Beweis aufzunehmen, so
 kann das Gericht anordnen, dass der Beweisführer das
@@ -6721,6 +7142,7 @@ berechtigt ist.
 
 
 ##### § 365 Abgabe durch beauftragten oder ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043102301)
 
 Der beauftragte oder ersuchte Richter ist ermächtigt, falls sich
 später Gründe ergeben, welche die Beweisaufnahme durch ein anderes
@@ -6730,6 +7152,7 @@ Kenntnis zu setzen.
 
 
 ##### § 366 Zwischenstreit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043202301)
 
 (1) Erhebt sich bei der Beweisaufnahme vor einem beauftragten oder
 ersuchten Richter ein Streit, von dessen Erledigung die Fortsetzung
@@ -6742,6 +7165,7 @@ von Amts wegen zu bestimmen und den Parteien bekannt zu machen.
 
 
 ##### § 367 Ausbleiben der Partei
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043302301)
 
 (1) Erscheint eine Partei oder erscheinen beide Parteien in dem Termin
 zur Beweisaufnahme nicht, so ist die Beweisaufnahme gleichwohl
@@ -6758,6 +7182,7 @@ Beweisaufnahme veranlasst sei.
 
 
 ##### § 368 Neuer Beweistermin
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043402301)
 
 Wird ein neuer Termin zur Beweisaufnahme oder zu ihrer Fortsetzung
 erforderlich, so ist dieser Termin, auch wenn der Beweisführer oder
@@ -6766,6 +7191,7 @@ wegen zu bestimmen.
 
 
 ##### § 369 Ausländische Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043502301)
 
 Entspricht die von einer ausländischen Behörde vorgenommene
 Beweisaufnahme den für das Prozessgericht geltenden Gesetzen, so kann
@@ -6774,6 +7200,7 @@ Einwand entnommen werden.
 
 
 ##### § 370 Fortsetzung der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043602301)
 
 (1) Erfolgt die Beweisaufnahme vor dem Prozessgericht, so ist der
 Termin, in dem die Beweisaufnahme stattfindet, zugleich zur
@@ -6788,10 +7215,12 @@ und den Parteien bekannt gemacht.
 
 
 #### Titel 6 - Beweis durch Augenschein
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG043702301)
 
 
 
 ##### § 371 Beweis durch Augenschein
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043804301)
 
 (1) Der Beweis durch Augenschein wird durch Bezeichnung des
 Gegenstandes des Augenscheins und durch die Angabe der zu beweisenden
@@ -6811,6 +7240,7 @@ Gegenstandes als bewiesen angesehen werden.
 
 
 ##### § 371a Beweiskraft elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145404125)
 
 (1) Auf private elektronische Dokumente, die mit einer qualifizierten
 elektronischen Signatur versehen sind, finden die Vorschriften über
@@ -6855,6 +7285,7 @@ versehene Person als Nutzer des De-Mail-Kontos ausweist.
 
 
 ##### § 371b Beweiskraft gescannter öffentlicher Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165801125)
 
 Wird eine öffentliche Urkunde nach dem Stand der Technik von einer
 Behörde oder von einer mit öffentlichem Glauben versehenen Person in
@@ -6870,6 +7301,7 @@ gilt § 437 entsprechend.
 
 
 ##### § 372 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE043902301)
 
 (1) Das Prozessgericht kann anordnen, dass bei der Einnahme des
 Augenscheins ein oder mehrere Sachverständige zuzuziehen seien.
@@ -6880,6 +7312,7 @@ der zuzuziehenden Sachverständigen überlassen.
 
 
 ##### § 372a Untersuchungen zur Feststellung der Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044004160)
 
 (1) Soweit es zur Feststellung der Abstammung erforderlich ist, hat
 jede Person Untersuchungen, insbesondere die Entnahme von Blutproben,
@@ -6893,10 +7326,12 @@ Untersuchung angeordnet werden.
 
 
 #### Titel 7 - Zeugenbeweis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG044102301)
 
 
 
 ##### § 373 Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044202301)
 
 Der Zeugenbeweis wird durch die Benennung der Zeugen und die
 Bezeichnung der Tatsachen, über welche die Vernehmung der Zeugen
@@ -6904,11 +7339,13 @@ stattfinden soll, angetreten.
 
 
 ##### § 374
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044301301)
 
 (weggefallen)
 
 
 ##### § 375 Beweisaufnahme durch beauftragten oder ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044404125)
 
 (1) Die Aufnahme des Zeugenbeweises darf einem Mitglied des
 Prozessgerichts oder einem anderen Gericht nur übertragen werden, wenn
@@ -6945,6 +7382,7 @@ dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag.
 
 
 ##### § 376 Vernehmung bei Amtsverschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044503301)
 
 (1) Für die Vernehmung von Richtern, Beamten und anderen Personen des
 öffentlichen Dienstes als Zeugen über Umstände, auf die sich ihre
@@ -6972,6 +7410,7 @@ Mandatszeit zur Kenntnis gelangt sind.
 
 
 ##### § 377 Zeugenladung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044605125)
 
 (1) Die Ladung der Zeugen ist von der Geschäftsstelle unter Bezugnahme
 auf den Beweisbeschluss auszufertigen und von Amts wegen mitzuteilen.
@@ -7010,6 +7449,7 @@ Beweisfrage für notwendig erachtet.
 
 
 ##### § 378 Aussageerleichternde Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044703301)
 
 (1) Soweit es die Aussage über seine Wahrnehmungen erleichtert, hat
 der Zeuge Aufzeichnungen und andere Unterlagen einzusehen und zu dem
@@ -7023,6 +7463,7 @@ hinzuweisen.
 
 
 ##### § 379 Auslagenvorschuss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044802301)
 
 Das Gericht kann die Ladung des Zeugen davon abhängig machen, dass der
 Beweisführer einen hinreichenden Vorschuss zur Deckung der Auslagen
@@ -7034,6 +7475,7 @@ nach der freien Überzeugung des Gerichts das Verfahren verzögert wird.
 
 
 ##### § 380 Folgen des Ausbleibens des Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE044902301)
 
 (1) Einem ordnungsgemäß geladenen Zeugen, der nicht erscheint, werden,
 ohne dass es eines Antrages bedarf, die durch das Ausbleiben
@@ -7049,6 +7491,7 @@ angeordnet werden.
 
 
 ##### § 381 Genügende Entschuldigung des Ausbleibens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045002301)
 
 (1) Die Auferlegung der Kosten und die Festsetzung eines
 Ordnungsmittels unterbleiben, wenn das Ausbleiben des Zeugen
@@ -7067,6 +7510,7 @@ bestimmten neuen Termin angebracht werden.
 
 
 ##### § 382 Vernehmung an bestimmten Orten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045102301)
 
 (1) Die Mitglieder der Bundesregierung oder einer Landesregierung sind
 an ihrem Amtssitz oder, wenn sie sich außerhalb ihres Amtssitzes
@@ -7092,6 +7536,7 @@ Versammlung dort zu vernehmen.
 
 
 ##### § 383 Zeugnisverweigerung aus persönlichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045205125)
 
 (1) Zur Verweigerung des Zeugnisses sind berechtigt:
 
@@ -7142,6 +7587,7 @@ kann.
 
 
 ##### § 384 Zeugnisverweigerung aus sachlichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045302301)
 
 Das Zeugnis kann verweigert werden:
 
@@ -7164,6 +7610,7 @@ Das Zeugnis kann verweigert werden:
 
 
 ##### § 385 Ausnahmen vom Zeugnisverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045402301)
 
 (1) In den Fällen des § 383 Nr. 1 bis 3 und des § 384 Nr. 1 darf der
 Zeuge das Zeugnis nicht verweigern:
@@ -7193,6 +7640,7 @@ entbunden sind.
 
 
 ##### § 386 Erklärung der Zeugnisverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045502301)
 
 (1) Der Zeuge, der das Zeugnis verweigert, hat vor dem zu seiner
 Vernehmung bestimmten Termin schriftlich oder zum Protokoll der
@@ -7212,6 +7660,7 @@ benachrichtigen.
 
 
 ##### § 387 Zwischenstreit über Zeugnisverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045602301)
 
 (1) Über die Rechtmäßigkeit der Weigerung wird von dem Prozessgericht
 nach Anhörung der Parteien entschieden.
@@ -7223,6 +7672,7 @@ vertreten zu lassen.
 
 
 ##### § 388 Zwischenstreit über schriftliche Zeugnisverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045702301)
 
 Hat der Zeuge seine Weigerung schriftlich oder zum Protokoll der
 Geschäftsstelle erklärt und ist er in dem Termin nicht erschienen, so
@@ -7231,6 +7681,7 @@ Bericht zu erstatten.
 
 
 ##### § 389 Zeugnisverweigerung vor beauftragtem oder ersuchtem Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045802301)
 
 (1) Erfolgt die Weigerung vor einem beauftragten oder ersuchten
 Richter, so sind die Erklärungen des Zeugen, wenn sie nicht
@@ -7248,6 +7699,7 @@ oder Beweismittel dürfen nicht geltend gemacht werden.
 
 
 ##### § 390 Folgen der Zeugnisverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE045902301)
 
 (1) Wird das Zeugnis oder die Eidesleistung ohne Angabe eines Grundes
 oder aus einem rechtskräftig für unerheblich erklärten Grund
@@ -7265,6 +7717,7 @@ Beendigung des Prozesses in dem Rechtszug hinaus. Die Vorschriften
 
 
 ##### § 391 Zeugenbeeidigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046002301)
 
 Ein Zeuge ist, vorbehaltlich der sich aus § 393 ergebenden Ausnahmen,
 zu beeidigen, wenn das Gericht dies mit Rücksicht auf die Bedeutung
@@ -7273,6 +7726,7 @@ geboten erachtet und die Parteien auf die Beeidigung nicht verzichten.
 
 
 ##### § 392 Nacheid; Eidesnorm
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046102301)
 
 Die Beeidigung erfolgt nach der Vernehmung. Mehrere Zeugen können
 gleichzeitig beeidigt werden. Die Eidesnorm geht dahin, dass der Zeuge
@@ -7281,6 +7735,7 @@ habe.
 
 
 ##### § 393 Uneidliche Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046202301)
 
 Personen, die zur Zeit der Vernehmung das 16. Lebensjahr noch nicht
 vollendet oder wegen mangelnder Verstandesreife oder wegen
@@ -7289,6 +7744,7 @@ genügende Vorstellung haben, sind unbeeidigt zu vernehmen.
 
 
 ##### § 394 Einzelvernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046302301)
 
 (1) Jeder Zeuge ist einzeln und in Abwesenheit der später abzuhörenden
 Zeugen zu vernehmen.
@@ -7298,6 +7754,7 @@ gegenübergestellt werden.
 
 
 ##### § 395 Wahrheitsermahnung; Vernehmung zur Person
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046402301)
 
 (1) Vor der Vernehmung wird der Zeuge zur Wahrheit ermahnt und darauf
 hingewiesen, dass er in den vom Gesetz vorgesehenen Fällen unter
@@ -7311,6 +7768,7 @@ seine Beziehungen zu den Parteien vorzulegen.
 
 
 ##### § 396 Vernehmung zur Sache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046502301)
 
 (1) Der Zeuge ist zu veranlassen, dasjenige, was ihm von dem
 Gegenstand seiner Vernehmung bekannt ist, im Zusammenhang anzugeben.
@@ -7324,6 +7782,7 @@ gestatten, Fragen zu stellen.
 
 
 ##### § 397 Fragerecht der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046602301)
 
 (1) Die Parteien sind berechtigt, dem Zeugen diejenigen Fragen
 vorlegen zu lassen, die sie zur Aufklärung der Sache oder der
@@ -7337,6 +7796,7 @@ richten.
 
 
 ##### § 398 Wiederholte und nachträgliche Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046702301)
 
 (1) Das Prozessgericht kann nach seinem Ermessen die wiederholte
 Vernehmung eines Zeugen anordnen.
@@ -7353,6 +7813,7 @@ versichern lassen.
 
 
 ##### § 399 Verzicht auf Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046802301)
 
 Die Partei kann auf einen Zeugen, den sie vorgeschlagen hat,
 verzichten; der Gegner kann aber verlangen, dass der erschienene Zeuge
@@ -7361,6 +7822,7 @@ fortgesetzt werde.
 
 
 ##### § 400 Befugnisse des mit der Beweisaufnahme betrauten Richters
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE046902301)
 
 Der mit der Beweisaufnahme betraute Richter ist ermächtigt, im Falle
 des Nichterscheinens oder der Zeugnisverweigerung die gesetzlichen
@@ -7371,16 +7833,19 @@ entscheiden und die nochmalige Vernehmung eines Zeugen vorzunehmen.
 
 
 ##### § 401 Zeugenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047003301)
 
 Der Zeuge wird nach dem Justizvergütungs- und -entschädigungsgesetz
 entschädigt.
 
 
 #### Titel 8 - Beweis durch Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG047102301)
 
 
 
 ##### § 402 Anwendbarkeit der Vorschriften für Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047202301)
 
 Für den Beweis durch Sachverständige gelten die Vorschriften über den
 Beweis durch Zeugen entsprechend, insoweit nicht in den nachfolgenden
@@ -7388,12 +7853,14 @@ Paragraphen abweichende Vorschriften enthalten sind.
 
 
 ##### § 403 Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047302301)
 
 Der Beweis wird durch die Bezeichnung der zu begutachtenden Punkte
 angetreten.
 
 
 ##### § 404 Sachverständigenauswahl
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047403311)
 
 (1) Die Auswahl der zuzuziehenden Sachverständigen und die Bestimmung
 ihrer Anzahl erfolgt durch das Prozessgericht. Es kann sich auf die
@@ -7417,6 +7884,7 @@ Anzahl beschränken.
 
 
 ##### § 404a Leitung der Tätigkeit des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE128802301)
 
 (1) Das Gericht hat die Tätigkeit des Sachverständigen zu leiten und
 kann ihm für Art und Umfang seiner Tätigkeit Weisungen erteilen.
@@ -7439,6 +7907,7 @@ statt, so ist den Parteien die Teilnahme zu gestatten.
 
 
 ##### § 405 Auswahl durch den mit der Beweisaufnahme betrauten Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047503301)
 
 Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter
 zur Ernennung der Sachverständigen ermächtigen. Er hat in diesem Falle
@@ -7447,6 +7916,7 @@ die Befugnisse und Pflichten des Prozessgerichts nach den §§ 404,
 
 
 ##### § 406 Ablehnung eines Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047603301)
 
 (1) Ein Sachverständiger kann aus denselben Gründen, die zur Ablehnung
 eines Richters berechtigen, abgelehnt werden. Ein Ablehnungsgrund kann
@@ -7474,6 +7944,7 @@ unbegründet erklärt wird, findet sofortige Beschwerde statt.
 
 
 ##### § 407 Pflicht zur Erstattung des Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047702301)
 
 (1) Der zum Sachverständigen Ernannte hat der Ernennung Folge zu
 leisten, wenn er zur Erstattung von Gutachten der erforderten Art
@@ -7487,6 +7958,7 @@ sich hierzu vor Gericht bereit erklärt hat.
 
 
 ##### § 407a Weitere Pflichten des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE128903311)
 
 (1) Der Sachverständige hat unverzüglich zu prüfen, ob der Auftrag in
 sein Fachgebiet fällt und ohne die Hinzuziehung weiterer
@@ -7524,6 +7996,7 @@ hinweisen.
 
 
 ##### § 408 Gutachtenverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047802301)
 
 (1) Dieselben Gründe, die einen Zeugen berechtigen, das Zeugnis zu
 verweigern, berechtigen einen Sachverständigen zur Verweigerung des
@@ -7543,6 +8016,7 @@ Sachverständiger vernommen werden.
 
 
 ##### § 409 Folgen des Ausbleibens oder der Gutachtenverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE047903301)
 
 (1) Wenn ein Sachverständiger nicht erscheint oder sich weigert, ein
 Gutachten zu erstatten, obgleich er dazu verpflichtet ist, oder wenn
@@ -7555,6 +8029,7 @@ Ordnungsgeld noch einmal festgesetzt werden.
 
 
 ##### § 410 Sachverständigenbeeidigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048002301)
 
 (1) Der Sachverständige wird vor oder nach Erstattung des Gutachtens
 beeidigt. Die Eidesnorm geht dahin, dass der Sachverständige das von
@@ -7568,6 +8043,7 @@ erklärt werden.
 
 
 ##### § 411 Schriftliches Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048107125)
 
 (1) Wird schriftliche Begutachtung angeordnet, setzt das Gericht dem
 Sachverständigen eine Frist, innerhalb derer er das von ihm
@@ -7595,6 +8071,7 @@ setzen; § 296 Abs. 1, 4 gilt entsprechend.
 
 
 ##### § 411a Verwertung von Sachverständigengutachten aus anderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144602301)
 
 Die schriftliche Begutachtung kann durch die Verwertung eines
 gerichtlich oder staatsanwaltschaftlich eingeholten
@@ -7602,6 +8079,7 @@ Sachverständigengutachtens aus einem anderen Verfahren ersetzt werden.
 
 
 ##### § 412 Neues Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048202301)
 
 (1) Das Gericht kann eine neue Begutachtung durch dieselben oder durch
 andere Sachverständige anordnen, wenn es das Gutachten für ungenügend
@@ -7613,12 +8091,14 @@ des Gutachtens mit Erfolg abgelehnt ist.
 
 
 ##### § 413 Sachverständigenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048304301)
 
 Der Sachverständige erhält eine Vergütung nach dem Justizvergütungs-
 und -entschädigungsgesetz.
 
 
 ##### § 414 Sachverständige Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048402301)
 
 Insoweit zum Beweis vergangener Tatsachen oder Zustände, zu deren
 Wahrnehmung eine besondere Sachkunde erforderlich war, sachkundige
@@ -7627,10 +8107,12 @@ Zeugenbeweis zur Anwendung.
 
 
 #### Titel 9 - Beweis durch Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG048502301)
 
 
 
 ##### § 415 Beweiskraft öffentlicher Urkunden über Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048602301)
 
 (1) Urkunden, die von einer öffentlichen Behörde innerhalb der Grenzen
 ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben
@@ -7645,6 +8127,7 @@ zulässig.
 
 
 ##### § 416 Beweiskraft von Privaturkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048702301)
 
 Privaturkunden begründen, sofern sie von den Ausstellern
 unterschrieben oder mittels notariell beglaubigten Handzeichens
@@ -7653,6 +8136,7 @@ Erklärungen von den Ausstellern abgegeben sind.
 
 
 ##### § 416a Beweiskraft des Ausdrucks eines öffentlichen elektronischen Dokuments
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145503311)
 
 Der mit einem Beglaubigungsvermerk versehene Ausdruck eines
 öffentlichen elektronischen Dokuments gemäß § 371a Absatz 3, den eine
@@ -7666,6 +8150,7 @@ gleich.
 
 
 ##### § 417 Beweiskraft öffentlicher Urkunden über amtliche Anordnung, Verfügung oder Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048802301)
 
 Die von einer Behörde ausgestellten, eine amtliche Anordnung,
 Verfügung oder Entscheidung enthaltenden öffentlichen Urkunden
@@ -7673,6 +8158,7 @@ begründen vollen Beweis ihres Inhalts.
 
 
 ##### § 418 Beweiskraft öffentlicher Urkunden mit anderem Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE048902301)
 
 (1) Öffentliche Urkunden, die einen anderen als den in den §§ 415, 417
 bezeichneten Inhalt haben, begründen vollen Beweis der darin bezeugten
@@ -7689,6 +8175,7 @@ Beweiskraft des Zeugnisses von der eigenen Wahrnehmung unabhängig ist.
 
 
 ##### § 419 Beweiskraft mangelbehafteter Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049002301)
 
 Inwiefern Durchstreichungen, Radierungen, Einschaltungen oder sonstige
 äußere Mängel die Beweiskraft einer Urkunde ganz oder teilweise
@@ -7697,11 +8184,13 @@ aufheben oder mindern, entscheidet das Gericht nach freier
 
 
 ##### § 420 Vorlegung durch Beweisführer; Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049102301)
 
 Der Beweis wird durch die Vorlegung der Urkunde angetreten.
 
 
 ##### § 421 Vorlegung durch den Gegner; Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049202301)
 
 Befindet sich die Urkunde nach der Behauptung des Beweisführers in den
 Händen des Gegners, so wird der Beweis durch den Antrag angetreten,
@@ -7709,6 +8198,7 @@ dem Gegner die Vorlegung der Urkunde aufzugeben.
 
 
 ##### § 422 Vorlegungspflicht des Gegners nach bürgerlichem Recht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049302301)
 
 Der Gegner ist zur Vorlegung der Urkunde verpflichtet, wenn der
 Beweisführer nach den Vorschriften des bürgerlichen Rechts die
@@ -7716,6 +8206,7 @@ Herausgabe oder die Vorlegung der Urkunde verlangen kann.
 
 
 ##### § 423 Vorlegungspflicht des Gegners bei Bezugnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049402301)
 
 Der Gegner ist auch zur Vorlegung der in seinen Händen befindlichen
 Urkunden verpflichtet, auf die er im Prozess zur Beweisführung Bezug
@@ -7724,6 +8215,7 @@ geschehen ist.
 
 
 ##### § 424 Antrag bei Vorlegung durch Gegner
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049502301)
 
 Der Antrag soll enthalten:
 
@@ -7749,6 +8241,7 @@ Der Antrag soll enthalten:
 
 
 ##### § 425 Anordnung der Vorlegung durch Gegner
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049602301)
 
 Erachtet das Gericht die Tatsache, die durch die Urkunde bewiesen
 werden soll, für erheblich und den Antrag für begründet, so ordnet es,
@@ -7758,6 +8251,7 @@ Vorlegung der Urkunde an.
 
 
 ##### § 426 Vernehmung des Gegners über den Verbleib
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049702301)
 
 Bestreitet der Gegner, dass die Urkunde sich in seinem Besitz befinde,
 so ist er über ihren Verbleib zu vernehmen. In der Ladung zum
@@ -7769,6 +8263,7 @@ Vorlegung an.
 
 
 ##### § 427 Folgen der Nichtvorlegung durch Gegner
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049802301)
 
 Kommt der Gegner der Anordnung, die Urkunde vorzulegen, nicht nach
 oder gelangt das Gericht im Falle des § 426 zu der Überzeugung, dass
@@ -7781,6 +8276,7 @@ werden.
 
 
 ##### § 428 Vorlegung durch Dritte; Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE049902301)
 
 Befindet sich die Urkunde nach der Behauptung des Beweisführers im
 Besitz eines Dritten, so wird der Beweis durch den Antrag angetreten,
@@ -7789,6 +8285,7 @@ Anordnung nach § 142 zu erlassen.
 
 
 ##### § 429 Vorlegungspflicht Dritter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050002301)
 
 Der Dritte ist aus denselben Gründen wie der Gegner des Beweisführers
 zur Vorlegung einer Urkunde verpflichtet; er kann zur Vorlegung nur im
@@ -7796,6 +8293,7 @@ Wege der Klage genötigt werden. § 142 bleibt unberührt.
 
 
 ##### § 430 Antrag bei Vorlegung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050102301)
 
 Zur Begründung des nach § 428 zu stellenden Antrages hat der
 Beweisführer den Erfordernissen des § 424 Nr. 1 bis 3, 5 zu genügen
@@ -7804,6 +8302,7 @@ des Dritten befinde.
 
 
 ##### § 431 Vorlegungsfrist bei Vorlegung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050202301)
 
 (1) Ist die Tatsache, die durch die Urkunde bewiesen werden soll,
 erheblich und entspricht der Antrag den Vorschriften des vorstehenden
@@ -7817,6 +8316,7 @@ Prozesses oder der Zwangsvollstreckung verzögert.
 
 
 ##### § 432 Vorlegung durch Behörden oder Beamte; Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050302301)
 
 (1) Befindet sich die Urkunde nach der Behauptung des Beweisführers in
 den Händen einer öffentlichen Behörde oder eines öffentlichen Beamten,
@@ -7833,11 +8333,13 @@ gestützt wird, so gelten die Vorschriften der §§ 428 bis 431.
 
 
 ##### § 433
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050401301)
 
 (weggefallen)
 
 
 ##### § 434 Vorlegung vor beauftragtem oder ersuchtem Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050502301)
 
 Wenn eine Urkunde bei der mündlichen Verhandlung wegen erheblicher
 Hindernisse nicht vorgelegt werden kann oder wenn es bedenklich
@@ -7848,6 +8350,7 @@ einem anderen Gericht vorgelegt werde.
 
 
 ##### § 435 Vorlegung öffentlicher Urkunden in Urschrift oder beglaubigter Abschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050602301)
 
 Eine öffentliche Urkunde kann in Urschrift oder in einer beglaubigten
 Abschrift, die hinsichtlich der Beglaubigung die Erfordernisse einer
@@ -7860,12 +8363,14 @@ beglaubigten Abschrift beizulegen sei.
 
 
 ##### § 436 Verzicht nach Vorlegung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050702301)
 
 Der Beweisführer kann nach der Vorlegung einer Urkunde nur mit
 Zustimmung des Gegners auf dieses Beweismittel verzichten.
 
 
 ##### § 437 Echtheit inländischer öffentlicher Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050802301)
 
 (1) Urkunden, die nach Form und Inhalt als von einer öffentlichen
 Behörde oder von einer mit öffentlichem Glauben versehenen Person
@@ -7877,6 +8382,7 @@ errichtet sein soll, zu einer Erklärung über die Echtheit veranlassen.
 
 
 ##### § 438 Echtheit ausländischer öffentlicher Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE050902301)
 
 (1) Ob eine Urkunde, die als von einer ausländischen Behörde oder von
 einer mit öffentlichem Glauben versehenen Person des Auslandes
@@ -7888,6 +8394,7 @@ Legalisation durch einen Konsul oder Gesandten des Bundes.
 
 
 ##### § 439 Erklärung über Echtheit von Privaturkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051002301)
 
 (1) Über die Echtheit einer Privaturkunde hat sich der Gegner des
 Beweisführers nach der Vorschrift des § 138 zu erklären.
@@ -7901,6 +8408,7 @@ zu wollen, aus den übrigen Erklärungen der Partei hervorgeht.
 
 
 ##### § 440 Beweis der Echtheit von Privaturkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051102301)
 
 (1) Die Echtheit einer nicht anerkannten Privaturkunde ist zu
 beweisen.
@@ -7912,6 +8420,7 @@ Vermutung der Echtheit für sich.
 
 
 ##### § 441 Schriftvergleichung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051202301)
 
 (1) Der Beweis der Echtheit oder Unechtheit einer Urkunde kann auch
 durch Schriftvergleichung geführt werden.
@@ -7937,6 +8446,7 @@ des § 431 entsprechend.
 
 
 ##### § 442 Würdigung der Schriftvergleichung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051302301)
 
 Über das Ergebnis der Schriftvergleichung hat das Gericht nach freier
 Überzeugung, geeignetenfalls nach Anhörung von Sachverständigen, zu
@@ -7944,6 +8454,7 @@ entscheiden.
 
 
 ##### § 443 Verwahrung verdächtiger Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051402301)
 
 Urkunden, deren Echtheit bestritten ist oder deren Inhalt verändert
 sein soll, werden bis zur Erledigung des Rechtsstreits auf der
@@ -7952,6 +8463,7 @@ andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist.
 
 
 ##### § 444 Folgen der Beseitigung einer Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051502301)
 
 Ist eine Urkunde von einer Partei in der Absicht, ihre Benutzung dem
 Gegner zu entziehen, beseitigt oder zur Benutzung untauglich gemacht,
@@ -7960,10 +8472,12 @@ Inhalt der Urkunde als bewiesen angesehen werden.
 
 
 #### Titel 10 - Beweis durch Parteivernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG051602301)
 
 
 
 ##### § 445 Vernehmung des Gegners; Beweisantritt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051702301)
 
 (1) Eine Partei, die den ihr obliegenden Beweis mit anderen
 Beweismitteln nicht vollständig geführt oder andere Beweismittel nicht
@@ -7975,6 +8489,7 @@ betrifft, deren Gegenteil das Gericht für erwiesen erachtet.
 
 
 ##### § 446 Weigerung des Gegners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051802301)
 
 Lehnt der Gegner ab, sich vernehmen zu lassen, oder gibt er auf
 Verlangen des Gerichts keine Erklärung ab, so hat das Gericht unter
@@ -7984,6 +8499,7 @@ entscheiden, ob es die behauptete Tatsache als erwiesen ansehen will.
 
 
 ##### § 447 Vernehmung der beweispflichtigen Partei auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE051902301)
 
 Das Gericht kann über eine streitige Tatsache auch die
 beweispflichtige Partei vernehmen, wenn eine Partei es beantragt und
@@ -7991,6 +8507,7 @@ die andere damit einverstanden ist.
 
 
 ##### § 448 Vernehmung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052002301)
 
 Auch ohne Antrag einer Partei und ohne Rücksicht auf die Beweislast
 kann das Gericht, wenn das Ergebnis der Verhandlungen und einer
@@ -8001,6 +8518,7 @@ anordnen.
 
 
 ##### § 449 Vernehmung von Streitgenossen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052102301)
 
 Besteht die zu vernehmende Partei aus mehreren Streitgenossen, so
 bestimmt das Gericht nach Lage des Falles, ob alle oder nur einzelne
@@ -8008,6 +8526,7 @@ Streitgenossen zu vernehmen sind.
 
 
 ##### § 450 Beweisbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052202301)
 
 (1) Die Vernehmung einer Partei wird durch Beweisbeschluss angeordnet.
 Die Partei ist, wenn sie bei der Verkündung des Beschlusses nicht
@@ -8024,12 +8543,14 @@ geklärt erachtet.
 
 
 ##### § 451 Ausführung der Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052303301)
 
 Für die Vernehmung einer Partei gelten die Vorschriften der §§ 375,
 376, 395 Abs. 1, Abs. 2 Satz 1 und der §§ 396, 397, 398 entsprechend.
 
 
 ##### § 452 Beeidigung der Partei
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143202301)
 
 (1) Reicht das Ergebnis der unbeeidigten Aussage einer Partei nicht
 aus, um das Gericht von der Wahrheit oder Unwahrheit der zu
@@ -8048,6 +8569,7 @@ der Eidespflicht rechtskräftig verurteilt ist, ist unzulässig.
 
 
 ##### § 453 Beweiswürdigung bei Parteivernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052507301)
 
 (1) Das Gericht hat die Aussage der Partei nach § 286 frei zu
 würdigen.
@@ -8057,6 +8579,7 @@ entsprechend.
 
 
 ##### § 454 Ausbleiben der Partei
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052604301)
 
 (1) Bleibt die Partei in dem zu ihrer Vernehmung oder Beeidigung
 bestimmten Termin aus, so entscheidet das Gericht unter
@@ -8071,6 +8594,7 @@ erachtet, zur Hauptsache zu verhandeln.
 
 
 ##### § 455 Prozessunfähige
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE128502301)
 
 (1) Ist eine Partei nicht prozessfähig, so ist vorbehaltlich der
 Vorschrift im Absatz 2 ihr gesetzlicher Vertreter zu vernehmen. Sind
@@ -8086,19 +8610,23 @@ wird.
 
 
 ##### (XXXX) §§ 456 bis 477 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE052804301)
 
 
 
 #### Titel 11 - Abnahme von Eiden und Bekräftigungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG055002301)
 
 
 
 ##### § 478 Eidesleistung in Person
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055102301)
 
 Der Eid muss von dem Schwurpflichtigen in Person geleistet werden.
 
 
 ##### § 479 Eidesleistung vor beauftragtem oder ersuchtem Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055203125)
 
 (1) Das Prozessgericht kann anordnen, dass der Eid vor einem seiner
 Mitglieder oder vor einem anderen Gericht geleistet werde, wenn der
@@ -8111,6 +8639,7 @@ Mitglied des Prozessgerichts oder vor einem anderen Gericht.
 
 
 ##### § 480 Eidesbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055302301)
 
 Vor der Leistung des Eides hat der Richter den Schwurpflichtigen in
 angemessener Weise über die Bedeutung des Eides sowie darüber zu
@@ -8119,6 +8648,7 @@ Beteuerung leisten kann.
 
 
 ##### § 481 Eidesleistung; Eidesformel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055402301)
 
 (1) Der Eid mit religiöser Beteuerung wird in der Weise geleistet,
 dass der Richter die Eidesnorm mit der Eingangsformel:
@@ -8145,11 +8675,13 @@ die Eidesformel von jedem Schwurpflichtigen einzeln gesprochen.
 
 
 ##### § 482
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055501301)
 
 (weggefallen)
 
 
 ##### § 483 Eidesleistung sprach- oder hörbehinderter Personen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055603301)
 
 (1) Eine hör- oder sprachbehinderte Person leistet den Eid nach ihrer
 Wahl mittels Nachsprechens der Eidesformel, mittels Abschreibens und
@@ -8167,6 +8699,7 @@ unverhältnismäßigem Aufwand möglich ist.
 
 
 ##### § 484 Eidesgleiche Bekräftigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055702301)
 
 (1) Gibt der Schwurpflichtige an, dass er aus Glaubens- oder
 Gewissensgründen keinen Eid leisten wolle, so hat er eine Bekräftigung
@@ -8183,10 +8716,12 @@ vorspricht und der Verpflichtete darauf spricht:
 
 
 #### Titel 12 - Selbständiges Beweisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG055803301)
 
 
 
 ##### § 485 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE055903301)
 
 (1) Während oder außerhalb eines Streitverfahrens kann auf Antrag
 einer Partei die Einnahme des Augenscheins, die Vernehmung von Zeugen
@@ -8218,6 +8753,7 @@ des § 412 erfüllt sind.
 
 
 ##### § 486 Zuständiges Gericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056003301)
 
 (1) Ist ein Rechtsstreit anhängig, so ist der Antrag bei dem
 Prozessgericht zu stellen.
@@ -8238,6 +8774,7 @@ werden.
 
 
 ##### § 487 Inhalt des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056103301)
 
 Der Antrag muss enthalten:
 
@@ -8260,10 +8797,12 @@ Der Antrag muss enthalten:
 
 
 ##### (XXXX) §§ 488 und 489 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056201301)
 
 
 
 ##### § 490 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056403301)
 
 (1) Über den Antrag entscheidet das Gericht durch Beschluss.
 
@@ -8274,6 +8813,7 @@ Sachverständigen zu bezeichnen. Der Beschluss ist nicht anfechtbar.
 
 
 ##### § 491 Ladung des Gegners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056503301)
 
 (1) Der Gegner ist, sofern es nach den Umständen des Falles geschehen
 kann, unter Zustellung des Beschlusses und einer Abschrift des Antrags
@@ -8285,6 +8825,7 @@ nicht entgegen.
 
 
 ##### § 492 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056604125)
 
 (1) Die Beweisaufnahme erfolgt nach den für die Aufnahme des
 betreffenden Beweismittels überhaupt geltenden Vorschriften.
@@ -8299,6 +8840,7 @@ entsprechend.
 
 
 ##### § 493 Benutzung im Prozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056703301)
 
 (1) Beruft sich eine Partei im Prozess auf Tatsachen, über die
 selbständig Beweis erhoben worden ist, so steht die selbständige
@@ -8310,6 +8852,7 @@ Gegner rechtzeitig geladen war.
 
 
 ##### § 494 Unbekannter Gegner
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE056803301)
 
 (1) Wird von dem Beweisführer ein Gegner nicht bezeichnet, so ist der
 Antrag nur dann zulässig, wenn der Beweisführer glaubhaft macht, dass
@@ -8321,6 +8864,7 @@ Vertreter bestellen.
 
 
 ##### § 494a Frist zur Klageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE129002301)
 
 (1) Ist ein Rechtsstreit nicht anhängig, hat das Gericht nach
 Beendigung der Beweiserhebung auf Antrag ohne mündliche Verhandlung
@@ -8334,10 +8878,12 @@ der sofortigen Beschwerde.
 
 
 ### Abschnitt 2 - Verfahren vor den Amtsgerichten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG056902301)
 
 
 
 #### § 495 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE057002301)
 
 (1) Für das Verfahren vor den Amtsgerichten gelten die Vorschriften
 über das Verfahren vor den Landgerichten, soweit nicht aus den
@@ -8347,6 +8893,7 @@ Abweichungen ergeben.
 
 
 #### § 495a Verfahren nach billigem Ermessen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE129103301)
 
 Das Gericht kann sein Verfahren nach billigem Ermessen bestimmen, wenn
 der Streitwert 600 Euro nicht übersteigt. Auf Antrag muss mündlich
@@ -8354,6 +8901,7 @@ verhandelt werden.
 
 
 #### § 496 Einreichung von Schriftsätzen; Erklärungen zu Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE057202301)
 
 Die Klage, die Klageerwiderung sowie sonstige Anträge und Erklärungen
 einer Partei, die zugestellt werden sollen, sind bei dem Gericht
@@ -8362,6 +8910,7 @@ Geschäftsstelle anzubringen.
 
 
 #### § 497 Ladungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE057304301)
 
 (1) Die Ladung des Klägers zu dem auf die Klage bestimmten Termin ist,
 sofern nicht das Gericht die Zustellung anordnet, ohne besondere Form
@@ -8374,12 +8923,14 @@ mitgeteilt worden ist. Die Mitteilung ist zu den Akten zu vermerken.
 
 
 #### § 498 Zustellung des Protokolls über die Klage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE057402301)
 
 Ist die Klage zum Protokoll der Geschäftsstelle angebracht worden, so
 wird an Stelle der Klageschrift das Protokoll zugestellt.
 
 
 #### § 499 Belehrungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE057503301)
 
 (1) Mit der Zustellung der Klageschrift oder des Protokolls über die
 Klage ist der Beklagte darüber zu belehren, dass eine Vertretung durch
@@ -8390,9 +8941,11 @@ Folgen eines schriftlich abgegebenen Anerkenntnisses zu belehren.
 
 
 #### (XXXX) §§ 499a bis 503 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE058301301)
 
 
 #### § 504 Hinweis bei Unzuständigkeit des Amtsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE058802301)
 
 Ist das Amtsgericht sachlich oder örtlich unzuständig, so hat es den
 Beklagten vor der Verhandlung zur Hauptsache darauf und auf die Folgen
@@ -8400,11 +8953,13 @@ einer rügelosen Einlassung zur Hauptsache hinzuweisen.
 
 
 #### § 505
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE058901301)
 
 (weggefallen)
 
 
 #### § 506 Nachträgliche sachliche Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE059002301)
 
 (1) Wird durch Widerklage oder durch Erweiterung des Klageantrages (§
 264 Nr. 2, 3) ein Anspruch erhoben, der zur Zuständigkeit der
@@ -8420,10 +8975,12 @@ entsprechend.
 
 
 #### (XXXX) §§ 507 bis 509 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE059101301)
 
 
 
 #### § 510 Erklärung über Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE059402301)
 
 Wegen unterbliebener Erklärung ist eine Urkunde nur dann als anerkannt
 anzusehen, wenn die Partei durch das Gericht zur Erklärung über die
@@ -8431,6 +8988,7 @@ Echtheit der Urkunde aufgefordert ist.
 
 
 #### § 510a Inhalt des Protokolls
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE059502301)
 
 Andere Erklärungen einer Partei als Geständnisse und Erklärungen über
 einen Antrag auf Parteivernehmung sind im Protokoll festzustellen,
@@ -8438,6 +8996,7 @@ soweit das Gericht es für erforderlich hält.
 
 
 #### § 510b Urteil auf Vornahme einer Handlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE059602301)
 
 Erfolgt die Verurteilung zur Vornahme einer Handlung, so kann der
 Beklagte zugleich auf Antrag des Klägers für den Fall, dass die
@@ -8447,19 +9006,23 @@ Entschädigung nach freiem Ermessen festzusetzen.
 
 
 #### § 510c
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE059701301)
 
 (weggefallen)
 
 
 ## Buch 3 - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG059802301)
 
 
 
 ### Abschnitt 1 - Berufung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG059902301)
 
 
 
 #### § 511 Statthaftigkeit der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060004125)
 
 (1) Die Berufung findet gegen die im ersten Rechtszug erlassenen
 Endurteile der Amts- und Landgerichte statt.
@@ -8494,6 +9057,7 @@ Das Berufungsgericht ist an die Zulassung gebunden.
 
 
 #### § 512 Vorentscheidungen im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060202301)
 
 Der Beurteilung des Berufungsgerichts unterliegen auch diejenigen
 Entscheidungen, die dem Endurteil vorausgegangen sind, sofern sie
@@ -8502,6 +9066,7 @@ sofortigen Beschwerde anfechtbar sind.
 
 
 #### § 513 Berufungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060402301)
 
 (1) Die Berufung kann nur darauf gestützt werden, dass die
 Entscheidung auf einer Rechtsverletzung (§ 546) beruht oder nach § 529
@@ -8512,6 +9077,7 @@ des ersten Rechtszuges seine Zuständigkeit zu Unrecht angenommen hat.
 
 
 #### § 514 Versäumnisurteile
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060502301)
 
 (1) Ein Versäumnisurteil kann von der Partei, gegen die es erlassen
 ist, mit der Berufung oder Anschlussberufung nicht angefochten werden.
@@ -8523,12 +9089,14 @@ Versäumung nicht vorgelegen habe. § 511 Abs. 2 ist nicht anzuwenden.
 
 
 #### § 515 Verzicht auf Berufung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060603301)
 
 Die Wirksamkeit eines Verzichts auf das Recht der Berufung ist nicht
 davon abhängig, dass der Gegner die Verzichtsleistung angenommen hat.
 
 
 #### § 516 Zurücknahme der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060702301)
 
 (1) Der Berufungskläger kann die Berufung bis zur Verkündung des
 Berufungsurteils zurücknehmen.
@@ -8543,6 +9111,7 @@ Kosten zu tragen. Diese Wirkungen sind durch Beschluss auszusprechen.
 
 
 #### § 517 Berufungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060802301)
 
 Die Berufungsfrist beträgt einen Monat; sie ist eine Notfrist und
 beginnt mit der Zustellung des in vollständiger Form abgefassten
@@ -8551,6 +9120,7 @@ Verkündung.
 
 
 #### § 518 Berufungsfrist bei Urteilsergänzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE060902301)
 
 Wird innerhalb der Berufungsfrist ein Urteil durch eine nachträgliche
 Entscheidung ergänzt (§ 321), so beginnt mit der Zustellung der
@@ -8561,6 +9131,7 @@ Berufungen miteinander zu verbinden.
 
 
 #### § 519 Berufungsschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE061002301)
 
 (1) Die Berufung wird durch Einreichung der Berufungsschrift bei dem
 Berufungsgericht eingelegt.
@@ -8583,6 +9154,7 @@ sind auch auf die Berufungsschrift anzuwenden.
 
 
 #### § 520 Berufungsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE061305301)
 
 (1) Der Berufungskläger muss die Berufung begründen.
 
@@ -8639,6 +9211,7 @@ sind auch auf die Berufungsbegründung anzuwenden.
 
 
 #### § 521 Zustellung der Berufungsschrift und -begründung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE061402301)
 
 (1) Die Berufungsschrift und die Berufungsbegründung sind der
 Gegenpartei zuzustellen.
@@ -8650,6 +9223,7 @@ Berufungserwiderung setzen. § 277 gilt entsprechend.
 
 
 #### § 522 Zulässigkeitsprüfung; Zurückweisungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE061503308)
 
 (1) Das Berufungsgericht hat von Amts wegen zu prüfen, ob die Berufung
 an sich statthaft und ob sie in der gesetzlichen Form und Frist
@@ -8693,6 +9267,7 @@ wäre.
 
 
 #### § 523 Terminsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE061702301)
 
 (1) Wird die Berufung nicht nach § 522 durch Beschluss verworfen oder
 zurückgewiesen, so entscheidet das Berufungsgericht über die
@@ -8705,6 +9280,7 @@ entsprechend anzuwenden.
 
 
 #### § 524 Anschlussberufung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE061903301)
 
 (1) Der Berufungsbeklagte kann sich der Berufung anschließen. Die
 Anschließung erfolgt durch Einreichung der Berufungsanschlussschrift
@@ -8726,6 +9302,7 @@ zurückgenommen, verworfen oder durch Beschluss zurückgewiesen wird.
 
 
 #### § 525 Allgemeine Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062002301)
 
 Auf das weitere Verfahren sind die im ersten Rechtszuge für das
 Verfahren vor den Landgerichten geltenden Vorschriften entsprechend
@@ -8734,6 +9311,7 @@ Abschnitts ergeben. Einer Güteverhandlung bedarf es nicht.
 
 
 #### § 526 Entscheidender Richter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062102301)
 
 (1) Das Berufungsgericht kann durch Beschluss den Rechtsstreit einem
 seiner Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn
@@ -8780,6 +9358,7 @@ Vorsitzende sein.
 
 
 #### § 527 Vorbereitender Einzelrichter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062203301)
 
 (1) Wird der Rechtsstreit nicht nach § 526 dem Einzelrichter
 übertragen, kann das Berufungsgericht die Sache einem seiner
@@ -8826,6 +9405,7 @@ von dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag.
 
 
 #### § 528 Bindung an die Berufungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062302301)
 
 Der Prüfung und Entscheidung des Berufungsgerichts unterliegen nur die
 Berufungsanträge. Das Urteil des ersten Rechtszuges darf nur insoweit
@@ -8833,6 +9413,7 @@ abgeändert werden, als eine Abänderung beantragt ist.
 
 
 #### § 529 Prüfungsumfang des Berufungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062403301)
 
 (1) Das Berufungsgericht hat seiner Verhandlung und Entscheidung
 zugrunde zu legen:
@@ -8856,6 +9437,7 @@ gebunden.
 
 
 #### § 530 Verspätet vorgebrachte Angriffs- und Verteidigungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062502301)
 
 Werden Angriffs- oder Verteidigungsmittel entgegen den §§ 520 und 521
 Abs. 2 nicht rechtzeitig vorgebracht, so gilt § 296 Abs. 1 und 4
@@ -8863,6 +9445,7 @@ entsprechend.
 
 
 #### § 531 Zurückgewiesene und neue Angriffs- und Verteidigungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062602301)
 
 (1) Angriffs- und Verteidigungsmittel, die im ersten Rechtszuge zu
 Recht zurückgewiesen worden sind, bleiben ausgeschlossen.
@@ -8889,6 +9472,7 @@ Verteidigungsmittel ergibt.
 
 
 #### § 532 Rügen der Unzulässigkeit der Klage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062702301)
 
 Verzichtbare Rügen, die die Zulässigkeit der Klage betreffen und die
 entgegen den §§ 520 und 521 Abs. 2 nicht rechtzeitig vorgebracht
@@ -8900,6 +9484,7 @@ Verlangen des Gerichts glaubhaft zu machen.
 
 
 #### § 533 Klageänderung; Aufrechnungserklärung; Widerklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062802301)
 
 Klageänderung, Aufrechnungserklärung und Widerklage sind nur zulässig,
 wenn
@@ -8916,6 +9501,7 @@ wenn
 
 
 #### § 534 Verlust des Rügerechts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE062902301)
 
 Die Verletzung einer das Verfahren des ersten Rechtszuges betreffenden
 Vorschrift kann in der Berufungsinstanz nicht mehr gerügt werden, wenn
@@ -8924,12 +9510,14 @@ Vorschrift des § 295 verloren hat.
 
 
 #### § 535 Gerichtliches Geständnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063002301)
 
 Das im ersten Rechtszuge abgelegte gerichtliche Geständnis behält
 seine Wirksamkeit auch für die Berufungsinstanz.
 
 
 #### § 536 Parteivernehmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063102301)
 
 (1) Das Berufungsgericht darf die Vernehmung oder Beeidigung einer
 Partei, die im ersten Rechtszuge die Vernehmung abgelehnt oder die
@@ -8944,6 +9532,7 @@ ersten Rechtszuge unzulässig war.
 
 
 #### § 537 Vorläufige Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063202301)
 
 (1) Ein nicht oder nicht unbedingt für vorläufig vollstreckbar
 erklärtes Urteil des ersten Rechtszuges ist, soweit es durch die
@@ -8956,6 +9545,7 @@ Berufungsbegründungsfrist zulässig.
 
 
 #### § 538 Zurückverweisung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063302301)
 
 (1) Das Berufungsgericht hat die notwendigen Beweise zu erheben und in
 der Sache selbst zu entscheiden.
@@ -9001,6 +9591,7 @@ Nummer 7 bedarf es eines Antrags nicht.
 
 
 #### § 539 Versäumnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063402301)
 
 (1) Erscheint der Berufungskläger im Termin zur mündlichen Verhandlung
 nicht, so ist seine Berufung auf Antrag durch Versäumnisurteil
@@ -9018,6 +9609,7 @@ ersten Rechtszug sinngemäß.
 
 
 #### § 540 Inhalt des Berufungsurteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063502301)
 
 (1) Anstelle von Tatbestand und Entscheidungsgründen enthält das
 Urteil
@@ -9039,6 +9631,7 @@ erforderlichen Darlegungen auch in das Protokoll aufgenommen werden.
 
 
 #### § 541 Prozessakten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063604301)
 
 (1) Die Geschäftsstelle des Berufungsgerichts hat, nachdem die
 Berufungsschrift eingereicht ist, unverzüglich von der Geschäftsstelle
@@ -9051,10 +9644,12 @@ der in der Berufungsinstanz ergangenen Entscheidung zurückzusenden.
 
 
 ### Abschnitt 2 - Revision
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG064002301)
 
 
 
 #### § 542 Statthaftigkeit der Revision
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063702301)
 
 (1) Die Revision findet gegen die in der Berufungsinstanz erlassenen
 Endurteile nach Maßgabe der folgenden Vorschriften statt.
@@ -9067,6 +9662,7 @@ Enteignungsverfahren oder im Umlegungsverfahren.
 
 
 #### § 543 Zulassungsrevision
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063802301)
 
 (1) Die Revision findet nur statt, wenn sie
 
@@ -9094,6 +9690,7 @@ gebunden.
 
 
 #### § 544 Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE063904125)
 
 (1) Die Nichtzulassung der Revision durch das Berufungsgericht
 unterliegt der Beschwerde (Nichtzulassungsbeschwerde).
@@ -9153,6 +9750,7 @@ Berufungsgericht zurückverweisen.
 
 
 #### § 545 Revisionsgründe
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064103160)
 
 (1) Die Revision kann nur darauf gestützt werden, dass die
 Entscheidung auf einer Verletzung des Rechts beruht.
@@ -9163,12 +9761,14 @@ verneint hat.
 
 
 #### § 546 Begriff der Rechtsverletzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064203301)
 
 Das Recht ist verletzt, wenn eine Rechtsnorm nicht oder nicht richtig
 angewendet worden ist.
 
 
 #### § 547 Absolute Revisionsgründe
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064302301)
 
 Eine Entscheidung ist stets als auf einer Verletzung des Rechts
 beruhend anzusehen,
@@ -9205,6 +9805,7 @@ beruhend anzusehen,
 
 
 #### § 548 Revisionsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064402301)
 
 Die Frist für die Einlegung der Revision (Revisionsfrist) beträgt
 einen Monat; sie ist eine Notfrist und beginnt mit der Zustellung des
@@ -9213,6 +9814,7 @@ mit dem Ablauf von fünf Monaten nach der Verkündung.
 
 
 #### § 549 Revisionseinlegung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064504125)
 
 (1) Die Revision wird durch Einreichung der Revisionsschrift bei dem
 Revisionsgericht eingelegt. Die Revisionsschrift muss enthalten:
@@ -9231,6 +9833,7 @@ sind auch auf die Revisionsschrift anzuwenden.
 
 
 #### § 550 Zustellung der Revisionsschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064604125)
 
 (1) Mit der Revisionsschrift soll eine Ausfertigung oder beglaubigte
 Abschrift des angefochtenen Urteils vorgelegt werden, soweit dies
@@ -9240,6 +9843,7 @@ nicht bereits nach § 544 Absatz 3 Satz 2 geschehen ist.
 
 
 #### § 551 Revisionsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064704125)
 
 (1) Der Revisionskläger muss die Revision begründen.
 
@@ -9289,6 +9893,7 @@ entsprechend anzuwenden.
 
 
 #### § 552 Zulässigkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064802301)
 
 (1) Das Revisionsgericht hat von Amts wegen zu prüfen, ob die Revision
 an sich statthaft und ob sie in der gesetzlichen Form und Frist
@@ -9299,6 +9904,7 @@ so ist die Revision als unzulässig zu verwerfen.
 
 
 #### § 552a Zurückweisungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144701301)
 
 Das Revisionsgericht weist die von dem Berufungsgericht zugelassene
 Revision durch einstimmigen Beschluss zurück, wenn es davon überzeugt
@@ -9308,6 +9914,7 @@ Satz 2 und 3 gilt entsprechend.
 
 
 #### § 552b Bestimmung zum Leitentscheidungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169700125)
 
 Wirft die Revision Rechtsfragen auf, deren Entscheidung für eine
 Vielzahl anderer Verfahren von Bedeutung ist, so kann das
@@ -9320,6 +9927,7 @@ Verfahren von Bedeutung ist.
 
 
 #### § 553 Terminsbestimmung; Einlassungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE064903301)
 
 (1) Wird die Revision nicht durch Beschluss als unzulässig verworfen
 oder gemäß § 552a zurückgewiesen, so ist Termin zur mündlichen
@@ -9331,6 +9939,7 @@ entsprechend anzuwenden.
 
 
 #### § 554 Anschlussrevision
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE065104301)
 
 (1) Der Revisionsbeklagte kann sich der Revision anschließen. Die
 Anschließung erfolgt durch Einreichung der Revisionsanschlussschrift
@@ -9351,6 +9960,7 @@ zurückgenommen, verworfen oder durch Beschluss zurückgewiesen wird.
 
 
 #### § 555 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE065404125)
 
 (1) Auf das weitere Verfahren sind die im ersten Rechtszug für das
 Verfahren vor den Landgerichten geltenden Vorschriften entsprechend
@@ -9389,6 +9999,7 @@ Hauptsache zurückgenommen werden.
 
 
 #### § 556 Verlust des Rügerechts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE065503301)
 
 Die Verletzung einer das Verfahren der Berufungsinstanz betreffenden
 Vorschrift kann in der Revisionsinstanz nicht mehr gerügt werden, wenn
@@ -9397,6 +10008,7 @@ Vorschrift des § 295 verloren hat.
 
 
 #### § 557 Umfang der Revisionsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE065602301)
 
 (1) Der Prüfung des Revisionsgerichts unterliegen nur die von den
 Parteien gestellten Anträge.
@@ -9412,6 +10024,7 @@ wenn die Mängel nach den §§ 551 und 554 Abs. 3 gerügt worden sind.
 
 
 #### § 558 Vorläufige Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE065802301)
 
 Ein nicht oder nicht unbedingt für vorläufig vollstreckbar erklärtes
 Urteil des Berufungsgerichts ist, soweit es durch die Revisionsanträge
@@ -9421,6 +10034,7 @@ ist erst nach Ablauf der Revisionsbegründungsfrist zulässig.
 
 
 #### § 559 Beschränkte Nachprüfung tatsächlicher Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE065903301)
 
 (1) Der Beurteilung des Revisionsgerichts unterliegt nur dasjenige
 Parteivorbringen, das aus dem Berufungsurteil oder dem
@@ -9435,6 +10049,7 @@ ist.
 
 
 #### § 560 Nicht revisible Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066002301)
 
 Die Entscheidung des Berufungsgerichts über das Bestehen und den
 Inhalt von Gesetzen, auf deren Verletzung die Revision nach § 545
@@ -9443,6 +10058,7 @@ Entscheidung maßgebend.
 
 
 #### § 561 Revisionszurückweisung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066103301)
 
 Ergibt die Begründung des Berufungsurteils zwar eine Rechtsverletzung,
 stellt die Entscheidung selbst aber aus anderen Gründen sich als
@@ -9450,6 +10066,7 @@ richtig dar, so ist die Revision zurückzuweisen.
 
 
 #### § 562 Aufhebung des angefochtenen Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066202301)
 
 (1) Insoweit die Revision für begründet erachtet wird, ist das
 angefochtene Urteil aufzuheben.
@@ -9460,6 +10077,7 @@ Mangel betroffen wird.
 
 
 #### § 563 Zurückverweisung; eigene Sachentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066302301)
 
 (1) Im Falle der Aufhebung des Urteils ist die Sache zur neuen
 Verhandlung und Entscheidung an das Berufungsgericht
@@ -9483,6 +10101,7 @@ Berufungsgericht zurückverwiesen werden.
 
 
 #### § 564 Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066402301)
 
 Die Entscheidung braucht nicht begründet zu werden, soweit das
 Revisionsgericht Rügen von Verfahrensmängeln nicht für durchgreifend
@@ -9490,6 +10109,7 @@ erachtet. Dies gilt nicht für Rügen nach § 547.
 
 
 #### § 565 Leitentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066505125)
 
 (1) Endet die zum Leitentscheidungsverfahren bestimmte Revision, ohne
 dass ein mit inhaltlicher Begründung versehenes Urteil ergeht, so
@@ -9513,6 +10133,7 @@ beschränken.
 
 
 #### § 566 Sprungrevision
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE066702301)
 
 (1) Gegen die im ersten Rechtszug erlassenen Endurteile, die ohne
 Zulassung der Berufung unterliegen, findet auf Antrag unter Übergehung
@@ -9580,14 +10201,17 @@ seiner Entscheidung zugrunde zu legen.
 
 
 ### Abschnitt 3 - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG066902301)
 
 
 
 #### Titel 1 - Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078201301)
 
 
 
 ##### § 567 Sofortige Beschwerde; Anschlussbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067005301)
 
 (1) Die sofortige Beschwerde findet statt gegen die im ersten
 Rechtszug ergangenen Entscheidungen der Amtsgerichte und Landgerichte,
@@ -9613,6 +10237,7 @@ Beschwerde zurückgenommen oder als unzulässig verworfen wird.
 
 
 ##### § 568 Originärer Einzelrichter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067103301)
 
 Das Beschwerdegericht entscheidet durch eines seiner Mitglieder als
 Einzelrichter, wenn die angefochtene Entscheidung von einem
@@ -9634,6 +10259,7 @@ nicht gestützt werden.
 
 
 ##### § 569 Frist und Form
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE158600301)
 
 (1) Die sofortige Beschwerde ist, soweit keine andere Frist bestimmt
 ist, binnen einer Notfrist von zwei Wochen bei dem Gericht, dessen
@@ -9668,6 +10294,7 @@ Geschäftsstelle eingelegt werden, wenn
 
 
 ##### § 570 Aufschiebende Wirkung; einstweilige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067402301)
 
 (1) Die Beschwerde hat nur dann aufschiebende Wirkung, wenn sie die
 Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat.
@@ -9681,6 +10308,7 @@ angefochtenen Entscheidung aussetzen.
 
 
 ##### § 571 Begründung, Präklusion, Ausnahmen vom Anwaltszwang
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067503301)
 
 (1) Die Beschwerde soll begründet werden.
 
@@ -9704,6 +10332,7 @@ zu Protokoll der Geschäftsstelle eingelegt werden darf (§ 569 Abs. 3).
 
 
 ##### § 572 Gang des Beschwerdeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067603301)
 
 (1) Erachtet das Gericht oder der Vorsitzende, dessen Entscheidung
 angefochten wird, die Beschwerde für begründet, so haben sie ihr
@@ -9723,6 +10352,7 @@ Entscheidung erlassen war, die erforderliche Anordnung übertragen.
 
 
 ##### § 573 Erinnerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067704301)
 
 (1) Gegen die Entscheidungen des beauftragten oder ersuchten Richters
 oder des Urkundsbeamten der Geschäftsstelle kann binnen einer Notfrist
@@ -9739,10 +10369,12 @@ und den Bundesgerichtshof.
 
 
 #### Titel 2 - Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078301301)
 
 
 
 ##### § 574 Rechtsbeschwerde; Anschlussrechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067803301)
 
 (1) Gegen einen Beschluss ist die Rechtsbeschwerde statthaft, wenn
 
@@ -9785,6 +10417,7 @@ zurückgenommen oder als unzulässig verworfen wird.
 
 
 ##### § 575 Frist, Form und Begründung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE067902301)
 
 (1) Die Rechtsbeschwerde ist binnen einer Notfrist von einem Monat
 nach Zustellung des Beschlusses durch Einreichen einer
@@ -9844,6 +10477,7 @@ zuzustellen.
 
 
 ##### § 576 Gründe der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068002301)
 
 (1) Die Rechtsbeschwerde kann nur darauf gestützt werden, dass die
 Entscheidung auf der Verletzung des Bundesrechts oder einer Vorschrift
@@ -9858,6 +10492,7 @@ angenommen oder verneint hat.
 
 
 ##### § 577 Prüfung und Entscheidung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068103301)
 
 (1) Das Rechtsbeschwerdegericht hat von Amts wegen zu prüfen, ob die
 Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form
@@ -9901,10 +10536,12 @@ oder zur Sicherung einer einheitlichen Rechtsprechung beizutragen.
 
 
 ## Buch 4 - Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG068202301)
 
 
 
 ### § 578 Arten der Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068302301)
 
 (1) Die Wiederaufnahme eines durch rechtskräftiges Endurteil
 geschlossenen Verfahrens kann durch Nichtigkeitsklage und durch
@@ -9917,6 +10554,7 @@ Nichtigkeitsklage auszusetzen.
 
 
 ### § 579 Nichtigkeitsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068402301)
 
 (1) Die Nichtigkeitsklage findet statt:
 
@@ -9947,6 +10585,7 @@ konnte.
 
 
 ### § 580 Restitutionsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068503301)
 
 Die Restitutionsklage findet statt:
 
@@ -10003,6 +10642,7 @@ Die Restitutionsklage findet statt:
 
 
 ### § 581 Besondere Voraussetzungen der Restitutionsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068602301)
 
 (1) In den Fällen des vorhergehenden Paragraphen Nummern 1 bis 5
 findet die Restitutionsklage nur statt, wenn wegen der Straftat eine
@@ -10015,6 +10655,7 @@ kann durch den Antrag auf Parteivernehmung nicht geführt werden.
 
 
 ### § 582 Hilfsnatur der Restitutionsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068702301)
 
 Die Restitutionsklage ist nur zulässig, wenn die Partei ohne ihr
 Verschulden außerstande war, den Restitutionsgrund in dem früheren
@@ -10023,6 +10664,7 @@ Anschließung an eine Berufung, geltend zu machen.
 
 
 ### § 583 Vorentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068802301)
 
 Mit den Klagen können Anfechtungsgründe, durch die eine dem
 angefochtenen Urteil vorausgegangene Entscheidung derselben oder einer
@@ -10031,6 +10673,7 @@ angefochtene Urteil auf dieser Entscheidung beruht.
 
 
 ### § 584 Ausschließliche Zuständigkeit für Nichtigkeits- und Restitutionsklagen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE068902301)
 
 (1) Für die Klagen ist ausschließlich zuständig: das Gericht, das im
 ersten Rechtszug erkannt hat; wenn das angefochtene Urteil oder auch
@@ -10047,6 +10690,7 @@ im Streitverfahren zuständig gewesen wäre.
 
 
 ### § 585 Allgemeine Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069002301)
 
 Für die Erhebung der Klagen und das weitere Verfahren gelten die
 allgemeinen Vorschriften entsprechend, sofern nicht aus den
@@ -10054,6 +10698,7 @@ Vorschriften dieses Gesetzes sich eine Abweichung ergibt.
 
 
 ### § 586 Klagefrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069103308)
 
 (1) Die Klagen sind vor Ablauf der Notfrist eines Monats zu erheben.
 
@@ -10073,6 +10718,7 @@ nach § 580 Nummer 8 nicht anzuwenden.
 
 
 ### § 587 Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069202301)
 
 In der Klage muss die Bezeichnung des Urteils, gegen das die
 Nichtigkeits- oder Restitutionsklage gerichtet wird, und die
@@ -10080,6 +10726,7 @@ Erklärung, welche dieser Klagen erhoben wird, enthalten sein.
 
 
 ### § 588 Inhalt der Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069302301)
 
 (1) Als vorbereitender Schriftsatz soll die Klage enthalten:
 
@@ -10104,6 +10751,7 @@ Herbeischaffung zu stellen beabsichtigt.
 
 
 ### § 589 Zulässigkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069402301)
 
 (1) Das Gericht hat von Amts wegen zu prüfen, ob die Klage an sich
 statthaft und ob sie in der gesetzlichen Form und Frist erhoben sei.
@@ -10115,6 +10763,7 @@ erhoben ist, sind glaubhaft zu machen.
 
 
 ### § 590 Neue Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069502301)
 
 (1) Die Hauptsache wird, insoweit sie von dem Anfechtungsgrunde
 betroffen ist, von neuem verhandelt.
@@ -10132,16 +10781,19 @@ Würdigung bestrittener Tatsachen abhängig ist.
 
 
 ### § 591 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069602301)
 
 Rechtsmittel sind insoweit zulässig, als sie gegen die Entscheidungen
 der mit den Klagen befassten Gerichte überhaupt stattfinden.
 
 
 ## Buch 5 - Urkunden- und Wechselprozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG069702301)
 
 
 
 ### § 592 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069802301)
 
 Ein Anspruch, welcher die Zahlung einer bestimmten Geldsumme oder die
 Leistung einer bestimmten Menge anderer vertretbarer Sachen oder
@@ -10154,6 +10806,7 @@ Rentenschuld oder einer Schiffshypothek.
 
 
 ### § 593 Klageinhalt; Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE069903311)
 
 (1) Die Klage muss die Erklärung enthalten, dass im Urkundenprozess
 geklagt werde.
@@ -10166,11 +10819,13 @@ liegen.
 
 
 ### § 594
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070001301)
 
 (weggefallen)
 
 
 ### § 595 Keine Widerklage; Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070102301)
 
 (1) Widerklagen sind nicht statthaft.
 
@@ -10183,6 +10838,7 @@ angetreten werden.
 
 
 ### § 596 Abstehen vom Urkundenprozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070202301)
 
 Der Kläger kann, ohne dass es der Einwilligung des Beklagten bedarf,
 bis zum Schluss der mündlichen Verhandlung von dem Urkundenprozess in
@@ -10191,6 +10847,7 @@ anhängig bleibt.
 
 
 ### § 597 Klageabweisung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070302301)
 
 (1) Insoweit der in der Klage geltend gemachte Anspruch an sich oder
 infolge einer Einrede des Beklagten als unbegründet sich darstellt,
@@ -10207,6 +10864,7 @@ oder im Urkundenprozess unstatthaft sind.
 
 
 ### § 598 Zurückweisung von Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070402301)
 
 Einwendungen des Beklagten sind, wenn der dem Beklagten obliegende
 Beweis nicht mit den im Urkundenprozess zulässigen Beweismitteln
@@ -10215,6 +10873,7 @@ ist, als im Urkundenprozess unstatthaft zurückzuweisen.
 
 
 ### § 599 Vorbehaltsurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070502301)
 
 (1) Dem Beklagten, welcher dem geltend gemachten Anspruch
 widersprochen hat, ist in allen Fällen, in denen er verurteilt wird,
@@ -10228,6 +10887,7 @@ Rechtsmittel und die Zwangsvollstreckung als Endurteil anzusehen.
 
 
 ### § 600 Nachverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070602301)
 
 (1) Wird dem Beklagten die Ausführung seiner Rechte vorbehalten, so
 bleibt der Rechtsstreit im ordentlichen Verfahren anhängig.
@@ -10241,11 +10901,13 @@ Vorschriften über das Versäumnisurteil entsprechend anzuwenden.
 
 
 ### § 601
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070701301)
 
 (weggefallen)
 
 
 ### § 602 Wechselprozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070802301)
 
 Werden im Urkundenprozess Ansprüche aus Wechseln im Sinne des
 Wechselgesetzes geltend gemacht (Wechselprozess), so sind die
@@ -10253,6 +10915,7 @@ nachfolgenden besonderen Vorschriften anzuwenden.
 
 
 ### § 603 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE070902301)
 
 (1) Wechselklagen können sowohl bei dem Gericht des Zahlungsortes als
 bei dem Gericht angestellt werden, bei dem der Beklagte seinen
@@ -10265,6 +10928,7 @@ Gerichtsstand hat.
 
 
 ### § 604 Klageinhalt; Ladungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE071003301)
 
 (1) Die Klage muss die Erklärung enthalten, dass im Wechselprozess
 geklagt werde.
@@ -10285,6 +10949,7 @@ die Zustellung sonst im Inland erfolgt.
 
 
 ### § 605 Beweisvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE071102301)
 
 (1) Soweit es zur Erhaltung des wechselmäßigen Anspruchs der
 rechtzeitigen Protesterhebung nicht bedarf, ist als Beweismittel
@@ -10296,6 +10961,7 @@ glaubhaft gemacht ist.
 
 
 ### § 605a Scheckprozess
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE071202301)
 
 Werden im Urkundenprozess Ansprüche aus Schecks im Sinne des
 Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis
@@ -10303,14 +10969,17 @@ Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis
 
 
 ## Buch 6 - Weitere besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG071309125)
 
 
 
 ### Abschnitt 1 - Englischsprachige Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG071404125)
 
 
 
 #### § 606 Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE071606125)
 
 Soll ein Verfahren nach Maßgabe des § 184a Absatz 1 des
 Gerichtsverfassungsgesetzes vollständig in englischer Sprache geführt
@@ -10321,6 +10990,7 @@ Klageschrift darzulegen.
 
 
 #### § 607 Beteiligung Dritter am Rechtsstreit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE071905125)
 
 (1) In einem in englischer Sprache geführten Verfahren gilt ein
 englischsprachiger Schriftsatz, der die Einbeziehung eines Dritten in
@@ -10351,6 +11021,7 @@ worden ist, wenn die Frist des Absatzes 2 gewahrt wurde.
 
 
 #### § 608 Übersetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072004125)
 
 (1) Auf Antrag einer Partei ist eine vollstreckbare gerichtliche
 Entscheidung in die deutsche Sprache zu übersetzen. Die Übersetzung
@@ -10373,6 +11044,7 @@ Verfahrens möglich sind.
 
 
 #### § 609 Rechtsmittelschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072105125)
 
 (1) Rechtsmittelschriften gegen Entscheidungen in Verfahren, die in
 englischer Sprache geführt worden sind, sind in englischer Sprache
@@ -10386,10 +11058,12 @@ Sprache nachzureichen.
 
 
 ### Abschnitt 2 - Verfahren vor den Commercial Courts und den Commercial Chambers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG074104125)
 
 
 
 #### § 610 Anwendbare Vorschriften vor den Commercial Courts; Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072204125)
 
 (1) Für das Verfahren vor den Commercial Courts im ersten Rechtszug
 (§ 119b Absatz 1 des Gerichtsverfassungsgesetzes) sind die im ersten
@@ -10406,6 +11080,7 @@ Vereinbarung in der Klageschrift darzulegen.
 
 
 #### § 611 Verweisung an den Commercial Court
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072304125)
 
 (1) Wird in Verfahren, in denen die Parteien die Zuständigkeit des
 Commercial Courts vereinbaren können, die Klage beim Landgericht
@@ -10437,6 +11112,7 @@ einverstanden sind.
 
 
 #### § 612 Organisationstermin
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072404125)
 
 Der Commercial Court im ersten Rechtszug und die Commercial Chamber
 treffen mit den Parteien so früh wie möglich in einem
@@ -10448,6 +11124,7 @@ wurden, entsprechend.
 
 
 #### § 613 Wortprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072505125)
 
 (1) Vor dem Commercial Court und der Commercial Chamber ist auf
 übereinstimmenden Antrag der Parteien im ersten Rechtszug das
@@ -10472,20 +11149,24 @@ Protokollpersonen nach Satz 1 als Urkundsbeamte der Geschäftsstelle.
 
 
 #### § 614 Rechtsmittel gegen Urteile des Commercial Courts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE072604125)
 
 Gegen Urteile des Commercial Courts findet die Revision statt. Die
 Revision gegen Urteile im ersten Rechtszug bedarf keiner Zulassung.
 
 
 #### (XXXX) §§ 615 bis 687 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162201311)
 
 
 
 ## Buch 7 - Mahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075002301)
 
 
 
 ### § 688 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE087615311)
 
 (1) Wegen eines Anspruchs, der die Zahlung einer bestimmten Geldsumme
 in Euro zum Gegenstand hat, ist auf Antrag des Antragstellers ein
@@ -10529,6 +11210,7 @@ Durchführung gelten die §§ 1087 bis 1096.
 
 
 ### § 689 Zuständigkeit; maschinelle Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE087706311)
 
 (1) Das Mahnverfahren wird von den Amtsgerichten durchgeführt. Eine
 maschinelle Bearbeitung ist zulässig. Bei dieser Bearbeitung sollen
@@ -10553,6 +11235,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 ### § 690 Mahnantrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE087814311)
 
 (1) Der Antrag muss auf den Erlass eines Mahnbescheids gerichtet sein
 und enthalten:
@@ -10588,6 +11271,7 @@ und enthalten:
 
 
 ### § 691 Zurückweisung des Mahnantrags
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE087906311)
 
 (1) Der Antrag wird zurückgewiesen:
 
@@ -10617,6 +11301,7 @@ Gericht für seine maschinelle Bearbeitung nicht geeignet erscheine. Im
 
 
 ### § 692 Mahnbescheid
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088006125)
 
 (1) Der Mahnbescheid enthält:
 
@@ -10663,6 +11348,7 @@ entsprechender Stempelabdruck oder eine elektronische Signatur.
 
 
 ### § 693 Zustellung des Mahnbescheids
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088104301)
 
 (1) Der Mahnbescheid wird dem Antragsgegner zugestellt.
 
@@ -10671,6 +11357,7 @@ Mahnbescheids in Kenntnis.
 
 
 ### § 694 Widerspruch gegen den Mahnbescheid
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088202301)
 
 (1) Der Antragsgegner kann gegen den Anspruch oder einen Teil des
 Anspruchs bei dem Gericht, das den Mahnbescheid erlassen hat,
@@ -10682,6 +11369,7 @@ dem Antragsgegner, der den Widerspruch erhoben hat, mitzuteilen.
 
 
 ### § 695 Mitteilung des Widerspruchs; Abschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088303125)
 
 Das Gericht hat den Antragsteller von dem Widerspruch und dem
 Zeitpunkt seiner Erhebung in Kenntnis zu setzen. Gleichzeitig belehrt
@@ -10691,6 +11379,7 @@ die erforderliche Zahl von Abschriften mit dem Widerspruch einreichen.
 
 
 ### § 696 Verfahren nach Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088404301)
 
 (1) Wird rechtzeitig Widerspruch erhoben und beantragt eine Partei die
 Durchführung des streitigen Verfahrens, so gibt das Gericht, das den
@@ -10724,6 +11413,7 @@ in seiner Zuständigkeit nicht gebunden.
 
 
 ### § 697 Einleitung des Streitverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088507125)
 
 (1) Die Geschäftsstelle des Gerichts, an das die Streitsache abgegeben
 wird, hat dem Antragsteller unverzüglich aufzugeben, seinen Anspruch
@@ -10758,6 +11448,7 @@ maschinell erstellte Aktenausdruck.
 
 
 ### § 698 Abgabe des Verfahrens am selben Gericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088602301)
 
 Die Vorschriften über die Abgabe des Verfahrens gelten sinngemäß, wenn
 Mahnverfahren und streitiges Verfahren bei demselben Gericht
@@ -10765,6 +11456,7 @@ durchgeführt werden.
 
 
 ### § 699 Vollstreckungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088712125)
 
 (1) Auf der Grundlage des Mahnbescheids erlässt das Gericht auf Antrag
 einen Vollstreckungsbescheid, wenn der Antragsgegner nicht rechtzeitig
@@ -10798,6 +11490,7 @@ Zustellung des Vollstreckungsbescheids schriftlich mitzuteilen.
 
 
 ### § 700 Einspruch gegen den Vollstreckungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088804301)
 
 (1) Der Vollstreckungsbescheid steht einem für vorläufig vollstreckbar
 erklärten Versäumnisurteil gleich.
@@ -10829,6 +11522,7 @@ vorliegen, wird der Vollstreckungsbescheid aufgehoben.
 
 
 ### § 701 Wegfall der Wirkung des Mahnbescheids
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE088902301)
 
 Ist Widerspruch nicht erhoben und beantragt der Antragsteller den
 Erlass des Vollstreckungsbescheids nicht binnen einer sechsmonatigen
@@ -10839,6 +11533,7 @@ zurückgewiesen wird.
 
 
 ### § 702 Form von Anträgen und Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089010125)
 
 (1) Im Mahnverfahren können die Anträge und Erklärungen vor dem
 Urkundsbeamten der Geschäftsstelle abgegeben werden. Soweit Formulare
@@ -10873,6 +11568,7 @@ Vollstreckungsbescheids wird dem Antragsgegner nicht mitgeteilt.
 
 
 ### § 703 Kein Nachweis der Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089102301)
 
 Im Mahnverfahren bedarf es des Nachweises einer Vollmacht nicht. Wer
 als Bevollmächtigter einen Antrag einreicht oder einen Rechtsbehelf
@@ -10880,6 +11576,7 @@ einlegt, hat seine ordnungsgemäße Bevollmächtigung zu versichern.
 
 
 ### § 703a Urkunden-, Wechsel- und Scheckmahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089202301)
 
 (1) Ist der Antrag des Antragstellers auf den Erlass eines Urkunden-,
 Wechsel- oder Scheckmahnbescheids gerichtet, so wird der Mahnbescheid
@@ -10914,6 +11611,7 @@ folgende besondere Vorschriften:
 
 
 ### § 703b Sonderregelungen für maschinelle Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089304311)
 
 (1) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen,
 Ausfertigungen und Vollstreckungsklauseln mit dem Gerichtssiegel
@@ -10927,6 +11625,7 @@ maschinelle Bearbeitung der Mahnverfahren erforderlich ist
 
 
 ### § 703c Formulare; Einführung der maschinellen Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089406311)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -10961,6 +11660,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 703d Antragsgegner ohne allgemeinen inländischen Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089503301)
 
 (1) Hat der Antragsgegner keinen allgemeinen Gerichtsstand im Inland,
 so gelten die nachfolgenden besonderen Vorschriften.
@@ -10972,20 +11672,24 @@ gilt entsprechend.
 
 
 ## Buch 8 - Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075102301)
 
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075202301)
 
 
 
 #### § 704 Vollstreckbare Endurteile
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089604160)
 
 Die Zwangsvollstreckung findet statt aus Endurteilen, die
 rechtskräftig oder für vorläufig vollstreckbar erklärt sind.
 
 
 #### § 705 Formelle Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089703301)
 
 Die Rechtskraft der Urteile tritt vor Ablauf der für die Einlegung des
 zulässigen Rechtsmittels oder des zulässigen Einspruchs bestimmten
@@ -10994,6 +11698,7 @@ Einlegung des Rechtsmittels oder des Einspruchs gehemmt.
 
 
 #### § 706 Rechtskraft- und Notfristzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089805160)
 
 (1) Zeugnisse über die Rechtskraft der Urteile sind auf Grund der
 Prozessakten von der Geschäftsstelle des Gerichts des ersten
@@ -11012,6 +11717,7 @@ Revisionsgerichts, dass ein Antrag auf Zulassung der Revision nach §
 
 
 #### § 707 Einstweilige Einstellung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE089903301)
 
 (1) Wird die Wiedereinsetzung in den vorigen Stand oder eine
 Wiederaufnahme des Verfahrens beantragt oder die Rüge nach § 321a
@@ -11031,6 +11737,7 @@ Beschlusses findet nicht statt.
 
 
 #### § 708 Vorläufige Vollstreckbarkeit ohne Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090006308)
 
 Für vorläufig vollstreckbar ohne Sicherheitsleistung sind zu erklären:
 
@@ -11096,6 +11803,7 @@ Für vorläufig vollstreckbar ohne Sicherheitsleistung sind zu erklären:
 
 
 #### § 709 Vorläufige Vollstreckbarkeit gegen Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090102301)
 
 Andere Urteile sind gegen eine der Höhe nach zu bestimmende Sicherheit
 für vorläufig vollstreckbar zu erklären. Soweit wegen einer
@@ -11108,6 +11816,7 @@ gegen Leistung der Sicherheit fortgesetzt werden darf.
 
 
 #### § 710 Ausnahmen von der Sicherheitsleistung des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090202301)
 
 Kann der Gläubiger die Sicherheit nach § 709 nicht oder nur unter
 erheblichen Schwierigkeiten leisten, so ist das Urteil auf Antrag auch
@@ -11120,6 +11829,7 @@ Erwerbstätigkeit dringend benötigt.
 
 
 #### § 711 Abwendungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090302301)
 
 In den Fällen des § 708 Nr. 4 bis 11 hat das Gericht auszusprechen,
 dass der Schuldner die Vollstreckung durch Sicherheitsleistung oder
@@ -11132,6 +11842,7 @@ entsprechend.
 
 
 #### § 712 Schutzantrag des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090402301)
 
 (1) Würde die Vollstreckung dem Schuldner einen nicht zu ersetzenden
 Nachteil bringen, so hat ihm das Gericht auf Antrag zu gestatten, die
@@ -11149,6 +11860,7 @@ Sicherheitsleistung vorläufig vollstreckbar ist.
 
 
 #### § 713 Unterbleiben von Schuldnerschutzanordnungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090502301)
 
 Die in den §§ 711, 712 zugunsten des Schuldners zugelassenen
 Anordnungen sollen nicht ergehen, wenn die Voraussetzungen, unter
@@ -11157,6 +11869,7 @@ nicht vorliegen.
 
 
 #### § 714 Anträge zur vorläufigen Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090602301)
 
 (1) Anträge nach den §§ 710, 711 Satz 3, § 712 sind vor Schluss der
 mündlichen Verhandlung zu stellen, auf die das Urteil ergeht.
@@ -11165,6 +11878,7 @@ mündlichen Verhandlung zu stellen, auf die das Urteil ergeht.
 
 
 #### § 715 Rückgabe der Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090702301)
 
 (1) Das Gericht, das eine Sicherheitsleistung des Gläubigers
 angeordnet oder zugelassen hat, ordnet auf Antrag die Rückgabe der
@@ -11177,12 +11891,14 @@ Erlöschen der Bürgschaft an.
 
 
 #### § 716 Ergänzung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090802301)
 
 Ist über die vorläufige Vollstreckbarkeit nicht entschieden, so sind
 wegen Ergänzung des Urteils die Vorschriften des § 321 anzuwenden.
 
 
 #### § 717 Wirkungen eines aufhebenden oder abändernden Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE090903301)
 
 (1) Die vorläufige Vollstreckbarkeit tritt mit der Verkündung eines
 Urteils, das die Entscheidung in der Hauptsache oder die
@@ -11213,6 +11929,7 @@ oder Leistung auch dann ein, wenn der Antrag nicht gestellt wird.
 
 
 #### § 718 Vorabentscheidung über vorläufige Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091003125)
 
 (1) In der Berufungsinstanz ist über die vorläufige Vollstreckbarkeit
 auf Antrag vorab zu entscheiden. Die Entscheidung kann ohne mündliche
@@ -11223,6 +11940,7 @@ Vollstreckbarkeit erlassenen Entscheidung findet nicht statt.
 
 
 #### § 719 Einstweilige Einstellung bei Rechtsmittel und Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091102301)
 
 (1) Wird gegen ein für vorläufig vollstreckbar erklärtes Urteil der
 Einspruch oder die Berufung eingelegt, so gelten die Vorschriften des
@@ -11244,6 +11962,7 @@ glaubhaft zu machen.
 
 
 #### § 720 Hinterlegung bei Abwendung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091202301)
 
 Darf der Schuldner nach § 711 Satz 1, § 712 Abs. 1 Satz 1 die
 Vollstreckung durch Sicherheitsleistung oder Hinterlegung abwenden, so
@@ -11252,6 +11971,7 @@ hinterlegen.
 
 
 #### § 720a Sicherungsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091302301)
 
 (1) Aus einem nur gegen Sicherheit vorläufig vollstreckbaren Urteil,
 durch das der Schuldner zur Leistung von Geld verurteilt worden ist,
@@ -11279,6 +11999,7 @@ vorher die ihm obliegende Sicherheit geleistet hat.
 
 
 #### § 721 Räumungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091406301)
 
 (1) Wird auf Räumung von Wohnraum erkannt, so kann das Gericht auf
 Antrag oder von Amts wegen dem Schuldner eine den Umständen nach
@@ -11330,6 +12051,7 @@ Zeitpunkt der Beendigung gewährt werden.
 
 
 #### § 722 Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091503125)
 
 (1) Aus dem Urteil eines ausländischen Gerichts findet die
 Zwangsvollstreckung nur statt, wenn ihre Zulässigkeit durch ein
@@ -11354,6 +12076,7 @@ mehrerer Landgerichte über die Landesgrenzen hinaus vereinbaren.
 
 
 #### § 723 Vollstreckungsurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091602301)
 
 (1) Das Vollstreckungsurteil ist ohne Prüfung der Gesetzmäßigkeit der
 Entscheidung zu erlassen.
@@ -11365,6 +12088,7 @@ Anerkennung des Urteils nach § 328 ausgeschlossen ist.
 
 
 #### § 724 Vollstreckbare Ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091703125)
 
 (1) Die Zwangsvollstreckung wird auf Grund einer mit der
 Vollstreckungsklausel versehenen Ausfertigung des Urteils
@@ -11378,6 +12102,7 @@ Geschäftsstelle dieses Gerichts erteilt werden.
 
 
 #### § 725 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091802301)
 
 Die Vollstreckungsklausel:
 "Vorstehende Ausfertigung wird dem usw. (Bezeichnung der Partei) zum
@@ -11388,6 +12113,7 @@ Gerichtssiegel zu versehen.
 
 
 #### § 726 Vollstreckbare Ausfertigung bei bedingten Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE091902301)
 
 (1) Von Urteilen, deren Vollstreckung nach ihrem Inhalt von dem durch
 den Gläubiger zu beweisenden Eintritt einer anderen Tatsache als einer
@@ -11403,6 +12129,7 @@ einer Willenserklärung besteht.
 
 
 #### § 727 Vollstreckbare Ausfertigung für und gegen Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092002301)
 
 (1) Eine vollstreckbare Ausfertigung kann für den Rechtsnachfolger des
 in dem Urteil bezeichneten Gläubigers sowie gegen denjenigen
@@ -11418,6 +12145,7 @@ offenkundig, so ist dies in der Vollstreckungsklausel zu erwähnen.
 
 
 #### § 728 Vollstreckbare Ausfertigung bei Nacherbe oder Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092102301)
 
 (1) Ist gegenüber dem Vorerben ein nach § 326 dem Nacherben gegenüber
 wirksames Urteil ergangen, so sind auf die Erteilung einer
@@ -11432,6 +12160,7 @@ auch wenn die Verwaltung des Testamentsvollstreckers noch besteht.
 
 
 #### § 729 Vollstreckbare Ausfertigung gegen Vermögens- und Firmenübernehmer
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092202301)
 
 (1) Hat jemand das Vermögen eines anderen durch Vertrag mit diesem
 nach der rechtskräftigen Feststellung einer Schuld des anderen
@@ -11448,6 +12177,7 @@ gegen den früheren Inhaber rechtskräftig festgestellt worden sind.
 
 
 #### § 730 Anhörung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092302301)
 
 In den Fällen des § 726 Abs. 1 und der §§ 727 bis 729 kann der
 Schuldner vor der Erteilung der vollstreckbaren Ausfertigung gehört
@@ -11455,6 +12185,7 @@ werden.
 
 
 #### § 731 Klage auf Erteilung der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092402301)
 
 Kann der nach dem § 726 Abs. 1 und den §§ 727 bis 729 erforderliche
 Nachweis durch öffentliche oder öffentlich beglaubigte Urkunden nicht
@@ -11464,6 +12195,7 @@ Klage zu erheben.
 
 
 #### § 732 Erinnerung gegen Erteilung der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092502301)
 
 (1) Über Einwendungen des Schuldners, welche die Zulässigkeit der
 Vollstreckungsklausel betreffen, entscheidet das Gericht, von dessen
@@ -11477,6 +12209,7 @@ gegen Sicherheitsleistung fortzusetzen sei.
 
 
 #### § 733 Weitere vollstreckbare Ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092602301)
 
 (1) Vor der Erteilung einer weiteren vollstreckbaren Ausfertigung kann
 der Schuldner gehört werden, sofern nicht die zuerst erteilte
@@ -11490,6 +12223,7 @@ bezeichnen.
 
 
 #### § 734 Vermerk über Ausfertigungserteilung auf der Urteilsurschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092703301)
 
 Vor der Aushändigung einer vollstreckbaren Ausfertigung ist auf der
 Urschrift des Urteils zu vermerken, für welche Partei und zu welcher
@@ -11500,10 +12234,12 @@ untrennbar zu verbinden.
 
 
 #### § 735 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092803125)
 
 
 
 #### § 736 Zwangsvollstreckung für oder gegen eine Gesellschaft bürgerlichen Rechts bei nachträglicher Eintragung im Gesellschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE092903125)
 
 Die Zwangsvollstreckung für oder gegen eine im Gesellschaftsregister
 eingetragene Gesellschaft bürgerlichen Rechts findet auch aus einem
@@ -11525,6 +12261,7 @@ eingetragene Gesellschaft bürgerlichen Rechts statt, wenn
 
 
 #### § 737 Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093002301)
 
 (1) Bei dem Nießbrauch an einem Vermögen ist wegen der vor der
 Bestellung des Nießbrauchs entstandenen Verbindlichkeiten des
@@ -11538,6 +12275,7 @@ Nachlassverbindlichkeiten.
 
 
 #### § 738 Vollstreckbare Ausfertigung gegen Nießbraucher
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093102301)
 
 (1) Ist die Bestellung des Nießbrauchs an einem Vermögen nach der
 rechtskräftigen Feststellung einer Schuld des Bestellers erfolgt, so
@@ -11552,6 +12290,7 @@ ergangenen Urteils.
 
 
 #### § 739 Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093204125)
 
 (1) Wird zugunsten der Gläubiger eines der Ehegatten gemäß § 1362 des
 Bürgerlichen Gesetzbuchs vermutet, dass der Schuldner Eigentümer
@@ -11565,6 +12304,7 @@ Lebenspartner.
 
 
 #### § 740 Zwangsvollstreckung in das Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093303311)
 
 (1) Leben die Ehegatten oder Lebenspartner in Gütergemeinschaft und
 verwaltet einer von ihnen das Gesamtgut allein, so ist zur
@@ -11578,6 +12318,7 @@ verurteilt sind.
 
 
 #### § 741 Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093404125)
 
 Betreibt ein Ehegatte, der in Gütergemeinschaft lebt und das Gesamtgut
 nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so
@@ -11586,6 +12327,7 @@ ergangenes Urteil.
 
 
 #### § 742 Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093503311)
 
 Ist die Gütergemeinschaft erst eingetreten, nachdem ein von einem
 Ehegatten oder Lebenspartner oder gegen einen Ehegatten oder
@@ -11598,6 +12340,7 @@ den anderen Ehegatten oder Lebenspartner die Vorschriften der §§ 727,
 
 
 #### § 743 Beendete Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093603311)
 
 Nach der Beendigung der Gütergemeinschaft ist vor der
 Auseinandersetzung die Zwangsvollstreckung in das Gesamtgut nur
@@ -11615,6 +12358,7 @@ zulässig, wenn
 
 
 #### § 744 Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093703311)
 
 Ist die Beendigung der Gütergemeinschaft nach der Beendigung eines
 Rechtsstreits des Ehegatten oder Lebenspartners eingetreten, der das
@@ -11625,6 +12369,7 @@ gegen den anderen Ehegatten oder Lebenspartner die Vorschriften der §§
 
 
 #### § 744a Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE128602301)
 
 Leben die Ehegatten gemäß Artikel 234 § 4 Abs. 2 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuch im Güterstand der
@@ -11634,6 +12379,7 @@ in Gegenstände des gemeinschaftlichen Eigentums und Vermögens die §§
 
 
 #### § 745 Zwangsvollstreckung bei fortgesetzter Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093803311)
 
 (1) Im Falle der fortgesetzten Gütergemeinschaft ist zur
 Zwangsvollstreckung in das Gesamtgut ein gegen den überlebenden
@@ -11656,11 +12402,13 @@ genügend.
 
 
 #### § 746
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE093901301)
 
 (weggefallen)
 
 
 #### § 747 Zwangsvollstreckung in ungeteilten Nachlass
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094002301)
 
 Zur Zwangsvollstreckung in einen Nachlass ist, wenn mehrere Erben
 vorhanden sind, bis zur Teilung ein gegen alle Erben ergangenes Urteil
@@ -11668,6 +12416,7 @@ erforderlich.
 
 
 #### § 748 Zwangsvollstreckung bei Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094102301)
 
 (1) Unterliegt ein Nachlass der Verwaltung eines
 Testamentsvollstreckers, so ist zur Zwangsvollstreckung in den
@@ -11687,6 +12436,7 @@ erforderlich.
 
 
 #### § 749 Vollstreckbare Ausfertigung für und gegen Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094202301)
 
 Auf die Erteilung einer vollstreckbaren Ausfertigung eines für oder
 gegen den Erblasser ergangenen Urteils für oder gegen den
@@ -11697,6 +12447,7 @@ Testamentsvollstreckers unterliegenden Nachlassgegenstände zulässig.
 
 
 #### § 750 Voraussetzungen der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094302301)
 
 (1) Die Zwangsvollstreckung darf nur beginnen, wenn die Personen, für
 und gegen die sie stattfinden soll, in dem Urteil oder in der ihm
@@ -11724,6 +12475,7 @@ zugestellt sind.
 
 
 #### § 751 Bedingungen für Vollstreckungsbeginn
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094402301)
 
 (1) Ist die Geltendmachung des Anspruchs von dem Eintritt eines
 Kalendertages abhängig, so darf die Zwangsvollstreckung nur beginnen,
@@ -11738,6 +12490,7 @@ oder gleichzeitig zugestellt wird.
 
 
 #### § 752 Sicherheitsleistung bei Teilvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094503301)
 
 Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines
 Teilbetrages, so bemisst sich die Höhe der Sicherheitsleistung nach
@@ -11747,6 +12500,7 @@ abwenden, so gilt für ihn Satz 1 entsprechend.
 
 
 #### § 753 Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094612125)
 
 (1) Die Zwangsvollstreckung wird, soweit sie nicht den Gerichten
 zugewiesen ist, durch Gerichtsvollzieher durchgeführt, die sie im
@@ -11777,6 +12531,7 @@ Gerichtsvollzieher bestimmen.
 
 
 #### § 753a Vollmachtsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168300125)
 
 Bei der Durchführung der Zwangsvollstreckung wegen Geldforderungen in
 das bewegliche Vermögen haben Bevollmächtigte nach § 79 Absatz 2 Satz
@@ -11786,6 +12541,7 @@ nicht. Satz 1 gilt nicht für Anträge nach § 802g.
 
 
 #### § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094704160)
 
 (1) Durch den Vollstreckungsauftrag und die Übergabe der
 vollstreckbaren Ausfertigung wird der Gerichtsvollzieher ermächtigt,
@@ -11801,6 +12557,7 @@ Personen gegenüber von dem Gläubiger nicht geltend gemacht werden.
 
 
 #### § 754a Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166701311)
 
 (1) Im Fall eines elektronisch eingereichten Auftrags zur
 Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer
@@ -11845,6 +12602,7 @@ Vollstreckungsvoraussetzungen nachgewiesen hat.
 
 
 #### § 755 Ermittlung des Aufenthaltsorts des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094807125)
 
 (1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners
 nicht bekannt, darf der Gerichtsvollzieher auf Grund des
@@ -11911,6 +12669,7 @@ vorliegen.
 
 
 #### § 756 Zwangsvollstreckung bei Leistung Zug um Zug
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE094903301)
 
 (1) Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden
 Leistung des Gläubigers an den Schuldner ab, so darf der
@@ -11928,6 +12687,7 @@ erklärt, dass er die Leistung nicht annehmen werde.
 
 
 #### § 757 Übergabe des Titels und Quittung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095002301)
 
 (1) Der Gerichtsvollzieher hat nach Empfang der Leistungen dem
 Schuldner die vollstreckbare Ausfertigung nebst einer Quittung
@@ -11940,6 +12700,7 @@ berührt.
 
 
 #### § 757a Auskunfts- und Unterstützungsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168400125)
 
 (1) Der Gerichtsvollzieher kann die zuständige Polizeidienststelle um
 Auskunft ersuchen, ob nach polizeilicher Einschätzung bei einer
@@ -12003,6 +12764,7 @@ unberührt.
 
 
 #### § 758 Durchsuchung; Gewaltanwendung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095102301)
 
 (1) Der Gerichtsvollzieher ist befugt, die Wohnung und die Behältnisse
 des Schuldners zu durchsuchen, soweit der Zweck der Vollstreckung dies
@@ -12017,6 +12779,7 @@ Vollzugsorgane nachsuchen.
 
 
 #### § 758a Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130407311)
 
 (1) Die Wohnung des Schuldners darf ohne dessen Einwilligung nur auf
 Grund einer Anordnung des Richters bei dem Amtsgericht durchsucht
@@ -12057,6 +12820,7 @@ werden.
 
 
 #### § 759 Zuziehung von Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095203311)
 
 Wird bei einer Vollstreckungshandlung Widerstand geleistet oder ist
 bei einer in der Wohnung des Schuldners vorzunehmenden
@@ -12068,6 +12832,7 @@ Polizeibeamten als Zeugen zuzuziehen.
 
 
 #### § 760 Akteneinsicht; Aktenabschrift
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095304308)
 
 Jeder Person, die bei dem Vollstreckungsverfahren beteiligt ist, muss
 auf Begehren Einsicht der Akten des Gerichtsvollziehers gestattet und
@@ -12080,11 +12845,13 @@ gespeicherten Dateien.
 
 
 #### § 761
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095402301)
 
 (weggefallen)
 
 
 #### § 762 Protokoll über Vollstreckungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095503125)
 
 (1) Der Gerichtsvollzieher hat über jede Vollstreckungshandlung ein
 Protokoll aufzunehmen.
@@ -12115,6 +12882,7 @@ nicht genügt werden können, so ist der Grund anzugeben.
 
 
 #### § 763 Aufforderungen und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095604301)
 
 (1) Die Aufforderungen und sonstigen Mitteilungen, die zu den
 Vollstreckungshandlungen gehören, sind von dem Gerichtsvollzieher
@@ -12128,6 +12896,7 @@ nicht statt.
 
 
 #### § 764 Vollstreckungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095702301)
 
 (1) Die den Gerichten zugewiesene Anordnung von
 Vollstreckungshandlungen und Mitwirkung bei solchen gehört zur
@@ -12142,6 +12911,7 @@ Beschluss.
 
 
 #### § 765 Vollstreckungsgerichtliche Anordnungen bei Leistung Zug um Zug
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095803301)
 
 Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung
 des Gläubigers an den Schuldner ab, so darf das Vollstreckungsgericht
@@ -12164,6 +12934,7 @@ eine Vollstreckungsmaßregel nur anordnen, wenn
 
 
 #### § 765a Vollstreckungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE095904301)
 
 (1) Auf Antrag des Schuldners kann das Vollstreckungsgericht eine
 Maßnahme der Zwangsvollstreckung ganz oder teilweise aufheben,
@@ -12198,6 +12969,7 @@ Beschlusses.
 
 
 #### § 766 Erinnerung gegen Art und Weise der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096002301)
 
 (1) Über Anträge, Einwendungen und Erinnerungen, welche die Art und
 Weise der Zwangsvollstreckung oder das vom Gerichtsvollzieher bei ihr
@@ -12213,6 +12985,7 @@ gebrachten Kosten Erinnerungen erhoben werden.
 
 
 #### § 767 Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096102301)
 
 (1) Einwendungen, die den durch das Urteil festgestellten Anspruch
 selbst betreffen, sind von dem Schuldner im Wege der Klage bei dem
@@ -12230,6 +13003,7 @@ geltend zu machen imstande war.
 
 
 #### § 768 Klage gegen Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096202301)
 
 Die Vorschriften des § 767 Abs. 1, 3 gelten entsprechend, wenn in den
 Fällen des § 726 Abs. 1, der §§ 727 bis 729, 738, 742, 744, des § 745
@@ -12242,6 +13016,7 @@ erheben.
 
 
 #### § 769 Einstweilige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096304160)
 
 (1) Das Prozessgericht kann auf Antrag anordnen, dass bis zum Erlass
 des Urteils über die in den §§ 767, 768 bezeichneten Einwendungen die
@@ -12266,6 +13041,7 @@ Abänderungsklage gelten die Absätze 1 bis 3 entsprechend.
 
 
 #### § 770 Einstweilige Anordnungen im Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096402301)
 
 Das Prozessgericht kann in dem Urteil, durch das über die Einwendungen
 entschieden wird, die in dem vorstehenden Paragraphen bezeichneten
@@ -12275,6 +13051,7 @@ Entscheidung gelten die Vorschriften des § 718 entsprechend.
 
 
 #### § 771 Drittwiderspruchsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096502301)
 
 (1) Behauptet ein Dritter, dass ihm an dem Gegenstand der
 Zwangsvollstreckung ein die Veräußerung hinderndes Recht zustehe, so
@@ -12292,6 +13069,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 772 Drittwiderspruchsklage bei Veräußerungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096602301)
 
 Solange ein Veräußerungsverbot der in den §§ 135, 136 des Bürgerlichen
 Gesetzbuchs bezeichneten Art besteht, soll der Gegenstand, auf den es
@@ -12303,6 +13081,7 @@ werden.
 
 
 #### § 773 Drittwiderspruchsklage des Nacherben
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096702301)
 
 Ein Gegenstand, der zu einer Vorerbschaft gehört, soll nicht im Wege
 der Zwangsvollstreckung veräußert oder überwiesen werden, wenn die
@@ -12313,6 +13092,7 @@ Widerspruch erheben.
 
 
 #### § 774 Drittwiderspruchsklage des Ehegatten oder Lebenspartners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096803311)
 
 Findet nach § 741 die Zwangsvollstreckung in das Gesamtgut statt, so
 kann ein Ehegatte oder Lebenspartner nach Maßgabe des § 771
@@ -12322,6 +13102,7 @@ gegenüber unwirksam ist.
 
 
 #### § 775 Einstellung oder Beschränkung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE096903301)
 
 Die Zwangsvollstreckung ist einzustellen oder zu beschränken:
 
@@ -12360,6 +13141,7 @@ Die Zwangsvollstreckung ist einzustellen oder zu beschränken:
 
 
 #### § 776 Aufhebung von Vollstreckungsmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097002301)
 
 In den Fällen des § 775 Nr. 1, 3 sind zugleich die bereits getroffenen
 Vollstreckungsmaßregeln aufzuheben. In den Fällen der Nummern 4, 5
@@ -12369,6 +13151,7 @@ Aufhebung der bisherigen Vollstreckungshandlungen angeordnet ist.
 
 
 #### § 777 Erinnerung bei genügender Sicherung des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097102301)
 
 Hat der Gläubiger eine bewegliche Sache des Schuldners im Besitz, in
 Ansehung deren ihm ein Pfandrecht oder ein Zurückbehaltungsrecht für
@@ -12381,6 +13164,7 @@ durch den Wert der Sache gedeckt ist.
 
 
 #### § 778 Zwangsvollstreckung vor Erbschaftsannahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097202301)
 
 (1) Solange der Erbe die Erbschaft nicht angenommen hat, ist eine
 Zwangsvollstreckung wegen eines Anspruchs, der sich gegen den Nachlass
@@ -12392,6 +13176,7 @@ nicht zulässig.
 
 
 #### § 779 Fortsetzung der Zwangsvollstreckung nach dem Tod des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097302301)
 
 (1) Eine Zwangsvollstreckung, die zur Zeit des Todes des Schuldners
 gegen ihn bereits begonnen hatte, wird in seinen Nachlass fortgesetzt.
@@ -12406,6 +13191,7 @@ die Verwaltung des Nachlasses einem Testamentsvollstrecker zusteht.
 
 
 #### § 780 Vorbehalt der beschränkten Erbenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097402301)
 
 (1) Der als Erbe des Schuldners verurteilte Beklagte kann die
 Beschränkung seiner Haftung nur geltend machen, wenn sie ihm im Urteil
@@ -12419,6 +13205,7 @@ die Verwaltung des Nachlasses zusteht, erlassen wird.
 
 
 #### § 781 Beschränkte Erbenhaftung in der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097502301)
 
 Bei der Zwangsvollstreckung gegen den Erben des Schuldners bleibt die
 Beschränkung der Haftung unberücksichtigt, bis auf Grund derselben
@@ -12427,6 +13214,7 @@ werden.
 
 
 #### § 782 Einreden des Erben gegen Nachlassgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097603301)
 
 Der Erbe kann auf Grund der ihm nach den §§ 2014, 2015 des
 Bürgerlichen Gesetzbuchs zustehenden Einreden nur verlangen, dass die
@@ -12440,6 +13228,7 @@ rechtskräftig entschieden ist.
 
 
 #### § 783 Einreden des Erben gegen persönliche Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097702301)
 
 In Ansehung der Nachlassgegenstände kann der Erbe die Beschränkung der
 Zwangsvollstreckung nach § 782 auch gegenüber den Gläubigern
@@ -12448,6 +13237,7 @@ die Nachlassverbindlichkeiten unbeschränkt haftet.
 
 
 #### § 784 Zwangsvollstreckung bei Nachlassverwaltung und -insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097803301)
 
 (1) Ist eine Nachlassverwaltung angeordnet oder das
 Nachlassinsolvenzverfahren eröffnet, so kann der Erbe verlangen, dass
@@ -12463,12 +13253,14 @@ Nachlass erfolgt sind.
 
 
 #### § 785 Vollstreckungsabwehrklage des Erben
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE097902301)
 
 Die auf Grund der §§ 781 bis 784 erhobenen Einwendungen werden nach
 den Vorschriften der §§ 767, 769, 770 erledigt.
 
 
 #### § 786 Vollstreckungsabwehrklage bei beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098005301)
 
 (1) Die Vorschriften des § 780 Abs. 1 und der §§ 781 bis 785 sind auf
 die nach § 1489 des Bürgerlichen Gesetzbuchs eintretende beschränkte
@@ -12485,6 +13277,7 @@ Gesetzes im Urteil vorbehalten ist.
 
 
 #### § 786a See- und binnenschifffahrtsrechtliche Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE126505311)
 
 (1) Die Vorschriften des § 780 Abs. 1 und des § 781 sind auf die nach
 § 611 Absatz 1 oder 3, §§ 612 bis 616 des Handelsgesetzbuchs oder nach
@@ -12552,6 +13345,7 @@ Anspruchs die Vorschriften des Absatzes 2 entsprechend.
 
 
 #### § 787 Zwangsvollstreckung bei herrenlosem Grundstück oder Schiff
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098102301)
 
 (1) Soll durch die Zwangsvollstreckung ein Recht an einem Grundstück,
 das von dem bisherigen Eigentümer nach § 928 des Bürgerlichen
@@ -12571,6 +13365,7 @@ Aneignungsberechtigten noch nicht erworben worden ist.
 
 
 #### § 788 Kosten der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098207125)
 
 (1) Die Kosten der Zwangsvollstreckung fallen, soweit sie notwendig
 waren (§ 91), dem Schuldner zur Last; sie sind zugleich mit dem zur
@@ -12600,6 +13395,7 @@ Verhalten des Gläubigers liegenden Gründen der Billigkeit entspricht.
 
 
 #### § 789 Einschreiten von Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098302301)
 
 Wird zum Zwecke der Vollstreckung das Einschreiten einer Behörde
 erforderlich, so hat das Gericht die Behörde um ihr Einschreiten zu
@@ -12607,16 +13403,19 @@ ersuchen.
 
 
 #### § 790 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098404160)
 
 -
 
 
 #### § 791
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098503301)
 
 (weggefallen)
 
 
 #### § 792 Erteilung von Urkunden an Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098602301)
 
 Bedarf der Gläubiger zum Zwecke der Zwangsvollstreckung eines
 Erbscheins oder einer anderen Urkunde, die dem Schuldner auf Antrag
@@ -12625,6 +13424,7 @@ kann er die Erteilung an Stelle des Schuldners verlangen.
 
 
 #### § 793 Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098703301)
 
 Gegen Entscheidungen, die im Zwangsvollstreckungsverfahren ohne
 mündliche Verhandlung ergehen können, findet sofortige Beschwerde
@@ -12632,6 +13432,7 @@ statt.
 
 
 #### § 794 Weitere Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098816311)
 
 (1) Die Zwangsvollstreckung findet ferner statt:
 
@@ -12719,6 +13520,7 @@ Gegenstände bewilligt.
 
 
 #### § 794a Zwangsvollstreckung aus Räumungsvergleich
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE098906301)
 
 (1) Hat sich der Schuldner in einem Vergleich, aus dem die
 Zwangsvollstreckung stattfindet, zur Räumung von Wohnraum
@@ -12750,6 +13552,7 @@ Zeitpunkt der Beendigung gewährt werden.
 
 
 #### § 795 Anwendung der allgemeinen Vorschriften auf die weiteren Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099005311)
 
 Auf die Zwangsvollstreckung aus den in § 794 erwähnten Schuldtiteln
 sind die Vorschriften der §§ 724 bis 793 entsprechend anzuwenden,
@@ -12763,6 +13566,7 @@ bis 9 genannten Verordnungen bleiben unberührt.
 
 
 #### § 795a Zwangsvollstreckung aus Kostenfestsetzungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099102301)
 
 Die Zwangsvollstreckung aus einem Kostenfestsetzungsbeschluss, der
 nach § 105 auf das Urteil gesetzt ist, erfolgt auf Grund einer
@@ -12771,6 +13575,7 @@ Vollstreckungsklausel für den Festsetzungsbeschluss bedarf es nicht.
 
 
 #### § 795b Vollstreckbarerklärung des gerichtlichen Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159100301)
 
 Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§
 794 Abs. 1 Nr. 1) und deren Wirksamkeit ausschließlich vom Eintritt
@@ -12782,6 +13587,7 @@ Urkundsbeamten der Geschäftsstelle dieses Gerichts erteilt.
 
 
 #### § 796 Zwangsvollstreckung aus Vollstreckungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099202301)
 
 (1) Vollstreckungsbescheide bedürfen der Vollstreckungsklausel nur,
 wenn die Zwangsvollstreckung für einen anderen als den in dem Bescheid
@@ -12803,6 +13609,7 @@ Streitverfahren zuständig gewesen wäre.
 
 
 #### § 796a Voraussetzungen für die Vollstreckbarerklärung des Anwaltsvergleichs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130802301)
 
 (1) Ein von Rechtsanwälten im Namen und mit Vollmacht der von ihnen
 vertretenen Parteien abgeschlossener Vergleich wird auf Antrag einer
@@ -12822,6 +13629,7 @@ verstoßen würde.
 
 
 #### § 796b Vollstreckbarerklärung durch das Prozessgericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130902301)
 
 (1) Für die Vollstreckbarerklärung nach § 796a Abs. 1 ist das Gericht
 als Prozessgericht zuständig, das für die gerichtliche Geltendmachung
@@ -12833,6 +13641,7 @@ Anfechtung findet nicht statt.
 
 
 #### § 796c Vollstreckbarerklärung durch einen Notar
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131002301)
 
 (1) Mit Zustimmung der Parteien kann ein Vergleich ferner von einem
 Notar, der seinen Amtssitz im Bezirk eines nach § 796a Abs. 1
@@ -12846,6 +13655,7 @@ Gericht angefochten werden.
 
 
 #### § 797 Verfahren bei vollstreckbaren Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099306125)
 
 (1) Die vollstreckbare Ausfertigung wird erteilt bei
 
@@ -12944,6 +13754,7 @@ anzuwenden.
 
 
 #### § 797a Verfahren bei Gütestellenvergleichen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099402301)
 
 (1) Bei Vergleichen, die vor Gütestellen der im § 794 Abs. 1 Nr. 1
 bezeichneten Art geschlossen sind, wird die Vollstreckungsklausel von
@@ -12966,6 +13777,7 @@ bezeichnete Gericht.
 
 
 #### § 798 Wartefrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099505160)
 
 Aus einem Kostenfestsetzungsbeschluss, der nicht auf das Urteil
 gesetzt ist, aus Beschlüssen nach § 794 Abs. 1 Nr. 4b sowie aus den
@@ -12975,11 +13787,13 @@ Wochen vorher zugestellt ist.
 
 
 #### § 798a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099604160)
 
 -
 
 
 #### § 799 Vollstreckbare Urkunde bei Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099702301)
 
 Hat sich der Eigentümer eines mit einer Hypothek, einer Grundschuld
 oder einer Rentenschuld belasteten Grundstücks in einer nach § 794
@@ -12993,6 +13807,7 @@ Gläubiger im Grundbuch eingetragen ist.
 Schadensersatzpflicht bei der
 
 #### § 799a Vollstreckung aus Urkunden durch andere Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159400160)
 
 Hat sich der Eigentümer eines Grundstücks in Ansehung einer Hypothek
 oder Grundschuld in einer Urkunde nach § 794 Abs. 1 Nr. 5 der
@@ -13010,6 +13825,7 @@ unterworfen hat.
 
 
 #### § 800 Vollstreckbare Urkunde gegen den jeweiligen Grundstückseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099802301)
 
 (1) Der Eigentümer kann sich in einer nach § 794 Abs. 1 Nr. 5
 aufgenommenen Urkunde in Ansehung einer Hypothek, einer Grundschuld
@@ -13030,6 +13846,7 @@ ist.
 
 
 #### § 800a Vollstreckbare Urkunde bei Schiffshypothek
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE099902301)
 
 (1) Die Vorschriften der §§ 799, 800 gelten für eingetragene Schiffe
 und Schiffsbauwerke, die mit einer Schiffshypothek belastet sind,
@@ -13042,6 +13859,7 @@ Schiff oder das Schiffsbauwerk geführt wird.
 
 
 #### § 801 Landesrechtliche Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143303301)
 
 (1) Die Landesgesetzgebung ist nicht gehindert, auf Grund anderer als
 der in den §§ 704, 794 bezeichneten Schuldtitel die gerichtliche
@@ -13053,19 +13871,23 @@ gesamten Bundesgebiet vollstreckt werden.
 
 
 #### § 802 Ausschließlichkeit der Gerichtsstände
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100102301)
 
 Die in diesem Buch angeordneten Gerichtsstände sind ausschließliche.
 
 
 ### Abschnitt 2 - Zwangsvollstreckung wegen Geldforderungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075303308)
 
 
 
 #### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075403160)
 
 
 
 ##### § 802a Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162500160)
 
 (1) Der Gerichtsvollzieher wirkt auf eine zügige, vollständige und
 Kosten sparende Beitreibung von Geldforderungen hin.
@@ -13099,6 +13921,7 @@ hierauf beschränkt.
 
 
 ##### § 802b Gütliche Erledigung; Vollstreckungsaufschub bei Zahlungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162600160)
 
 (1) Der Gerichtsvollzieher soll in jeder Lage des Verfahrens auf eine
 gütliche Erledigung bedacht sein.
@@ -13122,6 +13945,7 @@ teilweise länger als zwei Wochen in Rückstand gerät.
 
 
 ##### § 802c Vermögensauskunft des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162703125)
 
 (1) Der Schuldner ist verpflichtet, zum Zwecke der Vollstreckung einer
 Geldforderung auf Verlangen des Gerichtsvollziehers Auskunft über sein
@@ -13161,6 +13985,7 @@ Gewissen richtig und vollständig gemacht habe. Die Vorschriften der §§
 
 
 ##### § 802d Weitere Vermögensauskunft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162803125)
 
 (1) Der Schuldner ist innerhalb von zwei Jahren nach Abgabe der
 Vermögensauskunft nach § 802c oder nach § 284 der Abgabenordnung nicht
@@ -13185,6 +14010,7 @@ geschützt ist.
 
 
 ##### § 802e Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162900160)
 
 (1) Für die Abnahme der Vermögensauskunft und der eidesstattlichen
 Versicherung ist der Gerichtsvollzieher bei dem Amtsgericht zuständig,
@@ -13198,6 +14024,7 @@ Gerichtsvollzieher weiter.
 
 
 ##### § 802f Abnahme der Vermögensauskunft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163003125)
 
 (1) Die Abnahme der Vermögensauskunft ist nur zulässig, wenn
 
@@ -13318,6 +14145,7 @@ Vermerk enthalten, dass sie mit dem Inhalt des Vermögensverzeichnisses
 
 
 ##### § 802g Erzwingungshaft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163101311)
 
 (1) Auf Antrag des Gläubigers erlässt das Gericht gegen den Schuldner,
 der dem Termin zur Abgabe der Vermögensauskunft unentschuldigt
@@ -13334,6 +14162,7 @@ Haftbefehls aus.
 
 
 ##### § 802h Unzulässigkeit der Haftvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163200160)
 
 (1) Die Vollziehung des Haftbefehls ist unstatthaft, wenn seit dem
 Tag, an dem der Haftbefehl erlassen wurde, zwei Jahre vergangen sind.
@@ -13344,6 +14173,7 @@ solange dieser Zustand dauert, die Haft nicht vollstreckt werden.
 
 
 ##### § 802i Vermögensauskunft des verhafteten Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163301125)
 
 (1) Der verhaftete Schuldner kann zu jeder Zeit bei dem
 Gerichtsvollzieher des Amtsgerichts des Haftortes verlangen, ihm die
@@ -13363,6 +14193,7 @@ entsprechend; der Setzung einer Zahlungsfrist bedarf es nicht.
 
 
 ##### § 802j Dauer der Haft; erneute Haft
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163400160)
 
 (1) Die Haft darf die Dauer von sechs Monaten nicht übersteigen. Nach
 Ablauf der sechs Monate wird der Schuldner von Amts wegen aus der Haft
@@ -13380,6 +14211,7 @@ Abgabe einer solchen Vermögensauskunft durch Haft angehalten werden.
 
 
 ##### § 802k Zentrale Verwaltung der Vermögensverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163506125)
 
 (1) Nach § 802f Absatz 8 dieses Gesetzes oder nach § 284 Abs. 7 Satz 4
 der Abgabenordnung zu hinterlegende Vermögensverzeichnisse werden
@@ -13475,6 +14307,7 @@ Vermögensverzeichnissen enthalten sind, keine Anwendung.
 
 
 ##### § 802l Auskunftsrechte des Gerichtsvollziehers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163603125)
 
 (1) Der Gerichtsvollzieher darf vorbehaltlich der Sätze 2 und 3
 folgende Maßnahmen durchführen, soweit sie zur Vollstreckung
@@ -13569,14 +14402,17 @@ vier Wochen nach der Übermittlung in Kenntnis zu setzen; § 802d Absatz
 
 
 #### Titel 2 - Zwangsvollstreckung in das bewegliche Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080301160)
 
 
 
 ##### Untertitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075503160)
 
 
 
 ###### § 803 Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100202301)
 
 (1) Die Zwangsvollstreckung in das bewegliche Vermögen erfolgt durch
 Pfändung. Sie darf nicht weiter ausgedehnt werden, als es zur
@@ -13589,6 +14425,7 @@ Zwangsvollstreckung nicht erwarten lässt.
 
 
 ###### § 804 Pfändungspfandrecht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100303301)
 
 (1) Durch die Pfändung erwirbt der Gläubiger ein Pfandrecht an dem
 gepfändeten Gegenstande.
@@ -13604,6 +14441,7 @@ demjenigen vor, das durch eine spätere Pfändung begründet wird.
 
 
 ###### § 805 Klage auf vorzugsweise Befriedigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100402301)
 
 (1) Der Pfändung einer Sache kann ein Dritter, der sich nicht im
 Besitz der Sache befindet, auf Grund eines Pfand- oder Vorzugsrechts
@@ -13625,6 +14463,7 @@ sind hierbei entsprechend anzuwenden.
 
 
 ###### § 806 Keine Gewährleistung bei Pfandveräußerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100502301)
 
 Wird ein Gegenstand auf Grund der Pfändung veräußert, so steht dem
 Erwerber wegen eines Mangels im Recht oder wegen eines Mangels der
@@ -13632,6 +14471,7 @@ veräußerten Sache ein Anspruch auf Gewährleistung nicht zu.
 
 
 ###### § 806a Mitteilungen und Befragung durch den Gerichtsvollzieher
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE129303301)
 
 (1) Erhält der Gerichtsvollzieher anlässlich der Zwangsvollstreckung
 durch Befragung des Schuldners oder durch Einsicht in Dokumente
@@ -13654,10 +14494,12 @@ Gerichtsvollzieher dem Gläubiger mit.
 
 
 ###### § 806b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE140503160)
 
 
 
 ###### § 807 Abnahme der Vermögensauskunft nach Pfändungsversuch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100607125)
 
 (1) Hat der Gläubiger die Vornahme der Pfändung beim Schuldner
 beantragt und
@@ -13680,10 +14522,12 @@ einer Zahlungsfrist bedarf es nicht.
 
 
 ##### Untertitel 2 - Zwangsvollstreckung in körperliche Sachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075603160)
 
 
 
 ###### § 808 Pfändung beim Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100702301)
 
 (1) Die Pfändung der im Gewahrsam des Schuldners befindlichen
 körperlichen Sachen wird dadurch bewirkt, dass der Gerichtsvollzieher
@@ -13701,6 +14545,7 @@ Pfändung in Kenntnis zu setzen.
 
 
 ###### § 809 Pfändung beim Gläubiger oder bei Dritten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100802301)
 
 Die vorstehenden Vorschriften sind auf die Pfändung von Sachen, die
 sich im Gewahrsam des Gläubigers oder eines zur Herausgabe bereiten
@@ -13708,6 +14553,7 @@ Dritten befinden, entsprechend anzuwenden.
 
 
 ###### § 810 Pfändung ungetrennter Früchte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE100902301)
 
 (1) Früchte, die von dem Boden noch nicht getrennt sind, können
 gepfändet werden, solange nicht ihre Beschlagnahme im Wege der
@@ -13722,6 +14568,7 @@ Grundstück vorgehenden Anspruch erfolgt ist.
 
 
 ###### § 811 Unpfändbare Sachen und Tiere
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101008125)
 
 (1) Nicht der Pfändung unterliegen
 
@@ -13826,6 +14673,7 @@ Anschaffungswert steht.
 
 
 ###### § 811a Austauschpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101104125)
 
 (1) Die Pfändung einer nach § 811 Absatz 1 Nummer 1 Buchstabe a und b
 und Nummer 2 unpfändbaren Sache kann zugelassen werden, wenn der
@@ -13858,6 +14706,7 @@ Zulassungsbeschlusses zulässig.
 
 
 ###### § 811b Vorläufige Austauschpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101202301)
 
 (1) Ohne vorgängige Entscheidung des Gerichts ist eine vorläufige
 Austauschpfändung zulässig, wenn eine Zulassung durch das Gericht zu
@@ -13882,6 +14731,7 @@ entsprechend.
 
 
 ###### § 811c Vorwegpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101304125)
 
 (1) Ist zu erwarten, dass eine Sache demnächst pfändbar wird, so kann
 sie gepfändet werden, ist aber im Gewahrsam des Schuldners zu
@@ -13893,10 +14743,12 @@ Jahres pfändbar geworden ist.
 
 
 ###### § 812 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101403125)
 
 
 
 ###### § 813 Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101506125)
 
 (1) Die gepfändeten Sachen sollen bei der Pfändung auf ihren
 gewöhnlichen Verkaufswert geschätzt werden. Die Schätzung des Wertes
@@ -13936,14 +14788,17 @@ Fällen ein Sachverständiger zugezogen werden soll.
 
 
 ###### § 813a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130603160)
 
 
 
 ###### § 813b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE130703160)
 
 
 
 ###### § 814 Öffentliche Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101704125)
 
 (1) Die gepfändeten Sachen sind von dem Gerichtsvollzieher öffentlich
 zu versteigern;
@@ -14003,6 +14858,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ###### § 815 Gepfändetes Geld
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101802301)
 
 (1) Gepfändetes Geld ist dem Gläubiger abzuliefern.
 
@@ -14019,6 +14875,7 @@ nach § 720 die Hinterlegung zu erfolgen hat.
 
 
 ###### § 816 Zeit und Ort der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE101903160)
 
 (1) Die Versteigerung der gepfändeten Sachen darf nicht vor Ablauf
 einer Woche seit dem Tag der Pfändung geschehen, sofern nicht der
@@ -14046,6 +14903,7 @@ Internet.
 
 
 ###### § 817 Zuschlag und Ablieferung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102003160)
 
 (1) Bei der Versteigerung vor Ort soll dem Zuschlag an den
 Meistbietenden ein dreimaliger Aufruf vorausgehen. Bei einer
@@ -14077,6 +14935,7 @@ Gläubiger gezahlt.
 
 
 ###### § 817a Mindestgebot
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102102301)
 
 (1) Der Zuschlag darf nur auf ein Gebot erteilt werden, das mindestens
 die Hälfte des gewöhnlichen Verkaufswertes der Sache erreicht
@@ -14099,6 +14958,7 @@ Verkaufswertes.
 
 
 ###### § 818 Einstellung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102202301)
 
 Die Versteigerung wird eingestellt, sobald der Erlös zur Befriedigung
 des Gläubigers und zur Deckung der Kosten der Zwangsvollstreckung
@@ -14106,6 +14966,7 @@ hinreicht.
 
 
 ###### § 819 Wirkung des Erlösempfanges
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102302301)
 
 Die Empfangnahme des Erlöses durch den Gerichtsvollzieher gilt als
 Zahlung von Seiten des Schuldners, sofern nicht dem Schuldner
@@ -14114,11 +14975,13 @@ die Vollstreckung abzuwenden.
 
 
 ###### § 820
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102402301)
 
 (weggefallen)
 
 
 ###### § 821 Verwertung von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102502301)
 
 Gepfändete Wertpapiere sind, wenn sie einen Börsen- oder Marktpreis
 haben, von dem Gerichtsvollzieher aus freier Hand zum Tageskurs zu
@@ -14127,6 +14990,7 @@ allgemeinen Bestimmungen zu versteigern.
 
 
 ###### § 822 Umschreibung von Namenspapieren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102602301)
 
 Lautet ein Wertpapier auf Namen, so kann der Gerichtsvollzieher durch
 das Vollstreckungsgericht ermächtigt werden, die Umschreibung auf den
@@ -14135,6 +14999,7 @@ Erklärungen an Stelle des Schuldners abzugeben.
 
 
 ###### § 823 Außer Kurs gesetzte Inhaberpapiere
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102702301)
 
 Ist ein Inhaberpapier durch Einschreibung auf den Namen oder in
 anderer Weise außer Kurs gesetzt, so kann der Gerichtsvollzieher durch
@@ -14144,6 +15009,7 @@ Schuldners abzugeben.
 
 
 ###### § 824 Verwertung ungetrennter Früchte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102802301)
 
 Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter
 Früchte ist erst nach der Reife zulässig. Sie kann vor oder nach der
@@ -14152,6 +15018,7 @@ Gerichtsvollzieher die Aberntung bewirken zu lassen.
 
 
 ###### § 825 Andere Verwertungsart
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE102903301)
 
 (1) Auf Antrag des Gläubigers oder des Schuldners kann der
 Gerichtsvollzieher eine gepfändete Sache in anderer Weise oder an
@@ -14167,6 +15034,7 @@ des Gläubigers oder des Schuldners anordnen.
 
 
 ###### § 826 Anschlusspfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103002301)
 
 (1) Zur Pfändung bereits gepfändeter Sachen genügt die in das
 Protokoll aufzunehmende Erklärung des Gerichtsvollziehers, dass er die
@@ -14180,6 +15048,7 @@ setzen.
 
 
 ###### § 827 Verfahren bei mehrfacher Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103103301)
 
 (1) Auf den Gerichtsvollzieher, von dem die erste Pfändung bewirkt
 ist, geht der Auftrag des zweiten Gläubigers kraft Gesetzes über,
@@ -14201,10 +15070,12 @@ Gläubiger gleichzeitig bewirkt ist.
 
 
 ##### Untertitel 3 - Zwangsvollstreckung in Forderungen und andere Vermögensrechte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075703160)
 
 
 
 ###### § 828 Zuständigkeit des Vollstreckungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103203301)
 
 (1) Die gerichtlichen Handlungen, welche die Zwangsvollstreckung in
 Forderungen und andere Vermögensrechte zum Gegenstand haben, erfolgen
@@ -14221,6 +15092,7 @@ nicht bindend.
 
 
 ###### § 829 Pfändung einer Geldforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103309360)
 
 (1) Soll eine Geldforderung gepfändet werden, so hat das Gericht dem
 Drittschuldner zu verbieten, an den Schuldner zu zahlen. Zugleich hat
@@ -14254,6 +15126,7 @@ bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 
 ###### § 829a Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE163904311)
 
 (1) Im Fall eines elektronischen Antrags zur Zwangsvollstreckung aus
 einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht
@@ -14299,6 +15172,7 @@ die Ausfertigung des Vollstreckungsbescheides übermittelt oder die
 
 
 ###### § 830 Pfändung einer Hypothekenforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103402301)
 
 (1) Zur Pfändung einer Forderung, für die eine Hypothek besteht, ist
 außer dem Pfändungsbeschluss die Übergabe des Hypothekenbriefes an den
@@ -14322,6 +15196,7 @@ von der Pfändung der Hauptforderung.
 
 
 ###### § 830a Pfändung einer Schiffshypothekenforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103502301)
 
 (1) Zur Pfändung einer Forderung, für die eine Schiffshypothek
 besteht, ist die Eintragung der Pfändung in das Schiffsregister oder
@@ -14343,6 +15218,7 @@ gepfändet wird.
 
 
 ###### § 831 Pfändung indossabler Papiere
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103602301)
 
 Die Pfändung von Forderungen aus Wechseln und anderen Papieren, die
 durch Indossament übertragen werden können, wird dadurch bewirkt, dass
@@ -14350,6 +15226,7 @@ der Gerichtsvollzieher diese Papiere in Besitz nimmt.
 
 
 ###### § 832 Pfändungsumfang bei fortlaufenden Bezügen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103702301)
 
 Das Pfandrecht, das durch die Pfändung einer Gehaltsforderung oder
 einer ähnlichen in fortlaufenden Bezügen bestehenden Forderung
@@ -14358,6 +15235,7 @@ werdenden Beträge.
 
 
 ###### § 833 Pfändungsumfang bei Arbeits- und Diensteinkommen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103803301)
 
 (1) Durch die Pfändung eines Diensteinkommens wird auch das Einkommen
 betroffen, das der Schuldner infolge der Versetzung in ein anderes
@@ -14372,6 +15250,7 @@ oder Dienstverhältnis.
 
 
 ###### § 833a Pfändungsumfang bei Kontoguthaben
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162402160)
 
 Die Pfändung des Guthabens eines Kontos bei einem Kreditinstitut
 umfasst das am Tag der Zustellung des Pfändungsbeschlusses bei dem
@@ -14380,12 +15259,14 @@ Pfändung folgenden Tage.
 
 
 ###### § 834 Keine Anhörung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE103902301)
 
 Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu
 hören.
 
 
 ###### § 835 Überweisung einer Geldforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104005125)
 
 (1) Die gepfändete Geldforderung ist dem Gläubiger nach seiner Wahl
 zur Einziehung oder an Zahlungs statt zum Nennwert zu überweisen.
@@ -14414,6 +15295,7 @@ leisten oder den Betrag hinterlegen.
 
 
 ###### § 836 Wirkung der Überweisung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104105125)
 
 (1) Die Überweisung ersetzt die förmlichen Erklärungen des Schuldners,
 von denen nach den Vorschriften des bürgerlichen Rechts die
@@ -14438,6 +15320,7 @@ erwirkt werden.
 
 
 ###### § 837 Überweisung einer Hypothekenforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104202301)
 
 (1) Zur Überweisung einer gepfändeten Forderung, für die eine Hypothek
 besteht, genügt die Aushändigung des Überweisungsbeschlusses an den
@@ -14460,6 +15343,7 @@ statt beantragt.
 
 
 ###### § 837a Überweisung einer Schiffshypothekenforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104302301)
 
 (1) Zur Überweisung einer gepfändeten Forderung, für die eine
 Schiffshypothek besteht, genügt, wenn die Forderung zur Einziehung
@@ -14483,6 +15367,7 @@ Absatz 2 genannten Gesetzes) gilt § 837 Abs. 3 entsprechend.
 
 
 ###### § 838 Einrede des Schuldners bei Faustpfand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104402301)
 
 Wird eine durch ein Pfandrecht an einer beweglichen Sache gesicherte
 Forderung überwiesen, so kann der Schuldner die Herausgabe des Pfandes
@@ -14492,6 +15377,7 @@ Verpfänder gegenüber obliegenden Verpflichtungen entstehen kann.
 
 
 ###### § 839 Überweisung bei Abwendungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104502301)
 
 Darf der Schuldner nach § 711 Satz 1, § 712 Abs. 1 Satz 1 die
 Vollstreckung durch Sicherheitsleistung oder Hinterlegung abwenden, so
@@ -14501,6 +15387,7 @@ Schuldbetrag zu hinterlegen hat.
 
 
 ###### § 840 Erklärungspflicht des Drittschuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104606125)
 
 (1) Auf Verlangen des Gläubigers hat der Drittschuldner binnen zwei
 Wochen, von der Zustellung des Pfändungsbeschlusses an gerechnet, dem
@@ -14547,6 +15434,7 @@ unterschreiben.
 
 
 ###### § 841 Pflicht zur Streitverkündung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104702301)
 
 Der Gläubiger, der die Forderung einklagt, ist verpflichtet, dem
 Schuldner gerichtlich den Streit zu verkünden, sofern nicht eine
@@ -14555,6 +15443,7 @@ wird.
 
 
 ###### § 842 Schadenersatz bei verzögerter Beitreibung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104802301)
 
 Der Gläubiger, der die Beitreibung einer ihm zur Einziehung
 überwiesenen Forderung verzögert, haftet dem Schuldner für den daraus
@@ -14562,6 +15451,7 @@ entstehenden Schaden.
 
 
 ###### § 843 Verzicht des Pfandgläubigers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE104902301)
 
 Der Gläubiger kann auf die durch Pfändung und Überweisung zur
 Einziehung erworbenen Rechte unbeschadet seines Anspruchs verzichten.
@@ -14570,6 +15460,7 @@ Erklärung. Die Erklärung ist auch dem Drittschuldner zuzustellen.
 
 
 ###### § 844 Andere Verwertungsart
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105002301)
 
 (1) Ist die gepfändete Forderung bedingt oder betagt oder ist ihre
 Einziehung wegen der Abhängigkeit von einer Gegenleistung oder aus
@@ -14583,6 +15474,7 @@ der Gegner zu hören, sofern nicht eine Zustellung im Ausland oder eine
 
 
 ###### § 845 Vorpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105107360)
 
 (1) Schon vor der Pfändung kann der Gläubiger auf Grund eines
 vollstreckbaren Schuldtitels durch den Gerichtsvollzieher dem
@@ -14605,6 +15497,7 @@ Benachrichtigung zugestellt ist.
 
 
 ###### § 846 Zwangsvollstreckung in Herausgabeansprüche
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105202301)
 
 Die Zwangsvollstreckung in Ansprüche, welche die Herausgabe oder
 Leistung körperlicher Sachen zum Gegenstand haben, erfolgt nach den §§
@@ -14612,6 +15505,7 @@ Leistung körperlicher Sachen zum Gegenstand haben, erfolgt nach den §§
 
 
 ###### § 847 Herausgabeanspruch auf eine bewegliche Sache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105302301)
 
 (1) Bei der Pfändung eines Anspruchs, der eine bewegliche körperliche
 Sache betrifft, ist anzuordnen, dass die Sache an einen vom Gläubiger
@@ -14622,6 +15516,7 @@ Verwertung gepfändeter Sachen anzuwenden.
 
 
 ###### § 847a Herausgabeanspruch auf ein Schiff
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105402301)
 
 (1) Bei der Pfändung eines Anspruchs, der ein eingetragenes Schiff
 betrifft, ist anzuordnen, dass das Schiff an einen vom
@@ -14644,6 +15539,7 @@ eingetragen ist oder in dieses Register eingetragen werden kann.
 
 
 ###### § 848 Herausgabeanspruch auf eine unbewegliche Sache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105502301)
 
 (1) Bei Pfändung eines Anspruchs, der eine unbewegliche Sache
 betrifft, ist anzuordnen, dass die Sache an einen auf Antrag des
@@ -14662,12 +15558,14 @@ Vorschriften bewirkt.
 
 
 ###### § 849 Keine Überweisung an Zahlungs statt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105602301)
 
 Eine Überweisung der im § 846 bezeichneten Ansprüche an Zahlungs statt
 ist unzulässig.
 
 
 ###### § 850 Pfändungsschutz für Arbeitseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105702301)
 
 (1) Arbeitseinkommen, das in Geld zahlbar ist, kann nur nach Maßgabe
 der §§ 850a bis 850i gepfändet werden.
@@ -14701,6 +15599,7 @@ zustehen, ohne Rücksicht auf ihre Benennung oder Berechnungsart.
 
 
 ###### § 850a Unpfändbare Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105807125)
 
 Unpfändbar sind
 
@@ -14746,6 +15645,7 @@ Unpfändbar sind
 
 
 ###### § 850b Bedingt pfändbare Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE105906125)
 
 (1) Unpfändbar sind ferner
 
@@ -14785,6 +15685,7 @@ Beteiligten hören.
 
 
 ###### § 850c Pfändungsgrenzen für Arbeitseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106011125)
 
 (1) Arbeitseinkommen ist unpfändbar, wenn es, je nach dem Zeitraum,
 für den es gezahlt wird, nicht mehr als
@@ -14903,6 +15804,7 @@ Satz 3 nicht anzuwenden.
 
 
 ###### § 850d Pfändbarkeit bei Unterhaltsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106105301)
 
 (1) Wegen der Unterhaltsansprüche, die kraft Gesetzes einem
 Verwandten, dem Ehegatten, einem früheren Ehegatten, dem
@@ -14940,6 +15842,7 @@ wegen der dann jeweils fällig werdenden Ansprüche gepfändet und
 
 
 ###### § 850e Berechnung des pfändbaren Arbeitseinkommens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106205301)
 
 Für die Berechnung des pfändbaren Arbeitseinkommens gilt Folgendes:
 
@@ -15003,6 +15906,7 @@ Für die Berechnung des pfändbaren Arbeitseinkommens gilt Folgendes:
 
 
 ###### § 850f Änderung des unpfändbaren Betrages
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106313125)
 
 (1) Das Vollstreckungsgericht kann dem Schuldner auf Antrag von dem
 nach den Bestimmungen der §§ 850c, 850d und 850i pfändbaren Teil
@@ -15040,6 +15944,7 @@ seiner laufenden gesetzlichen Unterhaltspflichten bedarf.
 
 
 ###### § 850g Änderung der Unpfändbarkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106402301)
 
 Ändern sich die Voraussetzungen für die Bemessung des unpfändbaren
 Teils des Arbeitseinkommens, so hat das Vollstreckungsgericht auf
@@ -15052,6 +15957,7 @@ zugestellt wird.
 
 
 ###### § 850h Verschleiertes Arbeitseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106502301)
 
 (1) Hat sich der Empfänger der vom Schuldner geleisteten Arbeiten oder
 Dienste verpflichtet, Leistungen an einen Dritten zu bewirken, die
@@ -15079,6 +15985,7 @@ nehmen.
 
 
 ###### § 850i Pfändungsschutz für sonstige Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106605160)
 
 (1) Werden nicht wiederkehrend zahlbare Vergütungen für persönlich
 geleistete Arbeiten oder Dienste oder sonstige Einkünfte, die kein
@@ -15100,6 +16007,7 @@ Art bleiben unberührt.
 
 
 ###### § 850k Einrichtung und Beendigung des Pfändungsschutzkontos
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106709125)
 
 (1) Eine natürliche Person kann jederzeit von dem Kreditinstitut
 verlangen, dass ein von ihr dort geführtes Zahlungskonto als
@@ -15139,6 +16047,7 @@ Pfändungsschutz geführt wird. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ###### § 850l Pfändung des Gemeinschaftskontos
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164802125)
 
 (1) Unterhält der Schuldner, der eine natürliche Person ist, mit einer
 anderen natürlichen oder mit einer juristischen Person oder mit einer
@@ -15175,6 +16084,7 @@ nicht an dem Guthaben fort, das nach Absatz 3 übertragen wird.
 
 
 ###### § 851 Nicht übertragbare Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106802301)
 
 (1) Eine Forderung ist in Ermangelung besonderer Vorschriften der
 Pfändung nur insoweit unterworfen, als sie übertragbar ist.
@@ -15185,6 +16095,7 @@ werden, als der geschuldete Gegenstand der Pfändung unterworfen ist.
 
 
 ###### § 851a Pfändungsschutz für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE106902301)
 
 (1) Die Pfändung von Forderungen, die einem die Landwirtschaft
 betreibenden Schuldner aus dem Verkauf von landwirtschaftlichen
@@ -15199,6 +16110,7 @@ Voraussetzungen für die Aufhebung der Zwangsvollstreckung nach Absatz
 
 
 ###### § 851b Pfändungsschutz bei Miet- und Pachtzinsen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107005160)
 
 (1) Die Pfändung von Miete und Pacht ist auf Antrag des Schuldners vom
 Vollstreckungsgericht insoweit aufzuheben, als diese Einkünfte für den
@@ -15230,6 +16142,7 @@ Zwangsvollstreckung nach Absatz 1 vorliegen.
 
 
 ###### § 851c Pfändungsschutz bei Altersrenten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159202125)
 
 (1) Ansprüche auf Leistungen, die auf Grund von Verträgen gewährt
 werden, dürfen nur wie Arbeitseinkommen gepfändet werden, wenn
@@ -15288,6 +16201,7 @@ Nummer 2 genannten Betrags übersteigt.
 
 
 ###### § 851d Pfändungsschutz bei steuerlich gefördertem Altersvorsorgevermögen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159300301)
 
 Monatliche Leistungen in Form einer lebenslangen Rente oder
 monatlicher Ratenzahlungen im Rahmen eines Auszahlungsplans nach § 1
@@ -15297,6 +16211,7 @@ Arbeitseinkommen pfändbar.
 
 
 ###### § 852 Beschränkt pfändbare Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107103311)
 
 (1) Der Pflichtteilsanspruch ist der Pfändung nur unterworfen, wenn er
 durch Vertrag anerkannt oder rechtshängig geworden ist.
@@ -15308,6 +16223,7 @@ des Zugewinns.
 
 
 ###### § 853 Mehrfache Pfändung einer Geldforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107202301)
 
 Ist eine Geldforderung für mehrere Gläubiger gepfändet, so ist der
 Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem die
@@ -15318,6 +16234,7 @@ Schuldbetrag zu hinterlegen.
 
 
 ###### § 854 Mehrfache Pfändung eines Anspruchs auf bewegliche Sachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107303301)
 
 (1) Ist ein Anspruch, der eine bewegliche körperliche Sache betrifft,
 für mehrere Gläubiger gepfändet, so ist der Drittschuldner berechtigt
@@ -15344,6 +16261,7 @@ Gläubiger gleichzeitig bewirkt ist.
 
 
 ###### § 855 Mehrfache Pfändung eines Anspruchs auf eine unbewegliche Sache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107402301)
 
 Betrifft der Anspruch eine unbewegliche Sache, so ist der
 Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem der
@@ -15354,6 +16272,7 @@ Antrag zu ernennenden Sequester herauszugeben.
 
 
 ###### § 855a Mehrfache Pfändung eines Anspruchs auf ein Schiff
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107502301)
 
 (1) Betrifft der Anspruch ein eingetragenes Schiff, so ist der
 Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem der
@@ -15368,6 +16287,7 @@ Register eingetragen werden kann.
 
 
 ###### § 856 Klage bei mehrfacher Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107602301)
 
 (1) Jeder Gläubiger, dem der Anspruch überwiesen wurde, ist
 berechtigt, gegen den Drittschuldner Klage auf Erfüllung der nach den
@@ -15392,6 +16312,7 @@ mündlichen Verhandlung nicht geladen worden ist.
 
 
 ###### § 857 Zwangsvollstreckung in andere Vermögensrechte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107702301)
 
 (1) Für die Zwangsvollstreckung in andere Vermögensrechte, die nicht
 Gegenstand der Zwangsvollstreckung in das unbewegliche Vermögen sind,
@@ -15426,6 +16347,7 @@ entsprechend anzuwenden.
 
 
 ###### § 858 Zwangsvollstreckung in Schiffspart
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107802301)
 
 (1) Für die Zwangsvollstreckung in die Schiffspart (§§ 489 ff. des
 Handelsgesetzbuchs) gilt § 857 mit folgenden Abweichungen.
@@ -15455,6 +16377,7 @@ in den Teilungsplan aufzunehmen.
 
 
 ###### § 859 Pfändung von Gesamthandsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE107903125)
 
 Der Anteil eines Miterben an dem Nachlass ist der Pfändung
 unterworfen. Der Anteil des Miterben an den einzelnen
@@ -15462,6 +16385,7 @@ Nachlassgegenständen ist der Pfändung nicht unterworfen.
 
 
 ###### § 860 Pfändung von Gesamtgutanteilen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108003311)
 
 (1) Bei dem Güterstand der Gütergemeinschaft ist der Anteil eines
 Ehegatten oder Lebenspartners an dem Gesamtgut und an den einzelnen
@@ -15475,10 +16399,12 @@ unterworfen.
 
 
 ###### (XXXX) §§ 861 und 862 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108101301)
 
 
 
 ###### § 863 Pfändungsbeschränkungen bei Erbschaftsnutzungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108203301)
 
 (1) Ist der Schuldner als Erbe nach § 2338 des Bürgerlichen
 Gesetzbuchs durch die Einsetzung eines Nacherben beschränkt, so sind
@@ -15503,10 +16429,12 @@ Absatz 1 bezeichneten Art unterliegt.
 
 
 #### Titel 3 - Zwangsvollstreckung in das unbewegliche Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075803160)
 
 
 
 ##### § 864 Gegenstand der Immobiliarvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108303301)
 
 (1) Der Zwangsvollstreckung in das unbewegliche Vermögen unterliegen
 außer den Grundstücken die Berechtigungen, für welche die sich auf
@@ -15524,6 +16452,7 @@ belastet ist.
 
 
 ##### § 865 Verhältnis zur Mobiliarvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108402301)
 
 (1) Die Zwangsvollstreckung in das unbewegliche Vermögen umfasst auch
 die Gegenstände, auf die sich bei Grundstücken und Berechtigungen die
@@ -15537,6 +16466,7 @@ Zwangsvollstreckung in das unbewegliche Vermögen erfolgt ist.
 
 
 ##### § 866 Arten der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108504301)
 
 (1) Die Zwangsvollstreckung in ein Grundstück erfolgt durch Eintragung
 einer Sicherungshypothek für die Forderung, durch Zwangsversteigerung
@@ -15553,6 +16483,7 @@ eine einheitliche Sicherungshypothek eingetragen werden.
 
 
 ##### § 867 Zwangshypothek
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108603301)
 
 (1) Die Sicherungshypothek wird auf Antrag des Gläubigers in das
 Grundbuch eingetragen; die Eintragung ist auf dem vollstreckbaren
@@ -15570,6 +16501,7 @@ genügt der vollstreckbare Titel, auf dem die Eintragung vermerkt ist.
 
 
 ##### § 868 Erwerb der Zwangshypothek durch den Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108702301)
 
 (1) Wird durch eine vollstreckbare Entscheidung die zu vollstreckende
 Entscheidung oder ihre vorläufige Vollstreckbarkeit aufgehoben oder
@@ -15584,12 +16516,14 @@ Hinterlegung erfolgt.
 
 
 ##### § 869 Zwangsversteigerung und Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108802301)
 
 Die Zwangsversteigerung und die Zwangsverwaltung werden durch ein
 besonderes Gesetz geregelt.
 
 
 ##### § 870 Grundstücksgleiche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE108902301)
 
 Auf die Zwangsvollstreckung in eine Berechtigung, für welche die sich
 auf Grundstücke beziehenden Vorschriften gelten, sind die Vorschriften
@@ -15597,6 +16531,7 @@ auf Grundstücke beziehenden Vorschriften gelten, sind die Vorschriften
 
 
 ##### § 870a Zwangsvollstreckung in ein Schiff oder Schiffsbauwerk
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109003311)
 
 (1) Die Zwangsvollstreckung in ein eingetragenes Schiff oder in ein
 Schiffsbauwerk, das im Schiffsbauregister eingetragen ist oder in
@@ -15622,6 +16557,7 @@ erfolgt.
 
 
 ##### § 871 Landesrechtlicher Vorbehalt bei Eisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109102301)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen,
 wenn ein anderer als der Eigentümer einer Eisenbahn oder Kleinbahn den
@@ -15633,10 +16569,12 @@ Bundesrechts geregelt ist.
 
 
 #### Titel 4 - Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG075903160)
 
 
 
 ##### § 872 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109202301)
 
 Das Verteilungsverfahren tritt ein, wenn bei der Zwangsvollstreckung
 in das bewegliche Vermögen ein Geldbetrag hinterlegt ist, der zur
@@ -15644,6 +16582,7 @@ Befriedigung der beteiligten Gläubiger nicht hinreicht.
 
 
 ##### § 873 Aufforderung des Verteilungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109302301)
 
 Das zuständige Amtsgericht (§§ 827, 853, 854) hat nach Eingang der
 Anzeige über die Sachlage an jeden der beteiligten Gläubiger die
@@ -15653,6 +16592,7 @@ einzureichen.
 
 
 ##### § 874 Teilungsplan
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109402301)
 
 (1) Nach Ablauf der zweiwöchigen Fristen wird von dem Gericht ein
 Teilungsplan angefertigt.
@@ -15667,6 +16607,7 @@ nachträgliche Ergänzung der Forderung findet nicht statt.
 
 
 ##### § 875 Terminsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109502301)
 
 (1) Das Gericht hat zur Erklärung über den Teilungsplan sowie zur
 Ausführung der Verteilung einen Termin zu bestimmen. Der Teilungsplan
@@ -15679,6 +16620,7 @@ erfolgen müsste.
 
 
 ##### § 876 Termin zur Erklärung und Ausführung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109602301)
 
 Wird in dem Termin ein Widerspruch gegen den Plan nicht erhoben, so
 ist dieser zur Ausführung zu bringen. Erfolgt ein Widerspruch, so hat
@@ -15691,6 +16633,7 @@ wird.
 
 
 ##### § 877 Säumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109702301)
 
 (1) Gegen einen Gläubiger, der in dem Termin weder erschienen ist noch
 vor dem Termin bei dem Gericht Widerspruch erhoben hat, wird
@@ -15702,6 +16645,7 @@ angenommen, dass er diesen Widerspruch nicht als begründet anerkenne.
 
 
 ##### § 878 Widerspruchsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109802301)
 
 (1) Der widersprechende Gläubiger muss ohne vorherige Aufforderung
 binnen einer Frist von einem Monat, die mit dem Terminstag beginnt,
@@ -15717,6 +16661,7 @@ ausgeschlossen.
 
 
 ##### § 879 Zuständigkeit für die Widerspruchsklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE109902301)
 
 (1) Die Klage ist bei dem Verteilungsgericht und, wenn der
 Streitgegenstand zur Zuständigkeit der Amtsgerichte nicht gehört, bei
@@ -15732,6 +16677,7 @@ entscheiden solle.
 
 
 ##### § 880 Inhalt des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110002301)
 
 In dem Urteil, durch das über einen erhobenen Widerspruch entschieden
 wird, ist zugleich zu bestimmen, an welche Gläubiger und in welchen
@@ -15741,22 +16687,26 @@ ein anderweites Verteilungsverfahren in dem Urteil anzuordnen.
 
 
 ##### § 881 Versäumnisurteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110102301)
 
 Das Versäumnisurteil gegen einen widersprechenden Gläubiger ist dahin
 zu erlassen, dass der Widerspruch als zurückgenommen anzusehen sei.
 
 
 ##### § 882 Verfahren nach dem Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110202301)
 
 Auf Grund des erlassenen Urteils wird die Auszahlung oder das
 anderweite Verteilungsverfahren von dem Verteilungsgericht angeordnet.
 
 
 #### Titel 5 - Zwangsvollstreckung in Sachen, die der Erfüllung öffentlicher Aufgaben dienen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076004125)
 
 
 
 ##### § 882a Zwangsvollstreckung wegen einer Geldforderung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110304125)
 
 (1) Die Zwangsvollstreckung gegen den Bund oder ein Land wegen einer
 Geldforderung darf, soweit nicht dingliche Rechte verfolgt werden,
@@ -15810,10 +16760,12 @@ sich um den Vollzug einer einstweiligen Verfügung handelt.
 
 
 #### Titel 6 - Schuldnerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080401160)
 
 
 
 ##### § 882b Inhalt des Schuldnerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164001311)
 
 (1) Das zentrale Vollstreckungsgericht nach § 882h Abs. 1 führt ein
 Verzeichnis (Schuldnerverzeichnis) derjenigen Personen,
@@ -15880,6 +16832,7 @@ einschließlich abweichender Personendaten.
 
 
 ##### § 882c Eintragungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164102311)
 
 (1) Der zuständige Gerichtsvollzieher ordnet von Amts wegen die
 Eintragung des Schuldners in das Schuldnerverzeichnis an, wenn
@@ -15927,6 +16880,7 @@ Möglichkeit eines Vorgehens nach § 882f Absatz 2 hinzuweisen.
 
 
 ##### § 882d Vollziehung der Eintragungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164201311)
 
 (1) Gegen die Eintragungsanordnung nach § 882c kann der Schuldner
 binnen zwei Wochen seit Bekanntgabe Widerspruch beim zuständigen
@@ -15954,6 +16908,7 @@ elektronisch.
 
 
 ##### § 882e Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164301311)
 
 (1) Eine Eintragung im Schuldnerverzeichnis wird nach Ablauf von drei
 Jahren seit dem Tag der Eintragungsanordnung von dem zentralen
@@ -15989,6 +16944,7 @@ Eintragung beschwert, findet die Erinnerung nach § 573 statt.
 
 
 ##### § 882f Einsicht in das Schuldnerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164403125)
 
 (1) Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der
 darlegt, Angaben nach § 882b zu benötigen:
@@ -16039,6 +16995,7 @@ bezeichneten Zwecke.
 
 
 ##### § 882g Erteilung von Abdrucken
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164504125)
 
 (1) Aus dem Schuldnerverzeichnis können auf Antrag Abdrucke zum
 laufenden Bezug erteilt werden, auch durch Übermittlung in einer nur
@@ -16137,6 +17094,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ##### § 882h Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE164603125)
 
 (1) Das Schuldnerverzeichnis wird für jedes Land von einem zentralen
 Vollstreckungsgericht geführt. Der Inhalt des Schuldnerverzeichnisses
@@ -16188,6 +17146,7 @@ Zwecke verarbeitet werden.
 
 
 ##### § 882i Rechte der Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE167800125)
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
 Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
@@ -16216,10 +17175,12 @@ enthalten sind.
 
 
 ### Abschnitt 3 - Zwangsvollstreckung zur Erwirkung der Herausgabe von Sachen und zur Erwirkung von Handlungen oder Unterlassungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076102301)
 
 
 
 #### § 883 Herausgabe bestimmter beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110404125)
 
 (1) Hat der Schuldner eine bewegliche Sache oder eine Menge bestimmter
 beweglicher Sachen herauszugeben, so sind sie von dem
@@ -16240,6 +17201,7 @@ eidesstattlichen Versicherung beschließen.
 
 
 #### § 884 Leistung einer bestimmten Menge vertretbarer Sachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110502301)
 
 Hat der Schuldner eine bestimmte Menge vertretbarer Sachen oder
 Wertpapiere zu leisten, so gilt die Vorschrift des § 883 Abs. 1
@@ -16247,6 +17209,7 @@ entsprechend.
 
 
 #### § 885 Herausgabe von Grundstücken oder Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110606308)
 
 (1) Hat der Schuldner eine unbewegliche Sache oder ein eingetragenes
 Schiff oder Schiffsbauwerk herauszugeben, zu überlassen oder zu
@@ -16286,6 +17249,7 @@ Schuldners jederzeit ohne Weiteres herauszugeben.
 
 
 #### § 885a Beschränkter Vollstreckungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165100308)
 
 (1) Der Vollstreckungsauftrag kann auf die Maßnahmen nach § 885 Absatz
 1 beschränkt werden.
@@ -16322,6 +17286,7 @@ Zwangsvollstreckung.
 
 
 #### § 886 Herausgabe bei Gewahrsam eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110702301)
 
 Befindet sich eine herauszugebende Sache im Gewahrsam eines Dritten,
 so ist dem Gläubiger auf dessen Antrag der Anspruch des Schuldners auf
@@ -16330,6 +17295,7 @@ Pfändung und Überweisung einer Geldforderung betreffen.
 
 
 #### § 887 Vertretbare Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110802301)
 
 (1) Erfüllt der Schuldner die Verpflichtung nicht, eine Handlung
 vorzunehmen, deren Vornahme durch einen Dritten erfolgen kann, so ist
@@ -16349,6 +17315,7 @@ anzuwenden.
 
 
 #### § 888 Nicht vertretbare Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE110906160)
 
 (1) Kann eine Handlung durch einen Dritten nicht vorgenommen werden,
 so ist, wenn sie ausschließlich von dem Willen des Schuldners abhängt,
@@ -16366,6 +17333,7 @@ von Diensten aus einem Dienstvertrag nicht zur Anwendung.
 
 
 #### § 888a Keine Handlungsvollstreckung bei Entschädigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111002301)
 
 Ist im Falle des § 510b der Beklagte zur Zahlung einer Entschädigung
 verurteilt, so ist die Zwangsvollstreckung auf Grund der Vorschriften
@@ -16373,6 +17341,7 @@ der §§ 887, 888 ausgeschlossen.
 
 
 #### § 889 Eidesstattliche Versicherung nach bürgerlichem Recht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111102301)
 
 (1) Ist der Schuldner auf Grund der Vorschriften des bürgerlichen
 Rechts zur Abgabe einer eidesstattlichen Versicherung verurteilt, so
@@ -16390,6 +17359,7 @@ nach § 888.
 
 
 #### § 890 Erzwingung von Unterlassungen und Duldungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111203301)
 
 (1) Handelt der Schuldner der Verpflichtung zuwider, eine Handlung zu
 unterlassen oder die Vornahme einer Handlung zu dulden, so ist er
@@ -16411,6 +17381,7 @@ Schaden auf bestimmte Zeit verurteilt werden.
 
 
 #### § 891 Verfahren; Anhörung des Schuldners; Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111303301)
 
 Die nach den §§ 887 bis 890 zu erlassenden Entscheidungen ergehen
 durch Beschluss. Vor der Entscheidung ist der Schuldner zu hören. Für
@@ -16419,6 +17390,7 @@ entsprechend.
 
 
 #### § 892 Widerstand des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111402301)
 
 Leistet der Schuldner Widerstand gegen die Vornahme einer Handlung,
 die er nach den Vorschriften der §§ 887, 890 zu dulden hat, so kann
@@ -16428,6 +17400,7 @@ Gerichtsvollzieher zuziehen, der nach den Vorschriften des § 758 Abs.
 
 
 #### § 893 Klage auf Leistung des Interesses
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111502301)
 
 (1) Durch die Vorschriften dieses Abschnitts wird das Recht des
 Gläubigers nicht berührt, die Leistung des Interesses zu verlangen.
@@ -16438,6 +17411,7 @@ machen.
 
 
 #### § 894 Fiktion der Abgabe einer Willenserklärung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111603160)
 
 Ist der Schuldner zur Abgabe einer Willenserklärung verurteilt, so
 gilt die Erklärung als abgegeben, sobald das Urteil die Rechtskraft
@@ -16448,6 +17422,7 @@ Urteils erteilt ist.
 
 
 #### § 895 Willenserklärung zwecks Eintragung bei vorläufig vollstreckbarem Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111702301)
 
 Ist durch ein vorläufig vollstreckbares Urteil der Schuldner zur
 Abgabe einer Willenserklärung verurteilt, auf Grund deren eine
@@ -16459,6 +17434,7 @@ Entscheidung aufgehoben wird.
 
 
 #### § 896 Erteilung von Urkunden an Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111802301)
 
 Soll auf Grund eines Urteils, das eine Willenserklärung des Schuldners
 ersetzt, eine Eintragung in ein öffentliches Buch oder Register
@@ -16468,6 +17444,7 @@ dieser Urkunden zur Herbeiführung der Eintragung bedarf.
 
 
 #### § 897 Übereignung; Verschaffung von Grundpfandrechten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE111902301)
 
 (1) Ist der Schuldner zur Übertragung des Eigentums oder zur
 Bestellung eines Rechts an einer beweglichen Sache verurteilt, so gilt
@@ -16482,6 +17459,7 @@ Rentenschuldbriefs.
 
 
 #### § 898 Gutgläubiger Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112002301)
 
 Auf einen Erwerb, der sich nach den §§ 894, 897 vollzieht, sind die
 Vorschriften des bürgerlichen Rechts zugunsten derjenigen, die Rechte
@@ -16489,10 +17467,12 @@ von einem Nichtberechtigten herleiten, anzuwenden.
 
 
 ### Abschnitt 4 - Wirkungen des Pfändungsschutzkontos
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076204125)
 
 
 
 #### § 899 Pfändungsfreier Betrag; Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112104125)
 
 (1) Wird Guthaben auf dem Pfändungsschutzkonto des Schuldners
 gepfändet, kann der Schuldner jeweils bis zum Ende des Kalendermonats
@@ -16523,6 +17503,7 @@ Geltendmachung er nicht zu vertreten hat.
 
 
 #### § 900 Moratorium bei Überweisung an den Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112205125)
 
 (1) Wird künftiges Guthaben auf einem Pfändungsschutzkonto gepfändet
 und dem Gläubiger überwiesen, darf der Drittschuldner erst nach Ablauf
@@ -16541,6 +17522,7 @@ Kalendermonat Guthaben im Sinne des § 899 Absatz 1 Satz 1.
 
 
 #### § 901 Verbot der Aufrechnung und Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112304125)
 
 (1) Verlangt eine natürliche Person von dem Kreditinstitut, dass ein
 von ihr dort geführtes Zahlungskonto, das einen negativen Saldo
@@ -16568,6 +17550,7 @@ Pfändungsschutzkonto geführt wird.
 
 
 #### § 902 Erhöhungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112404125)
 
 Neben dem pfändungsfreien Betrag nach § 899 Absatz 1 Satz 1 werden
 folgende Erhöhungsbeträge nicht von der Pfändung des Guthabens auf
@@ -16628,6 +17611,7 @@ Für die Erhöhungsbeträge nach Satz 1 gilt § 899 Absatz 2 entsprechend.
 
 
 #### § 903 Nachweise über Erhöhungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112504125)
 
 (1) Das Kreditinstitut kann aus Guthaben, soweit es als
 Erhöhungsbetrag unpfändbar ist, mit befreiender Wirkung gegenüber dem
@@ -16699,6 +17683,7 @@ folgenden Geschäftstag zu beachten.
 
 
 #### § 904 Nachzahlung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112603125)
 
 (1) Werden laufende Geldleistungen zu einem späteren Zeitpunkt als dem
 Monat, auf den sich die Leistungen beziehen, ausbezahlt, so werden sie
@@ -16731,6 +17716,7 @@ des § 903 Absatz 1 Satz 2.
 
 
 #### § 905 Festsetzung der Erhöhungsbeträge durch das Vollstreckungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112703125)
 
 Macht der Schuldner glaubhaft, dass er eine Bescheinigung im Sinne des
 § 903 Absatz 1 Satz 2, um deren Erteilung er
@@ -16757,6 +17743,7 @@ Vollstreckungsgerichts nach Satz 1 gilt als Bescheinigung im Sinne des
 
 
 #### § 906 Festsetzung eines abweichenden pfändungsfreien Betrages durch das Vollstreckungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112803125)
 
 (1) Wird Guthaben wegen einer der in § 850d oder § 850f Absatz 2
 bezeichneten Forderungen gepfändet, tritt an die Stelle der nach § 899
@@ -16789,6 +17776,7 @@ Abweichung ergibt.
 
 
 #### § 907 Festsetzung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE168100125)
 
 (1) Auf Antrag des Schuldners kann das Vollstreckungsgericht
 festsetzen, dass das Guthaben auf dem Pfändungsschutzkonto für die
@@ -16817,6 +17805,7 @@ hinzuweisen.
 
 
 #### § 908 Aufgaben des Kreditinstituts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE113002125)
 
 (1) Das Kreditinstitut ist dem Schuldner zur Leistung aus dem nicht
 von der Pfändung erfassten Guthaben im Rahmen des vertraglich
@@ -16842,6 +17831,7 @@ nicht mehr berücksichtigen will, mitzuteilen.
 
 
 #### § 909 Datenweitergabe; Löschungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE113104125)
 
 (1) Das Kreditinstitut darf zum Zwecke der Überprüfung der Richtigkeit
 der Versicherung nach § 850k Absatz 3 Satz 2 Auskunfteien mitteilen,
@@ -16859,6 +17849,7 @@ Die Auskunfteien haben nach Erhalt dieser Unterrichtung die Angabe
 
 
 #### § 910 Verwaltungsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE113203125)
 
 Die §§ 850k und 850l sowie die Regelungen dieses Abschnitts gelten
 auch bei einer Pfändung von Kontoguthaben wegen Forderungen, die im
@@ -16869,14 +17860,17 @@ des Vollstreckungsgerichts.
 
 
 #### (XXXX) §§ 911 bis 915h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE112903125)
 
 
 
 ### Abschnitt 5 - Arrest und einstweilige Verfügung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076302301)
 
 
 
 #### § 916 Arrestanspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE113802301)
 
 (1) Der Arrest findet zur Sicherung der Zwangsvollstreckung in das
 bewegliche oder unbewegliche Vermögen wegen einer Geldforderung oder
@@ -16889,6 +17883,7 @@ Bedingung einen gegenwärtigen Vermögenswert nicht hat.
 
 
 #### § 917 Arrestgrund bei dinglichem Arrest
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE113905311)
 
 (1) Der dingliche Arrest findet statt, wenn zu besorgen ist, dass ohne
 dessen Verhängung die Vollstreckung des Urteils vereitelt oder
@@ -16901,6 +17896,7 @@ zur Sicherung der Zwangsvollstreckung in ein Schiff stattfindet.
 
 
 #### § 918 Arrestgrund bei persönlichem Arrest
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114002301)
 
 Der persönliche Sicherheitsarrest findet nur statt, wenn er
 erforderlich ist, um die gefährdete Zwangsvollstreckung in das
@@ -16908,6 +17904,7 @@ Vermögen des Schuldners zu sichern.
 
 
 #### § 919 Arrestgericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114102301)
 
 Für die Anordnung des Arrestes ist sowohl das Gericht der Hauptsache
 als das Amtsgericht zuständig, in dessen Bezirk der mit Arrest zu
@@ -16916,6 +17913,7 @@ beschränkende Person sich befindet.
 
 
 #### § 920 Arrestgesuch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114202301)
 
 (1) Das Gesuch soll die Bezeichnung des Anspruchs unter Angabe des
 Geldbetrages oder des Geldwertes sowie die Bezeichnung des
@@ -16928,6 +17926,7 @@ werden.
 
 
 #### § 921 Entscheidung über das Arrestgesuch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114302301)
 
 Das Gericht kann, auch wenn der Anspruch oder der Arrestgrund nicht
 glaubhaft gemacht ist, den Arrest anordnen, sofern wegen der dem
@@ -16937,6 +17936,7 @@ selbst wenn der Anspruch und der Arrestgrund glaubhaft gemacht sind.
 
 
 #### § 922 Arresturteil und Arrestbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114403301)
 
 (1) Die Entscheidung über das Gesuch ergeht im Falle einer mündlichen
 Verhandlung durch Endurteil, andernfalls durch Beschluss. Die
@@ -16952,6 +17952,7 @@ Gegner nicht mitzuteilen.
 
 
 #### § 923 Abwendungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114502301)
 
 In dem Arrestbefehl ist ein Geldbetrag festzustellen, durch dessen
 Hinterlegung die Vollziehung des Arrestes gehemmt und der Schuldner zu
@@ -16959,6 +17960,7 @@ dem Antrag auf Aufhebung des vollzogenen Arrestes berechtigt wird.
 
 
 #### § 924 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114602301)
 
 (1) Gegen den Beschluss, durch den ein Arrest angeordnet wird, findet
 Widerspruch statt.
@@ -16977,6 +17979,7 @@ nicht gehemmt. Das Gericht kann aber eine einstweilige Anordnung nach
 
 
 #### § 925 Entscheidung nach Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114702301)
 
 (1) Wird Widerspruch erhoben, so ist über die Rechtmäßigkeit des
 Arrestes durch Endurteil zu entscheiden.
@@ -16987,6 +17990,7 @@ Aufhebung von einer Sicherheitsleistung abhängig machen.
 
 
 #### § 926 Anordnung der Klageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114802301)
 
 (1) Ist die Hauptsache nicht anhängig, so hat das Arrestgericht auf
 Antrag ohne mündliche Verhandlung anzuordnen, dass die Partei, die den
@@ -16998,6 +18002,7 @@ Aufhebung des Arrestes durch Endurteil auszusprechen.
 
 
 #### § 927 Aufhebung wegen veränderter Umstände
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE114902301)
 
 (1) Auch nach der Bestätigung des Arrestes kann wegen veränderter
 Umstände, insbesondere wegen Erledigung des Arrestgrundes oder auf
@@ -17010,6 +18015,7 @@ anhängig ist, durch das Gericht der Hauptsache.
 
 
 #### § 928 Vollziehung des Arrestes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115002301)
 
 Auf die Vollziehung des Arrestes sind die Vorschriften über die
 Zwangsvollstreckung entsprechend anzuwenden, soweit nicht die
@@ -17017,6 +18023,7 @@ nachfolgenden Paragraphen abweichende Vorschriften enthalten.
 
 
 #### § 929 Vollstreckungsklausel; Vollziehungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115103125)
 
 (1) Arrestbefehle bedürfen der Vollstreckungsklausel nur, wenn die
 Vollziehung für einen anderen als den in dem Befehl bezeichneten
@@ -17037,6 +18044,7 @@ für diese im vorhergehenden Absatz bestimmten Frist erfolgt.
 
 
 #### § 930 Vollziehung in bewegliches Vermögen und Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115203311)
 
 (1) Die Vollziehung des Arrestes in bewegliches Vermögen wird durch
 Pfändung bewirkt. Die Pfändung erfolgt nach denselben Grundsätzen wie
@@ -17059,6 +18067,7 @@ in einem Hafen liegt.
 
 
 #### § 931 Vollziehung in eingetragenes Schiff oder Schiffsbauwerk
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115304311)
 
 (1) Die Vollziehung des Arrestes in ein eingetragenes Schiff oder
 Schiffsbauwerk wird durch Pfändung nach den Vorschriften über die
@@ -17098,6 +18107,7 @@ einem Hafen liegt.
 
 
 #### § 932 Arresthypothek
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115403301)
 
 (1) Die Vollziehung des Arrestes in ein Grundstück oder in eine
 Berechtigung, für welche die sich auf Grundstücke beziehenden
@@ -17116,6 +18126,7 @@ Abs. 2, 3 als Vollziehung des Arrestbefehls.
 
 
 #### § 933 Vollziehung des persönlichen Arrestes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115504160)
 
 Die Vollziehung des persönlichen Sicherheitsarrestes richtet sich,
 wenn sie durch Haft erfolgt, nach den Vorschriften der §§ 802g, 802h
@@ -17127,6 +18138,7 @@ festgestellte Geldbetrag aufzunehmen.
 
 
 #### § 934 Aufhebung der Arrestvollziehung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115602301)
 
 (1) Wird der in dem Arrestbefehl festgestellte Geldbetrag hinterlegt,
 so wird der vollzogene Arrest von dem Vollstreckungsgericht
@@ -17145,6 +18157,7 @@ sofortige Beschwerde statt.
 
 
 #### § 935 Einstweilige Verfügung bezüglich Streitgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115702301)
 
 Einstweilige Verfügungen in Bezug auf den Streitgegenstand sind
 zulässig, wenn zu besorgen ist, dass durch eine Veränderung des
@@ -17153,6 +18166,7 @@ vereitelt oder wesentlich erschwert werden könnte.
 
 
 #### § 936 Anwendung der Arrestvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115802301)
 
 Auf die Anordnung einstweiliger Verfügungen und das weitere Verfahren
 sind die Vorschriften über die Anordnung von Arresten und über das
@@ -17161,6 +18175,7 @@ nachfolgenden Paragraphen abweichende Vorschriften enthalten.
 
 
 #### § 937 Zuständiges Gericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE115903301)
 
 (1) Für den Erlass einstweiliger Verfügungen ist das Gericht der
 Hauptsache zuständig.
@@ -17171,6 +18186,7 @@ ohne mündliche Verhandlung ergehen.
 
 
 #### § 938 Inhalt der einstweiligen Verfügung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116003308)
 
 (1) Das Gericht bestimmt nach freiem Ermessen, welche Anordnungen zur
 Erreichung des Zweckes erforderlich sind.
@@ -17183,12 +18199,14 @@ untersagt wird.
 
 
 #### § 939 Aufhebung gegen Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116102301)
 
 Nur unter besonderen Umständen kann die Aufhebung einer einstweiligen
 Verfügung gegen Sicherheitsleistung gestattet werden.
 
 
 #### § 940 Einstweilige Verfügung zur Regelung eines einstweiligen Zustandes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116202301)
 
 Einstweilige Verfügungen sind auch zum Zwecke der Regelung eines
 einstweiligen Zustandes in Bezug auf ein streitiges Rechtsverhältnis
@@ -17199,6 +18217,7 @@ erscheint.
 
 
 #### § 940a Räumung von Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116304308)
 
 (1) Die Räumung von Wohnraum darf durch einstweilige Verfügung nur
 wegen verbotener Eigenmacht oder bei einer konkreten Gefahr für Leib
@@ -17220,6 +18239,7 @@ Erlass einer Räumungsverfügung anzuhören.
 
 
 #### § 941 Ersuchen um Eintragungen im Grundbuch usw.
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116402301)
 
 Hat auf Grund der einstweiligen Verfügung eine Eintragung in das
 Grundbuch, das Schiffsregister oder das Schiffsbauregister zu
@@ -17228,6 +18248,7 @@ Registerbehörde um die Eintragung zu ersuchen.
 
 
 #### § 942 Zuständigkeit des Amtsgerichts der belegenen Sache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116502301)
 
 (1) In dringenden Fällen kann das Amtsgericht, in dessen Bezirk sich
 der Streitgegenstand befindet, eine einstweilige Verfügung erlassen
@@ -17254,6 +18275,7 @@ Amtsgerichts ergehen durch Beschluss.
 
 
 #### § 943 Gericht der Hauptsache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116602301)
 
 (1) Als Gericht der Hauptsache im Sinne der Vorschriften dieses
 Abschnitts ist das Gericht des ersten Rechtszuges und, wenn die
@@ -17266,6 +18288,7 @@ oder anhängig gewesen ist.
 
 
 #### § 944 Entscheidung des Vorsitzenden bei Dringlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116702301)
 
 In dringenden Fällen kann der Vorsitzende über die in diesem Abschnitt
 erwähnten Gesuche, sofern deren Erledigung eine mündliche Verhandlung
@@ -17273,6 +18296,7 @@ nicht erfordert, anstatt des Gerichts entscheiden.
 
 
 #### § 945 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116802301)
 
 Erweist sich die Anordnung eines Arrestes oder einer einstweiligen
 Verfügung als von Anfang an ungerechtfertigt oder wird die angeordnete
@@ -17285,6 +18309,7 @@ zu erwirken.
 
 
 #### § 945a Einreichung von Schutzschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165601311)
 
 (1) Die Landesjustizverwaltung Hessen führt für die Länder ein
 zentrales, länderübergreifendes elektronisches Register für
@@ -17304,6 +18329,7 @@ beschränken. Abrufvorgänge sind zu protokollieren.
 
 
 #### § 945b Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165702311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz hat durch
 Rechtsverordnung mit Zustimmung des Bundesrates die näheren
@@ -17315,14 +18341,17 @@ Barrierefreiheit zu treffen.
 
 
 ### Abschnitt 6 - Grenzüberschreitende vorläufige Kontenpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080900311)
 
 
 
 #### Titel 1 - Erlass des Beschlusses zur vorläufigen Kontenpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG081000311)
 
 
 
 ##### § 946 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE116903311)
 
 (1) Für den Erlass des Beschlusses zur vorläufigen Kontenpfändung nach
 der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des
@@ -17340,6 +18369,7 @@ Gericht zuständig, in dessen Bezirk die Urkunde errichtet worden ist.
 
 
 ##### § 947 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117004125)
 
 (1) Der Gläubiger kann sich in dem Verfahren auf Erlass des
 Beschlusses zur vorläufigen Kontenpfändung aller Beweismittel sowie
@@ -17357,6 +18387,7 @@ zu protokollieren. § 802d Absatz 1 Satz 3 gilt entsprechend.
 
 
 ##### § 948 Ersuchen um Einholung von Kontoinformationen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117104311)
 
 (1) Zuständige Auskunftsbehörde gemäß Artikel 14 der Verordnung (EU)
 Nr. 655/2014 für die Einholung von Kontoinformationen ist das
@@ -17381,6 +18412,7 @@ ersuchende Stelle; die Löschung ist zu protokollieren.
 
 
 ##### § 949 Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117203311)
 
 (1) Ein im Inland erlassener Beschluss zur vorläufigen Kontenpfändung
 wird nach Artikel 10 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr.
@@ -17399,10 +18431,12 @@ zuzustellen.
 
 
 #### Titel 2 - Vollziehung des Beschlusses zur vorläufigen Kontenpfändung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG081100311)
 
 
 
 ##### § 950 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117304311)
 
 Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung
 sind die Vorschriften des Achten Buchs über die Zwangsvollstreckung
@@ -17412,6 +18446,7 @@ Vorschriften enthalten.
 
 
 ##### § 951 Vollziehung von im Inland erlassenen Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117403311)
 
 (1) Ist ein im Inland erlassener Beschluss zur vorläufigen
 Kontenpfändung im Inland zu vollziehen, hat der Gläubiger, der seinen
@@ -17431,6 +18466,7 @@ bereitzustellen.
 
 
 ##### § 952 Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117503311)
 
 (1) Zuständige Stelle ist
 
@@ -17463,10 +18499,12 @@ bereitzustellen.
 
 
 #### Titel 3 - Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG081200311)
 
 
 
 ##### § 953 Rechtsbehelfe des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117603311)
 
 (1) Gegen die Ablehnung des Antrags auf Erlass eines Beschlusses zur
 vorläufigen Kontenpfändung und gegen den Widerruf des Beschlusses zur
@@ -17486,6 +18524,7 @@ Monat ab Zustellung einzulegen.
 
 
 ##### § 954 Rechtsbehelfe nach den Artikeln 33 bis 35 der Verordnung (EU) Nr. 655/2014
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117704125)
 
 (1) Über den Rechtsbehelf des Schuldners gegen einen im Inland
 erlassenen Beschluss zur vorläufigen Kontenpfändung nach Artikel 33
@@ -17517,6 +18556,7 @@ stattgefunden hat. Dieses hat den Beschluss der Bank zuzustellen.
 
 
 ##### § 955 Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117803311)
 
 Für die Entscheidung über Anträge des Schuldners auf Beendigung der
 Vollstreckung wegen erbrachter Sicherheitsleistung nach Artikel 38
@@ -17526,6 +18566,7 @@ Absatz 1 der Verordnung (EU) Nr. 655/2014 ergeht durch Beschluss.
 
 
 ##### § 956 Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE117904311)
 
 (1) Gegen die Entscheidungen des Vollstreckungsgerichts nach § 954
 Absatz 2 und 3 Satz 1 sowie nach § 955 Satz 1 findet die sofortige
@@ -17538,6 +18579,7 @@ Monat ab Zustellung der Entscheidung einzulegen.
 
 
 ##### § 957 Ausschluss der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE118003311)
 
 In Verfahren zur grenzüberschreitenden vorläufigen Kontenpfändung nach
 der Verordnung (EU) Nr. 655/2014 findet die Rechtsbeschwerde nicht
@@ -17545,10 +18587,12 @@ statt.
 
 
 #### Titel 4 - Schadensersatz; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG081300311)
 
 
 
 ##### § 958 Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE118103311)
 
 Erweist sich die Anordnung eines Beschlusses zur vorläufigen
 Kontenpfändung, der im Inland vollzogen worden ist, als von Anfang an
@@ -17562,6 +18606,7 @@ dem Schuldner nach Artikel 13 Absatz 1 und 2 der Verordnung (EU) Nr.
 
 
 ##### § 959 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE118203311)
 
 (1) Die Landesregierungen können die Aufgaben nach Artikel 10 Absatz
 2, Artikel 23 Absatz 3, 5 und 6, Artikel 25 Absatz 3, Artikel 27
@@ -17574,22 +18619,27 @@ Rechtsverordnung einer obersten Landesbehörde übertragen.
 
 
 ## Buch 9 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076404311)
 
 
 
 ### (XXXX) §§ 960 bis 1024 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE162301311)
 
 
 
 ## Buch 10 - Schiedsrichterliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076503301)
 
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076602301)
 
 
 
 #### § 1025 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131103301)
 
 (1) Die Vorschriften dieses Buches sind anzuwenden, wenn der Ort des
 schiedsrichterlichen Verfahrens im Sinne des § 1043 Abs. 1 in
@@ -17610,12 +18660,14 @@ gelten die §§ 1061 bis 1065.
 
 
 #### § 1026 Umfang gerichtlicher Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131201301)
 
 Ein Gericht darf in den in den §§ 1025 bis 1061 geregelten
 Angelegenheiten nur tätig werden, soweit dieses Buch es vorsieht.
 
 
 #### § 1027 Verlust des Rügerechts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131301301)
 
 Ist einer Bestimmung dieses Buches, von der die Parteien abweichen
 können, oder einem vereinbarten Erfordernis des schiedsrichterlichen
@@ -17626,6 +18678,7 @@ wenn der Partei der Mangel nicht bekannt war.
 
 
 #### § 1028 Empfang schriftlicher Mitteilungen bei unbekanntem Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131401301)
 
 (1) Ist der Aufenthalt einer Partei oder einer zur Entgegennahme
 berechtigten Person unbekannt, gelten, sofern die Parteien nichts
@@ -17641,10 +18694,12 @@ anzuwenden.
 
 
 ### Abschnitt 2 - Schiedsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076702301)
 
 
 
 #### § 1029 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131501301)
 
 (1) Schiedsvereinbarung ist eine Vereinbarung der Parteien, alle oder
 einzelne Streitigkeiten, die zwischen ihnen in Bezug auf ein
@@ -17658,6 +18713,7 @@ Vertrag (Schiedsklausel) geschlossen werden.
 
 
 #### § 1030 Schiedsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131602301)
 
 (1) Jeder vermögensrechtliche Anspruch kann Gegenstand einer
 Schiedsvereinbarung sein. Eine Schiedsvereinbarung über
@@ -17678,6 +18734,7 @@ unberührt.
 
 
 #### § 1031 Form der Schiedsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131705311)
 
 (1) Die Schiedsvereinbarung muss entweder in einem von den Parteien
 unterzeichneten Dokument oder in zwischen ihnen gewechselten
@@ -17714,6 +18771,7 @@ schiedsgerichtliche Verhandlung zur Hauptsache geheilt.
 
 
 #### § 1032 Schiedsvereinbarung und Klage vor Gericht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131801301)
 
 (1) Wird vor einem Gericht Klage in einer Angelegenheit erhoben, die
 Gegenstand einer Schiedsvereinbarung ist, so hat das Gericht die Klage
@@ -17732,6 +18790,7 @@ fortgesetzt werden und ein Schiedsspruch ergehen.
 
 
 #### § 1033 Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE131901301)
 
 Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder
 nach Beginn des schiedsrichterlichen Verfahrens auf Antrag einer
@@ -17740,10 +18799,12 @@ Streitgegenstand des schiedsrichterlichen Verfahrens anordnet.
 
 
 ### Abschnitt 3 - Bildung des Schiedsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076802301)
 
 
 
 #### § 1034 Zusammensetzung des Schiedsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132002301)
 
 (1) Die Parteien können die Anzahl der Schiedsrichter vereinbaren.
 Fehlt eine solche Vereinbarung, so ist die Zahl der Schiedsrichter
@@ -17760,6 +18821,7 @@ Zusammensetzung des Schiedsgerichts bekannt geworden ist, zu stellen.
 
 
 #### § 1035 Bestellung der Schiedsrichter
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132101301)
 
 (1) Die Parteien können das Verfahren zur Bestellung des
 Schiedsrichters oder der Schiedsrichter vereinbaren.
@@ -17803,6 +18865,7 @@ Erwägung zu ziehen.
 
 
 #### § 1036 Ablehnung eines Schiedsrichters
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132201301)
 
 (1) Eine Person, der ein Schiedsrichteramt angetragen wird, hat alle
 Umstände offen zu legen, die Zweifel an ihrer Unparteilichkeit oder
@@ -17821,6 +18884,7 @@ Bestellung bekannt geworden sind.
 
 
 #### § 1037 Ablehnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132301301)
 
 (1) Die Parteien können vorbehaltlich des Absatzes 3 ein Verfahren für
 die Ablehnung eines Schiedsrichters vereinbaren.
@@ -17845,6 +18909,7 @@ Verfahren fortsetzen und einen Schiedsspruch erlassen.
 
 
 #### § 1038 Untätigkeit oder Unmöglichkeit der Aufgabenerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132401301)
 
 (1) Ist ein Schiedsrichter rechtlich oder tatsächlich außerstande,
 seine Aufgaben zu erfüllen, oder kommt er aus anderen Gründen seinen
@@ -17862,6 +18927,7 @@ Absatz 1 oder § 1036 Abs. 2 genannten Rücktrittsgründe.
 
 
 #### § 1039 Bestellung eines Ersatzschiedsrichters
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132501301)
 
 (1) Endet das Amt eines Schiedsrichters nach den §§ 1037, 1038 oder
 wegen seines Rücktritts vom Amt aus einem anderen Grund oder wegen der
@@ -17874,10 +18940,12 @@ anzuwenden waren.
 
 
 ### Abschnitt 4 - Zuständigkeit des Schiedsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG076902301)
 
 
 
 #### § 1040 Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132601301)
 
 (1) Das Schiedsgericht kann über die eigene Zuständigkeit und im
 Zusammenhang hiermit über das Bestehen oder die Gültigkeit der
@@ -17905,6 +18973,7 @@ erlassen.
 
 
 #### § 1041 Maßnahmen des einstweiligen Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132701301)
 
 (1) Haben die Parteien nichts anderes vereinbart, so kann das
 Schiedsgericht auf Antrag einer Partei vorläufige oder sichernde
@@ -17931,10 +19000,12 @@ im anhängigen schiedsrichterlichen Verfahren geltend gemacht werden.
 
 
 ### Abschnitt 5 - Durchführung des schiedsrichterlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG077002301)
 
 
 
 #### § 1042 Allgemeine Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132801301)
 
 (1) Die Parteien sind gleich zu behandeln. Jeder Partei ist
 rechtliches Gehör zu gewähren.
@@ -17954,6 +19025,7 @@ diese durchzuführen und das Ergebnis frei zu würdigen.
 
 
 #### § 1043 Ort des schiedsrichterlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE132902301)
 
 (1) Die Parteien können eine Vereinbarung über den Ort des
 schiedsrichterlichen Verfahrens treffen. Fehlt eine solche
@@ -17971,6 +19043,7 @@ in Dokumente zusammentreten.
 
 
 #### § 1044 Beginn des schiedsrichterlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133001301)
 
 Haben die Parteien nichts anderes vereinbart, so beginnt das
 schiedsrichterliche Verfahren über eine bestimmte Streitigkeit mit dem
@@ -17981,6 +19054,7 @@ Hinweis auf die Schiedsvereinbarung enthalten.
 
 
 #### § 1045 Verfahrenssprache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133101301)
 
 (1) Die Parteien können die Sprache oder die Sprachen, die im
 schiedsrichterlichen Verfahren zu verwenden sind, vereinbaren. Fehlt
@@ -17998,6 +19072,7 @@ bestimmt worden sind.
 
 
 #### § 1046 Klage und Klagebeantwortung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133202301)
 
 (1) Innerhalb der von den Parteien vereinbarten oder vom
 Schiedsgericht bestimmten Frist hat der Kläger seinen Anspruch und die
@@ -18016,6 +19091,7 @@ entschuldigt wird, nicht zu.
 
 
 #### § 1047 Mündliche Verhandlung und schriftliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133302301)
 
 (1) Vorbehaltlich einer Vereinbarung der Parteien entscheidet das
 Schiedsgericht, ob mündlich verhandelt werden soll oder ob das
@@ -18037,6 +19113,7 @@ Parteien zur Kenntnis zu bringen.
 
 
 #### § 1048 Säumnis einer Partei
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133402301)
 
 (1) Versäumt es der Kläger, seine Klage nach § 1046 Abs. 1
 einzureichen, so beendet das Schiedsgericht das Verfahren.
@@ -18057,6 +19134,7 @@ Parteien über die Folgen der Säumnis etwas anderes vereinbaren.
 
 
 #### § 1049 Vom Schiedsgericht bestellter Sachverständiger
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133502301)
 
 (1) Haben die Parteien nichts anderes vereinbart, so kann das
 Schiedsgericht einen oder mehrere Sachverständige zur Erstattung eines
@@ -18079,6 +19157,7 @@ streitigen Fragen aussagen lassen.
 
 
 #### § 1050 Gerichtliche Unterstützung bei der Beweisaufnahme und sonstige richterliche Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133601301)
 
 Das Schiedsgericht oder eine Partei mit Zustimmung des Schiedsgerichts
 kann bei Gericht Unterstützung bei der Beweisaufnahme oder die
@@ -18091,10 +19170,12 @@ gerichtlichen Beweisaufnahme teilzunehmen und Fragen zu stellen.
 
 
 ### Abschnitt 6 - Schiedsspruch und Beendigung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG077102301)
 
 
 
 #### § 1051 Anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133701301)
 
 (1) Das Schiedsgericht hat die Streitigkeit in Übereinstimmung mit den
 Rechtsvorschriften zu entscheiden, die von den Parteien als auf den
@@ -18120,6 +19201,7 @@ Handelsbräuche zu berücksichtigen.
 
 
 #### § 1052 Entscheidung durch ein Schiedsrichterkollegium
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133801301)
 
 (1) Haben die Parteien nichts anderes vereinbart, so ist in
 schiedsrichterlichen Verfahren mit mehr als einem Schiedsrichter jede
@@ -18140,6 +19222,7 @@ Schiedsgerichts ihn dazu ermächtigt haben.
 
 
 #### § 1053 Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE133901301)
 
 (1) Vergleichen sich die Parteien während des schiedsrichterlichen
 Verfahrens über die Streitigkeit, so beendet das Schiedsgericht das
@@ -18167,6 +19250,7 @@ Absatzes 1 Satz 2 nicht vorliegen.
 
 
 #### § 1054 Form und Inhalt des Schiedsspruchs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134002301)
 
 (1) Der Schiedsspruch ist schriftlich zu erlassen und durch den
 Schiedsrichter oder die Schiedsrichter zu unterschreiben. In
@@ -18190,12 +19274,14 @@ Schiedsspruch zu übermitteln.
 
 
 #### § 1055 Wirkungen des Schiedsspruchs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134101301)
 
 Der Schiedsspruch hat unter den Parteien die Wirkungen eines
 rechtskräftigen gerichtlichen Urteils.
 
 
 #### § 1056 Beendigung des schiedsrichterlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134201301)
 
 (1) Das schiedsrichterliche Verfahren wird mit dem endgültigen
 Schiedsspruch oder mit einem Beschluss des Schiedsgerichts nach Absatz
@@ -18235,6 +19321,7 @@ schiedsrichterlichen Verfahrens.
 
 
 #### § 1057 Entscheidung über die Kosten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134301301)
 
 (1) Sofern die Parteien nichts anderes vereinbart haben, hat das
 Schiedsgericht in einem Schiedsspruch darüber zu entscheiden, zu
@@ -18254,6 +19341,7 @@ entschieden.
 
 
 #### § 1058 Berichtigung, Auslegung und Ergänzung des Schiedsspruchs
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134401301)
 
 (1) Jede Partei kann beim Schiedsgericht beantragen,
 
@@ -18287,10 +19375,12 @@ Schiedsspruchs anzuwenden.
 
 
 ### Abschnitt 7 - Rechtsbehelf gegen den Schiedsspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG077202301)
 
 
 
 #### § 1059 Aufhebungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134501301)
 
 (1) Gegen einen Schiedsspruch kann nur der Antrag auf gerichtliche
 Aufhebung nach den Absätzen 2 und 3 gestellt werden.
@@ -18368,10 +19458,12 @@ wegen des Streitgegenstandes die Schiedsvereinbarung wiederauflebt.
 
 
 ### Abschnitt 8 - Voraussetzungen der Anerkennung und Vollstreckung von Schiedssprüchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG077302301)
 
 
 
 #### § 1060 Inländische Schiedssprüche
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134601301)
 
 (1) Die Zwangsvollstreckung findet statt, wenn der Schiedsspruch für
 vollstreckbar erklärt ist.
@@ -18388,6 +19480,7 @@ Antrag auf Aufhebung des Schiedsspruchs gestellt hat.
 
 
 #### § 1061 Ausländische Schiedssprüche
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134701301)
 
 (1) Die Anerkennung und Vollstreckung ausländischer Schiedssprüche
 richtet sich nach dem Übereinkommen vom 10. Juni 1958 über die
@@ -18404,10 +19497,12 @@ Vollstreckbarerklärung beantragt werden.
 
 
 ### Abschnitt 9 - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG077402301)
 
 
 
 #### § 1062 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134802301)
 
 (1) Das Oberlandesgericht, das in der Schiedsvereinbarung bezeichnet
 ist oder, wenn eine solche Bezeichnung fehlt, in dessen Bezirk der Ort
@@ -18462,6 +19557,7 @@ vereinbaren.
 
 
 #### § 1063 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE134902301)
 
 (1) Das Gericht entscheidet durch Beschluss. Vor der Entscheidung ist
 der Gegner zu hören.
@@ -18487,6 +19583,7 @@ abgegeben werden.
 
 
 #### § 1064 Besonderheiten bei der Vollstreckbarerklärung von Schiedssprüchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE135001301)
 
 (1) Mit dem Antrag auf Vollstreckbarerklärung eines Schiedsspruchs ist
 der Schiedsspruch oder eine beglaubigte Abschrift des Schiedsspruchs
@@ -18501,6 +19598,7 @@ anzuwenden, soweit Staatsverträge nicht ein anderes bestimmen.
 
 
 #### § 1065 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE135102301)
 
 (1) Gegen die in § 1062 Abs. 1 Nr. 2 und 4 genannten Entscheidungen
 findet die Rechtsbeschwerde statt. Im Übrigen sind die Entscheidungen
@@ -18512,10 +19610,12 @@ Entscheidung auf einer Verletzung eines Staatsvertrages beruht. Die §§
 
 
 ### Abschnitt 10 - Außervertragliche Schiedsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG077502301)
 
 
 
 #### § 1066 Entsprechende Anwendung der Vorschriften des Buches 10
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE135201301)
 
 Für Schiedsgerichte, die in gesetzlich statthafter Weise durch
 letztwillige oder andere nicht auf Vereinbarung beruhende Verfügungen
@@ -18523,14 +19623,17 @@ angeordnet werden, gelten die Vorschriften dieses Buches entsprechend.
 
 
 ## Buch 11 - Justizielle Zusammenarbeit in der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078401301)
 
 
 
 ### Abschnitt 1 - Zustellung nach der Verordnung (EU) 2020/1784
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078503360)
 
 
 
 #### § 1067 Zustellung durch Auslandsvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143705360)
 
 (1) Eine Zustellung nach Artikel 17 der Verordnung (EU) 2020/1784
 durch die zuständige deutsche Auslandsvertretung soll nur im
@@ -18547,6 +19650,7 @@ Staatsangehöriger des Übermittlungsstaats ist.
 
 
 #### § 1068 Elektronische Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143804360)
 
 An Adressaten in der Bundesrepublik Deutschland dürfen gerichtliche
 elektronische Schriftstücke nur nach Artikel 19 Absatz 1 Buchstabe a
@@ -18554,6 +19658,7 @@ der Verordnung (EU) 2020/1784 elektronisch zugestellt werden.
 
 
 #### § 1069 Zuständigkeiten nach der Verordnung (EU) 2020/1784; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE143904360)
 
 (1) Für Zustellungen im Ausland sind als deutsche Übermittlungsstelle
 im Sinne von Artikel 3 Absatz 1 der Verordnung (EU) 2020/1784
@@ -18598,6 +19703,7 @@ Satz 1 einer obersten Landesbehörde übertragen.
 
 
 #### § 1070 Sprache eingehender Anträge, Bescheinigungen und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE169200360)
 
 Aus dem Ausland eingehende Zustellungsanträge, Bescheinigungen über
 die Zustellung sowie sonstige Mitteilungen nach der Verordnung (EU)
@@ -18607,6 +19713,7 @@ begleitet sein.
 
 
 #### § 1071 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144004360)
 
 Wenn die Verordnung (EU) 2020/1784 im Verhältnis zu Dänemark auf Grund
 des Artikels 2 Absatz 1 des Abkommens zwischen der Europäischen
@@ -18617,10 +19724,12 @@ Zivil- oder Handelssachen anwendbar ist, gelten die Vorschriften der
 
 
 ### Abschnitt 2 - Beweisaufnahme nach der Verordnung (EU) 2020/1783
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078602360)
 
 
 
 #### § 1072 Beweisaufnahme in den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144203360)
 
 Soll die Beweisaufnahme nach der Verordnung (EU) 2020/1783 erfolgen,
 so kann das deutsche Gericht
@@ -18645,6 +19754,7 @@ so kann das deutsche Gericht
 
 
 #### § 1073 Teilnahmerechte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144302360)
 
 (1) Das ersuchende deutsche Gericht oder ein von diesem beauftragtes
 Mitglied darf im Geltungsbereich der Verordnung (EU) 2020/1783 bei der
@@ -18661,6 +19771,7 @@ von diesem beauftragte Sachverständige durchführen.
 
 
 #### § 1074 Zuständigkeiten nach der Verordnung (EU) 2020/1783; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144402360)
 
 (1) Für Beweisaufnahmen in der Bundesrepublik Deutschland ist als
 ersuchtes Gericht im Sinne von Artikel 3 Absatz 1 der Verordnung (EU)
@@ -18696,6 +19807,7 @@ Landesbehörde übertragen.
 
 
 #### § 1075 Sprache eingehender Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144502360)
 
 Aus dem Ausland eingehende Ersuchen auf Beweisaufnahme sowie
 Mitteilungen nach der Verordnung (EU) 2020/1783 müssen in deutscher
@@ -18704,10 +19816,12 @@ begleitet sein.
 
 
 ### Abschnitt 3 - Prozesskostenhilfe nach der Richtlinie 2003/8/EG
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078701301)
 
 
 
 #### § 1076 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144801301)
 
 Für die grenzüberschreitende Prozesskostenhilfe innerhalb der
 Europäischen Union nach der Richtlinie 2003/8/EG des Rates vom 27.
@@ -18720,6 +19834,7 @@ ist.
 
 
 #### § 1077 Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE144903311)
 
 (1) Für die Entgegennahme und Übermittlung von Anträgen natürlicher
 Personen auf grenzüberschreitende Prozesskostenhilfe ist das
@@ -18787,6 +19902,7 @@ grenzüberschreitende Prozesskostenhilfe.
 
 
 #### § 1078 Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145001301)
 
 (1) Für eingehende Ersuchen um grenzüberschreitende Prozesskostenhilfe
 ist das Prozessgericht oder das Vollstreckungsgericht zuständig. Die
@@ -18816,14 +19932,17 @@ jeweiligen Rechtszug darlegt.
 
 
 ### Abschnitt 4 - Europäische Vollstreckungstitel nach der Verordnung (EG) Nr. 805/2004
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078801301)
 
 
 
 #### Titel 1 - Bestätigung inländischer Titel als Europäische Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG078901301)
 
 
 
 ##### § 1079 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145802311)
 
 Für die Ausstellung der Bestätigungen nach
 
@@ -18840,6 +19959,7 @@ Ausfertigung des Titels obliegt.
 
 
 ##### § 1080 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE145902125)
 
 (1) Bestätigungen nach Artikel 9 Abs. 1, Artikel 24 Abs. 1, Artikel 25
 Abs. 1 und Artikel 6 Abs. 3 der Verordnung (EG) Nr. 805/2004 sind ohne
@@ -18854,6 +19974,7 @@ Erteilung einer Vollstreckungsklausel entsprechend anzuwenden.
 
 
 ##### § 1081 Berichtigung und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146001301)
 
 (1) Ein Antrag nach Artikel 10 Abs. 1 der Verordnung (EG) Nr. 805/2004
 auf Berichtigung oder Widerruf einer gerichtlichen Bestätigung ist bei
@@ -18877,10 +19998,12 @@ entsprechend anzuwenden.
 
 
 #### Titel 2 - Zwangsvollstreckung aus Europäischen Vollstreckungstiteln im Inland
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079001301)
 
 
 
 ##### § 1082 Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146101301)
 
 Aus einem Titel, der in einem anderen Mitgliedstaat der Europäischen
 Union nach der Verordnung (EG) Nr. 805/2004 als Europäischer
@@ -18890,6 +20013,7 @@ Vollstreckungsklausel bedarf.
 
 
 ##### § 1083 Übersetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146201301)
 
 Hat der Gläubiger nach Artikel 20 Abs. 2 Buchstabe c der Verordnung
 (EG) Nr. 805/2004 eine Übersetzung vorzulegen, so ist diese in
@@ -18898,6 +20022,7 @@ Mitgliedstaaten der Europäischen Union befugten Person zu beglaubigen.
 
 
 ##### § 1084 Anträge nach den Artikeln 21 und 23 der Verordnung (EG) Nr. 805/2004
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146301301)
 
 (1) Für Anträge auf Verweigerung, Aussetzung oder Beschränkung der
 Zwangsvollstreckung nach den Artikeln 21 und 23 der Verordnung (EG)
@@ -18919,6 +20044,7 @@ einstweilige Anordnung entschieden. Die Entscheidung ist unanfechtbar.
 
 
 ##### § 1085 Einstellung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146401301)
 
 Die Zwangsvollstreckung ist entsprechend den §§ 775 und 776 auch dann
 einzustellen oder zu beschränken, wenn die Ausfertigung einer
@@ -18928,6 +20054,7 @@ der Vollstreckbarkeit nach Artikel 6 Abs. 2 der Verordnung (EG) Nr.
 
 
 ##### § 1086 Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE146502311)
 
 (1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 ist das
 Gericht ausschließlich örtlich zuständig, in dessen Bezirk der
@@ -18941,14 +20068,17 @@ juristischen Personen steht dem Wohnsitz gleich.
 
 
 ### Abschnitt 5 - Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079500160)
 
 
 
 #### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079600160)
 
 
 
 ##### § 1087 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159701311)
 
 Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die
 Vollstreckbarerklärung eines Europäischen Zahlungsbefehls nach der
@@ -18957,6 +20087,7 @@ ausschließlich zuständig.
 
 
 ##### § 1088 Maschinelle Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159801311)
 
 (1) Der Antrag auf Erlass des Europäischen Zahlungsbefehls und der
 Einspruch können in einer nur maschinell lesbaren Form bei Gericht
@@ -18972,6 +20103,7 @@ die Senatsverwaltung für Justiz des Landes Berlin übertragen.
 
 
 ##### § 1089 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE159901360)
 
 (1) Ist der Europäische Zahlungsbefehl im Inland zuzustellen, gelten
 die Vorschriften über das Verfahren bei Zustellungen von Amts wegen
@@ -18984,10 +20116,12 @@ Verordnung (EU) 2020/1784 sowie für die Durchführung dieser Verordnung
 
 
 #### Titel 2 - Einspruch gegen den Europäischen Zahlungsbefehl
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079700160)
 
 
 
 ##### § 1090 Verfahren nach Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160001311)
 
 (1) Im Fall des Artikels 17 Abs. 1 der Verordnung (EG) Nr. 1896/2006
 fordert das Gericht den Antragsteller mit der Mitteilung nach Artikel
@@ -19016,15 +20150,18 @@ nach Absatz 1 Satz 2 alsbald abgegeben wird.
 
 
 ##### § 1091 Einleitung des Streitverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160100160)
 
 § 697 Abs. 1 bis 3 gilt entsprechend.
 
 
 #### Titel 3 - Überprüfung des Europäischen Zahlungsbefehls in Ausnahmefällen
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079800160)
 
 
 
 ##### § 1092 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160200160)
 
 (1) Die Entscheidung über einen Antrag auf Überprüfung des
 Europäischen Zahlungsbefehls nach Artikel 20 Abs. 1 oder Abs. 2 der
@@ -19042,6 +20179,7 @@ Verordnung (EG) Nr. 1896/2006 findet nicht statt.
 
 
 ##### § 1092a Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166800311)
 
 (1) Der Antragsgegner kann die Aufhebung des Europäischen
 Zahlungsbefehls beantragen, wenn ihm der Europäische Zahlungsbefehl
@@ -19072,10 +20210,12 @@ unanfechtbar. § 1092 Absatz 2 bis 4 findet entsprechende Anwendung.
 
 
 #### Titel 4 - Zwangsvollstreckung aus dem Europäischen Zahlungsbefehl
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG079900160)
 
 
 
 ##### § 1093 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160300160)
 
 Aus einem nach der Verordnung (EG) Nr. 1896/2006 erlassenen und für
 vollstreckbar erklärten Europäischen Zahlungsbefehl findet die
@@ -19084,6 +20224,7 @@ Vollstreckungsklausel bedarf.
 
 
 ##### § 1094 Übersetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160400160)
 
 Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung
 (EG) Nr. 1896/2006 eine Übersetzung vorzulegen, so ist diese in
@@ -19093,6 +20234,7 @@ beglaubigen.
 
 
 ##### § 1095 Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160501311)
 
 (1) Wird die Überprüfung eines im Inland erlassenen Europäischen
 Zahlungsbefehls nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 oder
@@ -19109,6 +20251,7 @@ gemacht werden können.
 
 
 ##### § 1096 Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 1896/2006; Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160601311)
 
 (1) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel
 22 Abs. 1 der Verordnung (EG) Nr. 1896/2006 gilt § 1084 Abs. 1 und 2
@@ -19123,14 +20266,17 @@ sind § 1086 Abs. 1 und § 1095 Abs. 2 entsprechend anzuwenden.
 
 
 ### Abschnitt 6 - Europäisches Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080000160)
 
 
 
 #### Titel 1 - Erkenntnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080100160)
 
 
 
 ##### § 1097 Einleitung und Durchführung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160701311)
 
 (1) Die Formblätter gemäß der Verordnung (EG) Nr. 861/2007 und andere
 Anträge oder Erklärungen können als Schriftsatz, als Telekopie oder
@@ -19143,6 +20289,7 @@ Verordnung (EG) Nr. 861/2007 fortgeführt.
 
 
 ##### § 1098 Annahmeverweigerung auf Grund der verwendeten Sprache
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160800160)
 
 Die Frist zur Erklärung der Annahmeverweigerung nach Artikel 6 Abs. 3
 der Verordnung (EG) Nr. 861/2007 beträgt eine Woche. Sie ist eine
@@ -19151,6 +20298,7 @@ Empfänger ist über die Folgen einer Versäumung der Frist zu belehren.
 
 
 ##### § 1099 Widerklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE160900160)
 
 (1) Eine Widerklage, die nicht den Vorschriften der Verordnung (EG)
 Nr. 861/2007 entspricht, ist außer im Fall des Artikels 5 Abs. 7 Satz
@@ -19164,6 +20312,7 @@ zur Zeit der Erhebung der Widerklage befunden hat.
 
 
 ##### § 1100 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161002125)
 
 (1) Im Fall einer Videoverhandlung nach Artikel 8 der Verordnung (EG)
 Nr. 861/2007 ist nur § 128a Absatz 6 anwendbar.
@@ -19173,6 +20322,7 @@ Verhandlung (§ 275) ist ausgeschlossen.
 
 
 ##### § 1101 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161102125)
 
 (1) Das Gericht kann die Beweise in der ihm geeignet erscheinenden Art
 aufnehmen, soweit Artikel 9 Abs. 2 bis 4 der Verordnung (EG) Nr.
@@ -19185,12 +20335,14 @@ Artikel 9 Absatz 1 Satz 2 der Verordnung (EG) Nr. 861/2007 ist nur §
 
 
 ##### § 1102 Urteil
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161200160)
 
 Urteile bedürfen keiner Verkündung. Die Verkündung eines Urteils wird
 durch die Zustellung ersetzt.
 
 
 ##### § 1103 Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161300160)
 
 Äußert sich eine Partei binnen der für sie geltenden Frist nicht oder
 erscheint sie nicht zur mündlichen Verhandlung, kann das Gericht eine
@@ -19199,6 +20351,7 @@ anzuwenden.
 
 
 ##### § 1104 Abhilfe bei unverschuldeter Säumnis des Beklagten
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161401311)
 
 (1) Liegen die Voraussetzungen des Artikels 18 Abs. 1 und 2 der
 Verordnung (EG) Nr. 861/2007 vor, wird das Verfahren fortgeführt; es
@@ -19211,6 +20364,7 @@ Abs. 1 und 2 der Verordnung (EG) Nr. 861/2007 glaubhaft zu machen.
 
 
 ##### § 1104a Gemeinsame Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166900311)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem
 Amtsgericht für die Bezirke mehrerer Amtsgerichte und einem
@@ -19222,10 +20376,12 @@ Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 #### Titel 2 - Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080200160)
 
 
 
 ##### § 1105 Zwangsvollstreckung inländischer Titel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161500160)
 
 (1) Urteile sind für vorläufig vollstreckbar ohne Sicherheitsleistung
 zu erklären. Die §§ 712 und 719 Abs. 1 Satz 1 in Verbindung mit § 707
@@ -19240,6 +20396,7 @@ tatsächlichen Voraussetzungen des Artikels 23 der Verordnung (EG) Nr.
 
 
 ##### § 1106 Bestätigung inländischer Titel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161600160)
 
 (1) Für die Ausstellung der Bestätigung nach Artikel 20 Abs. 2 der
 Verordnung (EG) Nr. 861/2007 ist das Gericht zuständig, dem die
@@ -19252,6 +20409,7 @@ Erteilung einer Vollstreckungsklausel entsprechend anzuwenden.
 
 
 ##### § 1107 Ausländische Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161700160)
 
 Aus einem Titel, der in einem Mitgliedstaat der Europäischen Union
 nach der Verordnung (EG) Nr. 861/2007 ergangen ist, findet die
@@ -19260,6 +20418,7 @@ Vollstreckungsklausel bedarf.
 
 
 ##### § 1108 Übersetzung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161800160)
 
 Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung
 (EG) Nr. 861/2007 eine Übersetzung vorzulegen, so ist diese in
@@ -19269,6 +20428,7 @@ erstellen.
 
 
 ##### § 1109 Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 861/2007; Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE161900160)
 
 (1) Auf Anträge nach Artikel 22 der Verordnung (EG) Nr. 861/2007 ist §
 1084 Abs. 1 und 2 entsprechend anzuwenden. Auf Anträge nach Artikel 23
@@ -19279,14 +20439,17 @@ anzuwenden.
 
 
 ### Abschnitt 7 - Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080600311)
 
 
 
 #### Titel 1 - Bescheinigung über inländische Titel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080700311)
 
 
 
 ##### § 1110 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE165900311)
 
 Für die Ausstellung der Bescheinigung nach den Artikeln 53 und 60 der
 Verordnung (EU) Nr. 1215/2012 sind die Gerichte oder Notare zuständig,
@@ -19295,6 +20458,7 @@ obliegt.
 
 
 ##### § 1111 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166001125)
 
 (1) Bescheinigungen nach den Artikeln 53 und 60 der Verordnung (EU)
 Nr. 1215/2012 sind ohne Anhörung des Schuldners auszustellen. In den
@@ -19311,10 +20475,12 @@ Vollstreckungsklausel entsprechend.
 
 
 #### Titel 2 - Anerkennung und Vollstreckung ausländischer Titel im Inland
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG080800311)
 
 
 
 ##### § 1112 Entbehrlichkeit der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166100311)
 
 Aus einem Titel, der in einem anderen Mitgliedstaat der Europäischen
 Union vollstreckbar ist, findet die Zwangsvollstreckung im Inland
@@ -19322,6 +20488,7 @@ statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
 
 ##### § 1113 Übersetzung oder Transliteration
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166200311)
 
 Hat eine Partei nach Artikel 57 der Verordnung (EU) Nr. 1215/2012 eine
 Übersetzung oder eine Transliteration vorzulegen, so ist diese in
@@ -19330,6 +20497,7 @@ Europäischen Union hierzu befugten Person zu erstellen.
 
 
 ##### § 1114 Anfechtung der Anpassung eines Titels
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166300311)
 
 Für die Anfechtung der Anpassung eines Titels (Artikel 54 der
 Verordnung (EU) Nr. 1215/2012) sind folgende Rechtsgrundlagen
@@ -19351,6 +20519,7 @@ entsprechend anzuwenden:
 
 
 ##### § 1115 Versagung der Anerkennung oder der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166400311)
 
 (1) Für Anträge auf Versagung der Anerkennung oder der Vollstreckung
 (Artikel 45 Absatz 4 und Artikel 47 Absatz 1 der Verordnung (EU) Nr.
@@ -19385,6 +20554,7 @@ Entscheidung ist unanfechtbar.
 
 
 ##### § 1116 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166500311)
 
 Auf Antrag des Schuldners (Artikel 44 Absatz 2 der Verordnung (EU) Nr.
 1215/2012) ist die Zwangsvollstreckung entsprechend § 775 Nummer 1 und
@@ -19397,6 +20567,7 @@ entsprechend.
 
 
 ##### § 1117 Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE166600311)
 
 (1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 gilt § 1086
 Absatz 1 entsprechend.
@@ -19407,10 +20578,12 @@ Absatz 2 nicht anzuwenden.
 
 
 ### Abschnitt 8 - Beweis der Echtheit ausländischer öffentlicher Urkunden nach der Verordnung (EU) 2016/1191
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNG081400125)
 
 
 
 #### § 1118 Zentralbehörde
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE167400125)
 
 Das Bundesamt für Justiz ist Zentralbehörde nach Artikel 15 Absatz 1
 der Verordnung (EU) 2016/1191 des Europäischen Parlaments und des
@@ -19424,6 +20597,7 @@ sind Justizverwaltungsverfahren. Informationen nach Artikel 22 Absatz
 
 
 #### § 1119 Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE167500125)
 
 (1) Soweit bei der Überprüfung der Echtheit einer öffentlichen Urkunde
 oder einer beglaubigten Kopie eine Nachfrage bei der ausstellenden
@@ -19442,6 +20616,7 @@ in seine Zuständigkeit fallen.
 
 
 #### § 1120 Mehrsprachige Formulare
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE167600125)
 
 Mehrsprachige Formulare gemäß Artikel 7 der Verordnung (EU) 2016/1191
 werden durch die Behörden ausgestellt, die für die Erteilung der
@@ -19458,6 +20633,7 @@ Abschnitt III
 Abschnitt IV
 
 #### Anhang EV - Sonderregelung für das Land Berlin -
+[Direktlink](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html#BJNR005330950BJNE888803140)
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

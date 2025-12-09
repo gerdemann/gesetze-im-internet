@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000100000)
 
 Auf Grund des § 16b Abs. 6 des Gentechnikgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066), der durch
@@ -36,6 +37,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000200000)
 
 Diese Verordnung regelt die Grundsätze der guten fachlichen Praxis im
 Sinne des § 16b Abs. 3 des Gentechnikgesetzes bei der erwerbsmäßigen
@@ -43,6 +45,7 @@ Erzeugung gentechnisch veränderter Pflanzen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000300000)
 
 Im Sinne dieser Verordnung sind
 
@@ -67,6 +70,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000400000)
 
 (1) Der Erzeuger hat den Nachbarn spätestens drei Monate vor der
 Aussaat oder Anpflanzung folgende Angaben mitzuteilen:
@@ -104,6 +108,7 @@ bewirtschaftet.
 
 
 ## § 4 Anpassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000500000)
 
 Der Erzeuger hat dafür zu sorgen, dass die Anbauflächen den in der
 Anlage zu dieser Verordnung für die jeweilige Pflanzenart aufgeführten
@@ -112,6 +117,7 @@ eingegangenen Angaben der Nachbarn zu berücksichtigen.
 
 
 ## § 5 Anfragepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000600000)
 
 Soweit eine nach § 16 Abs. 5a des Gentechnikgesetzes öffentlich
 bekannt gemachte Genehmigung besondere Bedingungen für die Verwendung
@@ -130,6 +136,7 @@ ergeben, informiert die zuständige Landesbehörde den Bewirtschafter
 
 
 ## § 6 Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000700000)
 
 Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke,
 insbesondere durch Witterungseinflüsse oder Verschleppung durch Tiere,
@@ -151,6 +158,7 @@ Standortregister gemeldet ist, so entfällt die Kennzeichnung.
 
 
 ## § 7 Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000800000)
 
 (1) Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke,
 insbesondere durch Verwehen,
@@ -175,6 +183,7 @@ verwerten oder zu vernichten.
 
 
 ## § 8 Bewirtschaftungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE000900000)
 
 Bei allen Bewirtschaftungsmaßnahmen einschließlich der Ernte sind
 Einträge von gentechnisch veränderten Organismen in fremde Grundstücke
@@ -182,6 +191,7 @@ durch Wahl einer geeigneten Technik auf das Mindestmaß zu beschränken.
 
 
 ## § 9 Eingesetzte Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001000000)
 
 Der Erzeuger hat Einrichtungen, Maschinen und Geräte, die zur Aussaat,
 zur Ernte, zur Aufbereitung oder zur Beförderung von gentechnisch
@@ -191,6 +201,7 @@ Pflanz- oder Erntegut eingesetzt werden.
 
 
 ## § 10 Durchwuchs
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001100000)
 
 (1) Nach Abschluss des Anbaus von gentechnisch veränderten Pflanzen
 hat der Erzeuger die Anbaufläche nach Maßgabe der in der Anlage für
@@ -215,6 +226,7 @@ haben muss.
 
 
 ## § 11 Aufbringen von Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001200000)
 
 Auf Flächen, auf denen Düngemittel oder andere Stoffe aufgebracht
 werden, die offenkundig nicht nur geringfügig vermehrungsfähige
@@ -223,6 +235,7 @@ Bestandteile von gentechnisch veränderten Pflanzen enthalten, findet §
 
 
 ## § 12 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001300000)
 
 (1) Der Erzeuger hat Aufzeichnungen zu führen über die Sorte des
 gentechnisch veränderten Saat- oder Pflanzguts, die Schläge des
@@ -244,23 +257,27 @@ fachlichen Praxis nach dieser Verordnung erforderlich sind.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001400000)
 
 Die §§ 3, 4 Satz 2 und § 5 sind erstmals ab dem 1. Oktober 2008
 anzuwenden.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1)
 
 ## Anlage Pflanzenartspezifische Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/gentpflev/BJNR065500008.html#BJNR065500008BJNE001700000)
 
 ( Fundstelle: BGBl. I 2008, 658 )
 ### Gentechnisch veränderter Mais

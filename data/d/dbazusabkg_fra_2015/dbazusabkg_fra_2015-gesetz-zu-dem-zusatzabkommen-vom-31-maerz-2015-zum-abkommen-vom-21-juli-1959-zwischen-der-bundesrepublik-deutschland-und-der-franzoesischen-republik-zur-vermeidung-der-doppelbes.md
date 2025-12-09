@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000200000)
 
 Dem in Berlin am 31. März 2015 unterzeichneten Zusatzabkommen zwischen
 der Regierung der Bundesrepublik Deutschland und der Regierung der
@@ -42,6 +44,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000300000)
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß
 Artikel 13 a des geänderten Abkommens ist das Bundeszentralamt für
@@ -105,6 +108,7 @@ Einkommensteuergesetzes gilt entsprechend.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000400000)
 
 (1) Zuständige Behörde für die Abwicklung des Fiskalausgleichs gemäß
 Artikel 13 c Absatz 1 und 2 des geänderten Abkommens und des
@@ -158,6 +162,7 @@ Anwendung des Zusatzabkommens.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000500000)
 
 (1) Einnahmen, die durch Ausgleichsansprüche gemäß Artikel 13 a des
 geänderten Abkommens gegenüber Frankreich begründet sind, fließen der
@@ -205,6 +210,7 @@ oder Erstattungen wird auf die Länder wie folgt verteilt:
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000600000)
 
 Das Bundesministerium der Finanzen kann das Abkommen vom 21. Juli 1959
 zwischen der Bundesrepublik Deutschland und der Französischen Republik
@@ -215,6 +221,7 @@ Zusatzabkommen vom 31. März 2015 geänderten Fassung bekannt machen.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/dbazusabkg_fra_2015/BJNR133220015.html#BJNR133220015BJNE000700000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

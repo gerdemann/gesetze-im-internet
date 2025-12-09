@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/favo/BJNR289700001.html#BJNR289700001BJNE000100305)
 
 Auf Grund des § 35a Abs. 1 Satz 1 Nr. 1 des Fünften Buches
 Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/favo/BJNR289700001.html#BJNR289700001BJNE000200305)
 
 Für die in der Anlage mit den Teilen A, B und C aufgeführten
 Arzneimittelgruppen nach § 35a Abs. 6 des Fünften Buches
@@ -47,6 +49,7 @@ jeweiligen Gruppenbeschreibung der Anlage erfasst werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/favo/BJNR289700001.html#BJNR289700001BJNE000300305)
 
 (1) Die nach § 1 angepassten Festbeträge in Deutscher Mark sind an den
 nächsten, sich aus den §§ 2 und 3 der Arzneimittelpreisverordnung vom
@@ -66,6 +69,7 @@ entsprechend.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/favo/BJNR289700001.html#BJNR289700001BJNE000400305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Die nach
 § 1 angepassten und nach § 2 angeglichenen Festbeträge werden mit
@@ -74,6 +78,7 @@ die bisherigen Festbeträge angewendet.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/favo/BJNR289700001.html#BJNR289700001BJNE000501308)
 
 (Inhalt: nicht darstellbare Anlage,
 Fundstelle: BGBl. I 2001, 2898 - 2944,

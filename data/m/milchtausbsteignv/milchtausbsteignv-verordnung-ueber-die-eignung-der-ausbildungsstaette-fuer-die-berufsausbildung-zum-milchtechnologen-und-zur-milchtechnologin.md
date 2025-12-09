@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchtausbsteignv/BJNR022700011.html#BJNR022700011BJNE000100000)
 
 Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des
 Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232 Nummer 2
@@ -29,6 +30,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
+[Direktlink](https://www.gesetze-im-internet.de/milchtausbsteignv/BJNR022700011.html#BJNR022700011BJNE000200000)
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27
 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein
@@ -88,6 +90,7 @@ eröffnet worden ist.
 
 
 ## § 2 Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/milchtausbsteignv/BJNR022700011.html#BJNR022700011BJNE000300000)
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
@@ -99,6 +102,7 @@ in Form überbetrieblicher Ausbildung vermittelt werden können.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milchtausbsteignv/BJNR022700011.html#BJNR022700011BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Eignung der

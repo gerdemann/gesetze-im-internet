@@ -22,16 +22,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE000900311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Teil I - Beitritt und Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000100311)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001000311)
 
 (1) Dem Beitritt der Bundesrepublik Deutschland zu dem Protokoll vom
 28\. August 1952 über die Rechtsstellung der auf Grund des
@@ -71,14 +74,17 @@ aufgeführten Vereinbarungen werden nachstehend veröffentlicht.
 
 
 ## Teil II - Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000200311)
 
 
 
 ### Kapitel 1 - Ausführungsbestimmungen zu Art 1 in Verbindung mit Art 10 des Protokolls über die NATO-Hauptquartiere
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000300311)
 
 
 
 #### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001100311)
 
 Für Klagen gegen das Oberste Hauptquartier der Alliierten Mächte,
 Europa, im Zusammenhang mit der Einrichtung oder dem Betrieb eines
@@ -88,10 +94,12 @@ Hauptquartier seinen Sitz hat.
 
 
 ### Kapitel 2 - Ausführungsbestimmungen zu Art 2 und 4 des Protokolls über die NATO-Hauptquartiere in Verbindung mit Art VII des NATO-Truppenstatuts
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000400311)
 
 
 
 #### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001200311)
 
 (1) Der Verzicht auf das den deutschen Behörden in Fällen der
 konkurrierenden Gerichtsbarkeit nach Artikel 2 des Protokolls über die
@@ -110,15 +118,18 @@ entsprechend.
 
 
 ### Kapitel 3 - Ausführungsbestimmungen zu Art 8 des Protokolls über die NATO-Hauptquartiere, zu den Art 14, 15 und 16 des Ergänzungsabkommens und zu Art 2 des Statusübereinkommens sowie ergänzende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000500311)
 
 
 
 #### Art 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001301310)
 
 -
 
 
 #### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001401310)
 
 Die in Artikel 3 Abs. 1 des Protokolls über die NATO-Hauptquartiere
 bezeichneten Personen, die nicht zu dem durch das Statusübereinkommen
@@ -129,6 +140,7 @@ wie den durch das Statusübereinkommen begünstigten Personen.
 
 
 #### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001500311)
 
 Berechtigte Personen im Sinne des Artikels 16 Abs. 2 Buchstabe b des
 Ergänzungsabkommens sind nicht die Angehörigen der in Artikel 3 Abs. 1
@@ -137,19 +149,23 @@ Personen deutscher Staatsangehörigkeit.
 
 
 ### Kapitel 4 - Ausführungsbestimmungen zu Art 14 Abs. 2 des Ergänzungsabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000600311)
 
 
 
 #### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001600311)
 
 -
 
 
 ### Kapitel 5 - Ausführungsbestimmungen zu Art 2, 4 und 6 des Protokolls über die NATO-Hauptquartiere in Verbindung mit Art VIII des NATO-Truppenstatuts sowie zu Art 22 des Ergänzungsabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000700311)
 
 
 
 #### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001700311)
 
 (1) Für Ansprüche, die sich nach Artikel 2 des Protokolls über die
 NATO-Hauptquartiere und Artikel VIII Abs. 5 des NATO-Truppenstatuts
@@ -179,10 +195,12 @@ Verbindung mit Artikel 22 Abs. 2 des Ergänzungsabkommens tritt.
 
 
 ## Teil III - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNG000800311)
 
 
 
 ### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/natoprotg/BJNR219970969.html#BJNR219970969BJNE001800311)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

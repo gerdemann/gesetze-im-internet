@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-22-1-48 v. 25.7.2008 I 1560 (ZweirMAusbV 2008)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -39,6 +40,7 @@ Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000200000)
 
 Der Ausbildungsberuf des Zweiradmechatronikers und der
 Zweiradmechatronikerin wird staatlich anerkannt nach
@@ -54,11 +56,13 @@ Zweiradmechatronikerin wird staatlich anerkannt nach
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000300000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Fachrichtungen der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000400000)
 
 Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen
 durchgeführt:
@@ -73,6 +77,7 @@ durchgeführt:
 
 
 ## § 4 Struktur und Inhalte der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -198,6 +203,7 @@ Fähigkeiten sind:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -209,6 +215,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000700000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -230,6 +237,7 @@ durchzusehen.
 
 
 ## § 7 Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000800000)
 
 (1) Die Abschluss- oder Gesellenprüfung besteht aus zwei Teilen. Teil
 1 soll zum Ende des zweiten Ausbildungsjahres durchgeführt werden,
@@ -253,6 +261,7 @@ Abschluss- oder Gesellenprüfung soll der Prüfling nachweisen, dass er
 
 
 ## § 8 Teil 1 der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE000900000)
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -347,6 +356,7 @@ Prüfungsbereich Arbeitsauftrag statt.
 
 
 ## § 9 Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Fahrradtechnik
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001000000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -547,6 +557,7 @@ folgende Vorgaben:
 
 
 ## § 10 Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Fahrradtechnik
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001100000)
 
 (1) Die Ergebnisse der Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -638,6 +649,7 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 11 Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Motorradtechnik
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001200000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -835,6 +847,7 @@ folgende Vorgaben:
 
 
 ## § 12 Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Motorradtechnik
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001300000)
 
 (1) Die Ergebnisse der Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -926,6 +939,7 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 13 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001400000)
 
 Die erfolgreich abgeschlossene Berufsausbildung zum Fahrradmonteur und
 zur Fahrradmonteurin kann ab dem dritten Ausbildungsjahr im
@@ -934,6 +948,7 @@ dieser Verordnung fortgesetzt werden.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001500000)
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Zweiradmechaniker und zur
@@ -942,6 +957,7 @@ Zweiradmechanikerin vom 25. Juli 2008 (BGBl. I S. 1560) außer Kraft.
 (zu § 5 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin
+[Direktlink](https://www.gesetze-im-internet.de/zweiradausbv/BJNR073100014.html#BJNR073100014BJNE001600000)
 
 (Fundstelle: BGBl. I 2014, 736 – 745)
 

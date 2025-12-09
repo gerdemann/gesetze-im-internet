@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
@@ -26,10 +27,12 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNG000100000)
 
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000300000)
 
 Die Ausbildungsberufe
 
@@ -53,11 +56,13 @@ werden staatlich anerkannt.
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000400000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000500000)
 
 (1) Die Ausbildung gliedert sich in:
 
@@ -81,10 +86,12 @@ Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15,
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Industriekeramiker Anlagentechnik/Industriekeramikerin Anlagentechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNG000200000)
 
 
 
 ### § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -153,6 +160,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ### § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000700000)
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage 1 enthaltenen
@@ -164,12 +172,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE000900000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -179,6 +189,7 @@ durchzusehen.
 
 
 ### § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -210,6 +221,7 @@ aufzeigen kann.
 
 
 ### § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -373,10 +385,12 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Industriekeramiker Dekorationstechnik/Industriekeramikerin Dekorationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNG000300000)
 
 
 
 ### § 10 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001200000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -438,6 +452,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ### § 11 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001300000)
 
 Die in § 10 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage 2 enthaltenen
@@ -449,12 +464,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 12 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001400000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 13 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001500000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -464,6 +481,7 @@ durchzusehen.
 
 
 ### § 14 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -495,6 +513,7 @@ aufzeigen kann.
 
 
 ### § 15 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001700000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -655,10 +674,12 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Industriekeramiker Modelltechnik/Industriekeramikerin Modelltechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNG000400000)
 
 
 
 ### § 16 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001800000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -724,6 +745,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ### § 17 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE001900000)
 
 Die in § 16 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage 3 enthaltenen
@@ -735,12 +757,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 18 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002000000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 19 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002100000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -750,6 +774,7 @@ durchzusehen.
 
 
 ### § 20 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002200000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -780,6 +805,7 @@ fachlichen Hintergründe aufzeigen kann.
 
 
 ### § 21 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002300000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -944,10 +970,12 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Industriekeramiker Verfahrenstechnik/Industriekeramikerin Verfahrenstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNG000500000)
 
 
 
 ### § 22 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -1012,6 +1040,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ### § 23 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002500000)
 
 Die in § 22 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage 4 enthaltenen
@@ -1023,12 +1052,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 24 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002600000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 25 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002700000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -1038,6 +1069,7 @@ durchzusehen.
 
 
 ### § 26 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -1068,6 +1100,7 @@ fachlichen Hintergründe aufzeigen kann.
 
 
 ### § 27 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE002900000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 4
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1235,10 +1268,12 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## Teil 6 - Fortsetzungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNG000600000)
 
 
 
 ### § 28 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE003000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -1247,12 +1282,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE003100000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 5)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Anlagentechnik/zur Industriekeramikerin Anlagentechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE003200000)
 
 (Fundstelle: BGBl. I 2005, 1550 - 1553)
 
@@ -1926,6 +1963,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 (zu § 11)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE003300000)
 
 (Fundstelle: BGBl. I 2005, 1554 - 1557)
 
@@ -2554,6 +2592,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 (zu § 17)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Modelltechnik/zur Industriekeramikerin Modelltechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE003400000)
 
 (Fundstelle: BGBl. I 2005, 1558 - 1561)
 
@@ -3242,6 +3281,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 (zu § 23)
 
 ### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kerindausbv/BJNR154100005.html#BJNR154100005BJNE003500000)
 
 (Fundstelle: BGBl. I 2005, 1562 - 1565)
 

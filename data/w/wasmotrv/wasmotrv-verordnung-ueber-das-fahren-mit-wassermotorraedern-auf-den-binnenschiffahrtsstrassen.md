@@ -18,6 +18,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 6 V v. 23.7.2024 I Nr. 253
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000100000)
 
 Auf Grund
 
@@ -46,6 +47,7 @@ Auf Grund
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000203119)
 
 Im Sinne dieser Verordnung sind
 
@@ -106,6 +108,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 2 Sonstige anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000302124)
 
 Sofern in dieser Verordnung nichts Abweichendes bestimmt ist, gelten
 für das Fahren mit Wassermotorrädern
@@ -132,6 +135,7 @@ in ihrer jeweils geltenden Fassung.
 
 
 ## § 3 Wassermotorradfahren
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000403126)
 
 (1) Auf den Binnenschiffahrtsstraßen (§ 1 Nr. 1) ist das Fahren mit
 Wassermotorrädern außerhalb der durch das Tafelzeichen E.22 der Anlage
@@ -175,6 +179,7 @@ Umständen unvermeidbar behindert oder belästigt werden.
 
 
 ## § 4 Wassermotorradflächen
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000503305)
 
 (1) Auf den durch das Tafelzeichen E.22 freigegebenen Wasserflächen
 darf mit Wassermotorrädern gefahren werden. Dabei dürfen die
@@ -197,6 +202,7 @@ digitale Infrastruktur im Verkehrsblatt veröffentlicht.
 
 
 ## § 5 Zuwasserlassen, Herausnehmen aus dem Wasser
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000600000)
 
 Wassermotorräder dürfen nur auf befestigten Zugängen, wie Slipanlagen
 oder Rampen, oder mittels geeigneter Kranvorrichtungen zu Wasser
@@ -204,6 +210,7 @@ gelassen oder aus dem Wasser herausgenommen werden.
 
 
 ## § 6 Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000702305)
 
 (1) Das Führen von Wassermotorrädern ist auf den freigegebenen
 Wasserflächen nur in der Zeit von 7.00 Uhr bis 20.00 Uhr, jedoch nicht
@@ -235,6 +242,7 @@ genannten Verpflichtungen geführt wird.
 
 
 ## § 7 Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000801305)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 durch Rechtsverordnung für einzelne zum Verkehr mit Wassermotorrädern
@@ -260,6 +268,7 @@ Regelungen zu treffen, insbesondere
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE000900000)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -296,11 +305,13 @@ fahrlässig
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE001003308)
 
 (weggefallen)
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wasmotrv/BJNR076900995.html#BJNR076900995BJNE001100000)
 
 Diese Verordnung tritt am 15. Juni 1995 in Kraft.
 

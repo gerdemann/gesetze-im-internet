@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2018/BJNR397600017.html#BJNR397600017BJNE000100000)
 
 Auf Grund des § 160 Nummer 1 in Verbindung mit § 158 Absatz 1 bis 3
 des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung
@@ -30,6 +31,7 @@ geändert worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2018/BJNR397600017.html#BJNR397600017BJNE000200000)
 
 Der Beitragssatz für das Jahr 2018 beträgt in der allgemeinen
 Rentenversicherung 18,6 Prozent und in der knappschaftlichen
@@ -37,11 +39,13 @@ Rentenversicherung 24,7 Prozent.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2018/BJNR397600017.html#BJNR397600017BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2018/BJNR397600017.html#BJNR397600017BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

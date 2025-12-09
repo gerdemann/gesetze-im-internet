@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000100000)
 
 (1) Dieses Gesetz dient der Ausführung der Verordnung (EU) 2017/1939
 des Rates vom 12. Oktober 2017 zur Durchführung einer Verstärkten
@@ -38,6 +39,7 @@ Recht der Europäischen Union, im Besonderen die Verordnung (EU)
 
 
 ## § 2 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000200000)
 
 Ist die Europäische Staatsanwaltschaft nach den Artikeln 22 und 23 der
 Verordnung (EU) 2017/1939 zuständig und hat sie gemäß Artikel 25
@@ -50,6 +52,7 @@ in diesem Gesetz etwas anderes bestimmt ist.
 
 
 ## § 3 Anwendbarkeit von Vorschriften der Strafprozessordnung über das Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000300000)
 
 (1) Wenn die Europäische Staatsanwaltschaft nach den Artikeln 22 und
 23 der Verordnung (EU) 2017/1939 zuständig ist und gemäß Artikel 25
@@ -103,6 +106,7 @@ kann.
 
 
 ## § 4 Anwendbarkeit datenschutzrechtlicher Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000400000)
 
 (1) § 161 Absatz 2 und die §§ 483 bis 491 der Strafprozessordnung sind
 auf die Verarbeitung personenbezogener Daten durch die Europäische
@@ -127,6 +131,7 @@ anzuwenden.
 
 
 ## § 5 Anwendbarkeit des Gerichtsverfassungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000500000)
 
 (1) Die Delegierten Europäischen Staatsanwälte sind in dieser
 Eigenschaft ausschließlich den Weisungen und der Aufsicht nach Maßgabe
@@ -141,6 +146,7 @@ verursacht worden und diesen zuzurechnen ist.
 
 
 ## § 6 Anwendbarkeit des Gesetzes über die internationale Rechtshilfe in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000600000)
 
 (1) Das Gesetz über die internationale Rechtshilfe in Strafsachen ist
 auf grenzüberschreitende Ermittlungen gemäß Artikel 31 der Verordnung
@@ -208,6 +214,7 @@ geführten Ermittlungsverfahrens verfügt.
 
 
 ## § 7 Anwendbarkeit der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000700000)
 
 (1) § 386 Absatz 2 und 4 Satz 3 der Abgabenordnung ist nicht
 anzuwenden, wenn die Europäische Staatsanwaltschaft gemäß den Artikeln
@@ -234,6 +241,7 @@ einzuleiten.
 
 
 ## § 8 Anwendbarkeit des Gesetzes über die Entschädigung für Strafverfolgungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000800000)
 
 Das Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen ist
 nicht anzuwenden, wenn die Strafverfolgungsmaßnahme auf einer
@@ -246,6 +254,7 @@ anwendbar.
 
 
 ## § 9 Anwendbarkeit des Rechtspflegergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE000900000)
 
 § 31 Absatz 1 des Rechtspflegergesetzes ist nicht anzuwenden. Der mit
 den Ermittlungen betraute Delegierte Europäische Staatsanwalt kann dem
@@ -254,6 +263,7 @@ Geschäfte im Einzelfall übertragen.
 
 
 ## § 10 Strafvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE001000000)
 
 (1) Aufgaben der Staatsanwaltschaft im Vollstreckungsverfahren nimmt
 abweichend von § 142b Absatz 1 des Gerichtsverfassungsgesetzes die
@@ -269,6 +279,7 @@ Europäischen Staatsanwalt Gelegenheit zur Stellungnahme geben.
 
 
 ## § 11 Anwendbarkeit des Gesetzes über Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE001100000)
 
 (1) Die Europäische Staatsanwaltschaft ist auch für die Verfolgung der
 Tat unter dem rechtlichen Gesichtspunkt einer Ordnungswidrigkeit gemäß
@@ -293,6 +304,7 @@ Gesetzes über Ordnungswidrigkeiten gilt § 10 Absatz 1 entsprechend.
 
 
 ## § 12 Mitteilungspflichten des Delegierten Europäischen Staatsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE001200000)
 
 (1) Hat die Europäische Staatsanwaltschaft gemäß Artikel 26 Absatz 1
 der Verordnung (EU) 2017/1939 ein Ermittlungsverfahren eingeleitet
@@ -312,6 +324,7 @@ ist, wenn die Europäische Staatsanwaltschaft nicht die Verfolgung
 
 
 ## § 13 Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE001300000)
 
 Soweit erforderlich, können die Delegierten Europäischen Staatsanwälte
 die in § 142 Absatz 1 Nummer 2 und 3 des Gerichtsverfassungsgesetzes
@@ -321,6 +334,7 @@ der Verordnung (EU) 2017/1939 ersuchen.
 
 
 ## § 14 Gleichstellung mit Amtsträgern
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE001400000)
 
 Für die Anwendung des Strafgesetzbuches stehen die Delegierten
 Europäischen Staatsanwälte und der deutsche Europäische Staatsanwalt
@@ -329,6 +343,7 @@ Amtsträger erfasst sind.
 
 
 ## § 15 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/eustag/BJNR164810020.html#BJNR164810020BJNE001500000)
 
 Durch dieses Gesetz werden die Grundrechte der körperlichen
 Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der

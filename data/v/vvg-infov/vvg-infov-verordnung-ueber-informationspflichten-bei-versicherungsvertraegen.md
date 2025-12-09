@@ -32,6 +32,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000100000)
 
 Auf Grund des § 7 Abs. 2 und 3 des Versicherungsvertragsgesetzes vom
 23\. November 2007 (BGBl. I S. 2631) verordnet das Bundesministerium
@@ -41,6 +42,7 @@ und Verbraucherschutz:
 
 
 ## § 1 Informationspflichten bei allen Versicherungszweigen
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000201119)
 
 (1) Der Versicherer hat dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz
 1 des Versicherungsvertragsgesetzes folgende Informationen zur
@@ -186,6 +188,7 @@ hervorgehobenen und deutlich gestalteten Form.
 
 
 ## § 2 Informationspflichten bei der Lebensversicherung, der Berufsunfähigkeitsversicherung und der Unfallversicherung mit Prämienrückgewähr
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000304360)
 
 (1) Bei der Lebensversicherung hat der Versicherer dem
 Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des
@@ -307,6 +310,7 @@ Zertifizierungsgesetzes.
 
 
 ## § 3 Informationspflichten bei der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000404119)
 
 (1) Bei der substitutiven Krankenversicherung (§ 146 Absatz 1 des
 Versicherungsaufsichtsgesetzes) hat der Versicherer dem
@@ -371,6 +375,7 @@ stellen:
 
 
 ## § 4 Informationsblatt zu Versicherungsprodukten
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000504119)
 
 (1) Ist der Versicherungsnehmer ein Verbraucher, so hat der
 Versicherer ihm ein Informationsblatt zu Versicherungsprodukten zur
@@ -409,6 +414,7 @@ Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom
 
 
 ## § 5 Informationspflichten bei Telefongesprächen
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000600000)
 
 (1) Nimmt der Versicherer mit dem Versicherungsnehmer telefonischen
 Kontakt auf, muss er seine Identität und den geschäftlichen Zweck des
@@ -429,6 +435,7 @@ unberührt.
 
 
 ## § 6 Informationspflichten während der Laufzeit des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000701118)
 
 (1) Der Versicherer hat dem Versicherungsnehmer während der Laufzeit
 des Versicherungsvertrages folgende Informationen mitzuteilen:
@@ -480,6 +487,7 @@ dem 1. Januar 2013 ist der Übertragungswert jährlich mitzuteilen.
 
 
 ## § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/vvg-infov/BJNR300400007.html#BJNR300400007BJNE000801118)
 
 Für Versicherungsprodukte, die weder Versicherungsanlageprodukt im
 Sinne der Verordnung (EU) Nr. 1286/2014 noch Versicherungsprodukt im

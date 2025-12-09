@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2007/BJNR231500007.html#BJNR231500007BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2007/BJNR231500007.html#BJNR231500007BJNE000200000)
 
 Aus dem Geschäftsbereich des Bundesministeriums für Gesundheit geht
 unter teilweiser Aufhebung des Organisationserlasses des
@@ -39,6 +41,7 @@ Bundeskanzleramtes geregelt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2007/BJNR231500007.html#BJNR231500007BJNE000300000)
 
 Die Bundeskanzlerin
 

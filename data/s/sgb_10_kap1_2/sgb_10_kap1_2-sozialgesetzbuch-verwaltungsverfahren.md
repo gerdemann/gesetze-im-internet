@@ -22,39 +22,48 @@ Zehntes Buch (X)
 Verwaltungsverfahren, Schutz der Sozialdaten,
 
 ## Art I - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNG000100319)
 
 
 
 ## Art II - Übergangs- und Schlußvorschriften zum Zehnten Buch Sozialgesetzbuch sowie weitere Änderungen von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNG001800319)
 
 
 
 ### Erster Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNG001901308)
 
 
 
 ### (XXXX) §§ 1 bis 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNE010801308)
 
 
 
 ### Zweiter Abschnitt - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNG002001308)
 
 
 
 ### (XXXX) §§ 37 u. 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNE010901308)
 
 
 
 ### Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNG002100319)
 
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNE011101308)
 
 (weggefallen)
 
 
 ### § 40 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10_kap1_2/BJNR014699980.html#BJNR014699980BJNE011200319)
 
 (1) Dieses Gesetz tritt am 1. Januar 1981 in Kraft, soweit in den
 Absätzen 2 bis 7 nichts anderes bestimmt ist.

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich, Ziel des Mutterschutzes
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000200000)
 
 (1) Dieses Gesetz schützt die Gesundheit der Frau und ihres Kindes am
 Arbeits-, Ausbildungs- und Studienplatz während der Schwangerschaft,
@@ -96,6 +98,7 @@ geboren hat oder stillt. Die Absätze 2 und 3 gelten entsprechend.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000301129)
 
 (1) Arbeitgeber im Sinne dieses Gesetzes ist die natürliche oder
 juristische Person oder die rechtsfähige Personengesellschaft, die
@@ -181,12 +184,15 @@ oder einem anderen Gesetz Abweichendes geregelt ist.
 
 
 ## Abschnitt 2 - Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000200000)
 
 
 ### Unterabschnitt 1 - Arbeitszeitlicher Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000300000)
 
 
 #### § 3 Schutzfristen vor und nach der Entbindung
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000401129)
 
 (1) Der Arbeitgeber darf eine schwangere Frau in den letzten sechs
 Wochen vor der Entbindung nicht beschäftigen (Schutzfrist vor der
@@ -264,6 +270,7 @@ Zukunft widerrufen. Die Absätze 1 bis 3 gelten nicht.
 
 
 #### § 4 Verbot der Mehrarbeit; Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000500000)
 
 (1) Der Arbeitgeber darf eine schwangere oder stillende Frau, die 18
 Jahre oder älter ist, nicht mit einer Arbeit beschäftigen, die die
@@ -284,6 +291,7 @@ mindestens elf Stunden gewähren.
 
 
 #### § 5 Verbot der Nachtarbeit
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000600000)
 
 (1) Der Arbeitgeber darf eine schwangere oder stillende Frau nicht
 zwischen 20 Uhr und 6 Uhr beschäftigen. Er darf sie bis 22 Uhr
@@ -312,6 +320,7 @@ Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
 
 
 #### § 6 Verbot der Sonn- und Feiertagsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000700000)
 
 (1) Der Arbeitgeber darf eine schwangere oder stillende Frau nicht an
 Sonn- und Feiertagen beschäftigen. Er darf sie an Sonn- und Feiertagen
@@ -364,6 +373,7 @@ Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
 
 
 #### § 7 Freistellung für Untersuchungen und zum Stillen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000800000)
 
 (1) Der Arbeitgeber hat eine Frau für die Zeit freizustellen, die zur
 Durchführung der Untersuchungen im Rahmen der Leistungen der
@@ -384,6 +394,7 @@ eine Ruhepause von mehr als zwei Stunden unterbrochen wird.
 
 
 #### § 8 Beschränkung von Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE000900000)
 
 (1) Der Auftraggeber oder Zwischenmeister darf Heimarbeit an eine
 schwangere in Heimarbeit beschäftigte Frau oder an eine ihr
@@ -399,9 +410,11 @@ siebenstündigen Tagesarbeitszeit ausgeführt werden kann.
 
 
 ### Unterabschnitt 2 - Betrieblicher Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000400000)
 
 
 #### § 9 Gestaltung der Arbeitsbedingungen; unverantwortbare Gefährdung
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001001129)
 
 (1) Der Arbeitgeber hat bei der Gestaltung der Arbeitsbedingungen
 einer schwangeren oder stillenden Frau alle aufgrund der
@@ -457,6 +470,7 @@ vorzulegen hat, trägt der Arbeitgeber.
 
 
 #### § 10 Beurteilung der Arbeitsbedingungen; Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001101126)
 
 (1) Im Rahmen der Beurteilung der Arbeitsbedingungen nach § 5 des
 Arbeitsschutzgesetzes hat der Arbeitgeber für jede Tätigkeit
@@ -506,6 +520,7 @@ Schutzmaßnahmen nach Absatz 2 Satz 1 getroffen hat.
 
 
 #### § 11 Unzulässige Tätigkeiten und Arbeitsbedingungen für schwangere Frauen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001200000)
 
 (1) Der Arbeitgeber darf eine schwangere Frau keine Tätigkeiten
 ausüben lassen und sie keinen Arbeitsbedingungen aussetzen, bei denen
@@ -710,6 +725,7 @@ ausüben lassen:
 
 
 #### § 12 Unzulässige Tätigkeiten und Arbeitsbedingungen für stillende Frauen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001300000)
 
 (1) Der Arbeitgeber darf eine stillende Frau keine Tätigkeiten ausüben
 lassen und sie keinen Arbeitsbedingungen aussetzen, bei denen sie in
@@ -791,6 +807,7 @@ ausüben lassen:
 
 
 #### § 13 Rangfolge der Schutzmaßnahmen: Umgestaltung der Arbeitsbedingungen, Arbeitsplatzwechsel und betriebliches Beschäftigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001400000)
 
 (1) Werden unverantwortbare Gefährdungen im Sinne von § 9, § 11 oder §
 12 festgestellt, hat der Arbeitgeber für jede Tätigkeit einer
@@ -827,6 +844,7 @@ ausgeschlossen werden können.
 
 
 #### § 14 Dokumentation und Information durch den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001500000)
 
 (1) Der Arbeitgeber hat die Beurteilung der Arbeitsbedingungen nach §
 10 durch Unterlagen zu dokumentieren, aus denen Folgendes ersichtlich
@@ -868,6 +886,7 @@ Absatz 2 Satz 1 in Verbindung mit § 13 zu informieren.
 
 
 #### § 15 Mitteilungen und Nachweise der schwangeren und stillenden Frauen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001600000)
 
 (1) Eine schwangere Frau soll ihrem Arbeitgeber ihre Schwangerschaft
 und den voraussichtlichen Tag der Entbindung mitteilen, sobald sie
@@ -882,9 +901,11 @@ Entbindung enthalten.
 
 
 ### Unterabschnitt 3 - Ärztlicher Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000500000)
 
 
 #### § 16 Ärztliches Beschäftigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001700000)
 
 (1) Der Arbeitgeber darf eine schwangere Frau nicht beschäftigen,
 soweit nach einem ärztlichen Zeugnis ihre Gesundheit oder die ihres
@@ -897,9 +918,11 @@ ist, nicht mit Arbeiten beschäftigen, die ihre Leistungsfähigkeit
 
 
 ## Abschnitt 3 - Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000600000)
 
 
 ### § 17 Kündigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001800000)
 
 (1) Die Kündigung gegenüber einer Frau ist unzulässig
 
@@ -944,9 +967,11 @@ eine ihr Gleichgestellte entsprechend.
 
 
 ## Abschnitt 4 - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000700000)
 
 
 ### § 18 Mutterschutzlohn
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE001900000)
 
 Eine Frau, die wegen eines Beschäftigungsverbots außerhalb der
 Schutzfristen vor oder nach der Entbindung teilweise oder gar nicht
@@ -961,6 +986,7 @@ Arbeitsentgelt der ersten drei Monate der Beschäftigung zu berechnen.
 
 
 ### § 19 Mutterschaftsgeld
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002001126)
 
 (1) Eine Frau, die Mitglied einer gesetzlichen Krankenkasse ist,
 erhält für die Zeit der Schutzfristen vor und nach der Entbindung
@@ -982,6 +1008,7 @@ Beschäftigungsverhältnisses.
 
 
 ### § 20 Zuschuss zum Mutterschaftsgeld
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002100000)
 
 (1) Eine Frau erhält während ihres bestehenden
 Beschäftigungsverhältnisses für die Zeit der Schutzfristen vor und
@@ -1014,6 +1041,7 @@ Buches Sozialgesetzbuch den Zuschuss nach Absatz 1 nicht zahlen kann.
 
 
 ### § 21 Ermittlung des durchschnittlichen Arbeitsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002200000)
 
 (1) Bei der Bestimmung des Berechnungszeitraumes für die Ermittlung
 des durchschnittlichen Arbeitsentgelts für die Leistungen nach den §§
@@ -1066,6 +1094,7 @@ legen, und zwar
 
 
 ### § 22 Leistungen während der Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002300000)
 
 Während der Elternzeit sind Ansprüche auf Leistungen nach den §§ 18
 und 20 aus dem wegen der Elternzeit ruhenden Arbeitsverhältnis
@@ -1076,6 +1105,7 @@ zugrunde zu legen.
 
 
 ### § 23 Entgelt bei Freistellung für Untersuchungen und zum Stillen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002400000)
 
 (1) Durch die Gewährung der Freistellung nach § 7 darf bei der
 schwangeren oder stillenden Frau kein Entgeltausfall eintreten.
@@ -1094,6 +1124,7 @@ Heimarbeitsgesetzes über den Entgeltschutz Anwendung.
 
 
 ### § 24 Fortbestehen des Erholungsurlaubs bei Beschäftigungsverboten
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002500000)
 
 Für die Berechnung des Anspruchs auf bezahlten Erholungsurlaub gelten
 die Ausfallzeiten wegen eines Beschäftigungsverbots als
@@ -1104,6 +1135,7 @@ oder im nächsten Urlaubsjahr beanspruchen.
 
 
 ### § 25 Beschäftigung nach dem Ende des Beschäftigungsverbots
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002600000)
 
 Mit dem Ende eines Beschäftigungsverbots im Sinne von § 2 Absatz 3 hat
 eine Frau das Recht, entsprechend den vertraglich vereinbarten
@@ -1111,9 +1143,11 @@ Bedingungen beschäftigt zu werden.
 
 
 ## Abschnitt 5 - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000800000)
 
 
 ### § 26 Aushang des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002700000)
 
 (1) In Betrieben und Verwaltungen, in denen regelmäßig mehr als drei
 Frauen beschäftigt werden, hat der Arbeitgeber eine Kopie dieses
@@ -1130,6 +1164,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 27 Mitteilungs- und Aufbewahrungspflichten des Arbeitgebers, Offenbarungsverbot der mit der Überwachung beauftragten Personen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002800000)
 
 (1) Der Arbeitgeber hat die Aufsichtsbehörde unverzüglich zu
 benachrichtigen,
@@ -1216,6 +1251,7 @@ Offenbarung nach dem Umweltinformationsgesetz.
 
 
 ### § 28 Behördliches Genehmigungsverfahren für eine Beschäftigung zwischen 20 Uhr und 22 Uhr
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE002900000)
 
 (1) Die Aufsichtsbehörde kann abweichend von § 5 Absatz 1 Satz 1 auf
 Antrag des Arbeitgebers genehmigen, dass eine schwangere oder
@@ -1259,6 +1295,7 @@ Verwaltungsverfahrensgesetzes.
 
 
 ### § 29 Zuständigkeit und Befugnisse der Aufsichtsbehörden, Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE003000000)
 
 (1) Die Aufsicht über die Ausführung der Vorschriften dieses Gesetzes
 und der aufgrund dieses Gesetzes erlassenen Vorschriften obliegt den
@@ -1358,6 +1395,7 @@ Mutterschutz betreffen.
 
 
 ### § 30 Ausschuss für Mutterschutz
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE003100000)
 
 (1) Beim Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird ein Ausschuss für Mutterschutz gebildet, in dem geeignete
@@ -1420,6 +1458,7 @@ Bundesamt für Familie und zivilgesellschaftliche Aufgaben geführt.
 
 
 ### § 31 Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE003200000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Folgendes zu regeln:
@@ -1457,9 +1496,11 @@ Zustimmung des Bundesrates Folgendes zu regeln:
 
 
 ## Abschnitt 6 - Bußgeldvorschriften, Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG000900000)
 
 
 ### § 32 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE003302129)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1548,6 +1589,7 @@ werden.
 
 
 ### § 33 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE003400000)
 
 Wer eine in § 32 Absatz 1 Nummer 1 bis 5, 8, 16 und 17 bezeichnete
 vorsätzliche Handlung begeht und dadurch die Gesundheit der Frau oder
@@ -1556,9 +1598,11 @@ oder mit Geldstrafe bestraft.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNG001000000)
 
 
 ### § 34 Evaluationsbericht
+[Direktlink](https://www.gesetze-im-internet.de/muschg_2018/BJNR122810017.html#BJNR122810017BJNE003500000)
 
 Die Bundesregierung legt dem Deutschen Bundestag zum 1. Januar 2021
 einen Evaluationsbericht über die Auswirkungen des Gesetzes vor.

@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1975/BJNR005250975.html#BJNR005250975BJNE000100304)
 
 -
 
 
 ## Art 2 Unterrichtung des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1975/BJNR005250975.html#BJNR005250975BJNE000201309)
 
 Die zuständigen obersten Landesbehörden unterrichten den
 Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit jeweils
@@ -34,11 +36,13 @@ begünstigten Investitionen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1975/BJNR005250975.html#BJNR005250975BJNE000300304)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1975/BJNR005250975.html#BJNR005250975BJNE000400304)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -46,6 +50,7 @@ S. 1) auch im Land Berlin.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1975/BJNR005250975.html#BJNR005250975BJNE000500304)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -19,17 +19,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkprtg/BJNR204730968.html#BJNR204730968BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkprtg/BJNR204730968.html#BJNR204730968BJNE000200314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkprtg/BJNR204730968.html#BJNR204730968BJNE000300314)
 
 Ergeben sich aus der Durchführung des Abkommens, der
 Zusatzvereinbarung und des Zusatzprotokolls für einzelne Träger der
@@ -44,17 +47,20 @@ Mitgliederzahl des Vorjahres, einschließlich der Rentner, aufgebracht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkprtg/BJNR204730968.html#BJNR204730968BJNE000400314)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkprtg/BJNR204730968.html#BJNR204730968BJNE000500314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkprtg/BJNR204730968.html#BJNR204730968BJNE000600314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

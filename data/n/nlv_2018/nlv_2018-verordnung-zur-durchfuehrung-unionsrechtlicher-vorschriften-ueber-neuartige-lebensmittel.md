@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2125-43 v. 19.5.1998 I 1125
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nlv_2018/BJNR352000017.html#BJNR352000017BJNE000100000)
 
 Auf Grund des § 47 Absatz 2 Satz 1 Nummer 1 und des § 65 Satz 1 Nummer
 3 des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der
@@ -29,6 +30,7 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/nlv_2018/BJNR352000017.html#BJNR352000017BJNE000202130)
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 zuständige Stelle für
@@ -86,6 +88,7 @@ zuständige Stelle für
 
 
 ## § 2 Verkehrsverbot
+[Direktlink](https://www.gesetze-im-internet.de/nlv_2018/BJNR352000017.html#BJNR352000017BJNE000600130)
 
 (1) Es ist verboten, ein neuartiges Lebensmittel, das die in Satz 2
 beschriebenen Höchstgehalte nicht einhält, in den Verkehr zu bringen
@@ -231,6 +234,7 @@ Zusammensetzung betreffen und
 
 
 ## § 3 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nlv_2018/BJNR352000017.html#BJNR352000017BJNE000501130)
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Absatz 1 Satz
@@ -260,6 +264,7 @@ Futtermittelgesetzbuches ordnungswidrig.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nlv_2018/BJNR352000017.html#BJNR352000017BJNE000301130)
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt
 die Neuartige Lebensmittel- und Lebensmittelzutaten-Verordnung in der
@@ -269,6 +274,7 @@ zuletzt durch Artikel 13 der Verordnung vom 5. Juli 2017 (BGBl. I S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/nlv_2018/BJNR352000017.html#BJNR352000017BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

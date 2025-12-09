@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000100000)
 
 Auf Grund des § 23 Absatz 4 und des § 24 Absatz 4 des
 Betreuungsorganisationsgesetzes, von denen § 23 Absatz 4 durch Artikel
@@ -27,6 +28,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000200000)
 
 (1) Diese Verordnung dient der Sicherung der Qualität in der
 rechtlichen Betreuung und soll gewährleisten, dass berufliche Betreuer
@@ -58,6 +60,7 @@ verantwortungsvoll auszuüben.
 
 
 ## § 2 Persönliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000300000)
 
 Der Antragsteller muss die Gewähr dafür bieten, seine Aufgaben als
 rechtlicher Betreuer, insbesondere diejenigen, die sich aus § 1821 des
@@ -65,6 +68,7 @@ Bürgerlichen Gesetzbuchs ergeben, erfüllen zu können.
 
 
 ## § 3 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000400000)
 
 (1) Die nach § 23 Absatz 3 Satz 2 Nummer 1 des
 Betreuungsorganisationsgesetzes erforderliche Sachkunde umfasst
@@ -156,6 +160,7 @@ bestimmten Modulen.
 
 
 ## § 4 Nachweis der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000500000)
 
 Die erforderliche Sachkunde ist wie folgt nachzuweisen:
 
@@ -174,6 +179,7 @@ Die erforderliche Sachkunde ist wie folgt nachzuweisen:
 
 
 ## § 5 Nachweis der Sachkunde durch betreuungsspezifische Studien-, Aus- oder Weiterbildungsgänge
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000600000)
 
 (1) Die erforderliche Sachkunde kann durch ein Zeugnis über den
 erfolgreichen Abschluss eines nach Absatz 2 Satz 1 anerkannten
@@ -192,6 +198,7 @@ in der Anlage konkretisierten Inhalte vermitteln.
 
 
 ## § 6 Nachweis der Sachkunde durch Sachkundelehrgang
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000700000)
 
 (1) Die erforderliche Sachkunde kann durch ein Zeugnis über den
 erfolgreichen Abschluss eines nach § 8 Absatz 1 anerkannten
@@ -209,6 +216,7 @@ erfolgreichen Abschluss des Moduls nachweist.
 
 
 ## § 7 Anderweitiger Nachweis der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000800000)
 
 (1) Die erforderliche Sachkunde kann auch durch Zeugnisse oder
 sonstige Leistungsnachweise über nicht nach § 5 Absatz 2 und 3
@@ -251,6 +259,7 @@ abgeschlossen haben, als nachgewiesen.
 
 
 ## § 8 Anerkennung von Sachkundelehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE000900000)
 
 (1) Ein Sachkundelehrgang ist auf Antrag des Anbieters von der nach
 Landesrecht zuständigen Behörde anzuerkennen, wenn
@@ -329,6 +338,7 @@ einzelner in der Anlage aufgeführter Module.
 
 
 ## § 9 Anerkennung im Ausland erworbener Berufsqualifikationen; Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen als beruflicher Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001000000)
 
 (1) Als Nachweis der erforderlichen Sachkunde durch einen
 Staatsangehörigen eines Mitgliedstaates der Europäischen Union oder
@@ -422,6 +432,7 @@ Gewerbeordnung mit den Maßgaben entsprechend anzuwenden, dass
 
 
 ## § 10 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001100000)
 
 (1) Von der Berufshaftpflichtversicherung nach § 23 Absatz 1 Nummer 3
 des Betreuungsorganisationsgesetzes kann insbesondere die Haftung für
@@ -461,6 +472,7 @@ entsprechenden Versicherungsschutzes für diesen Mitarbeiter ergibt.
 
 
 ## § 11 Mitteilung der Organisationsstruktur
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001200000)
 
 Die Mitteilung der beabsichtigten Organisationsstruktur der
 beruflichen Betreuertätigkeit nach § 24 Absatz 1 Satz 3 des
@@ -481,6 +493,7 @@ umfassen:
 
 
 ## § 12 Gespräch zur Feststellung der persönlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001300000)
 
 (1) Die Stammbehörde soll das Gespräch mit dem Antragsteller zur
 Feststellung der persönlichen Eignung nach § 24 Absatz 2 des
@@ -494,6 +507,7 @@ anderen Behörde hinzuziehen.
 
 
 ## § 13 Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001400000)
 
 (1) Anträge nach § 24 Absatz 1 Satz 1 des
 Betreuungsorganisationsgesetzes sind in Textform zu stellen.
@@ -512,6 +526,7 @@ Sprache verlangt werden.
 
 
 ## § 14 Aufbewahrungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001500000)
 
 Folgende Akten und elektronische Akten sind für einen Zeitraum von
 zehn Jahren nach der Beendigung des Verfahrens aufzubewahren:
@@ -528,6 +543,7 @@ zehn Jahren nach der Beendigung des Verfahrens aufzubewahren:
 
 
 ## § 15 Übergangsvorschrift zu § 32 Absatz 2 Satz 2 des Betreuungsorganisationsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001600000)
 
 Abweichend von § 7 kann die Stammbehörde Antragsteller nach § 32
 Absatz 2 Satz 2 des Betreuungsorganisationsgesetzes auch dann
@@ -539,17 +555,20 @@ Sachkundelehrgangs im Wesentlichen entsprechen.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001700000)
 
 Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001800000)
 
 Der Bundesrat hat zugestimmt.
 
 zu § 3 Absatz 4
 
 ## Anlage Inhaltliche Anforderungen an die Sachkunde (Module)
+[Direktlink](https://www.gesetze-im-internet.de/btregv/BJNR115400022.html#BJNR115400022BJNE001900000)
 
 (Fundstelle: BGBl. I 2022, 1159 - 1161)
 

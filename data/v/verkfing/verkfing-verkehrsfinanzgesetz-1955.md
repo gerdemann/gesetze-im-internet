@@ -20,27 +20,33 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - 
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000100314)
 
 
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001000314)
 
 
 ## Abschnitt II - Änderung des Beförderungssteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000200314)
 
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001100314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001200314)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001300314)
 
 (1) Die Bundesregierung wird ermächtigt, Rechtsverordnungen zu
 erlassen über
@@ -75,18 +81,22 @@ als Personenkraftwagen behandelt werden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001400314)
 
 -
 
 
 ## Abschnitt III - Änderung des Mineralölsteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000300314)
 
 
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001500314)
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001600314)
 
 (1) Eine Betriebsbeihilfe für versteuertes Gasöl wird gewährt an
 Inhaber von Verkehrsbetrieben für das Gasöl, das bis zum 30. Juni 1983
@@ -150,10 +160,12 @@ Verfahren auch Selbstverwaltungsorganen, z. B. Berufsgenossenschaften,
 
 
 ## Abschnitt IV - Finanzierung des Baues von Bundesautobahnen
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000400314)
 
 
 
 ## Art 1 Gesellschaft für Autobahnfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001703305)
 
 (1) Die Bundesregierung wird ermächtigt, durch die Bundesministerien
 für Verkehr und digitale Infrastruktur und der Finanzen eine
@@ -170,11 +182,13 @@ Bundesfernstraßen im Sinne des Bundesfernstraßengesetzes vom 6. August
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001800314)
 
 -
 
 
 ## Art 3 Bürgschaftsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE001901308)
 
 Das Bundesministerium der Finanzen wird ermächtigt, für
 Schuldverpflichtungen, welche die Gesellschaft für die Finanzierung
@@ -185,6 +199,7 @@ Millionen Deutsche Mark in inländischer oder ausländischer Währung zu
 
 
 ## Art 4 Mittelverwendung und Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002000314)
 
 (1) Die Gesellschaft ist durch den Vertrag nach Artikel 1 zu
 verpflichten,
@@ -208,6 +223,7 @@ Baudurchführung zuständigen Stellen als Zuschuß zur Verfügung.
 
 
 ## Art 5 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002100314)
 
 (1) Die Gesellschaft rechnet die ihr zugewiesenen Mittel mit der
 überweisenden Stelle des Bundes ab. Die für die Baudurchführung
@@ -219,6 +235,7 @@ Bundesrechnungshof geprüft.
 
 
 ## Art 6 Steuerliche Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002200314)
 
 (1) Auf Schuldverpflichtungen, welche die Gesellschaft für die
 Finanzierung des Baues von Bundesautobahnen eingeht, sind § 8 Ziff. 1
@@ -228,10 +245,12 @@ und § 12 Abs. 2 Ziff. 1 des Gewerbesteuergesetzes nicht anzuwenden.
 
 
 ## Abschnitt V - Finanzierung der Erneuerung von Anlagen der Deutschen Bundesbahn
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000500314)
 
 
 
 ## Art 1 Gesellschaft für Bundesbahnfinanzierungen
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002303305)
 
 (1) Die Bundesregierung wird ermächtigt, durch die Bundesministerien
 für Verkehr und digitale Infrastruktur und der Finanzen eine
@@ -250,11 +269,13 @@ werden hierdurch nicht berührt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002400314)
 
 -
 
 
 ## Art 3 Bürgschaftsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002501308)
 
 Das Bundesministerium der Finanzen wird ermächtigt, für
 Schuldverpflichtungen, welche die Gesellschaft für die Finanzierung
@@ -265,6 +286,7 @@ inländischer oder ausländischer Währung zu übernehmen.
 
 
 ## Art 4 Mittelverwendung und Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002603305)
 
 (1) Die Gesellschaft ist durch den Vertrag nach Artikel 1 zu
 verpflichten,
@@ -298,6 +320,7 @@ Finanzen bedarf.
 
 
 ## Art 5 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002700314)
 
 Die Gesellschaft rechnet die ihr zugewiesenen Mittel mit der
 überweisenden Stelle des Bundes ab. Die Rechnung und die Verwendung
@@ -306,6 +329,7 @@ Bundesrechnungshof geprüft.
 
 
 ## Art 6 Übergang von Ansprüchen auf den Bund
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002803305)
 
 (1) Soweit die Deutsche Bundesbahn aus den Finanzierungsbeiträgen nach
 Artikel 2 Kredite erhalten hat oder die Finanzierungsbeiträge zur
@@ -322,6 +346,7 @@ der Finanzen der Deutschen Bundesbahn erforderlich ist.
 
 
 ## Art 7 Steuerliche Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE002900314)
 
 (1) Auf Schuldverpflichtungen, welche die Gesellschaft für die
 Finanzierung von Verkehrsanlagen und rollendem Material der Deutschen
@@ -332,6 +357,7 @@ Gewerbesteuergesetzes nicht anzuwenden.
 
 
 ## Art 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003000314)
 
 (1) Soweit die Bundesregierung von ihrer Ermächtigung nach Artikel 1
 Abs. 1 keinen Gebrauch macht, leistet der Bund die
@@ -343,29 +369,35 @@ entsprechend.
 
 
 ## Abschnitt VI - 
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000600314)
 
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003100314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003200314)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003300314)
 
 -
 
 
 ## Abschnitt VII - 
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000700314)
 
 
 
 ## Abschnitt VIII - Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000800314)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -375,10 +407,12 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Abschnitt IX - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNG000900314)
 
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003400314)
 
 Das Gesetz tritt - soweit nicht in den Artikeln 2 bis 4 für die
 Abschnitte I bis III etwas anderes bestimmt ist - am Tage nach seiner
@@ -386,17 +420,20 @@ Verkündung in Kraft.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003500314)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003600314)
 
 Abschnitt II dieses Gesetzes tritt mit dem Beginn des auf seine
 Verkündung folgenden zweiten Kalendermonats in Kraft.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/verkfing/BJNR001669955.html#BJNR001669955BJNE003700314)
 
 Abschnitt III dieses Gesetzes tritt mit dem Beginn des auf seine
 Verkündung folgenden Kalendermonats in Kraft.

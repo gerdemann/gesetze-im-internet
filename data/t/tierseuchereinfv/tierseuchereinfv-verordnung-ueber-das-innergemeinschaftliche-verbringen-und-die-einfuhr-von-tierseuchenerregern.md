@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNG000100328)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE000601308)
 
 Im Sinne dieser Verordnung sind
 
@@ -69,16 +71,19 @@ Im Sinne dieser Verordnung sind
 
 
 ### § 1a
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001700308)
 
 Das innergemeinschaftliche Verbringen aus anderen Mitgliedstaaten
 (Verbringen) und die Einfuhr von Tierseuchenerregern sind verboten.
 
 
 ## II. - Innergemeinschaftliches Verbringen und Einfuhr von Tierseuchenerregern
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNG000202308)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE000708301)
 
 (1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem
 Bundesministerium für Ernährung und Landwirtschaft das Verbringen und
@@ -132,6 +137,7 @@ insbesondere vorzusehen:
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE000802308)
 
 Die zuständigen obersten Landesbehörden können wissenschaftlich
 geleiteten Einrichtungen und Betrieben für Forschungen oder zur
@@ -152,6 +158,7 @@ insbesondere können folgende Auflagen angeordnet werden:
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE000902308)
 
 Die zuständigen obersten Landesbehörden können wissenschaftlich
 geleiteten Einrichtungen und Betrieben das Verbringen und die Einfuhr
@@ -167,10 +174,12 @@ zusätzlich die Verwendung der Tierseuchenerreger zu beschränken.
 
 
 ## III. - Verbringen und Einfuhr von Impfstoffen und Antigenpräparationen, die Tierseuchenerreger enthalten
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNG000302308)
 
 
 
 ### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001801308)
 
 (1) Das Verbringen und die Einfuhr von Impfstoffen und
 Antigenpräparationen, die Tierseuchenerreger enthalten, sind verboten.
@@ -181,6 +190,7 @@ Chargenprüfung übersandt werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001005301)
 
 (1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem
 Bundesministerium für Ernährung und Landwirtschaft das Verbringen und
@@ -249,6 +259,7 @@ zu versehen. In diesen sind insbesondere vorzusehen:
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001102308)
 
 (1) Die zuständigen obersten Landesbehörden können für Schutzimpfungen
 gegen die in Anlage 2 aufgeführten Tierseuchen das Verbringen und die
@@ -280,6 +291,7 @@ Einrichtungen oder Betriebe abgegeben werden darf.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001205301)
 
 Die zuständigen obersten Landesbehörden können im Benehmen mit dem
 Bundesministerium für Ernährung und Landwirtschaft abweichend von den
@@ -319,10 +331,12 @@ Satz 3 und 4 und Abs. 2 gilt entsprechend.
 
 
 ## IV. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNG000400328)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001304301)
 
 Nach § 31 Absatz 1 Nummer 2, Absatz 3 bis 5 des
 Tiergesundheitsgesetzes wird bestraft, wer vorsätzlich oder fahrlässig
@@ -340,15 +354,18 @@ Tiergesundheitsgesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
 
 ## V. - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNG000500328)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001401308)
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 
 
 ### Anlage 1 (zu den §§ 3 und 4)
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001502308)
 
 
 *    *
@@ -872,6 +889,7 @@ Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 
 
 ### Anlage 2 (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchereinfv/BJNR019600971.html#BJNR019600971BJNE001604377)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2227;
 bzgl. der einzelnen Änderungen vgl. Fußnote

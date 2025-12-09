@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 7849-2-2-17 v. 10.6.2009 I 1269 (EG-ObstGemüseV) u. V 7849-2-2-3 v. 17.6.1996 I 857 (QNormBanV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf
 Grund des § 6a Absatz 1, des § 15 in Verbindung mit § 16, des § 31
@@ -33,6 +34,7 @@ Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000200000)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Union über Vermarktungsnormen für Obst und
@@ -69,6 +71,7 @@ Gemüse, insbesondere der
 
 
 ## § 2 Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000300000)
 
 Der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 wird die Zuständigkeit übertragen für:
@@ -117,6 +120,7 @@ wird die Zuständigkeit übertragen für:
 
 
 ## § 3 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000400000)
 
 (1) Die in Artikel 5 Absatz 2 Buchstabe a und b der Delegierten
 Verordnung (EU) 2023/2429 genannten Erzeugnisse müssen im Bundesgebiet
@@ -135,6 +139,7 @@ Vermarktungsnormen entspricht.
 
 
 ## § 4 Mitteilungspflichten der Länder
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000500000)
 
 (1) Die Länder haben die Kontrollstellen nach Artikel 2 Absatz 1
 Buchstabe b der Durchführungsverordnung (EU) 2023/2430 zu benennen und
@@ -153,6 +158,7 @@ mitzuteilen.
 
 
 ## § 5 Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000600000)
 
 (1) Der Händler ist verpflichtet, zum Zwecke der Kontrollen nach
 Artikel 5 Absatz 1 Satz 1 der Durchführungsverordnung 2023/2430 der
@@ -198,6 +204,7 @@ sein Verweigerungsrecht nach Satz 1 aufzuklären.
 
 
 ## § 6 Verbot, Sicherstellungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000700000)
 
 (1) Es ist verboten, als Händler ein Erzeugnis im Sinne des Artikel 76
 Absatz 1 der Verordnung (EU)
@@ -215,6 +222,7 @@ Durchführungsverordnung (EU) 2023/2430 bewegt wird.
 
 
 ## § 7 Händlerdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000800000)
 
 (1) Die zuständigen Behörden haben im Rahmen ihrer Zuständigkeit
 jeweils eine Händlerdatenbank zu erstellen und zu pflegen, die den
@@ -264,6 +272,7 @@ Händlerdatenbank aufzunehmen.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE000900000)
 
 (1) Ordnungswidrig im Sinne von § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -309,6 +318,7 @@ nach § 2 Nummer 1 für die Überwachung zuständig ist.
 
 
 ## § 9 Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE001000000)
 
 Zum Zwecke der Durchführung und Überwachung der Einhaltung der
 Vorschriften zu den Vermarktungsnormen sowie zur Erstellung der
@@ -321,6 +331,7 @@ Daten an die Bundesanstalt.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE001100000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig treten
 die Verordnung über EU-Normen für Obst und Gemüse vom 10. Juni 2009
@@ -332,6 +343,7 @@ S. 269) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ogvermnormdv/BJNR15B0A0024.html#BJNR15B0A0024BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

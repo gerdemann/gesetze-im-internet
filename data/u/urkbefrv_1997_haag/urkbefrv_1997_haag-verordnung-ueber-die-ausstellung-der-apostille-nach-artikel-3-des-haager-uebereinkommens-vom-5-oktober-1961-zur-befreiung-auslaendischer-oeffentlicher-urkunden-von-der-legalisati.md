@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrv_1997_haag/BJNR287200997.html#BJNR287200997BJNE000100310)
 
 Auf Grund des Artikels 2 des Gesetzes vom 21. Juni 1965 zu dem Haager
 Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer
@@ -32,6 +33,7 @@ die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrv_1997_haag/BJNR287200997.html#BJNR287200997BJNE000201125)
 
 Die Apostille nach Artikel 3 Abs. 1 des Haager Übereinkommens vom 5.
 Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der
@@ -52,6 +54,7 @@ Legalisation stellen aus
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrv_1997_haag/BJNR287200997.html#BJNR287200997BJNE000307125)
 
 Die Gebühr für die Ausstellung der Apostille und für die Prüfung gemäß
 Artikel 7 Absatz 2 des Übereinkommens beträgt je 25 Euro. Im Übrigen
@@ -74,6 +77,7 @@ in der jeweils geltenden Fassung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrv_1997_haag/BJNR287200997.html#BJNR287200997BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

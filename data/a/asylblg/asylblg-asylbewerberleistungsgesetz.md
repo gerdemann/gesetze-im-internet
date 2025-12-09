@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000115130)
 
 (1) Leistungsberechtigt nach diesem Gesetz sind Ausländer, die sich
 tatsächlich im Bundesgebiet aufhalten und die
@@ -171,6 +172,7 @@ Darlehen zu erbringen.
 
 
 ## § 1a Anspruchseinschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001809130)
 
 (1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, für die ein
 Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab dem
@@ -291,6 +293,7 @@ nur Anspruch auf Leistungen entsprechend Absatz 1.
 
 
 ## § 2 Leistungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000215130)
 
 (1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 sind das Zwölfte Buch
 Sozialgesetzbuch und Teil 2 des Neunten Buches Sozialgesetzbuch auf
@@ -358,6 +361,7 @@ Haushaltsgemeinschaft Leistungen nach Absatz 1 erhält.
 
 
 ## § 3 Grundleistungen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000318130)
 
 (1) Leistungsberechtigte nach § 1 erhalten Leistungen zur Deckung des
 Bedarfs an Ernährung, Unterkunft, Heizung, Kleidung, Gesundheitspflege
@@ -419,6 +423,7 @@ durch Landesrecht abgewichen werden.
 
 
 ## § 3a Bedarfssätze der Grundleistungen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002701116)
 
 (1) Wird der notwendige persönliche Bedarf nach § 3 Absatz 1 Satz 2
 vollständig durch Geldleistungen gedeckt, so beträgt dieser monatlich
@@ -563,6 +568,7 @@ neu festgesetzt.
 
 
 ## § 4 Leistungen bei Krankheit, Schwangerschaft und Geburt
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000403116)
 
 (1) Zur Behandlung akuter Erkrankungen und Schmerzzustände sind die
 erforderliche ärztliche und zahnärztliche Behandlung einschließlich
@@ -591,6 +597,7 @@ Vertrag Anwendung findet.
 
 
 ## § 5 Arbeitsgelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000508130)
 
 (1) In Aufnahmeeinrichtungen im Sinne des § 44 des Asylgesetzes und in
 vergleichbaren Einrichtungen sollen Arbeitsgelegenheiten insbesondere
@@ -636,10 +643,12 @@ Arbeitnehmerhaftung finden entsprechende Anwendung.
 
 
 ## § 5a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002600310)
 
 
 
 ## § 5b Sonstige Maßnahmen zur Integration
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002503125)
 
 (1) Die nach diesem Gesetz zuständige Behörde kann arbeitsfähige,
 nicht erwerbstätige Leistungsberechtigte, die das 18. Lebensjahr
@@ -680,6 +689,7 @@ einschließlich Angaben
 
 
 ## § 6 Sonstige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000603310)
 
 (1) Sonstige Leistungen können insbesondere gewährt werden, wenn sie
 im Einzelfall zur Sicherung des Lebensunterhalts oder der Gesundheit
@@ -697,6 +707,7 @@ medizinische oder sonstige Hilfe gewährt.
 
 
 ## § 6a Erstattung von Aufwendungen anderer
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002100116)
 
 Hat jemand in einem Eilfall einem anderen Leistungen erbracht, die bei
 rechtzeitigem Einsetzen von Leistungen nach den §§ 3, 4 und 6 nicht zu
@@ -708,6 +719,7 @@ Asylbewerberleistungsgesetzes beantragt wird.
 
 
 ## § 6b Einsetzen der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002200116)
 
 Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den
 §§ 3, 4 und 6 ist § 18 des Zwölften Buches Sozialgesetzbuch
@@ -715,6 +727,7 @@ entsprechend anzuwenden.
 
 
 ## § 7 Einkommen und Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002901116)
 
 (1) Einkommen und Vermögen, über das verfügt werden kann, sind von dem
 Leistungsberechtigten und seinen Familienangehörigen, die im selben
@@ -819,6 +832,7 @@ Sozialgesetzbuch vorsehen.
 
 
 ## § 7a Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001900320)
 
 Von Leistungsberechtigten kann wegen der ihnen und ihren
 Familienangehörigen zu gewährenden Leistungen nach diesem Gesetz
@@ -829,9 +843,11 @@ erfolgen.
 
 
 ## § 7b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002002116)
 
 
 ## § 8 Leistungen bei Verpflichtung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000805116)
 
 (1) Leistungen nach diesem Gesetz werden nicht gewährt, soweit der
 erforderliche Lebensunterhalt anderweitig, insbesondere auf Grund
@@ -850,6 +866,7 @@ außergewöhnliche Umstände in der Person des Verpflichteten den Einsatz
 
 
 ## § 8a Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001401320)
 
 Leistungsberechtigte, die eine unselbständige oder selbständige
 Erwerbstätigkeit aufnehmen, haben dies spätestens am dritten Tag nach
@@ -857,6 +874,7 @@ Aufnahme der Erwerbstätigkeit der zuständigen Behörde zu melden.
 
 
 ## § 9 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE000908116)
 
 (1) Leistungsberechtigte erhalten keine Leistungen nach dem Zwölften
 Buch Sozialgesetzbuch oder vergleichbaren Landesgesetzen.
@@ -914,6 +932,7 @@ sind entsprechend anzuwenden.
 
 
 ## § 10 Bestimmungen durch Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001001320)
 
 Die Landesregierungen oder die von ihnen beauftragten obersten
 Landesbehörden bestimmen die für die Durchführung dieses Gesetzes
@@ -925,6 +944,7 @@ andere Behörden übertragen.
 
 
 ## § 10a Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001502116)
 
 (1) Für die Leistungen nach diesem Gesetz örtlich zuständig ist die
 nach § 10 bestimmte Behörde, in deren Bereich der Leistungsberechtigte
@@ -979,6 +999,7 @@ gewöhnliche Aufenthalt der Mutter maßgeblich.
 
 
 ## § 10b Kostenerstattung zwischen den Leistungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001602310)
 
 (1) Die nach § 10a Abs. 2 Satz 1 zuständige Behörde hat der Behörde,
 die nach § 10a Abs. 2 Satz 3 die Leistung zu erbringen hat, die
@@ -995,6 +1016,7 @@ seinen gewöhnlichen Aufenthalt im Sinne des § 10a Abs. 2 Satz 1 hatte.
 
 
 ## § 11 Ergänzende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001213130)
 
 (1) Im Rahmen von Leistungen nach diesem Gesetz ist auf die Leistungen
 bestehender Rückführungs- und Weiterwanderungsprogramme, die
@@ -1108,6 +1130,7 @@ gegen einen Verwaltungsakt, mit dem
 
 
 ## § 12 Asylbewerberleistungsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001308116)
 
 (1) Zur Beurteilung der Auswirkungen dieses Gesetzes und zu seiner
 Fortentwicklung werden Erhebungen über
@@ -1296,6 +1319,7 @@ werden.
 
 
 ## § 13 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE001702310)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 8a eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
@@ -1306,6 +1330,7 @@ Euro geahndet werden.
 
 
 ## § 14 Dauer der Anspruchseinschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002301116)
 
 (1) Die Anspruchseinschränkungen nach diesem Gesetz sind auf sechs
 Monate zu befristen.
@@ -1316,6 +1341,7 @@ Voraussetzungen der Anspruchseinschränkung weiterhin erfüllt werden.
 
 
 ## § 15 Übergangsregelung zum Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE002800116)
 
 Für Leistungsberechtigte des Asylbewerberleistungsgesetzes, auf die
 bis zum 21. August 2019 gemäß § 2 Absatz 1 des
@@ -1328,6 +1354,7 @@ anzuwenden.
 
 
 ## § 16 Sofortzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE003002130)
 
 Minderjährige Leistungsberechtigte sowie Leistungsberechtigte, die das
 25\. Lebensjahr noch nicht vollendet haben, unverheiratet sind und mit
@@ -1338,6 +1365,7 @@ Sofortzuschlag wird erstmalig für den Monat Juli 2022 erbracht.
 
 
 ## § 17 Einmalzahlung für den Monat Juli 2022
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE003100116)
 
 Erwachsene Leistungsberechtigte, die für den Monat Juli 2022 Anspruch
 auf Leistungen haben, erhalten für diesen Monat zum Ausgleich der mit
@@ -1347,6 +1375,7 @@ Nummer 3a zuzuordnen sind.
 
 
 ## § 18 Übergangsregelung für Personen mit Aufenthaltserlaubnis nach § 24 des Aufenthaltsgesetzes oder entsprechender Fiktionsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE003200116)
 
 (1) Für die Zeit vom 1. Juni 2022 bis einschließlich 31. August 2022
 erhalten Personen abweichend von § 1 Absatz 1 Leistungen nach diesem
@@ -1391,6 +1420,7 @@ Soziale Sicherung durchgeführt.
 
 
 ## § 19 Einmalzahlung für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE003300116)
 
 Minderjährige Leistungsberechtigte erhalten eine Einmalzahlung in Höhe
 von 100 Euro, wenn sie für den Monat Oktober 2022 Anspruch auf
@@ -1401,6 +1431,7 @@ Oktober 2022 ein Anspruch auf Kindergeld besteht.
 
 
 ## § 20 Übergangsregelung für die Änderung der Dauer des Grundleistungsbezuges
+[Direktlink](https://www.gesetze-im-internet.de/asylblg/BJNR107410993.html#BJNR107410993BJNE003400130)
 
 Für Leistungsberechtigte, die bis zum 26. Februar 2024 Leistungen
 gemäß § 2 Absatz 1 erhalten haben, ist § 2 dieses Gesetzes in der

@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000100308)
 
 
 *
@@ -57,6 +58,7 @@ Bestimmungen zu schließen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000200308)
 
 Zu der Frage der weiteren Vorgehensweise hinsichtlich der vom
 ehemaligen Staatssicherheitsdienst der Deutschen Demokratischen
@@ -144,6 +146,7 @@ Regierungen der beiden Vertragsparteien übereinstimmend fest:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000300308)
 
 Die vertragschließenden Seiten geben ihrer Absicht Ausdruck, gemäß
 Beschluß der Volkskammer der Deutschen Demokratischen Republik vom 14.
@@ -157,6 +160,7 @@ oder nur geringfügige Entschädigungen erhalten haben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000400308)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9
@@ -898,6 +902,7 @@ Abs. 4 des Vertrags gilt entsprechend.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000500308)
 
 Der am 31. August 1990 in Berlin unterzeichnete Vertrag über die
 Herstellung der Einheit Deutschlands (Einigungsvertrag) wird wie folgt
@@ -1199,6 +1204,7 @@ geändert:
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000600308)
 
 Der am 31. August 1990 in Berlin unterzeichnete Vertrag über die
 Herstellung der Einheit Deutschlands (Einigungsvertrag) wird wie folgt
@@ -1348,18 +1354,21 @@ berichtigt:
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000700308)
 
 Bei Zweifeln oder Unstimmigkeiten über den Inhalt des Vertrags oder
 seiner Anlagen ist diese Vereinbarung maßgebend.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000800308)
 
 Diese Vereinbarung tritt gleichzeitig mit dem am 31. August 1990
 unterzeichneten Vertrag in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrvbg/BJNR212390990.html#BJNR212390990BJNE000900308)
 
 Bonn, den 18. September 1990
 

@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000101123)
 
 Abschnitt 1
 Geltungsbereich und Begriffsbestimmungen
@@ -246,9 +247,11 @@ Anlagen
 
 
 ## Abschnitt 1 - Geltungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000201123)
 
 (1) Diese Verordnung gilt für die Konformitätsbewertung, Prüfung,
 Zulassung, Herstellung, Kennzeichnung, das Inverkehrbringen und
@@ -266,6 +269,7 @@ Druckgeräte.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000302123)
 
 Im Sinne dieser Verordnung bezeichnet
 
@@ -352,9 +356,11 @@ Im Sinne dieser Verordnung bezeichnet
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNG000200000)
 
 
 ### § 3 Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000402123)
 
 (1) Der Hersteller darf nur ortsbewegliche Druckgeräte in Verkehr
 bringen, die nach den in Kapitel 6.2 oder Kapitel 6.8 ADR/RID und den
@@ -441,6 +447,7 @@ entsprechen.
 
 
 ### § 4 Bevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000501123)
 
 (1) Ein Hersteller kann einen Dritten schriftlich bevollmächtigen. Die
 Verpflichtungen nach § 3 Absatz 1 und 2 sowie die Erstellung der
@@ -486,6 +493,7 @@ entsprechen.
 
 
 ### § 5 Einführer
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000602123)
 
 (1) Der Einführer darf nur ortsbewegliche Druckgeräte in Verkehr
 bringen, die den in § 3 Absatz 1 Satz 1 genannten Anforderungen
@@ -582,6 +590,7 @@ entsprechen.
 
 
 ### § 6 Vertreiber
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000702123)
 
 (1) Der Vertreiber darf nur ortsbewegliche Druckgeräte auf dem Markt
 bereitstellen, die den in § 3 Absatz 1 Satz 1 genannten Anforderungen
@@ -644,6 +653,7 @@ eines ortsbeweglichen Druckgeräts schriftlich hinzuweisen.
 
 
 ### § 7 Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000802123)
 
 (1) Hat ein Eigentümer Grund zu der Annahme, dass die ortsbeweglichen
 Druckgeräte nicht den in § 3 Absatz 1 Satz 1 genannten Anforderungen
@@ -685,6 +695,7 @@ beabsichtigen oder gebrauchen.
 
 
 ### § 8 Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE000902123)
 
 (1) Der Betreiber darf nur ortsbewegliche Druckgeräte verwenden, die
 den in § 3 Absatz 1 Satz 1 genannten Anforderungen entsprechen.
@@ -708,6 +719,7 @@ diese bekannt geworden ist.
 
 
 ### § 9 Geltung der Pflichten des Herstellers für Einführer und Vertreiber
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001000000)
 
 Ein Einführer oder Vertreiber gilt als Hersteller im Sinne dieser
 Verordnung und unterliegt den Verpflichtungen eines Herstellers nach §
@@ -721,6 +733,7 @@ treffen.
 
 
 ### § 10 Sonstige Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001101123)
 
 (1) Die Wirtschaftsakteure benennen den Marktüberwachungsbehörden auf
 Verlangen für einen Zeitraum von mindestens zehn Jahren
@@ -753,9 +766,11 @@ beabsichtigen oder gebrauchen.
 
 
 ## Abschnitt 3 - Konformität ortsbeweglicher Druckgeräte
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNG000300000)
 
 
 ### § 11 Konformität ortsbeweglicher Druckgeräte und Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001201305)
 
 (1) Für die in Anlage 1 Abschnitt A Nummer 1 genannten ortsbeweglichen
 Druckgeräte bestimmen sich die Konformitätsbewertung, die
@@ -777,6 +792,7 @@ nicht für ortsbewegliche Druckgeräte, deren Konformität nach Abschnitt
 
 
 ### § 12 Neubewertung der Konformität
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001301305)
 
 Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1
 Abschnitt A Nummer 3 genannten ortsbeweglichen Druckgeräts kann
@@ -799,6 +815,7 @@ ADR/RID bewertet wurde, nicht anzuwenden.
 
 
 ### § 13 Allgemeine Grundsätze der Pi-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001400000)
 
 (1) Der Hersteller oder im Falle der Neubewertung ortsbeweglicher
 Druckgeräte gemäß § 12 der Eigentümer, der Vertreiber oder Betreiber
@@ -827,6 +844,7 @@ anbringt, darf diese nicht derart anbringen, dass sie
 
 
 ### § 14 Freier Verkehr ortsbeweglicher Druckgeräte und gegenseitige Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001501123)
 
 (1) Von notifizierten Stellen anderer Mitgliedstaaten der Europäischen
 Union und des Europäischen Wirtschaftsraums ausgestellte
@@ -842,9 +860,11 @@ gestatteten Tätigkeiten im Inland ausüben.
 
 
 ## Abschnitt 4 - Benennende Behörde und Benannte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNG000400000)
 
 
 ### § 15 Benennende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001601123)
 
 (1) Die Benennende Behörde ist zuständig für die Einrichtung und
 Durchführung der erforderlichen Verfahren für die Bewertung, Benennung
@@ -864,6 +884,7 @@ Gefahrgutbeförderungsgesetzes vornehmen.
 
 
 ### § 16 Benennungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001702123)
 
 (1) Die Benennende Behörde erteilt auf Antrag einer Stelle die
 Befugnis, Konformitätsbewertungen, Neubewertungen der Konformität,
@@ -925,6 +946,7 @@ Veröffentlichung mit. Sie meldet zudem jede später eintretende
 
 
 ### § 17 Weitere Aufgaben der Benennenden Behörde
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001802123)
 
 (1) Erfüllt die Benannte Stelle die Benennungsvoraussetzungen nach §
 16 Absatz 2 ganz oder teilweise nicht mehr, kann die Benennende
@@ -960,6 +982,7 @@ Mitgliedstaates, der die Stelle notifiziert hat und überwacht.
 
 
 ### § 18 Rechte und Pflichten der Benannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE001902123)
 
 (1) Benannte Stellen dürfen Konformitätsbewertungen, wiederkehrende
 Prüfungen, Zwischenprüfungen und außerordentliche Prüfungen sowie die
@@ -1032,6 +1055,7 @@ Erfahrungsaustausch und fordert sie zur Teilnahme auf.
 
 
 ### § 19 Koordinierung der Benannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002002123)
 
 Das Bundesministerium für Digitales und Verkehr richtet einen
 nationalen Erfahrungsaustausch der Benannten Stellen für
@@ -1041,9 +1065,11 @@ Stellen nach § 18 Absatz 9 teilnehmen dürfen.
 
 
 ## Abschnitt 5 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNG000500000)
 
 
 ### § 20 Zuständigkeiten und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002102123)
 
 (1) Für die Marktüberwachung im Sinne dieser Verordnung sind
 zuständig:
@@ -1083,6 +1109,7 @@ Druckgeräte ein. An dem Erfahrungsaustausch nehmen teil:
 
 
 ### § 21 Marktüberwachungsstrategie
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002201123)
 
 Die nationale Marktüberwachungsstrategie, die nach Artikel 13 Absatz 1
 Satz 1 der Verordnung (EU)
@@ -1097,6 +1124,7 @@ werden.
 
 
 ### § 22 Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002301123)
 
 (1) Die Marktüberwachungsbehörden kontrollieren ortsbewegliche
 Druckgeräte anhand angemessener Stichproben auf geeignete Art und
@@ -1214,6 +1242,7 @@ entsprechend anzuwenden.
 
 
 ### § 22a Maßnahmen bei der Gefährdung von Gesundheit oder Sicherheit durch konforme ortsbewegliche Druckgeräte
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE003500123)
 
 (1) Stellt die Marktüberwachungsbehörde bei einer Kontrolle nach § 22
 Absatz 1 fest, dass ortsbewegliche Druckgeräte ein Risiko für die
@@ -1284,6 +1313,7 @@ zu tragen.
 
 
 ### § 23 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002401123)
 
 (1) Liegt bei einem ortsbeweglichen Druckgerät ein Fall formaler
 Nichtkonformität vor, fordert die Marktüberwachungsbehörde den
@@ -1325,9 +1355,11 @@ Maßnahmen, um
 
 
 ## Abschnitt 6 - Informations- und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNG000600000)
 
 
 ### § 24 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002502123)
 
 (1) Die Marktüberwachungsbehörde unterrichtet die Bundesanstalt für
 Materialforschung und -prüfung im Fall des
@@ -1429,6 +1461,7 @@ Kommission oder eines anderen Mitgliedstaates der Europäischen Union.
 
 
 ### § 25 Schnellinformationssystem
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002601123)
 
 (1) Trifft die Marktüberwachungsbehörde eine Maßnahme nach Artikel 19
 Absatz 1 Satz 1 der Verordnung (EU) 2019/1020 oder beabsichtigt sie
@@ -1468,6 +1501,7 @@ Meldungen, die ihr über das System nach Satz 2 zugehen.
 
 
 ### § 26 Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002701123)
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung informiert
 die Öffentlichkeit über folgende Anordnungen nach § 22 Absatz 3, 4 und
@@ -1553,6 +1587,7 @@ zuvor bekannt gegeben hat.
 
 
 ### § 27 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002802123)
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe a des
 Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1873,6 +1908,7 @@ Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 28 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE002900000)
 
 Wer eine in § 27 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
 wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
@@ -1882,6 +1918,7 @@ Gefahrgutbeförderungsgesetzes strafbar.
 
 
 ### § 29 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE003001123)
 
 (1) Bestimmungen im Sinne des Anhangs II Nummer 1 der Richtlinie
 2010/35/EU gelten weiter.
@@ -1909,9 +1946,11 @@ Verordnung.
 
 
 ### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE003101123)
 
 
 ### § 31 Anerkennung der Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE003200000)
 
 (1) Die gemäß den Richtlinien 84/525/EWG,
 84/526/EWG und 84/527/EWG erteilten EWG-Bauartzulassungen für
@@ -1933,6 +1972,7 @@ weiter verwendet werden.
 (zu § 1 Absatz 1)
 
 ### Anlage 1 Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE003300000)
 
 (Fundstelle: BGBl. I 2011, 2361)
 
@@ -1994,6 +2034,7 @@ Bau- und Prüfvorschriften für Verpackungen ausgenommen sind.
 (zu § 1 Absatz 2)
 
 ### Anlage 2 Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
+[Direktlink](https://www.gesetze-im-internet.de/odv/BJNR234910011.html#BJNR234910011BJNE003401123)
 
 (Fundstelle: BGBl. I 2011, 2362)
 

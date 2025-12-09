@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/entschdtbankv/BJNR239100998.html#BJNR239100998BJNE000100311)
 
 Auf Grund des § 7 Abs. 1 Satz 1 und 3 des Einlagensicherungs- und
 Anlegerentschädigungsgesetzes vom 16. Juli 1998 (BGBl. I S. 1842)
@@ -29,6 +30,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/entschdtbankv/BJNR239100998.html#BJNR239100998BJNE000202123)
 
 Der Entschädigungseinrichtung deutscher Banken GmbH werden die
 Aufgaben und Befugnisse der gesetzlichen Entschädigungseinrichtung für
@@ -37,6 +39,7 @@ zugeordneten CRR-Kreditinstitute zugewiesen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/entschdtbankv/BJNR239100998.html#BJNR239100998BJNE000300311)
 
 Die Entschädigungseinrichtung deutscher Banken GmbH hat dem
 Bundesministerium der Finanzen Änderungen des Gesellschaftsvertrags
@@ -44,6 +47,7 @@ zur Genehmigung vorzulegen.
 
 
 ## § 2a
+[Direktlink](https://www.gesetze-im-internet.de/entschdtbankv/BJNR239100998.html#BJNR239100998BJNE000500123)
 
 Die Entschädigungseinrichtung deutscher Banken GmbH folgt der
 Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
@@ -52,6 +56,7 @@ Einlagensicherungsgesetzes nach.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/entschdtbankv/BJNR239100998.html#BJNR239100998BJNE000400311)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

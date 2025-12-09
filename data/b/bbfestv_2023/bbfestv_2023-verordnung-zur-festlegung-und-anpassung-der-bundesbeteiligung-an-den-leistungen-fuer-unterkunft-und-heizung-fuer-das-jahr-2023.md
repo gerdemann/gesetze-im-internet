@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2023/BJNR0B40A0023.html#BJNR0B40A0023BJNE000100000)
 
 Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
 Sozialgesetzbuch, der durch Artikel 3 Nummer 3 Buchstabe a des
@@ -26,6 +27,7 @@ ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2023/BJNR0B40A0023.html#BJNR0B40A0023BJNE000200000)
 
 Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2023 rückwirkend angepasst
@@ -83,6 +85,7 @@ und für das Jahr 2024 festgelegt wird, beträgt
 
 
 ## § 2 Anpassung der Werte nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2023/BJNR0B40A0023.html#BJNR0B40A0023BJNE000300000)
 
 (1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
 § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2023
@@ -192,11 +195,13 @@ und für das Jahr 2024 festgelegt wird, beträgt
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2023/BJNR0B40A0023.html#BJNR0B40A0023BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2023/BJNR0B40A0023.html#BJNR0B40A0023BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

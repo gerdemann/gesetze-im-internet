@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seffv/BJNR436900021.html#BJNR436900021BJNE000100000)
 
 Auf Grund des § 93 Absatz 2 Nummer 3 des Soldatengesetzes, der durch
 Artikel 5 Nummer 10 Buchstabe a des Gesetzes vom 20. August 2021
@@ -26,6 +27,7 @@ Bundesministerium der Verteidigung:
 
 
 ## § 1 Anspruch auf unentgeltliche Beförderung in öffentlichen Eisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/seffv/BJNR436900021.html#BJNR436900021BJNE000200000)
 
 Der Bund ermöglicht Soldatinnen und Soldaten den Bezug eines
 Fahrscheins für eine unentgeltliche Beförderung in öffentlichen
@@ -35,6 +37,7 @@ Verlangen vorzeigen.
 
 
 ## § 2 Umfang des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/seffv/BJNR436900021.html#BJNR436900021BJNE000300000)
 
 (1) Der Anspruch auf Ermöglichung der unentgeltlichen Beförderung in
 öffentlichen Eisenbahnen besteht
@@ -69,6 +72,7 @@ Buchung nicht vorhersehbar gewesen sind.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seffv/BJNR436900021.html#BJNR436900021BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft.
 

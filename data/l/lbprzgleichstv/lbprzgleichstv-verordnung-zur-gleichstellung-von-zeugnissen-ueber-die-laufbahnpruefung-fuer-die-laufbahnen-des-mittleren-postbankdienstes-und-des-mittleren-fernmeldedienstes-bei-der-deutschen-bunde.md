@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lbprzgleichstv/BJNR012330987.html#BJNR012330987BJNE000100304)
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom
@@ -34,6 +35,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lbprzgleichstv/BJNR012330987.html#BJNR012330987BJNE000200304)
 
 Zeugnisse, die gemäß der Laufbahn-, Ausbildungs- und Prüfungsordnung
 für die Laufbahn des mittleren Postbankdienstes bei der Deutschen
@@ -49,18 +51,21 @@ Verwaltungsfachangestellter/Verwaltungsfachangestellte gleichgestellt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lbprzgleichstv/BJNR012330987.html#BJNR012330987BJNE000300304)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lbprzgleichstv/BJNR012330987.html#BJNR012330987BJNE000400304)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/lbprzgleichstv/BJNR012330987.html#BJNR012330987BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000900000)
 
 Auf Grund des § 34 des Postpersonalrechtsgesetzes vom 14. September
 1994 (BGBl. I S. 2325, 2353) verordnet das Bundesministerium für
@@ -29,10 +30,12 @@ Innern:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNG000100000)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000100000)
 
 Die Vorschriften der Ersten Verordnung zur Durchführung des
 Betriebsverfassungsgesetzes (Wahlordnung - WO) vom 11. Dezember 2001
@@ -42,6 +45,7 @@ Verordnung nicht etwas anderes ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000200000)
 
 Die bei den Aktiengesellschaften beschäftigten Beamtinnen und Beamten
 gelten für die Anwendung der Vorschriften der Wahlordnung als
@@ -49,6 +53,7 @@ Arbeitnehmerinnen und Arbeitnehmer.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000300000)
 
 Die Beamtinnen und Beamten bilden bei der Wahl zum Betriebsrat neben
 der Gruppe der Arbeitnehmerinnen und Arbeitnehmer eine eigene Gruppe,
@@ -61,6 +66,7 @@ Wahl des Wahlvorstands erfolgen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000400000)
 
 (1) Bilden die Beamtinnen und Beamten eine eigene Gruppe, müssen sie
 und die Arbeitnehmerinnen und Arbeitnehmer entsprechend ihrem
@@ -80,6 +86,7 @@ Betriebsverfassungsgesetz).
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000500000)
 
 (1) Der Wahlvorstand, dem in Betrieben mit Beamten eine Beamtin oder
 ein Beamter angehören muss, hat unverzüglich nach seiner Bestellung
@@ -109,10 +116,12 @@ verkürzt sich die Frist in Absatz 1 auf mindestens drei Arbeitstage.
 
 
 ## Zweiter Abschnitt - Bildung einer eigenen Wählergruppe der Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNG000200000)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000601119)
 
 Bei Bildung einer eigenen Gruppe der Beamtinnen und Beamten bei der
 Wahl zum Betriebsrat findet die Wahlordnung mit folgender Maßgabe
@@ -616,10 +625,12 @@ Anwendung:
 
 
 ## Dritter Abschnitt - Verzicht der Beamtinnen und Beamten auf eine eigene Wählergruppe
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNG000300000)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000700000)
 
 Haben die Beamtinnen und Beamten auf die Bildung einer eigenen Gruppe
 verzichtet, findet die Wahlordnung mit der Maßgabe Anwendung, dass das
@@ -629,10 +640,12 @@ Bildung einer eigenen Gruppe verzichtet haben.
 
 
 ## Vierter Abschnitt - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNG000400000)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/wahlo_post_2002/BJNR094600002.html#BJNR094600002BJNE000800000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

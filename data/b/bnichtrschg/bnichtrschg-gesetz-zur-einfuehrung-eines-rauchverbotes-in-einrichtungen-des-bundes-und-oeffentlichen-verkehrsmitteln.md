@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Rauchverbot
+[Direktlink](https://www.gesetze-im-internet.de/bnichtrschg/BJNR159510007.html#BJNR159510007BJNE000101130)
 
 (1) Das Rauchen von Tabak- und Cannabisprodukten, einschließlich der
 Benutzung von elektronischen Zigaretten und erhitzten
@@ -59,6 +60,7 @@ und Weise ihrer Belüftung, zu erlassen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bnichtrschg/BJNR159510007.html#BJNR159510007BJNE000202130)
 
 
 1.  Einrichtungen des Bundes im Sinne dieses Gesetzes sind
@@ -118,11 +120,13 @@ und Weise ihrer Belüftung, zu erlassen.
 
 
 ## § 3 Hinweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/bnichtrschg/BJNR159510007.html#BJNR159510007BJNE000300000)
 
 Auf das Rauchverbot nach § 1 ist in geeigneter Weise hinzuweisen.
 
 
 ## § 4 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnichtrschg/BJNR159510007.html#BJNR159510007BJNE000400000)
 
 Die Einrichtung der Raucherbereiche und die Erfüllung der
 Hinweispflicht nach § 3 obliegen dem Inhaber des Hausrechts oder dem
@@ -130,6 +134,7 @@ Betreiber des Verkehrsmittels.
 
 
 ## § 5 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bnichtrschg/BJNR159510007.html#BJNR159510007BJNE000500000)
 
 (1) Ordnungswidrig handelt, wer entgegen § 1 Abs. 1 raucht.
 

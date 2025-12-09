@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000100308)
 
 Auf Grund des § 8 des Orthoptistengesetzes vom 28. November 1989
 (BGBl. I S. 2061) verordnet der Bundesminister für Jugend, Familie,
@@ -28,6 +29,7 @@ und Wissenschaft:
 
 
 ## § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000201130)
 
 (1) Die dreijährige Ausbildung für Orthoptistinnen und Orthoptisten
 umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und
@@ -43,6 +45,7 @@ regeln die Länder.
 
 
 ## § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000300308)
 
 (1) Die staatliche Prüfung umfaßt einen schriftlichen, einen
 mündlichen und einen praktischen Teil.
@@ -58,6 +61,7 @@ Prüfungsausschuß.
 
 
 ## § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000401116)
 
 (1) Bei den Schulen werden Prüfungsausschüsse gebildet, die jeweils
 aus folgenden Mitgliedern bestehen:
@@ -105,6 +109,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ## § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000502310)
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
 Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit
@@ -146,6 +151,7 @@ berücksichtigen.
 
 
 ## § 5 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000601130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächer:
@@ -181,6 +187,7 @@ Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach §
 
 
 ## § 6 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000702130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -232,6 +239,7 @@ gestatten.
 
 
 ## § 7 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000800308)
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling unter Aufsicht
 zwei ihm unbekannte Patienten zu untersuchen. Dabei soll er auch seine
@@ -250,6 +258,7 @@ höchstens drei Stunden abgeschlossen sein.
 
 
 ## § 8 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE000900308)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -257,6 +266,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ## § 9 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001001130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -326,6 +336,7 @@ benotet:
 
 
 ## § 10 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001101130)
 
 (1) Die Prüfung ist bestanden, wenn der schriftliche, der mündliche
 und der praktische Teil der Prüfung mit mindestens "ausreichend"
@@ -354,6 +365,7 @@ Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 
 ## § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001200308)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
 so hat er die Gründe für seinen Rücktritt unverzüglich dem
@@ -370,6 +382,7 @@ unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. §
 
 
 ## § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001300308)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -383,6 +396,7 @@ entsprechend.
 
 
 ## § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001400308)
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
 ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört
@@ -395,6 +409,7 @@ Abschluß der Prüfung zulässig.
 
 
 ## § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001500308)
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
@@ -403,6 +418,7 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## § 15 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001600308)
 
 Liegen die Voraussetzungen des Orthoptistengesetzes für die Erteilung
 der Erlaubnis zur Führung der Berufsbezeichnung "Orthoptistin" oder
@@ -411,12 +427,14 @@ Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
 
 ## § 15a Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002500307)
 
 Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet ab dem 1. September 1991 Anwendung.
 
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001705116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des
 Orthoptistengesetzes beantragen, können zum Nachweis, daß die
@@ -494,6 +512,7 @@ Gleichstellung ergibt.
 
 
 ## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE003001130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Orthoptistengesetzes beantragen, haben einen Anpassungslehrgang nach
@@ -561,6 +580,7 @@ werden kann.
 
 
 ## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002603130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Orthoptistengesetzes beantragen, haben einen Anpassungslehrgang nach
@@ -655,6 +675,7 @@ dem Muster der Anlage 7 erteilt.
 
 
 ## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002702116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Orthoptistin oder Orthoptist nach § 1 Absatz 1 des
@@ -709,16 +730,19 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001800308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE001900308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002000308)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 566 - 568
 
@@ -1383,6 +1407,7 @@ Fundstelle des Originaltextes: BGBl. I 1990, 566 - 568
 
 
 ## Anlage 2 (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002100308)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 569
 
@@ -1443,6 +1468,7 @@ Fundstelle des Originaltextes: BGBl. I 1990, 569
 
 
 ## Anlage 3 (zu § 4 Abs. 2 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002200308)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 569)
 ..........................................
@@ -1474,6 +1500,7 @@ Ort, Datum
 
 
 ## Anlage 4 (zu § 10 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002300308)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 570)
 Der Vorsitzende
@@ -1505,6 +1532,7 @@ Ort, Datum
 
 
 ## Anlage 4a (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE003100116)
 
 (Fundstelle: BGBl. I 2016, 917)
 
@@ -1542,6 +1570,7 @@ Unterschrift(en) der Einrichtung
 
 
 ## Anlage 4b (zu § 16a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE003200116)
 
 (Fundstelle: BGBl. I 2016, 917)
 
@@ -1600,6 +1629,7 @@ Ort, Datum
 
 
 ## Anlage 5 (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002400308)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 571)
 Urkunde
@@ -1623,6 +1653,7 @@ Ort, Datum
 
 
 ## Anlage 6 (zu § 16b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002801116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -1718,6 +1749,7 @@ Ort, Datum
 [^F781546_01_BJNR005630990BJNE002801116]: 
 
 ## Anlage 7 (zu § 16a Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/orthoptaprv/BJNR005630990.html#BJNR005630990BJNE002900116)
 
 
 *    *   Die/der Vorsitzende

@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Urlaubsjahr
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000110116)
 
 Urlaubsjahr ist das Kalenderjahr. Für die bei den
 Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die
@@ -31,6 +32,7 @@ oberste Dienstbehörde eine abweichende Regelung treffen.
 
 
 ## § 2 Gewährleistung des Dienstbetriebes
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000208116)
 
 (1) Der beantragte Urlaub ist nach den folgenden Vorschriften zu
 erteilen, sofern die ordnungsmäßige Erledigung der Dienstgeschäfte
@@ -42,10 +44,12 @@ Erholungsurlaub gewährt.
 
 
 ## (XXXX) §§ 3 und 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000307310)
 
 
 
 ## § 5 Urlaubsdauer
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000523116)
 
 (1) Der Erholungsurlaub beträgt für Beamtinnen und Beamte, deren
 regelmäßige Arbeitszeit auf 5 Tage in der Kalenderwoche verteilt ist,
@@ -131,6 +135,7 @@ zu gewähren.
 
 
 ## § 5a Urlaubsdauer bei Übergang zu Teilzeit
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE002202311)
 
 (1) Verringert sich bei einem Übergang von Vollzeit- zu
 Teilzeitbeschäftigung die Zahl der wöchentlichen Arbeitstage, so
@@ -171,6 +176,7 @@ berechnet wird.
 
 
 ## § 6 Anrechnung und Übertragung von Urlaub aus anderen Beschäftigungsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000609116)
 
 (1) Erholungsurlaub, den die Beamtin oder der Beamte in einem anderen
 Beschäftigungsverhältnis für das laufende Urlaubsjahr in Anspruch
@@ -184,6 +190,7 @@ hat, wird nicht übertragen.
 
 
 ## § 7 Inanspruchnahme von Urlaub; Verfall des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000714311)
 
 (1) Der Urlaub soll grundsätzlich im Urlaubsjahr in Anspruch genommen
 werden.
@@ -206,6 +213,7 @@ Absätzen 2 und 3 abweichen.
 
 
 ## § 7a Urlaubsansparung zur Kinderbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE002107116)
 
 (1) Beamtinnen und Beamte können auf Antrag den Erholungsurlaub nach §
 5 Abs. 1, der einen Zeitraum von vier Wochen übersteigt, ansparen,
@@ -225,6 +233,7 @@ maßgeblich, aus dem Urlaub angespart werden soll.
 
 
 ## § 8 Widerruf und Verlegung
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000807310)
 
 (1) Erholungsurlaub kann ausnahmsweise widerrufen werden, wenn bei
 Abwesenheit der Beamtin oder des Beamten die ordnungsmäßige Erledigung
@@ -240,6 +249,7 @@ gefährdet wird.
 
 
 ## § 9 Erkrankung
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE000907310)
 
 (1) Werden Beamtinnen oder Beamte während ihres Urlaubs durch
 Krankheit dienstunfähig und zeigen sie dies unverzüglich an, wird
@@ -253,6 +263,7 @@ bewilligte Zeit hinaus bedarf es einer neuen Bewilligung.
 
 
 ## § 10 Abgeltung
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001010116)
 
 (1) Soweit der Erholungsurlaub in Höhe des unionsrechtlich
 gewährleisteten Mindesturlaubsanspruchs (Artikel 7 Absatz 1 der
@@ -278,11 +289,13 @@ Urlaubsjahres, in dem das Beamtenverhältnis beendet wird.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001108310)
 
 -
 
 
 ## § 12 Zusatzurlaub
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001218116)
 
 (1) Beamtinnen und Beamte haben Anspruch auf einen halben Arbeitstag
 zusätzlichen Erholungsurlaub (Zusatzurlaub) im Kalendermonat, wenn sie
@@ -351,6 +364,7 @@ ist. Absatz 5 bleibt unberührt.
 
 
 ## § 13 Sonderregelungen für ehemals bundeseigene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001310311)
 
 (1) Für den Bereich der Deutschen Bahn Aktiengesellschaft oder einer
 Gesellschaft, die ausgegliedert worden ist nach § 2 Absatz 1 und § 3
@@ -373,6 +387,7 @@ beschäftigt sind, kann die oberste Dienstbehörde
 
 
 ## § 14 Zusatzurlaub für Beamtinnen und Beamte in besonderen Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001405311)
 
 Der Zusatzurlaub für Dienst zu wechselnden Zeiten wird nicht gewährt
 
@@ -399,6 +414,7 @@ anzuwenden.
 
 
 ## § 15 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001507310)
 
 Diese Verordnung gilt auch für die Richterinnen und Richter des Bundes
 und die Beamtinnen und Beamten der nach Artikel 130 des Grundgesetzes
@@ -407,6 +423,7 @@ Einrichtungen.
 
 
 ## § 16 Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001611311)
 
 (1) Für im Ausland tätige Beamtinnen und Beamte, die nicht dem
 Auswärtigen Dienst angehören, gilt die Heimaturlaubsverordnung
@@ -427,5 +444,6 @@ entsprechend.
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/burlv/BJNR002430954.html#BJNR002430954BJNE001810116)
 
 

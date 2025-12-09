@@ -27,9 +27,11 @@ Mittelbare änderung durch
 Stand: Ersetzt G 7613-2 v. 13.8.2008 I 1690 (GwG 2008)
 
 ## Abschnitt 1 - Begriffsbestimmungen, Verpflichtete und risikobasierter Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000101123)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000205128)
 
 (1) Geldwäsche im Sinne dieses Gesetzes ist eine Straftat nach § 261
 des Strafgesetzbuchs.
@@ -533,6 +535,7 @@ gehostete Adresse im Sinne des Artikels 3 Nummer 20 der Verordnung
 
 
 ### § 2 Verpflichtete, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000306128)
 
 (1) Verpflichtete im Sinne dieses Gesetzes sind, soweit sie in
 Ausübung ihres Gewerbes oder Berufs handeln,
@@ -810,6 +813,7 @@ Satz 1 auf Dritte zurückgreifen.
 
 
 ### § 3 Wirtschaftlich Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000403123)
 
 (1) Wirtschaftlich Berechtigter im Sinne dieses Gesetzes ist
 
@@ -910,6 +914,7 @@ handelt er ebenfalls auf Veranlassung.
 
 
 ### § 3a Risikobasierter Ansatz, nationale Risikoanalyse
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006801125)
 
 (1) Die Verhinderung und Bekämpfung von Geldwäsche und
 Terrorismusfinanzierung nach den Anforderungen dieses Gesetzes folgt
@@ -929,9 +934,11 @@ erstellt.
 
 
 ## Abschnitt 2 - Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000200000)
 
 
 ### § 4 Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000502123)
 
 (1) Die Verpflichteten müssen zur Verhinderung von Geldwäsche und von
 Terrorismusfinanzierung über ein wirksames Risikomanagement verfügen,
@@ -993,6 +1000,7 @@ verfügen:
 
 
 ### § 5 Risikoanalyse
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000600000)
 
 (1) Die Verpflichteten haben diejenigen Risiken der Geldwäsche und der
 Terrorismusfinanzierung zu ermitteln und zu bewerten, die für
@@ -1029,6 +1037,7 @@ werden.
 
 
 ### § 6 Interne Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000702128)
 
 (1) Verpflichtete haben angemessene geschäfts- und kundenbezogene
 interne Sicherungsmaßnahmen zu schaffen, um die Risiken von Geldwäsche
@@ -1174,6 +1183,7 @@ risikoangemessen anzuwenden sind.
 
 
 ### § 7 Geldwäschebeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000801311)
 
 (1) Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3, 6, 7, 9 und 15
 haben einen Geldwäschebeauftragten auf Führungsebene sowie einen
@@ -1246,6 +1256,7 @@ Kündigungsfrist berechtigt ist.
 
 
 ### § 8 Aufzeichnungs- und Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE000904128)
 
 (1) Vom Verpflichteten aufzuzeichnen und aufzubewahren sind
 
@@ -1368,6 +1379,7 @@ Absatz 5 der Abgabenordnung entsprechend.
 
 
 ### § 9 Gruppenweite Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001002123)
 
 (1) Verpflichtete, die Mutterunternehmen einer Gruppe sind, haben eine
 Risikoanalyse für alle Zweigstellen, Zweigniederlassungen und
@@ -1469,9 +1481,11 @@ Erfüllung sonstiger geldwäscherechtlicher Vorschriften.
 
 
 ## Abschnitt 3 - Sorgfaltspflichten in Bezug auf Kunden
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000300000)
 
 
 ### § 10 Allgemeine Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001103128)
 
 (1) Die allgemeinen Sorgfaltspflichten sind:
 
@@ -1721,6 +1735,7 @@ gilt insoweit entsprechend.
 
 
 ### § 11 Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001202123)
 
 (1) Verpflichtete haben Vertragspartner, gegebenenfalls für diese
 auftretende Personen und wirtschaftlich Berechtigte vor Begründung der
@@ -1851,6 +1866,7 @@ Rechtsgestaltungen nach § 21 sind dem Verpflichteten die Angaben nach
 
 
 ### § 11a Verarbeitung personenbezogener Daten durch Verpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006300311)
 
 (1) Verpflichtete nach § 2 dürfen personenbezogene Daten nur
 verarbeiten, soweit dies auf Grundlage dieses Gesetzes für Zwecke der
@@ -1874,6 +1890,7 @@ zurückgreift.
 
 
 ### § 12 Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001306128)
 
 (1) Die Überprüfung der nach § 11 Absatz 4 erhobenen Angaben zum
 Vertragspartner und gegebenenfalls für diesen auftretende Personen hat
@@ -1994,6 +2011,7 @@ bestimmen, die zur Überprüfung der Identität geeignet sind.
 
 
 ### § 13 Verfahren zur Überprüfung von Angaben zum Zweck der Identifizierung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001402123)
 
 (1) Verpflichtete überprüfen die zum Zweck der Identifizierung
 erhobenen Angaben bei natürlichen Personen mit einem der folgenden
@@ -2040,6 +2058,7 @@ Sicherheitsniveau festgestellt hat.
 
 
 ### § 14 Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001502123)
 
 (1) Verpflichtete müssen nur vereinfachte Sorgfaltspflichten erfüllen,
 soweit sie unter Berücksichtigung der in den Anlagen 1 und 2 genannten
@@ -2110,6 +2129,7 @@ Dienstleistungen vorgenommen werden können, wenn
 
 
 ### § 15 Verstärkte Sorgfaltspflichten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001602128)
 
 (1) Die verstärkten Sorgfaltspflichten sind zusätzlich zu den
 allgemeinen Sorgfaltspflichten zu erfüllen.
@@ -2411,6 +2431,7 @@ ausgehenden Risiken zu berücksichtigen.
 
 
 ### § 15a Verstärkte Sorgfaltspflichten bei der Übertragung von Kryptowerten von einer selbst gehosteten oder an eine selbst gehostete Adresse
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE008100128)
 
 (1) Verpflichtete, die eine Übertragung von Kryptowerten ausführen,
 deren Begünstigter oder Auftraggeber eine selbst gehostete Adresse
@@ -2449,6 +2470,7 @@ miteinander:
 
 
 ### § 16 Besondere Vorschriften für das Glücksspiel im Internet
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001701311)
 
 (1) Für Verpflichtete nach § 2 Absatz 1 Nummer 15 gelten, soweit sie
 das Glücksspiel im Internet anbieten oder vermitteln, die besonderen
@@ -2544,6 +2566,7 @@ Authentifizierung erfolgen.
 
 
 ### § 16a Verbot der Barzahlung beim Erwerb von Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007300125)
 
 (1) Bei Rechtsgeschäften, die auf den Kauf oder Tausch von
 inländischen Immobilien gerichtet sind, kann eine geschuldete
@@ -2637,6 +2660,7 @@ Zusammenhang mit Terrorismusfinanzierung steht.
 
 
 ### § 17 Ausführung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001803128)
 
 (1) Zur Erfüllung der allgemeinen Sorgfaltspflichten nach § 10 Absatz
 1 Nummer 1 bis 4 kann ein Verpflichteter auf Dritte zurückgreifen.
@@ -2808,9 +2832,11 @@ unberührt.
 
 
 ## Abschnitt 4 - Transparenzregister
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000400000)
 
 
 ### § 18 Einrichtung des Transparenzregisters und registerführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE001904125)
 
 (1) Es wird ein Register zur Erfassung und Zugänglichmachung von
 Angaben über den wirtschaftlich Berechtigten (Transparenzregister)
@@ -2864,6 +2890,7 @@ Transparenzregister gespeicherten Daten zu regeln.
 
 
 ### § 19 Angaben zum wirtschaftlich Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002003125)
 
 (1) Im Transparenzregister sind im Hinblick auf Vereinigungen nach §
 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 folgende Angaben
@@ -2932,6 +2959,7 @@ Durchführung umfassender Prüfungen nicht möglich war.
 
 
 ### § 19a Angaben zu Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007400125)
 
 Im Transparenzregister sind im Hinblick auf Vereinigungen nach § 20
 Absatz 1, die als Berechtigte von Immobilien in Abteilung I des
@@ -2972,6 +3000,7 @@ nach Maßgabe des § 23 zugänglich:
 
 
 ### § 19b Erfassung und Zuordnung von Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007500125)
 
 (1) Die Grundbuchämter übermitteln der registerführenden Stelle
 folgende Informationen zu allen bei ihnen geführten Grundbuchblättern:
@@ -3051,6 +3080,7 @@ Vereinbarungen über das zu verwendende Datenformat treffen.
 
 
 ### § 20 Transparenzpflichten im Hinblick auf bestimmte Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002107128)
 
 (1) Juristische Personen des Privatrechts und eingetragene
 Personengesellschaften haben die in § 19 Absatz 1 aufgeführten Angaben
@@ -3147,6 +3177,7 @@ Die Angaben sind ihnen unverzüglich zur Verfügung zu stellen.
 
 
 ### § 20a Automatische Eintragung für Vereine
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006900123)
 
 (1) Für eingetragene Vereine nach § 21 des Bürgerlichen Gesetzbuchs
 erstellt die registerführende Stelle anhand der im Vereinsregister
@@ -3197,6 +3228,7 @@ des Justizverwaltungskostengesetzes befreit.
 
 
 ### § 21 Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002202123)
 
 (1) Verwalter von Trusts (Trustees) mit Wohnsitz oder Sitz in
 Deutschland haben die in § 19 Absatz 1 aufgeführten Angaben zu den
@@ -3278,6 +3310,7 @@ und durch welche Merkmale sich diese auszeichnen.
 
 
 ### § 22 Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002305125)
 
 (1) Über die Internetseite des Transparenzregisters sind nach Maßgabe
 des § 23 zugänglich:
@@ -3358,6 +3391,7 @@ Sicherstellung von Datenschutz und Datensicherheit zu regeln.
 
 
 ### § 23 Einsichtnahme in das Transparenzregister, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002404125)
 
 (1) Bei Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen
 nach § 21 ist die Einsichtnahme gestattet:
@@ -3548,6 +3582,7 @@ möglich.
 
 
 ### § 23a Meldung von Unstimmigkeiten an die registerführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006402125)
 
 (1) Verpflichtete nach § 23 Absatz 1 Satz 1 Nummer 2 haben der
 registerführenden Stelle Unstimmigkeiten unverzüglich zu melden, die
@@ -3632,6 +3667,7 @@ auf dem Registerauszug zu vermerken.
 
 
 ### § 24 Gebühren und Auslagen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002503125)
 
 (1) Für die Führung des Transparenzregisters erhebt die
 registerführende Stelle von Vereinigungen nach § 20 und von
@@ -3689,6 +3725,7 @@ Einzelheiten zu Folgendem näher zu regeln:
 
 
 ### § 25 Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002601123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -3777,6 +3814,7 @@ Geschäftsbereich übertragen.
 
 
 ### § 26 Europäisches System der Registervernetzung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002702123)
 
 (1) Die in § 22 Absatz 1 Satz 1 Nummer 1 aufgeführten Daten sind,
 sofern sie Vereinigungen nach § 20 sowie Rechtsgestaltungen nach § 21
@@ -3834,6 +3872,7 @@ keine Regelungen in den von der Europäischen Kommission gemäß Artikel
 
 
 ### § 26a Abruf durch bestimmte Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006504128)
 
 (1) Die registerführende Stelle übermittelt die erforderlichen
 Informationen aus dem Transparenzregister an
@@ -3919,9 +3958,11 @@ Daten gewährleisten.
 
 
 ## Abschnitt 5 - Zentralstelle für Finanztransaktionsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000500000)
 
 
 ### § 27 Zentrale Meldestelle
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002800000)
 
 (1) Zentrale Meldestelle zur Verhinderung, Aufdeckung und
 Unterstützung bei der Bekämpfung von Geldwäsche und
@@ -3934,6 +3975,7 @@ Befugnisse fachlich unabhängig.
 
 
 ### § 28 Aufgaben, Aufsicht und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE002903128)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat die
 Aufgabe der Erhebung und Analyse von Informationen im Zusammenhang mit
@@ -4037,6 +4079,7 @@ nicht an eine andere zuständige staatliche Stelle übermittelt hat.
 
 
 ### § 28a Unterrichtung des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007800128)
 
 (1) Das Bundesministerium der Finanzen unterrichtet in Abständen von
 höchstens sechs Monaten ein Gremium des Deutschen Bundestages über die
@@ -4057,6 +4100,7 @@ hinzugezogenen weiteren Stellen.
 
 
 ### § 29 Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003003128)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen darf
 personenbezogene Daten verarbeiten, die aufgrund dieses Gesetzes
@@ -4183,6 +4227,7 @@ Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
 
 
 ### § 30 Analyse von Meldungen und Informationen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003102128)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat zur
 Erfüllung ihrer Aufgaben folgende Meldungen und Informationen
@@ -4272,6 +4317,7 @@ genommen hat oder nimmt.
 
 
 ### § 31 Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006702128)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann,
 soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei
@@ -4493,6 +4539,7 @@ der operativen Analyse ergibt, dass die Voraussetzungen für eine
 
 
 ### § 32 Datenübermittlungsverpflichtung an inländische öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003304128)
 
 (1) Meldungen nach § 43 Absatz 1, § 44 sind von der Zentralstelle für
 Finanztransaktionsuntersuchungen unverzüglich an das Bundesamt für
@@ -4641,6 +4688,7 @@ zuvor zugestimmt hat.
 
 
 ### § 32a Datenübermittlung an Europol
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007000123)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen ist befugt,
 auf ordnungsgemäß begründete Ersuchen von Europol Finanzinformationen
@@ -4684,6 +4732,7 @@ für Finanztransaktionsuntersuchungen.
 
 
 ### § 33 Datenaustausch mit Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003402123)
 
 (1) Der Datenaustausch mit den für die Verhinderung, Aufdeckung und
 Bekämpfung von Geldwäsche und von Terrorismusfinanzierung zuständigen
@@ -4790,6 +4839,7 @@ Mitgliedstaaten nach dieser Vorschrift zuständig ist.
 
 
 ### § 34 Informationsersuchen im Rahmen der internationalen Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003500000)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann die
 zentralen Meldestellen anderer Staaten, die mit der Verhinderung,
@@ -4827,6 +4877,7 @@ Zustimmung der übermittelnden zentralen Meldestelle einzuholen.
 
 
 ### § 35 Datenübermittlung im Rahmen der internationalen Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003602123)
 
 (1) Geht bei der Zentralstelle für Finanztransaktionsuntersuchungen
 eine Meldung nach § 43 Absatz 1 ein, die die Zuständigkeit eines
@@ -4977,6 +5028,7 @@ aufzubewahren und danach zu löschen.
 
 
 ### § 36 Automatisierter Datenabgleich im europäischen Verbund
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003700000)
 
 Die Zentralstelle für Finanztransaktionsuntersuchungen kann im Verbund
 mit zentralen Meldestellen anderer Mitgliedstaaten der Europäischen
@@ -4991,6 +5043,7 @@ dort vorliegen.
 
 
 ### § 37 Berichtigung, Einschränkung der Verarbeitung und Löschung personenbezogener Daten aus automatisierter Verarbeitung und bei Speicherung in automatisierten Dateien
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003800000)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen berichtigt
 unrichtig gespeicherte personenbezogene Daten, die sie automatisiert
@@ -5050,6 +5103,7 @@ ist, um schutzwürdige Interessen des Betroffenen zu wahren.
 
 
 ### § 38 Berichtigung, Einschränkung der Verarbeitung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet werden noch in einer automatisierten Datei gespeichert sind
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE003901123)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hält in
 geeigneter Weise fest, wenn
@@ -5117,6 +5171,7 @@ worden sind, gilt § 37 Absatz 7 entsprechend.
 
 
 ### § 38a Protokollierung von Informationsersuchen, Statistik, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007100123)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen
 protokolliert Ersuchen um Auskunft in den Fällen des § 32 Absatz 3a,
@@ -5169,6 +5224,7 @@ Bereitstellung zu regeln.
 
 
 ### § 39 Errichtungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004001128)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen erlässt für
 jedes automatisierte Verfahren zur Verarbeitung personenbezogener
@@ -5224,6 +5280,7 @@ oder der Änderung der Errichtungsanordnung zu überprüfen.
 
 
 ### § 40 Sofortmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007200128)
 
 (1) Liegen der Zentralstelle für Finanztransaktionsuntersuchungen
 Anhaltspunkte dafür vor, dass eine Transaktion im Zusammenhang mit
@@ -5308,6 +5365,7 @@ aufschiebende Wirkung.
 
 
 ### § 41 Rückmeldung an Verpflichtete und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004201128)
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen bestätigt
 dem Verpflichteten, der eine Meldung nach § 43 Absatz 1 durch
@@ -5327,6 +5385,7 @@ Gesetzes und des § 31b Absatz 2 der Abgabenordnung.
 
 
 ### § 42 Benachrichtigung von inländischen öffentlichen Stellen an die Zentralstelle für Finanztransaktionsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004301311)
 
 (1) In Strafverfahren, in denen die Zentralstelle für
 Finanztransaktionsuntersuchungen Informationen weitergeleitet hat,
@@ -5349,9 +5408,11 @@ Abgabenordung steht dem nicht entgegen.
 
 
 ## Abschnitt 6 - Pflichten im Zusammenhang mit Meldungen von Sachverhalten
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000600000)
 
 
 ### § 43 Meldepflicht von Verpflichteten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004404128)
 
 (1) Liegen Tatsachen vor, die darauf hindeuten, dass
 
@@ -5428,6 +5489,7 @@ Absatz 1 zu melden sind.
 
 
 ### § 44 Meldepflicht von Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004501123)
 
 (1) Liegen Tatsachen vor, die darauf hindeuten, dass ein
 Vermögensgegenstand mit Geldwäsche oder mit Terrorismusfinanzierung im
@@ -5442,6 +5504,7 @@ der Aktien-, Devisen- und Finanzderivatemärkte zuständig sind.
 
 
 ### § 45 Form der Meldung, Registrierungspflicht, Ausführung durch Dritte, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004602128)
 
 (1) Die Meldung nach § 43 Absatz 1 oder § 44 hat elektronisch zu
 erfolgen. Verpflichtete nach § 2 Absatz 1 haben sich unabhängig von
@@ -5472,6 +5535,7 @@ werden.
 
 
 ### § 46 Durchführung von Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004701128)
 
 (1) Eine Transaktion, wegen der eine Meldung nach § 43 Absatz 1
 erfolgt ist, darf frühestens durchgeführt werden, wenn
@@ -5507,6 +5571,7 @@ unverzüglich nachzuholen.
 
 
 ### § 47 Verbot der Informationsweitergabe, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004802128)
 
 (1) Ein Verpflichteter darf den Vertragspartner, den Auftraggeber der
 Transaktion und sonstige Dritte nicht in Kenntnis setzen von
@@ -5660,6 +5725,7 @@ weitergegeben werden dürfen.
 
 
 ### § 48 Freistellung von der Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE004901123)
 
 (1) Wer Sachverhalte nach § 43 meldet oder eine Strafanzeige nach §
 158 der Strafprozessordnung erstattet, darf deshalb nicht nach
@@ -5684,6 +5750,7 @@ erstattet worden.
 
 
 ### § 49 Informationszugang und Schutz der meldenden Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005001311)
 
 (1) Ist die Analyse aufgrund eines nach § 43 gemeldeten Sachverhalts
 noch nicht abgeschlossen, so kann die Zentralstelle für
@@ -5749,9 +5816,11 @@ Verfügung.
 
 
 ## Abschnitt 7 - Aufsicht, Zusammenarbeit, Bußgeldvorschriften, Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNG000700000)
 
 
 ### § 50 Zuständige Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE007900128)
 
 Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
@@ -5863,6 +5932,7 @@ Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
 
 ### § 51 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005203128)
 
 (1) Die Aufsichtsbehörden üben die Aufsicht über die Verpflichteten
 aus.
@@ -6104,6 +6174,7 @@ Rechtsverordnung nach § 15 Absatz 10 Satz 1 Nummer 2.
 
 
 ### § 51a Verarbeitung personenbezogener Daten durch Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006600311)
 
 (1) Die nach diesem Gesetz zuständigen Aufsichtsbehörden sind befugt,
 personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer
@@ -6167,6 +6238,7 @@ zustimmt.
 
 
 ### § 52 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005301311)
 
 (1) Ein Verpflichteter, die Mitglieder seiner Organe und seine
 Beschäftigten haben der nach § 50 Nummer 1 zuständigen
@@ -6223,6 +6295,7 @@ Absätze 4 und 5 gelten entsprechend.
 
 
 ### § 53 Hinweise auf Verstöße
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005402128)
 
 (1) Die Aufsichtsbehörden errichten ein System zur Annahme von
 Hinweisen zu potenziellen oder tatsächlichen Verstößen gegen dieses
@@ -6318,6 +6391,7 @@ Absätze 3 bis 7 finden insoweit keine Anwendung.
 
 
 ### § 54 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005501311)
 
 (1) Soweit Personen, die bei den zuständigen Aufsichtsbehörden nach §
 50 beschäftigt sind oder für diese Aufsichtsbehörden tätig sind,
@@ -6401,6 +6475,7 @@ stammen, dürfen nur weitergegeben werden
 
 
 ### § 55 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005603128)
 
 (1) Die Aufsichtsbehörden arbeiten zur Verhinderung und zur Bekämpfung
 von Geldwäsche und von Terrorismusfinanzierung bei der Wahrnehmung
@@ -6526,6 +6601,7 @@ Erfüllung der aufsichtsrechtlichen Aufgaben dieser Behörden dienen. §
 
 
 ### § 56 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE008000128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -7065,6 +7141,7 @@ Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 3 und 6 bis 9 über
 
 
 ### § 57 Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005801311)
 
 (1) Die zuständigen Aufsichts- und Verwaltungsbehörden und die Behörde
 nach § 56 Absatz 5 Satz 2 haben bestandskräftige Maßnahmen und
@@ -7116,10 +7193,12 @@ mehr erforderlich ist.
 
 
 ### § 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE005901311)
 
 
 
 ### § 59 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006005128)
 
 (1) Die Mitteilungen nach § 20 Absatz 1 und § 21 haben erstmals bis
 zum 1. Oktober 2017 an das Transparenzregister zu erfolgen.
@@ -7271,6 +7350,7 @@ hat.
 (zu den §§ 5, 10, 14, 15)
 
 ### Anlage 1 Faktoren für ein potenziell geringeres Risiko
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006101311)
 
 (Fundstelle: BGBl. I 2017, 1858;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7360,6 +7440,7 @@ möglichen Anzeichen für ein potenziell geringeres Risiko nach § 14:
 (zu den §§ 5, 10, 14, 15)
 
 ### Anlage 2 Faktoren für ein potenziell höheres Risiko
+[Direktlink](https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html#BJNR182210017BJNE006201311)
 
 (Fundstelle: BGBl. I 2017, 1859;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

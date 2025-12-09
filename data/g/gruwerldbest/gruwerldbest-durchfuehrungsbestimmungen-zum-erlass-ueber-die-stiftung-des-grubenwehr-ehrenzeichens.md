@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gruwerldbest/BJNR006630953.html#BJNR006630953BJNE000100319)
 
 Auf Grund des § 6 des Erlasses über die Stiftung des Grubenwehr-
 Ehrenzeichens vom 14. Juli 1953 wird für die Einreichung und
@@ -25,6 +26,7 @@ Behandlung der Vorschläge folgendes bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gruwerldbest/BJNR006630953.html#BJNR006630953BJNE000200319)
 
 (1) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens
 sind von den Ministerpräsidenten der Länder, dem Regierenden
@@ -44,6 +46,7 @@ Bonn vorrätig gehalten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gruwerldbest/BJNR006630953.html#BJNR006630953BJNE000300319)
 
 Die Verleihungsurkunden werden vom Chef des Bundespräsidialamtes nach
 Vollziehung der Unterschrift durch den Bundespräsidenten zusammen mit
@@ -54,6 +57,7 @@ Abs. 3) mit.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gruwerldbest/BJNR006630953.html#BJNR006630953BJNE000400319)
 
 Personen, denen auf Grund der Verordnung vom 30. Januar 1938
 (Reichsgesetzbl. I S. 83) das Grubenwehr-Ehrenzeichen verliehen worden
@@ -63,6 +67,7 @@ Vorschlagsberechtigten beantragen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gruwerldbest/BJNR006630953.html#BJNR006630953BJNE000500319)
 
 Verlorengegangene Grubenwehr-Ehrenzeichen werden nicht ersetzt. Der
 Inhaber ist berechtigt, sich auf seine Kosten ein Ersatzstück zu
@@ -70,6 +75,7 @@ beschaffen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gruwerldbest/BJNR006630953.html#BJNR006630953BJNE000600319)
 
 Der Bundespräsident
 Der Bundeskanzler

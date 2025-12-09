@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000100000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 4 der
@@ -35,6 +36,7 @@ Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000200000)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Hotelmeister/zur
@@ -99,6 +101,7 @@ Abschluss "Geprüfter Hotelmeister/Geprüfte Hotelmeisterin".
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000301308)
 
 (1) Zur Prüfung im Prüfungsteil "Wirtschaftsbezogene Qualifikationen"
 ist zuzulassen, wer
@@ -178,6 +181,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000401308)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -247,6 +251,7 @@ integrativen Situationsaufgaben nach Maßgabe des § 6 Abs. 1 und 2.
 
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000501308)
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen
 zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre
@@ -379,6 +384,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000600000)
 
 (1) Im Qualifikationsschwerpunkt "Gäste beraten, empfangen und
 beherbergen" soll die Fähigkeit nachgewiesen werden, gastorientierte
@@ -549,6 +555,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000701128)
 
 (1) Im Prüfungsteil "Praktische Prüfung" sind zwei Situationsaufgaben
 zu bearbeiten, die vollständige Handlungen beinhalten, wie sie für die
@@ -612,12 +619,14 @@ Qualifikationsinhalte zu prüfen:
 
 
 ## § 7 Berufs- und arbeitspädagogische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000800000)
 
 Die "Berufs- und arbeitspädagogischen Qualifikationen" sind durch eine
 Prüfung gemäß der Ausbilder-Eignungsverordnung nachzuweisen.
 
 
 ## § 8 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE000902128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -630,6 +639,7 @@ Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 9 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001002128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -669,6 +679,7 @@ gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
 
 
 ## § 10 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -734,6 +745,7 @@ ist die Gesamtnote.
 
 
 ## § 11 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001700128)
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -760,6 +772,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 12 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001101128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -775,6 +788,7 @@ das letzte Ergebnis zu berücksichtigen.
 
 
 ## § 13 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001202128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu
@@ -782,12 +796,14 @@ Ende geführt werden.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001301128)
 
 Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 
 (zu den §§ 9 und 10)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001404128)
 
 (Fundstelle: BGBl. I 2019, 2248 – 2249)
 
@@ -1089,6 +1105,7 @@ Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 (zu § 11)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/hotelmeistprv/BJNR156800003.html#BJNR156800003BJNE001504128)
 
 (Fundstelle: BGBl. I 2019, 2249 – 2250)
 

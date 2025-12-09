@@ -26,6 +26,7 @@ Dezember 1988 (ABl. EG Nr. L 40 S. 34) in deutsches Recht umgesetzt.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000100307)
 
 Auf Grund des § 19 Abs. 1 Nr. 1 und 2 Buchstabe a, b und d sowie Nr. 4
 Buchstabe a des Lebensmittel- und Bedarfsgegenständegesetzes vom 15.
@@ -39,6 +40,7 @@ Landwirtschaft und Forsten und für Wirtschaft:
 
 
 ## § 1 Begriffsbestimmung, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000203310)
 
 (1) Tiefgefrorene Lebensmittel im Sinne dieser Verordnung sind
 Lebensmittel, die
@@ -63,6 +65,7 @@ Lebensmittel, die
 
 
 ## § 2 Anforderungen an das Herstellen und Behandeln
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000304116)
 
 (1) Zum Tiefgefrieren müssen Lebensmittel von einwandfreier
 handelsüblicher Qualität verwendet werden, die den nötigen Frischegrad
@@ -102,6 +105,7 @@ Privathaushalte.
 
 
 ## § 2a Lufttemperaturmessung
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE001102310)
 
 (1) Der für die Beförderung sowie für die Einlagerungs- und
 Lagereinrichtungen für tiefgefrorene Lebensmittel Verantwortliche hat
@@ -126,6 +130,7 @@ ist deutlich zu kennzeichnen.
 
 
 ## § 2b Amtliche Lebensmittelüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE001201310)
 
 (1) Die amtliche Überwachung der Temperaturen tiefgefrorener
 Lebensmittel erfolgt gemäß den Anhängen I und II der Richtlinie
@@ -145,6 +150,7 @@ gemeinschaftlichen Verfahren erhaltenen Ergebnisse ausschlaggebend.
 
 
 ## § 3 Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000402116)
 
 Lebensmittel dürfen mit den Angaben "tiefgefroren", "tiefgekühlt",
 "Tiefkühlkost" oder "gefrostet" nur in den Verkehr gebracht werden,
@@ -153,6 +159,7 @@ entsprechen.
 
 
 ## § 4 Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000503116)
 
 Tiefgefrorene Lebensmittel, die zur Abgabe an Verbraucher bestimmt
 sind, dürfen nur in Verpackungen in den Verkehr gebracht werden, die
@@ -162,6 +169,7 @@ schützen.
 
 
 ## § 5 Kennzeichnung von Erzeugnissen für Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000603116)
 
 Vorverpackte tiefgefrorene Lebensmittel, die zur Abgabe an Verbraucher
 bestimmt sind, dürfen nur in den Verkehr gebracht werden, wenn
@@ -202,6 +210,7 @@ ihrer Betriebsstätte beziehen, gleich.
 
 
 ## § 6 Kennzeichnung von Erzeugnissen, die nicht für Verbraucher bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000705116)
 
 (1) Tiefgefrorene Lebensmittel, die nicht zur Abgabe an Verbraucher
 bestimmt sind, dürfen nur in den Verkehr gebracht werden, wenn
@@ -230,6 +239,7 @@ der Umhüllung oder einem damit verbundenen Etikett angebracht werden.
 
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000803310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Lebensmittel,
@@ -272,21 +282,25 @@ Jahr aufbewahrt.
 
 
 ## § 7a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE001302310)
 
 -
 
 
 ## § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE000901310)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE001000307)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tlmv/BJNR020510991.html#BJNR020510991BJNE001401310)
 
 -
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000100319)
 
 
 
 ### § 1 Feststellung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001000319)
 
 Der Haushaltsplan wird für ein oder zwei Rechnungsjahre, nach Jahren
 getrennt, vor Beginn des ersten Rechnungsjahres durch das
@@ -32,6 +34,7 @@ Gesamtplan (§ 13 Abs. 4) verkündet.
 
 
 ### § 2 Bedeutung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001100319)
 
 Der Haushaltsplan dient der Feststellung und Deckung des
 Finanzbedarfs, der zur Erfüllung der Aufgaben des Bundes im
@@ -42,6 +45,7 @@ gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.
 
 
 ### § 3 Wirkungen des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001200319)
 
 (1) Der Haushaltsplan ermächtigt die Verwaltung, Ausgaben zu leisten
 und Verpflichtungen einzugehen.
@@ -51,6 +55,7 @@ weder begründet noch aufgehoben.
 
 
 ### § 4 Haushaltsjahr
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001301301)
 
 Rechnungsjahr (Haushaltsjahr) ist das Kalenderjahr. Das
 Bundesministerium der Finanzen kann für einzelne Bereiche etwas
@@ -58,6 +63,7 @@ anderes bestimmen.
 
 
 ### § 5 Allgemeine Verwaltungsvorschriften, vorläufige und endgültige Haushalts- und Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001402301)
 
 Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz sowie zur
 vorläufigen und endgültigen Haushalts- und Wirtschaftsführung erläßt
@@ -65,6 +71,7 @@ das Bundesministerium der Finanzen.
 
 
 ### § 6 Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001500319)
 
 Bei Aufstellung und Ausführung des Haushaltsplans sind nur die
 Ausgaben und die Ermächtigungen zum Eingehen von Verpflichtungen zur
@@ -74,6 +81,7 @@ der Aufgaben des Bundes notwendig sind.
 
 
 ### § 7 Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001603308)
 
 (1) Bei Aufstellung und Ausführung des Haushaltsplans sind die
 Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten. Diese
@@ -95,6 +103,7 @@ einzuführen.
 
 
 ### § 8 Grundsatz der Gesamtdeckung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001701301)
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die
 Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden,
@@ -103,6 +112,7 @@ zugelassen ist.
 
 
 ### § 9 Beauftragter für den Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001800319)
 
 (1) Bei jeder Dienststelle, die Einnahmen oder Ausgaben
 bewirtschaftet, ist ein Beauftragter für den Haushalt zu bestellen,
@@ -119,6 +129,7 @@ beteiligen. Er kann Aufgaben bei der Ausführung des Haushaltsplans
 
 
 ### § 10 Unterrichtung des Bundestages und des Bundesrates
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE001900319)
 
 (1) Die Bundesregierung fügt ihren Gesetzesvorlagen einschließlich der
 nach Artikel 59 Abs. 2 des Grundgesetzes vorzulegenden Verträge sowie
@@ -140,6 +151,7 @@ beabsichtigen, Hilfe bei der Ermittlung der finanziellen Auswirkungen.
 
 
 ### § 10a Geheimhaltungsbedürftige Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE013005160)
 
 (1) Bei Ausgaben, deren Verwendung geheimzuhalten ist, kann der
 Haushaltsplan bestimmen, daß die Prüfung durch den Bundesrechnungshof
@@ -184,10 +196,12 @@ unterrichten. § 97 Abs. 4 bleibt unberührt.
 
 
 ## Teil II - Aufstellung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000200319)
 
 
 
 ### § 11 Vollständigkeit und Einheit, Fälligkeitsprinzip
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002001123)
 
 (1) Für jedes Haushaltsjahr ist ein Haushaltsplan aufzustellen.
 
@@ -212,6 +226,7 @@ Krediteinnahme muss stets der Kassenwirkung der Zahlungen entsprechen.
 
 
 ### § 12 Geltungsdauer der Haushaltspläne
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002100319)
 
 (1) Der Haushaltsplan kann für zwei Haushaltsjahre, nach Jahren
 getrennt, aufgestellt werden.
@@ -240,6 +255,7 @@ Finanzhaushalt gegliedert, enthält der Verwaltungshaushalt
 
 
 ### § 13 Einzelpläne, Gesamtplan, Gruppierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002203123)
 
 (1) Der Haushaltsplan besteht aus den Einzelplänen und dem Gesamtplan.
 
@@ -329,6 +345,7 @@ Ausgaben des Haushaltsplans nach Arten (Gruppierungsplan).
 
 
 ### § 14 Übersichten zum Haushaltsplan, Funktionenplan
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002302123)
 
 (1) Der Haushaltsplan hat folgende Anlagen:
 
@@ -376,6 +393,7 @@ Aufgabengebieten (Funktionenplan).
 
 
 ### § 15 Bruttoveranschlagung, Selbstbewirtschaftungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002400319)
 
 (1) Die Einnahmen und Ausgaben sind in voller Höhe und getrennt
 voneinander zu veranschlagen. Dies gilt nicht für die Veranschlagung
@@ -397,6 +415,7 @@ Ausgabe nachzuweisen.
 
 
 ### § 16 Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002500319)
 
 Die Verpflichtungsermächtigungen sind bei den jeweiligen Ausgaben
 gesondert zu veranschlagen. Wenn Verpflichtungen zu Lasten mehrerer
@@ -405,6 +424,7 @@ Haushaltsplan angegeben werden.
 
 
 ### § 17 Einzelveranschlagung, Erläuterungen, Planstellen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002601123)
 
 (1) Die Einnahmen sind nach dem Entstehungsgrund, die Ausgaben und die
 Verpflichtungsermächtigungen nach Zwecken getrennt zu veranschlagen
@@ -437,6 +457,7 @@ auszuweisen.
 
 
 ### § 17a Obergrenzen für Beförderungsämter
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE013300123)
 
 (1) Die Anteile der Beförderungsämter dürfen nach Maßgabe
 sachgerechter Bewertung nach § 18 des Bundesbesoldungsgesetzes
@@ -699,6 +720,7 @@ beschränkt werden.
 
 
 ### § 18 Kreditermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002705123)
 
 (1) Einnahmen aus Krediten zur Deckung von Ausgaben dürfen bis zur
 Höhe der nach dem Artikel 115-Gesetz zulässigen Kreditaufnahme in den
@@ -752,6 +774,7 @@ identisch mit der Höhe dieser Kreditermächtigungen.
 
 
 ### § 19 Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002801301)
 
 (1) Ausgaben für Investitionen und Ausgaben aus zweckgebundenen
 Einnahmen sind übertragbar. Andere Ausgaben können im Haushaltsplan
@@ -768,6 +791,7 @@ bereitgestellt werden können.
 
 
 ### § 20 Deckungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE002901301)
 
 (1) Deckungsfähig sind innerhalb desselben Kapitels
 
@@ -801,6 +825,7 @@ deckungsfähig erklärt werden.
 
 
 ### § 21 Wegfall- und Umwandlungsvermerke
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003000319)
 
 (1) Ausgaben und Planstellen sind als künftig wegfallend zu
 bezeichnen, soweit sie in den folgenden Haushaltsjahren
@@ -813,6 +838,7 @@ Arbeiter umgewandelt werden können.
 
 
 ### § 22 Sperrvermerk
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003100319)
 
 Ausgaben, die aus besonderen Gründen zunächst noch nicht geleistet
 oder zu deren Lasten noch keine Verpflichtungen eingegangen werden
@@ -824,6 +850,7 @@ Verpflichtungsermächtigungen der Einwilligung des Bundestages bedarf.
 
 
 ### § 23 Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003201123)
 
 Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen
 außerhalb der Bundesverwaltung zur Erfüllung bestimmter Zwecke
@@ -835,6 +862,7 @@ erfüllen grundsätzlich die in Satz 1 genannten Voraussetzungen.
 
 
 ### § 24 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003302301)
 
 (1) Ausgaben und Verpflichtungsermächtigungen für Baumaßnahmen dürfen
 erst veranschlagt werden, wenn Pläne, Kostenermittlungen und
@@ -865,6 +893,7 @@ werden. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.
 
 
 ### § 25 Überschuß, Fehlbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003400319)
 
 (1) Der Überschuß oder der Fehlbetrag ist der Unterschied zwischen den
 tatsächlich eingegangenen Einnahmen (Ist-Einnahmen) und den
@@ -886,6 +915,7 @@ Kreditaufnahme nicht ausgeschöpft sind.
 
 
 ### § 26 Bundesbetriebe, Sondervermögen, Zuwendungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003501301)
 
 (1) Bundesbetriebe haben einen Wirtschaftsplan aufzustellen, wenn ein
 Wirtschaften nach Einnahmen und Ausgaben des Haushaltsplans nicht
@@ -920,6 +950,7 @@ Ausnahmen zulassen.
 
 
 ### § 27 Voranschläge
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003601301)
 
 (1) Die Voranschläge sind von der für den Einzelplan zuständigen
 Stelle dem Bundesministerium der Finanzen zu dem von ihm zu
@@ -933,6 +964,7 @@ nehmen.
 
 
 ### § 28 Aufstellung des Entwurfs des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003702360)
 
 (1) Das Bundesministerium der Finanzen prüft die Voranschläge und
 stellt den Entwurf des Haushaltsplans auf. Es kann die Voranschläge
@@ -955,6 +987,7 @@ mitzuteilen, soweit den Änderungen nicht zugestimmt worden ist.
 
 
 ### § 29 Beschluß über den Entwurf des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003802360)
 
 (1) Der Entwurf des Haushaltsgesetzes wird mit dem Entwurf des
 Haushaltsplans von der Bundesregierung beschlossen.
@@ -980,6 +1013,7 @@ beizufügen.
 
 
 ### § 30 Vorlagefrist
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE003900319)
 
 Der Entwurf des Haushaltsgesetzes ist mit dem Entwurf des
 Haushaltsplans vor Beginn des Haushaltsjahres dem Bundesrat zuzuleiten
@@ -988,6 +1022,7 @@ Sitzungswoche des Bundestages nach dem 1. September.
 
 
 ### § 31 Finanzbericht
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004001301)
 
 Zum Entwurf des Haushaltsgesetzes und des Haushaltsplans hat das
 Bundesministerium der Finanzen einen Bericht über den Stand und die
@@ -996,12 +1031,14 @@ mit der gesamtwirtschaftlichen Entwicklung zu erstatten.
 
 
 ### § 32 Ergänzungen zum Entwurf des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004100319)
 
 Auf Ergänzungen zum Entwurf des Haushaltsgesetzes und des
 Haushaltsplans sind die Teile I und II entsprechend anzuwenden.
 
 
 ### § 33 Nachtragshaushaltsgesetze
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004200319)
 
 Auf Nachträge zum Haushaltsgesetz und zum Haushaltsplan sind die Teile
 I und II entsprechend anzuwenden. Der Entwurf ist bis zum Ende des
@@ -1009,10 +1046,12 @@ Haushaltsjahres einzubringen.
 
 
 ## Teil III - Ausführung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000300319)
 
 
 
 ### § 34 Erhebung der Einnahmen, Bewirtschaftung der Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004300319)
 
 (1) Einnahmen sind rechtzeitig und vollständig zu erheben.
 
@@ -1026,6 +1065,7 @@ Verpflichtungsermächtigungen entsprechend.
 
 
 ### § 35 Bruttonachweis, Einzelnachweis
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004400319)
 
 (1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei dem
 hierfür vorgesehenen Titel zu buchen, soweit sich aus § 15 Abs. 1 Satz
@@ -1037,6 +1077,7 @@ gilt für die Inanspruchnahme von Verpflichtungsermächtigungen.
 
 
 ### § 36 Aufhebung der Sperre
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004501301)
 
 Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums
 der Finanzen dürfen Ausgaben, die durch Gesetz oder im Haushaltsplan
@@ -1047,6 +1088,7 @@ Bundestages einzuholen.
 
 
 ### § 37 Über- und außerplanmäßige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004603123)
 
 (1) Überplanmäßige und außerplanmäßige Ausgaben bedürfen der
 Einwilligung des Bundesministeriums der Finanzen. Sie darf nur im
@@ -1089,6 +1131,7 @@ der Finanzen kann Ausnahmen zulassen.
 
 
 ### § 38 Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004703301)
 
 (1) Maßnahmen, die den Bund zur Leistung von Ausgaben in künftigen
 Haushaltsjahren verpflichten können, sind nur zulässig, wenn der
@@ -1131,6 +1174,7 @@ Abs. 2 Satz 1 des Grundgesetzes nicht anzuwenden.
 
 
 ### § 39 Gewährleistungen, Kreditzusagen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004801301)
 
 (1) Die Übernahme von Bürgschaften, Garantien oder sonstigen
 Gewährleistungen, die zu Ausgaben in künftigen Haushaltsjahren führen
@@ -1161,6 +1205,7 @@ Einwilligung des Bundesministeriums der Finanzen abgesehen werden.
 
 
 ### § 40 Andere Maßnahmen von finanzieller Bedeutung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE004901301)
 
 (1) Der Erlaß von Rechtsverordnungen und Verwaltungsvorschriften, der
 Abschluß von Tarifverträgen und die Gewährung von über- oder
@@ -1180,6 +1225,7 @@ anzuwenden.
 
 
 ### § 41 Haushaltswirtschaftliche Sperre
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005001301)
 
 Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann
 das Bundesministerium der Finanzen nach Benehmen mit dem zuständigen
@@ -1188,6 +1234,7 @@ Verpflichtungen eingegangen oder Ausgaben geleistet werden.
 
 
 ### § 42 Konjunkturpolitisch bedingte zusätzliche Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005100319)
 
 Bei Vorlagen, die dem Bundestag und dem Bundesrat nach § 8 Abs. 1 des
 Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
@@ -1195,6 +1242,7 @@ zugeleitet werden, kann der Bundestag die Ausgaben kürzen.
 
 
 ### § 43 Kassenmittel, Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005201301)
 
 (1) Das Bundesministerium der Finanzen ermächtigt im Rahmen der zur
 Verfügung stehenden Kassenmittel die zuständigen Behörden, in ihrem
@@ -1207,6 +1255,7 @@ Kassenmittel so anlegen, daß über sie bei Bedarf verfügt werden kann.
 
 
 ### § 44 Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005304123)
 
 (1) Zuwendungen dürfen nur unter den Voraussetzungen des § 23 gewährt
 werden. Dabei ist zu bestimmen, wie die zweckentsprechende Verwendung
@@ -1247,11 +1296,13 @@ Rückgriff nehmen.
 
 
 ### § 44a
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005402308)
 
 -
 
 
 ### § 45 Sachliche und zeitliche Bindung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005501301)
 
 (1) Ausgaben und Verpflichtungsermächtigungen dürfen nur zu dem im
 Haushaltsplan bezeichneten Zweck, soweit und solange er fortdauert,
@@ -1283,6 +1334,7 @@ Haushaltsjahr zu leisten sind.
 
 
 ### § 46 Deckungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005600319)
 
 Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach
 Maßgabe des § 20 Abs. 1 oder des Deckungsvermerks zugunsten einer
@@ -1290,6 +1342,7 @@ anderen Ausgabe verwendet werden.
 
 
 ### § 47 Wegfall- und Umwandlungsvermerke
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005700319)
 
 (1) Über Ausgaben, die der Haushaltsplan als künftig wegfallend
 bezeichnet, darf von dem Zeitpunkt an, mit dem die im Haushaltsplan
@@ -1312,6 +1365,7 @@ Arbeiter entsprechend.
 
 
 ### § 48 Höchstaltersgrenze bei der Berufung in ein Beamten- oder Soldatenverhältnis oder Versetzung von Beamtinnen und Beamten in den Bundesdienst
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005804123)
 
 (1) Berufungen in ein Beamtenverhältnis oder Versetzungen in den
 Bundesdienst dürfen nur erfolgen, wenn
@@ -1369,6 +1423,7 @@ oberste Bundesbehörde für ihren Geschäftsbereich.
 
 
 ### § 49 Einweisung in eine Planstelle
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE005900319)
 
 (1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare
 Planstelle verliehen werden.
@@ -1384,6 +1439,7 @@ Voraussetzungen für die Beförderung erfüllt hat.
 
 
 ### § 50 Umsetzung von Mitteln und Planstellen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006001301)
 
 (1) Die Bundesregierung kann Mittel und Planstellen umsetzen, wenn
 Aufgaben von einer Verwaltung auf eine andere Verwaltung übergehen.
@@ -1412,6 +1468,7 @@ eine Leerstelle schaffen.
 
 
 ### § 51 Besondere Personalausgaben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006100319)
 
 Personalausgaben, die nicht auf Gesetz oder Tarifvertrag beruhen,
 dürfen nur geleistet werden, wenn dafür Ausgabemittel besonders zur
@@ -1419,6 +1476,7 @@ Verfügung gestellt sind.
 
 
 ### § 52 Nutzungen und Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006201301)
 
 Nutzungen und Sachbezüge dürfen Angehörigen des öffentlichen Dienstes
 nur gegen angemessenes Entgelt gewährt werden, soweit nicht durch
@@ -1432,12 +1490,14 @@ auszubringen.
 
 
 ### § 53 Billigkeitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006300319)
 
 Leistungen aus Gründen der Billigkeit dürfen nur gewährt werden, wenn
 dafür Ausgabemittel besonders zur Verfügung gestellt sind.
 
 
 ### § 54 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006403123)
 
 (1) Baumaßnahmen dürfen nur begonnen werden, wenn ausführliche
 Entwurfszeichnungen und Kostenberechnungen vorliegen, es sei denn, daß
@@ -1463,6 +1523,7 @@ Anwendung.
 
 
 ### § 55 Öffentliche Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006501360)
 
 (1) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss
 eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit
@@ -1479,6 +1540,7 @@ verfahren.
 
 
 ### § 56 Vorleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006601301)
 
 (1) Vor Empfang der Gegenleistung dürfen Leistungen des Bundes nur
 vereinbart oder bewirkt werden, wenn dies allgemein üblich oder durch
@@ -1490,6 +1552,7 @@ gewährt werden.
 
 
 ### § 57 Verträge mit Angehörigen des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006701301)
 
 Zwischen Angehörigen des öffentlichen Dienstes und ihrer Dienststelle
 dürfen Verträge nur mit Einwilligung des zuständigen
@@ -1500,6 +1563,7 @@ die allgemein Entgelte festgesetzt sind.
 
 
 ### § 58 Änderung von Verträgen, Vergleiche
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006801301)
 
 (1) Das zuständige Bundesministerium darf
 
@@ -1519,6 +1583,7 @@ Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
 
 
 ### § 59 Veränderung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE006901301)
 
 (1) Das zuständige Bundesministerium darf Ansprüche nur
 
@@ -1549,6 +1614,7 @@ Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
 
 
 ### § 60 Vorschüsse, Verwahrungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007001301)
 
 (1) Als Vorschuß darf eine Ausgabe nur gebucht werden, wenn die
 Verpflichtung zur Leistung zwar feststeht, die Ausgabe aber noch nicht
@@ -1566,6 +1632,7 @@ werden.
 
 
 ### § 61 Interne Verrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007101301)
 
 (1) Innerhalb der Bundesverwaltung dürfen Vermögensgegenstände für
 andere Zwecke als die, für die sie beschafft wurden, nur gegen
@@ -1593,6 +1660,7 @@ dringend geboten sind.
 
 
 ### § 62 Kassenverstärkungsrücklage
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007200319)
 
 Zur Aufrechterhaltung einer ordnungsmäßigen Kassenwirtschaft ohne
 Inanspruchnahme von Kreditermächtigungen (§ 18 Abs. 2 Nr. 2) soll
@@ -1602,6 +1670,7 @@ werden.
 
 
 ### § 63 Erwerb und Veräußerung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007302308)
 
 (1) Vermögensgegenstände sollen nur erworben werden, soweit sie zur
 Erfüllung der Aufgaben des Bundes in absehbarer Zeit erforderlich
@@ -1625,6 +1694,7 @@ die Absätze 2 und 3 entsprechend.
 
 
 ### § 64 Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007401301)
 
 (1) Bundeseigene Grundstücke dürfen nur mit Einwilligung des
 Bundesministeriums der Finanzen und des für das Bundesvermögen
@@ -1654,6 +1724,7 @@ Voraussetzungen des § 38 Abs. 1 übernommen werden.
 
 
 ### § 65 Beteiligung an privatrechtlichen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007503301)
 
 (1) Der Bund soll sich, außer in den Fällen des Absatzes 5, an der
 Gründung eines Unternehmens in einer Rechtsform des privaten Rechts
@@ -1726,6 +1797,7 @@ Bundesrat alsbald von der Veräußerung zu unterrichten.
 
 
 ### § 66 Unterrichtung des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007601301)
 
 Besteht eine Mehrheitsbeteiligung im Sinne des § 53 des
 Haushaltsgrundsätzegesetzes, so hat das zuständige Bundesministerium
@@ -1734,6 +1806,7 @@ Haushaltsgrundsätzegesetzes bestimmten Befugnisse eingeräumt werden.
 
 
 ### § 67 Prüfungsrecht durch Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007701301)
 
 Besteht keine Mehrheitsbeteiligung im Sinne des § 53 des
 Haushaltsgrundsätzegesetzes, so soll das zuständige Bundesministerium,
@@ -1749,6 +1822,7 @@ Sinne des § 53 des Haushaltgrundsätzegesetzes beteiligt ist.
 
 
 ### § 68 Zuständigkeitsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007801301)
 
 (1) Die Rechte nach § 53 Abs. 1 des Haushaltsgrundsätzegesetzes übt
 das für die Beteiligung zuständige Bundesministerium aus. Bei der Wahl
@@ -1764,6 +1838,7 @@ Bundesrechnungshofes.
 
 
 ### § 69 Unterrichtung des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE007901301)
 
 Das zuständige Bundesministerium übersendet dem Bundesrechnungshof
 innerhalb von drei Monaten nach der Haupt- oder
@@ -1789,6 +1864,7 @@ Es teilt dabei das Ergebnis seiner Prüfung mit.
 
 
 ### § 69a Parlamentarische Kontrolle von Bundesbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE013100160)
 
 (1) Die Bundesregierung unterrichtet den Deutschen Bundestag über alle
 grundsätzlichen und wesentlichen Fragen der Beteiligungen des Bundes
@@ -1815,10 +1891,12 @@ unberührt.
 
 
 ## Teil IV - Zahlungen, Buchführung und Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000400319)
 
 
 
 ### § 70 Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008002301)
 
 Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder
 geleistet werden. Die Anordnung der Zahlung muß durch das zuständige
@@ -1828,6 +1906,7 @@ Finanzen kann Ausnahmen zulassen.
 
 
 ### § 71 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008103123)
 
 (1) Über Zahlungen ist nach der im Haushaltsplan oder sonst
 vorgesehenen Ordnung in zeitlicher Folge Buch zu führen. Über
@@ -1861,6 +1940,7 @@ gebucht.
 
 
 ### § 72 Buchung nach Haushaltsjahren
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008202301)
 
 (1) Zahlungen, eingegangene Verpflichtungen, Geldforderungen sowie
 andere Bewirtschaftungsvorgänge, für die nach § 71 Abs. 1 Satz 3 die
@@ -1901,6 +1981,7 @@ zugelassen werden.
 
 
 ### § 73 Vermögensbuchführung, integrierte Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008301301)
 
 (1) Über das Vermögen und die Schulden ist Buch zu führen oder ein
 anderer Nachweis zu erbringen. Das Nähere regelt das Bundesministerium
@@ -1911,6 +1992,7 @@ Buchführung über die Einnahmen und Ausgaben zu verbinden.
 
 
 ### § 74 Buchführung bei Bundesbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008401301)
 
 (1) Bundesbetriebe, die nach § 26 Abs. 1 Satz 1 einen Wirtschaftsplan
 aufstellen und bei denen eine Buchführung nach den §§ 71 bis 79 nicht
@@ -1929,11 +2011,13 @@ Finanzen zulassen.
 
 
 ### § 75 Belegpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008500319)
 
 Alle Buchungen sind zu belegen.
 
 
 ### § 76 Abschluß der Bücher
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008601301)
 
 (1) Die Bücher sind jährlich abzuschließen. Das Bundesministerium der
 Finanzen bestimmt den Zeitpunkt des Abschlusses.
@@ -1943,6 +2027,7 @@ mehr für den abgelaufenen Zeitraum gebucht werden.
 
 
 ### § 77 Kassensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008702301)
 
 Wer Anordnungen im Sinne des § 70 erteilt oder an ihnen verantwortlich
 mitwirkt, darf an Zahlungen oder Buchungen nicht beteiligt sein. Das
@@ -1951,6 +2036,7 @@ auf andere Weise gewährleistet wird.
 
 
 ### § 78 Unvermutete Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008801301)
 
 Für Zahlungen oder Buchungen zuständige Stellen sind mindestens
 jährlich, für die Verwaltung von Vorräten zuständige Stellen
@@ -1959,6 +2045,7 @@ der Finanzen kann Ausnahmen zulassen.
 
 
 ### § 79 Bundeskassen, Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE008905377)
 
 (1) Die Aufgaben der Kassen bei der Annahme und der Leistung von
 Zahlungen für den Bund werden für alle Stellen innerhalb und außerhalb
@@ -1993,6 +2080,7 @@ Vereinfachungen zulassen.
 
 
 ### § 80 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009002301)
 
 (1) Die zuständigen Stellen haben für jedes Haushaltsjahr auf der
 Grundlage der abgeschlossenen Bücher Rechnung zu legen. Das
@@ -2008,6 +2096,7 @@ Haushaltsrechnung und die Vermögensrechnung auf.
 
 
 ### § 81 Gliederung der Haushaltsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009100319)
 
 (1) In der Haushaltsrechnung sind die Einnahmen und Ausgaben nach der
 in § 71 bezeichneten Ordnung den Ansätzen des Haushaltsplans unter
@@ -2097,6 +2186,7 @@ Kreditbedarfs zugleich mit dem Nachweis des Überschusses darzustellen.
 
 
 ### § 82 Kassenmäßiger Abschluß
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009200319)
 
 In dem kassenmäßigen Abschluß sind nachzuweisen:
 
@@ -2142,6 +2232,7 @@ In dem kassenmäßigen Abschluß sind nachzuweisen:
 
 
 ### § 83 Haushaltsabschluß
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009300319)
 
 In dem Haushaltsabschluß sind nachzuweisen:
 
@@ -2185,12 +2276,14 @@ In dem Haushaltsabschluß sind nachzuweisen:
 
 
 ### § 84 Abschlußbericht
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009400319)
 
 Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem
 Bericht zu erläutern.
 
 
 ### § 85 Übersichten zur Haushaltsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009500319)
 
 Der Haushaltsrechnung sind Übersichten beizufügen über
 
@@ -2217,6 +2310,7 @@ Der Haushaltsrechnung sind Übersichten beizufügen über
 
 
 ### § 86 Vermögensrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009600319)
 
 In der Vermögensrechnung sind der Bestand des Vermögens und der
 Schulden zu Beginn des Haushaltsjahres, die Veränderungen während des
@@ -2225,6 +2319,7 @@ nachzuweisen.
 
 
 ### § 87 Rechnungslegung der Bundesbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009702301)
 
 (1) Bundesbetriebe, die nach den Regeln der kaufmännischen doppelten
 Buchführung buchen, stellen einen Jahresabschluß sowie einen
@@ -2241,10 +2336,12 @@ Bundesrechnungshof zu übersenden.
 
 
 ## Teil V - Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000500319)
 
 
 
 ### § 88 Aufgaben des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009801301)
 
 (1) Die gesamte Haushalts- und Wirtschaftsführung des Bundes
 einschließlich seiner Sondervermögen und Betriebe wird von dem
@@ -2258,6 +2355,7 @@ Bundesregierung.
 
 
 ### § 89 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE009900319)
 
 (1) Der Bundesrechnungshof prüft
 
@@ -2282,6 +2380,7 @@ beschränken und Rechnungen ungeprüft lassen.
 
 
 ### § 90 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010000319)
 
 Die Prüfung erstreckt sich auf die Einhaltung der für die Haushalts-
 und Wirtschaftsführung geltenden Vorschriften und Grundsätze,
@@ -2306,6 +2405,7 @@ insbesondere darauf, ob
 
 
 ### § 91 Prüfung bei Stellen außerhalb der Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010103360)
 
 (1) Der Bundesrechnungshof ist vorbehaltlich anderer gesetzlicher
 Regelung berechtigt, bei Stellen außerhalb der Bundesverwaltung zu
@@ -2359,6 +2459,7 @@ Grundsätze.
 
 
 ### § 92 Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010201301)
 
 (1) Der Bundesrechnungshof prüft die Betätigung des Bundes bei
 Unternehmen in einer Rechtsform des privaten Rechts, an denen der Bund
@@ -2370,6 +2471,7 @@ Mitglied ist.
 
 
 ### § 93 Gemeinsame Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010302360)
 
 (1) Ist für die Prüfung sowohl der Bundesrechnungshof als auch ein
 Landesrechnungshof zuständig, so soll gemeinsam geprüft werden. Soweit
@@ -2392,6 +2494,7 @@ die Bundesregierung dazu ermächtigt wird.
 
 
 ### § 94 Zeit und Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010401309)
 
 (1) Der Bundesrechnungshof bestimmt Zeit und Art der Prüfung und läßt
 erforderliche örtliche Erhebungen durch Beauftragte vornehmen.
@@ -2402,6 +2505,7 @@ erforderliche örtliche Erhebungen durch Beauftragte vornehmen.
 
 
 ### § 95 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010501123)
 
 (1) Unterlagen, die der Bundesrechnungshof zur Erfüllung seiner
 Aufgaben für erforderlich hält, sind ihm auf Verlangen innerhalb einer
@@ -2416,6 +2520,7 @@ automatisierten Abruf.
 
 
 ### § 95a Prüfungsanordnung und Entfall der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE013200360)
 
 Erlässt der Bundesrechnungshof zur Durchsetzung seiner Rechte nach §
 94 Absatz 1 und § 95 Anordnungen, so hat die Anfechtungsklage
@@ -2423,6 +2528,7 @@ hiergegen keine aufschiebende Wirkung.
 
 
 ### § 96 Prüfungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010602140)
 
 (1) Der Bundesrechnungshof teilt das Prüfungsergebnis den zuständigen
 Dienststellen zur Äußerung innerhalb einer von ihm zu bestimmenden
@@ -2448,6 +2554,7 @@ die entsprechenden Akten bei den geprüften Stellen.
 
 
 ### § 97 Bemerkungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010702140)
 
 (1) Der Bundesrechnungshof faßt das Ergebnis seiner Prüfung, soweit es
 für die Entlastung der Bundesregierung wegen der Haushaltsrechnung und
@@ -2488,6 +2595,7 @@ den Fällen des Absatzes 4 unverzüglich nach Zuleitung im Internet.
 
 
 ### § 98 Aufforderung zum Schadenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010800319)
 
 Der Bundesrechnungshof macht der zuständigen Stelle unverzüglich
 Mitteilung, wenn nach seiner Auffassung ein Schadenersatzanspruch
@@ -2495,6 +2603,7 @@ geltend zu machen ist.
 
 
 ### § 99 Angelegenheiten von besonderer Bedeutung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE010901140)
 
 Über Angelegenheiten von besonderer Bedeutung kann der
 Bundesrechnungshof den Bundestag, den Bundesrat und die
@@ -2506,6 +2615,7 @@ im Internet.
 
 
 ### § 100 Prüfungsämter
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011003301)
 
 Der Bundesrechnungshof kann zur Vorbereitung, Unterstützung und
 Ergänzung seiner Prüfungstätigkeit Prüfungsaufgaben durch
@@ -2516,12 +2626,14 @@ den Weisungen des Bundesrechnungshofes durch.
 
 
 ### § 101 Rechnung des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011100319)
 
 Die Rechnung des Bundesrechnungshofes wird von dem Bundestag und dem
 Bundesrat geprüft, die auch die Entlastung erteilen.
 
 
 ### § 102 Unterrichtung des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011200319)
 
 (1) Der Bundesrechnungshof ist unverzüglich zu unterrichten, wenn
 
@@ -2559,6 +2671,7 @@ mitzuteilen, wenn andere Stellen des Bundes sie erlassen.
 
 
 ### § 103 Anhörung des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011301301)
 
 (1) Der Bundesrechnungshof ist vor dem Erlaß von
 Verwaltungsvorschriften zur Durchführung der Bundeshaushaltsordnung zu
@@ -2576,6 +2689,7 @@ Bundesministerium den Bundesrechnungshof hören.
 
 
 ### § 104 Prüfung der juristischen Personen des privaten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011400319)
 
 (1) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung
 der juristischen Personen des privaten Rechts, wenn
@@ -2608,10 +2722,12 @@ worden sind.
 
 
 ## Teil VI - Bundesunmittelbare juristische Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000600319)
 
 
 
 ### § 105 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011501301)
 
 (1) Für bundesunmittelbare juristische Personen des öffentlichen
 Rechts gelten
@@ -2634,6 +2750,7 @@ erhebliches finanzielles Interesse des Bundes besteht.
 
 
 ### § 106 Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011600319)
 
 (1) Das zur Geschäftsführung berufene Organ einer bundesunmittelbaren
 juristischen Person des öffentlichen Rechts hat vor Beginn jedes
@@ -2654,6 +2771,7 @@ dem Beschlußorgan vorzulegen.
 
 
 ### § 107 Umlagen, Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011700319)
 
 Ist die bundesunmittelbare juristische Person des öffentlichen Rechts
 berechtigt, von ihren Mitgliedern Umlagen oder Beiträge zu erheben, so
@@ -2662,6 +2780,7 @@ gleichzeitig mit der Feststellung des Haushaltsplans festzusetzen.
 
 
 ### § 108 Genehmigung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011801301)
 
 Der Haushaltsplan und die Festsetzung der Umlagen oder der Beiträge
 bedürfen bei bundesunmittelbaren juristischen Personen des
@@ -2676,6 +2795,7 @@ treten.
 
 
 ### § 109 Rechnungslegung, Prüfung, Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE011902301)
 
 (1) Nach Ende des Haushaltsjahres hat das zur Geschäftsführung
 berufene Organ der bundesunmittelbaren juristischen Person des
@@ -2699,6 +2819,7 @@ Bundesministeriums und des Bundesministeriums der Finanzen.
 
 
 ### § 110 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012001309)
 
 Bundesunmittelbare juristische Personen des öffentlichen Rechts, bei
 denen ein Wirtschaften nach Einnahmen und Ausgaben des Haushaltsplans
@@ -2710,6 +2831,7 @@ Handelsgesetzbuchs auf.
 
 
 ### § 111 Prüfung durch den Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012102301)
 
 (1) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung
 der bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
@@ -2724,6 +2846,7 @@ bleiben unberührt.
 
 
 ### § 112 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012204123)
 
 (1) Auf die bundesunmittelbaren Träger der gesetzlichen
 Krankenversicherung, der sozialen Pflegeversicherung, der gesetzlichen
@@ -2751,10 +2874,12 @@ bis 69 entsprechend.
 
 
 ## Teil VII - Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000700319)
 
 
 
 ### § 113 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012300319)
 
 Auf Sondervermögen des Bundes sind die Teile I bis IV, VIII und IX
 dieses Gesetzes entsprechend anzuwenden, soweit nicht durch Gesetz
@@ -2764,10 +2889,12 @@ Sondervermögen, Teil V dieses Gesetzes ist entsprechend anzuwenden.
 
 
 ## Teil VIII - Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000800319)
 
 
 
 ### § 114 Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012401301)
 
 (1) Das Bundesministerium der Finanzen hat dem Bundestag und dem
 Bundesrat über alle Einnahmen und Ausgaben sowie über das Vermögen und
@@ -2794,10 +2921,12 @@ ausdrücklich mißbilligen.
 
 
 ## Teil IX - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNG000900319)
 
 
 
 ### § 115 Öffentlich-rechtliche Dienst- oder Amtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012500319)
 
 Vorschriften dieses Gesetzes für Beamte sind auf andere öffentlich-
 rechtliche Dienst- oder Amtsverhältnisse entsprechend anzuwenden. § 48
@@ -2806,6 +2935,7 @@ Bundesgericht.
 
 
 ### § 116 Endgültige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012601301)
 
 (1) Das Bundesministerium der Finanzen entscheidet in den Fällen des §
 37 Abs. 1 endgültig. Soweit dieses Gesetz in anderen Fällen Befugnisse
@@ -2827,6 +2957,7 @@ Finanzen unverzüglich einzuholen.
 
 
 ### § 117 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012700319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -2834,11 +2965,13 @@ im Land Berlin.
 
 
 ### § 118
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012800319)
 
 -
 
 
 ### § 119 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bho/BJNR012840969.html#BJNR012840969BJNE012901309)
 
 (1) Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
 

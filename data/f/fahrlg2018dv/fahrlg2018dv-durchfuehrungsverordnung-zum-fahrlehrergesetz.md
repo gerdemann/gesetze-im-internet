@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 9231-7-9 v. 19.6.2012 I 1346 (FahrlGDV 2012)
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000102123)
 
 Erster Abschnitt
 Anforderungen an
@@ -214,9 +215,11 @@ Siebter Abschnitt
 
 
 ## Erster Abschnitt - Anforderungen an Fahrlehrer und Fahrschulen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000100000)
 
 
 ### § 1 Sprachtest; Anpassungslehrgang und Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000200000)
 
 (1) Bestehen Bedenken dagegen, dass ein Bewerber um eine
 Fahrlehrerlaubnis über die erforderlichen Sprachkenntnisse nach § 2
@@ -317,6 +320,7 @@ ist Absatz 3 Satz 2 bis 5 nicht anzuwenden.
 
 
 ### § 2 Anwärterschein und Fahrlehrerschein
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000301123)
 
 (1) Der Anwärterschein Fahrlehrer muss dem Muster nach Anlage 1.1, der
 Fahrlehrerschein dem Muster nach Anlage 1.2 entsprechen. Dies gilt
@@ -343,6 +347,7 @@ zulässig ist.
 
 
 ### § 2a Durchführung des Lehrgangs Fahrschulbetriebswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002700124)
 
 (1) Der Träger der Lehrgänge über Fahrschulbetriebswirtschaft nach §
 18 Absatz 1 Satz 1 Nummer 5 des Fahrlehrergesetzes muss mindestens
@@ -370,6 +375,7 @@ zu je 45 Minuten nicht überschreiten.
 
 
 ### § 3 Unterrichtsräume
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000400000)
 
 In den Fahrschulen und deren Zweigstellen darf der theoretische
 Unterricht nur in ortsfesten Gebäuden erteilt werden. Die
@@ -379,6 +385,7 @@ entsprechen.
 
 
 ### § 4 Lehrmittel
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000502123)
 
 (1) In den Unterrichtsräumen müssen während des theoretischen
 Unterrichts Lehrmittel zur Gestaltung des Unterrichts und zur
@@ -398,6 +405,7 @@ Ausbildungsordnung bleibt unberührt.
 
 
 ### § 5 Lehrfahrzeuge für Fahrschüler
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000601124)
 
 (1) Als Ausbildungsfahrzeuge sind die Fahrzeuge zu verwenden, die den
 Prüfungsfahrzeugen der Anlage 7 Nummer 2.2 der Fahrerlaubnis-
@@ -447,6 +455,7 @@ T darf zusätzlich hingewiesen werden.
 
 
 ### § 6 Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000701124)
 
 (1) Der Ausbildungsnachweis für den Fahrschüler nach § 31 des
 Fahrlehrergesetzes und § 6 Absatz 2 der Fahrschüler-Ausbildungsordnung
@@ -459,15 +468,18 @@ Ausbildung zu löschen.
 
 
 ### § 7 Preisaushang
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000800000)
 
 Für den nach § 32 Absatz 1 des Fahrlehrergesetzes vorgeschriebenen
 Aushang ist das Muster nach Anlage 4 zu verwenden.
 
 
 ## Zweiter Abschnitt - Anforderungen an Fahrlehrerausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000200000)
 
 
 ### § 8 Verantwortliche Leitung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE000900000)
 
 (1) Die für die verantwortliche Leitung einer
 Fahrlehrerausbildungsstätte bestellte Person muss:
@@ -517,6 +529,7 @@ hatte. Absatz 1 Satz 1 Nummer 2 bleibt unberührt.
 
 
 ### § 9 Lehrkräfte in der Fahrlehrerausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001001124)
 
 (1) In der Fahrlehrerausbildungsstätte müssen mindestens folgende
 Lehrkräfte mit folgender Qualifikation tätig sein:
@@ -563,6 +576,7 @@ Fahrlehrern tätig sein.
 
 
 ### § 10 Unterrichtsräume in der Fahrlehrerausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001100000)
 
 Die Unterrichtsräume müssen nach Größe, Beschaffenheit und Einrichtung
 einen sachgerechten Ausbildungsbetrieb zulassen. § 3 Satz 1 ist
@@ -570,6 +584,7 @@ anzuwenden.
 
 
 ### § 11 Lehrmittel in der Fahrlehrerausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001200000)
 
 In der Fahrlehrerausbildungsstätte müssen folgende Lehrmittel ständig
 vorhanden sein:
@@ -610,15 +625,18 @@ entsprechen.
 
 
 ### § 12 Lehrfahrzeuge in der Fahrlehrerausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001300000)
 
 Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den
 Anforderungen des § 5 entsprechen.
 
 
 ## Dritter Abschnitt - Anforderungen an Einweisungslehrgänge zum Erwerb der Seminarerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000300000)
 
 
 ### § 13 Inhalt der Einweisungslehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001400000)
 
 (1) Einweisungslehrgänge zum Erwerb der Seminarerlaubnis zur
 Durchführung von Aufbauseminaren nach § 45 des Fahrlehrergesetzes
@@ -650,6 +668,7 @@ einüben.
 
 
 ### § 14 Dauer und Leitung der Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001500000)
 
 (1) Die Lehrgangsabschnitte nach § 13 Absatz 3 sind jeweils in vier
 zusammenhängenden Tagen zu vermitteln. Ihre tägliche Dauer beträgt
@@ -679,9 +698,11 @@ Lehrgangsabschnitten nach § 13 Absatz 3 teilgenommen hat.
 
 
 ## Vierter Abschnitt - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000400000)
 
 
 ### § 15 Überwachungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001601124)
 
 (1) Als Überwachungsperson darf eingesetzt werden, wer
 
@@ -754,6 +775,7 @@ Absätzen 2 und 3 entsprechend.
 
 
 ### § 16 Qualitätssichernde Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001701124)
 
 (1) Werden im Rahmen der Überwachung der fachlichen und pädagogischen
 Qualität des Unterrichts Mängel festgestellt, kann die nach
@@ -784,9 +806,11 @@ bleiben unberührt.
 
 
 ## Fünfter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000500000)
 
 
 ### § 17 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001801124)
 
 (1) Die Fortbildung nach § 53 Absatz 1 des Fahrlehrergesetzes für
 Inhaber einer Fahrlehrerlaubnis hat alle Gebiete zu erfassen, die für
@@ -879,9 +903,11 @@ nach § 14 Absatz 2 eingesetzt werden.
 
 
 ## Sechster Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000600000)
 
 
 ### § 18 Örtliches Fahrlehrerregister
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE001901123)
 
 Im örtlichen Fahrlehrerregister sind für die Zwecke des § 58 des
 Fahrlehrergesetzes bei Erlaubnissen, Anwärterbefugnissen und
@@ -934,9 +960,11 @@ Anerkennungen folgende Angaben einzutragen:
 
 
 ## Siebter Abschnitt - Übergangs-, Bußgeld- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNG000700000)
 
 
 ### § 19 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002002123)
 
 (1) Abweichend von § 8 Absatz 1 Satz 1 Nummer 3 dürfen Personen, die
 am 31. Dezember 1998 für die verantwortliche Leitung von
@@ -996,6 +1024,7 @@ werden.
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002101123)
 
 (1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des
 Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als
@@ -1040,6 +1069,7 @@ fahrlässig:
 (zu § 2 Absatz 1)
 
 ### Anlage 1.1 Anwärterschein Fahrlehrer
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002200000)
 
 (Fundstelle: BGBl. I 2018, 9)
 
@@ -1070,6 +1100,7 @@ Rückseite
 (zu § 2 Absatz 1)
 
 ### Anlage 1.2 Fahrlehrerschein
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002300000)
 
 (Fundstelle: BGBl. I 2018, 10)
 
@@ -1099,6 +1130,7 @@ Rückseite
 
 
 ### Anlage 1a (zu § 2a)
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002801123)
 
 (Fundstelle: BGBl. I 2019, 1417 - 1420)
 
@@ -1915,6 +1947,7 @@ Musterplan
 (zu § 3)
 
 ### Anlage 2 Unterrichtsräume
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002400000)
 
 (Fundstelle: BGBl. I 2018, 11)
 
@@ -1989,6 +2022,7 @@ und ordnungsrechtlichen Vorschriften ergeben.
 (zu § 4 Absatz 2)
 
 ### Anlage 2a Anforderungen an die Durchführung von theoretischem Unterricht in digitaler Form
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002900123)
 
 (Fundstelle: BGBl. I 2022, 503)
 
@@ -2080,6 +2114,7 @@ und ordnungsrechtlichen Vorschriften ergeben.
 (zu § 6 Absatz 1)
 
 ### Anlage 3 Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002502123)
 
 (Fundstelle: BGBl. I 2022, 504)
 
@@ -2804,6 +2839,7 @@ Datenverarbeitung, dies erfordern.
 (zu § 7)
 
 ### Anlage 4 Preisaushang nach § 32 des Fahrlehrergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg2018dv/BJNR000210018.html#BJNR000210018BJNE002600000)
 
 (Fundstelle: BGBl. I 2018, 14)
 

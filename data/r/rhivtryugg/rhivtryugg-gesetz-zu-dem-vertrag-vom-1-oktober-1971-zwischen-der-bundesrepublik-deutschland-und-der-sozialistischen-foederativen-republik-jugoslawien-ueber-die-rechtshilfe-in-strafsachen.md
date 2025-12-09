@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000100306)
 
 Dem in Bonn am 1. Oktober 1971 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Sozialistischen Föderativen
@@ -30,16 +31,19 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000201306)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000301306)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000400306)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels 6 Abs. 5 und 6 des
@@ -47,6 +51,7 @@ Vertrages eingeschränkt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000500306)
 
 (1) Rechtshilfeersuchen jugoslawischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
@@ -65,6 +70,7 @@ zuständigen Strafverfolgungsbehörde vor.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000600306)
 
 § 24 des Straßenverkehrsgesetzes ist auf in Jugoslawien begangene
 Zuwiderhandlungen gegen Straßenverkehrsvorschriften, die dort mit
@@ -84,12 +90,14 @@ entsprechend anzuwenden, wenn der Betroffene
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000700306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/rhivtryugg/BJNR211650974.html#BJNR211650974BJNE000800306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit

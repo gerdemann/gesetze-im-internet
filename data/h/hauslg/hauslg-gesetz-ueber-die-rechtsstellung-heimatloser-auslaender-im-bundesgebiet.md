@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Kapitel I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE000702310)
 
 (1) Heimatloser Ausländer im Sinne dieses Gesetzes ist ein fremder
 Staatsangehöriger oder Staatenloser, der
@@ -51,6 +53,7 @@ heimatlosen Ausländer im Sinne dieses Gesetzes gleich.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE000800319)
 
 (1) Ein heimatloser Ausländer verliert diese Rechtsstellung, wenn er
 nach dem 30. Juni 1950 eine neue Staatsangehörigkeit erwirbt oder
@@ -79,6 +82,7 @@ Grundgesetzes oder nach Berlin (West) zurückverlegt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE000900319)
 
 (1) Ein heimatloser Ausländer darf wegen seiner Abstammung, seiner
 Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens
@@ -88,6 +92,7 @@ oder wegen seiner Flüchtlingseigenschaft nicht benachteiligt werden.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001000319)
 
 (1) Heimatlose Ausländer sind den im Geltungsbereich des Grundgesetzes
 oder in Berlin (West) geltenden Gesetzen und Vorschriften
@@ -98,6 +103,7 @@ ergriffenen Maßnahmen unterworfen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001100319)
 
 Rechte und Vergünstigungen, die allgemein Angehörigen fremder Staaten
 nur unter der Bedingung der Gegenseitigkeit gewährt werden, sind
@@ -106,6 +112,7 @@ Gegenseitigkeit nicht verbürgt ist.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001200319)
 
 Ausnahmemaßnahmen, die sich gegen Angehörige des früheren
 Heimatstaates eines heimatlosen Ausländers richten, dürfen gegen
@@ -113,6 +120,7 @@ diesen nicht angewandt werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001300319)
 
 In den Fällen, in denen der Erwerb oder die Ausübung eines Rechts von
 der Dauer des Aufenthalts im Geltungsbereich des Grundgesetzes oder in
@@ -122,10 +130,12 @@ bis zum 8. Mai 1945 anzurechnen.
 
 
 ## Kapitel II - Bürgerliches Recht
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNG000200319)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001400319)
 
 Hat ein heimatloser Ausländer vor Inkrafttreten dieses Gesetzes nach
 anderen als den deutschen Vorschriften Rechte erworben, so behält er
@@ -135,6 +145,7 @@ Inkrafttreten dieses Gesetzes geschlossene Ehe.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001500319)
 
 Heimatlose Ausländer können unter den gleichen Voraussetzungen wie
 deutsche Staatsangehörige Eigentum und andere Rechte an Grundstücken
@@ -142,11 +153,13 @@ und beweglichen Sachen erwerben.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001600319)
 
 -
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001700319)
 
 Im Verfahren vor allen deutschen Gerichten sind heimatlose Ausländer
 den deutschen Staatsangehörigen gleichgestellt. Sie genießen unter den
@@ -157,10 +170,12 @@ Sicherheitsleistung befreit.
 
 
 ## Kapitel III - Öffentliches Recht
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNG000300319)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001802310)
 
 Heimatlose Ausländer sind in der Wahl ihres Aufenthaltsortes und in
 der Freizügigkeit innerhalb des Bundesgebietes den deutschen
@@ -171,6 +186,7 @@ geltenden Vorschriften eine Aufenthaltserlaubnis erteilt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE001900319)
 
 (1) Heimatlose Ausländer sind hinsichtlich des Rechts, sich in
 Vereinigungen für kulturelle, soziale, Wohlfahrts-, Selbsthilfe- und
@@ -184,6 +200,7 @@ beantragen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002000319)
 
 (1) Heimatlose Ausländer haben zu allen öffentlichen Volksschulen,
 mittleren und höheren Lehranstalten sowie wissenschaftlichen
@@ -201,6 +218,7 @@ Grundgesetzes gewährleistet.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002100319)
 
 (1) Ausländische Prüfungen heimatloser Ausländer werden im
 Bundesgebiet anerkannt, wenn sie den entsprechenden inländischen
@@ -212,6 +230,7 @@ Landesbehörden getroffen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002200319)
 
 Heimatlose Ausländer, die Prüfungen gemäß § 14 abgelegt haben oder
 deren ausländische Prüfungen gemäß § 15 anerkannt werden, sind zur
@@ -220,6 +239,7 @@ Bedingungen zuzulassen wie deutsche Staatsangehörige.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002300319)
 
 (1) Heimatlose Ausländer sind in der Ausübung nichtselbständiger
 Arbeit deutschen Staatsangehörigen gleichgestellt.
@@ -235,6 +255,7 @@ Gewerbeordnung für Ausländer getroffenen Regelung.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002400319)
 
 Heimatlose Ausländer sind in der Sozialversicherung, der
 Arbeitslosenversicherung und der Arbeitslosenfürsorge den deutschen
@@ -242,12 +263,14 @@ Staatsangehörigen gleichgestellt.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002500319)
 
 Heimatlose Ausländer erhalten in der öffentlichen Fürsorge Leistungen
 in gleicher Höhe wie deutsche Staatsangehörige.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002600319)
 
 Die Erhebung von Steuern, Abgaben und Gebühren richtet sich für
 heimatlose Ausländer nach den für deutsche Staatsangehörige geltenden
@@ -255,10 +278,12 @@ Vorschriften.
 
 
 ## Kapitel IV - Verwaltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNG000400319)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002703310)
 
 (1) Ein heimatloser Ausländer wird auf Antrag eingebürgert, wenn er
 
@@ -284,12 +309,14 @@ Vorschriften über die Einbürgerung.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002800319)
 
 Einem heimatlosen Ausländer darf die Rückkehr in seine Heimat oder die
 Auswanderung nicht versagt werden.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE002902310)
 
 (1) Heimatlose Ausländer dürfen nur nach Maßgabe des § 56 des
 Aufenthaltsgesetzes aus schwerwiegenden Gründen der öffentlichen
@@ -311,10 +338,12 @@ Aufenthaltsgesetzes findet entsprechende Anwendung.
 
 
 ## Kapitel V - Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNG000500319)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE003000319)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates Rechtsverordnungen zu erlassen,
@@ -341,16 +370,19 @@ Staatsangehörigen.
 
 
 ## Kapitel VI - Schluß- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNG000600319)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE003100319)
 
 Die aus der Durchführung dieses Gesetzes erwachsenden Kosten trägt der
 Bund nach Maßgabe eines Gesetzes gemäß Artikel 120 des Grundgesetzes.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE003200319)
 
 Dieses Gesetz findet keine Anwendung auf Personen, die in Umsiedlung
 begriffen sind und von der Internationalen Flüchtlings-Organisation
@@ -358,11 +390,13 @@ begriffen sind und von der Internationalen Flüchtlings-Organisation
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE003301310)
 
 (weggefallen)
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/hauslg/BJNR002690951.html#BJNR002690951BJNE003400319)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

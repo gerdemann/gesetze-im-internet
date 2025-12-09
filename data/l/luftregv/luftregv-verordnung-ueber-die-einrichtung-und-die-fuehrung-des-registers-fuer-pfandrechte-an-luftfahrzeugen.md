@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE000600307)
 
 Auf Grund des § 96 Abs. 1 und des § 97 des Gesetzes über Rechte an
 Luftfahrzeugen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -30,10 +31,12 @@ neu gefaßt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## Abschnitt 1 - Einrichtung des Registers
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNG000100307)
 
 
 
 ### § 1 Aufbau des Registers
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE000700307)
 
 Das Register für Pfandrechte an Luftfahrzeugen enthält Registerblätter
 für Luftfahrzeuge und Registerblätter für Ersatzteillager. Es wird
@@ -43,10 +46,12 @@ fortlaufende Nummern.
 
 
 ## Abschnitt 2 - Gestaltung und Benutzung der Registerblätter
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNG000200307)
 
 
 
 ### § 2 Bestandteile des Registerblatts für ein Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE000800307)
 
 Das Registerblatt für ein Luftfahrzeug besteht aus der Aufschrift und
 zwei Abteilungen. Die Aufschrift enthält die Bezeichnung "Register für
@@ -59,6 +64,7 @@ Registerblatts sowie auf Folgeseiten nicht vorgesehen werden.
 
 
 ### § 3 Inhalt der Abteilungen des Registerblatts für ein Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE000900307)
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -163,6 +169,7 @@ den Spalten 4 bis 6 in Spalte 6 und Eintragungen in den Spalten 7 bis
 
 
 ### § 4 Eintragung von Vormerkungen, Schutzvermerken und Widersprüchen
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001000307)
 
 (1) Schutzvermerke und Widersprüche, die sich auf das Eigentum
 beziehen, werden in Spalte 4 der ersten Abteilung eingetragen.
@@ -195,6 +202,7 @@ Registerpfandrecht.
 
 
 ### § 5 Bestandteile des Registerblatts für ein Ersatzteillager
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001100307)
 
 Das Registerblatt für ein Ersatzteillager besteht aus der Aufschrift
 und zwei Abteilungen. Die Aufschrift enthält die Bezeichnung "Register
@@ -206,6 +214,7 @@ dem Muster der Anlage 2.
 
 
 ### § 6 Inhalt der Abteilungen des Registerblatts für ein Ersatzteillager
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001200307)
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -255,10 +264,12 @@ eines Widerspruchs gilt § 4 Abs. 2 und 3 Satz 1 sinngemäß.
 
 
 ## Abschnitt 3 - Führung des Registers und allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNG000300307)
 
 
 
 ### § 7 Anwendung der Verordnung zur Durchführung der Schiffsregisterordnung
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001300307)
 
 (1) Für die Führung des Registers und das Verfahren gelten die §§ 7
 bis 11, § 13 Abs. 1, 2 und 4, §§ 13a, 14 Abs. 1, §§ 15, 17 bis 24 und,
@@ -276,6 +287,7 @@ ist.
 
 
 ### § 8 Registerakten
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001400307)
 
 (1) Zu jedem Registerblatt sind Registerakten zu führen, in denen ein
 Handblatt enthalten ist. Urkunden, auf die im Register zur Ergänzung
@@ -297,6 +309,7 @@ verweisen.
 
 
 ### § 9 Vermeiden unnötigen Aktenanfalls
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001500307)
 
 Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so
 können in den Abschriften Teile der Urkunde, die für die Führung des
@@ -305,6 +318,7 @@ Registers ohne Bedeutung sind, weggelassen werden. Im übrigen gilt §
 
 
 ### § 10 Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001600307)
 
 (1) Das Registergericht führt ein alphabetisches Namensverzeichnis der
 Eigentümer im Register eingetragener Luftfahrzeuge, das nur die Namen
@@ -326,10 +340,12 @@ Verzeichnisse § 11 Abs. 3 und § 15 entsprechend.
 
 
 ## Abschnitt 4 - Führung des Registers in maschineller Form
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNG000400307)
 
 
 
 ### § 11 Einführung der maschinellen Führung
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001701360)
 
 (1) Die Landesjustizverwaltung kann abweichend von § 1 Satz 2
 anordnen, daß die Register ganz oder blattweise in maschineller Form
@@ -352,6 +368,7 @@ zu führen. Auf die Führung eines Handblatts kann verzichtet werden.
 
 
 ### § 12 Begriff, Freigabe und Gestaltung von Registerblättern
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001800307)
 
 (1) Bei dem maschinell geführten Register ist der in den dafür
 bestimmten Datenspeicher aufgenommenen und auf Dauer unverändert in
@@ -376,6 +393,7 @@ Vordrucken entspricht.
 
 
 ### § 13 Vornahme und Wirksamwerden von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE001900307)
 
 (1) Eine Eintragung in das maschinell geführte Register wird wirksam,
 sobald sie in den für die Registereintragungen bestimmten
@@ -412,6 +430,7 @@ Eintragung soll den Tag angeben, an dem sie wirksam geworden ist.
 
 
 ### § 14 Einsicht in das Register
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002000307)
 
 Für die Einsicht in maschinell geführte Register und die Erteilung von
 Abschriften hieraus gelten § 85 des Gesetzes über Rechte an
@@ -424,6 +443,7 @@ werden kann.
 
 
 ### § 15 Automatisierter Abruf von Daten
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002103140)
 
 (1) Dem Abruf von Daten im automatisierten Verfahren unterliegen die
 Eintragungen in das Registerblatt. Die Gewährung des Abrufs berechtigt
@@ -466,6 +486,7 @@ entsprechend.
 
 
 ### § 16 Zusammenarbeit mit dem Luftfahrt-Bundesamt, Datenverarbeitung im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002200307)
 
 (1) Das Registergericht kann die Daten des Luftfahrzeugs nach der
 Luftfahrzeugrolle und andere zur Führung des Registers benötigte Daten
@@ -483,10 +504,12 @@ Schiffsregisterordnung sinngemäß.
 
 
 ## Abschnitt 5 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNG000500307)
 
 
 
 ### § 17 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002300307)
 
 (1) Die in den Anlagen zu dieser Verordnung bestimmten Muster sind für
 alle nach dem 6. März 1999 neu anzulegenden oder zur Fortführung in
@@ -504,16 +527,19 @@ das Registerblatt einzutragen ist.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002400307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002500307)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002600307)
 
 (Fundstelle: BGBl. I 1999, S. 283 - 284)
 Amtsgericht                                              Einzel-
@@ -694,6 +720,7 @@ I
 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/luftregv/BJNR027900999.html#BJNR027900999BJNE002700307)
 
 (Fundstelle: BGBl. I 1999, S. 285 - 286)
 Amtsgericht

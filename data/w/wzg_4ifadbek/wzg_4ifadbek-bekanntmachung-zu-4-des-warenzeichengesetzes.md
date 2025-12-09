@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ifadbek/BJNR011520980.html#BJNR011520980BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,11 +31,13 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ifadbek/BJNR011520980.html#BJNR011520980BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ifadbek/BJNR011520980.html#BJNR011520980BJNE000201306)
 
 (Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
 Fundstelle: BGBl. I 1980, 1153,

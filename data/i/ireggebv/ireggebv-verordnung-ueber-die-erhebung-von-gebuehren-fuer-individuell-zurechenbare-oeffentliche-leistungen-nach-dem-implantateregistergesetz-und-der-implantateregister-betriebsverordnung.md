@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ireggebv/BJNR1720B0023.html#BJNR1720B0023BJNE000100000)
 
 Das Bundesministerium für Gesundheit erhebt für die nach dem
 Implantateregistergesetz und der Implantateregister-Betriebsverordnung
@@ -26,6 +27,7 @@ nach Maßgabe der Vorschriften dieser Rechtsverordnung.
 
 
 ## § 2 Gebühr für die Erfassung implantatbezogener Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ireggebv/BJNR1720B0023.html#BJNR1720B0023BJNE000200000)
 
 (1) Für die Erfassung implantatbezogener Maßnahmen und deren
 Auswertung im Hinblick auf die Qualität der erbrachten
@@ -41,6 +43,7 @@ Grundlage der im Register gespeicherten Daten erhoben.
 
 
 ## § 3 Gebühr für die Erfassung von Implantaten
+[Direktlink](https://www.gesetze-im-internet.de/ireggebv/BJNR1720B0023.html#BJNR1720B0023BJNE000300000)
 
 (1) Für die Erfassung der Implantate und die auf ihre Qualität
 bezogenen Auswertungen wird für jedes Produkt, das in der zentralen
@@ -79,6 +82,7 @@ Grundlage der im Register gespeicherten Daten erhoben.
 
 
 ## § 4 Gebühren für den Zugang zu den Registerdaten
+[Direktlink](https://www.gesetze-im-internet.de/ireggebv/BJNR1720B0023.html#BJNR1720B0023BJNE000400000)
 
 (1) Für den Datenzugang nach § 29 Absatz 1 Satz 1 Nummer 1 bis 6 und
 Satz 2 sowie Absatz 2 des Implantateregistergesetzes auf Anfrage nach

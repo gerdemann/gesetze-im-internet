@@ -20,10 +20,12 @@ Neugefasst durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNG000101128)
 
 
 
 ### § 1 Arten der Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE000602128)
 
 Die Deckungsvorsorge für Anlagen und Tätigkeiten, bei denen eine
 atomrechtliche Haftung nach internationalen Verträgen oder nach dem
@@ -43,6 +45,7 @@ dadurch nicht beeinträchtigt werden.
 
 
 ### § 2 Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE000703128)
 
 (1) Durch eine Haftpflichtversicherung kann die Deckungsvorsorge nur
 erbracht werden, wenn sie bei einem im Inland zum Betrieb der
@@ -69,6 +72,7 @@ unverzüglich anzuzeigen, sobald ihm diese Umstände bekannt werden.
 
 
 ### § 3 Sonstige finanzielle Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE000803128)
 
 (1) Durch eine sonstige finanzielle Sicherheit kann die
 Deckungsvorsorge nur erbracht werden, wenn gewährleistet ist, dass
@@ -95,6 +99,7 @@ anderer Weise gewährleistet ist, dass er seine Verpflichtung erfüllt.
 
 
 ### § 4 Umfang der Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE000902128)
 
 (1) Bei einer Kernanlage muss sich die Deckungsvorsorge auf die
 gesetzlichen Schadensersatzverpflichtungen im Sinne des § 13 Absatz 5
@@ -162,6 +167,7 @@ Reaktorschiffs entsprechend.
 
 
 ### § 5 Nachweis der Deckungsvorsorge, Mitteilungen und Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001003128)
 
 (1) Die Deckungsvorsorge ist der Verwaltungsbehörde in geeigneter Form
 nachzuweisen.
@@ -187,6 +193,7 @@ Verwaltungsbehörde.
 
 
 ### § 6 Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001104128)
 
 Bei der Festsetzung der Deckungsvorsorge ist dem zur Deckungsvorsorge
 Verpflichteten aufzuerlegen,
@@ -221,10 +228,12 @@ Verpflichteten aufzuerlegen,
 
 
 ## Zweiter Abschnitt - Deckungssummen
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNG000201128)
 
 
 
 ### § 7 Deckungssumme und Regeldeckungssumme
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001202128)
 
 (1) Bei der Festsetzung der Höhe der Deckungsvorsorge (Deckungssumme)
 ist von einer für den Regelfall festzusetzenden Deckungssumme
@@ -256,6 +265,7 @@ Abschnitt nicht unmittelbar bestimmt ist.
 
 
 ### § 8 Umgang und Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001306128)
 
 (1) Sofern sich aus diesem Abschnitt nichts anderes ergibt, bestimmt
 sich die Regeldeckungssumme
@@ -304,6 +314,7 @@ Satz 1 erhöhen. § 16 Absatz 2 findet entsprechende Anwendung.
 
 
 ### § 8a Beförderung von Kernmaterialien
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003001128)
 
 (1) Für die Beförderung von Kernmaterialien, die nicht auf Grund von
 Absatz 2 von der Anwendung des Pariser Übereinkommens ausgenommen
@@ -356,12 +367,14 @@ Beförderung gefährlicher Güter zugrunde zu legen.
 
 
 ### § 8b Deckung bei Schäden gemäß § 26 Absatz 1a des Atomgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003101128)
 
 Für die Bestimmung der Deckungsvorsorge bei Schäden gemäß § 26 Absatz
 1a des Atomgesetzes gilt § 8a Absatz 1 entsprechend.
 
 
 ### § 9 Reaktoren
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001405128)
 
 (1) Die Regeldeckungssumme beträgt für Reaktoren mit einer
 Höchstleistung von bis zu 25 Megawatt 70 Millionen Euro und für jedes
@@ -398,6 +411,7 @@ sofern die Anlagen als eine Kernanlage im Sinne von § 2 Absatz 4 Satz
 
 
 ### § 10 Schiffsreaktoren
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001502128)
 
 Die Regeldeckungssumme für Reaktoren, die zum Antrieb von Schiffen
 dienen (Schiffsreaktoren), beträgt je Megawatt Höchstleistung 500 000
@@ -406,6 +420,7 @@ gilt entsprechend.
 
 
 ### § 11 Sonstige Kernanlagen
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001604128)
 
 (1) Für Kernanlagen, die keine Reaktoren sind, beträgt die
 Regeldeckungssumme 70 Millionen Euro und sie erhöht sich
@@ -438,6 +453,7 @@ bestimmt, gilt § 9 Absatz 2 entsprechend.
 
 
 ### § 12 Stilllegung von Kernanlagen
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001702128)
 
 (1) Wird eine Kernanlage stillgelegt oder in sonstiger Weise außer
 Betrieb gesetzt und befinden sich in der Anlage nur noch die
@@ -455,6 +471,7 @@ Deckungssumme nicht weniger als 70 Millionen Euro beträgt.
 
 
 ### § 12a Kernanlagen in fortgeschrittener Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003201128)
 
 (1) Die zuständige Behörde nimmt auf Antrag des Inhabers eine
 Kernanlage in Stilllegung, in der sich nur noch die aktivierten und
@@ -483,6 +500,7 @@ die Deckungssumme bis auf 3,5 Millionen Euro ermäßigen.
 
 
 ### § 13 Anlagen zur Erzeugung ionisierender Strahlen
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001805128)
 
 (1) Die Regeldeckungssumme beträgt für Anlagen zur Erzeugung
 ionisierender Strahlen, deren Errichtung und Betrieb einer Genehmigung
@@ -512,10 +530,12 @@ die Regeldeckungssumme
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE001903128)
 
 
 
 ### § 15 Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002004128)
 
 Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am
 Menschen in der medizinischen Forschung muss die Deckungssumme in
@@ -528,6 +548,7 @@ Euro zur Verfügung stehen.
 
 
 ### § 16 Ermittlung der Deckungssumme im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002103128)
 
 (1) Ist die Regeldeckungssumme nach den Umständen des Einzelfalls
 nicht angemessen, so kann die Verwaltungsbehörde die Deckungssumme im
@@ -575,10 +596,12 @@ angemessenen Deckungssumme ist insbesondere zu berücksichtigen,
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002202128)
 
 
 
 ### § 18 Deckungssumme bei mehrfachem Umgang
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002301128)
 
 (1) Geht der zur Deckungsvorsorge Verpflichtete auf Grund einer oder
 weiterer Genehmigungen mit mehreren Stoffen oder mit mehreren
@@ -608,6 +631,7 @@ Stoffe wären.
 
 
 ### § 19 Abrundung der Deckungssumme
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002402128)
 
 (1) Die Deckungssumme ist auf volle 50 000 Euro festzusetzen.
 
@@ -617,10 +641,12 @@ nach oben abzurunden.
 
 
 ## Dritter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNG000301128)
 
 
 
 ### § 20 Neufestsetzung der Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002504128)
 
 Entspricht die Deckungsvorsorge für eine vor Inkrafttreten dieser
 Verordnung genehmigte Tätigkeit nicht mehr den Anforderungen dieser
@@ -633,14 +659,17 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002602128)
 
 
 
 ### § 22 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002701128)
 
 
 
 ### Anlage 1 Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002802128)
 
 (Fundstelle: BGBl. I 2022, 125)
 
@@ -796,6 +825,7 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 [^F820132_01_BJNR002200977BJNE002802128]: 
 
 ### Anlage 2 Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen Euro
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE002907128)
 
 (Fundstelle: BGBl. I 2022, 126)
 
@@ -953,6 +983,7 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 (zu § 8a Absatz 1, § 9 Absatz 1, § 11 Absatz 1 und 2)
 
 ### Anlage 3 Massenabhängige Erhöhungsbeträge zur Ermittlung der Regeldeckungssumme für die Beförderung von Kernmaterialien und für Kernanlagen in Millionen Euro
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003600128)
 
 (Fundstelle: BGBl. I 2022, 127)
 
@@ -1007,6 +1038,7 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 (zu § 8a Absatz 1, § 11 Absatz 1 und 2, § 12 Absatz 1)
 
 ### Anlage 4 Aktivitätsabhängige Erhöhungsbeträge zur Ermittlung der Regeldeckungssumme für die Beförderung von Kernmaterialien, für sonstige Kernanlagen und Kernanlagen in Stilllegung in Millionen Euro
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003301128)
 
 (Fundstelle: BGBl. I 2022, 128)
 
@@ -1068,6 +1100,7 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 (zu § 8a Absatz 2)
 
 ### Anlage 5 Festlegungen zum Ausschluss kleiner Mengen von Kernmaterialien außerhalb einer Kernanlage von der Anwendung des Pariser Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003401128)
 
 (Fundstelle: BGBl. I 2022, 129 - 137)
 
@@ -2713,6 +2746,7 @@ freigestellt sein.
 (zu § 12a Absatz 1)
 
 ### Anlage 6 Aktivitätsbezogene Festlegungen zum Ausschluss von Kernanlagen in fortgeschrittener Stilllegung von der Anwendung des Pariser Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/atdeckv_1977/BJNR002200977.html#BJNR002200977BJNE003501128)
 
 (Fundstelle: BGBl. I 2022, 138)
 

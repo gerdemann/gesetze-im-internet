@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt AnO 860-3-31 v. 22.7.2008 I 1405 (BAVorstBeamtRuaAnO 2008)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bazustano/BJNR012700018.html#BJNR012700018BJNE000100000)
 
 Nach
 
@@ -84,6 +85,7 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
 
 
 ## I. Übertragung von Befugnissen für Beamtinnen und Beamte der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/bazustano/BJNR012700018.html#BJNR012700018BJNE000202126)
 
 
 **1.** **Ernennung, Entlassung und Versetzung in den Ruhestand**
@@ -440,6 +442,7 @@ ordnet der Vorstand der Bundesagentur für Arbeit an:
 
 
 ## II. Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bazustano/BJNR012700018.html#BJNR012700018BJNE000300000)
 
 Der Vorstand kann die übertragenen Befugnisse in Einzelfällen selbst
 ausüben. Der Vorbehalt gilt entsprechend im Verhältnis der
@@ -450,6 +453,7 @@ deren Bezirk.
 
 
 ## III. Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bazustano/BJNR012700018.html#BJNR012700018BJNE000402126)
 
 Die Anordnung des Vorstands der Bundesagentur für Arbeit über die
 Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs-
@@ -473,6 +477,7 @@ c)  bis zum Abschluss von Rechtsbehelfsverfahren gegen beihilferechtliche
 
 
 ## IV. Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bazustano/BJNR012700018.html#BJNR012700018BJNE000500126)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
 Gleichzeitig wird die Anordnung des Vorstands der Bundesagentur für

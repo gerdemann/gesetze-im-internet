@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano_6/BJNR034160976.html#BJNR034160976BJNE000100326)
 
 Die Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet
 der beamtenrechtlichen Versorgung usw. im Dienstbereich des
@@ -38,11 +39,13 @@ Bundesminister des Innern wie folgt geändert:
 
 
 ## (XXXX) 1. bis 8. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano_6/BJNR034160976.html#BJNR034160976BJNE000200326)
 
 -
 
 
 ## 9.
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano_6/BJNR034160976.html#BJNR034160976BJNE000300326)
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im
 Bundesgesetzblatt in Kraft, soweit in Satz 2 nichts Abweichendes
@@ -91,6 +94,7 @@ September 1976 gültigen Fassung bis auf weiteres weiter.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano_6/BJNR034160976.html#BJNR034160976BJNE000400326)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

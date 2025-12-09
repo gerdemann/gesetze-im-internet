@@ -25,10 +25,12 @@ Neugefasst durch
 Stand: zuletzt geändert Art. 17 G v. 10.8.2021 I 3436
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG000101320)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000205116)
 
 (1) Zweck dieses Gesetzes ist es, eine wirksame Durchführung der
 Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des
@@ -64,6 +66,7 @@ Handelsgesetzbuchs unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000305116)
 
 (1) Für Zwecke dieses Gesetzes sind die in Artikel 2 der Verordnung
 (EG) Nr. 1221/2009 genannten Begriffsbestimmungen anzuwenden.
@@ -100,19 +103,23 @@ Ausgabe 2008 (WZ 2008).
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000402320)
 
 (weggefallen)
 
 
 ## Teil 2 - Zulassung von Umweltgutachtern und Umweltgutachterorganisationen sowie Aufsicht; Beschränkung der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG000202320)
 
 
 
 ### Abschnitt 1 - Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG000501320)
 
 
 
 #### § 4 Anforderungen an Umweltgutachter
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000603310)
 
 (1) Umweltgutachter besitzen die nach der Verordnung (EG) Nr.
 1221/2009 für die Wahrnehmung ihrer Aufgaben erforderliche
@@ -144,6 +151,7 @@ dem in § 1 Abs. 1 Nr. 1 bestimmten Zweck näher bestimmen.
 
 
 #### § 5 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000707116)
 
 (1) Die erforderliche Zuverlässigkeit besitzt ein Umweltgutachter,
 wenn er auf Grund seiner persönlichen Eigenschaften, seines Verhaltens
@@ -214,6 +222,7 @@ Gewähr, der
 
 
 #### § 6 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000804310)
 
 (1) Der Umweltgutachter muss die gemäß Artikel 20 Absatz 4 und 5 der
 Verordnung (EG) Nr. 1221/2009 erforderliche Unabhängigkeit aufweisen.
@@ -283,6 +292,7 @@ ist oder Weisungen im Sinne des Absatzes 2 Nr. 2 unterliegt.
 
 
 #### § 7 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE000904116)
 
 (1) Die erforderliche Fachkunde besitzt ein Umweltgutachter, wenn er
 auf Grund seiner Ausbildung, beruflichen Bildung und praktischen
@@ -367,6 +377,7 @@ unberührt.
 
 
 #### § 8 Fachkenntnisbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001003310)
 
 (1) Eine Person, die nicht als Umweltgutachter zugelassen ist, darf
 für einen Umweltgutachter oder eine Umweltgutachterorganisation im
@@ -408,6 +419,7 @@ Fachkenntnisbescheinigung entsprechend.
 
 
 #### § 9 Zulassung als Umweltgutachter
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001106116)
 
 (1) Die Zulassung als Umweltgutachter ist von der Zulassungsstelle zu
 erteilen, wenn der Antragsteller die Anforderungen nach § 4 Abs. 1 und
@@ -514,6 +526,7 @@ gesichert niedergelegt.
 
 
 #### § 10 Zulassung als Umweltgutachterorganisation
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001205116)
 
 (1) Die Zulassung als Umweltgutachterorganisation setzt voraus, dass
 
@@ -643,6 +656,7 @@ wenn keine Zulassung nach Absatz 2 erteilt ist.
 
 
 #### § 10a Ausländische Unterlagen und Nachweise; Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004900310)
 
 (1) Soweit im Rahmen des Zulassungsverfahrens Nachweise nach diesem
 Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Verordnung
@@ -671,6 +685,7 @@ Prüfungszeitpunkt.
 
 
 #### § 11 Bescheinigungs- und Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001303116)
 
 (1) Das Verfahren für die Erteilung einer Fachkenntnisbescheinigung
 nach § 8 und für die Zulassung nach den §§ 9 und 10 setzt einen
@@ -726,6 +741,7 @@ Zustimmung des Bundesrates bedarf,
 
 
 #### § 12 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001402320)
 
 (1) Die mündliche Prüfung ist unselbständiger Teil der Zulassungs- und
 Bescheinigungsverfahren. Über den wesentlichen Inhalt und Ablauf der
@@ -764,11 +780,13 @@ jeweils als Umweltgutachter zugelassen sein.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001502320)
 
 (weggefallen)
 
 
 #### § 14 Zulassungsregister
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001604116)
 
 (1) Die Zulassungsstelle führt ein Zulassungsregister für
 Umweltgutachter, Umweltgutachterorganisationen und Inhaber von
@@ -790,10 +808,12 @@ das Zulassungsregister einzusehen.
 
 
 ### Abschnitt 2 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG001701320)
 
 
 
 #### § 15 Überprüfung von Umweltgutachtern, Umweltgutachterorganisationen und Inhabern von Fachkenntnisbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001805116)
 
 (1) Umweltgutachter, Umweltgutachterorganisationen und Inhaber von
 Fachkenntnisbescheinigungen sind von der Zulassungsstelle in
@@ -916,6 +936,7 @@ rechtlicher Regelungen entsprechend.
 
 
 #### § 16 Anordnung, Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE001903310)
 
 (1) Zur Erfüllung der Anforderungen und Pflichten nach der Verordnung
 (EG) Nr. 1221/2009, nach diesem Gesetz, nach den auf Grund dieses
@@ -953,6 +974,7 @@ Rechtsverstoßes besteht.
 
 
 #### § 17 Rücknahme und Widerruf von Zulassung und Fachkenntnisbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002005116)
 
 (1) Zulassung und Fachkenntnisbescheinigung sind mit Wirkung für die
 Zukunft zurückzunehmen, wenn nachträglich Tatsachen bekannt werden,
@@ -1043,6 +1065,7 @@ wenn
 
 
 #### § 18 Umweltgutachter und Umweltgutachterorganisationen aus anderen Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002103310)
 
 (1) Umweltgutachter und Umweltgutachterorganisationen, die in einem
 anderen Mitgliedstaat der Europäischen Union oder in einem Staat des
@@ -1102,6 +1125,7 @@ nach Ablauf von zwei Wochen ab der Aufgabe zur Post als erfolgt.
 
 
 #### § 19 Verbot der Validierung von Umwelterklärungen
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002203310)
 
 Wer nicht die erforderliche Zulassung oder Fachkenntnisbescheinigung
 besitzt, darf weder eine Umwelterklärung nach Artikel 19 Absatz 2 oder
@@ -1111,6 +1135,7 @@ abgeben oder eine Mitzeichnung nach § 8 Absatz 2 Satz 3 vornehmen.
 
 
 #### § 20 Aufsichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002302320)
 
 Die Bundesregierung kann nach Anhörung des Umweltgutachterausschusses
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -1120,10 +1145,12 @@ genannten Zweck näher regeln.
 
 
 ### Abschnitt 3 - Umweltgutachterausschuss, Widerspruchsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG002402320)
 
 
 
 #### § 21 Aufgaben des Umweltgutachterausschusses
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002503116)
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ein Umweltgutachterausschuss gebildet. Der
@@ -1174,6 +1201,7 @@ besonderen Fragen anfordern.
 
 
 #### § 22 Mitglieder des Umweltgutachterausschusses
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002604116)
 
 (1) Mitglieder des Umweltgutachterausschusses sind
 
@@ -1227,6 +1255,7 @@ liegen.
 
 
 #### § 23 Geschäftsordnung, Vorsitz und Beschlussfassung des Umweltgutachterausschusses
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002704116)
 
 (1) Der Umweltgutachterausschuss gibt sich eine Geschäftsordnung, die
 der Genehmigung durch das Bundesministerium für Umwelt, Naturschutz
@@ -1261,6 +1290,7 @@ festgelegt werden.
 
 
 #### § 24 Widerspruchsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002803116)
 
 (1) Zuständig für die Entscheidung über Widersprüche gegen
 Verwaltungsakte der Zulassungsstelle ist das Bundesverwaltungsamt, das
@@ -1280,6 +1310,7 @@ zu erteilen.
 
 
 #### § 25 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE002902320)
 
 (1) Der Widerspruch soll vor Erlass des Widerspruchsbescheides mit den
 Beteiligten mündlich erörtert werden. Mit Einverständnis aller
@@ -1297,6 +1328,7 @@ Zulassungsstelle zu erstatten.
 
 
 #### § 26 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003001320)
 
 Für die Arbeit des Umweltgutachterausschusses wird eine
 Geschäftsstelle eingerichtet. Sie unterliegt den Weisungen des
@@ -1304,6 +1336,7 @@ Vorsitzenden des Umweltgutachterausschusses.
 
 
 #### § 27 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003103116)
 
 (1) Der Umweltgutachterausschuss steht unter der Aufsicht des
 Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit
@@ -1338,10 +1371,12 @@ aufgelösten Ausschusses waren.
 
 
 ### Abschnitt 4 - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG003201320)
 
 
 
 #### § 28 Zulassungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003304116)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, eine oder mehrere juristische Personen des
@@ -1361,6 +1396,7 @@ Mitgliedstaaten gemäß Artikel 30 und 31 der Verordnung (EG) Nr.
 
 
 #### § 29 Aufsicht über die Zulassungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003404116)
 
 Die nach § 28 beliehene Zulassungsstelle steht unter der Aufsicht des
 Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit
@@ -1370,10 +1406,12 @@ der Zulassungs- und Aufsichtstätigkeit und auf die Entscheidungen nach
 
 
 ### Abschnitt 5 - Beschränkung der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG003502320)
 
 
 
 #### § 30 Beschränkung der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003601320)
 
 Auf die Schadensersatzpflicht von Personen, die fahrlässig gehandelt
 haben, findet § 323 Abs. 2 des Handelsgesetzbuchs entsprechende
@@ -1381,19 +1419,23 @@ Anwendung.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003702320)
 
 (weggefallen)
 
 
 ## Teil 3 - Registrierung geprüfter Organisationen, Kosten, Bußgeld-, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG000302320)
 
 
 
 ### Abschnitt 1 - Registrierung geprüfter Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG003802320)
 
 
 
 #### § 32 EMAS-Register
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE003905116)
 
 (1) In das EMAS-Register wird eingetragen, an welchen Standorten die
 Organisation ein Umweltmanagementsystem betreibt, das die
@@ -1444,6 +1486,7 @@ gewähren.
 
 
 #### § 33 Registrierung im EMAS-Register
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004003310)
 
 (1) Die für eine Registrierung im EMAS-Register nach Artikel 13 bis 15
 der Verordnung (EG) Nr. 1221/2009 erforderliche Glaubhaftmachung, dass
@@ -1519,6 +1562,7 @@ nach § 35 Absatz 2 bleiben unberührt.
 
 
 #### § 34 Verlängerung der EMAS-Registrierung, Verfahren bei Verstößen, Streichung und vorübergehende Aufhebung der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004103310)
 
 (1) Stellt die Umweltbehörde fest, dass eine registrierte Organisation
 gegen Umweltvorschriften verstößt, so setzt sie die Register führende
@@ -1582,6 +1626,7 @@ Artikel 15 Absatz 3 der Verordnung (EG) Nr. 1221/2009 in Kenntnis.
 
 
 #### § 35 Registrierungsverfahren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004204116)
 
 (1) Die Industrie- und Handelskammern und die Handwerkskammern können
 das Verfahren für die Registrierung und Streichung von Standorten
@@ -1603,10 +1648,12 @@ Sitz in Staaten außerhalb der Europäischen Union haben, zu treffen.
 
 
 ### Abschnitt 2 - Kosten und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG004301320)
 
 
 
 #### § 36 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004405116)
 
 (1) Für individuell zurechenbare öffentliche Leistungen auf Grund
 dieses Gesetzes werden Gebühren und Auslagen erhoben.
@@ -1630,6 +1677,7 @@ Aufsichtsbehörde im Einvernehmen mit der zuständigen Umweltbehörde. §
 
 
 #### § 37 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004505116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1720,10 +1768,12 @@ Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 ### Abschnitt 3 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNG004601320)
 
 
 
 #### § 38 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004703310)
 
 (1) Zulassungen von Umweltgutachtern, Umweltgutachterorganisationen
 und Inhabern von Fachkenntnisbescheinigungen, die vor dem 13. Dezember
@@ -1742,6 +1792,7 @@ Qualifikationsnachweise im Sinne des Satzes 1 weiterhin anzuwenden.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/uag/BJNR159100995.html#BJNR159100995BJNE004801320)
 
 (Inkrafttreten)
 

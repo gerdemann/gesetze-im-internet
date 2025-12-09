@@ -23,9 +23,11 @@ Stand: Zuletzt geändert Art. 7c G v. 19.7.2023 I Nr. 197
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000100000)
 
 
 ### § 1 Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000100000)
 
 (1) Wer die Berufsbezeichnung „Notfallsanitäterin“ oder
 „Notfallsanitäter“ führen will, bedarf der Erlaubnis.
@@ -44,6 +46,7 @@ Gleichstellung ergibt.
 
 
 ### § 2 Voraussetzungen für die Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000201116)
 
 (1) Die Erlaubnis, die Berufsbezeichnung „Notfallsanitäterin“ oder
 „Notfallsanitäter“ zu führen, ist auf Antrag zu erteilen, wenn die
@@ -211,6 +214,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a Eigenverantwortliche Durchführung heilkundlicher Maßnahmen durch Notfallsanitäterinnen und Notfallsanitäter
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE003401130)
 
 Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum
 Beginn einer weiteren ärztlichen, auch teleärztlichen, Versorgung
@@ -231,6 +235,7 @@ medikamentöser Art, dann eigenverantwortlich durchführen, wenn
 
 
 ### § 3 Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000300000)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Notfallsanitäters ausgeübt wird oder zuletzt ausgeübt worden ist,
@@ -266,6 +271,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 3a Vorwarnmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE003300116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -364,9 +370,11 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000200000)
 
 
 ### § 4 Ausbildungsziel
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000401130)
 
 (1) Die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter
 soll entsprechend dem allgemein anerkannten Stand
@@ -472,6 +480,7 @@ Selbständigkeit und Selbstbestimmung in ihr Handeln mit einzubeziehen.
 
 
 ### § 5 Dauer und Struktur der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000500000)
 
 (1) Die Ausbildung für Notfallsanitäterinnen und Notfallsanitäter
 dauert unabhängig vom Zeitpunkt der staatlichen Prüfung in
@@ -497,6 +506,7 @@ sicherzustellen.
 
 
 ### § 6 Staatliche Anerkennung von Schulen; Genehmigung von Lehrrettungswachen
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000600000)
 
 (1) Die staatliche Anerkennung der Schulen nach § 5 Absatz 2 Satz 1
 und die Genehmigung von Lehrrettungswachen nach § 5 Absatz 2 Satz 3
@@ -538,6 +548,7 @@ Beschränkung der Hochschulausbildung nach Absatz 2 Satz 1 Nummer 1 und
 
 
 ### § 7 Ausbildung an der Hochschule im Rahmen von Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000700000)
 
 (1) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung
 des Berufs des Notfallsanitäters im akademischen Bereich unter
@@ -576,6 +587,7 @@ Ergebnisse der Auswertung.
 
 
 ### § 8 Voraussetzungen für den Zugang zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000800000)
 
 Voraussetzung für den Zugang zu einer Ausbildung nach diesem Gesetz
 ist,
@@ -610,6 +622,7 @@ ist,
 
 
 ### § 9 Anrechnung gleichwertiger Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE000900000)
 
 Die zuständige Behörde kann auf Antrag eine andere erfolgreich
 abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer
@@ -619,6 +632,7 @@ des Ausbildungsziels darf durch die Anrechnung nicht gefährdet werden.
 
 
 ### § 10 Anrechnung von Fehlzeiten
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001000000)
 
 (1) Auf die Dauer einer Ausbildung nach § 5 Absatz 1 Satz 1 werden
 angerechnet:
@@ -660,6 +674,7 @@ Landespersonalvertretungsgesetzen bleiben unberührt.
 
 
 ### § 11 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001102116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -713,9 +728,11 @@ vorsehen.
 
 
 ## Abschnitt 3 - Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000300000)
 
 
 ### § 12 Ausbildungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001201116)
 
 (1) Zwischen dem Ausbildungsträger und der Schülerin oder dem Schüler
 ist ein schriftlicher Ausbildungsvertrag nach Maßgabe der Vorschriften
@@ -773,6 +790,7 @@ anzuwenden.
 
 
 ### § 13 Pflichten des Ausbildungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001300000)
 
 (1) Der Ausbildungsträger ist verpflichtet,
 
@@ -803,6 +821,7 @@ hat, dass die Schülerin oder der Schüler dazu in der Lage ist.
 
 
 ### § 14 Pflichten der Schülerin oder des Schülers
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001400000)
 
 Die Schülerin oder der Schüler hat sich zu bemühen, die in § 4
 genannten Kompetenzen zu erwerben, die erforderlich sind, um das
@@ -825,6 +844,7 @@ verpflichtet,
 
 
 ### § 15 Ausbildungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001500000)
 
 (1) Der Ausbildungsträger hat der Schülerin oder dem Schüler eine
 angemessene Ausbildungsvergütung zu gewähren.
@@ -842,12 +862,14 @@ zulässig und besonders zu vergüten.
 
 
 ### § 16 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001600000)
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit
 beträgt vier Monate.
 
 
 ### § 17 Ende des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001700000)
 
 (1) Das Ausbildungsverhältnis endet mit Ablauf der Ausbildungszeit.
 
@@ -860,6 +882,7 @@ höchstens jedoch um ein Jahr.
 
 
 ### § 18 Kündigung des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001800000)
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem
 Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist
@@ -897,6 +920,7 @@ Beendigung der Lauf dieser Frist gehemmt.
 
 
 ### § 19 Beschäftigung im Anschluss an das Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE001900000)
 
 Wird die Schülerin oder der Schüler im Anschluss an das
 Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
@@ -905,6 +929,7 @@ unbestimmte Zeit als begründet.
 
 
 ### § 20 Nichtigkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002000000)
 
 (1) Eine Vereinbarung, die zu Ungunsten der Schülerin oder des
 Schülers von den übrigen Vorschriften dieses Abschnitts abweicht, ist
@@ -936,6 +961,7 @@ Beendigung ein Arbeitsverhältnis eingeht.
 
 
 ### § 21 Ausschluss der Geltung von Vorschriften dieses Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002100000)
 
 Die Vorschriften dieses Abschnitts finden keine Anwendung auf
 Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die
@@ -951,9 +977,11 @@ Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die
 
 
 ## Abschnitt 4 - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000400000)
 
 
 ### § 22 Dienstleistungserbringende Personen
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002202116)
 
 (1) Staatsangehörige eines Vertragsstaats des Europäischen
 Wirtschaftsraums, die zur Ausübung des Berufs des Notfallsanitäters in
@@ -995,6 +1023,7 @@ besitzt.
 
 
 ### § 23 Meldung der dienstleistungserbringenden Person an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002302116)
 
 (1) Wer beabsichtigt, im Sinne des § 22 Absatz 1 Dienstleistungen zu
 erbringen, hat dies der zuständigen Behörde vorher schriftlich zu
@@ -1035,6 +1064,7 @@ deutschen Sprache müssen vorhanden sein.
 
 
 ### § 24 Prüfen der Angaben durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002401116)
 
 (1) Die zuständige Behörde prüft im Fall der erstmaligen
 Dienstleistungserbringung den nach § 23 Absatz 2 Satz 1 vorgelegten
@@ -1058,6 +1088,7 @@ durch eine Eignungsprüfung.
 
 
 ### § 25 Bescheinigungen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002501116)
 
 Einer oder einem Staatsangehörigen eines Vertragsstaats des
 Europäischen Wirtschaftsraums, die oder der im Geltungsbereich dieses
@@ -1081,6 +1112,7 @@ dass sie oder er
 
 
 ### § 26 Verwaltungszusammenarbeit, Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002601116)
 
 (1) Wird gegen die Pflichten nach § 22 Absatz 2 verstoßen, so hat die
 zuständige Behörde unverzüglich die zuständige Behörde des
@@ -1111,9 +1143,11 @@ Behörde Folgendes zu übermitteln:
 
 
 ## Abschnitt 5 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000500000)
 
 
 ### § 27 Aufgaben der jeweils zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002700000)
 
 (1) Die Entscheidungen, ob die Erlaubnis erteilt wird, die
 Berufsbezeichnung „Notfallsanitäterin“ oder „Notfallsanitäter“ zu
@@ -1146,9 +1180,11 @@ zuständigen Behörden.
 
 
 ## Abschnitt 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000600000)
 
 
 ### § 28 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002800000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1168,15 +1204,18 @@ Euro geahndet werden.
 
 
 ## Abschnitt 7 - Anwendungs- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNG000700000)
 
 
 ### § 29 Nichtanwendung des Berufsbildungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE002900000)
 
 Für die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter
 findet das Berufsbildungsgesetz keine Anwendung.
 
 
 ### § 30 Weiterführen der alten Erlaubnis zur Führung der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE003000000)
 
 Rettungsassistentinnen und Rettungsassistenten, die eine Erlaubnis
 nach dem Rettungsassistentengesetz besitzen, dürfen die
@@ -1186,6 +1225,7 @@ den Voraussetzungen des Satzes 1 geführt werden.
 
 
 ### § 31 Weitergeltung staatlicher Anerkennungen von Schulen
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE003100000)
 
 (1) Schulen entsprechend § 5 Absatz 2 Satz 1, die vor Inkrafttreten
 dieses Gesetzes auf Grund des Rettungsassistentengesetzes staatlich
@@ -1225,6 +1265,7 @@ werden, die bei Inkrafttreten dieses Gesetzes
 
 
 ### § 32 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notsang/BJNR134810013.html#BJNR134810013BJNE003202116)
 
 (1) Eine Ausbildung zur Rettungsassistentin oder zum
 Rettungsassistenten, die vor Außerkrafttreten des

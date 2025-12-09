@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich und Ziel
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000102377)
 
 (1) Diese Verordnung trifft für Schlichtungsverfahren nach § 16 des
 Behindertengleichstellungsgesetzes Regelungen zur Geschäftsstelle, zur
@@ -38,6 +39,7 @@ außergerichtliche und unentgeltliche Streitbeilegung zu ermöglichen.
 
 
 ## § 2 Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000200000)
 
 (1) Die Schlichtungsstelle wird bei der oder dem Beauftragten der
 Bundesregierung für die Belange von Menschen mit Behinderungen nach
@@ -54,6 +56,7 @@ Geschäftsstelle einzurichten.
 
 
 ## § 3 Schlichtende Personen und Geschäftsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000300000)
 
 (1) Die schlichtenden Personen müssen die Befähigung zum Richteramt
 haben. Sie müssen über das Fachwissen, die Fähigkeiten und die
@@ -103,6 +106,7 @@ Misstrauen gegen ihre Unparteilichkeit zu rechtfertigen. Das Verfahren
 
 
 ## § 4 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000400000)
 
 Die schlichtenden Personen und die weiteren in die Durchführung des
 Schlichtungsverfahrens eingebundenen Personen sind zur
@@ -113,6 +117,7 @@ Mediationsgesetzes gilt entsprechend.
 
 
 ## § 5 Antrag auf Einleitung eines Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000502377)
 
 (1) Der Antrag auf Einleitung eines Schlichtungsverfahrens nach § 16
 Absatz 2 oder 3 des Behindertengleichstellungsgesetzes kann in
@@ -133,6 +138,7 @@ Antrag jederzeit ohne Begründung zurücknehmen.
 
 
 ## § 6 Ablehnung eines Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000602377)
 
 Die schlichtende Person lehnt die Durchführung eines
 Schlichtungsverfahrens ab, wenn die Streitigkeit nicht in die
@@ -146,6 +152,7 @@ der Abhilfe anbieten könnte, kann sie eine Verweisberatung anbieten.
 
 
 ## § 7 Rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000702377)
 
 (1) Die Schlichtungsstelle übermittelt der Antragsgegnerin oder dem
 Antragsgegner eine Abschrift des Schlichtungsantrags. Die
@@ -168,6 +175,7 @@ Gewährung von Akteneinsicht auffordern.
 
 
 ## § 8 Verfahren und Schlichtungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000801126)
 
 (1) Die schlichtende Person bestimmt den weiteren Gang des Verfahrens
 nach freiem Ermessen unter Beachtung der Grundsätze der
@@ -218,6 +226,7 @@ Schlichtungsstelle das Verfahren ab.
 
 
 ## § 9 Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE000900000)
 
 (1) Haben sich die Beteiligten gütlich geeinigt oder einen
 Schlichtungsvorschlag nach § 8 angenommen und eine Mitteilung der
@@ -240,6 +249,7 @@ Schlichtungsverfahrens nach § 6 ablehnt.
 
 
 ## § 10 Verfahrensdauer
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE001000000)
 
 Die Schlichtungsstelle wirkt auf eine zügige Durchführung des
 Verfahrens hin. Ein Schlichtungsvorschlag soll in der Regel innerhalb
@@ -247,6 +257,7 @@ von drei Monaten nach Antragseingang unterbreitet werden.
 
 
 ## § 11 Barrierefreie Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE001100000)
 
 Die Schlichtungsstelle gewährleistet eine barrierefreie Kommunikation
 im Sinne des Behindertengleichstellungsgesetzes mit den Beteiligten.
@@ -256,12 +267,14 @@ Verfahren vor der Schlichtungsstelle entsprechende Anwendung.
 
 
 ## § 12 Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE001200000)
 
 Mit Ausnahme notwendiger Reisekosten nach § 13 erstattet die
 Schlichtungsstelle den Beteiligten keine Kosten.
 
 
 ## § 13 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE001301126)
 
 Die notwendigen Reisekosten, die der Antragstellerin oder dem
 Antragsteller eines Schlichtungsverfahrens, die oder der einer
@@ -277,6 +290,7 @@ Antragsgegners werden nicht übernommen.
 
 
 ## § 14 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE001400000)
 
 Die Schlichtungsstelle erstellt jährlich einen Tätigkeitsbericht. Sie
 leitet ihn dem Bundesministerium für Arbeit und Soziales und der oder
@@ -286,6 +300,7 @@ bis zum 31. März des Folgejahres zu.
 
 
 ## § 15 Information durch die Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bgleisv/BJNR265910016.html#BJNR265910016BJNE001501126)
 
 (1) Die Schlichtungsstelle unterhält eine barrierefreie Website, auf
 der mindestens diese Rechtsverordnung, ein Antragsformular nach § 5

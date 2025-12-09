@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Vergütung und Aufwendungsersatz des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000100000)
 
 
 ### § 1 Berufsmäßigkeit; Vergütung und Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000100000)
 
 (1) Das Familiengericht stellt die Berufsmäßigkeit im Sinne von § 1808
 Absatz 3 des Bürgerlichen Gesetzbuchs fest, wenn dem Vormund in einem
@@ -48,6 +50,7 @@ bewilligen.
 
 
 ### § 2 Zahlung aus der Staatskasse und Rückgriff, Erlöschen und Geltendmachung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000200000)
 
 (1) Ist der Mündel mittellos im Sinne von § 1880 des Bürgerlichen
 Gesetzbuchs, so kann der Vormund Vergütung sowie Vorschuss oder Ersatz
@@ -60,6 +63,7 @@ Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 
 ### § 3 Stundensatz des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000300000)
 
 (1) Die dem Vormund nach § 1 Absatz 3 zu bewilligende Vergütung
 beträgt für jede Stunde der für die Führung der Vormundschaft
@@ -99,6 +103,7 @@ mittellos ist.
 
 
 ### § 4 Aufwendungsersatz des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000400000)
 
 (1) Für seine anlässlich der Führung der Vormundschaft erforderlichen
 Aufwendungen kann der Berufsvormund Vorschuss oder Ersatz in
@@ -112,6 +117,7 @@ gehören, kann der Berufsvormund anstelle der Vergütung nach § 1 Absatz
 
 
 ### § 5 Vergütung und Aufwendungsersatz für Vormundschaftsvereine
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000500000)
 
 (1) Ist ein Vereinsvormund bestellt oder führt der Verein eine
 Beistandschaft, so ist dem Verein eine Vergütung in entsprechender
@@ -128,6 +134,7 @@ Aufwendungsersatz geltend machen.
 
 
 ### § 6 Vergütung und Aufwendungsersatz für das Jugendamt
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000600000)
 
 (1) Dem Jugendamt als Vormund steht keine Vergütung zu.
 
@@ -139,9 +146,11 @@ Allgemeine Verwaltungskosten werden nicht ersetzt.
 
 
 ## Abschnitt 2 - Vergütung und Aufwendungsersatz des Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000200000)
 
 
 ### § 7 Vergütung und Aufwendungsersatz des beruflichen Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000700000)
 
 (1) Ein beruflicher Betreuer nach § 19 Absatz 2 des
 Betreuungsorganisationsgesetzes, der selbständig rechtliche
@@ -162,6 +171,7 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 ### § 8 Höhe der Vergütung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000800000)
 
 (1) Die dem beruflichen Betreuer nach § 7 zu bewilligende Vergütung
 bestimmt sich nach monatlichen Fallpauschalen, die in den
@@ -203,6 +213,7 @@ auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 9 Fallpauschalen
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE000902360)
 
 (1) Die Höhe der Fallpauschalen nach § 8 Absatz 1 richtet sich nach
 
@@ -269,6 +280,7 @@ Gesetzbuchs gelten entsprechend.
 
 
 ### § 10 Gesonderte Pauschalen
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001000000)
 
 (1) Ist der Betreute nicht mittellos, wird der Betreuer mit einer
 zusätzlichen monatlichen Pauschale in Höhe von 30 Euro vergütet, wenn
@@ -307,6 +319,7 @@ einem Vergütungsantrag nach den §§ 8 und 9 geltend gemacht werden.
 
 
 ### § 11 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001100000)
 
 Die Fallpauschalen nach § 9 gelten auch Ansprüche auf Ersatz
 anlässlich der Betreuung entstandener Aufwendungen ab. Die gesonderte
@@ -316,6 +329,7 @@ unberührt.
 
 
 ### § 12 Sonderfälle der Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001200000)
 
 (1) Dem Sterilisationsbetreuer nach § 1817 Absatz 2 des Bürgerlichen
 Gesetzbuchs und dem Ergänzungsbetreuer nach § 1817 Absatz 5 des
@@ -333,6 +347,7 @@ nach Tagen zu teilen; § 187 Absatz 1 und
 
 
 ### § 13 Vergütung und Aufwendungsersatz für Betreuungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001300000)
 
 (1) Ist der Betreuungsverein nach § 1818 Absatz 1 des Bürgerlichen
 Gesetzbuchs als Betreuer bestellt, ist ihm eine Vergütung nach den §§
@@ -354,6 +369,7 @@ ersetzt.
 
 
 ### § 14 Vergütung und Aufwendungsersatz für Behördenbetreuer und Betreuungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001400000)
 
 (1) Ist ein Behördenbetreuer bestellt, so kann der zuständigen Behörde
 nur unter den in § 1876 Satz 2 des Bürgerlichen Gesetzbuchs bestimmten
@@ -377,6 +393,7 @@ Betreuungsbehörde nicht anzuwenden.
 
 
 ### § 15 Abrechnungszeitraum für die Betreuungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001500000)
 
 (1) Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen
 Zeitraum geltend gemacht werden. Dies gilt nicht für die
@@ -397,6 +414,7 @@ mitzuteilen.
 
 
 ### § 16 Zahlung aus der Staatskasse, Erlöschen und Geltendmachung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001600000)
 
 (1) Ist der Betreute mittellos im Sinne des § 1880 des Bürgerlichen
 Gesetzbuchs, so kann der Betreuer die Vergütung sowie Vorschuss oder
@@ -413,9 +431,11 @@ Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000300000)
 
 
 ### § 17 Umschulung und Fortbildung von Berufsvormündern und beruflichen Betreuern
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001700000)
 
 (1) Durch Landesrecht kann bestimmt werden, dass es einer
 abgeschlossenen Lehre im Sinne des § 3 Absatz 1 Satz 2 Nummer 1 und §
@@ -483,9 +503,11 @@ Vorschrift anerkannt wird.
 
 
 ## Abschnitt 4 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNG000400000)
 
 
 ### § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001800000)
 
 Auf Vergütungsansprüche von Betreuern, Vormündern, Pflegern und
 Verfahrenspflegern für Leistungen, die vor dem 1. Januar 2023 erbracht
@@ -497,6 +519,7 @@ Fassung anzuwenden.
 
 
 ### § 19 Ansprüche von Betreuern, die vor Inkrafttreten des Betreuungsorganisationsgesetzes bereits berufsmäßig Betreuungen geführt haben
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE001900000)
 
 (1) Für berufliche Betreuer, die bis einschließlich 1. Januar 2023
 seit weniger als drei Jahren berufliche Betreuungen führen, gilt § 4
@@ -523,6 +546,7 @@ Verfahren nach § 8 Absatz 2 und 3 entsprechend zu Grunde zu legen.
 
 
 ### Anlage (zu § 8 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/vbvg_2023/BJNR092500021.html#BJNR092500021BJNE002002360)
 
 (Fundstelle: BGBl. I 2021, 930- 931; bzgl. einzelner Änderungen vgl.
 Fußnote)

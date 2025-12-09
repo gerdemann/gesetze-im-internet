@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 754-25-1 v. 4.4.2017 I 791 (ReifKennzV)
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/reifkennzv_2021/BJNR243910021.html#BJNR243910021BJNE000100000)
 
 Diese Verordnung dient der Durchführung der Verordnung (EU) 2020/740
 des Europäischen Parlaments und des Rates vom 25. Mai 2020 über die
@@ -29,6 +30,7 @@ Aufhebung der Verordnung (EG) 1222/2009 (ABl. L 177 vom 5.6.2020, S.
 
 
 ## § 2 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/reifkennzv_2021/BJNR243910021.html#BJNR243910021BJNE000200000)
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 5 des
 Energieverbrauchskennzeichnungsgesetzes handelt, wer gegen die

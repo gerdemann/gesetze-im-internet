@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rotkleesaatv/BJNR612700015.html#BJNR612700015BJNE000100000)
 
 Auf Grund des § 5 Absatz 2 Nummer 1 und 1a in Verbindung mit Absatz 1
 Nummer 1 Buchstabe b und des § 22 Absatz 1 Nummer 4 in Verbindung mit
@@ -31,6 +32,7 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rotkleesaatv/BJNR612700015.html#BJNR612700015BJNE000200000)
 
 (1) Abweichend von § 6 Satz 2 in Verbindung mit Anlage 3 Nummer 3.1.11
 Spalte 3 der Saatgutverordnung in der Fassung der Bekanntmachung vom
@@ -47,6 +49,7 @@ gebracht werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rotkleesaatv/BJNR612700015.html#BJNR612700015BJNE000300000)
 
 Jede Packung oder jedes Behältnis mit Zertifiziertem Saatgut, dessen
 Keimfähigkeit in Anwendung des § 1 Absatz 1 unterhalb der in Anlage 3
@@ -59,6 +62,7 @@ Saatgutverordnung genügenden Weise angegeben wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rotkleesaatv/BJNR612700015.html#BJNR612700015BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

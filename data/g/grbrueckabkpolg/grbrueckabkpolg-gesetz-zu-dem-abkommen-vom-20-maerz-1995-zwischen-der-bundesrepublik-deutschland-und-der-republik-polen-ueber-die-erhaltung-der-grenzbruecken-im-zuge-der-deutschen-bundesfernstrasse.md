@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkpolg/BJNR082620996.html#BJNR082620996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkpolg/BJNR082620996.html#BJNR082620996BJNE000200310)
 
 Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Polen über die Erhaltung
@@ -35,6 +37,7 @@ zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkpolg/BJNR082620996.html#BJNR082620996BJNE000300310)
 
 (1) Auf die in Artikel 10 Abs. 1 des Abkommens bezeichneten Umsätze
 findet deutsches Umsatzsteuerrecht Anwendung.
@@ -49,6 +52,7 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabkpolg/BJNR082620996.html#BJNR082620996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

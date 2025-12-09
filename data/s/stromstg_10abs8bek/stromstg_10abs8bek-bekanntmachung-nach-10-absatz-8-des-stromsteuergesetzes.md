@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_10abs8bek/BJNR16B0A0023.html#BJNR16B0A0023BJNE000100000)
 
 Nach § 10 Absatz 8 des Stromsteuergesetzes vom 24. März 1999 (BGBl. I
 S. 378; 2000 I S. 147), das zuletzt durch Artikel 2 des Gesetzes vom
@@ -29,6 +30,7 @@ ausläuft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_10abs8bek/BJNR16B0A0023.html#BJNR16B0A0023BJNE000200000)
 
 Bundesministerium der Finanzen
 

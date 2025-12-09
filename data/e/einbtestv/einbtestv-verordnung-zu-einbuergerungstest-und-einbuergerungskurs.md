@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000100000)
 
 Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch
 Artikel 5 Nr. 7 Buchstabe c des Gesetzes vom 19. August 2007 (BGBl. I
@@ -28,6 +29,7 @@ Innern:
 
 
 ## § 1 Einbürgerungstest und Einbürgerungskurs
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000200000)
 
 (1) Der bundeseinheitliche Einbürgerungstest wird mittels Fragebögen
 durchgeführt, bei denen jeweils aus vier möglichen Antworten die
@@ -52,6 +54,7 @@ Einbürgerungskursen verbindlich ist.
 
 
 ## § 2 Verfahren des Einbürgerungstests unter Mitnutzung von Prüfstellen des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000300000)
 
 (1) Für die technische Durchführung des bundeseinheitlichen
 Einbürgerungstests können nach Maßgabe von Verwaltungsvereinbarungen
@@ -78,6 +81,7 @@ Identitätspapiers zu prüfen.
 
 
 ## § 3 Verfahren des Einbürgerungstests über Landesstellen
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000400000)
 
 In dem Fall, dass ein Land die gesamte technische Durchführung des
 bundeseinheitlichen Einbürgerungstests in seinem Zuständigkeitsbereich
@@ -89,6 +93,7 @@ Ausstellung einer Bescheinigung nach einheitlichem Vordruck.
 
 
 ## § 4 Datenerhebung und -verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000500000)
 
 Im Verfahren nach § 2 Abs. 1 darf das Bundesamt über die Prüfstelle
 zum Zwecke der Durchführung des Einbürgerungstests und der Ausstellung
@@ -99,11 +104,13 @@ der Bescheinigung zu löschen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000600000)
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
 
 
 ## Anlage 1 Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000702377)
 
 (Fundstelle: Anlageband zum BGBl. I 2008 Nr. 35 Seite 4 bis 140; bzgl.
 der einzelnen Änderungen vgl. Fußnote)
@@ -12256,6 +12263,7 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
 ## Anlage 2 Rahmencurriculum für den Einbürgerungskurs
+[Direktlink](https://www.gesetze-im-internet.de/einbtestv/BJNR164900008.html#BJNR164900008BJNE000800000)
 
 (Fundstelle: Anlageband zum BGBl. I 2008 Nr. 35 Seite 141 bis 174)
 **Inhalt**

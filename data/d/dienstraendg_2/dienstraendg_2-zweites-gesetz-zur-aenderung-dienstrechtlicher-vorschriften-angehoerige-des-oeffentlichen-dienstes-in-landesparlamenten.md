@@ -21,17 +21,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis Art 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000200311)
 
 -
 
 
 ## Art 9 Arbeitnehmer des öffentlichen Dienstes des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000301310)
 
 Für die nach dem 1. Juni 1978 in die gesetzgebende Körperschaft eines
 Landes gewählten Arbeitnehmer des öffentlichen Dienstes des Bundes
@@ -41,21 +44,25 @@ Bundesbeamtengesetzes sinngemäß.
 
 
 ## Art 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000401310)
 
 -
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000500311)
 
 -
 
 
 ## Art 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000601310)
 
 -
 
 
 ## Art 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_2/BJNR013010979.html#BJNR013010979BJNE000700311)
 
 Artikel 10 Abs. 2 tritt mit Wirkung vom 1. Juni 1978, Artikel 3 Nr. 2
 mit Wirkung vom 1. Januar 1979, Artikel 11 am Tage nach der Verkündung

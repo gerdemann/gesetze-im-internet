@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/spielbkv/BJNR009550938.html#BJNR009550938BJNE000100308)
 
 Auf Grund des § 3 des Gesetzes über die Zulassung öffentlicher
 Spielbanken vom 14. Juli 1933 (Reichsgesetzbl. I S. 480) wird im
@@ -25,10 +26,12 @@ Einvernehmen mit dem Reichsminister der Finanzen folgendes verordnet:
 
 
 ## (XXXX) §§ 1 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/spielbkv/BJNR009550938.html#BJNR009550938BJNE000200308)
 
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/spielbkv/BJNR009550938.html#BJNR009550938BJNE000300308)
 
 (1) Der Spielbankunternehmer ist für den Betrieb der Spielbank von den
 laufenden Steuern des
@@ -42,10 +45,12 @@ Reichsminister des Innern.
 
 
 ## (XXXX) §§ 7 bis 10
+[Direktlink](https://www.gesetze-im-internet.de/spielbkv/BJNR009550938.html#BJNR009550938BJNE000400308)
 
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/spielbkv/BJNR009550938.html#BJNR009550938BJNE000500308)
 
 (1)
 
@@ -56,6 +61,7 @@ folgenden Tag in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/spielbkv/BJNR009550938.html#BJNR009550938BJNE000600308)
 
 Der Reichsminister des Innern
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000100322)
 
 Auf Grund des Artikels 7 des Einführungsgesetzes zum Wehrstrafgesetz
 vom 30. März 1957 (Bundesgesetzbl. I S. 306) und des § 115 des
@@ -34,6 +35,7 @@ von dem Bundesminister der Verteidigung verordnet:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000200322)
 
 Diese Verordnung gilt für den Vollzug von Freiheitsstrafe, Strafarrest
 und Jugendarrest sowie für den Vollzug von Disziplinararrest an
@@ -41,6 +43,7 @@ Soldaten durch Behörden der Bundeswehr.
 
 
 ## § 2 Behandlungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000300322)
 
 (1) Im Vollzug soll die Bereitschaft des Soldaten gefördert werden,
 ein gesetzmäßiges Leben zu führen, namentlich seine soldatischen
@@ -50,6 +53,7 @@ Pflichten zu erfüllen.
 
 
 ## § 3 Vollzugseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000400322)
 
 (1) Der Vollzug wird in militärischen Anlagen und Einrichtungen und,
 soweit der Soldat am Dienst teilnimmt, bei einer militärischen Einheit
@@ -61,6 +65,7 @@ wegen seiner Beschäftigung außerhalb des Arrestraumes eingesetzt wird.
 
 
 ## § 4 Vollzugsleiter und Vollzugshelfer
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000500322)
 
 (1) Die Vollzugsbehörden der Bundeswehr bestellen Vollzugsleiter und
 Vollzugshelfer; der Vollzugsleiter und die Vollzugshelfer sind für die
@@ -76,6 +81,7 @@ Weisungen in der Durchführung des Vollzugs.
 
 
 ## § 5 Dauer der Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000600322)
 
 (1) Die Dauer der Freiheitsentziehung wird nach Tagen berechnet; dabei
 ist die Woche mit sieben Tagen, der Monat nach der Kalenderzeit zu
@@ -97,6 +103,7 @@ vertretbar ist und keine Nachteile für die Disziplin zu besorgen sind.
 
 
 ## § 6 Vollzugsplan
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000700322)
 
 Der Vollzugsleiter hat einen auf die Persönlichkeit des Soldaten
 ausgerichteten Vollzugsplan zu erstellen, soweit dies wegen der
@@ -109,6 +116,7 @@ Angabe der Gründe im Vollzugsplan zu vermerken.
 
 
 ## § 7 Ärztliche Untersuchung vor Beginn des Vollzugs
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000800322)
 
 Der Disziplinarvorgesetzte veranlaßt vor Beginn des Vollzugs eine
 ärztliche Untersuchung, wenn ihm Anhaltspunkte dafür bekannt geworden
@@ -129,6 +137,7 @@ zuläßt. Ist der Soldat nicht vollzugstauglich, so hat
 
 
 ## § 8 Mitnahme dienstlicher und persönlicher Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE000900322)
 
 (1) Der Soldat hat zum Vollzug nur die Gegenstände mitzubringen, die
 für den dienstlichen und persönlichen Gebrauch als notwendig bestimmt
@@ -151,6 +160,7 @@ abzunehmen und für ihn aufzubewahren.
 
 
 ## § 9 Pflichten und Rechte des Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001000322)
 
 Der Soldat hat auch während des Vollzugs die Pflichten und Rechte des
 Soldaten, soweit sich nicht aus den Vorschriften über den Vollzug
@@ -158,6 +168,7 @@ etwas anderes ergibt.
 
 
 ## § 10 Teilnahme am Dienst und Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001100322)
 
 (1) Der Soldat soll während des Vollzugs in seiner Ausbildung
 gefördert werden. In der Regel soll er bei einer militärischen
@@ -180,6 +191,7 @@ Sicherheitsaufgaben herangezogen werden.
 
 
 ## § 11 Aufenthalt im Freien
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001200322)
 
 Dem Soldaten wird täglich mindestens eine Stunde Aufenthalt im Freien
 ermöglicht, wenn die Witterung dies zu der festgesetzten Zeit zuläßt.
@@ -189,6 +201,7 @@ Stunde im Freien aufgehalten hat.
 
 
 ## § 12 Verpflegung, persönlicher Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001300322)
 
 Der Soldat erhält Truppenverpflegung; Tabakwaren, andere Genußmittel,
 zusätzliche Nahrungsmittel und Mittel zur Körperpflege sind in
@@ -199,6 +212,7 @@ untersagt.
 
 
 ## § 13 Seelsorgerische Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001400322)
 
 (1) Der Soldat hat Anspruch auf seelsorgerische Betreuung durch einen
 Militärgeistlichen seiner Religionsgemeinschaft. Ist ein solcher
@@ -225,6 +239,7 @@ Gottesdienst in einer bestimmten Kirche beschränkt werden.
 
 
 ## § 14 Ärztliche Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001500322)
 
 (1) Der Soldat erhält ärztliche Betreuung durch den Truppenarzt im
 Rahmen der freien Heilfürsorge.
@@ -235,6 +250,7 @@ solche Abweichungen sind im Vollzugsplan zu vermerken.
 
 
 ## § 15 Brief- und Paketpost
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001600322)
 
 (1) Der Soldat darf Brief- und Paketpost empfangen und absenden. Sein
 Schriftverkehr wird nicht überwacht. Pakete und Päckchen darf der
@@ -248,6 +264,7 @@ Postverkehrs des Soldaten andere Anordnungen trifft.
 
 
 ## § 16 Empfang von Besuchen
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001700322)
 
 (1) Der Soldat darf wöchentlich einmal Besuch empfangen. Weitere
 Besuche können gestattet werden, insbesondere wenn ein wichtiger Grund
@@ -271,6 +288,7 @@ Besuche andere Anordnungen trifft.
 
 
 ## § 17 Vollzugserleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001800322)
 
 (1) Der Vollzugsleiter kann dem Soldaten wegen dringender persönlicher
 Gründe Urlaub bis zu sieben Tagen erteilen. Durch den Urlaub wird die
@@ -292,6 +310,7 @@ ihre Bewilligung nicht mehr gegeben sind.
 
 
 ## § 18 Vollzugsuntauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE001900322)
 
 (1) Wird der Soldat wegen Krankheit in ein Bundeswehrkrankenhaus oder
 in eine andere Krankenanstalt verbracht oder ist er nach Feststellung
@@ -308,6 +327,7 @@ von den Vollzugsvorschriften abgewichen werden.
 
 
 ## § 19 Ordnung und Sicherheit im Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE002000322)
 
 (1) Verstößt ein Soldat gegen die Ordnung oder gefährdet er die
 Sicherheit im Vollzug, so können besondere Maßnahmen getroffen werden.
@@ -350,6 +370,7 @@ einzuholen.
 
 
 ## § 20 Behandlung von Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE002100322)
 
 Für Beschwerden gegen unrichtige Behandlung durch militärische
 Vorgesetzte oder Dienststellen der Bundeswehr im Vollzug gelten die
@@ -357,6 +378,7 @@ Vorschriften der Wehrbeschwerdeordnung.
 
 
 ## § 21 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE002200322)
 
 Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes) sowie das Grundrecht des Postgeheimnisses
@@ -365,11 +387,13 @@ Verordnung eingeschränkt.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE002300322)
 
 -
 
 
 ## § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwvollzo/BJNR022050972.html#BJNR022050972BJNE002400322)
 
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

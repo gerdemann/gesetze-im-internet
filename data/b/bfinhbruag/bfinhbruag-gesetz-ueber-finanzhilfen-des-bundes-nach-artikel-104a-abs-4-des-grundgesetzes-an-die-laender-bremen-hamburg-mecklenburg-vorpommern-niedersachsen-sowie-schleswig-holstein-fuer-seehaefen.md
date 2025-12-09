@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bfinhbruag/BJNR396200001.html#BJNR396200001BJNE000101124)
 
 (1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-
 Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen für
@@ -63,6 +64,7 @@ jährlich insgesamt 38.346.000 Euro.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bfinhbruag/BJNR396200001.html#BJNR396200001BJNE000200000)
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der
 förderungsfähigen Ausgaben.
@@ -72,6 +74,7 @@ in den Folgejahren bei Bedarf abgerufen werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bfinhbruag/BJNR396200001.html#BJNR396200001BJNE000300000)
 
 Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes
 werden durch Verwaltungsvereinbarung geregelt.

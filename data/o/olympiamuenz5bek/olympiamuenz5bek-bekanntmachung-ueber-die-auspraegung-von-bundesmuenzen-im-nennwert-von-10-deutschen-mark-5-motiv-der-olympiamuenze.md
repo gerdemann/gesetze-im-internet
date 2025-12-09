@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nz5bek/BJNR012990972.html#BJNR012990972BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom
 18\. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele
@@ -72,11 +73,13 @@ und mit Ornamenten zwischen den Worten versehen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nz5bek/BJNR012990972.html#BJNR012990972BJNE000200307)
 
 Der Bundesminister für Wirtschaft und Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nz5bek/BJNR012990972.html#BJNR012990972BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1972, 1299

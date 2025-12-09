@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000400311)
 
 Auf Grund des § 36 Abs. 1 Nr. 1 Buchstabe e des Erbschaftsteuer- und
 Schenkungsteuergesetzes in der Fassung der Bekanntmachung vom 27.
@@ -27,10 +28,12 @@ Februar 1997 (BGBl. I S. 378) verordnet die Bundesregierung:
 
 
 ## Zu § 33 ErbStG
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNG000100311)
 
 
 
 ### § 1 Anzeigepflicht der Vermögensverwahrer und der Vermögensverwalter
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000503140)
 
 (1) Wer zur Anzeige über die Verwahrung oder Verwaltung von Vermögen
 eines Erblassers verpflichtet ist, hat die Anzeige nach § 33 Abs. 1
@@ -68,6 +71,7 @@ ist, die Mitteilung des Versicherungswerts.
 
 
 ### § 2 Anzeigepflicht derjenigen, die auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben haben
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000602377)
 
 Wer auf den Namen lautende Aktien oder Schuldverschreibungen
 ausgegeben hat, hat unverzüglich nach dem Eingang eines Antrags auf
@@ -99,6 +103,7 @@ Wertpapiere 5 000 Euro nicht übersteigt.
 
 
 ### § 3 Anzeigepflicht der Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000703377)
 
 (1) Zu den Versicherungsunternehmen, die Anzeigen nach § 33 Abs. 3 des
 Gesetzes zu erstatten haben, gehören auch die Sterbekassen von
@@ -134,10 +139,12 @@ auszuzahlende Betrag 5 000 Euro nicht übersteigt.
 
 
 ## Zu § 34 ErbStG
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNG000200311)
 
 
 
 ### § 4 Anzeigepflicht der Standesämter
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000801301)
 
 (1) Die Standesämter haben für jeden Kalendermonat die Sterbefälle
 jeweils durch Übersendung der Sterbeurkunde in zweifacher Ausfertigung
@@ -200,6 +207,7 @@ Sterberegister anzugeben.
 
 
 ### § 5 Verzeichnis der Standesämter
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE000900311)
 
 (1) Die Landesregierungen oder die von ihnen bestimmten Stellen teilen
 den für ihr Gebiet zuständigen Oberfinanzdirektionen Änderungen des
@@ -212,6 +220,7 @@ Ordnungsnummer, die sie dem Standesamt mitteilen.
 
 
 ### § 6 Anzeigepflicht der Gerichte bei Todeserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001000311)
 
 (1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer
 zuständigen Finanzamt (§ 35 des Gesetzes) eine beglaubigte Abschrift
@@ -228,6 +237,7 @@ liegt.
 
 
 ### § 7 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen in Erbfällen
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001108123)
 
 (1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer
 zuständigen Finanzamt (§ 35 des Gesetzes) beglaubigte Abschriften
@@ -334,6 +344,7 @@ sonstige Urkundspersonen, soweit ihnen Geschäfte des Nachlaßgerichtes
 
 
 ### § 8 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001204123)
 
 (1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer
 zuständigen Finanzamt (§ 35 des Gesetzes) eine beglaubigte Abschrift
@@ -376,6 +387,7 @@ sonstige Urkundspersonen.
 
 
 ### § 9 Anzeigepflicht der Auslandsstellen
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001303140)
 
 Die diplomatischen Vertreter und Konsuln des Bundes haben dem
 Bundeszentralamt für Steuern anzuzeigen:
@@ -394,6 +406,7 @@ Eine elektronische Übermittlung der Anzeige ist ausgeschlossen.
 
 
 ### § 10 Anzeigepflicht der Genehmigungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001405377)
 
 Die Behörden, die Stiftungen anerkennen oder Zuwendungen von Todes
 wegen und unter Lebenden an juristische Personen und dergleichen
@@ -443,6 +456,7 @@ aus ihr die genannten Angaben zu ersehen sind.
 
 
 ### § 11 Anzeigen im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001500311)
 
 Die oberste Finanzbehörde eines Landes kann anordnen, daß die Anzeigen
 den Finanzämtern ihre Zuständigkeitsbereichs in einem automatisierten
@@ -452,10 +466,12 @@ Datenübermittlung sichergestellt ist.
 
 
 ## Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNG000300311)
 
 
 
 ### § 12 Anwendung der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001607116)
 
 (1) Diese Verordnung in der Fassung des Artikels 5 der Verordnung vom
 17\. November 2010 (BGBl. I S. 1544) ist auf Erwerbe anzuwenden, für
@@ -479,16 +495,19 @@ entsteht.
 
 
 ### § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001700311)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001800311)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Muster 1 (§ 1 ErbStDV)
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE001904377)
 
 (Fundstelle: BGBl. I 1998, 2662;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -580,6 +599,7 @@ Ort, Datum                              Unterschrift
 
 
 ### Muster 2 (§ 3 ErbStDV)
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE002005123)
 
 (Fundstelle: BGBl. I 1998, 2663;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -650,6 +670,7 @@ Ort, Datum                              Unterschrift
 
 
 ### Muster 3 (§ 4 ErbStDV)
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE002102118)
 
 (Fundstelle: BGBl. I 1998, 2664 - 2665;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -783,6 +804,7 @@ I                       I             I
 
 
 ### Muster 4 (§ 4 ErbStDV)
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE002201301)
 
 (Fundstelle: BGBl. I 1998, 2666;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -816,6 +838,7 @@ Ort, Datum                              Unterschrift
 
 
 ### Muster 5 (§ 7 ErbStDV)
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE002306116)
 
 (Fundstelle: BGBl. I 1998, 2667;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -894,6 +917,7 @@ Ort, Datum                              Unterschrift
 
 
 ### Muster 6 (§ 8 ErbStDV)
+[Direktlink](https://www.gesetze-im-internet.de/erbstdv_1998/BJNR265800998.html#BJNR265800998BJNE002500123)
 
 (Fundstelle: BGBl. I 1998, 2668;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

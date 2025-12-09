@@ -19,12 +19,15 @@ Fundstelle
 Stand: Gem. § 18 Abs. 2 iVm Nr. 3 Bek. v. 5.12.2022 I 2262 ist dieses G mit Ausnahme der §§ 1 u. 17 am 22.11.2022 in Kraft getreten
 
 ## Kapitel 1 - Anwendungsbereich, Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000100000)
 
 
 ### Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000200000)
 
 (1) Dieses Gesetz dient der Durchführung
 
@@ -99,6 +102,7 @@ Stand: Gem. § 18 Abs. 2 iVm Nr. 3 Bek. v. 5.12.2022 I 2262 ist dieses G mit Aus
 
 
 #### § 2 Anwendbare Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000301000)
 
 Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des
 Marktorganisationsgesetzes, mit den Maßgaben, dass
@@ -126,6 +130,7 @@ Marktorganisationsgesetzes, mit den Maßgaben, dass
 
 
 #### § 3 Integriertes Verwaltungs- und Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000401000)
 
 Das Integrierte Verwaltungs- und Kontrollsystem gemäß der in § 1
 Absatz 1 Nummer 1 genannten Unionsregelung umfasst
@@ -150,9 +155,11 @@ Absatz 1 Nummer 1 genannten Unionsregelung umfasst
 
 
 ### Abschnitt 2 - Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000301000)
 
 
 #### § 4 Kommunikation zwischen zuständiger Behörde und Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000501000)
 
 (1) Die Kommunikation zwischen der zuständigen Behörde und dem
 Betriebsinhaber erfolgt elektronisch. Die zuständige Behörde kann in
@@ -164,9 +171,11 @@ elektronisch bereithalten, sind diese zu verwenden.
 
 
 ## Kapitel 2 - Antrag
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000401000)
 
 
 ### § 5 Sammelantrag
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000601000)
 
 (1) Die Beantragung der Direktzahlungen erfolgt in einem einzigen
 Antrag je Betriebsinhaber (Sammelantrag).
@@ -187,6 +196,7 @@ Teile des Sammelantrags nicht zurückgenommen werden.
 
 
 ### § 6 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000701000)
 
 (1) Der Sammelantrag ist bis zum 15. Mai eines jeden Jahres bei der
 zuständigen Behörde einzureichen.
@@ -199,6 +209,7 @@ erlassenen Verordnung als Frist bestimmt werden.
 
 
 ### § 7 Betriebsnummer
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000801000)
 
 (1) Die zuständige Behörde teilt jedem Betriebsinhaber für die in § 1
 Absatz 1 Nummer 1 und Absatz 2 genannten Vorschriften und jedem
@@ -214,6 +225,7 @@ ist und nicht bereits über eine Betriebsnummer verfügt.
 
 
 ### § 8 Mitwirkungspflichten des Betriebsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE000901000)
 
 Der Betriebsinhaber ist verpflichtet, der zuständigen Behörde jede
 Veränderung anzuzeigen, die dazu führt, dass die tatsächlichen oder
@@ -222,9 +234,11 @@ Erklärungen im Sammelantrag übereinstimmen.
 
 
 ## Kapitel 3 - Kontrollverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000501000)
 
 
 ### § 9 Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001001000)
 
 (1) Gegenstand des Kontrollsystems sind die im Sammelantrag zu
 machenden Angaben. Die zuständige Behörde kontrolliert, ob alle
@@ -246,6 +260,7 @@ Kontrollen wird ein Kontrollbericht erstellt.
 
 
 ### § 10 Kontrollstichproben
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001101000)
 
 Für die stichprobenartigen Kontrollen vor Ort gemäß § 9 Absatz 2 Satz
 2 zieht die zuständige Behörde eine Stichprobe aus der Grundgesamtheit
@@ -256,9 +271,11 @@ Fehlerrisiko bezieht.
 
 
 ## Kapitel 4 - Entscheidungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000601000)
 
 
 ### § 11 Kürzungen, Sanktionen und Ausschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001201000)
 
 (1) Hat ein Betriebsinhaber die Fördervoraussetzungen für die
 Direktzahlungen nicht oder nicht vollumfänglich erfüllt (Verstoß),
@@ -272,6 +289,7 @@ Betriebsinhaber von einer Direktzahlung ausgeschlossen werden.
 
 
 ### § 12 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001301000)
 
 Unbeschadet anderer Rechtsvorschriften können noch ausstehende
 Rückforderungen infolge von Kürzungen gemäß § 11 Absatz 1 sowie
@@ -282,6 +300,7 @@ leisten sind, gegenüber diesem Betriebsinhaber aufgerechnet werden.
 
 
 ### § 13 Obergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001401000)
 
 (1) Die Kürzung der jeweiligen Direktzahlung darf ohne
 Berücksichtigung einer möglichen Verzinsung 100 Prozent der
@@ -297,6 +316,7 @@ kann im Falle eines wiederholten Verstoßes erneut angewandt werden.
 
 
 ### § 14 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001501000)
 
 (1) Von einer Kürzung, einer Sanktion oder einem Ausschluss kann
 abgesehen werden, wenn der Verstoß
@@ -349,6 +369,7 @@ nachzuweisen.
 
 
 ### § 15 Antragsablehnung bei Verhinderung der Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001601000)
 
 Ein Antrag auf die jeweilige Direktzahlung wird abgelehnt, wenn der
 Betriebsinhaber, die vertretungsberechtigten Personen oder Organe, die
@@ -358,9 +379,11 @@ Falle höherer Gewalt oder bei Vorliegen außergewöhnlicher Umstände.
 
 
 ## Kapitel 5 - Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000701000)
 
 
 ### § 16 Befugnis zur Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001701000)
 
 (1) Die Zahlstellen übermitteln den zuständigen Behörden die
 erforderlichen Betriebsdaten
@@ -462,9 +485,11 @@ November 2019 (BGBl. I S. 1626) geändert wurde.
 
 
 ## Kapitel 6 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000800000)
 
 
 ### § 17 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001800000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
@@ -606,9 +631,11 @@ Stelle die Bundesanstalt für Landwirtschaft und Ernährung bestimmen.
 
 
 ## Kapitel 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNG000900000)
 
 
 ### § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosg/BJNR352300021.html#BJNR352300021BJNE001900000)
 
 (1) Die §§ 1 und 17 treten am Tag nach der Verkündung in Kraft.
 

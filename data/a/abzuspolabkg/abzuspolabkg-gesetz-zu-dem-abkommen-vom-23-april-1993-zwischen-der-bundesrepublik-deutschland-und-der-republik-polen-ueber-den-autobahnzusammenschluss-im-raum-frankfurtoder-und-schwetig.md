@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abzuspolabkg/BJNR366220994.html#BJNR366220994BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/abzuspolabkg/BJNR366220994.html#BJNR366220994BJNE000200308)
 
 Dem in Slubice am 23. April 1993 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Polen über den
@@ -35,6 +37,7 @@ und das Protokoll werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/abzuspolabkg/BJNR366220994.html#BJNR366220994BJNE000300308)
 
 (1) Auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze
 findet deutsches Umsatzsteuerrecht Anwendung.
@@ -48,6 +51,7 @@ Bestimmungen sind mit Wirkung vom 23. April 1993 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/abzuspolabkg/BJNR366220994.html#BJNR366220994BJNE000400308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -22,11 +22,13 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/verb_bkparishaagg/BJNR201750928.html#BJNR201750928BJNE000100304)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verb_bkparishaagg/BJNR201750928.html#BJNR201750928BJNE000201360)
 
 Die nach dem Haager Musterabkommen der inländischen Behörde
 zufallenden Geschäfte übernimmt das Deutsche Patent- und Markenamt. Es
@@ -34,6 +36,7 @@ kann Bestimmungen über das Verfahren erlassen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/verb_bkparishaagg/BJNR201750928.html#BJNR201750928BJNE000300304)
 
 Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in
 Kraft. ...

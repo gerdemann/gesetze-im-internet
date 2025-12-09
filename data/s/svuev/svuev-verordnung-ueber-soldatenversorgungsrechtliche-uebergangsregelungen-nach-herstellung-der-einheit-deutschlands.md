@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sv_v/BJNR017210991.html#BJNR017210991BJNE000206377)
 
 (1) Diese Verordnung regelt die Versorgung im Sinne des
 Soldatenversorgungsgesetzes sowie des Soldatenentschädigungsgesetzes
@@ -61,6 +62,7 @@ Dienstverhältnis im früheren Bundesgebiet erfolgt.
 
 
 ## § 2 Maßgaben
+[Direktlink](https://www.gesetze-im-internet.de/sv_v/BJNR017210991.html#BJNR017210991BJNE000316377)
 
 (1) Das Soldatenversorgungsgesetz gilt unbeschadet der Regelungen in
 Anlage I Kapitel XIX Sachgebiet B Abschnitt III Nummer 5 des
@@ -185,6 +187,7 @@ sind die Dienstbezüge unter Berücksichtigung der Besoldungs-
 
 
 ## § 3 Verwendung von Berufssoldaten und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sv_v/BJNR017210991.html#BJNR017210991BJNE000402333)
 
 (1) Die Zeit der Verwendung eines Berufssoldaten oder eines Soldaten
 auf Zeit aus dem früheren Bundesgebiet zum Zwecke der Aufbauhilfe im
@@ -198,6 +201,7 @@ Dezember 1994 beginnt.
 
 
 ## § 4 Verwendung von Soldaten im Ruhestand und ehemaligen Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sv_v/BJNR017210991.html#BJNR017210991BJNE000507377)
 
 (1) Für Soldaten im Ruhestand und ehemalige Soldaten auf Zeit, die
 wegen ihrer besonderen Fachkenntnisse zum Zwecke der Aufbauhilfe im
@@ -227,10 +231,12 @@ werden.
 
 
 ## § 5 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/sv_v/BJNR017210991.html#BJNR017210991BJNE000601333)
 
 
 
 ## Anlage Verzeichnis der zum Soldatenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften und Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/sv_v/BJNR017210991.html#BJNR017210991BJNE000805377)
 
 A. Gesetze
 

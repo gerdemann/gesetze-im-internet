@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rverkabkgbrav/BJNR201350929.html#BJNR201350929BJNE000100306)
 
 Auf Grund des § 2 des Gesetzes wegen des deutsch-britischen Abkommens
 über den Rechtsverkehr vom 3. Dezember 1928 (Reichsgesetzbl. II S.
@@ -27,6 +28,7 @@ Auf Grund des § 2 des Gesetzes wegen des deutsch-britischen Abkommens
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rverkabkgbrav/BJNR201350929.html#BJNR201350929BJNE000200306)
 
 Für die Erledigung der in den Artikeln 3 und 9 des Abkommens
 vorgesehenen Angelegenheiten ist das Amtsgericht zuständig, in dessen
@@ -34,6 +36,7 @@ Bezirk die Amtshandlung vorgenommen werden soll.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rverkabkgbrav/BJNR201350929.html#BJNR201350929BJNE000301310)
 
 (1) Für die Erledigung der in Artikel 12 des Abkommens vorgesehenen
 Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk der
@@ -61,6 +64,7 @@ zu.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rverkabkgbrav/BJNR201350929.html#BJNR201350929BJNE000401311)
 
 (weggefallen)
 

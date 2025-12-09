@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmingwidano/BJNR153000012.html#BJNR153000012BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 5. Februar
@@ -50,6 +51,7 @@ Beamtenverhältnis zu vertreten.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmingwidano/BJNR153000012.html#BJNR153000012BJNE000200000)
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
 diesem Zeitpunkt an ist die Anordnung zur Übertragung
@@ -64,6 +66,7 @@ des Robert Koch-Instituts enthält.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmingwidano/BJNR153000012.html#BJNR153000012BJNE000300000)
 
 Der Bundesminister für Gesundheit
 

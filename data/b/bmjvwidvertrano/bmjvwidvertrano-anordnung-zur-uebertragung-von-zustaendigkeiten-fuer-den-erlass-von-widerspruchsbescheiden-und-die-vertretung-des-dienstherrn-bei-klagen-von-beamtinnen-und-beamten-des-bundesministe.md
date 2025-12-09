@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjvwidvertrano/BJNR031700015.html#BJNR031700015BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) wird
@@ -27,6 +28,7 @@ angeordnet:
 
 
 ## § 1 Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/bmjvwidvertrano/BJNR031700015.html#BJNR031700015BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, in
 Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-,
@@ -39,6 +41,7 @@ zu entscheiden.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bmjvwidvertrano/BJNR031700015.html#BJNR031700015BJNE000300000)
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
 die Vertretung der Bundesrepublik Deutschland bei Klagen von
@@ -54,18 +57,21 @@ die Vertretung abweichend von dieser Anordnung regeln oder selbst
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bmjvwidvertrano/BJNR031700015.html#BJNR031700015BJNE000400000)
 
 Die §§ 1 und 2 sind nicht auf Widersprüche und Klagen anzuwenden, die
 vor dem Inkrafttreten dieser Anordnung erhoben wurden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmjvwidvertrano/BJNR031700015.html#BJNR031700015BJNE000500000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjvwidvertrano/BJNR031700015.html#BJNR031700015BJNE000600000)
 
 Der Bundesminister der Justiz und für Verbraucherschutz
 

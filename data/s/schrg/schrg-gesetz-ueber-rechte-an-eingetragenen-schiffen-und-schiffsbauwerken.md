@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE000900318)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000100318)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001001308)
 
 (1) Dieses Gesetz gilt nur für Schiffe, die im Schiffsregister eines
 deutschen Gerichts eingetragen sind.
@@ -38,6 +41,7 @@ deutschen Gerichts eingetragen sind.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001100318)
 
 (1) Zur Übertragung des Eigentums an einem im Seeschiffsregister
 eingetragenen Schiff ist erforderlich und genügend, daß der Eigentümer
@@ -49,6 +53,7 @@ und der Erwerber darüber einig sind, daß das Eigentum auf den Erwerber
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001200318)
 
 (1) Zur Übertragung des Eigentums an einem im Binnenschiffsregister
 eingetragenen Schiff ist die Einigung des Eigentümers und des
@@ -69,6 +74,7 @@ gestellt worden ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001300318)
 
 (1) Sind der Veräußerer und der Erwerber darüber einig, daß sich die
 Veräußerung auf das Zubehör des Schiffs erstrecken soll, so erlangt
@@ -85,6 +91,7 @@ erlangt.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001400318)
 
 Wer als Eigentümer eines Schiffs im Schiffsregister eingetragen ist,
 ohne daß er das Eigentum erlangt hat, erwirbt das Eigentum, wenn die
@@ -96,6 +103,7 @@ die Richtigkeit der Eintragung im Schiffsregister eingetragen ist.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001501140)
 
 (1) Der Eigentümer eines Schiffs kann im Wege des Aufgebotsverfahrens
 mit seinem Recht ausgeschlossen werden, wenn das Schiff seit zehn
@@ -118,6 +126,7 @@ wirkt der Ausschließungsbeschluss nicht gegen den Dritten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001601140)
 
 (1) Das Eigentum an einem Schiff kann dadurch aufgegeben werden, daß
 der Eigentümer den Verzicht dem Registergericht gegenüber erklärt und
@@ -129,6 +138,7 @@ in das Schiffsregister eintragen läßt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001700318)
 
 (1) Ein Schiff kann zur Sicherung einer Forderung in der Weise
 belastet werden, daß der Gläubiger berechtigt ist, wegen einer
@@ -144,6 +154,7 @@ belastet werden, wenn er in dem Anteil eines Miteigentümers besteht.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001800318)
 
 (1) Ein Nießbrauch kann an einem Schiff nur bestellt werden, wenn
 damit eine Verpflichtung zur Bestellung des Nießbrauchs am ganzen
@@ -154,6 +165,7 @@ Bruchteil des Vermögens oder der Erbschaft erfüllt werden soll.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE001901307)
 
 (1) Zur Sicherung des Anspruchs auf Einräumung oder Aufhebung eines
 Rechts an einem Schiff oder an einer Schiffshypothek oder auf Änderung
@@ -177,6 +189,7 @@ berufen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002000318)
 
 (1) Die Vormerkung wird auf Grund einer einstweiligen Verfügung oder
 auf Grund der Bewilligung dessen eingetragen, dessen Schiff oder
@@ -190,6 +203,7 @@ Eintragungsbewilligung Bezug genommen werden.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002100318)
 
 Steht dem, dessen Schiff oder dessen Recht von der Vormerkung
 betroffen wird, eine Einrede zu, durch welche die Geltendmachung des
@@ -199,6 +213,7 @@ verlangen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002201140)
 
 Ist der Gläubiger, dessen Anspruch durch die Vormerkung gesichert ist,
 unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht
@@ -209,6 +224,7 @@ rechtskräftig ist.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002300318)
 
 (1) Soweit der Erwerb des Eigentums, einer Schiffshypothek oder des
 Rechts an einer solchen oder eines Nießbrauchs dem gegenüber, zu
@@ -222,6 +238,7 @@ gesichert ist.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002400318)
 
 (1) Es wird vermutet, daß Eigentümer des Schiffs ist, wer als
 Eigentümer im Schiffsregister eingetragen ist.
@@ -235,6 +252,7 @@ vermutet, daß es nicht mehr besteht.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002500318)
 
 (1) Zugunsten dessen, der das Eigentum an einem Schiff, eine
 Schiffshypothek oder ein Recht an einer solchen oder einen Nießbrauch
@@ -254,6 +272,7 @@ Zeit der Einigung maßgebend.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002600318)
 
 § 16 gilt sinngemäß, wenn an den, für den ein Recht (§ 16 Abs. 1 Satz
 1) im Schiffsregister eingetragen ist, auf Grund dieses Rechts eine
@@ -263,6 +282,7 @@ Verfügung über das Recht enthält.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002700318)
 
 (1) Steht der Inhalt des Schiffsregisters, soweit er das Eigentum,
 eine Schiffshypothek, ein Recht an einer solchen, einen Nießbrauch
@@ -280,6 +300,7 @@ auf Verlangen sein Recht eintragen zu lassen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002800318)
 
 Wer die Berichtigung verlangt, hat die Kosten der Berichtigung des
 Schiffsregisters und der dazu erforderlichen Erklärungen zu tragen,
@@ -288,11 +309,13 @@ bestehenden Rechtsverhältnis etwas anderes ergibt.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE002900318)
 
 Die in § 18 bestimmten Ansprüche unterliegen nicht der Verjährung.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003000318)
 
 (1) In den Fällen des § 18 kann ein Widerspruch gegen die Richtigkeit
 des Schiffsregisters eingetragen werden.
@@ -305,6 +328,7 @@ Widersprechenden glaubhaft gemacht wird.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003100318)
 
 Ist eine Vormerkung oder ein Widerspruch auf Grund einer einstweiligen
 Verfügung eingetragen, so erlischt die Vormerkung oder der
@@ -313,6 +337,7 @@ Entscheidung aufgehoben wird.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003200318)
 
 (1) Die Ansprüche aus eingetragenen Rechten unterliegen nicht der
 Verjährung. Dies gilt nicht für Ansprüche, die auf Rückstände
@@ -324,10 +349,12 @@ gleich.
 
 
 ## Zweiter Abschnitt - Eintragung und Inhalt der Schiffshypothek
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000200318)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003300318)
 
 (1) Bei der Eintragung einer Schiffshypothek müssen der Gläubiger, der
 Geldbetrag der Forderung und, wenn die Forderung verzinslich ist, der
@@ -344,6 +371,7 @@ auf die Satzung.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003400318)
 
 (1) Ist ein Schiff mit mehreren Schiffshypotheken belastet, so
 bestimmt sich ihr Rangverhältnis nach der Reihenfolge der
@@ -357,6 +385,7 @@ Schiffsregister eingetragen werden.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003500318)
 
 (1) Das Rangverhältnis kann nachträglich geändert werden. Der
 nachträglichen Änderung des Rangverhältnisses steht es gleich, wenn
@@ -386,6 +415,7 @@ Zustimmung des Eigentümers nicht erforderlich.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003600318)
 
 (1) Der Eigentümer kann sich bei der Belastung des Schiffs mit einer
 Schiffshypothek die Befugnis vorbehalten, eine andere dem Umfang nach
@@ -407,6 +437,7 @@ Beeinträchtigung erleiden würde.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003700318)
 
 (1) Besteht für die Forderung eine Schiffshypothek an mehreren
 Schiffen oder an mehreren Anteilen eines Schiffs, so haftet jedes
@@ -426,6 +457,7 @@ Gunsten sie erfolgt; sie ist unwiderruflich.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003800318)
 
 Kraft der Schiffshypothek haftet das Schiff auch für die gesetzlichen
 Zinsen der Forderung sowie für die Kosten der Kündigung und der die
@@ -433,6 +465,7 @@ Befriedigung aus dem Schiff bezweckenden Rechtsverfolgung.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE003900318)
 
 (1) Ist die Forderung unverzinslich oder ist der Zinssatz niedriger
 als fünf vom Hundert, so kann die Schiffshypothek ohne die Zustimmung
@@ -444,6 +477,7 @@ Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004000318)
 
 (1) Die Schiffshypothek erstreckt sich auf das Zubehör des Schiffs mit
 Ausnahme der Zubehörstücke, die nicht in das Eigentum des
@@ -462,6 +496,7 @@ einem vorübergehenden Zweck erfolgt.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004100318)
 
 (1) Hat der Eigentümer oder für seine Rechnung ein anderer für das
 Schiff eine Versicherung genommen, so erstreckt sich die
@@ -482,6 +517,7 @@ Versicherer gegenüber der Zahlung widersprechen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004200318)
 
 (1) Eine Zahlung des Versicherers auf die Versicherungsforderung ist
 dem Gläubiger gegenüber wirksam, soweit sie zum Zweck der
@@ -500,6 +536,7 @@ bestand.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004301307)
 
 (1) Hat der Gläubiger seine Schiffshypothek bei dem Versicherer
 angemeldet, so hat dieser dem Gläubiger unverzüglich mitzuteilen, wenn
@@ -536,6 +573,7 @@ sie in anderer Weise erfahren hat.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004400318)
 
 (1) Ist das Schiff bei mehreren Versicherern gemeinschaftlich
 versichert, so genügt die Anmeldung der Schiffshypothek nach § 34 bei
@@ -552,6 +590,7 @@ regelmäßiger Beförderung dem Gläubiger zugegangen sein würde.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004500318)
 
 (1) Ist der Versicherer wegen des Verhaltens des Versicherungsnehmers
 oder des Versicherten von der Verpflichtung zur Leistung frei, so
@@ -576,6 +615,7 @@ Verpflichtung zur Leistung deshalb frei ist, weil
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004600318)
 
 Soweit der Versicherer auf Grund des § 34 Abs. 2 bis 4, § 36 den
 Gläubiger befriedigt, geht die Schiffshypothek auf ihn über. Der
@@ -586,6 +626,7 @@ geltend gemacht werden.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004700318)
 
 (1) Der Versicherer muß fällige Prämien oder sonstige ihm auf Grund
 des Versicherungsvertrags gebührende Zahlungen vom Versicherten und
@@ -600,6 +641,7 @@ hat.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004800318)
 
 (1) Ist infolge einer Verschlechterung des Schiffs oder seiner
 Einrichtungen die Sicherheit der Schiffshypothek gefährdet, so kann
@@ -628,6 +670,7 @@ zuwider von dem Schiff entfernt werden.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE004900318)
 
 Ist infolge der Einwirkung eines Dritten eine die Sicherheit der
 Schiffshypothek gefährdende Verschlechterung des Schiffs zu besorgen,
@@ -635,6 +678,7 @@ so kann der Gläubiger gegen ihn nur auf Unterlassung klagen.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005000318)
 
 (1) Der Eigentümer kann gegen die Schiffshypothek die dem Schuldner
 gegen die Forderung zustehenden Einreden geltend machen. Er kann die
@@ -651,6 +695,7 @@ Einrede nicht dadurch, daß der Schuldner auf sie verzichtet.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005100318)
 
 (1) Hängt die Fälligkeit der Forderung von einer Kündigung ab, so ist
 die Kündigung für die Schiffshypothek nur wirksam, wenn sie von dem
@@ -667,6 +712,7 @@ Gläubiger ohne Fahrlässigkeit nicht weiß, wer der Eigentümer ist.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005200318)
 
 (1) Der Eigentümer ist berechtigt, den Gläubiger zu befriedigen, wenn
 die Forderung ihm gegenüber fällig geworden oder wenn der Schuldner
@@ -677,6 +723,7 @@ durch Aufrechnung befriedigen.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005300318)
 
 (1) Ist der Eigentümer nicht der Schuldner, so geht, soweit er den
 Gläubiger befriedigt, die Forderung auf ihn über; der Übergang kann
@@ -689,6 +736,7 @@ für diese die Vorschriften des § 69.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005400318)
 
 Der Eigentümer kann gegen Befriedigung des Gläubigers die Aushändigung
 der zur Berichtigung des Schiffsregisters oder zur Löschung der
@@ -696,6 +744,7 @@ Schiffshypothek erforderlichen Urkunden verlangen.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005500318)
 
 Liegen dem Eigentümer gegenüber die Voraussetzungen vor, unter denen
 ein Schuldner in Verzug kommt, so gebühren dem Gläubiger Verzugszinsen
@@ -703,10 +752,12 @@ aus dem Schiff.
 
 
 ## Dritter Abschnitt - Die Geltendmachung der Schiffshypothek
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000300318)
 
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005600318)
 
 (1) Der Gläubiger kann seine Befriedigung aus dem Schiff und den
 Gegenständen, auf die sich die Schiffshypothek erstreckt, nur im Wege
@@ -717,6 +768,7 @@ Befriedigung aus jedem der Schiffe ganz oder zu einem Teil suchen.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005700318)
 
 Bei der Verfolgung des Rechts aus der Schiffshypothek gilt zugunsten
 des Gläubigers als Eigentümer, wer im Schiffsregister als Eigentümer
@@ -726,6 +778,7 @@ machen, bleibt unberührt.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005800318)
 
 Solange die Forderung dem Eigentümer gegenüber nicht fällig geworden
 ist, kann dieser dem Gläubiger nicht das Recht einräumen, zum Zweck
@@ -735,6 +788,7 @@ Zwangsvollstreckung zu veräußern.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE005900318)
 
 (1) Verlangt der Gläubiger Befriedigung aus dem Schiff, so ist jeder,
 der Gefahr läuft, durch die Zwangsvollstreckung ein Recht an dem
@@ -754,10 +808,12 @@ dem Dritten bestehenden Rechtsverhältnis bleiben unberührt.
 
 
 ## Vierter Abschnitt - Übertragung, Änderung und Erlöschen der Schiffshypothek
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000400318)
 
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006000318)
 
 (1) Mit der Übertragung der Forderung geht die Schiffshypothek auf den
 neuen Gläubiger über.
@@ -771,6 +827,7 @@ Schiffsregister erforderlich; § 3 Abs. 2, 3 gilt sinngemäß.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006100318)
 
 (1) Eine Einrede, die dem Eigentümer auf Grund eines zwischen ihm und
 dem bisherigen Gläubiger bestehenden Rechtsverhältnisses gegen die
@@ -786,6 +843,7 @@ den in Abs. 1 bezeichneten Einreden nicht auf § 16 berufen.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006200318)
 
 (1) Soweit die Forderung auf Rückstände von Zinsen oder andere
 Nebenleistungen oder auf Erstattung von Kosten der Kündigung und
@@ -801,6 +859,7 @@ nicht.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006300318)
 
 (1) Zur Änderung des Inhalts der Schiffshypothek ist die Einigung des
 Eigentümers und des Gläubigers über den Eintritt der Rechtsänderung
@@ -814,6 +873,7 @@ erfolgt; sie ist unwiderruflich.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006400318)
 
 (1) An die Stelle der Forderung, für welche die Schiffshypothek
 besteht, kann eine andere Forderung gesetzt werden. Zu der Änderung
@@ -828,6 +888,7 @@ sinngemäß.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006500318)
 
 (1) Zur Aufhebung der Schiffshypothek durch Rechtsgeschäft ist die
 Erklärung des Gläubigers, daß er die Schiffshypothek aufgebe, die
@@ -852,6 +913,7 @@ gestellt worden ist.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006600318)
 
 (1) Die Schiffshypothek erlischt vorbehaltlich der Fälle des § 59 mit
 der Forderung. Die Schiffshypothek erlischt auch, wenn der Gläubiger
@@ -881,6 +943,7 @@ Schiffshypothek.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006700318)
 
 Verpflichtet sich der Eigentümer einem anderen gegenüber, die
 Schiffshypothek löschen zu lassen, wenn die Forderung erlischt, so
@@ -889,6 +952,7 @@ Schiffsregister eingetragen werden.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006800318)
 
 (1) Befriedigt der Schuldner den Gläubiger, so geht die
 Schiffshypothek auf ihn über, soweit er von dem Eigentümer oder einem
@@ -905,6 +969,7 @@ Forderung und Schuld in einer Person vereinigen.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE006900318)
 
 Gibt der Gläubiger die Schiffshypothek auf oder verzichtet er auf sie
 oder räumt er einer anderen Schiffshypothek den Vorrang ein, so wird
@@ -913,6 +978,7 @@ Schiffshypothek hätte Ersatz erlangen können.
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007000318)
 
 Ist der Schuldner berechtigt, von dem Eigentümer Ersatz zu verlangen,
 falls er den Gläubiger befriedigt, so kann er, wenn der Gläubiger die
@@ -924,6 +990,7 @@ Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007100318)
 
 Hat der Schuldner dadurch, daß er den Gläubiger befriedigt hat, die
 Schiffshypothek erworben oder hat er aus demselben Grund ein sonstiges
@@ -933,6 +1000,7 @@ Schiffsregisters erforderlichen Urkunden ihm aushändigt.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007200318)
 
 Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung
 der Schiffshypothek dauernd ausgeschlossen wird, so kann er verlangen,
@@ -940,6 +1008,7 @@ daß der Gläubiger auf die Schiffshypothek verzichtet.
 
 
 ### § 64
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007300318)
 
 (1) Die Schiffshypothek erlischt, wenn sie mit dem Eigentum in
 derselben Person zusammentrifft; § 57 Abs. 3 gilt sinngemäß.
@@ -951,6 +1020,7 @@ Zinsen aus dem Schiff gebühren ihm nicht.
 
 
 ### § 65
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007400318)
 
 (1) Ist eine Schiffshypothek im Schiffsregister mit Unrecht gelöscht,
 so erlischt sie, wenn der Anspruch des Gläubigers gegen den Eigentümer
@@ -961,6 +1031,7 @@ Schiffshypothek nicht in das Schiffsregister eingetragen worden ist.
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007502140)
 
 (1) Ist der Gläubiger unbekannt, so kann er im Wege des
 Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit
@@ -977,6 +1048,7 @@ Schiffshypothek. § 57 Abs. 3 gilt auch in diesem Falle.
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007601140)
 
 (1) Der unbekannte Gläubiger kann im Wege des Aufgebotsverfahrens mit
 seinem Recht auch dann ausgeschlossen werden, wenn der Eigentümer zur
@@ -1000,6 +1072,7 @@ berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007700318)
 
 (1) Erlischt eine Gesamtschiffshypothek, so steht die Befugnis nach §
 57 Abs. 3 jedem Eigentümer an seinem Schiff (Anteil) zu dem Teilbetrag
@@ -1020,6 +1093,7 @@ Schiffshypothek.
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007800318)
 
 (1) Befriedigt der Eigentümer eines mit einer Gesamtschiffshypothek
 belasteten Schiffs den Gläubiger und erlischt hierdurch die Forderung,
@@ -1056,6 +1130,7 @@ Absatz 2 Satz 1 sinngemäß.
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE007900318)
 
 (1) Kann bei einer Gesamtschiffshypothek der Schuldner im Fall des §
 59 nur von dem Eigentümer eines der belasteten Schiffe oder von einem
@@ -1074,6 +1149,7 @@ bringenden Belastungen hinzuzurechnen ist.
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008000318)
 
 Verzichtet der Gläubiger einer Gesamtschiffshypothek nur an einem der
 Schiffe auf die Schiffshypothek, so steht dem Eigentümer dieses
@@ -1083,10 +1159,12 @@ ausgeschlossen wird.
 
 
 ## Fünfter Abschnitt - Schiffshypothek für Inhaber- und Orderpapiere, Höchstbetragsschiffshypothek
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000500318)
 
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008100318)
 
 (1) Zur Bestellung einer Schiffshypothek für die Forderung aus einer
 Schuldverschreibung auf den Inhaber genügt die Erklärung des
@@ -1103,6 +1181,7 @@ erfolgen, wenn die Verjährung eingetreten ist.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008200318)
 
 Ist die Schiffshypothek für eine Forderung aus einer
 Schuldverschreibung auf den Inhaber, aus einem Wechsel oder aus einem
@@ -1112,6 +1191,7 @@ die Abtretung dieser Forderungen geltenden allgemeinen Vorschriften.
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008300318)
 
 (1) Bei einer Schiffshypothek der in § 73 bezeichneten Art kann für
 den jeweiligen Gläubiger ein Vertreter mit der Befugnis bestellt
@@ -1128,6 +1208,7 @@ Vornahme der Verfügung von dem Vertreter verlangen.
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008401140)
 
 (1) Eine Schiffshypothek kann in der Weise bestellt werden, daß nur
 der Höchstbetrag, bis zu dem das Schiff haften soll, bestimmt, im
@@ -1146,10 +1227,12 @@ Schiffshypothek ausgeschlossen.
 
 
 ## Sechster Abschnitt - Die Schiffshypothek an Schiffsbauwerken und Schwimmdocks
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000600318)
 
 
 
 ### § 76
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008500318)
 
 (1) Eine Schiffshypothek kann auch an einem auf einer Schiffswerft im
 Bau befindlichen Schiff (Schiffsbauwerk) bestellt werden.
@@ -1164,6 +1247,7 @@ Eintragung in das Binnenschiffsregister nicht geeignet sein wird.
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008600318)
 
 Zur Bestellung einer Schiffshypothek an einem Schiffsbauwerk ist an
 Stelle der Eintragung in das Schiffsregister die Eintragung in das
@@ -1173,6 +1257,7 @@ dieses Abschnitts etwas anderes ergibt.
 
 
 ### § 78
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008700318)
 
 Ist die Schiffshypothek in das Register für Schiffsbauwerke
 eingetragen, so gelten vom Zeitpunkt der Eintragung die §§ 3 bis 7
@@ -1180,6 +1265,7 @@ auch für das Schiffsbauwerk sinngemäß.
 
 
 ### § 79
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008800318)
 
 Die Schiffshypothek erstreckt sich auf das Schiffsbauwerk in seinem
 jeweiligen Bauzustand. Sie erstreckt sich ferner neben den im § 31
@@ -1190,6 +1276,7 @@ Schiffsbauwerks gelangt sind. § 31 Abs. 2 gilt sinngemäß.
 
 
 ### § 80
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE008900318)
 
 Auf die Versicherungsforderung erstreckt sich die Schiffshypothek nur,
 wenn der Eigentümer für das Schiffsbauwerk eine besondere Versicherung
@@ -1197,6 +1284,7 @@ genommen hat.
 
 
 ### § 81
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE009000318)
 
 Die an dem Schiffsbauwerk bestellte Schiffshypothek bleibt nach der
 Fertigstellung des Schiffs mit ihrem bisherigen Rang an dem Schiff
@@ -1204,6 +1292,7 @@ bestehen.
 
 
 ### § 81a
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE009100318)
 
 Eine Schiffshypothek kann auch an einem im Bau befindlichen oder
 fertiggestellten Schwimmdock bestellt werden. §§ 77, 78, 80 gelten
@@ -1213,10 +1302,12 @@ anzuwenden.
 
 
 ## Siebenter Abschnitt - Nießbrauch
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000700318)
 
 
 
 ### § 82
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE009200318)
 
 (1) Auf den Nießbrauch an einem Schiff sind die für den Nießbrauch an
 Grundstücken geltenden Vorschriften des bürgerlichen Rechts sinngemäß
@@ -1230,10 +1321,12 @@ gleichen Rang. § 25 Abs. 2, §§ 26, 27, 65 gelten sinngemäß.
 
 
 ## Achter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNG000800318)
 
 
 
 ### § 83
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE009302377)
 
 In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt
 dieses Gesetz mit folgenden Maßgaben:
@@ -1254,6 +1347,7 @@ dieses Gesetz mit folgenden Maßgaben:
 
 
 ### § 84
+[Direktlink](https://www.gesetze-im-internet.de/schrg/BJNR014990940.html#BJNR014990940BJNE009400318)
 
 Dieses Gesetz tritt am 1. Januar 1941 in Kraft;
 

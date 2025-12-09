@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg_2/BJNR193900001.html#BJNR193900001BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 9
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg_2/BJNR193900001.html#BJNR193900001BJNE000200305)
 
 
 
 ## Art 10 Auflösung des Sondervermögens der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg_2/BJNR193900001.html#BJNR193900001BJNE000300305)
 
 Das als Sondervermögen der Bundesrepublik Deutschland geführte
 Guthaben des Rentenfonds der Partei des Demokratischen Sozialismus
@@ -35,6 +38,7 @@ wird aufgelöst und in den Haushalt des Bundes überführt.
 
 
 ## Art 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg_2/BJNR193900001.html#BJNR193900001BJNE000400305)
 
 Überführungsbescheide nach § 8 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes, Rentenbescheide nach § 307b des
@@ -50,6 +54,7 @@ zurückgenommen werden.
 
 
 ## Art 12 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg_2/BJNR193900001.html#BJNR193900001BJNE000500305)
 
 Die auf Artikel 8 und 9 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
@@ -57,6 +62,7 @@ Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg_2/BJNR193900001.html#BJNR193900001BJNE000600305)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Mai 1999 in Kraft, soweit
 in den folgenden Absätzen nichts Abweichendes bestimmt ist.

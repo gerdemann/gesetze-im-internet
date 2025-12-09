@@ -71,6 +71,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000100000)
 
 Das Bundesministerium für Verkehr verordnet aufgrund des § 6 Absatz 1
 Satz 1 Nummer 18, Absatz 3 Nummer 6, Absatz 7 Satz 1 Nummer 2 und Satz
@@ -86,6 +87,7 @@ Landesbehörden:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000200000)
 
 (1) Diese Verordnung regelt die Voraussetzungen, unter denen
 Kraftfahrzeuge der Klassen M und N im Sinne des Artikels 4 der
@@ -104,6 +106,7 @@ bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000300000)
 
 (1) Ein Kraftfahrzeug mit ferngelenkter Fahrfunktion (ferngelenktes
 Kraftfahrzeug) ist ein Kraftfahrzeug, das mittels einer technischen
@@ -143,6 +146,7 @@ möglichst sicheren Stelle versetzt und die Warnblinkanlage aktiviert.
 
 
 ## § 3 Betrieb eines ferngelenkten Kraftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000400000)
 
 (1) Der Betrieb eines ferngelenkten Kraftfahrzeugs auf öffentlichen
 Straßen ist zulässig, wenn
@@ -180,6 +184,7 @@ Kraftfahrzeugs ausführt oder ausführen muss.
 
 
 ## § 4 Betriebserlaubnis für ein ferngelenktes Kraftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000500000)
 
 (1) Der Halter hat die Betriebserlaubnis für das ferngelenkte
 Kraftfahrzeug beim Kraftfahrt-Bundesamt zu beantragen. Die
@@ -317,6 +322,7 @@ und die Zweckmäßigkeit nach Satz 1 vorzulegen.
 
 
 ## § 5 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000600000)
 
 (1) Das Kraftfahrt-Bundesamt hat die Aufgaben der Marktüberwachung
 hinsichtlich der ferngelenkten Kraftfahrzeuge, denen eine
@@ -364,6 +370,7 @@ die Anforderungen dieser Verordnung nicht erfüllt.
 
 
 ## § 6 Widerruf der Betriebserlaubnis für ein ferngelenktes Kraftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000700000)
 
 (1) Das Kraftfahrt-Bundesamt hat die nach § 4 Absatz 1 erteilte
 Betriebserlaubnis für ein ferngelenktes Kraftfahrzeug zu widerrufen,
@@ -426,6 +433,7 @@ unberührt.
 
 
 ## § 7 Betriebsbereichsgenehmigung für ein ferngelenktes Kraftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000800000)
 
 (1) Der Betriebsbereich eines bestimmten ferngelenkten Kraftfahrzeugs
 bedarf der Betriebsbereichsgenehmigung durch die zuständige Behörde.
@@ -488,6 +496,7 @@ zuständige Behörde das Kraftfahrt-Bundesamt unverzüglich in Kenntnis.
 
 
 ## § 8 Antrag auf Erteilung einer Betriebsbereichsgenehmigung für ein ferngelenktes Kraftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE000900000)
 
 (1) Die Erteilung der Betriebsbereichsgenehmigung bedarf eines Antrags
 des Halters bei der zuständigen Behörde.
@@ -544,6 +553,7 @@ der zuständigen Behörde mitzuteilen.
 
 
 ## § 9 Widerruf der Betriebsbereichsgenehmigung für ein ferngelenktes Kraftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001000000)
 
 (1) Die zuständige Behörde hat die nach § 7 Absatz 2 erteilte
 Betriebsbereichsgenehmigung zu widerrufen, wenn sie davon Kenntnis
@@ -609,6 +619,7 @@ entsprechenden landesrechtlichen Vorschriften bleiben unberührt.
 
 
 ## § 10 Anforderungen an die fernlenkende Person
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001100000)
 
 (1) Die Anforderungen an das Fernlenken von Kraftfahrzeugen erfüllt,
 wer
@@ -726,6 +737,7 @@ ergibt.
 
 
 ## § 11 Sicherstellungspflichten des Halters in Bezug auf die Anforderungen an die fernlenkende Person
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001200000)
 
 (1) Der Halter hat sicherzustellen und zu dokumentieren, dass ihm eine
 für den Betrieb eines ferngelenkten Kraftfahrzeugs hinreichende Zahl
@@ -769,6 +781,7 @@ Fahrerlaubnis-Verordnung untersagt worden ist.
 
 
 ## § 12 Pflichten der fernlenkenden Person
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001300000)
 
 (1) Die fernlenkende Person hat den Halter des Kraftfahrzeugs
 unverzüglich darüber zu unterrichten, wenn und sobald
@@ -812,6 +825,7 @@ unverzüglich darüber zu unterrichten, wenn und sobald
 
 
 ## § 13 Pflichten des Herstellers der technischen Ausrüstung zum Fernlenken
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001400000)
 
 (1) Der Hersteller der technischen Ausrüstung zum Fernlenken hat
 
@@ -842,6 +856,7 @@ stellen.
 
 
 ## § 14 Pflichten des Halters
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001500000)
 
 (1) Der Halter ist zur Erhaltung der Verkehrssicherheit und der
 Umweltverträglichkeit des ferngelenkten Kraftfahrzeugs verpflichtet
@@ -921,6 +936,7 @@ ferngelenkten Kraftfahrzeugs.
 
 
 ## § 15 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001600000)
 
 (1) Der Halter ist verpflichtet, die nach Anlage 3 erforderlichen
 Daten beim ferngelenkten Betrieb zu speichern.
@@ -1001,6 +1017,7 @@ anschließend unverzüglich zu löschen.
 
 
 ## § 16 Maßgaben zur Anwendung der Fahrzeug-Zulassungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001700000)
 
 (1) Für die Zulassung eines ferngelenkten Kraftfahrzeugs zum Verkehr
 auf öffentlichen Straßen in einem genehmigten Betriebsbereich ist die
@@ -1065,6 +1082,7 @@ Absatz 1 der Fahrzeug-Zulassungsverordnung, auch in Verbindung mit §
 
 
 ## § 17 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001800000)
 
 Die Vorschriften dieser Verordnung gelten nicht für die Bundeswehr,
 die Polizei, die Bundespolizei, die Feuerwehr, die Bundesanstalt
@@ -1076,6 +1094,7 @@ der öffentlichen Sicherheit und Ordnung notwendig ist.
 
 
 ## § 18 Ausnahmegenehmigungen nach der Straßenverkehrs-Zulassungs-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE001900000)
 
 (1) Soweit § 70 Absatz 1 Nummer 2 in Verbindung mit § 19 Absatz 6 Satz
 3 der Straßenverkehrs-Zulassungs-Ordnung die Möglichkeit eröffnet, den
@@ -1092,11 +1111,13 @@ Straßenverkehrs-Zulassungs-Ordnung vorliegt.
 
 
 ## § 19 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE002000000)
 
 Diese Verordnung tritt mit Ablauf des 30. November 2030 außer Kraft.
 
 
 ## § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE002100000)
 
 Diese Verordnung tritt am 1. Dezember 2025 in Kraft.
 
@@ -1104,6 +1125,7 @@ Diese Verordnung tritt am 1. Dezember 2025 in Kraft.
 § 13 Absatz 1 Nummer 1 bis 3, Anlage 3)
 
 ## Anlage 1 Technische Anforderungen an das Gesamtsystem zum Fernlenken
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE002200000)
 
 (Fundstelle: BGBl. 2025 I Nr. 176, S. 12 - 18)
 
@@ -1918,6 +1940,7 @@ Diese Verordnung tritt am 1. Dezember 2025 in Kraft.
 (zu § 7 Absatz 2 Satz 1 Nummer 2, § 8 Absatz 2 Nummer 1, § 9 Absatz 2)
 
 ## Anlage 2 Voraussetzungen für die Erteilung der Betriebsbereichsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE002300000)
 
 (Fundstelle: BGBl. 2025 I Nr. 176, S. 19 - 20)
 
@@ -2061,6 +2084,7 @@ Diese Verordnung tritt am 1. Dezember 2025 in Kraft.
 (zu § 15 Absatz 1, 4 und 5, Anlage 1)
 
 ## Anlage 3 Anforderungen an die Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stvfernlv/BJNR0B00A0025.html#BJNR0B00A0025BJNE002400000)
 
 (Fundstelle: BGBl. 2025 I Nr. 176, S. 21 - 22)
 

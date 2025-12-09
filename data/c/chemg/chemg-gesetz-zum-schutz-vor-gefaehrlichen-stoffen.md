@@ -65,10 +65,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zweck, Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000105377)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE000207377)
 
 Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen
 Einwirkungen gefährlicher Stoffe und Gemische zu schützen,
@@ -77,6 +79,7 @@ Entstehen vorzubeugen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE000334126)
 
 (1) Die Vorschriften des Dritten Abschnitts, die §§ 16e, 17 Abs. 1 Nr.
 2 Buchstabe a und b und § 23 Abs. 2 gelten nicht für
@@ -290,6 +293,7 @@ innerbetriebliche Beförderung.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE028100126)
 
 Im Sinne dieses Gesetzes sind
 
@@ -400,6 +404,7 @@ Verordnungen) bleiben unberührt.
 
 
 ### § 3a Gefährliche Stoffe und gefährliche Gemische
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003908360)
 
 (1) Gefährliche Stoffe oder gefährliche Gemische im Sinne dieses
 Gesetzes sind Stoffe oder Gemische, die
@@ -435,13 +440,16 @@ Gefährlichkeitsmerkmale zu erlassen.
 
 
 ### § 3b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006106377)
 
 
 ## Zweiter Abschnitt - Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000208377)
 
 
 
 ### § 4 Beteiligte Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE000612124)
 
 (1) Bei der Durchführung der Verordnung (EG) Nr. 1907/2006 des
 Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur
@@ -486,6 +494,7 @@ kann.
 
 
 ### § 5 Aufgaben der Bundesstelle für Chemikalien
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE000711377)
 
 (1) Bei der Durchführung der Verordnung (EG) Nr. 1907/2006 und der
 Verordnung (EG) Nr. 1272/2008 gelten insbesondere die folgenden
@@ -563,6 +572,7 @@ ferner die folgenden Aufgaben wahr:
 
 
 ### § 6 Aufgaben der Bewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE000808377)
 
 (1) Die Bewertungsstellen unterstützen die Bundesstelle für
 Chemikalien bei deren Aufgaben nach § 5 Absatz 1 Nummer 2 bis 4 und
@@ -590,6 +600,7 @@ Risikominderungsmaßnahmen.
 
 
 ### § 7 Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE000908377)
 
 (1) Die Bundesstelle für Chemikalien koordiniert das Zusammenwirken
 der in § 4 genannten Bundesoberbehörden und wirkt auf die
@@ -609,6 +620,7 @@ erforderlich hält oder diese es verlangen.
 
 
 ### § 8 Gebührenfreiheit der nationalen Auskunftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001009377)
 
 Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als
 nationale Auskunftsstelle nach Artikel 124 Absatz 2 der Verordnung
@@ -617,6 +629,7 @@ nationale Auskunftsstelle nach Artikel 124 Absatz 2 der Verordnung
 
 
 ### § 9 Informationsaustausch zwischen Bundes- und Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001110377)
 
 (1) Die Bundesstelle für Chemikalien informiert die zuständigen
 Landesbehörden insbesondere über Mitteilungen der Europäischen
@@ -690,6 +703,7 @@ Chemikalien insbesondere über
 
 
 ### § 10 Vorläufige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001209377)
 
 (1) Sofern auf Grundlage dieses Gesetzes eine vorläufige Maßnahme im
 Sinne des Artikels 129 der Verordnung (EG) Nr. 1907/2006 oder im Sinne
@@ -707,18 +721,22 @@ Artikel 52 Absatz 2 der Verordnung (EG) Nr. 1272/2008.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001308377)
 
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001510377)
 
 
 
 ## Abschnitt 2a - Durchführung der Verordnung (EU) Nr. 528/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000905126)
 
 
 
 ### § 12a Beteiligte Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006208360)
 
 (1) Bei der Durchführung der Verordnung (EU) Nr. 528/2012 wirken die
 in § 4 Absatz 1 genannten Stellen nach Maßgabe dieses Abschnitts mit.
@@ -773,6 +791,7 @@ Behörden zuständig:
 
 
 ### § 12b Aufgaben der Bundesstelle für Chemikalien
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006305126)
 
 (1) Bei der Durchführung der Verordnung (EU) Nr. 528/2012 gelten
 insbesondere die folgenden Aufgaben als Mitwirkungsakte nach § 21
@@ -869,6 +888,7 @@ Verordnung (EU) Nr. 528/2012 ferner die folgenden Aufgaben wahr:
 
 
 ### § 12c Aufgaben der Bewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006405377)
 
 (1) Die Bewertungsstellen unterstützen die Bundesstelle für
 Chemikalien bei deren Aufgaben nach § 12b Absatz 1 und 2 Nummer 1 bis
@@ -904,6 +924,7 @@ Bewertung von Risikominderungsmaßnahmen.
 
 
 ### § 12d Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006505377)
 
 (1) Die Bundesstelle für Chemikalien koordiniert das Zusammenwirken
 der in § 12a genannten Bundesoberbehörden und wirkt auf die
@@ -979,6 +1000,7 @@ Maßnahmen.
 
 
 ### § 12e Auskunftsstelle, Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006605377)
 
 (1) Die Bundesstelle für Chemikalien richtet eine Auskunftsstelle zur
 Erfüllung der Aufgaben nach Artikel 81 Absatz 2 der Verordnung (EU)
@@ -1010,6 +1032,7 @@ Absätzen 1 und 2.
 
 
 ### § 12f Informationsaustausch zwischen Bundes- und Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006704377)
 
 (1) Die Bundesstelle für Chemikalien informiert die zuständigen
 Landesbehörden insbesondere über
@@ -1107,6 +1130,7 @@ Ergebnis sie geführt haben.
 
 
 ### § 12g Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006806360)
 
 (1) Bestehen auf der Grundlage neuer Tatsachen berechtigte Gründe zu
 der Annahme, dass ein Biozid-Produkt, obwohl es nach der Verordnung
@@ -1146,6 +1170,7 @@ werden.
 
 
 ### § 12h Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006905377)
 
 (1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich
 zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1210,10 +1235,12 @@ Produkten festzulegen, insbesondere zu bestimmen,
 
 
 ## Abschnitt 2b - Durchführung der Verordnung (EU) Nr. 517/2014
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG001001126)
 
 
 
 ### § 12i Ergänzende Pflichten zu Kapitel III der Verordnung (EU) Nr. 517/2014
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027800377)
 
 (1) Es ist verboten,
 
@@ -1291,6 +1318,7 @@ Kennzeichnung verpflichtet ist.
 
 
 ### § 12j Ergänzende Pflichten zu Kapitel IV der Verordnung (EU) Nr. 517/2014
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027900377)
 
 (1) Es ist verboten, teilfluorierte Kohlenwasserstoffe im Sinne des
 Artikels 2 Absatz 2 der Verordnung (EU) Nr. 517/2014, die unter
@@ -1404,6 +1432,7 @@ anordnen.
 
 
 ### § 12k Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE028000377)
 
 Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig,
 durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1431,10 +1460,12 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ## Dritter Abschnitt - Einstufung, Kennzeichnung und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000307377)
 
 
 
 ### § 13 Einstufungs-, Kennzeichnungs- und Verpackungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001711360)
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und
 Gemischen richten sich nach den Bestimmungen der Verordnung (EG) Nr.
@@ -1456,6 +1487,7 @@ nach anderen Rechtsvorschriften bleiben unberührt.
 
 
 ### § 14 Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE001912126)
 
 (1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich
 zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1534,34 +1566,42 @@ Erzeugnisse nach § 19 Absatz 2 getroffen werden.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002009377)
 
 
 
 ### § 15a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005908377)
 
 
 
 ## Vierter Abschnitt - Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000405377)
 
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002110377)
 
 
 
 ### § 16a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027301377)
 
 
 
 ### § 16b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027401377)
 
 
 
 ### § 16c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027501377)
 
 
 
 ### § 16d Mitteilungspflichten bei Gemischen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE004407377)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zum Zwecke der Ermittlung von Gefahren, die
@@ -1613,6 +1653,7 @@ sicherzustellen ist.
 
 
 ### § 16e Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE004515126)
 
 (1) Das Bundesinstitut für Risikobewertung nimmt als benannte Stelle
 nach Artikel 45 Absatz 1 der Verordnung (EG) Nr. 1272/2008, auch in
@@ -1720,6 +1761,7 @@ Zustimmung des Bundesrates
 
 
 ### § 16f Informationspflicht der Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE007208126)
 
 (1) Wer als Lieferant eines Erzeugnisses im Sinne des Artikels 3
 Nummer 33 der Verordnung (EG) Nr. 1907/2006 Erzeugnisse im Sinne des
@@ -1778,18 +1820,22 @@ Datenbank zu erfüllen ist.
 
 
 ## Abschnitt 4a - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG001101126)
 
 
 
 ### (XXXX) §§ 16g bis 16l (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE028900126)
 
 
 
 ## Fünfter Abschnitt - Ermächtigung zu Verboten und Beschränkungen sowie zu Maßnahmen zum Schutz von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000505377)
 
 
 
 ### § 17 Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002214126)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit
@@ -1889,6 +1935,7 @@ Naturschutzverbände.
 
 
 ### § 18 Giftige Tiere und Pflanzen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002306377)
 
 (1) Die Bundesregierung wird ermächtigt, soweit es zum Schutz von
 Leben oder Gesundheit des Menschen unter Berücksichtigung der Belange
@@ -1941,6 +1988,7 @@ und abgestorbener Exemplare oder Teile giftiger Pflanzenarten.
 
 
 ### § 19 Maßnahmen zum Schutz von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002414126)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zum Schutz von Leben und
@@ -2171,10 +2219,12 @@ werden; hierbei ist
 
 
 ## Sechster Abschnitt - Gute Laborpraxis
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000605377)
 
 
 
 ### § 19a Gute Laborpraxis (GLP)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE004610126)
 
 (1) Nicht-klinische gesundheits- und umweltrelevante
 Sicherheitsprüfungen von Stoffen oder Gemischen, deren Ergebnisse eine
@@ -2230,6 +2280,7 @@ ist.
 
 
 ### § 19b GLP-Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE004714126)
 
 (1) Die zuständige Behörde hat demjenigen, der Prüfungen nach § 19a
 Absatz 1 durchführt, auf Antrag nach Durchführung eines
@@ -2323,6 +2374,7 @@ verfügt und diese die beworbene oder bezeichnete Prüfung abdeckt.
 
 
 ### § 19c Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE004811126)
 
 (1) Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung
 erstattet jährlich bis zum 31. März für das vergangene Kalenderjahr
@@ -2347,6 +2399,7 @@ Bundesanzeiger oder auf ihrer Internetseite veröffentlichen.
 
 
 ### § 19d Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE004911126)
 
 (1) Die GLP-Bundesstelle im Bundesinstitut für Risikobewertung hat
 zusätzlich folgende Aufgaben:
@@ -2442,10 +2495,12 @@ allgemeine Verwaltungsvorschriften über das Verfahren der behördlichen
 
 
 ## Siebter Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000705377)
 
 
 
 ### § 20 Antrags- und Mitteilungsunterlagen, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002511377)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -2484,9 +2539,11 @@ die bei ihr eingereicht werden,
 
 
 ### § 20a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005012377)
 
 
 ### § 20b Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005108377)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Ausschüsse zu bilden, denen die Aufgabe
@@ -2536,6 +2593,7 @@ die das zuständige Bundesministerium amtlich bekannt machen kann.
 
 
 ### § 21 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE028200126)
 
 (1) Die zuständigen Landesbehörden haben die Durchführung dieses
 Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu
@@ -2656,6 +2714,7 @@ unberührt.
 
 
 ### § 21a Mitwirkung von Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE006006377)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Ein- und Ausfuhr derjenigen
@@ -2678,6 +2737,7 @@ Behörde sicherstellen.
 
 
 ### § 22 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002712377)
 
 Die Bundesstelle für Chemikalien und die zuständigen Landesbehörden
 unterrichten sich gegenseitig über alle Erkenntnisse, die für die
@@ -2693,6 +2753,7 @@ Behörde und den zuständigen Landesbehörden.
 
 
 ### § 23 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002808377)
 
 (1) Die zuständige Landesbehörde kann im Einzelfall die Anordnungen
 treffen, die zur Beseitigung festgestellter oder zur Verhütung
@@ -2730,6 +2791,7 @@ keine aufschiebende Wirkung.
 
 
 ### § 24 Vollzug im Bereich der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE002909377)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
 obliegt der Vollzug des Gesetzes, der auf dieses Gesetz gestützten
@@ -2745,6 +2807,7 @@ Landesverteidigung erforderlich und unionsrechtlich zulässig ist.
 
 
 ### § 25 Angleichung an Gemeinschaftsrecht oder Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003007377)
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der
 Angleichung der Rechts- und Verwaltungsvorschriften der
@@ -2755,6 +2818,7 @@ erforderlich ist.
 
 
 ### § 25a Aufwendungen des Auskunftspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005212119)
 
 Die dem Auskunftspflichtigen durch die Entnahme von Proben von
 Stoffen, Gemischen und Erzeugnissen oder durch Messungen entstehenden
@@ -2762,6 +2826,7 @@ eigenen Aufwendungen hat er selbst zu tragen.
 
 
 ### § 26 Bußgeldvorschriften, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003119126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3076,6 +3141,7 @@ nach Absatz 2 geahndet werden können.
 
 
 ### § 27 Strafvorschriften, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003214126)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -3147,6 +3213,7 @@ Strafe bedroht ist.
 
 
 ### § 27a Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005306377)
 
 (1) Wer zur Täuschung im Rechtsverkehr die Erklärung nach § 19a Absatz
 2 Satz 2 Nummer 2 der Wahrheit zuwider abgibt oder eine unwahre
@@ -3167,6 +3234,7 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 27b Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027103377)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer gegen die Verordnung (EG) Nr. 1907/2006 des Europäischen
@@ -3218,6 +3286,7 @@ geahndet werden.
 
 
 ### § 27c Zuwiderhandlungen gegen Abgabevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE027204126)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 26 Absatz 1 Nummer 7 Buchstabe b oder Absatz 2
@@ -3234,6 +3303,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 27d Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005409126)
 
 Gegenstände, auf die sich eine Straftat nach den §§ 27, 27b Absatz 1
 bis 4 oder § 27c oder eine Ordnungswidrigkeit nach § 26 Absatz 1
@@ -3244,10 +3314,12 @@ und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 
 ## Achter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNG000805377)
 
 
 
 ### § 28 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003418377)
 
 (1) (weggefallen)
 
@@ -3552,20 +3624,24 @@ anderen Mitgliedstaat der Europäischen Union bezieht, bereits vor dem
 
 
 ### § 29 (Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003505377)
 
 
 
 ### § 30 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003605377)
 
 (gegenstandslos)
 
 
 ### § 31 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE003705377)
 
 
 (zu § 19a Absatz 1)
 
 ### Anhang 1 Grundsätze der Guten Laborpraxis (GLP)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005508377)
 
 (Fundstelle: BGBl. I 2013, 3521 — 3531)
 
@@ -5025,6 +5101,7 @@ Landessiegel/Coloured Logo Gute Laborpraxis/Good Laboratory Practice
 GLP-Bescheinigung/Statement of GLP Compliance
 
 ### Anhang 2 (gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
+[Direktlink](https://www.gesetze-im-internet.de/chemg/BJNR017180980.html#BJNR017180980BJNE005607377)
 
 (Fundstelle: BGBl. I 2013, 3532)
 

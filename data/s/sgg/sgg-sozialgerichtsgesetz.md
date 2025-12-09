@@ -26,20 +26,24 @@ Mittelbare änderung durch
 
 
 ## Erster Teil - Gerichtsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000100314)
 
 
 
 ### Erster Abschnitt - Gerichtsbarkeit und Richteramt
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000200314)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE002402301)
 
 Die Sozialgerichtsbarkeit wird durch unabhängige, von den
 Verwaltungsbehörden getrennte, besondere Verwaltungsgerichte ausgeübt.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE002500314)
 
 Als Gerichte der Sozialgerichtsbarkeit werden in den Ländern
 Sozialgerichte und Landessozialgerichte, im Bund das
@@ -47,12 +51,14 @@ Bundessozialgericht errichtet.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE002600314)
 
 Die Gerichte der Sozialgerichtsbarkeit werden mit Berufsrichtern und
 ehrenamtlichen Richtern besetzt.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE002703308)
 
 Bei jedem Gericht wird eine Geschäftsstelle eingerichtet, die mit der
 erforderlichen Zahl von Urkundsbeamten besetzt wird. Das Nähere
@@ -62,6 +68,7 @@ Landesrecht zuständigen Stellen.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE002800314)
 
 (1) Alle Gerichte, Verwaltungsbehörden und Organe der
 Versicherungsträger leisten den Gerichten der Sozialgerichtsbarkeit
@@ -79,6 +86,7 @@ Gerichtsverfassungsgesetzes gelten entsprechend.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE002900314)
 
 Für die Gerichte der Sozialgerichtsbarkeit gelten die Vorschriften des
 Zweiten Titels des Gerichtsverfassungsgesetzes nach Maßgabe der
@@ -100,10 +108,12 @@ folgenden Vorschriften entsprechend:
 
 
 ### Zweiter Abschnitt - Sozialgerichte
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000300314)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003000314)
 
 (1) Die Sozialgerichte werden als Landesgerichte errichtet. Die
 Errichtung und Aufhebung eines Gerichts und die Verlegung eines
@@ -125,6 +135,7 @@ Streitsachen auf ein anderes Sozialgericht übergehen.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003100314)
 
 Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes
 bestimmt ist, im ersten Rechtszug über alle Streitigkeiten, für die
@@ -132,6 +143,7 @@ der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit offensteht.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003201310)
 
 (1) Das Sozialgericht besteht aus der erforderlichen Zahl von
 Berufsrichtern als Vorsitzenden und aus den ehrenamtlichen Richtern.
@@ -142,6 +154,7 @@ bestimmt.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003315125)
 
 (1) Bei den Sozialgerichten werden Kammern für Angelegenheiten der
 Sozialversicherung, der Arbeitsförderung einschließlich der übrigen
@@ -193,6 +206,7 @@ vereinbaren.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003407125)
 
 (1) Die Berufsrichter werden nach Maßgabe des Landesrechts nach
 Beratung mit einem für den Bezirk des Landessozialgerichts zu
@@ -217,6 +231,7 @@ Hauptamts, zu Richtern im Nebenamt ernannt werden.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE026501125)
 
 (1) Jede Kammer des Sozialgerichts wird in der Besetzung mit einem
 Vorsitzenden und zwei ehrenamtlichen Richtern als Beisitzern tätig.
@@ -263,6 +278,7 @@ den Vorschlagslisten der Kreise und der kreisfreien Städte mit.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003608125)
 
 (1) Die ehrenamtlichen Richter werden von der nach Landesrecht
 zuständigen Stelle aufgrund von Vorschlagslisten (§ 14) für fünf Jahre
@@ -309,6 +325,7 @@ Versicherten zu berufen.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003711125)
 
 (1) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den
 Kammern für Angelegenheiten der Sozialversicherung, der Grundsicherung
@@ -359,11 +376,13 @@ und den kreisfreien Städten aufgestellt.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003800314)
 
 (weggefallen)
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE003906125)
 
 (1) Das Amt des ehrenamtlichen Richters am Sozialgericht kann nur
 ausüben, wer Deutscher ist und das fünfundzwanzigste Lebensjahr
@@ -429,6 +448,7 @@ wohnen oder ihren Betriebssitz haben oder beschäftigt sein.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004007301)
 
 (1) Vom Amt des ehrenamtlichen Richters am Sozialgericht ist
 ausgeschlossen,
@@ -475,6 +495,7 @@ andere Amt.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004103301)
 
 (1) Die Übernahme des Amtes als ehrenamtlicher Richter kann nur
 ablehnen,
@@ -519,6 +540,7 @@ Geschäftsjahr im voraus bestimmte Kammer endgültig.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004201301)
 
 (1) Der ehrenamtliche Richter übt sein Amt mit gleichen Rechten wie
 der Berufsrichter aus.
@@ -528,6 +550,7 @@ Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004300314)
 
 (1) Der ehrenamtliche Richter darf in der Übernahme oder Ausübung des
 Amtes nicht beschränkt oder wegen der Übernahme oder Ausübung des
@@ -540,6 +563,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004400314)
 
 Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der
 Erfüllung seiner Pflichten entzieht, insbesondere ohne genügende
@@ -554,6 +578,7 @@ Entscheidung ist der ehrenamtliche Richter zu hören.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004502125)
 
 (1) Der ehrenamtliche Richter ist von seinem Amt zu entbinden, wenn
 das Berufungsverfahren fehlerhaft war, wenn das Fehlen einer
@@ -581,6 +606,7 @@ unanfechtbar.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004603308)
 
 (1) Bei jedem Sozialgericht wird ein Ausschuss der ehrenamtlichen
 Richter gebildet. Die Kreise der ehrenamtlichen Richter, die in den
@@ -601,10 +627,12 @@ ehrenamtlichen Richter übermitteln.
 
 
 #### (XXXX) §§ 24 bis 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004700314)
 
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004800314)
 
 (1) (weggefallen)
 
@@ -617,10 +645,12 @@ Stelle geregelt.
 
 
 ### Dritter Abschnitt - Landessozialgerichte
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000400314)
 
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE004901307)
 
 (1) Die Landessozialgerichte werden als Landesgerichte errichtet. Die
 Errichtung und Aufhebung eines Gerichts und die Verlegung eines
@@ -635,6 +665,7 @@ errichten.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005017125)
 
 (1) Die Landessozialgerichte entscheiden im zweiten Rechtszug über die
 Berufung gegen die Urteile und die Beschwerden gegen andere
@@ -760,6 +791,7 @@ Rechtszug über
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005101310)
 
 (1) Das Landessozialgericht besteht aus dem Präsidenten, den
 Vorsitzenden Richtern, weiteren Berufsrichtern und den ehrenamtlichen
@@ -771,6 +803,7 @@ bestimmt.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005209125)
 
 (1) Bei den Landessozialgerichten werden Senate für Angelegenheiten
 der Sozialversicherung, der Arbeitsförderung einschließlich der
@@ -794,6 +827,7 @@ vereinbaren.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005300314)
 
 (1) Die Berufsrichter werden von der nach Landesrecht zuständigen
 Stelle auf Lebenszeit ernannt.
@@ -802,6 +836,7 @@ Stelle auf Lebenszeit ernannt.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005403308)
 
 (1) Jeder Senat wird in der Besetzung mit einem Vorsitzenden, zwei
 weiteren Berufsrichtern und zwei ehrenamtlichen Richtern tätig. § 12
@@ -814,11 +849,13 @@ Richter mit.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005500314)
 
 (weggefallen)
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005601310)
 
 (1) Die ehrenamtlichen Richter beim Landessozialgericht müssen das
 dreißigste Lebensjahr vollendet haben; sie sollen mindestens fünf
@@ -830,14 +867,17 @@ der vom Präsidium für jedes Geschäftsjahr im voraus bestimmte Senat.
 
 
 #### (XXXX) §§ 36 und 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005700314)
 
 
 
 ### Vierter Abschnitt - Bundessozialgericht
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000500314)
 
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005803308)
 
 (1) Das Bundessozialgericht hat seinen Sitz in Kassel.
 
@@ -857,6 +897,7 @@ Gerichtsverwaltung auf den Präsidenten des Bundessozialgerichts
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE005900314)
 
 (1) Das Bundessozialgericht entscheidet über das Rechtsmittel der
 Revision.
@@ -871,6 +912,7 @@ Bundesverfassungsgericht entscheidet mit bindender Wirkung.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006004308)
 
 Für die Bildung und Besetzung der Senate gelten § 31 Abs. 1 und § 33
 entsprechend. Für Angelegenheiten des Vertragsarztrechts ist
@@ -881,6 +923,7 @@ mit.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006107125)
 
 (1) Bei dem Bundessozialgericht wird ein Großer Senat gebildet.
 
@@ -937,21 +980,25 @@ vorliegenden Sache für den erkennenden Senat bindend.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006201309)
 
 -
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006301309)
 
 -
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006401309)
 
 -
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006503308)
 
 (1) Das Bundesministerium für Arbeit und Soziales bestimmt nach
 Anhörung des Präsidenten des Bundessozialgerichts die Zahl der für die
@@ -973,6 +1020,7 @@ Amt, bis ihre Nachfolger berufen sind. Erneute Berufung ist zulässig.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006607125)
 
 (1) Die Vorschlagslisten für die ehrenamtlichen Richter in den Senaten
 für Angelegenheiten der Sozialversicherung und der Arbeitsförderung
@@ -999,6 +1047,7 @@ berufen.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006701310)
 
 Die ehrenamtlichen Richter am Bundessozialgericht müssen das
 fünfunddreißigste Lebensjahr vollendet haben; sie sollen mindestens
@@ -1010,10 +1059,12 @@ voraus bestimmte Senat des Bundessozialgerichts entscheidet.
 
 
 #### (XXXX) §§ 48 und 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006800314)
 
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE006901160)
 
 Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die das
 Präsidium unter Zuziehung der beiden der Geburt nach ältesten
@@ -1021,10 +1072,12 @@ ehrenamtlichen Richter beschließt.
 
 
 ### Fünfter Abschnitt - Rechtsweg und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000602301)
 
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007022125)
 
 (1) Die Gerichte der Sozialgerichtsbarkeit entscheiden über
 öffentlich-rechtliche Streitigkeiten
@@ -1099,16 +1152,19 @@ dem Gesetz gegen Wettbewerbsbeschränkungen, die Rechtsbeziehungen nach
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007103309)
 
 (weggefallen)
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007201310)
 
 (aufgehoben)
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007300314)
 
 (1) Durch Klage kann die Aufhebung eines Verwaltungsakts oder seine
 Abänderung sowie die Verurteilung zum Erlaß eines abgelehnten oder
@@ -1140,6 +1196,7 @@ Verwaltungsakt nicht zu ergehen hatte.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007404125)
 
 (1) Mit der Klage kann begehrt werden
 
@@ -1175,6 +1232,7 @@ ausgeübt wird.
 
 
 #### § 55a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025600160)
 
 (1) Auf Antrag ist über die Gültigkeit von Satzungen oder anderen im
 Rang unter einem Landesgesetz stehenden Rechtsvorschriften, die nach §
@@ -1216,6 +1274,7 @@ anderen wichtigen Gründen dringend geboten ist.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007500314)
 
 Mehrere Klagebegehren können vom Kläger in einer Klage zusammen
 verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im
@@ -1223,6 +1282,7 @@ Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
 
 #### § 56a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007501311)
 
 Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur
 gleichzeitig mit den gegen die Sachentscheidung zulässigen
@@ -1232,6 +1292,7 @@ einen Nichtbeteiligten ergehen.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007610125)
 
 (1) Örtlich zuständig ist das Sozialgericht, in dessen Bezirk der
 Kläger zur Zeit der Klageerhebung seinen Sitz oder Wohnsitz oder in
@@ -1289,6 +1350,7 @@ Aufenthaltsort hat.
 
 
 #### § 57a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007706311)
 
 (1) In Vertragsarztangelegenheiten der gesetzlichen
 Krankenversicherung ist, wenn es sich um Fragen der Zulassung oder
@@ -1313,6 +1375,7 @@ Bundesvereinigung ihren Sitz hat.
 
 
 #### § 57b
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007800314)
 
 In Angelegenheiten, die die Wahlen zu den Selbstverwaltungsorganen der
 Sozialversicherungsträger und ihrer Verbände oder die Ergänzung der
@@ -1321,6 +1384,7 @@ dessen Bezirk der Versicherungsträger oder der Verband den Sitz hat.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE007901311)
 
 (1) Das zuständige Gericht innerhalb der Sozialgerichtsbarkeit wird
 durch das gemeinsam nächsthöhere Gericht bestimmt,
@@ -1355,6 +1419,7 @@ kann.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008000314)
 
 Vereinbarungen der Beteiligten über die Zuständigkeit haben keine
 rechtliche Wirkung. Eine Zuständigkeit wird auch nicht dadurch
@@ -1363,18 +1428,22 @@ wird.
 
 
 ## Zweiter Teil - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000700314)
 
 
 
 ### Erster Abschnitt - Gemeinsame Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000800314)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG000900314)
 
 
 
 ##### § 60
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008104311)
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
 die §§ 41 bis 46 Absatz 1 und die §§ 47 bis 49 der Zivilprozeßordnung
@@ -1392,6 +1461,7 @@ Interessen durch das Verfahren unmittelbar berührt werden.
 
 
 ##### § 61
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008203125)
 
 (1) Für die Öffentlichkeit, Sitzungspolizei und Gerichtssprache gelten
 die §§ 169, 171b bis 191a des Gerichtsverfassungsgesetzes
@@ -1409,12 +1479,14 @@ Verhandlung.
 
 
 ##### § 62
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008301310)
 
 Vor jeder Entscheidung ist den Beteiligten rechtliches Gehör zu
 gewähren; die Anhörung kann schriftlich oder elektronisch geschehen.
 
 
 ##### § 63
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008408125)
 
 (1) Anordnungen und Entscheidungen, durch die eine Frist in Lauf
 gesetzt wird, sind den Beteiligten zuzustellen, bei Verkündung jedoch
@@ -1431,6 +1503,7 @@ Zustellungsbevollmächtigten zu bestellen.
 
 
 ##### § 64
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008500314)
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist,
 mit dem Tag nach der Zustellung oder, wenn diese nicht vorgeschrieben
@@ -1449,6 +1522,7 @@ nächsten Werktags.
 
 
 ##### § 65
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008600314)
 
 Auf Antrag kann der Vorsitzende richterliche Fristen abkürzen oder
 verlängern. Im Falle der Verlängerung wird die Frist von dem Ablauf
@@ -1456,6 +1530,7 @@ der vorigen Frist an berechnet.
 
 
 ##### § 65a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE024509125)
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Beteiligten sowie
@@ -1553,6 +1628,7 @@ gemäß § 65b Absatz 6 Satz 4 übertragen worden ist.
 
 
 ##### § 65b
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE024605125)
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen jeweils für ihren
@@ -1651,6 +1727,7 @@ Behörden und Gerichten geltenden Standards bestimmen.
 
 
 ##### § 65c Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025901125)
 
 Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates elektronische
@@ -1667,6 +1744,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 
 
 ##### § 65d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE026001125)
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1684,6 +1762,7 @@ Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 ##### § 66
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008701310)
 
 (1) Die Frist für ein Rechtsmittel oder einen anderen Rechtsbehelf
 beginnt nur dann zu laufen, wenn der Beteiligte über den Rechtsbehelf,
@@ -1701,6 +1780,7 @@ Fall höherer Gewalt entsprechend.
 
 
 ##### § 67
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008800314)
 
 (1) Wenn jemand ohne Verschulden verhindert war, eine gesetzliche
 Verfahrensfrist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in
@@ -1722,11 +1802,13 @@ Wiedereinsetzung bewilligt, ist unanfechtbar.
 
 
 ##### § 68
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE008900314)
 
 (weggefallen)
 
 
 ##### § 69
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009000314)
 
 Beteiligte am Verfahren sind
 1\. der Kläger,
@@ -1735,6 +1817,7 @@ Beteiligte am Verfahren sind
 
 
 ##### § 70
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009102310)
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -1755,6 +1838,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 ##### § 71
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009205125)
 
 (1) Ein Beteiligter ist prozeßfähig, soweit er sich durch Verträge
 verpflichten kann.
@@ -1782,6 +1866,7 @@ sind.
 
 
 ##### § 72
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009301309)
 
 (1) Für einen nicht prozeßfähigen Beteiligten ohne gesetzlichen
 Vertreter kann der Vorsitzende bis zum Eintritt eines Vormundes,
@@ -1797,6 +1882,7 @@ Vertreters vom Sitz des Gerichts weit entfernt ist.
 
 
 ##### § 73
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009417125)
 
 (1) Die Beteiligten können vor dem Sozialgericht und dem
 Landessozialgericht den Rechtsstreit selbst führen.
@@ -1936,6 +2022,7 @@ oder berichtigt wird.
 
 
 ##### § 73a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009506125)
 
 (1) Die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe
 mit Ausnahme des § 118 Absatz 1 Satz 6 und des § 127 Absatz 2 Satz 2
@@ -1994,12 +2081,14 @@ für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 ##### § 74
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009600314)
 
 Die §§ 59 bis 65 der Zivilprozeßordnung über die Streitgenossenschaft
 und die Hauptintervention gelten entsprechend.
 
 
 ##### § 75
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE026601125)
 
 (1) Das Gericht kann von Amts wegen oder auf Antrag andere, deren
 berechtigte Interessen durch die Entscheidung berührt werden,
@@ -2061,10 +2150,12 @@ Beiladung verurteilt werden.
 
 
 #### Zweiter Unterabschnitt - Beweissicherungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001000314)
 
 
 
 ##### § 76
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009801309)
 
 (1) Auf Gesuch eines Beteiligten kann die Einnahme des Augenscheins
 und die Vernehmung von Zeugen und Sachverständigen zur Sicherung des
@@ -2085,10 +2176,12 @@ Zivilprozeßordnung entsprechend.
 
 
 #### Dritter Unterabschnitt - Vorverfahren und einstweiliger Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001101310)
 
 
 
 ##### § 77
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009900314)
 
 Wird der gegen einen Verwaltungsakt gegebene Rechtsbehelf nicht oder
 erfolglos eingelegt, so ist der Verwaltungsakt für die Beteiligten in
@@ -2096,6 +2189,7 @@ der Sache bindend, soweit durch Gesetz nichts anderes bestimmt ist.
 
 
 ##### § 78
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010004301)
 
 (1) Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und
 Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen.
@@ -2123,15 +2217,18 @@ Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
 
 ##### (XXXX) §§ 79 bis 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010100314)
 
 
 
 ##### § 83
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010200314)
 
 Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 
 
 ##### § 84
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010303125)
 
 (1) Der Widerspruch ist binnen eines Monats, nachdem der
 Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
@@ -2154,12 +2251,14 @@ Entscheidung zuständigen Stelle vorzulegen hat. Im übrigen gelten die
 
 
 ##### § 84a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023200309)
 
 Für das Vorverfahren gilt § 25 Abs. 4 des Zehnten Buches
 Sozialgesetzbuch nicht.
 
 
 ##### § 85
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE024803308)
 
 (1) Wird der Widerspruch für begründet erachtet, so ist ihm
 abzuhelfen.
@@ -2224,6 +2323,7 @@ bereits in der Ruhensmitteilung hinzuweisen.
 
 
 ##### § 86
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010501310)
 
 Wird während des Vorverfahrens der Verwaltungsakt abgeändert, so wird
 auch der neue Verwaltungsakt Gegenstand des Vorverfahrens; er ist der
@@ -2232,6 +2332,7 @@ mitzuteilen.
 
 
 ##### § 86a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009104125)
 
 (1) Widerspruch und Anfechtungsklage haben aufschiebende Wirkung. Das
 gilt auch bei rechtsgestaltenden und feststellenden Verwaltungsakten
@@ -2293,6 +2394,7 @@ entsprechend.
 
 
 ##### § 86b
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE009204311)
 
 (1) Das Gericht der Hauptsache kann auf Antrag
 
@@ -2339,10 +2441,12 @@ zulässig.
 
 
 #### Vierter Unterabschnitt - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001200314)
 
 
 
 ##### § 87
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010603160)
 
 (1) Die Klage ist binnen eines Monats nach Bekanntgabe des
 Verwaltungsakts zu erheben. Die Frist beträgt bei Bekanntgabe im
@@ -2356,6 +2460,7 @@ Bekanntgabe des Widerspruchsbescheids.
 
 
 ##### § 88
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010701310)
 
 (1) Ist ein Antrag auf Vornahme eines Verwaltungsakts ohne
 zureichenden Grund in angemessener Frist sachlich nicht beschieden
@@ -2373,6 +2478,7 @@ drei Monaten gilt.
 
 
 ##### § 89
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010800314)
 
 Die Klage ist an keine Frist gebunden, wenn die Feststellung der
 Nichtigkeit eines Verwaltungsakts oder die Feststellung des
@@ -2381,6 +2487,7 @@ Verwaltungsakts begehrt wird.
 
 
 ##### § 90
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE010901311)
 
 Die Klage ist bei dem zuständigen Gericht der Sozialgerichtsbarkeit
 schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
@@ -2388,6 +2495,7 @@ zu erheben.
 
 
 ##### § 91
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011000314)
 
 (1) Die Frist für die Erhebung der Klage gilt auch dann als gewahrt,
 wenn die Klageschrift innerhalb der Frist statt bei dem zuständigen
@@ -2402,6 +2510,7 @@ Sozialgerichtsbarkeit abzugeben.
 
 
 ##### § 92
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011102311)
 
 (1) Die Klage muss den Kläger, den Beklagten und den Gegenstand des
 Klagebegehrens bezeichnen. Zur Bezeichnung des Beklagten genügt die
@@ -2421,6 +2530,7 @@ Wiedereinsetzung in den vorigen Stand gilt § 67 entsprechend.
 
 
 ##### § 93
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011202311)
 
 Der Klageschrift, den sonstigen Schriftsätzen und nach Möglichkeit den
 Unterlagen sind vorbehaltlich des § 65a Absatz 5 Satz 3 Abschriften
@@ -2431,6 +2541,7 @@ Kläger eingezogen werden.
 
 
 ##### § 94
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011302311)
 
 Durch die Erhebung der Klage wird die Streitsache rechtshängig. In
 Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes
@@ -2439,6 +2550,7 @@ mit Zustellung der Klage rechtshängig.
 
 
 ##### § 95
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011400314)
 
 Hat ein Vorverfahren stattgefunden, so ist Gegenstand der Klage der
 ursprüngliche Verwaltungsakt in der Gestalt, die er durch den
@@ -2446,6 +2558,7 @@ Widerspruchsbescheid gefunden hat.
 
 
 ##### § 96
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011501160)
 
 (1) Nach Klageerhebung wird ein neuer Verwaltungsakt nur dann
 Gegenstand des Klageverfahrens, wenn er nach Erlass des
@@ -2457,11 +2570,13 @@ mitzuteilen, bei dem das Verfahren anhängig ist.
 
 
 ##### § 97
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011603310)
 
 (aufgehoben)
 
 
 ##### § 98
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011701309)
 
 Für die sachliche und örtliche Zuständigkeit gelten die §§ 17, 17a und
 17b Abs. 1, Abs. 2 Satz 1 des Gerichtsverfassungsgesetzes
@@ -2470,6 +2585,7 @@ Gerichtsverfassungsgesetzes sind unanfechtbar.
 
 
 ##### § 99
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011800314)
 
 (1) Eine Änderung der Klage ist nur zulässig, wenn die übrigen
 Beteiligten einwilligen oder das Gericht die Änderung für sachdienlich
@@ -2502,6 +2618,7 @@ zuzulassen sei, ist unanfechtbar.
 
 
 ##### § 100
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE011900314)
 
 Bei dem Gericht der Klage kann eine Widerklage erhoben werden, wenn
 der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch oder
@@ -2509,6 +2626,7 @@ mit den gegen ihn vorgebrachten Verteidigungsmitteln zusammenhängt.
 
 
 ##### § 101
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012003125)
 
 (1) Um den geltend gemachten Anspruch vollständig oder zum Teil zu
 erledigen, können die Beteiligten zu Protokoll des Gerichts oder des
@@ -2525,6 +2643,7 @@ erledigt insoweit den Rechtsstreit in der Hauptsache.
 
 
 ##### § 102
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012102160)
 
 (1) Der Kläger kann die Klage bis zur Rechtskraft des Urteils
 zurücknehmen. Die Klagerücknahme erledigt den Rechtsstreit in der
@@ -2544,6 +2663,7 @@ ist unanfechtbar.
 
 
 ##### § 103
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012200314)
 
 Das Gericht erforscht den Sachverhalt von Amts wegen; die Beteiligten
 sind dabei heranzuziehen. Es ist an das Vorbringen und die
@@ -2551,6 +2671,7 @@ Beweisanträge der Beteiligten nicht gebunden.
 
 
 ##### § 104
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012304311)
 
 Der Vorsitzende übermittelt eine Abschrift der Klage an die übrigen
 Beteiligten; in Verfahren nach dem Siebzehnten Titel des
@@ -2572,6 +2693,7 @@ Originalverwaltungsakten gleich, sofern nicht das Gericht die
 
 
 ##### § 105
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023301307)
 
 (1) Das Gericht kann ohne mündliche Verhandlung durch Gerichtsbescheid
 entscheiden, wenn die Sache keine besonderen Schwierigkeiten
@@ -2596,6 +2718,7 @@ Gerichtsbescheids folgt und dies in seiner Entscheidung feststellt.
 
 
 ##### § 106
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012501310)
 
 (1) Der Vorsitzende hat darauf hinzuwirken, daß Formfehler beseitigt,
 unklare Anträge erläutert, sachdienliche Anträge gestellt, ungenügende
@@ -2642,6 +2765,7 @@ entsprechend.
 
 
 ##### § 106a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE024900160)
 
 (1) Der Vorsitzende kann dem Kläger eine Frist setzen zur Angabe der
 Tatsachen, durch deren Berücksichtigung oder Nichtberücksichtigung im
@@ -2681,6 +2805,7 @@ den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
 
 ##### § 107
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012601311)
 
 Den Beteiligten ist nach Anordnung des Vorsitzenden entweder eine
 Abschrift des Protokolls der Beweisaufnahme oder deren Inhalt
@@ -2688,6 +2813,7 @@ mitzuteilen.
 
 
 ##### § 108
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012700314)
 
 Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung
 Schriftsätze einreichen. Die Schriftsätze sind den übrigen Beteiligten
@@ -2695,6 +2821,7 @@ von Amts wegen mitzuteilen.
 
 
 ##### § 109
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012804125)
 
 (1) Auf Antrag des Versicherten, des Menschen mit Behinderungen, des
 Berechtigten nach dem Vierzehnten Buch Sozialgesetzbuch, des
@@ -2712,6 +2839,7 @@ vorgebracht worden ist.
 
 
 ##### § 110
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE012902125)
 
 (1) Der Vorsitzende bestimmt Ort und Zeit der mündlichen Verhandlung
 und teilt sie den Beteiligten in der Regel zwei Wochen vorher mit. Die
@@ -2726,6 +2854,7 @@ ist nicht anzuwenden.
 
 
 ##### § 110a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025801125)
 
 (1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit
 ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung
@@ -2763,6 +2892,7 @@ Absatz 1 Satz 3 der Zivilprozessordnung.
 
 
 ##### § 111
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013003125)
 
 (1) Der Vorsitzende kann das persönliche Erscheinen eines Beteiligten
 zur mündlichen Verhandlung anordnen sowie Zeugen und Sachverständige
@@ -2782,6 +2912,7 @@ ausreichend unterrichtet ist.
 
 
 ##### § 112
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013100314)
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung. Sie
 beginnt nach Aufruf der Sache mit der Darstellung des Sachverhalts.
@@ -2800,6 +2931,7 @@ beanstandet, so entscheidet das Gericht endgültig.
 
 
 ##### § 113
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013200314)
 
 (1) Das Gericht kann durch Beschluß mehrere bei ihm anhängige
 Rechtsstreitigkeiten derselben Beteiligten oder verschiedener
@@ -2813,6 +2945,7 @@ Amts wegen wieder aufgehoben werden.
 
 
 ##### § 114
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013302160)
 
 (1) Hängt die Entscheidung eines Rechtsstreits von einem familien-
 oder erbrechtlichen Verhältnis ab, so kann das Gericht das Verfahren
@@ -2843,6 +2976,7 @@ Strafverfahrens anordnen.
 
 
 ##### § 114a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025000160)
 
 (1) Ist die Rechtmäßigkeit einer behördlichen Maßnahme Gegenstand von
 mehr als 20 Verfahren an einem Gericht, kann das Gericht eines oder
@@ -2871,6 +3005,7 @@ hätte. Die Beteiligten sind über das Rechtsmittel zu belehren.
 
 
 ##### § 115
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013401301)
 
 Ist ein bei der Verhandlung Beteiligter zur Aufrechterhaltung der
 Ordnung von dem Ort der Verhandlung entfernt worden, so kann gegen ihn
@@ -2881,6 +3016,7 @@ geschehen war.
 
 
 ##### § 116
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013500314)
 
 Die Beteiligten werden von allen Beweisaufnahmeterminen benachrichtigt
 und können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
@@ -2889,12 +3025,14 @@ beanstandet, so entscheidet das Gericht.
 
 
 ##### § 117
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013600314)
 
 Das Gericht erhebt Beweis in der mündlichen Verhandlung, soweit die
 Beweiserhebung nicht einen besonderen Termin erfordert.
 
 
 ##### § 118
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013702311)
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind auf die
 Beweisaufnahme die §§ 358 bis 363, 365 bis 378, 380 bis 386, 387 Abs.
@@ -2914,6 +3052,7 @@ Anordnung vereitelt wird.
 
 
 ##### § 119
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013801310)
 
 (1) Eine Behörde ist zur Vorlage von Urkunden oder Akten, zur
 Übermittlung elektronischer Dokumente und zu Auskünften nicht
@@ -2933,6 +3072,7 @@ obersten Landesbehörde vorliegen.
 
 
 ##### § 120
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE013906125)
 
 (1) Die Beteiligten haben das Recht der Einsicht in die Akten, soweit
 die übermittelnde Behörde dieses nicht ausschließt. Beteiligte können
@@ -2980,6 +3120,7 @@ mitgeteilt.
 
 
 ##### § 121
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014000314)
 
 Nach genügender Erörterung der Streitsache erklärt der Vorsitzende die
 mündliche Verhandlung für geschlossen. Das Gericht kann die
@@ -2987,22 +3128,26 @@ Wiedereröffnung beschließen.
 
 
 ##### § 122
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014102125)
 
 Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozessordnung
 entsprechend, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 #### Fünfter Unterabschnitt - Urteile und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001300314)
 
 
 
 ##### § 123
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014200314)
 
 Das Gericht entscheidet über die vom Kläger erhobenen Ansprüche, ohne
 an die Fassung der Anträge gebunden zu sein.
 
 
 ##### § 124
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014300314)
 
 (1) Das Gericht entscheidet, soweit nichts anderes bestimmt ist, auf
 Grund mündlicher Verhandlung.
@@ -3015,12 +3160,14 @@ mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
 
 ##### § 125
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014400314)
 
 Über die Klage wird, soweit nichts anderes bestimmt ist, durch Urteil
 entschieden.
 
 
 ##### § 126
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014500314)
 
 Das Gericht kann, sofern in der Ladung auf diese Möglichkeit
 hingewiesen worden ist, nach Lage der Akten entscheiden, wenn in einem
@@ -3029,6 +3176,7 @@ Beteiligten die erschienenen Beteiligten es beantragen.
 
 
 ##### § 127
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014600314)
 
 Ist ein Beteiligter nicht benachrichtigt worden, daß in der mündlichen
 Verhandlung eine Beweiserhebung stattfindet, und ist er in der
@@ -3037,6 +3185,7 @@ Termin ein ihm ungünstiges Urteil nicht erlassen werden.
 
 
 ##### § 128
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014700314)
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis
 des Verfahrens gewonnenen Überzeugung. In dem Urteil sind die Gründe
@@ -3047,12 +3196,14 @@ werden, zu denen sich die Beteiligten äußern konnten.
 
 
 ##### § 129
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014800314)
 
 Das Urteil kann nur von den Richtern gefällt werden, die an der dem
 Urteil zugrunde liegenden Verhandlung teilgenommen haben.
 
 
 ##### § 130
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE014901310)
 
 (1) Wird gemäß § 54 Abs. 4 oder 5 eine Leistung in Geld begehrt, auf
 die ein Rechtsanspruch besteht, so kann auch zur Leistung nur dem
@@ -3066,6 +3217,7 @@ dies sachdienlich ist.
 
 
 ##### § 131
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015003160)
 
 (1) Wird ein Verwaltungsakt oder ein Widerspruchsbescheid, der bereits
 vollzogen ist, aufgehoben, so kann das Gericht aussprechen, daß und in
@@ -3112,6 +3264,7 @@ sechs Monaten seit Eingang der Akten der Behörde bei Gericht ergehen.
 
 
 ##### § 132
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015101125)
 
 (1) Das Urteil ergeht im Namen des Volkes. Es wird grundsätzlich in
 dem Termin verkündet, in dem die mündliche Verhandlung geschlossen
@@ -3128,6 +3281,7 @@ mitgeteilt werden, wenn Beteiligte anwesend sind.
 
 
 ##### § 133
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015200314)
 
 Bei Urteilen, die nicht auf Grund mündlicher Verhandlung ergehen, wird
 die Verkündung durch Zustellung ersetzt. Dies gilt für die Verkündung
@@ -3135,6 +3289,7 @@ von Beschlüssen entsprechend.
 
 
 ##### § 134
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015302310)
 
 (1) Das Urteil ist vom Vorsitzenden zu unterschreiben.
 
@@ -3152,11 +3307,13 @@ verbinden.
 
 
 ##### § 135
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015401310)
 
 Das Urteil ist den Beteiligten unverzüglich zuzustellen.
 
 
 ##### § 136
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015504311)
 
 (1) Das Urteil enthält
 
@@ -3206,6 +3363,7 @@ verzichten.
 
 
 ##### § 137
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015608125)
 
 Die Ausfertigungen des Urteils sind von dem Urkundsbeamten der
 Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu
@@ -3223,6 +3381,7 @@ Geschäftsstelle zu versehen.
 
 
 ##### § 138
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015701310)
 
 Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im
 Urteil sind jederzeit von Amts wegen zu berichtigen. Der Vorsitzende
@@ -3234,6 +3393,7 @@ mit dem Urteil untrennbar zu verbinden.
 
 
 ##### § 139
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015801310)
 
 (1) Enthält der Tatbestand des Urteils andere Unrichtigkeiten oder
 Unklarheiten, so kann die Berichtigung binnen zwei Wochen nach
@@ -3251,6 +3411,7 @@ elektronisch abzufassen und mit dem Urteil untrennbar zu verbinden.
 
 
 ##### § 140
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE015901311)
 
 (1) Hat das Urteil einen von einem Beteiligten erhobenen Anspruch oder
 den Kostenpunkt ganz oder teilweise übergangen, so wird es auf Antrag
@@ -3274,6 +3435,7 @@ ist mit dem Urteil untrennbar zu verbinden.
 
 
 ##### § 141
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE016002125)
 
 (1) Rechtskräftige Urteile binden, soweit über den Streitgegenstand
 entschieden worden ist,
@@ -3295,6 +3457,7 @@ Aufrechnung geltend gemacht worden ist.
 
 
 ##### § 142
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE016101310)
 
 (1) Für Beschlüsse gelten § 128 Abs. 1 Satz 1, die §§ 134 und 138,
 nach mündlicher Verhandlung auch die §§ 129, 132, 135 und 136
@@ -3314,23 +3477,28 @@ Geschäftsstelle zu unterschreiben.
 
 
 #### Sechster Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG002401160)
 
 
 
 ##### § 142a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025402160)
 
 (weggefallen)
 
 
 ### Zweiter Abschnitt - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001400314)
 
 
 
 #### Erster Unterabschnitt - Berufung
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001500314)
 
 
 
 ##### § 143
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE016200314)
 
 Gegen die Urteile der Sozialgerichte findet die Berufung an das
 Landessozialgericht statt, soweit sich aus den Vorschriften dieses
@@ -3338,6 +3506,7 @@ Unterabschnitts nichts anderes ergibt.
 
 
 ##### § 144
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE016304160)
 
 (1) Die Berufung bedarf der Zulassung in dem Urteil des Sozialgerichts
 oder auf Beschwerde durch Beschluß des Landessozialgerichts, wenn der
@@ -3380,6 +3549,7 @@ Verfahrens handelt.
 
 
 ##### § 145
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE016404311)
 
 (1) Die Nichtzulassung der Berufung durch das Sozialgericht kann durch
 Beschwerde angefochten werden. Die Beschwerde ist bei dem
@@ -3404,10 +3574,12 @@ in dem Beschluß hinzuweisen.
 
 
 ##### (XXXX) §§ 146 bis 150 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE016501305)
 
 
 
 ##### § 151
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017001311)
 
 (1) Die Berufung ist bei dem Landessozialgericht innerhalb eines
 Monats nach Zustellung des Urteils schriftlich oder zu Protokoll des
@@ -3425,6 +3597,7 @@ Tatsachen und Beweismittel angeben.
 
 
 ##### § 152
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017101311)
 
 (1) Die Geschäftsstelle des Landessozialgerichts hat unverzüglich,
 nachdem die Berufungsschrift eingereicht ist, von der Geschäftsstelle
@@ -3439,6 +3612,7 @@ zurückzusenden.
 
 
 ##### § 153
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017202160)
 
 (1) Für das Verfahren vor den Landessozialgerichten gelten die
 Vorschriften über das Verfahren im ersten Rechtszug mit Ausnahme der
@@ -3467,6 +3641,7 @@ mit den ehrenamtlichen Richtern entscheidet.
 
 
 ##### § 154
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017304125)
 
 (1) Die Berufung und die Beschwerde nach § 144 Abs. 1 haben
 aufschiebende Wirkung, soweit die Klage nach § 86a Aufschub bewirkt.
@@ -3479,6 +3654,7 @@ angefochtenen Urteils nachgezahlt werden sollen.
 
 
 ##### § 155
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017403301)
 
 (1) Der Vorsitzende kann seine Aufgaben nach den §§ 104, 106 bis 108
 und 120 einem Berufsrichter des Senats übertragen.
@@ -3516,6 +3692,7 @@ des Vorsitzenden.
 
 
 ##### § 156
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017502308)
 
 (1) Die Berufung kann bis zur Rechtskraft des Urteils oder des nach §
 153 Abs. 4 oder § 158 Satz 2 ergangenen Beschlusses zurückgenommen
@@ -3535,6 +3712,7 @@ Kosten entscheidet das Gericht auf Antrag durch Beschluß.
 
 
 ##### § 157
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017600314)
 
 Das Landessozialgericht prüft den Streitfall im gleichen Umfang wie
 das Sozialgericht. Es hat auch neu vorgebrachte Tatsachen und
@@ -3542,6 +3720,7 @@ Beweismittel zu berücksichtigen.
 
 
 ##### § 157a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025100160)
 
 (1) Neue Erklärungen und Beweismittel, die im ersten Rechtszug
 entgegen einer hierfür gesetzten Frist (§ 106a Abs. 1 und 2) nicht
@@ -3553,6 +3732,7 @@ zurückgewiesen hat, bleiben auch im Berufungsverfahren ausgeschlossen.
 
 
 ##### § 158
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017703311)
 
 Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist
 oder nicht schriftlich oder nicht in elektronischer Form oder nicht zu
@@ -3564,6 +3744,7 @@ Die Beteiligten sind über dieses Rechtsmittel zu belehren.
 
 
 ##### § 159
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017801308)
 
 (1) Das Landessozialgericht kann durch Urteil die angefochtene
 Entscheidung aufheben und die Sache an das Sozialgericht
@@ -3584,10 +3765,12 @@ Aufhebung zugrunde gelegt ist, seiner Entscheidung zugrunde zu legen.
 
 
 #### Zweiter Unterabschnitt - Revision
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001600314)
 
 
 
 ##### § 160
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE017903160)
 
 (1) Gegen das Urteil eines Landessozialgerichts und gegen den
 Beschluss nach § 55a Absatz 5 Satz 1 steht den Beteiligten die
@@ -3620,6 +3803,7 @@ Bundessozialgerichts nach § 160a Abs. 4 Satz 1 zugelassen worden ist.
 
 
 ##### § 160a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018003160)
 
 (1) Die Nichtzulassung der Revision kann selbständig durch Beschwerde
 angefochten werden. Die Beschwerde ist bei dem Bundessozialgericht
@@ -3655,6 +3839,7 @@ zurückverweisen.
 
 
 ##### § 161
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018101305)
 
 (1) Gegen das Urteil eines Sozialgerichts steht den Beteiligten die
 Revision unter Übergehung der Berufungsinstanz zu, wenn der Gegner
@@ -3685,6 +3870,7 @@ zugelassen hat.
 
 
 ##### § 162
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018200314)
 
 Die Revision kann nur darauf gestützt werden, daß das angefochtene
 Urteil auf der Verletzung einer Vorschrift des Bundesrechts oder einer
@@ -3694,6 +3880,7 @@ hinaus erstreckt.
 
 
 ##### § 163
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018300314)
 
 Das Bundessozialgericht ist an die in dem angefochtenen Urteil
 getroffenen tatsächlichen Feststellungen gebunden, außer wenn in bezug
@@ -3702,6 +3889,7 @@ vorgebracht sind.
 
 
 ##### § 164
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018402308)
 
 (1) Die Revision ist bei dem Bundessozialgericht innerhalb eines
 Monats nach Zustellung des Urteils oder des Beschlusses über die
@@ -3722,6 +3910,7 @@ bezeichnen, die den Mangel ergeben.
 
 
 ##### § 165
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018501305)
 
 Für die Revision gelten die Vorschriften über die Berufung
 entsprechend, soweit sich aus diesem Unterabschnitt nichts anderes
@@ -3730,16 +3919,19 @@ Anwendung.
 
 
 ##### § 166 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018605301)
 
 -
 
 
 ##### § 167
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018700314)
 
 -
 
 
 ##### § 168
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018804125)
 
 Klageänderungen und Beiladungen sind im Revisionsverfahren unzulässig.
 Dies gilt nicht für die Beiladung der Bundesrepublik Deutschland in
@@ -3749,6 +3941,7 @@ Beizuladende zustimmt, für Beiladungen nach § 75 Abs. 2.
 
 
 ##### § 169
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE018900314)
 
 Das Bundessozialgericht hat zu prüfen, ob die Revision statthaft und
 ob sie in der gesetzlichen Form und Frist eingelegt und begründet
@@ -3759,6 +3952,7 @@ Richter.
 
 
 ##### § 170
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019001310)
 
 (1) Ist die Revision unbegründet, so weist das Bundessozialgericht die
 Revision zurück. Ergeben die Entscheidungsgründe zwar eine
@@ -3794,6 +3988,7 @@ rechtliche Beurteilung des Revisionsgerichts zugrunde zu legen.
 
 
 ##### § 170a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019101310)
 
 Eine Abschrift des Urteils ist den ehrenamtlichen Richtern, die bei
 der Entscheidung mitgewirkt haben, vor Übermittlung an die
@@ -3803,6 +3998,7 @@ erkennenden Senats äußern.
 
 
 ##### § 171
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019201308)
 
 Wird während des Revisionsverfahrens der angefochtene Verwaltungsakt
 durch einen neuen abgeändert oder ersetzt, so gilt der neue
@@ -3814,10 +4010,12 @@ wird.
 
 
 #### Dritter Unterabschnitt - Beschwerde, Erinnerung, Anhörungsrüge
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001701301)
 
 
 
 ##### § 172
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019305311)
 
 (1) Gegen die Entscheidungen der Sozialgerichte mit Ausnahme der
 Urteile und gegen Entscheidungen der Vorsitzenden dieser Gerichte
@@ -3865,6 +4063,7 @@ werden.
 
 
 ##### § 173
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019402311)
 
 Die Beschwerde ist binnen eines Monats nach Bekanntgabe der
 Entscheidung beim Sozialgericht schriftlich oder zu Protokoll des
@@ -3878,11 +4077,13 @@ machen.
 
 
 ##### § 174 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019501160)
 
 -
 
 
 ##### § 175
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019600314)
 
 Die Beschwerde hat aufschiebende Wirkung, wenn sie die Festsetzung
 eines Ordnungs- oder Zwangsmittels zum Gegenstand hat. Soweit dieses
@@ -3894,12 +4095,14 @@ angefochtenen Entscheidung einstweilen auszusetzen ist.
 
 
 ##### § 176
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019700314)
 
 Über die Beschwerde entscheidet das Landessozialgericht durch
 Beschluß.
 
 
 ##### § 177
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019802305)
 
 Entscheidungen des Landessozialgerichts, seines Vorsitzenden oder des
 Berichterstatters können vorbehaltlich des § 160a Abs. 1 dieses
@@ -3909,6 +4112,7 @@ werden.
 
 
 ##### § 178
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE019900314)
 
 Gegen die Entscheidungen des ersuchten oder beauftragten Richters oder
 des Urkundsbeamten kann binnen eines Monats nach Bekanntgabe das
@@ -3917,6 +4121,7 @@ Gericht angerufen werden, das endgültig entscheidet. Die §§ 173 bis
 
 
 ##### § 178a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023803125)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -3966,10 +4171,12 @@ anzuwenden.
 
 
 ### Dritter Abschnitt - Wiederaufnahme des Verfahrens und besondere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001800314)
 
 
 
 #### § 179
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020000314)
 
 (1) Ein rechtskräftig beendetes Verfahren kann entsprechend den
 Vorschriften des Vierten Buches der Zivilprozeßordnung wieder
@@ -3985,6 +4192,7 @@ zurückzuerstatten sind.
 
 
 #### § 180
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020102125)
 
 (1) Eine Wiederaufnahme des Verfahrens ist auch zulässig, wenn
 
@@ -4026,6 +4234,7 @@ entsprechend.
 
 
 #### § 181
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020201310)
 
 Will das Gericht die Klage gegen einen Versicherungsträger ablehnen,
 weil es einen anderen Versicherungsträger für leistungspflichtig hält,
@@ -4038,6 +4247,7 @@ gilt § 180 Abs. 2 und Abs. 4 und 5.
 
 
 #### § 182
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020302125)
 
 (1) Hat das Bundessozialgericht oder ein Landessozialgericht die
 Leistungspflicht eines Versicherungsträgers rechtskräftig verneint,
@@ -4052,6 +4262,7 @@ Entschädigungsrecht streitig ist.
 
 
 #### § 182a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023400307)
 
 (1) Beitragsansprüche von Unternehmen der privaten Pflegeversicherung
 nach dem Elften Buch Sozialgesetzbuch können nach den Vorschriften der
@@ -4068,14 +4279,17 @@ dieses Gesetzes zu verfahren. Für die Entscheidung des Sozialgerichts
 
 
 ### Vierter Abschnitt - Kosten und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG001900314)
 
 
 
 #### Erster Unterabschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG002000314)
 
 
 
 ##### § 183
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020406125)
 
 Das Verfahren vor den Gerichten der Sozialgerichtsbarkeit ist für
 Versicherte, Leistungsempfänger einschließlich
@@ -4094,6 +4308,7 @@ nach dieser Vorschrift gilt nicht in einem Verfahren wegen eines
 
 
 ##### § 184
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020502310)
 
 (1) Kläger und Beklagte, die nicht zu den in § 183 genannten Personen
 gehören, haben für jede Streitsache eine Gebühr zu entrichten. Die
@@ -4127,6 +4342,7 @@ festgesetzt.
 
 
 ##### § 185
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020601305)
 
 Die Gebühr wird fällig, sobald die Streitsache durch Zurücknahme des
 Rechtsbehelfs, durch Vergleich, Anerkenntnis, Beschluß oder durch
@@ -4134,6 +4350,7 @@ Urteil erledigt ist.
 
 
 ##### § 186
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020700314)
 
 Wird eine Sache nicht durch Urteil erledigt, so ermäßigt sich die
 Gebühr auf die Hälfte. Die Gebühr entfällt, wenn die Erledigung auf
@@ -4141,18 +4358,21 @@ einer Rechtsänderung beruht.
 
 
 ##### § 187
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020801310)
 
 Sind an einer Streitsache mehrere nach § 184 Abs. 1 Gebührenpflichtige
 beteiligt, so haben sie die Gebühr zu gleichen Teilen zu entrichten.
 
 
 ##### § 188
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE020900314)
 
 Wird ein durch rechtskräftiges Urteil abgeschlossenes Verfahren wieder
 aufgenommen, so ist das neue Verfahren eine besondere Streitsache.
 
 
 ##### § 189
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021001310)
 
 (1) Die Gebühren für die Streitsachen werden in einem Verzeichnis
 zusammengestellt. Die Mitteilung eines Auszugs aus diesem Verzeichnis
@@ -4167,6 +4387,7 @@ entscheidet.
 
 
 ##### § 190
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021100314)
 
 Die Präsidenten und die aufsichtführenden Richter der Gerichte der
 Sozialgerichtsbarkeit sind befugt, eine Gebühr, die durch unrichtige
@@ -4177,6 +4398,7 @@ die in keinem Verhältnis zu der Einnahme stehen.
 
 
 ##### § 191
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021200314)
 
 Ist das persönliche Erscheinen eines Beteiligten angeordnet worden, so
 werden ihm auf Antrag bare Auslagen und Zeitverlust wie einem Zeugen
@@ -4185,6 +4407,7 @@ und das Gericht das Erscheinen für geboten hält.
 
 
 ##### § 192
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021304308)
 
 (1) Das Gericht kann im Urteil oder, wenn das Verfahren anders beendet
 wird, durch Beschluss einem Beteiligten ganz oder teilweise die Kosten
@@ -4221,6 +4444,7 @@ ergeht durch gesonderten Beschluss.
 
 
 ##### § 193
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021405301)
 
 (1) Das Gericht hat im Urteil zu entscheiden, ob und in welchem Umfang
 die Beteiligten einander Kosten zu erstatten haben. Ist ein
@@ -4240,6 +4464,7 @@ genannten Gebührenpflichtigen.
 
 
 ##### § 194
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021500314)
 
 Sind mehrere Beteiligte kostenpflichtig, so gilt § 100 der
 Zivilprozeßordnung entsprechend. Die Kosten können ihnen als
@@ -4248,6 +4473,7 @@ gegenüber nur einheitlich entschieden werden kann.
 
 
 ##### § 195
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021600314)
 
 Wird der Rechtsstreit durch gerichtlichen Vergleich erledigt und haben
 die Beteiligten keine Bestimmung über die Kosten getroffen, so trägt
@@ -4255,11 +4481,13 @@ jeder Beteiligte seine Kosten.
 
 
 ##### § 196
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021700314)
 
 (weggefallen)
 
 
 ##### § 197
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021801310)
 
 (1) Auf Antrag der Beteiligten oder ihrer Bevollmächtigten setzt der
 Urkundsbeamte des Gerichts des ersten Rechtszugs den Betrag der zu
@@ -4272,6 +4500,7 @@ endgültig entscheidet.
 
 
 ##### § 197a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023603311)
 
 (1) Gehört in einem Rechtszug weder der Kläger noch der Beklagte zu
 den in § 183 genannten Personen oder handelt es sich um ein Verfahren
@@ -4297,6 +4526,7 @@ Trägern beteiligt sind.
 
 
 ##### § 197b
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025202311)
 
 Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das
 Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz
@@ -4306,10 +4536,12 @@ Bundessozialgerichts.
 
 
 #### Zweiter Unterabschnitt - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG002100314)
 
 
 
 ##### § 198
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE021901310)
 
 (1) Für die Vollstreckung gilt das Achte Buch der Zivilprozeßordnung
 entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.
@@ -4322,6 +4554,7 @@ anzuwenden.
 
 
 ##### § 199
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022002310)
 
 (1) Vollstreckt wird
 
@@ -4365,6 +4598,7 @@ der Zustellung eines vollständigen Urteils gleichsteht.
 
 
 ##### § 200
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022100314)
 
 (1) Soll zugunsten einer Bundesbehörde oder einer bundesunmittelbaren
 Körperschaft des öffentlichen Rechts oder einer bundesunmittelbaren
@@ -4379,6 +4613,7 @@ diesem Fall bestimmt das Land die Vollstreckungsbehörde.
 
 
 ##### § 201
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022201311)
 
 (1) Kommt die Behörde in den Fällen des § 131 der im Urteil
 auferlegten Verpflichtung nicht nach, so kann das Gericht des ersten
@@ -4390,10 +4625,12 @@ festsetzen. Das Zwangsgeld kann wiederholt festgesetzt werden.
 
 
 ## Dritter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNG002200314)
 
 
 
 ### § 202
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022309125)
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
@@ -4417,17 +4654,20 @@ Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
 
 
 ### § 203
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022400314)
 
 -
 
 
 ### § 203a
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022500314)
 
 Die Senate des Bundessozialgerichts können Sitzungen auch in Berlin
 abhalten.
 
 
 ### § 204
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022600314)
 
 Vor die Gerichte der Sozialgerichtsbarkeit gehören auch
 Streitigkeiten, für welche durch Rechtsverordnung die Zuständigkeit
@@ -4436,6 +4676,7 @@ worden war.
 
 
 ### § 205
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022700314)
 
 Erfolgt die Vernehmung oder die Vereidigung von Zeugen und
 Sachverständigen nach dem Zehnten Buch Sozialgesetzbuch durch das
@@ -4446,6 +4687,7 @@ Buch Sozialgesetzbuch entscheidet das Sozialgericht durch Beschluß.
 
 
 ### § 206
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE024400301)
 
 (1) Auf Verfahren in Angelegenheiten der Sozialhilfe und des
 Asylbewerberleistungsgesetzes, die nicht auf die Gerichte der
@@ -4463,6 +4705,7 @@ zuständig.
 
 
 ### § 207
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025502311)
 
 Verfahren in Streitigkeiten über Entscheidungen von Vergabekammern,
 die Rechtsbeziehungen nach § 69 des Fünften Buches Sozialgesetzbuch
@@ -4477,6 +4720,7 @@ gelten nicht für Verfahren, die sich in der Hauptsache erledigt haben.
 
 
 ### § 208
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE025701311)
 
 (1) Ehrenamtliche Richter, die vor dem 1. Januar 2012 nach § 23 Absatz
 1 Satz 2 als Mitglieder des Ausschusses der ehrenamtlichen Richter
@@ -4495,12 +4739,14 @@ Kammern an.
 
 
 ### § 209
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE026100311)
 
 § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
 entsprechend.
 
 
 ### § 210
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE026303360)
 
 (1) Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen
 nach § 133 des Neunten Buches Sozialgesetzbuch, die am 23. Juni 2020
@@ -4532,6 +4778,7 @@ Verfahren, die sich in der Hauptsache erledigt haben.
 
 
 ### § 211
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE026401125)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -4561,10 +4808,12 @@ für die Sozialgerichtsbarkeit zuständigen obersten Landesbehörden
 
 
 ### (XXXX) §§ 212 bis 217 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022808125)
 
 
 
 ### § 218
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE022900314)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -4576,6 +4825,7 @@ enthaltenen Ermächtigungen erlassen werden, gelten im Land Berlin nach
 
 
 ### § 219
+[Direktlink](https://www.gesetze-im-internet.de/sgg/BJNR012390953.html#BJNR012390953BJNE023001310)
 
 Die Länder können Abweichungen von den Vorschriften des § 85 Abs. 2
 Nr. 1 zulassen.

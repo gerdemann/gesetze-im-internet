@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ukratzustano/BJNR14F0A0024.html#BJNR14F0A0024BJNE000100000)
 
 Auf Grund von
 
@@ -55,6 +56,7 @@ ordnet der Unabhängige Kontrollrat an:
 
 
 ## § 1 Übertragung von Zuständigkeiten in Personalsachen auf das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/ukratzustano/BJNR14F0A0024.html#BJNR14F0A0024BJNE000200000)
 
 (1) Gemäß § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes, § 12 Absatz 2 Satz 3 des
@@ -102,6 +104,7 @@ Maßnahme selbst getroffen hat.
 
 
 ## § 2 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/ukratzustano/BJNR14F0A0024.html#BJNR14F0A0024BJNE000300000)
 
 (1) Der Unabhängige Kontrollrat behält sich vor, im Einzelfall die
 Befugnisse nach § 1 selbst auszuüben.
@@ -111,6 +114,7 @@ Unabhängigen Kontrollrat vorzulegen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ukratzustano/BJNR14F0A0024.html#BJNR14F0A0024BJNE000400000)
 
 Diese Anordnung tritt am Tag nach der Verkündung in Kraft.
 

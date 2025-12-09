@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000101000)
 
 
 ### § 1 Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000201000)
 
 Der Notar führt die folgenden Verzeichnisse:
 
@@ -36,6 +38,7 @@ Der Notar führt die folgenden Verzeichnisse:
 
 
 ### § 2 Akten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000300000)
 
 Der Notar führt die folgenden Akten:
 
@@ -64,6 +67,7 @@ Der Notar führt die folgenden Akten:
 
 
 ### § 3 Urschriften, Ausfertigungen, Abschriften und elektronische Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000401125)
 
 (1) Urschriften, Ausfertigungen und beglaubigte Abschriften von
 Urkunden sind so herzustellen, dass sie gut lesbar, dauerhaft und
@@ -82,6 +86,7 @@ Urkundenverzeichnisnummer und die Jahreszahl nicht angegeben werden.
 
 
 ### § 4 Form und Übergabe elektronischer Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000501125)
 
 (1) Ist die Verwendung eines bestimmten Dateiformats oder eines
 bestimmten Systems nicht durch andere oder aufgrund anderer
@@ -104,6 +109,7 @@ mitzuwirken, soweit dies erforderlich ist.
 
 
 ### § 5 Sicherheit elektronischer Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000602125)
 
 (1) Systeme, die zum Umgang mit elektronischen Aufzeichnungen
 verwendet werden, sind durch geeignete und dem Stand der Technik
@@ -129,6 +135,7 @@ entsprechend umgehen.
 
 
 ### § 6 Technische und organisatorische Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000700000)
 
 Die Bundesnotarkammer präzisiert durch Verhaltensregeln nach Artikel
 40 Absatz 2 Buchstabe h der Verordnung (EU) 2016/679 des Europäischen
@@ -145,9 +152,11 @@ verarbeitet werden.
 
 
 ## Abschnitt 2 - Urkundenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000201000)
 
 
 ### § 7 Urkundenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000802125)
 
 (1) In das Urkundenverzeichnis einzutragen sind
 
@@ -242,6 +251,7 @@ verarbeitet werden.
 
 
 ### § 8 Führung des Urkundenverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE000900000)
 
 (1) Das Urkundenverzeichnis wird getrennt nach Kalenderjahren geführt.
 Die Eintragungen jedes Kalenderjahres sind mit fortlaufenden Nummern
@@ -256,6 +266,7 @@ zu kennzeichnen.
 
 
 ### § 9 Angaben im Urkundenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001000000)
 
 Die Eintragung im Urkundenverzeichnis enthält folgende Angaben:
 
@@ -289,6 +300,7 @@ Die Eintragung im Urkundenverzeichnis enthält folgende Angaben:
 
 
 ### § 10 Ortsangabe
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001100000)
 
 Ist das Amtsgeschäft in der Geschäftsstelle vorgenommen worden, genügt
 als Ortsangabe die Angabe „Geschäftsstelle“. Andernfalls ist die
@@ -298,6 +310,7 @@ möglich die Anschrift anzugeben.
 
 
 ### § 11 Angaben zur Amtsperson
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001200000)
 
 Zur Amtsperson sind anzugeben
 
@@ -315,6 +328,7 @@ Zur Amtsperson sind anzugeben
 
 
 ### § 12 Angabe der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001302125)
 
 (1) Als Beteiligte sind einzutragen
 
@@ -404,6 +418,7 @@ und Absatz 3 gelten entsprechend.
 
 
 ### § 13 Angabe des Geschäftsgegenstands
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001401125)
 
 Der Geschäftsgegenstand ist stichwortartig und hinreichend
 unterscheidungskräftig zu bezeichnen. Hat die Bundesnotarkammer für
@@ -412,6 +427,7 @@ diese zu verwenden.
 
 
 ### § 14 Angabe der Urkundenart
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001502125)
 
 (1) Als Urkundenarten sind zu unterscheiden
 
@@ -442,6 +458,7 @@ genannten Urkundenarten weitere Differenzierungen vorsehen.
 
 
 ### § 15 Angaben zu Ausfertigungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001600000)
 
 Wird von einer Urkunde eine Ausfertigung erteilt, so ist zu vermerken,
 wem und an welchem Tag die Ausfertigung erteilt worden ist. Handelt es
@@ -451,6 +468,7 @@ vermerken.
 
 
 ### § 16 Weitere Angaben bei Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001701125)
 
 (1) Ist Gegenstand der Eintragung eine Verfügung von Todes wegen,
 deren Verbringung in die besondere amtliche Verwahrung der Notar
@@ -479,6 +497,7 @@ jeweils unter Angabe des Datums zu vermerken
 
 
 ### § 17 Sonstige Angaben
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001801125)
 
 (1) Wird durch eine Urkunde der Inhalt einer anderen Urkunde
 berichtigt, geändert, ergänzt oder aufgehoben, so ist bei den
@@ -492,6 +511,7 @@ vorsieht.
 
 
 ### § 18 Zeitpunkt der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE001900000)
 
 Eintragungen in das Urkundenverzeichnis sind zeitnah, spätestens 14
 Tage nach der Beurkundung oder der sonstigen Amtshandlung vorzunehmen.
@@ -500,6 +520,7 @@ unverzüglich nach Behebung der technischen Probleme vorzunehmen.
 
 
 ### § 19 Export der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002001125)
 
 (1) Nach Abschluss jedes Kalenderjahres sind die Eintragungen, die für
 dieses Kalenderjahr im Urkundenverzeichnis vorgenommen wurden, zeitnah
@@ -521,6 +542,7 @@ die Änderungen vorgenommen wurden.
 
 
 ### § 20 Persönliche Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002101125)
 
 (1) Durch den Notar persönlich bestätigt werden müssen
 
@@ -566,9 +588,11 @@ müssen dauerhaft dokumentiert werden.
 
 
 ## Abschnitt 3 - Verwahrungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000301000)
 
 
 ### § 21 Verwahrungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002201000)
 
 Verwahrungsmassen, die nach § 23 der Bundesnotarordnung und nach den
 §§ 57 und 62 des Beurkundungsgesetzes entgegengenommen werden, sind in
@@ -590,6 +614,7 @@ zugeflossen sind. Nicht eingetragen werden müssen
 
 
 ### § 22 Angaben im Verwahrungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002300000)
 
 Jede Eintragung einer Verwahrungsmasse enthält folgende Angaben:
 
@@ -618,6 +643,7 @@ Jede Eintragung einer Verwahrungsmasse enthält folgende Angaben:
 
 
 ### § 23 Massenummer und Buchungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002400000)
 
 (1) Die Massenummer setzt sich zusammen aus der Jahreszahl des Jahres,
 in dem die Verwahrungsmasse in das Verwahrungsverzeichnis eingetragen
@@ -628,12 +654,14 @@ in fortlaufender Reihenfolge vergeben.
 
 
 ### § 24 Angaben zu den Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002500000)
 
 Für die zu den Beteiligten einzutragenden Angaben gilt § 12 Absatz 2
 und 3 entsprechend.
 
 
 ### § 25 Angaben zu Einnahmen und Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002601125)
 
 (1) Die Einnahmen und die Ausgaben sind jeweils gesondert einzutragen
 für
@@ -675,6 +703,7 @@ vorsieht.
 
 
 ### § 26 Angaben zu Wertpapieren und Kostbarkeiten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002700000)
 
 (1) Wertpapiere sind unter Angabe der Gattung, des Nennbetrages, der
 Stückzahl, der Serien und der Nummern einzutragen. Zins-, Renten- und
@@ -686,6 +715,7 @@ Schätzwert einzutragen.
 
 
 ### § 27 Angaben zu Schecks und Sparbüchern
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002800000)
 
 (1) Werden Schecks oder Sparbücher als Zahlungsmittel
 entgegengenommen, so werden sie hierbei als Einnahme eingetragen.
@@ -709,6 +739,7 @@ zu verweisen.
 
 
 ### § 28 Angaben zu Notaranderkonten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE002901125)
 
 (1) Zu jedem Notaranderkonto sind einzutragen
 
@@ -741,6 +772,7 @@ vorsieht.
 
 
 ### § 29 Export der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003000000)
 
 (1) Nach Abschluss jedes Kalenderjahres sind alle Eintragungen im
 Verwahrungsverzeichnis, die sich auf ein Verwahrungsgeschäft beziehen,
@@ -752,6 +784,7 @@ qualifizierten elektronischen Signatur des Notars zu versehen.
 
 
 ### § 30 Persönliche Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003100000)
 
 (1) Änderungen und Zusätze, die eine Eintragung im
 Verwahrungsverzeichnis betreffen, müssen durch den Notar persönlich
@@ -787,9 +820,11 @@ Datum ihrer Vornahme müssen dauerhaft dokumentiert werden.
 
 
 ## Abschnitt 4 - Urkundensammlung, Erbvertragssammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000401000)
 
 
 ### § 31 Urkundensammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003202125)
 
 (1) In der Urkundensammlung sind zu verwahren
 
@@ -906,6 +941,7 @@ elektronischen Urschrift nicht möglich ist.
 
 
 ### § 32 Erbvertragssammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003300000)
 
 Erbverträge, deren besondere amtliche Verwahrung ausgeschlossen wurde,
 werden nach der Nummernfolge der Eintragungen im Urkundenverzeichnis
@@ -913,6 +949,7 @@ in der Erbvertragssammlung verwahrt.
 
 
 ### § 33 Sonderbestimmungen für Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003400000)
 
 (1) Wird ein Erbvertrag aus der notariellen Verwahrung zurückgegeben,
 so ist anstelle des Erbvertrags ein Vermerk mit den Angaben nach § 9
@@ -940,9 +977,11 @@ Urkundensammlung zu nehmen ist.
 
 
 ## Abschnitt 5 - Elektronische Urkundensammlung, Sondersammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000501000)
 
 
 ### § 34 Elektronische Urkundensammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003502125)
 
 (1) In der elektronischen Urkundensammlung werden die Dokumente in
 elektronischer Form verwahrt, die nach § 31 in der Urkundensammlung
@@ -1003,6 +1042,7 @@ vollständige oder auszugsweise Reinschrift von dieser verwahrt werden.
 
 
 ### § 35 Einstellung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003602125)
 
 (1) Dokumente, die nach § 34 in der elektronischen Urkundensammlung zu
 verwahren sind, sollen unverzüglich nach der Eintragung in das
@@ -1048,6 +1088,7 @@ ist, bekannt gemacht, so sind diese zu beachten.
 
 
 ### § 36 Löschung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003700000)
 
 Die Löschung von Dokumenten, die in der elektronischen
 Urkundensammlung verwahrt werden, muss durch den Notar persönlich
@@ -1056,6 +1097,7 @@ Ablauf der Aufbewahrungsfrist.
 
 
 ### § 37 Sondersammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003800000)
 
 (1) Wenn die Übertragung in ein elektronisches Dokument aufgrund der
 Beschaffenheit des Dokuments unmöglich oder unzumutbar ist,
@@ -1084,6 +1126,7 @@ um die Abschrift eines Dokuments aus der Sondersammlung handelt.
 
 
 ### § 38 Sonderbestimmungen für Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE003900000)
 
 (1) Wird den Beteiligten nach § 33 Absatz 4 die in der
 Urkundensammlung verwahrte beglaubigte Abschrift einer Verfügung von
@@ -1096,6 +1139,7 @@ Urkundensammlung aufzunehmen.
 
 
 ### § 39 Behandlung nach Ablauf der Aufbewahrungsfrist für die Urkundensammlung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004000000)
 
 Erhält oder erstellt der Notar in Papierform ein Dokument, für das die
 Frist zur Aufbewahrung in der Urkundensammlung bereits abgelaufen ist,
@@ -1108,9 +1152,11 @@ Aufbewahrung gebietet.
 
 
 ## Abschnitt 6 - Nebenakten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000600000)
 
 
 ### § 40 Nebenakten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004100000)
 
 (1) Zu allen Amtsgeschäften können Nebenakten geführt werden. Eine
 Nebenakte muss geführt werden, soweit dies zur Vornahme eines
@@ -1144,6 +1190,7 @@ geordnete Aktenführung sichergestellt ist.
 
 
 ### § 41 Sonderbestimmungen für Verwahrungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004201000)
 
 (1) Zu jedem Verwahrungsgeschäft ist eine Nebenakte zu führen. Die
 Führung von Sammelakten ist für Verwahrungsgeschäfte nicht zulässig.
@@ -1206,6 +1253,7 @@ werden müssen.
 
 
 ### § 42 Führung in Papierform
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004300000)
 
 Werden die Nebenakten in Papierform geführt, müssen die aufgenommenen
 Dokumente nachvollziehbar geordnet sein. Werden Sammelakten geführt,
@@ -1216,6 +1264,7 @@ werden können.
 
 
 ### § 43 Elektronische Führung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004400000)
 
 (1) Werden die Nebenakten elektronisch geführt, müssen die Nebenakten
 und die darin aufgenommenen Dokumente durch einen strukturierten
@@ -1232,6 +1281,7 @@ elektronischen Urkundensammlung vorgeschrieben ist.
 
 
 ### § 44 Führung in Papierform und elektronische Führung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004500000)
 
 (1) Werden die Nebenakten zu einzelnen Amtsgeschäften in Papierform
 und zu anderen Amtsgeschäften elektronisch geführt, so ist durch
@@ -1245,9 +1295,11 @@ Verfügbarkeit des Akteninhalts sicherzustellen.
 
 
 ## Abschnitt 7 - Sammelakte für Wechsel- und Scheckproteste
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000701000)
 
 
 ### § 45 Sammelakte
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004601000)
 
 (1) Beglaubigte Abschriften von Protesturkunden, die bei der Aufnahme
 von Wechsel- oder Scheckprotesten zurückbehalten wurden, und Vermerke,
@@ -1270,9 +1322,11 @@ oder in elektronischer Form erfolgen.
 
 
 ## Abschnitt 8 - Generalakte
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000800000)
 
 
 ### § 46 Generalakte
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004700000)
 
 (1) Für Vorgänge, die die Amtsführung im Allgemeinen betreffen, ist
 eine Generalakte zu führen. Sie enthält insbesondere
@@ -1331,6 +1385,7 @@ Inhaltsverzeichnis zu versehen.
 
 
 ### § 47 Elektronische Führung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004800000)
 
 (1) Soll die Generalakte teilweise in Papierform und teilweise
 elektronisch geführt werden, so ist die jeweilige Form auf ganze
@@ -1342,9 +1397,11 @@ entsprechend.
 
 
 ## Abschnitt 9 - Sonstige Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG000901000)
 
 
 ### § 48 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE004901000)
 
 Hilfsmittel dürfen so lange wie die dazugehörigen Unterlagen
 aufbewahrt werden. Für die Übergabe elektronisch geführter Hilfsmittel
@@ -1352,6 +1409,7 @@ gilt § 4 Absatz 2 entsprechend.
 
 
 ### § 49 Ersatzaufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005000000)
 
 (1) Ist ein Zugriff auf das Elektronische Urkundenarchiv oder auf
 andere für die elektronische Verzeichnisführung verwendete Systeme
@@ -1366,9 +1424,11 @@ löschen.
 
 
 ## Abschnitt 10 - Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG001001000)
 
 
 ### § 50 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005103125)
 
 (1) Für Unterlagen, die ab dem 1. Januar 2022 erstellt werden, gelten
 folgende Aufbewahrungsfristen:
@@ -1437,6 +1497,7 @@ erstellte Unterlagen nicht anzuwenden.
 
 
 ### § 51 Aufbewahrungsfristen für Altbestände
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005202125)
 
 (1) Für Unterlagen, die vom 1. Januar 1950 bis zum 31. Dezember 2021
 erstellt wurden, gelten folgende Aufbewahrungsfristen:
@@ -1519,6 +1580,7 @@ vor dem Ablauf des 31. Dezember 2049 enden.
 
 
 ### § 52 Sonderbestimmungen für Nebenakten
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005301125)
 
 (1) Werden die Nebenakten für mehrere Amtsgeschäfte gemeinsam geführt,
 darf ihr gesamter Inhalt bis zum Ablauf der Aufbewahrungsfrist des
@@ -1544,6 +1606,7 @@ zu dokumentieren.
 
 
 ### § 53 Sonderbestimmungen beim Übergang der Verwahrzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005400000)
 
 Ist die Zuständigkeit für die Verwahrung von Akten und Verzeichnissen
 auf eine andere Stelle übergegangen, so darf diese die Akten und
@@ -1572,12 +1635,15 @@ zuständig war.
 
 
 ## Abschnitt 11 - Elektronisches Urkundenarchiv und Elektronischer Notariatsaktenspeicher
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG001100125)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG001200125)
 
 
 #### § 54 Funktionen des Elektronischen Urkundenarchivs und des Elektronischen Notariatsaktenspeichers
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005500125)
 
 (1) Das Elektronische Urkundenarchiv ermöglicht
 
@@ -1633,6 +1699,7 @@ Barrierefreie-Informationstechnik-Verordnung berücksichtigen.
 
 
 #### § 55 Technische Zugangsberechtigung zum Elektronischen Urkundenarchiv und zum Elektronischen Notariatsaktenspeicher
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005600125)
 
 (1) Dem Notar ist eine technische Zugangsberechtigung für diejenigen
 elektronischen Aufzeichnungen zu gewähren, für deren Verwahrung er
@@ -1660,6 +1727,7 @@ entsprechend.
 
 
 #### § 56 Sicherungsmaßnahmen gegen Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005700125)
 
 Die Bundesnotarkammer hat geeignete technische und organisatorische
 Maßnahmen zur Verhinderung der missbräuchlichen Einräumung,
@@ -1668,6 +1736,7 @@ Zugangsberechtigungen zu treffen.
 
 
 #### § 57 Sichere informationstechnische Netze
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005800125)
 
 Das Elektronische Urkundenarchiv und der Elektronische
 Notariatsaktenspeicher sind nur über solche informationstechnischen
@@ -1679,9 +1748,11 @@ gesichert verbunden sind.
 
 
 ### Unterabschnitt 2 - Elektronisches Urkundenarchiv
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG001300125)
 
 
 #### § 58 Einräumung und Überleitung der technischen Zugangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE005900125)
 
 (1) Die technische Zugangsberechtigung zum Elektronischen
 Urkundenarchiv nach § 55 Absatz 1 soll in dem Fall, in dem zuvor eine
@@ -1715,6 +1786,7 @@ Vorstands unverzüglich nachzuholen.
 
 
 #### § 59 Wegfall und Entziehung der technischen Zugangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006000125)
 
 (1) Die Bundesnotarkammer hat im Zusammenwirken mit den Notarkammern
 sicherzustellen, dass eine technische Zugangsberechtigung endet, wenn
@@ -1760,6 +1832,7 @@ besteht.
 
 
 #### § 60 Dokumentation der technischen Zugangsberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006100125)
 
 (1) Die Bundesnotarkammer hat im Hinblick auf die Einräumung, die
 Überleitung und die Entziehung der technischen Zugangsberechtigungen
@@ -1780,6 +1853,7 @@ stellen.
 
 
 #### § 61 Datenschutz, Datensicherheit und Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006200125)
 
 (1) Zum Schutz und zur Gewährleistung der Sicherheit und
 Vertraulichkeit der im Elektronischen Urkundenarchiv gespeicherten und
@@ -1892,6 +1966,7 @@ des technischen Systems erforderlich ist.
 
 
 #### § 62 Maßnahmen bei technischer Handlungsunfähigkeit der Notarkammern
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006300125)
 
 Sind bei einer Notarkammer die technischen Voraussetzungen für die
 Wahrnehmung ihrer Aufgaben im Zusammenhang mit dem Elektronischen
@@ -1903,9 +1978,11 @@ werden.
 
 
 ### Unterabschnitt 3 - Elektronischer Notariatsaktenspeicher
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNG001400125)
 
 
 #### § 63 Nutzungsverhältnis und technische Zugangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006400125)
 
 (1) Für den Elektronischen Notariatsaktenspeicher kann die
 Bundesnotarkammer ein Nutzungsverhältnis nur mit Notaren,
@@ -1922,6 +1999,7 @@ einzuräumen.
 
 
 #### § 64 Zugang
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006500125)
 
 (1) Der Zugang zu den im Elektronischen Notariatsaktenspeicher
 gespeicherten Aufzeichnungen steht ausschließlich der für die
@@ -1939,6 +2017,7 @@ einräumen. Abweichend von § 57 muss der Zugang in diesem Fall nicht
 
 
 #### § 65 Dokumentation der technischen Zugangsberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006600125)
 
 Die Bundesnotarkammer kann vorsehen, dass die Einräumung, die
 Überleitung und die Entziehung der technischen Zugangsberechtigungen
@@ -1947,6 +2026,7 @@ des Satzes 1 gilt § 60 Absatz 2 entsprechend.
 
 
 #### § 66 Datenschutz, Datensicherheit und Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/notaktvv/BJNR224610020.html#BJNR224610020BJNE006700125)
 
 (1) Die Bundesnotarkammer hat ein Funktions- und Sicherheitskonzept
 für den Elektronischen Notariatsaktenspeicher zu erstellen und

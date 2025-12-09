@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000100000)
 
 Auf Grund des § 26 Absatz 8 Satz 1, auch in Verbindung mit § 51 Absatz
 4 Satz 1, des § 27 Absatz 6 Satz 1, auch in Verbindung mit § 51 Absatz
@@ -43,6 +44,7 @@ Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000300000)
 
 (1) Diese Verordnung regelt die Einzelheiten der allgemeinen
 Verhaltens- und Organisationspflichten, des Umgangs mit
@@ -57,6 +59,7 @@ Inland erbringen.
 
 
 ## § 2 Allgemeine Verhaltensregeln
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000401123)
 
 (1) Die Kriterien, nach denen die Bundesanstalt für
 Finanzdienstleistungsaufsicht beurteilt, ob OGAW-
@@ -130,6 +133,7 @@ Verfügung zu stellen.
 
 
 ## § 3 Interessenkonflikte
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000501123)
 
 (1) Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich
 
@@ -163,6 +167,7 @@ kostenfrei zur Verfügung zu stellen.
 
 
 ## § 4 Allgemeine Organisationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000601119)
 
 (1) Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die in §
 28 Absatz 1 des Kapitalanlagegesetzbuches genannten Verfahren und
@@ -215,6 +220,7 @@ Investmentvermögen auf Anfrage zur Verfügung zu stellen.
 
 
 ## § 5 Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000702119)
 
 (1) Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die
 Kriterien für
@@ -321,6 +327,7 @@ definiert:
 
 
 ## § 6 Liquiditätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000800000)
 
 Für OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die Kriterien
 für
@@ -337,6 +344,7 @@ entsprechend den Artikeln 46 bis 49 der Verordnung (EU) Nr. 231/2013.
 
 
 ## § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE000900000)
 
 Die Investment-Verhaltens- und Organisationsverordnung vom 28. Juni
 2011 (BGBl. I S. 1288) in der bis zum 21. Juli 2013 geltenden Fassung
@@ -349,6 +357,7 @@ Investmentgesetzes anwendbar sind.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kaverov/BJNR246000013.html#BJNR246000013BJNE001000000)
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt
 die Investment-Verhaltens- und Organisationsverordnung vom 28. Juni

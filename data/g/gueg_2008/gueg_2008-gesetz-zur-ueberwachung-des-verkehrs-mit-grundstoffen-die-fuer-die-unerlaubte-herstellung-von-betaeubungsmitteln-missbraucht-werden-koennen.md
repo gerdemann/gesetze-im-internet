@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000100000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -80,6 +82,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ### § 2 Anwendung der Verordnungen (EG) Nr. 111/2005 und Nr. 1277/2005
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000200000)
 
 Soweit die Verordnung (EG) Nr. 111/2005 und die Verordnung (EG) Nr.
 1277/2005 der Kommission vom 27. Juli 2005 mit
@@ -95,6 +98,7 @@ Deutschland anzuwenden.
 
 
 ### § 3 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000300000)
 
 Es ist verboten, einen Grundstoff, der zur unerlaubten Herstellung von
 Betäubungsmitteln verwendet werden soll, zu besitzen, herzustellen,
@@ -107,6 +111,7 @@ verschaffen.
 
 
 ### § 4 Allgemeine Vorkehrungen gegen Abzweigung
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000401116)
 
 (1) Wirtschaftsbeteiligte sind verpflichtet, im Rahmen der im Verkehr
 erforderlichen Sorgfalt Vorkehrungen zu treffen, um eine Abzweigung
@@ -135,9 +140,11 @@ vorsätzlich oder grob fahrlässig unrichtig erstattet worden.
 
 
 ## Abschnitt 2 - Zuständigkeit und Zusammenarbeit der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNG000200000)
 
 
 ### § 5 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000500000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist
 zuständige Behörde
@@ -188,6 +195,7 @@ zuständig.
 
 
 ### § 6 Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes und des Bundeskriminalamtes beim Bundeskriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000602116)
 
 (1) Die Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes
 und des Bundeskriminalamtes ist beim Bundeskriminalamt eingerichtet.
@@ -236,6 +244,7 @@ zu den in § 4 Abs. 2 Satz 3 genannten Zwecken verwenden.
 
 
 ### § 7 Mitwirkung der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000701116)
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat die Beamten der
@@ -246,6 +255,7 @@ Fall gilt § 67 Abs. 2 des Bundespolizeigesetzes entsprechend.
 
 
 ### § 8 Befugnisse der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000801116)
 
 Bei Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20 kann die
 zuständige Verfolgungsbehörde Ermittlungen (§ 161 Abs. 1 Satz 1 der
@@ -256,6 +266,7 @@ Absatz 2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
 
 
 ### § 9 Daten beim Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE000900000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte darf die
 in den Meldungen nach den Artikeln 17 und 18 der Verordnung (EG) Nr.
@@ -286,6 +297,7 @@ Meldungen nach den Artikeln 17 und 18 der Verordnung (EG) Nr.
 
 
 ### § 10 Automatisierter Datenabruf
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001001116)
 
 (1) Das Zollkriminalamt darf die beim Bundesinstitut für Arzneimittel
 und Medizinprodukte gespeicherten Daten aus den Meldungen nach Artikel
@@ -352,6 +364,7 @@ nach sechs Monaten zu löschen.
 
 
 ### § 11 Gegenseitige Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001100000)
 
 (1) Sofern tatsächliche Anhaltspunkte für den Verdacht einer Straftat
 nach § 19 vorliegen, unterrichten die nach § 5 Abs. 2 zuständigen
@@ -407,6 +420,7 @@ diese Zwecke hätten übermittelt werden dürfen.
 
 
 ### § 12 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001200000)
 
 (1) Die Gemeinsame Grundstoffüberwachungsstelle berichtet dem
 Bundesinstitut für Arzneimittel und Medizinprodukte über
@@ -434,9 +448,11 @@ Grundstoffüberwachungsstelle.
 
 
 ## Abschnitt 3 - Verkehr mit Grundstoffen
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNG000300000)
 
 
 ### § 13 Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001300000)
 
 Für die Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung
 (EG) Nr. 111/2005 gilt Artikel 3 Abs. 4 Satz 2 der Verordnung (EG) Nr.
@@ -444,6 +460,7 @@ Für die Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung
 
 
 ### § 14 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001400000)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem
 Anzeigenden innerhalb eines Monats die Registrierung nach Artikel 3
@@ -452,13 +469,16 @@ Verordnung (EG) Nr. 111/2005.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001504116)
 
 
 
 ## Abschnitt 4 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNG000400000)
 
 
 ### § 16 Überwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001600000)
 
 (1) Die für die Überwachung des Verkehrs mit Grundstoffen zuständigen
 Behörden oder die mit der Überwachung beauftragten Personen sind
@@ -554,6 +574,7 @@ Zwecke erforderlich ist.
 
 
 ### § 17 Probenahmen
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001700000)
 
 (1) Soweit es zur Durchführung dieses Gesetzes, der Verordnung (EG)
 Nr. 273/2004, der Verordnung (EG) Nr. 111/2005 oder der Verordnung
@@ -573,6 +594,7 @@ Versiegelung als aufgehoben gelten.
 
 
 ### § 18 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001800000)
 
 (1) Jeder Wirtschaftsbeteiligte ist verpflichtet, Maßnahmen nach den
 §§ 16 und 17 zu dulden und bei der Durchführung der Überwachung
@@ -592,9 +614,11 @@ Auskunftsverweigerung zu belehren.
 
 
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNG000500000)
 
 
 ### § 19 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE001905360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -654,6 +678,7 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 20 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE002000000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -793,6 +818,7 @@ wird, ist jeweils die am 18. August 2005 geltende Fassung maßgeblich.
 
 
 ### § 21 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE002100000)
 
 Gegenstände, auf die sich eine Straftat nach § 19 oder eine
 Ordnungswidrigkeit nach § 20 bezieht, können eingezogen werden. § 74a
@@ -801,9 +827,11 @@ sind anzuwenden.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNG000600000)
 
 
 ### § 22 Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/g_g_2008/BJNR030610008.html#BJNR030610008BJNE002200000)
 
 (1) Dieses Gesetz sowie die Verordnung (EG) Nr. 273/2004, die
 Verordnung (EG) Nr. 111/2005 und die Verordnung (EG) Nr. 1277/2005

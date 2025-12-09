@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000000000)
 
 Auf Grund des § 226 Abs. 4 des Sechsten Buches Sozialgesetzbuch -
 Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom
@@ -31,6 +32,7 @@ Finanzen:
 
 
 ## § 1 Berechnung des Ausgleichsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000103126)
 
 (1) Für die Berechnung des jährlichen Ausgleichsbetrags (AB) in § 224
 Abs. 1 des Sechsten Buches Sozialgesetzbuch sind zugrunde zu legen:
@@ -68,6 +70,7 @@ Juni des auf das Jahr der Abschlagszahlung folgenden Jahres.
 
 
 ## § 2 Fälligkeit der Abschlagszahlungen auf den Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000202126)
 
 Die Bundesagentur für Arbeit zahlt die Abschlagszahlungen auf den
 Ausgleichsbetrag an die Träger der Rentenversicherung am
@@ -78,6 +81,7 @@ jährlich im Voraus die vier Auszahlungstermine nach Satz 1 mit.
 
 
 ## § 3 Fälligkeit des Ausgleichsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000301308)
 
 Der Ausgleichsbetrag ist fällig zum Fälligkeitstermin der Vorschüsse
 zur Auszahlung der Rentenleistungen in das Inland für den Monat
@@ -88,6 +92,7 @@ das letzte Kalendervierteljahr verrechnet.
 
 
 ## § 4 Verteilung des Ausgleichsbetrags und der Abschlagszahlungen auf den Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000402126)
 
 (1) Der auf die knappschaftliche Rentenversicherung entfallende Anteil
 des Ausgleichsbetrags wird vom Bundesamt für Soziale Sicherung vorab
@@ -103,11 +108,13 @@ Aufteilung des Ausgleichsbetrags.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bapauschv/BJNR396100002.html#BJNR396100002BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

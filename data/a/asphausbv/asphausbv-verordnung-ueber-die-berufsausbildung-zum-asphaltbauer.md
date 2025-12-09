@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000100314)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -27,11 +28,13 @@ verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000200314)
 
 Der Ausbildungsberuf Asphaltbauer wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000300314)
 
 Die Ausbildung dauert drei Jahre. Auszubildende, denen der Besuch
 eines nach landesrechtlichen Vorschriften eingeführten schulischen
@@ -43,6 +46,7 @@ Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000400314)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -52,6 +56,7 @@ erfolgen.
 
 
 ## § 4 Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000500314)
 
 (1) Die Berufsausbildung im ersten Ausbildungsjahr ist wie folgt zu
 gliedern:
@@ -100,6 +105,7 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000600314)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -173,6 +179,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000700314)
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage für die berufliche Grundbildung und für die berufliche
@@ -186,12 +193,14 @@ Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000800314)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE000900314)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -200,6 +209,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE001000314)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -312,6 +322,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 10 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE001100314)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -485,22 +496,26 @@ Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE001200314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE001300314)
 
 Diese Verordnung tritt am 1. August 1984 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE001400314)
 
 Der Bundesminister für Wirtschaft
 
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Asphaltbauer
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE001500314)
 
 (Fundstelle: BGBl. I 1984, 461 - 467)
 
@@ -1270,6 +1285,7 @@ Der Bundesminister für Wirtschaft
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/asphausbv/BJNR004570984.html#BJNR004570984BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

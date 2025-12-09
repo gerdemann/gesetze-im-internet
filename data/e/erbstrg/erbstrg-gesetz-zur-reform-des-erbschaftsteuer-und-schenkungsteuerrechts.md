@@ -20,20 +20,24 @@ Geändert durch
 
 
 ## Art 1 - Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG)
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG000100319)
 
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG000701301)
 
 (weggefallen)
 
 
 ## Art 3 u. 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG000800319)
 
 -
 
 
 ## Art 5 - Sonderregelung bei der Vereinbarung der Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG000900319)
 
 § 7 Abs. 1 Nr. 4 des Erbschaftsteuer- und Schenkungsteuergesetzes ist
 bei Ehegatten, die auf Grund einseitiger Erklärung nach Artikel 8 I
@@ -44,6 +48,7 @@ I S. 609) im Güterstand der Gütertrennung leben, bis zum 31. Dezember
 
 
 ## Art 6 - Übergangsregelung für vor dem 3. Oktober 1973 abgeschlossene Erbschaftsteuer- und Lastenausgleichsversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG001000319)
 
 § 19 des Erbschaftsteuergesetzes in der Fassung der Bekanntmachung vom
 1\. April 1959 (BGBl. I S. 187) ist auf vor dem 3. Oktober 1973
@@ -58,6 +63,7 @@ Versicherungsfalles folgende Kalenderjahr um jeweils 5 vom Hundert.
 
 
 ## Art 7 - Sonderregelung bei Auflösung von bestehenden Familienstiftungen und Vereinen
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG001100319)
 
 Bei Auflösung einer Stiftung oder eines Vereins im Sinne des § 1 Abs.
 1 Nr. 4 des Erbschaftsteuer- und Schenkungsteuergesetzes vor dem 1.
@@ -69,14 +75,17 @@ durchzuführen.
 
 
 ## Art 8 - 
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG001200319)
 
 
 
 ## Art 9 - 
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG001301301)
 
 (weggefallen)
 
 
 ## Art 10 - 
+[Direktlink](https://www.gesetze-im-internet.de/erbstrg/BJNR009339974.html#BJNR009339974BJNG001401301)
 
 

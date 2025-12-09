@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/membv/BJNR234000015.html#BJNR234000015BJNE000100000)
 
 Auf Grund des § 137h Absatz 2 Satz 3 des Fünften Buches
 Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch
@@ -31,6 +32,7 @@ im Benehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/membv/BJNR234000015.html#BJNR234000015BJNE000200000)
 
 Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h
 Absatz 2 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch genannten
@@ -39,6 +41,7 @@ Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse.
 
 
 ## § 2 Medizinprodukte mit hoher Risikoklasse
+[Direktlink](https://www.gesetze-im-internet.de/membv/BJNR234000015.html#BJNR234000015BJNE000301126)
 
 (1) Medizinprodukte mit hoher Risikoklasse nach § 137h Absatz 1 Satz 1
 des Fünften Buches Sozialgesetzbuch sind solche, die der Klasse IIb
@@ -76,6 +79,7 @@ Kreislaufsystems oder des zentralen Nervensystems einwirkt.
 
 
 ## § 3 Neues theoretisch-wissenschaftliches Konzept
+[Direktlink](https://www.gesetze-im-internet.de/membv/BJNR234000015.html#BJNR234000015BJNE000400000)
 
 (1) Eine Methode weist ein neues theoretisch-wissenschaftliches
 Konzept im Sinne von § 137h Absatz 1 Satz 3 des Fünften Buches
@@ -171,6 +175,7 @@ oder 5 erfüllt ist.
 [^F792336_01_BJNR234000015BJNE000400000]: 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/membv/BJNR234000015.html#BJNR234000015BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 

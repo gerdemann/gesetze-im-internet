@@ -35,9 +35,11 @@ S. 42) geänderten Fassung.
 
 
 ## Teil 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000203128)
 
 (1) Ableitung: Abgabe flüssiger, an Schwebstoffe gebundener oder
 gasförmiger radioaktiver Stoffe auf hierfür vorgesehenen Wegen.
@@ -191,18 +193,22 @@ mit der angezeigten Anwendung begonnen werden darf.
 
 
 ## Teil 2 - Strahlenschutz bei geplanten Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000200000)
 
 
 ### Kapitel 1 - Rechtfertigung von Tätigkeitsarten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000300000)
 
 
 #### § 2 Nicht gerechtfertigte Tätigkeitsarten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000300000)
 
 Tätigkeiten, die den in Anlage 1 genannten nicht gerechtfertigten
 Tätigkeitsarten zuzuordnen sind, dürfen nicht ausgeübt werden.
 
 
 #### § 3 Verfahren zur Prüfung der Rechtfertigung von Tätigkeitsarten nach § 7 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000400000)
 
 (1) Die nach § 7 Absatz 1 Satz 1 des Strahlenschutzgesetzes zu
 übermittelnden Unterlagen umfassen neben den jeweiligen Genehmigungs-
@@ -239,6 +245,7 @@ oberste Landesbehörde über das Ergebnis der Prüfung.
 
 
 #### § 4 Verfahren zur Prüfung der Rechtfertigung von Tätigkeitsarten nach § 38 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000501128)
 
 (1) Die für die Erteilung einer Genehmigung nach § 40 oder § 42 des
 Strahlenschutzgesetzes oder einer Bauartzulassung nach § 45 des
@@ -318,12 +325,15 @@ Genehmigungen oder Bauartzulassungen.
 
 
 ### Kapitel 2 - Vorabkontrolle bei radioaktiven Stoffen oder ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000400000)
 
 
 #### Abschnitt 1 - Ausnahmen von der Genehmigungs- und Anzeigebedürftigkeit einer Tätigkeit; Ausnahmen von Genehmigungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000500000)
 
 
 ##### § 5 Genehmigungsfreier Umgang
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000600000)
 
 (1) Eine Genehmigung nach § 12 Absatz 1 Nummer 3 des
 Strahlenschutzgesetzes ist in den in Anlage 3 Teil A und B genannten
@@ -348,12 +358,14 @@ zusammenwirken können.
 
 
 ##### § 5a Genehmigungsfreier Zusatz radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE022100128)
 
 Eine Genehmigung nach § 40 Absatz 1 des Strahlenschutzgesetzes ist in
 den in Anlage 3 Teil F genannten Fällen nicht erforderlich.
 
 
 ##### § 6 Genehmigungsfreier Besitz von Kernbrennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000700000)
 
 (1) Die Vorschriften des § 5 Absatz 2 bis 4 des Atomgesetzes sind auf
 denjenigen nicht anzuwenden, der
@@ -396,6 +408,7 @@ diese Kernbrennstoffe zum Zweck der Ausfuhr befördert werden sollen.
 
 
 ##### § 7 Genehmigungs- und anzeigefreier Betrieb von Anlagen zur Erzeugung ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000800000)
 
 Wer eine Anlage zur Erzeugung ionisierender Strahlung der in Anlage 3
 Teil C genannten Art betreibt, bedarf weder einer Genehmigung nach §
@@ -404,6 +417,7 @@ Anzeige nach § 17 Absatz 1 des Strahlenschutzgesetzes zu erstatten.
 
 
 ##### § 8 Genehmigungsfreier Betrieb von Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE000900000)
 
 Eine Genehmigung nach § 12 Absatz 1 Nummer 5 des
 Strahlenschutzgesetzes ist in den in Anlage 3 Teil D genannten Fällen
@@ -411,6 +425,7 @@ nicht erforderlich.
 
 
 ##### § 9 Anzeigefreie Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001000000)
 
 Eine Anzeige nach § 22 Absatz 1 des Strahlenschutzgesetzes haben
 folgende Personen nicht zu erstatten:
@@ -430,6 +445,7 @@ folgende Personen nicht zu erstatten:
 
 
 ##### § 10 Befreiung von der Pflicht zur Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001100000)
 
 (1) Keiner Deckungsvorsorge nach § 13 Absatz 2 des
 Strahlenschutzgesetzes für die Erteilung einer Umgangsgenehmigung nach
@@ -485,6 +501,7 @@ Strahlenquellen.
 
 
 ##### § 11 Freigrenzen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001200000)
 
 Die Radionuklide, für die Freigrenzen bestehen, und die nach dem
 Strahlenschutzgesetz maßgeblichen Freigrenzen ergeben sich aus Anlage
@@ -492,9 +509,11 @@ Strahlenschutzgesetz maßgeblichen Freigrenzen ergeben sich aus Anlage
 
 
 #### Abschnitt 2 - Grenzüberschreitende Verbringung radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000600000)
 
 
 ##### § 12 Genehmigungsbedürftige grenzüberschreitende Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001301128)
 
 (1) Einer Genehmigung bedarf, wer hochradioaktive Strahlenquellen
 nicht nur vorübergehend zur eigenen Nutzung im Rahmen eines
@@ -556,6 +575,7 @@ oder
 
 
 ##### § 13 Anmeldebedürftige grenzüberschreitende Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001401128)
 
 (1) Wer sonstige radioaktive Stoffe nach § 3 Absatz 1 des
 Strahlenschutzgesetzes oder Kernbrennstoffe nach § 3 Absatz 3 des
@@ -607,6 +627,7 @@ Atomgesetzes besitzen.
 
 
 ##### § 14 Ausnahmen; andere Vorschriften über die grenzüberschreitende Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001501128)
 
 (1) Keiner Genehmigung nach § 3 Absatz 1 des Atomgesetzes oder § 12
 dieser Verordnung bedarf und keine Anmeldung nach § 13 dieser
@@ -644,6 +665,7 @@ Verbringung durch die Bundeswehr.
 
 
 ##### § 15 Voraussetzungen für die Erteilung der Genehmigung für die grenzüberschreitende Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001600000)
 
 (1) Die Genehmigung für eine grenzüberschreitende Verbringung nach §
 12 Absatz 1 ist zu erteilen, wenn
@@ -698,9 +720,11 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### Abschnitt 3 - Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000700000)
 
 
 ##### § 16 Technische Anforderungen an die Bauartzulassung einer Vorrichtung, die sonstige radioaktive Stoffe enthält
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001700000)
 
 (1) Die Bauart einer Vorrichtung, die sonstige radioaktive Stoffe nach
 § 3 Absatz 1 des Strahlenschutzgesetzes enthält, darf nach § 45 Absatz
@@ -748,6 +772,7 @@ Mikrosievert liegt.
 
 
 ##### § 17 Technische Anforderungen an die Bauartzulassung von Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001801128)
 
 Die Bauart eines Störstrahlers darf nach § 45 Absatz 1 Nummer 1 des
 Strahlenschutzgesetzes nur dann zugelassen werden, wenn sichergestellt
@@ -768,6 +793,7 @@ ist, dass
 
 
 ##### § 18 Technische Anforderungen an die Bauartzulassung von Röntgenstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE001900000)
 
 (1) Die Bauart eines Röntgenstrahlers, der weder zur Anwendung am
 Menschen noch zur Anwendung am Tier bestimmt ist und, bei dem der
@@ -825,6 +851,7 @@ angegebenen maximalen Betriebsbedingungen
 
 
 ##### § 19 Technische Anforderungen an die Bauartzulassung von Basisschutzgeräten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002000000)
 
 Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am
 Menschen noch zur Anwendung am Tier bestimmt ist, darf als
@@ -867,6 +894,7 @@ ist, dass
 
 
 ##### § 20 Technische Anforderungen an die Bauartzulassung von Hochschutzgeräten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002100000)
 
 Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am
 Menschen noch zur Anwendung am Tier bestimmt ist, darf als
@@ -907,6 +935,7 @@ nur dann zugelassen werden, wenn sichergestellt ist, dass
 
 
 ##### § 21 Technische Anforderungen an die Bauartzulassung von Vollschutzgeräten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002201128)
 
 Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am
 Menschen noch zur Anwendung am Tier in der Tierheilkunde bestimmt ist,
@@ -950,6 +979,7 @@ Strahlenschutzgesetzes nur dann zugelassen werden,
 
 
 ##### § 22 Technische Anforderungen an die Bauartzulassung von Schulröntgeneinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002300000)
 
 Die Bauart einer Röntgeneinrichtung, die weder zur Anwendung am
 Menschen noch zur Anwendung am Tier bestimmt ist, darf als
@@ -968,6 +998,7 @@ ist, dass
 
 
 ##### § 23 Technische Anforderungen an die Bauartzulassung einer Anlage zur Erzeugung ionisierender Strahlung als Vollschutzanlage
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002401128)
 
 Die Bauart einer Anlage zur Erzeugung ionisierender Strahlung, die
 nicht zur Anwendung am Menschen bestimmt ist, darf als
@@ -1003,6 +1034,7 @@ Strahlenschutzgesetzes nur dann zugelassen werden,
 
 
 ##### § 24 Pflichten des Inhabers einer Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002501128)
 
 Der Inhaber einer Bauartzulassung hat
 
@@ -1067,6 +1099,7 @@ Der Inhaber einer Bauartzulassung hat
 
 
 ##### § 25 Pflichten des Inhabers einer bauartzugelassenen Vorrichtung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002602128)
 
 (1) Der Inhaber einer bauartzugelassenen Vorrichtung hat folgende
 Unterlagen bei der Vorrichtung bereitzuhalten:
@@ -1132,6 +1165,7 @@ Behörde bestimmte Stelle abzugeben.
 
 
 ##### § 26 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002700000)
 
 Die für die Zulassung der Bauart zuständige Behörde hat den
 wesentlichen Inhalt der Bauartzulassung, ihre Änderungen, ihre
@@ -1141,9 +1175,11 @@ betrieben werden darf, im Bundesanzeiger bekannt zu machen.
 
 
 #### Abschnitt 4 - Rückstände
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000800000)
 
 
 ##### § 27 Bestimmung der Überwachungsbedürftigkeit von Rückständen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002800000)
 
 Für die Bestimmung der Überwachungsbedürftigkeit von Rückständen nach
 § 61 Absatz 2 Satz 1 des Strahlenschutzgesetzes gelten die in Anlage 5
@@ -1152,12 +1188,14 @@ Beseitigungswege.
 
 
 ##### § 28 Ermittlung der von Rückständen verursachten Expositionen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE002900000)
 
 Die von Rückständen verursachten Expositionen sind nach den in Anlage
 6 festgelegten Grundsätzen zu ermitteln.
 
 
 ##### § 29 Entlassung überwachungsbedürftiger Rückstände aus der Überwachung zur Verwertung oder Beseitigung nach dem Kreislaufwirtschaftsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003000000)
 
 (1) Bei einer beabsichtigten Verwertung oder Beseitigung der
 überwachungsbedürftigen Rückstände nach dem Kreislaufwirtschaftsgesetz
@@ -1215,6 +1253,7 @@ unberührt.
 
 
 ##### § 30 Entlassung überwachungsbedürftiger Rückstände aus der Überwachung zur Verwertung als Bauprodukt
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003100000)
 
 (1) Bei einer beabsichtigten Verwertung der überwachungsbedürftigen
 Rückstände als Bauprodukt legt der Antragsteller der für die
@@ -1247,9 +1286,11 @@ Grund dieses Gesetzes erlassenen Verordnungen bleiben unberührt.
 
 
 ### Kapitel 3 - Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG000900000)
 
 
 #### § 31 Freigabe radioaktiver Stoffe; Dosiskriterium
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003200000)
 
 (1) Nur nach einer Freigabe dürfen als nicht radioaktive Stoffe
 verwendet, verwertet, beseitigt, innegehalten oder an einen Dritten
@@ -1306,6 +1347,7 @@ Tätigkeit darzulegen.
 
 
 #### § 32 Antrag auf Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003300000)
 
 (1) Eine Freigabe kann beantragt werden vom Inhaber
 
@@ -1356,6 +1398,7 @@ werden.
 
 
 #### § 33 Erteilung der Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003400000)
 
 (1) Die zuständige Behörde erteilt die Freigabe, wenn das
 Dosiskriterium für die Freigabe eingehalten wird.
@@ -1377,6 +1420,7 @@ erteilt werden.
 
 
 #### § 34 Vermischungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003500000)
 
 Derjenige, der einen Antrag auf Freigabe stellen kann, und der
 Strahlenschutzverantwortliche, der Inhaber der Freigabe ist, dürfen
@@ -1387,6 +1431,7 @@ veranlassen oder ermöglichen.
 
 
 #### § 35 Uneingeschränkte Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003600000)
 
 Die zuständige Behörde kann davon ausgehen, dass das Dosiskriterium
 für die Freigabe eingehalten wird, wenn der Antragsteller nachweist,
@@ -1409,6 +1454,7 @@ dass für eine uneingeschränkte Freigabe
 
 
 #### § 36 Spezifische Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003700000)
 
 (1) Die zuständige Behörde kann davon ausgehen, dass das
 Dosiskriterium für die Freigabe eingehalten wird, wenn der
@@ -1560,6 +1606,7 @@ freizugebenden Stoffe kontaminiert werden können.
 
 
 #### § 37 Freigabe im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003800000)
 
 (1) Der Antragsteller kann den Nachweis, dass das Dosiskriterium für
 die Freigabe eingehalten ist, auch im Einzelfall führen. Dies gilt,
@@ -1594,12 +1641,14 @@ Nummer 2 zu berücksichtigen.
 
 
 #### § 38 Freigabe von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE003900000)
 
 Ist kein Genehmigungsinhaber vorhanden, so kann eine Freigabe auch von
 Amts wegen erfolgen.
 
 
 #### § 39 Einvernehmen bei der spezifischen Freigabe zur Beseitigung und bei der spezifischen Freigabe von Metallschrott zum Recycling
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004001128)
 
 (1) Die zuständige Behörde stellt das Einvernehmen mit der für den
 Vollzug dieser Verordnung zuständigen obersten Landesbehörde her, in
@@ -1633,6 +1682,7 @@ sollen, das Einvernehmen.
 
 
 #### § 40 Abfallrechtlicher Verwertungs- und Beseitigungsweg
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004101128)
 
 (1) Bei einer spezifischen Freigabe zur Beseitigung, bei einer
 spezifischen Freigabe von Metallschrott zum Recycling und bei einer
@@ -1674,6 +1724,7 @@ Entsorgung von Abfällen bleiben unberührt.
 
 
 #### § 41 Festlegung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004200000)
 
 (1) Die zuständige Behörde kann in einer Genehmigung nach § 6, § 7
 oder § 9 des Atomgesetzes, in einem Planfeststellungsbeschluss oder
@@ -1727,6 +1778,7 @@ Die Feststellung ist dem Freigabeverfahren zugrunde zu legen.
 
 
 #### § 42 Pflichten des Inhabers einer Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004301128)
 
 (1) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe ist,
 hat für jede Masse oder Teilmasse, die auf Grund der Freigabe als
@@ -1746,9 +1798,11 @@ mehr erfüllt ist.
 
 
 ### Kapitel 4 - Betriebliche Organisation des Strahlenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001000000)
 
 
 #### § 43 Pflichten des Strahlenschutzbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004400000)
 
 (1) Der Strahlenschutzbeauftragte hat für die Einhaltung der dem
 Strahlenschutzverantwortlichen durch diese Verordnung zugewiesenen
@@ -1766,6 +1820,7 @@ Absatz 1 und 2 und § 138 Absatz 1.
 
 
 #### § 44 Pflichten bei Nutzung durch weitere Strahlenschutzverantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004501128)
 
 (1) Ein Strahlenschutzverantwortlicher, der Inhaber einer Genehmigung
 nach § 12 Absatz 1 Nummer 1, 3, 4 oder 5 des Strahlenschutzgesetzes
@@ -1799,6 +1854,7 @@ Verlangen vorzulegen.
 
 
 #### § 45 Strahlenschutzanweisung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Strahlenschutzanweisung erlassen wird. Die Strahlenschutzanweisung
@@ -1869,6 +1925,7 @@ Strahlenschutzverantwortlichen dazu verpflichtet.
 
 
 #### § 46 Bereithalten des Strahlenschutzgesetzes und der Strahlenschutzverordnung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004700000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass das
 Strahlenschutzgesetz und diese Verordnung in Betrieben oder
@@ -1879,9 +1936,11 @@ eines anderen tätig ist.
 
 
 ### Kapitel 5 - Fachkunde und Kenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001100000)
 
 
 #### § 47 Erforderliche Fachkunde im Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004801128)
 
 (1) Der Erwerb der erforderlichen Fachkunde im Strahlenschutz wird von
 der zuständigen Stelle geprüft und bescheinigt. Die Bescheinigung
@@ -1974,6 +2033,7 @@ erbracht.
 
 
 #### § 48 Aktualisierung der Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE004900000)
 
 (1) Die erforderliche Fachkunde im Strahlenschutz muss mindestens alle
 fünf Jahre durch eine erfolgreiche Teilnahme an einem von der
@@ -1992,6 +2052,7 @@ entscheidet über die Anerkennung der Aktualisierung.
 
 
 #### § 49 Erforderliche Kenntnisse im Strahlenschutz bei der Anwendung am Menschen und am Tier in der Tierheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005001128)
 
 (1) Folgende Personen haben die erforderlichen Kenntnisse im
 Strahlenschutz in der Regel nach § 74 Absatz 2 Satz 2 des
@@ -2027,6 +2088,7 @@ Strahlenschutz gilt § 48 entsprechend.
 
 
 #### § 50 Widerruf der Anerkennung der erforderlichen Fachkunde oder der erforderlichen Kenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005100000)
 
 (1) Die zuständige Stelle kann die Anerkennung der erforderlichen
 Fachkunde oder der erforderlichen Kenntnisse im Strahlenschutz
@@ -2044,6 +2106,7 @@ veranlassen.
 
 
 #### § 51 Anerkennung von Kursen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005201128)
 
 (1) Kurse nach § 47 Absatz 3, § 48 Absatz 1 Satz 1, § 49 Absatz 2 Satz
 1 in Verbindung mit § 47 Absatz 3 und § 49 Absatz 3 in Verbindung mit
@@ -2075,12 +2138,15 @@ ist.
 
 
 ### Kapitel 6 - Anforderungen im Zusammenhang mit der Ausübung von Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001200000)
 
 
 #### Abschnitt 1 - Physikalische Strahlenschutzkontrolle; Strahlenschutzbereiche
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001300000)
 
 
 ##### § 52 Einrichten von Strahlenschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005300000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 den nachfolgenden Tätigkeiten Strahlenschutzbereiche nach Absatz 2
@@ -2151,6 +2217,7 @@ Allgemeinheit nicht gefährdet werden.
 
 
 ##### § 53 Abgrenzung, Kennzeichnung und Sicherung von Strahlenschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005401128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Kontrollbereiche nach § 52 Absatz 2 Satz 1 Nummer 2 abgegrenzt und
@@ -2211,6 +2278,7 @@ Kontrollbereichs ist nicht erforderlich.
 
 
 ##### § 54 Vorbereitung der Brandbekämpfung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005500000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass zur
 Vorbereitung der Brandbekämpfung mit den nach Landesrecht zuständigen
@@ -2244,6 +2312,7 @@ Röntgeneinrichtungen oder Störstrahlern.
 
 
 ##### § 55 Zutritt zu Strahlenschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Personen der Zutritt
@@ -2355,6 +2424,7 @@ erlaubt werden.
 
 
 ##### § 56 Messtechnische Überwachung in Strahlenschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005700000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass in
 Strahlenschutzbereichen in dem für die Ermittlung der Exposition
@@ -2388,6 +2458,7 @@ erkennbar ist.
 
 
 ##### § 57 Kontamination und Dekontamination
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005800000)
 
 (1) Bei Strahlenschutzbereichen, in denen offene radioaktive Stoffe
 vorhanden sind, hat der Strahlenschutzverantwortliche, soweit es zum
@@ -2443,6 +2514,7 @@ Strahlenschutzbereich aufhalten.
 
 
 ##### § 58 Verlassen von und Herausbringen aus Strahlenschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE005900000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Personen beim Verlassen eines Kontrollbereichs, in dem offene
@@ -2496,6 +2568,7 @@ Strahlenschutzbereich aufhalten.
 
 
 ##### § 59 Einrichten von Strahlenschutzbereichen bei Tätigkeiten mit natürlich vorkommenden radioaktiven Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006000000)
 
 Bei einer nach § 56 oder § 59 des Strahlenschutzgesetzes angezeigten
 Tätigkeit kann die zuständige Behörde auf Grund der
@@ -2506,6 +2579,7 @@ Maßnahmen entsprechend anordnet.
 
 
 ##### § 60 Röntgenräume
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006100000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Röntgeneinrichtung nur in einem Röntgenraum betrieben wird.
@@ -2549,6 +2623,7 @@ Röntgenstrahlen nicht außerhalb des Kontrollbereichs liegen können.
 
 
 ##### § 61 Bestrahlungsräume
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006200000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 folgende Geräte bei der Anwendung am Menschen und der Anwendung am
@@ -2607,6 +2682,7 @@ Tier in der Tierheilkunde nur in Bestrahlungsräumen betrieben werden:
 
 
 ##### § 62 Räume für den Betrieb von Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006300000)
 
 Die zuständige Behörde kann für genehmigungsbedürftige Störstrahler
 zum Schutz Einzelner oder der Allgemeinheit festlegen, dass sie nur in
@@ -2614,6 +2690,7 @@ allseitig umschlossenen Räumen betrieben werden dürfen.
 
 
 ##### § 63 Unterweisung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006400000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 folgende Personen unterwiesen werden:
@@ -2692,6 +2769,7 @@ aufbewahrt und der zuständigen Behörde auf Verlangen vorgelegt werden.
 
 
 ##### § 64 Pflicht zur Ermittlung der Körperdosis; zu überwachende Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006501128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass an
 Personen, die sich in einem Strahlenschutzbereich aufhalten, die
@@ -2747,6 +2825,7 @@ einem Strahlenschutzbereich aufhalten.
 
 
 ##### § 65 Vorgehen bei der Ermittlung der Körperdosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass zur
 Ermittlung der Körperdosis die Personendosis nach § 66 gemessen wird.
@@ -2809,6 +2888,7 @@ Messstelle durchgeführt wird.
 
 
 ##### § 66 Messung der Personendosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006700000)
 
 (1) Die Messung der Personendosis nach § 65 Absatz 1 Satz 1 hat zu
 erfolgen mit
@@ -2870,6 +2950,7 @@ festgestellt werden kann.
 
 
 ##### § 67 Ermittlung der Körperdosis des fliegenden Personals
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006800000)
 
 (1) Abweichend von § 65 hat der Strahlenschutzverantwortliche beim
 anzeigebedürftigen Betrieb eines Luftfahrzeugs dafür zu sorgen, dass
@@ -2891,6 +2972,7 @@ des Strahlenschutzgesetzes vorgelegt werden.
 
 
 ##### § 68 Beschäftigung mit Strahlenpass
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE006901128)
 
 (1) Wer auf Grund einer Genehmigung nach § 25 Absatz 1 des
 Strahlenschutzgesetzes, auf Grund einer Anzeige nach § 26 Absatz 1
@@ -2935,6 +3017,7 @@ Einrichtung ermittelt und auf geeignete Weise dokumentiert wird.
 
 
 ##### § 69 Schutz von schwangeren und stillenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007001123)
 
 (1) Sobald der Strahlenschutzverantwortliche darüber informiert wird,
 dass eine Person, die einer beruflichen Exposition ausgesetzt sein
@@ -2958,6 +3041,7 @@ schwanger ist, hat er dafür zu sorgen, dass
 
 
 ##### § 70 Schutz beim Umgang mit offenen radioaktiven Stoffen; Beschäftigungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007100000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Personen beim Umgang mit offenen radioaktiven Stoffen, deren Aktivität
@@ -2993,9 +3077,11 @@ wird.
 
 
 #### Abschnitt 2 - Besondere Vorschriften zum Schutz beruflich exponierter Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001400000)
 
 
 ##### § 71 Kategorien beruflich exponierter Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007201128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 beruflich exponierte Personen zur Kontrolle und ärztlichen Überwachung
@@ -3051,6 +3137,7 @@ Kategorie A erreicht.
 
 
 ##### § 72 Dosisrichtwerte bei Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007300000)
 
 (1) Der Strahlenschutzverantwortliche hat innerhalb von sechs Monaten
 nach Aufnahme einer Tätigkeit dafür zu sorgen, dass geprüft wird, ob
@@ -3085,6 +3172,7 @@ erneuten Prüfung und Festlegung von Dosisrichtwerten.
 
 
 ##### § 73 Dosisbegrenzung bei Überschreitung von Grenzwerten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007400000)
 
 Wurde unter Verstoß gegen § 78 des Strahlenschutzgesetzes ein
 Grenzwert im Kalenderjahr überschritten, so ist eine
@@ -3100,6 +3188,7 @@ ermächtigten Arzt Ausnahmen zulassen.
 
 
 ##### § 74 Besonders zugelassene Expositionen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007500000)
 
 (1) Unter außergewöhnlichen, im Einzelfall zu beurteilenden Umständen
 kann die zuständige Behörde zur Durchführung notwendiger spezifischer
@@ -3162,6 +3251,7 @@ auszuschließen.
 
 
 ##### § 75 Sonstige Schutzvorkehrungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007601128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der
 Schutz beruflich exponierter Personen vor äußerer und innerer
@@ -3184,6 +3274,7 @@ Rechnung getragen wird. Absatz 1 findet keine Anwendung.
 
 
 ##### § 76 Besondere Regelungen zum Schutz des raumfahrenden Personals
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007700000)
 
 Beim anzeigebedürftigen Betrieb eines Raumfahrzeugs ist abweichend von
 den §§ 64 und 65 die Körperdosis, die das raumfahrende Personal
@@ -3196,9 +3287,11 @@ Personals entsprechend anordnet. § 81 findet keine Anwendung.
 
 
 #### Abschnitt 3 - Ärztliche Überwachung beruflich exponierter Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001500000)
 
 
 ##### § 77 Ärztliche Überwachung beruflich exponierter Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007800000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 beruflich exponierte Person der Kategorie A nur dann Aufgaben
@@ -3241,6 +3334,7 @@ Gesundheitszustand der Person dies erfordern.
 
 
 ##### § 78 Ärztliche Überwachung nach Beendigung der Aufgabenwahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE007900000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 ärztliche Überwachung nach Beendigung der Aufgabenwahrnehmung als
@@ -3260,6 +3354,7 @@ vor Abgabe der Einwilligung schriftlich hinzuweisen.
 
 
 ##### § 79 Ärztliche Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008000000)
 
 (1) Zur Erteilung der ärztlichen Bescheinigung nach § 77 Absatz 1, 2
 oder 3 hat der nach § 175 Absatz 1 Satz 1 ermächtigte Arzt folgende
@@ -3328,6 +3423,7 @@ Verlangen vorgelegt wird.
 
 
 ##### § 80 Behördliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008100000)
 
 (1) Hält der Strahlenschutzverantwortliche oder die beruflich
 exponierte Person die vom ermächtigten Arzt in der ärztlichen
@@ -3342,6 +3438,7 @@ sind vom Strahlenschutzverantwortlichen zu tragen.
 
 
 ##### § 81 Besondere ärztliche Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008200000)
 
 (1) Ist nicht auszuschließen, dass eine Person durch eine Exposition
 nach § 74 oder auf Grund anderer außergewöhnlicher Umstände
@@ -3373,9 +3470,11 @@ der Aufgabenwahrnehmung gilt § 78 entsprechend.
 
 
 #### Abschnitt 4 - Besondere Regelungen zum Strahlenschutz in Schulen und bei Lehr- und Ausbildungsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001600000)
 
 
 ##### § 82 Strahlenschutz in Schulen und bei Lehr- und Ausbildungsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008300000)
 
 (1) Röntgeneinrichtungen dürfen im Zusammenhang mit dem Unterricht in
 allgemeinbildenden Schulen nur betrieben werden, wenn sie
@@ -3409,12 +3508,15 @@ Nummer 8 genehmigungsfrei ist, ausgeschlossen wird.
 
 
 #### Abschnitt 5 - Sicherheit von Strahlenquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001700000)
 
 
 ##### Unterabschnitt 1 - Hochradioaktive Strahlenquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001800000)
 
 
 ###### § 83 Werte für hochradioaktive Strahlenquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008400000)
 
 Für die Bestimmung, ab welcher Aktivität ein umschlossener
 radioaktiver Stoff eine hochradioaktive Strahlenquelle ist, ist Anlage
@@ -3422,6 +3524,7 @@ radioaktiver Stoff eine hochradioaktive Strahlenquelle ist, ist Anlage
 
 
 ###### § 84 Register über hochradioaktive Strahlenquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008501128)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle übermittelt dem
 Register über hochradioaktive Strahlenquellen unverzüglich in
@@ -3491,9 +3594,11 @@ Informationstechnik fest.
 
 
 ##### Unterabschnitt 2 - Sicherheit und Sicherung von Strahlenquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG001900000)
 
 
 ###### § 85 Buchführung und Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008601128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass beim
 Umgang mit radioaktiven Stoffen
@@ -3580,6 +3685,7 @@ der Aufbewahrungsfrist beendet wird.
 
 
 ###### § 86 Buchführung und Mitteilung bei der Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008700000)
 
 (1) Der Strahlenschutzverantwortliche, der Inhaber der Freigabe nach §
 33 Absatz 1 ist, hat dafür zu sorgen, dass über die Stoffe, für die
@@ -3655,6 +3761,7 @@ wenn
 
 
 ###### § 87 Sicherung und Lagerung radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008800000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
@@ -3685,6 +3792,7 @@ der Sicherheitsmaßnahmen nicht beeinträchtigt wird.
 
 
 ###### § 88 Wartung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE008901128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
@@ -3783,6 +3891,7 @@ Prüfbericht der zuständigen Behörde auf Verlangen vorgelegt wird.
 
 
 ###### § 89 Dichtheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009000000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 Unversehrtheit und Dichtheit der Umhüllung bei umschlossenen
@@ -3826,6 +3935,7 @@ zuständigen Behörde unverzüglich mitgeteilt werden.
 
 
 ###### § 90 Strahlungsmessgeräte
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009100000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass zur
 Messung der Personendosis, der Ortsdosis, der Ortsdosisleistung, der
@@ -3924,6 +4034,7 @@ Absatz 1 ist, für die Erfüllung der Pflichten nach Satz 1 zu sorgen.
 
 
 ###### § 91 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009200000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 folgende Gegenstände, Anlagen und Bereiche mit Strahlenzeichen nach
@@ -3978,6 +4089,7 @@ verwendet werden.
 
 
 ###### § 92 Besondere Kennzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009300000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
@@ -4035,6 +4147,7 @@ Anlage 4 Tabelle 1 Spalte 4 überschreitet, gilt Absatz 2 entsprechend.
 
 
 ###### § 93 Entfernen von Kennzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009401128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Kennzeichnungen nach § 91 Absatz 1 von Gegenständen entfernt werden,
@@ -4052,6 +4165,7 @@ Absatz 1 entfernt werden.
 
 
 ###### § 94 Abgabe radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009500000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Stoffe, mit denen nur auf Grund einer Genehmigung nach § 6 Absatz 1
@@ -4141,6 +4255,7 @@ Dritter sichergestellt ist.
 
 
 ###### § 95 Rücknahme hochradioaktiver Strahlenquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009600000)
 
 Wer hochradioaktive Strahlenquellen hergestellt oder aus einem Staat,
 der nicht Mitgliedstaat der Europäischen Union ist, in den
@@ -4151,6 +4266,7 @@ sicherzustellen, dass sie von Dritten zurückgenommen werden können.
 
 
 ###### § 96 Überlassen von Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009700000)
 
 (1) Der Hersteller und der Einführer dürfen einem anderen einen
 Störstrahler zum genehmigungsfreien Betrieb nur überlassen, wenn
@@ -4170,6 +4286,7 @@ ist, prüfen lässt, bevor er den Störstrahler einem anderen überlässt.
 
 
 ###### § 97 Aufbewahrung und Bereithalten von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009800000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 genehmigungsbedürftigen Tätigkeiten nach § 12 Absatz 1 des
@@ -4239,6 +4356,7 @@ dass Folgendes bereitgehalten wird:
 
 
 ###### § 98 Einweisung in Tätigkeiten mit Strahlungsquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE009900000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei der
 Anwendung am Menschen oder der Anwendung am Tier in der Tierheilkunde
@@ -4268,9 +4386,11 @@ Tierheilkunde sowie im Zusammenhang mit dem Betrieb von Störstrahlern.
 
 
 #### Abschnitt 6 - Schutz der Bevölkerung und der Umwelt
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002000000)
 
 
 ##### § 99 Begrenzung der Ableitung radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010000000)
 
 (1) Für die Planung, die Errichtung, den Betrieb, die Stilllegung, den
 sicheren Einschluss und den Abbau von kerntechnischen Anlagen, Anlagen
@@ -4297,6 +4417,7 @@ werden.
 
 
 ##### § 100 Ermittlung der für Einzelpersonen der Bevölkerung zu erwartenden Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010100000)
 
 (1) Im Rahmen des Genehmigungs- oder Anzeigeverfahrens für Tätigkeiten
 nach § 4 Absatz 1 Nummer 1 und Nummer 3 bis Nummer 8 des
@@ -4376,6 +4497,7 @@ anderen laufenden Genehmigungs- oder Anzeigeverfahren anfordern:
 
 
 ##### § 101 Ermittlung der von Einzelpersonen der Bevölkerung erhaltenen Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010201128)
 
 (1) Die zuständige Behörde hat jährlich die von einer repräsentativen
 Person im vorhergehenden Kalenderjahr erhaltenen Körperdosen nach § 80
@@ -4462,6 +4584,7 @@ oder § 9b des Atomgesetzes ausgeübt werden.
 
 
 ##### § 102 Zulässige Ableitungen radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010301128)
 
 (1) Für den Betrieb, die Stilllegung, den sicheren Einschluss und den
 Abbau von kerntechnischen Anlagen, Anlagen im Sinne des § 9a Absatz 3
@@ -4499,6 +4622,7 @@ Standorten überschritten werden können.
 
 
 ##### § 103 Emissions- und Immissionsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010402128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Ableitungen aus kerntechnischen Anlagen, Anlagen im Sinne des § 9a
@@ -4566,6 +4690,7 @@ Vergleichsanalysen werden Gebühren und Auslagen erhoben.
 
 
 ##### § 104 Begrenzung der Exposition durch Störfälle
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010500000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 der Planung baulicher oder sonstiger technischer Schutzmaßnahmen gegen
@@ -4682,9 +4807,11 @@ umschlossene radioaktive Stoffe.
 
 
 #### Abschnitt 7 - Vorkommnisse
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002100000)
 
 
 ##### § 105 Vorbereitende Maßnahmen zur Vermeidung, zum Erkennen und zur Eindämmung der Auswirkungen eines Vorkommnisses bei der Anwendung am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am
@@ -4708,6 +4835,7 @@ Risiko Rechnung zu tragen.
 
 
 ##### § 106 Vorbereitende Maßnahmen für Notfälle oder Störfälle
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010700000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass den
 für den Katastrophenschutz und den für die öffentliche Sicherheit
@@ -4795,6 +4923,7 @@ die öffentliche Sicherheit zuständigen Behörden abzustimmen.
 
 
 ##### § 107 Maßnahmen bei einem Notfall oder Störfall
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010800000)
 
 Über § 72 Absatz 3 des Strahlenschutzgesetzes hinaus hat der
 Strahlenschutzverantwortliche dafür zu sorgen, dass bei einem Notfall
@@ -4803,6 +4932,7 @@ der Folgen des Notfalls oder Störfalls getroffen werden.
 
 
 ##### § 108 Meldung eines bedeutsamen Vorkommnisses
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE010900000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der
 Eintritt eines Notfalls, Störfalls oder eines sonstigen bedeutsamen
@@ -4840,6 +4970,7 @@ Strahlenschutzgesetzes gemeldet wird.
 
 
 ##### § 109 Untersuchung, Aufzeichnung und Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011000000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 Ursachen und Auswirkungen eines Vorkommnisses unverzüglich in
@@ -4865,6 +4996,7 @@ Aufbewahrungsfrist beginnt mit dem Eintritt des Vorkommnisses.
 
 
 ##### § 110 Aufgaben der zuständigen Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011100000)
 
 (1) Im Rahmen der strahlenschutzrechtlichen Aufsicht erfasst, prüft
 und bewertet die zuständige Behörde Meldungen nach § 108.
@@ -4897,6 +5029,7 @@ Absatz 1 des Strahlenschutzgesetzes.
 
 
 ##### § 111 Aufgaben der zentralen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011200000)
 
 (1) Die zentrale Stelle
 
@@ -4946,6 +5079,7 @@ Absatz 1 des Strahlenschutzgesetzes.
 
 
 ##### § 112 Meldung und Erfassung von Vorkommnissen nach anderen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011300000)
 
 (1) Die Vorschriften zur Meldung und Erfassung von Vorkommnissen nach
 Arzneimittelrecht und Medizinprodukterecht bleiben unberührt.
@@ -4955,18 +5089,22 @@ Sicherheitsbeauftragten- und Meldeverordnung keine Anwendung.
 
 
 ##### § 113 Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011400000)
 
 Dieser Abschnitt findet keine Anwendung beim anzeigebedürftigen
 Betrieb eines Luftfahrzeugs oder eines Raumfahrzeugs.
 
 
 #### Abschnitt 8 - Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002200000)
 
 
 ##### Unterabschnitt 1 - Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002300000)
 
 
 ###### § 114 Anforderungen an die Ausrüstung bei der Anwendung am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011502128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Röntgeneinrichtung zur Anwendung am Menschen nur verwendet wird, wenn
@@ -5021,6 +5159,7 @@ kann.
 
 
 ###### § 115 Qualitätssicherung vor Inbetriebnahme; Abnahmeprüfung; Bezugswertfestlegung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011601128)
 
 (1) Bei Anlagen zur Erzeugung ionisierender Strahlung,
 Bestrahlungsvorrichtungen, Röntgeneinrichtungen und sonstigen
@@ -5078,6 +5217,7 @@ Fachkunde im Strahlenschutz durchgeführt wird.
 
 
 ###### § 116 Konstanzprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011701128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für
 Anlagen zur Erzeugung ionisierender Strahlung,
@@ -5113,6 +5253,7 @@ unverzüglich ermittelt und beseitigt wird.
 
 
 ###### § 117 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011801128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Inhalt, Ergebnis und Zeitpunkt der Prüfungen nach den §§ 115 und 116
@@ -5139,6 +5280,7 @@ Verlangen vorzulegen.
 
 
 ###### § 118 Bestandsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE011900000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ein
 aktuelles Bestandsverzeichnis über die bei der Anwendung radioaktiver
@@ -5150,9 +5292,11 @@ Medizinprodukten kann herangezogen werden.
 
 
 ##### Unterabschnitt 2 - Anforderungen im Zusammenhang mit der Anwendung am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002400000)
 
 
 ###### § 119 Rechtfertigende Indikation
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012000000)
 
 (1) Der die rechtfertigende Indikation stellende Arzt oder Zahnarzt
 hat neben der Einhaltung der Anforderungen nach § 83 Absatz 3 des
@@ -5176,6 +5320,7 @@ Bedeutung sein können, zu befragen.
 
 
 ###### § 120 Schutz von besonderen Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012100000)
 
 (1) Der anwendende Arzt oder Zahnarzt hat vor einer Anwendung
 ionisierender Strahlung oder radioaktiver Stoffe gebärfähige Personen,
@@ -5202,6 +5347,7 @@ besonderen Strahlenempfindlichkeit dieser Personen Rechnung zu tragen.
 
 
 ###### § 121 Maßnahmen bei der Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012201128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für
 Untersuchungen und Behandlungen mit ionisierender Strahlung oder
@@ -5242,6 +5388,7 @@ jede Behandlung ein Protokoll erstellt wird.
 
 
 ###### § 122 Beschränkung der Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012300000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 Maßnahmen ergriffen werden, um die Exposition von Betreuungs- und
@@ -5275,6 +5422,7 @@ mitgeteilt wird.
 
 
 ###### § 123 Anforderungen im Zusammenhang mit dem Betrieb einer Röntgeneinrichtung zur Teleradiologie
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012401128)
 
 (1) Der Teleradiologe hat bei der Durchführung der Untersuchung
 
@@ -5321,6 +5469,7 @@ elektronischer Form erfüllt werden.
 
 
 ###### § 124 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012500000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Person, an der ionisierende Strahlung oder radioaktive Stoffe
@@ -5357,6 +5506,7 @@ der Strahlenbehandlung erfordert, über geeignete Zeitabstände für die
 
 
 ###### § 125 Diagnostische Referenzwerte; Bevölkerungsdosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012600000)
 
 (1) Das Bundesamt für Strahlenschutz ermittelt, erstellt und
 veröffentlicht diagnostische Referenzwerte für Untersuchungen mit
@@ -5378,6 +5528,7 @@ Bevölkerungsgruppen.
 
 
 ###### § 126 Risikobeurteilung vor Strahlenbehandlungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012701128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass vor
 dem erstmaligen Einsatz oder einer wesentlichen Änderung eines
@@ -5405,6 +5556,7 @@ Ergebnisse der Risikobeurteilung
 
 
 ###### § 127 Aufbewahrung, Weitergabe und Übermittlung von Aufzeichnungen, Röntgenbildern, digitalen Bilddaten und sonstigen Untersuchungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012800000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 Aufzeichnungen nach § 85 Absatz 1 Satz 1 des Strahlenschutzgesetzes,
@@ -5477,6 +5629,7 @@ geeignet sein.
 
 
 ###### § 128 Bestimmung von ärztlichen und zahnärztlichen Stellen zur Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE012900000)
 
 (1) Zur Sicherung der Qualität bei der Anwendung ionisierender
 Strahlung oder radioaktiver Stoffe am Menschen bestimmt die zuständige
@@ -5513,6 +5666,7 @@ wenn
 
 
 ###### § 129 Mitteilung der Aufnahme und Beendigung einer Tätigkeit an eine ärztliche oder zahnärztliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013000000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
@@ -5546,6 +5700,7 @@ entsprechend.
 
 
 ###### § 130 Maßnahmen zur Qualitätssicherung durch ärztliche und zahnärztliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013101128)
 
 (1) Der Strahlenschutzverantwortliche unterliegt der von der
 ärztlichen und zahnärztlichen Stelle durchzuführenden Prüfung zur
@@ -5646,6 +5801,7 @@ und 2 genannten Zwecken verarbeiten.
 
 
 ###### § 131 Medizinphysik-Experte
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013200000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 einer Behandlung mit radioaktiven Stoffen oder ionisierender
@@ -5688,6 +5844,7 @@ Gewährleistung der erforderlichen Qualität geboten ist.
 
 
 ###### § 132 Aufgaben des Medizinphysik-Experten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013301128)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass ein
 Medizinphysik-Experte, wenn er nach § 131 hinzuzuziehen ist, die
@@ -5724,9 +5881,11 @@ und folgender Aufgaben mitwirkt:
 
 
 #### Abschnitt 9 - Besondere Anforderungen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung zum Zweck der medizinischen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002500000)
 
 
 ##### § 133 Grundsatz der Einwilligung nach Aufklärung und Befragung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013400000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen
@@ -5736,6 +5895,7 @@ Absatz 1 Satz 1 Nummer 4, Absatz 2 und 3 erfolgt.
 
 
 ##### § 134 Einwilligungen der in das Forschungsvorhaben eingeschlossenen Person
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013500000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die
 schriftliche Einwilligung der in das Forschungsvorhaben
@@ -5817,6 +5977,7 @@ erhoben wurden, soweit
 
 
 ##### § 135 Aufklärung und Befragung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der in
 das Forschungsvorhaben eingeschlossenen Person vor der Erklärung der
@@ -5844,6 +6005,7 @@ angefertigt werden.
 
 
 ##### § 136 Anwendung an nicht Einwilligungsfähigen und an Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013700000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass an
 einer Person, die nicht in der Lage ist, Art, Bedeutung, Tragweite und
@@ -5901,6 +6063,7 @@ entsprechend.
 
 
 ##### § 137 Weitere Anwendungsverbote und Anwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013801119)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 radioaktive Stoffe oder ionisierende Strahlung zum Zweck der
@@ -5940,6 +6103,7 @@ besonders notwendig ist.
 
 
 ##### § 138 Besondere Schutzpflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE013901128)
 
 (1) Bei einer nach § 32 Absatz 1 des Strahlenschutzgesetzes
 angezeigten Anwendung hat der Strahlenschutzverantwortliche vor der
@@ -6004,6 +6168,7 @@ nicht angemessen ist.
 
 
 ##### § 139 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014000000)
 
 (1) Der zur medizinischen Forschung Berechtigte und der die
 Anwendungen leitende Arzt oder Zahnarzt haben dafür zu sorgen, dass
@@ -6082,6 +6247,7 @@ Medizinprodukterecht besteht.
 
 
 ##### § 140 Aufbewahrungspflichten; weitere Regelungen zu Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014100000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
@@ -6110,6 +6276,7 @@ entsprechend.
 
 
 ##### § 141 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014200000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass der
 zuständigen Aufsichtsbehörde die Beendigung der Anwendung radioaktiver
@@ -6157,6 +6324,7 @@ einen vorhandenen aktuellen Nachweis beizufügen.
 
 
 ##### § 142 Abschlussbericht
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014300000)
 
 (1) Der zur medizinischen Forschung Berechtigte hat der für ihn
 zuständigen Aufsichtsbehörde spätestens zwölf Monate nach Beendigung
@@ -6205,6 +6373,7 @@ Personen zu pseudonymisieren.
 
 
 ##### § 143 Behördliche Schutzanordnung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014400000)
 
 (1) Ist zu besorgen, dass eine in das Forschungsvorhaben
 eingeschlossene Person auf Grund einer Überschreitung der genehmigten
@@ -6227,9 +6396,11 @@ Behörde erfolgen.
 
 
 #### Abschnitt 10 - Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Tier in der Tierheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002600000)
 
 
 ##### § 144 Anforderungen im Zusammenhang mit der Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014500000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Tier
@@ -6254,9 +6425,11 @@ Mikrosievert zu erwarten ist.
 
 
 #### Abschnitt 11 - Berechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002700000)
 
 
 ##### § 145 Berechtigte Personen bei der Anwendung am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014601128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 ionisierende Strahlung und radioaktive Stoffe am Menschen nur
@@ -6319,6 +6492,7 @@ Durchführung anwesend sein.
 
 
 ##### § 146 Berechtigte Personen in der Tierheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014701128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 ionisierende Strahlung und radioaktive Stoffe in der Tierheilkunde nur
@@ -6373,6 +6547,7 @@ Durchführung anwesend sein.
 
 
 ##### § 147 Berechtigte Personen außerhalb der Anwendung am Menschen oder der Tierheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014800000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass in anderen
 Fällen als zur Anwendung am Menschen oder zur Anwendung am Tier in der
@@ -6391,9 +6566,11 @@ Absatz 1 Nummer 5 des Strahlenschutzgesetzes.
 
 
 ### Kapitel 7 - Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002800000)
 
 
 #### § 148 Informationspflichten des Herstellers von Geräten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE014900000)
 
 (1) Der Hersteller eines der in § 91 Satz 1 des Strahlenschutzgesetzes
 genannten Geräte hat dafür zu sorgen, dass dem Gerät bei der Übergabe
@@ -6428,9 +6605,11 @@ Anwender des Gerätes leicht verständlichen Sprache abgefasst sein.
 
 
 ### Kapitel 8 - Aufsichtsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG002900000)
 
 
 #### § 149 Aufsichtsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015001128)
 
 (1) In dem Aufsichtsprogramm nach § 180 Absatz 1 Satz 1 des
 Strahlenschutzgesetzes legt die zuständige Behörde die Durchführung
@@ -6486,9 +6665,11 @@ Einzelfall festzulegen.
 
 
 ## Teil 3 - Strahlenschutz bei Notfallexpositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003000000)
 
 
 ### § 150 Dosimetrie bei Einsatzkräften
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015100000)
 
 (1) Der nach § 115 Absatz 2 des Strahlenschutzgesetzes für den Schutz
 der Einsatzkräfte im Notfalleinsatz Verantwortliche hat dafür zu
@@ -6547,6 +6728,7 @@ Strahlenschutzregister übermittelt werden.
 
 
 ### § 151 Besondere ärztliche Überwachung von Einsatzkräften
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015200000)
 
 Ist nicht auszuschließen, dass eine Person durch eine Exposition nach
 § 114 des Strahlenschutzgesetzes oder auf Grund einer anderen
@@ -6560,6 +6742,7 @@ entsprechend.
 
 
 ### § 152 Hilfeleistung und Beratung von Behörden, Hilfsorganisationen und Einsatzkräften bei einem Notfall
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015300000)
 
 (1) Der Strahlenschutzverantwortliche hat zur Erfüllung der Pflichten
 nach § 72 Absatz 3 des Strahlenschutzgesetzes und nach § 107 dieser
@@ -6642,15 +6825,19 @@ insbesondere dafür zu sorgen, dass
 
 
 ## Teil 4 - Strahlenschutz bei bestehenden Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003100000)
 
 
 ### Kapitel 1 - Schutz vor Radon
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003200000)
 
 
 #### Abschnitt 1 - Gemeinsame Vorschriften für Aufenthaltsräume und für Arbeitsplätze
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003300000)
 
 
 ##### § 153 Festlegung von Gebieten nach § 121 Absatz 1 Satz 1 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015400000)
 
 (1) Die zuständige Behörde hat die Festlegung der Gebiete nach § 121
 Absatz 1 Satz 1 des Strahlenschutzgesetzes auf Grundlage einer
@@ -6685,6 +6872,7 @@ zieht vorhandene Daten heran.
 
 
 ##### § 154 Maßnahmen zum Schutz vor Radon für Neubauten in Gebieten nach § 121 Absatz 1 Satz 1 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015500000)
 
 In den Gebieten nach § 121 Absatz 1 Satz 1 des Strahlenschutzgesetzes
 gilt die Pflicht nach § 123 Absatz 1 Satz 1 des
@@ -6719,9 +6907,11 @@ Maßnahmen durchgeführt wird:
 
 
 #### Abschnitt 2 - Radon an Arbeitsplätzen in Innenräumen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003400000)
 
 
 ##### § 155 Messung der Radon-222-Aktivitätskonzentration; anerkannte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015602119)
 
 (1) Die Messungen der Radon-222-Aktivitätskonzentration nach § 127
 Absatz 1 und § 128 Absatz 2 des Strahlenschutzgesetzes sind nach den
@@ -6813,6 +7003,7 @@ das technische Verfahren der Übermittlung.
 
 
 ##### § 156 Arbeitsplatzbezogene Abschätzung der Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015700000)
 
 Die zuständige Behörde kann Vorgaben für die Durchführung der
 Abschätzung nach § 130 Absatz 1 des Strahlenschutzgesetzes machen, um
@@ -6820,6 +7011,7 @@ die erforderliche Qualität der Abschätzung sicherzustellen.
 
 
 ##### § 157 Ermittlung der Exposition und der Körperdosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015800000)
 
 (1) Die Ermittlung der Körperdosis nach § 131 Absatz 1 Nummer 2 des
 Strahlenschutzgesetzes ist von einer nach § 169 Absatz 1 Nummer 4 des
@@ -6886,6 +7078,7 @@ Strahlenschutzregister nach § 170 des Strahlenschutzgesetzes
 
 
 ##### § 158 Weitere Anforderungen des beruflichen Strahlenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE015901128)
 
 (1) Der nach § 131 Absatz 1 des Strahlenschutzgesetzes Verpflichtete,
 der als Dritter nach § 130 Absatz 1 Satz 1 zweiter Halbsatz des
@@ -6940,9 +7133,11 @@ Satz 1 Nummer 3 anordnen.
 
 
 ### Kapitel 2 - Schutz vor Radioaktivität in Bauprodukten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003500000)
 
 
 #### § 159 Ermittlung der spezifischen Aktivität
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016000000)
 
 Der Verpflichtete nach § 135 Absatz 1 des Strahlenschutzgesetzes hat
 zum Nachweis, dass der Referenzwert nach § 133 des
@@ -6959,9 +7154,11 @@ Strahlenschutzgesetzes nicht überschritten wird,
 
 
 ### Kapitel 3 - Radioaktive Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003600000)
 
 
 #### § 160 Ermittlung der Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016101128)
 
 (1) Bei der Ermittlung der Exposition von Einzelpersonen der
 Bevölkerung sind realistische Expositionspfade und Expositionsannahmen
@@ -7011,6 +7208,7 @@ Bergbau) zugrunde gelegt worden sind.
 
 
 #### § 161 Prüfwerte bei radioaktiven Altlasten und bei der Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016200000)
 
 (1) Bei der Bestimmung radioaktiver Altlasten nach § 136 Absatz 1 des
 Strahlenschutzgesetzes gilt für anthropogen überprägte natürliche
@@ -7049,6 +7247,7 @@ Prüfwerte nach Absatz 1 nicht überschritten werden.
 
 
 #### § 162 Emissions- und Immissionsüberwachung bei der Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016301128)
 
 (1) Bei der Stilllegung und Sanierung der Betriebsanlagen und
 Betriebsstätten des Uranerzbergbaus hat der Genehmigungsinhaber dafür
@@ -7090,6 +7289,7 @@ zugrunde gelegt worden ist.
 
 
 #### § 163 Grundsätze für die Optimierung von Sanierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016400000)
 
 (1) Bei der Optimierung von Art, Umfang und Dauer der Sanierungs-,
 Schutz- und Beschränkungsmaßnahmen nach § 139 Absatz 2 Satz 2 des
@@ -7140,6 +7340,7 @@ Maßnahmen abzuwägen.
 
 
 #### § 164 Inhalt von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016500000)
 
 (1) Im Sanierungsplan sind die vorgesehenen Maßnahmen nach § 143
 Absatz 1 Satz 2 Nummer 3 des Strahlenschutzgesetzes textlich und
@@ -7211,6 +7412,7 @@ Angaben enthalten zu
 
 
 #### § 165 Schutz der Arbeitskräfte bei radioaktiven Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016600000)
 
 (1) Zum Schutz von Arbeitskräften im Zusammenhang mit der Durchführung
 von Maßnahmen nach § 145 Absatz 1 des Strahlenschutzgesetzes gelten
@@ -7256,9 +7458,11 @@ Fachkunde im Strahlenschutz besitzt.
 
 
 ### Kapitel 4 - Sonstige bestehende Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003700000)
 
 
 #### § 166 Schutz der Arbeitskräfte bei sonstigen bestehenden Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016700000)
 
 (1) Zum Schutz von Arbeitskräften bei anmeldungsbedürftigen sonstigen
 bestehenden Expositionssituationen gelten die folgenden Vorschriften
@@ -7303,12 +7507,15 @@ erforderliche Fachkunde im Strahlenschutz besitzt.
 
 
 ## Teil 5 - Expositionssituationsübergreifende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003800000)
 
 
 ### Kapitel 1 - Abhandenkommen, Fund und Erlangung; kontaminiertes Metall
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG003900000)
 
 
 #### § 167 Abhandenkommen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016801128)
 
 (1) Der bisherige Inhaber der tatsächlichen Gewalt über einen
 radioaktiven Stoff nach § 3 des Strahlenschutzgesetzes hat der atom-
@@ -7336,6 +7543,7 @@ einer hochradioaktiven Strahlenquelle.
 
 
 #### § 168 Fund und Erlangung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE016901128)
 
 (1) Wer
 
@@ -7399,6 +7607,7 @@ zum Schutz von Leben und Gesundheit befördert oder handhabt.
 
 
 #### § 169 Kontaminiertes Metall
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017000000)
 
 (1) Wer darüber Kenntnis erlangt oder wer vermutet, dass eine
 herrenlose Strahlenquelle eingeschmolzen oder auf sonstige Weise
@@ -7416,6 +7625,7 @@ der zuständigen Behörde verwenden, in Verkehr bringen oder entsorgen.
 
 
 #### § 170 Information des zuständigen Bundesministeriums
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017101128)
 
 Die atom- oder strahlenschutzrechtliche Aufsichtsbehörde informiert
 unverzüglich das Bundesministerium für Umwelt, Naturschutz und
@@ -7426,9 +7636,11 @@ erfolgt die Information durch die zuständige oberste Landesbehörde.
 
 
 ### Kapitel 2 - Dosis- und Messgrößen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG004000000)
 
 
 #### § 171 Dosis- und Messgrößen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017200000)
 
 Die für die Messungen und Ermittlungen von Expositionen maßgeblichen
 Messgrößen, Dosisgrößen, Wichtungsfaktoren, Dosiskoeffizienten und die
@@ -7436,9 +7648,11 @@ dazugehörigen Berechnungsgrundlagen bestimmen sich nach Anlage 18.
 
 
 ### Kapitel 3 - Gemeinsame Vorschriften für die berufliche Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG004100000)
 
 
 #### § 172 Messstellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017301123)
 
 (1) Die nach § 169 Absatz 1 des Strahlenschutzgesetzes bestimmte
 Messstelle hat auf Anforderung Folgendes bereitzustellen:
@@ -7492,6 +7706,7 @@ Auslagen erhoben.
 
 
 #### § 173 Strahlenschutzregister
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017400000)
 
 (1) Das Bundesamt für Strahlenschutz bestimmt das technische Verfahren
 der Erzeugung und den Aufbau der persönlichen Kennnummer nach § 170
@@ -7521,6 +7736,7 @@ Strahlenschutzgesetzes.
 
 
 #### § 174 Strahlenpass
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017501128)
 
 (1) Wer nach § 68 Absatz 1, § 158 Absatz 1 Satz 1, § 165 Absatz 2
 Nummer 2 oder § 166 Absatz 2 Nummer 2 dafür zu sorgen hat, dass die
@@ -7634,6 +7850,7 @@ Voraussetzungen für eine Registrierung nach Absatz 2 Satz 1 erfüllt.
 
 
 #### § 175 Ermächtigte Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017601128)
 
 (1) Die zuständige Behörde ermächtigt Ärzte zur Durchführung der
 ärztlichen Überwachung nach den §§ 77, 78, 79 und 81, auch in
@@ -7671,6 +7888,7 @@ Absatz 2 des Strahlenschutzgesetzes zu führen.
 
 
 #### § 176 Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017700000)
 
 (1) Personen, die der ärztlichen Überwachung nach den §§ 77 und 78,
 auch in Verbindung mit § 158 Absatz 3, § 165 Absatz 1 oder § 166
@@ -7694,9 +7912,11 @@ Messungen oder Feststellungen angeordnet hat.
 
 
 ### Kapitel 4 - Bestimmung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG004200000)
 
 
 #### § 177 Bestimmung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017800000)
 
 (1) Die zuständige Behörde hat auf Antrag Einzelsachverständige nach §
 172 Absatz 1 des Strahlenschutzgesetzes zu bestimmen, wenn
@@ -7752,6 +7972,7 @@ befristen.
 
 
 #### § 178 Erweiterung der Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE017900000)
 
 Das Hinzukommen einer prüfenden Person in einer
 Sachverständigenorganisation oder die Erweiterung des
@@ -7761,6 +7982,7 @@ Erweiterung sind die zur Prüfung erforderlichen Unterlagen beizufügen.
 
 
 #### § 179 Überprüfung der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018000000)
 
 (1) Zur Überprüfung der Zuverlässigkeit hat der Antragsteller bei
 jeder Antragstellung auf Bestimmung zum Sachverständigen unverzüglich
@@ -7775,6 +7997,7 @@ ist die erneute Vorlage der Unterlagen nicht erforderlich.
 
 
 #### § 180 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018100000)
 
 (1) Die für eine Bestimmung als Sachverständiger erforderliche
 Unabhängigkeit ist gegeben, wenn der Einzelsachverständige oder im
@@ -7813,6 +8036,7 @@ entsprechend.
 
 
 #### § 181 Fachliche Qualifikation
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018201128)
 
 (1) Wer als Einzelsachverständiger oder prüfende Person
 Sachverständigentätigkeiten durchführt, muss
@@ -7882,6 +8106,7 @@ Prüfungen gilt Absatz 2 Satz 1 entsprechend.
 
 
 #### § 182 Prüfmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018300000)
 
 (1) Der Einzelsachverständige oder die prüfende Person prüft,
 inwieweit die sicherheitstechnische Auslegung sowie die Funktion und
@@ -7903,6 +8128,7 @@ Stand von Wissenschaft und Technik zu beachten.
 
 
 #### § 183 Pflichten des behördlich bestimmten Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018401128)
 
 (1) Der behördlich bestimmte Einzelsachverständige ist verpflichtet,
 
@@ -8074,12 +8300,15 @@ Zuständigkeitsbereich die prüfende Person tätig wird,
 
 
 ## Teil 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG004300000)
 
 
 ### Kapitel 1 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG004400000)
 
 
 #### § 184 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018503128)
 
 (1) Ordnungswidrig im Sinne des § 194 Absatz 1 Nummer 1 Buchstabe a
 des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -8586,9 +8815,11 @@ des Strahlenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### Kapitel 2 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNG004500000)
 
 
 #### § 185 Bauartzulassung (§§ 16 bis 26)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018601128)
 
 Bauartzugelassene Vorrichtungen, die sonstige radioaktive Stoffe nach
 § 3 Absatz 1 des Strahlenschutzgesetzes enthalten und die gemäß § 208
@@ -8609,6 +8840,7 @@ genehmigungs- und anzeigefrei war.
 
 
 #### § 186 Rückstände (§ 29)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018700000)
 
 Eine nach § 98 Absatz 1 Satz 1 der Strahlenschutzverordnung in der bis
 zum 31. Dezember 2018 geltenden Fassung erteilte Entlassung gilt als
@@ -8619,6 +8851,7 @@ werden soll, bis zum 30. Juni 2019 ihr Einvernehmen erteilt.
 
 
 #### § 187 Freigabe (§§ 31 bis 42)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018800000)
 
 (1) Eine nach § 29 Absatz 2 Satz 1 in Verbindung mit Satz 2 Nummer 1
 Buchstabe a der Strahlenschutzverordnung in der bis zum 31. Dezember
@@ -8676,6 +8909,7 @@ einzuhalten sind.
 
 
 #### § 188 Betriebliche Organisation des Strahlenschutzes (§§ 44 und 45)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE018900000)
 
 (1) Für eine Anlage zur Erzeugung ionisierender Strahlung, eine
 Röntgeneinrichtung oder einen genehmigungsbedürftigen Störstrahler,
@@ -8694,6 +8928,7 @@ Absatz 2 bis zum 1. Januar 2020 zu aktualisieren.
 
 
 #### § 189 Erforderliche Fachkunde und Kenntnisse im Strahlenschutz (§§ 47, 49 und 51)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019001128)
 
 (1) Für Strahlenschutzbeauftragte, die
 
@@ -8778,6 +9013,7 @@ enthält.
 
 
 #### § 190 Übergangsvorschriften im Zusammenhang mit Strahlenschutzbereichen (§§ 52 bis 62)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019100000)
 
 (1) Der Inhaber einer nach § 197 oder § 198 des Strahlenschutzgesetzes
 fortgeltenden Genehmigung, einer vor dem 31. Dezember 2018 erteilten
@@ -8804,6 +9040,7 @@ Aktivität 50 Gigabecquerel unterschreitet, darf bis zum 31. Dezember
 
 
 #### § 191 Dosisrichtwerte bei Tätigkeiten (§ 72)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019200000)
 
 Für Tätigkeiten, die bereits vor dem 31. Dezember 2018 aufgenommen
 wurden, hat die Prüfung nach § 72 Absatz 1, ob die Festlegung von
@@ -8812,6 +9049,7 @@ Strahlenschutzes ist, bis zum 1. Januar 2020 zu erfolgen.
 
 
 #### § 192 Register über hochradioaktive Strahlenquellen (§ 84)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019300000)
 
 Bei hochradioaktiven Strahlenquellen, die bis zum 31. Dezember 2018 im
 Register über hochradioaktive Strahlenquellen erfasst wurden und die
@@ -8821,6 +9059,7 @@ Register über hochradioaktive Strahlenquellen zu vervollständigen.
 
 
 #### § 193 Ermittlung der für Einzelpersonen der Bevölkerung zu erwartenden und erhaltenen Exposition (§§ 99, 100, 101, Anlage 11)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019400000)
 
 (1) § 99 Absatz 1 und § 100 Absatz 1 und 4 sind erst anzuwenden auf
 
@@ -8855,6 +9094,7 @@ Exposition ist
 
 
 #### § 194 Begrenzung der Exposition durch Störfälle (§ 104)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019500000)
 
 Bis zum Inkrafttreten Allgemeiner Verwaltungsvorschriften zur
 Störfallvorsorge nach § 104 Absatz 6 ist bei der Planung der in § 104
@@ -8865,6 +9105,7 @@ Millisievert nicht überschritten wird.
 
 
 #### § 195 Ausrüstung bei der Anwendung am Menschen (§ 114)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019602128)
 
 (1) § 114 Absatz 1 Satz 1 Nummer 1 gilt für Röntgeneinrichtungen, die
 vor dem 1. Juli 2002 erstmals in Betrieb genommen wurden, ab dem 1.
@@ -8913,6 +9154,7 @@ worden sind.
 
 
 #### § 196 Ärztliche und zahnärztliche Stellen (§ 128)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019700000)
 
 Eine vor dem 31. Dezember 2018 erfolgte Bestimmung einer ärztlichen
 oder zahnärztlichen Stelle gilt als Bestimmung nach § 128 Absatz 1
@@ -8922,6 +9164,7 @@ sind.
 
 
 #### § 197 Dosis- und Messgrößen (§ 171, Anlage 18)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019802128)
 
 (1) Die in Anlage 18 Teil A Nummer 1 Buchstabe b genannte Messgröße
 ist spätestens ab dem 1. Januar 2022 bei Messungen der Personendosis
@@ -8937,6 +9180,7 @@ spätestens ab dem 1. Juli 2027 zu verwenden.
 
 
 #### § 198 Strahlenpass (§ 174)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE019900000)
 
 Ein vor dem 31. Dezember 2018 ausgestellter gültiger Strahlenpass kann
 bis zu dem darin vorgesehenen Ende der Gültigkeit, längstens bis zum
@@ -8947,6 +9191,7 @@ Strahlenschutzgesetzes eingetragen wird.
 
 
 #### § 199 Ermächtigte Ärzte (§ 175)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020000000)
 
 Eine Ermächtigung eines Arztes zur Durchführung der
 arbeitsmedizinischen Vorsorge nach § 64 Absatz 1 Satz 1 der
@@ -8960,6 +9205,7 @@ maßgeblich.
 
 
 #### § 200 Behördlich bestimmte Sachverständige (§ 181)
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020100000)
 
 (1) Für Einzelsachverständige oder prüfende Personen, die nach § 66
 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018
@@ -8984,6 +9230,7 @@ Radioaktivität verfügt.
 (zu § 2)
 
 #### Anlage 1 Liste der nicht gerechtfertigten Tätigkeitsarten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020200000)
 
 (Fundstelle: BGBl. I 2018, 2104)
 
@@ -9105,6 +9352,7 @@ Nicht gerechtfertigt ist die
 (zu den §§ 3 und 4)
 
 #### Anlage 2 Erforderliche Unterlagen zur Prüfung der Rechtfertigung von Tätigkeitsarten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020300000)
 
 (Fundstelle: BGBl. I 2018, 2105)
 
@@ -9177,6 +9425,7 @@ Erforderlich sind
 (zu den §§ 5, 5a, 6, 7, 8, 9, 14, 82, 96)
 
 #### Anlage 3 Genehmigungsfreie Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020402128)
 
 (Fundstelle: BGBl. I 2018, 2106 - 2107
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9352,6 +9601,7 @@ S. 2752) geändert worden ist, bis zu 10 Becquerel je Gramm im Produkt.
 61, 70, 83, 87, 88, 89, 92, 104, 106, 167, 187 und Anlage 3)
 
 #### Anlage 4 Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte für hochradioaktive Strahlenquellen, Werte der Oberflächenkontamination, Liste der Radionuklide und bei den Berechnungen berücksichtigte Tochternuklide
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020501128)
 
 (Fundstelle: BGBl. I 2018, 2108 - 2124
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30062,6 +30312,7 @@ Tochternuklide
 (zu § 27 und Anlage 7)
 
 #### Anlage 5 Überwachungsgrenzen sowie Verwertungs- und Beseitigungswege für die Bestimmung der Überwachungsbedürftigkeit von Rückständen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020601128)
 
 (Fundstelle: BGBl. I 2018, 2125
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30160,6 +30411,7 @@ unter 0,2 Bq/g, bleibt die jeweilige Nuklidkette unberücksichtigt.
 (zu den §§ 28, 100, 101)
 
 #### Anlage 6 Grundsätze für die Ermittlung von Expositionen bei Rückständen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020701128)
 
 (Fundstelle: BGBl. I 2018, 2126
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30204,6 +30456,7 @@ Dosiskoeffizienten zu verwenden.
 (zu § 29 Absatz 4)
 
 #### Anlage 7 Voraussetzungen für die Entlassung aus der Überwachung bei gemeinsamer Deponierung von überwachungsbedürftigen Rückständen mit anderen Rückständen und Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020801128)
 
 (Fundstelle: BGBl. I 2018, 2127
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30290,6 +30543,7 @@ nach Nummer 1 unberücksichtigt.
 (zu den §§ 35, 36, 37, 39 sowie Anlage 4)
 
 #### Anlage 8 Festlegungen zur Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE020902128)
 
 (Fundstelle: BGBl. I 2018, 2128 - 2130
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30671,6 +30925,7 @@ Bauteilen**
 (zu den §§ 84, 85, 167, 168, 192)
 
 #### Anlage 9 Liste der Daten über hochradioaktive Strahlenquellen (HRQ), die im Register über hochradioaktive Strahlenquellen (HRQ-Register) erfasst werden
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021000000)
 
 (Fundstelle: BGBl. I 2018, 2131 - 2133)
 
@@ -31078,6 +31333,7 @@ Bauteilen**
 (zu den §§ 91, 92)
 
 #### Anlage 10 Strahlenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021100000)
 
 (Fundstelle: BGBl. I 2018, 2134)
 
@@ -31092,6 +31348,7 @@ Bauteilen**
 (zu den §§ 100, 101, 102, 160, 168, Anlage 6 und Anlage 8)
 
 #### Anlage 11 Annahmen bei der Berechnung der Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021201128)
 
 (Fundstelle: BGBl. I 2018, 2135 - 2158
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38907,6 +39164,7 @@ i **aus Strahlenschutzbereichen (zu Teil D Nummer 1.1 und 2)**
 (zu § 103 Absatz 3)
 
 #### Anlage 12 Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021300000)
 
 (Fundstelle: BGBl. I 2018, 2159)
 
@@ -38955,6 +39213,7 @@ i **aus Strahlenschutzbereichen (zu Teil D Nummer 1.1 und 2)**
 (zu § 106 Absatz 4)
 
 #### Anlage 13 Information der Bevölkerung zur Vorbereitung auf einen Notfall
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021400000)
 
 (Fundstelle: BGBl. I 2018, 2160)
 
@@ -39034,6 +39293,7 @@ Die Information der Bevölkerung muss Folgendes umfassen:
 (zu § 108)
 
 #### Anlage 14 Kriterien für die Bedeutsamkeit eines Vorkommnisses bei medizinischer Exposition und bei Exposition der untersuchten Person bei einer nichtmedizinischen Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021501128)
 
 (Fundstelle: BGBl. I 2018, 2161 - 2162
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39259,6 +39519,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 108)
 
 #### Anlage 15 Kriterien für die Bedeutsamkeit eines Vorkommnisses in einer geplanten Expositionssituation
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021600000)
 
 (Fundstelle: BGBl. I 2018, 2163)
 
@@ -39333,6 +39594,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 149)
 
 #### Anlage 16 Kriterien zur Bestimmung der Art und des Ausmaßes des mit einer Tätigkeit verbundenen Risikos
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021700000)
 
 (Fundstelle: BGBl. I 2018, 2164)
 
@@ -39377,6 +39639,7 @@ verbundenen Risiken, insbesondere anhand folgender Kriterien:
 (zu § 159)
 
 #### Anlage 17 Aktivitätsindex und nicht zu überschreitende Werte nach § 135 Absatz 1 Satz 3 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021800000)
 
 (Fundstelle: BGBl. I 2018, 2165)
 
@@ -39409,6 +39672,7 @@ zu setzen.
 (zu den §§ 171, 197)
 
 #### Anlage 18 Dosis- und Messgrößen
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE021901128)
 
 (Fundstelle: BGBl. I 2018, 2166 - 2168
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39876,6 +40140,7 @@ Wasser in keV/*m.
 (zu § 181)
 
 #### Anlage 19 Prüfungen zum Erwerb und Erhalt der erforderlichen fachlichen Qualifikation für die Ausübung einer Tätigkeit als behördlich bestimmter Sachverständiger nach § 172 Absatz 1 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschv_2018/BJNR203600018.html#BJNR203600018BJNE022001128)
 
 (Fundstelle: BGBl. I 2018, 2169 - 2171
 bzgl. der einzelnen Änderungen vgl. Fußnote)

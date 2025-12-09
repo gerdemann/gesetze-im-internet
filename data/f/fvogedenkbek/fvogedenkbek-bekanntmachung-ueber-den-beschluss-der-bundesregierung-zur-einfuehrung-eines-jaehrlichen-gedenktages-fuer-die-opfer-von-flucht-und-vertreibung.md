@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/fvogedenkbek/BJNR159900014.html#BJNR159900014BJNE000100000)
 
 Die Bundesregierung hat in ihrer Sitzung am 27. August 2014
 beschlossen, ab dem Jahre 2015 jährlich am 20. Juni den „Gedenktag für

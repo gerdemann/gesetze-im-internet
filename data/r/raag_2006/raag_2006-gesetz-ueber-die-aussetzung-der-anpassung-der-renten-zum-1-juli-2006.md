@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/raag_2006/BJNR130410006.html#BJNR130410006BJNE000100000)
 
 Zum 1. Juli 2006 werden der aktuelle Rentenwert und der aktuelle
 Rentenwert (Ost) nicht verändert.

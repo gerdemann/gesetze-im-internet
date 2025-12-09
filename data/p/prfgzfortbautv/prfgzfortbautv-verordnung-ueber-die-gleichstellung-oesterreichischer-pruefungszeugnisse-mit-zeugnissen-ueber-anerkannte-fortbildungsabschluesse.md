@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfortbautv/BJNR260000007.html#BJNR260000007BJNE000100000)
 
 Auf Grund des § 57 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
 I S. 931), der durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober
@@ -33,6 +34,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfortbautv/BJNR260000007.html#BJNR260000007BJNE000200000)
 
 Diese Verordnung dient der Umsetzung des Abkommens zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung der
@@ -43,6 +45,7 @@ beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S.
 
 
 ## § 2 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfortbautv/BJNR260000007.html#BJNR260000007BJNE000300000)
 
 Österreichische Zeugnisse über das Bestehen der Abschlussprüfung
 werden den deutschen Zeugnissen über anerkannte Fortbildungsabschlüsse
@@ -50,16 +53,19 @@ nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfortbautv/BJNR260000007.html#BJNR260000007BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfortbautv/BJNR260000007.html#BJNR260000007BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfortbautv/BJNR260000007.html#BJNR260000007BJNE000600000)
 
 ( Fundstelle: BGBl. I 2007, 2601 )
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ifggebv/BJNR000600006.html#BJNR000600006BJNE000100000)
 
 Auf Grund des § 10 Abs. 3 des Informationsfreiheitsgesetzes vom 5.
 September 2005 (BGBl. I S. 2722) in Verbindung mit dem 2. Abschnitt
@@ -29,6 +30,7 @@ verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ifggebv/BJNR000600006.html#BJNR000600006BJNE000201311)
 
 (1) Die Gebühren und Auslagen für individuell zurechenbare öffentliche
 Leistungen nach dem Informationsfreiheitsgesetz bestimmen sich nach
@@ -41,6 +43,7 @@ Nummer 1.1 des Gebühren- und Auslagenverzeichnisses.
 
 
 ## § 2 Befreiung und Ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/ifggebv/BJNR000600006.html#BJNR000600006BJNE000300000)
 
 Aus Gründen der Billigkeit oder des öffentlichen Interesses kann die
 Gebühr um bis zu 50 Prozent ermäßigt werden. Aus den genannten Gründen
@@ -49,12 +52,14 @@ werden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ifggebv/BJNR000600006.html#BJNR000600006BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2006 in Kraft.
 
 (zu § 1 Abs. 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ifggebv/BJNR000600006.html#BJNR000600006BJNE000500000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 7
 

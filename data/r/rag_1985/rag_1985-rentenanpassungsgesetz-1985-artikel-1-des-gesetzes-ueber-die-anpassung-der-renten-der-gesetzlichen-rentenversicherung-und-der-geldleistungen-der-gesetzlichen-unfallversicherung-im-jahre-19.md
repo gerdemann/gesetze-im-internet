@@ -20,16 +20,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE000400319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNG000100319)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE000500319)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1984 auf das Jahr 1985 werden die Renten der gesetzlichen
@@ -38,6 +41,7 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 ### § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE000600319)
 
 (1) Renten, die
 
@@ -64,6 +68,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE000700319)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1985 ergebende
@@ -71,6 +76,7 @@ anpassungsfähige Rentenbetrag um 3,0 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE000800319)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -89,6 +95,7 @@ zulässig.
 
 
 ### § 5 Berichtigung fehlerhafter Anpassungen
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE000900319)
 
 Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist
 sie zu berichtigen. Die Berichtigung ist nur bis zur nächsten
@@ -98,6 +105,7 @@ Rückforderung überzahlter Beträge findet nicht statt.
 
 
 ### § 6 Allgemeine Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE001000319)
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1985 beträgt
 
@@ -115,26 +123,31 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1985 beträgt
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNG000200319)
 
 
 
 ### § 7 Anpassungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE001100319)
 
 Der Anpassungsfaktor für die vom 1. Juli 1985 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0141.
 
 
 ### § 8 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE001200319)
 
 Das Pflegegeld beträgt vom 1. Juli 1985 an zwischen 394 Deutsche Mark
 und 1.573 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNG000300319)
 
 
 
 ### § 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1985/BJNR109130985.html#BJNR109130985BJNE001300319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

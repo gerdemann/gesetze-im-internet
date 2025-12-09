@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000100000)
 
 Auf Grund des § 48 Absatz 1 Nummer 4 und 4a des
 Strompreisbremsegesetzes vom 20. Dezember 2022 (BGBl. I S. 2512),
@@ -31,9 +32,11 @@ dem Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNG000100000)
 
 
 ### § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -74,6 +77,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -118,9 +122,11 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ## Abschnitt 2 - Rückforderung überzahlter Entlastungen durch Energieversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNG000200000)
 
 
 ### § 3 Geltendmachung des Rückforderungsanspruchs durch das Energieversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000400000)
 
 Ein Energieversorgungsunternehmen ist bei der Geltendmachung des
 Rückforderungsanspruchs nach § 12 Absatz 2a Satz 1 des
@@ -136,6 +142,7 @@ entsprechend anzuwenden.
 
 
 ### § 4 Anordnung der Geltendmachung des Rückforderungsanspruchs des Energieversorgungsunternehmens und der Korrektur der Jahresendabrechnung durch die Prüfbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000500000)
 
 Jede Anordnung der Prüfbehörde nach § 11 Absatz 7 des
 Strompreisbremsegesetzes oder nach § 19 Absatz 7 des Erdgas-Wärme-
@@ -152,9 +159,11 @@ enthalten.
 
 
 ## Abschnitt 3 - Übergang des Rückforderungsanspruchs des Energieversorgungsunternehmens auf den Bund
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNG000300000)
 
 
 ### § 5 Übergang des Rückforderungsanspruchs auf den Bund
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000600000)
 
 Der Rückforderungsanspruch des Energieversorgungsunternehmens gegen
 einen Letztverbraucher oder einen Kunden nach § 12 Absatz 2a Satz 1
@@ -168,6 +177,7 @@ Forderungsübergang nicht nach § 7 ausgeschlossen ist.
 
 
 ### § 6 Voraussetzungen für den Forderungsübergang; Bestätigung durch die Prüfbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000700000)
 
 (1) Der Forderungsübergang auf den Bund nach § 5 setzt voraus, dass
 das Energieversorgungsunternehmen bis zum Ablauf des 28. Februar 2025
@@ -254,6 +264,7 @@ ist entsprechend anzuwenden.
 
 
 ### § 7 Ausschluss des Forderungsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000800000)
 
 (1) Bei einem Rückforderungsanspruch nach § 12 Absatz 2a Satz 1 des
 Strompreisbremsegesetzes ist ein Forderungsübergang auf den Bund
@@ -280,6 +291,7 @@ belastet ist.
 
 
 ### § 8 Geltendmachung des übergegangenen Rückforderungsanspruchs durch die Prüfbehörde; Insolvenzantrag
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE000900000)
 
 (1) Die Prüfbehörde ist für die Geltendmachung des auf den Bund nach
 § 5 übergegangenen Rückforderungsanspruchs zuständig und handelt dabei
@@ -297,6 +309,7 @@ Insolvenzordnung zu stellen.
 
 
 ### § 9 Anzeigepflichten der Prüfbehörde im Rahmen des Forderungsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001000000)
 
 (1) Die Prüfbehörde hat dem Letztverbraucher oder dem Kunden den
 bevorstehenden Forderungsübergang unverzüglich nach Ausstellung der
@@ -318,6 +331,7 @@ Zeitpunkt anzuzeigen.
 
 
 ### § 10 Zahlung an das Energieversorgungsunternehmen vor Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001100000)
 
 Eine Zahlung durch den Letztverbraucher oder den Kunden an das
 Energieversorgungsunternehmen hat keine schuldbefreiende Wirkung,
@@ -327,6 +341,7 @@ Gesetzbuchs ist entsprechend anzuwenden.
 
 
 ### § 11 Verfügungsverbot; Anzeige- und sonstige Pflichten bei Erlöschen vor Forderungsübergang oder Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001200000)
 
 (1) Nachdem das Energieversorgungsunternehmen Angaben nach § 6 Absatz
 1 an die Prüfbehörde versendet hat, kann das
@@ -361,6 +376,7 @@ beim Insolvenzverwalter angemeldet hat.
 
 
 ### § 12 Ausgleichsanspruch des Energieversorgungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001300000)
 
 (1) Soweit der Rückforderungsanspruch des
 Energieversorgungsunternehmens nach § 5 auf den Bund übergeht, hat das
@@ -391,9 +407,11 @@ verrechnet.
 
 
 ## Abschnitt 4 - Unmittelbare Anspruchsdurchsetzung durch die Prüfbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNG000400000)
 
 
 ### § 13 Anforderungen an die Aufforderung der Prüfbehörde zur Auskehr überzahlter Entlastungen
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001400000)
 
 (1) Macht die Prüfbehörde von ihrer Möglichkeit der Aufforderung zur
 Auskehr überzahlter Entlastungen nach § 11 Absatz 10 Satz 1 des
@@ -413,6 +431,7 @@ korrigieren.
 
 
 ### § 14 Übergang des Rückforderungsanspruchs auf den Bund
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001500000)
 
 Mit Zugang der Aufforderung der Prüfbehörde zur Auskehr überzahlter
 Entlastungen nach § 11 Absatz 10 Satz 1 des Strompreisbremsegesetzes
@@ -427,6 +446,7 @@ erloschen sind.
 
 
 ### § 15 Ausschluss des Forderungsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001600000)
 
 (1) Bei einer Aufforderung zur Auskehr überzahlter Entlastungen nach §
 11 Absatz 10 Satz 1 des Strompreisbremsegesetzes ist ein
@@ -448,6 +468,7 @@ Preisbremsengesetzes endabgerechnet hat.
 
 
 ### § 16 Geltendmachung des Auskehrverlangens und des übergegangenen Rückforderungsanspruchs durch die Prüfbehörde; Insolvenzantrag
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001700000)
 
 (1) Die Prüfbehörde ist für die Geltendmachung des Auskehrverlangens
 nach § 11 Absatz 10 Satz 1 des Strompreisbremsegesetzes oder nach § 19
@@ -469,6 +490,7 @@ Insolvenzordnung zu stellen.
 
 
 ### § 17 Anzeigepflichten der Prüfbehörde und des Energieversorgungsunternehmens im Zusammenhang mit der Aufforderung zur Auskehr
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001800000)
 
 (1) Zusammen mit der Aufforderung zur Auskehr überzahlter Entlastungen
 nach § 11 Absatz 10 Satz 1 des Strompreisbremsegesetzes oder nach § 19
@@ -505,6 +527,7 @@ gegenüber dem Kunden oder Letztverbraucher verlangt hat.
 
 
 ### § 18 Zahlung an das Energieversorgungsunternehmen nach Aufforderung der Prüfbehörde zur Auskehr
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE001900000)
 
 Eine Zahlung durch den Letztverbraucher oder den Kunden an das
 Energieversorgungsunternehmen hat keine schuldbefreiende Wirkung,
@@ -515,6 +538,7 @@ dem Letztverbraucher oder dem Kunden bereits zugegangen ist.
 
 
 ### § 19 Ausgleichsanspruch des Energieversorgungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE002000000)
 
 (1) Soweit der Rückforderungsanspruch des
 Energieversorgungsunternehmens nach § 14 auf den Bund übergeht, hat
@@ -547,9 +571,11 @@ verrechnet.
 
 
 ## Abschnitt 5 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNG000500000)
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbr_v/BJNR06F0A0024.html#BJNR06F0A0024BJNE002100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

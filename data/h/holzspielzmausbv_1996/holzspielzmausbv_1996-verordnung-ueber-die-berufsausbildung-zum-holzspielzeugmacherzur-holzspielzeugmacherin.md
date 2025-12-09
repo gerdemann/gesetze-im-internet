@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -33,6 +34,7 @@ Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000200310)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Holzspielzeugmacher/Holzspielzeugmacherin nach der Handwerksordnung
@@ -41,17 +43,20 @@ Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000300310)
 
 Der Ausbildungsberuf Holzspielzeugmacher/Holzspielzeugmacherin wird
 staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000400310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000500310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -110,6 +115,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000600310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -128,12 +134,14 @@ nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -142,6 +150,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -205,6 +214,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE001000310)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -366,6 +376,7 @@ Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE001100310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -374,12 +385,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE001200310)
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Holzspielzeugmacher/zur Holzspielzeugmacherin
+[Direktlink](https://www.gesetze-im-internet.de/holzspielzmausbv_1996/BJNR094000996.html#BJNR094000996BJNE001300310)
 
 (Fundstelle: BGBl. I 1996, 943 - 946)
 

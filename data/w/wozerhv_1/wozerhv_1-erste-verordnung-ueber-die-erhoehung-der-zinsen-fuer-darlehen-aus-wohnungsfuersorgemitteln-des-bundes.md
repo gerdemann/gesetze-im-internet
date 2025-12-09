@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000100314)
 
 Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in
 der Fassung der Bekanntmachung vom 30. Juli 1980 (BGBl. I S. 1085),
@@ -33,6 +34,7 @@ Bundesrates:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000200314)
 
 (1) Diese Verordnung ist auf Baudarlehen und auf Annuitätsdarlehen (§
 42 Abs. 1 des Zweiten Wohnungsbaugesetzes) aus Wohnungsfürsorgemitteln
@@ -54,6 +56,7 @@ Wohnungsbaugesetzes).
 
 
 ## § 2 Zinserhöhung
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000300314)
 
 (1) Darlehen, die vor dem 1. Januar 1960 bewilligt worden sind, sind
 vorbehaltlich der §§ 3 bis 5 mit einem Zinssatz von 8 vom Hundert
@@ -108,6 +111,7 @@ bei einem Wegfall
 
 
 ## § 3 Begrenzung der Zinserhöhung insbesondere bei Mietwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000400314)
 
 (1) Betrifft die Zinserhöhung nach § 2 Abs. 1 und 2 Wohnungen im Sinne
 des § 2 Abs. 3 Nr. 2, ist sie wie folgt begrenzt:
@@ -163,6 +167,7 @@ daß der Darlehnsschuldner sie nach Maßgabe des § 6 geltend macht.
 
 
 ## § 4 Begrenzung der Zinserhöhung bei Familienheimen und Eigentumswohnungen
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000500314)
 
 Betrifft die Zinserhöhung nach § 2 Abs. 1 und 2 Wohnungen im Sinne des
 § 2 Abs. 3 Nr. 1, ist sie so begrenzt, daß die monatliche
@@ -170,6 +175,7 @@ Mehrbelastung 100 Deutsche Mark je Wohnung nicht übersteigt.
 
 
 ## § 5 Sonderregelung für gemischt geförderten Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000600314)
 
 (1) Bei Wohnraum, der mit Darlehen im Sinne des § 1 aus
 Wohnungsfürsorgemitteln und außerdem aus öffentlichen Mitteln
@@ -210,6 +216,7 @@ festgesetzt.
 
 
 ## § 6 Ausschlußfrist
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000700314)
 
 Einwendungen gegen die Auswirkungen der Zinserhöhung nach dieser
 Verordnung können vom Darlehnsschuldner nur innerhalb von sechs
@@ -220,6 +227,7 @@ Ausschlußfrist hinzuweisen.
 
 
 ## § 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000800314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 125 des Zweiten Wohnungsbaugesetzes auch im Land
@@ -227,6 +235,7 @@ Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_1/BJNR010090982.html#BJNR010090982BJNE000900314)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

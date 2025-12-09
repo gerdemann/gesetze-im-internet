@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbag_bol/BJNR108620994.html#BJNR108620994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbag_bol/BJNR108620994.html#BJNR108620994BJNE000200307)
 
 Dem in Königswinter/Petersberg am 30. September 1992 unterzeichneten
 Abkommen zwischen der Bundesrepublik Deutschland und der Republik
@@ -37,6 +39,7 @@ Notenwechsel werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbag_bol/BJNR108620994.html#BJNR108620994BJNE000300307)
 
 Soweit das Abkommen auf Grund seines Artikels 28 Abs. 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -53,6 +56,7 @@ Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbag_bol/BJNR108620994.html#BJNR108620994BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg_3abs1s2bek/BJNR034000010.html#BJNR034000010BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Satz 2 des Gesetzes über die
 Versorgungsausgleichskasse vom 15. Juli 2009 (BGBl. I S. 1939, 1947)
@@ -39,6 +40,7 @@ geändert wird, am 1. April 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg_3abs1s2bek/BJNR034000010.html#BJNR034000010BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000111311)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE002422311)
 
 (1) Dieses Gesetz regelt die Besoldung der
 
@@ -79,6 +81,7 @@ Religionsgesellschaften und ihre Verbände.
 
 
 ### § 2 Regelung durch Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE002510310)
 
 (1) Die Besoldung der Beamten, Richter und Soldaten wird durch Gesetz
 geregelt.
@@ -94,6 +97,7 @@ sind die vermögenswirksamen Leistungen.
 
 
 ### § 3 Anspruch auf Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE002614310)
 
 (1) Die Beamten, Richter und Soldaten haben Anspruch auf Besoldung.
 Der Anspruch entsteht mit dem Tag, an dem ihre Ernennung, Versetzung,
@@ -127,6 +131,7 @@ runden.
 
 
 ### § 4 Weitergewährung der Besoldung bei Versetzung in den einstweiligen Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE002713116)
 
 (1) Der in den einstweiligen Ruhestand versetzte Beamte, Richter oder
 Soldat erhält für den Monat, in dem ihm die Versetzung in den
@@ -152,6 +157,7 @@ von ihm bestimmte Stelle.
 
 
 ### § 5 Besoldung bei mehreren Hauptämtern
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE002810310)
 
 Hat der Beamte, Richter oder Soldat mit Genehmigung der obersten
 Dienstbehörde gleichzeitig mehrere besoldete Hauptämter inne, so wird
@@ -163,6 +169,7 @@ anderes bestimmt ist.
 
 
 ### § 6 Besoldung bei Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE002925116)
 
 (1) Bei Teilzeitbeschäftigung werden die Dienstbezüge und die
 Anwärterbezüge im gleichen Verhältnis wie die Arbeitszeit gekürzt.
@@ -241,6 +248,7 @@ Teilzeitbeschäftigung zustünde.
 
 
 ### § 6a Besoldung bei begrenzter Dienstfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE027001116)
 
 (1) Bei begrenzter Dienstfähigkeit (§ 45 des Bundesbeamtengesetzes)
 erhält der Beamte oder Richter Dienstbezüge entsprechend § 6 Absatz 1.
@@ -303,6 +311,7 @@ Arbeitszeit.
 
 
 ### § 7 Vorschuss während der Familienpflegezeit und Pflegezeit, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003017116)
 
 (1) Während einer Familienpflegezeit nach § 92a des
 Bundesbeamtengesetzes und einer Pflegezeit nach § 92b des
@@ -326,6 +335,7 @@ Soldatengesetzes gelten die Absätze 1 bis 3 entsprechend.
 
 
 ### § 7a Zuschläge bei Hinausschieben des Eintritts in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026303116)
 
 (1) Bei einem Hinausschieben des Eintritts in den Ruhestand nach § 53
 Absatz 1 bis 3 des Bundesbeamtengesetzes oder nach § 44 Absatz 1 des
@@ -365,6 +375,7 @@ Zuschläge nach den Absätzen 1 und 2 bleiben hiervon unberührt.
 
 
 ### § 8 Kürzung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003119116)
 
 (1) Erhält ein Beamter, Richter oder Soldat aus der Verwendung im
 öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen
@@ -395,6 +406,7 @@ Hochschulen.
 
 
 ### § 9 Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003211310)
 
 Bleibt der Beamte, Richter oder Soldat ohne Genehmigung schuldhaft dem
 Dienst fern, so verliert er für die Zeit des Fernbleibens seine
@@ -403,6 +415,7 @@ eines Tages. Der Verlust der Bezüge ist festzustellen.
 
 
 ### § 9a Anrechnung anderer Einkünfte auf die Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003316116)
 
 (1) Haben Beamte, Richter oder Soldaten Anspruch auf Besoldung für
 eine Zeit, in der sie nicht zur Dienstleistung verpflichtet waren,
@@ -426,6 +439,7 @@ Die Sätze 1 bis 3 gelten entsprechend für Soldaten.
 
 
 ### § 10 Anrechnung von Sachbezügen auf die Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003410310)
 
 Erhält ein Beamter, Richter oder Soldat Sachbezüge, so werden diese
 unter Berücksichtigung ihres wirtschaftlichen Wertes mit einem
@@ -434,6 +448,7 @@ anderes bestimmt ist.
 
 
 ### § 11 Abtretung von Bezügen, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003511310)
 
 (1) Der Beamte, Richter oder Soldat kann, wenn gesetzlich nichts
 anderes bestimmt ist, Ansprüche auf Bezüge nur abtreten oder
@@ -447,6 +462,7 @@ vorsätzlicher unerlaubter Handlung besteht.
 
 
 ### § 12 Rückforderung von Bezügen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003612116)
 
 (1) Wird ein Beamter, Richter oder Soldat durch eine gesetzliche
 Änderung seiner Bezüge einschließlich der Einreihung seines Amtes in
@@ -488,6 +504,7 @@ benennen. Ein Anspruch gegen die Erben bleibt unberührt.
 
 
 ### § 13 Ausgleichszulage für den Wegfall von Stellenzulagen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003720116)
 
 (1) Der Wegfall einer Stellenzulage aus dienstlichen Gründen, die
 nicht vom Beamten, Richter oder Soldaten zu vertreten sind, wird
@@ -522,6 +539,7 @@ jeweilige Zulagenvorschrift keinen anderweitigen Ausgleich vorsieht.
 
 
 ### § 14 Anpassung der Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003839360)
 
 (1) Die Besoldung wird entsprechend der Entwicklung der allgemeinen
 wirtschaftlichen und finanziellen Verhältnisse und unter
@@ -622,6 +640,7 @@ gleich und werden jedem Berechtigten nur einmal gewährt.
 
 
 ### § 14a Versorgungsrücklage
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE021709116)
 
 (1) Um die Versorgungsleistungen angesichts der demographischen
 Veränderungen und des Anstiegs der Zahl der Versorgungsempfänger
@@ -649,6 +668,7 @@ Sondervermögens, wird durch ein besonderes Gesetz geregelt.
 
 
 ### § 15 Dienstlicher Wohnsitz
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE003910310)
 
 (1) Dienstlicher Wohnsitz des Beamten oder Richters ist der Ort, an
 dem die Behörde oder ständige Dienststelle ihren Sitz hat.
@@ -673,12 +693,14 @@ Sie kann diese Befugnis auf nachgeordnete Stellen übertragen.
 
 
 ### § 16 Amt, Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004010310)
 
 Soweit in Vorschriften dieses Gesetzes auf das Amt verwiesen wird,
 steht dem Amt der Dienstgrad des Soldaten gleich.
 
 
 ### § 17 Aufwandsentschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004113116)
 
 Aufwandsentschädigungen dürfen nur gewährt werden, wenn und soweit aus
 dienstlicher Veranlassung finanzielle Aufwendungen entstehen, deren
@@ -693,6 +715,7 @@ festgesetzt.
 
 
 ### § 17a Zahlungsweise
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012610311)
 
 Für die Zahlung der Besoldung nach § 1 Absatz 2 und 3 und von
 Aufwandsentschädigungen nach § 17 hat der Empfänger auf Verlangen der
@@ -711,6 +734,7 @@ kann.
 
 
 ### § 17b Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE024800310)
 
 Die Vorschriften dieses Gesetzes, die sich auf das Bestehen oder das
 frühere Bestehen einer Ehe beziehen, gelten entsprechend für das
@@ -720,14 +744,17 @@ gelten entsprechend für den Lebenspartner.
 
 
 ## Abschnitt 2 - Grundgehalt, Leistungsbezüge an Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000212311)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000311311)
 
 
 
 #### § 18 Grundsatz der funktionsgerechten Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004213116)
 
 (1) Die Funktionen der Beamten und Soldaten sind nach den mit ihnen
 verbundenen Anforderungen sachgerecht zu bewerten und Ämtern
@@ -746,6 +773,7 @@ Bau und Heimat und des Bundesministeriums der Finanzen.
 
 
 #### § 19 Bestimmung des Grundgehaltes nach dem Amt
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004314116)
 
 (1) Das Grundgehalt des Beamten, Richters oder Soldaten bestimmt sich
 nach der Besoldungsgruppe des ihm verliehenen Amtes. Ist ein Amt noch
@@ -773,6 +801,7 @@ keinen Anspruch auf die Besoldung aus diesem Amt.
 
 
 #### § 19a Besoldung bei Verleihung eines anderen Amtes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012116311)
 
 Verringert sich während eines Dienstverhältnisses nach § 1 Absatz 1
 das Grundgehalt durch Verleihung eines anderen Amtes aus Gründen, die
@@ -790,6 +819,7 @@ einer anderen Funktion. Die Sätze 1 bis 3 gelten nicht im Fall des §
 
 
 #### § 19b Besoldung bei Wechsel in den Dienst des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025102116)
 
 (1) Verringert sich auf Grund einer Versetzung, die auf Antrag
 erfolgt, die Summe aus dem Grundgehalt, den grundgehaltsergänzenden
@@ -819,10 +849,12 @@ Richters in ein Dienstverhältnis nach § 1 Absatz 1 Nummer 1.
 
 
 ### Unterabschnitt 2 - Beamte und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000411311)
 
 
 
 #### § 20 Bundesbesoldungsordnungen A und B
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004415130)
 
 Die Ämter der Beamten und Soldaten und die Zuordnung der Ämter
 entsprechend ihrer Wertigkeit zu den Besoldungsgruppen sind in Anlage
@@ -831,16 +863,19 @@ Besoldungsgruppen sind in Anlage IV ausgewiesen.
 
 
 #### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004513310)
 
 -
 
 
 #### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004612310)
 
 -
 
 
 #### § 23 Eingangsämter für Beamte
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004719116)
 
 (1) Die Eingangsämter für Beamte sind folgenden Besoldungsgruppen
 zuzuweisen:
@@ -886,6 +921,7 @@ Bereichen der Informatik oder der Informationstechnik überwiegen.
 
 
 #### § 24 Eingangsamt für Beamte in besonderen Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004811311)
 
 (1) Das Eingangsamt in Sonderlaufbahnen, bei denen
 
@@ -912,13 +948,16 @@ eingereiht sind.
 
 
 #### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE004912311)
 
 
 
 #### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005020116)
 
 
 #### § 27 Bemessung des Grundgehaltes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005119116)
 
 (1) Das Grundgehalt wird, soweit nicht gesetzlich etwas Anderes
 bestimmt ist, nach Stufen bemessen. Dabei erfolgt der Aufstieg in eine
@@ -1013,6 +1052,7 @@ nach Absatz 3.
 
 
 #### § 28 Berücksichtigungsfähige Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005224116)
 
 (1) Beamten und Soldaten werden bei der ersten Stufenfestsetzung als
 Erfahrungszeiten im Sinne des § 27 Absatz 2 anerkannt:
@@ -1126,6 +1166,7 @@ Nummer 1 angerechnet.
 
 
 #### § 29 Öffentlich-rechtliche Dienstherren
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005315311)
 
 (1) Öffentlich-rechtliche Dienstherren im Sinne dieses Gesetzes sind
 der Bund, die Länder, die Gemeinden (Gemeindeverbände) und andere
@@ -1158,6 +1199,7 @@ stehen gleich:
 
 
 #### § 30 Nicht zu berücksichtigende Dienstzeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE020609116)
 
 (1) § 28 Absatz 1 bis 3 gilt nicht für Zeiten einer Tätigkeit für das
 Ministerium für Staatssicherheit oder das Amt für Nationale
@@ -1198,14 +1240,17 @@ oder Soldat
 
 
 #### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005413310)
 
 
 
 ### Unterabschnitt 3 - Professoren sowie hauptberufliche Leiter von Hochschulen und Mitglieder von Leitungsgremien an Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000513311)
 
 
 
 #### § 32 Bundesbesoldungsordnung W
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005615116)
 
 Die Ämter der Professoren und ihre Besoldungsgruppen sind in der
 Bundesbesoldungsordnung W (Anlage II) geregelt. Die Grundgehaltssätze
@@ -1217,6 +1262,7 @@ B zugewiesen sind.
 
 
 #### § 32a Bemessung des Grundgehaltes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026001116)
 
 (1) Das Grundgehalt wird, soweit nicht gesetzlich etwas Anderes
 bestimmt ist, nach Stufen bemessen. Dabei erfolgt der Aufstieg in eine
@@ -1265,6 +1311,7 @@ und Anfechtungsklage keine aufschiebende Wirkung.
 
 
 #### § 32b Berücksichtigungsfähige Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026101116)
 
 (1) Bei der ersten Stufenfestsetzung werden als Erfahrungszeiten
 anerkannt:
@@ -1313,6 +1360,7 @@ durch Zeiten nach § 28 Absatz 5 nicht verzögert.
 
 
 #### § 33 Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005725116)
 
 (1) In den Besoldungsgruppen W 2 und W 3 werden nach Maßgabe der
 nachfolgenden Vorschriften neben dem als Mindestbezug gewährten
@@ -1417,10 +1465,12 @@ Insbesondere sind Bestimmungen zu treffen
 
 
 #### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005822311)
 
 
 
 #### § 35 Forschungs- und Lehrzulage
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE005916116)
 
 Das Bundesministerium der Verteidigung für seinen Bereich, das
 Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit
@@ -1445,14 +1495,17 @@ für Arbeit und Soziales und dem Bundesministerium des Innern.
 
 
 #### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE020708310)
 
 
 
 ### Unterabschnitt 4 - Richter und Staatsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000611311)
 
 
 
 #### § 37 Bundesbesoldungsordnung R
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006113116)
 
 Die Ämter der Richter und Staatsanwälte, mit Ausnahme der Ämter der
 Vertreter des öffentlichen Interesses bei den Gerichten der
@@ -1462,6 +1515,7 @@ der Besoldungsgruppen sind in Anlage IV ausgewiesen.
 
 
 #### § 38 Bemessung des Grundgehaltes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE020812116)
 
 (1) Das Grundgehalt wird, soweit gesetzlich nichts Anderes bestimmt
 ist, nach Stufen bemessen. Das Aufsteigen in den Stufen erfolgt
@@ -1502,10 +1556,12 @@ Zeit des Ruhens.
 
 
 ## Abschnitt 3 - Familienzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000712311)
 
 
 
 ### § 39 Grundlage des Familienzuschlages
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006313310)
 
 (1) Der Familienzuschlag wird nach der Anlage V gewährt. Seine Höhe
 richtet sich nach der Besoldungsgruppe und der Stufe, die den
@@ -1527,6 +1583,7 @@ gilt entsprechend.
 
 
 ### § 40 Stufen des Familienzuschlages
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE024702116)
 
 (1) Zur Stufe 1 gehören:
 
@@ -1666,6 +1723,7 @@ Daten erheben und untereinander austauschen.
 
 
 ### § 41 Änderung des Familienzuschlages
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006511310)
 
 Der Familienzuschlag wird vom Ersten des Monats an gezahlt, in den das
 hierfür maßgebende Ereignis fällt. Er wird nicht mehr gezahlt für den
@@ -1675,10 +1733,12 @@ Teilbeträgen der Stufen des Familienzuschlages.
 
 
 ## Abschnitt 4 - Zulagen, Prämien, Zuschläge, Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000812311)
 
 
 
 ### § 42 Amtszulagen und Stellenzulagen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006615311)
 
 (1) Für herausgehobene Funktionen können Amtszulagen und
 Stellenzulagen vorgesehen werden. Sie dürfen 75 Prozent des
@@ -1710,6 +1770,7 @@ dies gesetzlich bestimmt ist.
 
 
 ### § 42a Prämien und Zulagen für besondere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE021609116)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 Gewährung von Leistungsprämien (Einmalzahlungen) und Leistungszulagen
@@ -1775,6 +1836,7 @@ zweckentsprechend zu verwenden und jährlich vollständig auszuzahlen.
 
 
 ### § 42b Prämie für besondere Einsatzbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE027100116)
 
 (1) Einem Beamten oder Soldaten kann für seine Verwendung bei der
 Herbeiführung eines im besonderen öffentlichen Interesse liegenden
@@ -1805,6 +1867,7 @@ für Bau und Heimat und dem Bundesministerium der Finanzen.
 
 
 ### § 43 Personalgewinnungs- und Personalbindungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025202116)
 
 (1) Einem zu gewinnenden Beamten oder Berufssoldaten kann eine nicht
 ruhegehaltfähige Personalgewinnungsprämie gewährt werden,
@@ -1903,6 +1966,7 @@ Dienstbehörde oder die von ihr bestimmte Stelle.
 
 
 ### § 43a Prämien für Angehörige der Spezialkräfte der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006717130)
 
 (1) Wer als Kommandosoldat oder als Kampfschwimmer für Einsatzaufgaben
 der Spezialkräfte der Bundeswehr verwendet oder für eine solche
@@ -1949,6 +2013,7 @@ der Prämie zu, der der Verwendungsdauer entspricht.
 
 
 ### § 44 Verpflichtungsprämie für Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006816130)
 
 (1) Einem Soldaten auf Zeit kann zur Sicherstellung der personellen
 Einsatzbereitschaft der Bundeswehr, unter Berücksichtigung
@@ -2019,6 +2084,7 @@ jährlichen Besoldungsausgaben für Soldaten nicht überschreiten.
 
 
 ### § 45 Zulage für die Wahrnehmung befristeter Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE006914116)
 
 (1) Wird einem Beamten oder Soldaten eine herausgehobene Funktion
 befristet übertragen, kann er eine Zulage zu seinen Dienstbezügen
@@ -2040,10 +2106,12 @@ haushaltsrechtlicher Bestimmungen die oberste Dienstbehörde.
 
 
 ### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007016116)
 
 
 
 ### § 47 Zulagen für besondere Erschwernisse
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007114116)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 Gewährung von Zulagen zur Abgeltung besonderer, bei der Bewertung des
@@ -2076,6 +2144,7 @@ entstehen, durch Rechtsverordnung übertragen
 
 
 ### § 48 Mehrarbeitsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007217310)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 Gewährung einer Mehrarbeitsvergütung (§ 88 des Bundesbeamtengesetzes)
@@ -2099,6 +2168,7 @@ möglich ist.
 
 
 ### § 49 Vergütung für Vollziehungsbeamte in der Bundesfinanzverwaltung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007313116)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern,
@@ -2130,6 +2200,7 @@ Vergütung ein besonderer Aufwand des Beamten mit abgegolten ist.
 
 
 ### § 50 Mehrarbeitsvergütung für Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007416116)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
@@ -2146,6 +2217,7 @@ abweichende Regelungen getroffen werden.
 
 
 ### § 50a Vergütung für Soldaten mit besonderer zeitlicher Belastung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007521130)
 
 (1) Soldaten mit Dienstbezügen nach der Bundesbesoldungsordnung A
 erhalten für tatsächlich geleistete Dienste in den in § 30c Absatz 4
@@ -2198,6 +2270,7 @@ den folgenden zwingenden dienstlichen Gründen nicht möglich ist:
 
 
 ### § 50b Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025302116)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
@@ -2229,6 +2302,7 @@ unberücksichtigt.
 
 
 ### § 50c Vergütung für Beamte im Einsatzdienst der Bundeswehrfeuerwehren
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE027200116)
 
 (1) Beamte, die im Einsatzdienst der Bundeswehrfeuerwehren verwendet
 werden und deren regelmäßige wöchentliche Arbeitszeit 48 Stunden
@@ -2271,6 +2345,7 @@ wird aufgerundet; ansonsten wird abgerundet.
 
 
 ### § 50d Vergütung für Soldaten mit besonderen Alarmierungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE027300130)
 
 (1) Soldaten, für die besondere Alarmierungsverpflichtungen im Rahmen
 nationaler oder multinationaler Verpflichtungen gelten und für die
@@ -2303,6 +2378,7 @@ Vergütung anteilig gewährt.
 
 
 ### § 51 Andere Zulagen und Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007611310)
 
 Andere als die in diesem Abschnitt geregelten Zulagen und Vergütungen
 dürfen nur gewährt werden, soweit dies gesetzlich bestimmt ist.
@@ -2311,10 +2387,12 @@ unberührt.
 
 
 ## Abschnitt 5 - Auslandsbesoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG000913311)
 
 
 
 ### § 52 Auslandsdienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007717116)
 
 (1) Auslandsdienstbezüge werden gezahlt bei dienstlichem und
 tatsächlichem Wohnsitz im Ausland (ausländischer Dienstort), der nicht
@@ -2364,6 +2442,7 @@ dem Kaufkraftausgleich zugrunde gelegt.
 
 
 ### § 53 Auslandszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE007822130)
 
 (1) Der Auslandszuschlag gilt materiellen Mehraufwand sowie allgemeine
 und dienstortbezogene immaterielle Belastungen der allgemeinen
@@ -2517,6 +2596,7 @@ Bundesministerium der Verteidigung.
 
 
 ### § 54 Mietzuschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE021115116)
 
 (1) Der Mietzuschuss wird gewährt, wenn die Miete für den als
 notwendig anerkannten leeren Wohnraum (zuschussfähige Miete) 18
@@ -2574,6 +2654,7 @@ Mietzuschuss.
 
 
 ### § 55 Kaufkraftausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008033116)
 
 (1) Entspricht bei einer allgemeinen Verwendung im Ausland die
 Kaufkraft der Besoldung am ausländischen Dienstort nicht der Kaufkraft
@@ -2608,6 +2689,7 @@ Verwaltungsvorschrift.
 
 
 ### § 56 Auslandsverwendungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE013418130)
 
 (1) Auslandsverwendungszuschlag wird gezahlt bei einer Verwendung im
 Rahmen einer humanitären oder unterstützenden Maßnahme, die auf Grund
@@ -2739,6 +2821,7 @@ Bundesministerium der Verteidigung durch Rechtsverordnung.
 
 
 ### § 57 Auslandsverpflichtungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025401116)
 
 (1) Einem Beamten, der sich verpflichtet hat, im Rahmen einer
 besonderen Verwendung im Ausland mindestens zwei Wochen Dienst zu
@@ -2773,6 +2856,7 @@ Absatz 3 entsprechend.
 
 
 ### § 58 Zulage für Kanzler an großen Botschaften
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008317116)
 
 (1) Einem Beamten des Auswärtigen Dienstes der Besoldungsgruppe A 13
 wird während der Dauer seiner Verwendung als Kanzler an einer
@@ -2807,10 +2891,12 @@ Sie wird nicht neben einer Zulage nach § 45 gewährt.
 
 
 ## Abschnitt 6 - Anwärterbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG001011311)
 
 
 
 ### § 59 Anwärterbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008422116)
 
 (1) Beamte auf Widerruf im Vorbereitungsdienst (Anwärter) erhalten
 Anwärterbezüge.
@@ -2839,6 +2925,7 @@ Erfüllung von Auflagen abhängig gemacht werden.
 
 
 ### § 60 Anwärterbezüge nach Ablegung der Zwischenprüfung oder der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008512116)
 
 Nach Ablegung der Zwischenprüfung oder der Laufbahnprüfung wird die
 Besoldung bis zum Ende des laufenden Monats weitergewährt, wenn das
@@ -2860,11 +2947,13 @@ belassen.
 
 
 ### § 61 Anwärtergrundbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008611116)
 
 Der Anwärtergrundbetrag bemisst sich nach Anlage VIII.
 
 
 ### § 62 Anwärtererhöhungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008715116)
 
 Anwärter, deren Zulassung zum Vorbereitungsdienst das Bestehen der
 erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen nach §
@@ -2874,6 +2963,7 @@ Anwärtergrundbetrages.
 
 
 ### § 63 Anwärtersonderzuschläge
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008817116)
 
 (1) Besteht ein Mangel an qualifizierten Bewerbern, kann die oberste
 Dienstbehörde Anwärtersonderzuschläge gewähren. Sofern das
@@ -2907,11 +2997,13 @@ unberührt.
 
 
 ### § 64 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE008914310)
 
 -
 
 
 ### § 65 Anrechnung anderer Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE009013311)
 
 (1) Erhalten Anwärter ein Entgelt für eine Nebentätigkeit innerhalb
 oder für eine genehmigungspflichtige Nebentätigkeit außerhalb des
@@ -2935,6 +3027,7 @@ Arbeitszeit aus, gilt § 5 entsprechend.
 
 
 ### § 66 Kürzung der Anwärterbezüge
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE009112311)
 
 (1) Die oberste Dienstbehörde oder die von ihr bestimmte Stelle kann
 den Anwärtergrundbetrag bis auf 30 Prozent des Grundgehaltes, das
@@ -2961,24 +3054,29 @@ zu beschränken.
 
 
 ## Abschnitt 7 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG001113311)
 
 
 
 ### § 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE009212310)
 
 -
 
 
 ### § 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE023400113)
 
 -
 
 
 ## Abschnitt 8 - Dienstkleidung, Heilfürsorge, Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG001213377)
 
 
 
 ### § 69 Dienstkleidung und Unterkunft für Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE009518116)
 
 (1) Soldaten werden die Dienstkleidung und die Ausrüstung
 unentgeltlich bereitgestellt.
@@ -3031,6 +3129,7 @@ Bundesministerium des Innern, für Bau und Heimat.
 
 
 ### § 69a Heilfürsorge für Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026803116)
 
 (1) Soldaten, die Anspruch auf Besoldung oder auf ein Ausbildungsgeld
 nach § 30 Absatz 2 des Soldatengesetzes haben, wird Heilfürsorge in
@@ -3105,6 +3204,7 @@ und dem Bundesministerium der Finanzen.
 
 
 ### § 70 Dienstkleidung, Heilfürsorge, Unterkunft für Polizeivollzugsbeamte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE021215116)
 
 (1) Beamten des Polizeivollzugsdienstes der Bundespolizei werden die
 Ausrüstung und die Dienstkleidung unentgeltlich bereitgestellt.
@@ -3146,6 +3246,7 @@ Unterkunft unentgeltlich bereitgestellt.
 
 
 ### § 70a Dienstkleidung für Beamte
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026401116)
 
 (1) Beamten, die zum Tragen von Dienstkleidung verpflichtet sind, wird
 diese unentgeltlich bereitgestellt.
@@ -3160,10 +3261,12 @@ durch allgemeine Verwaltungsvorschrift.
 
 
 ## Abschnitt 9 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNG001311311)
 
 
 
 ### § 71 Rechtsverordnungen, allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE009716116)
 
 (1) Rechtsverordnungen nach diesem Gesetz bedürfen nicht der
 Zustimmung des Bundesrates.
@@ -3179,6 +3282,7 @@ Einvernehmen mit dem Bundesministerium der Verteidigung.
 
 
 ### § 72 Übergangsregelung zu den §§ 6, 43, 43b, 44 und 63
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE009822116)
 
 (1) § 6 in der bis zum 31. Dezember 2019 geltenden Fassung ist
 weiterhin anzuwenden, wenn der Beamte, Richter oder Soldat
@@ -3220,6 +3324,7 @@ anzuwenden.
 
 
 ### § 73 Übergangsregelung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012812311)
 
 Bei Zeiten im Sinne des § 8 Absatz 1 Satz 1, die bis zum 31. Dezember
 1991 zurückgelegt sind, ist § 8 in der bis zu diesem Zeitpunkt
@@ -3231,6 +3336,7 @@ und 4 des Beamtenversorgungsgesetzes genannten Faktor anzuwenden.
 
 
 ### § 74 Übergangsregelung zu den Änderungen der Anlage I durch das Besoldungsstrukturenmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010016116)
 
 Amtsbezeichnungen, die mit dem Inkrafttreten des
 Besoldungsstrukturenmodernisierungsgesetzes wegfallen, werden
@@ -3238,6 +3344,7 @@ weitergeführt.
 
 
 ### § 74a Übergangsregelung aus Anlass der Übertragung ehebezogener Regelungen im öffentlichen Dienstrecht auf Lebenspartnerschaften
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE024901311)
 
 (1) Für Beamte, Richter und Soldaten in Lebenspartnerschaften gelten
 für die Zeit vom 1. Januar 2009 bis zum 30. Juni 2010 folgende
@@ -3285,6 +3392,7 @@ der Anlage V anzuwenden.
 
 
 ### § 75 Übergangszahlung
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010115116)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung die Gewährung einer
@@ -3314,6 +3422,7 @@ Konkurrenzregelung beim Grundgehalt für den vom
 Besoldungsüberleitungsgesetz
 
 ### § 76 erfassten Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010217116)
 
 Ansprüche auf Grundgehalt nach Anlage IV sind neben Ansprüchen auf
 Grundgehalt nach den Anlagen 1 oder 2 des
@@ -3326,6 +3435,7 @@ Zeitpunkt besteht ein Anspruch auf Grundgehalt nach den Anlagen 1 oder
 
 
 ### § 77 Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010324116)
 
 (1) Für Professoren der Bundesbesoldungsordnung C, die am Tag des
 Inkrafttretens der auf Grund § 33 Absatz 4 zu erlassenden Regelungen
@@ -3378,6 +3488,7 @@ Bundesgesetzblatt bekannt.
 
 
 ### § 77a Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026201116)
 
 (1) Professoren sowie hauptberufliche Leiter von Hochschulen und
 Mitglieder von Leitungsgremien an Hochschulen, die am 31. Dezember
@@ -3474,6 +3585,7 @@ der Besoldung nach § 14 teil.
 
 
 ### § 78 Übergangsregelung für Beamte bei den Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010422116)
 
 (1) Für Beamte, die bei den Postnachfolgeunternehmen beschäftigt sind,
 sind die Beträge des Grundgehaltes nach Anlage IV, des
@@ -3489,10 +3601,12 @@ Bundesgesetzblatt bekannt.
 
 
 ### § 79 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010520116)
 
 
 
 ### § 80 Übergangsregelung für beihilfeberechtigte Polizeivollzugsbeamte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE021308116)
 
 (1) Polizeivollzugsbeamten der Bundespolizei, die am 1. Januar 1993
 Beihilfe nach den Beihilfevorschriften des Bundes erhalten, wird diese
@@ -3506,6 +3620,7 @@ Absatz 2. Der Antrag ist unwiderruflich.
 
 
 ### § 80a Übergangsregelung für Verpflichtungsprämien für Soldaten auf Zeit aus Anlass des Bundeswehrreform-Begleitgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012910360)
 
 § 85a Absatz 4 in der bis zum 31. Dezember 2012 geltenden Fassung ist
 auf Verpflichtungsprämien, die nach § 85a in der Zeit vom 1. Januar
@@ -3513,6 +3628,7 @@ auf Verpflichtungsprämien, die nach § 85a in der Zeit vom 1. Januar
 
 
 ### § 80b Übergangsregelung zum Auslandsverwendungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE026900116)
 
 Beamten und Soldaten, die am 31. Mai 2017 eine Vergütung nach § 50a
 oder Auslandsdienstbezüge nach § 52 beziehen, werden diese bis zur
@@ -3523,6 +3639,7 @@ geltenden Fassung.
 
 
 ### § 81 Übergangsregelungen bei Zulagenänderungen aus Anlass des Versorgungsreformgesetzes 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010714310)
 
 Soweit durch das Versorgungsreformgesetz 1998 die Ruhegehaltfähigkeit
 von Zulagen wegfällt oder Zulagen, die der Berechtigte bezogen hat,
@@ -3537,9 +3654,11 @@ Dezember 2010. Dies gilt nicht, wenn die Zulage nach dem 1. Januar
 
 
 ### § 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010816116)
 
 
 ### § 83 Übergangsregelung für Ausgleichszulagen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE024102116)
 
 § 19a gilt entsprechend, wenn ein Anspruch auf eine ruhegehaltfähige
 Ausgleichszulage wegen der Verringerung oder des Verlustes einer
@@ -3549,6 +3668,7 @@ Besoldungsüberleitungsgesetzes.
 
 
 ### § 83a Übergangsregelung für die Besoldung bei Verleihung eines anderen Amtes oder bei Wechsel in den Dienst des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025500310)
 
 (1) Der Anspruch nach § 19a Satz 2 besteht ab dem 1. März 2012 auch
 für Wechsel in der Zeit vom 1. Juli 2009 bis zum 21. März 2012.
@@ -3563,6 +3683,7 @@ des Bundes zugestanden hätte.
 
 
 ### § 84 Anpassung von Bezügen nach fortgeltendem Recht
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE022402310)
 
 Die Anpassung nach § 14 Absatz 2 gilt entsprechend für
 
@@ -3592,6 +3713,7 @@ Die Anpassung nach § 14 Absatz 2 gilt entsprechend für
 
 
 ### § 85 Anwendungsbereich in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE022602311)
 
 Für die Beamten und Richter der Länder, der Gemeinden, der
 Gemeindeverbände sowie der sonstigen der Aufsicht eines Landes
@@ -3602,6 +3724,7 @@ August 2006 geltenden Fassung, soweit nichts anderes bestimmt ist.
 (zu § 20 Absatz 2 Satz 1)
 
 ### Anlage I Bundesbesoldungsordnungen A und B
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025061130)
 
 (Fundstelle: BGBl. I 2013, 1524 - 1537)
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -5666,6 +5789,7 @@ Staatssekretär
 (zu § 32 Satz 1)
 
 ### Anlage II Bundesbesoldungsordnung W
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012420130)
 
 (Fundstelle: BGBl. I 2013, 1538)
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -5775,6 +5899,7 @@ Kanzler der …
 (zu § 37 Satz 1)
 
 ### Anlage III Bundesbesoldungsordnung R
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE012513130)
 
 (Fundstelle: BGBl. I 2013, 1539)
 
@@ -5915,6 +6040,7 @@ Präsident des Bundesverwaltungsgerichts
 (zu § 20 Absatz 2 Satz 2, § 32 Satz 2, § 37 Satz 2)
 
 ### Anlage IV Gültig ab 1. März 2024
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE010960360)
 
 (Fundstelle: BGBl. 2023 I Nr. 414, S. 14 – 15)
 
@@ -6447,6 +6573,7 @@ bekannt.
 (zu § 39 Absatz 1 Satz 1)
 
 ### Anlage V Gültig ab 1. März 2024
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE011057360)
 
 (Fundstelle: BGBl. 2023 I Nr. 414, S. 16)
 
@@ -6557,6 +6684,7 @@ zusätzlich gewährt.
 (zu § 53 Absatz 2 Satz 1 und 3 sowie Absatz 3 Satz 1 und 4)
 
 ### Anlage VI Gültig ab 1. März 2024
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE023917360)
 
 (Fundstelle: BGBl. 2023 I Nr. 414, S. 17)
 
@@ -7488,6 +7616,7 @@ VI.2
 (zu § 61)
 
 ### Anlage VIII Gültig ab 1. März 2024
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE011858360)
 
 (Fundstelle: BGBl. 2023 I Nr. 414, S. 18)
 
@@ -7524,6 +7653,7 @@ VI.2
 (zu den Anlagen I und III)
 
 ### Anlage IX Gültig ab 1. März 2024
+[Direktlink](https://www.gesetze-im-internet.de/bbesg/BJNR011740975.html#BJNR011740975BJNE025724130)
 
 (Fundstelle: BGBl. 2023 I Nr. 414, S. 19 – 23; bzgl. der einzelnen
 Änderungen vgl. Fußnote)

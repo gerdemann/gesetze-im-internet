@@ -29,6 +29,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000202360)
 
 Dieses Gesetz gilt für das Inverkehrbringen und die sonstige
 Bereitstellung auf dem Markt von Wasch- und Reinigungsmitteln. Es gilt
@@ -41,6 +42,7 @@ Chemikaliengesetzes erlassenen Rechtsverordnungen bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000303119)
 
 (1) Wasch- und Reinigungsmittel im Sinne dieses Gesetzes sind die in
 Artikel 2 Nummer 1 der Verordnung (EG) Nr. 648/2004 genannten Stoffe,
@@ -74,6 +76,7 @@ Wasch- und Reinigungsmittel im Sinne von Absatz 1 Satz 2 entsprechend.
 
 
 ## § 3 Allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000402360)
 
 (1) Wasch- und Reinigungsmittel im Sinne von § 2 Absatz 1 Satz 2
 Nummer 1 dürfen nur so in den Verkehr gebracht werden, dass infolge
@@ -99,6 +102,7 @@ Niederlassung in der Europäischen Union hat.
 
 
 ## § 4 Abbaubarkeit von Tensiden
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000501360)
 
 (1) Es ist verboten, tensidhaltige Wasch- und Reinigungsmittel im
 Sinne von § 2 Absatz 1 Satz 1 oder für derartige Wasch- und
@@ -121,6 +125,7 @@ unter Ziffer 3 genannten Prüfmethode zu messen ist.
 
 
 ## § 5 Höchstmengen von Phosphorverbindungen
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000603119)
 
 (1) Es ist verboten, Wasch- und Reinigungsmittel in den Verkehr zu
 bringen, deren Gehalt an Phosphorverbindungen die in einer
@@ -142,6 +147,7 @@ festzulegen.
 
 
 ## § 6 Weitere Anforderungen an die Umweltverträglichkeit von Wasch- und Reinigungsmitteln und deren Inhaltsstoffen
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000701360)
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -161,6 +167,7 @@ Abwasseranlagen über die Regelungen der §§ 4 und 5 hinaus
 
 
 ## § 7 Anhörung beteiligter Kreise
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000801360)
 
 In den Fällen des § 5 Absatz 2 und § 6 ist ein jeweils auszuwählender
 Kreis von Vertretern der Wasserversorgung und des Gewässerschutzes,
@@ -170,6 +177,7 @@ hören.
 
 
 ## § 8 Kennzeichnung, Veröffentlichung des Datenblattes über Inhaltsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE000902360)
 
 (1) Wasch- und Reinigungsmittel im Sinne des § 2 Absatz 1 Satz 1
 dürfen nur in den Verkehr gebracht werden, wenn sie entsprechend
@@ -185,6 +193,7 @@ Verzeichnis der Inhaltsstoffe zur Verfügung zu stellen.
 
 
 ## § 9 Angabe der Wasserhärtebereiche
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001001360)
 
 (1) Die Wasserversorgungsunternehmen haben dem Verbraucher den
 Härtebereich des von ihnen abgegebenen Trinkwassers mindestens einmal
@@ -213,6 +222,7 @@ Weise mitzuteilen.
 
 
 ## § 10 Übermittlung von Daten zu medizinischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001105119)
 
 (1) Hersteller von Wasch- und Reinigungsmitteln, die nach dem
 Inkrafttreten dieses Gesetzes erstmalig im Geltungsbereich dieses
@@ -264,6 +274,7 @@ Umwelt, Naturschutz und nukleare Sicherheit.
 
 
 ## § 11 Verzeichnis anerkannter Labors
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001202360)
 
 Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der
 Europäischen Union und der Europäischen Kommission ein Verzeichnis der
@@ -275,6 +286,7 @@ eingetretene Änderungen.
 
 
 ## § 12 Aufgaben und Zuständigkeiten des Umweltbundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001301360)
 
 (1) Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, das
 Inverkehrbringen von Wasch- und Reinigungsmitteln sowie ihren Verbleib
@@ -298,6 +310,7 @@ Verordnung (EG) Nr. 648/2004.
 
 
 ## § 13 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001402360)
 
 (1) Die zuständige oberste Landesbehörde oder die nach Landesrecht
 bestimmten Behörden haben die Einhaltung dieses Gesetzes und der auf
@@ -336,6 +349,7 @@ Straftat oder Ordnungswidrigkeit aussetzen würde.
 
 
 ## § 14 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001503360)
 
 (1) Die zuständige Landesbehörde kann im Einzelfall Anordnungen
 treffen,
@@ -375,6 +389,7 @@ Vorschriften über das Verwaltungsvollstreckungsverfahren vollstreckt.
 
 
 ## § 15 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001602360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -451,9 +466,11 @@ eingezogen werden.
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001705301)
 
 
 
 ## § 17 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/wrmg/BJNR060000007.html#BJNR060000007BJNE001801360)
 
 

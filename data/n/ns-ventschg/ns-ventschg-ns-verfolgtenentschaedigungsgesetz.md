@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsätze der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/ns-ventschg/BJNR263200994.html#BJNR263200994BJNE000103308)
 
 (1) Ist in den Fällen des § 1 Abs. 6 des Gesetzes zur Regelung offener
 Vermögensfragen (Vermögensgesetz) die Rückgabe ausgeschlossen (§ 4
@@ -58,6 +59,7 @@ Vorschriften erhalten hat.
 
 
 ## § 2 Höhe der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/ns-ventschg/BJNR263200994.html#BJNR263200994BJNE000202301)
 
 Für die Entschädigung gelten die §§ 16 bis 26, ausgenommen § 16 Abs. 2
 Satz 2, des Bundesrückerstattungsgesetzes. Bei Vermögensgegenständen,
@@ -107,6 +109,7 @@ Hundert. Die Zinsen werden mit der Entschädigung festgesetzt.
 
 
 ## § 3 Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/ns-ventschg/BJNR263200994.html#BJNR263200994BJNE000301301)
 
 Die §§ 6 und 8 des Entschädigungsgesetzes und § 7a Abs. 2 des
 Vermögensgesetzes gelten entsprechend. Ebenfalls anzurechnen sind
@@ -119,6 +122,7 @@ Entschädigung bis zum Inkrafttreten dieses Gesetzes erhöht.
 
 
 ## § 4 Zuständige Behörde, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ns-ventschg/BJNR263200994.html#BJNR263200994BJNE000403308)
 
 Über den Anspruch entscheidet das Bundesamt für zentrale Dienste und
 offene Vermögensfragen. Für das Verfahren gelten die Vorschriften des

@@ -28,6 +28,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000100000)
 
 Auf Grund des § 27 Absatz 2, 3 und 6 Satz 2 des Treibhausgas-
 Emissionshandelsgesetzes, der durch Artikel 1 Nummer 4 des Gesetzes
@@ -36,9 +37,11 @@ die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000201310)
 
 (1) Diese Verordnung gilt für Tätigkeiten innerhalb des sachlichen
 Anwendungsbereichs des Anhangs I der Richtlinie 2003/87/EG des
@@ -92,6 +95,7 @@ Pflichten nach § 5 erfüllt hat.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000301310)
 
 (1) Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -161,6 +165,7 @@ Pflichten nach § 5 erfüllt hat.
 
 
 ### § 3 Allgemeine Anforderungen an die Ermittlung von Daten und deren Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000400000)
 
 (1) Luftfahrzeugbetreiber sowie Verantwortliche für eine weitere
 Tätigkeit sind verpflichtet, Daten und Informationen nach Maßgabe der
@@ -179,9 +184,11 @@ unverzüglich vorzulegen.
 
 
 ## Abschnitt 2 - Berichtspflichten für Luftfahrzeugbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNG000200000)
 
 
 ### § 4 Ermittlung von Emissionsdaten, Berichterstattung sowie Erstellung des Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000502116)
 
 (1) Der Luftfahrzeugbetreiber hat einen Überwachungsplan zur
 Überwachung und Berichterstattung der durch seine
@@ -253,6 +260,7 @@ und 2 im Bundesanzeiger bekannt.
 
 
 ### § 5 Ermittlung von Flugstrecke und Nutzlast, Berichterstattung sowie Erstellung des Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000600000)
 
 (1) Der Luftfahrzeugbetreiber hat die durch seine
 Luftverkehrstätigkeit, soweit sie nicht unter die privilegierten Flüge
@@ -292,6 +300,7 @@ verzichtet.
 
 
 ### § 6 Befreiung für gelistete Luftfahrzeugbetreiber mit privilegierten Flügen
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000700000)
 
 (1) Auf Antrag eines Luftfahrzeugbetreibers, der durch die Liste der
 Kommission nach Artikel 18a Absatz 3 der Richtlinie 2003/87/EG der
@@ -325,9 +334,11 @@ die Befreiung nach Satz 1 erloschen ist.
 
 
 ## Abschnitt 3 - Mitteilungspflichten für die Verantwortlichen weiterer Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNG000300000)
 
 
 ### § 7 Ermittlung und Mitteilung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000801310)
 
 (1) Der Verantwortliche für eine weitere Tätigkeit hat die durch seine
 Tätigkeit in den Kalenderjahren 2005 bis 2008 verursachten jährlichen
@@ -422,6 +433,7 @@ folgende Daten anzugeben:
 
 
 ### § 8 Besondere Anforderungen an die Ermittlung und Mitteilung von perfluorierten Kohlenwasserstoffen (PFC)
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE000900000)
 
 (1) Unter den perfluorierten Kohlenwasserstoffen sind Tetrafluormethan
 und Hexafluorethan nach Anlage 2 zu ermitteln und die Emissionsmengen
@@ -473,6 +485,7 @@ zusätzlich zu den Daten nach § 7 folgende Daten mitzuteilen:
 
 
 ### § 9 Besondere Anforderungen an die Ermittlung und Mitteilung von Distickstoffoxid (N2O)
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001000000)
 
 (1) Bei der Ermittlung und Mitteilung von Distickstoffoxid gilt
 bezüglich der einzuhaltenden Mindestgenauigkeit Ebene 2 des Anhangs
@@ -493,9 +506,11 @@ Grad an Genauigkeit erzielt worden ist.
 
 
 ## Abschnitt 4 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNG000400000)
 
 
 ### § 10 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001101310)
 
 Die zuständige Behörde kann vorschreiben, dass Luftfahrzeugbetreiber
 sowie Verantwortliche für eine weitere Tätigkeit die auf der
@@ -507,6 +522,7 @@ festgelegten Übermittlungsfrist im Bundesanzeiger bekannt.
 
 
 ### § 11 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001202310)
 
 (1) Die Berichte nach den §§ 4 und 5 sowie die Datenmitteilungen nach
 den §§ 7 bis 9 müssen vor ihrer Abgabe von einer durch die zuständige
@@ -528,9 +544,11 @@ Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
 
 
 ## Abschnitt 5 - Sanktionen und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNG000500000)
 
 
 ### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001301310)
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 4 des Treibhausgas-
 Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das
@@ -563,11 +581,13 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 
 
 ### § 13 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001400000)
 
 Zuständige Behörde im Sinne dieser Verordnung ist das Umweltbundesamt.
 
 
 ### § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -575,6 +595,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 und § 6)
 
 ### Anlage 1 Privilegierte Flüge
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001600000)
 
 (Fundstelle BGBl. I 2009, 2123)
 
@@ -665,6 +686,7 @@ und § 6)
 (zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8)
 
 ### Anlage 2 Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
+[Direktlink](https://www.gesetze-im-internet.de/dev_2020/BJNR211800009.html#BJNR211800009BJNE001700000)
 
 (Fundstelle BGBl. I 2009, 2124 - 2125)
 ## Teil 1

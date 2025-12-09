@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE000500310)
 
 Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November 1977
 (BGBl. I S. 2134), der durch Artikel 4 Nr. 8 des Gesetzes vom 27.
@@ -28,10 +29,12 @@ Bundesregierung unter Berücksichtigung der Rechte des Bundestages:
 
 
 ## Erster Abschnitt - Bildung und Ausgestaltung des Klärschlamm-Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNG000100310)
 
 
 
 ### § 1 Rechtsform, Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE000601377)
 
 (1) Die Entschädigungen nach § 11 Abs. 1 des Düngegesetzes werden mit
 Inkrafttreten dieser Verordnung aus einem nicht rechtsfähigen
@@ -51,6 +54,7 @@ erstattet.
 
 
 ### § 2 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE000704119)
 
 (1) Es wird ein Beirat gebildet, der die Bundesanstalt bei der
 Erfüllung der Aufgaben des Klärschlamm-Entschädigungsfonds berät.
@@ -130,6 +134,7 @@ Umwelt, Naturschutz und nukleare Sicherheit.
 
 
 ### § 3 Haushalts- und Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE000800310)
 
 (1) Auf die Haushalts- und Wirtschaftsführung sind die Teile I bis V,
 VIII und IX der Bundeshaushaltsordnung entsprechend anzuwenden.
@@ -150,10 +155,12 @@ obliegt dem Bundesministerium, das die Entlastung erteilt.
 
 
 ## Zweiter Abschnitt - Beitragsordnung
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNG000200310)
 
 
 
 ### § 4 Beitragshöhe
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE000900310)
 
 Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm
 bezogen auf dessen Trockenmasse, der zur landbaulichen Verwertung
@@ -163,6 +170,7 @@ Düngemittelverordnung abgegeben werden.
 
 
 ### § 5 Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001002377)
 
 (1) Die Beiträge nach § 11 Abs. 2 des Düngegesetzes werden jährlich
 erhoben.
@@ -193,6 +201,7 @@ Grunde zu legen.
 
 
 ### § 6 Ruhen und Wiederaufleben der Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001100310)
 
 (1) Die Beitragspflicht ruht, sobald die finanzielle Ausstattung des
 Fonds den Betrag von 125 Millionen Deutsche Mark erreicht hat. Die
@@ -216,6 +225,7 @@ finanzielle Ausstattung des Fonds 125 Millionen Deutsche Mark beträgt.
 
 
 ### § 7 Nachschußpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001200310)
 
 (1) Im Falle der Erschöpfung der Fondsmittel sind alle Hersteller von
 Klärschlamm, die seit Inkrafttreten dieser Verordnung Klärschlamm zur
@@ -238,6 +248,7 @@ Nachschuß wird drei Monate nach Zugang des Bescheids fällig. § 5 Abs.
 
 
 ### § 8 Auskunftspflicht, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001300310)
 
 (1) Die Hersteller von Klärschlämmen sind verpflichtet, vor der Abgabe
 des Klärschlamms die verbindliche Zweckbestimmung zur landbaulichen
@@ -260,16 +271,19 @@ die erforderlichen Feststellungen im Wege der Schätzung treffen.
 
 
 ## Dritter Abschnitt - Entschädigungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNG000300310)
 
 
 
 ### § 9 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001401377)
 
 Die Entschädigungen nach § 11 Abs. 1 des Düngegesetzes wird auf Antrag
 gewährt. Der Antrag ist schriftlich bei der Bundesanstalt zu stellen.
 
 
 ### § 10 Selbstbehalt für Sachschäden
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001500310)
 
 Der durch die landbauliche Verwertung von Klärschlamm Geschädigte hat
 bei Sachschäden einen Schaden bis zu einer Höhe von 1.125 Deutsche
@@ -277,6 +291,7 @@ Mark pro Schadensfall selbst zu tragen.
 
 
 ### § 11 Entschädigungshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001600310)
 
 Der Entschädigungshöchstbetrag für durch die landbauliche Verwertung
 von Klärschlamm entstehende Schäden an Personen und Sachen sowie sich
@@ -285,6 +300,7 @@ Millionen Deutsche Mark.
 
 
 ### § 12 Übergang von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001700310)
 
 Soweit der Klärschlamm-Entschädigungsfonds die Ansprüche des
 Geschädigten befriedigt, gehen Forderungen des Geschädigten gegen
@@ -293,10 +309,12 @@ sonstige Ersatzpflichtige auf den Klärschlamm-Entschädigungsfonds
 
 
 ## Vierter Abschnitt - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNG000400310)
 
 
 
 ### § 13 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001803124)
 
 Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe c des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 8
@@ -306,11 +324,13 @@ nicht vollständig oder nicht rechtzeitig vorlegt.
 
 
 ### § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE001900310)
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kl_rev/BJNR104800998.html#BJNR104800998BJNE002000310)
 
 Der Bundesrat hat zugestimmt.
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000100000)
 
 Das Bundesministerium für Wirtschaft und Energie verordnet aufgrund
 des § 8 Absatz 1 und 2 des HNS-Gesetzes vom 16. Juli 2021 (BGBl. I S.
@@ -25,6 +26,7 @@ für Verbraucherschutz:
 
 
 ## § 1 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000200000)
 
 Die Wahrnehmung der Aufgaben nach § 7 Absatz 1 bis 3 des HNS-Gesetzes
 überträgt das Bundesministerium für Wirtschaft und Energie dem
@@ -32,6 +34,7 @@ Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000300000)
 
 (1) Mitteilungspflichtige Ladung ist
 
@@ -93,6 +96,7 @@ befördert worden ist.
 
 
 ## § 3 Inhalt der Mitteilung nach § 7 Absatz 2 des HNS-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000400000)
 
 (1) Die mitteilungspflichtige Person muss folgende Angaben mitteilen:
 
@@ -228,6 +232,7 @@ muss folgende Angaben mitteilen:
 
 
 ## § 4 Mindestgesamtmengen mitteilungspflichtiger Ladung
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000500000)
 
 (1) Die Angabe nach § 3 Absatz 1 Nummer 3 muss nicht mitgeteilt
 werden, wenn
@@ -262,6 +267,7 @@ Ladung nicht mitgeteilt werden, wenn
 
 
 ## § 5 Frist für die Mitteilung nach § 7 Absatz 2 des HNS-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000600000)
 
 (1) Die Mitteilung nach § 3 muss spätestens bis einschließlich 15.
 März eines Jahres an das Bundesamt für Wirtschaft und Ausfuhrkontrolle
@@ -272,6 +278,7 @@ spätestens bis einschließlich 15. Oktober 2025 erfolgen.
 
 
 ## § 6 Form der Mitteilung nach § 7 Absatz 2 des HNS-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000700000)
 
 Die Mitteilung muss
 
@@ -292,11 +299,13 @@ Die Mitteilung muss
 [^F833668_01_BJNR09E0A0025BJNE000700000]: 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000800000)
 
 Diese Verordnung tritt am 15. Juli 2025 in Kraft.
 
 
 ## Anlage Mitteilungspflichtige Ladung nach § 2 Absatz 1 und § 3 Absatz 1 Nummer 4 und 5 der HNS-Mitteilungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/hns-mittv/BJNR09E0A0025.html#BJNR09E0A0025BJNE000900000)
 
 (Fundstelle: BGBl. 2025 I Nr. 158, S. 4 - 77)
 

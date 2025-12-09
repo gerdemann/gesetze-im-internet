@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vibbestv/BJNR143700015.html#BJNR143700015BJNE000100000)
 
 Auf Grund des § 15 Absatz 5 des Vermögensanlagengesetzes, der durch
 Artikel 2 Nummer 16 Buchstabe b des Gesetzes vom 3. Juli 2015 (BGBl. I
@@ -32,6 +33,7 @@ Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vibbestv/BJNR143700015.html#BJNR143700015BJNE000201360)
 
 (1) Durch diese Verordnung werden die Anforderungen näher bestimmt,
 die an eine Bestätigung durch Nutzung von Fernkommunikationsmittel
@@ -50,6 +52,7 @@ Nummer 1 des Digitale-Dienste-Gesetzes sowie Internetseiten.
 
 
 ## § 2 Gleichwertigkeit der Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/vibbestv/BJNR143700015.html#BJNR143700015BJNE000302360)
 
 (1) Eine Bestätigung im Sinne von § 15 Absatz 4 Satz 1 des Gesetzes
 ist der eigenhändigen Unterschrift nach § 15 Absatz 3 des Gesetzes
@@ -153,6 +156,7 @@ oder eine Ablichtung des Personalausweises oder Reisepasses beifügt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vibbestv/BJNR143700015.html#BJNR143700015BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

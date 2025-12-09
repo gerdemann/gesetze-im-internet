@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_3/BJNR008410969.html#BJNR008410969BJNE000100314)
 
 Auf Grund des § 23 des Gesetzes über die Kontrolle von Kriegswaffen
 vom 20. April 1961 (Bundesgesetzbl. I S. 444), geändert durch das
@@ -30,6 +31,7 @@ S. 481) wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_3/BJNR008410969.html#BJNR008410969BJNE000207377)
 
 (1) Die Zuständigkeit des Bundesministeriums für Wirtschaft und
 Energie zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem
@@ -43,11 +45,13 @@ Hauptzollämtern übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_3/BJNR008410969.html#BJNR008410969BJNE000300314)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_3/BJNR008410969.html#BJNR008410969BJNE000400314)
 
 Der Bundesminister für Wirtschaft
 Der Bundesminister der Finanzen

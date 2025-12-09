@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## - - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000100000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000209123)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -180,6 +182,7 @@ entsprechend und die Begriffsbestimmung nach Satz 1 Nummer 15 gilt für
 
 
 ### § 1a Zuständiges Hauptzollamt
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012001123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -194,10 +197,12 @@ steuerlich in Erscheinung treten.
 
 
 ## - - Zu den §§ 1 bis 3, 53 bis 53a und 55 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005902123)
 
 
 
 ### § 1b Ergänzende Begriffsbestimmungen zum Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013204123)
 
 (1) Als andere Waren im Sinn des § 1 Absatz 3 Satz 1 Nummer 2 des
 Gesetzes, die ganz oder teilweise aus Kohlenwasserstoffen bestehen,
@@ -289,6 +294,7 @@ und nutzbare Wärme innerhalb eines thermodynamischen Prozesses.
 
 
 ### § 1c Steuertarif für schwefelhaltige Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013300140)
 
 Energieerzeugnisse nach § 2 Absatz 4 Satz 2 des Gesetzes werden bei
 einem Schwefelgehalt von mehr als 50 Milligramm je Kilogramm
@@ -298,10 +304,12 @@ Buchstabe b des Gesetzes versteuert.
 
 
 ## - - Zu § 2 Abs. 3 und 4, § 27 Abs. 1, § 48 Abs. 1,  § 52 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000200000)
 
 
 
 ### § 2 Ordnungsgemäße Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000306123)
 
 (1) Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und der
 Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur
@@ -359,6 +367,7 @@ des anderen Mitgliedstaats ordnungsgemäß gekennzeichnet ist.
 
 
 ### § 3 Antrag auf Zulassung von Kennzeichnungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000402123)
 
 (1) Die Zulassung von vollständigen Kennzeichnungseinrichtungen eines
 Herstellers sowie neuer wesentlicher Bauteile ist bei dem Hauptzollamt
@@ -389,6 +398,7 @@ erscheinen.
 
 
 ### § 4 Zulassung von Kennzeichnungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000502123)
 
 (1) Das Hauptzollamt lässt Kennzeichnungseinrichtungen unter
 Widerrufsvorbehalt schriftlich oder elektronisch zu, wenn sie den
@@ -454,6 +464,7 @@ bis 3 sinngemäß.
 
 
 ### § 5 Antrag auf Bewilligung des Kennzeichnungsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000603123)
 
 (1) Inhaber von Betrieben, in denen Gasöle der Unterpositionen
 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis
@@ -514,6 +525,7 @@ Nr. 5 ein Gesamtplan schon vorliegt.
 
 
 ### § 6 Bewilligung des Kennzeichnungsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000703123)
 
 (1) Das Hauptzollamt bewilligt Inhabern von Steuerlagern, die Gasöle
 der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen
@@ -562,6 +574,7 @@ eine Gefährdung der Steuerbelange ausschließen sollen.
 
 
 ### § 7 Pflichten des Inhabers des Kennzeichnungsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000801123)
 
 (1) Der Inhaber des Kennzeichnungsbetriebs hat eine ordnungsgemäße
 Kennzeichnung im Sinne von § 2 Abs. 1 vorzunehmen und zu überwachen.
@@ -629,6 +642,7 @@ und die Steuerbelange nicht beeinträchtigt werden.
 
 
 ### § 8 Andere Energieerzeugnisse als Gasöle
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE000902123)
 
 (1) Für andere Energieerzeugnisse als Gasöle, die nach § 2 Abs. 4 des
 Gesetzes einer ordnungsgemäßen Kennzeichnung bedürfen, gelten die §§ 2
@@ -647,6 +661,7 @@ versehen werden.
 
 
 ### § 8a Überprüfung und Erlöschen der Zulassung und der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014802123)
 
 (1) Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -767,10 +782,12 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 
 
 ## - - Zu § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37 Absatz 2 Satz 3 sowie zu den §§ 53 und 53a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000302360)
 
 
 
 ### § 9 Anlagenbegriff
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001003360)
 
 Als Anlage im Sinne des § 3 Absatz 1 Satz 1 Nummer 1 und 2, § 37
 Absatz 2 Satz 3 sowie der §§ 53 und 53a des Gesetzes gilt ein Verbund
@@ -799,10 +816,12 @@ gelten sie als Bestandteil dieser Anlage.
 
 
 ## - - Zu den §§ 3 und 53a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006101360)
 
 
 
 ### § 10 Nutzungsgradermittlung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001102140)
 
 (1) Zur Ermittlung des Nutzungsgrads sind zu messen:
 
@@ -840,10 +859,12 @@ abgegeben wird.
 
 
 ## - - Zu § 3 Absatz 1 Satz 1 Nummer 2 und Absatz 5 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006200140)
 
 
 
 ### § 11 Pflichten des Anlagenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001201140)
 
 (1) Der Betreiber einer Anlage nach § 3 Absatz 1 Satz 1 Nummer 2 des
 Gesetzes hat den Jahresnutzungsgrad der Anlage jährlich bis zum 31.
@@ -895,10 +916,12 @@ Betriebs der Anlage innerhalb von vier Wochen schriftlich anzuzeigen.
 
 
 ## - - Zu § 3a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005200140)
 
 
 
 ### § 11a Güterumschlag in Seehäfen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012101140)
 
 (1) Seehäfen im Sinn des § 3a Absatz 1 des Gesetzes sind Häfen oder
 Teile von Hafengebieten mit Güterumschlag, die an Wasserflächen liegen
@@ -974,10 +997,12 @@ Gesetzes gilt nicht der Betrieb von
 
 
 ## - - Zu § 3b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006600360)
 
 
 
 ### § 11b Verfahren bei offenen Rückforderungsanordnungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014402123)
 
 (1) Die unverzügliche Mitteilung nach § 3b Absatz 1 Satz 2 des
 Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei
@@ -1031,6 +1056,7 @@ Abgabenordnung versehen werden.
 
 
 ### § 11c Verfahren bei Unternehmen in Schwierigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014502123)
 
 (1) Die unverzügliche Mitteilung nach § 3b Absatz 2 Satz 2 des
 Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei
@@ -1056,10 +1082,12 @@ Abgabenordnung versehen werden.
 
 
 ## - - Zu § 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000400000)
 
 
 
 ### § 12 Antrag auf Herstellererlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001301140)
 
 (1) Wer Energieerzeugnisse unter Steueraussetzung herstellen will, hat
 die Erlaubnis nach § 6 Absatz 3 Satz 1 des Gesetzes vor Eröffnung des
@@ -1114,6 +1142,7 @@ Anwendung der Absätze 1 und 2 eine Erweiterung der Erlaubnis.
 
 
 ### § 13 Einrichtung des Herstellungsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001400000)
 
 (1) Der Herstellungsbetrieb muss so eingerichtet sein, dass die mit
 der Steueraufsicht betrauten Amtsträger den Gang der Herstellung und
@@ -1138,6 +1167,7 @@ Zapfstellen entnehmen.
 
 
 ### § 14 Erteilung, Überprüfung und Erlöschen der Herstellererlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001506123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die
 Erlaubnis. Es kann die Erlaubnis schon vor Abschluss einer Prüfung des
@@ -1277,6 +1307,7 @@ des Gesetzes).
 
 
 ### § 15 Pflichten des Herstellers, Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001603123)
 
 (1) Der Inhaber des Herstellungsbetriebs hat ein Belegheft zu führen.
 Das Hauptzollamt kann dazu Anordnungen treffen.
@@ -1368,10 +1399,12 @@ mindestens eine Woche vorher schriftlich anzuzeigen.
 
 
 ## - - Zu § 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000500000)
 
 
 
 ### § 16 Antrag auf Lagererlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001702360)
 
 (1) Wer Energieerzeugnisse nach § 7 Absatz 2 Satz 1 des Gesetzes unter
 Steueraussetzung lagern oder Energieerzeugnisse nach § 7 Absatz 6 des
@@ -1412,6 +1445,7 @@ erforderlich ist.
 
 
 ### § 17 Einrichtung des Lagers
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001801360)
 
 (1) Die Lagerstätten eines Lagers für Energieerzeugnisse müssen so
 beschaffen sein, dass Energieerzeugnisse verschiedener Art voneinander
@@ -1438,6 +1472,7 @@ Messeinrichtungen versehen sein müssen.
 
 
 ### § 18 Erteilung, Überprüfung und Erlöschen der Lagererlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE001905123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die
 Erlaubnis. Es kann die Erlaubnis schon vor Abschluss einer Prüfung des
@@ -1469,6 +1504,7 @@ entsprechend.
 
 
 ### § 19 Pflichten des Lagerinhabers, Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002004123)
 
 (1) Der Inhaber des Lagers hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -1555,6 +1591,7 @@ neu zu erstellen, wenn sie unübersichtlich geworden sind.
 
 
 ### § 20 Lagerbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002102140)
 
 (1) Energieerzeugnisse dürfen im Lager miteinander oder mit anderen
 Stoffen gemischt werden, wenn das Gemisch ein Energieerzeugnis im Sinn
@@ -1585,6 +1622,7 @@ führen.
 
 
 ### § 21 Zugelassener Einlagerer, Erlaubnis und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002203123)
 
 (1) Die Erlaubnis nach § 7 Abs. 4 Satz 2 des Gesetzes ist nach amtlich
 vorgeschriebenem Vordruck bei dem Hauptzollamt zu beantragen, das die
@@ -1613,6 +1651,7 @@ geführt werden. § 19 Absatz 1 und 8 gilt entsprechend.
 
 
 ### § 22 Lager ohne Lagerstätten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002301123)
 
 Für den Antrag, die Erteilung, die Überprüfung und das Erlöschen der
 Erlaubnis für ein Lager ohne Lagerstätten (§ 7 Abs. 5 des Gesetzes)
@@ -1621,10 +1660,12 @@ gilt § 19 sinngemäß.
 
 
 ## - - Zu § 8 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000600000)
 
 
 
 ### § 23 Entfernung und Entnahme von Energieerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002404123)
 
 (1) Energieerzeugnisse gelten als aus dem Steuerlager entfernt oder
 als innerhalb des Steuerlagers entnommen, sobald sie aus den
@@ -1652,10 +1693,12 @@ gegenüber dem Steuerschuldner.
 
 
 ## - - Zu den §§ 8, 9, 9a, 14, 16, 18c, 22 und 23 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005104123)
 
 
 
 ### § 23a Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011705123)
 
 Die Steueranmeldungen nach § 8 Absatz 3 und 4, § 9 Absatz 2, § 9a
 Absatz 5, § 14 Absatz 7 Satz 1, § 16 Absatz 3, § 18c, § 22 Absatz 2
@@ -1664,10 +1707,12 @@ vorgeschriebenem Vordruck abzugeben.
 
 
 ## - - Zu den §§ 8, 9, 9a, 14, 15, 16, 17, 18, 18a, 20, 21, 22, 23, 30, 33, 34, 36, 37, 39, 40, 42, 43 und 44 des Gesetzes und § 61 Absatz 4
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006900123)
 
 
 
 ### § 23b Überprüfung von Steueranmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014901123)
 
 Das Hauptzollamt überprüft die Steueranmeldungen. Art und Umfang der
 Überprüfung richten sich nach den Umständen des Einzelfalls sowie nach
@@ -1681,10 +1726,12 @@ Abgabenordnung entsprechend.
 
 
 ## - - Zu § 9 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000700000)
 
 
 
 ### § 24 Herstellung außerhalb eines Herstellungsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002501140)
 
 (1) Die Anzeige nach § 9 Absatz 1a des Gesetzes ist schriftlich bei
 dem für den Hersteller zuständigen Hauptzollamt zu erstatten.
@@ -1698,10 +1745,12 @@ erforderlich erscheint.
 
 
 ## - - Zu den §§ 6 bis 9, 23, 24, 30 bis 32 und 38 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000801360)
 
 
 
 ### § 25 Anzeichen für eine Gefährdung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002601360)
 
 Als Anzeichen für eine Gefährdung der Steuer nach § 6 Absatz 3, § 7
 Absatz 2, § 8 Absatz 7, auch in Verbindung mit § 9 Absatz 2, § 23
@@ -1763,10 +1812,12 @@ wenn Antragsteller oder Steuerpflichtige
 
 
 ## - - Zu § 9a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG000901140)
 
 
 
 ### § 26 Registrierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002705123)
 
 (1) Wer als registrierter Empfänger Energieerzeugnisse unter
 Steueraussetzung nicht nur gelegentlich empfangen will (§ 9a Absatz 1
@@ -1845,10 +1896,12 @@ aufgenommenen Energieerzeugnisse zu führen.
 
 
 ## - - Zu § 9b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005300140)
 
 
 
 ### § 27 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002805123)
 
 (1) Wer als registrierter Versender Energieerzeugnisse vom Ort der
 Einfuhr unter Steueraussetzung versenden will (§ 9b Absatz 1 des
@@ -1911,10 +1964,12 @@ sinngemäß.
 
 
 ## - - Zu den §§ 9c und 9d Absatz 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005400140)
 
 
 
 ### § 28 Begünstigte, Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE002903123)
 
 (1) Ein Begünstigter, der Energieerzeugnisse unter Steueraussetzung
 empfangen will, hat vor Beginn der Beförderung eine
@@ -1972,10 +2027,12 @@ Steuergebiet zu seinen steuerlichen Aufzeichnungen zu nehmen.
 
 
 ## - - Zu den §§ 9d bis 13 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005500140)
 
 
 
 ### § 28a Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012202123)
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -1997,6 +2054,7 @@ Rahmenbedingungen einzuhalten.
 
 
 ### § 28b Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012302123)
 
 (1) Sollen Energieerzeugnisse unter Steueraussetzung aus einem
 Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
@@ -2053,6 +2111,7 @@ dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
 
 ### § 28c Unbestimmter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012401123)
 
 (1) Stehen in den Fällen des § 10 Absatz 1 des Gesetzes oder des § 11
 Absatz 1 des Gesetzes zu Beginn einer Beförderung im Seeverkehr oder
@@ -2073,6 +2132,7 @@ und Kontrollsystems gilt § 31 entsprechend.
 
 
 ### § 29 Art und Höhe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003001140)
 
 (1) Die Sicherheit für die Beförderung von Energieerzeugnissen unter
 Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder
@@ -2094,6 +2154,7 @@ Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 
 
 ### § 30 Annullierung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003102123)
 
 (1) Der Versender kann das elektronische Verwaltungsdokument
 annullieren, solange die Beförderung der Energieerzeugnisse noch nicht
@@ -2120,6 +2181,7 @@ Annullierungsmeldung an diesen weiter.
 
 
 ### § 31 Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse bei Verwendung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003202123)
 
 (1) Während der Beförderung der Energieerzeugnisse unter
 Steueraussetzung kann der Versender den Bestimmungsort oder den
@@ -2163,6 +2225,7 @@ geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 
 
 ### § 32 Aufteilung von Warensendungen während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003304123)
 
 (1) Während der Beförderung von Energieerzeugnissen unter
 Steueraussetzung im Steuergebiet (§ 10 des Gesetzes) kann der
@@ -2232,6 +2295,7 @@ Beförderungs- und Kontrollsystem dies zulässt.
 
 
 ### § 33 Beförderung aus anderen Mitgliedstaaten und Beendigung von Beförderungen unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003402123)
 
 (1) Werden Energieerzeugnisse unter Steueraussetzung aus anderen
 Mitgliedstaaten zu einem Empfänger im Steuergebiet oder durch das
@@ -2303,6 +2367,7 @@ Energieerzeugnissen ausübt.
 
 
 ### § 34 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003503123)
 
 (1) Nach der Aufnahme der Energieerzeugnisse, auch von Teilmengen, an
 einem Bestimmungsort, der in § 10 Absatz 1 oder § 11 Absatz 1 Nummer 2
@@ -2389,6 +2454,7 @@ Energieerzeugnisse.
 
 
 ### § 35 Beförderung im Steuergebiet ohne elektronisches Verwaltungsdokument
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003604123)
 
 Auf Antrag des Versenders kann das Hauptzollamt, wenn die
 Steuerbelange dadurch nicht gefährdet sind, anstelle des EDV-
@@ -2418,6 +2484,7 @@ anderen Mitgliedstaats befördert werden.
 
 
 ### § 36 Beginn der Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003704123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender abweichend von § 28b nur dann eine
@@ -2483,6 +2550,7 @@ Für die Eingangs- und Ausfuhrmeldung ist § 34 anzuwenden.
 
 
 ### § 36a Annullierung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012502123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender das elektronische Verwaltungsdokument
@@ -2506,6 +2574,7 @@ entsprechend.
 
 
 ### § 36b Änderung des Bestimmungsorts oder des Empfängers der Energieerzeugnisse im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012603123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender den Bestimmungsort oder den Empfänger
@@ -2545,6 +2614,7 @@ Energieerzeugnisse sowie die Vorlage der zweiten Ausfertigung des
 
 
 ### § 36c Aufteilung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013901123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender während der Beförderung von
@@ -2582,6 +2652,7 @@ entsprechend.
 
 
 ### § 36d Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012703123)
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 34 Absatz 1 nach
 Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb
@@ -2661,6 +2732,7 @@ Satz 2 und 3 gilt entsprechend.
 
 
 ### § 37 Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003802123)
 
 (1) Liegt kein Nachweis nach § 34 Absatz 6 vor, bestätigt das für den
 Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen
@@ -2694,10 +2766,12 @@ vorgesehen war.
 
 
 ## - - Zu § 14 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006000140)
 
 
 
 ### § 37a Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012803123)
 
 (1) Sind Energieerzeugnisse während der Beförderung unter
 Steueraussetzung infolge unvorhersehbarer Ereignisse oder höherer
@@ -2749,10 +2823,12 @@ gegenüber dem Steuerschuldner.
 
 
 ## - - Zu den §§ 15, 15a, 15b und 15c des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001201123)
 
 
 
 ### § 38 Zertifizierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE003904123)
 
 (1) Wer als zertifizierter Empfänger Energieerzeugnisse im Sinn des §
 4 des Gesetzes im steuerrechtlich freien Verkehr nicht nur
@@ -2874,6 +2950,7 @@ Beförderung nicht unter § 16 oder § 18 des Gesetzes fällt.
 
 
 ### § 38a Zertifizierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015000123)
 
 (1) Wer als zertifizierter Versender Energieerzeugnisse im Sinn des §
 4 des Gesetzes im steuerrechtlich freien Verkehr nicht nur
@@ -2968,6 +3045,7 @@ fällt.
 
 
 ### § 38b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015100123)
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -2999,6 +3077,7 @@ jeweiligen Erlaubnis.
 
 
 ### § 38c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015200123)
 
 (1) Sollen Energieerzeugnisse im Sinn des § 4 des Gesetzes im
 steuerrechtlich freien Verkehr nach diesem Abschnitt aus dem
@@ -3041,6 +3120,7 @@ weitergeleitet.
 
 
 ### § 38d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015300123)
 
 (1) Während der Beförderung von Energieerzeugnissen im Sinn des § 4
 des Gesetzes im steuerrechtlich freien Verkehr kann der zertifizierte
@@ -3062,6 +3142,7 @@ Energieerzeugnisse gilt § 31 Absatz 2, 3 und 6 entsprechend.
 
 
 ### § 38e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015400123)
 
 (1) Nach Aufnahme der Energieerzeugnisse im Sinn des § 4 des Gesetzes,
 auch von Teilmengen, an einem vom Erlaubnisumfang erfassten
@@ -3101,6 +3182,7 @@ dass die Beförderung der Energieerzeugnisse beendet wurde.
 
 
 ### § 38f Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015501123)
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung und kann das vereinfachte elektronische Verwaltungsdokument
@@ -3110,6 +3192,7 @@ nach amtlich vorgeschriebenem Vordruck zu verwenden.
 
 
 ### § 38g Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015600123)
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das
 Steuergebiet kein Nachweis nach § 38e Absatz 4 oder § 38f in
@@ -3139,16 +3222,20 @@ akzeptiert wird, als hinreichender Ersatznachweis dafür, dass
 
 
 ### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004003123)
 
 
 ### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004101123)
 
 
 ## - - Zu den §§ 17, 18b, 21 und 46 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001303123)
 
 
 
 ### § 41 Hauptbehälter
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004204123)
 
 Hauptbehälter im Sinn des § 18b Absatz 2 Nummer 3, § 21 Absatz 1 Satz
 3 Nummer 1 und § 46 Absatz 1 Satz 2 des Gesetzes sind:
@@ -3172,10 +3259,12 @@ unschädlich.
 
 
 ## - - Zu § 18 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001400000)
 
 
 
 ### § 42 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004304123)
 
 (1) Wer als Versandhändler Energieerzeugnisse im Sinn des § 4 des
 Gesetzes an Privatpersonen im Steuergebiet liefern will, hat die
@@ -3248,10 +3337,12 @@ entsprechend.
 
 
 ## - - Zu § 18c des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005601123)
 
 
 
 ### § 42a Unregelmäßigkeiten während der Beförderung von Energieerzeugnissen des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE012901123)
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt-
 oder Teilverlusts von Energieerzeugnissen gilt § 37a entsprechend. Bei
@@ -3260,10 +3351,12 @@ kann die Sicherheit vollständig oder teilweise freigegeben werden.
 
 
 ## - - Zu den §§ 19 bis 19b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001501140)
 
 
 
 ### § 43 Einfuhr von Energieerzeugnissen aus Drittländern und Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004401140)
 
 Energieerzeugnisse aus Drittländern und Drittgebieten sind in den
 Fällen des § 19b Absatz 3 des Gesetzes nach den Zollvorschriften mit
@@ -3273,20 +3366,25 @@ vorgeschriebenem Vordruck abzugeben.
 
 
 ## - - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001601123)
 
 
 
 ### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004503123)
 
 
 ### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004603123)
 
 
 ## - - Zu den §§ 21, 65 Abs. 1 und § 66 Abs. 1 Nr. 12 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001700000)
 
 
 
 ### § 46 Verkehrs-, Verbringungs- und Verwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004704360)
 
 (1) Energieerzeugnisse, die zugelassene Kennzeichnungsstoffe
 enthalten, dürfen nicht mit anderen Energieerzeugnissen gemischt sowie
@@ -3344,6 +3442,7 @@ sind und wenn die Verwendung der Energieerzeugnisse als Kraftstoff
 
 
 ### § 47 Vermischungen in Kennzeichnungs- und anderen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004801360)
 
 (1) Werden aus Kennzeichnungs- oder anderen Betrieben leichtes Heizöl
 und nicht gekennzeichnete Gasöle der Unterpositionen 2710 19 43 bis
@@ -3392,6 +3491,7 @@ verwendet werden.
 
 
 ### § 48 Vermischungen bei der Abgabe aus Transportmitteln
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE004901360)
 
 (1) Wer leichtes Heizöl, nicht gekennzeichnete Gasöle der
 Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen
@@ -3457,6 +3557,7 @@ mitgeführt und verwendet werden.
 
 
 ### § 49 Spülvorgänge und sonstige Vermischungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005003123)
 
 (1) Auf Antrag kann das Hauptzollamt zulassen, dass in Betrieben bei
 der Reinigung von Transportmitteln, Lagerbehältern und Rohrleitungen
@@ -3490,10 +3591,12 @@ Energieerzeugnisse nach § 2 Abs. 4 des Gesetzes.
 
 
 ## - - Zu § 23 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001801140)
 
 
 
 ### § 49a Abgabe von sonstigen Energieerzeugnissen, Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013402123)
 
 (1) Andere als in § 4 des Gesetzes genannte Energieerzeugnisse gelten
 als erstmals im Steuergebiet als Kraft- oder Heizstoff oder als Zusatz
@@ -3525,6 +3628,7 @@ Kalenderjahres fällig.
 
 
 ### § 49b Nachweise für die Vorversteuerung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015700123)
 
 Der Steuerschuldner hat den Nachweis nach § 23 Absatz 1b des Gesetzes
 durch geeignete Unterlagen zu führen. Geeignete Unterlagen sind
@@ -3536,6 +3640,7 @@ Steueraufkommens erforderlich erscheint.
 
 
 ### § 50 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005101140)
 
 (1) Die Anzeige nach § 23 Absatz 4 Satz 1 des Gesetzes ist schriftlich
 bei dem für den Anzeigepflichtigen zuständigen Hauptzollamt zu
@@ -3581,6 +3686,7 @@ Gesetzes nicht erforderlich.
 
 
 ### § 51 Pflichten, Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005201140)
 
 (1) Der Anzeigepflichtige hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -3641,10 +3747,12 @@ verzichtet.
 
 
 ## - - Zu den §§ 24 bis 30 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG001900000)
 
 
 
 ### § 52 Antrag auf Erlaubnis als Verwender oder Verteiler
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005302360)
 
 (1) Die Erlaubnis als Verwender nach § 24 Absatz 2 Satz 1 des Gesetzes
 und die Erlaubnis als Verteiler nach § 24 Absatz 2 Satz 2 des Gesetzes
@@ -3731,6 +3839,7 @@ für ihn zuständigen Hauptzollamt zu beantragen.
 
 
 ### § 53 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005402123)
 
 Das Hauptzollamt erteilt schriftlich oder elektronisch die Erlaubnis
 nach § 52 Abs. 1 oder Abs. 4 (förmliche Einzelerlaubnis) und stellt
@@ -3740,6 +3849,7 @@ Abgabenordnung verbunden werden.
 
 
 ### § 54 Überprüfung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005503123)
 
 (1) Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -3869,6 +3979,7 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 
 
 ### § 55 Allgemeine Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005600000)
 
 Unter Verzicht auf eine förmliche Einzelerlaubnis werden nach Maßgabe
 der Anlage 1 zu dieser Verordnung die Verwendung und die Verteilung
@@ -3878,6 +3989,7 @@ erlaubt.
 
 
 ### § 56 Pflichten des Erlaubnisinhabers, Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005704123)
 
 (1) Die Lagerstätte für steuerfreie Energieerzeugnisse ist möglichst
 in einem besonderen Raum unterzubringen. Sie bedarf der Zulassung
@@ -3989,6 +4101,7 @@ dass
 
 
 ### § 57 Bezug und Abgabe von steuerfreien Energieerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005806123)
 
 (1) Werden steuerfreie Energieerzeugnisse aus einem Steuerlager an
 einen Erlaubnisinhaber abgegeben, hat der Inhaber des abgebenden
@@ -4113,10 +4226,12 @@ nicht für den Inhaber einer allgemeinen Erlaubnis.
 
 
 ## - - Zu § 25 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002000000)
 
 
 
 ### § 58 Verwendung zu anderen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE005900000)
 
 (1) Die Verwendung von Schmierstoffen zur Herstellung von
 Zweitaktergemischen ist keine Verwendung im Sinne des § 25 Abs. 1 Satz
@@ -4127,10 +4242,12 @@ die im Laboratorium übliche chemisch-technische Prüfung.
 
 
 ## - - Zu § 26 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002100000)
 
 
 
 ### § 59 Eigenverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006002360)
 
 Teile des Herstellungs-, Gasgewinnungs- oder sonstigen Betriebs, in
 denen nach § 26 des Gesetzes Energieerzeugnisse steuerfrei verwendet
@@ -4182,10 +4299,12 @@ Voraussetzungen des § 26 des Gesetzes gegeben sind.
 
 
 ## - - Zu den §§ 17 und 27 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002201140)
 
 
 
 ### § 60 Schiff- und Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006103140)
 
 (1) Als Schifffahrt im Sinn des § 27 Absatz 1 des Gesetzes gelten
 nicht
@@ -4318,6 +4437,7 @@ Bundesamt für Wehrtechnik und Beschaffung genehmigt worden sind.
 
 
 ### § 61 Versteuerung von Energieerzeugnissen in Wasserfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006201140)
 
 (1) Inhaber von Erlaubnissen zur steuerfreien Verwendung von
 Energieerzeugnissen nach § 27 Absatz 1 des Gesetzes dürfen die
@@ -4362,10 +4482,12 @@ abzugeben und die Steuer sofort fällig.
 
 
 ## - - Zu § 31 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002300000)
 
 
 
 ### § 62 Anmeldung des Kohlebetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006302123)
 
 (1) Wer Kohle gewinnen oder bearbeiten will, hat die Anmeldung nach §
 31 Absatz 3 des Gesetzes vor der Eröffnung des Betriebs schriftlich
@@ -4410,6 +4532,7 @@ Anmeldung des Kohlebetriebs.
 
 
 ### § 63 Einrichtung des Kohlebetriebs
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006400000)
 
 Der Kohlebetrieb muss so eingerichtet sein, dass die mit der
 Steueraufsicht betrauten Amtsträger den Gang der Gewinnung und
@@ -4419,6 +4542,7 @@ Interesse der Steueraufsicht erforderlich erscheinen.
 
 
 ### § 64 Pflichten des Betriebsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006500000)
 
 (1) Der Inhaber des Kohlebetriebs hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -4467,6 +4591,7 @@ unverzüglich schriftlich anzuzeigen.
 
 
 ### § 65 Antrag auf Erlaubnis für Kohlebetriebe und Kohlelieferer
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006601140)
 
 (1) Wer als Inhaber eines Kohlebetriebs oder als Kohlelieferer Kohle
 unversteuert beziehen will, hat die Erlaubnis nach § 31 Absatz 4 des
@@ -4509,6 +4634,7 @@ beeinträchtigt werden.
 
 
 ### § 66 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006703123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die
 Erlaubnis nach § 31 Abs. 4 des Gesetzes und stellt einen
@@ -4522,6 +4648,7 @@ entsprechend.
 
 
 ### § 67 Pflichten des Erlaubnisinhabers
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006801140)
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt
 kann dazu Anordnungen treffen.
@@ -4589,6 +4716,7 @@ zu widerrufen.
 
 
 ### § 68 Bezug und Lagerung von unversteuerter Kohle
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE006900000)
 
 (1) Der Erlaubnisinhaber hat unversteuerte Kohle, die er in Besitz
 genommen hat, unverzüglich in seinen Aufzeichnungen zu erfassen. Mit
@@ -4602,6 +4730,7 @@ Gemischanteile stammend behandelt.
 
 
 ### § 69 Lieferung von unversteuerter Kohle
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007000000)
 
 (1) Wird Kohle unversteuert an den Inhaber einer Erlaubnis nach § 31
 Abs. 4 oder § 37 Abs. 1 des Gesetzes geliefert, hat der Kohlelieferer
@@ -4629,10 +4758,12 @@ Unterlagen nachzuweisen ist.
 
 
 ## - - Zu § 34 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002400000)
 
 
 
 ### § 70 Verbringen von Kohle in das Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007102123)
 
 Wird Kohle aus einem anderen Mitgliedstaat in das Steuergebiet
 verbracht, finden sinngemäß Anwendung
@@ -4649,10 +4780,12 @@ verbracht, finden sinngemäß Anwendung
 
 
 ## - - Zu § 35 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002500000)
 
 
 
 ### § 71 Einfuhr von Kohle
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007201140)
 
 (1) Kohle aus Drittländern und Drittgebieten ist in den Fällen des §
 35 des Gesetzes in Verbindung mit § 19b Absatz 3 des Gesetzes nach den
@@ -4669,10 +4802,12 @@ beizufügen.
 
 
 ## - - Zu § 37 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002600000)
 
 
 
 ### § 72 Antrag auf Erlaubnis als Kohleverwender
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007304140)
 
 (1) Wer Kohle steuerfrei verwenden will, hat die Erlaubnis nach § 37
 Absatz 1 des Gesetzes, soweit sie nicht allgemein erteilt ist (§ 74),
@@ -4728,6 +4863,7 @@ beeinträchtigt werden.
 
 
 ### § 73 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007405123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch die
 Erlaubnis nach § 37 Abs. 1 des Gesetzes (förmliche Einzelerlaubnis)
@@ -4757,6 +4893,7 @@ Zeitpunkt der Fälligkeit der Steuer.
 
 
 ### § 74 Allgemeine Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007500000)
 
 Unter Verzicht auf eine förmliche Einzelerlaubnis wird nach Maßgabe
 der Anlage 1 zu dieser Verordnung die steuerfreie Verwendung von Kohle
@@ -4764,6 +4901,7 @@ allgemein erlaubt.
 
 
 ### § 75 Pflichten des Erlaubnisinhabers
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007603140)
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt
 kann dazu Anordnungen treffen.
@@ -4848,6 +4986,7 @@ dass
 
 
 ### § 76 Bezug und Lagerung von steuerfreier Kohle
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007700000)
 
 (1) Der Erlaubnisinhaber hat steuerfreie Kohle, die er in Besitz
 genommen hat, unverzüglich in seinen Aufzeichnungen zu erfassen. Mit
@@ -4868,6 +5007,7 @@ Erlaubnis.
 
 
 ### § 77 Eigenverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007800000)
 
 Für die Teile des Kohlebetriebs, in denen Kohle nach § 37 Abs. 2 Satz
 1 Nr. 2 des Gesetzes steuerfrei zur Aufrechterhaltung des Betriebs
@@ -4875,10 +5015,12 @@ verwendet werden kann, gilt § 59 sinngemäß.
 
 
 ## - - Zu § 38 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002700000)
 
 
 
 ### § 78 Anmeldung für Lieferer, Entnehmer und Bezieher von Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE007902123)
 
 (1) Die Anmeldung nach § 38 Absatz 3 des Gesetzes ist schriftlich bei
 dem für den Anmeldepflichtigen zuständigen Hauptzollamt abzugeben.
@@ -4919,6 +5061,7 @@ oder elektronischen Nachweis über die erfolgte Anmeldung.
 
 
 ### § 79 Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008003123)
 
 (1) Der Anmeldepflichtige nach § 38 Abs. 3 des Gesetzes hat ein
 Belegheft zu führen. Das Hauptzollamt kann dazu Anordnungen treffen.
@@ -4977,10 +5120,12 @@ verzichtet.
 
 
 ## - - Zu § 39 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002800000)
 
 
 
 ### § 80 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008103123)
 
 (1) Die Festsetzung der Vorauszahlungen erfolgt durch
 Vorauszahlungsbescheid. Ist die Steuer nur in einem Teil des
@@ -5059,10 +5204,12 @@ wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 
 ## - - Zu § 40 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG002900000)
 
 
 
 ### § 81 Nicht leitungsgebundenes Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008202123)
 
 Wird Erdgas nicht leitungsgebunden aus einem anderen Mitgliedstaat in
 das Steuergebiet verbracht, finden sinngemäß Anwendung
@@ -5079,10 +5226,12 @@ das Steuergebiet verbracht, finden sinngemäß Anwendung
 
 
 ## - - Zu § 41 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003000000)
 
 
 
 ### § 82 Nicht leitungsgebundene Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008301140)
 
 Erdgas aus Drittländern und Drittgebieten ist in den Fällen des § 41
 Absatz 1 des Gesetzes in Verbindung mit § 19b Absatz 3 des Gesetzes
@@ -5092,10 +5241,12 @@ oder nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 
 ## - - Zu § 44 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003100000)
 
 
 
 ### § 83 Antrag auf Erlaubnis als Erdgasverwender oder als Erdgasverteiler
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008403140)
 
 (1) Die Erlaubnis als Verwender nach § 44 Absatz 1 Satz 2 des Gesetzes
 und die Erlaubnis als Verteiler nach § 44 Absatz 1 Satz 3 des Gesetzes
@@ -5149,6 +5300,7 @@ beantragen.
 
 
 ### § 84 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008504123)
 
 (1) Das Hauptzollamt erteilt die Erlaubnis nach § 44 Absatz 1 und 1a
 des Gesetzes schriftlich oder elektronisch (förmliche Einzelerlaubnis)
@@ -5161,6 +5313,7 @@ sinngemäß.
 
 
 ### § 84a Allgemeine Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013501140)
 
 Unter Verzicht auf eine förmliche Einzelerlaubnis werden nach Maßgabe
 der Anlage 1 zu dieser Verordnung die Verwendung von steuerfreiem
@@ -5169,6 +5322,7 @@ aus dem Steuergebiet allgemein erlaubt.
 
 
 ### § 85 Pflichten des Erlaubnisinhabers
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008602140)
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt
 kann dazu Anordnungen treffen.
@@ -5260,6 +5414,7 @@ dass
 
 
 ### § 86 Eigenverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008701123)
 
 Für die Teile des Gasgewinnungsbetriebs (§ 44 Absatz 3 des Gesetzes),
 in denen Energieerzeugnisse steuerfrei nach § 44 Absatz 2 des Gesetzes
@@ -5267,10 +5422,12 @@ verwendet werden können, gilt § 59 sinngemäß.
 
 
 ## - - Zu § 46 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003200000)
 
 
 
 ### § 87 Steuerentlastung beim Verbringen aus dem Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008807123)
 
 (1) Die Steuerentlastung nach § 46 des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -5306,10 +5463,12 @@ eindeutige, leicht nachprüfbare Belege nachzuweisen.
 
 
 ## - - Zu § 47 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003300000)
 
 
 
 ### § 88 Steuerentlastung bei Aufnahme in Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE008904123)
 
 (1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 1 des Gesetzes ist bei
 dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung
@@ -5333,6 +5492,7 @@ besondere Aufzeichnungen zu führen.
 
 
 ### § 89 Steuerentlastung für Kohlenwasserstoffanteile
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009004123)
 
 (1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 2 des Gesetzes ist bei
 dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung
@@ -5373,6 +5533,7 @@ gasförmigen Gemischen enthaltenen Kohlenwasserstoffanteile festlegen.
 
 
 ### § 90 Steuerentlastung bei steuerfreien Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009104123)
 
 (1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 3 des Gesetzes ist
 bei dem für den Antragsteller zuständigen Hauptzollamt mit einer
@@ -5406,6 +5567,7 @@ und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen.
 
 
 ### § 91 Steuerentlastung für Kohle
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009204123)
 
 (1) Die Steuerentlastung nach § 47 Abs. 1 Nr. 5 des Gesetzes ist bei
 dem für den Antragsteller zuständigen Hauptzollamt mit einer Anmeldung
@@ -5447,6 +5609,7 @@ dem sich für den Entlastungsabschnitt ergeben müssen:
 
 
 ### § 91a Steuerentlastung für Erdgas bei Einspeisung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013003123)
 
 (1) Die Steuerentlastung nach § 47 Absatz 1 Nummer 6 des Gesetzes ist
 bei dem für den Antragsteller zuständigen Hauptzollamt mit einer
@@ -5472,10 +5635,12 @@ eingespeisten Mengen des versteuerten Erdgases ergeben müssen.
 
 
 ## - - Zu § 47a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006800360)
 
 
 
 ### § 91b Steuerentlastung für den Eigenverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014701123)
 
 (1) Die Steuerentlastung nach § 47a des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -5507,10 +5672,12 @@ und der genaue Verwendungszweck der Energieerzeugnisse ergeben müssen.
 
 
 ## - - Zu § 48 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003400000)
 
 
 
 ### § 92 Steuerentlastung bei Spülvorgängen und versehentlichen Vermischungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009305123)
 
 (1) Bewilligte Spülvorgänge im Sinne des § 48 Abs. 1 Satz 1 Nr. 1 des
 Gesetzes sind die vom Hauptzollamt nach § 49 Abs. 1 zugelassenen
@@ -5544,10 +5711,12 @@ der Gemischanteile beizufügen.
 
 
 ## - - Zu § 49 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003500000)
 
 
 
 ### § 93 Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009404123)
 
 (1) Die Steuerentlastung nach § 49 des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -5599,14 +5768,17 @@ Absatz 3 des Gesetzes versteuert worden sind.
 
 
 ### § 94 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009505360)
 
 
 
 ## - - Zu § 51 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003700000)
 
 
 
 ### § 95 Steuerentlastung für bestimmte Prozesse und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009604123)
 
 (1) Die Steuerentlastung nach § 51 des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -5667,10 +5839,12 @@ zulassen, wenn die steuerlichen Belange nicht beeinträchtigt werden.
 
 
 ## - - Zu § 52 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003800000)
 
 
 
 ### § 96 Steuerentlastung für die Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009705123)
 
 (1) Abweichend von § 52 Abs. 1 Satz 2 des Gesetzes wird eine
 Steuerentlastung auch für nicht gekennzeichnete Energieerzeugnisse der
@@ -5747,6 +5921,7 @@ beeinträchtigt werden. Absatz 4 Satz 2 gilt sinngemäß.
 
 
 ### § 97 Steuerentlastung für die Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009804123)
 
 (1) Die Steuerentlastung nach § 52 des Gesetzes für
 Energieerzeugnisse, die zu den in § 27 Abs. 2 oder Abs. 3 des Gesetzes
@@ -5813,10 +5988,12 @@ in § 52 Abs. 2 Satz 2 Nr. 5 bezeichnete Genehmigung vorzulegen. Absatz
 
 
 ## - - Zu den §§ 53 und 53a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG003902360)
 
 
 
 ### § 98 Steuerentlastung für die Stromerzeugung und die gekoppelte Erzeugung von Kraft und Wärme, Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE009904360)
 
 (1) Zur Ermittlung der entlastungsfähigen Mengen sind die zur
 Stromerzeugung oder zur gekoppelten Erzeugung von Kraft und Wärme
@@ -5849,10 +6026,12 @@ möglich ist, die Aufzeichnungen zu prüfen.
 
 
 ## - - Zu § 53 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006300140)
 
 
 
 ### § 99 Steuerentlastung für die Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010005123)
 
 (1) Die Steuerentlastung nach § 53 des Gesetzes ist für jede Anlage (§
 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer
@@ -5924,10 +6103,12 @@ mitzuteilen.
 
 
 ## - - Zu § 53a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006400140)
 
 
 
 ### § 99a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014003123)
 
 (1) Die Steuerentlastung nach § 53a des Gesetzes ist für jede Anlage
 (§ 9) bei dem für den Antragsteller zuständigen Hauptzollamt mit einer
@@ -6060,20 +6241,25 @@ Steuerentlastung gewährt.
 
 
 ### § 99b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014102123)
 
 
 ### § 99c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014202123)
 
 
 ### § 99d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014302360)
 
 
 
 ### - - Zu § 54 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004000000)
 
 
 
 #### § 100 Steuerentlastung für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010104123)
 
 (1) Die Steuerentlastung nach § 54 des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -6166,6 +6352,7 @@ dem sich für den jeweiligen Entlastungsabschnitt ergeben müssen:
 
 
 #### § 100a Verwendung von Wärme durch andere Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013600140)
 
 (1) Soweit eine Steuerentlastung für die Erzeugung von Wärme, die
 durch ein anderes Unternehmen des Produzierenden Gewerbes oder der
@@ -6241,17 +6428,21 @@ Unternehmen verwendet, wenn
 
 
 ### - - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004101123)
 
 
 
 #### § 101 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010204123)
 
 
 ### - - Zu § 56 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004200000)
 
 
 
 #### § 102 Steuerentlastung für den öffentlichen Personennahverkehr, Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010304123)
 
 (1) Die Steuerentlastung nach § 56 des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -6358,6 +6549,7 @@ den Streckenunterhalt und zur Sicherung des Fahrbetriebs.
 
 
 #### § 102a Steuerentlastung für den öffentlichen Personennahverkehr mit Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013700140)
 
 (1) Der erstmalige Antrag auf Steuerentlastung muss – soweit
 zutreffend – folgende Angaben enthalten:
@@ -6427,6 +6619,7 @@ Hauptzollamt als buchmäßiger Nachweis zugelassen werden.
 
 
 #### § 102b Steuerentlastung für den öffentlichen Personennahverkehr mit Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013801123)
 
 (1) Der erstmalige Antrag auf Steuerentlastung muss – soweit
 zutreffend – folgende Angaben enthalten:
@@ -6620,10 +6813,12 @@ zuständigen Hauptzollamt als buchmäßiger Nachweis zugelassen werden.
 
 
 ### - - Zu § 57 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004300000)
 
 
 
 #### § 103 Steuerentlastung für Betriebe der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010407123)
 
 (1) Der Antrag nach § 57 des Gesetzes ist bei dem für den Betrieb des
 Antragstellers zuständigen Hauptzollamt zu stellen. Hat der Inhaber
@@ -6706,10 +6901,12 @@ Ablauf des Entlastungsabschnitts (Absatz 2 Satz 1).
 
 
 ### - - Zu § 58 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG007000123)
 
 
 
 #### § 103a Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015801123)
 
 (1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen
 Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem
@@ -6744,10 +6941,12 @@ daraus erzeugten Wärme zu entnehmen sein müssen.
 
 
 ### - - Zu § 58a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG007100123)
 
 
 
 #### § 103b Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik(GSVP)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE015901123)
 
 (1) Energieerzeugnisse, die für zivile Missionen im Zusammenhang mit
 der Gemeinsamen Sicherheits- und Verteidigungspolitik bezogen werden,
@@ -6811,10 +7010,12 @@ gleichen Zeitraum keine weiteren Ansprüche geltend gemacht werden.
 
 
 ### - - Zu § 59 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004400000)
 
 
 
 #### § 104 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010502123)
 
 (1) Die Steuervergütung nach § 59 des Gesetzes ist bei dem
 Hauptzollamt, das für den Dienstsitz der ausländischen Vertretung
@@ -6879,25 +7080,31 @@ wurde, offenkundig versehentlich vorgelegt worden ist.
 
 
 ### Zu § 66 Abs. 1 Nr. 2 des Gesetzes - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004501116)
 
 
 
 #### § 105 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010601116)
 
 
 
 ### - - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005701123)
 
 
 
 #### § 105a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011903123)
 
 
 ### - - Zu den §§ 61 und 66 Abs. 1 Nr. 16 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004600000)
 
 
 
 #### § 106 Steueraufsicht, Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010700000)
 
 Wer der Steueraufsicht unterliegt (§ 61 des Gesetzes), hat auf
 Verlangen des Hauptzollamts über den Bezug, den Vertrieb, den
@@ -6912,6 +7119,7 @@ erscheinen.
 
 
 #### § 107 Hinweispflichten bei Abgabe von Energieerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010801140)
 
 (1) Wer Energieerzeugnisse nach § 1 Abs. 2 Nr. 1, 4, 6 oder § 1 Abs. 3
 des Gesetzes, für die die Steuer nach den Steuersätzen des § 2 Abs. 1
@@ -6944,10 +7152,12 @@ Flüssiggasflasche angebracht werden.
 
 
 ### - - Zu den §§ 65 und 66 Abs. 1 Nr. 16 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004700000)
 
 
 
 #### § 108 Kontrollen, Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE010900000)
 
 In Fahrzeugen mitgeführte oder in Behältern von Antriebsanlagen
 enthaltene Energieerzeugnisse hat der Fahrzeugführer oder der für den
@@ -6971,10 +7181,12 @@ Satz 1 des Gesetzes.
 
 
 ### - - Zu § 66 Abs. 1 Nr. 17 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004800000)
 
 
 
 #### § 109 Vermischungen von versteuerten Energieerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011004360)
 
 (1) Werden Energieerzeugnisse, die nach verschiedenen Steuersätzen des
 § 2 Abs. 1 des Gesetzes, auch in Verbindung mit § 2 Abs. 4 des
@@ -7150,16 +7362,20 @@ Absatz 1, 2 und 4 bis 11 gelten sinngemäß.
 
 
 #### § 109a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE016001123)
 
 
 #### § 109b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE016101123)
 
 
 ### - - Zu § 66 Abs. 1 Nr. 13 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG004900000)
 
 
 
 #### § 110 Normen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011106123)
 
 Es gelten
 
@@ -7253,10 +7469,12 @@ Nationalbibliothek archivmäßig gesichert niedergelegt.
 
 
 ### - - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG006700360)
 
 
 
 #### § 110a Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE014600360)
 
 (1) Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung
 wird vom zuständigen Hauptzollamt nur abweichend festgesetzt, geändert
@@ -7269,10 +7487,12 @@ programmtechnisch umgesetzt worden ist.
 
 
 ### - - Zu § 381 Abs. 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005000000)
 
 
 
 #### § 111 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011208123)
 
 (1) Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -7496,10 +7716,12 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ### - - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNG005800140)
 
 
 
 #### § 112 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE013102123)
 
 (1) Für Beförderungen von Energieerzeugnissen des steuerrechtlich
 freien Verkehrs aus anderen, in andere oder über andere
@@ -7523,6 +7745,7 @@ diesem Zeitpunkt geltenden Fassung weiter anzuwenden.
 (zu den §§ 55, 74 und 84a)
 
 #### Anlage 1 Verzicht auf förmliche Einzelerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011306360)
 
 (Fundstelle: BGBl. I 2011, 1902 - 1904;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -7935,6 +8158,7 @@ allgemein erlaubt:
 (zu § 110 Satz 1 Nr. 7)
 
 #### Anlage 2 Verfahren zur Bestimmung des Rotfarbstoffgehalts in leichtem Heizöl oder in Gemischen von leichtem Heizöl mit nicht gekennzeichnetem Gasöl mittels Hochdruckflüssigkeitschromatographie (HPLC-Verfahren)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011401360)
 
 (Fundstelle: BGBl. I 2006, 1796 - 1797; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -8184,10 +8408,12 @@ vgl. Fußnote)
 
 
 #### Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011501123)
 
 (zu § 110 Satz 1 Nr. 9)
 
 #### Anlage 4 Verfahren zur Bestimmung des Färbeäquivalents von Kennzeichnungsstoffen
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE011600000)
 
 (Fundstelle: BGBl. I 2006, 1801)
 
@@ -8202,6 +8428,7 @@ Farbstoff) unter gleichen Messbedingungen im Maximum decken.
 Verfahren zur Bestimmung des Markierstoffs ACCUTRACE
 
 #### Anlage 5 Plus (n-Butylphenylether) in leichtem Heizöl, Kerosin und in Mischungen von leichtem Heizöl mit nicht gekennzeichnetem Dieselkraftstoff mittels zweidimensionaler Gaschromatographie mit massenselektivem Detektor
+[Direktlink](https://www.gesetze-im-internet.de/energiestv/BJNR175310006.html#BJNR175310006BJNE016200123)
 
 (Fundstelle: BGBl. 2023 I Nr. 367, 5 – 12)
 

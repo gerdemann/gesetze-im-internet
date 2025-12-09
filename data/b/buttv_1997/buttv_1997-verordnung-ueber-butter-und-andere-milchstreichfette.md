@@ -29,10 +29,12 @@ Rates vom 23. März 1994 (ABl. EG Nr. L 100 S. 30), notifiziert worden.
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNG000100320)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE000601377)
 
 (1) Die Vorschriften dieser Verordnung finden Anwendung auf Butter,
 Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom
@@ -48,6 +50,7 @@ Inverkehrbringen dieser Erzeugnisse.
 
 
 ### § 1a Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002600377)
 
 Molkerei im Sinne dieser Verordnung ist ein milchwirtschaftliches
 Unternehmen, das im Durchschnitt eines Jahres täglich mindestens 500
@@ -57,10 +60,12 @@ technischen Einrichtungen besitzt.
 
 
 ## Abschnitt 2 - Butter
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNG000200320)
 
 
 
 ### § 2 Ergänzende Vorschriften zur Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE000703119)
 
 (1) Unbeschadet der Vorschriften der EG-Verordnung darf Butter nur in
 den Verkehr gebracht werden, wenn sie nach Maßgabe der Absätze 2 und 3
@@ -78,6 +83,7 @@ hergestellt sein.
 
 
 ### § 3 Ergänzende Vorschriften zur Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE000803301)
 
 (1) Unbeschadet der Vorschriften der EG-Verordnung darf Butter nur in
 den Verkehr gebracht werden, wenn sie nach Maßgabe der Absätze 2 und 6
@@ -170,10 +176,12 @@ muß die Kennzeichnung enthalten
 
 
 ## Abschnitt 3 - Butter der Handelsklassen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNG000300320)
 
 
 
 ### § 4 Inverkehrbringen nach Handelsklassen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE000900320)
 
 Butter darf nach Handelsklassen im Sinne des Satzes 2 nur in den
 Verkehr gebracht werden, wenn sie nach Maßgabe des § 5 hergestellt ist
@@ -182,6 +190,7 @@ und die Qualitätsanforderungen nach § 6 erfüllt. Handelsklassen sind
 
 
 ### § 5 Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001003119)
 
 (1) Butter der Handelsklassen darf nur unmittelbar aus Milch von Kühen
 oder daraus unmittelbar gewonnener Sahne (Rahm) oder Molkensahne
@@ -230,6 +239,7 @@ verwendet werden.
 
 
 ### § 6 Qualitätsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001101377)
 
 (1) Butter erfüllt die Voraussetzungen der Handelsklasse "Deutsche
 Markenbutter", wenn sie
@@ -264,6 +274,7 @@ Voraussetzungen als Handelsklasse auch ohne Bewertung der in § 7 Abs.
 
 
 ### § 7 Prüfung der Handelsklasse
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001201377)
 
 (1) Zur Überwachung der Qualität von Butter, die mit der Handelsklasse
 "Deutsche Markenbutter" bezeichnet werden soll, ist monatlich, zur
@@ -300,6 +311,7 @@ Lebensmittelhandel.
 
 
 ### § 8 Markenberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001300320)
 
 (1) Die Berechtigung zur Führung der Bezeichnung "Deutsche
 Markenbutter" wird von der nach Landesrecht zuständigen Stelle auf
@@ -367,6 +379,7 @@ unverzüglich mitzuteilen.
 
 
 ### § 9 Abwertung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001400320)
 
 (1) Erfüllt Butter infolge einer nachträglichen Veränderung nicht mehr
 die Mindestanforderungen der angegebenen Handelsklasse, so ist sie
@@ -381,6 +394,7 @@ Behörde ernannt.
 
 
 ### § 10 Verpackung von Butter der Handelsklassen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001501377)
 
 (1) Butter der Handelsklassen darf nur so verpackt werden, daß die
 sensorischen Eigenschaften der Butter nach § 7 Abs. 3 Satz 2 Nr. 1
@@ -394,6 +408,7 @@ DIN 10082 Ausgabe März 1996\*) entsprechen.
 
 
 ### § 11 Zusätzliche Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001601377)
 
 Butter der Handelsklassen darf nur in den Verkehr gebracht werden,
 wenn die Kennzeichnung, unbeschadet der Vorschriften der EG-Verordnung
@@ -423,6 +438,7 @@ und des § 3 Abs. 2 bis 6 und 9, folgende Angaben enthält:
 
 
 ### § 12 Butter aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001700320)
 
 (1) Butter, die in einem anderen Mitgliedstaat der Europäischen Union
 hergestellt ist, darf im Geltungsbereich dieser Verordnung unter der
@@ -454,6 +470,7 @@ Verordnung.
 
 
 ### § 13 Gütezeichen für Markenbutter
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001800320)
 
 (1) Für Markenbutter darf das nebenstehend abgebildete Gütezeichen
 nach Maßgabe der Absätze 2 bis 4 verwendet werden. Das Gütezeichen
@@ -483,10 +500,12 @@ der Verpackung die Worte "Amtliche Qualitätskontrolle des Landes ...
 
 
 ## Abschnitt 4 - Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett X vom Hundert
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNG000400320)
 
 
 
 ### § 14 Ergänzende Herstellungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE001900320)
 
 Unbeschadet der Vorschriften der EG-Verordnung dürfen bei der
 Herstellung von Dreiviertelfettbutter, Halbfettbutter und
@@ -503,6 +522,7 @@ Milchstreichfett X vom Hundert verwendet werden
 
 
 ### § 15 Ergänzende Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002001301)
 
 (1) Unbeschadet der Vorschriften der EG-Verordnung dürfen die
 Erzeugnisse Dreiviertelfettbutter, Halbfettbutter und Milchstreichfett
@@ -553,10 +573,12 @@ ist.
 
 
 ## Abschnitt 5 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNG000500320)
 
 
 
 ### § 16 Überwachung, Befugnisse der Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002100320)
 
 (1) Die Einhaltung der Vorschriften dieser Verordnung wird von den
 nach Landesrecht zuständigen Behörden, die Einhaltung der Vorschriften
@@ -579,6 +601,7 @@ einer der Buttersorten nicht überschritt, abweichend von § 7 Abs. 1, §
 
 
 ### § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002202377)
 
 (1) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 2 des Milch- und
 Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -612,6 +635,7 @@ vorgeschriebenen Weise gekennzeichnet ist.
 
 
 ### § 18 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002501124)
 
 (1) Lebensmittel, die den Vorschriften dieser Verordnung in der ab dem
 13\. November 2004 an geltenden Fassung nicht entsprechen, dürfen noch
@@ -656,12 +680,14 @@ Fassung weiter anzuwenden. Die Absätze 2 und 3 bleiben unberührt.
 
 
 ### § 19 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002700119)
 
 Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 (zu § 7 Abs. 1 und 3, § 8 Abs. 2)
 
 ### Anlage 1 Bestimmungen für die Durchführung von Butterprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002301377)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 148 - 150;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -951,6 +977,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 12 Abs. 3)
 
 ### Anlage 2 Muster der Bescheinigung über Markenbutter
+[Direktlink](https://www.gesetze-im-internet.de/buttv_1997/BJNR014410997.html#BJNR014410997BJNE002401377)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 150;
 ( bzgl. der einzelnen Änderungen vgl. Fußnote

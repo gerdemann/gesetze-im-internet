@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/eurom_nzbek/BJNR313300001.html#BJNR313300001BJNE000100310)
 
 Gemäß den §§ 1 und 4 des am 1. Januar 2002 in Kraft tretenden
 Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die

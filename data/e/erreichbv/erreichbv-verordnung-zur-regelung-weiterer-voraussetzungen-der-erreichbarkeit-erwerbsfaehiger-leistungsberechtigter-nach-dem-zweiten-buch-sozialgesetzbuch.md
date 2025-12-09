@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000100000)
 
 Auf Grund des § 13 Absatz 3 des Zweiten Buches Sozialgesetzbuch, der
 durch Artikel 1 Nummer 14 des Gesetzes vom 16. Dezember 2022 (BGBl. I
@@ -26,6 +27,7 @@ Arbeit und Soziales:
 
 
 ## § 1 Näherer Bereich
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000200000)
 
 (1) Dienststelle im Sinne des § 7b Absatz 1 Satz 3 des Zweiten Buches
 Sozialgesetzbuch ist die für die Eingliederung der erwerbsfähigen
@@ -51,6 +53,7 @@ durchgeführt wird.
 
 
 ## § 2 Möglichkeit der werktäglichen Kenntnisnahme
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000300000)
 
 (1) Die erwerbsfähige leistungsberechtigte Person hat sicherzustellen,
 dass sie Mitteilungen und Aufforderungen des zuständigen Jobcenters
@@ -79,6 +82,7 @@ Kontaktaufnahme möglich ist.
 
 
 ## § 3 Weitere wichtige Gründe
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000400000)
 
 Ein wichtiger Grund für einen Aufenthalt außerhalb des näheren
 Bereichs nach § 7b Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch
@@ -107,6 +111,7 @@ nachzuweisen.
 
 
 ## § 4 Zustimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000500000)
 
 (1) Die erwerbsfähige leistungsberechtigte Person soll die Zustimmung
 der zuständigen Dienststelle des örtlich zuständigen Jobcenters zu
@@ -142,6 +147,7 @@ oder Schülern gilt die Zustimmung mit der Antragstellung als erteilt.
 
 
 ## § 5 Dauer des Aufenthalts außerhalb des näheren Bereichs aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000600000)
 
 (1) Die Teilnahme an einer ärztlich verordneten Maßnahme der
 medizinischen Vorsorge oder der Rehabilitation ist ein wichtiger Grund
@@ -168,6 +174,7 @@ des näheren Bereichs soll zwölf Wochen im Kalenderjahr nicht
 
 
 ## § 6 Aufenthalt außerhalb des näheren Bereichs aufgrund der Ausübung einer Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000700000)
 
 Für Aufenthalte außerhalb des näheren Bereichs während der Ausübung
 einer Erwerbstätigkeit in abhängiger Beschäftigung ist keine
@@ -194,6 +201,7 @@ Abwesenheit eine Kontaktaufnahme möglich ist.
 
 
 ## § 7 Zustimmung bei Aufenthalt außerhalb des näheren Bereichs ohne wichtigen Grund
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000800000)
 
 (1) Die nach § 7b Absatz 3 Satz 1 des Zweiten Buches Sozialgesetzbuch
 mögliche Zustimmung ist zu erteilen, wenn die Eingliederung in
@@ -217,6 +225,7 @@ Urlaubsanspruchs zu erteilen.
 
 
 ## § 8 Erreichbarkeit von Personen, die Arbeitslosengeld und Bürgergeld beziehen
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE000900000)
 
 Sofern die Agentur für Arbeit bei einer Person, die Anspruch auf
 Arbeitslosengeld oder Teilarbeitslosengeld hat, den Aufenthalt
@@ -229,6 +238,7 @@ Abwesenheit außerhalb des näheren Bereich als erteilt.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erreichbv/BJNR0CF0A0023.html#BJNR0CF0A0023BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_39/BJNR014310991.html#BJNR014310991BJNE000100308)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -33,6 +34,7 @@ Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_39/BJNR014310991.html#BJNR014310991BJNE000200308)
 
 Abweichend von § 32 Abs. 1 Nr. 1 Buchstabe a der Straßenverkehrs-
 Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 28. September
@@ -53,11 +55,13 @@ werden, nicht mehr als 3,50 m beträgt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_39/BJNR014310991.html#BJNR014310991BJNE000301308)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_39/BJNR014310991.html#BJNR014310991BJNE000400308)
 
 Abweichend von § 57a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung in
 Verbindung mit der in Anlage I Kapitel XI Sachgebiet B Abschnitt III
@@ -75,6 +79,7 @@ bleibt unberührt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_39/BJNR014310991.html#BJNR014310991BJNE000500308)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1991 in Kraft.
 

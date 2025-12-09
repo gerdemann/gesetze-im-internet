@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000100000)
 
 Auf Grund des § 253 Absatz 2 Satz 4 und 5 des Handelsgesetzbuchs in
 der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1,
@@ -31,6 +32,7 @@ Deutschen Bundesbank:
 
 
 ## § 1 Abzinsung von Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000200000)
 
 Rückstellungen für Verpflichtungen gemäß § 253 Absatz 2 Satz 1 und 2
 des Handelsgesetzbuchs werden auf der Grundlage der
@@ -41,6 +43,7 @@ Aufschlag erhöhten Null-Kupon-Euro-Zinsswapkurve ermittelt.
 
 
 ## § 2 Datengrundlage
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000300000)
 
 Die Null-Kupon-Euro-Zinsswapkurve wird auf der Grundlage von Euro-
 Festzins-Swapsätzen mit den Laufzeiten ein bis zehn Jahre, zwölf, 15,
@@ -57,6 +60,7 @@ ausreichend, die Daten nur eines Finanzdatenanbieters heranzuziehen.
 
 
 ## § 3 Berechnungsgrundlagen und deren Abkürzungen
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000400000)
 
 Die Zins-Swapsätze mit jährlicher Verzinsung werden wie folgt
 bezeichnet:
@@ -87,6 +91,7 @@ bezeichnet:
 
 
 ## § 4 Umrechnung von Festzins-Swapsätzen in Null-Kupon-Swapsätze
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000500000)
 
 Die Null-Kupon-Swapsätze werden aus den Festzins-Swapsätzen mit Hilfe
 der Null-Kupon-Anleihen-Entbündelung (Bootstrapping) abgeleitet, und
@@ -113,6 +118,7 @@ schrittweise berechnet:
 
 
 ## § 5 Interpolation fehlender Laufzeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000600000)
 
    (1) Der implizite Termin-Swapsatz aus Null-Kupon-Swapsätzen mit
 Laufzeitbeginn
@@ -182,6 +188,7 @@ t 1,t 3 in die folgende Gleichung bestimmt:
 
 
 ## § 6 Berechnung des Aufschlags
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000700000)
 
    Zur Berechnung des Aufschlags wird die Rendite des
 Unternehmensanleihenindexes über die vergangenen 84 Monatsendstände
@@ -221,6 +228,7 @@ Swapsatz und dem für diesen Zeitpunkt einheitlichen Aufschlag:
 
 
 ## § 6a Berechnung des Aufschlags bei Rückstellungen für Altersversorgungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE001000123)
 
    Für die Berechnung des Aufschlags bei Rückstellungen für
 Altersversorgungsverpflichtungen nach § 253 Absatz 2 Satz 1 und 2 des
@@ -229,6 +237,7 @@ Handelsgesetzbuchs treten bei der Anwendung des § 6 an die Stelle von
 
 
 ## § 7 Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000801360)
 
 Auf Basis der Daten des letzten Handelstages des Monats veröffentlicht
 die Deutsche Bundesbank monatlich die Null-Kupon-Euro-Zinsswapsätze
@@ -237,11 +246,13 @@ Jahr bis 50 Jahre auf ihrer Internetseite www.bundesbank.de.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## § 8 Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/r_ckabzinsv/BJNR379000009.html#BJNR379000009BJNE001100123)
 
 § 6a in der Fassung des Gesetzes zur Umsetzung der
 Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher

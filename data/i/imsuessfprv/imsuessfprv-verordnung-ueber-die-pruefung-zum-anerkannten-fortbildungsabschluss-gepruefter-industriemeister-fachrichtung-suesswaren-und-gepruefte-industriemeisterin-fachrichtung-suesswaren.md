@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 zuletzt durch Artikel 436
@@ -33,6 +34,7 @@ Wirtschaft und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
 Industriemeister – Fachrichtung Süßwaren und Geprüfte
@@ -185,6 +187,7 @@ Süßwaren.
 
 
 ## § 2 Teile des Fortbildungsabschlusses und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000400000)
 
 (1) Für den Fortbildungsabschluss zum Geprüften Industriemeister –
 Fachrichtung Süßwaren und zur Geprüften Industriemeisterin –
@@ -215,6 +218,7 @@ aufeinander aufbauende Prüfungsteile:
 
 
 ## § 3 Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000501128)
 
 (1) Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen
 hat die zu prüfende Person nachzuweisen durch
@@ -236,6 +240,7 @@ vorzulegen.
 
 
 ## § 4 Voraussetzungen für die Zulassung zu den Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000601119)
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende
 Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
@@ -289,6 +294,7 @@ die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 5 Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000701128)
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
 werden folgende Prüfungsbereiche geprüft:
@@ -334,6 +340,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Qualifikationsinhalte der Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000801128)
 
 (1) Im Prüfungsbereich „Rechtsbewusstes Handeln“ soll die zu prüfende
 Person nachweisen, dass sie in der Lage ist, einschlägige
@@ -519,6 +526,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 7 Prüfungsteil „Handlungsspezifische Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE000900000)
 
 Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die
 folgenden Handlungsbereiche und Qualifikationsschwerpunkte:
@@ -570,6 +578,7 @@ folgenden Handlungsbereiche und Qualifikationsschwerpunkte:
 
 
 ## § 8 Gliederung des Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001000000)
 
 Der Prüfungsteil besteht aus
 
@@ -583,6 +592,7 @@ Der Prüfungsteil besteht aus
 
 
 ## § 9 Situationsaufgaben im schriftlichen Teil, Bearbeitungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001101128)
 
 (1) Im schriftlichen Teil wird je eine Situationsaufgabe zu den
 Handlungsbereichen „Technik“ (§ 10) und „Organisation“ (§ 11)
@@ -620,6 +630,7 @@ die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 10 Situationsaufgabe aus dem Handlungsbereich „Technik“
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001201128)
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Technik“ soll
 mindestens einer der Qualifikationsschwerpunkte „Süßwarentechnologie“,
@@ -740,6 +751,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 11 Situationsaufgabe aus dem Handlungsbereich „Organisation“
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001301128)
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Organisation“
 soll mindestens einer der Qualifikationsschwerpunkte „Betriebliches
@@ -875,6 +887,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 12 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001401128)
 
 (1) Im Fachgespräch wird eine Situationsaufgabe zum Handlungsbereich
 „Führung und Personal“ gestellt. Die zu prüfende Person soll
@@ -1016,6 +1029,7 @@ Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 13 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001501128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -1028,6 +1042,7 @@ zugrunde zu legen.
 
 
 ## § 14 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001601128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -1052,6 +1067,7 @@ Bewertung das arithmetische Mittel zu berechnen.
 
 
 ## § 15 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001701128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -1130,6 +1146,7 @@ ist die Gesamtnote.
 
 
 ## § 16 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001801128)
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -1156,6 +1173,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 17 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE001901128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden. Ist ein Prüfungsteil nicht bestanden, kann er zweimal
@@ -1175,6 +1193,7 @@ werden. In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 
 ## § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE002000000)
 
 (1) Vor Ablauf des 30. Juni 2016 angemeldete Prüfungen zum anerkannten
 Abschluss „Geprüfter Industriemeister – Fachrichtung Süßwaren“ und
@@ -1197,6 +1216,7 @@ werden; § 17 Absatz 4 ist in diesem Fall nicht anzuwenden.
 
 
 ## § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE002100000)
 
 Diese Verordnung tritt am 1. Juli 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -1208,6 +1228,7 @@ worden ist, außer Kraft.
 (zu den §§ 14 und 15)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE002200128)
 
 (Fundstelle: BGBl. I 2019, 2417 – 2418)
 
@@ -1509,6 +1530,7 @@ worden ist, außer Kraft.
 (zu § 16)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/ims_ssfprv/BJNR011000016.html#BJNR011000016BJNE002300128)
 
 (Fundstelle: BGBl. I 2019, 2419)
 

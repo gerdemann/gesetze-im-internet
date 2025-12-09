@@ -26,6 +26,7 @@ Die geltung dieser v ist durch
 Stand: Ersetzt V 860-5-73 v. 1.6.2021 BAnz AT 02.06.2021 V2 (CoronaImpfV 2021-06)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000106126)
 
 Das Bundesministerium für Gesundheit verordnet auf Grund des
 
@@ -47,26 +48,32 @@ Das Bundesministerium für Gesundheit verordnet auf Grund des
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000307126)
 
 
 
 ## § 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE002004126)
 
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000408126)
 
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000509126)
 
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000609126)
 
 
 
 ## § 5 Terminvergabe
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000708126)
 
 (1) Die Kassenärztliche Bundesvereinigung entwickelt und betreibt ein
 standardisiertes Modul zur telefonischen und digitalen Vereinbarung
@@ -98,6 +105,7 @@ die Erstattung nach Absatz 2 rechnungsbegründenden Unterlagen bis zum
 
 
 ## § 6 Vergütung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000812126)
 
 (1) Die Vergütung der Leistungserbringer nach § 3 Absatz 1 Satz 1
 Nummer 1 und 3 bis 9 der Coronavirus-Impfverordnung in der bis zum 7.
@@ -251,6 +259,7 @@ aufzubewahren.
 
 
 ## § 7 Teilfinanzierung der Kosten der Impfzentren und der mobilen Impfteams
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE000909126)
 
 (1) Die notwendigen Kosten der von den zuständigen Stellen der Länder
 eingerichteten Impfzentren und mobilen Impfteams werden nach Maßgabe
@@ -358,6 +367,7 @@ Absatz 1 Satz 1 rechnungsbegründenden Unterlagen bis zum 31. Dezember
 
 
 ## § 8 Großhandelsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001008126)
 
 (1) Für den im Zusammenhang mit der bis zum 31. Dezember 2022
 erfolgten Abgabe von Impfstoffen durch den Großhandel an Apotheken
@@ -417,6 +427,7 @@ Satz 1 Nummer 3 durch das jeweilige Land abgerechnet.
 
 
 ## § 9 Apothekenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001110126)
 
 (1) Für den Aufwand, der den Apotheken im Zusammenhang mit der bis zum
 31\. Dezember 2022 erfolgten Abgabe von COVID-19-Impfstoff an die
@@ -480,6 +491,7 @@ ausgeschlossen.
 
 
 ## § 10 Abrechnung der Großhandels- und Apothekenvergütung durch die Apotheken
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001209126)
 
 (1) Die Apotheken rechnen monatlich spätestens bis zum Ende des
 dritten auf den Abrechnungszeitraum folgenden Monats die sich nach den
@@ -525,6 +537,7 @@ Absatz 2 Satz 1 Nummer 2 übermittelten Angaben bis zum 31. Dezember
 
 
 ## § 11 Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001309126)
 
 (1) Jedes Land übermittelt monatlich oder quartalsweise, letztmalig
 bis zum 31. Oktober 2024, die folgenden Angaben an das Bundesamt für
@@ -759,6 +772,7 @@ der Schutzimpfungen je Impfzentrum und mobiles Impfteam.
 
 
 ## § 12 Verfahren für die Finanzierung aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001407126)
 
 (1) Das Bundesamt für Soziale Sicherung übermittelt dem
 Bundesministerium für Gesundheit unverzüglich nach der Vornahme von
@@ -802,6 +816,7 @@ nach § 11 Absatz 4 anpassen.
 
 
 ## § 13 Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001506126)
 
 (1) Jedes Land übermittelt monatlich oder quartalsweise die folgenden
 Angaben an den Verband der Privaten Krankenversicherung e. V., sofern
@@ -910,18 +925,22 @@ bis zum 31. Dezember 2028.
 
 
 ## § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001607126)
 
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001707126)
 
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001807126)
 
 
 
 ## § 17 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/coronaimpfv_2021-09/BJNR624300021.html#BJNR624300021BJNE001906126)
 
 Diese Verordnung tritt mit Ablauf des 31. Dezember 2028 außer Kraft.
 

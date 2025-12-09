@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rvchilabkg/BJNR122520993.html#BJNR122520993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rvchilabkg/BJNR122520993.html#BJNR122520993BJNE000200307)
 
 Dem in Bonn am 5. März 1993 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Chile über
@@ -33,6 +35,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rvchilabkg/BJNR122520993.html#BJNR122520993BJNE000300307)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -66,6 +69,7 @@ Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rvchilabkg/BJNR122520993.html#BJNR122520993BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

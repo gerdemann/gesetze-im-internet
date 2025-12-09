@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpflzv/BJNR257300013.html#BJNR257300013BJNE000100000)
 
 Auf Grund des § 7 Absatz 2 des Bundesbesoldungsgesetzes, der durch
 Artikel 2 Nummer 2 des Gesetzes vom 3. Juli 2013 (BGBl. I S. 1978)
@@ -28,6 +29,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/bpflzv/BJNR257300013.html#BJNR257300013BJNE000202116)
 
 (1) Der Vorschuss nach § 7 Absatz 1 Satz 1 des
 Bundesbesoldungsgesetzes wird monatlich gewährt.
@@ -66,6 +68,7 @@ mit 15 Wochenstunden zustehen würden.
 
 
 ## § 2 Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bpflzv/BJNR257300013.html#BJNR257300013BJNE000301116)
 
 (1) Der Vorschuss ist mit Beginn des Monats, der auf die Beendigung
 der Familienpflegezeit oder Pflegezeit folgt, mit den laufenden
@@ -84,6 +87,7 @@ das Beamtenverhältnis berufen wird (§ 46 des Bundesbeamtengesetzes).
 
 
 ## § 3 Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bpflzv/BJNR257300013.html#BJNR257300013BJNE000402116)
 
 (1) Endet das Beamtenverhältnis nach § 30 Nummer 1 bis 3 des
 Bundesbeamtengesetzes, ist der noch ausstehende Betrag bis zum Ablauf
@@ -98,6 +102,7 @@ Antrag vor Beendigung der Familienpflegezeit oder Pflegezeit stellen.
 
 
 ## § 4 Härtefallregelung
+[Direktlink](https://www.gesetze-im-internet.de/bpflzv/BJNR257300013.html#BJNR257300013BJNE000502116)
 
 (1) Auf Antrag der Beamtin oder des Beamten soll die Dienststelle im
 Fall der Verrechnung, unter gleichzeitiger Abweichung von § 2 Absatz 1
@@ -159,6 +164,7 @@ Versorgungsbezüge einzubehalten.
 
 
 ## § 5 Vorschussgewährung an Berufssoldatinnen oder Berufssoldaten und Soldatinnen auf Zeit oder Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/bpflzv/BJNR257300013.html#BJNR257300013BJNE000601116)
 
 Die Vorschriften dieser Verordnung sind auf die Gewährung eines
 Vorschusses nach § 7 Absatz 4 des Bundesbesoldungsgesetzes an

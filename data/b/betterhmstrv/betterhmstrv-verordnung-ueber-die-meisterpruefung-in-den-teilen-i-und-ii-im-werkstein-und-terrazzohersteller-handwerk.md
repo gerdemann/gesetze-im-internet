@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 7110-3-104 v. 21.1.1993 I 87 (BetTerMstrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBI. I S. 3074; 2006 I S.
@@ -32,6 +33,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000201119)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der
 Prüfung in den Teilen I und II der Meisterprüfung zu stellenden
@@ -40,6 +42,7 @@ Werkstein- und Terrazzohersteller-Handwerk.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000301119)
 
 In den Teilen I und II der Meisterprüfung im Werkstein- und
 Terrazzohersteller-Handwerk hat der Prüfling die berufliche
@@ -253,6 +256,7 @@ Kenntnisse:
 
 
 ## § 3 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000401119)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -266,6 +270,7 @@ Prüfungsbereich.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000501128)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus
@@ -334,6 +339,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000601119)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -362,6 +368,7 @@ ist,
 
 
 ## § 6 Gewichtung, Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000700000)
 
 (1) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert
 bewertet. Für das Gesamtergebnis der Prüfung in Teil I der
@@ -381,6 +388,7 @@ Bewertung des Fachgesprächs im Verhältnis 3:1 zu gewichten.
 
 
 ## § 7 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000801119)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -417,6 +425,7 @@ Stunden an einem Tag darf nicht überschritten werden.
 
 
 ## § 8 Handlungsfeld „Anforderungen von Kunden eines Werkstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE000901119)
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines Werkstein- und
 Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und
@@ -524,6 +533,7 @@ anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 9 Handlungsfeld „Leistungen eines Werkstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE001001119)
 
 (1) Im Handlungsfeld „Leistungen eines Werkstein- und
 Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“
@@ -634,6 +644,7 @@ besteht aus folgenden Qualifikationen:
 
 
 ## § 10 Handlungsfeld „Einen Werkstein- und Terrazzohersteller-Betrieb führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE001101119)
 
 (1) Im Handlungsfeld „Einen Werkstein- und Terrazzohersteller-Betrieb
 führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der
@@ -778,6 +789,7 @@ führen und organisieren“ besteht aus folgenden Qualifikationen:
 
 
 ## § 11 Gewichtung, Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE001200000)
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung
 ist das arithmetische Mittel der Bewertungen der Handlungsfelder nach
@@ -806,6 +818,7 @@ Meisterprüfung ausschlaggebend ist.
 
 
 ## § 12 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE001301128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -816,6 +829,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 13 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE001400000)
 
 (1) Die bis zum Ablauf des 28. Februar 2021 begonnenen
 Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende
@@ -831,6 +845,7 @@ des 28. Februar 2021 geltenden Vorschriften ablegen.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betterhmstrv/BJNR025000021.html#BJNR025000021BJNE001500000)
 
 Diese Verordnung tritt am 1. März 2021 in Kraft. Gleichzeitig tritt
 die Betonstein- und Terrazzoherstellermeisterverordnung vom 21. Januar

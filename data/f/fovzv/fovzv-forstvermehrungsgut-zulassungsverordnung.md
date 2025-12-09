@@ -21,6 +21,7 @@ Vermehrungsgut (ABl. EG 2000 Nr. L 11 S. 17, 2001 Nr. L 121 S. 48).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000100000)
 
 Auf Grund des § 4 Abs. 7 Satz 1 und des § 6 Abs. 3 des
 Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658)
@@ -29,6 +30,7 @@ Landwirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000200000)
 
 (1) Für die Zulassung von
 
@@ -60,6 +62,7 @@ unter der Kategorie "Qualifiziert" registriert werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000300000)
 
 Im Register über zugelassenes Ausgangsmaterial nach § 6 Abs. 1 des
 Forstvermehrungsgutgesetzes sind die in Anlage 3 dieser Verordnung
@@ -67,17 +70,20 @@ festgelegten Angaben zu machen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000400000)
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Abs. 1)
 
 ## Anlage 1 Anforderungen an die Zulassung von Ausgangsmaterial unter den Kategorien "Ausgewählt", "Qualifiziert" und "Geprüft"
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000600000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4722 - 4726)
 
@@ -926,6 +932,7 @@ Mindestanforderungen für die Zulassung unter der Kategorie "Geprüft"
 (zu § 1 Abs. 2)
 
 ## Anlage 2 Anforderungen an die Zulassung von Ausgangsmaterial unter der Kategorie "Quellengesichert"
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000700000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4727
 
@@ -944,6 +951,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4727
 (zu § 2)
 
 ## Anlage 3 Angaben im Register über zugelassenes Ausgangsmaterial gemäß § 6 Abs. 1 des Forstvermehrungsgutgesetzes (FoVG)
+[Direktlink](https://www.gesetze-im-internet.de/fovzv/BJNR472100002.html#BJNR472100002BJNE000800000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4728 - 2729
 

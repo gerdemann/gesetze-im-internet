@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000105123)
 
 (1) Als Bundesoberbehörde für den Straßenverkehr wird das Kraftfahrt-
 Bundesamt errichtet.
@@ -33,6 +34,7 @@ Bundesamts.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000601123)
 
 (1) Das Kraftfahrt-Bundesamt übernimmt
 
@@ -287,11 +289,13 @@ Vorschriften zugewiesen werden, bleiben unberührt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000300313)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000400313)
 
 Das Kraftfahrt-Bundesamt ist ferner zuständig, wenn ihm durch eine
 Gesetzgebung im Land Berlin Zuständigkeiten in Übereinstimmung mit
@@ -299,6 +303,7 @@ diesem Gesetz übertragen werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kbag/BJNR004880951.html#BJNR004880951BJNE000500313)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

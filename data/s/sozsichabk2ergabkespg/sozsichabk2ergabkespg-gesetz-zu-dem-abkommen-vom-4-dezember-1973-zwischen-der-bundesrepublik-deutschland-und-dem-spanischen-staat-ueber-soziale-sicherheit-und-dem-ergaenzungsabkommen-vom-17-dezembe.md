@@ -22,17 +22,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000200314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000302308)
 
 (1) Hat ein Träger der Krankenversicherung für die in Artikel 15 Abs.
 2 des Abkommens vom 4. Dezember 1973 genannten Personen und deren
@@ -49,6 +52,7 @@ sind, gelten als Beiträge für die Krankenversicherung im Sinne des §
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000401308)
 
 (1) (weggefallen)
 
@@ -64,6 +68,7 @@ aufgebracht.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000500314)
 
 (1) Der Bundesminister für Arbeit und Sozialordnung wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen
@@ -95,6 +100,7 @@ Sozialordnung mit Zustimmung des Bundesrates.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000600314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -103,6 +109,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk2ergabkespg/BJNR206850977.html#BJNR206850977BJNE000700314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

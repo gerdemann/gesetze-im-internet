@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000100327)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -27,12 +28,14 @@ verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000200327)
 
 Der Ausbildungsberuf Leichtflugzeugbauer/Leichtflugzeugbauerin wird
 staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000300327)
 
 Die Ausbildung dauert 3 Jahre. Auszubildende, denen der Besuch eines
 nach landesrechtlichen Vorschriften eingeführten schulischen
@@ -43,6 +46,7 @@ Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000400327)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -52,6 +56,7 @@ erfolgen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000500327)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -105,6 +110,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000600327)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 für die berufliche Grundbildung und für die berufliche Fachbildung
@@ -117,12 +123,14 @@ soweit betriebspraktische Besonderheiten diese Abweichungen erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000700327)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000800327)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -131,6 +139,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE000900327)
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
@@ -192,6 +201,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE001000327)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -338,6 +348,7 @@ sind.
 
 
 ## § 10 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE001100327)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
@@ -348,6 +359,7 @@ nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE001200327)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -356,18 +368,21 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE001300327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE001400327)
 
 Diese Verordnung tritt am 1. August 1987 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE001500327)
 
 (Fundstelle: BGBl. I 1986, 2115 - 2119)
 
@@ -969,6 +984,7 @@ Diese Verordnung tritt am 1. August 1987 in Kraft.
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/leichtflbausbv/BJNR021120986.html#BJNR021120986BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

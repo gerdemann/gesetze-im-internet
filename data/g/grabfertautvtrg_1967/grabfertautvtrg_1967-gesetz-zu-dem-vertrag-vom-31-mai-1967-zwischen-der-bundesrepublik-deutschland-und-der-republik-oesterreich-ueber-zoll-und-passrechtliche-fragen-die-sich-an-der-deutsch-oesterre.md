@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grabfertautvtrg_1967/BJNR206970970.html#BJNR206970970BJNE000100314)
 
 Dem in Wien am 31. Mai 1967 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über zoll- und
@@ -33,6 +34,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grabfertautvtrg_1967/BJNR206970970.html#BJNR206970970BJNE000201123)
 
 Die Bundesminister des Innern, für Bau und Heimat und der Finanzen
 werden ermächtigt, Änderungen der Anlage I des Vertrages auf Grund
@@ -41,6 +43,7 @@ Bundesrates in Kraft zu setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grabfertautvtrg_1967/BJNR206970970.html#BJNR206970970BJNE000301309)
 
 Nach Artikel 4 Abs. 4 des Vertrages eingeführte Waren gehen im Falle
 des Artikels 4 Abs. 1 Buchstabe a des Vertrages mit der Einfuhr in die
@@ -48,6 +51,7 @@ Zollgutverwendung des Unternehmens über, dem sie bewilligt ist.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/grabfertautvtrg_1967/BJNR206970970.html#BJNR206970970BJNE000400314)
 
 Soweit für vor Inkrafttreten des Vertrages eingeführte Waren
 Eingangsabgaben gestundet worden sind, werden sie erlassen, wenn die
@@ -56,6 +60,7 @@ abgabenfrei blieben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/grabfertautvtrg_1967/BJNR206970970.html#BJNR206970970BJNE000500314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -65,6 +70,7 @@ S. 1).
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/grabfertautvtrg_1967/BJNR206970970.html#BJNR206970970BJNE000600314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

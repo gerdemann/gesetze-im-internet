@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_6/BJNR020530980.html#BJNR020530980BJNE000100315)
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -34,12 +35,14 @@ in vier Stufen durch den Bundesminister der Verteidigung.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_6/BJNR020530980.html#BJNR020530980BJNE000200315)
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 des im Artikel 1 genannten Ehrenzeichens.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_6/BJNR020530980.html#BJNR020530980BJNE000300315)
 
 Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
 Abbildungen des nach Artikel 1 genehmigten Ehrenzeichens werden vom
@@ -47,6 +50,7 @@ Bundesminister des Innern im Bundesanzeiger veröffentlicht.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_6/BJNR020530980.html#BJNR020530980BJNE000400315)
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner
@@ -54,6 +58,7 @@ Form und seiner Benennung bedürfen meiner Genehmigung.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_6/BJNR020530980.html#BJNR020530980BJNE000500315)
 
 Der Bundespräsident
 Der Bundesminister der Verteidigung

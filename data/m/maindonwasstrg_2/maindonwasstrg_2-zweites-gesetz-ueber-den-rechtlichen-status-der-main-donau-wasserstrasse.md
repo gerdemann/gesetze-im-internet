@@ -20,15 +20,18 @@ Zuletzt geändert durch
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000102308)
 
 -
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000203305)
 
 
 
 ## § 3 Durchleiten von Wasser
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000300328)
 
 Über das Durchleiten von Wasser für wasserwirtschaftliche und
 landeskulturelle Zwecke durch die Wasserstraßen nach § 1 Abs. 1 Nr. 1
@@ -37,6 +40,7 @@ eine gesonderte Vereinbarung treffen.
 
 
 ## § 4 Eigentumsverhältnisse und Fischereirechte
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000400328)
 
 (1) Das Eigentum an den in § 1 Abs. 1 bezeichneten Strecken steht dem
 Bund zu.
@@ -55,16 +59,19 @@ anderen Rechte ist von Abgaben und Kosten befreit.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000500328)
 
 -
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000601308)
 
 -
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/maindonwasstrg_2/BJNR009130986.html#BJNR009130986BJNE000700328)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

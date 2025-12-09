@@ -42,6 +42,7 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 
 ## § 1 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000208377)
 
 (1) Der Kraftfahrzeugsteuer unterliegt
 
@@ -80,6 +81,7 @@ Verbrauchsteuern gelten.
 
 
 ## § 2 Begriffsbestimmungen, Mitwirkung der Verkehrsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000310140)
 
 (1) Unter den Begriff Fahrzeuge im Sinne dieses Gesetzes fallen
 Kraftfahrzeuge und Kraftfahrzeuganhänger.
@@ -117,6 +119,7 @@ bereits nach § 1 Abs. 1 Nr. 1 oder 2 vorgenommen worden ist.
 
 
 ## § 3 Ausnahmen von der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000422360)
 
 Von der Steuer befreit ist das Halten von
 
@@ -319,6 +322,7 @@ Von der Steuer befreit ist das Halten von
 
 
 ## § 3a Vergünstigungen für Schwerbehinderte
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001909377)
 
 (1) Von der Steuer befreit ist das Halten von Kraftfahrzeugen, solange
 die Fahrzeuge für schwerbehinderte Personen zugelassen sind, die durch
@@ -349,6 +353,7 @@ oder der Haushaltsführung der behinderten Personen stehen.
 
 
 ## § 3b Steuerbefreiung für besonders schadstoffreduzierte Personenkraftwagen mit Selbstzündungsmotor
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE024808140)
 
 (1) Das Halten von Personenkraftwagen mit Selbstzündungsmotor ist
 befristet von der Steuer befreit, wenn das Fahrzeug in der Zeit vom 1.
@@ -380,10 +385,12 @@ Absatz 1 Nummer 4 Satz 1.
 
 
 ## § 3c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE024904377)
 
 
 
 ## § 3d Steuerbefreiung für Elektrofahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE002208123)
 
 (1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im
 Sinne des § 9 Absatz 2. Die Steuerbefreiung wird bei erstmaliger
@@ -421,9 +428,11 @@ die Voraussetzungen nach Satz 2 als erfüllt feststellt.
 
 
 ## (XXXX) §§ 3e bis 3h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE002405301)
 
 
 ## § 4 Erstattung der Steuer bei Beförderungen von Fahrzeugen mit der Eisenbahn
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000505301)
 
 (1) Die Steuer ist auf schriftlichen Antrag für einen Zeitraum von
 zwölf Monaten, gerechnet vom Beginn eines Entrichtungszeitraums, zu
@@ -457,6 +466,7 @@ ist.
 
 
 ## § 5 Dauer der Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000612123)
 
 (1) Die Steuerpflicht dauert
 
@@ -524,6 +534,7 @@ des Fahrzeugs nicht schuldhaft verzögert hat.
 
 
 ## § 6 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000702301)
 
 Die Steuer entsteht mit Beginn der Steuerpflicht, bei fortlaufenden
 Entrichtungszeiträumen mit Beginn des jeweiligen
@@ -531,6 +542,7 @@ Entrichtungszeitraums.
 
 
 ## § 7 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000805140)
 
 Steuerschuldner ist
 
@@ -554,6 +566,7 @@ Steuerschuldner ist
 
 
 ## § 8 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE000909140)
 
 Die Steuer bemisst sich
 
@@ -604,6 +617,7 @@ Die Steuer bemisst sich
 
 
 ## § 9 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001028123)
 
 (1) Die Jahressteuer beträgt für
 
@@ -1435,6 +1449,7 @@ die Mindestbesteuerung vorgeschrieben ist.
 
 
 ## § 9a Zuschlag für Personenkraftwagen mit Selbstzündungsmotor
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE025000301)
 
 (1) Für Personenkraftwagen mit Selbstzündungsmotor erhöht sich in der
 Zeit vom 1. April 2007 bis zum 31. März 2011 der jeweilige Steuersatz
@@ -1449,6 +1464,7 @@ Nr. 4 Satz 1.
 
 
 ## § 10 Sonderregelung für Kraftfahrzeuganhänger
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001113301)
 
 (1) Auf schriftlichen Antrag wird die Steuer für das Halten von
 Kraftfahrzeuganhängern mit Ausnahme von Wohnwagenanhängern nicht
@@ -1480,6 +1496,7 @@ Monat.
 
 
 ## § 10a Sonderregelungen für Personenkraftwagen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE025101123)
 
 (1) Die Steuer für das Halten von Personenkraftwagen wird
 vorbehaltlich des Absatzes 4 für ein Jahr ab dem Tag der erstmaligen
@@ -1527,6 +1544,7 @@ des § 1 Abs. 1 Nr. 4 Satz 1.
 
 
 ## § 10b Sonderregelung für besonders emissionsreduzierte Personenkraftwagen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE025200123)
 
 (1) Die Steuer für das Halten von besonders emissionsreduzierten
 Personenkraftwagen mit Fremd- oder Selbstzündungsmotor und
@@ -1558,6 +1576,7 @@ des § 1 Absatz 1 Nummer 4.
 
 
 ## § 11 Entrichtungszeiträume
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001212360)
 
 (1) Die Steuer ist jeweils für die Dauer eines Jahres im Voraus zu
 entrichten.
@@ -1628,6 +1647,7 @@ auf volle Euro nach unten abzurunden.
 
 
 ## § 12 Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001316123)
 
 (1) Die Steuer wird, wenn der Zeitpunkt der Beendigung der
 Steuerpflicht nicht feststeht, unbefristet, in allen anderen Fällen
@@ -1688,9 +1708,11 @@ Zulassungsbehörde zuständig wird.
 
 
 ## (XXXX) §§ 12a und 12b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE024404301)
 
 
 ## § 13 Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001411123)
 
 (1) Die Zulassungsbehörde darf ein Fahrzeug erst zum Verkehr auf
 öffentlichen Straßen zulassen, wenn die Besteuerungsgrundlagen im
@@ -1739,6 +1761,7 @@ Ausnahmen zulassen.
 
 
 ## § 14 Außerbetriebsetzung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001505123)
 
 (1) Ist die Steuer nicht entrichtet worden, hat die Zulassungsbehörde
 auf Antrag der für die Ausübung der Verwaltung der Kraftfahrzeugsteuer
@@ -1755,6 +1778,7 @@ gegeben.
 
 
 ## § 15 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001609123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt,
 Rechtsverordnungen zu erlassen über
@@ -1823,6 +1847,7 @@ geändert werden.
 
 
 ## § 16 Aussetzung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001704140)
 
 Das Bundesministerium der Finanzen kann die Erhebung der Steuer bei
 ausländischen Fahrzeugen bis zu einem Jahr aussetzen, sobald mit dem
@@ -1833,6 +1858,7 @@ zu machen.
 
 
 ## § 17 Sonderregelung für bestimmte Behinderte
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE001804360)
 
 Behinderte, denen die Kraftfahrzeugsteuer im Zeitpunkt des
 Inkrafttretens des Gesetzes zur Änderung des
@@ -1845,6 +1871,7 @@ vorübergehend ein Grad der Behinderung von wenigstens 50 vorliegt.
 
 
 ## § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstg/BJNR005090927.html#BJNR005090927BJNE002320123)
 
 (1) Ändert sich der Steuersatz innerhalb eines Entrichtungszeitraums,
 so ist bei der Neufestsetzung für die Teile des Entrichtungszeitraums

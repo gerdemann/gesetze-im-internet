@@ -18,19 +18,23 @@ Fundstelle
 
 
 ## Art 1 - Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle" (Deutsche-Welle-Gesetz - DWG)
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNG000200305)
 
 
 
 ## Art 2 - Änderung personalvertretungsrechtlicher Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNG000300305)
 
 
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNE000800305)
 
 -
 
 
 ## § 3 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNE000900305)
 
 § 51 der Wahlordnung zum Bundespersonalvertretungsgesetz kann auf
 Grund der Ermächtigung des § 115 Bundespersonalvertretungsgesetz durch
@@ -38,10 +42,12 @@ Rechtsverordnung wieder geändert werden.
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNG000400305)
 
 
 
 ## Art 4 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNG000500305)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gelten die derzeitigen
 Amtszeiten der Gremien der Deutschen Welle als beendet.
@@ -77,10 +83,12 @@ erstmaligen Wahlen im Sinne der Sätze 1 und 2.
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNG000600305)
 
 
 
 ## Art 6 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkauslg/BJNR309409997.html#BJNR309409997BJNG000700305)
 
 (1) Die Artikel 1 bis 5 treten bis auf Artikel 1 §§ 44 bis 57 am Tage
 nach der Verkündung in Kraft.

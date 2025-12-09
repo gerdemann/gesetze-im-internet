@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/seeschsi_bkg/BJNR204940990.html#BJNR204940990BJNE000100308)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 Rom vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen
@@ -35,11 +36,13 @@ mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/seeschsi_bkg/BJNR204940990.html#BJNR204940990BJNE000200308)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/seeschsi_bkg/BJNR204940990.html#BJNR204940990BJNE000400308)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wpapumstg/BJNR010040951.html#BJNR010040951BJNE000100311)
 
 (1) Die Umstellung des Nennbetrages von Schuldverschreibungen auf
 Deutsche Mark sowie die Neufestsetzung des Nennbetrags von Aktien in
@@ -63,6 +64,7 @@ Deutscher Mark umgestellte Grundkapital.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wpapumstg/BJNR010040951.html#BJNR010040951BJNE000200311)
 
 (1) Gesellschaften, deren Aktien keiner Neuzulassung nach § 1
 bedürfen, haben die Neufestsetzung der Kapitalverhältnisse in
@@ -113,6 +115,7 @@ verlangen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wpapumstg/BJNR010040951.html#BJNR010040951BJNE000300311)
 
 (1) Die Bekanntmachung hat im Bundesanzeiger und in einer von der
 Zulassungsstelle zu bestimmenden Zeitung zu erfolgen. Sind die Aktien
@@ -135,12 +138,14 @@ es einer erneuten Bekanntmachung nicht.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wpapumstg/BJNR010040951.html#BJNR010040951BJNE000400311)
 
 Dieses Gesetz gilt auch im Lande Berlin, sobald es gemäß Artikel 87
 Abs. 2 seiner Verfassung die Anwendung dieses Gesetzes beschließt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wpapumstg/BJNR010040951.html#BJNR010040951BJNE000500311)
 
 Das Gesetz tritt am Tage der Verkündung in Kraft.
 

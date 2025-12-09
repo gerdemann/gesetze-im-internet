@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hfreqbetrgen/BJNR513810969.html#BJNR513810969BJNE000100314)
 
 Auf Grund des § 3 des Gesetzes über den Betrieb von
 Hochfrequenzgeräten vom 9. August 1949 (Gesetzblatt der Verwaltung des
@@ -25,6 +26,7 @@ Vereinigten Wirtschaftsgebietes S. 235) wird bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hfreqbetrgen/BJNR513810969.html#BJNR513810969BJNE000200314)
 
 Für den Betrieb von halbleiterbestückten Stromumformungsgeräten, die
 zur Umformung von Gleich- in Wechselstrom für Leuchtstofflampen in
@@ -33,6 +35,7 @@ dienen, wird hiermit eine Allgemeine Genehmigung erteilt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hfreqbetrgen/BJNR513810969.html#BJNR513810969BJNE000300314)
 
 Für den Betrieb der in § 1 genannten Stromumformungsgeräte ist so
 lange keine einzelne Genehmigung nach dem Gesetz über den Betrieb von
@@ -41,6 +44,7 @@ Auflagen eingehalten werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hfreqbetrgen/BJNR513810969.html#BJNR513810969BJNE000400314)
 
 Die Allgemeine Genehmigung wird unter folgenden Auflagen erteilt:
 
@@ -91,11 +95,13 @@ gestatten, in denen sich Geräte der in § 1 genannten Art befinden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/hfreqbetrgen/BJNR513810969.html#BJNR513810969BJNE000500314)
 
 Die Allgemeine Genehmigung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hfreqbetrgen/BJNR513810969.html#BJNR513810969BJNE000600314)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

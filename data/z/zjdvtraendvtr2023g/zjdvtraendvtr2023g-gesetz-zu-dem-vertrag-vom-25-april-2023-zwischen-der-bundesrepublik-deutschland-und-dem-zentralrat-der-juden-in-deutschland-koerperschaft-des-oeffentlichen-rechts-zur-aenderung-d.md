@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr2023g/BJNR1600A0023.html#BJNR1600A0023BJNE000100000)
 
 (1) Dem in Berlin am 25. April 2023 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und dem Zentralrat der Juden in
@@ -34,6 +35,7 @@ Vertrag vom 6. Juli 2018 (BGBl. I S. 2235), wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr2023g/BJNR1600A0023.html#BJNR1600A0023BJNE000200000)
 
 Dieses Gesetz tritt am Tag nach Verkündung in Kraft.
 

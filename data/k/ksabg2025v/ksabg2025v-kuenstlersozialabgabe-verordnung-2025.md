@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ksabg2025v/BJNR1120A0024.html#BJNR1120A0024BJNE000100000)
 
 Auf Grund des § 26 Absatz 5 in Verbindung mit Absatz 1 des
 Künstlersozialversicherungsgesetzes, dessen Absatz 5 Satz 1 zuletzt
@@ -28,12 +29,14 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Bestimmung des Prozentsatzes der Künstlersozialabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ksabg2025v/BJNR1120A0024.html#BJNR1120A0024BJNE000200000)
 
 Der Prozentsatz der Künstlersozialabgabe im Jahr 2025 beträgt 5,0
 Prozent.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ksabg2025v/BJNR1120A0024.html#BJNR1120A0024BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt
 die Künstlersozialabgabe-Verordnung 2023 vom 20. September 2022 (BGBl.

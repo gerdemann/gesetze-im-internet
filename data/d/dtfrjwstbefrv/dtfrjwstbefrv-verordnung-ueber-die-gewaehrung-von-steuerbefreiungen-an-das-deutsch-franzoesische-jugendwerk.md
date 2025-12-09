@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwstbefrv/BJNR204340983.html#BJNR204340983BJNE000100317)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwstbefrv/BJNR204340983.html#BJNR204340983BJNE000200317)
 
 Die vom Deutsch-Französischen Jugendwerk an seine französischen
 Bediensteten gezahlte Auslandszulage ist von der Einkommensteuer
@@ -38,6 +40,7 @@ befreit.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwstbefrv/BJNR204340983.html#BJNR204340983BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -46,6 +49,7 @@ vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwstbefrv/BJNR204340983.html#BJNR204340983BJNE000400317)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Januar 1981 in Kraft.
 

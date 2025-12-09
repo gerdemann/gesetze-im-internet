@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNG002100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000203126)
 
 (1) Die Zusatzversorgungskasse für Arbeitnehmer in der Land- und
 Forstwirtschaft (ZLA) ist eine bundesunmittelbare Anstalt des
@@ -42,6 +45,7 @@ Sicherung. Ihm obliegt auch die Genehmigung der Satzung.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000301308)
 
 (1) Der Zusatzversorgungskasse für Arbeitnehmer in der Land- und
 Forstwirtschaft obliegt die Zahlung von Ausgleichsleistungen an
@@ -69,6 +73,7 @@ b)  selbständige Nebenbetriebe und selbständige Betriebsabteilungen
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000400314)
 
 Organe der Zusatzversorgungskasse für Arbeitnehmer in der Land- und
 Forstwirtschaft sind die Vertreterversammlung, der Vorstand und der
@@ -76,6 +81,7 @@ Geschäftsführer.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000501308)
 
 (1) Die Vertreterversammlung setzt sich aus je neun Mitgliedern aus
 der Gruppe der Arbeitnehmer und der Arbeitgeber zusammen.
@@ -95,12 +101,14 @@ Zusatzversorgungskasse durchgeführt werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000601308)
 
 Der Vorstand besteht aus je drei Vertretern der Gruppen der
 Arbeitnehmer und der Arbeitgeber.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000703377)
 
 Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. Hat die
@@ -110,11 +118,13 @@ Geschäftsführung zum Geschäftsführer der Zusatzversorgungskasse.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000800314)
 
 -
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE000904119)
 
 Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums für
 Ernährung und Landwirtschaft, die nur im Einvernehmen mit dem
@@ -123,6 +133,7 @@ und Soziales erteilt werden kann.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001006119)
 
 Durch Verwaltungsvereinbarung kann geregelt werden, dass die
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
@@ -138,6 +149,7 @@ die Satzung der Zusatzversorgungskasse zu veröffentlichen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001103119)
 
 (1) Soweit dieses Gesetz nichts anderes vorschreibt, sind die für die
 landwirtschaftliche Unfallversicherung geltenden Vorschriften des
@@ -156,10 +168,12 @@ Gesetzes.
 
 
 ## Zweiter Abschnitt - Ausgleichsleistungen an Arbeitnehmer der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNG002200314)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001205308)
 
 Eine Ausgleichsleistung wird gewährt, wenn den landwirtschaftlichen
 Arbeitnehmern im Inland, die in der gesetzlichen Rentenversicherung
@@ -175,6 +189,7 @@ ausgenommen sein.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001311308)
 
 (1) Die Ausgleichsleistung erhält, wer
 
@@ -318,12 +333,14 @@ nicht ausgeübt hat.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001401309)
 
 Die Kosten der Ausgleichsleistung einschließlich ihrer
 Verwaltungskosten trägt der Bund.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001508119)
 
 (1) Der Monatsbetrag der Ausgleichsleistung beträgt für den
 verheirateten Berechtigten bis 30. Juni 2009 62 Euro und ab dem 1.
@@ -362,6 +379,7 @@ Betrages.
 
 
 ### § 14a
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE002100308)
 
 (1) Wird eine Ausgleichsleistung nur unter Berücksichtigung des § 12
 Abs. 2b und 2c erbracht, ergibt sich bis zur Herstellung einheitlicher
@@ -384,6 +402,7 @@ Rentenwert.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001602308)
 
 (1) Die Ausgleichsleistung für Zeiten vom 1. Juli des Vorjahres bis
 zum 30. Juni des jeweils laufenden Jahres wird nachträglich in einer
@@ -415,10 +434,12 @@ Ausgleichsleistung auch für die Zeit vom 1. Januar 1995 bis 30. Juni
 
 
 ## Dritter Abschnitt - Sonstige Aufgaben der Zusatzversorgungskasse
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNG002300314)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001704119)
 
 (1) Die Zusatzversorgungskasse kann mit Genehmigung des
 Bundesministeriums für Ernährung und Landwirtschaft und des
@@ -435,20 +456,24 @@ erstatten.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNG002400314)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001801309)
 
 -
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE001901308)
 
 -
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zvalg/BJNR016600974.html#BJNR016600974BJNE002001308)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Ansprüche
 auf Ausgleichsleistung können ab 1. Juli 1973, für die in § 12 Abs. 2b

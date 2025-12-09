@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## ERSTER ABSCHNITT - Rechtsgeschäftliche Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNG000100325)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE000600325)
 
 (1) Die Vorschriften dieses Abschnitts gelten für landwirtschaftliche
 und forstwirtschaftliche Grundstücke sowie für Moor- und Ödland, das
@@ -43,6 +45,7 @@ Grundstücks.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE000701377)
 
 (1) Die rechtsgeschäftliche Veräußerung eines Grundstücks und der
 schuldrechtliche Vertrag hierüber bedürfen der Genehmigung. Ist ein
@@ -92,6 +95,7 @@ werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE000800325)
 
 (1) Über den Antrag auf Genehmigung entscheidet die nach Landesrecht
 zuständige Behörde (Genehmigungsbehörde), soweit nicht das Gericht zu
@@ -104,6 +108,7 @@ ermächtigt, die Genehmigung zu beantragen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001001377)
 
 Die Genehmigung ist nicht notwendig, wenn
 
@@ -140,6 +145,7 @@ Die Genehmigung ist nicht notwendig, wenn
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001100325)
 
 Ist zur Veräußerung die Genehmigung nicht notwendig, so hat die
 Genehmigungsbehörde auf Antrag ein Zeugnis darüber zu erteilen. Das
@@ -147,6 +153,7 @@ Zeugnis steht der Genehmigung gleich.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001200325)
 
 (1) Die Entscheidung über die Genehmigung ist binnen einem Monat nach
 Eingang des Antrags und der Urkunde über das zu genehmigende
@@ -171,6 +178,7 @@ Genehmigungsbehörde hierüber auf Antrag ein Zeugnis zu erteilen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001300325)
 
 (1) Auf Grund einer genehmigungsbedürftigen Veräußerung darf eine
 Rechtsänderung in das Grundbuch erst eingetragen werden, wenn dem
@@ -194,6 +202,7 @@ Eintragung eines Widerspruchs gestellt worden ist.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001500325)
 
 Die Genehmigung ist zu erteilen, wenn
 
@@ -259,6 +268,7 @@ Die Genehmigung ist zu erteilen, wenn
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001600325)
 
 (1) Die Genehmigung darf nur versagt oder durch Auflagen (§ 10) oder
 Bedingungen (§ 11) eingeschränkt werden, wenn Tatsachen vorliegen, aus
@@ -332,6 +342,7 @@ eine unzumutbare Härte für den Veräußerer bedeuten würde.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001701377)
 
 (1) Dem Erwerber kann die Auflage gemacht werden,
 
@@ -364,6 +375,7 @@ zurückzutreten. Auf das Rücktrittsrecht sind die Vorschriften der §§
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001800325)
 
 (1) Die Genehmigung kann unter der Bedingung erteilt werden, daß
 binnen einer bestimmten Frist
@@ -388,6 +400,7 @@ hierüber auf Antrag eine Bescheinigung zu erteilen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE001900325)
 
 Liegen die Voraussetzungen vor, unter denen nach dem
 Reichssiedlungsgesetz das Vorkaufsrecht ausgeübt werden kann, so hat
@@ -398,10 +411,12 @@ vorkaufsberechtigte Stelle vorzulegen.
 
 
 ## ZWEITER ABSCHNITT - Gerichtliche Zuweisung eines Betriebes
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNG000200325)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002000325)
 
 (1) Gehört ein landwirtschaftlicher Betrieb einer durch gesetzliche
 Erbfolge entstandenen Erbengemeinschaft, so kann das Gericht auf
@@ -427,6 +442,7 @@ Reichsheimstätten sind sie nicht anzuwenden.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002100325)
 
 (1) Die Zuweisung ist nur zulässig, wenn der Betrieb mit einer zur
 Bewirtschaftung geeigneten Hofstelle versehen ist und seine Erträge
@@ -448,6 +464,7 @@ verlangen kann.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002200325)
 
 (1) Der Betrieb ist dem Miterben zuzuweisen, dem er nach dem
 wirklichen oder mutmaßlichen Willen des Erblassers zugedacht war. Ist
@@ -463,6 +480,7 @@ Betriebes sinngemäß.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002300325)
 
 (1) Wird der Betrieb einem Miterben zugewiesen, so steht insoweit den
 übrigen Miterben an Stelle ihres Erbteils ein Anspruch auf Zahlung
@@ -509,6 +527,7 @@ unzulässig, wenn der Erwerber dadurch unangemessen beschwert würde.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002400325)
 
 (1) Zieht der Erwerber binnen fünfzehn Jahren nach dem Erwerb (§ 13
 Abs. 2) aus dem Betrieb oder einzelnen zugewiesenen Gegenständen durch
@@ -532,10 +551,12 @@ Jahres, in dem die Voraussetzungen des Anspruchs erfüllt sind.
 
 
 ## DRITTER ABSCHNITT - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNG000300325)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002500325)
 
 (1) Örtlich zuständig ist die Genehmigungsbehörde, in deren Bezirk die
 Hofstelle des Betriebes liegt, zu dem das Grundstück gehört. Ist keine
@@ -553,6 +574,7 @@ Beteiligten unanfechtbar.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002600325)
 
 Die Genehmigungsbehörde hat vor der Entscheidung über einen
 Genehmigungsantrag die auf Grund des § 32 Abs. 3 des Gesetzes über das
@@ -562,6 +584,7 @@ die Landesregierung.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002700325)
 
 Entscheidungen, gegen die ein Antrag auf gerichtliche Entscheidung
 zulässig ist, sind zu begründen und zuzustellen. Bei der Zustellung
@@ -573,6 +596,7 @@ Zustellung der Entscheidung der Genehmigungsbehörde.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002800325)
 
 Erklärungen des Vorkaufsberechtigten über die Ausübung des
 Vorkaufsrechts nach dem Reichssiedlungsgesetz hat die
@@ -588,6 +612,7 @@ Reichssiedlungsgesetzes.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE002901377)
 
 (1) Wenn die Genehmigungsbehörde eine Genehmigung versagt oder unter
 Auflagen oder Bedingungen erteilt, ein Zeugnis nach § 5 oder § 6 Abs.
@@ -617,12 +642,14 @@ aufhebt. Absatz 2 Satz 1 gilt entsprechend.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003000325)
 
 Im Verfahren vor der Genehmigungsbehörde werden Gebühren und Auslagen
 nicht erhoben.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003201377)
 
 (1) Wer
 
@@ -653,28 +680,34 @@ muß, bevor es festgesetzt wird, angedroht werden.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003300325)
 
 -
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003400325)
 
 -
 
 
 ## VIERTER ABSCHNITT - Siedlungsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNG000400325)
 
 
 
 ### (XXXX) §§ 27 bis 30
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003500325)
 
 
 
 ## FÜNFTER ABSCHNITT - Zusatz-, Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNG000500325)
 
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003601377)
 
 (1) § 8 Nr. 2 gilt nicht für Höfe im Sinne der in den Ländern Hamburg,
 Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein geltenden
@@ -693,11 +726,13 @@ entscheiden hat.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003701377)
 
 (weggefallen)
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003801377)
 
 (1) Ist ein landwirtschaftlicher Betrieb vor dem Inkrafttreten dieses
 Gesetzes auf eine Erbengemeinschaft übergegangen, so gelten für die
@@ -736,10 +771,12 @@ hat.
 
 
 ### (XXXX) §§ 34 bis 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE003901377)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE004200325)
 
 Die Bundesregierung wird ermächtigt, zu Verhinderung von Mißbräuchen,
 welche die Wirksamkeit dieses Gesetzes erheblich beeinträchtigen, für
@@ -754,11 +791,13 @@ Kosten zu regeln.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE004301377)
 
 (weggefallen)
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/grdstvg/BJNR010910961.html#BJNR010910961BJNE004400325)
 
 (1) Dieses Gesetz tritt am 1. Januar 1962 in Kraft. Die Vorschriften,
 die den Erlaß von Landesgesetzen vorsehen oder zum Erlaß von

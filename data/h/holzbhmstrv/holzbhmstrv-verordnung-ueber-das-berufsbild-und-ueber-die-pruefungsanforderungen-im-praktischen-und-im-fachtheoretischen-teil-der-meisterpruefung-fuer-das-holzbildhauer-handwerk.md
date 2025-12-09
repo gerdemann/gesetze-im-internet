@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE000400304)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -31,10 +32,12 @@ Bildung und Wissenschaft verordnet:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNG000100304)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE000500304)
 
 (1) Dem Holzbildhauer-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -181,11 +184,13 @@ Fertigkeiten zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNG000200304)
 
 
 Gliederung, Dauer und Bestehen der praktischen Prüfung
 
 ### § 2 (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE000600304)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -202,6 +207,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE000700304)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten
 Arbeiten zu entwerfen und anzufertigen:
@@ -236,6 +242,7 @@ Nachkalkulation abzugeben.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE000800304)
 
 (1) Als Arbeitsprobe ist eine der nachstehend genannten Arbeiten
 auszuführen:
@@ -259,6 +266,7 @@ unzureichend nachgewiesen werden konnten.
 Prüfung der fachtheoretischen Kenntnisse
 
 ### § 5 (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE000900304)
 
 (1) In Teil II sind Kenntnisse in den folgenden sechs Prüfungsfächern
 nachzuweisen:
@@ -370,16 +378,19 @@ ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNG000300304)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE001000304)
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -389,10 +400,12 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE001201128)
 
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE001300304)
 
 (1) Diese Verordnung tritt am 1. Oktober 1987 in Kraft.
 
@@ -402,6 +415,7 @@ nicht mehr anzuwenden.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/holzbhmstrv/BJNR011920987.html#BJNR011920987BJNE001400304)
 
 Der Bundesminister für Wirtschaft
 

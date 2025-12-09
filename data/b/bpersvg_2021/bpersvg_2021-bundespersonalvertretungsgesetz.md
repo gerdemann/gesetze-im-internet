@@ -42,12 +42,15 @@ Verwirklichung der Gleichbehandlung in Beschäftigung und Beruf (ABl. L
 
 
 ## Teil 1 - Personalvertretungen im Bundesdienst
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000200000)
 
 (1) Dieser Teil gilt für die Verwaltungen des Bundes und die
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
@@ -61,6 +64,7 @@ Personalvertretungsrechts überlassen.
 
 
 #### § 2 Grundsätze der Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000300000)
 
 (1) Dienststelle und Personalvertretung arbeiten unter Beachtung der
 Gesetze und Tarifverträge vertrauensvoll zum Wohl der Beschäftigten
@@ -95,6 +99,7 @@ hierdurch nicht berührt.
 
 
 #### § 3 Ausschluss abweichender Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000400000)
 
 Durch Tarifvertrag oder Dienstvereinbarung kann das
 Personalvertretungsrecht nicht abweichend von diesem Gesetz geregelt
@@ -102,6 +107,7 @@ werden.
 
 
 #### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000500000)
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -158,6 +164,7 @@ werden.
 
 
 #### § 5 Gruppen von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000600000)
 
 Die Beamtinnen und Beamten sowie die Arbeitnehmerinnen und
 Arbeitnehmer bilden je eine Gruppe. Die in § 4 Absatz 1 Nummer 5
@@ -166,6 +173,7 @@ und Beamten hinzu.
 
 
 #### § 6 Dienststellenaufbau, gemeinsame Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000700000)
 
 (1) Die einer Behörde der Mittelstufe unmittelbar nachgeordnete
 Behörde bildet mit den ihr nachgeordneten Stellen eine Dienststelle.
@@ -179,6 +187,7 @@ Dienststelle gehörig.
 
 
 #### § 7 Verselbstständigung von Nebenstellen und Dienststellenteilen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000800000)
 
 Nebenstellen und Teile einer Dienststelle, die räumlich weit von
 dieser entfernt liegen, gelten als selbstständige Dienststellen, wenn
@@ -188,6 +197,7 @@ Amtszeit der aus ihr hervorgehenden Personalvertretung wirksam.
 
 
 #### § 8 Vertretung der Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE000900000)
 
 Für die Dienststelle handelt ihre Leiterin oder ihr Leiter. Sie oder
 er kann sich bei Verhinderung durch ihre oder seine ständige
@@ -204,6 +214,7 @@ erklärt.
 
 
 #### § 9 Stellung der Gewerkschaften und Arbeitgebervereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001000000)
 
 (1) Dienststelle und Personalvertretung arbeiten mit den in der
 Dienststelle vertretenen Gewerkschaften und Arbeitgebervereinigungen
@@ -233,6 +244,7 @@ Vereinigungsfreiheit der Beschäftigten einzusetzen.
 
 
 #### § 10 Behinderungs-, Benachteiligungs- und Begünstigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001100000)
 
 Personen, die Aufgaben oder Befugnisse nach diesem Gesetz wahrnehmen,
 dürfen dabei nicht behindert und deswegen nicht benachteiligt oder
@@ -241,6 +253,7 @@ Entwicklung.
 
 
 #### § 11 Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001200000)
 
 (1) Personen, die Aufgaben oder Befugnisse nach diesem Gesetz
 wahrnehmen oder wahrgenommen haben, haben über die ihnen dabei bekannt
@@ -272,6 +285,7 @@ Geheimhaltung bedürfen.
 
 
 #### § 12 Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001300000)
 
 Erleidet eine Beamtin oder ein Beamter anlässlich der Wahrnehmung von
 Rechten oder der Erfüllung von Pflichten nach diesem Gesetz einen
@@ -281,12 +295,15 @@ anzuwenden.
 
 
 ### Kapitel 2 - Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000300000)
 
 
 #### Abschnitt 1 - Wahl und Zusammensetzung des Personalrats
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000400000)
 
 
 ##### § 13 Bildung von Personalräten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001400000)
 
 (1) In Dienststellen, die in der Regel mindestens fünf Wahlberechtigte
 beschäftigen, von denen drei wählbar sind, werden Personalräte
@@ -299,6 +316,7 @@ zugeordnet.
 
 
 ##### § 14 Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001500000)
 
 (1) Wahlberechtigt sind Beschäftigte, die am Wahltag das 16.
 Lebensjahr vollendet haben, es sei denn, dass sie
@@ -335,6 +353,7 @@ sind nur bei ihrer Stammbehörde wahlberechtigt.
 
 
 ##### § 15 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001600000)
 
 (1) Wählbar sind die Wahlberechtigten, die am Wahltag
 
@@ -373,6 +392,7 @@ nicht anzuwenden.
 
 
 ##### § 16 Zahl der Personalratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001700000)
 
 (1) Der Personalrat besteht in Dienststellen mit in der Regel
 
@@ -405,6 +425,7 @@ Beschäftigte.
 
 
 ##### § 17 Sitzverteilung auf die Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001800000)
 
 (1) Sind in der Dienststelle Angehörige verschiedener Gruppen
 beschäftigt, so muss jede Gruppe entsprechend ihrer Stärke im
@@ -468,6 +489,7 @@ Satz 2 gilt auch für Ersatzmitglieder.
 
 
 ##### § 18 Berücksichtigung der Beschäftigungsarten und Geschlechter
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE001900000)
 
 (1) Der Personalrat soll sich aus Vertreterinnen und Vertretern der
 verschiedenen Beschäftigungsarten zusammensetzen.
@@ -477,6 +499,7 @@ Zahlenverhältnis in der Dienststelle vertreten sein.
 
 
 ##### § 19 Wahlgrundsätze und Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002000000)
 
 (1) Der Personalrat wird in geheimer und unmittelbarer Wahl gewählt.
 
@@ -497,6 +520,7 @@ Personalrat zusteht.
 
 
 ##### § 20 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002100000)
 
 (1) Zur Wahl des Personalrats können die wahlberechtigten
 Beschäftigten und die in der Dienststelle vertretenen Gewerkschaften
@@ -529,6 +553,7 @@ bestätigt.
 
 
 ##### § 21 Bestellung des Wahlvorstands durch den Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002200000)
 
 Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der
 Personalrat drei Wahlberechtigte, die das 18. Lebensjahr vollendet
@@ -548,6 +573,7 @@ Sitzungen des Wahlvorstands mit beratender Stimme teilzunehmen.
 
 
 ##### § 22 Wahl des Wahlvorstands durch die Personalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002300000)
 
 (1) Besteht sechs Wochen vor Ablauf der Amtszeit des Personalrats kein
 Wahlvorstand, so beruft die Leiterin oder der Leiter der Dienststelle
@@ -564,6 +590,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 
 ##### § 23 Bestellung des Wahlvorstands durch die Leiterin oder den Leiter der Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002400000)
 
 Findet eine Personalversammlung nach § 22 nicht statt oder wählt die
 Personalversammlung keinen Wahlvorstand, so bestellt ihn die Leiterin
@@ -573,6 +600,7 @@ Gewerkschaft.
 
 
 ##### § 24 Aufgaben des Wahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002500000)
 
 (1) Der Wahlvorstand hat die Wahl unverzüglich nach seiner Bestellung
 einzuleiten; die Wahl soll spätestens zwei Wochen vor dem Ende der
@@ -592,6 +620,7 @@ zu übersenden.
 
 
 ##### § 25 Schutz und Kosten der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002600000)
 
 (1) Niemand darf die Wahl des Personalrats behindern oder in einer
 gegen die guten Sitten verstoßenden Weise beeinflussen. Insbesondere
@@ -609,6 +638,7 @@ gelten § 46 Absatz 2 und § 51 Satz 2 entsprechend.
 
 
 ##### § 26 Anfechtung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002700000)
 
 Mindestens drei Wahlberechtigte, jede in der Dienststelle vertretene
 Gewerkschaft oder die Leiterin oder der Leiter der Dienststelle können
@@ -621,9 +651,11 @@ das Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
 
 #### Abschnitt 2 - Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000500000)
 
 
 ##### § 27 Zeitpunkt der Wahl, Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002800000)
 
 (1) Die regelmäßigen Personalratswahlen finden alle vier Jahre in der
 Zeit vom 1. März bis 31. Mai statt.
@@ -639,6 +671,7 @@ Juli.
 
 
 ##### § 28 Vorzeitige Neuwahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE002900000)
 
 (1) Außerhalb des in § 27 Absatz 1 genannten Zeitraums ist der
 Personalrat neu zu wählen, wenn
@@ -700,6 +733,7 @@ Personalratswahlen neu zu wählen.
 
 
 ##### § 29 Übergangsmandat und Restmandat bei Umstrukturierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003000000)
 
 (1) Wird eine Dienststelle in mehrere Dienststellen aufgespalten oder
 werden Teile einer Dienststelle in eine neue Dienststelle
@@ -769,6 +803,7 @@ ersetzt werden.
 
 
 ##### § 30 Ausschluss eines Mitglieds und Auflösung des Personalrats
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003100000)
 
 Auf Antrag eines Viertels der Wahlberechtigten oder einer in der
 Dienststelle vertretenen Gewerkschaft kann das Verwaltungsgericht den
@@ -783,6 +818,7 @@ Verletzung seiner gesetzlichen Pflichten beantragen.
 
 
 ##### § 31 Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003200000)
 
 (1) Die Mitgliedschaft im Personalrat erlischt durch
 
@@ -824,6 +860,7 @@ weiterhin die Gruppe, von der es gewählt wurde.
 
 
 ##### § 32 Ruhen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003300000)
 
 Die Mitgliedschaft einer Beamtin oder eines Beamten im Personalrat
 ruht, solange ihr oder ihm die Führung der Dienstgeschäfte verboten
@@ -832,6 +869,7 @@ vorläufig des Dienstes enthoben ist.
 
 
 ##### § 33 Eintritt von Ersatzmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003400000)
 
 (1) Scheidet ein Mitglied aus dem Personalrat aus, so tritt ein
 Ersatzmitglied ein. Das Gleiche gilt, wenn ein Mitglied des
@@ -854,9 +892,11 @@ Ersatzmitglieder nicht ein.
 
 
 #### Abschnitt 3 - Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000600000)
 
 
 ##### § 34 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003500000)
 
 (1) Der Personalrat bildet aus seiner Mitte den Vorstand. Diesem muss
 ein Mitglied jeder im Personalrat vertretenen Gruppe angehören. Die
@@ -876,6 +916,7 @@ Liste zu wählen.
 
 
 ##### § 35 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003600000)
 
 (1) Der Personalrat bestimmt mit einfacher Mehrheit, welches der nach
 § 34 Absatz 1 gewählten Vorstandsmitglieder den Vorsitz übernimmt. Er
@@ -892,6 +933,7 @@ einem der Gruppe angehörenden Vorstandsmitglied.
 
 
 ##### § 36 Anberaumung von Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003700000)
 
 (1) Spätestens fünf Arbeitstage nach dem Wahltag hat der Wahlvorstand
 die Mitglieder des Personalrats zu den Wahlen des Vorstands und des
@@ -937,6 +979,7 @@ setzen, wenn dies beantragt wird von
 
 
 ##### § 37 Teilnahme- und Stimmrecht sonstiger Personen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003800000)
 
 (1) Eine Vertreterin oder ein Vertreter der Jugend- und
 Auszubildendenvertretung, die oder der von dieser benannt wird, und
@@ -966,6 +1009,7 @@ oder zu denen sie oder er ausdrücklich eingeladen worden ist.
 
 
 ##### § 38 Zeitpunkt der Sitzungen und Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE003900000)
 
 (1) Die Sitzungen des Personalrats finden in der Regel während der
 Arbeitszeit statt. Der Personalrat hat bei der Anberaumung seiner
@@ -1011,6 +1055,7 @@ Telefonkonferenz unberührt.
 
 
 ##### § 39 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004000000)
 
 (1) Die Beschlüsse des Personalrats werden, soweit in diesem Gesetz
 nichts anderes bestimmt ist, mit einfacher Stimmenmehrheit der
@@ -1037,6 +1082,7 @@ spätestens in der nächsten Sitzung des Personalrats bekannt.
 
 
 ##### § 40 Beschlussfassung in gemeinsamen Angelegenheiten und in Gruppenangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004100000)
 
 (1) Über die gemeinsamen Angelegenheiten der Beamtinnen und Beamten
 sowie der Arbeitnehmerinnen und Arbeitnehmer wird vom Personalrat
@@ -1053,6 +1099,7 @@ Angehörigen zweier Gruppen betreffen.
 
 
 ##### § 41 Ausschluss von Beratung und Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004200000)
 
 (1) Ein Mitglied des Personalrats ist ausgeschlossen von der Beratung
 und Beschlussfassung
@@ -1096,6 +1143,7 @@ Vertrauen auf den Beschluss des Personalrats durchgeführt hat, nicht.
 
 
 ##### § 42 Aussetzung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004300000)
 
 (1) Erachtet die Mehrheit der Vertreterinnen und Vertreter einer
 Gruppe oder der Jugend- und Auszubildendenvertretung einen Beschluss
@@ -1120,6 +1168,7 @@ oder ihnen gleichgestellten Beschäftigten erachtet.
 
 
 ##### § 43 Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004400000)
 
 (1) Über jede Verhandlung des Personalrats ist ein Protokoll zu
 führen, das mindestens den Wortlaut der Beschlüsse und die
@@ -1137,6 +1186,7 @@ elektronisch zu erheben und dem Protokoll beizufügen.
 
 
 ##### § 44 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004500000)
 
 Sonstige Bestimmungen über die Geschäftsführung können in einer
 Geschäftsordnung getroffen werden, die der Personalrat mit der
@@ -1144,6 +1194,7 @@ Mehrheit der Stimmen seiner Mitglieder beschließt.
 
 
 ##### § 45 Sprechstunden
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004600000)
 
 (1) Der Personalrat kann Sprechstunden während der Arbeitszeit
 einrichten. Zeit und Ort bestimmt er im Einvernehmen mit der Leiterin
@@ -1161,6 +1212,7 @@ Satz 2 Nummer 1 und 3 sowie Satz 3 gilt entsprechend.
 
 
 ##### § 46 Kosten der Personalratstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004700000)
 
 (1) Die durch die Tätigkeit des Personalrats und seiner Mitglieder
 entstehenden Kosten trägt der Bund.
@@ -1174,6 +1226,7 @@ entsprechend.
 
 
 ##### § 47 Sachaufwand und Büropersonal
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004800000)
 
 Für die Sitzungen, die Sprechstunden und die laufende Geschäftsführung
 hat die Dienststelle dem Personalrat Räume, Geschäftsbedarf, in der
@@ -1184,6 +1237,7 @@ stellen.
 
 
 ##### § 48 Bekanntmachungen und Aushänge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE004900000)
 
 Dem Personalrat werden in den Dienststellen geeignete Plätze für
 Bekanntmachungen und Aushänge zur Verfügung gestellt. Er kann
@@ -1194,21 +1248,25 @@ Informations- und Kommunikationssysteme nutzen.
 
 
 ##### § 49 Verbot der Beitragserhebung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005000000)
 
 Der Personalrat darf für seine Zwecke von den Beschäftigten keine
 Beiträge erheben oder annehmen.
 
 
 #### Abschnitt 4 - Rechtsstellung der Personalratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000700000)
 
 
 ##### § 50 Ehrenamtlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005100000)
 
 Die Mitglieder des Personalrats führen ihr Amt unentgeltlich als
 Ehrenamt.
 
 
 ##### § 51 Versäumnis von Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005200000)
 
 Die zur ordnungsgemäßen Durchführung der Aufgaben des Personalrats
 erforderliche Versäumnis von Arbeitszeit hat keine Minderung der
@@ -1219,6 +1277,7 @@ Dienstbefreiung in entsprechendem Umfang zu gewähren.
 
 
 ##### § 52 Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005300000)
 
 (1) Mitglieder des Personalrats sind von ihrer dienstlichen Tätigkeit
 freizustellen, wenn und soweit es nach Umfang und Art der Dienststelle
@@ -1284,6 +1343,7 @@ der Aufwandsentschädigung.
 
 
 ##### § 53 Auswahl der freizustellenden Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005400000)
 
 (1) Bei der Auswahl der freizustellenden Mitglieder hat der
 Personalrat zunächst die nach § 34 Absatz 1 gewählten
@@ -1317,6 +1377,7 @@ Anwendung des Absatzes 2 und nach Absatz 3.
 
 
 ##### § 54 Teilnahme an Schulungs- und Bildungsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005500000)
 
 (1) Die Mitglieder des Personalrats sind unter Fortzahlung der
 Dienstbezüge oder des Arbeitsentgelts für die Teilnahme an Schulungs-
@@ -1336,6 +1397,7 @@ Anspruch nach Satz 1 für insgesamt vier Wochen.
 
 
 ##### § 55 Schutz vor Kündigung, Versetzung, Abordnung und Zuweisung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005600000)
 
 (1) Die außerordentliche Kündigung von Mitgliedern des Personalrats,
 die in einem Arbeitsverhältnis stehen, bedarf der Zustimmung des
@@ -1369,6 +1431,7 @@ abgeordnet sind.
 
 
 ##### § 56 Besonderer Schutz der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005700000)
 
 (1) Beabsichtigt der Arbeitgeber, eine Beschäftigte oder einen
 Beschäftigten, die oder der in einem Berufsausbildungsverhältnis nach
@@ -1414,9 +1477,11 @@ Arbeitgeber seiner Mitteilungspflicht nach Absatz 1 nachgekommen ist.
 
 
 ### Kapitel 3 - Personalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000800000)
 
 
 #### § 57 Zusammensetzung, Leitung, Teilversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005800000)
 
 (1) Die Personalversammlung besteht aus den Beschäftigten der
 Dienststelle. Sie wird von der oder dem Vorsitzenden des Personalrats
@@ -1428,6 +1493,7 @@ Teilversammlungen abzuhalten.
 
 
 #### § 58 Nichtöffentlichkeit, Teilnahmerechte
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE005900000)
 
 (1) Die Personalversammlung ist nicht öffentlich. Der Personalrat kann
 die Personalversammlung im Einvernehmen mit der Leiterin oder dem
@@ -1450,6 +1516,7 @@ bleiben unberührt.
 
 
 #### § 59 Ordentliche und außerordentliche Personalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006000000)
 
 (1) Der Personalrat hat einmal in jedem Kalenderhalbjahr in einer
 Personalversammlung einen Tätigkeitsbericht zu erstatten (ordentliche
@@ -1474,6 +1541,7 @@ sind, in denen ein Tätigkeitsbericht erstattet worden ist.
 
 
 #### § 60 Zeitpunkt, Dienstbefreiung, Bezüge, Fahrtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006100000)
 
 (1) Die ordentlichen und die auf Wunsch der Leiterin oder des Leiters
 der Dienststelle einberufenen außerordentlichen Personalversammlungen
@@ -1500,6 +1568,7 @@ Bundesreisekostengesetzes erstattet.
 
 
 #### § 61 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006200000)
 
 (1) Die Personalversammlung darf Angelegenheiten behandeln, die die
 Dienststelle oder ihre Beschäftigten unmittelbar betreffen,
@@ -1516,12 +1585,15 @@ und zu seinen Beschlüssen Stellung nehmen.
 
 
 ### Kapitel 4 - Beteiligung des Personalrats
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG000900000)
 
 
 #### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001000000)
 
 
 ##### § 62 Allgemeine Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006300000)
 
 Der Personalrat hat folgende allgemeine Aufgaben:
 
@@ -1582,6 +1654,7 @@ Der Personalrat hat folgende allgemeine Aufgaben:
 
 
 ##### § 63 Dienstvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006400000)
 
 (1) Dienstvereinbarungen sind in Angelegenheiten des § 78 Absatz 1
 Nummer 12 bis 15, des § 79 Absatz 1 Nummer 4 und 5 sowie des § 80
@@ -1603,6 +1676,7 @@ den Dienstvereinbarungen für einen kleineren Bereich vor.
 
 
 ##### § 64 Durchführung der Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006500000)
 
 (1) Entscheidungen, an denen der Personalrat beteiligt war, führt die
 Dienststelle durch, es sei denn, dass im Einzelfall etwas anderes
@@ -1613,9 +1687,11 @@ Dienstbetrieb eingreifen.
 
 
 #### Abschnitt 2 - Unterrichtungs- und Teilnahmerechte, Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001100000)
 
 
 ##### § 65 Monatsgespräch
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006600000)
 
 Die Leiterin oder der Leiter der Dienststelle und der Personalrat
 sollen mindestens einmal im Monat zu einer Besprechung zusammentreten.
@@ -1628,6 +1704,7 @@ Meinungsverschiedenheiten zu machen.
 
 
 ##### § 66 Informationspflicht der Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006700000)
 
 (1) Der Personalrat ist zur Durchführung seiner Aufgaben rechtzeitig
 und umfassend zu unterrichten. Ihm sind die hierfür erforderlichen
@@ -1642,6 +1719,7 @@ bringen.
 
 
 ##### § 67 Beratende Teilnahme an Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006800000)
 
 An Prüfungen, die eine Dienststelle für Beschäftigte ihres Bereichs
 abnimmt, kann ein Mitglied des für diesen Bereich zuständigen
@@ -1649,6 +1727,7 @@ Personalrats, das von diesem benannt ist, beratend teilnehmen.
 
 
 ##### § 68 Hinzuziehung in Fragen des Arbeitsschutzes und der Unfallverhütung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE006900000)
 
 (1) Der Personalrat hat bei der Bekämpfung von Unfall- und
 Gesundheitsgefahren die für den Arbeitsschutz zuständigen Behörden,
@@ -1685,6 +1764,7 @@ erstattenden Berichts auszuhändigen.
 
 
 ##### § 69 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007000000)
 
 Bei der Verarbeitung personenbezogener Daten hat der Personalrat die
 Vorschriften über den Datenschutz einzuhalten. Soweit der Personalrat
@@ -1697,12 +1777,15 @@ Vorschriften.
 
 
 #### Abschnitt 3 - Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001200000)
 
 
 ##### Unterabschnitt 1 - Verfahren der Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001300000)
 
 
 ###### § 70 Verfahren zwischen Dienststelle und Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007100000)
 
 (1) Soweit eine Maßnahme der Mitbestimmung des Personalrats
 unterliegt, kann sie nur mit seiner Zustimmung getroffen werden.
@@ -1731,6 +1814,7 @@ die Äußerung ist aktenkundig zu machen.
 
 
 ###### § 71 Stufenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007200000)
 
 (1) Kommt eine Einigung nicht zustande, so kann die Leiterin oder der
 Leiter der Dienststelle oder der Personalrat die Angelegenheit binnen
@@ -1755,6 +1839,7 @@ Stufenvertretung vorlegen. Für das weitere Verfahren gilt § 70 Absatz
 
 
 ###### § 72 Anrufung der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007300000)
 
 Ergibt sich zwischen der obersten Dienstbehörde und der bei ihr
 bestehenden zuständigen Personalvertretung keine Einigung, kann jede
@@ -1762,6 +1847,7 @@ Seite die Einigungsstelle anrufen.
 
 
 ###### § 73 Bildung und Zusammensetzung der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007400000)
 
 (1) Die Einigungsstelle wird bei der obersten Dienstbehörde gebildet.
 
@@ -1780,6 +1866,7 @@ Bundesverwaltungsgerichts.
 
 
 ###### § 74 Verfahren der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007500000)
 
 (1) Die Einigungsstelle soll binnen zwei Monaten nach der Erklärung
 eines Beteiligten, die Entscheidung der Einigungsstelle herbeiführen
@@ -1810,6 +1897,7 @@ Video- oder Telefonkonferenz teilnehmen, gelten als anwesend.
 
 
 ###### § 75 Bindung an die Beschlüsse der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007600000)
 
 (1) Der Beschluss der Einigungsstelle bindet die Beteiligten mit
 Ausnahme der in den Absätzen 2 und 3 geregelten Fälle.
@@ -1832,6 +1920,7 @@ endgültig.
 
 
 ###### § 76 Vorläufige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007700000)
 
 Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die
 der Natur der Sache nach keinen Aufschub dulden, bis zur endgültigen
@@ -1842,6 +1931,7 @@ fortzusetzen.
 
 
 ###### § 77 Initiativrecht des Personalrats
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007800000)
 
 (1) Beantragt der Personalrat eine Maßnahme, die nach den §§ 78 bis 80
 seiner Mitbestimmung unterliegt, so hat er sie schriftlich oder
@@ -1868,9 +1958,11 @@ so bestimmt sich das weitere Verfahren
 
 
 ##### Unterabschnitt 2 - Angelegenheiten der Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001400000)
 
 
 ###### § 78 Mitbestimmung in Personalangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE007900000)
 
 (1) Der Personalrat bestimmt mit in Personalangelegenheiten bei
 
@@ -1989,6 +2081,7 @@ verweigern, wenn
 
 
 ###### § 79 Mitbestimmung in sozialen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008000000)
 
 (1) Der Personalrat bestimmt mit in sozialen Angelegenheiten bei
 
@@ -2031,6 +2124,7 @@ nicht erteilt.
 
 
 ###### § 80 Mitbestimmung in organisatorischen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008100000)
 
 (1) Der Personalrat bestimmt mit, soweit eine gesetzliche oder
 tarifliche Regelung nicht besteht, über
@@ -2134,12 +2228,15 @@ Dienstbereitschaft, Mehrarbeit und Überstunden.
 
 
 #### Abschnitt 4 - Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001500000)
 
 
 ##### Unterabschnitt 1 - Verfahren der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001600000)
 
 
 ###### § 81 Verfahren zwischen Dienststelle und Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008200000)
 
 (1) Soweit der Personalrat an Entscheidungen mitwirkt, ist die
 beabsichtigte Maßnahme vor der Durchführung mit dem Ziel einer
@@ -2166,6 +2263,7 @@ mit.
 
 
 ###### § 82 Stufenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008300000)
 
 (1) Der Personalrat einer nachgeordneten Dienststelle kann die
 Angelegenheit binnen drei Arbeitstagen nach Zugang der Mitteilung auf
@@ -2183,6 +2281,7 @@ auszusetzen.
 
 
 ###### § 83 Vorläufige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008400000)
 
 Die Leiterin oder der Leiter der Dienststelle kann bei Maßnahmen, die
 der Natur der Sache nach keinen Aufschub dulden, bis zur endgültigen
@@ -2193,9 +2292,11 @@ fortzusetzen.
 
 
 ##### Unterabschnitt 2 - Angelegenheiten der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001700000)
 
 
 ###### § 84 Angelegenheiten der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008501125)
 
 (1) Der Personalrat wirkt mit bei
 
@@ -2242,6 +2343,7 @@ bezeichneten Gründe stützen.
 
 
 ###### § 85 Ordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008601125)
 
 (1) Der Personalrat wirkt bei der ordentlichen Kündigung durch den
 Arbeitgeber mit. § 78 Absatz 4 gilt entsprechend. Der Personalrat kann
@@ -2309,9 +2411,11 @@ worden ist.
 
 
 #### Abschnitt 5 - Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001800000)
 
 
 ##### § 86 Außerordentliche Kündigung und fristlose Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008700000)
 
 Vor fristlosen Entlassungen und außerordentlichen Kündigungen ist der
 Personalrat anzuhören. Die Leiterin oder der Leiter der Dienststelle
@@ -2323,6 +2427,7 @@ Absatz 3 gilt entsprechend.
 
 
 ##### § 87 Weitere Angelegenheiten der Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008800000)
 
 (1) Vor der Weiterleitung von Personalanforderungen zum
 Haushaltsvoranschlag ist der Personalrat anzuhören. Gibt der
@@ -2339,12 +2444,15 @@ Arbeitsabläufen ist der Personalrat anzuhören.
 
 
 ### Kapitel 5 - Stufenvertretungen und Gesamtpersonalrat
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG001900000)
 
 
 #### Abschnitt 1 - Bildung und Beteiligung der Stufenvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002000000)
 
 
 ##### § 88 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE008900000)
 
 Für den Geschäftsbereich mehrstufiger Verwaltungen werden bei den
 Behörden der Mittelstufe Bezirkspersonalräte, bei den obersten
@@ -2352,6 +2460,7 @@ Dienstbehörden Hauptpersonalräte gebildet.
 
 
 ##### § 89 Wahl und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009000000)
 
 (1) Die Mitglieder des Bezirkspersonalrats werden von den zum
 Geschäftsbereich der Behörde der Mittelstufe gehörenden Beschäftigten
@@ -2383,6 +2492,7 @@ Vertreterinnen oder Vertreter. § 17 Absatz 5 gilt entsprechend.
 
 
 ##### § 90 Amtszeit und Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009100000)
 
 Für die Stufenvertretungen gilt Kapitel 2 Abschnitt 2 und 3 mit
 Ausnahme des § 45 entsprechend. § 36 Absatz 1 gilt mit der Maßgabe,
@@ -2391,12 +2501,14 @@ nach dem Wahltag einzuberufen sind.
 
 
 ##### § 91 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009200000)
 
 Für die Rechtsstellung der Mitglieder der Stufenvertretung gilt
 Kapitel 2 Abschnitt 4 mit Ausnahme des § 52 Absatz 2 entsprechend.
 
 
 ##### § 92 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009300000)
 
 (1) In Angelegenheiten, in denen die Dienststelle nicht zur
 Entscheidung befugt ist, ist an Stelle des Personalrats die bei der
@@ -2423,21 +2535,25 @@ und die von der Entscheidung Betroffenen gehören, zu beteiligen.
 
 
 #### Abschnitt 2 - Bildung und Beteiligung des Gesamtpersonalrats
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002100000)
 
 
 ##### § 93 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009400000)
 
 In den Fällen des § 7 wird neben den einzelnen Personalräten ein
 Gesamtpersonalrat gebildet.
 
 
 ##### § 94 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009500000)
 
 Für den Gesamtpersonalrat gelten § 89 Absatz 1, 2 und 4, § 90 Satz 1
 sowie § 91 entsprechend.
 
 
 ##### § 95 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009600000)
 
 (1) Für die Verteilung der Zuständigkeiten zwischen Personalrat und
 Gesamtpersonalrat gilt § 92 Absatz 1 und 2 entsprechend.
@@ -2447,9 +2563,11 @@ gilt Kapitel 4 entsprechend.
 
 
 ### Kapitel 6 - Arbeitsgemeinschaft der Hauptpersonalräte
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002200000)
 
 
 #### § 96 Zusammensetzung, Amtszeit, Teilnahmerechte
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009700000)
 
 (1) Die Hauptpersonalräte bei den obersten Bundesbehörden bilden die
 Arbeitsgemeinschaft der Hauptpersonalräte. Ist in der obersten
@@ -2485,6 +2603,7 @@ teilzunehmen.
 
 
 #### § 97 Geschäftsführung und Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009800000)
 
 (1) Für die Geschäftsführung der Arbeitsgemeinschaft der
 Hauptpersonalräte und die Rechtsstellung ihrer Mitglieder gelten § 36
@@ -2502,6 +2621,7 @@ angehören.
 
 
 #### § 98 Stellungnahmerecht bei ressortübergreifenden Digitalisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE009900000)
 
 (1) Vor Entscheidungen oberster Bundesbehörden oder Vorlagen an die
 Bundesregierung in Angelegenheiten des § 80 Absatz 1 Nummer 21, die
@@ -2545,9 +2665,11 @@ ihre Tätigkeit.
 
 
 ### Kapitel 7 - Jugend- und Auszubildendenvertretung, Jugend- und Auszubildendenversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002300000)
 
 
 #### § 99 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010000000)
 
 In Dienststellen, bei denen Personalvertretungen gebildet sind und
 denen in der Regel mindestens fünf Beschäftigte angehören, die das 18.
@@ -2557,6 +2679,7 @@ Auszubildendenvertretungen gebildet.
 
 
 #### § 100 Wahlberechtigung und Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010100000)
 
 (1) Wahlberechtigt sind die Beschäftigten, die am Wahltag das 18.
 Lebensjahr noch nicht vollendet haben oder sich in einer beruflichen
@@ -2576,6 +2699,7 @@ Stimme abgeben.
 
 
 #### § 101 Größe und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010200000)
 
 (1) Die Jugend- und Auszubildendenvertretung besteht in Dienststellen
 mit in der Regel
@@ -2620,6 +2744,7 @@ sich in einer beruflichen Ausbildung befinden, vertreten sein.
 
 
 #### § 102 Wahl, Amtszeit und Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010300000)
 
 (1) Spätestens acht Wochen vor Ablauf der Amtszeit der Jugend- und
 Auszubildendenvertretung bestimmt der Personalrat im Einvernehmen mit
@@ -2652,6 +2777,7 @@ stellvertretenden Vorsitzenden.
 
 
 #### § 103 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010400000)
 
 Die Jugend- und Auszubildendenvertretung hat folgende allgemeine
 Aufgaben:
@@ -2680,6 +2806,7 @@ Aufgaben:
 
 
 #### § 104 Zusammenarbeit mit dem Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010500000)
 
 (1) Die Zusammenarbeit der Jugend- und Auszubildendenvertretung mit
 dem Personalrat bestimmt sich nach § 36 Absatz 3, § 37 Absatz 1 und §
@@ -2712,6 +2839,7 @@ Personalratsmitglied teilnehmen.
 
 
 #### § 105 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010600000)
 
 Für die Jugend- und Auszubildendenvertretung gelten § 2 Absatz 5, die
 §§ 45 bis 52 Absatz 1 und § 54 entsprechend. § 55 gilt entsprechend
@@ -2726,6 +2854,7 @@ Auszubildendenvertretung auch diese Beteiligte.
 
 
 #### § 106 Jugend- und Auszubildendenversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010700000)
 
 Die Jugend- und Auszubildendenvertretung hat einmal in jedem
 Kalenderjahr eine Jugend- und Auszubildendenversammlung durchzuführen.
@@ -2742,6 +2871,7 @@ während der Arbeitszeit stattfinden.
 
 
 #### § 107 Stufenvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010800000)
 
 (1) Für den Geschäftsbereich mehrstufiger Verwaltungen werden, soweit
 Stufenvertretungen bestehen, bei den Behörden der Mittelstufen
@@ -2756,9 +2886,11 @@ Auszubildendenvertretungen eine Gesamt-Jugend- und
 
 
 ### Kapitel 8 - Gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002400000)
 
 
 #### § 108 Zuständigkeit der Verwaltungsgerichte, Anwendung des Arbeitsgerichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE010900000)
 
 (1) Die Verwaltungsgerichte, im dritten Rechtszug das
 Bundesverwaltungsgericht, entscheiden in den Fällen der §§ 26, 30, 55
@@ -2790,6 +2922,7 @@ Beschlussverfahren gelten entsprechend.
 
 
 #### § 109 Bildung von Fachkammern und Fachsenaten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011000000)
 
 (1) Für Streitigkeiten nach diesem Teil sind bei den
 Verwaltungsgerichten Fachkammern und bei den Oberverwaltungsgerichten
@@ -2815,18 +2948,22 @@ entsprechend.
 
 
 ### Kapitel 9 - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002500000)
 
 
 #### Abschnitt 1 - Vorschriften für besondere Verwaltungszweige
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002600000)
 
 
 ##### § 110 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011100000)
 
 Für die nachstehenden Zweige des öffentlichen Dienstes gilt dieses
 Gesetz, soweit im Folgenden nichts anderes bestimmt ist.
 
 
 ##### § 111 Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011200000)
 
 (1) Die Beschäftigten der Bundespolizeibehörden und der ihnen
 nachgeordneten Dienststellen wählen Bundespolizeipersonalvertretungen.
@@ -2852,6 +2989,7 @@ statt bei
 
 
 ##### § 112 Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011300000)
 
 (1) Teile und Stellen des Bundesnachrichtendienstes, die nicht zur
 Zentrale des Bundesnachrichtendienstes gehören, gelten als
@@ -2943,6 +3081,7 @@ Soldatenbeteiligungsgesetzes entsprechend.
 
 
 ##### § 113 Bundesamt für Verfassungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011400000)
 
 (1) Die Präsidentin oder der Präsident des Bundesamtes für
 Verfassungsschutz kann nach Anhörung des Personalrats bestimmen, dass
@@ -2962,6 +3101,7 @@ behandeln, soweit nicht die zuständige Stelle etwas anderes bestimmt.
 
 
 ##### § 114 Bundesagentur für Arbeit und andere bundesunmittelbare Körperschaften des öffentlichen Rechts im Bereich der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011500000)
 
 (1) Abweichend von § 4 Absatz 1 Nummer 4 sind bei der Bundesagentur
 für Arbeit und den anderen bundesunmittelbaren Körperschaften des
@@ -2989,6 +3129,7 @@ Dienstbehörde der Vorstand anzurufen.
 
 
 ##### § 115 Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011600000)
 
 (1) Oberste Dienstbehörde ist die Präsidentin oder der Präsident der
 Deutschen Bundesbank. Der Vorstand gilt als oberste Dienstbehörde,
@@ -3001,6 +3142,7 @@ Mitglieder vertreten lassen.
 
 
 ##### § 116 Deutsche Welle
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011700000)
 
 (1) Die Einrichtungen der Deutschen Welle am Sitz Bonn und die
 Einrichtungen der Deutschen Welle am Sitz Berlin bilden je eine
@@ -3072,6 +3214,7 @@ Absatz 3 gilt entsprechend.
 
 
 ##### § 117 Geschäftsbereich des Bundesministeriums der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011800000)
 
 (1) Dieses Gesetz gilt für die bei militärischen Dienststellen und
 Einrichtungen der Bundeswehr beschäftigten Beamtinnen und Beamten
@@ -3116,15 +3259,18 @@ von ihnen keine Anwendung, soweit militärische Gründe entgegenstehen.
 
 
 #### Abschnitt 2 - Dienststellen des Bundes im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002700000)
 
 
 ##### § 118 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE011900000)
 
 Für die Dienststellen des Bundes im Ausland gilt dieses Gesetz, soweit
 im Folgenden nichts anderes bestimmt ist.
 
 
 ##### § 119 Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012000000)
 
 (1) Arbeitstage sind diejenigen Wochentage, die gemäß der für die
 Dienststelle geltenden Arbeitszeitregelung als Arbeitstage vorgesehen
@@ -3143,6 +3289,7 @@ Bezirk die oberste Dienstbehörde ihren Sitz hat.
 
 
 ##### § 120 Vertrauensperson der lokal Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012100000)
 
 (1) In Dienststellen, in denen in der Regel mindestens fünf lokal
 Beschäftigte beschäftigt sind, wählen diese eine Vertrauensperson der
@@ -3217,6 +3364,7 @@ Deutschland entgegenstehen.
 
 
 ##### § 121 Ergänzende Regelungen für die Dienststellen im Geschäftsbereich des Auswärtigen Amts mit Ausnahme der Dienststellen des Deutschen Archäologischen Instituts
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012200000)
 
 (1) Die Leiterin oder der Leiter der Dienststelle kann sich bei
 Verhinderung mit der Zustimmung der Leiterin oder des Leiters der
@@ -3259,6 +3407,7 @@ der Personalrat des Auswärtigen Amts zu beteiligen.
 
 
 ##### § 122 Ergänzende Regelungen für die Dienststellen des Deutschen Archäologischen Instituts
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012300000)
 
 (1) Die Verwaltungsstellen des Deutschen Archäologischen Instituts im
 Ausland sind Dienststellen, sofern es sich nicht lediglich um
@@ -3277,12 +3426,14 @@ Auswärtigen Amts wird hiervon nicht berührt.
 
 
 ##### § 123 Ergänzende Regelungen für die Dienststellen des Bundesnachrichtendienstes
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012400000)
 
 Auf die Dienststellen des Bundesnachrichtendienstes im Ausland findet
 § 119 Absatz 4 keine Anwendung.
 
 
 ##### § 124 Ergänzende Regelungen für die Dienststellen im Geschäftsbereich des Bundesministeriums der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012500000)
 
 § 55 Absatz 2 gilt für Mitglieder von Personalräten im
 Geschäftsbereich des Bundesministeriums der Verteidigung im Ausland
@@ -3291,9 +3442,11 @@ festgelegten Umfang.
 
 
 #### Abschnitt 3 - Behandlung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002800000)
 
 
 ##### § 125 Ausschuss für Verschlusssachen und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012600000)
 
 (1) Soweit eine Angelegenheit, an der eine Personalvertretung zu
 beteiligen ist, als Verschlusssache mindestens des
@@ -3339,14 +3492,17 @@ gesetzlichen Voraussetzungen für die Anordnung glaubhaft zu machen.
 
 
 ## Teil 2 - Für die Länder geltende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG002900000)
 
 
 ### § 126 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012700000)
 
 Dieser Teil gilt für die Personalvertretungen in den Ländern.
 
 
 ### § 127 Besonderer Schutz von Funktionsträgern
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012800000)
 
 (1) Die außerordentliche Kündigung von Mitgliedern der
 Personalvertretungen, der Jugendvertretungen oder der Jugend- und
@@ -3366,6 +3522,7 @@ einer Jugend- und Auszubildendenvertretung sind, ist § 56 anzuwenden.
 
 
 ### § 128 Beteiligung bei Kündigungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE012900000)
 
 Eine durch den Arbeitgeber ausgesprochene Kündigung des
 Arbeitsverhältnisses einer oder eines Beschäftigten ist unwirksam,
@@ -3373,9 +3530,11 @@ wenn die Personalvertretung nicht beteiligt worden ist.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNG003000000)
 
 
 ### § 129 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE013000000)
 
 Die Bundesregierung wird ermächtigt, zur Durchführung der in diesem
 Gesetz bezeichneten Wahlen durch Rechtsverordnung, die nicht der
@@ -3409,6 +3568,7 @@ Zustimmung des Bundesrates bedarf, Vorschriften zu erlassen über
 
 
 ### § 130 Übergangsregelung für bestehende Jugend- und Auszubildendenvertretungen und Personalvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE013100000)
 
 (1) § 102 Absatz 2 Satz 2 findet erstmalig Anwendung auf die
 regelmäßigen Wahlen der Jugend- und Auszubildendenvertretung im Jahr
@@ -3430,5 +3590,6 @@ Juni 2021 bestehende Freistellungen keine Anwendung.
 
 
 ### § 131 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvg_2021/BJNR161410021.html#BJNR161410021BJNE013201000)
 
 

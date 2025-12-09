@@ -30,12 +30,15 @@ Geändert durch
 
 
 ## Teil 1 - Ausbildung und staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000100000)
 
 
 ### Abschnitt 1 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000200000)
 
 
 #### § 1 Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000200000)
 
 (1) In der Ausbildung zur Anästhesietechnischen Assistentin oder zum
 Anästhesietechnischen Assistenten sind der oder dem Auszubildenden zur
@@ -51,6 +54,7 @@ mindestens die in der Anlage 3 genannten Kompetenzen zu vermitteln.
 
 
 #### § 2 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000300000)
 
 (1) Die Ausbildung erfolgt im Wechsel von Abschnitten des
 theoretischen und praktischen Unterrichts und der praktischen
@@ -70,6 +74,7 @@ Rahmenausbildungsplan verbindlich erlassen.
 
 
 #### § 3 Theoretischer und praktischer Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000401130)
 
 (1) Während des theoretischen und praktischen Unterrichts sind die zur
 Ausübung des jeweiligen Berufs erforderlichen fachlichen, personalen
@@ -104,6 +109,7 @@ regeln die Länder.
 
 
 #### § 4 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000500000)
 
 (1) Während der praktischen Ausbildung sind die Kompetenzen zu
 vermitteln, die zur Erreichung des jeweiligen Ausbildungsziels nach
@@ -136,6 +142,7 @@ Assistenten-Gesetzes beginnen.
 
 
 #### § 5 Dauer und Inhalt des Pflegepraktikums
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000600000)
 
 (1) Das Pflegepraktikum in der praktischen Ausbildung nach § 15 des
 Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes
@@ -147,6 +154,7 @@ anästhesiologischen oder operativen Eingriffen.
 
 
 #### § 6 Nachtarbeit
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000700000)
 
 Ab dem zweiten Ausbildungsdrittel hat die oder der Auszubildende in
 der praktischen Ausbildung mindestens 80, höchstens 120 Stunden im
@@ -159,6 +167,7 @@ Vorschriften des Arbeitszeitgesetzes bleiben unberührt.
 
 
 #### § 7 Noten für praktische Einsätze
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000800000)
 
 (1) Jede an der Ausbildung beteiligte Einrichtung hat die Leistung,
 die die oder der Auszubildende im Rahmen des bei ihr durchgeführten
@@ -180,6 +189,7 @@ Einsatzes
 
 
 #### § 8 Jahreszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE000900000)
 
 (1) Für jedes Ausbildungsjahr muss die Schule der oder dem
 Auszubildenden ein Jahreszeugnis ausstellen.
@@ -215,6 +225,7 @@ Ausbildung festzulegen.
 
 
 #### § 9 Qualifikation der Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001001360)
 
 (1) Zur Praxisanleitung geeignet ist eine Person, die
 
@@ -283,6 +294,7 @@ sichergestellt werden.
 
 
 #### § 10 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001100000)
 
 Für die Zeit der praktischen Ausbildung hat die Schule durch ihre
 Lehrkräfte zu gewährleisten, dass eine Praxisbegleitung in den
@@ -295,6 +307,7 @@ im Rahmen der Wahlpflichteinsätze gemäß der Anlagen 2 und 4 erfolgen.
 
 
 #### § 11 Inhalt der Kooperationsverträge
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001200000)
 
 (1) In den Kooperationsverträgen zwischen der Schule und den
 Einrichtungen der praktischen Ausbildung ist die enge Zusammenarbeit
@@ -323,12 +336,15 @@ Unterricht mit der praktischen Ausbildung zu gewährleisten.
 
 
 ### Abschnitt 2 - Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000300000)
 
 
 #### Unterabschnitt 1 - Allgemeines und Organisatorisches
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000400000)
 
 
 ##### § 12 Bestandteile der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001300000)
 
 Die staatliche Prüfung besteht aus
 
@@ -345,6 +361,7 @@ Die staatliche Prüfung besteht aus
 
 
 ##### § 13 Bildung und Zuständigkeit des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001400000)
 
 (1) An jeder Schule, die die Ausbildung durchführt, wird ein
 Prüfungsausschuss gebildet.
@@ -354,6 +371,7 @@ staatlichen Prüfung zuständig.
 
 
 ##### § 14 Zusammensetzung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001500000)
 
 (1) Der Prüfungsausschuss besteht aus den folgenden Mitgliedern:
 
@@ -403,6 +421,7 @@ Ersatzmitglied für den Fall der Verhinderung.
 
 
 ##### § 15 Bestimmung der einzelnen Fachprüferinnen und Fachprüfer für die einzelnen Prüfungsteile der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001600000)
 
 Die oder der Vorsitzende des Prüfungsausschusses bestimmt auf
 Vorschlag der Schulleiterin oder des Schulleiters für jede
@@ -420,6 +439,7 @@ jeweils
 
 
 ##### § 16 Teilnahme der oder des Vorsitzenden des Prüfungsausschusses an Teilen der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001701130)
 
 Die oder der Vorsitzende hat das Recht, an den einzelnen Teilen der
 staatlichen Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht
@@ -427,6 +447,7 @@ zu. Eine Verpflichtung zur Anwesenheit besteht nicht.
 
 
 ##### § 17 Teilnahme von Sachverständigen sowie von Beobachterinnen und Beobachtern an der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001800000)
 
 (1) Die zuständige Behörde kann Sachverständige sowie Beobachterinnen
 und Beobachter zur Teilnahme an einzelnen oder allen Teilen der
@@ -439,6 +460,7 @@ eingewilligt haben.
 
 
 ##### § 18 Zulassung zur staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE001900000)
 
 (1) Auf Antrag der oder des Auszubildenden entscheidet die oder der
 Vorsitzende des Prüfungsausschusses, ob die oder der Auszubildende zur
@@ -505,6 +527,7 @@ oder elektronisch.
 
 
 ##### § 19 Prüfungstermine für die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002000000)
 
 (1) Für die zugelassenen Prüfungskandidatinnen und Prüfungskandidaten
 muss die oder der Vorsitzende des Prüfungsausschusses die
@@ -524,6 +547,7 @@ oder elektronisch.
 
 
 ##### § 20 Prüfungsort der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002100000)
 
 (1) Den schriftlichen und den mündlichen Teil der staatlichen Prüfung
 legt die Prüfungskandidatin oder der Prüfungskandidat in der Schule
@@ -539,6 +563,7 @@ Assistenten-Gesetzes ab.
 
 
 ##### § 21 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002200000)
 
 (1) Einer Prüfungskandidatin oder einem Prüfungskandidaten mit
 Behinderung oder Beeinträchtigung wird bei der Durchführung der
@@ -575,6 +600,7 @@ bekannt.
 
 
 ##### § 22 Rücktritt von der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002300000)
 
 (1) Tritt die Prüfungskandidatin oder der Prüfungskandidat nach ihrer
 oder seiner Zulassung von der Prüfung oder einem Teil der staatlichen
@@ -598,6 +624,7 @@ Rücktritt betroffene Teil der staatlichen Prüfung nicht bestanden.
 
 
 ##### § 23 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002400000)
 
 (1) Versäumt eine Prüfungskandidatin oder ein Prüfungskandidat einen
 Prüfungstermin, gibt sie eine Aufsichtsarbeit nicht oder nicht
@@ -614,6 +641,7 @@ entsprechend.
 
 
 ##### § 24 Störung der staatlichen Prüfung und Täuschungsversuch
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002500000)
 
 (1) Hat eine Prüfungskandidatin oder ein Prüfungskandidat die
 ordnungsgemäße Durchführung der staatlichen Prüfung in erheblichem Maß
@@ -631,6 +659,7 @@ zulässig.
 
 
 ##### § 25 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002600000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung sowie etwa vorkommende
@@ -639,6 +668,7 @@ schriftlicher oder elektronischer Form erfolgen.
 
 
 ##### § 26 Vornoten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002700000)
 
 (1) Vor Beginn der staatlichen Prüfung setzt die oder der Vorsitzende
 des Prüfungsausschusses auf Vorschlag der Schule jeweils eine Vornote
@@ -667,6 +697,7 @@ Werktage vor Beginn der staatlichen Prüfung mitzuteilen.
 
 
 ##### § 27 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002800000)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -737,9 +768,11 @@ benotet:
 
 
 #### Unterabschnitt 2 - Schriftlicher Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000500000)
 
 
 ##### § 28 Inhalt des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE002900000)
 
 (1) Im schriftlichen Teil der staatlichen Prüfung hat die
 Prüfungskandidatin oder der Prüfungskandidat nachzuweisen, dass sie
@@ -809,6 +842,7 @@ Beteiligung von Schulen erarbeitet worden sein.
 
 
 ##### § 29 Durchführung des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003000000)
 
 (1) Die Aufsichtsarbeiten werden unter Aufsicht geschrieben. Die
 Aufsichtsführenden werden von der Schulleitung bestellt.
@@ -818,6 +852,7 @@ aufeinanderfolgenden Werktagen durchzuführen.
 
 
 ##### § 30 Benotung und Note einer Aufsichtsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003101130)
 
 (1) Jede Aufsichtsarbeit wird von zwei Fachprüferinnen und Fachprüfern
 benotet.
@@ -828,6 +863,7 @@ Aufsichtsarbeiten als das arithmetische Mittel.
 
 
 ##### § 31 Bestehen des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003200000)
 
 Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede
 der drei Aufsichtsarbeiten mit mindestens „ausreichend“ benotet worden
@@ -835,6 +871,7 @@ ist.
 
 
 ##### § 32 Wiederholung von Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003301130)
 
 (1) Wer eine Aufsichtsarbeit des schriftlichen Teils der staatlichen
 Prüfung nicht bestanden hat, kann sie einmal wiederholen.
@@ -849,6 +886,7 @@ Behörde in begründeten Fällen zulassen.
 
 
 ##### § 33 Note für den schriftlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003400000)
 
 (1) Für jede Prüfungskandidatin und jeden Prüfungskandidaten, die oder
 der den schriftlichen Teil der staatlichen Prüfung bestanden hat,
@@ -872,9 +910,11 @@ zuzuordnen.
 
 
 #### Unterabschnitt 3 - Mündlicher Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000600000)
 
 
 ##### § 34 Inhalt des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003500000)
 
 (1) Im mündlichen Teil der staatlichen Prüfung hat die
 Prüfungskandidatin oder der Prüfungskandidat nachzuweisen, dass sie
@@ -933,6 +973,7 @@ erstrecken:
 
 
 ##### § 35 Durchführung des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003601130)
 
 (1) Im mündlichen Teil der staatlichen Prüfung sind die
 Prüfungskandidatinnen und Prüfungskandidaten einzeln oder zu zweit zu
@@ -970,6 +1011,7 @@ mündlichen Teil gestatten, wenn
 
 
 ##### § 36 Benotung und Note für die im mündlichen Teil erbrachte Leistung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003701130)
 
 (1) Die im mündlichen Teil der staatlichen Prüfung erbrachte Leistung
 wird von den Fachprüferinnen und Fachprüfern benotet, von denen der
@@ -997,12 +1039,14 @@ zuzuordnen.
 
 
 ##### § 37 Bestehen des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003800000)
 
 Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die
 Prüfungsleistung mindestens mit „ausreichend“ benotet worden ist.
 
 
 ##### § 38 Wiederholung des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE003901130)
 
 (1) Wer den mündlichen Teil der staatlichen Prüfung nicht bestanden
 hat, kann ihn einmal wiederholen.
@@ -1017,9 +1061,11 @@ Behörde in begründeten Fällen zulassen.
 
 
 #### Unterabschnitt 4 - Praktischer Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000700000)
 
 
 ##### § 39 Inhalt des praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004000000)
 
 (1) Im praktischen Teil der staatlichen Prüfung hat die
 Prüfungskandidatin oder der Prüfungskandidat nachzuweisen, dass sie
@@ -1100,6 +1146,7 @@ Durchführung der Aufgabe aus medizinischen Gründen ablehnen.
 
 
 ##### § 40 Durchführung des praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004101130)
 
 (1) Im praktischen Teil der staatlichen Prüfung ist jede
 Prüfungskandidatin und jeder Prüfungskandidat einzeln zu prüfen.
@@ -1124,6 +1171,7 @@ Prüfung als praxisanleitende Person tätig ist.
 
 
 ##### § 41 Bestandteile des praktischen Teils und Dauer
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004200000)
 
 (1) Der praktische Teil der staatlichen Prüfung besteht aus
 
@@ -1155,6 +1203,7 @@ unterbrochen werden.
 
 
 ##### § 42 Benotung und Note für die im praktischen Teil erbrachte Leistung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004301130)
 
 (1) Die im praktischen Teil der staatlichen Prüfung erbrachte Leistung
 wird von den Fachprüferinnen und Fachprüfern benotet, von denen der
@@ -1182,12 +1231,14 @@ zuzuordnen.
 
 
 ##### § 43 Bestehen des praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004400000)
 
 Der praktische Teil der staatlichen Prüfung ist bestanden, wenn die
 Prüfungsleistung mindestens mit „ausreichend“ benotet worden ist.
 
 
 ##### § 44 Wiederholung des praktischen Teils und zusätzlicher Praxiseinsatz
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004501130)
 
 (1) Wer den praktischen Teil der staatlichen Prüfung nicht bestanden
 hat, kann ihn einmal wiederholen.
@@ -1210,9 +1261,11 @@ Behörde in begründeten Fällen zulassen.
 
 
 #### Unterabschnitt 5 - Abschluss des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000800000)
 
 
 ##### § 45 Gesamtnote der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004600000)
 
 (1) Für jede Prüfungskandidatin und jeden Prüfungskandidaten, die oder
 der die drei Teile der staatlichen Prüfung bestanden hat, bildet die
@@ -1229,6 +1282,7 @@ Prüfung.
 
 
 ##### § 46 Bestehen der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004700000)
 
 Die staatliche Prüfung ist bestanden, wenn die Gesamtnote des
 schriftlichen Teils, des mündlichen Teils und des praktischen Teils
@@ -1236,6 +1290,7 @@ der Prüfung jeweils mindestens mit „ausreichend“ benotet worden ist.
 
 
 ##### § 47 Zeugnis über die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004800000)
 
 (1) Wer die staatliche Prüfung bestanden hat, erhält ein Zeugnis nach
 dem Muster der Anlage 6.
@@ -1259,6 +1314,7 @@ dem Muster der Anlage 6.
 
 
 ##### § 48 Mitteilung bei Nichtbestehen der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE004900000)
 
 Wer die staatliche Prüfung nicht bestanden hat, erhält von der
 Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses eine
@@ -1267,6 +1323,7 @@ Teile der staatlichen Prüfung angegeben sind.
 
 
 ##### § 49 Aufbewahrung der Prüfungsunterlagen und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005000000)
 
 (1) Die Aufsichtsarbeiten sind drei Jahre aufzubewahren. Die übrigen
 Prüfungsunterlagen, einschließlich der Niederschrift nach § 25, sind
@@ -1278,9 +1335,11 @@ gewähren.
 
 
 ## Teil 2 - Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG000900000)
 
 
 ### § 50 Ausstellung der Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005100000)
 
 (1) Bei der Erteilung der Erlaubnis, die Berufsbezeichnung
 „Anästhesietechnische Assistentin“ oder „Anästhesietechnischer
@@ -1297,12 +1356,15 @@ Erlaubnisurkunde das Muster nach Anlage 8 zu verwenden.
 
 
 ## Teil 3 - Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001000000)
 
 
 ### Abschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001100000)
 
 
 #### § 51 Frist der Behörde für die Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005200000)
 
 Beantragt eine Person, die ihre Berufsqualifikation außerhalb des
 Geltungsbereichs des Anästhesietechnische- und Operationstechnische-
@@ -1317,6 +1379,7 @@ nachzuweisen.
 
 
 #### § 52 Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005300000)
 
 (1) Personen, die die Erlaubnis zum Führen der Berufsbezeichnung nach
 § 1 Absatz 1 oder § 2 Absatz 1 des Anästhesietechnische- und
@@ -1409,6 +1472,7 @@ sprechen.
 
 
 #### § 53 Frist der Behörde für die Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005400000)
 
 (1) Die zuständige Behörde entscheidet kurzfristig über den Antrag,
 spätestens jedoch drei Monate nach Vorlage der vollständigen
@@ -1419,6 +1483,7 @@ innerhalb von zwei Monaten erfolgen.
 
 
 #### § 54 Bescheide bei Feststellung wesentlicher Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005500000)
 
 (1) Stellt die Behörde hinsichtlich der Gleichwertigkeit der außerhalb
 des Geltungsbereichs des Anästhesietechnische- und
@@ -1480,12 +1545,15 @@ eine einheitliche Bewertungsgrundlage zugrunde zu legen.
 
 
 ### Abschnitt 2 - Anpassungsmaßnahmen nach § 47 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001200000)
 
 
 #### Unterabschnitt 1 - Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001300000)
 
 
 ##### § 55 Zweck der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005600000)
 
 In der Eignungsprüfung hat die Prüfungskandidatin oder der
 Prüfungskandidat nachzuweisen, dass sie oder er über Kenntnisse,
@@ -1495,6 +1563,7 @@ erforderlich sind.
 
 
 ##### § 56 Eignungsprüfung als staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005700000)
 
 (1) Die Eignungsprüfung wird als staatliche Prüfung durchgeführt.
 
@@ -1511,6 +1580,7 @@ gelten für die Eignungsprüfung die §§ 21 bis 25 und 49 entsprechend.
 
 
 ##### § 57 Inhalt der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005800000)
 
 (1) Die Eignungsprüfung ist eine praktische Prüfung, die mit
 Prüfungsgesprächen verbunden ist.
@@ -1549,6 +1619,7 @@ gemäß den festgestellten wesentlichen Unterschieden fest.
 
 
 ##### § 58 Prüfungsort der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE005900000)
 
 (1) Für die einzelnen anästhesiologischen und operativen Situationen
 der Eignungsprüfung legt die zuständige Behörde den jeweiligen
@@ -1560,6 +1631,7 @@ geeignet ist.
 
 
 ##### § 59 Durchführung der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006000000)
 
 (1) Die Eignungsprüfung wird von zwei Personen abgenommen, von denen
 eine Person schulische Fachprüferin oder schulischer Fachprüfer und
@@ -1572,6 +1644,7 @@ der Prüfungskandidatin oder des Prüfungskandidaten beziehen.
 
 
 ##### § 60 Bewertung und Bestehen der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006101130)
 
 (1) Die in der Eignungsprüfung gezeigte Leistung ist von den beiden
 Fachprüferinnen und Fachprüfern zu bewerten, die die Eignungsprüfung
@@ -1597,6 +1670,7 @@ Fachprüfer jede anästhesiologische oder operative Situation mit
 
 
 ##### § 61 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006200000)
 
 (1) Wer eine anästhesiologische oder eine operative Situation der
 Eignungsprüfung nicht bestanden hat, darf sie einmal wiederholen.
@@ -1607,6 +1681,7 @@ Prüfungsausschusses erforderlich.
 
 
 ##### § 62 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006300000)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses hat der Person,
 die die Eignungsprüfung bestanden hat, eine Bescheinigung
@@ -1616,9 +1691,11 @@ auszustellen.
 
 
 #### Unterabschnitt 2 - Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001400000)
 
 
 ##### § 63 Ziel und Inhalt des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006400000)
 
 (1) Ziel des Anpassungslehrgangs ist es, die von der zuständigen
 Behörde festgestellten wesentlichen Unterschiede auszugleichen
@@ -1633,6 +1710,7 @@ können die Länder gemeinsame Empfehlungen abgeben.
 
 
 ##### § 64 Durchführung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006500000)
 
 (1) Im Anpassungslehrgang wird der Beruf der Anästhesietechnischen
 Assistentin oder des Anästhesietechnischen Assistenten oder der
@@ -1669,6 +1747,7 @@ Umfang beteiligt werden.
 
 
 ##### § 65 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006600000)
 
 (1) Der Person, die am Anpassungslehrgang teilgenommen hat, hat die
 Einrichtung, bei der die Person den Anpassungslehrgang absolviert hat,
@@ -1678,12 +1757,15 @@ eine Bescheinigung auszustellen.
 
 
 ### Abschnitt 3 - Anpassungsmaßnahmen nach § 48 des Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001500000)
 
 
 #### Unterabschnitt 1 - Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001600000)
 
 
 ##### § 66 Zweck der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006700000)
 
 Die Kenntnisprüfung dient der Feststellung, dass die
 Prüfungskandidatin oder der Prüfungskandidat über die Kenntnisse,
@@ -1701,6 +1783,7 @@ Fähigkeiten und Kompetenzen verfügt, die erforderlich sind
 
 
 ##### § 67 Kenntnisprüfung als staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006800000)
 
 (1) Die Kenntnisprüfung wird als staatliche Prüfung durchgeführt.
 
@@ -1717,6 +1800,7 @@ gelten für die Kenntnisprüfung die §§ 21 bis 25 und 49 entsprechend.
 
 
 ##### § 68 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE006900000)
 
 Die Kenntnisprüfung besteht aus
 
@@ -1730,6 +1814,7 @@ Die Kenntnisprüfung besteht aus
 
 
 ##### § 69 Inhalt des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007000000)
 
 (1) Der mündliche Teil der Kenntnisprüfung erstreckt sich jeweils auf
 folgende Kompetenzschwerpunkte der Anlage 1 oder 3:
@@ -1765,6 +1850,7 @@ Minuten dauern.
 
 
 ##### § 70 Prüfungsort des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007100000)
 
 (1) Für die einzelnen anästhesiologischen und operativen Situationen
 der Kenntnisprüfung legt die zuständige Behörde den jeweiligen
@@ -1776,6 +1862,7 @@ geeignet ist.
 
 
 ##### § 71 Durchführung des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007200000)
 
 Der mündliche Teil der Kenntnisprüfung wird von zwei Personen
 abgenommen, von denen eine Person als schulische Fachprüferin oder
@@ -1783,6 +1870,7 @@ schulischer Fachprüfer tätig ist.
 
 
 ##### § 72 Bewertung und Bestehen des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007301130)
 
 (1) Die im mündlichen Teil der Kenntnisprüfung gezeigte Leistung ist
 von den beiden Personen zu benoten, von denen der mündliche Teil
@@ -1802,6 +1890,7 @@ ein Fragerecht zu.
 
 
 ##### § 73 Wiederholung des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007400000)
 
 (1) Wer den mündlichen Teil der Kenntnisprüfung nicht bestanden hat,
 darf ihn einmal wiederholen.
@@ -1812,6 +1901,7 @@ Prüfungsausschusses erforderlich.
 
 
 ##### § 74 Inhalt des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007500000)
 
 (1) Der praktische Teil der Kenntnisprüfung besteht
 
@@ -1843,6 +1933,7 @@ eingewilligt haben.
 
 
 ##### § 75 Prüfungsort des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007600000)
 
 (1) Für die einzelnen anästhesiologischen oder operativen Situationen
 des praktischen Teils der Kenntnisprüfung legt die zuständige Behörde
@@ -1854,6 +1945,7 @@ geeignet ist.
 
 
 ##### § 76 Durchführung des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007700000)
 
 (1) Der praktische Teil der Kenntnisprüfung wird von zwei Personen
 abgenommen, von denen eine Person schulische Fachprüferin oder
@@ -1867,6 +1959,7 @@ beziehen.
 
 
 ##### § 77 Bewertung und Bestehen des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007801130)
 
 (1) Die im praktischen Teil der Kenntnisprüfung gezeigte Leistung ist
 von den beiden Fachprüferinnen und Fachprüfern zu bewerten, die den
@@ -1893,6 +1986,7 @@ Situation mit „bestanden“ bewerten.
 
 
 ##### § 78 Wiederholung des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE007900000)
 
 (1) Wer eine anästhesiologische oder eine operative Situation des
 praktischen Teils der Kenntnisprüfung nicht bestanden hat, darf sie
@@ -1904,12 +1998,14 @@ Prüfungsausschusses erforderlich.
 
 
 ##### § 79 Bestehen der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008000000)
 
 Die Kenntnisprüfung hat bestanden, wer den mündlichen und den
 praktischen Teil der Kenntnisprüfung bestanden hat.
 
 
 ##### § 80 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008100000)
 
 (1) Der Person, die die Kenntnisprüfung bestanden hat, hat die Behörde
 eine Bescheinigung auszustellen.
@@ -1918,9 +2014,11 @@ eine Bescheinigung auszustellen.
 
 
 #### Unterabschnitt 2 - Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001700000)
 
 
 ##### § 81 Ziel und Inhalt des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008200000)
 
 (1) Ziel des Anpassungslehrgangs zusammen mit dem Abschlussgespräch
 ist die Feststellung, dass die antragstellende Person über die
@@ -1946,6 +2044,7 @@ können die Länder gemeinsame Empfehlungen abgeben.
 
 
 ##### § 82 Durchführung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008300000)
 
 (1) Im Anpassungslehrgang wird der Beruf der Anästhesietechnischen
 Assistentin oder des Anästhesietechnischen Assistenten oder der
@@ -1984,6 +2083,7 @@ Umfang beteiligt werden.
 
 
 ##### § 83 Durchführung und Inhalt des Abschlussgesprächs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008400000)
 
 (1) Die Prüfung, mit der der Anpassungslehrgang abschließt, ist in
 Form eines Abschlussgesprächs durchzuführen.
@@ -2011,6 +2111,7 @@ vermittelten Kenntnisse, Fähigkeiten und Kompetenzen.
 
 
 ##### § 84 Bewertung und erfolgreiches Absolvieren des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008501130)
 
 (1) Die im Abschlussgespräch gezeigte Leistung ist von den beiden
 Prüferinnen und Prüfern zu bewerten.
@@ -2032,6 +2133,7 @@ Abschlussgespräch mit „bestanden“ bewertet worden ist.
 
 
 ##### § 85 Verlängerung und Wiederholung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008600000)
 
 (1) Hat eine Person den Anpassungslehrgang nicht erfolgreich
 absolviert, entscheidet die Fachprüferin oder der Fachprüfer im
@@ -2047,6 +2149,7 @@ Anpassungslehrgang einmal wiederholen.
 
 
 ##### § 86 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008700000)
 
 (1) Der Person, die am Anpassungslehrgang teilgenommen hat, hat die
 Einrichtung, bei der die Person den Anpassungslehrgang absolviert hat,
@@ -2056,9 +2159,11 @@ eine Bescheinigung auszustellen.
 
 
 ### Abschnitt 4 - Nachweise der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Berufsqualifikationen aus einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001800000)
 
 
 #### § 87 Nachweise der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008800000)
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen
 Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
@@ -2132,6 +2237,7 @@ antragstellende Person sie ersetzen durch Vorlage einer Bescheinigung
 
 
 #### § 88 Nachweise der gesundheitlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE008900000)
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen
 Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
@@ -2152,6 +2258,7 @@ erfüllt ist.
 
 
 #### § 89 Aktualität von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009000000)
 
 Die Nachweise nach den §§ 87 und 88 dürfen von der zuständigen Behörde
 der Beurteilung nur zugrunde gelegt werden, wenn zum Zeitpunkt der
@@ -2160,9 +2267,11 @@ sind, höchstens drei Kalendermonate zurückliegt.
 
 
 ### Abschnitt 5 - Verfahren bei der Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Berufsqualifikationen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG001900000)
 
 
 #### § 90 Verfahren bei der Erbringung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009100000)
 
 (1) Die zuständige Behörde prüft die Berufsqualifikation der meldenden
 Person nach § 56 des Anästhesietechnische- und Operationstechnische-
@@ -2188,12 +2297,15 @@ genannten Fristen aus, darf die Dienstleistung erbracht werden.
 
 
 ## Teil 4 - Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG002000000)
 
 
 ### Abschnitt 1 - Ziel und Verfahren der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG002100000)
 
 
 #### § 91 Ziel der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009200000)
 
 Die Nachprüfung dient der Feststellung, dass die Prüfungskandidatin
 oder der Prüfungskandidat über die Kenntnisse, Fähigkeiten und
@@ -2211,6 +2323,7 @@ Kompetenzen verfügt, die erforderlich sind
 
 
 #### § 92 Zulassung zur Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009300000)
 
 (1) Personen, die nicht auf einer der in § 69 Absatz 1 des
 Anästhesietechnische- und Operationstechnische-Assistenten-Gesetzes
@@ -2238,6 +2351,7 @@ Nachweise vorliegen:
 
 
 #### § 93 Bestandteile der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009400000)
 
 (1) Die Nachprüfung wird als staatliche Prüfung durchgeführt.
 
@@ -2246,15 +2360,18 @@ mündlichen Teil.
 
 
 #### § 94 Durchführung und Inhalt der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009500000)
 
 Soweit in diesem Teil nichts anderes bestimmt ist, gelten die §§ 12
 bis 27 und 49 für die Nachprüfung entsprechend.
 
 
 ### Abschnitt 2 - Praktischer Teil der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG002200000)
 
 
 #### § 95 Praktischer Teil der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009600000)
 
 (1) Im praktischen Teil der Nachprüfung hat die Prüfungskandidatin
 oder der Prüfungskandidat nachzuweisen, dass sie oder er über die
@@ -2320,6 +2437,7 @@ begründen und in einem Reflexionsgespräch zu evaluieren.
 
 
 #### § 96 Durchführung des praktischen Teils der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009701130)
 
 (1) Im praktischen Teil der Nachprüfung ist jede Prüfungskandidatin
 und jeder Prüfungskandidat einzeln zu prüfen.
@@ -2350,6 +2468,7 @@ medizinischen Gründen ablehnen.
 
 
 #### § 97 Bestandteile des praktischen Teils und Dauer der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009800000)
 
 (1) Der praktische Teil der Nachprüfung besteht aus
 
@@ -2376,6 +2495,7 @@ darf maximal 10 Minuten dauern.
 
 
 #### § 98 Bewertung und Bestehen des praktischen Teils der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE009901130)
 
 (1) Die im praktischen Teil der Nachprüfung gezeigte Leistung wird von
 den Fachprüferinnen und Fachprüfern bewertet, die den praktischen Teil
@@ -2399,6 +2519,7 @@ wenn die Fachprüferinnen und Fachprüfer den praktischen Teil mit
 
 
 #### § 99 Wiederholung des praktischen Teils der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010001130)
 
 (1) Wer den praktischen Teil der Nachprüfung nicht bestanden hat, kann
 ihn einmal wiederholen.
@@ -2413,9 +2534,11 @@ Behörde in begründeten Fällen zulassen.
 
 
 ### Abschnitt 3 - Mündlicher Teil der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG002300000)
 
 
 #### § 100 Mündlicher Teil der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010100000)
 
 (1) Im mündlichen Teil der Nachprüfung hat die Prüfungskandidatin oder
 der Prüfungskandidat nachzuweisen, dass sie oder er über die
@@ -2443,6 +2566,7 @@ Kompetenzschwerpunkte der Anlage 1 oder 3:
 
 
 #### § 101 Durchführung des mündlichen Teils der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010201130)
 
 (1) Im mündlichen Teil der staatlichen Prüfung sind die
 Prüfungskandidatinnen und Prüfungskandidaten einzeln oder zu zweit zu
@@ -2457,6 +2581,7 @@ abgenommen.
 
 
 #### § 102 Bewertung und Bestehen des mündlichen Teils der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010301130)
 
 (1) Die im mündlichen Teil der Nachprüfung gezeigte Leistung wird von
 den beiden Fachprüferinnen und Fachprüfern bewertet, die den
@@ -2480,6 +2605,7 @@ wenn die Fachprüferinnen und Fachprüfer den mündlichen Teil mit
 
 
 #### § 103 Wiederholung des mündlichen Teils der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010401130)
 
 (1) Wer den mündlichen Teil der Nachprüfung nicht bestanden hat, kann
 ihn einmal wiederholen.
@@ -2494,15 +2620,18 @@ Behörde in begründeten Fällen zulassen.
 
 
 ### Abschnitt 4 - Abschluss des Nachprüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNG002400000)
 
 
 #### § 104 Bestehen der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010500000)
 
 Die Nachprüfung ist bestanden, wenn der praktische Teil und der
 mündliche Teil mit jeweils „bestanden“ bewertet wurde.
 
 
 #### § 105 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010600000)
 
 (1) Die Behörde hat der Person, die die Nachprüfung bestanden hat,
 eine Bescheinigung auszustellen.
@@ -2512,6 +2641,7 @@ eine Bescheinigung auszustellen.
 (zu § 1 Absatz 1 und § 3 Absatz 1 Satz 2 Nummer 1)
 
 #### Anlage 1 Theoretischer und praktischer Unterricht in der Ausbildung zur Anästhesietechnischen Assistentin oder zum Anästhesietechnischen Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010700000)
 
 (Fundstelle: BGBl. I 2020, 2316 - 2318)
 
@@ -2961,6 +3091,7 @@ Kompetenzschwerpunkte:
 (zu § 4 Absatz 2 Nummer 1)
 
 #### Anlage 2 Praktische Ausbildung zur Anästhesietechnischen Assistentin oder zum Anästhesietechnischen Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010800000)
 
 (Fundstelle: BGBl. I 2020, 2319)
 
@@ -3155,6 +3286,7 @@ Funktionsbereiche:
 (zu § 1 Absatz 2 und § 3 Absatz 1 Satz 2 Nummer 2)
 
 #### Anlage 3 Theoretischer und praktischer Unterricht in der Ausbildung zur Operationstechnischen Assistentin oder zum Operationstechnischen Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE010900000)
 
 (Fundstelle: BGBl. I 2020, 2320 - 2322)
 
@@ -3577,6 +3709,7 @@ Kompetenzschwerpunkte:
 (zu § 4 Absatz 2 Nummer 2)
 
 #### Anlage 4 Praktische Ausbildung zur Operationstechnischen Assistentin oder zum Operationstechnischen Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011000000)
 
 (Fundstelle: BGBl. I 2020, 2323)
 
@@ -3748,6 +3881,7 @@ die Stunden zur freien Verteilung.
 (zu § 18 Absatz 2 Nummer 1 Buchstabe b)
 
 #### Anlage 5 Bescheinigung über die Teilnahme am theoretischen und praktischen Unterricht und an der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011100000)
 
 (Fundstelle: BGBl. I 2020, 2324)
 
@@ -3818,6 +3952,7 @@ Stunden\* – unterbrochen worden.
 [^F813654_02_BJNR229510020BJNE011100000]: 
 
 #### Anlage 6 (zu § 47 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011200000)
 
 (Fundstelle: BGBl. I 2020, 2325)
 
@@ -3940,6 +4075,7 @@ _\__\_\__\_“
 (zu § 50 Absatz 2)
 
 #### Anlage 7 Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011300000)
 
 (Fundstelle: BGBl. I 2020, 2326)
 
@@ -4010,6 +4146,7 @@ _\__\_\__\_“
 (zu § 50 Absatz 3)
 
 #### Anlage 8 Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011400000)
 
 (Fundstelle: BGBl. I 2020, 2327)
 
@@ -4096,6 +4233,7 @@ _\__\_\__\_“
 [^F813654_05_BJNR229510020BJNE011400000]: 
 
 #### Anlage 9 (zu § 62 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011500000)
 
 (Fundstelle: BGBl. I 2020, 2328)
 
@@ -4164,6 +4302,7 @@ _\__\_\__\_“
 [^F813654_06_BJNR229510020BJNE011500000]: 
 
 #### Anlage 10 (zu § 65 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011600000)
 
 (Fundstelle: BGBl. I 2020, 2329)
 
@@ -4228,6 +4367,7 @@ Bescheinigung
 
 
 #### Anlage 11 (zu § 80 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011700000)
 
    (Fundstelle: BGBl. I 2020, 2330)
 
@@ -4296,6 +4436,7 @@ _\__\_\__\_“
 [^F813654_07_BJNR229510020BJNE011700000]: 
 
 #### Anlage 12 (zu § 86 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011800000)
 
 (Fundstelle: BGBl. I 2020, 2331)
 
@@ -4365,6 +4506,7 @@ Bescheinigung
 [^F813654_08_BJNR229510020BJNE011800000]: 
 
 #### Anlage 13 (zu § 105 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ata-ota-aprv/BJNR229510020.html#BJNR229510020BJNE011900000)
 
 (Fundstelle: BGBl. I 2020, 2332)
 

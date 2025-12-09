@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2015-06-23_4/BJNR103800015.html#BJNR103800015BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „150 Jahre
@@ -59,11 +60,13 @@ Der Entwurf stammt von dem Künstler Joachim Dimanski aus Halle.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2015-06-23_4/BJNR103800015.html#BJNR103800015BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2015-06-23_4/BJNR103800015.html#BJNR103800015BJNE000300000)
 
 (Fundstelle: BGBl. I 2015, 1038)
 

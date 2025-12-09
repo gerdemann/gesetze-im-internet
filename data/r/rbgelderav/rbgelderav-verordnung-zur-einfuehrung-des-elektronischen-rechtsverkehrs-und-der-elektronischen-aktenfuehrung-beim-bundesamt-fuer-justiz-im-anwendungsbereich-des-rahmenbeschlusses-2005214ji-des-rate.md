@@ -29,6 +29,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000100000)
 
 Auf Grund des § 77b des Gesetzes über die internationale Rechtshilfe
 in Strafsachen, der durch Artikel 163 der Verordnung vom 31. August
@@ -37,6 +38,7 @@ Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Elektronischer Rechtsverkehr mit dem Bundesamt für Justiz
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000200000)
 
 (1) Beim Bundesamt für Justiz können ab dem 24. Oktober 2017 in
 Verfahren nach den §§ 86 bis 87p des Gesetzes über die internationale
@@ -63,6 +65,7 @@ www.bundesjustizamt.de bekannt.
 
 
 ## § 2 Signaturanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000301125)
 
 (1) Elektronische Dokumente gemäß § 1 Absatz 1 sind mit einer
 qualifizierten elektronischen Signatur zu versehen.
@@ -104,6 +107,7 @@ Dokument auf einem sicheren Übermittlungsweg eingereicht wird. Sichere
 
 
 ## § 3 Formular
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000400000)
 
 Für ausgehende Ersuchen stellt das Bundesamt für Justiz über seine
 Internetseite www.bundesjustizamt.de ein Formular elektronisch zur
@@ -113,6 +117,7 @@ entspricht.
 
 
 ## § 4 Zulassung der elektronischen Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000500000)
 
 Das Bundesamt für Justiz kann ab dem 24. Oktober 2017 die Akten in
 Verfahren nach den §§ 86 bis 87p des Gesetzes über die internationale
@@ -121,6 +126,7 @@ Zwangsvollstreckungsverfahren elektronisch führen.
 
 
 ## § 5 Führung elektronischer Akten
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000600000)
 
 (1) Es ist durch geeignete technisch-organisatorische Maßnahmen nach
 dem Stand der Technik sicherzustellen, dass die Grundsätze
@@ -141,6 +147,7 @@ sein.
 
 
 ## § 6 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000700000)
 
 Das Bundesamt für Justiz dokumentiert die dem Stand der Technik
 entsprechenden technischen und organisatorischen Maßnahmen, die es zur
@@ -151,6 +158,7 @@ genannten Anforderungen, getroffen hat.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rbgelderav/BJNR358200017.html#BJNR358200017BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

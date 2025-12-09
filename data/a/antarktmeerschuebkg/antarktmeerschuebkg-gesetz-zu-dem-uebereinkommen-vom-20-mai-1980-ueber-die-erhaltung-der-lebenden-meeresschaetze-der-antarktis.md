@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/antarktmeersch_bkg/BJNR204200982.html#BJNR204200982BJNE000100328)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/antarktmeersch_bkg/BJNR204200982.html#BJNR204200982BJNE000200328)
 
 Dem in Canberra am 11. September 1980 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen vom 20. Mai 1980 über die
@@ -33,6 +35,7 @@ Erhaltung der lebenden Meeresschätze der Antarktis wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/antarktmeersch_bkg/BJNR204200982.html#BJNR204200982BJNE000303377)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
@@ -52,12 +55,14 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/antarktmeersch_bkg/BJNR204200982.html#BJNR204200982BJNE000401308)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig, die
 in Artikel 2 genannten Maßnahmen durchzuführen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/antarktmeersch_bkg/BJNR204200982.html#BJNR204200982BJNE000601308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

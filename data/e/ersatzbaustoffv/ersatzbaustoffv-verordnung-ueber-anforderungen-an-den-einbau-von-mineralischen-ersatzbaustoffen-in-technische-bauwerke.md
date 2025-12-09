@@ -21,9 +21,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000201130)
 
 (1) Die Vorschriften dieser Verordnung regeln im Hinblick auf
 mineralische Ersatzbaustoffe im Sinne des § 2 Nummer 1 die
@@ -140,6 +142,7 @@ mineralische Ersatzbaustoffe im Sinne des § 2 Nummer 1 die
 [^F817098_02_BJNR259810021BJNE000201130]: 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000301130)
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -495,9 +498,11 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 [^f826880_02_BJNR259810021BJNE000301130]: 
 
 ## Abschnitt 2 - Annahme von mineralischen Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000200000)
 
 
 ### § 3 Annahmekontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000401130)
 
 (1) Der Betreiber einer Aufbereitungsanlage, in der Recycling-
 Baustoffe hergestellt werden, hat bei der Anlieferung von
@@ -576,12 +581,15 @@ entgegenstehen, gilt Satz 1 entsprechend.
 
 
 ## Abschnitt 3 - Herstellen von mineralischen Ersatzbaustoffen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000300000)
 
 
 ### Unterabschnitt 1 - Güteüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000400000)
 
 
 #### § 4 Allgemeine Anforderungen an die Güteüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000501130)
 
 (1) Der Betreiber einer Aufbereitungsanlage, in der mineralische
 Ersatzbaustoffe hergestellt werden, hat eine Güteüberwachung
@@ -623,6 +631,7 @@ unberührt.
 
 
 #### § 5 Eignungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000601130)
 
 (1) Der Betreiber der Aufbereitungsanlage hat einen Eignungsnachweis
 zu erbringen oder einen vorhandenen Eignungsnachweis nach Maßgabe der
@@ -724,6 +733,7 @@ unverzüglich Folgendes zu übermitteln:
 
 
 #### § 6 Werkseigene Produktionskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000701130)
 
 (1) Sofern diese Verordnung keine Regelungen enthält, richten sich
 Umfang und Durchführung der werkseigenen Produktionskontrolle nach den
@@ -772,6 +782,7 @@ entfällt die werkseigene Produktionskontrolle.
 
 
 #### § 7 Fremdüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000801130)
 
 (1) Der Betreiber der Aufbereitungsanlage hat die für die jeweiligen
 mineralischen Ersatzbaustoffe geltenden Materialwerte der Anlage 1
@@ -839,6 +850,7 @@ Fremdüberwachung.
 
 
 #### § 8 Probenahme und Probenaufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE000900000)
 
 [^F817098_04_BJNR259810021BJNE000900000]
 (1) Die Probenahme für die Erstprüfung im Rahmen des
@@ -918,6 +930,7 @@ mit einem Wasser/Feststoff-Verhältnis von 2 l/kg“, Ausgabe Dezember
 [^F817098_04_BJNR259810021BJNE000900000]: 
 
 #### § 9 Analytik der Proben
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001000000)
 
 (1) Nach der Probenahme und Probenaufbereitung ist zur Überwachung
 solcher Materialwerte der Anlage 1, die als Eluatkonzentrationswert
@@ -973,6 +986,7 @@ Feststoffgehalte und der Eluatkonzentrationen richtet sich nach Anlage
 
 
 #### § 10 Bewertung der Untersuchungsergebnisse der Güteüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001101130)
 
 (1) Der Betreiber der Aufbereitungsanlage hat die
 Untersuchungsergebnisse der Güteüberwachung unverzüglich zu bewerten.
@@ -1027,6 +1041,7 @@ jeweiligen Materialklasse nach Anlage 1 Tabelle 1 eingehalten werden.
 
 
 #### § 11 Klassifizierung mineralischer Ersatzbaustoffe
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001201130)
 
 Der Betreiber der Aufbereitungsanlage hat den mineralischen
 Ersatzbaustoff in eine Materialklasse einzuteilen, sofern in Anlage 1
@@ -1036,6 +1051,7 @@ Untersuchungsergebnisse nach § 10 Absatz 1 zu erfolgen.
 
 
 #### § 12 Dokumentation der Güteüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001301130)
 
 (1) Der Betreiber der Aufbereitungsanlage hat die Prüfzeugnisse aus
 der Güteüberwachung nach § 4 Absatz 1 Satz 1, die Probenahmeprotokolle
@@ -1056,6 +1072,7 @@ Absatz 1 sind auf Verlangen der zuständigen Behörde vorzulegen.
 
 
 #### § 13 Maßnahmen bei in der Güteüberwachung festgestellten Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001401130)
 
 (1) Stellt die Überwachungsstelle im Rahmen der Fremdüberwachung fest,
 dass die Materialwerte nicht eingehalten werden, wiederholt die
@@ -1113,9 +1130,11 @@ ihrer Internetseite bekannt.
 
 
 ### Unterabschnitt 2 - Güteüberwachungsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000900130)
 
 
 #### § 13a Anerkennung von Güteüberwachungsgemeinschaften, Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003700130)
 
 (1) Der Betrieb einer Güteüberwachungsgemeinschaft für mineralische
 Ersatzbaustoffe bedarf einer Anerkennung durch die zuständige Behörde
@@ -1168,6 +1187,7 @@ Ersatzbaustoffe kann widerrufen werden, wenn
 
 
 #### § 13b Tätigkeit der Güteüberwachungsgemeinschaft, Organisation und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003800130)
 
 (1) Die Güteüberwachungsgemeinschaft für mineralische Ersatzbaustoffe
 gibt sich eine Satzung oder sonstige Regelung. Die Satzung oder
@@ -1276,9 +1296,11 @@ erfolgt im Wege der Amtshilfe.
 
 
 ### Unterabschnitt 3 - Untersuchung von nicht aufbereitetem Bodenmaterial und nicht aufbereitetem Baggergut
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000501130)
 
 
 #### § 14 Untersuchungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001501130)
 
 (1) Erzeuger und Besitzer haben nicht aufbereitetes Bodenmaterial und
 nicht aufbereitetes Baggergut, das in ein technisches Bauwerk
@@ -1312,6 +1334,7 @@ abgesehen werden.
 
 
 #### § 15 Bewertung der Untersuchungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001600000)
 
 Die Materialwerte nach Anlage 1 Tabelle 3 und 4 mit Ausnahme der
 Materialwerte „pH-Wert“ und „elektrische Leitfähigkeit“ gelten als
@@ -1322,6 +1345,7 @@ sind entsprechend anzuwenden.
 
 
 #### § 16 Klassifizierung von Bodenmaterial und Baggergut
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001701130)
 
 (1) Erzeuger oder Besitzer haben nicht aufbereitetes Bodenmaterial und
 nicht aufbereitetes Baggergut in eine der in Anlage 1 Tabelle 3
@@ -1340,6 +1364,7 @@ und das Baggergut als BG-0 zu klassifizieren.
 
 
 #### § 17 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001801130)
 
 (1) Erzeuger oder Besitzer, die die Untersuchung nach § 14 Absatz 1
 Satz 1 durchgeführt haben lassen, haben das Probenahmeprotokoll, die
@@ -1357,6 +1382,7 @@ vorzulegen.
 
 
 #### § 18 Zwischenlager
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE001900000)
 
 (1) Wenn nicht aufbereitetes Bodenmaterial oder nicht aufbereitetes
 Baggergut in ein Zwischenlager befördert wird, entfallen die Pflichten
@@ -1379,9 +1405,11 @@ Baggerguts darf 3 000 Kubikmeter nicht überschreiten.
 
 
 ## Abschnitt 4 - Einbau von mineralischen Ersatzbaustoffen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000600000)
 
 
 ### § 19 Grundsätzliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002001130)
 
 (1) Der Bauherr oder der Verwender dürfen mineralische Ersatzbaustoffe
 oder Gemische in technische Bauwerke nur einbauen, wenn nachteilige
@@ -1532,6 +1560,7 @@ auch dem Betreiber, der das Bauwerk zu wirtschaftlichen Zwecken nutzt,
 
 
 ### § 20 Zusätzliche Einbaubeschränkungen bei bestimmten Schlacken und Aschen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002100000)
 
 (1) Die nachstehend genannten mineralischen Ersatzbaustoffe dürfen in
 technischen Bauwerken nur in Mindesteinbaumengen verwendet werden.
@@ -1595,6 +1624,7 @@ verwendet wurde.
 
 
 ### § 21 Behördliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002200000)
 
 (1) Werden die Anforderungen nach den §§ 19 und 20 eingehalten,
 bedürfen Einbaumaßnahmen keiner Erlaubnis nach § 8 Absatz 1 des
@@ -1652,6 +1682,7 @@ zugrunde gelegt oder allgemein festgelegt werden.
 
 
 ### § 22 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002300000)
 
 (1) Der Einbau der in § 20 Absatz 1 genannten mineralischen
 Ersatzbaustoffe oder ihrer Gemische ist der zuständigen Behörde vom
@@ -1757,6 +1788,7 @@ mitzuteilen.
 
 
 ### § 23 Ersatzbaustoffkataster
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002400000)
 
 Die Verwendung anzeigepflichtiger mineralischer Ersatzbaustoffe wird
 von der zuständigen Behörde in einem Kataster dokumentiert. In das
@@ -1765,9 +1797,11 @@ aufzunehmen.
 
 
 ## Abschnitt 5 - Getrennte Sammlung von mineralischen Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000700000)
 
 
 ### § 24 Getrennte Sammlung und Verwertung von mineralischen Abfällen aus technischen Bauwerken
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002500000)
 
 (1) Erzeuger und Besitzer haben die in § 2 Nummer 18 bis 33
 bezeichneten mineralischen Stoffe und Gemische im Sinne des § 2 Nummer
@@ -1836,9 +1870,11 @@ nicht überschreitet.
 
 
 ## Abschnitt 6 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNG000800000)
 
 
 ### § 25 Lieferschein und Deckblatt
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002601130)
 
 (1) Der Verbleib eines mineralischen Ersatzbaustoffs oder eines
 Gemisches ist vom erstmaligen Inverkehrbringen bis zum Einbau in ein
@@ -1950,6 +1986,7 @@ sind der zuständigen Behörde auf deren Verlangen vorzulegen.
 
 
 ### § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002701130)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2021,6 +2058,7 @@ mineralischen Ersatzbaustoff einbaut oder verwendet.
 
 
 ### § 27 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002800000)
 
 (1) Betreiber von Aufbereitungsanlagen, die am 1. August 2023 in
 Betrieb sind, haben bis zum 1. Dezember 2023 einen Eignungsnachweis
@@ -2061,6 +2099,7 @@ Absatz 2 und 3,
 § 14 Absatz 1, § 15, § 16 Absatz 1 sowie § 21 Absatz 3, 4 und 5)
 
 ### Anlage 1 Abkürzungsverzeichnis und Materialwerte für die in den Anlagen bezeichneten mineralischen Ersatzbaustoffe
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE002901130)
 
 (Fundstelle: BGBl. I 2021, 2613 - 2619;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4071,6 +4110,7 @@ anzuwenden).
 § 25 Absatz 1 Nummer 5 und Absatz 3 Nummer 5 bis 8)
 
 ### Anlage 2 Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen in technischen Bauwerken
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003001130)
 
 (Fundstelle: BGBl. I 2021, 2620 - 2675;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -17245,6 +17285,7 @@ F3 (BG-3)**
 § 25 Absatz 1 Nummer 5 und Absatz 3 Nummer 5 bis 8)
 
 ### Anlage 3 Einsatzmöglichkeiten von mineralischen Ersatzbaustoffen in spezifischen Bahnbauweisen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003100000)
 
 (Fundstelle: BGBl. I 2021, 2676 - 2703)
 
@@ -26376,6 +26417,7 @@ F3 (BG-F3)**
 § 5 Absatz 2 und 4, § 6 Absatz 2 und 3 sowie § 7 Absatz 1, 2 und 5)
 
 ### Anlage 4 Art und Turnus der Untersuchungen von mineralischen Ersatzbaustoffen im Rahmen der Güteüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003201130)
 
 (Fundstelle: BGBl. I 2021, 2704 - 2706;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -27326,6 +27368,7 @@ Ausgabe Januar 2009**
 (zu § 9 Absatz 5)
 
 ### Anlage 5 Bestimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003301130)
 
 (Fundstelle: BGBl. I 2021, 2707 - 2711;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -27957,6 +28000,7 @@ Verfahren, Auswertung“, Ausgabe November 2008.
 (zu § 10 Absatz 3 Satz 3)
 
 ### Anlage 6 Zulässige Überschreitungen
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003400000)
 
 (Fundstelle: BGBl. I 2021, 2712)
 
@@ -28170,6 +28214,7 @@ Verfahren, Auswertung“, Ausgabe November 2008.
 (zu § 25 Absatz 1 Satz 2)
 
 ### Anlage 7 Muster Lieferschein
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003500000)
 
 (Fundstelle: BGBl. I 2021, 2713)
 
@@ -28275,6 +28320,7 @@ Verfahren, Auswertung“, Ausgabe November 2008.
 3)
 
 ### Anlage 8 Muster Deckblatt/Voranzeige/Abschlussanzeige
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffv/BJNR259810021.html#BJNR259810021BJNE003601130)
 
 (Fundstelle: BGBl. I 2021, 2714 - 2715;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

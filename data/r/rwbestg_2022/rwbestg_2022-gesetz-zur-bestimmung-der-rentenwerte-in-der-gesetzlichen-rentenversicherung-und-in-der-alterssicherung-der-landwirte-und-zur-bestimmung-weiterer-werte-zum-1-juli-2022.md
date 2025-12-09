@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Aktueller Rentenwert und aktueller Rentenwert (Ost) in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestg_2022/BJNR097800022.html#BJNR097800022BJNE000100000)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2022 36,02 Euro.
 
@@ -27,17 +28,20 @@ Euro.
 
 
 ## § 2 Ausgleichsbedarf in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestg_2022/BJNR097800022.html#BJNR097800022BJNE000200000)
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2022 1,0000.
 
 
 ## § 3 Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestg_2022/BJNR097800022.html#BJNR097800022BJNE000300000)
 
 Das Sicherungsniveau vor Steuern beträgt für das Jahr 2022 48,14
 Prozent.
 
 
 ## § 4 Allgemeiner Rentenwert und allgemeiner Rentenwert (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestg_2022/BJNR097800022.html#BJNR097800022BJNE000400000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt ab dem 1. Juli 2022 16,63 Euro.
@@ -47,6 +51,7 @@ Landwirte beträgt ab dem 1. Juli 2022 16,37 Euro.
 
 
 ## § 5 Anpassungsfaktor in der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rwbestg_2022/BJNR097800022.html#BJNR097800022BJNE000500000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2022 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -61,6 +66,7 @@ angepasst. Der Anpassungsfaktor beträgt 1,0612.
 
 
 ## § 6 Pflegegeld der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rwbestg_2022/BJNR097800022.html#BJNR097800022BJNE000600000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2022 an

@@ -38,6 +38,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000102118)
 
 Diese Verordnung dient der Regelung der amtlichen Überwachung des
 Herstellens, Behandelns und des Inverkehrbringens von Lebensmitteln
@@ -48,6 +49,7 @@ tierischen Ursprungs.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000202119)
 
 (1) Im Sinne dieser Verordnung sind:
 
@@ -138,6 +140,7 @@ entsprechend.
 
 
 ## § 2a Anforderungen an amtliche Tierärztinnen und Tierärzte für Kontrollaufgaben nach Artikel 13 Absatz 1 Satz 2 Buchstabe a der Delegierten Verordnung (EU) 2019/624
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE001600119)
 
 Die zuständige Behörde darf abweichend von Artikel 13 Absatz 1 Satz 1
 der Delegierten Verordnung (EU) 2019/624 Personen, die nach § 2 der
@@ -149,6 +152,7 @@ bezeichneten Überwachungsaufgaben ernennen.
 
 
 ## § 3 Amtliche Fachassistenten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000302119)
 
 (1) Die zuständige Behörde darf nur Personen zu amtlichen
 Fachassistenten bestellen, die
@@ -210,6 +214,7 @@ Vorschriften zu erlassen
 
 
 ## § 4 Personal von Schlachtbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000402119)
 
 Für Personal von Schlachtbetrieben im Sinne von Artikel 18 Absatz 3
 der Verordnung (EU) 2017/625 in Verbindung mit Artikel 14 der
@@ -219,6 +224,7 @@ Fachassistenten entsprechend.
 
 
 ## § 5 Fleischhygienerechtliche Maßnahmen im Rahmen von Zoonosen- und Seuchentilgungsprogrammen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000502119)
 
 (1) Die zuständige Behörde kann eine Schlachtung im Rahmen von
 Programmen zur Tilgung oder Bekämpfung von Tierseuchen oder von
@@ -253,6 +259,7 @@ Tierseuchen oder Zoonosen verunreinigt worden sein könnten.
 
 
 ## § 6 Fleischuntersuchung und Untersuchung auf Trichinen vor Abgabe kleiner Mengen erlegten Wildes
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000605119)
 
 (1) Bei kleinen Mengen erlegten Wildes, das nach § 4 Absatz 2 Satz 1
 Nummer 1 oder 2, auch in Verbindung mit Absatz 3, der Tierische
@@ -317,6 +324,7 @@ Eine Übertragung nach Satz 1 darf nur erfolgen, wenn
 
 
 ## § 7 Schlachttieruntersuchung bei der Abgabe kleiner Mengen Fleisch von Geflügel oder Hasentieren
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000701118)
 
 Die zuständige Behörde hat in landwirtschaftlichen Betrieben, in denen
 kleine Mengen von frischem Fleisch von Geflügel oder Hasentieren nach
@@ -329,6 +337,7 @@ Hygieneverordnung.
 
 
 ## § 7a Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE001304128)
 
 (1) Bei Tieren, die nach § 2a Absatz 1 der Tierische Lebensmittel-
 Hygieneverordnung zur amtlichen Untersuchung angemeldet worden sind,
@@ -368,6 +377,7 @@ entsprechend.
 
 
 ## § 7b Tierartspezifische Kriterien für und Anforderungen an die Durchführung der Schlachttieruntersuchung im Herkunftsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE001502119)
 
 (1) Auf Antrag des für die Farmwildhaltung verantwortlichen
 Lebensmittelunternehmers kann die zuständige Behörde nach Artikel 6
@@ -383,6 +393,7 @@ Verordnung (EG) Nr. 853/2004 verfügt.
 
 
 ## § 8 Kennzeichnung der Genusstauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000806128)
 
 (1) Kleine Mengen erlegten Großwildes, bei dem keine
 Fleischuntersuchung nach § 6 Absatz 1 Satz 1 Nummer 1 durchgeführt,
@@ -416,10 +427,12 @@ der in den Absätzen 1 bis 2 geregelten Weise zu kennzeichnen.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE000902119)
 
 
 
 ## § 10 Rückstandsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE001002119)
 
 (1) Die zuständige Behörde hat im Rahmen der Durchführung von
 Laboruntersuchungen nach Artikel 37 Absatz 1 Buchstabe c der
@@ -522,6 +535,7 @@ haben, dass festgesetzte Höchstmengen nicht überschritten werden.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE001401118)
 
 Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz
 1 Satz 2 und 3 des Fleischhygienegesetzes in der Fassung der
@@ -531,6 +545,7 @@ zum 6. September 2005 geltenden Fassung weiter anzuwenden.
 (zu § 8)
 
 ## Anlage 1 Stempel zur Kennzeichnung der Genusstauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/tier-lm_v/BJNR186400007.html#BJNR186400007BJNE001104119)
 
 (Fundstelle: BGBl. I 2018, 1364)
 

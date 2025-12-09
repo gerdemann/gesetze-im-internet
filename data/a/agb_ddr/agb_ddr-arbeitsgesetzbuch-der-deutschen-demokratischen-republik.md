@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE003300307)
 
 
 *    *   Präambel
@@ -150,39 +151,48 @@ Geändert durch
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE003400307)
 
 -
 
 
 ## 1. und 2. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000100307)
 
 
 
 ### (XXXX) §§ 1 bis 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE003500307)
 
 
 
 ## 3. Kapitel - Abschluß, Änderung und Auflösung des Arbeitsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000200307)
 
 
 
 ### (XXXX) §§ 38 bis 50 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE003600307)
 
 
 
 ### - - Aufhebungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000300307)
 
 
 
 #### (XXXX) §§ 51 bis 57 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE003701308)
 
 
 
 ### - - Besonderer Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000400307)
 
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE004000307)
 
 (1) Der Arbeitgeber darf
 
@@ -207,6 +217,7 @@ anderen Behörde diese Zuständigkeit wahr.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE004100307)
 
 (1)
 
@@ -221,69 +232,87 @@ unterrichten.
 
 
 #### (XXXX) §§ 59a bis 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE004200307)
 
 
 ### - - Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000600307)
 
 
 
 #### (XXXX) §§ 62 bis 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE004800307)
 
 
 
 ### - - Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000800307)
 
 
 
 #### (XXXX) §§ 67 bis 70b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE005200307)
 
 
 ## 4. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG000900307)
 
 
 
 ### (XXXX) §§ 71 bis 94a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE005300307)
 
 
 ## 5. Kapitel - Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001000307)
 
 
 
 ### (XXXX) §§ 95 bis 115 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE005400307)
 
 
 
 ### - - Fortzahlung des Arbeitsentgelts im Krankheitsfalle
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001100307)
 
 
 
 #### (XXXX) §§ 115a bis 115e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE005501308)
 
 
 #### (XXXX) §§ 115f bis 128a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE006100307)
 
 
 ## 6. und 7. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001200307)
 
 
 
 ### (XXXX) §§ 129 bis 159 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE006200307)
 
 
 
 ## 8. Kapitel - Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001300307)
 
 
 
 ### (XXXX) §§ 160 bis 167 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE006300307)
 
 
 
 ### - - Sonntags- und Feiertagsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001400307)
 
 
 
 #### § 168
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE006500307)
 
 (1)
 
@@ -298,56 +327,70 @@ weitere in Rechtsvorschriften sowie regional festgelegte Feiertage.
 
 
 #### (XXXX) §§ 169 bis 180 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE006600307)
 
 
 
 ### - - Freistellung von der Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001600307)
 
 
 
 #### (XXXX) §§ 181 bis 188a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE007200307)
 
 
 ## 9. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001700307)
 
 
 
 ### (XXXX) §§ 189 bis 200a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE007300307)
 
 
 ## 10. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG001900307)
 
 
 
 ### (XXXX) §§ 201 bis 222 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE007900307)
 
 
 
 ## 11. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG002100307)
 
 
 
 ### (XXXX) §§ 223 bis 239 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008000307)
 
 
 
 ## 12. Kapitel - Besondere Rechte der werktätigen Frau und Mutter
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG002200307)
 
 
 
 ### (XXXX) §§ 240 und 241 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008100307)
 
 
 
 ### - - Besonderer Schutz der werktätigen Frau im Interesse der Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG002300307)
 
 
 
 #### (XXXX) §§ 242 und 243 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008400307)
 
 
 
 #### § 244
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008500307)
 
 (1) Frauen erhalten Schwangerschaftsurlaub für die Dauer von 6 Wochen
 vor der Entbindung und Wochenurlaub für die Dauer von 20 Wochen nach
@@ -374,6 +417,7 @@ Nettodurchschnittsverdienstes von der Sozialversicherung.
 
 
 #### § 245
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008600307)
 
 (1) Frauen ist auf Verlangen der jährliche Erholungsurlaub vor dem
 Schwangerschaftsurlaub oder unmittelbar im Anschluß an den
@@ -383,52 +427,64 @@ Wochenurlaub zu gewähren.
 
 
 ### - - Freistellung nach dem Wochenurlaub
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG002400307)
 
 
 
 #### § 246
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008800307)
 
 -
 
 
 #### § 247
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE008900307)
 
 -
 
 
 #### (XXXX) §§ 248 und 249 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE009200307)
 
 
 
 #### (XXXX) §§ 250 und 251 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE009300307)
 
 
 
 ## 13. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG002600307)
 
 
 
 ### (XXXX) §§ 252 bis 266 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE010300307)
 
 
 
 ## 14. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG002800307)
 
 
 
 ### (XXXX) §§ 267 bis 273 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE010900307)
 
 
 
 ## 15. bis 17. Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNG003000307)
 
 
 
 ### (XXXX) §§ 274 bis 305 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE011000307)
 
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE011100307)
 
 **Der Vorsitzende des Staatsrates der Deutschen Demokratischen
 Republik**
@@ -436,6 +492,7 @@ Republik**
 Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X
 
 ### Anhang EV (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
+[Direktlink](https://www.gesetze-im-internet.de/agb_ddr/DDNR001850977.html#DDNR001850977BJNE888800301)
 
 - Kapitel VIII Sachgebiet A Abschnitt II (BGBl. II 1990, 1207) -
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

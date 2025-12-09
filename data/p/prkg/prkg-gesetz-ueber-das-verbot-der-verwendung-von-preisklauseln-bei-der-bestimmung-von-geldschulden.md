@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Preisklauselverbot
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000100000)
 
 (1) Der Betrag von Geldschulden darf nicht unmittelbar und selbsttätig
 durch den Preis oder Wert von anderen Gütern oder Leistungen bestimmt
@@ -59,6 +60,7 @@ Bedingungen für die Versorgung mit Fernwärme bleiben unberührt.
 
 
 ## § 2 Ausnahmen vom Verbot
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000201377)
 
 (1) Von dem Verbot nach § 1 Abs. 1 ausgenommen sind die in den §§ 3
 bis 7 genannten zulässigen Preisklauseln. Satz 1 gilt im Fall
@@ -98,6 +100,7 @@ welche Preise oder Werte bestimmend sein sollen.
 
 
 ## § 3 Langfristige Verträge
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000301377)
 
 (1) Preisklauseln in Verträgen
 
@@ -181,6 +184,7 @@ auf die land- oder forstwirtschaftliche Nutzung beschränkt ist.
 
 
 ## § 4 Erbbaurechtsverträge
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000400000)
 
 Zulässig sind Preisklauseln in Erbbaurechtsbestellungsverträgen und
 Erbbauzinsreallasten mit einer Laufzeit von mindestens 30 Jahren. § 9a
@@ -190,6 +194,7 @@ Erholungsnutzungsrechtsgesetzes bleiben unberührt.
 
 
 ## § 5 Geld- und Kapitalverkehr
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000500000)
 
 Zulässig sind Preisklauseln im Geld- und Kapitalverkehr,
 einschließlich der Finanzinstrumente im Sinne des § 1 Abs. 11 des
@@ -198,12 +203,14 @@ Darlehensgeschäfte.
 
 
 ## § 6 Verträge mit Gebietsfremden
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000600000)
 
 Zulässig sind Preisklauseln in Verträgen von gebietsansässigen
 Unternehmern (§ 14 des Bürgerlichen Gesetzbuches) mit Gebietsfremden.
 
 
 ## § 7 Verträge zur Deckung des Bedarfs der Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000700000)
 
 Zulässig sind Preisklauseln bei Verträgen, die der Deckung des Bedarfs
 der Streitkräfte dienen, wenn der geschuldete Betrag durch die
@@ -213,6 +220,7 @@ ermittelten Preisindex bestimmt wird.
 
 
 ## § 8 Unwirksamkeit der Preisklausel
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000800000)
 
 Die Unwirksamkeit der Preisklausel tritt zum Zeitpunkt des
 rechtskräftig festgestellten Verstoßes gegen dieses Gesetz ein, soweit
@@ -222,6 +230,7 @@ unberührt.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/prkg/BJNR224700007.html#BJNR224700007BJNE000900000)
 
 (1) Nach § 2 des Preisangaben- und Preisklauselgesetzes in der bis zum
 13\. September 2007 geltenden Fassung erteilte Genehmigungen gelten

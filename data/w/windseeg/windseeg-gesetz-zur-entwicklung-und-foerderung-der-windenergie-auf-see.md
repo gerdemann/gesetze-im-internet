@@ -23,9 +23,11 @@ Zur umsetzung der bverfge v. 30.6.2020 i 1993 - 1 bvr 1679/17 wurde § 10a diese
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000100000)
 
 
 ### § 1 Zweck und Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000204128)
 
 (1) Zweck dieses Gesetzes ist es, insbesondere im Interesse des Klima-
 und Umweltschutzes die Nutzung der Windenergie auf See insbesondere
@@ -52,6 +54,7 @@ dient der öffentlichen Gesundheit und Sicherheit.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000303123)
 
 (1) Dieses Gesetz regelt
 
@@ -90,6 +93,7 @@ See anzuwenden.
 
 
 ### § 2a Ausschreibungsvolumen, Verteilung auf Gebotstermine
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008700119)
 
 (1) Das Ausschreibungsvolumen nach Teil 3 beträgt
 
@@ -128,6 +132,7 @@ Flächenentwicklungsplans ausgeschrieben.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000405119)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -247,12 +252,15 @@ Im Sinn dieses Gesetzes ist oder sind
 [^f794982_06_BJNR231000016BJNE000405119]: 
 
 ## Teil 2 - Fachplanung und zentrale Voruntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000201119)
 
 
 ### Abschnitt 1 - Flächenentwicklungsplan
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000300000)
 
 
 #### § 4 Zweck des Flächenentwicklungsplans
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000504119)
 
 (1) Der Flächenentwicklungsplan trifft fachplanerische Festlegungen
 für die ausschließliche Wirtschaftszone. Er kann fachplanerische
@@ -301,6 +309,7 @@ Energiegewinnungsbereichen abführen.
 
 
 #### § 5 Gegenstand des Flächenentwicklungsplans
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000605119)
 
 (1) Der Flächenentwicklungsplan enthält für den Zeitraum ab dem Jahr
 2026 für die ausschließliche Wirtschaftszone und nach Maßgabe der
@@ -549,6 +558,7 @@ oder Flächen nicht erreicht werden können.
 
 
 #### § 6 Zuständigkeit und Verfahren zur Erstellung des Flächenentwicklungsplans
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000704119)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie macht die
 Einleitung und den voraussichtlichen Zeitpunkt des Abschlusses des
@@ -658,6 +668,7 @@ hingewiesen.
 
 
 #### § 7 Übergang vom Bundesfachplan Offshore und vom Offshore-Netzentwicklungsplan
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000800000)
 
 Für Festlegungen ab dem Jahr 2026 werden
 
@@ -677,6 +688,7 @@ Für Festlegungen ab dem Jahr 2026 werden
 
 
 #### § 8 Änderung und Fortschreibung des Flächenentwicklungsplans
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE000903119)
 
 (1) Der Flächenentwicklungsplan kann auf Vorschlag des Bundesamtes für
 Seeschifffahrt und Hydrographie oder der Bundesnetzagentur geändert
@@ -712,6 +724,7 @@ des Gesetzes über die Umweltverträglichkeitsprüfung bleiben unberührt.
 
 
 #### § 8a Erklärung bestehender Gebiete zu Beschleunigungsflächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE012300128)
 
 [^F829948_01_BJNR231000016BJNE012300128]
 Die im Flächenentwicklungsplan 2023 für die deutsche Nordsee und
@@ -734,9 +747,11 @@ geändert worden ist. § 72a bleibt unberührt.
 [^F829948_01_BJNR231000016BJNE012300128]: 
 
 ### Abschnitt 2 - Zentrale Voruntersuchung von Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000401119)
 
 
 #### § 9 Ziel der zentralen Voruntersuchung von Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001002119)
 
 (1) Die zentrale Voruntersuchung von im Flächenentwicklungsplan
 festgelegten Flächen nach den §§ 10 bis 12 erfolgt in der im
@@ -781,6 +796,7 @@ werden.
 
 
 #### § 10 Gegenstand und Umfang der zentralen Voruntersuchung von Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001101119)
 
 (1) Um den Bietern die Informationen über die jeweilige Fläche für die
 Ausschreibungen nach Teil 3 Abschnitt 5 zur Verfügung zu stellen,
@@ -883,6 +899,7 @@ jeweiligen Fläche bestimmt.
 [^f794982_08_BJNR231000016BJNE001101119]: 
 
 #### § 10a Erstattung von notwendigen Kosten für Untersuchungen von zentral voruntersuchten Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008201119)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie erstattet dem
 Inhaber eines Projekts, dessen Planfeststellungsverfahren oder
@@ -978,6 +995,7 @@ Bundesamt für Seeschifffahrt und Hydrographie unverzüglich zu löschen.
 
 
 #### § 10b Erstattung von notwendigen Kosten für Untersuchungen von nicht zentral voruntersuchten Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008801128)
 
 (1) Der Anspruch des Inhabers eines Projekts auf Kostenerstattung nach
 § 10a richtet sich gegen den bezuschlagten Bieter, wenn die Kosten für
@@ -1011,6 +1029,7 @@ Projekts zu erstatten.
 
 
 #### § 11 Zuständigkeit für die zentrale Voruntersuchung von Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001202119)
 
 Zuständige Stelle für die zentrale Voruntersuchung von Flächen ist die
 Bundesnetzagentur. Sie kann die zentrale Voruntersuchung nach Maßgabe
@@ -1033,6 +1052,7 @@ bekannt.
 
 
 #### § 12 Verfahren zur zentralen Voruntersuchung von Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001304119)
 
 (1) Die für die Voruntersuchung zuständige Stelle macht die Einleitung
 des Verfahrens zur zentralen Voruntersuchung einer Fläche nach § 98
@@ -1146,6 +1166,7 @@ elektronisch erfolgen.
 
 
 #### § 13 Errichtung und Betrieb von Offshore-Anbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001401119)
 
 Die Errichtung und der Betrieb der Offshore-Anbindungsleitungen, die
 zur Anbindung der ausgeschriebenen Flächen erforderlich sind, sind
@@ -1154,12 +1175,15 @@ Energiewirtschaftsgesetzes.
 
 
 ## Teil 3 - Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000500000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000600000)
 
 
 #### § 14 Wettbewerbliche Bestimmung des Zuschlagsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001501119)
 
 (1) Betreiber, die Windenergieanlagen auf See nach dem 31. Dezember
 2020 in der ausschließlichen Wirtschaftszone und im Küstenmeer in
@@ -1239,6 +1263,7 @@ Energien-Gesetzes nach Maßgabe von Teil 5 haben.
 
 
 #### § 14a Ergänzende Kapazitätszuweisung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008900119)
 
 Sofern die Netzanbindungskapazität einer Offshore-Anbindungsleitung
 nicht vollständig durch zugewiesene Netzanbindungskapazität oder
@@ -1272,6 +1297,7 @@ vornehmen, wenn dies aus technischen Gründen erforderlich ist.
 
 
 #### § 15 Allgemeine Ausschreibungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE001601119)
 
 (1) Die Ausschreibungsbedingungen nach den §§ 30 bis 35a, 55 und 55a
 des Erneuerbare-Energien-Gesetzes sind anzuwenden, soweit die
@@ -1298,9 +1324,11 @@ Erneuerbare-Energien-Gesetzes ist nicht anzuwenden.
 
 
 ### Abschnitt 2 - Ausschreibungen für nicht zentral voruntersuchte Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000701119)
 
 
 #### § 16 Bekanntmachung der Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002002119)
 
 Die Bundesnetzagentur macht die Ausschreibungen spätestens vier
 Kalendermonate vor dem jeweiligen Gebotstermin nach § 98 Nummer 2
@@ -1350,6 +1378,7 @@ enthalten:
 
 
 #### § 17 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002102119)
 
 (1) Gebote müssen die folgenden Angaben enthalten:
 
@@ -1390,6 +1419,7 @@ sein darf.
 
 
 #### § 18 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002201119)
 
 (1) Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-
 Gesetzes bestimmt sich aus der Gebotsmenge multipliziert mit 100 Euro
@@ -1412,6 +1442,7 @@ werden.
 
 
 #### § 19 Höchstwert
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002303119)
 
 (1) Der Höchstwert für Strom aus Windenergieanlagen auf See beträgt
 
@@ -1439,6 +1470,7 @@ der Neufestlegung geltenden Höchstwert abweichen.
 
 
 #### § 20 Zuschlagsverfahren, anzulegender Wert
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002402119)
 
 (1) Die Bundesnetzagentur erteilt auf jeder ausgeschriebenen Fläche
 dem Gebot mit dem niedrigsten Gebotswert den Zuschlag. Der Zuschlag
@@ -1457,6 +1489,7 @@ Gebotsverfahren nach § 21 durch.
 
 
 #### § 21 Dynamisches Gebotsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008301119)
 
 (1) Haben für eine Fläche mehrere Bieter Gebote mit einem Gebotswert
 von 0 Cent pro Kilowattstunde abgegeben, führt die Bundesnetzagentur
@@ -1521,6 +1554,7 @@ Cent pro Kilowattstunde. § 20 Absatz 1 Satz 2 ist anzuwenden.
 
 
 #### § 22 Nähere Ausgestaltung des dynamischen Gebotsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009000119)
 
 (1) Die Bundesnetzagentur bestimmt vor der Bekanntgabe der
 Ausschreibungen nach § 16 die näheren Regeln für die Durchführung des
@@ -1546,6 +1580,7 @@ der Wettbewerbssituation.
 
 
 #### § 23 Zweite Gebotskomponente
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009102128)
 
 (1) Der bezuschlagte Bieter, der im dynamischen Gebotsverfahren nach §
 21 den Zuschlag erhalten hat, leistet die zweite Gebotskomponente nach
@@ -1613,6 +1648,7 @@ Nummer 2 multipliziert wird.
 
 
 #### § 24 Rechtsfolgen des Zuschlags
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002503119)
 
 (1) Mit der Erteilung des Zuschlags nach § 20 oder § 21 hat der
 bezuschlagte Bieter
@@ -1657,6 +1693,7 @@ nach § 8 Absatz 3 erneut ausgeschrieben werden.
 
 
 #### § 25 Erstattung von Sicherheiten an Bieter ohne Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002601119)
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten
 für ein Gebot zurück, wenn der Bieter für dieses Gebot keinen Zuschlag
@@ -1664,9 +1701,11 @@ nach § 20 oder § 21 erhalten hat.
 
 
 ### Abschnitt 3 - Ausschreibungen für bestehende Projekte
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000800000)
 
 
 #### § 26 Ausschreibungen für bestehende Projekte
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002701124)
 
 (1) Für Windenergieanlagen auf See, die nach dem 31. Dezember 2020 in
 Betrieb genommen werden, ermittelt die Bundesnetzagentur zu den
@@ -1728,6 +1767,7 @@ Errichtung und zum Betrieb von Windenergieanlagen auf See,
 [^f794982_10_BJNR231000016BJNE002701124]: 
 
 #### § 27 Ausschreibungsvolumen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002801124)
 
 (1) Das Ausschreibungsvolumen beträgt 1 550 Megawatt pro Gebotstermin.
 
@@ -1767,6 +1807,7 @@ Offshore-Anbindungsleitungen im Offshore-Netzentwicklungsplan nach §
 
 
 #### § 28 Planung der Offshore-Anbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE002900000)
 
 Die Errichtung und der Betrieb der Offshore-Anbindungsleitungen zu den
 Clustern, in denen bestehende Projekte liegen, die nach § 26 Absatz 2
@@ -1775,6 +1816,7 @@ des Energiewirtschaftsgesetzes.
 
 
 #### § 29 Bekanntmachung der Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003003119)
 
 Die Bundesnetzagentur macht die Ausschreibungen spätestens acht
 Kalenderwochen vor dem jeweiligen Gebotstermin nach § 98 Nummer 2
@@ -1858,6 +1900,7 @@ bekannt. Die Bekanntmachungen enthalten mindestens folgende Angaben:
 
 
 #### § 30 Voraussetzungen für die Teilnahme an Ausschreibungen für bestehende Projekte
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003101124)
 
 (1) Bei den Ausschreibungen nach § 26 dürfen natürliche Personen,
 rechtsfähige Personengesellschaften und juristische Personen Gebote
@@ -1891,6 +1934,7 @@ Zuschlag erteilt wurde.
 
 
 #### § 31 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003201118)
 
 (1) Die Gebote müssen in Ergänzung zu § 30 des Erneuerbare-Energien-
 Gesetzes folgende Angaben enthalten:
@@ -1946,6 +1990,7 @@ Gebrauch, ist die Gebotsmenge zugleich die Mindestgebotsmenge.
 
 
 #### § 32 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003300000)
 
 Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-Gesetzes
 bestimmt sich aus der Gebotsmenge nach § 30 Absatz 1 Nummer 4 des
@@ -1955,12 +2000,14 @@ Gebotsmengen ist keine zusätzliche Sicherheit zu leisten.
 
 
 #### § 33 Höchstwert
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003401118)
 
 Der Höchstwert für Strom aus Windenergieanlagen auf See beträgt 10
 Cent pro Kilowattstunde.
 
 
 #### § 34 Zuschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003502119)
 
 (1) Die Bundesnetzagentur führt bei jeder Ausschreibung das folgende
 Zuschlagsverfahren durch. Sie
@@ -2027,6 +2074,7 @@ Absätze 1 und 2 treffen.
 
 
 #### § 35 Flächenbezug des Zuschlags
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003600000)
 
 Die Bundesnetzagentur muss den Zuschlag bezogen auf die Fläche
 erteilen, die sich aus den Standortangaben nach § 31 Absatz 1 Satz 2
@@ -2034,6 +2082,7 @@ ergibt.
 
 
 #### § 36 Zuschlagswert und anzulegender Wert
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003700000)
 
 (1) Zuschlagswert ist der in dem jeweiligen bezuschlagten Gebot
 angegebene Gebotswert.
@@ -2042,6 +2091,7 @@ angegebene Gebotswert.
 
 
 #### § 37 Rechtsfolgen des Zuschlags
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003803119)
 
 (1) Mit der Erteilung des Zuschlags nach § 34 hat der bezuschlagte
 Bieter
@@ -2101,6 +2151,7 @@ Fläche nach § 35 kann nach Maßgabe des Flächenentwicklungsplans nach §
 
 
 #### § 38 Erstattung von Sicherheiten an Bieter ohne Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE003900000)
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten
 für ein bestimmtes Gebot zurück, wenn der Bieter für dieses Gebot
@@ -2108,65 +2159,82 @@ keinen Zuschlag nach § 34 erhalten hat.
 
 
 ### Abschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001800119)
 
 
 #### Unterabschnitt 1 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG002000119)
 
 
 ##### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009200119)
 
 
 
 ##### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009300119)
 
 
 
 ##### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009400119)
 
 
 
 ##### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009500119)
 
 
 
 ##### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009600119)
 
 
 
 ##### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009700119)
 
 
 
 ##### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009800119)
 
 
 
 #### Unterabschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG002100119)
 
 
 ##### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE009900119)
 
 
 
 ##### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010000119)
 
 
 
 ##### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010100119)
 
 
 
 ##### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010200119)
 
 
 
 ### Abschnitt 5 - Ausschreibungen für zentral voruntersuchte Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001900119)
 
 
 #### Unterabschnitt 1 - Besondere Ausschreibungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG002200119)
 
 
 ##### § 50 Bekanntmachung der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010300119)
 
 Die zuständige Stelle macht die Ausschreibungen spätestens fünf
 Kalendermonate vor dem jeweiligen Gebotstermin nach § 98 Nummer 1
@@ -2214,6 +2282,7 @@ enthalten:
 
 
 ##### § 51 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010400119)
 
 (1) Gebote müssen die folgenden Angaben enthalten:
 
@@ -2282,6 +2351,7 @@ interoperable Datenformate vorgeben.
 
 
 ##### § 52 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010500119)
 
 (1) Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-
 Gesetzes bestimmt sich aus der Gebotsmenge multipliziert mit 200 Euro
@@ -2303,6 +2373,7 @@ werden.
 
 
 ##### § 53 Bewertung der Gebote, Kriterien
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010600119)
 
 (1) Die zuständige Stelle bewertet die nicht nach § 33 oder § 34 des
 Erneuerbare-Energien-Gesetzes ausgeschlossenen Gebote nach den
@@ -2459,6 +2530,7 @@ rechtssichere Weise nachgewiesen.
 [^F822720_05_BJNR231000016BJNE010600119]: 
 
 ##### § 54 Zuschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010700119)
 
 (1) Die zuständige Stelle führt bei jeder Ausschreibung das folgende
 Verfahren durch:
@@ -2504,6 +2576,7 @@ höchsten Bewertungspunktzahl zusätzlich den Zuschlag.
 
 
 ##### § 55 Rechtsfolgen des Zuschlags
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010800119)
 
 (1) Mit der Erteilung des Zuschlags nach § 54 hat der bezuschlagte
 Bieter
@@ -2576,6 +2649,7 @@ Ausschreibungsvolumens erteilt.
 
 
 ##### § 56 Erstattung von Sicherheiten an Bieter ohne Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE010900119)
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten
 für ein Gebot zurück, wenn der Bieter für dieses Gebot keinen Zuschlag
@@ -2583,9 +2657,11 @@ nach § 54 erhalten hat.
 
 
 #### Unterabschnitt 2 - Bestimmungen zur Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG002300119)
 
 
 ##### § 57 Zweckbindung der Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011002128)
 
 Die Einnahmen aus den gebotenen Zahlungen nach § 53 Absatz 1 Satz 1
 Nummer 1 werden anteilig für den Bereich des Bundesministeriums für
@@ -2605,6 +2681,7 @@ Nummer 11 des Energiefinanzierungsgesetzes verwendet.
 
 
 ##### § 58 Meeresnaturschutz-, Fischerei- und Transformationskomponente
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011102128)
 
 (1) Der bezuschlagte Bieter leistet innerhalb von zwölf Monaten nach
 Erteilung des Zuschlags eine Zahlung in Höhe von 5 Prozent des Gebots
@@ -2647,6 +2724,7 @@ Nummer 1 als Transformationskomponente an den Bundeshaushalt.
 
 
 ##### § 59 Stromkostensenkungskomponente
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011201123)
 
 (1) Der bezuschlagte Bieter leistet an den anbindungsverpflichteten
 Übertragungsnetzbetreiber eine Zahlung in Höhe von 90 Prozent des
@@ -2664,9 +2742,11 @@ beginnend mit der Erbringung des Nachweises nach § 81 Absatz 2 Nummer
 
 
 ### Abschnitt 6 - Eintrittsrecht für bestehende Projekte
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG000901119)
 
 
 #### § 60 Eintrittsrecht für den Inhaber eines bestehenden Projekts
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004001119)
 
 (1) Der Inhaber eines bestehenden Projekts nach § 26 Absatz 2 hat nach
 Maßgabe dieses Abschnitts zum Ausgleich für die Überlassung der bei
@@ -2704,6 +2784,7 @@ Eintrittsrecht besteht.
 
 
 #### § 61 Voraussetzungen und Reichweite des Eintrittsrechts
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004101119)
 
 (1) Der Inhaber eines bestehenden Projekts hat ein Eintrittsrecht,
 wenn
@@ -2751,6 +2832,7 @@ sich mit dem überwiegenden Teil der voruntersuchten Fläche
 
 
 #### § 62 Datenüberlassung und Verzichtserklärung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004202119)
 
 (1) Das Eintrittsrecht setzt voraus, dass der Inhaber eines
 bestehenden Projekts in der ausschließlichen Wirtschaftszone
@@ -2829,6 +2911,7 @@ mit den Maßgaben anzuwenden, dass
 
 
 #### § 63 Ausübung des Eintrittsrechts
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004301119)
 
 (1) Der Eintrittsberechtigte muss zur Ausübung seines Eintrittsrechts
 spätestens vier Wochen nach Bekanntmachung der Zuschläge in der
@@ -2851,6 +2934,7 @@ teilweise Ausübung ist unzulässig.
 
 
 #### § 64 Rechtsfolgen des Eintritts
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004401119)
 
 (1) Sofern die Voraussetzungen für das Eintrittsrecht nach § 61 Absatz
 1 vorliegen und der Inhaber des bestehenden Projekts das
@@ -2870,9 +2954,11 @@ gebunden.
 
 
 ## Teil 4 - Zulassung, Errichtung und Betrieb von Windenergieanlagen auf See sowie Anlagen zur Übertragung der Energie
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001003119)
 
 
 ### § 65 Geltungsbereich von Teil 4
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004504123)
 
 (1) Die Bestimmungen dieses Teils sind anzuwenden für die Errichtung,
 den Betrieb und die Änderung von Windenergieanlagen auf See, sonstigen
@@ -2900,9 +2986,11 @@ Windenergieanlagen auf See im Küstenmeer entsprechend anzuwenden.
 
 
 ### Abschnitt 1 - Zulassung von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001101119)
 
 
 #### § 66 Planfeststellung und Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004601119)
 
 (1) Die Errichtung und der Betrieb von Einrichtungen bedürfen der
 Planfeststellung. Abweichend von Satz 1 bedürfen die wesentliche
@@ -2925,6 +3013,7 @@ Verwaltungsverfahrensgesetzes ist anzuwenden.
 
 
 #### § 67 Verhältnis der Planfeststellung und der Plangenehmigung zu den Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004704123)
 
 (1) Den Antrag auf Durchführung des Planfeststellungsverfahrens oder
 Plangenehmigungsverfahrens zur Errichtung und zum Betrieb von
@@ -2983,6 +3072,7 @@ Absatz 2 wirksam erklärt wurde.
 
 
 #### § 68 Planfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004803119)
 
 (1) Der Plan umfasst zusätzlich zu den Zeichnungen und Erläuterungen
 nach § 73 Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes
@@ -3052,6 +3142,7 @@ gestellt. Hierauf wird in der Mitteilung hingewiesen.
 
 
 #### § 69 Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE004904123)
 
 (1) Der Träger des Vorhabens hat die Vereinbarkeit des Vorhabens mit
 dem jeweils geltenden „Standard Konstruktion – Mindestanforderungen an
@@ -3283,6 +3374,7 @@ Bundesamt für Seeschifffahrt und Hydrographie.
 
 
 #### § 70 Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011300119)
 
 (1) Für Einrichtungen nach § 66 Absatz 1 Satz 2 soll statt eines
 Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. § 74
@@ -3319,6 +3411,7 @@ Vorhabenträger.
 
 
 #### § 71 Vorläufige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005002123)
 
 Ist das Planfeststellungsverfahren oder das Plangenehmigungsverfahren
 eingeleitet, kann das Bundesamt für Seeschifffahrt und Hydrographie
@@ -3340,6 +3433,7 @@ auf vorläufige Anordnungen entsprechend anzuwenden.
 
 
 #### § 72 Umweltverträglichkeitsprüfung; marine Biotope
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005203119)
 
 (1) Die Prüfung der Umweltverträglichkeit von Windenergieanlagen auf
 See oder von sonstigen Energiegewinnungsanlagen nach den Bestimmungen
@@ -3363,6 +3457,7 @@ werden soll.
 
 
 #### § 72a Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE012101128)
 
 (1) Bei der Zulassung oder der Änderung der Lage, der Beschaffenheit
 oder des Betriebs von Windenergieanlagen auf See in im
@@ -3441,6 +3536,7 @@ abgeschlossen wird.
 
 
 #### § 73 Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005302119)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der
 ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland
@@ -3477,6 +3573,7 @@ bekannt zu machen.
 
 
 #### § 74 Sicherheitszonen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005402119)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie richtet in der
 ausschließlichen Wirtschaftszone Sicherheitszonen um die Einrichtungen
@@ -3495,6 +3592,7 @@ empfiehlt.
 
 
 #### § 75 Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005501119)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die
 Einrichtungen und die von ihr nach § 53 eingerichteten
@@ -3503,6 +3601,7 @@ amtlichen Seekarten ein.
 
 
 #### § 76 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008401119)
 
 (1) Auf Offshore-Anbindungsleitungen ist § 50 Absatz 1 Nummer 6 der
 Verwaltungsgerichtsordnung anzuwenden. § 50 Absatz 1 Nummer 6 der
@@ -3515,12 +3614,15 @@ Energiewirtschaftsgesetzes anzuwenden.
 
 
 ### Abschnitt 2 - Errichtung, Betrieb und Beseitigung von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001201119)
 
 
 #### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001301119)
 
 
 ##### § 77 Pflichten der verantwortlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005601119)
 
 (1) Die nach § 78 verantwortlichen Personen haben sicherzustellen,
 dass von der Einrichtung während der Errichtung, während des Betriebs
@@ -3586,6 +3688,7 @@ Einrichtungen erwogen wird.
 
 
 ##### § 78 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005702119)
 
 (1) Die verantwortlichen Personen für die Erfüllung der Pflichten, die
 sich aus diesem Teil des Gesetzes oder aus Verwaltungsakten zu
@@ -3642,6 +3745,7 @@ für den Betreiber, wenn der Betrieb der Anlage auf eine andere Person
 
 
 ##### § 79 Überwachung der Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005801119)
 
 (1) Die Einrichtungen, ihre Errichtung und ihr Betrieb unterliegen der
 Überwachung durch das Bundesamt für Seeschifffahrt und Hydrographie.
@@ -3703,6 +3807,7 @@ Verwaltungsaktes bleiben unberührt.
 
 
 ##### § 80 Beseitigung der Einrichtungen, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE005901119)
 
 (1) Wenn der Planfeststellungsbeschluss oder die Plangenehmigung
 unwirksam werden, sind die Einrichtungen zu beseitigen, mit dem Ziel,
@@ -3737,9 +3842,11 @@ bedürfen.
 
 
 #### Unterabschnitt 2 - Besondere Bestimmungen für Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001401119)
 
 
 ##### § 81 Realisierungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006002119)
 
 (1) Die Fristen für bezuschlagte Bieter, ihre Windenergieanlagen auf
 See technisch betriebsbereit herzustellen, werden in Abhängigkeit vom
@@ -3836,6 +3943,7 @@ Absatz 3 Satz 1 Nummer 1 verbindlich.
 
 
 ##### § 82 Sanktionen bei Nichteinhaltung der Realisierungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006103119)
 
 (1) Bezuschlagte Bieter müssen an den regelverantwortlichen
 Übertragungsnetzbetreiber eine Pönale leisten, wenn sie gegen die
@@ -3906,6 +4014,7 @@ Windenergieanlagen auf See ergibt.
 
 
 ##### § 83 Ausnahme von den Sanktionen bei Nichteinhaltung der Realisierungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006201119)
 
 (1) Pönalen nach § 82 Absatz 1, 2 und 2a sind nicht zu leisten und die
 Bundesnetzagentur darf den Zuschlag nicht nach § 82 Absatz 3
@@ -3945,6 +4054,7 @@ unterbeauftragter Personen, beruht.
 
 
 ##### § 84 Rückgabe von Zuschlägen, Planfeststellungsbeschlüssen und Plangenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006302123)
 
 (1) Der bezuschlagte Bieter darf den Zuschlag, den
 Planfeststellungsbeschluss oder die Plangenehmigung nicht zurückgeben.
@@ -3987,6 +4097,7 @@ Bieters fest
 
 
 ##### § 85 Übergang von Zuschlägen und Planfeststellungsbeschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006402119)
 
 (1) Zuschläge nach den §§ 20, 21, 34 oder 54 dürfen nicht auf Anlagen
 auf anderen Flächen übertragen werden.
@@ -4014,6 +4125,7 @@ Hydrographie und dem anbindungsverpflichteten
 
 
 ##### § 86 Rechtsfolgen der Änderung oder Neuerteilung von Planfeststellungsbeschlüssen oder Plangenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008501119)
 
 Wird der Planfeststellungsbeschluss oder die Plangenehmigung geändert
 oder neu erteilt, berührt dies die Wirksamkeit des Zuschlags nach den
@@ -4022,6 +4134,7 @@ nicht.
 
 
 ##### § 87 Rechtsfolgen der Unwirksamkeit von Zuschlägen, Planfeststellungsbeschlüssen und Plangenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006501119)
 
 (1) Wird ein Zuschlag unwirksam,
 
@@ -4075,6 +4188,7 @@ Verwaltungsakt fest.
 
 
 ##### § 88 Erstattung von Sicherheiten bei Realisierung oder Erfüllung von Pönalen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006601119)
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten
 für ein bestimmtes Gebot zurück, wenn der Bieter
@@ -4093,6 +4207,7 @@ für ein bestimmtes Gebot zurück, wenn der Bieter
 
 
 ##### § 89 Austausch von Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011700119)
 
 (1) Der Vorhabenträger kann vor Ablauf der Befristung des
 Planfeststellungsbeschlusses oder der Plangenehmigung beim Bundesamt
@@ -4118,6 +4233,7 @@ Absatz 1 nicht berührt.
 
 
 ##### § 90 Nachnutzung; Verpflichtungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006703119)
 
 (1) Abweichend von § 80 kann eine gesetzliche Bestimmung zur
 Nachnutzung von Flächen, die bereits für die Stromerzeugung aus
@@ -4151,6 +4267,7 @@ werden. § 62 Absatz 3 ist entsprechend anzuwenden.
 
 
 ##### § 91 Nutzung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006801119)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann im Fall der
 Unwirksamkeit von Planfeststellungsbeschlüssen oder Plangenehmigungen
@@ -4175,9 +4292,11 @@ enthalten sind.
 
 
 ### Abschnitt 3 - Sonstige Energiegewinnung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001701119)
 
 
 #### § 92 Ausschreibung der Bereiche zur sonstigen Energiegewinnung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008601119)
 
 Innerhalb von im Flächenentwicklungsplan festgelegten sonstigen
 Energiegewinnungsbereichen in der ausschließlichen Wirtschaftszone
@@ -4187,9 +4306,11 @@ für die jeweiligen Bereiche Antragsberechtigten durch Ausschreibung.
 
 
 ## Teil 5 - Besondere Bestimmungen für Pilotwindenergieanlagen auf See und Testfelder
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001501119)
 
 
 ### § 93 Feststellung einer Pilotwindenergieanlage auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE006901119)
 
 Die Bundesnetzagentur stellt im Einvernehmen mit dem Bundesamt für
 Seeschifffahrt und Hydrographie auf Antrag fest, ob es sich bei einer
@@ -4210,6 +4331,7 @@ werden, die belegen, dass
 
 
 ### § 94 Zahlungsanspruch für Strom aus Pilotwindenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007003119)
 
 (1) Für Strom aus Pilotwindenergieanlagen auf See in der
 ausschließlichen Wirtschaftszone und im Küstenmeer besteht nach
@@ -4262,6 +4384,7 @@ handelt.
 
 
 ### § 95 Netzanbindungskapazität; Zulassung, Errichtung, Betrieb und Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007103119)
 
 (1) Zur Anbindung einer Pilotwindenergieanlage auf See kann der
 Betreiber die zugewiesene Netzanbindungskapazität nutzen, die er
@@ -4345,9 +4468,11 @@ Regelungen festgelegt.
 
 
 ## Teil 6 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNG001601119)
 
 
 ### § 96 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007204123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrats zu regeln
@@ -4581,6 +4706,7 @@ durch Rechtsverordnung ohne Zustimmung des Bundesrats zu regeln
 
 
 ### § 96a Verordnungsermächtigung zur Einführung von Industriestrompreisen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE011900119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates, die der Zustimmung des Bundestages bedarf,
@@ -4719,6 +4845,7 @@ Rechtsverordnung als erteilt.
 
 
 ### § 97 Rechtsschutz bei Ausschreibungen für bestehende Projekte
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007301119)
 
 Nach Durchführung eines Zuschlagsverfahrens nach § 34 ist für
 gerichtliche Rechtsbehelfe § 83a des Erneuerbare-Energien-Gesetzes
@@ -4726,6 +4853,7 @@ entsprechend anzuwenden.
 
 
 ### § 98 Bekanntmachungen und Unterrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007401119)
 
 Die nach diesem Gesetz erforderlichen Bekanntmachungen und
 Unterrichtungen müssen in folgenden Medien vorgenommen werden:
@@ -4748,6 +4876,7 @@ Unterrichtungen müssen in folgenden Medien vorgenommen werden:
 
 
 ### § 99 Verwaltungsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007501119)
 
 (1) Für die Durchsetzung der im Planfeststellungsbeschluss oder in der
 Plangenehmigung nach § 69 getroffenen Regelungen sind die Bestimmungen
@@ -4764,6 +4893,7 @@ angewandt.
 
 
 ### § 100 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007601119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4787,6 +4917,7 @@ Hydrographie.
 
 
 ### § 101 Gebühren und Auslagen; Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007702119)
 
 (1) Die Gebührenerhebung für individuell zurechenbare öffentliche
 Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden
@@ -4803,6 +4934,7 @@ Hydrographie übertragen.
 
 
 ### § 102 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007802119)
 
 (1) Auf Einrichtungen im Sinn des § 65 Absatz 1, die
 
@@ -4853,6 +4985,7 @@ Planfeststellung vor dem 31. Dezember 2022 gestellt wurde.
 
 
 ### § 103 Wahrnehmung von Aufgaben durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE007901119)
 
 (1) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem
 Gesetz und den aufgrund dieses Gesetzes ergangenen Rechtsverordnungen
@@ -4865,6 +4998,7 @@ von den Beschlusskammern getroffen.
 
 
 ### § 104 Rechts- und Fachaufsicht über das Bundesamt für Seeschifffahrt und Hydrographie
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008002119)
 
 Die Rechts- und Fachaufsicht über das Bundesamt für Seeschifffahrt und
 Hydrographie für alle Aufgaben nach und im Zusammenhang mit diesem
@@ -4872,6 +5006,7 @@ Gesetz obliegt dem Bundesministerium für Wirtschaft und Klimaschutz.
 
 
 ### § 105 Durchführung von Terminen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE012000119)
 
 (1) Ist die Durchführung eines Erörterungstermins oder sonstigen
 Beteiligungstermins angeordnet, genügt die Durchführung einer Online-
@@ -4895,6 +5030,7 @@ Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
 (zu § 80 Absatz 3)
 
 ### Anlage Anforderungen an Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html#BJNR231000016BJNE008101119)
 
 (Fundstelle: BGBl. I 2022, 1349)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in
@@ -29,17 +30,20 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000200000)
 
 Der Ausbildungsberuf Fachkraft für Hafenlogistik wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -51,6 +55,7 @@ in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -95,6 +100,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000600000)
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -106,6 +112,7 @@ erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -113,6 +120,7 @@ zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000800000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -122,6 +130,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -161,6 +170,7 @@ kundenorientiert handeln kann.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -337,6 +347,7 @@ erbracht worden sein.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -345,12 +356,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Hafenlogistik
+[Direktlink](https://www.gesetze-im-internet.de/hafenlogausbv/BJNR021300006.html#BJNR021300006BJNE001300000)
 
 (Fundstelle: BGBl. I 2006, 216 - 219)
 

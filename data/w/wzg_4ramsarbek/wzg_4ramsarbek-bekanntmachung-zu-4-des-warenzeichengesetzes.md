@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ramsarbek/BJNR039800993.html#BJNR039800993BJNE000100307)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -35,6 +36,7 @@ Mai 1992 (BGBl. I S. 1024).
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ramsarbek/BJNR039800993.html#BJNR039800993BJNE000200307)
 
 (Fundstelle: BGBl. I 1993, 399)
 

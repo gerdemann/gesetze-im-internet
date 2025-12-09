@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 613-7-1 v. 1.7.1993 I 1132 (GrenzAV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grenzav_2014/BJNR144200014.html#BJNR144200014BJNE000100000)
 
 Auf Grund des § 14 Absatz 1 Satz 2 des Zollverwaltungsgesetzes, der
 durch Artikel 1 Nummer 14 Buchstabe a des Gesetzes vom 20. Dezember
@@ -27,6 +28,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Ausdehnung des grenznahen Raums
+[Direktlink](https://www.gesetze-im-internet.de/grenzav_2014/BJNR144200014.html#BJNR144200014BJNE000200000)
 
 Der Verlauf der rückwärtigen Begrenzungslinie des grenznahen Raums
 ergibt sich für die Bereiche, in denen der grenznahe Raum zur
@@ -40,6 +42,7 @@ angeordnet ist.
 
 
 ## § 2 Gebiete, die der Grenzaufsicht unterworfen sind
+[Direktlink](https://www.gesetze-im-internet.de/grenzav_2014/BJNR144200014.html#BJNR144200014BJNE000300000)
 
 (1) Der Grenzaufsicht unterworfen sind
 
@@ -72,6 +75,7 @@ Internetseite der Zollverwaltung (www.zoll.de).
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/grenzav_2014/BJNR144200014.html#BJNR144200014BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Ausdehnung des grenznahen
@@ -82,6 +86,7 @@ Raumes und die der Grenzaufsicht unterworfenen Gebiete vom 1. Juli
 (zu § 1)
 
 ## Anlage 1 Rückwärtige Begrenzungslinie des grenznahen Raums
+[Direktlink](https://www.gesetze-im-internet.de/grenzav_2014/BJNR144200014.html#BJNR144200014BJNE000500000)
 
 (Fundstelle: BGBl. I 2014, 1443 - 1444)
 
@@ -206,6 +211,7 @@ B.  An der Ostseeküste
 (zu § 2 Absatz 1)
 
 ## Anlage 2 Gebiete, die der Grenzaufsicht unterworfen sind
+[Direktlink](https://www.gesetze-im-internet.de/grenzav_2014/BJNR144200014.html#BJNR144200014BJNE000600000)
 
 (Fundstelle: BGBl. I 2014, 1445 - 1446)
 

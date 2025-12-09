@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt Anordnung 51-1-8 v. 14.7.1978 I 1067 (BPräsUnifAnO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000100000)
 
 Nach § 4 Absatz 3 des Soldatengesetzes, der durch Artikel 3 Nummer 1
 des Gesetzes vom 8. Juni 2017 (BGBl. I S. 1570) geändert worden ist,
@@ -26,12 +27,14 @@ ordne ich an:
 
 
 ## § 1 Dienstgradbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000200000)
 
 Die Soldatinnen und Soldaten führen die Dienstgradbezeichnungen nach
 Anlage 1.
 
 
 ## § 2 Uniform
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000300000)
 
 Die Soldatinnen und Soldaten tragen
 
@@ -48,6 +51,7 @@ Die Soldatinnen und Soldaten tragen
 
 
 ## § 3 Anzugarten und -farben
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000400000)
 
 Die Soldatinnen und Soldaten tragen je nach Anlass eine der folgenden
 Anzugarten:
@@ -90,6 +94,7 @@ Anzugarten:
 
 
 ## § 4 Allgemeine Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000500000)
 
 (1) Am Anzug werden die folgenden allgemeinen Kennzeichen getragen:
 
@@ -137,6 +142,7 @@ Anzugarten:
 
 
 ## § 5 Dienstgradabzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000600000)
 
 (1) Die Soldatinnen und Soldaten tragen an der Uniform die
 Dienstgradabzeichen nach Anlage 2.
@@ -163,6 +169,7 @@ getragen; goldene Dienstgradabzeichen bleiben unverändert.
 
 
 ## § 6 Befugnisübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000700000)
 
 (1) Die Befugnis zur Bestimmung der Abzeichen, die Offizierinnen und
 Offiziere der Marine, Sanitätsoffizierinnen und Sanitätsoffiziere,
@@ -179,6 +186,7 @@ meiner Zustimmung.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000800000)
 
 Diese Anordnung tritt am Tag nach ihrer Veröffentlichung in Kraft.
 Gleichzeitig tritt die Anordnung des Bundespräsidenten über die
@@ -189,6 +197,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
 (zu § 1)
 
 ## Anlage 1 Dienstgradbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE000900000)
 
 (Fundstelle: BGBl. I 2021, 4157 - 4158)
 
@@ -519,6 +528,7 @@ Dienstgradbezeichnungen und die Uniform der Soldaten vom 14. Juli 1978
 (zu § 5 Absatz 1)
 
 ## Anlage 2 Dienstgradabzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bprdgrunifano/BJNR415500021.html#BJNR415500021BJNE001000000)
 
 (Fundstelle: BGBl. I 2021, 4159 - 4161)
 

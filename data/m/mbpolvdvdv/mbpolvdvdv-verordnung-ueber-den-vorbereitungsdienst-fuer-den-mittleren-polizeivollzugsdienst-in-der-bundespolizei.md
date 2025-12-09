@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-6-20 v. 19.12.2001 I 3882 (AP-mDBGSV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 Satz 2 und 3 des
 Bundespolizeibeamtengesetzes, Satz 2 eingefügt durch Artikel 4 des
@@ -30,9 +31,11 @@ Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000300000)
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der
 Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der
@@ -40,6 +43,7 @@ Bundespolizei.
 
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE007501311)
 
 Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
@@ -47,6 +51,7 @@ Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ziele des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000400000)
 
 Der Vorbereitungsdienst hat insbesondere zum Ziel,
 
@@ -68,9 +73,11 @@ Der Vorbereitungsdienst hat insbesondere zum Ziel,
 
 
 ## Teil 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000200000)
 
 
 ### § 3 Einstellungsbehörde und Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000500000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Bundespolizeiakademie auf der Grundlage eines Auswahlverfahrens. In
@@ -99,6 +106,7 @@ eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
 
 ### § 4 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000601311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das
 Bundespolizeipräsidium eine Auswahlkommission ein. Bei Bedarf können
@@ -138,6 +146,7 @@ Auswahlkommission haben gleiches Gewicht.
 
 
 ### § 5 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000700000)
 
 Das Auswahlverfahren besteht aus den folgenden Teilen:
 
@@ -156,6 +165,7 @@ Das Auswahlverfahren besteht aus den folgenden Teilen:
 
 
 ### § 6 Festlegungen des Bundespolizeipräsidiums
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000800000)
 
 (1) Das Bundespolizeipräsidium legt in Verwaltungsvorschriften fest:
 
@@ -198,6 +208,7 @@ laufenden Auswahlverfahren für jeden Teil ändern.
 
 
 ### § 7 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE000900000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist ein auf
 wissenschaftlicher Grundlage entwickelter Leistungstest.
@@ -234,6 +245,7 @@ automatisierte Auswertung gestützt werden.
 
 
 ### § 8 Bewertung und Bestehen des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001000000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens wird mit einer
 Punktzahl bewertet.
@@ -249,6 +261,7 @@ erreicht hat.
 
 
 ### § 9 Prüfung der körperlichen Leistungsfähigkeit und Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001100000)
 
 (1) Die Prüfung der körperlichen Leistungsfähigkeit besteht aus
 mehreren sportlichen Leistungstests.
@@ -262,6 +275,7 @@ die insgesamt erforderliche Mindestpunktzahl erreicht hat.
 
 
 ### § 10 Zulassung zum mündlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001200000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil des Auswahlverfahrens und die Prüfung der
@@ -279,6 +293,7 @@ besten geeignet ist.
 
 
 ### § 11 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001300000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung
 der Bewerberin oder des Bewerbers in verschiedenen persönlichen und
@@ -293,6 +308,7 @@ Bewerber vor Beginn des mündlichen Teils mitgeteilt.
 
 
 ### § 12 Bewertung und Bestehen des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001400000)
 
 (1) Nach jedem Abschnitt des mündlichen Teils des Auswahlverfahrens
 bewerten die Mitglieder der Auswahlkommission unabhängig voneinander
@@ -313,6 +329,7 @@ erreicht hat.
 
 
 ### § 13 Gesamtergebnis des Auswahlverfahrens und Rangfolge der Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001500000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens
@@ -333,6 +350,7 @@ endgültig zu löschen.
 
 
 ### § 14 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001600000)
 
 (1) Im Fall einer Täuschung, eines Täuschungsversuchs, eines
 Mitwirkens an einer Täuschung oder an einem Täuschungsversuch oder im
@@ -343,6 +361,7 @@ Bewerber vom Auswahlverfahren ausgeschlossen werden.
 
 
 ### § 15 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001702311)
 
 (1) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst
 in der Bundespolizei kann eingestellt werden, wer
@@ -386,12 +405,15 @@ ist.
 
 
 ## Teil 3 - Ausbildung und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000400000)
 
 
 #### § 16 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001800000)
 
 (1) Eine Leistung, die in der Ausbildung, in der Zwischenprüfung oder
 in der Laufbahnprüfung erbracht wird, ist wie folgt zu bewerten:
@@ -587,12 +609,15 @@ der Mindestanforderungen festgestellt wird.
 
 
 ### Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000500000)
 
 
 #### Unterabschnitt 1 - Organisatorisches und Ausbildungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000600000)
 
 
 ##### § 17 Dienstaufsicht, Organisation und Ausbildungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE001900000)
 
 (1) Die Bundespolizeiakademie führt die Dienstaufsicht über die
 Anwärterinnen und Anwärter während der Ausbildung.
@@ -605,12 +630,14 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 18 Ausbildungsleiterin oder Ausbildungsleiter
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002000000)
 
 In jeder Ausbildungsstätte wird eine Ausbildungsleiterin oder ein
 Ausbildungsleiter sowie eine Vertretung bestellt.
 
 
 ##### § 19 Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002100000)
 
 (1) Die Einsatzdienststelle benennt der Bundespolizeiakademie für die
 praktischen Verwendungen Ausbilderinnen und Ausbilder.
@@ -634,14 +661,17 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 20 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002200000)
 
 Die Bundespolizeiakademie bestimmt die Zeiten des Erholungsurlaubs.
 
 
 #### Unterabschnitt 2 - Dauer, Inhalt und Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000700000)
 
 
 ##### § 21 Dauer und Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002300000)
 
 (1) Die Ausbildung dauert zwei Jahre und sechs Monate.
 
@@ -669,6 +699,7 @@ sportlichen Wettkämpfen soll vier Jahre und einen Monat nicht
 
 
 ##### § 22 Grundausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002402311)
 
 (1) Ziel der Grundausbildung ist es,
 
@@ -753,6 +784,7 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 23 Weitere Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002502311)
 
 (1) Ziel der weiteren Ausbildung ist es,
 
@@ -841,6 +873,7 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 24 Laufbahnlehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002600000)
 
 (1) Ziel des Laufbahnlehrgangs ist es,
 
@@ -895,6 +928,7 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 25 Durchführung der Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002700000)
 
 (1) Ein Leistungstest kann durchgeführt werden in Form
 
@@ -930,6 +964,7 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 26 Bewertung der Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002800000)
 
 (1) Die Leistungstests werden durch Angehörige der
 Bundespolizeiakademie bewertet.
@@ -942,6 +977,7 @@ Bundespolizeipräsidiums im Ausbildungsplan fest.
 
 
 ##### § 27 Fachrangpunktzahlen, Fachnoten und Ausbildungsabschnittsrangpunktzahlen
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE002900000)
 
 (1) Für jede Anwärterin und jeden Anwärter wird in jedem
 Ausbildungsabschnitt für jedes Fach, für das die Durchführung
@@ -958,23 +994,28 @@ geregelt.
 
 
 ### Abschnitt 3 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000800000)
 
 
 #### Unterabschnitt 1 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG000900000)
 
 
 ##### § 28 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003000000)
 
 Die Zwischenprüfung findet am Ende der Grundausbildung statt.
 
 
 ##### § 29 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003100000)
 
 Für die Organisation und Durchführung der Zwischenprüfung ist das
 Prüfungsamt der Bundespolizeiakademie (Prüfungsamt) zuständig.
 
 
 ##### § 30 Einrichtung der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003200000)
 
 (1) Für die Abnahme und Bewertung der Zwischenprüfung richtet das
 Prüfungsamt eine Prüfungskommission ein.
@@ -986,6 +1027,7 @@ Bewertungsmaßstab anlegen.
 
 
 ##### § 31 Mitglieder der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003300000)
 
 (1) Die Prüfungskommission für die Zwischenprüfung besteht aus
 
@@ -1023,6 +1065,7 @@ Entscheidungen unabhängig und nicht weisungsgebunden.
 
 
 ##### § 32 Entscheidungen der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003400000)
 
 (1) Die Prüfungskommission der Zwischenprüfung ist beschlussfähig,
 wenn die oder der Vorsitzende sowie mindestens zwei Prüfende anwesend
@@ -1035,6 +1078,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ##### § 33 Bestandteile der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003502311)
 
 Die Zwischenprüfung besteht aus
 
@@ -1054,6 +1098,7 @@ der Zwischenprüfung die praktische Prüfung entfällt.
 
 
 ##### § 34 Gegenstand und Durchführung der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003600000)
 
 (1) Die schriftliche Prüfung der Zwischenprüfung besteht aus vier
 Klausuren.
@@ -1088,6 +1133,7 @@ Klausuren bekannt gegeben werden.
 
 
 ##### § 35 Bewertung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003700000)
 
 (1) Eine Klausur der Zwischenprüfung wird von einer oder einem
 Prüfenden der Prüfungskommission bewertet.
@@ -1119,6 +1165,7 @@ Note zugeordnet.
 
 
 ##### § 36 Bestehen der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003800000)
 
 Die schriftliche Prüfung der Zwischenprüfung hat bestanden, wer in
 mindestens zwei Klausuren der schriftlichen Prüfung der
@@ -1126,6 +1173,7 @@ Zwischenprüfung jeweils mindestens fünf Rangpunkte erreicht hat.
 
 
 ##### § 37 Zulassung zur mündlichen und praktischen Prüfung; Folge der Nichtzulassung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE003901311)
 
 (1) Zur mündlichen und zur praktischen Prüfung der Zwischenprüfung ist
 zugelassen, wer
@@ -1219,6 +1267,7 @@ die Zwischenprüfung als nicht bestanden.
 
 
 ##### § 38 Gegenstand, Durchführung und Protokoll der praktischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004000000)
 
 (1) In der praktischen Prüfung wird die Handlungsfähigkeit bei
 ausgewählten polizeifachlichen Standardsituationen geprüft.
@@ -1243,6 +1292,7 @@ unterschreiben.
 
 
 ##### § 39 Bewertung und Rangpunktzahl der praktischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004100000)
 
 (1) Die polizeifachlichen Standardsituationen werden einzeln bewertet.
 
@@ -1257,12 +1307,14 @@ Anwärter das erreichte Ergebnis mit und erläutert es.
 
 
 ##### § 40 Bestehen der praktischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004200000)
 
 Die praktische Prüfung der Zwischenprüfung ist bestanden, wenn die
 Rangpunktzahl der praktischen Prüfung mindestens 5,00 beträgt.
 
 
 ##### § 41 Gegenstand, Durchführung und Protokoll der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004300000)
 
 (1) Die Prüfungsfächer der mündlichen Prüfung der Zwischenprüfung sind
 
@@ -1317,6 +1369,7 @@ unterschreiben.
 
 
 ##### § 42 Bewertung und Rangpunktzahl der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004400000)
 
 (1) Die geprüften Fächer der mündlichen Prüfung werden einzeln
 bewertet.
@@ -1331,6 +1384,7 @@ das Ergebnis mit und erläutert es.
 
 
 ##### § 43 Anwesenheit weiterer Personen bei der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004501311)
 
 (1) Die mündliche Prüfung der Zwischenprüfung ist nicht öffentlich.
 
@@ -1367,12 +1421,14 @@ die Protokollführerin oder der Protokollführer anwesend sein.
 
 
 ##### § 44 Bestehen der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004600000)
 
 Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die
 Rangpunktzahl der mündlichen Prüfung mindestens 5,00 beträgt.
 
 
 ##### § 45 Bestehen, Rangpunktzahl und Note der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004701311)
 
 (1) Die Zwischenprüfung ist bestanden, wenn
 
@@ -1460,6 +1516,7 @@ Note ist die Note der Zwischenprüfung.
 
 
 ##### § 46 Wiederholung der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004801311)
 
 (1) Hat eine Anwärterin oder ein Anwärter die Zwischenprüfung nicht
 bestanden, so kann sie oder er die Zwischenprüfung einmal wiederholen.
@@ -1486,6 +1543,7 @@ nicht bestanden.
 
 
 ##### § 47 Zwischenprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE004900000)
 
 (1) Wer die Zwischenprüfung bestanden hat, erhält ein
 Zwischenprüfungszeugnis.
@@ -1511,6 +1569,7 @@ Zwischenprüfungszeugnis zurückzugeben.
 
 
 ##### § 48 Bescheid über die nichtbestandene Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005000000)
 
 (1) Wer die Zwischenprüfung nicht bestanden hat, erhält einen
 schriftlichen oder elektronischen Bescheid über die nichtbestandene
@@ -1524,20 +1583,24 @@ Ausbildungsabschnitten erreicht worden sind.
 
 
 #### Unterabschnitt 2 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG001000000)
 
 
 ##### § 49 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005100000)
 
 Die Laufbahnprüfung findet am Ende des Laufbahnlehrgangs statt.
 
 
 ##### § 50 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005200000)
 
 Für die Organisation und Durchführung der Laufbahnprüfung ist das
 Prüfungsamt zuständig.
 
 
 ##### § 51 Einrichtung der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005300000)
 
 (1) Für die Abnahme und Bewertung der Laufbahnprüfung richtet das
 Prüfungsamt eine Prüfungskommission ein.
@@ -1549,6 +1612,7 @@ Bewertungsmaßstab anlegen.
 
 
 ##### § 52 Mitglieder der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005400000)
 
 (1) Die Prüfungskommission für die Laufbahnprüfung besteht aus
 
@@ -1591,6 +1655,7 @@ Entscheidungen unabhängig und nicht weisungsgebunden.
 
 
 ##### § 53 Entscheidungen der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005500000)
 
 (1) Die Prüfungskommission der Laufbahnprüfung ist beschlussfähig,
 wenn die oder der Vorsitzende sowie mindestens zwei Prüfende anwesend
@@ -1603,6 +1668,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ##### § 54 Bestandteile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005600000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -1616,6 +1682,7 @@ Die Laufbahnprüfung besteht aus
 
 
 ##### § 55 Gegenstand und Durchführung der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005700000)
 
 (1) Die schriftliche Prüfung der Laufbahnprüfung besteht aus vier
 Klausuren.
@@ -1660,6 +1727,7 @@ Klausuren bekannt gegeben werden.
 
 
 ##### § 56 Bewertung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005800000)
 
 (1) Eine Klausur der Laufbahnprüfung wird von einer oder einem
 Prüfenden der Prüfungskommission bewertet.
@@ -1693,6 +1761,7 @@ Note zugeordnet.
 
 
 ##### § 57 Bestehen der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE005900000)
 
 Die schriftliche Prüfung der Laufbahnprüfung hat bestanden, wer in
 mindestens zwei Klausuren der schriftlichen Prüfung der
@@ -1700,6 +1769,7 @@ Laufbahnprüfung jeweils mindestens fünf Rangpunkte erreicht hat.
 
 
 ##### § 58 Zulassung zur mündlichen Prüfung; Folge der Nichtzulassung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006001311)
 
 (1) Zur mündlichen Prüfung der Laufbahnprüfung ist zugelassen, wer
 
@@ -1765,6 +1835,7 @@ Laufbahnprüfung als nicht bestanden.
 
 
 ##### § 59 Gegenstand, Durchführung und Protokoll der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006100000)
 
 (1) Die Prüfungsfächer der mündlichen Prüfung der Laufbahnprüfung sind
 
@@ -1819,6 +1890,7 @@ unterschreiben.
 
 
 ##### § 60 Bewertung und Rangpunktzahl der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006200000)
 
 (1) Die geprüften Fächer der mündlichen Prüfung werden einzeln
 bewertet.
@@ -1833,6 +1905,7 @@ das Ergebnis mit und erläutert es.
 
 
 ##### § 61 Anwesenheit weiterer Personen bei der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006301311)
 
 (1) Die mündliche Prüfung der Laufbahnprüfung ist nicht öffentlich.
 
@@ -1869,12 +1942,14 @@ die Protokollführerin oder der Protokollführer anwesend sein.
 
 
 ##### § 62 Bestehen der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006400000)
 
 Die mündliche Prüfung der Laufbahnprüfung ist bestanden, wenn die
 Rangpunktzahl der mündlichen Prüfung mindestens 5,00 beträgt.
 
 
 ##### § 63 Bestehen und Rangpunktzahl der Laufbahnprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006500000)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -1960,6 +2035,7 @@ zugeordnete Note ist die Abschlussnote.
 
 
 ##### § 64 Wiederholung der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006601311)
 
 (1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht
 bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der
@@ -1986,6 +2062,7 @@ nicht bestanden.
 
 
 ##### § 65 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006700000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
 Abschlusszeugnis.
@@ -2016,6 +2093,7 @@ zurückzugeben.
 
 
 ##### § 66 Bescheid über die nichtbestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006800000)
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält einen
 schriftlichen oder elektronischen Bescheid über die nichtbestandene
@@ -2029,9 +2107,11 @@ Ausbildungsabschnitten erreicht worden sind.
 
 
 #### Unterabschnitt 3 - Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG001100000)
 
 
 ##### § 67 Fernbleiben und Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE006900000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung
 oder einem Prüfungsteil gilt diese Prüfung oder dieser Prüfungsteil
@@ -2048,6 +2128,7 @@ unverzüglich ein ärztliches Attest vorgelegt wird.
 
 
 ##### § 68 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE007000000)
 
 (1) Anwärterinnen und Anwärtern, die bei einer Prüfung oder einem
 Prüfungsteil täuschen, eine Täuschung versuchen, an einer Täuschung
@@ -2095,6 +2176,7 @@ anzuhören.
 
 
 ##### § 69 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE007100000)
 
 (1) Zu jeder Anwärterin und jedem Anwärter wird eine Prüfungsakte
 geführt.
@@ -2142,15 +2224,18 @@ Die Einsichtnahme wird in der Prüfungsakte vermerkt.
 
 
 ##### § 70 Zuständigkeit für die Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE007200000)
 
 Über Widersprüche gegen Entscheidungen, die auf Grund dieser
 Verordnung getroffen werden, entscheidet das Prüfungsamt.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNG001200000)
 
 
 ### § 71 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE007300000)
 
 (1) Für Anwärterinnen und Anwärter, die den Vorbereitungsdienst für
 den mittleren Polizeivollzugsdienst in der Bundespolizei vor dem 1.
@@ -2175,6 +2260,7 @@ Laufbahnprüfung ein.
 
 
 ### § 72 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mbpolvdvdv/BJNR050600020.html#BJNR050600020BJNE007400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. März 2020 in Kraft.
 Gleichzeitig tritt die Verordnung über die Ausbildung und Prüfung für

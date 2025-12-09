@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000207116)
 
 (1) Unter der Bezeichnung „Paul-Ehrlich-Institut“ unterhält der Bund
 ein Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel als
@@ -170,11 +172,13 @@ nach den Sätzen 7 und 8 zu rechnen ist.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000300311)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000400311)
 
 (1) Mit Inkrafttreten dieses Gesetzes werden die Beamten der
 hessischen "Staatliche Anstalt für experimentelle Therapie - Paul-
@@ -199,6 +203,7 @@ Hinterbliebenen gilt § 180 Abs. 4 des Bundesbeamtengesetzes.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000500311)
 
 (1) Für Arzneimittel nach §
 19a Abs. 1 und § 19d des Arzneimittelgesetzes, die sich beim
@@ -223,11 +228,13 @@ Institut das Arzneimittel davon freistellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000601310)
 
 (weggefallen)
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/basig/BJNR011630972.html#BJNR011630972BJNE000700311)
 
 Das Gesetz tritt am 1. November 1972 in Kraft.
 

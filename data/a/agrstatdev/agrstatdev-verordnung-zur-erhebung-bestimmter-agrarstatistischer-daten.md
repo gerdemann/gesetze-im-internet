@@ -31,6 +31,7 @@ Dezember 2024 (ABl. L, 2025/405, 26.2.2025) geändert worden ist
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrstatdev/BJNR09F0A0025.html#BJNR09F0A0025BJNE000100000)
 
 Das Bundesministerium für Landwirtschaft, Ernährung und Heimat
 verordnet aufgrund des § 94a Nummer 1 Buchstabe c des
@@ -44,6 +45,7 @@ und dem Organisationserlass vom 6. Mai 2025 (BGBl. 2025 I Nr. 131):
 
 
 ## § 1 Ergänzung der Bodennutzungshaupterhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatdev/BJNR09F0A0025.html#BJNR09F0A0025BJNE000200000)
 
 Im Rahmen der Bodennutzungshaupterhebung nach den §§ 6 bis 8 des
 Agrarstatistikgesetzes werden im Jahr 2025 die Merkmale nach § 8
@@ -54,16 +56,19 @@ Verordnung (EU) 2018/848.
 
 
 ## § 2 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatdev/BJNR09F0A0025.html#BJNR09F0A0025BJNE000300000)
 
 Diese Verordnung tritt mit Ablauf des Jahres 2025 außer Kraft.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatdev/BJNR09F0A0025.html#BJNR09F0A0025BJNE000400000)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/agrstatdev/BJNR09F0A0025.html#BJNR09F0A0025BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

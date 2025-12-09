@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sichkvv/BJNR117100006.html#BJNR117100006BJNE000100000)
 
 Auf Grund des § 127 Abs. 1 des Versicherungsaufsichtsgesetzes in der
 Fassung der Bekanntmachung vom 17. Dezember 1992 (BGBl. 1993 I S. 2),
@@ -31,6 +32,7 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sichkvv/BJNR117100006.html#BJNR117100006BJNE000200000)
 
 Der Medicator AG werden die Aufgaben und Befugnisse eines
 Sicherungsfonds für die in § 124 Abs. 1 des
@@ -39,12 +41,14 @@ Krankenversicherungsunternehmen übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sichkvv/BJNR117100006.html#BJNR117100006BJNE000300000)
 
 Die Medicator AG hat dem Bundesministerium der Finanzen Änderungen
 ihrer Satzung zur Genehmigung vorzulegen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sichkvv/BJNR117100006.html#BJNR117100006BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

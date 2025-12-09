@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000100000)
 
 Auf Grund des § 65 Abs. 1 Nr. 2 bis 10 und 13 sowie des § 138 Abs. 1
 des Markengesetzes vom 25. Oktober 1994 (BGBl. 1994 I S. 3084, 1995 I
@@ -30,10 +31,12 @@ I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
 
 ## Teil 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000100000)
 
 
 
 ### § 1 Verfahren in Markenangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000300000)
 
 (1) Für die im Markengesetz geregelten Verfahren vor dem Deutschen
 Patent- und Markenamt (Markenangelegenheiten) gelten ergänzend zu den
@@ -46,14 +49,17 @@ Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
 
 ## Teil 2 - Verfahren bis zur Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000200000)
 
 
 
 ### Abschnitt 1 - Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000300000)
 
 
 
 #### § 2 Form der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000404360)
 
 (1) Die Anmeldung kann schriftlich oder elektronisch eingereicht
 werden. Für die schriftliche Anmeldung ist das vom Deutschen Patent-
@@ -65,6 +71,7 @@ Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
 
 #### § 3 Inhalt der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000502360)
 
 (1) Die Anmeldung muss enthalten:
 
@@ -98,6 +105,7 @@ Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
 
 #### § 4 Anmeldung von Kollektiv- oder Gewährleistungsmarken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000601360)
 
 (1) Falls die Eintragung als Kollektiv- oder Gewährleistungsmarke
 beantragt wird, muss eine entsprechende Erklärung bei der Anmeldung
@@ -115,6 +123,7 @@ Eintragung.
 
 
 #### § 5 Angaben zum Anmelder und zu seinem Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000704360)
 
 (1) Die Anmeldung muss zum Anmelder folgende Angaben enthalten:
 
@@ -166,6 +175,7 @@ zugeteilt, so soll diese zusätzlich angegeben werden.
 
 
 #### § 6 Angaben zur Markenform
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000802360)
 
 In der Anmeldung ist anzugeben, ob die Marke als
 
@@ -196,6 +206,7 @@ in das Register eingetragen werden soll.
 
 
 #### § 6a Markendarstellung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE006701360)
 
 (1) Die Marke bedarf einer Darstellung, die den Erfordernissen des § 8
 Absatz 1 des Markengesetzes genügt. Die Darstellung kann in Papierform
@@ -225,6 +236,7 @@ maßgeblich.
 
 
 #### § 6b Markenbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE006900360)
 
 (1) Für alle Markenformen außer Wortmarken im Sinne des § 7 kann mit
 der Markenanmeldung zur Erläuterung der Markendarstellung eine
@@ -245,6 +257,7 @@ keine grafischen oder sonstigen Gestaltungselemente enthalten.
 
 
 #### § 7 Wortmarken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE000901123)
 
 Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent-
 und Markenamt verwendeten üblichen Druckschrift eingetragen werden
@@ -255,6 +268,7 @@ Internetseite www.dpma.de bekannt gegeben.
 
 
 #### § 8 Bildmarken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001004360)
 
 (1) Wenn der Anmelder angibt, dass die Marke als Wort-Bild-Marke oder
 reine Bildmarke eingetragen werden soll, so ist der Anmeldung eine
@@ -297,6 +311,7 @@ nicht von selbst ergibt.
 
 
 #### § 9 Dreidimensionale Marken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001104360)
 
 (1) Wenn der Anmelder angibt, dass die Marke als dreidimensionale
 Marke eingetragen werden soll, so ist der Anmeldung eine Darstellung
@@ -321,6 +336,7 @@ entsprechend.
 
 
 #### § 10 Farbmarken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001202360)
 
 (1) Wenn der Anmelder angibt, dass die Marke als Farbmarke eingetragen
 werden soll, so ist der Anmeldung einer einfarbigen abstrakten
@@ -338,6 +354,7 @@ festgelegter und beständiger Weise verbunden sind.
 
 
 #### § 11 Klangmarken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001305360)
 
 (1) Wenn der Anmelder angibt, dass die Marke als Klangmarke
 eingetragen werden soll, so ist der Anmeldung eine Darstellung auf
@@ -352,6 +369,7 @@ entsprechend.
 
 
 #### § 12 Positionsmarken, Kennfadenmarken, Mustermarken, Bewegungsmarken, Multimediamarken, Hologrammmarken
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001404360)
 
 (1) Wenn der Anmelder angibt, dass die Marke als Positionsmarke,
 Kennfadenmarke, Mustermarke, Bewegungsmarke, Multimediamarke oder als
@@ -363,6 +381,7 @@ Absatz 1 des Markengesetzes genügt.
 
 
 #### § 12a Sonstige Markenformen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007000360)
 
 (1) Meldet der Anmelder eine Marke an, die nicht unter die
 Markenformen der §§ 7 bis 12 fällt, kann die Marke als sonstige Marke
@@ -376,16 +395,19 @@ entsprechend.
 
 
 #### § 13 Muster und Modelle
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001501360)
 
 Der Anmeldung dürfen keine Muster oder Modelle der mit der Marke
 versehenen Gegenstände oder der Marke selbst beigefügt werden.
 
 
 #### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001603123)
 
 
 
 #### § 15 Fremdsprachige Anmeldungen, Darstellungen mit nichtlateinischen Schriftzeichen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001703360)
 
 (1) Anmeldungen, die in fremder Sprache eingereicht werden, wird ein
 Anmeldetag nach § 33 Absatz 1 des Markengesetzes zuerkannt, sofern die
@@ -421,6 +443,7 @@ Deutschen Patent- und Markenamt finden auf Grundlage der deutschen
 
 
 #### § 16 Fremdsprachige Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001801123)
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
 einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
@@ -459,6 +482,7 @@ eingegangen.
 
 
 #### § 17 Berufung auf eine im Ursprungsland eingetragene Marke
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE001900000)
 
 (1) Beruft sich der Anmelder auf eine im Ursprungsland eingetragene
 Marke nach Artikel 6
@@ -470,6 +494,7 @@ Bescheinigung über die Eintragung im Ursprungsland vorzulegen.
 
 
 #### § 18 Verschiebung des Zeitrangs bei Verkehrsdurchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002000000)
 
 Ergibt sich bei der Prüfung, dass die Voraussetzungen für die
 Verschiebung des Zeitrangs nach § 37 Abs. 2 des Markengesetzes gegeben
@@ -480,10 +505,12 @@ für die Bestimmung des Zeitrangs maßgeblich ist. Der Anmeldetag nach §
 
 
 ### Abschnitt 2 - Klasseneinteilung von Waren und Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000400000)
 
 
 
 #### § 19 Klassifizierung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002102360)
 
 Die Klassifizierung der Waren und Dienstleistungen richtet sich nach
 der vom Deutschen Patent- und Markenamt im Bundesanzeiger bekannt
@@ -496,6 +523,7 @@ Dienstleistungen für die Eintragung von Marken (BGBl. 1981 II S. 358,
 
 
 #### § 20 Verzeichnis der Waren und Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002204360)
 
 (1) Die Waren und Dienstleistungen sind so zu bezeichnen, dass die
 Klassifizierung jeder einzelnen Ware oder Dienstleistung in eine
@@ -524,6 +552,7 @@ Zeilenabstand von eineinhalb Zeilen abzufassen.
 
 
 #### § 21 Entscheidung über die Klassifizierung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002300000)
 
 (1) Sind die Waren und Dienstleistungen in der Anmeldung nicht
 zutreffend klassifiziert, so entscheidet das Deutsche Patent- und
@@ -538,14 +567,17 @@ Gebührenzahlung.
 
 
 #### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002402360)
 
 
 
 ### Abschnitt 3 - Veröffentlichung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000500000)
 
 
 
 #### § 23 Veröffentlichungen zur Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002502123)
 
 (1) Die Veröffentlichung der Anmeldung einer Marke umfasst folgende
 Angaben:
@@ -614,10 +646,12 @@ umfasst die Veröffentlichung zusätzlich folgende Angaben:
 
 
 ## Teil 3 - Register, Urkunde, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000600000)
 
 
 
 ### § 24 Ort und Form des Registers
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002600000)
 
 (1) Das Register wird beim Deutschen Patent- und Markenamt geführt.
 
@@ -626,6 +660,7 @@ elektronischen Datenbank betrieben.
 
 
 ### § 25 Inhalt des Registers
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002708360)
 
 In das Register werden eingetragen:
 
@@ -865,6 +900,7 @@ In das Register werden eingetragen:
 
 
 ### § 26 Urkunde, Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002801360)
 
 Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung
 der Marke in das Register nach § 25 der DPMA-Verordnung eine
@@ -874,6 +910,7 @@ einen Verweis auf das Markenregister ersetzt.
 
 
 ### § 27 Veröffentlichungen zu Eintragungen im Register
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE002902360)
 
 (1) Eintragungen im Register gemäß § 25 werden in regelmäßig
 erscheinenden Übersichten vom Deutschen Patent- und Markenamt
@@ -895,18 +932,22 @@ Sätzen 1 und 2 veröffentlicht werden, gemeinsam erfolgen.
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003001123)
 
 
 
 ## Teil 4 - Einzelne Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000700000)
 
 
 
 ### Abschnitt 1 - Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000800000)
 
 
 
 #### § 29 Form des Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003102360)
 
 (1) Für jede Marke, geschäftliche Bezeichnung, geschützte
 Ursprungsbezeichnung oder geografische Angabe, wegen der gegen die
@@ -920,6 +961,7 @@ und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 
 #### § 30 Inhalt des Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003202360)
 
 (1) Der Widerspruch muss Angaben enthalten, die es erlauben, die
 Identität der angegriffenen Marke, des Widerspruchskennzeichens sowie
@@ -985,11 +1027,13 @@ Identitätsfeststellung nach Absatz 1 erforderlich, angegeben werden:
 
 
 #### § 31 Gemeinsame Entscheidung über mehrere Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003301360)
 
 Über mehrere Widersprüche kann gemeinsam entschieden werden.
 
 
 #### § 32 Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003401360)
 
 (1) Das Deutsche Patent- und Markenamt kann das Verfahren über einen
 Widerspruch außer in den in § 43 Abs. 3 des Markengesetzes genannten
@@ -1003,10 +1047,12 @@ ist.
 
 
 ### Abschnitt 2 - Teilübergang, Teilung von Anmeldungen und Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG000900000)
 
 
 
 #### § 33 Teilübergang einer eingetragenen Marke
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003501123)
 
 (1) Betrifft der Übergang des durch die Eintragung einer Marke
 begründeten Rechts nur einen Teil der eingetragenen Waren und
@@ -1018,6 +1064,7 @@ Dienstleistungen anzugeben, auf die sich der Rechtsübergang bezieht.
 
 
 #### § 34 Rechtsübergang, dingliche Rechte, Insolvenzverfahren und Maßnahmen der Zwangsvollstreckung bei Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003603123)
 
 (1) Der Übergang von Rechten, dingliche Rechte, Maßnahmen der
 Zwangsvollstreckung oder Insolvenzverfahren werden in den Akten der
@@ -1039,6 +1086,7 @@ und 6 entsprechend anzuwenden.
 
 
 #### § 35 Teilung von Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003701123)
 
 (1) Eine angemeldete Marke kann nach § 40 Abs. 1 des Markengesetzes in
 zwei oder mehrere Anmeldungen geteilt werden. Für jeden abgetrennten
@@ -1075,6 +1123,7 @@ auch für die abgetrennte Anmeldung fort.
 
 
 #### § 36 Teilung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003801123)
 
 (1) Eine eingetragene Marke kann nach § 46 Abs. 1 des Markengesetzes
 in zwei oder mehrere Eintragungen geteilt werden. Für jeden
@@ -1122,10 +1171,12 @@ zurückgewiesen.
 
 
 ### Abschnitt 3 - Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001000000)
 
 
 
 #### § 37 Verlängerung durch Gebührenzahlung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE003900000)
 
 Bei der Zahlung der Verlängerungsgebühren nach § 47 Abs. 3 des
 Markengesetzes sind die Registernummer und der Name des Inhabers der
@@ -1133,6 +1184,7 @@ Marke sowie der Verwendungszweck anzugeben.
 
 
 #### § 38 Antrag auf teilweise Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004000000)
 
 (1) Soll die Verlängerung der Schutzdauer einer eingetragenen Marke
 nur für einen Teil der Waren und Dienstleistungen bewirkt werden, für
@@ -1160,10 +1212,12 @@ entsprechenden Antrag stellen.
 
 
 ### Abschnitt 4 - Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001100000)
 
 
 
 #### § 39 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004100000)
 
 (1) Der Antrag auf vollständige oder teilweise Löschung einer Marke
 nach § 48 Abs. 1 des Markengesetzes soll unter Verwendung des vom
@@ -1192,6 +1246,7 @@ werden.
 
 
 #### § 40 Zustimmung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004200000)
 
 Für die nach § 48 Abs. 2 des Markengesetzes erforderliche Zustimmung
 eines im Register eingetragenen Inhabers eines Rechts an der Marke
@@ -1202,10 +1257,12 @@ kann auch auf andere Weise nachgewiesen werden.
 
 
 ### Abschnitt 5 - Löschung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001200000)
 
 
 
 #### § 41 Verfall
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004301360)
 
 (1) Der Antrag auf Erklärung des Verfalls einer Marke nach § 53 Absatz
 1 des Markengesetzes soll unter Verwendung des vom Deutschen Patent-
@@ -1238,6 +1295,7 @@ und Markenamt herausgegebenen Formblatts gestellt werden.
 
 
 #### § 42 Nichtigkeit wegen absoluter Schutzhindernisse und älterer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004401360)
 
 (1) Für den Antrag auf Nichtigkeit wegen absoluter Schutzhindernisse
 und älterer Rechte nach § 53 Absatz 1 des Markengesetzes gilt § 41
@@ -1297,10 +1355,12 @@ anzugeben:
 
 
 ### Abschnitt 6 - Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001900360)
 
 
 
 #### § 42a Eintragung einer Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007100360)
 
 (1) Der Antrag auf Eintragung der Erteilung einer Lizenz nach § 30
 Absatz 6 Satz 1 des Markengesetzes soll unter Verwendung des vom
@@ -1339,6 +1399,7 @@ des Markeninhabers oder des Lizenznehmers bedarf der Schriftform.
 
 
 #### § 42b Änderung oder Löschung einer Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007200360)
 
 Der Antrag auf Änderung oder Löschung einer nach § 30 Absatz 6 des
 Markengesetzes eingetragenen Lizenz muss die Registernummer der Marke
@@ -1347,6 +1408,7 @@ soll, enthalten.
 
 
 #### § 42c Erklärung der Lizenzierungs- oder Veräußerungsbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007300360)
 
 (1) Der Anmelder oder der im Register eingetragene Markeninhaber kann
 gegenüber dem Deutschen Patent- und Markenamt seine unverbindliche
@@ -1364,13 +1426,16 @@ Patent- und Markenamt schriftlich zurückgenommen werden.
 
 
 ## Teil 5 - Internationale Registrierungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001300000)
 
 
 
 ### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004502360)
 
 
 ### § 44 Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004601140)
 
 Für Anträge und für sonstige Mitteilungen im Verfahren der
 internationalen Registrierung einer beim Deutschen Patent- und
@@ -1381,9 +1446,11 @@ herausgegebenen amtlichen Formblätter zu verwenden.
 
 
 ### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004702360)
 
 
 ### § 46 Schutzverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004801360)
 
 (1) Wird einer international registrierten Marke, deren Schutz nach
 Artikel
@@ -1409,14 +1476,17 @@ ist entsprechend anzuwenden.
 
 
 ## Teil 6 - Verfahren nach der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001404360)
 
 
 
 ### Abschnitt 1 - Eintragungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001601140)
 
 
 
 #### § 47 Eintragungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE004904360)
 
 (1) Der Antrag auf Eintragung einer geografischen Angabe oder einer
 Ursprungsbezeichnung nach Artikel 9 der Verordnung (EU) 2024/1143 des
@@ -1458,6 +1528,7 @@ herausgegebenen Formblatts eingereicht werden.
 
 
 #### § 48 Veröffentlichung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005004360)
 
 (1) In der Veröffentlichung des Antrags (§ 130 Abs. 4 des
 Markengesetzes) sind mindestens anzugeben:
@@ -1488,6 +1559,7 @@ Absatz 4 der Verordnung (EU) 2024/1143 hinzuweisen.
 
 
 #### § 49 Nationaler Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005104360)
 
 (1) Der Einspruch nach § 130 Abs. 4 des Markengesetzes in Verbindung
 mit Artikel 10 Absatz 4 der Verordnung (EU) 2024/1143 soll unter
@@ -1518,10 +1590,12 @@ Formblatts eingereicht werden.
 
 
 ### Abschnitt 2 - Zwischenstaatliches Einspruchsverfahren nach § 131 des Markengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001702123)
 
 
 
 #### § 50 Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005204360)
 
 (1) Der Einspruch nach § 131 des Markengesetzes in Verbindung mit
 Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143 soll unter
@@ -1557,6 +1631,7 @@ begründen. Die Gründe nach Artikel 19 Absatz 1 der Verordnung (EU)
 
 
 #### § 51 Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005304123)
 
 Das Deutsche Patent- und Markenamt unterrichtet unverzüglich nach
 Ablauf der Einspruchsfrist das Bundesministerium der Justiz und für
@@ -1566,10 +1641,12 @@ Einspruchsbegründungen werden unverzüglich weitergeleitet.
 
 
 ### Abschnitt 3 - Änderungen der Spezifikation; Löschung; Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001801140)
 
 
 
 #### § 52 Änderungen der Spezifikation
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005404360)
 
 (1) Der Antrag auf Änderung der Spezifikation gemäß Artikel 24 der
 Verordnung (EU) 2024/1143 soll unter Verwendung des vom Deutschen
@@ -1608,6 +1685,7 @@ gelten im Übrigen die §§ 48 bis 51 entsprechend.
 
 
 #### § 53 Löschungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005504360)
 
 (1) Der Antrag auf Löschung einer eingetragenen geografischen Angabe
 oder Ursprungsbezeichnung nach Artikel 25 Absatz 1 und 2 der
@@ -1638,20 +1716,24 @@ Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
 
 #### § 54 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005604360)
 
 In den Verfahren nach der Verordnung (EU) 2024/1143 gewährt das
 Deutsche Patent- und Markenamt Einsicht in die Akten.
 
 
 #### § 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005702140)
 
 
 
 ## Teil 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNG001500000)
 
 
 
 ### § 56 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005800000)
 
 Für Markenanmeldungen, die vor Inkrafttreten dieser Verordnung
 eingereicht worden sind, gelten die Vorschriften der Markenverordnung
@@ -1660,6 +1742,7 @@ Verordnung vom 1. September 2003 (BGBl. I S. 1701).
 
 
 ### § 57 Übergangsregelung für künftige Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE005900000)
 
 Für Markenanmeldungen, die vor Inkrafttreten von Änderungen dieser
 Verordnung eingereicht worden sind, gelten die Vorschriften dieser
@@ -1667,6 +1750,7 @@ Verordnung in ihrer bis dahin geltenden Fassung.
 
 
 ### § 57a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE007400360)
 
 Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
 2024/1143 enthaltenen Übergangsbestimmungen Vorschriften der
@@ -1680,6 +1764,7 @@ bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/markenv_2004/BJNR087200004.html#BJNR087200004BJNE006000000)
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.
 

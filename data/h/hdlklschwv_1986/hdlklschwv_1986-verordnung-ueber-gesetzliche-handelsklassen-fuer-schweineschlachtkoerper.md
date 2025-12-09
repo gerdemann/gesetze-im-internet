@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gesetzliche Handelsklassen
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000109119)
 
 Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang
 IV Teil B der Verordnung (EU) Nr. 1308/2013 des Europäischen
@@ -37,6 +38,7 @@ worden ist, sowie die in Anlage 1 bezeichneten Handelsklassen.
 
 
 ## § 2 Einstufung in Handelsklassen
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000211119)
 
 (1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes,
 die pro Woche durchschnittlich mehr als 500 Schweine schlachten oder
@@ -108,6 +110,7 @@ des Schlachtkörpers seine Gültigkeit.
 
 
 ## § 3 Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000407125)
 
 (1) Der Klassifizierer hat dafür zu sorgen, dass für jeden einzelnen
 Schlachtkörper unverzüglich nach der Ermittlung des
@@ -129,6 +132,7 @@ aufzubewahren.
 
 
 ## § 4 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000509125)
 
 (1) Klassifizierte Schweineschlachtkörper sind vom Klassifizierer bei
 der Einstufung deutlich lesbar durch Stempelaufdruck oder durch von
@@ -149,6 +153,7 @@ sind.
 
 
 ## § 4a Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE001300119)
 
 Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
 die zuständige Behörde die Daten nach Abschnitt III der Anlage des
@@ -156,6 +161,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000610125)
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -204,6 +210,7 @@ Schweineschlachtkörper entfernt.
 
 
 ## § 6 Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000703125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
@@ -238,6 +245,7 @@ prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## Anlage 1 (zu § 1, § 2 Absatz 1 und § 4 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE000803377)
 
 (Fundstelle: BGBl. I 2011, 1916)
 
@@ -310,6 +318,7 @@ prüfen zu lassen und Auskünfte zu erteilen.
 (zu § 2 Absatz 5 Nummer 2)
 
 ## Anlage 2 Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE001106377)
 
 (Fundstelle: BGBl. I 2011, 1917)
 
@@ -376,6 +385,7 @@ Rippe
 (zu § 2 Absatz 5 Nummer 3)
 
 ## Anlage 3 Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschwv_1986/BJNR126240986.html#BJNR126240986BJNE001210125)
 
 (Fundstelle: BGBl. I 2011, 1918;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

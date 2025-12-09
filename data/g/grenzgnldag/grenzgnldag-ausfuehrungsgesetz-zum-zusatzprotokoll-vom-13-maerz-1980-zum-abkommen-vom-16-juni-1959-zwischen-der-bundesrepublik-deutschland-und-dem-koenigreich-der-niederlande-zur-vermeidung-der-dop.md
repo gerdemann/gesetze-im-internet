@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000204301)
 
 (1) Arbeitnehmer mit Wohnsitz im Königreich der Niederlande werden
 abweichend von § 39d Abs. 1 des Einkommensteuergesetzes für die
@@ -75,6 +76,7 @@ sinngemäß anzuwenden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000304301)
 
 (1) Bei Arbeitnehmern mit Wohnsitz im Königreich der Niederlande,
 deren Summe der Einkünfte im Kalenderjahr mindestens zu 90 vom Hundert
@@ -141,6 +143,7 @@ Einkommensteuergesetzes, findet dieses Gesetz keine Anwendung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000403301)
 
 Bei Arbeitnehmern, die die Voraussetzungen des § 2 erfüllen, sind auf
 Antrag in der Bescheinigung nach § 39d des Einkommensteuergesetzes
@@ -152,6 +155,7 @@ Einkommensteuergesetzes ist sinngemäß anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000502301)
 
 Arbeitnehmer, denen die Steuerklasse III bescheinigt worden ist oder
 bei denen ein Freibetrag nach § 2 berücksichtigt worden ist, sind
@@ -162,6 +166,7 @@ Einkommensteuergesetzes sinngemäß anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000604301)
 
 Arbeitnehmer, die die Voraussetzungen des § 2 erfüllen, können
 hinsichtlich ihrer Einkünfte aus nichtselbständiger Arbeit eine
@@ -179,6 +184,7 @@ Nr. 2 der Vorschrift einzubeziehen sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000703301)
 
 (1) Für die Eintragung der Steuerklasse und eines Freibetrags ist das
 Betriebsstättenfinanzamt (§ 41a Abs. 1 Nr. 1 des
@@ -203,6 +209,7 @@ einkommensteuerpflichtige Arbeitnehmer seinen Wohnsitz hat.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000804301)
 
 Bei einem verheirateten Arbeitnehmer mit Wohnsitz im Königreich der
 Niederlande, der
@@ -229,6 +236,7 @@ Eintragung der Steuerklassen III und IV das Finanzamt zuständig.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE000905301)
 
 Dieses Gesetz ist erstmals für das Kalenderjahr 1994 anzuwenden. Beim
 Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, daß das
@@ -239,6 +247,7 @@ zufließen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE001200301)
 
 Dieses Gesetz ist letztmals für das Kalenderjahr 1995 anzuwenden. Beim
 Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, daß das
@@ -248,6 +257,7 @@ wird, und auf sonstige Bezüge, die vor dem 1. Januar 1996 zufließen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/grenzgnldag/BJNR019990980.html#BJNR019990980BJNE001101309)
 
 (Inkrafttreten)
 

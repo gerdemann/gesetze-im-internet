@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2014/BJNR189900014.html#BJNR189900014BJNE000100000)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
 der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
@@ -50,11 +51,13 @@ Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160,
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2014/BJNR189900014.html#BJNR189900014BJNE000200000)
 
 Der Bundesminister des Innern
 
 
 ## Anhang 1 zu Nummer 1 Grundgehaltssätze
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2014/BJNR189900014.html#BJNR189900014BJNE000300000)
 
 (Fundstelle: BGBl. I 2014, 1900 - 1901)
 
@@ -686,6 +689,7 @@ Gültig ab 1. März 2014
 [^f787592_03_BJNR189900014BJNE000300000]: 
 
 ## Anhang 2 zu Nummer 2
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2014/BJNR189900014.html#BJNR189900014BJNE000400000)
 
 (Fundstelle: BGBl. I 2014, 1902 - 1911)
 
@@ -4114,6 +4118,7 @@ Amtszulagen, Stellenzulagen, Zulagen
 [^f787592_05_01_BJNR189900014BJNE000400000]: 
 
 ## Anhang 3 zu Nummer 3
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2014/BJNR189900014.html#BJNR189900014BJNE000500000)
 
 (Fundstelle: BGBl. I 2014, 1912 - 1915)
 
@@ -5459,6 +5464,7 @@ gehobenen Dienstes sowie für Offiziere um 9,01 Euro.
 
 
 ## Anhang 4 zu Nummer 4
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2014/BJNR189900014.html#BJNR189900014BJNE000600000)
 
 (Fundstelle: BGBl. I 2014, 1916 - 1917)
 

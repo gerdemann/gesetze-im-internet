@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000100325)
 
 Auf Grund des § 27 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
@@ -27,6 +28,7 @@ Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
 
 
 ## § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000201119)
 
 (1) Soweit Fernwärmeversorgungsunternehmen für den Anschluß an die
 Fernwärmeversorgung und für die Versorgung mit Fernwärme
@@ -56,6 +58,7 @@ Preislisten in geeigneter Weise öffentlich bekanntzugeben.
 
 
 ## § 1a Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE004000119)
 
 (1) Das Fernwärmeversorgungsunternehmen hat in leicht zugänglicher und
 allgemein verständlicher Form in jeweils aktueller Fassung seine
@@ -73,6 +76,7 @@ Versorger für eigene Einrichtungen entnommenen Wärme.
 
 
 ## § 2 Vertragsabschluß
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000300325)
 
 (1) Der Vertrag soll schriftlich abgeschlossen werden. Ist er auf
 andere Weise zustande gekommen, so hat das
@@ -96,6 +100,7 @@ unentgeltlich auszuhändigen.
 
 
 ## § 3 Anpassung der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000402119)
 
 (1) Das Fernwärmeversorgungsunternehmen hat dem Kunden die Möglichkeit
 einzuräumen, eine Anpassung der vertraglich vereinbarten Wärmeleistung
@@ -114,6 +119,7 @@ erneuerbare Energien eingesetzt werden sollen.
 
 
 ## § 4 Art der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000500325)
 
 (1) Das Fernwärmeversorgungsunternehmen stellt zu den jeweiligen
 allgemeinen Versorgungsbedingungen Dampf, Kondensat oder Heizwasser
@@ -142,6 +148,7 @@ Vorkehrungen zu treffen.
 
 
 ## § 5 Umfang der Versorgung, Benachrichtigung bei Versorgungsunterbrechungen
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000600325)
 
 (1) Das Fernwärmeversorgungsunternehmen ist verpflichtet, Wärme im
 vereinbarten Umfang jederzeit an der Übergabestelle zur Verfügung zu
@@ -180,6 +187,7 @@ Benachrichtigung entfällt, wenn die Unterrichtung
 
 
 ## § 6 Haftung bei Versorgungsstörungen
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000701377)
 
 (1) Für Schäden, die ein Kunde durch Unterbrechung der
 Fernwärmeversorgung oder durch Unregelmäßigkeiten in der Belieferung
@@ -240,11 +248,13 @@ Verpflichtung auch dem Dritten aufzuerlegen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000801377)
 
 (weggefallen)
 
 
 ## § 8 Grundstücksbenutzung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE000900325)
 
 (1) Kunden und Anschlußnehmer, die Grundstückseigentümer sind, haben
 für Zwecke der örtlichen Versorgung das Anbringen und Verlegen von
@@ -294,6 +304,7 @@ sind.
 
 
 ## § 9 Baukostenzuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001000325)
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, von den
 Anschlußnehmern einen angemessenen Baukostenzuschuß zur teilweisen
@@ -330,6 +341,7 @@ aufgegliedert auszuweisen.
 
 
 ## § 10 Hausanschluß
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001100325)
 
 (1) Der Hausanschluß besteht aus der Verbindung des Verteilungsnetzes
 mit der Kundenanlage. Er beginnt an der Abzweigstelle des
@@ -391,6 +403,7 @@ Verpflichtungen beizubringen.
 
 
 ## § 11 Übergabestation
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001200325)
 
 (1) Das Fernwärmeversorgungsunternehmen kann verlangen, daß der
 Anschlußnehmer unentgeltlich einen geeigneten Raum oder Platz zur
@@ -404,6 +417,7 @@ Anschlußnehmer zumutbar ist.
 
 
 ## § 12 Kundenanlage
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001300325)
 
 (1) Für die ordnungsgemäße Errichtung, Erweiterung, Änderung und
 Unterhaltung der Anlage hinter dem Hausanschluß, mit Ausnahme der Meß-
@@ -432,6 +446,7 @@ Voraussetzungen erfüllt sind.
 
 
 ## § 13 Inbetriebsetzung der Kundenanlage
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001400325)
 
 (1) Das Fernwärmeversorgungsunternehmen oder dessen Beauftragte
 schließen die Anlage an das Verteilungsnetz an und setzen sie in
@@ -447,6 +462,7 @@ berechnet werden.
 
 
 ## § 14 Überprüfung der Kundenanlage
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001500325)
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, die
 Kundenanlage vor und nach ihrer Inbetriebsetzung zu überprüfen. Es hat
@@ -467,6 +483,7 @@ festgestellt hat, die eine Gefahr für Leib oder Leben darstellen.
 
 
 ## § 15 Betrieb, Erweiterung und Änderung von Kundenanlage und Verbrauchseinrichtungen, Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001600325)
 
 (1) Anlage und Verbrauchseinrichtungen sind so zu betreiben, daß
 Störungen anderer Kunden und störende Rückwirkungen auf Einrichtungen
@@ -481,6 +498,7 @@ kann das Unternehmen regeln.
 
 
 ## § 16 Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001701119)
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis
 versehenen Beauftragten des Fernwärmeversorgungsunternehmens den
@@ -492,6 +510,7 @@ vereinbart ist.
 
 
 ## § 17 Technische Anschlußbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001800325)
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, weitere
 technische Anforderungen an den Hausanschluß und andere Anlagenteile
@@ -512,6 +531,7 @@ vereinbaren sind.
 
 
 ## § 18 Messung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE001902119)
 
 (1) Für die Messung der gelieferten Wärmemenge (Wärmemessung) ist § 3
 der Fernwärme- oder Fernkälte-Verbrauchserfassungs- und
@@ -567,6 +587,7 @@ S. 109), zu beachten.
 
 
 ## § 19 Nachprüfung von Meßeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002001301)
 
 (1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
 verlangen. Bei Meßeinrichtungen, die den eichrechtlichen Vorschriften
@@ -584,6 +605,7 @@ gesetzlichen Verkehrsfehlergrenzen überschreitet.
 
 
 ## § 20 Ablesung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002100325)
 
 (1) Die Meßeinrichtungen werden vom Beauftragten des
 Fernwärmeversorgungsunternehmens möglichst in gleichen Zeitabständen
@@ -598,6 +620,7 @@ tatsächlichen Verhältnisse sind angemessen zu berücksichtigen.
 
 
 ## § 21 Berechnungsfehler
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002200325)
 
 (1) Ergibt eine Prüfung der Meßeinrichtungen eine nicht unerhebliche
 Ungenauigkeit oder werden Fehler in der Ermittlung des
@@ -619,6 +642,7 @@ diesem Fall ist der Anspruch auf längstens zwei Jahre beschränkt.
 
 
 ## § 22 Verwendung der Wärme
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002300325)
 
 (1) Die Wärme wird nur für die eigenen Zwecke des Kunden und seiner
 Mieter zur Verfügung gestellt. Die Weiterleitung an sonstige Dritte
@@ -633,6 +657,7 @@ verändert noch verunreinigt werden.
 
 
 ## § 23 Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002400325)
 
 (1) Entnimmt der Kunde Wärme unter Umgehung, Beeinflussung oder vor
 Anbringung der Meßeinrichtungen oder nach Einstellung der Versorgung,
@@ -648,6 +673,7 @@ längstens ein Jahr erhoben werden.
 
 
 ## § 24 Abrechnung, Preisänderungsklauseln
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002503119)
 
 (1) Die Abrechnung des Energieverbrauchs und die Bereitstellung von
 Abrechnungsinformationen einschließlich Verbrauchsinformationen
@@ -745,6 +771,7 @@ darlegen.
 
 
 ## § 25 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002600325)
 
 (1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann das
 Fernwärmeversorgungsunternehmen für die nach der letzten Abrechnung
@@ -769,6 +796,7 @@ gezahlte Abschläge unverzüglich zu erstatten.
 
 
 ## § 26 Vordrucke für Rechnungen und Abschläge
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002700325)
 
 Vordrucke für Rechnungen und Abschläge müssen verständlich sein. Die
 für die Forderung maßgeblichen Berechnungsfaktoren sind vollständig
@@ -776,6 +804,7 @@ und in allgemein verständlicher Form auszuweisen.
 
 
 ## § 27 Zahlung, Verzug
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002800325)
 
 (1) Rechnungen und Abschläge werden zu dem vom
 Fernwärmeversorgungsunternehmen angegebenen Zeitpunkt, frühestens
@@ -788,6 +817,7 @@ entstandenen Kosten auch pauschal berechnen.
 
 
 ## § 28 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE002900325)
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, für den
 Wärmeverbrauch eines Abrechnungszeitraums Vorauszahlung zu verlangen,
@@ -811,6 +841,7 @@ Veränderung des Hausanschlusses Vorauszahlung verlangen.
 
 
 ## § 29 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003001377)
 
 (1) Ist der Kunde oder Anschlußnehmer zur Vorauszahlung nicht in der
 Lage, so kann das Fernwärmeversorgungsunternehmen in angemessener Höhe
@@ -832,6 +863,7 @@ weggefallen sind.
 
 
 ## § 30 Zahlungsverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003100325)
 
 Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen zum
 Zahlungsaufschub oder zur Zahlungsverweigerung nur,
@@ -849,6 +881,7 @@ Zahlungsaufschub oder zur Zahlungsverweigerung nur,
 
 
 ## § 31 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003200325)
 
 Gegen Ansprüche des Fernwärmeversorgungsunternehmens kann nur mit
 unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen
@@ -856,6 +889,7 @@ aufgerechnet werden.
 
 
 ## § 32 Laufzeit des Versorgungsvertrages, Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003301377)
 
 (1) Die Laufzeit von Versorgungsverträgen beträgt höchstens zehn
 Jahre. Wird der Vertrag nicht von einer der beiden Seiten mit einer
@@ -896,6 +930,7 @@ Ende des der Bekanntgabe folgenden Monats zu kündigen.
 
 
 ## § 33 Einstellung der Versorgung, fristlose Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003400325)
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, die Versorgung
 fristlos einzustellen, wenn der Kunde den allgemeinen
@@ -943,6 +978,7 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 ## § 34 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003500325)
 
 (1) Der Gerichtsstand für Kaufleute, die nicht zu den in § 4 des
 Handelsgesetzbuchs bezeichneten Gewerbetreibenden gehören, juristische
@@ -965,6 +1001,7 @@ Betriebsstelle des Fernwärmeversorgungsunternehmens.
 
 
 ## § 35 Öffentlich-rechtliche Versorgung mit Fernwärme
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003600325)
 
 (1) Rechtsvorschriften, die das Versorgungsverhältnis öffentlich-
 rechtlich regeln, sind den Bestimmungen dieser Verordnung entsprechend
@@ -978,6 +1015,7 @@ zum 1. Januar 1982 anzupassen.
 
 
 ## § 36 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003700325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 29 des Gesetzes zur Regelung des Rechts der
@@ -985,6 +1023,7 @@ Allgemeinen Geschäftsbedingungen auch im Land Berlin.
 
 
 ## § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003801377)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. April 1980 in Kraft.
 
@@ -1006,6 +1045,7 @@ von neun Monaten gekündigt werden, solange sich der Vertrag nicht nach
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE003900325)
 
 Der Bundesminister für Wirtschaft
 
@@ -1013,6 +1053,7 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
 (BGBl. II 1990, 889, 1008)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html#BJNR007420980BJNE888800309)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

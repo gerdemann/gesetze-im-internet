@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000100000)
 
 Auf Grund des § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch, der
 durch Artikel 1 Nummer 12 Buchstabe b des Gesetzes vom 15. Dezember
@@ -30,6 +31,7 @@ Bundesministerium für Gesundheit:
 
 
 ## § 1 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000200000)
 
 Die mit der Prüfung nach § 274 Absatz 1 des Fünften Buches
 Sozialgesetzbuch befassten Stellen (Prüfungseinrichtungen) haben die
@@ -38,6 +40,7 @@ einheitlichen Maßstäben durchzuführen.
 
 
 ## § 2 Gegenstand und Umfang der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000301126)
 
 (1) Gegenstand der Prüfung sind die Beitragsfestsetzung, der
 Beitragseinzug und die Weiterleitung der Beiträge nach § 252 Absatz 2
@@ -63,6 +66,7 @@ weiterzuleiten.
 
 
 ## § 3 Sonderprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000401126)
 
 Das Bundesamt für Soziale Sicherung kann den Prüfungseinrichtungen
 Sonderprüfungen für einzelne Krankenkassen vorschlagen, sofern es
@@ -72,6 +76,7 @@ begründen.
 
 
 ## § 4 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000500000)
 
 (1) Die Prüfungseinrichtung führt die Prüfung in der Regel nach
 vorheriger Ankündigung durch.
@@ -101,6 +106,7 @@ zur Verfügung.
 
 
 ## § 5 Rechte und Pflichten der Prüfungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000601126)
 
 (1) Die Prüfungseinrichtungen sind befugt, die für die Durchführung
 der Prüfung nach § 4 und die Erstellung des Prüfberichts und des
@@ -113,6 +119,7 @@ Bezug auf die Prüfungen, die für das Folgejahr vorgesehen sind.
 
 
 ## § 6 Prüfbericht, Prüfbescheid
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000701126)
 
 (1) Jede Prüfungseinrichtung, die eine Prüfung durchgeführt hat, hat
 das Ergebnis der Prüfung in einem schriftlichen Bericht (Prüfbericht)
@@ -147,6 +154,7 @@ Soziale Sicherung das Nähere zu Form und Inhalt der Prüfberichte fest.
 
 
 ## § 7 Hochrechnung der Prüfergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000801126)
 
 (1) Das Bundesamt für Soziale Sicherung kann eine Hochrechnung der
 Prüfergebnisse vornehmen. In diesem Fall rechnet es den bei der
@@ -168,6 +176,7 @@ Krankenkassen.
 
 
 ## § 8 Korrektur der Hochrechnung durch Vollerhebung; Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE000901126)
 
 (1) Die Krankenkasse kann bei Zahlungspflicht des Korrekturbetrags die
 zugrunde liegende Beitragsfestsetzung, den Beitragseinzug sowie die
@@ -198,6 +207,7 @@ von zehn Monaten nach der Vollerhebung gezogen worden sein.
 
 
 ## § 9 Mängelbehebung
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE001001126)
 
 Die Krankenkasse hat unverzüglich die bei der Prüfung festgestellten
 Mängel zu beheben und Vorkehrungen zu treffen, damit die
@@ -207,6 +217,7 @@ Sicherung unverzüglich zu unterrichten.
 
 
 ## § 10 Verwendung des Korrekturbetrags
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE001100000)
 
 Der Korrekturbetrag fließt in den Gesundheitsfonds. Ein möglicher
 Zinsschaden, der sich aus der Differenz zwischen dem vorläufigen
@@ -215,6 +226,7 @@ bei der Krankenkasse.
 
 
 ## § 11 Mitwirkungspflichten der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE001201126)
 
 (1) Die Krankenkassen sind verpflichtet, die für die Prüfung
 erforderlichen Unterlagen bis zur Prüfung aufzubewahren und bei deren
@@ -250,11 +262,13 @@ ihrer Aufgaben erforderlichen Daten zu gewähren.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_252pr_fv/BJNR137700013.html#BJNR137700013BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

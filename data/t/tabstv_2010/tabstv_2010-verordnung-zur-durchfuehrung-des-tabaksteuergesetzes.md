@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000201123)
 
 Im Sinn dieser Verordnung ist
 
@@ -96,6 +98,7 @@ Im Sinn dieser Verordnung ist
 
 
 ### § 1a Hauptzollamt; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006300123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -117,9 +120,11 @@ für den Anwendungsbereich dieser Verordnung
 
 
 ## Abschnitt 2 - Zu den §§ 1 und 4 Nummer 12 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000200000)
 
 
 ### § 2 Stückgewicht
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000300000)
 
 Das Durchschnittsgewicht kann durch mehrmaliges Abwiegen ermittelt
 werden. Beträgt die Menge von Zigarren oder Zigarillos weniger als
@@ -130,6 +135,7 @@ Mengen festgestellt und auf 1 000 Stück hochgerechnet werden.
 
 
 ### § 3 Steuerzeichen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000401123)
 
 (1) Steuerzeichen werden von der Bundesdruckerei hergestellt, soweit
 nicht das Hauptzollamt Bielefeld oder eine andere Druckerei damit
@@ -144,9 +150,11 @@ Packungspreises.
 
 
 ## Abschnitt 3 - Zu den §§ 5, 6 und 15 Absatz 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000301123)
 
 
 ### § 4 Steuerlager, Anforderungen an die Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000502123)
 
 (1) Das Steuerlager nach § 5 des Gesetzes umfasst die Gesamtheit der
 baulich zueinander gehörenden Räume, in denen sich die Einrichtungen
@@ -204,6 +212,7 @@ auf eigene Rechnung herstellt und für nur einen Hersteller tätig ist.
 
 
 ### § 5 Antrag auf Erlaubnis als Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000602123)
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 6 des
 Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim
@@ -251,6 +260,7 @@ Auftraggeber nach § 6 des Heimarbeitsgesetzes zu führen hat.
 
 
 ### § 6 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000703123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten
@@ -268,6 +278,7 @@ Absatz 1 bleibt unberührt.
 
 
 ### § 7 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000802123)
 
 (1) Das Hauptzollamt legt die Höhe der Sicherheitsleistung unter
 Berücksichtigung des § 6 Absatz 1 Satz 5 und 6 des Gesetzes fest. Es
@@ -282,6 +293,7 @@ unberührt.
 
 
 ### § 7a Überprüfung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006400123)
 
 Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -293,6 +305,7 @@ oder der Neuerteilung durchgeführt.
 
 
 ### § 8 Änderung von Verhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE000902123)
 
 (1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach
 § 5 Absatz 1, 2 Satz 1 und Absatz 3 Satz 1 angegebenen Verhältnisse
@@ -379,6 +392,7 @@ schriftlich anzuzeigen:
 
 
 ### § 9 Erlöschen und Fortbestand der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001001123)
 
 (1) Die Erlaubnis nach § 6 erlischt unbeschadet des § 124 Absatz 2 der
 Abgabenordnung durch
@@ -509,6 +523,7 @@ Zwecke der Räumung bis zum Fristablauf weiter.
 
 
 ### § 10 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001101123)
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -529,6 +544,7 @@ aufgezeichnet werden.
 
 
 ### § 11 Vollständige Zerstörung und unwiederbringlicher Gesamt- oder Teilverlust
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001202123)
 
 Sind Tabakwaren im Steuerlager unbeabsichtigt vollständig zerstört
 worden oder vollständig oder teilweise unwiederbringlich verloren
@@ -539,6 +555,7 @@ Anordnungen zur Nachweisführung treffen.
 
 
 ### § 12 Bestandsaufnahme im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001301123)
 
 (1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine
 Bestandsaufnahme durchzuführen und beim Hauptzollamt innerhalb eines
@@ -567,9 +584,11 @@ werden können.
 
 
 ## Abschnitt 4 - Zu § 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000400000)
 
 
 ### § 13 Registrierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001403123)
 
 (1) Die Erlaubnis als registrierter Empfänger nach § 7 Absatz 2 des
 Gesetzes ist nur Personen zu erteilen, die Tabakwaren mit
@@ -647,9 +666,11 @@ leisten.
 
 
 ## Abschnitt 5 - Zu § 8 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000500000)
 
 
 ### § 14 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001504123)
 
 (1) Wer als registrierter Versender nach § 8 Absatz 1 des Gesetzes
 Tabakwaren vom Ort der Einfuhr unter Steueraussetzung versenden will,
@@ -703,9 +724,11 @@ entsprechend.
 
 
 ## Abschnitt 6 - Zu den §§ 9 und 35 Absatz 1 Nummer 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000600000)
 
 
 ### § 15 Begünstigte, Ausstellen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001603123)
 
 (1) Ein Begünstigter, der Tabakwaren unter Steueraussetzung empfangen
 will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung
@@ -766,9 +789,11 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 
 ## Abschnitt 7 - Zu den §§ 10 bis 13 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000700000)
 
 
 ### § 16 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001702123)
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -790,6 +815,7 @@ Voraussetzungen und Rahmenbedingungen einzuhalten.
 
 
 ### § 17 Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001803123)
 
 (1) Sollen Tabakwaren unter Steueraussetzung befördert werden aus
 einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im
@@ -847,6 +873,7 @@ ein registrierter Empfänger ist.
 
 
 ### § 18 Mitführen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE001900000)
 
 Werden Tabakwaren unter Steueraussetzung zu Begünstigten befördert,
 hat der Beförderer während der Beförderung eine dem Versender nach §
@@ -857,6 +884,7 @@ erste Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
 
 ### § 19 Art und Höhe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002000000)
 
 (1) Die Sicherheit für Beförderungen von Tabakwaren unter
 Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder
@@ -878,6 +906,7 @@ Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 
 
 ### § 20 Annullierung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002102123)
 
 (1) Der Versender kann das elektronische Verwaltungsdokument
 annullieren, solange die Beförderung der Tabakwaren noch nicht
@@ -904,6 +933,7 @@ Annullierungsmeldung an diesen weiter.
 
 
 ### § 21 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren bei Verwendung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002202123)
 
 (1) Während der Beförderung der Tabakwaren unter Steueraussetzung kann
 der Versender den Bestimmungsort oder den Empfänger der Tabakwaren
@@ -946,6 +976,7 @@ geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 
 
 ### § 22 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002303123)
 
 (1) Nach der Aufnahme der Tabakwaren, auch von Teilmengen, an einem
 Bestimmungsort, der in § 11 Absatz 1 Nummer 1 und § 12 Absatz 1 Nummer
@@ -1041,6 +1072,7 @@ Versender den Bestimmungsort oder den Empfänger der Tabakwaren.
 
 
 ### § 23 Beförderungen im Steuergebiet in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002403123)
 
 (1) Bei Beförderungen von Tabakwaren unter Steueraussetzung zwischen
 Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder, wenn der
@@ -1087,6 +1119,7 @@ entsprechend.
 
 
 ### § 24 Beförderungen im Steuergebiet in Betriebe von Verwendern
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002501123)
 
 (1) Für Beförderungen von Tabakwaren unter Steueraussetzung in
 Betriebe von Verwendern nach § 31 Absatz 1 des Gesetzes hat der
@@ -1164,6 +1197,7 @@ versendenden Tabakwaren Verschlussmaßnahmen anordnen.
 
 
 ### § 25 Beginn der Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002603123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender abweichend von § 17 nur dann eine
@@ -1228,6 +1262,7 @@ Ausfuhrmeldung ist § 22 anzuwenden.
 
 
 ### § 26 Annullierung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002702123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender das elektronische Verwaltungsdokument
@@ -1250,6 +1285,7 @@ entsprechend.
 
 
 ### § 27 Änderung des Bestimmungsorts oder des Empfängers von Tabakwaren im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002802123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender den Bestimmungsort oder den Empfänger
@@ -1287,6 +1323,7 @@ Absatz 2 und § 25 Absatz 4 Satz 1 und 2 entsprechend.
 
 
 ### § 28 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE002903123)
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 22 Absatz 1 nach
 Beendigung einer Beförderung von Tabakwaren unter Steueraussetzung
@@ -1366,6 +1403,7 @@ gilt entsprechend.
 
 
 ### § 29 Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003001123)
 
 (1) Liegt kein Nachweis nach § 22 Absatz 6 vor, bestätigt das für den
 Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen
@@ -1398,9 +1436,11 @@ Unionszollkodex überführt wurden, sofern dies nach Artikel 189 Absatz
 
 
 ## Abschnitt 8 - Zu den §§ 14 und 15 Absatz 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000801123)
 
 
 ### § 30 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE007400123)
 
 (1) Geht der Rückschein in den Fällen des § 24 Absatz 3 Satz 3 und
 Absatz 4 Satz 4 nicht binnen zwei Monaten beim Versender ein, ist dies
@@ -1419,9 +1459,11 @@ der Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 
 ## Abschnitt 9 - Zu § 16 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG000900000)
 
 
 ### § 31 Verpackungszwang, Kleinverkaufspackungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003204123)
 
 (1) Eingeführte oder aus anderen Mitgliedstaaten in das Steuergebiet
 beförderte Tabakwaren, die weder zum Handel noch zur gewerblichen
@@ -1474,9 +1516,11 @@ Teilmengen sind jedoch nur zulässig für
 
 
 ## Abschnitt 10 - Zu § 17 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001000000)
 
 
 ### § 32 Bezug der Steuerzeichen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003301123)
 
 (1) Steuerzeichen sind beim Hauptzollamt Bielefeld zu beziehen.
 Steuerzeichen für Tabakwaren, die im Steuergebiet hergestellt werden,
@@ -1543,6 +1587,7 @@ entsprechend.
 
 
 ### § 33 Berechnung des Steuerwerts und der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003403123)
 
 (1) Der Steuerwert des einzelnen Steuerzeichens wird aus der Steuer
 für eine Zigarette, eine Zigarre, ein Zigarillo oder 1 Kilogramm
@@ -1571,6 +1616,7 @@ Absatz 1 Satz 4 entsprechend.
 
 
 ### § 34 Verwendung der Steuerzeichen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003501123)
 
 (1) Hersteller oder Einführer, die Steuerlagerinhaber sind, dürfen die
 Steuerzeichen nur in dem Steuerlager verwenden, für das sie diese
@@ -1609,6 +1655,7 @@ Steuerzeichenverwendung befreien.
 
 
 ### § 35 Entwerten und Anbringen der Steuerzeichen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003601123)
 
 (1) Hersteller, Einführer und dem Hersteller gleichgestellte Personen
 nach § 17 Absatz 2 des Gesetzes haben die Steuerzeichen durch Angabe
@@ -1635,6 +1682,7 @@ Steuergebiet bestimmt sind, unzulässig.
 
 
 ### § 36 Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003701123)
 
 (1) Die Steuererklärung nach § 17 Absatz 3 des Gesetzes ist nach
 amtlich vorgeschriebenem Vordruck abzugeben.
@@ -1651,9 +1699,11 @@ Abgabenordnung entsprechend.
 
 
 ## Abschnitt 11 - Zu den §§ 19 bis 21 und 33 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001100000)
 
 
 ### § 37 Gewerbliche Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003802123)
 
 (1) Der Einführer hat die gewerbliche Einfuhr von Tabakwaren aus
 Drittländern oder Drittgebieten spätestens drei Wochen vor der
@@ -1678,6 +1728,7 @@ letzten Überprüfungsmaßnahme oder der Anmeldung durchgeführt.
 
 
 ### § 38 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE003901123)
 
 Tabakwaren aus Drittländern oder Drittgebieten sind in den Fällen der
 Einfuhr nach den Zollvorschriften mit den für die Besteuerung
@@ -1686,9 +1737,11 @@ Steuererklärung ist in der Zollanmeldung abzugeben.
 
 
 ## Abschnitt 12 - Zu § 22 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001200000)
 
 
 ### § 39 Beförderungen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE007500123)
 
 (1) Werden mehr als 800 Zigaretten, 800 Stück erhitzter Tabak, 200
 Zigarren, 400 Zigarillos oder ein Kilogramm Rauchtabak nach § 22 des
@@ -1702,9 +1755,11 @@ Eigenbedarf nach § 22 des Gesetzes.
 
 
 ## Abschnitt 13 - Zu den §§ 23 und 35 Absatz 1 Nummer 3 Buchstabe a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001300000)
 
 
 ### § 40 Zertifizierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004102123)
 
 (1) Wer als zertifizierter Empfänger nach § 23a Absatz 1 Satz 1 Nummer
 1 des Gesetzes Tabakwaren des steuerrechtlich freien Verkehrs nicht
@@ -1803,6 +1858,7 @@ entstehende Steuer zu leisten.
 
 
 ### § 40a Zertifizierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006500123)
 
 (1) Wer als zertifizierter Versender nach § 23b Absatz 1 Satz 1 Nummer
 1 des Gesetzes Tabakwaren des steuerrechtlich freien Verkehrs nicht
@@ -1887,6 +1943,7 @@ Beförderung nicht unter § 39 oder unter § 23d des Gesetzes fällt.
 
 
 ### § 40b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006600123)
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -1919,6 +1976,7 @@ jeweiligen Erlaubnis.
 
 
 ### § 40c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006700123)
 
 (1) Sollen Tabakwaren des steuerrechtlich freien Verkehrs nach diesem
 Abschnitt aus dem Steuergebiet befördert werden
@@ -1958,6 +2016,7 @@ zertifizierten Empfänger im Steuergebiet weitergeleitet.
 
 
 ### § 40d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006800123)
 
 (1) Während der Beförderung der Tabakwaren kann der zertifizierte
 Versender den Bestimmungsort ändern, und zwar
@@ -1978,6 +2037,7 @@ Tabakwaren gilt § 21 Absatz 2, 3 und 6 entsprechend.
 
 
 ### § 40e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE006900123)
 
 (1) Nach der Aufnahme der Tabakwaren, auch von Teilmengen, an einem
 vom Erlaubnisumfang erfassten Bestimmungsort hat der zertifizierte
@@ -2015,6 +2075,7 @@ dass die Beförderung der Tabakwaren beendet wurde.
 
 
 ### § 40f Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE007000123)
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung und kann das vereinfachte elektronische Verwaltungsdokument
@@ -2024,6 +2085,7 @@ amtlich vorgeschriebenem Vordruck zu verwenden.
 
 
 ### § 40g Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE007100123)
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das
 Steuergebiet kein Nachweis nach § 40e Absatz 4 oder § 40f in
@@ -2053,15 +2115,18 @@ akzeptiert wird, als hinreichender Ersatznachweis dafür, dass
 
 
 ### § 40h Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE007200123)
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt-
 oder Teilverlusts von Tabakwaren gelten die §§ 11 und 30 entsprechend.
 
 
 ## Abschnitt 13a - Zu § 23g des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002600123)
 
 
 ### § 40i Steuererklärung; Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE007300123)
 
 (1) Die Steuererklärung nach § 23g Absatz 1 bis 3 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
@@ -2071,18 +2136,22 @@ Kleinbetragsregelung gelten § 36 Absatz 2 und § 53 entsprechend.
 
 
 ## Abschnitt 14 - Zu § 24 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001400000)
 
 
 ### § 41 Beipack
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004200000)
 
 Packungen mit Zigarren oder Zigarillos sowie Packungen mit Zigarren
 und Zigarillos dürfen Zigarrenspitzen von geringem Wert enthalten.
 
 
 ## Abschnitt 15 - Zu § 26 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001500000)
 
 
 ### § 42 Zugaben
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004300000)
 
 Der Händler darf der Verbraucherin oder dem Verbraucher bei der Abgabe
 von Zigarren oder Zigarillos Zigarrenspitzen von geringem Wert
@@ -2090,9 +2159,11 @@ dazugeben.
 
 
 ## Abschnitt 16 - Zu § 28 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001600000)
 
 
 ### § 43 Steuererklärung bei Abgabe über Kleinverkaufspreis
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004401123)
 
 (1) Die Steuererklärung nach § 28 Absatz 1 Satz 4 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
@@ -2102,9 +2173,11 @@ entsprechend.
 
 
 ## Abschnitt 17 - Zu § 30 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001700000)
 
 
 ### § 44 Steuerfreie Deputate
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004502123)
 
 (1) Deputatberechtigt sind die Arbeitnehmerinnen und Arbeitnehmer, die
 
@@ -2188,9 +2261,11 @@ der Steuererklärung gilt § 36 Absatz 2 entsprechend.
 
 
 ## Abschnitt 18 - Zu § 31 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001800000)
 
 
 ### § 45 Antrag auf Erlaubnis zur steuerfreien Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004601123)
 
 (1) Der Antrag auf Erlaubnis zur steuerfreien Verwendung von
 Tabakwaren nach § 31 Absatz 1 des Gesetzes ist vor Beginn der
@@ -2219,6 +2294,7 @@ nicht beeinträchtigt werden.
 
 
 ### § 46 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004702123)
 
 (1) Das Hauptzollamt erteilt dem Verwender schriftlich oder
 elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien
@@ -2236,6 +2312,7 @@ die Bestandsaufnahme gelten die §§ 7a, 8, 9, 10 und 12 entsprechend.
 
 
 ### § 47 Abgabe von Tabakwaren, zweckwidrige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004801123)
 
 (1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in
 Ausnahmefällen Tabakwaren im Rahmen der steuerfreien Verwendung an
@@ -2257,9 +2334,11 @@ der Steuererklärung gilt § 36 Absatz 2 entsprechend.
 
 
 ## Abschnitt 19 - Zu § 32 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG001900000)
 
 
 ### § 48 Erlass- und Erstattungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE004903123)
 
 (1) In den Fällen des § 32 Absatz 1 oder 2, jeweils in Verbindung mit
 Absatz 3 des Gesetzes, und § 32 Absatz 4 des Gesetzes hat der
@@ -2315,6 +2394,7 @@ der Feststellung der Unwirksamkeit gegenüber dem Steuerschuldner.
 
 
 ### § 49 Erlass- und Erstattungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005001123)
 
 (1) Die Gebühr nach § 32 Absatz 5 des Gesetzes beträgt für jeden
 vollen Steuerzeichenbogen oder die entsprechende Anzahl gleicher
@@ -2334,9 +2414,11 @@ amtlichen Prüfungen beschädigt oder vernichtet worden sind.
 
 
 ## Abschnitt 20 - Zu § 33 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002000000)
 
 
 ### § 50 Ausnahmen von der Anmeldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005101140)
 
 Von der Anmeldepflicht nach § 33 Absatz 2 des Gesetzes ist der Handel
 mit Tabakwaren ausgenommen. Dies gilt nicht für die gewerbliche
@@ -2344,6 +2426,7 @@ Einfuhr (§ 37).
 
 
 ### § 51 Aufreißen, Vernichten, Vergällen, Ungültigmachen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005202123)
 
 (1) Der Steuerlagerinhaber hat das Aufreißen von Zigarren, Zigarillos
 und Zigaretten im Steuerlager sowie das Vernichten und Vergällen von
@@ -2363,9 +2446,11 @@ unter Widerrufsvorbehalt kürzere Anmeldefristen zulassen.
 
 
 ## Abschnitt 21 - Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002100000)
 
 
 ### § 52 Probenentnahme im Rahmen der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005301123)
 
 Die mit der Steueraufsicht betrauten Amtsträger können zu
 Untersuchungszwecken unentgeltlich Proben entnehmen von:
@@ -2387,9 +2472,11 @@ unentgeltlich Proben zur Verfügung zu stellen.
 
 
 ## Abschnitt 22 - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002200000)
 
 
 ### § 53 Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005402123)
 
 Eine angemeldete oder festgesetzte Steuer oder Steuerzeichenschuld
 wird vom Hauptzollamt nur abweichend festgesetzt, geändert oder
@@ -2399,16 +2486,20 @@ Steuerzeichenschuld entsprechend.
 
 
 ## Abschnitt 23 - Zu § 35 Absatz 1 Nummer 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002500140)
 
 
 ### (XXXX) §§ 54 bis 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005701123)
 
 
 
 ## Abschnitt 24 - Zu § 381 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002301140)
 
 
 ### § 60 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005502123)
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
@@ -2559,9 +2650,11 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
 
 ## Abschnitt 25 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNG002401140)
 
 
 ### § 61 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstv_2010/BJNR326300009.html#BJNR326300009BJNE005602123)
 
 Für Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs
 aus anderen, in andere oder über andere Mitgliedstaaten, die vor dem

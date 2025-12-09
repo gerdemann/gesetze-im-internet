@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/i_oben_i_ohil_bkg/BJNR204340989.html#BJNR204340989BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/i_oben_i_ohil_bkg/BJNR204340989.html#BJNR204340989BJNE000200328)
 
 Den folgenden, in Wien am 26. September 1986 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen, wird zugestimmt:
@@ -44,6 +46,7 @@ Die Übereinkommen werden nachstehend mit einer amtlichen deutschen
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/i_oben_i_ohil_bkg/BJNR204340989.html#BJNR204340989BJNE000300328)
 
 Soweit die Bundesrepublik Deutschland als ersuchender Staat nach
 Artikel 10 Abs. 2 des IAEO-Übereinkommens vom 26. September 1986 über
@@ -60,12 +63,14 @@ bei nuklearen Unfällen haftbar ist, auf sie über.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/i_oben_i_ohil_bkg/BJNR204340989.html#BJNR204340989BJNE000400328)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/i_oben_i_ohil_bkg/BJNR204340989.html#BJNR204340989BJNE000500328)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

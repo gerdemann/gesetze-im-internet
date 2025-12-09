@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNG000200000)
 
 
 
 ### § 1 Zweck und Grundsätze des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE000300000)
 
 Zweck dieses Gesetzes ist es, nachhaltig die Funktionen des Bodens zu
 sichern oder wiederherzustellen. Hierzu sind schädliche
@@ -37,6 +39,7 @@ weit wie möglich vermieden werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE000400000)
 
 (1) Boden im Sinne dieses Gesetzes ist die obere Schicht der
 Erdkruste, soweit sie Träger der in Absatz 2 genannten Bodenfunktionen
@@ -141,6 +144,7 @@ vermindern, insbesondere Nutzungsbeschränkungen.
 
 
 ### § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE000504116)
 
 (1) Dieses Gesetz findet auf schädliche Bodenveränderungen und
 Altlasten Anwendung, soweit
@@ -225,10 +229,12 @@ beiträgt.
 
 
 ## Zweiter Teil - Grundsätze und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNG000600000)
 
 
 
 ### § 4 Pflichten zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE000700000)
 
 (1) Jeder, der auf den Boden einwirkt, hat sich so zu verhalten, daß
 schädliche Bodenveränderungen nicht hervorgerufen werden.
@@ -285,6 +291,7 @@ Berücksichtigung der Umstände des Einzelfalles schutzwürdig ist.
 
 
 ### § 5 Entsiegelung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE000800000)
 
 Soweit die Vorschriften des Baurechts die Befugnisse der Behörden
 nicht regeln, wird die Bundesregierung ermächtigt, nach Anhörung der
@@ -301,6 +308,7 @@ in Satz 1 im übrigen genannten Voraussetzungen vorliegen.
 
 
 ### § 6 Auf- und Einbringen von Materialien auf oder in den Boden
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE000900000)
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -322,6 +330,7 @@ zu bestimmen.
 
 
 ### § 7 Vorsorgepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001000000)
 
 Der Grundstückseigentümer, der Inhaber der tatsächlichen Gewalt über
 ein Grundstück und derjenige, der Verrichtungen auf einem Grundstück
@@ -348,6 +357,7 @@ Pflichten nach § 4.
 
 
 ### § 8 Werte und Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001100000)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -423,6 +433,7 @@ unterschiedliche Belastungen.
 
 
 ### § 9 Gefährdungsabschätzung und Untersuchungsanordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001200000)
 
 (1) Liegen der zuständigen Behörde Anhaltspunkte dafür vor, daß eine
 schädliche Bodenveränderung oder Altlast vorliegt, so soll sie zur
@@ -452,6 +463,7 @@ Landesrecht.
 
 
 ### § 10 Sonstige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001300000)
 
 (1) Zur Erfüllung der sich aus §§ 4 und 7 und den auf Grund von § 5
 Satz 1, §§ 6 und 8 erlassenen Rechtsverordnungen ergebenden Pflichten
@@ -480,16 +492,19 @@ Härte führen würde.
 
 
 ## Dritter Teil - Ergänzende Vorschriften für Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNG001400000)
 
 
 
 ### § 11 Erfassung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001500000)
 
 Die Länder können die Erfassung der Altlasten und altlastverdächtigen
 Flächen regeln.
 
 
 ### § 12 Information der Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001600000)
 
 Die nach § 9 Abs. 2 Satz 1 zur Untersuchung der Altlast und die nach §
 4 Abs. 3, 5 und 6 zur Sanierung der Altlast Verpflichteten haben die
@@ -505,6 +520,7 @@ die Auswirkungen der Maßnahmen auf ihre Belange zu beurteilen.
 
 
 ### § 13 Sanierungsuntersuchungen und Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001703116)
 
 (1) Bei Altlasten, bei denen wegen der Verschiedenartigkeit der nach §
 4 erforderlichen Maßnahmen ein abgestimmtes Vorgehen notwendig ist
@@ -571,6 +587,7 @@ aufgeführt werden.
 
 
 ### § 14 Behördliche Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001800000)
 
 Die zuständige Behörde kann den Sanierungsplan nach § 13 Abs. 1 selbst
 erstellen oder ergänzen oder durch einen Sachverständigen nach § 18
@@ -595,6 +612,7 @@ erstellen oder ergänzen lassen, wenn
 
 
 ### § 15 Behördliche Überwachung, Eigenkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE001900000)
 
 (1) Altlasten und altlastverdächtige Flächen unterliegen, soweit
 erforderlich, der Überwachung durch die zuständige Behörde. Bei
@@ -622,6 +640,7 @@ mitzuteilen. Sie hat diese Aufzeichnungen und die Ergebnisse ihrer
 
 
 ### § 16 Ergänzende Anordnungen zur Altlastensanierung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002001116)
 
 (1) Neben den im Zweiten Teil dieses Gesetzes vorgesehenen Anordnungen
 kann die zuständige Behörde zur Erfüllung der Pflichten, die sich aus
@@ -640,10 +659,12 @@ Anordnung die miteingeschlossenen Entscheidungen aufgeführt werden.
 
 
 ## Vierter Teil - Landwirtschaftliche Bodennutzung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNG002100000)
 
 
 
 ### § 17 Gute fachliche Praxis in der Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002200000)
 
 (1) Bei der landwirtschaftlichen Bodennutzung wird die Vorsorgepflicht
 nach § 7 durch die gute fachliche Praxis erfüllt. Die nach Landesrecht
@@ -698,10 +719,12 @@ Grundsätzen der guten fachlichen Praxis nach Absatz 2, so gelten die
 
 
 ## Fünfter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNG002300000)
 
 
 
 ### § 18 Sachverständige und Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002400000)
 
 Sachverständige und Untersuchungsstellen, die Aufgaben nach diesem
 Gesetz wahrnehmen, müssen die für diese Aufgaben erforderliche
@@ -715,6 +738,7 @@ erfüllen, regeln.
 
 
 ### § 19 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002500000)
 
 (1) Soweit eine Datenübermittlung zwischen Bund und Ländern zur
 Erfüllung der jeweiligen Aufgaben dieses Gesetzes notwendig ist,
@@ -728,6 +752,7 @@ einrichten.
 
 
 ### § 20 Anhörung beteiligter Kreise
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002600000)
 
 Soweit Ermächtigungen zum Erlaß von Rechtsverordnungen die Anhörung
 der beteiligten Kreise vorschreiben, ist ein jeweils auszuwählender
@@ -743,6 +768,7 @@ Forstwirtschaft zuständigen obersten Landesbehörden zu hören.
 
 
 ### § 21 Landesrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002700000)
 
 (1) Zur Ausführung des Zweiten und Dritten Teils dieses Gesetzes
 können die Länder ergänzende Verfahrensregelungen erlassen.
@@ -792,6 +818,7 @@ werden.
 
 
 ### § 22 Erfüllung von bindenden Beschlüssen der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002800000)
 
 (1) Zur Erfüllung von bindenden Beschlüssen der Europäischen
 Gemeinschaften kann die Bundesregierung zu dem in § 1 genannten Zweck
@@ -809,6 +836,7 @@ ziehen sind.
 
 
 ### § 23 Landesverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE002900000)
 
 (1) Das Bundesministerium der Verteidigung kann Ausnahmen von diesem
 Gesetz und von den auf dieses Gesetz gestützten Rechtsverordnungen
@@ -826,6 +854,7 @@ den von ihm bestimmten Stellen obliegt.
 
 
 ### § 24 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE003001310)
 
 (1) Die Kosten der nach § 9 Abs. 2, § 10 Abs. 1, §§ 12, 13, 14 Satz 1
 Nr. 1, § 15 Abs. 2 und § 16 Abs. 1 angeordneten Maßnahmen tragen die
@@ -856,6 +885,7 @@ ordentlichen Gerichten offen.
 
 
 ### § 25 Wertausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE003101116)
 
 (1) Soweit durch den Einsatz öffentlicher Mittel bei Maßnahmen zur
 Erfüllung der Pflichten nach § 4 der Verkehrswert eines Grundstücks
@@ -914,6 +944,7 @@ Last hinzuweisen ist, zu regeln.
 
 
 ### § 26 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html#BJNR050210998BJNE003201377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

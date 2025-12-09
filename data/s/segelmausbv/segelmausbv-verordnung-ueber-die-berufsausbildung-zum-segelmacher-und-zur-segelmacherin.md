@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
 Absatz 2 Satz 1 Nummer 2, 3, und 7 der Handwerksordnung, von denen §
@@ -36,6 +37,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000200000)
 
 Der Ausbildungsberuf des Segelmachers und der Segelmacherin wird nach
 § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 23,
@@ -43,11 +45,13 @@ Segelmacher, der Anlage B 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -130,6 +134,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -151,6 +156,7 @@ durchzusehen.
 
 
 ## § 5 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000600000)
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinander
 fallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen,
@@ -170,6 +176,7 @@ Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000700000)
 
 (1) Teil 1 der Gesellenprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -244,6 +251,7 @@ Vorgaben:
 
 
 ## § 7 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000800000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -408,6 +416,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -463,6 +472,7 @@ bewertet worden sind.
 
 
 ## § 9 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE001000000)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Gesellenprüfung mit schlechter als „ausreichend“ bewerteten
@@ -476,6 +486,7 @@ gewichten.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -485,12 +496,14 @@ Zwischenprüfung noch nicht abgelegt wurde.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2010 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Segelmacher und zur Segelmacherin
+[Direktlink](https://www.gesetze-im-internet.de/segelmausbv/BJNR056400010.html#BJNR056400010BJNE001300000)
 
 (Fundstelle: BGBl. I 2010, 567 - 572)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btauflano_2024/BJNR1B20A0024.html#BJNR1B20A0024BJNE000100000)
 
 Gemäß Artikel 68 des Grundgesetzes für die Bundesrepublik Deutschland
 löse ich hiermit auf Vorschlag des Bundeskanzlers den 20. Deutschen
@@ -25,6 +26,7 @@ Bundestag auf.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btauflano_2024/BJNR1B20A0024.html#BJNR1B20A0024BJNE000200000)
 
 Der Bundespräsident
 Der Bundeskanzler

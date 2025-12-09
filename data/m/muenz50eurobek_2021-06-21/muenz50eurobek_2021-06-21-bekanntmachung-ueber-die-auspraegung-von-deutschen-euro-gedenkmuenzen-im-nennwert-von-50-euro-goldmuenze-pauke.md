@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50eurobek_2021-06-21/BJNR226600021.html#BJNR226600021BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, in den Jahren 2018 bis
@@ -56,11 +57,13 @@ Der Münzrand wird geriffelt ausgeführt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50eurobek_2021-06-21/BJNR226600021.html#BJNR226600021BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50eurobek_2021-06-21/BJNR226600021.html#BJNR226600021BJNE000300000)
 
 (Fundstelle: BGBl. I 2021, 2266)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1967-11/BJNR011620967.html#BJNR011620967BJNE000100314)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes vom
@@ -60,11 +61,13 @@ Strassen, Frankfurt a. M..
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1967-11/BJNR011620967.html#BJNR011620967BJNE000200314)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1967-11/BJNR011620967.html#BJNR011620967BJNE000300314)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1967, 1162

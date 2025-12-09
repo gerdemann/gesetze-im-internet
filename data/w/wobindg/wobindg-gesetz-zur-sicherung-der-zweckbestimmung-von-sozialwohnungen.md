@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNG000103320)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE000605310)
 
 Dieses Gesetz gilt nach Maßgabe des § 50 des
 Wohnraumförderungsgesetzes für den in dessen Absatz 1 und nach Maßgabe
@@ -37,6 +39,7 @@ gilt.
 
 
 ### § 2 Sicherung der Zweckbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE000705320)
 
 Auf die Erhebung, Verarbeitung und Nutzung von Daten, die Erteilung
 von Auskünften, die Gewährung von Einsicht in Unterlagen, die
@@ -49,19 +52,23 @@ Wohnraumförderungsgesetzes entsprechend anzuwenden.
 
 
 ### (XXXX) §§ 2a und 2b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE000804320)
 
 
 ### § 3 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001003320)
 
 Zuständige Stelle im Sinne dieses Gesetzes ist die Stelle, die von der
 Landesregierung bestimmt wird oder die nach Landesrecht zuständig ist.
 
 
 ## Zweiter Abschnitt - Bindungen des Verfügungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNG000203320)
 
 
 
 ### § 4 Überlassung an Wohnberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001107320)
 
 (1) Sobald voraussehbar ist, dass eine Wohnung bezugsfertig oder frei
 wird, hat der Verfügungsberechtigte dies der zuständigen Stelle
@@ -138,6 +145,7 @@ eine öffentlich geförderte Wohnung sei.
 
 
 ### § 5 Ausstellung der Bescheinigung über die Wohnberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001207320)
 
 Die Bescheinigung über die Wohnberechtigung (Wohnberechtigungsschein)
 wird in entsprechender Anwendung des § 27 Abs. 1 bis 5 des
@@ -145,6 +153,7 @@ Wohnraumförderungsgesetzes erteilt.
 
 
 ### § 5a Sondervorschriften für Gebiete mit erhöhtem Wohnungsbedarf
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001306320)
 
 Die Landesregierungen werden ermächtigt, für Gebiete mit erhöhtem
 Wohnungsbedarf Rechtsverordnungen zu erlassen, die befristet oder
@@ -168,11 +177,13 @@ Gesichtspunkten die Benennung erfolgen soll.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001407320)
 
 (weggefallen)
 
 
 ### § 7 Freistellung von Belegungsbindungen, Übertragung von Belegungs- und Mietbindungen, Erhaltung der Mietwohnnutzung, Kooperationsverträge
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001505320)
 
 (1) Die zuständige Stelle kann den Verfügungsberechtigten von
 Belegungsbindungen in entsprechender Anwendung des § 30 des
@@ -195,6 +206,7 @@ und 15 des Wohnraumförderungsgesetzes abgeschlossen werden.
 
 
 ### § 8 Kostenmiete
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001603320)
 
 (1) Der Verfügungsberechtigte darf die Wohnung nicht gegen ein höheres
 Entgelt zum Gebrauch überlassen, als zur Deckung der laufenden
@@ -232,6 +244,7 @@ Wohnraum.
 
 
 ### § 8a Ermittlung der Kostenmiete und der Vergleichsmiete
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001703320)
 
 (1) Bei der Ermittlung der Kostenmiete ist von dem Mietbetrag
 auszugehen, der sich für die öffentlich geförderten Wohnungen des
@@ -300,6 +313,7 @@ die Rechtsverordnung nach § 28.
 
 
 ### § 8b Ermittlung der Kostenmiete in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001805320)
 
 (1) Wird die Kostenmiete nach Ablauf von sechs Jahren seit
 Bezugsfertigkeit der Wohnungen ermittelt, dürfen bei der Aufstellung
@@ -332,6 +346,7 @@ Wohnungen aufzustellen. Absatz 2 Satz 2 bis 4 gilt entsprechend.
 
 
 ### § 9 Einmalige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE001905320)
 
 (1) Eine Vereinbarung, nach der der Mieter oder für ihn ein Dritter
 mit Rücksicht auf die Überlassung der Wohnung eine einmalige Leistung
@@ -398,6 +413,7 @@ Mietpreisfreigabe bereits erfolgt war.
 
 
 ### § 10 Einseitige Mieterhöhung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002003320)
 
 (1) Ist der Mieter nur zur Entrichtung eines niedrigeren als des nach
 diesem Gesetz zulässigen Entgelts verpflichtet, so kann der Vermieter
@@ -442,6 +458,7 @@ der Ausschluss sich aus den Umständen ergibt.
 
 
 ### § 11 Kündigungsrecht des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002103320)
 
 (1) Der Mieter ist im Falle einer Erklärung des Vermieters nach § 10
 berechtigt, das Mietverhältnis spätestens am dritten Werktag des
@@ -456,15 +473,18 @@ unwirksam.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002204320)
 
 (weggefallen)
 
 
 ## Dritter Abschnitt - Beginn und Ende der Eigenschaft "öffentlich gefördert"
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNG000303320)
 
 
 
 ### § 13 Beginn der Eigenschaft "öffentlich gefördert"
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002303320)
 
 (1) Eine Wohnung, für die die öffentlichen Mittel vor der
 Bezugsfertigkeit bewilligt worden sind, gilt von dem Zeitpunkt an als
@@ -498,6 +518,7 @@ der Erweiterung.
 
 
 ### § 14 Einbeziehung von Zubehörräumen, Wohnungsvergrößerung, Umbau
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002404320)
 
 (1) Werden die Zubehörräume einer öffentlich geförderten Wohnung ohne
 Genehmigung der Bewilligungsstelle zu Wohnräumen oder Wohnungen
@@ -517,6 +538,7 @@ Mittel letztmalig gezahlt worden sind.
 
 
 ### § 15 Ende der Eigenschaft "öffentlich gefördert"
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002505320)
 
 (1) Eine Wohnung, für die die öffentlichen Mittel als Darlehen
 bewilligt worden sind, gilt, soweit sich aus dem § 16 oder § 17 nichts
@@ -575,6 +597,7 @@ werden.
 
 
 ### § 16 Ende der Eigenschaft "öffentlich gefördert" bei freiwilliger vorzeitiger Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002607320)
 
 (1) Werden die für eine Wohnung als Darlehen bewilligten öffentlichen
 Mittel ohne rechtliche Verpflichtung vorzeitig vollständig
@@ -634,6 +657,7 @@ einheitlich für Wohnungen mehrerer Gebäude bewilligt worden sind.
 
 
 ### § 17 Ende der Eigenschaft "öffentlich gefördert" bei Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002704320)
 
 (1) Bei einer Zwangsversteigerung des Grundstücks gelten die
 Wohnungen, für die öffentliche Mittel als Darlehen bewilligt worden
@@ -657,6 +681,7 @@ Wohnungen bis zu dem sich aus § 15 oder § 16 ergebenden Zeitpunkt als
 
 
 ### § 18 Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002805320)
 
 (1) Die zuständige Stelle hat dem Verfügungsberechtigten und bei
 berechtigtem Interesse auch dem Mieter schriftlich zu bestätigen, von
@@ -672,10 +697,12 @@ entsprechend.
 
 
 ## Vierter Abschnitt - Einschränkung von Zinsvergünstigungen bei öffentlich geförderten Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNG000403320)
 
 
 
 ### § 18a Höhere Verzinsung der öffentlichen Baudarlehen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE002905320)
 
 (1) Öffentliche Mittel im Sinne des § 3 des Ersten Wohnungsbaugesetzes
 oder des § 6 des Zweiten Wohnungsbaugesetzes, die vor dem 1. Januar
@@ -723,6 +750,7 @@ Absatz 3 Satz 3 gilt entsprechend.
 
 
 ### § 18b Berechnung der neuen Jahresleistung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003004320)
 
 (1) Die für das Wohnungs- und Siedlungswesen zuständigen obersten
 Landesbehörden treffen nähere Bestimmungen über die Durchführung der
@@ -750,6 +778,7 @@ bestimmt sich nach dem Darlehnsvertrag.
 
 
 ### § 18c Öffentliche Baudarlehen verschiedener Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003104320)
 
 (1) Sind für die Wohnungen des Gebäudes oder der Wirtschaftseinheit
 öffentliche Baudarlehen von verschiedenen Gläubigern gewährt worden
@@ -775,6 +804,7 @@ der Zinssätze nach Absatz 1. Im Übrigen gelten die Vorschriften des §
 
 
 ### § 18d Zins- und Tilgungshilfen sowie Zuschüsse und Darlehen zur Deckung der laufenden Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003205320)
 
 (1) Sind vor dem 1. Januar 1960 neben oder an Stelle eines
 öffentlichen Baudarlehens Zins- und Tilgungshilfen aus öffentlichen
@@ -818,6 +848,7 @@ ausdrücklich ausgeschlossen ist. Die Vorschriften des § 18a Abs. 3 bis
 
 
 ### § 18e Entsprechende Anwendung für öffentliche Mittel im Bereich des Bergarbeiterwohnungsbaus
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003308116)
 
 Die Vorschriften der §§ 18a bis 18d gelten entsprechend für
 öffentliche Baudarlehen und Zins- und Tilgungshilfen, die nach dem
@@ -832,6 +863,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
 
 
 ### § 18f Mieterhöhung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003404320)
 
 (1) Für die Durchführung einer Mieterhöhung auf Grund der höheren
 Verzinsung oder der Herabsetzung der Zins- und Tilgungshilfen oder der
@@ -851,10 +883,12 @@ zurückliegende Zeit verlangt werden kann, unwirksam.
 
 
 ## Fünfter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNG000503320)
 
 
 
 ### § 19 Gleichstellungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003503320)
 
 (1) Die Vorschriften dieses Gesetzes für Wohnungen gelten für einzelne
 öffentlich geförderte Wohnräume entsprechend, soweit sich nicht aus
@@ -877,12 +911,14 @@ sind.
 
 
 ### § 20 Wohnheime
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003603320)
 
 Die Vorschriften dieses Gesetzes gelten nicht für öffentlich
 geförderte Wohnheime.
 
 
 ### § 21 Untermietverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003704320)
 
 (1) Die Vorschriften dieses Gesetzes gelten sinngemäß für den Inhaber
 einer öffentlich geförderten Wohnung, wenn dieser die Wohnung ganz
@@ -903,6 +939,7 @@ Wohnraumförderungsgesetzes finden jedoch keine Anwendung.
 
 
 ### § 22 Bergarbeiterwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003808311)
 
 (1) Für die in § 2 Abs. 2 Nr. 2 des Wohnraumförderung-
 Überleitungsgesetzes bezeichneten Wohnungen sind die Vorschriften
@@ -947,6 +984,7 @@ Bergarbeiterwohnungsbaus im Kohlenbergbau vermieten oder überlassen.
 
 
 ### § 23 Erweiterter Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE003904320)
 
 Die Vorschriften der §§ 13 bis 18 über den Beginn und das Ende der
 Eigenschaft "öffentlich gefördert" gelten auch für die Anwendung von
@@ -955,12 +993,14 @@ Rechtsvorschriften ausdrücklich etwas anderes bestimmt ist.
 
 
 ### § 24 Verwaltungszwang
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004003320)
 
 Verwaltungsakte der zuständigen Stelle können im Wege des
 Verwaltungszwangs vollzogen werden.
 
 
 ### § 25 Maßnahmen bei Gesetzesverstößen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004105320)
 
 (1) Für die Zeit, während der der Verfügungsberechtigte schuldhaft
 gegen die Vorschriften der §§ 4, 7 Abs. 3, des § 8 Abs. 1 und 3, des §
@@ -994,6 +1034,7 @@ für den öffentlich geförderten sozialen Wohnungsbau einzusetzen.
 
 
 ### § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004205320)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1037,6 +1078,7 @@ versprechen lässt oder annimmt, als nach den §§ 8 bis 9 zulässig ist.
 
 
 ### § 27 Weitergehende Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004303320)
 
 Weitergehende vertragliche Verpflichtungen der in diesem Gesetz
 bestimmten Art, die im Zusammenhang mit der Gewährung öffentlicher
@@ -1050,6 +1092,7 @@ entrichtet worden sind.
 
 
 ### § 28 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004406310)
 
 (1) Die Landesregierungen werden ermächtigt, zur Durchführung der §§ 8
 bis 9 und des § 18f durch Rechtsverordnung Vorschriften zu erlassen
@@ -1107,15 +1150,18 @@ Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 
 
 ### § 29 Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004503320)
 
 Durch dieses Gesetz wird das Grundrecht der Unverletzlichkeit der
 Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
 
 
 ### § 30 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE005004320)
 
 Dieses Gesetz gilt nicht im Saarland.
 
 
 ### (XXXX) §§ 31 bis 33a und 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wobindg/BJNR009540965.html#BJNR009540965BJNE004604320)
 

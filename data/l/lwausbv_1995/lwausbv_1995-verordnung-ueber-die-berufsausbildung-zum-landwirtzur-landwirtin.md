@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000100000)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,11 +31,13 @@ für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000200000)
 
 Der Ausbildungsberuf Landwirt/Landwirtin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000300000)
 
 Die Ausbildung dauert drei Jahre. Auszubildende, denen der Besuch
 eines nach landesrechtlichen Vorschriften eingeführten schulischen
@@ -45,6 +48,7 @@ Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000400000)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -61,6 +65,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -136,6 +141,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000600000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den
 Anlagen I und II für die berufliche Grundbildung und für die
@@ -221,12 +227,14 @@ gleichwertig sind.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000700000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000800000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -235,6 +243,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -288,6 +297,7 @@ insbesondere aus folgenden Bereichen zu bearbeiten:
 
 
 ## § 9 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001000000)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -432,6 +442,7 @@ ungenügend bewertet worden ist.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001100000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -440,6 +451,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001200000)
 
 Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
@@ -448,6 +460,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
 Landwirtin
 
 ## Anlage I - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001400301)
 
 (Fundstelle: BGBl. I 1995, S. 171 - 176)
 
@@ -1517,6 +1530,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
 Landwirtin
 
 ## Anlage II - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/lwausbv_1995/BJNR016800995.html#BJNR016800995BJNE001500301)
 
 (Fundstelle: BGBl. I 1995, 177 u. 178)
 

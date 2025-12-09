@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## - - Siedlungsunternehmungen
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001201307)
 
 (1) Die
 Bundesstaaten sind verpflichtet, wo gemeinnützige
@@ -63,14 +65,17 @@ einzelnen Siedlungsunternehmungen berufen werden.
 
 
 ## - - Bereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000200319)
 
 
 
 ### a) - von Staatsdomänen
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000300319)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001300319)
 
 Staatsdomänen sind bei Ablauf des Pachtvertrags dem gemeinnützigen
 Siedlungsunternehmen (§ 1) zu höchstens dem Ertragswert zum Kaufe
@@ -83,10 +88,12 @@ werden.
 
 
 ### b) - von Moor- und Ödland
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000400319)
 
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001400319)
 
 (1) Das gemeinnützige Siedlungsunternehmen ist berechtigt,
 unbewirtschaftetes oder im Wege der dauernden Brennkultur oder zur
@@ -103,10 +110,12 @@ Bundesstaaten vorbehalten.
 
 
 ## - - Vorkaufsrecht des Siedlungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000500319)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001501307)
 
 (1) Wird ein landwirtschaftliches Grundstück oder Moor- und Ödland,
 das in landwirtschaftliche Kultur gebracht werden kann, in Größe von
@@ -150,6 +159,7 @@ Siedlungsunternehmen bezeichnete Stelle das Vorkaufsrecht hat.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001600319)
 
 Bei einem Eigentumserwerb durch Ausübung des Vorkaufsrechts erlöschen
 rechtsgeschäftliche Vorkaufsrechte. Für die dadurch entstandenen
@@ -163,6 +173,7 @@ Vorkaufsberechtigten mit gerichtlicher Klage geltend macht.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001700319)
 
 (1) Das Vorkaufsrecht kann ausgeübt werden, sobald die
 Siedlungsbehörde den ihr nach § 12 des Grundstückverkehrsgesetzes
@@ -186,6 +197,7 @@ noch nicht entschieden ist.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001800319)
 
 Der Vorkaufsberechtigte ist befugt, innerhalb der Frist des § 6 Abs. 1
 des Grundstückverkehrsgesetzes das Grundstück zu besichtigen. Wird er
@@ -199,6 +211,7 @@ Grundstückverkehrsgesetzes an den Veräußerer zugestellt hat.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE001901310)
 
 (1) Auf das Vorkaufsrecht sind § 464 Abs. 2 und die §§ 465 bis 468 des
 Bürgerlichen Gesetzbuchs sinngemäß anzuwenden. Das Vorkaufsrecht
@@ -213,6 +226,7 @@ Vertragsstrafen, die zu ihrer Erfüllung ausbedungen sind.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002000319)
 
 (1) Verwendet das Siedlungsunternehmen, das das Vorkaufsrecht nach
 diesem Gesetz ausgeübt hat, das Grundstück nicht binnen sechs Jahren
@@ -241,6 +255,7 @@ Siedlungsunternehmen zurückzuerstatten, soweit der Schaden durch die
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002100319)
 
 Einwendungen gegen das Vorkaufsrecht, die sich darauf gründen, daß die
 Veräußerung einer Genehmigung nach dem Grundstückverkehrsgesetz nicht
@@ -256,11 +271,13 @@ entsprechend anzuwenden.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002200319)
 
 -
 
 
 ### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002300319)
 
 Soweit Berufslandwirte, die enteignet sind, sich innerhalb dreier
 Jahre nach erfolgter Enteignung anderweitig ankaufen, um die
@@ -271,10 +288,12 @@ Ausdehnung nicht überschreitet.
 
 
 ## - - Landlieferungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000600319)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002400319)
 
 (1) In den Ansiedlungsbezirken, deren landwirtschaftliche Nutzfläche
 nach der landwirtschaftlichen Betriebszählung von 1907 zu mehr als 10
@@ -296,6 +315,7 @@ seiner Lieferungspflicht säumig ist.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002500319)
 
 (1) Der Landlieferungsverband hat auf Verlangen des gemeinnützigen
 Siedlungsunternehmens zu Siedlungszwecken geeignetes Land aus dem
@@ -320,6 +340,7 @@ genehmigten Preise verpachtet ist.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002600319)
 
 (1) Der Landlieferungsverband hat anstelle des gemeinnützigen
 Siedlungsunternehmens (§ 1) das Vorkaufsrecht auf alle großen Güter
@@ -333,6 +354,7 @@ entsprechend.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002700319)
 
 (1) Wo ein dringendes, auf andere Weise, insbesondere nach den
 Vorschriften der §§ 2, 3, 4, 13, 14, nicht zweckmäßig zu
@@ -361,6 +383,7 @@ Bundesstaaten vorbehalten.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002800319)
 
 (1) Von den besiedlungsfähigen großen Gütern sollen die
 Landlieferungsverbände, namentlich auch mit Hilfe der Enteignung, in
@@ -388,15 +411,18 @@ abgesehen werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE002900319)
 
 -
 
 
 ## - - Verhältnis zwischen Landlieferungsverband und Siedlungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000700319)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003000319)
 
 (1) Das Siedlungsunternehmen ist verpflichtet, dem
 Landlieferungsverband die Grundstücke abzunehmen und ihm den von ihm
@@ -431,10 +457,12 @@ dieser Aufwendungen.
 
 
 ## - - Außerordentliche Vermögensabgabe
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000800319)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003100319)
 
 Sofern Mitglieder des Landlieferungsverbandes (§ 12 Abs. 1) oder einer
 mit den Aufgaben des Verbandes beauftragten landwirtschaftlichen
@@ -445,10 +473,12 @@ zu liefernde Drittel (§ 13 Abs. 2) in Anrechnung.
 
 
 ## - - Wiederkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG000900319)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003200319)
 
 (1) Das gemeinnützige Siedlungsunternehmen hat ein Wiederkaufsrecht
 für die von ihm begründete Ansiedlerstelle, wenn der Ansiedler sie
@@ -463,6 +493,7 @@ bleiben die Vorschriften der Landesgesetzgebung unberührt.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003301310)
 
 Dem früheren Eigentümer steht ein Wiederkaufsrecht gegen das
 Siedlungsunternehmen zu, wenn es das erworbene Grundstück (§§ 3, 15)
@@ -474,10 +505,12 @@ Gesetzbuchs finden entsprechende Anwendung.
 
 
 ## - - Beschaffung von Pachtland für landwirtschaftliche Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG001000319)
 
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003401320)
 
 Landgemeinden oder Gutsbezirke können durch Anordnung der von der
 Landeszentralbehörde zu bezeichnenden Stelle verpflichtet werden,
@@ -491,6 +524,7 @@ gestellt ist.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003501320)
 
 Die Pachtverträge, die auf Grund dieses Gesetzes zwischen Arbeitgebern
 und den in ihren landwirtschaftlichen Betrieben ständig oder
@@ -501,6 +535,7 @@ Lohn- und Arbeitsverträgen zu verlautbaren.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003600319)
 
 (1) Ist das nötige Pacht- oder Nutzland auf andere Weise nicht zu
 beschaffen, so kann die Landgemeinde es im Wege der Zwangspachtung
@@ -522,6 +557,7 @@ Bundesstaaten vorbehalten.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003700319)
 
 Ist in einzelnen Gegenden die Beschaffung von Land für die Hebung
 bestehender Kleinbetriebe nicht möglich, so ist die
@@ -533,6 +569,7 @@ Zwecke öffentlicher oder volkswirtschaftlicher Art notwendig ist.
 
 
 ### § 25a
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003800319)
 
 (1) Bei der Besiedlung von Gütern oder Domänen soll das
 Siedlungsunternehmen die in dortigen Familienwohnungen wohnenden oder
@@ -567,6 +604,7 @@ obersten Landesbehörde zu bestimmende Stelle.
 
 
 ### § 25b
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE003900319)
 
 Bei der Ansetzung soll nachbarlicher Zusammenhang mit einer
 Bevölkerung gleichartigen religiösen Bekenntnissen gewahrt werden,
@@ -576,10 +614,12 @@ gleichen Konfession zu erfolgen.
 
 
 ## - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNG001100319)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004000319)
 
 Der
 Reichsarbeitsminister ist ermächtigt, soweit nichts anderes bestimmt
@@ -590,6 +630,7 @@ erlassen.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004100319)
 
 Landesrechtliche Vorschriften zur weitergehenden Förderung des
 Siedlungswesens einschließlich der Beschaffung von Pachtland für
@@ -600,6 +641,7 @@ Siedlungszwecken jedoch nicht enteignet werden.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004200319)
 
 Soweit durch landesrechtliche Regelung die Beschaffung von
 landwirtschaftlichem Siedlungslande bereits in ausreichender Weise
@@ -608,6 +650,7 @@ Reichsarbeitsminister Ausnahmen von diesem Gesetze zulassen.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004300319)
 
 (1) Alle Geschäfte und Verhandlungen, die zur Durchführung von
 Siedlungsverfahren im Sinne dieses Gesetzes dienen, sind, soweit sie
@@ -631,22 +674,26 @@ Finanzbehörden.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004400319)
 
 -
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004500319)
 
 -
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004600319)
 
 Dieses Gesetz tritt mit dem Tage der Verkündung in Kraft.
 
 Auszug aus EinigVtr Anlage I Kap. VI Sachgebiet E Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1017)
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlg/BJNR014290919.html#BJNR014290919BJNE004700307)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Haftung bei Personenschäden
+[Direktlink](https://www.gesetze-im-internet.de/mont_g/BJNR055010004.html#BJNR055010004BJNE000100000)
 
 (1) Wird ein Reisender getötet oder körperlich verletzt, bestimmen
 sich die Person des Ersatzberechtigten, der Gegenstand der
@@ -47,6 +48,7 @@ Luftverkehrsgesetzes.
 
 
 ## § 2 Haftung bei Güterschäden
+[Direktlink](https://www.gesetze-im-internet.de/mont_g/BJNR055010004.html#BJNR055010004BJNE000200000)
 
 Werden Güter zerstört, beschädigt oder gehen sie verloren, bestimmt
 sich die Art des nach Artikel 18 des Montrealer Übereinkommens zu
@@ -54,6 +56,7 @@ leistenden Schadensersatzes nach § 429 des Handelsgesetzbuchs.
 
 
 ## § 3 Umrechnung des Sonderziehungsrechts des Internationalen Währungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/mont_g/BJNR055010004.html#BJNR055010004BJNE000300000)
 
 Soweit sich aus Artikel 23 Abs. 1 des Montrealer Übereinkommens nicht
 etwas anderes ergibt, bestimmt sich die Umrechnung der im Montrealer
@@ -65,6 +68,7 @@ Luftverkehrsgesetzes.
 
 
 ## § 4 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mont_g/BJNR055010004.html#BJNR055010004BJNE000405305)
 
 (1) Unbeschadet der Vorschriften der Verordnung (EG) Nr. 2027/97 des
 Rates vom 9. Oktober 1997 über die Haftung von Luftfahrtunternehmen
@@ -106,6 +110,7 @@ Landesrecht vorbehalten.
 
 
 ## § 5 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mont_g/BJNR055010004.html#BJNR055010004BJNE000501301)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -133,6 +138,7 @@ Landesbehörden ausgeführt wird, das Luftfahrt-Bundesamt.
 
 
 ## § 6 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mont_g/BJNR055010004.html#BJNR055010004BJNE000600000)
 
 Die Vorschriften des Montrealer Übereinkommens sind nur anzuwenden,
 wenn der Luftbeförderungsvertrag nach dem Zeitpunkt geschlossen wurde,

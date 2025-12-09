@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000113311)
 
 (1) Dem Arbeitsentgelt sind nicht zuzurechnen:
 
@@ -146,6 +147,7 @@ Hinterbliebenenrente zu berücksichtigen ist.
 
 
 ## § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
+[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000217126)
 
 (1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung
 wird auf monatlich 333 Euro festgesetzt. Dieser Wert setzt sich
@@ -253,6 +255,7 @@ ergibt.
 
 
 ## § 3 Sonstige Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000301301)
 
 (1) Werden Sachbezüge, die nicht von § 2 erfasst werden, unentgeltlich
 zur Verfügung gestellt, ist als Wert für diese Sachbezüge der um
@@ -291,6 +294,7 @@ in diesem Kalenderjahr zuzuordnen.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/svev/BJNR338510006.html#BJNR338510006BJNE000401308)
 
 -
 

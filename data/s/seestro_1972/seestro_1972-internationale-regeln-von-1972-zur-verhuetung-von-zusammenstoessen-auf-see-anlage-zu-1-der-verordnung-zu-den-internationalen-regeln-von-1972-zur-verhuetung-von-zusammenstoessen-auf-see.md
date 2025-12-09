@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Teil A - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000100328)
 
 
 
 ### Regel 1 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE000901307)
 
 a) Diese Regeln gelten für alle Fahrzeuge auf Hoher See und auf den
 mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern.
@@ -58,6 +60,7 @@ kommen.
 
 
 ### Regel 2 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001000328)
 
 a) Diese Regeln befreien ein Fahrzeug, dessen Eigentümer, Kapitän oder
 Besatzung nicht von den Folgen, die durch unzureichende Einhaltung
@@ -72,6 +75,7 @@ ein Abweichen von diesen Regeln erfordern.
 
 
 ### Regel 3 Allgemeine Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001102308)
 
 Soweit sich aus dem Zusammenhang nicht etwas anderes ergibt, gilt für
 diese Regeln folgendes:
@@ -178,19 +182,23 @@ m)  Der Ausdruck "Bodeneffektfahrzeug (BEF)" bezeichnet ein in
 
 
 ## Teil B - Ausweich- und Fahrregeln
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000200328)
 
 
 
 ### Abschnitt I - Verhalten von Fahrzeugen bei allen Sichtverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000300328)
 
 
 
 #### Regel 4 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001200328)
 
 Die Regeln dieses Abschnitts gelten bei allen Sichtverhältnissen.
 
 
 #### Regel 5 Ausguck
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001300328)
 
 Jedes Fahrzeug muß jederzeit durch Sehen und Hören sowie durch jedes
 andere verfügbare Mittel, das den gegebenen Umständen und Bedingungen
@@ -200,6 +208,7 @@ Zusammenstoßes gibt.
 
 
 #### Regel 6 Sichere Geschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001400328)
 
 Jedes Fahrzeug muß jederzeit mit einer sicheren Geschwindigkeit
 fahren, so daß es geeignete und wirksame Maßnahmen treffen kann, um
@@ -280,6 +289,7 @@ b)  Zusätzlich von Fahrzeugen mit betriebsfähigem Radar:
 
 
 #### Regel 7 Möglichkeit der Gefahr eines Zusammenstoßes
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001500328)
 
 a) Jedes Fahrzeug muß mit allen verfügbaren Mitteln entsprechend den
 gegebenen Umständen und Bedingungen feststellen, ob die Möglichkeit
@@ -310,6 +320,7 @@ ii) eine solche Möglichkeit kann manchmal auch bestehen, wenn die Peilung
 
 
 #### Regel 8 Manöver zur Vermeidung von Zusammenstößen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001602308)
 
 a) Jedes Manöver zur Vermeidung eines Zusammenstoßes muss in
 Übereinstimmung mit den Regeln dieses Teiles erfolgen und, wenn es die
@@ -364,6 +375,7 @@ f)
 
 
 #### Regel 9 Enge Fahrwasser
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001700328)
 
 a) Ein Fahrzeug, das der Richtung eines engen Fahrwassers oder einer
 Fahrrinne folgt, muß sich so nahe am äußeren Rand des Fahrwassers oder
@@ -411,6 +423,7 @@ einem engen Fahrwasser vermeiden.
 
 
 #### Regel 10 Verkehrstrennungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001802308)
 
 a) Diese Regel gilt in Verkehrstrennungsgebieten, die von der
 Organisation festgelegt worden sind; sie befreit ein Fahrzeug nicht
@@ -498,16 +511,19 @@ Ausführung der Arbeiten erforderlich ist.
 
 
 ### Abschnitt II - Verhalten von Fahrzeugen, die einander in Sicht haben
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000400328)
 
 
 
 #### Regel 11 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE001900328)
 
 Die Regeln dieses Abschnitts gelten für Fahrzeuge, die einander in
 Sicht haben.
 
 
 #### Regel 12 Segelfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002000328)
 
 a) Wenn zwei Segelfahrzeuge sich einander so nähern, daß die
 Möglichkeit der Gefahr eines Zusammenstoßes besteht, muß das eine dem
@@ -538,6 +554,7 @@ die dem größten gesetzten Schratsegel gegenüberliegt.
 
 
 #### Regel 13 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002100328)
 
 a) Ungeachtet der Regeln des Teiles B Abschnitte I und II muß jedes
 Fahrzeug beim Überholen dem anderen ausweichen.
@@ -555,6 +572,7 @@ bis es dieses klar passiert hat.
 
 
 #### Regel 14 Entgegengesetzte Kurse
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002200328)
 
 a) Wenn zwei Maschinenfahrzeuge auf entgegengesetzten oder fast
 entgegengesetzten Kursen sich einander so nähern, daß die Möglichkeit
@@ -570,6 +588,7 @@ besteht, so muß es von dieser ausgehen und entsprechend handeln.
 
 
 #### Regel 15 Kreuzende Kurse
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002300328)
 
 Wenn die Kurse zweier Maschinenfahrzeuge einander so kreuzen, daß die
 Möglichkeit der Gefahr eines Zusammenstoßes besteht, muß dasjenige
@@ -579,12 +598,14 @@ zu kreuzen.
 
 
 #### Regel 16 Maßnahmen des Ausweichpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002400328)
 
 Jedes ausweichpflichtige Fahrzeug muß möglichst frühzeitig und
 durchgreifend handeln, um sich gut klar zu halten.
 
 
 #### Regel 17 Maßnahmen des Kurshalters
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002500328)
 
 
 a)
@@ -615,6 +636,7 @@ seiner Ausweichpflicht.
 
 
 #### Regel 18 Verantwortlichkeiten der Fahrzeuge untereinander
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002601308)
 
 Sofern in den Regeln 9, 10 und 13 nicht etwas anderes bestimmt ist,
 gilt folgendes:
@@ -715,10 +737,12 @@ f)
 
 
 ### Abschnitt III - Verhalten von Fahrzeugen bei verminderter Sicht
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000500328)
 
 
 
 #### Regel 19 Verhalten von Fahrzeugen bei verminderter Sicht
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002700328)
 
 a) Diese Regel gilt für Fahrzeuge, die einander nicht in Sicht haben,
 wenn sie innerhalb oder in der Nähe eines Gebiets mit verminderter
@@ -756,10 +780,12 @@ Vorsicht manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.
 
 
 ## Teil C - Lichter und Signalkörper
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000600328)
 
 
 
 ### Regel 20 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002800328)
 
 a) Die Regeln dieses Teiles müssen bei jedem Wetter befolgt werden.
 b) Die Regeln über Lichter müssen zwischen Sonnenuntergang und
@@ -779,6 +805,7 @@ Bestimmungen der Anlage I entsprechen.
 
 
 ### Regel 21 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE002900328)
 
 a) "Topplicht" bedeutet ein weißes Licht über der Längsachse des
 Fahrzeugs, das unbehindert über einen Horizontbogen von 225 Grad
@@ -804,6 +831,7 @@ Lichterscheinungen in der Minute.
 
 
 ### Regel 22 Tragweite der Lichter
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003000328)
 
 Die in diesen Regeln vorgeschriebenen Lichter müssen die in Abschnitt
 8 der Anlage I angegebenen Lichtstärken haben, so daß folgende
@@ -883,6 +911,7 @@ d)  Auf schwer erkennbaren, teilweise getauchten Fahrzeugen oder
 
 
 ### Regel 23 Maschinenfahrzeuge in Fahrt
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003101308)
 
 a) Ein Maschinenfahrzeug in Fahrt muß führen
 
@@ -945,6 +974,7 @@ d)
 
 
 ### Regel 24 Schleppen und Schieben
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003200328)
 
 a) Ein schleppendes Maschinenfahrzeug muß führen
 
@@ -1082,6 +1112,7 @@ Anleuchten der Schleppleine.
 
 
 ### Regel 25 Segelfahrzeuge in Fahrt und Fahrzeuge unter Ruder
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003300328)
 
 a) Ein Segelfahrzeug in Fahrt muß führen
 
@@ -1128,6 +1159,7 @@ er am besten gesehen werden kann.
 
 
 ### Regel 26 Fischereifahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003401308)
 
 a) Ein fischendes Fahrzeug in Fahrt oder vor Anker darf nur die in
 dieser Regel vorgeschriebenen Lichter und Signalkörper führen.
@@ -1181,6 +1213,7 @@ die für ein Fahrzeug seiner Länge vorgeschriebenen.
 
 
 ### Regel 27 Manövrierunfähige oder manövrierbehinderte Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003500328)
 
 a) Ein manövrierunfähiges Fahrzeug muß führen
 
@@ -1294,6 +1327,7 @@ IV aufgeführt.
 
 
 ### Regel 28 Tiefgangbehinderte Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003600328)
 
 Ein tiefgangbehindertes Fahrzeug darf zusätzlich zu den in Regel 23
 für Maschinenfahrzeuge vorgeschriebenen Lichtern drei rote
@@ -1302,6 +1336,7 @@ wo sie am besten gesehen werden können.
 
 
 ### Regel 29 Lotsenfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003700328)
 
 a) Ein Fahrzeug im Lotsdienst muß führen
 
@@ -1328,6 +1363,7 @@ führen.
 
 
 ### Regel 30 Fahrzeuge vor Anker und auf Grund
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003800328)
 
 a) Ein Fahrzeug vor Anker muß dort, wo sie am besten gesehen werden
 können, führen
@@ -1369,6 +1405,7 @@ Signalkörper zu führen.
 
 
 ### Regel 31 Wasserflugzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE003901308)
 
 Regel 31 Wasserflugzeuge
 Kann ein Wasserflugzeug oder ein Bodeneffektfahrzeug keine Lichter
@@ -1379,10 +1416,12 @@ vergleichbar sind.
 
 
 ## Teil D - Schall- und Lichtsignale
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000700328)
 
 
 
 ### Regel 32 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004000328)
 
 a) Der Ausdruck "Pfeife" bezeichnet eine Schallsignalanlage, mit der
 die vorgeschriebenen Töne gegeben werden können und die den
@@ -1394,6 +1433,7 @@ Sekunden Dauer.
 
 
 ### Regel 33 Ausrüstung für Schallsignale
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004101308)
 
 a) Ein Fahrzeug von 12 und mehr Meter Länge muss mit einer Pfeife, ein
 Fahrzeug von 20 und mehr Meter Länge zusätzlich zur Pfeife mit einer
@@ -1411,6 +1451,7 @@ sein.
 
 
 ### Regel 34 Manöver- und Warnsignale
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004200328)
 
 a) Haben Fahrzeuge einander in Sicht, so muß ein Maschinenfahrzeug in
 Fahrt beim Manövrieren nach diesen Regeln das Manöver durch folgende
@@ -1511,6 +1552,7 @@ Warnsignalen verwendet werden.
 
 
 ### Regel 35 Schallsignale bei verminderter Sicht
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004301308)
 
 Innerhalb oder in der Nähe eines Gebiets mit verminderter Sicht müssen
 am Tag oder bei Nacht folgende Signale gegeben werden:
@@ -1587,6 +1629,7 @@ k)  Ein Lotsenfahrzeug im Lotsdienst darf zusätzlich zu den unter
 
 
 ### Regel 36 Aufmerksamkeitssignale
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004400328)
 
 Ist es erforderlich, die Aufmerksamkeit eines anderen Fahrzeugs zu
 erregen, so darf ein Fahrzeug Licht- oder Schallsignale geben, die
@@ -1601,16 +1644,19 @@ Beispiel Lichter mit umlaufender Blendscharte, zu vermeiden.
 
 
 ### Regel 37 Notsignale
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004500328)
 
 Ist ein Fahrzeug in Not und fordert es Hilfe an, so muß es die in
 Anlage IV beschriebenen Signale benutzen oder zeigen.
 
 
 ## Teil E - Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000800328)
 
 
 
 ### Regel 38 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004600328)
 
 Ein Fahrzeug (oder eine Fahrzeugklasse), das (die) vor dem
 Inkrafttreten dieser Regeln auf Kiel gelegt wurde oder sich in einem
@@ -1670,10 +1716,12 @@ h)  Dauernde Befreiung von der Versetzung der Rundumlichter nach den
 
 
 ## Teil F - Überprüfung der Einhaltung des Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNG000900360)
 
 
 
 ### Regel 39 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE005100360)
 
 
 a)  “Audit” bezeichnet ein systematisches, unabhängiges und dokumentiertes
@@ -1703,6 +1751,7 @@ d)  “Auditnorm” bezeichnet den Anwendungscode.
 [^F819035_02_BJNR008160977BJNE005100360]: 
 
 ### Regel 40 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE005200360)
 
 Die Vertragsparteien wenden bei der Wahrnehmung ihrer Verpflichtungen
 und Verantwortlichkeiten nach diesem Übereinkommen den Anwendungscode
@@ -1710,6 +1759,7 @@ an.
 
 
 ### Regel 41 Überprüfung der Einhaltung
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE005300360)
 
 
 a)  Jede Vertragspartei unterliegt regelmäßigen Audits, welche die
@@ -1754,6 +1804,7 @@ d)  Das Audit jeder Vertragspartei
 [^F819035_03_BJNR008160977BJNE005300360]: 
 
 ### Anlage I Anordnung und technische Einzelheiten der Lichter und Signalkörper
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004703308)
 
 
 **1.** **Begriffsbestimmung**
@@ -2325,6 +2376,7 @@ ist.
 
 
 ### Anlage II Zusatzsignale für nahe beieinander fischende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004801308)
 
 **1. Allgemeines**
 Die hier aufgeführten Lichter müssen, wenn sie in Übereinstimmung mit
@@ -2389,6 +2441,7 @@ Fahrzeug durch sein Fanggerät behindert ist.
 
 
 ### Anlage III Technische Einzelheiten der Schallsignalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE004901308)
 
 **1. Pfeifen**
 
@@ -2575,6 +2628,7 @@ berechtigt ist.
 
 
 ### Anlage IV Notzeichen
+[Direktlink](https://www.gesetze-im-internet.de/seestro_1972/BJNR008160977.html#BJNR008160977BJNE005003305)
 
 
 1.  Die folgenden Signale, die zusammen oder einzeln verwendet oder

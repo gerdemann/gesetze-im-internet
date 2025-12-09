@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbag_bsgano/BJNR001190954.html#BJNR001190954BJNE000100301)
 
 Auf Grund des § 76 in Verbindung mit § 189 des Bundesbeamtengesetzes
 vom 14. Juli 1953 (Bundesgesetzbl. I S. 551) bestimme ich:
@@ -59,12 +60,14 @@ c)  die Richter am Bundesarbeitsgericht und die Richter am
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbag_bsgano/BJNR001190954.html#BJNR001190954BJNE000200301)
 
 Rechtsanwälte und Verwaltungsrechtsräte tragen als Bevollmächtigte der
 Parteien die bei den Gerichten für sie vorgeschriebene Amtstracht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbag_bsgano/BJNR001190954.html#BJNR001190954BJNE000300301)
 
 Der Bundesminister für Arbeit wird ermächtigt, Ausführungsbestimmungen
 zu dieser Anordnung zu erlassen. Soweit sich diese auf das

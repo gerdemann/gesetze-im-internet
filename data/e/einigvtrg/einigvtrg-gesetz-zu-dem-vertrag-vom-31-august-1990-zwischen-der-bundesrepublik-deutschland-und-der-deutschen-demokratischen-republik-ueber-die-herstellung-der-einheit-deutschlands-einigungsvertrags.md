@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen; Artikel 79 Abs. 2 des Grundgesetzes ist eingehalten:
 
 
 ## Art 1 Zustimmung zum Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000200308)
 
 Dem in Berlin am 31. August 1990 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
@@ -38,6 +40,7 @@ Vereinbarung werden nachstehend veröffentlicht.
 Verordnungsermächtigung
 
 ## Art 2 (Verträge der Bundesrepublik Deutschland im Bereich der sozialen Sicherheit)
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE001100308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 erforderlichen Anpassungen der von Artikel 11 des Einigungsvertrages
@@ -81,6 +84,7 @@ Zustimmungsbedürftigkeit begründen würden.
 Verordnungsermächtigung
 
 ## Art 3 (Verträge der Deutschen Demokratischen Republik im Bereich der sozialen Sicherheit)
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000300308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 vorübergehend die weitere Anwendung der von Artikel 12 des
@@ -129,6 +133,7 @@ Zustimmungsbedürftigkeit begründen würden.
 Verordnungsermächtigung
 
 ## Art 4 (EG-Recht und EG-bedingtes Recht)
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000400308)
 
 (1) Die Bundesregierung wird ermächtigt, in Ausübung von
 Ermächtigungen des Rates der Europäischen Gemeinschaften oder gemäß
@@ -155,6 +160,7 @@ Deutsche Mark geahndet werden.
 Verordnungsermächtigung
 
 ## Art 5 (Anmeldung vermögensrechtlicher Ansprüche)
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000500308)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die Verordnung über die Anmeldung
@@ -168,6 +174,7 @@ vereinfachen und die Anmeldefrist zu ändern.
 
 
 ## Art 6 Rückkehr zum einheitlichen Verordnungsrang, Aufhebung und Änderung von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000600308)
 
 (1) Die auf der Anlage I zu Artikel 8 des Vertrages beruhenden Teile
 der dort geänderten Rechtsverordnungen sowie die Maßgaben zu
@@ -185,6 +192,7 @@ oder aufgehoben werden.
 
 
 ## Art 7 Neufassung der durch den Vertrag geänderten Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000700308)
 
 Der jeweils zuständige Bundesminister kann den Wortlaut eines durch
 den Vertrag geänderten Gesetzes in der am Tage nach der Verkündung
@@ -193,6 +201,7 @@ geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 8 
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000800308)
 
 Das Gesetz über die Statistik des Warenverkehrs mit der Deutschen
 Demokratischen Republik und Berlin (Ost) vom 16. Juni 1978 (BGBl. I S.
@@ -266,6 +275,7 @@ Einigungsvertrages genannten Gebiet" und wie folgt geändert:
 
 
 ## Art 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE000900308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -274,6 +284,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/einigvtrg/BJNR208850990.html#BJNR208850990BJNE001000308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

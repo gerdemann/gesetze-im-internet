@@ -26,6 +26,7 @@ in deutsches Recht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000100000)
 
 Auf Grund des § 47f des Bundes-Immissionsschutzgesetzes, der durch
 Artikel 1 des Gesetzes zur Umsetzung der EG-Richtlinie über die
@@ -35,6 +36,7 @@ Anhörung der beteiligten Kreise:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000200000)
 
 Diese Verordnung gilt für die Kartierung von Umgebungslärm. Sie
 konkretisiert Anforderungen an Lärmkarten nach § 47c des Bundes-
@@ -42,6 +44,7 @@ Immissionsschutzgesetzes.
 
 
 ## § 2 Lärmindizes
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000301125)
 
 (1) Die Lärmindizes
 L
@@ -75,6 +78,7 @@ DEN in Dezibel ist wie folgt definiert:
 ![bgbl1_2006_j0516_0010.jpg](bgbl1_2006_j0516_0010.jpg)
 
 ## § 3 Datenerhebung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000401125)
 
 (1) Soweit die für die Ausarbeitung der Lärmkarten zuständigen
 Behörden nicht auf Bestände zurückgreifen können, können sie anordnen,
@@ -122,6 +126,7 @@ erforderlichen Daten unentgeltlich zur Verfügung zu stellen.
 
 
 ## § 4 Ausarbeitung von Lärmkarten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000501125)
 
 (1) Lärmkarten für Ballungsräume erstrecken sich auf sämtliche darin
 gelegene Hauptlärmquellen, sowie ferner auf
@@ -261,6 +266,7 @@ Night zu erfolgen. Die Angaben sind auf ganze Zahlen zu runden.
 
 
 ## § 5 Berechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000603125)
 
 (1) Die Lärmindizes werden nach Verfahren berechnet, die den allgemein
 anerkannten Regeln der Technik entsprechen. Die Berechnungsverfahren
@@ -337,6 +343,7 @@ dem Ausbreitungsweg.
 
 
 ## § 6 Übermittlung von Daten für den digitalen Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000703125)
 
 (1) Die nach § 47e Absatz 2 und 3 des Bundes-Immissionsschutzgesetzes
 zuständigen Behörden übermitteln binnen vier Monaten nach den in § 47c
@@ -354,6 +361,7 @@ Lärmkarten.
 
 
 ## § 7 Information der Öffentlichkeit über Lärmkarten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000801125)
 
 Geeignete Ausfertigungen der Lärmkarten, die der Unterrichtung der
 Öffentlichkeit dienen, werden von den zuständigen Behörden nach § 47e
@@ -370,6 +378,7 @@ die zu verbreitenden Lärmkarten zu finden sind.
 
 
 ## § 7a Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE001100125)
 
 DIN- und ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind
 bei der Beuth Verlag GmbH, Berlin, zu beziehen. Die DIN- und ISO-
@@ -378,11 +387,13 @@ archivmäßig gesichert niedergelegt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE000900000)
 
 Diese Verordnung tritt am 16. März 2006 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_34/BJNR051600006.html#BJNR051600006BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

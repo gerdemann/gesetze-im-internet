@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
 
 ## § 1 Errichtung, Zweck und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000100000)
 
 (1) Es wird eine rechtsfähige Stiftung des öffentlichen Rechts mit der
 Bezeichnung „Fonds zur Finanzierung der kerntechnischen Entsorgung“
@@ -36,6 +37,7 @@ Erzeugung von Elektrizität in Deutschland zu sichern.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000201123)
 
 (1) Einzahlender ist der Betreiber einer oder mehrerer der in Anhang 1
 aufgeführten Anlagen zur Spaltung von Kernbrennstoffen zur
@@ -63,6 +65,7 @@ werden.
 
 
 ## § 3 Aufgaben und Organisation des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000300000)
 
 (1) Zur Verwirklichung des Zwecks nach § 1 Absatz 2 erstattet der
 Fonds die dem Bund ab dem Übergang der Entsorgungsverpflichtung nach
@@ -76,6 +79,7 @@ Erzeugung von Elektrizität in Deutschland und legt die dazu
 
 
 ## § 4 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000402123)
 
 (1) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die
 mit der Erfüllung des Stiftungszwecks nach § 1 Absatz 2 und den
@@ -111,6 +115,7 @@ Es beschließt mit der einfachen Mehrheit seiner Mitglieder.
 
 
 ## § 5 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000501123)
 
 (1) Der Vorstand führt die Beschlüsse des Kuratoriums aus und führt
 die Geschäfte der Stiftung. Er beschließt mit der einfachen Mehrheit
@@ -137,6 +142,7 @@ untersagen. Die Berichtspflichten des Fonds ergeben sich aus den §§
 
 
 ## § 6 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000600000)
 
 Das Kuratorium erlässt eine Satzung. In der Satzung werden die
 Einzelheiten der Organisation und der Ausführung der Aufgaben des
@@ -144,6 +150,7 @@ Fonds geregelt.
 
 
 ## § 7 Fondsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000700000)
 
 (1) Dem Fonds fließen Zahlungen für die abgezinsten zukünftigen
 Entsorgungskosten und für den Risikoaufschlag von den Einzahlenden
@@ -185,6 +192,7 @@ Geltendmachung eines Zurückbehaltungsrechts sind ausgeschlossen.
 
 
 ## § 8 Vorzeitige Ratenzahlung, Nachschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000801123)
 
 (1) Drohen aufgrund einer Ratenzahlungsvereinbarung vor Zahlung der
 letzten Rate die dem Fonds bereits zur Verfügung stehenden Mittel
@@ -238,6 +246,7 @@ Fonds unmittelbar oder mittelbar beteiligt ist, dar, sofern
 
 
 ## § 9 Anlage der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE000901119)
 
 (1) Der Fonds richtet getrennte Konten für jeden Einzahlenden ein. Auf
 den Konten sind jeweils die Einzahlungen nach § 7 Absatz 2 bis 4 sowie
@@ -282,6 +291,7 @@ Person, die der deutschen Besteuerung unterliegt.
 
 
 ## § 10 Verwendung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001001123)
 
 (1) Die Mittel des Fonds dürfen nur zur Erfüllung des Fondszwecks nach
 § 1 Absatz 2 und nach Maßgabe von § 3 Absatz 1 verwendet werden.
@@ -296,6 +306,7 @@ Abfälle entstehen.
 
 
 ## § 11 Grundsätze der Wirtschaftsführung, Finanz- und Wirtschaftsplanung
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001102123)
 
 (1) Der Fonds ist in seiner Wirtschaftsführung selbständig. Er trifft
 seine Anlageentscheidungen nach kaufmännischen Grundsätzen.
@@ -394,6 +405,7 @@ größer als drei Jahre ist.
 
 
 ## § 11a Ausführung und Änderung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001800123)
 
 (1) Verwaltungsaufwendungen müssen durch Ansätze im Wirtschaftsplan
 gedeckt sein. Verwaltungsaufwendungen, für die die Ansätze im
@@ -415,6 +427,7 @@ Wirtschaftsplans gilt § 11 Absatz 6 bis 11 entsprechend.
 
 
 ## § 11b Veränderungen von Verträgen und Ansprüchen, Vergleiche
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001900123)
 
 (1) Der Fonds darf in Bezug auf den Vermögensanlagebestand
 
@@ -458,6 +471,7 @@ die Satzung.
 
 
 ## § 11c Erwerb und Veräußerung von Vermögensgegenständen zu Anlagezwecken
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE002000123)
 
 (1) Vermögensgegenstände dürfen zu Anlagezwecken nur erworben werden,
 soweit der Erwerb aufgrund der gemäß § 9 Absatz 2 Satz 1 dieses
@@ -473,6 +487,7 @@ werden.
 
 
 ## § 12 Buchführung, Rechnungslegung und Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001202123)
 
 (1) Auf die Führung der Bücher des Fonds und die Pflichten zur
 Aufbewahrung findet der Erste und Dritte Unterabschnitt des Ersten
@@ -514,6 +529,7 @@ Prüfungsbericht vorzulegen.
 
 
 ## § 12a Entlastung des Vorstands; sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE002100123)
 
 (1) Die Entlastung des Vorstands erteilt das Kuratorium. Die
 Entlastung bedarf der Genehmigung des Bundesministeriums für
@@ -532,6 +548,7 @@ Bundeshaushaltsordnung.
 
 
 ## § 13 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001301119)
 
 Der Fonds untersteht der Rechtsaufsicht des Bundesministeriums für
 Wirtschaft und Energie, die im Einvernehmen mit dem Bundesministerium
@@ -540,6 +557,7 @@ nukleare Sicherheit auszuüben ist.
 
 
 ## § 14 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001400000)
 
 (1) Der Fonds ist bei Verbrauch seiner Mittel, spätestens jedoch nach
 Erfüllung seines Zwecks aufzulösen.
@@ -549,6 +567,7 @@ zu.
 
 
 ## § 15 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001501119)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium der Finanzen und dem
@@ -568,6 +587,7 @@ Bundesrates bedarf.
 
 
 ## Anhang 1
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001600000)
 
 (Fundstelle: BGBl. I 2017, 118)
 
@@ -696,6 +716,7 @@ Bundesrates bedarf.
 
 
 ## Anhang 2
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsg/BJNR011410017.html#BJNR011410017BJNE001701118)
 
 (Fundstelle: BGBl. I 2017, 1672)
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Lenk- und Ruhezeiten im nationalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000100000)
 
 
 
 ### § 1 Lenk- und Ruhezeiten im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000105360)
 
 (1) Fahrer
 
@@ -283,6 +285,7 @@ digitalen Fahrtenschreiber ausgerüstet ist. In diesem Fall findet §
 
 
 ### § 2 Digitaler Fahrtenschreiber
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000204360)
 
 (1) Ein Fahrer, der ein Fahrzeug lenkt, das in den Anwendungsbereich
 der Verordnung (EG) Nr. 561/2006 fällt, oder der Lenk- oder Ruhezeiten
@@ -372,6 +375,7 @@ Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
 
 ### § 2a Aufbewahrung von Kontrollunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE003200301)
 
 Der Unternehmer bewahrt die ihm oder seinen Fahrern von den
 zuständigen Personen überlassenen Niederschriften, Ergebnisprotokolle
@@ -384,10 +388,12 @@ folgenden Kalenderjahres zu vernichten.
 
 
 ## Abschnitt 2 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000200000)
 
 
 
 ### § 3 Zertifizierungsinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000303360)
 
 Die Aufgaben der für die Umsetzung des Zertifizierungsverfahrens nach
 der Verordnung (EU) Nr. 165/2014 verantwortlichen Stellen ergeben sich
@@ -401,10 +407,12 @@ D-CIA's) werden von den Ländern bestimmt.
 
 
 ## Abschnitt 3 - Kontrollsystem nach EG-Verordnungen
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000300000)
 
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000402360)
 
 (1) Die zum Betrieb des digitalen Fahrtenschreibers erforderlichen
 Fahrtenschreiberkarten (Fahrer-, Werkstatt-, Unternehmens- und
@@ -510,6 +518,7 @@ Fahrtenschreiberkartenregister beim Kraftfahrt-Bundesamt.
 
 
 ### § 5 Fahrerkarte
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000502360)
 
 (1) Der Antragsteller hat Angaben zu seiner Muttersprache zu machen
 und folgende Unterlagen vorzulegen:
@@ -574,6 +583,7 @@ Gültigkeitsdauer der ersetzten Karte.
 
 
 ### § 6 Mitführen der abgelaufenen Fahrerkarte
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000602360)
 
 Der Fahrer hat auch nach Ablauf der Gültigkeit die Fahrerkarte noch
 mindestens 28 Kalendertage im Fahrzeug mitzuführen. Bei Umtausch der
@@ -584,6 +594,7 @@ mitzuführen.
 
 
 ### § 7 Werkstattkarte
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000702360)
 
 (1) Die Werkstattkarte wird nur erteilt, wenn der Antragsteller als
 Unternehmer oder die nach Gesetz, Satzung oder Gesellschaftsvertrag
@@ -640,6 +651,7 @@ gilt entsprechend.
 
 
 ### § 8 Wegfall von Erteilungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000802360)
 
 (1) Ist eine der Erteilungsvoraussetzungen nachträglich entfallen, so
 ist dies unverzüglich der zuständigen Behörde oder Stelle zu melden;
@@ -663,6 +675,7 @@ Zentrale Fahrtenschreiberkartenregister beim Kraftfahrt-Bundesamt.
 
 
 ### § 9 Unternehmenskarte
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE000902360)
 
 (1) Der Antragsteller hat folgende Angaben zu machen und durch
 Unterlagen nachzuweisen:
@@ -693,6 +706,7 @@ gilt entsprechend.
 
 
 ### § 10 Kontrollkarte
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001002123)
 
 Die Kontrollkarten werden an die für die Kontrolle der
 Sozialvorschriften im Straßenverkehr zuständigen Behörden und Stellen
@@ -706,10 +720,12 @@ fünf Jahre.
 
 
 ## Abschnitt 4 - Zentrales Fahrtenschreiberkartenregister
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000401360)
 
 
 
 ### § 11 Führung und Zweckbestimmung des Registers
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001101360)
 
 (1) Das Kraftfahrt-Bundesamt führt nach § 2 Nr. 4 des
 Fahrpersonalgesetzes das Zentrale Fahrtenschreiberkartenregister zum
@@ -729,6 +745,7 @@ beschädigt sind.
 
 
 ### § 12 Inhalt des Registers
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001202360)
 
 Im Zentralen Fahrtenschreiberkartenregister werden gespeichert über
 
@@ -873,12 +890,14 @@ Im Zentralen Fahrtenschreiberkartenregister werden gespeichert über
 
 
 ### § 13 Löschung von Eintragungen im Zentralen Fahrtenschreiberkartenregister
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001302360)
 
 Die Daten über Fahrtenschreiberkarten werden fünf Jahre nach Ablauf
 der Gültigkeitsdauer gelöscht.
 
 
 ### § 14 Mitteilung an das Zentrale Fahrtenschreiberkartenregister im automatisierten Dialogverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001401360)
 
 (1) Die für die Antragsbearbeitung zuständige Behörde oder Stelle
 teilt dem Zentralen Fahrtenschreiberkartenregister unverzüglich die zu
@@ -897,6 +916,7 @@ hierüber mit.
 
 
 ### § 15 Übermittlung von Daten an inländische Behörden und Stellen durch Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001501360)
 
 Die im Zentralen Fahrtenschreiberkartenregister gespeicherten Daten
 dürfen an die hierfür zuständigen Behörden und Stellen durch Abruf im
@@ -920,6 +940,7 @@ ist
 
 
 ### § 16 Übermittlung von Daten an ausländische Behörden und Stellen durch Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001601360)
 
 Die im Zentralen Fahrtenschreiberkartenregister über Fahrerkarten und
 Werkstattkarten gespeicherten Daten dürfen an die hierfür zuständigen
@@ -947,16 +968,19 @@ werden, soweit dies erforderlich ist
 
 
 ### § 17 Einrichtung und Betrieb der automatisierten Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001700000)
 
 Die Einrichtung und der Betrieb der automatisierten Abrufverfahren
 richten sich nach den Bestimmungen des Bundesdatenschutzgesetzes.
 
 
 ## Abschnitt 5 - Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000500000)
 
 
 
 ### § 18 Ausnahmen nach den Verordnungen (EG) Nr. 561/2006 und (EU) Nr. 165/2014
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001806123)
 
 (1) Nach Artikel 13 Absatz 1 der Verordnung (EG) Nr. 561/2006 und nach
 Artikel 3 Absatz 2 der Verordnung (EU) Nr. 165/2014 werden im
@@ -1071,10 +1095,12 @@ der Berufsausbildung 16 Jahre.
 
 
 ## Abschnitt 6 - Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000600000)
 
 
 
 ### § 19 Fahrtenschreiber nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE001903360)
 
 Auf Grund des Artikels 3 Absatz 1, des Artikels 10 Absatz 1 und des
 Artikels 13 Absatz 1 des AETR in Verbindung mit Artikel 2 Abs. 3 der
@@ -1091,10 +1117,12 @@ die Anforderungen nach Satz 4.
 
 
 ## Abschnitt 7 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000700000)
 
 
 
 ### § 20 Nachweis über berücksichtigungsfreie Tage
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002004360)
 
 (1) Selbstfahrende Unternehmer und Fahrer, die die in dieser
 Verordnung, in Artikel 36 Absatz 2 der Verordnung (EU) Nr. 165/2014
@@ -1170,6 +1198,7 @@ vernichten.
 
 
 ### § 20a Verantwortlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE003301305)
 
 (1) Die Verkehrsunternehmen sind verpflichtet, ihren Betrieb nach
 Maßgabe von Artikel 10 Abs. 1 und 2 der Verordnung (EG) Nr. 561/2006
@@ -1203,10 +1232,12 @@ verstoßen.
 
 
 ## Abschnitt 8 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000800000)
 
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002104360)
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 Buchstabe a des
 Fahrpersonalgesetzes handelt, wer als Unternehmer vorsätzlich oder
@@ -1385,6 +1416,7 @@ verantwortliche Fachkraft (Installateur) vorsätzlich oder fahrlässig
 
 
 ### § 22 Zuwiderhandlungen gegen das AETR
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002204123)
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 1 Buchstabe b des
 Fahrpersonalgesetzes handelt, wer als Unternehmer gegen das
@@ -1561,6 +1593,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ### § 23 Zuwiderhandlungen gegen die Verordnung (EU) Nr. 165/2014
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002304123)
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 1 Buchstabe b des
 Fahrpersonalgesetzes handelt, wer als Unternehmer gegen die Verordnung
@@ -1724,18 +1757,22 @@ mindestens zwei Jahre lang aufbewahrt.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002401360)
 
 
 
 ## Abschnitt 9 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNG000900000)
 
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002603360)
 
 
 
 ### Anlage 1 (zu § 1 Abs. 6)
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002702360)
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++
 (Fundstelle: BGBl. I 2005, 1893
@@ -1746,6 +1783,7 @@ Digitales Tachographensystem im Straßenverkehr
 Policy für die Bundesrepublik Deutschland
 
 ### Anlage 2 Version 1.2 in der Fassung vom 18. April 2007
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE002803360)
 
 (Fundstelle: BGBl. I 2008, 61 - 82)
 
@@ -4213,6 +4251,7 @@ Anhang B
 (zu § 4)
 
 ### Anlage 3 Beschreibung der Speicherkarten
+[Direktlink](https://www.gesetze-im-internet.de/fpersv/BJNR188210005.html#BJNR188210005BJNE003100000)
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++
 Fundstelle des Originaltextes: BGBl. I 2005, 1914 - 1916

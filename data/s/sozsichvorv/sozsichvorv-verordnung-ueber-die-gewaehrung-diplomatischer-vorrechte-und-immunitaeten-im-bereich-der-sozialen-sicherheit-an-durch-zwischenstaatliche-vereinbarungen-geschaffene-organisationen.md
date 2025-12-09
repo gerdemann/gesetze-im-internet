@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvorv/BJNR209610985.html#BJNR209610985BJNE000100319)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -36,6 +37,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvorv/BJNR209610985.html#BJNR209610985BJNE000201307)
 
 (1) Die deutschen Rechtsvorschriften über die Versicherungspflicht in
 der gesetzlichen Kranken-, Unfall- und Rentenversicherung sowie über
@@ -86,6 +88,7 @@ nach den Vorschriften der gesetzlichen Rentenversicherung vor.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvorv/BJNR209610985.html#BJNR209610985BJNE000301307)
 
 (1) Sind Pflichtbeiträge zur gesetzlichen Rentenversicherung für einen
 Zeitraum entrichtet worden, für den eine Versicherungspflicht auf
@@ -110,6 +113,7 @@ entrichtet worden sind, werden nicht erstattet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvorv/BJNR209610985.html#BJNR209610985BJNE000400319)
 
 Den §§ 1 und 2 gehen die für einzelne Organisationen geltenden
 besonderen innerstaatlichen sowie über- und zwischenstaatlichen
@@ -117,6 +121,7 @@ Regelungen vor.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvorv/BJNR209610985.html#BJNR209610985BJNE000500319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -126,6 +131,7 @@ genannten Gesetzes vom 16. August 1980 auch im Land Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvorv/BJNR209610985.html#BJNR209610985BJNE000600319)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tage nach
 der Verkündung in Kraft.

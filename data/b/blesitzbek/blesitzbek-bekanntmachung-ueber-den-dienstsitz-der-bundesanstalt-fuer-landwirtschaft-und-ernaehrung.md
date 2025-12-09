@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/blesitzbek/BJNR106000005.html#BJNR106000005BJNE000100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft gibt gemäß § 9 Nr. 3 des Berlin/Bonn-Gesetzes vom 26.

@@ -23,6 +23,7 @@ Stand: Das G ist gem. Art. 22 Satz 2 iVm Bek. v. 24.8.2023 I Nr. 230 mWv 31.8.20
 Stand: § 12 ist gem. Art. 22 Satz 1 mWv 7.4.2021 in Kraft getreten
 
 ## § 1 Ziele des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000101000)
 
 Die Identifikationsnummer nach § 139b der Abgabenordnung
 (Identifikationsnummer) wird als zusätzliches Ordnungsmerkmal in die
@@ -45,6 +46,7 @@ und der Länder eingeführt, um
 
 
 ## § 2 Aufgaben registerführender Stellen
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000201116)
 
 Öffentliche Stellen in Bund und Ländern, welche Register nach § 1
 führen (registerführende Stellen), sind zur Erreichung der Ziele nach
@@ -75,6 +77,7 @@ führen (registerführende Stellen), sind zur Erreichung der Ziele nach
 
 
 ## § 3 Einrichtung und Aufgaben der Registermodernisierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000300000)
 
 (1) Die Registermodernisierungsbehörde hat folgende Aufgaben:
 
@@ -131,6 +134,7 @@ Bundesverwaltungsamts bleibt unberührt.
 
 
 ## § 4 Zu einer Person gespeicherte Daten
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000400000)
 
 (1) Die Daten nach den Absätzen 2 und 3 einer natürlichen Person
 werden vom Bundeszentralamt für Steuern gespeichert, wenn diese Person
@@ -194,6 +198,7 @@ das Bundeszentralamt für Steuern weitergeleitet.
 
 
 ## § 5 Zweck und Vergabe der Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000500000)
 
 (1) Die Identifikationsnummer dient im Rahmen dieses Gesetzes
 
@@ -228,6 +233,7 @@ weitere Datenverarbeitung erfolgt.
 
 
 ## § 6 Automatisierter Datenabruf bei der Registermodernisierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000601130)
 
 (1) Registerführende Stellen rufen zur Erfüllung der Aufgaben nach § 2
 die Daten nach § 4 Absatz 2 und 3 bei der
@@ -289,6 +295,7 @@ vorhanden sind oder ob eine Auskunftssperre besteht.
 
 
 ## § 7 Verfahren der Datenübermittlungen mit der Registermodernisierungs- behörde und zwischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000700000)
 
 (1) Die Verfahren der Datenabrufe öffentlicher Stellen bei der
 Registermodernisierungsbehörde, Antworten der
@@ -331,6 +338,7 @@ dieses Gesetzes verpflichtet.
 
 
 ## § 8 Befugnisse und Verantwortlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000800000)
 
 (1) Die datenschutzrechtliche Verantwortung des einzelnen Datenabrufs
 trägt die jeweilige abrufende Stelle.
@@ -363,6 +371,7 @@ Datenschutzbeauftragten der abrufenden Stelle abzustimmen ist.
 
 
 ## § 9 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE000901116)
 
 (1) Alle Datenübermittlungen zwischen öffentlichen Stellen unter
 Nutzung einer Identifikationsnummer nach diesem Gesetz sind durch die
@@ -388,6 +397,7 @@ bleiben unberührt.
 
 
 ## § 10 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001000000)
 
 (1) Das Bundeszentralamt für Steuern ist für die Qualitätssicherung
 der nach § 4 Absatz 2 und 3 gespeicherten Daten verantwortlich.
@@ -452,6 +462,7 @@ bleiben unberührt.
 
 
 ## § 11 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001100000)
 
 Die Registermodernisierungsbehörde hat die Daten nach § 4 Absatz 2 und
 3 unverzüglich nach der Übermittlung und Protokollierung nach § 9 zu
@@ -459,6 +470,7 @@ löschen.
 
 
 ## § 12 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001200000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Anzahl und die Abgrenzung der Bereiche
@@ -510,6 +522,7 @@ Bundesrates zu bestimmen.
 
 
 ## § 13 Prüfung durch den oder die Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001301000)
 
 Der oder die Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit soll die Registermodernisierungsbehörde
@@ -519,6 +532,7 @@ Jahre prüfen.
 
 
 ## § 14 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001400000)
 
 (1) Der Datenaustausch nach § 139b Absatz 6 bis 9 der Abgabenordnung
 bleibt unberührt.
@@ -528,12 +542,14 @@ Daten bleiben unberührt.
 
 
 ## § 15 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001500000)
 
 Von den in diesem Gesetz oder auf Grundlage dieses Gesetzes
 getroffenen Regelungen kann durch Landesrecht nicht abgewichen werden.
 
 
 ## § 16 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001600000)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat berichtet dem
 Deutschen Bundestag im dritten Jahr nach Inkrafttreten dieses Gesetzes
@@ -562,6 +578,7 @@ Empfehlungen zu enthalten, ob
 
 
 ## § 17 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001700000)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer die Identifikationsnummer
@@ -584,6 +601,7 @@ Datenschutzaufsichtsbehörden.
 (zu § 1)
 
 ## Anlage Register nach § 1 dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/idnrg/BJNR059110021.html#BJNR059110021BJNE001802130)
 
 (Fundstelle: BGBl. I 2021, 596 - 597)
 

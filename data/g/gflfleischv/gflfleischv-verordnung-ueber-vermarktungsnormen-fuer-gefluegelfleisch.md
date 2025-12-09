@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000100000)
 
 Auf Grund des § 1 Absatz 3 Satz 1 Nummer 1 in Verbindung mit § 2
 Absatz 2 Nummer 1, 2, 3, 5 und 6, des § 1 Absatz 3 Satz 1 Nummer 2 und
@@ -32,6 +33,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000200000)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
@@ -39,6 +41,7 @@ Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
 
 
 ## § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000303119)
 
 (1) Die Bestimmungen des Anhangs XIV Teil B Abschnitt III Nummer 1 der
 Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine
@@ -77,6 +80,7 @@ verarbeiten und direkt an den Endverbraucher abgeben.
 
 
 ## § 3 Verbot des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000403119)
 
 (1) Es ist verboten,
 
@@ -156,6 +160,7 @@ verarbeiten und direkt an den Endverbraucher abgeben.
 
 
 ## § 4 Kennzeichnung von Geflügelfleisch
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000501125)
 
 (1) Nicht vorverpacktes Geflügelfleisch oder Geflügelfleisch, das auf
 Wunsch des Verbrauchers am Verkaufsort verpackt oder das in der
@@ -182,6 +187,7 @@ gemacht oder getrennt werden.
 
 
 ## § 5 Marktnotierungen
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000600000)
 
 Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die
 amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
@@ -192,6 +198,7 @@ Verordnung (EG) Nr. 1234/2007 zugrunde zu legen.
 
 
 ## § 6 Vorschriften für Schlachthöfe und Zerlegungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000701125)
 
 (1) Jedes Los im Sinne des Artikels 2 Buchstabe f der Verordnung (EG)
 Nr. 543/2008 ist von dem Schlachthof und Zerlegungsbetrieb
@@ -226,6 +233,7 @@ Abschnitt III der Anlage des Marktorganisationsgesetzes.
 
 
 ## § 6a Vorschriften für Geflügelerzeuger
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE001400119)
 
 (1) Geflügelerzeuger, die Geflügel unter Verwendung der in Artikel 11
 Absatz 1 Unterabsatz 1 Satz 1 der Verordnung (EG) Nr. 543/2008
@@ -240,6 +248,7 @@ festgelegten Haltungsvoraussetzungen erfüllt.
 
 
 ## § 7 Analyseverfahren zur Feststellung des Wassergehaltes, Gegenanalyse
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000800000)
 
 (1) Für die Kontrollen des Wassergehaltes gefrorener oder
 tiefgefrorener Hähnchen nach Artikel 16 Absatz 2 der Verordnung (EG)
@@ -256,6 +265,7 @@ Gegenanalyse sind vom Besitzer des Loses zu tragen.
 
 
 ## § 8 Anordnungen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE000900000)
 
 (1) Die zuständige Behörde kann die zur Beseitigung festgestellter
 Verstöße und die zur Verhütung künftiger Verstöße notwendigen
@@ -268,6 +278,7 @@ Kontrollverfahrens nicht vermarktet werden dürfen.
 
 
 ## § 8a Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE001300125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
@@ -304,6 +315,7 @@ prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 8b Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE001500119)
 
 Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
 die zuständige Behörde die Daten nach Abschnitt III der Anlage des
@@ -311,6 +323,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE001003119)
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -407,6 +420,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über Vermarktungsnormen für
@@ -416,6 +430,7 @@ Geflügelfleisch in der Fassung der Bekanntmachung vom 23. Dezember
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gflfleischv/BJNR062400013.html#BJNR062400013BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

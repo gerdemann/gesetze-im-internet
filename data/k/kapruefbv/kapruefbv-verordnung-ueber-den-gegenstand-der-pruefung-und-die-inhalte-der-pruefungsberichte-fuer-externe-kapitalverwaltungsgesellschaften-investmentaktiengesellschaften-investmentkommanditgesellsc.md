@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000100000)
 
 Auf Grund des § 38 Absatz 5 Satz 1, des § 106 Satz 1, des § 121 Absatz
 4 Satz 1, dieser auch in Verbindung mit § 148 Absatz 1, und des § 136
@@ -36,9 +37,11 @@ Einvernehmen mit dem Bundesministerium der Justiz:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000300000)
 
 Diese Verordnung regelt insbesondere
 
@@ -58,6 +61,7 @@ Diese Verordnung regelt insbesondere
 
 
 ### § 2 Risikoorientierung und Wesentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000400000)
 
 Bei der Prüfung ist den Grundsätzen der risikoorientierten Prüfung und
 der Wesentlichkeit Rechnung zu tragen. Bei der Prüfung von
@@ -67,6 +71,7 @@ Risikogehalt der betriebenen Geschäfte zu berücksichtigen.
 
 
 ### § 3 Allgemeine Prüfungs- und Berichtsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000501123)
 
 (1) Der Prüfungsbericht muss vollständig und übersichtlich gegliedert
 sein. Bei den Beurteilungen im Prüfungsbericht sind die
@@ -114,6 +119,7 @@ Bundesanstalt nur einzureichen, wenn diese das verlangt.
 [^F816665_01_BJNR277700013BJNE000501123]: 
 
 ### § 4 Anlagen und Unzulässigkeit von Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000600000)
 
 (1) Für eine bessere Lesbarkeit können Details zu den nach dieser
 Verordnung geforderten Angaben in Form von ergänzenden Anlagen zum
@@ -138,12 +144,15 @@ ausnahmsweise erfolgen.
 
 
 ## Kapitel 2 - Externe Kapitalverwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000300000)
 
 
 #### § 5 Zusammenfassung der Prüfungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000700000)
 
 (1) In einer zusammenfassenden Schlussbemerkung zum Prüfungsbericht
 ist, soweit dies nicht bereits im Rahmen der dem Bericht
@@ -178,6 +187,7 @@ Abschlussprüfer eigenhändig zu unterzeichnen.
 
 
 #### § 6 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000800000)
 
 Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum),
 ist in der Regel das am Stichtag des Jahresabschlusses
@@ -189,6 +199,7 @@ und sind die Dauer und die Gründe der Unterbrechung darzulegen.
 
 
 #### § 7 Prüfungs- und Berichtsgrundsätze für externe Kapitalverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE000900000)
 
 Der Bericht über die Prüfung der externen
 Kapitalverwaltungsgesellschaft ist so zu verfassen, dass er den für
@@ -200,6 +211,7 @@ zusammengefasst werden.
 
 
 #### § 8 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001000000)
 
 (1) Im Prüfungsbericht ist zu berichten
 
@@ -276,6 +288,7 @@ bis fünf Jahre.
 
 
 #### § 9 Ausländische Zweigstellen und Zweigniederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001100000)
 
 Der Abschlussprüfer hat im Prüfungsbericht über die ausländischen
 Zweigstellen und Zweigniederlassungen zu berichten und deren
@@ -288,12 +301,15 @@ das Risikomanagement zu beurteilen.
 
 
 ### Abschnitt 2 - Aufsichtsrechtliche Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000400000)
 
 
 #### Unterabschnitt 1 - Kapitalanforderungen, Anzeigewesen und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000500000)
 
 
 ##### § 10 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001200000)
 
 (1) Im Prüfungsbericht darzustellen sind die Höhe und die
 Zusammensetzung der Eigenmittel der externen
@@ -347,6 +363,7 @@ Berichtszeitraum erfasst wurden.
 
 
 ##### § 11 Anzeigewesen und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001300000)
 
 Im Prüfungsbericht ist die Organisation des Anzeigewesens der
 Kapitalverwaltungsgesellschaft zu beurteilen. Es ist darauf
@@ -358,9 +375,11 @@ festgestellt, sind diese Verstöße anzugeben.
 
 
 #### Unterabschnitt 2 - Vorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000600000)
 
 
 ##### § 12 Prüfungszeitraum und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001400000)
 
 (1) Die Prüfung gemäß § 38 Absatz 4 Satz 1 des
 Kapitalanlagegesetzbuches ist erstmals für das erste volle
@@ -381,6 +400,7 @@ sie maßgeblichen Berichtszeitraums zu beginnen.
 
 
 ##### § 13 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001500000)
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht zu beurteilen, ob die
 Gefährdungsanalyse, die die externe Kapitalverwaltungsgesellschaft
@@ -471,9 +491,11 @@ ordnungsgemäß erfüllt wurden.
 
 
 #### Unterabschnitt 3 - Vorkehrungen zur Einhaltung der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000700000)
 
 
 ##### § 14 Pflichten nach der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001601311)
 
 (1) Der Abschlussprüfer hat die Verfahren zur Ermittlung aller OTC-
 Derivate-Kontrakte, die einer Clearingpflicht durch eine zentrale
@@ -535,6 +557,7 @@ Kontrakte darzustellen und zu beurteilen.
 
 
 ##### § 14a Einhaltung der Pflichten nach der Verordnung (EU) 2019/2088 und nach der Verordnung (EU) 2020/852
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE005300123)
 
 Der Abschlussprüfer hat die Erfüllung der Transparenzanforderungen
 
@@ -558,12 +581,15 @@ zu beurteilen.
 
 
 ### Abschnitt 3 - Abschlussorientierte Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000800000)
 
 
 #### Unterabschnitt 1 - Lage der externen Kapitalverwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG000900000)
 
 
 ##### § 15 Geschäftliche Entwicklung im Berichtsjahr
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001700000)
 
 Im Prüfungsbericht ist die geschäftliche Entwicklung der externen
 Kapitalverwaltungsgesellschaft darzustellen und zu erläutern. Dabei
@@ -572,6 +598,7 @@ Berichtsjahres und die des Vorjahres gegenüberzustellen.
 
 
 ##### § 16 Beurteilung der Vermögens- und Finanzlage
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001800000)
 
 (1) Im Prüfungsbericht ist die Entwicklung der Vermögens- und
 Finanzlage zu beurteilen. Besonderheiten, die für die Beurteilung der
@@ -601,6 +628,7 @@ Absatz 1 Satz 2 Nummer 4 des Kapitalanlagegesetzbuches zu berichten.
 
 
 ##### § 17 Beurteilung der Ertragslage
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE001900000)
 
 (1) Im Prüfungsbericht ist die Entwicklung der Ertragslage zu
 beurteilen.
@@ -615,6 +643,7 @@ zurückzugreifen.
 
 
 ##### § 18 Risikolage
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002000000)
 
 (1) Im Prüfungsbericht ist die Risikolage der externen
 Kapitalverwaltungsgesellschaft zu beurteilen. Dazu sind die von der
@@ -631,9 +660,11 @@ einzugehen.
 
 
 #### Unterabschnitt 2 - Erläuterungen zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001000000)
 
 
 ##### § 19 Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002100000)
 
 Ob und inwieweit im Prüfungsbericht
 
@@ -654,6 +685,7 @@ Berücksichtigung des Grundsatzes der Wesentlichkeit.
 
 
 ##### § 20 Datenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002200000)
 
 Dem Prüfungsbericht ist das auszufüllende Formblatt mit Angaben zum
 Berichtsjahr und zum Vorjahr gemäß Anlage 1 beizufügen. Das Formblatt
@@ -661,9 +693,11 @@ ist Bestandteil des Prüfungsberichts.
 
 
 ### Abschnitt 4 - Verwaltung von Sondervermögen und extern verwalteten Investmentgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001100000)
 
 
 #### § 21 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002300000)
 
 (1) Die Berichterstattung nach diesem Abschnitt kann nach
 pflichtgemäßem Ermessen des Abschlussprüfers in Abstimmung mit der
@@ -679,6 +713,7 @@ Fertigstellung einzureichen.
 
 
 #### § 22 Allgemeine Verhaltensregeln und Organisationspflichten einschließlich Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002400000)
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht darzustellen und zu
 beurteilen, inwieweit die allgemeinen Verhaltensregeln nach § 26 des
@@ -735,9 +770,11 @@ angemessen sind.
 
 
 ### Abschnitt 5 - Dienstleistungen und Nebendienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001200000)
 
 
 #### § 23 Besondere Anforderungen an die Prüfung von Dienstleistungen und von Nebendienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002501311)
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht die Dienstleistungen
 und Nebendienstleistungen im Sinne des § 20 Absatz 2 und 3 des
@@ -880,6 +917,7 @@ Mindestzahlungszusagen darzustellen.
 
 
 #### § 24 Prüfungszeitraum und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002600000)
 
 (1) Der Zeitraum der Prüfung nach diesem Abschnitt beginnt mit dem Tag
 der ersten und endet mit dem Tag der letzten Prüfungshandlung vor Ort.
@@ -905,12 +943,15 @@ Einzelfall und aus wichtigem Grund eine andere Frist bestimmen.
 
 
 ## Kapitel 3 - Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001300000)
 
 
 ### Abschnitt 1 - Allgemeines; Jahres-, Zwischen-, Auflösungs- und Abwicklungsbericht für Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001400000)
 
 
 #### § 25 Prüfungs- und Berichtsgrundsätze für Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002700000)
 
 (1) Der Abschlussprüfer des Sondervermögens hat den Jahres-,
 Zwischen-, Auflösungs- und Abwicklungsbericht zu prüfen und
@@ -943,6 +984,7 @@ genannten Verhaltensregeln und Organisationspflichten zu verwerten.
 
 
 #### § 26 Angaben zum Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002800000)
 
 (1) Dem Prüfungsbericht für das Sondervermögen sind insbesondere
 folgende Angaben voranzustellen:
@@ -1013,6 +1055,7 @@ ist nicht auf Immobilien-Sondervermögen anzuwenden.
 
 
 #### § 27 Richtigkeit und Vollständigkeit des Jahres-, Zwischen-, Auflösungs- und Abwicklungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE002900000)
 
 (1) Der Abschlussprüfer hat zu prüfen, ob der Jahres-, Zwischen-,
 Auflösungs- und Abwicklungsbericht vollständig und richtig sind.
@@ -1034,12 +1077,15 @@ Aussage aufzunehmen, ob die Prüfung ordnungsgemäß durchgeführt wurde.
 
 
 ### Abschnitt 2 - Verwaltung der Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001500000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001600000)
 
 
 ##### § 28 Einhaltung von Gesetz und Anlagebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003000000)
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht über Verstöße gegen
 gesetzliche Bestimmungen und gegen Bestimmungen der Anlagebedingungen
@@ -1070,6 +1116,7 @@ Regelung eingehalten oder verletzt wurde.
 
 
 ##### § 29 Anlagevorschriften und Verletzungen von Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003100000)
 
 (1) Wesentliche Verstöße gegen gesetzliche und vertragliche
 Anlagegrundsätze und Anlagegrenzen sowie gegen Erwerbsverbote sind im
@@ -1121,6 +1168,7 @@ berichten:
 
 
 ##### § 30 Ordnungsgemäße Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003200000)
 
 (1) Im Prüfungsbericht ist zu beurteilen, ob die von der externen
 Kapitalverwaltungsgesellschaft getroffenen organisatorischen
@@ -1160,6 +1208,7 @@ inwieweit diese Sorgfaltspflichten laufend überwacht werden.
 
 
 ##### § 31 Ermittlung der Anteilwerte
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003300000)
 
 (1) Es ist darzulegen, ob die von der externen
 Kapitalverwaltungsgesellschaft getroffenen organisatorischen
@@ -1184,6 +1233,7 @@ Ergebnisse dieser Maßnahmen zu berichten.
 
 
 ##### § 32 Bewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003400000)
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht eines Sondervermögens
 zu bestätigen, dass die angewendeten Bewertungsverfahren unter
@@ -1210,6 +1260,7 @@ Verfügung gestellt hat.
 
 
 ##### § 33 Einsatz von Derivaten
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003500000)
 
 Folgende Pflichten des Abschlussprüfers im Prüfungsbericht beim
 Einsatz von Derivaten in einem Sondervermögen bleiben unberührt:
@@ -1235,6 +1286,7 @@ Einsatz von Derivaten in einem Sondervermögen bleiben unberührt:
 
 
 ##### § 34 Fremdbezug von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003600000)
 
 (1) Nimmt die externe Kapitalverwaltungsgesellschaft für die
 Verwaltung des Sondervermögens nicht nur vorübergehend Anlageberatung
@@ -1253,9 +1305,11 @@ dem Leistungserbringer und das Ergebnis dieser Maßnahme darzustellen.
 
 
 #### Unterabschnitt 2 - Spezielle Vorschriften für Immobilien-Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001700000)
 
 
 ##### § 35 Anwendbarkeit dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003700000)
 
 Auf Prüfungsberichte über Immobilien-Sondervermögen und offene
 Spezial-AIF mit Anlagen in entsprechenden Vermögensgegenständen sind
@@ -1264,6 +1318,7 @@ anderes ergibt.
 
 
 ##### § 36 Erwerb und Veräußerung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003800000)
 
 Werden im Berichtsjahr Vermögensgegenstände im Sinne des § 231 Absatz
 1, des § 233 Absatz 1 und des § 234 des Kapitalanlagegesetzbuches für
@@ -1306,6 +1361,7 @@ veräußert, so sind im Prüfungsbericht
 
 
 ##### § 37 Erwerb von Vermögensgegenständen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE003900000)
 
 Im Prüfungsbericht ist darauf einzugehen, ob die externe
 Kapitalverwaltungsgesellschaft beim Erwerb von Vermögensgegenständen
@@ -1317,6 +1373,7 @@ verwendet hat.
 
 
 ##### § 38 Berichterstattung über das Bewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004000000)
 
 (1) Im Prüfungsbericht ist anzugeben, ob den Abschlussprüfern
 sämtliche im Berichtszeitraum erstellten Gutachten vorliegen. Es ist
@@ -1341,6 +1398,7 @@ wurde.
 
 
 ##### § 39 Besondere Berichterstattung über Verkehrswerte
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004100000)
 
 (1) Im Prüfungsbericht sind die Verkehrswerte oder Kaufpreise der
 Immobilien, die für das Sondervermögen direkt oder indirekt gehalten
@@ -1356,6 +1414,7 @@ Gutachten angegebenen Gründe nachvollziehbar sind.
 
 
 ##### § 40 Berichterstattung hinsichtlich weiterer Anlagevorschriften und der Verletzung von Anlagegrenzen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004200000)
 
 Ergänzend zur Berichterstattung nach § 29 Absatz 2, ansonsten
 gesondert ist insbesondere über die Erfüllung folgender gesetzlicher
@@ -1385,6 +1444,7 @@ entsprechenden Vermögensgegenständen.
 
 
 ##### § 41 Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004300000)
 
 Im Prüfungsbericht ist zu beurteilen, ob die getroffenen
 organisatorischen Vorkehrungen der externen
@@ -1394,6 +1454,7 @@ sind und ob die Vergabe dieser Leistungen wirtschaftlich sinnvoll war.
 
 
 ##### § 42 Weitere Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004400000)
 
 (1) Im Prüfungsbericht ist zu berichten, ob die Erträge des
 Sondervermögens nach § 252 des Kapitalanlagegesetzbuches ordnungsgemäß
@@ -1406,12 +1467,15 @@ Aufwendungen ermittelt wurden.
 
 
 ## Kapitel 4 - Investmentgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001800000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG001900000)
 
 
 #### § 43 Prüfungs- und Berichtsgrundsätze für Investmentaktiengesellschaften und Investmentkommanditgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004500000)
 
 (1) Der Abschlussprüfer der Investmentaktiengesellschaft oder der
 Investmentkommanditgesellschaft hat den Jahresabschluss zu prüfen und
@@ -1432,6 +1496,7 @@ externen Kapitalverwaltungsgesellschaft zu verwerten.
 
 
 #### § 44 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004601123)
 
 (1) Auf die Prüfung der Investmentaktiengesellschaft und der
 Investmentkommanditgesellschaft sind die §§ 5, 6, 14, 14a und 25
@@ -1500,9 +1565,11 @@ anzuwenden:
 
 
 ### Abschnitt 2 - Angaben zur Investmentgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG002000000)
 
 
 #### § 45 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004700000)
 
 (1) Im Prüfungsbericht sind die wesentlichen Änderungen der
 rechtlichen, wirtschaftlichen und organisatorischen Grundlagen der
@@ -1560,6 +1627,7 @@ erfolgen hat.
 
 
 #### § 46 Besonderheiten bei der Investmentaktiengesellschaft mit fixem Kapital und der geschlossenen Investmentkommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004800000)
 
 (1) Werden im Berichtsjahr Vermögensgegenstände im Sinne des § 261
 Absatz 2 des Kapitalanlagegesetzbuches für das Investmentvermögen
@@ -1610,9 +1678,11 @@ dieser Wertveränderung geführt haben.
 
 
 ## Kapitel 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNG002100000)
 
 
 ### § 47 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE004901118)
 
 (1) Die Investment-Prüfungsberichtsverordnung vom 15. Dezember 2008
 (BGBl. I S. 2467), die durch Artikel 2 der Verordnung vom 28. Juni
@@ -1644,6 +1714,7 @@ beginnende Geschäftsjahre anzuwenden.
 
 
 ### § 48 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE005000000)
 
 Diese Verordnung tritt mit Wirkung vom 22. Juli 2013 in Kraft.
 Gleichzeitig tritt die Investment-Prüfungsberichtsverordnung vom 15.
@@ -1653,6 +1724,7 @@ vom 28. Juni 2011 (BGBl. I S. 1278) geändert worden ist, außer Kraft.
 (zu § 20)
 
 ### Anlage 1 Datenübersicht für externe Kapitalverwaltungsgesellschaften und intern verwaltete Investmentgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE005101118)
 
 (Fundstelle: BGBl. I 2013, 2791 – 2793;
 bezüglich einzelner Änderungen vgl. Fußnote)
@@ -1969,6 +2041,7 @@ Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro
 (zu § 26 Absatz 1 Nummer 14)
 
 ### Anlage 2 Berechnung der Portfolioumschlagsrate
+[Direktlink](https://www.gesetze-im-internet.de/kapr_fbv/BJNR277700013.html#BJNR277700013BJNE005200000)
 
 (Fundstelle: BGBl. I 2013, 2794)
 

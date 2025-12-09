@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000300000)
 
 Auf Grund des § 57 Abs. 1 Nr. 10 des Personenbeförderungsgesetzes in
 der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690),
@@ -37,12 +38,14 @@ Wohnungswesen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000400000)
 
 Kosten (Gebühren und Auslagen) werden für die im anliegenden
 Gebührenverzeichnis aufgeführten Amtshandlungen erhoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000500000)
 
 Gebührenfrei sind:
 
@@ -64,6 +67,7 @@ Gebührenfrei sind:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000600000)
 
 Im grenzüberschreitenden Verkehr sowie im Transitverkehr sind
 Unternehmen, die ihren Betriebssitz außerhalb des Geltungsbereichs des
@@ -72,6 +76,7 @@ soweit die Gegenseitigkeit verbürgt ist.
 
 
 ## § 4 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000101140)
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
 wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung
@@ -88,6 +93,7 @@ der Widerspruchsgebühr.
 
 
 ## § 5 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000200000)
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
 eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
@@ -96,18 +102,21 @@ Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000700000)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/pbefgkostv/BJNR216800001.html#BJNR216800001BJNE000903308)
 
 (Fundstelle: BGBl. I 2007, 2571 - 2573;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000100000)
 
 Auf Grund des § 51a Abs. 2 in Verbindung mit Abs. 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000201116)
 
 Die Meisterprüfung im zulassungspflichtigen Rollladen- und
 Sonnenschutztechniker-Handwerk umfasst folgende selbständige
@@ -56,6 +58,7 @@ Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000301116)
 
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling
 befähigt ist, einen Betrieb selbständig zu führen, technische,
@@ -159,6 +162,7 @@ ganzheitliche Qualifikationen zu berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -172,6 +176,7 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Vorschläge des Prüflings für den
@@ -223,6 +228,7 @@ mit 10 Prozent gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000600000)
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das
 Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er
@@ -234,6 +240,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000701116)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Qualifikationsnachweis für die Meisterprüfung im Rollladen- und
@@ -259,6 +266,7 @@ gebildet.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000800000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 15 Arbeitstage, das Fachgespräch nicht länger als 30 Minuten und die
@@ -279,6 +287,7 @@ sein darf.
 
 
 ## § 8 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE000901360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 genannten Handlungsfeldern seine Handlungskompetenz dadurch
@@ -484,6 +493,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE001002128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -494,6 +504,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE001102116)
 
 Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
 worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
@@ -502,6 +513,7 @@ Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rollsonnmstrv/BJNR005100007.html#BJNR005100007BJNE001200000)
 
 Diese Verordnung tritt am 1. April 2007 in Kraft.
 

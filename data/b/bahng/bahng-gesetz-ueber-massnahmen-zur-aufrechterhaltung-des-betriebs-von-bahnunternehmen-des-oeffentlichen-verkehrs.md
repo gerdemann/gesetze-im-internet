@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000100326)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000201308)
 
 Der Betrieb von Bahnunternehmen des öffentlichen Verkehrs darf nur mit
 Genehmigung der Aufsichtsbehörde eingeschränkt oder stillgelegt
@@ -35,6 +37,7 @@ Bahneigentümers.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000301308)
 
 Im Insolvenzverfahren über das Vermögen eines Bahneigentümers, der
 Bahnunternehmen des öffentlichen Verkehrs betreibt, kann die nach §
@@ -53,6 +56,7 @@ ersetzt werden, wenn
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000400326)
 
 (1) Die Zwangsversteigerung unbeweglicher Gegenstände, die dem Betrieb
 eines Bahnunternehmens des öffentlichen Verkehrs gewidmet sind, darf
@@ -83,6 +87,7 @@ Vorschriften.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000501308)
 
 (1) Die Verwertung verpfändeter oder zur Sicherung übereigneter
 Fahrbetriebsmittel von Bahnunternehmen des öffentlichen Verkehrs ist
@@ -98,6 +103,7 @@ I S. 2911) geändert worden ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000601308)
 
 (1) Aufsichtsbehörde im Sinne dieses Gesetzes ist die für die Aufsicht
 zuständige Landesverkehrsbehörde.
@@ -111,11 +117,13 @@ anderen Ländern weitere Eisenbahnen betreibt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000701308)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bahng/BJNR200910934.html#BJNR200910934BJNE000800326)
 
 Die Bundesregierung erläßt mit Zustimmung des Bundesrates die zur
 Durchführung des Gesetzes erforderlichen Verwaltungsvorschriften.

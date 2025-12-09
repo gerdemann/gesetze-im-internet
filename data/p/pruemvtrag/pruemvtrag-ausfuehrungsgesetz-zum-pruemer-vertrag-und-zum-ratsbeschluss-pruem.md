@@ -22,6 +22,7 @@ Stand: G in Kraft gem. Bek. v. 21.6.2007 II 857 mWv 23.11.2006
 
 
 ## § 1 Unmittelbare Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000800112)
 
 Die Bestimmungen des Beschlusses des Rates 2008/615/JI vom 23. Juni
 2008 zur Vertiefung der grenzüberschreitenden Zusammenarbeit,
@@ -33,6 +34,7 @@ Union anwendbar.
 
 
 ## § 2 Nationale Kontaktstelle und Verantwortung für die Zulässigkeit des Abrufs oder Abgleichs
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000101160)
 
 (1) Zuständige nationale Kontaktstelle nach Artikel 6 Abs. 1, Artikel
 11 Abs. 1 sowie den Artikeln 15 und 16 Abs. 3 des Vertrags vom 27. Mai
@@ -66,6 +68,7 @@ ersucht hat.
 
 
 ## § 3 Automatisierter Abruf oder Abgleich von DNA-Identifizierungsmustern
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000201160)
 
 DNA-Identifizierungsmuster dürfen über die Vorschriften des
 Bundeskriminalamtgesetzes hinaus auch für einen automatisierten Abruf
@@ -74,6 +77,7 @@ den Artikeln 3 und 4 des Ratsbeschlusses Prüm verwendet werden.
 
 
 ## § 4 Zustimmung zur Zweckänderung
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000302311)
 
 (1) Soweit der Prümer Vertrag oder der Ratsbeschluss Prüm eine
 zweckändernde Verwendung der unter den dortigen Voraussetzungen
@@ -93,6 +97,7 @@ Einvernehmen mit dieser Stelle.
 
 
 ## § 5 Kennzeichnung von personenbezogenen Daten in Datenbanken
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000401160)
 
 Bestreitet der Betroffene nach Artikel 37 Abs. 2 des Prümer Vertrags
 oder Artikel 28 Abs. 2 des Ratsbeschlusses Prüm die Richtigkeit von in
@@ -102,6 +107,7 @@ kennzeichnen.
 
 
 ## § 6 Kennung
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000502311)
 
 In dem Verzeichnis nach § 78 des Bundeskriminalamtgesetzes wird für
 die DNA-Analyse-Datei nach Artikel 2 des Prümer Vertrags oder Artikel
@@ -123,6 +129,7 @@ Bundeskriminalamtgesetzes zu regeln.
 
 
 ## § 7 Bundesbeauftragter für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000601160)
 
 Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
 nimmt die Aufgaben der für die Datenschutzkontrolle zuständigen
@@ -132,6 +139,7 @@ für die Datenschutzkontrolle in den Ländern bleiben unberührt.
 
 
 ## § 8 Schadenersatz
+[Direktlink](https://www.gesetze-im-internet.de/pr_mvtrag/BJNR145810006.html#BJNR145810006BJNE000701160)
 
 (1) Die Bundesrepublik Deutschland haftet für Schäden, die durch die
 Verletzung von Datenschutzrechten im Sinne des Artikels 40 Abs. 1 Satz

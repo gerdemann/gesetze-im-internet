@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bvl_v/BJNR024410003.html#BJNR024410003BJNE000113116)
 
 Die Befugnis zum Verkehr
 
@@ -339,6 +340,7 @@ anzuwenden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bvl_v/BJNR024410003.html#BJNR024410003BJNE000203116)
 
 § 1 gilt nicht, soweit das Bundesministerium für Ernährung und
 Landwirtschaft
@@ -366,6 +368,7 @@ Landwirtschaft
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bvl_v/BJNR024410003.html#BJNR024410003BJNE000300310)
 
 Dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit wird
 die Befugnis zum Erlass von Rechtsverordnungen nach

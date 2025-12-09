@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-7-57 v. 23.12.1999, 2000 I 10 (FremdSprPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a
 Absatz 1 Nummer 1 und mit § 53b des Berufsbildungsgesetzes in der
@@ -33,6 +34,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Ergänzung der
@@ -100,6 +102,7 @@ für fremdsprachige Kommunikation“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53b des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -157,6 +160,7 @@ imstande sein, in der Fremdsprache nach Absatz 4
 
 
 ## § 3 Inhalt und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
@@ -177,6 +181,7 @@ Die Prüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Prüfungsbereich „Mündliches Kommunizieren in der Fremdsprache“
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000500000)
 
 Im Prüfungsbereich „Mündliches Kommunizieren in der Fremdsprache“ hat
 die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
@@ -211,6 +216,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 5 Prüfungsbereich „Schriftliches Kommunizieren in der Fremdsprache“
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000600000)
 
 Im Prüfungsbereich „Schriftliches Kommunizieren in der Fremdsprache“
 hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, bei
@@ -245,6 +251,7 @@ aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 6 Prüfungsbereich „Organisieren und Koordinieren in der Fremdsprache“
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000700000)
 
 Im Prüfungsbereich „Organisieren und Koordinieren in der Fremdsprache“
 hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist, die
@@ -283,6 +290,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 7 Prüfungsbereich „Beraten und Unterstützen in interkulturellen Angelegenheiten, auch in der Fremdsprache“
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000800000)
 
 Im Prüfungsbereich „Beraten und Unterstützen in interkulturellen
 Angelegenheiten, auch in der Fremdsprache“ hat die zu prüfende Person
@@ -325,6 +333,7 @@ folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 8 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE000900000)
 
 (1) Die Prüfung gliedert sich in
 
@@ -357,6 +366,7 @@ zuständige Stelle zu vertreten ist.
 
 
 ## § 9 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001000000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der durch den
 Prüfungsausschuss zur Verfügung gestellten Beschreibung von ein oder
@@ -378,6 +388,7 @@ Minuten.
 
 
 ## § 10 Präsentation und anschließendes Fachgespräch in der Fremdsprache
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001100000)
 
 (1) Die Präsentation und das anschließende Fachgespräch finden in der
 nach § 2 Absatz 4 bei der Anmeldung zur Prüfung angegebenen
@@ -409,6 +420,7 @@ höchstens 15 Minuten dauern.
 
 
 ## § 11 Gesprächssimulation
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001200000)
 
 (1) In der Gesprächssimulation hat die zu prüfende Person
 nachzuweisen, dass sie in der Lage ist, Gespräche in der nach § 2
@@ -429,6 +441,7 @@ Vorbereitung einzuräumen.
 
 
 ## § 12 Deutsch als Fremdsprache
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001300000)
 
 Für zu prüfende Personen, deren Hauptsprache nicht Deutsch ist, tritt
 Deutsch als Fremdsprache an die Stelle der bei der Anmeldung zur
@@ -436,6 +449,7 @@ Prüfung nach § 2 Absatz 4 anzugebenden Fremdsprache.
 
 
 ## § 13 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001400000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -452,6 +466,7 @@ das arithmetische Mittel berechnet.
 
 
 ## § 14 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001500000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind in
@@ -504,6 +519,7 @@ Gesamtnote.
 
 
 ## § 15 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001600000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -515,6 +531,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 16 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001700000)
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -540,6 +557,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 17 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001800000)
 
 (1) Prüfungsbestandteile nach § 8 Absatz 1 Nummer 2 und 3, in denen
 weniger als 50 Punkte erreicht wurden, können zweimal wiederholt
@@ -555,6 +573,7 @@ noch einmal ablegen, in der er weniger als 50 Punkte erreicht hat.
 
 
 ## § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE001900000)
 
 (1) Prüfungsverfahren, die nach der Verordnung über die Prüfung zum
 anerkannten Abschluss Geprüfter Fremdsprachenkorrespondent/Geprüfte
@@ -577,6 +596,7 @@ nach dieser Verordnung durchzuführen.
 
 
 ## § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE002000000)
 
 Diese Verordnung tritt am 27. März 2024 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -586,6 +606,7 @@ Fremdsprachenkorrespondent/Geprüfte Fremdsprachenkorrespondentin vom
 (zu den §§ 13 und 14)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE002100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 255, S. 8 - 9)
 
@@ -886,6 +907,7 @@ Fremdsprachenkorrespondent/Geprüfte Fremdsprachenkorrespondentin vom
 (zu § 16)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fremdsprkfprv/BJNR0FF0A0023.html#BJNR0FF0A0023BJNE002200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 255, S. 10)
 

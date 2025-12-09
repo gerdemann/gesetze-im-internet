@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/ejkov/BJNR209310012.html#BJNR209310012BJNE000100000)
 
 Diese Verordnung regelt die Zusammenarbeit zwischen Eurojust-
 Anlaufstellen, Eurojust-Kontaktstellen und Eurojust.
 
 
 ## § 2 Eurojust-Anlaufstellen
+[Direktlink](https://www.gesetze-im-internet.de/ejkov/BJNR209310012.html#BJNR209310012BJNE000201125)
 
 Das Bundesamt für Justiz, der Generalbundesanwalt beim
 Bundesgerichtshof und die von den Landesregierungen bestimmten
@@ -39,6 +41,7 @@ Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L 295 vom
 
 
 ## § 3 Eurojust-Kontaktstellen
+[Direktlink](https://www.gesetze-im-internet.de/ejkov/BJNR209310012.html#BJNR209310012BJNE000301125)
 
 Kontaktstellen nach Artikel 20 Absatz 3 Buchstabe e der Eurojust-
 Verordnung (Eurojust-Kontaktstellen) sind:
@@ -76,6 +79,7 @@ Verordnung (Eurojust-Kontaktstellen) sind:
 
 
 ## § 4 Nationales Eurojust-Koordinierungssystem
+[Direktlink](https://www.gesetze-im-internet.de/ejkov/BJNR209310012.html#BJNR209310012BJNE000401125)
 
 (1) Zur Koordinierung der Zusammenarbeit zwischen
 

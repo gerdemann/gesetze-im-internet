@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000101118)
 
 (1) Beim Bundesamt für Wirtschaft und Ausfuhrkontrolle wird eine
 Abschlussprüferaufsichtsstelle eingerichtet.
@@ -77,6 +78,7 @@ haben.
 
 
 ## § 2 In der Abschlussprüferaufsichtsstelle tätige Arbeitnehmerinnen und Arbeitnehmer sowie Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000201125)
 
 (1) Auf in der Abschlussprüferaufsichtsstelle tätige Arbeitnehmerinnen
 und Arbeitnehmer sowie Auszubildende sind die für Arbeitnehmerinnen
@@ -96,6 +98,7 @@ oder außertariflichen Leistungen entsprechend.
 
 
 ## § 3 Fachbeirat
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000300000)
 
 (1) Bei der Abschlussprüferaufsichtsstelle wird ein Fachbeirat
 gebildet. Er berät die Abschlussprüferaufsichtsstelle bei der
@@ -126,6 +129,7 @@ Das Bundesreisekostengesetz findet entsprechende Anwendung.
 
 
 ## § 4 Gebühren; Verordnungsermächtigung; Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000401125)
 
 (1) Die Abschlussprüferaufsichtsstelle erhebt für individuell
 zurechenbare öffentliche Leistungen Gebühren und Auslagen nach Maßgabe
@@ -155,6 +159,7 @@ Finanzgeschäften der Beschäftigten ein.
 
 
 ## § 5 Übergang der im Bereich der Aufsicht über die Prüfer von Unternehmen von öffentlichem Interesse tätigen Wirtschaftsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000500000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle tritt zum 17.
 Juni 2016 kraft Gesetzes und nach Maßgabe der folgenden Absätze in die
@@ -189,6 +194,7 @@ gegen den Übergang ihrer Arbeitsverhältnisse ist ausgeschlossen.
 
 
 ## § 6 Übergang der weiteren im Bereich der Aufsicht über Prüfer von Unternehmen von öffentlichem Interesse tätigen Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000601125)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle tritt zum 17.
 Juni 2016 kraft Gesetzes und nach Maßgabe der folgenden Absätze in die
@@ -287,6 +293,7 @@ werden.
 
 
 ## § 7 Auflösung der Abschlussprüferaufsichtskommission
+[Direktlink](https://www.gesetze-im-internet.de/apasterg/BJNR054900016.html#BJNR054900016BJNE000700000)
 
 Die Abschlussprüferaufsichtskommission ist aufgelöst. Die amtierenden
 Mitglieder der Abschlussprüferaufsichtskommission sind abberufen.

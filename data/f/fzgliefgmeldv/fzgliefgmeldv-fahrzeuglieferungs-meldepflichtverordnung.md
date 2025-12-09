@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000100000)
 
 Auf Grund des § 18c Satz 1 und 2 Nr. 1 bis 4 des Umsatzsteuergesetzes
 in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S.
@@ -27,6 +28,7 @@ in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S.
 
 
 ## § 1 Gegenstand, Form und Frist der Meldung
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000201377)
 
 (1) Die in § 3 genannten Verpflichteten haben die
 innergemeinschaftliche Lieferung (§ 6a Abs. 1 und 2 des
@@ -61,6 +63,7 @@ Anzeigepflichten im Rahmen dieser Verordnung.
 
 
 ## § 2 Inhalt der Meldung
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000300000)
 
 Die abzugebende Meldung muss folgende Angaben enthalten:
 
@@ -112,6 +115,7 @@ Die abzugebende Meldung muss folgende Angaben enthalten:
 
 
 ## § 3 Meldepflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000400000)
 
 Zur Meldung verpflichtet ist der Unternehmer (§ 2 des
 Umsatzsteuergesetzes) oder Fahrzeuglieferer (§ 2a des
@@ -119,6 +123,7 @@ Umsatzsteuergesetzes), der die Lieferung des Fahrzeugs ausführt.
 
 
 ## § 4 Ordnungswidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000500000)
 
 Ordnungswidrig im Sinne des § 26a Abs. 1 Nr. 6 des
 Umsatzsteuergesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -127,11 +132,13 @@ vollständig oder nicht rechtzeitig macht.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000600000)
 
 Diese Verordnung tritt am 1. Juli 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fzgliefgmeldv/BJNR063000009.html#BJNR063000009BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kvbevo/BJNR273000009.html#BJNR273000009BJNE000100000)
 
 Auf Grund des § 10 Absatz 5 und des § 51 Absatz 1 Nummer 3 des
 Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 19.
@@ -31,6 +32,7 @@ gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich und Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/kvbevo/BJNR273000009.html#BJNR273000009BJNE000200000)
 
 (1) Durch diese Verordnung wird bezogen auf den Tarif bestimmt, wie
 der Teil der Beiträge zum Erwerb eines Krankenversicherungsschutzes,
@@ -54,6 +56,7 @@ versichert sind.
 
 
 ## § 2 Definitionen und Leistungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbevo/BJNR273000009.html#BJNR273000009BJNE000300000)
 
 (1) Leistungen im Sinne des § 1 Absatz 1 liegen insbesondere vor bei
 
@@ -94,6 +97,7 @@ notwendigen stationären Heilbehandlung.
 
 
 ## § 3 Ermittlung des Abschlags
+[Direktlink](https://www.gesetze-im-internet.de/kvbevo/BJNR273000009.html#BJNR273000009BJNE000401377)
 
 (1) Zur Ermittlung des nicht abziehbaren Teils des Beitrags ist die
 Summe der Absatz 2 zu entnehmenden Punkte für die im Tarif
@@ -184,11 +188,13 @@ ein Abschlag in Höhe von vier Prozent vorzunehmen.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kvbevo/BJNR273000009.html#BJNR273000009BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kvbevo/BJNR273000009.html#BJNR273000009BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

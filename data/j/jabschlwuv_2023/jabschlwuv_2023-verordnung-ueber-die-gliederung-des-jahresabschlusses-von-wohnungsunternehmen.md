@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 4141-13 v. 22.9.1970 I 1334 (JAbschlWUV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000100000)
 
 Auf Grund des § 330 Absatz 1 Satz 1 des Handelsgesetzbuchs, der
 zuletzt durch Artikel 190 Nummer 5 der Verordnung vom 31. August 2015
@@ -35,6 +36,7 @@ Wirtschaft und Klimaschutz:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000200000)
 
 Im Sinne dieser Verordnung sind
 
@@ -79,6 +81,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 2 Gliederung der Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000300000)
 
 (1) Wohnungsunternehmen haben abweichend von § 266 Absatz 2 und 3 des
 Handelsgesetzbuchs die Bilanz nach dem anliegenden Formblatt nach
@@ -111,6 +114,7 @@ Handelsgesetzbuchs bleiben unberührt.
 
 
 ## § 3 Gliederung der Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000400000)
 
 (1) Wohnungsunternehmen haben abweichend von § 275 Absatz 2 und 3 des
 Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung
@@ -174,6 +178,7 @@ Handelsgesetzbuchs bleiben unberührt.
 
 
 ## § 4 Gliederung des Jahresabschlusses bei der Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000500000)
 
 Abweichend von § 327 Nummer 1 des Handelsgesetzbuchs ist § 325 Absatz
 1 des Handelsgesetzbuchs auf mittelgroße Wohnungsunternehmen mit der
@@ -332,6 +337,7 @@ zusätzlich gesondert anzugeben:
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000600000)
 
 Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer
@@ -347,6 +353,7 @@ Handelsgesetzbuchs handelt, wer
 
 
 ## § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000700000)
 
 Diese Verordnung ist erstmals auf Jahresabschlüsse für ein
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2023 beginnt. Auf
@@ -359,6 +366,7 @@ einschließlich 30. Juni 2023 geltenden Fassung weiter anwendbar.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000800000)
 
 Diese Verordnung tritt am 1. Juli 2023 in Kraft. Gleichzeitig tritt
 die Verordnung über Formblätter für die Gliederung des
@@ -369,6 +377,7 @@ Juli 2021 (BGBl. I S. 3338) geändert worden ist, außer Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Formblatt
+[Direktlink](https://www.gesetze-im-internet.de/jabschlwuv_2023/BJNR0980A0023.html#BJNR0980A0023BJNE000900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 152, S. 5 - 7)
 

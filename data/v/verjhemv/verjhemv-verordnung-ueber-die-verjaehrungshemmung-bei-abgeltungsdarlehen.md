@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verjhemv/BJNR123100998.html#BJNR123100998BJNE000100305)
 
 Auf Grund des § 36a Satz 3 des Gesetzes über Maßnahmen auf dem Gebiete
 des Grundbuchwesens in der im Bundesgesetzblatt Teil III,
@@ -28,6 +29,7 @@ mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Beendigung der Verjährungshemmung bei Abgeltungsdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/verjhemv/BJNR123100998.html#BJNR123100998BJNE000200305)
 
 Die in § 36a Satz 2 des Gesetzes über Maßnahmen auf dem Gebiete des
 Grundbuchwesens bestimmte Hemmung der Verjährung noch nicht verjährter
@@ -36,6 +38,7 @@ Dezember 1999.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verjhemv/BJNR123100998.html#BJNR123100998BJNE000300305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

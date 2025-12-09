@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000702116)
 
 Durch dieses Gesetz erhalten Verbraucherinnen und Verbraucher freien
 Zugang zu den bei informationspflichtigen Stellen vorliegenden
@@ -45,6 +46,7 @@ wird.
 
 
 ## § 2 Anspruch auf Zugang zu Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000105116)
 
 (1) Jeder hat nach Maßgabe dieses Gesetzes Anspruch auf freien Zugang
 zu allen Daten über
@@ -166,6 +168,7 @@ vorgesehen sind.
 
 
 ## § 3 Ausschluss- und Beschränkungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000203311)
 
 Der Anspruch nach § 2 besteht wegen
 
@@ -292,6 +295,7 @@ Buchstabe a ist nicht anzuwenden.
 
 
 ## § 4 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000303311)
 
 (1) Die Information wird auf Antrag erteilt. Der Antrag muss
 hinreichend bestimmt sein und insbesondere erkennen lassen, auf welche
@@ -365,6 +369,7 @@ nicht rechtzeitig oder nicht vollständig erfolgen wird.
 
 
 ## § 5 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000403311)
 
 (1) Das Verfahren einschließlich der Beteiligung Dritter, deren
 rechtliche Interessen durch den Ausgang des Verfahrens berührt werden
@@ -418,6 +423,7 @@ ist die oberste Bundesbehörde.
 
 
 ## § 6 Informationsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000503311)
 
 (1) Die informationspflichtige Stelle kann den Informationszugang
 durch Auskunftserteilung, Gewährung von Akteneinsicht oder in
@@ -452,6 +458,7 @@ erfolgen, in der die Information zugänglich gemacht wurde.
 
 
 ## § 7 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/vig/BJNR255810007.html#BJNR255810007BJNE000603116)
 
 (1) Für individuell zurechenbare öffentliche Leistungen der Behörden
 nach diesem Gesetz werden vorbehaltlich des Satzes 2 kostendeckende

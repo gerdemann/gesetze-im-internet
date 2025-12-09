@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNG000100000)
 
 
 ### § 1 Errichtung, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000100000)
 
 Zum 1. Januar 2016 wird als gewerbliche Berufsgenossenschaft die
 Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -34,6 +36,7 @@ zuständig.
 
 
 ### § 2 Eingliederung der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000200000)
 
 (1) Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für
 Transport und Verkehrswirtschaft werden zum 1. Januar 2016 in die
@@ -50,6 +53,7 @@ Transport und Verkehrswirtschaft werden aufgelöst.
 
 
 ### § 3 Sitz und Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000301126)
 
 (1) Der Sitz der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation wird durch die Satzung bestimmt.
@@ -60,6 +64,7 @@ Soziale Sicherung.
 
 
 ### § 4 Dienstrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000402124)
 
 Bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation können die Obergrenzen für Beförderungsämter nach §
@@ -70,6 +75,7 @@ Dezember 2015 geltenden Fassung zulässig war.
 
 
 ### § 5 Übertragene Aufgaben, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000500000)
 
 (1) Der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation werden folgende weitere Aufgaben übertragen:
@@ -131,6 +137,7 @@ die nicht der Zustimmung des Bundesrates bedarf.
 
 
 ### § 6 Kosten bei Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000600000)
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der
 Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -147,9 +154,11 @@ Gesetzes dient.
 
 
 ## Abschnitt 2 - Personalrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNG000200000)
 
 
 ### § 7 Übertritt des Personals
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000700000)
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation tritt mit Auflösung der Berufsgenossenschaft für
@@ -196,6 +205,7 @@ die §§ 26 bis 28 des Bundesanstalt Post-Gesetzes entsprechend.
 
 
 ### § 8 Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000801126)
 
 Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für
 Transport und Verkehrswirtschaft können für einen Übergangszeitraum
@@ -214,6 +224,7 @@ Genehmigung durch das Bundesamt für Soziale Sicherung.
 
 
 ### § 9 Sonstige personalrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE000900000)
 
 (1) Die Dienstordnung der Berufsgenossenschaft für Transport und
 Verkehrswirtschaft gilt fort.
@@ -245,9 +256,11 @@ gelten die Sätze 1 und 2 entsprechend.
 
 
 ## Abschnitt 3 - Übergangsregelungen zum Selbstverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNG000300000)
 
 
 ### § 10 Übergangsregelungen zu den Selbstverwaltungsorganen
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE001000000)
 
 Bis zum Ablauf der am 1. Januar 2016 laufenden Wahlperiode richten
 sich die Bildung und das Verfahren der Selbstverwaltungsorgane der
@@ -258,6 +271,7 @@ Vierten Buches Sozialgesetzbuch.
 
 
 ### § 11 Vertreterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE001100000)
 
 (1) Die am 31. Dezember 2015 amtierenden Mitglieder der
 Vertreterversammlungen der Unfallkasse Post und Telekom und der
@@ -277,6 +291,7 @@ Wahlausschusses wahrnimmt.
 
 
 ### § 12 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE001200000)
 
 Die am 31. Dezember 2015 amtierenden Mitglieder des Vorstandes der
 Unfallkasse Post und Telekom und des Vorstandes der
@@ -288,9 +303,11 @@ genannten Vorstände.
 
 
 ## Abschnitt 4 - Sonstige Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNG000400000)
 
 
 ### § 13 Gefahrtarif- und Beitragsgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE001301126)
 
 Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für
 Transport und Verkehrswirtschaft können eine Vereinbarung über die
@@ -303,6 +320,7 @@ entsprechend Anwendung.
 
 
 ### § 14 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE001400000)
 
 Der Haushaltsplan der Berufsgenossenschaft Verkehrswirtschaft Post-
 Logistik Telekommunikation besteht für das Haushaltsjahr 2016 aus zwei
@@ -321,6 +339,7 @@ festgestellt.
 
 
 ### § 15 Übernahme weiterer Aufgaben für die Mitgliedsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bgvplterg/BJNR383800013.html#BJNR383800013BJNE001501000)
 
 Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation kann nach Maßgabe entgeltlicher

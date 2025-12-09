@@ -21,18 +21,22 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000100000)
 
 
 
 ### Kapitel 1 - Wahl durch die Arbeitnehmer eines Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000200000)
 
 
 
 #### Abschnitt 1 - Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000300000)
 
 
 
 ##### § 1 Mitteilung des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000200000)
 
 Das zur gesetzlichen Vertretung berufene Organ eines Unternehmens,
 dessen Aufsichtsrat nach § 1 des Gesetzes Arbeitnehmervertreter
@@ -49,6 +53,7 @@ der Amtszeit feststeht.
 
 
 ##### § 2 Betriebswahlvorstand, Bildung und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000300000)
 
 (1) Unverzüglich nach der in § 1 bezeichneten Mitteilung wird der
 Betriebswahlvorstand gebildet. Ihm obliegt die Durchführung der Wahl
@@ -82,6 +87,7 @@ Betriebsanschrift mit.
 
 
 ##### § 3 Geschäftsführung des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000400000)
 
 (1) Der Betriebswahlvorstand wählt aus seiner Mitte einen Vorsitzenden
 und mindestens einen Stellvertreter. Der Betriebswahlvorstand kann
@@ -118,6 +124,7 @@ Wahlverfahren unterrichtet werden.
 
 
 ##### § 4 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000500000)
 
 (1) Der Betriebswahlvorstand stellt unverzüglich nach seiner Bildung
 eine Liste der Wahlberechtigten (Wählerliste) auf. Die
@@ -158,6 +165,7 @@ werden.
 
 
 ##### § 5 Wahlausschreiben, Einleitung der Wahl, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000601126)
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erlässt
 der Betriebswahlvorstand ein Wahlausschreiben. Mit Erlass des
@@ -295,6 +303,7 @@ bekannt (§ 3 Abs. 3).
 
 
 ##### § 6 Einspruch gegen die Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000700000)
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können innerhalb
 von einer Woche seit Erlass des Wahlausschreibens schriftlich beim
@@ -314,10 +323,12 @@ rechtzeitig eingelegter Einsprüche berichtigt werden.
 
 
 #### Abschnitt 2 - Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000400000)
 
 
 
 ##### § 7 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000800000)
 
 (1) Die Wahl erfolgt auf Grund von Wahlvorschlägen des Betriebsrats
 und der Arbeitnehmer. Die Wahlvorschläge sind innerhalb von zwei
@@ -362,6 +373,7 @@ Wahlvorschlägen zu streichen.
 
 
 ##### § 8 Wahlvorschläge für Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE000900000)
 
 (1) Wird zusammen mit einem Bewerber für diesen ein Ersatzmitglied des
 Aufsichtsrats vorgeschlagen (§ 7 Abs. 1 des Gesetzes), gilt § 7 Abs. 5
@@ -377,6 +389,7 @@ gilt entsprechend.
 
 
 ##### § 9 Bestätigung und Prüfung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001000000)
 
 (1) Der Betriebswahlvorstand bestätigt dem Vorschlagsvertreter
 schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
@@ -387,6 +400,7 @@ schriftlich unter Angabe der Gründe zu unterrichten.
 
 
 ##### § 10 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001100000)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -421,6 +435,7 @@ beseitigt worden sind.
 
 
 ##### § 11 Nachfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001200000)
 
 (1) Ist nach Ablauf der in § 7 Abs. 1 genannten Frist kein gültiger
 Wahlvorschlag eingereicht, so hat dies der Betriebswahlvorstand sofort
@@ -436,6 +451,7 @@ dass die Wahl nicht stattfindet.
 
 
 ##### § 12 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001300000)
 
 Spätestens eine Woche vor dem ersten Tag der Stimmabgabe macht der
 Betriebswahlvorstand die gültigen Wahlvorschläge in gleicher Weise
@@ -443,10 +459,12 @@ bekannt wie das Wahlausschreiben (§ 5 Abs. 3).
 
 
 #### Abschnitt 3 - Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000500000)
 
 
 
 ##### § 13 Stimmabgabe, Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001400000)
 
 (1) Der Wähler kann seine Stimme nur für Bewerber eines als gültig
 anerkannten Wahlvorschlags abgeben. Die Stimmabgabe erfolgt durch
@@ -485,6 +503,7 @@ sind.
 
 
 ##### § 14 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001500000)
 
 (1) Der Betriebswahlvorstand hat geeignete Vorkehrungen für die
 unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und
@@ -522,14 +541,17 @@ wird.
 
 
 ##### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001601119)
 
 
 
 #### Abschnitt 4 - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000600000)
 
 
 
 ##### § 16 Voraussetzungen der schriftlichen Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001700000)
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen
 Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich
@@ -583,6 +605,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 
 ##### § 17 Verfahren bei der schriftlichen Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001800000)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass der Wähler
 
@@ -619,10 +642,12 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 #### Abschnitt 5 - Stimmauszählung und Ergebnis
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000700000)
 
 
 
 ##### § 18 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE001901119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -637,6 +662,7 @@ zusammen.
 
 
 ##### § 19 Ermittlung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002000000)
 
 Gewählt sind die Bewerber, die die meisten Stimmen erhalten haben.
 Muss der zu Wählende Arbeitnehmer des Unternehmens sein (§ 4 des
@@ -646,6 +672,7 @@ entscheidet jeweils das Los.
 
 
 ##### § 19a Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Gesamterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE005300126)
 
 In Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a
 Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
@@ -655,6 +682,7 @@ erhalten haben. § 19 Satz 2 und 3 ist anzuwenden.
 
 
 ##### § 19b Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Getrennterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE005400126)
 
 (1) In Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des §
 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
@@ -676,6 +704,7 @@ nicht nach § 7a Absatz 2 Satz 1 des Gesetzes unwirksam ist.
 
 
 ##### § 20 Niederschrift des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002102126)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift fest:
@@ -724,6 +753,7 @@ in der Niederschrift zusätzlich fest,
 
 
 ##### § 21 Bekanntmachung des Wahlergebnisses und Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002201126)
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der
 Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
@@ -753,6 +783,7 @@ Betriebswahlvorstand die Adressaten der Absätze 1 und 2 zusätzlich
 
 
 ##### § 22 Aufbewahrung der Wahlakten, Bekanntmachung des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002300000)
 
 (1) Der Betriebswahlvorstand übergibt die Wahlakten dem Unternehmen.
 Das Unternehmen bewahrt die Wahlakten mindestens für die Dauer von
@@ -763,10 +794,12 @@ Betrieb gilt § 3 Abs. 3 entsprechend.
 
 
 ### Kapitel 2 - Wahl durch die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000800000)
 
 
 
 #### § 23 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002400000)
 
 Nehmen die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen an
 der Wahl der Vertreter der Arbeitnehmer im Aufsichtsrat teil, so
@@ -775,11 +808,13 @@ aus den nachfolgenden Vorschriften Abweichungen ergeben.
 
 
 #### § 24 Mitteilung des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002500000)
 
 Die in § 1 bezeichnete Mitteilung erfolgt gegenüber den Betriebsräten.
 
 
 #### § 25 Wahlvorstände
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002600000)
 
 (1) Die Durchführung der Wahl und die Feststellung des Wahlergebnisses
 obliegen dem zuständigen Wahlvorstand. Zuständiger Wahlvorstand ist
@@ -806,6 +841,7 @@ und die Namen ihrer Mitglieder mit.
 
 
 #### § 26 Zusammensetzung des Unternehmenswahlvorstands oder des Hauptwahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002700000)
 
 (1) Für die Größe und Zusammensetzung des nach § 25 Abs. 1 zuständigen
 Wahlvorstands gilt § 2 Abs. 2 und 3 entsprechend.
@@ -856,6 +892,7 @@ Bestellung gemeinsam mit dieser Vertretung.
 
 
 #### § 27 Zusammensetzung und Aufgaben des Betriebswahlvorstands, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002800000)
 
 (1) Für die Größe und Zusammensetzung des Betriebswahlvorstands gilt §
 2 Abs. 2 bis 5.
@@ -871,6 +908,7 @@ Tag.
 
 
 #### § 28 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE002900000)
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erlässt
 der zuständige Wahlvorstand ein Wahlausschreiben. Mit Erlass des
@@ -926,6 +964,7 @@ Aufsichtsratsmitglieder.
 
 
 #### § 29 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003000000)
 
 Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind
 innerhalb von zwei Wochen seit Erlass des Wahlausschreibens
@@ -937,6 +976,7 @@ zu machen sind.
 
 
 #### § 30 Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003100000)
 
 (1) Der zuständige Wahlvorstand übersendet den Betriebswahlvorständen
 auf Anforderung die für die in den Betrieben durchzuführende
@@ -947,6 +987,7 @@ schriftlichen Stimmabgabe.
 
 
 #### § 31 Stimmauszählung, Niederschrift, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003201126)
 
 (1) Die öffentliche Stimmauszählung in den Betrieben obliegt dem
 Betriebswahlvorstand.
@@ -993,14 +1034,17 @@ für die Dauer von fünf Jahren auf.
 
 
 ## Teil 2 - Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG000900000)
 
 
 
 ### Kapitel 1 - Abberufung durch die Arbeitnehmer eines Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG001000000)
 
 
 
 #### § 32 Einleitung des Abberufungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003300000)
 
 (1) Ein Antrag auf Abberufung eines Aufsichtsratsmitglieds der
 Arbeitnehmer oder eines Ersatzmitglieds nach § 12 des Gesetzes ist
@@ -1024,6 +1068,7 @@ Wahlakten zu übergeben.
 
 
 #### § 33 Liste der Abstimmungsberechtigten, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003400000)
 
 (1) Der Betriebswahlvorstand erstellt unverzüglich eine Liste der
 Abstimmungsberechtigten. Abstimmungsberechtigt ist, wer wahlberechtigt
@@ -1055,6 +1100,7 @@ die Namen seiner Mitglieder und seine Anschrift bekannt sowie
 
 
 #### § 34 Prüfung des Antrags auf Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003500000)
 
 (1) Der Betriebswahlvorstand prüft unverzüglich nach Ablauf der in §
 33 Abs. 1 Satz 2, § 6 Abs. 1 bezeichneten Fristen die Gültigkeit des
@@ -1068,6 +1114,7 @@ Wochen bekannt.
 
 
 #### § 35 Abberufungsausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003600000)
 
 (1) Ist der Antrag gültig, erlässt der Betriebswahlvorstand
 unverzüglich ein Abberufungsausschreiben. Mit Erlass des
@@ -1117,6 +1164,7 @@ Abberufungsausschreibens ist das Abberufungsverfahren eingeleitet.
 
 
 #### § 36 Stimmzettel, Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003700000)
 
 (1) Die Stimmzettel dürfen nur den Antrag und die Frage an den
 Abstimmungsberechtigten enthalten, ob er für oder gegen den Antrag auf
@@ -1129,6 +1177,7 @@ bis 17 entsprechend.
 
 
 #### § 37 Öffentliche Stimmauszählung, Abstimmungsergebnis, Akten
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003801119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus. § 18 Absatz 2 und 3
@@ -1140,10 +1189,12 @@ entstandenen Akten gelten die §§ 20 bis 22 entsprechend.
 
 
 ### Kapitel 2 - Abberufung durch die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG001100000)
 
 
 
 #### § 38 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE003900000)
 
 Nehmen die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen an
 der Abstimmung über die Abberufung eines Arbeitnehmervertreters im
@@ -1153,6 +1204,7 @@ Abweichungen ergeben.
 
 
 #### § 39 Antrag, Unternehmenswahlvorstand, Hauptwahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004000000)
 
 (1) Der Antrag auf Abberufung nach § 12 des Gesetzes ist schriftlich
 einzureichen
@@ -1184,26 +1236,31 @@ Wahlvorstands gilt § 26.
 
 
 #### § 40 Betriebswahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004100000)
 
 Für die Bildung, Größe, Zusammensetzung und Aufgaben des
 Betriebswahlvorstands gelten § 25 Abs. 2 und 3 und § 27.
 
 
 #### § 41 Abberufungsausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004200000)
 
 Der zuständige Wahlvorstand erlässt unverzüglich ein
 Abberufungsausschreiben.
 
 
 ## Teil 3 - Besondere Vorschriften bei Teilnahme von Arbeitnehmern eines Seebetriebs
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG001200000)
 
 
 
 ### Kapitel 1 - Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG001300000)
 
 
 
 #### § 42 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004300000)
 
 Für die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer bei
 Teilnahme von Arbeitnehmern eines Seebetriebs gelten die Vorschriften
@@ -1212,6 +1269,7 @@ Vorschriften Abweichungen ergeben.
 
 
 #### § 43 Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004400000)
 
 (1) Die in § 1 bezeichnete Frist wird auf 22 Wochen verlängert.
 
@@ -1243,6 +1301,7 @@ in die in § 4 bezeichnete Wählerliste.
 
 
 #### § 44 Bekanntmachung über die Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004500000)
 
 (1) Das Wahlausschreiben muss im Seebetrieb auch folgende Angaben
 enthalten:
@@ -1301,6 +1360,7 @@ gilt § 43 Abs. 3.
 
 
 #### § 45 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004600000)
 
 (1) Die Arbeitnehmer des Seebetriebs stimmen bei der Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer in Briefwahl ab.
@@ -1327,10 +1387,12 @@ Wahlvorstand abgesandt werden.
 
 
 ### Kapitel 2 - Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG001400000)
 
 
 
 #### § 46 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004700000)
 
 Für die Abberufung der Aufsichtsratsmitglieder der Arbeitnehmer bei
 Teilnahme von Arbeitnehmern von Seebetrieben gelten die Vorschriften
@@ -1339,6 +1401,7 @@ Vorschriften Abweichungen ergeben.
 
 
 #### § 47 Einleitung des Abberufungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004800000)
 
 (1) Für den Seebetrieb wird ein Betriebswahlvorstand nicht gebildet.
 Der zuständige Wahlvorstand nimmt im Seebetrieb die sich aus dieser
@@ -1349,12 +1412,14 @@ Verordnung ergebenden Aufgaben des Betriebswahlvorstands wahr.
 
 
 #### § 48 Abberufungsausschreiben für Seebetriebe, Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE004900000)
 
 Für das Abberufungsausschreiben nach § 41 und die Wählerliste gilt §
 44 Abs. 1, 2 und 5.
 
 
 #### § 49 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE005000000)
 
 Die Arbeitnehmer von Seebetrieben stimmen bei der Abberufung von
 Aufsichtsratsmitgliedern in Briefwahl ab. Für die Stimmabgabe gilt §
@@ -1362,10 +1427,12 @@ Aufsichtsratsmitgliedern in Briefwahl ab. Für die Stimmabgabe gilt §
 
 
 ## Teil 4 - Schlussbestimmung und Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNG001501126)
 
 
 
 ### § 50 Berechnung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE005100000)
 
 Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
@@ -1373,6 +1440,7 @@ Anwendung.
 
 
 ### § 51 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wodrittelbg/BJNR139310004.html#BJNR139310004BJNE005500126)
 
 Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
 einschließlich 31. März 2022 abgeschlossen sind, ist diese Verordnung

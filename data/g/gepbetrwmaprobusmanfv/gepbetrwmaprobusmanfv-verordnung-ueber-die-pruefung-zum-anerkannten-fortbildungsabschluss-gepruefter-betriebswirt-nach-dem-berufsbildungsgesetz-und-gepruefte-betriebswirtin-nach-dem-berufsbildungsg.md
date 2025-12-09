@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetz V 806-22-6-62 v. 3.12.2019 I 2552 (GepBetrWFV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§
 53a und 53d des Berufsbildungsgesetzes in der Fassung der
@@ -30,6 +31,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000300000)
 
 Diese Verordnung regelt die Prüfung zum anerkannten
 Fortbildungsabschluss „Geprüfter Betriebswirt nach dem
@@ -40,6 +42,7 @@ dem Berufsbildungsgesetz“.
 
 
 ## § 2 Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000400000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss „Geprüfter Betriebswirt nach dem
@@ -102,6 +105,7 @@ Berufsbildungsgesetz“ vorangestellt.
 
 
 ## § 3 Voraussetzung für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000500000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53d des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -157,6 +161,7 @@ vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000600000)
 
 Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -183,6 +188,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 
 ## § 5 Handlungsbereich „Unternehmensspezifische Strategiefelder erkennen und ausgestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000700000)
 
 (1) Im Handlungsbereich „Unternehmensspezifische Strategiefelder
 erkennen und ausgestalten“ soll die zu prüfende Person nachweisen,
@@ -234,6 +240,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 6 Handlungsbereich „Normenbestimmte und finanzwirtschaftliche Rahmenbedingungen im Hinblick auf die Unternehmensstrategie bewerten“
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000800000)
 
 (1) Im Handlungsbereich „Normenbestimmte und finanzwirtschaftliche
 Rahmenbedingungen im Hinblick auf die Unternehmensstrategie bewerten“
@@ -278,6 +285,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 7 Handlungsbereich „Nationale und internationale Leistungsprozesse organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE000900000)
 
 (1) Im Handlungsbereich „Nationale und internationale
 Leistungsprozesse organisieren“ soll die zu prüfende Person
@@ -325,6 +333,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 8 Handlungsbereich „Unternehmensorganisation zur Sicherstellung der Leistungs- und Unternehmensprozesse unter Berücksichtigung der strategischen Vorgaben gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001000000)
 
 (1) Im Handlungsbereich „Unternehmensorganisation zur Sicherstellung
 der Leistungs- und Unternehmensprozesse unter Berücksichtigung der
@@ -365,6 +374,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 9 Handlungsbereich „Planung, Steuerung und Überwachung von Unternehmensprozessen wahrnehmen“
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001100000)
 
 (1) Im Handlungsbereich „Planung, Steuerung und Überwachung von
 Unternehmensprozessen wahrnehmen“ soll die zu prüfende Person
@@ -403,6 +413,7 @@ aufgeführten Qualifikationsinhalte verknüpft werden:
 
 
 ## § 10 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001200000)
 
 (1) Die Prüfung besteht aus einem schriftlichen Prüfungsteil, einem
 mündlichen Prüfungsteil und einem projektbezogenen Prüfungsteil.
@@ -417,6 +428,7 @@ Prüfung ohne Beachtung der Frist zu Ende zu führen.
 
 
 ## § 11 Schriftlicher Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001300000)
 
 (1) Der schriftliche Prüfungsteil wird auf der Grundlage der
 Beschreibung einer betrieblichen Situation durchgeführt.
@@ -441,6 +453,7 @@ Aufgaben sind in englischer Sprache zu bearbeiten.
 
 
 ## § 12 Mündlicher Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001400000)
 
 (1) Zum mündlichen Prüfungsteil wird nur zugelassen, wer den
 schriftlichen Prüfungsteil abgelegt hat.
@@ -466,6 +479,7 @@ dauern.
 
 
 ## § 13 Projektbezogener Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001500000)
 
 (1) Zum projektbezogenen Prüfungsteil wird nur zugelassen, wer den
 schriftlichen und den mündlichen Prüfungsteil bestanden hat.
@@ -522,6 +536,7 @@ Minuten nicht überschreiten.
 
 
 ## § 14 Bewerten von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001600000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -562,6 +577,7 @@ werden gewichtet
 
 
 ## § 15 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001700000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -624,6 +640,7 @@ Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 16 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001800000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -636,6 +653,7 @@ Prüfungsausschusses zu Grunde zu legen.
 
 
 ## § 17 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE001900000)
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -663,6 +681,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 18 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE002000000)
 
 (1) Ein nicht bestandener Prüfungsteil kann zweimal wiederholt werden.
 
@@ -677,6 +696,7 @@ Aufgabenstellungen zu wiederholen. § 16 ist nicht anzuwenden.
 
 
 ## § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE002100000)
 
 (1) Vor Ablauf des 30. Dezember 2019 angemeldete Prüfungen nach der
 Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -709,6 +729,7 @@ dieser Verordnung durchzuführen.
 
 
 ## § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Geprüfter-Betriebswirt-Fortbildungsverordnung
@@ -717,6 +738,7 @@ vom 3. Dezember 2019 (BGBl. I S. 2552) außer Kraft.
 (zu den §§ 15 und 16)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 3085 - 3086)
 
@@ -1018,6 +1040,7 @@ vom 3. Dezember 2019 (BGBl. I S. 2552) außer Kraft.
 (zu § 17 Absatz 1)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/BJNR307900020.html#BJNR307900020BJNE002400000)
 
 (Fundstelle: BGBl. I 2020, 3087)
 

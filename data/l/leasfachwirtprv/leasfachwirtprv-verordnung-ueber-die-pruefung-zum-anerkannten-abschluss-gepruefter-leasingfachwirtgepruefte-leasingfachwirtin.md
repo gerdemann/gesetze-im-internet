@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000100310)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -35,6 +36,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000201128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Leasingfachwirt/zur
@@ -72,6 +74,7 @@ Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000300310)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -101,6 +104,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000400310)
 
 (1) Die Prüfung gliedert sich in
 
@@ -122,6 +126,7 @@ des als ersten abgelegten Prüfungsteils zu beginnen.
 
 
 ## § 4 Wirtschaftszweigübergreifender Teil
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000501128)
 
 (1) Im wirtschaftszweigübergreifenden Teil ist in folgenden Fächern zu
 prüfen:
@@ -340,6 +345,7 @@ prüfender Person nicht länger als 10 Minuten dauern.
 
 
 ## § 5 Wirtschaftszweigspezifischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000601128)
 
 (1) Im wirtschaftszweigspezifischen Teil ist in folgenden Fächern zu
 prüfen:
@@ -566,6 +572,7 @@ prüfender Person nicht länger als zehn Minuten dauern.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -578,6 +585,7 @@ zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -594,6 +602,7 @@ zu berechnen.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE001300128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -627,6 +636,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE001400128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -653,6 +663,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE000901128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -666,6 +677,7 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE001001128)
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende
@@ -682,12 +694,14 @@ Anwendung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE001101128)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE001202128)
 
 Fundstelle: BGBl. I 2019, 2195 - 2196)
 
@@ -989,6 +1003,7 @@ Fundstelle: BGBl. I 2019, 2195 - 2196)
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/leasfachwirtprv/BJNR157000995.html#BJNR157000995BJNE001500128)
 
 (Fundstelle: BGBl. I 2019, 2196)
 

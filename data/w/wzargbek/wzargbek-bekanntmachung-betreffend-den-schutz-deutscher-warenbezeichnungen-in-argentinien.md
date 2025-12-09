@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzargbek/BJNR003200909.html#BJNR003200909BJNE000100303)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der
 Warenbezeichnungen vom 12. Mai 1894 (Reichsgesetzbl. S. 441) wird

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpolrzustano/BJNR501340968.html#BJNR501340968BJNE000100303)
 
 Das Bundesverwaltungsamt wird hiermit zur zuständigen Behörde
 bestimmt, die nach § 11 Abs. 3 und § 12 Abs. 2 Satz 4 des
@@ -32,6 +33,7 @@ ausscheiden, entscheidet.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpolrzustano/BJNR501340968.html#BJNR501340968BJNE000200303)
 
 Auf Grund des § 2 des Bundespolizeibeamtengesetzes in der Fassung vom
 10\. Juli 1967 in Verbindung mit § 172 des Bundesbeamtengesetzes in der
@@ -49,11 +51,13 @@ Bundespolizeibeamtengesetz erlassen hat.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bpolrzustano/BJNR501340968.html#BJNR501340968BJNE000300303)
 
 Die Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bpolrzustano/BJNR501340968.html#BJNR501340968BJNE000400303)
 
 Der Bundesminister des Innern
 

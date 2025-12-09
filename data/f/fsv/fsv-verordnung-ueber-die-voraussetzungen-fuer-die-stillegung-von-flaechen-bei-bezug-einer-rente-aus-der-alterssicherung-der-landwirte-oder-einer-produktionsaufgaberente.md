@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000100320)
 
 Auf Grund
 
@@ -39,6 +40,7 @@ und Forsten:
 
 
 ## § 1 Stillegung bei Bezug einer Rente aus der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000200320)
 
 (1) Eine landwirtschaftlich genutzte Fläche ist nur stillgelegt, wenn
 jede landwirtschaftliche Nutzung und jeglicher Anbau von
@@ -98,6 +100,7 @@ wenn
 
 
 ## § 2 Stillegung bei Bezug einer Produktionsaufgaberente
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000300320)
 
 Ein Leistungsempfänger nach dem Gesetz zur Förderung der Einstellung
 der landwirtschaftlichen Erwerbstätigkeit kann eine Fläche nur
@@ -115,6 +118,7 @@ stillegen.
 
 
 ## § 3 Pflichten bei Flächenstillegung
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000400320)
 
 (1) Legt der Empfänger einer Rente aus der Alterssicherung der
 Landwirte oder einer Produktionsaufgaberente eine Fläche nach § 1 Abs.
@@ -168,16 +172,19 @@ fachgerecht zu pflegen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000500320)
 
 -
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000600320)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fsv/BJNR352400994.html#BJNR352400994BJNE000700320)
 
 Der Bundesrat hat zugestimmt.
 

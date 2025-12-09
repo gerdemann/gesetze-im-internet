@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 4110-4-10 v. 16.12.2004 I 3515 (WpDPV 2005)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000100000)
 
 Auf Grund des § 89 Absatz 6 Satz 1 des Wertpapierhandelsgesetzes, der
 durch Artikel 3 Nummer 90 Buchstabe e des Gesetzes vom 23. Juni 2017
@@ -34,9 +35,11 @@ verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000200000)
 
 Diese Verordnung gilt für die Prüfung
 
@@ -58,6 +61,7 @@ Diese Verordnung gilt für die Prüfung
 
 
 ### § 2 Fehler, Mangel, sonstige Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000300000)
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung
 von den in § 89 Absatz 1 Satz 1 und 2 des Wertpapierhandelsgesetzes
@@ -134,9 +138,11 @@ berücksichtigt worden ist.
 
 
 ## Abschnitt 2 - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNG000200000)
 
 
 ### § 3 Prüfungszeitraum, Prüfungsdauer und Unterbrechung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000400000)
 
 (1) Der Prüfungszeitraum beginnt mit dem Tag der ersten und endet mit
 dem Tag der letzten Prüfungshandlung vor Ort.
@@ -159,6 +165,7 @@ Prüfung jedoch insgesamt für mehr als vier Wochen unterbrochen wurde.
 
 
 ### § 4 Stichtag der Prüfung und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000500000)
 
 (1) Der Prüfer legt den Stichtag der Prüfung nach pflichtgemäßem
 Ermessen fest.
@@ -179,6 +186,7 @@ folgenden Prüfung.
 
 
 ### § 5 Prüfungsbeginn
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000600000)
 
 (1) Die Prüfung muss spätestens 15 Monate nach dem Beginn des für sie
 maßgeblichen Berichtszeitraums begonnen worden sein. Die Bundesanstalt
@@ -207,6 +215,7 @@ der Bundesanstalt in Frankfurt am Main zu erfolgen.
 
 
 ### § 6 Allgemeine Anforderungen an die Prüfung; Bildung von Schwerpunkten
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000700000)
 
 (1) Die Prüfung umfasst die Einhaltung der in § 89 Absatz 1 Satz 1 und
 2 des Wertpapierhandelsgesetzes genannten Anforderungen in allen
@@ -241,6 +250,7 @@ Prüfungsplans.
 
 
 ### § 7 Zweigstellen, Zweigniederlassungen, Filialen und Auslagerungen
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000800000)
 
 (1) Bei Wertpapierdienstleistungsunternehmen mit solchen Zweigstellen,
 Zweigniederlassungen oder Filialen, die wesentliche Teilbereiche von
@@ -293,6 +303,7 @@ geltenden Fassung.
 
 
 ### § 8 Prüfungen nach § 88 Absatz 1 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE000900000)
 
 (1) Wurde im Berichtszeitraum eine Prüfung nach § 88 Absatz 1 des
 Wertpapierhandelsgesetzes durchgeführt, hat der Prüfer das
@@ -306,6 +317,7 @@ Prüfung eingetretenen sind.
 
 
 ### § 9 Aufzeichnungen und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001000000)
 
 (1) Der Prüfer ist verpflichtet, über die Prüfung Aufzeichnungen in
 Papierform oder auf Datenträgern anzufertigen und zur
@@ -336,9 +348,11 @@ Wertpapierhandelsgesetzes aufzubewahren.
 
 
 ## Abschnitt 3 - Prüfungsbericht und Fragebogen
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNG000300000)
 
 
 ### § 10 Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001100000)
 
 (1) Der Prüfungsbericht muss den Berichtszeitraum und den
 Prüfungszeitraum nennen. Er muss vollständig und so übersichtlich
@@ -359,6 +373,7 @@ Prüfungsbericht darzustellen.
 
 
 ### § 11 Verhaltenspflichten, Organisationspflichten und Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001200000)
 
 (1) Im Prüfungsbericht sind im Einzelnen, sofern nach der Art der
 erbrachten Wertpapierdienstleistungen oder
@@ -775,6 +790,7 @@ jeweiligen Pflichten zu berichten, die sich ergeben aus der
 
 
 ### § 12 Depotgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001301360)
 
 Bei der Prüfung des Depotgeschäfts nach § 89 Absatz 1 Satz 2 des
 Wertpapierhandelsgesetzes hat der Prüfungsbericht zudem Angaben zu
@@ -794,6 +810,7 @@ enthalten, ob Folgendes beachtet wird:
 
 
 ### § 13 Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001400000)
 
 (1) Soweit die Bundesanstalt im Einzelfall Bestimmungen über den
 Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat,
@@ -809,6 +826,7 @@ Stichproben sowie deren Ergebnis sind anzugeben.
 
 
 ### § 14 Verweisungen auf frühere Prüfungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001500000)
 
 (1) Verweisungen auf den Inhalt früherer Prüfungsberichte sind
 grundsätzlich nicht zulässig.
@@ -829,6 +847,7 @@ ausnahmsweise dann zulässig, wenn der Prüfer
 
 
 ### § 15 Bei der letzten Prüfung festgestellte Mängel
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001600000)
 
 Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung
 festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer
@@ -839,6 +858,7 @@ Mängel in der Zukunft zu vermeiden.
 
 
 ### § 16 Schlussbemerkungen
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001700000)
 
 In einer Schlussbemerkung ist zusammenfassend zu beurteilen, ob das
 Wertpapierdienstleistungsunternehmen die in § 89 Absatz 1 Satz 1 und 2
@@ -848,6 +868,7 @@ Fundstellen im Bericht aufzuzählen.
 
 
 ### § 17 Prüfer; Unterschrift
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001800000)
 
 Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort
 geleitet hat. Der Prüfer hat den Prüfungsbericht unter Angabe von Ort
@@ -855,6 +876,7 @@ und Datum zu unterzeichnen.
 
 
 ### § 18 Fragebogen; Beschreibung der identifizierten Mängel und sonstigen Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE001900000)
 
 (1) Der nach § 89 Absatz 2 Satz 2 des Wertpapierhandelsgesetzes dem
 Prüfungsbericht beizufügende Fragebogen ist nach Maßgabe der Anlage zu
@@ -871,6 +893,7 @@ benennen.
 
 
 ### § 19 Übersendung des Prüfungsberichts und des Fragebogens
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002000000)
 
 (1) Der Fragebogen und der Prüfungsbericht, soweit dieser nach § 89
 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes angefordert wurde, sind
@@ -899,6 +922,7 @@ einzureichen.
 
 
 ### § 20 Berichtsentwurf
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002100000)
 
 (1) Falls die Bundesanstalt an der Prüfung nach § 89 Absatz 4 Satz 4
 des Wertpapierhandelsgesetzes teilnimmt, hat der Prüfer der
@@ -912,15 +936,18 @@ Besprechung zu übersenden.
 
 
 ### § 21 Erläuterung des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002200000)
 
 Der Prüfer hat der Bundesanstalt auf deren Verlangen den
 Prüfungsbericht zu erläutern.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNG000400000)
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Wertpapierdienstleistungs-Prüfungsverordnung
@@ -930,6 +957,7 @@ worden ist, außer Kraft.
 
 
 ### Anlage (zu § 18 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/wpdpv_2018/BJNR014000018.html#BJNR014000018BJNE002401360)
 
 
 (Fundstelle: BGBl. I 2018, 148 - 153; bzgl. einzelner Änderungen vgl.

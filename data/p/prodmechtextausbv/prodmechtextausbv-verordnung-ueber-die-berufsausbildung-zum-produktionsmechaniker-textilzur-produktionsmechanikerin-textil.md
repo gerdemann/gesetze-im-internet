@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
@@ -29,17 +30,20 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000200000)
 
 Der Ausbildungsberuf Produktionsmechaniker-Textil/
 Produktionsmechanikerin-Textil wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse
@@ -54,6 +58,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -110,6 +115,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000600000)
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen
@@ -121,12 +127,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000800000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -136,6 +144,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -194,6 +203,7 @@ gewichten.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE001001308)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -345,6 +355,7 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 9a Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE001500308)
 
 Die erfolgreich abgeschlossene Berufsausbildung im Ausbildungsberuf
 Produktprüfer-Textil/Produktprüferin-Textil nach der Verordnung über
@@ -355,6 +366,7 @@ werden.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE001101308)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -363,12 +375,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE001301308)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft .
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Produktionsmechaniker-Textil/zur Produktionsmechanikerin-Textil
+[Direktlink](https://www.gesetze-im-internet.de/prodmechtextausbv/BJNR127700005.html#BJNR127700005BJNE001400000)
 
 (Fundstelle: BGBl. I 2005, 1280 - 1284)
 

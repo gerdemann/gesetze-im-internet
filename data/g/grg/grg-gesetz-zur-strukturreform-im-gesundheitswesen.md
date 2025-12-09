@@ -20,44 +20,53 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE000700326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNG000100326)
 
 
 Sozialgesetzbuch (SGB)
 
 ### Art 1 Fünftes Buch (V) Gesetzliche Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE000800326)
 
 -
 
 
 ### (XXXX) Art 2 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE000900326)
 
 -
 
 
 ## Zweiter Teil - Änderung weiterer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNG000200326)
 
 
 
 ### (XXXX) Art 5 bis 7
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001000326)
 
 
 
 ### Art 8 Zweites Gesetz über die Krankenversicherung der Landwirte (KVLG 1989)
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001100326)
 
 -
 
 
 ### (XXXX) Art 9 bis 54
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001201308)
 
 
 
 ### Art 55 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001500326)
 
 Die auf den Artikeln 18 bis 21, 23, 24, 26, 47 und 48 beruhenden Teile
 der dort geänderten Verordnungen können auf Grund der jeweils
@@ -66,14 +75,17 @@ Rechtsverordnung geändert oder aufgehoben werden.
 
 
 ## Dritter Teil - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNG000300326)
 
 
 
 ### Erster Abschnitt - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNG000400326)
 
 
 
 #### Art 56 Krankenversicherung der Rentner und der Studenten
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001602308)
 
 (1) Personen, die bis zum 31. Dezember 1993 eine Rente aus der
 gesetzlichen Rentenversicherung beantragen und die Voraussetzungen für
@@ -153,6 +165,7 @@ des Europäischen Wirtschaftsraums.
 
 
 #### Art 57 Befreiung von der Versicherungspflicht für Ärzte im Praktikum
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001700326)
 
 Personen, die durch die Beschäftigung als Arzt im Praktikum am 31.
 Dezember 1988 versicherungspflichtig sind, werden auf Antrag von der
@@ -162,6 +175,7 @@ Buches Sozialgesetzbuch gilt entsprechend.
 
 
 #### Art 58 Berücksichtigung von Krankengeldleistungen im Finanzausgleich der Krankenversicherung der Rentner
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001800326)
 
 (1) Zu den ausgleichsfähigen Leistungsaufwendungen nach § 393b Abs. 1
 der Reichsversicherungsordnung in der bis zum 31. Dezember 1988
@@ -181,6 +195,7 @@ Sozialgesetzbuch für das Jahr 1989 abzusetzen.
 
 
 #### Art 59 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE001900326)
 
 (1) Der Versicherung können beitreten
 
@@ -210,6 +225,7 @@ Fällen mit dem Tag des Beitritts.
 
 
 #### Art 60 Kieferorthopädische Behandlung und Versorgung mit Zahnersatz
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002000326)
 
 Versicherte, deren zahnärztliche Behandlung zur Versorgung mit
 Zahnersatz oder Zahnkronen oder deren kieferorthopädische Behandlung
@@ -220,11 +236,13 @@ hat.
 
 
 #### Art 61
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002101308)
 
 -
 
 
 #### Art 62 Leistungsausschluß für Familienversicherte
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002200326)
 
 Bis zum 31. Dezember 1990 haben die nach § 10 des Fünften Buches
 Sozialgesetzbuch Versicherten aus dieser Versicherung keinen Anspruch
@@ -234,6 +252,7 @@ erbringen sind.
 
 
 #### Art 63 Kostenerstattung durch die Träger der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002300326)
 
 (1) Die Träger der gesetzlichen Unfallversicherung haben den
 Krankenkassen die Kosten zu erstatten, die über den 31. Dezember 1988
@@ -269,6 +288,7 @@ nach Absatz 1 aufgewandt worden sind.
 
 
 #### Art 64 Beteiligte Ärzte und Zahnärzte als Mitglieder der Kassenärztlichen Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002400326)
 
 Die Mitgliedschaft von Ärzten und Zahnärzten bei den Kassenärztlichen
 Vereinigungen und Kassenärztlichen Bundesvereinigungen, die nach dem
@@ -278,6 +298,7 @@ längstens bis zum 31. Dezember 1992, erhalten.
 
 
 #### Art 65 Umwandlung von Beteiligungen in Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002500326)
 
 Beteiligungen nach § 368a Abs. 8 der Reichsversicherungsordnung in der
 am 31. Dezember 1988 geltenden Fassung gelten vom 1. Januar 1989 an
@@ -290,6 +311,7 @@ Ermächtigungen durch den Zulassungsausschuß fort.
 
 
 #### Art 66 Vertragsärzte
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002600326)
 
 Für Ärzte und Zahnärzte, die am 1. Januar 1977 Vertragsärzte der
 Ersatzkassen waren oder sich bis zu diesem Zeitpunkt um Teilnahme an
@@ -298,6 +320,7 @@ Satz 1 des Fünften Buches Sozialgesetzbuch nicht.
 
 
 #### Art 67 Medizinisch-technische Großgeräte
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002700326)
 
 Für medizinisch-technische Großgeräte, die vor dem 1. Januar 1989
 angeschafft, genutzt oder mitbenutzt worden sind, gelten § 368n Abs. 8
@@ -311,6 +334,7 @@ März 1986, S. 3) weiter.
 
 
 #### Art 68 Dienstordnung
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002800326)
 
 Die §§ 349 bis 357, § 360, § 413 Abs. 2 Satz 1 und § 414b der
 Reichsversicherungsordnung gelten weiterhin nicht für Krankenkassen
@@ -320,6 +344,7 @@ Krankenkassen nach § 225 Abs. 1 oder den Verbänden nach § 406 oder §
 
 
 #### Art 69 Landesverbände der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE002900326)
 
 Landesverbände, deren Aufgaben nach § 207 Abs. 4 des Fünften Buches
 Sozialgesetzbuch künftig von der Krankenkasse wahrgenommen werden,
@@ -328,6 +353,7 @@ und Pflichten tritt am 1. Januar 1989 die Krankenkasse ein.
 
 
 #### Art 70 Regionale Kassenverbände
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003000326)
 
 Für Kassenverbände, die am 31. Dezember 1988 nach § 406 der
 Reichsversicherungsordnung gebildet waren, sowie für Kassenverbände
@@ -337,6 +363,7 @@ diese Verbände die Vorschriften des Fünften Buches Sozialgesetzbuch.
 
 
 #### Art 71 Beitragssatz für Studenten und Praktikanten
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003100326)
 
 Der auf Grund des § 381a der Reichsversicherungsordnung zum 1. Oktober
 1988 vom Bundesminister für Arbeit und Sozialordnung festgestellte
@@ -346,6 +373,7 @@ Praktikanten bis zum 30. September 1989 weiter.
 
 
 #### Art 72 Rücklagenbildung bei der Bundesknappschaft
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003200326)
 
 Die Bundesknappschaft als Träger der knappschaftlichen
 Krankenversicherung hat ihre Rücklage auf das in § 261 Abs. 2 des
@@ -355,6 +383,7 @@ aufzufüllen.
 
 
 #### Art 73 Vertrauensärztliche Dienste bei den Landesversicherungsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003300326)
 
 (1) Die Rechte und Pflichten der Landesversicherungsanstalten gehen
 auf die in den jeweiligen Bezirken der Landesversicherungsanstalten
@@ -432,6 +461,7 @@ Buches Sozialgesetzbuch).
 
 
 #### Art 74 Übergang der Prüfdienste bei den Landesversicherungsanstalten auf die Länder
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003400326)
 
 (1) Die Rechte und Pflichten der Landesversicherungsanstalten gehen,
 soweit es sich um die Durchführung von Aufgaben der Prüfung der
@@ -485,6 +515,7 @@ vereinbaren.
 
 
 #### Art 75 Betrieb von Vorsorge- oder Rehabilitationseinrichtungen der gesetzlichen Krankenversicherung durch Landesversicherungsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003500326)
 
 (1) Landesversicherungsanstalten, die am 1. Januar 1989 nach den zu
 diesem Zeitpunkt geltenden Vorschriften über Gemeinschaftsaufgaben der
@@ -521,6 +552,7 @@ Fünften Buches Sozialgesetzbuch.
 
 
 #### Art 76 Fortführung des Institutionskennzeichens
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003600326)
 
 Anstelle einer Vereinbarung nach § 293 Abs. 2 des Fünften Buches
 Sozialgesetzbuch können sich die Beteiligten auch darauf verständigen,
@@ -528,6 +560,7 @@ das bisherige Institutionskennzeichen weiter zu verwenden.
 
 
 #### Art 77 Verweisungen und Bezeichnungen in anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003701308)
 
 (1) Wird in anderen Vorschriften auf Bestimmungen verwiesen oder
 werden darin Bezeichnungen verwendet, die durch dieses Gesetz geändert
@@ -541,10 +574,12 @@ Stelle der bisherigen Bestimmungen und Bezeichnungen treten.
 
 
 ### Zweiter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNG000500326)
 
 
 
 #### Art 78 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003800326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -553,6 +588,7 @@ des Dritten Überleitungsgesetzes.
 
 
 #### Art 79 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/grg/BJNR024770988.html#BJNR024770988BJNE003900326)
 
 (1) Dieses Gesetz tritt am 1. Januar 1989 in Kraft, soweit in den
 Absätzen 2 bis 5 nichts Abweichendes bestimmt ist.

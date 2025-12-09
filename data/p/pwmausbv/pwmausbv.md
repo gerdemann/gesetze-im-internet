@@ -30,6 +30,7 @@ Stand: Ersetzt V 7110-6-53 v. 10.4.1989 I 725 (SchneidwMAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -40,9 +41,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000101126)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000301126)
 
 Der Ausbildungsberuf des Präzisionswerkzeugmechanikers und der
 Präzisionswerkzeugmechanikerin wird nach § 25 der Handwerksordnung zur
@@ -51,11 +54,13 @@ Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 10
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000401126)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000501126)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse
@@ -73,6 +78,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000601126)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -186,6 +192,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000701126)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -193,12 +200,15 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000201126)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000301126)
 
 
 #### § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000801126)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -210,9 +220,11 @@ am Ende der Berufsausbildung.
 
 
 ### Unterabschnitt 2 - Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000401126)
 
 
 #### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE000901126)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -229,6 +241,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 #### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001001126)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Fertigen
 einer Baugruppe statt.
@@ -285,9 +298,11 @@ schriftliche Bearbeitung der Aufgaben entfallen 90 Minuten.
 
 
 ### Unterabschnitt 3 - Teil 2 der Gesellenprüfung in der Fachrichtung Schneidwerkzeuge
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000501126)
 
 
 #### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001101126)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich in der Fachrichtung
 Schneidwerkzeuge auf
@@ -310,6 +325,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001201126)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -330,6 +346,7 @@ statt:
 
 
 #### § 11 Prüfungsbereich Instandsetzen von Schneidwerkzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001301126)
 
 (1) Im Prüfungsbereich Instandsetzen von Schneidwerkzeugen soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -379,6 +396,7 @@ situativen Fachgespräche dauert höchstens 10 Minuten.
 
 
 #### § 12 Prüfungsbereich Herstellen von Schneidwerkzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001401126)
 
 (1) Im Prüfungsbereich Herstellen von Schneidwerkzeugen soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -428,6 +446,7 @@ auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 13 Prüfungsbereich Arbeitsplanung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001501126)
 
 (1) Im Prüfungsbereich Arbeitsplanung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -463,6 +482,7 @@ dass er in der Lage ist,
 
 
 #### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001601126)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -476,6 +496,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001701126)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Schneidwerkzeuge wie folgt zu gewichten:
@@ -569,9 +590,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Gesellenprüfung in der Fachrichtung Zerspanwerkzeuge
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000601126)
 
 
 #### § 16 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001801126)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich in der Fachrichtung
 Zerspanwerkzeuge auf
@@ -594,6 +617,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 17 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE001901126)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -614,6 +638,7 @@ statt:
 
 
 #### § 18 Prüfungsbereich Instandsetzen von Zerspanwerkzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002001126)
 
 (1) Im Prüfungsbereich Instandsetzen von Zerspanwerkzeugen soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -646,6 +671,7 @@ Fachgespräch dauert höchstens 10 Minuten.
 
 
 #### § 19 Prüfungsbereich Herstellen von Zerspanwerkzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002101126)
 
 (1) Im Prüfungsbereich Herstellen von Zerspanwerkzeugen soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -702,6 +728,7 @@ auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 20 Prüfungsbereich Arbeitsplanung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002201126)
 
 (1) Im Prüfungsbereich Arbeitsplanung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -737,6 +764,7 @@ dass er in der Lage ist,
 
 
 #### § 21 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002301126)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -750,6 +778,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 22 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002401126)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Zerspanwerkzeuge wie folgt zu gewichten:
@@ -843,9 +872,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Zusatzqualifikation Messer schmieden
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000701126)
 
 
 ### § 23 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002501126)
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann
 während der Berufsausbildung die Ausbildung in der Zusatzqualifikation
@@ -856,6 +887,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 24 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002601126)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -907,9 +939,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 4 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000901126)
 
 
 ### § 25 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE003001126)
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
 Metalltechnik in der Fachrichtung Zerspanungstechnik nach den §§ 11
@@ -921,9 +955,11 @@ die Vertragsparteien dies vereinbaren.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNG000802126)
 
 
 ### § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002702126)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
 die Schneidwerkzeugmechaniker-Ausbildungsverordnung vom 10. April 1989
@@ -932,6 +968,7 @@ die Schneidwerkzeugmechaniker-Ausbildungsverordnung vom 10. April 1989
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002801126)
 
 (Fundstelle: BGBl. I 2018, 1196 - 1203)
 
@@ -2011,6 +2048,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 (zu § 23 Absatz 2)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Zusatzqualifikation Messer schmieden
+[Direktlink](https://www.gesetze-im-internet.de/pwmausbv/BJNR041400018.html#BJNR041400018BJNE002901126)
 
 (Fundstelle: BGBl. I 2018, 1204)
 

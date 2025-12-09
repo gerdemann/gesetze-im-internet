@@ -22,16 +22,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE000500311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNG000100311)
 
 
 
 ### § 1 Berechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE000601301)
 
 (1) Soldaten der Bundeswehr, denen militärische Wach- oder
 Sicherheitsaufgaben übertragen sind, sind befugt, in rechtmäßiger
@@ -60,6 +63,7 @@ Lebensjahr vollendet und das 65. Lebensjahr nicht überschritten haben.
 
 
 ### § 2 Militärische Bereiche und Sicherheitsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE000701301)
 
 (1) Militärische Bereiche im Sinne dieses Gesetzes sind Anlagen,
 Einrichtungen und Schiffe der Bundeswehr und der verbündeten
@@ -84,6 +88,7 @@ erteilen.
 
 
 ### § 3 Straftaten gegen die Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE000800311)
 
 (1) Straftaten gegen die Bundeswehr im Sinne dieses Gesetzes sind
 Straftaten gegen
@@ -120,10 +125,12 @@ Zivilbedienstete der verbündeten Streitkräfte in der Bundesrepublik.
 
 
 ## 2. Abschnitt - Anhalten, Personenüberprüfung, vorläufige Festnahme, Durchsuchung, Beschlagnahme und Voraussetzungen des unmittelbaren Zwanges
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNG000200311)
 
 
 
 ### § 4 Anhalten und Personenüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE000900311)
 
 (1) Zur Feststellung seiner Person und seiner Berechtigung zum
 Aufenthalt in einem militärischen Sicherheitsbereich (§ 2 Abs. 2) kann
@@ -144,6 +151,7 @@ ist, daß er nicht berechtigt ist, sich in diesem Bereich aufzuhalten.
 
 
 ### § 5 Weitere Personenüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001000311)
 
 (1) Wer nach § 4 der Personenüberprüfung unterliegt, kann zum
 Wachvorgesetzten oder zur nächsten Dienststelle der Bundeswehr
@@ -167,6 +175,7 @@ andernfalls ist er sofort freizulassen.
 
 
 ### § 6 Vorläufige Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001100311)
 
 (1) Wer nach § 5 zum Wachvorgesetzten oder zu einer Dienststelle der
 Bundeswehr gebracht worden ist und einer Straftat gegen die Bundeswehr
@@ -185,6 +194,7 @@ Geheimhaltung geboten ist.
 
 
 ### § 7 Durchsuchung und Beschlagnahme bei Personenüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001201310)
 
 (1) Wer nach § 4 der Personenüberprüfung unterliegt, kann bei Gefahr
 im Verzug durchsucht werden, wenn gegen ihn der Verdacht einer
@@ -213,6 +223,7 @@ der Staatsanwaltschaft ein Verzeichnis dieser Gegenstände zu
 
 
 ### § 8 Allgemeine Anordnung von Durchsuchungen
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001301301)
 
 (1) Wenn es aus Gründen militärischer Sicherheit unerläßlich ist, kann
 das Bundesministerium der Verteidigung oder die von ihm bestimmte
@@ -230,6 +241,7 @@ Untersuchung von Bedeutung sein können.
 
 
 ### § 9 Voraussetzungen des unmittelbaren Zwanges
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001400311)
 
 Unmittelbarer Zwang darf nach Maßgabe der Vorschriften des 3.
 Abschnitts nur angewandt werden, wenn dies den Umständen nach
@@ -253,10 +265,12 @@ erforderlich ist und geschieht,
 
 
 ## 3. Abschnitt - Anwendung des unmittelbaren Zwanges
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNG000300311)
 
 
 
 ### § 10 Einzelmaßnahmen des unmittelbaren Zwanges
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001500311)
 
 (1) Unmittelbarer Zwang ist die Einwirkung auf Personen oder Sachen
 durch körperliche Gewalt, ihre Hilfsmittel und durch Waffen.
@@ -272,12 +286,14 @@ Reizstoffe und Explosivmittel.
 
 
 ### § 11 Androhung der Maßnahmen des unmittelbaren Zwanges
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001600311)
 
 Die Anwendung einer Maßnahme des unmittelbaren Zwanges ist anzudrohen,
 außer wenn es die Lage nicht zuläßt.
 
 
 ### § 12 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001700311)
 
 (1) Bei der Anwendung unmittelbaren Zwanges ist von mehreren möglichen
 und geeigneten Maßnahmen diejenige zu treffen, die den einzelnen und
@@ -290,6 +306,7 @@ so lange und so weit durchgeführt werden, wie ihr Zweck es erfordert.
 
 
 ### § 13 Hilfeleistung für Verletzte
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001800311)
 
 Wird unmittelbarer Zwang angewandt, ist Verletzten, soweit es nötig
 ist und die Lage es zuläßt, beizustehen und ärztliche Hilfe zu
@@ -297,6 +314,7 @@ verschaffen.
 
 
 ### § 14 Fesselung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE001900311)
 
 Wer der weiteren Überprüfung nach § 5 Abs. 1 unterliegt oder vorläufig
 festgenommen worden ist, darf gefesselt werden, wenn
@@ -318,6 +336,7 @@ festgenommen worden ist, darf gefesselt werden, wenn
 
 
 ### § 15 Schußwaffengebrauch gegen Personen
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002000311)
 
 (1) Schußwaffen dürfen gegen einzelne Personen nur gebraucht werden,
 wenn dies den Umständen nach erforderlich ist und geschieht,
@@ -377,6 +396,7 @@ oder offensichtlich keinen Erfolg versprechen.
 
 
 ### § 16 Besondere Vorschriften für den Schußwaffengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002100311)
 
 (1) Schußwaffen dürfen nur gebraucht werden, wenn andere Maßnahmen des
 unmittelbaren Zwanges erfolglos angewandt sind oder offensichtlich
@@ -396,6 +416,7 @@ befinden, dürfen Schußwaffen nicht gebraucht werden.
 
 
 ### § 17 Androhung des Schußwaffengebrauchs
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002200311)
 
 (1) Der Gebrauch von Schußwaffen ist anzudrohen. Als Androhung gilt
 auch die Abgabe eines Warnschusses. Einer Menschenmenge gegenüber ist
@@ -412,16 +433,19 @@ Deutschland abzuwenden.
 
 
 ### § 18 Explosivmittel
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002300311)
 
 Die Vorschriften der §§ 15 bis 17 gelten entsprechend für den Gebrauch
 von Explosivmitteln.
 
 
 ## 4. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNG000400311)
 
 
 
 ### § 19 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002400311)
 
 Die in Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes für die
 Bundesrepublik Deutschland geschützten Grundrechte auf Leben,
@@ -430,6 +454,7 @@ dieses Gesetzes eingeschränkt.
 
 
 ### § 20 Entschädigung bei Sperrung sonstiger Örtlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002501301)
 
 (1) Wird durch die vorübergehende Sperrung einer sonstigen Örtlichkeit
 nach § 2 Abs. 2 Satz 2 die gewöhnliche Nutzung des betroffenen
@@ -451,6 +476,7 @@ Grundstück belegen ist, örtlich ausschließlich zuständig ist.
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uzwbwg/BJNR007960965.html#BJNR007960965BJNE002600311)
 
 Dieses Gesetz tritt drei Monate nach seiner Verkündung in Kraft.
 

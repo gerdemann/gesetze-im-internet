@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3
@@ -32,6 +33,7 @@ und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000201377)
 
 (1) Industrie- und Handelskammern und Handwerkskammern können als
 zuständige Stellen berufliche Fortbildungsprüfungen zum Geprüften
@@ -102,6 +104,7 @@ Fortbildungsabschluss „Geprüfter Polier“ oder „Geprüfte Polierin“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -140,6 +143,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Umfang der Qualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000401128)
 
 (1) Die Qualifikation „Geprüfter Polier“ und „Geprüfte Polierin“
 umfasst:
@@ -190,6 +194,7 @@ beginnen.
 
 
 ## § 4 Prüfungsteil „Baubetrieb“
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000501128)
 
 (1) Im Prüfungsteil „Baubetrieb“ soll die Befähigung nachgewiesen
 werden, Prozesse bei der Vorbereitung und Einrichtung einer Baustelle
@@ -285,6 +290,7 @@ Minuten und höchstens 45 Minuten dauern.
 
 
 ## § 5 Prüfungsteil „Bautechnik“
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000600000)
 
 (1) Im Prüfungsteil „Bautechnik“ soll die Befähigung nachgewiesen
 werden, konstruktions- und fertigungstechnische Aufgaben unter
@@ -431,6 +437,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000701360)
 
 (1) Der Prüfungsteil „Mitarbeiterführung und Personalmanagement“
 gliedert sich in folgende Qualifikationsschwerpunkte:
@@ -580,6 +587,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000801128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder § 42c Absatz 2 der Handwerksordnung von
@@ -593,6 +601,7 @@ zugrunde zu legen.
 
 
 ## § 8 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE000901128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
 bewerten.
@@ -626,6 +635,7 @@ Mittel zu berechnen.
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils 50 Punkte erreicht worden sind:
@@ -673,6 +683,7 @@ Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001700128)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
@@ -699,6 +710,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001001128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -714,6 +726,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001101128)
 
 Begonnene Prüfverfahren können bis zum 31. März 2015 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -725,6 +738,7 @@ werden.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001201128)
 
 Diese Verordnung tritt am 1. Oktober 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -736,6 +750,7 @@ worden ist, außer Kraft.
 (zu § 2 Absatz 2)
 
 ## Anlage 1 Profil des Werkpoliers und der Werkpolierin
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001300000)
 
 (Fundstelle: BGBl. I 2012, 1931)
 
@@ -858,6 +873,7 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
 (zu den §§ 8 und 9)
 
 ## Anlage 2 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001403128)
 
 (Fundstelle: BGBl. I 2019, 2370 - 2371)
 
@@ -1159,6 +1175,7 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
 (zu § 10)
 
 ## Anlage 3 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/polierprv_2012/BJNR192600012.html#BJNR192600012BJNE001503128)
 
 (Fundstelle: BGBl. I 2019, 2371)
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000100305)
 
 Auf Grund
 
@@ -45,6 +46,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000200305)
 
 Der Beitragssatz für das Jahr 2001 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,1 Prozent und in der
@@ -52,6 +54,7 @@ knappschaftlichen Rentenversicherung 25,4 Prozent.
 
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000300305)
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Kalenderjahr 2001 monatlich 346 Deutsche Mark.
@@ -61,6 +64,7 @@ Beitrittsgebiet für das Kalenderjahr 2001 monatlich 290 Deutsche Mark.
 
 
 ## § 3 Beitragszuschuss in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000400305)
 
 (1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
 wird der monatliche Zuschussbetrag für das Kalenderjahr 2001 wie folgt
@@ -236,6 +240,7 @@ Kalenderjahr 2001 wie folgt festgesetzt:
 
 
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000500305)
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und der
 Beitragssätze für das Jahr 2001 berechneten Faktoren betragen im Jahre
@@ -336,6 +341,7 @@ Beiträge maßgebend wäre.
 
 
 ## § 5 Zahlungen für Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000600305)
 
 Zur pauschalen Abgeltung für die Beitragszahlung für
 Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der
@@ -344,6 +350,7 @@ von 22.555.826.020 Deutsche Mark.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsv_2001/BJNR187700000.html#BJNR187700000BJNE000700305)
 
 Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 

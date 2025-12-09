@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbag_usa_1980/BJNR208460982.html#BJNR208460982BJNE000100312)
 
 Dem in Bonn am 3. Dezember 1980 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur
@@ -29,6 +30,7 @@ nachstehend veröffentlicht:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbag_usa_1980/BJNR208460982.html#BJNR208460982BJNE000200312)
 
 (1) Soweit das Abkommen auf Grund seines Artikels 17 Abs. 2 für die
 Zeit vor seinem Inkrafttreten anzuwenden ist, sind bestandskräftig
@@ -43,6 +45,7 @@ die Steuer insoweit erstattet oder nicht erhoben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbag_usa_1980/BJNR208460982.html#BJNR208460982BJNE000300312)
 
 Wird ein Antrag im Sinne des Artikels 12 Abs. 3 des Abkommens
 gestellt, so entsteht die Steuer im Zeitpunkt der
@@ -50,12 +53,14 @@ Vermögensübertragung.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/dbag_usa_1980/BJNR208460982.html#BJNR208460982BJNE000400312)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/dbag_usa_1980/BJNR208460982.html#BJNR208460982BJNE000500312)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

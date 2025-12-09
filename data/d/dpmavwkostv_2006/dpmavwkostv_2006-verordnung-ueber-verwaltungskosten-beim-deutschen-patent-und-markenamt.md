@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000100000)
 
 Auf Grund des § 1 Abs. 2 Nr. 1 des Patentkostengesetzes vom 13.
 Dezember 2001 (BGBl. I S. 3656) und des § 138 Abs. 5 Nr. 2 des
@@ -30,6 +31,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000201360)
 
 Für Amtshandlungen des Deutschen Patent- und Markenamts in Patent-,
 Gebrauchsmuster-, Topographieschutz-, Marken-, Design- und
@@ -40,6 +42,7 @@ dieser Verordnung erhoben.
 
 
 ## § 2 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000300000)
 
 (1) Die Kosten bestimmen sich nach dem anliegenden Kostenverzeichnis.
 
@@ -50,12 +53,14 @@ nicht vorgesehen ist, sind jedoch Auslagen zu erheben.
 
 
 ## § 3 Mindestgebühr
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000400000)
 
 Der Mindestbetrag einer Gebühr ist 10 Euro. Centbeträge sind auf volle
 Eurobeträge aufzurunden.
 
 
 ## § 4 Kostenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000501301)
 
 (1) Von der Zahlung der Kosten sind befreit
 
@@ -98,6 +103,7 @@ entsprechend anzuwenden.
 
 
 ## § 5 Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000600000)
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -123,6 +129,7 @@ entsprechend anzuwenden.
 
 
 ## § 6 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000700000)
 
 (1) Gebühren werden mit dem Eingang des Antrags auf Vornahme der
 gebührenpflichtigen Amtshandlung fällig, Auslagen sofort nach ihrer
@@ -134,6 +141,7 @@ ein Rechtsgrund zur Zahlung nicht vorliegt.
 
 
 ## § 7 Vorauszahlung, Zahlungsfristen, Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000801360)
 
 (1) Das Deutsche Patent- und Markenamt kann die Zahlung eines
 Kostenvorschusses verlangen und die Vornahme der Amtshandlung von der
@@ -166,6 +174,7 @@ Kosten bezahlt sind. Von der Zurückbehaltung ist abzusehen,
 
 
 ## § 8 Folgen der Nichtzahlung, Antragsrücknahme
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE000900000)
 
 (1) Wird der nach § 7 Abs. 1 Satz 1 angeforderte Kostenvorschuss nicht
 innerhalb der vom Deutschen Patent- und Markenamt gesetzten Frist
@@ -178,6 +187,7 @@ entfällt die Gebühr.
 
 
 ## § 9 Unrichtige Sachbehandlung, Erlass von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001000000)
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
 wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch
@@ -200,6 +210,7 @@ Kosten die Vorschriften der Bundeshaushaltsordnung.
 
 
 ## § 10 Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001100000)
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
 erstatten.
@@ -209,6 +220,7 @@ wurden (§ 6 Abs. 2), wird die Erstattungsgebühr einbehalten.
 
 
 ## § 11 Kostenansatz
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001201360)
 
 (1) Die Kosten werden beim Deutschen Patent- und Markenamt angesetzt,
 auch wenn sie bei einem ersuchten Gericht oder einer ersuchten Behörde
@@ -223,6 +235,7 @@ Bundespatentgericht entschieden hat.
 
 
 ## § 12 Erinnerung, Beschwerde, gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001301360)
 
 (1) Gegen den Kostenansatz kann der Kostenschuldner Erinnerung
 einlegen. Sie ist nicht an eine Frist gebunden. Über die Erinnerung
@@ -256,6 +269,7 @@ vorzulegen.
 
 
 ## § 13 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001400000)
 
 Für die Verjährung und Verzinsung der Kostenforderungen und der
 Ansprüche auf Erstattung von Kosten gilt § 5 des
@@ -263,6 +277,7 @@ Gerichtskostengesetzes entsprechend.
 
 
 ## § 14 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001500000)
 
 In den Fällen, in denen vor Inkrafttreten dieser Verordnung die
 gebührenpflichtige Amtshandlung beantragt, aber noch nicht beendet
@@ -271,12 +286,14 @@ Gebühren erst mit Beendigung der Amtshandlung fällig.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001600000)
 
 Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
 (zu § 2 Abs. 1)
 
 ## Anlage Kostenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/dpmavwkostv_2006/BJNR158600006.html#BJNR158600006BJNE001705125)
 
 (Fundstelle: BGBl. I 2006, 1589 - 1591;
 bzgl. der einzelnen Änderung vgl. Fußnote)

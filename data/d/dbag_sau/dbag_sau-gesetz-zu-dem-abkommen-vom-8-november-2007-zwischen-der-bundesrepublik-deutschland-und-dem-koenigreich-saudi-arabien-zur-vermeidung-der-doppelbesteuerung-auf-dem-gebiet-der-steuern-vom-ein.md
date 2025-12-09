@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbag_sau/BJNR078220008.html#BJNR078220008BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbag_sau/BJNR078220008.html#BJNR078220008BJNE000200000)
 
 Dem in Berlin am 8. November 2007 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und dem Königreich Saudi-Arabien zur
@@ -36,6 +38,7 @@ wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbag_sau/BJNR078220008.html#BJNR078220008BJNE000300000)
 
 Soweit das Abkommen aufgrund seines Artikels 6 Abs. 2 für die Zeit vor
 dem Inkrafttreten des Abkommens anzuwenden ist, sind bereits ergangene
@@ -52,6 +55,7 @@ der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbag_sau/BJNR078220008.html#BJNR078220008BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

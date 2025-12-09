@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gaststättengewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000202377)
 
 (1) Ein Gaststättengewerbe im Sinne dieses Gesetzes betreibt, wer im
 stehenden Gewerbe
@@ -51,6 +52,7 @@ ist.
 
 
 ## § 2 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000303377)
 
 (1) Wer ein Gaststättengewerbe betreiben will, bedarf der Erlaubnis.
 Die Erlaubnis kann auch nichtrechtsfähigen Vereinen erteilt werden.
@@ -79,6 +81,7 @@ verabreicht.
 
 
 ## § 3 Inhalt der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000402377)
 
 (1) Die Erlaubnis ist für eine bestimmte Betriebsart und für bestimmte
 Räume zu erteilen. Die Betriebsart ist in der Erlaubnisurkunde zu
@@ -94,6 +97,7 @@ es zuläßt oder der Antragsteller es beantragt.
 
 
 ## § 4 Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000503377)
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -173,6 +177,7 @@ auf oberste Landesbehörden übertragen.
 
 
 ## § 5 Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000601308)
 
 (1) Gewerbetreibenden, die einer Erlaubnis bedürfen, können jederzeit
 Auflagen zum Schutze
@@ -200,6 +205,7 @@ Absatzes 1 erlassen werden.
 
 
 ## § 6 Ausschank alkoholfreier Getränke
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000703377)
 
 Ist der Ausschank alkoholischer Getränke gestattet, so sind auf
 Verlangen auch alkoholfreie Getränke zum Verzehr an Ort und Stelle zu
@@ -212,6 +218,7 @@ zulassen.
 
 
 ## § 7 Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000801308)
 
 (1) Im Gaststättengewerbe dürfen der Gewerbetreibende oder Dritte auch
 während der Ladenschlußzeiten Zubehörwaren an Gäste abgeben und ihnen
@@ -232,6 +239,7 @@ an jedermann über die Straße abgeben.
 
 
 ## § 8 Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE000901308)
 
 Die Erlaubnis erlischt, wenn der Inhaber den Betrieb nicht innerhalb
 eines Jahres nach Erteilung der Erlaubnis begonnen oder seit einem
@@ -240,6 +248,7 @@ wenn ein wichtiger Grund vorliegt.
 
 
 ## § 9 Stellvertretungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001001308)
 
 Wer ein erlaubnisbedürftiges Gaststättengewerbe durch einen
 Stellvertreter betreiben will, bedarf einer Stellvertretungserlaubnis;
@@ -251,6 +260,7 @@ Erlaubnisbehörde anzuzeigen.
 
 
 ## § 10 Weiterführung des Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001102377)
 
 Nach dem Tode des Erlaubnisinhabers darf das Gaststättengewerbe auf
 Grund der bisherigen Erlaubnis durch den Ehegatten, Lebenspartner oder
@@ -263,6 +273,7 @@ Betrieb weiterführen wollen.
 
 
 ## § 11 Vorläufige Erlaubnis und vorläufige Stellvertretungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001201308)
 
 (1) Personen, die einen erlaubnisbedürftigen Gaststättenbetrieb von
 einem anderen übernehmen wollen, kann die Ausübung des
@@ -276,6 +287,7 @@ Stellvertretungserlaubnis.
 
 
 ## § 12 Gestattung
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001301308)
 
 (1) Aus besonderem Anlaß kann der Betrieb eines erlaubnisbedürftigen
 Gaststättengewerbes unter erleichterten Voraussetzungen vorübergehend
@@ -287,10 +299,12 @@ auf Widerruf gestattet werden.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001403377)
 
 
 
 ## § 14 Straußwirtschaften
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001501308)
 
 Die Landesregierungen können durch Rechtsverordnungen zur
 Erleichterung des Absatzes selbsterzeugten Weines oder Apfelweines
@@ -319,6 +333,7 @@ Ermächtigung auf oberste Landesbehörden oder andere Behörden
 
 
 ## § 15 Rücknahme und Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001601308)
 
 (1) Die Erlaubnis zum Betrieb eines Gaststättengewerbes ist
 zurückzunehmen, wenn bekannt wird, daß bei ihrer Erteilung
@@ -370,10 +385,12 @@ Rücknahme und den Widerruf der Stellvertretungserlaubnis.
 
 
 ## (XXXX) §§ 16 und 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001702308)
 
 
 
 ## § 18 Sperrzeit
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE001903377)
 
 (1) Für Schank- und Speisewirtschaften sowie für öffentliche
 Vergnügungsstätten kann durch Rechtsverordnung der Landesregierungen
@@ -388,6 +405,7 @@ auf oberste Landesbehörden oder andere Behörden übertragen.
 
 
 ## § 19 Verbot des Ausschanks alkoholischer Getränke
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002001308)
 
 Aus besonderem Anlaß kann der gewerbsmäßige Ausschank alkoholischer
 Getränke vorübergehend für bestimmte Zeit und für einen bestimmten
@@ -397,6 +415,7 @@ erforderlich ist.
 
 
 ## § 20 Allgemeine Verbote
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002102118)
 
 Verboten ist,
 
@@ -425,6 +444,7 @@ Verboten ist,
 
 
 ## § 21 Beschäftigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002202308)
 
 (1) Die Beschäftigung einer Person in einem Gaststättenbetrieb kann
 dem Gewerbetreibenden untersagt werden, wenn Tatsachen die Annahme
@@ -444,6 +464,7 @@ unberührt.
 
 
 ## § 22 Auskunft und Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002301308)
 
 (1) Die Inhaber von Gaststättenbetrieben, ihre Stellvertreter und die
 mit der Leitung des Betriebes beauftragten Personen haben den
@@ -468,6 +489,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 23 Vereine und Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002407118)
 
 (1) Die Vorschriften dieses Gesetzes über den Ausschank alkoholischer
 Getränke finden auch auf Vereine und Gesellschaften Anwendung, die
@@ -489,6 +511,7 @@ Beschäftigten entstehen.
 
 
 ## § 24 Realgewerbeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002501308)
 
 (1) Die Vorschriften dieses Gesetzes finden auch auf
 Realgewerbeberechtigungen Anwendung mit Ausnahme der Vorschriften über
@@ -506,6 +529,7 @@ Realgewerbeberechtigung bisher nicht ausgeübt wurde.
 
 
 ## § 25 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002607377)
 
 (1) Auf Kantinen für Betriebsangehörige sowie auf
 Betreuungseinrichtungen der im Inland stationierten ausländischen
@@ -527,6 +551,7 @@ Monaten zu erstatten ist.
 
 
 ## § 26 Sonderregelung
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002702118)
 
 (1) Soweit in Bayern und Rheinland-Pfalz der Ausschank selbsterzeugter
 Getränke ohne Erlaubnis gestattet ist, bedarf es hierfür auch künftig
@@ -545,10 +570,12 @@ zehn Jahren nicht mehr ausgeübt worden sind.
 
 
 ## § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002801308)
 
 
 
 ## § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE002909118)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -640,10 +667,12 @@ Euro geahndet werden.
 
 
 ## § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003004377)
 
 
 
 ## § 30 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003101308)
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen können die
 für die Ausführung dieses Gesetzes und der nach diesem Gesetz
@@ -655,6 +684,7 @@ von Erlaubnissen und bei Untersagungen, regeln.
 
 
 ## § 31 Anwendbarkeit der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003201308)
 
 Auf die den Vorschriften dieses Gesetzes unterliegenden
 Gewerbebetriebe finden die Vorschriften der Gewerbeordnung soweit
@@ -664,6 +694,7 @@ dieses Gesetz nicht berührt.
 
 
 ## § 32 Erprobungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE004000377)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zur
 Erprobung vereinfachender Maßnahmen, insbesondere zur Erleichterung
@@ -676,10 +707,12 @@ Ausnahmen auf das Gebiet des jeweiligen Landes beschränken.
 
 
 ## § 33 (Änderung anderer Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003401308)
 
 
 
 ## § 34 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003501308)
 
 (1) Eine vor Inkrafttreten dieses Gesetzes erteilte Erlaubnis oder
 Gestattung gilt im bisherigen Umfang als Erlaubnis oder Gestattung im
@@ -708,17 +741,21 @@ Erlaubnis.
 
 
 ## § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003602377)
 
 
 
 ## § 36 (Änderung anderer Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003701308)
 
 
 
 ## § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003802308)
 
 
 
 ## § 38 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/gastg/BJNR004650970.html#BJNR004650970BJNE003901308)
 
 

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE000501320)
 
 (1) Fernunterricht im Sinne dieses Gesetzes ist die auf vertraglicher
 Grundlage erfolgende, entgeltliche Vermittlung von Kenntnissen und
@@ -42,10 +43,12 @@ Anwendung, soweit dies ausdrücklich vorgesehen ist.
 
 
 ## 1. Abschnitt - Fernunterrichtsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNG000101320)
 
 
 
 ### § 2 Rechte und Pflichten der Vertragschließenden
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE000603311)
 
 (1) Durch den Fernunterrichtsvertrag verpflichtet sich der
 Veranstalter von Fernunterricht (Veranstalter), das Fernlehrmaterial
@@ -108,6 +111,7 @@ Fernunterrichtsvertrags dient.
 
 
 ### § 3 Form und Inhalt des Fernunterrichtsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE000704311)
 
 (1) Die auf den Vertragsschluss gerichtete Willenserklärung des
 Teilnehmers bedarf der Textform.
@@ -143,6 +147,7 @@ Bürgerlichen Gesetzbuche zu informieren hat, in der Regel insbesondere
 
 
 ### § 4 Widerrufsrecht des Teilnehmers
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE000806311)
 
 Bei einem Fernunterrichtsvertrag nach § 3 Absatz 2 steht dem
 Teilnehmer ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs
@@ -152,6 +157,7 @@ entsprechend anzuwenden. Für finanzierte Fernunterrichtsverträge ist §
 
 
 ### § 5 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE000902311)
 
 (1) Der Teilnehmer kann den Fernunterrichtsvertrag ohne Angabe von
 Gründen erstmals zum Ablauf des ersten Halbjahres nach Vertragsschluss
@@ -168,6 +174,7 @@ während der Laufzeit des Vertrags entspricht.
 
 
 ### § 6 Rechtsfolgen der Kündigung bei gemischten Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001006311)
 
 (1) Hat der Fernunterrichtsvertrag die Lieferung einer beweglichen
 Sache zum Gegenstand, die nicht Teil des schriftlichen oder
@@ -203,6 +210,7 @@ Bürgerlichen Gesetzbuchs entsprechend.
 
 
 ### § 7 Nichtigkeit; Recht zur fristlosen Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001102311)
 
 (1) Ein Fernunterrichtsvertrag, der von einem Veranstalter ohne die
 nach § 12 Abs. 1 erforderliche Zulassung des Fernlehrgangs geschlossen
@@ -227,6 +235,7 @@ der Rücknahme der Zulassung unverzüglich dem Teilnehmer auszuhändigen.
 
 
 ### § 8 Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001201320)
 
 Die §§ 2 bis 7 finden auf Verträge, die darauf abzielen, die Zwecke
 eines Fernunterrichtsvertrags (§ 2) in einer anderen Rechtsform zu
@@ -234,27 +243,32 @@ erreichen, entsprechende Anwendung.
 
 
 ### § 9 Widerrufsfrist bei Fernunterricht gegen Teilzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001307311)
 
 Wird der Fernunterricht gegen Teilzahlungen erbracht, bestimmt sich
 die Widerrufsfrist nach § 356b des Bürgerlichen Gesetzbuchs.
 
 
 ### § 10 Ausschluss abweichender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001401320)
 
 Von den §§ 2 bis 9 kann nicht zum Nachteil des Teilnehmers abgewichen
 werden.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001502320)
 
 (weggefallen)
 
 
 ## 2. Abschnitt - Veranstaltung von Fernunterricht
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNG000201320)
 
 
 
 ### § 12 Zulassung von Fernlehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001602320)
 
 (1) Fernlehrgänge bedürfen der Zulassung. Das gleiche gilt für
 wesentliche Änderungen zugelassener Fernlehrgänge. Keiner Zulassung
@@ -325,6 +339,7 @@ Veranstalter unverzüglich mitzuteilen.
 
 
 ### § 12a Einheitliche Stelle, Genehmigungsfiktion
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE003400310)
 
 (1) Die Verfahren nach § 12 Absatz 1 können über eine einheitliche
 Stelle abgewickelt werden.
@@ -334,6 +349,7 @@ Monaten entschieden, gilt die Zulassung als erteilt.
 
 
 ### § 13 Zulassung berufsbildender Fernlehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001704310)
 
 (1) Bei berufsbildenden Fernlehrgängen ist außer in den in § 12 Abs. 2
 Satz 1 genannten Fällen die Zulassung nur zu versagen, wenn der
@@ -354,6 +370,7 @@ Inhalt und Umfang der Versagungsgründe nach Absatz 1.
 
 
 ### § 14 Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001801320)
 
 (1) Die Zulassung eines Fernlehrgangs ist zurückzunehmen, wenn bei der
 Erteilung einer der in § 12 Abs. 2 und § 13 Abs. 1 genannten
@@ -375,6 +392,7 @@ Zulassung.
 
 
 ### § 15 Unentgeltliche berufsbildende Fernlehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE001901320)
 
 (1) Fernlehrgänge, die auf vertraglicher Grundlage unentgeltlich
 durchgeführt werden und berufliche Bildung vermitteln, die Gegenstand
@@ -398,6 +416,7 @@ Versagungsgründe vorliegt.
 
 
 ### § 16 Werbung mit Informationsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002004311)
 
 (1) Der Veranstalter hat bei geschäftlicher Werbung für Fernlehrgänge
 durch Übermittlung von Informationsmaterial einen vollständigen
@@ -417,6 +436,7 @@ für Fernlehrgänge verwendet werden.
 
 
 ### § 17 Vertreter, Berater
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002104311)
 
 Der Veranstalter oder seine Beauftragten dürfen zum Zweck der Werbung
 oder der Beratung über Fernlehrgänge des Veranstalters oder des
@@ -435,6 +455,7 @@ Beauftragten die erforderliche Eignung besitzen.
 
 
 ### § 18 Ergänzende Fernlehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002201320)
 
 Auf Fernlehrgänge, deren Lehrgangsziel ausschließlich in der
 unselbständigen Ergänzung anderer, in sich abgeschlossener
@@ -445,10 +466,12 @@ Fernlehrgänge ist der zuständigen Behörde anzuzeigen.
 
 
 ## 3. Abschnitt - Organisation; Auskunftspflicht; Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNG000301320)
 
 
 
 ### § 19 Zentralstelle; Zulassungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002302116)
 
 (1) Soweit die Länder die Zulassung von Fernlehrgängen einer
 Zentralstelle übertragen, kann dieser nach Landesrecht die Aufgabe
@@ -473,6 +496,7 @@ Stellungnahme zu geben hat.
 
 
 ### § 20 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002401320)
 
 (1) Der Veranstalter ist verpflichtet, der zuständigen Behörde und,
 sofern das Landesrecht nach § 19 Abs. 2 eine Entscheidung im Benehmen
@@ -507,6 +531,7 @@ Auskunftspflichtiger ist keine Einzelangabe im Sinne dieses Absatzes.
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002505311)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -559,25 +584,30 @@ werden.
 
 
 ## 4. Abschnitt - Übergangsvorschriften; Änderung von Bundesgesetzen; Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNG000401320)
 
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002602320)
 
 (weggefallen)
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002701320)
 
 (weggefallen)
 
 
 ### (XXXX) §§ 24 und 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE002801320)
 
 -
 
 
 ### § 26 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE003001320)
 
 (1) Für Streitigkeiten aus einem Fernunterrichtsvertrag oder über das
 Bestehen eines solchen Vertrags ist das Gericht ausschließlich
@@ -601,6 +631,7 @@ ausdrücklich und schriftlich
 
 
 ### § 27 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE003103320)
 
 (1) Auf Fernunterrichtsverträge, die vor dem 30. Juni 2000
 abgeschlossen worden sind, ist dieses Gesetz in der bis dahin
@@ -618,6 +649,7 @@ sind.
 
 
 ### § 28 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/fernusg/BJNR025250976.html#BJNR025250976BJNE003201320)
 
 -
 

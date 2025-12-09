@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_arbvtrg/BJNR007420986.html#BJNR007420986BJNE000101308)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Befristung von Arbeitsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/_arbvtrg/BJNR007420986.html#BJNR007420986BJNE000209126)
 
 (1) Ein die Befristung eines Arbeitsvertrags mit einem Arzt
 rechtfertigender sachlicher Grund liegt vor, wenn die Beschäftigung
@@ -110,12 +112,14 @@ strukturierten Weiterbildung zum Fachpsychotherapeuten.
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/_arbvtrg/BJNR007420986.html#BJNR007420986BJNE000301308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_arbvtrg/BJNR007420986.html#BJNR007420986BJNE000401308)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

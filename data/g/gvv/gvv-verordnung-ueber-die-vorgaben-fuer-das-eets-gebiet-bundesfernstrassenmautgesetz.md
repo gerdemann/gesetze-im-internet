@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gvv/BJNR608600018.html#BJNR608600018BJNE000100000)
 
 Auf Grund des § 4i Satz 1 und 2 des Bundesfernstraßenmautgesetzes vom
 12\. Juli 2011 (BGBl. I S. 1378) in Verbindung mit § 9 Absatz 1, 3 und
@@ -31,6 +32,7 @@ Güterverkehr:
 
 
 ## § 1 Gebietsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/gvv/BJNR608600018.html#BJNR608600018BJNE000200000)
 
 Die Gebietsvorgaben im Sinne des § 9 Absatz 1, 3 und 4 des
 Mautsystemgesetzes für die nach § 1 des Bundesfernstraßenmautgesetzes
@@ -39,11 +41,13 @@ Verordnung.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gvv/BJNR608600018.html#BJNR608600018BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/gvv/BJNR608600018.html#BJNR608600018BJNE000406123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -2538,6 +2542,7 @@ diese ab dem Zeitpunkt des Beginns des MED Pilotbetriebs.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/gvv/BJNR608600018.html#BJNR608600018BJNE000504123)
 
 (Fundstelle: BGBl. 2023 I Nr. 329, S. 3 – 9)
 
@@ -3442,6 +3447,7 @@ abzudecken.
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/gvv/BJNR608600018.html#BJNR608600018BJNE000600000)
 
 (Fundstelle: BAnz AT 27.03.2018 V1)
 

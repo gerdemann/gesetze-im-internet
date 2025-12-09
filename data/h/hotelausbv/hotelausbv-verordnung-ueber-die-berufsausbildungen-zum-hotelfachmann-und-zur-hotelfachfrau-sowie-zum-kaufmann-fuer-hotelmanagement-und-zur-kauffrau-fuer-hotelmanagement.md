@@ -25,9 +25,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000200000)
 
 Die Ausbildungsberufe mit den Berufsbezeichnungen
 
@@ -43,6 +45,7 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000300000)
 
 (1) Die Berufsausbildung im Ausbildungsberuf Hotelfachmann und
 Hotelfachfrau dauert drei Jahre.
@@ -52,6 +55,7 @@ Hotelmanagement und Kauffrau für Hotelmanagement dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000400000)
 
 (1) Check-in im Sinne dieser Verordnung ist der gesamte
 Arbeitsprozess, der bei der Anreise von Gästen durchzuführen ist.
@@ -95,6 +99,7 @@ vertieftes Fachwissen.
 
 
 ### § 4 Gegenstand der Berufsausbildungen und Ausbildungsrahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung zum Hotelfachmann und zur
 Hotelfachfrau sind mindestens die im Ausbildungsrahmenplan (Anlage 1)
@@ -121,6 +126,7 @@ Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung zum Hotelfachmann und zur Hotelfachfrau sowie Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -221,6 +227,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Struktur der Berufsausbildung zum Kaufmann für Hotelmanagement und zur Kauffrau für Hotelmanagement sowie Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -316,6 +323,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des jeweiligen Ausbildungsrahmenplans für jeden
@@ -324,12 +332,15 @@ erstellen.
 
 
 ## Abschnitt 2 - Berufsausbildung zum Hotelfachmann und zur Hotelfachfrau
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000200000)
 
 
 ### Unterabschnitt 1 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000300000)
 
 
 #### § 8 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE000900000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -345,6 +356,7 @@ der Abschlussprüfung stattfinden.
 
 
 #### § 9 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -361,6 +373,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 10 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001100000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Aufgaben am
 Empfang und gastronomische Angebote“ statt.
@@ -471,6 +484,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 11 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -492,6 +506,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 12 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001300000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -512,6 +527,7 @@ statt:
 
 
 #### § 13 Prüfungsbereich „Veranstaltungen und Food-and-Beverage-Management“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001400000)
 
 (1) Im Prüfungsbereich „Veranstaltungen und Food-and-Beverage-
 Management“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -564,6 +580,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 14 Prüfungsbereich „Revenue-Management, Marketing und Verkauf“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001500000)
 
 (1) Im Prüfungsbereich „Revenue-Management, Marketing und Verkauf“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -607,6 +624,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 15 Prüfungsbereich „Organisation des Beherbergungsbetriebes“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001600000)
 
 (1) Im Prüfungsbereich „Organisation des Beherbergungsbetriebes“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -669,6 +687,7 @@ Fachgespräch erbringt.
 
 
 #### § 16 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -682,6 +701,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -766,6 +786,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 #### § 18 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -806,9 +827,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ### Unterabschnitt 2 - Zusatzqualifikation Bar und Wein
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000400000)
 
 
 #### § 19 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002000000)
 
 (1) Über das in § 5 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Bar und Wein vereinbart werden.
@@ -818,6 +841,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 #### § 20 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002100000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -889,12 +913,15 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 3 - Berufsausbildung zum Kaufmann für Hotelmanagement und zur Kauffrau für Hotelmanagement
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000500000)
 
 
 ### Unterabschnitt 1 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000600000)
 
 
 #### § 21 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002200000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -910,6 +937,7 @@ der Abschlussprüfung stattfinden.
 
 
 #### § 22 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002300000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -926,6 +954,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 23 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002400000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Aufgaben am
 Empfang und gastronomische Angebote“ statt.
@@ -1036,6 +1065,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 24 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002500000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -1057,6 +1087,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 25 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002600000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -1077,6 +1108,7 @@ statt:
 
 
 #### § 26 Prüfungsbereich „Warenwirtschaft, Einkauf und Kalkulation“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002700000)
 
 (1) Im Prüfungsbereich „Warenwirtschaft, Einkauf und Kalkulation“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1114,6 +1146,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 27 Prüfungsbereich „Revenue-Management, Marketing und kaufmännische Steuerung“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002800000)
 
 (1) Im Prüfungsbereich „Revenue-Management, Marketing und
 kaufmännische Steuerung“ hat der Prüfling nachzuweisen, dass er in der
@@ -1160,6 +1193,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 28 Prüfungsbereich „Personalwirtschaft“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE002900000)
 
 (1) Im Prüfungsbereich „Personalwirtschaft“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1234,6 +1268,7 @@ Fachgespräch erbringt.
 
 
 #### § 29 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003000000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1247,6 +1282,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 30 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1330,6 +1366,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 #### § 31 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003200000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1370,9 +1407,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ### Unterabschnitt 2 - Zusatzqualifikation Bar und Wein
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNG000700000)
 
 
 #### § 32 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003300000)
 
 (1) Über das in § 6 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Bar und Wein vereinbart werden.
@@ -1382,6 +1421,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 #### § 33 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003400000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -1454,6 +1494,7 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 (zu § 4 Absatz 1)
 
 #### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Hotelfachmann und zur Hotelfachfrau
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003500000)
 
 (Fundstelle: BGBl. I 2022, 324 - 335)
 
@@ -2688,6 +2729,7 @@ und Fähigkeiten**
    (zu § 4 Absatz 2)
 
 #### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Hotelmanagement und zur Kauffrau für Hotelmanagement
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003600000)
 
 (Fundstelle: BGBl. I 2022, 336 - 347)
 
@@ -3925,6 +3967,7 @@ und Fähigkeiten**
    (zu § 19 Absatz 2 und zu § 32 Absatz 2)
 
 #### Anlage 3 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Bar und Wein
+[Direktlink](https://www.gesetze-im-internet.de/hotelausbv/BJNR031410022.html#BJNR031410022BJNE003700000)
 
 (Fundstelle: BGBl. I 2022, 348)
 

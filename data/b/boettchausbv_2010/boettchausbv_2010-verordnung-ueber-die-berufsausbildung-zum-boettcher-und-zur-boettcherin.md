@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
 Absatz 2 Satz 1 Nummer 3 und 7 der Handwerksordnung, von denen § 25
@@ -35,6 +36,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000200000)
 
 Der Ausbildungsberuf des Böttchers und der Böttcherin wird nach § 25
 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 17,
@@ -43,11 +45,13 @@ anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -129,6 +133,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -150,6 +155,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000600000)
 
 (1) Die Zwischenprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -218,6 +224,7 @@ folgende Vorgaben:
 
 
 ## § 6 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000700000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -377,6 +384,7 @@ folgende Vorgaben:
 
 
 ## § 7 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000800000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -439,6 +447,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE000900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können abweichend von § 25 Absatz 4 der Handwerksordnung
@@ -448,6 +457,7 @@ Vertragsparteien dieses vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Böttcher vom 9. August
@@ -456,6 +466,7 @@ die Verordnung über die Berufsausbildung zum Böttcher vom 9. August
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Böttcher und zur Böttcherin
+[Direktlink](https://www.gesetze-im-internet.de/b_ttchausbv_2010/BJNR060100010.html#BJNR060100010BJNE001100000)
 
 (Fundstelle: BGBl. I 2010, 604 - 608)
 

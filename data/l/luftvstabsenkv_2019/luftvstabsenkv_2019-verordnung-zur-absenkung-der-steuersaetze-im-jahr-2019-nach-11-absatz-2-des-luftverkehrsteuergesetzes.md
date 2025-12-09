@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2019/BJNR224400018.html#BJNR224400018BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt
 durch Artikel 237 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -31,6 +32,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Steuersätze 2019
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2019/BJNR224400018.html#BJNR224400018BJNE000200000)
 
 Unter Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten werden die Steuersätze des § 11
@@ -68,6 +70,7 @@ Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2019/BJNR224400018.html#BJNR224400018BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 

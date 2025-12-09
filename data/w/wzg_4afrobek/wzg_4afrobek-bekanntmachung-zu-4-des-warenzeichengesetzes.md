@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4afrobek/BJNR017360969.html#BJNR017360969BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S.
@@ -33,11 +34,13 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4afrobek/BJNR017360969.html#BJNR017360969BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Bezeichnungen der Gemeinsamen Afrikanisch-Madagassischen Organisation
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4afrobek/BJNR017360969.html#BJNR017360969BJNE000200303)
 
 (Fundstelle: BGBl. I 1969, 1736,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

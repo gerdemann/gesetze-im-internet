@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## I. Festsetzungs- und Regelungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000100326)
 
 Auf Grund des § 155 Abs. 1 Satz 2 des Bundesbeamtengesetzes (BBG) in
 der Fassung der Bekanntmachung vom 22. Oktober 1965 (Bundesgesetzblatt
@@ -87,6 +88,7 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
 
 
 ## II. Dienstunfallversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000200326)
 
 
 1.  Den in Abschnitt I Nr. 2 aufgeführten Behörden übertrage ich für die
@@ -115,6 +117,7 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
 
 
 ## III. Übertragung von Zuständigkeiten kraft besonderer Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000300326)
 
 Den in Abschnitt I Nr. 2 aufgeführten Behörden übertrage ich für ihren
 Geschäftsbereich die Befugnis,
@@ -132,6 +135,7 @@ zusteht.
 
 
 ## IV. Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000400326)
 
 Ich behalte mir vor,
 
@@ -156,6 +160,7 @@ Ich behalte mir vor,
 
 
 ## V. Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000500326)
 
 Diese Anordnung in der ergänzten Fassung findet entsprechend auf
 Professoren und Assistenzprofessoren Anwendung, die auf Grund von
@@ -165,6 +170,7 @@ Hamburg und München tätig sind.
 
 
 ## VI. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000600326)
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
 Innern. Sie tritt am Ersten des auf die Verkündung folgenden Monats in
@@ -172,6 +178,7 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgzversano/BJNR012190970.html#BJNR012190970BJNE000700326)
 
 Der Bundesminister der Verteidigung
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000100307)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 2 des Gesetzes vom
@@ -32,6 +33,7 @@ S. 1692) und im Einvernehmen mit dem Bundesministerium für Wirtschaft:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000201128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Industriemeister/zur
@@ -83,6 +85,7 @@ Isolierung (Wärme-, Kälte-, Schall- und Brandschutz).
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000301308)
 
 (1) Zur Industriemeisterprüfung ist zuzulassen, wer
 
@@ -110,6 +113,7 @@ erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000402308)
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften
 Industriemeisterin – Fachrichtung Isolierung (Wärme-, Kälte-, Schall-
@@ -142,6 +146,7 @@ der letzten Prüfungsleistung zu erbringen.
 
 
 ## § 4 Fachrichtungsübergreifender Teil
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000502128)
 
 (1) Im fachrichtungsübergreifenden Teil ist in folgenden Fächern zu
 prüfen:
@@ -358,6 +363,7 @@ gewichtet.
 
 
 ## § 5 Fachrichtungsspezifischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000602128)
 
 (1) Im fachrichtungsspezifischen Teil ist in folgenden Fächern zu
 prüfen:
@@ -668,6 +674,7 @@ gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000802128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -680,6 +687,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE000903128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -729,6 +737,7 @@ berechnet.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -797,6 +806,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001600128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -822,6 +832,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001003128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -837,18 +848,21 @@ diesem Fall wird das letzte Ergebnis berücksichtigt.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001103128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001302128)
 
 Diese Verordnung tritt am 1. September 1993 in Kraft.
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001404128)
 
 (Fundstelle: BGBl. I 2019, 2187 - 2188)
 
@@ -1150,6 +1164,7 @@ Diese Verordnung tritt am 1. September 1993 in Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/indmisoprv/BJNR111700993.html#BJNR111700993BJNE001700128)
 
 (Fundstelle: BGBl. I 2019, 2189)
 

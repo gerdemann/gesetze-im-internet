@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/art17abs1nr2bizihecabkerklbek/BJNR604710023.html#BJNR604710023BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales hat am 10. Februar 2023
 gegenüber der Bank für Internationalen Zahlungsausgleich die

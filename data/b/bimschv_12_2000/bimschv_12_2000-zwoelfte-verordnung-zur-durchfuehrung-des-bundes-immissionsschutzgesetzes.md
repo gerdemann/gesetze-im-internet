@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000102116)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE000904116)
 
 (1) Die Vorschriften dieser Verordnung mit Ausnahme der §§ 9 bis 12
 gelten für Betriebsbereiche der unteren und der oberen Klasse. Für
@@ -49,6 +51,7 @@ der Richtlinie 2012/18/EU genannte Einrichtung, Gefahr oder Tätigkeit.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001005116)
 
 Im Sinne dieser Verordnung sind
 
@@ -150,14 +153,17 @@ Im Sinne dieser Verordnung sind
 
 
 ## Zweiter Teil - Vorschriften für Betriebsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000202116)
 
 
 
 ### Erster Abschnitt - Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000302116)
 
 
 
 #### § 3 Allgemeine Betreiberpflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001103116)
 
 (1) Der Betreiber hat die nach Art und Ausmaß der möglichen Gefahren
 erforderlichen Vorkehrungen zu treffen, um Störfälle zu verhindern;
@@ -192,6 +198,7 @@ Betreiberpflicht dar.
 
 
 #### § 4 Anforderungen zur Verhinderung von Störfällen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001203116)
 
 Der Betreiber hat zur Erfüllung der sich aus § 3 Absatz 1 ergebenden
 Pflicht insbesondere
@@ -234,6 +241,7 @@ Pflicht insbesondere
 
 
 #### § 5 Anforderungen zur Begrenzung von Störfallauswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001302116)
 
 (1) Der Betreiber hat zur Erfüllung der sich aus § 3 Absatz 3
 ergebenden Pflicht insbesondere
@@ -257,6 +265,7 @@ unverzüglich, umfassend und sachkundig beraten werden.
 
 
 #### § 6 Ergänzende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001404116)
 
 (1) Der Betreiber hat zur Erfüllung der sich aus § 3 Absatz 1 oder 3
 ergebenden Pflichten über die in den §§ 4 und 5 genannten
@@ -329,6 +338,7 @@ Informationen zu liefern, die notwendig sind, damit die Behörde
 
 
 #### § 7 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001503116)
 
 (1) Der Betreiber hat der zuständigen Behörde mindestens einen Monat
 vor Beginn der Errichtung eines Betriebsbereichs, oder vor einer
@@ -402,6 +412,7 @@ Rahmen eines Genehmigungs- oder Anzeigeverfahrens vorgelegt hat.
 
 
 #### § 8 Konzept zur Verhinderung von Störfällen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001603116)
 
 (1) Der Betreiber hat vor Inbetriebnahme ein schriftliches Konzept zur
 Verhinderung von Störfällen auszuarbeiten und es der zuständigen
@@ -438,6 +449,7 @@ und soweit erforderlich zu aktualisieren, und zwar
 
 
 #### § 8a Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003701116)
 
 (1) Der Betreiber hat der Öffentlichkeit die Angaben nach Anhang V
 Teil 1 ständig zugänglich zu machen, auch auf elektronischem Weg. Die
@@ -456,10 +468,12 @@ Veröffentlichung von Informationen gemäß Absatz 1 abgesehen werden.
 
 
 ### Zweiter Abschnitt - Erweiterte Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000402116)
 
 
 
 #### § 9 Sicherheitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001704116)
 
 (1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat einen
 Sicherheitsbericht nach Absatz 2 zu erstellen, in dem dargelegt wird,
@@ -545,6 +559,7 @@ in Fällen der Nummern 1, 3 und 4 unverzüglich und in Fällen der Nummer
 
 
 #### § 10 Alarm- und Gefahrenabwehrpläne
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001804116)
 
 (1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat nach
 Maßgabe des Satzes 2
@@ -596,6 +611,7 @@ entsprechend.
 
 
 #### § 11 Weitergehende Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE001904116)
 
 (1) Über die Anforderungen des § 8a Absatz 1 hinaus hat der Betreiber
 eines Betriebsbereichs der oberen Klasse der Öffentlichkeit die
@@ -666,6 +682,7 @@ menschliche Gesundheit und die Umwelt umfasst, und macht diesen der
 
 
 #### § 12 Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002003116)
 
 (1) Der Betreiber eines Betriebsbereichs der oberen Klasse hat
 
@@ -706,10 +723,12 @@ durch die zuständige Behörde aufzubewahren.
 
 
 ### Dritter Abschnitt - Behördenpflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000502116)
 
 
 
 #### § 13 Mitteilungspflicht gegenüber dem Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002104116)
 
 Vor Inbetriebnahme eines Betriebsbereichs und nach einer
 Aktualisierung des Sicherheitsberichts auf Grund der in § 9 Absatz 5
@@ -724,9 +743,11 @@ Nummer 1.
 
 
 #### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002205116)
 
 
 #### § 15 Domino-Effekt
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002303116)
 
 (1) Die zuständige Behörde hat gegenüber den Betreibern festzustellen,
 bei welchen Betriebsbereichen oder Gruppen von Betriebsbereichen auf
@@ -758,6 +779,7 @@ erforderlich ist.
 
 
 #### § 16 Überwachungssystem
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002404116)
 
 (1) Die zuständige Behörde hat unbeschadet des § 13 ein angemessenes
 Überwachungssystem einzurichten. Das Überwachungssystem hat eine
@@ -839,6 +861,7 @@ Immissionsschutzgesetzes bekannt gegebenen Sachverständigen geeignet.
 
 
 #### § 17 Überwachungsplan und Überwachungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002504116)
 
 (1) Die zuständige Behörde hat im Rahmen des Überwachungssystems einen
 Überwachungsplan zu erstellen. Der Überwachungsplan muss Folgendes
@@ -916,10 +939,12 @@ Absatz 2 muss mindestens folgende Kriterien berücksichtigen:
 
 
 ### Vierter Abschnitt - Genehmigungsverfahren nach § 23b des Bundes-Immissionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000801116)
 
 
 
 #### § 18 Genehmigungsverfahren nach § 23b des Bundes-Immissionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002607130)
 
 (1) Der Träger des Vorhabens hat dem Antrag nach § 23b Absatz 1 des
 Bundes-Immissionsschutzgesetzes alle Unterlagen beizufügen, die für
@@ -1041,10 +1066,12 @@ Bundesberggesetzes dies anordnet.
 
 
 ## Dritter Teil - Meldeverfahren, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNG000705116)
 
 
 
 ### § 19 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002706116)
 
 (1) Der Betreiber hat der zuständigen Behörde unverzüglich den
 Eintritt eines Ereignisses, das die Kriterien des Anhangs VI Teil 1
@@ -1113,6 +1140,7 @@ zu machen.
 
 
 ### § 20 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002804116)
 
 (1) Der Betreiber eines Betriebsbereichs, der am 13. Januar 2017 unter
 den Anwendungsbereich dieser Verordnung fällt und dessen Einstufung
@@ -1198,6 +1226,7 @@ zusätzlich
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE002904116)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1290,6 +1319,7 @@ ist.
 
 
 ### Anhang I Mengenschwellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003006116)
 
 (Fundstelle: BGBl. I 2017, 494 — 500)
 
@@ -2891,6 +2921,7 @@ Dioxin-like Compounds.
 
 
 ### Anhang II Mindestangaben im Sicherheitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003104116)
 
 
 **I.** **Informationen über das Managementsystem und die Betriebsorganisation
@@ -3050,6 +3081,7 @@ Dioxin-like Compounds.
 
 
 ### Anhang III Sicherheitsmanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003204116)
 
 
 1.  Das Sicherheitsmanagementsystem ist den Gefahren, Tätigkeiten und der
@@ -3159,6 +3191,7 @@ Dioxin-like Compounds.
 
 
 ### Anhang IV Informationen in den Alarm- und Gefahrenabwehrplänen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003302116)
 
 
 1.  Namen oder betriebliche Stellung der Personen, die zur Einleitung von
@@ -3206,6 +3239,7 @@ Dioxin-like Compounds.
 
 
 ### Anhang V Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003405116)
 
 **Teil 1: Informationen zu Betriebsbereichen der unteren und der
 oberen Klasse**
@@ -3291,6 +3325,7 @@ Klasse**
 
 
 ### Anhang VI Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003505116)
 
 (Fundstelle: BGBl. I 2017, 506 — 510)
 
@@ -4113,5 +4148,6 @@ Mitteilung nach § 19 Abs. 2
 [^f797774_21_BJNR060310000BJNE003505116]: 
 
 ### Anhang VII (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_12_2000/BJNR060310000.html#BJNR060310000BJNE003603116)
 
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -32,6 +33,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 „Geprüften Personaldienstleistungsfachwirt“ und zur „Geprüften
@@ -90,6 +92,7 @@ Fortbildungsabschluss „Geprüfter Personaldienstleistungsfachwirt“ oder
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -120,6 +123,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000401128)
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -184,6 +188,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 4 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000500000)
 
 (1) Im Handlungsbereich „Analysieren von Märkten und Chancen“ nach § 3
 Absatz 2 Nummer 1 soll nachgewiesen werden, dass Märkte definiert und
@@ -396,6 +401,7 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -408,6 +414,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -432,6 +439,7 @@ ein.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE001300128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
 und der mündlichen Teilprüfung mindestens 50 Punkte erreicht worden
@@ -461,6 +469,7 @@ Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE001400128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -487,6 +496,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000801128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -502,6 +512,7 @@ in diesem Fall das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE000901128)
 
 (1) Die zu prüfende Person kann beantragen, nach erfolgreichem
 Abschluss der Prüfung nach dieser Verordnung eine zusätzliche Prüfung
@@ -527,12 +538,14 @@ auszustellen.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE001001128)
 
 Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE001102128)
 
 (Fundstelle: BGBl. I 2019, 2340 – 2341)
 
@@ -834,6 +847,7 @@ Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/persdlprv/BJNR103500010.html#BJNR103500010BJNE001202128)
 
 (Fundstelle: BGBl. I 2019, 2341 – 2342)
 

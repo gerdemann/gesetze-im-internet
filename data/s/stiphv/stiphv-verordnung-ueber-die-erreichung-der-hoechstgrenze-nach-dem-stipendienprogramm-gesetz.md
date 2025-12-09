@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Jährliche Höchstgrenze
+[Direktlink](https://www.gesetze-im-internet.de/stiphv/BJNR245010011.html#BJNR245010011BJNE000101140)
 
 Die Höchstgrenze gemäß § 11 Absatz 4 des Stipendienprogramm-Gesetzes
 beträgt
@@ -35,6 +36,7 @@ beträgt
 
 
 ## § 2 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stiphv/BJNR245010011.html#BJNR245010011BJNE000203305)
 
 (1) Das Bundesministerium für Bildung und Forschung teilt den nach
 Landesrecht zuständigen Landesbehörden rechtzeitig die auf jede ihrer

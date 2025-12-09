@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmgergg/BJNR002130951.html#BJNR002130951BJNE000100303)
 
 (1) Bürgerlich-rechtliche Ansprüche gelten als vor dem 9. Mai 1945
 nicht verjährt, wenn die Verjährung noch nicht vollendet war, als
@@ -37,6 +38,7 @@ oder in einem solchen Lande seinen gewöhnlichen Aufenthalt hatte.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmgergg/BJNR002130951.html#BJNR002130951BJNE000200303)
 
 (1) War oder ist zur Erfüllung eines bürgerlich-rechtlichen Anspruchs,
 der vor dem 21. November 1950 fällig geworden ist, eine
@@ -64,11 +66,13 @@ ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmgergg/BJNR002130951.html#BJNR002130951BJNE000300303)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmgergg/BJNR002130951.html#BJNR002130951BJNE000400303)
 
 Dieses Gesetz tritt mit Wirkung vom 31. März 1951 in Kraft.
 

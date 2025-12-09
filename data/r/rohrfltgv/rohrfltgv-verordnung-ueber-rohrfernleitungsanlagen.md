@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000100000)
 
 Zweck der Verordnung ist es, eine Beeinträchtigung des Wohls der
 Allgemeinheit zu vermeiden, insbesondere den Menschen und die Umwelt
@@ -28,6 +29,7 @@ und den Betrieb von Rohrfernleitungsanlagen zu schützen.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000204128)
 
 (1) Diese Verordnung gilt für Rohrfernleitungsanlagen, in denen
 folgende Stoffe befördert werden:
@@ -90,6 +92,7 @@ jährlich über die Anwendung dieses Absatzes.
 
 
 ## § 3 Grundsätzliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000300000)
 
 (1) Rohrfernleitungsanlagen müssen so beschaffen sein und betrieben
 werden, dass eine Beeinträchtigung des Wohls der Allgemeinheit
@@ -108,6 +111,7 @@ dauerhaft erreicht wird.
 
 
 ## § 4 Sonstige Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000401118)
 
 (1) Der Betreiber einer Rohrfernleitungsanlage hat dafür zu sorgen,
 dass die Rohrfernleitungsanlage in ordnungsgemäßem Zustand erhalten
@@ -165,6 +169,7 @@ Anordnungen treffen.
 
 
 ## § 4a Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE001202118)
 
 (1) Wer die Errichtung oder wesentliche Änderung einer
 Rohrfernleitungsanlage im Sinne von § 2 Absatz 2 Satz 1 Nummer 2
@@ -207,6 +212,7 @@ werden.
 
 
 ## § 5 Prüfung von Rohrfernleitungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000503119)
 
 (1) Der Betreiber hat dafür zu sorgen, dass Prüfungen von
 Rohrfernleitungsanlagen durch Prüfstellen nach § 6
@@ -270,6 +276,7 @@ vorzulegen.
 
 
 ## § 6 Prüfstellen für Rohrfernleitungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000608128)
 
 (1) Prüfstelle ist
 
@@ -361,6 +368,7 @@ in der bis zum 10. Oktober 2008 geltenden Fassung heranzuziehen waren.
 
 
 ## § 7 Schadensfall
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000702118)
 
 (1) Im Schadensfall hat der Betreiber unverzüglich Maßnahmen zur
 Schadensbegrenzung und Schadensbehebung zu ergreifen.
@@ -413,6 +421,7 @@ insbesondere auf die Feststellung zu erstrecken,
 
 
 ## § 8 Schadensfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000800000)
 
 (1) Der Betreiber einer Rohrfernleitungsanlage hat Alarm- und
 Gefahrenabwehrpläne aufzustellen und fortzuschreiben, in denen die
@@ -432,6 +441,7 @@ sowie über die transportierten Stoffe zu informieren.
 
 
 ## § 8a Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE001301311)
 
 (1) Bedienstete und Beauftragte der zuständigen Behörde sind im Rahmen
 der Überwachung befugt,
@@ -478,6 +488,7 @@ erforderlich ist, die der zuständigen Behörde nach Teil 5 des Gesetzes
 
 
 ## § 9 Ausschuss für Rohrfernleitungen
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE000906128)
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ein Ausschuss für Rohrfernleitungen eingerichtet.
@@ -524,6 +535,7 @@ Sicherheit im Bundesanzeiger veröffentlicht.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE001003118)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 3 Buchstabe a des
 Gesetzes über die Umweltverträglichkeitsprüfung handelt, wer
@@ -583,6 +595,7 @@ vorsätzlich oder fahrlässig
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rohrfltgv/BJNR380900002.html#BJNR380900002BJNE001101377)
 
 Für Rohrfernleitungsanlagen, die vor dem 3. Oktober 2002 ordnungsgemäß
 errichtet und betrieben worden sind oder mit deren ordnungsgemäßer

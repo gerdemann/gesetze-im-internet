@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/enwg2005_28r_28sanwbek/BJNR0D8AA0024.html#BJNR0D8AA0024BJNE000100000)
 
 Nach § 28r Absatz 10 und § 28s Absatz 6 des
 Energiewirtschaftsgesetzes, das zuletzt durch Artikel 1 des Gesetzes
@@ -32,6 +33,7 @@ Genehmigung anzuwenden sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/enwg2005_28r_28sanwbek/BJNR0D8AA0024.html#BJNR0D8AA0024BJNE000200000)
 
 Bundesministerium für Wirtschaft und Klimaschutz
 

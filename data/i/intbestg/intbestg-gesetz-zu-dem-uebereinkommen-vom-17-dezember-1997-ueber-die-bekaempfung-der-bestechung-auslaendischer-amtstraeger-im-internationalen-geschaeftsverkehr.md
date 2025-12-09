@@ -23,6 +23,7 @@ Stand: G in Kraft gem. Bek. v. 4.2.1999 II 87 mWv 15.2.1999
 
 
 ## Artikel 1 - Zustimmung zum Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNG000100305)
 
 Dem in Paris am 17. Dezember 1997 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Bekämpfung der Bestechung
@@ -32,14 +33,17 @@ deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2 - Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNG000200305)
 
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNE000401308)
 
 
 
 ## § 2 Bestechung ausländischer Abgeordneter im Zusammenhang mit internationalem geschäftlichen Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNE000500305)
 
 (1) Wer in der Absicht, sich oder einem Dritten einen Auftrag oder
 einen unbilligen Vorteil im internationalen geschäftlichen Verkehr zu
@@ -56,6 +60,7 @@ Geldstrafe bestraft.
 
 
 ## § 3 Auslandstaten
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNE000601308)
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
 die Bestechung ausländischer Abgeordneter im Zusammenhang mit
@@ -64,10 +69,12 @@ Deutschen im Ausland begangen wird.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNE000701308)
 
 
 
 ## Art 3 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/intbestg/BJNR232729998.html#BJNR232729998BJNG000300305)
 
 (1) Artikel 2 dieses Gesetzes tritt an dem Tage in Kraft, an dem das
 Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt. Im

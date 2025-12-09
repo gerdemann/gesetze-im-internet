@@ -30,6 +30,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000100000)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz verordnet auf Grund
@@ -56,6 +57,7 @@ Verbraucherschutz verordnet auf Grund
 
 
 ## § 1 Antrag auf Zulassung eines Pflanzenschutzmittels
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000200000)
 
 (1) Das Antragsformular für die Beantragung der
 
@@ -101,6 +103,7 @@ vorgegebenen elektronischen Form einzureichen.
 
 
 ## § 2 Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000300000)
 
 (1) Die Untersuchungen, die zur Prüfung der Wirksamkeit eines
 Pflanzenschutzmittels durchzuführen sind, müssen die Anforderungen der
@@ -151,6 +154,7 @@ Verordnung (EG) Nr. 1107/2009 zugelassenen Pflanzenschutzmittels.
 
 
 ## § 3 Antrag auf Ausweitung des Geltungsbereichs von Zulassungen auf geringfügige Verwendungen nach Artikel 51 der Verordnung (EG) Nr. 1107/2009
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000400000)
 
 (1) Das Antragsformular für den Antrag auf Ausweitung der Zulassung
 auf geringfügige Verwendungen nach Artikel 51 Absatz 1 oder Absatz 7
@@ -210,6 +214,7 @@ Pflanzenschutzmittels nicht erforderlich sind.
 
 
 ## § 4 Antrag auf Genehmigung der Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000500000)
 
 (1) Der Antrag nach § 17 Absatz 2 des Pflanzenschutzgesetzes ist bei
 dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -228,6 +233,7 @@ Pflanzenschutzmittels verwendet worden sind.
 
 
 ## § 5 Antrag auf Genehmigung für den Parallelhandel nach Artikel 52 der Verordnung (EG) Nr. 1107/2009 und § 46 des Pflanzenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000600000)
 
 (1) Der Antrag auf Genehmigung für den Parallelhandel nach Artikel 52
 der Verordnung (EG) Nr. 1107/2009 ist beim Bundesamt für
@@ -286,6 +292,7 @@ wenn im Mittel, mit dem der Parallelhandel beabsichtigt ist
 
 
 ## § 6 Genehmigung für das innergemeinschaftliche Verbringen von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des Pflanzenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000700000)
 
 (1) Der Antrag auf Genehmigung für das innergemeinschaftliche
 Verbringen von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des
@@ -301,6 +308,7 @@ Pflanzenschutzgesetzes gilt § 5 Absatz 3 entsprechend.
 
 
 ## § 7 Genehmigung von Zusatzstoffen und Mitteilung über das Inverkehrbringen von Pflanzenstärkungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000800000)
 
 (1) Der Antrag auf Genehmigung eines Zusatzstoffes nach § 42 des
 Pflanzenschutzgesetzes ist bei dem Bundesamt für Verbraucherschutz und
@@ -315,6 +323,7 @@ Pflanzenschutzgesetzes gilt Absatz 1 entsprechend.
 
 
 ## § 8 Versuchseinrichtung; amtliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE000900000)
 
 (1) Versuchseinrichtung im Sinne dieser Verordnung ist eine amtliche
 oder amtlich anerkannte Einrichtung mit organisatorisch selbständiger,
@@ -409,6 +418,7 @@ bleiben die Verwaltungsverfahrensgesetze der Länder unberührt.
 
 
 ## § 9 Meldung von Inlandsabsatz und Export
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE001000000)
 
 (1) Die Meldung nach § 64 Absatz 1 des Pflanzenschutzgesetzes muss
 außer den dort genannten Angaben den Namen und die Anschrift des
@@ -422,6 +432,7 @@ Bundesanzeiger bekannt gegebenen Muster zu machen.
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE001100000)
 
 Die Verpflichtung zur elektronischen Antragstellung nach § 1 Absatz 1
 und § 3 Absatz 1 gilt für alle Anträge, die ab dem 31. Januar 2014
@@ -430,20 +441,24 @@ eingehen.
 
 
 ## § 11 Änderung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE001200000)
 
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 8 Absatz 6)
+[Direktlink](https://www.gesetze-im-internet.de/pflschmv_2013/BJNR007400013.html#BJNR007400013BJNE001500000)
 
 (Fundstelle: BGBl. I 2013, 78)
 

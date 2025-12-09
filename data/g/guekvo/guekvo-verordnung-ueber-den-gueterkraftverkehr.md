@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## (XXXX) §§ 1 bis 3, 5 bis 13, 15 bis 44, 45 bis 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/g_kvo/DDNR005800990.html#DDNR005800990BJNE000800307)
 
 
 
 ## § 70 Güterfernverkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kvo/DDNR005800990.html#DDNR005800990BJNE000900307)
 
 (1) Unternehmen, die bis zum Zeitpunkt des Inkrafttretens dieser
 Verordnung genehmigungspflichtige Beförderungen betrieben haben,
@@ -37,6 +39,7 @@ Genehmigung nach § 9 dieser Verordnung voraus.
 
 
 ## § 71 Speditioneller Abfertigungsdienst, Umzugsverkehr und Güternahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kvo/DDNR005800990.html#DDNR005800990BJNE001000307)
 
 (1) Unternehmer, die zum Zeitpunkt des Inkrafttretens dieser
 Verordnung speditionellen Abfertigungsdienst, Umzugsverkehr oder
@@ -52,16 +55,19 @@ bzw. Erlaubnis nach dieser Verordnung voraus.
 
 
 ## (XXXX) §§ 72 bis 75 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/g_kvo/DDNR005800990.html#DDNR005800990BJNE001100307)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kvo/DDNR005800990.html#DDNR005800990BJNE001200307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
 Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 885, 1223)
+[Direktlink](https://www.gesetze-im-internet.de/g_kvo/DDNR005800990.html#DDNR005800990BJNE888800301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:

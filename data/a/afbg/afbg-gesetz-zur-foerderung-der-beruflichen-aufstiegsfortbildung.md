@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Förderungsfähige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG000205360)
 
 
 
 ### § 1 Ziel der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000305360)
 
 Ziel der individuellen Förderung nach diesem Gesetz ist es,
 Teilnehmerinnen und Teilnehmer an Maßnahmen der beruflichen
@@ -37,6 +39,7 @@ anderweitig nicht zur Verfügung stehen.
 
 
 ### § 2 Anforderungen an förderfähige Maßnahmen beruflicher Aufstiegsfortbildungen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000416360)
 
 (1) Förderfähig ist die Teilnahme an Fortbildungsmaßnahmen
 öffentlicher und privater Träger, die in einer fachlichen Richtung
@@ -166,6 +169,7 @@ der Teilnehmerin gewählten Lehrgangsablauf.
 
 
 ### § 2a Anforderungen an Träger der Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004705360)
 
 Der Träger muss für die Durchführung der Fortbildungsmaßnahme geeignet
 sein. Die Eignung liegt vor, wenn es sich um einen öffentlichen Träger
@@ -186,6 +190,7 @@ oder der Einrichtung entgegenstehen.
 
 
 ### § 3 Ausschluss der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000515311)
 
 Die Teilnahme an einer Maßnahme wird nach diesem Gesetz nicht
 gefördert, wenn
@@ -230,6 +235,7 @@ Dritten Buch Sozialgesetzbuch für Personen ohne Vorbeschäftigungszeit
 
 
 ### § 4 Fernunterrichtslehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000608360)
 
 Förderung als Teilzeitmaßnahme wird für die Teilnahme an einem
 Fernunterrichtslehrgang geleistet, wenn der Lehrgang nach § 12 des
@@ -244,6 +250,7 @@ Präsenzphasen vorgesehenen Unterrichtsstunden zu bemessen.
 
 
 ### § 4a Mediengestützte Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004207360)
 
 (1) Eine Maßnahme, die teilweise unter Einsatz mediengestützter
 Kommunikation durchgeführt wird und die nicht als Fernunterricht nach
@@ -264,6 +271,7 @@ mediengestützte Kommunikation vorgesehen sind.
 
 
 ### § 5 Fortbildung im In- und Ausland
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000707360)
 
 (1) Förderfähig ist vorbehaltlich des Absatzes 2 die Teilnahme an
 Maßnahmen, die im Inland durchgeführt werden.
@@ -276,6 +284,7 @@ zuständigen Stellen durchgeführt wird.
 
 
 ### § 6 Förderfähige Fortbildung, Fortbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000811360)
 
 (1) Förderung wird für die gezielte Vorbereitung auf Fortbildungsziele
 im Sinne von § 2 Absatz 1 und für die Teilnahme an Maßnahmen im Sinne
@@ -329,6 +338,7 @@ Absatz 1 und 2 nicht überschritten wird.
 
 
 ### § 7 Kündigung, Abbruch, Unterbrechung und Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE000910360)
 
 (1) Abweichend von § 11 Absatz 3 Satz 2 endet die Förderung, wenn die
 Maßnahme vor dem Ablauf der vertraglichen Dauer vom Teilnehmer oder
@@ -389,10 +399,12 @@ Absätze 5 bis 7 entsprechend.
 
 
 ## Zweiter Abschnitt - Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG001005360)
 
 
 
 ### § 8 Staatsangehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001116311)
 
 (1) Förderung wird geleistet
 
@@ -497,6 +509,7 @@ Förderung zu leisten ist, bleiben unberührt.
 
 
 ### § 9 Vorqualifikation der Teilnehmer und Teilnehmerinnen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001208360)
 
 (1) Der Teilnehmer oder die Teilnehmerin muss vor Beginn der Maßnahme
 über die nach der jeweiligen Fortbildungsordnung für die
@@ -551,6 +564,7 @@ Fortbildungsabschlüsse stehen einer Förderung nicht entgegen.
 
 
 ### § 9a Regelmäßige Teilnahme; Teilnahmenachweis
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004903360)
 
 (1) Der Teilnehmer oder die Teilnehmerin hat regelmäßig an der
 geförderten Maßnahme teilzunehmen. Die Leistungen des Teilnehmers oder
@@ -580,10 +594,12 @@ durchzuführenden Leistungskontrollen nachzuweisen.
 
 
 ## Dritter Abschnitt - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG001305360)
 
 
 
 ### § 10 Umfang der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001412360)
 
 (1) Während der Teilnahme an einer Maßnahme wird ein Beitrag zu den
 Kosten der Lehrveranstaltung (Maßnahmebeitrag) geleistet. Soweit für
@@ -614,6 +630,7 @@ Kind.
 
 
 ### § 11 Förderungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001511360)
 
 (1) Eine Teilnahme an Maßnahmen in Vollzeitform wird bis zur Dauer von
 24 Kalendermonaten, in Teilzeitform nach § 2 Absatz 3 Satz 1 Nummer 2
@@ -676,6 +693,7 @@ bereits zu Beginn dieses Monats aufgenommen.
 
 
 ### § 12 Förderungsart
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001612360)
 
 (1) Der Maßnahmebeitrag nach § 10 Absatz 1 besteht aus einem Anspruch
 auf
@@ -717,6 +735,7 @@ beginnt mit dem auf die Bekanntgabe des Bescheids folgenden Monat.
 
 
 ### § 13 Darlehensbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001712360)
 
 (1) Die Kreditanstalt für Wiederaufbau hat auf Verlangen des
 Antragstellers oder der Antragstellerin mit diesem oder dieser einen
@@ -800,6 +819,7 @@ Die Absätze 3, 5 und 6 sowie § 13b finden keine Anwendung.
 
 
 ### § 13a Einkommensabhängige Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004309360)
 
 Von der Verpflichtung zur Rückzahlung ist der Darlehensnehmer oder die
 Darlehensnehmerin auf seinen oder ihren Antrag durch die Kreditanstalt
@@ -817,6 +837,7 @@ fünf Jahre erfolgen.
 
 
 ### § 13b Erlass und Stundung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004808360)
 
 (1) Hat der Darlehensnehmer oder die Darlehensnehmerin die
 Fortbildungsprüfung bestanden, werden ihm oder ihr gegen Vorlage des
@@ -903,6 +924,7 @@ die Kreditanstalt für Wiederaufbau.
 
 
 ### § 14 Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001812360)
 
 (1) Bis zum Ende des vierten Jahres nach Beginn der
 Darlehensrückzahlung wird der Kreditanstalt für Wiederaufbau auf
@@ -976,6 +998,7 @@ Restdarlehens, höchstens jedoch 128 Euro.
 
 
 ### § 15 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE001906360)
 
 Mit einem Anspruch auf Erstattung von Zuschüssen kann gegen den
 Anspruch auf entsprechende Leistungen in voller Höhe aufgerechnet
@@ -983,6 +1006,7 @@ werden.
 
 
 ### § 16 Rückzahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002010360)
 
 (1) Haben die Voraussetzungen für die Leistung des Unterhaltsbeitrages
 an keinem Tag des Kalendermonats vorgelegen, für den er gezahlt worden
@@ -1031,10 +1055,12 @@ teilgenommen hat.
 
 
 ## Vierter Abschnitt - Einkommens- und Vermögensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG002105360)
 
 
 
 ### § 17 Einkommens- und Vermögensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002209311)
 
 (1) Für die Anrechnung des Einkommens und des Vermögens nach § 10
 Absatz 2 gelten – mit Ausnahme des § 29 des
@@ -1058,6 +1084,7 @@ dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 17a Freibeträge vom Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004409360)
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
 
@@ -1077,10 +1104,12 @@ Vermögens anrechnungsfrei bleiben.
 
 
 ## Fünfter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG002305360)
 
 
 
 ### § 18 Übergegangene Darlehensforderungen
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002406360)
 
 Die nach § 14 Absatz 1 auf den Bund übergegangenen
 Darlehensforderungen werden von der Kreditanstalt für Wiederaufbau
@@ -1088,10 +1117,12 @@ verwaltet und eingezogen.
 
 
 ## Sechster Abschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG002505360)
 
 
 
 ### § 19 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002609119)
 
 (1) Über die Förderungsleistung einschließlich der Höhe der
 Darlehenssumme entscheidet die zuständige Behörde auf schriftlichen
@@ -1106,6 +1137,7 @@ benutzen.
 
 
 ### § 19a Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004506360)
 
 Für die Entscheidung über die Förderungsleistungen ist die von den
 Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des
@@ -1117,10 +1149,12 @@ liegt.
 
 
 ### § 19b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE005003360)
 
 
 
 ### § 20 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002707360)
 
 Die Kreditanstalt für Wiederaufbau unterrichtet die zuständige Behörde
 über den Abschluss eines Darlehensvertrages nach § 13 Absatz 1. Die
@@ -1130,6 +1164,7 @@ der Leistungen nach diesem Gesetz führen.
 
 
 ### § 21 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002811360)
 
 (1) Die Träger der Maßnahmen sind verpflichtet, den zuständigen
 Behörden auf Verlangen alle Auskünfte zu erteilen und Urkunden
@@ -1181,6 +1216,7 @@ Erteilung von Auskünften und Vorlage von Urkunden setzen.
 
 
 ### § 22 Ersatzpflicht des Ehegatten oder Lebenspartners
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE002910360)
 
 Hat der Ehegatte oder Lebenspartner des Teilnehmers oder der
 Teilnehmerin die Leistung von Förderung an diesen oder diese dadurch
@@ -1194,6 +1230,7 @@ verzinsen.
 
 
 ### § 23 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003013360)
 
 (1) Entscheidungen nach diesem Gesetz sind dem Antragsteller oder der
 Antragstellerin schriftlich oder elektronisch mitzuteilen (Bescheid).
@@ -1287,6 +1324,7 @@ begonnen wird.
 
 
 ### § 24 Zahlweise
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003110360)
 
 (1) Der Zuschuss für den Unterhaltsbeitrag nach § 12 Absatz 2 und der
 Zuschuss für die Kinderbetreuung nach § 10 Absatz 3 und § 12 Absatz 2
@@ -1330,6 +1368,7 @@ dem Vorbehalt der Rückforderung geleistet:
 
 
 ### § 25 Änderung des Bescheides
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003210360)
 
 Ändert sich ein für die Leistung der Förderung maßgeblicher Umstand,
 so wird der Bescheid geändert
@@ -1361,6 +1400,7 @@ eingetreten ist.
 
 
 ### § 26 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003305360)
 
 Für öffentlich-rechtliche Streitigkeiten nach diesem Gesetz ist der
 Verwaltungsrechtsweg, für Streitigkeiten aus dem Darlehensvertrag der
@@ -1368,6 +1408,7 @@ ordentliche Rechtsweg gegeben.
 
 
 ### § 27 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003411360)
 
 (1) Über die Förderung nach diesem Gesetz werden eine halbjährliche
 und eine jährliche Bundesstatistik durchgeführt.
@@ -1428,6 +1469,7 @@ für Wiederaufbau.
 
 
 ### § 27a Anwendung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE004607311)
 
 Soweit dieses Gesetz keine abweichenden Regelungen enthält, sind die
 §§ 1 bis 3, 11 bis 17, 30 bis 67 des Ersten Buches Sozialgesetzbuch
@@ -1435,10 +1477,12 @@ und das Zehnte Buch Sozialgesetzbuch anzuwenden.
 
 
 ## Siebter Abschnitt - Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG003505360)
 
 
 
 ### § 28 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003607360)
 
 (1) Die Ausgaben nach diesem Gesetz, einschließlich der Erstattung an
 die Kreditanstalt für Wiederaufbau nach § 14 Absatz 2, werden vom Bund
@@ -1451,10 +1495,12 @@ ihren Wohnsitz hat.
 
 
 ## Achter Abschnitt - Bußgeld-, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNG003705360)
 
 
 
 ### § 29 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003807360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1479,6 +1525,7 @@ Euro geahndet werden.
 
 
 ### § 30 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afbg/BJNR062300996.html#BJNR062300996BJNE003910360)
 
 (1) Für Maßnahmen der beruflichen Aufstiegsfortbildung, die bis zum
 Ablauf des 31. Juli 2020 abgeschlossen worden sind, sind die

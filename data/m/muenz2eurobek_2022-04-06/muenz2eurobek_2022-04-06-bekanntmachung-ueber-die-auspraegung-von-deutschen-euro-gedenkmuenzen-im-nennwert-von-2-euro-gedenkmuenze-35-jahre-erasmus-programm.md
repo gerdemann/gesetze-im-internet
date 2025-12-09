@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2022-04-06/BJNR072500022.html#BJNR072500022BJNE000100000)
 
 Auf Initiative der Europäischen Kommission geben die Mitgliedsstaaten
 der Euro-Zone im zweiten Halbjahr 2022 zur Würdigung des 35-jährigen
@@ -60,11 +61,13 @@ produziert.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2022-04-06/BJNR072500022.html#BJNR072500022BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2022-04-06/BJNR072500022.html#BJNR072500022BJNE000300000)
 
 (Fundstelle: BGBl. I 2022, 725)
 

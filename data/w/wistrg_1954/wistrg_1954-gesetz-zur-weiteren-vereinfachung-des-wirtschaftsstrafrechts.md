@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Ahndung von Zuwiderhandlungen im Bereich des Wirtschaftsrechts
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNG000100322)
 
 
 
 ### § 1 Strafbare Verstöße gegen Sicherstellungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE000400322)
 
 (1) Wer eine Zuwiderhandlung nach
 
@@ -92,6 +94,7 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 2 Ordnungswidrige Verstöße gegen Sicherstellungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE000501377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine der
 in § 1 Abs. 1 bezeichneten Handlungen begeht, wenn die Tat ihrem
@@ -118,6 +121,7 @@ werden.
 
 
 ### § 3 Verstöße gegen die Preisregelung
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE000602377)
 
 (1) Ordnungswidrig handelt, wer in anderen als den in den §§ 1, 2
 bezeichneten Fällen vorsätzlich oder fahrlässig einer Rechtsvorschrift
@@ -146,6 +150,7 @@ fünfundzwanzigtausend Euro geahndet werden.
 
 
 ### § 4 Preisüberhöhung in einem Beruf oder Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE000701377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig in
 befugter oder unbefugter Betätigung in einem Beruf oder Gewerbe für
@@ -160,6 +165,7 @@ fünfundzwanzigtausend Euro geahndet werden.
 
 
 ### § 5 Mietpreisüberhöhung
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE000805360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig für die
 Vermietung von Räumen zum Wohnen oder damit verbundene Nebenleistungen
@@ -183,6 +189,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ### § 6 Durchführung einer baulichen Veränderung in missbräuchlicher Weise
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE000902360)
 
 (1) Ordnungswidrig handelt, wer in der Absicht, einen Mieter von
 Wohnraum hierdurch zur Kündigung oder zur Mitwirkung an der Aufhebung
@@ -196,10 +203,12 @@ hunderttausend Euro geahndet werden.
 
 
 ## Zweiter Abschnitt - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNG000200322)
 
 
 
 ### § 7 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001000322)
 
 Ist eine Zuwiderhandlung im Sinne der §§ 1 bis 4 begangen worden, so
 können
@@ -216,6 +225,7 @@ eingezogen werden.
 
 
 ### § 8 Abführung des Mehrerlöses
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001103123)
 
 (1) Hat der Täter durch eine Zuwiderhandlung im Sinne der §§ 1 bis 6
 einen höheren als den zulässigen Preis erzielt, so ist anzuordnen, daß
@@ -242,6 +252,7 @@ Verjährung der Einziehung von Taterträgen entsprechend.
 
 
 ### § 9 Rückerstattung des Mehrerlöses
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001200322)
 
 (1) Statt der Abführung kann auf Antrag des Geschädigten die
 Rückerstattung des Mehrerlöses an ihn angeordnet werden, wenn sein
@@ -260,6 +271,7 @@ Verletzten (§§ 403 bis 406c) sind mit Ausnahme des § 405 Satz 1, §
 
 
 ### § 10 Selbständige Abführung des Mehrerlöses
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001301360)
 
 (1) Kann ein Straf- oder Bußgeldverfahren nicht durchgeführt werden,
 so kann die Abführung oder Rückerstattung des Mehrerlöses selbständig
@@ -275,6 +287,7 @@ Mehrerlös zugeflossen ist.
 
 
 ### § 11 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001401123)
 
 (1) Im Strafverfahren ist die Abführung des Mehrerlöses im Urteil
 auszusprechen. Für das selbständige Verfahren gelten § 435 Absatz 1, 2
@@ -288,11 +301,13 @@ Bußgeldbescheid gleich.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001500322)
 
 (weggefallen)
 
 
 ### § 13 Besondere Vorschriften für das Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001600322)
 
 (1) Soweit für Straftaten nach § 1 das Amtsgericht sachlich zuständig
 ist, ist örtlich zuständig das Amtsgericht, in dessen Bezirk das
@@ -311,20 +326,24 @@ gerichtlichen Verfahren entsprechend.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001700322)
 
 (weggefallen)
 
 
 ## Dritter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNG000300322)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001800322)
 
 (weggefallen)
 
 
 ### § 16 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE001901140)
 
 Verweisen Vorschriften der in § 3 Abs. 1 Satz 1 bezeichneten Art auf
 die Straf- und Bußgeldvorschriften dieses Gesetzes in der vor dem 1.
@@ -344,25 +363,30 @@ bedarf.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002000322)
 
 (weggefallen)
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002100322)
 
 (weggefallen)
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002200322)
 
 (weggefallen)
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002301360)
 
 
 
 ### § 21 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002400322)
 
 Wirtschaftsstrafgesetz in der früher geltenden Fassung im Sinne der §§
 15 bis 18 ist das Wirtschaftsstrafgesetz vom 26. Juli 1949
@@ -380,10 +404,12 @@ Wirtschaftsstrafgesetzes vom 17. Dezember 1952 (Bundesgesetzbl. I S.
 
 
 ### (XXXX) §§ 21a und 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002302360)
 
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wistrg_1954/BJNR001750954.html#BJNR001750954BJNE002700322)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

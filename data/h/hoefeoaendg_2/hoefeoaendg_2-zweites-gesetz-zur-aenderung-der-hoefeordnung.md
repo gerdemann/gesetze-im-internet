@@ -18,18 +18,22 @@ Fundstelle
 
 
 ## Art 1 - Änderung der Höfeordnung
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNG000100328)
 
 
 
 ## Art 2 - Verfahrensrecht
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNG000200328)
 
 
 
 ## Art 3 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNG000300328)
 
 
 
 ## § 1 Überleitung altrechtlicher Höfe
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE000400328)
 
 (1) War eine Besitzung nach den bisher geltenden Vorschriften ein Hof
 und ist sie im Zeitpunkt des Inkrafttretens dieses Gesetzes im
@@ -48,6 +52,7 @@ dieses Gesetzes folgenden Jahres, als Hof.
 
 
 ## § 2 Überleitung altrechtlicher Ehegattenhöfe
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE000500328)
 
 (1) Hat eine Besitzung die Hofeigenschaft behalten und war sie nach
 den bisher geltenden Vorschriften ein Ehegattenhof und als solcher im
@@ -72,6 +77,7 @@ Erklärungsfrist sind die für die Verjährung geltenden Vorschriften der
 
 
 ## § 3 Erbrechtliche Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE000600328)
 
 Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser vor
 dem Inkrafttreten dieses Gesetzes gestorben ist, die bisher geltenden
@@ -80,6 +86,7 @@ ist.
 
 
 ## § 4 Bestimmung des Hoferben
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE000700328)
 
 An die Gültigkeit einer vor dem Inkrafttreten dieses Gesetzes
 getroffenen Verfügung von Todes wegen sind, wenn der Erblasser nach
@@ -88,6 +95,7 @@ Gesetz vorgesehenen Anforderungen zu stellen.
 
 
 ## § 5 Überleitungsvorschrift zu § 13 HöfeO
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE000800328)
 
 (1) Ist der Erbfall vor dem Inkrafttreten dieses Gesetzes eingetreten,
 so steht dies der Anwendung des § 13 der Höfeordnung in der Fassung
@@ -103,6 +111,7 @@ nicht verjährt war.
 
 
 ## § 6 Feststellung des Erbbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE000900328)
 
 Die Landesregierungen oder die von ihnen durch Rechtsverordnung
 bestimmten Stellen im Geltungsbereich der Höfeordnung werden
@@ -116,17 +125,20 @@ maßgebend.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE001000328)
 
 -
 
 
 ## § 8 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE001100328)
 
 Dieses Gesetz gilt in den Ländern Hamburg, Niedersachsen, Nordrhein-
 Westfalen und Schleswig-Holstein.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/h_feo_ndg_2/BJNR008819976.html#BJNR008819976BJNE001200328)
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
 

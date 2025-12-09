@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000100000)
 
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000100000)
 
 Ziel des Gesetzes ist, Benachteiligungen aus Gründen der Rasse oder
 wegen der ethnischen Herkunft, des Geschlechts, der Religion oder
@@ -32,6 +34,7 @@ Identität zu verhindern oder zu beseitigen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000200000)
 
 (1) Benachteiligungen aus einem in § 1 genannten Grund sind nach
 Maßgabe dieses Gesetzes unzulässig in Bezug auf:
@@ -91,6 +94,7 @@ allgemeinen und besonderen Kündigungsschutz.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000300000)
 
 (1) Eine unmittelbare Benachteiligung liegt vor, wenn eine Person
 wegen eines in § 1 genannten Grundes eine weniger günstige Behandlung
@@ -135,6 +139,7 @@ benachteiligen kann.
 
 
 ### § 4 Unterschiedliche Behandlung wegen mehrerer Gründe
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000400000)
 
 Erfolgt eine unterschiedliche Behandlung wegen mehrerer der in § 1
 genannten Gründe, so kann diese unterschiedliche Behandlung nach den
@@ -144,6 +149,7 @@ unterschiedliche Behandlung erfolgt.
 
 
 ### § 5 Positive Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000500000)
 
 Ungeachtet der in den §§ 8 bis 10 sowie in § 20 benannten Gründe ist
 eine unterschiedliche Behandlung auch zulässig, wenn durch geeignete
@@ -152,14 +158,17 @@ genannten Grundes verhindert oder ausgeglichen werden sollen.
 
 
 ## Abschnitt 2 - Schutz der Beschäftigten vor Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Verbot der Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000300000)
 
 
 
 #### § 6 Persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000600000)
 
 (1) Beschäftigte im Sinne dieses Gesetzes sind
 
@@ -194,6 +203,7 @@ Geschäftsführer oder Geschäftsführerinnen und Vorstände, entsprechend.
 
 
 #### § 7 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000700000)
 
 (1) Beschäftigte dürfen nicht wegen eines in § 1 genannten Grundes
 benachteiligt werden; dies gilt auch, wenn die Person, die die
@@ -208,6 +218,7 @@ Beschäftigte ist eine Verletzung vertraglicher Pflichten.
 
 
 #### § 8 Zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000800000)
 
 (1) Eine unterschiedliche Behandlung wegen eines in § 1 genannten
 Grundes ist zulässig, wenn dieser Grund wegen der Art der auszuübenden
@@ -222,6 +233,7 @@ besondere Schutzvorschriften gelten.
 
 
 #### § 9 Zulässige unterschiedliche Behandlung wegen der Religion oder Weltanschauung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE000900000)
 
 (1) Ungeachtet des § 8 ist eine unterschiedliche Behandlung wegen der
 Religion oder der Weltanschauung bei der Beschäftigung durch
@@ -245,6 +257,7 @@ können.
 
 
 #### § 10 Zulässige unterschiedliche Behandlung wegen des Alters
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001001377)
 
 Ungeachtet des § 8 ist eine unterschiedliche Behandlung wegen des
 Alters auch zulässig, wenn sie objektiv und angemessen und durch ein
@@ -302,16 +315,19 @@ einschließen:
 
 
 ### Unterabschnitt 2 - Organisationspflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000400000)
 
 
 
 #### § 11 Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001100000)
 
 Ein Arbeitsplatz darf nicht unter Verstoß gegen § 7 Abs. 1
 ausgeschrieben werden.
 
 
 #### § 12 Maßnahmen und Pflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001200000)
 
 (1) Der Arbeitgeber ist verpflichtet, die erforderlichen Maßnahmen zum
 Schutz vor Benachteiligungen wegen eines in § 1 genannten Grundes zu
@@ -345,10 +361,12 @@ erfolgen.
 
 
 ### Unterabschnitt 3 - Rechte der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000500000)
 
 
 
 #### § 13 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001300000)
 
 (1) Die Beschäftigten haben das Recht, sich bei den zuständigen
 Stellen des Betriebs, des Unternehmens oder der Dienststelle zu
@@ -362,6 +380,7 @@ der oder dem beschwerdeführenden Beschäftigten mitzuteilen.
 
 
 #### § 14 Leistungsverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001400000)
 
 Ergreift der Arbeitgeber keine oder offensichtlich ungeeignete
 Maßnahmen zur Unterbindung einer Belästigung oder sexuellen
@@ -372,6 +391,7 @@ Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 
 #### § 15 Entschädigung und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001500000)
 
 (1) Bei einem Verstoß gegen das Benachteiligungsverbot ist der
 Arbeitgeber verpflichtet, den hierdurch entstandenen Schaden zu
@@ -407,6 +427,7 @@ anderen Rechtsgrund.
 
 
 #### § 16 Maßregelungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001600000)
 
 (1) Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme
 von Rechten nach diesem Abschnitt oder wegen der Weigerung, eine gegen
@@ -423,10 +444,12 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### Unterabschnitt 4 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000600000)
 
 
 
 #### § 17 Soziale Verantwortung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001700000)
 
 (1) Tarifvertragsparteien, Arbeitgeber, Beschäftigte und deren
 Vertretungen sind aufgefordert, im Rahmen ihrer Aufgaben und
@@ -445,6 +468,7 @@ werden.
 
 
 #### § 18 Mitgliedschaft in Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001800000)
 
 (1) Die Vorschriften dieses Abschnitts gelten entsprechend für die
 Mitgliedschaft oder die Mitwirkung in einer
@@ -467,10 +491,12 @@ Mitwirkung in den in Absatz 1 genannten Vereinigungen.
 
 
 ## Abschnitt 3 - Schutz vor Benachteiligung im Zivilrechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000700000)
 
 
 
 ### § 19 Zivilrechtliches Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE001900000)
 
 (1) Eine Benachteiligung aus Gründen der Rasse oder wegen der
 ethnischen Herkunft, wegen des Geschlechts, der Religion, einer
@@ -517,6 +543,7 @@ Wohnungen vermietet.
 
 
 ### § 20 Zulässige unterschiedliche Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002002377)
 
 (1) Eine Verletzung des Benachteiligungsverbots ist nicht gegeben,
 wenn für eine unterschiedliche Behandlung wegen der Religion, einer
@@ -557,6 +584,7 @@ Heranziehung statistischer Erhebungen.
 
 
 ### § 21 Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002100000)
 
 (1) Der Benachteiligte kann bei einem Verstoß gegen das
 Benachteiligungsverbot unbeschadet weiterer Ansprüche die Beseitigung
@@ -582,10 +610,12 @@ Verschulden an der Einhaltung der Frist verhindert war.
 
 
 ## Abschnitt 4 - Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000800000)
 
 
 
 ### § 22 Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002200000)
 
 Wenn im Streitfall die eine Partei Indizien beweist, die eine
 Benachteiligung wegen eines in § 1 genannten Grundes vermuten lassen,
@@ -594,6 +624,7 @@ die Bestimmungen zum Schutz vor Benachteiligung vorgelegen hat.
 
 
 ### § 23 Unterstützung durch Antidiskriminierungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002301377)
 
 (1) Antidiskriminierungsverbände sind Personenzusammenschlüsse, die
 nicht gewerbsmäßig und nicht nur vorübergehend entsprechend ihrer
@@ -617,10 +648,12 @@ Gunsten von behinderten Menschen bleiben unberührt.
 
 
 ## Abschnitt 5 - Sonderregelungen für öffentlich-rechtliche Dienstverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG000900000)
 
 
 
 ### § 24 Sonderregelung für öffentlich-rechtliche Dienstverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002400000)
 
 Die Vorschriften dieses Gesetzes gelten unter Berücksichtigung ihrer
 besonderen Rechtsstellung entsprechend für
@@ -642,10 +675,12 @@ besonderen Rechtsstellung entsprechend für
 
 
 ## Abschnitt 6 - Antidiskriminierungsstelle des Bundes und Unabhängige Bundesbeauftragte oder Unabhängiger Bundesbeauftragter für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG001001360)
 
 
 
 ### § 25 Antidiskriminierungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002501360)
 
 (1) Beim Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird unbeschadet der Zuständigkeit der Beauftragten des Deutschen
@@ -664,6 +699,7 @@ Unabhängigen Bundesbeauftragten für Antidiskriminierung geleitet.
 
 
 ### § 26 Wahl der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung; Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002602360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 wird auf Vorschlag der Bundesregierung vom Deutschen Bundestag
@@ -687,6 +723,7 @@ nichttechnischen Verwaltungsdienstes des Bundes haben.
 
 
 ### § 26a Rechtsstellung der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003400360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 steht nach Maßgabe dieses Gesetzes in einem öffentlich-rechtlichen
@@ -698,6 +735,7 @@ untersteht der Rechtsaufsicht der Bundesregierung.
 
 
 ### § 26b Amtszeit der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003500360)
 
 (1) Die Amtszeit der oder des Unabhängigen Bundesbeauftragten für
 Antidiskriminierung beträgt fünf Jahre.
@@ -711,6 +749,7 @@ Bundespräsidenten die Geschäfte bis zur Neuwahl fort.
 
 
 ### § 26c Beginn und Ende des Amtsverhältnisses der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung; Amtseid
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003600360)
 
 (1) Die oder der nach § 26 Gewählte ist von der Bundespräsidentin oder
 dem Bundespräsidenten zu ernennen. Das Amtsverhältnis der oder des
@@ -759,6 +798,7 @@ Entlassung wird mit der Aushändigung der Urkunde wirksam.
 
 
 ### § 26d Unerlaubte Handlungen und Tätigkeiten der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003700360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 darf keine Handlungen vornehmen, die mit den Aufgaben des Amtes nicht
@@ -785,6 +825,7 @@ unentgeltliche Tätigkeiten sind. Insbesondere darf sie oder er
 
 
 ### § 26e Verschwiegenheitspflicht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003800360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 ist verpflichtet, über die Angelegenheiten, die ihr oder ihm im Amt
@@ -812,6 +853,7 @@ anzuzeigen.
 
 
 ### § 26f Zeugnisverweigerungsrecht der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003900360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 ist berechtigt, über Personen, die ihr oder ihm in ihrer oder seiner
@@ -830,6 +872,7 @@ entscheidet.
 
 
 ### § 26g Anspruch der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung auf Amtsbezüge, Versorgung und auf andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE004002360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 erhält Amtsbezüge entsprechend dem Grundgehalt der Besoldungsgruppe B
@@ -876,6 +919,7 @@ für Bundesbeamtinnen und Bundesbeamte geltenden Vorschriften.
 
 
 ### § 26h Verwendung der Geschenke an die Unabhängige Bundesbeauftragte oder den Unabhängigen Bundesbeauftragten für Antidiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE004100360)
 
 (1) Erhält die oder der Unabhängige Bundesbeauftragte für
 Antidiskriminierung ein Geschenk in Bezug auf das Amt, so muss sie
@@ -888,6 +932,7 @@ Verfahrensvorschriften erlassen.
 
 
 ### § 26i Berufsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE004200360)
 
 Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung ist
 verpflichtet, eine beabsichtigte Erwerbstätigkeit oder sonstige
@@ -914,6 +959,7 @@ werden.
 
 
 ### § 27 Aufgaben der Antidiskriminierungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002702116)
 
 (1) Wer der Ansicht ist, wegen eines in § 1 genannten Grundes
 benachteiligt worden zu sein, kann sich an die
@@ -995,6 +1041,7 @@ der in § 1 genannten Gründe zusammenarbeiten.
 
 
 ### § 28 Amtsbefugnisse der oder des Unabhängigen Bundesbeauftragten für Antidiskriminierung und Pflicht zur Unterstützung durch Bundesbehörden und öffentliche Stellen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002801360)
 
 (1) Die oder der Unabhängige Bundesbeauftragte für Antidiskriminierung
 ist bei allen Vorhaben, die ihre oder seine Aufgaben berühren, zu
@@ -1025,6 +1072,7 @@ insbesondere die erforderlichen Auskünfte zu erteilen.
 
 
 ### § 29 Zusammenarbeit der Antidiskriminierungsstelle des Bundes mit Nichtregierungsorganisationen und anderen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE002901360)
 
 Die Antidiskriminierungsstelle des Bundes soll bei ihrer Tätigkeit
 Nichtregierungsorganisationen sowie Einrichtungen, die auf
@@ -1034,6 +1082,7 @@ geeigneter Form einbeziehen.
 
 
 ### § 30 Beirat der Antidiskriminierungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003001360)
 
 (1) Zur Förderung des Dialogs mit gesellschaftlichen Gruppen und
 Organisationen, die sich den Schutz vor Benachteiligungen wegen eines
@@ -1065,22 +1114,26 @@ regelt die Geschäftsordnung.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNG001100000)
 
 
 
 ### § 31 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003100000)
 
 Von den Vorschriften dieses Gesetzes kann nicht zu Ungunsten der
 geschützten Personen abgewichen werden.
 
 
 ### § 32 Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003200000)
 
 Soweit in diesem Gesetz nicht Abweichendes bestimmt ist, gelten die
 allgemeinen Bestimmungen.
 
 
 ### § 33 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agg/BJNR189710006.html#BJNR189710006BJNE003301377)
 
 (1) Bei Benachteiligungen nach den §§ 611a, 611b und 612 Abs. 3 des
 Bürgerlichen Gesetzbuchs oder sexuellen Belästigungen nach dem

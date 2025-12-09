@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000100000)
 
 Auf Grund des § 46 Absatz 3 des Wertpapierinstitutsgesetzes in
 Verbindung mit § 1d Nummer 2 der Verordnung zur Übertragung von
@@ -38,6 +39,7 @@ für Finanzdienstleistungsaufsicht (Bundesanstalt):
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000300000)
 
 (1) Diese Verordnung ist vorbehaltlich des Absatzes 3 auf alle
 Mittleren Wertpapierinstitute im Sinne des § 2 Absatz 17 des
@@ -74,6 +76,7 @@ des § 2 Absatz 17 des Wertpapierinstitutsgesetzes handelt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000400000)
 
 (1) Vergütung im Sinne dieser Verordnung sind
 
@@ -285,6 +288,7 @@ von ihr verwalteten Vermögenswerte auswirkt.
 
 
 ## § 3 Risikoträgeridentifikation
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000500000)
 
 Die Wertpapierinstitute haben auf Grundlage einer Risikoanalyse
 eigenverantwortlich alle Risikoträger zu identifizieren. Maßgeblich
@@ -296,6 +300,7 @@ anzuwenden, um alle Risikoträger zu identifizieren.
 
 
 ## § 4 Verantwortlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000600000)
 
 (1) Die Geschäftsleitung ist für die angemessene Ausgestaltung der
 Vergütungssysteme für Risikoträger, die keine Geschäftsleiter sind,
@@ -325,6 +330,7 @@ beteiligen.
 
 
 ## § 5 Ausrichtung an der Strategie des Wertpapierinstituts
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000700000)
 
 Die Vergütungsstrategie und die Vergütungssysteme müssen auf die
 Erreichung der Ziele ausgerichtet sein, die in den Geschäfts- und
@@ -336,6 +342,7 @@ das Erreichen der strategischen Ziele unterstützen.
 
 
 ## § 6 Angemessenheit der Vergütung und der Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000800000)
 
 (1) Die Vergütungssysteme sind angemessen ausgestaltet, wenn sie
 
@@ -496,6 +503,7 @@ Komplexität seiner Geschäfte Rechnung.
 
 
 ## § 7 Allgemeine Vorgaben für variable Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE000900000)
 
 (1) Das Wertpapierinstitut muss für das Verhältnis zwischen der
 variablen und der fixen Vergütung der Risikoträger angemessene Werte
@@ -530,6 +538,7 @@ Interessen des Wertpapierinstituts stehen.
 
 
 ## § 8 Besondere Vorgaben für variable Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001000000)
 
 (1) Die Höhe der variablen Vergütung bestimmt sich nach der Leistung
 und wird auf der Grundlage einer Bewertung der individuellen
@@ -662,6 +671,7 @@ Vergütung endet.
 
 
 ## § 9 Zusätzliche Leistungen zur Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001100000)
 
 (1) Zusätzliche Leistungen zur Altersversorgung müssen im Einklang mit
 der Geschäftsstrategie, den Zielen, den Werten und den langfristigen
@@ -678,6 +688,7 @@ Risikoträger mindestens fünf Jahre gehalten werden.
 
 
 ## § 10 Ausnahmen in Bezug auf variable Vergütungen und zusätzliche Leistungen zur Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001200000)
 
 (1) § 8 Absatz 3 bis 6 sowie § 9 Absatz 2 sind nicht anwendbar auf
 Wertpapierinstitute, die die Kriterien des § 44 Absatz 3 Satz 2 Nummer
@@ -690,6 +701,7 @@ betreffenden Risikoträgers ausmachen.
 
 
 ## § 11 Voraussetzungen für die Festsetzung des Gesamtbetrags der variablen Vergütung und die Erdienung zurückbehaltener Vergütungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001300000)
 
 (1) Der Gesamtbetrag der variablen Vergütungen muss in einem
 formalisierten, transparenten und nachvollziehbaren Prozess unter
@@ -715,6 +727,7 @@ eine Verringerung der variablen Vergütung ist nicht zulässig.
 
 
 ## § 12 Verbot der Einschränkung oder Aufhebung der Risikoadjustierung
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001400000)
 
 (1) Die Risikoadjustierung der variablen Vergütung darf seitens der
 Wertpapierinstitute nicht durch Absicherungsmaßnahmen oder sonstige
@@ -735,6 +748,7 @@ Compliance-Funktion des Wertpapierinstituts zu überprüfen.
 
 
 ## § 13 Grundsätze zu den Vergütungssystemen in den Organisationsrichtlinien; Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001500000)
 
 (1) Das Wertpapierinstitut hat in seinen Organisationsrichtlinien
 Grundsätze zu den Vergütungssystemen festzulegen und zu dokumentieren.
@@ -766,6 +780,7 @@ wurden, angemessen zu dokumentieren.
 
 
 ## § 14 Überprüfung und Anpassung der Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001600000)
 
 (1) Die Vergütungssysteme und die zugrunde gelegten
 Vergütungsparameter sind durch das Wertpapierinstitut im Rahmen einer
@@ -785,6 +800,7 @@ zur Behebung der festgestellten Mängel sind zu dokumentieren.
 
 
 ## § 15 Information über Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001700000)
 
 (1) Die Risikoträger müssen durch das Wertpapierinstitut in Textform
 über die Ausgestaltung der für sie maßgeblichen Vergütungssysteme und
@@ -798,6 +814,7 @@ machen.
 
 
 ## § 16 Anpassung bestehender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001800000)
 
 (1) Das Wertpapierinstitut hat darauf hinzuwirken, dass bestehende
 
@@ -820,6 +837,7 @@ Berücksichtigung der konkreten Erfolgsaussichten zu erfolgen.
 
 
 ## § 17 Aufgaben des Vergütungskontrollausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE001900000)
 
 (1) Hat das Wertpapierinstitut einen Vergütungskontrollausschuss nach
 § 44 Absatz 3 des Wertpapierinstitutsgesetzes eingerichtet, so nimmt
@@ -880,6 +898,7 @@ Einklang mit den Vorgaben nach § 5 stehen.
 
 
 ## § 18 Gruppenweite Regelungen zur Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE002000000)
 
 (1) Das übergeordnete Unternehmen einer Wertpapierinstitutsgruppe hat
 eine gruppenweite Vergütungsstrategie festzulegen, die die Vorgaben
@@ -944,6 +963,7 @@ Wertpapierinstitutsgesetzes sowie des § 17 erfüllt.
 
 
 ## § 19 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE002100000)
 
 § 6 Absatz 4 und 5, § 7 Absatz 4 und 5, die §§ 8, 9, 11 Absatz 2 Satz
 1 und 2 und Absatz 3, die §§ 14, 17 Absatz 3 Satz 2 sowie § 18 Absatz
@@ -952,6 +972,7 @@ Inkrafttreten dieser Verordnung folgenden Geschäftsjahres anzuwenden.
 
 
 ## § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpivergv/BJNR0050A0024.html#BJNR0050A0024BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

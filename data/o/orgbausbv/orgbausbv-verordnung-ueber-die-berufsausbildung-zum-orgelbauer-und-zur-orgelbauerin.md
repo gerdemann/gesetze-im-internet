@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-117 v. 14.12.1984 I 1566 (OrgAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -36,9 +37,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000300000)
 
 Der Ausbildungsberuf des Orgelbauers und der Orgelbauerin wird
 staatlich anerkannt nach
@@ -55,11 +58,13 @@ staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -77,6 +82,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -218,6 +224,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -225,9 +232,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000200000)
 
 
 ### § 6 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -237,6 +246,7 @@ Den Zeitrahmen legt der zuständige Prüfungsausschuss fest.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -253,6 +263,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001000000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Arbeitsauftrag
 statt.
@@ -314,12 +325,15 @@ Aufgaben beträgt 150 Minuten.
 
 
 ## Abschnitt 3 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000300000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000400000)
 
 
 #### § 9 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001100000)
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -329,6 +343,7 @@ Berufsausbildung durchgeführt werden.
 
 
 #### § 10 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001200000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -345,9 +360,11 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### Unterabschnitt 2 - Fachrichtung Orgelbau
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000500000)
 
 
 #### § 11 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001300000)
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Orgelbau in den folgenden Prüfungsbereichen statt:
@@ -368,6 +385,7 @@ Orgelbau in den folgenden Prüfungsbereichen statt:
 
 
 #### § 12 Prüfungsbereich Entwurf und Fertigung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001400000)
 
 (1) Im Prüfungsbereich Entwurf und Fertigung hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -437,6 +455,7 @@ dauert das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
 
 #### § 13 Prüfungsbereich Durchführen von Teilarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001500000)
 
 (1) Im Prüfungsbereich Durchführen von Teilarbeiten hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -500,6 +519,7 @@ situativen Fachgespräche dauern zusammen höchstens zehn Minuten.
 
 
 #### § 14 Prüfungsbereich Planen und Konstruieren
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001600000)
 
 (1) Im Prüfungsbereich Planen und Konstruieren hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -555,6 +575,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 #### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -568,6 +589,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Orgelbau wie folgt zu gewichten:
@@ -626,6 +648,7 @@ Prüfungsleistungen wie folgt bewertet worden sind:
 
 
 #### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -663,9 +686,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Pfeifenbau
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000600000)
 
 
 #### § 18 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002000000)
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Pfeifenbau in den folgenden Prüfungsbereichen statt:
@@ -686,6 +711,7 @@ Pfeifenbau in den folgenden Prüfungsbereichen statt:
 
 
 #### § 19 Prüfungsbereich Entwurf und Fertigung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002100000)
 
 (1) Im Prüfungsbereich Entwurf und Fertigung hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -766,6 +792,7 @@ höchstens 20 Minuten.
 
 
 #### § 20 Prüfungsbereich Durchführen von Teilarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002200000)
 
 (1) Im Prüfungsbereich Durchführen von Teilarbeiten hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -841,6 +868,7 @@ Fachgespräch dauert höchstens zehn Minuten.
 
 
 #### § 21 Prüfungsbereich Planen und Konstruieren
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002300000)
 
 (1) Im Prüfungsbereich Planen und Konstruieren hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -893,6 +921,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 #### § 22 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002400000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -906,6 +935,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 23 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Pfeifenbau wie folgt zu gewichten:
@@ -964,6 +994,7 @@ Prüfungsleistungen wie folgt bewertet worden sind:
 
 
 #### § 24 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002600000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1001,9 +1032,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNG000700000)
 
 
 ### § 25 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002700000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -1012,6 +1045,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002800000)
 
 Diese Verordnung tritt am 1. August 2019 in Kraft. Gleichzeitig tritt
 die Orgelbauer-Ausbildungsverordnung vom 14. Dezember 1984 (BGBl. I S.
@@ -1020,6 +1054,7 @@ die Orgelbauer-Ausbildungsverordnung vom 14. Dezember 1984 (BGBl. I S.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Orgelbauer und zur Orgelbauerin
+[Direktlink](https://www.gesetze-im-internet.de/orgbausbv/BJNR009200019.html#BJNR009200019BJNE002900000)
 
 (Fundstelle: BGBl. I 2019, 99 - 109)
 

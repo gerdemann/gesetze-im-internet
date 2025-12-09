@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1955-04/BJNR002120955.html#BJNR002120955BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzbl. S. 323) werden zum Gedenken an den
@@ -73,11 +74,13 @@ Schwäbisch-Gmünd.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1955-04/BJNR002120955.html#BJNR002120955BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1955-04/BJNR002120955.html#BJNR002120955BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1955, 213

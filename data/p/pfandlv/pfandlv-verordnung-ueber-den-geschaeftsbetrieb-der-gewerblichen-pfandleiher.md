@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000100309)
 
 Die Erlaubnis zum Betrieb des Gewerbes eines Pfandleihers gilt für den
 Geltungsbereich dieser Verordnung.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000201128)
 
 
 
 ## § 3 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000303118)
 
 (1) Der Pfandleiher hat über jedes Pfandleihgeschäft und seine
 Abwicklung nach den Grundsätzen ordnungsmäßiger Buchführung
@@ -119,11 +122,13 @@ unberührt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000401308)
 
 (weggefallen)
 
 
 ## § 5 Annahme des Pfandes
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000502118)
 
 (1) Der Pfandleiher darf das Pfand nur annehmen, wenn er mit dem
 Verpfänder vereinbart, daß
@@ -151,6 +156,7 @@ Vollmacht des Verpfänders aushändigt.
 
 
 ## § 6 Pfandschein
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000600309)
 
 (1) Der Pfandleiher hat dem Verpfänder unverzüglich nach Abschluß des
 Pfandleihvertrags einen Pfandschein auszuhändigen, der von dem
@@ -167,6 +173,7 @@ geändert wird (Erneuerung).
 
 
 ## § 7 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000701308)
 
 Jedes Pfand ist mit der auf dem Pfandschein angegebenen Nummer des
 Pfandleihvertrags zu versehen. Bezieht sich der Pfandschein auf
@@ -176,6 +183,7 @@ angebracht werden.
 
 
 ## § 8 Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000801308)
 
 Der Pfandleiher hat das Pfand mindestens zum doppelten Betrag des
 Darlehens gegen Feuerschäden, Leitungswasserschäden, Einbruchdiebstahl
@@ -183,6 +191,7 @@ sowie gegen Beraubung zu versichern.
 
 
 ## § 9 Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE000901128)
 
 (1) Der Pfandleiher darf sich frühestens einen Monat nach Eintritt der
 Fälligkeit des gesamten Darlehens aus dem Pfand befriedigen, es sei
@@ -217,6 +226,7 @@ des Zeitraums ein Hinweis auf die früheren Anzeigen.
 
 
 ## § 10 Zinsen und Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001000309)
 
 (1) Der Pfandleiher darf für die Hingabe des Darlehens, für die Kosten
 seines Geschäftsbetriebs einschließlich der Aufbewahrung, der
@@ -273,6 +283,7 @@ aufzuteilen.
 
 
 ## § 11 Überschüsse aus der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001101308)
 
 (1) Der Pfandleiher hat Überschüsse, über die Vereinbarungen nach § 5
 Abs. 1 Nr. 2 abgeschlossen sind, spätestens einen Monat nach Ablauf
@@ -289,10 +300,12 @@ hinsichtlich des Mindererlöses befriedigen.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001201128)
 
 
 
 ## § 12a Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001303128)
 
 Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
@@ -340,21 +353,25 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001401308)
 
 -
 
 
 ## § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001501308)
 
 -
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001601308)
 
 -
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001701308)
 
 (1) Diese Verordnung tritt am 1. März 1961 in Kraft.
 
@@ -362,6 +379,7 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Anlage (zu § 10 Abs. 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/pfandlv/BJNR000580961.html#BJNR000580961BJNE001801377)
 
 Fundstelle des Originaltextes: BGBl. I 1976, 1340;
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000100000)
 
 Auf Grund des § 42 Absatz 1 Nummer 1 bis 4 des
 Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
@@ -36,6 +37,7 @@ Wirtschaft und Energie:
 
 
 ## § 1 Antrag auf Anerkennung als private Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000201125)
 
 Der Antrag einer Einrichtung auf Anerkennung als
 Verbraucherschlichtungsstelle muss insbesondere folgende Informationen
@@ -108,6 +110,7 @@ enthalten:
 
 
 ## § 2 Angaben für die Liste der Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000300000)
 
 Für die Liste der Verbraucherschlichtungsstellen nach § 32 Absatz 2
 Nummer 2, Absatz 3 Nummer 2 und § 33 Absatz 1 des
@@ -116,6 +119,7 @@ und 5 bis 8 zu übermitteln.
 
 
 ## § 3 Webseite der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000400000)
 
 Die Verbraucherschlichtungsstelle veröffentlicht die folgenden
 Informationen leicht zugänglich auf ihrer Webseite:
@@ -162,6 +166,7 @@ Informationen leicht zugänglich auf ihrer Webseite:
 
 
 ## § 4 Tätigkeitsbericht der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000500000)
 
 (1) Der Tätigkeitsbericht der Verbraucherschlichtungsstelle (§ 34
 Absatz 1 des Verbraucherstreitbeilegungsgesetzes) muss insbesondere
@@ -225,6 +230,7 @@ veröffentlichen.
 
 
 ## § 5 Evaluationsbericht der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000600000)
 
 (1) Der Evaluationsbericht der Verbraucherschlichtungsstelle (§ 34
 Absatz 2 Satz 1 des Verbraucherstreitbeilegungsgesetzes) muss
@@ -256,6 +262,7 @@ für die zwei vorangegangenen Kalenderjahre.
 
 
 ## § 6 Verbraucherschlichtungsbericht und Auswertung der Evaluationsberichte der Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000700000)
 
 (1) Der Verbraucherschlichtungsbericht der Zentralen Anlaufstelle (§
 35 Absatz 1 des Verbraucherstreitbeilegungsgesetzes) enthält
@@ -285,11 +292,13 @@ entsprechend.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000800000)
 
 Diese Verordnung tritt am 1. April 2016 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vsbinfov/BJNR032600016.html#BJNR032600016BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

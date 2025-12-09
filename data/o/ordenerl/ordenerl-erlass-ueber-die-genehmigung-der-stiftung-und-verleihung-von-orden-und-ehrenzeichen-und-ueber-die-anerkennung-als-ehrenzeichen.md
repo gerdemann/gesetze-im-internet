@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000100319)
 
 Auf Grund von § 3 Abs. 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) -
@@ -37,6 +38,7 @@ Ordensgesetz - genehmige ich die Stiftung und Verleihung des
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000201377)
 
 Auf Grund von § 3 Abs. 1 des Ordensgesetzes genehmige ich die Stiftung
 und Verleihung der folgenden Ehrenzeichen:
@@ -58,12 +60,14 @@ und Verleihung der folgenden Ehrenzeichen:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000300319)
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 der in den Artikeln 1 und 2 genannten Orden und Ehrenzeichen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000400319)
 
 Auf Grund von § 3 Abs. 2 des Ordensgesetzes erkenne ich das
 
@@ -75,6 +79,7 @@ als Ehrenzeichen an.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000500319)
 
 Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
 Abbildungen und die Beschreibungen der nach den Artikeln 1 und 2
@@ -84,6 +89,7 @@ Innern im Bundesanzeiger veröffentlicht.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000600319)
 
 (1) Jede Änderung der Stiftungsbestimmungen und der
 Verleihungsbedingungen der nach den Artikeln 1 und 2 genehmigten Orden
@@ -96,6 +102,7 @@ ihrer Benennung ist mir vor dem Inkraftsetzen anzuzeigen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl/BJNR004220958.html#BJNR004220958BJNE000700319)
 
 Der Bundespräsident
 Der Bundesminister des Innern

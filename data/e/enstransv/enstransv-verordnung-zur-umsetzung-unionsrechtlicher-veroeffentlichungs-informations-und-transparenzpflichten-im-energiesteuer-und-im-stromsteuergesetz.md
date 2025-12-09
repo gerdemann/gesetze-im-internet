@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNG000100000)
 
 
 ### § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000203123)
 
 (1) Diese Verordnung dient der Umsetzung unionsrechtlicher Vorgaben
 des Beihilferechts zur Erhebung, Verarbeitung, Nutzung und
@@ -65,6 +67,7 @@ Steuerbegünstigungen, die
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000302123)
 
 (1) Steuerbegünstigungen im Sinne dieser Verordnung sind
 
@@ -129,9 +132,11 @@ Erzeugnisse verändern.
 
 
 ## Abschnitt 2 - Veröffentlichungs-, Informations- und Transparenzpflichten
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNG000200000)
 
 
 ### § 3 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000404123)
 
 (1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige-
 oder Erklärungspflichten, wenn das Aufkommen der einzelnen gewährten
@@ -238,6 +243,7 @@ Aufkommensschritten auf volle Euro aufgerundet. Unbeschadet des Satzes
 
 
 ### § 4 Anzeigepflicht für Steuerbegünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000501123)
 
 (1) In den Fällen des § 3 Absatz 2 Nummer 2 haben Begünstigte, die
 eine der dort genannten Steuerbegünstigungen in Anspruch nehmen, für
@@ -320,6 +326,7 @@ erfassten Zeitraums stromsteuerpflichtig waren.
 
 
 ### § 5 Erklärungspflicht für Steuerentlastungen
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000601123)
 
 (1) In den Fällen des § 3 Absatz 2 Nummer 1 haben Begünstigte, denen
 eine Steuerentlastung ausgezahlt worden ist, für jeden
@@ -374,9 +381,11 @@ der Kommission oder zur Nachweisführung erforderlich sind.
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000702123)
 
 
 ### § 7 Elektronische Datenübermittlung, Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000802123)
 
 (1) Anzeigen und Erklärungen nach den §§ 4 und 5 sind von Begünstigten
 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung
@@ -408,9 +417,11 @@ einzusetzen.
 
 
 ## Abschnitt 3 - Datenschutzrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNG000300000)
 
 
 ### § 8 Verarbeitung der erhobenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE000901360)
 
 (1) Zur Erfüllung der Pflichten nach § 1 Absatz 1 kann die
 Zollverwaltung die nach den §§ 3 bis 5 erhobenen Daten verarbeiten.
@@ -421,6 +432,7 @@ andere Gesetze dem nicht entgegenstehen.
 
 
 ### § 9 Datenübermittlung im innerstaatlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001001123)
 
 (1) Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt die
 Zollverwaltung die nach den §§ 3 bis 5 erhobenen Daten an die
@@ -439,6 +451,7 @@ dem nicht entgegenstehen.
 
 
 ### § 10 Datenübermittlung an die Kommission
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001102123)
 
 Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt die
 Generalzolldirektion die nach den §§ 3 bis 5 erhobenen Daten an die
@@ -447,6 +460,7 @@ die die Kommission zur Verarbeitung der Daten bestimmt hat.
 
 
 ### § 11 Berichtigung, Speicherung und Löschung der erhobenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001200000)
 
 (1) Nach dieser Verordnung erhobene und gespeicherte Daten sind zu
 berichtigen, wenn sie unrichtig sind.
@@ -462,6 +476,7 @@ Zwecken über den Zeitpunkt nach Satz 1 hinaus gespeichert werden.
 
 
 ### § 12 Elektronische Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001301123)
 
 (1) Für die Zwecke des § 1 Absatz 1 richtet die Generalzolldirektion
 eine Datenbank zur Erfassung der nach den §§ 3 bis 5 erhobenen Daten
@@ -480,6 +495,7 @@ die Hauptzollämter in die elektronische Datenbank eingegeben.
 
 
 ### § 13 Datenschutzrechtliche Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001402123)
 
 (1) Die Einhaltung der Regelungen zur Führung der Datenbank nach § 12
 obliegt der Generalzolldirektion.
@@ -498,6 +514,7 @@ Löschung der Daten nach § 11 Absatz 3.
 
 
 ### § 14 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001500000)
 
 Die nach dieser Verordnung erhobenen Daten sind ausschließlich über
 die allgemein zugängliche Internetseite nach § 3 Absatz 4 einsehbar.
@@ -505,9 +522,11 @@ Die datenschutzrechtlichen Betroffenenrechte bleiben unberührt.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNG000400000)
 
 
 ### § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001801123)
 
 (1) Ordnungswidrig im Sinne des § 66c Absatz 1 des
 Energiesteuergesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -529,18 +548,21 @@ Stromsteuergesetz begeht.
 
 
 ### § 16 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001900360)
 
 Der Steueraufsicht nach § 209 der Abgabenordnung unterliegt, wer
 Begünstigter nach § 2 Absatz 2 ist.
 
 
 ### § 17 Geltungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001602123)
 
 Die sich aus dieser Verordnung ergebenden Verpflichtungen gelten für
 Steuerbegünstigungen ab dem 1. Juli 2016.
 
 
 ### Anlage (zu § 2 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/enstransv/BJNR115810016.html#BJNR115810016BJNE001703123)
 
 (Fundstelle: BGBl. 2023 I Nr. 367, 3 – 4)
 

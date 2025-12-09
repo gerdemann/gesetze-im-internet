@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mautregv/BJNR185400016.html#BJNR185400016BJNE000100000)
 
 Diese Verordnung regelt die Einzelheiten zu den Angaben im
 Mautdienstregister und das Verfahren zur Aktualisierung und
@@ -27,6 +28,7 @@ Bekanntmachung des Registers nach § 21 des Mautsystemgesetzes.
 
 
 ## § 2 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/mautregv/BJNR185400016.html#BJNR185400016BJNE000201123)
 
 Unbeschadet des § 9 Absatz 2 Satz 1 des Mautsystemgesetzes übermitteln
 die in Bund und Ländern für die Erhebung der Maut zuständigen Behörden
@@ -81,6 +83,7 @@ des Mautsystemgesetzes.
 
 
 ## § 3 Angaben im Mautdienstregister
+[Direktlink](https://www.gesetze-im-internet.de/mautregv/BJNR185400016.html#BJNR185400016BJNE000302123)
 
 Das Bundesamt für Logistik und Mobilität veröffentlicht im
 Mautdienstregister nach § 21 des Mautsystemgesetzes in nicht
@@ -119,6 +122,7 @@ personenbezogener Form Angaben zu
 
 
 ## § 4 Verfahren zur Führung und Aktualisierung des Mautdienstregisters
+[Direktlink](https://www.gesetze-im-internet.de/mautregv/BJNR185400016.html#BJNR185400016BJNE000401123)
 
 (1) Die für die Erhebung einer Maut in Bund und Ländern zuständigen
 Behörden übermitteln dem Bundesamt für Logistik und Mobilität
@@ -142,6 +146,7 @@ Informationen verlangen.
 
 
 ## § 5 Aktualisierung des Mautdienstregisters
+[Direktlink](https://www.gesetze-im-internet.de/mautregv/BJNR185400016.html#BJNR185400016BJNE000501123)
 
 (1) Das Bundesamt für Logistik und Mobilität aktualisiert das
 Mautdienstregister mindestens einmal jährlich anhand der Ergebnisse
@@ -155,6 +160,7 @@ nach § 3 ergeben.
 
 
 ## § 6 Bekanntmachung des Mautdienstregisters
+[Direktlink](https://www.gesetze-im-internet.de/mautregv/BJNR185400016.html#BJNR185400016BJNE000601123)
 
 (1) Das Bundesamt für Logistik und Mobilität veröffentlicht das
 Mautdienstregister ergänzend zur Bekanntmachung nach § 21 Absatz 3 des

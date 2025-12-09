@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2003-03/BJNR040300003.html#BJNR040300003BJNE000100311)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema "200.
@@ -49,11 +50,13 @@ Der Entwurf der Münze stammt von Bodo Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2003-03/BJNR040300003.html#BJNR040300003BJNE000200311)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2003-03/BJNR040300003.html#BJNR040300003BJNE000300311)
 
 (Fundstelle: BGBl. I 2003, 403)
 ![bgbl1_2003_j0403_0010.jpg](bgbl1_2003_j0403_0010.jpg)

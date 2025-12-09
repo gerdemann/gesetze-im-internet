@@ -20,6 +20,7 @@ Stand: V in Kraft gem. Bek. v. 16.3.1993 II 742 mWv 30.10.1992
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/BJNR201060989.html#BJNR201060989BJNE000100325)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/BJNR201060989.html#BJNR201060989BJNE000200325)
 
 Die Bestimmungen des Artikels II des Abkommens über die Vorrechte und
 Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21.
@@ -42,6 +44,7 @@ deutschen Übersetzung veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/BJNR201060989.html#BJNR201060989BJNE000300325)
 
 Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -50,6 +53,7 @@ S. 187) neu gefaßt wurde, auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/BJNR201060989.html#BJNR201060989BJNE000400325)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen nach seinem Artikel 60 für die Bundesrepublik
@@ -63,6 +67,7 @@ im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/BJNR201060989.html#BJNR201060989BJNE000500325)
 
 Der Bundesrat hat zugestimmt.
 

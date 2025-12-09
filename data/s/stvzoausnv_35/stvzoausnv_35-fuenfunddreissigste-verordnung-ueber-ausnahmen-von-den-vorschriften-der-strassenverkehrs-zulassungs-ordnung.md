@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_35/BJNR005620988.html#BJNR005620988BJNE000100325)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -32,6 +33,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_35/BJNR005620988.html#BJNR005620988BJNE000203119)
 
 (1) Abweichend von § 32 Absatz 1 Nummer 1 der Straßenverkehrs-
 Zulassungs-Ordnung darf bei land- oder forstwirtschaftlichen
@@ -97,21 +99,25 @@ mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_35/BJNR005620988.html#BJNR005620988BJNE000301308)
 
 -
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_35/BJNR005620988.html#BJNR005620988BJNE000401311)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_35/BJNR005620988.html#BJNR005620988BJNE000500325)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_35/BJNR005620988.html#BJNR005620988BJNE000600325)
 
 Der Bundesminister für Verkehr
 

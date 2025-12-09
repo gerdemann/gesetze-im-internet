@@ -24,6 +24,7 @@ Die v tritt nach ihrem § 6 abs. 2 mit ablauf des 12.6.2009 außer kraft, sofern
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000101377)
 
 Auf Grund des § 3 Abs. 1 in Verbindung mit Abs. 2 des Agrar- und
 Fischereifonds-Informationen-Gesetzes vom 26. November 2008 (BGBl. I
@@ -33,12 +34,14 @@ Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000201377)
 
 Diese Verordnung gilt für Veröffentlichungen nach dem Agrar- und
 Fischereifonds-Informationen-Gesetz.
 
 
 ## § 2 Inhalt und Aufbau der Internetseiten, Form und Art der Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000303128)
 
 (1) Auf der in § 2 Absatz 1 Satz 1 des Agrar- und Fischereifonds-
 Informationen-Gesetzes bezeichneten Internetseite dürfen nur die dort
@@ -119,6 +122,7 @@ Internetseite zu veröffentlichen.
 
 
 ## § 3 Schwellenwertregelung
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000801128)
 
 (1) Zur Durchführung des Artikels 98 Absatz 4 Unterabsatz 2 der
 Verordnung (EU) 2021/2116 in Verbindung mit Artikel 59 Absatz 1 der
@@ -145,6 +149,7 @@ Gemeinden der Kreis und bei kreisfreien Städten das Land.
 
 
 ## § 4 Berichtigung, Einschränkung der Verarbeitung und Löschung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000403128)
 
 (1) Soweit nach den für die veröffentlichende Stelle geltenden
 datenschutzrechtlichen Bestimmungen eine Berichtigung der
@@ -166,6 +171,7 @@ Informationen unverzüglich einzuschränken.
 
 
 ## § 5 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000503128)
 
 (1) Die Informationen über die Zahlung von Mitteln aus den Agrar- und
 Fischereifonds sind ausschließlich über das Internet einsehbar.
@@ -176,6 +182,7 @@ entsprechend.
 
 
 ## § 6 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000603128)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 hat gemäß den Vorgaben der Artikel 24, 25 und 32 der Verordnung (EU)
@@ -231,6 +238,7 @@ eine erneute Übermittlung.
 [^F812257_01_BJNR614700008BJNE000603128]: 
 
 ## § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/afivo/BJNR614700008.html#BJNR614700008BJNE000702128)
 
 Für die Veröffentlichung von Informationen über die Zahlung von
 Mitteln aus den Agrarfonds der Agrar-Haushaltsjahre bis 2022 sowie aus

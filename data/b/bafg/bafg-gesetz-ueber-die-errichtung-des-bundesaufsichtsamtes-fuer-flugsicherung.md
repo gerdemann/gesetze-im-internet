@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Bundesaufsichtsamt für Flugsicherung
+[Direktlink](https://www.gesetze-im-internet.de/bafg/BJNR242410009.html#BJNR242410009BJNE000101305)
 
 (1) Es wird ein Bundesaufsichtsamt für Flugsicherung als nationale
 Aufsichtsbehörde für den Bereich der Flugsicherung errichtet. § 30
@@ -97,6 +98,7 @@ Unverletzlichkeit der Wohnung wird insoweit eingeschränkt.
 
 
 ## § 2 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bafg/BJNR242410009.html#BJNR242410009BJNE000201305)
 
 (1) Spätestens sechs Monate nach Errichtung des Bundesaufsichtsamtes
 für Flugsicherung finden Wahlen zur Personalvertretung statt. Bis zur

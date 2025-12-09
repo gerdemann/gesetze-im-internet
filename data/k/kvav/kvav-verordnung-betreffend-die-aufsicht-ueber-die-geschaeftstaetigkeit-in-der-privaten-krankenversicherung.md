@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -38,9 +39,11 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 
 ## Kapitel 1 - Methoden zur Berechnung der Prämien und Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNG000100000)
 
 
 ### § 1 Versicherungsmathematische Methoden in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000300000)
 
 Versicherungsmathematische Methoden zur Berechnung der Prämien und
 Rückstellungen in der nach Art der Lebensversicherung betriebenen
@@ -52,6 +55,7 @@ Prämien und der Alterungsrückstellungen nach Maßgabe der §§ 3, 10, 11,
 
 
 ### § 2 Rechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000400000)
 
 (1) Rechnungsgrundlagen sind:
 
@@ -88,18 +92,21 @@ versehen.
 
 
 ### § 3 Gleiche Rechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000500000)
 
 Für die Berechnung der Prämie und der Alterungsrückstellung sind die
 gleichen Rechnungsgrundlagen zu verwenden.
 
 
 ### § 4 Rechnungszins
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000600000)
 
 Der Rechnungszins für die Prämienberechnung und die Berechnung der
 Alterungsrückstellung darf 3,5 Prozent nicht übersteigen.
 
 
 ### § 5 Ausscheideordnung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000700000)
 
 (1) Die Ausscheideordnung enthält die Annahmen zur
 Sterbewahrscheinlichkeit und zu sonstigen Abgangswahrscheinlichkeiten,
@@ -115,6 +122,7 @@ keine weiteren Abgangswahrscheinlichkeiten berücksichtigt werden.
 
 
 ### § 6 Kopfschäden
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000801118)
 
 (1) Kopfschäden sind die im Beobachtungszeitraum auf einen
 Versicherten entfallenden durchschnittlichen Versicherungsleistungen;
@@ -149,6 +157,7 @@ verteilen.
 
 
 ### § 7 Sicherheitszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE000900000)
 
 In die Prämie ist ein Sicherheitszuschlag von mindestens 5 Prozent der
 Bruttoprämie einzurechnen, der nicht bereits in anderen
@@ -156,6 +165,7 @@ Rechnungsgrundlagen enthalten sein darf.
 
 
 ### § 8 Grundsätze für die Bemessung der sonstigen Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001000000)
 
 (1) Die sonstigen Zuschläge umfassen
 
@@ -235,12 +245,14 @@ Versicherten, die das 65. Lebensjahr vollendet haben.
 
 
 ### § 9 Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001100000)
 
 Alle rechnungsmäßigen Ansätze hat das Versicherungsunternehmen in
 überprüfbarer Weise zu belegen.
 
 
 ### § 10 Prämienberechnung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001200000)
 
 (1) Die Prämienberechnung hat nach den anerkannten Regeln der
 Versicherungsmathematik für jede versicherte Person altersabhängig
@@ -275,6 +287,7 @@ verwenden.
 
 
 ### § 11 Berechnung der Prämien bei Prämienanpassung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001300000)
 
 (1) Die Berechnung der Prämien bei Prämienanpassungen hat nach den für
 die Prämienberechnung geltenden Grundsätzen zu erfolgen. Dabei ist dem
@@ -301,9 +314,11 @@ einmaligen Kosten eingerechnet werden.
 
 
 ## Kapitel 2 - Tarifwechsel
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNG000200000)
 
 
 ### § 12 Tarife mit gleichartigem Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001400000)
 
 (1) Als Krankenversicherungstarife mit gleichartigem
 Versicherungsschutz, in die der Versicherte zu wechseln berechtigt
@@ -364,6 +379,7 @@ Versicherungsschutz anzusehen.
 
 
 ### § 13 Anrechnung der erworbenen Rechte und der Alterungsrückstellung bei einem Tarifwechsel
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001500000)
 
 (1) Bei einem Wechsel in Tarife mit gleichartigem Versicherungsschutz
 ist für jeden Leistungsbereich dem Versicherten der ihm kalkulatorisch
@@ -424,6 +440,7 @@ eingerechnet werden.
 
 
 ### § 14 Übertragungswert
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001600000)
 
 (1) Der Übertragungswert gemäß § 146 Absatz 1 Nummer 5 des
 Versicherungsaufsichtsgesetzes für ab dem 1. Januar 2009
@@ -518,9 +535,11 @@ Versicherungsaufsichtsgesetzes.
 
 
 ## Kapitel 3 - Prämienanpassung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNG000300000)
 
 
 ### § 15 Verfahren zur Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001700000)
 
 (1) Die Gegenüberstellung nach § 155 Absatz 3 Satz 1 und 2 des
 Versicherungsaufsichtsgesetzes ist jährlich und für jede
@@ -592,6 +611,7 @@ rechnungsmäßigen Ansatz um mehr als 10 Prozent abweichen.
 
 
 ### § 16 Verfahren zur Gegenüberstellung der kalkulierten Sterbewahrscheinlichkeiten und der zuletzt veröffentlichten Sterbewahrscheinlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001800000)
 
 (1) Die Gegenüberstellung nach § 155 Absatz 4 des
 Versicherungsaufsichtsgesetzes ist jährlich und für jede
@@ -621,6 +641,7 @@ Jahren zu betrachten.
 
 
 ### § 17 Vorlagefristen
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE001900000)
 
 (1) Spätestens vier Monate nach dem Ende des Beobachtungszeitraumes
 hat das Versicherungsunternehmen die kommentierte Gegenüberstellung
@@ -648,9 +669,11 @@ Monate nach Abschluss des Beobachtungszeitraumes vorzulegen.
 
 
 ## Kapitel 4 - Alterungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNG000400000)
 
 
 ### § 18 Alterungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002000000)
 
 Bei der Berechnung der Alterungsrückstellung nach § 341f des
 Handelsgesetzbuchs und § 25 Absatz 5 der Versicherungsunternehmens-
@@ -665,6 +688,7 @@ abgerundet werden, verwendet wird.
 
 
 ### § 19 Ermittlung des Überzinses
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002100000)
 
 (1) Zur Ermittlung des Überzinses, den ein Versicherungsunternehmen
 bei der nach Art der Lebensversicherung betriebenen Krankheitskosten-
@@ -688,6 +712,7 @@ der Verteilung zugrunde zu legen.
 
 
 ### § 20 Verteilung der Direktgutschrift
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002200000)
 
 (1) Spätestens zum jeweiligen Bilanzstichtag ist, getrennt für jede
 Bestandsgruppe mit einheitlicher rechnungsmäßiger Verzinsung, der
@@ -715,6 +740,7 @@ Prämienermäßigung zu verwenden.
 
 
 ### § 21 Verteilung des Betrages nach § 150 Absatz 4 des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002300000)
 
 (1) Der nach § 150 Absatz 4 Satz 1 des Versicherungsaufsichtsgesetzes
 errechnete verbleibende Teilbetrag ist auf die Tarife, die zu den in §
@@ -755,6 +781,7 @@ Versicherten gutzuschreiben.
 
 
 ### § 22 Mindestzuführung zur Rückstellung für erfolgsabhängige Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002402118)
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung müssen die
 Versicherungsunternehmen in der nach Art der Lebensversicherung
@@ -894,9 +921,11 @@ bleibt unberührt.
 
 
 ## Kapitel 5 - Mitteilungspflichten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNG000500000)
 
 
 ### § 23 Mitteilungspflichten von Daten zu den Versicherungsbeständen
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002500000)
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die private
 Krankenversicherung betreiben, haben der Bundesanstalt anhand der
@@ -1012,6 +1041,7 @@ Absatz 1 befreit.
 
 
 ### § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002600000)
 
 Ordnungswidrig im Sinne des § 332 Absatz 3 Nummer 5 des
 Versicherungsaufsichtsgesetzes handelt, wer vorsätzlich oder
@@ -1021,9 +1051,11 @@ rechtzeitig vorlegt.
 
 
 ## Kapitel 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNG000600000)
 
 
 ### § 25 Leistungen wegen Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002701118)
 
 Als Leistungen wegen Schwangerschaft und Mutterschaft sind diejenigen
 Leistungen anzusehen, die
@@ -1043,6 +1075,7 @@ Zusammenhang mit Schwangerschaft und Mutterschaft gestanden haben.
 
 
 ### § 26 Ausnahmevorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002800000)
 
 Diese Verordnung findet mit Ausnahme der Regelung der § 5 Absatz 2, §
 14 Absatz 6, § 22 Absatz 2 und 4 bis 7 sowie § 23 Absatz 1 Nummer 2
@@ -1050,6 +1083,7 @@ Buchstabe f und g keine Anwendung auf die Pflegepflichtversicherung.
 
 
 ### § 27 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE002901118)
 
 (1) Für die vor dem 1. Juli 1994 aufsichtsbehördlich genehmigten
 Tarife bestimmt sich die Bildung von Altersgruppen in den
@@ -1110,12 +1144,14 @@ geltenden Fassung anzuwenden.
 
 
 ### § 28 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE003000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5)
 
 ### Anlage 1 Prämienberechnung nach § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE003100000)
 
 (Fundstelle: BGBl. I 2016,790 - 791)
 
@@ -1244,6 +1280,7 @@ oder der Umstufung sind zulässig.
 (zu § 15 Absatz 2 und 3)
 
 ### Anlage 2 Berechnung des Grundkopfschadens und der erforderlichen Versicherungsleistungen nach § 15 Absatz 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/kvav/BJNR078000016.html#BJNR078000016BJNE003200000)
 
 (Fundstelle: BGBl. I 2016, 792)
 

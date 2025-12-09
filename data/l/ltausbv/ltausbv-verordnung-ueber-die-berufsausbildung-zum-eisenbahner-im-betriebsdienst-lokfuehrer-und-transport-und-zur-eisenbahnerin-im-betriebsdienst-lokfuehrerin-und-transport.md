@@ -25,9 +25,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000200000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Eisenbahners im
 Betriebsdienst Lokführer und Transport und der Eisenbahnerin im
@@ -36,11 +38,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000400000)
 
 (1) Abweichungen im Sinne dieser Verordnung sind alle Änderungen der
 Planung des Eisenbahnbetriebs, wie zum Beispiel ein Gleiswechsel oder
@@ -61,6 +65,7 @@ eine Bremsprobe oder eine Wagenprüfung.
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -81,6 +86,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -197,6 +203,7 @@ erfolgt.
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -204,9 +211,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNG000200000)
 
 
 ### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -222,6 +231,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 8 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -238,6 +248,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 „Gesamtsystem Eisenbahn und Zugvorbereitung“ statt.
@@ -310,6 +321,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 10 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -331,6 +343,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -352,6 +365,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich „Prüfen von Triebfahrzeugen“
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001300000)
 
 (1) Im Prüfungsbereich „Prüfen von Triebfahrzeugen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -380,6 +394,7 @@ Fachgespräch dauert höchsten 10 Minuten.
 
 
 ### § 13 Prüfungsbereich „Zug- und Rangierfahrten durchführen“
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001400000)
 
 (1) Im Prüfungsbereich „Zug- und Rangierfahrten durchführen“ besteht
 die Prüfung aus zwei Teilen.
@@ -492,6 +507,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 14 Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei Abweichungen und Störungen“
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001500000)
 
 (1) Im Prüfungsbereich „Eisenbahnbetrieb im Regelbetrieb sowie bei
 Abweichungen und Störungen“ hat der Prüfling nachzuweisen, dass er in
@@ -527,6 +543,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001600000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -540,6 +557,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -632,6 +650,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -670,9 +689,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNG000300000)
 
 
 ### § 18 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE001900000)
 
 Eine erfolgreich abgeschlossene Berufsausbildung zum Eisenbahner in
 der Zugverkehrssteuerung und zur Eisenbahnerin in der
@@ -685,6 +706,7 @@ Transport anzurechnen, wenn die Vertragsparteien dies vereinbaren.
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst Lokführer und Transport und zur Eisenbahnerin im Betriebsdienst Lokführerin und Transport
+[Direktlink](https://www.gesetze-im-internet.de/ltausbv/BJNR043310022.html#BJNR043310022BJNE002000000)
 
 (Fundstelle: BGBl. I 2022, 438 - 446)
 

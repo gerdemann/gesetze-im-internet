@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000200000)
 
 (1) Diese Verordnung regelt die Allgemeinen Bedingungen, zu denen
 Netzbetreiber nach § 18 Abs. 1 des Energiewirtschaftsgesetzes
@@ -56,6 +58,7 @@ Elektrizitätsversorgungsnetzes der allgemeinen Versorgung im Sinne des
 
 
 ### § 2 Netzanschlussverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000301377)
 
 (1) Das Netzanschlussverhältnis umfasst den Anschluss der elektrischen
 Anlage über den Netzanschluss und dessen weiteren Betrieb. Es besteht
@@ -95,6 +98,7 @@ hinzuweisen.
 
 
 ### § 3 Anschlussnutzungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000400000)
 
 (1) Inhalt der Anschlussnutzung ist das Recht zur Nutzung des
 Netzanschlusses zur Entnahme von Elektrizität. Die Anschlussnutzung
@@ -135,6 +139,7 @@ Netzbetreibers nach § 18 hinzuweisen.
 
 
 ### § 4 Inhalt des Vertrages und der Bestätigung des Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000501377)
 
 (1) Der Netzanschlussvertrag und die Bestätigung des Netzbetreibers in
 Textform nach § 2 Abs. 5 Satz 1 und § 3 Abs. 3 Satz 2 sollen eine
@@ -183,10 +188,12 @@ Internetseite zu veröffentlichen.
 
 
 ## Teil 2 - Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000200000)
 
 
 
 ### § 5 Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000600000)
 
 Der Netzanschluss verbindet das Elektrizitätsversorgungsnetz der
 allgemeinen Versorgung mit der elektrischen Anlage des
@@ -198,6 +205,7 @@ Netzanschluss anzuwenden.
 
 
 ### § 6 Herstellung des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000703126)
 
 (1) Netzanschlüsse werden durch den Netzbetreiber hergestellt. Die
 Herstellung des Netzanschlusses soll vom Anschlussnehmer in Textform
@@ -246,6 +254,7 @@ November 2000)\*) eingehalten sind.
 
 
 ### § 7 Art des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000800000)
 
 Die Spannung beträgt am Ende des Netzanschlusses bei Drehstrom etwa
 400 oder 230 Volt und bei Wechselstrom etwa 230 Volt. Die Frequenz
@@ -258,6 +267,7 @@ jeweiligen technischen Möglichkeiten angemessen zu berücksichtigen.
 
 
 ### § 8 Betrieb des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE000900000)
 
 (1) Netzanschlüsse gehören zu den Betriebsanlagen des Netzbetreibers.
 Er hat sicherzustellen, dass sie in seinem Eigentum stehen oder ihm
@@ -279,6 +289,7 @@ Netzbetreiber bestimmt.
 
 
 ### § 9 Kostenerstattung für die Herstellung oder Änderung des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001000000)
 
 (1) Der Netzbetreiber ist berechtigt, vom Anschlussnehmer die
 Erstattung der bei wirtschaftlich effizienter Betriebsführung
@@ -318,6 +329,7 @@ zu viel gezahlten Betrag zu erstatten.
 
 
 ### § 10 Transformatorenanlage
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001101308)
 
 (1) Muss zum Netzanschluss eines Grundstücks eine besondere
 Transformatorenanlage aufgestellt werden, so kann der Netzbetreiber
@@ -341,6 +353,7 @@ Anlage ausschließlich dem Netzanschluss des Grundstücks dient.
 
 
 ### § 11 Baukostenzuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001200000)
 
 (1) Der Netzbetreiber kann von dem Anschlussnehmer einen angemessenen
 Baukostenzuschuss zur teilweisen Deckung der bei wirtschaftlich
@@ -379,6 +392,7 @@ aufgegliedert auszuweisen.
 
 
 ### § 12 Grundstücksbenutzung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001300000)
 
 (1) Anschlussnehmer, die Grundstückseigentümer sind, haben für Zwecke
 der örtlichen Versorgung (Niederspannungs- und Mittelspannungsnetz)
@@ -430,6 +444,7 @@ sind.
 
 
 ### § 13 Elektrische Anlage
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001401310)
 
 (1) Für die ordnungsgemäße Errichtung, Erweiterung, Änderung und
 Instandhaltung der elektrischen Anlage hinter der
@@ -486,6 +501,7 @@ der vorgeschalteten Sicherung nicht mehr als 0,5 vom Hundert betragen.
 
 
 ### § 14 Inbetriebsetzung der elektrischen Anlage
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001500000)
 
 (1) Der Netzbetreiber oder dessen Beauftragter hat die Anlage über den
 Netzanschluss an das Verteilernetz anzuschließen und den Netzanschluss
@@ -513,6 +529,7 @@ Berechnungsverfahrens einfach nachvollziehen kann.
 
 
 ### § 15 Überprüfung der elektrischen Anlage
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001600000)
 
 (1) Der Netzbetreiber ist berechtigt, die Anlage vor und, um
 unzulässige Rückwirkungen auf Einrichtungen des Netzbetreibers oder
@@ -534,10 +551,12 @@ Leib oder Leben darstellen.
 
 
 ## Teil 3 - Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000300000)
 
 
 
 ### § 16 Nutzung des Anschlusses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001701118)
 
 (1) Der Netzbetreiber ist bei Bestehen eines
 Anschlussnutzungsverhältnisses verpflichtet, dem Anschlussnutzer in
@@ -568,6 +587,7 @@ entsprechend.
 
 
 ### § 17 Unterbrechung der Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001802118)
 
 (1) Die Anschlussnutzung kann unterbrochen werden, soweit dies zur
 Vornahme betriebsnotwendiger Arbeiten oder zur Vermeidung eines
@@ -602,6 +622,7 @@ Grund die Unterbrechung vorgenommen worden ist.
 
 
 ### § 18 Haftung bei Störungen der Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE001900000)
 
 (1) Soweit der Netzbetreiber für Schäden, die ein Anschlussnutzer
 durch Unterbrechung oder durch Unregelmäßigkeiten in der
@@ -704,14 +725,17 @@ Unternehmen mitzuteilen.
 
 
 ## Teil 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000400000)
 
 
 
 ### Abschnitt 1 - Anlagenbetrieb und Rechte des Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000500000)
 
 
 
 #### § 19 Betrieb von elektrischen Anlagen, Verbrauchsgeräten und Ladeeinrichtungen, Eigenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002002126)
 
 (1) Anlage und Verbrauchsgeräte sind vom Anschlussnehmer oder -nutzer
 so zu betreiben, dass Störungen anderer Anschlussnehmer oder -nutzer
@@ -751,6 +775,7 @@ Formate und Anforderungen an Inhalte ab.
 
 
 #### § 20 Technische Anschlussbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002100000)
 
 Der Netzbetreiber ist berechtigt, in Form von Technischen
 Anschlussbedingungen weitere technische Anforderungen an den
@@ -767,6 +792,7 @@ Versorgung gefährden würde.
 
 
 #### § 21 Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002202118)
 
 Der Anschlussnehmer oder -nutzer hat nach vorheriger Benachrichtigung
 dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers oder
@@ -785,6 +811,7 @@ Benachrichtigung ist in den Fällen des § 24 Abs. 1 nicht erforderlich.
 
 
 #### § 22 Mess- und Steuereinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002302118)
 
 (1) Für Mess- und Steuereinrichtungen hat der Anschlussnehmer
 Zählerplätze nach den anerkannten Regeln der Technik unter Beachtung
@@ -818,10 +845,12 @@ Netzbetreiber und dem Messstellenbetreiber unverzüglich mitzuteilen.
 
 
 ### Abschnitt 2 - Fälligkeit, Folge von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000600000)
 
 
 
 #### § 23 Zahlung, Verzug
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002400000)
 
 (1) Rechnungen werden zu dem vom Netzbetreiber angegebenen Zeitpunkt,
 frühestens jedoch zwei Wochen nach Zugang der Zahlungsaufforderung
@@ -846,6 +875,7 @@ Gegenansprüchen aufgerechnet werden.
 
 
 #### § 24 Unterbrechung des Anschlusses und der Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002501118)
 
 (1) Der Netzbetreiber ist berechtigt, den Netzanschluss und die
 Anschlussnutzung ohne vorherige Androhung zu unterbrechen, wenn der
@@ -910,6 +940,7 @@ gestatten.
 
 
 #### § 25 Kündigung des Netzanschlussverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002602118)
 
 (1) Das Netzanschlussverhältnis kann mit einer Frist von einem Monat
 auf das Ende eines Kalendermonats gekündigt werden. Eine Kündigung
@@ -928,6 +959,7 @@ veröffentlichen.
 
 
 #### § 26 Beendigung des Anschlussnutzungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002700000)
 
 (1) Das Anschlussnutzungsverhältnis besteht, bis der Anschlussnutzer
 die Anschlussnutzung einstellt. Er ist verpflichtet, dies dem
@@ -939,6 +971,7 @@ Netzanschlussvertrages.
 
 
 #### § 27 Fristlose Kündigung oder Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002800000)
 
 Der Netzbetreiber ist in den Fällen des § 24 Abs. 1 berechtigt, das
 Netzanschlussverhältnis fristlos zu kündigen oder die Anschlussnutzung
@@ -950,16 +983,19 @@ angedroht wurde; § 24 Abs. 2 Satz 2 gilt entsprechend.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNG000700000)
 
 
 
 ### § 28 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE002900000)
 
 Gerichtsstand ist der Ort des Netzanschlusses und der
 Anschlussnutzung.
 
 
 ### § 29 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/nav/BJNR247710006.html#BJNR247710006BJNE003000000)
 
 (1) Der Netzbetreiber ist verpflichtet, die Anschlussnehmer durch
 öffentliche Bekanntgabe und Veröffentlichung im Internet über die

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000100307)
 
 Um nach Überwindung der deutschen Teilung auch die Abtrennung der
 Gebiete im ehemaligen Amt Neuhaus von der früheren preußischen Provinz
@@ -38,6 +39,7 @@ Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000200307)
 
 (1) Die Gemeinden Dellien, Haar, Kaarßen, Neuhaus (Elbe), Stapel,
 Sückau, Sumte und Tripkau sowie die Ortsteile Neu Bleckede, Neu
@@ -59,6 +61,7 @@ ist Bestandteil dieses Staatsvertrages.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000300307)
 
 (1) Das Land Niedersachsen verpflichtet sich, in Arbeitsverhältnisse
 von Angestellten und Arbeitern einzutreten, die zum Zeitpunkt des
@@ -91,6 +94,7 @@ schließen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000400307)
 
 Das Verwaltungsvermögen der Körperschaften des öffentlichen Rechts im
 Umgliederungsgebiet geht mit allen Rechten, Lasten und Verpflichtungen
@@ -105,6 +109,7 @@ bezeichnet.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000500307)
 
 Das der Naturparkverwaltung Elbetal in Tripkau zugeordnete
 Verwaltungsvermögen geht auf das Land Niedersachsen über. Die
@@ -115,6 +120,7 @@ Vereinbarungen geregelt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000600307)
 
 Das Land Niedersachsen gewährleistet, daß der Schutzstatus der im
 Umgliederungsgebiet vorhandenen naturschutzrechtlich geschützten Teile
@@ -123,6 +129,7 @@ erhalten bleibt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000700307)
 
 (1) Förderungen und Förderungsprogramme im Umgliederungsgebiet werden
 fortgeführt. Es bleibt der Prüfung und Abstimmung im Einzelfall
@@ -141,6 +148,7 @@ Gesetzes vom 16. Dezember 1992 (Nieders. GVBl. S. 339), entsprechen.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000800307)
 
 (1) Die Länder werden dafür Sorge tragen, daß die in der Folge der
 Umgliederung sich als notwendig erweisenden Regelungen möglichst
@@ -163,6 +171,7 @@ diese Frist im Einzelfall verlängern.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE000900307)
 
 (1) Die nach § 23 des Vermögensgesetzes in der Fassung vom 3. August
 1992 (BGBl. I S. 1446), im Land Mecklenburg-Vorpommern errichteten
@@ -180,6 +189,7 @@ einer Verwaltungsvereinbarung geregelt.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE001000307)
 
 Das Land Mecklenburg-Vorpommern zahlt im Jahre 1993 ab dem Tage des
 Inkrafttretens des Staatsvertrages monatlich den Betrag an das Land
@@ -191,6 +201,7 @@ monatlich bis zur Umgliederung im Jahre 1993 entfallen.
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE001100307)
 
 Auf die durch die Umgliederung betroffenen Zweigstellen kommunaler
 Sparkassen finden die §§ 36 bis 41 des Sparkassengesetzes für das Land
@@ -202,6 +213,7 @@ entscheiden.
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE001200307)
 
 (1) Der Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden werden ausgetauscht.
@@ -211,6 +223,7 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE001300307)
 
 
 *    *   Für das Land Mecklenburg-Vorpommern
@@ -231,12 +244,14 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Anlage zum Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE001400307)
 
    ( Inhalt: nicht darstellbare topographische Karte;
 Fundstelle: BGBl. I 1993, 1516 - 1517 )
 
 
 ## (XXXX) Protokollnotiz zum Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete nach Niedersachsen
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_mv_nd/BJNR151400993.html#BJNR151400993BJNE001500307)
 
 **Zu Artikel 2**
 Die Länder sind sich darüber einig, daß von den Bediensteten der

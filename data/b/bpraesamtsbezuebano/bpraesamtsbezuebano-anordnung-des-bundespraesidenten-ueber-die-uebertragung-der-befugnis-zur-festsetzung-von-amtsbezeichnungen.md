@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_samtsbez_bano/BJNR002520968.html#BJNR002520968BJNE000100303)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes übertrage ich die Befugnis
 zur Festsetzung der Amtsbezeichnung für den Leiter der Verwaltung des

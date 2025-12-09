@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## (XXXX) §§ 1 bis 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eurlv_ddr/DDNR003650978.html#DDNR003650978BJNE000100314)
 
 
 
 ## § 8 Erholungsurlaub für Kämpfer gegen den Faschismus und Verfolgte des Faschismus
+[Direktlink](https://www.gesetze-im-internet.de/eurlv_ddr/DDNR003650978.html#DDNR003650978BJNE000200314)
 
 Kämpfer gegen den Faschismus und Verfolgte des Faschismus erhalten
 einen jährlichen Erholungsurlaub von 27 Arbeitstagen. Alle Arten von
@@ -30,10 +32,12 @@ bei Vorliegen der Voraussetzungen zusätzlich gewährt.
 
 
 ## (XXXX) §§ 9 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eurlv_ddr/DDNR003650978.html#DDNR003650978BJNE000300314)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eurlv_ddr/DDNR003650978.html#DDNR003650978BJNE000400314)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

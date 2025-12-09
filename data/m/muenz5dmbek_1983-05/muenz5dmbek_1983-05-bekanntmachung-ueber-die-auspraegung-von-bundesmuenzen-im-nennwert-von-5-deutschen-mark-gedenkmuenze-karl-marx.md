@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1983-05/BJNR006110983.html#BJNR006110983BJNE000100307)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
 Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -77,11 +78,13 @@ Eichenblattornament mit zwei Eicheln eingeprägt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1983-05/BJNR006110983.html#BJNR006110983BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1983-05/BJNR006110983.html#BJNR006110983BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1983, 611

@@ -21,6 +21,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/telefinv_2025/BJNR19A0A0024.html#BJNR19A0A0024BJNE000100000)
 
 Auf Grund des § 316 Absatz 1 Satz 2 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 1 Nummer 31 des Gesetzes vom 14.
@@ -29,6 +30,7 @@ Bundesministerium für Gesundheit:
 
 
 ## § 1 Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/telefinv_2025/BJNR19A0A0024.html#BJNR19A0A0024BJNE000200000)
 
 Der Spitzenverband Bund der Krankenkassen zahlt an die Gesellschaft
 für Telematik zu deren Finanzierung für den Zeitraum vom 1. Januar
@@ -40,6 +42,7 @@ Krankenversicherung.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/telefinv_2025/BJNR19A0A0024.html#BJNR19A0A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 am 31. Dezember 2025 außer Kraft.

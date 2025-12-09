@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000100000)
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 1 und 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
@@ -30,6 +31,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Forstmaschinenführer/ zur Geprüften Forstmaschinenführerin
@@ -93,6 +95,7 @@ auszuführen und auf sich verändernde Rahmenbedingungen reagieren kann:
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -130,6 +133,7 @@ worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000400000)
 
 (1) Die Prüfung beinhaltet die Prüfungsteile
 
@@ -148,6 +152,7 @@ worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Prüfungsanforderungen im Prüfungsteil „Betriebsorganisation und umweltverträglicher Einsatz von Forsttechnik“
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000500000)
 
 (1) Der Prüfling soll nachweisen, dass er den umweltverträglichen
 Einsatz von Forstmaschinen vorbereiten und organisieren sowie dafür
@@ -227,6 +232,7 @@ schriftliche Arbeit stehen 120 Minuten zur Verfügung.
 
 
 ## § 5 Prüfungsanforderungen im Prüfungsteil „Fällen und Aufarbeiten bei der hochmechanisierten Holzernte“
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000600000)
 
 (1) Der Prüfling soll nachweisen, dass er das Fällen und Aufarbeiten
 von Holz mit Vollerntern unter fachgerechter Nutzung von Mess- und
@@ -281,6 +287,7 @@ soll das Prüfungsgespräch von höchstens 15 Minuten geführt werden.
 
 
 ## § 6 Prüfungsanforderungen im Prüfungsteil „Bringung von Holz, sonstige hochmechanisierte Verfahren“
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000700000)
 
 (1) Der Prüfling soll nachweisen, dass er das Rücken und Poltern von
 Lang- und Kurzholz mit Forstmaschinen qualitäts- und prozessorientiert
@@ -340,6 +347,7 @@ geführt werden.
 
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000800000)
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
 einzelner Prüfungsbestandteile nach § 3 Absatz 1 freistellen, wenn in
@@ -351,6 +359,7 @@ entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ## § 8 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE000900000)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den
 Prüfungsteil „Betriebsorganisation und umweltverträglicher Einsatz von
@@ -379,6 +388,7 @@ der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE001000000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -394,12 +404,14 @@ anmeldet.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 8 Absatz 4)
 
 ## Anlage 1 Muster
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE001200000)
 
 (Fundstelle: BGBl. I 2009, 2168)
 
@@ -460,6 +472,7 @@ bestanden.
 (zu § 8 Absatz 4)
 
 ## Anlage 2 Muster
+[Direktlink](https://www.gesetze-im-internet.de/fomaf_prv/BJNR216500009.html#BJNR216500009BJNE001300000)
 
 (Fundstelle: BGBl. I 2009, 2169)
 

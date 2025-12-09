@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beschneurg/BJNR038800999.html#BJNR038800999BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/beschneurg/BJNR038800999.html#BJNR038800999BJNE000200307)
 
 
 *    *   Artikel 1
@@ -125,9 +127,11 @@ beschlossen:
 
 
 ## (XXXX) Art 1 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beschneurg/BJNR038800999.html#BJNR038800999BJNE000300307)
 
 
 ## Art 17 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/beschneurg/BJNR038800999.html#BJNR038800999BJNE000400307)
 
 Die auf den Artikeln 11, 13 bis 16 beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
@@ -135,6 +139,7 @@ einschlägigen Ermächtigungen durch Rechtsverordnung geändert werden.
 
 
 ## Art 18 Bericht der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/beschneurg/BJNR038800999.html#BJNR038800999BJNE000500307)
 
 Die Bundesregierung berichtet den gesetzgebenden Körperschaften bis
 zum 31. März 2003 über die Auswirkungen dieses Gesetzes auf den
@@ -143,6 +148,7 @@ gibt gegebenenfalls Vorschläge für seine Weiterentwicklung ab.
 
 
 ## Art 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beschneurg/BJNR038800999.html#BJNR038800999BJNE000600307)
 
 Dieses Gesetz tritt am 1. April 1999 in Kraft.
 

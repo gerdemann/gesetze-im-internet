@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btepifortbestbek_2021-06/BJNR182400021.html#BJNR182400021BJNE000100000)
 
 Der Deutsche Bundestag hat in seiner 234. Sitzung am 11. Juni 2021 den
 Antrag auf Drucksache 19/30398 angenommen und damit folgenden
@@ -33,6 +34,7 @@ fortbesteht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btepifortbestbek_2021-06/BJNR182400021.html#BJNR182400021BJNE000200000)
 
 Bundesministerium für Gesundheit
 

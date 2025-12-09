@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000100328)
 
 Auf Grund des § 50 Abs. 2, der §§ 53 und 58 Abs. 1 Nr. 1 und 3 des
 Gesetzes über das Seelotswesen in der im Bundesgesetzblatt Teil III,
@@ -29,6 +30,7 @@ I S. 613), wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000200328)
 
 (1) Bewerber um eine Erlaubnis zur gewerbsmäßigen Ausübung der
 Tätigkeit eines Seelotsen über See (Überseelotse) oder auf einer
@@ -59,6 +61,7 @@ Ausnahmen von den Bestimmungen der Absätze 1 und 2 zulassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000300328)
 
 (1) Bewerber müssen die erforderlichen Kenntnisse der Fahrtstrecken
 oder Seegebiete, für die sie eine Erlaubnis beantragen, in einer
@@ -142,6 +145,7 @@ nachweist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000400328)
 
 (1) Das Ergebnis der Prüfung ist mit "bestanden" oder "nicht
 bestanden" zu bewerten. Es ist dem Bewerber im Anschluß an die
@@ -153,6 +157,7 @@ wiederholt werden, und zwar frühestens nach Ablauf eines Monats.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000500328)
 
 (1) Nach bestandener Prüfung ist dem Bewerber eine Erlaubnis zu
 erteilen. Die Erlaubnis kann mit Auflagen verbunden werden, durch die
@@ -167,6 +172,7 @@ vorzulegen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000603305)
 
 Entgelte für Leistungen der Seelotsen außerhalb der Reviere bedürfen
 der Genehmigung des Bundesministeriums für Verkehr und digitale
@@ -175,6 +181,7 @@ einem Vorbehalt des Widerrufs erteilt werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000701305)
 
 (1) Aufsichtsbehörde für Überseelotsen und für Seelotsen auf
 Seeschifffahrtsstraßen außerhalb der Reviere ist die Generaldirektion
@@ -184,6 +191,7 @@ Wasserstraßen und Schifffahrt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000800328)
 
 Vor dem Inkrafttreten dieser Verordnung erteilte Erlaubnisse zur
 gewerbsmäßigen Ausübung der Tätigkeit eines Seelotsen außerhalb der
@@ -192,6 +200,7 @@ gültig. Ein Umtausch der Ausweise ist möglich.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE000900328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit §
@@ -199,23 +208,27 @@ Verbindung mit §
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE001000328)
 
 Diese Verordnung tritt am 1. September 1978 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE001100328)
 
 Der Bundesminister für Verkehr
 
 (zu § 4 Abs. 1)
 
 ## Anlage 1 Ausweis für Überseelotsen
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE001201305)
 
 (Fundstelle: BGBl. I 1978, 1517)
 ![bgbl1_1978_j1517_0010.jpg](bgbl1_1978_j1517_0010.jpg)
 (zu § 4 Abs. 1)
 
 ## Anlage 2 Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
+[Direktlink](https://www.gesetze-im-internet.de/seelotrevierv_1978/BJNR015150978.html#BJNR015150978BJNE001301305)
 
 (Fundstelle: BGBl. I 1978, 1518)
 ![bgbl1_1978_j1518_0010.jpg](bgbl1_1978_j1518_0010.jpg)

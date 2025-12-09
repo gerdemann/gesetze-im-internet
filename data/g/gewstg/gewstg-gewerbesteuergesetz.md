@@ -23,15 +23,18 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000104301)
 
 
 
 ### § 1 Steuerberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001205301)
 
 Die Gemeinden erheben eine Gewerbesteuer als Gemeindesteuer.
 
 
 ### § 2 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001321123)
 
 (1)
 1Der Gewerbesteuer unterliegt jeder stehende Gewerbebetrieb, soweit er
@@ -145,6 +148,7 @@ haftenden Gesellschafter einer Kapitalgesellschaft zu behandeln.
 
 
 ### § 2a Arbeitsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001406301)
 
 1Als Gewerbebetrieb gilt nicht die Tätigkeit der
 Arbeitsgemeinschaften, deren alleiniger Zweck in der Erfüllung eines
@@ -154,6 +158,7 @@ anteilig als Betriebsstätten der Beteiligten.
 
 
 ### § 3 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001549123)
 
 Von der Gewerbesteuer sind befreit
 
@@ -472,6 +477,7 @@ Von der Gewerbesteuer sind befreit
 
 
 ### § 4 Hebeberechtigte Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001608377)
 
 (1)
 1Die stehenden Gewerbebetriebe unterliegen der Gewerbesteuer in der
@@ -504,6 +510,7 @@ Gemeinden, gilt Absatz 2 entsprechend.
 
 
 ### § 5 Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001707140)
 
 (1)
 1Steuerschuldner ist der Unternehmer.
@@ -526,15 +533,18 @@ von Satz 3 die Mitglieder Gesamtschuldner.
 
 
 ### § 6 Besteuerungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001806301)
 
 Besteuerungsgrundlage für die Gewerbesteuer ist der Gewerbeertrag.
 
 
 ## Abschnitt II - Bemessung der Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000205301)
 
 
 
 ### § 7 Gewerbeertrag
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE001915123)
 
 1Gewerbeertrag ist der nach den Vorschriften des
 Einkommensteuergesetzes oder des Körperschaftsteuergesetzes zu
@@ -591,6 +601,7 @@ Betriebsstätte erzielt.
 
 
 ### § 7a Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE005900377)
 
 (1)
 1Bei der Ermittlung des Gewerbeertrags einer Organgesellschaft ist § 9
@@ -624,6 +635,7 @@ Körperschaftsteuergesetzes entsprechend.
 
 
 ### § 7b Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE006002123)
 
 (1) Die §§ 3a und 3c Absatz 4 des Einkommensteuergesetzes sind
 vorbehaltlich der nachfolgenden Absätze bei der Ermittlung des
@@ -675,6 +687,7 @@ des Körperschaftsteuergesetzes entsprechend anzuwenden.
 
 
 ### § 8 Hinzurechnungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE002124123)
 
 Dem Gewinn aus Gewerbebetrieb (§ 7) werden folgende Beträge wieder
 hinzugerechnet, soweit sie bei der Ermittlung des Gewinns abgesetzt
@@ -826,11 +839,13 @@ worden sind:
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE005801301)
 
 (weggefallen)
 
 
 ### § 9 Kürzungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE006103123)
 
 Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
@@ -1146,6 +1161,7 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 
 ### § 10 Maßgebender Gewerbeertrag
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE002306301)
 
 (1) Maßgebend ist der Gewerbeertrag, der in dem Erhebungszeitraum
 bezogen worden ist, für den der Steuermessbetrag (§ 14) festgesetzt
@@ -1159,6 +1175,7 @@ Wirtschaftsjahr endet.
 
 
 ### § 10a Gewerbeverlust
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE002415123)
 
 1Der maßgebende Gewerbeertrag wird bis zu einem Betrag in Höhe von 1
 Million Euro um die Fehlbeträge gekürzt, die sich bei der Ermittlung
@@ -1223,6 +1240,7 @@ gilt § 8d Absatz 1 Satz 5 des Körperschaftsteuergesetzes entsprechend.
 
 
 ### § 11 Steuermesszahl und Steuermessbetrag
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE002523140)
 
 (1)
 1Bei der Berechnung der Gewerbesteuer ist von einem Steuermessbetrag
@@ -1260,18 +1278,22 @@ Absatzmarkt im Erhebungszeitraum 25 000 Euro nicht übersteigen.
 
 
 ## Abschnitt III - 
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000305301)
 
 
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE002615301)
 
 
 
 ## Abschnitt IV - Steuermessbetrag
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000405301)
 
 
 
 ### § 14 Festsetzung des Steuermessbetrags
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE002906301)
 
 1Der Steuermessbetrag wird für den Erhebungszeitraum nach dessen
 Ablauf festgesetzt.
@@ -1282,6 +1304,7 @@ der Steuerpflicht (abgekürzter Erhebungszeitraum).
 
 
 ### § 14a Steuererklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE005506123)
 
 1Der Steuerschuldner (§ 5) hat für steuerpflichtige Gewerbebetriebe
 eine Erklärung zur Festsetzung des Steuermessbetrags und in den Fällen
@@ -1296,6 +1319,7 @@ Personen eigenhändig zu unterschreiben.
 
 
 ### § 14b Verspätungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE005604301)
 
 1Ein nach § 152 der Abgabenordnung zu entrichtender
 Verspätungszuschlag fließt der Gemeinde zu.
@@ -1310,6 +1334,7 @@ anzuwenden.
 
 
 ### § 15 Pauschfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003005301)
 
 Wird die Einkommensteuer oder die Körperschaftsteuer in einem
 Pauschbetrag festgesetzt, so kann die für die Festsetzung zuständige
@@ -1319,10 +1344,12 @@ festsetzen.
 
 
 ## Abschnitt V - Entstehung, Festsetzung und Erhebung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000504301)
 
 
 
 ### § 16 Hebesatz
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003108140)
 
 (1) Die Steuer wird auf Grund des Steuermessbetrags (§ 14) mit einem
 Prozentsatz (Hebesatz) festgesetzt und erhoben, der von der
@@ -1360,11 +1387,13 @@ können, bleibt einer landesrechtlichen Regelung vorbehalten.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003204301)
 
 (weggefallen)
 
 
 ### § 18 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003404301)
 
 Die Gewerbesteuer entsteht, soweit es sich nicht um Vorauszahlungen (§
 21) handelt, mit Ablauf des Erhebungszeitraums, für den die
@@ -1372,6 +1401,7 @@ Festsetzung vorgenommen wird.
 
 
 ### § 19 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003511118)
 
 (1)
 1Der Steuerschuldner hat am 15. Februar, 15. Mai, 15. August und 15.
@@ -1414,6 +1444,7 @@ nach unten abzurunden.
 
 
 ### § 20 Abrechnung über die Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003605301)
 
 (1) Die für einen Erhebungszeitraum (§ 14) entrichteten
 Vorauszahlungen werden auf die Steuerschuld für diesen
@@ -1432,6 +1463,7 @@ Steuerbescheids durch Aufrechnung oder Zurückzahlung ausgeglichen.
 
 
 ### § 21 Entstehung der Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003704301)
 
 Die Vorauszahlungen auf die Gewerbesteuer entstehen mit Beginn des
 Kalendervierteljahrs, in dem die Vorauszahlungen zu entrichten sind,
@@ -1440,14 +1472,17 @@ begründet wird, mit Begründung der Steuerpflicht.
 
 
 ### (XXXX) §§ 22 bis 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE003904301)
 
 
 
 ## Abschnitt VI - Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000604301)
 
 
 
 ### § 28 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004008301)
 
 (1)
 1Sind im Erhebungszeitraum Betriebsstätten zur Ausübung des Gewerbes
@@ -1484,6 +1519,7 @@ oder der Steuermessbetrag entfallen würde.
 
 
 ### § 29 Zerlegungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004112123)
 
 (1) Zerlegungsmaßstab ist
 
@@ -1564,6 +1600,7 @@ volle 1 000 Euro abzurunden.
 
 
 ### § 30 Zerlegung bei mehrgemeindlichen Betriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004205301)
 
 Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der
 Steuermessbetrag oder Zerlegungsanteil auf die Gemeinden zu zerlegen,
@@ -1573,6 +1610,7 @@ Vorhandensein der Betriebsstätte erwachsenden Gemeindelasten.
 
 
 ### § 31 Begriff der Arbeitslöhne für die Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004311123)
 
 (1)
 1Arbeitslöhne sind vorbehaltlich der Absätze 2 bis 5 die Vergütungen
@@ -1603,11 +1641,13 @@ insgesamt 25.000 Euro jährlich anzusetzen.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004404301)
 
 (weggefallen)
 
 
 ### § 33 Zerlegung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004504301)
 
 (1)
 1Führt die Zerlegung nach den §§ 28 bis 31 zu einem offenbar
@@ -1622,6 +1662,7 @@ zerlegen.
 
 
 ### § 34 Kleinbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004607301)
 
 (1)
 1Übersteigt der Steuermessbetrag nicht den Betrag von 10 Euro, so ist
@@ -1650,15 +1691,18 @@ in der sich die Geschäftsleitung befindet.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004704301)
 
 (weggefallen)
 
 
 ## Abschnitt VII - Gewerbesteuer der Reisegewerbebetriebe
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000704301)
 
 
 
 ### § 35a
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004807140)
 
 (1) Der Gewerbesteuer unterliegen auch die Reisegewerbebetriebe,
 soweit sie im Inland betrieben werden.
@@ -1682,10 +1726,12 @@ zerlegen.
 
 
 ## Abschnitt VIII - Änderung des Gewerbesteuermessbescheids von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000804301)
 
 
 
 ### § 35b
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE004911140)
 
 (1)
 1Der Gewerbesteuermessbescheid oder Verlustfeststellungsbescheid ist
@@ -1723,10 +1769,12 @@ pflichtwidrig unterlassen hat.
 
 
 ## Abschnitt IX - Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG000904301)
 
 
 
 ### § 35c Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE005017123)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates
@@ -1830,10 +1878,12 @@ Unstimmigkeiten im Wortlaut zu beseitigen.
 
 
 ## Abschnitt X - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNG001004301)
 
 
 
 ### § 36 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE006206123)
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
@@ -1942,6 +1992,7 @@ S. 2451) ist erstmals für den Erhebungszeitraum 2018 anzuwenden.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gewstg/BJNR009790936.html#BJNR009790936BJNE005410301)
 
 (weggefallen)
 

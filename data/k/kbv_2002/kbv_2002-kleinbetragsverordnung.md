@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Änderung oder Berichtigung von Steuerfestsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kbv_2002/BJNR180500000.html#BJNR180500000BJNE000101377)
 
 (1) Festsetzungen der
 
@@ -64,6 +65,7 @@ gilt Absatz 2 entsprechend.
 
 
 ## § 2 Änderung oder Berichtigung der Festsetzung eines Gewerbesteuermessbetrages
+[Direktlink](https://www.gesetze-im-internet.de/kbv_2002/BJNR180500000.html#BJNR180500000BJNE000201377)
 
 Die Festsetzung eines Gewerbesteuermessbetrages wird nur geändert oder
 berichtigt, wenn die Abweichung von der bisherigen Festsetzung bei
@@ -73,6 +75,7 @@ des Steuerpflichtigen mindestens 5 Euro beträgt.
 
 
 ## § 3 Änderung oder Berichtigung der gesonderten Feststellung von Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/kbv_2002/BJNR180500000.html#BJNR180500000BJNE000301377)
 
 (1) Bei gesonderten und einheitlichen Feststellungen von Einkünften
 wird die Feststellung zur Höhe der Einkünfte nur geändert oder
@@ -86,12 +89,14 @@ Einkünfte um mindestens 25 Euro ermäßigen oder erhöhen.
 
 
 ## § 4 Rückforderung von Wohnungsbauprämien
+[Direktlink](https://www.gesetze-im-internet.de/kbv_2002/BJNR180500000.html#BJNR180500000BJNE000501377)
 
 Wohnungsbauprämien werden nur zurückgefordert, wenn die Rückforderung
 mindestens 25 Euro beträgt.
 
 
 ## § 5 Kraftfahrzeugsteuer bei Beendigung der Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kbv_2002/BJNR180500000.html#BJNR180500000BJNE000601377)
 
 Bei Beendigung der Kraftfahrzeugsteuerpflicht wird die Steuer für den
 Entrichtungszeitraum, in den das Ende der Steuerpflicht fällt, auf

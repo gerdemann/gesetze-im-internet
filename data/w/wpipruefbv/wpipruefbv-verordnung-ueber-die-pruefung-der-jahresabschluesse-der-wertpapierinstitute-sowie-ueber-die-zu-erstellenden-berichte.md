@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000100000)
 
 Auf Grund des § 78 Absatz 6 des Wertpapierinstitutsgesetzes vom 12.
 Mai 2021 (BGBl. I S. 990) in Verbindung mit § 1d Nummer 1 der
@@ -41,9 +42,11 @@ der Deutschen Bundesbank:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -63,6 +66,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000400000)
 
 (1) Der Zeitraum, auf den sich die Prüfung erstreckt
 (Berichtszeitraum), ist in der Regel das am Stichtag des
@@ -81,6 +85,7 @@ Abschlussstichtag zu beziehen.
 
 
 ### § 3 Risikoorientierung und Wesentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000500000)
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit
 ist Rechnung zu tragen. Dabei sind insbesondere die Größe der
@@ -89,6 +94,7 @@ Risikogehalt der betriebenen Geschäfte zu berücksichtigen.
 
 
 ### § 4 Art und Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000600000)
 
 (1) Der Umfang der Berichterstattung hat, vorbehaltlich der
 nachfolgenden Bestimmungen, der Bedeutung und dem Risikogehalt der
@@ -142,6 +148,7 @@ Regelungen treffen.
 
 
 ### § 5 Form und Frist der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000700000)
 
 Jeder Prüfungsbericht und jeder Teilprüfungsbericht ist unverzüglich
 nach Fertigstellung bei der Bundesanstalt sowie der Deutschen
@@ -152,6 +159,7 @@ bereitgestellten elektronischen Verfahren zu erfolgen.
 
 
 ### § 6 Prüfungsfeststellungen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000800000)
 
 (1) Prüfungsfeststellungen sind entsprechend ihren Auswirkungen auf
 die Ordnungsmäßigkeit der Geschäftstätigkeit, die Risiken nach § 45
@@ -197,6 +205,7 @@ festgestellten Mängel nach Anlage 4 beizufügen.
 
 
 ### § 7 Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE000900000)
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung
 geforderten Angaben erstellt werden, können diese zur besseren
@@ -207,6 +216,7 @@ den Prüfungsbericht nicht unübersichtlich macht.
 
 
 ### § 8 Zusammenfassende Schlussbemerkung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001000000)
 
 (1) In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht
 bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach §
@@ -248,6 +258,7 @@ Prüfung ergeben haben.
 
 
 ### § 9 Berichtsturnus
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001100000)
 
 Soweit der Prüfer nach dieser Verordnung verpflichtet ist, nur über
 Änderungen zu berichten, hat der Prüfer in angemessenen Abständen über
@@ -258,9 +269,11 @@ vollständiger Bericht.
 
 
 ## Abschnitt 2 - Allgemeine Angaben zum Wertpapierinstitut
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000200000)
 
 
 ### § 10 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001200000)
 
 (1) Es ist zu berichten über die Ausschöpfung und Überschreitung der
 Erlaubnis zur Erbringung von Wertpapierdienstleistungen,
@@ -350,6 +363,7 @@ eingehalten werden.
 
 
 ### § 11 Zweigniederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001300000)
 
 Der Prüfer hat über die ausländischen Zweigniederlassungen des
 Wertpapierinstituts zu berichten. Dabei sind für diese
@@ -370,12 +384,15 @@ Zweigniederlassungen zu beurteilen:
 
 
 ## Abschnitt 3 - Aufsichtliche Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000300000)
 
 
 ### Unterabschnitt 1 - Risikomanagement, Geschäftsorganisation und Handelsbuch
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000400000)
 
 
 #### § 12 Angemessenheit und Zweckdienlichkeit der Regelungen für die Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001400000)
 
 (1) Der Prüfer hat die Angemessenheit und Zweckdienlichkeit der
 Regelungen für die Unternehmensführung nach § 41 des
@@ -469,6 +486,7 @@ Wertpapierinstitut ausgesetzt ist oder ausgesetzt sein könnte.
 
 
 #### § 13 Hinweisgebersystem
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001500000)
 
 Der Prüfer hat zu beurteilen, ob
 
@@ -487,6 +505,7 @@ Der Prüfer hat zu beurteilen, ob
 
 
 #### § 14 Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001600000)
 
 Der Prüfer hat die Angemessenheit und die Transparenz der
 Vergütungssysteme des Wertpapierinstituts sowie die Ausrichtung auf
@@ -522,6 +541,7 @@ insbesondere zu beurteilen und darüber zu berichten, ob
 
 
 #### § 15 IT-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001700000)
 
 (1) Der Prüfer hat im Rahmen der Beurteilung nach § 12 Absatz 2 Nummer
 7 darzustellen, ob die organisatorischen, personellen und technischen
@@ -541,6 +561,7 @@ Einbindung in das berichtspflichtige Wertpapierinstitut.
 
 
 #### § 16 Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001800000)
 
 Im Rahmen der Prüfung nach § 78 Absatz 1 Satz 5 und 6 des
 Wertpapierinstitutsgesetzes ist gegebenenfalls zu beurteilen, ob der
@@ -612,6 +633,7 @@ prüfen. Insbesondere hat der Prüfer zu beurteilen:
 
 
 #### § 17 Vorgaben für das Handelsbuch
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE001900000)
 
 Es ist zu beurteilen, ob das Wertpapierinstitut nach Artikel 21 Absatz
 2 der Verordnung (EU) 2019/2033 des Europäischen Parlaments und des
@@ -635,9 +657,11 @@ die Führung des Handelsbuchs, erfüllt hat.
 
 
 ### Unterabschnitt 2 - Eigenmittel, Eigenmittelzusammensetzung und Liquiditätslage
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000500000)
 
 
 #### § 18 Ermittlung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002000000)
 
 (1) Es ist zu beurteilen, ob die von dem Wertpapierinstitut
 getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung des harten
@@ -666,6 +690,7 @@ ist jeweils gesondert zu beurteilen die korrekte Berechnung
 
 
 #### § 19 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002100000)
 
 (1) Darzustellen sind die Höhe und die Zusammensetzung der Eigenmittel
 des Wertpapierinstituts nach Artikel 9 der Verordnung (EU) 2019/2033
@@ -716,6 +741,7 @@ Verordnung (EU) Nr. 575/2013, erfüllt.
 
 
 #### § 20 Kredite an bestimmte Personen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002200000)
 
 Stets zu prüfen und darzustellen sind die nach § 64 Absatz 1 Nummer 12
 des Wertpapierinstitutsgesetzes anzuzeigenden Kredite. Der Prüfer hat
@@ -724,6 +750,7 @@ prüfen und darzustellen.
 
 
 #### § 21 Kleine und nicht verflochtene Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002300000)
 
 Die Einstufung eines Wertpapierinstituts als Kleines und nicht
 verflochtenes Wertpapierinstitut nach Artikel 12 der Verordnung (EU)
@@ -731,6 +758,7 @@ verflochtenes Wertpapierinstitut nach Artikel 12 der Verordnung (EU)
 
 
 #### § 22 Liquiditätslage
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002400000)
 
 (1) Die Liquiditätslage und die Liquiditätssteuerung sind zu
 beurteilen. Über Maßnahmen zur Verbesserung der Liquiditätslage ist zu
@@ -743,9 +771,11 @@ einzugehen.
 
 
 ### Unterabschnitt 3 - Offenlegung, Anzeigewesen und Ausnahmen für gruppenangehörige Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000600000)
 
 
 #### § 23 Offenlegungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002500000)
 
 Der Prüfer hat die Angemessenheit der Prozesse zur Ermittlung und
 Offenlegung der Informationen nach Teil 6 der Verordnung (EU)
@@ -757,6 +787,7 @@ hat.
 
 
 #### § 24 Anzeigewesen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002600000)
 
 Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Die
 Vorkehrungen des Wertpapierinstituts für die Sicherstellung der
@@ -765,6 +796,7 @@ beurteilen. Festgestellte Verstöße sind aufzuführen.
 
 
 #### § 25 Ausnahmen für gruppenangehörige Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002700000)
 
 (1) Auf gruppenangehörige Unternehmen von Wertpapierinstitutsgruppen,
 die die Bundesanstalt nach Artikel 6 der Verordnung (EU) 2019/2033
@@ -776,9 +808,11 @@ Artikel 6 der Verordnung (EU) 2019/2033 vorliegen.
 
 
 ## Abschnitt 4 - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von strafbaren Handlungen nach § 33 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000700000)
 
 
 ### § 26 Zeitpunkt der Prüfung und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002800000)
 
 (1) Die Prüfung der Vorkehrungen des Wertpapierinstituts, der
 Investmentholdinggesellschaft oder der gemischten
@@ -817,6 +851,7 @@ Wertpapierinstituts erfordert ein kürzeres Prüfintervall.
 
 
 ### § 27 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung und von strafbaren Handlungen nach § 33 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE002900000)
 
 (1) Der Prüfer hat im Prüfungsbericht die Vorkehrungen darzustellen,
 die das nach dem Geldwäschegesetz oder nach den §§ 34, 35 und 37 des
@@ -1014,9 +1049,11 @@ die vorstehenden Absätze unberührt.
 
 
 ## Abschnitt 5 - Angaben zu bestimmten Risiken
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000800000)
 
 
 ### § 28 Länderrisiko
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003000000)
 
 Der Umfang der von dem Wertpapierinstitut eingegangenen Länderrisiken
 insgesamt sowie die Methode zu ihrer Steuerung und Überwachung sind
@@ -1026,6 +1063,7 @@ von geeigneten Analysen erfolgt.
 
 
 ### § 29 Wertpapierdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003100000)
 
 Vergibt das Wertpapierinstitut Darlehen im Sinne von § 2 Absatz 3
 Nummer 2 des Wertpapierinstitutsgesetzes zum Zwecke des
@@ -1043,6 +1081,7 @@ Abschlussstichtag zu berichten über
 
 
 ### § 30 Einhaltung der Pflichten aus Derivategeschäften nach den Verordnungen (EU) Nr. 648/2012 und (EU) Nr. 600/2014
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003200000)
 
 (1) Der Prüfer hat die Verfahren zur Ermittlung aller OTC-Derivate-
 Kontrakte, die der Pflicht zum Clearing durch eine zentrale
@@ -1163,9 +1202,11 @@ hat der Prüfer hierüber zu berichten.
 
 
 ## Abschnitt 6 - Abschlussorientierte Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG000900000)
 
 
 ### § 31 Geschäftliche Entwicklung im Berichtsjahr
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003300000)
 
 Die geschäftliche Entwicklung des Wertpapierinstituts ist für jede
 erbrachte Wertpapierdienstleistung und Wertpapiernebendienstleistung
@@ -1177,6 +1218,7 @@ Volumina vermittelter Finanzinstrumente.
 
 
 ### § 32 Entwicklung der Vermögenslage
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003400000)
 
 (1) Die Entwicklung der Vermögenslage des Wertpapierinstituts ist zu
 beurteilen. Besonderheiten, die für die Beurteilung der Vermögenslage
@@ -1206,6 +1248,7 @@ Ansprüche und Verpflichtungen, sind hervorzuheben.
 
 
 ### § 33 Entwicklung der Ertragslage
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003500000)
 
 (1) Die Entwicklung der Ertragslage des Wertpapierinstituts ist zu
 beurteilen.
@@ -1220,6 +1263,7 @@ Ertragslage sind darzustellen.
 
 
 ### § 34 Risikolage und Risikovorsorge
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003600000)
 
 (1) Die Risikolage und die Risikotragfähigkeit des Wertpapierinstituts
 sind zu beurteilen.
@@ -1238,6 +1282,7 @@ Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
 
 ### § 35 Erläuterungen zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003700000)
 
 Die Bilanzposten, die Angaben unter dem Bilanzstrich und die Posten
 der Gewinn- und Verlustrechnung sind unter Berücksichtigung des
@@ -1246,9 +1291,11 @@ mit den Vorjahreszahlen zu vergleichen.
 
 
 ## Abschnitt 7 - Angaben zu Wertpapierinstitutsgruppen und Finanzkonglomeraten
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG001000000)
 
 
 ### § 36 Regelungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003800000)
 
 (1) Dieser Abschnitt ist anzuwenden auf Wertpapierinstitutsgruppen im
 Sinne von § 2 Absatz 25 des Wertpapierinstitutsgesetzes.
@@ -1258,6 +1305,7 @@ Wertpapierinstitutsgesetzes zu erfolgen.
 
 
 ### § 37 Berichterstattung zu Gruppen und Konsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE003900000)
 
 (1) Der Prüfer hat nach § 78 Absatz 5 Satz 1 Nummer 1 des
 Wertpapierinstitutsgesetzes zu prüfen und darüber zu berichten, ob die
@@ -1276,6 +1324,7 @@ zutreffend abgegeben wurden.
 
 
 ### § 38 Zusätzliche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004000000)
 
 Vorbehaltlich des § 37 ist im Bericht über die Prüfung auf die
 Wertpapierinstitute, die die Bundesanstalt jeweils nach Artikel 6 der
@@ -1302,6 +1351,7 @@ Verordnung (EU) 2019/2033 freigestellt hat, zusätzlich einzugehen auf:
 
 
 ### § 39 Ergänzende Vorschriften für Unternehmen eines Finanzkonglomerats (§§ 17, 18, 23 und 25 des Finanzkonglomerate-Aufsichtsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004100000)
 
 (1) Bei übergeordneten Unternehmen eines Finanzkonglomerats im Sinne
 von § 12 des Finanzkonglomerate-Aufsichtsgesetzes ist darzustellen, ob
@@ -1318,9 +1368,11 @@ und 3 Satz 6 des Finanzkonglomerate-Aufsichtsgesetzes.
 
 
 ## Abschnitt 8 - Datenübersicht und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNG001100000)
 
 
 ### § 40 Datenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004200000)
 
 Die auf das jeweilige Wertpapierinstitut anwendbaren Formblätter in
 den Anlagen 1 bis 4 sind vollständig auszufüllen und dem
@@ -1329,11 +1381,13 @@ die entsprechenden Vorjahresdaten zu ergänzen.
 
 
 ### § 41 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 (zu § 40)
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 350, S. 17 - 19)
 
@@ -2097,6 +2151,7 @@ Verbindlichkeiten anzugeben.
 [^F828184_08_BJNR15E0A0023BJNE004400000]: 
 
 ### Anlage 2 (zu § 40)
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 350, S. 20)
 
@@ -2192,6 +2247,7 @@ Wertpapierinstitut:
 
 
 ### Anlage 3 (zu §§ 27, 40)
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004600000)
 
    (Fundstelle: BGBl. 2023 I Nr. 350, S. 21 - 23)
 
@@ -2798,6 +2854,7 @@ vollständigen Risikoanalyse des Wertpapierinstituts (§ 27 Absatz 7)**
 
 
 ### Anlage 4 (zu §§ 6, 40)
+[Direktlink](https://www.gesetze-im-internet.de/wpipr_fbv/BJNR15E0A0023.html#BJNR15E0A0023BJNE004700000)
 
    (Fundstelle: BGBl. 2023 I Nr. 350, S. 24)
 

@@ -47,16 +47,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/plansig/BJNR104100020.html#BJNR104100020BJNE000101116)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) §§ 1 bis 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/plansig/BJNR104100020.html#BJNR104100020BJNE000209360)
 
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/plansig/BJNR104100020.html#BJNR104100020BJNE000703360)
 
 (1) Die Regelungen dieses Gesetzes sind auch auf bereits vor
 Inkrafttreten dieses Gesetzes begonnene, aber noch nicht
@@ -83,6 +86,7 @@ Bekanntmachung erfüllt ist.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/plansig/BJNR104100020.html#BJNR104100020BJNE000804360)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

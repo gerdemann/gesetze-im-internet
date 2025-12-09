@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## -
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000100301)
 
 Für die Errichtung der Währungsunion und die Währungsumstellung gelten
 gemäß Artikel 3 Satz 1 des Vertrags die nachfolgend aufgeführten
@@ -29,15 +30,18 @@ vereinbarten Bestimmungen:
 
 
 ## 1. Abschnitt - Bestimmungen zur Einführung der Währung der Deutschen Mark in der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000200301)
 
 
 
 ### Art 1 - Einführung der Währung der Deutschen Mark
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000301311)
 
 (nicht mehr anzuwenden)
 
 
 ### Art 2 - Umbenennung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000400301)
 
 Wo in Gesetzen, Verordnungen, Anordnungen, gerichtlichen
 Entscheidungen, Verwaltungsakten, Verträgen und sonstigen
@@ -50,11 +54,13 @@ und Forderungen auf Deutsche Mark wird davon nicht berührt.
 
 
 ### Art 3 - Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000501307)
 
 (nicht mehr anzuwenden)
 
 
 ### Art 4 - Stundung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000600301)
 
 Alle auf Mark der Deutschen Demokratischen Republik lautenden
 Verbindlichkeiten werden ab Inkrafttreten dieser Bestimmung gemäß
@@ -62,11 +68,13 @@ Artikel 11 dieser Anlage bis zum Ablauf des 7. Juli 1990 gestundet.
 
 
 ## 2. Abschnitt - Währungsumstellung in der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000700301)
 
 
 Tag der Umstellung,
 
 ### Art 5 - Abwicklung über Konten bei Geldinstituten
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000801305)
 
 (1) Die am Tage des Inkrafttretens dieser Bestimmungen den in Absatz 3
 genannten Personen oder Stellen gehörenden, auf Mark der Deutschen
@@ -148,6 +156,7 @@ Deutsche Bundesbank von allen Anträgen zu unterrichten.
 
 
 ### Art 6 - Umstellung von Guthaben bei Geldinstituten
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG000900301)
 
 (1) Natürliche Personen mit Wohnsitz in der Deutschen Demokratischen
 Republik können bei einem für sie kontoführenden Geldinstitut
@@ -190,10 +199,12 @@ Deutschen Demokratischen Republik 1 Deutsche Mark gutgeschrieben wird.
 
 
 ### Art 7 - Umstellung von auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten und Forderungen auf Deutsche Mark, DM-Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001000301)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE001900301)
 
 (1) Vorbehaltlich der Regelungen in den Absätzen 2 und 3 werden alle
 auf Mark der Deutschen Demokratischen Republik lautende
@@ -232,6 +243,7 @@ Stellen aus Guthaben bei Geldinstituten gilt Artikel 6 dieser Anlage.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002000301)
 
 (1) Eine vor dem 1. Juli 1990 begründete Verbindlichkeit verliert
 nicht dadurch die Eigenschaft einer auf Mark der Deutschen
@@ -247,6 +259,7 @@ des Guthabens einzubeziehen, für das die Umstellung beantragt wurde.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002100301)
 
 (1) Die Deutsche Demokratische Republik wird innerhalb von drei
 Monaten nach Inkrafttreten dieses Vertrags ein Gesetz über die
@@ -296,10 +309,12 @@ f)  Grund und Boden sind zum aktuellen Verkehrswert zu bewerten.
 
 
 ### Art 8 - Besondere Vorschriften für Geldinstitute und Außenhandelsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001100301)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002200301)
 
 Für die Umstellung von auf Mark der Deutschen Demokratischen Republik
 lautenden Verbindlichkeiten und Forderungen von Geldinstituten mit
@@ -309,6 +324,7 @@ Demokratischen Republik gelten Artikel 7 § 1 und § 2 dieser Anlage.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002300301)
 
 (1) Die in § 1 bezeichneten Geldinstitute - ausgenommen die Staatsbank
 der Deutschen Demokratischen Republik - sind verpflichtet, die im
@@ -327,6 +343,7 @@ gutgeschrieben wird.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002400301)
 
 (1) Die in Mark der Deutschen Demokratischen Republik geführten Bücher
 der Geldinstitute sind auf den 30. Juni 1990 durch eine
@@ -364,6 +381,7 @@ Bundesbank zu erlassenden Regelungen und Anordnungen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002500301)
 
 (1) Den Geldinstituten und den Außenhandelsbetrieben wird, soweit ihre
 Vermögenswerte in Anwendung der Bewertungsvorschriften des Dritten
@@ -427,6 +445,7 @@ Absätze 3 und 4 gelten entsprechend.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002600301)
 
 Die zuständige Stelle der Bundesrepublik Deutschland kann nach
 Anhörung der Deutschen Bundesbank durch Rechtsverordnung das Nähere
@@ -436,12 +455,14 @@ Ausgleichsforderungen regeln.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNE002700301)
 
 Vor einer Bestätigung der Umstellungsrechnung sind Beschlüsse und
 Anordnungen über eine Gewinnverwendung nichtig.
 
 
 ### Art 9 - Überprüfung und Sperrung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001200301)
 
 Die Regierung der Deutschen Demokratischen Republik wird veranlassen,
 daß ihre zuständigen Organe der Strafverfolgung bei hinreichenden
@@ -451,6 +472,7 @@ Sperrung von Konten vornehmen.
 
 
 ### Art 10 - Ermächtigung zum Erlaß von Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001300301)
 
 (1) Die Deutsche Bundesbank wird ermächtigt, in Wahrung ihres
 gesetzlichen Auftrags die zur Durchführung der in diesem Vertrag
@@ -471,6 +493,7 @@ ein entgegenstehendes Grundrecht wird insoweit eingeschränkt.
 
 
 ### Art 11 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001400301)
 
 Die Bestimmungen zur Einführung der Währung der Deutschen Mark und zur
 Währungsumstellung in der Deutschen Demokratischen Republik treten am
@@ -478,10 +501,12 @@ Währungsumstellung in der Deutschen Demokratischen Republik treten am
 
 
 ## 3. Abschnitt - Zuständigkeiten und Befugnisse der Deutschen Bundesbank in der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001500301)
 
 
 
 ### Art 12 - Tätigkeit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001600301)
 
 Für die Tätigkeit der Deutschen Bundesbank als Währungs- und Notenbank
 des Währungsgebiets gelten nach Maßgabe des Gesetzes über die Deutsche
@@ -533,6 +558,7 @@ Bestimmungen:
 
 
 ### Art 13 - Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001700301)
 
 Die Deutsche Bundesbank arbeitet mit der Regierung der Deutschen
 Demokratischen Republik in Angelegenheiten von währungspolitischer
@@ -545,6 +571,7 @@ Wahrnehmung ihrer Aufgaben benötigt.
 
 
 ### Art 14 - Entsendung von Mitarbeitern
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_i/BJNR205489990.html#BJNR205489990BJNG001800301)
 
 (1) Die Deutsche Bundesbank ist berechtigt, Mitarbeiter zur
 Durchführung ihrer Aufgaben in die Deutsche Demokratische Republik zu

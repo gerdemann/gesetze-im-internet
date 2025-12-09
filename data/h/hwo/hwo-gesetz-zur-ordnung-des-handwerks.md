@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000102377)
 
 
 
 ### Erster Abschnitt - Berechtigung zum selbständigen Betrieb eines zulassungspflichtigen Handwerks
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000202377)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE002809123)
 
 (1) Der selbständige Betrieb eines zulassungspflichtigen Handwerks als
 stehendes Gewerbe ist nur den in der Handwerksrolle eingetragenen
@@ -72,6 +75,7 @@ wirtschaftliche Entwicklung erfordert.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE002902377)
 
 Die Vorschriften dieses Gesetzes für den selbständigen Betrieb eines
 zulassungspflichtigen Handwerks gelten auch
@@ -97,6 +101,7 @@ zulassungspflichtigen Handwerks gelten auch
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003003377)
 
 (1) Ein handwerklicher Nebenbetrieb im Sinne des § 2 Nr. 2 und 3 liegt
 vor, wenn in ihm Waren zum Absatz an Dritte handwerksmäßig hergestellt
@@ -140,6 +145,7 @@ eines zulassungspflichtigen Handwerks, wenn sie
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003104377)
 
 (1) Nach dem Tod des Inhabers eines Betriebs dürfen der Ehegatte, der
 Lebenspartner, der Erbe, der Testamentsvollstrecker,
@@ -158,6 +164,7 @@ Einsetzung eines anderen Betriebsleiters zu sorgen.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003203377)
 
 Wer ein Handwerk nach § 1 Abs. 1 betreibt, kann hierbei auch Arbeiten
 in anderen Handwerken nach § 1 Abs. 1 ausführen, wenn sie mit dem
@@ -166,6 +173,7 @@ zusammenhängen oder es wirtschaftlich ergänzen.
 
 
 #### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017006123)
 
 (1) Öffentliche Stellen, die in Verfahren auf Grund dieses Gesetzes zu
 beteiligen sind, werden über das Ergebnis unterrichtet, soweit dies
@@ -185,6 +193,7 @@ eines Abrufs im automatisierten Verfahren zu regeln.
 
 
 #### § 5b Verfahren über eine einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020700377)
 
 Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung können über eine
@@ -192,10 +201,12 @@ einheitliche Stelle abgewickelt werden.
 
 
 ### Zweiter Abschnitt - Handwerksrolle
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000301308)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003307116)
 
 (1) Die Handwerkskammer hat ein Verzeichnis zu führen, in welches die
 Inhaber von Betrieben zulassungspflichtiger Handwerke ihres Bezirks
@@ -251,6 +262,7 @@ die Datenschutzgesetze der Länder.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003412123)
 
 (1) Als Inhaber eines Betriebs eines zulassungspflichtigen Handwerks
 wird eine natürliche oder juristische Person oder eine
@@ -330,6 +342,7 @@ hatten, anzuwenden.
 
 
 #### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017102308)
 
 (1) Wer ein Handwerk nach § 1 betreibt, erhält eine
 Ausübungsberechtigung für ein anderes Gewerbe der Anlage A oder für
@@ -342,6 +355,7 @@ berücksichtigen.
 
 
 #### § 7b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018001360)
 
 (1) Eine Ausübungsberechtigung für zulassungspflichtige Handwerke,
 ausgenommen in den Fällen der Nummern 12 und 33 bis 37 der Anlage A,
@@ -388,6 +402,7 @@ Abs. 3 Satz 2 bis 5 und Abs. 4 entsprechend.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003505377)
 
 (1) In Ausnahmefällen ist eine Bewilligung zur Eintragung in die
 Handwerksrolle (Ausnahmebewilligung) zu erteilen, wenn die zur
@@ -426,6 +441,7 @@ ist beizuladen.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003612123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -476,6 +492,7 @@ Niederlassung unterhält.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003705377)
 
 (1) Die Eintragung in die Handwerksrolle erfolgt auf Antrag oder von
 Amts wegen. Wenn die Voraussetzungen zur Eintragung in die
@@ -502,6 +519,7 @@ Landesbehörde bestimmt.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003802308)
 
 Die Handwerkskammer hat dem Gewerbetreibenden die beabsichtigte
 Eintragung in die Handwerksrolle gegen Empfangsbescheinigung
@@ -511,6 +529,7 @@ dieser angehört.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE003901308)
 
 Gegen die Entscheidung über die Eintragung eines der Industrie- und
 Handelskammer angehörigen Gewerbetreibenden in die Handwerksrolle
@@ -519,6 +538,7 @@ Handelskammer der Verwaltungsrechtsweg offen.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004003116)
 
 (1) Die Eintragung in die Handwerksrolle wird auf Antrag oder von Amts
 wegen gelöscht, wenn die Voraussetzungen für die Eintragung nicht
@@ -545,6 +565,7 @@ gilt entsprechend.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004102377)
 
 Ein in die Handwerksrolle eingetragener Gewerbetreibender kann die
 Löschung mit der Begründung, dass der Gewerbebetrieb kein Betrieb
@@ -556,6 +577,7 @@ der Industrie- und Handelskammer nach § 13 Abs. 2 entsprechend.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004201308)
 
 Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle
 abgelehnt worden, so kann er die Eintragung mit der Begründung, daß
@@ -566,6 +588,7 @@ wesentlich geändert haben.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004306123)
 
 (1) Wer den Betrieb eines zulassungspflichtigen Handwerks nach § 1
 anfängt, hat gleichzeitig mit der nach § 14 der Gewerbeordnung zu
@@ -643,6 +666,7 @@ entsprechend.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004406118)
 
 (1) Die in der Handwerksrolle eingetragenen oder in diese
 einzutragenden Gewerbetreibenden sind verpflichtet, der
@@ -685,10 +709,12 @@ des Anschlußinhabers unentgeltlich mitzuteilen.
 
 
 ### Dritter Abschnitt - Zulassungsfreie Handwerke und handwerksähnliche Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000402377)
 
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004508128)
 
 (1) Wer den selbständigen Betrieb eines zulassungsfreien Handwerks
 oder eines handwerksähnlichen Gewerbes als stehendes Gewerbe beginnt
@@ -715,6 +741,7 @@ soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004603377)
 
 Die Handwerkskammer hat ein Verzeichnis zu führen, in welches die
 Inhaber eines Betriebs eines zulassungsfreien Handwerks oder eines
@@ -725,6 +752,7 @@ mehrerer Gewerbe mit diesen Gewerben einzutragen sind. § 6 Abs. 2 bis
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004704377)
 
 Auf zulassungsfreie Handwerke und handwerksähnliche Gewerbe finden §
 10 Abs. 1, die §§ 11, 12, 13 Abs. 1 bis 3, 5, §§ 14, 15 und 17
@@ -736,14 +764,17 @@ Gewerbes vorliegen.
 
 
 ## Zweiter Teil - Berufsbildung im Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000501308)
 
 
 
 ### Erster Abschnitt - Berechtigung zum Einstellen und Ausbilden
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000601308)
 
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE004804377)
 
 (1) Lehrlinge (Auszubildende) dürfen nur eingestellt und ausgebildet
 werden, wenn
@@ -768,6 +799,7 @@ werden.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005004119)
 
 (1) Lehrlinge (Auszubildende) darf nur einstellen, wer persönlich
 geeignet ist. Lehrlinge (Auszubildende) darf nur ausbilden, wer
@@ -812,6 +844,7 @@ geeignet ist.
 
 
 #### § 22a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018500377)
 
 Persönlich nicht geeignet ist insbesondere, wer
 
@@ -826,6 +859,7 @@ Persönlich nicht geeignet ist insbesondere, wer
 
 
 #### § 22b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018607119)
 
 (1) Fachlich geeignet ist, wer die beruflichen sowie die berufs- und
 arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt,
@@ -921,6 +955,7 @@ Eignung nach Anhören der Handwerkskammer widerruflich zuerkennen.
 
 
 #### § 22c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020601128)
 
 (1) In den Fällen des § 22b Abs. 3 besitzt die für die fachliche
 Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und
@@ -940,6 +975,7 @@ Eignungsprüfungen regeln.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018101377)
 
 (1) Die Handwerkskammer hat darüber zu wachen, dass die Eignung der
 Ausbildungsstätte sowie die persönliche und fachliche Eignung
@@ -957,6 +993,7 @@ mitzuteilen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005203377)
 
 (1) Die nach Landesrecht zuständige Behörde kann für eine bestimmte
 Ausbildungsstätte das Einstellen und Ausbilden untersagen, wenn die
@@ -971,10 +1008,12 @@ zu hören. Dies gilt nicht in den Fällen des § 22a Nr. 1.
 
 
 ### Zweiter Abschnitt - Ausbildungsordnung, Änderung der Ausbildungszeit
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000701308)
 
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005311123)
 
 (1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung
 kann das Bundesministerium für Wirtschaft und Klimaschutz im
@@ -1007,6 +1046,7 @@ Abstimmung ein.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005406119)
 
 (1) Die Ausbildungsordnung hat festzulegen
 
@@ -1088,6 +1128,7 @@ und 5 sinnvoll und möglich sind.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005610123)
 
 Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen
 kann das Bundesministerium für Wirtschaft und Klimaschutz im
@@ -1100,6 +1141,7 @@ Ausbildungsstätten beschränkt werden können.
 
 
 #### § 27a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005708116)
 
 (1) Die Landesregierungen können nach Anhörung des Landesausschusses
 für Berufsbildung durch Rechtsverordnung bestimmen, dass der Besuch
@@ -1124,6 +1166,7 @@ sein.
 
 
 #### § 27b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018702119)
 
 (1) Die Berufsausbildung kann in Teilzeit durchgeführt werden. Im
 Berufsausbildungsvertrag ist dazu für die gesamte Ausbildungszeit oder
@@ -1150,6 +1193,7 @@ verbunden werden.
 
 
 #### § 27c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021101119)
 
 (1) Auf gemeinsamen Antrag des Lehrlings (Auszubildenden) und des
 Ausbildenden hat die Handwerkskammer die Ausbildungsdauer zu kürzen,
@@ -1174,6 +1218,7 @@ Berufsbildung Empfehlungen beschließen.
 
 
 #### § 27d
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005810123)
 
 Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in
 beiden Handwerken in einer verkürzten Gesamtausbildungszeit
@@ -1185,10 +1230,12 @@ Dauer der Gesamtausbildungszeit.
 
 
 ### Dritter Abschnitt - Verzeichnis der Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000801308)
 
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE005907119)
 
 (1) Die Handwerkskammer hat zur Regelung, Überwachung, Förderung und
 zum Nachweis der Berufsausbildung in anerkannten Ausbildungsberufen
@@ -1291,6 +1338,7 @@ den Fällen des § 88 Abs. 2 des Berufsbildungsgesetzes übermitteln.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006003377)
 
 (1) Ein Berufsausbildungsvertrag und Änderungen seines wesentlichen
 Inhalts sind in die Lehrlingsrolle einzutragen, wenn
@@ -1321,6 +1369,7 @@ der Gesellenprüfung zur Einsicht vorgelegt und der Mangel nicht nach §
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006104119)
 
 (1) Der Ausbildende hat unverzüglich nach Abschluß des
 Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle nach
@@ -1345,10 +1394,12 @@ des wesentlichen Vertragsinhalts.
 
 
 ### Vierter Abschnitt - Prüfungswesen
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG000901308)
 
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006206119)
 
 (1) In den anerkannten Ausbildungsberufen (Gewerbe der Anlage A oder
 der Anlage B) sind Gesellenprüfungen durchzuführen. Die Prüfung kann
@@ -1382,6 +1433,7 @@ auszuweisen.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006302377)
 
 Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit im Sinne des § 1 Abs. 3 des
@@ -1394,6 +1446,7 @@ Ausbildungsordnung ist zugrunde zu legen.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006403116)
 
 (1) Für die Durchführung der Gesellenprüfung errichtet die
 Handwerkskammer Prüfungsausschüsse. Mehrere Handwerkskammern können
@@ -1420,6 +1473,7 @@ Bewertung erheblichen Tatsachen festzuhalten.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006506123)
 
 (1) Der Prüfungsausschuß besteht aus mindestens drei Mitgliedern. Die
 Mitglieder müssen für die Prüfungsgebiete sachkundig und für die
@@ -1526,6 +1580,7 @@ berufen werden kann.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006601308)
 
 Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und
 dessen Stellvertreter. Der Vorsitzende und sein Stellvertreter sollen
@@ -1536,6 +1591,7 @@ Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 
 #### § 35a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018803119)
 
 (1) Der Prüfungsausschuss fasst die Beschlüsse über
 
@@ -1603,6 +1659,7 @@ drei- oder dreieinhalbjährigen Ausbildungsberufs zu übernehmen.
 
 
 #### § 35b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022600119)
 
 (1) Die Handwerkskammer oder die nach § 33 Absatz 1 Satz 3 von der
 Handwerkskammer zur Errichtung von Prüfungsausschüssen ermächtigte
@@ -1668,6 +1725,7 @@ oder teilweise im Wege elektronischer Kommunikation ausüben können.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006706119)
 
 (1) Zur Gesellenprüfung ist zuzulassen,
 
@@ -1711,6 +1769,7 @@ in einem anerkannten Ausbildungsberuf, wenn er
 
 
 #### § 36a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018902119)
 
 (1) Sofern die Gesellenprüfung in zwei zeitlich auseinander fallenden
 Teilen durchgeführt wird, ist über die Zulassung jeweils gesondert zu
@@ -1741,6 +1800,7 @@ zusammen mit dem zweiten Teil abzulegen.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006808119)
 
 (1) Der Lehrling (Auszubildende) kann nach Anhörung des Ausbildenden
 und der Berufsschule vor Ablauf seiner Ausbildungszeit zur
@@ -1774,6 +1834,7 @@ hat, welche die Zulassung zur Prüfung rechtfertigen.
 
 
 #### § 37a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019000377)
 
 (1) Über die Zulassung zur Gesellenprüfung entscheidet der Vorsitzende
 des Prüfungsausschusses. Hält er die Zulassungsvoraussetzungen nicht
@@ -1785,6 +1846,7 @@ erwachsen.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE006903377)
 
 (1) Die Handwerkskammer hat eine Prüfungsordnung für die
 Gesellenprüfung zu erlassen. Die Prüfungsordnung bedarf der
@@ -1804,6 +1866,7 @@ für die Prüfungsordnung Richtlinien.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007003116)
 
 (1) Während der Berufsausbildung ist zur Ermittlung des
 Ausbildungsstands eine Zwischenprüfung entsprechend der
@@ -1830,6 +1893,7 @@ zuzulassen.
 
 
 #### § 39a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019101119)
 
 (1) Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
 nach § 26 Absatz 2 Satz 1 Nummer 6 werden gesondert geprüft und
@@ -1840,6 +1904,7 @@ entsprechend.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007110123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
@@ -1860,6 +1925,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 
 #### § 40a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020801123)
 
 Ausländische Ausbildungsnachweise stehen der Gesellenprüfung im Sinne
 dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen gleich,
@@ -1870,10 +1936,12 @@ Berufe sowie § 17 sind anzuwenden.
 
 
 ### Fünfter Abschnitt - Regelung und Überwachung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001001308)
 
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007201308)
 
 Soweit Vorschriften nicht bestehen, regelt die Handwerkskammer die
 Durchführung der Berufsausbildung im Rahmen der gesetzlichen
@@ -1881,6 +1949,7 @@ Vorschriften.
 
 
 #### § 41a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007305119)
 
 (1) Die Handwerkskammer überwacht die Durchführung
 
@@ -1917,10 +1986,12 @@ des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
 
 
 ### Sechster Abschnitt - Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002800119)
 
 
 
 #### § 41b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022700119)
 
 (1) Die Handwerkskammer stellt auf Antrag die individuelle berufliche
 Handlungsfähigkeit des Antragstellers oder der Antragstellerin am
@@ -2001,6 +2072,7 @@ bescheinigt die Handwerkskammer die vollständige Vergleichbarkeit.
 
 
 #### § 41c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022800119)
 
 (1) Für die Durchführung des Feststellungsverfahrens oder des
 Ergänzungsverfahrens bestimmt die Handwerkskammer aus dem Kreis der
@@ -2096,6 +2168,7 @@ müssen umfassen:
 
 
 #### § 41d
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022900119)
 
 (1) Für Menschen mit Behinderungen nach § 2 Absatz 1 Satz 1 des
 Neunten Buches Sozialgesetzbuch, für die auf Grund von Art und Schwere
@@ -2169,6 +2242,7 @@ Verfahrensbegleitung Gelegenheit zu geben,
 
 
 #### § 41e
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE023000119)
 
 Als Grundlage für ein geordnetes und einheitliches Verfahren wird das
 Bundesministerium für Bildung und Forschung ermächtigt, im
@@ -2201,10 +2275,12 @@ zu regeln.
 
 
 ### Siebenter Abschnitt - Berufliche Fortbildung, berufliche Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001102119)
 
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007410123)
 
 (1) Als Grundlage für eine einheitliche höherqualifizierende
 Berufsbildung kann das Bundesministerium für Bildung und Forschung im
@@ -2236,6 +2312,7 @@ anerkennen und hierfür Prüfungsregelungen erlassen
 
 
 #### § 42a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007507116)
 
 (1) Die Fortbildungsstufen der höherqualifizierenden Berufsbildung
 sind
@@ -2258,6 +2335,7 @@ Abschluss der zweiten Fortbildungsstufe hinführen.
 
 
 #### § 42b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007606119)
 
 (1) Den Fortbildungsabschluss des Geprüften Berufsspezialisten oder
 der Geprüften Berufsspezialistin erlangt, wer eine Prüfung der ersten
@@ -2314,6 +2392,7 @@ führen, wer
 
 
 #### § 42c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017806119)
 
 (1) Den Fortbildungsabschluss Bachelor Professional erlangt, wer eine
 Prüfung der zweiten beruflichen Fortbildungsstufe erfolgreich besteht.
@@ -2365,6 +2444,7 @@ Die §§ 51 und 51d bleiben unberührt.
 
 
 #### § 42d
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017907116)
 
 (1) Den Fortbildungsabschluss Master Professional erlangt, wer die
 Prüfung der dritten beruflichen Fortbildungsstufe besteht.
@@ -2412,6 +2492,7 @@ Fortbildungsstufe darf führen, wer
 
 
 #### § 42e
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021201123)
 
 (1) Als Grundlage für eine einheitliche Anpassungsfortbildung kann das
 Bundesministerium für Bildung und Forschung im Einvernehmen mit dem
@@ -2439,6 +2520,7 @@ erlassen (Anpassungsfortbildungsordnungen).
 
 
 #### § 42f
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021301119)
 
 (1) Sofern für einen Fortbildungsabschluss weder eine
 Fortbildungsordnung noch eine Anpassungsfortbildungsordnung erlassen
@@ -2498,6 +2580,7 @@ unberührt.
 
 
 #### § 42g
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021400116)
 
 Sofern Fortbildungsordnungen, Anpassungsfortbildungsordnungen oder
 Fortbildungsprüfungsregelungen nach § 42f Zulassungsvoraussetzungen zu
@@ -2506,6 +2589,7 @@ der Berufstätigkeit im Ausland zu berücksichtigen.
 
 
 #### § 42h
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021501119)
 
 (1) Für die Durchführung von Prüfungen im Bereich der beruflichen
 Fortbildung errichtet die Handwerkskammer Prüfungsausschüsse. § 31
@@ -2529,6 +2613,7 @@ Prüfungsbestandteile durch die Handwerkskammer zu befreien, wenn
 
 
 #### § 42i
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021601123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
@@ -2542,6 +2627,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 
 #### § 42j
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007708123)
 
 Als Grundlage für eine geordnete und einheitliche berufliche
 Umschulung kann das Bundesministerium für Bildung und Forschung im
@@ -2569,6 +2655,7 @@ Erwachsenenbildung bestimmen (Umschulungsordnung).
 
 
 #### § 42k
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019201116)
 
 Soweit Rechtsverordnungen nach § 42j nicht erlassen sind, kann die
 Handwerkskammer Umschulungsprüfungsregelungen erlassen. Die
@@ -2580,6 +2667,7 @@ Erwachsenenbildung.
 
 
 #### § 42l
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019302119)
 
 Sofern sich die Umschulungsordnung (§ 42j) oder eine Regelung der
 Handwerkskammer (§ 42k) auf die Umschulung für einen anerkannten
@@ -2591,6 +2679,7 @@ legen. Die §§ 21 bis 24 gelten entsprechend.
 
 
 #### § 42m
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019401116)
 
 Sofern die Umschulungsordnung (§ 42j) oder eine Regelung der
 Handwerkskammer (§ 42k) Zulassungsvoraussetzungen vorsieht, sind
@@ -2599,6 +2688,7 @@ Ausland zu berücksichtigen.
 
 
 #### § 42n
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019502119)
 
 (1) Maßnahmen der beruflichen Umschulung müssen nach Inhalt, Art, Ziel
 und Dauer den besonderen Erfordernissen der beruflichen
@@ -2626,6 +2716,7 @@ Bestehens der anderen Prüfung erfolgt.
 
 
 #### § 42o
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019604123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
@@ -2639,10 +2730,12 @@ Fähigkeiten gleichwertig sind.
 
 
 ### Achter Abschnitt - Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001206119)
 
 
 
 #### § 42p
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019701116)
 
 Behinderte Menschen (§ 2 Abs. 1 Satz 1 des Neunten Buches
 Sozialgesetzbuch) sollen in anerkannten Ausbildungsberufen ausgebildet
@@ -2650,6 +2743,7 @@ werden.
 
 
 #### § 42q
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019801116)
 
 (1) Regelungen nach den §§ 38 und 41 sollen die besonderen
 Verhältnisse behinderter Menschen berücksichtigen. Dies gilt
@@ -2665,6 +2759,7 @@ Abs. 1 Nr. 2 und 3 nicht vorliegen.
 
 
 #### § 42r
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE019901116)
 
 (1) Für behinderte Menschen, für die wegen Art und Schwere ihrer
 Behinderung eine Ausbildung in einem anerkannten Ausbildungsberuf
@@ -2682,6 +2777,7 @@ nachzuweisen.
 
 
 #### § 42s
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020001116)
 
 Für die berufliche Fortbildung und die berufliche Umschulung
 behinderter Menschen gelten die §§ 42p bis 42r entsprechend, soweit
@@ -2689,6 +2785,7 @@ Art und Schwere der Behinderung dies erfordern.
 
 
 #### § 42t
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020101116)
 
 (1) Die Berufsausbildungsvorbereitung richtet sich an
 lernbeeinträchtigte oder sozial benachteiligte Personen, deren
@@ -2706,6 +2803,7 @@ bis 24 entsprechend.
 
 
 #### § 42u
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020204123)
 
 (1) Die Vermittlung von Grundlagen für den Erwerb beruflicher
 Handlungsfähigkeit (§ 1 Abs. 2 des Berufsbildungsgesetzes) kann
@@ -2724,6 +2822,7 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
 #### § 42v
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020304119)
 
 (1) Die nach Landesrecht zuständige Behörde hat die
 Berufsausbildungsvorbereitung zu untersagen, wenn die Voraussetzungen
@@ -2742,10 +2841,12 @@ Maßnahmen durchgeführt wird.
 
 
 ### Neunter Abschnitt - Berufsbildungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001302119)
 
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007805116)
 
 (1) Die Handwerkskammer errichtet einen Berufsbildungsausschuß. Ihm
 gehören sechs Arbeitgeber, sechs Arbeitnehmer und sechs Lehrkräfte an
@@ -2774,6 +2875,7 @@ Stellvertreter sollen nicht derselben Mitgliedergruppe angehören.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE007904116)
 
 (1) Der Berufsbildungsausschuß ist in allen wichtigen Angelegenheiten
 der beruflichen Bildung zu unterrichten und zu hören. Er hat im Rahmen
@@ -2870,6 +2972,7 @@ Berufsbildungsgesetzes) auswirken.
 
 
 #### § 44a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008001308)
 
 (1) Der Berufsbildungsausschuß ist beschlußfähig, wenn mehr als die
 Hälfte seiner stimmberechtigten Mitglieder anwesend ist. Er beschließt
@@ -2882,6 +2985,7 @@ Mitglieder nachträglich auf die Tagesordnung gesetzt wird.
 
 
 #### § 44b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008101308)
 
 Der Berufsbildungsausschuß gibt sich eine Geschäftsordnung. Sie kann
 die Bildung von Unterausschüssen vorsehen und bestimmen, daß ihnen
@@ -2890,14 +2994,17 @@ Unterausschüsse gelten § 43 Abs. 2 bis 6 und § 44a entsprechend.
 
 
 ## Dritter Teil - Meisterprüfung, Meistertitel
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001401308)
 
 
 
 ### Erster Abschnitt - Meisterprüfung in einem zulassungspflichtigen Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001502377)
 
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008211123)
 
 (1) Als Grundlage für ein geordnetes und einheitliches
 Meisterprüfungswesen für zulassungspflichtige Handwerke kann das
@@ -2944,6 +3051,7 @@ dieser Tätigkeiten ermöglichen.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008309123)
 
 (1) Der Prüfling ist nach Maßgabe der folgenden Vorschriften von
 einzelnen Teilen der Meisterprüfung befreit, wenn er eine dem
@@ -3005,6 +3113,7 @@ auch über Befreiungen auf Grund ausländischer Bildungsabschlüsse.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008403123)
 
 (1) Für die Handwerke werden zur Durchführung der Meisterprüfungen
 Meisterprüfungsausschüsse als staatliche Prüfungsbehörden am Sitz der
@@ -3052,6 +3161,7 @@ durch das Führen der laufenden Geschäfte.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008505123)
 
 (1) Der Meisterprüfungsausschuss besteht aus vier Mitgliedern. Die
 Mitglieder sollen das vierundzwanzigste Lebensjahr vollendet haben.
@@ -3104,6 +3214,7 @@ Für die Stellvertreter gilt Absatz 6 entsprechend.
 
 
 #### § 48a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022000123)
 
 (1) Die Abnahme und die abschließende Bewertung der einzelnen
 Prüfungsleistungen einer Meisterprüfung obliegen Prüfungskommissionen.
@@ -3124,6 +3235,7 @@ Personen berufen werden.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008607119)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer eine Gesellenprüfung in dem
 zulassungspflichtigen Handwerk, in dem er die Meisterprüfung ablegen
@@ -3212,12 +3324,14 @@ nicht für gegeben, so entscheidet der Prüfungsausschuß.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008709123)
 
 Die durch die Durchführung der Meisterprüfung entstehenden Kosten
 trägt die Handwerkskammer.
 
 
 #### § 50a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022101123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und
@@ -3294,6 +3408,7 @@ Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 
 #### § 50b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017210123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
@@ -3306,6 +3421,7 @@ Bundesvertriebenengesetzes bleiben unberührt.
 
 
 #### § 50c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020902123)
 
 (1) Die Gleichwertigkeit ist festzustellen,
 
@@ -3395,6 +3511,7 @@ reglementierte Berufe sowie § 17 anzuwenden.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008805116)
 
 (1) Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit
 einem zulassungspflichtigen Handwerk oder in Verbindung mit einer
@@ -3410,10 +3527,12 @@ zu führen berechtigt ist.
 
 
 ### Zweiter Abschnitt - Meisterprüfung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002700377)
 
 
 
 #### § 51a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018211119)
 
 (1) Für zulassungsfreie Handwerke oder handwerksähnliche Gewerbe, für
 die eine Ausbildungsordnung nach § 25 dieses Gesetzes oder nach § 4
@@ -3485,6 +3604,7 @@ mit Satz 2 Nummer 7 tritt.
 
 
 #### § 51b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020402123)
 
 (1) Die Handwerkskammer errichtet an ihrem Sitz für ihren Bezirk
 Meisterprüfungsausschüsse. Mehrere Handwerkskammern können bei einer
@@ -3540,6 +3660,7 @@ Stellvertreter gilt Absatz 7 entsprechend.
 
 
 #### § 51c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022200123)
 
 (1) Die Abnahme und die abschließende Bewertung der einzelnen
 Prüfungsleistungen einer Meisterprüfung obliegen Prüfungskommissionen.
@@ -3560,6 +3681,7 @@ Personen berufen werden.
 
 
 #### § 51d
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022301123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und
@@ -3636,6 +3758,7 @@ Zulassungsverfahren und das Prüfungsverfahren regeln.
 
 
 #### § 51e
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE020504123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
@@ -3648,6 +3771,7 @@ Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
 
 
 #### § 51f
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018303123)
 
 Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit einem
 zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe darf nur
@@ -3656,6 +3780,7 @@ Gewerbe bestanden hat. § 51 Absatz 2 ist entsprechend anzuwenden.
 
 
 #### § 51g
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021001123)
 
 Im Fall der Gleichwertigkeit eines im Ausland erworbenen
 Ausbildungsnachweises mit der Meisterprüfung ist die Gleichwertigkeit
@@ -3663,14 +3788,17 @@ festzustellen. § 50c gilt entsprechend.
 
 
 ## Vierter Teil - Organisation des Handwerks
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001701308)
 
 
 
 ### Erster Abschnitt - Handwerksinnungen
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001801308)
 
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE008904123)
 
 (1) Inhaber von Betrieben des gleichen zulassungspflichtigen Handwerks
 oder des gleichen zulassungsfreien Handwerks oder des gleichen
@@ -3704,12 +3832,14 @@ Landesbehörden erteilt werden.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009001308)
 
 Die Handwerksinnung ist eine Körperschaft des öffentlichen Rechts. Sie
 wird mit Genehmigung der Satzung rechtsfähig.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009101308)
 
 (1) Aufgabe der Handwerksinnung ist, die gemeinsamen gewerblichen
 Interessen ihrer Mitglieder zu fördern. Insbesondere hat sie
@@ -3801,6 +3931,7 @@ Bestimmungen.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009201308)
 
 (1) Die Aufgaben der Handwerksinnung, ihre Verwaltung und die
 Rechtsverhältnisse ihrer Mitglieder sind, soweit gesetzlich nichts
@@ -3853,6 +3984,7 @@ darüber bestimmt ist, durch die Satzung zu regeln.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009301308)
 
 (1) Die Satzung der Handwerksinnung bedarf der Genehmigung durch die
 Handwerkskammer des Bezirks, in dem die Handwerksinnung ihren Sitz
@@ -3871,6 +4003,7 @@ nimmt.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009402308)
 
 (1) Soll in der Handwerksinnung eine Einrichtung der im § 54 Abs. 3
 Nr. 2 vorgesehenen Art getroffen werden, so sind die dafür
@@ -3886,6 +4019,7 @@ Recht auf gesonderte Befriedigung aus diesem Vermögen.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009503377)
 
 (1) Mitglied bei der Handwerksinnung kann jeder Inhaber eines Betriebs
 eines Handwerks oder eines handwerksähnlichen Gewerbes werden, der das
@@ -3911,6 +4045,7 @@ kann zugunsten einzelner nicht abgesehen werden.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009602308)
 
 Die Handwerksinnung kann Gastmitglieder aufnehmen, die dem Handwerk,
 für das die Innung gebildet ist, beruflich oder wirtschaftlich
@@ -3919,6 +4054,7 @@ An der Innungsversammlung nehmen sie mit beratender Stimme teil.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009701308)
 
 Die Organe der Handwerksinnung sind
 
@@ -3935,6 +4071,7 @@ Die Organe der Handwerksinnung sind
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009802308)
 
 (1) Die Innungsversammlung beschließt über alle Angelegenheiten der
 Handwerksinnung, soweit sie nicht vom Vorstand oder den Ausschüssen
@@ -4012,6 +4149,7 @@ Genehmigung durch die Handwerkskammer.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE009901308)
 
 (1) Zur Gültigkeit eines Beschlusses der Innungsversammlung ist
 erforderlich, daß der Gegenstand bei ihrer Einberufung bezeichnet ist,
@@ -4045,6 +4183,7 @@ Handwerkskammer die Innungsversammlung einberufen und leiten.
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010002308)
 
 Stimmberechtigt in der Innungsversammlung sind die Mitglieder der
 Handwerksinnung im Sinne des § 58 Abs. 1. Für eine juristische Person
@@ -4053,6 +4192,7 @@ auch wenn mehrere vertretungsberechtigte Personen vorhanden sind.
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010101308)
 
 Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlußfassung die
 Vornahme eines Rechtsgeschäfts oder die Einleitung oder Erledigung
@@ -4060,6 +4200,7 @@ eines Rechtsstreits zwischen ihm und der Handwerksinnung betrifft.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010201308)
 
 (1) Ein gemäß § 63 stimmberechtigtes Mitglied, das Inhaber eines
 Nebenbetriebs im Sinne des § 2 Nr. 2 oder 3 ist, kann sein Stimmrecht
@@ -4076,6 +4217,7 @@ schriftlichen Erklärung gegenüber der Handwerksinnung.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010301308)
 
 (1) Der Vorstand der Handwerksinnung wird von der Innungsversammlung
 für die in der Satzung bestimmte Zeit mit verdeckten Stimmzetteln
@@ -4103,6 +4245,7 @@ gewährt werden.
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010402308)
 
 (1) Die Handwerksinnung kann zur Wahrnehmung einzelner Angelegenheiten
 Ausschüsse bilden.
@@ -4120,6 +4263,7 @@ Handwerkskammer erläßt die hierfür erforderliche Verfahrensordnung.
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010501308)
 
 (1) Im Interesse eines guten Verhältnisses zwischen den
 Innungsmitgliedern und den bei ihnen beschäftigten Gesellen (§ 54 Abs.
@@ -4195,6 +4339,7 @@ sind.
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010602308)
 
 (1) Der Gesellenausschuß besteht aus dem Vorsitzenden (Altgesellen)
 und einer weiteren Zahl von Mitgliedern.
@@ -4233,12 +4378,14 @@ bestimmten Organen zu veröffentlichen.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010701308)
 
 Berechtigt zur Wahl des Gesellenausschusses sind die bei einem
 Innungsmitglied beschäftigten Gesellen.
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010802308)
 
 (1) Wählbar ist jeder Geselle, der
 
@@ -4259,6 +4406,7 @@ Innungsmitglied beschäftigten Gesellen.
 
 
 #### § 71a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017301308)
 
 Eine kurzzeitige Arbeitslosigkeit läßt das Wahlrecht nach den §§ 70
 und 71 unberührt, wenn diese zum Zeitpunkt der Wahl nicht länger als
@@ -4266,6 +4414,7 @@ drei Monate besteht.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE010902308)
 
 Mitglieder des Gesellenausschusses behalten, auch wenn sie nicht mehr
 bei Innungsmitgliedern beschäftigt sind, solange sie im Bezirk der
@@ -4276,6 +4425,7 @@ Amt bis zum Ende der Wahlzeit.
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011003377)
 
 (1) Die der Handwerksinnung und ihrem Gesellenausschuß erwachsenden
 Kosten sind, soweit sie aus den Erträgen des Vermögens oder aus
@@ -4300,6 +4450,7 @@ landesrechtlichen Vorschriften beigetrieben.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011101308)
 
 Die Handwerksinnung ist für den Schaden verantwortlich, den der
 Vorstand, ein Mitglied des Vorstands oder ein anderer satzungsmäßig
@@ -4309,6 +4460,7 @@ einem Dritten zufügt.
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011201308)
 
 Die Aufsicht über die Handwerksinnung führt die Handwerkskammer, in
 deren Bezirk die Handwerksinnung ihren Sitz hat. Die Aufsicht
@@ -4317,6 +4469,7 @@ daß die der Handwerksinnung übertragenen Aufgaben erfüllt werden.
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011301308)
 
 Die Handwerksinnung kann durch die Handwerkskammer nach Anhörung des
 Landesinnungsverbands aufgelöst werden,
@@ -4338,6 +4491,7 @@ Landesinnungsverbands aufgelöst werden,
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011402333)
 
 (1) Die Eröffnung des Insolvenzverfahrens über das Vermögen der
 Handwerksinnung hat die Auflösung kraft Gesetzes zur Folge.
@@ -4351,6 +4505,7 @@ Schaden verantwortlich; sie haften als Gesamtschuldner.
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011501308)
 
 (1) Wird die Handwerksinnung durch Beschluß der Innungsversammlung
 oder durch die Handwerkskammer aufgelöst, so wird das Innungsvermögen
@@ -4368,10 +4523,12 @@ im Einvernehmen mit den beteiligten Handwerkskammern ergehen.
 
 
 ### Zweiter Abschnitt - Innungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG001901308)
 
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011602308)
 
 (1) Der Landesinnungsverband ist der Zusammenschluß von
 Handwerksinnungen des gleichen Handwerks oder sich fachlich oder
@@ -4390,6 +4547,7 @@ Einzelmitglieder beitreten können.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011702308)
 
 Der Landesinnungsverband ist eine juristische Person des privaten
 Rechts; er wird mit Genehmigung der Satzung rechtsfähig. Die Satzung
@@ -4402,6 +4560,7 @@ Die Satzung muß den Bestimmungen des § 55 Abs. 2 entsprechen.
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011801308)
 
 (1) Der Landesinnungsverband hat die Aufgabe,
 
@@ -4423,6 +4582,7 @@ fördern.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE011901308)
 
 Der Landesinnungsverband kann ferner die wirtschaftlichen und sozialen
 Interessen der den Handwerksinnungen angehörenden Mitglieder fördern.
@@ -4446,6 +4606,7 @@ Zu diesem Zweck kann er insbesondere
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012002308)
 
 (1) Auf den Landesinnungsverband finden entsprechende Anwendung:
 
@@ -4482,6 +4643,7 @@ Mitgliederversammlung gewählt sind.
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012101308)
 
 Durch die Satzung kann bestimmt werden, daß sich Vereinigungen von
 Inhabern handwerksähnlicher Betriebe oder Inhaber handwerksähnlicher
@@ -4493,6 +4655,7 @@ Gewerbes in der Mitgliederversammlung.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012205123)
 
 (1) Der Bundesinnungsverband ist der Zusammenschluß von
 Landesinnungsverbänden des gleichen Handwerks oder sich fachlich oder
@@ -4505,10 +4668,12 @@ Bundesministerium für Wirtschaft und Klimaschutz.
 
 
 ### Dritter Abschnitt - Kreishandwerkerschaften
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002001308)
 
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012301308)
 
 Die Handwerksinnungen, die in einem Stadt- oder Landkreis ihren Sitz
 haben, bilden die Kreishandwerkerschaft. Die Handwerkskammer kann eine
@@ -4516,6 +4681,7 @@ andere Abgrenzung zulassen.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012401308)
 
 Die Kreishandwerkerschaft hat die Aufgabe,
 
@@ -4551,6 +4717,7 @@ Die Kreishandwerkerschaft hat die Aufgabe,
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012501308)
 
 Die Mitgliederversammlung der Kreishandwerkerschaft besteht aus
 Vertretern der Handwerksinnungen. Die Vertreter oder ihre
@@ -4563,6 +4730,7 @@ können.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012601308)
 
 (1) Auf die Kreishandwerkerschaft finden entsprechende Anwendung:
 
@@ -4595,10 +4763,12 @@ liquidiert. § 78 Abs. 2 gilt entsprechend.
 
 
 ### Vierter Abschnitt - Handwerkskammern
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002101308)
 
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012706360)
 
 (1) Zur Vertretung der Interessen des Handwerks werden
 Handwerkskammern errichtet; sie sind Körperschaften des öffentlichen
@@ -4654,6 +4824,7 @@ entscheidet die oberste Landesbehörde.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012812128)
 
 (1) Aufgabe der Handwerkskammer ist insbesondere,
 
@@ -4775,6 +4946,7 @@ handwerksähnliche Gewerbe entsprechende Anwendung.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE012901308)
 
 Die Organe der Handwerkskammer sind
 
@@ -4791,6 +4963,7 @@ Die Organe der Handwerkskammer sind
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013004377)
 
 (1) Die Vollversammlung besteht aus gewählten Mitgliedern. Ein Drittel
 der Mitglieder müssen Gesellen oder andere Arbeitnehmer mit einer
@@ -4821,6 +4994,7 @@ anzurechnen sind, erfolgt auf Vorschlag der Mehrheit dieser Gruppe.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013102308)
 
 Die Mitglieder der Vollversammlung sind Vertreter des gesamten
 Handwerks und des handwerksähnlichen Gewerbes und als solche an
@@ -4829,6 +5003,7 @@ Aufträge und Weisungen nicht gebunden. § 66 Abs. 4, § 69 Abs. 4 und §
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013202377)
 
 (1) Die Mitglieder der Vollversammlung und ihre Stellvertreter werden
 durch Listen in allgemeiner, freier, gleicher und geheimer Wahl
@@ -4840,6 +5015,7 @@ beigefügten Wahlordnung.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013304377)
 
 (1) Berechtigt zur Wahl der Vertreter des Handwerks und des
 handwerksähnlichen Gewerbes sind die in der Handwerksrolle (§ 6) oder
@@ -4873,6 +5049,7 @@ zu stimmen, nicht besitzen.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013404377)
 
 (1) Wählbar als Vertreter der zulassungspflichtigen Handwerke sind
 
@@ -4928,6 +5105,7 @@ gelten die Absätze 1 und 2 entsprechend.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013503377)
 
 (1) Berechtigt zur Wahl der Vertreter der Arbeitnehmer in der
 Handwerkskammer sind die Gesellen und die weiteren Arbeitnehmer mit
@@ -4942,6 +5120,7 @@ Monate besteht.
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013603377)
 
 Wählbar zum Vertreter der Arbeitnehmer in der Vollversammlung sind die
 wahlberechtigten Arbeitnehmer im Sinne des § 90 Abs. 2, sofern sie
@@ -4960,6 +5139,7 @@ wahlberechtigten Arbeitnehmer im Sinne des § 90 Abs. 2, sofern sie
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013701308)
 
 (1) Die Handwerkskammer prüft die Gültigkeit der Wahl ihrer Mitglieder
 von Amts wegen.
@@ -4968,6 +5148,7 @@ von Amts wegen.
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013803377)
 
 (1) Gegen die Rechtsgültigkeit der Wahl kann jeder Wahlberechtigte
 innerhalb von einem Monat nach der Bekanntgabe des Wahlergebnisses
@@ -4996,6 +5177,7 @@ Handwerkskammer einzulegen. Er kann nur darauf gestützt werden, daß
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE013901308)
 
 (1) Der Gewählte kann die Annahme der Wahl nur ablehnen, wenn er
 
@@ -5017,6 +5199,7 @@ sechzigsten Lebensjahrs ihr Amt niederlegen.
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014003377)
 
 (1) Die Wahl zur Handwerkskammer erfolgt auf fünf Jahre. Eine
 Wiederwahl ist zulässig.
@@ -5033,6 +5216,7 @@ zum Ende der Wahlzeit.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014103377)
 
 (1) Mitglieder der Vollversammlung haben aus dem Amt auszuscheiden,
 wenn sie durch Krankheit oder Gebrechen verhindert sind, das Amt
@@ -5058,6 +5242,7 @@ zu entheben.
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014205123)
 
 (1) Für die Handwerkskammer ist von der obersten Landesbehörde eine
 Satzung zu erlassen. Über eine Änderung der Satzung beschließt die
@@ -5125,6 +5310,7 @@ Verwaltungsbehörde bekanntzumachen.
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014309123)
 
 (1) Der Beschlußfassung der Vollversammlung bleibt vorbehalten
 
@@ -5233,12 +5419,14 @@ als gerechtfertigt, notwendig und verhältnismäßig beurteilt hat.
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014401308)
 
 Die Handwerkskammer kann zu ihren Verhandlungen Sachverständige mit
 beratender Stimme zuziehen.
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014502308)
 
 (1) Die Vollversammlung wählt aus ihrer Mitte den Vorstand. Ein
 Drittel der Mitglieder müssen Gesellen oder andere Arbeitnehmer mit
@@ -5270,6 +5458,7 @@ Vorstand bilden.
 
 
 #### § 109
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014601308)
 
 Dem Vorstand obliegt die Verwaltung der Handwerkskammer; Präsident und
 Hauptgeschäftsführer vertreten die Handwerkskammer gerichtlich und
@@ -5279,6 +5468,7 @@ wird.
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014701308)
 
 Die Vollversammlung kann unter Wahrung der im § 93 Abs. 1 bestimmten
 Verhältniszahl aus ihrer Mitte Ausschüsse bilden und sie mit
@@ -5288,6 +5478,7 @@ findet entsprechende Anwendung.
 
 
 #### § 111
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014803377)
 
 (1) Die in die Handwerksrolle und in das Verzeichnis nach § 19
 eingetragenen Gewerbetreibenden haben der Handwerkskammer die zur
@@ -5315,6 +5506,7 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 #### § 112
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE014902377)
 
 (1) Die Handwerkskammer kann bei Zuwiderhandlungen gegen die von ihr
 innerhalb ihrer Zuständigkeit erlassenen Vorschriften oder Anordnungen
@@ -5333,6 +5525,7 @@ beigetrieben.
 
 
 #### § 113
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015008116)
 
 (1) Die durch die Errichtung und Tätigkeit der Handwerkskammer
 entstehenden Kosten werden, soweit sie nicht anderweitig gedeckt sind,
@@ -5417,11 +5610,13 @@ Beitreibung gilt Absatz 3.
 
 
 #### § 114
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015102308)
 
 (aufgehoben)
 
 
 #### § 115
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015201308)
 
 (1) Die oberste Landesbehörde führt die Staatsaufsicht über die
 Handwerkskammer. Die Staatsaufsicht beschränkt sich darauf, soweit
@@ -5440,6 +5635,7 @@ Vollversammlung vor.
 
 
 #### § 116
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015302308)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 zuständigen Behörden abweichend von § 104 Abs. 3 und § 108 Abs. 6 zu
@@ -5448,14 +5644,17 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 
 
 ## Fünfter Teil - Bußgeld-, Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002201308)
 
 
 
 ### Erster Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002301308)
 
 
 
 #### § 117
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015408123)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -5476,6 +5675,7 @@ kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 #### § 118
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015507119)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -5522,6 +5722,7 @@ Euro geahndet werden.
 
 
 #### § 118a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017401308)
 
 Die zuständige Behörde unterrichtet die zuständige Handwerkskammer
 über die Einleitung von und die abschließende Entscheidung in
@@ -5536,10 +5737,12 @@ Verfahrens eine handwerkliche Tätigkeit ist.
 
 
 ### Zweiter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002401308)
 
 
 
 #### § 119 \*)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015706119)
 
 (1) Die bei Inkrafttreten dieses Gesetzes vorhandene Berechtigung
 eines Gewerbetreibenden, ein Handwerk als stehendes Gewerbe
@@ -5600,6 +5803,7 @@ nicht in Kraft getreten ist.
 
 
 #### § 120
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015804123)
 
 (1) Die am 31. Dezember 2003 vorhandene Befugnis zur Einstellung oder
 zur Ausbildung von Lehrlingen (Auszubildenden) in Handwerksbetrieben
@@ -5618,6 +5822,7 @@ geeignet.
 
 
 #### § 121
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE015902377)
 
 Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der
 Gewerbeordnung bezeichneten Prüfungen gleichgestellt, sofern sie vor
@@ -5625,6 +5830,7 @@ Inkrafttreten dieses Gesetzes abgelegt worden sind.
 
 
 #### § 122
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE016006123)
 
 (1) Werden zulassungspflichtige Handwerke durch Gesetz oder durch eine
 nach § 1 Abs. 3 erlassene Rechtsverordnung getrennt oder
@@ -5667,6 +5873,7 @@ werden.
 
 
 #### § 122a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022400123)
 
 (1) Vorbehaltlich der Absätze 2 und 3 sind im Bereich des Dritten
 Teils dieses Gesetzes bis zum Ablauf des 30. Juni 2022 die am 30. Juni
@@ -5696,6 +5903,7 @@ nach § 50a oder § 51d.
 
 
 #### § 123
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE016104123)
 
 (1) Beantragt ein Gewerbetreibender, der bis zum 31. Dezember 2003
 berechtigt ist, ein zulassungspflichtiges Handwerk als stehendes
@@ -5713,6 +5921,7 @@ Meisterprüfung gestellt haben.
 
 
 #### § 123a
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE023100119)
 
 § 22b Absatz 3, § 37 Absatz 3, die §§ 41b, 41c Absatz 1 bis 3, die §§
 41d, 42b Absatz 3, § 42c Absatz 3, § 49 Absatz 2 sowie § 51a Absatz 5
@@ -5723,6 +5932,7 @@ Ablauf des 31. Dezember 2024 weiter anzuwenden.
 
 
 #### § 124
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE016201308)
 
 (1) Die bei Inkrafttreten dieses Gesetzes bestehenden
 Handwerksinnungen oder Handwerkerinnungen, Kreishandwerkerschaften
@@ -5749,9 +5959,11 @@ entscheidet die nach dem geltenden Recht zuständige Aufsichtsbehörde.
 
 
 #### § 124a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017504119)
 
 
 #### § 124b
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE018403116)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 nach diesem Gesetz den höheren Verwaltungsbehörden oder den sonstigen
@@ -5765,6 +5977,7 @@ den §§ 7a, 7b, 8 und 9 auch die Fachaufsicht.
 
 
 #### § 124c
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021802123)
 
 (1) Der Vorstand einer Handwerksorganisation nach dem Vierten Teil
 kann auch ohne Ermächtigung in der Satzung durch Beschluss den
@@ -5836,10 +6049,12 @@ entsprechend.
 
 
 ### Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNG002501308)
 
 
 
 #### § 125
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE016705116)
 
 (1) Auf Ausbildungsverträge, die vor dem 30. September 2017
 abgeschlossen wurden oder bis zu diesem Zeitpunkt abgeschlossen
@@ -5870,6 +6085,7 @@ geltenden Fassung weiterhin anzuwenden.
 
 
 #### § 126
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE021700116)
 
 (1) Wer am 13. Februar 2020 einen Betrieb eines zulassungsfreien
 Handwerks innehat, das in Anlage B Abschnitt 1 Nummer 1, 2, 3, 4, 12,
@@ -5915,6 +6131,7 @@ bleibt § 4 unberührt.
 
 
 #### Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE016810123)
 
 (Fundstelle: BGBl. I 2020, 142 – 143,
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -6192,6 +6409,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 #### Anlage B Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE016907123)
 
 (Fundstelle: BGBl. I 2020, 143 – 144,
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -6787,12 +7005,14 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 #### Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017703377)
 
 Text siehe: HwWahlO
 
 zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)
 
 #### Anlage D Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes, in der Lehrlingsrolle sowie im Sachverständigenwesen
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE017612119)
 
 (Fundstelle: BGBl. I 1998, 3110 - 3111;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7089,6 +7309,7 @@ V.  Über Personen, die von der Handwerkskammer als Sachverständige nach §
 Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
 
 #### Anlage E (§ 106 Absatz 4 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE022500123)
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 14 – 16)
 
@@ -7374,6 +7595,7 @@ Eine Vorschrift im Sinne des § 106 Absatz 3 Satz 2
 Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 
 #### Anhang EV (BGBl. II 1990, 889, 998)
+[Direktlink](https://www.gesetze-im-internet.de/hwo/BJNR014110953.html#BJNR014110953BJNE888800301)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

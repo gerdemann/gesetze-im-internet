@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Art 1 Anwendung und Änderung von Artikel II des Gesetzes über internationale Patentübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE000401314)
 
 (1)
 
@@ -33,38 +34,46 @@ Zuletzt geändert durch
 
 
 ## (XXXX) Art 2 bis 7
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001002314)
 
 
 
 ## Kapitel 2 - Änderung patentrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNG000200306)
 
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001100306)
 
 -
 
 
 ### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001200306)
 
 -
 
 
 ### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001300306)
 
 -
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001400306)
 
 -
 
 
 ## Kapitel 3 - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNG000300306)
 
 
 
 ### Art 12 Anmeldungen vor Inkrafttreten des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001500306)
 
 (1) Die §§ 6 bis 7, 10, 24 bis 24c, 26 bis 26e, 28 bis 28c Abs. 1 und
 die §§ 36a und 47 bis 49 des Patentgesetzes sowie die Nummern 111 100
@@ -105,6 +114,7 @@ Fassung anzuwenden.
 
 
 ### Art 13 Anhängige gerichtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001601309)
 
 (1) § 110 Abs. 4 Satz 1 des Patentgesetzes ist in der Fassung dieses
 Gesetzes nicht auf gerichtliche Verfahren anzuwenden, die bei
@@ -118,6 +128,7 @@ bei der bisher geltenden Vorschrift.
 
 
 ### Art 14 Gebühr bei Prüfungsanträgen
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001700306)
 
 § 4 des Gesetzes über die Gebühren des Patentamts und des
 Patentgerichts vom 18. August 1976 (BGBl. I S. 2188),
@@ -139,6 +150,7 @@ geändert durch Artikel 2 des Gesetzes vom 29. Januar 1979 (BGBl. I S.
 
 
 ### Art 15 Neufassung des Patentgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001800306)
 
 Der Bundesminister der Justiz kann den Wortlaut des Patentgesetzes in
 der vom Inkrafttreten dieses Gesetzes an geltenden Fassung mit der
@@ -147,6 +159,7 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ### Art 16 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE001900306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -155,6 +168,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ### Art 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gpatg/BJNR012690979.html#BJNR012690979BJNE002001314)
 
 (1)
 

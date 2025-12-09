@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000100000)
 
 (1) Dieses Gesetz regelt Art und Umfang der Reisekostenvergütung der
 Beamtinnen, Beamten, Richterinnen und Richter des Bundes sowie der
@@ -53,6 +54,7 @@ Beamtinnen, Beamten, Richterinnen und Richter.
 
 
 ## § 2 Dienstreisen
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000201116)
 
 (1) Dienstreisen sind Reisen zur Erledigung von Dienstgeschäften
 außerhalb der Dienststätte. Sie müssen, mit Ausnahme von Dienstreisen
@@ -73,6 +75,7 @@ endet an der Dienststätte.
 
 
 ## § 3 Anspruch auf Reisekostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000301116)
 
 (1) Dienstreisenden werden auf Antrag die dienstlich veranlassten
 notwendigen Reisekosten vergütet. Werden Dienstreisen
@@ -101,12 +104,14 @@ Stelle verzichtet haben.
 
 
 ## § 3a Vollständig automatisierter Erlass des Bescheides über die Reisekostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001800116)
 
 Der Bescheid über die Reisekostenvergütung kann vollständig durch
 automatische Einrichtungen erlassen werden.
 
 
 ## § 4 Fahrt- und Flugkostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000400000)
 
 (1) Entstandene Kosten für Fahrten auf dem Land- oder Wasserweg mit
 regelmäßig verkehrenden Beförderungsmitteln werden bis zur Höhe der
@@ -132,6 +137,7 @@ werden die entstandenen notwendigen Kosten erstattet.
 
 
 ## § 5 Wegstreckenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000500000)
 
 (1) Für Fahrten mit anderen als den in § 4 genannten
 Beförderungsmitteln wird eine Wegstreckenentschädigung gewährt. Sie
@@ -166,6 +172,7 @@ wenn sie
 
 
 ## § 6 Tagegeld
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000601311)
 
 (1) Als Ersatz von Mehraufwendungen für Verpflegung erhalten
 Dienstreisende ein Tagegeld. Die Höhe des Tagegeldes bemisst sich nach
@@ -188,6 +195,7 @@ Fällen niedrigere Einbehaltungssätze zulassen.
 
 
 ## § 7 Übernachtungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000700000)
 
 (1) Für eine notwendige Übernachtung erhalten Dienstreisende pauschal
 20 Euro. Höhere Übernachtungskosten werden erstattet, soweit sie
@@ -218,6 +226,7 @@ notwendig sind.
 
 
 ## § 8 Auslagenerstattung bei längerem Aufenthalt am Geschäftsort
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000800000)
 
 Dauert der dienstlich veranlasste Aufenthalt an demselben auswärtigen
 Geschäftsort länger als 14 Tage, wird vom 15. Tag an ein um 50 Prozent
@@ -234,6 +243,7 @@ in der Wohnung Tagegeld nicht gewährt.
 
 
 ## § 9 Aufwands- und Pauschvergütung
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE000900000)
 
 (1) Dienstreisende, denen erfahrungsgemäß geringerer Aufwand für
 Verpflegung oder Unterkunft als allgemein üblich entsteht, erhalten
@@ -251,6 +261,7 @@ bemessen ist.
 
 
 ## § 10 Erstattung sonstiger Kosten
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001001116)
 
 (1) Zur Erledigung des Dienstgeschäfts notwendige Auslagen, die nicht
 nach den §§ 4 bis 9 zu erstatten sind, werden als Nebenkosten
@@ -263,6 +274,7 @@ gilt auch für Kosten nach § 3 Absatz 1 Satz 2.
 
 
 ## § 11 Bemessung der Reisekostenvergütung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001100000)
 
 (1) Für Dienstreisen aus Anlass der Versetzung, Abordnung oder
 Kommandierung wird das Tagegeld für die Zeit bis zur Ankunft am neuen
@@ -315,6 +327,7 @@ gelegenen Wohnung, wird für jede Hin- und Rückfahrt aus Anlass einer
 
 
 ## § 12 Erkrankung während einer Dienstreise
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001200000)
 
 Erkranken Dienstreisende und werden sie in ein Krankenhaus
 aufgenommen, werden für jeden vollen Kalendertag des
@@ -327,6 +340,7 @@ oder § 5 Abs. 1 erstattet.
 
 
 ## § 13 Verbindung von Dienstreisen mit privaten Reisen
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001300000)
 
 (1) Werden Dienstreisen mit privaten Reisen verbunden, wird die
 Reisekostenvergütung so bemessen, als ob nur die Dienstreise
@@ -365,6 +379,7 @@ anzuwenden.
 
 
 ## § 14 Auslandsdienstreisen
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001401116)
 
 (1) Auslandsdienstreisen sind Dienstreisen im oder ins Ausland sowie
 vom Ausland ins Inland.
@@ -385,6 +400,7 @@ erlassen.
 
 
 ## § 15 Trennungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001701116)
 
 (1) Beamtinnen, Beamte, Richterinnen und Richter, die an einen Ort
 außerhalb des Dienst- und Wohnortes ohne Zusage der
@@ -418,6 +434,7 @@ erstattet werden.
 
 
 ## § 16 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brkg_2005/BJNR141810005.html#BJNR141810005BJNE001601116)
 
 Allgemeine Verwaltungsvorschriften zu diesem Gesetz erlässt das
 Bundesministerium des Innern, für Bau und Heimat.

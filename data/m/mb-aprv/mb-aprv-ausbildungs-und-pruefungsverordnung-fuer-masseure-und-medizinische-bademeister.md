@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000301130)
 
 (1) Der zweijährige Lehrgang der Masseure und medizinischen
 Bademeister umfaßt den in der Anlage 1 aufgeführten theoretischen und
@@ -71,6 +72,7 @@ abgeleistet wurde.
 
 
 ## § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000400000)
 
 (1) Die staatliche Prüfung für den Lehrgang nach § 1 Abs. 1 umfaßt
 jeweils einen schriftlichen, einen mündlichen und einen praktischen
@@ -85,6 +87,7 @@ Prüfungsausschüsse sind vorher zu hören.
 
 
 ## § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000501116)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus
 folgenden Mitgliedern besteht:
@@ -136,6 +139,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ## § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000602310)
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
 Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit
@@ -164,6 +168,7 @@ berücksichtigen.
 
 
 ## § 5 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000701130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -200,6 +205,7 @@ Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 
 ## § 6 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000801130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -232,6 +238,7 @@ gestatten.
 
 
 ## § 7 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE000901130)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -290,6 +297,7 @@ mindestens mit "ausreichend" benotet werden.
 
 
 ## § 8 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001000000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -297,6 +305,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ## § 9 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001101130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -366,6 +375,7 @@ benotet:
 
 
 ## § 10 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001200000)
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
 vorgeschriebenen Prüfungsteile bestanden ist.
@@ -397,6 +407,7 @@ Behörde Ausnahmen zulassen.
 
 
 ## § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001300000)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
 so hat er die Gründe für seinen Rücktritt unverzüglich dem
@@ -413,6 +424,7 @@ unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. §
 
 
 ## § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001400000)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -426,6 +438,7 @@ entsprechend.
 
 
 ## § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001500000)
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
 ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört
@@ -438,6 +451,7 @@ Abschluß der Prüfung zulässig.
 
 
 ## § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001600000)
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
@@ -446,6 +460,7 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## § 15 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001700000)
 
 Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und
 Physiotherapeutengesetzes für die Erteilung der Erlaubnis zur Führung
@@ -455,6 +470,7 @@ aus.
 
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001804116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Nr. 1 des Masseur- und
 Physiotherapeutengesetzes beantragen, können zum Nachweis, daß die
@@ -536,6 +552,7 @@ Gleichstellung ergibt.
 
 
 ## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002801130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 1 des
 Masseur- und Physiotherapeutengesetzes beantragen, haben einen
@@ -604,6 +621,7 @@ abgelegt werden kann.
 
 
 ## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002403130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 1 des
 Masseur- und Physiotherapeutengesetzes beantragen, haben einen
@@ -697,6 +715,7 @@ dem Muster der Anlage 7 erteilt.
 
 
 ## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002502116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Masseurin und medizinische Bademeisterin oder Masseur
@@ -753,6 +772,7 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE001900000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3777 - 3781
 
@@ -1996,6 +2016,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3777 - 3781
 
 
 ## Anlage 2 (zu § 1 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002000000)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3782)
 ..............................................
@@ -2029,6 +2050,7 @@ Ort, Datum
 
 
 ## Anlage 3 (zu § 1 Abs. 6)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002100000)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3783)
 .......................................
@@ -2064,6 +2086,7 @@ Krankengymnasten oder Physiotherapeuten)
 
 
 ## Anlage 4 (zu § 10 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002200000)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3784)
 Der Vorsitzende
@@ -2099,6 +2122,7 @@ Prüfungsausschusses)
 
 
 ## Anlage 5 (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002301116)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3785)
 Urkunde
@@ -2122,6 +2146,7 @@ Ort, Datum
 
 
 ## Anlage 5a (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002900116)
 
 (Fundstelle: BGBl. I 2016, 932)
 
@@ -2160,6 +2185,7 @@ Unterschrift(en) der Einrichtung
 
 
 ## Anlage 5b (zu § 16a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE003000116)
 
 (Fundstelle: BGBl. I 2016, 932)
 
@@ -2222,6 +2248,7 @@ Bademeister bestanden/nicht bestanden\*.
 
 
 ## Anlage 6 (zu § § 16b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002601116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2318,6 +2345,7 @@ Bademeister bestanden/nicht bestanden\*.
 [^F781546_01_BJNR377010994BJNE002601116]: 
 
 ## Anlage 7 (zu § § 16b Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/mb-aprv/BJNR377010994.html#BJNR377010994BJNE002701116)
 
 
 *    *   Die/der Vorsitzende

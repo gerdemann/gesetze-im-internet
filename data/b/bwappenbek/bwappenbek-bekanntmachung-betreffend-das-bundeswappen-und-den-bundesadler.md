@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bwappenbek/BJNR000260950.html#BJNR000260950BJNE000100304)
 
 (1) Auf Grund eines Beschlusses der Bundesregierung gebe ich hiermit
 bekannt, daß das Bundeswappen auf goldgelbem Grund den einköpfigen
@@ -35,6 +36,7 @@ Ausgestaltung bleibt für jeden besonderen Zweck vorbehalten.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bwappenbek/BJNR000260950.html#BJNR000260950BJNE000200304)
 
 Der Bundespräsident
 Der Bundeskanzler

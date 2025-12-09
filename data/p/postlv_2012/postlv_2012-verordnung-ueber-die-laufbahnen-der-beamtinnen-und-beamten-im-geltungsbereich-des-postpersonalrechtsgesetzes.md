@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000100000)
 
 Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des
 Postpersonalrechtsgesetzes, der zuletzt durch Artikel 15 Absatz 104
@@ -32,6 +33,7 @@ Telekom AG, der Deutschen Post AG und der Deutschen Postbank AG:
 
 
 ## § 1 Geltungsbereich, Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000203119)
 
 (1) Für Beamtinnen und Beamte, die bei einem Postnachfolgeunternehmen
 beschäftigt sind, gelten die Vorschriften der
@@ -68,6 +70,7 @@ die wahrgenommen werden
 
 
 ## § 2 Gestaltung der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000300000)
 
 (1) In den Laufbahngruppen des einfachen, mittleren, gehobenen und
 höheren Dienstes treten an die Stelle der Laufbahnen nach § 6 Absatz 2
@@ -86,6 +89,7 @@ Amtsbezeichnungen ergeben sich aus Anlage 1.
 
 
 ## § 3 Qualifizierung bei Laufbahnwechsel
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000400000)
 
 Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche
 Qualifizierung kann auch durch Wahrnehmung entsprechender beruflicher
@@ -94,6 +98,7 @@ erworben werden.
 
 
 ## § 4 Zulassung zu einer höheren Laufbahn bei Besitz der erforderlichen Hochschulausbildung
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000500000)
 
 (1) Beamtinnen und Beamte, die die für eine höhere Laufbahn
 erforderliche Hochschulausbildung besitzen, können abweichend von § 24
@@ -111,6 +116,7 @@ zu vermitteln.
 
 
 ## § 5 Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000600000)
 
 (1) § 27 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden,
 dass die oberste Dienstbehörde auch Arbeitsplätze bei inländischen
@@ -125,6 +131,7 @@ Auswahlverfahren zu fordern.
 
 
 ## § 6 Beurteilung und Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000701305)
 
 (1) In den Fällen des § 1 Absatz 5 ist Maßstab für die regelmäßige
 Laufbahnentwicklung das Fortkommen der Beamtinnen und Beamten
@@ -156,6 +163,7 @@ Dienstbehörde abgesehen werden.
 
 
 ## § 7 Fachspezifische Qualifizierungen für den Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000801119)
 
 Wenn die Anforderungen der Laufbahnen es rechtfertigen, kann die
 oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der
@@ -179,6 +187,7 @@ Finanzen
 
 
 ## § 8 Überleitungs- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE000901305)
 
 (1) Beamtinnen und Beamte, die sich bei Inkrafttreten dieser
 Verordnung in Laufbahnen des Post- und Fernmeldedienstes befinden,
@@ -255,6 +264,7 @@ ist, steht einer Beurlaubung nach § 1 Absatz 5 Nummer 1 gleich.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE001000000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -288,6 +298,7 @@ gleichzeitig die folgenden Verordnungen außer Kraft:
 
 
 ## Anlage 1 (zu § 2 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE001100000)
 
 (Fundstelle: BGBl. I 2012, 93 - 94)
 
@@ -540,6 +551,7 @@ Höherer Dienst
 (zu § 8 Absatz 1 und 3)
 
 ## Anlage 2 Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
+[Direktlink](https://www.gesetze-im-internet.de/postlv_2012/BJNR009000012.html#BJNR009000012BJNE001200000)
 
 (Fundstelle: BGBl. I 2012, 95)
 

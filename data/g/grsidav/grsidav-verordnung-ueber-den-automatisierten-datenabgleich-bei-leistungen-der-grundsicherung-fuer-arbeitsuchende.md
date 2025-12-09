@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Verfahren bei der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000105119)
 
 (1) Die Bundesagentur für Arbeit bezieht in den Datenabgleich alle
 Personen ein, die innerhalb des dem Abgleich vorangehenden
@@ -56,6 +57,7 @@ abweichen.
 
 
 ## § 1a Verfahren bei den zugelassenen kommunalen Trägern
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000601119)
 
 Die zugelassenen kommunalen Träger beziehen in den Datenabgleich alle
 Personen ein, die im Abgleichszeitraum von ihnen Leistungen der
@@ -66,6 +68,7 @@ Absatz 2 gilt entsprechend.
 
 
 ## § 1b Verfahren bei der Kopfstelle
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000703119)
 
 (1) Die Kopfstelle
 
@@ -106,6 +109,7 @@ der auf den Abgleichszeitraum folgt.
 
 
 ## § 2 Verfahren bei den Auskunftsstellen und der Datenstelle der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000205119)
 
 (1) Die Auskunftsstellen und die Datenstelle der Rentenversicherung
 führen den Datenabgleich nach den Absätzen 2 bis 7 durch und
@@ -172,6 +176,7 @@ Arbeit als Träger der Arbeitsförderung im Abgleichszeitraum.
 
 
 ## § 3 Anforderungen an die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000303119)
 
 (1) Das für die Datenübermittlung verwendete Übermittlungsmedium und
 das Übermittlungsverfahren müssen dem Stand der Technik entsprechend
@@ -210,6 +215,7 @@ Abschluss des Abgleichs zu löschen.
 
 
 ## § 4 Einzelheiten des Datenabgleichverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000401308)
 
 Die Einzelheiten des Datenabgleichverfahrens, insbesondere des Aufbaus
 der Datensätze, der Übermittlung, der Prüfung und Berichtigung von
@@ -221,6 +227,7 @@ Festlegungen zu erreichen.
 
 
 ## § 5 Kosten der Kopfstelle
+[Direktlink](https://www.gesetze-im-internet.de/grsidav/BJNR227310005.html#BJNR227310005BJNE000503360)
 
 (1) Die Bundesagentur für Arbeit erstattet der Kopfstelle den Aufwand
 für die Vermittlung des Datenabgleichs nach § 52 des Zweiten Buches

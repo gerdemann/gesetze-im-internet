@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE000400319)
 
 
 *    *
@@ -56,10 +57,12 @@ Zuletzt geändert durch
 
 
 ## I. - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE000502308)
 
 Dieses Gesetz findet unbeschadet des § 5 Abs. 4 und des § 17 Anwendung
 auf
@@ -98,6 +101,7 @@ e)  Hinterbliebene der in Buchstaben a bis d genannten Personen bezüglich
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE000601308)
 
 Dieses Gesetz gilt nicht für
 
@@ -151,6 +155,7 @@ Berufskrankheiten unberührt bleiben.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE000701305)
 
 (1) Als deutsche Versicherungsträger im Sinne dieses Gesetzes sind
 alle Versicherungsträger anzusehen, die ihren Sitz innerhalb des
@@ -165,6 +170,7 @@ Januar 1992 das Recht der Bundesrepublik Deutschland.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE000801305)
 
 (1) Für die Feststellung der nach diesem Gesetz erheblichen Tatsachen
 genügt es, wenn sie glaubhaft gemacht sind. Eine Tatsache ist
@@ -184,10 +190,12 @@ Sinne des § 156 des Strafgesetzbuchs.
 
 
 ## II. - Gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNG000200319)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE000901305)
 
 (1) Nach den für die gesetzliche Unfallversicherung maßgebenden
 bundesrechtlichen Vorschriften wird auch entschädigt
@@ -236,6 +244,7 @@ der gesetzlichen Unfallversicherung übergegangen sind.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001000319)
 
 Als gesetzliche Unfallversicherung gelten auf Gesetz beruhende
 Versicherungen gegen Arbeitsunfälle und Berufskrankheiten oder eines
@@ -243,6 +252,7 @@ dieser Wagnisse.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001101305)
 
 Für Voraussetzungen, Art, Dauer und Höhe der Leistungen gelten die
 Vorschriften der gesetzlichen Unfallversicherung, die anzuwenden
@@ -252,6 +262,7 @@ seinen Sitz hat.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001204308)
 
 (1) Als Jahresarbeitsverdienst im Sinne des § 82 Abs. 1 und 2 Satz 1
 des Siebten Buches Sozialgesetzbuch gilt der Betrag, der sich dadurch
@@ -309,6 +320,7 @@ ist mit dem Faktor 0,5 zu vervielfältigen.
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005702308)
 
 (1) Bei Berechtigten nach diesem Gesetz, die
 
@@ -362,6 +374,7 @@ und Berufskrankheiten nach Absätzen 1 und 2 gezahlt wird.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001306377)
 
 (1) Zuständig für die Feststellung und Gewährung der Leistungen ist
 der Träger der Unfallversicherung, der nach der Art des Unternehmens,
@@ -388,11 +401,13 @@ Herkunftslands haben.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001402308)
 
 (weggefallen)
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001502308)
 
 (1) Wird dem Berechtigten von einem Träger der Sozialversicherung oder
 einer anderen Stelle außerhalb der Bundesrepublik Deutschland für
@@ -411,6 +426,7 @@ gewährt.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001601305)
 
 (1) Die Rente, die für einen Arbeitsunfall oder eine Berufskrankheit
 nach § 5 zu gewähren ist, ruht, solange sich der Berechtigte außerhalb
@@ -430,6 +446,7 @@ Versicherungsträger bestimmen durch Vereinbarung, welcher von ihnen
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001701305)
 
 (1) Ist der Arbeitsunfall oder die Berufskrankheit vor dem 9. Mai 1945
 außerhalb des Gebiets der Bundesrepublik Deutschland eingetreten und
@@ -466,10 +483,12 @@ Vertretung hat.
 
 
 ## III. - Gesetzliche Rentenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNG000300319)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001801305)
 
 Soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt,
 richten sich die Rechte und Pflichten der nach diesem Abschnitt
@@ -478,6 +497,7 @@ allgemeinen Vorschriften.
 
 
 ### § 14a
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE006000308)
 
 Bei Renten wegen Todes an Witwen und Witwer von Personen, die nicht
 zum Personenkreis des § 1 gehören, werden Zeiten nach diesem Gesetz
@@ -488,6 +508,7 @@ verstorben ist.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE001903305)
 
 (1) Beitragszeiten, die bei einem nichtdeutschen Träger der
 gesetzlichen Rentenversicherungen zurückgelegt sind, stehen den nach
@@ -546,6 +567,7 @@ d)  die von Zeit- oder Berufssoldaten oder vergleichbaren Personen
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002003308)
 
 (1) Eine nach vollendetem 17. Lebensjahr vor der Vertreibung in Polen,
 Ungarn, Rumänien, Bulgarien, Jugoslawien, Albanien, China, der
@@ -572,6 +594,7 @@ Berufssoldaten und vergleichbaren Personen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002104305)
 
 (1)
 
@@ -590,6 +613,7 @@ Anwendung.
 
 
 ### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005501305)
 
 Die für die gesetzliche Rentenversicherung maßgebenden Vorschriften
 dieses Gesetzes finden Anwendung auch auf
@@ -623,6 +647,7 @@ b)  Hinterbliebene der in Buchstabe a genannten Personen bezüglich der
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002202308)
 
 (1) § 15 findet keine Anwendung, wenn die Beiträge als einmalige
 Einlage oder als laufende Beiträge zur Versicherung anderer als der
@@ -652,6 +677,7 @@ sind.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002303119)
 
 (1) Die Beitragszeit wird in ihrem ursprünglichen Umfang angerechnet,
 wenn sie sich bei einem Wechsel des Versicherungsträgers verringert
@@ -671,6 +697,7 @@ als volle Beitragswoche.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002404308)
 
 (1) Zeiten der in den §§ 15 und 16 genannten Art werden der
 allgemeinen Rentenversicherung zugeordnet, soweit die nachfolgenden
@@ -730,6 +757,7 @@ die vor dem 1. März 1957 zurückgelegt wurden.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002501308)
 
 Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen
 Versicherungspflicht nicht bestanden hat und Versicherte nach dem
@@ -740,6 +768,7 @@ Häftlingshilfegesetzes gehören.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002609308)
 
 (1) Für Zeiten der in §§ 15 und 16 genannten Art werden Entgeltpunkte
 in Anwendung von § 256b Abs. 1 Satz 1 erster Halbsatz, Satz 2 und 9
@@ -779,6 +808,7 @@ mit dem Faktor 0,6 vervielfältigt.
 
 
 ### § 22a
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005805308)
 
 (1) (weggefallen)
 
@@ -797,6 +827,7 @@ Rente berücksichtigt wurden.
 
 
 ### § 22b
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005904308)
 
 (1) Für anrechenbare Zeiten nach diesem Gesetz werden für Renten aus
 eigener Versicherung und wegen Todes eines Berechtigten insgesamt
@@ -821,6 +852,7 @@ jedoch 25 Entgeltpunkte für einen Berechtigten.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002703305)
 
 (1) Bei pflichtversicherten Selbständigen ist für die Zuordnung der
 Werte für die Ermittlung der Entgeltpunkte § 22 unter Berücksichtigung
@@ -842,10 +874,12 @@ anzuwenden.
 
 
 ### (XXXX) §§ 24 und 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE002801308)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003002308)
 
 Werden Beitrags- und Beschäftigungszeiten nur für einen Teil eines
 Kalenderjahres angerechnet, werden bei Anwendung des § 22 Abs. 1 die
@@ -863,10 +897,12 @@ Tätigkeit ausgeübt worden ist.
 
 
 ### (XXXX) §§ 27 und 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003102308)
 
 
 
 ### § 28a
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003302308)
 
 Zeiten, in denen der Berechtigte aus einem System der sozialen
 Sicherheit eine Rente wegen verminderter Erwerbsfähigkeit oder wegen
@@ -877,6 +913,7 @@ nach diesem Gesetz anrechenbar sind.
 
 
 ### § 28b
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005405308)
 
 Für die Anrechnung von Kindererziehungszeiten und
 Berücksichtigungszeiten wegen Kindererziehung nach dem Sechsten Buch
@@ -891,6 +928,7 @@ mehr als zwei Kalendermonate erfolgen.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003404308)
 
 (1) Anrechnungszeiten sind auch Zeiten, in denen eine in den §§ 15 und
 16 genannte Beschäftigung oder Tätigkeit durch Arbeitsunfähigkeit
@@ -913,6 +951,7 @@ bewertet.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003502308)
 
 Für den Beginn einer Rente gilt § 99 Abs. 1 des Sechsten Buches
 Sozialgesetzbuch mit der Maßgabe, daß die Rente frühestens vom Tage
@@ -921,6 +960,7 @@ beachten; sie beginnt mit dem Tage des Zuzugs.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003603126)
 
 (1) Wird dem Berechtigten von einem Träger der Sozialversicherung oder
 einer anderen Stelle außerhalb der Bundesrepublik Deutschland für die
@@ -942,6 +982,7 @@ gewährt.
 
 
 ### Anlage 1 Definitionen der Leistungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003802308)
 
 (Fundstelle: BGBl. Teil III 824-2 S. 9 - 13;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1836,6 +1877,7 @@ besteht.
 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE003900319)
 
 Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 14;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1881,6 +1923,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004000319)
 
    Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 14;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1944,6 +1987,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004100319)
 
 Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 15
 
@@ -2114,6 +2158,7 @@ Rentenversicherung der Arbeiter
 
 
 ### Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004202308)
 
 (Fundstelle: BGBl. I 2006, S. 1881 - 1882;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2986,6 +3031,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004300319)
 
 (Fundstelle: BGBl. Teil III 824-2, S. 16)
 
@@ -3210,6 +3256,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004401308)
 
 (Fundstelle: BGBl. I 2006 S. 1883 - 1884)
 
@@ -3981,6 +4028,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 8
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004500319)
 
 (Fundstelle: BGBl. Teil III 824-2, S. 17)
 
@@ -4176,6 +4224,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 9
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004602308)
 
 (Fundstelle: BGBl. I 2006, S. 1884 - 1885;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4844,6 +4893,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 10
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004700319)
 
 (Fundstelle: BGBl. Teil III 824-2, S. 18)
 
@@ -5039,6 +5089,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 11
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004802308)
 
 (Fundstelle: BGBl. I 2006 S. 1885 - 1887;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5706,6 +5757,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 12
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE004900319)
 
 (Fundstelle: BGBl. Teil III 824-2, S. 19)
 
@@ -5777,6 +5829,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 13
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005001308)
 
 (Fundstelle: BGBl. I 2006 S. 1887 - 1888)
 
@@ -6437,12 +6490,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 14
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005100319)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle BGBl Teil III 824-2, S. 20)
 
 
 ### Anlage 15
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005202308)
 
 ( Inhalt: nicht darstellbare Tabelle,
 Fundstelle BGBl I 2006 S. 1888 - 1890;
@@ -6450,6 +6505,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ### Anlage 16
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005300319)
 
 (Fundstelle: BGBl. Teil III 824-2, S. 20)
 
@@ -6536,6 +6592,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ### Anlage 17 Entgeltpunkte für jedes volle Kalenderjahr unterteilt nach Wirtschaftsbereichen und Leistungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/frg/BJNR000940960.html#BJNR000940960BJNE005600308)
 
 ( Inhalt: Nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1989, 2369 - 2370 )

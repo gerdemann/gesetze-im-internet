@@ -21,6 +21,7 @@ Fundstelle
 Stand: Ersetzt AnO 2030-14-212 v. 7.2.2016 I 245 (BMVgWidVertrAnO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000100000)
 
 Nach
 
@@ -51,6 +52,7 @@ an:
 
 
 ## § 1 Widersprüche in Besoldungs- und Beihilfeangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000200000)
 
 (1) Die Zuständigkeit für die Entscheidung über Widersprüche in
 Besoldungs- und Beihilfeangelegenheiten wird übertragen auf
@@ -75,6 +77,7 @@ abgelehnt hat.
 
 
 ## § 2 Widersprüche in Angelegenheiten der Beamtenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000300000)
 
 Die Zuständigkeit für die Entscheidung über Widersprüche in
 Angelegenheiten der Beamtenversorgung wird auf folgende Behörden
@@ -102,6 +105,7 @@ Angelegenheiten der Beamtenversorgung wird auf folgende Behörden
 
 
 ## § 3 Widersprüche in Angelegenheiten der Soldatenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000400000)
 
 (1) Die Zuständigkeit für die Entscheidung über Widersprüche in
 Angelegenheiten der Dienstzeitversorgung nach § 87 Absatz 1 des
@@ -126,6 +130,7 @@ für das Personalmanagement der Bundeswehr übertragen.
 
 
 ## § 4 Vertretung bei Klagen in Angelegenheiten der Unterhaltssicherung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000500000)
 
 Die Vertretung der Bundesrepublik Deutschland bei Klagen in
 Angelegenheiten der Unterhaltssicherung wird der Präsidentin oder dem
@@ -134,6 +139,7 @@ Präsidenten des Bundesamts für das Personalmanagement der Bundeswehr
 
 
 ## § 5 Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000600000)
 
 (1) Die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem
 Beamten- oder Wehrdienstverhältnis wird den Leiterinnen und Leitern
@@ -177,6 +183,7 @@ Bundesamts für das Personalmanagement der Bundeswehr übertragen.
 
 
 ## § 6 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000700000)
 
 Das Bundesministerium der Verteidigung kann im Einzelfall die
 Zuständigkeit und die Vertretung abweichend von den §§ 1 bis 5 regeln.
@@ -186,6 +193,7 @@ erforderlich, wenn Behörden ihrer Geschäftsbereiche betroffen sind.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/BJNR305800017.html#BJNR305800017BJNE000800000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juni 2017 in Kraft.
 Gleichzeitig tritt die Anordnung des Bundesministers der Verteidigung

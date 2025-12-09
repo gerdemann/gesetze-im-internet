@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jurausbrefg/BJNR259200002.html#BJNR259200002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/jurausbrefg/BJNR259200002.html#BJNR259200002BJNE000200000)
 
 -
 
 
 ## Art 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jurausbrefg/BJNR259200002.html#BJNR259200002BJNE000300000)
 
 (1) Für Studierende, die vor Inkrafttreten dieses Gesetzes das Studium
 aufgenommen haben und sich bis zum 1. Juli 2006 zur ersten
@@ -52,6 +55,7 @@ dem bisherigen Recht beenden.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jurausbrefg/BJNR259200002.html#BJNR259200002BJNE000400000)
 
 Dieses Gesetz tritt am 1. Juli 2003 in Kraft.
 

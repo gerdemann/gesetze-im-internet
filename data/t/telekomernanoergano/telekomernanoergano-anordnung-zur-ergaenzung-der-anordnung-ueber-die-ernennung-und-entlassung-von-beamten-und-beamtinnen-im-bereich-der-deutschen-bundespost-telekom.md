@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/telekomernan_rgano/BJNR009810992.html#BJNR009810992BJNE000100314)
 
 In Ergänzung unserer Anordnung über die Ernennung und Entlassung von
 Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom vom
@@ -28,6 +29,7 @@ Direktionen Telekom.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/telekomernan_rgano/BJNR009810992.html#BJNR009810992BJNE000200314)
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I der Anordnung vom 28. Februar 1990 genannten Beamten
@@ -35,11 +37,13 @@ und Beamtinnen vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/telekomernan_rgano/BJNR009810992.html#BJNR009810992BJNE000300314)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/telekomernan_rgano/BJNR009810992.html#BJNR009810992BJNE000400314)
 
 Deutsche Bundespost Telekom
 Generaldirektion

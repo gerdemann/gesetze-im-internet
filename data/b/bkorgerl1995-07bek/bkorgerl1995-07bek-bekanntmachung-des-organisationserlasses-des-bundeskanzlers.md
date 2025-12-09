@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1995-07bek/BJNR108500995.html#BJNR108500995BJNE000100308)
 
 Nachstehend mache ich in Vertretung des Chefs des Bundeskanzleramtes
 den Organisationserlaß des Bundeskanzlers vom 18. Juli 1995 bekannt,

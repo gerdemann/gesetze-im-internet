@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Verhältnis zum allgemeinen Verfahrensrecht
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000101377)
 
 (1) Auf das Verfahren in Höfesachen sind die Vorschriften des Gesetzes
 über das gerichtliche Verfahren in Landwirtschaftssachen vom 21. Juli
@@ -36,6 +37,7 @@ Ersatzbetriebes oder von Ersatzgrundstücken geltend gemacht werden.
 
 
 ## § 2 Eintragungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000200325)
 
 (1) Eine Besitzung, die nach den höferechtlichen Vorschriften Hof ist
 oder auf Grund einer Erklärung des Eigentümers Hof werden kann, wird
@@ -47,6 +49,7 @@ entsprechend.
 
 
 ## § 3 Ersuchensgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000300325)
 
 (1) Das Landwirtschaftsgericht ersucht das Grundbuchamt um Eintragung
 oder Löschung des die Eigenschaft als Hof oder als Ehegattenhof
@@ -76,6 +79,7 @@ Landwirtschaftsgericht ohne Zuziehung ehrenamtlicher Richter.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000402119)
 
 Das Finanzamt teilt dem Landwirtschaftsgericht den Grundsteuerwert für
 einen Betrieb der Land- und Forstwirtschaft mit, wenn dieser
@@ -96,6 +100,7 @@ Die Mitteilungen erfolgen mindestens einmal jährlich.
 
 
 ## § 4 Erklärungen nach den höferechtlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000500325)
 
 (1) Die in den höferechtlichen Vorschriften vorgesehenen Erklärungen,
 daß eine Besitzung Hof oder Ehegattenhof sein soll oder nicht sein
@@ -109,12 +114,14 @@ werden; § 1 Abs. 6 Satz 1 der Höfeordnung gilt entsprechend.
 
 
 ## § 5 Vermutung
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000600325)
 
 Die Eintragung des Hofvermerks begründet die Vermutung, daß die
 Besitzung die durch den Vermerk ausgewiesene Eigenschaft hat.
 
 
 ## § 6 Hofvermerk
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000700325)
 
 (1) Der Hofvermerk wird in der Aufschrift des Grundbuchs des Hofes
 eingetragen und lautet:
@@ -163,6 +170,7 @@ einzutragen.
 
 
 ## § 7 Besonderes Grundbuchblatt
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000800325)
 
 (1) Die zum Hof gehörenden Grundstücke desselben Eigentümers sind auf
 Ersuchen des Landwirtschaftsgerichts auf einem besonderen
@@ -177,6 +185,7 @@ Hofvermerk nicht mit zu übertragen.
 
 
 ## § 8 Löschungsersuchen von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE000900325)
 
 (1) Will das Landwirtschaftsgericht von Amts wegen um die Löschung
 eines Hofvermerks ersuchen, so hat es den Eigentümer von seiner
@@ -193,6 +202,7 @@ höferechtlichen Vorschriften nicht vorliegt.
 
 
 ## § 9 Benachrichtigung
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001000325)
 
 Von der Eintragung und Löschung eines Hofvermerks sowie von der
 Abtrennung eines einzelnen Grundstücks (§ 7 Abs. 3) benachrichtigt das
@@ -201,6 +211,7 @@ nach dem Grundstücksverkehrsgesetz.
 
 
 ## § 10 Höfeakten
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001100325)
 
 Das Ersuchen des Landwirtschaftsgerichts um Eintragung oder Löschung
 des Hofvermerks und sonstige höferechtlich erhebliche Vorgänge sind zu
@@ -209,6 +220,7 @@ Hofstelle aufzubewahren ist.
 
 
 ## § 11 Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001200325)
 
 (1) Auf Antrag eines Beteiligten, der ein rechtliches Interesse an der
 Entscheidung glaubhaft macht, entscheidet das Landwirtschaftsgericht
@@ -255,6 +267,7 @@ Einlegung der Beschwerde verbunden werden.
 
 
 ## § 12 Abänderung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001300325)
 
 (1) Ist im Feststellungsverfahren rechtskräftig entschieden worden, so
 können diejenigen, die sich am Verfahren beteiligt haben oder von dem
@@ -277,6 +290,7 @@ Voraussetzungen nachträglich weggefallen sind.
 
 
 ## § 13 Zustimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001400325)
 
 (1) Den Antrag auf Zustimmung zu einer Verfügung von Todes wegen kann
 der Erblasser, zu einem Erbvertrag auch der andere Vertragsschließende
@@ -290,6 +304,7 @@ ein berechtigtes Interesse an der Entscheidung glaubhaft macht.
 
 
 ## § 14 Beschwerdeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001500325)
 
 Genehmigt das Landwirtschaftsgericht eine Verfügung von Todes wegen,
 durch die so viele Grundstücke vom Hof abgetrennt werden, daß er nach
@@ -301,6 +316,7 @@ gemeinschaftliches Testament als Hoferbe bestimmt ist.
 
 
 ## § 15 Entscheidung im Zustimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001600325)
 
 (1) Entscheidet das Landwirtschaftsgericht rechtskräftig, daß eine
 Zustimmung nicht erforderlich ist, so steht diese Entscheidung der
@@ -311,12 +327,14 @@ werden. Sie wird erst mit der Rechtskraft der Entscheidung wirksam.
 
 
 ## § 16 Übergabeverträge
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001700325)
 
 Für die Genehmigung eines Übergabevertrages gelten die Vorschriften
 der §§ 13 bis 15 sinngemäß.
 
 
 ## § 17 Stundungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001801377)
 
 Im Verfahren über die Stundung, Verzinsung und Sicherung eines
 Abfindungsanspruchs (§ 12 Abs. 5 der Höfeordnung) ist § 264 des
@@ -326,10 +344,12 @@ anzuwenden.
 
 
 ## (XXXX) §§ 18 bis 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE001901301)
 
 
 
 ## § 25 Anpassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE002600325)
 
 (1) Rechte, die auf Grund früherer anerbenrechtlicher Vorschriften
 entstanden sind, können, falls in der Höfeordnung gleiche oder
@@ -347,6 +367,7 @@ Grundbuch eingetragen werden.
 
 
 ## § 26 Geltung für Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/h_fevfo/BJNR008850976.html#BJNR008850976BJNE002701308)
 
 Die für Ehegatten und Ehegattenhöfe geltenden Vorschriften dieses
 Gesetzes gelten entsprechend für Lebenspartner und Lebenspartnerhöfe.

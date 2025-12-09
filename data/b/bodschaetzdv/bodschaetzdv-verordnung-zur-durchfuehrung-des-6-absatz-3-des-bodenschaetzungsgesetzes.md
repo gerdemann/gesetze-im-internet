@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzdv/BJNR031100012.html#BJNR031100012BJNE000100000)
 
 Auf Grund des § 6 Absatz 3 des Bodenschätzungsgesetzes vom 20.
 Dezember 2007 (BGBl. I S. 3150, 3176) verordnet das Bundesministerium
@@ -27,6 +28,7 @@ der Finanzen:
 
 
 ## § 1 Musterstücke
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzdv/BJNR031100012.html#BJNR031100012BJNE000201119)
 
 Die in der Anlage mit ihren Schätzungsergebnissen aufgeführten
 Bodenflächen sind die Musterstücke der Bodenschätzung (§ 6 Absatz 1
@@ -35,12 +37,14 @@ Vergleichsstücke auf dem Gebiet der Bundesrepublik Deutschland bilden.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzdv/BJNR031100012.html#BJNR031100012BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 31. Dezember 2013
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzdv/BJNR031100012.html#BJNR031100012BJNE000401119)
 
 (Fundstelle: BGBl. I 2014, 963 - 1034)
 

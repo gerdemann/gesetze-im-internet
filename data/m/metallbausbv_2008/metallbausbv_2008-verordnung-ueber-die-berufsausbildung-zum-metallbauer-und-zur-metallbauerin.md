@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des §
 27 der Handwerksordnung in der Fassung der Bekanntmachung vom 14.
@@ -37,6 +38,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000200000)
 
 Der Ausbildungsberuf Metallbauer und Metallbauerin wird nach § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 13,
@@ -44,11 +46,13 @@ Metallbauer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einer der Fachrichtungen
@@ -66,6 +70,7 @@ und die Ausbildung in einer der Fachrichtungen
 
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -233,6 +238,7 @@ Nutzfahrzeugbau:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000600000)
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
@@ -253,6 +259,7 @@ Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000700000)
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
@@ -273,6 +280,7 @@ Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000800000)
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -336,6 +344,7 @@ Arbeitsauftrag.
 
 
 ## § 8 Teil 2 der Gesellenprüfung in der Fachrichtung Konstruktionstechnik
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE000900000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -527,6 +536,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelung in der Fachrichtung Konstruktionstechnik
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001000000)
 
 (1) Die Prüfungsbereiche in der Fachrichtung Konstruktionstechnik sind
 wie folgt zu gewichten:
@@ -593,6 +603,7 @@ bewertet worden sind.
 
 
 ## § 10 Teil 2 der Gesellenprüfung in der Fachrichtung Metallgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001100000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -784,6 +795,7 @@ folgende Vorgaben:
 
 
 ## § 11 Gewichtungs- und Bestehensregelung in der Fachrichtung Metallgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001200000)
 
 (1) Die Prüfungsbereiche in der Fachrichtung Metallgestaltung sind wie
 folgt zu gewichten:
@@ -850,6 +862,7 @@ bewertet worden sind.
 
 
 ## § 12 Teil 2 der Gesellenprüfung in der Fachrichtung Nutzfahrzeugbau
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001300000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1040,6 +1053,7 @@ folgende Vorgaben:
 
 
 ## § 13 Gewichtungs- und Bestehensregelung in der Fachrichtung Nutzfahrzeugbau
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001400000)
 
 (1) Die Prüfungsbereiche in der Fachrichtung Nutzfahrzeugbau sind wie
 folgt zu gewichten:
@@ -1106,6 +1120,7 @@ bewertet worden sind.
 
 
 ## § 14 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001500000)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Gesellenprüfung mit schlechter als „ausreichend“ bewerteten
@@ -1119,6 +1134,7 @@ zu gewichten.
 
 
 ## § 15 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001600000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -1130,6 +1146,7 @@ die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001700000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft. Gleichzeitig treten
 die Verordnung über die Berufsausbildung zum Metallbauer/zur
@@ -1142,6 +1159,7 @@ Berufsausbildung zum Metallbauer/zur Metallbauerin vom 24. März 2003
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metallbauer/zur Metallbauerin
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbv_2008/BJNR146800008.html#BJNR146800008BJNE001800000)
 
 (Fundstelle: BGBl. I 2008, 1475 - 1489)
 

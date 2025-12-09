@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Übertragung von Verordnungsermächtigungen nach dem Telekommunikationsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/tkemvfua_bertrv/BJNR353410017.html#BJNR353410017BJNE000102119)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen wird ermächtigt, Rechtsverordnungen nach Maßgabe des §
@@ -29,6 +30,7 @@ des Telekommunikationsgesetzes zu erlassen.
 
 
 ## § 2 Übertragung von Verordnungsermächtigungen nach dem Elektromagnetische-Verträglichkeit-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/tkemvfua_bertrv/BJNR353410017.html#BJNR353410017BJNE000200000)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen wird ermächtigt, Rechtsverordnungen nach Maßgabe des §
@@ -37,6 +39,7 @@ erlassen.
 
 
 ## § 3 Übertragung von Verordnungsermächtigungen nach dem Funkanlagengesetz
+[Direktlink](https://www.gesetze-im-internet.de/tkemvfua_bertrv/BJNR353410017.html#BJNR353410017BJNE000300000)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen wird ermächtigt, Rechtsverordnungen nach Maßgabe des §
@@ -44,6 +47,7 @@ und Eisenbahnen wird ermächtigt, Rechtsverordnungen nach Maßgabe des §
 
 
 ## § 4 Reichweite der Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkemvfua_bertrv/BJNR353410017.html#BJNR353410017BJNE000400000)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen darf die Befugnis, Verordnungen auf der Grundlage

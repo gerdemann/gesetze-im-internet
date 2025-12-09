@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kovautvtrg/BJNR202200964.html#BJNR202200964BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetze
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kovautvtrg/BJNR202200964.html#BJNR202200964BJNE000200314)
 
 Dem in Bonn am 7. Mai 1963 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über
@@ -36,6 +38,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kovautvtrg/BJNR202200964.html#BJNR202200964BJNE000300314)
 
 Für die Durchführung der Heil- und Krankenbehandlung nach Artikel 3,
 4, 6 und 7 Abs. 2 des Vertrags und für die Kostenerstattung an die
@@ -46,6 +49,7 @@ Vertrags ausgenommen sind.
 
 
 ## Art 2a
+[Direktlink](https://www.gesetze-im-internet.de/kovautvtrg/BJNR202200964.html#BJNR202200964BJNE000400314)
 
 Artikel 11 des Vertrags wird, soweit es sich um Erstattungsverfahren
 in Durchführung der Artikel 2 bis 7 und 10 handelt, für den Bereich
@@ -58,12 +62,14 @@ des Krieges in der Republik Österreich zuständig ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kovautvtrg/BJNR202200964.html#BJNR202200964BJNE000500314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kovautvtrg/BJNR202200964.html#BJNR202200964BJNE000600314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

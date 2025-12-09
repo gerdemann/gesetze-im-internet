@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkkorg/BJNR091420001.html#BJNR091420001BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkkorg/BJNR091420001.html#BJNR091420001BJNE000200000)
 
 Dem in Berlin am 10. März 2000 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Korea über Soziale
@@ -33,6 +35,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkkorg/BJNR091420001.html#BJNR091420001BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -65,6 +68,7 @@ zu treffen über:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkkorg/BJNR091420001.html#BJNR091420001BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

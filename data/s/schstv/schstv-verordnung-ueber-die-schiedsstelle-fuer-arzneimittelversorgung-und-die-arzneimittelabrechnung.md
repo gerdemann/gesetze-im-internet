@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000101308)
 
 Auf Grund des § 129 Absatz 10 und des § 130b Absatz 6 des Fünften
 Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –, von denen
@@ -31,6 +32,7 @@ Gesundheit:
 
 
 ## § 1 Zusammensetzung und Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000205126)
 
 (1) Mitglieder der Schiedsstelle sind ein unparteiischer Vorsitzender,
 zwei weitere unparteiische Mitglieder und die benannten Mitglieder
@@ -61,6 +63,7 @@ Gesundheit die Mitglieder.
 
 
 ## § 2 Amtsperiode
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000302124)
 
 (1) Die Amtsdauer der Mitglieder beträgt vier Jahre. Die Amtsdauer der
 während einer Amtsperiode neu bestellten Mitglieder endet mit dem
@@ -71,6 +74,7 @@ Satz 2 benannten Mitglieder mit Wirksamwerden des Schiedsspruchs.
 
 
 ## § 3 Abberufung und Amtsniederlegung
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000403308)
 
 (1) Das Bundesministerium für Gesundheit kann Mitglieder und ihre
 Stellvertreter auf Antrag einer Vertragspartei aus wichtigem Grunde
@@ -87,6 +91,7 @@ entsprechend.
 
 
 ## § 4 Teilnahme an Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000500000)
 
 Die Mitglieder sind verpflichtet, an den Sitzungen teilzunehmen oder
 bei Verhinderung ihre Stellvertreter zu benachrichtigen. Satz 1 gilt
@@ -94,12 +99,14 @@ entsprechend für die Stellvertreter.
 
 
 ## § 5 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000601308)
 
 Die Geschäfte der Schiedsstelle werden beim Spitzenverband Bund der
 Krankenkassen geführt. Sie ist an Weisungen des Vorsitzenden gebunden.
 
 
 ## § 6 Einleitung des Schiedsverfahrens, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000706126)
 
 (1) Kommt ein Vertrag nach § 129 Absatz 2, § 130b Absatz 1, § 131
 Absatz 3 Satz 1 oder § 300 Absatz 3 des Fünften Buches
@@ -135,6 +142,7 @@ Sitzungsunterlagen beizufügen, die Gegenstand der Beratung sind.
 
 
 ## § 7 Vorlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000800000)
 
 Auf Verlangen der Schiedsstelle haben die Vertragsparteien der
 Schiedsstelle die für die Entscheidung erforderlichen Unterlagen
@@ -142,6 +150,7 @@ vorzulegen.
 
 
 ## § 8 Beratung und Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE000904126)
 
 (1) Die Schiedsstelle ist beschlussfähig, wenn mindestens der
 Vorsitzende und ein unparteiisches Mitglied und folgende Mitglieder
@@ -190,6 +199,7 @@ Schiedsstelle und die Entscheidung nach § 8 Abs. 2.
 
 
 ## § 9 Entschädigung und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE001004308)
 
 (1) Der Vorsitzende und die zwei weiteren unparteiischen Mitglieder
 oder ihre Stellvertreter erhalten Reisekosten nach den Vorschriften
@@ -215,11 +225,13 @@ an der Schiedsstelle beteiligten Verbände.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE001100000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schstv/BJNR278400994.html#BJNR278400994BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

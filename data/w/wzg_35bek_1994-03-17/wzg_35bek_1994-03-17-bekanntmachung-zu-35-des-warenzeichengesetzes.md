@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35bek_1994-03-17/BJNR063900994.html#BJNR063900994BJNE000100307)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
 in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1,
@@ -40,6 +41,7 @@ des Warenzeichengesetzes).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35bek_1994-03-17/BJNR063900994.html#BJNR063900994BJNE000200307)
 
 Bundesministerium der Justiz
 

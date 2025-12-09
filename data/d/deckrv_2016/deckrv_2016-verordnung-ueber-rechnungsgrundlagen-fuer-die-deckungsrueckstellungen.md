@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -39,6 +40,7 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000200000)
 
 (1) Diese Verordnung gilt für
 
@@ -63,6 +65,7 @@ aufsichtsbehördlich genehmigten Tarife zugrunde liegen.
 
 
 ## § 2 Höchstzinssatz
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000303123)
 
 (1) Bei Versicherungsverträgen mit Zinsgarantie, die auf Euro oder die
 nationale Währungseinheit eines an der Europäischen Wirtschafts- und
@@ -97,6 +100,7 @@ Aufsichtsbehörde stufenweise erfolgen.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000400000)
 
 (1) Für Versicherungsverträge gegen Einmalprämie mit einer Laufzeit
 bis zu acht Jahren, die auf Euro oder auf die nationale
@@ -127,6 +131,7 @@ Zeitpunkt des Rentenbeginns.
 
 
 ## § 4 Höchstzillmersätze und versicherungsmathematische Berechnungsmethode
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000500000)
 
 (1) Im Wege der Zillmerung werden die Forderungen auf Ersatz der
 geleisteten, einmaligen Abschlusskosten einzelvertraglich bis zur Höhe
@@ -176,6 +181,7 @@ Deckungsrückstellung gilt für die gesamte Laufzeit des Vertrages.
 
 
 ## § 5 Versicherungsmathematische Rechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000601118)
 
 (1) Bei der nach versicherungsmathematischen Methoden vorzunehmenden
 Ableitung von Rechnungsgrundlagen sind sämtliche Umstände, die
@@ -255,6 +261,7 @@ Rechnungszins zu verwenden.
 
 
 ## § 5a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000800118)
 
 § 5 Absatz 3 und 4 in der ab dem 23. Oktober 2018 geltenden Fassung
 ist erstmals für das Geschäftsjahr anzuwenden, das nach dem 31.
@@ -264,6 +271,7 @@ Dezember 2017 begonnen hat. Für Geschäftsjahre, die vor dem 1. Januar
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/deckrv_2016/BJNR076700016.html#BJNR076700016BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2016 in Kraft.
 

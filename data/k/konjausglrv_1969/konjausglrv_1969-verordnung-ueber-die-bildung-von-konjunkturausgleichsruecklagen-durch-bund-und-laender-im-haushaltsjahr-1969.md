@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1969/BJNR009400969.html#BJNR009400969BJNE000100313)
 
 Auf Grund des § 15 Abs. 1 des Gesetzes zur Förderung der Stabilität
 und des Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I
@@ -27,6 +28,7 @@ Konjunkturrates mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1969/BJNR009400969.html#BJNR009400969BJNE000200313)
 
 (1) Bund und Länder bilden im Haushaltsjahr 1969 aus den sich
 gegenüber den Haushaltsansätzen ergebenden Steuermehreinnahmen - beim
@@ -43,6 +45,7 @@ ordentlichen Haushalt zu verwenden sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1969/BJNR009400969.html#BJNR009400969BJNE000500313)
 
 (1) Den Konjunkturausgleichsrücklagen werden bis zum 31. Dezember 1969
 insgesamt 3.600.000.000 Deutsche Mark zugeführt. Hiervon entfallen auf
@@ -62,6 +65,7 @@ aufzubringen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1969/BJNR009400969.html#BJNR009400969BJNE000300313)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 32 des
@@ -70,6 +74,7 @@ auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrv_1969/BJNR009400969.html#BJNR009400969BJNE000400313)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

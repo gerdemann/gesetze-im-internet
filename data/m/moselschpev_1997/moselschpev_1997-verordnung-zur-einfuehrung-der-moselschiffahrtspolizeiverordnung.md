@@ -30,6 +30,7 @@ Stand: Zuletzt geändert Art. 4 V v. 16.2.2022 II 82
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000100310)
 
 Auf Grund
 
@@ -69,6 +70,7 @@ Auf Grund
 
 
 ## Art 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000205126)
 
 (1) Die von der Moselkommission in Trier am 8. März 1995, 15. November
 1995 sowie 13. und 29. November 1996 beschlossene
@@ -91,6 +93,7 @@ jeweilige Kilometerangabe aus.
 
 
 ## Art 1a Vorschriften über die Schiffsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE001000119)
 
 § 1.08 Nummer 3 Satzteil vor Buchstabe a und Buchstabe a, § 1.10
 Nummer 1 Buchstabe x und Nummer 2 Satz 7, § 1.21 Nummer 4 und § 4.07
@@ -106,6 +109,7 @@ der jeweils geltenden und anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000310119)
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen
 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion
@@ -179,6 +183,7 @@ versehen.
 
 
 ## Art 3 Fahrzeuge des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000402305)
 
 Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
 der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei,
@@ -190,6 +195,7 @@ Sicherheit und Ordnung dringend geboten ist.
 
 
 ## Art 4 Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000525119)
 
 (1) Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -1117,16 +1123,19 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ## Art 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000601308)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000700310)
 
 -
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/moselschpev_1997/BJNR167020997.html#BJNR167020997BJNE000800310)
 
 Diese Verordnung tritt am 1. Oktober 1997 in Kraft.
 

@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -34,17 +35,20 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000200000)
 
 Der Ausbildungsberuf Fachkraft für Metalltechnik wird nach § 4 Absatz
 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildungsinhalte in den Fachrichtungen
@@ -65,6 +69,7 @@ und die Ausbildungsinhalte in den Fachrichtungen
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -194,6 +199,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -215,6 +221,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -263,6 +270,7 @@ Baugruppe bestehen folgende Vorgaben:
 
 
 ## § 7 Abschlussprüfung in der Fachrichtung Montagetechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -417,6 +425,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelungen in der Fachrichtung Montagetechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -483,6 +492,7 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Abschlussprüfung in der Fachrichtung Konstruktionstechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001000000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -626,6 +636,7 @@ folgende Vorgaben:
 
 
 ## § 10 Gewichtungs- und Bestehensregelungen in der Fachrichtung Konstruktionstechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001100000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -692,6 +703,7 @@ mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 11 Abschlussprüfung in der Fachrichtung Zerspanungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001200000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -812,6 +824,7 @@ folgende Vorgaben:
 
 
 ## § 12 Gewichtungs- und Bestehensregelungen in der Fachrichtung Zerspanungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001300000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -878,6 +891,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 13 Abschlussprüfung in der Fachrichtung Umform- und Drahttechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001400000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -1028,6 +1042,7 @@ folgende Vorgaben:
 
 
 ## § 14 Gewichtungs- und Bestehensregelungen in der Fachrichtung Umform- und Drahttechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001500000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1094,6 +1109,7 @@ mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 15 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001600000)
 
 Berufsausbildungsverhältnisse, die in den Berufsbildern der staatlich
 anerkannten Ausbildungsberufe Drahtwarenmacher und Drahtwarenmacherin,
@@ -1110,6 +1126,7 @@ Zwischenprüfung abgelegt wurde.
 
 
 ## § 16 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001700000)
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
 Metalltechnik kann in der
@@ -1141,12 +1158,14 @@ fortgesetzt werden.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001800000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Metalltechnik
+[Direktlink](https://www.gesetze-im-internet.de/mettechausbv/BJNR062800013.html#BJNR062800013BJNE001900000)
 
 (Fundstelle: BGBl. I 2013, 634 - 640)
 

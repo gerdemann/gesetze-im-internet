@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 2212-2-8-3 v. 9.7.1980 I 895 (DarlehensV 1980)
 
 ## § 1 Reihenfolge der Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000100000)
 
 (1) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht
 ausreichen, werden zunächst auf das Darlehen, dann auf die Kosten und
@@ -36,6 +37,7 @@ den Absätzen 1 und 2 kann nicht abbedungen werden.
 
 
 ## § 2 Geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000201130)
 
 Ein im Sinne des § 18 Absatz 12 Satz 1 des
 Bundesausbildungsförderungsgesetzes (Gesetz) nur geringfügiger Verstoß
@@ -64,6 +66,7 @@ Gesetzes
 
 
 ## § 3 Nachweise für die Freistellung von der Rückzahlungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000300000)
 
 (1) Die für eine Freistellung nach § 18a Absatz 1 des Gesetzes
 maßgebliche Höhe ihres Einkommens können Darlehensnehmende
@@ -99,16 +102,19 @@ an Eides statt zu versichern.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000400000)
 
 (weggefallen)
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000500000)
 
 (weggefallen)
 
 
 ## § 6 Vorzeitige Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000600000)
 
 (1) Über den Antrag auf Gewährung eines Nachlasses wegen vorzeitiger
 Rückzahlung der verbleibenden Darlehensschuld entscheidet das
@@ -151,6 +157,7 @@ nach Maßgabe des § 18 Absatz 13 des Gesetzes.
 
 
 ## § 7 Vergleiche, Veränderungen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000700000)
 
 Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und
 der Erlass von Ansprüchen richten sich nach den §§ 58 und 59 der
@@ -158,6 +165,7 @@ Bundeshaushaltsordnung.
 
 
 ## § 8 Zahlungsrückstand
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000801130)
 
 (1) Nach dem Zahlungstermin werden gesondert erhoben:
 
@@ -184,6 +192,7 @@ nicht zu vertretenden Gründen nicht zugegangen ist.
 
 
 ## § 9 Datenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE000900000)
 
 (1) Die Ämter für Ausbildungsförderung stellen nach Ablauf eines jeden
 Kalenderjahres bis zum 31. März dem Bundesverwaltungsamt die für die
@@ -221,6 +230,7 @@ war. Sie sind dem Bundesverwaltungsamt auf Anforderung zu überlassen.
 
 
 ## § 10 Rückzahlungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE001000000)
 
 (1) Unbeschadet der nach § 18 Absatz 4 bis 6 des Gesetzes eintretenden
 Fälligkeit der Rückzahlungsraten erteilt das Bundesverwaltungsamt den
@@ -238,6 +248,7 @@ Darlehensnehmenden jeweils einen Rückzahlungsbescheid.
 
 
 ## § 11 Rückzahlungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE001100000)
 
 (1) Die Rückzahlungsraten sind bei monatlicher Zahlungsweise jeweils
 am Ende des Monats, bei vierteljährlicher Zahlungsweise jeweils am
@@ -253,6 +264,7 @@ Rückzahlungsbetrages bei der Bundeskasse als geleistet.
 
 
 ## § 12 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE001200000)
 
 (1) Der Darlehensnehmer ist verpflichtet,
 
@@ -287,6 +299,7 @@ Absatz 1 Nummer 2 gilt entsprechend.
 
 
 ## § 13 Aufteilung der eingezogenen Beträge
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE001301130)
 
 (1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines
 Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge
@@ -302,6 +315,7 @@ sowie Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
 
 
 ## § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE001500000)
 
 Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 3 des
 Bundesausbildungsförderungsgesetzes handelt, wer vorsätzlich oder
@@ -311,6 +325,7 @@ oder nicht rechtzeitig macht.
 
 
 ## Anlage (zu § 6 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/darlehensv_2022/BJNR188910022.html#BJNR188910022BJNE001600000)
 
 (Fundstelle: BGBl. I 2022, 1892 - 1893)
 

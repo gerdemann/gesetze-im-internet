@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000600000)
 
 Auf Grund des § 305 Abs. 5 Satz 1 der Insolvenzordnung vom 5. Oktober
 1994 (BGBl. I S. 2866), der durch Artikel 2 Nr. 16 des Gesetzes vom
@@ -30,6 +31,7 @@ das Bundesministerium der Justiz:
 
 
 ## § 1 Formulare
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000101311)
 
 (1) Für die im Verbraucherinsolvenzverfahren nach § 305 Abs. 1 der
 Insolvenzordnung zu stellenden Anträge und für die von den Beteiligten
@@ -80,6 +82,7 @@ wesentlichen Inhalt kurz erläutert.
 
 
 ## § 2 Zulässige Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000201311)
 
 Folgende Abweichungen von den in der Anlage bestimmten Formularen und
 dem Hinweisblatt sind zulässig:
@@ -96,6 +99,7 @@ dem Hinweisblatt sind zulässig:
 
 
 ## § 2a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000800125)
 
 Wird ein Antrag auf Eröffnung eines Verbraucherinsolvenzverfahrens
 zwischen dem 1. Oktober 2020 und dem 31. März 2021 gestellt, können
@@ -114,16 +118,19 @@ Maßgabe von § 2 Nummer 1 zu berichtigen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000300000)
 
 Diese Verordnung tritt am 1. März 2002 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/vbrinsvv/BJNR070300002.html#BJNR070300002BJNE000503125)
 
 (Fundstelle: BGBl. I 2014, 826 - 870;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

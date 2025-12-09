@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## (XXXX) Art 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_5/BJNR063800998.html#BJNR063800998BJNE000100311)
 
 -
 
 
 ## Art 3 Änderung der Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_5/BJNR063800998.html#BJNR063800998BJNE000200311)
 
 (1)
 Die Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei
@@ -41,6 +43,7 @@ durch Rechtsverordnung geändert werden.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_5/BJNR063800998.html#BJNR063800998BJNE000300311)
 
 (1)
 

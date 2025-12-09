@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wgleistvtritag/BJNR207910963.html#BJNR207910963BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wgleistvtritag/BJNR207910963.html#BJNR207910963BJNE000200328)
 
 Dem in Bonn am 2. Juni 1961 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Italienischen Republik über
@@ -37,6 +39,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wgleistvtritag/BJNR207910963.html#BJNR207910963BJNE000300328)
 
 (1) Die Bestimmung des Artikels 77 Abs. 4 des Friedensvertrags mit
 Italien vom 10. Februar 1947 findet auf Ansprüche italienischer
@@ -68,6 +71,7 @@ einzelnen nach den Bestimmungen des Bundesentschädigungsgesetzes.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wgleistvtritag/BJNR207910963.html#BJNR207910963BJNE000400328)
 
 (1) Die Bestimmung des Artikels 77 Abs. 4 des Friedensvertrags mit
 Italien vom 10. Februar 1947 findet auf rückerstattungsrechtliche
@@ -88,12 +92,14 @@ Anwendung.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wgleistvtritag/BJNR207910963.html#BJNR207910963BJNE000500328)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/wgleistvtritag/BJNR207910963.html#BJNR207910963BJNE000600328)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung mit der Maßgabe
 in Kraft, daß Artikel 2 dieses Gesetzes erst mit dem Inkrafttreten des

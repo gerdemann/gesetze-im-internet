@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sfestaktano/BJNR025300995.html#BJNR025300995BJNE000100307)
 
 Aus Anlaß des 50. Jahrestages des Endes des Zweiten Weltkrieges findet
 

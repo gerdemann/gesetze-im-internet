@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Weiterentwicklung der Qualität und Verbesserung der Teilhabe in der Kindertagesbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/kiqutg/BJNR269610018.html#BJNR269610018BJNE000101126)
 
 (1) Ziel des Gesetzes ist es, durch zusätzliche Maßnahmen die Qualität
 frühkindlicher Bildung, Erziehung und Betreuung in der
@@ -57,6 +58,7 @@ gleichwertige, fachlich anerkannte qualitative Standards angestrebt.
 
 
 ## § 2 Maßnahmen zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in der Kindertagesbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/kiqutg/BJNR269610018.html#BJNR269610018BJNE000202126)
 
 (1) Maßnahmen zur Weiterentwicklung der Qualität und zur Verbesserung
 der Teilhabe in der Kindertagesbetreuung werden auf folgenden
@@ -105,6 +107,7 @@ fortgeführt werden.
 
 
 ## § 3 Handlungskonzepte und Finanzierungskonzepte der Länder
+[Direktlink](https://www.gesetze-im-internet.de/kiqutg/BJNR269610018.html#BJNR269610018BJNE000302126)
 
 (1) Die Länder analysieren anhand möglichst vergleichbarer Kriterien
 und Verfahren ihre jeweilige Ausgangslage in Handlungsfeldern nach § 2
@@ -166,6 +169,7 @@ Absatz 4 Nummer 2 und 3 gilt entsprechend.
 
 
 ## § 4 Verträge zwischen Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/kiqutg/BJNR269610018.html#BJNR269610018BJNE000402126)
 
 (1) Jedes Land schließt mit der Bundesrepublik Deutschland, vertreten
 durch das Bundesministerium für Familie, Senioren, Frauen und Jugend,
@@ -211,6 +215,7 @@ Gesetzes in der Fassung vom 1. Januar 2025.
 
 
 ## § 5 Geschäftsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/kiqutg/BJNR269610018.html#BJNR269610018BJNE000500000)
 
 Der Bund richtet eine Geschäftsstelle beim Bundesministerium für
 Familie, Senioren, Frauen und Jugend ein, die
@@ -248,6 +253,7 @@ Familie, Senioren, Frauen und Jugend ein, die
 
 
 ## § 6 Monitoring und Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/kiqutg/BJNR269610018.html#BJNR269610018BJNE000602126)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 führt ein länderspezifisches sowie länderübergreifendes qualifiziertes

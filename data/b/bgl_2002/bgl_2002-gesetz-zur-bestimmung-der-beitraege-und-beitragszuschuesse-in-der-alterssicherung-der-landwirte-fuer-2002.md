@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Beitrag in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bgl_2002/BJNR401100001.html#BJNR401100001BJNE000100305)
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Kalenderjahr 2002 monatlich 187 Euro.
@@ -28,6 +29,7 @@ Beitrittsgebiet für das Kalenderjahr 2002 monatlich 157 Euro.
 
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bgl_2002/BJNR401100001.html#BJNR401100001BJNE000200305)
 
 (1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
 wird der monatliche Zuschussbetrag für das Kalenderjahr 2002 wie folgt

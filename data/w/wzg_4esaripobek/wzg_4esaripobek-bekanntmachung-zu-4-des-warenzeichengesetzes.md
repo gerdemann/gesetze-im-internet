@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4esaripobek/BJNR105860980.html#BJNR105860980BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -35,6 +36,7 @@ von der Eintragung als Warenzeichen ausgeschlossen ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4esaripobek/BJNR105860980.html#BJNR105860980BJNE000200303)
 
 Der Bundesminister der Justiz
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Name
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000102116)
 
 Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes
 vom 25. Juli 1996 (BGBl. I S. 1120), das zuletzt durch Artikel 4 Abs.
@@ -33,6 +34,7 @@ Bundesministeriums für Wirtschaft und Energie mit Sitz in Bonn.
 
 
 ## § 2 Tätigkeiten, Aufgabendurchführung
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000203130)
 
 (1) Die Bundesnetzagentur ist auf den Gebieten
 
@@ -68,6 +70,7 @@ Deutschland entspricht.
 
 
 ## § 3 Organe
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000303116)
 
 (1) Die Bundesnetzagentur wird von einem Präsidenten oder einer
 Präsidentin geleitet. Der Präsident oder die Präsidentin vertritt die
@@ -100,6 +103,7 @@ Bundespräsidenten oder die Bundespräsidentin.
 
 
 ## § 4 Öffentlich-rechtliche Amtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000405116)
 
 (1) Der Präsident oder die Präsidentin der Bundesnetzagentur steht in
 einem öffentlich-rechtlichen Amtsverhältnis zum Bund, das auf fünf
@@ -203,6 +207,7 @@ der anderen Vizepräsidentin erfolgen sollte.
 
 
 ## § 5 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000503116)
 
 (1) Die Bundesnetzagentur hat einen Beirat, der aus jeweils 16
 Mitgliedern des Deutschen Bundestages und 16 Vertretern oder
@@ -238,6 +243,7 @@ entsprechend.
 
 
 ## § 6 Geschäftsordnung, Vorsitz, Sitzungen des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000602116)
 
 (1) Der Beirat gibt sich eine Geschäftsordnung, die der Genehmigung
 des Bundesministeriums für Wirtschaft und Energie im Benehmen mit dem
@@ -285,12 +291,14 @@ Bundesministerium für Verkehr und digitale Infrastruktur festsetzt.
 
 
 ## § 7 Aufgaben des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000700000)
 
 Der Beirat hat die ihm durch Gesetz oder auf Grund eines Gesetzes
 zugewiesenen Aufgaben.
 
 
 ## § 8 Länderausschuss
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000800000)
 
 Bei der Bundesnetzagentur wird ein Länderausschuss gebildet, der sich
 aus Vertretern der für die Wahrnehmung der Aufgaben nach § 54 des
@@ -300,6 +308,7 @@ Vertreter in den Länderausschuss entsenden.
 
 
 ## § 9 Geschäftsordnung, Vorsitz, Sitzungen des Länderausschusses
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE000900000)
 
 (1) Der Länderausschuss gibt sich eine Geschäftsordnung.
 
@@ -338,12 +347,14 @@ Verhinderungsfall einer stellvertretenden Person verlangen.
 
 
 ## § 10 Aufgaben des Länderausschusses
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE001000000)
 
 Der Länderausschuss hat die ihm durch Gesetz oder auf Grund eines
 Gesetzes zugewiesenen Aufgaben.
 
 
 ## § 11 Amtsblatt
+[Direktlink](https://www.gesetze-im-internet.de/begtpg/BJNR200900005.html#BJNR200900005BJNE001101125)
 
 Das Amtsblatt der Bundesnetzagentur wird elektronisch veröffentlicht.
 Die elektronische Ausgabe des Amtsblatts wird der Öffentlichkeit auf

@@ -25,6 +25,7 @@ Stand: Die V tritt gem. § 18 mit Ablauf des 31.7.2029 außer Kraft
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -36,20 +37,24 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung der Fachkraft Küche
 wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000400000)
 
 Die Berufsausbildung dauert zwei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000500000)
 
 (1) Ein HACCP-Konzept im Sinne dieser Verordnung ist ein
 systematisches, nach übergeordneten Grundsätzen auf Betriebsebene
@@ -71,6 +76,7 @@ vertieftes Fachwissen.
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -91,6 +97,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -166,6 +173,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -173,9 +181,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNG000200000)
 
 
 ### § 7 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE000900000)
 
 (1) Die Zwischenprüfung soll im dritten Ausbildungshalbjahr
 stattfinden.
@@ -184,6 +194,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -200,6 +211,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich „Küchentechnische
 Praxis“ statt.
@@ -259,9 +271,11 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNG000300000)
 
 
 ### § 10 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001200000)
 
 (1) Die Abschlussprüfung findet am Ende der Berufsausbildung statt.
 
@@ -269,6 +283,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001300000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -285,6 +300,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001400000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -301,6 +317,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich „Zubereiten von einfachen Speisen und Gerichten“
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001500000)
 
 (1) Im Prüfungsbereich „Zubereiten von einfachen Speisen und
 Gerichten“ besteht die Prüfung aus zwei Teilen.
@@ -415,6 +432,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 14 Prüfungsbereich „Produkte und Lagerhaltung“
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001600000)
 
 (1) Im Prüfungsbereich „Produkte und Lagerhaltung“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -450,6 +468,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -463,6 +482,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -509,6 +529,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich für die schriftlich zu
 bearbeitenden Aufgaben eine mündliche Ergänzungsprüfung beantragen.
@@ -551,9 +572,11 @@ gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNG000400000)
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft und mit Ablauf des
 31\. Juli 2029 außer Kraft.
@@ -561,6 +584,7 @@ Diese Verordnung tritt am 1. August 2022 in Kraft und mit Ablauf des
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Küche
+[Direktlink](https://www.gesetze-im-internet.de/fk_ausbv/BJNR038900022.html#BJNR038900022BJNE002100000)
 
 (Fundstelle: BGBl. I 2022, 393 - 397)
 

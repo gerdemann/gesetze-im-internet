@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000100000)
 
 Auf Grund des § 119 Absatz 4 Satz 4 des Seearbeitsgesetzes, der durch
 Artikel 1 Nummer 2 des Gesetzes vom 27. November 2018 (BGBl. I S.
@@ -25,6 +26,7 @@ und Soziales:
 
 
 ## § 1 Inhalt, Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000200000)
 
 (1) Diese Verordnung regelt ergänzend das Verfahren zur Gewährung des
 Gesamtbetrages nach § 119 Absatz 4 des Seearbeitsgesetzes.
@@ -39,6 +41,7 @@ Sozialeinrichtung für Seeleute in inländischen Häfen nach § 119 Absatz
 
 
 ## § 2 Leistungsberechtigte Sozialeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000300000)
 
 (1) Leistungsberechtigt sind Sozialeinrichtungen in inländischen Häfen
 nach § 119 Absatz 4 des Seearbeitsgesetzes.
@@ -54,6 +57,7 @@ Auslandsmissionen ausgegeben wird.
 
 
 ## § 3 Antragstellung, Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000400000)
 
 (1) Die Gewährung des Anspruchs nach § 119 Absatz 4 Satz 2 des
 Seearbeitsgesetzes ist durch die Sozialeinrichtung bei der
@@ -72,6 +76,7 @@ Haushaltsjahr kein Leistungsanspruch.
 
 
 ## § 4 Gewährung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000500000)
 
 (1) Die Berufsgenossenschaft entscheidet durch Verwaltungsakt über den
 Antrag nach Ablauf der in § 3 Absatz 4 Satz 1 genannten Frist bis
@@ -88,6 +93,7 @@ zweite Nachkommastelle abzurunden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs4v/BJNR000900019.html#BJNR000900019BJNE000600000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2019 in Kraft.
 

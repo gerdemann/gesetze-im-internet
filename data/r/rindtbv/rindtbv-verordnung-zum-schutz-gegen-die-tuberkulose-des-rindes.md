@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000102360)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001209124)
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -83,14 +85,17 @@ Mycobacterium microti.
 
 
 ## II. - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000202360)
 
 
 
 ### 1. - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000302360)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001302360)
 
 Impfungen gegen die Tuberkulose des Rindes und Heilversuche sind
 verboten. Die zuständige Behörde kann Ausnahmen zur Durchführung
@@ -99,6 +104,7 @@ Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001410124)
 
 (1) Werden bei Rindern anlässlich der Fleischuntersuchung
 pathologisch-anatomische Veränderungen festgestellt, die auf
@@ -168,6 +174,7 @@ dieser Untersuchungen die erforderliche Hilfe zu leisten.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001508124)
 
 Ist das Ergebnis der Tuberkulinprobe bei einem Rind zweifelhaft im
 Sinne der Nummer 2.2.5.3.1 Buchstabe b oder der Nummer 2.2.5.3.2
@@ -239,6 +246,7 @@ Schlachtung verbracht werden.
 
 
 #### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE003504124)
 
 Ist das Ergebnis der Tuberkulinprobe bei einem Rind positiv im Sinne
 der Nummer 2.2.5.3.1 Buchstabe a oder der Nummer 2.2.5.3.2 Buchstabe a
@@ -277,6 +285,7 @@ Interferon-Gamma-Freisetzungstests positiv, so sind
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001603124)
 
 Werden in einem Rinderbestand Tuberkulinproben durchgeführt, so hat
 der Tierhalter, sofern nicht eine Untersuchung nach dieser Verordnung
@@ -285,10 +294,12 @@ mitzuteilen.
 
 
 ### 2. - Schutzmaßregeln nach amtlicher Feststellung der Tuberkulose oder des Verdachts auf Tuberkulose
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000402360)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001704124)
 
 (1) Ist bei Rindern der Ausbruch der Tuberkulose amtlich festgestellt,
 so gilt für das Gehöft oder den sonstigen Standort Folgendes:
@@ -333,6 +344,7 @@ der zuständigen Behörde angeordnet werden.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001802360)
 
 Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen
 Tuberkulose festgestellt worden ist. Sie kann die Tötung verdächtiger
@@ -341,10 +353,12 @@ Tuberkulose erforderlich ist.
 
 
 ### 2a. - Schutzmaßregeln bei Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG001105360)
 
 
 
 #### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE003403360)
 
 (1) Ist in einem Gehöft oder an einem sonstigen Standort Tuberkulose
 oder Verdacht auf Tuberkulose der Rinder amtlich festgestellt, so
@@ -406,10 +420,12 @@ unterliegenden ansteckungsverdächtigen Rindern die Tötung anordnen.
 
 
 ### 3. - Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000502360)
 
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE001906124)
 
 (1) Behälter, in denen Milch von Kühen, bei denen Verdacht auf
 Tuberkulose festgestellt worden ist, an eine Sammelmolkerei geliefert
@@ -445,10 +461,12 @@ Stallabteilungen beschränkt wird, in denen die Tiere gestanden haben.
 
 
 ### 4. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000602360)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002008124)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Tuberkulose
 erloschen ist oder sich der Verdacht auf Tuberkulose als unbegründet
@@ -554,18 +572,22 @@ und 3 durchzuführenden Untersuchungen zulassen für
 
 
 ## III. - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000703360)
 
 
 
 ### (XXXX) §§ 10 und 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002103360)
 
 
 
 ## IV. - Anerkannte Bestände
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000802360)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002304360)
 
 Ein Rinderbestand, der sich im Inland befindet, ist im Sinne des
 Artikels 1 Absatz 1 der Entscheidung 2003/467/EG der Kommission vom
@@ -579,6 +601,7 @@ tuberkulosefreier Rinderbestand.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE003601360)
 
 (1) Die zuständige Behörde entzieht dem Inhaber eines Rinderbestandes
 die amtliche Anerkennung seines Bestandes als tuberkulosefrei, soweit
@@ -609,10 +632,12 @@ Anerkennung nach Absatz 1 Satz 2 auf, soweit sich der Verdacht nach §
 
 
 ## V. - Weitere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG001200124)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002504124)
 
 (1) Ist in einem Rinderbestand bei anderen Haustieren als Rindern eine
 bakteriologische Untersuchung nach § 1 Satz 1 Nummer 1 Buchstabe a
@@ -651,6 +676,7 @@ durchgeführt worden ist.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002604124)
 
 Der Halter eines Rinderbestandes hat dafür zu sorgen, dass die Rinder
 seines Bestandes
@@ -667,14 +693,17 @@ in Berührung kommen.
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002704360)
 
 
 
 ## VI. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG000903124)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002808124)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -720,10 +749,12 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## VII. - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNG001003124)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE002903360)
 
 § 12 gilt nicht für einen Rinderbestand, soweit die zuständige Behörde
 am 21. Juli 2013
@@ -743,6 +774,7 @@ vorliegen.
 
 
 ### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE003802301)
 
 Die Befugnis der zuständigen Behörde, bei Verdacht auf Tuberkulose
 oder Feststellung der Tuberkulose bei einem Rind weitergehende
@@ -754,5 +786,6 @@ entgegenstehen, bleibt unberührt.
 
 
 ### § 19 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/rindtbv/BJNR009150972.html#BJNR009150972BJNE003103360)
 
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE000400000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE000501128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Industriemeister/zur
@@ -126,6 +128,7 @@ Metall.
 
 
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE000601308)
 
 (1) Die Qualifikation zum Industriemeister umfaßt:
 
@@ -167,6 +170,7 @@ Form eines situationsbezogenen Fachgesprächs gemäß § 5 zu prüfen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE000703308)
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende
 Basisqualifikationen" ist zuzulassen, wer folgendes nachweist:
@@ -209,6 +213,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE000802128)
 
 (1) Im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen"
 ist in folgenden Prüfungsbereichen zu prüfen:
@@ -431,6 +436,7 @@ Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE000902128)
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfaßt die
 Handlungsbereiche "Technik", "Organisation" sowie "Führung und
@@ -918,6 +924,7 @@ Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001002128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -930,6 +937,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001103128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -963,6 +971,7 @@ Mittel zu berechnen.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001700128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -1032,6 +1041,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001800128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -1057,6 +1067,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001201128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -1070,12 +1081,14 @@ bestandenen Prüfungsteils an, zur Wiederholungsprüfung anmeldet.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001303128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 12 Inkrafttreten/Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001401128)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -1086,6 +1099,7 @@ Verordnung vom 6. November 1984 (BGBl. I S. 1330), außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001505128)
 
 (Fundstelle: BGBl. I 2019, 2203 - 2204)
 
@@ -1387,6 +1401,7 @@ Verordnung vom 6. November 1984 (BGBl. I S. 1330), außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/indmetmeistv_1997/BJNR292300997.html#BJNR292300997BJNE001605128)
 
 (Fundstelle: BGBl. I 2019, 2204 - 2205)
 

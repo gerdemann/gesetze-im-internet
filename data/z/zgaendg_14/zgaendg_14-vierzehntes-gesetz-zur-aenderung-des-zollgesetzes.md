@@ -20,16 +20,19 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zg_ndg_14/BJNR009330973.html#BJNR009330973BJNE000100314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zg_ndg_14/BJNR009330973.html#BJNR009330973BJNE000200314)
 
 -
 
 
 ## Art 3 Steuerfreiheit zur Erleichterung des Warenverkehrs und zur Vereinfachung der Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zg_ndg_14/BJNR009330973.html#BJNR009330973BJNE000300314)
 
 Der Bundesminister der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur
@@ -71,11 +74,13 @@ Europäischen Gemeinschaften zu berücksichtigen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/zg_ndg_14/BJNR009330973.html#BJNR009330973BJNE000400314)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/zg_ndg_14/BJNR009330973.html#BJNR009330973BJNE000500314)
 
 Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
@@ -84,6 +89,7 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/zg_ndg_14/BJNR009330973.html#BJNR009330973BJNE000600314)
 
 Dieses Gesetz tritt am ersten Tag des seiner Verkündung folgenden
 Monats in Kraft.

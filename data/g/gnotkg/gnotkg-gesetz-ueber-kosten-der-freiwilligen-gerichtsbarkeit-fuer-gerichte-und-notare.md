@@ -20,12 +20,15 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Vorschriften für Gerichte und Notare
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000200000)
 
 
 #### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000203125)
 
 (1) Soweit bundesrechtlich nichts anderes bestimmt ist, werden Kosten
 (Gebühren und Auslagen) durch die Gerichte in den Angelegenheiten der
@@ -144,6 +147,7 @@ Verfahren geltenden Verfahrensvorschriften vor.
 
 
 #### § 2 Kostenfreiheit bei Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000301311)
 
 (1) Der Bund und die Länder sowie die nach Haushaltsplänen des Bundes
 oder eines Landes verwalteten öffentlichen Anstalten und Kassen sind
@@ -176,6 +180,7 @@ gesetzlicher Vorschrift zu erstatten hätten.
 
 
 #### § 3 Höhe der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000400000)
 
 (1) Die Gebühren richten sich nach dem Wert, den der Gegenstand des
 Verfahrens oder des Geschäfts hat (Geschäftswert), soweit nichts
@@ -186,12 +191,14 @@ Gesetz erhoben.
 
 
 #### § 4 Auftrag an einen Notar
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000500000)
 
 Die Erteilung eines Auftrags an einen Notar steht der Stellung eines
 Antrags im Sinne dieses Kapitels gleich.
 
 
 #### § 5 Verweisung, Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000601311)
 
 (1) Verweist ein erstinstanzliches Gericht oder ein
 Rechtsmittelgericht ein Verfahren an ein erstinstanzliches Gericht
@@ -212,6 +219,7 @@ entstehen die Gebühren für jeden Notar gesondert.
 
 
 #### § 6 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000701311)
 
 (1) Ansprüche auf Zahlung von Gerichtskosten verjähren in vier Jahren
 nach Ablauf des Kalenderjahres, in dem das Verfahren durch
@@ -247,6 +255,7 @@ nicht verzinst.
 
 
 #### § 7 Elektronische Akte, elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000800000)
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen
 Vorschriften über die elektronische Akte und über das elektronische
@@ -255,6 +264,7 @@ zugrunde liegende Verfahren gelten.
 
 
 #### § 7a Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014000311)
 
 Jede Kostenrechnung, jede anfechtbare Entscheidung und jede
 Kostenberechnung eines Notars hat eine Belehrung über den statthaften
@@ -264,9 +274,11 @@ Frist zu enthalten.
 
 
 ### Abschnitt 2 - Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000300000)
 
 
 #### § 8 Fälligkeit der Kosten in Verfahren mit Jahresgebühren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE000900000)
 
 In Betreuungssachen und betreuungsgerichtlichen Zuweisungssachen
 werden die Jahresgebühren 11101, 11102 und 11104 des
@@ -277,6 +289,7 @@ sofort nach ihrer Entstehung fällig.
 
 
 #### § 9 Fälligkeit der Gerichtsgebühren in sonstigen Fällen, Fälligkeit der gerichtlichen Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001000000)
 
 (1) Im Übrigen werden die gerichtlichen Gebühren und Auslagen fällig,
 wenn
@@ -306,6 +319,7 @@ Akten werden sofort nach ihrer Entstehung fällig.
 
 
 #### § 10 Fälligkeit der Notarkosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001100000)
 
 Notargebühren werden mit der Beendigung des Verfahrens oder des
 Geschäfts, Auslagen des Notars und die Gebühren 25300 und 25301 sofort
@@ -313,9 +327,11 @@ nach ihrer Entstehung fällig.
 
 
 ### Abschnitt 3 - Sicherstellung der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000400000)
 
 
 #### § 11 Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001200000)
 
 Urkunden, Ausfertigungen, Ausdrucke und Kopien sowie gerichtliche
 Unterlagen können nach billigem Ermessen zurückbehalten werden, bis
@@ -325,6 +341,7 @@ entgegensteht.
 
 
 #### § 12 Grundsatz für die Abhängigmachung bei Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001300000)
 
 In weiterem Umfang, als das Verfahrensrecht und dieses Gesetz es
 gestatten, darf die Tätigkeit des Gerichts von der Zahlung der Kosten
@@ -332,6 +349,7 @@ oder von der Sicherstellung der Zahlung nicht abhängig gemacht werden.
 
 
 #### § 13 Abhängigmachung bei Gerichtsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001401311)
 
 In erstinstanzlichen gerichtlichen Verfahren, in denen der
 Antragsteller die Kosten schuldet (§ 22 Absatz 1), kann die beantragte
@@ -344,6 +362,7 @@ erscheint.
 
 
 #### § 14 Auslagen des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001500000)
 
 (1) Wird eine gerichtliche Handlung beantragt, mit der Auslagen
 verbunden sind, hat derjenige, der die Handlung beantragt hat, einen
@@ -365,12 +384,14 @@ Anordnung einer Haft.
 
 
 #### § 15 Abhängigmachung bei Notarkosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001600000)
 
 Die Tätigkeit des Notars kann von der Zahlung eines zur Deckung der
 Kosten ausreichenden Vorschusses abhängig gemacht werden.
 
 
 #### § 16 Ausnahmen von der Abhängigmachung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001700000)
 
 Die beantragte Handlung darf nicht von der Sicherstellung oder Zahlung
 der Kosten abhängig gemacht werden,
@@ -416,6 +437,7 @@ der Kosten abhängig gemacht werden,
 
 
 #### § 17 Fortdauer der Vorschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001800000)
 
 Die Verpflichtung zur Zahlung eines Vorschusses auf die Gerichtskosten
 bleibt bestehen, auch wenn die Kosten des Verfahrens einem anderen
@@ -424,9 +446,11 @@ entsprechend.
 
 
 ### Abschnitt 4 - Kostenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000500000)
 
 
 #### § 18 Ansatz der Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE001902311)
 
 (1) Im gerichtlichen Verfahren werden angesetzt
 
@@ -484,6 +508,7 @@ Kostenansatz ebenfalls berichtigt werden.
 
 
 #### § 19 Einforderung der Notarkosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002002125)
 
 (1) Der Notar kann seine Kosten nur aufgrund einer von ihm oder auf
 seine Veranlassung dem Kostenschuldner mitgeteilten Berechnung
@@ -542,6 +567,7 @@ seinen Akten zu nehmen oder die Berechnung elektronisch aufzubewahren.
 
 
 #### § 20 Nachforderung von Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002100000)
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Gerichtskosten nur
 nachgefordert werden, wenn der berichtigte Ansatz dem
@@ -567,6 +593,7 @@ letzten Wertfestsetzung mitgeteilt worden ist.
 
 
 #### § 21 Nichterhebung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002200000)
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
 wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch
@@ -584,12 +611,15 @@ geändert werden.
 
 
 ### Abschnitt 5 - Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000600000)
 
 
 #### Unterabschnitt 1 - Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000700000)
 
 
 ##### § 22 Kostenschuldner in Antragsverfahren, Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002300000)
 
 (1) In gerichtlichen Verfahren, die nur durch Antrag eingeleitet
 werden, schuldet die Kosten, wer das Verfahren des Rechtszugs
@@ -600,6 +630,7 @@ schuldet jeder, der an dem Abschluss beteiligt ist.
 
 
 ##### § 23 Kostenschuldner in bestimmten gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002403125)
 
 Kostenschuldner
 
@@ -699,6 +730,7 @@ Kostenschuldner
 
 
 ##### § 24 Kostenhaftung der Erben
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002500000)
 
 Kostenschuldner im gerichtlichen Verfahren
 
@@ -742,6 +774,7 @@ anderes bestimmt.
 
 
 ##### § 25 Kostenschuldner im Rechtsmittelverfahren, Gehörsrüge
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002600000)
 
 (1) Die nach § 22 Absatz 1 begründete Haftung für die Kosten eines
 Rechtsmittelverfahrens erlischt, wenn das Rechtsmittel ganz oder
@@ -761,6 +794,7 @@ Verletzung des Anspruchs auf rechtliches Gehör.
 
 
 ##### § 26 Bestimmte sonstige gerichtliche Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002701311)
 
 (1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der
 Ausfertigungen, Kopien oder Ausdrucke beantragt hat. Sind in einem
@@ -794,6 +828,7 @@ schulden die Anteilsberechtigten.
 
 
 ##### § 27 Weitere Fälle der Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002800000)
 
 Die Kosten schuldet ferner,
 
@@ -818,6 +853,7 @@ Die Kosten schuldet ferner,
 
 
 ##### § 28 Erlöschen der Zahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE002900000)
 
 Die durch gerichtliche Entscheidung begründete Verpflichtung zur
 Zahlung von Kosten erlischt, soweit die Entscheidung durch eine andere
@@ -828,9 +864,11 @@ zurückerstattet.
 
 
 #### Unterabschnitt 2 - Notarkosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000800000)
 
 
 ##### § 29 Kostenschuldner im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003000000)
 
 Die Notarkosten schuldet, wer
 
@@ -847,6 +885,7 @@ Die Notarkosten schuldet, wer
 
 
 ##### § 30 Haftung der Urkundsbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003100000)
 
 (1) Die Kosten des Beurkundungsverfahrens und die im Zusammenhang mit
 dem Beurkundungsverfahren anfallenden Kosten des Vollzugs und der
@@ -867,6 +906,7 @@ haftet insoweit auch gegenüber dem Notar.
 
 
 ##### § 31 Besonderer Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003201311)
 
 (1) Schuldner der Kosten, die für die Beurkundung des Zuschlags bei
 der freiwilligen Versteigerung eines Grundstücks oder
@@ -888,9 +928,11 @@ anzuwenden.
 
 
 #### Unterabschnitt 3 - Mehrere Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG000900000)
 
 
 ##### § 32 Mehrere Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003300000)
 
 (1) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -899,6 +941,7 @@ entstanden, so fallen diese ihm allein zur Last.
 
 
 ##### § 33 Erstschuldner der Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003400000)
 
 (1) Soweit ein Kostenschuldner im gerichtlichen Verfahren aufgrund von
 § 27 Nummer 1 oder Nummer 2 (Erstschuldner) haftet, soll die Haftung
@@ -943,9 +986,11 @@ aufgrund des § 27 Nummer 2 haftet und wenn
 
 
 ### Abschnitt 6 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001000000)
 
 
 #### § 34 Wertgebühren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003502125)
 
 (1) Wenn sich die Gebühren nach dem Geschäftswert richten, bestimmt
 sich die Höhe der Gebühr nach Tabelle A oder Tabelle B.
@@ -1087,12 +1132,15 @@ diesem Gesetz als Anlage 2 beigefügt.
 
 
 ### Abschnitt 7 - Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001100000)
 
 
 #### Unterabschnitt 1 - Allgemeine Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001200000)
 
 
 ##### § 35 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003600000)
 
 (1) In demselben Verfahren und in demselben Rechtszug werden die Werte
 mehrerer Verfahrensgegenstände zusammengerechnet, soweit nichts
@@ -1105,6 +1153,7 @@ ist.
 
 
 ##### § 36 Allgemeiner Geschäftswert
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003700000)
 
 (1) Soweit sich in einer vermögensrechtlichen Angelegenheit der
 Geschäftswert aus den Vorschriften dieses Gesetzes nicht ergibt und er
@@ -1130,6 +1179,7 @@ geltenden Wertvorschriften entsprechend anzuwenden.
 
 
 ##### § 37 Früchte, Nutzungen, Zinsen, Vertragsstrafen, sonstige Nebengegenstände und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003800000)
 
 (1) Sind außer dem Hauptgegenstand des Verfahrens auch Früchte,
 Nutzungen, Zinsen, Vertragsstrafen, sonstige Nebengegenstände oder
@@ -1146,6 +1196,7 @@ Hauptgegenstands nicht übersteigt.
 
 
 ##### § 38 Belastung mit Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE003900000)
 
 Verbindlichkeiten, die auf einer Sache oder auf einem Recht lasten,
 werden bei Ermittlung des Geschäftswerts nicht abgezogen, sofern
@@ -1156,6 +1207,7 @@ Verbindlichkeiten.
 
 
 ##### § 39 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004001125)
 
 (1) Ein Notar, der einen Antrag bei Gericht einreicht, hat dem Gericht
 den von ihm zugrunde gelegten Geschäftswert hinsichtlich eines jeden
@@ -1175,9 +1227,11 @@ Auskunft zu erteilen.
 
 
 #### Unterabschnitt 2 - Besondere Geschäftswertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001300000)
 
 
 ##### § 40 Erbschein, Europäisches Nachlasszeugnis, Zeugnis über die Fortsetzung der Gütergemeinschaft und Testamentsvollstreckerzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004101311)
 
 (1) Der Geschäftswert für das Verfahren zur
 
@@ -1240,6 +1294,7 @@ nicht entgegen.
 
 
 ##### § 41 Zeugnisse zum Nachweis der Auseinandersetzung eines Nachlasses oder Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004200000)
 
 In einem Verfahren, das ein Zeugnis nach den §§ 36 und 37 der
 Grundbuchordnung oder nach § 42 der Schiffsregisterordnung, auch in
@@ -1250,6 +1305,7 @@ erstreckt.
 
 
 ##### § 42 Wohnungs- und Teileigentum
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004300000)
 
 (1) Bei der Begründung von Wohnungs- oder Teileigentum und bei
 Geschäften, die die Aufhebung oder das Erlöschen von Sondereigentum
@@ -1263,6 +1319,7 @@ tritt.
 
 
 ##### § 43 Erbbaurechtsbestellung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004400000)
 
 Wird bei der Bestellung eines Erbbaurechts als Entgelt ein Erbbauzins
 vereinbart, ist Geschäftswert der nach § 52 errechnete Wert des
@@ -1271,6 +1328,7 @@ Erbbaurechts höher, so ist dieser maßgebend.
 
 
 ##### § 44 Mithaft
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004500000)
 
 (1) Bei der Einbeziehung eines Grundstücks in die Mithaft wegen eines
 Grundpfandrechts und bei der Entlassung aus der Mithaft bestimmt sich
@@ -1296,6 +1354,7 @@ der Geschäftswertbestimmung der Entlassung aus der Mithaft gleich.
 
 
 ##### § 45 Rangverhältnisse und Vormerkungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004600000)
 
 (1) Bei Einräumung des Vorrangs oder des gleichen Rangs ist
 Geschäftswert der Wert des vortretenden Rechts, höchstens jedoch der
@@ -1315,9 +1374,11 @@ vorgemerkten Rechts; § 51 Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
 
 #### Unterabschnitt 3 - Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001400000)
 
 
 ##### § 46 Sache
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004700000)
 
 (1) Der Wert einer Sache wird durch den Preis bestimmt, der im
 gewöhnlichen Geschäftsverkehr nach der Beschaffenheit der Sache unter
@@ -1362,6 +1423,7 @@ nicht statt.
 
 
 ##### § 47 Sache bei Kauf
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004800000)
 
 Im Zusammenhang mit dem Kauf wird der Wert der Sache durch den
 Kaufpreis bestimmt. Der Wert der vorbehaltenen Nutzungen und der vom
@@ -1372,6 +1434,7 @@ maßgebend.
 
 
 ##### § 48 Land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE004901125)
 
 (1) Im Zusammenhang mit der Übergabe oder Zuwendung eines land- oder
 forstwirtschaftlichen Betriebs mit Hofstelle und dazugehörigem
@@ -1427,6 +1490,7 @@ maßgebend.
 
 
 ##### § 49 Grundstücksgleiche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005000000)
 
 (1) Die für die Bewertung von Grundstücken geltenden Vorschriften sind
 auf Rechte entsprechend anzuwenden, die den für Grundstücke geltenden
@@ -1440,6 +1504,7 @@ sind 80 Prozent vom Wert dieser Teilfläche zugrunde zu legen.
 
 
 ##### § 50 Bestimmte schuldrechtliche Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005100000)
 
 Der Wert beträgt bei einer schuldrechtlichen Verpflichtung
 
@@ -1472,6 +1537,7 @@ Der Wert beträgt bei einer schuldrechtlichen Verpflichtung
 
 
 ##### § 51 Erwerbs- und Veräußerungsrechte, Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005200000)
 
 (1) Der Wert eines Ankaufsrechts oder eines sonstigen Erwerbs- oder
 Veräußerungsrechts ist der Wert des Gegenstands, auf den sich das
@@ -1489,6 +1555,7 @@ ein niedrigerer Wert angenommen werden.
 
 
 ##### § 52 Nutzungs- und Leistungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005300000)
 
 (1) Der Wert einer Dienstbarkeit, einer Reallast oder eines sonstigen
 Rechts oder Anspruchs auf wiederkehrende oder dauernde Nutzungen oder
@@ -1569,6 +1636,7 @@ beträgt 0 Euro.
 
 
 ##### § 53 Grundpfandrechte und sonstige Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005400000)
 
 (1) Der Wert einer Hypothek, Schiffshypothek, eines
 Registerpfandrechts an einem Luftfahrzeug oder einer Grundschuld ist
@@ -1583,6 +1651,7 @@ Wert hat, nach diesem.
 
 
 ##### § 54 Bestimmte Gesellschaftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005500000)
 
 Wenn keine genügenden Anhaltspunkte für einen höheren Wert von
 Anteilen an Kapitalgesellschaften und von Kommanditbeteiligungen
@@ -1600,12 +1669,15 @@ maßgeblich; die Sätze 1 und 2 sind nicht anzuwenden.
 
 
 ## Kapitel 2 - Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001500000)
 
 
 ### Abschnitt 1 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001600000)
 
 
 #### § 55 Einmalige Erhebung der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005601125)
 
 (1) Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für
 eine Entscheidung oder die Vornahme einer Handlung werden in jedem
@@ -1619,6 +1691,7 @@ erhoben, soweit nichts anderes bestimmt ist.
 
 
 #### § 56 Teile des Verfahrensgegenstands
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005700000)
 
 (1) Für Handlungen, die einen Teil des Verfahrensgegenstands
 betreffen, sind die Gebühren nur nach dem Wert dieses Teils zu
@@ -1635,6 +1708,7 @@ Gebührensatz berechnete Gebühr darf jedoch nicht überschritten werden.
 
 
 #### § 57 Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005800000)
 
 (1) Wird eine Sache an ein Gericht eines unteren Rechtszugs
 zurückverwiesen, bildet das weitere Verfahren mit dem früheren
@@ -1646,6 +1720,7 @@ Kostenverzeichnis nichts anderes bestimmt ist.
 
 
 #### § 58 Eintragungen in das Handels-, Genossenschafts-, Gesellschafts- oder Partnerschaftsregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE005905125)
 
 (1) Gebühren werden nur aufgrund einer Rechtsverordnung
 (Handelsregistergebührenverordnung) erhoben für
@@ -1690,12 +1765,15 @@ berücksichtigt werden.
 
 
 ### Abschnitt 2 - Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001700000)
 
 
 #### Unterabschnitt 1 - Allgemeine Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001800000)
 
 
 ##### § 59 Zeitpunkt der Wertberechnung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006000000)
 
 Für die Wertberechnung ist der Zeitpunkt der jeweiligen den
 Verfahrensgegenstand betreffenden ersten Antragstellung in dem
@@ -1705,6 +1783,7 @@ der Fälligkeit der Gebühr maßgebend.
 
 
 ##### § 60 Genehmigung oder Ersetzung einer Erklärung oder Genehmigung eines Rechtsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006100000)
 
 (1) Wenn in einer vermögensrechtlichen Angelegenheit Gegenstand des
 Verfahrens die Genehmigung oder Ersetzung einer Erklärung oder die
@@ -1720,6 +1799,7 @@ Verfahrensgegenstand zu bewerten.
 
 
 ##### § 61 Rechtsmittelverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006200000)
 
 (1) Im Rechtsmittelverfahren bestimmt sich der Geschäftswert nach den
 Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass
@@ -1736,6 +1816,7 @@ Rechtsmittelverfahren maßgebende Wert.
 
 
 ##### § 62 Einstweilige Anordnung, Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006301311)
 
 Im Verfahren der einstweiligen Anordnung und im Verfahren über die
 Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses ist der
@@ -1745,9 +1826,11 @@ für die Hauptsache bestimmten Werts auszugehen.
 
 
 #### Unterabschnitt 2 - Besondere Geschäftswertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG001900000)
 
 
 ##### § 63 Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006400000)
 
 Bei Betreuungen oder Pflegschaften, die einzelne Rechtshandlungen
 betreffen, ist Geschäftswert der Wert des Gegenstands, auf den sich
@@ -1760,6 +1843,7 @@ bemessen.
 
 
 ##### § 64 Nachlasspflegschaften und Gesamtgutsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006500000)
 
 (1) Geschäftswert für eine Nachlassverwaltung, eine
 Gesamtgutsverwaltung oder eine sonstige Nachlasspflegschaft ist der
@@ -1772,6 +1856,7 @@ jedoch der sich nach Absatz 1 ergebende Betrag.
 
 
 ##### § 65 Ernennung und Entlassung von Testamentsvollstreckern
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006600000)
 
 Der Geschäftswert für das Verfahren über die Ernennung oder Entlassung
 eines Testamentsvollstreckers beträgt jeweils 10 Prozent des Werts des
@@ -1781,10 +1866,12 @@ anzuwenden.
 
 
 ##### § 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006701311)
 
 
 
 ##### § 67 Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereinssachen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006803125)
 
 (1) Der Geschäftswert in einem unternehmensrechtlichen Verfahren und
 in einem Verfahren in Vereinssachen beträgt
@@ -1818,6 +1905,7 @@ höheren oder einen niedrigeren Wert festsetzen.
 
 
 ##### § 68 Verhandlung über Dispache
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE006900000)
 
 Geschäftswert in dem Verfahren zum Zweck der Verhandlung über die
 Dispache ist die Summe der Anteile, die die an der Verhandlung
@@ -1825,6 +1913,7 @@ Beteiligten an dem Schaden zu tragen haben.
 
 
 ##### § 69 Eintragungen im Grundbuch, Schiffs- oder Schiffsbauregister
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007001311)
 
 (1) Geschäftswert für die Eintragung desselben Eigentümers bei
 mehreren Grundstücken ist der zusammengerechnete Wert dieser
@@ -1843,6 +1932,7 @@ Veränderungen nicht überschritten werden.
 
 
 ##### § 70 Gemeinschaften zur gesamten Hand
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007102125)
 
 (1) Ist oder wird eine Gesamthandsgemeinschaft im Grundbuch
 eingetragen, sind bei der Berechnung des Geschäftswerts die Anteile an
@@ -1871,6 +1961,7 @@ Luftfahrzeuge, an die Stelle des Grundbuchamts das Registergericht.
 
 
 ##### § 71 Nachträgliche Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007200000)
 
 (1) Bei der nachträglichen Erteilung eines Hypotheken-, Grundschuld-
 oder Rentenschuldbriefs ist Geschäftswert der für die Eintragung des
@@ -1881,6 +1972,7 @@ entsprechend.
 
 
 ##### § 72 Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007300000)
 
 (1) Den Geschäftswert im gerichtlichen Verfahren über die
 abschließenden Feststellungen der Sonderprüfer nach § 259 Absatz 2 und
@@ -1897,6 +1989,7 @@ Aktiengesetzes) sind anzuwenden.
 
 
 ##### § 73 Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007400000)
 
 Geschäftswert im Verfahren über den Ausschluss von Aktionären nach den
 §§ 39a und 39b des Wertpapiererwerbs- und Übernahmegesetzes ist der
@@ -1906,6 +1999,7 @@ und höchstens 7,5 Millionen Euro.
 
 
 ##### § 74 Verfahren nach dem Spruchverfahrensgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007500000)
 
 Geschäftswert im gerichtlichen Verfahren nach dem
 Spruchverfahrensgesetz ist der Betrag, der von allen in § 3 des
@@ -1918,6 +2012,7 @@ Antragsfrist (§ 4 Absatz 1 des Spruchverfahrensgesetzes).
 
 
 ##### § 75 Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007600000)
 
 Im gerichtlichen Verfahren über die Zusammensetzung des Aufsichtsrats,
 das sich nach den §§ 98 und 99 des Aktiengesetzes richtet, ist
@@ -1926,6 +2021,7 @@ auszugehen.
 
 
 ##### § 76 Bestimmte Verfahren vor dem Landwirtschaftsgericht
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007700000)
 
 Geschäftswert ist
 
@@ -1953,9 +2049,11 @@ Geschäftswert ist
 
 
 #### Unterabschnitt 3 - Wertfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002000000)
 
 
 ##### § 77 Angabe des Werts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007800000)
 
 Bei jedem Antrag ist der Geschäftswert und nach Aufforderung auch der
 Wert eines Teils des Verfahrensgegenstands schriftlich oder zu
@@ -1966,6 +2064,7 @@ jederzeit berichtigt werden.
 
 
 ##### § 78 Wertfestsetzung für die Zulässigkeit der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE007900000)
 
 Ist der Wert für die Zulässigkeit der Beschwerde festgesetzt, so ist
 die Festsetzung auch für die Berechnung der Gebühren maßgebend, soweit
@@ -1974,6 +2073,7 @@ des Verfahrensrechts abweichen.
 
 
 ##### § 79 Festsetzung des Geschäftswerts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008000000)
 
 (1) Soweit eine Entscheidung nach § 78 nicht ergeht oder nicht bindet,
 setzt das Gericht den Wert für die zu erhebenden Gebühren durch
@@ -2015,6 +2115,7 @@ Verfahren sich anderweitig erledigt hat.
 
 
 ##### § 80 Schätzung des Geschäftswerts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008100000)
 
 Wird eine Schätzung des Geschäftswerts durch Sachverständige
 erforderlich, ist in dem Beschluss, durch den der Wert festgesetzt
@@ -2026,9 +2127,11 @@ unbegründete Beschwerde die Schätzung veranlasst hat.
 
 
 ### Abschnitt 3 - Erinnerung und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002100000)
 
 
 #### § 81 Erinnerung gegen den Kostenansatz, Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008200000)
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen
 den Kostenansatz einschließlich der Ausübung des
@@ -2094,6 +2197,7 @@ des Gerichts.
 
 
 #### § 82 Beschwerde gegen die Anordnung einer Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008300000)
 
 (1) Gegen den Beschluss, durch den aufgrund dieses Gesetzes die
 Tätigkeit des Gerichts von der vorherigen Zahlung von Kosten abhängig
@@ -2105,6 +2209,7 @@ bis 5 Satz 1 und 4 und Absatz 6 und 8 ist entsprechend anzuwenden.
 
 
 #### § 83 Beschwerde gegen die Festsetzung des Geschäftswerts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008402125)
 
 (1) Gegen den Beschluss, durch den der Geschäftswert für die
 Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde
@@ -2142,6 +2247,7 @@ sowie Absatz 6 ist entsprechend anzuwenden.
 
 
 #### § 84 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008501125)
 
 (1) Auf die Rüge eines durch die Entscheidung nach diesem Gesetz
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -2184,12 +2290,15 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 
 ## Kapitel 3 - Notarkosten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002200000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002300000)
 
 
 #### § 85 Notarielle Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008601125)
 
 (1) Notarielle Verfahren im Sinne dieses Gesetzes sind das
 Beurkundungsverfahren (Teil 2 Hauptabschnitt 1 des
@@ -2202,6 +2311,7 @@ Beurkundungsgesetzes) gerichtet.
 
 
 #### § 86 Beurkundungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008700000)
 
 (1) Beurkundungsgegenstand ist das Rechtsverhältnis, auf das sich die
 Erklärungen beziehen, bei Tatsachenbeurkundungen die beurkundete
@@ -2213,15 +2323,18 @@ bestimmt ist.
 
 
 #### § 87 Sprechtage außerhalb der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008800000)
 
 Hält ein Notar außerhalb seiner Geschäftsstelle regelmäßige Sprechtage
 ab, so gilt dieser Ort als Amtssitz im Sinne dieses Gesetzes.
 
 
 ### Abschnitt 2 - Kostenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002400000)
 
 
 #### § 88 Verzinsung des Kostenanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE008900000)
 
 Der Kostenschuldner hat die Kostenforderung zu verzinsen, wenn ihm
 eine vollstreckbare Ausfertigung der Kostenberechnung (§ 19)
@@ -2233,6 +2346,7 @@ des Bürgerlichen Gesetzbuchs.
 
 
 #### § 89 Beitreibung der Kosten und Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009000000)
 
 Die Kosten und die auf diese entfallenden Zinsen werden aufgrund einer
 mit der Vollstreckungsklausel des Notars versehenen Ausfertigung der
@@ -2244,6 +2358,7 @@ ist die Duldungspflicht auszusprechen.
 
 
 #### § 90 Zurückzahlung, Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009100000)
 
 (1) Wird die Kostenberechnung abgeändert oder ist der endgültige
 Kostenbetrag geringer als der erhobene Vorschuss, so hat der Notar die
@@ -2267,9 +2382,11 @@ vollstreckbar.
 
 
 ### Abschnitt 3 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002500000)
 
 
 #### § 91 Gebührenermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009200000)
 
 (1) Erhebt ein Notar die in Teil 2 Hauptabschnitt 1 oder 4 oder in den
 Nummern 23803 und 25202 des Kostenverzeichnisses bestimmten Gebühren
@@ -2366,6 +2483,7 @@ dem Notar nicht auf die Gebührenermäßigung berufen.
 
 
 #### § 92 Rahmengebühren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009300000)
 
 (1) Bei Rahmengebühren bestimmt der Notar die Gebühr im Einzelfall
 unter Berücksichtigung des Umfangs der erbrachten Leistung nach
@@ -2382,6 +2500,7 @@ vorausgegangene Tätigkeit zu berücksichtigen.
 
 
 #### § 93 Einmalige Erhebung der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009400000)
 
 (1) Die Gebühr für ein Verfahren sowie die Vollzugs- und die
 Betreuungsgebühr werden in demselben notariellen Verfahren jeweils nur
@@ -2399,6 +2518,7 @@ zum Ausdruck kommt.
 
 
 #### § 94 Verschiedene Gebührensätze
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009500000)
 
 (1) Sind für die einzelnen Beurkundungsgegenstände oder für Teile
 davon verschiedene Gebührensätze anzuwenden, entstehen insoweit
@@ -2414,12 +2534,15 @@ wären.
 
 
 ### Abschnitt 4 - Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002600000)
 
 
 #### Unterabschnitt 1 - Allgemeine Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002700000)
 
 
 ##### § 95 Mitwirkung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009600000)
 
 Die Beteiligten sind verpflichtet, bei der Wertermittlung mitzuwirken.
 Sie haben ihre Erklärungen über tatsächliche Umstände vollständig und
@@ -2429,15 +2552,18 @@ bestimmen.
 
 
 ##### § 96 Zeitpunkt der Wertberechnung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009700000)
 
 Für die Wertberechnung ist der Zeitpunkt der Fälligkeit der Gebühr
 maßgebend.
 
 
 #### Unterabschnitt 2 - Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002800000)
 
 
 ##### § 97 Verträge und Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009800000)
 
 (1) Der Geschäftswert bei der Beurkundung von Verträgen und
 Erklärungen bestimmt sich nach dem Wert des Rechtsverhältnisses, das
@@ -2454,6 +2580,7 @@ der Wert der Leistungen verschieden ist, ist der höhere maßgebend.
 
 
 ##### § 98 Vollmachten und Zustimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE009901311)
 
 (1) Bei der Beurkundung einer Vollmacht zum Abschluss eines bestimmten
 Rechtsgeschäfts oder bei der Beurkundung einer Zustimmungserklärung
@@ -2486,6 +2613,7 @@ Vorschriften entsprechend.
 
 
 ##### § 99 Miet-, Pacht- und Dienstverträge
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010000000)
 
 (1) Der Geschäftswert bei der Beurkundung eines Miet- oder
 Pachtvertrags ist der Wert aller Leistungen des Mieters oder Pächters
@@ -2504,6 +2632,7 @@ Wert der auf die ersten fünf Jahre entfallenden Bezüge.
 
 
 ##### § 100 Güterrechtliche Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010100000)
 
 (1) Der Geschäftswert
 
@@ -2537,12 +2666,14 @@ Lebenspartnerschaftsverträgen.
 
 
 ##### § 101 Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010200000)
 
 In Angelegenheiten, die die Annahme eines Minderjährigen betreffen,
 beträgt der Geschäftswert 5 000 Euro.
 
 
 ##### § 102 Erbrechtliche Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010300000)
 
 (1) Geschäftswert bei der Beurkundung einer Verfügung von Todes wegen
 ist, wenn über den ganzen Nachlass oder einen Bruchteil verfügt wird,
@@ -2582,6 +2713,7 @@ nach Satz 1 hinzuzurechnen.
 
 
 ##### § 103 Erklärungen gegenüber dem Nachlassgericht, Anträge an das Nachlassgericht
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010400000)
 
 (1) Werden in einer vermögensrechtlichen Angelegenheit Erklärungen,
 die gegenüber dem Nachlassgericht abzugeben sind, oder Anträge an das
@@ -2594,6 +2726,7 @@ Anfalls eines Hofes (§ 11 der Höfeordnung) gilt Absatz 1 entsprechend.
 
 
 ##### § 104 Rechtswahl
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010500000)
 
 (1) Bei der Beurkundung einer Rechtswahl, die die allgemeinen oder
 güterrechtlichen Wirkungen der Ehe betrifft, beträgt der Geschäftswert
@@ -2610,6 +2743,7 @@ des Rechtsgeschäfts, für das die Rechtswahl bestimmt ist.
 
 
 ##### § 105 Anmeldung zu bestimmten Registern
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010601125)
 
 (1) Bei den folgenden Anmeldungen zum Handelsregister ist
 Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei
@@ -2734,6 +2868,7 @@ Anwendung des Satzes 1 nicht entgegen.
 
 
 ##### § 106 Höchstwert für Anmeldungen zu bestimmten Registern
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010700000)
 
 Bei der Beurkundung von Anmeldungen zu einem in § 105 genannten
 Register und zum Vereinsregister beträgt der Geschäftswert höchstens 1
@@ -2742,6 +2877,7 @@ Beurkundungsverfahren zusammengefasst werden.
 
 
 ##### § 107 Gesellschaftsrechtliche Verträge, Satzungen und Pläne
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010800000)
 
 (1) Bei der Beurkundung von Gesellschaftsverträgen und Satzungen sowie
 von Plänen und Verträgen nach dem Umwandlungsgesetz beträgt der
@@ -2760,6 +2896,7 @@ Beteiligungsgesellschaft.
 
 
 ##### § 108 Beschlüsse von Organen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE010901125)
 
 (1) Für den Geschäftswert bei der Beurkundung von Beschlüssen von
 Organen von Kapitalgesellschaften und rechtsfähigen
@@ -2787,6 +2924,7 @@ Gegenstand in einem Beurkundungsverfahren zusammengefasst werden.
 
 
 ##### § 109 Derselbe Beurkundungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011000000)
 
 (1) Derselbe Beurkundungsgegenstand liegt vor, wenn Rechtsverhältnisse
 zueinander in einem Abhängigkeitsverhältnis stehen und das eine
@@ -2890,6 +3028,7 @@ Betracht kommenden Wert.
 
 
 ##### § 110 Verschiedene Beurkundungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011100000)
 
 Abweichend von § 109 Absatz 1 sind verschiedene
 Beurkundungsgegenstände
@@ -2920,6 +3059,7 @@ Beurkundungsgegenstände
 
 
 ##### § 111 Besondere Beurkundungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011200000)
 
 Als besonderer Beurkundungsgegenstand gelten stets
 
@@ -2941,9 +3081,11 @@ Als besonderer Beurkundungsgegenstand gelten stets
 
 
 #### Unterabschnitt 3 - Vollzugs- und Betreuungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG002900000)
 
 
 ##### § 112 Vollzug des Geschäfts
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011300000)
 
 Der Geschäftswert für den Vollzug ist der Geschäftswert des zugrunde
 liegenden Beurkundungsverfahrens. Liegt der zu vollziehenden Urkunde
@@ -2953,6 +3095,7 @@ Beurkundungsverfahrens wäre.
 
 
 ##### § 113 Betreuungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011400000)
 
 (1) Der Geschäftswert für die Betreuungsgebühr ist wie bei der
 Beurkundung zu bestimmen.
@@ -2962,15 +3105,18 @@ Sicherungsinteresses.
 
 
 #### Unterabschnitt 4 - Sonstige notarielle Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG003000000)
 
 
 ##### § 114 Rückgabe eines Erbvertrags aus der notariellen Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011500000)
 
 Der Geschäftswert für die Rückgabe eines Erbvertrags aus der
 notariellen Verwahrung bestimmt sich nach § 102 Absatz 1 bis 3.
 
 
 ##### § 115 Vermögensverzeichnis, Siegelung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011600000)
 
 Der Geschäftswert für die Aufnahme von Vermögensverzeichnissen sowie
 für Siegelungen und Entsiegelungen ist der Wert der verzeichneten oder
@@ -2979,6 +3125,7 @@ Urkundsperson bei der Aufnahme von Vermögensverzeichnissen.
 
 
 ##### § 116 Freiwillige Versteigerung von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011700000)
 
 (1) Bei der freiwilligen Versteigerung von Grundstücken oder
 grundstücksgleichen Rechten ist der Geschäftswert nach dem Wert der zu
@@ -3004,6 +3151,7 @@ maßgebend.
 
 
 ##### § 117 Versteigerung von beweglichen Sachen und von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011800000)
 
 Bei der Versteigerung von beweglichen Sachen und von Rechten bemisst
 sich der Geschäftswert nach der Summe der Werte der betroffenen Sachen
@@ -3011,6 +3159,7 @@ und Rechte.
 
 
 ##### § 118 Vorbereitung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE011900000)
 
 Im Verfahren über die Vollstreckbarerklärung eines Schiedsspruchs mit
 vereinbartem Wortlaut oder über die Erteilung einer vollstreckbaren
@@ -3020,6 +3169,7 @@ Ausfertigung sein sollen.
 
 
 ##### § 118a Teilungssachen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014100311)
 
 Geschäftswert in Teilungssachen nach § 342 Absatz 2 Nummer 1 des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -3035,6 +3185,7 @@ zusammengerechnet.
 
 
 ##### § 119 Entwurf
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012000000)
 
 (1) Bei der Fertigung eines Entwurfs bestimmt sich der Geschäftswert
 nach den für die Beurkundung geltenden Vorschriften.
@@ -3045,6 +3196,7 @@ beabsichtigten Einzelgeschäfte.
 
 
 ##### § 120 Beratung bei einer Haupt- oder Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012100000)
 
 Der Geschäftswert für die Beratung bei der Vorbereitung oder
 Durchführung einer Hauptversammlung oder einer
@@ -3054,6 +3206,7 @@ Beschlüsse. Der Geschäftswert beträgt höchstens 5 Millionen Euro.
 
 
 ##### § 121 Beglaubigung von Unterschriften, Handzeichen oder qualifizierten elektronischen Signaturen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012201125)
 
 Der Geschäftswert für die Beglaubigung von Unterschriften, Handzeichen
 oder qualifizierten elektronischen Signaturen bestimmt sich nach den
@@ -3061,6 +3214,7 @@ für die Beurkundung der Erklärung geltenden Vorschriften.
 
 
 ##### § 122 Rangbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012300000)
 
 Geschäftswert einer Mitteilung über die dem Grundbuchamt bei
 Einreichung eines Antrags vorliegenden weiteren Anträge einschließlich
@@ -3069,6 +3223,7 @@ des sich daraus ergebenden Rangs für das beantragte Recht
 
 
 ##### § 123 Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012400000)
 
 Geschäftswert einer Gründungsprüfung gemäß § 33 Absatz 3 des
 Aktiengesetzes ist die Summe aller Einlagen. Der Geschäftswert beträgt
@@ -3076,6 +3231,7 @@ höchstens 10 Millionen Euro.
 
 
 ##### § 124 Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012500000)
 
 Der Geschäftswert bei der Verwahrung von Geldbeträgen bestimmt sich
 nach der Höhe des jeweils ausgezahlten Betrags. Bei der Entgegennahme
@@ -3084,15 +3240,18 @@ der Wert der Wertpapiere oder Kostbarkeiten.
 
 
 ### Abschnitt 5 - Gebührenvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG003100000)
 
 
 #### § 125 Verbot der Gebührenvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012600000)
 
 Vereinbarungen über die Höhe der Kosten sind unwirksam, soweit sich
 aus der folgenden Vorschrift nichts anderes ergibt.
 
 
 #### § 126 Öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012700000)
 
 (1) Für die Tätigkeit des Notars als Mediator oder Schlichter ist
 durch öffentlich-rechtlichen Vertrag eine Gegenleistung in Geld zu
@@ -3112,9 +3271,11 @@ beglaubigter Ausdruck des öffentlich-rechtlichen Vertrags beizufügen.
 
 
 ### Abschnitt 6 - Gerichtliches Verfahren in Notarkostensachen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG003200000)
 
 
 #### § 127 Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012800000)
 
 (1) Gegen die Kostenberechnung (§ 19), einschließlich der
 Verzinsungspflicht (§ 88), gegen die Zahlungspflicht, die Ausübung des
@@ -3134,6 +3295,7 @@ können sie auch nach Ablauf dieser Frist geltend gemacht werden.
 
 
 #### § 128 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE012900000)
 
 (1) Das Gericht soll vor der Entscheidung die Beteiligten, die
 vorgesetzte Dienstbehörde des Notars und, wenn eine Kasse gemäß § 113
@@ -3159,6 +3321,7 @@ rechtlicher Art aufweist und keine grundsätzliche Bedeutung hat.
 
 
 #### § 129 Beschwerde und Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013000000)
 
 (1) Gegen die Entscheidung des Landgerichts findet ohne Rücksicht auf
 den Wert des Beschwerdegegenstands die Beschwerde statt.
@@ -3168,6 +3331,7 @@ Rechtsbeschwerde statt.
 
 
 #### § 130 Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013100000)
 
 (1) Der Antrag auf Entscheidung des Landgerichts, die Beschwerde und
 die Rechtsbeschwerde haben keine aufschiebende Wirkung. Das Gericht
@@ -3192,6 +3356,7 @@ freiwilligen Gerichtsbarkeit ist auf den Notar nicht anzuwenden.
 
 
 #### § 131 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013200000)
 
 Die Vorschriften des Gesetzes über das Verfahren in Familiensachen und
 in den Angelegenheiten der freiwilligen Gerichtsbarkeit über die
@@ -3202,15 +3367,18 @@ Gerichtsbarkeit ist auf den Notar nicht anzuwenden.
 
 
 ## Kapitel 4 - Schluss- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNG003300000)
 
 
 ### § 132 Verhältnis zu anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013300000)
 
 Artikel 1 Absatz 2 und Artikel 2 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche sind entsprechend anzuwenden.
 
 
 ### § 133 Bekanntmachung von Neufassungen
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013402125)
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
 Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
@@ -3231,6 +3399,7 @@ angeben
 
 
 ### § 134 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013500000)
 
 (1) In gerichtlichen Verfahren, die vor dem Inkrafttreten einer
 Gesetzesänderung anhängig geworden oder eingeleitet worden sind,
@@ -3249,6 +3418,7 @@ die Kosten nach bisherigem Recht erhoben.
 
 
 ### § 135 Sonderregelung für Baden-Württemberg
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013601311)
 
 (1) Solange und soweit im Land Baden-Württemberg die Gebühren für die
 Tätigkeit des Notars der Staatskasse zufließen, ist § 2 anstelle von §
@@ -3266,6 +3436,7 @@ dessen Bezirk die Behörde ihren Sitz hat.
 
 
 ### § 136 Übergangsvorschrift zum 2. Kostenrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013701125)
 
 (1) Die Kostenordnung in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 361-1, veröffentlichten bereinigten Fassung, die
@@ -3374,6 +3545,7 @@ Vorschriften.
 (zu § 3 Absatz 2)
 
 ### Anlage 1 Kostenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE014201125)
 
 (Fundstelle: BGBl. I 2013, 2613 – 2653;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8800,6 +8972,7 @@ Teil 3
 
 
 ### Anlage 2 (zu § 34 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/gnotkg/BJNR258610013.html#BJNR258610013BJNE013902125)
 
 (Fundstelle: BGBl. 2025 I Nr. 109, S. 18)
 

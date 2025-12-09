@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000100000)
 
 Auf Grund des § 172c Absatz 3 Satz 1 des Siebten Buches
 Sozialgesetzbuch – Gesetzliche Unfallversicherung –, der durch Artikel
@@ -30,6 +31,7 @@ und Verbraucherschutz:
 
 
 ## § 1 Bildung der Altersrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000203119)
 
 (1) Altersrückstellungen für den in § 172c Absatz 1 des Siebten Buches
 Sozialgesetzbuch genannten Personenkreis sind in Höhe des
@@ -79,6 +81,7 @@ Barwertberechnung nach den Absätzen 1, 3 und 4.
 
 
 ## § 2 Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000301360)
 
 Die Unfallversicherungsträger überprüfen regelmäßig, spätestens nach
 Ablauf von jeweils fünf Jahren, die Höhe der Rückstellungen nach § 1
@@ -86,6 +89,7 @@ und der jährlichen Zuführungen für die folgenden fünf Jahre.
 
 
 ## § 3 Altersrückstellungen für die ehemaligen Beschäftigten des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000401308)
 
 Für die ehemaligen Beschäftigten des Spitzenverbandes der
 landwirtschaftlichen Sozialversicherung, für die Altersrückstellungen
@@ -95,6 +99,7 @@ Vorschriften dieser Verordnung anzuwenden.
 
 
 ## § 4 Übergangsvorschriften zur Bildung der Altersrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000503377)
 
 (1) Für Versorgungsleistungen, die vor dem Jahr 2030 zu erbringen
 sind, sind keine Altersrückstellungen nach § 1 zu bilden.
@@ -133,11 +138,13 @@ Altersrückstellungen für die Jahre 2021 und 2022 ausgesetzt werden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/uv-altr_ckv/BJNR317000009.html#BJNR317000009BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

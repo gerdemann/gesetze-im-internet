@@ -21,12 +21,14 @@ Stand: Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkomm
 Stand: Die V ist gem. Art. 2 Abs. 1 iVm Bek. v. 27.3.2023 II Nr. 89 am 20.2.2023 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bizihecabkv/BJNR0310O0023.html#BJNR0310O0023BJNE000100000)
 
 Auf Grund des § 5 des Gaststaatgesetzes vom 30. November 2019 (BGBl. I
 S. 1929) verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bizihecabkv/BJNR0310O0023.html#BJNR0310O0023BJNE000200000)
 
 (1) Der Ansiedlung der Bank für Internationalen Zahlungsausgleich in
 der Bundesrepublik Deutschland durch Einrichtung des BIZ Innovation
@@ -43,6 +45,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bizihecabkv/BJNR0310O0023.html#BJNR0310O0023BJNE000300000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem das in Bern am
 9\. Dezember 2022 unterzeichnete Abkommen zwischen der Regierung der
@@ -58,6 +61,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bizihecabkv/BJNR0310O0023.html#BJNR0310O0023BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

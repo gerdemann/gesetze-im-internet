@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000201377)
 
 
 1.  (weggefallen)
@@ -62,6 +64,7 @@ sofortiger Wirkung an:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000300000)
 
 
 1.  Mit der Übertragung von Zuständigkeiten aus dem bisherigen
@@ -101,6 +104,7 @@ sofortiger Wirkung an:
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000400000)
 
 Die federführende Zuständigkeit für den Aufgabenbereich Gentechnik
 wird vom Bundesministerium für Gesundheit und Soziale Sicherung auf
@@ -111,6 +115,7 @@ medizinische Fragen, insbesondere das Arzneimittelwesen.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000500000)
 
 Dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird
 die Beauftragte der Bundesregierung für Ausländerfragen (künftig:
@@ -119,6 +124,7 @@ Integration) zugeordnet.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000600000)
 
 Dem Bundesministerium für Verkehr, Bau- und Wohnungswesen wird aus dem
 Geschäftsbereich des Bundeskanzlers die Zuständigkeit des Beauftragten
@@ -126,6 +132,7 @@ der Bundesregierung für die neuen Bundesländer übertragen.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000700000)
 
 Dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 werden übertragen:
@@ -158,6 +165,7 @@ werden übertragen:
 
 
 ## VII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000800000)
 
 Dem Auswärtigen Amt wird aus dem Geschäftsbereich des Presse- und
 Informationsamtes der Bundesregierung die Zuständigkeit für die
@@ -165,6 +173,7 @@ politische Öffentlichkeitsarbeit Ausland übertragen.
 
 
 ## VIII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE000900000)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung in Abstimmung mit dem Chef des
@@ -172,6 +181,7 @@ Bundeskanzleramtes geregelt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2002/BJNR420600002.html#BJNR420600002BJNE001000000)
 
 Der Bundeskanzler
 

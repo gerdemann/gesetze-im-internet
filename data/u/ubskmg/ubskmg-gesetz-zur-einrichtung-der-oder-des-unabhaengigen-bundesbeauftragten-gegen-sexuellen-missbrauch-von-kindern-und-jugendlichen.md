@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Schutz von Kindern und Jugendlichen vor sexueller Gewalt und Ausbeutung; Unterstützung von Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNG000100000)
 
 
 ### § 1 Schutz vor sexueller Gewalt und Ausbeutung
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000200000)
 
 (1) Ziel des Gesetzes ist es, dass die staatliche Gemeinschaft Kinder
 und Jugendliche vor sexueller Gewalt und Ausbeutung schützt. Zur
@@ -53,6 +55,7 @@ digitalen Diensten, die Kinder und Jugendliche nutzen.
 
 
 ### § 2 Amt der oder des Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000300000)
 
 Beim Bundesministerium für Familie, Senioren, Frauen und Jugend wird
 das Amt der oder des Unabhängigen Bundesbeauftragten gegen sexuellen
@@ -61,10 +64,12 @@ Bundesbeauftragte oder Unabhängiger Bundesbeauftragter).
 
 
 ### § 3 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000400000)
 
 
 
 ### § 4 Unterstützung für Betroffene von sexueller Gewalt oder Ausbeutung in Kindheit oder Jugend
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000500000)
 
 Die oder der Unabhängige Bundesbeauftragte stellt ein bundeszentrales
 Beratungssystem bereit, durch das Menschen, die in ihrer Kindheit oder
@@ -89,12 +94,15 @@ unterstützt werden. Die Ziele des Beratungssystems sind insbesondere
 
 
 ## Abschnitt 2 - Die oder der Unabhängige Bundesbeauftragte gegen sexuellen Missbrauch von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNG000200000)
 
 
 ### Unterabschnitt 1 - Rechtsstellung, Aufgaben und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNG000300000)
 
 
 #### § 5 Die oder der Unabhängige Bundesbeauftragte gegen sexuellen Missbrauch von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000600000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte steht nach Maßgabe
 dieses Gesetzes in einem öffentlich-rechtlichen Amtsverhältnis zum
@@ -122,6 +130,7 @@ Aufarbeitungskommission) (§ 25) eingerichtet.
 
 
 #### § 6 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000700000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte nimmt folgende Aufgaben
 in unabhängiger Weise wahr, um den Schutz von Kindern und Jugendlichen
@@ -181,6 +190,7 @@ ihrem Entwicklungsstand angemessen zu beteiligen.
 
 
 #### § 7 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000800000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte erstellt in jeder
 Legislaturperiode mindestens einen Bericht über das Ausmaß von
@@ -199,6 +209,7 @@ Forschungsbedarfe sowie eine Stellungnahme des Betroffenenrates.
 
 
 #### § 8 Eignung und Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE000900000)
 
 Die oder der Unabhängige Bundesbeauftragte muss zur Erfüllung ihrer
 oder seiner Aufgaben über die erforderliche persönliche und fachliche
@@ -211,6 +222,7 @@ für ihre Bedürfnisse einzusetzen.
 
 
 #### § 9 Wahl
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001000000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte wird nach Anhörung des
 Betroffenenrates auf Vorschlag der Bundesregierung vom Deutschen
@@ -225,6 +237,7 @@ gestimmt hat.
 
 
 #### § 10 Ernennung, Amtseid
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001100000)
 
 (1) Die nach § 9 Absatz 3 gewählte Person wird von der
 Bundespräsidentin oder dem Bundespräsidenten ernannt.
@@ -239,6 +252,7 @@ Ernennungsurkunde aus.
 
 
 #### § 11 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001200000)
 
 (1) Die Amtszeit der oder des Unabhängigen Bundesbeauftragten beträgt
 fünf Jahre.
@@ -253,6 +267,7 @@ zwölf Monate fort.
 
 
 #### § 12 Beginn und Ende des Amtsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001300000)
 
 (1) Das Amtsverhältnis der oder des Unabhängigen Bundesbeauftragten
 beginnt mit der Aushändigung der Ernennungsurkunde nach § 10 Absatz 3.
@@ -288,6 +303,7 @@ Veröffentlichung ersetzt werden.
 
 
 #### § 13 Anspruch auf Amtsbezüge, Versorgung und andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001400000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte erhält Amtsbezüge
 entsprechend dem Grundgehalt der Besoldungsgruppe B 6 und den
@@ -330,6 +346,7 @@ Bundesbeamtinnen und Bundesbeamte geltenden Vorschriften.
 
 
 #### § 14 Verwendung von Geschenken
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001500000)
 
 Die oder der Unabhängige Bundesbeauftragte hat der Präsidentin oder
 dem Präsidenten des Deutschen Bundestages über Geschenke unverzüglich
@@ -339,6 +356,7 @@ entscheidet über die Verwendung der Geschenke.
 
 
 #### § 15 Berufsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001600000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte ist verpflichtet, eine
 beabsichtigte Erwerbstätigkeit oder sonstige entgeltliche
@@ -369,6 +387,7 @@ werden.
 
 
 #### § 16 Unerlaubte Handlungen und Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001700000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte darf keine Handlungen
 vornehmen, die mit ihrem oder seinem Amt nicht zu vereinbaren sind.
@@ -394,6 +413,7 @@ oder er nicht
 
 
 #### § 17 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001800000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte ist verpflichtet, über
 die Angelegenheiten, die ihr oder ihm im Amt oder während einer
@@ -420,6 +440,7 @@ anzuzeigen.
 
 
 #### § 18 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE001900000)
 
 (1) Die oder der Unabhängige Bundesbeauftragte ist befugt,
 personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung der
@@ -444,9 +465,11 @@ Jahre nach ihrer Erhebung zu löschen.
 
 
 ### Unterabschnitt 2 - Betroffenenrat
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNG000400000)
 
 
 #### § 19 Berufung; Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002000000)
 
 Der Betroffenenrat wird durch die Unabhängige Bundesbeauftragte oder
 den Unabhängigen Bundesbeauftragten für die Dauer von fünf Jahren
@@ -455,6 +478,7 @@ Berufung der Mitglieder ist möglich.
 
 
 #### § 20 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002100000)
 
 (1) Der Betroffenenrat nimmt insbesondere folgende Aufgaben wahr:
 
@@ -476,6 +500,7 @@ seine Tätigkeit.
 
 
 #### § 21 Ehrenamt
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002200000)
 
 Die Mitglieder des Betroffenenrates sind ehrenamtlich tätig. Sie
 erhalten eine pauschale Aufwandsentschädigung sowie Ersatz ihrer
@@ -483,6 +508,7 @@ Reisekosten entsprechend den Vorgaben des Bundesreisekostengesetzes.
 
 
 #### § 22 Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002300000)
 
 Die Mitglieder des Betroffenenrates können jederzeit schriftlich
 gegenüber der oder dem Unabhängigen Bundesbeauftragten ihr Ausscheiden
@@ -492,6 +518,7 @@ Verwaltungsverfahrensgesetzes.
 
 
 #### § 23 Benachteiligungsverbot; Freistellung von der Arbeitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002400000)
 
 (1) Niemand darf wegen der Tätigkeit im Betroffenenrat benachteiligt
 werden.
@@ -505,6 +532,7 @@ der Ausübung der Tätigkeit im Betroffenenrat ist unzulässig.
 
 
 #### § 24 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002500000)
 
 Die Mitglieder des Betroffenenrates sind zur Verschwiegenheit über die
 Angelegenheiten, die ihnen während der Mitgliedschaft im
@@ -513,9 +541,11 @@ Mitgliedschaft, verpflichtet.
 
 
 ### Unterabschnitt 3 - Unabhängige Kommission des Bundes zur Aufarbeitung sexuellen Kindesmissbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNG000500000)
 
 
 #### § 25 Berufung; Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002600000)
 
 Die Unabhängige Aufarbeitungskommission wird durch die Unabhängige
 Bundesbeauftragte oder den Unabhängigen Bundesbeauftragten für die
@@ -525,6 +555,7 @@ einmalige erneute Berufung der Mitglieder ist möglich. Die §§ 21 und
 
 
 #### § 26 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002700000)
 
 (1) Die Unabhängige Aufarbeitungskommission fördert, unterstützt,
 beobachtet und begleitet die individuelle, institutionelle und
@@ -566,6 +597,7 @@ Unabhängigen Bundesbeauftragten unterstützt.
 
 
 #### § 27 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002800000)
 
 Die Unabhängige Aufarbeitungskommission erstellt in jeder
 Legislaturperiode mindestens einen eigenständigen Bericht. Der Bericht
@@ -576,12 +608,14 @@ Bestandteil des Berichts nach § 7 sein.
 
 
 #### § 28 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE002900000)
 
 Die Mitglieder der Unabhängigen Aufarbeitungskommission sind zur
 Verschwiegenheit nach Maßgabe des § 17 verpflichtet.
 
 
 #### § 29 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE003000000)
 
 (1) Die Unabhängige Aufarbeitungskommission ist befugt,
 personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung der
@@ -609,9 +643,11 @@ erforderlich ist, jedoch nicht länger als dreißig Jahre.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNG000600000)
 
 
 ### § 30 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ubskmg/BJNR06B0B0025.html#BJNR06B0B0025BJNE003100000)
 
 Mit Inkrafttreten dieses Gesetzes wird die derzeitige Unabhängige
 Beauftragte für Fragen des sexuellen Kindesmissbrauchs in ein

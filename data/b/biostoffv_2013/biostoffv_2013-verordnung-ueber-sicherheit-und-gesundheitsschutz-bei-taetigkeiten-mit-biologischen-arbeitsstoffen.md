@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen und Risikogruppeneinstufung
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000201126)
 
 (1) Diese Verordnung gilt für Tätigkeiten mit Biologischen
 Arbeitsstoffen (Biostoffen). Sie regelt Maßnahmen zum Schutz von
@@ -48,6 +50,7 @@ Regelungen zum Schutz der Beschäftigten bestehen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000301126)
 
 (1) Biostoffe sind
 
@@ -208,6 +211,7 @@ unter gezieltem Einsatz definierter Biostoffe.
 
 
 ### § 3 Einstufung von Biostoffen in Risikogruppen
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000400000)
 
 (1) Biostoffe werden entsprechend dem von ihnen ausgehenden
 Infektionsrisiko nach dem Stand der Wissenschaft in eine der folgenden
@@ -282,9 +286,11 @@ Folgendes zu beachten:
 
 
 ## Abschnitt 2 - Gefährdungsbeurteilung, Schutzstufenzuordnung, Dokumentations- und Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNG000200000)
 
 
 ### § 4 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000501126)
 
 (1) Im Rahmen der Gefährdungsbeurteilung nach § 5 des
 Arbeitsschutzgesetzes hat der Arbeitgeber die Gefährdung der
@@ -371,6 +377,7 @@ Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
 
 
 ### § 5 Tätigkeiten mit Schutzstufenzuordnung
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000600000)
 
 (1) Bei Tätigkeiten in Laboratorien, in der Versuchstierhaltung, in
 der Biotechnologie sowie in Einrichtungen des Gesundheitsdienstes hat
@@ -407,6 +414,7 @@ zuzuordnen.
 
 
 ### § 6 Tätigkeiten ohne Schutzstufenzuordnung
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000701126)
 
 (1) Tätigkeiten, die nicht unter § 5 Absatz 1 fallen, müssen keiner
 Schutzstufe zugeordnet werden. Dabei handelt es sich um Tätigkeiten im
@@ -437,6 +445,7 @@ auf der Grundlage von
 
 
 ### § 7 Dokumentation der Gefährdungsbeurteilung und Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000801126)
 
 (1) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der
 Zahl der Beschäftigten erstmals vor Aufnahme der Tätigkeit sowie
@@ -500,9 +509,11 @@ sensibilisierende oder toxische Wirkungen durchgeführt werden.
 
 
 ## Abschnitt 3 - Grundpflichten und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNG000300000)
 
 
 ### § 8 Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE000900000)
 
 (1) Der Arbeitgeber hat die Belange des Arbeitsschutzes in Bezug auf
 Tätigkeiten mit Biostoffen in seine betriebliche Organisation
@@ -598,6 +609,7 @@ ausüben lassen.
 
 
 ### § 9 Allgemeine Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001000000)
 
 (1) Bei allen Tätigkeiten mit Biostoffen müssen mindestens die
 allgemeinen Hygienemaßnahmen eingehalten werden. Insbesondere hat der
@@ -708,6 +720,7 @@ Maßnahmen zur Hygiene und zur Desinfektion festzulegen.
 
 
 ### § 10 Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Laboratorien, in der Versuchstierhaltung sowie in der Biotechnologie
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001100000)
 
 (1) Zusätzlich zu den Schutzmaßnahmen nach § 9 hat der Arbeitgeber vor
 Aufnahme der Tätigkeiten der Schutzstufe 2, 3 oder 4 in Laboratorien,
@@ -781,6 +794,7 @@ die mit (\*\*) gekennzeichnet sind.
 
 
 ### § 11 Zusätzliche Schutzmaßnahmen und Anforderungen in Einrichtungen des Gesundheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001201126)
 
 (1) Zusätzlich zu den Schutzmaßnahmen nach § 9 hat der Arbeitgeber vor
 Aufnahme der Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen
@@ -851,6 +865,7 @@ eingewiesen und geschult sind.
 
 
 ### § 12 Arbeitsmedizinische Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001300000)
 
 Die Verordnung zur arbeitsmedizinischen Vorsorge in der jeweils
 geltenden Fassung gilt auch für den in § 2 Absatz 9 Satz 2 genannten
@@ -858,6 +873,7 @@ Personenkreis.
 
 
 ### § 13 Betriebsstörungen, Unfälle
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001400000)
 
 (1) Der Arbeitgeber hat vor Aufnahme einer Tätigkeit der Schutzstufen
 2 bis 4 die erforderlichen Maßnahmen festzulegen, die bei
@@ -933,6 +949,7 @@ unverzüglich zu unterrichten.
 
 
 ### § 14 Betriebsanweisung und Unterweisung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001500000)
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung
 nach § 4 vor Aufnahme der Tätigkeit eine schriftliche
@@ -1036,9 +1053,11 @@ folgende Tätigkeiten mit erhöhter Infektionsgefährdung:
 
 
 ## Abschnitt 4 - Erlaubnis- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNG000400000)
 
 
 ### § 15 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001601311)
 
 (1) Der Arbeitgeber bedarf der Erlaubnis der zuständigen Behörde,
 bevor Tätigkeiten der Schutzstufe 3 oder 4 in Laboratorien, in der
@@ -1111,6 +1130,7 @@ Biostoffe sicherzustellen.
 
 
 ### § 16 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001701126)
 
 (1) Der Arbeitgeber hat der zuständigen Behörde nach Maßgabe der
 Absätze 2 und 3 anzuzeigen:
@@ -1194,9 +1214,11 @@ beinhaltet.
 
 
 ## Abschnitt 5 - Vollzugsregelungen und Ausschuss für Biologische Arbeitsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNG000500000)
 
 
 ### § 17 Unterrichtung der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001800000)
 
 (1) Der Arbeitgeber hat die zuständige Behörde unverzüglich zu
 unterrichten über
@@ -1239,6 +1261,7 @@ der zuständigen Behörde auf ihr Verlangen Folgendes zu übermitteln:
 
 
 ### § 18 Behördliche Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE001900000)
 
 Die zuständige Behörde kann auf schriftlichen oder elektronischen
 Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 9, 10,
@@ -1249,6 +1272,7 @@ betroffenen Beschäftigten vereinbar ist.
 
 
 ### § 19 Ausschuss für Biologische Arbeitsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002001126)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Biologische Arbeitsstoffe (ABAS) gebildet, in dem fachlich
@@ -1321,9 +1345,11 @@ Geschäfte des Ausschusses.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten, Straftaten und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNG000600000)
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002101126)
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1448,6 +1474,7 @@ Heimarbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 
 
 ### § 21 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002200000)
 
 (1) Wer durch eine in § 20 Absatz 1 bezeichnete vorsätzliche Handlung
 Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26
@@ -1460,6 +1487,7 @@ Heimarbeitsgesetzes strafbar.
 
 
 ### § 22 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002301126)
 
 Bei Tätigkeiten, die vor dem 23. Juli 2013 aufgenommen worden sind,
 besteht keine Erlaubnispflicht nach § 15 Absatz 1, sofern
@@ -1477,12 +1505,14 @@ Die Anzeigepflicht nach § 16 Absatz 1 Nummer 4 bleibt unberührt.
 
 
 ### Anhang I Symbol für Biogefährdung
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002400000)
 
 (Fundstelle: BGBl. I 2013, 2525)
 
 ![bgbl1_2013_j2514-1_0010.jpg](bgbl1_2013_j2514-1_0010.jpg)
 
 ### Anhang II Zusätzliche Schutzmaßnahmen bei Tätigkeiten in Laboratorien und vergleichbaren Einrichtungen sowie in der Versuchstierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002502126)
 
 (Fundstelle: BGBl. I 2013, 2526 – 2527)
 
@@ -1862,6 +1892,7 @@ Anmerkung: Gemäß § 10 Absatz 1 sind die als empfohlen bezeichneten
 [^F781759_02_BJNR251410013BJNE002502126]: 
 
 ### Anhang III Zusätzliche Schutzmaßnahmen bei Tätigkeiten in der Biotechnologie
+[Direktlink](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html#BJNR251410013BJNE002601126)
 
 (Fundstelle: BGBl. I 2013, 2528)
 

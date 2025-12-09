@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002600000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -33,10 +34,12 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Erster Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNG000100000)
 
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000101308)
 
 Die Ausbildungsberufe
 
@@ -54,11 +57,13 @@ werden staatlich anerkannt.
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000301308)
 
 (1) Die Ausbildung vermittelt in einem zeitlichen Umfang von insgesamt
 18 Monaten, verteilt über die gesamte Ausbildungszeit, gemeinsame
@@ -93,10 +98,12 @@ sowie 20 und 21 nachzuweisen.
 
 
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Kaufmann im Gesundheitswesen/Kauffrau im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNG000200000)
 
 
 
 ### § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -205,6 +212,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ### § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000500000)
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach den in
 der Anlage 1 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -216,12 +224,14 @@ ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -230,6 +240,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -258,6 +269,7 @@ Prüfungsgebieten durchzuführen:
 
 
 ### § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE000900000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -380,17 +392,21 @@ nicht bestanden.
 
 
 ## Dritter Teil - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNG000301308)
 
 
 ### (XXXX) §§ 10 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE001001308)
 
 
 
 ## Vierter Teil - Vorschriften für den Ausbildungsberuf Veranstaltungskaufmann/Veranstaltungskauffrau
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNG000400000)
 
 
 
 ### § 16 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE001600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -537,6 +553,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ### § 17 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE001700000)
 
 Die in § 16 genannten Fertigkeiten und Kenntnisse sollen nach den in
 der Anlage 3 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -548,12 +565,14 @@ ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 18 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE001800000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 19 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE001900000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -562,6 +581,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 20 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -590,6 +610,7 @@ Prüfungsgebieten durchzuführen:
 
 
 ### § 21 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -712,16 +733,19 @@ nicht bestanden.
 
 
 ## Fünfter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNG000500000)
 
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 (zu § 5)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Gesundheitswesen/zur Kauffrau im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002300000)
 
 (Fundstelle: BGBl. I 2001, 1269 - 1277)
 
@@ -1864,12 +1888,14 @@ fortzuführen.
 
 
 ### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002401308)
 
 -
 
 (zu § 17)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
+[Direktlink](https://www.gesetze-im-internet.de/kfldiausbv/BJNR126200001.html#BJNR126200001BJNE002501119)
 
 (Fundstelle: BGBl. I 2001, 1287 - 1296; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

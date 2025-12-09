@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE000800306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Armenrecht
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE000900306)
 
 (1) Ein deutscher Staatsangehöriger, der das Armenrecht für eine Klage
 vor einem Gericht der Tunesischen Republik auf dem in Artikel 7 des
@@ -62,6 +65,7 @@ eines Antrags nach Absatz 1 werden im übrigen Kosten nicht erhoben.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001000306)
 
 Für die Übermittlung eines Antrags auf Bewilligung des Armenrechts
 (Artikel 7 Abs. 1 des Vertrages) durch den konsularischen Vertreter
@@ -70,10 +74,12 @@ erhoben.
 
 
 ## Zweiter Abschnitt - Zustellungsanträge und Rechtshilfeersuchen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000200306)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001100306)
 
 (1) Für die Erledigung von Zustellungsanträgen (Artikel 8 des
 Vertrages) oder von Rechtshilfeersuchen (Artikel 18 des Vertrages) ist
@@ -97,19 +103,23 @@ Vorschriften über Kosten im Bereich der Justizverwaltung.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001201311)
 
 (weggefallen)
 
 
 ## Dritter Abschnitt - Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000300306)
 
 
 
 ### Erster Titel - Vollstreckbarerklärung von tunesischen gerichtlichen Entscheidungen und von anderen tunesischen Schuldtiteln
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000400306)
 
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001303310)
 
 (1) Für die Vollstreckbarerklärung gerichtlicher Entscheidungen
 (Artikel 27, 28 und 34 bis 41 des Vertrages), gerichtlicher Vergleiche
@@ -131,6 +141,7 @@ Zivilprozeßordnung gelten entsprechend.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001400306)
 
 Hängt die Vollstreckung der gerichtlichen Entscheidung oder des
 anderen Schuldtitels nach deren Inhalt von einer dem Gläubiger
@@ -152,6 +163,7 @@ werden.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001501307)
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer gerichtlichen
 Entscheidung kann der Schuldner auch Einwendungen gegen den Anspruch
@@ -182,6 +194,7 @@ entstanden sind.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001600306)
 
 Aus den für vollstreckbar erklärten gerichtlichen Entscheidungen oder
 anderen Schuldtiteln findet die Zwangsvollstreckung statt, sofern die
@@ -190,10 +203,12 @@ vorläufig vollstreckbar erklärt ist.
 
 
 ### Zweiter Titel - Aufhebung oder Änderung der Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000500306)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001701310)
 
 (1) Wird nach der Vollstreckbarerklärung eine gerichtliche
 Entscheidung oder ein anderer Schuldtitel in der Tunesischen Republik
@@ -219,6 +234,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001800306)
 
 (1) Soweit die Vollstreckbarerklärung einer gerichtlichen Entscheidung
 oder eines anderen Schuldtitels nach § 9 aufgehoben oder geändert
@@ -242,10 +258,12 @@ entschieden hat.
 
 
 ### Dritter Titel - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000600306)
 
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE001902310)
 
 (1) Sollen von einer Partei, gegen die eine Kostenentscheidung
 ergangen ist, in der Tunesischen Republik Gerichtskosten eingezogen
@@ -263,6 +281,7 @@ durch Erklärung zu Protokoll der Geschäftsstelle eingelegt werden.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE002000306)
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in der
 Tunesischen Republik geltend gemacht werden soll, so soll das Urteil
@@ -271,6 +290,7 @@ werden.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE002100306)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
@@ -298,6 +318,7 @@ nicht erhoben.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE002200306)
 
 Einstweiligen Anordnungen oder einstweiligen Verfügungen (Artikel 27
 Abs. 4 des Vertrages), die in der Tunesischen Republik geltend gemacht
@@ -306,6 +327,7 @@ anzuwenden.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE002300306)
 
 Vollstreckungsbescheide (Artikel 27 Abs. 2 des Vertrages) und
 einstweilige Verfügungen (Artikel 27 Abs. 4 des Vertrages), auf Grund
@@ -317,10 +339,12 @@ erforderlich wäre.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNG000700306)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE002400306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -328,6 +352,7 @@ im Land Berlin.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrtunag/BJNR003330969.html#BJNR003330969BJNE002500306)
 
 (1) Dieses Gesetz tritt gleichzeitig mit dem Vertrag vom 19. Juli 1966
 zwischen der Bundesrepublik Deutschland und der Tunesischen Republik

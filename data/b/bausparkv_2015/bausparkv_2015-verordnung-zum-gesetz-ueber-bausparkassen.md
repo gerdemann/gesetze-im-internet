@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 7691-2-1-2 v. 19.12.1990 I 2947 (BauSparkV 1990)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000100000)
 
 Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch
 Artikel 1 Nummer 12 des Gesetzes vom 21. Dezember 2015 (BGBl. I S.
@@ -35,6 +36,7 @@ und der Spitzenverbände der Bausparkassen:
 
 
 ## § 1 Bauspartechnische Simulationsmodelle
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000200000)
 
 (1) Ein bauspartechnisches Simulationsmodell ist jeweils nur dann als
 geeignet anzusehen für die in § 8 Absatz 4 des Gesetzes über
@@ -127,6 +129,7 @@ Bestätigungsvermerk mit heran.
 
 
 ## § 2 Simulationen und Prognosen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000300000)
 
 (1) Bei den nach den Regelungen des § 8 Absatz 4 des Gesetzes über
 Bausparkassen sowie dieser Verordnung zu erstellenden Simulationen und
@@ -273,6 +276,7 @@ Diese müssen den Anforderungen nach den Absätzen 1 bis 7 entsprechen.
 
 
 ## § 3 Kollektiver Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000400000)
 
 (1) Die Bausparkasse hat der Bundesanstalt bis spätestens zum Ende
 eines Kalenderjahres einen kollektiven Lagebericht nach § 3 Absatz 5
@@ -325,6 +329,7 @@ einen kollektiven Lagebericht einzureichen hat.
 
 
 ## § 4 Mindestanforderungen an Bauspartarife
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000500000)
 
 (1) In die Allgemeinen Bedingungen für Bausparverträge sind
 Mindestbewertungszahlen oder andere geeignete
@@ -382,6 +387,7 @@ Leistungsverhältnisse angemessen zu berücksichtigen.
 
 
 ## § 5 Gewährung von Vorfinanzierungs- oder Zwischenfinanzierungskrediten und sonstigen Baudarlehen aus Zuteilungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000600000)
 
 (1) Beantragt eine Bausparkasse eine Genehmigung nach § 6 Absatz 1
 Satz 2 Nummer 2 des Gesetzes über Bausparkassen, so hat sie
@@ -464,6 +470,7 @@ ursprünglichen Genehmigung verwenden darf.
 
 
 ## § 6 Tarifgenehmigungsanträge und Anträge auf Genehmigung von Bestandsübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000700000)
 
 (1) Die Bausparkasse hat Anträgen auf eine Genehmigung nach § 9 Absatz
 1 Satz 1 und 2 und nach § 14 Absatz 3 des Gesetzes über Bausparkassen
@@ -500,6 +507,7 @@ Unterlagen beizufügen:
 
 
 ## § 7 Zuführung zum Fonds zur bauspartechnischen Absicherung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000800000)
 
 (1) Die Zuführung zum Fonds zur bauspartechnischen Absicherung nach §
 6 Absatz 2 Satz 2 des Gesetzes über Bausparkassen erfolgt jährlich zum
@@ -530,6 +538,7 @@ Bauspareinlagen zuzüglich 2 Prozent zum Ansatz gebracht werden.
 
 
 ## § 8 Einsatz des Fonds zur bauspartechnischen Absicherung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE000900000)
 
 (1) Die Mittel des Fonds zur bauspartechnischen Absicherung sind im
 Sinne des § 6 Absatz 2 Satz 1 Nummer 1 des Gesetzes über Bausparkassen
@@ -576,6 +585,7 @@ Anforderungen nach § 7 Absatz 1 hinaus zugeführt wurden.
 
 
 ## § 9 Großbausparverträge
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001001119)
 
 (1) Großbausparverträge sind Bausparverträge, bei denen die
 Bausparsumme den Betrag von 700 000 Euro übersteigt. Alle innerhalb
@@ -599,6 +609,7 @@ eingezahlt hat.
 
 
 ## § 10 Gewerbliche Finanzierungen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001100000)
 
 Der Anteil der Darlehen, die der Finanzierung von Bauvorhaben mit
 gewerblichem Charakter dienen, darf drei Prozent des Gesamtbestandes
@@ -606,6 +617,7 @@ der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 
 
 ## § 11 Darlehen an Beteiligungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001200000)
 
 (1) Darlehen nach § 4 Absatz 1 Nummer 7 des Gesetzes über
 Bausparkassen dürfen einer Bausparkasse insgesamt in Höhe von bis zu
@@ -625,6 +637,7 @@ Prozent ihrer Eigenmittel nach Artikel 72 der Verordnung (EU) Nr.
 
 
 ## § 12 Darlehen gegen Verpflichtungserklärung, Blankodarlehen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001301119)
 
 (1) Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7
 Absatz 4 Nummer 1 des Gesetzes über Bausparkassen oder ohne Sicherung
@@ -637,6 +650,7 @@ nicht übersteigen.
 
 
 ## § 13 Begrenzung der nicht durch Grundpfandrechte gesicherten Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001400000)
 
 Der Anteil der Darlehen, für die Ersatzsicherheiten nach § 7 Absatz 3
 des Gesetzes über Bausparkassen gestellt werden, sowie der Darlehen
@@ -645,6 +659,7 @@ Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 
 
 ## § 14 Überleitungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001500000)
 
 Eine nach den Regelungen des § 6 Absatz 1 Satz 1 in Verbindung mit §
 10 Satz 1 Nummer 1 des Gesetzes über Bausparkassen in der bis zum 28.
@@ -663,6 +678,7 @@ Dezember 2015 geltenden Fassung, verwenden zu dürfen.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bausparkv_2015/BJNR257600015.html#BJNR257600015BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Bausparkassen-Verordnung vom 19. Dezember 1990

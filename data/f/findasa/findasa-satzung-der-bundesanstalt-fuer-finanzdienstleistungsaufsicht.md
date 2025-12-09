@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Aufbau und Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNG000100000)
 
 
 
 ### § 1 Bezeichnung, Aufbau und Organisation der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000106119)
 
 (1) Die Bundesanstalt trägt die Bezeichnung "Bundesanstalt für
 Finanzdienstleistungsaufsicht" (Bundesanstalt). Im Geschäftsverkehr
@@ -41,6 +43,7 @@ festgelegt.
 
 
 ### § 1a Geschäftsbereich Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE001400118)
 
 (1) Die Aufgaben der Abwicklungsbehörde im Sinne des § 3 Absatz 1 des
 Sanierungs- und Abwicklungsgesetzes werden operativ unabhängig von den
@@ -77,6 +80,7 @@ Verfügung stehen.
 
 
 ### § 2 Rechte und Pflichten der Organe der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000203119)
 
 (1) Das Direktorium leitet die Bundesanstalt gesamtverantwortlich und
 unbeschadet der Weisungsrechte des Bundesministeriums.
@@ -126,6 +130,7 @@ Informationen zur Arbeit der Bundesanstalt.
 
 
 ### § 2a Beauftragter oder Beauftragte für den Anleger- und Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE001500119)
 
 (1) Der Leiter der Abteilung Verbraucherschutz nimmt die Funktion des
 oder der Beauftragten für den Anleger- und Verbraucherschutz wahr.
@@ -143,10 +148,12 @@ Verbraucherschutzes berührt werden.
 
 
 ## Zweiter Abschnitt - Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNG000200000)
 
 
 
 ### § 3 Bestellung und Abberufung der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000305119)
 
 (1) Mitglied des Verwaltungsrats soll nur jemand werden, der die
 erforderliche Sachkunde für die Wahrnehmung dieser Aufgabe bietet. Die
@@ -235,6 +242,7 @@ festgelegte Sitzverteilung des Verwaltungsrats nicht ändert.
 
 
 ### § 4 Befugnisse des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000405119)
 
 (1) Der Verwaltungsrat überwacht und unterstützt die Geschäftsführung
 der Bundesanstalt. Er ist insbesondere berufen
@@ -293,6 +301,7 @@ Verlangen unterstützen.
 
 
 ### § 5 Vertretung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000502119)
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen
 Verhinderung durch dessen Stellvertreter vertreten. Im Übrigen ist nur
@@ -301,6 +310,7 @@ Vertreter möglich.
 
 
 ### § 6 Sitzungen des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000605128)
 
 (1) Der Verwaltungsrat tritt nach Bedarf zusammen, jedoch mindestens
 einmal jährlich. Die Sitzungen sind nicht öffentlich.
@@ -360,6 +370,7 @@ festgestellt.
 
 
 ### § 7 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000700000)
 
 Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren
 oder in Verfahren der Telekommunikation ist zulässig. Das Nähere
@@ -367,6 +378,7 @@ regelt die Geschäftsordnung.
 
 
 ### § 8 Fachbeirat
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000806128)
 
 (1) Der Fachbeirat wählt aus dem Kreis seiner Mitglieder einen
 Vorsitzenden und gibt sich zur Durchführung seiner Sitzungen eine
@@ -486,6 +498,7 @@ Geschäftsordnung.
 
 
 ### § 8a Verbraucherbeirat
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE001305128)
 
 (1) Die zwölf Mitglieder des Verbraucherbeirats werden von der
 Bundesanstalt im Einvernehmen mit dem Bundesministerium und im
@@ -529,10 +542,12 @@ und 7 sind entsprechend anzuwenden.
 
 
 ## Dritter Abschnitt - Haushaltsführung
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNG000300000)
 
 
 
 ### § 9 Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE000903119)
 
 (1) Der Haushaltsplan ist nach den Grundsätzen der §§ 105 bis 112 der
 Bundeshaushaltsordnung aufzustellen.
@@ -563,6 +578,7 @@ Einwilligung des Verwaltungsrats.
 
 
 ### § 10 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE001003119)
 
 (1) Das Haushaltsjahr der Bundesanstalt ist das Kalenderjahr.
 
@@ -591,10 +607,12 @@ die Entlastung des Präsidenten oder der Präsidentin relevant sind.
 
 
 ## Vierter Abschnitt - Übergang von Rechten und Pflichten, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNG000400000)
 
 
 
 ### § 11 Übergang von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE001100000)
 
 Die vom Bundesministerium mit den Bundesaufsichtsämtern für das
 Kreditwesen und für das Versicherungswesen insbesondere zur
@@ -605,6 +623,7 @@ wird. Sie sind dem Verwaltungsrat zur Kenntnis zu geben.
 
 
 ### § 12 Veröffentlichung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/findasa/BJNR150000002.html#BJNR150000002BJNE001201360)
 
 Die Satzung und Änderungen an der Satzung sind in den
 Veröffentlichungen der Bundesanstalt bekannt zu machen.

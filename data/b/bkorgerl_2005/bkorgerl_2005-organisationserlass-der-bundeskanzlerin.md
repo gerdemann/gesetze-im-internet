@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000200000)
 
 
 1.  Es erhalten
@@ -59,6 +61,7 @@ sofortiger Wirkung an:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000300000)
 
 Dem Bundesministerium für Wirtschaft und Technologie werden
 übertragen:
@@ -109,6 +112,7 @@ Planungsangelegenheiten ein.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000400000)
 
 
 1.  Dem Bundesministerium für Arbeit und Soziales werden aus dem
@@ -167,6 +171,7 @@ Planungsangelegenheiten ein.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000500000)
 
 Aus dem Geschäftsbereich des Bundesministeriums für Familie, Senioren,
 Frauen und Jugend wird dem Bundeskanzleramt die Beauftragte der
@@ -175,6 +180,7 @@ die Aufgabe von einer Staatsministerin wahrgenommen.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000600000)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
@@ -182,6 +188,7 @@ Bundeskanzleramtes mitgeteilt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2005/BJNR319700005.html#BJNR319700005BJNE000700000)
 
 Die Bundeskanzlerin
 

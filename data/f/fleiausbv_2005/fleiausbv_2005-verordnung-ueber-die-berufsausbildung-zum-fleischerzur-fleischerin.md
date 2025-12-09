@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -36,6 +37,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000200000)
 
 Der Ausbildungsberuf Fleischer/Fleischerin wird
 
@@ -51,6 +53,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -63,6 +66,7 @@ Ausbildungsjahr.
 
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000400000)
 
 (1) Die Ausbildung gliedert sich in
 
@@ -93,6 +97,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -179,6 +184,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000601119)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -189,6 +195,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000701119)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede
@@ -196,6 +203,7 @@ Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -204,6 +212,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -248,6 +257,7 @@ Qualitätssicherung berücksichtigen kann.
 
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE001001119)
 
 (1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -417,6 +427,7 @@ dürfen ungenügende Leistungen erbracht worden sein.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE001100000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -425,12 +436,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 5 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE001301119)
 
 (Fundstelle: BGBl. I 2005, 901 - 905;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -884,6 +897,7 @@ I               I    und Kontrollen durchführen       I     I     I
 (zu § 9 Absatz 2 Satz 4)
 
 ## Anlage 2 Regelung zur Prüfung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Anhang IV der Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1, L 326 vom 11.11.2014, S. 6)
+[Direktlink](https://www.gesetze-im-internet.de/fleiausbv_2005/BJNR089800005.html#BJNR089800005BJNE001400119)
 
 (Fundstelle: BGBl. I 2017, 38)
 

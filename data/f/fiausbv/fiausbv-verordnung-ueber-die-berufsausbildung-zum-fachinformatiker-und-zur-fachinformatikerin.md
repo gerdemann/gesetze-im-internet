@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-244 v. 10.7.1997 I 1741 (ITKTAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -34,20 +35,24 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000300000)
 
 Der Ausbildungsberuf des Fachinformatikers und der Fachinformatikerin
 wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -65,6 +70,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -243,6 +249,7 @@ folgenden Berufsausbildungen vermittelt:
 
 
 ### § 5 Einsatzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000700000)
 
 (1) In der Fachrichtung Anwendungsentwicklung sind die Fertigkeiten,
 Kenntnisse und Fähigkeiten der Berufsbildpositionen nach § 4 Absatz 2,
@@ -334,6 +341,7 @@ Fähigkeiten vermittelt werden.
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -341,12 +349,15 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000300000)
 
 
 #### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE000900000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -356,9 +367,11 @@ Stelle fest.
 
 
 ### Unterabschnitt 2 - Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000400000)
 
 
 #### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -376,6 +389,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 9 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001100000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Einrichten
 eines IT-gestützten Arbeitsplatzes statt.
@@ -409,9 +423,11 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### Unterabschnitt 3 - Teil 2 der Abschlussprüfung in der Fachrichtung Anwendungsentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000500000)
 
 
 #### § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Anwendungsentwicklung auf
@@ -434,6 +450,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 11 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001300000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung
 Anwendungsentwicklung in den folgenden Prüfungsbereichen statt:
@@ -454,6 +471,7 @@ Anwendungsentwicklung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 12 Prüfungsbereich Planen und Umsetzen eines Softwareprojektes
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001400000)
 
 (1) Im Prüfungsbereich Planen und Umsetzen eines Softwareprojektes
 besteht die Prüfung aus zwei Teilen.
@@ -521,6 +539,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 13 Prüfungsbereich Planen eines Softwareproduktes
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001500000)
 
 (1) Im Prüfungsbereich Planen eines Softwareproduktes hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -547,6 +566,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 14 Prüfungsbereich Entwicklung und Umsetzung von Algorithmen
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001600000)
 
 (1) Im Prüfungsbereich Entwicklung und Umsetzung von Algorithmen hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -574,6 +594,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -587,6 +608,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Anwendungsentwicklung wie folgt zu gewichten:
@@ -662,6 +684,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -702,9 +725,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Abschlussprüfung in der Fachrichtung Systemintegration
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000600000)
 
 
 #### § 18 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002000000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Systemintegration auf
@@ -727,6 +752,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 19 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002100000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung
 Systemintegration in den folgenden Prüfungsbereichen statt:
@@ -747,6 +773,7 @@ Systemintegration in den folgenden Prüfungsbereichen statt:
 
 
 #### § 20 Prüfungsbereich Planen und Umsetzen eines Projektes der Systemintegration
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002200000)
 
 (1) Im Prüfungsbereich Planen und Umsetzen eines Projektes der
 Systemintegration besteht die Prüfung aus zwei Teilen.
@@ -814,6 +841,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 21 Prüfungsbereich Konzeption und Administration von IT-Systemen
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002300000)
 
 (1) Im Prüfungsbereich Konzeption und Administration von IT-Systemen
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -840,6 +868,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 22 Prüfungsbereich Analyse und Entwicklung von Netzwerken
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002400000)
 
 (1) Im Prüfungsbereich Analyse und Entwicklung von Netzwerken hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -866,6 +895,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 23 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002500000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -879,6 +909,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 24 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Systemintegration wie folgt zu gewichten:
@@ -955,6 +986,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 25 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -995,9 +1027,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 5 - Teil 2 der Abschlussprüfung in der Fach- richtung Daten- und Prozessanalyse
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000700000)
 
 
 #### § 26 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Daten- und Prozessanalyse auf
@@ -1020,6 +1054,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 27 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE002900000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Daten- und
 Prozessanalyse in den folgenden Prüfungsbereichen statt:
@@ -1040,6 +1075,7 @@ Prozessanalyse in den folgenden Prüfungsbereichen statt:
 
 
 #### § 28 Prüfungsbereich Planen und Durchführen eines Projektes der Datenanalyse
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003000000)
 
 (1) Im Prüfungsbereich Planen und Durchführen eines Projektes der
 Datenanalyse besteht die Prüfung aus zwei Teilen.
@@ -1106,6 +1142,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 29 Prüfungsbereich Durchführen einer Prozessanalyse
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003100000)
 
 (1) Im Prüfungsbereich Durchführen einer Prozessanalyse hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1134,6 +1171,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 30 Prüfungsbereich Sicherstellen der Datenqualität
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003200000)
 
 (1) Im Prüfungsbereich Sicherstellen der Datenqualität hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1160,6 +1198,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 31 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003300000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1173,6 +1212,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 32 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003400000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Daten- und Prozessanalyse wie folgt zu gewichten:
@@ -1248,6 +1288,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 33 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003500000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1288,9 +1329,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 6 - Teil 2 der Abschlussprüfung in der Fachrichtung Digitale Vernetzung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000800000)
 
 
 #### § 34 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003600000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Digitale Vernetzung auf
@@ -1313,6 +1356,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 35 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003700000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Digitale
 Vernetzung in den folgenden Prüfungsbereichen statt:
@@ -1333,6 +1377,7 @@ Vernetzung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 36 Prüfungsbereich Planen und Umsetzen eines Projektes der digitalen Vernetzung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003800000)
 
 (1) Im Prüfungsbereich Planen und Umsetzen eines Projektes der
 digitalen Vernetzung besteht die Prüfung aus zwei Teilen.
@@ -1402,6 +1447,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 37 Prüfungsbereich Diagnose und Störungsbeseitigung in vernetzten Systemen
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE003900000)
 
 (1) Im Prüfungsbereich Diagnose und Störungsbeseitigung in vernetzten
 Systemen hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1433,6 +1479,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 38 Prüfungsbereich Betrieb und Erweiterung von vernetzten Systemen
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004000000)
 
 (1) Im Prüfungsbereich Betrieb und Erweiterung von vernetzten Systemen
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1464,6 +1511,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 39 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1477,6 +1525,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 40 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004200000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Digitale Vernetzung wie folgt zu gewichten:
@@ -1553,6 +1602,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 41 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004300000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1593,9 +1643,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNG000900000)
 
 
 ### § 42 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004400000)
 
 Berufsausbildungsverhältnisse zum Fachinformatiker/zur
 Fachinformatikerin, die bei Inkrafttreten dieser Verordnung bereits
@@ -1606,6 +1658,7 @@ Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 43 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004500000)
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung im Bereich der Informations-
@@ -1616,6 +1669,7 @@ geändert worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin
+[Direktlink](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#BJNR025000020BJNE004600000)
 
 (Fundstelle: BGBl. I 2020, 260 - 267)
 

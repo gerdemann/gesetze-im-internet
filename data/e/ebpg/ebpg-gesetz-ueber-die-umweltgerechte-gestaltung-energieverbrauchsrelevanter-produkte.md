@@ -28,6 +28,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000201360)
 
 (1) Dieses Gesetz gilt für das Inverkehrbringen, die Inbetriebnahme
 und das Ausstellen energieverbrauchsrelevanter Produkte sowie von
@@ -43,6 +44,7 @@ bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000301360)
 
 (1) Energieverbrauchsrelevantes Produkt ist ein Gegenstand, dessen
 Nutzung den Verbrauch von Energie beeinflusst und der in Verkehr
@@ -190,6 +192,7 @@ und Händler.
 
 
 ## § 3 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000401360)
 
 Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die
 Bundesregierung mit Zustimmung des Bundesrates Rechtsverordnungen für
@@ -226,6 +229,7 @@ niedergelassen ist und keinen Bevollmächtigten hat.
 
 
 ## § 4 Inverkehrbringen, Inbetriebnahme und Ausstellen
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000501360)
 
 (1) Ein energieverbrauchsrelevantes Produkt, das von einer
 Durchführungsrechtsvorschrift erfasst wird, darf nur in den Verkehr
@@ -343,6 +347,7 @@ nicht die Anforderungen nach Absatz 1 Satz 1 erfüllt.
 
 
 ## § 5 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000601360)
 
 (1) Der Hersteller, sein Bevollmächtigter und der Importeur eines
 energieverbrauchsrelevanten Produkts, das von einer
@@ -369,6 +374,7 @@ Produkt nicht gewerblich nutzt.
 
 
 ## § 6 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000701360)
 
 (1) Es ist verboten, ein energieverbrauchsrelevantes Produkt in
 Verkehr zu bringen, wenn das Produkt, seine Verpackung oder ihm
@@ -398,6 +404,7 @@ Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
 
 
 ## § 7 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000802360)
 
 (1) Die zuständigen Behörden überwachen, dass von einer
 Durchführungsrechtsvorschrift erfasste energieverbrauchsrelevante
@@ -549,6 +556,7 @@ gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend
 
 
 ## § 8 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE000903128)
 
 (1) Trifft die zuständige Behörde Maßnahmen nach § 7 Abs. 3 Nr. 6 und
 7, unterrichtet sie hierüber unverzüglich unter Angabe der Gründe die
@@ -584,6 +592,7 @@ elektronische Kommunikationsmittel zu benutzen.
 
 
 ## § 9 Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001001360)
 
 (1) Die beauftragte Stelle macht Anordnungen nach § 7 Abs. 3 Nr. 6 und
 7, die unanfechtbar geworden sind oder deren sofortige Vollziehung
@@ -617,12 +626,14 @@ Behörde und die beauftragte Stelle entsprechend.
 
 
 ## § 10 Beauftragte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001100000)
 
 Beauftragte Stelle ist die Bundesanstalt für Materialforschung und
 -prüfung.
 
 
 ## § 11 Zugelassene Stellen
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001201360)
 
 (1) Zugelassene Stellen nehmen nach Maßgabe einer
 Durchführungsrechtsvorschrift Aufgaben bei der Durchführung der
@@ -671,6 +682,7 @@ unterrichten.
 
 
 ## § 12 Weitere Aufgaben der beauftragten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001301360)
 
 (1) Die beauftragte Stelle stellt ein umfassendes Informationsangebot
 zu den Ökodesign-Anforderungen und den für sie geltenden
@@ -692,6 +704,7 @@ Umweltbundesamt einmal jährlich aus.
 
 
 ## § 13 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001401360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -775,16 +788,19 @@ werden können.
 
 
 ## § 14 
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001500000)
 
 -
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001600000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 4 Abs. 1 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html#BJNR025800008BJNE001700000)
 
 (Fundstelle: BGBl. I 2008, 264)
 Die Konformitätserklärung muss folgende Angaben enthalten:

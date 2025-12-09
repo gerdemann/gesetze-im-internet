@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000100000)
 
 Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56
 Absatz 1, § 32 Absatz 2 und 3, § 20 Absatz 2, § 22 Absatz 1 sowie § 23
@@ -34,6 +35,7 @@ Bau und Reaktorsicherheit:
 
 
 ## § 1 Erklärung zum Naturschutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000200000)
 
 Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen
 ausschließlichen Wirtschaftszone und des Festlandsockels wird zum
@@ -49,6 +51,7 @@ registriert.
 
 
 ## § 2 Schutzgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000300000)
 
 (1) Das Naturschutzgebiet „Borkum Riffgrund“ hat eine Fläche von 625
 Quadratkilometern und liegt in der Nordsee nördlich der ostfriesischen
@@ -96,6 +99,7 @@ der Darstellung in der Übersichtskarte nach Anlage 2.
 
 
 ## § 3 Schutzzweck
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000400000)
 
 (1) Die Unterschutzstellung des Meeresgebietes als Naturschutzgebiet
 dient der Verwirklichung der Erhaltungsziele des Natura 2000-Gebietes
@@ -216,6 +220,7 @@ Wiederherstellung
 
 
 ## § 4 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000500000)
 
 (1) Vorbehaltlich des § 5 sind verboten
 
@@ -278,6 +283,7 @@ insbesondere
 
 
 ## § 5 Zulässigkeit von bestimmten Projekten und Plänen
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000600000)
 
 (1) Projekte
 
@@ -352,6 +358,7 @@ zuständigen Behörde.
 
 
 ## § 6 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000700000)
 
 (1) Von den Verboten des § 4 Absatz 1 und 2 kann das Bundesamt für
 Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit
@@ -365,6 +372,7 @@ Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
 
 ## § 7 Bewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000800000)
 
 (1) Die zur Erreichung des Schutzzwecks nach § 3 Absatz 3 bis 5
 notwendigen Maßnahmen einschließlich der erforderlichen
@@ -397,6 +405,7 @@ dargestellten Maßnahmen durch.
 
 
 ## § 8 Weitergehende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE000900000)
 
 Weitergehende Vorschriften bleiben von dieser Verordnung unberührt.
 Hierzu zählen insbesondere
@@ -429,12 +438,14 @@ Hierzu zählen insbesondere
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 2)
 
 ## Anlage 1 Geographische Koordinaten des Naturschutzgebietes „Borkum Riffgrund“
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE001100000)
 
 (Fundstelle: BGBl. I 2017, 3399)
 
@@ -492,6 +503,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 2 Absatz 5)
 
 ## Anlage 2 Übersichtskarte des Naturschutzgebietes
+[Direktlink](https://www.gesetze-im-internet.de/nsgbrgv/BJNR339500017.html#BJNR339500017BJNE001200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 63 v. 27.9.2017)
 

@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb4ergg/BJNR023300988.html#BJNR023300988BJNE000100325)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Änderung des Vierten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sgb4ergg/BJNR023300988.html#BJNR023300988BJNE000200325)
 
 ...
 § 28m
@@ -41,10 +43,12 @@ inländischen Gerichtsbarkeit untersteht und die Zahlungspflicht nach §
 
 
 ## (XXXX) Art 2 bis 16
+[Direktlink](https://www.gesetze-im-internet.de/sgb4ergg/BJNR023300988.html#BJNR023300988BJNE000300325)
 
 
 
 ## Art 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb4ergg/BJNR023300988.html#BJNR023300988BJNE000400325)
 
 (1) Artikel 1 Nr. 5 § 28m Abs. 1 findet für die Beiträge in der
 Rentenversicherung bei Personen keine Anwendung, die vor der
@@ -65,12 +69,14 @@ die Befreiung nach den Sätzen 1 und 2 gilt.
 
 
 ## Art 18 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/sgb4ergg/BJNR023300988.html#BJNR023300988BJNE000500325)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb4ergg/BJNR023300988.html#BJNR023300988BJNE000600325)
 
 (1) Dieses Gesetz tritt am 1. Januar 1989 in Kraft, soweit in den
 Absätzen 2 bis 4 nichts anderes bestimmt ist.

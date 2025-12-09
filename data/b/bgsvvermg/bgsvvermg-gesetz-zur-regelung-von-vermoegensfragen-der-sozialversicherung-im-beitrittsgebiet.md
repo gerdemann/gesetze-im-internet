@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE000800307)
 
 (1) Das Vermögen nach Anlage I Kapitel VIII Sachgebiet F Abschnitt II
 Nr. 1 § 3 Abs. 1 des Einigungsvertrages (Gesamthandsvermögen) wird
@@ -40,10 +42,12 @@ anzusehen.
 
 
 ## Zweiter Abschnitt - Unbewegliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000200307)
 
 
 
 ### § 2 Eigentumsaufteilung
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE000900307)
 
 (1) Grundstücke und Gebäude aus dem Gesamthandsvermögen sind durch
 Bescheid auf den Träger der Sozialversicherung oder den Verband der
@@ -107,6 +111,7 @@ Satz 4 gilt entsprechend.
 
 
 ### § 3 Klärung der Eigentumsverhältnisse, Mitwirkungspflichten der Überleitungsanstalt Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001000307)
 
 Die Überleitungsanstalt Sozialversicherung hat bei den Grundstücken
 und Gebäuden, bei denen nicht auszuschließen ist, daß sie zum
@@ -116,6 +121,7 @@ herbeizuführen.
 
 
 ### § 4 Rechte früherer Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001101305)
 
 Grundstücke und Gebäude, die nach Maßgabe von § 2 übertragen werden,
 unterliegen der Rückübertragung nach Maßgabe des Vermögensgesetzes,
@@ -124,6 +130,7 @@ waren. Das Investitionsvorranggesetz ist anzuwenden.
 
 
 ### § 5 Verwaltung und Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001200307)
 
 (1) Die Antragsteller nach § 2 Abs. 2 haben die beantragten
 Grundstücke und Gebäude vom Zeitpunkt der Antragstellung an zu
@@ -177,6 +184,7 @@ Verband der Sozialversicherungsträger keine Anwendung.
 
 
 ### § 6 Erwerbspreis
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001300307)
 
 Die Sozialversicherungsträger oder ihre Verbände haben den
 Verkehrswert des erworbenen Grundstücks oder Gebäudes, wie er, bezogen
@@ -191,10 +199,12 @@ des Verkehrswertes hat der Erwerber zu tragen.
 
 
 ## Dritter Abschnitt - Bewegliche Sachen, Forderungen, Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000300307)
 
 
 
 ### § 7 Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001404377)
 
 (1) Das Eigentum an beweglichen Sachen aus dem Gesamthandsvermögen und
 aus dem Vermögen des Gesundheitswesens Wismut nach § 1 Abs. 2 geht,
@@ -333,6 +343,7 @@ Sozialgesetzbuch.
 
 
 ### § 8 Forderungen und sonstige Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001600307)
 
 (1) Forderungen, die aufgrund einer öffentlich-rechtlichen Vorschrift
 entstanden sind, gehen auf den Sozialversicherungsträger über, der für
@@ -376,6 +387,7 @@ entsprechend.
 
 
 ### § 9 Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001700307)
 
 (1) Für Verbindlichkeiten, die zu dem in Anlage I Kapitel VIII
 Sachgebiet F Abschnitt II Nr. 1 § 3 Abs. 1 des Einigungsvertrages
@@ -395,10 +407,12 @@ Thüringen.
 
 
 ## Vierter Abschnitt - Anteile am Gesamthandsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000400307)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001800307)
 
 (1) Der Erlös aus dem Gesamthandsvermögen steht jedem der drei Zweige
 der Sozialversicherung zu einem Drittel zu. Die Aufteilung des
@@ -425,10 +439,12 @@ entsprechend der Aufteilung nach Absatz 1 zu erstatten.
 
 
 ## Fünfter Abschnitt - Vollmachtsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000500307)
 
 
 
 ### § 11 Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE001900307)
 
 (1) Der Geschäftsführer der Überleitungsanstalt Sozialversicherung
 oder eine von ihm zu ermächtigende Person sind bis zu einer
@@ -457,10 +473,12 @@ Spitzenverbänden abgeschlossen worden sind.
 
 
 ## Sechster Abschnitt - Altvermögen der Sozialversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000600307)
 
 
 
 ### § 12 Feststellung des Eigentumsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE002000307)
 
 (1) Für die Feststellung, wer in welchem Umfang unbewegliches Vermögen
 gemäß Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 § 3 Abs. 2
@@ -501,10 +519,12 @@ diesen unentgeltlich zu übertragen.
 
 
 ## Siebter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNG000700307)
 
 
 
 ### § 13 Auflösung der Sonderkonten
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE002101307)
 
 (1) Nach Begleichung der Verbindlichkeiten und Einziehung der
 Forderungen ist das Sonderkonto für das Gesamthandsvermögen
@@ -518,6 +538,7 @@ gleichen Teilen zu übertragen.
 
 
 ### § 14 Nachfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgsvvermg/BJNR123130991.html#BJNR123130991BJNE002201377)
 
 Befugnisse und bei deren Auflösung noch nicht erledigte Aufgaben der
 Überleitungsanstalt Sozialversicherung und deren Geschäftsführers

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNG000102308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE000703308)
 
 (1) Salmonellen im Sinne dieser Verordnung sind alle Bakterien der
 Gattung Salmonella der Familie Enterobakteriaceae.
@@ -108,10 +110,12 @@ entsprechen.
 [^F772814_01_BJNR000070972BJNE000703308]: 
 
 ## II. - Allgemeine Schutzmaßregeln für bestimmte Kälberhaltungen
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNG000601308)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE000802308)
 
 Für Betriebe, in denen mehr als 100 Kälber im Alter von weniger als
 sechs Monaten gehalten werden, gelten folgende Vorschriften:
@@ -166,10 +170,12 @@ sechs Monaten gehalten werden, gelten folgende Vorschriften:
 
 
 ## III. - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNG000202308)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE000902308)
 
 (1) Ist bei einem Rind oder bei einem sonstigen mit Rindern zusammen
 gehaltenen Tier Salmonellose oder Verdacht auf Salmonellose amtlich
@@ -212,6 +218,7 @@ Buchstabe b von weiteren Untersuchungen freigestellt werden.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE001003301)
 
 (1) Ist bei einem oder mehreren Tieren Salmonellose oder Verdacht auf
 Salmonellose amtlich festgestellt, unterliegt das Gehöft und der
@@ -276,6 +283,7 @@ Untersuchungen nicht als Ausscheider von Salmonellen erwiesen haben.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE001102308)
 
 Die zuständige Behörde kann die Tötung von Rindern und sonstigen mit
 Rindern zusammen gehaltenen Tieren anordnen, bei denen Salmonellose
@@ -283,6 +291,7 @@ festgestellt ist oder bei denen Verdacht auf Salmonellose vorliegt.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE001202308)
 
 (1) Nach Entfernung der Rinder und der sonstigen mit Rindern zusammen
 gehaltenen Tiere, bei denen Salmonellose oder Verdacht auf
@@ -310,10 +319,12 @@ desinfizieren.
 
 
 ## IV. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNG000302308)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE001302308)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Salmonellose
 erloschen ist oder sich der Verdacht als unbegründet erwiesen hat.
@@ -359,10 +370,12 @@ Nr. 1 Buchstabe b entbehrlich.
 
 
 ## V. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNG000402308)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE001403301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -426,6 +439,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 9 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/rindsalmv/BJNR000070972.html#BJNR000070972BJNE001602308)
 
 -
 

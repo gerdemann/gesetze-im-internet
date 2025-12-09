@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_291verlv/BJNR266700016.html#BJNR266700016BJNE000100000)
 
 Auf Grund des § 291 Absatz 2b Satz 9 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 1 Nummer 10 Buchstabe e
@@ -27,12 +28,14 @@ Gesundheit:
 
 
 ## § 1 Verlängerung der Frist
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_291verlv/BJNR266700016.html#BJNR266700016BJNE000200000)
 
 Die in § 291 Absatz 2b Satz 6 des Fünften Buches Sozialgesetzbuch
 genannte Frist wird bis zum 30. Juni 2017 verlängert.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_291verlv/BJNR266700016.html#BJNR266700016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

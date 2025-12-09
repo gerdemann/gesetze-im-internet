@@ -28,9 +28,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 2129-43 v. 16.3.2005 I 762 (ElektroG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000100000)
 
 
 ### § 1 Abfallwirtschaftliche Ziele
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000200000)
 
 Dieses Gesetz legt Anforderungen an die Produktverantwortung nach § 23
 des Kreislaufwirtschaftsgesetzes für Elektro- und Elektronikgeräte
@@ -44,6 +46,7 @@ Marktverhalten der Verpflichteten regeln.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000301116)
 
 (1) Dieses Gesetz gilt für sämtliche Elektro- und Elektronikgeräte.
 Sie sind in die folgenden Kategorien unterteilt:
@@ -150,6 +153,7 @@ Verbrauchsmaterialien.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000412116)
 
 Im Sinne dieses Gesetzes sind
 
@@ -521,9 +525,11 @@ Im Sinne dieses Gesetzes sind
 
 
 ## Abschnitt 2 - Pflichten beim Inverkehrbringen von Elektro- und Elektronikgeräten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000200000)
 
 
 ### § 4 Produktkonzeption
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000501311)
 
 (1) Hersteller haben ihre Elektro- und Elektronikgeräte möglichst so
 zu gestalten, dass insbesondere die Wiederverwendung, die Demontage
@@ -569,6 +575,7 @@ Satz 1 gilt nicht für Elektro- und Elektronikgeräte nach Absatz 3.
 
 
 ### § 5 Einrichten der Gemeinsamen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000600000)
 
 (1) Die Hersteller oder im Fall der Bevollmächtigung nach § 8 deren
 Bevollmächtigte sind verpflichtet, eine Gemeinsame Stelle
@@ -584,6 +591,7 @@ zuständige Behörde setzt die Kosten durch Verwaltungsakt fest.
 
 
 ### § 6 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000701311)
 
 (1) Bevor ein Hersteller Elektro- oder Elektronikgeräte in Verkehr
 bringt, ist er oder im Fall der Bevollmächtigung nach § 8 sein
@@ -633,6 +641,7 @@ Rechnungen seine Registrierungsnummer anzugeben.
 
 
 ### § 7 Finanzierungsgarantie
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000801116)
 
 (1) Jeder Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen
 Bevollmächtigter ist verpflichtet, der zuständigen Behörde
@@ -692,6 +701,7 @@ Elektronikgeräten gegenüber dem Endkunden nicht ausweisen.
 
 
 ### § 7a Rücknahmekonzept
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005400311)
 
 (1) Jeder Hersteller oder im Fall der Bevollmächtigung nach § 8 jeder
 Bevollmächtigte ist verpflichtet, der zuständigen Behörde für die
@@ -724,6 +734,7 @@ nach § 8 durch den Bevollmächtigten mitzuteilen.
 
 
 ### § 8 Niederlassungspflicht, Beauftragung und Benennung eines Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE000902116)
 
 (1) Ein Hersteller im Sinne von § 3 Nummer 9 Buchstabe a bis c, der
 keine Niederlassung im Geltungsbereich dieses Gesetzes hat, muss einen
@@ -775,6 +786,7 @@ ist.
 
 
 ### § 9 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001001311)
 
 (1) Elektro- und Elektronikgeräte, die nach den in § 3 Nummer 4
 genannten Zeitpunkten in Verkehr gebracht werden, sind vor dem
@@ -796,9 +808,11 @@ Absatz 1, sofern die Kennzeichnung gemeinsam mit dem Symbol nach Satz
 
 
 ## Abschnitt 3 - Sammlung und Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000300000)
 
 
 ### § 10 Getrennte Erfassung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001101311)
 
 (1) Besitzer von Altgeräten haben diese einer vom unsortierten
 Siedlungsabfall getrennten Erfassung zuzuführen. Sie haben
@@ -820,6 +834,7 @@ drei Kalendervorjahren in Verkehr gebracht wurden, betragen.
 
 
 ### § 11 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001200000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -838,9 +853,11 @@ festzulegen.
 
 
 ### Unterabschnitt 1 - Sammlung und Rücknahme von Altgeräten aus privaten Haushalten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000400000)
 
 
 #### § 12 Berechtigte für die Erfassung von Altgeräten aus privaten Haushalten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001301311)
 
 (1) Die Erfassung von Altgeräten aus privaten Haushalten darf nur von
 öffentlich-rechtlichen Entsorgungsträgern, Vertreibern, Herstellern
@@ -857,6 +874,7 @@ kenntlich zu machen.
 
 
 #### § 13 Sammlung durch die öffentlich-rechtlichen Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001402311)
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger richten im Rahmen
 ihrer Pflichten nach § 20 des Kreislaufwirtschaftsgesetzes
@@ -903,6 +921,7 @@ Kreislaufwirtschaftsgesetzes bleiben von den Sätzen 1 und 2 unberührt.
 
 
 #### § 14 Bereitstellen der abzuholenden Altgeräte durch die öffentlich-rechtlichen Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001502311)
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger stellen die von den
 Herstellern oder im Fall der Bevollmächtigung nach § 8 von deren
@@ -979,6 +998,7 @@ Satz 1 zur Wiederverwendung vorzubereiten oder nach § 20 Absatz 2 bis
 
 
 #### § 15 Aufstellen von Behältnissen durch die Hersteller oder deren Bevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001602311)
 
 (1) Die Hersteller oder im Fall der Bevollmächtigung nach § 8 deren
 Bevollmächtigte müssen die Behältnisse nach § 14 unentgeltlich
@@ -1015,6 +1035,7 @@ sollen, festzulegen.
 
 
 #### § 16 Rücknahmepflicht der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001701311)
 
 (1) Der Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen
 Bevollmächtigter ist verpflichtet, die nach § 14 Absatz 1 Satz 1
@@ -1052,6 +1073,7 @@ Satz 1 gilt § 14 Absatz 2 entsprechend.
 
 
 #### § 17 Rücknahmepflicht der Vertreiber
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001802311)
 
 (1) Vertreiber mit einer Verkaufsfläche für Elektro- und
 Elektronikgeräte von mindestens 400 Quadratmetern sowie Vertreiber von
@@ -1140,6 +1162,7 @@ Entgelt von privaten Haushalten verlangen.
 
 
 #### § 17a Rücknahme durch zertifizierte Erstbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005500311)
 
 (1) Betreiber von nach § 21 zertifizierten Erstbehandlungsanlagen
 können sich freiwillig an der Rücknahme von Altgeräten beteiligen.
@@ -1171,6 +1194,7 @@ Absatz 1 zu behandeln und zu verwerten.
 
 
 #### § 17b Kooperation zwischen öffentlich-rechtlichen Entsorgungsträgern und zertifizierten Erstbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005600311)
 
 (1) Öffentlich-rechtliche Entsorgungsträger und Betreiber von
 Erstbehandlungsanlagen, die nach § 21 Absatz 2 und 4 für die
@@ -1204,6 +1228,7 @@ Entsorgungsträger unentgeltlich wieder zu überlassen.
 
 
 #### § 18 Informationspflichten gegenüber den privaten Haushalten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE001902311)
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger informieren die
 privaten Haushalte über Abfallvermeidungsmaßnahmen sowie die Pflicht
@@ -1339,9 +1364,11 @@ Zielvorgaben nach § 10 Absatz 3 und § 22 Absatz 1 zu veröffentlichen.
 
 
 ### Unterabschnitt 2 - Rücknahme von Altgeräten anderer Nutzer als privater Haushalte
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000500000)
 
 
 #### § 19 Rücknahme durch den Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002002311)
 
 (1) Jeder Hersteller oder im Fall der Bevollmächtigung nach § 8 jeder
 Bevollmächtigte ist verpflichtet, für Altgeräte anderer Nutzer als
@@ -1372,6 +1399,7 @@ Absätzen 1 bis 3 nachkommen zu können.
 
 
 #### § 19a Informationspflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005700311)
 
 Jeder Hersteller oder im Fall der Bevollmächtigung nach § 8 jeder
 Bevollmächtigte informiert die Endnutzer von Altgeräten anderer Nutzer
@@ -1393,9 +1421,11 @@ informiert die Endnutzer darüber hinaus über
 
 
 ## Abschnitt 4 - Behandlungs- und Verwertungspflichten, Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000600000)
 
 
 ### § 20 Behandlung und Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002101311)
 
 (1) Altgeräte sind vor der Durchführung weiterer Verwertungs- oder
 Beseitigungsmaßnahmen einer Erstbehandlung zuzuführen. Vor der
@@ -1451,6 +1481,7 @@ und 2 behandelt wurden, dürfen nicht beseitigt werden.
 
 
 ### § 21 Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002201311)
 
 (1) Die Erstbehandlung von Altgeräten darf ausschließlich durch
 zertifizierte Erstbehandlungsanlagen durchgeführt werden.
@@ -1629,6 +1660,7 @@ nach § 5 der Entsorgungsfachbetriebeverordnung geführt werden.
 [^F816356_04_BJNR173910015BJNE002201311]: 
 
 ### § 22 Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002303311)
 
 (1) Altgeräte sind so zu behandeln, dass
 
@@ -1759,6 +1791,7 @@ Anteile berücksichtigt werden, wenn
 
 
 ### § 23 Anforderungen an die Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002400000)
 
 (1) Gebrauchte Elektro- und Elektronikgeräte, bei denen es sich
 möglicherweise um Altgeräte handelt, dürfen nur nach Maßgabe der
@@ -1812,6 +1845,7 @@ Abfallverbringungsgesetzes gilt entsprechend.
 
 
 ### § 24 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002501311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -1842,9 +1876,11 @@ festzulegen.
 
 
 ## Abschnitt 5 - Anzeige-, Mitteilungs- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000700000)
 
 
 ### § 25 Anzeigepflichten der öffentlich-rechtlichen Entsorgungsträger und der Betreiber von Erstbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002601311)
 
 (1) Jeder öffentlich-rechtliche Entsorgungsträger hat die von ihm
 eingerichteten Übergabestellen der zuständigen Behörde anzuzeigen.
@@ -1869,6 +1905,7 @@ unverzüglich mitzuteilen.
 
 
 ### § 26 Mitteilungspflichten der öffentlich-rechtlichen Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002701311)
 
 (1) Jeder öffentlich-rechtliche Entsorgungsträger hat der Gemeinsamen
 Stelle im Fall der Optierung nach § 14 Absatz 5 Satz 1 Folgendes
@@ -1926,6 +1963,7 @@ bis 3 der zuständigen Behörde mit.
 
 
 ### § 27 Mitteilungspflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002801311)
 
 (1) Jeder Hersteller oder im Fall der Bevollmächtigung nach § 8 dessen
 Bevollmächtigter hat der Gemeinsamen Stelle zu den in Absatz 2
@@ -2024,6 +2062,7 @@ Daten nach den Absätzen 1 bis 4 der zuständigen Behörde mit.
 
 
 ### § 28 Informationspflichten der Hersteller gegenüber Wiederverwendungseinrichtungen und Behandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE002901311)
 
 (1) Jeder Hersteller hat den Wiederverwendungseinrichtungen und den
 Behandlungsanlagen Informationen über die Wiederverwendung, die
@@ -2046,6 +2085,7 @@ Gesetzes nachkommen zu können.
 
 
 ### § 29 Mitteilungspflichten der Vertreiber
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003001311)
 
 (1) Jeder Vertreiber hat der Gemeinsamen Stelle im Fall des § 17
 Absatz 5 bis zum 30. April des folgenden Kalenderjahres Folgendes
@@ -2094,6 +2134,7 @@ die Daten nach den Absätzen 1 bis 3 der zuständigen Behörde mit.
 
 
 ### § 30 Mitteilungspflichten der Betreiber von Erstbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003101311)
 
 (1) Jeder Betreiber einer Erstbehandlungsanlage hat im Fall der
 Rücknahme nach § 17a, der Übernahme nach § 17b und der Entsorgung im
@@ -2142,9 +2183,11 @@ zuständigen Behörde mit.
 
 
 ## Abschnitt 6 - Gemeinsame Stelle
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000800000)
 
 
 ### § 31 Aufgaben der Gemeinsamen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003202311)
 
 (1) Die Gemeinsame Stelle unterstützt die zuständige Behörde bei der
 Vorbereitung ihrer Entscheidungen nach § 15 Absatz 4 Satz 1 und § 37
@@ -2271,6 +2314,7 @@ entsprechend.
 
 
 ### § 32 Mitteilungen der Gemeinsamen Stelle an das Umweltbundesamt, Landesbehörden und andere öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003301311)
 
 (1) Die Gemeinsame Stelle erstellt jährlich ein Verzeichnis sämtlicher
 registrierter Hersteller und Bevollmächtigter und leitet dieses dem
@@ -2393,6 +2437,7 @@ sind vorrangig elektronische Kommunikationsmittel zu nutzen.
 
 
 ### § 33 Befugnisse der Gemeinsamen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003401311)
 
 (1) Die Gemeinsame Stelle ist berechtigt, die Zuordnung der Geräte zu
 den Gerätearten festzulegen. Sie legt bei einer Neuzuordnung der
@@ -2441,6 +2486,7 @@ Kosten.
 
 
 ### § 34 Rückgriffsanspruch der Gemeinsamen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003501116)
 
 (1) Sofern in einer bestimmten Geräteart die Registrierung des letzten
 registrierten Herstellers oder im Fall der Bevollmächtigung nach § 8
@@ -2516,6 +2562,7 @@ durch Verwaltungsakt fest.
 
 
 ### § 35 Organisation der Gemeinsamen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003600000)
 
 (1) Die Gemeinsame Stelle muss durch Satzung, Gesellschaftsvertrag
 oder sonstige Regelung
@@ -2553,14 +2600,17 @@ angehören. Der Beirat gibt sich eine Geschäftsordnung.
 
 
 ## Abschnitt 7 - Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG000900000)
 
 
 ### § 36 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003700000)
 
 Zuständige Behörde ist das Umweltbundesamt.
 
 
 ### § 37 Aufgaben der zuständigen Behörde im Zusammenhang mit der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003802116)
 
 (1) Die zuständige Behörde registriert den Hersteller auf dessen
 Antrag mit der Marke, der Firma, dem Ort der Niederlassung oder dem
@@ -2695,6 +2745,7 @@ Bevollmächtigten tragbare Höchstzahl von Registrierungen zu begrenzen.
 
 
 ### § 38 Weitere Aufgaben der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE003902311)
 
 (1) Die zuständige Behörde teilt der Gemeinsamen Stelle die von ihr
 registrierten Hersteller und Bevollmächtigten mit. Sie übermittelt
@@ -2754,6 +2805,7 @@ Berechnung nach § 31 Absatz 5.
 
 
 ### § 38a Vollständig automatisierter Erlass von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005800311)
 
 Verwaltungsakte der zuständigen Behörde nach § 15 Absatz 4 Satz 1 und
 nach den §§ 37 und 38 können unbeschadet des § 24 Absatz 1 Satz 3 des
@@ -2763,6 +2815,7 @@ Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ### § 39 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004000000)
 
 (1) Die zuständige Behörde ist befugt, anderen nach Landesrecht für
 den Vollzug dieses Gesetzes zuständigen Behörden und öffentlich-
@@ -2786,9 +2839,11 @@ Kommunikationsmittel zu nutzen.
 
 
 ## Abschnitt 8 - Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG001000000)
 
 
 ### § 40 Ermächtigung zur Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004102130)
 
 (1) Die zuständige Behörde wird ermächtigt, eine juristische Person
 des Privatrechts, eine rechtsfähige Personengesellschaft oder eine
@@ -2845,6 +2900,7 @@ bekannt zu machen.
 
 
 ### § 41 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004200000)
 
 (1) Die Beliehene untersteht der Rechts- und Fachaufsicht der
 zuständigen Behörde.
@@ -2862,6 +2918,7 @@ veranschlagten Einnahmen nicht übersteigen.
 
 
 ### § 42 Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004300000)
 
 (1) Die Beleihung endet, wenn die Beliehene aufgelöst ist.
 
@@ -2877,9 +2934,11 @@ den §§ 37 bis 39 durch die zuständige Behörde erforderlich ist.
 
 
 ## Abschnitt 9 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNG001100000)
 
 
 ### § 43 Beauftragung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004400000)
 
 Soweit sich die nach diesem Gesetz Verpflichteten zur Erfüllung ihrer
 Pflichten Dritter bedienen, gilt § 22 Satz 2 und 3 des
@@ -2887,6 +2946,7 @@ Kreislaufwirtschaftsgesetzes entsprechend.
 
 
 ### § 44 Widerspruch und Klage
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004500000)
 
 (1) Gegen Verwaltungsakte nach § 15 Absatz 4 Satz 1 oder § 38 Absatz 3
 ist ein Widerspruchsverfahren ausgeschlossen.
@@ -2896,6 +2956,7 @@ ist ein Widerspruchsverfahren ausgeschlossen.
 
 
 ### § 45 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004603311)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3010,6 +3071,7 @@ der Staatskasse auferlegten Kosten trägt.
 
 
 ### § 46 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004703116)
 
 (1) Abweichend von § 6 Absatz 1 Satz 3 haben Hersteller, die vor dem
 1\. Januar 2022 bereits registriert sind, bis zum Ablauf des 30. Juni
@@ -3057,6 +3119,7 @@ Abhol- und Aufstellungspflichten entsprechend.
 (zu § 2 Absatz 1)
 
 ### Anlage 1 Nicht abschließende Liste mit Elektro- und Elektronikgeräten, die unter die Kategorien des § 2 Absatz 1 fallen
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004803116)
 
 (Fundstelle: BGBl. I 2021, 1155 - 1156)
 
@@ -3293,6 +3356,7 @@ Abhol- und Aufstellungspflichten entsprechend.
 (zu § 6 Absatz 1)
 
 ### Anlage 2 Angaben bei der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE004901311)
 
 (Fundstelle: BGBl. I 2021, 1156)
 
@@ -3354,6 +3418,7 @@ Bei der Registrierung zu machende Angaben:
 
 
 ### Anlage 3 (zu § 9 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005000000)
 
 (Fundstelle: BGBl. I 2015, 1763)
 
@@ -3368,6 +3433,7 @@ anzubringen.
 (zu § 20 Absatz 2 Satz 4)
 
 ### Anlage 4 Technische Anforderungen an Standorte für die Lagerung und Behandlung von Altgeräten
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005201311)
 
 (Fundstelle: BGBl. I 2015, 1766;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3422,6 +3488,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 21 Absatz 3 Nummer 3 und Absatz 4 Nummer 3)
 
 ### Anlage 5 Behandlungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005900311)
 
 (Fundstelle: BGBl. I 2021, 1157)
 
@@ -3495,6 +3562,7 @@ aktualisieren.
 (zu § 21 Absatz 3 Nummer 4 und Absatz 4 Satz 2)
 
 ### Anlage 5a Betriebstagebuch
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE006000311)
 
 (Fundstelle: BGBl. I 2021, 1157)
 
@@ -3544,6 +3612,7 @@ entsprechend.
 
 
 ### Anlage 6 (zu § 23 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html#BJNR173910015BJNE005300000)
 
 (Fundstelle: BGBl. I 2015, 1767 - 1768)
 

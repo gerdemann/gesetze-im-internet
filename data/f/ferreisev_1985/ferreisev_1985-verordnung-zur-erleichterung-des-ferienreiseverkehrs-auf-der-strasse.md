@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000100309)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten
@@ -29,6 +30,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000218123)
 
 (1) Lastkraftwagen mit einer zulässigen Gesamtmasse über 7,5 Tonnen
 sowie Lastkraftwagen mit Anhänger dürfen zur geschäftsmäßigen oder
@@ -242,6 +244,7 @@ außerhalb geschlossener Ortschaften in beiden Fahrtrichtungen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000303123)
 
 (1) § 1 gilt nicht für Fahrzeuge
 
@@ -293,6 +296,7 @@ genommen werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000405360)
 
 (1) § 1 gilt ferner nicht für
 
@@ -352,6 +356,7 @@ Prüfung auszuhändigen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000504123)
 
 (1) Die Straßenverkehrsbehörden können Ausnahmen vom Verbot des § 1 in
 dringenden Fällen genehmigen, wenn eine Beförderung mit anderen
@@ -380,6 +385,7 @@ Verlangen zuständigen Personen zur Prüfung auszuhändigen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000602123)
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -399,16 +405,19 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000701305)
 
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000800309)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ferreisev_1985/BJNR007740985.html#BJNR007740985BJNE000900309)
 
 Der Bundesminister für Verkehr
 

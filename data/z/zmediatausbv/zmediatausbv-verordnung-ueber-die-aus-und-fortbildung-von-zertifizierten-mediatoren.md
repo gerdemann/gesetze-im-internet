@@ -35,6 +35,7 @@ Binnenmarkt-Informationssystems („IMI-Verordnung“) (ABl. L 354 vom
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000100000)
 
 Auf Grund des § 6 des Mediationsgesetzes, der durch Artikel 135 der
 Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
@@ -42,6 +43,7 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -59,6 +61,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Ausbildung zum zertifizierten Mediator
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000301125)
 
 (1) Als zertifizierter Mediator darf sich nur bezeichnen, wer eine
 Ausbildung zum zertifizierten Mediator abgeschlossen hat und über die
@@ -120,6 +123,7 @@ Mediationen bestätigt sind. Die Bescheinigung muss enthalten:
 
 
 ## § 3 Fortbildung des zertifizierten Mediators
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000401125)
 
 (1) Der zertifizierte Mediator hat nach Abschluss der Ausbildung
 regelmäßig an Fortbildungsveranstaltungen teilzunehmen. Der Umfang der
@@ -169,10 +173,12 @@ Absatzes 1 Satz 4 gewahrt wurde.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000501125)
 
 
 
 ## § 5 Anforderungen an Aus- und Fortbildungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000600000)
 
 (1) Eine Ausbildung nach § 2 oder eine Fortbildung nach § 3 darf nur
 durchführen, wer sicherstellt, dass die dafür eingesetzten Lehrkräfte
@@ -194,6 +200,7 @@ Kenntnisse nur darauf beziehen.
 
 
 ## § 6 Gleichwertige im Ausland erworbene Qualifikation
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000700000)
 
 Als zertifizierter Mediator darf sich auch bezeichnen, wer
 
@@ -224,6 +231,7 @@ Als zertifizierter Mediator darf sich auch bezeichnen, wer
 [^BJNR199400016BJNE000700000_01]: 
 
 ## § 7 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000801125)
 
 (1) Als zertifizierter Mediator darf sich bezeichnen, wer vor dem 26.
 Juli 2012 eine Ausbildung zum Mediator im Umfang von mindestens 90
@@ -264,6 +272,7 @@ März 2024 geltenden Fassung erfüllt.
 
 
 ## § 8 Hemmung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE000901125)
 
 War jemand ohne sein Verschulden gehindert, eine in dieser Verordnung
 genannte Frist einzuhalten, so ist der Lauf dieser Frist für die Dauer
@@ -273,6 +282,7 @@ einzuhaltenden Frist, gehemmt.
 (zu § 2 Absatz 3)
 
 ## Anlage Inhalte des Ausbildungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/zmediatausbv/BJNR199400016.html#BJNR199400016BJNE001001125)
 
 (Fundstelle: BGBl. 2023 I Nr. 185, 4 - 5)
 

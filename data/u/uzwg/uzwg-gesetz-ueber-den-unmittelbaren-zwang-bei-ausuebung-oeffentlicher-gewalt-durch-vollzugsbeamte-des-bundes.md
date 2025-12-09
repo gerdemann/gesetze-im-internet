@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften über den unmittelbaren Zwang
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNG000100315)
 
 
 
 ### § 1 Rechtliche Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE000500315)
 
 (1) Die Vollzugsbeamten des Bundes haben bei der in rechtmäßiger
 Ausübung ihres Dienstes zulässigen Anwendung unmittelbaren Zwanges
@@ -35,6 +37,7 @@ unmittelbaren Zwanges enthalten, bleiben sie unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE000601130)
 
 (1) Unmittelbarer Zwang ist die Einwirkung auf Personen oder Sachen
 durch körperliche Gewalt, ihre Hilfsmittel und durch Waffen.
@@ -51,6 +54,7 @@ Distanz-Elektroimpulsgeräte, Reizstoffe und Explosivmittel.
 
 
 ### § 3 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE000700315)
 
 Soweit rechtmäßig unmittelbarer Zwang bei Ausübung öffentlicher Gewalt
 angewendet wird, werden die in Artikel 2 Abs. 2 Satz 1 und 2, Artikel
@@ -60,6 +64,7 @@ Freiheit der Person und Unverletzlichkeit der Wohnung eingeschränkt.
 
 
 ### § 4 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE000800315)
 
 (1) Die Vollzugsbeamten haben bei der Anwendung unmittelbaren Zwanges
 unter mehreren möglichen und geeigneten Maßnahmen diejenigen zu
@@ -72,6 +77,7 @@ Erfolg stehen.
 
 
 ### § 5 Hilfeleistung für Verletzte
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE000900315)
 
 Wird unmittelbarer Zwang angewendet, ist Verletzten, soweit es nötig
 ist und die Lage es zuläßt, Beistand zu leisten und ärztliche Hilfe zu
@@ -79,6 +85,7 @@ verschaffen.
 
 
 ### § 6 Vollzugsbeamte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001005130)
 
 Vollzugsbeamte des Bundes nach diesem Gesetz sind
 
@@ -129,6 +136,7 @@ Vollzugsbeamte des Bundes nach diesem Gesetz sind
 
 
 ### § 7 Handeln auf Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001100315)
 
 (1) Vollzugsbeamte sind verpflichtet, unmittelbaren Zwang anzuwenden,
 der im Vollzugsdienst von ihrem Vorgesetzten oder einer sonst dazu
@@ -152,10 +160,12 @@ anzuwenden.
 
 
 ## Zweiter Abschnitt - Besondere Vorschriften für Fesselung und den Gebrauch von Schußwaffen und Explosivmitteln
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNG000200315)
 
 
 
 ### § 8 Fesselung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001200315)
 
 Wer im Gewahrsam von Vollzugsbeamten ist, darf gefesselt werden, wenn
 
@@ -176,6 +186,7 @@ Wer im Gewahrsam von Vollzugsbeamten ist, darf gefesselt werden, wenn
 
 
 ### § 9 Zum Gebrauch von Schußwaffen Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001306116)
 
 Bei Anwendung unmittelbaren Zwanges ist der Gebrauch von Schußwaffen
 nur gestattet
@@ -220,6 +231,7 @@ nur gestattet
 
 
 ### § 10 Schußwaffengebrauch gegen Personen
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001501306)
 
 (1) Schußwaffen dürfen gegen einzelne Personen nur gebraucht werden,
 
@@ -315,6 +327,7 @@ gesetzlicher Vorschriften bleibt unberührt.
 
 
 ### § 11 Schußwaffengebrauch im Grenzdienst
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001600315)
 
 (1) Die in § 9 Nr. 1, 2, 7 und 8 genannten Vollzugsbeamten können im
 Grenzdienst Schußwaffen auch gegen Personen gebrauchen, die sich der
@@ -330,6 +343,7 @@ Zusammenhang mit dem Grenzdienst übertragen sind.
 
 
 ### § 12 Besondere Vorschriften für den Schußwaffengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001700315)
 
 (1) Schußwaffen dürfen nur gebraucht werden, wenn andere Maßnahmen des
 unmittelbaren Zwanges erfolglos angewendet sind oder offensichtlich
@@ -349,6 +363,7 @@ befinden, dürfen Schußwaffen nicht gebraucht werden.
 
 
 ### § 13 Androhung
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001800315)
 
 (1) Die Anwendung von Schußwaffen ist anzudrohen. Als Androhung gilt
 auch die Abgabe eines Warnschusses. Einer Menschenmenge gegenüber ist
@@ -359,16 +374,19 @@ Menschenmenge ist anzudrohen.
 
 
 ### § 14 Explosivmittel
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE001900315)
 
 Die Vorschriften der §§ 9 bis 13 gelten entsprechend für den Gebrauch
 von Explosivmitteln.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNG000300315)
 
 
 
 ### § 15 Notstandsfall
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE002000315)
 
 (1) Unterstellt die Bundesregierung die Polizei eines Landes oder
 mehrerer Länder nach Artikel 91 Abs. 2 des Grundgesetzes für die
@@ -379,6 +397,7 @@ für die unterstellten Polizeikräfte.
 
 
 ### § 16 Beamtenrechtliche Rahmenvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE002100315)
 
 Für die Vollzugsbeamten der Länder kann durch Landesgesetz eine dem
 Grundsatz des § 7 dieses Gesetzes entsprechende Regelung getroffen
@@ -386,6 +405,7 @@ werden.
 
 
 ### § 17 Vollzugsbeamte im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE002200315)
 
 Dieses Gesetz findet entsprechende Anwendung auf die Vollzugsbeamten,
 die unter das Gesetz zur Regelung der Rechtsverhältnisse der in
@@ -394,6 +414,7 @@ vom 26. April 1957 (Bundesgesetzbl. I S. 397) fallen.
 
 
 ### § 18 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE002302116)
 
 Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz erläßt das
 Bundesministerium des Innern, für Bau und Heimat für seinen
@@ -403,6 +424,7 @@ Innern, für Bau und Heimat.
 
 
 ### § 19 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE002400315)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -410,6 +432,7 @@ im Land Berlin.
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uzwg/BJNR001650961.html#BJNR001650961BJNE002500315)
 
 (1) Dieses Gesetz tritt am 1. April 1961 in Kraft.
 

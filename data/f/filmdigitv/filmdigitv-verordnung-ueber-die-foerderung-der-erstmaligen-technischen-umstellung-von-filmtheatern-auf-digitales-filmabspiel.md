@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000100000)
 
 Auf Grund des § 56 Absatz 1 Satz 2 des Filmförderungsgesetzes, der
 durch Artikel 1 Nummer 52 des Gesetzes vom 22. Dezember 2008 (BGBl. I
@@ -25,6 +26,7 @@ S. 3000) neu gefasst worden ist, verordnet die Bundeskanzlerin:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000200000)
 
 Diese Verordnung regelt die Gewährung von Zuschüssen durch die
 Filmförderungsanstalt für die erstmalige technische Umstellung eines
@@ -33,6 +35,7 @@ Filmabspiel (Digitalisierung).
 
 
 ## § 2 Gegenstand der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000300000)
 
 (1) Gegenstand der Förderung ist die erstmalige Ausrüstung eines
 Filmtheaters mit einer digitalen Projektionstechnik, die die
@@ -48,6 +51,7 @@ die Installation.
 
 
 ## § 3 Zuwendungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000400000)
 
 Empfänger der Förderung sind Filmtheater mit Sitz in der
 Bundesrepublik Deutschland, die
@@ -79,6 +83,7 @@ erfüllen und in einem Ort mit weniger als 50 000 Einwohnern liegen.
 
 
 ## § 4 Art und Umfang, Höhe der Zuwendung
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000500000)
 
 (1) Der Zuschuss wird auf Antrag einmalig in Höhe von bis zu 15
 Prozent der förderfähigen Investitionskosten, höchstens jedoch in Höhe
@@ -110,12 +115,14 @@ Anwendung der Artikel 87 und 88 EG-Vertrag auf De-minimis-Beihilfen
 
 
 ## § 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000600000)
 
 Für den Erlass von Richtlinien durch die Filmförderungsanstalt gilt §
 63 des Filmförderungsgesetzes.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/filmdigitv/BJNR012500011.html#BJNR012500011BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

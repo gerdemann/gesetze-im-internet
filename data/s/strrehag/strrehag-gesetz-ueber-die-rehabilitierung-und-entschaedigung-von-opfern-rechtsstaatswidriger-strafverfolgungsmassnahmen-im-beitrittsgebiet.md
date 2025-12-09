@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Rehabilitierung und Folgeansprüche
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNG000102320)
 
 
 
 ### § 1 Aufhebung rechtsstaatswidriger Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000203130)
 
 (1) Die strafrechtliche Entscheidung eines staatlichen deutschen
 Gerichts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
@@ -147,6 +149,7 @@ soweit dies zur Prüfung einer Anrechnung erforderlich ist.
 
 
 ### § 2 Rechtsstaatswidrige Entscheidungen über Freiheitsentzug außerhalb eines Strafverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000304310)
 
 (1) Die Vorschriften dieses Gesetzes finden auf eine außerhalb eines
 Strafverfahrens ergangene gerichtliche oder behördliche Entscheidung,
@@ -162,6 +165,7 @@ gleichgestellt.
 
 
 ### § 3 Folgeansprüche
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000403320)
 
 (1) Die Aufhebung einer Entscheidung nach § 1 begründet Ansprüche nach
 Maßgabe dieses Gesetzes.
@@ -173,6 +177,7 @@ Investitionsvorranggesetz.
 
 
 ### § 4 Beendigung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000502320)
 
 (1) Die Vollstreckung einer strafgerichtlichen Entscheidung endet mit
 der Rechtskraft der aufhebenden Entscheidung, wenn die Vollstreckung
@@ -188,6 +193,7 @@ unverhältnismäßig wäre.
 
 
 ### § 5 Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000602320)
 
 (1) Die rechtskräftige Entscheidung und die durch Beschwerde
 angefochtene stattgebende Entscheidung des Gerichts sind dem
@@ -229,6 +235,7 @@ Bundeszentralregistergesetzes entsprechend.
 
 
 ### § 6 Erstattung von Geldstrafen, Kosten des Verfahrens und notwendigen Auslagen des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000704116)
 
 (1) Soweit eine Entscheidung aufgehoben wird, besteht ein Anspruch auf
 Erstattung gezahlter Geldstrafen, Kosten des Verfahrens und
@@ -244,10 +251,12 @@ unverhältnismäßigem Aufwand möglich wäre.
 
 
 ## Abschnitt 2 - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNG000802320)
 
 
 
 ### § 7 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE000911116)
 
 (1) Der Antrag nach § 1 kann
 
@@ -287,6 +296,7 @@ Fortsetzung des Verfahrens beantragen.
 
 
 ### § 8 Zuständiges Gericht
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001002320)
 
 (1) Für die Entscheidung nach § 1 ist das Bezirksgericht oder das an
 dessen Sitz errichtete Landgericht zuständig, in dessen Bezirk nach
@@ -303,6 +313,7 @@ zuständig gewesen wäre.
 
 
 ### § 9 Besetzung der Rehabilitierungssenate oder Rehabilitierungskammern
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001102320)
 
 (1) Das Bezirksgericht entscheidet durch Rehabilitierungssenate, das
 Landgericht durch Rehabilitierungskammern, die jeweils mit drei
@@ -319,6 +330,7 @@ Beitrittsgebiet als Berufsrichter oder Staatsanwalt tätig war.
 
 
 ### § 10 Ermittlung des Sachverhalts
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001203116)
 
 (1) Das Gericht ermittelt den Sachverhalt von Amts wegen. Dabei
 bestimmt es Art und Umfang der Ermittlungen, insbesondere etwaiger
@@ -355,6 +367,7 @@ Staatsanwaltschaft übertragen.
 
 
 ### § 11 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001302320)
 
 (1) Ein Antrag soll bevorzugt bearbeitet werden, wenn dies unter den
 Gesichtspunkten der sozialen Dringlichkeit oder des Lebensalters des
@@ -380,6 +393,7 @@ auch dieser an dem Verfahren zu beteiligen. Absatz 1 und Absatz 3 Satz
 
 
 ### § 12 Rehabilitierungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001402320)
 
 (1) Das Gericht entscheidet durch Beschluss. Die Entscheidung ergeht
 im schriftlichen Verfahren, wenn nicht die Voraussetzungen einer
@@ -413,6 +427,7 @@ den Verfahrensbeteiligten zuzustellen.
 
 
 ### § 13 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001502320)
 
 (1) Gegen den Beschluss kann innerhalb eines Monats nach seiner
 Zustellung Beschwerde eingelegt werden.
@@ -455,6 +470,7 @@ Sache dem Bundesgerichtshof in entsprechender Anwendung von § 121 Abs.
 
 
 ### § 14 Kosten des Verfahrens und notwendige Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001602320)
 
 (1) Kosten des Verfahrens werden nicht erhoben.
 
@@ -472,6 +488,7 @@ entsprechend.
 
 
 ### § 15 Anwendbarkeit des Gerichtsverfassungsgesetzes und der Strafprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001702320)
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die
 Vorschriften des Gerichtsverfassungsgesetzes und der
@@ -479,10 +496,12 @@ Strafprozessordnung entsprechend.
 
 
 ## Abschnitt 3 - Soziale Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNG001802320)
 
 
 
 ### § 16 Soziale Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE001903310)
 
 (1) Die Rehabilitierung begründet einen Anspruch auf soziale
 Ausgleichsleistungen für Nachteile, die dem Betroffenen durch eine
@@ -506,6 +525,7 @@ unberücksichtigt.
 
 
 ### § 17 Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002010116)
 
 (1) Die Kapitalentschädigung beträgt 306,78 Euro für jeden
 angefangenen Kalendermonat einer mit wesentlichen Grundsätzen einer
@@ -534,6 +554,7 @@ Kapitalentschädigung gemäß Absatz 3 übertragbar und vererblich ist.
 
 
 ### § 17a Besondere Zuwendung für Haftopfer; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE003306130)
 
 (1) Berechtigte nach § 17 Abs. 1 erhalten auf Antrag eine monatliche
 besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen
@@ -577,6 +598,7 @@ Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
 
 
 ### § 18 Unterstützungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002108130)
 
 (1) Berechtigte nach § 17 Abs. 1 erhalten Unterstützungsleistungen,
 wenn die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen
@@ -617,6 +639,7 @@ Rehabilitierungsgesetzes ergangen ist.
 
 
 ### § 19 Härteregelung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002204310)
 
 Ergibt sich eine besondere Härte daraus, dass keine
 Kapitalentschädigung oder keine besondere Zuwendung gezahlt wird, kann
@@ -624,12 +647,14 @@ die zuständige Behörde dem Antragsteller diese Leistung zuerkennen.
 
 
 ### § 20 Kostenregelung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002302320)
 
 Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch
 Leistungen nach diesem Gesetz entstehen.
 
 
 ### § 21 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002405130)
 
 (1) Ein Betroffener, der infolge der Freiheitsentziehung eine
 gesundheitliche Schädigung erlitten hat, erhält wegen der
@@ -700,6 +725,7 @@ erteilt werden.
 
 
 ### § 22 Leistungen der Sozialen Entschädigung für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002503116)
 
 (1) Ist der Betroffene an den Folgen der Schädigung gestorben,
 erhalten die Hinterbliebenen auf Antrag Leistungen der Sozialen
@@ -732,6 +758,7 @@ entsprechend.
 
 
 ### § 23 Zusammentreffen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002604116)
 
 (1) Treffen Ansprüche aus § 21 mit folgenden Ansprüchen zusammen,
 werden die Leistungen der Sozialen Entschädigung unter
@@ -767,10 +794,12 @@ Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002703116)
 
 
 
 ### § 25 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE002815116)
 
 (1) Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 und
 zur Prüfung der Voraussetzungen des § 16 Abs. 2 ist die
@@ -826,6 +855,7 @@ Angelegenheiten des Sozialen Entschädigungsrechts maßgebend.
 
 
 ### § 25a Verarbeitung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE003203116)
 
 Personenbezogene Daten aus einem strafrechtlichen
 Rehabilitierungsverfahren dürfen auch für andere Verfahren zur
@@ -834,10 +864,12 @@ dem Häftlingshilfegesetz soweit erforderlich verarbeitet werden.
 
 
 ## Abschnitt 4 - Überleitungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNG002902320)
 
 
 
 ### § 26 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE003002320)
 
 (1) Anhängige Rehabilitierungs- und Kassationsverfahren sind nach den
 Vorschriften dieses Gesetzes fortzuführen.
@@ -856,6 +888,7 @@ dieses Gesetzes.
 
 
 ### § 27 (Aufhebung und Änderung anderer Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/strrehag/BJNR118140992.html#BJNR118140992BJNE003102320)
 
 -
 

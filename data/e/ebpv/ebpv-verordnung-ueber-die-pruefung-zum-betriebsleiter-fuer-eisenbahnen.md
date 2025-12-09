@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Prüfungsausschuss, Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNG000100310)
 
 
 
 ### § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE000700310)
 
 (1) Für die Abnahme der Prüfung zum Betriebsleiter für Eisenbahnen
 errichtet die zuständige Aufsichtsbehörde einen Prüfungsausschuss.
@@ -33,6 +35,7 @@ gemeinsamer Prüfungsausschuss errichtet werden.
 
 
 ### § 2 Zusammensetzung und Berufung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE000801308)
 
 (1) Der Prüfungsausschuss besteht aus dem Vorsitzenden sowie weiteren
 Mitgliedern.
@@ -80,6 +83,7 @@ Absatz 2 übertragen.
 
 
 ### § 3 Ausschluss und Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE000900310)
 
 (1) Bei der Prüfung darf nicht mitwirken, wer Vorgesetzter eines
 Prüfungsbewerbers oder im selben Unternehmen oder in derselben Behörde
@@ -94,10 +98,12 @@ Mitglieder.
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001001308)
 
 
 
 ### § 5 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001100310)
 
 Die zuständige Aufsichtsbehörde nimmt im Benehmen mit dem
 Prüfungsausschuss dessen Geschäftsführung wahr. Ist ein
@@ -107,6 +113,7 @@ Geschäftsführung wahr.
 
 
 ### § 6 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001201308)
 
 Die Mitglieder des Prüfungsausschusses haben über die Prüfungsvorgänge
 gegenüber Dritten Stillschweigen zu wahren. Ausnahmen bedürfen der
@@ -114,10 +121,12 @@ Einwilligung der zuständigen Aufsichtsbehörde.
 
 
 ## Abschnitt 2 - Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNG000200310)
 
 
 
 ### § 7 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001300310)
 
 Zur Prüfung wird auf eigenen Antrag zugelassen, wer
 
@@ -159,6 +168,7 @@ Zur Prüfung wird auf eigenen Antrag zugelassen, wer
 
 
 ### § 8 Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001401308)
 
 (1) Der Antrag auf Zulassung zur Prüfung ist vom Bewerber an die für
 die Eisenbahn, bei der er zum Zeitpunkt der Antragstellung beschäftigt
@@ -188,6 +198,7 @@ Unterlagen beizufügen:
 
 
 ### § 9 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001500310)
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet die
 zuständige Aufsichtsbehörde. Sie kann Ausnahmen von den
@@ -202,10 +213,12 @@ Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ## Abschnitt 3 - Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNG000300310)
 
 
 
 ### § 10 Zweck der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001600310)
 
 (1) In der Prüfung ist festzustellen, ob der Prüfling hinreichende
 Kenntnisse in allen Prüfungsfächern besitzt und damit geeignet ist,
@@ -222,6 +235,7 @@ zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und
 
 
 ### § 11 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001701308)
 
 (1) Prüfungen sollen mindestens einmal im Jahr durchgeführt werden.
 
@@ -236,6 +250,7 @@ zur Prüfung mitzubringen.
 
 
 ### § 12 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001802308)
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem
 nachfolgenden mündlichen Teil.
@@ -395,6 +410,7 @@ einzubeziehen.
 
 
 ### § 13 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE001901308)
 
 (1) Der Vorsitzende des Prüfungsausschusses bestimmt die
 Prüfungsaufgaben. Die Aufgaben in den Fächern nach § 12 Abs. 2 sind
@@ -426,6 +442,7 @@ Rechtsbehelfsbelehrung zuzustellen.
 
 
 ### § 14 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002001308)
 
 (1) Für die Durchführung der mündlichen Prüfungen richtet der
 Vorsitzende des Prüfungsausschusses so viele Prüfungskommissionen ein,
@@ -468,6 +485,7 @@ Stimmengleichheit entscheidet der jeweilige Fachprüfer.
 
 
 ### § 15 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002101308)
 
 Die mündliche Prüfung ist nicht öffentlich. Es können aber beauftragte
 Vertreter der Aufsichtsbehörden, Mitglieder des Prüfungsausschusses,
@@ -480,6 +498,7 @@ unter Ausschluss der Öffentlichkeit bekannt gegeben.
 
 
 ### § 16 Ausweispflicht und Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002201308)
 
 Die Prüflinge haben sich auf Verlangen des Aufsichtführenden bei der
 schriftlichen Prüfung und des Prüfungsleiters bei der mündlichen
@@ -490,6 +509,7 @@ von Täuschungshandlungen und Ordnungsverstößen zu belehren.
 
 
 ### § 17 Täuschungshandlungen und Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002300310)
 
 Prüflinge, die eine Täuschungshandlung begehen oder versuchen oder den
 Prüfungsablauf erheblich stören, können von der weiteren Teilnahme an
@@ -502,6 +522,7 @@ nicht bestanden erklärt werden.
 
 
 ### § 18 Rücktritt und Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002401308)
 
 (1) Der Prüfling kann vor Bekanntgabe der ersten schriftlichen
 Prüfungsaufgabe von der Prüfung durch schriftliche Erklärung oder
@@ -518,10 +539,12 @@ wichtigen Grundes entscheidet der Vorsitzende des Prüfungsausschusses.
 
 
 ## Abschnitt 4 - Bewerten und Feststellen der Prüfungsergebnisse, Erteilen der Prüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNG000400310)
 
 
 
 ### § 19 Bewerten der einzelnen Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002501308)
 
 (1) Die einzelnen schriftlichen Arbeiten und die Leistungen in jedem
 Fach der mündlichen Prüfung sind nach der Anlage zu bewerten.
@@ -531,6 +554,7 @@ Kenntnissen auch Form und Ausdrucksweise zu berücksichtigen.
 
 
 ### § 20 Feststellen und Bekanntgeben des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002602308)
 
 (1) Der Prüfungsleiter stellt auf Grund der Bewertungen der mündlichen
 und schriftlichen Prüfung die Gesamtbewertung fest.
@@ -589,6 +613,7 @@ den Mitgliedern der Prüfungskommission zu unterzeichnen.
 
 
 ### § 21 Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002701308)
 
 Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das von
 der zuständigen Aufsichtsbehörde auszustellen und vom Prüfungsleiter
@@ -599,6 +624,7 @@ anzugeben.
 
 
 ### § 22 Nicht bestandene Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002800310)
 
 Die zuständige Aufsichtsbehörde erteilt dem Prüfling über das
 Nichtbestehen der Prüfung einen schriftlichen Bescheid. Darin sind die
@@ -609,10 +635,12 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ## Abschnitt 5 - Wiederholungsprüfung, Einsicht in die Prüfungsunterlagen, Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNG000500310)
 
 
 
 ### § 23 Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE002900310)
 
 (1) Eine nicht bestandene Prüfung darf zweimal wiederholt werden,
 jedoch frühestens sechs Monate nach Beendigung der vorangegangenen
@@ -630,6 +658,7 @@ Prüfungsleistungen ist ausgeschlossen.
 
 
 ### § 24 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE003000310)
 
 (1) Auf Antrag ist dem Prüfling nach Beendigung der Prüfung Einsicht
 in seine Prüfungsunterlagen zu gewähren. Ablichtungen der
@@ -641,14 +670,17 @@ Prüfungsergebnisses aufzubewahren.
 
 
 ## Abschnitt 6 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNG000600310)
 
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE003101308)
 
 
 
 ### Anlage (zu § 19 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/ebpv/BJNR102500000.html#BJNR102500000BJNE003201308)
 
 
 *    *   1

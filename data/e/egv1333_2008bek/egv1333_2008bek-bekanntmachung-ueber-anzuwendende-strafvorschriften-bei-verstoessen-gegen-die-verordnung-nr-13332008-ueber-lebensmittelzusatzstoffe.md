@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/egv1333_2008bek/BJNR225400011.html#BJNR225400011BJNE000100000)
 
 
 1.  Nach § 75 Absatz 5 in Verbindung mit Absatz 3 Nummer 1 des
@@ -57,6 +58,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/egv1333_2008bek/BJNR225400011.html#BJNR225400011BJNE000200000)
 
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gartausbsteignv/BJNR204400997.html#BJNR204400997BJNE000100320)
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -36,6 +37,7 @@ Berufsbildung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gartausbsteignv/BJNR204400997.html#BJNR204400997BJNE000200320)
 
 Für die Eignung der Ausbildungsstätte gelten neben den in § 22 Abs. 1
 Nr. 2 des Berufsbildungsgesetzes genannten Anforderungen die in den
@@ -43,6 +45,7 @@ nachfolgenden §§ 2 und 3 näher festgelegten weiteren Anforderungen.
 
 
 ## § 2 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/gartausbsteignv/BJNR204400997.html#BJNR204400997BJNE000301360)
 
 (1) Die Ausbildungsstätte muß nach Art und Umfang der Produktion oder
 nach Art und Umfang der Dienstleistungen die Voraussetzungen dafür
@@ -93,6 +96,7 @@ Betrieb als Ausbildungsstätte ungeeignet ist.
 
 
 ## § 3 Fachrichtungsspezifische Mindestanforderungen an die Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/gartausbsteignv/BJNR204400997.html#BJNR204400997BJNE000400320)
 
 (1) Die Ausbildungsstätte in der Fachrichtung Baumschule muß über ein
 ausreichend breites Sortiment für verschiedene Verwendungszwecke in
@@ -145,6 +149,7 @@ Zierpflanzen müssen vorhanden sein.
 
 
 ## § 4 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/gartausbsteignv/BJNR204400997.html#BJNR204400997BJNE000500320)
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
 in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden,
@@ -156,6 +161,7 @@ Ausbildungsstätte vermittelt werden können.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gartausbsteignv/BJNR204400997.html#BJNR204400997BJNE000600320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

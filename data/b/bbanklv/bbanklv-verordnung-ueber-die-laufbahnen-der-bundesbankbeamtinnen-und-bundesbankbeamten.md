@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000100000)
 
 Auf Grund des § 31 Absatz 6 des Gesetzes über die Deutsche Bundesbank,
 der durch Artikel 12 Nummer 1 Buchstabe c des Gesetzes vom 5. Februar
@@ -32,6 +33,7 @@ Innern und dem Bundesministerium der Finanzen:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000200000)
 
 Diese Verordnung gilt für die Beamtinnen und Beamten der Deutschen
 Bundesbank. Soweit in dieser Verordnung nichts anderes bestimmt ist,
@@ -40,6 +42,7 @@ anzuwenden.
 
 
 ## § 2 Gestaltung und Ämter der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000301129)
 
 (1) Bei der Deutschen Bundesbank sind zusätzlich zu den Laufbahnen
 nach § 6 Absatz 2 der Bundeslaufbahnverordnung folgende Laufbahnen
@@ -63,6 +66,7 @@ Bundeslaufbahnverordnung bleibt unberührt.
 
 
 ## § 3 Einrichtung von Vorbereitungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000400000)
 
 Für die Laufbahnen des mittleren, gehobenen und höheren Bankdienstes
 werden Vorbereitungsdienste eingerichtet. § 10 Absatz 2 der
@@ -70,6 +74,7 @@ Bundeslaufbahnverordnung bleibt unberührt.
 
 
 ## § 4 Vorbereitungsdienst für den gehobenen Bankdienst
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000501129)
 
 Der Vorbereitungsdienst für den gehobenen Bankdienst wird in einem
 Studiengang an der Hochschule der Deutschen Bundesbank durchgeführt. §
@@ -77,6 +82,7 @@ Studiengang an der Hochschule der Deutschen Bundesbank durchgeführt. §
 
 
 ## § 4a Besondere Fachverwendung Bargeldlogistik im mittleren Bankdienst
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE001700129)
 
 (1) In der Laufbahn des mittleren Bankdienstes wird die besondere
 Fachverwendung Bargeldlogistik eingerichtet.
@@ -127,12 +133,14 @@ entsprechend.
 
 
 ## § 5 Befähigung für den höheren Bankdienst
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000600000)
 
 Die Befähigung für die Laufbahn des höheren Bankdienstes hat auch, wer
 die Befähigung zum Richteramt hat.
 
 
 ## § 6 Wechsel von Wissenschaftlerinnen und Wissenschaftlern
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000700000)
 
 § 43 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass in Nummer
 4 die Besoldungsgruppe B 2 durch die Besoldungsgruppe B 3 und in
@@ -141,6 +149,7 @@ ersetzt wird.
 
 
 ## § 7 Dienstliche Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000800000)
 
 Die Beurteilungsrichtlinien der Deutschen Bundesbank erlässt der
 Vorstand der Deutschen Bundesbank. Die §§ 48 bis 50 der
@@ -148,6 +157,7 @@ Bundeslaufbahnverordnung bleiben im Übrigen unberührt.
 
 
 ## § 8 Überleitung
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE000900000)
 
 (1) Beamtinnen und Beamte, die sich beim Inkrafttreten dieser
 Verordnung bereits in einer Laufbahn nach der Anlage zu § 37 Absatz 2
@@ -170,6 +180,7 @@ besitzen die Befähigung für die Laufbahn des mittleren Bankdienstes.
 
 
 ## § 9 Geldbearbeitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE001000000)
 
 Beamtinnen und Beamte mit der Befähigung für die Laufbahn des
 Geldbearbeitungsdienstes können durch eine einjährige berufspraktische
@@ -186,6 +197,7 @@ gilt insoweit weiterhin als eingerichtet.
 (zu § 2 Abs 2)
 
 ## Anlage 1 Laufbahnen, Ämter und Amtsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE001501129)
 
 (Fundstelle: BGBl. 2025 I Nr. 198, S. 3)
 
@@ -391,6 +403,7 @@ Verwaltungsdienstes**
 [^F833686_06_BJNR114200010BJNE001501129]: 
 
 ## Anlage 2 (zu § 8 Abs 1)
+[Direktlink](https://www.gesetze-im-internet.de/bbanklv/BJNR114200010.html#BJNR114200010BJNE001601129)
 
 (Fundstelle: BGBl. 2025 I Nr. 198, S. 4)
 

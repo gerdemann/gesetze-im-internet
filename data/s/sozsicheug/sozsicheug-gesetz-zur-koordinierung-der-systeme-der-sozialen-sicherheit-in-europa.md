@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000100000)
 
 Dieses Gesetz regelt die Zuständigkeit der deutschen
 Sozialversicherungsträger und anderer für die soziale Sicherheit
@@ -43,12 +44,14 @@ folgender Verordnungen in ihrer jeweils geltenden Fassung:
 
 
 ## § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000200000)
 
 Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde
 nach Artikel 1 Buchstabe m der Verordnung (EG) Nr. 883/2004.
 
 
 ## § 3 Verbindungsstelle für die berufsständischen Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000300000)
 
 (1) Die Arbeitsgemeinschaft Berufsständischer Versorgungseinrichtungen
 nimmt die Funktion einer Verbindungsstelle nach Artikel 1 Absatz 2
@@ -92,6 +95,7 @@ Kapitel des Zehnten Buches Sozialgesetzbuch Anwendung finden.
 
 
 ## § 4 Verbindungsstelle für Familienleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000402119)
 
 Die Bundesagentur für Arbeit, Familienkasse Direktion, nimmt die
 Funktion der Verbindungsstelle nach Artikel 1 Absatz 2 Buchstabe b der
@@ -115,6 +119,7 @@ ihren Aufgaben gehören insbesondere
 
 
 ## § 5 Koordinierungsstelle für die Systeme der Beamtenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000501119)
 
 Die Generalzolldirektion nimmt im Zusammenwirken mit der Deutschen
 Rentenversicherung Bund (§ 127a Absatz 2 des Sechsten Buches
@@ -132,6 +137,7 @@ Sozialgesetzbuch Anwendung finden.
 
 
 ## § 6 Zugangsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000602124)
 
 (1) Zugangsstellen für den elektronischen Datenaustausch nach Artikel
 1 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 987/2009 sind
@@ -221,6 +227,7 @@ Datenverarbeitung im Auftrag übernehmen.
 
 
 ## § 7 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sozsicheug/BJNR120210011.html#BJNR120210011BJNE000700000)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates folgende

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000100314)
 
 Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für
 Bundeszwecke vom 3. September 1953 (BGBl. I S. 1314) verordnet die
@@ -26,12 +27,14 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000200314)
 
 Über Arten und Umfang der betrieblichen Altersversorgung wird im Jahre
 1977 eine Bundesstatistik durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000300314)
 
 (1) In die Erhebung werden, mit Ausnahme der Körperschaften, Anstalten
 und Stiftungen des öffentlichen Rechts, die Unternehmen ausgewählter
@@ -59,6 +62,7 @@ einbezogen:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000400314)
 
 Bei der Erhebung werden erfaßt
 
@@ -93,17 +97,20 @@ Bei der Erhebung werden erfaßt
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000500314)
 
 Auskunftspflichtig nach § 10 des Gesetzes über die Statistik für
 Bundeszwecke sind die Inhaber oder Leiter der befragten Unternehmen.
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000600314)
 
 Die Erhebung wird vom Statistischen Bundesamt aufbereitet.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000700314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 17 des Gesetzes über die Statistik für Bundeszwecke
@@ -111,6 +118,7 @@ auch im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/altersverserhv_2/BJNR500690977.html#BJNR500690977BJNE000800314)
 
 Diese Verordnung tritt am Tage der Verkündung in Kraft.
 

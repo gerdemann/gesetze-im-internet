@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000200000)
 
 Diese Verordnung regelt für Betreiber von Wasserstoffnetzen, die nach
 § 28j Absatz 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl.
@@ -31,6 +33,7 @@ Wasserstoffnetzen (Netzentgelte).
 
 
 ### § 2 Grundsätze der Bestimmung der Netzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000300000)
 
 (1) Der Betreiber eines Wasserstoffnetzes hat im Rahmen der Ermittlung
 der Netzentgelte sicherzustellen, dass sein Entgeltsystem geeignet
@@ -58,9 +61,11 @@ einzelnen Teilnetze sind die Teile 2 und 3 entsprechend anzuwenden.
 
 
 ## Teil 2 - Ermittlung der Netzkosten
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNG000200000)
 
 
 ### § 3 Zuschüsse aus Fördermitteln
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000400000)
 
 (1) Zuschüsse zu den Netzkosten aus Fördermitteln werden nach den §§
 10 und 12 kostenmindernd angesetzt.
@@ -74,6 +79,7 @@ als Erlös berücksichtigt.
 
 
 ### § 4 Netzanschlusskosten
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000500000)
 
 (1) Der Betreiber eines Wasserstoffnetzes ist berechtigt, von
 Anschlussnehmern auf der Einspeise- und Entnahmeseite die Erstattung
@@ -92,6 +98,7 @@ zu viel gezahlten Betrag zu erstatten.
 
 
 ### § 5 Baukostenzuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000600000)
 
 (1) Der Betreiber eines Wasserstoffnetzes kann von dem Anschlussnehmer
 auf der Einspeise- oder Entnahmeseite einen angemessenen
@@ -117,6 +124,7 @@ anzuwenden.
 
 
 ### § 6 Grundsätze der Netzkostenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000700000)
 
 (1) Bilanzielle und kalkulatorische Kosten für die
 Wasserstoffnetzinfrastruktur sind nur insoweit anzusetzen, als sie den
@@ -206,6 +214,7 @@ zu führen.
 
 
 ### § 7 Aufwandsgleiche Kostenpositionen
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000800000)
 
 (1) Aufwandsgleiche Kostenpositionen sind den nach § 28k Absatz 1 Satz
 1 oder Absatz 2 Satz 3 des Energiewirtschaftsgesetzes aufgestellten
@@ -219,6 +228,7 @@ vergleichbare Kreditaufnahmen.
 
 
 ### § 8 Kalkulatorische Abschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE000900000)
 
 (1) Zur Gewährleistung eines langfristig angelegten, leistungsfähigen
 und zuverlässigen Netzbetriebs ist die Wertminderung der
@@ -276,6 +286,7 @@ Schuldverhältnissen anzuwenden.
 
 
 ### § 9 Ermittlung der kalkulatorischen Abschreibungen bei auf ausschließlichen Wasserstofftransport umgestellten Altanlagen des Gasversorgungsnetzes
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001000000)
 
 (1) Bei einer Anlage des Gasversorgungsnetzes, die erstmalig vor dem
 1\. Januar 2006 aktiviert wurde (Altanlage) und nunmehr ausschließlich
@@ -459,6 +470,7 @@ nach § 8.
 [^F819305_01_BJNR495510021BJNE001000000]: 
 
 ### § 10 Kalkulatorische Eigenkapitalverzinsung
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001100000)
 
 (1) Die Verzinsung des von Betreibern von Wasserstoffnetzen
 eingesetzten Eigenkapitals erfolgt durch eine kalkulatorische
@@ -565,6 +577,7 @@ Eigenkapitalzinssatz sind unzulässig.
 
 
 ### § 11 Kalkulatorische Steuern
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001200000)
 
 Im Rahmen der Ermittlung der Wasserstoffnetzkosten kann die dem
 Wasserstoffnetzbereich sachgerecht zuzuordnende Gewerbesteuer als
@@ -572,6 +585,7 @@ kalkulatorische Kostenposition in Ansatz gebracht werden.
 
 
 ### § 12 Kostenmindernde Erlöse und Erträge
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001300000)
 
 (1) Sonstige Erlöse und Erträge sind, soweit sie sachlich dem
 Netzbetrieb zuzurechnen und der Gewinn- und Verlustrechnung nach § 28k
@@ -606,6 +620,7 @@ anzusetzen.
 
 
 ### § 13 Umstellung bestehender Gasnetzinfrastruktur auf reinen Wasserstofftransport
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001400000)
 
 Ab dem Zeitpunkt, in dem Anlagen, die bisher der Gasversorgung
 dienten, in einem Wasserstoffnetz betrieben werden, werden sie bezogen
@@ -615,6 +630,7 @@ erfolgt dann nach den §§ 8 und 9.
 
 
 ### § 14 Plan-Ist-Kosten-Abgleich
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001500000)
 
 (1) Der Betreiber eines Wasserstoffnetzes ist verpflichtet, nach
 Abschluss des Kalenderjahres (Kalkulationsperiode) die Differenz zu
@@ -687,9 +703,11 @@ ermittelten Kosten für die Ermittlung des Differenzbetrags nach Absatz
 
 
 ## Teil 3 - Pflichten des Betreibers eines Wasserstoffnetzes
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNG000300000)
 
 
 ### § 15 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wasserstoffnev/BJNR495510021.html#BJNR495510021BJNE001600000)
 
 (1) Der Betreiber eines Wasserstoffnetzes hat unverzüglich einen
 schriftlichen oder elektronischen Bericht über die Ermittlung der

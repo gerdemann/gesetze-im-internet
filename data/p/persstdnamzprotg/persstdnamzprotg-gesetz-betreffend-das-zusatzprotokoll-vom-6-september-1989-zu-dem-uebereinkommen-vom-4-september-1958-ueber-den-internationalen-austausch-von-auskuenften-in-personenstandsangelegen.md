@@ -22,12 +22,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/persstdnamzprotg/BJNR048620994.html#BJNR048620994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/persstdnamzprotg/BJNR048620994.html#BJNR048620994BJNE000200307)
 
 Dem in Patras am 6. September 1989 von der Bundesrepublik Deutschland
 unterzeichneten Zusatzprotokoll zu dem am 4. September 1958 in
@@ -38,6 +40,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/persstdnamzprotg/BJNR048620994.html#BJNR048620994BJNE000302116)
 
 Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften erläßt der Bundesminister des Innern, für Bau
@@ -46,6 +49,7 @@ Verbraucherschutz und mit Zustimmung des Bundesrates.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/persstdnamzprotg/BJNR048620994.html#BJNR048620994BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

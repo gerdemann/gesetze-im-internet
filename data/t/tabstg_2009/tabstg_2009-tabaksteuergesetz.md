@@ -23,9 +23,11 @@ Mittelbare änderung durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000100000)
 
 
 ### § 1 Steuergebiet, Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004801123)
 
 (1) Tabakwaren, erhitzter Tabak, Wasserpfeifentabak und Substitute für
 Tabakwaren unterliegen im Steuergebiet der Tabaksteuer. Steuergebiet
@@ -142,6 +144,7 @@ festzulegen.
 
 
 ### § 1a Erhitzter Tabak, Wasserpfeifentabak
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE005200123)
 
 Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes
 für Rauchtabak sowie die dazu ergangenen Durchführungsbestimmungen
@@ -149,6 +152,7 @@ auch für erhitzten Tabak und Wasserpfeifentabak.
 
 
 ### § 1b Substitute für Tabakwaren
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE005301123)
 
 Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes
 für Tabakwaren sowie die dazu ergangenen Durchführungsbestimmungen
@@ -163,6 +167,7 @@ sinngemäß.
 
 
 ### § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004901123)
 
 (1) Die Steuer beträgt:
 
@@ -391,6 +396,7 @@ Tabaksteueranteil auf zwei Dezimalstellen aufrunden.
 
 
 ### § 3 Bemessungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE005000123)
 
 (1) Kleinverkaufspreis ist der Preis, den der Hersteller oder
 Einführer als Einzelhandelspreis für Zigarren, Zigarillos und
@@ -443,6 +449,7 @@ festzulegen.
 
 
 ### § 4 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE000501123)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -554,9 +561,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000200000)
 
 
 ### § 5 Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE000601000)
 
 (1) Steuerlager sind Orte, an und von denen Tabakwaren unter
 Steueraussetzung hergestellt, bearbeitet oder verarbeitet, gelagert,
@@ -570,6 +579,7 @@ Steuerlager gehören.
 
 
 ### § 6 Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE000702140)
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager
 betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag
@@ -628,6 +638,7 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 ### § 7 Registrierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE000801000)
 
 (1) Registrierte Empfänger sind Personen, die Tabakwaren unter
 Steueraussetzung
@@ -681,6 +692,7 @@ Sicherheitsleistung zu erlassen.
 
 
 ### § 8 Registrierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE000901000)
 
 (1) Registrierte Versender sind Personen, die Tabakwaren vom Ort der
 Einfuhr unter Steueraussetzung versenden dürfen.
@@ -708,6 +720,7 @@ Belange dem nicht entgegenstehen.
 
 
 ### § 9 Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001003123)
 
 (1) Begünstigte, die Tabakwaren unter Steueraussetzung im Steuergebiet
 empfangen dürfen, sind vorbehaltlich des Absatzes 2
@@ -811,6 +824,7 @@ geeignete Dokumente zuzulassen.
 
 
 ### § 10 Beförderungen (Allgemeines)
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001102123)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
 ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur
@@ -858,6 +872,7 @@ Verfahren abweichend von Absatz 1 zu bestimmen.
 
 
 ### § 11 Beförderungen im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001203123)
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer
 oder Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet
@@ -920,6 +935,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 12 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001303123)
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer
 oder Drittgebiete, befördert werden
@@ -1033,6 +1049,7 @@ zur Sicherheitsleistung zu erlassen; dabei kann es
 
 
 ### § 13 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001402123)
 
 (1) Tabakwaren dürfen unter Steueraussetzung aus Steuerlagern im
 Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im
@@ -1089,6 +1106,7 @@ anzuwenden.
 
 
 ### § 14 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001502123)
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
 Steueraussetzung eintretender Fall, mit Ausnahme der in § 15 Absatz 3
@@ -1154,6 +1172,7 @@ zu erlassen.
 
 
 ### § 15 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001603123)
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Tabakwaren
 in den steuerrechtlich freien Verkehr, es sei denn, es schließt sich
@@ -1284,6 +1303,7 @@ Nachweis.
 
 
 ### § 16 Verpackungszwang
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001701000)
 
 (1) Tabakwaren dürfen nur in geschlossenen, verkaufsfertigen
 Kleinverkaufspackungen in den steuerrechtlich freien Verkehr überführt
@@ -1306,6 +1326,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 17 Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE005100123)
 
 (1) Für Tabakwaren ist die Steuer durch Verwendung von Steuerzeichen
 zu entrichten. Die Verwendung umfasst das Entwerten und das Anbringen
@@ -1361,6 +1382,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 18 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE001902123)
 
 (1) Die Steuerzeichenschuld ist spätestens zu begleichen
 
@@ -1407,15 +1429,19 @@ die Einzelheiten über die Entrichtung der Steuer zu bestimmen.
 
 
 ## Abschnitt 3 - Einfuhr oder unrechtmäßiger Eingang von Tabakwaren aus Drittländern oder Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000301123)
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002001123)
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002101123)
 
 
 ### § 21 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002203123)
 
 (1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der
 Überführung der Tabakwaren in den steuerrechtlich freien Verkehr durch
@@ -1477,9 +1503,11 @@ ist.
 
 
 ## Abschnitt 4 - Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000401123)
 
 
 ### § 22 Erwerb durch Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002304123)
 
 (1) Tabakwaren, die eine Privatperson für ihren Eigenbedarf in anderen
 Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst
@@ -1513,6 +1541,7 @@ Eigenbedarf der Privatperson bestimmt sind.
 
 
 ### § 23 Lieferung zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002402123)
 
 (1) Im Sinn dieses Abschnitts werden Tabakwaren zu gewerblichen
 Zwecken geliefert, wenn sie
@@ -1539,6 +1568,7 @@ Steueraufkommens Vorschriften zu Absatz 1 zu erlassen.
 
 
 ### § 23a Zertifizierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004000123)
 
 (1) Zertifizierte Empfänger sind Personen, die Tabakwaren, die aus dem
 steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu
@@ -1628,6 +1658,7 @@ zu Erleichterungen zu erlassen.
 
 
 ### § 23b Zertifizierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004101123)
 
 (1) Zertifizierte Versender sind Personen, die Tabakwaren des
 steuerrechtlich freien Verkehrs zu gewerblichen Zwecken aus ihrem
@@ -1696,6 +1727,7 @@ zu dem Erlaubnisverfahren sowie zu Erleichterungen zu erlassen.
 
 
 ### § 23c Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004200123)
 
 (1) Tabakwaren des steuerrechtlich freien Verkehrs gelten, soweit in
 diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine
@@ -1776,6 +1808,7 @@ Dabei kann das Bundesministerium der Finanzen
 
 
 ### § 23d Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004300123)
 
 (1) Versandhandel betreibt, wer in Ausübung einer selbstständigen
 wirtschaftlichen Tätigkeit Tabakwaren des steuerrechtlich freien
@@ -1801,6 +1834,7 @@ Vorschriften zu Absatz 2 zu erlassen.
 
 
 ### § 23e Unregelmäßigkeiten während der Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004400123)
 
 (1) Als Unregelmäßigkeit gilt, mit Ausnahme der in § 23f Absatz 2 Satz
 1 Nummer 2 geregelten Fälle, ein während der Beförderung von
@@ -1833,6 +1867,7 @@ Vorschriften zu den Absätzen 1 und 2 zu erlassen.
 
 
 ### § 23f Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004500123)
 
 (1) Die Steuer entsteht vorbehaltlich des Absatzes 2
 
@@ -1909,6 +1944,7 @@ Absätzen 1 bis 3 zu erlassen.
 
 
 ### § 23g Steuererklärung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE004600123)
 
 (1) Die Steuerschuldner nach § 23f Absatz 3 Satz 1 Nummer 1 haben im
 Fall des nicht nur gelegentlichen Empfangs für Tabakwaren, für die in
@@ -1934,9 +1970,11 @@ die Einzelheiten zur Steuererklärung zu bestimmen.
 
 
 ## Abschnitt 5 - Bestimmungen zu den Kleinverkaufspackungen und zu den Kleinverkaufspreisen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000500000)
 
 
 ### § 24 Beipackverbot
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002501000)
 
 (1) Den Kleinverkaufspackungen, die in den steuerrechtlich freien
 Verkehr überführt werden, dürfen keine anderen Gegenstände als die
@@ -1952,6 +1990,7 @@ branchenüblichen Zubehörs von geringem Wert zuzulassen.
 
 
 ### § 25 Packungen im Handel, Stückverkauf
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002602377)
 
 (1) Der Händler muss die Kleinverkaufspackungen verschlossen halten
 und die Steuerzeichen an den Packungen unversehrt erhalten. Er darf
@@ -1970,6 +2009,7 @@ lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
 
 ### § 26 Verbot der Abgabe unter Kleinverkaufspreis
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002701000)
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich
 daraus ergebende Kleinverkaufspreis darf vom Händler bei Abgabe von
@@ -1994,6 +2034,7 @@ branchenüblichen Zubehörs von geringem Wert zuzulassen.
 
 
 ### § 27 Preisnachlässe und -ermäßigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002800000)
 
 Von dem Verbot des § 26 Absatz 1 sind ausgenommen
 
@@ -2025,6 +2066,7 @@ Finanzen oder der von ihm bestimmten Stellen.
 
 
 ### § 28 Verbot der Abgabe über Kleinverkaufspreis
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE002901000)
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich
 daraus ergebende Kleinverkaufspreis darf vom Händler bei der Abgabe
@@ -2040,9 +2082,11 @@ Vorschriften zu Absatz 1 zu erlassen.
 
 
 ## Abschnitt 6 - Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000600000)
 
 
 ### § 30 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003102140)
 
 (1) Von der Steuer und vom Verpackungszwang sind befreit
 
@@ -2122,6 +2166,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 31 Verwender
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003202123)
 
 (1) Wer Tabakwaren in den Fällen des § 30 Absatz 1 Nummer 1 Buchstabe
 e und f steuerfrei verwenden will, bedarf einer Erlaubnis. Sie wird
@@ -2155,6 +2200,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 32 Erlass, Erstattung der Steuer und der Steuerzeichenschuld
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003303123)
 
 (1) Die Steuer wird auf Antrag erlassen oder erstattet, wenn
 Tabakwaren in ein Steuerlager aufgenommen werden oder unter
@@ -2236,9 +2282,11 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ## Abschnitt 7 - Steueraufsicht, Geschäftsstatistik, Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000700000)
 
 
 ### § 33 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003403123)
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung
 unterliegen der Steueraufsicht:
@@ -2272,6 +2320,7 @@ Anmeldepflicht zuzulassen.
 
 
 ### § 34 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003500000)
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
 stellen die Hauptzollämter für statistische Zwecke Erhebungen an und
@@ -2283,6 +2332,7 @@ allgemeine Zwecke übermitteln.
 
 
 ### § 35 Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE005400123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -2460,9 +2510,11 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNG000800000)
 
 
 ### § 36 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003704123)
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
@@ -2521,6 +2573,7 @@ Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 
 ### § 37 Schwarzhandel mit Zigaretten
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig Zigaretten
 in Verpackungen erwirbt, an denen ein gültiges Steuerzeichen nicht
@@ -2545,6 +2598,7 @@ ausweisen.
 
 
 ### § 38 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tabstg_2009/BJNR187010009.html#BJNR187010009BJNE003902123)
 
 (1) Für Beförderungen von Tabakwaren des steuerrechtlich freien
 Verkehrs, die vor dem 13. Februar 2023 begonnen worden sind, gilt

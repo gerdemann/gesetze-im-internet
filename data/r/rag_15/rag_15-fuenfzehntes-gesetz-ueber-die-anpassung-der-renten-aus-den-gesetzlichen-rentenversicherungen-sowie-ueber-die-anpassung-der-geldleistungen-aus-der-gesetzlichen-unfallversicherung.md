@@ -19,10 +19,12 @@ Fundstelle
 
 
 ## Erster Abschnitt - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNG000600314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001200314)
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1972 die
@@ -43,6 +45,7 @@ Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001300314)
 
 (1) Renten, die nach den
 §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des
@@ -89,6 +92,7 @@ Neuregelungsgesetzes gezahlt werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001400314)
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 §§ 31
@@ -212,6 +216,7 @@ Mark tritt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001500314)
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
 wie sie sich ergeben würde, wenn der nach § 5 dieses Artikels zu
@@ -246,6 +251,7 @@ Absatz 1, auf die § 5 Abs. 1 Satz 3 dieses Artikels anzuwenden ist.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001600314)
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 dieses Artikels der
 Rentenzahlbetrag für Juli 1972 ohne Kinderzuschuß für jedes Kind und
@@ -281,6 +287,7 @@ hätten.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001700314)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Rentenversicherung der Angestellten, die nach § 4 dieses Artikels
@@ -324,6 +331,7 @@ Artikels zu berücksichtigen sind, nicht überschreiten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001800314)
 
 Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
 Angleichungsgesetzes Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402)
@@ -335,6 +343,7 @@ Versicherungszeiten ergeben würde.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE001900314)
 
 Die Vorschriften dieses Abschnitts gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 7 dieses
@@ -351,10 +360,12 @@ Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 
 
 ## Zweiter Abschnitt - Anpassung der Geldleistungen und des Pflegegeldes aus der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNG000700314)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002000314)
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der
 Veränderung der durchschnittlichen Bruttolohn- und -gehaltssumme
@@ -387,6 +398,7 @@ Jahresarbeitsverdienst zuletzt festgelegt worden ist.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002100314)
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
 einem mit 1,119 vervielfältigten Jahresarbeitsverdienst berechnet
@@ -402,6 +414,7 @@ zu zahlende Betrag mit 1,119 zu vervielfältigen ist.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002200314)
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
 Deutsche Mark nicht übersteigen, es sei denn, daß gemäß § 575 Abs. 2
@@ -411,10 +424,12 @@ von 36.000 Deutsche Mark der höhere Betrag.
 
 
 ## Dritter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNG000800314)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002300314)
 
 (1) Renten aus den Rentenversicherungen der Arbeiter und der
 Angestellten, die nach den §§ 2 und 3 dieses Artikels anzupassen sind,
@@ -444,6 +459,7 @@ Berechtigten die höhere Leistung zu gewähren.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002400314)
 
 Der Erhöhungsbetrag für die Zeit vom 1. Juli 1972 bis zum 31. Dezember
 1972 bleibt bei der Ermittlung anderen Einkommens unberücksichtigt,
@@ -453,6 +469,7 @@ Einkommen abhängig ist.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002500314)
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
 Höhe seiner Rente, die ihm vom 1. Januar 1973 an zusteht, zu geben.
@@ -469,19 +486,23 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ## Vierter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNG000900314)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002600314)
 
 -
 
 
 ## Fünfter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNG001000314)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/rag_15/BJNR019920972.html#BJNR019920972BJNE002700314)
 
 (1) Der Ermittlung der Erhöhungsbeträge für Bezugszeiten vom 1. Juli
 1972 bis zum 31. Dezember 1972 ist die Rente für Dezember 1972

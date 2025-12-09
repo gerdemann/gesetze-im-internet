@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000100307)
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12 und 14 des
@@ -25,6 +26,7 @@ Bundesnaturschutzgesetzes wird verordnet:
 
 
 ## § 1 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000200307)
 
 (1) Die Vordere und Hintere Sächsische Schweiz werden in dem in § 2
 näher bezeichneten Umfang als Nationalpark festgesetzt.
@@ -34,6 +36,7 @@ Schweiz".
 
 
 ## § 2 Flächenbeschreibung und Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000300307)
 
 (1) Zum Nationalpark gehören die fast geschlossenen Wald-Fels-Gebiete
 der Vorderen und Hinteren Sächsischen Schweiz mit Felsrevieren,
@@ -260,6 +263,7 @@ zugänglich.
 
 
 ## § 3 Schutzzweck
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000400307)
 
 (1) Mit der Festsetzung zum Nationalpark wird bezweckt,
 
@@ -284,6 +288,7 @@ Landschaftsschutzgebiet Sächsische Schweiz beitragen.
 
 
 ## § 4 Schutzzonen
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000500307)
 
 (1) Das Gebiet des Nationalparkes wird in die Schutzzonen I, II und
 III gegliedert.
@@ -438,6 +443,7 @@ Karten eingetragen.
 
 
 ## § 5 Gebote
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000600307)
 
 (1) Im Nationalpark ist es geboten,
 
@@ -478,6 +484,7 @@ von zwei Jahren ein Pflege- und Entwicklungsplan erstellt werden.
 
 
 ## § 6 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000700307)
 
 (1) Im Nationalpark sind alle Handlungen verboten, die zu einer
 Zerstörung, Beschädigung oder Veränderung des Schutzgebietes oder
@@ -595,6 +602,7 @@ Absatz 1 verboten sind.
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000800307)
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -655,6 +663,7 @@ schnell wie möglich abgebaut werden.
 
 
 ## § 8 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE000900307)
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
 gewährt werden, wenn
@@ -683,6 +692,7 @@ ganz oder teilweise delegieren.
 
 
 ## § 9 Einvernehmen
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE001000307)
 
 Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei
 
@@ -696,6 +706,7 @@ Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei
 
 
 ## § 10 Entschädigungen für Nutzungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE001100307)
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
 Verordnung oder durch Maßnahmen auf Grund dieser Verordnung
@@ -707,6 +718,7 @@ angemessen ausgleichen.
 
 
 ## § 11 Vorrang dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE001200307)
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
@@ -714,16 +726,19 @@ Anordnungen für dieses Gebiet vor.
 
 
 ## § 12 Schlußbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE001300307)
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE001400307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE001500307)
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1470)
@@ -732,6 +747,7 @@ Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
 des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
 ## Anhang EV (BGBl. II 1990, 885, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/natpsschweizv/DDNR514700990.html#DDNR514700990BJNE888800301)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

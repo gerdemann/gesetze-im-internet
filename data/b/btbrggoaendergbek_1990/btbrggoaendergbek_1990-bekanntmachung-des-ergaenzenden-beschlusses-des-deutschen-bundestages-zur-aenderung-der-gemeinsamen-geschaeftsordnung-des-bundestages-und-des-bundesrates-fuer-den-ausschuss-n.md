@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btbrggo_ndergbek_1990/BJNR125570990.html#BJNR125570990BJNE000100308)
 
 Solange die Mitglieder des Bundesrates aus den Ländern Brandenburg,
 Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen dem

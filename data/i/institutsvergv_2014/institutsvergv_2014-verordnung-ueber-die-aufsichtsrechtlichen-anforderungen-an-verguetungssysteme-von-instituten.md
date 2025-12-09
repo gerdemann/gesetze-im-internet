@@ -34,6 +34,7 @@ Stand: Ersetzt V 7610-2-38 v. 6.10.2010 I 1374
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000100000)
 
 Auf Grund des § 25a Absatz 6 des Kreditwesengesetzes, der durch
 Artikel 1 Nummer 48 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395)
@@ -43,9 +44,11 @@ Bundesbank und nach Anhörung der Spitzenverbände der Institute:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000304130)
 
 (1) Diese Verordnung gilt vorbehaltlich des Absatzes 3 für alle
 Institute gemäß § 1 Absatz 1b und § 53 Absatz 1 des
@@ -130,6 +133,7 @@ Kreditwesengesetzes sind, wenn
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000403128)
 
 (1) Vergütung im Sinne dieser Verordnung sind
 
@@ -302,9 +306,11 @@ Kreditwesengesetzes.
 
 
 ## Abschnitt 2 - Allgemeine Anforderungen an Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNG000200000)
 
 
 ### § 3 Verantwortlichkeiten; Beteiligung der Kontrolleinheiten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000503128)
 
 (1) Die Geschäftsleitung ist für die angemessene Ausgestaltung der
 Vergütungssysteme der Mitarbeiter und Mitarbeiterinnen, die keine
@@ -338,6 +344,7 @@ Risikoträgerinnen gemäß § 27 Absatz 2 Satz 1 angemessen zu beteiligen.
 
 
 ### § 4 Ausrichtung an der Strategie des Instituts
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000601118)
 
 Die Vergütungsstrategie und die Vergütungssysteme müssen auf die
 Erreichung der Ziele ausgerichtet sein, die in den Geschäfts- und
@@ -348,6 +355,7 @@ Erreichen der strategischen Ziele unterstützen.
 
 
 ### § 5 Angemessenheit der Vergütung und der Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000704128)
 
 (1) Die Vergütungssysteme sind angemessen ausgestaltet, wenn
 
@@ -523,6 +531,7 @@ Anforderungen der §§ 20 und 22 einzuhalten.
 
 
 ### § 6 Verhältnis von variabler zu fixer Vergütung; Billigung einer höheren Obergrenze gemäß § 25a Absatz 5 Satz 5 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000802128)
 
 (1) Besteht die Vergütung aus einer variablen und einer fixen
 Vergütung, müssen diese in einem angemessenen Verhältnis zueinander
@@ -572,6 +581,7 @@ gemäß § 27 Absatz 1 steht.
 
 
 ### § 7 Voraussetzungen für die Festsetzung des Gesamtbetrags der variablen Vergütung und die Erdienung zurückbehaltener Vergütungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE000903128)
 
 (1) Der Gesamtbetrag der variablen Vergütungen gemäß § 45 Absatz 2
 Nummer 10 des Kreditwesengesetzes muss in einem formalisierten,
@@ -613,6 +623,7 @@ zulässig.
 
 
 ### § 8 Verbot der Einschränkung oder Aufhebung der Risikoadjustierung
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001003128)
 
 (1) Die Risikoadjustierung der variablen Vergütung darf seitens der
 Institute nicht durch Absicherungs- oder sonstige Gegenmaßnahmen
@@ -639,6 +650,7 @@ Vergütungsbeauftragten gemäß den §§ 23 bis 25.
 
 
 ### § 9 Zusätzliche Anforderungen an die Vergütung der Mitarbeiter und Mitarbeiterinnen der Kontrolleinheiten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001101118)
 
 (1) Die Vergütung der Mitarbeiter und Mitarbeiterinnen der
 Kontrolleinheiten muss so ausgestaltet sein, dass eine angemessene
@@ -650,6 +662,7 @@ Schwerpunkt auf dem fixen Vergütungsbestandteil liegt.
 
 
 ### § 10 Zusätzliche Anforderungen an die Vergütung von Geschäftsleitern und Geschäftsleiterinnen
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001201118)
 
 (1) Das Verwaltungs- oder Aufsichtsorgan hat bei der Festsetzung der
 Vergütung des einzelnen Geschäftsleiters oder der einzelnen
@@ -680,6 +693,7 @@ spätere Änderungen bedürfen der Schriftform.
 
 
 ### § 11 Grundsätze zu den Vergütungssystemen in den Organisationsrichtlinien; Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001302128)
 
 (1) Das Institut hat in seinen Organisationsrichtlinien Grundsätze zu
 den Vergütungssystemen festzulegen. Die Grundsätze umfassen
@@ -735,6 +749,7 @@ die Zulagen
 
 
 ### § 12 Überprüfung und Anpassung der Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001403128)
 
 (1) Die Vergütungssysteme und die zugrunde gelegten
 Vergütungsparameter sind von dem Institut zumindest einmal jährlich
@@ -754,6 +769,7 @@ zur Behebung der festgestellten Mängel sind zu dokumentieren.
 
 
 ### § 13 Information über die Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001501118)
 
 (1) Die Mitarbeiter und Mitarbeiterinnen müssen schriftlich über die
 Ausgestaltung der für sie maßgeblichen Vergütungssysteme und
@@ -768,6 +784,7 @@ Mitarbeitern und Mitarbeiterinnen zugänglich zu machen.
 
 
 ### § 14 Anpassung bestehender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001601118)
 
 (1) Das Institut hat darauf hinzuwirken, dass bestehende
 
@@ -790,6 +807,7 @@ Berücksichtigung der konkreten Erfolgsaussichten zu erfolgen.
 
 
 ### § 15 Aufgaben des Vergütungskontrollausschusses
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001703128)
 
 (1) Hat das Institut einen Vergütungskontrollausschuss gemäß § 25d
 Absatz 7 Satz 1, 2 und 6 des Kreditwesengesetzes eingerichtet, so
@@ -862,6 +880,7 @@ Verwaltungsorgan bei der Erstellung der Beschlussvorschläge gemäß §
 
 
 ### § 16 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001803128)
 
 (1) Unbeschadet der Offenlegungspflichten gemäß Artikel 450 der
 Verordnung (EU) Nr. 575/2013 haben bedeutende Institute gemäß § 1
@@ -946,13 +965,16 @@ entsprechend angewendet werden.
 
 
 ## Abschnitt 3 - Besondere Anforderungen an bedeutende Institute
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNG000301118)
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE001902118)
 
 
 
 ### § 18 Anforderungen an Vergütungssysteme von Risikoträgern und Risikoträgerinnen in bedeutenden Instituten; Risikoausrichtung der Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002003128)
 
 (1) Vergütungssysteme für Risikoträger und Risikoträgerinnen
 bedeutender Institute gemäß § 1 Absatz 3c des Kreditwesengesetzes
@@ -1012,6 +1034,7 @@ Risikoträger oder die Risikoträgerin
 
 
 ### § 19 Ermittlung der variablen Vergütung (Ex-ante-Risikoadjustierung)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002101118)
 
 (1) Bei der Ermittlung der variablen Vergütung sind der Gesamterfolg
 des Instituts oder, falls erforderlich, der Gruppe sowie der
@@ -1046,6 +1069,7 @@ Laufzeiten der Risiken nicht zwingend nachgebildet werden müssen.
 
 
 ### § 20 Zurückbehaltung, Anspruchs- und Auszahlungsvoraussetzungen, Rückforderung (Ex-post-Risikoadjustierung)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002202128)
 
 (1) Die Auszahlung eines erheblichen Teils, mindestens aber von 40
 Prozent, der variablen Vergütung eines Risikoträgers oder einer
@@ -1143,6 +1167,7 @@ erdienten Vergütungsbestandteil endet.
 
 
 ### § 21 Vergütungen im Zusammenhang mit Ausgleichszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002301118)
 
 Vergütungen im Zusammenhang mit Ausgleichszahlungen für entgangene
 Ansprüche aus vorherigen Beschäftigungsverhältnissen gelten als
@@ -1152,6 +1177,7 @@ den langfristigen Interessen des Instituts in Einklang stehen.
 
 
 ### § 22 Zusätzliche Leistungen zur Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002401118)
 
 (1) Zusätzliche Leistungen zur Altersversorgung, die anlässlich einer
 nicht ruhestandsbedingten Beendigung des Arbeits-,
@@ -1175,6 +1201,7 @@ Altersversorgung gilt § 7 entsprechend.
 
 
 ### § 23 Vergütungsbeauftragte in bedeutenden Instituten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002501118)
 
 (1) Bedeutende Institute haben eine angemessene, dauerhafte und
 wirksame Kontrolle der Vergütung der Mitarbeiter und Mitarbeiterinnen
@@ -1232,6 +1259,7 @@ bestimmen, auf den oder die die Regelungen der Absätze 1 bis 5 und der
 
 
 ### § 24 Aufgaben der Vergütungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002602128)
 
 (1) Vergütungsbeauftragte haben die Angemessenheit der
 Vergütungssysteme der Mitarbeiter und Mitarbeiterinnen, die keine
@@ -1276,6 +1304,7 @@ zu erstatten.
 
 
 ### § 25 Personal- und Sachausstattung der Vergütungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002701118)
 
 (1) Die Institute müssen Vergütungsbeauftragten eine angemessene
 quantitative und qualitative Personal- und Sachausstattung zur
@@ -1293,6 +1322,7 @@ Ausübung ihrer Tätigkeit erforderlichen Befugnissen auszustatten.
 
 
 ### § 26 Vergütungsbeauftragte in den Organisationsrichtlinien
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002801118)
 
 Die Aufgaben und die organisatorische Einbindung des
 Vergütungsbeauftragten sind in den Organisationsrichtlinien des
@@ -1300,9 +1330,11 @@ Instituts gemäß § 11 darzustellen.
 
 
 ## Abschnitt 4 - Ergänzende Vorschriften für Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNG000401118)
 
 
 ### § 27 Gruppenweite Regelung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE002905130)
 
 (1) Das übergeordnete Unternehmen einer Gruppe hat eine gruppenweite
 Vergütungsstrategie festzulegen, welche die Grundsätze für
@@ -1392,13 +1424,16 @@ Unternehmen durchgeführt werden.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNG000500000)
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE003002128)
 
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/institutsvergv_2014/BJNR427000013.html#BJNR427000013BJNE003100000)
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt
 die Instituts-Vergütungsverordnung vom 6. Oktober 2010 (BGBl. I S.

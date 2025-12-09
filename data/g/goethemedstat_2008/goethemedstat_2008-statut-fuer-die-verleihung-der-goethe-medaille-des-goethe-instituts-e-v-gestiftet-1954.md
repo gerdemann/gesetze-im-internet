@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000100000)
 
 Die Goethe-Medaille wird vom Präsidium des Goethe-Instituts e.V. für
 besondere Verdienste im Bereich der internationalen Kulturbeziehungen
@@ -26,6 +27,7 @@ Sprache im Ausland.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000200000)
 
 In der Regel wird die Goethe-Medaille verliehen für besondere
 wissenschaftliche oder literarische, didaktische, organisatorische
@@ -34,18 +36,21 @@ Kultur der Partnerländer zugute kommen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000300000)
 
 Die Goethe-Medaille kann Ausländern jeder Nationalität verliehen
 werden, im Ausnahmefall auch Deutschen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000400000)
 
 Die Verleihung erfolgt jährlich zum 28. August, dem Geburtstag
 Goethes.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000500000)
 
 Über die Verleihung der Goethe-Medaille stellt die Präsidentin oder
 der Präsident des Goethe-Instituts e.V. eine Urkunde aus. Medaille und
@@ -59,12 +64,14 @@ Zweigstelle überreicht werden.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000600000)
 
 Die Goethe-Medaille wird Eigentum des Empfängers und geht bei seinem
 Tode in den Besitz der Erben über.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/g_themedstat_2008/BJNR052300009.html#BJNR052300009BJNE000700000)
 
 Besondere Pflichten und Rechte sind mit der Verleihung der Goethe-
 Medaille nicht verbunden.

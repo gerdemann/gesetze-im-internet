@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## - - Zu § 5 Abs. 1 Nr. 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNG000102301)
 
 
 
 ### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE000502301)
 
 Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen
 sind nur dann eine soziale Einrichtung im Sinne des § 5 Abs. 1 Nr. 3
@@ -54,6 +56,7 @@ erfüllen:
 
 
 ### § 2 Kassen mit Rechtsanspruch der Leistungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE000605301)
 
 (1) Bei rechtsfähigen Pensions- oder Sterbekassen, die den
 Leistungsempfängern einen Rechtsanspruch gewähren, dürfen die jeweils
@@ -134,6 +137,7 @@ Beträge nicht übersteigen:
 
 
 ### § 3 Kassen ohne Rechtsanspruch der Leistungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE000702301)
 
 Rechtsfähige Unterstützungskassen, die den Leistungsempfängern keinen
 Rechtsanspruch gewähren, müssen die folgenden Voraussetzungen
@@ -157,10 +161,12 @@ erfüllen:
 
 
 ## - - Zu § 5 Abs. 1 Nr. 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNG000202301)
 
 
 
 ### § 4 Kleinere Versicherungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE000806377)
 
 Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210
 des Versicherungsaufsichtsgesetzes sind von der Körperschaftsteuer
@@ -188,18 +194,22 @@ befreit, wenn
 
 
 ## - - Zu § 26 Abs. 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNG000401301)
 
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE001202140)
 
 
 
 ## - - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNG000303301)
 
 
 
 ### § 6 Anwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE000907377)
 
 Die Körperschaftsteuer-Durchführungsverordnung in der am 1. Januar
 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016
@@ -207,10 +217,12 @@ anzuwenden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE001102301)
 
 (Inkrafttreten)
 
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kstdv_1977/BJNR008480977.html#BJNR008480977BJNE001302140)
 
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baazustv/BJNR102200000.html#BJNR102200000BJNE000100310)
 
 Auf Grund
 
@@ -38,6 +39,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/baazustv/BJNR102200000.html#BJNR102200000BJNE000200310)
 
 Die Zuständigkeit, die nach § 332a Abs. 3 und § 335b Abs. 2 des
 Lastenausgleichsgesetzes im Rahmen des Aufgebotsverfahrens
@@ -46,6 +48,7 @@ auf das Bundesausgleichsamt übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/baazustv/BJNR102200000.html#BJNR102200000BJNE000501160)
 
 Die Zuständigkeit zur Erteilung einheitlicher Bescheide nach § 335b
 Absatz 1, § 349 Absatz 3 Satz 3 des Lastenausgleichsgesetzes über die
@@ -56,11 +59,13 @@ dem 30. Juni 2009 Kenntnis vom Rückforderungstatbestand erlangt hat.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/baazustv/BJNR102200000.html#BJNR102200000BJNE000303160)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/baazustv/BJNR102200000.html#BJNR102200000BJNE000400310)
 
 Der Bundesrat hat zugestimmt.
 

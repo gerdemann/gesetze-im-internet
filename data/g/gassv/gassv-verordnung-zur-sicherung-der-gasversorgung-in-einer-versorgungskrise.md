@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000100308)
 
 Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3
 sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975
@@ -29,6 +30,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Lastverteilung
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000202128)
 
 (1) Zur Deckung des lebenswichtigen Bedarfs an Gas können die
 zuständigen Stellen als Lastverteiler Verfügungen erlassen
@@ -98,6 +100,7 @@ ursprünglichen Inhalt wieder auf.
 
 
 ## § 1a Digitale Plattform
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE001001128)
 
 (1) Der Marktgebietsverantwortliche stellt für die Abwicklung von
 Maßnahmen nach § 1 Absatz 1 ab dem 1. Oktober 2022 eine digitale
@@ -177,6 +180,7 @@ Monats nach dem 5. April 2023 behoben wurde.
 
 
 ## § 2 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000304128)
 
 (1) Unternehmen und Betriebe, die Gas gewinnen, herstellen oder
 einführen und in das Netz der öffentlichen Versorgung abgeben können,
@@ -200,6 +204,7 @@ Absatz 1 verlangen.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000401128)
 
 (1) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder
 verflüssigte Gase, die für eine Verwendung in der öffentlichen
@@ -210,6 +215,7 @@ für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000502128)
 
 (1) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 Buchstabe a des
 Energiesicherungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -245,6 +251,7 @@ Energiesicherungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 5 Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000604128)
 
 Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des
 Energiesicherungsgesetzes ist die Bundesnetzagentur für Elektrizität,
@@ -252,11 +259,13 @@ Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000701301)
 
 (weggefallen)
 
 
 ## § 7 Inkrafttreten und Anwendbarkeit der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000802128)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -281,6 +290,7 @@ Satz 1 Nummer 2 des Energiesicherungsgesetzes.
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/gassv/BJNR005170982.html#BJNR005170982BJNE000900308)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 519
 -------------------------------------

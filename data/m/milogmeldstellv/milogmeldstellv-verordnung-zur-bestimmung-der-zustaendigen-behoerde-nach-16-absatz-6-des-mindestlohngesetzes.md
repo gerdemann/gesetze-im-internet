@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milogmeldstellv/BJNR182300014.html#BJNR182300014BJNE000100000)
 
 Auf Grund des § 16 Absatz 6 des Mindestlohngesetzes vom 11. August
 2014 (BGBl. I S. 1348) verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Meldestelle
+[Direktlink](https://www.gesetze-im-internet.de/milogmeldstellv/BJNR182300014.html#BJNR182300014BJNE000202126)
 
 Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im
 Sinne von § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3 Satz 1
@@ -33,6 +35,7 @@ des Mindestlohngesetzes.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milogmeldstellv/BJNR182300014.html#BJNR182300014BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 

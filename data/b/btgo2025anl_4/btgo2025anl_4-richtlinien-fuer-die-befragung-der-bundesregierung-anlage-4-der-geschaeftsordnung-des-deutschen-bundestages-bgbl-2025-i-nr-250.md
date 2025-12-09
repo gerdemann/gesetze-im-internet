@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX) Richtlinien für die Befragung der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_4/BJNR0FA0F0025.html#BJNR0FA0F0025BJNE000100000)
 
 
 1.  Eine Befragung der Bundesregierung findet in Sitzungswochen mittwochs

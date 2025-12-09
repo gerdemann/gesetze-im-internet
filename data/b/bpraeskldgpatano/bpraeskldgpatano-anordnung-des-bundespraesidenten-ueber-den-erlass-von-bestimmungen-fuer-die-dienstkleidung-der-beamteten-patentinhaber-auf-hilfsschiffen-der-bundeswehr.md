@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgpatano/BJNR007500963.html#BJNR007500963BJNE000100303)
 
 Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister
 der Verteidigung die Ausübung der Befugnis, Bestimmungen über die

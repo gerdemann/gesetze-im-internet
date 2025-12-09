@@ -21,17 +21,20 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000200311)
 
 -
 
 
 ## Art 2 Besitzstand
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000301306)
 
 (1) Der Elfte Abschnitt des Schwerbehindertengesetzes in der durch
 Artikel 1 geänderten Fassung, geändert durch Artikel 20 des
@@ -111,6 +114,7 @@ gezählt.
 
 
 ## Art 3 Frühere Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000400311)
 
 (1) Als Ausweise im Sinne des § 57 Abs. 1 des
 Schwerbehindertengesetzes in der durch Artikel 1 geänderten Fassung
@@ -129,6 +133,7 @@ gekennzeichneten Ausweis ersetzt.
 
 
 ## Art 4 Erstattungsregelungen für die Jahre 1979 und 1980
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000500311)
 
 (1) Für die Jahre 1979 und 1980 werden die Vomhundertsätze der
 nachgewiesenen Fahrgeldeinnahmen auf der Grundlage der Ende 1979
@@ -172,15 +177,18 @@ Wochen nach Inkrafttreten dieses Gesetzes gezahlt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000600311)
 
 -
 
 
 ## (XXXX) Art 6 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000700311)
 
 
 
 ## Art 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000800311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -189,6 +197,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/unbefg_1979/BJNR009890979.html#BJNR009890979BJNE000900311)
 
 (1) Dieses Gesetz tritt am 1. Oktober 1979 in Kraft.
 

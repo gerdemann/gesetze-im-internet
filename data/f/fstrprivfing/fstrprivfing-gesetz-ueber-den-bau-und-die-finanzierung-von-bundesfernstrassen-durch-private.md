@@ -26,6 +26,7 @@ Mittelbare änderung durch
 
 
 ## § 1 Bau und Finanzierung durch Private
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000203308)
 
 (1) Zur Verstärkung von Investitionen in das Bundesfernstraßennetz
 können Private Aufgaben des Neu- und Ausbaus von Bundesfernstraßen auf
@@ -47,6 +48,7 @@ Gebühren (Gebühren) oder privatrechtliche Entgelte (Entgelte).
 
 
 ## § 2 Mautgebührenerhebung durch Private; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000308124)
 
 (1) Die Landesregierungen werden ermächtigt, einen Privaten, der sich
 vertraglich zur Übernahme von Aufgaben nach § 1 Abs. 2 für ein in der
@@ -139,6 +141,7 @@ auszuhängen.
 
 
 ## § 3 Mautgebühren
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000405305)
 
 (1) Mautgebühren nach § 2 können erhoben werden für die Benutzung von
 nach Maßgabe dieses Gesetzes errichteten
@@ -221,6 +224,7 @@ zu behandeln sind.
 
 
 ## § 4 Mautbemessungs- und -kalkulationsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001402305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
@@ -231,6 +235,7 @@ Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
 
 
 ## § 5 Mautgebührenverordnung
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001505124)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 für die in einer Rechtsverordnung nach § 3 Abs. 1 Satz 2 jeweils
@@ -292,6 +297,7 @@ Landesstraßenbaubehörde zu richten.
 
 
 ## § 6 Mautgebührengenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001603116)
 
 (1) Erklärt der Private im Falle des § 2 Abs. 2 oder beantragt der
 Private im Falle des § 2 Abs. 3 die Mautgebühr als Entgelt zu erheben,
@@ -340,6 +346,7 @@ beantragt.
 
 
 ## § 7 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000503308)
 
 Von der Mautgebühr sind Fahrzeuge der Streitkräfte, des Zivil- und
 Katastrophenschutzes, der Feuerwehr und anderer Notdienste, der
@@ -353,6 +360,7 @@ Mautgebührenbefreiung maßgebend.
 
 
 ## § 8 Schuldner der Mautgebühr
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000603308)
 
 Schuldner der Mautgebühr (Schuldner) ist, wer
 
@@ -370,6 +378,7 @@ Mehrere Schuldner haften als Gesamtschuldner.
 
 
 ## § 9 Entrichtung der Mautgebühr
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000706126)
 
 (1) Der Schuldner hat die Mautgebühr in der sich aus der
 Rechtsverordnung nach § 5 Abs. 1 Satz 1 oder der Genehmigung nach § 6
@@ -462,6 +471,7 @@ eingesetzten Verfahren.
 
 
 ## § 10 Nachweis und Kontrolle der Mautgebührenentrichtung
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001104126)
 
 (1) Auf Verlangen des Privaten hat der Schuldner die ordnungsgemäße
 Entrichtung der Mautgebühr nachzuweisen. Hat der Schuldner im Voraus
@@ -476,6 +486,7 @@ Erstellung des Gebührenbescheids verarbeiten.
 
 
 ## § 11 Datenlöschungen, Geschäftsstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001204126)
 
 (1) Der Private hat
 
@@ -518,6 +529,7 @@ verändern und verwenden.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001306126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 9 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 5 Absatz 1
@@ -537,6 +549,7 @@ Landesstraßenbaubehörde für Ordnungswidrigkeiten nach Absatz 1.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE001702305)
 
 (1) Vorbehaltlich des Absatzes 2 sind Rechtsverordnungen auf Grund des
 § 3a Abs. 2 in Verbindung mit § 3 Abs. 2 bis 5 in der jeweils bis zum
@@ -568,6 +581,7 @@ aufzuheben.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/fstrprivfing/BJNR224300994.html#BJNR224300994BJNE000904308)
 
 (Inkrafttreten)
 

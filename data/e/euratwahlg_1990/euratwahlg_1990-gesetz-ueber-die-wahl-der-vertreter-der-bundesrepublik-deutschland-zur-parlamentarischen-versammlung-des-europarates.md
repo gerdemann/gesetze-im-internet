@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euratwahlg_1990/BJNR025860990.html#BJNR025860990BJNE000100308)
 
 (1) Die Vertreter der Bundesrepublik Deutschland in der
 Parlamentarischen Versammlung des Europarates und ihre Stellvertreter
@@ -36,6 +37,7 @@ Parlamentarische Versammlung.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euratwahlg_1990/BJNR025860990.html#BJNR025860990BJNE000200308)
 
 Das Verfahren der Wahl sowie die Nachfolge im Fall des Ausscheidens
 eines Vertreters oder Stellvertreters infolge Tod oder aus sonstigen
@@ -43,12 +45,14 @@ Gründen bestimmt der Deutsche Bundestag.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euratwahlg_1990/BJNR025860990.html#BJNR025860990BJNE000300308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/euratwahlg_1990/BJNR025860990.html#BJNR025860990BJNE000400308)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

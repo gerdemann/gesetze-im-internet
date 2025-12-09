@@ -24,12 +24,14 @@ Stand: G tritt gem. § 21 Abs. 1 Satz 2 iVm Abschn. I Bek. v. 4.11.1996 II 2618 
 Stand: §§ 1 bis 7, 12, 15 Abs. 1 Nr. 1 Buchst. b u. Nr. 3, Abs. 2 u. 3, § 16 Abs. 1 Nr. 1, Abs. 5 u. 6 u. §§ 19 u. 20 sind gem. § 21 Abs. 1 Satz 1 iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 16.11.1996 in Kraft getreten.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000202377)
 
 Im Sinne dieses Gesetzes bedeuten:
 
@@ -159,6 +161,7 @@ Im Sinne dieses Gesetzes bedeuten:
 
 
 ## § 2 Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000301377)
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung
 des Bundesrates die Beschränkungen, die zur Erfüllung der
@@ -226,6 +229,7 @@ erlassen werden
 
 
 ## § 3 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000401377)
 
 Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des
 Bundesrates Meldepflichten im Zusammenhang mit Tätigkeiten nach § 2
@@ -238,6 +242,7 @@ für die Übermittlung bestimmt werden.
 
 
 ## § 3a Weitere Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002300377)
 
 (1) Wer eine Sache auffindet, hat dies unter Angabe des Fundortes
 unverzüglich der nach Landesrecht zuständigen Polizeibehörde zu
@@ -364,6 +369,7 @@ Bundesrates
 
 
 ## § 4 Sicherungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000501377)
 
 Wer eine Tätigkeit ausübt, die nach einer auf Grund der §§ 2 und 3
 erlassenen Rechtsverordnung Beschränkungen unterworfen, melde- oder
@@ -373,6 +379,7 @@ oder unbefugt verwendet werden.
 
 
 ## § 5 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000602377)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist für die
 Erteilung von Genehmigungen nach der auf Grund des § 2 Absatz 1 Satz 2
@@ -399,6 +406,7 @@ Behörde sicherstellen.
 
 
 ## § 6 Verarbeitung und Geheimhaltung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000707377)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle und das Zentrum
 für Verifikationsaufgaben der Bundeswehr dürfen die ihnen bei der
@@ -484,6 +492,7 @@ Schutz vertraulicher Daten einzuhalten.
 
 
 ## § 6a Aufklärung von Transferdiskrepanzen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002400377)
 
 (1) Wer eine Chemikalie einführt oder ausführt und dafür nach einer
 auf Grund des § 3 erlassenen Rechtsverordnung meldepflichtig ist, hat
@@ -523,6 +532,7 @@ werden.
 
 
 ## § 6b Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002500377)
 
 (1) Wer
 
@@ -583,6 +593,7 @@ ist.
 
 
 ## § 7 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000802377)
 
 (1) Wer einer Genehmigungspflicht oder Meldepflicht nach einer auf
 Grund der §§ 2 oder 3 erlassenen Rechtsverordnung unterliegt, ist zur
@@ -631,6 +642,7 @@ Auskunft zu belehren.
 
 
 ## § 8 Duldung und Unterstützung von Inspektionen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE000902377)
 
 (1) Der Inhaber eines Grundstücks oder einer Räumlichkeit, auf dem
 oder in der sich nach einer auf Grund der §§ 2 oder 3 erlassenen
@@ -659,6 +671,7 @@ einzureichen, die nach § 9 oder 9a die Begleitgruppe gestellt hat.
 
 
 ## § 9 Begleitgruppe
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001002377)
 
 (1) Inspektionen und Untersuchungen nach dem Übereinkommen dürfen nur
 in Anwesenheit einer Begleitgruppe stattfinden. Bei Inspektionen nach
@@ -693,6 +706,7 @@ Absatz 4 gilt entsprechend.
 
 
 ## § 9a Begleitgruppe bei Verdachtsinspektionen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002600377)
 
 (1) Bei Verdachtsinspektionen nach Artikel IX des Übereinkommens,
 deren Schwerpunkt auf dem militärischen Bereich oder dem
@@ -720,6 +734,7 @@ Inspektionsersuchens, wo der Schwerpunkt der Inspektion liegt.
 
 
 ## § 10 Inspektionsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001102377)
 
 (1) Soweit es zur Durchführung von Inspektionen oder Untersuchungen
 nach dem Übereinkommen erforderlich ist, ist die Inspektionsgruppe
@@ -855,6 +870,7 @@ speichern, soweit dies zur Erfüllung ihrer Aufgaben nach dem
 
 
 ## § 11 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001202377)
 
 (1) Ein nach § 8 Absatz 1 oder 2 Verpflichteter hat die
 Inspektionsgruppe und die Begleitgruppe bei der Durchführung sowie die
@@ -986,6 +1002,7 @@ Auskunft zu belehren.
 
 
 ## § 12 Durchführung von Inspektionen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001300320)
 
 Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates Einzelheiten der Befugnisse und Mitwirkungspflichten nach
@@ -994,6 +1011,7 @@ in § 8 genannten Inspektionen und Untersuchungen regeln.
 
 
 ## § 13 Vereinbarungen über Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001406377)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle wird ermächtigt,
 Vereinbarungen über Einrichtungen mit der Organisation auszuhandeln
@@ -1009,6 +1027,7 @@ vorherige Zustimmung ein.
 
 
 ## § 14 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001502377)
 
 (1) Verletzt ein Mitglied der Inspektionsgruppe während des
 Aufenthalts der Inspektionsgruppe in der Bundesrepublik Deutschland in
@@ -1056,6 +1075,7 @@ Vorschrift ist der ordentliche Rechtsweg eröffnet.
 
 
 ## § 14a Nichterreichen der Inspektionsziele
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002700377)
 
 Werden die Inspektionsziele nach den Teilen VI bis IX des
 Verifikationsanhangs zu dem Übereinkommen nicht erreicht, so hat der
@@ -1081,6 +1101,7 @@ entsprechend.
 
 
 ## § 15 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001602377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1145,6 +1166,7 @@ Geschäftsbereich.
 
 
 ## § 16 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001701377)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1199,6 +1221,7 @@ Geldstrafe.
 
 
 ## § 17 Strafvorschriften gegen den Mißbrauch als chemische Waffen
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001801377)
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
 
@@ -1229,6 +1252,7 @@ ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ## § 18 Auslandstaten Deutscher
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE001901377)
 
 § 16 Absatz 1 Nummer 2, Absatz 5 und § 17 gelten, unabhängig vom Recht
 des Tatorts, auch für Taten, die im Ausland begangen werden, wenn der
@@ -1236,6 +1260,7 @@ Täter Deutscher ist.
 
 
 ## § 19 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002001377)
 
 (1) Ist eine Ordnungswidrigkeit nach § 15 oder eine Straftat nach den
 §§ 16 oder 17 begangen worden, so können
@@ -1258,6 +1283,7 @@ Ordnungswidrigkeiten sind anzuwenden.
 
 
 ## § 20 Befugnisse der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002102377)
 
 (1) Die Staatsanwaltschaft und die Verwaltungsbehörde können bei
 Straftaten und Ordnungswidrigkeiten nach den §§ 15 bis 17 Ermittlungen
@@ -1288,6 +1314,7 @@ anordnen.
 
 
 ## § 20a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002800377)
 
 Bis zum Erlass einer Rechtsverordnung nach § 3a Absatz 7 sind die in §
 6 Absatz 1 Nummer 1 der Ausführungsverordnung zum
@@ -1298,6 +1325,7 @@ Ausführungsverordnung zum Chemiewaffenübereinkommen gilt entsprechend.
 
 
 ## § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/cw_ag/BJNR195400994.html#BJNR195400994BJNE002201377)
 
 (1) Die §§ 1 bis 7, 12, 15 Absatz 1 Nummer 1 Buchstabe b und Nummer 3,
 Absatz 2 und 3, § 16 Absatz 1 Nummer 1, Absatz 5 und 6 und die §§ 19

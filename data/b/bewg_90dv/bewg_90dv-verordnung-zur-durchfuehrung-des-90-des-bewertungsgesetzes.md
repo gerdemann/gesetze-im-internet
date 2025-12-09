@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000100306)
 
 Auf Grund des § 90 Abs. 2 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
@@ -27,6 +28,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000200306)
 
 In den Fällen, in denen die Einheitswerte der bebauten Grundstücke im
 Sachwertverfahren zu ermitteln und die Wertverhältnisse vom 1. Januar
@@ -34,6 +36,7 @@ Sachwertverfahren zu ermitteln und die Wertverhältnisse vom 1. Januar
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000300306)
 
 (1) Die Wertzahl zur Angleichung des Ausgangswerts (§ 83 des Gesetzes)
 an den gemeinen Wert wird in einem Hundertsatz ausgedrückt. Sie ergibt
@@ -434,6 +437,7 @@ kommt. Dies gilt nicht für Teile eines Fabrikgrundstücks.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000400306)
 
 Für Fabrikgrundstücke, bei denen der gesamte Betrieb stilliegt, gilt
 folgendes:
@@ -455,6 +459,7 @@ folgendes:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000500306)
 
 (1) Für Geschäftsgrundstücke und für gemischtgenutzte Grundstücke im
 Zonenrandgebiet ermäßigt sich die Wertzahl, die sich nach den §§ 2 und
@@ -528,12 +533,14 @@ Wertzahl als 50 vom Hundert ergeben.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000601301)
 
 Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten
 nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bewg_90dv/BJNR005530966.html#BJNR005530966BJNE000700306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

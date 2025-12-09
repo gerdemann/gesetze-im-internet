@@ -17,11 +17,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000200000)
 
 Unter dem Namen „Bundeskanzler-Helmut-Schmidt-Stiftung“ wird mit Sitz
 in Hamburg eine rechtsfähige Stiftung des öffentlichen Rechts
@@ -30,6 +32,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000300000)
 
 (1) Zweck der Stiftung ist es, das Andenken an das politische Wirken
 Helmut Schmidts für Freiheit und Einheit des deutschen Volkes, für den
@@ -91,6 +94,7 @@ der Friedrich-Ebert-Stiftung e. V. und dem Bundesarchiv zusammen.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000400000)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -108,6 +112,7 @@ im Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000500000)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der
@@ -116,6 +121,7 @@ Bundesbehörde bedarf. Das Gleiche gilt für die Änderung der Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000600000)
 
 Organe der Stiftung sind
 
@@ -129,6 +135,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000700000)
 
 (1) Das Kuratorium besteht aus sechs Mitgliedern, die von der
 Bundespräsidentin oder vom Bundespräsidenten für die Dauer von fünf
@@ -157,6 +164,7 @@ des Vorstands. Das Nähere regelt die Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000800000)
 
 (1) Der Vorstand besteht aus drei Mitgliedern, sie werden vom
 Kuratorium mit einer Mehrheit von zwei Dritteln seiner Mitglieder
@@ -184,6 +192,7 @@ außergerichtlich.
 
 
 ## § 8 Internationaler Beirat
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE000900000)
 
 (1) Zur Beratung des Kuratoriums und des Vorstands bei der Erfüllung
 des Stiftungszwecks kann ein Internationaler Beirat berufen werden.
@@ -200,12 +209,14 @@ Kuratoriums ein und leitet sie.
 
 
 ## § 9 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE001000000)
 
 Die Mitglieder des Kuratoriums und des Vorstands sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ## § 10 Aufsicht, Haushalt, Rechtsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE001100000)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und
 Medien zuständigen obersten Bundesbehörde. Bei der Erfüllung ihrer
@@ -221,6 +232,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 11 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE001200000)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 wahrgenommen.
@@ -234,6 +246,7 @@ haben, verliehen werden.
 
 
 ## § 12 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE001300000)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwands nach näherer
 Bestimmung der Satzung Gebühren und Auslagen für die Benutzung von
@@ -241,11 +254,13 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 13 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE001400000)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hschmidtstiftg/BJNR235800016.html#BJNR235800016BJNE001500000)
 
 Dieses Gesetz tritt am 1. Januar 2017 in Kraft.
 

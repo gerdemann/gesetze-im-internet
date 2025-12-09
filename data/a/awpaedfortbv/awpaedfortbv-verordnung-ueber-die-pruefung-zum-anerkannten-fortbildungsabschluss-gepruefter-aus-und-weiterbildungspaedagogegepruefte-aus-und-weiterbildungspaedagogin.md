@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3
@@ -34,6 +35,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000200000)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die im
 Rahmen der beruflichen Fortbildung zum Geprüften Aus- und
@@ -79,6 +81,7 @@ Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -108,6 +111,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000401128)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -167,6 +171,7 @@ Die Prüfung wird schriftlich durchgeführt.
 
 
 ## § 4 Durchführung der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000501128)
 
 (1) Die schriftliche Prüfung im Prüfungsteil „Lernprozesse und
 Lernbegleitung“ ist anhand einer komplexen Situationsbeschreibung mit
@@ -185,6 +190,7 @@ geführt und kommuniziert werden kann.
 
 
 ## § 5 Durchführung der Prüfung im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000600000)
 
 Die schriftliche Prüfung im Prüfungsteil „Planungsprozesse in der
 beruflichen Bildung“ wird auf Grund einer komplexen
@@ -195,6 +201,7 @@ und 280 Minuten nicht überschreiten.
 
 
 ## § 6 Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000701128)
 
 (1) Mit der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“ kann
 erst nach Bestehen der Prüfungsteile nach § 3 Absatz 1 Nummer 1 und 2
@@ -226,6 +233,7 @@ Präsentation in der Regel nicht länger als 15 Minuten.
 
 
 ## § 7 Inhalte der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000800000)
 
 (1) Im Handlungsbereich „Gestaltung von Lernprozessen und
 Lernbegleitung“ soll die Fähigkeit nachgewiesen werden, Prozesse
@@ -328,6 +336,7 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 8 Inhalte der Prüfung im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE000900000)
 
 (1) Im Handlungsbereich „Organisation und Planung beruflicher
 Bildungsprozesse“ soll die Fähigkeit nachgewiesen werden, komplexe
@@ -446,6 +455,7 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 9 Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001000000)
 
 Im Prüfungsteil „Berufspädagogisches Handeln“ soll die Fähigkeit
 nachgewiesen werden, den Prozess einer Ausbilderfunktion im
@@ -464,6 +474,7 @@ anleitende und beratende Ausbilderfunktionen.
 
 
 ## § 10 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001101128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung
@@ -477,6 +488,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 11 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001202128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -518,6 +530,7 @@ das arithmetische Mittel zu berechnen.
 
 
 ## § 12 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001800128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
@@ -537,6 +550,7 @@ ist die Gesamtnote.
 
 
 ## § 13 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001900128)
 
 (1) Wer die Prüfung nach § 12 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -563,6 +577,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 14 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001301128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -582,6 +597,7 @@ wiederholt werden.
 
 
 ## § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001401128)
 
 Die Prüfungen zu dem Abschluss „Berufspädagoge/Berufspädagogin für
 Aus- und Weiterbildung IHK“ können bis zum 31. Dezember 2013 nach den
@@ -589,12 +605,14 @@ bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE001501128)
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
 (zu den §§ 11 und 12)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE002000128)
 
 (Fundstelle: BGBl. I 2019, 2326 – 2327)
 
@@ -896,6 +914,7 @@ Diese Verordnung tritt am 1. September 2009 in Kraft.
 (zu § 13)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/awp_dfortbv/BJNR293400009.html#BJNR293400009BJNE002100128)
 
 (Fundstelle: BGBl. I 2019, 2328)
 

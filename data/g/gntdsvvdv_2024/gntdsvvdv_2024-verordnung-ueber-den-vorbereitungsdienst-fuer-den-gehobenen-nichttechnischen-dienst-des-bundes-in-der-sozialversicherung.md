@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 2030-8-5-4 v. 20.11.2014 I 1752 (GntDSVVDV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000100000)
 
 Auf Grund des § 26 Absatz 2 des Bundesbeamtengesetzes, der durch
 Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250)
@@ -31,9 +32,11 @@ Knappschaft-Bahn-See:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNG000100000)
 
 
 ### § 1 Bachelorstudium
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000300000)
 
 Der Studiengang „Sozialversicherungsrecht“ am Fachbereich
 Sozialversicherung der Hochschule des Bundes für öffentliche
@@ -45,6 +48,7 @@ Dienst des Bundes in der Sozialversicherung ist.
 
 
 ### § 2 Studienziele
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000400000)
 
 Das Studium befähigt die Studierenden, die Aufgaben des gehobenen
 nichttechnischen Dienstes des Bundes in der Sozialversicherung mit
@@ -56,6 +60,7 @@ demokratischen und sozialen Rechtsstaat vor.
 
 
 ### § 3 Einstellungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000500000)
 
 Einstellungsbehörden sind die Deutsche Rentenversicherung Bund und die
 Deutsche Rentenversicherung Knappschaft-Bahn-See. Sie sind auch
@@ -63,6 +68,7 @@ zuständig für die Durchführung des Auswahlverfahrens.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000600000)
 
 (1) Schwerbehinderten Menschen, diesen gleichgestellten Menschen mit
 Behinderungen und Menschen mit Beeinträchtigungen, die die Umsetzung
@@ -94,6 +100,7 @@ einzubeziehen ist.
 
 
 ### § 5 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000700000)
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -108,6 +115,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 
 ### § 6 Nutzung des elektronischen Informations- und Kommunikationssystems
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000800000)
 
 (1) Soweit die Hochschule und die jeweilige Einstellungsbehörde den
 Studierenden die für die Organisation und Durchführung des Studiums
@@ -122,9 +130,11 @@ eigenen Datenprofils obliegen den Studierenden.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNG000200000)
 
 
 ### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE000900000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde aufgrund eines Auswahlverfahrens. In diesem wird
@@ -158,6 +168,7 @@ vernichtet oder im Falle elektronischer Bewerbungsunterlagen gelöscht.
 
 
 ### § 8 Anforderungen im Auswahlverfahren und Auswahlinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001000000)
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen
 und Bewerber die Anforderungen an ihre Eignung und Befähigung
@@ -186,6 +197,7 @@ unterstützt werden.
 
 
 ### § 9 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001100000)
 
 (1) Für das Auswahlverfahren richtet die Einstellungsbehörde eine
 Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen
@@ -209,6 +221,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 10 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001200000)
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
@@ -269,6 +282,7 @@ gegebenenfalls anschließenden Beratungen zu ermöglichen.
 
 
 ### § 11 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001300000)
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
 Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
@@ -289,9 +303,11 @@ den anderen Bewerberinnen und Bewerbern geführt.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNG000300000)
 
 
 ### § 12 Dauer und Aufbau des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001400000)
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst 21 Monate
 Fachstudien am Fachbereich Sozialversicherung sowie 15 Monate
@@ -353,6 +369,7 @@ praxisintegrierte Studienphasen bei der Einstellungsbehörde.
 
 
 ### § 13 Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001500000)
 
 Das Fachstudium umfasst mindestens folgende Inhalte:
 
@@ -380,6 +397,7 @@ Das Fachstudium umfasst mindestens folgende Inhalte:
 
 
 ### § 14 Module und ECTS-Leistungspunkte
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001600000)
 
 (1) Die Studieninhalte werden in thematisch und zeitlich
 abgeschlossenen, interdisziplinären Modulen vermittelt. Die Module
@@ -408,6 +426,7 @@ Leistungspunkte benötigt.
 
 
 ### § 15 Praxisintegrierte Studienphasen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001700000)
 
 (1) Während der praxisintegrierten Studienphasen erwerben die
 Studierenden berufliche Kenntnisse und Fähigkeiten, vertiefen die in
@@ -441,6 +460,7 @@ durchgeführt.
 
 
 ### § 16 Studienberatung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001800000)
 
 Während der gesamten Studienzeit werden modulspezifische und
 allgemeine Studienberatungen angeboten. Die modulspezifische
@@ -451,6 +471,7 @@ Sozialversicherung durchgeführt.
 
 
 ### § 17 Bestimmungen für den Krisenfall
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE001900000)
 
 (1) Sofern die Präsenzlehre und die Präsenzprüfungen aufgrund höherer
 Gewalt, behördlicher Anordnung, gesetzlicher Verpflichtung oder
@@ -496,6 +517,7 @@ Richtlinie.
 
 
 ### § 18 Anerkennung von Studien- und Prüfungsleistungen anderer Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002000000)
 
 (1) Auf Antrag werden vom Prüfungsausschuss Studien- und
 Prüfungsleistungen aus anderen in Deutschland oder im Ausland belegten
@@ -517,6 +539,7 @@ in einer Richtlinie.
 
 
 ### § 19 Anrechnung von außerhochschulisch erworbenen Kompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002100000)
 
 (1) Kenntnisse und Fähigkeiten, die nicht an einer Hochschule erworben
 worden sind sowie Prüfungsleistungen, die vor einer öffentlichen oder
@@ -530,9 +553,11 @@ Teil des Studiums gleichwertig sind.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNG000400000)
 
 
 ### § 20 Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002200000)
 
 Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 
@@ -549,6 +574,7 @@ Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 
 ### § 21 Prüfungsausschuss und Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002300000)
 
 (1) Die Deutsche Rentenversicherung Bund und die Deutsche
 Rentenversicherung Knappschaft-Bahn-See richten beim Fachbereich
@@ -640,6 +666,7 @@ unabhängig und nicht weisungsgebunden. Es entscheidet insbesondere
 
 
 ### § 22 Prüferinnen und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002400000)
 
 (1) Das Prüfungsamt bestellt die Prüferinnen und Prüfer für die
 Modulprüfungen, die Bachelorarbeit und die Verteidigung der
@@ -702,6 +729,7 @@ haben.
 
 
 ### § 23 Prüfungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002500000)
 
 (1) Die zu überprüfenden fachlichen und überfachlichen Lernziele und
 Kompetenzen sind durch das Modulhandbuch in der jeweils geltenden
@@ -727,6 +755,7 @@ elektronischen Bescheid bekannt gegeben. Es gilt § 6 Absatz 1.
 
 
 ### § 24 Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002600000)
 
 (1) In jedem Modul ist eine Prüfung abzulegen. Eine Modulprüfung kann
 aus mehreren Teilprüfungen bestehen. Die Gewichtung der einzelnen
@@ -824,6 +853,7 @@ in Richtlinien.
 
 
 ### § 25 Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002700000)
 
 (1) Durch die Bachelorarbeit sollen die Studierenden nachweisen, dass
 sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -872,6 +902,7 @@ die Gutachterinnen und Gutachter.
 
 
 ### § 26 Verteidigung der Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002800000)
 
 (1) Zur Verteidigung der Bachelorarbeit werden Studierende zugelassen,
 wenn ihre Bachelorarbeit mit mindestens fünf Rangpunkten bewertet
@@ -902,6 +933,7 @@ Zuhörerinnen und Zuhörer zugelassen werden.
 
 
 ### § 27 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE002900000)
 
 (1) Die Prüfungsleistungen in den Pflichtmodulen werden mit
 Rangpunkten und einer sich daraus ergebenden Note bewertet. Die
@@ -1098,6 +1130,7 @@ Rangpunkten.
 
 
 ### § 28 Multiple-Choice-Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003000000)
 
 (1) Multiple-Choice-Aufgaben können gestellt werden als:
 
@@ -1305,6 +1338,7 @@ automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
 
 ### § 29 Verhinderung, Rücktritt, Säumnis und Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003100000)
 
 (1) Sind Prüfungsteilnehmende aus wichtigem Grund verhindert, eine
 Prüfung oder eine Teilprüfung rechtzeitig zu erbringen oder treten sie
@@ -1354,6 +1388,7 @@ entsprechend.
 
 
 ### § 30 Täuschung und Ordnungsverstoß bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003200000)
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung
 versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen,
@@ -1382,6 +1417,7 @@ Prüfung für nicht bestanden erklären.
 
 
 ### § 31 Störungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003300000)
 
 Fühlt sich eine Studierende oder ein Studierender während einer
 Prüfung durch äußere Einwirkungen erheblich gestört, hat sie oder er
@@ -1391,6 +1427,7 @@ Näheres regelt der Prüfungsausschuss in einer Richtlinie.
 
 
 ### § 32 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003400000)
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
 Darüber hinaus kann eine nicht bestandene Modulprüfung jeweils in
@@ -1423,6 +1460,7 @@ Rangpunkten bewertet wurde, kann sie einmal wiederholt werden. Absatz
 
 
 ### § 33 Bestehen der Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003500000)
 
 (1) Die Bachelorprüfung ist bestanden, wenn
 
@@ -1468,6 +1506,7 @@ Rangpunkte gerundet; § 27 Absatz 3 Satz 1 gilt entsprechend.
 
 
 ### § 34 Abschlusszeugnis, Urkunde, Diploma Supplement
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003600000)
 
 (1) Wer die Bachelorprüfung bestanden hat, erhält
 
@@ -1532,6 +1571,7 @@ Schriftformersatz vorsieht.
 
 
 ### § 35 Prüfungsakten
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003700000)
 
 (1) Zur Prüfungsakte zu nehmen sind
 
@@ -1572,9 +1612,11 @@ erst nach der Verteidigung der Bachelorarbeit eingesehen werden.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNG000500000)
 
 
 ### § 36 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003800000)
 
 Für Studierende, die vor dem 1. September 2024 mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über den
@@ -1591,6 +1633,7 @@ des Bundes in der Sozialversicherung vom 20. November 2014 (BGBl. I S.
 
 
 ### § 37 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gntdsvvdv_2024/BJNR14A0A0024.html#BJNR14A0A0024BJNE003900000)
 
 Diese Verordnung tritt mit Wirkung vom 1. September 2024 in Kraft.
 Gleichzeitig tritt die Verordnung über den Vorbereitungsdienst für den

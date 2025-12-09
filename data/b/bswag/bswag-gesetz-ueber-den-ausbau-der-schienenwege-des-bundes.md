@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ausbau des Schienenwegenetzes des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000102311)
 
 (1) Das Schienenwegenetz der Eisenbahnen des Bundes wird nach dem
 Bedarfsplan für die Bundesschienenwege ausgebaut, der diesem Gesetz
@@ -64,6 +65,7 @@ Maßnahmen in Bezug auf die Bundesschienenwege:
 
 
 ## § 2 Bedarfsplan, Einzelmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000201314)
 
 (1) Der Ausbau erfolgt nach Stufen, die im Bedarfsplan vorgesehen
 sind, und nach Maßgabe der §§ 8 bis 11.
@@ -75,6 +77,7 @@ sollen.
 
 
 ## § 3 Gegenstand des Bedarfsplans
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000302119)
 
 (1) In den Bedarfsplan sollen insbesondere aufgenommen werden
 Schienenverkehrsstrecken des Fern- und Nahverkehrs,
@@ -100,6 +103,7 @@ festzulegen.
 
 
 ## § 4 Überprüfung des Bedarfs
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000406119)
 
 (1) Spätestens nach Ablauf von jeweils fünf Jahren prüft das
 Bundesministerium für Digitales und Verkehr ob der Bedarfsplan der
@@ -111,6 +115,7 @@ Wirtschaft vom 8. Juni 1967 (BGBl. I S. 582) bleibt unberührt.
 
 
 ## § 5 Planungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000507119)
 
 Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
 Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Die
@@ -119,6 +124,7 @@ Ausbauplänen für die Bundesschienenwege.
 
 
 ## § 6 Unvorhergesehener Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000600307)
 
 Soweit ein unvorhergesehener Verkehrsbedarf insbesondere auf Grund
 einer Änderung der Verkehrsstruktur es erfordert, können die
@@ -127,6 +133,7 @@ Bedarfsplan entsprechen.
 
 
 ## § 7 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000706119)
 
 Das Bundesministerium für Digitales und Verkehr berichtet dem
 Deutschen Bundestag jährlich über den Fortgang des Ausbaus des
@@ -134,6 +141,7 @@ Schienenwegenetzes nach dem Stand vom 31. Dezember des Vorjahres.
 
 
 ## § 8 Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000803119)
 
 (1) Der Bund finanziert Investitionen in die Schienenwege der
 Eisenbahnen des Bundes. Die Investitionen umfassen Bau, Ausbau sowie
@@ -179,6 +187,7 @@ andere aufwendigere Investitionen in diese ersetzen oder vermeiden.
 
 
 ## § 9 Finanzierung und Baudurchführung
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001000314)
 
 Die Durchführung der in den Bedarfsplan aufgenommenen Baumaßnahmen
 sowie deren Finanzierung bedürfen einer Vereinbarung zwischen den
@@ -199,6 +208,7 @@ Verhältnisse verlangen.
 
 
 ## § 9a Rückzahlung von Investitionsmitteln des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001400301)
 
 (1) Soweit die Eisenbahnen des Bundes vom Bund finanzierte
 Schienenwege im Sinne des § 8 Abs. 5 stilllegen, zweckentfremden,
@@ -253,6 +263,7 @@ die Schienenwege an andere Eisenbahninfrastrukturbetreiber zu
 
 
 ## § 10 Mitfinanzierung durch die Eisenbahn
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001100314)
 
 (1) Hat der Bund den Bau oder Ausbau von Schienenwegen einer Eisenbahn
 des Bundes auf Antrag und im Interesse dieser Eisenbahn in den
@@ -270,6 +281,7 @@ Gebietskörperschaften oder Dritten und den Eisenbahnen des Bundes.
 
 
 ## § 11 Ersatzinvestitionen
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001201301)
 
 (1) Ersatzinvestitionen werden nicht in den Bedarfsplan aufgenommen.
 
@@ -278,6 +290,7 @@ gelten die §§ 9, 9a und 10 entsprechend.
 
 
 ## § 11a Optionale Finanzierung durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001500119)
 
 (1) Der Bund kann sich an den Kosten für einmalig anfallenden Aufwand
 beteiligen, der mit dem verfolgten Zweck einer Finanzierung im
@@ -373,6 +386,7 @@ Digitales und Verkehr unterstützt die Arbeit der Koordinierungsstelle.
 
 
 ## § 11b Finanzierungsvorbehalte; Ablösung einer Vorfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001600119)
 
 (1) Für die Finanzierung und Durchführung der in § 11a genannten
 Maßnahmen gilt § 9 entsprechend. In der Vereinbarung ist auch zu
@@ -411,6 +425,7 @@ sind. Die Entscheidung liegt im Ermessen des Bundes.
 
 
 ## § 11c Generalsanierung Hochleistungskorridore
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001700119)
 
 (1) Das Konzept der Generalsanierung von Hochleistungskorridoren der
 Schienenwege der Eisenbahnen des Bundes hat das Vorziehen und die
@@ -595,12 +610,14 @@ Generalsanierung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE001300314)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1 Absatz 1)
 
 ## Anlage Bedarfsplan für die Bundesschienenwege
+[Direktlink](https://www.gesetze-im-internet.de/bswag/BJNR187400993.html#BJNR187400993BJNE000903311)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 23 - 26)
 

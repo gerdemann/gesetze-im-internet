@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/saarglv/BJNR010740953.html#BJNR010740953BJNE000100319)
 
 Auf Grund des § 14 des Gesetzes über die Angelegenheiten der
 Vertriebenen und Flüchtlinge (Bundesvertriebenengesetz) vom 19. Mai
@@ -26,6 +27,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/saarglv/BJNR010740953.html#BJNR010740953BJNE000200319)
 
 (1) Deutsche Staatsangehörige oder deutsche Volkszugehörige, die im
 Zeitpunkt der Besetzung ihren Wohnsitz im Saargebiet hatten und diesen
@@ -41,6 +43,7 @@ sinngemäß Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/saarglv/BJNR010740953.html#BJNR010740953BJNE000300319)
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1) in Verbindung mit § 107 des
@@ -49,6 +52,7 @@ im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/saarglv/BJNR010740953.html#BJNR010740953BJNE000400319)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 

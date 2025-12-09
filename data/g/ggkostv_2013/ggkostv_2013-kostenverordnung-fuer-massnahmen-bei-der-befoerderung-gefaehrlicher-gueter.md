@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000108123)
 
 (1) Für Amtshandlungen
 
@@ -106,6 +107,7 @@ Verordnung.
 
 
 ## § 2 Gebührenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000201124)
 
 (1) Die Gebühren werden nach Zeitaufwand berechnet. Davon abweichend
 werden für wiederkehrende Amtshandlungen mit vergleichbarem
@@ -124,6 +126,7 @@ miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000311123)
 
 (Fundstelle: BGBl. I 2019, 310 - 321)
 
@@ -2287,6 +2290,7 @@ bis 4
 Gebührenverzeichnis
 
 ## Anlage 2 Gebühren des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000407123)
 
 (Fundstelle: BGBl. I 2019, 322)
 
@@ -2401,6 +2405,7 @@ Eisenbahn und Binnenschifffahrt**
 (zu § 1 Absatz 3)
 
 ## Anlage 3 Gebührenverzeichnis Gebühren der Bundesanstalt für Materialforschung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000505123)
 
 (Fundstelle: BGBl. 2025 I Nr. 147, S. 9)
 
@@ -2496,6 +2501,7 @@ BAM zugrunde gelegt.
 Gebührenverzeichnis
 
 ## Anlage 4 Gebühren des Kraftfahrt-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000601124)
 
 (Fundstelle: BGBl. I 2019, 324)
 
@@ -2607,6 +2613,7 @@ Gebührenverzeichnis
 Gebührenverzeichnis
 
 ## Anlage 5 Gebühren der Physikalisch-Technischen Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ggkostv_2013/BJNR046610013.html#BJNR046610013BJNE000703123)
 
 (Fundstelle: BGBl. I 2019, 325)
 

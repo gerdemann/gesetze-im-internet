@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000100000)
 
 Auf Grund des § 4 Abs. 4 des Gebrauchsmustergesetzes in der Fassung
 der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), der zuletzt
@@ -31,10 +32,12 @@ I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000300000)
 
 (1) Für die im Gebrauchsmustergesetz geregelten Verfahren vor dem
 Deutschen Patent- und Markenamt (Gebrauchsmusterangelegenheiten)
@@ -47,10 +50,12 @@ Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
 
 ## Abschnitt 2 - Gebrauchsmusteranmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNG000200000)
 
 
 
 ### § 2 Form der Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000402360)
 
 Erfindungen, für die der Schutz als Gebrauchsmuster verlangt wird (§ 1
 Abs. 1 des Gebrauchsmustergesetzes), sind beim Deutschen Patent- und
@@ -60,6 +65,7 @@ Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
 
 ### § 3 Gebrauchsmusteranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000504360)
 
 (1) Für die schriftliche Gebrauchsmusteranmeldung ist für die
 nachfolgend genannten Angaben das vom Deutschen Patent- und Markenamt
@@ -159,6 +165,7 @@ mitgeteilten Kennnummer hinzuweisen.
 
 
 ### § 4 Anmeldungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000603360)
 
 (1) Die Schutzansprüche, die Beschreibung und die Zeichnungen sind auf
 gesonderten Blättern einzureichen.
@@ -233,6 +240,7 @@ andere Anmeldungen betreffen.
 
 
 ### § 5 Schutzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000701360)
 
 (1) In den Schutzansprüchen kann das, was als gebrauchsmusterfähig
 unter Schutz gestellt werden soll (§ 4 Abs. 3 Nr. 3 des
@@ -284,6 +292,7 @@ sein.
 
 
 ### § 6 Beschreibung
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000801125)
 
 (1) Am Anfang der Beschreibung (§ 4 Abs. 3 Nr. 4 des
 Gebrauchsmustergesetzes) ist als Titel die im Antrag angegebene
@@ -339,6 +348,7 @@ Patentverordnung entsprechend.
 
 
 ### § 7 Zeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE000900000)
 
 (1) Die Zeichnungen sind auf Blättern mit folgenden Mindesträndern
 auszuführen:
@@ -401,6 +411,7 @@ sind.
 
 
 ### § 8 Abzweigung
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE001002360)
 
 Bei Abzweigung eines Gebrauchsmusters aus einer Patentanmeldung (§ 5
 des Gebrauchsmustergesetzes) ist der Abschrift der fremdsprachigen
@@ -412,6 +423,7 @@ Deutschen Patent- und Markenamt eingereicht worden ist.
 
 
 ### § 9 Fremdsprachige Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE001101360)
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
 einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
@@ -451,10 +463,12 @@ eingegangen.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNG000300000)
 
 
 
 ### § 10 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE001200000)
 
 Für Gebrauchsmusteranmeldungen, die vor Inkrafttreten dieser
 Verordnung eingereicht worden sind, gelten die Vorschriften der
@@ -464,6 +478,7 @@ Gebrauchsmusteranmeldeverordnung vom 12. November 1986 (BGBl. I S.
 
 
 ### § 11 Übergangsregelung für künftige Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE001300000)
 
 Für Gebrauchsmusteranmeldungen, die vor Inkrafttreten von Änderungen
 dieser Verordnung eingereicht worden sind, gelten die Vorschriften
@@ -471,6 +486,7 @@ dieser Verordnung in ihrer bis dahin geltenden Fassung.
 
 
 ### § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gebrmv/BJNR089000004.html#BJNR089000004BJNE001400000)
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_47/BJNR109400994.html#BJNR109400994BJNE000100307)
 
 Auf Grund
 
@@ -49,11 +50,13 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_47/BJNR109400994.html#BJNR109400994BJNE000201308)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_47/BJNR109400994.html#BJNR109400994BJNE000302308)
 
 Abweichend von § 49 Abs. 2a Satz 1 der Straßenverkehrs-Zulassungs-
 Ordnung dürfen Auspuffanlagen, die mit der Betriebserlaubnis des
@@ -63,6 +66,7 @@ oder zur Verwendung feilgeboten und veräußert werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_47/BJNR109400994.html#BJNR109400994BJNE000400307)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1994 in Kraft.
 

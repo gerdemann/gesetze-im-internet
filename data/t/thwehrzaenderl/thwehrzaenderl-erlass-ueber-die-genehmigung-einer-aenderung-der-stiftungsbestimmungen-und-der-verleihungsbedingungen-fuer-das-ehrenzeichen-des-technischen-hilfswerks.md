@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/thwehrz_nderl/BJNR014370990.html#BJNR014370990BJNE000100328)
 
 Der Bundesminister des Innern hat am 13. Juni 1990 den Erlaß vom 17.
 September 1975 über die Stiftung des Ehrenzeichens des Technischen

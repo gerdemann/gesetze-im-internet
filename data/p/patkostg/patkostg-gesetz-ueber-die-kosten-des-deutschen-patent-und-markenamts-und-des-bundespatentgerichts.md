@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000101301)
 
 (1) Die Gebühren des Deutschen Patent- und Markenamts und des
 Bundespatentgerichts werden, soweit gesetzlich nichts anderes bestimmt
@@ -46,6 +47,7 @@ Bundesrates bedarf, zu bestimmen,
 
 
 ## § 2 Höhe der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000201377)
 
 (1) Gebühren werden nach dem Gebührenverzeichnis der Anlage zu diesem
 Gesetz erhoben.
@@ -61,6 +63,7 @@ entsprechend anzuwenden.
 
 
 ## § 3 Fälligkeit der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000308360)
 
 (1) Die Gebühren werden mit der Einreichung einer Anmeldung, eines
 Antrags oder durch die Vornahme einer sonstigen Handlung oder mit der
@@ -121,6 +124,7 @@ die Eintragung in das Register erfolgt ist.
 
 
 ## § 4 Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000400305)
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -156,6 +160,7 @@ gezahlte Beträge sind zu erstatten.
 
 
 ## § 5 Vorauszahlung, Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000511360)
 
 (1) In Verfahren vor dem Deutschen Patent- und Markenamt soll die
 Bearbeitung erst nach Zahlung der Gebühr für das Verfahren erfolgen;
@@ -184,6 +189,7 @@ Fälligkeit vorausgezahlt werden.
 
 
 ## § 6 Zahlungsfristen, Folgen der Nichtzahlung
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000604140)
 
 (1) Ist für die Stellung eines Antrags oder die Vornahme einer
 sonstigen Handlung durch Gesetz eine Frist bestimmt, so ist innerhalb
@@ -206,6 +212,7 @@ eingelegte Beschwerde als zurückgenommen.
 
 
 ## § 7 Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000704360)
 
 (1) Die Jahresgebühren für Patente, Schutzzertifikate und
 Patentanmeldungen und die Aufrechterhaltungsgebühren für
@@ -229,6 +236,7 @@ gezahlt werden.
 
 
 ## § 8 Kostenansatz
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000802301)
 
 (1) Die Kosten werden angesetzt:
 
@@ -282,12 +290,14 @@ Entscheidungen nach den §§ 9 und 10.
 
 
 ## § 9 Unrichtige Sachbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE000900305)
 
 Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären,
 werden nicht erhoben.
 
 
 ## § 10 Rückzahlung von Kosten, Wegfall der Gebühr
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001002301)
 
 (1) Vorausgezahlte Gebühren, die nicht mehr fällig werden können, und
 nicht verbrauchte Auslagenvorschüsse werden erstattet. Die
@@ -302,6 +312,7 @@ Amtshandlung nicht vorgenommen wurde.
 
 
 ## § 11 Erinnerung, Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001101301)
 
 (1) Über Erinnerungen des Kostenschuldners gegen den Kostenansatz oder
 gegen Maßnahmen nach § 5 Abs. 1 entscheidet die Stelle, die die Kosten
@@ -322,6 +333,7 @@ abgeholfen, so ist sie dem Bundespatentgericht vorzulegen.
 
 
 ## § 12 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001201377)
 
 Für die Verjährung und Verzinsung der Kostenforderungen und der
 Ansprüche auf Erstattung von Kosten gilt § 5 des
@@ -329,6 +341,7 @@ Gerichtskostengesetzes entsprechend.
 
 
 ## § 13 Anwendung der bisherigen Gebührensätze
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001302360)
 
 (1) Auch nach dem Inkrafttreten eines geänderten Gebührensatzes sind
 die vor diesem Zeitpunkt geltenden Gebührensätze weiter anzuwenden,
@@ -376,6 +389,7 @@ bemessen wurde.
 
 
 ## § 14 Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001401360)
 
 (1) Die bisherigen Gebührensätze der Anlage zu § 1
 (Gebührenverzeichnis) des Patentgebührengesetzes vom 18. August 1976
@@ -437,10 +451,12 @@ gezahlt. Ein Verspätungszuschlag wird in diesen Fällen nicht erhoben.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001701360)
 
 (zu § 2 Abs. 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/patkostg/BJNR365610001.html#BJNR365610001BJNE001623360)
 
 (Fundstelle: BGBl. I 2001, 3659 - 3666;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

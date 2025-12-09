@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000200311)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1981 auf das Jahr 1982 werden die Renten der gesetzlichen
@@ -34,6 +36,7 @@ sowie die Altersgelder der Altershilfe für Landwirte zum 1. Januar
 
 
 ## § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000300311)
 
 (1) Renten, die
 
@@ -61,6 +64,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ## § 3 Sonstige Renten und Altersgelder
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000400311)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, und die
 Altersgelder werden dadurch angepaßt, daß der sich für den Monat
@@ -77,6 +81,7 @@ Mark und in der knappschaftlichen Rentenversicherung in Höhe von
 
 
 ## § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000500311)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -91,6 +96,7 @@ zulässig.
 
 
 ## § 5 Berichtigung fehlerhafter Anpassungen
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000600311)
 
 Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist
 sie zu berichtigen. Die Berichtigung ist nur bis zur nächsten
@@ -100,6 +106,7 @@ Rückforderung überzahlter Beträge findet nicht statt.
 
 
 ## § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1982/BJNR112050981.html#BJNR112050981BJNE000700311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

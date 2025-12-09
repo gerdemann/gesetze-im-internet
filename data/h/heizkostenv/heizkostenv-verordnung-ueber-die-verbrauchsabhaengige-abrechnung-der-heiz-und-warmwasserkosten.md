@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000103308)
 
 (1) Diese Verordnung gilt für die Verteilung der Kosten
 
@@ -71,6 +72,7 @@ ist.
 
 
 ## § 2 Vorrang vor rechtsgeschäftlichen Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000202308)
 
 Außer bei Gebäuden mit nicht mehr als zwei Wohnungen, von denen eine
 der Vermieter selbst bewohnt, gehen die Vorschriften dieser Verordnung
@@ -78,6 +80,7 @@ rechtsgeschäftlichen Bestimmungen vor.
 
 
 ## § 3 Anwendung auf das Wohnungseigentum
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000303308)
 
 Die Vorschriften dieser Verordnung sind auf Wohnungseigentum
 anzuwenden unabhängig davon, ob durch Vereinbarung oder Beschluss der
@@ -94,6 +97,7 @@ Regelungen über die Tragung der Verwaltungskosten zu verteilen.
 
 
 ## § 4 Pflicht zur Verbrauchserfassung
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000403308)
 
 (1) Der Gebäudeeigentümer hat den anteiligen Verbrauch der Nutzer an
 Wärme und Warmwasser zu erfassen.
@@ -117,6 +121,7 @@ dieser Verpflichtungen zu verlangen.
 
 
 ## § 5 Ausstattung zur Verbrauchserfassung
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000504119)
 
 (1) Zur Erfassung des anteiligen Wärmeverbrauchs sind Wärmezähler oder
 Heizkostenverteiler, zur Erfassung des anteiligen Warmwasserverbrauchs
@@ -209,6 +214,7 @@ veröffentlicht.
 
 
 ## § 6 Pflicht zur verbrauchsabhängigen Kostenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000605119)
 
 (1) Der Gebäudeeigentümer hat die Kosten der Versorgung mit Wärme und
 Warmwasser auf der Grundlage der Verbrauchserfassung nach Maßgabe der
@@ -268,6 +274,7 @@ Wirkung zum Beginn eines Abrechnungszeitraumes zulässig.
 
 
 ## § 6a Abrechnungs- und Verbrauchsinformationen; Informationen in der Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001800119)
 
 (1) Wenn fernablesbare Ausstattungen zur Verbrauchserfassung
 installiert wurden, hat der Gebäudeeigentümer den Nutzern Abrechnungs-
@@ -387,6 +394,7 @@ die Informationen gemäß Absatz 3 Satz 1 Nummer 2 und 3 enthalten.
 
 
 ## § 6b Zulässigkeit und Umfang der Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001900119)
 
 Die Erhebung, Speicherung und Verwendung von Daten aus einer
 fernablesbaren Ausstattung zur Verbrauchserfassung darf nur durch den
@@ -404,6 +412,7 @@ soweit dies erforderlich ist:
 
 
 ## § 7 Verteilung der Kosten der Versorgung mit Wärme
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000706128)
 
 (1) Von den Kosten des Betriebs der zentralen Heizungsanlage sind
 mindestens 50 vom Hundert, höchstens 70 vom Hundert nach dem erfassten
@@ -448,6 +457,7 @@ entsprechend Absatz 2.
 
 
 ## § 8 Verteilung der Kosten der Versorgung mit Warmwasser
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000803308)
 
 (1) Von den Kosten des Betriebs der zentralen
 Warmwasserversorgungsanlage sind mindestens 50 vom Hundert, höchstens
@@ -473,6 +483,7 @@ Hausanlagen entsprechend § 7 Absatz 2.
 
 
 ## § 9 Verteilung der Kosten der Versorgung mit Wärme und Warmwasser bei verbundenen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE000906128)
 
 (1) Ist die zentrale Anlage zur Versorgung mit Wärme mit der zentralen
 Warmwasserversorgungsanlage verbunden, so sind die einheitlich
@@ -785,6 +796,7 @@ bestimmt oder zulässt.
 
 
 ## § 9a Kostenverteilung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001603308)
 
 (1) Kann der anteilige Wärme- oder Warmwasserverbrauch von Nutzern für
 einen Abrechnungszeitraum wegen Geräteausfalls oder aus anderen
@@ -806,6 +818,7 @@ Maßstäben zu verteilen.
 
 
 ## § 9b Kostenaufteilung bei Nutzerwechsel
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001702308)
 
 (1) Bei Nutzerwechsel innerhalb eines Abrechnungszeitraumes hat der
 Gebäudeeigentümer eine Ablesung der Ausstattung zur
@@ -830,6 +843,7 @@ Bestimmungen bleiben unberührt.
 
 
 ## § 10 Überschreitung der Höchstsätze
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001002308)
 
 Rechtsgeschäftliche Bestimmungen, die höhere als die in § 7 Absatz 1
 und § 8 Absatz 1 genannten Höchstsätze von 70 vom Hundert vorsehen,
@@ -837,6 +851,7 @@ bleiben unberührt.
 
 
 ## § 11 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001105128)
 
 (1) Soweit sich die §§ 3 bis 7 auf die Versorgung mit Wärme beziehen,
 sind sie nicht anzuwenden
@@ -908,6 +923,7 @@ Warmwasser beziehen, gilt Absatz 1 entsprechend.
 
 
 ## § 12 Kürzungsrecht, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001206128)
 
 (1) Soweit die Kosten der Versorgung mit Wärme oder Warmwasser
 entgegen den Vorschriften dieser Verordnung nicht verbrauchsabhängig
@@ -952,16 +968,19 @@ zu bestimmen:
 
 
 ## § 13 (Berlin-Klausel)
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001402308)
 
 
 
 ## § 14 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE001502308)
 
 
 Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
 (BGBl. II 1990, 889, 1007)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html#BJNR002610981BJNE888800309)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

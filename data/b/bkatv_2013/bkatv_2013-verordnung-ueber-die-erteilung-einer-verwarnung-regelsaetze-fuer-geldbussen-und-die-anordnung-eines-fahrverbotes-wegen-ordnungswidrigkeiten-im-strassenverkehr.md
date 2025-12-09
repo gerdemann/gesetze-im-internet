@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000100000)
 
 Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der
 Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), der zuletzt
@@ -30,6 +31,7 @@ Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Bußgeldkatalog
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000203123)
 
 (1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a Absatz 1 bis 2a
 und § 24c Absatz 1 und 2 des Straßenverkehrsgesetzes, die in der
@@ -46,6 +48,7 @@ Bußgeldkatalogs von vorsätzlicher Begehung aus.
 
 
 ## § 2 Verwarnung
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000302123)
 
 (1) Die Verwarnung muss mit einem Hinweis auf die
 Verkehrszuwiderhandlung verbunden sein.
@@ -81,6 +84,7 @@ Handlung oder die Handlungen insgesamt noch geringfügig sind.
 
 
 ## § 3 Bußgeldregelsätze
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000404123)
 
 (1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind
 im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern
@@ -161,6 +165,7 @@ wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
 
 
 ## § 4 Regelfahrverbot
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000507123)
 
 (1) Bei Ordnungswidrigkeiten nach § 24 Absatz 1 des
 Straßenverkehrsgesetzes kommt die Anordnung eines Fahrverbots (§ 25
@@ -210,6 +215,7 @@ Bußgeld angemessen erhöht werden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000600000)
 
 Diese Verordnung tritt am 1. April 2013 in Kraft. Gleichzeitig tritt
 die Bußgeldkatalog-Verordnung vom 13. November 2001 (BGBl. I S. 3033),
@@ -218,12 +224,14 @@ I S. 2232) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 1)
 
 ## Anlage Bußgeldkatalog (BKat)
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000824123)
 
 (Fundstelle: BGBl. I 2013, 500 – 540 ,
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -8611,6 +8619,7 @@ Abschnitt II
 (zu Nummer 11 der Anlage)
 
 ## Anhang Tabelle 1
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE000903123)
 
 (Fundstelle: BGBl. I 2021, 4701 - 4703)
 
@@ -9180,6 +9189,7 @@ Abschnitt II
 (zu Nummer 12 der Anlage)
 
 ## Anhang Tabelle 2
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE001001305)
 
 (Fundstelle: BGBl. I 2013, 3935)
 
@@ -9409,6 +9419,7 @@ Abschnitt II
 (zu den Nummern 198 und 199 der Anlage)
 
 ## Anhang Tabelle 3
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE001100000)
 
 (Fundstelle: BGBl. I 2013, 544)
 
@@ -9596,6 +9607,7 @@ von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen
 (zu § 3 Absatz 3)
 
 ## Anhang Tabelle 4
+[Direktlink](https://www.gesetze-im-internet.de/bkatv_2013/BJNR049800013.html#BJNR049800013BJNE001201305)
 
 (Fundstelle: BGBl. I 2013, 3936 - 3937)
 

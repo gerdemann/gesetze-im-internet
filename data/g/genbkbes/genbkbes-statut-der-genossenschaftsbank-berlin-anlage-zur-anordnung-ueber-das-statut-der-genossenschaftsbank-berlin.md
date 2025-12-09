@@ -19,10 +19,12 @@ Fundstelle
 
 
 ## I. - Stellung der Genossenschaftsbank Berlin
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE000700314)
 
 (1) Die Genossenschaftsbank Berlin (nachfolgend Bank genannt) ist eine
 Körperschaft des öffentlichen Rechts. Sie ist eine universelle
@@ -46,12 +48,14 @@ wahr.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE000800314)
 
 Die Bank regelt die Beziehungen mit ihren Kunden auf der Grundlage der
 Rechtsvorschriften nach Allgemeinen Geschäftsbedingungen.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE000900314)
 
 (1) Die Bank unterhält Zweigniederlassungen, die zusätzliche regionale
 oder organisationsbezogene Bezeichnungen tragen können.
@@ -68,10 +72,12 @@ wird.
 
 
 ## II. - Grundkapital und Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNG000200314)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001000314)
 
 (1) Die Bank besitzt ein Grundkapital in Höhe von 250 Millionen Mark
 der DDR und einen Reservefonds. Das Grundkapital und der Reservefonds
@@ -83,6 +89,7 @@ gedeckte Schuldverschreibungen auf den Inhaber ausgeben.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001100314)
 
 (1) Die Bank ist berechtigt, sich an Genossenschaften,
 Handelsgesellschaften und anderen juristischen Personen zu beteiligen.
@@ -112,15 +119,18 @@ Abs. 1 dieses Statuts sichergestellt wird.
 
 
 ## III. - Organe der Bank
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNG000300314)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001200314)
 
 Die Organe der Bank sind der Vorstand und der Verwaltungsrat.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001300314)
 
 (1) Dem Vorstand obliegt die Geschäftsführung und Vermögensverwaltung
 der Bank, soweit sich nicht aus Rechtsvorschriften ein anderes ergibt.
@@ -146,6 +156,7 @@ gefaßt. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001400314)
 
 (1) Der Verwaltungsrat ist die demokratische Interessenvertretung der
 Genossenschaften und Betriebe. Ihm obliegt die Überwachung der
@@ -207,10 +218,12 @@ eine vom Verwaltungsrat beschlossene Geschäftsordnung.
 
 
 ## IV. - Rechnungsführung Jahresabschluß
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNG000400314)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001500314)
 
 (1) Bilanz und Ergebnisrechnung sind auf der Grundlage der
 Rechtsvorschriften aufzustellen und von einem unabhängigen
@@ -224,10 +237,12 @@ die Ergebnisverwendung zur Bestätigung vorzulegen.
 
 
 ## V. - Vertretung der Bank
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNG000500314)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001600314)
 
 (1) Die Bank wird im Rechtsverkehr durch den Vorstand vertreten. Er
 kann Bevollmächtigte auf der Grundlage der Rechtsvorschriften
@@ -248,10 +263,12 @@ Vorstand bestimmte leitende Mitarbeiter der Bank berechtigt.
 
 
 ## VI. - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNG000600314)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE001700314)
 
 (1) Die Genossenschaftsbank Berlin ist Rechtsnachfolger der Bank für
 Landwirtschaft und Nahrungsgüterwirtschaft der DDR.
@@ -274,6 +291,7 @@ Dienstsiegels der Genossenschaftsbank Berlin weiter.
 Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1199)
+[Direktlink](https://www.gesetze-im-internet.de/genbkbes/DDNR002520990.html#DDNR002520990BJNE888800301)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000100000)
 
 Das Bundesministerium für Gesundheit verordnet aufgrund des § 12b
 Absatz 5 des Krankenhausfinanzierungsgesetzes in der Fassung der
@@ -26,6 +27,7 @@ geändert worden ist:
 
 
 ## § 1 Ziel und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000200000)
 
 (1) Ziel dieser Verordnung ist die Transformation der
 Krankenhausstrukturen zur Anpassung an die durch das
@@ -41,6 +43,7 @@ Krankenhausfinanzierungsgesetzes förderfähig sind.
 
 
 ## § 2 Förderfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000300000)
 
 (1) Ein Vorhaben ist förderfähig, wenn die Voraussetzungen eines
 Fördertatbestandes nach § 12b Absatz 1 Satz 4 des
@@ -93,6 +96,7 @@ legen.
 
 
 ## § 3 Regelungen zu den einzelnen Fördertatbeständen nach § 12b Absatz 1 Satz 4 des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000400000)
 
 (1) Förderfähig sind Vorhaben zur standortübergreifenden Konzentration
 akutstationärer Versorgungskapazitäten, insbesondere
@@ -269,6 +273,7 @@ Ausbildungsfinanzierungsverordnung sind nicht förderfähig.
 
 
 ## § 4 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000500000)
 
 (1) Die Länder können Anträge auf Auszahlung von Fördermitteln nach §
 12b Absatz 2 Satz 2 bis 5 des Krankenhausfinanzierungsgesetzes aus dem
@@ -530,6 +535,7 @@ Anforderungen an einen Antrag nach Satz 1 im Einzelfall fest.
 
 
 ## § 5 Auszahlung der Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000600000)
 
 (1) Das Bundesamt für Soziale Sicherung entscheidet über die Anträge
 durch Bescheid und zahlt die bewilligten Fördermittel an das
@@ -561,6 +567,7 @@ Satz 7 beantragt hat.
 
 
 ## § 6 Verwendung der Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000700000)
 
 (1) Die vom Bundesamt für Soziale Sicherung aus dem
 Transformationsfonds ausgezahlten Fördermittel werden als Einnahmen in
@@ -629,6 +636,7 @@ einer Digitalisierungsmaßnahme die Fertigstellung dieser Maßnahme.
 
 
 ## § 7 Rückforderung von Fördermitteln
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000800000)
 
 (1) Für die Rücknahme oder den Widerruf von Auszahlungsbescheiden des
 Bundesamtes für Soziale Sicherung und für die Erstattung von
@@ -801,6 +809,7 @@ Vorhabens ergeben.
 
 
 ## § 8 Aufgaben des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE000900000)
 
 (1) Das Bundesamt für Soziale Sicherung richtet ein elektronisches
 Verwaltungsportal ein, das den Ländern die Antragstellung sowie die
@@ -874,11 +883,13 @@ ausgezahlten Fördermitteln, zu den gestellten Anträgen und zu den nach
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/khtfv/BJNR0710A0025.html#BJNR0710A0025BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

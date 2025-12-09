@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000100000)
 
 Auf Grund des § 7 Absatz 1 des Gesetzes über die Errichtung des
 Bundesamts für Justiz, der durch Artikel 4 Nummer 2 des Gesetzes vom
@@ -26,6 +27,7 @@ Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Elektronische Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000200000)
 
 (1) Die elektronische Aktenführung beim Bundesamt für Justiz
 (Bundesamt) kann bei deren Einführung auf einzelne Verfahren oder
@@ -39,6 +41,7 @@ weitergeführt werden.
 
 
 ## § 2 Übermittlung elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000300000)
 
 Elektronische Dokumente sind dem Bundesamt in druckbarer, kopierbarer
 und, soweit technisch möglich, elektronisch durchsuchbarer Form zu
@@ -46,6 +49,7 @@ und, soweit technisch möglich, elektronisch durchsuchbarer Form zu
 
 
 ## § 3 Weitere sichere Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000400000)
 
 (1) Ergänzend zu den in § 6 Absatz 3 des Gesetzes über die Errichtung
 des Bundesamts für Justiz aufgeführten sicheren Übermittlungswegen
@@ -68,6 +72,7 @@ www.bundesjustizamt.de bekannt.
 
 
 ## § 4 Erstellung elektronischer Dokumente durch das Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000500000)
 
 (1) Elektronische Dokumente sind in druckbarer, kopierbarer und,
 soweit technisch möglich, elektronisch durchsuchbarer Form zu
@@ -105,6 +110,7 @@ behördeninterne Verfügungen.
 
 
 ## § 5 Elektronische Formulare
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000600000)
 
 (1) Das Bundesamt kann zur Nutzung seiner Verfahren elektronische
 Formulare zur Verfügung stellen. Es führt ein Verzeichnis über die
@@ -124,6 +130,7 @@ oder teilweise in strukturierter und maschinenlesbarer Form zu
 
 
 ## § 6 Abschriften und beglaubigte Abschriften durch das Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000700000)
 
 (1) Abschriften und beglaubigte Abschriften können in Papierform oder
 als elektronisches Dokument erteilt werden.
@@ -141,6 +148,7 @@ Integrität des elektronischen Dokuments enthalten.
 
 
 ## § 7 Bekanntmachung technischer Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000800000)
 
 (1) Das Bundesamt macht die folgenden technischen Anforderungen an die
 ihm zur Bearbeitung übersandten Dokumente auf seiner Internetseite
@@ -168,6 +176,7 @@ befristet werden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfjeaktfkv/BJNR292300020.html#BJNR292300020BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

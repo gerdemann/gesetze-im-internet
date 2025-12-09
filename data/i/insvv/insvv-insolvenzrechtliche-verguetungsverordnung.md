@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE000600311)
 
 Auf Grund des § 65 in Verbindung mit § 21 Abs. 2 Nr. 1, § 73 Abs. 2, §
 274 Abs. 1, § 293 Abs. 2 und § 313 Abs. 1 der Insolvenzordnung vom 5.
@@ -28,10 +29,12 @@ Justiz:
 
 
 ## Erster Abschnitt - Vergütung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNG000100311)
 
 
 
 ### § 1 Berechnungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE000701125)
 
 (1) Die Vergütung des Insolvenzverwalters wird nach dem Wert der
 Insolvenzmasse berechnet, auf die sich die Schlußrechnung bezieht.
@@ -87,6 +90,7 @@ berechnen.
 
 
 ### § 2 Regelsätze
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE000803125)
 
 (1) Der Insolvenzverwalter erhält in der Regel
 
@@ -127,6 +131,7 @@ erhöht sich die Vergütung je angefangene 5 Gläubiger um 140 Euro.
 
 
 ### § 3 Zu- und Abschläge
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE000902311)
 
 (1) Eine den Regelsatz übersteigende Vergütung ist insbesondere
 festzusetzen, wenn
@@ -187,6 +192,7 @@ f)  der Schuldner in ein Koordinationsverfahren einbezogen ist, in dem ein
 
 
 ### § 4 Geschäftskosten, Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001001125)
 
 (1) Mit der Vergütung sind die allgemeinen Geschäftskosten abgegolten.
 Zu den allgemeinen Geschäftskosten gehört der Büroaufwand des
@@ -212,6 +218,7 @@ entsprechend höheren Versicherung als Auslagen zu erstatten.
 
 
 ### § 5 Einsatz besonderer Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001101301)
 
 (1) Ist der Insolvenzverwalter als Rechtsanwalt zugelassen, so kann er
 für Tätigkeiten, die ein nicht als Rechtsanwalt zugelassener Verwalter
@@ -225,6 +232,7 @@ entsprechend.
 
 
 ### § 6 Nachtragsverteilung. Überwachung der Erfüllung eines Insolvenzplans
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001200311)
 
 (1) Für eine Nachtragsverteilung erhält der Insolvenzverwalter eine
 gesonderte Vergütung, die unter Berücksichtigung des Werts der
@@ -240,6 +248,7 @@ Ermessen festzusetzen.
 
 
 ### § 7 Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001300311)
 
 Zusätzlich zur Vergütung und zur Erstattung der Auslagen wird ein
 Betrag in Höhe der vom Insolvenzverwalter zu zahlenden Umsatzsteuer
@@ -247,6 +256,7 @@ festgesetzt.
 
 
 ### § 8 Festsetzung von Vergütung und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001403125)
 
 (1) Die Vergütung und die Auslagen werden auf Antrag des
 Insolvenzverwalters vom Insolvenzgericht festgesetzt. Die Festsetzung
@@ -267,6 +277,7 @@ Regelvergütung nicht übersteigen.
 
 
 ### § 9 Vorschuß
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001501301)
 
 Der Insolvenzverwalter kann aus der Insolvenzmasse einen Vorschuß auf
 die Vergütung und die Auslagen entnehmen, wenn das Insolvenzgericht
@@ -278,10 +289,12 @@ Vorschuss, sofern die Voraussetzungen nach Satz 2 gegeben sind.
 
 
 ## Zweiter Abschnitt - Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters und des Insolvenzverwalters im Verbraucherinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNG000201311)
 
 
 
 ### § 10 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001602125)
 
 Für die Vergütung des vorläufigen Insolvenzverwalters, des
 Sachwalters, des vorläufigen Sachwalters und des Insolvenzverwalters
@@ -291,6 +304,7 @@ bestimmt ist.
 
 
 ### § 11 Vergütung des vorläufigen Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001704311)
 
 (1) Für die Berechnung der Vergütung des vorläufigen
 Insolvenzverwalters ist das Vermögen zugrunde zu legen, auf das sich
@@ -321,6 +335,7 @@ Justizvergütungs- und -entschädigungsgesetz.
 
 
 ### § 12 Vergütung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001802125)
 
 (1) Der Sachwalter erhält in der Regel 60 vom Hundert der für den
 Insolvenzverwalter bestimmten Vergütung.
@@ -335,6 +350,7 @@ Schuldners nur mit Zustimmung des Sachwalters wirksam sind.
 
 
 ### § 12a Vergütung des vorläufigen Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002700125)
 
 (1) Die Tätigkeit des vorläufigen Sachwalters wird gesondert vergütet.
 Er erhält in der Regel 25 Prozent der Vergütung des Sachwalters
@@ -369,6 +385,7 @@ Vergütung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 ### § 13 Vergütung des Insolvenzverwalters im Verbraucherinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE001904125)
 
 Werden in einem Verfahren nach dem Neunten Teil der Insolvenzordnung
 die Unterlagen nach § 305 Absatz 1 Nummer 3 der Insolvenzordnung von
@@ -377,10 +394,12 @@ Vergütung nach § 2 Absatz 2 Satz 1 auf 1 120 Euro.
 
 
 ## Dritter Abschnitt - Vergütung des Treuhänders nach § 293 der Insolvenzordnung
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNG000300311)
 
 
 
 ### § 14 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002003125)
 
 (1) Die Vergütung des Treuhänders nach § 293 der Insolvenzordnung wird
 nach der Summe der Beträge berechnet, die auf Grund der
@@ -408,6 +427,7 @@ Vergütung je 5 Gläubiger um 70 Euro.
 
 
 ### § 15 Überwachung der Obliegenheiten des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002103125)
 
 (1) Hat der Treuhänder die Aufgabe, die Erfüllung der Obliegenheiten
 des Schuldners zu überwachen (§ 292 Abs. 2 der Insolvenzordnung), so
@@ -420,6 +440,7 @@ kann eine abweichende Regelung treffen.
 
 
 ### § 16 Festsetzung der Vergütung. Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002201301)
 
 (1) Die Höhe des Stundensatzes der Vergütung des Treuhänders, der die
 Erfüllung der Obliegenheiten des Schuldners überwacht, wird vom
@@ -438,10 +459,12 @@ auf die Satz 2 entsprechend Anwendung findet.
 
 
 ## Vierter Abschnitt - Vergütung der Mitglieder des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNG000400311)
 
 
 
 ### § 17 Berechnung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002305125)
 
 (1) Die Vergütung der Mitglieder des Gläubigerausschusses beträgt
 regelmäßig zwischen 50 und 300 Euro je Stunde. Bei der Festsetzung des
@@ -457,6 +480,7 @@ vorläufigen Sachwalters richtet sich die weitere Vergütung nach Absatz
 
 
 ### § 18 Auslagen. Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002400311)
 
 (1) Auslagen sind einzeln anzuführen und zu belegen.
 
@@ -464,10 +488,12 @@ vorläufigen Sachwalters richtet sich die weitere Vergütung nach Absatz
 
 
 ## Fünfter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNG000500311)
 
 
 
 ### § 19 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002800125)
 
 (1) Auf Insolvenzverfahren, die vor dem 1. Januar 2004 eröffnet
 wurden, sind die Vorschriften dieser Verordnung in ihrer bis zum
@@ -500,6 +526,7 @@ anzuwenden.
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/insvv/BJNR220500998.html#BJNR220500998BJNE002600311)
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 

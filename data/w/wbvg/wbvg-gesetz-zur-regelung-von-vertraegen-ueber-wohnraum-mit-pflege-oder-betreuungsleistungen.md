@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000200000)
 
 (1) Dieses Gesetz ist anzuwenden auf einen Vertrag zwischen einem
 Unternehmer und einem volljährigen Verbraucher, in dem sich der
@@ -62,6 +63,7 @@ nicht rechtlich oder wirtschaftlich miteinander verbunden.
 
 
 ## § 2 Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000300000)
 
 Dieses Gesetz ist nicht anzuwenden auf Verträge über
 
@@ -85,6 +87,7 @@ Dieses Gesetz ist nicht anzuwenden auf Verträge über
 
 
 ## § 3 Informationspflichten vor Vertragsschluss
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000400000)
 
 (1) Der Unternehmer hat den Verbraucher rechtzeitig vor Abgabe von
 dessen Vertragserklärung in Textform und in leicht verständlicher
@@ -150,6 +153,7 @@ bleiben unberührt.
 
 
 ## § 4 Vertragsschluss und Vertragsdauer
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000500000)
 
 (1) Der Vertrag wird auf unbestimmte Zeit geschlossen. Die
 Vereinbarung einer Befristung ist zulässig, wenn die Befristung den
@@ -182,6 +186,7 @@ Unternehmers.
 
 
 ## § 5 Wechsel der Vertragsparteien
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000600000)
 
 (1) Mit Personen, die mit dem Verbraucher einen auf Dauer angelegten
 gemeinsamen Haushalt führen und nicht Vertragspartner des Unternehmers
@@ -205,6 +210,7 @@ Gesetzbuchs entsprechend.
 
 
 ## § 6 Schriftform und Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000701116)
 
 (1) Der Vertrag ist schriftlich abzuschließen. Der Abschluss des
 Vertrags in elektronischer Form ist ausgeschlossen. Der Unternehmer
@@ -250,6 +256,7 @@ muss der schriftliche Vertragsschluss unverzüglich nachgeholt werden.
 
 
 ## § 7 Leistungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000801116)
 
 (1) Der Unternehmer ist verpflichtet, dem Verbraucher den Wohnraum in
 einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu überlassen
@@ -299,6 +306,7 @@ genannten Vereinbarungen.
 
 
 ## § 8 Vertragsanpassung bei Änderung des Pflege- oder Betreuungsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE000901116)
 
 (1) Ändert sich der Pflege- oder Betreuungsbedarf des Verbrauchers,
 muss der Unternehmer eine entsprechende Anpassung der Leistungen
@@ -332,6 +340,7 @@ ist ausgeschlossen.
 
 
 ## § 9 Entgelterhöhung bei Änderung der Berechnungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001001116)
 
 (1) Der Unternehmer kann eine Erhöhung des Entgelts verlangen, wenn
 sich die bisherige Berechnungsgrundlage verändert. Neben dem erhöhten
@@ -356,6 +365,7 @@ in die Kalkulationsunterlagen zu überprüfen.
 
 
 ## § 10 Nichtleistung oder Schlechtleistung
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001101116)
 
 (1) Erbringt der Unternehmer die vertraglichen Leistungen ganz oder
 teilweise nicht oder weisen sie nicht unerhebliche Mängel auf, kann
@@ -390,6 +400,7 @@ Leistungen vorrangig dem Träger der Eingliederungshilfe zu.
 
 
 ## § 11 Kündigung durch den Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001200000)
 
 (1) Der Verbraucher kann den Vertrag spätestens am dritten Werktag
 eines Kalendermonats zum Ablauf desselben Monats schriftlich kündigen.
@@ -427,6 +438,7 @@ ist entsprechend anzuwenden.
 
 
 ## § 12 Kündigung durch den Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001300000)
 
 (1) Der Unternehmer kann den Vertrag nur aus wichtigem Grund kündigen.
 Die Kündigung bedarf der Schriftform und ist zu begründen. Ein
@@ -514,6 +526,7 @@ einen anderen Unternehmer oder durch den Verbraucher erfolgt ist.
 
 
 ## § 13 Nachweis von Leistungsersatz und Übernahme von Umzugskosten
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001400000)
 
 (1) Hat der Verbraucher nach § 11 Absatz 3 Satz 1 aufgrund eines vom
 Unternehmer zu vertretenden Kündigungsgrundes gekündigt, ist der
@@ -545,6 +558,7 @@ Unternehmer haften als Gesamtschuldner.
 
 
 ## § 14 Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001501116)
 
 (1) Der Unternehmer kann von dem Verbraucher Sicherheiten für die
 Erfüllung seiner Pflichten aus dem Vertrag verlangen, wenn dies im
@@ -587,6 +601,7 @@ Sicherheiten verlangen.
 
 
 ## § 15 Besondere Bestimmungen bei Bezug von Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001601116)
 
 (1) In Verträgen mit Verbrauchern, die Leistungen nach dem Elften Buch
 Sozialgesetzbuch in Anspruch nehmen, müssen die Vereinbarungen den
@@ -610,12 +625,14 @@ ist entsprechend anzuwenden.
 
 
 ## § 16 Unwirksamkeit abweichender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001700000)
 
 Von den Vorschriften dieses Gesetzes zum Nachteil des Verbrauchers
 abweichende Vereinbarungen sind unwirksam.
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wbvg/BJNR231910009.html#BJNR231910009BJNE001801116)
 
 (1) Auf Heimverträge im Sinne des § 5 Absatz 1 Satz 1 des
 Heimgesetzes, die vor dem 1. Oktober 2009 geschlossenen worden sind,

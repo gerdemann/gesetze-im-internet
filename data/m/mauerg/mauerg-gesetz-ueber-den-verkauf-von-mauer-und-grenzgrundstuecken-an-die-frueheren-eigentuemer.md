@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000200000)
 
 (1) Mauer- und Grenzgrundstücke sind Grundstücke, die in den in § 8
 des Gesetzes über die Staatsgrenze der Deutschen Demokratischen
@@ -44,6 +45,7 @@ Gesetz ausgesetzt.
 
 
 ## § 2 Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000300000)
 
 (1) Ehemalige Eigentümer oder deren Rechtsnachfolger (Berechtigte)
 können ihre früheren, jetzt bundeseigenen Mauer- und Grenzgrundstücke
@@ -66,6 +68,7 @@ Einkommensteuergesetzes zu behandeln.
 
 
 ## § 3 Verwendung im öffentlichen Interesse
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000400000)
 
 (1) Will der Bund ein Grundstück für dringende eigene öffentliche
 Zwecke verwenden oder im öffentlichen Interesse an Dritte veräußern,
@@ -98,6 +101,7 @@ der Veräußerung von Mauer- und Grenzgrundstücken zu leisten.
 
 
 ## § 4 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000500000)
 
 Anträge auf Rückerwerb müssen bis zum Ablauf des 31. Januar 1997 bei
 der Oberfinanzdirektion gestellt werden, in deren Bezirk der
@@ -105,6 +109,7 @@ Vermögenswert belegen ist.
 
 
 ## § 5 Fonds
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000601126)
 
 (1) Der mit diesem Gesetz in der bis zum 31. Dezember 2023 geltenden
 Fassung errichtete Fonds zur Förderung von wirtschaftlichen, sozialen
@@ -130,6 +135,7 @@ nicht zur Erfüllung von rechtlichen Verpflichtungen eingesetzt werden.
 
 
 ## § 6 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000701126)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten der
@@ -139,6 +145,7 @@ sowie der Zahlungsmodalitäten nach § 3 zu regeln.
 
 
 ## § 7 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/ma_rg/BJNR098010996.html#BJNR098010996BJNE000800000)
 
 (1) Für Streitigkeiten aus diesem Gesetz ist der ordentliche Rechtsweg
 gegeben. Ein Widerspruchsverfahren findet nicht statt.

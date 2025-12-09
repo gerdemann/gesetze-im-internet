@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35hkgbek_1968/BJNR000960968.html#BJNR000960968BJNE000100304)
 
 Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes in der
 Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29) wird gemäß
@@ -35,6 +36,7 @@ Kronkolonie Hongkong bekanntgemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35hkgbek_1968/BJNR000960968.html#BJNR000960968BJNE000200304)
 
 Der Bundesminister der Justiz
 

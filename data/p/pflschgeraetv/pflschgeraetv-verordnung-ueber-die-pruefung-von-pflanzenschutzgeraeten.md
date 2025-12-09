@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Freiwillige Prüfung von Neugeräten
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNG000100000)
 
 
 ### § 1 Antrag auf Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000101119)
 
 (1) Der Antrag auf Prüfung eines Pflanzenschutzgerätes nach § 52
 Absatz 1 des Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S.
@@ -67,6 +69,7 @@ vom 19. April 2013 (BAnz AT 08.05.2013 B2), durchgeführt worden sind.
 
 
 ### § 2 Anerkennung einer Prüfstelle für Pflanzenschutzgeräte
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000200000)
 
 (1) Der Antrag auf Anerkennung nach § 52 Absatz 3 des
 Pflanzenschutzgesetzes als Prüfstelle ist schriftlich oder
@@ -153,9 +156,11 @@ Anerkennungsbescheinigung nach dem Muster der Anlage 2 ausgestellt.
 
 
 ## Abschnitt 2 - Kontrolle von im Gebrauch befindlichen Pflanzenschutzgeräten
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNG000200000)
 
 
 ### § 3 Grundsatz der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000301119)
 
 (1) Verfügungsberechtigte und Besitzer haben ihre in Gebrauch
 befindlichen Pflanzenschutzgeräte, mit Ausnahme der in Anlage 3
@@ -185,6 +190,7 @@ Verkehrssicherheit dienen, können in die Prüfung einbezogen werden.
 
 
 ### § 4 Zeitpunkt der Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000400000)
 
 (1) Erstmals in Gebrauch genommene Pflanzenschutzgeräte müssen
 spätestens bei Ablauf des sechsten Monats nach ihrer Ingebrauchnahme
@@ -205,6 +211,7 @@ zu dem dort genannten Zeitpunkt kontrolliert worden sein.
 
 
 ### § 5 Prüfplakette
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000500000)
 
 (1) Der Besitzer des Pflanzenschutzgerätes hat das Kalenderhalbjahr,
 in dem das Pflanzenschutzgerät nach § 3 Absatz 1 Satz 1 zu prüfen ist,
@@ -235,6 +242,7 @@ Kalenderhalbjahres ungültig.
 
 
 ### § 6 Verwendungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000600000)
 
 Pflanzenschutzgeräte, die keiner vorgeschriebenen Prüfung unterzogen
 oder nicht mit einer gültigen Plakette versehen worden sind, dürfen
@@ -242,6 +250,7 @@ nicht verwendet werden.
 
 
 ### § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000700000)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -250,6 +259,7 @@ entgegen § 6 ein Pflanzenschutzgerät verwendet.
 (zu § 1 Absatz 1)
 
 ### Anlage 1 Muster eines Antragsformulars nach § 1
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE000901119)
 
 (Fundstelle: BGBl. I 2019, 508)
 
@@ -375,6 +385,7 @@ entgegen § 6 ein Pflanzenschutzgerät verwendet.
 (zu § 2 Absatz 4)
 
 ### Anlage 2 Anerkennungsbescheinigung im Sinne des § 2
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE001000000)
 
 (Fundstelle: BGBl. I 2013, 1965)
 
@@ -500,6 +511,7 @@ entgegen § 6 ein Pflanzenschutzgerät verwendet.
 (zu § 3 Absatz 1)
 
 ### Anlage 3 Pflanzenschutzgerätearten, die nicht nach § 3 kontrolliert werden müssen
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE001101119)
 
 (Fundstelle: BGBl. I 2013, 1966)
 
@@ -534,6 +546,7 @@ Handgehaltene sowie schulter- und rückentragbare Pflanzenschutzgeräte,
 (zu § 3 Absatz 2)
 
 ### Anlage 4 Beschaffenheit der Pflanzenschutzgeräte
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE001200000)
 
 (Fundstelle: BGBl. I 2013, 1967)
 
@@ -587,6 +600,7 @@ Pflanzenschutzgeräte müssen so beschaffen sein, dass
 (zu § 4 Absatz 3)
 
 ### Anlage 5 Pflanzenschutzgeräte mit abweichenden Prüfterminen
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE001301119)
 
 (Fundstelle: BGBl. I 2013, 1968)
 
@@ -612,6 +626,7 @@ nach jeweils sechs Kalenderhalbjahren nach § 3 geprüft werden müssen:
 (zu § 5)
 
 ### Anlage 6 Muster der Plakette
+[Direktlink](https://www.gesetze-im-internet.de/pflschger_tv/BJNR196200013.html#BJNR196200013BJNE001400000)
 
 (Fundstelle: BGBl. I 2013, 1969)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wsvzustneuov/BJNR000090976.html#BJNR000090976BJNE000100325)
 
 Auf Grund
 
@@ -90,11 +91,13 @@ Auf Grund
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wsvzustneuov/BJNR000090976.html#BJNR000090976BJNE000200325)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wsvzustneuov/BJNR000090976.html#BJNR000090976BJNE000300325)
 
 Die von den Wasser- und Schiffahrtsdirektionen Aurich, Bremen,
 Hamburg, Kiel, Münster, Duisburg, Hannover, Mainz, Würzburg,
@@ -105,6 +108,7 @@ zuständige Wasser- und Schiffahrtsdirektion sie aufhebt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wsvzustneuov/BJNR000090976.html#BJNR000090976BJNE000400325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 21 des
@@ -124,6 +128,7 @@ Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wsvzustneuov/BJNR000090976.html#BJNR000090976BJNE000500325)
 
 (1) Diese Verordnung tritt am 1. Januar 1976 in Kraft.
 
@@ -131,6 +136,7 @@ Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wsvzustneuov/BJNR000090976.html#BJNR000090976BJNE000600325)
 
 Der Bundesminister für Verkehr
 

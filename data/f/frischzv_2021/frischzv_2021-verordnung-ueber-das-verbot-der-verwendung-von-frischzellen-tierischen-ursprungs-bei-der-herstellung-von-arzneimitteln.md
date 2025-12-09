@@ -25,6 +25,7 @@ Stand: Ersetzt V 2121-51-1-2-3 v. 4.3.1997 I 432 (FrischZV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000100000)
 
 Auf Grund des § 6 Absatz 2 des Arzneimittelgesetzes, der durch Artikel
 1 Nummer 2 des Gesetzes vom 9. August 2019 (BGBl. I S. 1202) neu
@@ -32,6 +33,7 @@ gefasst worden ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Frischzellen
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000200000)
 
 Frischzellen im Sinne dieser Verordnung sind
 
@@ -72,6 +74,7 @@ oder bearbeitetem Zustand vorliegen.
 
 
 ## § 2 Verbot der Verwendung von Frischzellen
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000300000)
 
 Es ist verboten, bei der Herstellung von Arzneimitteln, die zur
 parenteralen Anwendung beim Menschen bestimmt sind, Frischzellen als
@@ -80,6 +83,7 @@ Hilfsstoff zu verwenden.
 
 
 ## § 3 Ausnahmen vom Verbot
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000400000)
 
 (1) Vom Verbot ausgenommen ist die Verwendung von Frischzellen bei der
 Herstellung
@@ -172,6 +176,7 @@ oder der Bekanntgabe der Versagung des Antrags.
 
 
 ## § 4 Hinweis auf Strafvorschriften des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000500000)
 
 Zuwiderhandlungen gegen § 6 Absatz 1 des Arzneimittelgesetzes in
 Verbindung mit § 2 dieser Verordnung werden nach § 95 Absatz 1 Nummer
@@ -179,6 +184,7 @@ Verbindung mit § 2 dieser Verordnung werden nach § 95 Absatz 1 Nummer
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Frischzellen-Verordnung vom 4. März 1997 (BGBl.
@@ -186,6 +192,7 @@ I S. 432) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/frischzv_2021/BJNR098000021.html#BJNR098000021BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

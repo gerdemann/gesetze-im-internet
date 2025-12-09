@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bvwazustg131ano/BJNR503100960.html#BJNR503100960BJNE000100314)
 
 Auf Grund des § 60 Abs. 1 Satz 4 des Gesetzes zur Regelung der
 Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden
@@ -34,6 +35,7 @@ ich mir vor.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bvwazustg131ano/BJNR503100960.html#BJNR503100960BJNE000200314)
 
 Für im Bundesgebiet befindliche, dem Land Nordrhein-Westfalen im
 Notaufnahmeverfahren zugewiesene Personen, die aus der sowjetischen
@@ -45,6 +47,7 @@ Anordnung bei der durch Bekanntmachung vom 14. November 1955
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bvwazustg131ano/BJNR503100960.html#BJNR503100960BJNE000300314)
 
 Die Bekanntmachung vom 31. Juli 1954 (Gemeinsames Ministerialblatt S.
 378) betr. Bestimmung der Oberfinanzdirektion Düsseldorf als
@@ -52,17 +55,20 @@ Pensionsfestsetzungs- und Regelungsbehörde bleibt unberührt.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bvwazustg131ano/BJNR503100960.html#BJNR503100960BJNE000400314)
 
 -
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bvwazustg131ano/BJNR503100960.html#BJNR503100960BJNE000500314)
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bvwazustg131ano/BJNR503100960.html#BJNR503100960BJNE000600314)
 
 Der Bundesminister des Innern
 

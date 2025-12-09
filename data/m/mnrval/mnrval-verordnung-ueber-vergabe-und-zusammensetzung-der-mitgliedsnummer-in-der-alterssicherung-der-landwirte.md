@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000100310)
 
 Auf Grund des § 65 des Gesetzes über die Alterssicherung der Landwirte
 vom 29. Juli 1994 (BGBl. I S. 1890, 1891) verordnet das
@@ -30,6 +31,7 @@ Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
 
 ## § 1 Vergabe der Mitgliedsnummer
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000201308)
 
 (1) Die landwirtschaftliche Alterskasse vergibt an Versicherte, die
 bei ihr im Zeitpunkt der Vergabe versichert sind oder dort erstmalig
@@ -57,6 +59,7 @@ Mitgliedsnummern herzustellen ist.
 
 
 ## § 2 Zusammensetzung der Mitgliedsnummer
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000301308)
 
 (1) Die Mitgliedsnummer setzt sich zusammen aus
 
@@ -83,16 +86,19 @@ wird gemäß der Anlage 2 berechnet.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000400310)
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000500310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 Bereichsnummern
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000602308)
 
 (Fundstelle: BGBl. I 2012, 598)
 
@@ -193,6 +199,7 @@ Bereichsnummern für das Gebiet
 
 
 ## Anlage 2 Prüfziffer
+[Direktlink](https://www.gesetze-im-internet.de/mnrval/BJNR172400996.html#BJNR172400996BJNE000700310)
 
 (Fundstelle: BGBl. I 1996, 1725)
 

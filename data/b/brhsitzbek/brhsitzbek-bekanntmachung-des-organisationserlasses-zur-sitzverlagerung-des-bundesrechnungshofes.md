@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/brhsitzbek/BJNR191500999.html#BJNR191500999BJNE000100305)
 
 Mit Wirkung vom 1. Juli 2000 wird der Sitz des Bundesrechnungshofes
 von Frankfurt am Main nach Bonn verlagert.

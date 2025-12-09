@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erlaubnisinhaber nach dem Rechtsberatungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000104125)
 
 (1) Inhaber von behördlichen Erlaubnissen zur Besorgung fremder
 Rechtsangelegenheiten, die nicht Mitglied einer Rechtsanwaltskammer
@@ -76,6 +77,7 @@ Abwickler für seine Praxis bestellen. § 14a Absatz 1 Satz 2 und Absatz
 
 
 ## § 2 Versicherungsberater
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000201119)
 
 Abweichend von § 1 Absatz 1 können Personen mit einer Erlaubnis zur
 Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der
@@ -85,6 +87,7 @@ nach § 34d Absatz 2 der Gewerbeordnung beantragen.
 
 
 ## § 3 Gerichtliche Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000305125)
 
 (1) Kammerrechtsbeistände stehen in den nachfolgenden Vorschriften
 einem Rechtsanwalt gleich:
@@ -169,6 +172,7 @@ Zivilprozessordnung gilt entsprechend.
 
 
 ## § 4 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000405119)
 
 (1) Für die Vergütung der registrierten Erlaubnisinhaber mit Ausnahme
 der Frachtprüferinnen und Frachtprüfer gilt § 13d des
@@ -180,6 +184,7 @@ Rechtsdienstleistungsgesetzes entsprechend.
 
 
 ## § 5 Diplom-Juristen aus dem Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000504125)
 
 Personen, die bis zum 9. September 1996 die fachlichen Voraussetzungen
 für die Zulassung zur Rechtsanwaltschaft nach § 4 des
@@ -223,6 +228,7 @@ mit Befähigung zum Richteramt gleich:
 
 
 ## § 6 Schutz der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000600000)
 
 Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln
 ähnliche Bezeichnung darf nur von Kammerrechtsbeiständen und
@@ -230,6 +236,7 @@ registrierten Rechtsbeiständen geführt werden.
 
 
 ## § 7 Übergangsvorschrift zur Änderung der Zuständigkeit im Rechtsdienstleistungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rdgeg/BJNR284600007.html#BJNR284600007BJNE000703125)
 
 (1) Das Bundesamt für Justiz hat in der Zeit vom 1. Januar bis 31.
 August 2024 über die Landesjustizverwaltungen die von den nach § 19

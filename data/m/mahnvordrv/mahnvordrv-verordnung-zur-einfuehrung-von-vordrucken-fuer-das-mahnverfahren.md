@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000100306)
 
 Auf Grund des durch Artikel 1 Nr. 95 der Vereinfachungsnovelle vom 3.
 Dezember 1976 (BGBl. I S. 3281) eingefügten § 703c Abs. 1 Satz 1 und 2
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Vordrucke für die nichtmaschinelle Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000201308)
 
 (1) Für Mahnverfahren bei Gerichten, die die Verfahren nicht
 maschinell bearbeiten, werden eingeführt
@@ -101,6 +103,7 @@ ersetzt werden.
 
 
 ## § 1a Beschriftung mittels Schreibprogramm
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000902125)
 
 (1) Die in § 173 Absatz 2 der Zivilprozeßordnung bezeichneten Personen
 und Stellen können den in Anlage 1 bestimmten Vordruck in einem aus
@@ -157,6 +160,7 @@ behoben ist.
 
 
 ## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000304311)
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
 Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des
@@ -184,6 +188,7 @@ In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 
 
 ## § 2a Übergang zum Euro
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000801310)
 
 (1) Für Mahnverfahren, die die Zahlung einer bestimmten Geldsumme in
 Euro zum Gegenstand haben, wird der in Anlage 1 bestimmte Vordruck in
@@ -244,6 +249,7 @@ amtlichen Kurses von 1 Euro = 1,95583 Deutsche Mark umgerechnet."
 
 
 ## § 2b Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE001001310)
 
 Die bisher eingeführten Vordrucke können bis zum 31. Dezember 2002
 weiterverwendet werden. Berichtigungen auf der Vorderseite von Blatt
@@ -256,16 +262,19 @@ des Zivilprozesses vom 27. Juli 2001 (BGBl. I S. 1887) entsprechen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000400306)
 
 Diese Verordnung tritt am 1. Juli 1977 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000500306)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000604310)
 
 < Inhalt: nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 1991, 1549 - 1562,
@@ -273,6 +282,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote >
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/mahnvordrv/BJNR006930977.html#BJNR006930977BJNE000702307)
 
 < Inhalt: nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 1991, 1563 - 1566,

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000100000)
 
 Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch
 - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20.
@@ -31,6 +32,7 @@ und Soziale Sicherung:
 
 
 ## § 1 Prüfungsstelle und Beschwerdeausschuss
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000202308)
 
 (1) Die Prüfungsstelle nach Absatz 4 und der Beschwerdeausschuss sind
 jeweils als organisatorisch selbständige Einheiten einzurichten. Der
@@ -73,6 +75,7 @@ Beratung beteiligt werden.
 
 
 ## § 2 Aufgaben und Entschädigung des Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000302308)
 
 (1) Der Vorsitzende ist für die Durchführung der Aufgaben des
 Ausschusses verantwortlich. Er führt die laufenden Geschäfte des
@@ -119,6 +122,7 @@ gesonderte Vergütung vereinbaren.
 
 
 ## § 3 Pflichten der Mitglieder, Abberufung, Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000402119)
 
 (1) Die Mitglieder des Ausschusses sind verpflichtet, an den Sitzungen
 teilzunehmen; bei Verhinderung haben sie die Prüfungsstelle und ihren
@@ -139,6 +143,7 @@ Ausschuss zur Kenntnis gelangen, nicht unbefugt offenbaren.
 
 
 ## § 4 Aufgaben und Personal der Prüfungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000502119)
 
 (1) Die Prüfungsstelle hat neben ihren sich aus dem Fünften Buch
 Sozialgesetzbuch ergebenden Aufgaben insbesondere
@@ -204,6 +209,7 @@ und Sparsamkeit.
 
 
 ## § 5 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000601308)
 
 (1) Die mit der Tätigkeit des Vorsitzenden des Beschwerdeausschusses
 und seiner Stellvertreter verbundenen Kosten nach § 2 sowie die Kosten
@@ -219,11 +225,13 @@ entsandten Vertreter selbst.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000700000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wipr_fvo/BJNR002900004.html#BJNR002900004BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

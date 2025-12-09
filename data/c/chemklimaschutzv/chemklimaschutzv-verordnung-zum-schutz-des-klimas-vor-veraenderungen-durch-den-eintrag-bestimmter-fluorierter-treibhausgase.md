@@ -33,6 +33,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000100000)
 
 Es verordnet die Bundesregierung
 
@@ -63,6 +64,7 @@ Es verordnet die Bundesregierung
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000202119)
 
 (1) Diese Verordnung gilt ergänzend zu der Verordnung (EU) Nr.
 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014
@@ -92,6 +94,7 @@ Nr. 842/2006 (ABl. L 150 vom 20.5.2014, S. 195).
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000301119)
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -126,6 +129,7 @@ Verordnung (EU) Nr. 517/2014.
 
 
 ## § 3 Verhinderung des Austrittes von fluorierten Treibhausgasen in die Atmosphäre
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000401119)
 
 (1) Wer ortsfeste Einrichtungen im Sinne des Artikels 4 Absatz 2
 Buchstabe a bis d der Verordnung (EU) Nr. 517/2014 betreibt, hat
@@ -294,6 +298,7 @@ zuvor beseitigt wurde.
 
 
 ## § 4 Rückgewinnung und Rücknahme verwendeter Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000505124)
 
 (1) Betreiber, die für die Rückgewinnung fluorierter Treibhausgase aus
 Einrichtungen nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 517/2014
@@ -348,6 +353,7 @@ bekannt gegeben werden.
 
 
 ## § 5 Persönliche Voraussetzungen für bestimmte Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000605119)
 
 (1) Eine in Artikel 10 Absatz 1 Buchstabe a bis c der Verordnung (EU)
 Nr. 517/2014 aufgeführte Tätigkeit sowie die Rückgewinnung aus
@@ -602,6 +608,7 @@ zu beurteilen.
 
 
 ## § 6 Zertifizierung von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000701119)
 
 (1) Unternehmen dürfen Tätigkeiten nach Artikel 3 Absatz 4 Unterabsatz
 2 der Verordnung (EU) Nr. 517/2014 nur durchführen, wenn sie eines der
@@ -660,6 +667,7 @@ erforderlichen Angaben ersichtlich sind.
 
 
 ## § 7 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000801119)
 
 (1) Wer nach Artikel 12 der Verordnung (EU) Nr. 517/2014 in Verbindung
 mit Artikel 2 der Durchführungsverordnung (EU) 2015/2068 der
@@ -683,6 +691,7 @@ Durchführungsverordnung (EU) 2015/2068 enthalten.
 
 
 ## § 8 Sonstige Betreiberpflichten
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE001600119)
 
 (1) Der Betreiber einer stationären Einrichtung nach Artikel 4 Absatz
 2 Buchstabe a bis d der Verordnung (EU) Nr. 517/2014 darf ein anderes
@@ -720,6 +729,7 @@ Nummer 1 vorweisen können.
 
 
 ## § 9 Inverkehrbringen, Verkauf und Kauf fluorierter Treibhausgase
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE001701119)
 
 (1) Wer teilfluorierte Kohlenwasserstoffe in Verkehr bringt, bedarf
 der vorherigen Zuteilung einer Quote nach Artikel 16 Absatz 5 Satz 1
@@ -753,6 +763,7 @@ durchführen.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE000902119)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 5 Buchstabe c des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -835,6 +846,7 @@ rechtzeitig vorlegt.
 
 
 ## § 11 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE001800119)
 
 Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes
 wird bestraft, wer ohne Zuteilung oder Übertragung nach § 9 Absatz 1
@@ -842,6 +854,7 @@ Satz 1 teilfluorierte Kohlenwasserstoffe in Verkehr bringt.
 
 
 ## § 12 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE001301119)
 
 (1) Über einen Antrag auf
 
@@ -891,6 +904,7 @@ können verlangt werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/chemklimaschutzv/BJNR113900008.html#BJNR113900008BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

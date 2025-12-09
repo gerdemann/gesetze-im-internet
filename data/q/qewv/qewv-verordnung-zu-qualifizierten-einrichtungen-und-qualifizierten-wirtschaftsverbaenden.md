@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000100000)
 
 Auf Grund
 
@@ -41,12 +42,15 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## Abschnitt 1 - Qualifizierte Verbraucherverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000101360)
 
 
 ### Unterabschnitt 1 - Eintragung in die Liste der qualifizierten Verbraucherverbände nach § 4 des Unterlassungsklagengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000201360)
 
 
 #### § 1 Antrag auf Eintragung in die Liste der qualifizierten Verbraucherverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000201360)
 
 (1) Der Antrag eines eingetragenen Vereins auf Eintragung in die Liste
 der qualifizierten Verbraucherverbände nach § 4 Absatz 1 des
@@ -125,6 +129,7 @@ Absatz 4, § 4 Absatz 2, § 5 Absatz 2 und § 6 Absatz 2.
 
 
 #### § 2 Angaben zu den Mitgliedern des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000300000)
 
 (1) Der Verein hat eine zum Zeitpunkt der Antragstellung aktuelle
 Mitgliederliste vorzulegen, in der mindestens 75 natürliche Personen
@@ -186,6 +191,7 @@ des Unterlassungsklagengesetzes erfüllt sind.
 
 
 #### § 3 Angaben zu den Organmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000400000)
 
 (1) Der Verein hat eine zum Zeitpunkt der Antragstellung aktuelle
 Liste der Mitglieder aller Vereinsorgane, außer der Mitglieder der
@@ -236,6 +242,7 @@ Rechtsgrund angibt.
 
 
 #### § 4 Angaben zur Tätigkeit des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000500000)
 
 (1) Der Verein hat einen Bericht einzureichen, der einen Überblick
 über seine satzungsmäßigen Tätigkeiten im Bereich der Wahrnehmung der
@@ -267,6 +274,7 @@ einzelnen Beratungen enthalten:
 
 
 #### § 5 Angaben zur sachlichen und personellen Ausstattung des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000600000)
 
 (1) Der Verein hat Folgendes anzugeben:
 
@@ -315,6 +323,7 @@ Nummer 3 und 4 entsprechend anzuwenden.
 
 
 #### § 6 Angaben zur finanziellen Ausstattung des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000700000)
 
 (1) Der Verein hat eine Übersicht über seine Einnahmen und Ausgaben
 für das letzte vollständige Geschäftsjahr oder das erste Jahr der
@@ -355,9 +364,11 @@ nach Absatz 1 für weitere Rechnungsjahre verlangen.
 
 
 ### Unterabschnitt 2 - Überprüfung und Änderung der Eintragungen in der Liste der qualifizierten Verbraucherverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000301360)
 
 
 #### § 7 Mitteilungspflichten der qualifizierten Verbraucherverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000801360)
 
 (1) Ein qualifizierter Verbraucherverband hat dem Bundesamt für Justiz
 unverzüglich Folgendes mitzuteilen:
@@ -388,6 +399,7 @@ Absatz 2 entsprechend anzuwenden.
 
 
 #### § 8 Aufhebung der Eintragung in der Liste der qualifizierten Verbraucherverbände auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE000901360)
 
 (1) Der Antrag nach § 4c Absatz 1 Nummer 1 des
 Unterlassungsklagengesetzes auf Aufhebung der Eintragung in der Liste
@@ -404,6 +416,7 @@ qualifizierten Verbraucherverbände.
 
 
 #### § 9 Verfahren zur Überprüfung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001001360)
 
 (1) Das Bundesamt für Justiz leitet das Verfahren zur Überprüfung der
 Eintragung nach § 4a des Unterlassungsklagengesetzes unverzüglich ein,
@@ -470,12 +483,15 @@ verlängern.
 
 
 ## Abschnitt 2 - Qualifizierte Wirtschaftsverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000400000)
 
 
 ### Unterabschnitt 1 - Eintragung in die Liste der qualifizierten Wirtschafts- verbände nach § 8b des Gesetzes gegen den unlauteren Wettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000500000)
 
 
 #### § 10 Antrag auf Eintragung in die Liste der qualifizierten Wirtschaftsverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001100000)
 
 (1) Der Antrag eines rechtsfähigen Verbands auf Eintragung in die
 Liste der qualifizierten Wirtschaftsverbände nach § 8b Absatz 1 des
@@ -547,6 +563,7 @@ und Absatz 4, § 13 Absatz 2 und 3, § 14 Absatz 2 und § 15 Absatz 2.
 
 
 #### § 11 Angaben zu den Mitgliedsunternehmern
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001200000)
 
 (1) Der Verband hat eine zum Zeitpunkt der Antragstellung aktuelle
 Mitgliederliste vorzulegen, in der mindestens 75 Unternehmer als
@@ -599,6 +616,7 @@ Gesetzes gegen den unlauteren Wettbewerb erfüllt sind.
 
 
 #### § 12 Angaben zu den Organmitgliedern des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001300000)
 
 (1) Der Verband hat eine zum Zeitpunkt der Antragstellung aktuelle
 Liste der Mitglieder aller Verbandsorgane, außer der Mitglieder der
@@ -649,6 +667,7 @@ Absätzen 2 und 3 entsprechend anzuwenden.
 
 
 #### § 13 Angaben zur Tätigkeit des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001400000)
 
 (1) Der Verband hat einen Bericht einzureichen, der einen Überblick
 über seine folgenden satzungsmäßigen Tätigkeiten in den letzten zwölf
@@ -702,6 +721,7 @@ die letzten zwölf Monate vor der Antragstellung auch eine Übersicht
 
 
 #### § 14 Angaben zur sachlichen und personellen Ausstattung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001500000)
 
 (1) Der Verband hat Folgendes anzugeben:
 
@@ -750,6 +770,7 @@ Nummer 3 und 4 entsprechend anzuwenden.
 
 
 #### § 15 Angaben zur finanziellen Ausstattung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001600000)
 
 (1) Der Verband hat eine Übersicht über seine Einnahmen und Ausgaben
 für das letzte vollständige Rechnungsjahr oder das erste Jahr der
@@ -804,9 +825,11 @@ Ausgaben nach Absatz 1 auch für weitere Rechnungsjahre verlangen.
 
 
 ### Unterabschnitt 2 - Überprüfung und Änderung der Eintragungen in der Liste der qualifizierten Wirtschaftsverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000600000)
 
 
 #### § 16 Mitteilungspflichten der qualifizierten Wirtschaftsverbände
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001700000)
 
 (1) Ein qualifizierter Wirtschaftsverband hat dem Bundesamt für Justiz
 unverzüglich Folgendes mitzuteilen:
@@ -838,6 +861,7 @@ entsprechend anzuwenden.
 
 
 #### § 17 Verfahren zur Überprüfung der Eintragung und Aufhebung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001800000)
 
 (1) Das Bundesamt für Justiz leitet das Verfahren zur Überprüfung der
 Eintragung nach § 8b Absatz 3 des Gesetzes gegen den unlauteren
@@ -879,9 +903,11 @@ Wirtschaftsverbands ist § 8 entsprechend anzuwenden.
 
 
 ## Abschnitt 3 - Liste der qualifizierten Einrichtungen für grenzüberschreitende Verbandsklagen nach § 4d des Unterlassungsklagengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000900360)
 
 
 ### § 18 Antrag auf Eintragung in die Liste der qualifizierten Einrichtungen nach § 4d des Unterlassungsklagengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002300360)
 
 (1) Der Antrag einer juristischen Person auf Eintragung in die Liste
 der qualifizierten Einrichtungen für grenzüberschreitende
@@ -960,6 +986,7 @@ der nach Absatz 1 Satz 2 Nummer 6 mitgeteilten Internetseite zu
 
 
 ### § 19 Mitteilungspflichten der qualifizierten Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002400360)
 
 Die qualifizierten Einrichtungen haben dem Bundesamt für Justiz
 unverzüglich Folgendes mitzuteilen:
@@ -979,6 +1006,7 @@ unverzüglich Folgendes mitzuteilen:
 
 
 ### § 20 Aufhebung der Eintragung in der Liste der qualifizierten Einrichtungen auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002500360)
 
 Für das Verfahren der Aufhebung einer Eintragung in der Liste der
 qualifizierten Einrichtungen für grenzüberschreitende Verbandsklagen
@@ -987,6 +1015,7 @@ Unterlassungsklagengesetzes ist § 8 entsprechend anzuwenden.
 
 
 ### § 21 Überprüfung einer Eintragung in der Liste der qualifizierten Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002600360)
 
 (1) Das Bundesamt für Justiz leitet nach § 4e des
 Unterlassungsklagengesetzes ein Verfahren zur Überprüfung der
@@ -1016,9 +1045,11 @@ Auf Antrag kann das Bundesamt für Justiz die Frist verlängern.
 
 
 ## Abschnitt 4 - Jährliche Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000701360)
 
 
 ### § 22 Inhalt der Berichtsplichten
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE001901360)
 
 (1) Die qualifizierten Einrichtungen haben zur Erfüllung der
 Berichtspflichten nach § 4b Absatz 1 Satz 1 Nummer 1 bis 3 des
@@ -1058,6 +1089,7 @@ Unterlassungsklagengesetzes.
 
 
 ### § 23 Nachfrist zur Erfüllung der Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002001360)
 
 Wenn qualifizierte Einrichtungen ihre Berichtspflichten nach § 4b
 Absatz 1 des Unterlassungsklagengesetzes oder qualifizierte
@@ -1071,9 +1103,11 @@ innerhalb einer angemessenen Nachfrist zu erfüllen.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten; Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNG000801360)
 
 
 ### § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002101360)
 
 (1) Ordnungswidrig im Sinne des § 16 Absatz 1 Nummer 2 des
 Unterlassungsklagengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1087,6 +1121,7 @@ zuwiderhandelt.
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/qewv/BJNR183200021.html#BJNR183200021BJNE002201360)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

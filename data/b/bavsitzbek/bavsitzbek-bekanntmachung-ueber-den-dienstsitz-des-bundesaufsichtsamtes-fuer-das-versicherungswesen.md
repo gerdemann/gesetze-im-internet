@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bavsitzbek/BJNR169700000.html#BJNR169700000BJNE000100305)
 
 Das Bundesministerium der Finanzen gibt gemäß § 9 Nr. 3 des
 Berlin/Bonn-Gesetzes vom 26. April 1994 (BGBl. I S. 918), der durch

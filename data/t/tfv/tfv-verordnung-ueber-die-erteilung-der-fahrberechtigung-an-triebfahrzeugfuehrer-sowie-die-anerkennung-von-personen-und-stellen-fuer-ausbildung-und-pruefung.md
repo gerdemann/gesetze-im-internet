@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000102311)
 
 (1) Diese Verordnung regelt die Ausbildung von Triebfahrzeugführern,
 die Erteilung von Triebfahrzeugführerscheinen und
@@ -42,6 +44,7 @@ Buchstabe e und f des Eisenbahnregulierungsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000203311)
 
 Im Sinne dieser Verordnung bedeutet:
 
@@ -109,6 +112,7 @@ Im Sinne dieser Verordnung bedeutet:
 
 
 ### § 3 Fahrberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000301311)
 
 (1) Wer ein Triebfahrzeug eigenständig führt, bedarf der
 Fahrberechtigung. Sie ist durch
@@ -169,6 +173,7 @@ auf Verlangen zur Prüfung auszuhändigen.
 
 
 ### § 4 Geografischer Geltungsbereich, ausstellende Stelle und Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000400000)
 
 (1) Der Triebfahrzeugführerschein wird von der zuständigen Behörde
 ausgestellt und ist Eigentum des Triebfahrzeugführers.
@@ -185,9 +190,11 @@ Satz 2 Nummer 2.
 
 
 ## Zweiter Abschnitt - Erteilung des Triebfahrzeugführerscheins und Ausstellung der Zusatzbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNG000200000)
 
 
 ### § 5 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000502311)
 
 (1) Die zuständige Behörde erteilt den Triebfahrzeugführerschein nach
 Anlage 1 oder den vorläufigen Führerschein nach Anlage 3, wenn der
@@ -292,6 +299,7 @@ erforderlich.
 
 
 ### § 6 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000603311)
 
 (1) Die Ausbildung von Triebfahrzeugführern umfasst die Fertigkeiten
 und Kenntnisse nach den Anlagen 5, 6 und 7.
@@ -332,6 +340,7 @@ wird.
 
 
 ### § 7 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000701311)
 
 (1) Die Prüfung für den Triebfahrzeugführerschein besteht aus einer
 theoretischen Prüfung mit schriftlichem und mündlichem Teil und die
@@ -413,6 +422,7 @@ und 7 vor.
 
 
 ### § 7a Grundsätze für Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003500311)
 
 (1) Prüfungen sind unter besonderer Beachtung der Vertraulichkeit der
 Prüfungsfragen vorzubereiten.
@@ -426,6 +436,7 @@ angemessener Dauer sein.
 
 
 ### § 8 Erteilung des Triebfahrzeugführerscheins
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000800000)
 
 (1) Der Triebfahrzeugführerschein ist vom Bewerber oder von seinem
 Bevollmächtigten bei der zuständigen Behörde zu beantragen. Der Antrag
@@ -481,6 +492,7 @@ Triebfahrzeugführerscheins auf ihrer Internetseite.
 
 
 ### § 8a Erhebung, Speicherung und Nutzung personenbezogener Daten zur Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003401305)
 
 (1) Die zuständige Behörde ist berechtigt, zum Zweck der Erteilung des
 Triebfahrzeugführerscheins den Antragsteller zur Vorlage einer Kopie
@@ -504,6 +516,7 @@ vernichten.
 
 
 ### § 9 Ausstellung der Zusatzbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE000901311)
 
 (1) Der Unternehmer legt Verfahren für die Ausstellung oder Änderung
 der Zusatzbescheinigungen im Rahmen seines
@@ -540,9 +553,11 @@ wird.
 
 
 ## Dritter Abschnitt - Einsatz als Triebfahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNG000300000)
 
 
 ### § 10 Register der Triebfahrzeugführerscheine und Zusatzbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001001311)
 
 (1) Das Register der Triebfahrzeugführerscheine nach Absatz 2 und die
 Register der Zusatzbescheinigungen nach Absatz 4 werden geführt, um
@@ -629,6 +644,7 @@ veröffentlicht sie auf ihrer Internetseite.
 
 
 ### § 11 Regelmäßige und anlassbezogene Überprüfungen und Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001101311)
 
 (1) Jeder Unternehmer hat im Rahmen seines
 Sicherheitsmanagementsystems sicherzustellen, dass der
@@ -694,6 +710,7 @@ nach Abschluss der Überprüfung oder der Untersuchung mit.
 
 
 ### § 12 Überwachung der Triebfahrzeugführer; Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001201311)
 
 (1) Ergeben sich aus einer Überprüfung oder einer Untersuchung
 Tatsachen, die Zweifel an der Befähigung eines Triebfahrzeugführers
@@ -737,6 +754,7 @@ Aufmerksamkeit oder sein Verhalten beeinträchtigen können.
 
 
 ### § 13 Beendigung oder Wechsel des Beschäftigungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001302311)
 
 (1) Wenn das Beschäftigungsverhältnis eines Triebfahrzeugführers bei
 einem Unternehmer beginnt oder endet, hat der Unternehmer die
@@ -757,9 +775,11 @@ zutreffen.
 
 
 ## Vierter Abschnitt - Anerkennung von Personen und Stellen für die Ausbildung, Prüfung und Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1, 3.2
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNG000401311)
 
 
 ### § 14 Voraussetzungen für die Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001402311)
 
 (1) Wer Triebfahrzeugführer ausbilden will, bedarf der Anerkennung.
 
@@ -853,6 +873,7 @@ Ausbildungsstelle an, wenn
 
 
 ### § 14a Antrag auf Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer; Antrag auf Verlängerung oder Änderung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003600311)
 
 (1) Die erstmalige Anerkennung als Ausbilder oder als
 Ausbildungsstelle für Triebfahrzeugführer, die Verlängerung der
@@ -887,6 +908,7 @@ der Anerkennung regeln Verwaltungsvorschriften.
 
 
 ### § 14b Anerkennung als Ausbilder oder als Ausbildungsstelle für Triebfahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003700311)
 
 (1) Die Anerkennung als Ausbildungsstelle kann mehrere
 Ausbildungsstätten an verschiedenen Orten einschließen.
@@ -897,6 +919,7 @@ jeweils um längstens fünf Jahre verlängert werden.
 
 
 ### § 14c Anerkennung als Ausbilder oder als Ausbildungsstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003800311)
 
 (1) Die zuständige Behörde kann Personen und Stellen als Ausbilder
 oder als Ausbildungsstelle für den Teilbereich infrastrukturbezogene
@@ -915,6 +938,7 @@ die Anerkennung beantragt worden ist.
 
 
 ### § 14d Anerkennung als Ausbilder oder als Ausbildungsstelle für sonstiges, mit sicherheitsrelevanten betrieblichen Aufgaben betrautes Eisenbahnpersonal
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003900311)
 
 Die zuständige Behörde erkennt eine Person oder eine Stelle auf deren
 Antrag als Ausbilder oder als Ausbildungsstelle für sonstiges, mit
@@ -923,6 +947,7 @@ Eisenbahnpersonal an. Die §§ 14 bis 14c gelten entsprechend.
 
 
 ### § 15 Voraussetzungen für die Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001502311)
 
 (1) Wer Triebfahrzeugführer prüfen will, bedarf der Anerkennung.
 
@@ -1049,6 +1074,7 @@ Prüfstelle an, wenn
 
 
 ### § 15a Antrag auf Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer; Antrag auf Verlängerung oder Änderung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004000311)
 
 (1) Die erstmalige Anerkennung als Prüfer oder als Prüfstelle für
 Triebfahrzeugführer, die Verlängerung der Anerkennung und die Änderung
@@ -1061,6 +1087,7 @@ sie tätigen Prüfer an.
 
 
 ### § 15b Anerkennung als Prüfer oder als Prüfstelle für Triebfahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004200311)
 
 Die Anerkennung als Prüfer oder als Prüfstelle ist zu befristen. Sie
 gilt längstens für fünf Jahre. Sie kann auf Antrag jeweils um
@@ -1068,6 +1095,7 @@ längstens fünf Jahre verlängert werden.
 
 
 ### § 15c Anerkennung als Prüfer oder als Prüfstelle für den Teilbereich infrastrukturbezogene Fachkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004300311)
 
 (1) Die zuständige Behörde kann Personen und Stellen als Prüfer oder
 als Prüfstelle für den Teilbereich infrastrukturbezogene
@@ -1086,6 +1114,7 @@ Anerkennung beantragt worden ist.
 
 
 ### § 16 Voraussetzungen für die Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001602311)
 
 (1) Wer Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder
 3\.2 bei Triebfahrzeugführern durchführen will, bedarf der Anerkennung.
@@ -1164,6 +1193,7 @@ teilzunehmen.
 
 
 ### § 16a Antrag auf Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2; Antrag auf Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004400311)
 
 (1) Die erstmalige Anerkennung als Arzt oder Psychologe oder als
 zuständige Stelle für die Durchführung von Untersuchungen nach Anlage
@@ -1182,6 +1212,7 @@ regeln Verwaltungsvorschriften.
 
 
 ### § 16b Befristung und Verlängerung der Anerkennung als Arzt oder Psychologe oder als zuständige Stelle für die Durchführung von Untersuchungen nach Anlage 4 Unterabschnitt 2.1, 2.2, 3.1 oder 3.2
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004500311)
 
 (1) Die Anerkennung als Arzt oder Psychologe oder als zuständige
 Stelle für die Durchführung von Untersuchungen nach Anlage 4
@@ -1194,6 +1225,7 @@ erfüllt.
 
 
 ### § 17 Gemeinsame Bestimmungen für die Anerkennung von Personen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001701311)
 
 (1) Die zuständige Behörde führt ein Register der von ihr nach den §§
 14, 14d, 15 und 16 anerkannten Personen und Stellen. Das Register muss
@@ -1248,6 +1280,7 @@ Anerkennungsvoraussetzungen zu informieren.
 
 
 ### § 18 Gemeinsame Bestimmungen für die Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001801311)
 
 (1) Jede anerkannte Person ist verpflichtet, ihre Tätigkeiten im
 Zusammenhang mit der Ausbildung von Triebfahrzeugführern oder mit der
@@ -1267,9 +1300,11 @@ des Allgemeinen Eisenbahngesetzes erfasst werden.
 
 
 ## Fünfter Abschnitt - Kontrollen und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNG000500000)
 
 
 ### § 19 Kontrollen durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE001901311)
 
 (1) Die zuständige Behörde ist berechtigt, zu überprüfen, ob die auf
 dem Gebiet der Bundesrepublik Deutschland tätigen Triebfahrzeugführer,
@@ -1282,6 +1317,7 @@ dieser Verordnung mitzuführenden Dokumente vorweisen kann.
 
 
 ### § 19a Aussetzung und Entziehung eines Triebfahrzeugführerscheins
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004600311)
 
 (1) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die
 Erteilung eines Triebfahrzeugführerscheins nicht mehr, so kann die
@@ -1303,6 +1339,7 @@ die in § 5 Absatz 1 genannten Voraussetzungen wieder erfüllt.
 
 
 ### § 19b Maßnahmen bei Wegfall der Voraussetzungen für die Erteilung eines Triebfahrzeugführerscheins mit Auslandsbezug
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004700311)
 
 (1) Ist der Triebfahrzeugführerschein, für dessen Erteilung der
 Triebfahrzeugführer die Voraussetzungen nicht mehr erfüllt, in einem
@@ -1332,6 +1369,7 @@ Mitgliedstaaten der Europäischen Union ihre Entscheidung mit.
 
 
 ### § 19c Weitere Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004800311)
 
 (1) Erfüllt ein Triebfahrzeugführer die Voraussetzungen für die
 Ausstellung einer Zusatzbescheinigung nicht mehr, fordert die
@@ -1368,6 +1406,7 @@ Gebiet der Bundesrepublik Deutschland aufrechterhalten.
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002001311)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des
 Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1440,9 +1479,11 @@ Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Sechster Abschnitt - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNG000600000)
 
 
 ### § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002104311)
 
 (1) Für Triebfahrzeugführer, die ihre Fahrberechtigung oder ihre
 Erlaubnis nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des
@@ -1496,6 +1537,7 @@ verlängert.
 
 
 ### § 22 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE004900311)
 
 Bis zum Ablauf des 31. Dezember 2024 sind § 6 Absatz 3, § 7 Absatz 1
 und Anlage 8 in der am 8. Dezember 2023 geltenden Fassung weiter
@@ -1504,6 +1546,7 @@ anzuwenden.
 (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3)
 
 ### Anlage 1 Modell der Europäischen Union für den Triebfahrzeugführerschein
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002202311)
 
 (Fundstelle: BGBl. I 2011, 714 - 715; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -1657,6 +1700,7 @@ vgl. Fußnote)
 (zu § 3 Absatz 1 Satz 2 Nummer 2 und § 5 Absatz 2)
 
 ### Anlage 2 Europäisches Modell für die Zusatzbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002301311)
 
 (Fundstelle: BGBl. I 2011, 716 - 719; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -1947,6 +1991,7 @@ D.  Europäisches Modell für die Zusatzbescheinigung
    (zu § 5 Absatz 1 und § 8 Absatz 2)
 
 ### Anlage 3 Muster eines vorläufigen Führerscheins
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002401311)
 
 (Fundstelle: BGBl. 2023 I Nr. 345, S. 12)
 
@@ -2015,6 +2060,7 @@ D.  Europäisches Modell für die Zusatzbescheinigung
 12 Absatz 5, §§ 16 bis 16b)
 
 ### Anlage 4 Medizinische und psychologische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002502311)
 
 (Fundstelle: BGBl. I 2011, 721 - 722; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -2254,6 +2300,7 @@ vgl. Fußnote)
 und § 11 Absatz 3 Satz 1)
 
 ### Anlage 5 Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002602311)
 
 (Fundstelle: BGBl. I 2011, 723; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -2379,6 +2426,7 @@ Fußnote)
 Absatz 3 Satz 1)
 
 ### Anlage 6 Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002701311)
 
 (Fundstelle: BGBl. I 2011, 724 - 725; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -2566,6 +2614,7 @@ vgl. Fußnote)
 Satz 1)
 
 ### Anlage 7 Infrastrukturbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002803311)
 
 (Fundstelle: BGBl. I 2011, 726 - 727; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -2769,6 +2818,7 @@ vgl. Fußnote)
 (zu § 6 Absatz 3 und § 7 Absatz 1 Satz 2)
 
 ### Anlage 8 Ausbildungsmethode
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE002901311)
 
 (Fundstelle: BGBl. I 2011, 728; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -2855,6 +2905,7 @@ Fußnote)
 (zu § 10 Absatz 2 und 3)
 
 ### Anlage 9 Register der Triebfahrzeugführerscheine
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003001311)
 
 (Fundstelle: BGBl. I 2011, 729 - 732; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -3713,6 +3764,7 @@ vgl. Fußnote)
 (zu § 10 Absatz 4 und 6)
 
 ### Anlage 10 Register der Zusatzbescheinigungen für Triebfahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003101311)
 
 (Fundstelle: BGBl. I 2011, 733 - 736; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -4451,6 +4503,7 @@ vgl. Fußnote)
 (zu § 11 Absatz 1 Satz 2 und Absatz 4 Satz 2)
 
 ### Anlage 11 Häufigkeit der regelmäßigen Untersuchungen und Überprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003201311)
 
 (Fundstelle: BGBl. I 2011, 737; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -4508,6 +4561,7 @@ Fußnote)
 (zu § 13 Absatz 2)
 
 ### Anlage 12 Europäisches Modell für den Nachweis einer Zusatzbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tfv/BJNR070510011.html#BJNR070510011BJNE003301311)
 
 (Fundstelle: BGBl. I 2011, 737 - 739; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

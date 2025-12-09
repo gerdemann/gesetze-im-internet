@@ -19,6 +19,7 @@ Fundstelle
 Stand: Art. 2 tritt gem. Art. 3 Abs. 1 Satz 2 iVm Bek. v. 13.10.2004 II 1564 mWv 23.10.2004 in Kraft
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rhivtrcang/BJNR096220004.html#BJNR096220004BJNE000100000)
 
 Dem in Tremblant am 13. Mai 2002 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und Kanada über die Rechtshilfe in
@@ -27,6 +28,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rhivtrcang/BJNR096220004.html#BJNR096220004BJNE000200000)
 
 Rechtshilfeersuchen kanadischer Behörden, denen eine Zuwiderhandlung
 zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre,
@@ -37,6 +39,7 @@ zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rhivtrcang/BJNR096220004.html#BJNR096220004BJNE000300000)
 
 (1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tag nach seiner
 Verkündung in Kraft. Artikel 2 tritt zusammen mit dem Vertrag in

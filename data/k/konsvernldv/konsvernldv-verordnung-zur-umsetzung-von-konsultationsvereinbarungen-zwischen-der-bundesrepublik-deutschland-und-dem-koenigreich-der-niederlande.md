@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -28,6 +29,7 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich der Niederlande zur
@@ -40,6 +42,7 @@ jeweils geltenden Fassung.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000300000)
 
 Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf
 die Umsetzung entsprechender Konsultationsvereinbarungen im Sinn des §
@@ -49,6 +52,7 @@ getroffen worden sind, richtet sich nach dieser Verordnung.
 
 
 ## § 3 Territorialer Geltungsbereich des Abkommens
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000400000)
 
 Für die Zwecke des Abkommens umfassen die Begriffe „Königreich der
 Niederlande“ und „nur für den in Europa belegenen Teil des
@@ -61,6 +65,7 @@ und Ausbeutung der Naturschätze in diesem Gebiet verfügen.
 
 
 ## § 4 Anwendung des Artikels 10 des Abkommens
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000500000)
 
 (1) Dem Begriff „vorübergehend“ in Artikel 10 Absatz 2 des Abkommens
 kommt keine, über das 183-Tage-Kriterium hinausgehende eigene
@@ -79,6 +84,7 @@ dem Drittstaat bestehenden Abkommens diesem zugewiesen.
 
 
 ## § 5 Aufteilung der Gewinne land- und forstwirtschaftlicher Betriebe mit Grundstücken im jeweils anderen Staat
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000600000)
 
 (1) Für Grundstücke, die einem grenznahen land- und
 forstwirtschaftlichen Betrieb dienen, sowie für sogenannte
@@ -114,6 +120,7 @@ hiervon abgewichen werden.
 
 
 ## § 6 Besteuerung der Gewinne von in den Niederlanden ansässigen Blumenhändlern mit Umsätzen in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000700000)
 
 (1) Der Arbeitnehmer (Fahrer) eines in den Niederlanden ansässigen
 Blumenhändlers, der während der Fahrt in Deutschland Blumen an vorher
@@ -144,6 +151,7 @@ solche vorliegt.
 
 
 ## § 7 Abfindungen an Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000800000)
 
 (1) Für Abfindungen, die hauptsächlich für das vorzeitige Ausscheiden
 aus einem Dienstverhältnis gewährt werden, gilt Artikel 10 des
@@ -173,17 +181,20 @@ nicht anzuwenden.
 
 
 ## § 8 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE000900000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsvernldv/BJNR218300010.html#BJNR218300010BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

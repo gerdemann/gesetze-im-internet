@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfezustano/BJNR124700016.html#BJNR124700016BJNE000100000)
 
 Nach § 108 Absatz 5 Satz 1, § 126 Absatz 3 Satz 2 und § 127 Absatz 3
 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160),
@@ -30,6 +31,7 @@ an:
 
 
 ## § 1 Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfezustano/BJNR124700016.html#BJNR124700016BJNE000200000)
 
 Die Bearbeitung folgender Angelegenheiten der Beamtinnen und Beamten
 des Bundesamts für kerntechnische Entsorgung wird dem
@@ -52,6 +54,7 @@ Bundesverwaltungsamt übertragen:
 
 
 ## § 2 Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/bfezustano/BJNR124700016.html#BJNR124700016BJNE000300000)
 
 Die Entscheidung über Widersprüche der Beamtinnen und Beamten des
 Bundesamts für kerntechnische Entsorgung in den nach § 1 übertragenen
@@ -62,6 +65,7 @@ behält sich vor, im Einzelfall selbst zu entscheiden.
 
 
 ## § 3 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bfezustano/BJNR124700016.html#BJNR124700016BJNE000400000)
 
 Die Vertretung des Dienstherrn bei Klagen der Beamtinnen und Beamten
 des Bundesamts für kerntechnische Entsorgung in den nach § 1
@@ -74,12 +78,14 @@ dieser Anordnung regeln oder selbst übernehmen.
 
 
 ## § 4 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bfezustano/BJNR124700016.html#BJNR124700016BJNE000500000)
 
 Diese Anordnung gilt auch für Widersprüche und Klagen, die vor ihrem
 Inkrafttreten erhoben worden sind.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfezustano/BJNR124700016.html#BJNR124700016BJNE000600000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.

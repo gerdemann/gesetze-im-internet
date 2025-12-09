@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -32,6 +33,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000200000)
 
 Der Ausbildungsberuf Glasveredler/Glasveredlerin wird
 
@@ -48,6 +50,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre. Im dritten Ausbildungsjahr kann
 zwischen den Fachrichtungen
@@ -66,6 +69,7 @@ gewählt werden.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse unter Berücksichtigung der
@@ -81,6 +85,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -222,6 +227,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000600000)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -232,6 +238,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -239,6 +246,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -247,6 +255,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -278,6 +287,7 @@ der Arbeitsaufgabe begründen kann.
 
 
 ## § 9 Gesellenprüfung/Abschlussprüfung in der Fachrichtung Kanten- und Flächenveredelung
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE001000000)
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung Kanten-
 und Flächenveredelung erstreckt sich auf die in der Anlage Teil I
@@ -421,6 +431,7 @@ worden sein.
 
 
 ## § 10 Gesellenprüfung/Abschlussprüfung in der Fachrichtung Schliff und Gravur
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE001100000)
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung Schliff
 und Gravur erstreckt sich auf die in der Anlage Teil I sowie Teil II B
@@ -573,6 +584,7 @@ worden sein.
 
 
 ## § 11 Gesellenprüfung/Abschlussprüfung in der Fachrichtung Glasmalerei und Kunstverglasung
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE001200000)
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung
 Glasmalerei und Kunstverglasung erstreckt sich auf die in der Anlage
@@ -715,6 +727,7 @@ worden sein.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE001300000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -723,12 +736,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE001400000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Glasveredler/zur Glasveredlerin
+[Direktlink](https://www.gesetze-im-internet.de/glasvausbv/BJNR066100004.html#BJNR066100004BJNE001500000)
 
 (Fundstelle: BGBl. I 2004, 666 - 674)
 

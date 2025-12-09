@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -38,6 +39,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000200000)
 
 Der Ausbildungsberuf Medientechnologe Druck und Medientechnologin
 Druck wird
@@ -55,11 +57,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -78,6 +82,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -251,6 +256,7 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -272,6 +278,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -354,6 +361,7 @@ statt.
 
 
 ## § 7 Abschlussprüfung, Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000800000)
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der
@@ -530,6 +538,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE000900000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -599,6 +608,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE001000000)
 
 (1) Eine im Rahmen der Berufsausbildung nicht gewählte
 Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2 kann als
@@ -609,6 +619,7 @@ Abschnitt B Nummer 2 enthaltene sachliche Gliederung entsprechend.
 
 
 ## § 10 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE001100000)
 
 (1) Die Zusatzqualifikation wird im Rahmen der Abschluss- oder
 Gesellenprüfung gesondert geprüft, wenn die in der Anlage Abschnitt B
@@ -626,6 +637,7 @@ ist eine gesonderte Bescheinigung zu erteilen.
 
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE001200000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können, wenn noch keine Zwischenprüfung abgelegt wurde und
@@ -635,12 +647,14 @@ fortgesetzt werden.
 
 
 ## § 12 Aufhebung der Anerkennung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE001300000)
 
 Die Anerkennung des Ausbildungsberufes des Steindruckers und der
 Steindruckerin für den Bereich Handwerk wird aufgehoben.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE001400000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Drucker/zur Druckerin vom
@@ -649,6 +663,7 @@ die Verordnung über die Berufsausbildung zum Drucker/zur Druckerin vom
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck
+[Direktlink](https://www.gesetze-im-internet.de/druckerausbv_2011/BJNR057000011.html#BJNR057000011BJNE001500000)
 
 (Fundstelle: BGBl. I 2011, 574 - 589)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

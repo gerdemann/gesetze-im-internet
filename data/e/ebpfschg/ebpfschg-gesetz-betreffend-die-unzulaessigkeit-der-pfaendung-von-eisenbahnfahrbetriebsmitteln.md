@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebpfschg/BJNR001310886.html#BJNR001310886BJNE000100303)
 
 Wir ...
 verordnen im Namen des Reichs, nach erfolgter Zustimmung des
@@ -27,6 +28,7 @@ Bundesrats und des Reichstags, was folgt:
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ebpfschg/BJNR001310886.html#BJNR001310886BJNE000201307)
 
 (1) Die Fahrbetriebsmittel der Eisenbahnen, welche Personen oder Güter
 im öffentlichen Verkehr befördern, sind von der ersten Einstellung in

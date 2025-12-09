@@ -30,6 +30,7 @@ Zuletzt geändert durch
 Stand: Berichtigung v. 5.9.2023 II Nr. 271 ist berücksichtigt
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE000100305)
 
 Auf Grund
 
@@ -68,6 +69,7 @@ Auf Grund
 
 
 ## Art 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE000206124)
 
 (1) Die von der Zentralkommission für die Rheinschiffahrt in Straßburg
 am 1. Dezember 1993 und 18. Mai 1994 beschlossene
@@ -89,6 +91,7 @@ jeweilige Kilometerangabe aus.
 
 
 ## Art 1a Vorschriften über die Schiffsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE005200119)
 
 § 1.08 Nummer 3, § 4.07 Nummer 1 Satz 2 Buchstabe b zweiter
 Spiegelstrich sowie die Anlage 13 Satz 1 zweiter Spiegelstrich und
@@ -103,6 +106,7 @@ der jeweils geltenden und anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE000313119)
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen
 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion
@@ -200,6 +204,7 @@ verbinden.
 
 
 ## Art 3 Fahrzeuge des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE000402305)
 
 Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
 der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei,
@@ -211,6 +216,7 @@ Sicherheit und Ordnung dringend geboten ist.
 
 
 ## Art 4 Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE005127119)
 
 (1) Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -1252,11 +1258,13 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ## Art 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE000601308)
 
 -
 
 
 ## Art 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpev_1994/BJNR238160994.html#BJNR238160994BJNE000700305)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 

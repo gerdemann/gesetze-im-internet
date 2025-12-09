@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000200000)
 
 (1) Dieses Gesetz regelt die Durchführung der Verordnung (EU) Nr.
 650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012
@@ -34,9 +36,11 @@ Vereinigten Königreichs.
 
 
 ## Abschnitt 2 - Bürgerliche Streitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000200000)
 
 
 ### § 2 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000300000)
 
 (1) Das Gericht, das die Verfahrensparteien in der
 Gerichtsstandsvereinbarung bezeichnet haben, ist örtlich
@@ -84,12 +88,15 @@ Abschnitts des Ersten Buches der Zivilprozessordnung.
 
 
 ## Abschnitt 3 - Zulassung der Zwangsvollstreckung aus ausländischen Titeln; Anerkennungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000300000)
 
 
 ### Unterabschnitt 1 - Vollstreckbarkeit ausländischer Titel
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000400000)
 
 
 #### § 3 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000400000)
 
 (1) Sachlich zuständig für die Vollstreckbarerklärung von Titeln aus
 einem anderen Mitgliedstaat ist ausschließlich das Landgericht.
@@ -110,6 +117,7 @@ sinngemäß.
 
 
 #### § 4 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000500000)
 
 (1) Der in einem anderen Mitgliedstaat vollstreckbare Titel wird
 dadurch zur Zwangsvollstreckung zugelassen, dass er auf Antrag mit der
@@ -133,6 +141,7 @@ vorgelegt wird, sollen je zwei Abschriften beigefügt werden.
 
 
 #### § 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000600000)
 
 (1) Die Entscheidung über den Antrag ergeht ohne mündliche
 Verhandlung. Jedoch kann eine mündliche Erörterung mit dem
@@ -145,6 +154,7 @@ nicht erforderlich.
 
 
 #### § 6 Vollstreckbarkeit ausländischer Titel in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000700000)
 
 Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer dem
 Gläubiger obliegenden Sicherheitsleistung, dem Ablauf einer Frist oder
@@ -159,6 +169,7 @@ der Titel errichtet ist.
 
 
 #### § 7 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000800000)
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
@@ -175,6 +186,7 @@ Kosten sind dem Antragsteller aufzuerlegen.
 
 
 #### § 8 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE000900000)
 
 (1) Auf Grund des Beschlusses nach § 7 Absatz 1 erteilt der
 Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
@@ -215,6 +227,7 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 
 #### § 9 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001000000)
 
 (1) Lässt das Gericht die Zwangsvollstreckung zu (§ 7 Absatz 1), sind
 dem Antragsgegner beglaubigte Abschriften des Beschlusses, des mit der
@@ -231,9 +244,11 @@ Antragsteller zuzustellen.
 
 
 ### Unterabschnitt 2 - Beschwerde; Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000500000)
 
 
 #### § 10 Beschwerdegericht; Einlegung der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001100000)
 
 (1) Beschwerdegericht ist das Oberlandesgericht.
 
@@ -249,6 +264,7 @@ zuzustellen.
 
 
 #### § 11 Beschwerdeverfahren und Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001200000)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss, der mit Gründen
 zu versehen ist und ohne mündliche Verhandlung ergehen kann. Der
@@ -275,6 +291,7 @@ Inhalt der Anordnung.
 
 
 #### § 12 Statthaftigkeit und Frist der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001300000)
 
 (1) Gegen den Beschluss des Beschwerdegerichts findet die
 Rechtsbeschwerde nach Maßgabe des § 574 Absatz 1 Satz 1 Nummer 1 und
@@ -287,6 +304,7 @@ Zustellung des Beschlusses (§ 11 Absatz 3).
 
 
 #### § 13 Einlegung und Begründung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001400000)
 
 (1) Die Rechtsbeschwerde wird durch Einreichen der Beschwerdeschrift
 beim Bundesgerichtshof eingelegt.
@@ -304,6 +322,7 @@ richtet, vorgelegt werden.
 
 
 #### § 14 Verfahren und Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001500000)
 
 (1) Der Bundesgerichtshof kann über die Rechtsbeschwerde ohne
 mündliche Verhandlung entscheiden. Auf das Verfahren über die
@@ -318,9 +337,11 @@ Zusatz über die Beschränkung der Zwangsvollstreckung entfällt.
 
 
 ### Unterabschnitt 3 - Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000600000)
 
 
 #### § 15 Prüfung der Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001600000)
 
 Einwendungen des Schuldners, dass bei der Zwangsvollstreckung die
 Beschränkung auf Sicherungsmaßregeln nach der Verordnung (EU) Nr.
@@ -333,6 +354,7 @@ Zivilprozessordnung) geltend zu machen.
 
 
 #### § 16 Sicherheitsleistung durch den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001700000)
 
 (1) Solange die Zwangsvollstreckung aus einem Titel, der auf Leistung
 von Geld lautet, nicht über Maßregeln zur Sicherung hinausgehen darf,
@@ -347,6 +369,7 @@ erforderliche Sicherheitsleistung nachweist.
 
 
 #### § 17 Versteigerung beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001800000)
 
 Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
 nicht über Maßregeln zur Sicherung hinausgehen, so kann das
@@ -358,6 +381,7 @@ würde.
 
 
 #### § 18 Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE001900000)
 
 (1) Weist das Beschwerdegericht die Beschwerde des Schuldners gegen
 die Zulassung der Zwangsvollstreckung zurück oder lässt es auf die
@@ -381,6 +405,7 @@ erlassene Anordnung des Beschwerdegerichts abändern oder aufheben.
 
 
 #### § 19 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002000000)
 
 (1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte der
 Geschäftsstelle des Gerichts des ersten Rechtszuges mit der
@@ -417,6 +442,7 @@ ist.
 
 
 #### § 20 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002100000)
 
 (1) Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte
 der Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel
@@ -446,9 +472,11 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 
 
 ### Unterabschnitt 4 - Feststellung der Anerkennung einer ausländischen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000700000)
 
 
 #### § 21 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002200000)
 
 (1) Auf das Verfahren, das die Feststellung zum Gegenstand hat, ob
 eine Entscheidung aus einem anderen Mitgliedstaat anzuerkennen ist,
@@ -460,6 +488,7 @@ Gericht, die Entscheidung anzuerkennen.
 
 
 #### § 22 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002300000)
 
 In den Fällen des § 21 Absatz 2 sind die Kosten dem Antragsgegner
 aufzuerlegen. Dieser kann die Beschwerde (§ 10) auf die Entscheidung
@@ -470,9 +499,11 @@ hat.
 
 
 ### Unterabschnitt 5 - Vollstreckungsabwehrklage; besonderes Verfahren; Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000800000)
 
 
 #### § 23 Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002400000)
 
 (1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
 der Schuldner Einwendungen gegen den Anspruch selbst in einem
@@ -487,6 +518,7 @@ Vollstreckungsklausel entschieden hat.
 
 
 #### § 24 Verfahren nach Aufhebung oder Änderung eines für vollstreckbar erklärten ausländischen Titels im Ursprungsmitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002500000)
 
 (1) Wird der Titel in dem Mitgliedstaat, in dem er errichtet worden
 ist, aufgehoben oder geändert und kann der Schuldner diese Tatsache in
@@ -515,6 +547,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 25 Aufhebung oder Änderung einer ausländischen Entscheidung, deren Anerkennung festgestellt ist
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002600000)
 
 Wird die Entscheidung in dem Mitgliedstaat, in dem sie ergangen ist,
 aufgehoben oder abgeändert und kann die davon begünstigte Partei diese
@@ -524,6 +557,7 @@ entsprechend anzuwenden.
 
 
 #### § 26 Schadensersatz wegen ungerechtfertigter Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002700000)
 
 (1) Wird die Zulassung der Zwangsvollstreckung auf die Beschwerde (§
 10) oder die Rechtsbeschwerde (§ 12) aufgehoben oder abgeändert, so
@@ -542,9 +576,11 @@ Erteilung der Vollstreckungsklausel entschieden hat.
 
 
 ### Unterabschnitt 6 - Entscheidungen deutscher Gerichte; Mahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG000900000)
 
 
 #### § 27 Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002800000)
 
 (1) Für die Ausstellung der Bescheinigungen nach Artikel 46 Absatz 3
 Buchstabe b, Artikel 60 Absatz 2 und Artikel 61 Absatz 2 der
@@ -568,6 +604,7 @@ Zivilprozessordnung nicht aus.
 
 
 #### § 28 Vervollständigung inländischer Entscheidungen zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE002900000)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozessordnung in verkürzter Form abgefasst worden
@@ -596,6 +633,7 @@ gemacht werden sollen und nicht mit einer Begründung versehen sind.
 
 
 #### § 29 Vollstreckungsklausel zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003000000)
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen
 oder einstweilige Anordnungen, deren Zwangsvollstreckung in einem
@@ -606,6 +644,7 @@ Zwangsvollstreckung im Inland nach § 796 Absatz 1, § 929 Absatz 1 oder
 
 
 #### § 30 Mahnverfahren mit Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003100000)
 
 (1) Das Mahnverfahren findet auch statt, wenn die Zustellung des
 Mahnbescheids in einem anderen Mitgliedstaat erfolgen muss. In diesem
@@ -622,9 +661,11 @@ Zivilprozessordnung) beträgt einen Monat.
 
 
 ## Abschnitt 4 - Entgegennahme von Erklärungen; Aneignungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG001000000)
 
 
 ### § 31 Entgegennahme von Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003200000)
 
 Für die Entgegennahme einer Erklärung, mit der nach dem anzuwendenden
 Erbrecht eine Erbschaft ausgeschlagen oder angenommen wird, ist in den
@@ -639,6 +680,7 @@ Datum der Entgegennahme zu vermerken.
 
 
 ### § 32 Aneignungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003300000)
 
 (1) Stellt das Nachlassgericht fest, dass nach dem anzuwendenden
 Erbrecht weder ein durch Verfügung von Todes wegen eingesetzter Erbe
@@ -688,9 +730,11 @@ verlangen, bleibt unberührt.
 
 
 ## Abschnitt 5 - Europäisches Nachlasszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG001100000)
 
 
 ### § 33 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003400000)
 
 Dieser Abschnitt gilt für Verfahren über
 
@@ -710,6 +754,7 @@ Dieser Abschnitt gilt für Verfahren über
 
 
 ### § 34 Örtliche und sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003500000)
 
 (1) Das Gericht, das die Verfahrensparteien in der
 Gerichtsstandsvereinbarung bezeichnet haben, ist örtlich
@@ -757,6 +802,7 @@ ausschließlich zuständig.
 
 
 ### § 35 Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003600000)
 
 (1) Soweit sich aus der Verordnung (EU) Nr. 650/2012 und den
 Vorschriften dieses Abschnitts nichts anderes ergibt, ist das Gesetz
@@ -779,6 +825,7 @@ Gerichtsbarkeit entsprechend.
 
 
 ### § 36 Ausstellung eines Europäischen Nachlasszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003700000)
 
 (1) Der Antrag auf Ausstellung des Europäischen Nachlasszeugnisses
 richtet sich nach Artikel 65 der Verordnung (EU) Nr. 650/2012.
@@ -792,6 +839,7 @@ wenn es sie für nicht erforderlich hält.
 
 
 ### § 37 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003800000)
 
 (1) In Verfahren über die Ausstellung eines Europäischen
 Nachlasszeugnisses ist der Antragsteller Beteiligter. Als weitere
@@ -833,6 +881,7 @@ Beteiligter.
 
 
 ### § 38 Änderung oder Widerruf eines Europäischen Nachlasszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE003900000)
 
 Das Gericht hat ein unrichtiges Europäisches Nachlasszeugnis auf
 Antrag zu ändern oder zu widerrufen. Der Widerruf hat auch von Amts
@@ -841,6 +890,7 @@ entscheiden.
 
 
 ### § 39 Art der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004000000)
 
 (1) Liegen die Voraussetzungen für die Ausstellung eines Europäischen
 Nachlasszeugnisses vor, entscheidet das Gericht durch Ausstellung der
@@ -859,6 +909,7 @@ Verordnung (EU) Nr. 650/2012 zu verwenden.
 
 
 ### § 40 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004100000)
 
 Entscheidungen nach § 39 Absatz 1 Satz 1 und 2 werden dem
 Antragsteller durch Übersendung einer beglaubigten Abschrift bekannt
@@ -868,6 +919,7 @@ Europäischen Nachlasszeugnisses bekannt gegeben.
 
 
 ### § 41 Wirksamwerden
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004200000)
 
 Die Entscheidung wird wirksam, wenn sie der Geschäftsstelle zum Zweck
 der Bekanntgabe übergeben wird. Der Zeitpunkt ihrer Wirksamkeit ist
@@ -875,6 +927,7 @@ auf der Entscheidung zu vermerken.
 
 
 ### § 42 Gültigkeitsfrist der beglaubigten Abschrift eines Europäischen Nachlasszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004300000)
 
 Die Gültigkeitsfrist einer beglaubigten Abschrift eines Europäischen
 Nachlasszeugnisses beginnt mit ihrer Erteilung. Für die Berechnung der
@@ -885,6 +938,7 @@ Daten und Termine etwas anderes ergibt.
 
 
 ### § 43 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004400000)
 
 (1) Gegen die Entscheidung in Verfahren nach § 33 Nummer 1 und 3
 findet die Beschwerde zum Oberlandesgericht statt. § 61 des Gesetzes
@@ -940,6 +994,7 @@ und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 ### § 44 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004500000)
 
 Die Rechtsbeschwerde zum Bundesgerichtshof ist statthaft, wenn sie das
 Beschwerdegericht zugelassen hat. Die Zulassungsgründe bestimmen sich
@@ -949,9 +1004,11 @@ Absatz 3 gilt entsprechend.
 
 
 ## Abschnitt 6 - Authentizität von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG001200000)
 
 
 ### § 45 Aussetzung des inländischen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004600000)
 
 Kommt es in einem anderen Mitgliedstaat zur Eröffnung eines Verfahrens
 über Einwände in Bezug auf die Authentizität einer öffentlichen
@@ -962,6 +1019,7 @@ Entscheidung zur Authentizität der Urkunde ankommt.
 
 
 ### § 46 Authentizität einer deutschen öffentlichen Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004700000)
 
 (1) Über Einwände in Bezug auf die Authentizität einer deutschen
 öffentlichen Urkunde nach Artikel 59 Absatz 2 der Verordnung (EU) Nr.
@@ -981,9 +1039,11 @@ ist ausgeschlossen. Der Beschluss wirkt für und gegen alle.
 
 
 ## Abschnitt 7 - Zuständigkeit in sonstigen Angelegenheiten der freiwilligen Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNG001300000)
 
 
 ### § 47 Sonstige örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/interbrvg/BJNR104210015.html#BJNR104210015BJNE004800000)
 
 Ergibt sich in Angelegenheiten der freiwilligen Gerichtsbarkeit die
 internationale Zuständigkeit der deutschen Gerichte aus der Verordnung

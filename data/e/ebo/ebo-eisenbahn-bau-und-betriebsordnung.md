@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE000900328)
 
 Auf Grund des § 3 Abs. 1 des Allgemeinen Eisenbahngesetzes vom 29.
 März 1951 (Bundesgesetzbl. I S. 225), geändert durch das Gesetz vom 1.
@@ -31,10 +32,12 @@ Bundesrates verordnet:
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNG000100328)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001003308)
 
 (1) Diese Verordnung gilt für regelspurige Eisenbahnen. Sie gilt nicht
 für den Bau, den Betrieb oder die Benutzung der Bahnanlagen eines
@@ -69,6 +72,7 @@ Unterhaltung und Erneuerung berücksichtigt werden.
 
 
 ### § 2 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001104123)
 
 (1) Bahnanlagen und Fahrzeuge müssen so beschaffen sein, daß sie den
 Anforderungen der Sicherheit und Ordnung genügen. Diese Anforderungen
@@ -112,6 +116,7 @@ können erlassen
 
 
 ### § 3 Ausnahmen, Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001206305)
 
 (1) Ausnahmen können zulassen
 
@@ -162,6 +167,7 @@ Hinweis auf diesen Absatz vorgesehen sind, erteilen
 
 
 ### § 3a Grenzbetriebsstrecken und Durchgangsstrecken
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE009401305)
 
 (1) Auf Grenzbetriebsstrecken und Durchgangsstrecken dürfen anstelle
 der Vorschriften des zweiten bis fünften Abschnitts mit Ausnahme des §
@@ -195,10 +201,12 @@ Nachbarstaates weiter angewendet werden.
 [^F791866_03_BJNR215630967BJNE009401305]: 
 
 ## Zweiter Abschnitt - Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNG000200328)
 
 
 
 ### § 4 Begriffserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001301308)
 
 (1) Bahnanlagen sind alle Grundstücke, Bauwerke und sonstigen
 Einrichtungen einer Eisenbahn, die unter Berücksichtigung der
@@ -251,6 +259,7 @@ Nebengleise.
 
 
 ### § 5 Spurweite
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001401308)
 
 (1) Die Spurweite ist der kleinste Abstand der Innenflächen der
 Schienenköpfe im Bereich von 0 bis 14 mm unter Schienenoberkante (SO).
@@ -303,6 +312,7 @@ nicht unterschreiten:
 
 
 ### § 6 Gleisbogen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001501308)
 
 (1) Der Bogenradius in durchgehenden Hauptgleisen soll bei Neubauten
 nicht weniger als
@@ -337,6 +347,7 @@ vermitteln, deren Neigung nicht größer sein darf als
 
 
 ### § 7 Gleisneigung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001600328)
 
 (1) Die Längsneigung auf freier Strecke soll bei Neubauten
 
@@ -357,6 +368,7 @@ aufgelöst oder gebildet werden, soll bei Neubauten
 
 
 ### § 8 Belastbarkeit des Oberbaus und der Bauwerke
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001701308)
 
 (1) Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen
 Radsatzlast und dem jeweils zugelassenen Fahrzeuggewicht je
@@ -394,6 +406,7 @@ Fahrzeuggewichte je Längeneinheit von 6 t/m.
 
 
 ### § 9 Regellichtraum
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001801308)
 
 (1) Der Regellichtraum ist der zu jedem Gleis gehörende, in der Anlage
 1 dargestellte Raum. Der Regellichtraum setzt sich zusammen aus dem
@@ -426,6 +439,7 @@ gelten die Mindesthöhen nach Anlage 3 Nr. 3; Ausnahmen sind zulässig
 
 
 ### § 10 Gleisabstand
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE001901308)
 
 (1) Der Gleisabstand ist der Abstand von Mitte zu Mitte benachbarter
 Gleise; er muß mindestens den in der Anlage 4 Nr. 1 oder 2 genannten
@@ -456,6 +470,7 @@ notwendigen Sicherheitsmaßnahmen getroffen sind.
 
 
 ### § 11 Bahnübergänge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002001308)
 
 (1) Bahnübergänge sind höhengleiche Kreuzungen von Eisenbahnen mit
 Straßen, Wegen und Plätzen. Übergänge, die nur dem innerdienstlichen
@@ -702,6 +717,7 @@ durch Posten befahren.
 
 
 ### § 12 Höhengleiche Kreuzungen von Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002101314)
 
 (1) Neue höhengleiche Kreuzungen von Schienenbahnen dürfen außerhalb
 der Bahnhöfe oder der Hauptsignale von Abzweigstellen nicht angelegt
@@ -721,6 +737,7 @@ führen ist, bestimmen
 
 
 ### § 13 Bahnsteige, Rampen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002201308)
 
 (1) Bei Neubauten oder umfassenden Umbauten von Personenbahnsteigen
 sollen in der Regel die Bahnsteigkanten auf eine Höhe von 0,76 m über
@@ -772,6 +789,7 @@ erforderlichen Sicherheitsmaßnahmen getroffen sind.
 
 
 ### § 14 Signale und Weichen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002302308)
 
 (1) Ist nach den Vorschriften dieser Verordnung die Anwendung von
 Signalen vorgesehen, so dürfen nur die in der Eisenbahn-Signalordnung
@@ -964,6 +982,7 @@ verwendet werden.
 
 
 ### § 15 Streckenblock, Zugbeeinflussung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002406308)
 
 
 *    *   (1) Auf Bahnen mit besonders dichter Zugfolge muß das Signal für die
@@ -1016,6 +1035,7 @@ Verhältnisse oder eine besondere Gefahrensituation dies erfordern.
 
 
 ### § 16 Fernmeldeanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002501308)
 
 
 *    *   (1) Zugfolgestellen
@@ -1101,6 +1121,7 @@ Verhältnisse oder eine besondere Gefahrensituation dies erfordern.
 
 
 ### § 17 Untersuchen und Überwachen der Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002601308)
 
    (1) Die Bahnanlagen sind planmäßig auf ihre ordnungsgemäße
 Beschaffenheit zu untersuchen. Art, Umfang und Häufigkeit der
@@ -1112,10 +1133,12 @@ rechtzeitig erkannt und Gegenmaßnahmen getroffen werden können.
 
 
 ## Dritter Abschnitt - Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNG000300328)
 
 
 
 ### § 18 Einteilung, Begriffserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002701308)
 
 (1) Die Fahrzeuge werden entsprechend ihrer Zweckbestimmung nach
 Regelfahrzeugen und Nebenfahrzeugen unterschieden. Regelfahrzeuge
@@ -1140,6 +1163,7 @@ Postwagen. Zu den Güterwagen zählen auch die Güterzuggepäckwagen.
 
 
 ### § 19 Radsatzlasten und Fahrzeuggewichte je Längeneinheit
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002800328)
 
 (1) Bei stillstehenden Fahrzeugen, deren Radsatzabstände 1.500 mm
 nicht unterschreiten, sind Radsatzlasten
@@ -1158,11 +1182,13 @@ gemessen) entfallende Anteil der Gesamtlast.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE002901308)
 
 -
 
 
 ### § 21 Räder und Radsätze
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003001308)
 
 (1) Die Räder und Radsätze der Fahrzeuge müssen so beschaffen und
 gelagert sein, daß Gleisbogen mit 150 m Radius und 1.435 mm Spurweite
@@ -1190,6 +1216,7 @@ werden, muß der Abstand der Endradsätze mindestens 3.000 mm betragen.
 
 
 ### § 22 Begrenzung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003101308)
 
 (1) Für die Abmessungen der Fahrzeuge, die freizügig im
 grenzüberschreitenden Verkehr eingesetzt werden sollen, gilt die
@@ -1236,6 +1263,7 @@ Schienenoberkante herabreichen.
 
 
 ### § 23 Bremsen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003201308)
 
 (1) Die Fahrzeuge - ausgenommen Kleinlokomotiven - müssen mit
 durchgehender selbsttätiger Bremse ausgerüstet sein. Diese muß in
@@ -1271,6 +1299,7 @@ sein.
 
 
 ### § 24 Zug- und Stoßeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003301308)
 
 (1) Die Fahrzeuge müssen an beiden Enden federnde Zug- und
 Stoßeinrichtungen haben.
@@ -1293,6 +1322,7 @@ sind an Fahrzeugen für besondere Zwecke zulässig.
 
 
 ### § 25 Freie Räume und Bauteile an den Fahrzeugenden
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003401308)
 
 (1) Die Fahrzeuge müssen so gestaltet sein, daß ein gefahrloses
 Kuppeln möglich ist. Die dafür erforderlichen Räume (Anlage 11) müssen
@@ -1319,10 +1349,12 @@ für das Anbringen der Signalmittel vorhanden sein.
 
 
 ### (XXXX) §§ 26 und 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003501308)
 
 
 
 ### § 28 Ausrüstung und Anschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003703308)
 
 (1) Triebfahrzeuge und andere führende Fahrzeuge müssen folgende
 Ausrüstung haben:
@@ -1449,10 +1481,12 @@ erforderlichen Anschriften und Zeichen tragen.
 
 
 ### (XXXX) §§ 29 bis 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE003801308)
 
 
 
 ### § 32 Abnahme und Untersuchung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004103311)
 
 (1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie
 abgenommen worden sind (§ 3 Abs. 2).
@@ -1474,6 +1508,7 @@ festgestellt ist, dass der Zustand des Fahrzeugs dies zulässt.
 
 
 ### § 33 Überwachungsbedürftige Anlagen der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004202314)
 
 (1) Dampfkessel, Druckbehälter und sonstige überwachungsbedürftige
 Anlagen, die mit einem Fahrzeug fest verbunden sind, müssen nach einer
@@ -1548,10 +1583,12 @@ An Dampfkesseln ist das Datum der letzten inneren Prüfung anzubringen.
 
 
 ## Vierter Abschnitt - Bahnbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNG000400328)
 
 
 
 ### § 34 Begriff, Art und Länge der Züge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004301308)
 
 (1) Züge sind die auf die freie Strecke übergehenden, aus
 Regelfahrzeugen bestehenden, durch Maschinenkraft bewegten Einheiten
@@ -1594,6 +1631,7 @@ der Reisenden durch betriebliche Anweisungen gewährleistet ist.
 
 
 ### § 35 Bremsen der Züge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004405305)
 
 (1) Züge mit einer zulässigen Geschwindigkeit von mehr als 50 km/h
 müssen mit durchgehender Bremse gefahren werden.
@@ -1638,6 +1676,7 @@ unverändert bleiben, sind Ausnahmen zulässig (§ 3 Abs. 1 Nr. 2).
 
 
 ### § 36 Zusammenstellen der Züge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004502314)
 
 (1) Die Radsatzlast und das Fahrzeuggewicht je Längeneinheit der
 Fahrzeuge dürfen nicht größer sein, als es für die zu befahrende
@@ -1661,12 +1700,14 @@ werden.
 
 
 ### § 37 Ausrüsten der Züge mit Mitteln zur ersten Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004601308)
 
 Reisezüge sind mit Mitteln zur ersten Hilfeleistung auszurüsten.
 Ausnahmen sind zulässig (§ 3 Abs. 1 Nr. 2).
 
 
 ### § 38 Fahrordnung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004700328)
 
 Auf zweigleisigen Bahnen ist rechts zu fahren. Hiervon kann abgewichen
 werden
@@ -1701,6 +1742,7 @@ werden
 
 
 ### § 39 Zugfolge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004801308)
 
 (1) Die Folge der Züge wird durch Zugfolgestellen, die Reihenfolge
 durch Zugmeldestellen, die stets auch Zugfolgestellen sind, geregelt.
@@ -1777,6 +1819,7 @@ Schrankenwärtern und Posten (§ 11 Abs. 11) anzukündigen.
 
 
 ### § 40 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE004902308)
 
 (1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf
 (zulässige Geschwindigkeit), ist abhängig von
@@ -1923,11 +1966,13 @@ Vorschrift in Absatz 6.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005001308)
 
 (weggefallen)
 
 
 ### § 42 Rangieren, Hemmschuhe
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005100328)
 
 (1) Rangierbewegungen, die eine Zugfahrt oder eine andere Rangierfahrt
 gefährden können, dürfen nicht ausgeführt werden.
@@ -1949,6 +1994,7 @@ Schienenoberkante nicht überschreiten.
 
 
 ### § 43 Sichern stillstehender Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005200328)
 
 (1) Stillstehende Fahrzeuge sind gegen unbeabsichtigte Bewegung zu
 sichern, wenn es die Sicherheit erfordert.
@@ -1959,11 +2005,13 @@ nicht besonders gesichert sind.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005301308)
 
 (weggefallen)
 
 
 ### § 45 Besetzen der Triebfahrzeuge und Züge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005402308)
 
 (1) Arbeitende Triebfahrzeuge müssen während der Fahrt mit einem
 Triebfahrzeugführer besetzt sein; gesteuerte Triebfahrzeuge (§ 18 Abs.
@@ -2009,15 +2057,18 @@ einfachen Verhältnissen von ihm festgestellt wird.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005501308)
 
 (weggefallen)
 
 
 ## Fünfter Abschnitt - Personal
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNG000500328)
 
 
 
 ### § 47 Betriebsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005604311)
 
 (1) Betriebsbeamte im Sinne dieser Verordnung sind Personen, die tätig
 sind als
@@ -2077,6 +2128,7 @@ Arbeitszeitgestaltung entsprechen.
 
 
 ### § 48 Anforderungen an Betriebsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005703305)
 
 (1) Die Betriebsbeamten müssen mindestens 18 Jahre,
 Triebfahrzeugführer jedoch mindestens 20 Jahre alt sein.
@@ -2124,10 +2176,12 @@ Betriebsverhältnissen zulässig (§ 3 Abs. 1 Nr. 2).
 
 
 ### (XXXX) §§ 49 bis 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE005801308)
 
 
 
 ### § 54 Ausbildung, Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE006302314)
 
 (1) Den Betriebsbeamten sind die Kenntnisse und Fertigkeiten zu
 vermitteln, die sie zur ordnungsgemäßen Ausübung ihres Dienstes
@@ -2141,14 +2195,17 @@ Fertigkeiten zu überzeugen. Hierüber sind Nachweise zu führen.
 
 
 ## Sechster Abschnitt - Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNG000600328)
 
 
 
 ### (XXXX) §§ 55 bis 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE006401308)
 
 
 
 ### § 62 Betreten und Benutzen der Bahnanlagen und Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007101308)
 
 (1) Die Bahnanlagen und Fahrzeuge dürfen von Personen, die nicht
 amtlich dazu befugt sind, nur insoweit betreten oder benutzt werden,
@@ -2172,6 +2229,7 @@ Sicherungsmaßnahmen durchführen.
 
 
 ### § 63 Verhalten auf dem Gebiet der Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007201124)
 
 (1) Das Ein- und Aussteigen ist nur an den dazu bestimmten Stellen und
 nur an der dazu bestimmten Seite der Fahrzeuge gestattet.
@@ -2195,6 +2253,7 @@ für das weitere Verhalten Folge leisten.
 
 
 ### § 64 Beschädigen der Bahn und betriebsstörende Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007300328)
 
 Es ist verboten, Bahnanlagen, Betriebseinrichtungen oder Fahrzeuge zu
 beschädigen oder zu verunreinigen, Schranken oder sonstige
@@ -2204,12 +2263,14 @@ Handlungen vorzunehmen.
 
 
 ### § 64a Eisenbahnbedienstete
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE009300308)
 
 Die Vorschriften der §§ 62 bis 64 gelten nicht für Bedienstete der
 Eisenbahnen in Ausübung ihres Dienstes.
 
 
 ### § 64b Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007406124)
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes
 handelt, wer vorsätzlich
@@ -2277,6 +2338,7 @@ Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs.
 
 
 ### § 65 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE009500308)
 
 Strecken, die am 1. Dezember 2012 die Voraussetzungen nach § 15 Absatz
 2 nicht erfüllen, sind bis zum Ablauf des 31. Dezember 2014
@@ -2286,6 +2348,7 @@ die sichere Betriebsführung gewährleisten.
 
 
 ### § 66 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007501308)
 
 (1) Diese Verordnung tritt am 28. Mai 1967 in Kraft.
 
@@ -2310,11 +2373,13 @@ Am gleichen Tag treten außer Kraft
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007700328)
 
 Der Bundesminister für Verkehr
 
 
 ### Anlage 1 (zu § 9)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007801308)
 
 (Fundstelle: BGBl I 1991, Nr. 30 Anlageband S. 2 - 5)
 
@@ -2805,6 +2870,7 @@ Rangiereinrichtungen).
 (zu § 9)
 
 ### Anlage 2 Ermittlung der Grenzlinie
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE007901308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 6 - 9)
 
@@ -3284,6 +3350,7 @@ Einflüsse zu berücksichtigen.
 (zu § 9)
 
 ### Anlage 3 Ermittlung der Grenzlinie bei Oberleitung
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008001308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 10 - 12)
 
@@ -3656,6 +3723,7 @@ Zwischenwerte dürfen geradlinig eingeschaltet werden.
 (zu § 10)
 
 ### Anlage 4 Gleisabstand
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008101308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 13 - 14)
 
@@ -4137,6 +4205,7 @@ Zwischenwerte dürfen geradlinig eingeschaltet werden.
 
 
 ### Anlage 5 (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008201308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 15 - 19)
 
@@ -4268,6 +4337,7 @@ Siehe Erläuterungen zu den Bildern 1, 3 und 4
 (zu § 21)
 
 ### Anlage 6 Räder und Radsätze
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008301308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 20 - 21)
 
@@ -4416,6 +4486,7 @@ Siehe Erläuterungen zu den Bildern 1, 3 und 4
 
 
 ### Anlage 7 (zu § 22)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008401308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 22 - 23)
 
@@ -4449,6 +4520,7 @@ Bild 3
 ![bgbl1_1991_j0022_ab_0030.jpg](bgbl1_1991_j0022_ab_0030.jpg)
 
 ### Anlage 8 (zu § 22)
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008501308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 24 - 25)
 
@@ -4487,6 +4559,7 @@ Rangiereinrichtungen).
 (zu § 22)
 
 ### Anlage 9 Einschränkung der Fahrzeugmaße
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008601308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 26)
 
@@ -4534,6 +4607,7 @@ für Wagen mit Drehgestellen im Gleisborgen l = 1,435 m
 (zu § 24)
 
 ### Anlage 10 Zug- und Stoßeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008701308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 27)
 
@@ -4558,6 +4632,7 @@ für Wagen mit Drehgestellen im Gleisborgen l = 1,435 m
 (zu § 25)
 
 ### Anlage 11 Freizuhaltende Räume an den Fahrzeugenden
+[Direktlink](https://www.gesetze-im-internet.de/ebo/BJNR215630967.html#BJNR215630967BJNE008801308)
 
 (Fundstelle: BGBl. I 1991, Nr. 30 Anlageband S. 28)
 

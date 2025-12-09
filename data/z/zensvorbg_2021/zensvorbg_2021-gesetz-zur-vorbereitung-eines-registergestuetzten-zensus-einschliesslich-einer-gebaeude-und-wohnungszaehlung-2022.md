@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich, Aufgaben des Statistischen Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000101126)
 
 Dieses Gesetz regelt den Aufbau der für die Vorbereitung des
 registergestützten Zensus 2022 benötigten Infrastruktur. Der Zensus
@@ -34,6 +36,7 @@ durchgeführt.
 
 
 ### § 2 Aufgaben des Statistischen Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000200000)
 
 (1) Das Statistische Bundesamt bereitet im Benehmen mit den
 statistischen Ämtern der Länder den Zensus methodisch vor, koordiniert
@@ -55,9 +58,11 @@ statistischen Ämter der Länder bleiben davon unberührt.
 
 
 ## Abschnitt 2 - Anschriftenbezogenes Steuerungsregister
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNG000200000)
 
 
 ### § 3 Aufbau eines anschriftenbezogenen Steuerungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000300000)
 
 (1) Das Statistische Bundesamt erstellt und führt zur Vorbereitung und
 Durchführung des Zensus ein Steuerungsregister, in dem Angaben bezogen
@@ -119,6 +124,7 @@ miteinander verknüpft.
 
 
 ### § 4 Anschriftenbestand
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000400000)
 
 Im Anschriftenbestand werden zu jeder Anschrift Angaben zu folgenden
 Merkmalen gespeichert:
@@ -154,6 +160,7 @@ Merkmalen gespeichert:
 
 
 ### § 5 Bestand an Steuerungs- und Klassifizierungsmerkmalen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000500000)
 
 Im Datenbestand Steuerungs- und Klassifizierungsmerkmale werden für
 jede Anschrift Angaben zu folgenden Merkmalen gespeichert:
@@ -186,6 +193,7 @@ jede Anschrift Angaben zu folgenden Merkmalen gespeichert:
 
 
 ### § 6 Bestand an Angaben zur Ermittlung der Auskunftspflichtigen für die Erhebung an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000600000)
 
 Im Datenbestand zu den Auskunftspflichtigen für die Erhebung an
 Anschriften mit Sonderbereichen werden für diejenigen Anschriften des
@@ -207,6 +215,7 @@ gekennzeichnet sind, Angaben zu folgenden Merkmalen gespeichert:
 
 
 ### § 7 Bestand an Angaben zu den Auskunftspflichtigen für die Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000700000)
 
 Im Datenbestand zu den Auskunftspflichtigen für die Gebäude- und
 Wohnungszählung dürfen für die Wohnanschriften des Anschriftenbestands
@@ -226,6 +235,7 @@ Merkmalen gespeichert werden:
 
 
 ### § 7a Bestand an Angaben zur Überprüfung der Daten zu den Auskunftspflichtigen für die Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000800000)
 
 Zur Überprüfung der Daten zu den Auskunftspflichtigen für die Gebäude-
 und Wohnungszählung dürfen Angaben zu folgenden Merkmalen zu den im
@@ -247,6 +257,7 @@ Dezember 2020 gelöscht.
 
 
 ### § 8 Übermittlung von Daten durch die Vermessungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000901126)
 
 (1) Das Bundesamt für Kartographie und Geodäsie übermittelt dem
 Statistischen Bundesamt für den Aufbau und die Aktualisierung des
@@ -292,6 +303,7 @@ Datenübermittlung an das Statistische Bundesamt.
 
 
 ### § 9 Übermittlung von Daten der Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001000000)
 
 (1) Die nach Landesrecht für das Meldewesen zuständigen Stellen
 übermitteln den statistischen Ämtern der Länder für den Aufbau des
@@ -330,6 +342,7 @@ Datenübermittlungen.
 Datenübermittlung,
 
 ### § 9a Qualitätsprüfung und Programmentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE000191126)
 
 (1) Zur Prüfung der Übermittlungswege und der Qualität der zum Zensus
 2022 zu übermittelnden Daten aus den Melderegistern sowie zum Test und
@@ -473,6 +486,7 @@ erforderlich sind, spätestens jedoch drei Jahre nach dem Stichtag.
 
 
 ### § 10 Zusammenführung und Überprüfung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001100000)
 
 (1) Die nach den §§ 8 und 9 übermittelten Daten werden vom
 Statistischen Bundesamt zusammengeführt und bilden den Grundbestand
@@ -503,6 +517,7 @@ statistischen Ämtern der Länder in das Steuerungsregister eingepflegt.
 
 
 ### § 11 Erhebung des Bestandes an Angaben zur Ermittlung der Auskunftspflichtigen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001200000)
 
 (1) Zur Vorbereitung der Erhebung von Angaben zu Personen an
 Anschriften mit Sonderbereichen pflegen die statistischen Ämter der
@@ -538,6 +553,7 @@ nach § 5 zu kennzeichnen.
 
 
 ### § 12 Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001301126)
 
 (1) Für die Durchführung der Gebäude- und Wohnungszählung pflegen die
 statistischen Ämter der Länder zu den Anschriften des
@@ -576,9 +592,11 @@ Nummer 1 und 2 auf Anforderung.
 
 
 ## Abschnitt 3 - Gemeinsame Vorschriften, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNG000300000)
 
 
 ### § 13 Nutzung weiterer Quellen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001400000)
 
 Für Zwecke dieses Gesetzes dürfen die statistischen Ämter des Bundes
 und der Länder auch Angaben aus allgemein zugänglichen Quellen und
@@ -587,6 +605,7 @@ Registern verwenden.
 
 
 ### § 14 Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001500000)
 
 (1) Die in diesem Gesetz geregelten Datenübermittlungen haben jeweils
 aus den vorhandenen Unterlagen zu erfolgen.
@@ -599,6 +618,7 @@ verändert oder entfernt werden können.
 
 
 ### § 15 Weitere Verwendung von Angaben aus dem Steuerungsregister
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001600000)
 
 (1) Folgende Angaben werden für die Auswertung, Analyse und
 Evaluierung des Zensus in einer Auswertungsdatenbank des Statistischen
@@ -626,6 +646,7 @@ Bundesstatistikgesetzes zu aktualisieren.
 
 
 ### § 16 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001700000)
 
 (1) Der Anschriftenbestand nach § 4 sowie der Datenbestand Steuerungs-
 und Klassifizierungsmerkmale nach § 5 sollen sechs Jahre nach dem
@@ -651,6 +672,7 @@ des Bundes und der Länder gelöscht werden.
 
 
 ### § 16a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001900126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -675,6 +697,7 @@ Zensus 2022 zu erreichen.
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2021/BJNR038800017.html#BJNR038800017BJNE001800000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

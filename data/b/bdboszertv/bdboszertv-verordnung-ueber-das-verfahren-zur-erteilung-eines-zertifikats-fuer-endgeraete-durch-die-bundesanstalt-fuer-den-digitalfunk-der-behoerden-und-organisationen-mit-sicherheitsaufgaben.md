@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000100000)
 
 Auf Grund des § 15b Absatz 1 Satz 1 des BDBOS-Gesetzes, der durch
 Artikel 1 Nummer 3 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2251)
@@ -29,6 +30,7 @@ eingefügt worden ist, verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Gegenstand der Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000200000)
 
 Gegenstand der Zertifizierung sind Endgeräte mit bestimmten, das
 Endgerät identifizierenden Hardware- und Software-Eigenschaften, die
@@ -40,6 +42,7 @@ Leitstellenbestandteil zertifiziert.
 
 
 ## § 2 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000301116)
 
 (1) Die Erteilung eines Zertifikats durch die Bundesanstalt für den
 Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
@@ -135,6 +138,7 @@ Eingangs bearbeiten.
 
 
 ## § 3 Änderungszertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000401116)
 
 (1) Eine Änderungszertifizierung kann nur erfolgen
 
@@ -180,6 +184,7 @@ weitere Änderungszertifizierung ausgeschlossen.
 
 
 ## § 4 Anzeige unwesentlicher Änderungen nach § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000500000)
 
 (1) Anzeigen gemäß § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes sind
 unverzüglich durch Hersteller oder Lieferanten vorzunehmen, spätestens
@@ -204,6 +209,7 @@ BDBOS-Gesetzes schriftlich mit.
 
 
 ## § 5 Anforderungen und Prüfkriterien; BOS-IOP-Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000600000)
 
 (1) Soweit sich die Anforderungen an die Endgeräte nicht bereits aus
 anderen öffentlich-rechtlichen Vorschriften ergeben, werden sie von
@@ -238,6 +244,7 @@ insbesondere bekannt:
 
 
 ## § 6 Veröffentlichung nicht allgemein zugänglicher Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000701116)
 
 (1) Die Bundesanstalt veröffentlicht folgende Informationen in einem
 geschützten Bereich auf ihrer Internetseite und stellt sie auf
@@ -285,6 +292,7 @@ entgegenstehen.
 
 
 ## § 7 Überprüfung der Endgeräte
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000801116)
 
 (1) Die Endgeräte werden in technischer Hinsicht durch eine
 sachverständige Prüfstelle geprüft (Überprüfung). Dabei sind die
@@ -311,6 +319,7 @@ gemäß § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes
 
 
 ## § 8 Mitwirkungspflichten des Antragstellers
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE000900000)
 
 (1) Der Antragsteller hat der Bundesanstalt spätestens mit dem Antrag
 auf Erteilung eines Zertifikats unentgeltlich zwei Einzelstücke des zu
@@ -328,6 +337,7 @@ sicher.
 
 
 ## § 9 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE001001116)
 
 (1) Ein Endgerät wird zertifiziert, wenn es die in § 15a Absatz 1 Satz
 3 des BDBOS-Gesetzes genannten Anforderungen erfüllt.
@@ -379,6 +389,7 @@ Bundesrepublik Deutschland, entgegenstehen.
 
 
 ## § 10 Rückgabe von Einzelstücken
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE001100000)
 
 Im Fall der vollständigen Versagung des Zertifikats gibt die
 Bundesanstalt eines der nach § 8 Absatz 1 Satz 1 abgelieferten
@@ -388,12 +399,14 @@ Die Rückgabe nach Satz 1 oder 2 erfolgt am Sitz der Bundesanstalt.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE001200000)
 
 Die Übergangsfrist gemäß § 15a Absatz 5 Satz 1 des BDBOS-Gesetzes
 endet am 31. Dezember 2011.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bdboszertv/BJNR212000010.html#BJNR212000010BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

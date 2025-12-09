@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000200000)
 
 (1) Diese Verordnung gilt für Ausrüstung im Sinne des § 2 Nr. 2.
 
@@ -35,6 +37,7 @@ ausländische Kriegsschiffe.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000305124)
 
 Im Sinne dieser Verordnung bedeuten
 
@@ -233,6 +236,7 @@ Wirtschaftsraum dem Inverkehrbringen neuer Ausrüstung gleich.
 
 
 ### § 3 Benannte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000405124)
 
 (1) Benannte Stelle, die zur Durchführung des
 Konformitätsbewertungsverfahrens befugt ist, ist jede nach den
@@ -362,6 +366,7 @@ Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
 [^F771469_02_BJNR191310008BJNE000405124]: 
 
 ### § 4 Aufsicht über benannte Stellen und Audit
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000501305)
 
 (1) Die zuständige Behörde überwacht die benannten Stellen; dabei
 prüft die zuständige Behörde oder eine von ihr beauftragte unabhängige
@@ -379,6 +384,7 @@ Abs. 3 Satz 1 nicht erfüllt sind.
 
 
 ### § 5 Konformitätsbewertungsverfahren und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000601124)
 
 (1) Der Hersteller oder sein Bevollmächtigter haben vor dem
 Inverkehrbringen einer Ausrüstung deren Konformität durch ein
@@ -396,9 +402,11 @@ zugelassene Ausrüstung muss mit der Kennzeichnung versehen sein.
 
 
 ## Abschnitt 2 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNG000200000)
 
 
 ### § 6 Anforderungen an Ausrüstung, Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000701124)
 
 (1) Die Voraussetzung nach § 7a Abs. 1 des Seeaufgabengesetzes für das
 Inverkehrbringen, den Einbau, die Instandhaltung und die Verwendung
@@ -430,6 +438,7 @@ Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
 
 
 ### § 7 Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000801124)
 
 (1) Stellt die zuständige Behörde fest, dass Ausrüstung, die sachgemäß
 eingebaut, instand gehalten und ihrem Zweck entsprechend verwendet
@@ -498,9 +507,11 @@ des Flaggenstaats mit.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNG000300000)
 
 
 ### § 8 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE000900000)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie ist zuständige
 Behörde im Sinne dieser Verordnung und führt diese aus, soweit nichts
@@ -508,6 +519,7 @@ Anderes bestimmt ist.
 
 
 ### § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schausrv/BJNR191310008.html#BJNR191310008BJNE001000000)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig

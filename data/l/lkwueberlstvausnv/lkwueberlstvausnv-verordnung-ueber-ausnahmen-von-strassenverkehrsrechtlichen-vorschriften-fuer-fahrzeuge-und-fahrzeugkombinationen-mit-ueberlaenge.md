@@ -28,6 +28,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000100000)
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe c, Nummer 2 Buchstabe a,
 c, k und x, Nummer 3 einleitender Satzteil und Nummer 5a jeweils in
@@ -42,6 +43,7 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000200000)
 
 Die Verordnung regelt die Voraussetzungen, bei deren Erfüllen
 bestimmte Fahrzeuge und Fahrzeugkombinationen mit Überlänge am
@@ -50,6 +52,7 @@ Ordnung und der Straßenverkehrs-Zulassungs-Ordnung teilnehmen dürfen.
 
 
 ## § 2 Streckennetz
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000306119)
 
 (1) Der Verkehr mit Fahrzeugen und Fahrzeugkombinationen mit Überlänge
 ist ausschließlich auf den in der Anlage festgelegten Strecken nach
@@ -61,6 +64,7 @@ ausgenommen das Streckennetz des Landes Berlin – nutzen.
 
 
 ## § 3 Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000401123)
 
 Die nachfolgenden Fahrzeuge und Fahrzeugkombinationen mit Überlänge
 dürfen am Straßenverkehr teilnehmen:
@@ -92,6 +96,7 @@ abschließender Leerfahrt.
 
 
 ## § 4 Abmessungen
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000502124)
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge nach § 3 Satz 1
 Nummer 1, 2 und 4 dürfen abweichend von § 32 Absatz 4 Nummer 2 der
@@ -119,6 +124,7 @@ mitgeführt werden.
 
 
 ## § 5 Technische Anforderungen an die eingesetzten Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000604119)
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am
 Straßenverkehr nur teilnehmen, wenn sie mit folgenden technischen
@@ -269,6 +275,7 @@ Lichtsignaleinrichtungen (ABl. L 14 vom 16.1.2019, S. 42) entsprechen.
 
 
 ## § 6 Kombinierter Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000701124)
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am
 Straßenverkehr nur teilnehmen, wenn sie mindestens eine Ladeeinheit
@@ -297,6 +304,7 @@ Umschlaggeräte im Sinne des Satzes 1 sind Kräne und Flurförderzeuge.
 
 
 ## § 7 Übereinstimmungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000801124)
 
 Die Erfüllung der in den §§ 4 und 5 festgelegten Voraussetzungen sowie
 die Einhaltung des § 32d der Straßenverkehrs-Zulassungs-Ordnung sind
@@ -313,6 +321,7 @@ Kontrollberechtigten auf Verlangen auszuhändigen.
 
 
 ## § 8 Ladung
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE000901308)
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am
 Straßenverkehr nur teilnehmen, wenn abweichend von § 22 Absatz 4 der
@@ -332,6 +341,7 @@ kennzeichnungspflichtig sind.
 
 
 ## § 9 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE001001124)
 
 (1) Abweichend von § 5 Absatz 1 und 2 der Straßenverkehrs-Ordnung ist
 das Überholen mit Fahrzeugen und Fahrzeugkombinationen mit Überlänge
@@ -343,6 +353,7 @@ zulässig.
 
 
 ## § 10 Transportweg
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE001101123)
 
 Fahrzeugkombinationen mit Überlänge gemäß § 3 Satz 1 Nummer 2 bis 5
 dürfen am Straßenverkehr nur teilnehmen, wenn jeweils vor Fahrtantritt
@@ -352,6 +363,7 @@ Verlassen der in der Anlage festgelegten Strecken erfordern.
 
 
 ## § 11 Persönliche Anforderungen an die Fahrer
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE001201124)
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge nach § 3 Satz 1
 Nummer 2 bis 5 dürfen am Straßenverkehr nur teilnehmen, wenn deren
@@ -378,6 +390,7 @@ auf Verlangen auszuhändigen.
 
 
 ## § 12 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE001301123)
 
 Kommt es beim Verkehr mit Fahrzeugen mit Überlänge im Sinne des § 3
 Satz 1 Nummer 1 zu einem Unfall oder zu Schwierigkeiten bei der
@@ -391,6 +404,7 @@ eine kurze Vorgangsbeschreibung beizubringen.
 
 
 ## § 13 Übergangs- und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE001404119)
 
 (1) Mit Ablauf des 31. Dezember 2026 sind nicht mehr anzuwenden:
 
@@ -415,6 +429,7 @@ Nummer 15 und Absatz 2 erst ab dem 1. Juli 2022 anzuwenden.
 
 
 ## Anlage (zu § 2 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/lkw_berlstvausnv/BJNR614410011.html#BJNR614410011BJNE001511123)
 
 (Fundstelle: BGBl. 2025 I Nr. 25, S. 1 – 98)
 

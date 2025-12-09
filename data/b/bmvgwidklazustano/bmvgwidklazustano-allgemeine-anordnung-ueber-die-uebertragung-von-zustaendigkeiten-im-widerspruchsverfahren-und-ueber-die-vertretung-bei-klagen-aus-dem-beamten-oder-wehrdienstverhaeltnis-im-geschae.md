@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000100000)
 
 Gemäß § 126 Absatz 3 Satz 2, § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) und § 82
@@ -27,6 +28,7 @@ Absatz 3 Satz 2 des Soldatengesetzes vom 30. Mai 2005 (BGBl. I S.
 
 
 ## § 1 Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000200000)
 
 (1) Die Zuständigkeit für die Entscheidung über Widersprüche aus dem
 Beamtenverhältnis wird auf die nächsthöhere Behörde der Dienststelle,
@@ -44,6 +46,7 @@ einer militärischen Dienststelle.
 
 
 ## § 2 Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000300000)
 
 (1) Die Befugnis zur Vertretung des Dienstherrn bei Klagen aus dem
 Beamten- und Wehrdienstverhältnis im Geschäftsbereich des
@@ -59,6 +62,7 @@ Verteidigung gegeben ist.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000400000)
 
 Widersprüche und Klagen in Disziplinarangelegenheiten und in
 Angelegenheiten der Besoldung, der Versorgung, des Wehrsolds und der
@@ -66,6 +70,7 @@ Beihilfe sind von dieser Anordnung ausgenommen.
 
 
 ## § 4 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000500000)
 
 Das Bundesministerium der Verteidigung kann in Einzelfällen die
 Zuständigkeit für die Entscheidung über Widersprüche und die
@@ -74,6 +79,7 @@ wieder an sich ziehen.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000600000)
 
 (1) Diese Anordnung gilt für Widersprüche, die vor ihrem Inkrafttreten
 erhoben worden sind, mit der Maßgabe, dass der Behörde die
@@ -89,6 +95,7 @@ wäre.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmvgwidklazustano/BJNR001100014.html#BJNR001100014BJNE000700000)
 
 Diese Anordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt
 die Allgemeine Anordnung über die Übertragung von Zuständigkeiten im

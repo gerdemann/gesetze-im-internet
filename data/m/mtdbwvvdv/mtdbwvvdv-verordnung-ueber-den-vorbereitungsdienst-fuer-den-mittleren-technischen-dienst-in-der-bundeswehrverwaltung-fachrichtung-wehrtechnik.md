@@ -19,9 +19,11 @@ Fundstelle
 Stand: Ersetzt V 2030-7-17-3 v. 17.4.2002 I 1444 (LAP-mtDBWVV)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000200000)
 
 Die Ausbildung und die Laufbahnprüfung nach dieser Verordnung sind der
 Vorbereitungsdienst für den mittleren technischen Dienst in der
@@ -29,11 +31,13 @@ Bundeswehrverwaltung – Fachrichtung Wehrtechnik –.
 
 
 ### § 2 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000300000)
 
 Der Vorbereitungsdienst dauert in der Regel zwölf Monate.
 
 
 ### § 3 Ziel des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000400000)
 
 (1) Ziel des Vorbereitungsdienstes ist es,
 
@@ -56,6 +60,7 @@ verpflichtet. Das Selbststudium ist zu fördern.
 
 
 ### § 4 Wehrtechnische Fachgebiete
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000500000)
 
 Der Schwerpunkt der Ausbildung liegt auf einem der folgenden
 wehrtechnischen Fachgebiete:
@@ -85,6 +90,7 @@ wehrtechnischen Fachgebiete:
 
 
 ### § 5 Bestandteile des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000600000)
 
 (1) Der Vorbereitungsdienst besteht aus
 
@@ -100,6 +106,7 @@ wehrtechnischen Fachgebiete:
 
 
 ### § 6 Bewertung im Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000700000)
 
 (1) In der Ausbildung und in der Laufbahnprüfung werden die Leistungen
 der Anwärterinnen und Anwärter wie folgt bewertet:
@@ -248,6 +255,7 @@ gleich oder größer als 50 ist.
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000800000)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse und Fähigkeiten einschränken, wird im
@@ -285,15 +293,18 @@ inhaltlichen Anforderungen herabgesetzt werden.
 
 
 ### § 8 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE000900000)
 
 Erholungsurlaub soll nur während der berufspraktischen Ausbildung
 gewährt werden.
 
 
 ## Teil 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000200000)
 
 
 ### § 9 Einstellungsbehörde und personalbearbeitende Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001000000)
 
 (1) Einstellungsbehörde und personalbearbeitende Dienststelle ist das
 Bundesamt für das Personalmanagement der Bundeswehr.
@@ -308,6 +319,7 @@ Auswahl und Einstellung zuständig ist, auf eine nachgeordnete Behörde
 
 
 ### § 10 Beschäftigungsdienststelle
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001100000)
 
 Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das
 Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
@@ -315,6 +327,7 @@ Bundeswehr.
 
 
 ### § 11 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001200000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
@@ -340,6 +353,7 @@ vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
 
 ### § 12 Anforderungen im Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001300000)
 
 (1) Die Eignung und Befähigung wird im Auswahlverfahren anhand von
 Eignungsmerkmalen festgestellt.
@@ -369,6 +383,7 @@ unterstützt werden.
 
 
 ### § 13 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001400000)
 
 (1) Die Einstellungsbehörde richtet eine Auswahlkommission ein. Bei
 Bedarf können mehrere Auswahlkommissionen eingerichtet werden. Die
@@ -396,6 +411,7 @@ nicht stimmberechtigt.
 
 
 ### § 14 Ergänzende Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001500000)
 
 (1) Die Einstellungsbehörde trifft ergänzende Festlegungen zum
 Auswahlverfahren, die Folgendes regeln:
@@ -434,6 +450,7 @@ die Fassung, die bei Beginn des Auswahlverfahrens gilt.
 
 
 ### § 15 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001600000)
 
 Das Auswahlverfahren besteht aus
 
@@ -447,6 +464,7 @@ Das Auswahlverfahren besteht aus
 
 
 ### § 16 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001700000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens sind höchstens vier
 der folgenden Auswahlinstrumente einzusetzen:
@@ -473,6 +491,7 @@ einen halben Arbeitstag.
 
 
 ### § 17 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001800000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
 den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
@@ -486,6 +505,7 @@ teilgenommen haben.
 
 
 ### § 18 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE001900000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens sind höchstens vier der
 folgenden Auswahlinstrumente einzusetzen:
@@ -532,6 +552,7 @@ auch im mündlichen Teil des Auswahlverfahrens bewertet.
 
 
 ### § 19 Bewertung der Eignungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002000000)
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
 den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
@@ -545,6 +566,7 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
 ### § 20 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002100000)
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
 Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
@@ -576,6 +598,7 @@ der anderen Bewerberin oder des anderen Bewerbers liegende Gründe
 
 
 ### § 21 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002200000)
 
 (1) In den Vorbereitungsdienst für den mittleren technischen Dienst in
 der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt
@@ -611,12 +634,15 @@ Auswahlverfahren.
 
 
 ## Teil 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften zu Organisation und Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000400000)
 
 
 #### § 22 Ausbildungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002300000)
 
 (1) In der Einstellungsbehörde werden als Ausbildungsleitung
 Beamtinnen und Beamte des höheren oder des gehobenen technischen
@@ -636,6 +662,7 @@ Verwaltungsdienstes im Verwendungsbereich Wehrtechnik bestellt.
 
 
 #### § 23 Ausbildungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002400000)
 
 (1) Jede Dienststelle, in der berufspraktische Ausbildung stattfindet
 (Ausbildungsdienststelle), bestellt eine Beamtin oder einen Beamten
@@ -675,6 +702,7 @@ wahr.
 
 
 #### § 24 Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002500000)
 
 (1) Die Unterweisung und Anleitung der Anwärterinnen und Anwärter
 erfolgt in der fachtheoretischen und der berufspraktischen Ausbildung
@@ -704,6 +732,7 @@ Anwärterinnen und Anwärter.
 
 
 #### § 25 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002600000)
 
 (1) Für die Ausbildung erstellt die Ausbildungsleitung einen
 Ausbildungsrahmenplan im Einvernehmen mit
@@ -756,6 +785,7 @@ jeweils die Fassung, die bei Beginn der Ausbildung gilt.
 
 
 #### § 26 Rahmenlehrplan für die fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002700000)
 
 (1) Für die fachtheoretische Ausbildung erstellt das Bildungszentrum
 der Bundeswehr einen Rahmenlehrplan im Einvernehmen mit der
@@ -786,6 +816,7 @@ fachtheoretischen Ausbildung gilt.
 
 
 #### § 27 Lehrpläne für die fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002800000)
 
 (1) Auf der Grundlage des Rahmenlehrplans erstellt das Bildungszentrum
 der Bundeswehr für die Lehrgänge der fachtheoretischen Ausbildung
@@ -814,6 +845,7 @@ Lehrgangs gilt.
 
 
 #### § 28 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE002900000)
 
 (1) Vor Beginn der Ausbildung erstellt die Ausbildungsleitung für jede
 Anwärterin und jeden Anwärter einen Ausbildungsplan.
@@ -848,6 +880,7 @@ Ausbildungsabschnitts.
 
 
 #### § 29 Ausbildungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003000000)
 
 Die Ausbildung vermittelt den Anwärterinnen und Anwärtern in enger
 Verbindung von Theorie und Praxis die Methoden und Kenntnisse sowie
@@ -913,12 +946,15 @@ Laufbahn erforderlich sind. Vermittelt werden ihnen insbesondere
 
 
 ### Abschnitt 2 - Fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000500000)
 
 
 #### Unterabschnitt 1 - Inhalt der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000600000)
 
 
 ##### § 30 Durchführungsort und Durchführungsart
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003100000)
 
 Die Lehrinhalte der fachtheoretischen Ausbildung werden beim
 Bildungszentrum der Bundeswehr vermittelt. Die Vermittlung erfolgt
@@ -927,6 +963,7 @@ Informationstechnologie unterstützt werden.
 
 
 ##### § 31 Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003200000)
 
 Die fachtheoretische Ausbildung besteht aus den folgenden Lehrgängen:
 
@@ -947,6 +984,7 @@ Die fachtheoretische Ausbildung besteht aus den folgenden Lehrgängen:
 
 
 ##### § 32 Einführungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003300000)
 
 (1) Im Einführungslehrgang werden die Anwärterinnen und Anwärter in
 die allgemeinen Grundlagen der Verwaltung eingeführt und mit den
@@ -971,6 +1009,7 @@ berufspraktischen Ausbildung erforderlich sind. Hierzu wird
 
 
 ##### § 33 Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Verwaltungsdienst“
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003400000)
 
 Im Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren
 technischen Verwaltungsdienst“ werden die Anwärterinnen und Anwärter
@@ -981,6 +1020,7 @@ erforderlich ist.
 
 
 ##### § 34 Lehrgang „Datenverarbeitung“
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003500000)
 
 Im Lehrgang „Datenverarbeitung“ werden den Anwärterinnen und Anwärtern
 Grundlagen der Informationstechnik einschließlich der praktischen
@@ -988,6 +1028,7 @@ Anwendung vermittelt.
 
 
 ##### § 35 Abschlusslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003600000)
 
 (1) Im Abschlusslehrgang werden die Anwärterinnen und Anwärter auf die
 Laufbahnprüfung vorbereitet.
@@ -1012,9 +1053,11 @@ Einführungslehrgang vermittelten Kenntnisse und Fähigkeiten.
 
 
 #### Unterabschnitt 2 - Klausuren und Leistungstests in der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000700000)
 
 
 ##### § 36 Leistungsnachweise in den Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003700000)
 
 (1) In der fachtheoretischen Ausbildung hat jede Anwärterin und jeder
 Anwärter folgende Leistungsnachweise zu absolvieren:
@@ -1073,6 +1116,7 @@ wehrtechnischen Fachgebieten sollen vergleichbar sein.
 
 
 ##### § 37 Durchführung der Klausuren und der Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003800000)
 
 (1) Jede Klausur und jeder Leistungstest ist mindestens eine Woche
 vorher anzukündigen.
@@ -1088,6 +1132,7 @@ gleichen Zeitpunkt durchzuführen.
 
 
 ##### § 38 Bewertung der Klausuren und Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE003900000)
 
 (1) Die Klausuraufgaben und die Leistungstests werden in der Regel von
 der oder dem jeweiligen Lehrenden bewertet. Die Bewertung ist
@@ -1103,6 +1148,7 @@ elektronisch zu begründen.
 
 
 ##### § 39 Rangpunktzahlen der Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004000000)
 
 (1) Nach dem Ende der Lehrgänge berechnet das Bildungszentrum der
 Bundeswehr für jede Anwärterin und jeden Anwärter
@@ -1144,6 +1190,7 @@ Bundeswehr für jede Anwärterin und jeden Anwärter
 
 
 ##### § 40 Verhinderung bei Klausuren und Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004100000)
 
 (1) Ist eine Anwärterin oder ein Anwärter in der fachtheoretischen
 Ausbildung ganz oder teilweise daran gehindert, eine Klausur oder
@@ -1170,6 +1217,7 @@ null Rangpunkten bewertet.
 
 
 ##### § 41 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004200000)
 
 (1) Wenn eine Anwärterin oder ein Anwärter in der fachtheoretischen
 Ausbildung bei einer Klausur oder einem Leistungstest täuscht, eine
@@ -1195,9 +1243,11 @@ Bundeswehr durch schriftlichen oder elektronischen Bescheid
 
 
 #### Unterabschnitt 3 - Zeugnisse in der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000800000)
 
 
 ##### § 42 Zeugnis für den Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Verwaltungsdienst“
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004300000)
 
 Nach Beendigung des Lehrgangs „Rechtsgrundlagen in der Praxis für den
 mittleren technischen Verwaltungsdienst“ stellt das Bildungszentrum
@@ -1208,6 +1258,7 @@ Rangpunkte der beiden Klausuren und die Rangpunktzahl nach § 39 Absatz
 
 
 ##### § 43 Gemeinsames Zeugnis für den Einführungs-, den Datenverarbeitungs- und den Abschlusslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004400000)
 
 Nach dem Ende des Einführungslehrgangs, des Lehrgangs
 „Datenverarbeitung“ und des Abschlusslehrgangs stellt das
@@ -1219,9 +1270,11 @@ Klausuren und Leistungstests sowie die Rangpunktzahl nach § 39 Absatz
 
 
 ### Abschnitt 3 - Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG000900000)
 
 
 #### § 44 Ziele der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004500000)
 
 Die berufspraktische Ausbildung hat zum Ziel,
 
@@ -1248,6 +1301,7 @@ Die berufspraktische Ausbildung hat zum Ziel,
 
 
 #### § 45 Inhalte der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004600000)
 
 (1) In der berufspraktischen Ausbildung werden die Anwärterinnen und
 Anwärter in mehreren Ausbildungsabschnitten in Dienststellen der
@@ -1286,6 +1340,7 @@ werden.
 
 
 #### § 46 Bewertung der Ausbildungsabschnitte der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004700000)
 
 (1) Für jeden Ausbildungsabschnitt der berufspraktischen Ausbildung,
 für den im Ausbildungsrahmenplan mindestens vier Wochen vorgesehen
@@ -1313,6 +1368,7 @@ oder elektronisch Stellung nehmen.
 
 
 #### § 47 Rangpunktzahl der Ausbildungsabschnitte der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004800000)
 
 (1) Nach dem Ende der berufspraktischen Ausbildung berechnet die
 Ausbildungsleitung für jede Anwärterin und jeden Anwärter die
@@ -1323,6 +1379,7 @@ Ausbildungsabschnitte jeweils einfach zu gewichten.
 
 
 #### § 48 Zeugnis für die berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE004900000)
 
 (1) Nach Beendigung der berufspraktischen Ausbildung stellt die
 Ausbildungsleitung jeder Anwärterin und jedem Anwärter in
@@ -1343,12 +1400,15 @@ aufgeführt:
 
 
 ## Teil 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001000000)
 
 
 ### Abschnitt 1 - Allgemeines und Organisatorisches
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001100000)
 
 
 #### § 49 Zweck der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005000000)
 
 In der Laufbahnprüfung müssen die Anwärterinnen und Anwärter
 nachweisen,
@@ -1367,12 +1427,14 @@ auszurichten.
 
 
 #### § 50 Zulassung zur Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005100000)
 
 Zur Laufbahnprüfung ist zugelassen, wer die Ausbildung durchlaufen
 hat.
 
 
 #### § 51 Teile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005200000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -1386,6 +1448,7 @@ Die Laufbahnprüfung besteht aus
 
 
 #### § 52 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005300000)
 
 (1) Beim Bildungszentrum der Bundeswehr wird ein Prüfungsamt
 eingerichtet.
@@ -1412,6 +1475,7 @@ andere Dienststellen übertragen werden.
 
 
 #### § 53 Prüfungskommission für die Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005400000)
 
 (1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung eine
 Prüfungskommission ein. Bei Bedarf können jeweils mehrere
@@ -1433,6 +1497,7 @@ angelegt werden.
 
 
 #### § 54 Mitglieder der Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005500000)
 
 (1) Eine Prüfungskommission für die schriftliche Prüfung besteht
 
@@ -1510,6 +1575,7 @@ und ist eine herausragende Aufgabe.
 
 
 #### § 55 Entscheidungen der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005600000)
 
 (1) Die Prüfungskommission ist beschlussfähig, wenn mehr als die
 Hälfte der Mitglieder anwesend ist, darunter die oder der Vorsitzende.
@@ -1524,6 +1590,7 @@ Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 #### § 56 Nichtöffentlichkeit der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005700000)
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -1547,6 +1614,7 @@ nur die Mitglieder der Prüfungskommission anwesend sein.
 
 
 #### § 57 Protokoll über die Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005800000)
 
 (1) Über die Laufbahnprüfung ist durch das Prüfungsamt für jede
 Anwärterin und jeden Anwärter ein Protokoll anzufertigen.
@@ -1566,6 +1634,7 @@ Anwärterin und jeden Anwärter ein Protokoll anzufertigen.
 
 
 #### § 58 Ort und Termin der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE005900000)
 
 (1) Das Prüfungsamt setzt jeweils den Ort und den Termin der
 schriftlichen Prüfung und der mündlichen Prüfung fest.
@@ -1578,9 +1647,11 @@ Anwärterinnen und Anwärtern rechtzeitig mit.
 
 
 ### Abschnitt 2 - Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001200000)
 
 
 #### § 59 Zweck der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006000000)
 
 In der schriftlichen Prüfung müssen die Anwärterinnen und Anwärter
 nachweisen, dass sie in der Lage sind,
@@ -1599,6 +1670,7 @@ nachweisen, dass sie in der Lage sind,
 
 
 #### § 60 Klausuren der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006100000)
 
 (1) Die schriftliche Prüfung besteht aus je einer Klausur in den
 folgenden Lehrgebieten:
@@ -1639,6 +1711,7 @@ gegeben werden darf.
 
 
 #### § 61 Durchführung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006200000)
 
 (1) Bei jeder Klausur dürfen nur die Hilfsmittel verwendet werden, die
 vom Prüfungsamt gestellt worden sind oder deren Nutzung erlaubt worden
@@ -1649,6 +1722,7 @@ sollen an aufeinanderfolgenden Arbeitstagen geschrieben werden.
 
 
 #### § 62 Protokolle über die schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006300000)
 
 (1) Für jede Klausur fertigt eine der Personen, die bei der Klausur
 Aufsicht führen, für jede Anwärterin und jeden Anwärter ein Protokoll
@@ -1672,6 +1746,7 @@ an.
 
 
 #### § 63 Bewertung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006400000)
 
 (1) Jede Klausur der schriftlichen Prüfung wird von zwei Mitgliedern
 der Prüfungskommission bewertet.
@@ -1691,6 +1766,7 @@ unberührt.
 
 
 #### § 64 Rangpunktzahl der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006500000)
 
 (1) Aus den Rangpunkten der Klausuren wird die Rangpunktzahl der
 schriftlichen Prüfung berechnet.
@@ -1700,6 +1776,7 @@ Klausuren jeweils einfach zu gewichten.
 
 
 #### § 65 Bestehen der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006600000)
 
 (1) Die schriftliche Prüfung hat bestanden,
 
@@ -1717,9 +1794,11 @@ Klausuren jeweils einfach zu gewichten.
 
 
 ### Abschnitt 3 - Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001300000)
 
 
 #### § 66 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006700000)
 
 (1) Zur mündlichen Prüfung wird zugelassen, wer die schriftliche
 Prüfung bestanden hat.
@@ -1733,12 +1812,14 @@ Rangpunkte und die Rangpunktzahl der schriftlichen Prüfung mit.
 
 
 #### § 67 Zweck der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006800000)
 
 In der mündlichen Prüfung müssen die Anwärterinnen und Anwärter
 nachweisen, dass sie fachbezogen kommunizieren und kooperieren können.
 
 
 #### § 68 Gegenstand der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE006900000)
 
 Die mündliche Prüfung erstreckt sich auf den gesamten Inhalt der
 Ausbildung. Die Prüfungskommission wählt den Prüfungsstoff thematisch
@@ -1746,6 +1827,7 @@ aus den Lehrgebieten der schriftlichen Prüfung (§ 60 Absatz 1) aus.
 
 
 #### § 69 Durchführung der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007000000)
 
 (1) Die mündliche Prüfung ist ein Prüfungsgespräch.
 
@@ -1765,6 +1847,7 @@ Prüfung kann durch Informationstechnologie unterstützt werden.
 
 
 #### § 70 Protokolle über die mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007100000)
 
 (1) Über die mündliche Prüfung ist durch die Prüfungskommission für
 jede Anwärterin und jeden Anwärter ein Protokoll anzufertigen.
@@ -1784,6 +1867,7 @@ jede Anwärterin und jeden Anwärter ein Protokoll anzufertigen.
 
 
 #### § 71 Bewertung und Rangpunktzahl der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007200000)
 
 (1) Die in der mündlichen Prüfung von den Anwärterinnen und Anwärtern
 erbrachten Leistungen werden von der Prüfungskommission bewertet.
@@ -1803,15 +1887,18 @@ kurz mündlich.
 
 
 #### § 72 Bestehen der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007300000)
 
 Die mündliche Prüfung hat bestanden, bei wem die Rangpunktzahl der
 mündlichen Prüfung mindestens 5 beträgt.
 
 
 ### Abschnitt 4 - Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001400000)
 
 
 #### § 73 Bewertung und Rangpunktzahl der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007400000)
 
 (1) Nach der mündlichen Prüfung berechnet die Prüfungskommission der
 mündlichen Prüfung die Rangpunktzahl der Laufbahnprüfung und setzt die
@@ -1852,6 +1939,7 @@ Zahl abgerundet.
 
 
 #### § 74 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007500000)
 
 Die Laufbahnprüfung hat bestanden,
 
@@ -1869,6 +1957,7 @@ Die Laufbahnprüfung hat bestanden,
 
 
 #### § 75 Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007600000)
 
 (1) Der nach § 73 Absatz 2 und 3 gebildeten Rangpunktzahl wird die
 nach § 6 Absatz 1 entsprechende Note zugeordnet und als Abschlussnote
@@ -1880,6 +1969,7 @@ Abschlussnote mit und erläutert die Berechnung auf Wunsch.
 
 
 #### § 76 Bescheid über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007700000)
 
 (1) Jeder Person, die die Laufbahnprüfung nicht bestanden hat, erteilt
 das Prüfungsamt einen schriftlichen oder elektronischen Bescheid über
@@ -1893,6 +1983,7 @@ Ausbildung und die Ausbildungsinhalte anzugeben.
 
 
 #### § 77 Wiederholung der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007800000)
 
 (1) Im Wiederholungsfall (§ 17 Absatz 3 Nummer 1 und Absatz 5 Satz 1
 Nummer 1 der Bundeslaufbahnverordnung) ist die Laufbahnprüfung
@@ -1923,12 +2014,14 @@ ersetzen die vorherigen.
 
 
 #### § 78 Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE007900000)
 
 Wer die Laufbahnprüfung bestanden hat, hat die Befähigung für die
 Laufbahn des mittleren technischen Verwaltungsdienstes erlangt.
 
 
 #### § 79 Bescheid über das Gesamtergebnis der Laufbahnprüfung bei Bestehen und Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE008000000)
 
 (1) Das Prüfungsamt stellt jeder Person, die die Laufbahnprüfung
 bestanden hat, einen schriftlichen oder elektronischen Bescheid über
@@ -1964,9 +2057,11 @@ Abschlusszeugnis ebenfalls dem Prüfungsamt zurückzugeben.
 
 
 ### Abschnitt 5 - Gemeinsame Vorschriften für die schriftliche und die mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001500000)
 
 
 #### § 80 Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE008100000)
 
 Ist eine Anwärterin oder ein Anwärter an der Teilnahme an der
 schriftlichen oder mündlichen Laufbahnprüfung gehindert, so gilt § 40
@@ -1975,6 +2070,7 @@ Bildungszentrums der Bundeswehr tritt.
 
 
 #### § 81 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE008200000)
 
 (1) Wenn eine Anwärterin oder ein Anwärter bei einer Klausur der
 schriftlichen Prüfung oder in der mündlichen Prüfung täuscht, eine
@@ -2035,6 +2131,7 @@ erklären.
 
 
 #### § 82 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE008300000)
 
 (1) Zu jeder Anwärterin und jedem Anwärter wird eine Prüfungsakte
 geführt.
@@ -2079,9 +2176,11 @@ nehmen. Die Einsichtnahme ist in der Prüfungsakte zu vermerken.
 
 
 ## Teil 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNG001600000)
 
 
 ### § 83 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mtdbwvvdv/BJNR0E30B0024.html#BJNR0E30B0024BJNE008400000)
 
 Die Verordnung über die Laufbahn, Ausbildung und Prüfung für den
 mittleren technischen Dienst in der Bundeswehrverwaltung –

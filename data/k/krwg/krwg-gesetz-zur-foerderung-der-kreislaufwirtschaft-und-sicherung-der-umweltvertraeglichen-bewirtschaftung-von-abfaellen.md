@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000201116)
 
 (1) Zweck des Gesetzes ist es, die Kreislaufwirtschaft zur Schonung
 der natürlichen Ressourcen zu fördern und den Schutz von Mensch und
@@ -41,6 +43,7 @@ gefördert werden.
 
 
 ### § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000305125)
 
 (1) Die Vorschriften dieses Gesetzes gelten für
 
@@ -216,6 +219,7 @@ kontaminiert sein können.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000401116)
 
 (1) Abfälle im Sinne dieses Gesetzes sind alle Stoffe oder
 Gegenstände, derer sich ihr Besitzer entledigt, entledigen will oder
@@ -542,6 +546,7 @@ berücksichtigen.
 
 
 ### § 4 Nebenprodukte
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000501000)
 
 (1) Fällt ein Stoff oder Gegenstand bei einem Herstellungsverfahren
 an, dessen hauptsächlicher Zweck nicht auf die Herstellung dieses
@@ -578,6 +583,7 @@ und Umwelt festzulegen.
 
 
 ### § 5 Ende der Abfalleigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000602116)
 
 (1) Die Abfalleigenschaft eines Stoffes oder Gegenstandes endet, wenn
 dieser ein Recycling oder ein anderes Verwertungsverfahren durchlaufen
@@ -642,12 +648,15 @@ ermöglichen. In der Rechtsverordnung ist insbesondere zu bestimmen:
 
 
 ## Teil 2 - Grundsätze und Pflichten der Erzeuger und Besitzer von Abfällen sowie der öffentlich-rechtlichen Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000200000)
 
 
 ### Abschnitt 1 - Grundsätze der Abfallvermeidung und Abfallbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000300000)
 
 
 #### § 6 Abfallhierarchie
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000701116)
 
 (1) Maßnahmen der Vermeidung und der Abfallbewirtschaftung stehen in
 folgender Rangfolge:
@@ -702,9 +711,11 @@ Verwertungsverfahren.
 
 
 ### Abschnitt 2 - Kreislaufwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000400000)
 
 
 #### § 7 Grundpflichten der Kreislaufwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000800000)
 
 (1) Die Pflichten zur Abfallvermeidung richten sich nach § 13 sowie
 den Rechtsverordnungen, die auf Grund der §§ 24 und 25 erlassen worden
@@ -739,6 +750,7 @@ stehen, die für eine Abfallbeseitigung zu tragen wären.
 
 
 #### § 7a Chemikalien- und Produktrecht
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007800116)
 
 (1) Natürliche oder juristische Personen, die Stoffe und Gegenstände,
 deren Abfalleigenschaft beendet ist, erstmals verwenden oder erstmals
@@ -752,6 +764,7 @@ gemäß den Anforderungen nach § 5 Absatz 1 beendet sein.
 
 
 #### § 8 Rangfolge und Hochwertigkeit der Verwertungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE000902116)
 
 (1) Bei der Erfüllung der Verwertungspflicht nach § 7 Absatz 2 Satz 1
 hat diejenige der in § 6 Absatz 1 Nummer 2 bis 4 genannten
@@ -787,6 +800,7 @@ Verwertungsmaßnahmen (Kaskadennutzung) zu erfolgen hat.
 
 
 #### § 9 Getrennte Sammlung und Behandlung von Abfällen zur Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001001116)
 
 (1) Soweit dies zur Erfüllung der Anforderungen nach § 7 Absatz 2 bis
 4 und § 8 Absatz 1 erforderlich ist, sind Abfälle getrennt zu sammeln
@@ -852,6 +866,7 @@ gilt entsprechend.
 
 
 #### § 9a Vermischungsverbot und Behandlung gefährlicher Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007900116)
 
 (1) Die Vermischung, einschließlich der Verdünnung, gefährlicher
 Abfälle mit anderen Kategorien von gefährlichen Abfällen oder mit
@@ -888,6 +903,7 @@ Bundes-Immissionsschutzgesetz hierfür zugelassen ist.
 
 
 #### § 10 Anforderungen an die Kreislaufwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001101116)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -1034,6 +1050,7 @@ Anforderungen zu stellen sind, in Verkehr bringt oder verwertet,
 
 
 #### § 11 Anforderungen an die Kreislaufwirtschaft für Bioabfälle und Klärschlämme
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001202116)
 
 (1) (weggefallen)
 
@@ -1130,6 +1147,7 @@ Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden
 
 
 #### § 12 Qualitätssicherung im Bereich der Bioabfälle und Klärschlämme
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001301000)
 
 (1) Zur Förderung der Kreislaufwirtschaft und zur Sicherstellung des
 Schutzes von Mensch und Umwelt bei der Erzeugung und Bewirtschaftung
@@ -1249,6 +1267,7 @@ insbesondere
 
 
 #### § 13 Pflichten der Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001400000)
 
 Die Pflichten der Betreiber von genehmigungsbedürftigen und nicht
 genehmigungsbedürftigen Anlagen nach dem Bundes-
@@ -1258,6 +1277,7 @@ den Vorschriften des Bundes-Immissionsschutzgesetzes.
 
 
 #### § 14 Förderung des Recyclings und der sonstigen stofflichen Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001501116)
 
 (1) Die Vorbereitung zur Wiederverwendung und das Recycling von
 Siedlungsabfällen sollen betragen:
@@ -1289,9 +1309,11 @@ Abfallschlüssel 17 05 04 gekennzeichnet sind, sollen spätestens ab dem
 
 
 ### Abschnitt 3 - Abfallbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000500000)
 
 
 #### § 15 Grundpflichten der Abfallbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001601116)
 
 (1) Die Erzeuger oder Besitzer von Abfällen, die nicht verwertet
 werden, sind verpflichtet, diese zu beseitigen, soweit in § 17 nichts
@@ -1340,6 +1362,7 @@ Siedlungsabfallaufkommens betragen.
 
 
 #### § 16 Anforderungen an die Abfallbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001701116)
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1386,9 +1409,11 @@ beseitigt,
 
 
 ### Abschnitt 4 - Öffentlich-rechtliche Entsorgung und Beauftragung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000600000)
 
 
 #### § 17 Überlassungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001801116)
 
 (1) Abweichend von § 7 Absatz 2 und § 15 Absatz 1 sind Erzeuger oder
 Besitzer von Abfällen aus privaten Haushaltungen verpflichtet, diese
@@ -1491,6 +1516,7 @@ bestimmt haben, bleiben unberührt.
 
 
 #### § 18 Anzeigeverfahren für Sammlungen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE001902116)
 
 (1) Gemeinnützige Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer
 3 und gewerbliche Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer
@@ -1589,6 +1615,7 @@ werden.
 
 
 #### § 19 Duldungspflichten bei Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002000000)
 
 (1) Die Eigentümer und Besitzer von Grundstücken, auf denen
 überlassungspflichtige Abfälle anfallen, sind verpflichtet, das
@@ -1609,6 +1636,7 @@ Rechtsverordnung nach § 25 erforderlich sind.
 
 
 #### § 20 Pflichten der öffentlich-rechtlichen Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002101116)
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger haben die in ihrem
 Gebiet angefallenen und überlassenen Abfälle aus privaten
@@ -1694,6 +1722,7 @@ Anhänger ohne gültige amtliche Kennzeichen, wenn diese
 
 
 #### § 21 Abfallwirtschaftskonzepte und Abfallbilanzen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002201116)
 
 Die öffentlich-rechtlichen Entsorgungsträger im Sinne des § 20 haben
 Abfallwirtschaftskonzepte und Abfallbilanzen über die Verwertung,
@@ -1711,6 +1740,7 @@ sich nach Landesrecht.
 
 
 #### § 22 Beauftragung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002300000)
 
 Die zur Verwertung und Beseitigung Verpflichteten können Dritte mit
 der Erfüllung ihrer Pflichten beauftragen. Ihre Verantwortlichkeit für
@@ -1721,9 +1751,11 @@ Zuverlässigkeit verfügen.
 
 
 ## Teil 3 - Produktverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000700000)
 
 
 ### § 23 Produktverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002402116)
 
 (1) Wer Erzeugnisse entwickelt, herstellt, be- oder verarbeitet oder
 vertreibt, trägt zur Erfüllung der Ziele der Kreislaufwirtschaft die
@@ -1820,6 +1852,7 @@ Produktverantwortung wahrzunehmen ist.
 
 
 ### § 24 Anforderungen an Verbote, Beschränkungen, Kennzeichnungen, Beratung, Information und Obhutspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002501116)
 
 Zur Festlegung von Anforderungen nach § 23 wird die Bundesregierung
 ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch
@@ -1927,6 +1960,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass
 
 
 ### § 25 Anforderungen an Rücknahme- und Rückgabepflichten, die Wiederverwendung, die Verwertung und die Beseitigung der nach Gebrauch der Erzeugnisse entstandenen Abfälle, Kostenbeteiligungen für die Reinigung der Umwelt; Obhutspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002601116)
 
 (1) Zur Festlegung von Anforderungen nach § 23 wird die
 Bundesregierung ermächtigt, nach Anhörung der beteiligten Kreise (§
@@ -2091,6 +2125,7 @@ bestimmt werden,
 
 
 ### § 26 Freiwillige Rücknahme, Wahrnehmung der Produktverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002703116)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§
@@ -2165,6 +2200,7 @@ Vertreiber selbst hergestellt oder vertrieben wurden, wenn
 
 
 ### § 26a Freistellung von Nachweispflichten bei freiwilliger Rücknahme gefährlicher Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE008000116)
 
 (1) Soweit vom Hersteller oder Vertreiber in Wahrnehmung der
 Produktverantwortung die nach Gebrauch ihrer Erzeugnisse verbleibenden
@@ -2206,6 +2242,7 @@ Beseitigung sicherzustellen.
 
 
 ### § 27 Besitzerpflichten nach Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002800000)
 
 Hersteller und Vertreiber, die Abfälle auf Grund einer
 Rechtsverordnung nach § 25 oder freiwillig zurücknehmen, unterliegen
@@ -2213,12 +2250,15 @@ den Pflichten eines Besitzers von Abfällen.
 
 
 ## Teil 4 - Planungsverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000800000)
 
 
 ### Abschnitt 1 - Ordnung und Durchführung der Abfallbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG000900000)
 
 
 #### § 28 Ordnung der Abfallbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE002900000)
 
 (1) Abfälle dürfen zum Zweck der Beseitigung nur in den dafür
 zugelassenen Anlagen oder Einrichtungen (Abfallbeseitigungsanlagen)
@@ -2255,6 +2295,7 @@ Behörden übertragen.
 
 
 #### § 29 Durchführung der Abfallbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003000000)
 
 (1) Die zuständige Behörde kann den Betreiber einer
 Abfallbeseitigungsanlage verpflichten, einem Beseitigungspflichtigen
@@ -2316,9 +2357,11 @@ Inhaltsstoffe in die Hohe See eingebracht werden.
 
 
 ### Abschnitt 2 - Abfallwirtschaftspläne und Abfallvermeidungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001000000)
 
 
 #### § 30 Abfallwirtschaftspläne
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003102125)
 
 (1) Die Länder stellen für ihr Gebiet Abfallwirtschaftspläne nach
 überörtlichen Gesichtspunkten auf. Die Abfallwirtschaftspläne stellen
@@ -2507,6 +2550,7 @@ bleibt unberührt.
 
 
 #### § 31 Aufstellung von Abfallwirtschaftsplänen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003200000)
 
 (1) Die Länder sollen ihre Abfallwirtschaftsplanungen aufeinander und
 untereinander abstimmen. Ist eine die Grenze eines Landes
@@ -2532,6 +2576,7 @@ Bedarf fortzuschreiben.
 
 
 #### § 32 Beteiligung der Öffentlichkeit bei der Aufstellung von Abfallwirtschaftsplänen, Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003300000)
 
 (1) Bei der Aufstellung oder Änderung von Abfallwirtschaftplänen nach
 § 30, einschließlich besonderer Kapitel oder gesonderter Teilpläne,
@@ -2576,6 +2621,7 @@ Unterrichtungszeitraum.
 
 
 #### § 33 Abfallvermeidungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003403125)
 
 (1) Der Bund erstellt ein Abfallvermeidungsprogramm. Die Länder können
 sich an der Erstellung des Abfallvermeidungsprogramms beteiligen. In
@@ -2762,9 +2808,11 @@ Bundesministerien erstellt.
 
 
 ### Abschnitt 3 - Zulassung von Anlagen, in denen Abfälle entsorgt werden
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001100000)
 
 
 #### § 34 Erkundung geeigneter Standorte
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003500000)
 
 (1) Eigentümer und Nutzungsberechtigte von Grundstücken haben zu
 dulden, dass Beauftragte der zuständigen Behörde und der öffentlich-
@@ -2793,6 +2841,7 @@ verlangen.
 
 
 #### § 35 Planfeststellung und Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003601116)
 
 (1) Die Errichtung und der Betrieb von Anlagen, in denen eine
 Entsorgung von Abfällen durchgeführt wird, sowie die wesentliche
@@ -2863,6 +2912,7 @@ Vorhabens eine Planfeststellung oder eine Plangenehmigung beantragen.
 
 
 #### § 36 Erteilung, Sicherheitsleistung, Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003701000)
 
 (1) Der Planfeststellungsbeschluss nach § 35 Absatz 2 darf nur
 erlassen oder die Plangenehmigung nach § 35 Absatz 3 darf nur erteilt
@@ -2941,6 +2991,7 @@ erlassen hat.
 
 
 #### § 37 Zulassung des vorzeitigen Beginns
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003800000)
 
 (1) In einem Planfeststellungs- oder Plangenehmigungsverfahren kann
 die für die Feststellung des Plans oder Erteilung der Plangenehmigung
@@ -2973,6 +3024,7 @@ Verpflichtungen des Trägers des Vorhabens nach Absatz 1 Satz 1 Nummer
 
 
 #### § 38 Planfeststellungsverfahren und weitere Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE003901000)
 
 (1) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des
 Verwaltungsverfahrensgesetzes. Die Bundesregierung wird ermächtigt,
@@ -3001,6 +3053,7 @@ der gesetzlich festgelegten Frist nur schriftlich erhoben werden.
 
 
 #### § 39 Bestehende Abfallbeseitigungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004000000)
 
 (1) Die zuständige Behörde kann für Deponien, die vor dem 11. Juni
 1972 betrieben wurden oder mit deren Errichtung begonnen war, für
@@ -3017,6 +3070,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 40 Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004100000)
 
 (1) Der Betreiber einer Deponie hat ihre beabsichtigte Stilllegung der
 zuständigen Behörde unverzüglich anzuzeigen. Der Anzeige sind
@@ -3063,6 +3117,7 @@ Nachsorgephase festzustellen.
 
 
 #### § 41 Emissionserklärung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004201000)
 
 (1) Der Betreiber einer Deponie ist verpflichtet, der zuständigen
 Behörde zu dem in der Rechtsverordnung nach Absatz 2 festgesetzten
@@ -3095,6 +3150,7 @@ abzugeben, entsteht mit Inkrafttreten der Rechtsverordnung nach Absatz
 
 
 #### § 42 Zugang zu Informationen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004300000)
 
 Planfeststellungsbeschlüsse nach § 35 Absatz 2, Plangenehmigungen nach
 § 35 Absatz 3, Anordnungen nach § 39 und alle Ablehnungen und
@@ -3107,6 +3163,7 @@ Landesbehörden gelten die landesrechtlichen Vorschriften.
 
 
 #### § 43 Anforderungen an Deponien
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004401116)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -3245,6 +3302,7 @@ Absatz 3.
 
 
 #### § 44 Kosten der Ablagerung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004500000)
 
 (1) Die vom Betreiber für die Ablagerung von Abfällen in Rechnung zu
 stellenden privatrechtlichen Entgelte müssen alle Kosten für die
@@ -3277,9 +3335,11 @@ Zeitraum von mehr als drei Jahren gelagert werden.
 
 
 ## Teil 5 - Absatzförderung und Abfallberatung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001200000)
 
 
 ### § 45 Pflichten der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004602116)
 
 (1) Die Behörden des Bundes sowie die der Aufsicht des Bundes
 unterstehenden juristischen Personen des öffentlichen Rechts,
@@ -3340,6 +3400,7 @@ Rechtsvorschriften zu berücksichtigen.
 
 
 ### § 46 Abfallberatungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004702125)
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger im Sinne des § 20
 sind im Rahmen der ihnen übertragenen Aufgaben in Selbstverwaltung zur
@@ -3393,9 +3454,11 @@ erteilen.
 
 
 ## Teil 6 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001300000)
 
 
 ### § 47 Allgemeine Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004805116)
 
 (1) Die Vermeidung nach Maßgabe der auf Grund der §§ 24 und 25
 erlassenen Rechtsverordnungen und die Abfallbewirtschaftung
@@ -3519,6 +3582,7 @@ entsprechend.
 
 
 ### § 48 Abfallbezeichnung, gefährliche Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE004901000)
 
 An die Entsorgung sowie die Überwachung gefährlicher Abfälle sind nach
 Maßgabe dieses Gesetzes besondere Anforderungen zu stellen. Zur
@@ -3531,6 +3595,7 @@ Einzelfall zuzulassen.
 
 
 ### § 49 Registerpflichten
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005002116)
 
 (1) Die Betreiber von Anlagen oder Unternehmen, die Abfälle in einem
 Verfahren nach Anlage 1 oder Anlage 2 entsorgen (Entsorger von
@@ -3582,6 +3647,7 @@ private Haushaltungen.
 
 
 ### § 50 Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005100000)
 
 (1) Die Erzeuger, Besitzer, Sammler, Beförderer und Entsorger von
 gefährlichen Abfällen haben sowohl der zuständigen Behörde gegenüber
@@ -3626,6 +3692,7 @@ Haushaltungen.
 
 
 ### § 51 Überwachung im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005200000)
 
 (1) Die zuständige Behörde kann anordnen, dass die Erzeuger, Besitzer,
 Sammler, Beförderer, Händler, Makler oder Entsorger von Abfällen,
@@ -3659,6 +3726,7 @@ Unterlagen.
 
 
 ### § 52 Anforderungen an Nachweise und Register
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005301116)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -3729,6 +3797,7 @@ dass
 
 
 ### § 53 Sammler, Beförderer, Händler und Makler von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005402116)
 
 (1) Sammler, Beförderer, Händler und Makler von Abfällen haben die
 Tätigkeit ihres Betriebes vor Aufnahme der Tätigkeit der zuständigen
@@ -3815,6 +3884,7 @@ Verkehrsträger, Verkehrswege oder der jeweiligen Beförderungsart,
 
 
 ### § 54 Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005501000)
 
 (1) Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen
 bedürfen der Erlaubnis. Die zuständige Behörde hat die Erlaubnis zu
@@ -3926,6 +3996,7 @@ Verkehrswege oder Beförderungsart,
 
 
 ### § 55 Kennzeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005601000)
 
 (1) Sammler und Beförderer haben Fahrzeuge, mit denen sie Abfälle in
 Ausübung ihrer Tätigkeit auf öffentlichen Straßen befördern, vor
@@ -3946,9 +4017,11 @@ unberührt.
 
 
 ## Teil 7 - Entsorgungsfachbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001400000)
 
 
 ### § 56 Zertifizierung von Entsorgungsfachbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005701116)
 
 (1) Entsorgungsfachbetriebe wirken an der Förderung der
 Kreislaufwirtschaft und der Sicherstellung des Schutzes von Mensch und
@@ -4032,6 +4105,7 @@ entziehen sowie die sonstige weitere Verwendung der Bezeichnung
 
 
 ### § 57 Anforderungen an Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005800000)
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -4109,9 +4183,11 @@ In der Rechtsverordnung können insbesondere
 
 
 ## Teil 8 - Betriebsorganisation, Betriebsbeauftragter für Abfall und Erleichterungen für auditierte Unternehmensstandorte
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001500000)
 
 
 ### § 58 Mitteilungspflichten zur Betriebsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE005901116)
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ
 aus mehreren Mitgliedern oder sind bei rechtsfähigen
@@ -4136,6 +4212,7 @@ Beseitigung von Abfällen dienen, beim Betrieb beachtet werden.
 
 
 ### § 59 Bestellung eines Betriebsbeauftragten für Abfall
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006003116)
 
 (1) Betreiber von genehmigungsbedürftigen Anlagen im Sinne des § 4 des
 Bundes-Immissionsschutzgesetzes, Betreiber von Anlagen, in denen
@@ -4190,6 +4267,7 @@ Abfallbeauftragten nach diesem Gesetz wahrnehmen.
 
 
 ### § 60 Aufgaben des Betriebsbeauftragten für Abfall
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006104116)
 
 (1) Der Abfallbeauftragte berät den zur Bestellung Verpflichteten und
 die Betriebsangehörigen in Angelegenheiten, die für die
@@ -4266,6 +4344,7 @@ Abfallbeauftragten zu stellen sind.
 
 
 ### § 61 Anforderungen an Erleichterungen für auditierte Unternehmensstandorte
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006201116)
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten
 Eigenverantwortung für Standorte des Gemeinschaftssystems für das
@@ -4323,9 +4402,11 @@ Entsorgungsfachbetriebe gewährt werden.
 
 
 ## Teil 9 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNG001600000)
 
 
 ### § 62 Anordnungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006300000)
 
 Die zuständige Behörde kann im Einzelfall die erforderlichen
 Anordnungen zur Durchführung dieses Gesetzes und der auf Grund dieses
@@ -4333,12 +4414,14 @@ Gesetzes erlassenen Rechtsverordnungen treffen.
 
 
 ### § 63 Geheimhaltung und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006400000)
 
 Die Rechtsvorschriften über Geheimhaltung und Datenschutz bleiben
 unberührt.
 
 
 ### § 64 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006500000)
 
 Soweit auf Grund dieses Gesetzes oder einer auf Grund dieses Gesetzes
 erlassenen Rechtsverordnung die Schriftform angeordnet wird, ist auch
@@ -4347,6 +4430,7 @@ Verwaltungsverfahrensgesetzes zugelassen.
 
 
 ### § 65 Umsetzung von Rechtsakten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006600000)
 
 (1) Zur Umsetzung von Rechtsakten der Europäischen Union kann die
 Bundesregierung mit Zustimmung des Bundesrates zu dem in § 1 genannten
@@ -4365,6 +4449,7 @@ einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung regeln.
 
 
 ### § 66 Vollzug im Bereich der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006701116)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
 obliegt der Vollzug des Gesetzes und der auf Grund dieses Gesetzes
@@ -4384,6 +4469,7 @@ Erfüllung zwischenstaatlicher Pflichten dies erfordern.
 
 
 ### § 67 Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006800000)
 
 Rechtsverordnungen nach § 8 Absatz 2, § 10 Absatz 1 Nummer 1 und 4,
 den §§ 24, 25 und 65 sind dem Bundestag zuzuleiten. Die Zuleitung
@@ -4396,6 +4482,7 @@ Rechtsverordnung dem Bundesrat zugeleitet.
 
 
 ### § 68 Anhörung beteiligter Kreise
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE006900000)
 
 Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und
 allgemeinen Verwaltungsvorschriften die Anhörung der beteiligten
@@ -4406,6 +4493,7 @@ Landesbehörden, der Gemeinden und Gemeindeverbände zu hören.
 
 
 ### § 69 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007005130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4565,6 +4653,7 @@ Inland keinen Wohnsitz hat.
 
 
 ### § 70 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007100000)
 
 Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 Nummer 2 bis 7 oder
 Nummer 8 begangen worden, so können Gegenstände eingezogen werden,
@@ -4581,6 +4670,7 @@ Nummer 8 begangen worden, so können Gegenstände eingezogen werden,
 
 
 ### § 71 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007200000)
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht
@@ -4588,6 +4678,7 @@ abgewichen werden.
 
 
 ### § 72 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007302125)
 
 (1) Pflichtenübertragungen nach § 16 Absatz 2, § 17 Absatz 3 oder § 18
 Absatz 2 des Kreislaufwirtschafts- und Abfallgesetzes vom 27.
@@ -4625,6 +4716,7 @@ Befristung als Erlaubnis nach § 54 Absatz 1 fort.
 
 
 ### Anlage 1 Beseitigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007400000)
 
 (Fundstelle: BGBl. I 2012, 242)
 
@@ -4707,6 +4799,7 @@ D 15[^F775916_04_BJNR021210012BJNE007400000]
 
 
 ### Anlage 2 Verwertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007501116)
 
 (Fundstelle: BGBl. I 2012, 243)
 
@@ -4876,6 +4969,7 @@ Sinne des § 3 Absatz 15 zu verstehen.
 [^F775916_09_BJNR021210012BJNE007501116]: 
 
 ### Anlage 3 Kriterien zur Bestimmung des Standes der Technik
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007601116)
 
 (Fundstelle: BGBl. I 2012, 244;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4939,6 +5033,7 @@ folgende Kriterien zu berücksichtigen:
 
 
 ### Anlage 4 Beispiele für Abfallvermeidungsmaßnahmen nach § 33
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE007700000)
 
 (Fundstelle: BGBl. I 2012, 245)
 
@@ -5058,6 +5153,7 @@ folgende Kriterien zu berücksichtigen:
 (zu § 6 Absatz 3)
 
 ### Anlage 5 Beispiele für wirtschaftliche Instrumente und andere Maßnahmen zur Schaffung von Anreizen für die Anwendung der Abfallhierarchie
+[Direktlink](https://www.gesetze-im-internet.de/krwg/BJNR021210012.html#BJNR021210012BJNE008100116)
 
 (Fundstelle: BGBl. I 2020, 2243)
 

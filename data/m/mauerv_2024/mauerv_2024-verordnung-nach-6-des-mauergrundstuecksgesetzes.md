@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 105-27-1 v. 2.8.2001 I 2128 (MauerV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ma_rv_2024/BJNR00E0A0024.html#BJNR00E0A0024BJNE000100000)
 
 Auf Grund des § 6 des Mauergrundstücksgesetzes, der durch Artikel 2
 Nummer 2 des Gesetzes vom 13. November 2023 (BGBl. 2023 I Nr. 310) neu
@@ -25,6 +26,7 @@ gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Mittelverwendung nach § 5 des Mauergrundstücksgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ma_rv_2024/BJNR00E0A0024.html#BJNR00E0A0024BJNE000200000)
 
 (1) Die Einnahmen aus der Veräußerung der Mauer- und Grenzgrundstücke
 abzüglich der Leistungen an Berechtigte nach § 3 Absatz 1 und 2 des
@@ -74,6 +76,7 @@ Richtlinien des Bundesministeriums der Finanzen vom 31. Juli 1996
 
 
 ## § 2 Zweckbestimmung und Verteilung der verbleibenden Mittel
+[Direktlink](https://www.gesetze-im-internet.de/ma_rv_2024/BJNR00E0A0024.html#BJNR00E0A0024BJNE000300000)
 
 (1) Die nach Abzug der Ausgaben nach § 1 Absatz 2 Satz 2 verbleibenden
 Mittel werden über den Bundeshaushalt für Projekte bereitgestellt, die
@@ -171,6 +174,7 @@ können durch Verwaltungsvereinbarung geregelt werden.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ma_rv_2024/BJNR00E0A0024.html#BJNR00E0A0024BJNE000400000)
 
 Diese Verordnung tritt am 1. Februar 2024 in Kraft. Gleichzeitig tritt
 die Mauergrundstücksverordnung vom 2. August 2001 (BGBl. I S. 2128)

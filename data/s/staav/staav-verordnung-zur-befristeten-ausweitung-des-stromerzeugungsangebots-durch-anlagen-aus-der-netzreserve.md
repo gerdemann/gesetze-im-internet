@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/staav/BJNR619400022.html#BJNR619400022BJNE000100000)
 
 Auf Grund des § 50a Absatz 1 des Energiewirtschaftsgesetzes vom 7.
 Juli 2005 (BGBl. I S. 1970, 3621), der durch Artikel 1 Nummer 5 des
@@ -29,6 +30,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Erlaubnis für die befristete Teilnahme am Strommarkt von Anlagen aus der Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/staav/BJNR619400022.html#BJNR619400022BJNE000201311)
 
 (1) Die Betreiber von Anlagen, die nach § 13b Absatz 4 und 5 und § 13d
 des Energiewirtschaftsgesetzes sowie nach Maßgabe der
@@ -63,6 +65,7 @@ jedoch nicht länger als bis zum Ablauf des 31. März 2024.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/staav/BJNR619400022.html#BJNR619400022BJNE000300000)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 

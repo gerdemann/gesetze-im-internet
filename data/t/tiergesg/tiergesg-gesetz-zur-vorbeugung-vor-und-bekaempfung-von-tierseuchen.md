@@ -23,9 +23,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000101125)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000301125)
 
 Dieses Gesetz regelt die Vorbeugung vor Tierseuchen und deren
 Bekämpfung. In diesem Rahmen dient es auch der Erhaltung und Förderung
@@ -35,6 +37,7 @@ unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000401125)
 
 Im Sinne dieses Gesetzes sind
 
@@ -224,6 +227,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 3 Allgemeine Pflichten des Tierhalters
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000501125)
 
 Wer Vieh oder Fische hält, hat zur Vorbeugung vor Tierseuchen und zu
 deren Bekämpfung
@@ -245,9 +249,11 @@ deren Bekämpfung
 
 
 ## Abschnitt 2 - Maßnahmen zur Vorbeugung vor Tierseuchen und zu deren Bekämpfung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000201125)
 
 
 ### § 4 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004802125)
 
 (1) Bricht eine auf Grund einer Rechtsverordnung nach Absatz 4
 anzeigepflichtige Tierseuche aus oder zeigen sich Erscheinungen, die
@@ -338,6 +344,7 @@ Jagdausübungsberechtigte zu sein.
 
 
 ### § 5 Maßnahmen zur Ermittlung einer Tierseuche
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000701125)
 
 (1) Stellt die zuständige Behörde auf Grund eines tierärztlichen
 Gutachtens, sonstiger Anhaltspunkte oder einer Anzeige nach § 4 den
@@ -385,6 +392,7 @@ ist
 
 
 ### § 6 Ermächtigungen zur Vorbeugung vor und Bekämpfung von Tierseuchen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004902125)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der Zwecke des § 1
@@ -807,6 +815,7 @@ Nichtstörer verlangen. Absatz 5 Satz 3 gilt entsprechend.
 
 
 ### § 7 Mittel und Verfahren zur Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE000901125)
 
 Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 Zwecke des § 1 erforderlich ist, durch Rechtsverordnung, die nicht der
@@ -818,9 +827,11 @@ Tierseuchenerreger unwirksam gemacht werden.
 
 
 ## Abschnitt 3 - Besondere Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000301125)
 
 
 ### § 8 Schutzgebiete, Tiergesundheitsstatus
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001001125)
 
 (1) Die zuständige Behörde kann, soweit es zur Erfüllung der Zwecke
 des § 1 erforderlich ist,
@@ -894,6 +905,7 @@ Behörde unter Berücksichtigung epidemiologischer Gegebenheiten
 
 
 ### § 9 Tierseuchenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001101125)
 
 Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 Zwecke des § 1 Satz 1 erforderlich ist, durch Rechtsverordnung mit
@@ -925,6 +937,7 @@ Zustimmung des Bundesrates
 
 
 ### § 10 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005002119)
 
 (1) Monitoring ist ein System wiederholter Beobachtung, Untersuchung
 und Bewertung von Tierseuchenerregern in oder auf lebenden oder toten
@@ -956,9 +969,11 @@ zu regeln.
 
 
 ## Abschnitt 4 - Immunologische Tierarzneimittel, In-vitro-Diagnostika
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000401125)
 
 
 ### § 11 Inverkehrbringen und Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005101125)
 
 (1) Immunologische Tierarzneimittel dürfen nur in den Verkehr gebracht
 oder angewendet werden, wenn
@@ -1167,6 +1182,7 @@ Bundesministerium und der Europäischen Kommission mitteilen.
 
 
 ### § 12 Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005201125)
 
 (1) Wer immunologische Tierarzneimittel im Sinne des § 11 Absatz 1
 Satz 1 oder In-vitro-Diagnostika im Sinne des § 11 Absatz 2 Satz 1
@@ -1343,9 +1359,11 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ## Abschnitt 5 - Innergemeinschaftliches Verbringen, Einfuhr, Ausfuhr, Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000501125)
 
 
 ### § 13 Verbringungs- und Einfuhrverbote
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001501125)
 
 (1) Das innergemeinschaftliche Verbringen, die Einfuhr, die Ausfuhr
 und die Durchfuhr
@@ -1394,6 +1412,7 @@ gemacht hat.
 
 
 ### § 14 Rechtsverordnungen zur Regelung des innergemeinschaftlichen Verbringens, der Einfuhr, Ausfuhr, Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001602125)
 
 (1) Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 Zwecke des § 1 Satz 1 erforderlich ist, durch Rechtsverordnung mit
@@ -1531,9 +1550,11 @@ Rechtsverordnung auf andere Behörden übertragen.
 
 
 ## Abschnitt 6 - Entschädigung für Tierverluste
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000601125)
 
 
 ### § 15 Grundsatz der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001701125)
 
 Vorbehaltlich der in diesem Gesetz bezeichneten Ausnahmen wird auf
 Antrag eine Entschädigung in Geld geleistet für
@@ -1580,6 +1601,7 @@ Antrag eine Entschädigung in Geld geleistet für
 
 
 ### § 16 Höhe der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005301125)
 
 (1) Der Entschädigung wird der gemeine Wert des Tieres zu Grunde
 gelegt. Der gemeine Wert wird ohne Rücksicht auf die Wertminderung,
@@ -1672,6 +1694,7 @@ für Kosten nach Satz 2.
 
 
 ### § 17 Ausschluss der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE001901125)
 
 Keine Entschädigung wird gewährt für
 
@@ -1722,6 +1745,7 @@ Keine Entschädigung wird gewährt für
 
 
 ### § 18 Entfallen der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002001125)
 
 (1) Der Anspruch auf Entschädigung entfällt, wenn der Tierhalter oder
 sein Vertreter im Zusammenhang mit dem die Entschädigung auslösenden
@@ -1805,6 +1829,7 @@ entsprechend.
 
 
 ### § 19 Teilweise Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002101125)
 
 Die Entschädigung kann in den Fällen des § 18 Absatz 1 Satz 1 und 2
 und Absatz 3 teilweise gewährt werden, wenn die Schuld gering ist oder
@@ -1813,6 +1838,7 @@ Härte bedeuten würde.
 
 
 ### § 20 Entschädigungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002201125)
 
 (1) Die Länder regeln, wer die Entschädigung gewährt und wie sie
 aufzubringen ist. Das Land hat die Entschädigung zu leisten; soweit
@@ -1844,6 +1870,7 @@ Beiträge erhoben werden.
 
 
 ### § 21 Entschädigungsberechtigter, Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002301125)
 
 (1) Die Entschädigung wird, soweit ein anderer Berechtigter nicht
 bekannt ist, demjenigen gezahlt, in dessen Gewahrsam sich das Tier zum
@@ -1870,6 +1897,7 @@ verursacht hat.
 
 
 ### § 22 Ergänzende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002401125)
 
 (1) Für die Anwendung der §§ 18 bis 21 stehen Betreiber einer Anlage
 oder Einrichtung zur Zucht, Haltung oder Hälterung von Fischen den
@@ -1896,9 +1924,11 @@ dem der Anspruch entstanden ist.
 
 
 ## Abschnitt 7 - Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000702119)
 
 
 ### § 23 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002502119)
 
 (1) Einrichtungen, die tierseuchenrechtlich vorgeschriebene
 Untersuchungen durchführen, übermitteln im Falle einer Untersuchung
@@ -2071,9 +2101,11 @@ werden.
 
 
 ## Abschnitt 8 - Überwachung, zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000801125)
 
 
 ### § 24 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002602119)
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der
@@ -2337,6 +2369,7 @@ wird nach Maßgabe des Absatzes 3 Satz 1 und 2 Nummer 11 eingeschränkt.
 
 
 ### § 25 Überwachung bestimmter Veranstaltungen und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002701125)
 
 (1) Viehmärkte, Viehhöfe, Viehausstellungen, Vogelbörsen oder
 Veranstaltungen ähnlicher Art, Viehhandelsunternehmen,
@@ -2380,6 +2413,7 @@ von denen die Gefahr einer Tierseuche ausgehen kann.
 
 
 ### § 26 Rechtsverordnungen zur Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE002801125)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der Zwecke des § 1
@@ -2487,6 +2521,7 @@ zuständigen Behörden zu regeln.
 
 
 ### § 27 Friedrich-Loeffler-Institut
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005403125)
 
 (1) Das Friedrich-Loeffler-Institut ist eine selbständige
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums. Es
@@ -2646,6 +2681,7 @@ von Personal des Friedrich-Loeffler-Institutes im Ausland.
 
 
 ### § 28 Durchführung bei Bundeswehr, Kliniken und Instituten
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003001125)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
 obliegt die Durchführung der Vorschriften dieses Gesetzes, der auf
@@ -2700,6 +2736,7 @@ zuständigen Behörde unverzüglich anzuzeigen.
 
 
 ### § 29 Mitwirkung der Zolldienststellen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005503125)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zolldienststellen wirken bei der Überwachung der Einfuhr, Durchfuhr
@@ -2768,6 +2805,7 @@ Generalzolldirektion übertragen.
 
 
 ### § 30 Bereitstellung von Tierimpfstoffen, Tierseuchenbekämpfungszentren
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003201125)
 
 (1) Sehen Rechtsakte der Europäischen Gemeinschaft oder der
 Europäischen Union im Anwendungsbereich dieses Gesetzes vor, dass eine
@@ -2790,9 +2828,11 @@ Ausbruch der Tierseuche unverzüglich einsatzbereit sind.
 
 
 ## Abschnitt 9 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG000901125)
 
 
 ### § 31 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003302125)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2835,6 +2875,7 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 32 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005603119)
 
 (1) Ordnungswidrig handelt, wer eine in § 31 Absatz 2 bezeichnete
 Handlung fahrlässig begeht.
@@ -2940,6 +2981,7 @@ Ordnungswidrigkeit nach Absatz 2 Nummer 8 geahndet werden können.
 
 
 ### § 33 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003501125)
 
 Gegenstände, auf die sich eine Straftat nach § 31 oder eine
 Ordnungswidrigkeit nach § 32 Absatz 2 Nummer 4 Buchstabe d bezieht,
@@ -2947,9 +2989,11 @@ können eingezogen werden.
 
 
 ## Abschnitt 10 - Weitere Befugnisse, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNG001001125)
 
 
 ### § 34 Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003601125)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates, Aufgaben, für die dem Bund eine
@@ -2962,6 +3006,7 @@ Bundesamt oder die Bundesanstalt für Landwirtschaft und Ernährung zu
 
 
 ### § 35 Amtshilfe, gegenseitige Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005702125)
 
 (1) Die zuständigen Behörden
 
@@ -3028,6 +3073,7 @@ sind.
 
 
 ### § 36 Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003801125)
 
 (1) Ist eine von der zuständigen Behörde getroffene Maßnahme, die sich
 auf lebende oder tote Tiere, auf Teile von Tieren und Erzeugnisse aus
@@ -3054,6 +3100,7 @@ werden.
 
 
 ### § 37 Anfechtung von Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE003902125)
 
 Die Anfechtung einer Anordnung
 
@@ -3129,6 +3176,7 @@ aufschiebende Wirkung, soweit
 
 
 ### § 38 Rechtsverordnungen und Anordnungsbefugnisse in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE005801125)
 
 (1) Rechtsverordnungen nach diesem Gesetz kann das Bundesministerium
 auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaft
@@ -3204,6 +3252,7 @@ Regelung nicht entgegensteht.
 
 
 ### § 39 Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004102125)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Vorsorge für die menschliche
@@ -3243,6 +3292,7 @@ vorkommender Tierseuchen die Tötung von Tieren vorzuschreiben; die §§
 
 
 ### § 39a Beschränkungen des Eigentums, Entschädigung und Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006101125)
 
 (1) Führen Beschränkungen des Eigentums in Folge von Maßnahmen nach §
 6 Absatz 1 Nummer 18a, 28, auch in Verbindung mit § 6 Absatz 6, Nummer
@@ -3267,10 +3317,12 @@ jeweiligen Haushaltsgesetzes gezahlt werden kann.
 
 
 ### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004202119)
 
 
 
 ### § 41 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004302119)
 
 Soweit in oder auf Futtermitteln Tierseuchenerreger anzeigepflichtiger
 oder mitteilungspflichtiger Tierseuchen vorhanden sind oder sein
@@ -3283,10 +3335,12 @@ unberührt.
 
 
 ### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006300125)
 
 
 
 ### § 43 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE006001125)
 
 (1) Ausnahmegenehmigungen nach § 17c Absatz 4 des Tierseuchengesetzes
 in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260,
@@ -3315,9 +3369,11 @@ Ablösung des ermächtigenden Gesetzes durch dieses Gesetzes anzupassen.
 
 
 ### § 44 (Änderung weiterer Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004601125)
 
 
 
 ### § 45 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tiergesg/BJNR132400013.html#BJNR132400013BJNE004701125)
 
 

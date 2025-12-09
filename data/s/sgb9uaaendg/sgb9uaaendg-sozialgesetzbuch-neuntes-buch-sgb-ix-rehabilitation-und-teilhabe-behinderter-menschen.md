@@ -19,26 +19,31 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000300305)
 
 -
 
 
 ## (XXXX) Art 2 bis 62
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000400305)
 
 
 
 ## Art 63
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000500305)
 
 -
 
 
 ## Art 64 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000600305)
 
 Die auf den Artikeln 16, 17, 18, 30, 42, 48, 51, 53 bis 58 beruhenden
 Teile der dort geänderten Rechtsverordnungen können auf Grund der
@@ -47,6 +52,7 @@ werden.
 
 
 ## Art 65 Neubekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000700305)
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 der Wahlordnung Schwerbehindertenvertretung (SchwbWO), der
@@ -58,11 +64,13 @@ Fassungen im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 66
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000800305)
 
 -
 
 
 ## Art 67 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE000900305)
 
 (1) Auf Leistungen zur Teilhabe sind bis zum Ende der Leistungen oder
 der Maßnahme die Vorschriften in der vor dem Tag des Inkrafttretens
@@ -87,6 +95,7 @@ Entscheidung über die Verlängerung geltenden Vorschriften.
 
 
 ## Art 68 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb9ua_ndg/BJNR104600001.html#BJNR104600001BJNE001000305)
 
 (1) Dieses Gesetz tritt am 1. Juli 2001 in Kraft, soweit in den
 folgenden Absätzen nicht etwas anderes bestimmt ist.

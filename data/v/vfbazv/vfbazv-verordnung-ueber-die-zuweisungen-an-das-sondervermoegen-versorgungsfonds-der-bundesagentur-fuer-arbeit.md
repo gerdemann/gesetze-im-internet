@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vfbazv/BJNR100400008.html#BJNR100400008BJNE000100000)
 
 Auf Grund des § 366a Abs. 4 Satz 3 und 5 des Dritten Buches
 Sozialgesetzbuch – Arbeitsförderung – (Artikel 1 des Gesetzes vom 24.
@@ -35,6 +36,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Höhe des Zuweisungssatzes
+[Direktlink](https://www.gesetze-im-internet.de/vfbazv/BJNR100400008.html#BJNR100400008BJNE000204126)
 
 Der für die Höhe der regelmäßigen Zuweisungen nach § 366a Absatz 2
 Nummer 1 des Dritten Buches Sozialgesetzbuch an das Sondervermögen
@@ -45,6 +47,7 @@ Bundesagentur für Arbeit 147,7 Prozent.
 
 
 ## § 2 Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/vfbazv/BJNR100400008.html#BJNR100400008BJNE000301360)
 
 (1) Die Höhe der regelmäßigen Zuweisungen (Zahlungsbetrag) berechnet
 sich nach folgender Formel:
@@ -85,6 +88,7 @@ auszugleichen.
 
 
 ## § 3 Zahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vfbazv/BJNR100400008.html#BJNR100400008BJNE000401308)
 
 (1) Die Zahlung des nach § 2 ermittelten Betrages erfolgt
 quartalsweise jeweils am vorletzten Werktag im ersten Monat eines
@@ -95,6 +99,7 @@ Bundesagentur für Arbeit und die Deutsche Bundesbank.
 
 
 ## § 4 Revision
+[Direktlink](https://www.gesetze-im-internet.de/vfbazv/BJNR100400008.html#BJNR100400008BJNE000502126)
 
 (1) Die Bundesagentur für Arbeit überprüft erstmals bis zum 30.
 September 2008 und danach alle drei Jahre bis zum 30. Juni des
@@ -114,6 +119,7 @@ spätestens mit Wirkung ab dem folgenden Haushaltsjahr anzupassen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vfbazv/BJNR100400008.html#BJNR100400008BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

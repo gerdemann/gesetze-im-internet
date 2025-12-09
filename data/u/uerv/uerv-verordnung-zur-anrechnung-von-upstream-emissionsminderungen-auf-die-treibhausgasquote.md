@@ -31,6 +31,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -53,9 +54,11 @@ Es verordnen auf Grund
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000300000)
 
 (1) Diese Verordnung regelt die Anrechnung von Upstream-
 Emissionsminderungen zur Erfüllung der gesetzlichen Verpflichtung zur
@@ -85,6 +88,7 @@ in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000402130)
 
 (1) Treibhausgase im Sinne dieser Verordnung sind Kohlenstoffdioxid
 (CO
@@ -141,9 +145,11 @@ ist, in der jeweils geltenden Fassung.
 
 
 ## Teil 2 - Anrechnung und Ermittlung von Upstream-Emissionsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000200000)
 
 
 ### § 3 Anrechenbarkeit von Upstream-Emissionsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000501130)
 
 (1) Ab dem Verpflichtungsjahr 2020 bis zum Ablauf des
 Verpflichtungsjahres 2024 können Upstream-Emissionsminderungen, die in
@@ -175,6 +181,7 @@ Treibhausgasquote vom 15. Mai 2017 (BGBl. I S. 1195).
 
 
 ### § 4 Nachweis durch den Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000600000)
 
 Zur Anrechnung von Upstream-Emissionsminderungen zur Erfüllung der
 gesetzlichen Verpflichtung zur Minderung der Treibhausgasemissionen
@@ -195,6 +202,7 @@ muss der Verpflichtete
 
 
 ### § 5 Anrechnungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000701130)
 
 (1) Anrechnungszeitraum ist der Zeitraum, für den für in einer
 Projekttätigkeit erreichte Upstream-Emissionsminderungen, die zur
@@ -208,6 +216,7 @@ Anrechnungszeitraum spätestens am 1. September 2025.
 
 
 ### § 6 Ermittlung der Upstream-Emissionsminderung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000802130)
 
 (1) Upstream-Emissionsminderungen werden ermittelt nach der Anlage
 „Modalitäten und Verfahren für einen Mechanismus für
@@ -259,12 +268,15 @@ Ausgabe Mai 2020.
 
 
 ## Teil 3 - Projekttätigkeiten, Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000300000)
 
 
 ### Abschnitt 1 - Antragsstellung, Zustimmung, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000400000)
 
 
 #### § 7 Antrag auf Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE000902130)
 
 (1) Vor Beginn einer Projekttätigkeit stellt der Projektträger einen
 Antrag auf Erteilung der Zustimmung zu der Projekttätigkeit beim
@@ -394,6 +406,7 @@ eingegangen sind, werden abgelehnt.
 
 
 #### § 8 Projektdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001002130)
 
 Die Projektdokumentation enthält folgende Angaben und Unterlagen:
 
@@ -494,6 +507,7 @@ Die Projektdokumentation enthält folgende Angaben und Unterlagen:
 
 
 #### § 9 Überwachungsplan
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001101116)
 
 Der Überwachungsplan enthält folgende Angaben und Unterlagen:
 
@@ -539,6 +553,7 @@ Der Überwachungsplan enthält folgende Angaben und Unterlagen:
 
 
 #### § 10 Erteilung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001202130)
 
 (1) Mit der Erteilung der Zustimmung erklärt das Umweltbundesamt, dass
 für Upstream-Emissionsminderungen vorbehaltlich ihrer Verifizierung
@@ -583,6 +598,7 @@ nachteilige Umweltauswirkungen wahrscheinlich sind.
 
 
 #### § 11 Versagung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001300000)
 
 Die Zustimmung ist zu versagen, wenn Tatsachen die Annahme
 rechtfertigen, dass der Projektträger nicht die notwendige Gewähr für
@@ -591,6 +607,7 @@ die Erfüllung der Pflichten nach dieser Verordnung, bietet.
 
 
 #### § 12 Inhalt der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001401116)
 
 Die Zustimmung enthält folgende Angaben:
 
@@ -620,6 +637,7 @@ Die Zustimmung enthält folgende Angaben:
 
 
 #### § 13 Veröffentlichung nach Erteilung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001501116)
 
 (1) Das Umweltbundesamt veröffentlicht unverzüglich auf seiner
 Internetseite
@@ -648,6 +666,7 @@ der Veröffentlichung zugestimmt hat.
 
 
 #### § 14 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001600000)
 
 (1) Die Sicherheitsleistung dient dazu, die Erfüllung der
 Verpflichtung nach § 24 Absatz 3 Satz 1 sicherzustellen. Die Höhe der
@@ -664,9 +683,11 @@ Wirtschaftsraum zu erbringen.
 
 
 ### Abschnitt 2 - Durchführung, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000500000)
 
 
 #### § 15 Mitteilung und Veröffentlichung des Anrechnungszeitraums
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001700000)
 
 (1) Wurde einer Projekttätigkeit die Zustimmung erteilt, so teilt der
 Projektträger dem Umweltbundesamt den Beginn des Anrechnungszeitraums
@@ -680,6 +701,7 @@ Anrechnungszeitraums unverzüglich auf seiner Internetseite.
 
 
 #### § 16 Überwachung, Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001801116)
 
 (1) Der Projektträger ist verpflichtet,
 
@@ -723,6 +745,7 @@ Belastbarkeit gelten die Anforderungen
 
 
 #### § 17 Abweichungen von der Projektdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE001901116)
 
 (1) Ergibt sich bei der Projekttätigkeit oder beim Überwachungssystem
 eine Abweichung von den der Zustimmung zugrunde liegenden Unterlagen,
@@ -756,6 +779,7 @@ Rechte und Pflichten des ausgeschiedenen Projektträgers.
 
 
 #### § 18 Überwachungsbericht, Überwachungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002002130)
 
 (1) Der Überwachungsbericht muss sich auf einen Zeitraum beziehen, der
 die gesamte Dauer des Anrechnungszeitraums innerhalb eines
@@ -843,12 +867,15 @@ Verpflichtungsjahres umfasst (Überwachungszeitraum).
 
 
 ### Abschnitt 3 - UER-Nachweise, UER-Register
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000600000)
 
 
 #### Unterabschnitt 1 - UER-Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000700000)
 
 
 ##### § 19 Ausstellung von UER-Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002102130)
 
 (1) UER-Nachweise werden im UER-Register des Umweltbundesamtes
 ausgestellt.
@@ -919,6 +946,7 @@ Nachweise ausstellen kann.
 
 
 ##### § 20 Inhalt von UER-Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002201116)
 
 Ein UER-Nachweis muss folgende Angaben enthalten:
 
@@ -987,10 +1015,12 @@ Ein UER-Nachweis muss folgende Angaben enthalten:
 
 
 ##### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002301130)
 
 
 
 ##### § 22 Stückelung und Verbindung von UER-Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002400000)
 
 (1) UER-Nachweise können im UER-Register gestückelt werden. Dies gilt
 auch für UER-Nachweise, die bereits aus einer Stückelung
@@ -1003,6 +1033,7 @@ ursprünglichen UER-Nachweisen sicher.
 
 
 ##### § 23 Übertragung von UER-Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002501130)
 
 (1) UER-Nachweise können im UER-Register auf andere Kontoinhaber
 übertragen werden. Die Übertragung muss von einer
@@ -1016,6 +1047,7 @@ werden, solange sie noch nicht abgeschlossen ist.
 
 
 ##### § 24 Unrichtige UER-Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002600000)
 
 (1) Das Umweltbundesamt stellt gegenüber dem Projektträger fest, in
 welchem Umfang die Angaben zur Höhe der Upstream-Emissionsminderung
@@ -1059,6 +1091,7 @@ oder auf andere Kontoinhaber übertragen werden.
 
 
 ##### § 25 Freigabe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002700000)
 
 (1) Die Sicherheitsleistung wird vom Umweltbundesamt nach Abschluss
 der Kontrolle nach § 44 Absatz 2 freigegeben. Bei einer festgestellten
@@ -1071,9 +1104,11 @@ vereinnahmt.
 
 
 #### Unterabschnitt 2 - UER-Register, Konten
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000800000)
 
 
 ##### § 26 Zugang zum UER-Register, Kontoeröffnung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002802130)
 
 (1) Projektträger und Verpflichtete erhalten auf Antrag beim
 Umweltbundesamt ein Konto für den Zugang zum UER-Register.
@@ -1136,6 +1171,7 @@ vier Wochen Belege für die Angaben in der Änderungsmitteilung vor.
 
 
 ##### § 27 Nutzungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE002901130)
 
 (1) Das Umweltbundesamt kann Nutzungsbedingungen für die
 Kontoeröffnung und Kontoführung erlassen.
@@ -1184,6 +1220,7 @@ bekannt.
 
 
 ##### § 28 Entwertungskonto
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003000000)
 
 (1) Das Umweltbundesamt richtet im UER-Register ein Entwertungskonto
 ein. Kontoinhaber übertragen alle zur Anrechnung vorgesehenen UER-
@@ -1196,6 +1233,7 @@ vorgelegt werden.
 
 
 ##### § 29 Ausbuchungskonto
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003101130)
 
 Im UER-Register erstellte Ausbuchungskonten anderer Mitgliedsstaaten
 der Europäischen Union werden zum Ablauf des 31. Oktobers 2024
@@ -1203,6 +1241,7 @@ geschlossen.
 
 
 ##### § 30 Kontobevollmächtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003202130)
 
 (1) Der Kontoinhaber benennt mindestens eine kontobevollmächtigte
 Person, die in seinem Auftrag Transaktionen im UER-Register
@@ -1283,6 +1322,7 @@ ist Artikel 19 Absatz 1 und 2 der Delegierten Verordnung (EU)
 
 
 ##### § 31 Kontosperrung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003301130)
 
 (1) Das Umweltbundesamt kann den Zugang einer kontobevollmächtigten
 Person zum UER-Register sperren, wenn Tatsachen die Annahme
@@ -1369,12 +1409,15 @@ hat, damit sich die Ursache für die Sperrung nicht wiederholt.
 
 
 ### Abschnitt 4 - Validierungsstellen und Verifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG000901130)
 
 
 #### Unterabschnitt 1 - Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG001000000)
 
 
 ##### § 32 Registrierung von Validierungsstellen und Verifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003402130)
 
 (1) Validierungsstellen und Verifizierungsstellen, die in einem
 Mitgliedstaat der Europäischen Union gemäß DIN EN ISO 14065, Ausgabe
@@ -1413,10 +1456,12 @@ mitzuteilen.
 
 
 ##### (XXXX) §§ 33 bis 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003501116)
 
 
 
 ##### § 36 Widerruf und Rücknahme der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003801116)
 
 (1) Das Umweltbundesamt kann die Registrierung einer Validierungs-
 oder Verifizierungsstelle widerrufen, wenn Tatsachen die Annahme
@@ -1434,9 +1479,11 @@ Rücknahme und den Widerruf von Verwaltungsakten bleiben unberührt.
 
 
 #### Unterabschnitt 2 - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG001100000)
 
 
 ##### § 37 Allgemeine Anforderungen an Validierungsstellen und an Verifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE003901130)
 
 (1) Validierungsstellen und Verifizierungsstellen sind verpflichtet,
 
@@ -1463,6 +1510,7 @@ Person ausgetauscht werden muss.
 
 
 ##### § 38 Spezifische Aufgaben der Validierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004001116)
 
 (1) Die Validierungsstelle prüft, ob die Projekttätigkeit eines
 Projektträgers die Voraussetzungen für die Zustimmung erfüllt,
@@ -1476,6 +1524,7 @@ Ausgabe April 2011, validiert.
 
 
 ##### § 39 Spezifische Aufgaben der Verifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004101116)
 
 (1) Die Verifizierungsstelle prüft, ob
 
@@ -1519,6 +1568,7 @@ Emissionsminderung geführt hat.
 
 
 ##### § 40 Validierungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004202130)
 
 Der Validierungsbericht enthält folgende Angaben und Unterlagen:
 
@@ -1606,6 +1656,7 @@ Der Validierungsbericht enthält folgende Angaben und Unterlagen:
 
 
 ##### § 41 Verifizierungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004302130)
 
 Der Verifizierungsbericht enthält folgende Angaben und Unterlagen:
 
@@ -1701,6 +1752,7 @@ Der Verifizierungsbericht enthält folgende Angaben und Unterlagen:
 
 
 ##### § 42 Verifizierungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004400000)
 
 Der Verifizierungszeitraum ist der Zeitraum, den der
 Verifizierungsbericht umfasst. Er hat den gesamten
@@ -1709,15 +1761,18 @@ bezieht.
 
 
 ##### § 43 Veröffentlichung des Verifizierungsberichtes
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004500000)
 
 Das Umweltbundesamt veröffentlicht den Verifizierungsbericht
 unverzüglich auf seiner Internetseite.
 
 
 ### Abschnitt 5 - Kontrollen und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG001200000)
 
 
 #### § 44 Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004601130)
 
 (1) Das Umweltbundesamt kann bis zur Vorlage der
 Verifizierungsberichte das Fortbestehen der Voraussetzungen für die
@@ -1762,6 +1817,7 @@ Projektträgern
 
 
 #### § 45 Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004701130)
 
 (1) Das Umweltbundesamt kann gegenüber den Validierungs- und
 Verifizierungsstellen sowie den Projektträgern die erforderlichen
@@ -1793,9 +1849,11 @@ akkreditiert hat, ein Gesuch um Überprüfung der Akkreditierung.
 
 
 ## Teil 4 - DIN-Normen, behördliches Verfahren, Datenübermittlung, Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG001300000)
 
 
 ### § 46 Zugänglichkeit der DIN-Normen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004800000)
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth
 Verlag GmbH, Berlin, erschienen und in der Deutschen
@@ -1803,6 +1861,7 @@ Nationalbibliothek archivmäßig gesichert hinterlegt.
 
 
 ### § 47 Behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE004902130)
 
 (1) Das Umweltbundesamt kann Schriftform oder die elektronische Form
 vorschreiben für
@@ -1853,10 +1912,12 @@ das Umweltbundesamt gewähren auf Antrag
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005001116)
 
 
 
 ### § 49 Aufbewahrung von Unterlagen, Umgang mit Informationen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005101116)
 
 (1) Projektträger müssen alle Unterlagen und Daten der Überwachung,
 auf deren Basis ein Verifizierungsbericht erstellt wurde, für einen
@@ -1903,6 +1964,7 @@ Aufbewahrungsfristen bis zu dessen Abschluss.
 
 
 ### § 50 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005201116)
 
 (1) Soweit es zur Durchführung dieser Verordnung oder zur Erfüllung
 von Berichtspflichten der Bundesregierung erforderlich ist, dürfen das
@@ -1954,6 +2016,7 @@ nukleare Sicherheit.
 
 
 ### § 51 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005300000)
 
 Das Umweltbundesamt evaluiert diese Verordnung regelmäßig und legt der
 Bundesregierung ab dem Jahr 2021 jährlich zum 31. Juli einen
@@ -1961,6 +2024,7 @@ Erfahrungsbericht vor.
 
 
 ### § 52 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005600130)
 
 Für Projektaktivitäten, die bereits vor dem 8. Juni 2024 eine
 Zustimmung nach § 10 erhalten haben, findet § 18 in der am 8. Juni
@@ -1969,14 +2033,17 @@ werden nach dem bis zum 8. Juni 2024 geltenden Recht beendet.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNG001400000)
 
 
 ### § 52 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage Voraussetzungen für die Zusätzlichkeit von Projekttätigkeiten unter dem Übereinkommen von Paris sowie für den Ausschluss der Doppelzählung von Minderungserfolgen
+[Direktlink](https://www.gesetze-im-internet.de/_rv/BJNR016900018.html#BJNR016900018BJNE005502130)
 
 (Fundstelle: BGBl. 2024 I Nr. 183, S. 5 – 6)
 

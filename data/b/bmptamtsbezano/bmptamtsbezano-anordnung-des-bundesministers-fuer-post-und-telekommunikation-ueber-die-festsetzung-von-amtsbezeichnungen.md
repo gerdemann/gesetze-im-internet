@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bmptamtsbezano/BJNR017820989.html#BJNR017820989BJNE000100308)
 
 Gemäß § 47 Abs. 3 Satz 2 des Postverfassungsgesetzes vom 8. Juni 1989
 (BGBl. I S. 1026) setze ich folgende Amtsbezeichnungen fest:

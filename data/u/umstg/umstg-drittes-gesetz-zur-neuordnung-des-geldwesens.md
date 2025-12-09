@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Teil I - Reichsmarkguthaben bei Geldinstituten
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000100328)
 
 
 
 ### Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000200328)
 
 
 
 #### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001200328)
 
 (1) Für die Anwendung dieses Gesetzes gelten folgende
 Begriffsbestimmungen:
@@ -168,6 +171,7 @@ Währungsgesetzes (WG):
 
 
 #### § 2 Umwandlung und Ablösung der Altgeldguthaben
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001300328)
 
 (1) Die Altgeldguthaben der Gruppe I werden grundsätzlich in der Weise
 in Neugeldguthaben umgewandelt, daß den Inhabern für je zehn
@@ -185,10 +189,12 @@ weiteres nach Abs. 1 in Neugeldguthaben umzuwandeln.
 
 
 ### Zweiter Abschnitt - Weitere Bestimmungen für Altgeldguthaben Gruppe I
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000300328)
 
 
 
 #### § 3 Freigabe der Altgeldguthaben zur Umwandlung in Neugeldguthaben
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001400328)
 
 (1) Soweit in diesem Gesetz oder in den Durchführungsverordnungen zu
 diesem Gesetz nichts anderes vorgeschrieben oder zugelassen wird,
@@ -202,6 +208,7 @@ freigeben.
 
 
 #### § 4 Anrechnung der Kopfbeträge und der Geschäftsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001500328)
 
 Die nach § 6 des Währungsgesetzes in Deutscher Mark ausgezahlten
 Kopfbeträge und die nach § 17 des Währungsgesetzes in Deutscher Mark
@@ -231,6 +238,7 @@ b)  zum Ausgleich des Geschäftsbetrages
 
 
 #### § 5 Sofortfreigabe
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001600328)
 
 (1) Von dem Gesamtbetrag der Altgeldguthaben einer alleinstehenden
 Person oder einer Familie, die nach Abzug der im § 4 bezeichneten
@@ -251,6 +259,7 @@ Arbeitnehmer beschäftigt.
 
 
 #### § 6 Freigabe der restlichen Altgeldguthaben
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001700328)
 
 (1) Über ein Guthaben, das dem Verfügungsverbot des § 2 Abs. 1 Satz 2
 unterliegt, darf auch nach etwaiger Aufhebung dieses Verbots nur
@@ -264,6 +273,7 @@ Neugeldguthaben freigegeben werden.
 
 
 #### § 7 Überprüfung der Altgeldguthaben durch das Finanzamt
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001800328)
 
 (1) Das Finanzamt hat auf Grund der Vordrucke A und B zu prüfen, ob
 die Steuerpflichtigen ihre Steuerpflicht erfüllt haben. Soweit dieses
@@ -327,6 +337,7 @@ und zur Tilgung von Ausgleichsforderungen (§ 11) zu verwenden.
 
 
 #### § 8 Behandlung der nichtgemeldeten Altgeldguthaben der Gruppe I
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE001900328)
 
 (1) Aus Altgeldguthaben der Gruppe I, die nicht innerhalb der Frist
 des § 10 des Währungsgesetzes ordnungsgemäß angemeldet worden sind,
@@ -358,10 +369,12 @@ Behandlung solcher Altgeldguthaben sinngemäß Anwendung.
 
 
 ### Dritter Abschnitt - Altgeldguthaben, Gruppe III
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000400328)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002000328)
 
 Soweit dieses Gesetz und die dazu ergehenden Durchführungsverordnungen
 nicht etwas anderes bestimmen, begründen die nichtmeldepflichtigen
@@ -370,10 +383,12 @@ Diese Altgeldguthaben erlöschen.
 
 
 ### Vierter Abschnitt - Deckung der aus der Umstellung des Geldwesens hervorgehenden Verbindlichkeiten der Geldinstitute
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000500328)
 
 
 
 #### § 10 Deckung durch flüssige Mittel
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002100328)
 
 (1) Den Geldinstituten, mit Ausnahme der Landeszentralbanken und der
 Bank Deutscher Länder, werden für je hundert Deutsche Mark ihrer
@@ -402,6 +417,7 @@ angerechnet.
 
 
 #### § 11 Deckung durch Ausgleichsforderungen gegen die öffentliche Hand
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002200328)
 
 (1) Den Geldinstituten wird, soweit ihre Vermögenswerte unter
 Einrechnung der im § 10 bezeichneten flüssigen Mittel zur Deckung der
@@ -431,6 +447,7 @@ sind in den Bilanzen der Geldinstitute zum Nennwert einzusetzen.
 
 
 #### § 12 Ausstattung der Geldinstitute mit einem angemessenen Eigenkapital
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002300328)
 
 (1) Die Zuteilung von Ausgleichsforderungen an die Geldinstitute ist
 grundsätzlich so zu bemessen, daß die Vermögenswerte ausreichen, um
@@ -457,14 +474,17 @@ einer Durchführungsverordnung der öffentlichen Hand zu.
 
 
 ## Teil II - Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000600328)
 
 
 
 ### Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000700328)
 
 
 
 #### § 13 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002400328)
 
 (1) Schuldverhältnisse im Sinne dieses Gesetzes sind alle auf die
 Zahlung einer Geldsumme gerichteten Forderungen (einschließlich
@@ -507,6 +527,7 @@ b)  juristische Personen und Personenvereinigungen, die am 8. Mai 1945
 
 
 #### § 14 Verbindlichkeiten des Reichs und gleichgestellte Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002500328)
 
 Vorbehaltlich einer allgemeinen Regelung für die Ansprüche der im § 13
 Abs. 4 bezeichneten Personen und Vereinigungen finden die Vorschriften
@@ -535,15 +556,18 @@ auf folgende Reichsmarkverbindlichkeiten keine Anwendung:
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002600328)
 
 -
 
 
 ### Zweiter Abschnitt - Allgemeine Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000800328)
 
 
 
 #### § 16 Umstellung der Reichsmarkverbindlichkeiten auf Deutsche Mark
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002700328)
 
 (1) Die Reichsmarkforderungen werden grundsätzlich mit der Wirkung auf
 Deutsche Mark umgestellt, daß der Schuldner an den Gläubiger für je
@@ -556,6 +580,7 @@ der deutschen Gesetzgebung.
 
 
 #### § 17 Rechnungserteilung für Reichsmarkverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002800328)
 
 Eine vor dem 21. Juni begründete Verbindlichkeit verliert nicht
 dadurch die Eigenschaft einer Reichsmarkverbindlichkeit, daß der
@@ -564,6 +589,7 @@ Leistung erst nach dem 20. Juni 1948 vorlegt.
 
 
 #### § 18 Sonderregelung für bestimmte Reichsmarkverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE002900328)
 
 (1) Folgende Reichsmarkverbindlichkeiten werden in Abweichung von § 16
 mit der Wirkung auf Deutsche Mark umgestellt, daß der Schuldner für
@@ -600,6 +626,7 @@ Geldinstituten im Währungsgebiet erlöschen.
 
 
 #### § 19 Umstellung von Kriegsgefangenen-Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003000328)
 
 (1) Auf englische Pfunde, nordamerikanische Dollars oder französische
 Franken lautende, noch nicht eingelöste Kriegsgefangenen-Zertifikate,
@@ -626,6 +653,7 @@ Bevölkerungszahl aufgeteilt.
 
 
 #### § 20 Rücktrittsrecht bei Lieferverträgen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003100328)
 
 (1) Der Schuldner einer unter § 18 Abs. 1 Ziff. 2 fallenden Geldschuld
 kann bis zum 10. Juli 1948 vom Vertrage zurücktreten.
@@ -647,6 +675,7 @@ Aufwendungen angerechnet.
 
 
 #### § 21 Vertragshilfe
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003200328)
 
 (1) bis (3)
 
@@ -659,10 +688,12 @@ untereinander.
 
 
 ### Dritter Abschnitt - Pfandbriefe und verwandte Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG000900328)
 
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003300328)
 
 (1) Pfandbriefe, Rentenbriefe, Kommunalschuldverschreibungen und
 andere Schuldverschreibungen, die von Grundkreditanstalten,
@@ -685,10 +716,12 @@ ihr zu bestimmenden Zeitraum herabsetzen.
 
 
 ### Vierter Abschnitt - Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG001000328)
 
 
 
 #### § 23 Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003400328)
 
 Die Neuordnung der Sozialversicherung obliegt den deutschen
 gesetzgebenden Körperschaften. Bis zu einer solchen Neuordnung sind
@@ -703,6 +736,7 @@ anderweitig festsetzen.
 
 
 #### § 24 Versicherung außerhalb der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003500328)
 
 (1) Die aus Lebensversicherungsscheinen sowie aus Versicherungs- oder
 Rückversicherungsverträgen entstandenen Verbindlichkeiten und
@@ -771,6 +805,7 @@ seit mehr als zwölf Monaten fällige Prämien nicht gezahlt wurden.
 
 
 #### § 25 Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003600328)
 
 Für die Umstellung der Guthaben der Bausparer gilt grundsätzlich die
 Vorschrift des § 16. Ein Bausparverhältnis wird fortgesetzt; die
@@ -786,10 +821,12 @@ Ansprüche auf das Bausparverhältnis auswirkt.
 
 
 ## Teil III - Vorschriften verschiedenen Inhalts
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNG001100328)
 
 
 
 ### § 26 Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003700328)
 
 (1) Die Umwandlung eines Altgeldguthabens in ein Neugeldguthaben gilt
 nicht als Verfügung oder Geschäft im Sinne der Gesetze Nr. 52 und 53
@@ -799,6 +836,7 @@ der Militärregierung.
 
 
 ### § 27 Anpassungsmaßnahmen auf dem Gebiete des Arbeitsrechts und des Beamtenrechts
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003800328)
 
 (1) Vor dem 21. Juni 1948 abgeschlossene Arbeitsverträge, die nach den
 bestehenden Vorschriften oder Vereinbarungen erst zu einem späteren
@@ -853,11 +891,13 @@ Ermächtigung tritt am 31. März 1949 außer Kraft.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE003900328)
 
 -
 
 
 ### § 29 Lastenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004000328)
 
 Die zur Durchführung des Lastenausgleichs erforderlichen Mittel sind
 durch besondere Vermögensabgaben aufzubringen, deren Erträge zu diesem
@@ -872,11 +912,13 @@ Reparationsentnahmen zu berücksichtigen.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004100328)
 
 -
 
 
 ### § 31 Vorübergehende Rediskontierung von eigenen Wechseln
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004200328)
 
 (1) Bis zum 8. August 1948 dürfen die Landeszentralbanken in
 Abweichung von den entgegenstehenden gesetzlichen Vorschriften über
@@ -894,6 +936,7 @@ rediskontierenden Geldinstituts ankaufen.
 
 
 ### § 32 Kreditbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004300328)
 
 Soweit die Bank Deutscher Länder nichts anderes bestimmt, dürfen die
 Geldinstitute bis zum 8. August 1948 außer Wechselkrediten gegen
@@ -902,6 +945,7 @@ und außer Krediten an die öffentliche Hand keine Kredite gewähren.
 
 
 ### § 33 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004400328)
 
 (1) Mit Gefängnis bis zu fünf Jahren oder mit Geldstrafe bis zu
 fünfzigtausend Deutsche Mark oder mit beiden Strafen wird bestraft,
@@ -944,6 +988,7 @@ Falle von Verstößen gegen dieses Gesetz die Gerichtsbarkeit auszuüben.
 
 
 ### § 34 Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004500328)
 
 (1) Der deutsche Wortlaut dieses Gesetzes ist der maßgebende Wortlaut.
 Die Vorschriften der Militärregierungsverordnung Nr. 3 und des
@@ -961,6 +1006,7 @@ erlöschen hiermit.
 
 
 ### § 35 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004600328)
 
 Text amerikanisches Kontrollgebiet:
 Dieses Gesetz tritt in den Ländern Bayern, Bremen, Hessen und
@@ -978,6 +1024,7 @@ als Gesetz auszuführen.
 
 
 ### Anhang
+[Direktlink](https://www.gesetze-im-internet.de/umstg/BJNR700050948.html#BJNR700050948BJNE004900328)
 
 -
 

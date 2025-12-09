@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000100307)
 
 Auf Grund
 
@@ -46,12 +47,14 @@ Telekommunikation und dem Bundesminister der Finanzen:
 
 
 ## § 1 Anpassung des aktuellen Rentenwertes (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000200307)
 
 Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1993 an 28,19
 Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000300307)
 
 Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
 Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
@@ -61,6 +64,7 @@ Anpassungsfaktor beträgt 1,0610.
 
 
 ## § 3 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000400307)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
 Januar 1993 an für Arbeitsunfälle, für die § 1151 der
@@ -69,6 +73,7 @@ und 1.273 Deutsche Mark monatlich.
 
 
 ## § 4 Erstattung an die Deutsche Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000500307)
 
 Der Postrentendienst des Unternehmens Deutsche Bundespost POSTDIENST
 erhält für die nach dieser Verordnung vorzunehmenden Anpassungen und
@@ -78,11 +83,13 @@ in Höhe von 1,20 Deutsche Mark pro Zahlfall.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000600307)
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_5/BJNR019980992.html#BJNR019980992BJNE000700307)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000100328)
 
 Um der Landwirtschaft die Teilnahme an der fortschreitenden
 Entwicklung der deutschen Volkswirtschaft und um der Bevölkerung die
@@ -35,6 +36,7 @@ werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000203301)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) stellt jährlich für das abgelaufene
@@ -51,6 +53,7 @@ der landwirtschaftlichen Betriebswirtschaft heranzuziehen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000301377)
 
 Zur Beratung bei der Anlage, Durchführung und Auswertung der
 Erhebungen und Unterlagen bedient sich das Bundesministerium eines von
@@ -61,6 +64,7 @@ zusammensetzt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000402377)
 
 Die Bundesregierung legt alle vier Jahre - erstmals ab dem Jahre 2011
 - dem Bundestag und dem Bundesrat einen "Bericht über die Lage der
@@ -87,6 +91,7 @@ Familie nachhaltig gewährleisten.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000500328)
 
 Mit ihrem Bericht äußert sich die Bundesregierung, welche Maßnahmen
 sie zur Durchführung des § 1 - insbesondere im Hinblick auf ein
@@ -97,6 +102,7 @@ nachhaltige Ertragssteigerung gerichtet ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000600328)
 
 Soweit zur Durchführung der nach § 5 beabsichtigten Maßnahmen
 Bundesmittel erforderlich sind, stellt die Bundesregierung die hierzu
@@ -105,6 +111,7 @@ Bundeshaushaltsplans für das jeweilige Rechnungsjahr ein.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000700328)
 
 (1) Einzelangaben über persönliche und sachliche Verhältnisse sind von
 den mit der Durchführung des Feststellungsverfahrens (§ 2) amtlich
@@ -133,11 +140,13 @@ enthalten.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000801377)
 
 -
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/lwg/BJNR005650955.html#BJNR005650955BJNE000900328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

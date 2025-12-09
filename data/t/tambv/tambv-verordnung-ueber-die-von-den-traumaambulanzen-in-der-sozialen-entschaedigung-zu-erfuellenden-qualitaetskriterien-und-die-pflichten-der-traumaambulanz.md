@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000100000)
 
 Auf Grund des § 38 Satz 1 des Sozialgesetzbuchs Vierzehntes Buch –
 Soziale Entschädigung – vom 12. Dezember 2019 (BGBl. I S. 2652)
@@ -25,6 +26,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000200000)
 
 Diese Verordnung regelt für den Bereich der Sozialen Entschädigung die
 von der Traumaambulanz, die Leistungen nach Kapitel 4 Abschnitt 3 des
@@ -33,6 +35,7 @@ Voraussetzungen.
 
 
 ## § 2 Antrag, Leistungserbringung durch die Traumaambulanz
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000300000)
 
 (1) Die Traumaambulanz informiert Leistungsberechtigte bei
 Behandlungsbeginn, jedoch spätestens nach der zweiten Sitzung, dass
@@ -59,6 +62,7 @@ der oder die Leistungsberechtigte wünscht dies.
 
 
 ## § 3 Qualifikationsanforderungen bei Behandlung von Erwachsenen
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000400000)
 
 (1) Für die Behandlung von Erwachsenen setzt die Traumaambulanz
 Mitarbeiter und Mitarbeiterinnen ein, die eine der folgenden
@@ -119,6 +123,7 @@ Absatz 2 erreichen können.
 
 
 ## § 4 Qualifikationsanforderungen bei Behandlung von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000500000)
 
 (1) Für die Behandlung von Kindern und Jugendlichen setzt die
 Traumaambulanz Mitarbeiter und Mitarbeiterinnen ein, die eine der
@@ -210,6 +215,7 @@ eine Traumaambulanz nicht nach einer zumutbaren Fahrzeit im Sinne des
 
 
 ## § 5 Behandlung durch Personen in Weiterbildung oder in Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000600000)
 
 (1) Ärzte und Ärztinnen dürfen Leistungsberechtigte behandeln, wenn
 sich diese Ärzte und Ärztinnen in fortgeschrittener Weiterbildung
@@ -281,6 +287,7 @@ Absatz 1 genannten Personen über die längste Berufserfahrung verfügt.
 
 
 ## § 6 Leistungserbringung durch externe Personen
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000700000)
 
 (1) Die Traumaambulanz kann sich in begründeten Ausnahmefällen bei der
 Leistungserbringung externer Personen bedienen. Für deren Einsatz
@@ -303,6 +310,7 @@ hinzuweisen.
 
 
 ## § 7 Anzahl an Traumaambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000800000)
 
 (1) Vereinbarungen über die Erbringung von Leistungen der
 Traumaambulanz für Erwachsene sowie für Kinder und Jugendliche sind
@@ -324,6 +332,7 @@ die Versorgung mit Traumaambulanzen nicht sichergestellt werden kann.
 
 
 ## § 8 Erreichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE000900000)
 
 (1) Die Traumaambulanz bietet Sitzungstermine zu den allgemeinen
 Geschäftszeiten an.
@@ -353,6 +362,7 @@ zehn Werktage.
 
 
 ## § 9 Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001000000)
 
 (1) Die Mitarbeiter und Mitarbeiterinnen der Traumaambulanz
 unterliegen der Schweigepflicht. Sie müssen die Leistungsberechtigten
@@ -370,6 +380,7 @@ Berechtigten einzuholen.
 
 
 ## § 10 Dokumentationspflichten der Traumaambulanz
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001100000)
 
 Die Traumaambulanz stellt sicher, dass die geltenden
 Dokumentationspflichten über die einzelnen Sitzungen eingehalten
@@ -377,6 +388,7 @@ werden.
 
 
 ## § 11 Vernetzung
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001200000)
 
 Die Traumaambulanzen sollen sich mit örtlich ansässigen Organisationen
 und Leistungserbringern vernetzen, die Hilfs- und
@@ -386,6 +398,7 @@ ist möglich.
 
 
 ## § 12 Abrechnungsverfahren, Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001300000)
 
 (1) Die Abrechnung erfolgt unmittelbar zwischen Traumaambulanz und der
 nach Landesrecht zuständigen Behörde. Für die Abrechnung sind folgende
@@ -426,23 +439,27 @@ andere Regelung zur Vergütung der Vernetzungsarbeit getroffen wurde.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001400000)
 
 Für Vereinbarungen, die vor dem 1. Januar 2024 mit Traumaambulanzen
 geschlossen werden, ist diese Verordnung nicht anzuwenden.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001500000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3 Absatz 2 Satz 1 Nummer 2)
 
 ## Anlage 1 Curriculum „Psychotherapie der Traumafolgestörungen“
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001700000)
 
 (Fundstelle: BGBl. I 2022, 1820 - 1823)
 
@@ -1038,6 +1055,7 @@ Behandlungen und Supervisionen.
    (zu § 4 Absatz 2 Satz 1 Nummer 2)
 
 ## Anlage 2 Empfehlung des Vorstandes für den Erwerb einer Zusatzqualifikation „Spezielle Psychotraumatherapie mit Kindern und Jugendlichen (DeGPT)“ (Überarbeitete Fassung 2020)
+[Direktlink](https://www.gesetze-im-internet.de/tambv/BJNR181600022.html#BJNR181600022BJNE001800000)
 
 (Fundstelle: BGBl. I 2022, 1824 - 1831)
 

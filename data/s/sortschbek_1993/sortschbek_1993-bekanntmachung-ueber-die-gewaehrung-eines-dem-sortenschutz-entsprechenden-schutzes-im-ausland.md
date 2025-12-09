@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sortschbek_1993/BJNR090800993.html#BJNR090800993BJNE000100307)
 
 Auf Grund des § 15 Abs. 1 Nr. 4 des Sortenschutzgesetzes vom 11.
 Dezember 1985 (BGBl. I S. 2170), der durch Artikel 1 Nr. 4 des

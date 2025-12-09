@@ -21,11 +21,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000200000)
 
 Das Gesetz gilt für die Schnellladeinfrastruktur reiner
 Batterieelektrofahrzeuge der Klassen M und N im Sinne des Artikels 4
@@ -41,6 +43,7 @@ Rädern.
 
 
 ## § 1a Besondere Bedeutung der Errichtung und des Betriebs von Schnellladeinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE001200377)
 
 Die Errichtung und der Betrieb von Schnellladepunkten und
 Schnellladestandorten an Bundesfernstraßen liegt im überragenden
@@ -52,6 +55,7 @@ ist, im Bundesanzeiger bekannt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000300000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -106,6 +110,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Aufgaben des Bundesministeriums für Verkehr und digitale Infrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000400000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 gewährleistet die flächendeckende und bedarfsgerechte Bereitstellung
@@ -208,6 +213,7 @@ Absatz 8 Satz 3 gilt entsprechend.
 
 
 ## § 4 Auswahl und Beauftragung von Auftragnehmern
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000500000)
 
 (1) Die Bereitstellung von Schnellladeinfrastruktur wird in mehreren
 Losen ausgeschrieben, die Standorte oder Suchräume für Standorte nach
@@ -279,6 +285,7 @@ Eigentümer der beweglichen Sachen wird.
 
 
 ## § 5 Nebenbetriebe an Bundesautobahnen
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000600000)
 
 (1) Zur Erfüllung der Aufgabe nach § 3 Absatz 1 wird
 Schnellladeinfrastruktur im Rahmen des nach § 3 Absatz 2 ermittelten
@@ -344,6 +351,7 @@ Gesetz keine abweichenden Regelungen trifft.
 
 
 ## § 6 Bestandsinfrastrukturanbieter
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000700000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 berücksichtigt die berechtigten Interessen der
@@ -385,6 +393,7 @@ nach der Entscheidung, anzuzeigen.
 
 
 ## § 7 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000800000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Deutschen
@@ -465,6 +474,7 @@ im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 
 ## § 8 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE000900000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 juristischen Personen des privaten Rechts mit ihrem Einverständnis die
@@ -484,6 +494,7 @@ Vorsatz oder grober Fahrlässigkeit Rückgriff nehmen.
 
 
 ## § 9 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE001000000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur erstellt
 alle zwei Jahre, erstmals zum 1. Juli 2024, einen Bericht über die
@@ -507,6 +518,7 @@ zuständigen Ausschüssen des Deutschen Bundestages vorzulegen.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schnelllg/BJNR214100021.html#BJNR214100021BJNE001100000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

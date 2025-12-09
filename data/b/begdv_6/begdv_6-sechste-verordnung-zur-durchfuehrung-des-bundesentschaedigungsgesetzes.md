@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html#BJNR002330967BJNE000100328)
 
 Auf Grund des § 42 Abs. 2 des Bundesentschädigungsgesetzes in der
 Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559,
@@ -29,12 +30,14 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html#BJNR002330967BJNE000200328)
 
 Als Konzentrationslager im Sinne des § 31 Abs. 2 BEG sind die in der
 Anlage aufgeführten Haftstätten anzusehen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html#BJNR002330967BJNE000300328)
 
 (1) Soweit in der Anlage für einzelne Haftstätten bestimmte Zeiträume
 angegeben sind, gelten diese Haftstätten nur für die angegebenen
@@ -55,6 +58,7 @@ Konzentrationslager im Sinne des § 31 Abs. 2 BEG gewesen sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html#BJNR002330967BJNE000400328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG
@@ -62,12 +66,14 @@ auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html#BJNR002330967BJNE000500328)
 
 Diese Verordnung tritt mit Wirkung vom 18. September 1965 in Kraft.
 
 zu § 1
 
 ## Anlage Verzeichnis der Konzentrationslager und ihrer Außenkommandos gemäß § 42 Abs. 2 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html#BJNR002330967BJNE000600328)
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 234 - 254;
 bezgl. der einzelnen Änderungen vgl. Fußnote)

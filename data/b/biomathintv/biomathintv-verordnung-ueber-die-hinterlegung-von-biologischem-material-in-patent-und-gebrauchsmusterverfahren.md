@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000100000)
 
 Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der zuletzt
@@ -35,6 +36,7 @@ Deutsche Patent- und Markenamt:
 
 
 ## § 1 Notwendigkeit der Hinterlegung; biologisches Material
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000200000)
 
 (1) Betrifft eine Erfindung biologisches Material, das der
 Öffentlichkeit nicht zugänglich ist und in der Patent- oder
@@ -71,6 +73,7 @@ in § 7 festgelegten Zeitraum sichergestellt ist.
 
 
 ## § 2 Anerkannte Hinterlegungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000300000)
 
 Anerkannt sind die internationalen Hinterlegungsstellen, die diesen
 Status nach Artikel 7 des Budapester Vertrags vom 28. April 1977 über
@@ -84,6 +87,7 @@ und vom Hinterleger unabhängig sind.
 
 
 ## § 3 Nachreichen des Aktenzeichens der Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000401123)
 
 (1) Ist bereits aufgrund der Anmeldeunterlagen eine eindeutige
 Zuordnung der Anmeldung zu dem hinterlegten biologischen Material
@@ -111,6 +115,7 @@ Anmelders nach § 31 Absatz 2 Satz 1 Nummer 1 des Patentgesetzes.
 
 
 ## § 4 Freigabeerklärung
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000500000)
 
 (1) Der Anmelder hat das hinterlegte biologische Material der
 Hinterlegungsstelle ab dem Tag der Anmeldung zur Herausgabe von Proben
@@ -128,6 +133,7 @@ lassen.
 
 
 ## § 5 Zugang zu biologischem Material
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000600000)
 
 (1) Das hinterlegte biologische Material wird durch Herausgabe einer
 Probe auf Antrag zugänglich gemacht
@@ -214,6 +220,7 @@ mit der in Absatz 5 Satz 2 vorgesehenen Bestätigung.
 
 
 ## § 6 Verpflichtungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000700000)
 
 (1) Eine Probe wird nur dann herausgegeben, wenn der Antragsteller
 sich gegenüber dem Anmelder und im Fall der Dritthinterlegung auch
@@ -244,6 +251,7 @@ Dritter im Sinne des Absatzes 1 Nr. 1 anzusehen.
 
 
 ## § 7 Aufbewahrungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000800000)
 
 Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang des
 letzten Antrags auf Abgabe einer Probe aufzubewahren, mindestens
@@ -253,6 +261,7 @@ nehmen, hinaus.
 
 
 ## § 8 Hinterlegung nach Maßgabe des Budapester Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE000900000)
 
 Im Fall einer Hinterlegung nach dem Budapester Vertrag richten sich
 die Freigabeerklärung, die Herausgabe von Proben, die
@@ -263,6 +272,7 @@ geltenden Fassung.
 
 
 ## § 9 Erneute Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE001000000)
 
 (1) Ist das nach dieser Verordnung hinterlegte biologische Material
 bei der anerkannten Hinterlegungsstelle nicht mehr zugänglich, so ist
@@ -281,12 +291,14 @@ ursprünglich hinterlegte Material ist.
 
 
 ## § 10 Zusammenarbeit mit dem Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE001100000)
 
 Das Deutsche Patent- und Markenamt gibt den Hinterlegungsstellen alle
 Informationen, die zur Erfüllung ihrer Aufgaben erforderlich sind.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE001200000)
 
 Diese Verordnung findet keine Anwendung auf Patent- oder
 Gebrauchsmusteranmeldungen, die vor ihrem Inkrafttreten eingereicht
@@ -294,6 +306,7 @@ worden sind.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/biomathintv/BJNR015100005.html#BJNR015100005BJNE001300000)
 
 Diese Verordnung tritt am 28. Februar 2005 in Kraft.
 

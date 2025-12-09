@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -28,17 +29,20 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000200000)
 
 Der Ausbildungsberuf Servicefahrer/Servicefahrerin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -50,6 +54,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -130,6 +135,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000600000)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -141,6 +147,7 @@ erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -148,6 +155,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -156,6 +164,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres
@@ -183,6 +192,7 @@ praxisbezogene Aufgaben aus folgenden Gebieten bearbeiten:
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -307,12 +317,14 @@ so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 5)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE001200000)
 
 (Fundstelle: BGBl. I 2005, 889 - 892)
 
@@ -879,6 +891,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 (zu § 5)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/servicefahrerausbv/BJNR088700005.html#BJNR088700005BJNE001300000)
 
 (Fundstelle: BGBl. I 2005, 893 - 894)
 

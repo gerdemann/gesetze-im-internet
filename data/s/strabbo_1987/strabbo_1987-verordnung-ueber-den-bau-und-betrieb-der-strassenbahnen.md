@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001000328)
 
 Auf Grund des § 57 des Personenbeförderungsgesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1, veröffentlichten
@@ -29,10 +30,12 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000100328)
 
 
 
 ### § 1 Anwendungsbereich und allgemeine Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001101123)
 
 (1) Diese Verordnung gilt für den Bau und Betrieb der Straßenbahnen im
 Sinne des § 4 des Personenbeförderungsgesetzes (PBefG). Das
@@ -147,6 +150,7 @@ Fahrzeugen bestehen.
 
 
 ### § 2 Grundregeln
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001202124)
 
 (1) Betriebsanlagen, Fahrzeuge oder Teile davon müssen so beschaffen
 sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen.
@@ -178,6 +182,7 @@ Technischen Aufsichtsbehörde nachgewiesen wird.
 
 
 ### § 3 Allgemeine Anforderungen an den Bau der Betriebsanlagen und Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001303124)
 
 (1) Betriebsanlagen und Fahrzeuge müssen so gebaut sein, daß ihr
 verkehrsüblicher Betrieb niemanden schädigt oder mehr als unvermeidbar
@@ -245,6 +250,7 @@ Rechnung tragen.
 
 
 ### § 4 Allgemeine Anforderungen an den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001402124)
 
 (1) Betriebsbedienstete sind in der für einen sicheren und
 ordnungsgemäßen Betrieb erforderlichen Anzahl einzusetzen.
@@ -292,6 +298,7 @@ genannten Speicherung weiterhin erforderlich.
 
 
 ### § 5 Technische Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001502124)
 
 (1) Die Technische Aufsichtsbehörde nach § 54 Abs. 1 Satz 3 des
 Personenbeförderungsgesetzes überwacht die Einhaltung der Vorschriften
@@ -338,16 +345,19 @@ erforderlichen Maßnahmen. Insbesondere kann sie
 
 
 ### § 6 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001601123)
 
 Die Technische Aufsichtsbehörde kann von den Vorschriften dieser
 Verordnung in Einzelfällen Ausnahmen genehmigen.
 
 
 ## Zweiter Abschnitt - Betriebsleitung
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000200328)
 
 
 
 ### § 7 Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001701123)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß die Anforderungen der
 Sicherheit und Ordnung nach § 2 erfüllt werden. Er hat insbesondere
@@ -439,6 +449,7 @@ gegen eine solche Beeinträchtigung Vorkehrungen getroffen werden.
 
 
 ### § 8 Betriebsleiter
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001801123)
 
 (1) Der Betriebsleiter ist für die sichere und ordnungsgemäße
 Durchführung des Betriebs insgesamt verantwortlich.
@@ -472,6 +483,7 @@ nach schriftlicher Dienstübergabe tätig werden.
 
 
 ### § 9 Bestätigung als Betriebsleiter
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE001901123)
 
 (1) Die Technische Aufsichtsbehörde bestätigt die Bestellung des
 Betriebsleiters auf Antrag des Unternehmers, wenn die bestellte Person
@@ -532,10 +544,12 @@ Berufsqualifikationsfeststellungsgesetzes anzuerkennen.
 
 
 ## Dritter Abschnitt - Betriebsbedienstete
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000300328)
 
 
 
 ### § 10 Allgemeine Anforderungen an Betriebsbedienstete
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002001123)
 
 (1) Als Betriebsbediensteter darf nur tätig sein, wer
 
@@ -577,6 +591,7 @@ Unterweisungen und Nachschulungen ersichtlich sein müssen.
 
 
 ### § 11 Besondere Anforderungen an Fahrbedienstete
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002101123)
 
 (1) Fahrbedienstete müssen mindestens 21 Jahre alt sein. Dies gilt
 nicht für:
@@ -608,6 +623,7 @@ Hilfe unterwiesen sein.
 
 
 ### § 12 Ausbildung und Prüfung der Fahrbediensteten
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002201123)
 
 (1) Fahrbedienstete müssen eine angemessene Zeit unter Aufsicht von
 Lehrbediensteten für ihre Tätigkeit ausgebildet worden sein.
@@ -633,6 +649,7 @@ Jahres, in dem die Aufzeichnungen entstanden sind.
 
 
 ### § 13 Verhalten während des Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002301123)
 
 (1) Betriebsbedienstete haben bei der Bedienung von Betriebsanlagen
 und Fahrzeugen die Sorgfalt anzuwenden, die sich daraus ergibt, daß
@@ -654,6 +671,7 @@ dienen, zu anderen als betrieblichen Zwecken zu benutzen.
 
 
 ### § 14 Verhalten bei Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002402123)
 
 (1) Hat ein Betriebsbediensteter eine Krankheit, die seine
 Dienstausübung beeinträchtigen kann, darf er seinen Dienst nicht
@@ -672,10 +690,12 @@ unverzüglich anzuzeigen.
 
 
 ## Vierter Abschnitt - Betriebsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000400328)
 
 
 
 ### § 15 Streckenführung
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002501123)
 
 (1) Die Streckenführung und die Lage der Haltestellen müssen den
 Verkehrsbedürfnissen entsprechen und insbesondere günstiges Umsteigen
@@ -702,6 +722,7 @@ der Sicherung.
 
 
 ### § 16 Bahnkörper
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002602124)
 
 (1) Bahnkörper umfassen den Oberbau und den ihn tragenden Unterbau,
 der aus Erd-, Stütz- oder Ingenieurbauwerken bestehen kann.
@@ -740,6 +761,7 @@ Streckenabschnitten auch bei anderen Betriebsarten verlangen.
 
 
 ### § 17 Oberbau
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002701123)
 
 (1) Der Oberbau muß die vom maßgebenden Lastenzug bei der
 Streckenhöchstgeschwindigkeit ausgeübten statischen und dynamischen
@@ -789,6 +811,7 @@ sein, daß sie den betrieblichen Erfordernissen genügen.
 
 
 ### § 18 Umgrenzung des lichten Raumes
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002800328)
 
 (1) Der lichte Raum ist der zu jedem Gleis gehörende Raum, der für
 einen sicheren Betrieb der Fahrzeuge von festen und beweglichen
@@ -811,6 +834,7 @@ Ermittlungsgenauigkeit des Lichtraumbedarfs abgestellt ist.
 
 
 ### § 19 Sicherheitsräume
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE002901123)
 
 (1) Zum Schutz von Personen muß neben jedem Gleis außerhalb der
 Lichtraumumgrenzung ein Sicherheitsraum vorhanden sein. Er muß vom
@@ -854,6 +878,7 @@ zur unverzüglichen Selbst- oder Fremdrettung im Notfall.
 
 
 ### § 20 Bahnübergänge
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003001123)
 
 (1) Die Straßenbahn hat an höhengleichen Kreuzungen von besonderen und
 unabhängigen Bahnkörpern mit Straßen, Wegen und Plätzen
@@ -910,6 +935,7 @@ unmittelbar vor dem Bahnübergang verwendet werden.
 
 
 ### § 21 Signalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003101123)
 
 (1) Signalanlagen müssen so gebaut sein, daß sie die für sie
 bestimmten Aufträge eindeutig erfassen, bestimmungsgemäß verarbeiten
@@ -944,6 +970,7 @@ zur Gesamtanlage.
 
 
 ### § 22 Zugsicherungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003201123)
 
 (1) Zugsicherungsanlagen sind Anlagen zum Sichern und Steuern des
 Fahrbetriebes. Sie dienen dazu,
@@ -991,6 +1018,7 @@ sind, gelten die Absätze 3 und 4 entsprechend.
 
 
 ### § 23 Nachrichtentechnische Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003301123)
 
 (1) Für die Verständigung von Betriebsbediensteten mit Betriebsstellen
 müssen im betriebsnotwendigen Umfang nachrichtentechnische Anlagen
@@ -1012,6 +1040,7 @@ Betriebsstellen ermöglichen.
 
 
 ### § 24 Energieversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003401123)
 
 (1) Energieversorgungsanlagen sind dazu bestimmt, elektrische Energie
 aus fremden oder bahneigenen Netzen zu entnehmen, umzuwandeln,
@@ -1066,6 +1095,7 @@ elektrischer Betriebsmittel vorhanden sein.
 
 
 ### § 25 Fahrleitungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003500328)
 
 (1) Betriebsmäßig unter Spannung stehende Teile der Fahrleitungsanlage
 müssen mindestens einen teilweisen Schutz gegen direktes Berühren
@@ -1104,6 +1134,7 @@ Verbindungen dürfen nur durch Werkzeug lösbar sein.
 
 
 ### § 26 Rückleitungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003600328)
 
 (1) Rückleitungen müssen elektrisch und mechanisch zuverlässig sein;
 Verbindungen der als Rückleitung dienenden Betriebsmittel dürfen nur
@@ -1118,6 +1149,7 @@ Schienenpotential müssen Maßnahmen getroffen sein.
 
 
 ### § 27 Beleuchtungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003701123)
 
 (1) Beleuchtungsanlagen müssen vorhanden sein
 
@@ -1192,6 +1224,7 @@ gefordert werden.
 
 
 ### § 28 Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003800328)
 
 Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch
 aufgetrennt sein, wenn in diesen Bahnbauwerken Rückleitungen nach § 26
@@ -1201,6 +1234,7 @@ Bahnbauwerk ein- und weitergeführt werden.
 
 
 ### § 29 Brücken
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE003900328)
 
 (1) Brücken müssen den für die Strecke maßgebenden Lastenzug sowie die
 sonstigen statischen und dynamischen Belastungen bei der
@@ -1228,6 +1262,7 @@ entsprechend anzuwenden.
 
 
 ### § 30 Tunnel
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004002124)
 
 (1) Tunnel müssen so gebaut sein, daß
 
@@ -1331,6 +1366,7 @@ Stützmauern in Verbindung mit einer Sohle einen Trog bilden.
 
 
 ### § 31 Haltestellen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004102124)
 
 (1) Haltestellen müssen
 
@@ -1411,16 +1447,19 @@ erforderlichen Breiten sind freizuhalten.
 
 
 ### § 32 Aufzüge, Fahrtreppen und Fahrsteige
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004201123)
 
 An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder
 Fahrsteigen müssen freie Räume als Stauräume vorhanden sein.
 
 
 ## Fünfter Abschnitt - Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000500328)
 
 
 
 ### § 33 Fahrzeuggestaltung
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004301123)
 
 (1) Beim Bau von Fahrzeugen ist als Lastannahme von der Eigenlast und
 der Nutzlast, von den Kräften aus Anfahrbeschleunigung und
@@ -1507,6 +1546,7 @@ sein.
 
 
 ### § 34 Fahrzeugmaße
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004401123)
 
 (1) Die lichtraumtechnisch maßgebenden Merkmale der Fahrzeuge und des
 Gleises müssen so aufeinander abgestimmt sein, daß es in keinem
@@ -1576,6 +1616,7 @@ Behinderung möglich ist.
 
 
 ### § 35 Fahrwerke
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004501123)
 
 (1) Die für die Laufeigenschaften wesentlichen Fahrzeugmaße und
 Gleismaße müssen so aufeinander abgestimmt sein, daß bei den jeweils
@@ -1591,6 +1632,7 @@ Dämpfung der Fahrzeuge erhalten bleiben.
 
 
 ### § 36 Bremsen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004601123)
 
 (1) Fahrzeuge müssen mindestens zwei Bremsen haben. Diese müssen so
 voneinander unabhängig sein, daß bei Störungen innerhalb der einen
@@ -1687,6 +1729,7 @@ abbremsen können.
 
 
 ### § 37 Antrieb
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004700328)
 
 Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung
 müssen unter Berücksichtigung der Streckenverhältnisse, der
@@ -1708,6 +1751,7 @@ zu beachten.
 
 
 ### § 38 Fahrsteuerung
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004800328)
 
 (1) Die Steuerung von Antrieben und Bremsen muß so gebaut sein, daß
 
@@ -1734,6 +1778,7 @@ Zugsicherungseinrichtungen ausgerüstet sein.
 
 
 ### § 39 Stromabnehmer und Schleifer
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE004900328)
 
 (1) Stromabnehmer und Fahrleitungsanlagen müssen so aufeinander
 abgestimmt sein, daß der Strom bis zur zulässigen
@@ -1747,6 +1792,7 @@ Stromabnehmern vor diesen am Nulleiter oder Schutzleiter anliegen.
 
 
 ### § 40 Signaleinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005001123)
 
 (1) Signaleinrichtungen müssen im betriebsbedingt notwendigen Umfang
 vorhanden und so gebaut sein, daß sie die Zugsignale und das
@@ -1798,6 +1844,7 @@ andere Maßnahmen für eine ausreichende Sicherung gesorgt ist.
 
 
 ### § 41 Bahnräumer und Schienenräumer
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005100328)
 
 (1) Fahrzeuge müssen vor dem in Fahrtrichtung ersten Radsatz
 Bahnräumer oder Schienenräumer haben, die eine durch Hindernisse
@@ -1815,6 +1862,7 @@ Aufgaben andere Einrichtungen des Fahrzeugs mitübernehmen können.
 
 
 ### § 42 Kupplungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005200328)
 
 (1) Kupplungseinrichtungen von Fahrzeugen, die im Zugverband betrieben
 werden sollen, müssen nach Bauart und Abmessung aufeinander abgestimmt
@@ -1825,6 +1873,7 @@ Einlaufen und Verriegeln der Kupplung erkennbar sein.
 
 
 ### § 43 Türen für den Fahrgastwechsel
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005301123)
 
 (1) Türen müssen so gebaut und angeordnet sein, daß ein zügiger
 Fahrgastwechsel möglich ist.
@@ -1865,6 +1914,7 @@ Gefahrenfall auf andere Weise sichergestellt wird.
 
 
 ### § 44 Fahrzeugführerplatz
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005401123)
 
 (1) Der Fahrzeugführerplatz muß so gestaltet sein, daß der
 Fahrzeugführer den Zug sicher führen kann. Insbesondere müssen ein
@@ -1895,6 +1945,7 @@ erforderlich ist.
 
 
 ### § 45 Innenbeleuchtung, Heizung und Lüftung
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005500328)
 
 (1) Fahrgasträume müssen eine ausreichende Innenbeleuchtung haben. Sie
 darf von Fahrgästen nicht ausgeschaltet werden können.
@@ -1914,6 +1965,7 @@ und belüftet werden können.
 
 
 ### § 46 Informationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005602124)
 
 (1) Personenfahrzeuge müssen Einrichtungen haben, die
 
@@ -1971,6 +2023,7 @@ ihnen zugeordneten Züge deutlich erkennbar sein.
 
 
 ### § 47 Beschriftungen und Sinnbilder
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005701123)
 
 (1) An den Außenseiten der Fahrzeuge müssen vorhanden sein
 
@@ -2010,6 +2063,7 @@ Aufschriften oder Bildzeichen nicht beeinträchtigt sein.
 
 
 ### § 48 Ausrüstung für Notfälle
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005801123)
 
 (1) Personenfahrzeuge sowie Betriebsfahrzeuge mit eigenem Antrieb
 müssen mindestens je einen Verbandkasten, einen tragbaren Feuerlöscher
@@ -2023,10 +2077,12 @@ ausreichender Anzahl vorhanden sind.
 
 
 ## Sechster Abschnitt - Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000600328)
 
 
 
 ### § 49 Fahrordnung
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE005901123)
 
 (1) Ein Zug darf einem anderen nur in einem solchen Abstand folgen,
 daß er auch bei ungünstigen Betriebsverhältnissen, insbesondere bei
@@ -2093,6 +2149,7 @@ durch andere Maßnahmen erfüllt werden.
 
 
 ### § 50 Zulässige Geschwindigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006001123)
 
 (1) Die für das Streckennetz geltenden Streckenhöchstgeschwindigkeiten
 setzt die Technische Aufsichtsbehörde fest.
@@ -2128,6 +2185,7 @@ Straßenverkehr jeweils geltende Höchstgeschwindigkeit nicht
 
 
 ### § 51 Signale
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006102124)
 
 (1) Signale müssen in dem Umfang verwendet werden, den die Sicherheit
 und die betrieblichen Verhältnisse erfordern.
@@ -2216,6 +2274,7 @@ Rand zu kennzeichnen.
 
 
 ### § 52 Einsatz von Betriebsbediensteten
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006200328)
 
 (1) Betriebsanlagen und Fahrzeuge dürfen nur von Betriebsbediensteten
 bedient werden, die entsprechend unterwiesen und vom Betriebsleiter
@@ -2248,6 +2307,7 @@ führen. Sie müssen enthalten
 
 
 ### § 53 Besetzen der Züge mit Fahrbediensteten
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006302124)
 
 (1) Jeder Zug muß während der Fahrt mit einem streckenkundigen
 Fahrzeugführer besetzt sein.
@@ -2292,6 +2352,7 @@ Aufträge für die Zugbewegung gibt und Gefährdete warnt.
 
 
 ### § 54 Fahrbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006400328)
 
 (1) Personenzüge dürfen nur abfahren, wenn durch Augenschein oder
 durch technische Einrichtungen festgestellt ist, daß die Türen für den
@@ -2327,6 +2388,7 @@ Aufzeichnungen zu führen.
 
 
 ### § 55 Teilnahme am Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006502124)
 
 (1) Auf straßenbündigem Bahnkörper nehmen die Züge am Straßenverkehr
 teil. Dabei müssen die Fahrzeugführer die sie betreffenden
@@ -2342,6 +2404,7 @@ nicht am Straßenverkehr teil.
 
 
 ### § 56 Verhalten bei Mängeln an Zügen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006601123)
 
 (1) Züge mit Sicherheitsmängeln dürfen nicht im Betrieb verbleiben.
 Bei möglicher Weiterfahrt bis zu einem betrieblich geeigneten
@@ -2359,6 +2422,7 @@ ermöglichen.
 
 
 ### § 57 Instandhaltung der Betriebsanlagen und Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006702124)
 
 (1) Die Instandhaltung der Betriebsanlagen und Fahrzeuge umfaßt
 Wartung, Inspektionen und Instandsetzungen; sie muß sich mindestens
@@ -2483,6 +2547,7 @@ zur nächsten Inspektion, mindestens jedoch drei Jahre aufzubewahren.
 
 
 ### § 58 Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006801123)
 
 (1) Personen, die nicht Betriebsbedienstete sind, dürfen
 Betriebsanlagen und Fahrzeuge, soweit sie nicht dem allgemeinen
@@ -2504,6 +2569,7 @@ darf hierdurch nicht beeinträchtigt werden.
 
 
 ### § 59 Betriebsgefährdende oder betriebsstörende Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE006902123)
 
 Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen,
 vorsätzlich zu verunreinigen, ihre Einrichtungen missbräuchlich zu
@@ -2526,10 +2592,12 @@ untersagt,
 
 
 ## Siebenter Abschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000700328)
 
 
 
 ### § 60 Prüfung der Bauunterlagen für Betriebsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007001123)
 
 (1) Mit dem Bau von Betriebsanlagen, die nach § 62 Absatz 1 einer
 Inbetriebnahmegenehmigung bedürfen, darf erst begonnen werden, wenn
@@ -2602,6 +2670,7 @@ entscheidet die Technische Aufsichtsbehörde.
 
 
 ### § 61 Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007102124)
 
 (1) Die Technische Aufsichtsbehörde beaufsichtigt den Bau von
 Betriebsanlagen und Fahrzeugen. Sie kann sich dabei auf Stichproben,
@@ -2628,6 +2697,7 @@ Unterlagen zu gewähren.
 
 
 ### § 62 Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007202124)
 
 (1) Neue oder geänderte Betriebsanlagen und Fahrzeuge dürfen außer zur
 Ermittlung der Gebrauchsfähigkeit nur betrieben werden, wenn die
@@ -2701,10 +2771,12 @@ Technische Aufsichtsbehörde nichts anderes bestimmt hat.
 
 
 ## Achter Abschnitt - Ordnungswidrigkeiten, Schluß- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNG000800328)
 
 
 
 ### § 63 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007302123)
 
 (1) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 des
 Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2742,6 +2814,7 @@ fahrlässig
 
 
 ### § 64 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007403124)
 
 Werden in dieser Verordnung an den Bau von Betriebsanlagen oder
 Fahrzeugen andere Anforderungen als nach dem bis zum 22. Dezember 2016
@@ -2761,6 +2834,7 @@ von acht Jahren.
 
 
 ### § 65 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007501123)
 
 (1) Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
@@ -2772,12 +2846,14 @@ von acht Jahren.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007600328)
 
 Der Bundesminister für Verkehr
 
 (zu § 20 Absatz 5 Nummer 1)
 
 ### Anlage 1 Kennzeichnung und Sicherung von Bahnübergängen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007701123)
 
 (Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 2)
 
@@ -2804,6 +2880,7 @@ Der Bundesminister für Verkehr
 (zu § 36)
 
 ### Anlage 2 Grenzwerte für Bremsungen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007801123)
 
 (Fundstelle: BGBl. I 1987, Anlageband zu Nr. 58, S. 3)
 Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge
@@ -3008,6 +3085,7 @@ auf geradem, ebenem und trockenem Gleis.
 (zu § 47 Abs. 2 Nr. 2)
 
 ### Anlage 3 Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE007900328)
 
 (Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 4)
 
@@ -3029,6 +3107,7 @@ auf geradem, ebenem und trockenem Gleis.
 (zu den §§ 20, 21, 40, 51)
 
 ### Anlage 4 Signale
+[Direktlink](https://www.gesetze-im-internet.de/strabbo_1987/BJNR026480987.html#BJNR026480987BJNE008001123)
 
 (Fundstelle des Originaltextes: Anlageband zu BGBl. I 1987, Nr. 58;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

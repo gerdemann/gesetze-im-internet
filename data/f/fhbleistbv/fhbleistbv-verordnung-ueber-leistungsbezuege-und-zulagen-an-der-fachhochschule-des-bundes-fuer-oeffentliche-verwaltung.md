@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000100000)
 
 Auf Grund des § 33 Abs. 4 und des § 35 Abs. 2 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6.
@@ -29,6 +30,7 @@ obersten Dienstbehörden:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000200000)
 
 Diese Verordnung regelt die Vergabe von Leistungsbezügen sowie von
 Forschungs- und Lehrzulagen an Professorinnen und Professoren der
@@ -39,6 +41,7 @@ regelmäßigen Besoldungsanpassungen.
 
 
 ## § 2 Berufungs- und Bleibe-Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000300000)
 
 (1) Aus Anlass von Berufungs- und Bleibeverhandlungen können
 Leistungsbezüge vergeben werden, soweit dies erforderlich ist, um eine
@@ -66,6 +69,7 @@ der Professor angehört.
 
 
 ## § 3 Besondere Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000400000)
 
 (1) Für Leistungen in den Bereichen Forschung, Lehre, Weiterbildung
 oder Nachwuchsförderung, die erheblich über den durchschnittlich zu
@@ -94,6 +98,7 @@ gilt entsprechend.
 
 
 ## § 4 Funktions-Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000500000)
 
 (1) Für die Zeit der Wahrnehmung von Funktionen oder besonderen
 Aufgaben im Rahmen der Hochschulselbstverwaltung oder der
@@ -108,6 +113,7 @@ die in einer Nebenfunktion zum Hauptamt wahrgenommen werden.
 
 
 ## § 5 Forschungs- und Lehrzulagen
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000600000)
 
 (1) Professorinnen und Professoren, die Mittel privater Dritter für
 Forschungs- oder Lehrvorhaben an der FH Bund (Drittmittel) einwerben
@@ -125,6 +131,7 @@ Jahresgrundgehalts der Professorin oder des Professors nicht
 
 
 ## § 6 Ruhegehaltfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000700000)
 
 (1) Befristet vergebene Leistungsbezüge nach den §§ 2 und 3 sind bei
 wiederholter Vergabe bis zur Höhe von zusammen 40 Prozent des zum
@@ -140,6 +147,7 @@ Halbsatz 1 des Bundesbesoldungsgesetzes.
 
 
 ## § 7 Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000800000)
 
 (1) Leistungsbezüge nach den §§ 2 bis 4 können grundsätzlich
 nebeneinander wie auch neben Forschungs- und Lehrzulagen nach § 5
@@ -190,6 +198,7 @@ machen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fhbleistbv/BJNR355000004.html#BJNR355000004BJNE000900000)
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 

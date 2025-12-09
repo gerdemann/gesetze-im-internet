@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000100000)
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 des § 71 Nummer 5 des Windenergie-auf-See-Gesetzes vom 13. Oktober
@@ -29,6 +30,7 @@ Gesetzes vom 16. Juli 2021 (BGBl. I S. 3026) neu gefasst worden ist:
 
 
 ## § 1 Zweck und Ziel der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000201119)
 
 Die Verordnung regelt nach § 96 Nummer 5 des Windenergie-auf-See-
 Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2310), das zuletzt
@@ -45,6 +47,7 @@ jeweils nicht an das Netz angeschlossen werden,
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000300000)
 
 Im Sinne dieser Verordnung ist
 
@@ -70,6 +73,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Gegenstand der Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000400000)
 
 Für die im Flächenentwicklungsplan nach § 5 Absatz 2a des Windenergie-
 auf-See-Gesetzes festgelegten sonstigen Energiegewinnungsbereiche oder
@@ -84,6 +88,7 @@ vornehmen.
 
 
 ## § 4 Allgemeine Ausschreibungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000500000)
 
 Die allgemeinen Ausschreibungsbestimmungen nach § 30a des Erneuerbare-
 Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt
@@ -95,6 +100,7 @@ Seeschifffahrt und Hydrographie.
 
 
 ## § 5 Ausschreibungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000600000)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie schreibt
 Antragsberechtigungen erstmalig im Jahr 2022 aus. Erfolgt eine
@@ -112,6 +118,7 @@ werden.
 
 
 ## § 6 Bekanntmachung der Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000701119)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die
 Ausschreibungen spätestens sechs Kalendermonate vor dem jeweiligen
@@ -153,6 +160,7 @@ müssen mindestens folgende Angaben enthalten:
 
 
 ## § 7 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000800000)
 
 Bieter müssen beim Bundesamt für Seeschifffahrt und Hydrographie für
 ihre Gebote bis zum jeweiligen Gebotstermin eine Sicherheit leisten.
@@ -169,6 +177,7 @@ der Bundeshaushalt tritt.
 
 
 ## § 8 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE000901119)
 
 (1) Der Bieter muss in seinem Gebot den sonstigen
 Energiegewinnungsbereich oder den Teilbereich bezeichnen, für den das
@@ -335,6 +344,7 @@ verwendende interoperable Datenformate vorgeben.
 
 
 ## § 9 Bewertung der Gebote, Kriterien
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001001119)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie bewertet die
 nicht nach § 10 oder § 11 ausgeschlossenen Gebote nach den folgenden
@@ -531,6 +541,7 @@ anzuwenden.
 [^F818470_04_BJNR432800021BJNE001001119]: 
 
 ## § 10 Ausschluss von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001100000)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie schließt Gebote
 von dem Verfahren aus, wenn
@@ -561,6 +572,7 @@ Gebotstermin nicht eindeutig zugeordnet werden kann.
 
 
 ## § 11 Ausschluss von Bietern
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001200000)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann Bieter und
 deren Gebote von dem Verfahren ausschließen, wenn der Bieter
@@ -603,6 +615,7 @@ Ausschreibung abgegeben hat.
 
 
 ## § 12 Verfahren und Erteilung der Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001300000)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie führt bei jeder
 Ausschreibung das folgende Verfahren durch:
@@ -652,6 +665,7 @@ Antragsberechtigung.
 
 
 ## § 13 Rechtsfolgen der Antragsberechtigung und Bekanntgabe der Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001400000)
 
 (1) Mit der Erteilung der Antragsberechtigung nach § 12 Absatz 1 Satz
 1 Nummer 5 hat der Bieter, dem die Antragsberechtigung erteilt wurde
@@ -721,6 +735,7 @@ Erzeugung von grünem Wasserstoff auf See.
 
 
 ## § 14 Realisierungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001501119)
 
 (1) Antragsberechtigte Bieter müssen
 
@@ -812,6 +827,7 @@ Fristverlängerung.
 [^F818470_05_BJNR432800021BJNE001501119]: 
 
 ## § 15 Sanktionen bei Nichteinhaltung der Realisierungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001600000)
 
 (1) Antragsberechtigte Bieter müssen an den Bundeshaushalt jeweils
 eine Pönale leisten, wenn eine Frist nach § 14 Absatz 1 Nummer 2 bis 5
@@ -906,6 +922,7 @@ des antragsberechtigten Bieters
 
 
 ## § 16 Erstattung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001700000)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie gibt
 unverzüglich die von dem Bieter nach § 7 hinterlegten Sicherheiten für
@@ -937,6 +954,7 @@ antragsberechtigten Bieters zurück, wenn und soweit dieser
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/s_nergiev/BJNR432800021.html#BJNR432800021BJNE001800000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 

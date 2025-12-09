@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Regelung des Zusammentreffens von deutschen Dienst- und Versorgungsbezügen mit einer Versorgung aus der Verwendung bei einer zwischenstaatlichen oder überstaatlichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000100319)
 
 
 
 ### Art I bis Art IX - 
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000200319)
 
 
 
 ### Art X - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000301310)
 
 (1) Bei der Anwendung des § 8 des Bundesbesoldungsgesetzes und des §
 56 des Beamtenversorgungsgesetzes sowie des § 55b Abs. 1 des
@@ -55,50 +58,61 @@ dem Tag des Inkrafttretens dieses Gesetzes.
 
 
 ### Art XI
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000400319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNE001300319)
 
 -
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNE001401310)
 
 (weggefallen)
 
 
 ## Zweiter Abschnitt - Witwerversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000500319)
 
 
 
 ### Art XII bis Art XV - 
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000600319)
 
 
 
 ### Art XVI - 
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000701310)
 
 (weggefallen)
 
 
 ## Dritter Abschnitt - Sonstige Änderungen des Beamtenrechts
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000800319)
 
 
 
 ### Art XVII u. Art XVIII - 
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG000900319)
 
 
 
 ## Vierter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG001000319)
 
 
 
 ### Art XIX - 
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG001101310)
 
 (weggefallen)
 
 
 ### Art XX
+[Direktlink](https://www.gesetze-im-internet.de/beamt_besr_ndg_5/BJNR008489968.html#BJNR008489968BJNG001200319)
 
 Es treten in Kraft:
 

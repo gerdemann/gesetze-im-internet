@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld2g/BJNR095420996.html#BJNR095420996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld2g/BJNR095420996.html#BJNR095420996BJNE000200310)
 
 (1) Dem in Den Haag am 20. Oktober 1992 unterzeichneten Zweiten
 Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der
@@ -44,6 +46,7 @@ Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld2g/BJNR095420996.html#BJNR095420996BJNE000300310)
 
 In den Gebietsteilen, die nach den Artikeln 1 und 2 des Vertrags der
 Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
@@ -53,6 +56,7 @@ außer Kraft.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld2g/BJNR095420996.html#BJNR095420996BJNE000400310)
 
 Die Regierungen der Länder Niedersachsen und Nordrhein-Westfalen
 werden ermächtigt, für die nach dem Vertrag der Bundesrepublik
@@ -74,6 +78,7 @@ können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld2g/BJNR095420996.html#BJNR095420996BJNE000500310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

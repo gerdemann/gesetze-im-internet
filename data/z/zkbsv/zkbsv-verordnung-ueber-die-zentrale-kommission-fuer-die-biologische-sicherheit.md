@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000207116)
 
 (1) Die Zentrale Kommission für die Biologische Sicherheit
 (Kommission) prüft und bewertet sicherheitsrelevante Fragen nach den
@@ -69,6 +70,7 @@ Bundesanzeiger bekannt.
 
 
 ## § 2 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000306116)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft beruft
 gemäß § 4 Abs. 2 des Gentechnikgesetzes die Mitglieder und die
@@ -84,6 +86,7 @@ Bundesanzeiger bekannt.
 
 
 ## § 3 Mitglieder und stellvertretende Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000405116)
 
 (1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt. Die
 Mitglieder und die stellvertretenden Mitglieder erhalten Ersatz ihrer
@@ -96,6 +99,7 @@ und Landwirtschaft ihre Mitgliedschaft jederzeit beenden.
 
 
 ## § 4 Beteiligung anderer Personen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000502320)
 
 (1) Die in § 4 Abs. 2 des Gentechnikgesetzes genannten
 Bundesministerien sowie die zuständigen obersten Landesbehörden haben
@@ -109,6 +113,7 @@ zugelassen.
 
 
 ## § 5 Vorsitzender und Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000602320)
 
 Die Mitglieder oder bei deren Abwesenheit ihre Stellvertreter wählen
 aus dem Kreis der Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des
@@ -117,6 +122,7 @@ Dauer von drei Jahren. Wiederwahl ist möglich.
 
 
 ## § 6 Berichterstatter
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000702320)
 
 (1) Anforderungen von Stellungnahmen der Kommission werden auf je zwei
 Berichterstatter aus dem Kreis der Mitglieder und deren Stellvertreter
@@ -130,6 +136,7 @@ Hinzuziehung von Sachverständigen nach § 7 machen.
 
 
 ## § 7 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000801320)
 
 Zur Erfüllung ihrer Aufgaben kann die Kommission Sachverständige
 hören, Gutachten beiziehen, Untersuchungen durch Dritte vornehmen
@@ -138,6 +145,7 @@ der Wahrnehmung bestimmter Aufgaben betrauen.
 
 
 ## § 8 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE000904310)
 
 (1) Die Kommission hat ihre Geschäftsstelle beim Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit.
@@ -154,6 +162,7 @@ fristgerechte Beurteilung der Anträge durch die Kommission.
 
 
 ## § 9 Sitzungen der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001002320)
 
 (1) Die Sitzungen der Kommission finden in regelmäßigen Abständen
 statt. Die Sitzungen der Kommission sind so häufig anzuberaumen, daß
@@ -180,6 +189,7 @@ außerordentlichen Sitzung einzuladen.
 
 
 ## § 10 Durchführung von Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001102320)
 
 (1) Die Sitzungen sind nicht öffentlich. Die stellvertretenden
 Mitglieder sollen an den Sitzungen teilnehmen.
@@ -199,6 +209,7 @@ Verschwiegenheit zu wahren.
 
 
 ## § 11 Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001202320)
 
 (1) Die Kommission ist beschlußfähig, wenn alle Mitglieder geladen und
 mindestens zehn stimmberechtigte Mitglieder, davon mindestens sechs
@@ -239,6 +250,7 @@ Ablehnung der Stellungnahme beruht.
 
 
 ## § 12 Sitzungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001302320)
 
 (1) Die Geschäftsstelle fertigt für jede Sitzung ein
 Sitzungsprotokoll, das Ort und Zeit der Sitzung, die
@@ -264,6 +276,7 @@ dem Sitzungsprotokoll.
 
 
 ## § 13 Arbeitskreise
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001402320)
 
 (1) Die Kommission kann nach Bedarf unter Hinzuziehung von
 Sachverständigen nach § 7 für bestimmte Aufgaben auf Zeit
@@ -283,6 +296,7 @@ Anwendung.
 
 
 ## § 14 Zusammenarbeit mit den zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001503320)
 
 (1) Die Kommission gibt spätestens sechs Wochen, bei Anmeldung
 weiterer gentechnischer Arbeiten spätestens vier Wochen, nach Eingang
@@ -299,6 +313,7 @@ enthalten.
 
 
 ## § 15 Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001606116)
 
 (1) Die Kommission erstellt einen jährlichen Tätigkeitsbericht, der
 vom Bundesministerium für Ernährung und Landwirtschaft veröffentlicht
@@ -310,6 +325,7 @@ Abschluß des jeweiligen Verfahrens nach dem Gentechnikgesetz.
 
 
 ## § 16 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001706116)
 
 Die Kommission gibt sich eine Geschäftsordnung. Die Geschäftsordnung
 bedarf der Zustimmung des Bundesministeriums für Ernährung und
@@ -318,11 +334,13 @@ Abs. 2 des Gentechnikgesetzes genannten Bundesministerien trifft.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001802320)
 
 (weggefallen)
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/zkbsv/BJNR024180990.html#BJNR024180990BJNE001901320)
 
 (Inkrafttreten)
 

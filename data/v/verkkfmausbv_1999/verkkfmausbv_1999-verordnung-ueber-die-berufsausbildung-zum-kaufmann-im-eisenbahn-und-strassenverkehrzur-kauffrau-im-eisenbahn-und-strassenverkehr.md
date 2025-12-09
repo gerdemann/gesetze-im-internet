@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000100311)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000200311)
 
 Der Ausbildungsberuf Kaufmann im Eisenbahn- und
 Straßenverkehr/Kauffrau im Eisenbahn- und Straßenverkehr wird
@@ -38,11 +40,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000300311)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000400311)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -162,6 +166,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000500311)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -180,12 +185,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000600311)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000700311)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -194,6 +201,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000800311)
 
 (1) Zur Ermittlung eines Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -222,6 +230,7 @@ Prüfungsgebieten durchzuführen:
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE000900311)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -351,6 +360,7 @@ bestanden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE001000311)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -359,12 +369,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE001100311)
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 (zu § 4)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE001200311)
 
 (Fundstelle: BGBl. I 1999, 1589 - 1593)
 
@@ -1194,6 +1206,7 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 (zu § 4)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/verkkfmausbv_1999/BJNR158600999.html#BJNR158600999BJNE001300311)
 
 (Fundstelle: BGBl. I 1999, 1594 - 1596)
 

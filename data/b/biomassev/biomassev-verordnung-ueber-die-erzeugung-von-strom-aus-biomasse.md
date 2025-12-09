@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000100305)
 
 Auf Grund des § 2 Abs. 1 Satz 2 des Erneuerbare-Energien-Gesetzes vom
 29\. März 2000 (BGBl. I S. 305) in Verbindung mit Artikel 56 Abs. 1 des
@@ -33,6 +34,7 @@ Bundestages:
 
 
 ## § 1 Aufgabenbereich
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000202116)
 
 Diese Verordnung regelt für den Anwendungsbereich des Erneuerbare-
 Energien-Gesetzes, welche Stoffe als Biomasse gelten, welche
@@ -42,6 +44,7 @@ bei der Erzeugung von Strom aus Biomasse einzuhalten sind.
 
 
 ## § 2 Anerkannte Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000302116)
 
 (1) Biomasse im Sinne dieser Verordnung sind Energieträger aus Phyto-
 und Zoomasse. Hierzu gehören auch aus Phyto- und Zoomasse
@@ -98,10 +101,12 @@ nach § 3 Nr. 4.
 
 
 ## § 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000901116)
 
 
 
 ## § 3 Nicht als Biomasse anerkannte Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000404123)
 
 Nicht als Biomasse im Sinne dieser Verordnung gelten:
 
@@ -179,6 +184,7 @@ Nicht als Biomasse im Sinne dieser Verordnung gelten:
 
 
 ## § 4 Technische Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000500305)
 
 (1) Als technische Verfahren zur Erzeugung von Strom aus Biomasse im
 Sinne dieser Verordnung gelten einstufige und mehrstufige Verfahren
@@ -218,6 +224,7 @@ Klärschlammverordnung erzeugt worden ist.
 
 
 ## § 5 Umweltanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000601310)
 
 Zur Vermeidung und Verminderung von Umweltverschmutzungen, zum Schutz
 und zur Vorsorge vor schädlichen Umwelteinwirkungen und zur
@@ -228,15 +235,18 @@ geltenden Vorschriften des öffentlichen Rechts einzuhalten.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000700305)
 
 Diese Verordnung tritt am Tage nach der Verkündung ist Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE000800305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## (XXXX) Anlage 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html#BJNR123400001BJNE001001116)
 
 

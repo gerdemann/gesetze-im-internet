@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/musch_bkg/BJNR204970927.html#BJNR204970927BJNE000100317)
 
 ... Für die Durchführung des Übereinkommens sind das Zweite Gesetz
 über Abänderung des Zweiten Buches der Reichsversicherungsordnung vom
@@ -27,6 +28,7 @@ Gesetz über die Beschäftigung vor und nach der Niederkunft maßgebend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/musch_bkg/BJNR204970927.html#BJNR204970927BJNE000200317)
 
 Dieses Gesetz tritt gleichzeitig mit dem Gesetz über die Beschäftigung
 vor und nach der Niederkunft in Kraft. ...

@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S.
@@ -36,6 +37,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000200000)
 
 Der Ausbildungsberuf Seiler/Seilerin wird nach § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 29, Seiler, der
@@ -43,11 +45,13 @@ Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einen der Schwerpunkte Seilherstellung,
@@ -55,6 +59,7 @@ Seilkonfektion oder Netzkonfektion.
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan in der Anlage aufgeführten Fertigkeiten,
@@ -136,6 +141,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -156,6 +162,7 @@ regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres
@@ -229,6 +236,7 @@ Vorgaben:
 
 
 ## § 7 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000800000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -545,6 +553,7 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE000900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -553,12 +562,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Seiler/zur Seilerin
+[Direktlink](https://www.gesetze-im-internet.de/seilausbv_2008/BJNR094700008.html#BJNR094700008BJNE001200000)
 
 (Fundstelle: BGBl. I 2008, 951 - 956)
 

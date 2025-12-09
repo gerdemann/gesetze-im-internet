@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt V 8053-4-13-1 v. 9.7.2004 I 1605 (GPSGV 10)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000100000)
 
 (1) Diese Verordnung gilt für folgende Produkte, die auf dem Markt
 bereitgestellt oder erstmals verwendet werden:
@@ -192,6 +194,7 @@ bereitgestellt oder erstmals verwendet werden:
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000200000)
 
 (1) Im Sinne dieser Verordnung gelten nachstehende
 Begriffsbestimmungen:
@@ -278,6 +281,7 @@ Produktsicherheitsgesetzes.
 
 
 ### § 3 Grundlegende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000300000)
 
 Die in § 1 Absatz 1 genannten Produkte dürfen nur dann auf dem Markt
 bereitgestellt oder erstmals verwendet werden, wenn sie bei
@@ -288,6 +292,7 @@ des Anhangs I der Richtlinie 2013/53/EU erfüllen.
 
 
 ### § 4 Freier Warenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000400000)
 
 (1) Unvollständige Wasserfahrzeuge dürfen auf dem Markt bereitgestellt
 werden, wenn der Hersteller oder der Einführer nach Maßgabe des
@@ -355,9 +360,11 @@ erfüllt.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNG000200000)
 
 
 ### § 5 Allgemeine Pflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000500000)
 
 (1) Jeder Hersteller hat sicherzustellen, dass von ihm in Verkehr
 gebrachte Produkte nach den Anforderungen des § 3 und des Anhangs I
@@ -405,6 +412,7 @@ Maßnahmen, zu machen.
 
 
 ### § 6 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000600000)
 
 (1) Jeder Hersteller hat dafür zu sorgen, dass seine Produkte beim
 Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine
@@ -443,6 +451,7 @@ verbunden sind, das er in Verkehr gebracht hat.
 
 
 ### § 7 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000700000)
 
 (1) Jeder Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -473,6 +482,7 @@ einen Bevollmächtigten übertragen.
 
 
 ### § 8 Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000800000)
 
 (1) Ein Einführer darf nur Produkte in Verkehr bringen, die den
 Anforderungen dieser Verordnung entsprechen.
@@ -533,6 +543,7 @@ entsprechend.
 
 
 ### § 9 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE000900000)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit
 gebührender Sorgfalt berücksichtigen, wenn er ein Produkt auf dem
@@ -578,6 +589,7 @@ Satz 3 und § 8 Absatz 4 entsprechend.
 
 
 ### § 10 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001000000)
 
 Ein Einführer oder Händler gilt als Hersteller, wenn er
 
@@ -594,6 +606,7 @@ Ein Einführer oder Händler gilt als Hersteller, wenn er
 
 
 ### § 11 Pflichten der privaten Einführer
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001100000)
 
 (1) Stellt ein Hersteller die Übereinstimmung des Produkts mit den
 Anforderungen dieser Verordnung nicht sicher, so hat der private
@@ -612,6 +625,7 @@ Produkts durchgeführt hat, auf dem Produkt angebracht sind.
 
 
 ### § 12 Angabe der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001200000)
 
 (1) Jeder Wirtschaftsakteur hat den zuständigen Behörden auf deren
 Verlangen die Wirtschaftsakteure zu benennen,
@@ -636,9 +650,11 @@ aufzubewahren.
 
 
 ## Abschnitt 3 - Konformität und Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNG000300000)
 
 
 ### § 13 EU-Konformitätserklärung und Erklärung nach Anhang III der Richtlinie 2013/53/EU
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001300000)
 
 (1) Mit der EU-Konformitätserklärung erklärt der Hersteller, sein
 Bevollmächtigter oder, im Falle des Anhangs V der Richtlinie
@@ -691,6 +707,7 @@ Wasserfahrzeug beizufügen und in deutscher Sprache auszustellen.
 
 
 ### § 14 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001400000)
 
 (1) Wasserfahrzeuge, Bauteile und Antriebsmotoren müssen vom
 Hersteller oder seinem Bevollmächtigten oder im Falle des Anhangs V
@@ -725,6 +742,7 @@ genannten Person anzubringen.
 
 
 ### § 15 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001500000)
 
 (1) Bevor der Hersteller ein Produkt in Verkehr bringt, muss er eines
 der in den §§ 16 bis 18 genannten Konformitätsbewertungsverfahren
@@ -750,6 +768,7 @@ Konformitätsbewertungsverfahren nach § 19 durchzuführen.
 
 
 ### § 16 Entwurf und Bau
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001600000)
 
 (1) Für den Entwurf und Bau von Sportbooten sind folgende, in Anhang
 II des Beschlusses Nr.
@@ -910,6 +929,7 @@ Konformitätsbewertungsverfahren anwendbar:
 
 
 ### § 17 Abgasemissionen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001700000)
 
 Für die Bewertung der Abgasemissionen von in § 1 Absatz 1 Nummer 3 und
 4 genannten Produkten sind vom Hersteller folgende, in Anhang II des
@@ -948,6 +968,7 @@ anwendbar:
 
 
 ### § 18 Geräuschemissionen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001800000)
 
 (1) Für die Bewertung der Geräuschemissionen von Sportbooten mit
 Antriebsmotoren mit Z-Antrieb ohne integriertes Abgassystem oder
@@ -1033,6 +1054,7 @@ anzuwenden:
 
 
 ### § 19 Begutachtung nach Bauausführung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE001900000)
 
 Das in § 15 Absatz 2 bis 4 in Bezug genommene
 Konformitätsbewertungsverfahren ist nach Maßgabe des Anhangs V der
@@ -1040,6 +1062,7 @@ Richtlinie 2013/53/EU durchzuführen.
 
 
 ### § 20 Zusätzliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002000000)
 
 (1) Bei Verwendung des Moduls B des Anhangs II des Beschlusses Nr.
 768/2008/EG ist die EU-Baumusterprüfung so durchzuführen, wie in
@@ -1089,6 +1112,7 @@ zu überprüfen, ist das Verfahren des Anhangs VIII der Richtlinie
 
 
 ### § 21 Technische Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002100000)
 
 (1) Die in § 5 Absatz 2 genannten technischen Unterlagen haben alle
 sachdienlichen Angaben und Einzelheiten zu den Mitteln zu enthalten,
@@ -1103,9 +1127,11 @@ Konformitätsbewertung des Produkts klar verstanden werden können.
 
 
 ## Abschnitt 4 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNG000400000)
 
 
 ### § 22 Korrekturmaßnahmen der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002200000)
 
 (1) Hat die zuständige Behörde Grund zu der Annahme, dass ein Produkt,
 das in den Geltungsbereich dieser Verordnung fällt, ein Risiko für die
@@ -1155,6 +1181,7 @@ Europäische Union eingeführt hat.
 
 
 ### § 23 Vorläufige Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002300000)
 
 (1) Ergreift der Wirtschaftsakteur innerhalb der in § 22 Absatz 2 Satz
 1 genannten Frist keine geeigneten Maßnahmen, so trifft die zuständige
@@ -1224,6 +1251,7 @@ des Produkts vom Markt.
 
 
 ### § 24 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002400000)
 
 (1) Unabhängig von den Maßnahmen nach § 22 fordert die zuständige
 Behörde den betreffenden Wirtschaftsakteur oder den privaten Einführer
@@ -1263,9 +1291,11 @@ Produkts zu untersagen oder einzuschränken.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNG000500000)
 
 
 ### § 25 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002501126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1327,6 +1357,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 26 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002601126)
 
 Wer eine in § 25 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
 wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
@@ -1335,6 +1366,7 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 27 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_10/BJNR266810016.html#BJNR266810016BJNE002700000)
 
 (1) Produkte, die den Anforderungen der
 

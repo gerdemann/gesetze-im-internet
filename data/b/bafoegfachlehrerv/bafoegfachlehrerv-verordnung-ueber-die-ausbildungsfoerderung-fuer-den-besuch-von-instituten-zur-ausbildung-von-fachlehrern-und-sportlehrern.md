@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_gfachlehrerv/BJNR013100983.html#BJNR013100983BJNE000100327)
 
 Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes
 in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
@@ -26,6 +27,7 @@ wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/baf_gfachlehrerv/BJNR013100983.html#BJNR013100983BJNE000200327)
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz
 wird geleistet für den Besuch
@@ -63,6 +65,7 @@ gleichwertig ist.
 
 
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/baf_gfachlehrerv/BJNR013100983.html#BJNR013100983BJNE000300327)
 
 Die Auszubildenden der in § 1 Abs. 1 Nr. 2 genannten
 Ausbildungsstätten in den Fächern "Handarbeit" und "Hauswirtschaft"
@@ -74,6 +77,7 @@ Berufsfachschulen.
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/baf_gfachlehrerv/BJNR013100983.html#BJNR013100983BJNE000400327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
@@ -81,11 +85,13 @@ Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baf_gfachlehrerv/BJNR013100983.html#BJNR013100983BJNE000500327)
 
 Diese  Verordnung tritt mit Wirkung vom 1. August 1983 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_gfachlehrerv/BJNR013100983.html#BJNR013100983BJNE000600327)
 
 Der Bundesminister für Bildung und Wissenschaft
 

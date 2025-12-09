@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/krabwfbek/BJNR025040990.html#BJNR025040990BJNE000100308)
 
 Auf Grund des § 5 Abs. 4 des Gesetzes über die Errichtung eines Fonds
 "Kreditabwicklungsfonds" vom 23. September 1990 (BGBl. 1990 II S. 885,

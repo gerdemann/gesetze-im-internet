@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftspzustv/BJNR301000994.html#BJNR301000994BJNE000100000)
 
 Auf Grund des § 63 Nr. 2 des Luftverkehrsgesetzes in der Fassung der
 Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), der durch Artikel
@@ -32,6 +33,7 @@ verordnet das Bundesministerium für Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftspzustv/BJNR301000994.html#BJNR301000994BJNE000200000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten im Bereich der nach § 31c des
@@ -41,6 +43,7 @@ wird auf das Luftfahrt-Bundesamt übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftspzustv/BJNR301000994.html#BJNR301000994BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

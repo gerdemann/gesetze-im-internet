@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000100000)
 
 (1) Ziel des Gesetzes ist es, ein bedarfsgerechtes Hilfesystem bei
 geschlechtsspezifischer und häuslicher Gewalt bereitzustellen.
@@ -51,6 +52,7 @@ ergriffen werden:
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000200000)
 
 (1) Geschlechtsspezifische Gewalt im Sinne dieses Gesetzes ist Gewalt
 gegen Frauen und damit jede körperliche, sexuelle oder psychische
@@ -83,9 +85,11 @@ Gewalt bereitstellen sowie die Vorgaben nach § 6 erfüllen.
 
 
 ## § 3 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000300000)
 
 
 ## § 4 Inanspruchnahme von Schutz-, Beratungs- und Unterstützungsangeboten
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000400000)
 
 (1) (zukünftig in Kraft)
 
@@ -135,9 +139,11 @@ Beratungsangebote vor Ort.
 
 
 ## § 5 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000500000)
 
 
 ## § 6 Vorgaben für Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000600000)
 
 (1) Einrichtungen nach diesem Gesetz müssen den Vorgaben der Absätze 2
 bis 6 genügen.
@@ -190,6 +196,7 @@ gewährleisten.
 
 
 ## § 7 Trägeranerkennung
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000700000)
 
 (1) Träger von Einrichtungen nach diesem Gesetz bedürfen der
 Anerkennung durch die nach Landesrecht zuständigen Behörden.
@@ -232,6 +239,7 @@ anerkannt im Sinne des Gesetzes.
 
 
 ## § 8 Ausgangsanalyse und Entwicklungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000800000)
 
 (1) Die Länder ermitteln den Bestand von Schutz- und
 Beratungskapazitäten einschließlich deren Versorgungsdichte. Sie
@@ -270,6 +278,7 @@ Abweichungen nicht zulässig.
 
 
 ## § 9 Verhältnis zu anderen Rechtsnormen
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE000900000)
 
 (1) Die Regelungen des Achten Buches Sozialgesetzbuch gehen Regelungen
 nach diesem Gesetz vor. Es gilt § 10 Absatz 7 des Achten Buches
@@ -295,6 +304,7 @@ unberührt.
 
 
 ## § 10 Statistik; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE001000000)
 
 (1) Zur Beurteilung der Auswirkungen der Bestimmungen dieses Gesetzes
 und zu seiner Fortentwicklung werden Erhebungen über Einrichtungen,
@@ -390,6 +400,7 @@ insbesondere
 
 
 ## § 11 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/gewhg/BJNR0390B0025.html#BJNR0390B0025BJNE001100000)
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 evaluiert die Auswirkungen dieses Gesetzes auf wissenschaftlicher

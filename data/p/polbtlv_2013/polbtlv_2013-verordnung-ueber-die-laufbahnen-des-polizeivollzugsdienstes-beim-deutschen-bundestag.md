@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 Satz 1 des Bundespolizeibeamtengesetzes,
 der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
@@ -27,6 +28,7 @@ S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Geltung der Bundeslaufbahnverordnung
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000300000)
 
 Soweit in dieser Verordnung nichts anderes bestimmt ist, gelten für
 die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten beim
@@ -34,6 +36,7 @@ Deutschen Bundestag die Vorschriften der Bundeslaufbahnverordnung.
 
 
 ## § 2 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000400000)
 
 § 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass die
 besonderen gesundheitlichen Anforderungen, die der
@@ -42,6 +45,7 @@ werden.
 
 
 ## § 3 Ämter der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000500000)
 
 Die zu den Laufbahnen des Polizeivollzugsdienstes beim Deutschen
 Bundestag gehörenden Ämter und die ihnen zugeordneten
@@ -49,6 +53,7 @@ Amtsbezeichnungen ergeben sich aus der Anlage.
 
 
 ## § 4 Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000600000)
 
 (1) Für die Anwärterinnen und Anwärter für den mittleren
 Polizeivollzugsdienst beim Deutschen Bundestag ist der
@@ -64,6 +69,7 @@ Vorbereitungsdienst.
 
 
 ## § 5 Einstellung und Abordnung
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000700000)
 
 (1) Die Einstellung erfolgt durch die Verwaltung des Deutschen
 Bundestages.
@@ -74,6 +80,7 @@ eines Landes abgeordnet.
 
 
 ## § 6 Auswahlverfahren und Altersgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000801311)
 
 (1) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst
 beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an
@@ -124,6 +131,7 @@ Höchstaltersgrenzen.
 
 
 ## § 7 Gestaltung des Vorbereitungsdienstes, Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE000900000)
 
 (1) Die Gestaltung des Vorbereitungsdienstes für die Laufbahn des
 mittleren Polizeivollzugsdienstes beim Deutschen Bundestag richtet
@@ -141,6 +149,7 @@ entsprechend.
 
 
 ## § 8 Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001000000)
 
 (1) Als Befähigung für die jeweilige Laufbahn des
 Polizeivollzugsdienstes beim Deutschen Bundestag soll anerkannt werden
@@ -172,6 +181,7 @@ zu durchlaufen.
 
 
 ## § 9 Erhaltung der körperlichen Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001100000)
 
 Die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten sind
 verpflichtet, ihre körperliche Leistungsfähigkeit zu erhalten und nach
@@ -180,6 +190,7 @@ regelmäßig überprüft werden.
 
 
 ## § 10 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001200000)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
@@ -235,6 +246,7 @@ Studiengang.
 
 
 ## § 11 Fachspezifische Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001300000)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen
@@ -297,6 +309,7 @@ Bundeslaufbahnverordnung entsprechend.
 
 
 ## § 12 Übertragung eines Amtes der neuen Laufbahn
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001400000)
 
 § 40 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer
@@ -307,6 +320,7 @@ eines Polizeihauptmeisters mit Amtszulage innehaben.
 
 
 ## § 13 Übergangsregelungen für den Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001500000)
 
 Auf Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die bei
 Inkrafttreten dieser Verordnung zum Ausbildungs- oder Praxisaufstieg
@@ -318,6 +332,7 @@ auf die Einführungszeit § 11 Absatz 5 Satz 2 gilt.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahnen des
@@ -329,6 +344,7 @@ Kraft.
 (zu § 3)
 
 ## Anlage Zu den Laufbahnen gehörende Ämter; Amtsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/polbtlv_2013/BJNR328200013.html#BJNR328200013BJNE001701311)
 
 (Fundstelle: BGBl. I 2013, 3285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

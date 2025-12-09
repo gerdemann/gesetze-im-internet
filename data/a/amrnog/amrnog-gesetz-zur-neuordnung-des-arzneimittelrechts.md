@@ -20,34 +20,41 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNE001400319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG000100319)
 
 
 
 ## Art 3 - Überleitungsvorschriften zum Arzneimittelgesetz
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG000301308)
 
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG000700319)
 
 -
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG000800319)
 
 -
 
 
 ## Art 6 u. 7 - 
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG000900319)
 
 
 
 ## Art 8 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG001000319)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 sowie des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -57,6 +64,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 9 - Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG001100319)
 
 Mit Inkrafttreten dieses Gesetzes treten außer Kraft
 
@@ -90,6 +98,7 @@ Mit Inkrafttreten dieses Gesetzes treten außer Kraft
 
 
 ## Art 10 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amrnog/BJNR024459976.html#BJNR024459976BJNG001200319)
 
 Dieses Gesetz tritt am 1. Januar 1978 in Kraft, ausgenommen Artikel 3
 § 9, der am Tag nach der Verkündung in Kraft tritt.

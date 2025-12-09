@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## I. - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000100322)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001100322)
 
 (1) Der Bund trägt nach Maßgabe der §§ 21, 21a und 21b
 
@@ -105,11 +107,13 @@ Verwaltungsausgaben werden nicht übernommen. Der Bund trägt jedoch
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001200322)
 
 (Durch Zeitablauf überholt)
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001300322)
 
 (1) Mit Wirkung ab 1. April 1950 gehen auf den Bund über:
 
@@ -154,6 +158,7 @@ unberührt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001400322)
 
 (1) Die am 31. März 1950 in Geltung gewesenen bundes- und
 landesrechtlichen Bestimmungen über die in § 1 Abs. 1 aufgeführten
@@ -190,14 +195,17 @@ Bundes leisten, gilt folgendes:
 
 
 ## II. - Besonderer Teil
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000200322)
 
 
 
 ### 1. - Besatzungslasten
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000300322)
 
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001500322)
 
 Besatzungskosten und Auftragsausgaben (§ 1 Abs. 1 Ziff. 1) sind die
 Aufwendungen für Zweckbestimmungen, die in dem der Bundesregierung vom
@@ -206,6 +214,7 @@ Besatzungskosten und Auftragsausgaben vorgesehen sind.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001600322)
 
 (1) Aufwendungen im Sinne des § 1 Abs. 1 Ziff. 2 sind
 
@@ -275,10 +284,12 @@ Rechtsverordnung näher zu bestimmen.
 
 
 ### 2. - Kriegsfolgenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000400322)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001701301)
 
 (1) Aufwendungen der Kriegsfolgenhilfe sind die auf Grund gesetzlicher
 Anordnung von den Bezirksfürsorgeverbänden, den
@@ -306,6 +317,7 @@ für Kriegsfolgenhilfe-Empfänger.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001800322)
 
 Fürsorgekosten sind die Pflichtleistungen, die im Rahmen der
 Verordnung über die Fürsorgepflicht in der Fassung vom 20. August 1953
@@ -319,6 +331,7 @@ Richtsätzen und Richtlinien der öffentlichen Fürsorge gewährt werden.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE001900322)
 
 Fürsorgekosten sind sowohl Geldleistungen (laufende und einmalige
 Unterstützungen) als auch Sachleistungen der offenen und geschlossenen
@@ -326,6 +339,7 @@ Fürsorge.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002000322)
 
 Fürsorgekosten sind auch
 
@@ -368,6 +382,7 @@ Fürsorgekosten sind auch
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002101301)
 
 (1) Zur Kriegsfolgenhilfe gehören auch - soweit nicht die Bestimmung
 des § 15 oder des § 16 in Betracht kommt - die Kosten allgemeiner
@@ -383,6 +398,7 @@ nichtunterstützte Personen aufgewendet worden sind.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002200322)
 
 Werden auf Grund landesrechtlicher Bestimmungen, die nach dem 8. Mai
 1945 erlassen sind, an Stelle von Fürsorgeleistungen Leistungen
@@ -398,6 +414,7 @@ werden als den übrigen Empfängern der öffentlichen Fürsorge.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002300322)
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
@@ -411,10 +428,12 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
 
 ### 3. - Umsiedlung und Auswanderung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000500322)
 
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002400322)
 
 (1) Der Bund trägt die Kosten der Umsiedlung Heimatvertriebener im
 Sinne
@@ -439,6 +458,7 @@ zu tragen sind.
 
 
 #### § 14a
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002500322)
 
 (1) Der Bund trägt die Kosten der Auswanderung von Kriegsfolgenhilfe-
 Empfängern. Als Kriegsfolgenhilfe-Empfänger gelten die in § 7 Abs. 2
@@ -455,10 +475,12 @@ sowie der lagermäßigen Unterbringung und Versorgung.
 
 
 ### 4. - Rückführung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000600322)
 
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002600322)
 
 (1) Der Bund trägt die Kosten der Rückführung von Deutschen aus dem
 Ausland und aus den unter fremder Verwaltung stehenden deutschen
@@ -474,10 +496,12 @@ zu bestimmen.
 
 
 ### 5. - Grenzdurchgangslager
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000700322)
 
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002700322)
 
 Der Bund trägt die Kosten für die von der Bundesregierung als
 Grenzdurchgangslager von übergebietlicher Bedeutung anerkannten
@@ -485,17 +509,21 @@ Einrichtungen.
 
 
 ### 5a. - Aufwendungen der Arbeitslosenfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000800322)
 
 
 
 #### (XXXX) §§ 16a bis 16c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002800322)
 
 
 ### 6. - Zuschüsse zu den Lasten der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG000900322)
 
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE002900322)
 
 Zuschüsse zu den Lasten der Sozialversicherung (§ 1 Abs. 1 Ziff. 11)
 sind die auf Grund der folgenden Bestimmungen und der Verordnung über
@@ -556,10 +584,12 @@ i)  Rentenauslagen für im Land Rheinland-Pfalz wohnende Berechtigte der
 
 
 ## III. - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNG001000322)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003000322)
 
 (1) Für den Übergang der in § 1 Abs. 1 dieses Gesetzes genannten
 Ausgaben und der in § 3 dieses Gesetzes genannten Einnahmen ist
@@ -623,6 +653,7 @@ nicht decken, bleibt das Land mit dem Unterschiedsbetrag belastet.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003100322)
 
 Für den Ertrag der Monopole gilt folgendes:
 
@@ -643,6 +674,7 @@ Für den Ertrag der Monopole gilt folgendes:
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003200322)
 
 (1) Auf Ersuchen des Bundesministers der Finanzen hat der
 Bundesrechnungshof eine Überprüfung vorzunehmen, ob in einem Lande das
@@ -670,6 +702,7 @@ anrufen.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003300322)
 
 (1) Ausgaben für die in § 1 Abs. 1 Ziff. 1, 2, 7 bis 10 aufgeführten
 Sachgebiete sind für Rechnung des Bundes zu leisten. Die damit
@@ -680,6 +713,7 @@ Ziff. 3 zweiter Halbsatz bezeichneten Aufwendungen.
 
 
 ### § 21a
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003400322)
 
 (1) Die im Geltungsbereich des Gesetzes entstehenden Aufwendungen für
 die in § 1 Abs. 1 Ziff. 3 bis 6 aufgeführten Sachgebiete werden vom
@@ -815,6 +849,7 @@ Zustimmung des Bundesrates bedarf, dieser Änderung anzupassen.
 
 
 ### § 21b
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003500322)
 
 (1) Für die in § 1 Abs. 1 Ziff. 3 zweiter Halbsatz bezeichneten
 Fürsorgekosten stehen den Ländern jährliche Pauschbeträge in Höhe der
@@ -842,6 +877,7 @@ Leistungsbereiche aus der Zeit vor dem 1. Januar 1976.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003600322)
 
 Die Ansprüche des Bundes auf den Ausgleich von Vorteilen, die den
 Ländern aus den Aufwendungen des Bundes auf Grund dieses Gesetzes
@@ -849,6 +885,7 @@ zuwachsen, werden durch dieses Gesetz nicht berührt.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE003700322)
 
 (1) Mit Wirkung vom 1. April 1950 ab übernimmt der Bund die Anteile
 der Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und des
@@ -874,6 +911,7 @@ Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 994)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/_blg_1/BJNR007730950.html#BJNR007730950BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

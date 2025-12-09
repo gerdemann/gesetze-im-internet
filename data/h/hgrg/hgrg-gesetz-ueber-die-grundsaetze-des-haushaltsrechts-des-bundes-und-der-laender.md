@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001000322)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Teil I - Vorschriften für die Gesetzgebung des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000100322)
 
 
 
 ### § 1 Gesetzgebungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001102301)
 
 Die Vorschriften dieses Teils enthalten Grundsätze für die
 Gesetzgebung des Bundes und der Länder. Bund und Länder sind
@@ -37,6 +40,7 @@ verpflichtet, ihr Haushaltsrecht nach diesen Grundsätzen zu regeln.
 
 
 ### § 1a Haushaltswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007700160)
 
 (1) Die Haushaltswirtschaft kann in ihrem Rechnungswesen im Rahmen der
 folgenden Vorschriften kameral oder nach den Grundsätzen der
@@ -67,10 +71,12 @@ grundsätzlich eine Kosten- und Leistungsrechnung einzuführen.
 
 
 ### Abschnitt I - Allgemeine Vorschriften zum Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000200322)
 
 
 
 #### § 2 Bedeutung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001201160)
 
 Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs
 beziehungsweise bei doppisch basierter Haushaltswirtschaft auch des
@@ -82,6 +88,7 @@ gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.
 
 
 #### § 3 Wirkungen des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001300322)
 
 (1) Der Haushaltsplan ermächtigt die Verwaltung, Ausgaben zu leisten
 und Verpflichtungen einzugehen.
@@ -91,6 +98,7 @@ weder begründet noch aufgehoben.
 
 
 #### § 4 Haushaltsjahr
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001401301)
 
 Rechnungsjahr (Haushaltsjahr) ist das Kalenderjahr. Das für die
 Finanzen zuständige Ministerium kann für einzelne Bereiche etwas
@@ -98,6 +106,7 @@ anderes bestimmen.
 
 
 #### § 5 Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001500322)
 
 Bei Aufstellung und Ausführung des Haushaltsplans sind nur die
 Ausgaben und die Ermächtigungen zum Eingehen von Verpflichtungen zur
@@ -107,6 +116,7 @@ der Aufgaben des Bundes oder des Landes notwendig sind.
 
 
 #### § 6 Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001601301)
 
 (1) Bei Aufstellung und Ausführung des Haushaltsplans sind die
 Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten.
@@ -119,6 +129,7 @@ eingeführt werden.
 
 
 #### § 6a Budgetierung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007401160)
 
 (1) Die Einnahmen, Ausgaben und Verpflichtungsermächtigungen können im
 Rahmen eines Systems der dezentralen Verantwortung einer
@@ -137,6 +148,7 @@ Zweckbindung, Übertragbarkeit und Deckungsfähigkeit getroffen werden.
 
 
 #### § 7 Grundsatz der Gesamtdeckung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001701301)
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die
 Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden,
@@ -145,6 +157,7 @@ zugelassen ist.
 
 
 #### § 7a Grundsätze der staatlichen Doppik
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007800160)
 
 (1) Die staatliche Doppik folgt den Vorschriften des Ersten und des
 Zweiten Abschnitts Erster und Zweiter Unterabschnitt des Dritten
@@ -192,6 +205,7 @@ erarbeitet.
 
 
 #### § 7b Periodengerechte Aufteilung von Zinskosten im Haushalt des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE008100123)
 
 Im Haushalt des Bundes sind bei Verkauf und Kauf von selbst
 emittierten Wertpapieren die gesamten Zinskosten periodengerecht über
@@ -202,10 +216,12 @@ Zahlungen entsprechen.
 
 
 ### Abschnitt II - Aufstellung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000300322)
 
 
 
 #### § 8 Vollständigkeit und Einheit, Fälligkeitsprinzip
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001801123)
 
 (1) Für jedes Haushaltsjahr ist ein Haushaltsplan aufzustellen.
 
@@ -228,6 +244,7 @@ erfolgt in periodengerechter Aufteilung entsprechend § 7b.
 
 
 #### § 9 Geltungsdauer der Haushaltspläne
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE001900322)
 
 (1) Der Haushaltsplan kann für zwei Haushaltsjahre, nach Jahren
 getrennt, aufgestellt werden.
@@ -240,6 +257,7 @@ aufeinanderfolgenden Haushaltsjahren beginnen.
 
 
 #### § 10 Gliederung von Einzelplänen und Gesamtplan
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002002160)
 
 (1) Der Haushaltsplan besteht aus den Einzelplänen und dem Gesamtplan,
 bei einem doppischen Rechnungswesen aus einem Erfolgsplan auf Ebene
@@ -338,6 +356,7 @@ Zahlungsmittelbestandes (doppischer Finanzplan) und eine Übersicht
 
 
 #### § 11 Übersichten zum Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002102160)
 
 (1) Der Haushaltsplan hat folgende Anlagen:
 
@@ -380,6 +399,7 @@ funktionale Gliederung des Produkthaushalts (Produktrahmen).
 
 
 #### § 12 Bruttoveranschlagung, Einzelveranschlagung, Selbstbewirtschaftungsmittel, Erläuterungen, Planstellen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002201160)
 
 (1) Die Einnahmen und Ausgaben in kameralen Haushalten, Aufwendungen
 und Erträge in doppischen Haushalten sowie die zur Produkterstellung
@@ -419,6 +439,7 @@ Haushaltsplan auszubringen.
 
 
 #### § 13 Kreditermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002302160)
 
 (1) Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das für die
 Finanzen zuständige Ministerium Kredite aufnehmen darf
@@ -448,6 +469,7 @@ verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes.
 
 
 #### § 14 Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002400322)
 
 Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen
 außerhalb der Verwaltung des Bundes oder des Landes zur Erfüllung
@@ -458,6 +480,7 @@ im notwendigen Umfang befriedigt werden kann.
 
 
 #### § 15 Übertragbarkeit, Deckungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002502160)
 
 (1) Ausgaben für Investitionen und Ausgaben aus zweckgebundenen
 Einnahmen sind übertragbar. Andere Ausgaben können im Haushaltsplan
@@ -480,6 +503,7 @@ erklärt werden.
 
 
 #### § 16 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002601301)
 
 (1) Ausgaben und Verpflichtungsermächtigungen für Baumaßnahmen dürfen
 erst veranschlagt werden, wenn Pläne, Kostenermittlungen und
@@ -501,6 +525,7 @@ dem Land ein Nachteil erwachsen würde.
 
 
 #### § 17 Fehlbetrag
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002701160)
 
 Ein finanzieller Fehlbetrag ist spätestens in den Haushaltsplan für
 das zweitnächste Haushaltsjahr einzustellen. Er darf durch Kredite nur
@@ -509,6 +534,7 @@ ausgeschöpft sind.
 
 
 #### § 18 Betriebe, Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002801160)
 
 (1) Betriebe des Bundes oder des Landes haben einen Wirtschaftsplan
 aufzustellen, wenn ein Wirtschaften nach dem Haushaltsplan des Bundes
@@ -527,10 +553,12 @@ aufzunehmen.
 
 
 ### Abschnitt III - Ausführung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000400322)
 
 
 
 #### § 19 Bewirtschaftung der Ansätze des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE002901160)
 
 (1) Einnahmen sind rechtzeitig und vollständig zu erheben. In der
 staatlichen Doppik sind Erträge und Forderungen vollständig zu
@@ -549,6 +577,7 @@ Vereinbarungen nicht etwas anderes bestimmt ist.
 
 
 #### § 20 Bruttonachweis, Einzelnachweis
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003000322)
 
 (1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei dem
 hierfür vorgesehenen Titel zu buchen, soweit sich aus § 12 Abs. 1 Satz
@@ -560,11 +589,13 @@ gilt für die Inanspruchnahme von Verpflichtungsermächtigungen.
 
 
 #### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003102160)
 
 -
 
 
 #### § 22 Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003202160)
 
 (1) Maßnahmen, die den Bund oder das Land zur Leistung von Ausgaben in
 künftigen Haushaltsjahren verpflichten können, sind nur zulässig, wenn
@@ -597,6 +628,7 @@ Das Nähere regelt das für die Finanzen zuständige Ministerium.
 
 
 #### § 23 Gewährleistungen, Kreditzusagen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003301301)
 
 (1) Die Übernahme von Bürgschaften, Garantien oder sonstigen
 Gewährleistungen, die zu Ausgaben in künftigen Haushaltsjahren führen
@@ -618,6 +650,7 @@ Ministeriums abgesehen werden.
 
 
 #### § 24 Andere Maßnahmen von finanzieller Bedeutung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003401301)
 
 Der Erlaß von Verwaltungsvorschriften, der Abschluß von Tarifverträgen
 und die Gewährung von über- oder außertariflichen Leistungen sowie die
@@ -633,6 +666,7 @@ Haushaltsjahr führen können.
 
 
 #### § 25 Haushaltswirtschaftliche Sperre
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003501301)
 
 Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann es
 das für die Finanzen zuständige Ministerium von seiner Einwilligung
@@ -641,6 +675,7 @@ geleistet werden.
 
 
 #### § 26 Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003600322)
 
 (1) Zuwendungen dürfen nur unter den Voraussetzungen des § 14 gewährt
 werden. Dabei ist zu bestimmen, wie die zweckentsprechende Verwendung
@@ -653,6 +688,7 @@ verwaltet werden, ist Absatz 1 entsprechend anzuwenden.
 
 
 #### § 27 Sachliche und zeitliche Bindung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003702160)
 
 (1) Ermächtigungen dürfen nur zu im Haushaltsplan bezeichneten Zwecken
 und Leistungen, soweit und solange sie fortdauern, und nur bis zum
@@ -682,6 +718,7 @@ Ministeriums.
 
 
 #### § 28 Personalwirtschaftliche Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003800322)
 
 (1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare
 Planstelle verliehen werden.
@@ -692,6 +729,7 @@ Verfügung gestellt sind.
 
 
 #### § 29 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE003901301)
 
 (1) Baumaßnahmen dürfen nur begonnen werden, wenn ausführliche
 Entwurfszeichnungen und Kostenberechnungen vorliegen, es sei denn, daß
@@ -707,6 +745,7 @@ entsprechend.
 
 
 #### § 30 Öffentliche Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004001360)
 
 Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine
 Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit
@@ -720,6 +759,7 @@ Abgabe von Angeboten auffordert.
 
 
 #### § 31 Änderung von Verträgen, Veränderung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004101301)
 
 (1) Verträge dürfen zum Nachteil des Bundes oder Landes nur in
 besonders begründeten Ausnahmefällen aufgehoben oder geändert werden.
@@ -754,10 +794,12 @@ verzichtet.
 
 
 ### Abschnitt IV - Zahlungen, Buchführung und Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000500322)
 
 
 
 #### § 32 Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004201301)
 
 Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder
 geleistet werden. Die Anordnung der Zahlung muß durch das zuständige
@@ -767,6 +809,7 @@ zuständige Ministerium kann Ausnahmen zulassen.
 
 
 #### § 33 Buchführung, Belegpflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004302123)
 
 (1) Über Zahlungen ist nach der im Haushaltsplan oder sonst
 vorgesehenen Ordnung in zeitlicher Folge Buch zu führen. Das für die
@@ -781,11 +824,13 @@ Bundeshaushalt gebucht.
 
 
 #### § 33a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007501160)
 
 -
 
 
 #### § 34 Buchung nach Haushaltsjahren
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004402160)
 
 (1) Zahlungen sowie eingegangene Verpflichtungen, Geldforderungen und
 andere Bewirtschaftungsvorgänge, für die nach § 33 Satz 2 die
@@ -828,6 +873,7 @@ Kosten.
 
 
 #### § 35 Vermögensbuchführung, integrierte Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004500322)
 
 Über das Vermögen und die Schulden ist Buch zu führen oder ein anderer
 Nachweis zu erbringen. Die Buchführung über das Vermögen und die
@@ -836,6 +882,7 @@ verbunden werden.
 
 
 #### § 36 Abschluß der Bücher
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004601301)
 
 (1) Die Bücher sind jährlich abzuschließen. Das für die Finanzen
 zuständige Ministerium bestimmt den Zeitpunkt des Abschlusses.
@@ -845,6 +892,7 @@ mehr für den abgelaufenen Zeitraum gebucht werden.
 
 
 #### § 37 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004702160)
 
 (1) Die zuständigen Stellen haben für jedes Haushaltsjahr auf der
 Grundlage der abgeschlossenen Bücher Rechnung zu legen. Das für die
@@ -867,6 +915,7 @@ Rechnung zu legen.
 
 
 #### § 38 Gliederung der Haushaltsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004801160)
 
 (1) In der kameralen Haushaltsrechnung sind die Einnahmen und Ausgaben
 nach der in § 33 bezeichneten Ordnung den Ansätzen des Haushaltsplans
@@ -956,6 +1005,7 @@ unterliegen.
 
 
 #### § 39 Kassenmäßiger Abschluß
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE004901160)
 
 In kameralen Haushalten sind in dem kassenmäßigen Abschluss
 nachzuweisen:
@@ -1004,6 +1054,7 @@ sowie § 49a entsprechend anzuwenden.
 
 
 #### § 40 Haushaltsabschluß
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005001160)
 
 In kameralen Haushalten sind in dem Haushaltsabschluss nachzuweisen:
 
@@ -1049,16 +1100,19 @@ sowie § 49a entsprechend anzuwenden.
 
 
 #### § 41 Abschlußbericht
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005100322)
 
 Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem
 Bericht zu erläutern.
 
 
 ### Abschnitt V - Prüfung und Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000600322)
 
 
 
 #### § 42 Aufgaben des Rechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005200322)
 
 (1) Die gesamte Haushalts- und Wirtschaftsführung des Bundes und der
 Länder einschließlich ihrer Sondervermögen und Betriebe wird von
@@ -1088,6 +1142,7 @@ Das Nähere wird durch Gesetz geregelt.
 
 
 #### § 43 Prüfung bei Stellen außerhalb der Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005300322)
 
 (1) Der Rechnungshof ist, unbeschadet weitergehender landesrechtlicher
 Bestimmungen, berechtigt, bei Stellen außerhalb der Verwaltung des
@@ -1123,6 +1178,7 @@ Inanspruchnahme des Bundes oder des Landes vorgelegen haben.
 
 
 #### § 44 Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005401301)
 
 (1) Der Rechnungshof prüft die Betätigung des Bundes oder des Landes
 bei Unternehmen in einer Rechtsform des privaten Rechts, an denen der
@@ -1134,6 +1190,7 @@ oder das Land Mitglied ist.
 
 
 #### § 45 Gemeinsame Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005500322)
 
 Sind für die Prüfung mehrere Rechnungshöfe zuständig, so soll
 gemeinsam geprüft werden. Soweit nicht die Prüfung durch einen
@@ -1143,6 +1200,7 @@ können die Rechnungshöfe einander durch Vereinbarung Prüfungsaufgaben
 
 
 #### § 46 Ergebnis der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005600322)
 
 (1) Der Rechnungshof faßt das Ergebnis seiner Prüfung, soweit es für
 die Entlastung der Regierung von Bedeutung sein kann, jährlich in
@@ -1157,6 +1215,7 @@ jederzeit unterrichten.
 
 
 #### § 47 Entlastung, Rechnung des Rechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005700322)
 
 (1) Die gesetzgebenden Körperschaften beschließen auf Grund der
 Rechnung und des jährlichen Berichts des Rechnungshofes über die
@@ -1167,10 +1226,12 @@ Körperschaften geprüft, die auch die Entlastung erteilen.
 
 
 ### Abschnitt VI - Sondervermögen des Bundes oder des Landes und bundesunmittelbare oder landesunmittelbare juristische Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000700322)
 
 
 
 #### § 48 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005800322)
 
 (1) Auf Sondervermögen des Bundes oder des Landes und bundes- oder
 landesunmittelbare juristische Personen des öffentlichen Rechts ist
@@ -1191,16 +1252,19 @@ unmittelbar oder mittelbar mit Mehrheit beteiligt sind, gelten die §§
 
 
 ## Teil II - Vorschriften, die einheitlich und unmittelbar gelten
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000800322)
 
 
 
 ### § 49 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE005900322)
 
 Die Vorschriften dieses Teils gelten einheitlich und unmittelbar für
 den Bund und die Länder.
 
 
 ### § 49a Gremium zur Standardisierung des staatlichen Rechnungswesens
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007902123)
 
 (1) Zur Gewährleistung einer einheitlichen Verfahrens- und
 Datengrundlage jeweils für Kameralistik, Doppik und Produkthaushalte
@@ -1233,6 +1297,7 @@ den Standards nach § 7a Absatz 2 für die staatliche Doppik.
 
 
 ### § 49b Finanzstatistische Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE008000160)
 
 Bund und Länder stellen unabhängig von der Art ihrer
 Haushaltswirtschaft sicher, dass zur Erfüllung finanzstatistischer
@@ -1244,6 +1309,7 @@ werden.
 
 
 ### § 50 Verfahren bei der Finanzplanung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006000322)
 
 (1) Bund und Länder legen ihrer Haushaltswirtschaft je für sich eine
 fünfjährige Finanzplanung zugrunde (§ 9 Abs. 1 und § 14 des Gesetzes
@@ -1282,6 +1348,7 @@ Planungsjahren zu sichern.
 
 
 ### § 51 Koordinierende Beratung der Grundannahmen der Haushalts- und Finanzplanungen; Einhaltung der Haushaltsdisziplin im Rahmen der Europäischen Wirtschafts- und Währungsunion
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006106123)
 
 Zur Koordinierung der Haushalts- und Finanzplanungen des Bundes, der
 Länder und der Gemeinden und Gemeindeverbände berät der Stabilitätsrat
@@ -1300,11 +1367,13 @@ und Gemeindeverbände enthalten sind.
 
 
 ### § 51a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007602160)
 
 -
 
 
 ### § 52 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006206160)
 
 (1) Bund und Länder erteilen durch ihre für die Finanzen zuständigen
 Ministerien dem Stabilitätsrat die Auskünfte, die dieser zur
@@ -1338,6 +1407,7 @@ des Landes zu.
 
 
 ### § 53 Rechte gegenüber privatrechtlichen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006300322)
 
 (1) Gehört einer Gebietskörperschaft die Mehrheit der Anteile eines
 Unternehmens in einer Rechtsform des privaten Rechts oder gehört ihr
@@ -1382,6 +1452,7 @@ aus Absatz 1 der Gebietskörperschaft zustehen.
 
 
 ### § 54 Unterrichtung der Rechnungsprüfungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006400322)
 
 (1) In den Fällen des § 53 kann in der Satzung (im
 Gesellschaftsvertrag) mit Dreiviertelmehrheit des vertretenen Kapitals
@@ -1396,6 +1467,7 @@ unberührt.
 
 
 ### § 55 Prüfung von juristischen Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006500322)
 
 (1) Erhält eine juristische Person des öffentlichen Rechts, die nicht
 Gebietskörperschaft, Gemeindeverband, Zusammenschluß von
@@ -1418,6 +1490,7 @@ Abs. 2 Satz 2 und 3).
 
 
 ### § 56 Rechte der Rechnungsprüfungsbehörde, gegenseitige Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006601301)
 
 (1) Erlassen oder erläutern die obersten Behörden einer
 Gebietskörperschaft allgemeine Vorschriften, welche die
@@ -1439,6 +1512,7 @@ und Prüfungsergebnisse.
 
 
 ### § 57 Bundeskassen, Landeskassen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006701160)
 
 (1) Die Aufgaben der Kassen bei der Annahme und der Leistung von
 Zahlungen für den Bund werden für alle Stellen innerhalb und außerhalb
@@ -1455,13 +1529,16 @@ anderes bestimmt ist.
 
 
 ### (XXXX) §§ 57a bis 57c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007101301)
 
 
 ## Teil III - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNG000900322)
 
 
 
 ### § 58 Öffentlich-rechtliche Dienst- oder Amtsverhältnisse, Zuständigkeitsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006801301)
 
 (1) Vorschriften dieses Gesetzes für Beamte sind auf andere
 öffentlich-rechtliche Dienst- oder Amtsverhältnisse entsprechend
@@ -1482,11 +1559,13 @@ bedarf, bleiben unberührt.
 
 
 ### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE006901160)
 
 -
 
 
 ### § 60 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hgrg/BJNR012730969.html#BJNR012730969BJNE007000322)
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
 

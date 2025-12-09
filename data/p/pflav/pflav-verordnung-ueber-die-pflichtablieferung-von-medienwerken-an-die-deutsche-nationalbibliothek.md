@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000100000)
 
 Auf Grund des § 20 des Gesetzes über die Deutsche Nationalbibliothek
 vom 22. Juni 2006 (BGBl. I S. 1338) in Verbindung mit dem
@@ -28,6 +29,7 @@ die Bundeskanzlerin:
 
 
 ## § 1 Einschränkung der Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000200000)
 
 (1) Zur Erfüllung der Aufgaben der Deutschen Nationalbibliothek
 (Bibliothek) sind Medienwerke von den Ablieferungspflichtigen nach den
@@ -42,6 +44,7 @@ Bibliothek besteht nicht.
 
 
 ## § 2 Beschaffenheit körperlicher Medienwerke und Umfang der Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000300000)
 
 (1) Die Medienwerke sind in unbenutztem Zustand und in marktüblicher
 Ausführung abzuliefern.
@@ -80,6 +83,7 @@ machen.
 
 
 ## § 3 Einschränkung der Ablieferungspflicht für körperliche Medienwerke in verschiedenen Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000400000)
 
 (1) Von inhaltlich oder bibliografisch unveränderten Neuauflagen
 einschließlich höherer Tausender sind keine Ausfertigungen
@@ -93,6 +97,7 @@ einzelner Ausgaben verzichten.
 
 
 ## § 4 Einschränkung der Ablieferungspflicht für bestimmte Gattungen von körperlichen Medienwerken
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000501116)
 
 Nicht abzuliefern sind
 
@@ -167,6 +172,7 @@ Nicht abzuliefern sind
 
 
 ## § 5 Ablieferungsverfahren für körperliche Medienwerke
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000601116)
 
 (1) Die Ablieferungspflichtigen haben die Medienwerke einschließlich
 der in § 2 Abs. 4 bezeichneten Teile und Gegenstände unaufgefordert an
@@ -184,6 +190,7 @@ Verfahren zugänglich zu machen.
 
 
 ## § 6 Zuschuss für körperliche Medienwerke
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000700000)
 
 (1) Ein Zuschuss nach § 18 Satz 1 des Gesetzes über die Deutsche
 Nationalbibliothek wird gewährt, wenn die Gesamtauflage des
@@ -229,6 +236,7 @@ bleibt unberührt.
 
 
 ## § 7 Beschaffenheit von Netzpublikationen und Umfang der Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000800000)
 
 (1) Unkörperliche Medienwerke (Netzpublikationen) sind in
 marktüblicher Ausführung und in mit marktüblichen Hilfsmitteln
@@ -252,6 +260,7 @@ bereitzustellen.
 
 
 ## § 8 Einschränkung der Ablieferungspflicht für Netzpublikationen in verschiedenen Ausgaben und aufgrund technischer Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE000900000)
 
 (1) Die Bibliothek kann auf die Ablieferung oder elektronische
 Abholung einzelner Ausgaben von Netzpublikationen verzichten, wenn
@@ -271,6 +280,7 @@ eingeschränkt werden.
 
 
 ## § 9 Weitere Einschränkungen der Ablieferungspflicht für Netzpublikationen
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE001001116)
 
 Nicht abzuliefern sind
 
@@ -322,6 +332,7 @@ Nicht abzuliefern sind
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflav/BJNR201300008.html#BJNR201300008BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

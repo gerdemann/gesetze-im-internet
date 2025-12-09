@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rkonkordatbek/BJNR206790933.html#BJNR206790933BJNE000100303)
 
 
 *   Absatz 1 und 2

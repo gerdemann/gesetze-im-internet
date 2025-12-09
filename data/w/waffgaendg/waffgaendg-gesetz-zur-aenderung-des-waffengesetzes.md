@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/waffg_ndg/BJNR004170976.html#BJNR004170976BJNE000100325)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/waffg_ndg/BJNR004170976.html#BJNR004170976BJNE000200325)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/waffg_ndg/BJNR004170976.html#BJNR004170976BJNE000300325)
 
 (1) Die vor Inkrafttreten dieses Gesetzes nach § 59 Abs. 4 und, soweit
 sie nur noch zur Ausübung der tatsächlichen Gewalt berechtigen, auch
@@ -61,6 +64,7 @@ anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/waffg_ndg/BJNR004170976.html#BJNR004170976BJNE000400325)
 
 Der Bundesminister des Innern wird ermächtigt, das Waffengesetz unter
 Berücksichtigung der Änderungen durch dieses Gesetz mit neuem Datum
@@ -68,6 +72,7 @@ bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/waffg_ndg/BJNR004170976.html#BJNR004170976BJNE000500325)
 
 (1) Dieses Gesetz tritt am 1. Juli 1976 in Kraft. Am Tage nach der
 Verkündung des Gesetzes treten in Kraft die Vorschriften, die zum

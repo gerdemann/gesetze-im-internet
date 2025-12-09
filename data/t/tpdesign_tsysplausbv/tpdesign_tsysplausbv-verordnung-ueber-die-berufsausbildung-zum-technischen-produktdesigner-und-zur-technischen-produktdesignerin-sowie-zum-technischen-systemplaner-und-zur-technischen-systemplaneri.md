@@ -32,6 +32,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000101119)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -42,9 +43,11 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNG000101119)
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000301119)
 
 Die Ausbildungsberufe
 
@@ -60,11 +63,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000401119)
 
 Die Ausbildungen dauern jeweils dreieinhalb Jahre.
 
 
 ### § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000501119)
 
 (1) Die Ausbildungen gliedern sich wie folgt:
 
@@ -110,9 +115,11 @@ gesamte Ausbildungszeit vermittelt.
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNG000201119)
 
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000601119)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -244,6 +251,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach §
 
 
 ### § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000701119)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -265,6 +273,7 @@ durchzusehen.
 
 
 ### § 6 Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000801119)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -286,6 +295,7 @@ Prozent gewichtet.
 
 
 ### § 7 Teil 1 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE000901119)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -340,6 +350,7 @@ Vorgaben:
 
 
 ### § 8 Teil 2 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001001119)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -503,6 +514,7 @@ folgende Vorgaben:
 
 
 ### § 9 Gewichtungs- und Bestehensregelungen in der Fachrichtung Produktgestaltung und -konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001101119)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -574,6 +586,7 @@ gewichten.
 
 
 ### § 10 Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001201119)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -595,6 +608,7 @@ Prozent gewichtet.
 
 
 ### § 11 Teil 1 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001301119)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -649,6 +663,7 @@ Vorgaben:
 
 
 ### § 12 Teil 2 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001401119)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -813,6 +828,7 @@ folgende Vorgaben:
 
 
 ### § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Maschinen- und Anlagenkonstruktion
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001501119)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -885,9 +901,11 @@ gewichten.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf zum Technischen Systemplaner und zur Technischen Systemplanerin
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNG000301119)
 
 
 ### § 14 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001601119)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 3, Sachliche Gliederung) aufgeführten
@@ -1040,6 +1058,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach §
 
 
 ### § 15 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001701119)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -1061,6 +1080,7 @@ durchzusehen.
 
 
 ### § 16 Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001801119)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -1082,6 +1102,7 @@ Prozent gewichtet.
 
 
 ### § 17 Teil 1 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE001901119)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1136,6 +1157,7 @@ folgende Vorgaben:
 
 
 ### § 18 Teil 2 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002001119)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -1305,6 +1327,7 @@ folgende Vorgaben:
 
 
 ### § 19 Gewichtungs- und Bestehensregelungen in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002101119)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1376,6 +1399,7 @@ gewichten.
 
 
 ### § 20 Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002201119)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -1397,6 +1421,7 @@ Prozent gewichtet.
 
 
 ### § 21 Teil 1 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002301119)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1454,6 +1479,7 @@ folgende Vorgaben:
 
 
 ### § 22 Teil 2 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002401119)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -1559,6 +1585,7 @@ folgende Vorgaben:
 
 
 ### § 23 Gewichtungs- und Bestehensregelungen in der Fachrichtung Stahl- und Metallbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002501119)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1630,6 +1657,7 @@ gewichten.
 
 
 ### § 24 Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002601119)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -1651,6 +1679,7 @@ Prozent gewichtet.
 
 
 ### § 25 Teil 1 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002701119)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1708,6 +1737,7 @@ folgende Vorgaben:
 
 
 ### § 26 Teil 2 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002801119)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -1858,6 +1888,7 @@ folgende Vorgaben:
 
 
 ### § 27 Gewichtungs- und Bestehensregelungen in der Fachrichtung Elektrotechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE002901119)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1929,9 +1960,11 @@ gewichten.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNG000401119)
 
 
 ### § 28 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE003001119)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 in den Ausbildungsberufen Technischer Zeichner/Technische Zeichnerin
@@ -1943,6 +1976,7 @@ abgelegt wurde.
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE003101119)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig treten
 die Technischer Zeichner-Ausbildungsverordnung vom 17. Dezember 1993
@@ -1955,6 +1989,7 @@ Technischen Produktdesignerin vom 24. Juni 2005 (BGBl. I S. 1804,
 (zu § 4 Absatz 1 Satz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE003201119)
 
 (Fundstelle: BGBl. I 2011, 1227 - 1232)
 
@@ -2878,6 +2913,7 @@ Fähigkeiten**
 (zu § 4 Absatz 1 Satz 2)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE003301119)
 
 (Fundstelle: BGBl. I 2011, 1233 - 1243)
 
@@ -4657,6 +4693,7 @@ ausarbeiten
 (zu § 14 Absatz 1 Satz 1)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE003401119)
 
 (Fundstelle: BGBl. I 2011, 1244 - 1250)
 
@@ -5731,6 +5768,7 @@ Fähigkeiten**
 (zu § 14 Absatz 1 Satz 2)
 
 ### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+[Direktlink](https://www.gesetze-im-internet.de/tpdesign_tsysplausbv/BJNR121500011.html#BJNR121500011BJNE003501119)
 
 (Fundstelle: BGBl. I 2011, 1251 - 1261)
 

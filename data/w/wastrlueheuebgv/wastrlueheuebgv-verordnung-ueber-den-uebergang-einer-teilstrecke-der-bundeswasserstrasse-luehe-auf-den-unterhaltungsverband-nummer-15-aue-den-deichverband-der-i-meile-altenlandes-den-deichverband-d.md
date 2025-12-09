@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrl_he_bgv/BJNR015600016.html#BJNR015600016BJNE000100000)
 
 Auf Grund des § 2 Absatz 1 Satz 2 in Verbindung mit Absatz 2 des
 Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrl_he_bgv/BJNR015600016.html#BJNR015600016BJNE000200000)
 
 Die Teilstrecke der Bundeswasserstraße Lühe vom Unterwasser der Au-
 Mühle (Lühe-km 0,00) bis zur Nordkante der Marschdammbrücke (Lühe-km
@@ -41,10 +43,12 @@ Flecken Horneburg über.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrl_he_bgv/BJNR015600016.html#BJNR015600016BJNE000300000)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrl_he_bgv/BJNR015600016.html#BJNR015600016BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

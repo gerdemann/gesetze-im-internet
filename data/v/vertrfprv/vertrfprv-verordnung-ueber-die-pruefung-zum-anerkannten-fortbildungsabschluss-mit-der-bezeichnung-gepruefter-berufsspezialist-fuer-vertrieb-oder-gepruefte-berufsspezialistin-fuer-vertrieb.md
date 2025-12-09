@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-7-64 v. 31.10.2001 I 2882 (FachbPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a
 Absatz 1 Nummer 1 und mit § 53b des Berufsbildungsgesetzes in der
@@ -32,6 +33,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Ergänzung der
@@ -87,6 +89,7 @@ für Vertrieb“ oder „Geprüfte Berufsspezialistin für Vertrieb“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53b des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -123,6 +126,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
@@ -139,6 +143,7 @@ Die Prüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Prüfungsbereich „Selbstmanagement im Vertrieb sicherstellen“
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000500000)
 
 Im Prüfungsbereich „Selbstmanagement im Vertrieb sicherstellen“ hat
 die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
@@ -171,6 +176,7 @@ Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 5 Prüfungsbereich „Operative Tätigkeiten im Vertrieb durchführen“
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000600000)
 
 Im Prüfungsbereich „Operative Tätigkeiten im Vertrieb durchführen“ hat
 die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
@@ -213,6 +219,7 @@ wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 6 Prüfungsbereich „Kundenorientierte Kommunikation im Vertrieb gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000700000)
 
 Im Prüfungsbereich „Kundenorientierte Kommunikation im Vertrieb
 gestalten“ hat die zu prüfende Person nachzuweisen, dass sie in der
@@ -243,6 +250,7 @@ aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 7 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000800000)
 
 (1) Die Prüfung gliedert sich in
 
@@ -266,6 +274,7 @@ vertreten ist.
 
 
 ## § 8 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE000900000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation im Vertrieb, aus der die
@@ -286,6 +295,7 @@ Aufgabenstellungen 150 Minuten.
 
 
 ## § 9 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001000000)
 
 (1) Die mündliche Prüfung besteht aus zwei Prüfungsleistungen in Form
 einer Präsentation und eines sich unmittelbar anschließenden
@@ -313,6 +323,7 @@ höchstens 20 Minuten dauern.
 
 
 ## § 10 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001100000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -346,6 +357,7 @@ berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 11 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001200000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind in
@@ -378,6 +390,7 @@ ist die Gesamtnote.
 
 
 ## § 12 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001300000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -390,6 +403,7 @@ zu Grunde zu legen.
 
 
 ## § 13 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001400000)
 
 (1) Wer die Prüfung nach § 11 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -415,6 +429,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 14 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001500000)
 
 (1) Sind in der schriftlichen oder in der mündlichen Prüfung nicht
 jeweils mindestens 50 Punkte erreicht worden, können sie jeweils
@@ -429,6 +444,7 @@ befreien, wenn diese in einer vorangegangenen Prüfung mit mindestens
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001600000)
 
 (1) Prüfungsverfahren, die nach der Verordnung über die Prüfung zum
 anerkannten Abschluss Geprüfter Fachberater im Vertrieb/Geprüfte
@@ -450,6 +466,7 @@ nach dieser Verordnung durchzuführen.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -461,6 +478,7 @@ ist, außer Kraft.
 (zu den §§ 10 und 11)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 258, S. 7 - 8)
 
@@ -761,6 +779,7 @@ ist, außer Kraft.
 (zu § 13)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/vertrfprv/BJNR1020A0023.html#BJNR1020A0023BJNE001900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 258, S. 9)
 

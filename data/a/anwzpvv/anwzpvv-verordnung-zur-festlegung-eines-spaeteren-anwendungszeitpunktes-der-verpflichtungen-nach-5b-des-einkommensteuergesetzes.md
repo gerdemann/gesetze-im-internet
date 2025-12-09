@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/anwzpvv/BJNR213500010.html#BJNR213500010BJNE000100000)
 
 Auf Grund des § 51 Absatz 4 Nummer 1c des Einkommensteuergesetzes in
 der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366,
@@ -25,6 +26,7 @@ der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366,
 
 
 ## § 1 Verschiebung des erstmaligen Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/anwzpvv/BJNR213500010.html#BJNR213500010BJNE000200000)
 
 Abweichend von § 52 Absatz 15a des Einkommensteuergesetzes sind die
 Bilanz und die Gewinn- und Verlustrechnung erstmals für
@@ -33,11 +35,13 @@ elektronisch zu übermitteln.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/anwzpvv/BJNR213500010.html#BJNR213500010BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/anwzpvv/BJNR213500010.html#BJNR213500010BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

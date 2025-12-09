@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bibbsitzbek/BJNR195200999.html#BJNR195200999BJNE000100307)
 
 Das Bundesministerium für Bildung und Forschung gibt gemäß § 9 Nr. 3
 des Berlin/Bonn-Gesetzes vom 26. April 1994 (BGBl. I S. 918), der

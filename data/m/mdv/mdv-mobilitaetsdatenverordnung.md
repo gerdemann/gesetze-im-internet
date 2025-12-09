@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000100000)
 
 Auf Grund des § 57 Absatz 1 Nummer 12, auch in Verbindung mit § 3a
 Absatz 2 Satz 3, des Personenbeförderungsgesetzes in der Fassung der
@@ -32,6 +33,7 @@ Sicherheit in der Informationstechnik:
 
 
 ## § 1 Gegenstand der Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000202123)
 
 Diese Verordnung konkretisiert:
 
@@ -61,6 +63,7 @@ Diese Verordnung konkretisiert:
 
 
 ## § 2 Zusammenarbeit mit dem Nationalen Zugangspunkt; Erfüllungsgehilfe
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000302123)
 
 (1) Unternehmer und Vermittler haben gegenüber dem Nationalen
 Zugangspunkt anzugeben:
@@ -132,6 +135,7 @@ Informationen zur Verfügung.
 
 
 ## § 3 Datenformate; Feststellung der tatsächlichen oder prognostizierten Auslastung im Linienverkehr
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000402123)
 
 (1) Bei der Bereitstellung von Daten nach § 3a Absatz 1 des
 Personenbeförderungsgesetzes sind die in der Anlage bezeichneten
@@ -173,6 +177,7 @@ zugrunde zu legen.
 
 
 ## § 4 Allgemeine Anforderungen an die Datenbereitstellung zur Gewährleistung eines funktionsfähigen Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000500000)
 
 (1) Unternehmer und Vermittler haben bei dem Aufbau ihrer Dienste und
 Systeme sicherzustellen, dass die Interoperabilität gewährleistet ist,
@@ -189,6 +194,7 @@ Juli 2017 (BGBl. I S. 2640) geändert worden ist, ist anzuwenden.
 
 
 ## § 5 Datenweitergabe
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000600000)
 
 (1) Behörden des Bundes, der Länder und der Gemeinden und
 Gemeindeverbände sowie nach § 6 registrierte Dritte erhalten über den
@@ -222,6 +228,7 @@ den Daten nach Absatz 1 entziehen.
 
 
 ## § 6 Registrierung von Dritten
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000700000)
 
 (1) Dritte haben sich beim Nationalen Zugangspunkt zu registrieren.
 Für die Registrierung sind die folgenden Angaben erforderlich:
@@ -251,6 +258,7 @@ erfolgen elektronisch.
 
 
 ## § 7 Verwendung von Daten durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000800000)
 
 Für Dritte gilt in Bezug auf die nach § 5 Absatz 1 abgerufenen Daten,
 dass
@@ -281,6 +289,7 @@ dass
 
 
 ## § 8 Vorgaben zur technischen Ausgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE000902123)
 
 (1) Der Betreiber des Nationalen Zugangspunktes kann die technische
 Ausgestaltung der Datenbereitstellung sowie der Datenweitergabe nach
@@ -301,16 +310,19 @@ Zugangspunkt auch in Echtzeit möglich ist.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 1 Nummer 1, §§ 3 und 5 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/mdv/BJNR472800021.html#BJNR472800021BJNE001202123)
 
 (Fundstelle: BGBl. I 2022, 1040 - 1043)
 

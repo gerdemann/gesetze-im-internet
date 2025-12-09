@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgsaausglv/BJNR168300000.html#BJNR168300000BJNE000100305)
 
 Auf Grund des § 3 Abs. 2 Satz 2 des Bundesgrenzschutzgesetzes vom 19.
 Oktober 1994 (BGBl. I S. 2978, 2979), der durch Artikel 1 des Gesetzes
@@ -30,6 +31,7 @@ Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bgsaausglv/BJNR168300000.html#BJNR168300000BJNE000201377)
 
 Das durch die Erfüllung bahnpolizeilicher Aufgaben der Bundespolizei
 begünstigte Verkehrsunternehmen Deutsche Bahn AG ist verpflichtet, für
@@ -38,6 +40,7 @@ Prozent des aufgebrachten Gesamtaufwandes als Ausgleich zu leisten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bgsaausglv/BJNR168300000.html#BJNR168300000BJNE000300305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

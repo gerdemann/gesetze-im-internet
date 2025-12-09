@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000200000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000101123)
 
 Dieses Gesetz gilt für alle in ihm bezeichneten Straftaten gegen das
 Völkerrecht, für Taten nach den §§ 6 bis 12 auch dann, wenn die Tat im
@@ -35,6 +37,7 @@ die Tat sich gegen die Bundesrepublik Deutschland richtet.
 
 
 ### § 2 Anwendung des allgemeinen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000201123)
 
 Auf Taten nach diesem Gesetz findet das allgemeine Strafrecht
 Anwendung, soweit dieses Gesetz nicht in den §§ 1, 3 bis 5 und 13
@@ -42,6 +45,7 @@ Absatz 4 besondere Bestimmungen trifft.
 
 
 ### § 3 Handeln auf Befehl oder Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000301123)
 
 Ohne Schuld handelt, wer eine Tat nach den §§ 8 bis 15 in Ausführung
 eines militärischen Befehls oder einer Anordnung von vergleichbarer
@@ -51,6 +55,7 @@ Rechtswidrigkeit auch nicht offensichtlich ist.
 
 
 ### § 4 Verantwortlichkeit militärischer Befehlshaber und anderer Vorgesetzter
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000400000)
 
 (1) Ein militärischer Befehlshaber oder ziviler Vorgesetzter, der es
 unterlässt, seinen Untergebenen daran zu hindern, eine Tat nach diesem
@@ -66,20 +71,24 @@ Führungsgewalt und Kontrolle ausübt.
 
 
 ### § 5 Unverjährbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000500000)
 
 Die Verfolgung von Verbrechen nach diesem Gesetz und die Vollstreckung
 der wegen ihnen verhängten Strafen verjähren nicht.
 
 
 ## Teil 2 - Straftaten gegen das Völkerrecht
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000300000)
 
 
 
 ### Abschnitt 1 - Völkermord und Verbrechen gegen die Menschlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000400000)
 
 
 
 #### § 6 Völkermord
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000600000)
 
 (1) Wer in der Absicht, eine nationale, rassische, religiöse oder
 ethnische Gruppe als solche ganz oder teilweise zu zerstören,
@@ -111,6 +120,7 @@ Strafe Freiheitsstrafe nicht unter fünf Jahren.
 
 
 #### § 7 Verbrechen gegen die Menschlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000701130)
 
 (1) Wer im Rahmen eines ausgedehnten oder systematischen Angriffs
 gegen eine Zivilbevölkerung
@@ -224,10 +234,12 @@ nach Absatz 2 oder Absatz 4 mit schwererer Strafe bedroht ist.
 
 
 ### Abschnitt 2 - Kriegsverbrechen
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000500000)
 
 
 
 #### § 8 Kriegsverbrechen gegen Personen
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000801130)
 
 (1) Wer im Zusammenhang mit einem internationalen oder
 nichtinternationalen bewaffneten Konflikt
@@ -383,6 +395,7 @@ Absatzes 3 Nr. 1 Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
 
 #### § 9 Kriegsverbrechen gegen Eigentum und sonstige Rechte
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE000900000)
 
 (1) Wer im Zusammenhang mit einem internationalen oder
 nichtinternationalen bewaffneten Konflikt plündert oder, ohne dass
@@ -401,6 +414,7 @@ bestraft.
 
 
 #### § 10 Kriegsverbrechen gegen humanitäre Operationen und Embleme
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001000000)
 
 (1) Wer im Zusammenhang mit einem internationalen oder
 nichtinternationalen bewaffneten Konflikt
@@ -435,6 +449,7 @@ Freiheitsstrafe nicht unter fünf Jahren bestraft.
 
 
 #### § 11 Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001101130)
 
 (1) Wer im Zusammenhang mit einem internationalen oder
 nichtinternationalen bewaffneten Konflikt
@@ -501,6 +516,7 @@ zehn Jahren.
 
 
 #### § 12 Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001201130)
 
 (1) Wer im Zusammenhang mit einem internationalen oder
 nichtinternationalen bewaffneten Konflikt
@@ -537,9 +553,11 @@ Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
 
 ### Abschnitt 3 - Verbrechen der Aggression
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000700123)
 
 
 #### § 13 Verbrechen der Aggression
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001600123)
 
 (1) Wer einen Angriffskrieg führt oder eine sonstige Angriffshandlung
 begeht, die ihrer Art, ihrer Schwere und ihrem Umfang nach eine
@@ -576,10 +594,12 @@ Freiheitsstrafe nicht unter fünf Jahren.
 
 
 ### Abschnitt 4 - Sonstige Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000601123)
 
 
 
 #### § 14 Verletzung der Aufsichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001301123)
 
 (1) Ein militärischer Befehlshaber, der es vorsätzlich oder fahrlässig
 unterlässt, einen Untergebenen, der seiner Befehlsgewalt oder seiner
@@ -604,6 +624,7 @@ Aufsichtspflicht wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 #### § 15 Unterlassen der Meldung einer Straftat
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001401123)
 
 (1) Ein militärischer Befehlshaber oder ein ziviler Vorgesetzter, der
 es unterlässt, eine Tat nach diesem Gesetz, die ein Untergebener
@@ -615,6 +636,7 @@ Freiheitsstrafe bis zu fünf Jahren bestraft.
 
 
 #### Anlage (zu § 8 Abs. 6 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/vstgb/BJNR225410002.html#BJNR225410002BJNE001500000)
 
 
 *    *   Die Genfer Abkommen im Sinne des Gesetzes sind:

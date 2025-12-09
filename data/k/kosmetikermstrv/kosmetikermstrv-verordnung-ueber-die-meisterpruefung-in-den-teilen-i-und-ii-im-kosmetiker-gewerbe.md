@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000100000)
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
 Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
 Prüfung in den Teilen I und II der Meisterprüfung im Kosmetiker-
@@ -39,6 +41,7 @@ Prüfungsteilen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000300000)
 
 Im Kosmetiker-Gewerbe sind zum Zwecke der Meisterprüfung folgende
 Fertigkeiten und Kenntnisse zum Nachweis der beruflichen
@@ -139,6 +142,7 @@ Handlungskompetenz zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche
@@ -159,6 +163,7 @@ Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen an
@@ -204,6 +209,7 @@ gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000600000)
 
 In dem Fachgespräch hat der Prüfling nachzuweisen, dass er befähigt
 ist,
@@ -231,6 +237,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung
@@ -273,6 +280,7 @@ für die das arithmetische Mittel gebildet wird.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt soll zwei Arbeitstage, das Fachgespräch
 höchstens 30 Minuten und die Situationsaufgabe höchstens sechs Stunden
@@ -291,6 +299,7 @@ jeweils mit mindestens 30 Punkten bewertet worden sein müssen.
 
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE000900000)
 
 (1) In der Prüfung in Teil II hat der Prüfling in den in Absatz 2 Satz
 2 Nummer 1 und 2 genannten Handlungsfeldern seine berufliche
@@ -438,6 +447,7 @@ verknüpft werden:
 
 
 ## § 9 Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE001000000)
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie dauert
 in jedem Handlungsfeld drei Stunden.
@@ -462,6 +472,7 @@ als 30 Punkten bewertet worden ist.
 
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -472,6 +483,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikermstrv/BJNR001700015.html#BJNR001700015BJNE001200000)
 
 Diese Verordnung tritt am 1. Juli 2015 in Kraft.
 

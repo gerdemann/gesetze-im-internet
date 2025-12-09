@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000100000)
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 des § 14 Absatz 14 der Gewerbeordnung, der durch Artikel 1 Nummer 2
@@ -33,6 +34,7 @@ und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310):
 
 
 ## § 1 Erstattung der Gewerbeanzeige
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000202128)
 
 Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
@@ -62,6 +64,7 @@ Druckbuchstaben auszufüllen.
 
 
 ## § 2 Elektronische Erstattung der Gewerbeanzeige
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000301116)
 
 (1) Wird die Gewerbeanzeige elektronisch erstattet, kann die
 zuständige Behörde zur elektronischen Datenverarbeitung Abweichungen
@@ -101,6 +104,7 @@ Reisepasses verlangen.
 
 
 ## § 3 Übermittlung von Daten aus der Gewerbeanzeige an weitere Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000404128)
 
 (1) Die zuständige Behörde übermittelt die mittels der Vordrucke der
 Anlagen 1 bis 3 erhobenen Daten aus der Gewerbeanzeige regelmäßig an
@@ -407,18 +411,21 @@ folgt, zu übermitteln.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000500000)
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. Januar 2015 in
 Kraft. § 3 Absatz 4 und 5 treten am 1. Januar 2016 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Satz 1 Nummer 1)
 
 ## Anlage 1 Gewerbe-Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000703128)
 
 (Fundstelle: BGBl. I 2019, 918 – 919; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -430,6 +437,7 @@ vgl. Fußnote)
 (zu § 1 Satz 1 Nummer 2)
 
 ## Anlage 2 Gewerbe-Ummeldung
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000803128)
 
 (Fundstelle: BGBl. I 2019, 920 – 921; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -441,6 +449,7 @@ vgl. Fußnote)
 (zu § 1 Satz 1 Nummer 3)
 
 ## Anlage 3 Gewerbe-Abmeldung
+[Direktlink](https://www.gesetze-im-internet.de/gewanzv_2014/BJNR120800014.html#BJNR120800014BJNE000902128)
 
 (Fundstelle: BGBl. I 2019, 922 – 923; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2012/BJNR003600012.html#BJNR003600012BJNE000100000)
 
 Auf Initiative der Europäischen Kommission soll im Januar 2012
 anlässlich des 10. Jahrestages der Einführung der Euro-Münzen und
@@ -51,11 +52,13 @@ Sammlerzwecke produziert.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2012/BJNR003600012.html#BJNR003600012BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2012/BJNR003600012.html#BJNR003600012BJNE000300000)
 
 (Fundstelle: BGBl. I 2012, 36)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/minuhv/BJNR218800015.html#BJNR218800015BJNE000100000)
 
 Auf Grund des § 1612a Absatz 4 des Bürgerlichen Gesetzbuchs, der durch
 Artikel 1 Nummer 3 des Gesetzes vom 20. November 2015 (BGBl. I S.
@@ -29,6 +30,7 @@ und für Verbraucherschutz:
 
 
 ## § 1 Festlegung des Mindestunterhalts
+[Direktlink](https://www.gesetze-im-internet.de/minuhv/BJNR218800015.html#BJNR218800015BJNE000207360)
 
 Der monatliche Mindestunterhalt minderjähriger Kinder gemäß § 1612a
 Absatz 1 des Bürgerlichen Gesetzbuchs beträgt
@@ -52,6 +54,7 @@ Absatz 1 des Bürgerlichen Gesetzbuchs beträgt
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/minuhv/BJNR218800015.html#BJNR218800015BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 

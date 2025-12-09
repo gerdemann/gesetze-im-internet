@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strukthigaufhdefasg/BJNR006740992.html#BJNR006740992BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Aufhebung des Strukturhilfegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strukthigaufhdefasg/BJNR006740992.html#BJNR006740992BJNE000201308)
 
 (1)
 Das Strukturhilfegesetz vom 20. Dezember 1988 (BGBl. I S. 2358) wird
@@ -90,10 +92,12 @@ anzuwenden.
 
 
 ## (XXXX) Art 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/strukthigaufhdefasg/BJNR006740992.html#BJNR006740992BJNE000300314)
 
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strukthigaufhdefasg/BJNR006740992.html#BJNR006740992BJNE000400314)
 
 Dieses Gesetz tritt am 31. Dezember 1991 in Kraft.
 

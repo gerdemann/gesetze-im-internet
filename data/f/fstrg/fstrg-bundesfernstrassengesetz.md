@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000109123)
 
 (1) Bundesstraßen des Fernverkehrs (Bundesfernstraßen) sind
 öffentliche Straßen, die ein zusammenhängendes Verkehrsnetz bilden und
@@ -85,6 +86,7 @@ Bundesfernstraßen.
 
 
 ## § 2 Widmung, Umstufung, Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000212125)
 
 (1) Eine Straße erhält die Eigenschaft einer Bundesfernstraße durch
 Widmung.
@@ -156,6 +158,7 @@ widerrufliche Sondernutzungen (§ 8). Bei Umstufung gilt § 6 Abs. 1.
 
 
 ## § 3 Straßenbaulast
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000310125)
 
 (1) Die Straßenbaulast umfasst alle mit dem Bau und der Unterhaltung
 der Bundesfernstraßen zusammenhängenden Aufgaben. Die Träger der
@@ -199,6 +202,7 @@ sowie zur polizeimäßigen Reinigung bleiben unberührt.
 
 
 ## § 3a Duldungspflichten im Interesse der Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE005800126)
 
 (1) Soweit es zur Unterhaltung einer Bundesfernstraße erforderlich
 ist, haben Dritte, insbesondere die Anlieger und die Hinterlieger, zu
@@ -217,6 +221,7 @@ ist Rücksicht zu nehmen.
 
 
 ## § 4 Sicherheitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000405123)
 
 Die Träger der Straßenbaulast haben dafür einzustehen, dass ihre
 Bauten allen Anforderungen der Sicherheit und Ordnung genügen.
@@ -229,6 +234,7 @@ ist.
 
 
 ## § 5 Träger der Straßenbaulast
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000509125)
 
 (1) Der Bund ist Träger der Straßenbaulast für die Bundesfernstraßen,
 soweit nicht die Baulast anderen nach gesetzlichen Vorschriften oder
@@ -288,6 +294,7 @@ können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
 
 ## § 5a Zuwendungen für fremde Träger der Straßenbaulast
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000604301)
 
 Zum Bau oder Ausbau von Ortsdurchfahrten im Zuge von Bundesstraßen und
 zum Bau oder Ausbau von Gemeinde- und Kreisstraßen, die Zubringer zu
@@ -298,6 +305,7 @@ Landkreisen Träger der Baulast ist, den Kreisstraßen gleichgestellt.
 
 
 ## § 5b Finanzhilfen für Radschnellwege in Straßenbaulast der Länder, Gemeinden und Gemeindeverbände
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE005101125)
 
 (1) Zum Bau von Radschnellwegen in der Straßenbaulast der Länder,
 Gemeinden und Gemeindeverbände kann der Bund den Ländern insbesondere
@@ -330,6 +338,7 @@ Verwaltungsvereinbarung gebunden.
 
 
 ## § 6 Eigentum und andere Rechte
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000706125)
 
 (1) Wechselt der Träger der Straßenbaulast, so gehen mit der
 Straßenbaulast das Eigentum des bisherigen Trägers der Straßenbaulast
@@ -393,6 +402,7 @@ ist einzutragen für die „Bundesrepublik Deutschland
 
 
 ## § 7 Gemeingebrauch
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000805123)
 
 (1) Der Gebrauch der Bundesfernstraßen ist jedermann im Rahmen der
 Widmung und der verkehrsbehördlichen Vorschriften zum Verkehr
@@ -428,6 +438,7 @@ seine Kosten beseitigen.
 
 
 ## § 7a Vergütung von Mehrkosten
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE000904301)
 
 Wenn eine Bundesfernstraße wegen der Art des Gebrauchs durch einen
 anderen aufwändiger hergestellt oder ausgebaut werden muss, als es dem
@@ -439,6 +450,7 @@ Vorschüsse oder Sicherheiten verlangen.
 
 
 ## § 8 Sondernutzungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001008125)
 
 (1) Die Benutzung der Bundesfernstraßen über den Gemeingebrauch hinaus
 ist Sondernutzung. Sie bedarf der Erlaubnis der Straßenbaubehörde, auf
@@ -543,6 +555,7 @@ bleibt.
 
 
 ## § 8a Straßenanlieger
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001105123)
 
 (1) Zufahrten und Zugänge zu Bundesstraßen außerhalb der zur
 Erschließung der anliegenden Grundstücke bestimmten Teile der
@@ -617,6 +630,7 @@ Gesetzbuchs entsprechend.
 
 
 ## § 9 Bauliche Anlagen an Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001213125)
 
 (1) Längs der Bundesfernstraßen dürfen nicht errichtet werden
 
@@ -780,6 +794,7 @@ getreten sind.
 
 
 ## § 9a Veränderungssperre, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001309125)
 
 (1) Vom Beginn der Veröffentlichung der Pläne im Internet oder ihrer
 Auslegung im Rahmen des Planfeststellungsverfahrens oder von dem
@@ -844,6 +859,7 @@ Straßenbaulast an den betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 ## § 10 Schutzwaldungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001406124)
 
 (1) Waldungen und Gehölze längs der Bundesstraße können von der nach
 Landesrecht zuständigen Straßenbaubehörde im Einvernehmen mit der nach
@@ -864,6 +880,7 @@ obliegt der nach Landesrecht für Schutzwaldungen zuständigen Behörde.
 
 
 ## § 11 Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001505123)
 
 (1) Zum Schutze der Bundesfernstraßen vor nachteiligen Einwirkungen
 der Natur (z. B. Schneeverwehungen, Steinschlag, Vermurungen) haben
@@ -895,6 +912,7 @@ ersetzen.
 
 
 ## § 12 Kreuzungen und Einmündungen öffentlicher Straßen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001605360)
 
 (1) Beim Bau einer neuen Kreuzung mehrerer öffentlicher Straßen hat
 der Träger der Straßenbaulast der neu hinzugekommenen Straße die
@@ -956,6 +974,7 @@ Einmündungen als Kreuzung aller beteiligten Straßen.
 
 
 ## § 12a Kreuzungen mit Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001705308)
 
 (1) Werden Bundesfernstraßen neu angelegt oder ausgebaut und müssen
 dazu Kreuzungen mit Gewässern (Brücken oder Unterführungen)
@@ -990,6 +1009,7 @@ zustande, so ist darüber durch Planfeststellung zu entscheiden.
 
 
 ## § 13 Unterhaltung der Straßenkreuzungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001804301)
 
 (1) Bei höhengleichen Kreuzungen hat der Träger der Straßenbaulast der
 Bundesfernstraße die Kreuzungsanlage zu unterhalten.
@@ -1024,6 +1044,7 @@ anderes vereinbart wird.
 
 
 ## § 13a Unterhaltung der Kreuzungen mit Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE001904301)
 
 (1) Der Träger der Straßenbaulast hat die Kreuzungsanlagen von
 Bundesfernstraßen und Gewässern auf seine Kosten zu unterhalten,
@@ -1052,6 +1073,7 @@ unberührt.
 
 
 ## § 13b Ermächtigung zu Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002009125)
 
 Das Bundesministerium für Digitales und Verkehr kann mit Zustimmung
 des Bundesrates Rechtsverordnungen erlassen, durch die
@@ -1072,6 +1094,7 @@ des Bundesrates Rechtsverordnungen erlassen, durch die
 
 
 ## § 14 Umleitungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002106125)
 
 (1) Bei Sperrung von Bundesfernstraßen wegen vorübergehender
 Behinderung sind die Träger der Straßenbaulast anderer öffentlicher
@@ -1150,6 +1173,7 @@ der Umleitungsstrecke festgelegt werden.
 
 
 ## § 15 Nebenbetriebe an den Bundesautobahnen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002213125)
 
 (1) Betriebe an den Bundesautobahnen, die den Belangen der
 Verkehrsteilnehmer der Bundesautobahnen dienen (z. B. Tankstellen,
@@ -1192,6 +1216,7 @@ weder ausgeschenkt noch verkauft werden.
 
 
 ## § 16 Planungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002312125)
 
 (1) Das Fernstraßen-Bundesamt bestimmt im Benehmen mit den
 Landesplanungsbehörden der beteiligten Länder die Planung und
@@ -1216,6 +1241,7 @@ Vorrang vor Orts- und Landesplanungen.
 
 
 ## § 16a Vorarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002408125)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
 der Planung und der Baudurchführung notwendige Kampfmittelräumungen,
@@ -1247,6 +1273,7 @@ hören.
 
 
 ## § 17 Erfordernis der Planfeststellung und vorläufige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002517125)
 
 (1) Bundesfernstraßen dürfen nur gebaut oder geändert werden, wenn der
 Plan vorher festgestellt ist. Eine Änderung liegt vor, wenn eine
@@ -1329,6 +1356,7 @@ keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. §
 
 
 ## § 17a Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004508125)
 
 (1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten §
 73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des
@@ -1407,6 +1435,7 @@ unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
 
 
 ## § 17b Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004610125)
 
 (1) Für den Planfeststellungsbeschluss und die Plangenehmigung gelten
 § 74 des Verwaltungsverfahrensgesetzes und § 27 des Gesetzes über die
@@ -1486,6 +1515,7 @@ des Baugesetzbuchs.
 
 
 ## § 17c Rechtswirkungen der Planfeststellung und der Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004705125)
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -1519,6 +1549,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 
 
 ## § 17d Planänderung vor Fertigstellung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004803123)
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
@@ -1532,6 +1563,7 @@ dieses Gesetzes.
 
 
 ## § 17e Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004906125)
 
 (1) § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung gilt für
 Planfeststellungsverfahren, Plangenehmigungsverfahren und Verfahren zu
@@ -1597,6 +1629,7 @@ Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
 
 
 ## § 17f Anlagen der Verkehrsüberwachung, der Unfallhilfe und des Zolls
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002605301)
 
 Die der Sicherheit und Ordnung dienenden Anlagen an Bundesfernstraßen,
 wie Polizeistationen, Einrichtungen der Unfallhilfe,
@@ -1607,6 +1640,7 @@ an Bundesfernstraßen.
 
 
 ## § 17g Veröffentlichung im Internet
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE005501125)
 
 Wird der Plan nicht nach § 17a Absatz 3 Satz 1, § 27a Absatz 1 des
 Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die
@@ -1619,6 +1653,7 @@ der Veröffentlichung hinzuweisen.
 
 
 ## § 17h Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE005600124)
 
 Die Anhörungsbehörde kann einen Dritten mit der Vorbereitung und
 Durchführung von Verfahrensschritten, insbesondere
@@ -1653,6 +1688,7 @@ zuständigen Behörde.
 
 
 ## § 17i Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE005900125)
 
 (1) Wird ein Planfeststellungsverfahren oder ein
 Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
@@ -1701,6 +1737,7 @@ Planfeststellungsbehörde eingereicht wurde.
 
 
 ## § 17j Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE006000125)
 
 (1) Bei grenzüberschreitenden Vorhaben nach § 17i Absatz 1 Satz 1
 sollen die zuständigen Behörden zusammenarbeiten, erforderliche
@@ -1724,6 +1761,7 @@ unterrichten.
 
 
 ## § 17k Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE006100125)
 
 Zur Vorbereitung der Berichterstattung an die Europäische Kommission
 haben die obersten Landesstraßenbaubehörden und das Fernstraßen-
@@ -1758,9 +1796,11 @@ mitzuteilen:
 
 
 ## (XXXX) §§ 18 bis 18e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE002705301)
 
 
 ## § 18f Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003311125)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für die
@@ -1849,6 +1889,7 @@ vorherigen Planfeststellung oder Plangenehmigung.
 
 
 ## § 19 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003409126)
 
 (1) Die Träger der Straßenbaulast der Bundesfernstraßen haben zur
 Erfüllung ihrer Aufgaben das Enteignungsrecht. Die Enteignung ist
@@ -1878,6 +1919,7 @@ Enteignungsgesetze der Länder.
 
 
 ## § 19a Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004309124)
 
 Soweit der Träger der Straßenbaulast nach §§ 8a, 9, 17 Absatz 2 oder
 auf Grund eines Planfeststellungsbeschlusses oder einer
@@ -1890,6 +1932,7 @@ Enteignungsgesetze der Länder entsprechend.
 
 
 ## § 20 Straßenaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003505123)
 
 (1) Die Erfüllung der Aufgaben, die den Trägern der Straßenbaulast für
 die Bundesfernstraßen obliegen, wird durch die Straßenaufsicht
@@ -1908,6 +1951,7 @@ an seiner Stelle und auf seine Kosten verfügen und vollziehen.
 
 
 ## § 21 Verwaltung der Bundesstraßen in den Ortsdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003604301)
 
 Soweit die Gemeinden nach § 5 Abs. 2 und 3 Träger der Straßenbaulast
 sind, richtet sich die Zuständigkeit zur Verwaltung der
@@ -1916,6 +1960,7 @@ zuständige Straßenbaubehörde im Sinne dieses Gesetzes ist.
 
 
 ## § 22 Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003713125)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die dem
@@ -1955,6 +2000,7 @@ Landes zuständig.
 
 
 ## § 23 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003806123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2034,6 +2080,7 @@ soweit dem Bund die Verwaltung einer Bundesfernstraße zusteht.
 
 
 ## § 23a Gebühren, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE006200125)
 
 (1) Für individuell zurechenbare öffentliche Leistungen des Bundes in
 den Fällen nach § 8 Absatz 1, 2, 2a, 6 und 7a, § 9 Absatz 2 bis 2c, 5
@@ -2053,6 +2100,7 @@ eine oberste Landesbehörde zu übertragen.
 
 
 ## § 24 Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE003909125)
 
 (1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
 oder Plangenehmigungsverfahren werden nach den Vorschriften dieses
@@ -2137,21 +2185,25 @@ verweist.
 
 
 ## § 25 (Aufhebung von Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004004301)
 
 -
 
 
 ## § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004104301)
 
 -
 
 
 ## § 27 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE004204301)
 
 -
 
 
 ## Anlage 1 (zu § 17e Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE005006125)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 7 – 9)
 
@@ -2668,6 +2720,7 @@ bestehenden Straßennetz verbunden sind.
 
 
 ## Anlage 2 (zu § 17i Absatz 1 Satz 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/fstrg/BJNR009030953.html#BJNR009030953BJNE006300125)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 10 – 11)
 

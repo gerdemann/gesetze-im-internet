@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000101000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000101000)
 
 (1) Dieses Gesetz ist anzuwenden auf Unternehmen ungeachtet ihrer
 Rechtsform, die
@@ -60,6 +62,7 @@ berücksichtigen; ins Ausland entsandte Arbeitnehmer sind erfasst.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000200000)
 
 (1) Geschützte Rechtspositionen im Sinne dieses Gesetzes sind solche,
 die sich aus den in den Nummern 1 bis 11 der Anlage aufgelisteten
@@ -379,9 +382,11 @@ notwendig sind.
 
 
 ## Abschnitt 2 - Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000201000)
 
 
 ### § 3 Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000301000)
 
 (1) Unternehmen sind dazu verpflichtet, in ihren Lieferketten die in
 diesem Abschnitt festgelegten menschenrechtlichen und umweltbezogenen
@@ -454,6 +459,7 @@ zivilrechtliche Haftung bleibt unberührt.
 
 
 ### § 4 Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000400000)
 
 (1) Unternehmen müssen ein angemessenes und wirksames Risikomanagement
 zur Einhaltung der Sorgfaltspflichten (§ 3 Absatz 1) einrichten. Das
@@ -484,6 +490,7 @@ sein können, angemessen zu berücksichtigen.
 
 
 ### § 5 Risikoanalyse
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000500000)
 
 (1) Im Rahmen des Risikomanagements hat das Unternehmen eine
 angemessene Risikoanalyse nach den
@@ -513,6 +520,7 @@ nach § 8 Absatz 1 sind zu berücksichtigen.
 
 
 ### § 6 Präventionsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000600000)
 
 (1) Stellt ein Unternehmen im Rahmen einer Risikoanalyse nach § 5 ein
 Risiko fest, hat es unverzüglich angemessene Präventionsmaßnahmen nach
@@ -600,6 +608,7 @@ unverzüglich zu aktualisieren.
 
 
 ### § 7 Abhilfemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000700000)
 
 (1) Stellt das Unternehmen fest, dass die Verletzung einer
 menschenrechtsbezogenen oder einer umweltbezogenen Pflicht in seinem
@@ -670,6 +679,7 @@ unverzüglich zu aktualisieren.
 
 
 ### § 8 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000800000)
 
 (1) Das Unternehmen hat dafür zu sorgen, dass ein angemessenes
 unternehmensinternes Beschwerdeverfahren nach den Absätzen 2 bis 4
@@ -712,6 +722,7 @@ wiederholen.
 
 
 ### § 9 Mittelbare Zulieferer; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE000900000)
 
 (1) Das Unternehmen muss das Beschwerdeverfahren nach § 8 so
 einrichten, dass es Personen auch ermöglicht, auf menschenrechtliche
@@ -755,6 +766,7 @@ Zustimmung des Bundesrates zu regeln.
 
 
 ### § 10 Dokumentations- und Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001000000)
 
 (1) Die Erfüllung der Sorgfaltspflichten nach § 3 ist
 unternehmensintern fortlaufend zu dokumentieren. Die Dokumentation ist
@@ -800,9 +812,11 @@ gebührend Rechnung zu tragen.
 
 
 ## Abschnitt 3 - Zivilprozess
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000301000)
 
 
 ### § 11 Besondere Prozessstandschaft
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001101000)
 
 (1) Wer geltend macht, in einer überragend wichtigen geschützten
 Rechtsposition aus § 2 Absatz 1 verletzt zu sein, kann zur
@@ -819,12 +833,15 @@ Staates zu realisieren.
 
 
 ## Abschnitt 4 - Behördliche Kontrolle und Durchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000400000)
 
 
 ### Unterabschnitt 1 - Berichtsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000500000)
 
 
 #### § 12 Einreichung des Berichts
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001201000)
 
 (1) Der Bericht nach § 10 Absatz 2 Satz 1 ist in deutscher Sprache und
 elektronisch über einen von der zuständigen Behörde bereitgestellten
@@ -835,6 +852,7 @@ Geschäftsjahres, auf das er sich bezieht, einzureichen.
 
 
 #### § 13 Behördliche Berichtsprüfung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001301000)
 
 (1) Die zuständige Behörde prüft, ob
 
@@ -866,9 +884,11 @@ Verfahren näher zu regeln:
 
 
 ### Unterabschnitt 2 - Risikobasierte Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000600000)
 
 
 #### § 14 Behördliches Tätigwerden; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001401000)
 
 (1) Die zuständige Behörde wird tätig:
 
@@ -910,6 +930,7 @@ zu regeln.
 
 
 #### § 15 Anordnungen und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001501000)
 
 Die zuständige Behörde trifft die geeigneten und erforderlichen
 Anordnungen und Maßnahmen, um Verstöße gegen die Pflichten nach den §§
@@ -932,6 +953,7 @@ kann insbesondere
 
 
 #### § 16 Betretensrechte
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001600000)
 
 Soweit dies zur Wahrnehmung der Aufgaben nach § 14 erforderlich ist,
 sind die zuständige Behörde und ihre Beauftragten befugt,
@@ -951,6 +973,7 @@ sind die zuständige Behörde und ihre Beauftragten befugt,
 
 
 #### § 17 Auskunfts- und Herausgabepflichten
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001700000)
 
 (1) Unternehmen und nach § 15 Satz 2 Nummer 1 geladene Personen sind
 verpflichtet, der zuständigen Behörde auf Verlangen die Auskünfte zu
@@ -995,6 +1018,7 @@ Verschwiegenheitspflichten bleiben unberührt.
 
 
 #### § 18 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001800000)
 
 Die Unternehmen haben die Maßnahmen der zuständigen Behörde und ihrer
 Beauftragten zu dulden und bei der Durchführung der Maßnahmen
@@ -1004,9 +1028,11 @@ zur Vertretung berufenen Personen.
 
 
 ### Unterabschnitt 3 - Zuständige Behörde, Handreichungen, Rechenschaftsbericht
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000700000)
 
 
 #### § 19 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE001900000)
 
 (1) Für die behördliche Kontrolle und Durchsetzung nach diesem
 Abschnitt ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle
@@ -1021,6 +1047,7 @@ einen risikobasierten Ansatz.
 
 
 #### § 20 Handreichungen
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE002000000)
 
 Die zuständige Behörde veröffentlicht branchenübergreifende oder
 branchenspezifische Informationen, Hilfestellungen und Empfehlungen
@@ -1032,6 +1059,7 @@ sind.
 
 
 #### § 21 Rechenschaftsbericht
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE002100000)
 
 (1) Die nach § 19 Absatz 1 Satz 1 zuständige Behörde berichtet einmal
 jährlich über ihre im vorausgegangenen Kalenderjahr erfolgten
@@ -1046,9 +1074,11 @@ jeweils betroffenen Unternehmen zu benennen.
 
 
 ## Abschnitt 5 - Öffentliche Beschaffung
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000801000)
 
 
 ### § 22 Ausschluss von der Vergabe öffentlicher Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE002201000)
 
 (1) Von der Teilnahme an einem Verfahren über die Vergabe eines
 Liefer-, Bau- oder Dienstleistungsauftrags der in den §§ 99 und 100
@@ -1087,9 +1117,11 @@ hören.
 
 
 ## Abschnitt 6 - Zwangsgeld und Bußgeld
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNG000901000)
 
 
 ### § 23 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE002301000)
 
 Die Höhe des Zwangsgeldes im Verwaltungszwangsverfahren der nach § 19
 Absatz 1 Satz 1 zuständigen Behörde beträgt abweichend von § 11 Absatz
@@ -1097,6 +1129,7 @@ Absatz 1 Satz 1 zuständigen Behörde beträgt abweichend von § 11 Absatz
 
 
 ### § 24 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE002400000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1257,6 +1290,7 @@ Bundesamt gilt § 19 Absatz 1 Satz 2 und 3.
 (zu § 2 Absatz 1, § 7 Absatz 3 Satz 2)
 
 ### Anlage 
+[Direktlink](https://www.gesetze-im-internet.de/lksg/BJNR295910021.html#BJNR295910021BJNE002501000)
 
 (Fundstelle: BGBl. I 2021, 2968)
 

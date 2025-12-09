@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek_2019/BJNR285900019.html#BJNR285900019BJNE000100000)
 
 Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der
 Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden nachstehend
@@ -27,12 +28,14 @@ gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek_2019/BJNR285900019.html#BJNR285900019BJNE000200000)
 
 Der Bundesminister des Innern, für Bau und Heimat
 
 (Anlage IX des BBesG)
 
 ## (XXXX) Gültig ab 1. Januar 2020 für Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek_2019/BJNR285900019.html#BJNR285900019BJNE000300000)
 
 (Fundstelle: BGBl. I 2019, 2860 - 2863)
 
@@ -1298,6 +1301,7 @@ Der Bundesminister des Innern, für Bau und Heimat
 (Anlage IX des BBesG)
 
 ## (XXXX) Gültig ab 1. März 2020 für Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek_2019/BJNR285900019.html#BJNR285900019BJNE000400000)
 
 (Fundstelle: BGBl. I 2019, 2864 - 2867)
 

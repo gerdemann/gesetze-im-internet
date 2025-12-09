@@ -19,9 +19,11 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beitrsrv_ba_ndg/BJNR007900991.html#BJNR007900991BJNE000100307)
 
 
 ## Art 4 Freiwillige Beiträge zur Rentenversicherung im Jahre 1991
+[Direktlink](https://www.gesetze-im-internet.de/beitrsrv_ba_ndg/BJNR007900991.html#BJNR007900991BJNE000200307)
 
 Bei der Zahlung von freiwilligen Beiträgen für die Monate Januar bis
 März 1991 gilt abweichend von den allgemeinen Regelungen über die
@@ -30,6 +32,7 @@ von 18,7 v. H.
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beitrsrv_ba_ndg/BJNR007900991.html#BJNR007900991BJNE000300307)
 
 Dieses Gesetz tritt am 1. April 1991 in Kraft.
 

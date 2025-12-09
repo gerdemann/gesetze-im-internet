@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000100000)
 
 Auf Grund des § 3 Abs. 2 Satz 2, des § 4 Abs. 1 Satz 1 und der §§ 6
 und 8 Satz 2 des Amateurfunkgesetzes vom 23. Juni 1997 (BGBl. I S.
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000203123)
 
 Diese Verordnung regelt
 
@@ -65,6 +67,7 @@ bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000301119)
 
 Im Sinne dieser Verordnung ist
 
@@ -167,6 +170,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000404123)
 
 (1) Der Antrag auf Zulassung zur Prüfung ist gleichzeitig mit dem
 Antrag auf Erteilung eines Amateurfunkzeugnisses nach bestandener
@@ -181,6 +185,7 @@ Bundesministeriums für Digitales und Verkehr.
 
 
 ## § 4 Prüfungsanforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000505123)
 
 (1) In der fachlichen Prüfung für Funkamateure hat der Bewerber für
 das Amateurfunkzeugnis der Klasse A folgende Kenntnisse nachzuweisen:
@@ -235,6 +240,7 @@ Bestimmungen der §§ 5 und 6 gelten entsprechend.
 
 
 ## § 5 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000602119)
 
 (1) Die Prüfung nach § 4 Abs. 1, 2 und 3 besteht aus einer
 schriftlichen Prüfung, der unter den nach Absatz 5 festzulegenden
@@ -271,6 +277,7 @@ ihrem Amtsblatt veröffentlicht.
 
 
 ## § 6 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000701119)
 
 (1) Zur Abnahme von Prüfungen werden von der Bundesnetzagentur
 Prüfungsausschüsse gebildet. Ein Prüfungsausschuss besteht aus einem
@@ -302,6 +309,7 @@ ihrem Amtsblatt veröffentlicht.
 
 
 ## § 7 Amateurfunkzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000801119)
 
 (1) Amateurfunkzeugnisse werden in die Klassen A, E und N eingeteilt.
 Sie werden von der Bundesnetzagentur nach bestandener fachlicher
@@ -329,6 +337,7 @@ geforderten Kenntnisse nachgewiesen hat.
 
 
 ## § 8 Anerkennung und Ausstellung von Amateurfunk-Prüfungsbescheinigungen und Amateurfunk-Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE000901119)
 
 (1) Die Bundesnetzagentur kann Amateurfunk-Prüfungsbescheinigungen und
 Amateurfunk-Genehmigungen anderer Staaten unter Berücksichtigung der
@@ -350,6 +359,7 @@ eines Amateurfunkzeugnisses nach § 7 gleichwertig sind.
 
 
 ## § 9 Zulassung zur Teilnahme am Amateurfunkdienst
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001001119)
 
 (1) Die Bundesnetzagentur lässt auf Antrag eine natürliche Person
 gemäß § 3 Abs. 1 des Amateurfunkgesetzes mit Wohnsitz in Deutschland
@@ -380,6 +390,7 @@ am Amateurfunkdienst nicht erforderlich.
 
 
 ## § 10 Rufzeichenzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001101119)
 
 (1) Ein personengebundenes Rufzeichen wird einem Funkamateur von der
 Bundesnetzagentur auf der Grundlage des § 3 Absatz 1 des
@@ -404,6 +415,7 @@ gebräuchlichen Rufzeichenzusätze.
 
 
 ## § 11 Rufzeichenanwendung
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001201119)
 
 (1) Rufzeichen dienen der Identifikation. Die für den jeweiligen
 Verwendungszweck zugeteilten Rufzeichen sind bei Beginn und Beendigung
@@ -441,6 +453,7 @@ Bundesnetzagentur.
 
 
 ## § 12 Ausbildungsfunkbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001302119)
 
 (1) Der Ausbildungsfunkbetrieb dient der praktischen Vorbereitung auf
 das Ablegen der fachlichen Prüfung für Funkamateure zum Erwerb eines
@@ -466,6 +479,7 @@ Rufzeichen der Klubstation mit einem Rufzeichenzusatz nach § 11 Absatz
 
 
 ## § 13 Fernbediente oder automatisch arbeitende Amateurfunkstellen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001401119)
 
 (1) Der Betrieb einer fernbedienten oder automatisch arbeitenden
 Amateurfunkstelle bedarf einer gesonderten Rufzeichenzuteilung nach §
@@ -522,6 +536,7 @@ widerrufen werden, wenn
 
 
 ## § 13a Remote-Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE002700119)
 
 (1) Der Remote-Betrieb einer Amateurfunkstelle ist nur durch Inhaber
 einer Zulassung zur Teilnahme am Amateurfunkdienst mit dem
@@ -571,6 +586,7 @@ Remote-Betrieb der Rufzeichenzusatz nach § 11 Absatz 5 zu verwenden.
 
 
 ## § 14 Klubstationen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001501119)
 
 (1) Die Bundesnetzagentur kann einem zur Teilnahme am
 Amateurfunkdienst zugelassenen Funkamateur ein Klubstationsrufzeichen
@@ -600,6 +616,7 @@ Rahmen ihres Berechtigungsumfangs gemäß § 9 Abs. 2 mitbenutzen.
 
 
 ## § 15 Rufzeichenliste
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001602119)
 
 (1) Die Bundesnetzagentur veröffentlicht die zugeteilten deutschen
 Rufzeichen und ihre Inhaber in einer Rufzeichenliste.
@@ -633,6 +650,7 @@ von Amateurfunkstellen nach § 13 in das Verzeichnis aufgenommen.
 
 
 ## § 16 Technische und betriebliche Rahmenbedingungen für Amateurfunkstellen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001701119)
 
 (1) Die Amateurfunkstelle ist nach den allgemein anerkannten Regeln
 der Technik einzurichten und zu unterhalten.
@@ -691,6 +709,7 @@ missbräuchliche Benutzung seiner Amateurfunkstelle auszuschließen.
 
 
 ## § 17 Störungen und Maßnahmen bei Störungen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001802119)
 
 (1) Die Bundesnetzagentur kann zur Ermittlung und zur Untersuchung von
 Störungsursachen oder zur Klärung frequenztechnischer Fragen den
@@ -716,10 +735,12 @@ geändert worden ist, bleiben unberührt.
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE001903123)
 
 
 
 ## § 19 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE002002119)
 
 (1) Für Amateurfunkzeugnisse, die vor dem Inkrafttreten dieser
 Verordnung erteilt wurden, gilt:
@@ -745,6 +766,7 @@ zum 31. Dezember 2028 ihre Gültigkeit.
 
 
 ## Anlage 1 Nutzungsbedingungen für die im Frequenzplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE002203123)
 
 (Fundstelle: BGBl. 2024 I Nr. 175, S. 1 – 4)
 
@@ -1916,5 +1938,6 @@ _\_\__\_\__\_\__\_\__\_\__\_\_
 
 
 ## Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/afuv_2005/BJNR024200005.html#BJNR024200005BJNE002303123)
 
 

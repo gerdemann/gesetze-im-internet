@@ -19,6 +19,7 @@ Fundstelle
 Stand: Diese Ausführungsbestimmungen treten gem. Nr. 13 Satz 1 dieser Bek. mWv 22.10.2013 in Kraft (Tag der ersten Sitzung des 18. Deutschen Bundestages)
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl1abestbek_2013/BJNR164500013.html#BJNR164500013BJNE000100000)
 
 
 1.  Form und Frist von Anzeigen
@@ -187,6 +188,7 @@ Stand: Diese Ausführungsbestimmungen treten gem. Nr. 13 Satz 1 dieser Bek. mWv 
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl1abestbek_2013/BJNR164500013.html#BJNR164500013BJNE000200000)
 
 Der Präsident des Deutschen Bundestages
 

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000100310)
 
 Der Freistaat Bayern und das Land Baden-Württemberg, beide vertreten
 durch ihre Ministerpräsidenten, schließen folgenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000200310)
 
 Im Anschluß an den Zweiten Staatsvertrag zwischen dem Land Baden-
 Württemberg und dem Freistaat Bayern über die Änderung der
@@ -36,6 +38,7 @@ gemeinsamen Landesgrenze.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000300310)
 
 Für den in Artikel 3 bis 26 festgelegten Verlauf der neuen
 Landesgrenze sind die Anlagen 1 bis 25\*) zu diesem Staatsvertrag und
@@ -51,6 +54,7 @@ Württemberg maßgebend.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000400310)
 
 Zwischen der Gemeinde Neunkirchen, Landkreis Miltenberg, Freistaat
 Bayern, und der Gemeinde Freudenberg, Main-Tauber-Kreis, Land Baden-
@@ -60,6 +64,7 @@ bis zum Landesgrenzpunkt 182 nach Maßgabe der Anlage 3, Seiten 1 und
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000500310)
 
 Zwischen dem Markt Neubrunn, Landkreis Würzburg, Freistaat Bayern, und
 der Stadt Wertheim, Main-Tauber-Kreis, Land Baden-Württemberg,
@@ -77,6 +82,7 @@ verläuft die neue Landesgrenze
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000600310)
 
 Zwischen dem Markt Neubrunn, Landkreis Würzburg, Freistaat Bayern, und
 der Gemeinde Werbach, Main-Tauber-Kreis, Land Baden-Württemberg,
@@ -94,6 +100,7 @@ verläuft die neue Landesgrenze
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000700310)
 
 Zwischen der Gemeinde Altertheim, Landkreis Würzburg, Freistaat
 Bayern, und der Gemeinde Werbach, Main-Tauber-Kreis, Land Baden-
@@ -111,6 +118,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000800310)
 
 Zwischen der Gemeinde Altertheim, Landkreis Würzburg, Freistaat
 Bayern, und den Gemeinden Großrinderfeld und Werbach, Main-Tauber-
@@ -120,6 +128,7 @@ Anlage 7, Seiten 1 bis 4.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE000900310)
 
 Zwischen der Gemeinde Altertheim, Landkreis Würzburg, Freistaat
 Bayern, und der Gemeinde Großrinderfeld, Main-Tauber-Kreis, Land
@@ -129,6 +138,7 @@ und 2.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001000310)
 
 Zwischen dem gemeindefreien Gebiet Irtenberger Wald, Landkreis
 Würzburg, Freistaat Bayern, und der Gemeinde Großrinderfeld, Main-
@@ -138,6 +148,7 @@ Anlage 9, Seiten 1 und 2.
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001100310)
 
 Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern,
 und der Gemeinde Wittighausen, Main-Tauber-Kreis, Land Baden-
@@ -155,6 +166,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001200310)
 
 Zwischen der Gemeinde Tauberrettersheim, Landkreis Würzburg, Freistaat
 Bayern, und der Gemeinde Weikersheim, Main-Tauber-Kreis, Land Baden-
@@ -164,6 +176,7 @@ bis zum Landesgrenzpunkt 199 nach Maßgabe der Anlage 11, Seiten 1 und
 
 
 ## Art 12
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001300310)
 
 Zwischen der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat
 Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-
@@ -189,6 +202,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 13
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001400310)
 
 Zwischen der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat
 Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-
@@ -206,6 +220,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 14
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001500310)
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a.d. Aisch-Bad
 Windsheim, der Stadt Aub und der Gemeinde Bieberehren, Landkreis
@@ -244,6 +259,7 @@ Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 15
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001600310)
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a.d. Aisch-Bad
 Windsheim, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-
@@ -253,6 +269,7 @@ der Anlage 15, Seiten 1 und 2.
 
 
 ## Art 16
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001700310)
 
 Zwischen der Stadt Dinkelsbühl, Landkreis Ansbach, Freistaat Bayern,
 und der Gemeinde Fichtenau, Landkreis Schwäbisch-Hall, Land Baden-
@@ -262,6 +279,7 @@ bis zum Landesgrenzpunkt 65 nach Maßgabe der Anlage 16, Seiten 1 und
 
 
 ## Art 17
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001800310)
 
 Zwischen der Gemeinde Fremdingen, Landkreis Donau-Ries, Freistaat
 Bayern, und der Gemeinde Tannhausen, Ostalbkreis, Land Baden-
@@ -271,6 +289,7 @@ und 2.
 
 
 ## Art 18
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE001900310)
 
 Zwischen der Gemeinde Bachhagel, Landkreis Dillingen a.d. Donau,
 Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis
@@ -280,6 +299,7 @@ Anlage 18, Seiten 1 und 2.
 
 
 ## Art 19
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002000310)
 
 Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d.
 Donau, Freistaat Bayern, und der Gemeinde Sontheim an der Brenz,
@@ -289,6 +309,7 @@ Landesgrenze vom Landesgrenzpunkt 391 bis zum Landesgrenzpunkt 392
 
 
 ## Art 20
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002100310)
 
 Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d.
 Donau, Freistaat Bayern, und der Gemeinde Sontheim an der Brenz,
@@ -298,6 +319,7 @@ nach Maßgabe der Anlage 20, Seiten 1 und 2.
 
 
 ## Art 21
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002200310)
 
 Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d.
 Donau, Freistaat Bayern, und der Gemeinde Sontheim an der Brenz,
@@ -316,6 +338,7 @@ Landesgrenze
 
 
 ## Art 22
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002300310)
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern,
 und der Stadt Ulm, Land Baden-Württemberg, verläuft die neue
@@ -324,6 +347,7 @@ Maßgabe der Anlage 21a, Seiten 1 und 2.
 
 
 ## Art 23
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002400310)
 
 Zwischen der Gemeinde Lautrach, Landkreis Unterallgäu, Freistaat
 Bayern, und der Gemeinde Aitrach, Landkreis Ravensburg, Land Baden-
@@ -333,6 +357,7 @@ bis zum Landesgrenzpunkt 665 nach Maßgabe der Anlage 22, Seiten 1 und
 
 
 ## Art 24
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002500310)
 
 Zwischen dem Markt Altusried, Landkreis Oberallgäu, Freistaat Bayern,
 und der Stadt Leutkirch im Allgäu, Landkreis Ravensburg, Land Baden-
@@ -350,6 +375,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 25
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002600310)
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern,
 und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-
@@ -359,6 +385,7 @@ Seiten 1 und 2.
 
 
 ## Art 26
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002700310)
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern,
 und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-
@@ -368,6 +395,7 @@ und 2.
 
 
 ## Art 27
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002800310)
 
 (1) Mit Inkrafttreten dieses Staatsvertrages werden die aufgenommenen
 Gebietsteile in die an sie angrenzenden Gemeinden des aufnehmenden
@@ -391,6 +419,7 @@ Gebietskörperschaften.
 
 
 ## Art 28
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE002900310)
 
 Hinsichtlich des Übergangs von Verwaltungsvermögen gilt § 4 des
 Gesetzes über das Verfahren bei sonstigen Änderungen des
@@ -400,6 +429,7 @@ Entschädigungen nicht zu leisten sind.
 
 
 ## Art 29
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE003000310)
 
 Die Anlagen 1 bis 25 sind Bestandteile dieses Staatsvertrages. Sie
 werden bei dem Bayerischen Landesvermessungsamt in München und dem
@@ -414,6 +444,7 @@ kostenlos eingesehen werden.
 
 
 ## Art 30
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_3/BJNR047300997.html#BJNR047300997BJNE003100310)
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden sollen so bald wie möglich ausgetauscht werden.

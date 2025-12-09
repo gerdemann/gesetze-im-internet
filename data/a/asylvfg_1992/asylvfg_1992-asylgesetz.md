@@ -57,10 +57,12 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 
 ## Abschnitt 1 - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000104311)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE001807311)
 
 (1) Dieses Gesetz gilt für Ausländer, die Folgendes beantragen:
 
@@ -97,14 +99,17 @@ veröffentlichten bereinigten Fassung in der jeweils geltenden Fassung.
 
 
 ## Abschnitt 2 - Schutzgewährung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001600311)
 
 
 
 ### Unterabschnitt 1 - Asyl
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001700311)
 
 
 
 #### § 2 Rechtsstellung Asylberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE001904377)
 
 (1) Asylberechtigte genießen im Bundesgebiet die Rechtsstellung nach
 dem Abkommen über die Rechtsstellung der Flüchtlinge.
@@ -118,10 +123,12 @@ ist, gelten als Asylberechtigte.
 
 
 ### Unterabschnitt 2 - Internationaler Schutz
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001800311)
 
 
 
 #### § 3 Zuerkennung der Flüchtlingseigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002009311)
 
 (1) Ein Ausländer ist Flüchtling im Sinne des Abkommens vom 28. Juli
 1951 über die Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559,
@@ -203,6 +210,7 @@ Aufenthaltsgesetzes abgesehen.
 
 
 #### § 3a Verfolgungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015800311)
 
 (1) Als Verfolgung im Sinne des § 3 Absatz 1 gelten Handlungen, die
 
@@ -261,6 +269,7 @@ solchen Handlungen muss eine Verknüpfung bestehen.
 
 
 #### § 3b Verfolgungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015900311)
 
 (1) Bei der Prüfung der Verfolgungsgründe nach § 3 Absatz 1 Nummer 1
 ist Folgendes zu berücksichtigen:
@@ -327,6 +336,7 @@ diese Merkmale von seinem Verfolger zugeschrieben werden.
 
 
 #### § 3c Akteure, von denen Verfolgung ausgehen kann
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016000311)
 
 Die Verfolgung kann ausgehen von
 
@@ -348,6 +358,7 @@ Die Verfolgung kann ausgehen von
 
 
 #### § 3d Akteure, die Schutz bieten können
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016100311)
 
 (1) Schutz vor Verfolgung kann nur geboten werden
 
@@ -379,6 +390,7 @@ Leitlinien heranzuziehen.
 
 
 #### § 3e Interner Schutz
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016200311)
 
 (1) Dem Ausländer wird die Flüchtlingseigenschaft nicht zuerkannt,
 wenn er
@@ -405,6 +417,7 @@ Europäischen Unterstützungsbüros für Asylfragen, einzuholen.
 
 
 #### § 4 Subsidiärer Schutz
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016300311)
 
 (1) Ein Ausländer ist subsidiär Schutzberechtigter, wenn er
 stichhaltige Gründe für die Annahme vorgebracht hat, dass ihm in
@@ -463,10 +476,12 @@ Flüchtlingseigenschaft tritt der subsidiäre Schutz.
 
 
 ## Abschnitt 3 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001900311)
 
 
 
 ### § 5 Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002213311)
 
 (1) Über Asylanträge entscheidet das Bundesamt für Migration und
 Flüchtlinge (Bundesamt). Es ist nach Maßgabe dieses Gesetzes auch für
@@ -507,6 +522,7 @@ wenn Art oder Dauer der Tätigkeit dies zulassen.
 
 
 ### § 6 Verbindlichkeit asylrechtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002306311)
 
 Die Entscheidung über den Asylantrag ist in allen Angelegenheiten
 verbindlich, in denen die Anerkennung als Asylberechtigter oder die
@@ -517,6 +533,7 @@ Aufenthaltsgesetzes.
 
 
 ### § 7 Erhebung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002406311)
 
 (1) Die mit der Ausführung dieses Gesetzes betrauten Behörden dürfen
 zum Zwecke der Ausführung dieses Gesetzes personenbezogene Daten
@@ -571,6 +588,7 @@ bleiben davon unberührt.
 
 
 ### § 8 Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002518311)
 
 (1) Öffentliche Stellen haben auf Ersuchen (§ 7 Abs. 1) den mit der
 Ausführung dieses Gesetzes betrauten Behörden ihnen bekannt gewordene
@@ -737,6 +755,7 @@ bleibt unberührt.
 
 
 ### § 9 Hoher Flüchtlingskommissar der Vereinten Nationen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002605311)
 
 (1) Der Ausländer kann sich an den Hohen Flüchtlingskommissar der
 Vereinten Nationen wenden. Dieser kann in Einzelfällen in Verfahren
@@ -765,6 +784,7 @@ Bundesgebiet tätig sind.
 
 
 ### § 10 Zustellungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002708311)
 
 (1) Der Ausländer hat während der Dauer des Asylverfahrens
 vorzusorgen, dass ihn Mitteilungen des Bundesamtes, der zuständigen
@@ -823,24 +843,29 @@ Empfangsbestätigung auf diese Zustellungsvorschriften hinzuweisen.
 
 
 ### § 11 Ausschluss des Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002803377)
 
 Gegen Maßnahmen und Entscheidungen nach diesem Gesetz findet kein
 Widerspruch statt.
 
 
 ### § 11a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015003311)
 
 
 
 ## Abschnitt 4 - Asylverfahren
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000204311)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000304311)
 
 
 
 #### § 12 Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE002906116)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz ist
 ein volljähriger Ausländer, sofern er nicht nach Maßgabe des
@@ -862,6 +887,7 @@ unbekannt ist.
 
 
 #### § 12a Asylverfahrensberatung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017401311)
 
 (1) Der Bund fördert eine behördenunabhängige, ergebnisoffene,
 unentgeltliche, individuelle und freiwillige Asylverfahrensberatung.
@@ -888,6 +914,7 @@ Bedürfnisse bei der Aufnahme hat, wenn der Ausländer in die
 
 
 #### § 13 Asylantrag
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE003008311)
 
 (1) Ein Asylantrag liegt vor, wenn sich dem schriftlich, mündlich oder
 auf andere Weise geäußerten Willen des Ausländers entnehmen lässt,
@@ -911,6 +938,7 @@ Asylantrag ist unverzüglich zu stellen.
 
 
 #### § 14 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE003211311)
 
 (1) Der Asylantrag ist bei der Außenstelle des Bundesamtes zu stellen,
 die der für die Aufnahme des Ausländers zuständigen
@@ -961,6 +989,7 @@ einen anderen Staat gerichtet oder der Asylantrag wurde abgelehnt.
 
 
 #### § 14a Familieneinheit
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015104116)
 
 (1) Mit der Asylantragstellung nach § 14 gilt ein Asylantrag auch für
 jedes minderjährige ledige Kind des Ausländers als gestellt, das sich
@@ -993,6 +1022,7 @@ hier geboren wurde.
 
 
 #### § 15 Allgemeine Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE003308311)
 
 (1) Der Ausländer ist persönlich verpflichtet, bei der Aufklärung des
 Sachverhalts mitzuwirken. Dies gilt auch, wenn er sich durch einen
@@ -1081,6 +1111,7 @@ Mitwirkungspflichten des Ausländers nicht beendet.
 
 
 #### § 15a Auslesen und Auswerten von Datenträgern
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017302311)
 
 (1) Das Auslesen von Datenträgern, einschließlich mobiler Geräte und
 Cloud-Dienste, ist zum Zweck der Sicherstellung einer Auswertung nach
@@ -1118,6 +1149,7 @@ Bundesamt zuständig.
 
 
 #### § 15b Nachträglicher biometrischer Abgleich mit allgemein öffentlich zugänglichen Daten aus dem Internet; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017600311)
 
 (1) Das nach § 16 Absatz 1 Satz 1 und 2 erhobene biometrische
 Lichtbild des Ausländers darf mit allgemein öffentlich zugänglichen
@@ -1234,6 +1266,7 @@ sie insbesondere
 
 
 #### § 16 Sicherung, Feststellung und Überprüfung der Identität
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE003513311)
 
 (1) Die Identität eines Ausländers, der um Asyl nachsucht, ist durch
 erkennungsdienstliche Maßnahmen zu sichern. Nach Satz 1 dürfen nur
@@ -1315,6 +1348,7 @@ des Dokumentes oder der Identität des Ausländers zu löschen.
 
 
 #### § 17 Sprachmittler
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE003605311)
 
 (1) Ist der Ausländer der deutschen Sprache nicht hinreichend kundig,
 so ist von Amts wegen bei der Anhörung ein Dolmetscher, Übersetzer
@@ -1331,10 +1365,12 @@ ausnahmsweise im Wege der Bild- und Tonübertragung erfolgen.
 
 
 ### Unterabschnitt 2 - Einleitung des Asylverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000404311)
 
 
 
 #### § 18 Aufgaben der Grenzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE003805311)
 
 (1) Ein Ausländer, der bei einer mit der polizeilichen Kontrolle des
 grenzüberschreitenden Verkehrs beauftragten Behörde (Grenzbehörde) um
@@ -1389,6 +1425,7 @@ behandeln.
 
 
 #### § 18a Verfahren bei Einreise auf dem Luftwege
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013004377)
 
 (1) Bei Ausländern aus einem sicheren Herkunftsstaat (§ 29a), die über
 einen Flughafen einreisen wollen und bei der Grenzbehörde um Asyl
@@ -1456,6 +1493,7 @@ zugleich als Aussetzung der Abschiebung.
 
 
 #### § 19 Aufgaben der Ausländerbehörde und der Polizei
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE004006311)
 
 (1) Ein Ausländer, der bei einer Ausländerbehörde, bei der
 Bundespolizei oder bei der Polizei eines Landes um Asyl nachsucht, ist
@@ -1479,6 +1517,7 @@ unberührt.
 
 
 #### § 20 Weiterleitung an eine Aufnahmeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE004204116)
 
 (1) Der Ausländer ist verpflichtet, der Weiterleitung nach § 18 Abs. 1
 oder § 19 Abs. 1 unverzüglich oder bis zu einem ihm von der Behörde
@@ -1503,6 +1542,7 @@ leitet ihr die Mitteilung nach Satz 1 zu.
 
 
 #### § 21 Verwahrung und Weitergabe von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE004404116)
 
 (1) Die Behörden, die den Ausländer an eine Aufnahmeeinrichtung
 weiterleiten, nehmen die in § 15 Abs. 2 Nr. 4 und 5 bezeichneten
@@ -1526,6 +1566,7 @@ aufenthaltsbeendende Maßnahmen nicht mehr benötigt werden.
 
 
 #### § 22 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE004606116)
 
 (1) Ein Ausländer, der den Asylantrag bei einer Außenstelle des
 Bundesamtes zu stellen hat (§ 14 Abs. 1), hat sich in einer
@@ -1564,6 +1605,7 @@ Anwendung.
 
 
 #### § 22a Übernahme zur Durchführung eines Asylverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013104311)
 
 Ein Ausländer, der auf Grund von Rechtsvorschriften der Europäischen
 Gemeinschaft oder eines völkerrechtlichen Vertrages zur Durchführung
@@ -1575,10 +1617,12 @@ bestimmten Stelle bezeichnet ist.
 
 
 ### Unterabschnitt 3 - Verfahren beim Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000504311)
 
 
 
 #### § 23 Antragstellung bei der Außenstelle
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE004804116)
 
 (1) Der Ausländer, der in der Aufnahmeeinrichtung aufgenommen ist, ist
 verpflichtet, unverzüglich oder zu dem von der Aufnahmeeinrichtung
@@ -1597,6 +1641,7 @@ Aufnahmeeinrichtung und den erfolgten Hinweis nach Satz 3.
 
 
 #### § 24 Pflichten des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE004909311)
 
 (1) Das Bundesamt klärt den Sachverhalt und erhebt die erforderlichen
 Beweise. Das Bundesamt unterrichtet den Ausländer frühzeitig in einer
@@ -1717,6 +1762,7 @@ einer Entscheidung zu rechnen ist.
 
 
 #### § 25 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005106311)
 
 (1) Der Ausländer muss selbst die Tatsachen vortragen, die seine
 Furcht vor Verfolgung oder die Gefahr eines ihm drohenden ernsthaften
@@ -1777,6 +1823,7 @@ Bundesamtes zuzustellen.
 
 
 #### § 26 Familienasyl und internationaler Schutz für Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005210311)
 
 (1) Der Ehegatte oder der Lebenspartner eines Asylberechtigten wird
 auf Antrag als Asylberechtigter anerkannt, wenn
@@ -1863,6 +1910,7 @@ war oder einen solchen ernsthaften Schaden erlitten hat.
 
 
 #### § 26a Sichere Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013204377)
 
 (1) Ein Ausländer, der aus einem Drittstaat im Sinne des Artikels 16a
 Abs. 2 Satz 1 des Grundgesetzes (sicherer Drittstaat) eingereist ist,
@@ -1899,6 +1947,7 @@ spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
 
 
 #### § 27 Anderweitige Sicherheit vor Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005304377)
 
 (1) Ein Ausländer, der bereits in einem sonstigen Drittstaat vor
 politischer Verfolgung sicher war, wird nicht als Asylberechtigter
@@ -1920,10 +1969,12 @@ hinreichender Sicherheit auszuschließen war.
 
 
 #### § 27a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015502116)
 
 
 
 #### § 28 Nachfluchttatbestände
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005406311)
 
 (1) Ein Ausländer wird in der Regel nicht als Asylberechtigter
 anerkannt, wenn die Gefahr politischer Verfolgung auf Umständen
@@ -1950,6 +2001,7 @@ in der Regel die Flüchtlingseigenschaft nicht zuerkannt werden.
 
 
 #### § 29 Unzulässige Anträge
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005507311)
 
 (1) Ein Asylantrag ist unzulässig, wenn
 
@@ -2004,6 +2056,7 @@ werden.
 
 
 #### § 29a Sicherer Herkunftsstaat; Bericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013305116)
 
 (1) Der Asylantrag eines Ausländers aus einem Staat im Sinne des
 Artikels 16a Abs. 3 Satz 1 des Grundgesetzes (sicherer Herkunftsstaat)
@@ -2031,6 +2084,7 @@ spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
 
 
 #### § 30 Offensichtlich unbegründete Asylanträge
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005709311)
 
 (1) Ein unbegründeter Asylantrag ist als offensichtlich unbegründet
 abzulehnen, wenn der Ausländer
@@ -2101,6 +2155,7 @@ keine Anwendung.
 
 
 #### § 30a Beschleunigte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017102311)
 
 (1) Das Bundesamt kann das Asylverfahren in einer Außenstelle, die
 einer besonderen Aufnahmeeinrichtung (§ 5 Absatz 5) zugeordnet ist,
@@ -2192,6 +2247,7 @@ Die §§ 48 bis 50 bleiben unberührt.
 
 
 #### § 31 Entscheidung des Bundesamtes über Asylanträge
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005811311)
 
 (1) Die Entscheidung des Bundesamtes ergeht schriftlich. Sie ist
 schriftlich zu begründen. Entscheidungen, die der Anfechtung
@@ -2238,6 +2294,7 @@ nennen.
 
 
 #### § 32 Entscheidung bei Antragsrücknahme oder Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE005907311)
 
 Im Falle der Antragsrücknahme oder des Verzichts gemäß § 14a Abs. 3
 stellt das Bundesamt in seiner Entscheidung fest, dass das
@@ -2246,6 +2303,7 @@ Absatz 5 oder 7 des Aufenthaltsgesetzes vorliegt.
 
 
 #### § 32a Ruhen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013403377)
 
 (1) Das Asylverfahren eines Ausländers ruht, solange ihm
 vorübergehender Schutz nach § 24 des Aufenthaltsgesetzes gewährt wird.
@@ -2259,6 +2317,7 @@ fortführen will.
 
 
 #### § 33 Nichtbetreiben des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006008311)
 
 (1) Das Bundesamt stellt das Verfahren ein oder lehnt den Asylantrag
 nach angemessener inhaltlicher Prüfung ab, wenn der Ausländer das
@@ -2328,10 +2387,12 @@ gilt § 36 Absatz 3 entsprechend.
 
 
 ### Unterabschnitt 4 - Aufenthaltsbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000604311)
 
 
 
 #### § 34 Abschiebungsandrohung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006108311)
 
 (1) Das Bundesamt erlässt nach den §§ 59 und 60 Absatz 10 des
 Aufenthaltsgesetzes eine schriftliche Abschiebungsandrohung, wenn
@@ -2373,6 +2434,7 @@ vorausgesetzt werden kann.
 
 
 #### § 34a Abschiebungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013507116)
 
 (1) Soll der Ausländer in einen sicheren Drittstaat (§ 26a) oder in
 einen für die Durchführung des Asylverfahrens zuständigen Staat (§ 29
@@ -2399,6 +2461,7 @@ unberührt.
 
 
 #### § 35 Abschiebungsandrohung bei Unzulässigkeit des Asylantrags
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006206116)
 
 In den Fällen des § 29 Absatz 1 Nummer 2 und 4 droht das Bundesamt dem
 Ausländer die Abschiebung in den Staat an, in dem er vor Verfolgung
@@ -2406,6 +2469,7 @@ sicher war.
 
 
 #### § 36 Verfahren bei Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4 und bei offensichtlicher Unbegründetheit
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006306116)
 
 (1) In den Fällen der Unzulässigkeit nach § 29 Absatz 1 Nummer 2 und 4
 und der offensichtlichen Unbegründetheit des Asylantrages beträgt die
@@ -2453,6 +2517,7 @@ verzögert würde.
 
 
 #### § 37 Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006406311)
 
 (1) Die Entscheidung des Bundesamtes über die Unzulässigkeit nach § 29
 Absatz 1 Nummer 4 des Antrags und die Abschiebungsandrohung werden
@@ -2471,6 +2536,7 @@ Abschiebungsandrohung bezeichneten Staaten vollziehbar wird.
 
 
 #### § 38 Ausreisefrist bei sonstiger Ablehnung und bei Rücknahme des Asylantrags
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006506311)
 
 (1) In den sonstigen Fällen, in denen das Bundesamt den Ausländer
 nicht als Asylberechtigten anerkennt, beträgt die dem Ausländer zu
@@ -2489,10 +2555,12 @@ werden, wenn er sich zur freiwilligen Ausreise bereit erklärt.
 
 
 #### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006607311)
 
 
 
 #### § 40 Unterrichtung der Ausländerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006708116)
 
 (1) Das Bundesamt unterrichtet unverzüglich die Ausländerbehörde, in
 deren Bezirk sich der Ausländer aufzuhalten oder Wohnung zu nehmen
@@ -2515,10 +2583,12 @@ zuständige Behörde über die Zustellung.
 
 
 #### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006804377)
 
 
 
 #### § 42 Bindungswirkung ausländerrechtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE006906311)
 
 Die Ausländerbehörde ist an die Entscheidung des Bundesamtes oder des
 Verwaltungsgerichts über das Vorliegen der Voraussetzungen des § 60
@@ -2529,6 +2599,7 @@ einer Aufhebung der Entscheidung des Bundesamtes bedarf.
 
 
 #### § 43 Vollziehbarkeit und Aussetzung der Abschiebung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007006311)
 
 (1) War der Ausländer im Besitz eines Aufenthaltstitels, darf eine
 nach den Vorschriften dieses Gesetzes vollziehbare
@@ -2551,18 +2622,22 @@ Aussetzung der Abschiebung aus.
 
 
 #### § 43a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013603377)
 
 
 
 #### § 43b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013703377)
 
 
 
 ## Abschnitt 5 - Unterbringung und Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000704311)
 
 
 
 ### § 44 Schaffung und Unterhaltung von Aufnahmeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007111311)
 
 (1) Die Länder sind verpflichtet, für die Unterbringung
 Asylbegehrender die dazu erforderlichen Aufnahmeeinrichtungen zu
@@ -2612,6 +2687,7 @@ letztmaligen Ausübung einer in Satz 2 genannten Tätigkeit zu löschen.
 
 
 ### § 45 Aufnahmequoten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007206116)
 
 (1) Die Länder können durch Vereinbarung einen Schlüssel für die
 Aufnahme von Asylbegehrenden durch die einzelnen Länder
@@ -2633,6 +2709,7 @@ Vereinbarung nicht berührt.
 
 
 ### § 46 Bestimmung der zuständigen Aufnahmeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007407311)
 
 (1) Für die Aufnahme eines Ausländers, bei dem die Voraussetzungen des
 § 30a Absatz 1 vorliegen, ist die besondere Aufnahmeeinrichtung (§ 5
@@ -2687,6 +2764,7 @@ Aufnahmeeinrichtungen verfügt.
 
 
 ### § 47 Aufenthalt in Aufnahmeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007508311)
 
 (1) Ausländer, die den Asylantrag bei einer Außenstelle des
 Bundesamtes zu stellen haben (§ 14 Abs. 1), sind verpflichtet, bis zur
@@ -2769,6 +2847,7 @@ Versorgung beraten können.
 
 
 ### § 48 Beendigung der Verpflichtung, in einer Aufnahmeeinrichtung zu wohnen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007609311)
 
 Die Verpflichtung, in einer Aufnahmeeinrichtung zu wohnen, endet vor
 Ablauf des nach § 47 Absatz 1 Satz 1 bestimmten Zeitraums, wenn der
@@ -2792,6 +2871,7 @@ Ausländer
 
 
 ### § 49 Entlassung aus der Aufnahmeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007705311)
 
 (1) Die Verpflichtung, in der Aufnahmeeinrichtung zu wohnen, ist zu
 beenden, wenn eine Abschiebungsandrohung vollziehbar und die
@@ -2807,6 +2887,7 @@ beendet werden.
 
 
 ### § 50 Landesinterne Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE007909311)
 
 (1) Ausländer sind unverzüglich aus der Aufnahmeeinrichtung zu
 entlassen und innerhalb des Landes zu verteilen, wenn das Bundesamt
@@ -2855,6 +2936,7 @@ Zuweisungsverfügung angegebenen Stelle zu begeben.
 
 
 ### § 51 Länderübergreifende Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE008103311)
 
 (1) Ist ein Ausländer nicht oder nicht mehr verpflichtet, in einer
 Aufnahmeeinrichtung zu wohnen, ist der Haushaltsgemeinschaft von
@@ -2868,6 +2950,7 @@ der weitere Aufenthalt beantragt ist.
 
 
 ### § 52 Quotenanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE008205116)
 
 Auf die Quoten nach § 45 wird die Aufnahme von Asylbegehrenden in den
 Fällen des § 14 Absatz 2 Satz 1 Nummer 2 und 3, des § 14a sowie des §
@@ -2875,6 +2958,7 @@ Fällen des § 14 Absatz 2 Satz 1 Nummer 2 und 3, des § 14a sowie des §
 
 
 ### § 53 Unterbringung in Gemeinschaftsunterkünften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE008406311)
 
 (1) Ausländer, die einen Asylantrag gestellt haben und nicht oder
 nicht mehr verpflichtet sind, in einer Aufnahmeeinrichtung zu wohnen,
@@ -2898,6 +2982,7 @@ Ausländers.
 
 
 ### § 54 Unterrichtung des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE008504116)
 
 Die Ausländerbehörde, in deren Bezirk sich der Ausländer aufzuhalten
 oder Wohnung zu nehmen hat, teilt dem Bundesamt unverzüglich
@@ -2913,10 +2998,12 @@ mit.
 
 
 ## Abschnitt 6 - Recht des Aufenthalts während des Asylverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG000805311)
 
 
 
 ### § 55 Aufenthaltsgestattung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE008608116)
 
 (1) Einem Ausländer, der um Asyl nachsucht, ist zur Durchführung des
 Asylverfahrens der Aufenthalt im Bundesgebiet ab Ausstellung des
@@ -2944,6 +3031,7 @@ wurde.
 
 
 ### § 56 Räumliche Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE008804116)
 
 (1) Die Aufenthaltsgestattung ist räumlich auf den Bezirk der
 Ausländerbehörde beschränkt, in dem die für die Aufnahme des
@@ -2957,6 +3045,7 @@ räumlich auf deren Bezirk beschränkt.
 
 
 ### § 57 Verlassen des Aufenthaltsbereichs einer Aufnahmeeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009002377)
 
 (1) Das Bundesamt kann einem Ausländer, der verpflichtet ist, in einer
 Aufnahmeeinrichtung zu wohnen, erlauben, den Geltungsbereich der
@@ -2975,6 +3064,7 @@ Bundesamt anzuzeigen.
 
 
 ### § 58 Verlassen eines zugewiesenen Aufenthaltsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009207311)
 
 (1) Die Ausländerbehörde kann einem Ausländer, der nicht oder nicht
 mehr verpflichtet ist, in einer Aufnahmeeinrichtung zu wohnen,
@@ -3023,6 +3113,7 @@ besteht, im Gebiet eines anderen Landes aufhalten können.
 
 
 ### § 59 Durchsetzung der räumlichen Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009404116)
 
 (1) Die Verlassenspflicht nach § 12 Abs. 3 des Aufenthaltsgesetzes
 kann, soweit erforderlich, auch ohne Androhung durch Anwendung
@@ -3056,6 +3147,7 @@ Durchsetzung wesentlich erschwert oder gefährdet würde.
 
 
 ### § 59a Erlöschen der räumlichen Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016601116)
 
 (1) Die räumliche Beschränkung nach § 56 erlischt, wenn sich der
 Ausländer seit drei Monaten ununterbrochen erlaubt, geduldet oder
@@ -3073,6 +3165,7 @@ erlaubt gilt oder ein Aufenthaltstitel erteilt wird.
 
 
 ### § 59b Anordnung der räumlichen Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016701310)
 
 (1) Eine räumliche Beschränkung der Aufenthaltsgestattung kann
 unabhängig von § 59a Absatz 1 durch die zuständige Ausländerbehörde
@@ -3101,6 +3194,7 @@ angeordnet werden, wenn
 
 
 ### § 60 Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009603116)
 
 (1) Ein Ausländer, der nicht oder nicht mehr verpflichtet ist, in
 einer Aufnahmeeinrichtung zu wohnen, und dessen Lebensunterhalt nicht
@@ -3149,6 +3243,7 @@ Unterkunft liegt.
 
 
 ### § 61 Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009811311)
 
 (1) Für die Dauer der Pflicht, in einer Aufnahmeeinrichtung zu wohnen,
 darf der Ausländer keine Erwerbstätigkeit ausüben. Abweichend von Satz
@@ -3225,6 +3320,7 @@ Absatz 1 Satz 2 bleibt unberührt.
 
 
 ### § 62 Gesundheitsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE009904116)
 
 (1) Ausländer, die in einer Aufnahmeeinrichtung oder
 Gemeinschaftsunterkunft zu wohnen haben, sind verpflichtet, eine
@@ -3243,6 +3339,7 @@ ist das Ergebnis der Untersuchung auch dem Bundesamt mitzuteilen.
 
 
 ### § 63 Bescheinigung über die Aufenthaltsgestattung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE010111311)
 
 (1) Dem Ausländer wird nach der Asylantragstellung innerhalb von drei
 Arbeitstagen eine mit den Angaben zur Person und einem Lichtbild
@@ -3284,6 +3381,7 @@ Im Übrigen gilt § 78a Absatz 5 des Aufenthaltsgesetzes entsprechend.
 
 
 ### § 63a Bescheinigung über die Meldung als Asylsuchender
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016901116)
 
 (1) Einem Ausländer, der um Asyl nachgesucht hat und nach den
 Vorschriften des Asylgesetzes oder des Aufenthaltsgesetzes
@@ -3432,6 +3530,7 @@ dem Bundesamt oder der Ausländerbehörde unverzüglich
 
 
 ### § 64 Ausweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE010203377)
 
 (1) Der Ausländer genügt für die Dauer des Asylverfahrens seiner
 Ausweispflicht mit der Bescheinigung über die Aufenthaltsgestattung.
@@ -3440,6 +3539,7 @@ Ausweispflicht mit der Bescheinigung über die Aufenthaltsgestattung.
 
 
 ### § 65 Herausgabe des Passes
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE010305116)
 
 (1) Dem Ausländer ist nach der Stellung des Asylantrags der Pass oder
 Passersatz auszuhändigen, wenn dieser für die weitere Durchführung des
@@ -3456,6 +3556,7 @@ Erlöschen der räumlichen Beschränkung (§ 59a) gilt für eine Reise Satz
 
 
 ### § 66 Ausschreibung zur Aufenthaltsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE010503116)
 
 (1) Der Ausländer kann zur Aufenthaltsermittlung im
 Ausländerzentralregister und in den Fahndungshilfsmitteln der Polizei
@@ -3490,6 +3591,7 @@ veranlasst werden.
 
 
 ### § 67 Erlöschen der Aufenthaltsgestattung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE010610311)
 
 (1) Die Aufenthaltsgestattung erlischt,
 
@@ -3543,22 +3645,27 @@ keinen Asylantrag stellt.
 
 
 ### § 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE010704377)
 
 
 
 ### § 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015600377)
 
 
 
 ### § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015700377)
 
 
 
 ## Abschnitt 7 - Folgeantrag, Zweitantrag
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001105311)
 
 
 
 ### § 71 Folgeantrag
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011010311)
 
 (1) Stellt der Ausländer nach Rücknahme oder unanfechtbarer Ablehnung
 eines früheren Asylantrags erneut einen Asylantrag (Folgeantrag), so
@@ -3630,6 +3737,7 @@ Absatz 3 entsprechend.
 
 
 ### § 71a Zweitantrag
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013804377)
 
 (1) Stellt der Ausländer nach erfolglosem Abschluss eines
 Asylverfahrens in einem sicheren Drittstaat (§ 26a), für den
@@ -3660,10 +3768,12 @@ eines Zweitantrags einen weiteren Asylantrag, gilt § 71.
 
 
 ## Abschnitt 8 - Erlöschen, Widerruf und Rücknahme der Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001205311)
 
 
 
 ### § 72 Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011106311)
 
 (1) Die Anerkennung als Asylberechtigter und die Zuerkennung des
 internationalen Schutzes erlöschen, wenn der Ausländer
@@ -3685,6 +3795,7 @@ Ausländerbehörde abzugeben.
 
 
 ### § 73 Widerrufs- und Rücknahmegründe
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011214311)
 
 (1) Die Anerkennung als Asylberechtigter oder die Zuerkennung der
 Flüchtlingseigenschaft ist zu widerrufen, wenn die Voraussetzungen für
@@ -3769,6 +3880,7 @@ geboten ist.
 
 
 ### § 73a Gründe für einen Widerruf von Familienasyl und internationalem Schutz für Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014604311)
 
 In den Fällen des § 26 Absatz 1 bis 3 und 5 ist die Anerkennung als
 Asylberechtigter oder die Zuerkennung des internationalen Schutzes zu
@@ -3786,6 +3898,7 @@ zuerkannt werden könnte. § 26 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 73b Widerrufs- und Rücknahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016402311)
 
 (1) Das Bundesamt prüft den Widerruf oder die Rücknahme nach § 73 und
 § 73a, sobald es Kenntnis von Umständen oder Tatsachen erhält, die
@@ -3876,6 +3989,7 @@ Entscheidung.
 
 
 ### § 73c Ausländische Anerkennung als Flüchtling
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016501311)
 
 (1) Ist bei einem Ausländer, der von einem ausländischen Staat als
 Flüchtling im Sinne des Abkommens über die Rechtsstellung der
@@ -3894,10 +4008,12 @@ oder nicht mehr vorliegen. Die §§ 73 bis 73b gelten entsprechend.
 
 
 ## Abschnitt 9 - Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001304311)
 
 
 
 ### § 74 Klagefrist, Zurückweisung verspäteten Vorbringens, Verhandlung durch den abgelehnten Richter
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011306311)
 
 (1) Die Klage gegen Entscheidungen nach diesem Gesetz muss innerhalb
 von zwei Wochen nach Zustellung der Entscheidung erhoben werden; ist
@@ -3924,6 +4040,7 @@ wiederholen.
 
 
 ### § 75 Aufschiebende Wirkung der Klage
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011409311)
 
 (1) Die Klage gegen Entscheidungen nach diesem Gesetz hat nur in den
 Fällen des § 38 Absatz 1 sowie des § 73b Absatz 7 Satz 1 aufschiebende
@@ -3953,6 +4070,7 @@ Verwaltungsgerichtsordnung bleibt unberührt.
 
 
 ### § 76 Einzelrichter
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011505377)
 
 (1) Die Kammer soll in der Regel in Streitigkeiten nach diesem Gesetz
 den Rechtsstreit einem ihrer Mitglieder als Einzelrichter zur
@@ -3982,6 +4100,7 @@ Ernennung nicht Einzelrichter sein.
 
 
 ### § 77 Entscheidung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011604311)
 
 (1) In Streitigkeiten nach diesem Gesetz stellt das Gericht auf die
 Sach- und Rechtslage im Zeitpunkt der letzten mündlichen Verhandlung
@@ -4014,6 +4133,7 @@ das Gericht nach billigem Ermessen.
 
 
 ### § 78 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011709311)
 
 (1) Das Urteil des Verwaltungsgerichts, durch das die Klage in
 Rechtsstreitigkeiten nach diesem Gesetz als offensichtlich unzulässig
@@ -4100,6 +4220,7 @@ Absatz 8 drei Jahre nach Inkrafttreten.
 
 
 ### § 79 Besondere Vorschriften für das Berufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011806311)
 
 (1) In dem Verfahren vor dem Oberverwaltungsgericht gilt in Bezug auf
 Erklärungen und Beweismittel, die der Kläger nicht innerhalb der Frist
@@ -4137,6 +4258,7 @@ Art aufweist und die Rechtssache keine grundsätzliche Bedeutung hat. §
 
 
 ### § 80 Ausschluss der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE011904311)
 
 Entscheidungen in Rechtsstreitigkeiten nach diesem Gesetz und über
 Maßnahmen zum Vollzug der Abschiebungsandrohung (§ 34) oder der
@@ -4146,6 +4268,7 @@ mit der Beschwerde angefochten werden.
 
 
 ### § 80a Ruhen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE013903377)
 
 (1) Für das Klageverfahren gilt § 32a Abs. 1 entsprechend. Das Ruhen
 hat auf den Lauf von Fristen für die Einlegung oder Begründung von
@@ -4162,6 +4285,7 @@ nach § 24 des Aufenthaltsgesetzes.
 
 
 ### § 81 Nichtbetreiben des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012003377)
 
 Die Klage gilt in einem gerichtlichen Verfahren nach diesem Gesetz als
 zurückgenommen, wenn der Kläger das Verfahren trotz Aufforderung des
@@ -4171,6 +4295,7 @@ Satz 1 und 2 eintretenden Folgen hinzuweisen.
 
 
 ### § 82 Akteneinsicht in Verfahren des vorläufigen Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012103377)
 
 In Verfahren des vorläufigen Rechtsschutzes wird Akteneinsicht auf der
 Geschäftsstelle des Gerichts gewährt. Die Akten können dem
@@ -4181,6 +4306,7 @@ gilt Satz 2 entsprechend.
 
 
 ### § 83 Besondere Spruchkörper
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012205116)
 
 (1) Streitigkeiten nach diesem Gesetz sollen in besonderen
 Spruchkörpern zusammengefasst werden.
@@ -4201,6 +4327,7 @@ die Ermächtigung auf andere Stellen übertragen.
 
 
 ### § 83a Unterrichtung der Ausländerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014003116)
 
 Das Gericht darf der Ausländerbehörde das Ergebnis eines Verfahrens
 formlos mitteilen. Das Gericht hat der Ausländerbehörde das Ergebnis
@@ -4210,12 +4337,14 @@ Gesetz zum Gegenstand hat.
 
 
 ### § 83b Gerichtskosten, Gegenstandswert
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014104377)
 
 Gerichtskosten (Gebühren und Auslagen) werden in Streitigkeiten nach
 diesem Gesetz nicht erhoben.
 
 
 ### § 83c Anwendbares Verfahren für die Anordnung und Befristung von Einreise- und Aufenthaltsverboten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017000116)
 
 Die Bestimmungen dieses Abschnitts sowie § 52 Nummer 2 Satz 3 der
 Verwaltungsgerichtsordnung gelten auch für Rechtsbehelfe gegen die
@@ -4224,10 +4353,12 @@ Aufenthaltsgesetzes.
 
 
 ## Abschnitt 10 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001404311)
 
 
 
 ### § 84 Verleitung zur missbräuchlichen Asylantragstellung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012307377)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer einen Ausländer verleitet oder dabei unterstützt, im
@@ -4269,6 +4400,7 @@ handelt.
 
 
 ### § 84a Gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014502377)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer in den Fällen des § 84 Abs. 1 als Mitglied einer Bande,
@@ -4282,6 +4414,7 @@ Monaten bis zu fünf Jahren.
 
 
 ### § 85 Sonstige Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012406311)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -4336,6 +4469,7 @@ um
 
 
 ### § 86 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012506116)
 
 (1) Ordnungswidrig handelt ein Ausländer, der einer
 Aufenthaltsbeschränkung nach § 56 oder § 59b Absatz 1, jeweils auch in
@@ -4346,10 +4480,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## Abschnitt 11 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNG001504311)
 
 
 
 ### § 87 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012605311)
 
 (1) Für das Verwaltungsverfahren gelten folgende
 Übergangsvorschriften:
@@ -4421,6 +4557,7 @@ folgende Übergangsvorschriften:
 
 
 ### § 87a Übergangsvorschriften aus Anlass der am 1. Juli 1993 in Kraft getretenen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014202377)
 
 (1) Soweit in den folgenden Vorschriften nicht etwas anderes bestimmt
 ist, gelten die Vorschriften dieses Gesetzes mit Ausnahme der §§ 26a
@@ -4477,6 +4614,7 @@ folgende Übergangsvorschriften:
 
 
 ### § 87b Übergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE015201377)
 
 In gerichtlichen Verfahren nach diesem Gesetz, die vor dem 1.
 September 2004 anhängig geworden sind, gilt § 6 in der vor diesem
@@ -4484,6 +4622,7 @@ Zeitpunkt geltenden Fassung weiter.
 
 
 ### § 87c Übergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017200116)
 
 (1) Eine vor dem 6. August 2016 erworbene Aufenthaltsgestattung gilt
 ab dem Zeitpunkt ihrer Entstehung fort. Sie kann insbesondere durch
@@ -4521,6 +4660,7 @@ unterschiedliche Zeitpunkte, so ist der früheste Zeitpunkt maßgeblich.
 
 
 ### § 87d Übergangsvorschrift aus Anlass der am 23. Dezember 2023 in Kraft getretenen Änderung
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE017500126)
 
 § 61 Absatz 2 Satz 4 findet keine Anwendung auf Staatsangehörige
 Georgiens und der Republik Moldau, die bis zum 30. August 2023 einen
@@ -4528,6 +4668,7 @@ Asylantrag gestellt haben.
 
 
 ### § 88 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012711126)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates die zuständigen
@@ -4564,12 +4705,14 @@ Aufnahmeeinrichtung auf andere Stellen des Landes übertragen.
 
 
 ### § 88a Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE016800116)
 
 Von der in § 60 getroffenen Regelung kann durch Landesrecht nicht
 abgewichen werden.
 
 
 ### § 89 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012804377)
 
 (1) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2
 Satz 1 des Grundgesetzes) und der Freiheit der Person (Artikel 2 Abs.
@@ -4582,10 +4725,12 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 ### § 90 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE012907116)
 
 
 
 ### Anlage I (zu § 26a)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014303377)
 
 (Fundstelle: BGBl I 2008 S. 1822)
 Norwegen
@@ -4593,6 +4738,7 @@ Schweiz
 
 
 ### Anlage II (zu § 29a)
+[Direktlink](https://www.gesetze-im-internet.de/asylvfg_1992/BJNR111260992.html#BJNR111260992BJNE014407126)
 
 (Fundstelle: BGBl. 2023 I Nr. 382, S. 1)
 

@@ -24,6 +24,7 @@ Stand: Ersetzt V 2129-8-28-1 v. 20.4.2004 I 614, 1423 (BImSchV 28 2004)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -56,6 +57,7 @@ Es verordnen auf Grund
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000200000)
 
 (1) Diese Verordnung regelt die Durchführung der Verordnung (EU)
 2016/1628 des Europäischen Parlaments und des Rates vom 14. September
@@ -102,6 +104,7 @@ Verordnung (EU) 2016/1628.
 
 
 ## § 2 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000300000)
 
 (1) Marktteilnehmer haben bei der Angabe von Tatsachen zur
 Geltendmachung einer Ausnahme im Sinne des Artikels 34 Absatz 1, 2
@@ -136,6 +139,7 @@ diesen Voraussetzungen in Verkehr gebracht werden.
 
 
 ## § 3 Genehmigungsbehörde, Bekanntgabe der Technischen Dienste und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000400000)
 
 (1) Genehmigungsbehörde im Sinne des Artikels 3 Nummer 55 der
 Verordnung (EU) 2016/1628 ist das Kraftfahrt-Bundesamt.
@@ -155,6 +159,7 @@ Kraftfahrt-Bundesamt.
 
 
 ## § 4 Marktüberwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000500000)
 
 Marktüberwachungsbehörden im Sinne des Artikels 3 Nummer 58 der
 Verordnung (EU) 2016/1628 sind vorbehaltlich des Satzes 2 die nach
@@ -165,6 +170,7 @@ Bundesamtes durch das Kraftfahrt-Bundesamt durchgeführt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000600000)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -374,6 +380,7 @@ Vorschriften zuständig ist.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000700000)
 
 (1) Für die Erteilung von Typgenehmigungen sind bis zu den in Anhang
 III der Verordnung (EU) 2016/1628 festgelegten Zeitpunkten die §§ 4
@@ -393,6 +400,7 @@ Verordnung (EU) 2016/1628 festgelegten Zeitpunkten § 2 der Verordnung
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000800000)
 
 Diese Verordnung tritt an dem Tag in Kraft, an dem Artikel 3 des
 Vierten Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer
@@ -404,6 +412,7 @@ worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_28_2021/BJNR312500021.html#BJNR312500021BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

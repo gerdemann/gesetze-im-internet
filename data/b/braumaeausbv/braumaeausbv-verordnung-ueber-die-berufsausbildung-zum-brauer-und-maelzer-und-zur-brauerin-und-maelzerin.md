@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) und auf Grund des
@@ -40,9 +41,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000300000)
 
 Der Ausbildungsberuf des Brauers und Mälzers und der Brauerin und
 Mälzerin wird staatlich anerkannt nach
@@ -58,11 +61,13 @@ Mälzerin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -82,6 +87,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -192,6 +198,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -199,9 +206,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000800000)
 
 (1) Die Abschluss- oder Gesellenprüfung besteht aus den Teilen 1 und
 2\.
@@ -212,6 +221,7 @@ Stelle fest.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE000900000)
 
 Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -228,6 +238,7 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001000000)
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung findet im
 Prüfungsbereich Aufbereiten von Wasser und Herstellen von Malz statt.
@@ -289,6 +300,7 @@ Minuten.
 
 
 ### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001100000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -311,6 +323,7 @@ erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001200000)
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -331,6 +344,7 @@ Prüfungsbereichen statt:
 
 
 ### § 11 Prüfungsbereich Brauprozesse
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001300000)
 
 (1) Im Prüfungsbereich Brauprozesse hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -442,6 +456,7 @@ Fachgespräche jeweils höchstens 5 Minuten.
 
 
 ### § 12 Prüfungsbereich Betriebstechnik
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001400000)
 
 (1) Im Prüfungsbereich Betriebstechnik hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -472,6 +487,7 @@ Zeit dauert das situative Fachgespräch höchstens 5 Minuten.
 
 
 ### § 13 Prüfungsbereich Verfahrenstechnologie
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001500000)
 
 (1) Im Prüfungsbereich Verfahrenstechnologie hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -510,6 +526,7 @@ der Arbeit umzusetzen.
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -523,6 +540,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -596,6 +614,7 @@ Ergänzungsprüfung nach § 16, wie folgt bewertet worden sind:
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -631,9 +650,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNG000300000)
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2021 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Brauer und Mälzer/zur
@@ -643,6 +664,7 @@ außer Kraft.
 (zu § 3 Absatz 1 Satz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer und zur Brauerin und Mälzerin
+[Direktlink](https://www.gesetze-im-internet.de/braum_ausbv/BJNR148300021.html#BJNR148300021BJNE002000000)
 
 (Fundstelle: BGBl. I 2021, 1487 - 1492)
 

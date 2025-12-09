@@ -26,15 +26,18 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 5 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verkdhspfrusppfleg/BJNR221800015.html#BJNR221800015BJNE000100000)
 
 
 ## Art 6 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/verkdhspfrusppfleg/BJNR221800015.html#BJNR221800015BJNE000200000)
 
 Durch die Artikel 1 und 2 dieses Gesetzes wird das Fernmeldegeheimnis
 (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 ## Art 7 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/verkdhspfrusppfleg/BJNR221800015.html#BJNR221800015BJNE000300000)
 
 (1) Die Anwendung der durch dieses Gesetz geschaffenen und geänderten
 Vorschriften der Strafprozessordnung und des
@@ -68,6 +71,7 @@ die Fortentwicklung der Kommunikationstechnik zu berücksichtigen.
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkdhspfrusppfleg/BJNR221800015.html#BJNR221800015BJNE000400000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

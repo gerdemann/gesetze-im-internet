@@ -22,12 +22,14 @@ Geändert durch
 Stand: G in Kraft gem. Art. 4 Abs. 1 iVm Bek. v. 25.2.2020 I 316 mWv 1.2.2020
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brexit_g/BJNR040200019.html#BJNR040200019BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/brexit_g/BJNR040200019.html#BJNR040200019BJNE000201377)
 
 Während des Übergangszeitraums gemäß dem Vierten Teil des Abkommens
 über den Austritt des Vereinigten Königreichs Großbritannien und
@@ -39,6 +41,7 @@ der Europäischen Union und der Europäischen Atomgemeinschaft.
 
 
 ## § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/brexit_g/BJNR040200019.html#BJNR040200019BJNE000300000)
 
 § 1 ist nicht anzuwenden auf Bestimmungen des Bundesrechts, welche die
 Ausnahmen umsetzen oder durchführen, die in Artikel 127 Absatz 1, 4, 5
@@ -48,6 +51,7 @@ Europäischen Atomgemeinschaft genannt werden.
 
 
 ## § 3 Einbürgerung britischer und deutscher Staatsangehöriger
+[Direktlink](https://www.gesetze-im-internet.de/brexit_g/BJNR040200019.html#BJNR040200019BJNE000400000)
 
 (1) Bei britischen Staatsangehörigen, die vor Ablauf des
 Übergangszeitraums einen Antrag auf Einbürgerung in Deutschland
@@ -66,6 +70,7 @@ Erwerb der britischen Staatsangehörigkeit erst nach Ablauf des
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/brexit_g/BJNR040200019.html#BJNR040200019BJNE000500000)
 
 (1) Dieses Gesetz tritt an dem Tag in Kraft, an dem das Abkommen über
 den Austritt des Vereinigten Königreichs Großbritannien und Nordirland

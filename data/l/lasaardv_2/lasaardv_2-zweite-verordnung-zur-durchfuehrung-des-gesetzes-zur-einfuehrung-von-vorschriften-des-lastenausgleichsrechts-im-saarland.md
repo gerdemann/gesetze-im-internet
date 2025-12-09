@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE000500326)
 
 Auf Grund des § 12 Abs. 2 und des § 37 Abs. 1 und 3 des Gesetzes zur
 Einführung von Vorschriften des Lastenausgleichsrechts im Saarland vom
@@ -31,12 +32,14 @@ Zustimmung des Bundesrates:
 
 
 ## Erster Titel - Zusammentreffen saarländischer Vorauszahlungen mit saarländischer Unterhaltshilfe und mit Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNG000100326)
 
 
 Behandlung der saarländischen Vorauszahlungen bei der Umstellung der
 saarländischen Unterhaltshilfe
 
 ### § 1 (§ 27 LA-EG-Saar)
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE000600326)
 
 (1) Sind Vorauszahlungen im Sinne des § 12 Abs. 1 des Gesetzes
 (saarländische Vorauszahlungen) vor oder während der Gewährung von
@@ -90,6 +93,7 @@ gegenübersteht.
 
 
 ### § 2 Behandlung der saarländischen Vorauszahlungen bei der Zuerkennung von Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE000700326)
 
 (1) Die saarländischen Vorauszahlungen sind bei der Zuerkennung von
 Kriegsschadenrente nach dem Lastenausgleichsgesetz so zu behandeln,
@@ -108,6 +112,7 @@ Jahresfrist endet nicht vor dem 31. Mai 1972.
 
 
 ### § 3 Gewährung des Mindesterfüllungsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE000800326)
 
 Sind saarländische Vorauszahlungen gewährt worden, wird der
 Mindesterfüllungsbetrag (§ 278a Abs. 4, § 283a Abs. 1 Nr. 3 LAG) nur
@@ -115,6 +120,7 @@ gewährt, soweit er die Vorauszahlungen übersteigt.
 
 
 ### § 4 Reihenfolge der Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE000900326)
 
 Für die Reihenfolge der Anrechnung von Zahlungen an saarländischer
 Unterhaltshilfe, Kriegsschadenrente und saarländischen Vorauszahlungen
@@ -144,10 +150,12 @@ der Nummer 1 Satz 2 im Anschluß an die Vorauszahlungen anzurechnen.
 
 
 ## Zweiter Titel - Zusammentreffen von Aufbaudarlehen mit saarländischen Vorauszahlungen, saarländischer Unterhaltshilfe und Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNG000200326)
 
 
 
 ### § 5 Reihenfolge der Anrechnung von Aufbaudarlehen und saarländischen Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001000326)
 
 (1) Sind Aufbaudarlehen (saarländische Darlehen nach § 13 des Gesetzes
 und Aufbaudarlehen nach dem Lastenausgleichsgesetz) und saarländische
@@ -166,6 +174,7 @@ Zahlung zueinander stehen.
 
 
 ### § 6 Reihenfolge der Anrechnung von Darlehen, saarländischen Vorauszahlungen, saarländischer Unterhaltshilfe und Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001100326)
 
 Sind neben Aufbaudarlehen, saarländischer Unterhaltshilfe und
 Kriegsschadenrente auch saarländische Vorauszahlungen auf den Anspruch
@@ -176,10 +185,12 @@ Aufbaudarlehen und saarländischen Vorauszahlungen zueinander gilt § 5.
 
 
 ## Dritter Titel - Anrechnung von saarländischen Vorauszahlungen in Erbfällen
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNG000300326)
 
 
 
 ### § 7 Anrechnung von saarländischen Vorauszahlungen an den Erblasser
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001200326)
 
 (1) Ist ein unmittelbar Geschädigter vor dem 1. April 1952 verstorben,
 sind die an ihn geleisteten saarländischen Vorauszahlungen nach dem
@@ -203,6 +214,7 @@ Erben des Berechtigten bei deren Erben anzurechnen.
 
 
 ### § 8 Anrechnung von saarländischen Vorauszahlungen an Erben
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001300326)
 
 (1) Saarländische Vorauszahlungen, die an einen Erben für Schäden des
 verstorbenen unmittelbar Geschädigten geleistet worden sind, werden
@@ -223,6 +235,7 @@ angerechnet,
 
 
 ### § 9 Anrechnung von saarländischen Vorauszahlungen auf mehrere Ansprüche auf Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001400326)
 
 Sind in der Person eines am 1. April 1952 Berechtigten Ansprüche auf
 Hauptentschädigung aus eigenen Schäden und aus Schäden eines oder
@@ -235,10 +248,12 @@ verstorbener unmittelbar Geschädigter entstanden sind.
 
 
 ## Vierter Titel - Sonstige und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNG000400326)
 
 
 
 ### § 10 Ausschlußfristen für Anträge nach saarländischen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001500326)
 
 (1) Für Kriegssachschäden an Hausrat, die in der Zeit vom 9. Mai bis
 31\. Juli 1945 entstanden sind, können Anträge auf Feststellung nach
@@ -254,6 +269,7 @@ Lastenausgleichsrechts im Saarland) können nur bis zum 31. Dezember
 
 
 ### § 11 Anwendungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001600326)
 
 Die Vorschriften der §§ 1 bis 9 sind mit Wirkung vom Inkrafttreten des
 Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im
@@ -262,6 +278,7 @@ anzuwenden.
 
 
 ### § 12 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001700326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (BGBl. I S. 1) in Verbindung mit § 39 des Gesetzes zur
@@ -270,6 +287,7 @@ auch im Land Berlin.
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_2/BJNR004710963.html#BJNR004710963BJNE001800326)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

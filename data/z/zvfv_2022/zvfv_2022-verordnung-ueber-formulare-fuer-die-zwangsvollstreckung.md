@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 310-4-16 v. 23.8.2012 I 1822 (ZVFV)
 
 ## § 1 Einführung von Formularen
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000100000)
 
 (1) Für Vollstreckungsaufträge an Gerichtsvollzieher nach § 753
 Absatz 1 der Zivilprozessordnung wird das Formular der Anlage 1
@@ -59,6 +60,7 @@ eingeführt:
 
 
 ## § 2 Nutzung der Formulare
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000200000)
 
 (1) Die Formulare der Anlagen 1 bis 5 sind ausschließlich für die
 folgenden Zwecke verbindlich:
@@ -110,6 +112,7 @@ abweichenden Formular gemacht.
 
 
 ## § 3 Abweichungen von den Formularen
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000300000)
 
 (1) Abweichungen von den Formularen sind ausschließlich zulässig
 
@@ -190,6 +193,7 @@ Gericht auszufüllen gekennzeichnet sind, ist
 
 
 ## § 4 Elektronisch auslesbares Formular
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000400000)
 
 In Papierform eingereichte Formulare können zur elektronischen
 Weiterverarbeitung der Daten elektronisch ausgelesen werden. Die
@@ -197,6 +201,7 @@ Länder sind befugt, die Voraussetzungen hierfür festzulegen.
 
 
 ## § 5 Strukturierte Datensätze; gemeinsame Koordinierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000500000)
 
 (1) Die Länder dürfen die Formulare als strukturierte Datensätze zum
 Zweck der Übermittlung an Gerichtsvollzieher oder Gerichte
@@ -211,6 +216,7 @@ können die Länder sich dieser bedienen.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000602125)
 
 (1) Für bis einschließlich 30. September 2025 gestellte
 
@@ -244,6 +250,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Vollstreckungsauftrag an Gerichtsvollzieher
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000701125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 3 – 10)
 
@@ -251,6 +258,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 2)
 
 ## Anlage 2 Antrag auf Erlass einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000801125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 11 – 13)
 
@@ -258,6 +266,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 2)
 
 ## Anlage 3 Entwurf einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE000901125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 14 – 19)
 
@@ -265,6 +274,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 3)
 
 ## Anlage 4 Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001001125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 20 – 22)
 
@@ -272,6 +282,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 3)
 
 ## Anlage 5 Entwurf eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001101125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 23 – 32)
 
@@ -279,6 +290,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 4 Nummer 1)
 
 ## Anlage 6 Aufstellung von Forderungen für Vollstreckungsaufträge an Gerichtsvollzieher
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001201125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 33 – 35)
 
@@ -286,6 +298,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 4 Nummer 2 Buchstabe a)
 
 ## Anlage 7 Aufstellung von Forderungen, die keine gesetzlichen Unterhaltsansprüche sind, für den Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001301125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 36 – 38)
 
@@ -293,6 +306,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 (zu § 1 Absatz 4 Nummer 2 Buchstabe b)
 
 ## Anlage 8 Aufstellung von Forderungen bei der Vollstreckung von gesetzlichen Unterhaltsansprüchen für den Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zvfv_2022/BJNR236810022.html#BJNR236810022BJNE001401125)
 
 (Fundstelle: BGBl. 2024 I Nr. 203, S. 39 – 42)
 

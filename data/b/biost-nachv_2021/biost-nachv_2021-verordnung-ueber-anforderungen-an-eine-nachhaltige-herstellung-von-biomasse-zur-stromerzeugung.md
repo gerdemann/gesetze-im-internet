@@ -28,9 +28,11 @@ und der Vorschriften für die Dienste der Informationsgesellschaft
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf
 
@@ -62,6 +64,7 @@ Diese Verordnung ist anzuwenden auf
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000300000)
 
 (1) Für diese Verordnung sind die Begriffsbestimmungen der Absätze 2
 bis 34 anzuwenden.
@@ -436,9 +439,11 @@ juristische Personen, die in einem anerkannten Zertifizierungssystem
 
 
 ## Teil 2 - Nachhaltigkeitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000200000)
 
 
 ### § 3 Anforderungen für die Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000402130)
 
 (1) Für Strom aus flüssigen Biobrennstoffen und Biomasse-Brennstoffen
 besteht der Anspruch auf Zahlung nach den Bestimmungen für Strom aus
@@ -521,6 +526,7 @@ Siedlungsabfällen hergestellten Strom.
 
 
 ### § 4 Anforderungen an landwirtschaftliche Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000500000)
 
 (1) Biomasse aus der Landwirtschaft, die zur Herstellung von flüssigen
 Biobrennstoffen und Biomasse-Brennstoffen verwendet wird, darf nicht
@@ -585,6 +591,7 @@ nachweislich nicht zuwiderlaufen.
 
 
 ### § 5 Anforderungen an forstwirtschaftliche Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000600000)
 
 (1) In dem Staat, in dem die forstwirtschaftliche Biomasse geerntet
 wurde, die zur Herstellung von flüssigen Biobrennstoffen und Biomasse-
@@ -660,6 +667,7 @@ erhalten bleiben oder langfristig verbessert werden.
 
 
 ### § 6 Treibhausgaseinsparung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000700000)
 
 (1) Bei der Verwendung von flüssigen Biobrennstoffen muss die
 Treibhausgaseinsparung
@@ -779,12 +787,15 @@ werden in der Datenbank der zuständigen Behörde ausgewiesen.
 
 
 ## Teil 3 - Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000400000)
 
 
 #### § 7 Nachweis über die Erfüllung der Anforderungen für die Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000800000)
 
 (1) Anlagenbetreiber müssen gegenüber dem Netzbetreiber nachweisen,
 dass die Anforderungen für die Vergütung nach § 3 Absatz 1 erfüllt
@@ -811,6 +822,7 @@ Herkunft der eingesetzten Stoffe nachweisen.
 
 
 #### § 8 Weitere Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE000900000)
 
 Weitere Nachweise darüber, dass die Anforderungen nach § 3 Absatz 1
 erfüllt sind, können für die Zahlung nach den Bestimmungen für Strom
@@ -819,6 +831,7 @@ jeweils anzuwendenden Fassung nicht verlangt werden.
 
 
 #### § 9 Übermittlung der Nachweise an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001000000)
 
 Anlagenbetreiber müssen Kopien der Nachweise nach § 7 Absatz 1 Satz 2
 Nummer 1 und Absatz 2, die sie dem Netzbetreiber für die
@@ -827,9 +840,11 @@ elektronisch übermitteln.
 
 
 ### Abschnitt 2 - Nachhaltigkeitsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000500000)
 
 
 #### § 10 Anerkannte Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001100000)
 
 Anerkannte Nachweise über die Erfüllung der Anforderungen nach den §§
 4 bis 6 sind:
@@ -855,6 +870,7 @@ Anerkannte Nachweise über die Erfüllung der Anforderungen nach den §§
 
 
 #### § 11 Ausstellung von Nachhaltigkeitsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001200000)
 
 (1) Zur Ausstellung von Nachhaltigkeitsnachweisen sind nur letzte
 Schnittstellen berechtigt. Letzte Schnittstellen können für flüssige
@@ -932,6 +948,7 @@ zuständige Behörde zurückzugeben.
 
 
 #### § 12 Ausstellung auf Grund von Massenbilanzsystemen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001300000)
 
 (1) Um die Herkunft der Biomasse lückenlos für die Herstellung
 nachzuweisen, müssen Massenbilanzsysteme verwendet werden, die
@@ -1016,6 +1033,7 @@ ausschließen, bleiben unberührt.
 
 
 #### § 13 Lieferung auf Grund von Massenbilanzsystemen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001400000)
 
 (1) Um die Herkunft der flüssigen Biobrennstoffe und Biomasse-
 Brennstoffe von der Schnittstelle, die den Nachhaltigkeitsnachweis
@@ -1081,6 +1099,7 @@ bestätigen.
 
 
 #### § 14 Inhalt und Form der Nachhaltigkeitsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001500000)
 
 (1) Nachhaltigkeitsnachweise müssen die folgenden Angaben enthalten:
 
@@ -1173,6 +1192,7 @@ Zertifizierungsstellen kontrolliert.
 
 
 #### § 15 Folgen fehlender oder nicht ausreichender Angaben
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001600000)
 
 (1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zur
 Treibhausgaseinsparung nicht den Vergleichswert für die Verwendung, zu
@@ -1195,6 +1215,7 @@ diesem Staat oder in dieser Region erfüllen.
 
 
 #### § 16 Anerkannte Nachhaltigkeitsnachweise auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001700000)
 
 (1) Nachhaltigkeitsnachweise gelten auch als anerkannt, solange und
 soweit sie auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung vom
@@ -1210,6 +1231,7 @@ Biokraftstoffquotenstelle erfolgt ist.
 
 
 #### § 17 Weitere anerkannte Nachhaltigkeitsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001800000)
 
 (1) Nachhaltigkeitsnachweise gelten auch als anerkannt, solange und
 soweit sie nach dem Recht der Europäischen Union oder eines anderen
@@ -1240,6 +1262,7 @@ Europäischen Union ausgestellt worden sind
 
 
 #### § 18 Nachhaltigkeits-Teilnachweise
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE001900000)
 
 (1) Die zuständige Behörde stellt für Teilmengen von flüssigen
 Biobrennstoffen und Biomasse-Brennstoffen, für die bereits ein
@@ -1262,6 +1285,7 @@ ergibt.
 
 
 #### § 19 Unwirksamkeit von Nachhaltigkeitsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002000000)
 
 (1) Nachhaltigkeitsnachweise sind unwirksam, wenn
 
@@ -1290,9 +1314,11 @@ die Unwirksamkeit hätten erkennen können.
 
 
 ### Abschnitt 3 - Zertifikate für Schnittstellen und Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000600000)
 
 
 #### § 20 Anerkannte Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002100000)
 
 Im Sinne dieser Verordnung anerkannte Zertifikate sind:
 
@@ -1309,6 +1335,7 @@ Im Sinne dieser Verordnung anerkannte Zertifikate sind:
 
 
 #### § 21 Ausstellung von Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002200000)
 
 (1) Schnittstellen und Lieferanten kann auf Antrag ein Zertifikat
 ausgestellt werden, wenn
@@ -1427,6 +1454,7 @@ Zertifizierungssystem ausgestellt werden.
 
 
 #### § 22 Inhalt der Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002300000)
 
 Zertifikate müssen folgende Angaben enthalten:
 
@@ -1487,12 +1515,14 @@ Zertifikate müssen folgende Angaben enthalten:
 
 
 #### § 23 Folgen fehlender Angaben
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002400000)
 
 Zertifikate sind unwirksam, wenn sie eine oder mehrere Angaben nach §
 22 nicht enthalten.
 
 
 #### § 24 Gültigkeit der Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002500000)
 
 Zertifikate sind für einen Zeitraum von zwölf Monaten ab dem Datum des
 Laufzeitbeginns nach § 22 Nummer 2 gültig. Die vor dem 8. Dezember
@@ -1504,6 +1534,7 @@ unberührt.
 
 
 #### § 25 Anerkannte Zertifikate auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002600000)
 
 (1) Zertifikate gelten auch als anerkannt, solange und soweit sie auf
 Grund der Biokraftstoff-Nachhaltigkeitsverordnung anerkannt sind.
@@ -1512,6 +1543,7 @@ Grund der Biokraftstoff-Nachhaltigkeitsverordnung anerkannt sind.
 
 
 #### § 26 Weitere anerkannte Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002700000)
 
 (1) Zertifikate gelten auch als anerkannt, solange und soweit sie nach
 dem Recht der Europäischen Union oder eines anderen Mitgliedstaates
@@ -1542,12 +1574,15 @@ Europäischen Union ausgestellt worden sind
 
 
 ### Abschnitt 4 - Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000700000)
 
 
 #### Unterabschnitt 1 - Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000800000)
 
 
 ##### § 27 Anerkannte Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002800000)
 
 Im Sinne dieser Verordnung sind anerkannte Zertifizierungsstellen:
 
@@ -1565,6 +1600,7 @@ Im Sinne dieser Verordnung sind anerkannte Zertifizierungsstellen:
 
 
 ##### § 28 Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE002900000)
 
 (1) Zertifizierungsstellen werden auf Antrag anerkannt, wenn sie
 
@@ -1672,6 +1708,7 @@ kombiniert werden.
 [^f819472_03_BJNR512610021BJNE002900000]: 
 
 ##### § 29 Verfahren zur Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003000000)
 
 (1) Das Verfahren zur Anerkennung von Zertifizierungsstellen kann über
 eine einheitliche Stelle nach den Vorschriften des
@@ -1686,6 +1723,7 @@ bekannt zu machen.
 
 
 ##### § 30 Inhalt der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003100000)
 
 Die Anerkennung einer Zertifizierungsstelle muss die folgenden Angaben
 enthalten:
@@ -1703,6 +1741,7 @@ enthalten:
 
 
 ##### § 31 Erlöschen der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003200000)
 
 (1) Die Anerkennung einer Zertifizierungsstelle erlischt, wenn sie
 zurückgenommen, widerrufen, anderweitig aufgehoben oder durch
@@ -1724,6 +1763,7 @@ machen.
 
 
 ##### § 32 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003300000)
 
 Die Anerkennung einer Zertifizierungsstelle soll widerrufen werden,
 wenn die Gewähr für eine ordnungsgemäße Durchführung der Aufgaben nach
@@ -1746,9 +1786,11 @@ Verwaltungsakten bleiben im Übrigen unberührt.
 
 
 #### Unterabschnitt 2 - Aufgaben der Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG000900000)
 
 
 ##### § 33 Führen von Verzeichnissen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003400000)
 
 Die Zertifizierungsstellen müssen ein Verzeichnis aller Schnittstellen
 und Lieferanten, denen sie Zertifikate ausgestellt, verweigert oder
@@ -1759,6 +1801,7 @@ aktualisieren.
 
 
 ##### § 34 Kontrolle der Schnittstellen und Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003500000)
 
 (1) Die Zertifizierungsstellen kontrollieren spätestens sechs Monate
 nach Ausstellung des ersten Zertifikates und im Übrigen mindestens
@@ -1786,6 +1829,7 @@ zu dulden.
 
 
 ##### § 35 Kontrolle des Anbaus
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003600000)
 
 Die Zertifizierungsstellen, die Schnittstellen nach § 2 Absatz 29
 Nummer 1 Buchstabe a ein Zertifikat ausstellen, kontrollieren auf der
@@ -1802,6 +1846,7 @@ entspricht. § 34 Absatz 2 und 3 ist entsprechend anzuwenden.
 
 
 ##### § 36 Kontrolle der Entstehungsbetriebe von Abfällen und Reststoffen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003700000)
 
 Die Zertifizierungsstellen, die Schnittstellen nach § 2 Absatz 29
 Nummer 1 Buchstabe b ein Zertifikat ausstellen, kontrollieren auf der
@@ -1819,6 +1864,7 @@ entsprechend anzuwenden.
 
 
 ##### § 37 Mitteilungen und Berichte über Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003800000)
 
 Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-
 Kontrolle so rechtzeitig ankündigen, dass eine Begleitung durch die
@@ -1829,6 +1875,7 @@ Behörde elektronisch zu übermitteln.
 
 
 ##### § 38 Weitere Berichte und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE003900000)
 
 (1) Zertifizierungsstellen müssen der zuständigen Behörde nach ihrer
 Zertifizierungsentscheidung, jedoch spätestens bis zum Laufzeitbeginn
@@ -1867,6 +1914,7 @@ elektronisch übermitteln:
 
 
 ##### § 39 Aufbewahrung, Umgang mit Informationen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004000000)
 
 (1) Zertifizierungsstellen müssen die Kontrollergebnisse zehn Jahre ab
 dem Datum ihrer jeweiligen Erstellung und die Kopien der Zertifikate,
@@ -1885,9 +1933,11 @@ Geltungsbereich des Umweltinformationsgesetzes.
 
 
 #### Unterabschnitt 3 - Überwachung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001000000)
 
 
 ##### § 40 Kontrollen und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004100000)
 
 (1) Die zuständige Behörde überwacht die nach dieser Verordnung
 anerkannten Zertifizierungsstellen. § 28 Absatz 2 Satz 4 ist
@@ -1914,9 +1964,11 @@ die getroffenen Anordnungen.
 
 
 #### Unterabschnitt 4 - Weitere anerkannte Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001100000)
 
 
 ##### § 41 Anerkannte Zertifizierungsstellen auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004200000)
 
 (1) Zertifizierungsstellen gelten auch als anerkannt, solange und
 soweit sie auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
@@ -1928,6 +1980,7 @@ Nachhaltigkeitsverordnung nichts anderes ergibt.
 
 
 ##### § 42 Weitere anerkannte Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004300000)
 
 (1) Zertifizierungsstellen gelten auch als anerkannt, solange und
 soweit sie von der Europäischen Kommission oder von einem anderen
@@ -1942,9 +1995,11 @@ Europäischen Kommission vereinbar ist.
 
 
 #### Unterabschnitt 5 - Vorläufige Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001200000)
 
 
 ##### § 43 Vorläufige Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004400000)
 
 (1) Die zuständige Behörde kann Zertifizierungsstellen vorläufig
 anerkennen, wenn eine abschließende Prüfung der Voraussetzungen nach §
@@ -1962,9 +2017,11 @@ keine Rechtsansprüche ableiten.
 
 
 ## Teil 4 - Zentrales Register
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001300000)
 
 
 ### § 44 Register Biostrom
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004500000)
 
 Die zuständige Behörde führt ein zentrales Register über alle
 Zertifizierungssysteme, Zertifizierungsstellen, Zertifikate,
@@ -2013,6 +2070,7 @@ verwenden:
 
 
 ### § 45 Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004600000)
 
 (1) Soweit es zur Sicherstellung der Richtigkeit der Daten im Register
 Biostrom erforderlich ist, gleicht die zuständige Behörde diese Daten
@@ -2047,6 +2105,7 @@ diese Nachweise abgleichen. § 53 Satz 2 bleibt davon unberührt.
 
 
 ### § 46 Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004700000)
 
 Die zuständige Behörde muss dem Netzbetreiber, an dessen Netz die
 Anlage zur Stromerzeugung angeschlossen ist, Folgendes mitteilen,
@@ -2076,9 +2135,11 @@ Biobrennstoffe und Biomasse-Brennstoffe bezieht:
 
 
 ## Teil 5 - Datenverarbeitung, Berichtspflichten, behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001400000)
 
 
 ### § 47 Auskunftsrecht der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004800000)
 
 Die zuständige Behörde kann von Anlagenbetreibern,
 Zertifizierungsstellen, Schnittstellen, Lieferanten und von
@@ -2100,6 +2161,7 @@ erforderlich ist, um
 
 
 ### § 48 Berichtspflicht der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE004900000)
 
 Die zuständige Behörde evaluiert diese Verordnung regelmäßig und legt
 der Bundesregierung erstmals zum 31. Dezember 2022 und sodann jedes
@@ -2107,6 +2169,7 @@ Jahr einen Erfahrungsbericht in nicht personenbezogener Form vor.
 
 
 ### § 49 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005000000)
 
 Soweit es zur Durchführung dieser Verordnung erforderlich ist, darf
 die zuständige Behörde Informationen übermitteln an einen oder mehrere
@@ -2154,6 +2217,7 @@ der folgenden Adressaten:
 
 
 ### § 50 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005100000)
 
 (1) Zuständige Behörde im Sinne dieser Verordnung ist die
 Bundesanstalt für Landwirtschaft und Ernährung.
@@ -2166,6 +2230,7 @@ und nukleare Sicherheit herzustellen.
 
 
 ### § 51 Verfahren vor der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005200000)
 
 Die Amtssprache ist deutsch. Alle Anträge, die bei der zuständigen
 Behörde gestellt werden, und alle Nachweise, Bescheinigungen, Berichte
@@ -2176,6 +2241,7 @@ werden, müssen in deutscher Sprache verfasst oder mit einer
 
 
 ### § 52 Muster und Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005300000)
 
 (1) Für die folgenden Dokumente sind Muster und Vordrucke sowie ein
 Datensatzformat einer elektronischen Datenübermittlung zu verwenden:
@@ -2204,6 +2270,7 @@ Bundesanzeiger und auf ihrer Internetseite veröffentlichen.
 
 
 ### § 53 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005400000)
 
 Der Informationsaustausch mit den Behörden anderer Mitgliedstaaten der
 Europäischen Union und Drittstaaten sowie mit den Organen der
@@ -2216,9 +2283,11 @@ Landwirtschaft auf die zuständige Behörde übertragen.
 
 
 ## Teil 6 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001500000)
 
 
 ### § 54 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005500000)
 
 Ordnungswidrig im Sinne des § 86 Absatz 1 Nummer 4 Buchstabe a des
 Erneuerbare-Energien-Gesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2226,9 +2295,11 @@ entgegen § 12 Absatz 1 Satz 2 eine Angabe nicht richtig macht.
 
 
 ## Teil 7 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNG001600000)
 
 
 ### § 55 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html#BJNR512610021BJNE005600000)
 
 Diese Verordnung ist nicht anzuwenden auf
 

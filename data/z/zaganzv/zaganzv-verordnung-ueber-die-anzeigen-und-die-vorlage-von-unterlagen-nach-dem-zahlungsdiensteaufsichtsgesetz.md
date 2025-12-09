@@ -27,6 +27,7 @@ Zuletzt geändert durch
 [^F772649_01_BJNR360300009]: 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 Satz 1 und 3 sowie des § 29 Absatz 2 Satz
 1 und 3 des Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl.
@@ -36,6 +37,7 @@ Zahlungsinstitute:
 
 
 ## § 1 Einreichungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000202130)
 
 (1) Die Anzeigen und die Unterlagen, die nach dem
 Zahlungsdiensteaufsichtsgesetz zu erstatten oder vorzulegen sind, sind
@@ -57,6 +59,7 @@ auf ihrer jeweiligen Internetseite.
 
 
 ## § 2 Unterlagen nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Erlaubnis)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000301116)
 
 (1) Erlaubnisanträge einschließlich der nach § 10 Absatz 2 und § 11
 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes erforderlichen Angaben
@@ -225,6 +228,7 @@ Zahlungsdiensteaufsichtsgesetzes.
 
 
 ## § 3 Mitteilungen nach § 10 Absatz 5 und § 11 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000401116)
 
 (1) Den Mitteilungen nach § 10 Absatz 5 und § 11 Absatz 4 des
 Zahlungsdiensteaufsichtsgesetzes sind im Falle der Änderung von gemäß
@@ -235,6 +239,7 @@ eingereichten Unterlagen die geänderten Unterlagen beizufügen.
 
 
 ## § 4 Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Erwerb oder Erhöhung einer bedeutenden Beteiligung)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000503116)
 
 (1) Auf die Anzeigen nach § 14 Absatz 1 Satz 2 des
 Zahlungsdiensteaufsichtsgesetzes sind § 2 Absatz 1 und 3 sowie die §§
@@ -300,6 +305,7 @@ haftenden Gesellschafters ist ebenfalls anzuzeigen.
 
 
 ## § 5 Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Verringerung oder Aufgabe einer bedeutenden Beteiligung)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000601116)
 
 (1) Die Absicht
 
@@ -329,6 +335,7 @@ Inhaberkontrollverordnung entsprechend.
 
 
 ## § 6 Vorlage von Unterlagen nach § 22 des Zahlungsdiensteaufsichtsgesetzes (Jahresabschluss, Lagebericht, Prüfungsbericht)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000701116)
 
 Wird der Jahresabschluss ohne Änderungen festgestellt, so genügt die
 Mitteilung hierüber mit dem Datum des Tages der Feststellung; die
@@ -337,6 +344,7 @@ nicht erforderlich.
 
 
 ## § 7 Angaben nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes (Inanspruchnahme von Agenten)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000801116)
 
 (1) Der Absichtsanzeige nach § 25 Absatz 1 des
 Zahlungsdiensteaufsichtsgesetzes hat das Institut als Nachweise der
@@ -359,6 +367,7 @@ anzuzeigen.
 
 
 ## § 8 Anzeigen nach § 26 Absatz 2 Satz 1 und Absatz 4 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Wesentliche Auslagerungen)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE000902130)
 
 (1) In einer Anzeige nach § 26 Absatz 2 Satz 1 oder § 28 Absatz 1
 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes sind die beabsichtigten
@@ -619,6 +628,7 @@ können, sind insbesondere einzureichen bei
 
 
 ## § 9 Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001001116)
 
 (1) Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des
 Zahlungsdiensteaufsichtsgesetzes sind für jeden Mitgliedstaat der
@@ -674,6 +684,7 @@ Delegierten Verordnung (EU) 2017/2055 verwiesen.
 
 
 ## § 10 Anzeigen nach § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes (Bestellung eines Geschäftsleiters)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001101116)
 
 (1) Der Absichtsanzeige nach § 28 Absatz 1 Nummer 1 des
 Zahlungsdiensteaufsichtsgesetzes ist eine eigenhändig unterzeichnete
@@ -789,6 +800,7 @@ angegebenen Tätigkeiten belegen, vorzulegen.
 
 
 ## § 10a Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes (Ausscheiden eines Geschäftsleiters sowie Entziehung der Befugnis zur Einzelvertretung)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002400116)
 
 Den Anzeigen nach § 28 Absatz 1 Nummer 2 des
 Zahlungsdiensteaufsichtsgesetzes ist eine Erklärung über den Zeitpunkt
@@ -797,6 +809,7 @@ bzw. der Entziehung der Befugnis zur Einzelvertretung beizufügen.
 
 
 ## § 11 Anzeigen nach § 28 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes (Bedeutende Beteiligung am eigenen Institut und passivische enge Verbindungen)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001201116)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 28
 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes sind mit
@@ -858,6 +871,7 @@ Einreichung gilt § 1.
 
 
 ## § 12 Anzeigen nach § 28 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes (aktivische enge Verbindungen)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001301116)
 
 (1) Einzelanzeigen von Instituten über aktivische enge Verbindungen
 nach § 28 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes sind
@@ -910,6 +924,7 @@ einzureichen.
 
 
 ## § 13 Anzeigen nach § 28 Absatz 1 Nummer 9 des Zahlungsdiensteaufsichtsgesetzes (Vereinigung von Instituten)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001401116)
 
 Die Absicht von Instituten, sich zu vereinigen, ist von den
 beteiligten Instituten nach § 28 Absatz 1 Nummer 9 des
@@ -921,6 +936,7 @@ den rechtlichen Vollzug der Vereinigung.
 
 
 ## § 14 Anzeigen nach § 28 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Änderung der Sicherung der Geldbeträge und der Absicherung für den Haftungsfall)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002500116)
 
 Den Anzeigen nach § 28 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes
 ist eine Beschreibung der wesentlichen Änderungen bei der Sicherung
@@ -930,6 +946,7 @@ sowie das beabsichtigte Datum des Inkrafttretens der Änderung.
 
 
 ## § 15 Anzeigen nach § 28 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes (Nebentätigkeiten und Beteiligungen)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002600116)
 
 (1) Den Anzeigen nach § 28 Absatz 3 Nummer 1 des
 Zahlungsdiensteaufsichtsgesetzes sind Angaben über das Unternehmen,
@@ -947,6 +964,7 @@ Anlage 6 dieser Verordnung zu verwenden.
 
 
 ## § 16 Unterlagen nach § 34 Absatz 1 Satz 2 bis 7 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Registrierung) und Mitteilungen nach § 34 Absatz 5 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002700116)
 
 Auf Registrierungsanträge nach § 34 Absatz 1 Satz 2 bis 7 des
 Zahlungsdiensteaufsichtsgesetzes findet § 2 Absatz 1, 2 Satz 1, Absatz
@@ -958,29 +976,34 @@ entsprechende Anwendung.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001501116)
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 ## Anlage 1 (zu § 4 Absatz 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001602128)
 
 (Fundstelle: BGBl. I 2018, 2285 - 2299)
 
 
 
 ## Anlage 2 (zu § 4 Absatz 2 Satz 2, § 5 Absatz 1 Satz 2, § 11 Absatz 4 Satz 3 und § 12 Absatz 3 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001702116)
 
 (Fundstelle: BGBl. I 2018, 2300 - 2301)
 
 
 
 ## Anlage 3 (zu § 5 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001801116)
 
 (Fundstelle: BGBl. I 2018, 2302 - 2311)
 
 
 
 ## Anlage 4 (zu § 10 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE001901116)
 
 (Fundstelle: BGBl. I 2018, 2312 - 2317)
 
@@ -988,6 +1011,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 (zu § 10 Absatz 2 Satz 3)
 
 ## Anlage 5 Nebentätigkeiten von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002002128)
 
 (Fundstelle: BGBl. I 2018, 2318 - 2319)
 
@@ -995,6 +1019,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 (zu § 10 Absatz 2 Satz 5)
 
 ## Anlage 6 Beteiligungen von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002106130)
 
 (Fundstelle: BGBl. I 2018, 2320 - 2322;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1003,6 +1028,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 11 Absatz 1 und 2)
 
 ## Anlage 7 Passivische Beteiligungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002206130)
 
 (Fundstelle: BGBl. I 2018, 2323 - 2325;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1011,6 +1037,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 12 Absatz 1 und 2)
 
 ## Anlage 8 Aktivische Beteiligungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/zaganzv/BJNR360300009.html#BJNR360300009BJNE002306130)
 
 (Fundstelle: BGBl. I 2018, 2326 - 2328;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

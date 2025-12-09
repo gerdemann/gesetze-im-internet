@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000100000)
 
 Auf Grund des § 14 Nummer 1, 2, 7 und 8 des Stipendienprogramm-
 Gesetzes vom 21. Juli 2010 (BGBl. I S. 957) verordnet die
@@ -27,6 +28,7 @@ Bundesregierung:
 
 
 ## § 1 Bewerbungs- und Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000200000)
 
 Die Hochschulen schreiben ihre zu vergebenden Stipendien mindestens
 einmal im Jahr aus. Spätestens mit der Ausschreibung machen die
@@ -54,6 +56,7 @@ Bewerbungs- und Auswahlverfahren bleiben unberührt.
 
 
 ## § 2 Auswahlkriterien
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000300000)
 
 (1) Leistung und Begabung im Sinne des § 3 Satz 1 des Gesetzes können
 insbesondere wie folgt nachgewiesen werden:
@@ -105,6 +108,7 @@ Bewerbers sollen außerdem insbesondere berücksichtigt werden
 
 
 ## § 3 Regelmäßige Begabungs- und Leistungsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000400000)
 
 Die Hochschulen prüfen mindestens einmal jährlich, ob die Begabung und
 Leistung der Stipendiatin oder des Stipendiaten eine Fortgewähr des
@@ -116,11 +120,13 @@ Leistung erbracht wurde, werden berücksichtigt.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000501310)
 
 -
 
 
 ## § 5 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000600000)
 
 (1) Der Beirat besteht aus zwölf Mitgliedern. Das Bundesministerium
 für Bildung und Forschung beruft:
@@ -164,11 +170,13 @@ für Bildung und Forschung bedarf.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stipgdv/BJNR219700010.html#BJNR219700010BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

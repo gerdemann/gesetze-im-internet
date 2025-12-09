@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 8 Zusammensetzung und Rechtsstellung des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE001700326)
 
 (1) Der Vorstand besteht aus einem Vorsitzer und weiteren Mitgliedern.
 Über die Zahl der Mitglieder beschließt die Bundesregierung. Ein
@@ -60,6 +61,7 @@ Urkunde. Die Entlassung wird mit der Aushändigung der Urkunde wirksam.
 
 
 ## § 8a Rechte und Pflichten der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE001802124)
 
 (1) Die Vorstandsmitglieder dürfen neben ihrem Amt kein anderes
 besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der
@@ -85,6 +87,7 @@ Zustimmung der Bundesregierung.
 
 
 ## § 8b Ernennung von Beamten zu Vorstandsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE001901308)
 
 (1) Wird ein Bundesbeamter in ein Amtsverhältnis nach § 8 berufen, so
 scheidet er mit dem Beginn des Amtsverhältnisses aus seinem Amt als
@@ -109,6 +112,7 @@ Bundesdienst und Berufssoldaten.
 
 
 ## § 9 Aufgaben des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE002000326)
 
 (1) Der Vorstand leitet die Geschäfte der Deutschen Bundesbahn. Er
 vertritt die Deutsche Bundesbahn gerichtlich und außergerichtlich,
@@ -141,6 +145,7 @@ Genehmigung des Bundesministers für Verkehr.
 
 
 ## § 9a Stellvertretende Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE002100326)
 
 (1) Höchstens drei stellvertretende Vorstandsmitglieder können vom
 Bundesminister für Verkehr nach Anhörung des Verwaltungsrats für eine
@@ -162,6 +167,7 @@ entsprechend.
 
 
 ## § 19a Rechtsverhältnisse von Inhabern leitender Dienstposten
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE003200326)
 
 Die Inhaber folgender leitender Dienstposten stehen in einem
 öffentlich-rechtlichen Amtsverhältnis zum Bund:
@@ -189,6 +195,7 @@ Abs. 1 Satz 4 und 5, Abs. 2 Satz 2, 3 und 5, Abs. 3 sowie die §§ 8a,
 
 
 ## § 23 Belohnungen und Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/bbahng/BJNR009550951.html#BJNR009550951BJNE003604124)
 
 (1) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des
 Bundesministeriums für Verkehr und digitale Infrastruktur, die im

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000100000)
 
 Auf Grund des § 8b Absatz 8 Satz 1 bis 3 des
 Bundesverfassungsschutzgesetzes, der durch Artikel 1 Nummer 2 des
@@ -37,6 +38,7 @@ Verteidigung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000202377)
 
 (1) Diese Verordnung regelt die Form und das Verfahren von Auskünften,
 die auf Grund von Anordnungen nach § 8a Absatz 1 Satz 1 Nummer 1, 2
@@ -50,6 +52,7 @@ gespeicherte Daten inhaltlich zu überprüfen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000302377)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -96,6 +99,7 @@ gesichert niedergelegt, soweit nichts anderes angegeben ist.
 
 
 ## § 3 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000400000)
 
 (1) Der Verpflichtete hat Auskünfte als Datensätze auf Datenträgern
 der Art CD-ROM nach der Norm ISO/IEC 10149:1995 (Datum der
@@ -144,6 +148,7 @@ Datenübermittlungen erneut in mangelfreier Form durchzuführen.
 
 
 ## § 4 Abwicklung der Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000500000)
 
 (1) Die Auskunftsersuchen werden schriftlich unter Setzung einer
 angemessenen Frist für die Übermittlung der Daten an die
@@ -162,6 +167,7 @@ Entschädigung zu verwenden.
 
 
 ## § 5 Übermittlungsformat und Anforderungen an Auskunftsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000601311)
 
 (1) Die Datensätze sind im XML-Format nach W3C-Spezifikation vom 10.
 Februar 1998 (im Internet veröffentlicht unter
@@ -186,6 +192,7 @@ Auskunft erteilen kann.
 
 
 ## § 6 Zulassung von Ausnahmen; einstweilige Beweissicherung
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000700000)
 
 Der betroffene Nachrichtendienst des Bundes und ein Verpflichteter
 können Abweichungen von den in § 3 Absatz 1, § 5 Absatz 1 und 2 sowie
@@ -200,6 +207,7 @@ unberührt.
 
 
 ## § 7 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000800000)
 
 (1) Die für die Erteilung von Auskünften zu leistende Entschädigung
 richtet sich nach Anlage 2. Die Entschädigung wird ausschließlich
@@ -238,12 +246,14 @@ regelmäßig, erstmalig ein Jahr nach Inkrafttreten der Verordnung,
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 5 Absatz 1)
 
 ## Anlage 1 Datenübermittlungsformate für die einzelnen Sektoren
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE001001377)
 
 (Fundstelle: BGBl. I 2012, 2120;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -380,6 +390,7 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 
 ## Anlage 2 (zu § 7 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/nd_v/BJNR211700012.html#BJNR211700012BJNE001101377)
 
 (Fundstelle: BGBl. I 2012, 2121;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)

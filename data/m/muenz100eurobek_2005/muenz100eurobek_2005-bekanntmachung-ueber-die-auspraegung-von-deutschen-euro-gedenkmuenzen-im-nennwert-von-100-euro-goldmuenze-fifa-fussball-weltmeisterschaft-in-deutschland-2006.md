@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2005/BJNR254100005.html#BJNR254100005BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema "FIFA
@@ -47,11 +48,13 @@ sowie das jeweilige Münzzeichen ("A", "D", "F", "G" oder "J").
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2005/BJNR254100005.html#BJNR254100005BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2005/BJNR254100005.html#BJNR254100005BJNE000300000)
 
 (Fundstelle: BGBl. I 2005, 2541)
 ![bgbl1_2005_j2541_0010.jpg](bgbl1_2005_j2541_0010.jpg)

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zentrum für Krebsregisterdaten, Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000101116)
 
 (1) Beim Robert Koch-Institut wird das Zentrum für Krebsregisterdaten
 geführt.
@@ -31,6 +32,7 @@ Krebsregister der Länder.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000201116)
 
 Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
@@ -76,6 +78,7 @@ Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
 
 ## § 3 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000700116)
 
 (1) Das Zentrum für Krebsregisterdaten wird durch einen Beirat
 unterstützt.
@@ -151,6 +154,7 @@ bedarf der Genehmigung durch das Bundesministerium für Gesundheit.
 
 
 ## § 4 Wissenschaftlicher Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000401116)
 
 (1) Beim Zentrum für Krebsregisterdaten wird ein wissenschaftlicher
 Ausschuss eingerichtet.
@@ -201,6 +205,7 @@ Bundesministerium für Gesundheit.
 
 
 ## § 5 Datenübermittlung an das Zentrum für Krebsregisterdaten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000303116)
 
 (1) Die Krebsregister übermitteln jährlich an das Zentrum für
 Krebsregisterdaten zur Erfüllung seiner Aufgaben nach § 2 zu allen bis
@@ -480,6 +485,7 @@ Angaben zu den Leistungserbringern zu übermitteln.
 
 
 ## § 6 Datenverarbeitung und Datenübermittlung, Mitarbeit in Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000501116)
 
 (1) Das Zentrum für Krebsregisterdaten ist befugt, die von den
 Krebsregistern nach § 5 Absatz 1 übermittelten personenbezogenen Daten
@@ -528,6 +534,7 @@ zur Erfüllung seiner Aufgaben nach diesem Gesetz zu verarbeiten.
 
 
 ## § 7 Zusammenarbeit mit den Krebsregistern
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000602130)
 
 (1) Das Zentrum für Krebsregisterdaten übermittelt dem Krebsregister
 innerhalb von drei Monaten nach dessen Übermittlung der Daten an das
@@ -573,6 +580,7 @@ Krebsregister und des Deutschen Kinderkrebsregisters.
 
 
 ## § 8 Datenübermittlung und Datenbereitstellung zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000800116)
 
 (1) Das Zentrum für Krebsregisterdaten soll grundsätzlich öffentlichen
 und privaten Einrichtungen und Personen auf Antrag Daten zu
@@ -710,6 +718,7 @@ hiervon unberührt.
 
 
 ## § 9 Verzeichnis der bewilligten Anträge
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE000900116)
 
 (1) Das Zentrum für Krebsregisterdaten führt ein öffentliches
 Verzeichnis über die nach § 8 bewilligten Anträge. In dem Verzeichnis
@@ -740,6 +749,7 @@ Personen in das Verzeichnis aufgenommen werden.
 
 
 ## § 10 Zentrale Antrags- und Registerstelle, Schaffung einer Plattform
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE001000116)
 
 Beim Zentrum für Krebsregisterdaten wird eine zentrale Antrags- und
 Registerstelle eingerichtet. Aufgabe der zentralen Antrags- und
@@ -771,6 +781,7 @@ sind bei der Konzepterstellung zu berücksichtigen.
 
 
 ## § 11 Berichterstattung zum Krebsgeschehen
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE001100116)
 
 (1) Das Zentrum für Krebsregisterdaten berichtet regelmäßig über das
 Krebsgeschehen in der Bundesrepublik Deutschland, insbesondere über
@@ -806,6 +817,7 @@ auf seiner Internetseite zur Verfügung.
 
 
 ## § 12 Bericht über die Erfahrungen mit der bundesweiten Erfassung von Krebsregisterdaten
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE001200116)
 
 Das Zentrum für Krebsregisterdaten berichtet dem Bundesministerium für
 Gesundheit zum 31. Dezember 2025 im Einvernehmen mit den
@@ -830,6 +842,7 @@ seiner Internetseite.
 
 
 ## § 13 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkrg/BJNR270700009.html#BJNR270700009BJNE001300116)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer

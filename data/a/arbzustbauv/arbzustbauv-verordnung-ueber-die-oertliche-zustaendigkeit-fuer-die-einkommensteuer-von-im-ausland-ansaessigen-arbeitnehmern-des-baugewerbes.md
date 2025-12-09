@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arbzustbauv/BJNR226900001.html#BJNR226900001BJNE000100305)
 
 Auf Grund des § 20a Abs. 3 der Abgabenordnung vom 16. März 1976 (BGBl.
 I S. 613, 1977 I S. 269), der durch Artikel 1 des Gesetzes vom 30.
@@ -29,6 +30,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/arbzustbauv/BJNR226900001.html#BJNR226900001BJNE000201140)
 
 Für die Einkommensteuer des Arbeitnehmers, der von einem Unternehmer
 im Sinne des § 20a Abs. 1 oder 2 der Abgabenordnung im Inland
@@ -42,6 +44,7 @@ zuständig, das für seinen Arbeitgeber zuständig ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/arbzustbauv/BJNR226900001.html#BJNR226900001BJNE000300305)
 
 Diese Verordnung tritt am 7. September 2001 in Kraft.
 

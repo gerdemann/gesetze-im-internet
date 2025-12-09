@@ -23,6 +23,7 @@ Geändert durch
 Stand: Ersetzt V 806-21-7-31 v. 21.8.1985 I 1695 (LMIndMeistPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 zuletzt durch Artikel 436
@@ -34,6 +35,7 @@ Wirtschaft und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
 Industriemeister – Fachrichtung Lebensmittel und Geprüfte
@@ -188,6 +190,7 @@ Fachrichtung Lebensmittel.
 
 
 ## § 2 Teile des Fortbildungsabschlusses und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000400000)
 
 (1) Für den Fortbildungsabschluss zum Geprüften Industriemeister –
 Fachrichtung Lebensmittel und zur Geprüften Industriemeisterin –
@@ -218,6 +221,7 @@ aufeinander aufbauende Prüfungsteile:
 
 
 ## § 3 Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000501128)
 
 (1) Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen
 hat die zu prüfende Person nachzuweisen durch
@@ -239,6 +243,7 @@ vorzulegen.
 
 
 ## § 4 Voraussetzungen für die Zulassung zu den Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000600000)
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende
 Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
@@ -287,6 +292,7 @@ die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 5 Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000701128)
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
 werden folgende Prüfungsbereiche geprüft:
@@ -332,6 +338,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Qualifikationsinhalte der Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000801128)
 
 (1) Im Prüfungsbereich „Rechtsbewusstes Handeln“ soll die zu prüfende
 Person nachweisen, dass sie in der Lage ist, einschlägige
@@ -517,6 +524,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 7 Prüfungsteil „Handlungsspezifische Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE000900000)
 
 Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die
 folgenden Handlungsbereiche und Qualifikationsschwerpunkte:
@@ -568,6 +576,7 @@ folgenden Handlungsbereiche und Qualifikationsschwerpunkte:
 
 
 ## § 8 Gliederung des Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001000000)
 
 Der Prüfungsteil besteht aus
 
@@ -581,6 +590,7 @@ Der Prüfungsteil besteht aus
 
 
 ## § 9 Situationsaufgaben im schriftlichen Teil, Bearbeitungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001101128)
 
 (1) Im schriftlichen Teil wird je eine Situationsaufgabe zu den
 Handlungsbereichen „Technik“ (§ 10) und „Organisation“ (§ 11)
@@ -618,6 +628,7 @@ die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 10 Situationsaufgabe aus dem Handlungsbereich „Technik“
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001201128)
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Technik“ soll
 mindestens einer der Qualifikationsschwerpunkte
@@ -735,6 +746,7 @@ In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 11 Situationsaufgabe aus dem Handlungsbereich „Organisation“
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001301128)
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Organisation“
 soll mindestens einer der Qualifikationsschwerpunkte „Betriebliches
@@ -874,6 +886,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 12 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001401128)
 
 (1) Im Fachgespräch wird eine Situationsaufgabe aus dem
 Handlungsbereich „Führung und Personal“ gestellt. Die zu prüfende
@@ -1015,6 +1028,7 @@ geprüft werden:
 
 
 ## § 13 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001501128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -1027,6 +1041,7 @@ zugrunde zu legen.
 
 
 ## § 14 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001601128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -1057,6 +1072,7 @@ Prüfungsleistungen zu bewerten:
 
 
 ## § 15 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001701128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -1109,6 +1125,7 @@ Gesamtnote.
 
 
 ## § 16 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001801128)
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -1134,6 +1151,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 17 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE001901128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden. Ist ein Prüfungsteil nicht bestanden, kann er zweimal
@@ -1153,6 +1171,7 @@ werden. In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 
 ## § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE002000000)
 
 (1) Vor Ablauf des 30. Juni 2017 angemeldete Prüfungen zum anerkannten
 Abschluss „Geprüfter Industriemeister – Fachrichtung Lebensmittel“ und
@@ -1170,6 +1189,7 @@ werden; § 17 Absatz 4 ist in diesem Fall nicht anzuwenden.
 
 
 ## § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE002100000)
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -1181,6 +1201,7 @@ worden ist, außer Kraft.
 (zu den §§ 14 und 15)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE002200128)
 
 (Fundstelle: BGBl. I 2019, 2425 – 2426)
 
@@ -1482,6 +1503,7 @@ worden ist, außer Kraft.
 (zu § 16)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/imlebensmfprv/BJNR013900017.html#BJNR013900017BJNE002300128)
 
 (Fundstelle: BGBl. I 2019, 2426)
 

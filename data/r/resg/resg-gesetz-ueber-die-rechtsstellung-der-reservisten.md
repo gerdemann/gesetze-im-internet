@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNG000100000)
 
 
 ### § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000101377)
 
 Reservistinnen und Reservisten sind
 
@@ -45,6 +47,7 @@ Reservistinnen und Reservisten sind
 
 
 ### § 2 Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000200000)
 
 (1) Frühere Soldatinnen und Soldaten dürfen ihren in der Bundeswehr
 erworbenen Dienstgrad mit dem Zusatz „der Reserve“ oder „d. R.“
@@ -67,6 +70,7 @@ Wehrdienstverhältnisses ohne einen Zusatz nach Absatz 1.
 
 
 ### § 3 Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000301377)
 
 (1) Früheren Soldatinnen und früheren Soldaten, die ihren Dienstgrad
 nicht verloren haben, kann gestattet werden, die Uniform mit dem
@@ -88,6 +92,7 @@ Rechtsverordnung sind insbesondere zu regeln
 
 
 ### § 3a Sicherheitsüberprüfung auf Grund einer Beorderung oder bei Heranziehung zu einer Dienstleistung mit oder ohne vorherige Beorderung
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE001400126)
 
 (1) Für jede beorderte Reservistin und jeden beorderten Reservisten,
 die oder der zu einer in § 60 des Soldatengesetzes genannten
@@ -110,9 +115,11 @@ Sicherheitsüberprüfungsgesetz.
 
 
 ## Abschnitt 2 - Reservewehrdienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNG000200000)
 
 
 ### § 4 Reservewehrdienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000400000)
 
 Reservistinnen und Reservisten, die sich freiwillig verpflichtet
 haben, ehrenamtlich eine Funktion in der Reserveorganisation der
@@ -126,6 +133,7 @@ anderes ergibt.
 
 
 ### § 5 Begründung und Beginn des Reservewehrdienstverhältnisses; Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000501377)
 
 (1) Für die Berufung in ein Reservewehrdienstverhältnis gelten die
 Vorschriften über die Berufung in das Dienstverhältnis einer Soldatin
@@ -142,12 +150,14 @@ Soldatengesetzes entsprechend.
 
 
 ### § 6 Diensteid
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000600000)
 
 Bei der Berufung in ein Reservewehrdienstverhältnis ist ein Diensteid
 nach § 9 Absatz 1 des Soldatengesetzes zu leisten.
 
 
 ### § 7 Sachmittel und Entschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000701311)
 
 (1) Für die Wahrnehmung des Ehrenamts erforderliche Sachmittel und
 Dienstkleidung können unentgeltlich bereitgestellt werden.
@@ -177,6 +187,7 @@ Bau und Heimat fest.
 
 
 ### § 8 Aktivierung für eine Dienstleistung nach § 60 des Soldatengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000800000)
 
 (1) Soldatinnen und Soldaten im Reservewehrdienstverhältnis können für
 eine in § 60 des Soldatengesetzes genannte Dienstleistung aktiviert
@@ -226,6 +237,7 @@ gewährt. Soweit solche Leistungen im Voraus gewährt worden sind, gilt
 
 
 ### § 9 Zuziehung zu dienstlichen Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE000900000)
 
 Soldatinnen und Soldaten im Reservewehrdienstverhältnis können
 entsprechend § 81 des Soldatengesetzes zu dienstlichen Veranstaltungen
@@ -233,12 +245,14 @@ zugezogen werden. § 1 Absatz 6 des Wehrsoldgesetzes gilt entsprechend.
 
 
 ### § 10 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE001002377)
 
 Für die in ein Reservewehrdienstverhältnis Berufenen gelten die §§ 5
 und 9 Absatz 7 des Arbeitsplatzschutzgesetzes entsprechend.
 
 
 ### § 11 Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE001101126)
 
 Erleidet eine Soldatin oder ein Soldat im Reservewehrdienstverhältnis
 bei der Verrichtung des Wehrdienstes eine gesundheitliche Schädigung,
@@ -247,6 +261,7 @@ Soldatenentschädigungsgesetz.
 
 
 ### § 12 Beendigungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE001200000)
 
 Ein Reservewehrdienstverhältnis endet
 
@@ -275,6 +290,7 @@ Ein Reservewehrdienstverhältnis endet
 
 
 ### § 13 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/resg/BJNR158800012.html#BJNR158800012BJNE001302377)
 
 (1) Soldatinnen und Soldaten sind mit Ablauf des Monats, in dem sie
 das 65. Lebensjahr vollenden, aus dem Reservewehrdienstverhältnis

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000100311)
 
 Auf Grund des § 6 des Gesetzes zur vorläufigen Regelung der
 Rechtsverhältnisse des Reichsvermögens und der preußischen
@@ -27,6 +28,7 @@ Zustimmung des Bundesrates folgendes verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000200311)
 
 (1) Die Verwaltung von Vermögenswerten des Deutschen Reichs, die am
 24\. Mai 1949 überwiegend und nicht nur vorübergehend dem unmittelbaren
@@ -85,6 +87,7 @@ zweckmäßig ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000300311)
 
 (1) Die Verwaltung der Beteiligungen des Deutschen Reichs und des
 ehemaligen Landes Preußen an Unternehmen mit eigener
@@ -110,6 +113,7 @@ ehemaligen Landes Preußen beteiligt ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000400311)
 
 Die Verwaltung von Vermögenswerten des Deutschen Reichs, die am 8. Mai
 1945 überwiegend und nicht nur vorübergehend einer Verwaltungsaufgabe
@@ -128,6 +132,7 @@ Arbeitslosenversicherung den Ländern.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000500311)
 
 (1) Die Verwaltung von Vermögenswerten, die dem Deutschen Reich von
 einem Land oder einer Gemeinde (Gemeindeverband) unentgeltlich zur
@@ -157,6 +162,7 @@ vorgesehenen Verfahren anerkannt worden ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000600311)
 
 (1) Die Nutzungen der unter die Bestimmungen des § 1 Abs. 1 des
 Gesetzes fallenden Vermögenswerte fließen, soweit nicht in dieser
@@ -174,6 +180,7 @@ Bundesrepublik Deutschland zu erlassenden Bundesgesetzen vorbehalten.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000700311)
 
 Diente ein Gebäude, das nach § 6 Abs. 1 des Gesetzes von einer
 Bundesbehörde zu verwalten ist, üblicherweise auch der Unterbringung
@@ -191,6 +198,7 @@ dieser Berechnung mit dem Eineinhalbfachen anzusetzen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000800311)
 
 (1) Werden Beteiligungen des Deutschen Reichs und des ehemaligen
 Landes Preußen an Unternehmen mit eigener Rechtspersönlichkeit vom
@@ -212,6 +220,7 @@ ehemaligen Landes Preußen beteiligt ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE000900311)
 
 Werden Vermögenswerte vom Bund verwaltet, so ist dasjenige Land, in
 dem der Vermögenswert belegen ist, vor allen Maßnahmen, die erhebliche
@@ -221,6 +230,7 @@ Verwaltungsvermögen des Bundes gehören.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE001000311)
 
 Soweit die Verwaltung von Vermögenswerten gemäß § 6 Abs. 1 Satz 1 des
 Gesetzes den Oberfinanzdirektionen obliegt, werden diese ermächtigt,
@@ -235,6 +245,7 @@ widerspricht.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE001100311)
 
 Für die Rechnungsprüfung und die Prüfung im Sinne des
 § 88 Abs. 2 und 3 der Reichshaushaltsordnung ist die oberste
@@ -246,6 +257,7 @@ Landesrechnungshof gemeinsam.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE001200311)
 
 Zweifelsfragen, die sich bei der Durchführung dieser Verordnung
 ergeben, werden durch eine Kommission geregelt, in die jeder im
@@ -261,18 +273,21 @@ Aufgabenträgers oder der Gemeinde (Gemeindeverbandes) erforderlich.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE001300311)
 
 Die Vorschriften dieser Verordnung treten mit Wirkung vom 1. August
 1951 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE001400311)
 
 Der Stellvertreter des Bundeskanzlers
 Der Bundesminister der Finanzen
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg_6dv/BJNR104710951.html#BJNR104710951BJNE001500311)
 
 (Fundstelle: BGBl. I 1951, 473 - 474)
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2004/BJNR007000004.html#BJNR007000004BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema "FIFA
@@ -62,11 +63,13 @@ Der Entwurf der Münze stammt von Lucia Maria Hardegen, Bonn
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2004/BJNR007000004.html#BJNR007000004BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2004/BJNR007000004.html#BJNR007000004BJNE000300000)
 
 (Fundstelle: BGBl. I 2004, 70)
 ![bgbl1_2004_j0070_0010.jpg](bgbl1_2004_j0070_0010.jpg)

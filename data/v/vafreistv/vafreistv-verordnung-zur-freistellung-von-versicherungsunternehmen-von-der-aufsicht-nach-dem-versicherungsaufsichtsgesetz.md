@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv/BJNR005290988.html#BJNR005290988BJNE000100328)
 
 Auf Grund des § 1 Abs. 2 Satz 3 des Versicherungsaufsichtsgesetzes in
 der Fassung der Bekanntmachung vom 13. Oktober 1983 (BGBl. I S. 1261),
@@ -27,6 +28,7 @@ S. 2485) angefügt wurde, wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv/BJNR005290988.html#BJNR005290988BJNE000200328)
 
 Die Kirchliche Zusatzversorgungskasse Rheinland-Westfalen und die
 Kirchliche Zusatzversorgungskasse des Verbandes der Diözesen
@@ -35,6 +37,7 @@ Versicherungsaufsichtsgesetz freigestellt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv/BJNR005290988.html#BJNR005290988BJNE000300328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des Vierzehnten Gesetzes zur Änderung des
@@ -43,11 +46,13 @@ im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv/BJNR005290988.html#BJNR005290988BJNE000400328)
 
 Diese Verordnung tritt am 1. Mai 1988 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv/BJNR005290988.html#BJNR005290988BJNE000500328)
 
 Der Bundesminister der Finanzen
 

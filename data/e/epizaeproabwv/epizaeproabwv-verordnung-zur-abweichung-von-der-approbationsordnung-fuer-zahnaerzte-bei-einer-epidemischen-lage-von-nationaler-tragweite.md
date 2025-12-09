@@ -21,6 +21,7 @@ V aufgeh. durch
 
 
 ## § 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/epiz_proabwv/BJNR618510020.html#BJNR618510020BJNE000800000)
 
 Wurde die zahnärztliche Prüfung zum Zeitpunkt der Aufhebung der
 Feststellung einer epidemischen Lage von nationaler Tragweite nach den

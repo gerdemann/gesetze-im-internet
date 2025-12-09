@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNG000100308)
 
 
 
 ### § 1 Beteiligung, Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE000700308)
 
 (1) Die Beteiligung der Zivildienstleistenden (Dienstleistenden) in
 dienstlichen Angelegenheiten nach den Bestimmungen dieses Gesetzes
@@ -40,6 +42,7 @@ Anträge und Beschwerden vorzubringen, bleibt unberührt.
 
 
 ### § 2 Vertrauensmann
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE000805360)
 
 (1) Dienstleistende wählen in geheimer und unmittelbarer Wahl aus
 ihren Reihen
@@ -110,6 +113,7 @@ Wahlergebnis nicht verändert oder beeinflußt werden konnte.
 
 
 ### § 3 Beteiligung des Betriebs- oder Personalrats
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE000901360)
 
 (1) Der Vertrauensmann kann an Sitzungen des Betriebs- oder
 Personalrats der Dienststelle beratend teilnehmen, wenn
@@ -124,10 +128,12 @@ der Leitung des Betriebes oder der Verwaltung hinzuwirken.
 
 
 ## Abschnitt 2 - Rechtsstellung des Vertrauensmannes
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNG000200308)
 
 
 
 ### § 4 Schutz des Vertrauensmannes
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001000308)
 
 Der Vertrauensmann darf in der Ausübung seiner Befugnisse nicht
 behindert und wegen seiner Tätigkeit nicht benachteiligt oder
@@ -135,6 +141,7 @@ begünstigt werden.
 
 
 ### § 5 Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001101301)
 
 (1) Der Vertrauensmann hat über die ihm in Ausübung seiner Tätigkeit
 nach diesem Gesetz bekanntgewordenen Angelegenheiten und Tatsachen
@@ -149,6 +156,7 @@ Personalrats.
 
 
 ### § 6 Unfallschutz
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001200308)
 
 Erleidet ein Dienstleistender anläßlich der Wahrnehmung von Rechten
 oder der Erfüllung von Pflichten nach diesem Gesetz durch einen Unfall
@@ -158,6 +166,7 @@ und die §§ 49 bis 51 des Zivildienstgesetzes entsprechende Anwendung.
 
 
 ### § 7 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001301320)
 
 (1) Die Amtszeit des Vertrauensmannes beginnt mit dem Tag der Wahl
 oder, wenn zu diesem Zeitpunkt noch ein Vertrauensmann im Amt ist, mit
@@ -183,6 +192,7 @@ seines Lehrgangs.
 
 
 ### § 8 Niederlegung des Amtes
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001401360)
 
 Der Vertrauensmann kann durch schriftliche Erklärung gegenüber der
 Leitung der Dienststelle sein Amt niederlegen. Die Niederlegung des
@@ -192,6 +202,7 @@ Leitung des Lehrgangs.
 
 
 ### § 9 Abberufung des Vertrauensmannes
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001502360)
 
 (1) Die Präsidentin oder der Präsident des Bundesamtes, mindestens ein
 Viertel der Dienstleistenden des Wahlbereiches oder die Leitung der
@@ -210,6 +221,7 @@ vorläufige Ruhen des Amtes des Vertrauensmannes bis zur Entscheidung
 
 
 ### § 10 Eintritt des Stellvertreters
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001600308)
 
 (1) Endet das Amt des Vertrauensmannes vorzeitig (§ 7), so tritt der
 Stellvertreter ein. Ist kein Stellvertreter vorhanden, ist neu zu
@@ -222,6 +234,7 @@ Ausübung seines Amtes verhindert ist oder sein Amt ruht (§ 9 Abs. 2).
 
 
 ### § 11 Versetzung des Vertrauensmannes
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001700308)
 
 Der Vertrauensmann darf während der Dauer seines Amtes gegen seinen
 Willen zu einer anderen Dienststelle nur versetzt werden, wenn dies
@@ -231,6 +244,7 @@ vorgeschlagenen Dienstleistenden bis zum Wahltag.
 
 
 ### § 12 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001800308)
 
 Der Vertrauensmann kann sich entsprechend § 41 des Zivildienstgesetzes
 auch dann beschweren, wenn er glaubt, in der Ausübung seiner
@@ -239,6 +253,7 @@ sein.
 
 
 ### § 13 Beschwerden gegen den Vertrauensmann
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE001903360)
 
 Über Beschwerden gegen den Vertrauensmann entscheidet die Präsidentin
 oder der Präsident des Bundesamtes. Sie oder er kann diese Befugnis
@@ -248,14 +263,17 @@ hat, übertragen.
 
 
 ## Abschnitt 3 - Beteiligung des Vertrauensmannes
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNG000300308)
 
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNG000400308)
 
 
 
 #### § 14 Grundsätze für die Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002001360)
 
 (1) Der Vertrauensmann soll zur verantwortungsvollen Zusammenarbeit
 zwischen Vorgesetzten und Dienstleistenden sowie zur Erhaltung des
@@ -271,6 +289,7 @@ ist und dienstliche Gründe nicht entgegenstehen.
 
 
 #### § 15 Pflichten des Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002104360)
 
 (1) Die oder der Vorgesetzte hat alle Dienstleistenden alsbald nach
 Dienstantritt über die Rechte und Pflichten des Vertrauensmannes zu
@@ -298,10 +317,12 @@ Arbeitszeit hinaus beansprucht wird.
 
 
 ### Unterabschnitt 2 - Formen der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNG000500308)
 
 
 
 #### § 16 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002200308)
 
 Dem Vertrauensmann sind beabsichtigte Maßnahmen und Entscheidungen, zu
 denen er anzuhören ist, rechtzeitig mitzuteilen. Ihm ist Gelegenheit
@@ -309,6 +330,7 @@ zur Äußerung zu geben.
 
 
 #### § 17 Vorschlagsrecht
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002301360)
 
 (1) Soweit dem Vertrauensmann ein Vorschlagsrecht zusteht, hat die
 oder der Vorgesetzte die Vorschläge des Vertrauensmannes mit ihm zu
@@ -328,6 +350,7 @@ dem Vertrauensmann die Entscheidung unter Angabe der Gründe mit.
 
 
 #### § 18 Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002401360)
 
 Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der
 Vertrauensmann von der oder dem zuständigen Vorgesetzten rechtzeitig
@@ -341,10 +364,12 @@ schriftlich zu begründen.
 
 
 ### Unterabschnitt 3 - Aufgabengebiete
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNG000600308)
 
 
 
 #### § 19 Personalangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002501360)
 
 (1) Der Vertrauensmann soll durch die Vorgesetzte oder den
 Vorgesetzten bei folgenden Personalmaßnahmen auf Antrag des
@@ -371,6 +396,7 @@ Ergebnis der Anhörung ist in die Personalentscheidung einzubeziehen.
 
 
 #### § 20 Dienstbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002601360)
 
 (1) Die oder der Vorgesetzte soll den Vertrauensmann zur Gestaltung
 des Dienstbetriebes anhören. Der Vertrauensmann hat das Recht,
@@ -388,6 +414,7 @@ Dienst gehört werden.
 
 
 #### § 21 Betreuung und Fürsorge
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002700308)
 
 (1) Die Aufstellung von Benutzerordnungen für Betreuungseinrichtungen
 unterliegen der Mitbestimmung des Vertrauensmannes.
@@ -398,6 +425,7 @@ von dienstlichen Veranstaltungen geselliger Art ist er zu hören.
 
 
 #### § 22 Ahndung von Dienstvergehen
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002800308)
 
 (1) Vor der Verhängung von Disziplinarmaßnahmen ist der Vertrauensmann
 zur Person des Dienstleistenden und zum Sachverhalt anzuhören.
@@ -410,6 +438,7 @@ Akten zu nehmen ist.
 
 
 #### § 23 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE002900308)
 
 Betrifft eine Beschwerde Fragen des Dienstbetriebes, der Fürsorge oder
 des außerdienstlichen Gemeinschaftslebens, soll der Vertrauensmann des
@@ -419,6 +448,7 @@ werden.
 
 
 #### § 24 Ausschluß der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE003000308)
 
 Eine Beteiligung des Vertrauensmannes unterbleibt, wenn er selbst
 Betroffener einer Personalmaßnahme oder einer Disziplinarmaßnahme oder
@@ -427,6 +457,7 @@ Vertrauensmannes zu beteiligen.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/zdvg/BJNR000530991.html#BJNR000530991BJNE003101301)
 
 (weggefallen)
 

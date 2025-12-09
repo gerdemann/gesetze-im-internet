@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2017dv_2/BJNR039300021.html#BJNR039300021BJNE000100000)
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes, der durch Artikel 2
 Nummer 12 des Gesetzes vom 14. August 2017 (BGBl. I S. 3122) geändert
@@ -25,6 +26,7 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2017
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2017dv_2/BJNR039300021.html#BJNR039300021BJNE000200000)
 
 Für das Ausgleichsjahr 2017 werden als Länderanteile an der
 Umsatzsteuer festgestellt:
@@ -113,11 +115,13 @@ Umsatzsteuer festgestellt:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2017dv_2/BJNR039300021.html#BJNR039300021BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## § 2 Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2017
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2017dv_2/BJNR039300021.html#BJNR039300021BJNE000300000)
 
 Für das Ausgleichsjahr 2017 wird der Finanzausgleich unter den Ländern
 wie folgt festgestellt:
@@ -216,6 +220,7 @@ wie folgt festgestellt:
 
 
 ## § 3 Abschlusszahlungen für 2017
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2017dv_2/BJNR039300021.html#BJNR039300021BJNE000400000)
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und
 den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach §
@@ -318,6 +323,7 @@ Verordnung fällig:
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2017dv_2/BJNR039300021.html#BJNR039300021BJNE000500000)
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Erste Verordnung zur Durchführung des

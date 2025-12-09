@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000100000)
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 4 und 5 und Satz 3 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 10. Mai
@@ -35,9 +36,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000100000)
 
 
 ### § 1 Erlaubnispflichtiges Personal
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000300000)
 
 Das erlaubnispflichtige Personal für die Flugsicherung umfasst
 
@@ -73,6 +76,7 @@ Das erlaubnispflichtige Personal für die Flugsicherung umfasst
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -221,17 +225,21 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000501305)
 
 Aufsichtsbehörde ist das Bundesaufsichtsamt für Flugsicherung.
 
 
 ## Abschnitt 2 - Fluglotsen und deren Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000200000)
 
 
 ### Unterabschnitt 1 - Pflichten, Lizenzen und Ausbildungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000300000)
 
 
 #### § 4 Allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000600000)
 
 (1) Jede Flugsicherungsorganisation stellt sicher, dass die von ihr
 eingesetzten Fluglotsen die erforderliche Kompetenz besitzen.
@@ -262,6 +270,7 @@ Absätzen 1 und 2 genannten Pflichten erlassen.
 
 
 #### § 5 Lizenzen, Erlaubnisse und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000700000)
 
 (1) Die Lizenz für Fluglotsen enthält eine oder mehrere der folgenden
 Erlaubnisse und Befugnisse:
@@ -424,6 +433,7 @@ erfüllen.
 
 
 #### § 6 Ausbildungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000801125)
 
 (1) Die Ausbildung von Fluglotsen ist nur zulässig, wenn
 
@@ -509,6 +519,7 @@ verstrichen sind.
 
 
 #### § 7 Medizinische Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE000900000)
 
 (1) Die medizinische Tauglichkeit ist regelmäßig wiederkehrend durch
 Vorlage von Tauglichkeitszeugnissen nachzuweisen.
@@ -572,9 +583,11 @@ anerkannten flugmedizinischen Zentren bedienen.
 
 
 ### Unterabschnitt 2 - Ausbildung und Prüfungen zum Erwerb von Lizenzen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000400000)
 
 
 #### § 8 Ausbildungsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001000000)
 
 Die Ausbildung für Fluglotsen umfasst die grundlegende Ausbildung, die
 zur Erteilung einer Auszubildendenlizenz erforderlich ist, und die
@@ -585,6 +598,7 @@ erforderlich ist.
 
 
 #### § 9 Grundlegende Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001100000)
 
 In der grundlegenden Ausbildung werden den Auszubildenden in mehreren
 aufeinander aufbauenden Ausbildungskursen nach Anlage 1 Nr. 1 die für
@@ -602,6 +616,7 @@ werden.
 
 
 #### § 10 Leistungsnachweise in der grundlegenden Ausbildung und Sprachenvermerke
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001200000)
 
 (1) Während der grundlegenden Ausbildung sind in jedem der aufeinander
 aufbauenden Ausbildungskurse schriftliche, mündliche oder praktische
@@ -671,6 +686,7 @@ vorübergehend entfallen sind.
 
 
 #### § 11 Prüfung zum Erwerb der Auszubildendenlizenz
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001300000)
 
 (1) Die Prüfung zum Erwerb der Auszubildendenlizenz wird zum Abschluss
 jedes Erlaubnis- oder Ergänzungskurses nach Anlage 1 dieser Verordnung
@@ -695,6 +711,7 @@ dieser Verordnung gelten die Absätze 1 bis 4 entsprechend.
 
 
 #### § 12 Erteilung der Auszubildendenlizenz
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001400000)
 
 (1) Die Aufsichtsbehörde erteilt die Auszubildendenlizenz, wenn der
 Auszubildende die Prüfung zum Erwerb der Auszubildendenlizenz besteht
@@ -720,6 +737,7 @@ Sprachenvermerke.
 
 
 #### § 13 Leistungsnachweise in der betrieblichen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001500000)
 
 (1) In der betrieblichen Ausbildung ergänzt und vertieft der
 Auszubildende die in der grundlegenden Ausbildung erworbenen
@@ -763,6 +781,7 @@ sind in Anlage 2 Nr. 3 festgelegt.
 
 
 #### § 14 Prüfung zum Erwerb und Erteilung der Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001600000)
 
 (1) Die Prüfung zum Erwerb einer Berechtigung erfolgt nach Abschluss
 der Trainingsphasen nach Anlage 2 dieser Verordnung. Sie findet
@@ -812,6 +831,7 @@ werden.
 
 
 #### § 15 Erteilung der Fluglotsenlizenz
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001700000)
 
 (1) Die Aufsichtsbehörde erteilt die Fluglotsenlizenz an Personen,
 
@@ -848,6 +868,7 @@ Berechtigungen und Sprachvermerke zu erbringen.
 
 
 #### § 16 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001800000)
 
 (1) Lizenzen und zugehörige Erlaubnisse, Befugnisse und
 Sprachenvermerke, die von der Aufsichtsbehörde eines anderen
@@ -881,6 +902,7 @@ Bundeswehr für militärische Flugverkehrskontrolldienste anerkannt.
 
 
 #### § 17 Erteilung der Ausbildererlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE001900000)
 
 (1) Die Aufsichtsbehörde erteilt die Ausbildererlaubnis an Inhaber
 einer Fluglotsenlizenz, die
@@ -919,9 +941,11 @@ Ausbildertätigkeit persönlich ungeeignet ist.
 
 
 ### Unterabschnitt 3 - Leistungsnachweise, Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000500000)
 
 
 #### § 18 Leistungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002000000)
 
 (1) Das Erbringen von Leistungsnachweisen und die Bewertung der
 Leistungen sind in Anlage 9 geregelt.
@@ -938,6 +962,7 @@ gewähren.
 
 
 #### § 19 Prüfungsausschüsse, Durchführung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002100000)
 
 (1) Jeder Prüfungsausschuss besteht aus dem Vorsitzenden und zwei
 Beisitzern. Die Mitglieder der Prüfungsausschüsse werden von der
@@ -976,6 +1001,7 @@ Prüfungsniederschriften sind zehn Jahre aufzubewahren.
 
 
 #### § 20 Bestehen von Teilprüfungen und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002200000)
 
 Die Bewertung von Teilprüfungen und Prüfungen, die Ermittlung des
 Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen und
@@ -983,6 +1009,7 @@ Bestehen von Prüfungen sind in Anlage 9 geregelt.
 
 
 #### § 21 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002300000)
 
 (1) Eine nicht bestandene Prüfung oder Teilprüfung kann wiederholt
 werden. Die Aufsichtsbehörde kann ausnahmsweise eine zweite
@@ -993,6 +1020,7 @@ angemessen zu berücksichtigen.
 
 
 #### § 22 Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002400000)
 
 (1) Wer von einer Prüfung oder einem Prüfungsteil zurücktritt, hat die
 Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des
@@ -1009,6 +1037,7 @@ Prüfung oder der betreffende Prüfungsteil als nicht bestanden.
 
 
 #### § 23 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002500000)
 
 (1) Wird ein Prüfungstermin versäumt oder eine Prüfung unterbrochen,
 sind die Gründe hierfür unverzüglich dem Vorsitzenden des
@@ -1023,6 +1052,7 @@ Prüfungsausschusses.
 
 
 #### § 24 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002600000)
 
 Hat ein Prüfungsteilnehmer die ordnungsgemäße Durchführung einer
 Prüfung in erheblichem Maße gestört oder eine Täuschung versucht, kann
@@ -1033,9 +1063,11 @@ nur innerhalb von zwei Jahren nach Abschluss der Prüfung zulässig.
 
 
 ### Unterabschnitt 4 - Gültigkeit, Verlängerung, Überprüfung, Ruhen, Widerruf und Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000600000)
 
 
 #### § 25 Gültigkeit, Verlängerung, Ruhen, Widerruf und Erneuerung von Auszubildendenlizenzen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002700000)
 
 (1) Auszubildendenlizenzen gelten 18 Monate, sofern sie nicht
 verlängert werden, ruhen, widerrufen oder erneuert werden. Sie gelten
@@ -1078,6 +1110,7 @@ Ruhen nach Absatz 4 oder den Widerruf nach Absatz 5 mit.
 
 
 #### § 26 Gültigkeit, Verlängerung und Erneuerung von Berechtigungen, Betriebliche Kompetenzprogramme
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002800000)
 
 (1) Berechtigungen nach § 14 werden mit einer Gültigkeitsdauer von
 zwölf Monaten erteilt, längstens jedoch bis zum Ablauf der Frist für
@@ -1166,6 +1199,7 @@ die Erneuerung von Berechtigungen in den Fluglotsenlizenzschein ein.
 
 
 #### § 27 Überprüfung der Kompetenz, Ruhen und Widerruf von Fluglotsenlizenzen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE002900000)
 
 (1) Die Aufsichtsbehörde ist unverzüglich zu unterrichten, wenn
 begründete Zweifel an der sicheren Betriebsabwicklung durch den
@@ -1225,6 +1259,7 @@ Ruhen nach Absatz 2 oder den Widerruf nach Absatz 4 mit.
 
 
 #### § 28 Gültigkeit, Verlängerung, Ruhen, Widerruf und Erneuerung von Ausbildererlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003000000)
 
 (1) Eine Ausbildererlaubnis wird von der Aufsichtsbehörde für einen
 Zeitraum von drei Jahren erteilt.
@@ -1256,9 +1291,11 @@ Ruhen nach Absatz 3 oder den Widerruf nach Absatz 4 mit.
 
 
 ### Unterabschnitt 5 - Ausbildungsanbieter
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000700000)
 
 
 #### § 29 Zertifizierung von Ausbildungsanbietern
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003100000)
 
 (1) Die Ausbildung von Fluglotsen darf nur von zertifizierten
 Ausbildungsanbietern durchgeführt werden. Die
@@ -1351,12 +1388,15 @@ zertifizierter Ausbildungsanbieter im Sinne von Absatz 1.
 
 
 ## Abschnitt 3 - Sonstiges Flugsicherungsbetriebspersonal, flugsicherungstechnisches Personal und dessen Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000800000)
 
 
 ### Unterabschnitt 1 - Ausbildungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG000900000)
 
 
 #### § 30 Ausbildungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003201125)
 
 (1) Die Ausbildung von Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 oder flugsicherungstechnischem Personal nach § 1 Nr. 3 ist nur
@@ -1446,6 +1486,7 @@ Voraussetzungen:
 
 
 #### § 31 Medizinische Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003301305)
 
 (1) Für das Flugsicherungspersonal nach § 1 Nr. 2 und 3 ist die
 medizinische Tauglichkeit vor der Einstellung in einer
@@ -1487,9 +1528,11 @@ Nachuntersuchung auf Veranlassung der Aufsichtsbehörde durchzuführen.
 
 
 ### Unterabschnitt 2 - Ausbildung und Prüfungen zum Erwerb von Erlaubnissen, Berechtigungen und Sprachenvermerken
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG001000000)
 
 
 #### § 32 Ausbildungsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003400000)
 
 Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die
 grundlegende Ausbildung nach § 33 zum Erwerb einer Erlaubnis und die
@@ -1497,6 +1540,7 @@ betriebliche Ausbildung nach § 37 zum Erwerb von Berechtigungen.
 
 
 #### § 33 Grundlegende Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003500000)
 
 (1) In der grundlegenden Ausbildung werden dem
 Flugsicherungsbetriebspersonal nach § 1 Nr. 2 in mehreren aufeinander
@@ -1524,6 +1568,7 @@ festgelegt.
 
 
 #### § 34 Leistungsnachweise in der grundlegenden Ausbildung und Sprachenvermerke
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003600000)
 
 (1) Während der grundlegenden Ausbildung für
 Flugsicherungsbetriebspersonal nach § 1 Nr. 2 sind in jedem der
@@ -1587,6 +1632,7 @@ zu den erforderlichen Dokumenten festlegen.
 
 
 #### § 35 Erlaubnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003701305)
 
 (1) Die Erlaubnisprüfung für Flugsicherungsbetriebspersonal nach § 1
 Nr. 2 wird als praktische Arbeitsprobe an einer Simulationseinrichtung
@@ -1617,6 +1663,7 @@ flugsicherungstechnisches Personal nach Anlage 6.
 
 
 #### § 36 Erwerb, Erteilung und Wirkung der Erlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003800000)
 
 (1) Mit dem Bestehen der Erlaubnisprüfung erwirbt der Bewerber die
 Erlaubnis für den jeweiligen Verwendungsbereich in den
@@ -1635,6 +1682,7 @@ Ausbilders.
 
 
 #### § 37 Leistungsnachweise in der betrieblichen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE003900000)
 
 (1) In der betrieblichen Ausbildung vertieft der Bewerber die in der
 grundlegenden Ausbildung erworbenen Kenntnisse und Fertigkeiten und
@@ -1676,6 +1724,7 @@ festgelegt.
 
 
 #### § 38 Prüfung zum Erwerb und Erteilung der Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004000000)
 
 (1) Die Prüfung zum Erwerb einer Berechtigung erfolgt nach Abschluss
 der Trainingsphasen nach Anlage 7 oder Anlage 8 dieser Verordnung. Für
@@ -1714,6 +1763,7 @@ Aufsichtsbehörde ganz oder teilweise erlassen werden.
 
 
 #### § 39 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004100000)
 
 (1) Bewerbern für die Flugsicherungsbetriebsdienste, welche die
 Voraussetzungen nach § 30 erfüllen und eine nach den Richtlinien der
@@ -1755,6 +1805,7 @@ beschränkt.
 
 
 #### § 40 Erteilung der Ausbilderberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004200000)
 
 (1) Die Aufsichtsbehörde erteilt die Ausbilderberechtigung an
 Personen, die
@@ -1802,9 +1853,11 @@ Ausbilderberechtigung anordnen.
 
 
 ### Unterabschnitt 3 - Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG001100000)
 
 
 #### § 41 Prüfungsausschüsse, Durchführung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004300000)
 
 (1) Jeder Prüfungsausschuss besteht aus dem Vorsitzenden und zwei
 Beisitzern. Die Mitglieder der Prüfungsausschüsse werden von der
@@ -1830,9 +1883,11 @@ entsprechend.
 
 
 ### Unterabschnitt 4 - Gültigkeit, Verlängerung, Überprüfung, Ruhen, Widerruf und Erneuerung von Erlaubnissen und Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG001200000)
 
 
 #### § 42 Gültigkeit, Ruhen, Widerruf und Erneuerung von Erlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004400000)
 
 (1) Erlaubnisse für Flugsicherungspersonal nach § 1 Nr. 2 und 3 gelten
 unbefristet, sofern sie nicht widerrufen werden.
@@ -1859,6 +1914,7 @@ grundlegenden Fertigkeiten nach § 33 vorhanden sind.
 
 
 #### § 43 Gültigkeit, Verlängerung und Erneuerung von Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004501124)
 
 (1) Berechtigungen werden mit einer Gültigkeitsdauer von zwölf Monaten
 für die Flugsicherungsbetriebsdienste nach § 1 Nr. 2 und von 24
@@ -1899,6 +1955,7 @@ um bis zu drei weitere Monate möglich.
 
 
 #### § 44 Überprüfung, Ruhen und Widerruf von Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004601305)
 
 (1) Die Aufsichtsbehörde kann in von ihr zu bestimmenden zeitlichen
 Abständen oder aus begründetem Anlass im Einzelfall die Kenntnisse,
@@ -1929,9 +1986,11 @@ von der Aufsichtsbehörde bestimmten Voraussetzungen wiederholt werden.
 
 
 ### Unterabschnitt 5 - Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG001300000)
 
 
 #### § 45 Erlaubnis zum Betrieb von Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004700000)
 
 (1) Die Aufsichtsbehörde erteilt auf Antrag eine Erlaubnis zum
 Betreiben einer Ausbildungsstätte zur grundlegenden Ausbildung von
@@ -2018,9 +2077,11 @@ Bestimmungen dieser Vorschrift.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNG001400000)
 
 
 ### § 46 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004800000)
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2039,6 +2100,7 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 47 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE004900000)
 
 (1) Berechtigungen nach § 11 der
 Flugsicherungspersonalausbildungsverordnung in der Fassung vom 26.
@@ -2144,6 +2206,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 ### § 48 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005000000)
 
 (1) Diese Verordnung tritt am 17. Oktober 2008 in Kraft.
 
@@ -2151,6 +2214,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 und 8)
 
 ### Anlage 1 Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005200000)
 
 (Fundstelle: BGBl. I 2008, 1949 - 1957)
 
@@ -3539,6 +3603,7 @@ und 8)
 (zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3)
 
 ### Anlage 2 Betriebliche Ausbildung für Fluglotsen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005300000)
 
 (Fundstelle: BGBl. I 2008, 1958 - 1959)
 
@@ -3691,6 +3756,7 @@ und 8)
 (zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6)
 
 ### Anlage 3 Einstufungstabelle für Sprachkompetenz
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005400000)
 
 (Fundstelle: BGBl. I 2008, 1960 - 1961)
 Die in § 10 Abs. 2 und 3 und § 34 Abs. 4 festgelegten Anforderungen an
@@ -3948,6 +4014,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 5 Abs. 2)
 
 ### Anlage 4 Anforderungen an Lizenzscheine
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005500000)
 
 (Fundstelle: BGBl. I 2008, 1962)
 
@@ -4025,6 +4092,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)
 
 ### Anlage 5 Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005601305)
 
 (Fundstelle: BGBl. I 2008, 1963 - 1968)
 
@@ -4923,6 +4991,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)
 
 ### Anlage 6 Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005700000)
 
 (Fundstelle: BGBl. I 2008, 1969 - 1970)
 
@@ -5088,6 +5157,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)
 
 ### Anlage 7 Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005800000)
 
 (Fundstelle: BGBl. I 2008, 1971)
 
@@ -5221,6 +5291,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)
 
 ### Anlage 8 Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE005900000)
 
 (Fundstelle: BGBl. I 2008, 1972)
 
@@ -5325,6 +5396,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)
 
 ### Anlage 9 Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE006000000)
 
 ( Fundstelle: BGBl. I 2008, 1973 - 1974 )
 
@@ -5577,6 +5649,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 (zu § 7 Abs. 2 und 6, § 47 Abs. 11)
 
 ### Anlage 10 Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
+[Direktlink](https://www.gesetze-im-internet.de/fspersav/BJNR193100008.html#BJNR193100008BJNE006101305)
 
 (Fundstelle: BGBl. I 2008, 1975 - 1979)
 

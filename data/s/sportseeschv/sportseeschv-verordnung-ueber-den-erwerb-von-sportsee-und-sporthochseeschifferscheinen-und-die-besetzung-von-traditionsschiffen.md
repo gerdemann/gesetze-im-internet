@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000209123)
 
 (1) Führer von Yachten und Traditionsschiffen können als Nachweis
 ihrer Befähigung zum Führen dieser Fahrzeuge
@@ -105,6 +106,7 @@ Schiffssicherheitsverordnung anerkanntes und gültiges Seefunkzeugnis.
 
 
 ## § 2 Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000314123)
 
 Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband
 e. V. werden beauftragt, nach Maßgabe dieser Verordnung und der zu
@@ -136,6 +138,7 @@ Seeschifffahrt und Hydrographie bedient.
 
 
 ## § 3 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000408305)
 
 (1) Die nach § 2 beauftragten Verbände richten einen gemeinsamen
 Lenkungsausschuß ein, der die einheitliche Durchführung der ihnen
@@ -173,6 +176,7 @@ Lenkungsausschuß mit.
 
 
 ## § 4 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000508305)
 
 (1) Für die Abnahme der theoretischen und praktischen Prüfung zum
 Erwerb des Sportsee- oder Sporthochseeschifferscheins werden von der
@@ -223,6 +227,7 @@ in den Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 
 
 ## § 4a Prüfungsausschüsse und Abnahme der Prüfung zum Sportküstenschifferschein
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002604124)
 
 (1) Für die Zulassung zur Prüfung und deren Abnahme sowie für die
 Erteilung des Sportküstenschifferscheins werden von den beauftragten
@@ -252,6 +257,7 @@ Sportsee- oder Sporthochseeschifferscheins sein.
 
 
 ## § 5 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000607123)
 
 (1) Anträge auf Zulassung zur Prüfung zum Erwerb des
 Sportküstenschifferscheins sind an die Prüfungsausschüsse nach § 4a
@@ -302,6 +308,7 @@ Angaben und Unterlagen gemäß Absatz 1 Nr. 1 und 2 folgendes enthalten:
 
 
 ## § 6 Voraussetzungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000708123)
 
 (1) Ein Bewerber kann auf Antrag einen Sportküstenschifferschein für
 Yachten mit Antriebsmaschine oder mit Antriebsmaschine und unter Segel
@@ -394,6 +401,7 @@ Sporthochseeschifferschein aufzunehmen.
 
 
 ## § 7 Prüfungsanforderungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000803307)
 
 (1) Die Prüfung zum Erwerb des Sportküstenschifferscheins soll zeigen,
 ob der Bewerber
@@ -446,6 +454,7 @@ geregelt.
 
 
 ## § 8 Durchführung der Prüfungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE000905308)
 
 (1) Die theoretische Prüfung zum Erwerb des Sportküstenschifferscheins
 und des Sportseeschifferscheins besteht aus einer schriftlichen und
@@ -469,6 +478,7 @@ in Durchführungsrichtlinien nach § 7 Abs. 4 geregelt.
 
 
 ## § 9 Prüfungsanforderungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002101307)
 
 (1) Die Feststellung einer Befähigung als Schiffer im Sinne des § 1
 Abs. 5 oder Maschinist im Sinne des § 1 Abs. 6 von Traditionsschiffen
@@ -481,6 +491,7 @@ Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 
 
 ## § 10 Voraussetzungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002201307)
 
 (1) Ein Bewerber muß das 20. Lebensjahr vollendet haben.
 
@@ -510,6 +521,7 @@ zwischen Dampfmaschine und Motor zu unterscheiden.
 
 
 ## § 11 Grundsätze für die Besetzung von Traditionsschiffen
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002303308)
 
 (1) Die Besetzung der Traditionsschiffe richtet sich nach folgenden
 Grundsätzen:
@@ -557,11 +569,13 @@ Regelbesatzung vergleichbare Sicherheit gewährleistet ist.
 
 
 ## § 11a
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002801308)
 
 (weggefallen)
 
 
 ## § 12 Ersatzausfertigung, Ausstellung in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE001307123)
 
 (1) Ist ein Sportküstenschifferschein, Sportseeschifferschein,
 Sporthochseeschifferschein oder ein Befähigungsnachweis für
@@ -623,6 +637,7 @@ die Zentrale Verwaltungsstelle werden in den Durchführungsrichtlinien
 
 
 ## § 13 Rücknahme und Entzug
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE001408123)
 
 (1) Wird eine Fahrerlaubnis für den Geltungsbereich
 Seeschifffahrtsstraßen nach § 13 Absatz 1 oder 2 der
@@ -661,6 +676,7 @@ Inhaber bei der Zentralen Verwaltungsstelle abzuliefern.
 
 
 ## § 14 Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE001506308)
 
 (1) Die Zentrale Verwaltungsstelle führt für Zwecke der Rücknahme
 eines vorhandenen Sportküstenschifferscheins, Sportseeschifferscheins,
@@ -687,6 +703,7 @@ an Seeämter für Zwecke der Seeunfalluntersuchung erteilt werden.
 
 
 ## § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE003307123)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -716,16 +733,19 @@ Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 16 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE001705123)
 
 § 15a Abs. 1 Nr. 3 ist erst ab dem 1. Januar 2010 anzuwenden.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE001802307)
 
 (Inkrafttreten, Aufhebung von Vorschriften)
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE001902305)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1944 - 1945
 
@@ -810,6 +830,7 @@ Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions:
 
 
 ## Anlage 1a
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002702305)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1946 - 1947
 
@@ -883,6 +904,7 @@ Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions:
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002002305)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1948 - 1949
 
@@ -949,6 +971,7 @@ Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/CONDITIONS:
 
 
 ## Anlage 2a
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE003101305)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3738
 
@@ -1012,6 +1035,7 @@ Signature of the Holder
 
 
 ## Anlage 2b
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE003201305)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3739
 
@@ -1074,6 +1098,7 @@ Signature of the Holder
 
 
 ## Anlage 3 (zu § 2 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002404305)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 402;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1243,6 +1268,7 @@ I
 (zu § 11 Abs. 2)
 
 ## Anlage 4 Regelbesatzung von Traditionsschiffen mit Inhabern von nautischen und technischen Befähigungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002502301)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 403;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1398,6 +1424,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anlage 5 (zu § 11a)
+[Direktlink](https://www.gesetze-im-internet.de/sportseeschv/BJNR020610992.html#BJNR020610992BJNE002901308)
 
    (weggefallen)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000100000)
 
 Auf Grund des § 370a Absatz 4 des Fünften Buches Sozialgesetzbuch in
 Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum
@@ -30,6 +31,7 @@ verordnet die Kassenärztliche Bundesvereinigung:
 
 
 ## § 1 Anwendungsbereich und Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000200000)
 
 Die Kassenärztliche Bundesvereinigung erhebt für die nach § 370a
 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch erbrachten
@@ -38,12 +40,14 @@ Auslagen nach Maßgabe dieser Gebührenverordnung.
 
 
 ## § 2 Gebührenentstehung
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000300000)
 
 Für die Entstehung der Gebühren- und Auslagenschuld ist § 4 des
 Bundesgebührengesetzes entsprechend anzuwenden.
 
 
 ## § 3 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000400000)
 
 (1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist
 verpflichtet,
@@ -67,6 +71,7 @@ verpflichtet,
 
 
 ## § 4 Fälligkeit und Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000500000)
 
 (1) Die Gebühren und Auslagen werden 28 Tage nach Zugang des Bescheids
 über die Festsetzung fällig, soweit die Fälligkeit nicht abweichend
@@ -89,6 +94,7 @@ die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
 
 ## § 5 Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000600000)
 
 (1) Die Nutzung der Informationen zur Vermittlung von
 Behandlungsterminen und telemedizinischen Angeboten erfolgt durch die
@@ -101,12 +107,14 @@ wird nach dem Ende des jeweiligen Kalendermonats festgesetzt.
 
 
 ## § 6 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000700000)
 
 Die Höhe der Gebühren und Auslagen bestimmt sich nach dem Gebühren-
 und Auslagenverzeichnis in der Anlage.
 
 
 ## § 7 Gebührenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000800000)
 
 Kassenärztliche Vereinigungen, die die Schnittstelle nach § 370a
 Absatz 2 des Fünften Buches Sozialgesetzbuch für die Vermittlung von
@@ -116,6 +124,7 @@ befreit.
 
 
 ## § 8 Stundung, Niederschlagung und Erlass
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE000900000)
 
 Für die Stundung, die Niederschlagung und den Erlass von Gebühren und
 der Erstattung von Auslagen gilt § 76 Absatz 2 des Vierten Buches
@@ -123,17 +132,20 @@ Sozialgesetzbuch.
 
 
 ## § 9 Verjährung und Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE001000000)
 
 Die §§ 18, 19 und 21 des Bundesgebührengesetzes zur Verjährung und zur
 Erstattung sind entsprechend anzuwenden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/termvinfgebv/BJNR1230A0024.html#BJNR1230A0024BJNE001200000)
 
 (Fundstelle: BGBl. 2024 I Nr. 291, S. 4)
 

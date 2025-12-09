@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNG000100000)
 
 
 ### § 1 Art, Zwecke und Berichtszeitpunkt des Zensus
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000200000)
 
 (1) Die statistischen Ämter des Bundes und der Länder führen eine
 Bevölkerungs-, Gebäude- und Wohnungszählung (Zensus) mit Stand vom 9.
@@ -84,6 +86,7 @@ Mai 2011 (Berichtszeitpunkt) als Bundesstatistik durch.
 
 
 ### § 2 Erhebungseinheiten und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000300000)
 
 (1) Erhebungseinheiten der Bevölkerungszählung sind Personen und
 Haushalte. Zur Bevölkerung zählen
@@ -155,9 +158,11 @@ kommt.
 
 
 ## Abschnitt 2 - Erhebung und Zusammenführung der Daten; Haushaltegenerierung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNG000200000)
 
 
 ### § 3 Übermittlung von Daten durch die Meldebehörden und durch oberste Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000400000)
 
 (1) Zur Aktualisierung des Anschriften- und Gebäuderegisters nach § 2
 des Zensusvorbereitungsgesetzes 2011 vom 8. Dezember 2007 (BGBl. I S.
@@ -332,6 +337,7 @@ den in Absatz 2 genannten Zeitpunkten.
 
 
 ### § 4 Übermittlung von Daten durch die Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000500000)
 
 Zur Durchführung des Zensus übermittelt die Bundesagentur für Arbeit
 dem Statistischen Bundesamt zu dem Berichtstag, der dem
@@ -423,6 +429,7 @@ elektronisch die folgenden Daten:
 
 
 ### § 5 Übermittlung von Daten durch die nach dem Finanz- und Personalstatistikgesetz auskunftspflichtigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000600000)
 
 Die nach § 11 Absatz 2 Nummer 3 des Finanz- und
 Personalstatistikgesetzes auskunftspflichtigen Stellen des Bundes,
@@ -491,6 +498,7 @@ Bundesamt.
 
 
 ### § 6 Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000700000)
 
 (1) Zur Durchführung des Zensus führen die statistischen Ämter der
 Länder zum Berichtszeitpunkt eine Gebäude- und Wohnungszählung als
@@ -575,6 +583,7 @@ schriftliche Befragung durch.
 
 
 ### § 7 Haushaltebefragung auf Stichprobenbasis
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000800000)
 
 (1) Die statistischen Ämter der Länder führen zum Berichtszeitpunkt
 eine Haushaltebefragung auf Stichprobenbasis (Haushaltsstichprobe)
@@ -736,6 +745,7 @@ begründeten Ausnahmefällen abgewichen werden.
 
 
 ### § 8 Erhebungen an Anschriften mit Sonderbereichen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE000900000)
 
 (1) Die statistischen Ämter der Länder stellen für alle Anschriften
 mit Sonderbereichen die dort wohnenden Personen fest. Dafür werden für
@@ -809,6 +819,7 @@ nach § 7 Absatz 4 und 5 befragt.
 
 
 ### § 9 Zusammenführung der Datensätze und Haushaltegenerierung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001000000)
 
 (1) Zur Erstellung des kombinierten Datensatzes mit demografischen und
 erwerbsstatistischen Angaben führt das Statistische Bundesamt die
@@ -922,9 +933,11 @@ Datensätze zu Haushalten zusammen:
 
 
 ## Abschnitt 3 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNG000300000)
 
 
 ### § 10 Erhebungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001100000)
 
 (1) Zur Durchführung der Erhebungen nach den §§ 6 bis 8, 14, 15 und 16
 können die Länder Erhebungsstellen einrichten. Den Erhebungsstellen
@@ -942,6 +955,7 @@ Beendigung der Tätigkeit in den Erhebungsstellen.
 
 
 ### § 11 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001200000)
 
 (1) Für die Erhebungen nach den §§ 6 bis 8 sowie 14 bis 17 können
 Erhebungsbeauftragte nach § 14 des Bundesstatistikgesetzes eingesetzt
@@ -1034,6 +1048,7 @@ zur Anschrift.
 
 
 ### § 12 Zentrale Datenverarbeitung und -aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001300000)
 
 (1) Die erhobenen Daten werden nach Maßgabe der folgenden Vorschriften
 zentral verarbeitet und aufbereitet.
@@ -1100,6 +1115,7 @@ Empfänger.
 
 
 ### § 13 Ordnungsnummern
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001400000)
 
 (1) Für jede Anschrift, jedes Gebäude, jede Wohnung, jeden Haushalt
 und jede Person wird von den statistischen Ämtern des Bundes und der
@@ -1116,9 +1132,11 @@ löschen.
 
 
 ## Abschnitt 4 - Maßnahmen zur Sicherung der Qualität der Zensusergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNG000400000)
 
 
 ### § 14 Ergänzende Ermittlung von Anschriften von Gebäuden mit Wohnraum und von bewohnten Unterkünften
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001500000)
 
 (1) Die statistischen Ämter der Länder überprüfen bei Anschriften, die
 in das Anschriften- und Gebäuderegister nach § 2 des
@@ -1155,6 +1173,7 @@ zugänglichen Grundstücksteil.
 
 
 ### § 15 Mehrfachfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001600000)
 
 (1) Das Statistische Bundesamt prüft anhand der von den Meldebehörden
 nach § 3 Absatz 1 übermittelten Daten, ob Personen für mehr als eine
@@ -1221,6 +1240,7 @@ Angaben:
 
 
 ### § 16 Befragung zur Klärung von Unstimmigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001700000)
 
 Die statistischen Ämter der Länder bereinigen Unstimmigkeiten, die in
 Bezug auf Anschriften mit nur einer bewohnten Wohnung in Gemeinden mit
@@ -1269,6 +1289,7 @@ Angaben:
 
 
 ### § 17 Bewertung der Qualität der Zensusergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001800000)
 
 (1) Zur Sicherung der Qualität der Durchführung des Zensus
 dokumentieren die Erhebungsstellen die Schulung und die
@@ -1362,9 +1383,11 @@ Absätzen 2 und 3.
 
 
 ## Abschnitt 5 - Auskunftspflicht und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNG000500000)
 
 
 ### § 18 Auskunftspflicht und Form der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE001900000)
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht.
 Die Auskunft über die Erhebungsmerkmale nach § 7 Absatz 4 Nummer 19
@@ -1463,6 +1486,7 @@ gegenüber den Erhebungsbeauftragten mitzuteilen.
 
 
 ### § 19 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002000000)
 
 (1) Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum
 frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren. Sie
@@ -1478,6 +1502,7 @@ vernichten.
 
 
 ### § 20 Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002100000)
 
 (1) Die Datenübermittlungen nach § 3 Absatz 1 und 3 sowie § 4 erfolgen
 aus den vorhandenen Unterlagen. Die Angaben zu § 5 Absatz 1 sind aus
@@ -1494,6 +1519,7 @@ Verschlüsselungsverfahren anzuwenden.
 
 
 ### § 21 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002200000)
 
 (1) Die statistischen Ämter des Bundes und der Länder richten im
 Internet unter www.zensus2011.de eine gemeinsame Internetseite ein, um
@@ -1505,6 +1531,7 @@ Internetseite nach Absatz 1 bekannt.
 
 
 ### § 22 Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002300000)
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und
 für Zwecke der Planung, jedoch nicht für die Regelung von
@@ -1529,9 +1556,11 @@ jedoch zwei Jahre nach Übermittlung zu löschen.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNG000600000)
 
 
 ### § 23 Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002400000)
 
 Als Grundlage für Gebäude-, Wohnungs- und Bevölkerungsstichproben, die
 als Bundes- oder Landesstatistiken durchgeführt werden, dürfen die
@@ -1551,12 +1580,14 @@ löschen.
 
 
 ### § 24 Kosten der Übermittlungen an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002500000)
 
 Die Kosten der Datenübermittlungen an das Statistische Bundesamt
 werden nicht erstattet.
 
 
 ### § 25 Finanzzuweisung
+[Direktlink](https://www.gesetze-im-internet.de/zensg_2011/BJNR178110009.html#BJNR178110009BJNE002600000)
 
 Der Bund gewährt den Ländern zum Ausgleich der Kosten der Vorbereitung
 und der Durchführung des registergestützten Zensus am 1. Juli 2011

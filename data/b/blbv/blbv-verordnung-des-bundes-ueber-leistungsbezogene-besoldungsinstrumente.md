@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000100000)
 
 Auf Grund des § 27 Absatz 7 und des § 42a Absatz 1 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19.
@@ -27,6 +28,7 @@ Juni 2009 (BGBl. I S. 1434) verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000201360)
 
 Diese Verordnung gilt für Besoldungsempfängerinnen und
 Besoldungsempfänger in den Besoldungsgruppen der
@@ -34,6 +36,7 @@ Bundesbesoldungsordnung A sowie in den Besoldungsgruppen R 1 und R 2.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000301360)
 
 (1) Leistungsbezogene Besoldungsinstrumente im Sinne dieser Verordnung
 sind Leistungsstufe, Leistungsprämie und Leistungszulage.
@@ -54,6 +57,7 @@ Verordnung sind:
 
 
 ## § 3 Leistungsstufe
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000401360)
 
 Die Leistungsstufe dient der Anerkennung dauerhaft herausragender
 Leistungen. Beamtinnen und Beamte sowie Soldatinnen und Soldaten, die
@@ -63,6 +67,7 @@ Stufe gezahlt werden.
 
 
 ## § 4 Leistungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000500000)
 
 (1) Die Leistungsprämie dient der Anerkennung einer herausragenden
 besonderen Leistung; sie soll in engem zeitlichen Zusammenhang mit der
@@ -76,6 +81,7 @@ Zeitpunkt der Entscheidung angehört.
 
 
 ## § 5 Leistungszulage
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000600000)
 
 (1) Die Leistungszulage dient der Anerkennung einer herausragenden
 besonderen Leistung, die bereits über einen Zeitraum von mindestens
@@ -98,6 +104,7 @@ nachträglich gezahlt.
 
 
 ## § 6 Vergabemöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000701360)
 
 (1) Die Zahl der in einem Kalenderjahr bei einem Dienstherrn
 vergebenen Leistungsstufen darf 15 Prozent der Zahl der bei dem
@@ -125,6 +132,7 @@ Leistungsprämie oder Leistungszulage gewährt werden.
 
 
 ## § 7 Teamregelungen
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000801360)
 
 (1) Leistungsprämien oder Leistungszulagen, die wegen einer
 wesentlichen Beteiligung an einer durch enges arbeitsteiliges
@@ -142,6 +150,7 @@ Absatz 2 Satz 2 entsprechend.
 
 
 ## § 8 Ausschluss- und Konkurrenzregelungen
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE000902360)
 
 (1) Leistungsbezogene Besoldungsinstrumente dürfen nicht neben einer
 Zulage nach § 45 des Bundesbesoldungsgesetzes gewährt werden, soweit
@@ -179,6 +188,7 @@ in Bereichen, in denen folgende Leistungselemente gewährt werden:
 
 
 ## § 9 Entscheidungsberechtigte und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE001001360)
 
 (1) In den obersten Bundesbehörden entscheidet die Leitung der
 Abteilung über die Gewährung der leistungsbezogenen
@@ -222,6 +232,7 @@ einer Vertretung übertragen.
 
 
 ## § 10 Vorschriften für besondere Teile des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE001101116)
 
 (1) Bei der Bundesanstalt für Immobilienaufgaben, der Bundesagentur
 für Arbeit und den bundesunmittelbaren Sozialversicherungsträgern, die
@@ -238,6 +249,7 @@ Entscheidungsberechtigten und zum Verfahren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/blbv/BJNR217000009.html#BJNR217000009BJNE001200000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 2009 in Kraft.
 

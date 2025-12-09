@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Rechnungslegung von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNG000200300)
 
 
 
 ### § 1 Zur Rechnungslegung verpflichtete Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000305360)
 
 (1) Ein Unternehmen hat nach diesem Abschnitt Rechnung zu legen, wenn
 für den Tag des Ablaufs eines Geschäftsjahrs (Abschlußstichtag) und
@@ -74,6 +76,7 @@ im Sinne dieses Gesetzes.
 
 
 ### § 2 Beginn und Dauer der Pflicht zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000409360)
 
 (1) Das Unternehmen hat erstmals für den dritten der aufeinander
 folgenden Abschlußstichtage, für die mindestens zwei der drei Merkmale
@@ -130,6 +133,7 @@ Anwendung.
 
 
 ### § 3 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000505123)
 
 (1) Dieser Abschnitt ist nur anzuwenden auf Unternehmen in der
 Rechtsform
@@ -180,6 +184,7 @@ nicht anzuwenden.
 
 
 ### § 4 Gesetzliche Vertreter, Aufsichtsrat, Feststellung, Gericht
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000600300)
 
 (1) Im Sinne dieses Gesetzes sind gesetzliche Vertreter eines
 Unternehmens
@@ -210,6 +215,7 @@ Hauptniederlassung) des Unternehmens.
 
 
 ### § 5 Aufstellung von Jahresabschluß und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000706360)
 
 (1) Die gesetzlichen Vertreter des Unternehmens haben den
 Jahresabschluß (§ 242 des Handelsgesetzbuchs) in den ersten drei
@@ -285,6 +291,7 @@ Handelsgesetzbuchs erfüllen.
 
 
 ### § 6 Prüfung durch die Abschlußprüfer
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000808360)
 
 (1) Der Jahresabschluß und der Lagebericht sind durch einen
 Abschlußprüfer zu prüfen. Soweit in den Absätzen 2 und 3 nichts
@@ -323,6 +330,7 @@ zu stützen.
 
 
 ### § 7 Prüfung durch den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE000905360)
 
 Hat das Unternehmen einen Aufsichtsrat, so haben die gesetzlichen
 Vertreter unverzüglich nach Eingang des Prüfungsberichts der
@@ -344,6 +352,7 @@ Aufgaben zu befassen.
 
 
 ### § 8 Feststellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001002305)
 
 (1) Bedarf es zur Feststellung des Jahresabschlusses der Entscheidung
 oder Mitwirkung einer anderen Stelle als der gesetzlichen Vertreter
@@ -380,6 +389,7 @@ der für die Rechtsform des Unternehmens geltenden Vorschriften.
 Offenlegung des Jahresabschlusses und des Lageberichts
 
 ### § 9 Prüfung durch die das Unternehmensregister führende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001106360)
 
 (1) Die gesetzlichen Vertreter des Unternehmens haben für dieses den
 Jahresabschluß und die sonst in § 325 Abs. 1 des Handelsgesetzbuchs
@@ -402,6 +412,7 @@ ausgewiesen werden.
 
 
 ### § 10 Nichtigkeit des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001202360)
 
 Der Jahresabschluß ist nichtig, wenn er
 
@@ -422,10 +433,12 @@ Unternehmensregister sechs Monate verstrichen sind. § 256 Abs. 6 Satz
 
 
 ## Zweiter Abschnitt - Rechnungslegung von Konzernen
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNG001300300)
 
 
 
 ### § 11 Zur Rechnungslegung verpflichtete Mutterunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001409123)
 
 (1) Kann ein Unternehmen mit Sitz (Hauptniederlassung) im Inland
 unmittelbar oder mittelbar einen beherrschenden Einfluss auf ein
@@ -505,6 +518,7 @@ gilt § 13 Abs. 2 Satz 1 und 2, Abs. 3 Satz 1 und 2 in Verbindung mit §
 
 
 ### § 12 Beginn und Dauer der Pflicht zur Konzernrechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001505360)
 
 (1) Für den Beginn und die Dauer der Pflicht, nach diesem Abschnitt
 Rechnung zu legen, gilt § 2 Abs. 1 Satz 1 und 3 sinngemäß.
@@ -532,6 +546,7 @@ hören. § 2 Absatz 3 Satz 3 bis 7 gilt sinngemäß.
 
 
 ### § 13 Aufstellung von Konzernabschluß und Konzernlagebericht
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001606123)
 
 (1) Die gesetzlichen Vertreter des Mutterunternehmens haben in den
 ersten fünf Monaten des Konzerngeschäftsjahrs für das vergangene
@@ -577,6 +592,7 @@ nach diesem Abschnitt.
 
 
 ### § 14 Prüfung des Konzernabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001704360)
 
 (1) Der Konzernabschluß oder Teilkonzernabschluß ist unter
 Einbeziehung des Konzernlageberichts oder des Teilkonzernlageberichts
@@ -605,6 +621,7 @@ der Aufsichtsrat nichts anderes beschlossen hat.
 
 
 ### § 15 Offenlegung des Konzernabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001804360)
 
 (1) Die gesetzlichen Vertreter des Mutterunternehmens haben für dieses
 den Konzernabschluß oder Teilkonzernabschluß mit dem
@@ -621,15 +638,18 @@ Handelsgesetzbuchs sinngemäß.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE001901306)
 
 -
 
 
 ## Dritter Abschnitt - Straf-, Bußgeld- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNG002000300)
 
 
 
 ### § 17 Unrichtige Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002105360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als gesetzlicher Vertreter (§ 4 Abs. 1 Satz 1) eines
@@ -680,6 +700,7 @@ Geldstrafe.
 
 
 ### § 18 Verletzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002201360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Prüfer nach diesem Gesetz oder als Gehilfe eines
@@ -703,6 +724,7 @@ oder Geldstrafe.
 
 
 ### § 19 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002300300)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis des Unternehmens (Konzernleitung,
@@ -723,6 +745,7 @@ Teilkonzernleitung) verfolgt.
 
 
 ### § 19a Verletzung der Pflichten bei Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE003000123)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer als Mitglied eines Aufsichtsrats nach § 7 Satz 5 oder
@@ -744,6 +767,7 @@ kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist,
 
 
 ### § 20 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002410360)
 
 (1) Ordnungswidrig handelt, wer als gesetzlicher Vertreter (§ 4 Abs. 1
 Satz 1) eines Unternehmens oder eines Mutterunternehmens, beim
@@ -1019,6 +1043,7 @@ Gesetzes über Ordnungswidrigkeiten ist
 
 
 ### § 21 Festsetzung von Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002507360)
 
 Gegen die gesetzlichen Vertreter (§ 4 Abs. 1 Satz 1) eines
 Unternehmens oder eines Mutterunternehmens, beim Einzelkaufmann gegen
@@ -1033,6 +1058,7 @@ entsprechend anzuwenden.
 
 
 ### § 21a Mitteilungen an die Abschlussprüferaufsichtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE003101360)
 
 (1) Das Bundesamt für Justiz übermittelt der
 Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
@@ -1048,6 +1074,7 @@ auf das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### § 22 Erstmalige Anwendung geänderter Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002911360)
 
 (1) Die §§ 7, 9, 11, 13 Abs. 3 Satz 2 und § 21 in der Fassung des
 Bilanzrechtsreformgesetzes vom 4. Dezember 2004 (BGBl. I S. 3166)
@@ -1155,6 +1182,7 @@ Geschäftsjahr.
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/publg/BJNR011890969.html#BJNR011890969BJNE002801377)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

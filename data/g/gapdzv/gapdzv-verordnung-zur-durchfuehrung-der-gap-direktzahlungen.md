@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Gem. § 28 Abs. 2 F. 24.1.2022 iVm Bek. v. 9.12.2022 I 2287 ist diese V im Übrigen am 22.11.2022 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000100000)
 
 Es verordnet auf Grund des
 
@@ -62,9 +63,11 @@ Es verordnet auf Grund des
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000300000)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung des
 GAP-Direktzahlungen-Gesetzes und der in § 1 des GAP-Direktzahlungen-
@@ -72,6 +75,7 @@ Gesetzes genannten Unionsregelung.
 
 
 ### § 2 Bagatellgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000401000)
 
 (1) Ist die förderfähige Betriebsfläche, für die Direktzahlungen
 beantragt werden, kleiner als 1 Hektar, werden keine Direktzahlungen
@@ -88,12 +92,15 @@ Betriebsinhaber ausschließlich die Zahlung für Mutterschafe und
 
 
 ## Teil 2 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000201000)
 
 
 ### Abschnitt 1 - Horizontale Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000301000)
 
 
 #### § 3 Landwirtschaftliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000503119)
 
 (1) Der Begriff landwirtschaftliche Tätigkeit, die zur Bereitstellung
 privater und öffentlicher Güter beitragen kann, umfasst
@@ -278,6 +285,7 @@ durchzuführen.
 
 
 #### § 4 Landwirtschaftliche Fläche
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000601119)
 
 (1) Der Begriff landwirtschaftliche Fläche umfasst Ackerland,
 Dauerkulturen und Dauergrünland, und das auch, wenn diese auf der
@@ -318,6 +326,7 @@ nicht beseitigt werden darf, im Sinne
 
 
 #### § 5 Ackerland
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000701119)
 
 (1) Der Begriff Ackerland umfasst Flächen, die
 
@@ -377,6 +386,7 @@ Bedeutung liegt bei einer Breite von mehr als 15 Metern nicht vor.
 
 
 #### § 6 Dauerkulturen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000801119)
 
 (1) Der Begriff Dauerkulturen umfasst Flächen, auch wenn sie nicht für
 die Erzeugung genutzt werden, mit nicht in die Fruchtfolge
@@ -422,6 +432,7 @@ Bedeutung liegt bei einer Breite von mehr als 15 Metern nicht vor.
 
 
 #### § 7 Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE000902119)
 
 (1) Der Begriff Dauergrünland umfasst Flächen, auch wenn sie nicht für
 die Erzeugung genutzt werden, die
@@ -618,6 +629,7 @@ Voraussetzungen der Begriffsbestimmung Dauergrünland erfüllt.
 
 
 #### § 8 Aktiver Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001002128)
 
 Aktiver Betriebsinhaber ist ein Betriebsinhaber,
 
@@ -675,6 +687,7 @@ Aktiver Betriebsinhaber ist ein Betriebsinhaber,
 
 
 #### § 9 Weitere Anforderung an Junglandwirtinnen und Junglandwirte
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001100000)
 
 Weitere Voraussetzung für die Eigenschaft als Junglandwirtin oder
 Junglandwirt ist, dass die in § 12 Absatz 1 oder 2 des GAP-
@@ -716,6 +729,7 @@ Direktzahlungen-Gesetzes genannte natürliche Person
 
 
 #### § 10 Angaben nach § 33 Absatz 1 Satz 2 des GAP-Direktzahlungen-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001200000)
 
 Die §§ 3 bis 8 regeln horizontale Begriffsbestimmungen im Sinne des §
 33 Absatz 1 Satz 1 des GAP-Direktzahlungen-Gesetzes. § 9 regelt einen
@@ -724,9 +738,11 @@ Absatz 1 Satz 1 des GAP-Direktzahlungen-Gesetzes.
 
 
 ### Abschnitt 2 - Förderfähige Fläche für die Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000401000)
 
 
 #### § 11 Förderfähige Fläche
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001302119)
 
 (1) Der Begriff förderfähige Fläche umfasst vorbehaltlich des Absatzes
 2 jede Fläche, die dem Betriebsinhaber in dem in § 13 Absatz 1
@@ -934,6 +950,7 @@ förderfähig, wenn
 
 
 #### § 12 Hauptsächliche Nutzung für eine landwirtschaftliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001401119)
 
 (1) Eine landwirtschaftliche Fläche, die auch für eine
 nichtlandwirtschaftliche Tätigkeit genutzt wird, wird hauptsächlich
@@ -1077,6 +1094,7 @@ Nutzung von solarer Strahlungsenergie, die
 [^F820155_01_BJNR013900022BJNE001401119]: 
 
 #### § 13 Verfügbarkeit der förderfähigen Flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001500000)
 
 (1) Die förderfähigen Flächen müssen dem Betriebsinhaber an dem Tag
 zur Verfügung stehen, bis zu dem der Sammelantrag nach § 6 des GAP-
@@ -1090,21 +1108,26 @@ seinem Anteil zu berücksichtigen.
 
 
 ## Teil 3 - Vorschriften zu einzelnen Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000500000)
 
 
 ### Abschnitt 1 - Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000600000)
 
 
 #### § 14 Junglandwirte-Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001600000)
 
 Der in § 34 Absatz 2 des GAP-Direktzahlungen-Gesetzes genannte Faktor
 beträgt 0,9.
 
 
 ### Abschnitt 2 - Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000700000)
 
 
 #### § 15 Mittel für die Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001701000)
 
 (1) Die Beträge nach § 19 Absatz 1 des GAP-Direktzahlungen-Gesetzes
 werden für jedes der Jahre 2023 bis 2026 um einen Anrechnungsbetrag im
@@ -1119,6 +1142,7 @@ Absatz 1 genannten Antragsjahre in Anlage 3 festgesetzt.
 
 
 #### § 16 Geplante Einheitsbeträge für die Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001803119)
 
 (1) Die geplanten Einheitsbeträge je Hektar begünstigungsfähiger
 Fläche und Antragsjahr für die Öko-Regelungen, die in § 20 Absatz 1
@@ -1137,6 +1161,7 @@ Einheitsbetrags zur Anwendung.
 
 
 #### § 17 Weitere Vorschriften für die Öko-Regelungen; Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE001903119)
 
 (1) Die Verpflichtungen, die bei den in § 20 Absatz 1 des GAP-
 Direktzahlungen-Gesetzes genannten Öko-Regelungen eingehalten werden
@@ -1182,12 +1207,15 @@ naturschutzfachlichen Gegebenheiten Rechnung zu tragen.
 
 
 ### Abschnitt 3 - Gekoppelte Einkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000801000)
 
 
 #### Unterabschnitt 1 - Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG000901000)
 
 
 ##### § 18 Geplante Einheitsbeträge für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002001000)
 
 (1) Der geplante Einheitsbetrag je förderfähigem Mutterschaf und je
 förderfähiger Mutterziege und Antragsjahr ist in Anlage 6 festgesetzt.
@@ -1199,6 +1227,7 @@ Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
 ##### § 19 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002101119)
 
 (1) Die Zahlung für Mutterschafe und -ziegen ist für mindestens sechs
 Tiere zu beantragen.
@@ -1248,9 +1277,11 @@ Tier ersetzt wird.
 
 
 #### Unterabschnitt 2 - Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG001001000)
 
 
 ##### § 20 Geplante Einheitsbeträge für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002201000)
 
 (1) Der geplante Einheitsbetrag je förderfähiger Mutterkuh und
 Antragsjahr ist in Anlage 7 festgesetzt.
@@ -1262,6 +1293,7 @@ Prozent des geplanten Einheitsbetrags zur Anwendung.
 
 
 ##### § 21 Mindestzahl von Tieren sowie Voraussetzungen für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002300000)
 
 (1) Die Zahlung für Mutterkühe ist für mindestens drei Mutterkühe zu
 beantragen.
@@ -1305,9 +1337,11 @@ anderes förderfähiges Tier ersetzt wird.
 
 
 ### Abschnitt 4 - Anpassung von nach dem GAP-Direktzahlungen-Gesetz geplanten Höchsteinheitsbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG001400119)
 
 
 #### § 21a Anpassung von nach dem GAP-Direktzahlungen-Gesetz geplanten Höchsteinheitsbeträgen für das Antragsjahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE004100119)
 
 (1) Der in § 6 Absatz 5 des GAP-Direktzahlungen-Gesetzes festgelegte
 geplante Höchsteinheitsbetrag wird für das Antragsjahr 2023 auf 115
@@ -1319,9 +1353,11 @@ Prozent des geplanten Einheitsbetrags festgesetzt.
 
 
 ## Teil 4 - Tatsächliche Einheitsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG001101000)
 
 
 ### § 22 Grundsätze für die Berechnung der tatsächlichen Einheitsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002402119)
 
 (1) Die Berechnung der tatsächlichen Einheitsbeträge für die
 Direktzahlungen, die den Betriebsinhabern je Einheit zu gewähren sind,
@@ -1428,6 +1464,7 @@ tatsächlichen Einheitsbeträge. § 24 bleibt unberührt.
 
 
 ### § 23 Berechnung vorläufiger Einheitsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002500000)
 
 (1) Zur Berechnung der tatsächlichen Einheitsbeträge werden nach
 Maßgabe der Absätze 2 bis 11 vorläufige Einheitsbeträge berechnet.
@@ -1528,6 +1565,7 @@ Einheitsbetrag.
 
 
 ### § 24 Berechnung von Restmitteln
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002600000)
 
 (1) Kommt § 23 Absatz 9 Satz 2 zur Anwendung, wird der Wert der
 Differenz zwischen der jeweiligen indikativen Mittelzuweisung und dem
@@ -1576,6 +1614,7 @@ Differenzwerte sind die Restmittel.
 
 
 ### § 25 Anpassung von vorläufigen Einheitsbeträgen durch Verwendung von Restmitteln
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002700000)
 
 (1) Die Restmittel werden nach Maßgabe der Absätze 2 bis 4 verwendet,
 um die nach § 23 Absatz 3, 5 bis 7 und 9 bis 11 berechneten
@@ -1628,6 +1667,7 @@ jeweiligen geplanten Höchsteinheitsbetrag erhöht.
 
 
 ### § 26 Anpassung von vorläufigen Einheitsbeträgen zur Vermeidung negativer Abweichungen zwischen geplanten und tatsächlichen Einheitsbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002800000)
 
 (1) Ergeben sich keine Restmittel oder liegt auch nach der Anwendung
 von § 25 Absatz 2 ein vorläufiger Einheitsbetrag unter dem geplanten
@@ -1779,9 +1819,11 @@ oder 7 ist.
 
 
 ## Teil 5 - Weitere Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG001201000)
 
 
 ### § 27 Höhere Gewalt und außergewöhnliche Umstände
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE002902119)
 
 Ist ein Verstoß gegen eine Voraussetzung für die Gewährung einer
 Direktzahlung auf höhere Gewalt oder außergewöhnliche Umstände
@@ -1791,9 +1833,11 @@ höheren Gewalt oder der außergewöhnlichen Umstände förderfähig waren.
 
 
 ## Teil 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNG001300000)
 
 
 ### § 28 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE004002119)
 
 (1) § 8 Nummer 7 ist im Hinblick auf die Bewilligung fristgerecht
 eingegangener Sammelanträge für das Jahr 2023 mit Wirkung vom 1.
@@ -1822,6 +1866,7 @@ bis zum Ablauf des 31. Dezember 2024 geltenden Fassung anzuwenden.
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003001128)
 
 (1) Die §§ 1, 14 und 17 Absatz 3 bis 5 treten am Tag nach der
 Verkündung in Kraft.
@@ -1834,12 +1879,14 @@ Verordnung im Bundesgesetzblatt bekannt.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003101128)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 4 Absatz 2)
 
 ### Anlage 1 Arten von Gehölzpflanzen, deren Anbau bei Agroforstsystemen ausgeschlossen ist
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003202119)
 
 (Fundstelle: BGBl. I 2022, 153;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1910,6 +1957,7 @@ Dezember 2024 angelegt werden.
 (zu § 6 Absatz 3)
 
 ### Anlage 2 Für Niederwald mit Kurzumtrieb zulässige Arten
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003300000)
 
 (Fundstelle: BGBl. I 2022, 154)
 
@@ -2003,6 +2051,7 @@ Dezember 2024 angelegt werden.
 (zu § 15 Absatz 2)
 
 ### Anlage 3 Indikative Mittelzuweisungen in Euro für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003402119)
 
 (Fundstelle: BGBl. I 2022, 155)
 
@@ -2104,6 +2153,7 @@ Dezember 2024 angelegt werden.
 (zu § 16 Absatz 1)
 
 ### Anlage 4 Geplante Einheitsbeträge je Hektar begünstigungsfähiger Fläche und Antragsjahr für die in § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes genannten Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003503119)
 
 (Fundstelle: BGBl. I 2022, 156 - 157;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2507,6 +2557,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 17 Absatz 1)
 
 ### Anlage 5 Verpflichtungen, die bei den Öko-Regelungen nach § 20 Absatz 1 des GAP-Direktzahlungen-Gesetzes jeweils eingehalten werden müssen, und die jeweils begünstigungsfähige Fläche
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003603119)
 
 (Fundstelle: BGBl. I 2022, 158 - 161;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3003,6 +3054,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anhang 1 Zulässige Arten für Saatgutmischungen bei Blühstreifen oder -flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003702119)
 
 (Fundstelle: BGBl. I 2022, 161 - 165;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3909,6 +3961,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 18 Absatz 1)
 
 ### Anlage 6 Geplante Einheitsbeträge für die Zahlung für Mutterschafe und -ziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003801119)
 
 (Fundstelle: BGBl. I 2022, 166;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3944,6 +3997,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 20 Absatz 1)
 
 ### Anlage 7 Geplante Einheitsbeträge für die Zahlung für Mutterkühe
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html#BJNR013900022BJNE003901119)
 
 (Fundstelle: BGBl. I 2022, 167;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

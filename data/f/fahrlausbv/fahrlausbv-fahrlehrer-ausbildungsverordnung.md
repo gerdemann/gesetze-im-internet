@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 9231-7-11 v. 19.6.2012 I 1307 (FahrlAusbO 2012)
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000102123)
 
 
 *    *   § 1
@@ -80,6 +81,7 @@ Stand: Ersetzt V 9231-7-11 v. 19.6.2012 I 1307 (FahrlAusbO 2012)
 
 
 ## § 1 Ort und Ablauf der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000202123)
 
 (1) Die Ausbildung zum Fahrlehrer erfolgt in einer amtlich anerkannten
 Fahrlehrerausbildungsstätte und in einer Ausbildungsfahrschule. Sie
@@ -148,6 +150,7 @@ Absatz 3 Satz 2 des Fahrlehrergesetzes bleibt unberührt.
 
 
 ## § 2 Fahrlehrerausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000302123)
 
 (1) Die Ausbildung ist nach einem von der nach Landesrecht zuständigen
 Behörde zu genehmigenden Ausbildungsplan durchzuführen, der für die
@@ -170,6 +173,7 @@ durchzuführen.
 
 
 ## § 3 Ausbildungsfahrschule
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000402123)
 
 (1) Das Lehrpraktikum der Fahrlehreranwärter ist nach einem von der
 nach Landesrecht zuständigen Behörde zu genehmigenden Praktikumsplan
@@ -190,6 +194,7 @@ darf er nicht mehr als zwei Fahrlehreranwärter gleichzeitig ausbilden.
 
 
 ## § 4 Einweisungsseminar
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000501124)
 
 Das Einweisungsseminar für Ausbildungsfahrlehrer nach § 16 Absatz 1
 Nummer 2 des Fahrlehrergesetzes ist nach einem von der nach
@@ -199,6 +204,7 @@ Rahmenplans nach Anlage 4 erfüllen muss.
 
 
 ## § 5 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE001000123)
 
 Bei Bewerbern, die ihre Ausbildung in der amtlich anerkannten
 Fahrlehrerausbildungsstätte, in einer Ausbildungsfahrschule oder in
@@ -209,6 +215,7 @@ zum 31. Dezember 2022 geltenden Vorschriften richten.
 (zu § 2 Absatz 1)
 
 ## Anlage 1 Kompetenzrahmen für die Fahrlehrerausbildung an Fahrlehrerausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000604123)
 
 (Fundstelle: BGBl. I 2022, 506 - 561)
 
@@ -5911,6 +5918,7 @@ Vermittlung klassenspezifischer Erweiterungsinhalte statt.
    (zu § 3 Absatz 1)
 
 ## Anlage 2 Qualitätskriterien für die Fahrschulausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000700000)
 
 (Fundstelle: BGBl. I 2018, 34)
 
@@ -5988,6 +5996,7 @@ Vermittlung klassenspezifischer Erweiterungsinhalte statt.
 (zu § 3 Absatz 1)
 
 ## Anlage 3 Musterplan und Unterrichtsverteilung im Lehrpraktikum
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000802123)
 
 (Fundstelle: BGBl. I 2019, 1423 - 1425)
 
@@ -6507,6 +6516,7 @@ Vermittlung klassenspezifischer Erweiterungsinhalte statt.
 (zu § 4)
 
 ## Anlage 4 Rahmenplan für die Einweisung der Ausbildungsfahrlehrer und der Inhaber beziehungsweise der für die verantwortliche Leitung von Ausbildungsfahrschulen bestellten Personen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlausbv/BJNR001500018.html#BJNR001500018BJNE000900000)
 
 (Fundstelle: BGBl. I 2018, 38 - 41)
 

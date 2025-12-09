@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000100000)
 
 Auf Grund des § 12a des Gesetzes über die Kreditanstalt für
 Wiederaufbau, der durch Artikel 1 des Gesetzes vom 4. Juli 2013 (BGBl.
@@ -32,6 +33,7 @@ Finanzdienstleistungsaufsicht und der Deutschen Bundesbank:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000201128)
 
 (1) Diese Verordnung regelt, welche Vorschriften
 
@@ -78,6 +80,7 @@ die KfW-Gruppe an die Bundesanstalt für Finanzdienstleistungsaufsicht
 
 
 ## § 2 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000303128)
 
 Folgende Vorschriften der Verordnung (EU) Nr. 575/2013, der Verordnung
 (EU) 2022/2554 und des Kreditwesengesetzes sind entsprechend
@@ -115,6 +118,7 @@ anzuwenden:
 
 
 ## § 3 Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000402128)
 
 Folgende Vorschriften der Verordnung (EU) Nr. 575/2013, der Verordnung
 (EU) 2022/2554 und des Kreditwesengesetzes sind auf die Anstalt und
@@ -184,6 +188,7 @@ die KfW-Gruppe entsprechend anzuwenden:
 
 
 ## § 4 Vorschriften über die Beaufsichtigung der Institute
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000502128)
 
 Folgende Vorschriften des Kreditwesengesetzes sind auf die Anstalt und
 die KfW-Gruppe entsprechend anzuwenden:
@@ -207,23 +212,27 @@ die KfW-Gruppe entsprechend anzuwenden:
 
 
 ## § 5 Finanzkonglomerate-Aufsichtsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000600000)
 
 Das Finanzkonglomerate-Aufsichtsgesetz ist entsprechend anzuwenden.
 
 
 ## § 6 Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000700000)
 
 Die §§ 52, 52a und 53e bis 53n des Kreditwesengesetzes sind
 entsprechend anzuwenden.
 
 
 ## § 7 Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000800000)
 
 Die §§ 60a und 60b des Kreditwesengesetzes sind entsprechend
 anzuwenden.
 
 
 ## § 8 Zuweisungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE000900000)
 
 Für Zuweisungsgeschäfte nach § 2 Absatz 4 des Gesetzes über die
 Kreditanstalt für Wiederaufbau ist die Entscheidung über die
@@ -236,6 +245,7 @@ Kreditanstalt für Wiederaufbau.
 
 
 ## § 9 Zuweisung der Aufsicht über die Einhaltung der bankaufsichtsrechtlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE001002128)
 
 (1) Die Bundesanstalt übt die Aufsicht über die Einhaltung der in
 dieser Verordnung für entsprechend anwendbar erklärten
@@ -266,6 +276,7 @@ bis 11 und 16 bis 18 des Kreditwesengesetzes.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfwv/BJNR373500013.html#BJNR373500013BJNE001100000)
 
 (1) Diese Verordnung tritt vorbehaltlich der Absätze 2 bis 4 am 1.
 Januar 2016 in Kraft.

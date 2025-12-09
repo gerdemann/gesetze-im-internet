@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wien_dnkbek/BJNR007030988.html#BJNR007030988BJNE000100325)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -31,6 +32,7 @@ März 1988 (BGBl. I S. 232).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wien_dnkbek/BJNR007030988.html#BJNR007030988BJNE000200325)
 
 Der Bundesminister der Justiz
 

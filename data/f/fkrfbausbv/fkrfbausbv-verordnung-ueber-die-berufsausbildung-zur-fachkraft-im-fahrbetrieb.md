@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE001000000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -32,17 +33,20 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000100000)
 
 Der Ausbildungsberuf Fachkraft im Fahrbetrieb wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000300000)
 
 Gegenstand der Berufsausbildung sind mindestens die Vermittlung
 folgender Fertigkeiten und Kenntnisse:
@@ -181,6 +185,7 @@ folgender Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000400000)
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -199,12 +204,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000500000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000600000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -213,6 +220,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -250,6 +258,7 @@ Aufgaben kommen insbesondere in Betracht:
 
 
 ## § 8 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000800000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -449,12 +458,14 @@ bestanden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 (zu § 4 Abs. 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/fkrfbausbv/BJNR261200002.html#BJNR261200002BJNE001101360)
 
 (Fundstelle: BGBl. I 2002, 2615 - 2621; bzgl. einzelner Änderungen
 vgl. Fußnote)

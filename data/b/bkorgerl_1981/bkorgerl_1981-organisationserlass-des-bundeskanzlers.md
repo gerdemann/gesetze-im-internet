@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1981/BJNR110570981.html#BJNR110570981BJNE000100333)
 
 Dem Bundesminister für Jugend, Familie und Gesundheit wird aus dem
 Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung die

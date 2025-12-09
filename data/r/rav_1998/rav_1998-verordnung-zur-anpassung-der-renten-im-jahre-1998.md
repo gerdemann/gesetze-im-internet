@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000100311)
 
 Auf Grund
 
@@ -59,6 +60,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000200311)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1998 an 47,65 Deutsche
 Mark.
@@ -68,6 +70,7 @@ Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000300311)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 1998 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -82,6 +85,7 @@ Der Anpassungsfaktor beträgt 1,0047.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000400311)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 1998 an
@@ -100,6 +104,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000500311)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 1998 an 22,01 Deutsche Mark.
@@ -109,6 +114,7 @@ Landwirte beträgt vom 1. Juli 1998 an 18,87 Deutsche Mark.
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000600311)
 
 Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach
 dem 30. Juni 1998 ergehen, sind die Angleichungsfaktoren zur
@@ -195,11 +201,13 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000700311)
 
 Diese Verordnung tritt am 1. Juli 1998 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1998/BJNR116600998.html#BJNR116600998BJNE000800311)
 
 Der Bundesrat hat zugestimmt.
 

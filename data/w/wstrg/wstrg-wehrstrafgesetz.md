@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNG000100315)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE000803130)
 
 (1) Dieses Gesetz gilt für Straftaten, die Soldaten der Bundeswehr
 begehen.
@@ -51,6 +53,7 @@ Gesetz auch strafbar, wer nicht Soldat ist.
 
 
 ### § 1a Auslandstaten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE000901130)
 
 (1) Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts,
 für Taten, die nach diesem Gesetz mit Strafe bedroht sind und im
@@ -72,6 +75,7 @@ oder in Beziehung auf den Dienst im Ausland begeht.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001002377)
 
 Im Sinne dieses Gesetzes ist
 
@@ -95,6 +99,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ### § 3 Anwendung des allgemeinen Strafrechts
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001100315)
 
 (1) Das allgemeine Strafrecht ist anzuwenden, soweit dieses Gesetz
 nichts anderes bestimmt.
@@ -104,6 +109,7 @@ sind, gelten besondere Vorschriften des Jugendgerichtsgesetzes.
 
 
 ### § 4 Militärische Straftaten gegen verbündete Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001200315)
 
 (1) Die Vorschriften dieses Gesetzes sind auch dann anzuwenden, wenn
 ein Soldat der Bundeswehr eine militärische Straftat gegen
@@ -115,6 +121,7 @@ Disziplin in der Bundeswehr eine Bestrafung nicht erfordert.
 
 
 ### § 5 Handeln auf Befehl
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001300315)
 
 (1) Begeht ein Untergebener eine rechtswidrige Tat, die den Tatbestand
 eines Strafgesetzes verwirklicht, auf Befehl, so trifft ihn eine
@@ -128,12 +135,14 @@ mildern, bei Vergehen auch von Strafe absehen.
 
 
 ### § 6 Furcht vor persönlicher Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001400315)
 
 Furcht vor persönlicher Gefahr entschuldigt eine Tat nicht, wenn die
 soldatische Pflicht verlangt, die Gefahr zu bestehen.
 
 
 ### § 7 Selbstverschuldete Trunkenheit
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001500315)
 
 (1) Selbstverschuldete Trunkenheit führt nicht zu einer Milderung der
 angedrohten Strafe, wenn die Tat eine militärische Straftat ist, gegen
@@ -144,11 +153,13 @@ wird.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001600315)
 
 (weggefallen)
 
 
 ### § 9 Strafarrest
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001700315)
 
 (1) Das Höchstmaß des Strafarrestes ist sechs Monate, das Mindestmaß
 zwei Wochen.
@@ -160,6 +171,7 @@ der Soldat, soweit tunlich, in seiner Ausbildung gefördert werden.
 
 
 ### § 10 Geldstrafe bei Straftaten von Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001800315)
 
 Bei Straftaten von Soldaten darf Geldstrafe nicht verhängt werden,
 wenn besondere Umstände, die in der Tat oder der Persönlichkeit des
@@ -168,6 +180,7 @@ Disziplin gebieten.
 
 
 ### § 11 Ersatzfreiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE001903125)
 
 Ist wegen einer Tat, die ein Soldat während der Ausübung des Dienstes
 oder in Beziehung auf den Dienst begangen hat, eine Geldstrafe bis zu
@@ -177,6 +190,7 @@ Strafarrest.
 
 
 ### § 12 Strafarrest statt Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002000315)
 
 Darf auf Geldstrafe nach § 10 nicht erkannt werden oder ist bei
 Straftaten von Soldaten die Verhängung einer Freiheitsstrafe, die nach
@@ -186,6 +200,7 @@ sechs Monaten nicht in Betracht kommt, auf Strafarrest zu erkennen.
 
 
 ### § 13 Zusammentreffen mehrerer Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002100315)
 
 (1) Wäre nach den Vorschriften des Strafgesetzbuches eine Gesamtstrafe
 von mehr als sechs Monaten Strafarrest zu bilden, so wird statt auf
@@ -206,6 +221,7 @@ allgemeinen Vorschriften eine Gesamtstrafe nachträglich zu bilden ist.
 
 
 ### § 14 Strafaussetzung zur Bewährung bei Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002200315)
 
 (1) Bei der Verurteilung zu Freiheitsstrafe von mindestens sechs
 Monaten wird die Vollstreckung nicht ausgesetzt, wenn die Wahrung der
@@ -228,6 +244,7 @@ haben den Vorrang.
 
 
 ### § 14a Strafaussetzung zur Bewährung bei Strafarrest
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002300315)
 
 (1) Das Gericht setzt die Vollstreckung des Strafarrestes unter den
 Voraussetzungen des § 56 Abs. 1 Satz 1 des Strafgesetzbuches zur
@@ -246,14 +263,17 @@ berücksichtigen.
 
 
 ## Zweiter Teil - Militärische Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNG000200315)
 
 
 
 ### Erster Abschnitt - Straftaten gegen die Pflicht zur militärischen Dienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNG000300315)
 
 
 
 #### § 15 Eigenmächtige Abwesenheit
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002400315)
 
 (1) Wer eigenmächtig seine Truppe oder Dienststelle verläßt oder ihr
 fernbleibt und vorsätzlich oder fahrlässig länger als drei volle
@@ -269,6 +289,7 @@ Kalendertagen zu melden.
 
 
 #### § 16 Fahnenflucht
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002500315)
 
 (1) Wer eigenmächtig seine Truppe oder Dienststelle verläßt oder ihr
 fernbleibt, um sich der Verpflichtung zum Wehrdienst dauernd oder für
@@ -288,6 +309,7 @@ entsprechend.
 
 
 #### § 17 Selbstverstümmelung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002600315)
 
 (1) Wer sich oder einen anderen Soldaten mit dessen Einwilligung durch
 Verstümmelung oder auf andere Weise zum Wehrdienst untauglich macht
@@ -299,6 +321,7 @@ für eine gewisse Zeit oder teilweise herbeiführt.
 
 
 #### § 18 Dienstentziehung durch Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002700315)
 
 (1) Wer sich oder einen anderen Soldaten durch arglistige, auf
 Täuschung berechnete Machenschaften dem Wehrdienst dauernd oder für
@@ -309,10 +332,12 @@ Freiheitsstrafe bis zu fünf Jahren bestraft.
 
 
 ### Zweiter Abschnitt - Straftaten gegen die Pflichten der Untergebenen
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNG000400315)
 
 
 
 #### § 19 Ungehorsam
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002801307)
 
 (1) Wer einen Befehl nicht befolgt und dadurch wenigstens fahrlässig
 eine schwerwiegende Folge (§ 2 Nr. 3) verursacht, wird mit
@@ -342,6 +367,7 @@ entsprechend.
 
 
 #### § 20 Gehorsamsverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE002900315)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren wird bestraft,
 
@@ -362,6 +388,7 @@ von Strafe absehen.
 
 
 #### § 21 Leichtfertiges Nichtbefolgen eines Befehls
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003000315)
 
 Wer leichtfertig einen Befehl nicht befolgt und dadurch wenigstens
 fahrlässig eine schwerwiegende Folge (§ 2 Nr. 3) verursacht, wird mit
@@ -369,6 +396,7 @@ Freiheitsstrafe bis zu zwei Jahren bestraft.
 
 
 #### § 22 Verbindlichkeit des Befehls, Irrtum
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003100315)
 
 (1) In den Fällen der §§ 19 bis 21 handelt der Untergebene nicht
 rechtswidrig, wenn der Befehl nicht verbindlich ist, insbesondere wenn
@@ -392,6 +420,7 @@ Gericht von einer Bestrafung nach den §§ 19 bis 21 absehen.
 
 
 #### § 23 Bedrohung eines Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003200315)
 
 Wer im Dienst oder in Beziehung auf eine Diensthandlung einen
 Vorgesetzten mit der Begehung einer Straftat bedroht, wird mit
@@ -399,6 +428,7 @@ Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 #### § 24 Nötigung eines Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003300315)
 
 (1) Wer es unternimmt, durch Gewalt oder Drohung einen Vorgesetzten zu
 nötigen, eine Diensthandlung vorzunehmen oder zu unterlassen, wird mit
@@ -417,6 +447,7 @@ der Regel vor, wenn der Täter durch die Tat eine schwerwiegende Folge
 
 
 #### § 25 Tätlicher Angriff gegen einen Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003400315)
 
 (1) Wer es unternimmt, gegen einen Vorgesetzten tätlich zu werden,
 wird mit Freiheitsstrafe von drei Monaten bis zu drei Jahren bestraft.
@@ -431,11 +462,13 @@ der Regel vor, wenn der Täter durch die Tat eine schwerwiegende Folge
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003500315)
 
 (weggefallen)
 
 
 #### § 27 Meuterei
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003600315)
 
 (1) Wenn Soldaten sich zusammenrotten und mit vereinten Kräften eine
 Gehorsamsverweigerung (§ 20), eine Bedrohung (§ 23), eine Nötigung (§
@@ -456,6 +489,7 @@ begangen wird, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 #### § 28 Verabredung zur Unbotmäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003700315)
 
 (1) Verabreden Soldaten, gemeinschaftlich eine Gehorsamsverweigerung
 (§ 20), eine Bedrohung (§ 23), eine Nötigung (§ 24), einen tätlichen
@@ -472,6 +506,7 @@ die Tat zu verhindern.
 
 
 #### § 29 Taten gegen Soldaten mit höherem Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003800315)
 
 (1) Die §§ 23 bis 28 gelten entsprechend, wenn die Tat gegen einen
 Soldaten begangen wird, der zur Zeit der Tat nicht Vorgesetzter des
@@ -492,10 +527,12 @@ Tat sich auf eine Diensthandlung bezieht.
 
 
 ### Dritter Abschnitt - Straftaten gegen die Pflichten der Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNG000500315)
 
 
 
 #### § 30 Mißhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE003900315)
 
 (1) Wer einen Untergebenen körperlich mißhandelt oder an der
 Gesundheit beschädigt, wird mit Freiheitsstrafe von drei Monaten bis
@@ -513,6 +550,7 @@ der Regel vor, wenn der Täter sein Verhalten beharrlich wiederholt.
 
 
 #### § 31 Entwürdigende Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004000315)
 
 (1) Wer einen Untergebenen entwürdigend behandelt oder ihm böswillig
 den Dienst erschwert, wird mit Freiheitsstrafe bis zu fünf Jahren
@@ -527,6 +565,7 @@ der Regel vor, wenn der Täter sein Verhalten beharrlich wiederholt.
 
 
 #### § 32 Mißbrauch der Befehlsbefugnis zu unzulässigen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004100315)
 
 Wer seine Befehlsbefugnis oder Dienststellung gegenüber einem
 Untergebenen zu Befehlen, Forderungen oder Zumutungen mißbraucht, die
@@ -537,6 +576,7 @@ bedroht ist.
 
 
 #### § 33 Verleiten zu einer rechtswidrigen Tat
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004200315)
 
 Wer durch Mißbrauch seiner Befehlsbefugnis oder Dienststellung einen
 Untergebenen zu einer von diesem begangenen rechtswidrigen Tat
@@ -548,6 +588,7 @@ angedrohten Strafe hinaus erhöht werden.
 
 
 #### § 34 Erfolgloses Verleiten zu einer rechtswidrigen Tat
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004300315)
 
 (1) Wer durch Mißbrauch seiner Befehlsbefugnis oder Dienststellung
 einen Untergebenen zu bestimmen versucht, eine rechtswidrige Tat, die
@@ -565,6 +606,7 @@ freiwilliges und ernsthaftes Bemühen, die Tat zu verhindern.
 
 
 #### § 35 Unterdrücken von Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004400315)
 
 (1) Wer einen Untergebenen durch Befehle, Drohungen, Versprechungen,
 Geschenke oder sonst auf pflichtwidrige Weise davon abhält, Eingaben,
@@ -581,6 +623,7 @@ oder Weitergabe er dienstlich verpflichtet ist, unterdrückt.
 
 
 #### § 36 Taten von Soldaten mit höherem Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004500315)
 
 (1) Die §§ 30 bis 35 gelten entsprechend für Taten eines Soldaten, der
 zur Zeit der Tat nicht Vorgesetzter des anderen, aber
@@ -599,6 +642,7 @@ und der bei der Tat seine Dienststellung mißbraucht.
 
 
 #### § 37 Beeinflussung der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004600315)
 
 Wer es unternimmt, durch Mißbrauch seiner Befehlsbefugnis oder
 Dienststellung unzulässigen Einfluß auf Soldaten zu nehmen, die als
@@ -608,6 +652,7 @@ schwererer Strafe bedroht ist.
 
 
 #### § 38 Anmaßen von Befehlsbefugnissen
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004701377)
 
 Wer sich Befehlsbefugnis oder Disziplinarbefugnis anmaßt oder seine
 Befehlsbefugnis oder Disziplinarbefugnis überschreitet, wird mit
@@ -616,6 +661,7 @@ Freiheitsstrafe bis zu zwei Jahren bestraft, wenn die Tat nicht in §
 
 
 #### § 39 Mißbrauch der Disziplinarbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004801377)
 
 Ein Disziplinarvorgesetzter, der absichtlich oder wissentlich
 
@@ -637,6 +683,7 @@ wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.
 
 
 #### § 40 Unterlassene Mitwirkung bei Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE004900315)
 
 Wer es seiner Pflicht als Vorgesetzter zuwider unterläßt,
 
@@ -655,6 +702,7 @@ Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 #### § 41 Mangelhafte Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005000315)
 
 (1) Wer es unterläßt, Untergebene pflichtgemäß zu beaufsichtigen oder
 beaufsichtigen zu lassen, und dadurch wenigstens fahrlässig eine
@@ -672,10 +720,12 @@ Vorschriften mit schwererer Strafe bedroht ist.
 
 
 ### Vierter Abschnitt - Straftaten gegen andere militärische Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNG000600315)
 
 
 
 #### § 42 Unwahre dienstliche Meldung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005100315)
 
 (1) Wer
 
@@ -702,6 +752,7 @@ Freiheitsstrafe bis zu einem Jahr bestraft.
 
 
 #### § 43 Unterlassene Meldung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005200315)
 
 (1) Wer von dem Vorhaben oder der Ausführung einer Meuterei (§ 27)
 oder einer Sabotage (§ 109e Abs. 1 des Strafgesetzbuches) zu einer
@@ -713,6 +764,7 @@ machen, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 #### § 44 Wachverfehlung
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005300315)
 
 (1) Wer im Wachdienst
 
@@ -750,6 +802,7 @@ Strafgesetzbuches entsprechend.
 
 
 #### § 45 Pflichtverletzung bei Sonderaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005400315)
 
 Nach § 44 Abs. 1, 3 bis 6 wird auch bestraft, wer als Führer eines
 Kommandos oder einer Abteilung, der einen Sonderauftrag selbständig
@@ -771,6 +824,7 @@ und dadurch wenigstens fahrlässig eine schwerwiegende Folge (§ 2 Nr.
 
 
 #### § 46 Rechtswidriger Waffengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005500315)
 
 Wer von der Waffe einen rechtswidrigen Gebrauch macht, wird mit
 Freiheitsstrafe bis zu einem Jahr bestraft, wenn die Tat nicht in
@@ -778,6 +832,7 @@ anderen Vorschriften mit schwererer Strafe bedroht ist.
 
 
 #### § 47 Tätigkeit für eine fremde Macht
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005601130)
 
 (1) Wer als Soldat oder früherer Soldat ohne die nach § 20 oder § 20a
 des Soldatengesetzes erforderliche Genehmigung eine Tätigkeit für eine
@@ -805,6 +860,7 @@ einer Dienststelle offenbart.
 
 
 #### § 48 Verletzung anderer Dienstpflichten
+[Direktlink](https://www.gesetze-im-internet.de/wstrg/BJNR002980957.html#BJNR002980957BJNE005704123)
 
 (1) Für die Anwendung der Vorschriften des Strafgesetzbuches über
 

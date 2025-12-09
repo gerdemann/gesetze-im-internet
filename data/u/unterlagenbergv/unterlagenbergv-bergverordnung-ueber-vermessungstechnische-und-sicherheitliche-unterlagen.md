@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Karten und Lagerisse für Bergbauberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNG000100328)
 
 
 
 ### § 1 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE000400328)
 
 (1) Den Karten für den Antrag auf Erteilung einer Erlaubnis nach § 7
 des Bundesberggesetzes sowie den Lagerissen für den Antrag auf
@@ -56,6 +58,7 @@ ausreichende Fläche freizuhalten.
 
 
 ### § 2 Änderungen der Karten und Lagerisse
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE000500328)
 
 (1) Eintragungen, die für die Nachprüfung der richtigen und
 vollständigen Darstellung eines Feldes auf den Karten und Lagerissen
@@ -67,6 +70,7 @@ vorgenommen hat, kenntlich zu machen.
 
 
 ### § 3 Maßstab der Karten und Lagerisse
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE000600328)
 
 Die Karten und Lagerisse sollen
 
@@ -83,6 +87,7 @@ des Feldes sowie nach der erforderlichen Genauigkeit,
 
 
 ### § 4 Titel der Karten und Lagerisse
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE000700328)
 
 Der Titel der Karten und Lagerisse muß enthalten
 
@@ -105,6 +110,7 @@ Der Titel der Karten und Lagerisse muß enthalten
 
 
 ### § 5 Begrenzung und Flächeninhalt einer Bergbauberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE000800328)
 
 (1) Die Feldeseckpunkte sind in Gauß-Krügerschen Koordinaten
 festzulegen. Ein anderes Koordinatensystem ist nur zulässig, wenn es
@@ -143,6 +149,7 @@ einzutragen.
 
 
 ### § 6 Fundstellen
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE000900328)
 
 (1) Bei einem Antrag auf Bewilligung ist die Lage der Stellen, an
 denen die Bodenschätze entdeckt worden sind
@@ -170,6 +177,7 @@ Lage auch in einem Schnitt darzustellen.
 
 
 ### § 7 Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001000328)
 
 Den Karten und Lagerissen sind die ihnen zugrunde liegenden
 Berechnungen und Vermessungsunterlagen mit erläuternden
@@ -179,6 +187,7 @@ und Unterschrift dessen zu versehen, der sie angefertigt hat.
 
 
 ### § 8 Sondervorschrift für den Festlandsockel und die Küstengewässer
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001101301)
 
 (1) Für den Bereich des Festlandsockels und für Felder, die sich
 ausschließlich oder überwiegend in Küstengewässer erstrecken, gelten §
@@ -226,10 +235,12 @@ der Grenze des Festlandsockels, so ist auch deren Verlauf einzutragen.
 
 
 ## 2. Abschnitt - Mitteilungen und Nachweise durch bergbauliche Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNG000200328)
 
 
 
 ### § 9 Mitteilungen über Beschäftigte und betriebliche Vorgänge
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001201377)
 
 Die Unternehmer haben der zuständigen Behörde nach Maßgabe der von
 dieser herausgegebenen Vordrucke zu melden
@@ -306,6 +317,7 @@ Unternehmer in deren Auftrag abgegeben werden.
 
 
 ### § 10 Mitteilung von Unfällen
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001300328)
 
 Die Unternehmer haben einen Unfall, der sich in ihrem Aufsuchungs-,
 Gewinnungs-, Aufbereitungs- oder sonstigen Betrieb ereignet hat und
@@ -316,6 +328,7 @@ anderer Rechtsvorschriften mitzuteilen ist.
 
 
 ### § 11 Nachweis über Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001400328)
 
 (1) Die Unternehmer haben einen Nachweis zu führen über
 
@@ -339,15 +352,18 @@ Arbeitsverhältnisses aufzubewahren.
 
 
 ## 3. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNG000300328)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001501301)
 
 (weggefallen)
 
 
 ### § 13 Ablösung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001600328)
 
 Mit dem Inkrafttreten dieser Verordnung treten folgende Vorschriften
 außer Kraft:
@@ -410,6 +426,7 @@ außer Kraft:
 (zu § 1)
 
 ### Anlage Zeichen, Farben und Beschriftungen für Karten und Lagerisse der Bergbauberechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/unterlagenbergv/BJNR115530982.html#BJNR115530982BJNE001700328)
 
 (Fundstelle: BGBl I 1982, 1557)
 

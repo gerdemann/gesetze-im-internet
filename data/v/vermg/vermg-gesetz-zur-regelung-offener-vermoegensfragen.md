@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNG000106301)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE000208301)
 
 (1) Dieses Gesetz regelt vermögensrechtliche Ansprüche an
 Vermögenswerten, die
@@ -126,6 +128,7 @@ d)  Ansprüche von Gebietskörperschaften des beitretenden Gebiets gemäß
 
 
 ### § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE000313301)
 
 (1) Berechtigte im Sinne dieses Gesetzes sind natürliche und
 juristische Personen sowie Personenhandelsgesellschaften, deren
@@ -204,6 +207,7 @@ Pflichten des in Satz 4 genannten Verfügungsberechtigten.
 
 
 ### § 2a Erbengemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005306301)
 
 (1) Ist Rechtsnachfolger des von Maßnahmen nach § 1 Betroffenen eine
 Erbengemeinschaft, deren Mitglieder nicht sämtlich namentlich bekannt
@@ -243,10 +247,12 @@ Erbengemeinschaft als solche von Maßnahmen nach § 1 betroffen ist.
 
 
 ## Abschnitt II - Rückübertragung von Vermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNG000406301)
 
 
 
 ### § 3 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE006204160)
 
 (1) Vermögenswerte, die den Maßnahmen im Sinne des § 1 unterlagen und
 in Volkseigentum überführt oder an Dritte veräußert wurden, sind auf
@@ -423,11 +429,13 @@ und offene Vermögensfragen.
 
 
 ### § 3a
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE006301301)
 
 (weggefallen)
 
 
 ### § 3b Gesamtvollstreckungsverfahren, Zwangsversteigerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE006401301)
 
 (1) Der Anspruch nach § 3 Abs. 1 Satz 1 wird durch die Eröffnung des
 Insolvenzverfahrens über das Vermögen des Verfügungsberechtigten nicht
@@ -465,6 +473,7 @@ Ansehung von Ansprüchen des Entschädigungsfonds nach § 7a Abs. 2 Satz
 
 
 ### § 3c Erlaubte Veräußerungen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE006002301)
 
 (1) § 3 Abs. 3 gilt für die Veräußerung von Vermögenswerten der
 Treuhandanstalt oder eines Unternehmens, dessen sämtliche Anteile sich
@@ -486,6 +495,7 @@ Beschränkungen des § 3 Abs. 3.
 
 
 ### § 4 Ausschluss der Rückübertragung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE000508301)
 
 (1) Eine Rückübertragung des Eigentumsrechtes oder sonstiger Rechte an
 Vermögenswerten ist ausgeschlossen, wenn dies von der Natur der Sache
@@ -567,6 +577,7 @@ c)  davon beeinflusst war, dass sich der Erwerber eine von ihm selbst oder
 
 
 ### § 5 Ausschluss der Rückübertragung von Eigentumsrechten an Grundstücken und Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE000608301)
 
 (1) Eine Rückübertragung von Eigentumsrechten an Grundstücken und
 Gebäuden ist gemäß § 4 Abs. 1 insbesondere auch dann ausgeschlossen,
@@ -603,6 +614,7 @@ von Verwaltungsakten bleiben unberührt.
 
 
 ### § 6 Rückübertragung von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE006607377)
 
 (1) Ein Unternehmen ist auf Antrag an den Berechtigten zurückzugeben,
 wenn es unter Berücksichtigung des technischen Fortschritts und der
@@ -901,6 +913,7 @@ des Berechtigten oder deren Rechtsnachfolger geleistet wird.
 
 
 ### § 6a Vorläufige Einweisung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004208301)
 
 (1) Die Behörde hat Berechtigte nach § 6 auf Antrag vorläufig in den
 Besitz des zurückzugebenden Unternehmens einzuweisen, wenn die
@@ -952,6 +965,7 @@ Behörde mitzuteilen.
 
 
 ### § 6b Entflechtung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005604301)
 
 (1) Ein Unternehmen kann zur Erfüllung eines oder mehrerer Ansprüche
 auf Rückgabe nach § 6 in rechtlich selbständige Unternehmen oder in
@@ -1081,6 +1095,7 @@ zwischen diesen Unternehmen beeinflussen können.
 
 
 ### § 7 Wertausgleich
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE000811301)
 
 (1) Der Berechtigte hat, außer in den Fällen des Absatzes 2, die
 Kosten für vom Verfügungsberechtigten bis zum 2. Oktober 1990
@@ -1198,6 +1213,7 @@ Bezirk sich der Vermögenswert ganz oder überwiegend befindet.
 
 
 ### § 7a Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004510301)
 
 (1) Ein vom Verfügungsberechtigten im Zusammenhang mit dem Erwerb des
 Eigentums an dem zurückzuübertragenden Vermögenswert an eine
@@ -1297,6 +1313,7 @@ Rückzahlungen festzusetzen sind.
 
 
 ### § 8 Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE000910301)
 
 (1) Soweit inländischen Berechtigten ein Anspruch auf Rückübertragung
 gemäß § 3 zusteht, können sie bis zum Ablauf von sechs Monaten nach
@@ -1312,11 +1329,13 @@ Wahlrecht nur gemeinschaftlich ausgeübt werden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001008301)
 
 (weggefallen)
 
 
 ### § 10 Bewegliche Sachen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001108301)
 
 Wurden bewegliche Sachen verkauft und können sie nach § 3 Abs. 4 oder
 § 4 Abs. 2 nicht zurückgegeben werden, steht dem Berechtigten ein
@@ -1326,10 +1345,12 @@ oder ausgezahlt wurde.
 
 
 ## Abschnitt III - Aufhebung der staatlichen Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNG001106301)
 
 
 
 ### § 11 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001210308)
 
 (1) Die staatliche Verwaltung über Vermögenswerte wird auf Antrag des
 Berechtigten durch Entscheidung der Behörde aufgehoben. Der
@@ -1385,6 +1406,7 @@ Ausgleichsverwaltung verwendet werden.
 
 
 ### § 11a Beendigung der staatlichen Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004606301)
 
 (1) Die staatliche Verwaltung über Vermögenswerte endet auch ohne
 Antrag des Berechtigten mit Ablauf des 31. Dezember 1992. Das
@@ -1418,6 +1440,7 @@ Eigentümer über.
 
 
 ### § 11b Vertreter des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004707377)
 
 (1) Ist der Eigentümer eines ehemals staatlich verwalteten
 Vermögenswertes oder sein Aufenthalt nicht festzustellen und besteht
@@ -1445,6 +1468,7 @@ nur, wenn die Vertretung gesichert ist.
 
 
 ### § 11c Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004807308)
 
 Über Vermögenswerte, die Gegenstand der in § 1 Abs. 8 Buchstabe b
 bezeichneten Vereinbarungen sind, darf nur mit Zustimmung des
@@ -1469,6 +1493,7 @@ betreffenden Vermögensgegenstandes zuständige Bundesbehörde tritt.
 
 
 ### § 12 Staatlich verwaltete Unternehmen und Unternehmensbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001306301)
 
 Die Modalitäten der Rückführung staatlich verwalteter Unternehmen und
 Unternehmensbeteiligungen richten sich nach § 6. Anstelle des
@@ -1476,6 +1501,7 @@ Zeitpunktes der Enteignung gilt der Zeitpunkt der Inverwaltungnahme.
 
 
 ### § 13 Haftung des staatlichen Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001406301)
 
 (1) Ist dem Berechtigten des staatlich verwalteten Vermögenswertes
 durch eine gröbliche Verletzung der Pflichten, die sich aus einer
@@ -1495,6 +1521,7 @@ zu.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001506301)
 
 (1) Dem Berechtigten stehen keine Schadensersatzansprüche zu, wenn
 Vermögenswerte nicht in staatliche Verwaltung genommen wurden, weil
@@ -1510,12 +1537,14 @@ Weise hätte erlangen können.
 
 
 ### § 14a Werterhöhungen durch den staatlichen Verwalter
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004905301)
 
 Für Werterhöhungen, die der staatliche Verwalter aus volkseigenen
 Mitteln finanziert hat, gilt § 7 entsprechend.
 
 
 ### § 15 Befugnisse des staatlichen Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001608301)
 
 (1) Bis zur Aufhebung der staatlichen Verwaltung ist die Sicherung und
 ordnungsgemäße Verwaltung des Vermögenswertes durch den staatlichen
@@ -1537,10 +1566,12 @@ vergewissern, dass keine Anmeldung im Sinne des Absatzes 3 vorliegt.
 
 
 ## Abschnitt IV - Rechtsverhältnisse zwischen Berechtigten und Dritten
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNG001706301)
 
 
 
 ### § 16 Übernahme von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001711301)
 
 (1) Mit der Rückübertragung von Eigentumsrechten oder der Aufhebung
 der staatlichen Verwaltung sind die Rechte und Pflichten, die sich aus
@@ -1654,6 +1685,7 @@ vorzeitigen Ablösung entstehenden Schadens zu bewilligen.
 
 
 ### § 17 Miet- und Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001808301)
 
 Durch die Rückübertragung von Grundstücken und Gebäuden oder die
 Aufhebung der staatlichen Verwaltung werden bestehende Miet- oder
@@ -1669,6 +1701,7 @@ unbefristet wieder auf.
 
 
 ### § 18 Grundstücksbelastungen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE001910301)
 
 (1) Bei der Rückübertragung von Eigentumsrechten an Grundstücken, die
 nicht nach § 6 erfolgt, hat der Berechtigte für die bei Überführung
@@ -1843,6 +1876,7 @@ Zahlung.
 
 
 ### § 18a Rückübertragung des Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005008160)
 
 Das Eigentum an dem Grundstück geht auf den Berechtigten über, wenn
 die Entscheidung über die Rückübertragung unanfechtbar geworden ist
@@ -1872,6 +1906,7 @@ und
 
 
 ### § 18b Herausgabe des Ablösebetrages
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005107160)
 
 (1) Der Gläubiger eines früheren dinglichen Rechts an dem Grundstück
 oder sein Rechtsnachfolger (Begünstigter) kann von der
@@ -1922,11 +1957,13 @@ geht die zugrundeliegende Forderung auf den Entschädigungsfonds über.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002007301)
 
 (weggefallen)
 
 
 ### § 20 Vorkaufsrecht von Mietern und Nutzern
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002113301)
 
 (1) Mietern und Nutzern von Ein- und Zweifamilienhäusern sowie von
 Grundstücken für Erholungszwecke, die der staatlichen Verwaltung im
@@ -1997,6 +2034,7 @@ Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
 
 ### § 20a Vorkaufsrecht des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005404301)
 
 Bei Grundstücken, die nicht zurückübertragen werden können, weil
 Dritte an ihnen Eigentums- oder dingliche Nutzungsrechte erworben
@@ -2012,6 +2050,7 @@ Satz 1 und Abs. 8 sinngemäß anzuwenden.
 
 
 ### § 21 Ersatzgrundstück
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002207301)
 
 (1) Mieter oder Nutzer von Einfamilienhäusern und Grundstücken für
 Erholungszwecke, die staatlich verwaltet sind oder auf die ein
@@ -2041,10 +2080,12 @@ das Grundstück an den Mieter oder Nutzer zu verkaufen.
 
 
 ## Abschnitt V - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNG002306301)
 
 
 
 ### § 22 Durchführung der Regelung offener Vermögensfragen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002311308)
 
 Die Vorschriften dieses Gesetzes sowie die Aufgaben in bezug auf den
 zu bildenden Entschädigungsfonds werden vorbehaltlich des § 29 Abs. 2
@@ -2087,6 +2128,7 @@ des Verwaltungsverfahrens abschließend.
 
 
 ### § 23 Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002408160)
 
 (1) Die Länder errichten Ämter und Landesämter zur Regelung offener
 Vermögensfragen.
@@ -2101,6 +2143,7 @@ bestimmte Stelle übertragen.
 
 
 ### § 24 Untere Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002507301)
 
 Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt
 zur Regelung offener Vermögensfragen als untere Landesbehörde
@@ -2111,6 +2154,7 @@ auch dann, wenn die Aufgaben der unteren Landesbehörden nach § 28 Abs.
 
 
 ### § 25 Landesamt zur Regelung offener Vermögensfragen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002610301)
 
 (1) Für jedes Land wird ein Landesamt zur Regelung offener
 Vermögensfragen gebildet. Für Entscheidungen über Anträge nach den §§
@@ -2135,6 +2179,7 @@ Land- und Forstwirtschaft zum Gegenstand hatte.
 
 
 ### § 26 Widerspruchsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002708160)
 
 (1) Bei jedem Landesamt zur Regelung offener Vermögensfragen wird ein
 Widerspruchsausschuss gebildet; bei Bedarf können mehrere
@@ -2156,6 +2201,7 @@ Entscheidung eines Landesamtes zulässig.
 
 
 ### § 27 Amts- und Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002810308)
 
 (1) Alle Behörden und Gerichte haben den in diesem Abschnitt genannten
 Behörden unentgeltlich Amts- und Rechtshilfe zu leisten. Insbesondere
@@ -2199,6 +2245,7 @@ ist.
 
 
 ### § 28 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE002907301)
 
 (1) Bis zur Errichtung der unteren Landesbehörden werden die Aufgaben
 dieses Gesetzes von den Landratsämtern oder Stadtverwaltungen der
@@ -2214,6 +2261,7 @@ kreisfreien Städte wahrnehmen lassen.
 
 
 ### § 29 Bundesamt für zentrale Dienste und offene Vermögensfragen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003013160)
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen
 unterstützt und gewährleistet eine einheitliche Durchführung dieses
@@ -2246,15 +2294,18 @@ erforderliche Veröffentlichung des Aufgebots im Bundesanzeiger.
 
 
 ### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004408301)
 
 -
 
 
 ## Abschnitt VI - Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNG003106301)
 
 
 
 ### § 30 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003108301)
 
 (1) Ansprüche nach diesem Gesetz sind bei der zuständigen Behörde
 mittels Antrag geltend zu machen. Über den Antrag entscheidet die
@@ -2283,6 +2334,7 @@ Rehabilitierungsverfahren vorlegt.
 
 
 ### § 30a Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005210301)
 
 (1) Rückübertragungsansprüche nach den §§ 3 und 6 sowie
 Entschädigungsansprüche nach § 6 Abs. 7 und § 8 können nach dem 31.
@@ -2336,6 +2388,7 @@ teilweise unterblieben, gilt Absatz 3 Satz 2 entsprechend.
 
 
 ### § 30b Anmeldevermerk
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE006801305)
 
 (1) Für Grundstücke und Erbbaurechte, für die innerhalb der
 Ausschlussfrist des § 30a ein Antrag auf Rückübertragung eingegangen
@@ -2354,6 +2407,7 @@ Löschung des Anmeldevermerks.
 
 
 ### § 31 Pflichten der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003211301)
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen, der
 Antragsteller hat hierbei mitzuwirken. Soweit die Behörde bei einem
@@ -2442,6 +2496,7 @@ und des Verwaltungsvollstreckungsgesetzes anzuwenden.
 
 
 ### § 32 Beabsichtigte Entscheidung, Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003309301)
 
 (1) Die Behörde hat dem Antragsteller die beabsichtigte Entscheidung
 schriftlich mitzuteilen und ihm Gelegenheit zur Stellungnahme binnen
@@ -2478,6 +2533,7 @@ Mitteilung nach Satz 1 beantragt.
 
 
 ### § 33 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003413308)
 
 (1) Ist die Rückübertragung ausgeschlossen oder hat der Antragsteller
 Entschädigung gewählt, entscheidet die Behörde über Grund und Höhe der
@@ -2532,6 +2588,7 @@ Antrag.
 
 
 ### § 33a Fälligkeit, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005902301)
 
 (1) Durch die Behörde festgesetzte Zahlungsansprüche sind einen Monat
 nach Bestandskraft der Entscheidung fällig. Steht der Anspruch dem
@@ -2549,6 +2606,7 @@ Jahr zu verzinsen.
 
 
 ### § 34 Eigentumsübergang, Grundbuchberichtigung und Löschung von Vermerken über die staatliche Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003512377)
 
 (1) Die Rechte an dem zurückübertragenen Vermögenswert gehen auf den
 Berechtigten über, wenn
@@ -2614,6 +2672,7 @@ Schiffe und im Schiffsbauregister eingetragene Schiffsbauwerke.
 
 
 ### § 35 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003607301)
 
 (1) Für die Entscheidung über Vermögenswerte in staatlicher Verwaltung
 ist das Amt zur Regelung offener Vermögensfragen zuständig, in dessen
@@ -2637,6 +2696,7 @@ Vermögensfragen abzugeben und den Antragsteller zu benachrichtigen.
 
 
 ### § 36 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003712301)
 
 (1) Gegen Entscheidungen des Amtes zur Regelung offener
 Vermögensfragen kann Widerspruch erhoben werden, der nicht auf einen
@@ -2665,6 +2725,7 @@ Landesamt übertragenen Verfahren ergangen sind.
 
 
 ### § 37 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003809301)
 
 (1) Für das gerichtliche Verfahren gilt § 36 Abs. 1 Satz 1
 entsprechend.
@@ -2681,6 +2742,7 @@ Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
 
 ### § 38 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE003906301)
 
 (1) Das Verwaltungsverfahren einschließlich des Widerspruchsverfahrens
 ist kostenfrei.
@@ -2694,6 +2756,7 @@ zur Sache mitentschieden.
 
 
 ### § 38a Schiedsgericht, Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005706301)
 
 (1) Die Einsetzung eines Schiedsgerichts für Entscheidungen nach § 6
 Abs. 1 oder die vorhergehende Entflechtung nach § 6b erfolgt auf Grund
@@ -2723,11 +2786,13 @@ bestandskräftig und hat die Wirkungen des § 34.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE004006301)
 
 (Außerkrafttreten anderer Vorschriften)
 
 
 ### § 40 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005509311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
@@ -2741,6 +2806,7 @@ abweichende Regelungen zu treffen.
 
 
 ### § 41 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html#BJNR211590990BJNE005807301)
 
 (1) § 7 Abs. 7 Satz 4 Nr. 3 ist für den Zeitraum ab 1. Juli 1994 auf
 Herausgabeansprüche nach § 7 Abs. 7 Satz 2 anzuwenden, wenn über die

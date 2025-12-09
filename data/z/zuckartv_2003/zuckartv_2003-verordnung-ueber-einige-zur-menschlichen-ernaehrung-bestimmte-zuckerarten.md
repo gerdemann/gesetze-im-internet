@@ -25,6 +25,7 @@ umgesetzt.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet auf Grund
@@ -48,6 +49,7 @@ Landwirtschaft verordnet auf Grund
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000200000)
 
 (1) Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
 Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
@@ -58,6 +60,7 @@ Erzeugnisse in Form von Staubzucker, Kandiszucker und Zuckerhüten.
 
 
 ## § 2 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000301116)
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort
 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der
@@ -133,6 +136,7 @@ Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
 ## § 3 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000400000)
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
@@ -151,12 +155,14 @@ Im Falle des Satzes 1 Nr. 1 bleibt § 2 Abs. 6 unberührt.
 
 
 ## § 4 Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000500000)
 
 Die Merkmale der in Anlage 1 aufgeführten Erzeugnisse sind nach den in
 Anlage 2 vorgesehenen Analysemethoden zu bestimmen.
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000601310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Satz 1
@@ -173,6 +179,7 @@ bringt.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000700000)
 
 Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 31. Oktober
 2003 geltenden Vorschriften hergestellt und gekennzeichnet werden.
@@ -181,6 +188,7 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE000901116)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -188,12 +196,14 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE001001116)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 1 bis 4)
 
 ## Anlage 1 Bezeichnungen und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE001100000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 
@@ -484,6 +494,7 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 (zu § 2 Abs. 3 und § 4)
 
 ## Anlage 2 Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/zuckartv_2003/BJNR209800003.html#BJNR209800003BJNE001200000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2102
 

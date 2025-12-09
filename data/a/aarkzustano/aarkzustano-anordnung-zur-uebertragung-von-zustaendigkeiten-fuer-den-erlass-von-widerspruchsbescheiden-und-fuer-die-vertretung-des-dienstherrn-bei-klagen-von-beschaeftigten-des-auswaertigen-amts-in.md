@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aarkzustano/BJNR006800013.html#BJNR006800013BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -26,6 +27,7 @@ Auswärtige Amt an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/aarkzustano/BJNR006800013.html#BJNR006800013BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, über
 Widersprüche von Beschäftigten des Auswärtigen Amts in Angelegenheiten
@@ -37,6 +39,7 @@ vor, im Einzelfall selbst zu entscheiden.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/aarkzustano/BJNR006800013.html#BJNR006800013BJNE000300000)
 
 Dem Bundesverwaltungsamt wird die Vertretung der Bundesrepublik
 Deutschland in verwaltungsgerichtlichen Verfahren in Angelegenheiten
@@ -45,6 +48,7 @@ Einzelfall die Vertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/aarkzustano/BJNR006800013.html#BJNR006800013BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 2012 in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grabfertdnkvtrg/BJNR209370969.html#BJNR209370969BJNE000100314)
 
 Dem in Kopenhagen am 30. März 1967 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und dem Königreich Dänemark über
@@ -29,6 +30,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grabfertdnkvtrg/BJNR209370969.html#BJNR209370969BJNE000200314)
 
 Der Bundesminister der Finanzen wird ermächtigt, Änderungen der Anlage
 des Vertrages auf Grund seines Artikels 2 Satz 2 durch
@@ -36,6 +38,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grabfertdnkvtrg/BJNR209370969.html#BJNR209370969BJNE000300314)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer der
 in Artikel 6 Abs. 1 des Vertrages bezeichneten Beschränkungen
@@ -49,6 +52,7 @@ Deutsche Mark geahndet werden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/grabfertdnkvtrg/BJNR209370969.html#BJNR209370969BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -58,6 +62,7 @@ S. 1).
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/grabfertdnkvtrg/BJNR209370969.html#BJNR209370969BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

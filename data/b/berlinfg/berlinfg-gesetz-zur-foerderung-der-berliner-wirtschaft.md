@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Vergünstigungen bei der Umsatzsteuer und bei den Steuern vom Einkommen und Ertrag, Gewährung einer Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000103307)
 
 
 
 ### Art I - Vergünstigungen bei der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000203307)
 
 
 
 #### § 1 Kürzungsanspruch des Berliner Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001206301)
 
 (1) Hat ein Berliner Unternehmer an einen westdeutschen Unternehmer
 Gegenstände geliefert, so ist er berechtigt, die von ihm geschuldete
@@ -178,6 +181,7 @@ nachzuweisen.
 
 
 #### § 1a Kürzungsanspruch für Innenumsätze
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001306301)
 
 (1) Hat ein Unternehmer Gegenstände, die er in einer Betriebsstätte in
 Berlin (West) hergestellt hat, zwecks gewerblicher Verwendung in eine
@@ -231,11 +235,13 @@ belegmäßig (§ 9) und buchmäßig (§ 10) nachzuweisen.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001404301)
 
 -
 
 
 #### § 3 Beschränkung auf den Unternehmensbereich
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001504301)
 
 Die Kürzungen nach § 1 werden nur gewährt, wenn der Berliner
 Unternehmer die Lieferungen und sonstigen Leistungen im Rahmen seines
@@ -244,6 +250,7 @@ ausgeführt hat. § 5 Abs. 2 Nr. 4 bleibt unberührt.
 
 
 #### § 4 Ausnahmen, Einschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001607301)
 
 (1) Die Kürzungen nach § 1 Abs. 1 und § 1a Abs. 1 werden nicht gewährt
 für die Lieferung, das Verbringen oder den Erwerb folgender
@@ -445,6 +452,7 @@ Gegenstände gleicher Art liefern.
 
 
 #### § 5 Berliner Unternehmer, westdeutscher Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001704301)
 
 (1) Berliner Unternehmer im Sinne dieses Gesetzes ist
 
@@ -493,6 +501,7 @@ des in § 1a bezeichneten Unternehmers.
 
 
 #### § 6 Herstellung in Berlin (West)
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001805301)
 
 (1) Eine Herstellung in Berlin (West) liegt vor, wenn durch eine
 Bearbeitung oder Verarbeitung in Berlin (West) nach der
@@ -527,6 +536,7 @@ worden sind.
 
 
 #### § 6a Berliner Wertschöpfungsquote
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE001904307)
 
 (1) Die Berliner Wertschöpfungsquote im Sinne dieses Gesetzes ist der
 Vomhundertsatz, der sich aus dem Verhältnis ergibt, in dem die
@@ -626,6 +636,7 @@ des wirtschaftlichen Umsatzes näher bestimmen.
 
 
 #### § 6b Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005204301)
 
 (1) Als Berliner Gewinn im Sinne des § 6a Abs. 2 Nr. 1 gilt der für
 Zwecke der Einkommensteuer ermittelte Gewinn, der in den in Berlin
@@ -749,6 +760,7 @@ werden.
 
 
 #### § 6c Berliner Vorleistungen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005303301)
 
 (1) Als Berliner Vorleistungen im Sinne des § 6a Abs. 2 Nr. 9 gelten
 
@@ -860,6 +872,7 @@ nachzuweisen.
 
 
 #### § 7 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002004301)
 
 (1) Zum Entgelt im Sinne dieses Gesetzes gehört nicht die
 Umsatzsteuer. § 10 Abs. 1 des Umsatzsteuergesetzes ist anzuwenden.
@@ -881,11 +894,13 @@ Vorschriften berechneten Herstellungskosten zugrunde zu legen.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002105301)
 
 -
 
 
 #### § 9 Versendungs- und Beförderungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002204301)
 
 (1) Der Nachweis, daß die in § 1 Abs. 1 und 3 und § 1a Abs. 1
 bezeichneten Gegenstände in den übrigen Geltungsbereich dieses
@@ -915,6 +930,7 @@ der Nachweis durch andere Belege geführt wird.
 
 
 #### § 10 Buchmäßiger Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002305301)
 
 (1) Die buchmäßig nachzuweisenden Voraussetzungen müssen eindeutig und
 leicht nachprüfbar aus der Buchführung zu ersehen sein. Die Bücher
@@ -1020,6 +1036,7 @@ gestatten, daß er den buchmäßigen Nachweis in anderer Weise erbringt.
 
 
 #### § 11 Verfahren bei der Kürzung
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002404301)
 
 (1) Die Kürzungsbeträge nach den §§ 1 und 1a sind mit der für einen
 Voranmeldungszeitraum oder Besteuerungszeitraum geschuldeten
@@ -1037,6 +1054,7 @@ Unternehmer die Kürzung der Umsatzsteuer erneut vornehmen.
 
 
 #### § 12 Wegfall der Kürzungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002504301)
 
 Gelangen Gegenstände, für deren Verbringen Anspruch auf die Kürzung
 nach § 1a besteht, nach Berlin (West) zurück, ohne daß sie im übrigen
@@ -1050,20 +1068,24 @@ zurückzuzahlen.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002605301)
 
 -
 
 
 ### Art II - Vergünstigungen bei den Steuern vom Einkommen und Ertrag
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000303307)
 
 
 
 #### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002706301)
 
 -
 
 
 #### § 14 Erhöhte Absetzungen für abnutzbare Wirtschaftsgüter des Anlagevermögens
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002805307)
 
 (1) Bei abnutzbaren Wirtschaftsgütern, die zum Anlagevermögen einer in
 Berlin (West) belegenen Betriebsstätte gehören und bei denen die
@@ -1159,6 +1181,7 @@ in Anspruch genommen werden.
 
 
 #### § 14a Erhöhte Absetzungen für Mehrfamilienhäuser
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE002906307)
 
 (1) Bei in Berlin (West) belegenen Gebäuden, die mehr als zwei
 Wohnungen enthalten (Mehrfamilienhäuser), zu mehr als 66 2/3 vom
@@ -1259,6 +1282,7 @@ dienen, entsprechend anzuwenden.
 
 
 #### § 14b Erhöhte Absetzungen für Modernisierungsmaßnahmen bei Mehrfamilienhäusern
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003005307)
 
 (1) Bei in Berlin (West) belegenen Mehrfamilienhäusern kann der
 Steuerpflichtige neben den Absetzungen für Abnutzung für das Gebäude
@@ -1365,6 +1389,7 @@ durch die folgende Anlagen und Einrichtungen geschaffen werden:
 
 
 #### § 14c Erhöhte Absetzungen für Baumaßnahmen an Gebäuden zur Schaffung neuer Mietwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005401307)
 
 Bei in Berlin (West) belegenen Wohnungen ist § 7c des
 Einkommensteuergesetzes mit der Maßgabe anzuwenden, daß
@@ -1396,6 +1421,7 @@ sind.
 
 
 #### § 14d Erhöhte Absetzungen für Wohnungen mit Sozialbindung
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005502301)
 
 (1) Bei in Berlin (West) belegenen Wohnungen, die vor dem 1. Januar
 1993 fertiggestellt worden sind, ist § 7k des Einkommensteuergesetzes
@@ -1438,6 +1464,7 @@ nicht übersteigen darf.
 
 
 #### § 15 Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003104307)
 
 (1) Bei in Berlin (West) belegenen Einfamilienhäusern,
 Zweifamilienhäusern und Eigentumswohnungen sowie bei Ausbauten und
@@ -1575,6 +1602,7 @@ bewohnt.
 
 
 #### § 15a Verluste bei beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003205307)
 
 § 15a des Einkommensteuergesetzes gilt nicht, soweit Verluste bei den
 Einkünften aus Land- und Forstwirtschaft, Gewerbebetrieb oder
@@ -1592,6 +1620,7 @@ Grundsätze Verlustanteile anzusetzen.
 
 
 #### § 15b Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005312307)
 
 (1) Bei zu eigenen Wohnzwecken genutzten Wohnungen in einem in Berlin
 (West) belegenen eigenen Haus und bei zu eigenen Wohnzwecken genutzten
@@ -1709,6 +1738,7 @@ selbständigen oder nichtselbständigen Arbeit erfolgen.
 
 
 #### § 16 Steuerermäßigung für Darlehen zur Finanzierung von betrieblichen Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003305301)
 
 (1) Bei unbeschränkt Steuerpflichtigen, die der Berliner Industriebank
 Aktiengesellschaft oder der Niederlassung Berlin der
@@ -1801,6 +1831,7 @@ vom
 
 
 #### § 17 Steuerermäßigung für Darlehen zur Finanzierung von Baumaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003407301)
 
 (1) Bei unbeschränkt Steuerpflichtigen, die vor dem 1. Januar 1992
 unverzinsliche, in gleichen Jahresbeträgen zu tilgende Darlehen mit
@@ -1916,6 +1947,7 @@ oder der von ihr bestimmten Stelle vorzulegen.
 
 
 #### § 18 Anwendung der §§ 16 und 17 durch Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003503307)
 
 Besteht das Einkommen ganz oder teilweise aus Einkünften aus
 nichtselbständiger Arbeit, von denen ein Steuerabzug vorgenommen wird,
@@ -1927,10 +1959,12 @@ ist sinngemäß anzuwenden.
 
 
 ### Art III - Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000403307)
 
 
 
 #### § 19 Investitionszulage für Investitionen in Berlin (West)
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003606307)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die begünstigte Investitionen vornehmen,
@@ -2125,6 +2159,7 @@ Anschaffungs- oder Herstellungskosten.
 
 
 #### § 20 Verfolgung von Straftaten nach § 264 des Strafgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003703307)
 
 Für die Verfolgung einer Straftat nach § 264 des Strafgesetzbuches,
 die sich auf die Investitionszulage bezieht, sowie der Begünstigung
@@ -2134,14 +2169,17 @@ Steuerstraftaten entsprechend.
 
 
 ## Abschnitt II - Steuererleichterungen und Arbeitnehmervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000503307)
 
 
 
 ### Art IV - Einkommensteuer (Lohnsteuer) und Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000603307)
 
 
 
 #### § 21 Ermäßigung der veranlagten Einkommensteuer und Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003805301)
 
 (1) Bei zur Einkommensteuer veranlagten Personen, die
 
@@ -2259,6 +2297,7 @@ Arbeitnehmern beschäftigt worden ist.
 
 
 #### § 22 Ermäßigung der veranlagten Einkommensteuer bei Zuzug von Arbeitnehmern
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE003903307)
 
 Bei zur Einkommensteuer veranlagten Arbeitnehmern, die, ohne die
 Voraussetzungen des § 21 Abs. 1 zu erfüllen, in Berlin (West) ihren
@@ -2271,6 +2310,7 @@ Hundert. § 21 Abs. 1 Satz 3 und 4 gilt entsprechend.
 
 
 #### § 23 Einkünfte aus Berlin (West)
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004004301)
 
 Einkünfte aus Berlin (West) im Sinne des § 21 sind
 
@@ -2380,6 +2420,7 @@ Einkünfte aus Berlin (West) im Sinne des § 21 sind
 
 
 #### § 24 Behandlung von Organgesellschaften und verbundenen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004103307)
 
 (1) In den Fällen der §§ 14, 17 und 18 des Körperschaftsteuergesetzes
 sind für die Ermittlung der in Betriebsstätten in Berlin (West)
@@ -2398,6 +2439,7 @@ ergeben hätte.
 
 
 #### § 25 Berechnung der Ermäßigung der veranlagten Einkommensteuer und Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004204307)
 
 (1) Sind in dem Einkommen nur Einkünfte aus Berlin (West) enthalten
 oder beträgt der Gesamtbetrag der Einkünfte nicht mehr als 3.000
@@ -2461,6 +2503,7 @@ berücksichtigt werden.
 
 
 #### § 26 Ermäßigung der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004305301)
 
 (1) Die vom Arbeitslohn einzubehaltende Lohnsteuer, die auf Einkünfte
 aus Berlin (West) im Sinne des § 23 Nr. 4 Buchstabe b entfällt,
@@ -2544,6 +2587,7 @@ in Geldwert bestehende Einnahme darstellt.
 
 
 #### § 27 Ermittlung der Teilbeträge des verwendbaren Eigenkapitals unbeschränkt steuerpflichtiger Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004403307)
 
 Hat sich die Körperschaftsteuer für Einkünfte aus Berlin (West) nach §
 21 Abs. 2 Satz 1 oder Abs. 3 Satz 1 ermäßigt, gelten diese Einkünfte
@@ -2557,10 +2601,12 @@ Teils des Körperschaftsteuergesetzes.
 
 
 ### Art V - Vergünstigung für Arbeitnehmer in Berlin (West)
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000703307)
 
 
 
 #### § 28 Vergünstigung durch Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004516123)
 
 (1) Arbeitnehmer, denen Arbeitslohn für eine Beschäftigung in Berlin
 (West) aus einem gegenwärtigen Dienstverhältnis zufließt (§ 23 Nr. 4
@@ -2876,6 +2922,7 @@ vermerken.
 
 
 #### § 29 Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004607301)
 
 (1) Auf die Zulage sind die für Steuervergütungen geltenden
 Vorschriften der Abgabenordnung entsprechend anzuwenden. Dies gilt
@@ -2924,6 +2971,7 @@ Finanzrechtsweg gegeben.
 
 
 #### § 29a Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004703307)
 
 (1) Für die Zulage gelten die Strafvorschriften des § 370 Abs. 1 bis
 4, der §§ 371, 375 Abs. 1 und des § 376 sowie die Bußgeldvorschriften
@@ -2938,10 +2986,12 @@ entsprechend.
 
 
 ### Art VI - Ermächtigungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000803307)
 
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004803307)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates
@@ -3001,10 +3051,12 @@ Lohnabrechnung Tabellen aufzustellen und bekanntzumachen.
 
 
 ## Abschnitt III - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG000903307)
 
 
 
 ### § 31 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE004916301)
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
@@ -3186,6 +3238,7 @@ Satz 5 ist auch auf Veranlagungszeiträume vor 1990 anzuwenden.
 
 
 ### § 32 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005003307)
 
 Der Bundesminister der Finanzen wird ermächtigt, den Wortlaut dieses
 Gesetzes in der jeweils geltenden Fassung mit neuem Datum, unter neuer
@@ -3194,10 +3247,12 @@ Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ## Abschnitt IV - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNG001003307)
 
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/berlinfg/BJNR000410950.html#BJNR000410950BJNE005103307)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.

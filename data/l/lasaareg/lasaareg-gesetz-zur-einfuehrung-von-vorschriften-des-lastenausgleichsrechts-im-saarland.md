@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNG000100326)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE000800326)
 
 (1) Die Vorschriften
 
@@ -60,6 +62,7 @@ auch das Saarland umfassen, bleibt unberührt.
 
 
 ### § 2 Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE000901301)
 
 Als Ausgleichsleistungen werden gewährt:
 
@@ -94,6 +97,7 @@ Als Ausgleichsleistungen werden gewährt:
 
 
 ### § 3 Beiträge der öffentlichen Haushalte an den Bund
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001001301)
 
 (1) Das Saarland leistet an den Ausgleichsfonds bis zum 31. Dezember
 1979 einen jährlichen Zuschuß in Höhe von 25 vom Hundert seines
@@ -123,6 +127,7 @@ Saarland entfallenden Einnahmen und Ausgaben außer Ansatz.
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001100326)
 
 (1) In diesem Gesetz werden bezeichnet
 
@@ -153,6 +158,7 @@ Lastenausgleichsgesetzes vom 26. Juni 1961 (BGBl. I S. 785).
 
 
 ### § 5 Währungsstichtag
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001200326)
 
 Soweit in Vorschriften des Lastenausgleichsgesetzes und des
 Feststellungsgesetzes auf den Währungsstichtag oder den 21. Juni 1948
@@ -162,10 +168,12 @@ November 1947.
 
 
 ## Zweiter Abschnitt - Schadensfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNG000200326)
 
 
 
 ### § 6 Nichtberücksichtigung saarländischer Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001300326)
 
 § 8 Abs. 2 Nr. 4 des Feststellungsgesetzes gilt nicht für
 Entschädigungszahlungen, die auf Grund saarländischer Rechts- oder
@@ -173,6 +181,7 @@ Verwaltungsvorschriften gewährt worden sind.
 
 
 ### § 7 Feststellung von Hausratverlusten
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001400326)
 
 Kriegssachschäden an Hausrat, die bis zum 31. Juli 1945 im Saarland
 entstanden sind, sowie Vertreibungsschäden an Hausrat, wenn der
@@ -204,6 +213,7 @@ Feststellungsgesetzes nur festgestellt
 
 
 ### § 8 Schadensberechnung bei Kriegssachschäden an land- und forstwirtschaftlichem Vermögen, Grundvermögen und Betriebsvermögen im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001500326)
 
 (1) Bei der Berechnung von Kriegssachschäden an land- und
 forstwirtschaftlichem Vermögen und an Grundvermögen im Saarland nach §
@@ -254,6 +264,7 @@ ist nach Nummer 2 Buchstabe a umzurechnen.
 
 
 ### § 9 Schadensberechnung bei Sparerschäden
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001600326)
 
 (1) Ein Sparerschaden im Sinne des § 15 des Lastenausgleichsgesetzes
 ist auch dann anzuerkennen, wenn eine Sparanlage im Saarland
@@ -275,6 +286,7 @@ vollen Reichsmarknennbetrag anzusetzen.
 
 
 ### § 10 Frühere Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001700326)
 
 § 42 des Feststellungsgesetzes findet auch auf die Feststellungen
 Anwendung, die auf Grund saarländischer Rechts- oder
@@ -282,14 +294,17 @@ Verwaltungsvorschriften getroffen worden sind.
 
 
 ## Dritter Abschnitt - Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNG000300326)
 
 
 
 ### Erster Titel - Ergänzende Vorschriften zu den einzelnen Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNG000400326)
 
 
 
 #### § 11 Kürzung des Grundbetrags der Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001800326)
 
 Die Ermächtigung in § 249 Abs. 5 Nr. 1 des Lastenausgleichsgesetzes
 gilt auch für die Bestimmungen über die Berechnung des im Saarland
@@ -297,6 +312,7 @@ belegenen Vermögens.
 
 
 #### § 12 Anrechnung saarländischer Vorauszahlungen auf die Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE001900326)
 
 (1) Auf den Anspruch auf Hauptentschädigung (§ 251 Abs. 1 des
 Lastenausgleichsgesetzes) sind die Vorauszahlungen anzurechnen, die
@@ -342,6 +358,7 @@ geregelt; dabei gilt folgendes:
 
 
 #### § 13 Verhältnis von saarländischen Aufbaudarlehen zur Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002000326)
 
 Nach Maßgabe des § 258 des Lastenausgleichsgesetzes werden auf den
 Anspruch auf Hauptentschädigung auch Darlehen angerechnet, die nach
@@ -372,6 +389,7 @@ der dazu ergangenen ergänzenden Bestimmungen gewährt worden sind:
 
 
 #### § 14 Berücksichtigung von Einkünften bei der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002100326)
 
 Soweit in § 267 Abs. 2 des Lastenausgleichsgesetzes auf das
 Bundesversorgungsgesetz Bezug genommen ist, umfaßt diese Bezugnahme
@@ -383,6 +401,7 @@ dem Bundesversorgungsgesetz ergeben würden.
 
 
 #### § 15 Verhältnis der saarländischen Unterhaltshilfe zur Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002200326)
 
 Bei Anwendung des § 278a des Lastenausgleichsgesetzes werden die nach
 dem saarländischen Unterhaltshilfe-Gesetz für Zeiträume bis zum
@@ -392,18 +411,21 @@ angerechnet.
 
 
 #### § 16 Erstattung saarländischer Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002300326)
 
 § 290 des Lastenausgleichsgesetzes ist auch auf Unterhaltshilfe nach
 dem saarländischen Unterhaltshilfe-Gesetz anzuwenden.
 
 
 #### § 17 Verhältnis der Kriegsschadenrente zu saarländischen Aufbaudarlehen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002400326)
 
 § 291 des Lastenausgleichsgesetzes gilt auch für Darlehen im Sinne des
 § 13.
 
 
 #### § 18 Hausratentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002500326)
 
 (1) Bei der Anwendung des § 296 des Lastenausgleichsgesetzes sind auch
 die Vorauszahlungen zu berücksichtigen, die auf Grund saarländischer
@@ -418,6 +440,7 @@ Hausratverluste gewährten Leistungen abgegolten.
 
 
 #### § 19 Ausgleichsämter
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002600326)
 
 Abweichend von § 308 Abs. 1 des Lastenausgleichsgesetzes kann im
 Saarland für mehrere Landkreise oder Stadt- und Landkreise ein
@@ -426,6 +449,7 @@ Halbsatz 2 des Lastenausgleichsgesetzes entsprechend.
 
 
 #### § 20 Sondervorschriften für die Verwendung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002700326)
 
 (1) Die für die Gewährung von Aufbaudarlehen im Saarland
 bereitzustellenden Mittel bleiben bei den in § 323 Abs. 1 des
@@ -445,6 +469,7 @@ Mittel bis zum Ablauf des Rechnungsjahres 1965 bereitgestellt werden.
 
 
 #### § 21 Wiederaufnahme von Verfahren über Leistungen nach saarländischen Rechts- oder Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002800326)
 
 §§ 342 und 343 Abs. 4 des Lastenausgleichsgesetzes sind auch auf
 Verfahren über Leistungen anzuwenden, die nach saarländischen Rechts-
@@ -453,6 +478,7 @@ Ausgleichsleistungen vergleichbar sind.
 
 
 #### § 22 Erstattung und Verrechnung von Leistungen nach saarländischen Rechts- oder Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE002900326)
 
 § 350a des Lastenausgleichsgesetzes ist auch auf die nach
 saarländischen Rechts- oder Verwaltungsvorschriften gewährten
@@ -460,6 +486,7 @@ Leistungen anzuwenden, die den Ausgleichsleistungen vergleichbar sind.
 
 
 #### § 23 Ausschließung von Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003000326)
 
 Bei Anwendung des § 360 des Lastenausgleichsgesetzes gelten als
 Ausgleichsleistungen auch die nach saarländischen Rechts- oder
@@ -467,6 +494,7 @@ Verwaltungsvorschriften gewährten vergleichbaren Leistungen.
 
 
 #### § 24 Umrechnung von Franken in Deutsche Mark
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003100326)
 
 Bei der Anwendung der §§ 12, 15, 16, 18 Abs. 1 und des § 22 sind
 Zahlungen in Franken mit dem aus der Anlage ersichtlichen, am Tage der
@@ -477,6 +505,7 @@ Deutsche Mark für 100 Franken umzurechnen.
 
 
 #### § 25 Ausschluß der Entschädigungsberechtigung nach dem Währungsausgleichsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003200326)
 
 Bei Anwendung des § 1 Abs. 4 des Währungsausgleichsgesetzes wird
 Entschädigung auch aus solchen Spareinlagen nicht gewährt, die im
@@ -485,6 +514,7 @@ waren.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003300326)
 
 Die Vorschriften des Altsparergesetzes gelten im Saarland, soweit sie
 sich beziehen auf
@@ -509,10 +539,12 @@ verwaltet haben.
 
 
 ### Zweiter Titel - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNG000500326)
 
 
 
 #### § 27 Überleitung der saarländischen Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003400326)
 
 (1) An Personen, die über den Zeitpunkt des Inkrafttretens dieses
 Gesetzes hinaus Unterhaltshilfe nach dem saarländischen
@@ -564,6 +596,7 @@ Sterbevorsorge nicht aufrechterhalten will.
 
 
 #### § 28 Übergangsregelung bei der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003500326)
 
 (1) An Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente
 beantragen können, wird bei Antragstellung bis zum 31. Dezember 1961
@@ -578,6 +611,7 @@ Lastenausgleichsgesetzes bis zum 31. Dezember 1961 gestellt werden.
 
 
 #### § 29 Überleitung der Behördenorganisation im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003600326)
 
 (1) Der saarländische Minister des Innern nimmt bis zur Bildung des
 Landesausgleichsamtes dessen Geschäfte wahr.
@@ -598,6 +632,7 @@ Vertreter der Interessen des Ausgleichsfonds deren Aufgaben wahr.
 
 
 #### § 30 Überleitung anhängiger Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003700326)
 
 (1) Für die bei Inkrafttreten dieses Gesetzes anhängigen Verfahren
 über Unterhaltshilfe nach dem saarländischen Unterhaltshilfe-Gesetz
@@ -661,6 +696,7 @@ als Verfahren über Aufbaudarlehen weitergeführt.
 
 
 #### § 31 Überleitung saarländischer Mittel auf den Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003800326)
 
 (1) Soweit die Mittel, die dem Saarland aus der
 Gemeinschaftshilfeabgabe zufließen, bis zum 31. Dezember 1959 noch
@@ -677,6 +713,7 @@ Januar 1960 ab auf den Ausgleichsfonds über.
 
 
 #### § 32 Überleitung nach saarländischem Recht begründeter Verpflichtungen auf den Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE003900326)
 
 (1) Ansprüche auf Unterhaltshilfe nach dem saarländischen
 Unterhaltshilfe-Gesetz werden vom 1. Januar 1960 ab aus dem
@@ -706,6 +743,7 @@ Leistungen bestimmt das Landesrecht.
 
 
 #### § 33 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004000326)
 
 § 351
 Abs. 3 Satz 1 des Lastenausgleichsgesetzes ist auch auf
@@ -716,14 +754,17 @@ Bediensteten der Ausgleichsbehörden entstanden sind.
 
 
 ## Vierter Abschnitt - Sonstige und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNG000600326)
 
 
 
 ### (XXXX) §§ 34 bis 36
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004100326)
 
 
 
 ### § 37 Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004200326)
 
 (1) Die in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt die
 Bundesregierung mit Zustimmung des Bundesrates.
@@ -747,6 +788,7 @@ Verwaltungsvorschriften (§ 18 Abs. 2, § 30 Abs. 2) zu setzen.
 
 
 ### § 38 Aufhebung von Rechts- und Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004300326)
 
 Soweit sich aus diesem Gesetz nichts anderes ergibt, treten mit dem
 Inkrafttreten dieses Gesetzes jeweils mit den dazu ergangenen
@@ -789,6 +831,7 @@ Inkrafttreten dieses Gesetzes jeweils mit den dazu ergangenen
 
 
 ### § 39 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004400326)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
@@ -798,11 +841,13 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 40 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004500326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 
 ### Anlage (zu § 24)
+[Direktlink](https://www.gesetze-im-internet.de/lasaareg/BJNR006370960.html#BJNR006370960BJNE004600326)
 
 Fundstelle des Originaltextes: BGBl. I 1960, 646
 

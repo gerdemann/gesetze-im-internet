@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
@@ -29,11 +30,13 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000200000)
 
 Der Ausbildungsberuf Tierwirt/Tierwirtin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre. Es kann zwischen den
 Fachrichtungen
@@ -65,6 +68,7 @@ Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000400000)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -74,6 +78,7 @@ erfolgen.
 
 
 ## § 4 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000500000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten (berufliche Handlungsfähigkeit) sollen so vermittelt
@@ -87,6 +92,7 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -266,6 +272,7 @@ mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000700000)
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 5 sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -277,12 +284,14 @@ erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE000900000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -292,6 +301,7 @@ durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -368,6 +378,7 @@ werden. Für die Aufgaben kommen insbesondere in Betracht:
 
 
 ## § 10 Abschlussprüfung in der Fachrichtung Rinderhaltung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -595,6 +606,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Abschlussprüfung in der Fachrichtung Schweinehaltung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001201308)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -786,6 +798,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 12 Abschlussprüfung in der Fachrichtung Geflügelhaltung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001300000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1007,6 +1020,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 13 Abschlussprüfung in der Fachrichtung Schäferei
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001400000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1235,6 +1249,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 14 Abschlussprüfung in der Fachrichtung Imkerei
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001501308)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1444,6 +1459,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 15 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001600000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -1452,12 +1468,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001700000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbv_2005/BJNR142600005.html#BJNR142600005BJNE001800000)
 
 
 *    *   (Fundstelle: BGBl. I 2005, 1434 - 1443)

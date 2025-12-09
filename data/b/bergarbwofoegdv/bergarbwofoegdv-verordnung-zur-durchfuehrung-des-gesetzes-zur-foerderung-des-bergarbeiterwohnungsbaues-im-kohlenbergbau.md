@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_gdv/BJNR005490966.html#BJNR005490966BJNE000100309)
 
 Auf Grund des § 4 Abs. 1 Buchstabe d Satz 3 des Gesetzes zur Förderung
 des Bergarbeiterwohnungsbaus im Kohlenbergbau in der Fassung des
@@ -31,6 +32,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1 Zumutbare Bedingungen für eine Weiterbeschäftigung im Kohlenbergbau zur Erhaltung der Wohnungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_gdv/BJNR005490966.html#BJNR005490966BJNE000200309)
 
 (1) Die Wohnungsberechtigung für Bergarbeiterwohnungen bleibt einem
 ehemaligen sozialversicherten Arbeitnehmer des Kohlenbergbaus, der
@@ -80,6 +82,7 @@ werden.
 
 
 ## § 2 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_gdv/BJNR005490966.html#BJNR005490966BJNE000300309)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel II
@@ -89,11 +92,13 @@ Bergarbeiterwohnungsbaus im Kohlenbergbau vom 24. August 1965
 
 
 ## § 3 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_gdv/BJNR005490966.html#BJNR005490966BJNE000400309)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_gdv/BJNR005490966.html#BJNR005490966BJNE000500309)
 
 Diese Verordnung tritt mit Wirkung vom 28. August 1965 an in Kraft.
 

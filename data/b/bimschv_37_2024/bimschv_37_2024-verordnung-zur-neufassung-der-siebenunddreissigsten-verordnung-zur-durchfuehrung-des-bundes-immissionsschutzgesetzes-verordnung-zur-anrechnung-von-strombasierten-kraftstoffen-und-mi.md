@@ -42,6 +42,7 @@ Stand: Ersetzt V 2129-8-37 v. 15.5.2017 I 1195 (BImSchV 37)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000100000)
 
 Auf Grund des § 37d Absatz 2 Satz 1 Nummer 1 Buchstabe a und c, Nummer
 13, Nummer 15 Buchstabe d und Nummer 19 in Verbindung mit § 37d Absatz
@@ -64,9 +65,11 @@ Bundestages:
 
 
 ## Teil 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -87,6 +90,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000400000)
 
 (1) Erneuerbare Energien nicht biogenen Ursprungs im Sinne dieser
 Verordnung sind erneuerbare Energien nach § 3 Nummer 21 Buchstabe a
@@ -238,9 +242,11 @@ Stromimporte und abzüglich Stromexporte.
 
 
 ## Teil 2 - Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000200000)
 
 
 ### § 3 Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000500000)
 
 (1) Erneuerbare Kraftstoffe nicht biogenen Ursprungs werden auf die
 Erfüllung von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in
@@ -351,6 +357,7 @@ Bundesanzeiger bekannt.
 
 
 ### § 4 Anerkennung von Strom, der über einen Direktanschluss von Stromerzeugungsanlagen bezogen wird
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000600000)
 
 (1) Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen
 Ursprungs, der über einen Direktanschluss von Anlagen zur Erzeugung
@@ -395,6 +402,7 @@ werden.
 
 
 ### § 5 Anerkennung von Strom aus dem Netz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000700000)
 
 Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen
 Ursprungs, der aus dem Netz entnommen wird, kann als vollständig
@@ -429,6 +437,7 @@ erneuerbar angerechnet werden, wenn
 
 
 ### § 6 Zusätzliche Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000800000)
 
 (1) Die Bedingung der zusätzlichen Stromerzeugung aus erneuerbaren
 Energien nicht biogenen Ursprungs ist erfüllt, wenn eine Schnittstelle
@@ -551,6 +560,7 @@ biogenen Ursprungs nach dem 1. Januar 2028 hinzugefügt wird.
 
 
 ### § 7 Zeitliche Korrelation
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE000900000)
 
 (1) Die Bedingung der zeitlichen Korrelation zwischen der Herstellung
 der erneuerbaren Kraftstoffe nicht biogenen Ursprungs und der
@@ -655,6 +665,7 @@ die Durchführungsverordnung (EU) 2021/280 (ABl. L 62 vom 23.2.2021, S.
 
 
 ### § 8 Geografische Korrelation
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001000000)
 
 Die Bedingung der geografischen Korrelation zwischen dem Standort der
 Anlage zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen
@@ -702,6 +713,7 @@ erneuerbaren Energien nicht biogenen Ursprungs ist erfüllt, wenn
 
 
 ### § 9 Anerkennung von Strom aus dem Netz in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001100000)
 
 (1) Strom zur Herstellung von erneuerbaren Kraftstoffen nicht biogenen
 Ursprungs, der aus dem Netz entnommen wird, kann zusätzlich zu Strom
@@ -836,6 +848,7 @@ Herstellung der Kraftstoffe bereitgestellt wurde.
 
 
 ### § 10 Treibhausgaseinsparungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001200000)
 
 (1) Die Treibhausgaseinsparungen durch die Nutzung von erneuerbaren
 Kraftstoffen nicht biogenen Ursprungs müssen gegenüber dem Komparator
@@ -853,6 +866,7 @@ im Bundesanzeiger bekannt machen.
 
 
 ### § 11 Mitverarbeitung von erneuerbaren Kraftstoffen nicht biogenen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001300000)
 
 (1) Für erneuerbare Kraftstoffe nicht biogenen Ursprungs zum Einsatz
 als Erfüllungsoption nach § 37a Absatz 5 Satz 1 Nummer 8 des Bundes-
@@ -885,9 +899,11 @@ Energiezufuhr des Verfahrens geteilt wird.
 
 
 ## Teil 3 - Anforderungen an mitverarbeitete biogene Öle und biogenen Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000300000)
 
 
 ### § 12 Anrechenbarkeit von mitverarbeiteten biogenen Ölen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001400000)
 
 (1) Abweichend von § 37b Absatz 5 Satz 1 des Bundes-
 Immissionsschutzgesetzes sind hydrierte biogene Öle ab dem
@@ -937,6 +953,7 @@ der Biokraftstoffquote bleibt unberührt.
 
 
 ### § 13 Anrechenbarkeit von biogenem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001500000)
 
 (1) Biogener Wasserstoff, der in Straßenfahrzeugen eingesetzt wird,
 ist zusätzlich zu den Biokraftstoffen nach § 37b Absatz 1 Satz 1 des
@@ -968,12 +985,15 @@ weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen.
 
 
 ## Teil 4 - Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000400000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000500000)
 
 
 #### § 14 Anerkannte Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001600000)
 
 Als Nachweise über die Erfüllung der Anforderungen an erneuerbare
 Kraftstoffe nicht biogenen Ursprungs nach § 3 Absatz 1 in Verbindung
@@ -989,6 +1009,7 @@ mit den §§ 4 bis 10 werden anerkannt:
 
 
 #### § 15 Vorlage der Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001700000)
 
 Der Nachweispflichtige hat die Nachweise bei der
 Biokraftstoffquotenstelle zusammen mit der Mitteilung nach § 37c
@@ -996,9 +1017,11 @@ Absatz 1 des Bundes-Immissionsschutzgesetzes vorzulegen.
 
 
 ### Abschnitt 2 - Nachweise für die Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000600000)
 
 
 #### § 16 Ausstellung von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001800000)
 
 (1) Zur Ausstellung von Nachweisen sind nur letzte Schnittstellen nach
 § 2 Absatz 12 und vorgelagerte Schnittstellen nach § 2 Absatz 11 unter
@@ -1104,6 +1127,7 @@ Satz 1.
 
 
 #### § 17 Inhalt und Form der Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE001900000)
 
 (1) Nachweise müssen die folgenden Angaben enthalten:
 
@@ -1195,6 +1219,7 @@ Zertifizierungsstellen kontrolliert.
 
 
 #### § 18 Dokumentation der Lieferung in Massenbilanzsystemen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002000000)
 
 (1) Um die Herkunft der erneuerbaren Kraftstoffe nicht biogenen
 Ursprungs von der Schnittstelle, die den Nachweis ausgestellt hat,
@@ -1267,6 +1292,7 @@ an den Nachweispflichtigen liefert, in dem Nachweis zu bestätigen.
 
 
 #### § 19 Anforderungen an Massenbilanzsysteme
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002100000)
 
 (1) Um die Herkunft erneuerbarer Kraftstoffe nicht biogenen Ursprungs
 lückenlos über die gesamte Herstellungs- und Lieferkette nachzuweisen,
@@ -1316,6 +1342,7 @@ unberührt.
 
 
 #### § 20 Fehlende oder nicht ausreichende Angaben
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002200000)
 
 Wird der Kraftstoff nicht biogenen Ursprungs nicht in dem Staat oder
 in der Region, der oder die auf dem Nachweis angegeben wurde, in
@@ -1327,6 +1354,7 @@ in dieser Region erfüllt.
 
 
 #### § 21 Weitere anerkannte Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002300000)
 
 (1) Als anerkannt gelten Nachweise, die
 
@@ -1364,6 +1392,7 @@ entsprechend anzuwenden.
 
 
 #### § 22 Teilnachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002400000)
 
 (1) Die zuständige Behörde stellt für Teilmengen von erneuerbaren
 Kraftstoffen nicht biogenen Ursprungs, für die bereits ein Nachweis
@@ -1385,6 +1414,7 @@ sich aus den Absätzen 1 und 2 nichts anderes ergibt.
 
 
 #### § 23 Unwirksamkeit von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002500000)
 
 (1) Nachweise sind unwirksam, wenn
 
@@ -1423,9 +1453,11 @@ bezieht.
 
 
 ### Abschnitt 3 - Zertifikate für Schnittstellen und Lieferanten von erneuerbaren Kraftstoffen nicht biogenen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000700000)
 
 
 #### § 24 Anerkannte Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002600000)
 
 Anerkannte Zertifikate sind
 
@@ -1439,6 +1471,7 @@ Anerkannte Zertifikate sind
 
 
 #### § 25 Ausstellung von Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002700000)
 
 (1) Zur Ausstellung von Zertifikaten sind nur anerkannte
 Zertifizierungsstellen berechtigt, die von dem Zertifizierungssystem
@@ -1547,6 +1580,7 @@ der Gültigkeit des neuen Zertifikates sichergestellt ist.
 
 
 #### § 26 Inhalt der Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002800000)
 
 Zertifikate müssen folgende Angaben enthalten:
 
@@ -1602,6 +1636,7 @@ Zertifikate müssen folgende Angaben enthalten:
 
 
 #### § 27 Unwirksamkeit von Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE002900000)
 
 Zertifikate sind unwirksam, wenn sie eine oder mehrere Angaben nach §
 26 nicht enthalten oder diese Angaben nicht richtig oder nicht
@@ -1609,6 +1644,7 @@ vollständig sind.
 
 
 #### § 28 Gültigkeit der Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003000000)
 
 (1) Zertifikate sind für einen Zeitraum von zwölf Monaten ab dem Datum
 des Laufzeitbeginns nach § 26 Nummer 2 gültig.
@@ -1619,6 +1655,7 @@ bleiben unberührt.
 
 
 #### § 29 Weitere anerkannte Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003100000)
 
 Als anerkannt gelten auch Zertifikate, die
 
@@ -1656,12 +1693,15 @@ Als anerkannt gelten auch Zertifikate, die
 
 
 ### Abschnitt 4 - Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000800000)
 
 
 #### Unterabschnitt 1 - Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG000900000)
 
 
 ##### § 30 Anerkannte Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003200000)
 
 Anerkannte Zertifizierungsstellen sind
 
@@ -1676,6 +1716,7 @@ Anerkannte Zertifizierungsstellen sind
 
 
 ##### § 31 Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003300000)
 
 (1) Zertifizierungsstellen werden von der zuständigen Behörde auf
 Antrag anerkannt, wenn sie
@@ -1778,6 +1819,7 @@ einer Zertifizierungsstelle erforderlich ist.
 [^F829792_03_BJNR0830A0024BJNE003300000]: 
 
 ##### § 32 Verfahren zur Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003400000)
 
 (1) Das Verfahren zur Anerkennung von Zertifizierungsstellen kann über
 eine einheitliche Stelle nach den Vorschriften des
@@ -1792,6 +1834,7 @@ bekannt zu machen.
 
 
 ##### § 33 Inhalt der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003500000)
 
 Die Anerkennung einer Zertifizierungsstelle muss die folgenden Angaben
 enthalten:
@@ -1809,6 +1852,7 @@ enthalten:
 
 
 ##### § 34 Erlöschen der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003600000)
 
 (1) Die Anerkennung einer Zertifizierungsstelle erlischt, wenn sie
 zurückgenommen, widerrufen, anderweitig aufgehoben oder durch
@@ -1830,6 +1874,7 @@ machen.
 
 
 ##### § 35 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003700000)
 
 Die Anerkennung einer Zertifizierungsstelle soll widerrufen werden,
 wenn die Gewähr für eine ordnungsgemäße Durchführung der Aufgaben nach
@@ -1852,6 +1897,7 @@ Verwaltungsakten bleiben im Übrigen unberührt.
 
 
 ##### § 36 Weitere anerkannte Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003800000)
 
 (1) Zertifizierungsstellen gelten auch als anerkannt, solange und
 soweit sie von der Europäischen Kommission oder von einem anderen
@@ -1865,9 +1911,11 @@ Europäischen Kommission vereinbar ist.
 
 
 #### Unterabschnitt 2 - Aufgaben von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG001000000)
 
 
 ##### § 37 Führen von Verzeichnissen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE003900000)
 
 Die Zertifizierungsstellen müssen ein Verzeichnis aller Schnittstellen
 und Lieferanten, denen sie Zertifikate ausgestellt, verweigert oder
@@ -1878,6 +1926,7 @@ Verzeichnis laufend aktualisieren.
 
 
 ##### § 38 Kontrolle von Schnittstellen und Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004000000)
 
 (1) Die Zertifizierungsstellen kontrollieren spätestens sechs Monate
 nach Ausstellung des ersten Zertifikates und danach mindestens einmal
@@ -1915,6 +1964,7 @@ zu dulden.
 
 
 ##### § 39 Mitteilungen und Berichte über Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004100000)
 
 Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-
 Kontrolle so rechtzeitig ankündigen, dass eine Begleitung durch die
@@ -1925,6 +1975,7 @@ Behörde elektronisch zu übermitteln.
 
 
 ##### § 40 Weitere Berichte und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004200000)
 
 (1) Zertifizierungsstellen müssen der zuständigen Behörde nach ihrer
 Entscheidung über die Ausstellung eines Zertifikates nach § 2 Absatz
@@ -1965,6 +2016,7 @@ elektronisch übermitteln:
 
 
 ##### § 41 Aufbewahrung, Umgang mit Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004300000)
 
 (1) Zertifizierungsstellen müssen die Berichte nach § 39 Satz 2 zehn
 Jahre ab dem Datum ihrer jeweiligen Erstellung und die Kopien der
@@ -1984,9 +2036,11 @@ Geltungsbereich des Umweltinformationsgesetzes.
 
 
 #### Unterabschnitt 3 - Überwachung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG001100000)
 
 
 ##### § 42 Überwachung und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004400000)
 
 (1) Die zuständige Behörde überwacht die nach dieser Verordnung
 anerkannten Zertifizierungsstellen.
@@ -2012,9 +2066,11 @@ anerkannte Zertifizierungssystem über die festgestellten Mängel und
 
 
 #### Unterabschnitt 4 - Vorläufige Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG001200000)
 
 
 ##### § 43 Vorläufige Anerkennung von Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004500000)
 
 (1) Die zuständige Behörde kann Zertifizierungsstellen vorläufig
 anerkennen, wenn die Voraussetzungen nach § 31 Absatz 1 Nummer 1, 4
@@ -2032,9 +2088,11 @@ keine Rechtsansprüche ableiten.
 
 
 ## Teil 5 - Zentrales Register und elektronische Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG001300000)
 
 
 ### § 44 Register für erneuerbare Kraftstoffe nicht biogenen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004600000)
 
 (1) Die zuständige Behörde führt ein zentrales Register über alle
 Zertifizierungssysteme, Zertifizierungsstellen, Zertifikate,
@@ -2097,6 +2155,7 @@ Absatz 4a des Bundes-Immissionsschutzgesetzes erforderlich sind.
 
 
 ### § 45 Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004700000)
 
 (1) Soweit es zur Sicherstellung der Richtigkeit der Daten im Register
 für erneuerbare Kraftstoffe nicht biogenen Ursprungs erforderlich ist,
@@ -2119,9 +2178,11 @@ Herkunftsnachweisregister für gasförmige Energieträger nach § 3 Absatz
 
 
 ## Teil 6 - Datenverarbeitung, Berichtspflichten, behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNG001400000)
 
 
 ### § 46 Auskunftsrecht der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004800000)
 
 Die zuständige Behörde kann von Nachweispflichtigen,
 Zertifizierungsstellen, Schnittstellen, Lieferanten, Hauptzollämtern,
@@ -2150,6 +2211,7 @@ folgenden Aufgaben zu erfüllen:
 
 
 ### § 47 Evaluierung und Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE004900000)
 
 (1) Die zuständige Behörde evaluiert diese Verordnung regelmäßig. Sie
 legt der Bundesregierung erstmals bis zum Ablauf des 31. Dezember 2025
@@ -2170,6 +2232,7 @@ Ausnahmeregelungen vorsehen.
 
 
 ### § 48 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005000000)
 
 Soweit es zur Durchführung dieser Verordnung oder zur Erfüllung von
 Berichtspflichten der Bundesregierung erforderlich ist, darf die
@@ -2216,6 +2279,7 @@ folgenden Adressaten:
 
 
 ### § 49 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005100000)
 
 (1) Zuständige Behörde im Sinne dieser Verordnung ist das
 Umweltbundesamt. Die Zuständigkeit der Bundesanstalt für
@@ -2234,6 +2298,7 @@ Bundesministerium der Finanzen abgestimmt.
 
 
 ### § 50 Verfahren vor der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005200000)
 
 Die Amtssprache ist deutsch. Alle Anträge, die bei der zuständigen
 Behörde gestellt werden, und alle Nachweise, Bescheinigungen, Berichte
@@ -2247,6 +2312,7 @@ geändert worden ist, ist entsprechend anzuwenden.
 
 
 ### § 51 Muster und Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005300000)
 
 (1) Für die folgenden Dokumente sind Muster und Vordrucke sowie ein
 Datensatzformat einer elektronischen Datenübermittlung zu verwenden:
@@ -2279,6 +2345,7 @@ veröffentlichen.
 
 
 ### § 52 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005400000)
 
 Der Informationsaustausch mit den zuständigen Ministerien und Behörden
 anderer Mitgliedstaaten der Europäischen Union und von Drittstaaten
@@ -2291,6 +2358,7 @@ Informationsaustausch nach Satz 1 auf die zuständige Behörde
 
 
 ### § 53 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005500000)
 
 Diese Verordnung ist auf erneuerbare Kraftstoffe nicht biogenen
 Ursprungs anzuwenden, die ab dem 1. Juli 2024 in Verkehr gebracht
@@ -2303,6 +2371,7 @@ einschließlich 19. April 2024 geltenden Fassung.
 
 
 ### § 54 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung zur Anrechnung von strombasierten
@@ -2314,6 +2383,7 @@ geändert worden ist, außer Kraft.
 (zu § 3 Absatz 6 Nummer 3)
 
 ### Anlage Anpassungsfaktoren für die Antriebseffizienz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_37_2024/BJNR0830A0024.html#BJNR0830A0024BJNE005700000)
 
 (Fundstelle: BGBl. 2024 I Nr. 131, S. 26)
 

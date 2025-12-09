@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_ssoldernano/BJNR007750969.html#BJNR007750969BJNE000100304)
 
 Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der
 Bekanntmachung vom 22. April 1969 (Bundesgesetzbl. I S. 313) ordne ich
@@ -27,6 +28,7 @@ an:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_ssoldernano/BJNR007750969.html#BJNR007750969BJNE000200304)
 
 (1) Ich behalte mir das Recht zur Ernennung und Entlassung der
 Offiziere vor, die der Besoldungsordnung B angehören.
@@ -42,12 +44,14 @@ auch in den Fällen vor, in denen ich die Ausübung meiner Befugnisse
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_ssoldernano/BJNR007750969.html#BJNR007750969BJNE000300304)
 
 Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen
 erlassen die Bundesminister der Verteidigung und des Innern.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bpr_ssoldernano/BJNR007750969.html#BJNR007750969BJNE000400304)
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

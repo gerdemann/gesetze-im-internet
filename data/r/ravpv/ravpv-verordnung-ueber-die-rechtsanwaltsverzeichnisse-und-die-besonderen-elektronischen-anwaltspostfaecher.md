@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000100000)
 
 Auf Grund des § 31c der Bundesrechtsanwaltsordnung in Verbindung mit
 
@@ -49,9 +50,11 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## Teil 1 - Elektronische Verzeichnisse der Rechtsanwaltskammern
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNG000100000)
 
 
 ### § 1 Gegenstand des Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000302125)
 
 (1) Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der
 in ihrem Bezirk zugelassenen Rechtsanwälte einschließlich der
@@ -99,6 +102,7 @@ Bezirk
 
 
 ### § 2 Inhalt des Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000407125)
 
 (1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen
 Person geführt und mitgeteilt, akademische Grade und Ehrengrade sowie
@@ -165,6 +169,7 @@ einzutragen.
 
 
 ### § 3 Eintragungen in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000502125)
 
 Die Eintragung der nach § 1 Absatz 1 Satz 1 und 2 Nummer 1 bis 3 sowie
 Absatz 2 Nummer 1 und 2 in das Verzeichnis einzutragenden Personen und
@@ -179,6 +184,7 @@ vorgelegt wurden.
 
 
 ### § 4 Berichtigungen des Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000601125)
 
 (1) Stellt die Rechtsanwaltskammer fest, dass Eintragungen in ihrem
 Verzeichnis unrichtig oder unvollständig sind, hat sie diese
@@ -198,6 +204,7 @@ Verzeichnisses zuständige Rechtsanwaltskammer hiervon.
 
 
 ### § 5 Sperrung und Löschung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000702125)
 
 (1) Scheidet eine in das Verzeichnis eingetragene Person oder
 zugelassene Berufsausübungsgesellschaft aus der das Verzeichnis
@@ -233,6 +240,7 @@ Rechtsanwaltskammer ist und dass ein Abwickler bestellt wurde.
 
 
 ### § 6 Einsichtnahme in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000804125)
 
 (1) Die Einsichtnahme in das Verzeichnis der Rechtsanwaltskammer ist
 ausschließlich über das Internet möglich. Eine Einsichtnahme muss
@@ -250,6 +258,7 @@ Informationstechnik-Verordnung berücksichtigen.
 
 
 ### § 7 Suchfunktion
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE000903125)
 
 (1) Die Rechtsanwaltskammern haben die Einsichtnahme in ihr
 Verzeichnis über eine Suchfunktion zu gewährleisten. Die Suchfunktion
@@ -286,6 +295,7 @@ Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
 
 
 ### § 8 Datensicherheit und Einsehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001000000)
 
 (1) Die das Verzeichnis führende Rechtsanwaltskammer hat zu
 gewährleisten, dass Eintragungen, Berichtigungen, Sperrungen,
@@ -308,9 +318,11 @@ zeitnah zu beheben.
 
 
 ## Teil 2 - Gesamtverzeichnis der Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNG000200000)
 
 
 ### § 9 Führung des Gesamtverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001101125)
 
 Die Bundesrechtsanwaltskammer führt ein elektronisches
 Gesamtverzeichnis aller in den Verzeichnissen der Rechtsanwaltskammern
@@ -319,6 +331,7 @@ Bezeichnung „Bundesweites Amtliches Anwaltsverzeichnis“.
 
 
 ### § 10 Inhalt des Gesamtverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001203125)
 
 Das Gesamtverzeichnis enthält zu den einzutragenden Personen und
 Berufsausübungsgesellschaften
@@ -343,6 +356,7 @@ Berufsausübungsgesellschaften
 
 
 ### § 11 Eintragungen in das Gesamtverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001303125)
 
 (1) Sofern die Rechtsanwaltskammern die in ihren Verzeichnissen
 enthaltenen Angaben im automatisierten Verfahren in das
@@ -428,6 +442,7 @@ folgende Tätigkeitsschwerpunkte eintragungsfähig:
 
 
 ### § 12 Berichtigung des Gesamtverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001400000)
 
 (1) Sofern die Rechtsanwaltskammern in ihren Verzeichnissen enthaltene
 Angaben in das Gesamtverzeichnis eingegeben haben, erfolgen
@@ -451,6 +466,7 @@ Tätigkeitsschwerpunkte.
 
 
 ### § 13 Einsichtnahme in das Gesamtverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001500000)
 
 (1) § 6 gilt entsprechend.
 
@@ -460,6 +476,7 @@ Rechtsanwaltsverzeichnis einsehbar.
 
 
 ### § 14 Suchfunktion
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001600000)
 
 Die Einsichtnahme in das Gesamtverzeichnis erfolgt über eine
 Suchfunktion. § 7 gilt mit der Maßgabe entsprechend, dass auch eine
@@ -467,6 +484,7 @@ Suche nach der Kammerzugehörigkeit zu ermöglichen ist.
 
 
 ### § 15 Datensicherheit und Einsehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001701311)
 
 (1) Die Bundesrechtsanwaltskammer gewährleistet, dass die von den
 Rechtsanwaltskammern vorzunehmenden Eingaben in das Gesamtverzeichnis
@@ -495,9 +513,11 @@ zeitnah zu beheben.
 
 
 ## Teil 3 - Europäisches Rechtsanwaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNG000300000)
 
 
 ### § 16 Abruf von Angaben über das Europäische Rechtsanwaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001802125)
 
 Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des
 Gesamtverzeichnisses für die Einsichtnahme über das auf den
@@ -512,6 +532,7 @@ Staaten zu ermöglichen.
 
 
 ### § 17 Abrufbare Angaben
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE001901311)
 
 (1) Die Bundesrechtsanwaltskammer ermöglicht über das Europäische
 Rechtsanwaltsverzeichnis den Abruf der folgenden im Gesamtverzeichnis
@@ -551,6 +572,7 @@ Rechtsanwaltsverzeichnis nicht ermöglicht werden.
 
 
 ### § 18 Abrufbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002001125)
 
 (1) Die Bundesrechtsanwaltskammer stellt durch geeignete
 organisatorische und dem aktuellen Stand entsprechende technische
@@ -572,9 +594,11 @@ Verantwortlichen unverzüglich zu unterrichten.
 
 
 ## Teil 4 - Besonderes elektronisches Anwaltspostfach
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNG000400000)
 
 
 ### § 19 Besonderes elektronisches Anwaltspostfach
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002103125)
 
 (1) Das besondere elektronische Anwaltspostfach nach den §§ 31a und
 31b der Bundesrechtsanwaltsordnung dient der elektronischen
@@ -612,6 +636,7 @@ stehen gleich:
 
 
 ### § 20 Führung der besonderen elektronischen Postfächer
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002202125)
 
 (1) Die Bundesrechtsanwaltskammer hat die besonderen elektronischen
 Anwaltspostfächer auf der Grundlage des Protokollstandards „Online
@@ -644,6 +669,7 @@ sein.
 
 
 ### § 21 Einrichtung eines Postfachs
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002303125)
 
 (1) Die Rechtsanwaltskammern unterrichten die
 Bundesrechtsanwaltskammer über die bevorstehende Eintragung einer
@@ -676,6 +702,7 @@ unverzüglich mitzuteilen.
 
 
 ### § 22 Erstanmeldung am Postfach
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002400000)
 
 (1) Die Erstanmeldung des Postfachinhabers an seinem besonderen
 elektronischen Anwaltspostfach erfolgt unter Verwendung eines für ihn
@@ -729,6 +756,7 @@ sind.
 
 
 ### § 23 Weitere Zugangsberechtigungen zum Postfach
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002504125)
 
 (1) Der Postfachinhaber kann mit einem auf einer Hardwarekomponente
 gespeicherten Zertifikat weitere ihm zugeordnete Zertifikate
@@ -778,6 +806,7 @@ anderen Personen können erteilte Zugangsberechtigungen jederzeit
 
 
 ### § 24 Zugang zum Postfach
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002600000)
 
 (1) Die Anmeldung des Inhabers an seinem besonderen elektronischen
 Anwaltspostfach erfolgt mit einem ihm zugeordneten Zertifikat und der
@@ -796,6 +825,7 @@ entsprechend.
 
 
 ### § 25 Vertretungen, Abwickler und Zustellungsbevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002702125)
 
 (1) Verfügt eine Person, die für eine im Gesamtverzeichnis
 eingetragene Person oder Berufsausübungsgesellschaft von der
@@ -851,6 +881,7 @@ einzuräumen, so gilt Absatz 4 entsprechend.
 
 
 ### § 26 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002800000)
 
 (1) Die Inhaber eines für sie erzeugten Zertifikats dürfen dieses
 keiner weiteren Person überlassen und haben die dem Zertifikat
@@ -878,6 +909,7 @@ verhindern, sofern Anhaltspunkte dafür bestehen, dass
 
 
 ### § 27 Automatisches Löschen von Nachrichten
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE002900000)
 
 Nachrichten dürfen frühestens 90 Tage nach ihrem Eingang automatisch
 in den Papierkorb des besonderen elektronischen Anwaltspostfachs
@@ -886,6 +918,7 @@ frühestens nach 30 Tagen automatisch gelöscht werden.
 
 
 ### § 28 Aufhebung der Zugangsberechtigung und Sperrung
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE003001125)
 
 (1) Die Bundesrechtsanwaltskammer sperrt ein besonderes elektronisches
 Anwaltspostfach, wenn die Eintragungen zum Postfachinhaber im
@@ -912,6 +945,7 @@ elektronischen Anwaltspostfachs unverzüglich rückgängig zu machen.
 
 
 ### § 29 Löschung des Postfachs
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE003100000)
 
 Gesperrte besondere elektronische Anwaltspostfächer werden
 einschließlich der darin gespeicherten Nachrichten sechs Monate nach
@@ -920,9 +954,11 @@ Löschung nicht vor Beendigung der Abwicklung.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNG000500000)
 
 
 ### § 30 Die Rechtsanwaltschaft bei dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE003201125)
 
 Von den Aufgaben, die nach dieser Verordnung der Rechtsanwaltskammer
 zugewiesen sind, nimmt das Bundesministerium der Justiz und für
@@ -933,10 +969,12 @@ für einen Rechtsanwalt bei dem Bundesgerichtshof verbunden sind.
 
 
 ### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE003301311)
 
 
 
 ### § 32 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE003400000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.
@@ -947,6 +985,7 @@ und 6, § 20 Absatz 3 sowie § 23 Absatz 3 Satz 5 treten am 1. Januar
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ravpv/BJNR216700016.html#BJNR216700016BJNE003500000)
 
 Der Bundesrat hat zugestimmt.
 

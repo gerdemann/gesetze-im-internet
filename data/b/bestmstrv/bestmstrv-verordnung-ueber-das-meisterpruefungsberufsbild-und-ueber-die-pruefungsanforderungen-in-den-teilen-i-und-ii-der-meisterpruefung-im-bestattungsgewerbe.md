@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000100000)
 
 Auf Grund des § 51a Absatz 2 in Verbindung mit Absatz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000200000)
 
 Die Meisterprüfung im handwerksähnlichen Bestattungsgewerbe umfasst
 folgende selbständige Prüfungsteile:
@@ -53,6 +55,7 @@ folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000300000)
 
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling
 befähigt ist,
@@ -156,6 +159,7 @@ Fertigkeiten und Kenntnisse als Qualifikationen zu berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -169,6 +173,7 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Der Prüfling erarbeitet vor der
@@ -202,6 +207,7 @@ gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000600000)
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in
 einem Fachgespräch nachzuweisen, dass er befähigt ist,
@@ -222,6 +228,7 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Qualifikationsnachweis für die Meisterprüfung im
@@ -249,6 +256,7 @@ Meisterprüfungsprojekts nach § 4 Absatz 3 war.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000800000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 drei Arbeitstage, das Fachgespräch nicht länger als 30 Minuten und die
@@ -268,6 +276,7 @@ sein darf.
 
 
 ## § 8 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE000901360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 Nummer 1 bis 4 genannten Handlungsfeldern seine Handlungskompetenz
@@ -481,6 +490,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE001002128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -491,6 +501,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE001200360)
 
 Die Regelungen des § 8 Absatz 5 und 6 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -498,6 +509,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bestmstrv/BJNR303600009.html#BJNR303600009BJNE001101360)
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
 

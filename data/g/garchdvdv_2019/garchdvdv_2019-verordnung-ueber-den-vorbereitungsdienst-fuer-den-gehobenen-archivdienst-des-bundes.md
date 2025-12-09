@@ -19,9 +19,11 @@ Fundstelle
 Stand: Ersetzt V 2030-8-5-6 v. 18.12.2015 I 2478 (GArchDVDV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000100000)
 
 
 ### § 1 Ziele des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000200000)
 
 (1) Der Vorbereitungsdienst vermittelt die wissenschaftlichen Methoden
 und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen
@@ -77,6 +79,7 @@ Archivdienstes gerecht zu werden.
 
 
 ### § 2 Einstellungsbehörden, Ausbildungsstellen und Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000300000)
 
 (1) Einstellungsbehörden sind
 
@@ -132,6 +135,7 @@ Anwärterinnen und Anwärter
 
 
 ### § 3 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000400000)
 
 (1) Die Einstellungsbehörde gewährt Menschen mit Beeinträchtigungen,
 die die Umsetzung der nachzuweisenden Kenntnisse einschränken, im
@@ -152,6 +156,7 @@ die Studien- und Prüfungsleistungen dürfen nicht herabgesetzt werden.
 
 
 ### § 4 Bewertung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000500000)
 
 (1) Leistungen werden wie folgt bewertet:
 
@@ -248,9 +253,11 @@ gerundet, soweit nicht etwas Abweichendes geregelt ist.
 
 
 ## Abschnitt 2 - Einstellung in den Vorbereitungsdienst und Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000200000)
 
 
 ### § 5 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000600000)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -270,6 +277,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 ### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000700000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens, in dem
@@ -297,6 +305,7 @@ gelöscht.
 
 
 ### § 7 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000800000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Ausbildungsstelle eine Auswahlkommission ein. Teile des
@@ -332,6 +341,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ### § 8 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE000900000)
 
 Das Auswahlverfahren besteht aus
 
@@ -345,6 +355,7 @@ Das Auswahlverfahren besteht aus
 
 
 ### § 9 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001000000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden drei
 Leistungstests durchgeführt.
@@ -371,6 +382,7 @@ werden:
 
 
 ### § 10 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001100000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient auch der
 Feststellung der persönlichen Eignung der Bewerberin oder des
@@ -409,6 +421,7 @@ Diese Fragen werden bei der Bewertung nicht berücksichtigt.
 
 
 ### § 11 Gesamtergebnis des Auswahlverfahrens, Bestehen und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001200000)
 
 (1) Die Auswahlkommission stellt für jede Bewerberin und jeden
 Bewerber das Gesamtergebnis fest.
@@ -442,9 +455,11 @@ geeigneten Bewerberinnen und Bewerber fest.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000300000)
 
 
 ### § 12 Dauer und Gliederung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001300000)
 
 (1) Der Vorbereitungsdienst dauert drei Jahre. Er besteht aus
 folgenden Ausbildungsphasen:
@@ -535,6 +550,7 @@ Verwaltungsgrundstudium anbietet.
 
 
 ### § 13 Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001400000)
 
 (1) Ziel des Fachstudiums I ist es, den Anwärterinnen und Anwärtern
 insbesondere die erforderlichen Kenntnisse auf dem Gebiet des
@@ -558,6 +574,7 @@ S. 771).
 
 
 ### § 14 Prüfungsleistungen in den Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001500000)
 
 (1) In den Fachstudien sind Prüfungsleistungen zu erbringen.
 
@@ -575,6 +592,7 @@ Archivdienst im gehobenen allgemeinen Verwaltungsdienst in Hessen vom
 
 
 ### § 15 Ausbildungsleitung sowie Ausbilderinnen und Ausbilder in den Praktika
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001600000)
 
 (1) Die Ausbildungsstelle bestellt eine Angehörige oder einen
 Angehörigen des höheren Archivdienstes zur Ausbildungsleiterin oder
@@ -627,6 +645,7 @@ Ausbilderinnen und Ausbilder von anderen Dienstgeschäften entlastet.
 
 
 ### § 16 Praktika
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001700000)
 
 (1) In den Praktika werden anhand praktischer Fälle vermittelt:
 
@@ -685,6 +704,7 @@ Einrichtungen durchgeführt werden. Voraussetzung ist, dass
 
 
 ### § 17 Lehrveranstaltungen in den Praktika
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001800000)
 
 (1) In den Praktika werden Lehrveranstaltungen durchgeführt, die je
 nach Ausbildungsphase auf die Fachstudien vorbereiten oder der
@@ -696,6 +716,7 @@ praktischen Einsatz am Arbeitsplatz aufeinander ab.
 
 
 ### § 18 Bewertung der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE001900000)
 
 (1) Am Ende jedes Praktikums bewerten die Ausbilderinnen und Ausbilder
 die Leistungen und den Ausbildungsstand der Anwärterinnen und Anwärter
@@ -718,12 +739,15 @@ Zeugnisses.
 
 
 ## Abschnitt 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000400000)
 
 
 ### Unterabschnitt 1 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000500000)
 
 
 #### § 19 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002000000)
 
 (1) Die oder der Beauftragte der Bundesregierung für Kultur und Medien
 richtet ein Prüfungsamt ein.
@@ -733,6 +757,7 @@ der Laufbahnprüfung teilnehmen.
 
 
 #### § 20 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002100000)
 
 (1) Die oder der Beauftragte der Bundesregierung für Kultur und Medien
 richtet bei der Einstellungsbehörde eine Prüfungskommission ein. Die
@@ -770,6 +795,7 @@ nicht zulässig.
 
 
 #### § 21 Zweck und Bestandteile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002200000)
 
 (1) In der Laufbahnprüfung weisen die Anwärterinnen und Anwärter nach,
 dass sie
@@ -795,6 +821,7 @@ dass sie
 
 
 #### § 22 Prüfungsorte und Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002300000)
 
 (1) Die Laufbahnprüfung wird in der zweiten Hälfte des Praktikums IV
 absolviert.
@@ -810,9 +837,11 @@ und Anwärter.
 
 
 ### Unterabschnitt 2 - Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000600000)
 
 
 #### § 23 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002400000)
 
 (1) Die schriftliche Prüfung besteht aus
 
@@ -834,6 +863,7 @@ dem Prüfungsamt mit. Im Übrigen sind sie geheim zu halten.
 
 
 #### § 24 Archivarische Abschlussarbeit
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002500000)
 
 (1) Das Thema der archivarischen Abschlussarbeit soll im Zusammenhang
 mit den Archivbeständen der Ausbildungsstelle stehen. Mögliche
@@ -879,6 +909,7 @@ bewertet.
 
 
 #### § 25 Klausur
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002600000)
 
 (1) Die Prüfungsaufgaben für die Klausur können folgende Fachgebiete
 betreffen:
@@ -942,6 +973,7 @@ sie als mit null Rangpunkten bewertet.
 
 
 #### § 26 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002700000)
 
 (1) Die archivarische Abschlussarbeit und die Klausur werden jeweils
 von zwei Prüferinnen oder Prüfern bewertet.
@@ -959,9 +991,11 @@ Prüfungskommission.
 
 
 ### Unterabschnitt 3 - Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000700000)
 
 
 #### § 27 Aufgaben und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002800000)
 
 (1) Die Aufgaben für die mündliche Prüfung werden von der
 Prüfungskommission gestellt. Sie müssen vier der in § 25 Absatz 1
@@ -986,6 +1020,7 @@ unterschreiben.
 
 
 #### § 28 Bewertung und Rangpunktzahl für die mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE002900000)
 
 (1) Die Prüfungskommission bewertet die Leistungen gesondert für jedes
 der vier geprüften Fachgebiete.
@@ -998,9 +1033,11 @@ Mittel aus den Bewertungen für die vier Fachgebiete.
 
 
 ### Unterabschnitt 4 - Gemeinsame Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000800000)
 
 
 #### § 29 Verhinderung, Rücktritt und Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003000000)
 
 (1) Ist eine Anwärterin oder ein Anwärter durch eine Erkrankung oder
 durch sonstige nicht zu vertretende Umstände gehindert, die
@@ -1056,6 +1093,7 @@ Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 #### § 30 Täuschung und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003100000)
 
 (1) Eine Anwärterin oder ein Anwärter, die oder der bei der
 Laufbahnprüfung täuscht, eine Täuschung versucht, an einer Täuschung
@@ -1098,6 +1136,7 @@ Anwärterin  oder der Anwärter anzuhören.
 
 
 #### § 31 Abschließende Rangpunktzahl, Bestehen der Laufbahnprüfung und Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003200000)
 
 (1) Im Anschluss an die mündliche Prüfung wird die abschließende
 Rangpunktzahl berechnet.
@@ -1148,6 +1187,7 @@ Wunsch die Bewertung kurz mündlich.
 
 
 #### § 32 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003300000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein
 Abschlusszeugnis.
@@ -1169,6 +1209,7 @@ bestanden erklärt wird.
 
 
 #### § 33 Bescheid bei Nichtbestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003400000)
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen schriftlichen Bescheid. Dieser Bescheid ist mit
@@ -1195,6 +1236,7 @@ berichtigt.
 
 
 #### § 34 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003500000)
 
 (1) Die Einstellungsbehörde bestimmt im Benehmen mit der
 Ausbildungsleitung, innerhalb welcher Frist Anwärterinnen und
@@ -1207,6 +1249,7 @@ verlängert.
 
 
 #### § 35 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003600000)
 
 (1) Die Ausbildungsstelle führt zu jeder Anwärterin und jedem Anwärter
 eine Prüfungsakte.
@@ -1255,9 +1298,11 @@ Einsicht in ihre Prüfungsakte nehmen.
 
 
 ## Abschnitt 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNG000900000)
 
 
 ### § 36 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/garchdvdv_2019/BJNR051710019.html#BJNR051710019BJNE003700000)
 
 Für Anwärterinnen und Anwärter, die vor dem 1. Mai 2019 mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über den

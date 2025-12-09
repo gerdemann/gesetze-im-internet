@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000100000)
 
 Auf Grund
 
@@ -76,6 +77,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Aktueller Rentenwert und aktueller Rentenwert (Ost) in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2023 37,60 Euro.
 
@@ -84,17 +86,20 @@ Euro.
 
 
 ## § 2 Ausgleichsbedarf in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000300000)
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2023 1,0000.
 
 
 ## § 3 Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000400000)
 
 Das Sicherungsniveau vor Steuern beträgt für das Jahr 2023 48,15
 Prozent.
 
 
 ## § 4 Allgemeiner Rentenwert und allgemeiner Rentenwert (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000500000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt ab dem 1. Juli 2023 17,36 Euro.
@@ -104,6 +109,7 @@ Landwirte beträgt ab dem 1. Juli 2023 17,33 Euro.
 
 
 ## § 5 Anpassungsfaktor in der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000600000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2023 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -118,6 +124,7 @@ angepasst. Der Anpassungsfaktor beträgt 1,0586.
 
 
 ## § 6 Pflegegeld der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000700000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2023 an
@@ -136,11 +143,13 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000800000)
 
 Diese Verordnung tritt am 1. Juli 2023 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2023/BJNR0A40A0023.html#BJNR0A40A0023BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

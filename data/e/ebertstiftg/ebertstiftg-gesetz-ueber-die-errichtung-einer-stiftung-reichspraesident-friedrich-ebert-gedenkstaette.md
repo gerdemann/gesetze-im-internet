@@ -20,11 +20,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE001500326)
 
 Der Bundestag hat das folgende Gesetz beschlossen.
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000100326)
 
 Unter dem Namen "Stiftung Reichspräsident-Friedrich-Ebert-
 Gedenkstätte" wird mit Sitz in Heidelberg eine rechtsfähige Stiftung
@@ -33,6 +35,7 @@ Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000200326)
 
 (1) Zweck der Stiftung ist es, das Andenken an das Wirken des ersten
 deutschen Reichspräsidenten Friedrich Ebert zu wahren und einen
@@ -61,6 +64,7 @@ Maßnahmen:
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000300326)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -78,6 +82,7 @@ im Sinne des Stiftungszweckes zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000401320)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
@@ -87,6 +92,7 @@ Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000500326)
 
 Organe der Stiftung sind
 
@@ -100,6 +106,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000600326)
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
 Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Zwei
@@ -121,6 +128,7 @@ des Vorstandes. Das Nähere regelt die Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000701320)
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
 Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder
@@ -138,12 +146,14 @@ außergerichtlich.
 
 
 ## § 8 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000800326)
 
 Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE000901320)
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
 Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
@@ -158,6 +168,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 10 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE001000326)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 (Angestellte und Arbeiter) wahrgenommen.
@@ -171,6 +182,7 @@ haben, verliehen werden.
 
 
 ## § 11 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE001100326)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -178,17 +190,20 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 12 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE001200326)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 13 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE001300326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebertstiftg/BJNR025530986.html#BJNR025530986BJNE001400326)
 
 Dieses Gesetz tritt am 1. Januar 1987 in Kraft.
 

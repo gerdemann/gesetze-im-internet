@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bvwasozhzustano/BJNR512400962.html#BJNR512400962BJNE000100304)
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des
 Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S.
@@ -61,6 +62,7 @@ folgender Verwaltungsaufgaben des Bundes:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bvwasozhzustano/BJNR512400962.html#BJNR512400962BJNE000200304)
 
 Soweit sich diese Anordnung auf die Wahrnehmung der Befugnisse auf
 Grund des § 147 des Bundessozialhilfegesetzes bezieht (Abschnitt I Nr.
@@ -71,6 +73,7 @@ Februar 1960) außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bvwasozhzustano/BJNR512400962.html#BJNR512400962BJNE000300304)
 
 Der Bundesminister des Innern
 

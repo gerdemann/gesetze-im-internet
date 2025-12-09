@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgpnedv/BJNR123800012.html#BJNR123800012BJNE000100000)
 
 Auf Grund des § 83 Absatz 1 Satz 2 des Bundesdisziplinargesetzes vom
 9\. Juli 2001 (BGBl. I S. 1510) verordnet das Bundesministerium der
@@ -29,6 +30,7 @@ Finanzen im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Zuständigkeitsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bdgpnedv/BJNR123800012.html#BJNR123800012BJNE000201116)
 
 (1) Es werden übertragen die Befugnisse des Bundesministeriums der
 Finanzen als oberste Dienstbehörde
@@ -66,6 +68,7 @@ im Einzelfall selbst wahrzunehmen.
 
 
 ## § 2 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bdgpnedv/BJNR123800012.html#BJNR123800012BJNE000300000)
 
 Behördliche oder gerichtliche Disziplinarverfahren, die vor dem
 Inkrafttreten dieser Verordnung eingeleitet worden sind, werden nach
@@ -73,6 +76,7 @@ bisherigem Recht fortgeführt.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bdgpnedv/BJNR123800012.html#BJNR123800012BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung zur Durchführung des

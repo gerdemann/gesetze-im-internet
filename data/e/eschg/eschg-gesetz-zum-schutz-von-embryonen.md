@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Mißbräuchliche Anwendung von Fortpflanzungstechniken
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000100308)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -90,6 +91,7 @@ Versuch strafbar.
 
 
 ## § 2 Mißbräuchliche Verwendung menschlicher Embryonen
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000200308)
 
 (1) Wer einen extrakorporal erzeugten oder einer Frau vor Abschluß
 seiner Einnistung in der Gebärmutter entnommenen menschlichen Embryo
@@ -105,6 +107,7 @@ Embryo extrakorporal weiterentwickelt.
 
 
 ## § 3 Verbotene Geschlechtswahl
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000300308)
 
 Wer es unternimmt, eine menschliche Eizelle mit einer Samenzelle
 künstlich zu befruchten, die nach dem in ihr enthaltenen
@@ -119,6 +122,7 @@ anerkannt worden ist.
 
 
 ## § 3a Präimplantationsdiagnostik; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE001400360)
 
 (1) Wer Zellen eines Embryos in vitro vor seinem intrauterinen
 Transfer genetisch untersucht (Präimplantationsdiagnostik), wird mit
@@ -204,6 +208,7 @@ sowie eine wissenschaftliche Auswertung.
 
 
 ## § 4 Eigenmächtige Befruchtung, eigenmächtige Embryoübertragung und künstliche Befruchtung nach dem Tode
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000400308)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -228,6 +233,7 @@ die künstliche Befruchtung vorgenommen wird.
 
 
 ## § 5 Künstliche Veränderung menschlicher Keimbahnzellen
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000500308)
 
 (1) Wer die Erbinformation einer menschlichen Keimbahnzelle künstlich
 verändert, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
@@ -270,6 +276,7 @@ veränderter Erbinformation zur Befruchtung verwendet.
 
 
 ## § 6 Klonen
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000600308)
 
 (1) Wer künstlich bewirkt, daß ein menschlicher Embryo mit der
 gleichen Erbinformation wie ein anderer Embryo, ein Foetus, ein Mensch
@@ -283,6 +290,7 @@ auf eine Frau überträgt.
 
 
 ## § 7 Chimären- und Hybridbildung
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000700308)
 
 (1) Wer es unternimmt,
 
@@ -327,6 +335,7 @@ bestraft.
 
 
 ## § 8 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000800308)
 
 (1) Als Embryo im Sinne dieses Gesetzes gilt bereits die befruchtete,
 entwicklungsfähige menschliche Eizelle vom Zeitpunkt der
@@ -348,6 +357,7 @@ mit der Kernverschmelzung abgeschlossenen Befruchtung.
 
 
 ## § 9 Arztvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE000901360)
 
 Nur ein Arzt darf vornehmen:
 
@@ -369,12 +379,14 @@ Nur ein Arzt darf vornehmen:
 
 
 ## § 10 Freiwillige Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE001000308)
 
 Niemand ist verpflichtet, Maßnahmen der in § 9 bezeichneten Art
 vorzunehmen oder an ihnen mitzuwirken.
 
 
 ## § 11 Verstoß gegen den Arztvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE001101360)
 
 (1) Wer, ohne Arzt zu sein,
 
@@ -398,6 +410,7 @@ zu einer künstlichen Insemination verwendet wird.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE001202360)
 
 (1) Ordnungswidrig handelt, wer, ohne Arzt zu sein, entgegen § 9
 Nummer 4 einen menschlichen Embryo oder eine dort bezeichnete
@@ -408,6 +421,7 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eschg/BJNR027460990.html#BJNR027460990BJNE001300308)
 
 Dieses Gesetz tritt am 1. Januar 1991 in Kraft.
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Genehmigungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNG000101305)
 
 
 
 ### § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE000604160)
 
 (1) Zur Kriegsführung bestimmte Waffen im Sinne dieses Gesetzes
 (Kriegswaffen) sind die in der Anlage zu diesem Gesetz
@@ -50,6 +52,7 @@ die Strafvorschriften der §§ 19 bis 21.
 
 
 ### § 2 Herstellung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE000701305)
 
 (1) Wer Kriegswaffen herstellen will, bedarf der Genehmigung.
 
@@ -58,6 +61,7 @@ erwerben oder einem anderen überlassen will, bedarf der Genehmigung.
 
 
 ### § 3 Beförderung innerhalb des Bundesgebietes
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE000803377)
 
 (1) Wer Kriegswaffen im Bundesgebiet außerhalb eines abgeschlossenen
 Geländes befördern lassen will, bedarf der Genehmigung.
@@ -115,6 +119,7 @@ erteilt werden
 
 
 ### § 4 Beförderung außerhalb des Bundesgebietes
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE000901305)
 
 (1) Wer Kriegswaffen, die außerhalb des Bundesgebietes ein- und
 ausgeladen und durch das Bundesgebiet nicht durchgeführt werden, mit
@@ -128,6 +133,7 @@ erteilt werden.
 
 
 ### § 4a Auslandsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001002377)
 
 (1) Wer einen Vertrag über den Erwerb oder das Überlassen von
 Kriegswaffen, die sich außerhalb des Bundesgebietes befinden,
@@ -149,6 +155,7 @@ erteilt werden.
 
 
 ### § 5 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001103377)
 
 (1) Einer Genehmigung nach den §§ 2 bis 4a bedarf nicht, wer unter der
 Aufsicht oder als Beschäftigter eines anderen tätig wird. In diesen
@@ -187,6 +194,7 @@ tatsächliche Gewalt über Kriegswaffen
 
 
 ### § 6 Versagung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001201305)
 
 (1) Auf die Erteilung einer Genehmigung besteht kein Anspruch.
 
@@ -250,6 +258,7 @@ unberührt.
 
 
 ### § 7 Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001301305)
 
 (1) Die Genehmigung kann jederzeit widerrufen werden.
 
@@ -269,6 +278,7 @@ entsprechend.
 
 
 ### § 8 Erteilung und Widerruf der Allgemeinen Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001402377)
 
 (1) Die Allgemeine Genehmigung im Sinne des § 3 Absatz 4, des § 4
 Absatz 2 und des § 4a Absatz 4 wird durch Rechtsverordnung erteilt.
@@ -300,6 +310,7 @@ Bundesrates.
 
 
 ### § 9 Entschädigung im Falle des Widerrufs
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001501305)
 
 (1) Wird eine Genehmigung nach den §§ 2, 3 Abs. 1 oder 2, § 4 Abs. 1
 oder § 4a ganz oder teilweise widerrufen, so ist ihr Inhaber vom Bund
@@ -329,6 +340,7 @@ Genehmigung gegeben haben, insbesondere wenn
 
 
 ### § 10 Inhalt und Form der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001601305)
 
 (1) Die Genehmigung kann inhaltlich beschränkt, befristet und mit
 Auflagen verbunden werden.
@@ -345,6 +357,7 @@ Menge erteilt werden.
 
 
 ### § 11 Genehmigungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001707311)
 
 (1) Für die Erteilung und den Widerruf einer Genehmigung ist die
 Bundesregierung zuständig.
@@ -390,6 +403,7 @@ Zuverlässigkeit gemäß § 6 Abs. 3 Nr. 3 herangezogen werden.
 
 
 ### § 11a Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004600377)
 
 (1) Die Genehmigungsbehörden dürfen die Informationen, einschließlich
 personenbezogener Daten, die ihnen bei der Erfüllung ihrer Aufgaben
@@ -423,10 +437,12 @@ Außenwirtschaftsgesetzes erlassenen Rechtsverordnung erforderlich ist.
 
 
 ## Zweiter Abschnitt - Überwachungs- und Ausnahmevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNG000201305)
 
 
 
 ### § 12 Pflichten im Verkehr mit Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001804307)
 
 (1) Wer eine nach diesem Gesetz genehmigungsbedürftige Handlung
 vornimmt, hat die erforderlichen Maßnahmen zu treffen,
@@ -517,6 +533,7 @@ Zustimmung des Bundesrates
 
 
 ### § 12a Besondere Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004201311)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, mit
 Zustimmung des Bundesrates, anzuordnen, daß dem Bundesamt für
@@ -543,6 +560,7 @@ notwendig ist, um den in Absatz 1 angegebenen Zweck zu erreichen.
 
 
 ### § 13 Sicherstellung und Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE001901305)
 
 (1) Die Überwachungsbehörden und die für die Aufrechterhaltung der
 öffentlichen Sicherheit zuständigen Behörden oder Dienststellen können
@@ -580,6 +598,7 @@ wäre, sie zu versagen.
 
 
 ### § 13a Umgang mit unbrauchbar gemachten Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004504377)
 
 Der Umgang mit unbrauchbar gemachten Kriegswaffen kann durch
 Rechtsverordnung des Bundesministeriums für Wirtschaft und Energie,
@@ -596,6 +615,7 @@ nachzuweisen ist.
 
 
 ### § 14 Überwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002009377)
 
 (1) Für die Überwachung der nach diesem Gesetz genehmigungsbedürftigen
 Handlungen und der Einhaltung der in § 12 genannten Pflichten ist
@@ -666,6 +686,7 @@ das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu
 
 
 ### § 15 Bundeswehr und andere Organe
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002103377)
 
 (1) Die §§ 2 bis 4a und 12 gelten nicht für die Bundeswehr, die
 Polizeien des Bundes und die Zollverwaltung.
@@ -694,10 +715,12 @@ amtlichen Tätigkeit.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für Atomwaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNG000302305)
 
 
 
 ### § 16 Nukleare Aufgaben im Nordatlantischen Bündnis
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003701305)
 
 Die Vorschriften dieses Abschnitts und die Strafvorschriften der §§ 19
 bis 21 gelten, um Vorbereitung und Durchführung der nuklearen
@@ -709,6 +732,7 @@ hergestellt werden.
 
 
 ### § 17 Verbot von Atomwaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002302305)
 
 (1) Unbeschadet des § 16 ist es verboten,
 
@@ -747,10 +771,12 @@ III des revidierten Brüsseler Vertrages vom 23. Oktober 1954.
 
 
 ## Vierter Abschnitt - Besondere Vorschriften für biologische und chemische Waffen sowie für Antipersonenminen und Streumunition
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNG000404160)
 
 
 
 ### § 18 Verbot von biologischen und chemischen Waffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003801305)
 
 Es ist verboten,
 
@@ -773,6 +799,7 @@ Es ist verboten,
 
 
 ### § 18a Verbot von Antipersonenminen und Streumunition
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004301160)
 
 (1) Es ist verboten,
 
@@ -806,10 +833,12 @@ in Absatz 2 genannten Übereinkommen zulässig sind.
 
 
 ## Fünfter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNG000501305)
 
 
 
 ### § 19 Strafvorschriften gegen Atomwaffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002502305)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren wird
 bestraft, wer
@@ -900,6 +929,7 @@ geeignet und bestimmt ist.
 
 
 ### § 20 Strafvorschriften gegen biologische und chemische Waffen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003901305)
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
 
@@ -941,6 +971,7 @@ geeignet und bestimmt ist.
 
 
 ### § 20a Strafvorschriften gegen Antipersonenminen und Streumunition
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004401160)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren wird
 bestraft, wer
@@ -984,6 +1015,7 @@ die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ### § 21 Taten außerhalb des Geltungsbereichs dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004002307)
 
 § 19 Abs. 2 Nr. 2, Abs. 3 Nr. 2, Abs. 5 und 6, § 20 sowie § 20a gelten
 unabhängig vom Recht des Tatorts auch für Taten, die außerhalb des
@@ -992,6 +1024,7 @@ Deutscher ist.
 
 
 ### § 22 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE004101305)
 
 Die §§ 18, 20 und 21 gelten nicht für eine auf chemische Waffen
 bezogene dienstliche Handlung
@@ -1010,6 +1043,7 @@ bezogene dienstliche Handlung
 
 
 ### § 22a Sonstige Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002205377)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren wird
 bestraft, wer
@@ -1089,6 +1123,7 @@ freiwilliges und ernsthaftes Bemühen, die Kriegswaffen abzuliefern.
 
 
 ### § 22b Verletzung von Ordnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002407377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1143,6 +1178,7 @@ einer Geldbuße geahndet werden.
 
 
 ### § 23 Verwaltungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002605377)
 
 Das Bundesministerium für Wirtschaft und Energie, das
 Bundesministerium für Verkehr und digitale Infrastruktur und das
@@ -1153,6 +1189,7 @@ Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten. §
 
 
 ### § 24 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002704377)
 
 (1) Kriegswaffen, auf die sich eine Straftat nach §§ 19, 20, 21 oder
 22a bezieht, können zugunsten des Bundes eingezogen werden; § 74a des
@@ -1168,15 +1205,18 @@ Strafgesetzbuches trifft den Bund.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002801305)
 
 (weggefallen)
 
 
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNG000601305)
 
 
 
 ### § 26 Vor Inkrafttreten des Gesetzes erteilte Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE002901305)
 
 Genehmigungen, die im vorläufigen Genehmigungsverfahren auf Grund des
 Artikels 26 Abs. 2 des Grundgesetzes erteilt worden sind, gelten als
@@ -1184,6 +1224,7 @@ nach diesem Gesetz erteilt.
 
 
 ### § 26a Anzeige der Ausübung der tatsächlichen Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003003311)
 
 Wer am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet die tatsächliche Gewalt über
@@ -1198,6 +1239,7 @@ nicht angemeldete Kriegswaffen nicht mehr ausgeübt werden.
 
 
 ### § 26b Übergangsregelungen für das in Artikel 3 des Einigungsvertrages genannte Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003605377)
 
 (1) Eine vor dem Tage des Wirksamwerdens des Beitritts in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet begonnene oder in
@@ -1238,6 +1280,7 @@ Rechtslage erreicht werden.
 
 
 ### § 27 Zwischenstaatliche Verträge
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003101305)
 
 Verpflichtungen der Bundesrepublik auf Grund zwischenstaatlicher
 Verträge bleiben unberührt. Insoweit gelten die nach Artikel 26 Abs. 2
@@ -1246,6 +1289,7 @@ Genehmigungen als erteilt.
 
 
 ### § 28 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003203377)
 
 In einer Besonderen Gebührenverordnung des Bundesministeriums für
 Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes
@@ -1257,12 +1301,14 @@ Januar 2023 zu regeln.
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003301305)
 
 (Inkrafttreten)
 
 (zu § 1 Abs. 1)
 
 ### Anlage Kriegswaffenliste
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrg/BJNR004440961.html#BJNR004440961BJNE003511377)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 2515 - 2519;
 bzgl. der einzelnen Änderungen vgl. Fußnote

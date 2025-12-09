@@ -25,6 +25,7 @@ insbesondere der EWGV 2823/87 und EWGV 2454/93.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000100328)
 
 Auf Grund des § 21 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen
 Marktorganisationen in der Fassung der Bekanntmachung vom 27. August
@@ -33,6 +34,7 @@ Finanzen und dem Bundesminister für Wirtschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000202119)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft und der Europäischen Union,
@@ -42,16 +44,19 @@ Marktorganisationsgesetzes erlassen worden sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000302377)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000402308)
 
 (weggefallen)
 
 
 ## § 4 Abschreibungen auf der Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000502119)
 
 (1) Die Abschreibung und die Bestätigung auf der Lizenz nimmt die
 Bundesfinanzverwaltung vor. Die für die Abschreibung erforderlichen
@@ -79,6 +84,7 @@ dazu gegenseitig auf elektronischem Weg, soweit erforderlich,
 
 
 ## § 5 Nachweise für den Handel mit Drittländern oder für die Referenzmenge
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000603119)
 
 (1) Soweit Rechtsakte der Europäischen Union für die Erteilung einer
 Lizenz für ein Zollkontingent einen Nachweis über den Handel mit
@@ -101,11 +107,13 @@ die vorgelegte Rechnung nicht in deutscher Sprache abgefasst ist.
 
 
 ## § 6 Inkrafttreten, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000802308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ewglizv/BJNR023340987.html#BJNR023340987BJNE000900328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

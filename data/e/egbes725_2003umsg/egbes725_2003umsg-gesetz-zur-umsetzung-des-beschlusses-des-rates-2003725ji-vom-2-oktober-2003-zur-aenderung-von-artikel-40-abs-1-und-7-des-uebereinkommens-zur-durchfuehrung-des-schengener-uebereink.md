@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## § 1 Anwendbarkeit des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/egbes725_2003umsg/BJNR142600004.html#BJNR142600004BJNE000100000)
 
 Der Beschluss des Rates (2003/725/JI) vom 2. Oktober 2003 zur Änderung
 von Artikel 40 Abs. 1 und 7 des Übereinkommens zur Durchführung des
@@ -34,6 +35,7 @@ Strafprozessordnung für eine Observation vorliegen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egbes725_2003umsg/BJNR142600004.html#BJNR142600004BJNE000200000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

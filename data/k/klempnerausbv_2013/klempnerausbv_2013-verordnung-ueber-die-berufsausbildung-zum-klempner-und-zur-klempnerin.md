@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -32,6 +33,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000200000)
 
 Der Ausbildungsberuf des Klempners und der Klempnerin wird nach § 25
 der Handwerksordnung zur Ausbildung für das Gewerbe 23 „Klempner“ der
@@ -39,11 +41,13 @@ Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -147,6 +151,7 @@ in
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -168,6 +173,7 @@ durchzusehen.
 
 
 ## § 5 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000600000)
 
 Die Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Dabei sollen Qualifikationen, die
@@ -177,6 +183,7 @@ Feststellung der Berufsbefähigung erforderlich ist.
 
 
 ## § 6 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000700000)
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -239,6 +246,7 @@ Arbeitsauftrag. Für ihn bestehen folgende Vorgaben:
 
 
 ## § 7 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000800000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -370,6 +378,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE000900000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -446,6 +455,7 @@ der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE001000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -454,6 +464,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Klempner-Ausbildungsverordnung vom 10. März 1989 (BGBl. I S. 420)
@@ -462,6 +473,7 @@ außer Kraft.
 (zu § 3 Absatz 3 und 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Klempner und zur Klempnerin
+[Direktlink](https://www.gesetze-im-internet.de/klempnerausbv_2013/BJNR161400013.html#BJNR161400013BJNE001200001)
 
 (Fundstelle: BGBl. I 2013, 1617 - 1622)
 

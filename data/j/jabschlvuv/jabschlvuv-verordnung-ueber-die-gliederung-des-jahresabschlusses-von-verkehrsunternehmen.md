@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000100304)
 
 Auf Grund der §§ 161, 278 Abs. 3 des Aktiengesetzes wird im
 Einvernehmen mit den Bundesministern für Wirtschaft und für Verkehr
@@ -27,6 +28,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000201309)
 
 Für Aktiengesellschaften, Kommanditgesellschaften auf Aktien und
 Gesellschaften mit beschränkter Haftung, die
@@ -52,6 +54,7 @@ anderes bestimmt ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000302360)
 
 (1) Gesellschaften nach § 1 Nr. 1 und 2 haben in der Bilanz
 
@@ -99,6 +102,7 @@ Nr. 2 genannten Posten Aktivseite A. II. Nr. 2 bis 4 treten und die
 
 
 ## § 2a
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000801360)
 
 Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer als Mitglied des
@@ -116,6 +120,7 @@ Gesellschaft nach § 1 Nr. 1 oder 2
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000402360)
 
 Das Wahlrecht, auf den Bilanzausweis nach § 2 Absatz 1 Satz 1 gemäß §
 2 Absatz 1 Satz 3 in der bis zum 22. Juli 2015 geltenden Fassung zu
@@ -127,6 +132,7 @@ dem 1. Januar 2016 beginnende Geschäftsjahre bleibt § 2 Absatz 1 Satz
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000501309)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 12 des Bilanzrichtlinien-Gesetzes auch im Land
@@ -134,11 +140,13 @@ Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000600304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jabschlvuv/BJNR001930968.html#BJNR001930968BJNE000700304)
 
 Der Bundesminister der Justiz
 

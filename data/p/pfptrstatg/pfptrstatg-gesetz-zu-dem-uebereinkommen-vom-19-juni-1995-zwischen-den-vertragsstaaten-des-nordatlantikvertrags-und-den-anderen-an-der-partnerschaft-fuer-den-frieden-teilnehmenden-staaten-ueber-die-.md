@@ -22,12 +22,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pfptrstatg/BJNR133820998.html#BJNR133820998BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pfptrstatg/BJNR133820998.html#BJNR133820998BJNE000200305)
 
 Folgenden in Brüssel am 20. Juli 1995 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkünften wird zugestimmt:
@@ -49,6 +51,7 @@ amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2 Abwicklung von Schäden
+[Direktlink](https://www.gesetze-im-internet.de/pfptrstatg/BJNR133820998.html#BJNR133820998BJNE000301320)
 
 (1) Für die Abgeltung von Schäden finden die Artikel 6, 8 bis 14 und
 25 des Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen
@@ -63,6 +66,7 @@ mit § 16 Abs. 5 des Streitkräfteaufenthaltsgesetzes vom 20. Juli 1995
 
 
 ## Art 3 Ermächtigung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pfptrstatg/BJNR133820998.html#BJNR133820998BJNE000400305)
 
 (1) Die Bundesregierung Deutschland wird ermächtigt, Vereinbarungen
 mit Vertragsparteien des Übereinkommens über
@@ -94,6 +98,7 @@ Gegenstand und Zweck erforderlich.
 
 
 ## Art 4 Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pfptrstatg/BJNR133820998.html#BJNR133820998BJNE000500305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

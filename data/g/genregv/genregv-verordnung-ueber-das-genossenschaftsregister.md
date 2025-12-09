@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNG000401301)
 
 
 
 ### § 1 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE000404310)
 
 Zuständigkeit und Verfahren bei der Führung des
 Genossenschaftsregisters bestimmen sich, soweit nicht durch
@@ -36,11 +38,13 @@ geltenden Vorschriften.
 
 
 ### § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE000502301)
 
 -
 
 
 ### § 3 Benachrichtigung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE000605160)
 
 (1) Jede Eintragung oder Ablehnung einer Eintragung in das
 Genossenschaftsregister ist dem Vorstand, bei einer Europäischen
@@ -51,6 +55,7 @@ Direktoren, oder den Liquidatoren bekannt zu geben.
 
 
 ### § 4 Bekanntmachung der Registereintragungen
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE000704125)
 
 Die Eintragung ist unverzüglich zum Abruf über das nach § 156 des
 Genossenschaftsgesetzes in Verbindung mit § 9 Absatz 1 des
@@ -59,11 +64,13 @@ Kommunikationssystem bereitzustellen.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE000803310)
 
 -
 
 
 ### § 6 Form der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE000906160)
 
 (1) Die Vorschrift, dass Anmeldungen zum Genossenschaftsregister in
 öffentlich beglaubigter Form einzureichen sind (§ 157 des Gesetzes),
@@ -116,6 +123,7 @@ Ausführungsgesetzes entsprechend anzuwenden.
 
 
 ### § 7 Sonstige Anzeigen und Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001005310)
 
 (1) Für die sonstigen Anzeigen und Erklärungen, die zum
 Genossenschaftsregister zu bewirken sind, bedarf es, soweit nichts
@@ -137,6 +145,7 @@ des Handelsgesetzbuchs zu bewirken.
 
 
 ### § 8 Form der einzureichenden Abschrift einer Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001104310)
 
 In den Fällen, in welchen die Abschrift einer Urkunde zum
 Genossenschaftsregister einzureichen ist, genügt, sofern nicht ein
@@ -145,34 +154,41 @@ Abs. 2 Nr. 2, § 16 Abs. 5 Satz 1, § 28 Satz 2, § 84 Abs. 1 Satz 2).
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001202301)
 
 -
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001301301)
 
 -
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001401301)
 
 -
 
 
 ## Abschnitt 2 - Eintragungen in das Genossenschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNG000501301)
 
 
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001505310)
 
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001702301)
 
 -
 
 
 ### § 15 Eintragung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001805125)
 
 (1) Vor der Eintragung der Satzung (§§ 10 bis 12 des Gesetzes) hat das
 Gericht zu prüfen, ob die Satzung den Vorschriften des Gesetzes
@@ -238,6 +254,7 @@ sind die Absätze 1 bis 5 nicht anzuwenden.
 
 
 ### § 16 Eintragung von Satzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE001905160)
 
 (1) Beschlüsse der Generalversammlung, die eine Änderung der in § 15
 Abs. 3 und 4 bezeichneten Bestimmungen der Satzung oder die
@@ -260,11 +277,13 @@ Bestimmungen der Satzung treten die Satzungsbestimmungen nach Artikel
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002001301)
 
 -
 
 
 ### § 18 Vorstandsmitglieder, Prokuristen
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002104310)
 
 (1) Die Bestellung von Vorstandsmitgliedern und ihrer Stellvertreter,
 bei einer Europäischen Genossenschaft von Mitgliedern des
@@ -285,11 +304,13 @@ Vornamen, Geburtsdatum und Wohnort einzutragen.
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002201301)
 
 -
 
 
 ### § 20 Eintragung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002305310)
 
 (1) Die Eintragung der Auflösung einer Genossenschaft oder einer
 Europäischen Genossenschaft in das Register der Hauptniederlassung
@@ -341,6 +362,7 @@ Eintragung der Ernennung und der Abberufung von Amts wegen (Gesetz §
 
 
 ### § 21 Anmeldepflicht bei Beendigung der Liquidation und Eintragungen bei Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002404125)
 
 (1) Sobald mit der vollständigen Verteilung des
 Genossenschaftsvermögens die Liquidation beendigt ist, haben die
@@ -373,16 +395,19 @@ Insolvenzgerichts sind einzutragen (§ 102 des Gesetzes)
 
 
 ### § 21a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002502301)
 
 -
 
 
 ### § 21b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002601301)
 
 -
 
 
 ### § 22 Eintragung der Nichtigkeit der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002704160)
 
 (1) Soll eine Genossenschaft oder eine Europäische Genossenschaft von
 Amts wegen als nichtig gelöscht werden, so ist in der Verfügung,
@@ -405,6 +430,7 @@ Abs. 1 entsprechende Anwendung.
 
 
 ### § 23 Eintragung der Nichtigkeit von Beschlüssen der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002803160)
 
 Soll ein eingetragener Beschluss der Generalversammlung von Amts wegen
 als nichtig gelöscht werden (§ 398 des Gesetzes über das Verfahren in
@@ -416,6 +442,7 @@ ist (Gesetz § 51 Abs. 5).
 
 
 ### § 24 Berichtigung von Schreibfehlern
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE002903310)
 
 Schreibfehler und ähnliche offenbare Unrichtigkeiten, die in einer
 Eintragung vorkommen, sind von dem Gerichte zu berichtigen, ohne dass
@@ -425,6 +452,7 @@ einer neuen Eintragung oder auf andere eindeutige Weise.
 
 
 ### § 25 Gestaltung des Genossenschaftsregisters
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE004403310)
 
 Der Inhalt des Genossenschaftsregisters muss auf dem Bildschirm und in
 Ausdrucken entsprechend dem beigegebenen Muster (Anlage 1) sichtbar
@@ -435,6 +463,7 @@ Muster in Anlage 2 sichtbar gemacht werden.
 
 
 ### § 26 Inhalt der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE004506125)
 
 In das Genossenschaftsregister werden Angaben entsprechend den
 folgenden Nummern 1 bis 8 eingetragen.
@@ -550,12 +579,14 @@ folgenden Nummern 1 bis 8 eingetragen.
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE004603310)
 
 -
 
 (zu § 25)
 
 ### Anlage 1 Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE004703160)
 
 (Fundstelle: BGBl. I 2006, 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -716,6 +747,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 25)
 
 ### Anlage 2 Inhalt des Genossenschaftsregisters als fortlaufender Text
+[Direktlink](https://www.gesetze-im-internet.de/genregv/BJNR001500889.html#BJNR001500889BJNE004803160)
 
 (Fundstelle: BGBl. I 2006, 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

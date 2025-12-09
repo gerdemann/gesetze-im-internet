@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,6 +31,7 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000200310)
 
 Der Ausbildungsberuf Fachangestellter für
 Bäderbetriebe/Fachangestellte für Bäderbetriebe wird staatlich
@@ -37,11 +39,13 @@ anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000300310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000400310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -96,6 +100,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000500310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -114,12 +119,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000600310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000700310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -128,6 +135,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000800310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -192,6 +200,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE000900310)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -356,6 +365,7 @@ bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE001000310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -364,12 +374,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE001100310)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Bäderbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/b_derfangausbv/BJNR074000997.html#BJNR074000997BJNE001200310)
 
 (Fundstelle: BGBl. I 1997, 743 - 746)
 

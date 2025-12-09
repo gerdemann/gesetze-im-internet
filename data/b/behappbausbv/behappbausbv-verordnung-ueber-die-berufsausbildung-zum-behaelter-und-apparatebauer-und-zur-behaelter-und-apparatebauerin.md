@@ -27,6 +27,7 @@ Stand: Ersetzt V 7110-6-43 v. 21.3.1989 I 520 (KupfSchmAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -37,9 +38,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000300000)
 
 Der Ausbildungsberuf des Behälter- und Apparatebauers und der
 Behälter- und Apparatebauerin wird nach § 25 der Handwerksordnung zur
@@ -49,11 +52,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -71,6 +76,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -135,6 +141,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -142,9 +149,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNG000200000)
 
 
 ### § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkte
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000800000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -156,6 +165,7 @@ durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE000900000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -172,6 +182,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich Rohrleitungsbau
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001000000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich
 Rohrleitungsbau statt.
@@ -221,6 +232,7 @@ schriftliche Bearbeitung der Aufgaben 60 Minuten.
 
 
 ### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001100000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -242,6 +254,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001200000)
 
 Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen
 statt:
@@ -262,6 +275,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich Behälterbau
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001300000)
 
 (1) Im Prüfungsbereich Behälterbau soll der Prüfling nachweisen, dass
 er in der Lage ist,
@@ -298,6 +312,7 @@ das auftragsbezogene Fachgespräch höchstens 15 Minuten.
 
 
 ### § 12 Prüfungsbereich Anlagentechnik
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001400000)
 
 (1) Im Prüfungsbereich Anlagentechnik soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -344,6 +359,7 @@ legen:
 
 
 ### § 13 Prüfungsbereich Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001500000)
 
 (1) Im Prüfungsbereich Instandhaltung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -373,6 +389,7 @@ dass er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -386,6 +403,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -478,9 +496,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNG000300000)
 
 
 ### § 16 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001800000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -490,6 +510,7 @@ Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
 die Behälter- und Apparatebauer-Ausbildungsverordnung vom 21. März
@@ -499,6 +520,7 @@ die Behälter- und Apparatebauer-Ausbildungsverordnung vom 21. März
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Behälter- und Apparatebauer und zur Behälter- und Apparatebauerin
+[Direktlink](https://www.gesetze-im-internet.de/behappbausbv/BJNR007300018.html#BJNR007300018BJNE002000000)
 
 (Fundstelle: BGBl. I 2018, 77 - 83)
 

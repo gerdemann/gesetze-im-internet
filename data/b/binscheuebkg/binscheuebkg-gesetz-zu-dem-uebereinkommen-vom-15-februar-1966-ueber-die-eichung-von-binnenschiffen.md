@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binsche_bkg/BJNR214170973.html#BJNR214170973BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/binsche_bkg/BJNR214170973.html#BJNR214170973BJNE000200314)
 
 (1) Dem in Genf am 14. November 1966 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen vom 15. Februar 1966 über
@@ -38,6 +40,7 @@ Verbindung mit anderen Wasserstraßen haben.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/binsche_bkg/BJNR214170973.html#BJNR214170973BJNE000303377)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Änderungen der Anlage des Übereinkommens nach dessen
@@ -59,6 +62,7 @@ Bundeswasserstraßen sind, durch Rechtsverordnung zu bestimmen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/binsche_bkg/BJNR214170973.html#BJNR214170973BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -68,6 +72,7 @@ S. 1).
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/binsche_bkg/BJNR214170973.html#BJNR214170973BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

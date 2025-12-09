@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE000100301)
 
 Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung
 der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), zuletzt
@@ -67,11 +68,13 @@ werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE000400301)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1 (Bundesbesoldungsordnung C - Grundgehaltssätze zum 1. Juli 2003, 1. April 2004 bzw. 1. August 2004)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE000200301)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1844 - 1846)
 
@@ -1103,6 +1106,7 @@ Der Bundesminister des Innern
 
 
 ## Anlage 2 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. Januar 2003)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE000300301)
 
 (Fundstelle: BGBl. I 2003, 1847 - 1855)
 
@@ -3433,6 +3437,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 ## Anlage 3 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. April 2003 bzw. 1. Juli 2003)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE000700301)
 
 (Fundstelle: BGBl. I 2003, 1856 - 1864)
 
@@ -5858,6 +5863,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 ## Anlage 4 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. Januar 2004)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE001100301)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1865 - 1873)
 
@@ -8289,6 +8295,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 ## Anlage 5 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. April 2004)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE001500301)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1874 - 1882)
 
@@ -10671,6 +10678,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 ## Anlage 6 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. August 2004)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek/BJNR184300003.html#BJNR184300003BJNE001900301)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1883 - 1891)
 

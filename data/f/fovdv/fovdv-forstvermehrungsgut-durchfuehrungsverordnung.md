@@ -21,6 +21,7 @@ Vermehrungsgut (ABl. EG 2000 Nr. L 11 S. 17, 2001 Nr. L 121 S. 48).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE001100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet
@@ -39,6 +40,7 @@ Landwirtschaft verordnet
 
 
 ## § 1 Stammzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000100000)
 
 Die Stammzertifikate für Vermehrungsgut von
 
@@ -59,6 +61,7 @@ müssen den aus den Anlagen 1 bis 4 ersichtlichen Mustern entsprechen.
 
 
 ## § 2 Kennzeichnung von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000200000)
 
 Die Kennzeichnung der Partien bei allen Stufen der Erzeugung nach § 9
 Abs. 1 des Forstvermehrungsgutgesetzes muss folgende Angaben umfassen:
@@ -117,6 +120,7 @@ Abs. 1 des Forstvermehrungsgutgesetzes muss folgende Angaben umfassen:
 
 
 ## § 3 Mischung von forstlichem Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000300000)
 
 (1) Partien von Saatgut einer einzigen Zulassungseinheit aus
 unterschiedlichen Reifejahren dürfen nach vorheriger Anzeige bei der
@@ -140,6 +144,7 @@ dass sie in sich homogen ist.
 
 
 ## § 4 Lieferpapiere
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000400000)
 
 (1) Der Lieferschein muss folgende Angaben enthalten:
 
@@ -224,6 +229,7 @@ für die Kategorie "Geprüft" blau sein.
 
 
 ## § 5 Anforderungen an die Saatgutprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000500000)
 
 Die Saatgutprüfung nach § 14 Abs. 2 des Forstvermehrungsgutgesetzes
 darf nur von Stellen durchgeführt werden, die bei der Bundesanstalt
@@ -236,6 +242,7 @@ und dürfen am Ergebnis der Prüfung kein persönliches Interesse haben.
 
 
 ## § 6 Bücher und Belege
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000600000)
 
 (1) Die von den Forstsamen- oder Forstpflanzenbetrieben nach § 17 Abs.
 2 des Forstvermehrungsgutgesetzes zu führenden Bücher sind so zu
@@ -264,6 +271,7 @@ Anfertigung von Ablichtungen oder Ausdrucken zu überlassen.
 
 
 ## § 7 Lieferung in andere Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000700000)
 
 Der Forstsamen- oder Forstpflanzenbetrieb hat den Versand von
 forstlichem Vermehrungsgut in einen anderen Mitgliedstaat der
@@ -276,6 +284,7 @@ unmittelbar die zuständige Stelle des beteiligten Mitgliedstaates.
 
 
 ## § 8 Einfuhr von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000800000)
 
 (1) Forstliches Vermehrungsgut darf nach § 15 Abs. 1 Nr. 1 des
 Forstvermehrungsgutgesetzes nur eingeführt werden, wenn der Einführer
@@ -347,6 +356,7 @@ Pflanzenschutzgesetzes.
 
 
 ## § 9 Abkürzungen
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE000900000)
 
 Im Falle der Verwendung von Abkürzungen für die Angaben nach § 2 sowie
 für die Angaben in den Lieferpapieren nach § 4 und den Büchern und
@@ -354,17 +364,20 @@ Belegen nach § 6 sind nur die Abkürzungen nach Anlage 5 zulässig.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE001000000)
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE012000000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Nr. 1)
 
 ## Anlage 1 Stammzertifikat für Vermehrungsgut von Saatgutquellen und Erntebeständen
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE013000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4714
 
@@ -374,6 +387,7 @@ Vermehrungsgut von Saatgutquellen und Erntebeständen)
 (zu § 1 Nr. 2)
 
 ## Anlage 2 Stammzertifikat für Mischungen
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE014000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4715 u. 4716
 
@@ -383,6 +397,7 @@ Mischungen)
 (zu § 1 Nr. 3)
 
 ## Anlage 3 Stammzertifikat für Vermehrungsgut von Samenplantagen und Familieneltern
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE015000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4717; 2003 I 61
 
@@ -392,6 +407,7 @@ Vermehrungsgut von Samenplantagen und Familieneltern)
 (zu § 1 Nr. 4)
 
 ## Anlage 4 Stammzertifikat für Vermehrungsgut von Klonen und Klonmischungen
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE016000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4718 u. 4719
 
@@ -401,6 +417,7 @@ Vermehrungsgut von Klonen und Klonmischungen)
 (zu § 9)
 
 ## Anlage 5 Liste zulässiger Abkürzungen
+[Direktlink](https://www.gesetze-im-internet.de/fovdv/BJNR471100002.html#BJNR471100002BJNE017000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4720
 

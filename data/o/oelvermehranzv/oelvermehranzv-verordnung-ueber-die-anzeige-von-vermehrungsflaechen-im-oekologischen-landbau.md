@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## § 1 Anzeige von Vermehrungsflächen
+[Direktlink](https://www.gesetze-im-internet.de/_lvermehranzv/BJNR0CE0C0023.html#BJNR0CE0C0023BJNE000100000)
 
 Pflanzenvermehrungsmaterial im Sinne der Delegierten Verordnung (EU)
 2021/1189 der Kommission vom 7. Mai 2021 zur Ergänzung der Verordnung
@@ -36,6 +37,7 @@ dem Inverkehrbringen angezeigt hat.
 
 
 ## § 2 Inhalt und Zeitpunkt der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/_lvermehranzv/BJNR0CE0C0023.html#BJNR0CE0C0023BJNE000200000)
 
 (1) In der Anzeige nach § 1 hat der Erzeuger Angaben zu machen über:
 

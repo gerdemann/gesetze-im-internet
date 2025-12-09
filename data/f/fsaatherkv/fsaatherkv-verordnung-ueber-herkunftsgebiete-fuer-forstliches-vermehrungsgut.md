@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000101377)
 
 Auf Grund des § 5 Abs. 2 Nr. 2 und des § 10 Abs. 3 des Gesetzes über
 forstliches Saat- und Pflanzgut in der Fassung der Bekanntmachung vom
@@ -28,6 +29,7 @@ Ernährung, Landwirtschaft und Forsten:
 
 
 ## § 1 Bestimmung und Bezeichnung von Herkunftsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000201377)
 
 (1) Als Grundlage für die Abgrenzung von Herkunftsgebieten werden
 ökologische Grundeinheiten in der als Anlage 1 dieser Verordnung
@@ -49,11 +51,13 @@ Herkunftsgebiete" dargestellt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000301377)
 
 (weggefallen)
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000401377)
 
 (1) Ausgewähltes Vermehrungsgut, das vor Inkrafttreten dieser
 Verordnung gewonnen wurde, ist mit dem Herkunftsgebiet zum Zeitpunkt
@@ -85,16 +89,19 @@ Anträge können nur bis zum 31. Dezember 1995 gestellt werden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000501377)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000601377)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000701377)
 
 (Inhalt: nicht darstellbare Übersicht über ökologische Grundeinheiten
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
@@ -102,6 +109,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
 
 
 ## Anlage 2 (zu § 1 Abs. 1 Forstsaat-Herkunftsgebietsverordnung)
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000801377)
 
 (Inhalt: nicht darstellbare Karte,
 Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher
@@ -112,6 +120,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
 (zu § 1 Abs. 2)
 
 ## Anlage 3 Übersicht über forstliche Herkunftsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE000901377)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
 27\.2.2003 I 238, S. 3 - 13
@@ -1822,6 +1831,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
 (zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung)
 
 ## Anlage 4 Karte über forstliche Herkunftsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE001001377)
 
 (Inhalt: nicht darstellbare Karten,
 Karte über forstliche Herkunftsgebiete - Weißtanne,
@@ -1847,6 +1857,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/fsaatherkv/BJNR357800994.html#BJNR357800994BJNE001101377)
 
 (weggefallen)
 

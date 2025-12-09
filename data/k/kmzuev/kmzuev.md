@@ -29,6 +29,7 @@ V aufgeh. durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kmz_v/BJNR0490B0025.html#BJNR0490B0025BJNE000100000)
 
 Diese Rechtsverordnung regelt das Verfahren nach Artikel 143 Absatz 6
 der Verordnung (EU) 2023/1114 des Europäischen Parlaments und des
@@ -42,6 +43,7 @@ Erbringung von Kryptowerte-Dienstleistungen (vereinfachtes Verfahren).
 
 
 ## § 2 Antragsgegenstand, Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/kmz_v/BJNR0490B0025.html#BJNR0490B0025BJNE000200000)
 
 (1) Gegenstand des vereinfachten Verfahrens ist die Zulassung zur
 Erbringung bestimmter Kryptowerte-Dienstleistungen nach Artikel 59
@@ -59,6 +61,7 @@ Erlaubnis umfasst sind.
 
 
 ## § 3 Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/kmz_v/BJNR0490B0025.html#BJNR0490B0025BJNE000300000)
 
 (1) Der Antrag soll ausdrücklich auf das vereinfachte Verfahren Bezug
 nehmen. Im Antrag ist anzugeben, für welche Kryptowerte-
@@ -170,6 +173,7 @@ und weitere Unterlagen vorzulegen.
 
 
 ## § 4 Antragsfristen
+[Direktlink](https://www.gesetze-im-internet.de/kmz_v/BJNR0490B0025.html#BJNR0490B0025BJNE000400000)
 
 Anträge auf Durchführung des vereinfachten Verfahrens können bis zum
 31\. August 2025 gestellt werden. Entscheidend ist der Eingang aller
@@ -177,6 +181,7 @@ Unterlagen nach § 3 Absatz 2 bei der Bundesanstalt.
 
 
 ## § 5 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kmz_v/BJNR0490B0025.html#BJNR0490B0025BJNE000500000)
 
 Anträge und Unterlagen zur Durchführung des vereinfachten Verfahrens
 sind jeweils in einfacher Ausfertigung der Bundesanstalt und der für

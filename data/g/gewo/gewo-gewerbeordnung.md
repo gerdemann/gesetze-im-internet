@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Titel I - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000102301)
 
 
 
 ### § 1 Grundsatz der Gewerbefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003202301)
 
 (1) Der Betrieb eines Gewerbes ist jedermann gestattet, soweit nicht
 durch dieses Gesetz Ausnahmen oder Beschränkungen vorgeschrieben oder
@@ -38,11 +40,13 @@ Erfordernissen dieses Gesetzes nicht genügt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003302301)
 
 (weggefallen)
 
 
 ### § 3 Betrieb verschiedener Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003402301)
 
 Der gleichzeitige Betrieb verschiedener Gewerbe sowie desselben
 Gewerbes in mehreren Betriebs- oder Verkaufsstätten ist gestattet.
@@ -51,6 +55,7 @@ selbstverfertigten Waren findet nicht statt.
 
 
 ### § 4 Grenzüberschreitende Dienstleistungserbringung, Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003506311)
 
 (1) Werden Gewerbetreibende von einer Niederlassung in einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
@@ -84,6 +89,7 @@ von dieser aus tatsächlich ausgeübt wird.
 
 
 ### § 5 Zulassungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003602301)
 
 In den Beschränkungen des Betriebs einzelner Gewerbe, welche auf den
 Zoll-, Steuer- und Postgesetzen beruhen, wird durch das gegenwärtige
@@ -91,6 +97,7 @@ Gesetz nichts geändert.
 
 
 ### § 6 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003711311)
 
 (1) Dieses Gesetz ist nicht anzuwenden auf die Fischerei, die
 Errichtung und Verlegung von Apotheken, die Erziehung von Kindern
@@ -125,6 +132,7 @@ Arbeitnehmer Anwendung.
 
 
 ### § 6a Entscheidungsfrist, Genehmigungsfiktion
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025103116)
 
 (1) Hat die Behörde über einen Antrag auf Erlaubnis zur Ausübung eines
 Gewerbes nach § 34b Absatz 1, 3, 4, § 34c Absatz 1 Satz 1 Nummer 1, 3
@@ -137,6 +145,7 @@ landesrechtlichen Regelungen bestehen.
 
 
 ### § 6b Verfahren über eine einheitliche Stelle Europäischer Berufsausweis; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025203118)
 
 (1) Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung können über eine
@@ -159,6 +168,7 @@ eines Europäischen Berufsausweises zu erlassen.
 
 
 ### § 6c Informationspflichten für Dienstleistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025300377)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2006/123/EG
@@ -171,6 +181,7 @@ stellen sind.
 
 
 ### § 7 Mitteilungspflicht bei Gewerben mit Zuverlässigkeitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003803123)
 
 (1) Wer ein Gewerbe betreibt, bei dem nach diesem Gesetz die
 Zuverlässigkeit von Personen überprüft wird, oder Veranstalter nach §
@@ -212,15 +223,19 @@ Weitergehende Anforderungen bleiben unberührt.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE003903123)
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE004003123)
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE004103123)
 
 
 ### § 11 Verarbeitung personenbezogener Daten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023106123)
 
 (1) Die zuständige öffentliche Stelle erhebt personenbezogene Daten
 des Gewerbetreibenden und solcher Personen, auf die es für die
@@ -311,6 +326,7 @@ zuständigen Behörde über den Erlaubnisantrag erforderlich sind.
 
 
 ### § 11a Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026808123)
 
 (1) Jede Industrie- und Handelskammer (Registerbehörde) führt ein
 Register der nach § 34d Absatz 10 Satz 1, § 34f Absatz 5, § 34h Absatz
@@ -454,6 +470,7 @@ entsprechend.
 
 
 ### § 11b Bewacherregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028601119)
 
 (1) Beim Statistischen Bundesamt (Registerbehörde) wird ein
 Bewacherregister eingerichtet und geführt, in dem zum Zweck der
@@ -908,6 +925,7 @@ Einzelheiten zu regeln:
 
 
 ### § 11c Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE024802118)
 
 (1) Begibt sich ein im Inland tätiger Gewerbetreibender in einen
 anderen Mitgliedstaat der Europäischen Union oder in einen anderen
@@ -964,6 +982,7 @@ erforderlich sind, und er die Daten anderenfalls zu löschen hat.
 
 
 ### § 11d Zusammenarbeit der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029100123)
 
 (1) Die Registerbehörde nach § 11a Absatz 1 Satz 1 ist verpflichtet,
 mit der Europäischen Kommission und den zuständigen Behörden der
@@ -1067,6 +1086,7 @@ Versicherungswesen und die betriebliche Altersversorgung zu melden:
 
 
 ### § 12 Insolvenzverfahren und Restrukturierungssachen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028700128)
 
 Vorschriften, welche die Untersagung eines Gewerbes oder die Rücknahme
 oder den Widerruf einer Zulassung wegen Unzuverlässigkeit des
@@ -1103,6 +1123,7 @@ begründet wird, die nach der Freigabe eingetreten sind.
 
 
 ### § 13 Erprobungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022902377)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zur
 Erprobung vereinfachender Maßnahmen, insbesondere zur Erleichterung
@@ -1115,6 +1136,7 @@ Ausnahmen auf das Gebiet des jeweiligen Landes beschränken.
 
 
 ### § 13a Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE024902118)
 
 (1) Wer als Staatsangehöriger eines Mitgliedstaates der Europäischen
 Union oder eines Vertragsstaates des Abkommens über den Europäischen
@@ -1219,6 +1241,7 @@ Unterrichtungsnachweise auch für diese vorgeschrieben sind.
 
 
 ### § 13b Anerkennung ausländischer Unterlagen und Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025408118)
 
 (1) Soweit nach diesem Gesetz oder einer auf Grund dieses Gesetzes
 erlassenen Rechtsverordnung die Zuverlässigkeit oder die
@@ -1261,6 +1284,7 @@ oder nach § 60a ausgeübt werden.
 
 
 ### § 13c Anerkennung von ausländischen Befähigungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025901118)
 
 (1) Als Nachweis einer nach der Gewerbeordnung erforderlichen
 Sachkundeprüfung oder Unterrichtung werden im Ausland erworbene
@@ -1413,14 +1437,17 @@ des Ausbildungsstaats wenden. Der Fristablauf ist solange gehemmt.
 
 
 ## Titel II - Stehendes Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000202301)
 
 
 
 ### I. - Allgemeine Erfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000302301)
 
 
 
 #### § 14 Anzeigepflicht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE004731119)
 
 (1) Wer den selbständigen Betrieb eines stehenden Gewerbes, einer
 Zweigniederlassung oder einer unselbständigen Zweigstelle anfängt,
@@ -1746,6 +1773,7 @@ Statistik nach Absatz 13 nähere Vorschriften. Die Rechtsverordnung
 
 
 #### § 15 Empfangsbescheinigung, Betrieb ohne Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE004803301)
 
 (1) Die Behörde bescheinigt innerhalb dreier Tage den Empfang der
 Anzeige.
@@ -1759,22 +1787,27 @@ deren Rechtsfähigkeit im Inland nicht anerkannt wird.
 
 
 ### II. - Erfordernis besonderer Überwachung oder Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000402301)
 
 
 
 #### A. - Anlagen, die einer besonderen Überwachung bedürfen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000502301)
 
 
 
 ##### (XXXX) §§ 16 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE005206301)
 
 
 
 #### B. - Gewerbetreibende, die einer besonderen Genehmigung bedürfen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000602301)
 
 
 
 ##### § 29 Auskunft und Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE005913118)
 
 (1) Gewerbetreibende oder sonstige Personen,
 
@@ -1828,6 +1861,7 @@ Annahme rechtfertigen, daß ein erlaubnispflichtiges,
 
 
 ##### § 30 Privatkrankenanstalten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006003301)
 
 (1) Unternehmer von Privatkranken- und Privatentbindungsanstalten
 sowie von Privatnervenkliniken bedürfen einer Konzession der
@@ -1868,19 +1902,23 @@ zuständigen Behörde. Die Konzession ist nur dann zu versagen, wenn
 
 
 ##### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006102301)
 
 (weggefallen)
 
 
 ##### § 30b
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006203377)
 
 (weggefallen)
 
 
 ##### (XXXX) § 30c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006303360)
 
 
 ##### § 31 Bewachungsgewerbe auf Seeschiffen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026205123)
 
 (1) Wer gewerbsmäßig Leben oder Eigentum fremder Personen auf
 Seeschiffen seewärts der Begrenzung der deutschen ausschließlichen
@@ -2063,6 +2101,7 @@ von § 15 Absatz 2, der §§ 29, 46 Absatz 3 und von § 47 zuständig.
 
 
 ##### § 32 Regelung der Sachkundeprüfung, Aufgabenauswahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006307116)
 
 (1) Soweit Prüfungsverfahren nicht vollständig durch
 Rechtsverordnungen nach diesem Abschnitt geregelt sind, kann in ihnen
@@ -2122,10 +2161,12 @@ Zusammensetzung, zu bestimmen.
 
 
 ##### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028500116)
 
 
 
 ##### § 33a Schaustellungen von Personen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006403301)
 
 (1) Wer gewerbsmäßig Schaustellungen von Personen in seinen
 Geschäftsräumen veranstalten oder für deren Veranstaltung seine
@@ -2160,9 +2201,11 @@ nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
 
 
 ##### § 33b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006503123)
 
 
 ##### § 33c Spielgeräte mit Gewinnmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006607128)
 
 (1) Wer gewerbsmäßig Spielgeräte, die mit einer den Spielausgang
 beeinflussenden technischen Vorrichtung ausgestattet sind, und die die
@@ -2220,6 +2263,7 @@ Voraussetzungen nach Absatz 2 Nummer 2 erfüllen.
 
 
 ##### § 33d Andere Spiele mit Gewinnmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006707360)
 
 (1) Wer gewerbsmäßig ein anderes Spiel mit Gewinnmöglichkeit
 veranstalten will, bedarf der Erlaubnis der zuständigen Behörde. Die
@@ -2265,6 +2309,7 @@ beachtet oder gegen § 6 des Jugendschutzgesetzes verstoßen worden ist.
 
 
 ##### § 33e Bauartzulassung und Unbedenklichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE006806360)
 
 (1) Die Zulassung der Bauart eines Spielgerätes oder ihrer
 Nachbaugeräte und die Unbedenklichkeitsbescheinigung für andere Spiele
@@ -2307,6 +2352,7 @@ wird.
 
 
 ##### § 33f Ermächtigung zum Erlaß von Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE027603123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann zur
 Durchführung der §§ 33c, 33d, 33e und 33i im Einvernehmen mit dem
@@ -2402,6 +2448,7 @@ Allgemeinheit und der Spieler sowie im Interesse des Jugendschutzes
 
 
 ##### § 33g Einschränkung und Ausdehnung der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007012123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit den Bundesministerien des Innern und für Heimat und
@@ -2425,6 +2472,7 @@ Bundesrates durch Rechtsverordnung bestimmen, daß
 
 
 ##### § 33h Spielbanken, Lotterien, Glücksspiele
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007102301)
 
 Die §§ 33c bis 33g finden keine Anwendung auf
 
@@ -2445,6 +2493,7 @@ Die §§ 33c bis 33g finden keine Anwendung auf
 
 
 ##### § 33i Spielhallen und ähnliche Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007205360)
 
 (1) Wer gewerbsmäßig eine Spielhalle oder ein ähnliches Unternehmen
 betreiben will, das ausschließlich oder überwiegend der Aufstellung
@@ -2480,6 +2529,7 @@ Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
 
 
 ##### § 34 Pfandleihgewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007312123)
 
 (1) Wer das Geschäft eines Pfandleihers oder Pfandvermittlers
 betreiben will, bedarf der Erlaubnis der zuständigen Behörde. Die
@@ -2540,6 +2590,7 @@ Rückkaufsrechts ist verboten.
 
 
 ##### § 34a Bewachungsgewerbe; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028103119)
 
 (1) Wer gewerbsmäßig Leben oder Eigentum fremder Personen bewachen
 will (Bewachungsgewerbe), bedarf der Erlaubnis der zuständigen
@@ -2880,6 +2931,7 @@ Erforderlichkeit zu beachten.
 
 
 ##### § 34b Versteigerergewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007516123)
 
 (1) Wer gewerbsmäßig fremde bewegliche Sachen, fremde Grundstücke oder
 fremde Rechte versteigern will, bedarf der Erlaubnis der zuständigen
@@ -3028,6 +3080,7 @@ Vorschriften erlassen über
 
 
 ##### § 34c Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer, Wohnimmobilienverwalter, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007633128)
 
 (1) Wer gewerbsmäßig
 
@@ -3240,6 +3293,7 @@ dem Prüfer und dem Gewerbetreibenden, geregelt werden.
 
 
 ##### § 34d Versicherungsvermittler, Versicherungsberater
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026907128)
 
 (1) Wer gewerbsmäßig den Abschluss von Versicherungs- oder
 Rückversicherungsverträgen vermitteln will (Versicherungsvermittler),
@@ -3622,6 +3676,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht zuständig.
 
 
 ##### § 34e Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE024506128)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium der Justiz, dem
@@ -3767,6 +3822,7 @@ Tätigkeit Aufzeichnungen zu führen hat.
 
 
 ##### § 34f Finanzanlagenvermittler
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025707128)
 
 (1) Wer im Umfang der Bereichsausnahmen des § 2 Absatz 6 Satz 1 Nummer
 8 des Kreditwesengesetzes oder des § 3 Absatz 1 Satz 1 Nummer 11 des
@@ -3903,6 +3959,7 @@ mitzuteilen.
 
 
 ##### § 34g Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028203128)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz hat im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
@@ -4018,6 +4075,7 @@ Gewerbetreibenden geregelt werden.
 
 
 ##### § 34h Honorar-Finanzanlagenberater
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026403128)
 
 (1) Wer im Umfang der Bereichsausnahmen des § 2 Absatz 6 Satz 1 Nummer
 8 des Kreditwesengesetzes oder des § 3 Absatz 1 Satz 1 Nummer 11 des
@@ -4062,6 +4120,7 @@ Entrichtung von Steuern und Abgaben bleiben davon unberührt.
 
 
 ##### § 34i Immobiliardarlehensvermittler
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE027102128)
 
 (1) Wer gewerbsmäßig den Abschluss von Immobiliar-
 Verbraucherdarlehensverträgen im Sinne des § 491 Absatz 3 des
@@ -4206,6 +4265,7 @@ nach § 11a Absatz 1.
 
 
 ##### § 34j Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE027302123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der
@@ -4320,6 +4380,7 @@ Gewerbetreibenden geregelt werden.
 
 
 ##### § 35 Gewerbeuntersagung wegen Unzuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007709123)
 
 (1) Die Ausübung eines Gewerbes ist von der zuständigen Behörde ganz
 oder teilweise zu untersagen, wenn Tatsachen vorliegen, welche die
@@ -4425,9 +4486,11 @@ Wettannahmestellen aller Art.
 
 
 ##### (XXXX) §§ 35a und 35b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE007803301)
 
 
 ##### § 36 Öffentliche Bestellung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008010123)
 
 (1) Personen, die als Sachverständige auf den Gebieten der Wirtschaft
 einschließlich des Bergwesens, der Hochsee- und Küstenfischerei sowie
@@ -4550,6 +4613,7 @@ Landesvermessung bestehen oder erlassen werden.
 
 
 ##### § 36a Öffentliche Bestellung von Sachverständigen mit Qualifikationen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025500377)
 
 (1) Bei der Bewertung der nach § 36 Absatz 1 geforderten besonderen
 Sachkunde von Antragstellern sind auch Ausbildungs- und
@@ -4605,11 +4669,13 @@ entsprechende Auskünfte einholen. Der Fristablauf ist solange gehemmt.
 
 
 ##### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008102301)
 
 (weggefallen)
 
 
 ##### § 38 Überwachungsbedürftige Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008209123)
 
 (1) Bei den Gewerbezweigen
 
@@ -4686,39 +4752,48 @@ der zuständigen Behörden des Herkunftsmitgliedstaats abgedeckt ist.
 
 
 ##### § 39
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008302301)
 
 (weggefallen)
 
 
 ##### § 39a
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008403377)
 
 (weggefallen)
 
 
 ##### § 40
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008502301)
 
 (weggefallen)
 
 
 ### III. - Umfang, Ausübung und Verlust der Gewerbebefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000702301)
 
 
 
 #### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008603123)
 
 
 #### (XXXX) §§ 41a und 41b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008702301)
 
 
 #### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE008903377)
 
 -
 
 
 #### (XXXX) §§ 42a bis 44a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009002301)
 
 
 #### § 45 Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009102301)
 
 Die Befugnisse zum stehenden Gewerbebetrieb können durch
 Stellvertreter ausgeübt werden; diese müssen jedoch den für das in
@@ -4727,6 +4802,7 @@ genügen.
 
 
 #### § 46 Fortführung des Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009203377)
 
 (1) Nach dem Tode eines Gewerbetreibenden darf das Gewerbe für
 Rechnung des überlebenden Ehegatten oder Lebenspartners durch einen
@@ -4745,6 +4821,7 @@ Stellvertreter betrieben wird.
 
 
 #### § 47 Stellvertretung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009308118)
 
 Inwiefern für die nach den §§ 31, 33i, 34, 34a, 34b, 34c, 34d, 34f,
 34h, 34i und 36 konzessionierten oder angestellten Personen eine
@@ -4753,9 +4830,11 @@ zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
 
 
 #### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009403123)
 
 
 #### § 49 Erlöschen von Erlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009504301)
 
 (1) (weggefallen)
 
@@ -4768,11 +4847,13 @@ einem Jahr nicht mehr ausgeübt hat.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009602301)
 
 (weggefallen)
 
 
 #### § 51 Untersagung wegen überwiegender Nachteile und Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009703301)
 
 Wegen überwiegender Nachteile und Gefahren für das Gemeinwohl kann die
 fernere Benutzung einer jeden gewerblichen Anlage durch die zuständige
@@ -4783,17 +4864,21 @@ Immissionsschutzgesetzes unterliegen.
 
 
 #### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE009803123)
 
 
 #### (XXXX) §§ 53 bis 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010102301)
 
 
 
 ## Titel III - Reisegewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000802301)
 
 
 
 ### § 55 Reisegewerbekarte
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010205377)
 
 (1) Ein Reisegewerbe betreibt, wer gewerbsmäßig ohne vorhergehende
 Bestellung außerhalb seiner gewerblichen Niederlassung (§ 4 Absatz 3)
@@ -4820,6 +4905,7 @@ denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 
 
 ### § 55a Reisegewerbekartenfreie Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010311118)
 
 (1) Einer Reisegewerbekarte bedarf nicht, wer
 
@@ -4886,6 +4972,7 @@ Ausnahmen von dem Erfordernis der Reisegewerbekarte zulassen.
 
 
 ### § 55b Weitere reisegewerbekartenfreie Tätigkeiten, Gewerbelegitimationskarte
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010404377)
 
 (1) Eine Reisegewerbekarte ist nicht erforderlich, soweit der
 Gewerbetreibende andere Personen im Rahmen ihres Geschäftsbetriebes
@@ -4903,6 +4990,7 @@ anderes bestimmt ist.
 
 
 ### § 55c Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010509119)
 
 Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10
 einer Reisegewerbekarte nicht bedarf, hat den Beginn des Gewerbes der
@@ -4913,11 +5001,13 @@ Absatz 14 gelten entsprechend.
 
 
 ### § 55d
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010603301)
 
 -
 
 
 ### § 55e Sonn- und Feiertagsruhe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010708377)
 
 (1) An Sonn- und Feiertagen sind die in § 55 Abs. 1 Nr. 1 genannten
 Tätigkeiten mit Ausnahme des Feilbietens von Waren und
@@ -4930,6 +5020,7 @@ Gewerbetreibenden ausgeübt wird.
 
 
 ### § 55f Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022208123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der
@@ -4941,6 +5032,7 @@ erlassen.
 
 
 ### § 56 Im Reisegewerbe verbotene Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010816123)
 
 (1) Im Reisegewerbe sind verboten
 
@@ -5057,6 +5149,7 @@ sind.
 
 
 ### § 56a Wanderlager
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE010907311)
 
 (1) Ein Wanderlager veranstaltet, wer außerhalb seiner Niederlassung
 und außerhalb einer Messe, einer Ausstellung oder eines Marktes von
@@ -5200,6 +5293,7 @@ untersagen, wenn
 
 
 ### § 57 Versagung der Reisegewerbekarte
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011011124)
 
 (1) Die Reisegewerbekarte ist zu versagen, wenn Tatsachen die Annahme
 rechtfertigen, daß der Antragsteller die für die beabsichtigte
@@ -5219,9 +5313,11 @@ erforderliche Erlaubnis besitzt.
 
 
 ### (XXXX) §§ 57a und 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011103301)
 
 
 ### § 59 Untersagung reisegewerbekartenfreier Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011305301)
 
 Soweit nach § 55a oder § 55b eine Reisegewerbekarte nicht erforderlich
 ist, kann die reisegewerbliche Tätigkeit unter der Voraussetzung des §
@@ -5230,6 +5326,7 @@ gilt entsprechend.
 
 
 ### § 60 Beschäftigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011404377)
 
 Die Beschäftigung einer Person im Reisegewerbe kann dem
 Gewerbetreibenden untersagt werden, wenn Tatsachen die Annahme
@@ -5238,6 +5335,7 @@ Zuverlässigkeit nicht besitzt.
 
 
 ### § 60a Veranstaltung von Spielen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011505301)
 
 (1) (weggefallen)
 
@@ -5263,6 +5361,7 @@ bei den Landeskriminalämtern (Absatz 2 Satz 3) regeln.
 
 
 ### § 60b Volksfest
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011605377)
 
 (1) Ein Volksfest ist eine im allgemeinen regelmäßig wiederkehrende,
 zeitlich begrenzte Veranstaltung, auf der eine Vielzahl von Anbietern
@@ -5278,6 +5377,7 @@ die §§ 69a bis 71a finden entsprechende Anwendung; jedoch bleiben die
 
 
 ### § 60c Mitführen und Vorzeigen der Reisegewerbekarte
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011704377)
 
 (1) Der Inhaber einer Reisegewerbekarte ist verpflichtet, sie während
 der Ausübung des Gewerbebetriebes bei sich zu führen, auf Verlangen
@@ -5302,6 +5402,7 @@ führen. Im Übrigen gelten die Absätze 1 und 2 entsprechend.
 
 
 ### § 60d Verhinderung der Gewerbeausübung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011805377)
 
 Die Ausübung des Reisegewerbes entgegen § 55 Abs. 2 und 3, § 56 Abs. 1
 oder 3 Satz 2, § 60a Abs. 2 Satz 1 oder 2 oder Abs. 3 Satz 1, § 60c
@@ -5311,6 +5412,7 @@ von der zuständigen Behörde verhindert werden.
 
 
 ### § 61 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE011906123)
 
 Für die Erteilung, die Versagung, die Rücknahme und den Widerruf der
 Reisegewerbekarte, für die in den §§ 55c, 59 und 60 genannten Aufgaben
@@ -5322,6 +5424,7 @@ Verfahren fortsetzen, wenn die nunmehr zuständige Behörde zustimmt.
 
 
 ### § 61a Anwendbarkeit von Vorschriften des stehenden Gewerbes für die Ausübung als Reisegewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022315123)
 
 (1) Für die Ausübung des Reisegewerbes gilt § 29 entsprechend.
 
@@ -5343,14 +5446,17 @@ Ausnahmen zulassen.
 
 
 ### (XXXX) §§ 62 und 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012003301)
 
 
 
 ## Titel IV - Messen, Ausstellungen, Märkte
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG000902301)
 
 
 
 ### § 64 Messe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012202301)
 
 (1) Eine Messe ist eine zeitlich begrenzte, im allgemeinen regelmäßig
 wiederkehrende Veranstaltung, auf der eine Vielzahl von Ausstellern
@@ -5363,6 +5469,7 @@ während bestimmter Öffnungszeiten Letztverbraucher zum Kauf zulassen.
 
 
 ### § 65 Ausstellung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012302301)
 
 Eine Ausstellung ist eine zeitlich begrenzte Veranstaltung, auf der
 eine Vielzahl von Ausstellern ein repräsentatives Angebot eines oder
@@ -5372,6 +5479,7 @@ informiert.
 
 
 ### § 66 Großmarkt
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012402301)
 
 Ein Großmarkt ist eine Veranstaltung, auf der eine Vielzahl von
 Anbietern bestimmte Waren oder Waren aller Art im wesentlichen an
@@ -5380,6 +5488,7 @@ vertreibt.
 
 
 ### § 67 Wochenmarkt
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012508311)
 
 (1) Ein Wochenmarkt ist eine regelmäßig wiederkehrende, zeitlich
 begrenzte Veranstaltung, auf der eine Vielzahl von Anbietern eine oder
@@ -5418,6 +5527,7 @@ Wochenmärkten feilgeboten werden dürfen.
 
 
 ### § 68 Spezialmarkt und Jahrmarkt
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012603301)
 
 (1) Ein Spezialmarkt ist eine im allgemeinen regelmäßig in größeren
 Zeitabständen wiederkehrende, zeitlich begrenzte Veranstaltung, auf
@@ -5433,6 +5543,7 @@ Sinne des § 60b Abs. 1 ausgeübt werden; die §§ 55 bis 60a und 60c bis
 
 
 ### § 68a Verabreichen von Getränken und Speisen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012702301)
 
 Auf Märkten dürfen alkoholfreie Getränke und zubereitete Speisen, auf
 anderen Veranstaltungen im Sinne der §§ 64 bis 68 Kostproben zum
@@ -5442,6 +5553,7 @@ Ort und Stelle die allgemeinen Vorschriften.
 
 
 ### § 69 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012804118)
 
 (1) Die zuständige Behörde hat auf Antrag des Veranstalters eine
 Veranstaltung, die die Voraussetzungen der §§ 64, 65, 66, 67 oder 68
@@ -5463,6 +5575,7 @@ Veranstalter dies der zuständigen Behörde unverzüglich anzuzeigen.
 
 
 ### § 69a Ablehnung der Festsetzung, Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE012903301)
 
 (1) Der Antrag auf Festsetzung ist abzulehnen, wenn
 
@@ -5500,6 +5613,7 @@ denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 
 
 ### § 69b Änderung und Aufhebung der Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013002301)
 
 (1) Die zuständige Behörde kann in dringenden Fällen vorübergehend die
 Zeit, die Öffnungszeiten und den Platz der Veranstaltung abweichend
@@ -5524,6 +5638,7 @@ nicht zugemutet werden kann.
 
 
 ### § 70 Recht zur Teilnahme an einer Veranstaltung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013102301)
 
 (1) Jedermann, der dem Teilnehmerkreis der festgesetzten Veranstaltung
 angehört, ist nach Maßgabe der für alle Veranstaltungsteilnehmer
@@ -5543,6 +5658,7 @@ ausschließen.
 
 
 ### § 70a Untersagung der Teilnahme an einer Veranstaltung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013209124)
 
 (1) Die zuständige Behörde kann einem Aussteller oder Anbieter die
 Teilnahme an einer bestimmten Veranstaltung oder einer oder mehreren
@@ -5566,11 +5682,13 @@ besitzt.
 
 
 ### § 70b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013304377)
 
 -
 
 
 ### § 71 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013402301)
 
 Der Veranstalter darf bei Volksfesten, Wochenmärkten und Jahrmärkten
 eine Vergütung nur für die Überlassung von Raum und Ständen und für
@@ -5583,6 +5701,7 @@ und Gemeindeverbände bleiben unberührt.
 
 
 ### § 71a Öffentliche Sicherheit oder Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013503301)
 
 Den Ländern bleibt es vorbehalten, Vorschriften zur Aufrechterhaltung
 der öffentlichen Sicherheit oder Ordnung auf Veranstaltungen im Sinne
@@ -5590,6 +5709,7 @@ der §§ 64 bis 68 zu erlassen.
 
 
 ### § 71b Anwendbarkeit von Vorschriften des stehenden Gewerbes für die Ausübung im Messe-, Ausstellungs- und Marktgewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022414123)
 
 (1) Für die Ausübung des Messe-, Ausstellungs- und Marktgewerbes gilt
 § 29 entsprechend.
@@ -5611,36 +5731,45 @@ Waren für ihren Bezirk Ausnahmen zulassen.
 
 
 ## Titel V - Taxen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG001002301)
 
 
 
 ### (XXXX) §§ 72 bis 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013602301)
 
 
 
 ## Titel VI - Innungen, Innungsausschüsse, Handwerkskammern, Innungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG001102301)
 
 
 
 ### (XXXX) §§ 81 bis 104n (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013702301)
 
 
 ## Titel VIa - Handwerksrolle
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG001202301)
 
 
 
 ### (XXXX) §§ 104o bis 104u (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013802301)
 
 
 ## Titel VII - Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG001303377)
 
 
 
 ### I. - Allgemeine arbeitsrechtliche Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG001403377)
 
 
 
 #### § 105 Freie Gestaltung des Arbeitsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE013903377)
 
 Arbeitgeber und Arbeitnehmer können Abschluss, Inhalt und Form des
 Arbeitsvertrages frei vereinbaren, soweit nicht zwingende gesetzliche
@@ -5651,6 +5780,7 @@ Nachweisgesetzes.
 
 
 #### § 106 Weisungsrecht des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023700377)
 
 Der Arbeitgeber kann Inhalt, Ort und Zeit der Arbeitsleistung nach
 billigem Ermessen näher bestimmen, soweit diese Arbeitsbedingungen
@@ -5663,6 +5793,7 @@ Arbeitnehmers Rücksicht zu nehmen.
 
 
 #### § 107 Berechnung und Zahlung des Arbeitsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023800377)
 
 (1) Das Arbeitsentgelt ist in Euro zu berechnen und auszuzahlen.
 
@@ -5687,6 +5818,7 @@ zahlt.
 
 
 #### § 108 Abrechnung des Arbeitsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023905118)
 
 (1) Dem Arbeitnehmer ist bei Zahlung des Arbeitsentgelts eine
 Abrechnung in Textform zu erteilen. Die Abrechnung muss mindestens
@@ -5712,6 +5844,7 @@ beschränkt.
 
 
 #### § 109 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE024001119)
 
 (1) Der Arbeitnehmer hat bei Beendigung eines Arbeitsverhältnisses
 Anspruch auf ein schriftliches Zeugnis. Das Zeugnis muss mindestens
@@ -5730,6 +5863,7 @@ elektronischer Form erteilt werden.
 
 
 #### § 110 Wettbewerbsverbot
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE024100377)
 
 Arbeitgeber und Arbeitnehmer können die berufliche Tätigkeit des
 Arbeitnehmers für die Zeit nach Beendigung des Arbeitsverhältnisses
@@ -5738,6 +5872,7 @@ des Handelsgesetzbuches sind entsprechend anzuwenden.
 
 
 #### § 111 Pflichtfortbildungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE015004123)
 
 (1) Ist der Arbeitgeber durch Gesetz oder aufgrund eines Gesetzes,
 durch Tarifvertrag oder Betriebs- oder Dienstvereinbarung
@@ -5752,14 +5887,17 @@ gelten sie als Arbeitszeit.
 
 
 #### (XXXX) §§ 112 bis 132a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE015005123)
 
 
 
 ### II. - Meistertitel
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG001803377)
 
 
 
 #### § 133 Befugnis zur Führung des Baumeistertitels
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE018003377)
 
 Die Befugnis zur Führung des Meistertitels in Verbindung mit einer
 anderen Bezeichnung, die auf eine Tätigkeit im Baugewerbe hinweist,
@@ -5775,17 +5913,21 @@ geregelt.
 
 
 #### (XXXX) §§ 133a bis 133d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE018102301)
 
 
 #### (XXXX) §§ 133e bis 139aa (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE018405377)
 
 
 
 ### III. - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG002303377)
 
 
 
 #### § 139b Gewerbeaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE019319128)
 
 (1) Die Aufsicht über die Ausführung der Bestimmungen der auf Grund
 des § 120e oder des § 139h erlassenen Rechtsverordnungen ist
@@ -5921,47 +6063,58 @@ zusammen:
 
 
 #### (XXXX) §§ 139c bis 139h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE019402301)
 
 
 #### § 139i
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE019703377)
 
 (weggefallen)
 
 
 #### (XXXX) §§ 139k und 139m (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE019802301)
 
 
 ## Titel VIII - Gewerbliche Hilfskassen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG002502301)
 
 
 
 ### § 140
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020003377)
 
 (weggefallen)
 
 
 ### (XXXX) §§ 141 bis 141f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020102301)
 
 
 ## Titel IX - Statutarische Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG002602301)
 
 
 
 ### § 142
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020204377)
 
 (weggefallen)
 
 
 ## Titel X - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG002702301)
 
 
 
 ### § 143
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020303301)
 
 (weggefallen)
 
 
 ### § 144 Verletzung von Vorschriften über erlaubnisbedürftige stehende Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020429123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -6162,6 +6315,7 @@ Wirtschaft und Ausfuhrkontrolle.
 
 
 ### § 145 Verletzung von Vorschriften über das Reisegewerbe
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020520311)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -6328,6 +6482,7 @@ werden.
 
 
 ### § 146 Verletzung sonstiger Vorschriften über die Ausübung eines Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020623123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -6465,6 +6620,7 @@ Absatzes 2 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 
 
 ### § 147 Verletzung von Arbeitsschutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020707377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -6482,6 +6638,7 @@ Absatzes 2 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 
 
 ### § 147a Verbotener Erwerb von Edelmetallen und Edelsteinen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022503377)
 
 (1) Es ist verboten, von Minderjährigen gewerbsmäßig
 
@@ -6503,6 +6660,7 @@ bis zu fünftausend Euro geahndet werden.
 
 
 ### § 147b Verletzung von Vorschriften über die Insolvenzsicherung bei Pauschalreisen und verbundenen Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022705311)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -6525,6 +6683,7 @@ geahndet werden.
 
 
 ### § 147c Verstoß gegen Wohlverhaltenspflichten bei der Vermittlung von Versicherungsanlageprodukten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028300118)
 
 (1) Ordnungswidrig handelt, wer bei der Vermittlung eines
 Versicherungsanlageproduktes im Sinne des Artikels 2 Absatz 1 Nummer
@@ -6550,6 +6709,7 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ### § 147d Verletzung von Vorschriften über die digitale operationale Resilienz durch Versicherungsvermittler nach § 34d Absatz 1, Versicherungsberater nach § 34d Absatz 2 und Versicherungsvermittler in Nebentätigkeit nach § 34d Absatz 6
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029600128)
 
 (1) Ordnungswidrig handelt, wer als Person im Anwendungsbereich dieses
 Gesetzes gegen die Verordnung (EU) 2022/2554 des Europäischen
@@ -6591,6 +6751,7 @@ fünfhunderttausend Euro geahndet werden.
 
 
 ### § 148 Strafbare Verletzung gewerberechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020809360)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -6609,6 +6770,7 @@ bestraft, wer
 
 
 ### § 148a Strafbare Verletzung von Prüferpflichten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE020903301)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Prüfer oder als Gehilfe eines Prüfers über das
@@ -6622,6 +6784,7 @@ die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 ### § 148b Fahrlässige Hehlerei von Edelmetallen und Edelsteinen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022602301)
 
 Wer gewerbsmäßig mit den in § 147a Abs. 1 bezeichneten Gegenständen
 Handel treibt oder gewerbsmäßig Edelmetalle und edelmetallhaltige
@@ -6638,6 +6801,7 @@ Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 148c Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029200123)
 
 Ist eine Ordnungswidrigkeit nach § 144 Absatz 1 Nummer 1 Buchstabe d
 oder Absatz 2 Nummer 1a, 3 oder 4 oder § 145 Absatz 1 Nummer 4 oder
@@ -6656,10 +6820,12 @@ anzuwenden.
 
 
 ## Titel XI - Gewerbezentralregister
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG002802301)
 
 
 
 ### § 149 Einrichtung eines Gewerbezentralregisters
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE027700118)
 
 (1) Das Bundesamt für Justiz (Registerbehörde) führt ein
 Gewerbezentralregister.
@@ -6769,6 +6935,7 @@ wird nur auf den Sperrvermerk hingewiesen.
 
 
 ### § 150 Auskunft auf Antrag der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021110311)
 
 (1) Auf Antrag erteilt die Registerbehörde einer Person Auskunft über
 den sie betreffenden Inhalt des Registers. Das Auskunftsrecht nach
@@ -6808,6 +6975,7 @@ sie der Behörde unmittelbar zu übersenden.
 
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028803123)
 
 (1) Auskünfte aus dem Register werden für
 
@@ -6927,6 +7095,7 @@ Stelle nicht die Vorlage einer Auskunft nach § 150 Absatz 1 verlangen.
 
 
 ### § 150b Auskunft für die wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023203116)
 
 (1) Die Registerbehörde kann Hochschulen, anderen Einrichtungen, die
 wissenschaftliche Forschung betreiben, und öffentlichen Stellen
@@ -6977,6 +7146,7 @@ einem Dateisystem gespeichert sind oder gespeichert werden sollen.
 
 
 ### § 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029400119)
 
 (1) Ersuchen von Stellen eines anderen Staates sowie von über- und
 zwischenstaatlichen Stellen um Erteilung einer Auskunft aus dem
@@ -7016,6 +7186,7 @@ Verwaltungsverfahrensgesetzes gelten entsprechend.
 
 
 ### § 150d Protokollierungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026103116)
 
 (1) Die Registerbehörde fertigt zu den von ihr erteilten Auskünften
 Protokolle, die folgende Daten enthalten:
@@ -7060,6 +7231,7 @@ Verfahren gilt § 150 Absatz 2 bis 4 entsprechend.
 
 
 ### § 150e Elektronische Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026504119)
 
 (1) Erfolgt die Antragstellung abweichend von § 150 Absatz 2 oder
 Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet
@@ -7116,6 +7288,7 @@ Registerbehörde. Im Übrigen gilt § 150 entsprechend.
 
 
 ### § 150f Automatisiertes Auskunftsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028900311)
 
 Die Einrichtung eines automatisierten Anfrage- und Auskunftsverfahrens
 für die Übermittlung personenbezogener Daten ist zulässig, soweit
@@ -7129,6 +7302,7 @@ entsprechend.
 
 
 ### § 151 Eintragungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021305116)
 
 (1) In den Fällen des § 149 Absatz 2 Satz 1 Nr. 1 Buchstabe a und b
 ist die Eintragung auch bei
@@ -7169,6 +7343,7 @@ einen einzutragenden Inhalt, so ist dies mitzuteilen.
 
 
 ### § 152 Entfernung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021404118)
 
 (1) Wird eine nach § 149 Absatz 2 Satz 1 Nr. 1 eingetragene
 Entscheidung aufgehoben oder eine solche Entscheidung oder ein nach §
@@ -7206,6 +7381,7 @@ Voraussetzungen der Entfernung vorliegen.
 
 
 ### § 153 Tilgung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021509116)
 
 (1) Die Eintragungen nach § 149 Absatz 2 Satz 1 Nr. 3 sind nach Ablauf
 einer Frist
@@ -7259,6 +7435,7 @@ mindestens drei Jahre vergangen sind.
 
 
 ### § 153a Mitteilungen zum Gewerbezentralregister
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021606311)
 
 (1) Die Behörden und die Gerichte teilen dem Gewerbezentralregister
 die einzutragenden Entscheidungen, Feststellungen und Tatsachen mit. §
@@ -7272,6 +7449,7 @@ enthält, so ist die geänderte Angabe bei der Eintragung zu vermerken.
 
 
 ### § 153b Identifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029000311)
 
 Soweit dies zur Durchführung der Aufgaben der Registerbehörde,
 insbesondere nach diesem Gesetz erforderlich ist, darf die
@@ -7300,6 +7478,7 @@ unverzüglich zu löschen.
 
 
 ### § 153c Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029300119)
 
 Die näheren Bestimmungen über den Aufbau des Registers trifft das
 Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium
@@ -7310,20 +7489,24 @@ getroffen.
 
 
 ### - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNG002902301)
 
 
 
 #### § 154
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021805377)
 
 (weggefallen)
 
 
 #### § 154a
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE021903377)
 
 (weggefallen)
 
 
 #### § 155 Landesrecht, Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022005377)
 
 (1) Wo in diesem Gesetz auf die Landesgesetze verwiesen ist, sind
 unter den letzteren auch die verfassungs- oder gesetzmäßig erlassenen
@@ -7349,12 +7532,14 @@ einheitliche Stelle oder Behörde zu bestimmen.
 
 
 #### § 155a Versagung der Auskunft zu Zwecken des Zeugenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE023600377)
 
 Für die Versagung der Auskunft zu Zwecken des Zeugenschutzes gilt §
 44a des Bundeszentralregistergesetzes entsprechend.
 
 
 #### § 156 Übergangsregelungen zu den §§ 34d und 34e
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE022105118)
 
 (1) Eine vor dem 23. Februar 2018 erteilte Erlaubnis als
 Versicherungsberater nach § 34e Absatz 1 Satz 1 in der bis zum Ablauf
@@ -7378,6 +7563,7 @@ Erlaubnis nach § 34d Absatz 2 Satz 1 erfolgt ist.
 
 
 #### § 157 Übergangsregelungen zu den §§ 34c und 34f
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025005123)
 
 (1) Für einen Gewerbetreibenden, der am 1. November 2007 eine
 Erlaubnis für die Vermittlung des Abschlusses von Verträgen im Sinne
@@ -7498,6 +7684,7 @@ Absatz 1 Satz 1 Nummer 3.
 
 
 #### § 158 Übergangsregelung zu § 11b; Probebetrieb
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE025601119)
 
 (1) § 11b Absatz 1 ist bis zum 10. Oktober 2022 in der bis zum 22.
 Juni 2022 geltenden Fassung anzuwenden.
@@ -7553,6 +7740,7 @@ Grundverordnung und des Bundesdatenschutzgesetzes.
 
 
 #### § 159 Übergangsregelung zu § 34a
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE026302118)
 
 (1) Bis zum Ablauf des 31. Mai 2019 ist § 34a Absatz 1 bis 5 in der am
 31\. Dezember 2018 geltenden Fassung anzuwenden.
@@ -7572,6 +7760,7 @@ Verbindung mit Absatz 1 Satz 5 Nummer 4 ab.
 
 
 #### § 160 Übergangsregelungen zu den §§ 34c und 34i
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE027400118)
 
 (1) Gewerbetreibende, die am 21. März 2016 eine Erlaubnis nach § 34c
 Absatz 1 Satz 1 haben, welche zur Vermittlung des Abschlusses von
@@ -7609,6 +7798,7 @@ Absatzes 1 keine Anwendung.
 
 
 #### § 161 Übergangsregelung zu § 14 Absatz 4
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE028401123)
 
 (1) § 14 Absatz 4 Satz 1 ist, soweit die Mitteilung der
 Wirtschaftsidentifikationsnummer nach § 139c der Abgabenordnung und
@@ -7629,6 +7819,7 @@ zum 31. Dezember 2022 geltenden Fassung anzuwenden.
 (zu § 36 Absatz 4a Satz 1)
 
 #### Anlage Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo/BJNR002450869.html#BJNR002450869BJNE029500123)
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 11 – 13)
 

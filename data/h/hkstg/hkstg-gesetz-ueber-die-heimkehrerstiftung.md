@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE000101308)
 
 (1) Die nach § 44 des Kriegsgefangenenentschädigungsgesetzes
 errichtete rechtsfähige Stiftung des öffentlichen Rechts unter dem
@@ -39,6 +40,7 @@ Gesetzes zuständig.
 
 
 ## § 2 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE000201308)
 
 (1) Nach diesem Gesetz werden gefördert:
 
@@ -146,6 +148,7 @@ aber noch nicht ausgezahlt ist, so ist die Auszahlung auszusetzen.
 
 
 ## § 3 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE000303308)
 
 (1) Das Bundesverwaltungsamt kann den in § 2 Abs. 1 genannten Personen
 einmalige Unterstützungen zur Linderung einer Notlage gewähren. Eine
@@ -211,6 +214,7 @@ angerechnet werden.
 
 
 ## § 4 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE000401308)
 
 (1) Für Leistungen nach § 3 Abs. 1 werden in den Jahren 2007 bis 2009
 jeweils 1.534.000 Euro bereitgestellt. Hierfür können darüber hinaus
@@ -235,10 +239,12 @@ anzunehmen.
 
 
 ## (XXXX) §§ 5 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE000501308)
 
 
 
 ## § 10 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE001002124)
 
 Das Bundesministerium des Innern, für Bau und Heimat erlässt
 allgemeine Verwaltungsvorschriften zur Ausführung dieses Gesetzes
@@ -246,6 +252,7 @@ durch das Bundesverwaltungsamt.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hkstg/BJNR021010992.html#BJNR021010992BJNE001101308)
 
 -
 

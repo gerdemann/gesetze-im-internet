@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000100000)
 
 Auf Grund des § 36 Absatz 3 in Verbindung mit § 35 des
 Prostituiertenschutzgesetzes vom 21. Oktober 2016 (BGBl. I S. 2372)
@@ -25,6 +26,7 @@ Jugend im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Umfang der Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000200000)
 
 Erhebungen als Bundesstatistik werden durchgeführt über:
 
@@ -44,6 +46,7 @@ Erhebungen als Bundesstatistik werden durchgeführt über:
 
 
 ## § 2 Erhebungsmerkmale für die Statistik über die Prostitutionstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000300000)
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 1 sind für jeden
 Vorgang:
@@ -79,6 +82,7 @@ Vorgang:
 
 
 ## § 3 Erhebungsmerkmale für die Statistik über das Prostitutionsgewerbe
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000400000)
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 2 sind für jeden
 Vorgang:
@@ -147,6 +151,7 @@ Vorgang:
 
 
 ## § 4 Erhebungsmerkmale für die Statistik über Prostitutionsfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000500000)
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 3 sind für jeden
 Vorgang:
@@ -164,6 +169,7 @@ Vorgang:
 
 
 ## § 5 Erhebungsmerkmale für die Statistik über Prostitutionsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000600000)
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 4 sind für jeden
 Vorgang:
@@ -178,6 +184,7 @@ Vorgang:
 
 
 ## § 6 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000700000)
 
 Hilfsmerkmale sind:
 
@@ -193,6 +200,7 @@ Hilfsmerkmale sind:
 
 
 ## § 7 Periodizität, Berichtszeitpunkt, Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000800000)
 
 (1) Die Erhebungen werden jährlich, erstmalig für das Berichtsjahr
 2017 durchgeführt. Die Angaben nach § 2 Nummer 2 bis 6 und § 3 Nummer
@@ -206,6 +214,7 @@ des jeweiligen Kalenderjahres erhoben.
 
 
 ## § 8 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE000900000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig
 sind die für die Durchführung der in den §§ 2 bis 5 genannten
@@ -217,6 +226,7 @@ Auskunftserteilung zu den Angaben nach § 6 Nummer 2 ist freiwillig.
 
 
 ## § 9 Übermittlung, Löschung
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE001000000)
 
 (1) Die statistischen Landesämter übermitteln die erhobenen
 Einzeldaten auf Anforderung an das Statistische Bundesamt.
@@ -243,6 +253,7 @@ Erhebung.
 
 
 ## § 10 Regelung für das Jahr 2017
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE001100000)
 
 Abweichend von § 7 werden für das Jahr 2017 die Angaben nach § 2
 Nummer 2, 4 bis 6 und § 3 Nummer 4 bis 6 zum Stichtag 31. Dezember
@@ -251,11 +262,13 @@ ausschließlich für das Jahr 2017 zum Stichtag 31. Dezember erhoben.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/proststatv/BJNR193400017.html#BJNR193400017BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/anlbv_2004/BJNR030010004.html#BJNR030010004BJNE000103360)
 
 (1) Schiffe, die aus Seegebieten seewärts der Grenze des deutschen
 Küstenmeeres kommend die inneren Gewässer der Bundesrepublik
@@ -62,6 +63,7 @@ bekannt zu machen.
 
 
 ## § 2 Folgen von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/anlbv_2004/BJNR030010004.html#BJNR030010004BJNE000201305)
 
 (1) Ein Schiff, dessen Schiffsführer, Betreiber oder Agent die in der
 Anlage festgelegten Bedingungen für das An- und Auslaufen nicht
@@ -82,6 +84,7 @@ unterzogen.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/anlbv_2004/BJNR030010004.html#BJNR030010004BJNE000504305)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -97,6 +100,7 @@ Wasserstraßen und Schifffahrt übertragen.
 
 
 ## Anlage (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/anlbv_2004/BJNR030010004.html#BJNR030010004BJNE000317119)
 
 (Fundstelle: BGBl. I 2004, 301 – 305;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -867,6 +871,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anhang (zu § 1 Abs. 1 Nr. 1.17)
+[Direktlink](https://www.gesetze-im-internet.de/anlbv_2004/BJNR030010004.html#BJNR030010004BJNE000401308)
 
 (Inhalt: Nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 2005, 2297)

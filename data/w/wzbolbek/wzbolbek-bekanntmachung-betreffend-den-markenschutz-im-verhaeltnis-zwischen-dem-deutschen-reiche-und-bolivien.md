@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzbolbek/BJNR201600925.html#BJNR201600925BJNE000100303)
 
 Zwischen dem Deutschen Reiche und Bolivien ist durch Notenaustausch
 vom 20. Februar 1925 Einverständnis dahin festgestellt worden, daß mit

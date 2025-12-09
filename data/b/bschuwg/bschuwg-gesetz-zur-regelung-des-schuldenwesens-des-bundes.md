@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Wahrnehmung von Aufgaben des Schuldenwesens des Bundes und parlamentarische Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNG000100000)
 
 
 
 ### § 1 Ermächtigung zur Übertragung von Aufgaben des Schuldenwesens
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000102119)
 
 (1) Zur Verbesserung der Wirtschaftlichkeit des Schuldenwesens des
 Bundes wird das Bundesministerium der Finanzen ermächtigt, durch
@@ -84,6 +86,7 @@ Bundes durch Gesetz bleiben unberührt.
 
 
 ### § 2 Aufsicht über die Bundesrepublik Deutschland - Finanzagentur GmbH
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000200000)
 
 (1) Das Bundesministerium der Finanzen übt die Aufsicht über die
 recht- und zweckmäßige Wahrnehmung der übertragenen Aufgaben des
@@ -99,6 +102,7 @@ wenn auf andere Weise die recht- und zweckmäßige Wahrnehmung der
 
 
 ### § 3 Parlamentarisches Gremium
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000300000)
 
 (1) Der Deutsche Bundestag wählt für die Dauer einer Wahlperiode ein
 Gremium, das aus Mitgliedern des Haushaltsausschusses des Deutschen
@@ -125,10 +129,12 @@ an den Sitzungen.
 
 
 ## Teil 2 - Kreditaufnahme des Bundes und Bundesschuldbuch
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNG000200000)
 
 
 
 ### § 4 Kreditaufnahme des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000400000)
 
 (1) Die Aufnahme von Krediten durch den Bund und seine Sondervermögen
 erfolgt im Rahmen des jeweiligen Haushaltsgesetzes durch
@@ -157,6 +163,7 @@ eingesetzt werden.
 
 
 ### § 4a Einführung von Umschuldungsklauseln
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001001123)
 
 Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen
 mit einer ursprünglichen Laufzeit von über einem Jahr können Klauseln
@@ -184,6 +191,7 @@ abweichende Regelungen vorsehen.
 
 
 ### § 4b Mehrheitsbeschlüsse der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001101123)
 
 (1) Die Gläubiger können insbesondere folgende Umschuldungsmaßnahmen
 beschließen (wesentliche Beschlüsse):
@@ -397,6 +405,7 @@ machen.
 
 
 ### § 4c Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001200140)
 
 (1) An Beschlussfassungen der Gläubiger nimmt jeder Gläubiger nach
 Maßgabe des Nennwertes der ausstehenden Schuldverschreibungen teil,
@@ -446,6 +455,7 @@ abstimmen können.
 
 
 ### § 4d Berechnungsstelle; Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001301123)
 
 (1) Der Bund benennt eine zuständige Stelle, die feststellt, ob die
 für die Beschlussfassung der Gläubiger erforderlichen Mehrheiten
@@ -490,6 +500,7 @@ nur für Vorsatz und grobe Fahrlässigkeit.
 
 
 ### § 4e Einberufung der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001401123)
 
 (1) Eine Gläubigerversammlung kann jederzeit durch den Bund einberufen
 werden. Der Bund hat eine Gläubigerversammlung einzuberufen, sofern
@@ -561,6 +572,7 @@ werden.
 
 
 ### § 4f Vorsitz; Beschlussfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001501123)
 
 (1) Der Bund bestimmt den Vorsitzenden der Gläubigerversammlung.
 Sofern die vom Bund ernannte Person in der Versammlung nicht
@@ -594,6 +606,7 @@ wesentlicher Beschluss.
 
 
 ### § 4g Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001600140)
 
 (1) Jeder Gläubiger kann sich in der Gläubigerversammlung durch einen
 Bevollmächtigten vertreten lassen. Die Erteilung der Vollmacht bedarf
@@ -606,6 +619,7 @@ erklärt wird. Gleiches gilt für eine Änderung der Vollmacht.
 
 
 ### § 4h Schriftliche Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001700140)
 
 Auf die schriftliche Abstimmung sind die Vorschriften über die
 Einberufung und Durchführung von Gläubigerversammlungen entsprechend
@@ -613,6 +627,7 @@ anzuwenden.
 
 
 ### § 4i Anfechtung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001800140)
 
 (1) Ein Beschluss der Gläubiger kann wegen Verletzung des Gesetzes
 oder der Emissionsbedingungen durch Klage angefochten werden.
@@ -641,6 +656,7 @@ entsprechend.
 
 
 ### § 4j Wirksamkeit und Vollziehung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE001900140)
 
 Beschlüsse der Gläubiger, durch welche der Inhalt der
 Emissionsbedingungen geändert oder ergänzt wird, werden erst wirksam,
@@ -650,6 +666,7 @@ Fassung bekannt gemacht werden.
 
 
 ### § 4k Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002001123)
 
 Die Bekanntmachungen nach § 4b Absatz 7 Satz 2 und Absatz 9, § 4c
 Absatz 4, § 4d Absatz 2 Satz 2, § 4e Absatz 4 und § 4j erfolgen im
@@ -658,6 +675,7 @@ Deutschland – Finanzagentur GmbH sowie durch die Deutsche Bundesbank.
 
 
 ### § 5 Bundesschuldbuch
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000500000)
 
 (1) Für den Bund und seine Sondervermögen wird ein Bundesschuldbuch
 geführt, das der Begründung, Dokumentation und Verwaltung von
@@ -688,6 +706,7 @@ eine gesetzlich vorgeschriebene Form als beachtet.
 
 
 ### § 6 Sammelschuldbuchforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000600000)
 
 (1) Der Bund und seine Sondervermögen können Schuldverschreibungen
 dadurch begeben, dass Schuldbuchforderungen bis zur Höhe des
@@ -739,6 +758,7 @@ entscheidet das Bundesministerium der Finanzen.
 
 
 ### § 7 Einzelschuldbuchforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000700000)
 
 (1) Einzelne natürliche oder juristische Personen oder
 Vermögensmassen, deren Verwaltung gesetzlich geregelt ist oder deren
@@ -795,6 +815,7 @@ Verwahrung bei einem Kreditinstitut umgewandelt werden.
 
 
 ### § 8 Öffentlicher Glaube des Bundesschuldbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000800000)
 
 (1) Verfügungen über Einzelschuldbuchforderungen bedürfen zu ihrer
 Wirksamkeit gegenüber dem Schuldner der Eintragung in das
@@ -825,10 +846,12 @@ sind.
 
 
 ## Teil 3 - Sicherungsmaßnahmen zum Compliance-Management
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNG000300119)
 
 
 
 ### § 9 Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE000902119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH hat für die
 Erfüllung der ihr nach § 1 Absatz 1 übertragenen Aufgaben sowie bei
@@ -882,6 +905,7 @@ Körperschaften anfallenden personenbezogenen Daten zu verarbeiten.
 
 
 ### § 10 Verarbeitung personenbezogener Daten durch die Bundesrepublik Deutschland – Finanzagentur GmbH
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002100119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf die nach
 den §§ 9 und 13 bis 17 erhobenen personenbezogenen Daten nur
@@ -913,6 +937,7 @@ Sinne von § 11 sowie Dritte im Sinne von § 17.
 
 
 ### § 11 Durchführung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002200119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf die
 Sicherungsmaßnahmen nach diesem Gesetz auf Grundlage von vertraglichen
@@ -945,6 +970,7 @@ die Bundesrepublik Deutschland – Finanzagentur GmbH.
 
 
 ### § 12 Private Finanzgeschäfte der Beschäftigten der Bundesrepublik Deutschland – Finanzagentur GmbH
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002300119)
 
 (1) Der Bundesrepublik Deutschland – Finanzagentur GmbH wird die
 Befugnis eingeräumt, durch betriebsinterne Weisung oder Vereinbarung
@@ -999,6 +1025,7 @@ geändert worden ist, zu verhindern oder aufzuklären.
 
 
 ### § 13 Speicherung und Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002400119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf
 personenbezogene Daten der in § 12 Absatz 1 Satz 1 genannten Personen
@@ -1056,6 +1083,7 @@ wurde.
 
 
 ### § 14 Allgemeine Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002500119)
 
 Die Bundesrepublik Deutschland – Finanzagentur GmbH ist befugt,
 insbesondere die folgenden allgemeinen Sorgfaltspflichten
@@ -1113,6 +1141,7 @@ risikobasiert umzusetzen:
 
 
 ### § 15 Identifizierung; Erhebung von Angaben zum Zweck der Identifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002600119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH ist befugt,
 Vertragspartner, Verfügungsberechtigte und die gegebenenfalls für
@@ -1216,6 +1245,7 @@ wirtschaftlich Berechtigten nachzuweisen.
 
 
 ### § 16 Überprüfung von Angaben zum Zweck der Identifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002700119)
 
 (1) Die Überprüfung der nach § 15 Absatz 3 verarbeiteten Angaben zum
 Vertragspartner oder Verfügungsberechtigten oder gesetzlichen
@@ -1262,6 +1292,7 @@ Angaben zutreffend sind.
 
 
 ### § 17 Erfüllung der Sorgfaltspflichten durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002800119)
 
 (1) Zur Erfüllung der allgemeinen Sorgfaltspflichten nach § 14 kann
 die Bundesrepublik Deutschland – Finanzagentur GmbH mit vorheriger
@@ -1320,6 +1351,7 @@ die Bundesrepublik Deutschland – Finanzagentur GmbH.
 
 
 ### § 18 Besondere Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE002900119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH darf im Rahmen
 der Wahrnehmung der ihr übertragenen Aufgaben und zum Schutz des
@@ -1399,6 +1431,7 @@ verarbeitet werden.
 
 
 ### § 19 Aufzeichnungs- und Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE003000119)
 
 (1) Die Bundesrepublik Deutschland – Finanzagentur GmbH bewahrt die
 Aufzeichnungen und sonstigen Belege nach den §§ 9 bis 11 und 14 bis 18
@@ -1421,6 +1454,7 @@ erforderlich ist.
 
 
 ### § 20 Freistellung von der Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bschuwg/BJNR146610006.html#BJNR146610006BJNE003100119)
 
 (1) Mitarbeiterinnen und Mitarbeiter sowie Mitglieder der
 Geschäftsführung der Bundesrepublik Deutschland – Finanzagentur GmbH,

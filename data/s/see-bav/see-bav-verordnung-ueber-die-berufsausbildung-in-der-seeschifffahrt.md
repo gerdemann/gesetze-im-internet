@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000100000)
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
 auf Grund
@@ -47,9 +48,11 @@ auf Grund
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000300000)
 
 (1) „STCW-Übereinkommen“ bedeutet das Internationale Übereinkommen von
 1978 über Normen für die Ausbildung, die Erteilung von
@@ -69,12 +72,14 @@ und Verantwortung wahrnimmt.
 
 
 ### § 2 Berufsbezeichnung, staatliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000400000)
 
 Der Ausbildungsberuf in der Seeschifffahrt „Schiffsmechaniker“ oder
 „Schiffsmechanikerin“ ist staatlich anerkannt.
 
 
 ### § 3 Aufgaben der zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000500000)
 
 Die Berufsbildungsstelle Seeschifffahrt e. V.
 
@@ -106,9 +111,11 @@ Die Berufsbildungsstelle Seeschifffahrt e. V.
 
 
 ## Abschnitt 2 - Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNG000200000)
 
 
 ### § 4 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000601119)
 
 (1) Die Berufsausbildung dauert drei Jahre.
 
@@ -123,6 +130,7 @@ Unterbrechung.
 
 
 ### § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000700000)
 
 Gegenstand der Berufsausbildung sind die folgenden Fertigkeiten,
 Kenntnisse und Fähigkeiten:
@@ -188,6 +196,7 @@ Kenntnisse und Fähigkeiten:
 
 
 ### § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000800000)
 
 Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen
 nach der in der Anlage 1 enthaltenen Anleitung zur sachlichen und
@@ -200,6 +209,7 @@ und 15 nachzuweisen.
 
 
 ### § 7 Ausbilder, Ausbildender
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE000900000)
 
 (1) Zum Ausbilder oder zur Ausbilderin (Ausbilder) können unbeschadet
 der sich aus den nachstehenden Vorschriften ergebenden Anforderungen
@@ -280,6 +290,7 @@ Fähigkeiten zu vermitteln.
 
 
 ### § 8 Ausbildungsstätte Schiff
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001000000)
 
 Ein Schiff ist als Ausbildungsstätte von der zuständigen Stelle als
 Ausbildungsstätte anzuerkennen, wenn die folgenden Anforderungen
@@ -323,6 +334,7 @@ erfüllt werden:
 
 
 ### § 9 Eignung der Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001100000)
 
 (1) Auszubildende dürfen nur eingestellt und ausgebildet werden, wenn
 
@@ -375,6 +387,7 @@ Verwaltungsverfahrensgesetzes zu hören.
 
 
 ### § 10 Berufsausbildung außerhalb der Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001200000)
 
 (1) Die zuständige Stelle überwacht die Durchführung der
 überbetrieblichen Ausbildung auf der Grundlage des
@@ -411,6 +424,7 @@ Codes erfüllt werden.
 
 
 ### § 11 Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001300000)
 
 (1) Der Ausbildungsnachweis dient dem Nachweis der praktischen
 Ausbildung und Seefahrtzeit nach den Abschnitten A-II/1, A-II/5,
@@ -433,6 +447,7 @@ Auszubildenden oder der Ausbilder gegenzuzeichnen.
 
 
 ### § 12 Bordzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001400000)
 
 Ausbilder oder Ausbildende haben Auszubildenden bei jedem Ende des
 Borddienstes der Auszubildenden oder der Ausbilder ein Bordzeugnis
@@ -443,9 +458,11 @@ Auszubildenden.
 
 
 ## Abschnitt 3 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNG000300000)
 
 
 ### § 13 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001500000)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2 und ist für Auszubildende
@@ -473,6 +490,7 @@ Muster auszustellen.
 
 
 ### § 14 Abschlussprüfung Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001600000)
 
 (1) Die Abschlussprüfung Teil 1 soll frühestens drei Monate vor und
 spätestens drei Monate nach Ablauf der Hälfte der Ausbildungsdauer
@@ -566,6 +584,7 @@ mit jeweils ausreichenden Leistungen bewertet sein.
 
 
 ### § 15 Abschlussprüfung Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001700000)
 
 (1) Zur Abschlussprüfung Teil 2 ist von der zuständigen Stelle
 zuzulassen:
@@ -685,12 +704,14 @@ doppelte Gewicht.
 
 
 ### § 16 Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001800000)
 
 Für die Abnahme der Abschlussprüfung Teil 1 und Teil 2 errichtet die
 zuständige Stelle Prüfungsausschüsse.
 
 
 ### § 17 Zusammensetzung und Berufung eines Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE001902119)
 
 (1) Ein Prüfungsausschuss besteht aus mindestens drei Mitgliedern. Die
 Mitglieder müssen für die Prüfungsgebiete sachkundig und für die
@@ -729,6 +750,7 @@ Infrastruktur festgesetzt wird.
 
 
 ### § 18 Vorsitz, Beschlussfähigkeit, Abstimmung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002000000)
 
 (1) Der Prüfungsausschuss wählt ein Mitglied, das den Vorsitz führt,
 und ein weiteres Mitglied, das den Vorsitz stellvertretend übernimmt.
@@ -742,6 +764,7 @@ vorsitzenden Mitglieds den Ausschlag.
 
 
 ### § 19 Anmeldung zur Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002100000)
 
 (1) Die zuständige Stelle setzt die Prüfungstermine für ein Jahr im
 Voraus unter Berücksichtigung des Ablaufs der Berufsausbildung und des
@@ -760,6 +783,7 @@ Unterlagen oder falscher Angaben erteilt wurde.
 
 
 ### § 20 Zulassung zur Abschlussprüfung Teil 2 in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002200000)
 
 (1) Zur Abschlussprüfung Teil 2 ist auch zuzulassen, wer nachweist
 
@@ -880,6 +904,7 @@ zu werten.
 
 
 ### § 21 Prüfungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002301119)
 
 (1) Die zuständige Stelle errichtet Ausschüsse zur Erstellung von
 Prüfungsaufgaben, die für die Arbeitsproben, Prüfungsstücke und
@@ -903,6 +928,7 @@ ausgewählt.
 
 
 ### § 22 Nichtöffentlichkeit der Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002401305)
 
 Die Abschlussprüfungen sind nicht öffentlich. Vertreter des
 Bundesministeriums für Verkehr und digitale Infrastruktur, des
@@ -915,6 +941,7 @@ Prüfungsausschusses anwesend sein.
 
 
 ### § 23 Leitung und Aufsicht der Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002500000)
 
 (1) Die Abschlussprüfung wird unter Leitung des vorsitzenden Mitglieds
 vom gesamten Prüfungsausschuss durchgeführt. Der Prüfungsausschuss
@@ -949,6 +976,7 @@ besondere Belange bei der Prüfung zu berücksichtigen.
 
 
 ### § 24 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002600000)
 
 (1) Die Leistungen in den praktischen und schriftlichen Teilen der
 Abschlussprüfung werden wie folgt bewertet:
@@ -988,6 +1016,7 @@ Bewertung auf Grund der Berichte nach § 23 Absatz 3 Satz 2.
 
 
 ### § 25 Nichtbestehen und Wiederholung der Abschlussprüfung Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002700000)
 
 (1) Werden in den schriftlichen Prüfungsgebieten, den einzelnen
 Arbeitsproben oder Prüfungsstücken von dem Prüfling keine
@@ -1021,6 +1050,7 @@ vorausgegangenen Abschlussprüfung anzugeben.
 
 
 ### § 26 Rücktritt von der Abschlussprüfung, Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002800000)
 
 (1) Prüfungsbewerber und Prüfungsbewerberinnen können nach erfolgter
 Anmeldung vor Beginn der Abschlussprüfung durch schriftliche Erklärung
@@ -1043,6 +1073,7 @@ Unfall und Todesfall in der Familie.
 
 
 ### § 27 Ordnungsverstöße und Täuschungsversuche, Ausschluss von der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE002900000)
 
 (1) Der Prüfungsausschuss kann einen Prüfling, der eine ordnungsgemäße
 Durchführung der Prüfung in erheblichem Maße gestört oder sich eines
@@ -1059,6 +1090,7 @@ Prüfung auszuschließen.
 
 
 ### § 28 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003000000)
 
 (1) Die zuständige Stelle gewährt Prüflingen auf Anfrage Einsicht in
 die sie betreffenden Prüfungsunterlagen.
@@ -1070,9 +1102,11 @@ Rechtsmittels gehemmt.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNG000400000)
 
 
 ### § 29 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003100000)
 
 Vor dem 15. September 2013 begonnene Ausbildungsverhältnisse können
 nach bisher geltenden Ausbildungsvorschriften weitergeführt und
@@ -1081,10 +1115,12 @@ Anwendung dieser Verordnung.
 
 
 ### § 30 Änderung der Schiffsbesetzungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003200000)
 
 
 
 ### § 31 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003300000)
 
 (1) Diese Verordnung tritt am 15. September 2013 in Kraft.
 
@@ -1097,6 +1133,7 @@ außer Kraft.
 Ausbildungsrahmenplan
 
 ### Anlage 1 für die Berufsausbildung zum Schiffsmechaniker und zur Schiffsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003400000)
 
 (Fundstelle: BGBl. I 2013, 3574 – 3585)
 
@@ -2740,6 +2777,7 @@ Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten ****
 (zu § 10 Absatz 2)
 
 ### Anlage 2 Berufsausbildung außerhalb der Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003500001)
 
 (Fundstelle: BGBl. I 2013, 3586 – 3590)
 
@@ -3316,6 +3354,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu § 10 Absatz 3)
 
 ### Anlage 3 Berufsausbildung außerhalb der Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/see-bav/BJNR356500013.html#BJNR356500013BJNE003600001)
 
 (Fundstelle: BGBl. I 2013, 3591 – 3593)
 

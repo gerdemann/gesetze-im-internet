@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000100328)
 
 Auf Grund des § 6 Abs. 1 Nr. 11, der §§ 9 und 10 Abs. 1 und der §§ 12
 und 26 Abs. 2 Nr. 2 des Gesetzes zur Durchführung der gemeinsamen
@@ -32,6 +33,7 @@ Bundesminister für Wirtschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000200328)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
@@ -40,6 +42,7 @@ Lagerhaltung bestimmter Fischereierzeugnisse.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000301308)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -47,6 +50,7 @@ Ernährung (Bundesanstalt).
 
 
 ## § 3 Abschluß von Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000401308)
 
 Der in den in § 1 genannten Rechtsakten vorgeschriebene Vertrag, durch
 welchen sich der Anbieter zur Einlagerung der Fischereierzeugnisse
@@ -56,6 +60,7 @@ sein.
 
 
 ## § 4 Gewährung der Lagerbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000501308)
 
 Die Beihilfe ist vom Einlagerer bei der Bundesanstalt schriftlich zu
 beantragen. Der Beihilfebetrag wird durch Bescheid festgesetzt,
@@ -63,11 +68,13 @@ Beihilfeforderungen sind unverzinslich.
 
 
 ## § 5 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000601308)
 
 -
 
 
 ## § 6 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE000701308)
 
 (1) Der Einlagerer hat der Bundesanstalt auf Verlangen die
 Voraussetzungen der Beihilfegewährung nachzuweisen. Die geforderten
@@ -89,11 +96,13 @@ Vorschriften bestehen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE001001308)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fischbeihv/BJNR514400975.html#BJNR514400975BJNE001100328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

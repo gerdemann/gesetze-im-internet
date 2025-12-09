@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrastrveg_bkg/BJNR135020997.html#BJNR135020997BJNE000100305)
 
 (1) Dem in Brüssel am 13. November 1991 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen zwischen den Mitgliedstaaten
@@ -33,6 +34,7 @@ Ratifikationsurkunde eine Erklärung nach Artikel 21 Abs. 3 des
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrastrveg_bkg/BJNR135020997.html#BJNR135020997BJNE000200305)
 
 Bei Ersuchen um Übertragung der Vollstreckung einer Verurteilung nach
 dem Übereinkommen vom 13. November 1991 zwischen den Mitgliedstaaten
@@ -43,6 +45,7 @@ Bekanntmachung vom 27. Juni 1994 (BGBl. I S. 1537) keine Anwendung.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrastrveg_bkg/BJNR135020997.html#BJNR135020997BJNE000300305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-7-68 v. 9.12.2019 I 2153 (IT-FortbV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000100000)
 
 Auf Grund
 
@@ -41,6 +42,7 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -130,6 +132,7 @@ IT“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000400000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -172,6 +175,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000500000)
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
@@ -191,6 +195,7 @@ Die Prüfung umfasst folgende Prüfungsteile:
 
 
 ## § 4 Prüfungsteil „Fachliche Spezialisierung“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000600000)
 
 (1) Der Prüfungsteil „Fachliche Spezialisierung“ umfasst folgende
 Prüfungsbereiche:
@@ -223,6 +228,7 @@ Prüfungsbereiche für die Prüfung auszuwählen.
 
 
 ## § 5 Prüfungsteil „IT-spezifische Handlungsfelder“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000700000)
 
 Der Prüfungsteil „IT-spezifische Handlungsfelder“ umfasst folgende
 Prüfungsbereiche:
@@ -241,6 +247,7 @@ Prüfungsbereiche:
 
 
 ## § 6 Prüfungsteil „Mitarbeitendenführung und Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000800000)
 
 Der Prüfungsteil „Mitarbeitendenführung und Personalmanagement“
 umfasst folgende Prüfungsbereiche:
@@ -255,6 +262,7 @@ umfasst folgende Prüfungsbereiche:
 
 
 ## § 7 Prüfungsteil „IT-Projekt“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE000900000)
 
 Die Prüfung im Prüfungsteil „IT-Projekt“ findet im Prüfungsbereich
 „Planen, Durchführen und Dokumentieren eines IT-Projektes“ nach § 18
@@ -262,6 +270,7 @@ statt.
 
 
 ## § 8 Prüfungsbereich „IT-Infrastrukturen planen, Systeme und Komponenten integrieren und vernetzen sowie Funktion und Betrieb sicherstellen“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001000000)
 
 Im Prüfungsbereich „IT-Infrastrukturen planen, Systeme und Komponenten
 integrieren und vernetzen sowie Funktion und Betrieb sicherstellen“
@@ -434,6 +443,7 @@ folgenden Qualifikationsschwerpunkte geprüft:
 
 
 ## § 9 Prüfungsbereich „Informationssicherheit gewährleisten“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001100000)
 
 Im Prüfungsbereich „Informationssicherheit gewährleisten“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, Bedrohungs-
@@ -661,6 +671,7 @@ folgenden Qualifikationsschwerpunkte geprüft:
 
 
 ## § 10 Prüfungsbereich „Softwarelösungen planen, entwickeln, implementieren und evaluieren“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001200000)
 
 Im Prüfungsbereich „Softwarelösungen planen, entwickeln,
 implementieren und evaluieren“ hat die zu prüfende Person
@@ -883,6 +894,7 @@ geprüft:
 
 
 ## § 11 Prüfungsbereich „Datenanalysen zur Optimierung von betriebs- und produktionswirtschaftlichen Prozessen planen, durchführen und evaluieren“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001300000)
 
 Im Prüfungsbereich „Datenanalysen zur Optimierung von betriebs- und
 produktionswirtschaftlichen Prozessen planen, durchführen und
@@ -1077,6 +1089,7 @@ Inhalten der folgenden Qualifikationsschwerpunkte geprüft:
 
 
 ## § 12 Prüfungsbereich „Beratung und Unterstützung bei der Umsetzung individueller IT-Kundenlösungen“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001400000)
 
 Im Prüfungsbereich „Beratung und Unterstützung bei der Umsetzung
 individueller IT-Kundenlösungen“ hat die zu prüfende Person
@@ -1228,6 +1241,7 @@ aus den Inhalten der folgenden Qualifikationsschwerpunkte geprüft:
 
 
 ## § 13 Prüfungsbereich „Management von IT-Projekten“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001500000)
 
 Im Prüfungsbereich „Management von IT-Projekten“ hat die zu prüfende
 Person nachzuweisen, dass sie in der Lage ist, betriebliche IT-
@@ -1295,6 +1309,7 @@ folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 14 Prüfungsbereich „Management von Prozessen mit IT-Bezug“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001600000)
 
 Im Prüfungsbereich „Management von Prozessen mit IT-Bezug“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, betriebs- und
@@ -1341,6 +1356,7 @@ aus den folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 15 Prüfungsbereich „Management der Einführung und des Betriebs von IT-Lösungen“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001700000)
 
 Im Prüfungsbereich „Management der Einführung und des Betriebs von IT-
 Lösungen“ hat die zu prüfende Person nachzuweisen, dass sie in der
@@ -1416,6 +1432,7 @@ geprüft:
 
 
 ## § 16 Prüfungsbereich „Personalplanung und -entwicklung“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001800000)
 
 Im Prüfungsbereich „Personalplanung und -entwicklung“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, den
@@ -1492,6 +1509,7 @@ diesem Rahmen wird aus den folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 17 Prüfungsbereich „Führen von Mitarbeitenden und Teams“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE001900000)
 
 Im Prüfungsbereich „Führen von Mitarbeitenden und Teams“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, Mitarbeitende
@@ -1550,6 +1568,7 @@ geprüft:
 
 
 ## § 18 Prüfungsbereich „Planen, Durchführen und Dokumentieren eines IT-Projektes“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002000000)
 
 Im Prüfungsbereich „Planen, Durchführen und Dokumentieren eins IT-
 Projektes“ hat die zu prüfende Person nachzuweisen, dass sie in der
@@ -1614,6 +1633,7 @@ folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 19 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002100000)
 
 (1) Die Prüfung im Prüfungsteil „Fachliche Spezialisierung“ nach § 3
 Nummer 1 gliedert sich in
@@ -1666,6 +1686,7 @@ vertreten ist.
 
 
 ## § 20 Schriftliche Prüfung im Prüfungsteil „Fachliche Spezialisierung“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002200000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -1684,6 +1705,7 @@ Minuten betragen.
 
 
 ## § 21 Mündliche Prüfung im Prüfungsteil „Fachliche Spezialisierung“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002300000)
 
 (1) Die mündliche Prüfung besteht aus zwei Prüfungsleistungen in Form
 einer Präsentation und eines sich unmittelbar anschließenden
@@ -1716,6 +1738,7 @@ zu beantworten. Das Fachgespräch soll höchstens 30 Minuten dauern.
 
 
 ## § 22 Schriftliche Prüfung im Prüfungsteil „IT-spezifische Handlungsfelder“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002400000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -1735,6 +1758,7 @@ Minuten betragen.
 
 
 ## § 23 Schriftliche Prüfung im Prüfungsteil „Mitarbeitendenführung und Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002500000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -1752,6 +1776,7 @@ Minuten betragen.
 
 
 ## § 24 Gesprächssimulation im Prüfungsteil „Mitarbeitendenführung und Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002600000)
 
 (1) Für die Gesprächssimulation ist einer der beiden Prüfungsbereiche
 nach § 16 oder § 17 zugrunde zu legen. Dabei hat die zu prüfende
@@ -1768,6 +1793,7 @@ anschließende Reflexion sollen insgesamt höchstens 30 Minuten dauern.
 
 
 ## § 25 Projektarbeit im Prüfungsteil „IT-Projekt“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002700000)
 
 (1) Die Projektarbeit besteht aus einer Prüfungsleistung in Form
 
@@ -1802,6 +1828,7 @@ Abgabetermin ein Zeitraum von höchstens einem Jahr liegen.
 
 
 ## § 26 Mündliche Prüfung im Prüfungsteil „IT-Projekt“
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002800000)
 
 (1) Die mündliche Prüfung besteht aus zwei Prüfungsleistungen in Form
 einer Präsentation und eines sich unmittelbar anschließenden
@@ -1824,6 +1851,7 @@ Zusammenhang mit der Projektarbeit stehen.
 
 
 ## § 27 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE002900000)
 
 (1) Eine mündliche Ergänzungsprüfung ist anzubieten, wenn eine der
 beiden schriftlichen Prüfungsleistungen im Prüfungsteil „Fachliche
@@ -1866,6 +1894,7 @@ die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 28 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003000000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -1954,6 +1983,7 @@ Drittel und die mündliche Prüfung mit zwei Dritteln zu gewichten.
 
 
 ## § 29 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003100000)
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen ohne
 Rundung jeweils mindestens 50 Punkte erreicht worden sind.
@@ -2008,6 +2038,7 @@ ist die Gesamtnote.
 
 
 ## § 30 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003200000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -2018,6 +2049,7 @@ oder § 29 Absatz 4 entsprechend ihrem Verhältnis zueinander.
 
 
 ## § 31 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003300000)
 
 (1) Wer die Prüfung nach § 29 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -2046,6 +2078,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 32 Wiederholung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003400000)
 
 (1) Prüfungsleistungen, die mit weniger als 50 Punkten bewertet worden
 sind, dürfen nach Maßgabe der Absätze 2 bis 5 wiederholt werden.
@@ -2087,6 +2120,7 @@ wiederholen.
 
 
 ## § 33 Befreiung vom schriftlichen Teil der Ausbildereignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003500000)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der Ausbilder-Eignungsverordnung vom
@@ -2094,6 +2128,7 @@ schriftlichen Teil der Prüfung der Ausbilder-Eignungsverordnung vom
 
 
 ## § 34 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003600000)
 
 (1) Prüfungsverfahren, die nach der IT-Fortbildungsverordnung vom 3.
 Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 22 der
@@ -2115,6 +2150,7 @@ dieser Regelung ausgenommen.
 
 
 ## § 35 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003700000)
 
 Diese Verordnung tritt am 1. November 2024 in Kraft. Gleichzeitig
 tritt die IT-Fortbildungsverordnung vom 3. Mai 2002 (BGBl. I S. 1547),
@@ -2124,6 +2160,7 @@ die zuletzt durch Artikel 22 der Verordnung vom 9. Dezember 2019
 (zu den §§ 28 und 29)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 295, S. 19 - 20)
 
@@ -2424,6 +2461,7 @@ die zuletzt durch Artikel 22 der Verordnung vom 9. Dezember 2019
 (zu § 31)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/baproitfprv/BJNR1270A0024.html#BJNR1270A0024BJNE003900000)
 
 (Fundstelle: BGBl. 2024 I Nr. 295, S. 21)
 

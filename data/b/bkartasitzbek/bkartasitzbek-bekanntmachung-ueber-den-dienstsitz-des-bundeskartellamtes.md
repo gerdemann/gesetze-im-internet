@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkartasitzbek/BJNR191700999.html#BJNR191700999BJNE000100305)
 
 Das Bundesministerium für Wirtschaft und Technologie gibt gemäß § 9
 Nr. 3 des Berlin/Bonn-Gesetzes vom 26. April 1994 (BGBl. I S. 918),

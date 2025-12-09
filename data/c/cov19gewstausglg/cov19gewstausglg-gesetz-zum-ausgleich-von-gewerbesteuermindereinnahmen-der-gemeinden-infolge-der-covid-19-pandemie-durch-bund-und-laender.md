@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Pauschaler Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/cov19gewstausglg/BJNR207210020.html#BJNR207210020BJNE000100000)
 
 (1) Der Bund gewährt den Gemeinden zu gleichen Teilen mit dem
 jeweiligen Land für im Jahr 2020 erwartete
@@ -125,6 +126,7 @@ Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Verteilung auf die Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/cov19gewstausglg/BJNR207210020.html#BJNR207210020BJNE000200000)
 
 (1) Die Länder stellen ihren Gemeinden unverzüglich bis spätestens zum
 31\. Dezember 2020 nach Zahlungseingang der Beträge nach § 1 Absatz 3
@@ -225,6 +227,7 @@ Absatz 1 ausgewiesene Betrag verringert sich entsprechend.
 
 
 ## § 3 Sondervorschriften für Berlin und Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/cov19gewstausglg/BJNR207210020.html#BJNR207210020BJNE000300000)
 
 In Berlin und Hamburg steht der Betrag nach § 1 Absatz 2 vollständig
 dem Land zu. § 2 findet keine Anwendung.

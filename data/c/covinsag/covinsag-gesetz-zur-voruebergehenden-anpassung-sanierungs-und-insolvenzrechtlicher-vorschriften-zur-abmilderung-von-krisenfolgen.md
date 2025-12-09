@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aussetzung der Insolvenzantragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000103125)
 
 (1) Die Pflicht zur Stellung eines Insolvenzantrags nach § 15a der
 Insolvenzordnung und nach § 42 Absatz 2 des Bürgerlichen Gesetzbuchs
@@ -58,6 +59,7 @@ Insolvenzreife unzureichend ist.
 
 
 ## § 2 Folgen der Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000204125)
 
 (1) Soweit nach § 1 Absatz 1 die Pflicht zur Stellung eines
 Insolvenzantrags ausgesetzt ist,
@@ -149,6 +151,7 @@ tritt.
 
 
 ## § 3 Eröffnungsgrund bei Gläubigerinsolvenzanträgen
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000300000)
 
 Bei zwischen dem 28. März 2020 und dem 28. Juni 2020 gestellten
 Gläubigerinsolvenzanträgen setzt die Eröffnung des Insolvenzverfahrens
@@ -156,6 +159,7 @@ voraus, dass der Eröffnungsgrund bereits am 1. März 2020 vorlag.
 
 
 ## § 4 Prognose- und Planungszeiträume
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000403125)
 
 (1) Abweichend von § 19 Absatz 2 Satz 1 der Insolvenzordnung ist
 zwischen dem 1. Januar 2021 und dem 31. Dezember 2021 anstelle des
@@ -201,6 +205,7 @@ der Insolvenzordnung bereits verstrichen ist.
 
 
 ## § 4a Höchstfrist für die Antragstellung bei Überschuldung
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000800125)
 
 In dem Zeitraum vom 9. November 2022 bis einschließlich 31. Dezember
 2023 tritt an die Stelle des in § 15a Absatz 1 Satz 2 der
@@ -209,6 +214,7 @@ acht Wochen.
 
 
 ## § 5 Anwendung des bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000500125)
 
 (1) Auf Eigenverwaltungsverfahren, die zwischen dem 1. Januar 2021 und
 dem 31. Dezember 2021 beantragt werden, sind, soweit in den folgenden
@@ -289,6 +295,7 @@ Eigenverwaltung oder Eigenverwaltung aufgehoben wird.
 
 
 ## § 6 Erleichterter Zugang zum Schutzschirmverfahren
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000600125)
 
 Die Zahlungsunfähigkeit eines Schuldners steht der Anwendung des §
 270b der Insolvenzordnung in der bis zum 31. Dezember 2020 geltenden
@@ -321,6 +328,7 @@ entsprechend.
 
 
 ## § 7 Sicherstellung der Gläubigergleichbehandlung bei Stützungsmaßnahmen anlässlich der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/covinsag/BJNR056910020.html#BJNR056910020BJNE000700125)
 
 Der Umstand, dass Forderungen im Zusammenhang mit staatlichen
 Leistungen stehen, die im Rahmen von staatlichen Programmen zur

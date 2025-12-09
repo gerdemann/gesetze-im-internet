@@ -23,6 +23,7 @@ Die v tritt gem. § 3 satz 2 mit ablauf des 31. dezember 2009 außer kraft. § 3
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_12/BJNR086600005.html#BJNR086600005BJNE000101308)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 in Verbindung mit Abs. 3 des
 Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März
@@ -32,6 +33,7 @@ Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_12/BJNR086600005.html#BJNR086600005BJNE000202308)
 
 Abweichend von § 18 Abs. 5 Satz 2 Nr. 1 der Straßenverkehrs-Ordnung
 beträgt die zulässige Höchstgeschwindigkeit für Kraftfahrzeuge mit
@@ -41,6 +43,7 @@ Fahrzeugschein als Wohnmobil bezeichnet sind, auf Autobahnen (Zeichen
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_12/BJNR086600005.html#BJNR086600005BJNE000301308)
 
 Aus den Fahrzeugpapieren von im Ausland zugelassenen Wohnmobilen im
 Sinne des § 1 muss eindeutig zu ersehen sein, dass diese das zulässige
@@ -48,6 +51,7 @@ Gesamtgewicht von 7,5 Tonnen nicht überschreiten.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_12/BJNR086600005.html#BJNR086600005BJNE000401308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

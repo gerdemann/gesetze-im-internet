@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uag-erwv/BJNR033800998.html#BJNR033800998BJNE000100311)
 
 Auf Grund des § 3 des Umweltauditgesetzes vom 7. Dezember 1995 (BGBl.
 I S. 1591) verordnet die Bundesregierung nach Anhörung des
@@ -26,6 +27,7 @@ Umweltgutachterausschusses:
 
 
 ## § 1 Einbeziehung weiterer Bereiche
+[Direktlink](https://www.gesetze-im-internet.de/uag-erwv/BJNR033800998.html#BJNR033800998BJNE000200311)
 
 In den Anwendungsbereich des Gemeinschaftssystems für das
 Umweltmanagement und die Umweltbetriebsprüfung werden Körperschaften
@@ -35,6 +37,7 @@ Anhang zu dieser Verordnung genannten Bereichen gehört.
 
 
 ## § 2 Teilnahmeerklärung
+[Direktlink](https://www.gesetze-im-internet.de/uag-erwv/BJNR033800998.html#BJNR033800998BJNE000300311)
 
 Körperschaften des öffentlichen Rechts und Unternehmen nach § 1
 verwenden für ihren eingetragenen Standort oder für ihre eingetragenen
@@ -72,16 +75,19 @@ Teilnahmeerklärungen:
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uag-erwv/BJNR033800998.html#BJNR033800998BJNE000400311)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/uag-erwv/BJNR033800998.html#BJNR033800998BJNE000500311)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anhang (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/uag-erwv/BJNR033800998.html#BJNR033800998BJNE000600311)
 
 
 1.  Erzeugung von Strom, Gas, Dampf und Heißwasser sowie Recycling,

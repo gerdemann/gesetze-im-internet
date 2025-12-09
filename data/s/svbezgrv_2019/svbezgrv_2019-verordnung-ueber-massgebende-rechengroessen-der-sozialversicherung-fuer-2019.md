@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000100000)
 
 Auf Grund
 
@@ -55,6 +56,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Durchschnittsentgelte in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000200000)
 
 (1) Das Durchschnittsentgelt für das Jahr 2017 beträgt 37 077 Euro.
 
@@ -66,6 +68,7 @@ ergänzt.
 
 
 ## § 2 Bezugsgrößen in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000300000)
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahr 2019 jährlich 37 380 Euro und
@@ -77,6 +80,7 @@ monatlich 2 870 Euro.
 
 
 ## § 3 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000400000)
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahr 2019
 
@@ -108,6 +112,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 
 
 ## § 4 Jahresarbeitsentgeltgrenzen in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000500000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
 Buches Sozialgesetzbuch für das Jahr 2019 beträgt 60 750 Euro.
@@ -117,6 +122,7 @@ Buches Sozialgesetzbuch für das Jahr 2019 beträgt 54 450 Euro.
 
 
 ## § 5 Wert zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000600000)
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:
@@ -135,11 +141,13 @@ ergänzt:
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2019/BJNR202400018.html#BJNR202400018BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

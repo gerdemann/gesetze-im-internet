@@ -24,10 +24,12 @@ Zuletzt geändert durch
 Stand: Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 
 ## Erster Abschnitt - Das Patent
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000100311)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE001902377)
 
 (1) Patente werden für Erfindungen auf allen Gebieten der Technik
 erteilt, sofern sie neu sind, auf einer erfinderischen Tätigkeit
@@ -68,6 +70,7 @@ wird.
 
 
 ### § 1a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017400377)
 
 (1) Der menschliche Körper in den einzelnen Phasen seiner Entstehung
 und Entwicklung, einschließlich der Keimzellen, sowie die bloße
@@ -93,6 +96,7 @@ konkret beschrieben ist, in den Patentanspruch aufzunehmen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002003377)
 
 (1) Für Erfindungen, deren gewerbliche Verwertung gegen die
 öffentliche Ordnung oder die guten Sitten verstoßen würde, werden
@@ -125,6 +129,7 @@ Vorschriften des Embryonenschutzgesetzes maßgeblich.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017502360)
 
 (1) Patente werden nicht erteilt für
 
@@ -185,6 +190,7 @@ Vorschriften des Embryonenschutzgesetzes maßgeblich.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002105360)
 
 (1) Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik
 gehört. Der Stand der Technik umfaßt alle Kenntnisse, die vor dem für
@@ -263,6 +269,7 @@ für Verbraucherschutz im Bundesanzeiger bekanntgemacht.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002200311)
 
 Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend,
 wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem
@@ -272,6 +279,7 @@ Beurteilung der erfinderischen Tätigkeit nicht in Betracht gezogen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002301377)
 
 Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf
 irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft
@@ -279,6 +287,7 @@ hergestellt oder benutzt werden kann.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002401360)
 
 Das Recht auf das Patent hat der Erfinder oder sein Rechtsnachfolger.
 Haben mehrere gemeinsam eine Erfindung gemacht, so steht ihnen das
@@ -288,6 +297,7 @@ Erfindung zuerst beim Deutschen Patent- und Markenamt angemeldet hat.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002501360)
 
 (1) Damit die sachliche Prüfung der Patentanmeldung durch die
 Feststellung des Erfinders nicht verzögert wird, gilt im Verfahren vor
@@ -303,6 +313,7 @@ Anspruch nehmen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002600311)
 
 Der Berechtigte, dessen Erfindung von einem Nichtberechtigten
 angemeldet ist, oder der durch widerrechtliche Entnahme Verletzte kann
@@ -320,6 +331,7 @@ Patents nicht in gutem Glauben war.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002701377)
 
 Das Patent hat die Wirkung, dass allein der Patentinhaber befugt ist,
 die patentierte Erfindung im Rahmen des geltenden Rechts zu benutzen.
@@ -347,6 +359,7 @@ Jedem Dritten ist es verboten, ohne seine Zustimmung
 
 
 ### § 9a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017600377)
 
 (1) Betrifft das Patent biologisches Material, das auf Grund einer
 Erfindung mit bestimmten Eigenschaften ausgestattet ist, so erstrecken
@@ -372,6 +385,7 @@ enthalten ist und ihre Funktion erfüllt. § 1a Abs. 1 bleibt unberührt.
 
 
 ### § 9b
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017700377)
 
 Bringt der Patentinhaber oder mit seiner Zustimmung ein Dritter
 biologisches Material, das auf Grund der Erfindung mit bestimmten
@@ -387,6 +401,7 @@ generative oder vegetative Vermehrung verwendet wird.
 
 
 ### § 9c
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017800377)
 
 (1) Wird pflanzliches Vermehrungsmaterial durch den Patentinhaber oder
 mit dessen Zustimmung durch einen Dritten an einen Landwirt zum Zweck
@@ -420,6 +435,7 @@ Saat- oder Pflanzgut angebaut hat.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002800311)
 
 (1) Das Patent hat ferner die Wirkung, daß es jedem Dritten verboten
 ist, ohne Zustimmung des Patentinhabers im Geltungsbereich dieses
@@ -442,6 +458,7 @@ Benutzung der Erfindung berechtigt sind.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE002902377)
 
 Die Wirkung des Patents erstreckt sich nicht auf
 
@@ -497,6 +514,7 @@ Die Wirkung des Patents erstreckt sich nicht auf
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003000311)
 
 (1) Die Wirkung des Patents tritt gegen den nicht ein, der zur Zeit
 der Anmeldung bereits im Inland die Erfindung in Benutzung genommen
@@ -519,6 +537,7 @@ Priorität einer ausländischen Anmeldung in Anspruch nehmen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003101377)
 
 (1) Die Wirkung des Patents tritt insoweit nicht ein, als die
 Bundesregierung anordnet, daß die Erfindung im Interesse der
@@ -543,6 +562,7 @@ als Patentinhaber Eingetragenen davon Mitteilung zu machen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003201377)
 
 Der Schutzbereich des Patents und der Patentanmeldung wird durch die
 Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind
@@ -550,6 +570,7 @@ jedoch zur Auslegung der Patentansprüche heranzuziehen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003301309)
 
 (1) Das Recht auf das Patent, der Anspruch auf Erteilung des Patents
 und das Recht aus dem Patent gehen auf die Erben über. Sie können
@@ -567,12 +588,14 @@ Lizenzen, die Dritten vorher erteilt worden sind.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003402360)
 
 Das Patent dauert zwanzig Jahre, die mit dem Tag beginnen, der auf die
 Anmeldung der Erfindung folgt.
 
 
 ### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016810360)
 
 (1) Für das Patent kann nach Maßgabe von Verordnungen der Europäischen
 Gemeinschaften über die Schaffung von ergänzenden Schutzzertifikaten,
@@ -605,6 +628,7 @@ sind, gelten auch für den ergänzenden Schutz.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003503360)
 
 Für jede Anmeldung und jedes Patent ist für das dritte und jedes
 folgende Jahr, gerechnet vom Anmeldetag an, eine Jahresgebühr zu
@@ -612,10 +636,12 @@ entrichten.
 
 
 ### (XXXX) §§ 18 und 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003601377)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003803360)
 
 (1) Das Patent erlischt, wenn
 
@@ -635,6 +661,7 @@ Patent- und Markenamt; die §§ 73 und 100 bleiben unberührt.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE003901301)
 
 (1) Das Patent wird widerrufen (§ 61), wenn sich ergibt, daß
 
@@ -674,6 +701,7 @@ Aufrechterhaltung ist diese Bestimmung entsprechend anzuwenden.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004001377)
 
 (1) Das Patent wird auf Antrag (§ 81) für nichtig erklärt, wenn sich
 ergibt, daß einer der in § 21 Abs. 1 aufgezählten Gründe vorliegt oder
@@ -683,6 +711,7 @@ der Schutzbereich des Patents erweitert worden ist.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004106125)
 
 (1) Erklärt sich der Patentanmelder oder der im Register (§ 30 Abs. 1)
 als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt
@@ -741,6 +770,7 @@ Ablauf einer Frist von weiteren vier Monaten gezahlt werden.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004202377)
 
 (1) Die nicht ausschließliche Befugnis zur gewerblichen Benutzung
 einer Erfindung wird durch das Patentgericht im Einzelfall nach
@@ -815,6 +845,7 @@ Zeitrang übertragen werden.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004304360)
 
 (1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an
 einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent-
@@ -839,10 +870,12 @@ Patent- und Markenamt oder dem Patentgericht angezeigt wird.
 
 
 ## Zweiter Abschnitt - Deutsches Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000201360)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004404360)
 
 (1) Das Deutsche Patent- und Markenamt ist eine selbständige
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums der
@@ -877,6 +910,7 @@ Vorschriften über Mitglieder auch für die Hilfsmitglieder.
 
 
 ### § 26a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE019200360)
 
 (1) Das Deutsche Patent- und Markenamt hat die Aufgabe, die
 Öffentlichkeit, insbesondere auch kleine und mittlere Unternehmen, in
@@ -893,6 +927,7 @@ urheberrechtliche Belange. § 65a des Markengesetzes bleibt unberührt.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004506360)
 
 (1) Im Deutschen Patent- und Markenamt werden gebildet
 
@@ -958,6 +993,7 @@ Abstimmungen nicht teilnehmen.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004604360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -982,6 +1018,7 @@ Markenamt übertragen.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004703360)
 
 (1) Das Deutsche Patent- und Markenamt ist verpflichtet, auf Ersuchen
 der Gerichte oder der Staatsanwaltschaften über Fragen, die Patente
@@ -1007,6 +1044,7 @@ auf das Deutsche Patent- und Markenamt übertragen.
 
 
 ### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE019001360)
 
 (1) Das Deutsche Patent- und Markenamt darf Werke oder andere nach dem
 Urheberrechtsgesetz geschützte Schutzgegenstände für seine
@@ -1025,6 +1063,7 @@ Absatz 3 bis 5 des Urheberrechtsgesetzes ist entsprechend anzuwenden.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004808360)
 
 (1) Das Deutsche Patent- und Markenamt führt ein Register, das die
 Bezeichnung der Patentanmeldungen, in deren Akten jedermann Einsicht
@@ -1077,6 +1116,7 @@ Lizenznehmers oder seines Rechtsnachfolgers.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE004909360)
 
 (1) Das Deutsche Patent- und Markenamt gewährt jedermann auf Antrag
 Einsicht in die Akten sowie in die zu den Akten gehörenden Modelle und
@@ -1152,6 +1192,7 @@ entsprechend anzuwenden.
 
 
 ### § 31a Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018900123)
 
 Soweit personenbezogene Daten im Register oder in öffentlich
 zugänglichen elektronischen Informationsdiensten des Deutschen Patent-
@@ -1178,6 +1219,7 @@ Markenamtes nehmen kann.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005006360)
 
 (1) Das Deutsche Patent- und Markenamt veröffentlicht
 
@@ -1231,6 +1273,7 @@ die Akten von Patentanmeldungen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005101377)
 
 (1) Von der Veröffentlichung des Hinweises gemäß § 32 Abs. 5 an kann
 der Anmelder von demjenigen, der den Gegenstand der Anmeldung benutzt
@@ -1251,10 +1294,12 @@ Gesetzbuchs entsprechende Anwendung.
 
 
 ## Dritter Abschnitt - Verfahren vor dem Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000302360)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005204360)
 
 (1) Eine Erfindung ist zur Erteilung eines Patents beim Deutschen
 Patent- und Markenamt anzumelden.
@@ -1320,6 +1365,7 @@ Rechtsverordnung auf das Deutsche Patent- und Markenamt übertragen.
 
 
 ### § 34a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017902360)
 
 (1) Hat eine Erfindung biologisches Material pflanzlichen oder
 tierischen Ursprungs zum Gegenstand oder wird dabei derartiges
@@ -1338,6 +1384,7 @@ des Hinweises gemäß § 32 Absatz 5 mit.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005304360)
 
 (1) Der Anmeldetag der Patentanmeldung ist der Tag, an dem die
 Unterlagen nach § 34 Abs. 3 Nr. 1 und 2 und, soweit sie jedenfalls
@@ -1371,6 +1418,7 @@ Zeichnungen als nicht erfolgt.
 
 
 ### § 35a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018802360)
 
 (1) Ist die Anmeldung nicht oder teilweise nicht in deutscher Sprache
 abgefasst, so hat der Anmelder eine deutsche Übersetzung innerhalb
@@ -1399,6 +1447,7 @@ Markenamt als erteilt.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005402360)
 
 (1) Der Anmeldung ist eine Zusammenfassung beizufügen, die noch bis
 zum Ablauf von fünfzehn Monaten nach dem Anmeldetag oder, sofern für
@@ -1431,6 +1480,7 @@ diejenige Zeichnung, die die Erfindung am deutlichsten kennzeichnet.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005503360)
 
 (1) Der Anmelder hat innerhalb von fünfzehn Monaten nach dem
 Anmeldetag oder, sofern für die Anmeldung ein früherer Zeitpunkt als
@@ -1451,6 +1501,7 @@ verlängert werden.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005600311)
 
 Bis zum Beschluß über die Erteilung des Patents sind Änderungen der in
 der Anmeldung enthaltenen Angaben, die den Gegenstand der Anmeldung
@@ -1463,6 +1514,7 @@ Rechte nicht hergeleitet werden.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005704360)
 
 (1) Der Anmelder kann die Anmeldung jederzeit teilen. Die Teilung ist
 schriftlich zu erklären. Wird die Teilung nach Stellung des
@@ -1487,6 +1539,7 @@ entrichtet, so gilt die Teilungserklärung als nicht abgegeben.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005803360)
 
 (1) Dem Anmelder steht innerhalb einer Frist von zwölf Monaten nach
 dem Anmeldetag einer beim Deutschen Patent- und Markenamt
@@ -1521,6 +1574,7 @@ Gebrauchsmusteranmeldung zu den Akten der späteren Anmeldung.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE005904360)
 
 (1) Wer nach einem Staatsvertrag die Priorität einer früheren
 ausländischen Anmeldung derselben Erfindung in Anspruch nimmt, hat vor
@@ -1544,6 +1598,7 @@ ist; Absatz 1 ist anzuwenden.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006004360)
 
 (1) Genügt die Anmeldung den Anforderungen der §§ 34, 36, 37 und 38
 offensichtlich nicht, so fordert die Prüfungsstelle den Anmelder auf,
@@ -1580,6 +1635,7 @@ dazu innerhalb einer bestimmten Frist zu äußern.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006104360)
 
 (1) Das Deutsche Patent- und Markenamt ermittelt auf Antrag den Stand
 der Technik, der für die Beurteilung der Patentfähigkeit der
@@ -1661,6 +1717,7 @@ Patenterteilungsverfahren durch Rechtsverordnung zu bestimmen, dass
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006205360)
 
 (1) Das Deutsche Patent- und Markenamt prüft auf Antrag, ob die
 Anmeldung den Anforderungen der §§ 34, 37 und 38 genügt und ob der
@@ -1698,6 +1755,7 @@ des vom Anmelder gestellten Antrags auf Prüfung befindet.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006301307)
 
 (1) Genügt die Anmeldung den Anforderungen der §§ 34, 37 und 38 nicht
 oder sind die Anforderungen des § 36 offensichtlich nicht erfüllt, so
@@ -1713,6 +1771,7 @@ innerhalb einer bestimmten Frist zu äußern.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006403360)
 
 (1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und
 anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich
@@ -1733,6 +1792,7 @@ anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006502123)
 
 (1) Die Beschlüsse der Prüfungsstelle sind zu begründen und den
 Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung
@@ -1756,6 +1816,7 @@ gegeben sei; § 123 ist entsprechend anzuwenden.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006601307)
 
 Die Prüfungsstelle weist die Anmeldung zurück, wenn die nach § 45 Abs.
 1 gerügten Mängel nicht beseitigt werden oder wenn die Prüfung ergibt,
@@ -1764,6 +1825,7 @@ daß eine nach den §§ 1 bis 5 patentfähige Erfindung nicht vorliegt. §
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006702360)
 
 (1) Genügt die Anmeldung den Anforderungen der §§ 34, 37 und 38, sind
 nach § 45 Abs. 1 gerügte Mängel der Zusammenfassung beseitigt und ist
@@ -1778,6 +1840,7 @@ Anspruch genommen wird, mit diesem Zeitpunkt beginnt.
 
 
 ### § 49a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016904140)
 
 (1) Beantragt der als Patentinhaber Eingetragene einen ergänzenden
 Schutz, so prüft die Patentabteilung, ob die Anmeldung der
@@ -1814,6 +1877,7 @@ vor der Patentabteilung anzuwenden.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006800311)
 
 (1) Wird ein Patent für eine Erfindung nachgesucht, die ein
 Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist, so ordnet die
@@ -1842,6 +1906,7 @@ Auflage anvertraut wird, die Geheimhaltung zu wahren.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE006901360)
 
 Das Deutsche Patent- und Markenamt hat der zuständigen obersten
 Bundesbehörde zur Prüfung der Frage, ob jede Veröffentlichung gemäß §
@@ -1850,6 +1915,7 @@ Anordnung aufzuheben ist, Einsicht in die Akten zu gewähren.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007000311)
 
 (1) Eine Patentanmeldung, die ein Staatsgeheimnis (§ 93 des
 Strafgesetzbuches) enthält, darf außerhalb des Geltungsbereichs dieses
@@ -1870,6 +1936,7 @@ bestraft, wer
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007101360)
 
 (1) Wird dem Anmelder innerhalb von vier Monaten seit der Anmeldung
 der Erfindung beim Deutschen Patent- und Markenamt keine Anordnung
@@ -1888,6 +1955,7 @@ verlängern.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007201377)
 
 Ist auf eine Anmeldung, für die eine Anordnung nach § 50 Abs. 1
 ergangen ist, ein Patent erteilt worden, so ist das Patent in ein
@@ -1896,6 +1964,7 @@ Register ist § 31 Abs. 5 Satz 1 entsprechend anzuwenden.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007301360)
 
 (1) Ein Anmelder, Patentinhaber oder sein Rechtsnachfolger, der die
 Verwertung einer nach den §§ 1 bis 5 patentfähigen Erfindung für
@@ -1926,6 +1995,7 @@ Verteidigungsgründen geheimgehalten worden ist.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007400311)
 
 Die Bundesregierung wird ermächtigt, die zuständige oberste
 Bundesbehörde im Sinne des § 31 Abs. 5 und der §§ 50 bis 55 und 74
@@ -1933,11 +2003,13 @@ Abs. 2 durch Rechtsverordnung zu bestimmen.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007501377)
 
 (weggefallen)
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007601377)
 
 (1) Die Erteilung des Patents wird im Patentblatt veröffentlicht.
 Gleichzeitig wird die Patentschrift veröffentlicht. Mit der
@@ -1956,6 +2028,7 @@ Patentkostengesetzes), so gilt die Anmeldung als zurückgenommen.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007703123)
 
 (1) Innerhalb von neun Monaten nach der Veröffentlichung der Erteilung
 kann jeder, im Falle der widerrechtlichen Entnahme nur der Verletzte,
@@ -2001,11 +2074,13 @@ Einspruchsverfahren entsprechend anzuwenden.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007801301)
 
 (weggefallen)
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE007902360)
 
 (1) Die Patentabteilung entscheidet durch Beschluss. Auf einen
 zulässigen Einspruch hin entscheidet die Patentabteilung, ob und in
@@ -2047,6 +2122,7 @@ ist zu veröffentlichen.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008004360)
 
 (1) In dem Beschluß nach § 61 Abs. 1 kann die Patentabteilung nach
 billigem Ermessen bestimmen, inwieweit einem Beteiligten die durch
@@ -2072,6 +2148,7 @@ Urkundsbeamten der Geschäftsstelle des Patentgerichts erteilt.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008104360)
 
 (1) Auf der Offenlegungsschrift (§ 32 Abs. 2), auf der Patentschrift
 (§ 32 Abs. 3) sowie in der Veröffentlichung der Erteilung des Patents
@@ -2105,6 +2182,7 @@ durch Rechtsverordnung auf das Deutsche Patent- und Markenamt
 
 
 ### § 64
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008202377)
 
 (1) Das Patent kann auf Antrag des Patentinhabers widerrufen oder
 durch Änderung der Patentansprüche mit rückwirkender Kraft beschränkt
@@ -2121,10 +2199,12 @@ stattgegeben wird, die Patentschrift der Beschränkung anzupassen; die
 
 
 ## Vierter Abschnitt - Patentgericht
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000400311)
 
 
 
 ### § 65
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008304360)
 
 (1) Für die Entscheidungen über Beschwerden gegen Beschlüsse der
 Prüfungsstellen oder Patentabteilungen des Deutschen Patent- und
@@ -2150,6 +2230,7 @@ Richter, Beamten, Angestellten und Arbeiter aus.
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008402301)
 
 (1) Im Patentgericht werden gebildet
 
@@ -2167,6 +2248,7 @@ Verbraucherschutz.
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008503360)
 
 (1) Der Beschwerdesenat entscheidet in der Besetzung mit
 
@@ -2213,6 +2295,7 @@ Richtern, unter denen sich ein rechtskundiges Mitglied befinden muß.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008602301)
 
 Für das Patentgericht gelten die Vorschriften des Zweiten Titels des
 Gerichtsverfassungsgesetzes nach folgender Maßgabe entsprechend:
@@ -2236,6 +2319,7 @@ Gerichtsverfassungsgesetzes nach folgender Maßgabe entsprechend:
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008701360)
 
 (1) Die Verhandlung vor den Beschwerdesenaten ist öffentlich, sofern
 ein Hinweis auf die Möglichkeit der Akteneinsicht nach § 32 Abs. 5
@@ -2267,6 +2351,7 @@ entsprechend.
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008800311)
 
 (1) Für die Beschlußfassung in den Senaten bedarf es der Beratung und
 Abstimmung. Hierbei darf nur die gesetzlich bestimmte Anzahl der
@@ -2285,6 +2370,7 @@ Zuletzt stimmt der Vorsitzende.
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE008900311)
 
 (1) Beim Patentgericht können Richter kraft Auftrags verwendet werden.
 § 65 Abs. 2 Satz 3 ist anzuwenden.
@@ -2294,6 +2380,7 @@ Vorsitz führen.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009001301)
 
 Beim Patentgericht wird eine Geschäftsstelle eingerichtet, die mit der
 erforderlichen Anzahl von Urkundsbeamten besetzt wird. Die Einrichtung
@@ -2302,14 +2389,17 @@ Verbraucherschutz.
 
 
 ## Fünfter Abschnitt - Verfahren vor dem Patentgericht
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000500311)
 
 
 
 ### 1. - Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000600311)
 
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009103360)
 
 (1) Gegen die Beschlüsse der Prüfungsstellen und Patentabteilungen
 findet die Beschwerde statt.
@@ -2336,6 +2426,7 @@ nicht.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009201360)
 
 (1) Die Beschwerde steht den am Verfahren vor dem Deutschen Patent-
 und Markenamt Beteiligten zu.
@@ -2345,6 +2436,7 @@ Beschwerde auch der zuständigen obersten Bundesbehörde zu.
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009300311)
 
 (1) Die Beschwerde hat aufschiebende Wirkung.
 
@@ -2354,6 +2446,7 @@ Anordnung nach § 50 Abs. 1 erlassen worden ist.
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009401360)
 
 Der Präsident des Deutschen Patent- und Markenamts kann, wenn er dies
 zur Wahrung des öffentlichen Interesses als angemessen erachtet, im
@@ -2364,6 +2457,7 @@ den Beteiligten von dem Patentgericht mitzuteilen.
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009501360)
 
 Das Patentgericht kann, wenn es dies wegen einer Rechtsfrage von
 grundsätzlicher Bedeutung als angemessen erachtet, dem Präsidenten des
@@ -2373,6 +2467,7 @@ Präsident des Patentamts die Stellung eines Beteiligten.
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009600311)
 
 Eine mündliche Verhandlung findet statt, wenn
 
@@ -2389,6 +2484,7 @@ Eine mündliche Verhandlung findet statt, wenn
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009701360)
 
 (1) Über die Beschwerde wird durch Beschluß entschieden.
 
@@ -2418,6 +2514,7 @@ legen.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009804360)
 
 (1) Sind an dem Verfahren mehrere Personen beteiligt, so kann das
 Patentgericht bestimmen, daß die Kosten des Verfahrens einem
@@ -2445,10 +2542,12 @@ entsprechend anzuwenden.
 
 
 ### 2. - Nichtigkeits- und Zwangslizenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000701307)
 
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE009907360)
 
 (1) Das Verfahren wegen Erklärung der Nichtigkeit des Patents oder des
 ergänzenden Schutzzertifikats oder wegen Erteilung oder Rücknahme der
@@ -2496,6 +2595,7 @@ Wird die Frist versäumt, so gilt die Klage als zurückgenommen.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010002360)
 
 (1) Das Patentgericht stellt dem Beklagten die Klage unverzüglich zu
 und fordert ihn auf, sich darüber innerhalb eines Monats zu erklären.
@@ -2519,6 +2619,7 @@ mündlichen Verhandlung abgesehen werden. Absatz 2 bleibt unberührt.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010102360)
 
 (1) In dem Verfahren wegen Erklärung der Nichtigkeit des Patents oder
 des ergänzenden Schutzzertifikats weist das Patentgericht die Parteien
@@ -2573,6 +2674,7 @@ Der Entschuldigungsgrund ist glaubhaft zu machen.
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010200311)
 
 (1) Über die Klage wird durch Urteil entschieden. Über die
 Zulässigkeit der Klage kann durch Zwischenurteil vorab entschieden
@@ -2588,6 +2690,7 @@ entsprechend anzuwenden. § 99 Abs. 2 bleibt unberührt.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010305360)
 
 (1) In dem Verfahren wegen Erteilung der Zwangslizenz kann dem Kläger
 auf seinen Antrag die Benutzung der Erfindung durch einstweilige
@@ -2624,6 +2727,7 @@ Vollstreckung entstanden ist.
 
 
 #### § 85a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018600140)
 
 (1) Die Verfahren nach Artikel 5 Buchstabe c, Artikel 6, 10 Abs. 8 und
 Artikel 16 Abs. 1 und 4 der Verordnung (EG) Nr. 816/2006 des
@@ -2638,10 +2742,12 @@ Verfahren nicht durch die Verordnung (EG) Nr. 816/2006 bestimmt sind.
 
 
 ### 3. - Gemeinsame Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000800311)
 
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010401360)
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
 die §§ 41 bis 44, 47 bis 49 der Zivilprozeßordnung entsprechend.
@@ -2671,6 +2777,7 @@ dessen Geschäftsbereich die Sache fällt.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010500311)
 
 (1) Das Patentgericht erforscht den Sachverhalt von Amts wegen. Es ist
 an das Vorbringen und die Beweisanträge der Beteiligten nicht
@@ -2686,6 +2793,7 @@ entsprechend.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010600311)
 
 (1) Das Patentgericht erhebt Beweis in der mündlichen Verhandlung. Es
 kann insbesondere Augenschein einnehmen, Zeugen, Sachverständige und
@@ -2703,6 +2811,7 @@ beanstandet, so entscheidet das Patentgericht.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010700311)
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind
 die Beteiligten mit einer Ladungsfrist von mindestens zwei Wochen zu
@@ -2713,6 +2822,7 @@ Beteiligten auch ohne ihn verhandelt und entschieden werden kann.
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010800311)
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung.
 
@@ -2724,6 +2834,7 @@ stellen und zu begründen.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE010900311)
 
 (1) Der Vorsitzende hat die Sache mit den Beteiligten tatsächlich und
 rechtlich zu erörtern.
@@ -2738,6 +2849,7 @@ beschließen.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011000311)
 
 (1) Zur mündlichen Verhandlung und zu jeder Beweisaufnahme wird ein
 Urkundsbeamter der Geschäftsstelle als Schriftführer zugezogen. Wird
@@ -2750,6 +2862,7 @@ sind entsprechend anzuwenden.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011100311)
 
 (1) Das Patentgericht entscheidet nach seiner freien, aus dem
 Gesamtergebnis des Verfahrens gewonnenen Überzeugung. In der
@@ -2765,6 +2878,7 @@ bei der Beschlußfassung nur mitwirken, wenn die Beteiligten zustimmen.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011200311)
 
 (1) Die Endentscheidungen des Patentgerichts werden, wenn eine
 mündliche Verhandlung stattgefunden hat, in dem Termin, in dem die
@@ -2783,6 +2897,7 @@ begründen.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011300311)
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
 in der Entscheidung sind jederzeit vom Patentgericht zu berichtigen.
@@ -2793,6 +2908,7 @@ Entscheidung und den Ausfertigungen vermerkt.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011400311)
 
 (1) Enthält der Tatbestand der Entscheidung andere Unrichtigkeiten
 oder Unklarheiten, so kann die Berichtigung innerhalb von zwei Wochen
@@ -2806,6 +2922,7 @@ vermerkt.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011501377)
 
 (1) Die Beteiligten können vor dem Patentgericht den Rechtsstreit
 selbst führen. § 25 bleibt unberührt.
@@ -2858,11 +2975,13 @@ Rechtsanwalt oder ein Patentanwalt auftritt.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011601377)
 
 (weggefallen)
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011701307)
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
 Patentgericht enthält, sind das Gerichtsverfassungsgesetz und die
@@ -2882,14 +3001,17 @@ Patentinhaber ein entgegenstehendes schutzwürdiges Interesse dartut.
 
 
 ## Sechster Abschnitt - Verfahren vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG000900311)
 
 
 
 ### 1. - Rechtsbeschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001000311)
 
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011802301)
 
 (1) Gegen die Beschlüsse der Beschwerdesenate des Patentgerichts,
 durch die über eine Beschwerde nach § 73 oder über die
@@ -2942,6 +3064,7 @@ wird:
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE011901377)
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
 zu.
@@ -2952,6 +3075,7 @@ der Zivilprozessordnung gelten entsprechend.
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012003377)
 
 (1) Die Rechtsbeschwerde ist innerhalb eines Monats nach Zustellung
 des Beschlusses beim Bundesgerichtshof schriftlich einzulegen.
@@ -2988,12 +3112,14 @@ das Wort zu gestatten. § 143 Abs. 3 gilt entsprechend.
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012100311)
 
 Die Rechtsbeschwerde hat aufschiebende Wirkung. § 75 Abs. 2 gilt
 entsprechend.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012200311)
 
 Der Bundesgerichtshof hat von Amts wegen zu prüfen, ob die
 Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form
@@ -3003,6 +3129,7 @@ verwerfen.
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012301360)
 
 (1) Sind an dem Verfahren über die Rechtsbeschwerde mehrere Personen
 beteiligt, so sind die Beschwerdeschrift und die Beschwerdebegründung
@@ -3020,6 +3147,7 @@ entsprechend anzuwenden.
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012401307)
 
 (1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der
 Zivilprozeßordnung über Ausschließung und Ablehnung der
@@ -3034,6 +3162,7 @@ entsprechend.
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012500311)
 
 (1) Die Entscheidung über die Rechtsbeschwerde ergeht durch Beschluß;
 sie kann ohne mündliche Verhandlung getroffen werden.
@@ -3048,6 +3177,7 @@ wegen zuzustellen.
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012600311)
 
 (1) Im Falle der Aufhebung des angefochtenen Beschlusses ist die Sache
 zur anderweiten Verhandlung und Entscheidung an das Patentgericht
@@ -3059,6 +3189,7 @@ legen.
 
 
 #### § 109
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012701360)
 
 (1) Sind an dem Verfahren über die Rechtsbeschwerde mehrere Personen
 beteiligt, so kann der Bundesgerichtshof bestimmen, daß die Kosten,
@@ -3080,10 +3211,12 @@ Kostenfestsetzungsbeschlüssen entsprechend.
 
 
 ### 2. - Berufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001100311)
 
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012802140)
 
 (1) Gegen die Urteile der Nichtigkeitssenate des Patentgerichts (§ 84)
 findet die Berufung an den Bundesgerichtshof statt.
@@ -3121,6 +3254,7 @@ Zivilprozessordnung gelten entsprechend.
 
 
 #### § 111
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE012902140)
 
 (1) Die Berufung kann nur darauf gestützt werden, dass die
 Entscheidung des Patentgerichts auf der Verletzung des Bundesrechts
@@ -3165,6 +3299,7 @@ beruhend anzusehen,
 
 
 #### § 112
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013002140)
 
 (1) Der Berufungskläger muss die Berufung begründen.
 
@@ -3215,6 +3350,7 @@ anzuwenden.
 
 
 #### § 113
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013102140)
 
 Vor dem Bundesgerichtshof müssen sich die Parteien durch einen
 Rechtsanwalt oder einen Patentanwalt als Bevollmächtigten vertreten
@@ -3223,6 +3359,7 @@ Beistand zu erscheinen.
 
 
 #### § 114
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013202140)
 
 (1) Der Bundesgerichtshof prüft von Amts wegen, ob die Berufung an
 sich statthaft und ob sie in der gesetzlichen Form und Frist eingelegt
@@ -3240,6 +3377,7 @@ bekannt zu machen.
 
 
 #### § 115
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013301140)
 
 (1) Der Berufungsbeklagte kann sich der Berufung anschließen. Die
 Anschließung ist auch statthaft, wenn der Berufungsbeklagte auf die
@@ -3260,6 +3398,7 @@ zurückgenommen oder verworfen wird.
 
 
 #### § 116
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013401140)
 
 (1) Der Prüfung des Bundesgerichtshofs unterliegen nur die von den
 Parteien gestellten Anträge.
@@ -3282,6 +3421,7 @@ zulässig, wenn
 
 
 #### § 117
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013501140)
 
 Auf den Prüfungsumfang des Berufungsgerichts, die verspätet
 vorgebrachten, die zurückgewiesenen und die neuen Angriffs- und
@@ -3291,6 +3431,7 @@ des § 520 der Zivilprozessordnung der § 112.
 
 
 #### § 118
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013601140)
 
 (1) Das Urteil des Bundesgerichtshofs ergeht auf Grund mündlicher
 Verhandlung. § 69 Abs. 2 gilt entsprechend.
@@ -3313,6 +3454,7 @@ Parteien, ergeht das Urteil auf Grund der Akten.
 
 
 #### § 119
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013701140)
 
 (1) Ergibt die Begründung des angefochtenen Urteils zwar eine
 Rechtsverletzung, stellt die Entscheidung selbst aber aus anderen
@@ -3337,6 +3479,7 @@ zur Endentscheidung reif ist.
 
 
 #### § 120
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013801140)
 
 Die Entscheidung braucht nicht begründet zu werden, soweit der
 Bundesgerichtshof Rügen von Verfahrensmängeln nicht für durchgreifend
@@ -3344,6 +3487,7 @@ erachtet. Dies gilt nicht für Rügen nach § 111 Abs. 3.
 
 
 #### § 121
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE013901307)
 
 (1) In dem Verfahren vor dem Bundesgerichtshof gelten die Bestimmungen
 des § 144 über die Streitwertfestsetzung entsprechend.
@@ -3359,10 +3503,12 @@ sind entsprechend anzuwenden.
 
 
 ### 3. - Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001200311)
 
 
 
 #### § 122
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014002140)
 
 (1) Gegen die Urteile der Nichtigkeitssenate des Patentgerichts über
 den Erlaß einstweiliger Verfügungen im Verfahren wegen Erteilung einer
@@ -3381,10 +3527,12 @@ von fünf Monaten nach der Verkündung.
 
 
 ### 4. - Gemeinsame Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001900301)
 
 
 
 #### § 122a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018000301)
 
 Auf die Rüge der durch die Entscheidung beschwerten Partei ist das
 Verfahren fortzuführen, wenn das Gericht den Anspruch dieser Partei
@@ -3395,10 +3543,12 @@ entsprechend anzuwenden.
 
 
 ## Siebenter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001300311)
 
 
 
 ### § 123
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014103360)
 
 (1) Wer ohne Verschulden verhindert war, dem Deutschen Patent- und
 Markenamt oder dem Patentgericht gegenüber eine Frist einzuhalten,
@@ -3458,6 +3608,7 @@ Veranstaltungen getroffen hat.
 
 
 ### § 123a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017102360)
 
 (1) Ist nach Versäumung einer vom Deutschen Patent- und Markenamt
 bestimmten Frist die Patentanmeldung zurückgewiesen worden, so wird
@@ -3479,6 +3630,7 @@ Handlung zu beschließen hat.
 
 
 ### § 124
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014201360)
 
 Im Verfahren vor dem Deutschen Patent- und Markenamt, dem
 Patentgericht und dem Bundesgerichtshof haben die Beteiligten ihre
@@ -3487,6 +3639,7 @@ gemäß abzugeben.
 
 
 ### § 125
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014301360)
 
 (1) Wird der Einspruch oder die Klage auf Erklärung der Nichtigkeit
 des Patents auf die Behauptung gestützt, dass der Gegenstand des
@@ -3504,6 +3657,7 @@ beglaubigte Übersetzungen beizubringen.
 
 
 ### § 125a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017207360)
 
 (1) Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für
 Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
@@ -3536,6 +3690,7 @@ bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 126
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014402360)
 
 Die Sprache vor dem Deutschen Patent- und Markenamt und dem
 Patentgericht ist deutsch, sofern nichts anderes bestimmt ist. Im
@@ -3544,6 +3699,7 @@ die Gerichtssprache Anwendung.
 
 
 ### § 127
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014506360)
 
 (1) Für Zustellungen im Verfahren vor dem Deutschen Patent- und
 Markenamt gelten die Vorschriften des Verwaltungszustellungsgesetzes
@@ -3594,6 +3750,7 @@ die Vorschriften der Zivilprozessordnung.
 
 
 ### § 128
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014601360)
 
 (1) Die Gerichte sind verpflichtet, dem Deutschen Patent- und
 Markenamt und dem Patentgericht Rechtshilfe zu leisten.
@@ -3611,12 +3768,14 @@ Mitgliedern. Die Entscheidung ergeht durch Beschluß.
 
 
 ### § 128a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017300377)
 
 Zeugen erhalten eine Entschädigung und Sachverständige eine Vergütung
 nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 ### § 128b
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018700360)
 
 Die Vorschriften des Siebzehnten Titels des
 Gerichtsverfassungsgesetzes sind auf Verfahren vor dem Patentgericht
@@ -3624,10 +3783,12 @@ und dem Bundesgerichtshof entsprechend anzuwenden.
 
 
 ## Achter Abschnitt - Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001400311)
 
 
 
 ### § 129
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014702360)
 
 Im Verfahren vor dem Deutschen Patent- und Markenamt, dem
 Patentgericht und dem Bundesgerichtshof erhält ein Beteiligter
@@ -3636,6 +3797,7 @@ Verfahrenskostenhilfe nach Maßgabe der Vorschriften der §§ 130 bis
 
 
 ### § 130
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014805360)
 
 (1) Im Verfahren zur Erteilung des Patents erhält der Anmelder auf
 Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
@@ -3676,6 +3838,7 @@ schutzwürdiges Interesse glaubhaft macht.
 
 
 ### § 131
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE014901377)
 
 Im Verfahren zur Beschränkung oder zum Widerruf des Patents (§ 64)
 sind die Bestimmungen des § 130 Abs. 1, 2 und 5 entsprechend
@@ -3683,6 +3846,7 @@ anzuwenden.
 
 
 ### § 132
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015002140)
 
 (1) Im Einspruchsverfahren (§§ 59 bis 62) erhält der Patentinhaber auf
 Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
@@ -3698,6 +3862,7 @@ ein eigenes schutzwürdiges Interesse glaubhaft macht.
 
 
 ### § 133
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015101301)
 
 Einem Beteiligten, dem die Verfahrenskostenhilfe nach den Vorschriften
 der §§ 130 bis 132 bewilligt worden ist, wird auf Antrag ein zur
@@ -3712,6 +3877,7 @@ entsprechend anzuwenden.
 
 
 ### § 134
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015200311)
 
 Wird das Gesuch um Bewilligung der Verfahrenskostenhilfe nach den §§
 130 bis 132 vor Ablauf einer für die Zahlung einer Gebühr
@@ -3721,6 +3887,7 @@ ergehenden Beschlusses gehemmt.
 
 
 ### § 135
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015306360)
 
 (1) Das Gesuch um Bewilligung der Verfahrenskostenhilfe ist
 schriftlich beim Deutschen Patent- und Markenamt, beim Patentgericht
@@ -3742,6 +3909,7 @@ entsprechend anzuwenden.
 
 
 ### § 136
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015406360)
 
 Die Vorschriften des § 117 Absatz 2 bis 4 Satz 1, des § 118 Abs. 2 und
 3, der §§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und 4
@@ -3755,6 +3923,7 @@ Erklärung der Nichtigkeit des Patents oder in Zwangslizenzverfahren
 
 
 ### § 137
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015501310)
 
 Die Verfahrenskostenhilfe kann aufgehoben werden, wenn die angemeldete
 oder durch ein Patent geschützte Erfindung, hinsichtlich deren
@@ -3771,6 +3940,7 @@ Bewilligung entschieden hat.
 
 
 ### § 138
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015600311)
 
 (1) Im Verfahren über die Rechtsbeschwerde (§ 100) ist einem
 Beteiligten auf Antrag unter entsprechender Anwendung der §§ 114 bis
@@ -3789,10 +3959,12 @@ beigeordnet werden kann.
 
 
 ## Neunter Abschnitt - Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001500311)
 
 
 
 ### § 139
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015702360)
 
 (1) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung benutzt,
 kann von dem Verletzten bei Wiederholungsgefahr auf Unterlassung in
@@ -3825,6 +3997,7 @@ berücksichtigen.
 
 
 ### § 140
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015800311)
 
 Werden vor der Erteilung des Patents Rechte aus einer Anmeldung, in
 deren Akten die Einsicht jedermann freisteht (§ 31 Abs. 1 Satz 2
@@ -3841,6 +4014,7 @@ geltend gemacht werden.
 
 
 ### § 140a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016501140)
 
 (1) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung benutzt,
 kann von dem Verletzten auf Vernichtung der im Besitz oder Eigentum
@@ -3868,6 +4042,7 @@ Dritter zu berücksichtigen.
 
 
 ### § 140b
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016603360)
 
 (1) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung benutzt,
 kann von dem Verletzten auf unverzügliche Auskunft über die Herkunft
@@ -3961,6 +4136,7 @@ Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 ### § 140c
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018100140)
 
 (1) Wer mit hinreichender Wahrscheinlichkeit entgegen den §§ 9 bis 13
 eine patentierte Erfindung benutzt, kann von dem Rechtsinhaber oder
@@ -3996,6 +4172,7 @@ entstandenen Schadens verlangen.
 
 
 ### § 140d
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018200140)
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
 begangenen Rechtsverletzung in den Fällen des § 139 Abs. 2 auch auf
@@ -4025,6 +4202,7 @@ entsprechend.
 
 
 ### § 140e
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018300140)
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, so kann der
 obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das
@@ -4037,6 +4215,7 @@ Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz
 
 
 ### § 141
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE015901377)
 
 Auf die Verjährung der Ansprüche wegen Verletzung des Patentrechts
 finden die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen
@@ -4046,11 +4225,13 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ### § 141a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018400140)
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 
 ### § 142
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016003360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer ohne die erforderliche Zustimmung des Patentinhabers
@@ -4106,6 +4287,7 @@ ist.
 
 
 ### § 142a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016705123)
 
 (1) Ein Erzeugnis, das ein nach diesem Gesetz geschütztes Patent
 verletzt, unterliegt auf Antrag und gegen Sicherheitsleistung des
@@ -4181,6 +4363,7 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 
 
 ### § 142b
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE018501123)
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 142a
 Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
@@ -4188,10 +4371,12 @@ enthält, die dem entgegenstehen.
 
 
 ## Zehnter Abschnitt - Verfahren in Patentstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001600311)
 
 
 
 ### § 143
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016106377)
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
 Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
@@ -4213,6 +4398,7 @@ des Patentanwalts zu erstatten.
 
 
 ### § 144
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016200311)
 
 (1) Macht in einer Patentstreitsache eine Partei glaubhaft, daß die
 Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre
@@ -4239,6 +4425,7 @@ Gegner zu hören.
 
 
 ### § 145
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016300311)
 
 Wer eine Klage nach § 139 erhoben hat, kann gegen den Beklagten wegen
 derselben oder einer gleichartigen Handlung auf Grund eines anderen
@@ -4248,6 +4435,7 @@ Rechtsstreit geltend zu machen.
 
 
 ### § 145a
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE019100360)
 
 In Patentstreitsachen mit Ausnahme von selbstständigen Beweisverfahren
 sowie in Zwangslizenzverfahren gemäß § 81 Absatz 1 Satz 1 sind die §§
@@ -4259,10 +4447,12 @@ Kläger und Beklagtem in das Verfahren eingeführten Informationen.
 
 
 ## Elfter Abschnitt - Patentberühmung
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001700311)
 
 
 
 ### § 146
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE016400311)
 
 Wer Gegenstände oder ihre Verpackung mit einer Bezeichnung versieht,
 die geeignet ist, den Eindruck zu erwecken, daß die Gegenstände durch
@@ -4276,10 +4466,12 @@ sich die Verwendung der Bezeichnung stützt.
 
 
 ## Zwölfter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNG001800377)
 
 
 
 ### § 147
+[Direktlink](https://www.gesetze-im-internet.de/patg/BJNR201170936.html#BJNR201170936BJNE017007360)
 
 (1) Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 33

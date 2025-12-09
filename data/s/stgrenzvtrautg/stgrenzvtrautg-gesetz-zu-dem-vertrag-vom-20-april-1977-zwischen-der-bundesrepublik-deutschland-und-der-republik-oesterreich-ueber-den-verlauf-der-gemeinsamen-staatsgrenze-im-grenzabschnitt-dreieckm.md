@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrautg/BJNR203770979.html#BJNR203770979BJNE000100315)
 
 (1) Dem in Bonn am 20. April 1977 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über den
@@ -41,6 +42,7 @@ Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrautg/BJNR203770979.html#BJNR203770979BJNE000200315)
 
 In den Gebietsteilen, die nach Artikel 1 Abs. 1 des Vertrages der
 Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
@@ -51,6 +53,7 @@ außer Kraft.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrautg/BJNR203770979.html#BJNR203770979BJNE000300315)
 
 (1) Die Regierung des Landes Bayern wird ermächtigt, für die nach dem
 Vertrag der Bundesrepublik Deutschland zufallenden Gebietsteile durch
@@ -73,12 +76,14 @@ Landesjustizverwaltung übertragen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrautg/BJNR203770979.html#BJNR203770979BJNE000400315)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrautg/BJNR203770979.html#BJNR203770979BJNE000500315)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

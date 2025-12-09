@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## (XXXX) §§ 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000100307)
 
 -
 
 
 ## § 4 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000200307)
 
 (1) Ein Abgeordneter der Volkskammer erhält eine monatliche
 Entschädigung von 3.600 M.
@@ -37,10 +39,12 @@ Präsidenten sowie der Stellvertreter werden besteuert.
 
 
 ## (XXXX) §§ 5 bis 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000300307)
 
 
 
 ## § 8 Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000400307)
 
 (1) Ein ehemaliges Mitglieder der Volkskammer erhält ein
 Überbrückungsgeld. Das Überbrückungsgeld wird in Höhe der
@@ -60,11 +64,13 @@ nach Abs. 1.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000500307)
 
 -
 
 
 ## § 10 Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000600307)
 
 (1) Hat ein Mitglied der Volkskammer neben der Entschädigung nach § 4
 Einkommen aus einer Tätigkeit als Mitglied des
@@ -78,10 +84,12 @@ neben der Entschädigung nach § 4 nur zu Hälfte gezahlt.
 
 
 ## (XXXX) §§ 11 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000700307)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE000800307)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
@@ -89,6 +97,7 @@ Republik**
 Auszug aus EinigVtrVbg Art 3
 
 ## Anhang EV (BGBl. II 1990, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/vkabgg/DDNR002740990.html#DDNR002740990BJNE888800301)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9

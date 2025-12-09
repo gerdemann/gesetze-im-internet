@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -28,9 +29,11 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNG000100000)
 
 
 ### § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und der Französischen Republik zur
@@ -43,6 +46,7 @@ der jeweils geltenden Fassung.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000300000)
 
 Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf
 die Umsetzung entsprechender Konsultationsvereinbarungen im Sinn des §
@@ -52,9 +56,11 @@ worden sind, richtet sich nach dieser Verordnung.
 
 
 ## Abschnitt 2 - Anwendungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNG000200000)
 
 
 ### § 3 Aufsichtsratsvergütungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000400000)
 
 Artikel 11 Absatz 1 des Abkommens ist auch auf Vergütungen anzuwenden,
 die Mitglieder der Überwachungsorgane (Aufsichtsräte oder Beiräte) von
@@ -64,6 +70,7 @@ entsprechend.
 
 
 ### § 4 Deutsche Arbeitsgemeinschaften und französische „Groupements d´intérêt économique“
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000500000)
 
 (1) Deutsche Arbeitsgemeinschaften (ARGE) und französische
 „Groupements d´intérêt économique“ (GIE) sind für die Anwendung des
@@ -99,6 +106,7 @@ Absatz 1 Nummer 7 des Abkommens sind.
 
 
 ### § 5 Grenzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000600000)
 
 (1) Zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des
 Abkommens gehören alle Städte und Gemeinden beiderseits der Grenze,
@@ -117,9 +125,11 @@ Gemeinden zum Grenzgebiet.
 
 
 ## Abschnitt 3 - 183-Tage-Regelung, Grenzgänger
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNG000300000)
 
 
 ### § 6 Fristberechnung
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000700000)
 
 Bei der Berechnung der Aufenthaltsdauer für die Zwecke des Artikels 13
 Absatz 4 Nummer 1 des Abkommens werden Sonn- und Feiertage, Urlaubs-
@@ -132,6 +142,7 @@ vorübergehenden Aufenthalts angesehen werden.
 
 
 ### § 7 Grenzgängerregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000800000)
 
 (1) Kehrt ein Arbeitnehmer nicht täglich an seinen Wohnsitz zurück
 oder ist er an ganzen Arbeitstagen an Arbeitsorten außerhalb der
@@ -178,26 +189,31 @@ der Rückreise stets zu den Nichtrückkehrtagen.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNG000400000)
 
 
 ### § 8 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE000900000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 5 Absatz 1)
 
 ### Anlage 1 Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des Abkommens zählenden deutschen Städte und Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE001200000)
 
 (Fundstelle: BGBl. I 2010, 2140 - 2149)
 
@@ -3761,6 +3777,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 5 Absatz 1)
 
 ### Anlage 2 Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des Abkommens zählenden französischen Städte und Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE001300000)
 
 (Fundstelle: BGBl. I 2010, 2150 - 2169)
 
@@ -9370,6 +9387,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 5 Absatz 2)
 
 ### Anlage 3 Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe c des Abkommens zählenden Städte und Gemeinden in Baden-Württemberg und Rheinland-Pfalz
+[Direktlink](https://www.gesetze-im-internet.de/konsverfrav/BJNR213800010.html#BJNR213800010BJNE001400000)
 
 (Fundstelle: BGBl. I 2010, 2170 - 2182)
 

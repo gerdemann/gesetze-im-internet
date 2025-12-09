@@ -20,18 +20,22 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000100311)
 
 
 
 ### Erstes Kapitel - Kreis der versicherten Personen
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000201308)
 
 
 
 #### Erster Abschnitt - Umfang der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000301308)
 
 
 
 ##### § 1
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE002803308)
 
 Selbständige Künstler und Publizisten werden in der allgemeinen
 Rentenversicherung, in der gesetzlichen Krankenversicherung und in der
@@ -51,6 +55,7 @@ sozialen Pflegeversicherung versichert, wenn sie
 
 
 ##### § 2
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE002903308)
 
 Künstler im Sinne dieses Gesetzes ist, wer Musik, darstellende oder
 bildende Kunst schafft, ausübt oder lehrt. Publizist im Sinne dieses
@@ -59,14 +64,17 @@ Weise publizistisch tätig ist oder Publizistik lehrt.
 
 
 #### Zweiter Abschnitt - Ausnahmen von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000401308)
 
 
 
 ##### Erster Unterabschnitt - Versicherungsfreiheit kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000501308)
 
 
 
 ###### § 3
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003009126)
 
 (1) Versicherungsfrei nach diesem Gesetz ist, wer in dem Kalenderjahr
 aus selbständiger künstlerischer und publizistischer Tätigkeit
@@ -91,6 +99,7 @@ unberücksichtigt.
 
 
 ###### § 4
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003107119)
 
 In der gesetzlichen Rentenversicherung ist nach diesem Gesetz
 versicherungsfrei, wer
@@ -144,6 +153,7 @@ versicherungsfrei, wer
 
 
 ###### § 5
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003209126)
 
 (1) In der gesetzlichen Krankenversicherung ist nach diesem Gesetz
 versicherungsfrei, wer
@@ -203,10 +213,12 @@ ist.
 
 
 ##### Zweiter Unterabschnitt - Befreiung von der Krankenversicherungspflicht auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000601308)
 
 
 
 ###### § 6
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003305126)
 
 (1) Wer erstmals eine Tätigkeit als selbständiger Künstler oder
 Publizist aufnimmt und nicht zu dem in § 5 Abs. 1 genannten
@@ -235,6 +247,7 @@ diesem Fall nach Ablauf der in § 3 Abs. 2 genannten Frist.
 
 
 ###### § 7
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003406308)
 
 (1) Wer als selbständiger Künstler oder Publizist in drei
 aufeinanderfolgenden Kalenderjahren insgesamt ein Arbeitseinkommen
@@ -251,6 +264,7 @@ folgenden Kalenderjahres bei der Künstlersozialkasse zu stellen.
 
 
 ###### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE009400308)
 
 (1) Die Künstlersozialkasse entscheidet über den Antrag auf Befreiung
 von der Versicherungspflicht.
@@ -267,10 +281,12 @@ Krankenversicherung endet mit der Mitgliedschaft.
 
 
 #### Dritter Abschnitt - Beginn und Dauer der Versicherungspflicht, Verlegung des Tätigkeitsortes
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002801308)
 
 
 
 ##### § 8
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003506308)
 
 (1) Die Versicherungspflicht in der gesetzlichen Renten- und
 Krankenversicherung sowie in der sozialen Pflegeversicherung beginnt
@@ -298,6 +314,7 @@ Künstlersozialkasse von der Änderung Kenntnis erhält; § 48 Abs. 1 Satz
 
 
 ##### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE009901308)
 
 (1) Verlegt ein Versicherter oder Zuschußberechtigter während des
 Kalenderjahres seinen Tätigkeitsort aus dem Beitrittsgebiet in das
@@ -310,10 +327,12 @@ entsprechend.
 
 
 #### Vierter Abschnitt - Kündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002900308)
 
 
 
 ##### § 9
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003602308)
 
 (1) Wer bei einem privaten Krankenversicherungsunternehmen versichert
 ist und nach diesem Gesetz krankenversicherungspflichtig wird, kann
@@ -332,10 +351,12 @@ Satz 2 gilt entsprechend.
 
 
 ### Zweites Kapitel - Beitragszuschuß der Künstlersozialkasse
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000801308)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003711126)
 
 (1) Selbständige Künstler und Publizisten, die nach § 6 oder § 7 von
 der Versicherungspflicht befreit und freiwillig in der gesetzlichen
@@ -395,6 +416,7 @@ entsprechend.
 
 
 #### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010003126)
 
 (1) Selbständige Künstler und Publizisten, die nach § 6 oder § 7 von
 der Krankenversicherungspflicht befreit und in der sozialen
@@ -425,6 +447,7 @@ zweiter Halbsatz und Satz 4 bis 6 gilt entsprechend.
 
 
 #### § 10b
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010400308)
 
 Der Bescheid über die Festsetzung des endgültigen Beitragszuschusses
 soll mit Wirkung für die Vergangenheit zu Ungunsten des
@@ -433,10 +456,12 @@ Abs. 1 Satz 3 in wesentlicher Beziehung unrichtige Angaben enthält.
 
 
 ### Drittes Kapitel - Auskunfts- und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG000901308)
 
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003804119)
 
 (1) Wer nach diesem Gesetz in der gesetzlichen Renten- oder
 Krankenversicherung oder in der sozialen Pflegeversicherung versichert
@@ -465,6 +490,7 @@ zugeteilt worden, ist sie von der Datenstelle der Rentenversicherung
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE003908126)
 
 (1) Versicherte und Zuschußberechtigte haben der Künstlersozialkasse
 bis zum 1. Dezember eines Jahres das voraussichtliche
@@ -499,6 +525,7 @@ in diesen Fällen vorhandene Unterlagen beizufügen, aus denen sich die
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004005126)
 
 (1) Die Künstlersozialkasse kann von den Versicherten und den
 Zuschußberechtigten Angaben darüber verlangen, in welchem der Bereiche
@@ -530,14 +557,17 @@ einer Prüfung bei Versicherten personenbezogene Daten nach § 31 Absatz
 
 
 ### Viertes Kapitel - Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001001119)
 
 
 
 #### Erster Abschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001101308)
 
 
 
 ##### § 14
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004102308)
 
 Die Mittel für die Versicherung nach diesem Gesetz werden durch
 Beitragsanteile der Versicherten (§§ 15 bis 16a) zur einen Hälfte,
@@ -546,14 +576,17 @@ des Bundes (§ 34) zur anderen Hälfte aufgebracht.
 
 
 #### Zweiter Abschnitt - Beitragsanteile des Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001201308)
 
 
 
 ##### Erster Unterabschnitt - Höhe der Beitragsanteile
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001301308)
 
 
 
 ###### § 15
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004203308)
 
 Der Versicherte hat an die Künstlersozialkasse als Beitragsanteil zur
 gesetzlichen Rentenversicherung für den Kalendermonat die Hälfte des
@@ -564,6 +597,7 @@ folgenden Monats fällig.
 
 
 ###### § 16
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004313126)
 
 (1) Der Versicherte hat an die Künstlersozialkasse als Beitragsanteil
 zur gesetzlichen Krankenversicherung die Hälfte des Beitrages gemäß
@@ -598,6 +632,7 @@ Ende des Ruhens zu unterrichten.
 
 
 ###### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010104126)
 
 (1) Versicherte haben an die Künstlersozialkasse als Beitragsanteil
 zur sozialen Pflegeversicherung für den Kalendermonat die Hälfte des
@@ -612,10 +647,12 @@ fällig.
 
 
 ##### Zweiter Unterabschnitt - Beitragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001401308)
 
 
 
 ###### § 17
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004403308)
 
 Entrichtet ein Versicherter, der nach diesem Gesetz sowohl in der
 gesetzlichen Krankenversicherung und in der sozialen
@@ -626,6 +663,7 @@ Krankenkasse und der Pflegekasse verwandt.
 
 
 ###### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010200308)
 
 Als Tag der Zahlung der Beitragsanteile gilt:
 
@@ -652,6 +690,7 @@ Als Tag der Zahlung der Beitragsanteile gilt:
 
 
 ###### § 18
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004503126)
 
 (1) Für die Erhebung eines Säumniszuschlags auf rückständige
 Beitragsanteile der Versicherten gilt § 24 des Vierten Buches
@@ -663,12 +702,14 @@ zum Vermögen der Künstlersozialkasse.
 
 
 ###### § 19
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004601308)
 
 Für die Verjährung der Ansprüche auf Beitragsanteile gilt § 25 des
 Vierten Buches Sozialgesetzbuch entsprechend.
 
 
 ###### § 20
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004702308)
 
 Die Künstlersozialkasse hat dem Versicherten und dem
 Zuschußberechtigten jährlich eine Abrechnung zu erteilen, aus der die
@@ -678,10 +719,12 @@ des § 25 der Datenerfassungs- und -übermittlungsverordnung.
 
 
 ##### Dritter Unterabschnitt - Erstattungen
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001501308)
 
 
 
 ###### § 21
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004801308)
 
 (1) Die Künstlersozialkasse hat zu Unrecht entrichtete Beitragsanteile
 zu erstatten. § 26 Abs. 2 des Vierten Buches Sozialgesetzbuch gilt
@@ -696,15 +739,18 @@ gilt § 27 des Vierten Buches Sozialgesetzbuch entsprechend.
 
 
 ###### § 22
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE004902308)
 
 -
 
 
 #### Dritter Abschnitt - Künstlersozialabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001701308)
 
 
 
 ##### § 23
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005000311)
 
 Die Künstlersozialkasse erhebt von den zur Abgabe Verpflichteten (§
 24) eine Umlage (Künstlersozialabgabe) nach einem Vomhundertsatz (§
@@ -712,10 +758,12 @@ Die Künstlersozialkasse erhebt von den zur Abgabe Verpflichteten (§
 
 
 ##### Erster Unterabschnitt - Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001801308)
 
 
 
 ###### § 24
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005107126)
 
 (1) Zur Künstlersozialabgabe ist ein Unternehmer verpflichtet, der
 eines der folgenden Unternehmen betreibt:
@@ -795,10 +843,12 @@ Satzes 1 Nummer 2 nicht
 
 
 ##### Zweiter Unterabschnitt - Bestimmungsgrößen
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG001901308)
 
 
 
 ###### § 25
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005205126)
 
 (1) Bemessungsgrundlage der Künstlersozialabgabe sind die Entgelte für
 künstlerische oder publizistische Werke oder Leistungen, die ein nach
@@ -866,6 +916,7 @@ erbracht wird.
 
 
 ###### § 26
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005307308)
 
 (1) Der Vomhundertsatz der Künstlersozialabgabe ist unter
 Berücksichtigung des Grundsatzes des § 14 so festzusetzen, dass das
@@ -900,10 +951,12 @@ soll bis zum 30. September erfolgen.
 
 
 ##### Dritter Unterabschnitt - Melde- und Abgabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002001308)
 
 
 
 ###### § 27
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005407311)
 
 (1) Der zur Abgabe Verpflichtete hat nach Ablauf eines Kalenderjahres,
 spätestens bis zum 31. März des Folgejahres, der Künstlersozialkasse
@@ -966,6 +1019,7 @@ gilt § 17a entsprechend.
 
 
 ###### § 28
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005502308)
 
 Die zur Abgabe Verpflichteten haben fortlaufende Aufzeichnungen über
 die Entgelte im Sinne des § 25 zu führen. Dabei müssen das
@@ -984,6 +1038,7 @@ oder Verwaltung benutzt werden, ordnungsgemäß dokumentiert sein.
 
 
 ###### § 29
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005602308)
 
 Die zur Abgabe Verpflichteten haben der Künstlersozialkasse oder den
 Trägern der Rentenversicherung auf Verlangen über alle für die
@@ -1000,6 +1055,7 @@ Künstlersozialkasse oder der Träger der Rentenversicherung vorzulegen.
 
 
 ###### § 30
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005702126)
 
 (1) Für die Erhebung eines Säumniszuschlags auf rückständige
 Künstlersozialabgabe und Abgabevorauszahlungen gilt § 24 des Vierten
@@ -1012,12 +1068,14 @@ gehören zum Vermögen der Künstlersozialkasse.
 
 
 ###### § 31
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005800311)
 
 Für die Verjährung der Ansprüche auf Künstlersozialabgabe gilt § 25
 des Vierten Buches Sozialgesetzbuch entsprechend.
 
 
 ###### § 32
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE005905126)
 
 (1) Die Künstlersozialkasse kann vertraglich mit einem Vertreter
 mehrerer Unternehmer die Bildung einer Ausgleichsvereinigung
@@ -1052,10 +1110,12 @@ Ausgleichsvereinigung zur Erfüllung ihrer Aufgaben benötigt.
 
 
 ##### Vierter Unterabschnitt - Erstattungen
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002101308)
 
 
 
 ###### § 33
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006000311)
 
 (1) Die Künstlersozialkasse hat zu Unrecht entrichtete
 Künstlersozialabgabe zu erstatten.
@@ -1069,10 +1129,12 @@ gilt § 27 des Vierten Buches Sozialgesetzbuch entsprechend.
 
 
 #### Vierter Abschnitt - Zuschuß des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002201308)
 
 
 
 ##### § 34
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006106311)
 
 (1) Der Zuschuss des Bundes beträgt für das Kalenderjahr 20 vom
 Hundert der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit
@@ -1085,6 +1147,7 @@ entsprechend dem jeweiligen Ausgabebedarf in Anspruch genommen werden.
 
 
 ##### § 34a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008603377)
 
 (1) Der Bund leistet im Haushaltsjahr 2022 einen Entlastungszuschuss
 in Höhe von 84 558 000 Euro an die Künstlersozialkasse.
@@ -1104,10 +1167,12 @@ genannten Berechnungsgrundlagen berücksichtigt.
 
 
 ### Fünftes Kapitel - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002300311)
 
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006205377)
 
 (1) Die Künstlersozialkasse überwacht die rechtzeitige und
 vollständige Entrichtung der Beitragsanteile der Versicherten und der
@@ -1178,10 +1243,12 @@ Rechtsverordnung Überwachungsvorschriften.
 
 
 ### Sechstes Kapitel - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002400311)
 
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006305377)
 
 (1) Ordnungswidrig handelt der Versicherte, der vorsätzlich oder
 fahrlässig
@@ -1236,10 +1303,12 @@ mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 ### Siebtes Kapitel - Anwendung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG003000308)
 
 
 
 #### § 36a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE009500308)
 
 Auf die Rechtsbeziehungen zwischen der Künstlersozialkasse und den
 Versicherten, Zuschußberechtigten und zur Abgabe Verpflichteten finden
@@ -1250,10 +1319,12 @@ Sozialgesetzbuch entsprechende Anwendung.
 
 
 ## Zweiter Teil - Durchführung der Künstlersozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002501308)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006408311)
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt dieses
 Gesetz im Auftrag des Bundes als Künstlersozialkasse durch. Der
@@ -1282,6 +1353,7 @@ Knappschaft-Bahn-See.
 
 
 ### § 37a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008704311)
 
 (1) Alle Rechte und Pflichten der Unfallversicherung Bund und Bahn in
 Angelegenheiten der Künstlersozialversicherung, die am 31. Dezember
@@ -1304,6 +1376,7 @@ Rentenversicherung Knappschaft-Bahn-See zu erstatten.
 
 
 ### § 37b
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008804311)
 
 (1) Die Beamtinnen und Beamten der Unfallversicherung Bund und Bahn,
 die am 31.Dezember 2024 der Künstlersozialkasse zugeordnet sind,
@@ -1340,10 +1413,12 @@ danach auf jede dritte freiwerdende Planstelle beschränkt.
 
 
 ### (XXXX) §§ 37c bis 37e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008901308)
 
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006504308)
 
 (1) Bei der Künstlersozialkasse wird ein Beirat aus Persönlichkeiten
 aus den Kreisen der Versicherten und der zur Künstlersozialabgabe
@@ -1366,6 +1441,7 @@ sinngemäß.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006601308)
 
 (1) Den Widerspruchsbescheid im Vorverfahren nach § 85 Abs. 2 des
 Sozialgerichtsgesetzes erläßt einer der bei der Künstlersozialkasse zu
@@ -1386,6 +1462,7 @@ unterworfen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006704308)
 
 Das Bundesministerium für Arbeit und Soziales bestimmt durch
 Rechtsverordnung das Nähere über die Aufgaben, die Zusammensetzung,
@@ -1394,11 +1471,13 @@ Verfahren des Beirats (§ 38) und der Ausschüsse (§ 39).
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006802308)
 
 (weggefallen)
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE006905311)
 
 Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem
 Bundeszuschuss sind als abgesondertes Vermögen zu verwalten. Dieses
@@ -1411,6 +1490,7 @@ Künstlersozialkasse beschränkt.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007012311)
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See weist alle zu
 erwartenden Einnahmen, voraussichtlich zu leistenden Ausgaben und
@@ -1470,6 +1550,7 @@ Bundesamt für Soziale Sicherung erteilt die Entlastung.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007101308)
 
 (1) Die Künstlersozialkasse hat kurzfristig verfügbare Mittel zur
 Bestreitung ihrer laufenden Ausgaben sowie zum Ausgleich von Einnahme-
@@ -1485,18 +1566,21 @@ Einnahmesolls (Auffüllungssoll) den Betriebsmitteln zuzuführen.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007202311)
 
 Die §§ 80, 81 und 82a bis 86 des Vierten Buches Sozialgesetzbuch
 gelten entsprechend.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007301126)
 
 Die Aufsicht über die Künstlersozialkasse führt das Bundesamt für
 Soziale Sicherung, soweit dieses Gesetz nichts Abweichendes bestimmt.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007400311)
 
 Die Künstlersozialkasse hat die Versicherten und die zur
 Künstlersozialabgabe Verpflichteten über ihre Rechte und Pflichten
@@ -1504,23 +1588,28 @@ aufzuklären und zu beraten.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007501308)
 
 -
 
 
 ## Dritter Teil
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002601308)
 
 
 
 ### (XXXX) §§ 49 - 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010300308)
 
 
 
 ## Vierter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNG002700311)
 
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007603119)
 
 (1) Selbständige Künstler und Publizisten, die am 31. Dezember 2016
 wegen des Bezugs einer Vollrente wegen Alters vor Erreichen der
@@ -1536,10 +1625,12 @@ künstlerischen oder publizistischen Tätigkeit bindend.
 
 
 ### § 52a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010501126)
 
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010601126)
 
 Abweichend von § 5 Absatz 1 Nummer 5 und Absatz 2 Nummer 1 ist in der
 gesetzlichen Krankenversicherung und in der sozialen
@@ -1554,17 +1645,20 @@ oder eintritt.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE010701126)
 
 Abweichend von § 24 Absatz 2 Satz 2 beträgt die Entgeltsumme 700 Euro
 im Kalenderjahr 2025.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE007902308)
 
 (weggefallen)
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008002308)
 
 (1) (weggefallen)
 
@@ -1573,6 +1667,7 @@ Studium vor dem 1. Juli 2001 aufgenommen haben.
 
 
 ### § 56a
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE009603126)
 
 (1) Selbständige Künstler und Publizisten, die am 31. Dezember 1988
 auf Grund des § 5 Nr. 6 in der am 31. Dezember 1988 geltenden Fassung
@@ -1600,19 +1695,23 @@ Kalendermonat.
 
 
 ### § 56b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE009701126)
 
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008107308)
 
 (weggefallen)
 
 
 ### (XXXX) §§ 57a bis 60 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE009301308)
 
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/ksvg/BJNR007050981.html#BJNR007050981BJNE008500311)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Januar 1983
 in Kraft.

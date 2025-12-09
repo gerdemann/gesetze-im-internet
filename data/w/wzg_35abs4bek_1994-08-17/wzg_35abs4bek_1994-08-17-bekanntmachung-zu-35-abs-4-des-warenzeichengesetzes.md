@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35abs4bek_1994-08-17/BJNR220000994.html#BJNR220000994BJNE000100320)
 
 Auf Grund des § 35 Abs. 4 des Warenzeichengesetzes in der Fassung der
 Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29), eingefügt durch
@@ -67,6 +68,7 @@ Oktober 1992 (BGBl. I S. 1749).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35abs4bek_1994-08-17/BJNR220000994.html#BJNR220000994BJNE000200320)
 
 Die Bundesministerin der Justiz
 

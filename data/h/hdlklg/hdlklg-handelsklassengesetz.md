@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000110118)
 
 (1) Zur Förderung der Erzeugung, der Qualität und des Absatzes von
 Erzeugnissen der Landwirtschaft und der Fischerei sowie zur Förderung
@@ -43,6 +44,7 @@ Weingesetzes unterliegenden Erzeugnisse.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000203118)
 
 (1) In Rechtsverordnungen nach § 1 Abs. 1 sind die Merkmale zu
 bestimmen, welche die Erzeugnisse mindestens aufweisen müssen, wenn
@@ -132,6 +134,7 @@ bestehen, die auch den Zielen des § 1 Abs. 1 gerecht werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000300328)
 
 In Rechtsverordnungen nach § 1 kann ferner bestimmt werden, daß
 Erzeugnisse den nach § 2 Abs. 1 und Abs. 2 Nr. 1 vorgeschriebenen
@@ -146,6 +149,7 @@ erforderlich ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000401308)
 
 Bevor Rechtsverordnungen nach § 1 erlassen werden, soll das
 Bundesministerium die beteiligten Wirtschaftskreise und die
@@ -155,6 +159,7 @@ Sachverständige hinzuziehen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000507118)
 
 (1) Die Überwachung der Einhaltung der nach diesem Gesetz erlassenen
 Rechtsverordnungen obliegt den nach Landesrecht zuständigen Behörden.
@@ -221,11 +226,13 @@ Geltungsbereich dieses Gesetzes zu regeln.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000600328)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000701377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -281,6 +288,7 @@ Euro geahndet werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000806301)
 
 (1) Das Bundesministerium wird ermächtigt, die auf Grund des Gesetzes
 über gesetzliche Handelsklassen für Erzeugnisse der Landwirtschaft und
@@ -302,6 +310,7 @@ genannten Gesetzes enthalten sind, gelten diese als Verweisungen auf §
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE000901377)
 
 (1) Die Verbote und Beschränkungen der nach diesem Gesetz erlassenen
 Rechtsverordnungen stehen der Abfertigung durch die Zolldienststellen
@@ -316,6 +325,7 @@ zuständigen Verwaltungsbehörden mitteilen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/hdlklg/BJNR013030968.html#BJNR013030968BJNE001000328)
 
 Die Vorschriften des Lebensmittelrechts bleiben unberührt.
 

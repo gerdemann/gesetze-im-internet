@@ -20,15 +20,18 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000300000)
 
 Dieses Gesetz regelt das Statusrecht der Beamtinnen und Beamten der
 Länder, Gemeinden und Gemeindeverbände sowie der sonstigen der
@@ -37,6 +40,7 @@ Stiftungen des öffentlichen Rechts.
 
 
 ### § 2 Dienstherrnfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000400000)
 
 Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
@@ -53,9 +57,11 @@ Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
 
 ## Abschnitt 2 - Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000200000)
 
 
 ### § 3 Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000500000)
 
 (1) Beamtinnen und Beamte stehen zu ihrem Dienstherrn in einem
 öffentlich-rechtlichen Dienst- und Treueverhältnis
@@ -76,6 +82,7 @@ Wahrnehmung
 
 
 ### § 4 Arten des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000600000)
 
 (1) Das Beamtenverhältnis auf Lebenszeit dient der dauernden
 Wahrnehmung von Aufgaben nach § 3 Abs. 2. Es bildet die Regel.
@@ -114,6 +121,7 @@ b)  der nur vorübergehenden Wahrnehmung von Aufgaben nach § 3 Abs. 2.
 
 
 ### § 5 Ehrenbeamtinnen und Ehrenbeamte
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000700000)
 
 (1) Als Ehrenbeamtin oder Ehrenbeamter kann berufen werden, wer
 Aufgaben im Sinne des § 3 Abs. 2 unentgeltlich wahrnehmen soll.
@@ -129,6 +137,7 @@ Ehrenbeamtenverhältnis umgewandelt werden.
 
 
 ### § 6 Beamtenverhältnis auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000800000)
 
 Für die Rechtsverhältnisse der Beamtinnen auf Zeit und Beamten auf
 Zeit gelten die Vorschriften für Beamtinnen auf Lebenszeit und Beamte
@@ -137,6 +146,7 @@ bestimmt ist.
 
 
 ### § 7 Voraussetzungen des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE000902311)
 
 (1) In das Beamtenverhältnis darf nur berufen werden, wer
 
@@ -192,6 +202,7 @@ werden, wenn
 
 
 ### § 8 Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001000000)
 
 (1) Einer Ernennung bedarf es zur
 
@@ -237,6 +248,7 @@ und insoweit unwirksam.
 
 
 ### § 9 Kriterien der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001100000)
 
 Ernennungen sind nach Eignung, Befähigung und fachlicher Leistung ohne
 Rücksicht auf Geschlecht, Abstammung, Rasse oder ethnische Herkunft,
@@ -245,6 +257,7 @@ Herkunft, Beziehungen oder sexuelle Identität vorzunehmen.
 
 
 ### § 10 Voraussetzung der Ernennung auf Lebenszeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001200000)
 
 Die Ernennung zur Beamtin auf Lebenszeit oder zum Beamten auf
 Lebenszeit ist nur zulässig, wenn die Beamtin oder der Beamte sich in
@@ -254,6 +267,7 @@ Ausnahmen bestimmt werden.
 
 
 ### § 11 Nichtigkeit der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001301311)
 
 (1) Die Ernennung ist nichtig, wenn
 
@@ -304,6 +318,7 @@ Ausnahmen bestimmt werden.
 
 
 ### § 12 Rücknahme der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001402311)
 
 (1) Die Ernennung ist mit Wirkung für die Vergangenheit
 zurückzunehmen, wenn
@@ -340,9 +355,11 @@ eines Staates nach § 7 Absatz 1 Satz 1 Nummer 1 ergangen ist.
 
 
 ## Abschnitt 3 - Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000300000)
 
 
 ### § 13 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001501311)
 
 Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender
 Abordnung, Versetzung und Umbildung von Körperschaften sowie bei einer
@@ -350,6 +367,7 @@ Abordnung oder Versetzung aus einem Land in die Bundesverwaltung.
 
 
 ### § 14 Abordnung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001600000)
 
 (1) Beamtinnen und Beamte können aus dienstlichen Gründen
 vorübergehend ganz oder teilweise zu einer dem übertragenen Amt
@@ -381,6 +399,7 @@ Abordnung erfolgt ist.
 
 
 ### § 15 Versetzung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001700000)
 
 (1) Beamtinnen und Beamte können auf Antrag oder aus dienstlichen
 Gründen in den Bereich eines Dienstherrn eines anderen Landes oder des
@@ -399,6 +418,7 @@ neuen Dienstherrn fortgesetzt.
 
 
 ### § 16 Umbildung einer Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001800000)
 
 (1) Beamtinnen und Beamte einer juristischen Person des öffentlichen
 Rechts mit Dienstherrnfähigkeit (Körperschaft), die vollständig in
@@ -433,6 +453,7 @@ vollständig oder teilweise auf eine oder mehrere andere Körperschaften
 
 
 ### § 17 Rechtsfolgen der Umbildung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE001900000)
 
 (1) Tritt eine Beamtin oder ein Beamter aufgrund des § 16 Abs. 1 kraft
 Gesetzes in den Dienst einer anderen Körperschaft über oder wird sie
@@ -456,6 +477,7 @@ Abs. 4.
 
 
 ### § 18 Rechtsstellung der Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002000000)
 
 (1) Beamtinnen und Beamten, die nach § 16 in den Dienst einer anderen
 Körperschaft kraft Gesetzes übertreten oder übernommen werden, soll
@@ -484,6 +506,7 @@ wären.
 
 
 ### § 19 Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002100000)
 
 (1) Die Vorschriften des § 16 Abs. 1 und 2 und des § 17 gelten
 entsprechend für die im Zeitpunkt der Umbildung bei der abgebenden
@@ -499,9 +522,11 @@ Abs. 4.
 
 
 ## Abschnitt 4 - Zuweisung einer Tätigkeit bei anderen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000400000)
 
 
 ### § 20 Zuweisung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002200000)
 
 (1) Beamtinnen und Beamten kann mit ihrer Zustimmung vorübergehend
 ganz oder teilweise eine ihrem Amt entsprechende Tätigkeit zugewiesen
@@ -530,9 +555,11 @@ Interessen es erfordern.
 
 
 ## Abschnitt 5 - Beendigung des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000500000)
 
 
 ### § 21 Beendigungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002300000)
 
 Das Beamtenverhältnis endet durch
 
@@ -552,6 +579,7 @@ Das Beamtenverhältnis endet durch
 
 
 ### § 22 Entlassung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002402311)
 
 (1) Beamtinnen und Beamte sind entlassen, wenn
 
@@ -592,6 +620,7 @@ anderen Dienstherrn.
 
 
 ### § 23 Entlassung durch Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002501311)
 
 (1) Beamtinnen und Beamte sind zu entlassen, wenn sie
 
@@ -647,6 +676,7 @@ werden.
 
 
 ### § 24 Verlust der Beamtenrechte
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002601311)
 
 (1) Wenn eine Beamtin oder ein Beamter im ordentlichen Strafverfahren
 durch das Urteil eines deutschen Gerichts
@@ -676,12 +706,14 @@ Beamtenverhältnis als nicht unterbrochen.
 
 
 ### § 25 Ruhestand wegen Erreichens der Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002700000)
 
 Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach
 Erreichen der Altersgrenze in den Ruhestand.
 
 
 ### § 26 Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002801311)
 
 (1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit sind in den
 Ruhestand zu versetzen, wenn sie wegen ihres körperlichen Zustands
@@ -716,6 +748,7 @@ Berücksichtigung der bisherigen Tätigkeit zumutbar ist.
 
 
 ### § 27 Begrenzte Dienstfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE002901311)
 
 (1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit ist
 abzusehen, wenn die Beamtin oder der Beamte unter Beibehaltung des
@@ -730,6 +763,7 @@ möglich.
 
 
 ### § 28 Ruhestand bei Beamtenverhältnis auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003000000)
 
 (1) Beamtinnen auf Probe und Beamte auf Probe sind in den Ruhestand zu
 versetzen, wenn sie infolge Krankheit, Verwundung oder sonstiger
@@ -746,6 +780,7 @@ anzuwenden.
 
 
 ### § 29 Wiederherstellung der Dienstfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003100000)
 
 (1) Wird nach der Versetzung in den Ruhestand wegen Dienstunfähigkeit
 die Dienstfähigkeit wiederhergestellt und beantragt die
@@ -792,6 +827,7 @@ fortgesetzt.
 
 
 ### § 30 Einstweiliger Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003200000)
 
 (1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit können
 jederzeit in den einstweiligen Ruhestand versetzt werden, wenn sie ein
@@ -817,6 +853,7 @@ diesem Zeitpunkt als dauernd in den Ruhestand versetzt.
 
 
 ### § 31 Einstweiliger Ruhestand bei Umbildung und Auflösung von Behörden
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003300000)
 
 (1) Bei der Auflösung einer Behörde oder bei einer auf
 landesrechtlicher Vorschrift beruhenden wesentlichen Änderung des
@@ -839,15 +876,18 @@ durch Landesrecht abweichende Regelungen getroffen werden.
 
 
 ### § 32 Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003400000)
 
 Die Versetzung in den Ruhestand setzt die Erfüllung einer
 versorgungsrechtlichen Wartezeit voraus.
 
 
 ## Abschnitt 6 - Rechtliche Stellung im Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000600000)
 
 
 ### § 33 Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003500000)
 
 (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei.
 Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr
@@ -863,6 +903,7 @@ ihres Amtes ergibt.
 
 
 ### § 34 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003603311)
 
 (1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz
 ihrem Beruf zu widmen. Sie haben die übertragenen Aufgaben
@@ -894,6 +935,7 @@ gesundheitliche Gründe erfordern dies.
 
 
 ### § 35 Folgepflicht
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003701311)
 
 (1) Beamtinnen und Beamte haben ihre Vorgesetzten zu beraten und zu
 unterstützen. Sie sind verpflichtet, deren dienstliche Anordnungen
@@ -907,6 +949,7 @@ dem Dienstherrn Folge zu leisten.
 
 
 ### § 36 Verantwortung für die Rechtmäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003801311)
 
 (1) Beamtinnen und Beamte tragen für die Rechtmäßigkeit ihrer
 dienstlichen Handlungen die volle persönliche Verantwortung.
@@ -933,6 +976,7 @@ Ausführung der Anordnung verlangt.
 
 
 ### § 37 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE003901377)
 
 (1) Beamtinnen und Beamte haben über die ihnen bei oder bei
 Gelegenheit ihrer amtlichen Tätigkeit bekannt gewordenen dienstlichen
@@ -1003,6 +1047,7 @@ Die gleiche Verpflichtung trifft ihre Hinterbliebenen und Erben.
 
 
 ### § 38 Diensteid
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004001311)
 
 (1) Beamtinnen und Beamte haben einen Diensteid zu leisten. Der
 Diensteid hat eine Verpflichtung auf das Grundgesetz zu enthalten.
@@ -1017,6 +1062,7 @@ Eides ein Gelöbnis vorgeschrieben werden.
 
 
 ### § 39 Verbot der Führung der Dienstgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004100000)
 
 Beamtinnen und Beamten kann aus zwingenden dienstlichen Gründen die
 Führung der Dienstgeschäfte verboten werden. Das Verbot erlischt, wenn
@@ -1027,6 +1073,7 @@ Verfahren eingeleitet worden ist.
 
 
 ### § 40 Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004200000)
 
 Eine Nebentätigkeit ist grundsätzlich anzeigepflichtig. Sie ist unter
 Erlaubnis- oder Verbotsvorbehalt zu stellen, soweit sie geeignet ist,
@@ -1034,6 +1081,7 @@ dienstliche Interessen zu beeinträchtigen.
 
 
 ### § 41 Tätigkeit nach Beendigung des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004301311)
 
 (1) Ruhestandsbeamtinnen und Ruhestandsbeamte sowie frühere Beamtinnen
 mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben
@@ -1054,6 +1102,7 @@ nach Beendigung des Beamtenverhältnisses bestimmt werden.
 
 
 ### § 42 Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004401116)
 
 (1) Beamtinnen und Beamte dürfen, auch nach Beendigung des
 Beamtenverhältnisses, keine Belohnungen, Geschenke oder sonstigen
@@ -1069,17 +1118,20 @@ ist.
 
 
 ### § 43 Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004500000)
 
 Teilzeitbeschäftigung ist zu ermöglichen.
 
 
 ### § 44 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004600000)
 
 Beamtinnen und Beamten steht jährlicher Erholungsurlaub unter
 Fortgewährung der Bezüge zu.
 
 
 ### § 45 Fürsorge
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004700000)
 
 Der Dienstherr hat im Rahmen des Dienst- und Treueverhältnisses für
 das Wohl der Beamtinnen und Beamten und ihrer Familien, auch für die
@@ -1089,11 +1141,13 @@ Stellung.
 
 
 ### § 46 Mutterschutz und Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004801360)
 
 Effektiver Mutterschutz und Elternzeit sind zu gewährleisten.
 
 
 ### § 47 Nichterfüllung von Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE004901311)
 
 (1) Beamtinnen und Beamte begehen ein Dienstvergehen, wenn sie
 schuldhaft die ihnen obliegenden Pflichten verletzen. Ein Verhalten
@@ -1120,6 +1174,7 @@ Disziplinargesetze.
 
 
 ### § 48 Pflicht zum Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005000000)
 
 Beamtinnen und Beamte, die vorsätzlich oder grob fahrlässig die ihnen
 obliegenden Pflichten verletzen, haben dem Dienstherrn, dessen
@@ -1129,6 +1184,7 @@ verursacht, haften sie als Gesamtschuldner.
 
 
 ### § 49 Übermittlungen bei Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005100000)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen und
@@ -1191,6 +1247,7 @@ den Voraussetzungen des § 30 Abs. 4 Nr. 5 der Abgabenordnung zulässig.
 
 
 ### § 50 Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005201311)
 
 Für jede Beamtin und jeden Beamten ist eine Personalakte zu führen.
 Zur Personalakte gehören alle Unterlagen, die die Beamtin oder den
@@ -1204,6 +1261,7 @@ Verarbeitung vorgesehen werden.
 
 
 ### § 51 Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005300000)
 
 Die Bildung von Personalvertretungen zum Zweck der vertrauensvollen
 Zusammenarbeit zwischen der Behördenleitung und dem Personal ist unter
@@ -1211,6 +1269,7 @@ Einbeziehung der Beamtinnen und Beamten zu gewährleisten.
 
 
 ### § 52 Mitgliedschaft in Gewerkschaften und Berufsverbänden
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005400000)
 
 Beamtinnen und Beamte haben das Recht, sich in Gewerkschaften oder
 Berufsverbänden zusammenzuschließen. Sie dürfen wegen Betätigung für
@@ -1219,6 +1278,7 @@ gemaßregelt oder benachteiligt werden.
 
 
 ### § 53 Beteiligung der Spitzenorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005500000)
 
 Bei der Vorbereitung gesetzlicher Regelungen der beamtenrechtlichen
 Verhältnisse durch die obersten Landesbehörden sind die
@@ -1228,9 +1288,11 @@ durch Vereinbarung ausgestaltet werden.
 
 
 ## Abschnitt 7 - Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000700000)
 
 
 ### § 54 Verwaltungsrechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005600000)
 
 (1) Für alle Klagen der Beamtinnen, Beamten, Ruhestandsbeamtinnen,
 Ruhestandsbeamten, früheren Beamtinnen, früheren Beamten und der
@@ -1253,9 +1315,11 @@ haben keine aufschiebende Wirkung.
 
 
 ## Abschnitt 8 - Spannungs- und Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000800000)
 
 
 ### § 55 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005700000)
 
 Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 56 bis 59
 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes zulässig. Sie
@@ -1264,6 +1328,7 @@ Arbeitssicherstellungsgesetzes nicht anzuwenden.
 
 
 ### § 56 Dienstleistung im Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005800000)
 
 (1) Beamtinnen und Beamte können für Zwecke der Verteidigung auch ohne
 ihre Zustimmung zu einem anderen Dienstherrn abgeordnet oder zur
@@ -1289,6 +1354,7 @@ verpflichtet.
 
 
 ### § 57 Aufschub der Entlassung und des Ruhestands
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE005900000)
 
 Die Entlassung der Beamtinnen und Beamten auf ihren Antrag kann für
 Zwecke der Verteidigung hinausgeschoben werden, wenn dies im
@@ -1305,6 +1371,7 @@ erreicht wird.
 
 
 ### § 58 Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE006000000)
 
 Ruhestandsbeamtinnen und Ruhestandsbeamte, die die für
 Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze noch
@@ -1318,6 +1385,7 @@ und Bundesbeamte geltende Regelaltersgrenze erreicht wird.
 
 
 ### § 59 Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE006100000)
 
 (1) Wenn dienstliche Gründe es erfordern, können Beamtinnen und Beamte
 für Zwecke der Verteidigung verpflichtet werden, vorübergehend in
@@ -1332,9 +1400,11 @@ Erfordernisse gestatten.
 
 
 ## Abschnitt 9 - Sonderregelungen für Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG000900000)
 
 
 ### § 60 Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE006200000)
 
 (1) Beamtinnen und Beamte, die zur Wahrnehmung des ihnen übertragenen
 Amtes im Ausland oder außerhalb des Deutschen Hoheitsgebiets auf
@@ -1371,9 +1441,11 @@ Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 
 
 ## Abschnitt 10 - Sonderregelungen für wissenschaftliches Hochschulpersonal
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG001000000)
 
 
 ### § 61 Hochschullehrerinnen und Hochschullehrer
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE006300000)
 
 Abweichend von den §§ 14 und 15 können Hochschullehrerinnen und
 Hochschullehrer nur mit ihrer Zustimmung in den Bereich eines
@@ -1392,14 +1464,17 @@ Hochschullehrer nicht anzuwenden.
 
 
 ## Abschnitt 11 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNG001100000)
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE006401310)
 
 (1) bis (19) (Änderungsvorschriften)
 
 
 ### § 63 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beamtstg/BJNR101000008.html#BJNR101000008BJNE006501310)
 
 (1) Die §§ 25 und 50 treten am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten die §§ 25 und 26 Abs. 3 sowie die §§ 56 bis 56f

@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/msag/BJNR202170971.html#BJNR202170971BJNE000100306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/msag/BJNR202170971.html#BJNR202170971BJNE000200306)
 
 Dem in Den Haag am 22. Oktober 1968 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen vom 5. Oktober 1961 über die
@@ -36,6 +38,7 @@ wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/msag/BJNR202170971.html#BJNR202170971BJNE000301308)
 
 (1) Für die in Artikel 4 Abs. 1, Artikel 5 Abs. 2, Artikel 10 und
 Artikel 11 Abs. 1 des Übereinkommens vorgesehenen Mitteilungen sind
@@ -60,18 +63,21 @@ hat, das Landesjugendamt Berlin zuständig.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/msag/BJNR202170971.html#BJNR202170971BJNE000401301)
 
 Die Vorschriften der §§ 19, 25 Abs. 1 des Staatsangehörigkeitsgesetzes
 bleiben unberührt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/msag/BJNR202170971.html#BJNR202170971BJNE000500306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/msag/BJNR202170971.html#BJNR202170971BJNE000600306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

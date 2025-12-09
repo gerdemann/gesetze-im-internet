@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2020/BJNR141300019.html#BJNR141300019BJNE000100000)
 
 Auf Grund des § 361 Nummer 1 des Dritten Buches Sozialgesetzbuch
 – Arbeitsförderung –, der zuletzt durch Artikel 448 der Verordnung vom
@@ -28,16 +29,19 @@ Wirtschaft und Energie:
 
 
 ## § 1 Umlagesatz
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2020/BJNR141300019.html#BJNR141300019BJNE000200000)
 
 Der Umlagesatz für das Kalenderjahr 2020 beträgt 0,06 Prozent.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2020/BJNR141300019.html#BJNR141300019BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/insogeldfestv_2020/BJNR141300019.html#BJNR141300019BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

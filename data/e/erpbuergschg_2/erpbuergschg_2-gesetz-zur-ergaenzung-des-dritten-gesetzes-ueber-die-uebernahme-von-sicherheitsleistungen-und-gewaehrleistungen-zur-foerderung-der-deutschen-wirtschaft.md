@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/erpb_rgschg_2/BJNR005170957.html#BJNR005170957BJNE000100307)
 
 (1) Der in § 2 Satz 1 des Dritten Gesetzes über die Übernahme von
 Sicherheitsleistungen und Gewährleistungen zur Förderung der deutschen
@@ -37,6 +38,7 @@ Bundesminister für wirtschaftliche Zusammenarbeit gemeinsam ausgeübt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/erpb_rgschg_2/BJNR005170957.html#BJNR005170957BJNE000200307)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -44,6 +46,7 @@ im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/erpb_rgschg_2/BJNR005170957.html#BJNR005170957BJNE000300307)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -32,6 +32,7 @@ Diese v tritt gem. § 7 abs. 2 am 12.8.2009 außer kraft, sofern nicht mit zusti
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000101377)
 
 Auf Grund des § 3 Absatz 1 Nummer 16 in Verbindung mit § 5 Absatz 1
 sowie des § 7 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Absatz 4 des
@@ -43,6 +44,7 @@ für Ernährung, Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1 Vollständiges Verbot der Einfuhr und des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000201377)
 
 (1) Maissaatgut, das mit einem Pflanzenschutzmittel, das aus einem in
 Anlage 1 aufgeführten Wirkstoff besteht oder einen solchen Wirkstoff
@@ -58,6 +60,7 @@ Saatguterzeuger zur ordnungsgemäßen Entsorgung abgegeben werden.
 
 
 ## § 2 Beschränktes Verbot der Einfuhr und des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000301377)
 
 (1) Maissaatgut, das mit einem Pflanzenschutzmittel, das aus einem in
 Anlage 2 aufgeführten Wirkstoff besteht oder einen solchen Wirkstoff
@@ -76,6 +79,7 @@ Saatguterzeuger zur ordnungsgemäßen Entsorgung abgegeben werden.
 
 
 ## § 3 Verbot und Beschränkung der Aussaat
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000402360)
 
 (1) Maissaatgut, das mit einem Pflanzenschutzmittel, das aus einem in
 Anlage 1 aufgeführten Wirkstoff besteht oder einen solchen Wirkstoff
@@ -103,6 +107,7 @@ machen.
 
 
 ## § 4 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000502360)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 kann auf Antrag Ausnahmen von dem Verbot des § 1 Absatz 1, § 2 Absatz
@@ -127,6 +132,7 @@ des Abriebes des Pflanzenschutzmittels, zu verhindern.
 
 
 ## § 5 Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000601377)
 
 In Anpassung an die örtlichen Verhältnisse kann die zuständige Behörde
 für die Aussaat des in § 3 Absatz 2 bezeichneten Maissaatgutes
@@ -138,6 +144,7 @@ verhindern.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000702377)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
@@ -145,12 +152,14 @@ vollziehbaren Anordnung nach § 5 zuwiderhandelt.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000801377)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu den §§ 1 und 3 Absatz 1)
 
 ## Anlage 1 Wirkstoffe
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE000901377)
 
 (Fundstelle: BAnz 2009, 520)
 1 Clothianidin
@@ -160,6 +169,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu den §§ 2 und 3 Absatz 2)
 
 ## Anlage 2 Wirkstoffe
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE001001377)
 
 (Fundstelle: BAnz 2009, 520)
 1 Methiocarb
@@ -167,6 +177,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage 3 Messmethode
+[Direktlink](https://www.gesetze-im-internet.de/maispflschmv/BJNR502300009.html#BJNR502300009BJNE001101377)
 
 (Fundstelle: BAnz 2009, 520)
 Der Abrieb des mit einem Pflanzenschutzmittel behandelten

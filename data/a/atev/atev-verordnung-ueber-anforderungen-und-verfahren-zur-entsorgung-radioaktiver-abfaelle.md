@@ -24,6 +24,7 @@ gegenüber ionisierender Strahlung und zur Aufhebung der Richtlinien
 
 
 ## § 1 Anfall und Verbleib
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000100000)
 
 (1) Wer eine Tätigkeit nach § 5, § 6, § 7, § 9 oder § 9b des
 Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3
@@ -75,6 +76,7 @@ ablieferungspflichtig wird.
 
 
 ## § 2 Pflicht zur Erfassung
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000200000)
 
 (1) Wer eine Tätigkeit nach § 5, § 6, § 7, § 9 oder § 9b des
 Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3
@@ -114,6 +116,7 @@ radioaktiver Abfälle mindestens ein Jahr lang bereitzuhalten.
 
 
 ## § 3 Behandlung und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000300000)
 
 (1) Die zuständige Behörde oder eine von ihr bestimmte Stelle kann die
 Art der Behandlung und Verpackung radioaktiver Abfälle vor deren
@@ -145,6 +148,7 @@ bleiben unberührt.
 
 
 ## § 4 Pflichten bei Abgabe und Empfang
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000400000)
 
 (1) Wer radioaktive Abfälle abgibt, ist verpflichtet, vorher eine
 schriftliche Erklärung des Empfängers über dessen Annahmebereitschaft
@@ -192,6 +196,7 @@ eine andere Behörde zuständig ist als für den Abgebenden.
 
 
 ## § 5 Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000500000)
 
 (1) Radioaktive Abfälle sind an eine Anlage des Bundes zur
 Sicherstellung und zur Endlagerung radioaktiver Abfälle abzuliefern,
@@ -267,6 +272,7 @@ Sicherstellung und zur Endlagerung radioaktiver Abfälle ab.
 
 
 ## § 6 Ausnahmen von der Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000600000)
 
 (1) Die Ablieferungspflicht nach § 5 bezieht sich nicht auf
 radioaktive Abfälle, deren anderweitige Beseitigung oder Abgabe im
@@ -305,6 +311,7 @@ oder Zwischenlagerung besteht.
 
 
 ## § 7 Zwischenlagerung
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000700000)
 
 (1) Bis zur Inbetriebnahme von Anlagen des Bundes zur Sicherstellung
 und zur Endlagerung radioaktiver Abfälle sind die nach § 5 Absatz 1
@@ -320,6 +327,7 @@ Halbsatz des Atomgesetzes abgerufen.
 
 
 ## § 8 Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000800000)
 
 Niemand darf sich den Pflichten dieser Verordnung dadurch entziehen,
 dass er radioaktive Abfälle aus zulassungsbedürftigen Tätigkeiten ohne
@@ -331,6 +339,7 @@ Strahlenschutzverordnung bleibt unberührt.
 
 
 ## § 9 Strahlenschutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE000900000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die in § 1
 Absatz 1 und 2 Satz 2, § 2 Absatz 1 und 2 Satz 1, Absatz 3 und 4, § 3
@@ -341,6 +350,7 @@ Die §§ 69 bis 75 des Strahlenschutzgesetzes bleiben unberührt.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE001000000)
 
 Ordnungswidrig im Sinne des § 46 Absatz 1 Nummer 4 des Atomgesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 9 Satz 1, auch in
@@ -349,6 +359,7 @@ Vorschrift eingehalten wird.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE001100000)
 
 (1) Verwaltungsakte, die auf Grund der §§ 72 bis 79 einschließlich der
 Anlage X der Strahlenschutzverordnung in der bis zum 31. Dezember 2018
@@ -362,6 +373,7 @@ sie bis zum 31. Dezember 2026 in elektronische Buchführungssysteme zu
 
 
 ## Anlage Kategorisierung, Buchführung und Transportmeldung radioaktiver Abfälle mit vernachlässigbarer Wärmeentwicklung sowie bereitzustellende Daten über bestrahlte Brennelemente und radioaktive Abfälle aus der Wiederaufarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/atev/BJNR217210018.html#BJNR217210018BJNE001200000)
 
 (Fundstelle: BGBl. I 2018, 2176 - 2186)
 

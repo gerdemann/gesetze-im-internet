@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/feiertev/DDNR002480990.html#DDNR002480990BJNE000100314)
 
 Als gesetzliche Feiertage werden wieder eingeführt:
 
@@ -44,6 +45,7 @@ Als gesetzliche Feiertage werden wieder eingeführt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/feiertev/DDNR002480990.html#DDNR002480990BJNE000200314)
 
 Durch den Minister für Arbeit und Soziales sind bis zur Bildung von
 Ländern unter Beachtung der territorialen und konfessionellen Spezifik
@@ -51,6 +53,7 @@ die erforderlichen Durchführungsbestimmungen zu erlassen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/feiertev/DDNR002480990.html#DDNR002480990BJNE000300314)
 
 Der § 7 Abs. 2 Buchstabe b der Verordnung über die durchgängige
 5-Tage-Arbeitswoche und die Verkürzung der wöchentlichen Arbeitszeit
@@ -61,11 +64,13 @@ aufgehoben.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/feiertev/DDNR002480990.html#DDNR002480990BJNE000400314)
 
 Diese Verordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/feiertev/DDNR002480990.html#DDNR002480990BJNE000500314)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

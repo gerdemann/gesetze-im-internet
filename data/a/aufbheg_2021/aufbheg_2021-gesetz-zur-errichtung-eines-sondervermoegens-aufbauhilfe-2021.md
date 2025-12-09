@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## § 1 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000100000)
 
 Es wird ein nationaler Fonds „Aufbauhilfe 2021“ als Sondervermögen des
 Bundes errichtet.
 
 
 ## § 2 Zweck und Mittelverwendung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000200000)
 
 (1) Der Fonds dient der Leistung von Hilfen in den vom Starkregen und
 Hochwasser im Juli 2021 betroffenen Ländern (Bayern, Nordrhein-
@@ -64,6 +66,7 @@ Kontrollen über die Mittelverwendung in angemessenem Umfang durch.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000300000)
 
 (1) Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
 Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine
@@ -77,6 +80,7 @@ die sich aus der Finanzierung des Fonds ergeben, haftet der Bund.
 
 
 ## § 4 Finanzierung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000400000)
 
 (1) Der Bund stellt dem Fonds Mittel in Höhe von bis zu 30 Milliarden
 Euro zur Verfügung, die der Bund im Jahr 2021 in Höhe von 16
@@ -105,12 +109,14 @@ geleisteten Beträge.
 
 
 ## § 5 Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000500000)
 
 Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks
 Rücklagen bilden.
 
 
 ## § 6 Wirtschaftsplan und Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000600000)
 
 Alle Einnahmen und Ausgaben des Fonds werden in einem Wirtschaftsplan
 veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben
@@ -121,6 +127,7 @@ festgestellt und als Anlage zum Bundeshaushaltsplan veröffentlicht.
 
 
 ## § 7 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000700000)
 
 Das Bundesministerium der Finanzen stellt für den Fonds am Schluss
 eines jeden Rechnungsjahres die Haushaltsrechnung als Rechnung über
@@ -129,6 +136,7 @@ fügt sie den Übersichten zur Haushaltsrechnung des Bundes bei.
 
 
 ## § 8 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/aufbheg_2021/BJNR414710021.html#BJNR414710021BJNE000800000)
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 

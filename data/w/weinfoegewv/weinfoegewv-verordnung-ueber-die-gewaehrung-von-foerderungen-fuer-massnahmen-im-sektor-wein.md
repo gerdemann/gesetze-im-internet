@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNG000101125)
 
 
 ### § 1 Anwendungsbereich und Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000201125)
 
 (1) Die Vorschriften dieser Verordnung gelten
 
@@ -79,9 +81,11 @@ Geändert durch
 
 
 ## Abschnitt 2 - Förderung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNG000201125)
 
 
 ### § 2 Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000301125)
 
 (1) Die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 1 kann
 beantragt werden von
@@ -166,6 +170,7 @@ Absatz 2 entsprechend.
 
 
 ### § 3 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003700125)
 
 (1) Zuständig für die Förderung von Maßnahmen nach § 1 Absatz 2 Nummer
 1 bis 3 und 6 im Hoheitsgebiet des jeweiligen Landes sind, sofern
@@ -190,6 +195,7 @@ Stellen.
 
 
 ### § 4 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000401125)
 
 (1) Ein Antrag auf Förderung einer Maßnahme nach § 1 Absatz 2 ist
 schriftlich oder, sofern die zuständige Stelle dies ermöglicht,
@@ -223,6 +229,7 @@ erlassen.
 
 
 ### § 5 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000600000)
 
 Die Landesregierungen können bei knappen Haushaltsmitteln durch
 Rechtsverordnung Prioritätskriterien und Gewichtungspunkte für die
@@ -237,6 +244,7 @@ an den Klimawandel leisten.
 (doppelt)
 
 ### § 5 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000501125)
 
 (1) Ein Antrag auf Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 1
 hat die Beschreibung der beantragten Maßnahme, die betreffende Fläche
@@ -310,6 +318,7 @@ entsprechend.
 
 
 ### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000701125)
 
 (1) Die Landesregierungen können durch Rechtsverordnung für die
 Förderung von Maßnahmen Folgendes festlegen:
@@ -347,6 +356,7 @@ Auswahlverfahren festlegen.
 
 
 ### § 7 Vorschusszahlungen und Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003800125)
 
 (1) Die zuständigen Stellen können auf Antrag Vorschusszahlungen für
 die Förderung gewähren.
@@ -377,6 +387,7 @@ zuständigen Stelle gestellt hat.
 
 
 ### § 8 Förderfähigkeit von maßnahmenbezogenen Kosten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003900125)
 
 (1) Im Falle von Maßnahmen nach § 1 Absatz 2 Nummer 1 sind
 vorbehaltlich des Satzes 2 die dafür erforderlichen Kosten
@@ -457,6 +468,7 @@ Weinbereitung ausgerichtete Investitionskosten förderfähig.
 
 
 ### § 9 Förderfähigkeit von Personalkosten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000801125)
 
 (1) Die Personalkosten des Antragstellers einer Maßnahme nach § 1
 Absatz 2 Nummer 4 oder 5 sind förderfähig, wenn sie im Zusammenhang
@@ -481,6 +493,7 @@ Bruttobeschäftigungskosten durch 1 720 Stunden geteilt werden.
 
 
 ### § 10 Förderfähigkeit von Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE000901125)
 
 (1) Die Verwaltungskosten der oder des Begünstigten, die oder der eine
 Förderung für eine Maßnahme nach § 1 Absatz 2 Nummer 4 oder 5 erhält,
@@ -508,6 +521,7 @@ Buchführungsgrundsätzen, -vorschriften und -methoden zu berechnen.
 
 
 ### § 11 Förderfähigkeit der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001001125)
 
 (1) Die Umsatzsteuer ist nicht förderfähig, mit Ausnahme der
 Umsatzsteuer, die nach dem geltenden Umsatzsteuerrecht nicht
@@ -523,6 +537,7 @@ ausgewiesen ist.
 
 
 ### § 12 Mindestparzellengröße bei der Umstrukturierung und Umstellung von Rebflächen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE004000125)
 
 (1) Die Mindestparzellengröße einer Maßnahme nach § 1 Absatz 2 Nummer
 1, die sich aus der Umstrukturierung und Umstellung ergeben muss, darf
@@ -544,6 +559,7 @@ festlegen.
 
 
 ### § 13 Zweckbindungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001101125)
 
 Für alle im Rahmen einer Maßnahme nach § 1 Absatz 2 Nummer 2 und 6
 erfolgten Förderungen zum Erwerb materieller und immaterieller
@@ -555,6 +571,7 @@ beschriebenen Art und Weise verwendet werden.
 
 
 ### § 14 Dauer der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001201125)
 
 (1) Die Förderung einer Maßnahme nach § 1 Absatz 2 Nummer 4 für einen
 bestimmten Begünstigten in einem bestimmten Mitgliedstaat und für eine
@@ -568,6 +585,7 @@ Ergebnisse der Maßnahme gerechtfertigt ist.
 
 
 ### § 15 Änderungen von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001301125)
 
 (1) Jede Änderung einer genehmigten Maßnahme ist der zuständigen
 Stelle von der oder dem Begünstigten mitzuteilen. Eine Änderung darf
@@ -590,9 +608,11 @@ Prozent der genehmigten Beträge zulässig.
 
 
 ## Abschnitt 3 - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNG000600000)
 
 
 ### § 16 Rechnungsführung
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001701125)
 
 Die im Rahmen einer Maßnahme getätigten Ausgaben sind auf Anforderung
 der zuständigen Stelle durch Rechnungen, Zahlungsnachweise oder andere
@@ -603,6 +623,7 @@ zuordenbar sein.
 
 
 ### § 17 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001800000)
 
 (1) Begünstigte von Förderungen sind verpflichtet, zum Zwecke der
 Kontrollen nach Abschnitt 4 den zuständigen Stellen im Rahmen ihrer
@@ -635,6 +656,7 @@ unionsrechtlichen Regelungen.
 
 
 ### § 18 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE001901125)
 
 (1) Begünstigte von Förderungen haben der zuständigen Stelle alle für
 die Durchführung der Kontrollen nach Abschnitt 4 sowie für die
@@ -669,9 +691,11 @@ Förderbescheide zu unterrichten.
 
 
 ## Abschnitt 4 - Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNG000700000)
 
 
 ### § 19 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002001125)
 
 (1) Die zuständigen Stellen haben Kontrollen durchzuführen und
 Maßnahmen zu ergreifen, soweit sie erforderlich sind, um die
@@ -710,6 +734,7 @@ Interessen der Europäischen Union zu gewährleisten.
 
 
 ### § 20 Verwaltungskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002101125)
 
 (1) Alle von einer oder einem Begünstigten oder Dritten vorgelegten
 Anträge auf Fördermittel, Zahlungsanträge und sonstigen Erklärungen
@@ -797,6 +822,7 @@ Absehen zu dokumentieren.
 
 
 ### § 21 Inhalt der Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002201125)
 
 (1) Durch Vor-Ort-Kontrollen ist zu überprüfen, ob die Maßnahme im
 Einklang mit den geltenden Bestimmungen durchgeführt wurde, und ob
@@ -818,6 +844,7 @@ wurde, übereinstimmt.
 
 
 ### § 22 Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002301125)
 
 (1) Soweit in diesem Abschnitt Stichprobenkontrollen vorgesehen sind,
 haben die zuständigen Stellen auf der Grundlage einer geeigneten
@@ -831,6 +858,7 @@ Zweck oder ihrer Wirksamkeit nicht zuwiderläuft.
 
 
 ### § 23 Kontrollsatz und Stichprobenerhebung für Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002401125)
 
 (1) Für die Förderung von Maßnahmen nach § 1 Absatz 2 kann nach deren
 Durchführung eine Stichprobenkontrolle vorgenommen werden. Eine
@@ -847,6 +875,7 @@ Kontrollquote im darauf folgenden Jahr zu prüfen.
 
 
 ### § 24 Auswahl der Kontrollstichprobe
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002501125)
 
 (1) Die zuständige Stelle hat gemäß den entsprechenden
 unionsrechtlichen Regelungen die Stichproben für die durchzuführenden
@@ -858,6 +887,7 @@ festzuhalten.
 
 
 ### § 25 Verwaltungs- und Vor-Ort-Kontrollen bei Umstrukturierung und Umstellung von Rebflächen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002601125)
 
 (1) Die Einhaltung der Bestimmungen über Förderungen nach § 1 Absatz 2
 Nummer 1 ist von den zuständigen Stellen anhand der Weinbaukartei zu
@@ -891,6 +921,7 @@ Jahr stichprobenartig Vor-Ort-Kontrollen durchzuführen.
 
 
 ### § 26 Kontrollen zur Einhaltung der Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002701125)
 
 (1) Die zuständigen Stellen haben stichprobenartig die Einhaltung von
 Verpflichtungen oder sonstigen Auflagen während der Zweckbindungsfrist
@@ -913,6 +944,7 @@ zu dokumentieren.
 
 
 ### § 27 Berichte über Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002801125)
 
 (1) Für jede Vor-Ort-Kontrolle ist im Anschluss an die Kontrolle ein
 schriftlicher oder elektronischer Bericht zu erstellen, der mindestens
@@ -942,6 +974,7 @@ Unterzeichnung zu geben.
 
 
 ### § 28 Kontrollierte Personen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE002900000)
 
 Natürliche und juristische Personen sowie Vereinigungen dieser
 Personen, deren berufliche Tätigkeiten den Kontrollen nach diesem
@@ -950,9 +983,11 @@ Weise behindern, sondern müssen sie jederzeit unterstützen.
 
 
 ## Abschnitt 5 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNG000800000)
 
 
 ### § 29 Kürzung von Förderbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003001125)
 
 Stellt die Bewilligungsstelle im Rahmen der Verwaltungskontrolle fest,
 dass Ausgaben nicht förderfähig sind, die die begünstigte Person auf
@@ -963,6 +998,7 @@ festgestellten Betrag zu kürzen.
 
 
 ### § 30 Sanktionierung von Übererklärungen bei der Maßnahme nach § 1 Absatz 2 Nummer 1
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003101125)
 
 Die Höhe der Förderung ist auf der Grundlage der Differenz zwischen
 der Fläche, die nach Verwaltungskontrollen des Stützungsantrags
@@ -990,6 +1026,7 @@ zu berechnen:
 
 
 ### § 31 Verwaltungssanktionen bei Verhinderung von Kontrollen vor Ort und bei Verstoß gegen sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003201125)
 
 (1) Die zuständige Stelle hat einen Antrag auf Förderung abzulehnen
 oder den Bewilligungsbescheid ganz oder teilweise aufzuheben, sofern
@@ -1005,6 +1042,7 @@ Verpflichtungen verstößt.
 
 
 ### § 32 Verzicht auf Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003301125)
 
 (1) Auf eine Sanktion ist zu verzichten, wenn
 
@@ -1030,6 +1068,7 @@ Verstoß geringfügigen Charakter hat.
 
 
 ### § 33 Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003400000)
 
 (1) Die Vorschriften dieses Abschnitts gelten nicht, wenn die Verstöße
 auf höhere Gewalt oder außergewöhnliche Umstände im Sinne des Artikels
@@ -1043,6 +1082,7 @@ der Lage ist, anzuzeigen.
 
 
 ### § 34 Rückforderung zu Unrecht gezahlter Beträge
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003501125)
 
 (1) Bei zu Unrecht gezahlten Beträgen ist die begünstigte Person zur
 Rückzahlung der betreffenden Beträge verpflichtet.
@@ -1059,9 +1099,11 @@ Zahlung übermittelt worden ist.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNG000900000)
 
 
 ### § 35 Muster, Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/weinf_gewv/BJNR1300B0023.html#BJNR1300B0023BJNE003600000)
 
 Soweit die zuständigen Stellen für Anträge, Verträge, Erklärungen oder
 Meldungen Muster bekanntgeben oder Vordrucke oder Formulare auch

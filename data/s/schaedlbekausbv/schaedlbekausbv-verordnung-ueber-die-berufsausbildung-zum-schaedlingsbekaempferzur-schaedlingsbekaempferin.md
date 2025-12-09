@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -29,17 +30,20 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000200000)
 
 Der Ausbildungsberuf Schädlingsbekämpfer/Schädlingsbekämpferin wird
 staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -50,6 +54,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -106,6 +111,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000600000)
 
 Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -117,6 +123,7 @@ erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -124,6 +131,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -132,6 +140,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -164,6 +173,7 @@ beachten kann.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -364,12 +374,14 @@ Prüfung nicht bestanden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
+[Direktlink](https://www.gesetze-im-internet.de/sch_dlbekausbv/BJNR163800004.html#BJNR163800004BJNE001200000)
 
 (Fundstelle BGBl. I 2004, 1641 - 1644)
 

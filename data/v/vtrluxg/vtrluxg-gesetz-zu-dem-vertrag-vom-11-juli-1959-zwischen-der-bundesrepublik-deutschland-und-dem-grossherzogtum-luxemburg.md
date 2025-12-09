@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/vtrluxg/BJNR220770960.html#BJNR220770960BJNE000100314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/vtrluxg/BJNR220770960.html#BJNR220770960BJNE000201126)
 
 (1) Die Rechte und Pflichten der nach Artikel 5 des Vertrags
 Berechtigten richten sich nach den im Geltungsbereich dieses Gesetzes
@@ -161,6 +163,7 @@ vor dem 1. Januar 1959 eingetreten ist.
 
 
 ## Art 2a
+[Direktlink](https://www.gesetze-im-internet.de/vtrluxg/BJNR220770960.html#BJNR220770960BJNE000300314)
 
 Geldleistungen, die das Großherzogtum Luxemburg aus Haushaltsmitteln
 nach Nummer 3 des 10. Notenwechsels betreffend beschlagnahmtes
@@ -172,12 +175,14 @@ Entschädigung.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/vtrluxg/BJNR220770960.html#BJNR220770960BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/vtrluxg/BJNR220770960.html#BJNR220770960BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

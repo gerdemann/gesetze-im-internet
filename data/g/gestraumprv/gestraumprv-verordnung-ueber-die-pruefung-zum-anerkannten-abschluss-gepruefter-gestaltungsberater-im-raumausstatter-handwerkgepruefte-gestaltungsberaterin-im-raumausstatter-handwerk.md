@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000100000)
 
 Auf Grund des § 42 Abs. 1 in Verbindung mit Abs. 2 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -36,6 +37,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Gestaltungsberater im Raumausstatter-Handwerk/zur Geprüften
@@ -105,6 +107,7 @@ Gestaltungsberaterin im Raumausstatter-Handwerk.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -132,6 +135,7 @@ Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung, Struktur und integrierte Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000400000)
 
 (1) Die Prüfung ist in den Handlungsbereichen "Beratung und
 Gestaltung" sowie "Auftragsvorbereitung und Projektplanung"
@@ -167,6 +171,7 @@ liegen.
 
 
 ## § 4 Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000500000)
 
 (1) Den Handlungsbereichen sind folgende Qualifikationsschwerpunkte
 zugeordnet:
@@ -348,6 +353,7 @@ werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000602119)
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese
@@ -359,6 +365,7 @@ zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE001100119)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -381,6 +388,7 @@ bewerten.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE001200119)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
@@ -417,6 +425,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE001300119)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -443,17 +452,20 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000701119)
 
 Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE000801119)
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE001400128)
 
 (Fundstelle: BGBl. I 2019, 2166 - 2167)
 
@@ -755,6 +767,7 @@ Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/gestraumprv/BJNR005400006.html#BJNR005400006BJNE001500128)
 
 (Fundstelle: BGBl. I 2019, 2167)
 

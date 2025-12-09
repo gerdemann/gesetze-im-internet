@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000100000)
 
 Auf Grund des § 31 Absatz 4 Satz 1 sowie Satz 3 und 4 der
 Gewerbeordnung, der durch Artikel 1 Nummer 4 des Gesetzes vom 4. März
@@ -28,6 +29,7 @@ Bundestages:
 
 
 ## § 1 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000200000)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle erteilt im Benehmen
 mit der nach § 58 Absatz 1 des Bundespolizeigesetzes vom 19. Oktober
@@ -45,6 +47,7 @@ geändert worden ist.
 
 
 ## § 2 Antragsberechtigung und Antrag
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000300000)
 
 (1) Einen Antrag auf die Zulassung nach § 31 Absatz 1 der
 Gewerbeordnung können natürliche und juristische Personen stellen, die
@@ -85,11 +88,13 @@ elektronisch erteilt.
 
 
 ## § 3 Dauer der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000400000)
 
 Die Zulassung wird für die Dauer von zwei Jahren erteilt.
 
 
 ## § 4 Betriebliche Organisation; Übertragung der Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000500000)
 
 (1) Das Bewachungsunternehmen muss eine ordnungsgemäße betriebliche
 Organisation einrichten und dokumentieren, die die Einhaltung der
@@ -158,6 +163,7 @@ gemäß § 31 Absatz 4 Satz 2 sowie Satz 3 und 4 in Verbindung mit Absatz
 
 
 ## § 5 Anforderungen an die Planung und Durchführung von Einsätzen auf See (Verfahrensabläufe und Dienstanweisungen); Übertragung der Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000600000)
 
 (1) Für die Planung und Durchführung von Einsätzen auf See sind vom
 Bewachungsunternehmen geeignete Verfahrensabläufe vor Beginn der
@@ -262,6 +268,7 @@ fortlaufend zu nummerieren und in ein Verzeichnis einzutragen.
 
 
 ## § 6 Ausrüstung; Übertragung der Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000700000)
 
 (1) Das Bewachungsunternehmen hat sicherzustellen, dass die
 Wachpersonen mit einer geeigneten, funktionsfähigen Ausrüstung zur
@@ -282,6 +289,7 @@ verwendet werden, die Amtsabzeichen zum Verwechseln ähnlich sind.
 
 
 ## § 7 Anforderungen an die eingesetzten Personen
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000800000)
 
 Das Bewachungsunternehmen darf für Bewachungsaufgaben nur Personen
 einsetzen, die
@@ -302,6 +310,7 @@ einsetzen, die
 
 
 ## § 8 Zuverlässigkeit; dem Bewachungsunternehmen vorzulegende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE000900000)
 
 (1) Personen sind nicht zuverlässig, wenn
 
@@ -456,6 +465,7 @@ Unterlagen vorlegen zu lassen:
 
 
 ## § 9 Persönliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001000000)
 
 (1) Personen besitzen keine persönliche Eignung, wenn sie
 
@@ -486,6 +496,7 @@ Eignung.
 
 
 ## § 10 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001100000)
 
 (1) Das Bewachungsunternehmen hat sicherzustellen, dass die
 Wachpersonen über Kenntnisse in folgenden, in der Anlage näher
@@ -585,6 +596,7 @@ und nur für den Zweck der Bewachung von Seeschiffen nachzuweisen.
 
 
 ## § 11 Anforderungen an die Geschäftsleitung sowie an die mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001200000)
 
 (1) § 7 Nummer 1, 2 und 3 gelten entsprechend für die Geschäftsleitung
 sowie die mit der Leitung des Betriebes oder einer Zweigniederlassung
@@ -620,6 +632,7 @@ früheren Dienstherrn nachweisen.
 
 
 ## § 12 Betriebshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001300000)
 
 (1) Bewachungsunternehmen sind verpflichtet, für sich und die
 eingesetzten Wachpersonen zur Deckung der Schäden, die den
@@ -648,6 +661,7 @@ Ausfuhrkontrolle.
 
 
 ## § 13 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001400000)
 
 (1) Das Bewachungsunternehmen ist verpflichtet, laufende
 Aufzeichnungen über seine Geschäfte und Einsätze zu führen und
@@ -750,6 +764,7 @@ Aufbewahrungspflichten bleiben unberührt.
 
 
 ## § 14 Anzeige-, Melde- und Vorlagepflichten
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001500000)
 
 (1) Das Bewachungsunternehmen ist verpflichtet, einen
 Bewachungseinsatz auf Seeschiffen unverzüglich beim Bundesamt für
@@ -802,6 +817,7 @@ Bundesamtes für Wirtschaft und Ausfuhrkontrolle einzureichen.
 
 
 ## § 15 Anerkennung ausländischer Zulassungen und Zertifizierungen
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001600000)
 
 (1) Staatliche Zulassungen und staatlich anerkannte Zertifizierungen
 für Bewachungsaufgaben auf Seeschiffen, die in einem anderen
@@ -830,6 +846,7 @@ anzuwenden.
 
 
 ## § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001700000)
 
 Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1 der Gewerbeordnung
 handelt, wer vorsätzlich oder fahrlässig
@@ -903,12 +920,14 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 10 Absatz 1)
 
 ## Anlage Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/seebewachv/BJNR156200013.html#BJNR156200013BJNE002000000)
 
 (Fundstelle: BGBl. I 2013, 1569 - 1573)
 

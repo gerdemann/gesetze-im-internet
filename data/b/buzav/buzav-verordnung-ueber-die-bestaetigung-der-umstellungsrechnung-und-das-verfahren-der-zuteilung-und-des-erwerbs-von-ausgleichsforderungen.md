@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000201307)
 
 Im Sinne dieser Verordnung sind
 
@@ -50,6 +51,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 2 Einreichung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000301307)
 
 (1) Geldinstitute und Außenhandelsbetriebe haben dem
 Bundesaufsichtsamt für das Kreditwesen (Bundesaufsichtsamt) und der
@@ -94,6 +96,7 @@ Bundesbank einzureichen.
 
 
 ## § 3 Bestätigung der Umstellungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000401307)
 
 Das Bundesaufsichtsamt prüft anhand der in § 2 genannten Unterlagen,
 ob die Vermögenswerte und Verbindlichkeiten in Mark der Deutschen
@@ -103,6 +106,7 @@ Bestätigungsvermerk des Prüfers gebunden.
 
 
 ## § 4 Zuteilung von Ausgleichsforderungen der Geldinstitute und Außenhandelsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000501307)
 
 (1) Das Bundesaufsichtsamt teilt Geldinstituten Forderungen gegen den
 Ausgleichsfonds Währungsumstellung als Ausgleichsforderungen so zu,
@@ -132,6 +136,7 @@ Mark abgerundet zugeteilt.
 
 
 ## § 5 Zuteilung von Forderungen des Ausgleichsfonds Währungsumstellung
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000601307)
 
 (1) Das Bundesaufsichtsamt teilt dem Ausgleichsfonds
 Währungsumstellung Forderungen gegen Geldinstitute zu, soweit deren
@@ -170,6 +175,7 @@ als Zuteilung.
 
 
 ## § 6 Verzinsung und Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000703307)
 
 (1) Die Ausgleichsforderungen nach § 4 Abs. 1 und 2 und die
 Forderungen des Ausgleichsfonds Währungsumstellung nach § 5 Abs. 1, 2
@@ -207,6 +213,7 @@ angezeigt hat.
 
 
 ## § 7 Vorläufigkeit der Zuteilung
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000801307)
 
 (1) Alle Ausgleichsforderungen nach § 4 Abs. 1 und 2 und Forderungen
 nach § 5 Abs. 1, 2 und 4 werden bis zum Ablauf des Geschäftsjahres,
@@ -245,6 +252,7 @@ einer Änderung vorläufiger Zuteilungen nach Absatz 1 Satz 2.
 
 
 ## § 7a Vorab-Zuteilung
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE001304307)
 
 (1) Das Bundesaufsichtsamt kann nach Vorliegen der in § 2 genannten
 Unterlagen vorab vorläufig Geldinstituten gemäß § 4 Abs. 1 bis zur
@@ -274,6 +282,7 @@ anzuwenden.
 
 
 ## § 8 Abtretung, Verpfändung und Umwandlung von Ausgleichsforderungen in Inhaberschuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE000903307)
 
 (1) Zugeteilte Ausgleichsforderungen nach § 4 Abs. 1 und 2 können
 abgetreten, beliehen und verpfändet werden.
@@ -304,6 +313,7 @@ bemessen waren, in Geld zu erstatten.
 
 
 ## § 9 Prüfungen und Eingriffsbefugnisse des Bundesaufsichtsamtes
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE001002307)
 
 (1) Das Bundesaufsichtsamt kann Auskünfte über alle mit der
 Währungsumstellung und der Zuteilung von Ausgleichsforderungen
@@ -327,6 +337,7 @@ Ausgleichsforderung nach § 4 Abs. 1 und 2 sowie einer Forderung nach §
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE001101307)
 
 (Inkrafttreten)
 
@@ -335,6 +346,7 @@ Berechnung der Kennziffern der Grundsätze gemäß §§ 10 und 11 des
 Gesetzes über das Kreditwesen
 
 ## Anlage - Bekanntmachung Nr. 1/69 des Bundesaufsichtsamtes für das Kreditwesen, zuletzt geändert mit Bekanntmachung vom 23. September 1988 -
+[Direktlink](https://www.gesetze-im-internet.de/buzav/BJNR023940990.html#BJNR023940990BJNE001201307)
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1994, 3742)

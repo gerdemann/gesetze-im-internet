@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000100000)
 
 Zweck dieses Gesetzes ist die Aufteilung der Kohlendioxidkosten
 zwischen Vermieter und Mieter entsprechend ihren
@@ -37,6 +39,7 @@ dienen der Reduktion von Treibhausgasemissionen im Gebäudebereich.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000200000)
 
 (1) Dieses Gesetz gilt für Gebäude, in denen Brennstoffe in getrennten
 oder verbundenen Anlagen zur Wärmeerzeugung für Heizung oder für
@@ -84,9 +87,11 @@ haben eine Abrechnung der Heiz- und Warmwasserkosten vereinbart.
 
 
 ## Abschnitt 2 - Informationspflicht bei der Lieferung von Brennstoffen oder Wärme
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNG000200000)
 
 
 ### § 3 Informationspflicht bei der Lieferung von Brennstoffen oder Wärme
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000300000)
 
 (1) Brennstofflieferanten haben auf Rechnungen für die Lieferung von
 Brennstoffen oder von Wärme folgende Informationen in
@@ -180,6 +185,7 @@ Wärmelieferanten entsprechend mit den Maßgaben, dass
 
 
 ### § 4 Maßgeblicher Zertifikatepreis
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000400000)
 
 (1) Der maßgebliche Preis der Emissionszertifikate entspricht
 
@@ -214,9 +220,11 @@ Internetseite.
 
 
 ## Abschnitt 3 - Berechnung und Aufteilung der Kohlendioxidkosten
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNG000300000)
 
 
 ### § 5 Aufteilung der Kohlendioxidkosten bei Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000500000)
 
 (1) Der Vermieter ermittelt im Zuge der jährlichen
 Heizkostenabrechnung den Kohlendioxidausstoß des Gebäudes in Kilogramm
@@ -255,6 +263,7 @@ und 5 gilt entsprechend.
 
 
 ### § 6 Begrenzung der Umlagefähigkeit; Erstattungsanspruch bei Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000600000)
 
 (1) Vereinbarungen, nach denen der Mieter mehr als den nach § 5 Absatz
 2 auf ihn entfallenden Anteil an den Kohlendioxidkosten zu tragen hat,
@@ -300,6 +309,7 @@ Erstattungsanspruch nach Absatz 2 um 5 Prozent zu kürzen.
 
 
 ### § 7 Abrechnung des auf den Mieter entfallenden Anteils an den Kohlendioxidkosten bei Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000700000)
 
 (1) Der Vermieter ermittelt die auf den oder die Mieter gemäß § 5
 Absatz 1 Satz 1 oder 2 entfallenden Kohlendioxidkosten, indem er den
@@ -333,6 +343,7 @@ Heizkosten um 3 Prozent zu kürzen.
 
 
 ### § 8 Aufteilung der Kohlendioxidkosten und Erstattungsanspruch bei Nichtwohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000800000)
 
 (1) Vereinbarungen, nach denen der Mieter mehr als 50 Prozent der
 Kohlendioxidkosten zu tragen hat, sind in Mietverträgen über Wohnraum
@@ -361,9 +372,11 @@ Nichtwohngebäude abgelöst werden.
 
 
 ## Abschnitt 4 - Begleitregelungen
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNG000400000)
 
 
 ### § 9 Beschränkungen bei energetischen Verbesserungen
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE000900000)
 
 (1) Sofern öffentlich-rechtliche Vorgaben einer wesentlichen
 energetischen Verbesserung des Gebäudes oder einer wesentlichen
@@ -398,9 +411,11 @@ Anteils berechtigen.
 
 
 ## Abschnitt 5 - Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNG000500000)
 
 
 ### § 10 Erfahrungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE001000000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz und das
 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen evaluieren
@@ -435,9 +450,11 @@ durchgeführt und umfasst insbesondere
 
 
 ## Abschnitt 6 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNG000600000)
 
 
 ### § 11 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE001100000)
 
 (1) Dieses Gesetz ist auf ein Mietverhältnis, das vor dem 1. Januar
 2023 entstanden ist, mit der Maßgabe anzuwenden, dass
@@ -461,12 +478,14 @@ oder mit Wärme und Warmwasser versorgen.
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE001200000)
 
 Dieses Gesetz tritt am 1. Januar 2023 in Kraft.
 
 (zu den §§ 5 bis 7)
 
 ### Anlage Einstufung der Gebäude oder der Wohnungen bei Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html#BJNR215400022BJNE001300000)
 
 (Fundstelle: BGBl. I 2022, 2159)
 

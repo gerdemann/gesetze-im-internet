@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2016/BJNR178100016.html#BJNR178100016BJNE000100000)
 
 Auf Grund des § 46 Absatz 7 Satz 1 des Zweiten Buches Sozialgesetzbuch
 – Grundsicherung für Arbeitsuchende – in der Fassung der
@@ -26,6 +27,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung des Wertes nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch bis zum Jahr 2017
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2016/BJNR178100016.html#BJNR178100016BJNE000200000)
 
 Der Wert nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch
 wird auf Grund der durch die Länder ermittelten Gesamtausgaben für die
@@ -56,11 +58,13 @@ Werte abgeleitet:
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2016/BJNR178100016.html#BJNR178100016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2016/BJNR178100016.html#BJNR178100016BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

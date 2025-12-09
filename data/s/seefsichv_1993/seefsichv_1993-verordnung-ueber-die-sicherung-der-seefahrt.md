@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000100307)
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 und 6 und Abs. 3 des
 Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 21. Januar
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesministerium der Justiz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000201308)
 
 (1) Diese Verordnung gilt auf den Seeschifffahrtsstraßen und darüber
 hinaus für Seeschiffe einschließlich Traditionsschiffe und
@@ -46,6 +48,7 @@ Befugnisse.
 
 
 ## § 2 Hilfeleistung in Seenotfällen
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000301308)
 
 (1) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche
 eines auf See befindlichen und zur Hilfeleistung fähigen Schiffes, dem
@@ -99,21 +102,25 @@ Hilfeleistung nicht mehr erforderlich ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000401308)
 
 (weggefallen)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000502308)
 
 (weggefallen)
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000602308)
 
 (weggefallen)
 
 
 ## § 6 Besondere Vorschriften für das Verhalten nach Zusammenstößen
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000702305)
 
 (1) Sind Schiffe zusammengestoßen, so haben die beteiligten
 Schiffsführer oder sonst für die Sicherheit Verantwortlichen allen von
@@ -141,6 +148,7 @@ mit Schiffahrtseinrichtungen aller Art entsprechend.
 
 
 ## § 7 Meldung bestimmter für die Seesicherheit bedeutsamer Ereignisse
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001604305)
 
 (1) Der Schiffsführer eines Schiffes, das die Bundesflagge führt, oder
 bei dessen Verhinderung ein anderes Besatzungsmitglied oder, sofern
@@ -287,6 +295,7 @@ auf zugesandtem Formblatt einen ausführlichen Bericht vorzulegen.
 
 
 ## § 7a Vorschriften für das Verhalten nach meldepflichtigen Ereignissen
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001700305)
 
 Der nach § 7 Absatz 2 und 2a zur Meldung eines Ereignisses
 verpflichtete Schiffsführer hat zum Zweck einer ordnungsgemäßen
@@ -315,6 +324,7 @@ Seesicherheitsuntersuchung dafür Sorge zu tragen, dass
 
 
 ## § 7b Meldung und Beseitigung von Wracks
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001802119)
 
 (1) Der Schiffsführer eines Schiffes, der sonst für die Sicherheit
 Verantwortliche des Schiffes und der Betreiber des Schiffes haben der
@@ -401,6 +411,7 @@ bedeutet
 
 
 ## § 7c Wrackbeseitigung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001900305)
 
 In den Fällen des § 7b Absatz 2 kann die Generaldirektion
 Wasserstraßen und Schifffahrt anordnen, dass der eingetragene
@@ -413,6 +424,7 @@ Gefahr ausgeht.
 
 
 ## § 8 Schiffswegeführung - Schiffsmeldesysteme
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001302305)
 
 (1) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche
 hat die Vorschriften für von der Internationalen Seeschiffahrts-
@@ -437,6 +449,7 @@ Bundesamtes für Seeschiffahrt und Hydrographie) nachrichtlich bekannt.
 
 
 ## § 8a Befahren des Panamakanals
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001500301)
 
 Der Betreiber eines Seeschiffes unter Bundesflagge, das den
 Panamakanal befahren will, hat sicherzustellen, dass
@@ -454,6 +467,7 @@ Panamakanal befahren will, hat sicherzustellen, dass
 
 
 ## § 9 Entscheidungsfreiheit des Schiffsführers im Interesse einer sicheren Schiffsführung
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001400307)
 
 Der Schiffsführer darf nicht durch den Reeder, den Charterer oder
 irgendeine andere Person daran gehindert werden, eine Entscheidung zu
@@ -463,6 +477,7 @@ Wetter und grober See.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE000906119)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -526,6 +541,7 @@ Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001002305)
 
 (1) Die §§ 7b, 7c und 10 Absatz 1 Nummer 5a und 5b sind erst ab dem
 Tag anzuwenden, an dem das Wrackbeseitigungsübereinkommen für die
@@ -536,11 +552,13 @@ den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001101308)
 
 (weggefallen)
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html#BJNR141700993BJNE001201308)
 
 (weggefallen)
 

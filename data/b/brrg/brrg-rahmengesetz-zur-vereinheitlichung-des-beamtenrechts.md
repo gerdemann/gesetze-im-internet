@@ -23,62 +23,76 @@ Zuletzt geändert durch
 
 
 ## Kapitel I - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG000103310)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE006003320)
 
 (weggefallen)
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE006606310)
 
 -
 
 
 ### § 44c
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE016402320)
 
 (weggefallen)
 
 
 ### (XXXX) §§ 45 bis 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE008706310)
 
 -
 
 
 ### (XXXX) §§ 48a, 49 und 49a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE016502320)
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE009802320)
 
 (weggefallen)
 
 
 ### (XXXX) §§ 56 bis 56f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE010104310)
 
 
 ### (XXXX) §§ 103, 103a und 104 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE011602320)
 
 
 ### (XXXX) §§ 106 bis 114 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE011802320)
 
 -
 
 
 ### (XXXX) §§ 119 und 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE012302320)
 
 -
 
 
 ## Kapitel II - Vorschriften, die einheitlich und unmittelbar gelten
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG003202320)
 
 
 
 ### Abschnitt I - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG003302320)
 
 
 
 #### § 121
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE012502320)
 
 Das Recht, Beamte zu haben, besitzen außer dem Bund
 
@@ -97,6 +111,7 @@ Das Recht, Beamte zu haben, besitzen außer dem Bund
 
 
 #### § 122
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE012603320)
 
 (1) Die Zulassung zum Vorbereitungsdienst einer Laufbahn darf nicht
 deshalb abgelehnt werden, weil der Bewerber die für seine Laufbahn
@@ -115,6 +130,7 @@ laufbahnrechtliche Probezeit erfolgreich abgeleistet hat.
 
 
 #### § 123
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE012703116)
 
 (1) Der Beamte kann nach Maßgabe der §§ 17 und 18 auch über den
 Bereich des Bundes oder eines Landes hinaus zu einem anderen
@@ -129,6 +145,7 @@ vorliegt.
 
 
 #### § 123a
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE015403320)
 
 (1) Dem Beamten kann im dienstlichen oder öffentlichen Interesse mit
 seiner Zustimmung vorübergehend eine seinem Amt entsprechende
@@ -150,12 +167,14 @@ dies erfordern.
 
 
 #### § 124
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE012802320)
 
 § 39 findet auch insoweit Anwendung, als seine Voraussetzungen über
 den Bereich des Bundes oder eines Landes hinaus gegeben sind.
 
 
 #### § 125
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE012906310)
 
 Der Beamte ist entlassen, wenn er zum Berufssoldaten oder zum Soldaten
 auf Zeit ernannt wird. Die Entlassung gilt als Entlassung auf eigenen
@@ -163,6 +182,7 @@ Antrag.
 
 
 #### § 125a
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013003310)
 
 (1) Bewirbt sich ein Polizeivollzugsbeamter auf Widerruf oder früherer
 Polizeivollzugsbeamter auf Widerruf, der ein Dienstverhältnis von
@@ -204,6 +224,7 @@ Vorbereitungsdienstes durchgeführt wird.
 
 
 #### § 125b
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014805360)
 
 (1) Haben sich die Anforderungen an die fachliche Eignung für die
 Einstellung in den öffentlichen Dienst in der Zeit erhöht, in der sich
@@ -234,6 +255,7 @@ beträgt längstens drei Jahre.
 
 
 #### § 125c
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE016901320)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamte zur
@@ -300,10 +322,12 @@ Personalsache" zu kennzeichnen.
 
 
 ### Abschnitt II - Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG003402320)
 
 
 
 #### § 126
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013104320)
 
 (1) Für alle Klagen der Beamten, Ruhestandsbeamten, früheren Beamten
 und der Hinterbliebenen aus dem Beamtenverhältnis ist der
@@ -336,6 +360,7 @@ Verwaltungsgerichtsordnung mit folgenden Maßgaben:
 
 
 #### § 127
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013202320)
 
 Für die Revision gegen das Urteil eines Oberverwaltungsgerichts über
 eine Klage aus dem Beamtenverhältnis gilt folgendes:
@@ -356,10 +381,12 @@ eine Klage aus dem Beamtenverhältnis gilt folgendes:
 
 
 ### Abschnitt III - Rechtsstellung der Beamten und Versorgungsempfänger bei der Umbildung von Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG003502320)
 
 
 
 #### § 128
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013302320)
 
 (1) Die Beamten einer Körperschaft, die vollständig in eine andere
 Körperschaft eingegliedert wird, treten mit der Umbildung kraft
@@ -391,6 +418,7 @@ vollständig oder teilweise auf eine oder mehrere andere Körperschaften
 
 
 #### § 129
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013404320)
 
 (1) Tritt ein Beamter auf Grund des § 128 Abs. 1 kraft Gesetzes in den
 Dienst einer anderen Körperschaft über oder wird er auf Grund des §
@@ -412,6 +440,7 @@ Abs. 4.
 
 
 #### § 130
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013504320)
 
 (1) Dem nach § 128 in den Dienst einer anderen Körperschaft kraft
 Gesetzes übergetretenen oder von ihr übernommenen Beamten soll ein
@@ -440,6 +469,7 @@ Ablauf der Amtszeit in den Ruhestand getreten wären.
 
 
 #### § 131
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013602320)
 
 Ist innerhalb absehbarer Zeit mit einer Umbildung im Sinne des § 128
 zu rechnen, so können die obersten Aufsichtsbehörden der beteiligten
@@ -453,6 +483,7 @@ erforderlichen Maßnahmen wesentlich erschwert würde.
 
 
 #### § 132
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013702320)
 
 (1) Die Vorschriften des § 128 Abs. 1 und 2 und des § 129 gelten
 entsprechend für die im Zeitpunkt der Umbildung bei der abgebenden
@@ -467,6 +498,7 @@ Abs. 4.
 
 
 #### § 133
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE013802320)
 
 Als Körperschaft im Sinne der Vorschriften dieses Abschnittes gelten
 alle juristischen Personen des öffentlichen Rechts mit
@@ -474,10 +506,12 @@ Dienstherrnfähigkeit (§ 121).
 
 
 ### Abschnitt IV - Sonderregelungen für den Spannungs- und Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG003701320)
 
 
 
 #### § 133a
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014901320)
 
 Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 133b bis
 133e sind nur nach Maßgabe des Artikels 80a des Grundgesetzes
@@ -488,6 +522,7 @@ Abs. 1 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968 (BGBl. I S.
 
 
 #### § 133b
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE015001320)
 
 (1) Der Beamte kann für Zwecke der Verteidigung auch ohne seine
 Zustimmung zu einem anderen Dienstherrn abgeordnet oder zur
@@ -512,6 +547,7 @@ Dienstleistung am neuen Dienstort verpflichtet.
 
 
 #### § 133c
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE015101320)
 
 Die Entlassung eines Beamten auf seinen Antrag kann für Zwecke der
 Verteidigung hinausgeschoben werden, wenn dies im öffentlichen
@@ -527,6 +563,7 @@ Lebensjahr vollendet.
 
 
 #### § 133d
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE015201320)
 
 Ein Ruhestandsbeamter, der das 65. Lebensjahr noch nicht vollendet
 hat, kann für Zwecke der Verteidigung erneut in ein Beamtenverhältnis
@@ -539,6 +576,7 @@ vollendet.
 
 
 #### § 133e
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE015301320)
 
 (1) Wenn dienstliche Gründe es erfordern, kann der Beamte für Zwecke
 der Verteidigung verpflichtet werden, vorübergehend in
@@ -552,10 +590,12 @@ soweit es die dienstlichen Erfordernisse gestatten.
 
 
 ### Abschnitt V - Sonderregelungen für Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNG003801320)
 
 
 
 #### § 133f
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE016601320)
 
 (1) Die Vorschriften dieses Abschnitts gelten für Beamte, die zur
 Wahrnehmung des ihnen übertragenen Amtes im Ausland oder außerhalb des
@@ -599,6 +639,7 @@ Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 
 
 #### § 135
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014002320)
 
 Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
 Religionsgesellschaften und ihre Verbände. Diesen bleibt es
@@ -608,26 +649,31 @@ Abschnitt II für anwendbar zu erklären.
 
 
 #### § 136
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014102320)
 
 (weggefallen)
 
 
 #### § 137
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014202320)
 
 (Übergangsvorschrift)
 
 
 #### (XXXX) §§ 139 und 140 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014402320)
 
 (Änderung von Rechtsvorschriften)
 
 
 #### § 141
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014502320)
 
 (gegenstandslos)
 
 
 #### § 142
+[Direktlink](https://www.gesetze-im-internet.de/brrg/BJNR006670957.html#BJNR006670957BJNE014602320)
 
 (Inkrafttreten)
 

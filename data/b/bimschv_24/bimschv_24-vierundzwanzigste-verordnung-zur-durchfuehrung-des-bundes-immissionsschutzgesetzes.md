@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000100305)
 
 Auf Grund des § 43 Abs. 1 Satz 1 Nr. 3 des Bundes-
 Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 14. Mai
@@ -28,6 +29,7 @@ beteiligten Kreise:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000201320)
 
 Die Verordnung legt Art und Umfang der zum Schutz vor schädlichen
 Umwelteinwirkungen durch Verkehrsgeräusche notwendigen
@@ -50,6 +52,7 @@ festgelegten Immissionsgrenzwerte überschritten werden.
 
 
 ## § 2 Art der Schallschutzmaßnahmen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000300305)
 
 (1) Schallschutzmaßnahmen im Sinne dieser Verordnung sind bauliche
 Verbesserungen an Umfassungsbauteilen schutzbedürftiger Räume, die die
@@ -84,6 +87,7 @@ erforderlich, wenn eine bauliche Anlage
 
 
 ## § 3 Umfang der Schallschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000400305)
 
 (1) Die Schalldämmung von Umfassungsbauteilen ist so zu verbessern,
 daß die gesamte Außenfläche des Raumes das nach der Gleichung (1) oder
@@ -108,6 +112,7 @@ Verordnung berechnet.
 
 
 ## § 4 Zugänglichkeit der Normblätter
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000500305)
 
 DIN-Normblätter, auf die in dieser Verordnung verwiesen wird, sind
 beim Beuth Verlag GmbH, Berlin und Köln, zu beziehen und beim
@@ -115,17 +120,20 @@ Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000600305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000700305)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Abs. 2 und § 3 Abs. 1, 3 und 4)
 
 ## Anlage Berechnung der erforderlichen bewerteten Schalldämm-Maße
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_24/BJNR017200997.html#BJNR017200997BJNE000801320)
 
 (Fundstelle: BGBl. I 1997, 173)
 

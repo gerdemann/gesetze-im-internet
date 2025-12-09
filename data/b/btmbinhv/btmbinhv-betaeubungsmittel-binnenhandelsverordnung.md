@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000100312)
 
 Auf Grund des § 12 Abs. 4 des Betäubungsmittelgesetzes vom 28. Juli
 1981 (BGBl. I S. 681) wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000202116)
 
 Wer Betäubungsmittel nach § 12 Absatz 1 des Betäubungsmittelgesetzes
 abgibt, hat für jede einzelne Abgabe durch Nutzung des elektronischen
@@ -36,6 +38,7 @@ Belegverfahren gelten die in der Anlage festgelegten Vorgaben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000303116)
 
 (1) Der Abgebende hat auf allen Teilen des Abgabebelegs
 (Abgabemeldung, Empfangsbestätigung, Lieferschein und
@@ -102,6 +105,7 @@ für Arzneimittel und Medizinprodukte nicht bekannt gemacht wurde.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000403116)
 
 (1) Die Empfangsbestätigung und der Lieferschein sind dem Erwerber
 zusammen mit den Betäubungsmitteln als Schriftstücke oder
@@ -117,6 +121,7 @@ Abs. 2 bis zum Eingang der Empfangsbestätigung aufzubewahren.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000503116)
 
 (1) Der Erwerber hat
 
@@ -168,6 +173,7 @@ Abs. 2 bis zum Eingang der Empfangsbestätigung aufzubewahren.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000601310)
 
 Die Empfangsbestätigungen oder bis zu deren Eingang die
 Lieferscheindoppel sind vom Abgebenden nach Abgabedaten, die
@@ -181,6 +187,7 @@ Empfangs der Betäubungsmittel.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000703116)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte weist die BtM-
 Nummern (§ 2 Abs. 1 Satz 1 Nr. 1 und 2) den berechtigten Personen und
@@ -191,6 +198,7 @@ Internetseite www.bfarm.de bekannt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000803116)
 
 Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des
 Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -234,6 +242,7 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE000902116)
 
 Bedarf der Abgebende nach § 4 Absatz 1 des Betäubungsmittelgesetzes
 keiner Erlaubnis nach § 3 des Betäubungsmittelgesetzes, so findet auf
@@ -243,6 +252,7 @@ Fassung Anwendung.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE001100312)
 
 (1) Diese Verordnung tritt am 1. Januar 1982 in Kraft.
 
@@ -252,11 +262,13 @@ Fassung Anwendung.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE001200312)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
 
 ## Anlage Vorgaben für das elektronische Belegverfahren
+[Direktlink](https://www.gesetze-im-internet.de/btmbinhv/BJNR014250981.html#BJNR014250981BJNE001300116)
 
 (Fundstelle: BAnz AT 20.12.2022 V1, 2 - 3)
 

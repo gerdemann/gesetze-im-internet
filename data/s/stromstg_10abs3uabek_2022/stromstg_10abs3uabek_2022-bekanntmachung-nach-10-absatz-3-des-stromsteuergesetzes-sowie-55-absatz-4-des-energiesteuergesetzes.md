@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_10abs3uabek_2022/BJNR526200021.html#BJNR526200021BJNE000100000)
 
 Nach § 10 Absatz 3 Satz 1 Nummer 2 Buchstabe b des Stromsteuergesetzes
 vom 24. März 1999 (BGBl. I S. 378; 2000 I S. 147) und nach § 55 Absatz
@@ -33,6 +34,7 @@ können.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_10abs3uabek_2022/BJNR526200021.html#BJNR526200021BJNE000200000)
 
 Bundesministerium der Finanzen
 

@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE000900319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I - Zustimmung zu den Übereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000100319)
 
 Den folgenden Übereinkommen wird zugestimmt:
 
@@ -53,10 +55,12 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 
 ## Art II - Europäisches Patentrecht
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000200319)
 
 
 
 ## § 1 Entschädigungsanspruch aus europäischen Patentanmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001004377)
 
 (1) Der Anmelder einer veröffentlichten europäischen Patentanmeldung,
 mit der für die Bundesrepublik Deutschland Schutz begehrt wird, kann
@@ -82,6 +86,7 @@ Patentübereinkommens bleibt unberührt.
 
 
 ## § 2 Veröffentlichung von Übersetzungen der Patentansprüche europäischer Patentanmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003801377)
 
 (1) Das Deutsche Patent- und Markenamt veröffentlicht auf Antrag des
 Anmelders die nach § 1 Abs. 2 eingereichte Übersetzung.
@@ -95,6 +100,7 @@ Zustimmung des Bundesrates auf das Deutsche Patent- und Markenamt
 
 
 ## § 3 Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004102311)
 
 Das Deutsche Patent- und Markenamt kann aus den bei ihm geführten
 Verfahren dem Europäischen Patentamt die für die Erfüllung von dessen
@@ -113,6 +119,7 @@ Fassung offensichtlich überwiegt.
 
 
 ## § 4 Einreichung europäischer Patentanmeldungen beim Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001303377)
 
 (1) Europäische Patentanmeldungen können auch beim Deutschen Patent-
 und Markenamt oder gemäß § 34 Abs. 2 des Patentgesetzes über ein
@@ -162,6 +169,7 @@ weiter und unterrichtet den Anmelder hiervon.
 
 
 ## § 5 Anspruch gegen den nichtberechtigten Patentanmelder
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001400319)
 
 (1) Der nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens
 Berechtigte, dessen Erfindung von einem Nichtberechtigten angemeldet
@@ -180,6 +188,7 @@ hatte.
 
 
 ## § 6 Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001502311)
 
 (1) Das mit Wirkung für die Bundesrepublik Deutschland erteilte
 europäische Patent wird auf Antrag für nichtig erklärt, wenn die
@@ -232,6 +241,7 @@ Antrag zu stellen.
 
 
 ## § 6a Ergänzende Schutzzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003702311)
 
 Das Deutsche Patent- und Markenamt erteilt ergänzende
 Schutzzertifikate nach § 49a des Patentgesetzes auch für das mit
@@ -240,6 +250,7 @@ Patent.
 
 
 ## § 7 Jahresgebühren
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001602377)
 
 (1) Für das mit Wirkung für die Bundesrepublik Deutschland erteilte
 europäische Patent sind Jahresgebühren nach § 17 des Patentgesetzes zu
@@ -256,6 +267,7 @@ Zustellung der Entscheidung der Großen Beschwerdekammer fällig.
 
 
 ## § 8 Verbot des Doppelschutzes
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001803311)
 
 (1) Soweit der Gegenstand eines im Verfahren nach dem Patentgesetz
 erteilten Patents eine Erfindung ist, für die demselben Erfinder oder
@@ -294,6 +306,7 @@ mehr, zu dem
 
 
 ## § 9 Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE001904377)
 
 (1) Hat der Anmelder einer europäischen Patentanmeldung, mit der für
 die Bundesrepublik Deutschland Schutz begehrt wird, einen
@@ -317,6 +330,7 @@ zurückgewiesen.
 
 
 ## § 10 Zuständigkeit von Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002001309)
 
 (1) Ist nach dem Protokoll über die gerichtliche Zuständigkeit und die
 Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines
@@ -330,6 +344,7 @@ Europäische Patentamt seinen Sitz hat.
 
 
 ## § 11 Zentrale Behörde für Rechtshilfeersuchen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002101377)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -339,6 +354,7 @@ Rechtshilfeersuchen zu bestimmen.
 
 
 ## § 12 Entzug des Geschäftssitzes eines zugelassenen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002201377)
 
 Zuständige Behörde für den Entzug der Berechtigung, einen
 Geschäftssitz nach Artikel 134 Abs. 6 Satz 1 und Abs. 8 des
@@ -354,6 +370,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung
 
 
 ## § 13 Ersuchen um Erstattung technischer Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002300319)
 
 Ersuchen der Gerichte um Erstattung technischer Gutachten nach Artikel
 25 des Europäischen Patentübereinkommens werden in unmittelbarem
@@ -361,6 +378,7 @@ Verkehr an das Europäische Patentamt übersandt.
 
 
 ## § 14 Unzulässige Anmeldung beim Europäischen Patentamt
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002400319)
 
 Wer eine Patentanmeldung, die ein Staatsgeheimnis (§ 93 des
 Strafgesetzbuches) enthält, unmittelbar beim Europäischen Patentamt
@@ -369,6 +387,7 @@ Geldstrafe bestraft.
 
 
 ## § 15 Europäisches Patent mit einheitlicher Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004300311)
 
 (1) Die §§ 1 bis 4 und 11 bis 14 gelten vorbehaltlich speziellerer
 Vorschriften auch für das europäische Patent mit einheitlicher Wirkung
@@ -401,6 +420,7 @@ spätere Fälligkeit ergibt.
 
 
 ## § 16 Zwangslizenz an einem europäischen Patent mit einheitlicher Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004400311)
 
 Ein europäisches Patent mit einheitlicher Wirkung ist in Bezug auf die
 Vorschriften des Patentgesetzes, die die Erteilung einer Zwangslizenz
@@ -409,12 +429,14 @@ zu behandeln.
 
 
 ## § 17 Verzicht auf das europäische Patent mit einheitlicher Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004500311)
 
 § 20 Absatz 1 Nummer 1 des Patentgesetzes findet auf europäische
 Patente mit einheitlicher Wirkung keine Anwendung.
 
 
 ## § 18 Doppelschutz und Einrede der doppelten Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004600311)
 
 (1) Eine Klage wegen Verletzung oder drohender Verletzung eines im
 Verfahren nach dem Patentgesetz erteilten Patents ist als unzulässig
@@ -453,6 +475,7 @@ Maßnahmen.
 
 
 ## § 19 Anwendung der Zivilprozessordnung für die Zwangsvollstreckung aus Entscheidungen und Anordnungen des Einheitlichen Patentgerichts
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004700311)
 
 (1) Aus Entscheidungen und Anordnungen des Einheitlichen
 Patentgerichts gemäß Artikel 82 des Übereinkommens über ein
@@ -490,6 +513,7 @@ nicht anzuwenden.
 
 
 ## § 20 Anwendung der Justizbeitreibungsordnung für die Beitreibung von Ansprüchen des Einheitlichen Patentgerichts
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004800311)
 
 (1) Die Vorschriften der Justizbeitreibungsordnung sind auf die
 Beitreibung von Ordnungs- und Zwangsgeldern sowie der sonstigen dem §
@@ -501,10 +525,12 @@ Bundesamt für Justiz.
 
 
 ## Art III - Verfahren nach dem Patentzusammenarbeitsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000300319)
 
 
 
 ## § 1 Das Deutsche Patent- und Markenamt als Anmeldeamt
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002503377)
 
 (1) Das Deutsche Patent- und Markenamt ist Anmeldeamt im Sinne des
 Artikels 10 des Patentzusammenarbeitsvertrags. Es nimmt internationale
@@ -534,6 +560,7 @@ das Verfahren vor dem Deutschen Patent- und Markenamt anzuwenden.
 
 
 ## § 2 Geheimhaltungsbedürftige internationale Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002603377)
 
 (1) Das Deutsche Patent- und Markenamt prüft alle bei ihm als
 Anmeldeamt eingereichten internationalen Anmeldungen darauf, ob mit
@@ -556,6 +583,7 @@ zurückgezahlt.
 
 
 ## § 3 Internationale Recherchebehörde
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002701377)
 
 Das Deutsche Patent- und Markenamt gibt bekannt, welche Behörde für
 die Bearbeitung der bei ihm eingereichten internationalen Anmeldungen
@@ -563,6 +591,7 @@ als Internationale Recherchebehörde bestimmt ist.
 
 
 ## § 4 Das Deutsche Patent- und Markenamt als Bestimmungsamt
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002807377)
 
 (1) Das Deutsche Patent- und Markenamt ist Bestimmungsamt, wenn in
 einer internationalen Anmeldung die Bundesrepublik Deutschland für ein
@@ -617,6 +646,7 @@ Markenamt eingegangen ist.
 
 
 ## § 5 Weiterbehandlung als nationale Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE002903377)
 
 (1) Übersendet das Internationale Büro dem Deutschen Patent- und
 Markenamt als Bestimmungsamt eine internationale Anmeldung, der das
@@ -639,6 +669,7 @@ Anmeldung als zurückgenommen behandelt hat.
 
 
 ## § 6 Das Deutsche Patent- und Markenamt als ausgewähltes Amt
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003003377)
 
 (1) Hat der Anmelder zu einer internationalen Anmeldung, für die das
 Deutsche Patent- und Markenamt Bestimmungsamt ist, beantragt, daß eine
@@ -657,6 +688,7 @@ Patentzusammenarbeitsvertrages tritt.
 
 
 ## § 7 Internationaler Recherchenbericht
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003102377)
 
 Liegt für die internationale Anmeldung ein internationaler
 Recherchenbericht vor, so ermäßigt sich die nach § 44 Abs. 3 des
@@ -668,6 +700,7 @@ Recherchenbericht für Teile der Anmeldung nicht erstellt worden ist.
 
 
 ## § 8 Veröffentlichung der internationalen Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003202377)
 
 (1) Die Veröffentlichung einer internationalen Anmeldung nach Artikel
 21 des Patentzusammenarbeitsvertrags, für die das Deutsche Patent- und
@@ -691,10 +724,12 @@ genannten Voraussetzungen erfüllt sind.
 
 
 ## Art IV bis VI - 
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000400319)
 
 
 
 ## Art VII - Einschränkung von Vorschriften der Patentanwaltsordnung und der Bundesrechtsanwaltsordnung
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000501377)
 
 Auf die Begründung eines Geschäftssitzes nach Artikel 134 Abs. 6 und 8
 des Europäischen Patentübereinkommens außerhalb des Geltungsbereichs
@@ -703,10 +738,12 @@ Bundesrechtsanwaltsordnung nicht anzuwenden.
 
 
 ## Art VIII u. IX - 
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000600319)
 
 
 
 ## Art X - Bekanntmachung von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000701311)
 
 Im Bundesgesetzblatt sind bekanntzumachen:
 
@@ -738,10 +775,12 @@ Im Bundesgesetzblatt sind bekanntzumachen:
 
 
 ## Art XI - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNG000800319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003301377)
 
 (1) Artikel IV ist nur auf die nach seinem Inkrafttreten beim
 Deutschen Patent- und Markenamt eingereichten Patentanmeldungen und
@@ -764,6 +803,7 @@ Inkrafttreten der genannten Bestimmungen unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003400319)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -773,6 +813,7 @@ S. 1).
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE003500319)
 
 (1) Artikel I, Artikel V, Artikel VIII sowie die §§ 2 und 3 dieses
 Artikels treten am 1. Oktober 1976 in Kraft.
@@ -827,6 +868,7 @@ Rechtsvorgängers beruht.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004200160)
 
 Für europäische Patente, für die der Hinweis auf die Erteilung vor dem
 1\. Mai 2008 im Europäischen Patentblatt veröffentlicht worden ist,
@@ -841,6 +883,7 @@ der Veröffentlichung des Hinweises gegolten haben.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/intpat_bkg/BJNR206499976.html#BJNR206499976BJNE004900311)
 
 Artikel II §§ 8 und 18 in der ab dem Inkrafttreten nach Artikel 3
 Absatz 2 des Gesetzes zur Anpassung patentrechtlicher Vorschriften auf

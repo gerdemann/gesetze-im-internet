@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euauswkomvorrv/BJNR200130962.html#BJNR200130962BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ bezeichnet, wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/euauswkomvorrv/BJNR200130962.html#BJNR200130962BJNE000200314)
 
 (1) Die Bestimmungen der Artikel II, III §§ 4 bis 9, V, VI §§ 19 bis
 23 und VII des Abkommens finden sinngemäß nach Maßgabe dieser
@@ -97,6 +99,7 @@ Abkommens keine Anwendung mit Ausnahme der Bestimmung des Artikels VI
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/euauswkomvorrv/BJNR200130962.html#BJNR200130962BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
@@ -109,11 +112,13 @@ vom 3. Juni 1957 auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/euauswkomvorrv/BJNR200130962.html#BJNR200130962BJNE000400314)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/euauswkomvorrv/BJNR200130962.html#BJNR200130962BJNE000500314)
 
 Der Stellvertreter des Bundeskanzlers
 Der Bundesminister des Auswärtigen

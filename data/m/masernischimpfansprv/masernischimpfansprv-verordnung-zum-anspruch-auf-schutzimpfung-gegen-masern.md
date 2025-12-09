@@ -24,6 +24,7 @@ Die geltung der v ist durch
 Stand: § 1 tritt gem. § 3 idF d. Art. 1 Nr. 2 V v. 29.3.2023 I Nr. 91 am 31.3.2023 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/masernischimpfansprv/BJNR607010021.html#BJNR607010021BJNE000102377)
 
 Auf Grund des § 20i Absatz 3 Satz 1 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 4 Nummer 4 Buchstabe b des
@@ -34,10 +35,12 @@ Krankenkassen:
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/masernischimpfansprv/BJNR607010021.html#BJNR607010021BJNE000202377)
 
 
 
 ## § 2 Schutzimpfungen gegen Masern
+[Direktlink](https://www.gesetze-im-internet.de/masernischimpfansprv/BJNR607010021.html#BJNR607010021BJNE000302377)
 
 (1) Personen, die nach dem 31. Dezember 1970 geboren wurden, das 18.
 Lebensjahr vollendet haben und in einer Einrichtung nach § 36 Absatz 1
@@ -55,6 +58,7 @@ Kombinationsimpfstoff.
 
 
 ## § 3 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/masernischimpfansprv/BJNR607010021.html#BJNR607010021BJNE000402377)
 
 § 1 tritt am 31. März 2023 außer Kraft.
 

@@ -27,6 +27,7 @@ Vorschriften (ABl. EG Nr. L 204 S. 37), geändert durch die Richtlinie
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000100305)
 
 Auf Grund des § 2 Abs. 1 des Öko-Kennzeichengesetzes vom 10. Dezember
 2001 (BGBl. I S. 3441) verordnet das Bundesministerium für
@@ -34,6 +35,7 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Gestaltung des Öko-Kennzeichens
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000200305)
 
 (1) Das Öko-Kennzeichen nach § 1 Abs. 1 des Öko-Kennzeichengesetzes
 besteht nach Maßgabe des Musters und der technischen Beschreibung der
@@ -94,6 +96,7 @@ verboten.
 
 
 ## § 2 Verwendung des Öko-Kennzeichens
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000300305)
 
 (1) Das Öko-Kennzeichen ist
 
@@ -132,6 +135,7 @@ angepriesen wird.
 
 
 ## § 3 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000402119)
 
 (1) Wer für Erzeugnisse nach § 1 Abs. 1 des Öko-Kennzeichengesetzes
 das Öko-Kennzeichen verwenden will, hat dies der Bundesanstalt für
@@ -148,6 +152,7 @@ Patent- und Markenamt unter der Registernummer 301 41 473 eingetragene
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000500305)
 
 Ordnungswidrig im Sinne des § 4 Abs. 2 des Öko-Kennzeichengesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 Satz 1
@@ -156,11 +161,13 @@ erstattet.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000600305)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000700305)
 
 Der Bundesrat hat zugestimmt.
 
@@ -168,6 +175,7 @@ Der Bundesrat hat zugestimmt.
 Öko-Kennzeichen
 
 ## Anlage 1 Muster
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000800305)
 
 (Inhalt: nicht darstellbares Muster Öko-Kennzeichen;
 Fundstelle: BGBl. I 2002, 591)
@@ -216,6 +224,7 @@ b)  Das Öko-Kennzeichen ist in der Version mit Verlauf zu verwenden
 Formblattmuster für die Anzeige
 
 ## Anlage 2 VERPFLICHTENDE ANGABEN!
+[Direktlink](https://www.gesetze-im-internet.de/_kokennzv/BJNR058900002.html#BJNR058900002BJNE000901377)
 
 (nicht darstellbares Formblatt;
 Fundstelle: BGBl. I 2005, 3384 - 3385)

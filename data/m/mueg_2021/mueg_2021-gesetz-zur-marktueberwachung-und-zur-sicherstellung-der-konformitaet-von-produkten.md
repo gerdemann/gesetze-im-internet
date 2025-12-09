@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000200000)
 
 (1) Dieses Gesetz gilt für Produkte im Anwendungsbereich von Artikel 2
 der Verordnung (EU) 2019/1020 des Europäischen Parlaments und des
@@ -35,6 +37,7 @@ vorgesehen sind.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000300000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -61,6 +64,7 @@ anzuwenden.
 
 
 ### § 3 Fernabsatz
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000400000)
 
 Auf online oder über eine andere Form des Fernabsatzes zum Verkauf
 angebotene Produkte im Sinne des § 1 Absatz 2 ist Artikel 6 der
@@ -68,9 +72,11 @@ Verordnung (EU) 2019/1020 entsprechend anzuwenden.
 
 
 ## Abschnitt 2 - Zuständigkeiten und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNG000200000)
 
 
 ### § 4 Zuständigkeiten und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000500000)
 
 (1) Vorbehaltlich des Satzes 2 obliegt die Marktüberwachung den für
 die Durchführung der Rechtsvorschriften nach § 1 Absatz 1 und 2
@@ -111,12 +117,14 @@ Marktüberwachungsbehörde.
 
 
 ### § 5 Verpflichtung zur Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000600000)
 
 Artikel 7 der Verordnung (EU) 2019/1020 gilt für Produkte im Sinne von
 § 1 Absatz 2 entsprechend.
 
 
 ### § 6 Marktüberwachungsstrategien
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000700000)
 
 (1) Die Marktüberwachungsbehörden haben für die von diesem Gesetz
 erfassten Regelungsbereiche Marktüberwachungsstrategien zu erstellen.
@@ -141,6 +149,7 @@ Union sicher.
 
 
 ### § 7 Befugnisse der Marktüberwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000800000)
 
 (1) Die Marktüberwachungsbehörden und die von ihnen beauftragten
 Personen haben die Befugnisse gemäß Artikel 14 Absatz 4 und 5 der
@@ -182,6 +191,7 @@ Datensammlung können die Marktüberwachungsbehörden zentrale
 
 
 ### § 8 Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE000900000)
 
 (1) Für Produkte im Sinne des § 1 Absatz 2 gelten die Bestimmungen des
 Artikels 11 Absatz 1 und 3 der Verordnung (EU) 2019/1020 entsprechend.
@@ -207,6 +217,7 @@ Absatz 6 der Verordnung (EU) 2019/1020 entsprechend anzuwenden.
 
 
 ### § 9 Adressaten der Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001000000)
 
 Die Maßnahmen der Marktüberwachungsbehörde können gegen jeden
 Wirtschaftsakteur und gegen jeden Aussteller gerichtet werden.
@@ -219,6 +230,7 @@ durch die Maßnahme geschützt.
 
 
 ### § 10 Verfahrensrechte und -pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001100000)
 
 (1) Die Wirtschaftsakteure, die Aussteller und die Anbieter von
 Diensten der Informationsgesellschaft haben die jeweils sie
@@ -238,6 +250,7 @@ Artikel 18 der Verordnung (EU) 2019/1020.
 
 
 ### § 11 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001200000)
 
 Die Marktüberwachungsbehörden des Bundes erheben für individuell
 zurechenbare öffentliche Leistungen Gebühren und Auslagen nach Maßgabe
@@ -248,9 +261,11 @@ Landesrecht oder nach speziellen bundesgesetzlichen Regelungen.
 
 
 ## Abschnitt 3 - Koordinierte Durchsetzung und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNG000300000)
 
 
 ### § 12 Deutsches Marktüberwachungsforum
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001300000)
 
 (1) Beim Bundesministerium für Wirtschaft und Energie wird ein
 Deutsches Marktüberwachungsforum eingerichtet.
@@ -290,6 +305,7 @@ Energie.
 
 
 ### § 13 Zusammensetzung und Funktionsweise des Deutschen Marktüberwachungsforums
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001400000)
 
 (1) Das Deutsche Marktüberwachungsforum besteht aus Vertretern der
 koordinierenden Kreise mit Vollzugsaufgaben in der Marktüberwachung,
@@ -306,6 +322,7 @@ Wirtschaft und Energie bedarf.
 
 
 ### § 14 Zentrale Verbindungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001500000)
 
 (1) Die zentrale Verbindungsstelle ist die Schnittstelle zum
 Unionsnetzwerk für Produktkonformität.
@@ -317,6 +334,7 @@ Energie wahr.
 
 
 ### § 15 Aufgaben der zentralen Verbindungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001600000)
 
 (1) Die zentrale Verbindungsstelle vertritt im Unionsnetzwerk für
 Produktkonformität die mit den betroffenen Bundesministerien
@@ -353,6 +371,7 @@ Kommunikationssystems ICSMS nach Artikel 34 der Verordnung (EU)
 
 
 ### § 16 Datenübermittlung an das Informations- und Kommunikationssystem (ICSMS)
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001700000)
 
 (1) Die Marktüberwachungsbehörden stellen für Produkte, die auf dem
 Markt bereitgestellt wurden und für die eine tiefergehende
@@ -405,9 +424,11 @@ stellen.
 
 
 ## Abschnitt 4 - Informations- und Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNG000400000)
 
 
 ### § 17 Unterstützungsverpflichtung, Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001800000)
 
 (1) Die Marktüberwachungsbehörden und die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin haben einander zu unterstützen und
@@ -444,6 +465,7 @@ Mitgliedstaates der Europäischen Union.
 
 
 ### § 18 Gemeinschaftliches System zum raschen Austausch von Informationen (RAPEX) gemäß Artikel 12 der Richtlinie 2001/95/EG über die allgemeine Produktsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE001900000)
 
 (1) Trifft eine Marktüberwachungsbehörde eine Maßnahme nach § 8 Absatz
 2 Satz 3 oder beabsichtigt sie dies, so unterrichtet sie unverzüglich
@@ -490,6 +512,7 @@ Bundesministerien über Meldungen, die ihr über das System zugehen.
 
 
 ### § 19 Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE002000000)
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin macht
 Anordnungen nach § 8 Absatz 2 Satz 1 in Verbindung mit Artikel 16
@@ -574,6 +597,7 @@ auf andere Informationsportale verweist.
 
 
 ### § 20 Informationen für Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE002100000)
 
 Wirtschaftsakteure können entsprechend Artikel 8 Absatz 2 der
 Verordnung (EU) 2019/1020 kostenlos Informationen über die Umsetzung
@@ -583,9 +607,11 @@ Artikel 9 Absatz 1, 4 und 5 der Verordnung (EU) 2019/515 anzuwenden.
 
 
 ## Abschnitt 5 - Sanktionen; Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNG000500000)
 
 
 ### § 21 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE002200000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 8 Absatz 2 Satz 1 in Verbindung mit
@@ -645,6 +671,7 @@ zehntausend Euro geahndet werden.
 
 
 ### § 22 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE002300000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 21 Absatz 1 oder 2 Nummer 2 Buchstabe b
@@ -654,6 +681,7 @@ oder fremde Sachen von bedeutendem Wert gefährdet.
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_g_2021/BJNR172310021.html#BJNR172310021BJNE002400000)
 
 Die in § 16 Absatz 1a genannten Vorschriften sind spätestens
 anzuwenden, wenn die elektronische Schnittstelle zur Übermittlung von

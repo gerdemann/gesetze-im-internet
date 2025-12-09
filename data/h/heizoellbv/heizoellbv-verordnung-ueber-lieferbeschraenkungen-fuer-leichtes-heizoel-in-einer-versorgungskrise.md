@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE000700326)
 
 Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung
 mit § 3 Abs. 1 und 3 des Energiesicherungsgesetzes 1975 vom 20.
@@ -27,10 +28,12 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## 1. Abschnitt - Liefer- und Bezugsbeschränkungen für leichtes Heizöl
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNG000100326)
 
 
 
 ### § 1 Liefer- und Bezugsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE000800326)
 
 (1) Heizölhändler und im Betrieb von Heizölhändlern Beschäftigte
 dürfen leichtes Heizöl an Abnehmer nur bis zu der Menge liefern, die
@@ -44,6 +47,7 @@ Zweck des Endverbrauchs bezieht.
 
 
 ### § 2 Umfang der Lieferung und des Bezugs
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE000900326)
 
 (1) Durch Verordnung werden bestimmt
 
@@ -97,6 +101,7 @@ zuständigen Kammer erbracht werden, daß die Anlage einem der in Absatz
 
 
 ### § 3 Fälle besonderen Bedarfs
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001000326)
 
 (1) Führt eine Bezugsbeschränkung nach § 2 zu einer unzumutbaren
 Härte, so können die zuständigen Stellen dem Abnehmer auf Antrag ein
@@ -122,10 +127,12 @@ der Abnehmer eine Bescheinigung nach dem Muster der Anlage 2.
 
 
 ## 2. Abschnitt - Ermittlung der Referenzmengen
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNG000200326)
 
 
 
 ### § 4 Referenzmenge auf Grund bisherigen Bezugs und Referenzzeit
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001100326)
 
 (1) Die Referenzmenge ist, soweit sich nicht aus den §§ 5 bis 7 etwas
 anderes ergibt, nach der Menge leichten Heizöls zu bestimmen, die in
@@ -138,6 +145,7 @@ durch Verordnung festgelegt.
 
 
 ### § 5 Referenzmenge bei Neu- und Zusatzbedarf für Raumheizung
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001200326)
 
 (1) Bei Heizölverbrauchsanlagen, die der Raumheizung dienen und die
 nach Beendigung der Referenzzeit neu in Betrieb genommen werden,
@@ -174,6 +182,7 @@ welchen Mengen er in der Referenzzeit leichtes Heizöl bezogen hat.
 
 
 ### § 6 Referenzmenge bei Neu- und Zusatzbedarf für öffentliche, gewerbliche, landwirtschaftliche und freiberufliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001300326)
 
 (1) Bei Heizölverbrauchsanlagen, ausgenommen Raumheizungsanlagen, die
 ganz oder teilweise öffentlichen, gewerblichen, landwirtschaftlichen
@@ -201,6 +210,7 @@ er in der Referenzzeit leichtes Heizöl bezogen hat.
 
 
 ### § 7 Referenzmenge bei Wechsel des Abnehmers
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001400326)
 
 (1) Hat bei einer Heizölverbrauchsanlage der Abnehmer während oder
 nach Beendigung der Referenzzeit gewechselt, so kann der neue Abnehmer
@@ -216,10 +226,12 @@ den §§ 5 und 6 zu bestimmen.
 
 
 ## 3. Abschnitt - Sonstige Vorschriften für Heizölhändler
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNG000300326)
 
 
 
 ### § 8 Lieferpflicht
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001500326)
 
 (1) Heizölhändler sind verpflichtet, Abnehmern leichtes Heizöl gegen
 Bezahlung zu liefern, soweit entsprechende Mengen verfügbar sind.
@@ -238,6 +250,7 @@ benachteiligen.
 
 
 ### § 9 Anordnung der Belieferung von Abnehmern
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001600326)
 
 Die zuständigen Stellen können gegenüber Heizölhändlern, die ihre
 Lieferpflicht nach § 8 verletzen, auf Antrag anordnen, ihrer
@@ -245,6 +258,7 @@ Lieferpflicht nachzukommen.
 
 
 ### § 10 Feststellung der Bezugsrechte der Abnehmer durch Heizölhändler
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001700326)
 
 (1) Heizölhändler haben, bevor sie Abnehmer beliefern, deren
 Bezugsrecht auf folgende Weise festzustellen:
@@ -295,6 +309,7 @@ gelieferten Mengen haben sie darin einzutragen.
 
 
 ### § 11 Eintragungen in die Lieferaufzeichnungen der Heizölhändler
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001800326)
 
 (1) Heizölhändler haben bei Lieferungen von leichtem Heizöl, die auf
 Grund einer bei ihnen bezogenen Referenzmenge erfolgen, diese Menge in
@@ -313,6 +328,7 @@ entsprechend aufgeschlüsselt einzutragen.
 
 
 ### § 12 Bescheinigungen der Heizölhändler über Lieferungen in der Referenzzeit
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE001900326)
 
 (1) Heizölhändler sind verpflichtet, Abnehmern, die sie während der
 Referenzzeit mit leichtem Heizöl beliefert haben, auf Verlangen
@@ -334,6 +350,7 @@ einmal ausstellen.
 
 
 ### § 13 Anordnung der Ausstellung einer Bescheinigung nach § 12
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002000326)
 
 Die zuständigen Stellen können gegenüber Heizölhändlern, die ihre
 Pflicht nach § 12 Abs. 1 Satz 1 verletzen, auf Antrag anordnen, ihrer
@@ -341,10 +358,12 @@ Pflicht zur Ausstellung von Bescheinigungen nachzukommen.
 
 
 ## 4. Abschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNG000400326)
 
 
 
 ### § 14 Verfahren, wenn Bescheinigungen nicht erlangt werden können oder abhanden gekommen sind
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002100326)
 
 (1) Die zuständigen Stellen können Abnehmern, die keine Bescheinigung
 nach § 12 Abs. 1 erhalten, auf Antrag eine Bescheinigung nach dem
@@ -368,16 +387,19 @@ nicht ausgenutzte Menge glaubhaft zu machen.
 
 
 ### § 15 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002200326)
 
 Zuständige Stellen sind die nach § 4 Abs. 5 des
 Energiesicherungsgesetzes 1975 bestimmten Stellen.
 
 
 ## 5. Abschnitt - Nachweis des Bezugs von leichtem Heizöl
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNG000500326)
 
 
 
 ### § 16 Aufbewahrungsempfehlung an Abnehmer
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002300326)
 
 (1) Heizölhändler haben die ihren Abnehmern ausgestellten
 Lieferrechnungen über leichtes Heizöl mit der Lieferanschrift und
@@ -394,6 +416,7 @@ werden.
 
 
 ### § 17 Aufzeichnungs- und Aufbewahrungspflicht der Heizölhändler
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002400326)
 
 (1) Heizölhändler haben Aufzeichnungen darüber zu führen, an welche
 Abnehmer (Name oder Firma, Anschrift), wann, in welcher Menge und an
@@ -406,10 +429,12 @@ Aufzeichnungen vier Jahre aufzubewahren.
 
 
 ## 6. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNG000600326)
 
 
 
 ### § 18 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002500326)
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des
 Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder
@@ -449,6 +474,7 @@ fahrlässig
 
 
 ### § 19 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002600326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 17 des Energiesicherungsgesetzes 1975 auch im Land
@@ -456,6 +482,7 @@ Berlin.
 
 
 ### § 20 Inkrafttreten und Anwendung dieser Verordnung, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002700326)
 
 (1) Diese Verordnung tritt mit Ausnahme der §§ 16 und 17 am Tage nach
 der Verkündung in Kraft. Die §§ 16 und 17 treten am 1. September 1982
@@ -485,6 +512,7 @@ bis zum 1. Mai 1983 die Sätze 1 und 2.
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002800326)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 541
 ----------------------------------------------------------------------
@@ -531,6 +559,7 @@ Unterschrift
 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE002900326)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 542
 ----------------------------------------------------------------------
@@ -594,6 +623,7 @@ Datum, Unterschrift
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE003000326)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 543
 ----------------------------------------------------------------------
@@ -660,6 +690,7 @@ Datum, Unterschrift
 
 
 ### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/heiz_llbv/BJNR005360982.html#BJNR005360982BJNE003100326)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 544
 ----------------------------------------------------------------------

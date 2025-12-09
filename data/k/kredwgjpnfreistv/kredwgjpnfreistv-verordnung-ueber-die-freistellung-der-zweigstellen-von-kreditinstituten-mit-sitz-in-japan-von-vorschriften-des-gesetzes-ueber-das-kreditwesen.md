@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredwgjpnfreistv/BJNR032300014.html#BJNR032300014BJNE000102119)
 
 Für Zweigstellen von Kreditinstituten mit Sitz in Japan, die der
 Aufsicht der japanischen Financial Services Agency unterstehen, gilt §
@@ -69,6 +70,7 @@ Aufsicht der japanischen Financial Services Agency unterstehen, gilt §
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredwgjpnfreistv/BJNR032300014.html#BJNR032300014BJNE000202119)
 
 § 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 11 des
 Kreditwesengesetzes sowie die zugehörigen Vorgaben der Artikel 430 bis

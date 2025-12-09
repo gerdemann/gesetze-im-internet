@@ -22,17 +22,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000200314)
 
 -
 
 
 ## Art 1a
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE001000308)
 
 Einen gewöhnlichen Aufenthalt im Sinne des Artikels 1 Nr. 2 des
 Abkommens hat im Geltungsbereich des Gesetzes nur, wer sich dort
@@ -40,6 +43,7 @@ unbefristet rechtmäßig aufhält.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000303308)
 
 (1) Zeiten, die nach dem polnischen Recht der Rentenversicherung zu
 berücksichtigen sind, sind bei der Feststellung einer Rente aus der
@@ -67,6 +71,7 @@ anzurechnen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000401308)
 
 (1) Das Fremdrenten- und Auslandsrenten-Neuregelungsgesetz findet auf
 diejenigen der in Artikel 7 des Abkommens genannten Berechtigten, die
@@ -89,6 +94,7 @@ Gesetzes als Arbeitsunfälle zu entschädigen gewesen wären.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000500314)
 
 (1) Hat ein Versicherungsträger im Geltungsbereich dieses Gesetzes
 Ansprüche oder Anwartschaften für Personen, die im Geltungsbereich
@@ -122,6 +128,7 @@ hätte.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000603126)
 
 (1) Von dem in Artikel 1 Abs. 1 der Vereinbarung genannten Betrag
 werden
@@ -160,6 +167,7 @@ dem Bundesminister für Arbeit und Sozialordnung.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000700314)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Durchführungsvereinbarungen über das
@@ -175,6 +183,7 @@ können Zahlstellen, Zahlwege und Zahlungsart vorgeschrieben werden.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000800314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -184,6 +193,7 @@ S. 1).
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvabkpolg/BJNR203930976.html#BJNR203930976BJNE000900314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

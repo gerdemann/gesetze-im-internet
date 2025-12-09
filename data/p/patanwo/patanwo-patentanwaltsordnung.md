@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Der Patentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000101123)
 
 
 
 ### § 1 Stellung in der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004001123)
 
 Der Patentanwalt ist in dem ihm durch dieses Gesetz zugewiesenen
 Aufgabenbereich ein unabhängiges Organ der Rechtspflege.
 
 
 ### § 2 Beruf des Patentanwalts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004101123)
 
 (1) Der Patentanwalt übt einen freien Beruf aus.
 
@@ -37,6 +40,7 @@ Aufgabenbereich ein unabhängiges Organ der Rechtspflege.
 
 
 ### § 3 Recht zur Beratung und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004209360)
 
 (1) Der Patentanwalt leistet nach Maßgabe dieses Gesetzes unabhängige
 Beratung und Vertretung.
@@ -95,6 +99,7 @@ unberührt.
 
 
 ### § 4 Auftreten vor den Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004309360)
 
 (1) In Rechtsstreitigkeiten, in denen ein Anspruch aus einem der im
 Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im
@@ -114,6 +119,7 @@ Bevollmächtigter vertretungsbefugt.
 
 
 ### § 4a Beiordnung von Patentanwälten bei Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028000360)
 
 (1) Wird in einem Rechtsstreit, in dem ein Anspruch aus einem der in §
 4 Absatz 1 genannten Gesetze geltend gemacht wird oder für dessen
@@ -150,18 +156,22 @@ anzuwenden:
 
 
 ## Zweiter Teil - Zulassung und allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000202360)
 
 
 
 ### Erster Abschnitt - Zulassung zur Patentanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000301123)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000401123)
 
 
 
 ##### § 5 Zugang zum Beruf des Patentanwalts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004405360)
 
 (1) Zur Patentanwaltschaft kann nur zugelassen werden, wer nach Absatz
 2 oder nach § 10a Absatz 4 die Befähigung für den Beruf des
@@ -198,6 +208,7 @@ Satzes 2.
 
 
 ##### § 6 Technische Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004502360)
 
 (1) Die technische Befähigung hat erworben, wer im Geltungsbereich
 dieses Gesetzes an einer wissenschaftlichen Hochschule ein Studium
@@ -221,6 +232,7 @@ Landes, in dem das es seinen Sitz hat.
 
 
 ##### § 7 Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004603360)
 
 (1) Die Bewerberin oder der Bewerber muß nach dem Erwerb der
 technischen Befähigung mindestens 34 Monate lang im Inland auf dem
@@ -274,6 +286,7 @@ Patent-, Muster- und Zeichenwesen" bekanntzugeben.
 
 
 ##### § 8 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004703360)
 
 Die erforderlichen Rechtskenntnisse sind durch eine schriftliche und
 mündliche Prüfung vor der Prüfungskommission (§ 9) nachzuweisen. Die
@@ -287,6 +300,7 @@ Prüfung kann auch elektronisch durchgeführt werden.
 
 
 ##### § 9 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004804360)
 
 Die Prüfungskommission wird beim Deutschen Patent- und Markenamt
 gebildet. Das Deutsche Patent- und Markenamt beruft in diese
@@ -295,6 +309,7 @@ Patent- und Markenamts sowie Patentanwälte und Patentassessoren.
 
 
 ##### § 10 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE004903360)
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet das Deutsche
 Patent- und Markenamt.
@@ -318,6 +333,7 @@ gerichtliche Entscheidung stellen.
 
 
 ##### § 10a Patentsachbearbeiter
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028100360)
 
 (1) Abweichend von § 10 Absatz 2 kann zur Prüfung auch zugelassen
 werden, wer
@@ -370,6 +386,7 @@ Patentanwalts.
 
 
 ##### § 11 Patentassessor
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005003123)
 
 (1) Wer die Prüfung nach § 8 bestanden hat, ist berechtigt, die
 Bezeichnung "Patentassessor" oder "Patentassessorin" zu führen.
@@ -379,6 +396,7 @@ Urkunde.
 
 
 ##### § 12 Ausbildungs- und Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005108360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -408,10 +426,12 @@ Erhebung und deren Stundung oder Erlass zu erlassen.
 
 
 #### Zweiter Unterabschnitt - Zulassung zur Patentanwaltschaft und Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000503123)
 
 
 
 ##### § 13 Antrag auf Zulassung zur Patentanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005203123)
 
 (1) Die Zulassung zur Patentanwaltschaft wird auf Antrag erteilt.
 
@@ -422,6 +442,7 @@ abgelehnt werden.
 
 
 ##### § 14 Versagung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005310360)
 
 Die Zulassung zur Patentanwaltschaft ist zu versagen,
 
@@ -485,10 +506,12 @@ lässt die Anwendbarkeit des Satzes 1 Nummer 5 unberührt.
 
 
 ##### (XXXX) §§ 15 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005402123)
 
 
 
 ##### § 17 Aussetzung des Zulassungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005602360)
 
 Die Entscheidung über den Antrag auf Zulassung zur Patentanwaltschaft
 kann ausgesetzt werden, wenn gegen die antragstellende Person ein
@@ -498,6 +521,7 @@ Zulassung zur Folge haben würde.
 
 
 ##### § 18 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005703360)
 
 (1) Die Zulassung zur Patentanwaltschaft wird wirksam mit der
 Aushändigung einer von der Patentanwaltskammer ausgestellten Urkunde.
@@ -522,6 +546,7 @@ Patentanwaltskammer.
 
 
 ##### § 19 Vereidigung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005805360)
 
 (1) Der Bewerber hat folgenden Eid vor der Patentanwaltskammer zu
 leisten: „Ich schwöre bei Gott dem Allmächtigen und Allwissenden, die
@@ -557,6 +582,7 @@ auf den früheren Eid oder das frühere Gelöbnis hingewiesen wird.
 
 
 ##### § 20 Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE005902123)
 
 Die Zulassung zur Patentanwaltschaft erlischt, wenn durch ein
 rechtskräftiges Urteil auf Ausschließung aus der Patentanwaltschaft
@@ -565,6 +591,7 @@ bestandskräftig geworden ist.
 
 
 ##### § 21 Rücknahme und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006011360)
 
 (1) Die Zulassung zur Patentanwaltschaft ist mit Wirkung für die
 Zukunft zurückzunehmen, wenn Tatsachen nachträglich bekannt werden,
@@ -657,6 +684,7 @@ Anordnung in der Regel zu treffen.
 
 
 ##### § 22 Ärztliches Gutachten bei Versagung und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006105360)
 
 (1) Wenn dies zur Entscheidung über den Versagungsgrund des § 14 Satz
 1 Nummer 7 oder über den Widerrufsgrund des § 21 Absatz 2 Nummer 3
@@ -683,10 +711,12 @@ Fristsetzung hinzuweisen.
 
 
 ##### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006207123)
 
 
 
 ##### § 24 Erlöschen der Befugnis zur Führung der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006304360)
 
 (1) Mit dem Erlöschen der Zulassung zur Patentanwaltschaft (§ 20)
 endet die Befugnis, die Berufsbezeichnung „Patentanwältin“ oder
@@ -714,15 +744,18 @@ der auch „i. R.“ abgekürzt werden kann.
 
 
 #### Dritter Unterabschnitt - Kanzlei und Patentanwaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000602123)
 
 
 
 ##### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006403123)
 
 -
 
 
 ##### § 26 Kanzlei
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006503123)
 
 (1) Der Patentanwalt muss im Geltungsbereich dieses Gesetzes eine
 Kanzlei einrichten und unterhalten.
@@ -739,6 +772,7 @@ Interesse der Rechtspflege erforderlich ist.
 
 
 ##### § 27 Kanzleien in anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006604360)
 
 (1) Der Patentanwalt darf auch in anderen Staaten Kanzleien einrichten
 oder unterhalten.
@@ -756,6 +790,7 @@ Staat sowie deren Änderung der Patentanwaltskammer mitzuteilen.
 
 
 ##### § 28 Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006705360)
 
 (1) Ist der Patentanwalt von der Pflicht befreit, eine Kanzlei zu
 unterhalten, so hat er der Patentanwaltskammer einen
@@ -773,6 +808,7 @@ Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
 
 
 ##### § 29 Patentanwaltsverzeichnis, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006807125)
 
 (1) Die Patentanwaltskammer führt ein elektronisches Verzeichnis der
 zugelassenen Patentanwälte und zugelassene
@@ -934,10 +970,12 @@ Patentanwaltskammer unverzüglich
 
 
 ### Zweiter Abschnitt - Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004102123)
 
 
 
 #### § 30 Ergänzende Anwendung der Verwaltungsverfahrensgesetze
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE006905360)
 
 (1) Für Verwaltungsverfahren nach diesem Gesetz oder nach einer auf
 Grund dieses Gesetzes erlassenen Rechtsverordnung gelten, soweit
@@ -955,6 +993,7 @@ Verwaltungsverfahrensgesetzes gilt entsprechend. In den Fällen des §
 
 
 #### § 31 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007003123)
 
 Für die Ausführung dieses Gesetzes und der nach diesem Gesetz
 erlassenen Rechtsverordnungen ist die Patentanwaltskammer zuständig,
@@ -962,6 +1001,7 @@ soweit nichts anderes bestimmt ist.
 
 
 #### § 32 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007102123)
 
 Verwaltungsakte, durch die die Zulassung zur Patentanwaltschaft oder
 die Mitgliedschaft in der Patentanwaltskammer begründet oder versagt
@@ -970,6 +1010,7 @@ versagt, zurückgenommen oder widerrufen wird, sind zuzustellen.
 
 
 #### § 33 Bestellung eines Vertreters im Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007202123)
 
 Wird auf Ersuchen der Patentanwaltskammer für das Verwaltungsverfahren
 ein Vertreter bestellt, soll ein Patentanwalt oder ein Rechtsanwalt
@@ -977,6 +1018,7 @@ bestellt werden.
 
 
 #### § 34 Ermittlung des Sachverhalts und Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007303360)
 
 (1) Die Patentanwaltskammer kann zur Ermittlung des Sachverhalts in
 Zulassungssachen eine unbeschränkte Auskunft nach § 41 Absatz 1 Nummer
@@ -1021,6 +1063,7 @@ Abgabenordnung.
 
 
 #### § 35 Ersetzung der Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007403125)
 
 Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform
 vorgeschrieben, so kann die Erklärung auch über das besondere
@@ -1035,18 +1078,22 @@ Organisationenpostfach nach Satz 1 gleich.
 
 
 #### (XXXX) §§ 36 bis 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE030100125)
 
 
 
 ## Dritter Teil - Rechte und Pflichten des Patentanwalts und berufliche Zusammenarbeit der Patentanwälte
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000803123)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004301123)
 
 
 
 #### § 39 Allgemeine Berufspflicht
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007801123)
 
 Der Patentanwalt hat seinen Beruf gewissenhaft auszuüben. Er hat sich
 innerhalb und außerhalb des Berufs der Achtung und des Vertrauens,
@@ -1054,6 +1101,7 @@ welche die Stellung des Patentanwalts erfordert, würdig zu erweisen.
 
 
 #### § 39a Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE023504360)
 
 (1) Der Patentanwalt darf keine Bindungen eingehen, die seine
 berufliche Unabhängigkeit gefährden.
@@ -1124,6 +1172,7 @@ oder auf ein Anderkonto einzuzahlen.
 
 
 #### § 39b Werbung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE023601123)
 
 Werbung ist dem Patentanwalt nur erlaubt, soweit sie über die
 berufliche Tätigkeit in Form und Inhalt sachlich unterrichtet und
@@ -1131,6 +1180,7 @@ nicht auf die Erteilung eines Auftrags im Einzelfall gerichtet ist.
 
 
 #### § 39c Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027900123)
 
 (1) Der Patentanwalt darf Dienstleistern den Zugang zu Tatsachen
 eröffnen, auf die sich die Verpflichtung zur Verschwiegenheit gemäß §
@@ -1191,6 +1241,7 @@ unberührt.
 
 
 #### § 40 Mitteilung der Ablehnung eines Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE007901123)
 
 Der Patentanwalt, der in seinem Beruf in Anspruch genommen wird und
 den Auftrag nicht annehmen will, muß die Ablehnung unverzüglich
@@ -1199,6 +1250,7 @@ Verzögerung dieser Erklärung entsteht.
 
 
 #### § 41 Tätigkeitsverbote bei nichtpatentanwaltlicher Vorbefassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008005360)
 
 (1) Der Patentanwalt darf nicht tätig werden, wenn er
 
@@ -1277,6 +1329,7 @@ betroffenen Person offenbart werden.
 
 
 #### § 41a Angestellte Patentanwälte und Syndikuspatentanwälte
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE023703360)
 
 (1) Patentanwälte dürfen ihren Beruf als Angestellte solcher
 Arbeitgeber ausüben, die als Patentanwälte, Rechtsanwälte oder als
@@ -1356,6 +1409,7 @@ patentanwaltliche Tätigkeit im Sinne des Absatzes 2 Satz 1.
 
 
 #### § 41b Zulassung als Syndikuspatentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027104360)
 
 (1) Die Zulassung zur Patentanwaltschaft als Syndikuspatentanwalt ist
 auf Antrag zu erteilen, wenn
@@ -1417,6 +1471,7 @@ Maßgabe, dass
 
 
 #### § 41c Erlöschen und Änderung der Zulassung als Syndikuspatentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027202360)
 
 (1) Die Zulassung als Syndikuspatentanwalt erlischt nach Maßgabe des §
 20\.
@@ -1461,6 +1516,7 @@ beizufügen. § 50 gilt entsprechend.
 
 
 #### § 41d Besondere Vorschriften für Syndikuspatentanwälte
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027302360)
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, gelten für
 Syndikuspatentanwälte die Vorschriften über Patentanwälte.
@@ -1501,6 +1557,7 @@ gezahlte Gehalt abgegolten.
 
 
 #### § 42 Patentanwälte im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008104360)
 
 (1) Patentanwälte, die als Richter oder Beamte verwendet werden, ohne
 auf Lebenszeit ernannt zu sein, die in das Dienstverhältnis eines
@@ -1522,6 +1579,7 @@ Vertretung bestellen.
 
 
 #### § 43 Pflicht zu Übernahme der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008209360)
 
 (1) Der Patentanwalt muss
 
@@ -1552,6 +1610,7 @@ wichtigem Grund ablehnen.
 
 
 #### § 43a Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE023805125)
 
 (1) Die Abgabe und Entgegennahme eines Teils der Honorare oder
 sonstiger Vorteile für die Vermittlung von Aufträgen, gleichviel ob im
@@ -1581,6 +1640,7 @@ verpflichtet wie der beauftragte Patentanwalt.
 
 
 #### § 43b Erfolgshonorar
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026002360)
 
 (1) Vereinbarungen, durch die eine Vergütung oder ihre Höhe vom
 Ausgang der Sache oder vom Erfolg der anwaltlichen Tätigkeit abhängig
@@ -1627,6 +1687,7 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 
 
 #### § 44 Handakten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008302123)
 
 (1) Der Patentanwalt muss durch das Führen von Handakten ein
 geordnetes und zutreffendes Bild über die Bearbeitung seiner Aufträge
@@ -1662,6 +1723,7 @@ und Herausgabepflichten bleiben unberührt.
 
 
 #### § 45 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE023909360)
 
 (1) Der Patentanwalt ist verpflichtet, eine
 Berufshaftpflichtversicherung zur Deckung der sich aus seiner
@@ -1737,10 +1799,12 @@ entsprechend. Zuständige Stelle ist die Patentanwaltskammer. § 21 Abs.
 
 
 #### § 45a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027003360)
 
 
 
 #### § 45b Vertragliche Begrenzung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024004125)
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem
 Patentanwalt bestehenden Vertragsverhältnis auf Ersatz eines
@@ -1771,6 +1835,7 @@ Textform.
 
 
 #### § 46 Bestellung einer Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008508360)
 
 (1) Der Patentanwalt muss für seine Vertretung sorgen, wenn er
 
@@ -1807,6 +1872,7 @@ aus wichtigem Grund ablehnen.
 
 
 #### § 47 Befugnisse der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008603360)
 
 (1) Der Vertretung stehen die patentanwaltlichen Befugnisse des
 Patentanwalts zu, den sie vertritt. Sie wird in eigener Verantwortung,
@@ -1834,6 +1900,7 @@ haftet die Patentanwaltskammer wie ein Bürge.
 
 
 #### § 48 Bestellung eines Abwicklers der Kanzlei
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008708360)
 
 (1) Ist ein Patentanwalt gestorben, so kann die Patentanwaltskammer
 einen Patentanwalt oder einen Patentassessor zum Abwickler der Kanzlei
@@ -1866,6 +1933,7 @@ Patentanwaltschaft erloschen ist.
 
 
 #### § 49 Besondere Pflichten gegenüber dem Vorstand der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008805125)
 
 (1) In Aufsichts- und Beschwerdesachen hat der Patentanwalt dem
 Vorstand der Patentanwaltskammer oder einem beauftragten Mitglied des
@@ -1911,6 +1979,7 @@ Dem Vorstand der Patentanwaltskammer sind auf Verlangen die Unterlagen
 
 
 #### § 50 Zwangsgeld bei Verletzung der besonderen Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE008903123)
 
 (1) Um einen Patentanwalt zur Erfüllung seiner Pflichten nach § 49
 anzuhalten, kann der Vorstand der Patentanwaltskammer gegen ihn, auch
@@ -1948,6 +2017,7 @@ machen.
 
 
 #### § 51 Mitgliederakten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009003360)
 
 (1) Die Patentanwaltskammer führt zur Erfüllung ihrer Aufgaben Akten
 über ihre Mitglieder (§ 53 Absatz 2). Mitgliederakten können teilweise
@@ -1998,6 +2068,7 @@ Absatz 2 gilt auch für frühere Mitglieder.
 
 
 #### § 52 Ausbildung von Bewerberinnen und Bewerbern für die Patentanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009102123)
 
 Der Patentanwalt hat Bewerberinnen und Bewerber, die zur Ausbildung
 bei ihm beschäftigt sind, in den Aufgaben des Patentanwalts zu
@@ -2009,6 +2080,7 @@ durchzuführen.
 
 
 #### § 52a Satzungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024206125)
 
 (1) Das Nähere zu den beruflichen Rechten und Pflichten wird von der
 Kammerversammlung durch Satzung in einer Berufsordnung bestimmt.
@@ -2136,10 +2208,12 @@ Umstände zu prüfen, ob die Vorschrift anzupassen ist.
 
 
 ### Zweiter Abschnitt - Berufliche Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004402360)
 
 
 
 #### § 52b Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028200360)
 
 (1) Patentanwälte dürfen sich zur gemeinschaftlichen Ausübung ihres
 Berufs zu Berufsausübungsgesellschaften verbinden. Sie dürfen sich zur
@@ -2177,6 +2251,7 @@ gilt § 159.
 
 
 #### § 52c Berufsausübungsgesellschaften mit Angehörigen anderer Berufe
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024703360)
 
 (1) Die Verbindung zu einer Berufsausübungsgesellschaft nach § 52b
 Absatz 1 ist Patentanwälten auch gestattet
@@ -2227,6 +2302,7 @@ Patentanwaltsberufs dienen.
 
 
 #### § 52d Berufspflichten bei beruflicher Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024803125)
 
 (1) Gesellschafter, die Angehörige eines in § 52c Absatz 1 Satz 1
 genannten Berufs sind, haben bei ihrer Tätigkeit für die
@@ -2267,6 +2343,7 @@ Mandatsgesellschaft Sorge zu tragen.
 
 
 #### § 52e Berufspflichten der Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024905125)
 
 (1) Die §§ 39 bis 40, § 41 Absatz 1 Nummer 2 bis 4, die §§ 43 bis 44,
 46, 47, 49 Absatz 1 und 2 sowie die §§ 50 bis 52a gelten für
@@ -2295,6 +2372,7 @@ Mandatsgesellschaft Sorge zu tragen. Absatz 4 gilt entsprechend.
 
 
 #### § 52f Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025005125)
 
 (1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die
 Patentanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen
@@ -2358,6 +2436,7 @@ Deckungszusage angegeben ist, die Zulassung mit.
 
 
 #### § 52g Zulassungsverfahren; Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025104125)
 
 (1) Der Antrag auf Zulassung muss folgende Angaben enthalten:
 
@@ -2398,6 +2477,7 @@ anzugebenden Verhältnisse unverzüglich anzuzeigen. Absatz 1 Satz 2 und
 
 
 #### § 52h Erlöschen, Rücknahme und Widerruf der Zulassung; Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025205360)
 
 (1) Die Zulassung einer Berufsausübungsgesellschaft erlischt durch
 ihre Auflösung. Im Übrigen gilt § 20 entsprechend.
@@ -2480,6 +2560,7 @@ Abwicklers haften die Gesellschafter als Gesamtschuldner. § 47 Absatz
 
 
 #### § 52i Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025304125)
 
 (1) Zugelassene Berufsausübungsgesellschaften nach diesem Gesetz
 können Gesellschafter einer Berufsausübungsgesellschaft sein. Bei
@@ -2513,6 +2594,7 @@ stimmberechtigte Gesellschafter bevollmächtigen.
 
 
 #### § 52j Geschäftsführungsorgane; Aufsichtsorgane
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025405360)
 
 (1) Nur Patentanwälte oder Angehörige eines der in § 52c Absatz 1 Satz
 1 genannten Berufe können Mitglieder des Geschäftsführungs- oder
@@ -2568,6 +2650,7 @@ Geschäftsbetrieb sind die Absätze 1, 5 und 6 entsprechend anzuwenden.
 
 
 #### § 52k Recht zur Beratung und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025504360)
 
 (1) Berufsausübungsgesellschaften sind zur unabhängigen Beratung und
 Vertretung nach § 3 Absatz 2 und 3 befugt.
@@ -2584,6 +2667,7 @@ vorgeschriebenen Voraussetzungen für die Beratung und Vertretung nach
 
 
 #### § 52l Kanzlei der Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025602360)
 
 (1) Die Berufsausübungsgesellschaft muss an ihrem Sitz eine Kanzlei
 unterhalten, in der zumindest ein geschäftsführender Patentanwalt
@@ -2599,6 +2683,7 @@ Absatz 2 und 3 sowie § 28 entsprechend.
 
 
 #### § 52m Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025706125)
 
 (1) Berufsausübungsgesellschaften sind verpflichtet, eine
 Berufshaftpflichtversicherung abzuschließen und während der Dauer
@@ -2622,6 +2707,7 @@ Versicherungsschutzes.
 
 
 #### § 52n Mindestversicherungssumme und Jahreshöchstleistung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028302125)
 
 (1) Für Berufsausübungsgesellschaften, bei denen für Verbindlichkeiten
 der Berufsausübungsgesellschaft aus Schäden wegen fehlerhafter
@@ -2662,6 +2748,7 @@ belaufen.
 
 
 #### § 52o Patentanwaltsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028400360)
 
 Berufsausübungsgesellschaften, bei denen Patentanwälte die Mehrheit
 der Stimmrechte innehaben und bei denen die Mehrheit der Mitglieder
@@ -2670,6 +2757,7 @@ des Geschäftsführungsorgans Patentanwälte sind, dürfen die Bezeichnung
 
 
 #### § 52p Bürogemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028500360)
 
 (1) Patentanwälte können sich zu einer Gesellschaft verbinden, die der
 gemeinschaftlichen Organisation der Berufstätigkeit der Gesellschafter
@@ -2697,14 +2785,17 @@ Bürogemeinschaft nach Absatz 2 entsprechend.
 
 
 ## Vierter Teil - Die Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG000901123)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001001123)
 
 
 
 #### § 53 Bildung und Zusammensetzung der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009204125)
 
 (1) Es wird eine Patentanwaltskammer gebildet. Ihr Sitz wird durch
 ihre Satzung bestimmt.
@@ -2770,6 +2861,7 @@ ihre Satzung bestimmt.
 
 
 #### § 54 Aufgaben der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009301123)
 
 Die Patentanwaltskammer hat die Aufgabe, die Belange des Berufsstands
 zu wahren und zu fördern sowie die Einhaltung der Berufspflichten zu
@@ -2777,6 +2869,7 @@ zu wahren und zu fördern sowie die Einhaltung der Berufspflichten zu
 
 
 #### § 55 Organe der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009401123)
 
 Organe der Patentanwaltskammer sind:
 
@@ -2790,12 +2883,14 @@ Organe der Patentanwaltskammer sind:
 
 
 #### § 56 Satzung der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009504360)
 
 Die Organisation und Verwaltung der Patentanwaltskammer werden, soweit
 dieses Gesetz keine Vorschriften enthält, durch die Satzung geregelt.
 
 
 #### § 57 Stellung der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009602360)
 
 (1) Die Patentanwaltskammer ist eine bundesunmittelbare Körperschaft
 des öffentlichen Rechts.
@@ -2807,14 +2902,17 @@ Patentanwaltskammer übertragenen Aufgaben erfüllt werden.
 
 
 ### Zweiter Abschnitt - Organe der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001101123)
 
 
 
 #### Erster Unterabschnitt - Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001201123)
 
 
 
 ##### § 58 Zusammensetzung des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009702123)
 
 (1) Der Vorstand der Patentanwaltskammer besteht aus sieben
 Mitgliedern. Die Satzung kann eine höhere Zahl festsetzen.
@@ -2830,6 +2928,7 @@ die meisten Stimmen auf sich vereinigen.
 
 
 ##### § 59 Voraussetzungen der Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009802123)
 
 Zum Mitglied des Vorstands kann nur gewählt werden, wer
 
@@ -2844,6 +2943,7 @@ Zum Mitglied des Vorstands kann nur gewählt werden, wer
 
 
 ##### § 60 Verlust der Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE009906360)
 
 (1) Zum Mitglied des Vorstands kann nicht gewählt werden,
 
@@ -2875,6 +2975,7 @@ vorsehen.
 
 
 ##### § 61 Recht zur Ablehnung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010002123)
 
 Die Wahl zum Mitglied des Vorstands kann ablehnen,
 
@@ -2892,6 +2993,7 @@ Die Wahl zum Mitglied des Vorstands kann ablehnen,
 
 
 ##### § 62 Wahlperiode
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010101123)
 
 (1) Die Mitglieder des Vorstands werden auf vier Jahre gewählt. Die
 Wiederwahl ist zulässig.
@@ -2910,6 +3012,7 @@ Neuwahl statt, so sind beide Wahlen getrennt vorzunehmen.
 
 
 ##### § 63 Vorzeitiges Ausscheiden eines Vorstandsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010205360)
 
 (1) Ein Patentanwalt scheidet als Mitglied des Vorstands aus,
 
@@ -2948,6 +3051,7 @@ Mitgliedschaft führen.
 
 
 ##### § 64 Wahl des Präsidenten, des Schriftführers und des Schatzmeisters
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010302360)
 
 (1) Der Vorstand wählt aus seiner Mitte einen Präsidenten und einen
 Vizepräsidenten sowie einen Schriftführer und dessen Vertretung; er
@@ -2961,6 +3065,7 @@ gewählt.
 
 
 ##### § 65 Sitzungen des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010402360)
 
 (1) Der Vorstand wird durch den Präsidenten einberufen.
 
@@ -2972,12 +3077,14 @@ angeben, der behandelt werden soll.
 
 
 ##### § 66 Beschlußfähigkeit des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010503360)
 
 Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner
 Mitglieder anwesend ist.
 
 
 ##### § 67 Beschlüsse des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010604125)
 
 (1) Die Beschlüsse des Vorstands werden mit einfacher Stimmenmehrheit
 gefaßt. Das gleiche gilt für die von dem Vorstand vorzunehmenden
@@ -2998,6 +3105,7 @@ Abstimmung außerhalb von Sitzungen ist in Textform durchzuführen.
 
 
 ##### § 68 Abteilungen des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010703125)
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Satzung es
 zuläßt. Er überträgt den Abteilungen die Geschäfte, die sie
@@ -3026,6 +3134,7 @@ beantragt.
 
 
 ##### § 69 Aufgaben des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010807125)
 
 (1) Der Vorstand hat die ihm durch Gesetz und Satzung zugewiesenen
 Aufgaben zu erfüllen. Ihm obliegen auch die der Patentanwaltskammer in
@@ -3105,6 +3214,7 @@ verbindlich, wenn er von beiden Seiten angenommen wird.
 
 
 ##### § 69a Verwaltungsbehörde für Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026802360)
 
 (1) Die Patentanwaltskammer ist im Sinne des § 36 Absatz 1 Nummer 1
 des Gesetzes über Ordnungswidrigkeiten Verwaltungsbehörde für
@@ -3123,6 +3233,7 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 ##### § 70 Rügerecht des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE010905360)
 
 (1) Der Vorstand kann das Verhalten eines Patentanwalts, durch das
 dieser ihm obliegende Pflichten verletzt hat, rügen, wenn die Schuld
@@ -3166,6 +3277,7 @@ Verfahrens nicht erforderlich scheint. § 95 Absatz 5, die §§ 95b und
 
 
 ##### § 70a Antrag auf Entscheidung des Landgerichts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011005360)
 
 (1) Wird der Einspruch gegen den Rügebescheid durch den Vorstand der
 Patentanwaltskammer zurückgewiesen, so kann der Patentanwalt innerhalb
@@ -3221,6 +3333,7 @@ Berufsausübungsgesellschaften entsprechend anzuwenden. Die §§ 95b und
 
 
 ##### § 71 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011102360)
 
 (1) Die Mitglieder des Vorstands haben über die Angelegenheiten, die
 ihnen bei ihrer Tätigkeit im Vorstand über Patentanwälte und andere
@@ -3265,6 +3378,7 @@ unterliegen, § 39c Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 
 ##### § 72 Ehrenamtliche Tätigkeit des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011201123)
 
 Die Mitglieder des Vorstands üben ihre Tätigkeit unentgeltlich aus.
 Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer
@@ -3272,6 +3386,7 @@ Tätigkeit verbundenen Aufwand sowie eine Reisekostenvergütung.
 
 
 ##### § 73 Aufgaben des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011301123)
 
 (1) Der Präsident vertritt die Kammer gerichtlich und
 außergerichtlich.
@@ -3288,6 +3403,7 @@ Geschäftsordnungen des Vorstands und der Kammer weitere Aufgaben
 
 
 ##### § 74 Berichte über die Tätigkeit der Kammer und über Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011406360)
 
 (1) Der Präsident erstattet dem Bundesministerium der Justiz und für
 Verbraucherschutz und dem Deutschen Patent- und Markenamt jährlich
@@ -3303,6 +3419,7 @@ Zeichenwesen bekannt.
 
 
 ##### § 75 Aufgaben des Schriftführers
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011501123)
 
 Der Schriftführer führt das Protokoll über die Sitzungen des Vorstands
 und der Kammerversammlung. Er führt den Schriftwechsel des Vorstands.
@@ -3310,6 +3427,7 @@ Der Präsident kann Abweichendes bestimmen.
 
 
 ##### § 76 Aufgaben des Schatzmeisters
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011602123)
 
 (1) Der Schatzmeister verwaltet das Vermögen der Kammer nach den
 Weisungen des Vorstands. Er ist berechtigt, Zahlungen
@@ -3323,6 +3441,7 @@ und § 77 Abs. 1.
 
 
 ##### § 77 Einziehung rückständiger Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011702123)
 
 (1) Rückständige Beiträge, Umlagen, Gebühren und Auslagen werden auf
 Grund der von dem Schatzmeister ausgestellten, mit der Bescheinigung
@@ -3343,10 +3462,12 @@ geltend zu machen.
 
 
 #### Zweiter Unterabschnitt - Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001301123)
 
 
 
 ##### § 78 Einberufung der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011802125)
 
 (1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
@@ -3360,6 +3481,7 @@ Kammerversammlung am Sitz der Kammer zusammentreten.
 
 
 ##### § 79 Einladung und Einberufungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE011903125)
 
 Die Kammerversammlung ist mindestens zwei Wochen vorher einzuberufen.
 Die Einberufung hat schriftlich oder elektronisch zu erfolgen. Bei der
@@ -3369,6 +3491,7 @@ Kammerversammlung mit kürzerer Frist einberufen werden.
 
 
 ##### § 79a Durchführung der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE030000125)
 
 (1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in
 Präsenz aller Beteiligten am Ort der Versammlung statt.
@@ -3420,6 +3543,7 @@ Kammerversammlung nicht anzuwenden.
 
 
 ##### § 80 Ankündigung der Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012001123)
 
 (1) Bei der Einberufung der Kammerversammlung ist der Gegenstand, über
 den Beschluß gefaßt werden soll, anzugeben.
@@ -3429,6 +3553,7 @@ angekündigt ist, dürfen keine Beschlüsse gefaßt werden.
 
 
 ##### § 81 Wahlen und Beschlüsse der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012102123)
 
 (1) Die Voraussetzungen, unter denen die Kammerversammlung
 beschlußfähig ist, werden durch die Satzung geregelt.
@@ -3450,6 +3575,7 @@ zu unterzeichnen ist.
 
 
 ##### § 82 Aufgaben der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012207360)
 
 (1) Die Kammerversammlung hat die ihr durch Gesetz zugewiesenen
 Aufgaben zu erfüllen. Sie hat berufliche Angelegenheiten, die von
@@ -3495,6 +3621,7 @@ allgemeiner Bedeutung für die Patentanwaltschaft sind, zu erörtern.
 
 
 ##### § 82a Prüfung der Berufsordnung und der Satzung der Kammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024304360)
 
 (1) Die Berufsordnung bedarf der Genehmigung durch das
 Bundesministerium der Justiz und für Verbraucherschutz. Diese gilt als
@@ -3525,18 +3652,22 @@ Absatz 1 entsprechend.
 
 
 ##### (XXXX) §§ 83 und 84 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012302123)
 
 
 
 ## Fünfter Teil - Gerichte in Patentanwaltssachen und gerichtliches Verfahren in verwaltungsrechtlichen Patentanwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001502123)
 
 
 
 ### Erster Abschnitt - Das Landgericht und das Oberlandesgericht in Patentanwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001601123)
 
 
 
 #### § 85 Kammer für Patentanwaltssachen bei dem Landgericht
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012502360)
 
 (1) Für Angelegenheiten, die in diesem Gesetz dem Landgericht
 zugewiesen sind, wird bei dem Landgericht, in dessen Bezirk das
@@ -3549,6 +3680,7 @@ Patentanwälten.
 
 
 #### § 86 Senat für Patentanwaltssachen bei dem Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012601123)
 
 (1) Für Angelegenheiten, die in diesem Gesetz dem Oberlandesgericht
 zugewiesen sind, wird bei dem Oberlandesgericht, zu dessen Bezirk das
@@ -3560,6 +3692,7 @@ zwei Patentanwälten.
 
 
 #### § 87 Patentanwaltliche Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012707360)
 
 (1) Die Mitglieder der Kammer für Patentanwaltssachen und des Senats
 für Patentanwaltssachen, die Patentanwälte sind, werden von der für
@@ -3602,6 +3735,7 @@ wird für den Rest seiner Amtszeit ein Nachfolger ernannt.
 
 
 #### § 88 Rechtsstellung der patentanwaltlichen Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012803360)
 
 (1) Die patentanwaltlichen Mitglieder sind ehrenamtliche Richter. Sie
 haben in ihrer Eigenschaft als ehrenamtliche Richter während der Dauer
@@ -3616,6 +3750,7 @@ Gerichts, dem das patentanwaltliche Mitglied angehört.
 
 
 #### § 89 Ende des Amtes des patentanwaltlichen Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE023006360)
 
 (1) Das Amt eines patentanwaltlichen Mitglieds der Kammer für
 Patentanwaltssachen oder des Senats für Patentanwaltssachen endet,
@@ -3658,10 +3793,12 @@ zuzumuten ist, sein Amt weiter auszuüben.
 
 
 ### Zweiter Abschnitt - Der Bundesgerichtshof in Patentanwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001701123)
 
 
 
 #### § 90 Senat für Patentanwaltssachen bei dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE012903123)
 
 (1) Für Angelegenheiten, die in diesem Gesetz dem Bundesgerichtshof
 zugewiesen sind, wird bei dem Bundesgerichtshof ein Senat für
@@ -3680,6 +3817,7 @@ Strafprozeßordnung entsprechend gelten, als Strafsenat im Sinne des §
 
 
 #### § 91 Patentanwälte als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013008360)
 
 (1) Die Beisitzer aus den Reihen der Patentanwälte werden von dem
 Bundesministerium der Justiz und für Verbraucherschutz berufen. Sie
@@ -3699,6 +3837,7 @@ werden.
 
 
 #### § 92 Rechtsstellung der Patentanwälte als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013101123)
 
 (1) Die Patentanwälte sind ehrenamtliche Richter. Sie haben in der
 Sitzung, zu der sie als Beisitzer herangezogen werden, die Stellung
@@ -3708,6 +3847,7 @@ eines Berufsrichters.
 
 
 #### § 93 Beendigung des Amtes des Beisitzers
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013204360)
 
 (1) Für das Ende des Amtes des patentanwaltlichen Beisitzers gilt § 89
 Absatz 1 entsprechend.
@@ -3722,6 +3862,7 @@ sind der Patentanwalt und die Patentanwaltskammer zu hören.
 
 
 #### § 94 Reihenfolge der Teilnahme an den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013301123)
 
 Die zu Beisitzern berufenen Patentanwälte sind zu den einzelnen
 Sitzungen in der Reihenfolge einer Liste heranzuziehen, die der
@@ -3731,10 +3872,12 @@ aufstellt.
 
 
 ### Dritter Abschnitt - Gerichtliches Verfahren in verwaltungsrechtlichen Patentanwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004501123)
 
 
 
 #### § 94a Rechtsweg und sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026102123)
 
 (1) Das Oberlandesgericht entscheidet im ersten Rechtszug über alle
 öffentlich-rechtlichen Streitigkeiten nach diesem Gesetz, einer auf
@@ -3761,6 +3904,7 @@ und für Verbraucherschutz getroffen hat oder für die es zuständig ist.
 
 
 #### § 94b Anwendung der Verwaltungsgerichtsordnung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026201123)
 
 (1) Soweit dieses Gesetz keine abweichenden Bestimmungen über das
 gerichtliche Verfahren enthält, gelten die Vorschriften der
@@ -3781,6 +3925,7 @@ Verwaltungsaktes.
 
 
 #### § 94c Klagegegner und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026301123)
 
 (1) Die Klage ist gegen die Patentanwaltskammer oder Behörde zu
 richten,
@@ -3802,6 +3947,7 @@ zuständigen Gerichts besonders bestellt.
 
 
 #### § 94d Berufung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026401123)
 
 Gegen Endurteile einschließlich der Teilurteile, Grundurteile und
 Zwischenurteile über die Zulässigkeit steht den Beteiligten die
@@ -3813,6 +3959,7 @@ Bundesgerichtshof an die Stelle des Oberverwaltungsgerichts tritt.
 
 
 #### § 94e Klagen gegen Wahlen und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026502360)
 
 (1) Wahlen nach § 58 Absatz 2 sowie Wahlen und Beschlüsse der Organe
 der Patentanwaltskammer mit Ausnahme von Beschlüssen nach § 82 Absatz
@@ -3832,6 +3979,7 @@ nach der Wahl oder Beschlussfassung stellen.
 
 
 #### § 94f Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026901123)
 
 Auf den Rechtsschutz bei überlangen Gerichtsverfahren sind die
 Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
@@ -3841,6 +3989,7 @@ Bundesgerichtshof regeln, sind nicht anzuwenden.
 
 
 #### § 94g Verwendung gefälschter Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027601360)
 
 Wird durch das Oberlandesgericht oder den Bundesgerichtshof
 festgestellt, dass ein Patentanwalt bei einem Antrag auf Anerkennung
@@ -3852,10 +4001,12 @@ Patentanwaltskammer zu übermitteln.
 
 
 ## Sechster Teil - Berufsgerichtliche Ahndung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001802123)
 
 
 
 ### § 95 Ahndung einer Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013404125)
 
 (1) Gegen einen Patentanwalt, der schuldhaft gegen Pflichten verstößt,
 die in diesem Gesetz oder in der Berufsordnung nach § 52a bestimmt
@@ -3903,6 +4054,7 @@ nebeneinander verhängt werden.
 
 
 ### § 95a Leitungspersonen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028600360)
 
 Leitungspersonen einer Berufsausübungsgesellschaft sind
 
@@ -3931,6 +4083,7 @@ Leitungspersonen einer Berufsausübungsgesellschaft sind
 
 
 ### § 95b Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028700360)
 
 Im Fall einer Gesamtrechtsnachfolge oder einer partiellen
 Gesamtrechtsnachfolge durch Aufspaltung (§ 123 Absatz 1 des
@@ -3939,6 +4092,7 @@ oder die Rechtsnachfolger verhängt werden.
 
 
 ### § 96 Berufsgerichtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013506125)
 
 (1) Berufsgerichtliche Maßnahmen sind bei Verfahren gegen
 Patentanwälte
@@ -3992,6 +4146,7 @@ können nebeneinander verhängt werden.
 
 
 ### § 97 Verjährung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013603360)
 
 (1) Die Verfolgung einer Pflichtverletzung verjährt nach fünf Jahren.
 Abweichend davon verjährt die Verfolgung einer Pflichtverletzung, die
@@ -4021,6 +4176,7 @@ Strafgesetzbuches entsprechend.
 
 
 ### § 97a Rüge und berufsgerichtliche Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025802360)
 
 (1) Der Einleitung eines berufsgerichtlichen Verfahrens steht es nicht
 entgegen, dass der Vorstand der Patentanwaltskammer bereits wegen
@@ -4041,6 +4197,7 @@ nicht festzustellen ist.
 
 
 ### § 97b Anderweitige Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028800360)
 
 Von einer berufsgerichtlichen Ahndung ist abzusehen, wenn
 
@@ -4063,18 +4220,22 @@ unberührt.
 
 
 ## Siebenter Teil - Berufsgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG001903360)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002002360)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004700360)
 
 
 
 ##### § 98 Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013703123)
 
 (1) Für das berufsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften. Ergänzend sind das Gerichtsverfassungsgesetz und die
@@ -4088,6 +4249,7 @@ Bundesgerichtshof regeln, sind nicht anzuwenden.
 
 
 ##### § 99 Keine Verhaftung des Patentanwalts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013802123)
 
 Der Patentanwalt darf zur Durchführung des berufsgerichtlichen
 Verfahrens weder vorläufig festgenommen noch verhaftet oder vorgeführt
@@ -4097,6 +4259,7 @@ werden.
 
 
 ##### § 100 Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE013906360)
 
 (1) Zu Verteidigern im berufsgerichtlichen Verfahren können außer den
 in § 138 Abs. 1 der Strafprozeßordnung genannten Personen auch
@@ -4108,6 +4271,7 @@ berufsgerichtlichen Verfahren nicht anzuwenden.
 
 
 ##### § 101 Akteneinsicht des Patentanwalts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014003360)
 
 Das Mitglied der Patentanwaltskammer ist befugt, die Akten, die dem
 Gericht vorliegen oder diesem im Falle der Einreichung einer
@@ -4117,6 +4281,7 @@ und 6 der Strafprozeßordnung ist insoweit entsprechend anzuwenden.
 
 
 ##### § 102 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014104360)
 
 (1) Ist gegen ein Mitglied der Patentanwaltskammer, das einer
 Verletzung seiner Pflichten beschuldigt wird, wegen desselben
@@ -4164,6 +4329,7 @@ im Straf- oder Bußgeldverfahren stellen.
 
 
 ##### § 102a Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014203360)
 
 (1) Über eine Pflichtverletzung eines Mitglieds der
 Patentanwaltskammer, die zugleich Pflichten eines anderen Berufs
@@ -4186,6 +4352,7 @@ patentanwaltlichen Pflichten.
 
 
 ##### § 102b Aussetzung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014302123)
 
 Das berufsgerichtliche Verfahren kann ausgesetzt werden, wenn in einem
 anderen gesetzlich geordneten Verfahren über eine Frage zu entscheiden
@@ -4194,10 +4361,12 @@ Verfahren von wesentlicher Bedeutung ist.
 
 
 #### Zweiter Unterabschnitt - Berufsgerichtliches Verfahren gegen Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004800360)
 
 
 
 ##### § 103 Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029400360)
 
 (1) Das berufsgerichtliche Verfahren gegen eine Leitungsperson und
 gegen eine Berufsausübungsgesellschaft können miteinander verbunden
@@ -4213,6 +4382,7 @@ erforderlich erscheinen.
 
 
 ##### § 103a Vertretung von Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029500360)
 
 (1) Die Berufsausübungsgesellschaft wird im berufsgerichtlichen
 Verfahren durch ihre gesetzlichen Vertreter vertreten.
@@ -4224,6 +4394,7 @@ Berufspflichtverletzung beschuldigt sind.
 
 
 ##### § 103b Besonderer Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE028900360)
 
 (1) Hat die Berufsausübungsgesellschaft keinen gesetzlichen Vertreter
 oder sind alle gesetzlichen Vertreter der Berufsausübungsgesellschaft
@@ -4239,6 +4410,7 @@ Bestellung ist der Vorsitzende des Landgerichts zuständig.
 
 
 ##### § 103c Verfahrenseintritt von Rechtsnachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029000360)
 
 Im Fall einer Rechtsnachfolge (§ 95b) treten Rechtsnachfolger der
 Berufsausübungsgesellschaft in die Lage des berufsgerichtlichen
@@ -4247,6 +4419,7 @@ Zeitpunkt des Wirksamwerdens der Rechtsnachfolge befunden hat.
 
 
 ##### § 103d Vernehmung des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029100360)
 
 (1) Dem gesetzlichen Vertreter der Berufsausübungsgesellschaft steht
 es im berufsgerichtlichen Verfahren frei, sich zu äußern oder nicht
@@ -4263,20 +4436,24 @@ Strafprozessordnung gelten entsprechend.
 
 
 ### Zweiter Abschnitt - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002101123)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002201123)
 
 
 
 ##### § 104 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014602123)
 
 Für das berufsgerichtliche Verfahren ist im ersten Rechtszug das
 Landgericht zuständig.
 
 
 ##### § 105 Mitwirkung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014701123)
 
 Die Aufgaben der Staatsanwaltschaft in dem Verfahren vor dem
 Landgericht werden von der Staatsanwaltschaft bei dem
@@ -4285,10 +4462,12 @@ Patentanwaltssachen (§ 86) besteht.
 
 
 #### Zweiter Unterabschnitt - Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002301123)
 
 
 
 ##### § 106 Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE014902123)
 
 Das berufsgerichtliche Verfahren wird dadurch eingeleitet, daß die
 Staatsanwaltschaft bei dem Landgericht eine Anschuldigungsschrift
@@ -4296,6 +4475,7 @@ einreicht.
 
 
 ##### § 107 Gerichtliche Entscheidung über die Einleitung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015003360)
 
 (1) Gibt die Staatsanwaltschaft einem Antrag des Vorstands der
 Patentanwaltskammer, gegen ein Mitglied der Patentanwaltskammer das
@@ -4318,6 +4498,7 @@ zugestimmt hatte.
 
 
 ##### § 108 Antrag des Patentanwalts auf Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015103360)
 
 (1) Das Mitglied der Patentanwaltskammer kann bei der
 Staatsanwaltschaft beantragen, das berufsgerichtliche Verfahren gegen
@@ -4363,10 +4544,12 @@ durch den Vorstand der Patentanwaltskammer erteilt werden.
 
 
 ##### (XXXX) §§ 109 bis 114
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015201123)
 
 
 
 ##### § 115 Inhalt der Anschuldigungsschrift
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015302360)
 
 In der Anschuldigungsschrift (§ 106 dieses Gesetzes sowie § 207 Abs. 3
 der Strafprozeßordnung) ist die dem Mitglied der Patentanwaltskammer
@@ -4378,6 +4561,7 @@ das Hauptverfahren vor der Kammer für Patentanwaltssachen zu eröffnen.
 
 
 ##### § 116 Entscheidung über die Eröffnung des Hauptverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015402360)
 
 (1) In dem Beschluß, durch den das Hauptverfahren eröffnet wird, läßt
 das Landgericht die Anschuldigung zur Hauptverhandlung zu.
@@ -4392,6 +4576,7 @@ Staatsanwaltschaft die sofortige Beschwerde zu.
 
 
 ##### § 117 Rechtskraftwirkung eines ablehnenden Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015502123)
 
 Ist die Eröffnung des Hauptverfahrens durch einen nicht mehr
 anfechtbaren Beschluß abgelehnt, so kann der Antrag auf Einleitung des
@@ -4402,6 +4587,7 @@ gestellt werden.
 
 
 ##### § 118 Zustellung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015602360)
 
 Der Beschluß über die Eröffnung des Hauptverfahrens ist dem Mitglied
 der Patentanwaltskammer spätestens mit der Ladung zuzustellen.
@@ -4410,10 +4596,12 @@ Strafprozeßordnung für die nachgereichte Anschuldigungsschrift.
 
 
 #### Dritter Unterabschnitt - Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002401123)
 
 
 
 ##### § 119 Hauptverhandlung trotz Ausbleibens des Mitglieds der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015702360)
 
 Die Hauptverhandlung kann gegen ein Mitglied der Patentanwaltskammer,
 das nicht erschienen ist, durchgeführt werden, wenn es ordnungsmäßig
@@ -4423,10 +4611,12 @@ zulässig.
 
 
 ##### § 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015804360)
 
 
 
 ##### § 121 Beweisaufnahme durch einen ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE015902360)
 
 Das Landgericht kann ein Amtsgericht um die Vernehmung von Zeugen oder
 Sachverständigen ersuchen. Zeugen oder Sachverständige sind jedoch auf
@@ -4438,6 +4628,7 @@ zugemutet werden kann.
 
 
 ##### § 122 Verlesen von Protokollen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016003360)
 
 (1) Das Landgericht beschließt nach pflichtmäßigem Ermessen, ob die
 Aussagen von Zeugen oder Sachverständigen, die bereits in dem
@@ -4462,6 +4653,7 @@ Ablehnung des Antrags jetzt nicht mehr bestehen.
 
 
 ##### § 123 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016105360)
 
 (1) Die Hauptverhandlung schließt mit der auf die Beratung folgenden
 Verkündung des Urteils.
@@ -4483,10 +4675,12 @@ des Verfahrens.
 
 
 ### Dritter Abschnitt - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002501123)
 
 
 
 #### § 124 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016201123)
 
 Soweit Beschlüsse des Landgerichts und Verfügungen des Vorsitzenden
 mit der Beschwerde angefochten werden können, ist für die Verhandlung
@@ -4495,6 +4689,7 @@ zuständig.
 
 
 #### § 125 Berufung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016304360)
 
 (1) Gegen das Urteil des Landgerichts ist die Berufung zulässig. Über
 die Berufung entscheidet das Oberlandesgericht.
@@ -4515,6 +4710,7 @@ beauftragen kann, Zeugen und Sachverständige zu vernehmen.
 
 
 #### § 126 Mitwirkung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016401123)
 
 Die Aufgaben der Staatsanwaltschaft in dem Verfahren vor dem
 Oberlandesgericht werden von der Staatsanwaltschaft bei diesem Gericht
@@ -4522,6 +4718,7 @@ wahrgenommen.
 
 
 #### § 127 Revision
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016502360)
 
 (1) Gegen das Urteil des Oberlandesgerichts ist die Revision an den
 Bundesgerichtshof zulässig,
@@ -4562,6 +4759,7 @@ die Revisionsfrist.
 
 
 #### § 128 Einlegung der Revision und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016602360)
 
 (1) Die Revision ist innerhalb einer Woche bei dem Oberlandesgericht
 schriftlich einzulegen. Die Frist beginnt mit der Verkündung des
@@ -4580,16 +4778,19 @@ Patentanwaltssachen zurückzuverweisen.
 
 
 #### § 129 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016701123)
 
 Die Aufgaben der Staatsanwaltschaft in dem Verfahren vor dem
 Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
 
 ### Vierter Abschnitt - Sicherung von Beweisen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002601123)
 
 
 
 #### § 130 Anordnung der Beweissicherung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016804360)
 
 (1) Wird ein berufsgerichtliches Verfahren gegen ein Mitglied der
 Patentanwaltskammer eingestellt, weil dessen Zulassung erloschen ist,
@@ -4606,6 +4807,7 @@ Beweisaufnahme beauftragen.
 
 
 #### § 131 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE016905360)
 
 (1) Die Kammer für Patentanwaltssachen hat von Amts wegen alle Beweise
 zu erheben, die eine Entscheidung darüber begründen können, ob das
@@ -4632,10 +4834,12 @@ bekannt ist.
 
 
 ### Fünfter Abschnitt - Berufs- und Vertretungsverbot als vorläufige Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002702123)
 
 
 
 #### § 132 Voraussetzung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017004360)
 
 (1) Liegen dringende Gründe für die Annahme vor, dass gegen ein
 Mitglied der Patentanwaltskammer auf Ausschließung aus der
@@ -4657,6 +4861,7 @@ berufsgerichtliche Verfahren anhängig ist.
 
 
 #### § 133 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017103360)
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
 verhängt wird, kann nur auf Grund mündlicher Verhandlung ergehen.
@@ -4678,12 +4883,14 @@ des Mitglieds der Patentanwaltskammer gebunden zu sein.
 
 
 #### § 134 Abstimmung über das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017201123)
 
 Zur Verhängung des Berufs- oder Vertretungsverbots ist eine Mehrheit
 von zwei Dritteln der Stimmen erforderlich.
 
 
 #### § 135 Verbot im Anschluß an die Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017302360)
 
 Hat das Gericht auf Ausschließung aus der Patentanwaltschaft oder auf
 Aberkennung der Befugnis und Vertretung nach § 3 erkannt, so kann es
@@ -4694,6 +4901,7 @@ erschienen ist.
 
 
 #### § 136 Zustellung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017403360)
 
 Der Beschluß ist mit Gründen zu versehen. Er ist dem Mitglied der
 Patentanwaltskammer zuzustellen. War das Mitglied bei der Verkündung
@@ -4702,6 +4910,7 @@ Gründe unverzüglich nach der Verkündung zuzustellen.
 
 
 #### § 137 Wirkungen des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017503360)
 
 (1) Der Beschluß wird mit der Verkündung wirksam.
 
@@ -4730,6 +4939,7 @@ gegenüber vorgenommen werden.
 
 
 #### § 138 Zuwiderhandlungen gegen das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017603360)
 
 (1) Gegen ein Mitglied der Patentanwaltskammer, das einem gegen sich
 ergangenen Berufs- oder Vertretungsverbot wissentlich zuwiderhandelt,
@@ -4743,6 +4953,7 @@ zurückzuweisen.
 
 
 #### § 139 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017701123)
 
 (1) Gegen den Beschluß, durch den das Landgericht oder das
 Oberlandesgericht ein Berufs- oder Vertretungsverbot verhängt, ist die
@@ -4762,6 +4973,7 @@ Strafprozeßordnung über die Beschwerde § 133 Abs. 1, 2 und 4 sowie die
 
 
 #### § 140 Außerkrafttreten des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017802360)
 
 Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
@@ -4777,6 +4989,7 @@ Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
 
 #### § 141 Aufhebung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE017902360)
 
 (1) Das Berufs- oder Vertretungsverbot wird aufgehoben, wenn sich
 ergibt, daß die Voraussetzungen für seine Verhängung nicht oder nicht
@@ -4794,6 +5007,7 @@ wird, ist eine Beschwerde nicht zulässig.
 
 
 #### § 142 Mitteilung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018003123)
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
 verhängt wird, ist alsbald der Patentanwaltskammer in beglaubigter
@@ -4804,6 +5018,7 @@ aufgehoben oder abgeändert, so ist Absatz 1 entsprechend anzuwenden.
 
 
 #### § 143 Bestellung einer Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018105360)
 
 (1) Für ein Mitglied der Patentanwaltskammer, gegen das ein Berufs-
 oder Vertretungsverbot verhängt ist, wird von der Patentanwaltskammer
@@ -4816,10 +5031,12 @@ entsprechend anzuwenden.
 
 
 ### Sechster Abschnitt - Vollstreckung berufsgerichtlicher Maßnahmen und Kosten sowie Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002802123)
 
 
 
 #### § 144 Vollstreckung berufsgerichtlicher Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018205360)
 
 (1) Die Ausschließung aus der Patentanwaltschaft (§ 96 Absatz 1 Nummer
 4) und die Aberkennung der Befugnis zur Beratung und Vertretung nach §
@@ -4842,6 +5059,7 @@ Vollstreckung der Geldbuße.
 
 
 #### § 144a Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018304360)
 
 (1) Eintragungen in den über das Mitglied der Patentanwaltskammer
 geführten Akten über die in den Sätzen 4 und 5 genannten Maßnahmen und
@@ -4926,14 +5144,17 @@ betroffen.
 
 
 ## Achter Teil - Kosten in Patentanwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG002901123)
 
 
 
 ### Erster Abschnitt - Kosten in Verwaltungsverfahren der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG003002123)
 
 
 
 #### § 145 Erhebung von Verwaltungsgebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018407360)
 
 Die Patentanwaltskammer kann für Amtshandlungen nach diesem Gesetz zur
 Deckung des Verwaltungsaufwands Gebühren nach festen Sätzen und
@@ -4946,10 +5167,12 @@ Fassung) beim Erlass von Satzungen auf Grund des § 82 Absatz 2 Nummer
 
 
 ### Zweiter Abschnitt - Kosten in gerichtlichen Verfahren in verwaltungsrechtlichen Patentanwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004601123)
 
 
 
 #### § 146 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026602360)
 
 In verwaltungsrechtlichen Patentanwaltssachen werden Gebühren nach dem
 Gebührenverzeichnis der Anlage 2 zu diesem Gesetz erhoben. Im Übrigen
@@ -4960,6 +5183,7 @@ Abschnitt nichts anderes bestimmt ist.
 
 
 #### § 147 Streitwert
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE026701123)
 
 (1) Der Streitwert bestimmt sich nach § 52 des Gerichtskostengesetzes.
 Er wird von Amts wegen festgesetzt.
@@ -4976,10 +5200,12 @@ Gerichtskostengesetzes bleibt unberührt.
 
 
 ### Dritter Abschnitt - Kosten im berufsgerichtlichen Verfahren und im Verfahren bei Anträgen auf Entscheidung des Landgerichts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG003103123)
 
 
 
 #### § 148 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018704360)
 
 Im berufsgerichtlichen Verfahren, im Verfahren über den Antrag auf
 Entscheidung des Landgerichts über die Rüge (§ 70a Abs. 1) und im
@@ -4991,6 +5217,7 @@ Vorschriften des Gerichtskostengesetzes entsprechend anzuwenden.
 
 
 #### § 149 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018803360)
 
 (1) Einem Mitglied der Patentanwaltskammer, das einen Antrag auf
 gerichtliche Entscheidung über die Entschließung der
@@ -5004,6 +5231,7 @@ Patentanwaltskammer aufzuerlegen.
 
 
 #### § 150 Kostenpflicht des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE018905360)
 
 (1) Dem Mitglied der Patentanwaltskammer, das im berufsgerichtlichen
 Verfahren verurteilt wird, sind zugleich die in dem Verfahren
@@ -5030,6 +5258,7 @@ worden sind, ist Absatz 2 entsprechend anzuwenden.
 
 
 #### § 150a Kostenpflicht im Verfahren bei Anträgen auf Entscheidung des Landgerichts
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE019003360)
 
 (1) Wird der Antrag auf berufsgerichtliche Entscheidung gegen die
 Androhung oder die Festsetzung des Zwangsgelds oder über die Rüge als
@@ -5056,6 +5285,7 @@ Satz 2 festgestellt wird (§ 70a Abs. 5 Satz 2).
 
 
 #### § 151 Haftung der Patentanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE019103360)
 
 Auslagen, die weder dem Mitglied der Patentanwaltskammer noch einem
 Dritten auferlegt oder von dem Mitglied nicht eingezogen werden
@@ -5063,14 +5293,17 @@ können, fallen der Patentanwaltskammer zur Last.
 
 
 #### (XXXX) §§ 152 bis 154 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE019202123)
 
 
 
 ## Neunter Teil - Beratungs- und Vertretungsbefugnis des Patentassessors in ständigem Dienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004201123)
 
 
 
 ### § 155 Beratung und Vertretung von Dritten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE019509123)
 
 (1) Ein Patentassessor, der im Geltungsbereich dieses Gesetzes eine
 Tätigkeit auf dem Gebiet des gewerblichen Rechtsschutzes auf Grund
@@ -5103,6 +5336,7 @@ Syndikuspatentanwälte (§ 41a Absatz 2).
 
 
 ### § 155a Tätigkeitsverbote bei weiterer Tätigkeit als Patentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE027502360)
 
 (1) Der Patentanwalt darf für einen Auftraggeber, dem er auf Grund
 eines ständigen Dienst- oder ähnlichen Beschäftigungsverhältnisses
@@ -5159,6 +5393,7 @@ Einwilligung der betroffenen Personen offenbart werden.
 
 
 ### § 156 Auftreten vor den Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE019602123)
 
 Einem Patentassessor, der im Geltungsbereich dieses Gesetzes eine
 Tätigkeit auf dem Gebiet des gewerblichen Rechtsschutzes auf Grund
@@ -5169,10 +5404,12 @@ Wort zu gestatten.
 
 
 ## Zehnter Teil - Ausländische Patentanwaltsberufe und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG004900360)
 
 
 
 ### § 157 Ausländische Patentanwaltsberufe; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029600360)
 
 (1) Angehörige solcher ausländischer Berufe, die in der
 Rechtsverordnung nach Absatz 2 aufgeführt sind, dürfen sich zur
@@ -5227,6 +5464,7 @@ Rechtsdienstleistungen nach Absatz 1 erstreckt sich
 
 
 ### § 158 Aufnahme in die Patentanwaltskammer und berufliche Stellung; Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029702125)
 
 (1) Dem Antrag auf Aufnahme in die Patentanwaltskammer (§ 157 Absatz 1
 Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen
@@ -5317,6 +5555,7 @@ den Patentanwälten und Rechtsanwälten gleich:
 
 
 ### § 159 Ausländische Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029802125)
 
 (1) Eine Berufsausübungsgesellschaft, die ihren Sitz in einem
 Mitgliedstaat der Welthandelsorganisation hat, darf über eine
@@ -5395,6 +5634,7 @@ Rechtsdienstleistungen in der Bundesrepublik Deutschland befugt sind.
 
 
 ### § 160 Inhaber von Erlaubnisscheinen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE024602123)
 
 Für Inhaber von Erlaubnisscheinen sind die §§ 177 bis 183 in der bis
 zum 31. August 2009 geltenden Fassung dieses Gesetzes weiter
@@ -5402,10 +5642,12 @@ anzuwenden.
 
 
 ## Elfter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNG003404360)
 
 
 
 ### § 161 Maßgabe nach dem Einigungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029200360)
 
 Patentanwälte und Patentassessoren, die am 3. Oktober 1990 in die beim
 Patentamt der Deutschen Demokratischen Republik geführten Listen der
@@ -5416,6 +5658,7 @@ Prüfung erlangt haben.
 
 
 ### § 162 Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029300360)
 
 (1) Wenn eine Gesellschaft vor dem 1. August 2022 als
 Patentanwaltsgesellschaft zugelassen war, gilt diese Zulassung als
@@ -5439,6 +5682,7 @@ auf Zulassung die Befugnisse nach § 52k zu.
 
 
 ### § 163 Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE020302125)
 
 Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche
 Verfahren gegen ein Mitglied eines Geschäftsführungs- oder
@@ -5452,6 +5696,7 @@ für das Verfahren zukommt.
 (zu § 52a Absatz 4 Satz 1)
 
 ### Anlage 1 Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE029900360)
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 4 – 6)
 
@@ -5731,6 +5976,7 @@ Eine Vorschrift im Sinne des § 52a Absatz 3 Satz 2
 (zu § 146 Satz 1 und § 148 Satz 1)
 
 ### Anlage 2 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html#BJNR005570966BJNE025905360)
 
 (Fundstelle: BGBl. I 2006, 3430 - 3432;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

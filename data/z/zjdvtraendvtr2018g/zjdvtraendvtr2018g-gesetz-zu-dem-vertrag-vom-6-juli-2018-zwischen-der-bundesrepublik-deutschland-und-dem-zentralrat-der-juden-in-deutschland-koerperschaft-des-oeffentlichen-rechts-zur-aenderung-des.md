@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr2018g/BJNR223500018.html#BJNR223500018BJNE000100000)
 
 (1) Dem in Berlin am 6. Juli 2018 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland
@@ -34,6 +35,7 @@ November 2011 (BGBl. I S. 1222), wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr2018g/BJNR223500018.html#BJNR223500018BJNE000200000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

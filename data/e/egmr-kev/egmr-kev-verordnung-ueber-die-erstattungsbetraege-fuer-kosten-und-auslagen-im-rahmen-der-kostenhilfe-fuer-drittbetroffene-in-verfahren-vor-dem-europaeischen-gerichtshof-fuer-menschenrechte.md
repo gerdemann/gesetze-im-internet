@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egmr-kev/BJNR327300013.html#BJNR327300013BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 des EGMR-Kostenhilfegesetzes vom 20. April
 2013 (BGBl. I S. 829) verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Erstattungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/egmr-kev/BJNR327300013.html#BJNR327300013BJNE000200000)
 
 (1) Im Rahmen der Kostenhilfe nach dem EGMR-Kostenhilfegesetz werden
 Honorare, die einem Drittbetroffenen für einen Rechtsbeistand
@@ -73,6 +75,7 @@ Weitere Auslagen sind mit dem Honorar abgegolten.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egmr-kev/BJNR327300013.html#BJNR327300013BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

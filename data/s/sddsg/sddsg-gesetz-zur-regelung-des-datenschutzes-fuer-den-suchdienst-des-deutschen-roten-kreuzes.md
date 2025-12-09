@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000101116)
 
 (1) Dieses Gesetz regelt den Umgang des Suchdienstes des Deutschen
 Roten Kreuzes (DRK-Suchdienst) mit personenbezogenen Daten, soweit der
@@ -37,6 +38,7 @@ geltenden Fassung, unmittelbar gilt.
 
 
 ## § 2 Aufgaben des DRK-Suchdienstes
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000202116)
 
 Der DRK-Suchdienst nimmt im Auftrag der Bundesregierung folgende
 Aufgaben wahr:
@@ -119,6 +121,7 @@ Aufgaben wahr:
 
 
 ## § 3 Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000303116)
 
 (1) Der DRK-Suchdienst darf auch ohne Mitwirkung der betroffenen
 Person personenbezogene Daten zu den in § 2 genannten Personen
@@ -180,6 +183,7 @@ Bundesvertriebenengesetzes genannten Gebieten stammen.
 
 
 ## § 4 Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000401116)
 
 (1) Der DRK-Suchdienst darf die nach § 3 erhobenen und die nach dem
 Bundesvertriebenengesetz übermittelten personenbezogenen Daten
@@ -211,6 +215,7 @@ Aufgaben nach § 2 ohne diese Angaben wesentlich erschwert wird.
 
 
 ## § 5 Begrenzung der Verpflichtung zur Löschung
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000501116)
 
 Die Verpflichtung des Verantwortlichen zur Löschung personenbezogener
 Daten gemäß Artikel 17 Absatz 1 und 2 der Verordnung (EU) 2016/679
@@ -221,12 +226,14 @@ beeinträchtigt werden.
 
 
 ## § 6 Anwendung des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000701116)
 
 Soweit in diesem Gesetz keine abweichenden Regelungen getroffen sind,
 sind Teil 1 und Teil 2 des Bundesdatenschutzgesetzes anzuwenden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sddsg/BJNR069000009.html#BJNR069000009BJNE000801116)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

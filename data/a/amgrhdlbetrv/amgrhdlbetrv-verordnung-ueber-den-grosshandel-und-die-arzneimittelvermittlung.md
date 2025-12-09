@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000100308)
 
 Auf Grund
 
@@ -50,6 +51,7 @@ mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000203360)
 
 Diese Verordnung findet Anwendung auf Betriebe und Einrichtungen,
 soweit sie Großhandel mit Arzneimitteln treiben, soweit nicht nach § 1
@@ -61,6 +63,7 @@ Verordnung dies bestimmt.
 
 
 ## § 1a Qualitätssicherungssystem
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001602116)
 
 Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute
 Vertriebspraxis von Arzneimitteln einhalten und hierfür ein
@@ -86,6 +89,7 @@ hinreichender Weise vor unbefugten Manipulationen geschützt sind.
 
 
 ## § 2 Personal
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000302310)
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, hat für jede
 Betriebsstätte mindestens eine Person zu bestellen, die für den
@@ -101,6 +105,7 @@ unterweisen.
 
 
 ## § 3 Beschaffenheit, Größe und Einrichtung der Betriebsräume
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000401116)
 
 (1) Die Betriebsräume müssen nach Art, Größe, Zahl, Lage, Zustand und
 Einrichtung einen ordnungsgemäßen Betrieb des Großhandels mit
@@ -133,6 +138,7 @@ folgendes festgelegt ist:
 
 
 ## § 4 Umfüllen, Abpacken und Kennzeichnen von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000500308)
 
 (1) Es dürfen nur solche Arzneimittel zum Zwecke der Abgabe umgefüllt
 oder abgepackt werden, deren erforderliche Qualität festgestellt ist.
@@ -160,6 +166,7 @@ Arzneimittelgesetzes versehen sind.
 
 
 ## § 4a Bezug und Rücknahme von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE002002116)
 
 (1) Arzneimittel dürfen nur von zur Abgabe von Arzneimitteln
 berechtigten Betrieben erworben werden.
@@ -201,6 +208,7 @@ berechtigt sind, zurückgenommen werden.
 
 
 ## § 5 Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000603116)
 
 (1) Arzneimittel sind so zu lagern, daß ihre Qualität nicht nachteilig
 beeinflußt wird und Verwechslungen vermieden werden. Die für bestimmte
@@ -248,6 +256,7 @@ zurückzugeben.
 
 
 ## § 6 Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000708116)
 
 (1) Soweit durch Rechtsvorschrift nichts anderes zugelassen ist,
 dürfen Lieferungen von Arzneimitteln nur an Betriebe und Einrichtungen
@@ -349,6 +358,7 @@ Arzneimittel nicht beeinträchtigt wird.
 
 
 ## § 7 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000805116)
 
 (1) Über jeden Bezug und jede Abgabe von Arzneimitteln sind
 Aufzeichnungen in Form von Einkaufs-/Verkaufsrechnungen, in
@@ -390,6 +400,7 @@ Frist lesbar gemacht werden können.
 
 
 ## § 7a Rückrufplan, Rückrufe von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001701116)
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, muß einen Rückrufplan
 bereithalten, der die Durchführung jedes Rückrufes eines Arzneimittels
@@ -403,6 +414,7 @@ Abs. 3 gilt entsprechend.
 
 
 ## § 7b Rücknahme von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001801116)
 
 (1) Nimmt der Betreiber eines Arzneimittelgroßhandels gelieferte
 Arzneimittel vom Empfänger zurück, so sind diese bis zu einer
@@ -459,6 +471,7 @@ festzulegen.
 
 
 ## § 7c Selbstinspektion
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001901310)
 
 (1) Um die Beachtung der Vorschriften dieser Verordnung
 sicherzustellen, müssen regelmäßig Selbstinspektionen durchgeführt
@@ -471,6 +484,7 @@ Handel mit Arzneimitteln befugt sind.
 
 
 ## § 8 Dienstbereitschaft in Krisenzeiten
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE000900308)
 
 Die zuständige Behörde kann die Dienstbereitschaft für
 Arzneimittelgroßhandelsbetriebe anordnen, wenn und solange die
@@ -480,6 +494,7 @@ befristen; sie kann verlängert werden.
 
 
 ## § 9 Anforderungen an Arzneimittelvermittler
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001002360)
 
 (1) Die §§ 1a und 7a gelten entsprechend. § 7 Absatz 1, 3 und Absatz 4
 gilt entsprechend mit der Maßgabe, dass die Aufzeichnungen über die
@@ -497,6 +512,7 @@ informieren.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001105360)
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -583,6 +599,7 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 11 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001201307)
 
 (1) Arzneimittel, die vor dem Inkrafttreten dieser Verordnung nicht
 den Vorschriften dieser Verordnung entsprechend umgefüllt, abgepackt
@@ -631,15 +648,18 @@ Entscheidung über den Antrag.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001301320)
 
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001400308)
 
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amgrhdlbetrv/BJNR023700987.html#BJNR023700987BJNE001500308)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 

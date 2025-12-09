@@ -22,10 +22,12 @@ Zuletzt geändert durch
 Stand: Ersetzt V v. 7.9.1954 I 271
 
 ## I. - Besondere Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000100325)
 
 
 
 ### § 1 Nachweis des Todes
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001000325)
 
 (1) Der Tod oder die Todesfeststellung nach dem Verschollenheitsgesetz
 oder nach anderen Rechtsvorschriften wird regelmäßig durch öffentliche
@@ -44,11 +46,13 @@ des Einzelfalles ein anderer Zeitpunkt des Todes wahrscheinlich ist (§
 
 
 ### § 2 Tod im unmittelbaren Anschluß an Deportation oder Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001100325)
 
 (Entfällt)
 
 
 ### § 3 Anspruchsvoraussetzung nach § 4 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001200325)
 
 Wenn die Voraussetzungen des § 4 BEG nicht in der Person des
 verstorbenen Verfolgten erfüllt sind, so hat einen Anspruch auf
@@ -59,16 +63,19 @@ Hinterbliebenen erfüllt sind.
 
 
 ## II. - Kreis der Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000200325)
 
 
 
 ### § 4 Witwer
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001300325)
 
 Der Anspruch des Witwers auf Rente besteht auch dann, wenn der
 Unterhalt von der verfolgten Ehefrau überwiegend bestritten wurde.
 
 
 ### § 5 Kinder und ihnen Gleichgestellte
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001411130)
 
 (1) Den Kindern einer Verfolgten stehen die gleichen Ansprüche nach
 den §§ 15 bis 26 BEG wie den Kindern eines Verfolgten zu.
@@ -185,11 +192,13 @@ dadurch die häusliche Verbindung mit ihm aufgehoben werden sollte.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001501320)
 
 (weggefallen)
 
 
 ### § 7 Gewährung der Rente bei Kindern über 18 Jahre
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001610130)
 
 (1) Kinder erhalten nach Vollendung des 18. Lebensjahres eine Rente,
 wenn sie
@@ -315,6 +324,7 @@ gezahlt.
 
 
 ### § 8 Elternlose Enkel
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001700325)
 
 (1) Den elternlosen Enkeln eines Verfolgten stehen Ansprüche nach den
 §§ 15 bis 26 BEG zu, wenn der Verfolgte sie in seine Wohnung
@@ -331,6 +341,7 @@ Es kommt nur darauf an, daß der Unterhalt von dem Verfolgten
 
 
 ### § 9 Verwandte der aufsteigenden Linie und Adoptiveltern
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001800325)
 
 Der Anspruch auf Rente steht den Eltern oder Adoptiveltern vor den
 Großeltern zu. An die Stelle eines verstorbenen Elternteils treten
@@ -338,14 +349,17 @@ dessen Eltern.
 
 
 ## III. - Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000300325)
 
 
 
 ### 1. - Berechnung und Zahlung der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000400325)
 
 
 
 #### § 10 Art der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE001900325)
 
 Der Berechnung der Rente ist die als Anlage 1 beigefügte, nach der
 Einteilung der Bundesbeamten in solche des einfachen, mittleren,
@@ -356,6 +370,7 @@ Altersgrenze erreichbar sind, ausweist.
 
 
 #### § 11 Einreihung in eine vergleichbare Beamtengruppe
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002000325)
 
 (1) Für die Einreihung in eine vergleichbare Beamtengruppe ist die
 wirtschaftliche Stellung des verstorbenen Verfolgten maßgebend, es sei
@@ -407,6 +422,7 @@ Unterhalt des Verfolgten überwiegend bestritten hat.
 
 
 #### § 12 Hundertsatz des Unfallruhegehalts und der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002100325)
 
 (1) Das Unfallruhegehalt im Sinne dieser Verordnung beträgt 66 2/3 vom
 Hundert der ruhegehaltfähigen Dienstbezüge (§ 10).
@@ -419,6 +435,7 @@ Unfallruhegehalts zugrunde zu legen.
 
 
 #### § 13 Hundertsatz der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002215130)
 
 (1) Vorbehaltlich der Bestimmung der Absätze 2 bis 5 beträgt der
 Hundertsatz der Rente der Hinterbliebenen 100 vom Hundert der in § 12
@@ -621,11 +638,13 @@ Mark, ab dem 1. Januar 2002 um 26 Euro.
 
 
 #### § 13a Zusammentreffen von Renten für Schaden an Leben mit Renten für Schaden an Körper oder Gesundheit oder mit Renten für Schaden im beruflichen Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002300325)
 
 (Entfällt)
 
 
 #### § 14 Mindestrente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002400325)
 
 Der monatliche Mindestbetrag der Rente nach § 19 BEG darf nicht
 unterschritten werden, soweit sich aus dem Bundesentschädigungsgesetz
@@ -633,6 +652,7 @@ und dieser Verordnung nichts anderes ergibt.
 
 
 #### § 15 Verteilung von anzurechnenden Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002500325)
 
 Bei der Anrechnung von Leistungen auf laufende Renten gemäß § 10 BEG
 soll der anzurechnende Betrag derart verteilt werden, daß dem
@@ -641,6 +661,7 @@ Mindestbetrages der Rente verbleibt.
 
 
 #### § 16 Zahlung der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002601320)
 
 (1) Die Rente wird in monatlich vorauszahlbaren Beträgen vom Ersten
 des Monats an gezahlt, in dem die Voraussetzungen für den
@@ -653,10 +674,12 @@ aufzurunden.
 
 
 ### 2. - Ruhen und Erlöschen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000500325)
 
 
 
 #### § 17 Ruhen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002700325)
 
 (1) Soweit und solange die Rente nach § 22 BEG in der Fassung des
 Gesetzes vom 29. Juni 1956 geruht hat, ist dies bei der Bemessung der
@@ -670,6 +693,7 @@ aufzurunden.
 
 
 #### § 18 Erlöschen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002811130)
 
 Die Rente erlischt
 
@@ -792,15 +816,18 @@ Die Rente erlischt
 
 
 #### § 18a Wiederaufleben der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE002900325)
 
 (Entfällt)
 
 
 ### 3. - Anzeigepflicht und Änderung der Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000600325)
 
 
 
 #### § 19 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003013130)
 
 (1) Der Hinterbliebene ist verpflichtet, der zuständigen
 Entschädigungsbehörde unverzüglich anzuzeigen:
@@ -1030,6 +1057,7 @@ diesem die Pflichten aus den Absätzen 1 und 2.
 
 
 #### § 20 Verletzung der Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003101314)
 
 Kommt der Hinterbliebene oder sein gesetzlicher Vertreter den nach §
 19 bestehenden Pflichten nicht nach, so kann die Zahlung der Rente
@@ -1039,6 +1067,7 @@ vorher hingewiesen worden ist.
 
 
 #### § 21 Neufestsetzung der Rente bei Änderung der Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003200325)
 
 (1) Im Falle des § 21 BEG wird die Rente mit Wirkung vom Ersten des
 Monats neu festgesetzt, der dem Monat folgt, in dem die Verhältnisse
@@ -1052,6 +1081,7 @@ werden.
 
 
 #### § 21a
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003320130)
 
 (Fundstelle: BGBl. I 1983, 1314;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2587,10 +2617,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## IV. - Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000700325)
 
 
 
 ### § 22 Berechnung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003400325)
 
    (1) Die Kapitalentschädigung wird in der Weise berechnet, daß für
 jeden vollen Monat, der vom Zeitpunkt des Todes des Verfolgten bis zum
@@ -2620,10 +2652,12 @@ Anwendung.
 
 
 ## V. - Bewertung der im Ausland erzielten Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000800325)
 
 
 
 ### § 22a
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003500325)
 
 (1) In den Fällen des § 5 Abs. 2 Nr. 5, § 7 Abs. 1 Nr. 2 und § 13 ist
 bei der Bewertung der im Ausland erzielten oder erzielbaren Einkünfte
@@ -2645,10 +2679,12 @@ Währung zustehen, so findet für die Bewertung dieser Leistungen Absatz
 
 
 ## VI. - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNG000900325)
 
 
 
 ### § 22b Stichtag für Neufestsetzung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003600325)
 
 Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser
 Verordnung vom 18. September 1965 an zu gewähren oder neu festzusetzen
@@ -2657,6 +2693,7 @@ Wirkung vom 1. September 1965 an gewährt oder neu festgesetzt.
 
 
 ### § 22c Übergangsvorschriften für Änderungen dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003700325)
 
 (1) Die Unanfechtbarkeit oder die Rechtskraft einer Entscheidung, die
 vor der Verkündung einer Änderungsverordnung ergangen ist, steht
@@ -2685,11 +2722,13 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003801320)
 
 (weggefallen)
 
 
 ### § 24 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE003900325)
 
 (1) Es treten in Kraft
 
@@ -2734,6 +2773,7 @@ die §§ 2, 13a und 18a mit Wirkung vom 18. September 1965.
 
 
 ### Anlage 1 (zu § 10 der 1. DV-BEG) Besoldungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE004020130)
 
 (Fundstelle: BGBl. I 1983, 1315 -1317;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5358,6 +5398,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 11 der 1.DV-BEG)
 
 ### Anlage 2 Besoldungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_1/BJNR002710954.html#BJNR002710954BJNE004100325)
 
 Fundstelle des Originaltextes: BGBl. I 1966, 299
 

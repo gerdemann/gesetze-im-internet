@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000100000)
 
 Auf Grund
 
@@ -64,6 +65,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2012 28,07 Euro.
 
@@ -72,6 +74,7 @@ Euro.
 
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000300000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt ab dem 1. Juli 2012 12,96 Euro.
@@ -81,6 +84,7 @@ Landwirte beträgt ab dem 1. Juli 2012 11,50 Euro.
 
 
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000400000)
 
 (1) Der Ausgleichsbedarf beträgt ab dem 1. Juli 2012 0,9929.
 
@@ -88,6 +92,7 @@ Landwirte beträgt ab dem 1. Juli 2012 11,50 Euro.
 
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000500000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2012 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -102,6 +107,7 @@ angepasst. Der Anpassungsfaktor beträgt 1,0226.
 
 
 ## § 5 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000600000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2012 an
@@ -119,11 +125,13 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2012/BJNR138900012.html#BJNR138900012BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

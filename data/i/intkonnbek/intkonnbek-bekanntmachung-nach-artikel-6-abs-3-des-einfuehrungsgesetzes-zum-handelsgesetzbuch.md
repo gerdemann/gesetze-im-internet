@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/intkonnbek/BJNR011620986.html#BJNR011620986BJNE000100308)
 
 Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch in
 der im Bundesgesetzblatt Teil III, Gliederungsnummer 4101-1,

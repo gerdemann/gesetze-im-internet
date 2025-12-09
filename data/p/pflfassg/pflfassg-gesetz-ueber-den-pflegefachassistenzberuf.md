@@ -25,57 +25,75 @@ Fundstelle
 
 
 ## Teil 1 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000100000)
 
 
 ### (XXXX) §§ 1 bis 3 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE000200000)
 
 
 ## Teil 2 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000200000)
 
 
 ### Abschnitt 1 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000300000)
 
 
 #### (XXXX) §§ 4 bis 13 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE000500000)
 
 
 ### Abschnitt 2 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000400000)
 
 
 #### (XXXX) §§ 14 bis 23 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE001500000)
 
 
 ### Abschnitt 3 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000500000)
 
 
 #### § 24 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE002500000)
 
 
 ## Teil 3 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000600000)
 
 
 ### Abschnitt 1 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000700000)
 
 
 #### (XXXX) §§ 25 bis 28 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE002600000)
 
 
 ### Abschnitt 2 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000800000)
 
 
 #### (XXXX) §§ 29 bis 36 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE003000000)
 
 
 ### Abschnitt 3 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG000900000)
 
 
 #### (XXXX) §§ 37 bis 43 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE003800000)
 
 
 ## Teil 4 - Fachkommission, Beratung, Aufbau unterstützender Angebote und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG001000000)
 
 
 ### § 44 Fachkommission
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE004500000)
 
 Die Fachkommission nach § 53 des Pflegeberufegesetzes erarbeitet einen
 Rahmenlehrplan und einen Rahmenausbildungsplan für die
@@ -90,6 +108,7 @@ mit diesem Gesetz vorzulegen, erstmals bis zum 30. Juni 2026.
 
 
 ### § 45 Beratung; Aufbau unterstützender Angebote und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE004600000)
 
 Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der
 Beratung und Information zur Pflegefachassistenzausbildung nach diesem
@@ -108,12 +127,15 @@ und des Bundesministeriums für Gesundheit.
 
 
 ## Teil 5 - Statistik und Verordnungsermächtigungen; Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG001100000)
 
 
 ### Abschnitt 1 - Statistik und Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG001200000)
 
 
 #### § 46 Statistik; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE004700000)
 
 (1) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
 Jugend und das Bundesministerium für Gesundheit werden ermächtigt, für
@@ -147,6 +169,7 @@ Landesstatistik anzuordnen, bleibt unberührt.
 
 
 #### § 47 Ausbildungs- und Prüfungsverordnung, Finanzierung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE004800000)
 
 (1) Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
 Jugend und das Bundesministerium für Gesundheit werden ermächtigt,
@@ -244,15 +267,19 @@ vorsehen.
 
 
 ### Abschnitt 2 - (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG001300000)
 
 
 #### § 48 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE004900000)
 
 
 ## Teil 6 - Anwendungs- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNG001400000)
 
 
 ### § 49 Nichtanwendung des Berufsbildungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE005000000)
 
 Für die Ausbildung nach diesem Gesetz findet das Berufsbildungsgesetz
 mit Ausnahme von § 45 dieses Gesetzes in Verbindung mit § 90 Absatz 3a
@@ -262,10 +289,13 @@ Absatz 2 Satz 1 des Berufsbildungsgesetzes keine Anwendung.
 
 
 ### (XXXX) §§ 50 und 51 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE005100000)
 
 
 ### § 52 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE005300000)
 
 
 ### (XXXX) §§ 53 und 54 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/pflfassg/BJNR1030B0025.html#BJNR1030B0025BJNE005400000)
 

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000000000)
 
 Auf Grund des § 41 Abs. 2 Satz 2 des Lebensmittel- und
 Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9.
@@ -33,6 +34,7 @@ Landwirtschaft:
 
 
 ## § 1 Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000102116)
 
 (1) Nicht wissenschaftlich ausgebildete Personen dürfen von den
 zuständigen Behörden beim Vollzug des Lebensmittelrechts mit der
@@ -188,6 +190,7 @@ werden, wenn sie befähigt sind,
 
 
 ## § 2 Anforderungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000202116)
 
 (1) Die Anforderungen nach § 1 erfüllt, wer in einem Beruf, der
 Kenntnisse und Fertigkeiten auf dem Gebiet des Verkehrs mit
@@ -231,6 +234,7 @@ unberührt.
 
 
 ## § 3 Lehrgang
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000303116)
 
 (1) Der Lehrgang dauert mindestens 24 Monate. Er gliedert sich in
 
@@ -316,6 +320,7 @@ können, abgelegt werden.
 
 
 ## § 4 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000400000)
 
 Die in § 1 genannten Personen haben mindestens alle zwei Jahre an
 Fortbildungsveranstaltungen von insgesamt mindestens drei Tagen
@@ -326,6 +331,7 @@ halbtägige Fortbildungsveranstaltungen ist zulässig.
 
 
 ## § 5 Vorschriften der Länder
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000500000)
 
 Die zuständigen obersten Landesbehörden können im Rahmen dieser
 Verordnung nähere Vorschriften über den Lehrgang und die Prüfung sowie
@@ -345,6 +351,7 @@ vorschreiben. Im Fall des § 3 Abs. 1 Satz 3 gilt Satz 1 Nr. 2 nicht.
 
 
 ## § 6 Ausnahmen und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000601310)
 
 (1) Diese Verordnung gilt nicht für
 
@@ -391,11 +398,13 @@ genannten Tätigkeiten auszuüben. § 4 bleibt unberührt.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000700000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lkonv/BJNR223600001.html#BJNR223600001BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

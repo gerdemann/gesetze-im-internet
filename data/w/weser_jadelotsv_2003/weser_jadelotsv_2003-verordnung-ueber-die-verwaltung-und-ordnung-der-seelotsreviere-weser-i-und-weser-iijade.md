@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000100311)
 
 Auf Grund des § 5 Abs. 1 Nr. 3, 4 und 5 in Verbindung mit § 12 des
 Seelotsgesetzes in der Fassung der Bekanntmachung vom 13. September
@@ -36,6 +37,7 @@ der Küstenländer und der Bundeslotsenkammer:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000203305)
 
 (1) Seeschiffe im Sinne dieser Verordnung sind Schiffe, die in einem
 Seeschiffsregister oder einem vergleichbaren ausländischen Register
@@ -109,6 +111,7 @@ jeweils zuständige Wasserstraßen- und Schifffahrtsamt.
 
 
 ## § 2 Seelotsreviere, Lotsbezirke, Lotsenbrüderschaften
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000300311)
 
 (1) Der Lotsdienst auf den Fahrtstrecken zwischen Bremen und
 Bremerhaven im Bereich der Geestemündung sowie den Fahrtstrecken
@@ -145,6 +148,7 @@ Wilhelmshaven.
 
 
 ## § 3 Lotsenstationen, Lotsenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000400311)
 
 (1) Lotsenstationen sind eingerichtet
 
@@ -164,6 +168,7 @@ im Bereich der Geestemündung.
 
 
 ## § 4 Lotsenversetzpositionen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000501305)
 
 (1) Schiffe, die zur Annahme eines Seelotsen auf den Fahrtstrecken
 binnenwärts der Lotsenversetzpositionen im Verkehrstrennungsgebiet
@@ -186,6 +191,7 @@ Bereich "Minsener Oog".
 
 
 ## § 5 Lotsenanforderung und Versetzmanöver
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000602119)
 
 (1) Führer von Schiffen, die zur Annahme eines Seelotsen verpflichtet
 sind oder einen Seelotsen annehmen wollen, müssen den Seelotsen
@@ -247,6 +253,7 @@ Versetzfahrzeug während des Versetzmanövers zu sorgen.
 
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000703119)
 
 (1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord
 verpflichtet,
@@ -335,6 +342,7 @@ nicht überschritten werden:
 
 
 ## § 7 Ausnahmen von der Lotsenannahmepflicht
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000800311)
 
 (1) Von der Lotsenannahmepflicht ausgenommen sind die Führer von
 Dienstschiffen des Bundes und der Häfen- und Schifffahrtsverwaltungen
@@ -348,6 +356,7 @@ beginnt oder endet.
 
 
 ## § 8 Befreiung von der Annahmepflicht eines Bordlotsen ohne Antrag für Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE000900311)
 
 (1) Von der Lotsenannahmepflicht befreit sind Führer von Seeschiffen
 mit einer Länge bis einschließlich 120 m und einer Breite bis
@@ -395,6 +404,7 @@ ein typgleiches Schiff übertragen.
 
 
 ## § 9 Befreiung von der Annahmepflicht eines Bordlotsen auf Antrag für Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001001305)
 
 (1) Führer von Seeschiffen, mit Ausnahme von Schiffen, die nach § 6
 Abs. 1 Nr. 3 auf dem gesamten Seelotsrevier lotsenannahmepflichtig
@@ -473,6 +483,7 @@ dem Fahrzeug nach Absatz 2 mindestens dreimal befahren hat.
 
 
 ## § 10 Befreiung für Tankschiffe
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001102305)
 
 (1) Die Schifffahrtspolizeibehörde kann auf Antrag von der
 Lotsenannahmepflicht befreien:
@@ -605,6 +616,7 @@ der Schifffahrtspolizeibehörde auf ein typgleiches Schiff nach Absatz
 
 
 ## § 11 Stellvertreter des Schiffsführers
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001200311)
 
 Die Vorschriften der §§ 8 bis 10 über die Befreiung von der
 Lotsenannahmepflicht gelten auch für den Stellvertreter des
@@ -614,6 +626,7 @@ wenn auch der Schiffsführer von der Lotsenannahmepflicht befreit ist.
 
 
 ## § 12 Befreiung von der Lotsenannahmepflicht in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001300311)
 
 Die Schifffahrtspolizeibehörde kann den Führer eines Schiffes in
 besonderen Einzelfällen über die Vorschriften der §§ 8 bis 10 hinaus
@@ -622,6 +635,7 @@ befreien.
 
 
 ## § 13 Landradarberatung
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001400311)
 
 (1) Führer von Fahrzeugen, die nach den Vorschriften der §§ 8 bis 12
 von der Lotsenannahmepflicht befreit sind, haben bei Sichtweiten unter
@@ -696,6 +710,7 @@ nach § 5 Abs. 1 und 3 erfolgt.
 
 
 ## § 14 Anordnung zur Annahme von Seelotsen zur Abwehr einer Gefahr/Widerruf von Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001500311)
 
 (1) Die Schifffahrtspolizeibehörde kann über die Vorschriften der §§ 6
 und 13 hinaus aus schifffahrtspolizeilichen Gründen die Annahme eines
@@ -708,6 +723,7 @@ Befreiungen nach dieser Lotsverordnung widerrufen.
 
 
 ## § 15 Lotsentätigkeit nach der ersten Bestallung
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001604305)
 
 (1) Nach seiner ersten Bestallung darf ein Seelotse während einer
 Übergangszeit nur Schiffe bestimmter Größe lotsen, und zwar
@@ -812,6 +828,7 @@ Schiffes tätig ist,
 
 
 ## § 16 Distanzlotsungen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001701305)
 
 Die Seelotsen der Lotsenbrüderschaft Weser II/Jade dürfen über ihr
 Seelotsrevier hinaus zwischen den Außenstationen der deutschen
@@ -823,6 +840,7 @@ erfolgtem Lotswechsel lotsen.
 
 
 ## § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001800311)
 
 Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Seelotsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -852,22 +870,26 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 18 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE001902305)
 
 -
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE002000311)
 
 -
 
 
 ## § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE002100311)
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
 (zu § 5 Absatz 3)
 
 ## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE002202119)
 
 (Fundstelle: BGBl. 2024 I Nr. 263, S. 3 – 4)
 
@@ -1098,6 +1120,7 @@ _\_\__\_\__\_\__\_\_
 
 
 ## Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/weser_jadelotsv_2003/BJNR504130003.html#BJNR504130003BJNE002301305)
 
 Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1513
 Bescheinigung

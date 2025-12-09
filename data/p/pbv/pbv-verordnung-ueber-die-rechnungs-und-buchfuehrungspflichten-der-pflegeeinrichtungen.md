@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000100310)
 
 Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches
 Sozialgesetzbuch - Soziale Pflegeversicherung - vom 26. Mai 1994
@@ -33,6 +34,7 @@ Bundesministerium für Wirtschaft:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000300310)
 
 (1) Die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen
 richten sich nach dieser Verordnung, unabhängig davon, ob die
@@ -61,11 +63,13 @@ Pflegeeinrichtung zugelassen ist.
 
 
 ## § 2 Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000400310)
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
 
 ## § 3 Buchführung, Inventar
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000500310)
 
 (1) Die Pflegeeinrichtungen führen ihre Bücher nach den Regeln der
 kaufmännischen doppelten Buchführung. Für Buchführung und Inventar
@@ -78,6 +82,7 @@ Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
 
 
 ## § 4 Jahresabschluß
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000606119)
 
 (1) Der Jahresabschluß der Pflegeeinrichtung besteht aus:
 
@@ -126,6 +131,7 @@ der Träger
 
 
 ## § 5 Einzelvorschriften zur Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000700310)
 
 (1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich
 begrenzt ist, sind in der Bilanz höchstens zu den Anschaffungs- oder
@@ -180,6 +186,7 @@ Eigenmittelförderung" zu bilden.
 
 
 ## § 6 Aufbewahrung und Vorlegung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000800310)
 
 Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die
 Vorlegung von Unterlagen gelten die §§ 257 und 261 des
@@ -187,6 +194,7 @@ Handelsgesetzbuchs.
 
 
 ## § 7 Kosten- und Leistungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE000900310)
 
 Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und
 Leistungsrechnung zu führen, die eine betriebsinterne Steuerung sowie
@@ -226,6 +234,7 @@ folgende Mindestanforderungen:
 
 
 ## § 8 Wahlrecht für Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001001119)
 
 (1) Pflegeeinrichtungen, die Kapitalgesellschaften im Sinne des
 Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs sind,
@@ -259,6 +268,7 @@ dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
 
 
 ## § 9 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001101308)
 
 (1) Von den Vorschriften dieser Verordnung sind befreit:
 
@@ -318,6 +328,7 @@ Kapitel des Elften Buches Sozialgesetzbuch bleiben unberührt.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001202126)
 
 Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer als Mitglied des
@@ -350,6 +361,7 @@ oder Feststellung des Jahresabschlusses
 
 
 ## § 11 Inkrafttreten und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001305119)
 
 (1) Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
@@ -400,11 +412,13 @@ Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001400310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 Gliederung der Bilanz\*)
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001504119)
 
 (Fundstelle: BGBl. I 1995, 1532 - 1534;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -599,6 +613,7 @@ Erstattung von Fördermitteln
 
 
 ## Anlage 2 Gliederung der Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001603119)
 
 (Fundstelle: BGBl. I 1995, 1535 - 1536;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -684,6 +699,7 @@ des Umlaufvermögens (KUGr.752) .......................  ......
 
 
 ## Anlage 3a Anlagennachweis
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001701308)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1995, 1537;
@@ -691,6 +707,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 3b Nachweis der Förderungen nach Landesrecht (Fördernachweis)
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001801308)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1995, 1538;
@@ -698,6 +715,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 4 Kontenrahmen für die Buchführung (Kontenklasse 0-8)
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE001904119)
 
 (Fundstelle: BGBl. I 1995, 1539 - 1546;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3377,6 +3395,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 5 Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE002001119)
 
 (Fundstelle: BGBl. I 1995, 1547;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3651,6 +3670,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 6 Muster, Kostenträgerübersicht
+[Direktlink](https://www.gesetze-im-internet.de/pbv/BJNR152800995.html#BJNR152800995BJNE002101119)
 
 (Fundstelle: BGBl. I 1995, 1548;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -20,6 +20,7 @@ Stand: Die V tritt mit Ausnahme von § 3 Abs. 2 am 31.7.2007 außer Kraft
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/indmeterprobv/BJNR157500004.html#BJNR157500004BJNE000100000)
 
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
@@ -31,6 +32,7 @@ und Forschung:
 
 
 ## § 1 Gegenstand und Struktur der Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/indmeterprobv/BJNR157500004.html#BJNR157500004BJNE000200000)
 
 (1) Zur Erprobung einer neuen Ausbildungsform sollen die Leistungen
 der Zwischenprüfung nach § 8, 12, 16, 20 oder 24 der Verordnung über
@@ -64,6 +66,7 @@ Ausnahme der §§ 26 bis 28 zugrunde zu legen.
 
 
 ## § 2 Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/indmeterprobv/BJNR157500004.html#BJNR157500004BJNE000300000)
 
 (1) Bei der Ermittlung des Gesamtergebnisses ist Teil 1 der
 Abschlussprüfung mit 40 Prozent und Teil 2 mit 60 Prozent zu
@@ -104,6 +107,7 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/indmeterprobv/BJNR157500004.html#BJNR157500004BJNE000400000)
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die für sie jeweils geltenden bisherigen
@@ -117,6 +121,7 @@ anzuwenden.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/indmeterprobv/BJNR157500004.html#BJNR157500004BJNE000401306)
 
 (1)
 
@@ -126,6 +131,7 @@ anzuwenden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/indmeterprobv/BJNR157500004.html#BJNR157500004BJNE000500000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft und mit Ausnahme von
 § 3 Abs. 2 am 31. Juli 2007 außer Kraft.

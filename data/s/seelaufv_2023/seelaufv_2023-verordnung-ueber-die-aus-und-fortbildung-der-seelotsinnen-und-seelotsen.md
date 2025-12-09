@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 9515-20 v. 25.2.2014 I 234 (SeeLAuFV)
 
 ## Abschnitt 1 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNG000100000)
 
 
 ### § 1 Ziel und Inhalte der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000200000)
 
 (1) Die Ausbildung zur Seelotsin oder zum Seelotsen hat die
 theoretischen und praktischen Kenntnisse, Fähigkeiten und Fertigkeiten
@@ -67,6 +69,7 @@ ergeben sich aus dem Ausbildungsrahmenplan nach Anlage 1.
 
 
 ### § 2 Aufbau und Dauer der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000300000)
 
 (1) Die Ausbildung zur Seelotsin oder zum Seelotsen ist untergliedert
 in drei Ausbildungsabschnitte:
@@ -114,6 +117,7 @@ Tätigkeiten im jeweiligen Seelotsrevier dauert 12 Monate.
 
 
 ### § 3 Zulassung zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000400000)
 
 (1) Die Aufsichtsbehörde nach § 3 der Allgemeinen Lotsverordnung
 (Aufsichtsbehörde) hat nach Maßgabe des § 8 Absatz 2 des
@@ -194,6 +198,7 @@ nachzuholenden Prüfung fortsetzen.
 
 
 ### § 4 Durchführung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000500000)
 
 (1) Die Ausbildung zur Seelotsin und zum Seelotsen für
 Seelotsenanwärterinnen und Seelotsenanwärter nach § 3 Absatz 3 erfolgt
@@ -240,6 +245,7 @@ Absatz 2 Satz 1 des Seelotsgesetzes bleibt unberührt.
 
 
 ### § 5 Theoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000600000)
 
 Die theoretische Ausbildung wird durch die in § 4 Absatz 1 und 2
 genannten Stellen durchgeführt. Die Inhalte der theoretischen
@@ -247,6 +253,7 @@ Ausbildung bestimmen sich nach dem Ausbildungsrahmenplan der Anlage 1.
 
 
 ### § 6 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000700000)
 
 (1) Die praktische Ausbildung ist von den Lotsenbrüderschaften
 durchzuführen. In den Lotsenausbildungsabschnitten 2 und 3 wird die
@@ -416,6 +423,7 @@ Leistung und bestätigt dies schriftlich oder elektronisch.
 
 
 ### § 7 Ausbildungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000800000)
 
 (1) Der Verlauf der Ausbildung ist durch die Seelotsenanwärterin oder
 den Seelotsenanwärter in einem Ausbildungsbuch zu dokumentieren. Das
@@ -461,6 +469,7 @@ verwenden.
 
 
 ### § 8 Abweichungen vom Ausbildungsgang
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE000900000)
 
 Die Aufsichtsbehörde kann mit Zustimmung der ausbildenden
 Lotsenbrüderschaft unter Berücksichtigung der revierspezifischen
@@ -484,6 +493,7 @@ liegt insbesondere vor,
 
 
 ### § 9 Qualifikation der anleitenden und ausbildenden Seelotsinnen und Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001000000)
 
 (1) Anleitende Seelotsinnen und anleitende Seelotsen müssen eine
 Schulung nach Anlage 4 Abschnitt 1 absolvieren.
@@ -505,6 +515,7 @@ Schifffahrtskunde zielgruppenorientiert vermitteln.
 
 
 ### § 10 Prüfungsverfahren für den Lotsenausbildungsabschnitt 1
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001100000)
 
 (1) Der Lotsenausbildungsabschnitt 1 endet mit einer praktischen
 Prüfung vor der Bundeslotsenkammer, die auf einem geeigneten Fahrzeug,
@@ -563,6 +574,7 @@ erheben, zu speichern und zu verwenden.
 
 
 ### § 11 Prüfungsverfahren für den Lotsenausbildungsabschnitt 2
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001200000)
 
 (1) Der Lotsenausbildungsabschnitt 2 endet mit einer praktischen
 Prüfung vor der Lotsenbrüderschaft, der die Seelotsenanwärterin und
@@ -627,6 +639,7 @@ erheben, zu speichern und zu verwenden.
 
 
 ### § 12 Prüfungsverfahren für den Lotsenausbildungsabschnitt 3
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001300000)
 
 (1) Nach Abschluss des Lotsenausbildungsabschnitts 3 hat die
 ausbildende Lotsenbrüderschaft die Seelotsenanwärterin oder den
@@ -692,6 +705,7 @@ Prüfungszeugnis nach Anlage 6 auszuhändigen.
 
 
 ### § 13 Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001400000)
 
 (1) Inhalte der praktischen Prüfung des Lotsenausbildungsabschnitts 1
 sind die in Spalte 4 des Ausbildungsrahmenplans genannten nautischen
@@ -713,6 +727,7 @@ Minuten betragen.
 
 
 ### § 14 Prüfungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001500000)
 
 (1) Eine Prüfung ist bestanden, wenn die zuständige Prüfungskommission
 feststellt, dass die Seelotsenanwärterin oder der Seelotsenanwärter
@@ -743,6 +758,7 @@ bestätigen.
 
 
 ### § 15 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001600000)
 
 (1) Besteht eine Seelotsenanwärterin oder ein Seelotsenanwärter eine
 Prüfung nicht, so kann die Prüfung auf ihren oder seinen Antrag einmal
@@ -760,6 +776,7 @@ Digitales und Verkehr zulässig.
 
 
 ### § 16 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001700000)
 
 (1) Eine zur Prüfung zugelassene Seelotsenanwärterin oder ein zur
 Prüfung zugelassener Seelotsenanwärter kann vor Beginn der Prüfung
@@ -792,6 +809,7 @@ Prüfungstermin fortgeführt werden.
 
 
 ### § 17 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001800000)
 
 (1) Die Prüfungskommission kann eine Seelotsenanwärterin oder einen
 Seelotsenanwärter, die oder der eine ordnungsgemäße Durchführung der
@@ -815,6 +833,7 @@ erbracht, kann die Ausbildung nicht fortgesetzt werden.
 
 
 ### § 18 Kostenerstattung bei Bestallungsverzicht
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE001900000)
 
 (1) Verzichtet eine Seelotsin oder ein Seelotse ohne wichtigen Grund
 auf die Rechte aus der Bestallung binnen fünf Jahren nach ihrer
@@ -855,6 +874,7 @@ Vorschriften des Verwaltungsvollstreckungsgesetzes.
 
 
 ### § 19 Seelotsenanwärterausweis und Seelotsenausweis
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002000000)
 
 (1) Die Aufsichtsbehörde hat für jede Seelotsenanwärterin und jeden
 Seelotsenanwärter einen Seelotsenanwärterausweis und für jede
@@ -885,6 +905,7 @@ anschließend von der Aufsichtsbehörde unverzüglich zu vernichten.
 
 
 ### § 20 Aufbewahrungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002100000)
 
 Alle Unterlagen mit personenbezogenen Daten zur Durchführung und
 Beaufsichtigung der Seelotsenausbildung sind von der jeweiligen die
@@ -905,9 +926,11 @@ Daten verarbeitenden Stelle
 
 
 ## Abschnitt 2 - Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNG000200000)
 
 
 ### § 21 Fortbildungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002200000)
 
 (1) Jede Seelotsin und jeder Seelotse ist verpflichtet, die für die
 Seelots- und Ausbildungstätigkeit notwendigen Kenntnisse in
@@ -923,6 +946,7 @@ Aufsichtsbehörde anerkannten Schiffsführungssimulatoren.
 
 
 ### § 22 Fortbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002300000)
 
 Der Fortbildungsrahmenplan nach Anlage 8 ist unter Berücksichtigung
 der revierbezogenen Besonderheiten durch einen von den
@@ -935,6 +959,7 @@ wissenschaftlichen Entwicklungen auf dem Gebiet der Schifffahrtskunde.
 
 
 ### § 23 Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002400000)
 
 Jede Seelotsin und jeder Seelotse hat die Teilnahme an den in den
 jeweiligen Fortbildungsplänen der Lotsenbrüderschaften vorgesehenen
@@ -947,6 +972,7 @@ Lotsenbrüderschaft unverzüglich zurückzusenden sind.
 
 
 ### § 24 Fortbildung für die Ausbildung von Seelotsenanwärterinnen und Seelotsenanwärtern
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002500000)
 
 (1) Die Sach- und Personalkosten zur Durchführung der Fortbildungen
 nach Anlage 4 hat die Bundeslotsenkammer zu tragen. Die dadurch
@@ -981,6 +1007,7 @@ Aufsichtsbehörde noch im selben Haushaltsjahr zurückzuzahlen.
 (zu § 1 Absatz 2)
 
 ### Anlage 1 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002600000)
 
 (Fundstelle: BGBl 2023 I Nr. 49, S. 12 - 24)
 
@@ -3450,6 +3477,7 @@ LA 3: Lotsenausbildungsabschnitt 3.
 (zu § 3 Absatz 1)
 
 ### Anlage 2 Bewertungsmatrix im Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 25)
 
@@ -3594,6 +3622,7 @@ Eingangs-Lotsenausbildungsabschnitt statt.
 (zu § 7 Absatz 2)
 
 ### Anlage 3 Bewertungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 26)
 
@@ -3727,6 +3756,7 @@ geeignet“.
 (zu § 9)
 
 ### Anlage 4 Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE002900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 27 - 30)
 
@@ -4169,6 +4199,7 @@ und Seelotsen, Aufbauschulung**
 (zu den §§ 10 und 11)
 
 ### Anlage 5 Prüfungszeugnis Lotsenausbildungsabschnitt 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE003000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 31)
 
@@ -4219,6 +4250,7 @@ Zulassung zum Lotsenausbildungsabschnitt 3 bestanden.
 (zu § 12)
 
 ### Anlage 6 Prüfungszeugnis über die Befähigung zur Seelotsin/zum Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE003100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 32)
 
@@ -4267,6 +4299,7 @@ bestanden.
 (zu § 19)
 
 ### Anlage 7 Ausweis für Seelotsinnen und Seelotsen sowie Seelotsenanwärterinnen und Seelotsenanwärter
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE003200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 33 - 34)
 
@@ -4290,6 +4323,7 @@ Rückseite:
 (zu § 21)
 
 ### Anlage 8 Fortbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE003300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 35 - 37)
 
@@ -4636,6 +4670,7 @@ Rückseite:
 (zu § 22)
 
 ### Anlage 9 Muster Lehrgangsbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/seelaufv_2023/BJNR0310B0023.html#BJNR0310B0023BJNE003400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 49, S. 38)
 

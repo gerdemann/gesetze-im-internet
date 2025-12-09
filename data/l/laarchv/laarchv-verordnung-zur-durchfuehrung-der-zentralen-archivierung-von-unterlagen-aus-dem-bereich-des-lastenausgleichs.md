@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000100325)
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die zentrale Archivierung
 von Unterlagen aus dem Bereich des Kriegsfolgenrechts vom 6. Januar
@@ -26,12 +27,14 @@ von Unterlagen aus dem Bereich des Kriegsfolgenrechts vom 6. Januar
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000200325)
 
 Das Lastenausgleichsarchiv übernimmt die Unterlagen aus dem Bereich
 des Lastenausgleichs nach Maßgabe der §§ 3 bis 5.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000300325)
 
 (1) Die in dieser Verordnung genannten Gesetze werden nach Maßgabe des
 § 8 des Lastenausgleichsgesetzes bezeichnet.
@@ -43,6 +46,7 @@ Einheitswertvermögen bezeichnet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000400325)
 
 (1) Das Lastenausgleichsarchiv übernimmt alle Akten, in denen
 
@@ -77,6 +81,7 @@ Ausnahme Chinas entstanden sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000500325)
 
 (1) Die Heimatauskunftsstellen (§ 25 des Feststellungsgesetzes) und
 die Auskunftsstellen (§ 28 des Beweissicherungs- und
@@ -122,6 +127,7 @@ Leitakten) ab.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000600325)
 
 Aus den nachstehend aufgeführten Bereichen des Lastenausgleichs,
 insbesondere der Gewährung von Ausgleichsleistungen, übernimmt das
@@ -195,6 +201,7 @@ begünstigten Personenkreises darzustellen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000700325)
 
 (1) Die Ausgleichsämter haben vor Abgabe der in § 3 Abs. 1
 bezeichneten Akten einen Vordruck nach Anlage 1 zu dieser Verordnung
@@ -209,6 +216,7 @@ aufzunehmen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000800325)
 
 Die abzugebenden Akten und Unterlagen sind zusammen mit den
 Verzeichnissen (§ 6) dem Lastenausgleichsarchiv nach vorheriger
@@ -217,6 +225,7 @@ mitgeteilt hat.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE000900325)
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Überleitungsgesetzes in Verbindung mit § 3 des Gesetzes über die
@@ -225,22 +234,26 @@ Kriegsfolgenrechts auch im Land Berlin.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE001000325)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE001100325)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1 (zu § 6 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE001200325)
 
 (Fundstelle: BGBl. I 1988, 163)
 ![bgbl1_1988_j0163_0010.jpg](bgbl1_1988_j0163_0010.jpg)
 (zu § 6 Abs. 2)
 
 ## Anlage 2 Abgabeliste für negativ beschiedene oder sonstwie abgeschlossene FG-Akten
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE001300325)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 164
 
@@ -269,6 +282,7 @@ Fundstelle des Originaltextes: BGBl. I 1988, 164
    (zu § 6 Abs. 2)
 
 ## Anlage 3 Abgabeliste für Sachakten
+[Direktlink](https://www.gesetze-im-internet.de/laarchv/BJNR001610988.html#BJNR001610988BJNE001400325)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 165
 

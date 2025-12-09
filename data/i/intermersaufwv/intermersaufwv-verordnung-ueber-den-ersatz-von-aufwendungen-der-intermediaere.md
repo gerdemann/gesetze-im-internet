@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000100000)
 
 Auf Grund des § 67f Absatz 3 des Aktiengesetzes, der durch Artikel 2
 Nummer 1 Buchstabe b des Gesetzes vom 20. Juli 2022 (BGBl. I S. 1166)
@@ -29,6 +30,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000200000)
 
 Diese Verordnung regelt die Einzelheiten für den Ersatz von
 notwendigen Aufwendungen der Intermediäre durch Emittenten von Aktien
@@ -52,6 +54,7 @@ notwendigen Aufwendungen der Intermediäre durch Emittenten von Aktien
 
 
 ## § 2 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000300000)
 
 (1) Ein Intermediär kann Ersatz von notwendigen Aufwendungen nach
 dieser Verordnung nur verlangen, soweit er in Erfüllung seiner Pflicht
@@ -70,6 +73,7 @@ Vereinbarungen der Beteiligten bleiben hiervon unberührt.
 
 
 ## § 3 Kostenersatz für Aufwendungen für die Übermittlung von Informationen an die Aktionäre außerhalb von § 4
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000400000)
 
 (1) Übermittelt ein Letztintermediär Informationen nach § 67b Absatz 1
 des Aktiengesetzes, so kann er von der börsennotierten Gesellschaft,
@@ -90,6 +94,7 @@ des Aktiengesetzes definiert.
 
 
 ## § 4 Kostenersatz für Aufwendungen bei Mitteilungen hinsichtlich der Einberufung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000500000)
 
 (1) Übermittelt ein Letztintermediär die Informationen von einer
 Gesellschaft, soweit diese Inhaberaktien ausgegeben hat, nach § 125
@@ -114,6 +119,7 @@ zusätzlich Ersatz der erforderlichen Versandkosten verlangt werden.
 
 
 ## § 5 Kostenersatz für Aufwendungen bei Mitteilungen an die börsennotierte Gesellschaft und für den Nachweis des Anteilsbesitzes
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000600000)
 
 (1) Übermittelt ein Letztintermediär Informationen gemäß § 67c Absatz
 1 Satz 1 oder Satz 3 des Aktiengesetzes an die börsennotierte
@@ -138,6 +144,7 @@ Aufwendungen für jeden Nachweis von der Gesellschaft 8 Euro verlangen.
 
 
 ## § 6 Kostenersatz für Aufwendungen bei Aktionärsidentifikation
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000700000)
 
 (1) Übermittelt ein Letztintermediär Informationen nach § 67d Absatz 4
 Satz 1 des Aktiengesetzes oder übermittelt ein Intermediär diese an
@@ -158,6 +165,7 @@ Erleichterung der Ausübung der Aktionärsrechte (ABl. L 223 vom
 
 
 ## § 7 Beschränkung der Ersatzansprüche nach § 6
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000800000)
 
 (1) Die Letztintermediäre beziehungsweise Intermediäre, die ihren
 Anspruch nach § 6 Absatz 1 geltend machen wollen, haben ihre
@@ -179,6 +187,7 @@ Verbindlichkeiten gegenüber den Beteiligten befreit.
 
 
 ## § 8 Kostenersatz für Aufwendungen bei der Übermittlung der Bestätigung des Zugangs der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE000900000)
 
 Übermittelt ein Letztintermediär die Bestätigung nach § 118 Absatz 1
 Satz 4, Absatz 2 Satz 2 oder § 118a Absatz 1 Satz 4 in Verbindung mit
@@ -189,6 +198,7 @@ hinterlegten, seine Stimme abgebenden Aktionär 8 Euro verlangen.
 
 
 ## § 9 Kostenersatz für Aufwendungen bei Bestätigung über die Stimmzählung
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE001000000)
 
 Übermittelt ein Letztintermediär die Bestätigung nach § 129 Absatz 5
 Satz 3 und 4 des Aktiengesetzes, so kann er von einer Gesellschaft,
@@ -198,6 +208,7 @@ Stimme abgebenden Aktionär 8 Euro verlangen.
 
 
 ## § 10 Kostenersatz für die Übermittlung der Angaben bei Namensaktien
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE001100000)
 
 Gibt ein Letztintermediär nach § 67 Absatz 4 Satz 1 bis 3 des
 Aktiengesetzes die für die Führung des Aktienregisters erforderlichen
@@ -207,12 +218,14 @@ verlangen. Dies gilt entsprechend für Änderungsmeldungen.
 
 
 ## § 11 Ersatz der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE001200000)
 
 Der Intermediär hat Anspruch auf Ersatz der Umsatzsteuer, die auf
 seinen Kostenersatz gemäß den §§ 3 bis 10 entfällt.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/intermersaufwv/BJNR0680A0025.html#BJNR0680A0025BJNE001300000)
 
 Diese Verordnung tritt am 1. Mai 2025 in Kraft.
 

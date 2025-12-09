@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## § 1 Berufsbildung im Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000200000)
 
 (1) Mit Ausnahme der §§ 6, 10, 12, 13, 14 Absatz 2 und des § 15 gelten
 die Rechtsnormen des Tarifvertrags über die Berufsbildung im
@@ -89,6 +90,7 @@ verweist.
 
 
 ## § 2 Zusätzliche Altersversorgung im Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000300000)
 
 (1) Die Rechtsnormen des Tarifvertrags über eine zusätzliche
 Altersversorgung im Baugewerbe vom 5. Juni 2014 gelten in der aus der
@@ -116,6 +118,7 @@ Arbeitnehmer.
 
 
 ## § 3 Urlaubsregelungen für das Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000400000)
 
 (1) Die Rechtsnormen des § 3 Nummer 1.1, 1.2, 5.1, 5.2, 5.3 und 6, des
 § 4 Nummer 6, der §§ 6 bis 8, des § 11 Nummer 2 sowie des § 14 des
@@ -175,6 +178,7 @@ Nummer 3 des Arbeitnehmer-Entsendegesetzes zum Gegenstand haben.
 
 
 ## § 4 Urlaubsregelung für das Baugewerbe in Bayern
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000500000)
 
 (1) Die Rechtsnormen des Tarifvertrags Urlaubsregelung für die
 gewerblichen Arbeitnehmer im Baugewerbe in Bayern gelten in der aus
@@ -208,6 +212,7 @@ Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 
 ## § 5 Berufsbildungsverfahren im Berliner Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000600000)
 
 Die Rechtsnormen des Tarifvertrags über das Verfahren für die
 Berufsbildung im Berliner Baugewerbe gelten in der aus der Anlage 24
@@ -217,6 +222,7 @@ für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar
 
 
 ## § 6 Sozialaufwandserstattung
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000700000)
 
 Die Rechtsnormen des Tarifvertrags über Sozialaufwandserstattung im
 Berliner Baugewerbe – gewerbliche Arbeitnehmer – gelten in der aus der
@@ -226,6 +232,7 @@ vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
 
 ## § 7 Sozialkassenverfahren im Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000800000)
 
 (1) Die Rechtsnormen des Tarifvertrags über das Sozialkassenverfahren
 im Baugewerbe vom 3. Mai 2013 gelten in der aus der Anlage 26
@@ -295,6 +302,7 @@ Entsendegesetzes zum Gegenstand haben.
 
 
 ## § 8 Meldeverfahren im Berliner Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE000900000)
 
 Die Rechtsnormen des Tarifvertrags über zusätzliche Angaben im
 arbeitnehmerbezogenen Meldeverfahren im Berliner Baugewerbe gelten in
@@ -304,6 +312,7 @@ vom 1. Januar 2007 bis zur Beendigung des Tarifvertrags.
 
 
 ## § 9 Beendigung des Tarifvertrags
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001000000)
 
 (1) Ein Tarifvertrag endet im Sinne dieses Gesetzes, wenn er
 gekündigt, aufgehoben, geändert oder durch einen anderen Tarifvertrag
@@ -314,6 +323,7 @@ Tarifvertrags im Bundesanzeiger bekannt.
 
 
 ## § 10 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001100000)
 
 (1) Die tarifvertraglichen Rechtsnormen, auf die in den §§ 1 bis 8
 verwiesen wird, gelten nicht für Betriebe und selbständige
@@ -325,6 +335,7 @@ Personen.
 
 
 ## § 11 Geltung der tarifvertraglichen Rechtsnormen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001200000)
 
 Die tarifvertraglichen Rechtsnormen, auf die in den §§ 1 bis 8
 verwiesen wird, gelten unabhängig davon, ob die Tarifverträge wirksam
@@ -332,6 +343,7 @@ abgeschlossen wurden.
 
 
 ## § 12 Zivilrechtliche Durchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001300000)
 
 Auf die Verpflichtung zur Zahlung von Beiträgen zum
 Urlaubskassenverfahren an die Urlaubs- und Lohnausgleichskasse der
@@ -340,17 +352,20 @@ entsprechende Anwendung.
 
 
 ## § 13 Verhältnis zur Allgemeinverbindlichkeit nach dem Tarifvertragsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001400000)
 
 Die Allgemeinverbindlichkeit tarifvertraglicher Rechtsnormen nach dem
 Tarifvertragsgesetz bleibt unberührt.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001500000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Inhalt Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 1)
 
@@ -678,9 +693,11 @@ tarifvertraglichen Rechtsnormen
 
 
 ## Berufsbildung im Baugewerbe - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000100000)
 
 
 ### Anlage 1 (zu § 1 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 3 - 11)
 
@@ -1821,6 +1838,7 @@ bei Beginn der Ausbildung bereits das 28. Lebensjahr vollendet hatte.
 (zu § 1 Absatz 2)
 
 ### Anlage 2 Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 3. Mai 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE001900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 12 - 21)
 
@@ -2995,6 +3013,7 @@ bei Beginn der Ausbildung bereits das 28. Lebensjahr vollendet hatte.
 (zu § 1 Absatz 3)
 
 ### Anlage 3 Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 6. August 2010
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 22 - 31)
 
@@ -4193,6 +4212,7 @@ vor dem 1. September 2010 bereits bestanden haben.
 (zu § 1 Absatz 4)
 
 ### Anlage 4 Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 18. Dezember 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 32 - 40)
 
@@ -5281,6 +5301,7 @@ werden.
 (zu § 1 Absatz 5)
 
 ### Anlage 5 Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 30. Juni 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 41 - 49)
 
@@ -6386,6 +6407,7 @@ werden.
 (zu § 1 Absatz 6)
 
 ### Anlage 6 Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 20. August 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 50 - 58)
 
@@ -7456,6 +7478,7 @@ werden.
 (zu § 1 Absatz 7)
 
 ### Anlage 7 Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 30. Juni 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 59 - 67)
 
@@ -8523,10 +8546,12 @@ werden.
 
 
 ## Zusätzliche Altersversorgung im Baugewerbe - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000200000)
 
 (zu § 2 Absatz 1)
 
 ### Anlage 8 Tarifvertrag über eine zusätzliche Altersversorgung im Baugewerbe (TZA Bau) vom 5. Juni 2014, zuletzt geändert durch Tarifvertrag vom 10. Juni 2016
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 68 - 76)
 
@@ -9529,6 +9554,7 @@ werden.
 (zu § 2 Absatz 2)
 
 ### Anlage 9 Tarifvertrag über eine zusätzliche Altersversorgung im Baugewerbe (TZA Bau) vom 5. Juni 2014, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 77 - 84)
 
@@ -10501,6 +10527,7 @@ werden.
 (zu § 2 Absatz 3)
 
 ### Anlage 10 Tarifvertrag über Rentenbeihilfen im Baugewerbe (TVR) vom 31. Oktober 2002, zuletzt geändert durch Tarifvertrag vom 5. Dezember 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 85 - 90)
 
@@ -11034,6 +11061,7 @@ Dezember 2007, gekündigt werden.
 (zu § 2 Absatz 4)
 
 ### Anlage 11 Tarifvertrag über Rentenbeihilfen im Baugewerbe (TVR) vom 31. Oktober 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 91 - 96)
 
@@ -11570,9 +11598,11 @@ Dezember 2007, gekündigt werden.
 
 
 ## Urlaubsregelungen für das Baugewerbe - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000300000)
 
 
 ### Anlage 12 (zu § 3 Absatz 1) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 10. Juni 2016
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE002900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 97 - 114)
 
@@ -14020,6 +14050,7 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 (zu § 3 Absatz 2)
 
 ### Anlage 13 Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 115 - 133)
 
@@ -16471,6 +16502,7 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 
 
 ### Anlage 14 (zu § 3 Absatz 3) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 134 - 152)
 
@@ -18899,6 +18931,7 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 
 
 ### Anlage 15 (zu § 3 Absatz 4) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 31. Mai 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 153 - 171)
 
@@ -21374,6 +21407,7 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 (zu § 3 Absatz 5)
 
 ### Anlage 16 Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 20. August 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 172 - 190)
 
@@ -23860,6 +23894,7 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 (zu § 3 Absatz 6)
 
 ### Anlage 17 Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 19. Mai 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 191 - 209)
 
@@ -26322,6 +26357,7 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 (zu § 3 Absatz 7)
 
 ### Anlage 18 Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 29. Juli 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 210 - 228)
 
@@ -28849,10 +28885,12 @@ einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum
 
 
 ## Urlaubsregelung für das Baugewerbe in Bayern - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000400000)
 
 (zu § 4 Absatz 1)
 
 ### Anlage 19 Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 10. Dezember 2014
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 229 - 232)
 
@@ -29346,6 +29384,7 @@ erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 (zu § 4 Absatz 2)
 
 ### Anlage 20 Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 17. Dezember 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 233 - 236)
 
@@ -29824,6 +29863,7 @@ erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 (zu § 4 Absatz 3)
 
 ### Anlage 21 Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 20. August 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 237 - 241)
 
@@ -30329,6 +30369,7 @@ erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 (zu § 4 Absatz 4)
 
 ### Anlage 22 Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 19. Mai 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE003900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 242 - 245)
 
@@ -30816,6 +30857,7 @@ erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 (zu § 4 Absatz 5)
 
 ### Anlage 23 Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 29. Juli 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 246 - 250)
 
@@ -31334,10 +31376,12 @@ erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 
 
 ## Berufsbildungsverfahren im Berliner Baugewerbe - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000500000)
 
 (zu § 5)
 
 ### Anlage 24 Tarifvertrag über das Verfahren für die Berufsbildung im Berliner Baugewerbe (Verfahrenstarifvertrag Berufsbildung Berlin) vom 10.Dezember 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 251 - 252)
 
@@ -31511,10 +31555,12 @@ August 1995 tritt mit Ablauf des 31. Dezember 2002 außer Kraft.
 
 
 ## Sozialaufwandserstattung - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000600000)
 
 (zu § 6)
 
 ### Anlage 25 Tarifvertrag über Sozialaufwandserstattung im Berliner Baugewerbe – gewerbliche Arbeitnehmer – vom 17. Dezember 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 253 - 254)
 
@@ -31638,10 +31684,12 @@ außer Kraft.
 
 
 ## Sozialkassenverfahren im Baugewerbe - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000700000)
 
 (zu § 7 Absatz 1)
 
 ### Anlage 26 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 24.November 2015
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 255 - 268)
 
@@ -33336,6 +33384,7 @@ muss.
 (zu § 7 Absatz 2)
 
 ### Anlage 27 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 269 - 282)
 
@@ -35009,6 +35058,7 @@ muss.
 (zu § 7 Absatz 3)
 
 ### Anlage 28 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 3. Dezember 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 283 - 295)
 
@@ -36650,6 +36700,7 @@ muss.
 (zu § 7 Absatz 4)
 
 ### Anlage 29 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 296 - 308)
 
@@ -38292,6 +38343,7 @@ muss.
 (zu § 7 Absatz 5)
 
 ### Anlage 30 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 309 - 322)
 
@@ -40002,6 +40054,7 @@ Dezember 2010 gekündigt werden.
 (zu § 7 Absatz 6)
 
 ### Anlage 31 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009, zuletzt geändert durch Tarifvertrag vom 21. Dezember 2011
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 323 - 336)
 
@@ -41700,6 +41753,7 @@ Dezember 2010 gekündigt werden.
 (zu § 7 Absatz 7)
 
 ### Anlage 32 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE004900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 337 - 350)
 
@@ -43394,6 +43448,7 @@ Dezember 2010 gekündigt werden.
 (zu § 7 Absatz 8)
 
 ### Anlage 33 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 5. Dezember 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 351 - 365)
 
@@ -45161,6 +45216,7 @@ sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2000.
 (zu § 7 Absatz 9)
 
 ### Anlage 34 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 20. August 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 366 - 379)
 
@@ -46910,6 +46966,7 @@ sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2000.
 (zu § 7 Absatz 10)
 
 ### Anlage 35 Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 15. Dezember 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 380 - 394)
 
@@ -48677,10 +48734,12 @@ sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2000.
 
 
 ## Meldeverfahren im Berliner Baugewerbe - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000800000)
 
 (zu § 8)
 
 ### Anlage 36 Tarifvertrag über zusätzliche Angaben im arbeitnehmerbezogenen Meldeverfahren im Berliner Baugewerbe (TV ZABB) vom 19.Mai 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 395)
 
@@ -48759,9 +48818,11 @@ Dezember 2008 – gekündigt werden.
 
 
 ## Maßgaben zum Geltungsbereich der in den §§ 1 bis 8 in Bezug genommenen tarifvertraglichen Rechtsnormen - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNG000900000)
 
 
 ### Anlage 37 (zu § 10 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 396 - 397)
 
@@ -48958,6 +49019,7 @@ Geltungsbereich begründen.
 
 
 ### Anhang 1 (zu Absatz 1 der Anlage 37)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 398 - 401)
 
@@ -49474,6 +49536,7 @@ insbesondere folgende Fachzweige:
 
 
 ### Anhang 2 (zu Absatz 2 der Anlage 37)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 402)
 
@@ -49532,6 +49595,7 @@ Fachgruppe Metall und Elektro
 
 
 ### Anhang 3 (zu Absatz 4 der Anlage 37)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig/BJNR121000017.html#BJNR121000017BJNE005700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 403 - 404)
 

@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich; Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000200000)
 
 (1) Diese Verordnung regelt die Angabe von Preisen für Waren oder
 Leistungen von Unternehmern gegenüber Verbrauchern.
@@ -59,6 +61,7 @@ Grundsätzen von Preisklarheit und Preiswahrheit entsprechen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000300000)
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -109,9 +112,11 @@ Im Sinne dieser Verordnung bedeutet
 
 
 ## Abschnitt 2 - Grundvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNG000200000)
 
 
 ### § 3 Pflicht zur Angabe des Gesamtpreises
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000400000)
 
 (1) Wer als Unternehmer Verbrauchern Waren oder Leistungen anbietet
 oder als Anbieter von Waren oder Leistungen gegenüber Verbrauchern
@@ -128,6 +133,7 @@ nicht entgegenstehen.
 
 
 ### § 4 Pflicht zur Angabe des Grundpreises
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000500000)
 
 (1) Wer als Unternehmer Verbrauchern Waren in Fertigpackungen, offenen
 Packungen oder als Verkaufseinheiten ohne Umhüllung nach Gewicht,
@@ -181,6 +187,7 @@ Grundpreis anzugeben.
 
 
 ### § 5 Mengeneinheit für die Angabe des Grundpreises
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000600000)
 
 (1) Die Mengeneinheit für den Grundpreis ist jeweils 1 Kilogramm, 1
 Liter, 1 Kubikmeter, 1 Meter oder 1 Quadratmeter der Ware. Bei Waren,
@@ -208,6 +215,7 @@ die Zahl der Portionen zusätzlich zur Gesamtfüllmenge angegeben ist.
 
 
 ### § 6 Preisangaben bei Fernabsatzverträgen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000700000)
 
 (1) Wer als Unternehmer Verbrauchern Waren oder Leistungen zum
 Abschluss eines Fernabsatzvertrages anbietet, hat zusätzlich zu den
@@ -234,6 +242,7 @@ genannten Verträge.
 
 
 ### § 7 Rückerstattbare Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000800000)
 
 Wer neben dem Gesamtpreis für eine Ware oder Leistung eine
 rückerstattbare Sicherheit fordert, insbesondere einen Pfandbetrag,
@@ -244,6 +253,7 @@ bleiben.
 
 
 ### § 8 Preisangaben mit Änderungsvorbehalt; Reisepreisänderungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE000900000)
 
 (1) Die Angabe von Preisen mit einem Änderungsvorbehalt ist nur
 zulässig
@@ -267,6 +277,7 @@ werden.
 
 
 ### § 9 Preisermäßigungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001000000)
 
 (1) Die Pflicht zur Angabe eines neuen Gesamtpreises oder Grundpreises
 gilt nicht bei
@@ -293,9 +304,11 @@ um einen einheitlichen Betrag oder Prozentsatz ermäßigt wird.
 
 
 ## Abschnitt 3 - Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNG000300000)
 
 
 ### § 10 Preisangaben im Handel
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001100000)
 
 (1) Wer Verbrauchern Waren, die von diesen unmittelbar entnommen
 werden können, anbietet, hat die Waren durch Preisschilder oder
@@ -348,6 +361,7 @@ und bekannt zu machen.
 
 
 ### § 11 Zusätzliche Preisangabenpflicht bei Preisermäßigungen für Waren
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001200000)
 
 (1) Wer zur Angabe eines Gesamtpreises verpflichtet ist, hat gegenüber
 Verbrauchern bei jeder Bekanntgabe einer Preisermäßigung für eine Ware
@@ -380,6 +394,7 @@ lediglich zur Angabe des Grundpreises Verpflichtete.
 
 
 ### § 12 Preisangaben für Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001300000)
 
 (1) Wer Verbrauchern Leistungen anbietet, hat ein Preisverzeichnis
 über die Preise für seine wesentlichen Leistungen oder über seine
@@ -423,6 +438,7 @@ fortlaufenden Nutzung unentgeltlich anzubieten.
 
 
 ### § 13 Gaststätten, Beherbergungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001400000)
 
 (1) Wer in Gaststätten und ähnlichen Betrieben Speisen oder Getränke
 anbietet, hat deren Preise in einem Preisverzeichnis anzugeben. Wer
@@ -460,6 +476,7 @@ Zuschläge einschließen.
 
 
 ### § 14 Elektrizität, Gas, Fernwärme und Wasser
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001500000)
 
 (1) Wer als Unternehmer Verbrauchern Elektrizität, Gas, Fernwärme oder
 Wasser leitungsgebunden anbietet oder als Anbieter dieser Waren
@@ -503,6 +520,7 @@ des Mengenpreises bei Wasser 1 Kubikmeter zu verwenden.
 
 
 ### § 15 Tankstellen, Parkplätze
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001600000)
 
 (1) Wer an einer Tankstelle Kraftstoffe anbietet, hat die
 Kraftstoffpreise so auszuzeichnen, dass sie deutlich lesbar für
@@ -526,9 +544,11 @@ geforderten Preise ersichtlich sind.
 
 
 ## Abschnitt 4 - Bestimmungen zu Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNG000400000)
 
 
 ### § 16 Verbraucherdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001700000)
 
 (1) Wer als Unternehmer den Abschluss von Verbraucherdarlehen im Sinne
 des § 491 des Bürgerlichen Gesetzbuchs anbietet, hat als Preis die
@@ -645,6 +665,7 @@ anzugeben.
 
 
 ### § 17 Werbung für Verbraucherdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001800000)
 
 (1) Jegliche Kommunikation für Werbe- und Marketingzwecke, die
 Verbraucherdarlehen betrifft, hat den Kriterien der Redlichkeit und
@@ -730,6 +751,7 @@ nicht anwendbar.
 
 
 ### § 18 Überziehungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE001900000)
 
 Bei Überziehungsmöglichkeiten im Sinne des § 504 Absatz 2 des
 Bürgerlichen Gesetzbuchs hat der Darlehensgeber statt des effektiven
@@ -739,6 +761,7 @@ Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt.
 
 
 ### § 19 Entgeltliche Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE002000000)
 
 Die §§ 16 und 17 sind auf Verträge entsprechend anzuwenden, durch die
 ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub
@@ -747,9 +770,11 @@ des Bürgerlichen Gesetzbuchs gewährt.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNG000500000)
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE002100000)
 
 Ordnungswidrig im Sinne des § 3 Absatz 1 Satz 1 Nummer 2 des
 Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
@@ -787,6 +812,7 @@ Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
 (zu § 16)
 
 ### Anlage Berechnung des effektiven Jahreszinses
+[Direktlink](https://www.gesetze-im-internet.de/pangv_2022/BJNR492110021.html#BJNR492110021BJNE002200000)
 
 (Fundstelle: BGBl. I 2021, 4928 - 4930)
 

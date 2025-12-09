@@ -26,6 +26,7 @@ Die geltung dieser v ist durch
 Stand: Ersetzt V 860-5-75 v. 24.6.2021 BAnz AT 25.06.2021 V1 (CoronaTestV 2021-07)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000105126)
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
 
@@ -47,38 +48,47 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000307126)
 
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000408126)
 
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000508126)
 
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000609126)
 
 
 
 ## § 4a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000707126)
 
 
 
 ## § 4b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000807126)
 
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE000907126)
 
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001009126)
 
 
 
 ## § 7 Abrechnung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001109126)
 
 (1) Die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis
 zum 28. Februar 2023 geltenden Fassung berechtigten Leistungserbringer
@@ -317,6 +327,7 @@ werden. Weitergehende landesrechtliche Regelungen bleiben unberührt.
 
 
 ## § 7a Abrechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001207126)
 
 (1) Die Kassenärztliche Vereinigung prüft die Plausibilität der
 Abrechnungen bezogen auf den jeweiligen Leistungserbringer und die
@@ -497,6 +508,7 @@ der Abrechnungsprüfung erforderlich ist.
 
 
 ## § 7b Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22a Absatz 6 des Infektionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001305126)
 
 (1) Die Apotheken rechnen monatlich spätestens bis zum Ende des
 dritten auf den Abrechnungszeitraum folgenden Monats die sich nach §
@@ -548,6 +560,7 @@ Aufstellung nach Satz 1.
 
 
 ## § 8 Verwaltungskostenersatz der Kassenärztlichen Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001406126)
 
 Die Kassenärztlichen Vereinigungen behalten für den Aufwand der
 Beschaffung und Verteilung des zu verwendenden Vordrucks sowie der
@@ -567,6 +580,7 @@ für Soziale Sicherung erstattet.
 
 
 ## § 9 Vergütung von Leistungen der Diagnostik mittels Nukleinsäurenachweis
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001508126)
 
 Die an die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis
 zum 28. Februar 2023 geltenden Fassung berechtigten Leistungserbringer
@@ -583,6 +597,7 @@ Testung 30 Euro.
 
 
 ## § 10 Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001606126)
 
 Die an die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis
 zum 28. Februar 2023 geltenden Fassung berechtigten Leistungserbringer
@@ -593,6 +608,7 @@ Transportkosten beträgt je Testung 15 Euro.
 
 
 ## § 11 Vergütung von Sachkosten für PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001709126)
 
 An die nach § 6 Absatz 1 der Coronavirus-Testverordnung in der bis zum
 28\. Februar 2023 geltenden Fassung berechtigten Leistungserbringer und
@@ -605,6 +621,7 @@ die Pauschale nach Satz 1 je Test 4,50 Euro.
 
 
 ## § 12 Vergütung von weiteren Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001807126)
 
 (1) Die an die nach § 6 Absatz 1 Nummer 2 und 3 der Coronavirus-
 Testverordnung in der bis zum 28. Februar 2023 geltenden Fassung
@@ -675,6 +692,7 @@ werden.
 
 
 ## § 13 Finanzierung von Testzentren
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE001906126)
 
 (1) Kosten für die Errichtung und den laufenden Betrieb von
 Testzentren werden nach den Maßgaben der Absätze 2 bis 6 erstattet.
@@ -748,6 +766,7 @@ ausgeschlossen.
 
 
 ## § 14 Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE002006126)
 
 (1) Jede Kassenärztliche Vereinigung übermittelt monatlich oder
 quartalsweise, letztmalig bis zum 15. November 2023, folgende Angaben
@@ -839,6 +858,7 @@ gilt Absatz 1 Satz 2 bis 4 entsprechend.
 
 
 ## § 15 Verfahren für die Finanzierung aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE002110126)
 
 (1) Das Bundesamt für Soziale Sicherung übermittelt dem
 Bundesministerium für Gesundheit unverzüglich nach der Vornahme von
@@ -856,6 +876,7 @@ Betrag ist dem Bund vom Bundesamt für Soziale Sicherung zu erstatten.
 
 
 ## § 16 Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE002206126)
 
 (1) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für
 Gesundheit und dem Spitzenverband Bund der Krankenkassen jeden Monat,
@@ -998,10 +1019,12 @@ fest.
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE002306126)
 
 
 
 ## § 18 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE002406126)
 
 Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der
 Coronavirus-Testverordnung vom 30. November 2020 (BAnz AT 01.12.2020
@@ -1039,6 +1062,7 @@ Fassung vergütet.
 
 
 ## § 19 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/coronatestv_2021-10/BJNR626400021.html#BJNR626400021BJNE002506126)
 
 Diese Verordnung tritt mit Ablauf des 31. Dezember 2028 außer Kraft.
 

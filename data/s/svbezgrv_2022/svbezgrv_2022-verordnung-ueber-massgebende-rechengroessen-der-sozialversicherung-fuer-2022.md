@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000100000)
 
 Auf Grund
 
@@ -53,6 +54,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Durchschnittsentgelte in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000200000)
 
 (1) Das Durchschnittsentgelt für das Jahr 2020 beträgt 39 167 Euro.
 
@@ -64,6 +66,7 @@ ergänzt.
 
 
 ## § 2 Bezugsgrößen in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000300000)
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahr 2022 jährlich 39 480 Euro und
@@ -75,6 +78,7 @@ monatlich 3 150 Euro.
 
 
 ## § 3 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000400000)
 
 (1) Die Beitragsbemessungsgrenze beträgt im Jahr 2022
 
@@ -106,6 +110,7 @@ Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird um den Zeitraum
 
 
 ## § 4 Jahresarbeitsentgeltgrenzen in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000500000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
 Buches Sozialgesetzbuch für das Jahr 2022 beträgt 64 350 Euro.
@@ -115,11 +120,13 @@ Buches Sozialgesetzbuch für das Jahr 2022 beträgt 58 050 Euro.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2022/BJNR504400021.html#BJNR504400021BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

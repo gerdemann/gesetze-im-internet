@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000100000)
 
 Auf Grund des § 12l des Behindertengleichstellungsgesetzes, der durch
 Artikel 7 Nummer 2 des Gesetzes vom 23. Mai 2022 (BGBl. I S. 760)
@@ -26,9 +27,11 @@ Landwirtschaft:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000300000)
 
 (1) Diese Verordnung ist anwendbar auf Assistenzhunde im Sinne des §
 12e Absatz 3 des Behindertengleichstellungsgesetzes.
@@ -55,6 +58,7 @@ Landwirtschaft:
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -114,6 +118,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Assistenzhundearten
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000500000)
 
 (1) Assistenzhunde lassen sich anhand der Hilfeleistungen, die sie für
 einen Menschen mit Behinderungen erbringen, in die folgenden
@@ -149,9 +154,11 @@ lassen, werden nach dem Schwerpunkt ihrer Hilfeleistungen bezeichnet.
 
 
 ## Abschnitt 2 - Allgemeine Anforderungen an einen Assistenzhund
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000200000)
 
 
 ### § 4 Grunderziehung des Hundes
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000600000)
 
 Vor der Ausbildung bedarf der Hund einer Grunderziehung. Die
 Grunderziehung beginnt möglichst im Welpenalter und beinhaltet eine
@@ -164,6 +171,7 @@ und die Grunderziehung tierschutzgerecht erfolgt.
 
 
 ### § 5 Gesundheitliche Eignung, Attest
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000700000)
 
 (1) Der Hund muss als Assistenzhund gesundheitlich geeignet sein. Die
 gesundheitliche Eignung ist durch eine tierärztliche Untersuchung
@@ -192,6 +200,7 @@ Untersuchungen beizufügen. Abweichungen von den Vorgaben gemäß Absatz
 
 
 ### § 6 Mikrochip-Transponder und Registrierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000800000)
 
 Der Hund ist spätestens bei der tierärztlichen Untersuchung nach § 5
 Absatz 1 dauerhaft mit einem Mikrochip-Transponder gemäß Artikel 17
@@ -205,9 +214,11 @@ mit einem Mikrochip-Transponder bei einem Haustierregister an.
 
 
 ## Abschnitt 3 - Ausbildung zum Assistenzhund und zur Mensch-Assistenzhund-Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000300000)
 
 
 ### § 7 Fremdausbildung und Selbstausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE000900000)
 
 (1) Die Ausbildung erfolgt als Fremdausbildung oder Selbstausbildung.
 
@@ -227,6 +238,7 @@ Hund absolviert oder begleitet hat.
 
 
 ### § 8 Ziel und Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001000000)
 
 (1) Ziel der Ausbildung ist es, eine funktionsfähige Einheit zwischen
 Mensch und Hund zu schaffen. Diese liegt vor, wenn
@@ -278,6 +290,7 @@ und der Lerntheorien entsprechen.
 
 
 ### § 9 Generelle Eignung als Assistenzhund, Alter bei Beginn der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001100000)
 
 (1) Die Ausbildungsstätte vergewissert sich bei der Fremdausbildung
 und bei Selbstausbildung so früh wie möglich, ob der Hund generell als
@@ -347,6 +360,7 @@ Beeinträchtigungen trainiert werden.
 
 
 ### § 10 Konkret-individuelle Eignung als Assistenzhund
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001200000)
 
 (1) Zusätzlich zur generellen Eignung des Hundes vergewissert sich die
 Ausbildungsstätte bei der Fremdausbildung und bei der Selbstausbildung
@@ -388,6 +402,7 @@ Der Nachweis nach Satz 1 muss alle Voraussetzungen des Absatzes 1 Satz
 
 
 ### § 11 Schulung der Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001300000)
 
 (1) Die Ausbildungsstätte schult die Zusammenarbeit von Mensch und
 Hund. Ziel dieser Schulung ist es, eine funktionsfähige Einheit
@@ -402,6 +417,7 @@ Gründe vorliegen. § 7 Absatz 3 Satz 2 gilt entsprechend.
 
 
 ### § 12 Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001400000)
 
 (1) In der Ausbildungsstätte trägt die fachlich verantwortliche Person
 die Verantwortung für die Einhaltung der Bestimmungen dieser
@@ -421,6 +437,7 @@ Ausbildungsnachweises aus.
 
 
 ### § 13 Einbeziehung einer Bezugsperson in die Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001500000)
 
 Eine Bezugsperson ist in die Ausbildung einzubeziehen, wenn aufgrund
 der Beeinträchtigung oder des Alters des Menschen mit Behinderungen
@@ -433,6 +450,7 @@ Behinderungen und des Hundes.
 
 
 ### § 14 Beratung bei der Selbstausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001600000)
 
 Menschen mit Behinderungen und gegebenenfalls deren Bezugspersonen
 nehmen spätestens bei Beginn der Selbstausbildung die Beratung einer
@@ -446,9 +464,11 @@ Anschaffung eines Hundes erfolgen.
 
 
 ## Abschnitt 4 - Prüfung zum Assistenzhund und zur Mensch-Assistenzhund-Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000400000)
 
 
 ### § 15 Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001700000)
 
 (1) Zur Prüfung muss der Mensch mit Behinderungen sich und den Hund
 bei einem Prüfer anmelden.
@@ -495,6 +515,7 @@ Prüfer erfolgen.
 
 
 ### § 16 Ziel und Inhalt der Prüfung, Alter des Hundes bei der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001800000)
 
 (1) Die Prüfung dient der Feststellung, ob das Ausbildungsziel
 erreicht ist und ob die Gemeinschaft aus Mensch und Hund über die
@@ -510,6 +531,7 @@ sein.
 
 
 ### § 17 Individuelle Bedarfe von Menschen mit Behinderungen, Barrierefreiheit, Kompensation von Benachteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE001900000)
 
 Die individuellen Bedarfe von Menschen mit Behinderungen sind bei der
 Konzeption und Durchführung der Prüfung zu berücksichtigen.
@@ -520,6 +542,7 @@ Individuelle Benachteiligungen werden so weit wie möglich kompensiert.
 
 
 ### § 18 Prüfungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002000000)
 
 (1) Die jeweiligen Prüfungsleistungen werden mit „gut“, „ausreichend“
 oder „mangelhaft“ bewertet. Die Prüfung ist bestanden, wenn die
@@ -531,6 +554,7 @@ Hierauf weist der Prüfer den Menschen mit Behinderungen hin.
 
 
 ### § 19 Zertifizierung und Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002100000)
 
 (1) Bei bestandener Prüfung erfolgt die Zertifizierung der Mensch-
 Assistenzhund-Gemeinschaft. Die Zertifizierung bleibt gültig bis der
@@ -543,6 +567,7 @@ mit Behinderungen ein Abzeichen aus.
 
 
 ### § 20 Verlängerung der Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002200000)
 
 Der Mensch mit Behinderungen kann beim Prüfer ab einem Zeitraum von
 sechs Monaten vor Ablauf der Gültigkeit der Zertifizierung zweimalig
@@ -559,9 +584,11 @@ Befristung und händigt ein entsprechendes Zertifikat aus.
 
 
 ## Abschnitt 5 - Anerkennung von Assistenzhunden, Ausweis und Abzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000500000)
 
 
 ### § 21 Anerkennung von Assistenzhunden im Sinne des § 12e Absatz 3 Satz 2 Nummer 4 des Behindertengleichstellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002300000)
 
 (1) Die Anerkennung eines Assistenzhundes im Sinne des § 12e Absatz 3
 Satz 2 Nummer 4 des Behindertengleichstellungsgesetzes erfolgt auf
@@ -629,6 +656,7 @@ Dezember 2025 beantragt werden.
 
 
 ### § 22 Anerkennung von Assistenzhunden im Sinne des § 12e Absatz 3 Satz 2 Nummer 2 und Nummer 3 des Behindertengleichstellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002400000)
 
 (1) Die Anerkennung eines Assistenzhundes im Sinne des § 12e Absatz 3
 Satz 2 Nummer 3 des Behindertengleichstellungsgesetzes erfolgt auf
@@ -685,6 +713,7 @@ entsprechend.
 
 
 ### § 23 Ausweis und Abzeichen für Assistenzhunde, die als Hilfsmittel im Sinne des § 33 des Fünften Buches Sozialgesetzbuch gewährt werden
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002500000)
 
 Die nach Landesrecht zuständige Behörde händigt einem Menschen mit
 Behinderungen auf Antrag für einen Assistenzhund, der für ihn als
@@ -706,6 +735,7 @@ Antrag sind folgende Unterlagen beizufügen:
 
 
 ### § 24 Verlängerung der Anerkennung und der Gültigkeit des Ausweises
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002600000)
 
 (1) Der Mensch mit Behinderungen kann bis zu sechs Monate vor Ablauf
 einer Anerkennung nach § 21 oder § 22 zweimalig eine Verlängerung der
@@ -723,9 +753,11 @@ entsprechend.
 
 
 ## Abschnitt 6 - Untersuchung und Kennzeichnung des Assistenzhundes, Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000600000)
 
 
 ### § 25 Jährliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002700000)
 
 (1) Der Assistenzhund ist einmal jährlich tierärztlich dahingehend zu
 untersuchen, ob seine gesundheitliche Eignung fortbesteht. Der
@@ -765,6 +797,7 @@ DIN 17024-11.
 
 
 ### § 26 Kennzeichnung von Assistenzhunden, Erteilung von Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002800000)
 
 (1) Mit dem Kennzeichen nach Anlage 10 dürfen ausschließlich
 Assistenzhunde gekennzeichnet werden,
@@ -796,6 +829,7 @@ bringt, dass es sich bei dem Hund um einen Assistenzhund handelt.
 
 
 ### § 27 Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE002900000)
 
 Der Halter eines Assistenzhundes muss eine Haftpflichtversicherung
 ohne Selbstbeteiligung oder mit einer Selbstbeteiligung von höchstens
@@ -807,9 +841,11 @@ sonstige Schäden abdecken.
 
 
 ## Abschnitt 7 - Akkreditierung als fachliche Stelle, Zulassung von Ausbildungsstätten und Akkreditierung von Prüfern
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNG000700000)
 
 
 ### § 28 Akkreditierung als fachliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003000000)
 
 Die Akkreditierung als fachliche Stelle erfolgt auf Antrag bei der
 Deutsche Akkreditierungsstelle GmbH. Als fachliche Stelle ist zu
@@ -838,6 +874,7 @@ akkreditieren, wer nachweist, dass
 
 
 ### § 29 Zulassung der Ausbildungsstätte, fachlich verantwortliche Person
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003100000)
 
 (1) Die Zulassung als Ausbildungsstätte nach § 12i Absatz 1 Satz 1 des
 Behindertengleichstellungsgesetzes ist bei der fachlichen Stelle zu
@@ -854,6 +891,7 @@ fachlich verantwortlich sein.
 
 
 ### § 30 Akkreditierung von Prüfern, Einbeziehung von Fachprüfern
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003200000)
 
 (1) Die Zulassung als Prüfer erfolgt auf Antrag bei der Deutsche
 Akkreditierungsstelle GmbH, wenn die Anforderungen des § 12j Absatz 2
@@ -869,12 +907,14 @@ Anlage 8 erfüllen.
 
 
 ### § 31 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003300000)
 
 Diese Verordnung tritt am 1. März 2023 in Kraft.
 
 (zu § 5 Absatz 2 Satz 1 und § 5 Absatz 4 Satz 3)
 
 ### Anlage 1 Befunderhebungsbogen für die Beurteilung der gesundheitlichen Eignung von Hunden zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003400000)
 
 (Fundstelle: BGBl. I 2022, 2444 - 2450)
 
@@ -1549,6 +1589,7 @@ Diese Verordnung tritt am 1. März 2023 in Kraft.
 
 
 ### Anlage 2 (zu § 5 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003500000)
 
 (Fundstelle: BGBl. I 2022, 2451)
 
@@ -1595,6 +1636,7 @@ Diese Verordnung tritt am 1. März 2023 in Kraft.
 
 
 ### Anlage 3 (zu § 5 Absatz 4 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003600000)
 
 (Fundstelle: BGBl. I 2022, 2452)
 
@@ -1642,6 +1684,7 @@ Angaben enthalten:
 
 
 ### Anlage 4 (zu § 8 Absatz 3 und § 21 Absatz 1 Nummer 5)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003700000)
 
 (Fundstelle: BGBl. I 2022, 2453 - 2461)
 
@@ -2675,6 +2718,7 @@ Angaben enthalten:
 
 
 ### Anlage 5 (zu § 12 Absatz 3 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003800000)
 
 (Fundstelle: BGBl. I 2022, 2462)
 
@@ -2721,6 +2765,7 @@ Die Dokumentation der Ausbildung muss die folgenden Angaben enthalten:
 
 
 ### Anlage 6 (zu § 16 Absatz 1 Satz 3, § 21 Absatz 1 Nummer 5)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE003900000)
 
 (Fundstelle: BGBl. I 2022, 2463 - 2467)
 
@@ -3283,6 +3328,7 @@ Die Dokumentation der Ausbildung muss die folgenden Angaben enthalten:
 
 
 ### Anlage 7 (zu § 29 Absatz 1 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE004000000)
 
 (Fundstelle: BGBl. I 2022, 2468 - 2471)
 
@@ -3759,6 +3805,7 @@ jeweiligen Assistenzhundeart**
 
 
 ### Anlage 8 (zu § 30 Absatz 1 Satz 1 und § 30 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE004100000)
 
 (Fundstelle: BGBl. I 2022, 2472 - 2473)
 
@@ -3943,6 +3990,7 @@ jeweiligen Assistenzhundeart**
 Satz 2,
 
 ### Anlage 9 § 23 Satz 1, § 23 Satz 2 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE004200000)
 
 (Fundstelle: BGBl. I 2022, 2474)
 
@@ -3999,6 +4047,7 @@ enthalten:
 (zu § 26 Absatz 1 und 3)
 
 ### Anlage 10 Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ahundv/BJNR243600022.html#BJNR243600022BJNE004300000)
 
 (Fundstelle: BGBl. I 2022, 2475)
 

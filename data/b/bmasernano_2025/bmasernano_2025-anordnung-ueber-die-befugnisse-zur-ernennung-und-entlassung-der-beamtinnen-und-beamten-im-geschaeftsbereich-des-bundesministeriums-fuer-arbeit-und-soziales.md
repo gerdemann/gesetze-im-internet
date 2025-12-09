@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt AnO 2030-11-48-19 v. 2.1.2023 I Nr. 12 (BMASErnAnO 2023)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmasernano_2025/BJNR0050A0025.html#BJNR0050A0025BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales erlässt
 
@@ -72,6 +73,7 @@ die folgende Anordnung:
 
 
 ## § 1 Unmittelbare Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bmasernano_2025/BJNR0050A0025.html#BJNR0050A0025BJNE000200000)
 
 Es wird übertragen
 
@@ -90,6 +92,7 @@ Besoldungsgruppen bis A 15.
 
 
 ## § 2 Bundesgerichte
+[Direktlink](https://www.gesetze-im-internet.de/bmasernano_2025/BJNR0050A0025.html#BJNR0050A0025BJNE000300000)
 
 Es wird übertragen
 
@@ -106,6 +109,7 @@ Besoldungsgruppen bis A 15.
 
 
 ## § 3 Mittelbare Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bmasernano_2025/BJNR0050A0025.html#BJNR0050A0025BJNE000400000)
 
 (1) Dem Vorstand der Deutschen Rentenversicherung Bund und dem
 Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See wird
@@ -148,6 +152,7 @@ Geschäftsführer bzw. die jeweilige Geschäftsführung übertragen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmasernano_2025/BJNR0050A0025.html#BJNR0050A0025BJNE000500000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 Gleichzeitig tritt die Anordnung über die Befugnisse zur Ernennung und

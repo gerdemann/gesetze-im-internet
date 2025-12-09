@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000100307)
 
 Auf Grund des § 178 Abs. 2 des Sechsten Buches Sozialgesetzbuch
 (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261), der
@@ -29,6 +30,7 @@ Bundesminister für Arbeit und Sozialordnung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000201308)
 
 Diese Verordnung gilt für die Zahlung von Beiträgen, die nicht nach
 den Vorschriften über den Gesamtsozialversicherungsbeitrag von den
@@ -57,6 +59,7 @@ gilt nicht für die Zahlung von Beiträgen
 
 
 ## § 2 Zahlungsweise, Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000300307)
 
 Beitragszahlungen sind unmittelbar an den zuständigen Träger der
 Rentenversicherung zu leisten. Die Betragszahlungen können durch
@@ -78,6 +81,7 @@ erfolgen.
 
 
 ## § 3 Abbuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000400307)
 
 Die Träger der Rentenversicherung sollen die Beiträge vom Konto der
 Versicherten bei einem inländischen Kreditinstitut oder Postgiroamt
@@ -94,6 +98,7 @@ zum Abbuchungsverfahren jederzeit widerrufen.
 
 
 ## § 4 Überweisung oder Einzahlung
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000500307)
 
 Versicherte, die nicht am Abbuchungsverfahren teilnehmen, können die
 Beiträge auf ein Konto des Trägers der Rentenversicherung bei einem
@@ -109,6 +114,7 @@ zu enthalten.
 
 
 ## § 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000601119)
 
 (1) Die Träger der Rentenversicherung haben für das
 Beitragszahlverfahren Anmeldevordrucke zur Verfügung zu stellen. Die
@@ -142,6 +148,7 @@ verwenden, ist die Angabe des Verwendungszeitraums nicht erforderlich.
 
 
 ## § 6 Tag der Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000700307)
 
 Als Tag der Beitragszahlung gilt:
 
@@ -172,6 +179,7 @@ der einzelne Beitrag verwendet werden soll.
 
 
 ## § 7 Reihenfolge der Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000801119)
 
 Schuldet der Versicherte Auslagen des Trägers der Rentenversicherung,
 Gebühren, insbesondere Mahn- und Vollstreckungsgebühren sowie wie
@@ -185,6 +193,7 @@ Fälligkeit anteilmäßig getilgt.
 
 
 ## § 8 Verwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE000900307)
 
 (1) Die Beiträge sind für den vom Versicherten bestimmten
 Verwendungszeitraum zu buchen, sofern gesetzliche Vorschriften dem
@@ -198,6 +207,7 @@ unverzüglich schriftlich mitzuteilen.
 
 
 ## § 9 Beitragsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE001000307)
 
 (1) Den Versicherten ist spätestens bis zum 28. Februar eines jeden
 Jahres eine Beitragsbescheinigung über die für das vergangene
@@ -236,6 +246,7 @@ bescheinigt worden sind.
 
 
 ## § 10 Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE001100307)
 
 Für ausgegebene Beitragsmarken der Träger der Rentenversicherung gilt
 § 11 Abs. 2 und 3 der RV-Beitragsentrichtungsverordnung vom 21. Juni
@@ -244,6 +255,7 @@ Juli 1986 (BGBl. I S. 1060) geändert worden ist, weiter.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE001200307)
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 Gleichzeitig tritt vorbehaltlich des § 10 die RV-
@@ -251,6 +263,7 @@ Beitragsentrichtungsverordnung außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rv-bzv/BJNR020570991.html#BJNR020570991BJNE001300307)
 
 Der Bundesrat hat zugestimmt.
 

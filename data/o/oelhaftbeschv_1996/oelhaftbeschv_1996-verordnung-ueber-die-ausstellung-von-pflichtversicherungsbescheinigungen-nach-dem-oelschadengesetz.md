@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000102116)
 
 (1) Im Sinne dieser Verordnung ist
 
@@ -45,6 +46,7 @@ Haftung für Bunkerölverschmutzungsschäden (BGBl. 2006 II S. 578)
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000201116)
 
 Für die Ausstellung und Einziehung der Öl-
 Pflichtversicherungsbescheinigungen ist das Bundesamt für
@@ -52,6 +54,7 @@ Seeschiffahrt und Hydrographie zuständig.
 
 
 ## § 3 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000303116)
 
 (1) Die Ausstellung einer Öl-Pflichtversicherungsbescheinigung setzt
 einen schriftlichen oder elektronischen Antrag des Eigentümers voraus.
@@ -135,6 +138,7 @@ deutsche Sprache beizufügen.
 
 
 ## § 4 Ausstellung
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000402116)
 
 (1) Sind die Voraussetzungen des § 2 Absatz 2 des Ölschadengesetzes
 und des § 3 erfüllt, wird eine Öl-Pflichtversicherungsbescheinigung in
@@ -167,10 +171,12 @@ gewordene Öl-Pflichtversicherungsbescheinigung ist zurückzugeben.
 
 
 ## § 4a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE001001116)
 
 
 
 ## § 5 Pflichten des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000503116)
 
 Der Eigentümer ist verpflichtet, eine vorzeitige Beendigung der
 Sicherheit sowie eine Änderung, die dazu führt, dass die Sicherheit
@@ -180,6 +186,7 @@ mitzuteilen.
 
 
 ## § 6 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000601116)
 
 Das Bundesamt für Seeschiffahrt und Hydrographie kann eine Öl-
 Pflichtversicherungsbescheinigung einziehen, wenn
@@ -196,6 +203,7 @@ Pflichtversicherungsbescheinigung einziehen, wenn
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000703116)
 
 Ordnungswidrig im Sinne des § 9 Absatz 1 Nummer 1 des
 Ölschadengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -204,6 +212,7 @@ rechtzeitig macht.
 
 
 ## Anlage 1 (zu § 4 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000800310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 709 - 710)
 
@@ -331,6 +340,7 @@ official)
 
 
 ## Anlage 2 (zu § 4 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/_lhaftbeschv_1996/BJNR070710996.html#BJNR070710996BJNE000901310)
 
 ( Fundstelle des Originaltextes: BGBl. I 2006, S. 1463 u. 1464 )
 

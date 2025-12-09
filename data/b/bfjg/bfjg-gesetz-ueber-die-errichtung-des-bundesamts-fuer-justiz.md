@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung, Zweck und Sitz des Bundesamts
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000103130)
 
 (1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als
 Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz und
@@ -35,6 +36,7 @@ zentralen Dienstleistungsbehörde.
 
 
 ## § 2 Aufgaben des Bundesamts
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000205130)
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des
 Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und
@@ -99,6 +101,7 @@ Bestimmungen enthalten.
 
 
 ## § 3 Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000303130)
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als
 dem des Bundesministerium der Justiz und für Verbraucherschutz
@@ -107,6 +110,7 @@ Bundesbehörde.
 
 
 ## § 4 Elektronische Aktenführung; Gewährung von Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000402116)
 
 (1) Das Bundesamt kann Akten ganz oder teilweise elektronisch führen.
 
@@ -134,6 +138,7 @@ Akteneinsicht in elektronisch geführte Akten dadurch gewähren, dass es
 
 
 ## § 5 Digitalisierung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000500116)
 
 (1) Werden Akten ganz oder teilweise elektronisch geführt, so soll das
 Bundesamt die elektronische Wiedergabe der Papierdokumente zum
@@ -153,6 +158,7 @@ des Übertragungsvorgangs nicht mehr erforderlich ist.
 
 
 ## § 6 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000601116)
 
 (1) Beim Bundesamt können elektronische Dokumente eingereicht werden,
 wenn diese für die Bearbeitung im Bundesamt geeignet sind. Ist ein
@@ -205,6 +211,7 @@ empfangende Stelle hierfür einen Zugang eröffnet hat.
 
 
 ## § 7 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bfjg/BJNR317110006.html#BJNR317110006BJNE000702130)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz kann,
 um die elektronische Aktenführung und die Digitalisierung von

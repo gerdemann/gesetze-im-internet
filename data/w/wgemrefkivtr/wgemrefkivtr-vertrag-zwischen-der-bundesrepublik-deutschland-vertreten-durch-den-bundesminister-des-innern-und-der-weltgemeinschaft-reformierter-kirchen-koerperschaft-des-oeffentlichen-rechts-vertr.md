@@ -20,6 +20,7 @@ Fundstelle
 Stand: Inkraft gem. Art. 2 Abs. 2 G v. 10.12.2014 I 2078 iVm Bek. v. 22.12. 2014 I 2435 mWv 19.12.2014
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wgemrefkivtr/BJNR207900014.html#BJNR207900014BJNE000100000)
 
 (Fundstelle: BGBl. I 2014, 2079 - 2081)
 

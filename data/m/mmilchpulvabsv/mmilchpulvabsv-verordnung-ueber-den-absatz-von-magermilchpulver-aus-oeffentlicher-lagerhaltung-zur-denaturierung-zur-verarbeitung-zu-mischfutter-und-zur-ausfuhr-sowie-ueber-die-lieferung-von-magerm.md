@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000100326)
 
 Auf Grund des § 3 Abs. 3 Satz 1 des Gesetzes zur Durchführung der
 gemeinsamen Marktorganisationen vom 31. August 1972 (BGBl. I S. 1617),
@@ -37,6 +38,7 @@ Wirtschaft verordnet:
 
 
 ## § 1 Begriffsbestimmung, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000202377)
 
 (1) Verarbeitung im Sinne dieser Verordnung ist
 
@@ -83,6 +85,7 @@ worden ist.
 
 
 ## § 2 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000301308)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1 Abs. 2
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -115,6 +118,7 @@ jedoch
 
 
 ## § 3 Zulassung der Herstellungs- und der Verarbeitungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000403377)
 
 (1) Zulassungen nach den in § 1 Abs. 2 genannten Rechtsakten werden
 auf Antrag durch einen Erlaubnisschein erteilt. Eine Zulassung darf
@@ -183,6 +187,7 @@ Bescheid fest.
 
 
 ## § 4 Kautionen
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000503377)
 
 (1) (weggefallen)
 
@@ -207,11 +212,13 @@ Die Bundesanstalt setzt den zu zahlenden Betrag durch Bescheid fest.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000600326)
 
 -
 
 
 ## § 6 Verarbeitung des von der Bundesanstalt verkauften Magermilchpulvers
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000701308)
 
 (1) Soll von der Bundesanstalt verkauftes Magermilchpulver im
 Geltungsbereich dieser Verordnung verarbeitet werden, so hat der
@@ -233,6 +240,7 @@ anzuzeigen.
 
 
 ## § 7 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000801308)
 
 (1) Wer
 
@@ -307,11 +315,13 @@ nach anderen Vorschriften bleiben unberührt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE000900326)
 
 -
 
 
 ## § 9 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001000326)
 
 Zum Zwecke der Überwachung hat der Beteiligte den zuständigen Stellen
 das Betreten der Geschäftsräume und Betriebstätten und die Aufnahme
@@ -327,6 +337,7 @@ verlangen.
 
 
 ## § 10 Verpflichtete Personen
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001100326)
 
 Der Beteiligte hat die Verpflichtungen, die ihm gegenüber der
 zuständigen Stelle obliegen, selbst zu erfüllen oder hierfür einen
@@ -337,6 +348,7 @@ unterzeichnen.
 
 
 ## § 11 Verarbeitung von Magermilchpulver aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001201308)
 
 Magermilchpulver, das von Interventionsstellen anderer Mitgliedstaaten
 verkauft und in den Geltungsbereich dieser Verordnung verbracht worden
@@ -357,6 +369,7 @@ finden die §§ 6 bis 10 und 13 dieser Verordnung sinngemäß Anwendung.
 
 
 ## § 12 Verarbeitung in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001300326)
 
 Soll Magermilchpulver aus Beständen der Bundesanstalt in einem anderen
 Mitgliedstaat verarbeitet oder mit Vitaminen angereichert werden,
@@ -374,6 +387,7 @@ Abs. 2 genannten Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
 
 
 ## § 13 Ausfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001401360)
 
 Sollen denaturiertes oder gefärbtes Magermilchpulver oder Mischfutter,
 die nach den Bestimmungen dieser Verordnung hergestellt worden sind,
@@ -410,11 +424,13 @@ vorgeschriebenen Eintragungen vorzulegen, in dem anzugeben ist
 
 
 ## § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001501377)
 
 -
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001701308)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -422,6 +438,7 @@ vorgeschriebenen Eintragungen vorzulegen, in dem anzugeben ist
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/mmilchpulvabsv/BJNR007950981.html#BJNR007950981BJNE001800326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

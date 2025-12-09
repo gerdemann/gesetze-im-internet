@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE000900307)
 
 Zur Gewährleistung der öffentlichen Sicherheit an Halden und
 Restlöchern wird im Einvernehmen mit den Leitern der zuständigen
@@ -26,10 +27,12 @@ folgendes angeordnet:
 
 
 ## - - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001000307)
 
 (1) Diese Anordnung regelt die Aufgaben, Rechte und Pflichten der
 Betriebe und Organe sowie die Aufgaben und Befugnisse der zuständigen
@@ -101,6 +104,7 @@ Absetzanlagen (GBl. II Nr. 47 S. 297).
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001100307)
 
 Betriebe und Organe im Sinne dieser Anordnung sind:
 
@@ -129,15 +133,18 @@ c)  gemäß § 25 Abs. 3 dieser Anordnung Verpflichtete für Halden und
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001200307)
 
 Es gelten die Begriffsbestimmungen gemäß Anlage 1.
 
 
 ## - - Grundforderungen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000200307)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001300307)
 
 (1) Halden und Restlöcher sind so zu gestalten und in einem solchen
 Zustand zu erhalten, daß
@@ -192,6 +199,7 @@ bei der Verwendung darin abgelagerter Materialien (GBl. I Nr. 34 S.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001400307)
 
 (1) Für die territoriale Eingliederung, die Wiedernutzbarmachung der
 Bodenflächen, vorrangig für die land- und forstwirtschaftliche
@@ -221,10 +229,12 @@ Maßnahmen zur Gewährleistung der öffentlichen Sicherheit.
 
 
 ## - - Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000300307)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001500307)
 
 (1) Der Betriebsleiter bzw. der Leiter des Organs hat Halden und
 Restlöcher dem Rat der zuständigen Gemeinde oder der Stadt bzw. des
@@ -238,6 +248,7 @@ c) in einer Lageskizze dargestellt werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001600307)
 
 (1) Der Betriebsleiter bzw. der Leiter des Organs hat der Bergbehörde
 Arbeiten oder Maßnahmen an
@@ -313,6 +324,7 @@ zur Strahlenschutzverordnung (GBl. II Nr. 99 S. 635).
 
 
 ### § 8 Haldenauflageflächen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001700307)
 
 (1) Vor dem Anlegen von Halden ist im Rahmen der Standortfestlegung zu
 entscheiden, in welchem Umfang, in welcher Art bzw. ob Vorkehrungen zu
@@ -348,10 +360,12 @@ land- und forstwirtschaftlicher Nutzfläche auszugehen.
 
 
 ## - - Gestaltung von Böschungen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000400307)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001800307)
 
 (1) Die Höhe bleibender Einzelböschungen geplanter und betriebener
 Halden darf nicht größer als 10 m sein.
@@ -410,6 +424,7 @@ und erforderlichenfalls für ein Befahren mit Fahrzeugen geeignet sind.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE001900307)
 
 (1) Geplante bleibende Einzelböschungen und Böschungssysteme von
 Halden und Restlöchern sind auf der Grundlage von
@@ -474,6 +489,7 @@ Bergbau über Tage - (Sonderdruck Nr. 768 des Gesetzblattes) i.d.F. der
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002000307)
 
 Sind zur Folgenutzung aus volkswirtschaftlichen und territorialen
 Erfordernissen Maßnahmen hinsichtlich der Gestaltung von Böschungen
@@ -489,6 +505,7 @@ Folgenutzer trägt die Kosten dieser zusätzlichen Maßnahmen.
 
 
 ### § 12 Sicherheitsabstand
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002100307)
 
 (1) Der Sicherheitsabstand (S)
 
@@ -541,6 +558,7 @@ Arbeitsstätten, nicht berührt.
 
 
 ### § 13 Wasserableitung, Erosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002200307)
 
 (1) Schädigende Wasseransammlungen auf Halden und Bermen, z.B. von der
 Schneeschmelze, von Starkregen, aus technischen Einrichtungen, sowie
@@ -562,6 +580,7 @@ vermeiden.
 
 
 ### § 14 Absperrungen und Verbotsschilder
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002300307)
 
 (1) Solange an oder auf Halden sowie an oder in Restlöchern Bereiche
 vorhanden sind, in denen eine Gefahr durch
@@ -635,10 +654,12 @@ Straßenverkehr (Straßenverkehrs-Ordnung - StVO -) (GBl. I Nr. 20 S.
 
 
 ## - - Technische Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000500307)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002400307)
 
 (1) Für Halden und Restlöcher ist eine technische Dokumentation
 anzufertigen.
@@ -704,6 +725,7 @@ l)  zeichnerische Unterlagen gemäß § 16 für
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002500307)
 
 (1) Die zeichnerischen Unterlagen, wie Lagepläne, Risse, sind wie
 folgt anzufertigen:
@@ -761,10 +783,12 @@ befinden.
 
 
 ## - - Kontroll- und Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000600307)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002600307)
 
 Für betriebene Nichtbergbauhalden hat der Betriebsleiter bzw. der
 Leiter des Organs eine Regelung festzulegen und zu aktualisieren, die
@@ -773,6 +797,7 @@ enthalten hat.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002700307)
 
 (1) Bleibende Einzelböschungen und Böschungssysteme von Halden und
 Restlöchern sind mindestens jährlich zu kontrollieren.
@@ -817,6 +842,7 @@ des Datums und ihrer Namen Nachweis zu führen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002800307)
 
 Bei Anzeichen von Rutschungen in der Nähe von zu schützenden Objekten
 sind die Böschungen bzw. Böschungssysteme einschließlich der
@@ -825,6 +851,7 @@ spezielle Überwachungsmaßnahmen zu kontrollieren.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE002900307)
 
 (1) Werden bei Kontrollen gemäß den §§ 18 und 19 Anzeichen
 festgestellt, die eine Verminderung der Standsicherheit der Böschungen
@@ -843,10 +870,12 @@ verlängert werden.
 
 
 ## - - Maßnahmen bei Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000700307)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003000307)
 
 (1) Werden an Halden und Restlöchern Anzeichen erkannt, die auf eine
 von diesen für die öffentliche Sicherheit oder die Volkswirtschaft
@@ -866,6 +895,7 @@ Strahlenschutz abzustimmen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003100307)
 
 (1) Der Betriebsleiter bzw. der Leiter des Organs hat Rutschungen an
 Halden und Restlöchern mit Auswirkungen auf die öffentliche Sicherheit
@@ -906,6 +936,7 @@ Abs. 2 das zuständige Organ gemäß § 21 Abs. 2 zu unterrichten.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003200307)
 
 (1) Für Althalden und -restlöcher, von denen eine Gefahr für die
 öffentliche Sicherheit und die Volkswirtschaft ausgehen kann, plant
@@ -931,6 +962,7 @@ Einrichtungen mit der Durchführung der Sicherungsmaßnahmen.
 
 
 ### § 24 Wechsel des Rechtsträgers, Nutzers oder Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003300307)
 
 (1) Halden und Restlöcher sind bei Wechsel des Rechtsträgers, Nutzers
 oder Eigentümers in einem den Bestimmungen dieser Anordnung
@@ -955,6 +987,7 @@ die Verantwortung trägt.
 
 
 ### § 25 Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003400307)
 
 (1) Nutzen mehrere Betriebe und Organe gleichzeitig Halden oder
 Restlöcher, ist die Abgrenzung der Verantwortung zwischen den
@@ -975,6 +1008,7 @@ zur Übertragung und Übernahme der Verantwortung ab.
 
 
 ### § 26 Ersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003500307)
 
 Die Ersatzpflicht für Schäden, die durch Halden oder Restlöcher
 verursacht werden, regelt sich nach wirtschaftsrechtlichen bzw.
@@ -988,6 +1022,7 @@ unberührt.
 
 
 ### § 27 Staatliche Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003600307)
 
 (1) Die Oberste Bergbehörde und die Bergbehörden sowie die zuständigen
 örtlichen Staatsorgane sind berechtigt, im Rahmen ihrer sich aus
@@ -1030,6 +1065,7 @@ ausdrücklich wegen einer bestehenden Gefährdung ausgeschlossen wurde.
 
 
 ### § 28 Ordnungsstrafbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003700307)
 
 (1) Wer als Betriebsleiter bzw. Leiter eines Organs oder zuständiger
 leitender Mitarbeiter vorsätzlich oder fahrlässig
@@ -1116,10 +1152,12 @@ Bekämpfung von Ordnungswidrigkeiten - OWG - (GBl. I Nr. 3 S. 101).
 
 
 ## - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNG000800307)
 
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003800307)
 
 (1) Auf Antrag des Betriebsleiters bzw. des Leiters des Organs ist
 
@@ -1149,6 +1187,7 @@ sind, in Kraft.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE003900307)
 
 (1) Die Anzeigen gemäß § 6 sind bis 31. Juli 1981 beim Rat der
 Gemeinde oder der Stadt bzw. des Stadtbezirkes zu erstatten. Geplante
@@ -1180,6 +1219,7 @@ bezirklichen Planungskataster regelt der Rat des Bezirkes.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE004000307)
 
 (1) Diese Anordnung tritt am 1. Februar 1981 in Kraft.
 
@@ -1200,6 +1240,7 @@ b)  § 21 der Anordnung vom 24. April 1974 über die Rechte, Pflichten und
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE004100307)
 
 **Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen
 Demokratischen Republik**
@@ -1207,6 +1248,7 @@ Demokratischen Republik**
 zu § 3 vorstehender Anordnung
 
 ### Anlage 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE004200307)
 
 Im Sinne dieser Anordnung gelten folgende Begriffsbestimmungen:
 
@@ -1446,6 +1488,7 @@ Im Sinne dieser Anordnung gelten folgende Begriffsbestimmungen:
 zu § 12 Abs. 3 vorstehender Anordnung
 
 ### Anlage 2 Richtwerte für den Sicherheitsabstand (S)
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE004300307)
 
 
 a)  Von der Haldenunterkante ergibt sich der Sicherheitsabstand in
@@ -1512,6 +1555,7 @@ d)  Von der Oberkante von Restlöchern im Festgestein beträgt der
 zu § 16 Abs. 1 Buchst. c vorstehender Anordnung
 
 ### Anlage 3 Grundsätze für zeichnerische Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE004400307)
 
 
 1.  In der rechten unteren Blattecke der zeichnerischen Unterlagen sind
@@ -1636,6 +1680,7 @@ zu § 16 Abs. 1 Buchst. c vorstehender Anordnung
 zu § 14 Abs. 3 vorstehender Anordnung
 
 ### Anlage 4 Verbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE004500307)
 
 (Fundstelle: GBl. DDR I 1982, 363)
 
@@ -1704,6 +1749,7 @@ zu § 14 Abs. 3 vorstehender Anordnung
 Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 885, 1202)
+[Direktlink](https://www.gesetze-im-internet.de/halderlano/DDNR003010980.html#DDNR003010980BJNE888800301)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

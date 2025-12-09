@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000100000)
 
 Auf Grund des § 191a Abs. 2 des Gerichtsverfassungsgesetzes in der
 Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077), der
@@ -35,6 +36,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000200000)
 
 (1) Diese Verordnung regelt die Anforderungen und das Verfahren für
 die Zugänglichmachung von Dokumenten im gerichtlichen Verfahren an
@@ -55,6 +57,7 @@ Vollstreckungsbehörde.
 
 
 ## § 2 Gegenstand der Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000301311)
 
 (1) Der Anspruch auf Zugänglichmachung nach § 191a Absatz 1 Satz 2 und
 Abs. 2 des Gerichtsverfassungsgesetzes, auch in Verbindung mit § 46
@@ -74,6 +77,7 @@ unberührt.
 
 
 ## § 3 Formen der Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000401311)
 
 (1) Die Dokumente können der berechtigten Person schriftlich,
 elektronisch, akustisch, mündlich, fernmündlich oder in anderer
@@ -93,6 +97,7 @@ Dokument ist gegen unbefugte Kenntnisnahme zu schützen.
 
 
 ## § 4 Umfang des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000500000)
 
 (1) Der Anspruch auf Zugänglichmachung besteht, soweit der
 berechtigten Person dadurch der Zugang zu den ihr zugestellten oder
@@ -109,6 +114,7 @@ weiteren Verfahren von Amts wegen zu berücksichtigen.
 
 
 ## § 5 Mitwirkung der berechtigten Person
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000600000)
 
 Die berechtigte Person ist verpflichtet, bei der Wahrnehmung ihres
 Anspruchs auf Zugänglichmachung im Rahmen ihrer individuellen
@@ -119,6 +125,7 @@ welcher Form ihr die Dokumente zugänglich gemacht werden können.
 
 
 ## § 6 Ausführung der Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000700000)
 
 Die berechtigte Person hat ein Wahlrecht zwischen den in § 3 genannten
 Formen der Zugänglichmachung. Die nach § 1 Abs. 3 verpflichtete Stelle
@@ -127,6 +134,7 @@ Form auszuführen.
 
 
 ## § 7 Zeitpunkt der Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000800000)
 
 Die Zugänglichmachung soll im zeitlichen Zusammenhang mit der
 Zustellung oder formlosen Mitteilung der für die berechtigte Person
@@ -137,6 +145,7 @@ hinnehmbar.
 
 
 ## § 8 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE000900000)
 
 Die nach § 1 Abs. 3 verpflichtete Stelle kann die Übertragung der
 Dokumente in eine Form, die die berechtigte Person wahrnehmen kann,
@@ -145,12 +154,14 @@ Stelle übertragen.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE001000000)
 
 Die Verordnung tritt am ersten Tag des dritten auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zmv/BJNR021500007.html#BJNR021500007BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

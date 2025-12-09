@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 und des § 51a Absatz 2 der
 Handwerksordnung, die zuletzt durch Artikel 3 des Gesetzes vom 11.
@@ -30,6 +31,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000200000)
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen.
 Diese Verordnung regelt die betriebswirtschaftliche, kaufmännische und
@@ -39,6 +41,7 @@ Handwerk und in handwerksähnlichen Gewerben.
 
 
 ## § 2 Ziel, Gliederung und Inhalt des Teils III
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000300000)
 
 (1) Durch die Prüfung in Teil III hat der Prüfling in den in Absatz 2
 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
@@ -212,6 +215,7 @@ mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
 
 
 ## § 3 Prüfungsdauer und Bestehen des Teils III
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000400000)
 
 (1) Die Prüfung in Teil III ist schriftlich durchzuführen und dauert
 in jedem Handlungsfeld zwei Stunden.
@@ -241,6 +245,7 @@ Prüfung des Teils III ist nicht bestanden, wenn
 
 
 ## § 4 Ziel, Gliederung und Inhalt des Teils IV
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000500000)
 
 (1) Durch die Prüfung in Teil IV hat der Prüfling seine berufs- und
 arbeitspädagogischen Kenntnisse nachzuweisen und dass er die zur
@@ -441,6 +446,7 @@ Gestaltung der Ausbildungssituation sind im Fachgespräch zu erläutern.
 
 
 ## § 5 Prüfungsdauer und Bestehen des Teils IV
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000600000)
 
 (1) Der schriftliche Teil der Prüfung dauert drei Stunden. Der
 praktische Teil der Prüfung soll insgesamt höchstens 30 Minuten
@@ -464,6 +470,7 @@ mit jeweils mindestens 50 Punkten.
 
 
 ## § 6 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000701128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -476,6 +483,7 @@ Vorschriften.
 
 
 ## § 7 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000800000)
 
 (1) Die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren werden
 nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die
@@ -490,6 +498,7 @@ geltenden Vorschriften ablegen.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amstprv/BJNR214900011.html#BJNR214900011BJNE000900000)
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über gemeinsame Anforderungen in der Meisterprüfung im

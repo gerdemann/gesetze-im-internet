@@ -21,12 +21,15 @@ Zuletzt geändert durch
 Stand: Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000100000)
 
 
 ### Unterabschnitt 1 - Begriffsbestimmungen, Anwendungsbereich, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000200000)
 
 
 #### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000203128)
 
 (1) Zahlungsdienstleister sind
 
@@ -454,6 +457,7 @@ des Zahlers zur Verfügung zu stellen.
 
 
 #### § 1a Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007000311)
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft
 gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
@@ -477,6 +481,7 @@ fällt.
 
 
 #### § 2 Ausnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000305119)
 
 (1) Als Zahlungsdienste gelten nicht
 
@@ -713,6 +718,7 @@ Regelung enthält.
 
 
 #### § 3 Für Institute zugelassene Tätigkeiten und verbotene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000402128)
 
 (1) Ein Institut darf außerhalb der Vorgaben der Absätze 2 und 3 und
 seiner Erlaubnis nach § 10 Absatz 1 Satz 1 oder § 11 Absatz 1 Satz 1
@@ -786,6 +792,7 @@ Kreditwesengesetzes verfügen.
 
 
 #### § 4 Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000501128)
 
 (1) Die Bundesanstalt übt die Aufsicht über die Zahlungsdienstleister
 und E-Geld-Emittenten nach den Vorschriften dieses Gesetzes aus.
@@ -829,6 +836,7 @@ den Artikeln 26 und 27 der Verordnung (EU) 2022/2554 wahr. § 7 Absatz
 
 
 #### § 4a Elektronische Bekanntgabe oder Zustellung von Verwaltungsakten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007100128)
 
 (1) Verwaltungsakte, die aufgrund dieses Gesetzes erlassen werden,
 dürfen nach § 4f des Finanzdienstleistungsaufsichtsgesetzes
@@ -853,6 +861,7 @@ Einvernehmen mit der Deutschen Bundesbank ergeht.
 
 
 #### § 4b Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007300128)
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU)
 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
@@ -893,6 +902,7 @@ Bundesbank übertragen.
 
 
 #### § 5 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000600000)
 
 Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der
 Aufsicht über Institute, Zahlungsdienstleister und E-Geld-Emittenten,
@@ -905,6 +915,7 @@ Kreditwesengesetzes gelten entsprechend.
 
 
 #### § 6 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000702311)
 
 Die Bediensteten der Bundesanstalt und der Deutschen Bundesbank, die
 nach diesem Gesetz bestellten Abwickler, die nach § 20 Absatz 2 in
@@ -925,9 +936,11 @@ Kreditwesengesetzes gilt entsprechend.
 
 
 ### Unterabschnitt 2 - Durchsetzung des Erlaubnisvorbehalts
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000300000)
 
 
 #### § 7 Einschreiten gegen unerlaubte Zahlungsdienste und E-Geld-Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000800000)
 
 (1) Werden ohne die nach § 10 Absatz 1 erforderliche Erlaubnis oder
 die nach § 34 Absatz 1 erforderliche Registrierung Zahlungsdienste
@@ -974,6 +987,7 @@ Unabhängigkeit des Abwicklers zu besorgen ist.
 
 
 #### § 8 Verfolgung unerlaubter Zahlungsdienste und E-Geld-Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE000901119)
 
 (1) Steht es fest oder rechtfertigen Tatsachen die Annahme, dass ein
 Unternehmen unerlaubt Zahlungsdienste erbringt oder unerlaubt das
@@ -1068,9 +1082,11 @@ betreffende Information zuvor bekannt gegeben hat.
 
 
 ### Unterabschnitt 3 - Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000400000)
 
 
 #### § 9 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001005119)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt,
 einschließlich der Androhung und Festsetzung von Zwangsmitteln, auf
@@ -1086,12 +1102,15 @@ aufschiebende Wirkung.
 
 
 ## Abschnitt 2 - Erlaubnis; Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000500000)
 
 
 ### Unterabschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000600000)
 
 
 #### § 10 Erlaubnis für das Erbringen von Zahlungsdiensten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001103128)
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert,
@@ -1298,6 +1317,7 @@ betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
 
 #### § 11 Erlaubnis für das Betreiben von E-Geld-Geschäften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001205119)
 
 (1) Wer im Inland das E-Geld-Geschäft betreiben will, ohne E-Geld-
 Emittent im Sinne des § 1 Absatz 2 Satz 1 Nummer 2 bis 4 zu sein,
@@ -1419,6 +1439,7 @@ betreibt, ihren juristischen Sitz vom Ausland ins Inland verlegt.
 
 
 #### § 12 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001301128)
 
 Die Erlaubnis zur Erbringung von Zahlungsdiensten oder zum Betreiben
 des E-Geld-Geschäfts ist zu versagen, wenn
@@ -1538,6 +1559,7 @@ des E-Geld-Geschäfts ist zu versagen, wenn
 
 
 #### § 13 Erlöschen und Aufhebung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001402128)
 
 (1) Die Erlaubnis eines Instituts erlischt, wenn das Institut von ihr
 nicht innerhalb eines Jahres seit ihrer Erteilung Gebrauch macht oder
@@ -1588,9 +1610,11 @@ oder § 44 bekannt.
 
 
 ### Unterabschnitt 2 - Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000700000)
 
 
 #### § 14 Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001503119)
 
 (1) Der Inhaber einer bedeutenden Beteiligung an einem Institut muss
 den Ansprüchen genügen, die im Interesse einer soliden und umsichtigen
@@ -1617,9 +1641,11 @@ Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
 
 ## Abschnitt 3 - Eigenmittel, Absicherung im Haftungsfall
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000800000)
 
 
 ### § 15 Eigenmittel; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001602128)
 
 (1) Institute müssen im Interesse der Erfüllung ihrer Verpflichtungen
 über angemessene Eigenmittel verfügen; die Eigenmittel des Instituts
@@ -1707,6 +1733,7 @@ der Verordnung (EU) Nr. 575/2013 ist.
 
 
 ### § 16 Absicherung für den Haftungsfall für Zahlungsauslösedienste; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001700000)
 
 (1) Ein Institut, das Zahlungsauslösedienste erbringt, hat eine
 Berufshaftpflichtversicherung oder eine andere gleichwertige Garantie
@@ -1751,9 +1778,11 @@ anzuhören.
 
 
 ## Abschnitt 4 - Sicherungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG000900000)
 
 
 ### § 17 Sicherungsanforderungen für die Entgegennahme von Geldbeträgen im Rahmen der Erbringung von Zahlungsdiensten und des Betreibens des E-Geld-Geschäfts
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001801119)
 
 (1) Institute, die die Zahlungsdienste gemäß § 1 Absatz 1 Satz 2
 Nummer 1 bis 6 erbringen oder das E-Geld-Geschäft betreiben, haben die
@@ -1836,6 +1865,7 @@ Bundesanstalt Maßnahmen nach § 21 Absatz 2 treffen.
 
 
 ### § 18 Sicherungsanforderungen für die Entgegennahme von Geldbeträgen für die Ausgabe von E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE001900000)
 
 Sofern Geldbeträge zum Zweck der Ausgabe von
 E-Geld durch Zahlung mittels eines Zahlungsinstruments
@@ -1849,9 +1879,11 @@ E-Geldes zu sichern; die Vorgaben des § 17 gelten entsprechend.
 
 
 ## Abschnitt 5 - Vorschriften über die laufende Beaufsichtigung von Instituten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001000000)
 
 
 ### § 19 Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002001128)
 
 (1) Ein Institut, die Mitglieder seiner Organe sowie seine
 Beschäftigten und die für das Institut tätigen Agenten sowie E-Geld-
@@ -1900,6 +1932,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 20 Abberufung von Geschäftsleitern und Mitgliedern des Verwaltungs- und Aufsichtsorgans, Übertragung von Organbefugnissen auf Sonderbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002103119)
 
 (1) In den Fällen des § 13 Absatz 2 Nummer 3 bis 5 sowie des § 37
 Absatz 2 Nummer 3 kann die Bundesanstalt, statt die Erlaubnis oder die
@@ -1960,6 +1993,7 @@ Aufsichtsorgan bleiben unberührt.
 
 
 ### § 21 Maßnahmen in besonderen Fällen und Insolvenzantrag
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002201311)
 
 (1) Entsprechen die Eigenmittel eines Instituts nicht den
 Anforderungen dieses Gesetzes, kann die Bundesanstalt
@@ -2048,6 +2082,7 @@ sie beantragt oder ihr zugestimmt hat.
 
 
 ### § 22 Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002300000)
 
 (1) Ein Institut hat den Jahresabschluss in den ersten drei Monaten
 des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und
@@ -2071,6 +2106,7 @@ Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs.
 
 
 ### § 23 Anzeigepflicht bei Bestellung des Abschlussprüfers, Bestellung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002402123)
 
 (1) Das Institut hat einen Abschlussprüfer oder Konzernabschlussprüfer
 unverzüglich nach dessen Bestellung der Bundesanstalt und der
@@ -2112,6 +2148,7 @@ abberufen.
 
 
 ### § 24 Besondere Pflichten des Prüfers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002504119)
 
 (1) Als Teil der Prüfung des Jahresabschlusses sowie eines
 Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen
@@ -2217,6 +2254,7 @@ insbesondere Schwerpunkte für die Prüfungen festlegen.
 
 
 ### § 25 Inanspruchnahme von Agenten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002603128)
 
 (1) Beabsichtigt ein Institut, Zahlungsdienste über einen Agenten zu
 erbringen, hat es der Bundesanstalt und der Deutschen Bundesbank
@@ -2291,6 +2329,7 @@ Institute anzuhören.
 
 
 ### § 26 Auslagerung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002706128)
 
 (1) Ein Institut muss abhängig von Art, Umfang, Komplexität und
 Risikogehalt einer Auslagerung von Aktivitäten und Prozessen auf ein
@@ -2372,6 +2411,7 @@ elektronisch anzuzeigen.
 
 
 ### § 27 Organisationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002804119)
 
 (1) Ein Institut muss über eine ordnungsgemäße Geschäftsorganisation
 verfügen; die Geschäftsleiter sind für die ordnungsgemäße
@@ -2443,6 +2483,7 @@ Verordnungen nach Satz 1 zu verhindern oder zu unterbinden.
 
 
 ### § 28 Anzeigen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE002905128)
 
 (1) Ein Institut hat der Bundesanstalt und der Deutschen Bundesbank
 unverzüglich anzuzeigen:
@@ -2556,6 +2597,7 @@ Spitzenverbände der Institute anzuhören.
 
 
 ### § 29 Monatsausweise; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003001128)
 
 (1) Ein Institut hat unverzüglich nach Ablauf eines jeden Monats der
 Deutschen Bundesbank einen Monatsausweis einzureichen. Die Deutsche
@@ -2584,6 +2626,7 @@ Institute anzuhören.
 
 
 ### § 30 Aufbewahrung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003100000)
 
 Die Institute haben für aufsichtsrechtliche Zwecke alle Unterlagen
 unbeschadet anderer gesetzlicher Bestimmungen mindestens fünf Jahre
@@ -2593,15 +2636,18 @@ des Handelsgesetzbuchs bleibt unberührt.
 
 
 ## Abschnitt 6 - Sondervorschriften für das E-Geld-Geschäft und den Vertrieb und die Rücktauschbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001100000)
 
 
 ### § 31 Verbot der Ausgabe von E-Geld über andere Personen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003200000)
 
 E-Geld-Institute dürfen E-Geld nicht über natürliche oder juristische
 Personen ausgeben, die im Namen des E-Geld-Instituts tätig werden.
 
 
 ### § 32 Vertrieb und Rücktausch von E-Geld durch E-Geld-Agenten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003300000)
 
 (1) E-Geld-Institute können sich für den Vertrieb oder den Rücktausch
 von E-Geld eines E-Geld-Agenten bedienen. § 25 Absatz 1 gilt
@@ -2622,6 +2668,7 @@ entsprechend anzuwenden.
 
 
 ### § 33 Verpflichtungen des E-Geld-Emittenten bei der Ausgabe und dem Rücktausch von E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003400000)
 
 (1) Der E-Geld-Emittent hat E-Geld stets zum Nennwert des
 entgegengenommenen Geldbetrags auszugeben. Er ist verpflichtet, E-Geld
@@ -2675,9 +2722,11 @@ sich bei diesem nicht um einen Verbraucher handelt.
 
 
 ## Abschnitt 7 - Sonderbestimmungen für Kontoinformationsdienste
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001200000)
 
 
 ### § 34 Registrierungspflicht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003503128)
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, als
@@ -2847,6 +2896,7 @@ verlegt.
 
 
 ### § 35 Versagung der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003600000)
 
 Die Registrierung zur Erbringung von Kontoinformationsdiensten ist zu
 versagen, wenn
@@ -2892,6 +2942,7 @@ versagen, wenn
 
 
 ### § 36 Absicherung für den Haftungsfall; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003700000)
 
 (1) Ein Institut, das Kontoinformationsdienste erbringt, ist
 verpflichtet, eine Berufshaftpflichtversicherung oder eine andere
@@ -2923,6 +2974,7 @@ anzuhören.
 
 
 ### § 37 Erlöschen und Aufhebung der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003801311)
 
 (1) Die Registrierung erlischt, wenn der
 Kontoinformationsdienstleister von ihr nicht innerhalb eines Jahres
@@ -2960,9 +3012,11 @@ bekannt.
 
 
 ## Abschnitt 8 - Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001300000)
 
 
 ### § 38 Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr durch inländische Institute
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE003902128)
 
 (1) Ein nach § 10 Absatz 1 oder § 11 Absatz 1 zugelassenes oder nach §
 34 Absatz 1 registriertes Institut, das die Absicht hat, eine
@@ -3081,6 +3135,7 @@ Absätze 4 und 5 entsprechende Anwendung.
 
 
 ### § 39 Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004003128)
 
 (1) Ein Institut mit Sitz in einem anderen Mitgliedstaat oder einem
 anderen Vertragsstaat des Abkommens über den Europäischen
@@ -3215,6 +3270,7 @@ vorherige Anhörung getroffen und öffentlich bekanntgegeben werden.
 
 
 ### § 40 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004100000)
 
 Ein Institut mit Sitz in einem anderen Mitgliedstaat, das im Inland
 über Agenten oder Zweigniederlassungen verfügt, hat der Bundesanstalt
@@ -3223,6 +3279,7 @@ berichten.
 
 
 ### § 41 Zentrale Kontaktperson; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004200000)
 
 (1) Ein Institut mit Sitz in einem anderen Mitgliedstaat, das im
 Inland in anderer Form als einer Zweigniederlassung tätig ist, hat der
@@ -3239,6 +3296,7 @@ der Rechtsverordnung sind die Spitzenverbände der Institute anzuhören.
 
 
 ### § 42 Zweigstellen von Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004300000)
 
 (1) Unterhält ein Unternehmen mit Sitz außerhalb der Europäischen
 Union oder des Europäischen Wirtschaftsraums eine Zweigstelle im
@@ -3289,9 +3347,11 @@ Verrechnungssaldos.
 
 
 ## Abschnitt 9 - Register
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001400000)
 
 
 ### § 43 Zahlungsinstituts-Register
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004400000)
 
 (1) Die Bundesanstalt führt auf ihrer Internetseite ein
 Zahlungsinstituts-Register, in das sie einträgt:
@@ -3342,6 +3402,7 @@ Erlaubnis oder einer gemäß § 34 Absatz 1 erteilten Registrierung.
 
 
 ### § 44 E-Geld-Instituts-Register
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004500000)
 
 (1) Die Bundesanstalt führt auf ihrer Internetseite ein gesondertes,
 laufend zu aktualisierendes E-Geld-Instituts-Register, in das sie
@@ -3356,12 +3417,15 @@ entsprechend § 43 Absatz 1 Nummer 3 und 4 sowie Absatz 2 eingetragen.
 
 
 ## Abschnitt 10 - Gemeinsame Bestimmungen für alle Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001500000)
 
 
 ### Unterabschnitt 1 - Kartengebundene Zahlungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001600000)
 
 
 #### § 45 Pflichten des kontoführenden Zahlungsdienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004601000)
 
 (1) Ein kontoführender Zahlungsdienstleister hat einem
 Zahlungsdienstleister, der kartengebundene Zahlungsinstrumente ausgibt
@@ -3398,6 +3462,7 @@ des Zahlers zu sperren.
 
 
 #### § 46 Rechte und Pflichten des kartenausgebenden Zahlungsdienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004700000)
 
 Der kartenausgebende Zahlungsdienstleister darf den kontoführenden
 Zahlungsdienstleister um die Bestätigung nach § 45 Absatz 1 ersuchen,
@@ -3424,6 +3489,7 @@ Näheres regelt der delegierte Rechtsakt nach Artikel 98 der Richtlinie
 
 
 #### § 47 Ausnahme für E-Geld-Instrumente
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004800000)
 
 Die §§ 45 und 46 gelten nicht für Zahlungsvorgänge, die durch
 kartengebundene Zahlungsinstrumente ausgelöst werden, auf denen E-Geld
@@ -3431,9 +3497,11 @@ gespeichert ist.
 
 
 ### Unterabschnitt 2 - Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001700000)
 
 
 #### § 48 Pflichten des kontoführenden Zahlungsdienstleisters bei Zahlungsauslösediensten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE004900000)
 
 (1) Erteilt der Zahler seine ausdrückliche Zustimmung zur Ausführung
 einer Zahlung, so ist der kontoführende Zahlungsdienstleister
@@ -3470,6 +3538,7 @@ Richtlinie (EU) 2015/2366.
 
 
 #### § 49 Pflichten des Zahlungsauslösedienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005000000)
 
 (1) Der Zahlungsauslösedienstleister darf den Zahlungsbetrag, den
 Zahlungsempfänger oder ein anderes Merkmal des Zahlungsvorgangs nicht
@@ -3510,6 +3579,7 @@ Richtlinie (EU) 2015/2366.
 
 
 #### § 50 Pflichten des kontoführenden Zahlungsdienstleisters bei Kontoinformationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005100000)
 
 (1) Der kontoführende Zahlungsdienstleister ist verpflichtet,
 
@@ -3535,6 +3605,7 @@ Richtlinie (EU) 2015/2366.
 
 
 #### § 51 Pflichten des Kontoinformationsdienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005200000)
 
 (1) Der Kontoinformationsdienstleister darf seine Dienste nur mit der
 ausdrücklichen Zustimmung des Zahlungsdienstnutzers erbringen. Er darf
@@ -3565,6 +3636,7 @@ Richtlinie (EU) 2015/2366.
 
 
 #### § 52 Zugang zu Zahlungskonten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005300000)
 
 (1) Ein kontoführender Zahlungsdienstleister kann einem
 Kontoinformationsdienstleister oder einem Zahlungsauslösedienstleister
@@ -3591,9 +3663,11 @@ Zugangs nicht mehr bestehen.
 
 
 ### Unterabschnitt 3 - Risiken und Meldung von Vorfällen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001800000)
 
 
 #### § 53 Beherrschung operationeller und sicherheitsrelevanter Risiken
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005401128)
 
 (1) Ein Zahlungsdienstleister hat angemessene
 Risikominderungsmaßnahmen und Kontrollmechanismen zur Beherrschung der
@@ -3618,6 +3692,7 @@ Zeitabständen zu erfolgen hat.
 
 
 #### § 54 Meldung schwerwiegender Betriebs- oder Sicherheitsvorfälle
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005501128)
 
 (1) Ein Zahlungsdienstleister hat die Bundesanstalt unverzüglich über
 einen schwerwiegenden Betriebs- oder Sicherheitsvorfall zu
@@ -3664,9 +3739,11 @@ Sinne des § 1 Absatz 1 Satz 1 Nummer 1, 2 oder Nummer 3.
 
 
 ### Unterabschnitt 4 - Starke Kundenauthentifizierung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG001900000)
 
 
 #### § 55 Starke Kundenauthentifizierung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005601000)
 
 (1) Der Zahlungsdienstleister ist verpflichtet, eine starke
 Kundenauthentifizierung zu verlangen, wenn der Zahler
@@ -3715,9 +3792,11 @@ der Richtlinie (EU) 2015/2366.
 
 
 ### Unterabschnitt 5 - Zugang zu Konten und Zahlungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG002000000)
 
 
 #### § 56 Zugang zu Zahlungskontodiensten bei CRR-Kreditinstituten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005700000)
 
 (1) CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des
 Kreditwesengesetzes haben den Instituten, die im Inland auf der
@@ -3734,6 +3813,7 @@ Terrorismusfinanzierung bleiben unberührt.
 
 
 #### § 57 Zugang zu Zahlungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005801119)
 
 (1) Der Betreiber eines Zahlungssystems darf Zahlungsdienstleister,
 Zahlungsdienstnutzer und gleichartige Zahlungssysteme weder
@@ -3794,6 +3874,7 @@ Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt.
 
 
 #### § 57a Voraussetzungen für die Beantragung der Teilnahme an benannten Zahlungssystemen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007600119)
 
 (1) Zur Sicherung der Stabilität und Integrität von Zahlungssystemen
 verfügt ein Institut, das die Teilnahme an einem in § 1 Absatz 16 des
@@ -3935,6 +4016,7 @@ Spitzenverbände der Institute anzuhören.
 
 
 #### § 58 Aufgaben der Bundesanstalt bei Kartenzahlverfahren, Ausnahmen für neue Zahlverfahren im Massenzahlungsverkehr; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE005901128)
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Pflichten der
 Betreiber von Kartenzahlverfahren nach der Verordnung (EU) 2015/751;
@@ -3960,9 +4042,11 @@ Spitzenverbände der Zahlungsdienstleister anzuhören.
 
 
 ### Unterabschnitt 5a - Technische Infrastrukturleistungen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG002500360)
 
 
 #### § 58a Zugang zu technischen Infrastrukturleistungen bei der Erbringung von Zahlungsdiensten oder dem Betreiben des E-Geld-Geschäfts
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006504311)
 
 (1) Ein Unternehmen, das durch technische Infrastrukturleistungen zu
 dem Erbringen von Zahlungsdiensten oder dem Betreiben des E-Geld-
@@ -4010,9 +4094,11 @@ Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt.
 
 
 ## Abschnitt 11 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG002100000)
 
 
 ### § 59 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006001126)
 
 (1) Betreiber von Zahlungssystemen und Zahlungsdienstleister dürfen
 personenbezogene Daten verarbeiten, soweit das zur Verhütung,
@@ -4028,9 +4114,11 @@ personenbezogener Daten sind zu beachten.
 
 
 ## Abschnitt 12 - Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG002201128)
 
 
 ### § 60 Beschwerden über Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006102128)
 
 (1) Zahlungsdienstnutzer und die Stellen nach Satz 2 können jederzeit
 wegen behaupteter Verstöße eines Zahlungsdienstleisters gegen
@@ -4076,6 +4164,7 @@ Unterlassungsklagengesetzes hin.
 
 
 ### § 61 Beschwerden über E-Geld-Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006201128)
 
 (1) Inhaber von E-Geld und die in § 60 Absatz 1 Satz 2 genannten
 Einrichtungen, Verbände und Kammern können jederzeit wegen behaupteter
@@ -4090,6 +4179,7 @@ Beschwerdegrund angeben. § 60 Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 62 Streitbeilegung bei einem Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006300000)
 
 (1) Ein Zahlungsdienstleister hat angemessene und wirksame Verfahren
 zur Abhilfe bei Beschwerden in Bezug auf die Rechte und Pflichten von
@@ -4137,6 +4227,7 @@ Voraussetzungen für deren Anrufung erhältlich sind.
 
 
 ### § 62a Kollektive Verbraucherinformation
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007200128)
 
 (1) Die Bundesanstalt hat das elektronische Merkblatt nach Artikel 106
 Absatz 1 der Richtlinie (EU) 2015/2366 des Europäischen Parlaments und
@@ -4158,9 +4249,11 @@ barrierefreie Art und Weise leicht zugänglich zu machen.
 
 
 ## Abschnitt 13 - Strafvorschriften, Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG002300000)
 
 
 ### § 63 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006400000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -4208,6 +4301,7 @@ Geldstrafe.
 
 
 ### § 64 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006505128)
 
 (1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 7
 Absatz 1 Satz 2 Nummer 1, auch in Verbindung mit Satz 4, oder nach §
@@ -4337,6 +4431,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 65 Mitteilung in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006600000)
 
 Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde
 hat in Strafverfahren gegen Inhaber oder Geschäftsleiter von
@@ -4364,6 +4459,7 @@ Kreditwesengesetzes gilt entsprechend.
 
 
 ### § 65a Bekanntmachung von Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007400128)
 
 (1) Die Bundesanstalt macht Entscheidungen über bestandskräftige
 Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen
@@ -4413,9 +4509,11 @@ mehr erforderlich ist.
 
 
 ## Abschnitt 14 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNG002400000)
 
 
 ### § 66 Übergangsvorschriften für Zahlungsinstitute, die bereits über eine Erlaubnis verfügen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006700000)
 
 (1) Zahlungsinstitute mit einer Erlaubnis gemäß § 8 dieses Gesetzes in
 der bis zum 12. Januar 2018 geltenden Fassung dürfen die
@@ -4457,6 +4555,7 @@ zum 12. Januar 2018 geltenden Fassung bekannt.
 
 
 ### § 67 Übergangsvorschriften für E-Geld-Institute, die bereits über eine Erlaubnis verfügen
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006800000)
 
 (1) E-Geld-Institute dürfen im Rahmen der Erlaubnis, die ihnen nach §
 8a dieses Gesetzes in der bis zum 12. Januar 2018 gültigen Fassung
@@ -4499,6 +4598,7 @@ E-Geld-Instituts-Register gemäß § 30a dieses Gesetzes in der bis zum
 
 
 ### § 68 Übergangsvorschriften für bestimmte Zahlungsdienste und für die starke Kundenauthentifizierung
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE006900000)
 
 (1) Unternehmen, die vor dem 12. Januar 2016 im Inland
 Zahlungsauslösedienste im Sinne dieses Gesetzes in seiner ab dem 13.
@@ -4538,6 +4638,7 @@ die Bundesanstalt insoweit weiterhin erlaubt tätig.
 
 
 ### § 69 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/zag_2018/BJNR244610017.html#BJNR244610017BJNE007500128)
 
 § 24 Absatz 1 Satz 3 Nummer 5 ist erstmals für ein nach dem 31.
 Dezember 2024 beginnende Geschäftsjahr anzuwenden.

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000101310)
 
 (1) Diese Verordnung gilt für
 
@@ -64,6 +65,7 @@ Verordnung über kleine und mittlere Feuerungsanlagen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000201310)
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
 
@@ -177,6 +179,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 
 
 ## § 3 Anforderungen an die Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000300000)
 
 (1) Zur Gewährleistung einer schadlosen stofflichen Verwertung von
 Altholz sind die Anforderungen des Anhangs I einzuhalten. Gemäß Anhang
@@ -204,6 +207,7 @@ Anforderungen des Anhangs II erfüllt sind.
 
 
 ## § 4 Hochwertigkeit der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000400000)
 
 Die Verfahren zur stofflichen Verwertung von Altholz sind hochwertig.
 Satz 1 gilt entsprechend für die Verfahren zur energetischen
@@ -211,6 +215,7 @@ Verwertung von Altholz.
 
 
 ## § 5 Zuordnung zu Altholzkategorien
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000500000)
 
 (1) Zur Erfüllung der Anforderungen nach § 3 hat der Betreiber einer
 Altholzbehandlungsanlage sicherzustellen, dass bei der vorgesehenen
@@ -250,6 +255,7 @@ bereitzustellen und einer zulässigen Entsorgung zuzuführen.
 
 
 ## § 6 Kontrolle von Altholz zur Holzwerkstoffherstellung
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000604116)
 
 (1) Zur Prüfung der Einhaltung der Anforderungen nach § 3 Abs. 1 Satz
 3 und § 3 Abs. 3 sowie § 5 Abs. 1 an die Aufbereitung von Altholz zu
@@ -343,6 +349,7 @@ deutsche Übersetzung können verlangt werden.
 
 
 ## § 7 Kontrolle von Altholz zur energetischen Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000700000)
 
 (1) Soweit die Zulässigkeit des Einsatzes von Altholz in einer nach
 dem Bundes-Immissionsschutzgesetz genehmigten Anlage auf bestimmte
@@ -378,6 +385,7 @@ und der darauf beruhenden Regelungen bleiben unberührt.
 
 
 ## § 8 Inverkehrbringen von Altholz
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000800000)
 
 Altholz darf zum Zwecke der stofflichen und energetischen Verwertung
 nur in den Verkehr gebracht werden, um es einer
@@ -386,6 +394,7 @@ Altholzbehandlungsanlage zuzuführen, in der die Anforderungen nach den
 
 
 ## § 9 Beseitigung von Altholz
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE000900000)
 
 Die nach § 1 Abs. 2 Verpflichteten haben Altholz, das nicht verwertet
 wird, zum Zwecke der Beseitigung einer dafür zugelassenen thermischen
@@ -393,6 +402,7 @@ Behandlungsanlage zuzuführen.
 
 
 ## § 10 Pflichten der Erzeuger und Besitzer zur Getrennthaltung von Altholz
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001000000)
 
 Die nach § 1 Abs. 2 Verpflichteten haben Altholz, das in Mengen von
 insgesamt mehr als 1 Kubikmeter loses Schüttvolumen oder 0,3 Tonnen
@@ -405,6 +415,7 @@ der Anforderungen nach den §§ 3, 8 und 9 erforderlich ist.
 
 
 ## § 11 Hinweis- und Kennzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001102310)
 
 (1) Wer Altholz einer Altholzbehandlungsanlage zuführt, hat das
 angelieferte Altholz nach Altholzkategorie und Menge zu deklarieren.
@@ -431,6 +442,7 @@ Nachweisverordnung finden entsprechende Anwendung.
 
 
 ## § 12 Betriebstagebuch
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001201116)
 
 (1) Der Betreiber einer genehmigungsbedürftigen
 Altholzbehandlungsanlage hat zur Überprüfung der ordnungsgemäßen
@@ -503,6 +515,7 @@ geltenden Fassung bleiben unberührt.
 
 
 ## § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001301310)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -569,6 +582,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 3 Abs. 1)
 
 ## Anhang I Verfahren für die stoffliche Verwertung von Altholz
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001400000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
@@ -652,6 +666,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 (zu § 3 Abs. 1)
 
 ## Anhang II Grenzwerte für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001500000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
@@ -720,6 +735,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 (zu § 5 Abs. 1)
 
 ## Anhang III Zuordnung gängiger Altholzsortimente im Regelfall
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001600000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
@@ -1018,6 +1034,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 (zu § 6)
 
 ## Anhang IV Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001703116)
 
 (Fundstelle: BGBl. I 2002, 3309 - 3313;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1749,6 +1766,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 7)
 
 ## Anhang V Untersuchung von Altholz zur energetischen Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001800000)
 
 Die Probenahme nach § 7 ist von Personen durchzuführen, die über die
 für die Durchführung der Probenahme erforderliche Fachkunde verfügen.
@@ -1763,6 +1781,7 @@ und deren Masse festzustellen.
 (zu § 11)
 
 ## Anhang VI Anlieferungsschein für Altholz
+[Direktlink](https://www.gesetze-im-internet.de/altholzv/BJNR330210002.html#BJNR330210002BJNE001900000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3314 - 3315
 ----------------------------------------------------------------------

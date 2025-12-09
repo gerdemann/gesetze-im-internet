@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000100310)
 
 Unter dem Namen "Otto-von-Bismarck-Stiftung" wird mit Sitz in Aumühle-
 Friedrichsruh eine rechtsfähige Stiftung des öffentlichen Rechts
@@ -28,6 +29,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000201116)
 
 (1) Zweck der Stiftung ist es, das Andenken an das Wirken des
 Staatsmannes Otto von Bismarck zu wahren, seinen Nachlaß zu sammeln
@@ -64,6 +66,7 @@ Maßnahmen:
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000300310)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen auf die Stiftung über:
 
@@ -91,6 +94,7 @@ im Sinne des Stiftungszweckes zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000401320)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
@@ -100,6 +104,7 @@ Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000500310)
 
 Organe der Stiftung sind
 
@@ -113,6 +118,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000600310)
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
 Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Je
@@ -133,6 +139,7 @@ des Vorstandes. Das Nähere regelt die Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000701320)
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
 Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder
@@ -150,12 +157,14 @@ außergerichtlich.
 
 
 ## § 8 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000800310)
 
 Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE000901320)
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
 Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
@@ -170,6 +179,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 10 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE001000310)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 (Angestellte und Arbeiter) wahrgenommen.
@@ -183,6 +193,7 @@ haben, verliehen werden.
 
 
 ## § 11 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE001100310)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -190,11 +201,13 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 12 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE001200310)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bismstiftg/BJNR258200997.html#BJNR258200997BJNE001300310)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

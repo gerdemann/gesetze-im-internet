@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000101125)
 
 Es wird zum 1. Januar 2011 ein Sondervermögen des Bundes mit der
 Bezeichnung „Energie- und Klimafonds“ errichtet. Ab dem 22. Juli 2022
@@ -28,6 +29,7 @@ Transformationsfonds“.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000206128)
 
 (1) Das Sondervermögen ermöglicht zusätzliche Programmausgaben zur
 Förderung von Maßnahmen, die der Erreichung der Klimaschutzziele nach
@@ -69,6 +71,7 @@ Bundes berücksichtigt sind.
 
 
 ## § 2a Verwendung der Mittel zur Überwindung der Folgen der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE001200125)
 
 Die dem Sondervermögen mit dem Zweiten Nachtragshaushaltsgesetz 2021
 vom 18. Februar 2022 (BGBl. I S. 194) zur Überwindung der
@@ -106,6 +109,7 @@ folgenden Zwecke zulässig:
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000300000)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
 Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der
@@ -119,6 +123,7 @@ Rechten und Verbindlichkeiten getrennt zu halten.
 
 
 ## § 4 Einnahmen des Sondervermögens und Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000405128)
 
 (1) Dem Sondervermögen fließen folgende Einnahmen zu:
 
@@ -174,12 +179,14 @@ Prozent des Gesamtvolumens des Wirtschaftsplans des laufenden Jahres.
 
 
 ## § 5 Rücklagen
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000500000)
 
 Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks
 Rücklagen bilden.
 
 
 ## § 6 Wirtschaftsplan und Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000601125)
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 jährlichen Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in
@@ -188,6 +195,7 @@ festgestellt.
 
 
 ## § 7 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000700000)
 
 Das Bundesministerium der Finanzen stellt für das Sondervermögen am
 Schluss eines jeden Rechnungsjahres die Haushaltsrechnung (Rechnung
@@ -198,6 +206,7 @@ Vorschriften des Handelsgesetzbuchs) auf. Die Rechnungen sind als
 
 
 ## § 8 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000800000)
 
 Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen
 Bundestages jährlich bis zum 31. März über die zweckentsprechende
@@ -205,11 +214,13 @@ Verwendung der im Vorjahr verausgabten Mittel.
 
 
 ## § 9 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE000900000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 10 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE001300125)
 
 Das Bundesministerium der Finanzen kann den Wortlaut des Klima- und
 Transformationsfondsgesetzes in der vom 1. Januar 2024 an geltenden
@@ -217,6 +228,7 @@ Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html#BJNR180700010BJNE001001125)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwofgv/BJNR1050A0024.html#BJNR1050A0024BJNE000100000)
 
 Auf Grund des § 4 Absatz 4 des Bundesvertriebenengesetzes, der durch
 Artikel 1 Nummer 1 des Gesetzes vom 20. Dezember 2023 (BGBl. 2023 I
@@ -27,6 +28,7 @@ Innern und für Heimat:
 
 
 ## § 1 Wohnsitzfortgeltung
+[Direktlink](https://www.gesetze-im-internet.de/krwofgv/BJNR1050A0024.html#BJNR1050A0024BJNE000200000)
 
 (1) Für eine Person, die kriegsbedingt nach dem 23. Februar 2022 aus
 der Ukraine ausgereist und ins Bundesgebiet eingereist ist, gilt der
@@ -64,6 +66,7 @@ Antragstellung als fortbestehend.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krwofgv/BJNR1050A0024.html#BJNR1050A0024BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 24. Februar 2022 in Kraft.
 

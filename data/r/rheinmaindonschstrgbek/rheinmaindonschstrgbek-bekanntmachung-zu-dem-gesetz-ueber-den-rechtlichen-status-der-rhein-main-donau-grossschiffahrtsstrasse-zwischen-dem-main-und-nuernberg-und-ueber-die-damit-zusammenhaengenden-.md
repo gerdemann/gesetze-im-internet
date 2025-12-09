@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rheinmaindonschstrgbek/BJNR007090972.html#BJNR007090972BJNE000100308)
 
 Gemäß § 1 Abs. 3 des Gesetzes über den rechtlichen Status der Rhein-
 Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und

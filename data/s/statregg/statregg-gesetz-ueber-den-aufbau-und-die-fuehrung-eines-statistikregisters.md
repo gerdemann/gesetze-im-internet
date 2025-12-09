@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000206126)
 
 (1) Beim Statistischen Bundesamt wird gemäß § 13 Absatz 1 des
 Bundesstatistikgesetzes ein Statistikregister geführt. Im
@@ -101,6 +102,7 @@ zugänglichen Quellen verwendet werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000302126)
 
 (1) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Absatz
 1 bis 3 und § 5 Satz 1 Nummer 1 bis 3 des Gesetzes über
@@ -184,6 +186,7 @@ in seiner jeweils geltenden Fassung vorgegebenen Zeitrahmen.
 
 
 ## § 2a
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE001002126)
 
 Das Bundeszentralamt für Steuern übermittelt an das Statistische
 Bundesamt für Organgesellschaften und Organträger nach § 2 Absatz 2
@@ -216,6 +219,7 @@ statistischen Ämter der Länder für deren Zuständigkeitsbereich.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000402126)
 
 (1) Die Bundesagentur für Arbeit übermittelt von Betrieben, in denen
 Arbeitnehmer beschäftigt werden, folgende Angaben:
@@ -251,6 +255,7 @@ zusammen mit der Angabe zu Absatz 1 Nummer 4 mitgeteilt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000500311)
 
 Die Industrie- und Handelskammern übermitteln von den
 Kammerzugehörigen ihres Bezirks nach § 2 des Gesetzes zur vorläufigen
@@ -294,6 +299,7 @@ Angaben:
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE001201126)
 
 (1) Die Landesjustizverwaltungen übermitteln von den elektronischen
 Handels-, Genossenschafts- und Partnerschaftsregistern die Daten über
@@ -305,6 +311,7 @@ von § 1 Absatz 2 Satz 1 mehrmals jährlich.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000603126)
 
 Die Handwerkskammern übermitteln von den Kammerzugehörigen ihres
 Bezirks folgende Angaben:
@@ -351,6 +358,7 @@ Bezirks folgende Angaben:
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000701126)
 
 Soweit es für den Aufbau und die Führung des Statistikregisters
 erforderlich ist, übermitteln Berufsverbände und nicht in den §§ 4 und
@@ -371,6 +379,7 @@ mehrjährigen Abständen folgende Angaben:
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000802126)
 
 (1) Die statistischen Ämter der Länder und das Statistische Bundesamt
 erheben zum Aufbau und zur Führung des Statistikregisters Angaben zu
@@ -391,6 +400,7 @@ Inhaberinnen und Inhaber oder Leiterinnen und Leiter der Einheiten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE000901310)
 
 (1) Soweit Rechtsvorschriften des Bundes, die eine Wirtschafts- oder
 Umweltstatistik anordnen, Erhebungsmerkmale bestimmt haben, die
@@ -404,6 +414,7 @@ Vorgaben des § 13a des Bundesstatistikgesetzes zusammengeführt werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE001102126)
 
 Die statistischen Ämter des Bundes und der Länder dürfen den für
 statistische Aufgaben zuständigen Stellen der Gemeinden und
@@ -430,6 +441,7 @@ verwendet werden. Sie sind zum frühestmöglichen Zeitpunkt zu löschen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/statregg/BJNR130010998.html#BJNR130010998BJNE001301126)
 
 (1) Die Deutsche Bundesbank übermittelt an das Statistische Bundesamt
 Angaben aus den von ihr erstellten Wirtschaftsstatistiken zum Zwecke

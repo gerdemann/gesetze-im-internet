@@ -21,10 +21,12 @@ Zuletzt geändert durch
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000100000)
 
 
 
 ### § 1 Personenstand, Aufgaben des Standesamts
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000201116)
 
 (1) Personenstand im Sinne dieses Gesetzes ist die sich aus den
 Merkmalen des Familienrechts ergebende Stellung einer Person innerhalb
@@ -42,6 +44,7 @@ Bundesrecht oder Landesrecht zugewiesen werden.
 
 
 ### § 2 Standesbeamte
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000301116)
 
 (1) Beurkundungen und Beglaubigungen für Zwecke des
 Personenstandswesens werden im Standesamt nur von hierzu bestellten
@@ -63,10 +66,12 @@ männlicher Form geführt.
 
 
 ## Kapitel 2 - Führung der Personenstandsregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000200000)
 
 
 
 ### § 3 Personenstandsregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000402360)
 
 (1) Das Standesamt führt für seinen Zuständigkeitsbereich
 
@@ -113,6 +118,7 @@ zugeordnet.
 
 
 ### § 4 Sicherungsregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000500000)
 
 (1) Die Beurkundungen in einem Personenstandsregister sind nach ihrem
 Abschluss (§ 3 Abs. 2) in einem weiteren elektronischen Register
@@ -124,6 +130,7 @@ Personenstandsregisters zu aktualisieren.
 
 
 ### § 5 Fortführung der Personenstandsregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000601116)
 
 (1) Die Registereinträge sind nach den Vorschriften dieses Gesetzes
 durch Folgebeurkundungen und Hinweise zu ergänzen und zu berichtigen
@@ -158,12 +165,14 @@ Sicherungsregister gelten folgende Fristen:
 
 
 ### § 6 Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000700000)
 
 Dokumente, die einzelne Beurkundungen in den Personenstandsregistern
 betreffen, werden in besonderen Akten (Sammelakten) aufbewahrt.
 
 
 ### § 7 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000804130)
 
 (1) Die Personenstandsregister und die Sicherungsregister sind
 räumlich getrennt voneinander und vor unberechtigtem Zugriff geschützt
@@ -188,6 +197,7 @@ Personenstandsregistern.
 
 
 ### § 8 Verlust eines Personenstandsregisters
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE000901116)
 
 (1) Gerät ein Ehe-, Lebenspartnerschafts-, Geburten- oder
 Sterberegister ganz oder teilweise in Verlust, so ist es auf Grund des
@@ -216,6 +226,7 @@ berücksichtigt sind, vorgenommen werden.
 
 
 ### § 9 Beurkundungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001000000)
 
 (1) Eintragungen in den Personenstandsregistern werden auf Grund von
 Anzeigen, Anordnungen, Erklärungen, Mitteilungen und eigenen
@@ -236,6 +247,7 @@ anderer Personen verlangen und abnehmen.
 
 
 ### § 10 Auskunfts- und Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001102116)
 
 (1) Die nach diesem Gesetz zur Anzeige Verpflichteten haben die für
 die Beurkundung des Personenstandsfalls erforderlichen Angaben zu
@@ -262,14 +274,17 @@ Schwangerschaftskonfliktgesetzes.
 
 
 ## Kapitel 3 - Eheschließung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000300000)
 
 
 
 ### Abschnitt 1 - Zuständigkeit, Anmeldung und Eheschließung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000400000)
 
 
 
 #### § 11 Zuständigkeit und Standesamtsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001201116)
 
 (1) Zuständig für die Eheschließung ist jedes deutsche Standesamt.
 
@@ -302,6 +317,7 @@ Personen, die
 
 
 #### § 12 Anmeldung der Eheschließung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001302116)
 
 (1) Die Eheschließenden haben die beabsichtigte Eheschließung mündlich
 oder schriftlich bei einem Standesamt, in dessen Zuständigkeitsbereich
@@ -345,6 +361,7 @@ entsprechend.
 
 
 #### § 12a Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008600130)
 
 § 12 Absatz 1 und 2 gelten für die Anmeldung einer erneuten
 Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs mit
@@ -355,6 +372,7 @@ nicht anzuwenden.
 
 
 #### § 13 Prüfung der Ehevoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001400000)
 
 (1) Das Standesamt, bei dem die Eheschließung angemeldet ist, hat zu
 prüfen, ob der Eheschließung ein Hindernis entgegensteht. Reichen die
@@ -392,6 +410,7 @@ und der Prüfung der Voraussetzungen für die Eheschließung.
 
 
 #### § 14 Eheschließung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001500000)
 
 (1) Vor der Eheschließung sind die Eheschließenden zu befragen, ob
 sich seit der Anmeldung ihrer Eheschließung Änderungen in ihren die
@@ -413,6 +432,7 @@ Eheeintrags genommen.
 
 
 #### § 15 Eintragung in das Eheregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001602116)
 
 (1) Im Eheregister werden im Anschluss an die Eheschließung beurkundet
 
@@ -448,10 +468,12 @@ Eheeintrags genommen.
 
 
 ### Abschnitt 2 - Fortführung des Eheregisters
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000500000)
 
 
 
 #### § 16 Fortführung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001704360)
 
 (1) Zum Eheeintrag werden Folgebeurkundungen aufgenommen über
 
@@ -502,10 +524,12 @@ Absatz 1 Nummer 7 einzutragen.
 
 
 ## Kapitel 4 - Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000602116)
 
 
 
 ### § 17 Fortführung des Lebenspartnerschaftsregisters
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001801116)
 
 Für die Fortführung des Lebenspartnerschaftsregisters gilt § 16
 entsprechend. Zusätzlich ist im Fall der Umwandlung der
@@ -515,6 +539,7 @@ Lebenspartnerschaftsregister nicht fortgeführt.
 
 
 ### § 17a Umwandlung einer Lebenspartnerschaft in eine Ehe und ihre Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008301116)
 
 (1) Die Lebenspartner haben bei der Umwandlung ihrer
 Lebenspartnerschaft in eine Ehe das Bestehen der Lebenspartnerschaft
@@ -530,14 +555,17 @@ aufzunehmen.
 
 
 ## Kapitel 5 - Geburt
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000700000)
 
 
 
 ### Abschnitt 1 - Anzeige und Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000800000)
 
 
 
 #### § 18 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE001902116)
 
 (1) Die Geburt eines Kindes ist dem Standesamt, in dessen
 Zuständigkeitsbereich es geboren ist, binnen einer Woche anzuzeigen,
@@ -563,6 +591,7 @@ anzugeben.
 
 
 #### § 19 Anzeige durch Personen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002001116)
 
 Zur Anzeige sind verpflichtet
 
@@ -580,6 +609,7 @@ Aufenthalts sind.
 
 
 #### § 20 Anzeige durch Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002100000)
 
 Bei Geburten in Krankenhäusern und sonstigen Einrichtungen, in denen
 Geburtshilfe geleistet wird, ist der Träger der Einrichtung zur
@@ -594,6 +624,7 @@ Verpflichtete nicht machen kann, bleiben hiervon unberührt.
 
 
 #### § 21 Eintragung in das Geburtenregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002204116)
 
 (1) Im Geburtenregister werden beurkundet
 
@@ -651,10 +682,12 @@ Kindes.
 
 
 ### Abschnitt 2 - Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG000900000)
 
 
 
 #### § 22 Fehlende Angaben
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002302116)
 
 (1) Kann der Anzeigende die Vornamen des Kindes nicht angeben, so
 müssen sie binnen eines Monats mündlich oder schriftlich angezeigt
@@ -671,6 +704,7 @@ eingetragen werden.
 
 
 #### § 23 Zwillings- oder Mehrgeburten
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002400000)
 
 Bei Zwillings- oder Mehrgeburten ist jede Geburt gesondert
 einzutragen. Die Eintragungen müssen erkennen lassen, in welcher
@@ -678,6 +712,7 @@ Zeitfolge die Kinder geboren sind.
 
 
 #### § 24 Findelkind
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002500000)
 
 (1) Wer ein neugeborenes Kind findet, muss dies spätestens am
 folgenden Tag der Gemeindebehörde anzeigen. Diese stellt die
@@ -694,6 +729,7 @@ Kind aufgefunden worden ist, für die Beurkundung zuständig.
 
 
 #### § 25 Person mit ungewissem Personenstand
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002600000)
 
 Wird im Inland eine Person angetroffen, deren Personenstand nicht
 festgestellt werden kann, so bestimmt die zuständige
@@ -707,6 +743,7 @@ die Beurkundung zuständig.
 
 
 #### § 26 Nachträgliche Ermittlung des Personenstandes
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002700000)
 
 Wird in den Fällen der §§ 24 und 25 der Personenstand später
 ermittelt, so wird der Eintrag auf schriftliche Anordnung der Behörde
@@ -714,10 +751,12 @@ berichtigt, die ihn veranlasst hat.
 
 
 ### Abschnitt 3 - Fortführung des Geburtenregisters
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001000000)
 
 
 
 #### § 27 Feststellung und Änderung des Personenstandes, sonstige Fortführung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002804360)
 
 (1) Wird die Vaterschaft nach der Beurkundung der Geburt des Kindes
 anerkannt oder gerichtlich festgestellt, so ist dies beim
@@ -779,14 +818,17 @@ hingewiesen
 
 
 ## Kapitel 6 - Sterbefall
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001100000)
 
 
 
 ### Abschnitt 1 - Anzeige und Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001200000)
 
 
 
 #### § 28 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE002901116)
 
 Der Tod eines Menschen muss dem Standesamt, in dessen
 Zuständigkeitsbereich er gestorben ist,
@@ -802,6 +844,7 @@ spätestens am dritten auf den Tod folgenden Werktag angezeigt werden.
 
 
 #### § 29 Anzeige durch Personen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003001116)
 
 Zur Anzeige sind verpflichtet
 
@@ -822,6 +865,7 @@ genannte Person nicht vorhanden oder an der Anzeige gehindert ist.
 
 
 #### § 30 Anzeige durch Einrichtungen und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003100000)
 
 (1) Bei Sterbefällen in Krankenhäusern, Alten- und Pflegeheimen sowie
 sonstigen Einrichtungen gilt § 20 entsprechend.
@@ -837,6 +881,7 @@ Behörde eingetragen.
 
 
 #### § 31 Eintragung in das Sterberegister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003204116)
 
 (1) Im Sterberegister werden beurkundet
 
@@ -877,10 +922,12 @@ Behörde eingetragen.
 
 
 ### Abschnitt 2 - Fortführung des Sterberegisters; Todeserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001300000)
 
 
 
 #### § 32 Fortführung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003300000)
 
 Zum Sterbeeintrag werden Folgebeurkundungen über Berichtigungen
 aufgenommen. Auf die Todeserklärung und die gerichtliche Feststellung
@@ -888,6 +935,7 @@ der Todeszeit wird hingewiesen.
 
 
 #### § 33 Todeserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003400000)
 
 Ausfertigungen der Beschlüsse über Todeserklärungen und gerichtliche
 Feststellungen der Todeszeit werden von dem Standesamt I in Berlin in
@@ -895,14 +943,17 @@ einer Sammlung dauernd aufbewahrt.
 
 
 ## Kapitel 7 - Besondere Beurkundungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001400000)
 
 
 
 ### Abschnitt 1 - Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001500000)
 
 
 
 #### § 34 Eheschließungen im Ausland oder vor ermächtigten Personen im Inland
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003502116)
 
 (1) Hat ein Deutscher im Ausland die Ehe geschlossen, so kann die
 Eheschließung auf Antrag im Eheregister beurkundet werden; für den
@@ -939,6 +990,7 @@ Absätzen 1 und 2 beurkundeten Eheschließungen.
 
 
 #### § 35 Begründung von Lebenspartnerschaften im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003604116)
 
 (1) Hat ein Deutscher im Ausland eine Lebenspartnerschaft im Sinne des
 § 1 des Lebenspartnerschaftsgesetzes in der bis einschließlich 21.
@@ -967,6 +1019,7 @@ beurkundeten Begründungen von Lebenspartnerschaften.
 
 
 #### § 36 Geburten und Sterbefälle im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003702116)
 
 (1) Ist ein Deutscher im Ausland geboren oder gestorben, so kann der
 Personenstandsfall auf Antrag im Geburtenregister oder im
@@ -1008,6 +1061,7 @@ beurkundeten Personenstandsfälle.
 
 
 #### § 37 Geburten und Sterbefälle auf Seeschiffen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003801116)
 
 (1) Die Geburt oder der Tod eines Menschen während der Reise auf einem
 Seeschiff, das die Bundesflagge führt, wird von dem Standesamt I in
@@ -1034,6 +1088,7 @@ solchen Seeschiff aufgenommen wurde.
 
 
 #### § 38 Sterbefälle in ehemaligen Konzentrationslagern
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE003902116)
 
 (1) Für die Beurkundung der Sterbefälle von Häftlingen der ehemaligen
 deutschen Konzentrationslager ist im Inland das Sonderstandesamt in
@@ -1053,6 +1108,7 @@ beurkunden.
 
 
 #### § 39 Ehefähigkeitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004002116)
 
 (1) Zur Ausstellung eines Ehefähigkeitszeugnisses, dessen ein
 Deutscher zur Eheschließung im Ausland bedarf, ist das Standesamt
@@ -1084,6 +1140,7 @@ wird; die Absätze 1 bis 3 gelten entsprechend.
 
 
 #### § 40 Zweifel über örtliche Zuständigkeit für Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004101116)
 
 (1) Bei Zweifeln über die örtliche Zuständigkeit mehrerer Standesämter
 entscheidet die gemeinsame Aufsichtsbehörde oder, falls eine solche
@@ -1101,10 +1158,12 @@ mit; diese ordnet die Eintragung an.
 
 
 ### Abschnitt 2 - Familienrechtliche Beurkundungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001600000)
 
 
 
 #### § 41 Erklärungen zur Namensführung von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004203125)
 
 (1) Jede der folgenden Erklärungen kann auch von den Standesbeamten
 beglaubigt oder beurkundet werden:
@@ -1164,9 +1223,11 @@ Erklärungen.
 
 
 #### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004304125)
 
 
 #### § 43 Erklärungen zur Namensangleichung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004404116)
 
 (1) Die Erklärungen über die Namenswahl nach Artikel 48 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder über die
@@ -1195,6 +1256,7 @@ Erklärungen.
 
 
 #### § 44 Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004502116)
 
 (1) Die Erklärung, durch welche die Vaterschaft zu einem Kind
 anerkannt wird, sowie die Zustimmungserklärung der Mutter können auch
@@ -1215,6 +1277,7 @@ Abschrift dem Standesamt I in Berlin zu übersenden.
 
 
 #### § 45 Erklärungen zur Namensführung des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004603125)
 
 (1) Jede der folgenden Erklärungen kann auch von den Standesbeamten
 beglaubigt oder beurkundet werden:
@@ -1299,6 +1362,7 @@ der nach den Sätzen 2 und 3 entgegengenommenen Erklärungen.
 
 
 #### § 45a Erklärung zur Reihenfolge der Vornamen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008100116)
 
 (1) Unterliegt der Name einer Person deutschem Recht und hat sie
 mehrere Vornamen, so kann deren Reihenfolge durch Erklärung des
@@ -1329,6 +1393,7 @@ zuständig.
 
 
 #### § 45b Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008401360)
 
 (1) Die Erklärungen zur Änderung des Geschlechtseintrags und der
 Vornamen nach § 2 des Gesetzes über die Selbstbestimmung in Bezug auf
@@ -1370,14 +1435,17 @@ Absatz 2 gilt entsprechend.
 
 
 ## Kapitel 8 - Berichtigungen und gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001700000)
 
 
 
 ### Abschnitt 1 - Berichtigungen ohne Mitwirkung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001800000)
 
 
 
 #### § 46 Änderung einer Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004700000)
 
 Sind in der schriftlichen Anzeige einer Geburt oder eines Sterbefalls
 Angaben unrichtig oder unvollständig und ist der richtige oder
@@ -1387,6 +1455,7 @@ entsprechenden Angaben unter Hinweis auf die Grundlagen zu ändern.
 
 
 #### § 47 Berichtigung nach Abschluss der Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004805116)
 
 (1) In einem abgeschlossenen Registereintrag sind offenkundige
 Schreibfehler zu berichtigen. Auf Grund öffentlicher Urkunden oder
@@ -1457,10 +1526,12 @@ verwendet werden.
 
 
 ### Abschnitt 2 - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG001900000)
 
 
 
 #### § 48 Berichtigung auf Anordnung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE004901116)
 
 (1) Außer in den Fällen des § 47 darf ein abgeschlossener
 Registereintrag nur auf Anordnung des Gerichts berichtigt werden. Die
@@ -1472,6 +1543,7 @@ Entscheidung zu hören.
 
 
 #### § 49 Anweisung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005000000)
 
 (1) Lehnt das Standesamt die Vornahme einer Amtshandlung ab, so kann
 es auf Antrag der Beteiligten oder der Aufsichtsbehörde durch das
@@ -1484,6 +1556,7 @@ Amtshandlung.
 
 
 #### § 50 Sachliche und örtliche Zuständigkeit der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005100000)
 
 (1) Für die in den §§ 48 und 49 vorgesehenen Entscheidungen sind
 ausschließlich die Amtsgerichte zuständig, die ihren Sitz am Ort eines
@@ -1496,6 +1569,7 @@ berichtigt werden soll.
 
 
 #### § 51 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005201377)
 
 (1) Auf das gerichtliche Verfahren sind die Vorschriften des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
@@ -1508,6 +1582,7 @@ auch durch Einlegung eines Rechtsmittels erklären.
 
 
 #### § 52 Öffentliche Bekanntmachung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005301116)
 
 (1) Das Gericht kann die öffentliche Bekanntmachung einer Entscheidung
 anordnen, wenn es Zweifel hat, ob ihm alle Beteiligten bekannt
@@ -1534,6 +1609,7 @@ zu vermerken.
 
 
 #### § 53 Wirksamwerden gerichtlicher Entscheidungen; Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005402116)
 
 (1) Der Beschluss, durch den das Standesamt zur Vornahme einer
 Amtshandlung angehalten oder durch den die Berichtigung eines
@@ -1544,14 +1620,17 @@ die Beschwerde in jedem Fall zu.
 
 
 ## Kapitel 9 - Beweiskraft und Benutzung der Personenstandsregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG002000000)
 
 
 
 ### Abschnitt 1 - Beweiskraft; Personenstandsurkunden
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG002100000)
 
 
 
 #### § 54 Beweiskraft der Personenstandsregister und -urkunden
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005501116)
 
 (1) Die Beurkundungen in den Personenstandsregistern beweisen
 Eheschließung, Begründung der Lebenspartnerschaft, Geburt und Tod und
@@ -1571,6 +1650,7 @@ entsprechenden Personenstandsregister geführt werden.
 
 
 #### § 55 Personenstandsurkunden
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005604130)
 
 (1) Das Standesamt stellt folgende Personenstandsurkunden aus:
 
@@ -1625,6 +1705,7 @@ archivrechtlichen Vorschriften maßgebend.
 
 
 #### § 56 Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005702116)
 
 (1) In der Ehe-, der Lebenspartnerschafts-, der Geburts- und der
 Sterbeurkunde werden das Standesamt, bei dem der Personenstandsfall
@@ -1654,6 +1735,7 @@ Authentifizierungsverfahren zu verwenden.
 
 
 #### § 57 Eheurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005805360)
 
 (1) In die Eheurkunde werden aufgenommen
 
@@ -1697,6 +1779,7 @@ Eheschließung geführten Vornamen nicht aufgenommen.
 
 
 #### § 58 Lebenspartnerschaftsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE005905360)
 
 (1) In die Lebenspartnerschaftsurkunde werden aufgenommen
 
@@ -1740,6 +1823,7 @@ Lebenspartnerschaft geführten Vornamen nicht aufgenommen.
 
 
 #### § 59 Geburtsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006001116)
 
 (1) In die Geburtsurkunde werden aufgenommen
 
@@ -1762,6 +1846,7 @@ Nummer 2 und 4 nicht aufgenommen.
 
 
 #### § 60 Sterbeurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006103116)
 
 In die Sterbeurkunde werden aufgenommen
 
@@ -1788,10 +1873,12 @@ In die Sterbeurkunde werden aufgenommen
 
 
 ### Abschnitt 2 - Benutzung der Personenstandsregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG002200000)
 
 
 
 #### § 61 Allgemeine Vorschriften für die Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006200000)
 
 (1) Die §§ 62 bis 66 gelten für die Benutzung der bei den
 Standesämtern geführten Personenstandsregister und Sammelakten bis zum
@@ -1807,6 +1894,7 @@ Vorschriften für die Benutzung maßgebend.
 
 
 #### § 62 Urkundenerteilung, Auskunft, Einsicht
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006300000)
 
 (1) Personenstandsurkunden sind auf Antrag den Personen zu erteilen,
 auf die sich der Registereintrag bezieht, sowie deren Ehegatten,
@@ -1832,6 +1920,7 @@ Lebenspartnerschaftsregister die Lebenspartner.
 
 
 #### § 63 Benutzung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006402360)
 
 (1) Ist ein Kind angenommen, so darf abweichend von § 62 ein
 beglaubigter Registerausdruck aus dem Geburtseintrag nur den
@@ -1866,6 +1955,7 @@ in die Sammelakten.
 
 
 #### § 64 Sperrvermerke
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006500000)
 
 (1) Sind dem Standesamt Tatsachen bekannt, die die Annahme
 rechtfertigen, dass einer Person durch die Ausstellung einer
@@ -1901,6 +1991,7 @@ Sammelakten.
 
 
 #### § 65 Benutzung durch Behörden und Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006602116)
 
 (1) Behörden und Gerichten sind auf Ersuchen Personenstandsurkunden zu
 erteilen, Auskunft aus einem oder Einsicht in einen Registereintrag
@@ -1925,6 +2016,7 @@ Register zu versagen.
 
 
 #### § 66 Benutzung für wissenschaftliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006701116)
 
 (1) Hochschulen, anderen Einrichtungen, die wissenschaftliche
 Forschung betreiben, und öffentlichen Stellen kann Auskunft aus einem
@@ -1992,6 +2084,7 @@ Daten ist nur zulässig, wenn
 
 
 #### § 67 Zentrale Register
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006802116)
 
 (1) Die Länder dürfen zentrale Register einrichten zu dem Zweck, die
 Registereinträge der angeschlossenen Standesämter zu erfassen, ihre
@@ -2022,6 +2115,7 @@ angeschlossenen Standesamt fortgeführt werden dürfen.
 
 
 #### § 68 Datenaustausch zwischen Standesämtern, Behörden und Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE006902116)
 
 (1) Das Standesamt, das in einem Personenstandsregister eine
 Beurkundung vornimmt (§§ 3, 5), übermittelt Angaben hierüber von Amts
@@ -2088,6 +2182,7 @@ ist.
 
 
 #### § 68a Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008500116)
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
 Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
@@ -2124,10 +2219,12 @@ keine Anwendung.
 
 
 ## Kapitel 10 - Zwangsmittel, Bußgeldvorschriften, Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG002301116)
 
 
 
 ### § 69 Erzwingung von Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007000000)
 
 Wer auf Grund dieses Gesetzes zu Anzeigen oder zu sonstigen Handlungen
 verpflichtet ist, kann hierzu von dem Standesamt durch Festsetzung
@@ -2137,6 +2234,7 @@ vor der Festsetzung schriftlich anzudrohen.
 
 
 ### § 70 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007103116)
 
 (1) Ordnungswidrig handelt, wer entgegen § 11 Absatz 2, auch in
 Verbindung mit § 17 Satz 1, eine dort genannte Handlung begeht oder
@@ -2173,6 +2271,7 @@ Geldbuße bis zu eintausend Euro geahndet werden.
 
 
 ### § 71 Personenstandsbücher aus Grenzgebieten
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007200000)
 
 Die aus Anlass des deutsch-belgischen Vertrags vom 24. September 1956
 (BGBl. 1958 II S. 262, 353) und auf Grund des deutsch-niederländischen
@@ -2184,13 +2283,16 @@ Personenstandsregister gleich.
 
 
 ### § 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007301116)
 
 
 ## Kapitel 11 - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG002400000)
 
 
 
 ### § 73 Ermächtigungen zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007410360)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 im Benehmen mit dem Bundesministerium der Justiz und für
@@ -2351,6 +2453,7 @@ dieses Gesetzes Rechtsverordnungen zu erlassen über
 
 
 ### § 74 Rechtsverordnungen der Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007502116)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 
@@ -2388,10 +2491,12 @@ Ermächtigungen nach Absatz 1 auf oberste Landesbehörden übertragen.
 
 
 ## Kapitel 12 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNG002500000)
 
 
 
 ### § 75 Übergangsbeurkundung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007603116)
 
 Die zwischen dem 1. Januar 2009 und dem 31. Dezember 2013 in einem
 Papierregister beurkundeten Personenstandseinträge
@@ -2400,6 +2505,7 @@ werden; in diesem Fall gelten die §§ 3 bis 5 entsprechend.
 
 
 ### § 76 Fortführung, Benutzung und Aufbewahrung der Altregister
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007703116)
 
 (1) Altregister sind die bis zum 31. Dezember 2008 angelegten
 Personenstandsbücher sowie die seit dem 1. Januar 1876 geführten
@@ -2444,6 +2550,7 @@ Gründen nicht angezeigt ist.
 
 
 ### § 77 Fortführung, Aufbewahrung und Benutzung der Familienbücher
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007803116)
 
 (1) Die Familienbücher werden als Heiratseinträge fortgeführt; die
 bisherigen Heiratseinträge in den Heiratsbüchern werden nicht
@@ -2460,6 +2567,7 @@ ausgestellt.
 
 
 ### § 78 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE007902360)
 
 Die Vorschriften für Änderungen des Geschlechtseintrags und der
 Vornamen nach dem Gesetz über die Selbstbestimmung in Bezug auf den
@@ -2477,6 +2585,7 @@ geltenden Fassung
 
 
 ### § 79 Altfallregelung
+[Direktlink](https://www.gesetze-im-internet.de/pstg/BJNR012210007.html#BJNR012210007BJNE008201125)
 
 Für die Bearbeitung von Anträgen auf Beurkundung von
 Auslandspersonenstandsfällen und von namensrechtlichen Erklärungen,

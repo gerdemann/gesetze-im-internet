@@ -31,6 +31,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000000000)
 
 Es verordnen, jeweils in Verbindung mit § 1 des
 Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
@@ -58,6 +59,7 @@ und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
 
 
 ## § 1 Zweck und Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000104116)
 
 (1) Zweck dieser Verordnung ist es, für die Herstellung, die
 Beschaffung, die Bevorratung, die Verteilung und die Abgabe von
@@ -86,6 +88,7 @@ ist.
 
 
 ## § 2 Ausnahmen vom Vierten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000203116)
 
 (1) Abweichend von § 21 Abs. 1 des Arzneimittelgesetzes dürfen in § 1
 Abs. 2 genannte Arzneimittel auch dann in den Verkehr gebracht werden,
@@ -171,6 +174,7 @@ Gesundheit von Menschen ist.
 
 
 ## § 3 Ausnahmen vom Siebten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000302116)
 
 § 43 Absatz 1 Satz 1 und Absatz 3 des Arzneimittelgesetzes, § 47
 Absatz 1 des Arzneimittelgesetzes und § 48 Absatz 1 des
@@ -179,6 +183,7 @@ Arzneimittel keine Anwendung.
 
 
 ## § 4 Ausnahmen vom Dreizehnten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000402116)
 
 (1) § 73 Abs. 1 Satz 1 des Arzneimittelgesetzes findet keine
 Anwendung, wenn die in § 1 Abs. 2 genannten Arzneimittel von den
@@ -204,6 +209,7 @@ ihnen beauftragten Stellen.
 
 
 ## § 5 Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000502116)
 
 (1) Abweichend von § 8 Absatz 3 des Arzneimittelgesetzes dürfen in § 1
 Absatz 2 genannte Arzneimittel, deren Verfalldatum abgelaufen ist, in
@@ -239,6 +245,7 @@ Weise Zugang zu den erforderlichen Produktinformationen erhalten.
 
 
 ## § 5a Ausnahmen vom Dritten Abschnitt des Arzneimittelgesetzes und von der Arzneimittel- und Wirkstoffherstellungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE001001116)
 
 (1) Die zuständige Behörde kann das Inverkehrbringen von in § 1 Absatz
 2 genannten Arzneimitteln gestatten, die abweichend von den §§ 13 bis
@@ -277,6 +284,7 @@ Verteidigung.
 
 
 ## § 6 Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000600000)
 
 § 55 Abs. 8 des Arzneimittelgesetzes findet keine Anwendung, wenn die
 in § 1 Abs. 2 genannten Arzneimittel von den zuständigen obersten
@@ -290,6 +298,7 @@ anerkannten pharmazeutischen Regeln entsprachen.
 
 
 ## § 7 Ausnahmen vom Sechzehnten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000702116)
 
 (1) Pharmazeutische Unternehmer, Hersteller und Angehörige von
 Gesundheitsberufen unterliegen hinsichtlich der Auswirkungen der
@@ -323,11 +332,13 @@ genannten Arzneimittel keine Anwendung.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000800000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/amg1976zsausnv/BJNR085100003.html#BJNR085100003BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

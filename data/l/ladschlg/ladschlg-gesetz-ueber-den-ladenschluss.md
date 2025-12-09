@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000101308)
 
 
 
 ### § 1 Verkaufsstellen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE000806119)
 
 (1) Verkaufsstellen im Sinne dieses Gesetzes sind
 
@@ -54,6 +56,7 @@ Verkaufsstellen gemäß Absatz 1 sind.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE000902308)
 
 (1) Feiertage im Sinne dieses Gesetzes sind die gesetzlichen
 Feiertage.
@@ -67,10 +70,12 @@ Mengen sowie ausländische Geldsorten.
 
 
 ## Zweiter Abschnitt - Ladenschlusszeiten
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000201308)
 
 
 
 ### § 3 Allgemeine Ladenschlusszeiten
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001005308)
 
 Verkaufsstellen müssen zu folgenden Zeiten für den geschäftlichen
 Verkehr mit Kunden geschlossen sein:
@@ -92,6 +97,7 @@ Die beim Ladenschluss anwesenden Kunden dürfen noch bedient werden.
 
 
 ### § 4 Apotheken
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001102308)
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Apotheken an allen
 Tagen während des ganzen Tages geöffnet sein. An Werktagen während der
@@ -110,6 +116,7 @@ Dienstbereitschaft der Apotheken steht der Offenhaltung gleich.
 
 
 ### § 5 Zeitungen und Zeitschriften
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001203308)
 
 Abweichend von den Vorschriften des § 3 dürfen Kioske für den Verkauf
 von Zeitungen und Zeitschriften an Sonn- und Feiertagen von 11 bis 13
@@ -117,6 +124,7 @@ Uhr geöffnet sein.
 
 
 ### § 6 Tankstellen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001302308)
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Tankstellen an
 allen Tagen während des ganzen Tages geöffnet sein.
@@ -129,11 +137,13 @@ Betriebsstoffen und von Reisebedarf gestattet.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001405308)
 
 (weggefallen)
 
 
 ### § 8 Verkaufsstellen auf Personenbahnhöfen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001509119)
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Verkaufsstellen auf
 Personenbahnhöfen von Eisenbahnen und Magnetschwebebahnen, soweit sie
@@ -174,6 +184,7 @@ Maß zu begrenzen.
 
 
 ### § 9 Verkaufsstellen auf Flughäfen und in Fährhäfen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001608119)
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Verkaufsstellen auf
 Flughäfen an allen Tagen während des ganzen Tages geöffnet sein, am
@@ -199,6 +210,7 @@ erforderliche Maß zu begrenzen.
 
 
 ### § 10 Kur- und Erholungsorte
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001702308)
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen,
 dass und unter welchen Voraussetzungen und Bedingungen in Kurorten und
@@ -221,6 +233,7 @@ Offenhaltung auf bestimmte Ortsteile beschränkt werden.
 
 
 ### § 11 Verkauf in ländlichen Gebieten an Sonntagen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001804308)
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen können
 durch Rechtsverordnung bestimmen, dass und unter welchen
@@ -233,6 +246,7 @@ erforderlich ist.
 
 
 ### § 12 Verkauf bestimmter Waren an Sonntagen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE001906119)
 
 (1) Das Bundesministerium für Arbeit und Soziales bestimmt im
 Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und
@@ -256,11 +270,13 @@ Rechtsverordnung festgesetzt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002001308)
 
 (weggefallen)
 
 
 ### § 14 Weitere Verkaufssonntage
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002103308)
 
 (1) Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen
 Verkaufsstellen aus Anlass von Märkten, Messen oder ähnlichen
@@ -282,6 +298,7 @@ freigegebenen Sonn- und Feiertagen 40 nicht übersteigt.
 
 
 ### § 15 Sonntagsverkauf am 24. Dezember
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002202308)
 
 Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen, wenn der
 24\. Dezember auf einen Sonntag fällt,
@@ -301,15 +318,18 @@ während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002304308)
 
 (weggefallen)
 
 
 ## Dritter Abschnitt - Besonderer Schutz der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000301308)
 
 
 
 ### § 17 Arbeitszeit an Sonn- und Feiertagen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002405308)
 
 (1) In Verkaufsstellen dürfen Arbeitnehmer an Sonn- und Feiertagen nur
 während der ausnahmsweise zugelassenen Öffnungszeiten (§§ 4 bis 15 und
@@ -384,13 +404,16 @@ vorgebildete Arbeitnehmer in Apotheken keine Anwendung.
 
 
 ## Vierter Abschnitt - Bestimmungen für einzelne Gewerbezweige und für den Marktverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000401308)
 
 
 
 ### (XXXX) §§ 18 und 18a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002502308)
 
 
 ### § 19 Marktverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002702308)
 
 (1) Während der allgemeinen Ladenschlusszeiten (§ 3) dürfen auf
 behördlich genehmigten Groß- und Wochenmärkten Waren zum Verkauf an
@@ -410,6 +433,7 @@ Ausstellungen und Märkte.
 
 
 ### § 20 Sonstiges gewerbliches Feilhalten
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002804308)
 
 (1) Während der allgemeinen Ladenschlusszeiten (§ 3) ist auch das
 gewerbliche Feilhalten von Waren zum Verkauf an jedermann außerhalb
@@ -445,10 +469,12 @@ genannt, erlassen.
 
 
 ## Fünfter Abschnitt - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000501308)
 
 
 
 ### § 21 Auslage des Gesetzes, Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE002901308)
 
 (1) Der Inhaber einer Verkaufsstelle, in der regelmäßig mindestens ein
 Arbeitnehmer beschäftigt wird, ist verpflichtet,
@@ -475,6 +501,7 @@ genannten Gewerbetreibenden.
 
 
 ### § 22 Aufsicht und Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003001308)
 
 (1) Die Aufsicht über die Ausführung der Vorschriften dieses Gesetzes
 und der auf Grund dieses Gesetzes erlassenen Vorschriften üben, soweit
@@ -512,6 +539,7 @@ Arbeitnehmern.
 
 
 ### § 23 Ausnahmen im öffentlichen Interesse
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003106119)
 
 (1) Die obersten Landesbehörden können in Einzelfällen befristete
 Ausnahmen von den Vorschriften der §§ 3 bis 15 und 19 bis 21 dieses
@@ -530,10 +558,12 @@ Sinne des Absatzes 1 erlassen.
 
 
 ## Sechster Abschnitt - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000601308)
 
 
 
 ### § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003203308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -594,6 +624,7 @@ einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
 
 ### § 25 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003302308)
 
 Wer vorsätzlich als Inhaber einer Verkaufsstelle oder als
 Gewerbetreibender im Sinne des § 20 eine der in § 24 Abs. 1 Nr. 1
@@ -604,15 +635,18 @@ oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003401308)
 
 (weggefallen)
 
 
 ## Siebenter Abschnitt - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNG000701308)
 
 
 
 ### § 27 Vorbehalt für die Landesgesetzgebung
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003501308)
 
 Unberührt bleiben die landesrechtlichen Vorschriften, durch die der
 Gewerbebetrieb und die Beschäftigung von Arbeitnehmern in
@@ -621,6 +655,7 @@ beschränkt werden.
 
 
 ### § 28 Bestimmung der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003601308)
 
 Soweit in diesem Gesetz auf die nach Landesrecht zuständige
 Verwaltungsbehörde verwiesen wird, bestimmt die Landesregierung durch
@@ -628,10 +663,12 @@ Verordnung, welche Behörden zuständig sind.
 
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003702308)
 
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/ladschlg/BJNR008750956.html#BJNR008750956BJNE003901308)
 
 (Inkrafttreten, Außerkrafttreten)
 

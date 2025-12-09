@@ -20,9 +20,11 @@ Neugefasst durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000102119)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000205119)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -182,6 +184,7 @@ erfolgt ist.
 
 
 ### § 2 Hygiene
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000304119)
 
 (1) Der Unternehmer eines Hühnerzuchtbetriebes, eines
 Hühneraufzuchtbetriebes, eines Legehennenbetriebes, eines
@@ -212,6 +215,7 @@ Verhinderung der Übertragung von Salmonellen zu berücksichtigen.
 
 
 ### § 3 Impfung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000403119)
 
 Die zuständige Behörde kann für einen Betrieb, in dem
 
@@ -231,6 +235,7 @@ ist. § 12 bleibt unberührt.
 
 
 ### § 4 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000504119)
 
 (1) Der Unternehmer hat folgende Feststellungen nach § 1 Absatz 2
 Nummer 1 unverzüglich der zuständigen Behörde mitzuteilen:
@@ -260,6 +265,7 @@ Behörde mitzuteilen.
 
 
 ### § 5 Untersuchungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000603119)
 
 Der Leiter einer Untersuchungseinrichtung hat sicherzustellen, dass
 eine Untersuchung, die im Auftrage
@@ -306,6 +312,7 @@ durchgeführt wird.
 
 
 ### § 6 Ursachenermittlung im Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000704119)
 
 Der Unternehmer eines Hühnerzuchtbetriebes, eines
 Hühneraufzuchtbetriebes, eines Legehennenbetriebes, eines
@@ -320,6 +327,7 @@ entsprechend.
 
 
 ### § 7 Reinigung und Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000805119)
 
 (1) Im Falle der Feststellung von Salmonellen der Kategorie 1 hat der
 Unternehmer eines Hühnerzuchtbetriebes, eines Hühneraufzuchtbetriebes,
@@ -415,9 +423,11 @@ Hühnerbrüterei entsprechend.
 
 
 ## Abschnitt 2 - Hühnerzuchtbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000203119)
 
 
 ### § 8 Betriebseigene Kontrollen, sonstige Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE000905119)
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach
 Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat
@@ -538,6 +548,7 @@ spätestens 30 Tage nach Abschluss der Impfung mitzuteilen.
 
 
 ### § 9 Amtliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001104119)
 
 Im Falle einer Mitteilung nach § 4 Absatz 1 oder 3 kann die zuständige
 Behörde eine Untersuchung der betroffenen Herde nach Maßgabe der
@@ -546,6 +557,7 @@ Nummer 3 des Anhangs der Verordnung (EU) Nr. 200/2010 durchführen.
 
 
 ### § 10 Maßregeln nach Feststellung von Salmonellen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001204119)
 
 (1) Sind in einem Hühnerzuchtbetrieb Salmonellen der Kategorie 1
 festgestellt worden, dürfen Hühner und Eier aus dem betroffenen
@@ -664,6 +676,7 @@ verbracht werden.
 
 
 ### § 11 Aufhebung der Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001303119)
 
 (1) Die Maßregeln nach § 10 sind nicht mehr anzuwenden, sofern die
 Salmonellen der Kategorie 1 oder 2 im Sinne des Absatzes 2 bekämpft
@@ -709,9 +722,11 @@ worden sind.
 
 
 ## Abschnitt 3 - Hühneraufzuchtbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000304119)
 
 
 ### § 12 Impfungen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001404119)
 
 (1) Der Unternehmer eines Hühneraufzuchtbetriebes hat die Küken und
 Junghennen seines Bestandes gegen Salmonella Enteritidis mit einem für
@@ -740,6 +755,7 @@ Typhimurium zu impfen oder impfen zu lassen.
 
 
 ### § 13 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001504119)
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach
 Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat
@@ -793,6 +809,7 @@ entsprechend.
 
 
 ### § 14 Amtliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001704119)
 
 Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige
 Behörde eine Untersuchung der betroffenen Herde nach Maßgabe der
@@ -801,12 +818,14 @@ Verordnung (EU) Nr. 517/2011 durchführen.
 
 
 ### § 15 Maßregeln nach Feststellung von Salmonellen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001804119)
 
 Sind in einem Hühneraufzuchtbetrieb Salmonellen der Kategorie 1
 festgestellt worden, gilt § 10 entsprechend.
 
 
 ### § 16 Aufhebung der Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE001903119)
 
 (1) Die Maßnahmen nach § 15 sind nicht mehr anzuwenden, sofern
 Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
@@ -826,9 +845,11 @@ Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
 
 
 ## Abschnitt 4 - Legehennenbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000403119)
 
 
 ### § 17 Einstallen von Junghennen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002003119)
 
 Der Unternehmer eines Legehennenbetriebes darf Junghennen zum Zwecke
 der Konsumeierproduktion in seinen Betrieb nur einstallen, soweit sie
@@ -847,6 +868,7 @@ erwerbsmäßig gehalten werden.
 
 
 ### § 18 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002104119)
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach
 Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat
@@ -874,6 +896,7 @@ entsprechend.
 
 
 ### § 19 Amtliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002304119)
 
 Soweit durch epidemiologische Untersuchungen die Eier aus einem
 Legehennenbetrieb als Ursache einer Salmonellose bei Menschen
@@ -885,6 +908,7 @@ Verordnung (EU) Nr. 517/2011 durchzuführen.
 
 
 ### § 20 Maßregeln nach Feststellung von Salmonellen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002405119)
 
 (1) Sind in einem Legehennenbetrieb Salmonellen der Kategorie 1
 festgestellt worden, dürfen
@@ -933,6 +957,7 @@ Absatz 1 anordnen.
 
 
 ### § 21 Aufhebung der Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002503119)
 
 (1) Die Maßnahmen nach § 20 sind nicht mehr anzuwenden, sofern
 
@@ -961,9 +986,11 @@ Absatz 1 anordnen.
 
 
 ## Abschnitt 5 - Hähnchenmastbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000504119)
 
 
 ### § 22 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002604119)
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach
 Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat
@@ -983,6 +1010,7 @@ jeweiligen Aufzeichnung, aufzubewahren.
 
 
 ### § 23 Amtliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002804119)
 
 Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige
 Behörde eine Untersuchung der betroffenen Herde nach Maßgabe der
@@ -991,12 +1019,14 @@ Nummer 3 des Anhangs der Verordnung (EU) Nr. 200/2012 durchführen.
 
 
 ### § 24 Maßregeln nach Feststellung von Salmonellen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE002904119)
 
 Sind in einem Hähnchenmastbetrieb Salmonellen der Kategorie 1
 festgestellt worden, gilt § 10 Absatz 1 entsprechend.
 
 
 ### § 25 Aufhebung der Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003003119)
 
 (1) Die Maßnahmen nach § 24 sind nicht mehr anzuwenden, sofern die
 Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
@@ -1016,9 +1046,11 @@ Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
 
 
 ## Abschnitt 6 - Hühnerbrütereien
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000604119)
 
 
 ### § 26 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003104119)
 
 (1) Der Unternehmer einer Hühnerbrüterei hat sicherzustellen, dass aus
 jeder Charge Bruteier einer Zuchtherde mindestens eine Probe je Brüter
@@ -1069,6 +1101,7 @@ entsprechend.
 
 
 ### § 27 Amtliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003304119)
 
 (1) Soweit epidemiologische Untersuchungen in einem
 Hühneraufzuchtbetrieb oder in einem Hühnerzuchtbetrieb auf Salmonellen
@@ -1083,6 +1116,7 @@ Absatz 1 genannten Maßgabe durchführen.
 
 
 ### § 28 Maßregeln nach Feststellung von Salmonellen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003404119)
 
 (1) Werden in einer Hühnerbrüterei Salmonellen der Kategorie 1 oder 2
 festgestellt, so dürfen aus der betroffenen Hühnerbrüterei, im Falle
@@ -1122,6 +1156,7 @@ Buchstabe b geimpft werden.
 
 
 ### § 29 Aufhebung der Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003503119)
 
 (1) Die Maßnahmen nach § 28 sind nicht mehr anzuwenden, sofern die
 Salmonellen der Kategorie 1 oder 2 im Sinne des Absatzes 2 bekämpft
@@ -1165,9 +1200,11 @@ worden sind.
 
 
 ## Abschnitt 7 - Putenbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000903119)
 
 
 ### § 30 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE004103119)
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach
 Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat
@@ -1229,6 +1266,7 @@ Absatz 2 Satz 1 entsprechend.
 
 
 ### § 31 Amtliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE004303119)
 
 Im Falle einer Mitteilung nach § 4 Absatz 1 kann die zuständige
 Behörde eine Untersuchung der betroffenen Herde des Putenbetriebes
@@ -1239,6 +1277,7 @@ Verordnung (EU) Nr. 1190/2012 durchführen.
 
 
 ### § 32 Maßregeln nach Feststellung von Salmonellen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE004403119)
 
 Sind in einem Putenzuchtbetrieb, einem Putenmastbetrieb oder einer
 Putenbrüterei Salmonellen der Kategorie 1 festgestellt worden, dürfen
@@ -1297,6 +1336,7 @@ verbracht werden.
 
 
 ### § 33 Aufhebung der Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE004503119)
 
 (1) Die Maßnahmen nach § 32 sind nicht mehr anzuwenden, sofern die
 Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
@@ -1317,9 +1357,11 @@ Salmonellen der Kategorie 1 im Sinne des Absatzes 2 bekämpft sind.
 
 
 ## Abschnitt 8 - Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000703119)
 
 
 ### § 34 Maßregeln bei Salmonella Gallinarum Pullorum
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003603119)
 
 (1) Die zuständige Behörde kann Maßregeln nach den §§ 8 bis 11 für
 einen Geflügel haltenden Betrieb anordnen, wenn in diesem Salmonella
@@ -1331,6 +1373,7 @@ soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 ### § 35 Mitteilungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003706119)
 
 Die zuständige Behörde übermittelt dem Bundesministerium für Ernährung
 und Landwirtschaft zur Weitergabe an die Europäische Kommission
@@ -1354,9 +1397,11 @@ erforderlichen Angaben.
 
 
 ## Abschnitt 9 - Ordnungswidrigkeiten, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNG000803119)
 
 
 ### § 36 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE003805119)
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1468,6 +1513,7 @@ ist, verstößt, indem er vorsätzlich oder fahrlässig
 (zu § 2 Absatz 1)
 
 ### Anlage Anforderungen an gewerbsmäßige Geflügelhaltungen
+[Direktlink](https://www.gesetze-im-internet.de/h_salmov/BJNR075210009.html#BJNR075210009BJNE004004119)
 
 (Fundstelle: BGBl. 2023 I Nr. 381, S. 18 – 19)
 

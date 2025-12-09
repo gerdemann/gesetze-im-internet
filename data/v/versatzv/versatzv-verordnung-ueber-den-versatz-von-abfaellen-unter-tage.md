@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000100000)
 
 (1) Diese Verordnung gilt für die Verwertung von Abfällen, die in den
 unter Bergaufsicht stehenden untertägigen Grubenbauen als
@@ -41,6 +42,7 @@ untertägigen Endlagerung von radioaktiven Abfällen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000200000)
 
 Im Sinne dieser Verordnung sind
 
@@ -72,6 +74,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Vorrang der Rückgewinnung von Metallen
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000300000)
 
 Abfälle, welche die in Anlage 1 aufgeführten Metallgehalte erreichen,
 dürfen weder zur Herstellung von Versatzmaterial noch unmittelbar als
@@ -82,6 +85,7 @@ Verwertung durchführbar ist.
 
 
 ## § 4 Stoffliche Anforderungen an die Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000400000)
 
 (1) Der Einsatz von Abfällen zur Herstellung von Versatzmaterial sowie
 unmittelbar als Versatzmaterial ist nur zulässig, wenn die in Anlage 2
@@ -137,6 +141,7 @@ gefahrstoffrechtlichen Rechtsvorschriften ergeben, bleiben unberührt.
 
 
 ## § 5 Inverkehrbringen von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000500000)
 
 Abfälle dürfen zur Herstellung von Versatzmaterial sowie unmittelbar
 als Versatzmaterial nur in den Verkehr gebracht werden, um sie Anlagen
@@ -146,6 +151,7 @@ werden.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000600000)
 
 Werden aufgrund von vor dem 30. Oktober 2002 geltenden bergrechtlichen
 Zulassungen oder abgeschlossenen rechtsgültigen Entsorgungsverträgen
@@ -156,6 +162,7 @@ spätestens jedoch ab 1. März 2006, einzuhalten.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000701310)
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -171,6 +178,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Anlage 1 (zu § 2 Nr. 3, § 3, § 4 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000800000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2835
 
@@ -218,6 +226,7 @@ des jeweiligen Abfalls.
 
 
 ## Anlage 2 (zu § 4)
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE000901310)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2835 - 2836;
 bzgl. der einzelnen Änderungen Vgl. Fußnote)
@@ -474,6 +483,7 @@ Der wasserlösliche Anteil (Abdampfrückstand) soll 3 Masse-% nicht
 (zu § 4 Abs. 4)
 
 ## Anlage 3 Probenahme und Analytik
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE001000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2837 - 2838
 
@@ -727,6 +737,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 2837 - 2838
 
 
 ## Anhang 1
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE001100000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2839 - 2840
 ----------------------------------------------------------------------
@@ -830,6 +841,7 @@ Ort                    I         Probenehmer/Fahrer
 
 
 ## Anhang 2 Untersuchungsmethoden - Feststoffe
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE001200000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2841
 
@@ -1010,6 +1022,7 @@ niedergelegt.
 
 
 ## Anhang 3 Untersuchungsmethoden - Eluate
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE001300000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2842
 
@@ -1245,6 +1258,7 @@ niedergelegt.
 (zu § 4 Abs. 3 Satz 2)
 
 ## Anlage 4 Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
+[Direktlink](https://www.gesetze-im-internet.de/versatzv/BJNR283310002.html#BJNR283310002BJNE001401310)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2843 - 2847;
 bzgl. der einzelnen Änderungen vgl. Fußnote

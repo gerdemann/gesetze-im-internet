@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000100314)
 
 Auf Grund des § 7 Abs. 1 und des § 12 des Energiewirtschaftsgesetzes
 in der im Bundesgesetzblatt III, Gliederungsnummer 752-1,
@@ -28,6 +29,7 @@ Abs. 1 des Grundgesetzes verordnet der Bundesminister für Wirtschaft:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000202377)
 
 (1) Diese Verordnung regelt Zulässigkeit und Bemessung der Zahlung von
 Konzessionsabgaben der Energieversorgungsunternehmen im Sinne des § 3
@@ -49,6 +51,7 @@ nicht Tarifkunden sind.
 
 
 ## § 2 Bemessung und zulässige Höhe der Konzessionsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000303377)
 
 (1) Konzessionsabgaben dürfen nur in Centbeträge je gelieferter
 Kilowattstunde vereinbart werden.
@@ -268,6 +271,7 @@ werden, in der dies auch ohne seine Einschaltung zulässig wäre. Absatz
 
 
 ## § 3 Andere Leistungen als Konzessionsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000402377)
 
 (1) Neben oder anstelle von Konzessionsabgaben dürfen
 Versorgungsunternehmen und Gemeinde für einfache oder ausschließliche
@@ -315,6 +319,7 @@ genannten Leistungen vereinbart oder gewährt werden.
 
 
 ## § 4 Tarifgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000501377)
 
 (1) Konzessionsabgaben sind in den Entgelten für den Netzzugang und
 allgemeinen Tarifen auszuweisen. Gelten die Entgelte für den
@@ -336,6 +341,7 @@ erteilte Tarifgenehmigung wirksam wird.
 
 
 ## § 5 Abschlagszahlungen, Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000600314)
 
 (1) Abschlagszahlungen auf Konzessionsabgaben sind nur für abgelaufene
 Zeitabschnitte zulässig. Eine Verzinsung findet außer im Fall des
@@ -345,6 +351,7 @@ Verzuges nicht statt.
 
 
 ## § 6 Aufsichtsrechte und -maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000702377)
 
 (1) Die zuständige Behörde kann von Versorgungsunternehmen und
 Gemeinden die Auskünfte und Belege verlangen, die zur Überwachung der
@@ -355,6 +362,7 @@ Anwendung.
 
 
 ## § 7 Landkreise
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000800314)
 
 Landkreise können mit Versorgungsunternehmen Konzessionsabgaben
 vereinbaren, soweit die Landkreise aufgrund von Absprachen mit den
@@ -369,6 +377,7 @@ Gemeinden vereinbart sind.
 
 
 ## § 8 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE000901377)
 
 (1) Soweit Konzessionsabgaben bereits für Lieferungen im Jahre 1991
 vereinbart und gezahlt worden sind, sind diese Zahlungen spätestens
@@ -396,11 +405,13 @@ oder gezahlt werden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE001000314)
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kav/BJNR000120992.html#BJNR000120992BJNE001100314)
 
 Der Bundesrat hat zugestimmt.
 

@@ -19,15 +19,18 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/standog/BJNR156900993.html#BJNR156900993BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/standog/BJNR156900993.html#BJNR156900993BJNE000300314)
 
 
 ## Art 19 Neufassung der betroffenen Gesetze und der Rechtsverordnung, Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/standog/BJNR156900993.html#BJNR156900993BJNE000400314)
 
 (1) Das Bundesministerium der Finanzen kann den Wortlaut der durch die
 Artikel 4, 6, 7, 12 und 15 dieses Gesetzes geänderten Gesetze in der
@@ -40,6 +43,7 @@ Ermächtigungsgrundlagen durch Rechtsverordnung geändert werden.
 
 
 ## Art 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/standog/BJNR156900993.html#BJNR156900993BJNE000500314)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am Tage nach
 der Verkündung in Kraft.

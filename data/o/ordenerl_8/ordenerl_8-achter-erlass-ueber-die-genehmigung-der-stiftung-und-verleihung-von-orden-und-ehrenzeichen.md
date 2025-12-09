@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_8/BJNR374800002.html#BJNR374800002BJNE000100000)
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -26,6 +27,7 @@ Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_8/BJNR374800002.html#BJNR374800002BJNE000200000)
 
 Ich genehmige den in der Anlage wiedergegebenen Gemeinsamen Erlass des
 Bundesministers des Innern und des Bundesministers der Verteidigung
@@ -33,16 +35,19 @@ Bundesministers des Innern und des Bundesministers der Verteidigung
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_8/BJNR374800002.html#BJNR374800002BJNE000300000)
 
 Dieser Erlass tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_8/BJNR374800002.html#BJNR374800002BJNE000400000)
 
 Der Bundespräsident
 
 
 ## Anlage Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille "Fluthilfe 2002"
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_8/BJNR374800002.html#BJNR374800002BJNE000500000)
 
 Text siehe: FluthilfeMedErl
 

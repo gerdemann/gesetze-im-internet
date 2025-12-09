@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Anspruchsberechtigter, Fördergebiet
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000200000)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die im Fördergebiet begünstigte
@@ -36,6 +37,7 @@ Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.
 
 
 ## § 2 Begünstigte Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000301308)
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung
 von neuen abnutzbaren beweglichen Wirtschaftsgütern des
@@ -150,6 +152,7 @@ Anspruch nimmt. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 
 ## § 3 Begünstigte Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000400000)
 
 (1) Begünstigte Betriebe sind:
 
@@ -240,6 +243,7 @@ ausgeschlossen ist.
 
 
 ## § 4 Investitionszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000500000)
 
 (1) Investitionen sind begünstigt, wenn sie zu einem
 Erstinvestitionsvorhaben im Sinne des § 2 Abs. 3 gehören, mit dem der
@@ -283,6 +287,7 @@ angeschafft oder hergestellt sind.
 
 
 ## § 5 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000600000)
 
 Bemessungsgrundlage der Investitionszulage ist die Summe der
 Anschaffungs- und Herstellungskosten der im Wirtschaftsjahr oder
@@ -309,6 +314,7 @@ Anspruch auf Investitionszulage nach dem Investitionszulagengesetz
 
 
 ## § 6 Höhe der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000700000)
 
 (1) Die Investitionszulage beträgt vorbehaltlich der Absätze 4 und 5
 für begünstigte Investitionen eines Erstinvestitionsvorhabens
@@ -469,6 +475,7 @@ ist, in der eine höhere Beihilfeintensität festgelegt worden ist.
 
 
 ## § 7 Antrag auf Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000800000)
 
 (1) Der Antrag ist bei dem für die Besteuerung des
 Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu
@@ -485,6 +492,7 @@ einer Nachprüfung möglich ist.
 
 
 ## § 8 Gesonderte Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE000900000)
 
 (1) Werden die in einem Betrieb im Sinne des § 2 des
 Einkommensteuergesetzes erzielten Einkünfte nach § 180 Abs. 1 Nr. 2
@@ -507,6 +515,7 @@ erforderlichen Angaben sind in den Antrag nach § 7 Abs. 2 aufzunehmen.
 
 
 ## § 9 Einzelnotifizierungspflichten, Genehmigungsvorbehalte sowie anzuwendende Rechtsvorschriften der Kommission der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001000000)
 
 (1) Auf dieses Gesetz findet die Verordnung (EG) Nr. 800/2008 der
 Kommission vom 6. August 2008 zur Erklärung der Vereinbarkeit
@@ -568,6 +577,7 @@ ein Unternehmen in Schwierigkeiten bestimmt ist.
 
 
 ## § 10 Festsetzung und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001100000)
 
 Die Investitionszulage ist nach Ablauf des Wirtschaftsjahres oder
 Kalenderjahres festzusetzen und innerhalb eines Monats nach
@@ -576,6 +586,7 @@ Körperschaftsteuer auszuzahlen.
 
 
 ## § 11 Zusammentreffen mit anderen Regionalbeihilfen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001200000)
 
 (1) Trifft bei einem Erstinvestitionsvorhaben die Investitionszulage
 mit anderen Regionalbeihilfen oder „De-minimis“-Beihilfen im Sinne des
@@ -614,6 +625,7 @@ erforderlich sind.
 
 
 ## § 12 Verzinsung des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001300000)
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
 zuungunsten des Anspruchsberechtigten geändert worden, ist der
@@ -626,6 +638,7 @@ worden ist.
 
 
 ## § 13 Ertragsteuerrechtliche Behandlung der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001400000)
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
@@ -633,6 +646,7 @@ Anschaffungs- und Herstellungskosten.
 
 
 ## § 14 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001500000)
 
 Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung
 sind mit Ausnahme des § 163 entsprechend anzuwenden. In öffentlich-
@@ -642,6 +656,7 @@ gegeben.
 
 
 ## § 15 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001600000)
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des
 Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie
@@ -651,6 +666,7 @@ Steuerstraftaten entsprechend.
 
 
 ## § 16 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001700000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates weitere Bestimmungen
@@ -668,6 +684,7 @@ des Bundesrates anzupassen.
 
 
 ## § 17 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001800000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
@@ -675,6 +692,7 @@ bekannt zu machen.
 
 
 ## Anlage 1 (zu § 1 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE001900000)
 
 (Fundstelle: BGBl. I 2008, 2355)
 Teile des Landes Berlin, die nach der Fördergebietskarte 2007-2013
@@ -748,6 +766,7 @@ Verkehrszellen:
 
 
 ## Anlage 2 (zu § 3 Abs. 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2010/BJNR235010008.html#BJNR235010008BJNE002000000)
 
 (Fundstelle: BGBl. I 2008, 2355)
 Sensible Sektoren sind:

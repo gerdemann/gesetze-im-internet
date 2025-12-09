@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/BJNR186800998.html#BJNR186800998BJNE000100311)
 
 Um den Verlauf der gemeinsamen Landesgrenze zweckmäßig zu gestalten
 und in einigen Abschnitten an topographische Gegebenheiten anzupassen,
@@ -32,6 +33,7 @@ nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/BJNR186800998.html#BJNR186800998BJNE000200311)
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze. Die
 Änderungen sind in der Anlage auf 8 Kartenblättern graphisch
@@ -165,6 +167,7 @@ Staatsvertrages.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/BJNR186800998.html#BJNR186800998BJNE000300311)
 
 Das in den übergehenden Gebieten belegene Verwaltungsvermögen von
 Körperschaften des öffentlichen Rechts geht mit allen Rechten und
@@ -178,6 +181,7 @@ Sozialversicherung tätigen Körperschaften des öffentlichen Rechts.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/BJNR186800998.html#BJNR186800998BJNE000400311)
 
 (1) Die Länder und die betroffenen kommunalen Körperschaften werden
 dafür Sorge tragen, daß die mit den Grenzänderungen zusammenhängenden
@@ -192,6 +196,7 @@ Grundbuches erforderlichen Erklärungen abzugeben.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/BJNR186800998.html#BJNR186800998BJNE000500311)
 
 (1) Der Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden ausgetauscht.
@@ -201,6 +206,7 @@ Ratifikationsurkunden folgenden Monats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/BJNR186800998.html#BJNR186800998BJNE000600311)
 
 Für das Land Niedersachsen
 Für den Niedersächsischen Ministerpräsidenten

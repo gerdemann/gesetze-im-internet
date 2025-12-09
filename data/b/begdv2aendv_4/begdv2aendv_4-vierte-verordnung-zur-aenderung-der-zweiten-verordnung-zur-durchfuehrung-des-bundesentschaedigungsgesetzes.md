@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv2_ndv_4/BJNR018600961.html#BJNR018600961BJNE000100328)
 
 Auf Grund des § 42 des Bundesentschädigungsgesetzes in der Fassung des
 Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559) verordnet die
@@ -26,11 +27,13 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/begdv2_ndv_4/BJNR018600961.html#BJNR018600961BJNE000200328)
 
 -
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/begdv2_ndv_4/BJNR018600961.html#BJNR018600961BJNE000300328)
 
 Die Unanfechtbarkeit oder die Rechtskraft einer vor Verkündung dieser
 Verordnung ergangenen Entscheidung steht einer erneuten Entscheidung
@@ -38,6 +41,7 @@ auf Grund dieser Verordnung nicht entgegen.
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/begdv2_ndv_4/BJNR018600961.html#BJNR018600961BJNE000400328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG
@@ -45,6 +49,7 @@ auch im Land Berlin.
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/begdv2_ndv_4/BJNR018600961.html#BJNR018600961BJNE000500328)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1961 in Kraft.
 

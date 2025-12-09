@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2009/BJNR367100009.html#BJNR367100009BJNE000100000)
 
 Auf Grund des § 8 Absatz 2 Nummer 8 des Markengesetzes vom 25. Oktober
 1994 (BGBl. I S. 3082; 1995 I S. 156) wird bekannt gemacht, dass
@@ -32,11 +33,13 @@ September 2002 (BGBl. I S. 3754).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2009/BJNR367100009.html#BJNR367100009BJNE000200000)
 
 Bundesministerium der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2009/BJNR367100009.html#BJNR367100009BJNE000300000)
 
 (Fundstelle: BGBl. I 2009, 3671)
 

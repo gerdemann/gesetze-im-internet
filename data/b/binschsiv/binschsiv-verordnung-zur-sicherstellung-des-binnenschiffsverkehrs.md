@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE000400322)
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 2, der §§ 3 und 5
 Abs. 1 Satz 1, des § 19 Abs. 8 und des § 29 Nr. 2 des
@@ -30,10 +31,12 @@ auf Grund des § 5 Abs. 1 Satz 2 dieses Gesetzes die Bundesregierung:
 
 
 ## Erster Abschnitt - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNG000100322)
 
 
 
 ### § 1 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE000501123)
 
 (1) Binnenschiffe, die in einem Binnenschiffsregister der
 Bundesrepublik Deutschland eingetragen sind, mehr als 15 t
@@ -66,6 +69,7 @@ Schifffahrtsamt erstattet werden.
 
 
 ### § 2 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE000601123)
 
 (1) Die Meldung ist für jedes Binnenschiff schriftlich, mündlich oder
 fernmündlich mit folgenden Angaben zu erstatten:
@@ -117,6 +121,7 @@ verpflichten, ihr
 
 
 ### § 3 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE000703305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung
@@ -136,6 +141,7 @@ ermächtigt, durch Rechtsverordnung
 
 
 ### § 4 Sonstige Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE000801123)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann einzelne
 Personen und Personenvereinigungen sowie Einrichtungen, die Zwecken
@@ -164,10 +170,12 @@ erstatten über
 
 
 ## Zweiter Abschnitt - Lenkungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNG000200322)
 
 
 
 ### § 5 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE000901123)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann zur
 Sicherstellung des lebenswichtigen Verkehrs anordnen, daß bestimmte,
@@ -190,6 +198,7 @@ insbesondere bei einem Mangel an Binnenschiffen dringend geboten ist.
 
 
 ### § 6 Erteilung, Rücknahme und Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE001001123)
 
 (1) Die Erlaubnis wird erteilt, wenn lebenswichtige Interessen nicht
 entgegenstehen.
@@ -215,6 +224,7 @@ Erlaubnis ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 ### § 7 Zulassung von Binnenschiffen in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE001101123)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt kann ein
 Binnenschiff, das nicht zum Verkehr zugelassen ist, insbesondere, weil
@@ -225,6 +235,7 @@ befindlichen Personen und für die Schiffahrt nicht besteht.
 
 
 ### § 8 Maßnahmen für den Umschlag
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE001200322)
 
 (1) Der Eigentümer oder Besitzer von Umschlaganlagen in einem Hafen
 oder einer Umschlagstelle kann verpflichtet werden, beim Güterumschlag
@@ -243,10 +254,12 @@ die untere Verwaltungsbehörde zuständig.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNG000300322)
 
 
 
 ### § 9 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE001300322)
 
 Diese Verordnung findet mit Ausnahme des § 7 keine Anwendung auf
 Binnenschiffe, die im Eigentum des Bundes, der Länder, der Gemeinden
@@ -256,6 +269,7 @@ Gebrauch in Anspruch genommenen Binnenschiffe.
 
 
 ### § 10 Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE001401123)
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -318,6 +332,7 @@ Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 ### § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschsiv/BJNR001010981.html#BJNR001010981BJNE001503305)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.

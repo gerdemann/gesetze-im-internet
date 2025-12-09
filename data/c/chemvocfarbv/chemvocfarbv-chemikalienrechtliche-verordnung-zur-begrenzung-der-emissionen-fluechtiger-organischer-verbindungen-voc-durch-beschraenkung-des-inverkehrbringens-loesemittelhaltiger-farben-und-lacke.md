@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000100000)
 
 Auf Grund des § 14 Abs. 1 Nr. 3 Buchstabe a und c, des § 17 Abs. 1 Nr.
 1 Buchstabe a bis c sowie Abs. 5 des  Chemikaliengesetzes in der
@@ -30,6 +31,7 @@ verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000201308)
 
 Zweck dieser Verordnung ist es, den Gehalt an flüchtigen organischen
 Verbindungen in bestimmten Farben und Lacken zur Beschichtung von
@@ -41,6 +43,7 @@ verringern.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000302308)
 
 Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
@@ -145,6 +148,7 @@ Im Übrigen gelten die Begriffsbestimmungen des Chemikaliengesetzes.
 
 
 ## § 3 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000402308)
 
 (1) In Anhang I aufgeführte
 
@@ -195,6 +199,7 @@ Verkehr gebracht werden.
 
 
 ## § 4 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000500000)
 
 Der Hersteller oder Einführer hat die in Anhang I aufgeführten
 gebrauchsfertigen Produkte vor dem Inverkehrbringen, unbeschadet
@@ -214,6 +219,7 @@ b)  der maximale Gehalt an flüchtigen organischen Verbindungen des
 
 
 ## § 5 Überprüfung der Einhaltung der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000602124)
 
 (1) Der Hersteller oder Einführer eines in Anhang I aufgeführten
 Produktes hat die für die Berichterstattung an die Europäische
@@ -234,6 +240,7 @@ erteilte Erlaubnisse.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000700000)
 
 Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 5 Buchstabe c des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -242,6 +249,7 @@ rechtzeitig mit einem Etikett versieht.
 
 
 ## § 7 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000800000)
 
 Nach § 27 Abs. 1 Nr. 1, Abs. 2 bis 4 des Chemikaliengesetzes wird
 bestraft, wer entgegen § 3 Abs. 1 eine Farbe, einen Lack oder ein
@@ -249,16 +257,19 @@ Produkt in den Verkehr bringt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE000900000)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anhang I Geregelte gebrauchsfertige Produkte
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE001101308)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3511 - 3512;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -421,6 +432,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anhang II Grenzwerte für den VOC-Höchstgehalt
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE001201308)
 
 (Fundstelle: BGBl. I 2004, 3513 - 3514;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -815,6 +827,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anhang III Methoden gemäß § 3 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/chemvocfarbv/BJNR350800004.html#BJNR350800004BJNE001301308)
 
 (Fundstelle: BGBl. I 2013, 775)
 Zulässige Methode für Erzeugnisse mit einem VOC-Gehalt von weniger als

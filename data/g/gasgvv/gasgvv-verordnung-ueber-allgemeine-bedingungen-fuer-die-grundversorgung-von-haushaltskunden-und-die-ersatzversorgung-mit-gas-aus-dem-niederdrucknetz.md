@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000201377)
 
 (1) Diese Verordnung regelt die Allgemeinen Bedingungen, zu denen
 Gasversorgungsunternehmen Haushaltskunden in Niederdruck im Rahmen der
@@ -48,6 +50,7 @@ Gas durchführt.
 
 
 ### § 2 Vertragsschluss
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000304377)
 
 (1) Der Grundversorgungsvertrag soll in Textform abgeschlossen werden.
 Ist er auf andere Weise zustande gekommen, so hat der Grundversorger
@@ -175,6 +178,7 @@ Anschlussnutzers beglichen werden.
 
 
 ### § 3 Ersatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000403126)
 
 (1) Für die Ersatzversorgung nach § 38 des Energiewirtschaftsgesetzes
 gelten die § 2 Absatz 3 Satz 3, die §§ 4, 5 Absatz 1, die §§ 5a bis 8,
@@ -194,10 +198,12 @@ erforderlich ist; auf § 2 Absatz 2 ist hinzuweisen.
 
 
 ## Teil 2 - Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNG000200000)
 
 
 
 ### § 4 Bedarfsdeckung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000500000)
 
 Der Kunde ist für die Dauer des Grundversorgungsvertrages
 verpflichtet, seinen gesamten leitungsgebundenen Gasbedarf aus den
@@ -207,6 +213,7 @@ Energiequellen.
 
 
 ### § 5 Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000602311)
 
 (1) Welche Gasart für das Vertragsverhältnis maßgebend sein soll,
 ergibt sich aus der Gasart des jeweiligen Gasversorgungsnetzes der
@@ -240,6 +247,7 @@ innerhalb eines Monats nach Zugang der Kündigung nachweist.
 
 
 ### § 5a Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE002500311)
 
 (1) Bei Änderungen der Belastungen nach § 2 Absatz 3 Satz 1 Nummer 7,
 die in die Kalkulation des Allgemeinen Preises eingeflossen sind, ist
@@ -259,6 +267,7 @@ die Rechte des Kunden nach § 5 Absatz 3 bleiben unberührt.
 
 
 ### § 6 Umfang der Grundversorgung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000701377)
 
 (1) Der Grundversorger ist im Interesse des Kunden verpflichtet, die
 für die Durchführung der Grundversorgung erforderlichen Verträge mit
@@ -307,6 +316,7 @@ werden können.
 
 
 ### § 7 Erweiterung und Änderung von Anlagen und Verbrauchsgeräten; Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000800000)
 
 Erweiterungen und Änderungen von Kundenanlagen sowie die Verwendung
 zusätzlicher Gasgeräte sind dem Grundversorger mitzuteilen, soweit
@@ -316,10 +326,12 @@ Bedingungen regeln.
 
 
 ## Teil 3 - Aufgaben und Rechte des Grundversorgers
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNG000300000)
 
 
 
 ### § 8 Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE000903377)
 
 (1) Das vom Grundversorger gelieferte Gas wird durch die
 Messeinrichtungen nach den Vorschriften des
@@ -340,6 +352,7 @@ Messeinrichtung begründen.
 
 
 ### § 9 Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001001377)
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis
 versehenen Beauftragten des Netzbetreibers, des Messstellenbetreibers
@@ -354,6 +367,7 @@ dafür Sorge zu tragen, dass die Messeinrichtungen zugänglich sind.
 
 
 ### § 10 Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001100000)
 
 (1) Verbraucht der Kunde Gas unter Umgehung, Beeinflussung oder vor
 Anbringung der Messeinrichtungen oder nach Unterbrechung der
@@ -379,10 +393,12 @@ Zeitraum, der längstens sechs Monate betragen darf, erhoben werden.
 
 
 ## Teil 4 - Abrechnung der Energielieferung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNG000400000)
 
 
 
 ### § 11 Verbrauchsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001202377)
 
 (1) Für die Ermittlung des Verbrauchs für Zwecke der Abrechnung ist §
 40a des Energiewirtschaftsgesetzes anzuwenden.
@@ -407,6 +423,7 @@ erfolgt.
 
 
 ### § 12 Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001303377)
 
 (1) Der Gasverbrauch wird nach Maßgabe des § 40b Absatz 1 des
 Energiewirtschaftsgesetzes abgerechnet.
@@ -426,6 +443,7 @@ Grundversorger angesetzten Verbrauch nachweisen.
 
 
 ### § 13 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001400000)
 
 (1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann der
 Grundversorger für das nach der letzten Abrechnung verbrauchte Gas
@@ -449,6 +467,7 @@ gezahlte Abschläge unverzüglich zu erstatten.
 
 
 ### § 14 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001501377)
 
 (1) Der Grundversorger ist berechtigt, für den Gasverbrauch eines
 Abrechnungszeitraums Vorauszahlung zu verlangen, wenn nach den
@@ -476,6 +495,7 @@ Energiewirtschaftsgesetzes sind zu beachten.
 
 
 ### § 15 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001600000)
 
 (1) Ist der Kunde zur Vorauszahlung nach § 14 nicht bereit oder nicht
 in der Lage, kann der Grundversorger in angemessener Höhe Sicherheit
@@ -496,6 +516,7 @@ Vorauszahlung mehr verlangt werden kann.
 
 
 ### § 16 Rechnungen und Abschläge
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001702377)
 
 (1) Vordrucke für Rechnungen und Abschläge müssen einfach verständlich
 sein. Für Rechnungen und Abschläge ist § 40 Absatz 1 bis 4 des
@@ -508,6 +529,7 @@ Energiewirtschaftsgesetzes anzuwenden.
 
 
 ### § 17 Zahlung, Verzug
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001800000)
 
 (1) Rechnungen und Abschläge werden zu dem vom Grundversorger
 angegebenen Zeitpunkt, frühestens jedoch zwei Wochen nach Zugang der
@@ -552,6 +574,7 @@ aufgerechnet werden.
 
 
 ### § 18 Berechnungsfehler
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE001900000)
 
 (1) Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der
 Verkehrsfehlergrenzen oder werden Fehler in der Ermittlung des
@@ -576,10 +599,12 @@ diesem Fall ist der Anspruch auf längstens drei Jahre beschränkt.
 
 
 ## Teil 5 - Beendigung des Grundversorgungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNG000500000)
 
 
 
 ### § 19 Unterbrechung der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE002002377)
 
 (1) Der Grundversorger ist berechtigt, die Grundversorgung ohne
 vorherige Androhung durch den Netzbetreiber unterbrechen zu lassen,
@@ -737,6 +762,7 @@ Kosten nicht überschreiten.
 
 
 ### § 20 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE002103126)
 
 (1) Der Grundversorgungsvertrag kann mit einer Frist von zwei Wochen
 gekündigt werden. Eine Kündigung durch den Grundversorger ist nur
@@ -753,6 +779,7 @@ Lieferanten, verlangen.
 
 
 ### § 21 Fristlose Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE002201377)
 
 Der Grundversorger ist in den Fällen des § 19 Absatz 1 berechtigt, das
 Vertragsverhältnis fristlos zu kündigen, wenn die Voraussetzungen zur
@@ -764,16 +791,19 @@ entsprechend anzuwenden.
 
 
 ## Teil 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNG000600000)
 
 
 
 ### § 22 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE002300000)
 
 Gerichtsstand für die beiderseitigen Verpflichtungen aus dem
 Grundversorgungsvertrag ist der Ort der Gasabnahme durch den Kunden.
 
 
 ### § 23 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html#BJNR239600006BJNE002403126)
 
 Die erstmalige Veröffentlichung des Musters der Abwendungsvereinbarung
 des Grundversorgers auf dessen Internetseite nach § 2 Absatz 3 Satz 7

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ezbabkg/BJNR299520998.html#BJNR299520998BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ezbabkg/BJNR299520998.html#BJNR299520998BJNE000200305)
 
 Dem in Frankfurt am Main am 18. September 1998 unterzeichneten
 Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der
@@ -33,6 +35,7 @@ wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ezbabkg/BJNR299520998.html#BJNR299520998BJNE000300305)
 
 (1) Die Europäische Zentralbank nimmt als Wertpapiersammelbank am
 Geschäftsverkehr der Wertpapiersammelbanken teil.
@@ -44,6 +47,7 @@ Schuldtitel des Bundes anwendbaren Vorschriften.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ezbabkg/BJNR299520998.html#BJNR299520998BJNE000400305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

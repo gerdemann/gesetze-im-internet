@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000100000)
 
 Auf Grund des § 7 Abs. 4 Nr. 1 und Abs. 5 des
 Bundeseisenbahnneugliederungsgesetzes vom 27. Dezember 1993 (BGBl. I
@@ -33,6 +34,7 @@ Finanzen:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000300000)
 
 Für die Beamtinnen und Beamten des Bundeseisenbahnvermögens, die nach
 § 12 Abs. 1 bis 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember
@@ -46,6 +48,7 @@ Fassung, soweit sich aus dieser Verordnung nichts anderes ergibt.
 
 
 ## § 2 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000403124)
 
 Soweit die Bundeslaufbahnverordnung dem Bundesministerium des Innern,
 für Bau und Heimat Zuständigkeiten zuweist, werden sie im
@@ -54,6 +57,7 @@ und digitale Infrastruktur wahrgenommen.
 
 
 ## § 3 Leistungsgrundsatz, Förderung der Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000500000)
 
 (1) Der Leistungsgrundsatz der Bundeslaufbahnverordnung gilt mit der
 Maßgabe, dass Eignung, Befähigung und fachliche Leistung an den
@@ -65,6 +69,7 @@ Personalentwicklungskonzepten obliegen der Gesellschaft.
 
 
 ## § 4 Laufbahnen, Ämter
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000600000)
 
 (1) Die Laufbahnen beim Bundeseisenbahnvermögen für die Beamtinnen und
 Beamten im Geltungsbereich dieser Verordnung sind nach den Inhalten
@@ -81,6 +86,7 @@ dieser Verordnung offen.
 
 
 ## § 5 Laufbahn des höheren allgemeinen Verwaltungsdienstes und Laufbahn des höheren bautechnischen Verwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000700000)
 
 (1) Die Laufbahnen gehören zur Laufbahngruppe des höheren Dienstes und
 umfassen alle Ämter dieser Laufbahnen bis einschließlich
@@ -178,6 +184,7 @@ Verwaltungsdienstes nach den §§ 18 und 19 oder durch Übernahme nach §
 
 
 ## § 6 Laufbahn der Bundesbahninspektorinnen und Bundesbahninspektoren
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000800000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des gehobenen Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -252,6 +259,7 @@ den §§ 18 und 19 oder durch Übernahme nach § 20.
 
 
 ## § 7 Laufbahn der technischen Bundesbahninspektorinnen und technischen Bundesbahninspektoren
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE000900000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des gehobenen Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -333,6 +341,7 @@ Werkmeister nach den §§ 18 und 19 oder durch Übernahme nach § 20.
 
 
 ## § 8 Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001000000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -406,6 +415,7 @@ durch Übernahme nach § 20.
 
 
 ## § 9 Laufbahn der technischen Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001100000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -478,6 +488,7 @@ durch einen Laufbahnwechsel nach § 14.
 
 
 ## § 10 Laufbahn der Lokomotivführerinnen und Lokomotivführer
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001200000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -538,6 +549,7 @@ Lokomotivführer erfolgt durch einen Laufbahnwechsel nach § 14.
 
 
 ## § 11 Laufbahn der Werkmeisterinnen und Werkmeister
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001300000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -604,6 +616,7 @@ erfolgt durch einen Laufbahnwechsel nach § 14.
 
 
 ## § 12 Laufbahn der Betriebsaufseherinnen und Betriebsaufseher
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001400000)
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des einfachen Dienstes und
 umfasst alle Ämter dieser Laufbahn.
@@ -657,6 +670,7 @@ stehen oder sonst dem einfachen Dienst zugeordnet werden können.
 
 
 ## § 13 Stellenausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001500000)
 
 (1) Arbeitsplätze, die bei der Gesellschaft besetzt werden sollen,
 sind grundsätzlich auch für die in § 1 genannten Beamtinnen und
@@ -670,6 +684,7 @@ Dienstbehörde. § 93 des Betriebsverfassungsgesetzes bleibt unberührt.
 
 
 ## § 14 Laufbahnwechsel
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001601308)
 
 (1) Beim Wechsel in eine gleichwertige Laufbahn nach § 4 Abs. 1 Satz 3
 wird die Befähigung auf Grund der bisherigen Laufbahnbefähigung und
@@ -696,6 +711,7 @@ die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar
 
 
 ## § 15 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001700000)
 
 Dienstzeiten der in § 1 genannten Beamtinnen und Beamten bei der
 Gesellschaft gelten als Probezeit, wenn eine den Laufbahnanforderungen
@@ -705,6 +721,7 @@ von ihr bestimmte Stelle im Einvernehmen mit der Gesellschaft.
 
 
 ## § 16 Übertragung von höher bewerteten Dienstposten, Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001801308)
 
 (1) Die oberste Dienstbehörde legt fest, welcher Arbeitsplatz bei der
 Gesellschaft als höher bewerteter Dienstposten im Sinne von § 11 der
@@ -733,6 +750,7 @@ Erprobungszeit auf höher bewerteten Dienstposten zulassen.
 
 
 ## § 17 Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE001901308)
 
 (1) Beurlaubung und Zuweisung stehen einer Beförderung im Rahmen einer
 regelmäßigen Laufbahnentwicklung nicht entgegen.
@@ -746,6 +764,7 @@ gelten.
 
 
 ## § 18 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE002000000)
 
 (1) Der Aufstieg in die nächsthöhere Laufbahn nach § 19 dient der
 Leistungsmotivation und der optimalen Nutzung beruflicher Erfahrungen;
@@ -797,6 +816,7 @@ Verleihung eines Amtes der höheren Laufbahngruppe verliehen werden.
 
 
 ## § 19 Praxisaufstieg
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE002100000)
 
 (1) Zum Praxisaufstieg kann zugelassen werden, wer zu Beginn der
 Einführung
@@ -852,6 +872,7 @@ Feststellungsverfahren kann einmal wiederholt werden.
 
 
 ## § 20 Andere Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE002204305)
 
 Beamtinnen und Beamte können in die nächsthöhere Laufbahn auch
 übernommen werden, wenn sie auf Grund eines von der obersten
@@ -872,6 +893,7 @@ Februar 2009 (BGBl. I S. 160) geändert worden ist, bleibt unberührt.
 
 
 ## § 21 Dienstliche Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE002300000)
 
 (1) Die Gesellschaft beurteilt die Beamtinnen und Beamten.
 
@@ -881,6 +903,7 @@ obersten Dienstbehörde abgestimmt.
 
 
 ## § 22 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE002400000)
 
 (1) Die dienstliche Fortbildung wird durch die Gesellschaft geregelt.
 
@@ -910,6 +933,7 @@ fachliche Eignung nachzuweisen.
 
 
 ## § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/elv_2004/BJNR270300004.html#BJNR270300004BJNE002500000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

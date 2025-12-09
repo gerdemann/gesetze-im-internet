@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000204311)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
@@ -34,6 +35,7 @@ Rechtsverordnungen bleiben unberührt.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000302377)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -42,6 +44,7 @@ die Bundesfinanzverwaltung zuständig ist.
 
 
 ## § 3 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000405311)
 
 (1) Der Alkohol wird vom Zeitpunkt der Abgabe aus dem
 Interventionslager bis zu seiner Verwendung, Verarbeitung oder Ausfuhr
@@ -60,6 +63,7 @@ bis zum Verlassen des Zollgebiets der Gemeinschaft.
 
 
 ## § 4 Verwendung oder Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000504311)
 
 (1) Soll Alkohol aus einem Interventionslager im Geltungsbereich
 dieser Verordnung verwendet oder verarbeitet werden, so hat der
@@ -122,6 +126,7 @@ erfordert.
 
 
 ## § 5 Aufzeichnungspflichten, Aufbewahrungsfristen, Inventur
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000603311)
 
 (1) Soweit sich dies nicht bereits aus dem Alkoholsteuergesetz sowie
 den zu seiner Ausführung erlassenen Rechtsverordnungen ergibt, ist der
@@ -172,6 +177,7 @@ Branntweinsteuerverordnung sinngemäß.
 
 
 ## § 6 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000703377)
 
 Der Verwender oder Verarbeiter hat der überwachenden Stelle nach § 3
 Abs. 2 das Ende der Verwendung oder Verarbeitung unverzüglich
@@ -202,6 +208,7 @@ erforderlich, weitere Angaben fordern.
 
 
 ## § 7 Duldungs- und sonstige Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000802377)
 
 Zum Zwecke der Überwachung hat der Beteiligte den überwachenden
 Stellen nach § 3 Abs. 2 das Betreten der Geschäftsräume und
@@ -216,6 +223,7 @@ seine Kosten Listen mit den erforderlichen Angaben auszudrucken.
 
 
 ## § 8 Verpflichtete Person
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE000902377)
 
 Der Beteiligte hat die Verpflichtungen, die ihm gegenüber der
 überwachenden Stelle nach § 3 Abs. 2 obliegen, selbst zu erfüllen oder
@@ -226,6 +234,7 @@ Anzeige ebenfalls zu unterzeichnen.
 
 
 ## § 9 Verwendung oder Verarbeitung von Alkohol aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE001002377)
 
 (1) Alkohol, der in einem Interventionslager eines anderen
 Mitgliedstaates der Europäischen Gemeinschaft gelagert wurde und in
@@ -248,6 +257,7 @@ tritt.
 
 
 ## § 10 Verwendung oder Verarbeitung in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE001102377)
 
 Soll Alkohol aus einem Interventionslager in einen anderen
 Mitgliedstaat der Europäischen Gemeinschaft verbracht werden, um dort
@@ -262,6 +272,7 @@ Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
 
 
 ## § 11 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE001203360)
 
 (1) Soll Alkohol aus einem Interventionslager in unverändertem Zustand
 ausgeführt werden, übersendet die Bundesanstalt jeweils eine
@@ -288,6 +299,7 @@ dem Kontrollexemplar T5 anzugeben
 
 
 ## § 12 Muster, Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE001302377)
 
 Für die Mitteilung nach § 4 Abs. 1, die Anzeige nach § 6 Abs. 1 sowie
 den Antrag und die Anmeldung nach § 9 Abs. 2 kann das
@@ -299,6 +311,7 @@ verwenden.
 
 
 ## § 13 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/weinalkoabsv/BJNR007440990.html#BJNR007440990BJNE001502377)
 
 -
 

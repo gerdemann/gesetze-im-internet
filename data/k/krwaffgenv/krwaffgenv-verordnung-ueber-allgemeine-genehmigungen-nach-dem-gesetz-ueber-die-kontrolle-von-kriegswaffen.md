@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000100314)
 
 Auf Grund des § 3 Abs. 4, § 4 Abs. 2 und § 8 Abs. 1 und 4 des Gesetzes
 über die Kontrolle von Kriegswaffen vom 20. April 1961
@@ -28,6 +29,7 @@ Auf Grund des § 3 Abs. 4, § 4 Abs. 2 und § 8 Abs. 1 und 4 des Gesetzes
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000201377)
 
 Für die Beförderung von Kriegswaffen durch das Bundesgebiet wird eine
 Allgemeine Genehmigung erteilt, soweit die Kriegswaffen aus einem
@@ -38,6 +40,7 @@ der Europäischen Union bestimmt sind.
 
 
 ## § 1a
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000700377)
 
 Für die Beförderung von Kriegswaffen zum Zweck der Einfuhr in das
 Bundesgebiet wird eine Allgemeine Genehmigung erteilt, soweit die
@@ -46,6 +49,7 @@ werden und Empfänger der Kriegswaffen die Bundeswehr ist.
 
 
 ## § 1b
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000801377)
 
 Für die Beförderung von Kriegswaffen der Nummern 12, 16, 27, 28, 34,
 35, 36, 54, 56, 57 und 58 der Kriegswaffenliste zum Zweck der Einfuhr
@@ -58,6 +62,7 @@ Grund dieser Vorschrift erlassenen Rechtsverordnung zertifiziert ist.
 
 
 ## § 1c
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000901377)
 
 Für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes wird
 eine Allgemeine Genehmigung erteilt, soweit der Versender und der
@@ -67,6 +72,7 @@ Vorschrift erlassenen Rechtsverordnung zertifiziert sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000300314)
 
 (1) Die Beförderung von Kriegswaffen mit Seeschiffen, die die
 Bundesflagge führen, wird allgemein genehmigt, soweit
@@ -96,6 +102,7 @@ Bundesgebietes ausgeladen werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000400314)
 
 Die Beförderung von Kriegswaffen mit Seeschiffen, die die Bundesflagge
 führen, oder mit Luftfahrzeugen, die in die Luftfahrzeugrolle der
@@ -106,12 +113,14 @@ Buchstabe c genannten Staaten ausgeladen werden.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000601377)
 
 Die Allgemeinen Genehmigungen nach den §§ 1 bis 3 gelten nicht für die
 Beförderung von Antipersonenminen oder Streumunition.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv/BJNR515000961.html#BJNR515000961BJNE000500314)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

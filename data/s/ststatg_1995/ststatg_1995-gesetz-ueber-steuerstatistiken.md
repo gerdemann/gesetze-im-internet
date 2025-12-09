@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000110123)
 
 (1) Zur Beurteilung von Struktur und Wirkungsweise der Steuern und
 ihrer wirtschaftlichen und sozialen Bedeutung werden Bundesstatistiken
@@ -89,6 +90,7 @@ durch.
 
 
 ## § 2 Erhebungsmerkmale und Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE001501123)
 
 (1) Für die Umsatzsteuerstatistik werden jährlich folgende
 Erhebungsmerkmale erfasst:
@@ -313,6 +315,7 @@ durchgeführt.
 
 
 ## § 2a Statistische Aufbereitung von Daten aus der Einkommensbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE001104140)
 
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
 automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Lohn-
@@ -346,6 +349,7 @@ Forschungseinrichtungen weitergeben.
 
 
 ## § 2b Statistische Aufbereitung von Daten aus der Umsatz-, Körperschaft- und Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE001203123)
 
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
 automatisierten Besteuerungsverfahrens vorhandenen Angaben zur
@@ -359,6 +363,7 @@ dem Statistischen Bundesamt übertragen.
 
 
 ## § 2c Zusammenführung von Einzelangaben
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE001302123)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen die ihnen nach § 2b übermittelten Einzelangaben miteinander und
@@ -376,10 +381,12 @@ Steuerpflichtigen zusammenführen.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000302308)
 
 
 
 ## § 4 Kindergeldstatistik
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000405123)
 
 (1) Die Familienkasse Direktion der Bundesagentur für Arbeit erstellt
 aus den im Zusammenhang mit der Durchführung des
@@ -429,6 +436,7 @@ entsprechende Geschäftsstatistik nach den Absätzen 1 und 2 durch.
 
 
 ## § 5 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000506123)
 
 Als Hilfsmerkmale werden erfasst:
 
@@ -481,6 +489,7 @@ Bundesamt und den statistischen Ämtern der Länder gespeichert werden.
 
 
 ## § 6 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000604140)
 
 (1) Für die Statistiken nach diesem Gesetz besteht Auskunftspflicht.
 Auskunftspflichtig sind die Finanzbehörden der Länder und die zentrale
@@ -497,6 +506,7 @@ benötigt werden.
 
 
 ## § 7 Einzelangaben
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000707123)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 haben die Ergebnisse der statistischen Erhebungen unverzüglich zu
@@ -629,6 +639,7 @@ Gemeindeschlüssel der Wohnsitzgemeinde übermittelt werden.
 
 
 ## § 7a Zusammenführung von Einzelangaben
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE001405123)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen Einzelangaben aus den Statistiken nach § 1 Absatz 1 Nummer 1, 3
@@ -683,6 +694,7 @@ Forschungseinrichtungen weitergeben.
 
 
 ## § 8 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000800320)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Durchführung von
@@ -698,6 +710,7 @@ verbessert wird.
 
 
 ## § 9 Statistische Aufbereitung von Daten aus dem Vollzug der Steuergesetze
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE000901140)
 
 (1) Soweit auf dem Gebiet der Verbrauchsteuern sowie der
 Kraftfahrzeugsteuer und der Versicherungsteuer dem Statistischen
@@ -735,6 +748,7 @@ der Länder zu löschen.
 
 
 ## § 10 Fortgeltung des Steuergeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/ststatg_1995/BJNR140900995.html#BJNR140900995BJNE001000320)
 
 Die Pflicht zur Wahrung des Steuergeheimnisses bleibt für Personen,
 die in den statistischen Ämtern des Bundes und der Länder mit der

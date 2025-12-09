@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv_2/BJNR001300960.html#BJNR001300960BJNE000100328)
 
 Auf Grund der §§ 27, 42 und 126 des Bundesgesetzes zur Entschädigung
 für Opfer der nationalsozialistischen Verfolgung
@@ -28,11 +29,13 @@ Zustimmung des Bundesrates:
 
 
 ## (XXXX) Art I bis Art III (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv_2/BJNR001300960.html#BJNR001300960BJNE000200328)
 
 -
 
 
 ## Art IV Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv_2/BJNR001300960.html#BJNR001300960BJNE000300328)
 
 (1) Die Unanfechtbarkeit oder die Rechtskraft einer vor Verkündung
 dieser Verordnung ergangenen Entscheidung steht einer erneuten
@@ -54,6 +57,7 @@ worden sind.
 
 
 ## Art V Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv_2/BJNR001300960.html#BJNR001300960BJNE000400328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG
@@ -61,6 +65,7 @@ auch im Land Berlin.
 
 
 ## Art VI Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv_2/BJNR001300960.html#BJNR001300960BJNE000500328)
 
 Diese Verordnung tritt mit Ausnahme des Zweiten Abschnitts des
 Artikels III mit Wirkung vom 1. Oktober 1953 in Kraft. Der Zweite

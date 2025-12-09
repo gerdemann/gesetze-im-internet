@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versaillervtrabkbelgabest/BJNR012880921.html#BJNR012880921BJNE000100314)
 
 Auf Grund des Artikels 2 des Gesetzes betreffend das deutsch-belgische
 Abkommen zu Artikel 312 des Friedensvertrags vom 20. Juli 1921
@@ -26,10 +27,12 @@ Abkommen zu Artikel 312 des Friedensvertrags vom 20. Juli 1921
 
 
 ## (XXXX) §§ 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/versaillervtrabkbelgabest/BJNR012880921.html#BJNR012880921BJNE000200314)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/versaillervtrabkbelgabest/BJNR012880921.html#BJNR012880921BJNE000300314)
 
 Die Landesversicherungsanstalt Rheinprovinz ist zum Empfang der
 Rentenbeträge, die nach den Artikeln 11 bis 13 des Abkommens von
@@ -44,6 +47,7 @@ Landesversicherungsanstalt Rheinprovinz.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/versaillervtrabkbelgabest/BJNR012880921.html#BJNR012880921BJNE000400314)
 
 Die Höhe der nach Artikel 12 weiterzuzahlenden Renten bestimmt sich
 nach den bei Beginn des auf die Wohnsitzverlegung des Berechtigten
@@ -51,6 +55,7 @@ folgenden Monats geltenden gesetzlichen Vorschriften.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/versaillervtrabkbelgabest/BJNR012880921.html#BJNR012880921BJNE000500314)
 
 Die Landesversicherungsanstalt Rheinprovinz ist zum Empfang einer nach
 Artikel 16 des Abkommens von belgischer Seite zu leistenden Vergütung

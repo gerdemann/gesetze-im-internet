@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000100000)
 
 (1) Dieses Gesetz dient der Durchführung des Titels VI der Verordnung
 (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17.
@@ -84,6 +85,7 @@ Gesetz nur, soweit ein Land die jeweilige Prämie gewährt.
 
 
 ## § 2 Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000200000)
 
 (1) Ein Begünstigter im Sinne des Artikels 92 Satz 1 der Verordnung
 (EU) Nr. 1306/2013 (Begünstigter) ist verpflichtet,
@@ -144,6 +146,7 @@ eines behördlichen Planungsverfahrens nicht möglich ist.
 
 
 ## § 3 Erhaltung von Dauergrünland nach Artikel 93 Absatz 3 der Verordnung (EU) Nr. 1306/2013
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000300000)
 
 (1) Die Länder, die die Regionen im Sinne des Absatzes 2 bilden, haben
 zur Durchführung des Artikels 93 Absatz 3 der Verordnung (EU) Nr.
@@ -175,6 +178,7 @@ Satz 1 der Verordnung (EU) Nr. 1306/2013 durchführen.
 
 
 ## § 4 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000401119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
@@ -263,6 +267,7 @@ Behörde ihres Landes übertragen.
 
 
 ## § 5 Anwendung des Integrierten Verwaltungs- und Kontrollsystems
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000500000)
 
 (1) Das Integrierte Verwaltungs- und Kontrollsystem nach Titel V
 Kapitel II der Verordnung (EU) Nr. 1306/2013 und insbesondere die
@@ -290,10 +295,12 @@ Verordnung (EU) Nr. 1306/2013 sind nicht durchzuführen.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000601119)
 
 
 
 ## § 7 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflg/BJNR192810014.html#BJNR192810014BJNE000700000)
 
 (1) Die §§ 3 und 4 Absatz 3 Nummer 1 und 2 und Rechtsverordnungen auf
 Grund des § 4 Absatz 3 Nummer 1 und 2 sind mit Ablauf des 31. Dezember

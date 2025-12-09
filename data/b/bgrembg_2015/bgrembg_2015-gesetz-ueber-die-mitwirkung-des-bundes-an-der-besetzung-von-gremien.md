@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt G 11-1 v. 24.6.1994 I 1406, 1413 (BGremBG)
 
 ## § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bgrembg_2015/BJNR064210015.html#BJNR064210015BJNE000100000)
 
 Ziel des Gesetzes ist die paritätische Vertretung von Frauen und
 Männern in Gremien, soweit der Bund Mitglieder für diese bestimmen
@@ -28,6 +29,7 @@ kann.
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgrembg_2015/BJNR064210015.html#BJNR064210015BJNE000201377)
 
 Dieses Gesetz gilt für Aufsichtsgremien und wesentliche Gremien, für
 die der Bund Mitglieder bestimmen kann. Es gilt nicht für die
@@ -37,6 +39,7 @@ gesetzlich verbürgter Unabhängigkeit bestimmt werden.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgrembg_2015/BJNR064210015.html#BJNR064210015BJNE000301377)
 
 Im Sinne dieses Gesetzes sind:
 
@@ -98,6 +101,7 @@ Im Sinne dieses Gesetzes sind:
 
 
 ## § 4 Besetzung der Aufsichtsgremien und der wesentlichen Gremien
+[Direktlink](https://www.gesetze-im-internet.de/bgrembg_2015/BJNR064210015.html#BJNR064210015BJNE000401377)
 
 (1) In jedem Aufsichtsgremium mit mindestens zwei vom Bund zu
 bestimmenden Mitgliedern sollen unter den vom Bund zu bestimmenden
@@ -126,6 +130,7 @@ darzulegen.
 
 
 ## § 5 Statistik, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgrembg_2015/BJNR064210015.html#BJNR064210015BJNE000601377)
 
 (1) Die Institutionen des Bundes erfassen jährlich zum 31. Dezember
 
@@ -162,6 +167,7 @@ statistischen Daten nach Absatz 2 Satz 1.
 
 
 ## § 6 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/bgrembg_2015/BJNR064210015.html#BJNR064210015BJNE000701377)
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre
 eine Zusammenstellung und Auswertung der vom Bund vorgenommenen

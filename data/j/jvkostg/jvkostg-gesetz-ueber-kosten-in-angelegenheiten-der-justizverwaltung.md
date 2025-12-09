@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000204125)
 
 (1) Dieses Gesetz gilt für die Erhebung von Kosten (Gebühren und
 Auslagen) durch die Justizbehörden des Bundes in
@@ -76,6 +78,7 @@ werden.
 
 
 ### § 2 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000301125)
 
 (1) Der Bund und die Länder sowie die nach den Haushaltsplänen des
 Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen
@@ -96,6 +99,7 @@ ist, bleiben unberührt.
 
 
 ### § 3 Kostenfreie Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000400000)
 
 Keine Kosten mit Ausnahme der Dokumentenpauschale werden erhoben
 
@@ -131,6 +135,7 @@ Keine Kosten mit Ausnahme der Dokumentenpauschale werden erhoben
 
 
 ### § 4 Höhe der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000500000)
 
 (1) Kosten werden nach der Anlage zu diesem Gesetz erhoben.
 
@@ -150,6 +155,7 @@ Justizbehörde.
 
 
 ### § 5 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000600000)
 
 (1) Ansprüche auf Zahlung von Kosten verjähren in vier Jahren nach
 Ablauf des Kalenderjahrs, in dem die Kosten fällig geworden sind.
@@ -175,6 +181,7 @@ verzinst.
 
 
 ### § 5a Elektronische Akte, elektronisches Dokument, Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE003100125)
 
 Für die elektronische Akte, das elektronische Dokument sowie die
 Rechtsbehelfsbelehrung gelten die §§ 5a und 5b des
@@ -182,9 +189,11 @@ Gerichtskostengesetzes entsprechend.
 
 
 ## Abschnitt 2 - Fälligkeit und Sicherstellung der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000200000)
 
 
 ### § 6 Fälligkeit der Kosten im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000701125)
 
 (1) Kosten werden, soweit nichts anderes bestimmt ist, mit der
 Beendigung der gebührenpflichtigen Amtshandlung fällig. Wenn eine
@@ -204,12 +213,14 @@ jeweils am 31. Dezember für das abgelaufene Kalenderjahr fällig.
 
 
 ### § 7 Fälligkeit bestimmter Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000800000)
 
 Die Dokumentenpauschale sowie die Auslagen für die Versendung von
 Akten werden sofort nach ihrer Entstehung fällig.
 
 
 ### § 8 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE000900000)
 
 (1) Die Justizbehörde kann die Zahlung eines Kostenvorschusses
 verlangen.
@@ -219,6 +230,7 @@ Sicherstellung des Vorschusses abhängig machen.
 
 
 ### § 9 Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001000000)
 
 Urkunden, Ausfertigungen, Ausdrucke und Kopien können nach billigem
 Ermessen zurückbehalten werden, bis die in der Angelegenheit
@@ -226,9 +238,11 @@ erwachsenen Kosten bezahlt sind.
 
 
 ## Abschnitt 3 - Kostenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000300000)
 
 
 ### § 10 Ermäßigung der Gebühren und Absehen von der Kostenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001100000)
 
 Die Justizbehörde kann ausnahmsweise, wenn dies mit Rücksicht auf die
 wirtschaftlichen Verhältnisse des Kostenschuldners oder aus
@@ -237,6 +251,7 @@ der Erhebung der Kosten absehen.
 
 
 ### § 11 Absehen von der Kostenerhebung wegen des öffentlichen Interesses
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001201125)
 
 (1) Die Justizbehörde kann von der Erhebung der Gebühr für die
 Beglaubigung von Kopien, Ausdrucken, Auszügen und Dateien absehen,
@@ -260,6 +275,7 @@ Datenträgerpauschale ganz oder teilweise absehen, wenn
 
 
 ### § 12 Nichterhebung von Kosten in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001300000)
 
 Kosten in den Fällen des § 1 Absatz 3 werden nicht erhoben, wenn auf
 die Erstattung
@@ -284,15 +300,18 @@ Gerichtskostengesetz.
 
 
 ### § 13 Nichterhebung von Kosten bei unrichtiger Sachbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001400000)
 
 Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären,
 werden nicht erhoben.
 
 
 ## Abschnitt 4 - Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000400000)
 
 
 ### § 14 Amtshandlungen auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001502125)
 
 (1) Die Kosten für Amtshandlungen, die auf Antrag durchgeführt werden,
 schuldet, wer den Antrag gestellt hat, soweit nichts anderes bestimmt
@@ -307,6 +326,7 @@ Polizeivertrag-Umsetzungsgesetzes bleiben unberührt.
 
 
 ### § 15 Datenabruf aus einem Register oder dem Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001600000)
 
 Die Gebühren für den Abruf von Daten oder Dokumenten aus einem
 Register oder dem Grundbuch schuldet derjenige, der den Abruf tätigt.
@@ -316,12 +336,14 @@ derjenige, der sich zum Abrufverfahren angemeldet hat.
 
 
 ### § 15a Schutzschriftenregister
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002800311)
 
 Die Gebühr für die Einstellung einer Schutzschrift schuldet derjenige,
 der die Schutzschrift eingereicht hat.
 
 
 ### § 16 Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001701125)
 
 (1) Die Jahresgebühr für die Führung des Unternehmensregisters
 schuldet
@@ -350,12 +372,14 @@ registrierende Nutzer.
 
 
 ### § 16a Behördliche Schlichtung nach § 57a des Luftverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002900311)
 
 Die Gebühr 1220 des Kostenverzeichnisses schuldet nur das
 Luftfahrtunternehmen.
 
 
 ### § 17 Mahnung bei der Forderungseinziehung nach dem Justizbeitreibungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001801311)
 
 Die Gebühr für die Mahnung bei der Forderungseinziehung schuldet
 derjenige Kostenschuldner, der nach § 5 Absatz 2 des
@@ -363,6 +387,7 @@ Justizbeitreibungsgesetzes besonders gemahnt worden ist.
 
 
 ### § 18 Weitere Fälle der Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE001900000)
 
 Die Kosten schuldet ferner derjenige,
 
@@ -382,14 +407,17 @@ Die Kosten schuldet ferner derjenige,
 
 
 ### § 19 Mehrere Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002000000)
 
 Mehrere Kostenschuldner haften als Gesamtschuldner.
 
 
 ## Abschnitt 5 - Öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000500000)
 
 
 ### § 20 Übermittlung gerichtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002100000)
 
 (1) Für die Übermittlung gerichtlicher Entscheidungen in Form
 elektronisch auf Datenträgern gespeicherter Daten kann durch
@@ -411,6 +439,7 @@ verzichtet werden.
 
 
 ### § 21 Auskunft für wissenschaftliche Forschungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002200000)
 
 Erfordert die Erteilung einer Auskunft für wissenschaftliche
 Forschungsvorhaben aus den vom Bundesamt für Justiz geführten
@@ -420,9 +449,11 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 6 - Rechtsbehelf und gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000600000)
 
 
 ### § 22 Einwendungen und gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002302125)
 
 (1) Über Einwendungen gegen den Ansatz der Kosten oder gegen Maßnahmen
 nach den §§ 8 und 9 entscheidet das Amtsgericht, in dessen Bezirk die
@@ -439,9 +470,11 @@ Gerichtsbarkeit, in dessen Bezirk die Behörde ihren Sitz hat.
 
 
 ## Abschnitt 7 - Schluss- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNG000700000)
 
 
 ### § 23 Bekanntmachung von Neufassungen
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002402125)
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
 Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
@@ -462,6 +495,7 @@ angeben
 
 
 ### § 24 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002500000)
 
 Das bisherige Recht ist anzuwenden auf Kosten
 
@@ -490,6 +524,7 @@ Justizverwaltungskostengesetz verweist.
 
 
 ### § 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE002601125)
 
 (1) Die Justizverwaltungskostenordnung in der im Bundesgesetzblatt
 Teil III, Gliederungsnummer 363-1, veröffentlichten bereinigten
@@ -528,6 +563,7 @@ Gerichtskostengesetzes entsprechend anzuwenden.
 (zu § 4 Absatz 1)
 
 ### Anlage Kostenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/jvkostg/BJNR265500013.html#BJNR265500013BJNE003201125)
 
 (Fundstelle: BGBl. I 2013, 2660 - 2664;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

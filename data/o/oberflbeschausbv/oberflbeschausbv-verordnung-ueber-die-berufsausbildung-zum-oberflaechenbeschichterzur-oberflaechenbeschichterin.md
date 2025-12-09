@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und des § 25
@@ -30,6 +31,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000200000)
 
 Der Ausbildungsberuf Oberflächenbeschichter/Oberflächenbeschichterin
 wird
@@ -46,11 +48,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -161,6 +165,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000500000)
 
 (1) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 sollen nach
 der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -180,6 +185,7 @@ nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000600000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -187,6 +193,7 @@ zu erstellen.
 
 
 ## § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000700000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -196,6 +203,7 @@ durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -225,6 +233,7 @@ Ausführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE000900000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf
@@ -363,6 +372,7 @@ bestanden.
 
 
 ## § 9 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE001000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -371,12 +381,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Oberflächenbeschichter/ zur Oberflächenbeschichterin
+[Direktlink](https://www.gesetze-im-internet.de/oberflbeschausbv/BJNR114900005.html#BJNR114900005BJNE001200000)
 
 (Fundstelle: BGBl. I 2005, 1152 - 1159)
 

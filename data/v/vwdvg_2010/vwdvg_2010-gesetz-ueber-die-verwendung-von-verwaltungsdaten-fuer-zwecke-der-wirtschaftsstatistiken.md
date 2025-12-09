@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Übermittlung und Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000102126)
 
 (1) Die Finanzbehörden und die Bundesagentur für Arbeit übermitteln
 dem Statistischen Bundesamt und den statistischen Ämtern der Länder
@@ -86,6 +87,7 @@ und nach pflichtgemäßem Ermessen.
 
 
 ## § 2 Daten der Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000201126)
 
 Die Finanzbehörden übermitteln dem Statistischen Bundesamt und den
 statistischen Ämtern der Länder jeweils für deren
@@ -145,6 +147,7 @@ nach Satz 1 geliefert werden.
 
 
 ## § 3 Daten der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000300000)
 
 Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt
 folgende Daten von Betrieben, die für Beschäftigte Meldungen nach §
@@ -181,6 +184,7 @@ Das Statistische Bundesamt übermittelt die Daten an die statistischen
 
 
 ## § 3a Daten der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000600311)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem
 Statistischen Bundesamt folgende Daten der unter Bundesaufsicht
@@ -232,6 +236,7 @@ beschäftigten Personen entsprechend.
 
 
 ## § 3b Daten der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000701126)
 
 Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt
 erstmalig für das Berichtsjahr 2021 folgende Daten der zu den
@@ -273,6 +278,7 @@ statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 
 
 ## § 3c Daten über bewilligte staatliche finanzwirksame Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000800126)
 
 Bundesbehörden, die über die erforderlichen Daten verfügen,
 übermitteln dem Statistischen Bundesamt anlassbezogen zur
@@ -304,6 +310,7 @@ statistischen Ämter der Länder entsprechend.
 
 
 ## § 4 Rückfragen
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000401126)
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen zur Klärung von Unstimmigkeiten in den übermittelten Daten nach
@@ -321,6 +328,7 @@ stellen.
 
 
 ## § 5 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vwdvg_2010/BJNR148010010.html#BJNR148010010BJNE000501311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates weitere Daten zu Wirtschaftseinheiten

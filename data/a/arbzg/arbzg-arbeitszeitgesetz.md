@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000100307)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE000901377)
 
 Zweck des Gesetzes ist es,
 
@@ -41,6 +43,7 @@ Zweck des Gesetzes ist es,
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001001308)
 
 (1) Arbeitszeit im Sinne dieses Gesetzes ist die Zeit vom Beginn bis
 zum Ende der Arbeit ohne die Ruhepausen; Arbeitszeiten bei mehreren
@@ -69,10 +72,12 @@ zwei Stunden der Nachtzeit umfaßt.
 
 
 ## Zweiter Abschnitt - Werktägliche Arbeitszeit und arbeitsfreie Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000200307)
 
 
 
 ### § 3 Arbeitszeit der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001100307)
 
 Die werktägliche Arbeitszeit der Arbeitnehmer darf acht Stunden nicht
 überschreiten. Sie kann auf bis zu zehn Stunden nur verlängert werden,
@@ -81,6 +86,7 @@ im Durchschnitt acht Stunden werktäglich nicht überschritten werden.
 
 
 ### § 4 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001200307)
 
 Die Arbeit ist durch im voraus feststehende Ruhepausen von mindestens
 30 Minuten bei einer Arbeitszeit von mehr als sechs bis zu neun
@@ -92,6 +98,7 @@ Ruhepause beschäftigt werden.
 
 
 ### § 5 Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001302308)
 
 (1) Die Arbeitnehmer müssen nach Beendigung der täglichen Arbeitszeit
 eine ununterbrochene Ruhezeit von mindestens elf Stunden haben.
@@ -115,6 +122,7 @@ zu anderen Zeiten ausgeglichen werden.
 
 
 ### § 6 Nacht- und Schichtarbeit
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001400307)
 
 (1) Die Arbeitszeit der Nacht- und Schichtarbeitnehmer ist nach den
 gesicherten arbeitswissenschaftlichen Erkenntnissen über die
@@ -174,6 +182,7 @@ haben wie die übrigen Arbeitnehmer.
 
 
 ### § 7 Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001501308)
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer
 Betriebs- oder Dienstvereinbarung kann zugelassen werden,
@@ -319,6 +328,7 @@ Arbeitszeit eine Ruhezeit von mindestens elf Stunden gewährt werden.
 
 
 ### § 8 Gefährliche Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001600307)
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates für einzelne Beschäftigungsbereiche, für bestimmte
@@ -334,10 +344,12 @@ Bergaufsicht unterliegen.
 
 
 ## Dritter Abschnitt - Sonn- und Feiertagsruhe
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000300307)
 
 
 
 ### § 9 Sonn- und Feiertagsruhe
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001700307)
 
 (1) Arbeitnehmer dürfen an Sonn- und gesetzlichen Feiertagen von 0 bis
 24 Uhr nicht beschäftigt werden.
@@ -352,6 +364,7 @@ Sonn- und Feiertagsruhe um bis zu zwei Stunden vorverlegt werden.
 
 
 ### § 10 Sonn- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001802308)
 
 (1) Sofern die Arbeiten nicht an Werktagen vorgenommen werden können,
 dürfen Arbeitnehmer an Sonn- und Feiertagen abweichend von § 9
@@ -455,6 +468,7 @@ Mitgliedstaaten der Europäischen Union Feiertage sind.
 
 
 ### § 11 Ausgleich für Sonn- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE001901308)
 
 (1) Mindestens 15 Sonntage im Jahr müssen beschäftigungsfrei bleiben.
 
@@ -479,6 +493,7 @@ arbeitsorganisatorische Gründe nicht entgegenstehen.
 
 
 ### § 12 Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002001308)
 
 In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer
 Betriebs- oder Dienstvereinbarung kann zugelassen werden,
@@ -514,6 +529,7 @@ Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
 
 ### § 13 Ermächtigung, Anordnung, Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002100307)
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates zur Vermeidung erheblicher Schäden unter Berücksichtigung
@@ -612,10 +628,12 @@ werden kann.
 
 
 ## Vierter Abschnitt - Ausnahmen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000400307)
 
 
 
 ### § 14 Außergewöhnliche Fälle
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002203126)
 
 (1) Von den §§ 3 bis 5, 6 Abs. 2, §§ 7, 9 bis 11 darf abgewichen
 werden bei vorübergehenden Arbeiten in Notfällen und in
@@ -651,6 +669,7 @@ Kalendermonaten oder 24 Wochen nicht überschreiten.
 
 
 ### § 15 Bewilligung, Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002305377)
 
 (1) Die Aufsichtsbehörde kann
 
@@ -731,10 +750,12 @@ Kalendermonaten oder 24 Wochen nicht überschreiten.
 
 
 ## Fünfter Abschnitt - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000500307)
 
 
 
 ### § 16 Aushang und Arbeitszeitnachweise
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002403126)
 
 (1) Der Arbeitgeber ist verpflichtet, eine Kopie dieses Gesetzes, der
 auf Grund dieses Gesetzes erlassenen, für den Betrieb geltenden
@@ -754,6 +775,7 @@ Die Nachweise sind mindestens zwei Jahre aufzubewahren.
 
 
 ### § 17 Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002503126)
 
 (1) Die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen wird von den nach Landesrecht
@@ -799,10 +821,12 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## Sechster Abschnitt - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000600307)
 
 
 
 ### § 18 Nichtanwendung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002602377)
 
 (1) Dieses Gesetz ist nicht anzuwenden auf
 
@@ -836,6 +860,7 @@ anstelle dieses Gesetzes das Seearbeitsgesetz.
 
 
 ### § 19 Beschäftigung im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002700307)
 
 Bei der Wahrnehmung hoheitlicher Aufgaben im öffentlichen Dienst
 können, soweit keine tarifvertragliche Regelung besteht, durch die
@@ -845,6 +870,7 @@ finden die §§ 3 bis 13 keine Anwendung.
 
 
 ### § 20 Beschäftigung in der Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002800307)
 
 Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von
 Luftfahrzeugen gelten anstelle der Vorschriften dieses Gesetzes über
@@ -854,6 +880,7 @@ Luftfahrtgerät in der jeweils geltenden Fassung.
 
 
 ### § 21 Beschäftigung in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE002902119)
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates, auch zur Umsetzung zwischenstaatlicher Vereinbarungen
@@ -883,6 +910,7 @@ Binnenschifffahrt Rechnung zu tragen.
 
 
 ### § 21a Beschäftigung im Straßentransport
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE003501308)
 
 (1) Für die Beschäftigung von Arbeitnehmern als Fahrer oder Beifahrer
 bei Straßenverkehrstätigkeiten im Sinne der Verordnung (EG) Nr.
@@ -961,10 +989,12 @@ Arbeitnehmer legt diese Angaben schriftlich vor.
 
 
 ## Siebter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000700307)
 
 
 
 ### § 22 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE003005126)
 
 (1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder
 fahrlässig
@@ -1024,6 +1054,7 @@ geahndet werden.
 
 
 ### § 23 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE003100307)
 
 (1) Wer eine der in § 22 Abs. 1 Nr. 1 bis 3, 5 bis 7 bezeichneten
 Handlungen
@@ -1045,10 +1076,12 @@ Geldstrafe bis zu 180 Tagessätzen bestraft.
 
 
 ## Achter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNG000800307)
 
 
 
 ### § 24 Umsetzung von zwischenstaatlichen Vereinbarungen und Rechtsakten der EG
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE003200307)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates zur Erfüllung
 von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder zur
@@ -1058,6 +1091,7 @@ betreffen, Rechtsverordnungen nach diesem Gesetz erlassen.
 
 
 ### § 25 Übergangsregelung für Tarifverträge
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE003302308)
 
 Enthält ein am 1. Januar 2004 bestehender oder nachwirkender
 Tarifvertrag abweichende Regelungen nach § 7 Abs. 1 oder 2 oder § 12
@@ -1069,6 +1103,7 @@ Tarifvertrag zugelassene Betriebsvereinbarungen sowie Regelungen nach
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/arbzg/BJNR117100994.html#BJNR117100994BJNE003401308)
 
 (weggefallen)
 

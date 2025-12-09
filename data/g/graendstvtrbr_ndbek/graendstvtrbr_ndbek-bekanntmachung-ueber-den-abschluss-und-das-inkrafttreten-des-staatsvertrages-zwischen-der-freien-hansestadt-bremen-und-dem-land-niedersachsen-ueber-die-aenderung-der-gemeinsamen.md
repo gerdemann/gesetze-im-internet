@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbr_ndbek/BJNR062400010.html#BJNR062400010BJNE000100000)
 
 Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wurde
 am 5. Mai 2009 ein Staatsvertrag über die Änderung der gemeinsamen
@@ -47,6 +48,7 @@ Staatsvertrag nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbr_ndbek/BJNR062400010.html#BJNR062400010BJNE000200000)
 
 Bundesministerium des Innern
 

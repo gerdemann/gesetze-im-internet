@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/meistpr_glv/BJNR014200997.html#BJNR014200997BJNE000100320)
 
 Auf Grund des § 50a der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I. S. 1), der durch
@@ -32,6 +33,7 @@ Technologie:
 
 
 ## § 1 Gleichstellung von Meisterprüfungszeugnissen im Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/meistpr_glv/BJNR014200997.html#BJNR014200997BJNE000200320)
 
 Österreichische Zeugnisse über das Bestehen der Meisterprüfung werden
 den Zeugnissen über das Bestehen der Meisterprüfung im Handwerk nach
@@ -39,17 +41,20 @@ Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/meistpr_glv/BJNR014200997.html#BJNR014200997BJNE000300320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/meistpr_glv/BJNR014200997.html#BJNR014200997BJNE000400320)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ## Anlage Aufstellung der gleichgestellten Meisterprüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/meistpr_glv/BJNR014200997.html#BJNR014200997BJNE000500320)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 143
 

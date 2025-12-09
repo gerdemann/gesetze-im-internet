@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000200000)
 
 (1) Das Gesetz ist für Anlagen zur Erzeugung elektrischer Energie
 durch den Einsatz von Kohle in Deutschland anzuwenden. Es regelt die
@@ -50,6 +52,7 @@ Rechtsnachfolger des Anlagenbetreibers anzuwenden.
 
 
 ### § 2 Zweck und Ziele des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000300000)
 
 (1) Zweck des Gesetzes ist es, die Erzeugung elektrischer Energie
 durch den Einsatz von Kohle in Deutschland sozialverträglich,
@@ -87,6 +90,7 @@ Investitionsgesetzes Kohleregionen vom 8. August 2020 (BGBl. I S.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000401123)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -273,9 +277,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Teil 2 - Zielniveau, Ausschreibungsvolumen und Umfang der gesetzlichen Reduzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000200000)
 
 
 ### § 4 Zielniveau und Zieldaten
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000503119)
 
 (1) Das Zielniveau für die Reduzierung und Beendigung der
 Kohleverstromung ist bis zum 31. Dezember 2022 (Zieldatum 2022) 30
@@ -319,6 +325,7 @@ Zieldatum 2038 stillgelegt.
 
 
 ### § 5 Erreichen des Zielniveaus durch Ausschreibungen und die gesetzliche Reduzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000601123)
 
 (1) Das jeweilige Zielniveau für die Reduzierung der
 Steinkohleverstromung nach § 4 wird wie folgt erreicht:
@@ -350,6 +357,7 @@ Vermarktungsverbot nach § 52.
 
 
 ### § 6 Ermittlung des Ausschreibungsvolumens und des Umfangs der gesetzlichen Reduzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000701123)
 
 (1) Die Bundesnetzagentur ermittelt nach Absatz 2 ausschließlich im
 öffentlichen Interesse für jeden Gebotstermin das
@@ -377,6 +385,7 @@ ermittelten Ausschreibungsvolumen jeweils 1 Gigawatt addiert.
 
 
 ### § 7 Ermittlung des Ausgangsniveaus durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000802123)
 
 (1) Die Bundesnetzagentur ermittelt vor jedem Gebots- oder
 Anordnungstermin das Ausgangsniveau für die Ausschreibungen und für
@@ -466,6 +475,7 @@ Ausgangsniveaus statt.
 
 
 ### § 8 Beschleunigtes Verfahren zur Erfassung der Steinkohleanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE000900000)
 
 (1) Die Bundesnetzagentur veröffentlicht zur Ermittlung des
 Ausgangsniveaus für die Ausschreibungen für die Zieldaten 2022 und
@@ -515,6 +525,7 @@ Dampfsammelschienenblöcken nach § 13.
 
 
 ### § 9 Verbindliche Stilllegungsanzeige und verbindliche Kohleverfeuerungsverbotsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001000000)
 
 (1) Der Anlagenbetreiber einer Steinkohleanlage mit einer
 Nettonennleistung von 10 Megawatt oder mehr kann
@@ -568,9 +579,11 @@ unberührt.
 
 
 ## Teil 3 - Ausschreibungen zur Reduzierung der Steinkohleverstromung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000300000)
 
 
 ### § 10 Gegenstand der Ausschreibungen, Gebotstermine
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001101123)
 
 (1) Die Bundesnetzagentur ermittelt durch Ausschreibungen die zu
 bezuschlagenden Gebote und den Steinkohlezuschlag.
@@ -616,6 +629,7 @@ wird.
 
 
 ### § 11 Bekanntmachung der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001201123)
 
 (1) Die Bundesnetzagentur macht die Ausschreibung frühestens 14 Wochen
 und spätestens zehn Wochen vor dem jeweiligen Gebotstermin auf ihrer
@@ -661,6 +675,7 @@ Verfahrens durchgeführt werden.
 
 
 ### § 12 Teilnahmeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001302128)
 
 (1) Der Anlagenbetreiber kann sich mit einer Steinkohleanlage an einem
 Ausschreibungsverfahren nach Teil 3 beteiligen, sofern diese
@@ -771,6 +786,7 @@ Gesetz befinden.
 
 
 ### § 13 Zuordnung zu Dampfsammelschienenblöcken für die Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001400000)
 
 (1) Verfügt eine Steinkohleanlage über eine Dampfsammelschiene, kann
 der Anlagenbetreiber, vorbehaltlich § 29 Absatz 3 Satz 2, die
@@ -870,6 +886,7 @@ zugeordnet sind.
 
 
 ### § 14 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001502128)
 
 (1) Der Bieter muss das Gebot in Schriftform abgeben und hierbei
 jeweils die folgenden Angaben machen:
@@ -957,6 +974,7 @@ entsprechen, soweit die Bundesnetzagentur Formatvorgaben gemacht hat.
 
 
 ### § 15 Rücknahme von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001600000)
 
 (1) Die Rücknahme von Geboten ist bis zu dem jeweiligen Gebotstermin
 zulässig. Maßgeblich ist der Zugang der Rücknahmeerklärung bei der
@@ -972,6 +990,7 @@ erhalten hat.
 
 
 ### § 16 Ausschluss von Bietern
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001700000)
 
 Die Bundesnetzagentur kann einen Bieter und dessen Gebote von dem
 Zuschlagsverfahren ausschließen, wenn der Bieter vorsätzlich oder grob
@@ -984,6 +1003,7 @@ einer vorangegangenen Ausschreibung abgegebenen Gebote getroffen hat.
 
 
 ### § 17 Ausschluss von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001800000)
 
 Die Bundesnetzagentur schließt Gebote vom Zuschlagsverfahren aus, wenn
 
@@ -1019,6 +1039,7 @@ nach Aufforderung zur Nachbesserung zu geben.
 
 
 ### § 18 Zuschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE001901123)
 
 (1) Die Bundesnetzagentur führt bei jeder Ausschreibung ein
 Zuschlagsverfahren durch. Hierbei öffnet sie die fristgerecht
@@ -1152,6 +1173,7 @@ Gebotsmenge.
 
 
 ### § 19 Höchstpreis
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002001123)
 
 (1) Der Höchstpreis in den Ausschreibungen ist
 
@@ -1187,6 +1209,7 @@ abgegebene Gebotswert.
 
 
 ### § 20 Verfahren bei Unterzeichnung der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002100000)
 
 (1) Soweit in einer Ausschreibung die Summe der Gebotsmenge der
 zugelassenen Gebote das Ausschreibungsvolumen nicht übersteigt
@@ -1212,6 +1235,7 @@ Bestimmungen nach Teil 4 anzuwenden.
 
 
 ### § 21 Zuschlagstermine, Erteilung der Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002200000)
 
 (1) Die Bundesnetzagentur erteilt die Zuschläge frühestens acht Wochen
 und spätestens drei Monate nach dem Gebotstermin nach § 10 Absatz 2
@@ -1228,6 +1252,7 @@ Gebot keinen Zuschlag erhalten hat, zu dem Zuschlagstermin nach Absatz
 
 
 ### § 22 Unterrichtung der für den Vollzug des Bundes-Immissionsschutzgesetzes zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002300000)
 
 Die Bundesnetzagentur unterrichtet die für den Vollzug des Bundes-
 Immissionsschutzgesetzes zuständige Behörde sowie das Bundesamt für
@@ -1239,6 +1264,7 @@ Immissionsschutzgesetzes sind entsprechend anzuwenden.
 
 
 ### § 23 Anspruch auf den Steinkohlezuschlag, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002400000)
 
 Der Anlagenbetreiber, der einen Zuschlag nach § 21 erhält, hat ab
 Bestandskraft des Zuschlags einen Anspruch gegen die Bundesrepublik
@@ -1248,6 +1274,7 @@ Kohleverfeuerung für die jeweilige Steinkohleanlage wirksam wird.
 
 
 ### § 24 Öffentliche Bekanntmachung der Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002500000)
 
 Die Bundesnetzagentur gibt das Ergebnis der Ausschreibung mit den
 folgenden Angaben auf ihrer Internetseite bekannt:
@@ -1286,6 +1313,7 @@ Der Zuschlag ist eine Woche nach der Veröffentlichung nach Satz 1 als
 
 
 ### § 25 Verhältnis der Steinkohleausschreibung zur Kapazitätsreserve
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002600000)
 
 Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen
 an Beschaffungsverfahren nach § 13e des Energiewirtschaftsgesetzes in
@@ -1297,6 +1325,7 @@ Absatz 1 unberührt.
 
 
 ### § 26 Gewährleistung der Netzsicherheit bei der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002703128)
 
 (1) Die Bundesnetzagentur übermittelt die Namen der Steinkohleanlagen,
 die einen Zuschlag erhalten haben, und den jeweiligen Kalendertag, ab
@@ -1361,9 +1390,11 @@ bleibt Absatz 2 Nummer 1 und 2 unberührt.
 
 
 ## Teil 4 - Gesetzliche Reduzierung der Steinkohleverstromung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000400000)
 
 
 ### § 27 Gesetzliche Reduzierung, Anordnungstermine
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002801123)
 
 (1) Die Bundesnetzagentur legt jeweils 31 Monate vor dem jeweiligen
 Zieldatum und beginnend für das Zieldatum 2027 durch Anordnung der
@@ -1380,6 +1411,7 @@ jeweils wirksam wird.
 
 
 ### § 28 Gesetzliche Reduktionsmenge
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE002901123)
 
 (1) Die Reduktionsschritte der gesetzlichen Reduzierung erfolgen gemäß
 der nach § 6 für das jeweilige Zieldatum ermittelten gesetzlichen
@@ -1394,6 +1426,7 @@ Anordnung der gesetzlichen Reduzierung für dieses Zieldatum.
 
 
 ### § 29 Verfahren der Reihung durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003001123)
 
 (1) Die Bundesnetzagentur veröffentlicht zur Ermittlung der Reihung
 auf Grundlage der Erfassung nach § 8 und des Monitorings nach § 35
@@ -1505,6 +1538,7 @@ Formatvorgaben machen.
 
 
 ### § 30 Zuordnung zu Dampfsammelschienenblöcken für die gesetzliche Reduzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003100000)
 
 (1) Verfügt eine Steinkohleanlage über eine Dampfsammelschiene und hat
 der Anlagenbetreiber nicht bereits im Rahmen eines Gebotsverfahrens
@@ -1528,6 +1562,7 @@ Wirksamkeit, auch für eine Teilnahme an späteren Ausschreibungen.
 
 
 ### § 31 Investitionen in Steinkohleanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003202123)
 
 (1) Die Bundesnetzagentur berücksichtigt bei der Erstellung der
 Reihung nach § 29 Investitionen in eine Steinkohleanlage, deren Umfang
@@ -1618,6 +1653,7 @@ anzuwenden.
 
 
 ### § 32 Aktualisierung der Reihung, Pflichten der Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003302123)
 
 (1) Die Bundesnetzagentur veröffentlicht eine aktualisierte Fassung
 der Reihung nach § 29 auf ihrer Internetseite (aktualisierte Reihung)
@@ -1678,6 +1714,7 @@ der vorherigen Ausschreibung.
 
 
 ### § 33 Anordnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003401123)
 
 (1) Die Bundesnetzagentur ermittelt ab dem Zieldatum 2027 zu jedem
 Anordnungstermin die Reduktionsmenge nach § 6 für die gesetzliche
@@ -1697,6 +1734,7 @@ entsprechend anzuwenden.
 
 
 ### § 34 Netzanalyse und Prüfung der Aussetzung der Anordnung der gesetzlichen Reduzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003500000)
 
 (1) Die Betreiber von Übertragungsnetzen mit Regelverantwortung legen
 dem Bundesministerium für Wirtschaft und Energie und der
@@ -1751,6 +1789,7 @@ aktualisiert.
 
 
 ### § 35 Anordnung der gesetzlichen Reduzierung und deren Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003600000)
 
 (1) Die Bundesnetzagentur ordnet gegenüber den Anlagenbetreibern der
 nach § 33 Absatz 2 bestimmten Steinkohleanlagen spätestens zum
@@ -1787,6 +1826,7 @@ Immissionsschutzgesetzes sind entsprechend anzuwenden.
 
 
 ### § 36 Verhältnis der gesetzlichen Reduzierung zur Kapazitätsreserve
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003700000)
 
 Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35
 Absatz 1 angeordnet ist, dürfen an einem Beschaffungsverfahren nach §
@@ -1798,6 +1838,7 @@ Vermarktungsverbot nach § 52 Absatz 1 unberührt.
 
 
 ### § 37 Gewährleistung der Netzsicherheit bei der gesetzlichen Reduzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003800000)
 
 (1) Die Bundesnetzagentur übermittelt die Namen der Steinkohleanlagen,
 die eine Anordnung der gesetzlichen Reduzierung erhalten haben, und
@@ -1847,6 +1888,7 @@ anzuwenden.
 
 
 ### § 38 Steinkohle-Kleinanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE003900000)
 
 § 20 Absatz 3 ist nicht auf Steinkohle-Kleinanlagen anzuwenden. Für
 Steinkohle-Kleinanlagen darf abweichend von § 35 Absatz 1 die
@@ -1862,6 +1904,7 @@ behandelt.
 
 
 ### § 39 Härtefälle
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004000000)
 
 (1) Ordnet die Bundesnetzagentur gegenüber einem Anlagenbetreiber die
 gesetzliche Reduzierung gemäß § 35 Absatz 1 an und stellt die
@@ -1887,9 +1930,11 @@ innerhalb der Frist nach § 51 Absatz 2 Nummer 2 vollendet wird.
 
 
 ## Teil 5 - Reduzierung und Beendigung der Braunkohleverstromung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000500000)
 
 
 ### § 40 Stilllegung von Braunkohleanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004101128)
 
 (1) Zur Reduzierung und Beendigung der Braunkohleverstromung gemäß den
 Zielen in den §§ 2 und 4 legen die Anlagenbetreiber ihre in der Anlage
@@ -1912,6 +1957,7 @@ nicht verlängert wird.
 
 
 ### § 41 Wahlrechte im Stilllegungspfad
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004201128)
 
 (1) In den in Anlage 2 in der Spalte „Wahlrecht“ genannten Fällen hat
 der jeweilige Anlagenbetreiber ein Wahlrecht jeweils zwischen den zwei
@@ -1948,6 +1994,7 @@ Ausübung seines Wahlrechts.
 
 
 ### § 42 Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004302123)
 
 (1) Erfolgt die endgültige Stilllegung einer Braunkohleanlage zu dem
 Stilllegungszeitpunkt oder soweit in Anlage 2 vorgesehen die
@@ -1983,6 +2030,7 @@ Anforderung ist spätestens ein Jahr vor dem Stilllegungszeitpunkt zu
 
 
 ### § 43 Braunkohle-Kleinanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004400000)
 
 Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden
 bei der Ermittlung des Ausschreibungsvolumens und der gesetzlichen
@@ -1994,6 +2042,7 @@ genannten Braunkohle-Kleinanlagen entsprechend anzuwenden.
 
 
 ### § 44 Entschädigung für die Stilllegung von Braunkohleanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004501128)
 
 (1) Für die endgültige und sozialverträgliche Stilllegung von
 Braunkohleanlagen nach Anlage 2 hat die RWE Power AG Anspruch auf eine
@@ -2034,6 +2083,7 @@ stillgelegt, verbleibt es bei der Entschädigung nach Absatz 1.
 
 
 ### § 45 Auszahlungsmodalitäten
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004603128)
 
 (1) Die Entschädigung nach § 44 Absatz 1 wird im Falle der Zahlung an
 die Zweckgesellschaften nach § 44 Absatz 2 in jährlichen Raten jeweils
@@ -2129,6 +2179,7 @@ Nominalbetrag von 100 Millionen Euro nicht überschreiten.
 
 
 ### § 46 Ausschluss Kohleersatzbonus
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004700000)
 
 Für in Anlage 2 benannte Braunkohleanlagen kann weder der Anspruch auf
 die Erhöhung des Zuschlags für KWK-Strom nach § 7 Absatz 2 des Kraft-
@@ -2138,6 +2189,7 @@ Kopplungsgesetzes geltend gemacht werden.
 
 
 ### § 47 Überprüfung der vorzeitigen Stilllegung; Weiterbetrieb und Reserve
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004802119)
 
 (1) Im Rahmen der umfassenden Überprüfung nach den §§ 54 und 56 in den
 Jahren 2026, 2029 und 2032 wird bezüglich der Stilllegung der
@@ -2172,6 +2224,7 @@ Dezember 2033 überführt werden sollen.
 
 
 ### § 48 Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE004901119)
 
 (1) Die energiepolitische und energiewirtschaftliche Notwendigkeit und
 der vordringliche Bedarf zur Gewährleistung einer sicheren und
@@ -2193,6 +2246,7 @@ fachrechtlichen Zulassungen des Landes Nordrhein-Westfalen nicht aus.
 
 
 ### § 49 Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005001119)
 
 Zur Reduzierung und Beendigung der Braunkohleverstromung kann das
 Bundesministerium für Wirtschaft und Energie für die Bundesrepublik
@@ -2213,6 +2267,7 @@ geregelt werden. Der Vertrag bedarf der Zustimmung des Bundestages.
 
 
 ### § 50 Zeitlich gestreckte Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005102128)
 
 (1) Braunkohleanlagen werden, sofern und solange dies nach § 40 in
 Verbindung mit Anlage 2 vorgesehen ist, vorläufig stillgelegt und
@@ -2370,9 +2425,11 @@ Stilllegung befinden, bis zum 31. Dezember 2029 endgültig stillgelegt.
 
 
 ## Teil 6 - Verbot der Kohleverfeuerung, Neubauverbot
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000600000)
 
 
 ### § 51 Verbot der Kohleverfeuerung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005202123)
 
 (1) Erhält der Anlagenbetreiber für eine Steinkohleanlage einen
 Zuschlag nach § 21 Absatz 1 Satz 1, wird für die Steinkohleanlage die
@@ -2508,6 +2565,7 @@ elektrischer Energie eingesetzt werden.
 
 
 ### § 52 Vermarktungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005301123)
 
 (1) Der Anlagenbetreiber, gegenüber dem ein Zuschlag nach § 21 Absatz
 1 bekanntgegeben wurde oder gegenüber dem die gesetzliche Reduzierung
@@ -2542,6 +2600,7 @@ Verbots der Kohleverfeuerung
 
 
 ### § 53 Verbot der Errichtung und der Inbetriebnahme neuer Stein- und Braunkohleanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005400000)
 
 (1) Es ist verboten, nach dem 14. August 2020 neue Stein- und
 Braunkohleanlagen in Betrieb zu nehmen, es sei denn, für die Stein-
@@ -2560,9 +2619,11 @@ dem Bundes-Immissionsschutzgesetz erteilt wurde.
 
 
 ## Teil 7 - Überprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000700000)
 
 
 ### § 54 Regelmäßige Überprüfungen der Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005501119)
 
 (1) Die Bundesregierung überprüft zum 15. August 2022, zum 15. August
 2026, zum 15. August 2029 sowie zum 15. August 2032 auf
@@ -2631,6 +2692,7 @@ dem Entwurf des Netzentwicklungsplans Gas zum 1. April 2022 vor.
 
 
 ### § 55 Überprüfung der Sicherheit, Zuverlässigkeit und Preisgünstigkeit des Elektrizitätsversorgungssystems; Zuschüsse für stromkostenintensive Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005600000)
 
 (1) Bis zum 31. Dezember 2020 prüft das Bundesministerium für
 Wirtschaft und Energie jährlich und ab dem 1. Januar 2021 prüft die
@@ -2743,6 +2805,7 @@ unverzüglich schriftlich mit.
 
 
 ### § 56 Überprüfung des Abschlussdatums
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005700000)
 
 Die Bundesregierung überprüft im Rahmen der umfassenden Überprüfung
 zum 15. August 2026, zum 15. August 2029 und zum 15. August 2032 nach
@@ -2754,9 +2817,11 @@ entsprechend anzupassen.
 
 
 ## Teil 8 - Anpassungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000800000)
 
 
 ### § 57 Anpassungsgeld für Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005800000)
 
 (1) Zur sozialverträglichen schrittweisen Reduzierung und Beendigung
 der Kohleverstromung kann aus Mitteln des Bundeshaushalts
@@ -2795,18 +2860,22 @@ Verfügung stehenden haushaltsmäßigen Ermächtigungen.
 
 
 ## Teil 9 - Förderprogramm zur treibhausgasneutralen Erzeugung und Nutzung von Wärme
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG000900000)
 
 
 ### § 58 Förderprogramm zur treibhausgasneutralen Erzeugung und Nutzung von Wärme
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE005900000)
 
 Das Bundesministerium für Wirtschaft und Energie fördert die
 treibhausgasneutrale Erzeugung und Nutzung von Wärme.
 
 
 ## Teil 10 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNG001000000)
 
 
 ### § 59 Bestehende Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006000000)
 
 Die für den Vollzug des Bundes-Immissionsschutzgesetzes zuständige
 Behörde ergreift die zur Umsetzung des Verbots der Kohleverfeuerung
@@ -2817,6 +2886,7 @@ Immissionsschutzgesetzes sind entsprechend anzuwenden.
 
 
 ### § 60 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006100000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 eine Rechtsverordnung zu erlassen, mit der der Netzfaktor in den
@@ -2843,6 +2913,7 @@ gesetzlichen Reduzierung zu bewerten und zu berücksichtigen sind.
 
 
 ### § 61 Aufgaben der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006202128)
 
 (1) Die Bundesnetzagentur hat die Aufgaben,
 
@@ -2910,6 +2981,7 @@ Personen, die keine Unternehmen sind, entsprechend maßgebend.
 
 
 ### § 62 Festlegungskompetenzen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006300000)
 
 (1) Die Entscheidungen nach diesem Gesetz und aufgrund dieses Gesetzes
 werden von der Bundesnetzagentur getroffen.
@@ -2940,6 +3012,7 @@ Internetseite öffentlich bekannt.
 
 
 ### § 63 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006400000)
 
 Für individuell zurechenbare öffentliche Leistungen der
 Bundesnetzagentur nach diesem Gesetz werden durch die
@@ -2948,6 +3021,7 @@ ist entsprechend anzuwenden.
 
 
 ### § 64 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006500000)
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind für
 Rechtsbehelfe, die sich gegen Entscheidungen der Bundesnetzagentur
@@ -2976,6 +3050,7 @@ das nach Absatz 1 zuständige Oberlandesgericht.
 
 
 ### § 65 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006601123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3006,6 +3081,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
 
 ### § 66 Fristen und Termine
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006700000)
 
 Für die Berechnung von Fristen und für die Bestimmung von Terminen ist
 § 31 des Verwaltungsverfahrensgesetzes entsprechend anzuwenden, soweit
@@ -3013,6 +3089,7 @@ nicht durch dieses Gesetz etwas anderes bestimmt ist.
 
 
 ### § 67 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE007100128)
 
 Für Anlagen, deren Umrüstung ein Betreiber eines Übertragungsnetzes
 mit Regelzonenverantwortung vor dem 25. Februar 2025 nach § 26 Absatz
@@ -3023,6 +3100,7 @@ geltenden Fassung anzuwenden.
 (zu § 12 Absatz 3)
 
 ### Anlage 1 Südregion
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006800000)
 
 (Fundstelle: BGBl. I 2020, 1841 - 1845)
 
@@ -3559,6 +3637,7 @@ Kreisen und Landkreisen:
 (zu Teil 5)
 
 ### Anlage 2 Stilllegungszeitpunkte Braunkohleanlagen
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE006902119)
 
 (Fundstelle: BGBl. I 2022, 2480 - 2481)
 
@@ -4069,6 +4148,7 @@ Kreisen und Landkreisen:
 (zu § 50)
 
 ### Anlage 3 Vergütung Zeitlich gestreckte Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE007000128)
 
 (Fundstelle: BGBl. I 2020, 3203 – 3204)
 
@@ -4199,6 +4279,7 @@ bezieht.
 (zu § 45 Absatz 1 Satz 3)
 
 ### Anlage 4 Formel zur Berechnung der entgangenen Gewinne aus der Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE007200128)
 
 (Fundstelle: BGBl. 2025 I Nr. 283, S. 6 - 8)
 
@@ -4417,6 +4498,7 @@ jedoch zuletzt spätestens für das Jahr 2042 angewandt.
 (zu § 45 Absatz 1 Satz 3)
 
 ### Anlage 5 Formel zur Berechnung der entgangenen Gewinne aus dem Vertrieb von Veredelungsprodukten
+[Direktlink](https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html#BJNR181810020BJNE007300128)
 
 (Fundstelle: BGBl. 2025 I Nr. 283, S. 9 - 10)
 

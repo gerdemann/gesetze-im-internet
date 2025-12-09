@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vor dem 9. Mai 1945 errichtete, nicht mehr bestehende öffentliche Rechtsträger mit Sitz im Geltungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNG000100311)
 
 
 
 ### § 1 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE000400311)
 
 (1) Die in der Anlage I aufgeführten Körperschaften, Anstalten und
 Stiftungen des öffentlichen Rechts (öffentliche Rechtsträger) sind
@@ -38,6 +40,7 @@ dieses Gesetzes zu ergänzen.
 
 
 ### § 2 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE000500311)
 
 Die öffentlichen Rechtsträger (§ 1) werden, soweit sie Aktivvermögen
 besitzen oder ihnen Ansprüche durch § 17 gewährt werden, nach diesem
@@ -48,6 +51,7 @@ sind.
 
 
 ### § 3 Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE000600311)
 
 (1) Die öffentlichen Rechtsträger (§ 1) werden durch den zuständigen
 Bundesminister oder durch eine ihm nachgeordnete, von ihm zu
@@ -111,6 +115,7 @@ Rechnungsprüfung durch den Bundesrechnungshof.
 
 
 ### § 4 Aufgaben des Abwicklers
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE000700311)
 
 (1) Der Abwickler hat das Vermögen des öffentlichen Rechtsträgers
 ordnungsgemäß zu verwalten, die laufenden Geschäfte zu beenden, die
@@ -130,6 +135,7 @@ durch den Sitz des Abwicklers bestimmt.
 
 
 ### § 5 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE000800311)
 
 (1) Natürliche und juristische Personen haben Vermögensgegenstände,
 die sie besitzen oder innehaben und die einem öffentlichen
@@ -168,6 +174,7 @@ für den daraus entstehenden Schaden.
 
 
 ### § 6 Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE000900311)
 
 Vermögensgegenstände, die einem öffentlichen Rechtsträger (§ 1) am
 oder nach dem 8. Mai 1945 zustanden und die auf Grund der Direktive
@@ -196,6 +203,7 @@ verpflichtet sind; der Ausgleich findet in Geld statt.
 
 
 ### § 7 Ansprüche im Zusammenhang mit der Verwaltung von ehemaligem Reichsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001000311)
 
 (1) § 4 Abs. 2 Nr. 2 des Allgemeinen Kriegsfolgengesetzes vom 5.
 November 1957 (Bundesgesetzblatt I S. 1747) ist auf Ansprüche der
@@ -210,6 +218,7 @@ oder der Bestellung eines Abwicklers im Bundesanzeiger gemäß § 3 Abs.
 
 
 ### § 8 Ansprüche gegen öffentliche Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001101301)
 
 (1) Die Erfüllung von Ansprüchen gegen einen öffentlichen Rechtsträger
 (§ 1) kann nur nach Maßgabe dieses Gesetzes verlangt werden. Die
@@ -227,6 +236,7 @@ werden durch dieses Gesetz nicht berührt.
 
 
 ### § 9 Wohnsitzvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001200311)
 
 (1) Ansprüche können nur geltend gemacht werden, wenn sie am 31.
 Dezember 1952 oder, falls sie später entstanden sind oder entstehen,
@@ -294,6 +304,7 @@ Rechtsträgers (§ 1) laufend erfüllt worden sind.
 
 
 ### § 10 Den Wohnsitzvoraussetzungen nicht unterliegende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001300311)
 
 Den Beschränkungen des § 9 unterliegt nicht die Geltendmachung von
 
@@ -347,6 +358,7 @@ Den Beschränkungen des § 9 unterliegt nicht die Geltendmachung von
 
 
 ### § 11 Ausgeschlossene Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001401123)
 
 (1) Folgende Ansprüche können nicht geltend gemacht werden:
 
@@ -452,6 +464,7 @@ Aufenthalt im Geltungsbereich dieses Gesetzes genommen haben.
 
 
 ### § 12 Anmeldung, Anmeldefrist
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001500311)
 
 (1) Ansprüche können nur innerhalb einer Ausschlußfrist von einem Jahr
 durch schriftliche Anmeldung geltend gemacht werden. Die Frist beginnt
@@ -491,6 +504,7 @@ bei dem zuständigen Bundesminister angemeldet worden sind.
 
 
 ### § 13 Klagefrist
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001600311)
 
 Lehnt der Abwickler die Erfüllung eines Anspruchs ab, so kann der
 Anspruch nur innerhalb von drei Monaten und nur vor den Gerichten
@@ -504,6 +518,7 @@ Klagefrist bei einem unzuständigen Gericht geltend gemacht wird.
 
 
 ### § 14 Zulässigkeit von Aufrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001700311)
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem
 Anspruch, dessen Erfüllung nach diesem Gesetz nicht vorgesehen ist,
@@ -514,6 +529,7 @@ dem 1. Januar 1960 Anspruchsberechtigten auf ihn übergegangen ist.
 
 
 ### § 15 Übergegangenes Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001800311)
 
 (1) Der Abwickler hat die Vermögensgegenstände, die auf Grund des
 Artikels 135 Abs. 2 des Grundgesetzes auf juristische Personen des
@@ -535,6 +551,7 @@ Sicherungen an diesen Vermögensgegenständen bestehen.
 
 
 ### § 16 Zu übertragendes Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE001900311)
 
 Vermögensgegenstände, die nicht auf Grund des Artikels 135 Abs. 2 des
 Grundgesetzes auf juristische Personen des öffentlichen Rechts
@@ -551,6 +568,7 @@ oder der Bestellung eines Abwicklers im Bundesanzeiger nach § 3 Abs.
 
 
 ### § 17 Auffüllung der Abwicklungsmasse
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002000311)
 
 (1) Reicht das Vermögen eines öffentlichen Rechtsträgers (§ 1) für die
 Erfüllung der Verbindlichkeiten nicht aus, so haben diejenigen
@@ -577,6 +595,7 @@ verpflichtet.
 
 
 ### § 18 Vermögensabgabe
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002100311)
 
 (1) Soweit die Vierteljahrsbeträge der Vermögensabgabe (§ 34 des
 Lastenausgleichsgesetzes) auf Vermögensgegenstände entfallen, die auf
@@ -603,6 +622,7 @@ Inkrafttretens dieses Gesetzes gilt.
 
 
 ### § 19 Vermögensübersichten, Erfüllung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002201301)
 
 (1) Der Abwickler hat für den Zeitpunkt seiner Bestellung eine
 Vermögensübersicht anzufertigen.
@@ -647,6 +667,7 @@ den Vorschriften der Absätze 2 bis 4 zu verwenden.
 
 
 ### § 20 Erlöschen der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002300311)
 
 Ansprüche gegen einen öffentlichen Rechtsträger (§ 1), die nicht
 rechtzeitig angemeldet worden sind, erlöschen mit dem Ablauf der
@@ -665,6 +686,7 @@ den öffentlichen Rechtsträger (§ 1) über.
 
 
 ### § 21 Restvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002400311)
 
 (1) Der Abwickler hat das nach Erfüllung der in § 15 Abs. 1, §§ 16 und
 19 Abs. 2 bis 4 bezeichneten Ansprüche verbleibende Vermögen auf ein
@@ -695,6 +717,7 @@ Vermögen oder über Vermögensgegenstände verfügen.
 
 
 ### § 22 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002500311)
 
 Geschäfte und Verhandlungen, die der Durchführung der §§ 6, 15, 16 und
 21 dienen, einschließlich der Eintragungen in den öffentlichen
@@ -705,6 +728,7 @@ Abgaben, die nicht auf bundesrechtlichen Vorschriften beruhen.
 
 
 ### § 23 Arreste und Zwangsvollstreckungen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002600311)
 
 Arreste und Zwangsvollstreckungen in das Vermögen eines öffentlichen
 Rechtsträgers (§§ 1, 25 und 27 Abs. 1) sind für die Dauer der
@@ -713,6 +737,7 @@ zulässig.
 
 
 ### § 24 Beendigung der Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002700311)
 
 (1) Erstreckt sich die Abwicklung über einen längeren Zeitraum als ein
 Jahr, hat der Abwickler jeweils für ein Rechnungsjahr eine
@@ -727,10 +752,12 @@ im Bundesanzeiger bekannt.
 
 
 ## Zweiter Abschnitt - Nach dem 8. Mai 1945 errichtete, nicht mehr bestehende öffentliche Rechtsträger mit Sitz im Geltungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNG000200311)
 
 
 
 ### § 25 Auflösung und Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002800311)
 
 (1) Die in der Anlage II aufgeführten, nach dem 8. Mai 1945
 errichteten öffentlichen Rechtsträger sind aufgelöst.
@@ -749,10 +776,12 @@ Ernährungs- und Landwirtschaftsrats außerdem die §§ 15 bis 18 und 20.
 
 
 ## Dritter Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNG000300311)
 
 
 
 ### § 26 Beendigung der bisherigen Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE002900311)
 
 Mit der Bekanntmachung der Übernahme der Abwicklung durch den
 zuständigen Bundesminister oder durch eine ihm nachgeordnete
@@ -764,6 +793,7 @@ legen.
 
 
 ### § 27 Sonstige öffentliche Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003002123)
 
 (1) Die im Geltungsbereich dieses Gesetzes belegenen
 Vermögensgegenstände von Körperschaften - mit Ausnahme von
@@ -874,6 +904,7 @@ Versicherungsunternehmen und Bausparkassen.
 
 
 ### § 28 Kosten anhängiger Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003100311)
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
@@ -881,6 +912,7 @@ gerichtlichen Auslagen; Gerichtsgebühren werden nicht erhoben.
 
 
 ### § 29 Londoner Schuldenabkommen
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003200311)
 
 Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und
 die zu seiner Ausführung ergangenen Vorschriften werden durch die
@@ -888,6 +920,7 @@ Vorschriften dieses Gesetzes nicht berührt.
 
 
 ### § 30 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003300311)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -897,12 +930,14 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 31 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003400311)
 
 Dieses Gesetz tritt am ersten Tage des zweiten Kalendermonats nach
 seiner Verkündung in Kraft.
 
 
 ### Anlage I zu § 1 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003500311)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1074 - 1079;
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -1770,6 +1805,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage II zu § 25
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003600311)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1080
 
@@ -1880,6 +1916,7 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1080
 
 
 ### (XXXX) Vorschriften für die Anwendung der Tabellen I bis V zu § 19 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003700311)
 
 Die Tabellen I bis V, die dazu dienen, den Schätzwert nach § 19 Abs. 3
 Satz 2 von Renten und Rentenanwartschaften zu berechnen, setzen
@@ -1913,6 +1950,7 @@ es unberücksichtigt.
 
 
 ### Tabelle I zu § 19 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003800311)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1082
 
@@ -2434,6 +2472,7 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1082
 
 
 ### Tabelle II zu § 19 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE004200311)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1083
 
@@ -2966,6 +3005,7 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1083
 
 
 ### Tabelle III zu § 19 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE003900311)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1084
 
@@ -3772,6 +3812,7 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1084
 
 
 ### Tabelle IV zu § 19 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE004000311)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1085
 
@@ -4341,6 +4382,7 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1085
 
 
 ### Tabelle V zu § 19 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/rtrabwg/BJNR010650965.html#BJNR010650965BJNE004100311)
 
    Fundstelle des Originaltextes: BGBl. I 1965, 1086
 

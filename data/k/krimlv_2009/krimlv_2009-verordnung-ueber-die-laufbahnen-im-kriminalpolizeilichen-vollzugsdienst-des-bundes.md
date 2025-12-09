@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 Satz 1 des Bundespolizeibeamtengesetzes,
 der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
@@ -28,6 +29,7 @@ S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000203311)
 
 
 *    *   §  1
@@ -115,6 +117,7 @@ S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000300000)
 
 Für die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten im
 kriminalpolizeilichen Vollzugsdienst des Bundes gelten die
@@ -123,6 +126,7 @@ nichts anderes bestimmt ist.
 
 
 ## § 2 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000400000)
 
 § 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass die
 besonderen gesundheitlichen Anforderungen berücksichtigt werden, die
@@ -130,6 +134,7 @@ an Beamtinnen und Beamte im Polizeivollzugsdienst gestellt werden.
 
 
 ## § 3 Gestaltung und Ämter der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000500000)
 
 (1) Laufbahnen im kriminalpolizeilichen Vollzugsdienst des Bundes sind
 
@@ -148,6 +153,7 @@ unberührt.
 
 
 ## § 4 Einrichtung von Vorbereitungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000600000)
 
 Für die Laufbahnen nach § 3 Absatz 1 werden Vorbereitungsdienste
 eingerichtet. § 10 Absatz 2 der Bundeslaufbahnverordnung bleibt
@@ -155,6 +161,7 @@ unberührt.
 
 
 ## § 5 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000702311)
 
 (1) Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte
 auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen
@@ -179,6 +186,7 @@ Dienstbezeichnung „Kriminalratanwärterin” oder „Kriminalratanwärter”.
 
 
 ## § 6 Gehobener Kriminaldienst
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000802311)
 
 Der Vorbereitungsdienst für den gehobenen Kriminaldienst wird an der
 Hochschule des Bundes für öffentliche Verwaltung durchgeführt
@@ -199,6 +207,7 @@ Hochschule des Bundes für öffentliche Verwaltung durchgeführt
 
 
 ## § 6a Voraussetzungen für die Einstellung für eine Verwendung im Bereich Cyberkriminalität
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001801311)
 
 (1) Zur Laufbahn des gehobenen Kriminaldienstes für eine Verwendung im
 Bereich Cyberkriminalität können abweichend von § 17 Absatz 4 Nummer 2
@@ -223,6 +232,7 @@ vollendet haben.
 
 
 ## § 6b Kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich Cyberkriminalität
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001901311)
 
 (1) Die kriminalpolizeifachliche Qualifizierung kann nach bestandenem
 Auswahlverfahren von den in § 6a Absatz 1 Nummer 1 genannten Personen
@@ -247,6 +257,7 @@ Modulprüfungen und der abschließenden mündlichen Prüfung.
 
 
 ## § 6c Eingangsamt im gehobenen Kriminaldienst für eine Verwendung im Bereich Cyberkriminalität
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE002001311)
 
 Wer in den gehobenen Kriminaldienst für eine Verwendung im Bereich
 Cyberkriminalität eingestellt wird, kann in das Amt der
@@ -255,6 +266,7 @@ werden, wenn haushaltsrechtliche Gründe dem nicht entgegenstehen.
 
 
 ## § 7 Höherer Kriminaldienst
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE000900000)
 
 Der Vorbereitungsdienst für den höheren Kriminaldienst besteht aus
 einer fachpraktischen Ausbildungsphase und dem Masterstudiengang
@@ -264,6 +276,7 @@ Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
 
 
 ## § 7a Zugang zum höheren Kriminaldienst für Beamtinnen und Beamte des gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE002100311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des gehobenen
 Kriminaldienstes, die ein Hochschulstudium mit einem Master oder einem
@@ -283,6 +296,7 @@ haben.
 
 
 ## § 8 Andere Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001000000)
 
 Andere Bewerberinnen und Bewerber sollen neun Monate ihrer Probezeit
 bei Polizeidienststellen außerhalb des Bundeskriminalamtes leisten.
@@ -291,6 +305,7 @@ unberührt.
 
 
 ## § 9 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001100000)
 
 Zur Laufbahn des gehobenen Kriminaldienstes können bei Vorliegen eines
 besonderen dienstlichen Interesses abweichend von § 17 Absatz 4 des
@@ -304,6 +319,7 @@ der Qualifizierung ist durch die Laufbahnprüfung nachzuweisen.
 
 
 ## § 10 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001202311)
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des gehobenen
 Kriminaldienstes können zum Aufstieg in die Laufbahn des höheren
@@ -334,6 +350,7 @@ am Vorbereitungsdienst nach § 7 teil.
 
 
 ## § 11 Laufbahnwechsel
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001302311)
 
 (1) Der Wechsel in eine Laufbahn des kriminalpolizeilichen
 Vollzugsdienstes aus dienstlichen Gründen ist zulässig, wenn die
@@ -367,6 +384,7 @@ Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
 
 ## Anlage (zu § 3 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/krimlv_2009/BJNR304200009.html#BJNR304200009BJNE001702311)
 
 (Fundstelle: BGBl. I 2009, 3045;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

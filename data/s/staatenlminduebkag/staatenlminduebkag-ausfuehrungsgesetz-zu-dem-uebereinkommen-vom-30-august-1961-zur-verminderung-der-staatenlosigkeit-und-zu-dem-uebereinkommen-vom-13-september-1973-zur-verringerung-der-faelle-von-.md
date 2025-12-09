@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/staatenlmind_bkag/BJNR011010977.html#BJNR011010977BJNE000100319)
 
 Das Übereinkommen vom 30. August 1961 zur Verminderung der
 Staatenlosigkeit (BGBl. 1977 II S. 597) wird angewandt
@@ -42,6 +43,7 @@ Staatenlosigkeit erfolgt durch Einbürgerung.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/staatenlmind_bkag/BJNR011010977.html#BJNR011010977BJNE000201311)
 
 Ein seit der Geburt Staatenloser ist auf seinen Antrag einzubürgern,
 wenn er
@@ -70,17 +72,20 @@ Staatsangehörigkeitsrechts.
 
 
 ## (XXXX) Art 3 u. 4
+[Direktlink](https://www.gesetze-im-internet.de/staatenlmind_bkag/BJNR011010977.html#BJNR011010977BJNE000300319)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/staatenlmind_bkag/BJNR011010977.html#BJNR011010977BJNE000400319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/staatenlmind_bkag/BJNR011010977.html#BJNR011010977BJNE000500319)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

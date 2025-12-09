@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -32,6 +33,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Tourismusfachwirt und zur Geprüften Tourismusfachwirtin nach
@@ -103,6 +105,7 @@ Tourismusfachwirtin“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -138,6 +141,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000401128)
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -199,6 +203,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 4 Inhalte der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000500000)
 
 (1) Im Handlungsbereich „Unternehmensführung und -entwicklung“ soll
 die Fähigkeit nachgewiesen werden, Geschäftsprozesse der
@@ -399,6 +404,7 @@ Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -411,6 +417,7 @@ zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -443,6 +450,7 @@ gewichtet:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
 Prüfung und in der mündlichen Prüfung jeweils mindestens 50 Punkte
@@ -471,6 +479,7 @@ Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE001500128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -497,6 +506,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000801128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -511,6 +521,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE000901128)
 
 Wer die Prüfung zum Geprüften Tourismusfachwirt oder zur Geprüften
 Tourismusfachwirtin nach dieser Verordnung bestanden hat, ist vom
@@ -519,6 +530,7 @@ erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE001001128)
 
 (1) Begonnene Prüfungsverfahren zum Tourismusfachwirt (IHK)/zur
 Tourismusfachwirtin (IHK) können bis zum 31. Dezember 2015 nach den
@@ -533,12 +545,14 @@ Anwendung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE001101128)
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE001202128)
 
 (Fundstelle: BGBl. I 2019, 2363 - 2364)
 
@@ -840,6 +854,7 @@ Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tourfachwprv/BJNR030200012.html#BJNR030200012BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2364 - 2365)
 

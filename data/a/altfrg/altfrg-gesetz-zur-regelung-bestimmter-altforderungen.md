@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Forderungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/altfrg/BJNR158910005.html#BJNR158910005BJNE000100000)
 
 (1) Eine vor dem 8. Mai 1945 zu Gunsten von in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet durch besatzungsrechtliche oder
@@ -53,11 +54,13 @@ von Absatz 1 Satz 1 dabei.
 
 
 ## § 2 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/altfrg/BJNR158910005.html#BJNR158910005BJNE000200000)
 
 Das Vermögensgesetz bleibt unberührt.
 
 
 ## § 3 Umrechnung, Tilgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/altfrg/BJNR158910005.html#BJNR158910005BJNE000300000)
 
 (1) Renten-, Reichs- oder Goldmark oder vergleichbare
 Währungsbezeichnungen sind im Verhältnis 2 zu 1 auf Deutsche Mark,

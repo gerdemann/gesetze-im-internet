@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000100308)
 
 Es verordnen
 der Bundesminister für Ernährung, Landwirtschaft und Forsten
@@ -40,6 +41,7 @@ Forsten, für Jugend, Familie, Frauen und Gesundheit und der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000202377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
@@ -47,11 +49,13 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000301308)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000402308)
 
 Margarineschmalz oder Mischfettschmalz, das den in der Anlage
 vorgeschriebenen Anforderungen nicht entspricht, darf nicht in den
@@ -59,6 +63,7 @@ Verkehr gebracht werden.
 
 
 ## § 4 Kennzeichnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000505124)
 
 (1) Für Margarineschmalz und Mischfettschmalz sind die in der Anlage
 vorgesehenen Bezeichnungen die Bezeichnungen der Lebensmittel im Sinne
@@ -105,6 +110,7 @@ Erzeugnis zu verwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000603124)
 
 (1) Außerhalb des Geltungsbereichs dieser Verordnung hergestelltes
 Margarineschmalz oder Mischfettschmalz (ausländisches Margarineschmalz
@@ -144,6 +150,7 @@ Bezeichnung des Lebensmittels des Herstellungslandes verwendet werden.
 
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE000705124)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 5 Abs. 2 Satz 1
@@ -191,16 +198,19 @@ VII Teil VII
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE001001308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE001100308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/margmfv/BJNR019890990.html#BJNR019890990BJNE001202308)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1265
 

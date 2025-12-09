@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 des Akkreditierungsstellengesetzes vom 31.
 Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für
@@ -33,6 +34,7 @@ Reaktorsicherheit:
 
 
 ## § 1 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000200000)
 
 (1) Die Deutsche Akkreditierungsstelle GmbH wird mit den Aufgaben der
 nationalen Akkreditierungsstelle nach dem Akkreditierungsstellengesetz
@@ -43,6 +45,7 @@ Satz 2 Nummer 2 der Verwaltungsgerichtsordnung.
 
 
 ## § 2 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000304119)
 
 Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
@@ -187,6 +190,7 @@ Wirtschaft und Energie ausgeübt.
 
 
 ## § 3 Berichtspflichten der Akkreditierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000401118)
 
 Die Akkreditierungsstelle hat dem Bundesministerium für Wirtschaft und
 Energie und nachrichtlich den in § 2 genannten weiteren
@@ -223,6 +227,7 @@ dem konkret und substantiiert nachzuweisen ist, dass sie:
 
 
 ## § 4 Öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000501118)
 
 Die Deutsche Akkreditierungsstelle GmbH und das Bundesministerium für
 Wirtschaft und Energie vereinbaren in einem öffentlich-rechtlichen
@@ -235,6 +240,7 @@ auszuführen. Der Abschluss des Vertrages bedarf der Zustimmung der in
 
 
 ## § 5 Mitwirkung in Akkreditierungsorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000601118)
 
 (1) Die Akkreditierungsstelle vertritt in der nach Artikel 14 der
 Verordnung (EG) Nr. 765/2008 anerkannten Stelle sowie in
@@ -256,11 +262,13 @@ Energie mit den betroffenen Fachressorts abzustimmen.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegbv/BJNR396200009.html#BJNR396200009BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

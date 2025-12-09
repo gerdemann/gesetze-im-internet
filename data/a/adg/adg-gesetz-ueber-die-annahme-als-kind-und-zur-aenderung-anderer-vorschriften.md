@@ -18,20 +18,24 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001300305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 11 - 
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNG000100305)
 
 
 
 ## Art 12 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNG001200305)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001400305)
 
 (1) Ist der nach den bisher geltenden Vorschriften an Kindes Statt
 Angenommene im Zeitpunkt des Inkrafttretens dieses Gesetzes
@@ -62,6 +66,7 @@ Fristen beginnen frühestens mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001500305)
 
 (1) Ist der nach den bisher geltenden Vorschriften an Kindes Statt
 Angenommene im Zeitpunkt des Inkrafttretens dieses Gesetzes
@@ -102,6 +107,7 @@ durch sie ein nicht offenkundiges Annahmeverhältnis aufgedeckt wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001600305)
 
 (1) Wird eine Erklärung nach § 2 Abs. 2 Satz 2 abgegeben, so werden
 auf das Annahmeverhältnis nach Ablauf der in § 2 Abs. 1 bestimmten
@@ -117,6 +123,7 @@ aufgehoben werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001700305)
 
 (1) Das vor dem Inkrafttreten dieses Gesetzes von einem Deutschen nach
 den deutschen Gesetzen wirksam angenommene und im Zeitpunkt des
@@ -157,6 +164,7 @@ Abs. 1 des Grundgesetzes war.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001800305)
 
 Hat im Zeitpunkt des Inkrafttretens dieses Gesetzes der Annehmende
 oder das Kind den Antrag auf Bestätigung eines Vertrages über die
@@ -170,6 +178,7 @@ Fassung anzuwenden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE001900305)
 
 (1) Hat vor Inkrafttreten dieses Gesetzes ein Elternteil die
 Einwilligung zur Annahme eines Kindes an Kindes Statt erteilt, so
@@ -196,6 +205,7 @@ Annahme Minderjähriger angewandt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE002000305)
 
 (1) Die Annahme als Kind nach den Vorschriften dieses Gesetzes über
 die Annahme Minderjähriger ist auch dann zulässig, wenn der Annehmende
@@ -210,6 +220,7 @@ angewandt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE002100305)
 
 Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz aufgehoben
 oder geändert werden, erhält die Verweisung ihren Inhalt aus den
@@ -219,6 +230,7 @@ stillschweigend vorausgesetzt wird.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE002200305)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -226,6 +238,7 @@ im Land Berlin.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/adg/BJNR017499976.html#BJNR017499976BJNE002300305)
 
 Dieses Gesetz tritt am 1. Januar 1977 in Kraft.
 Folgende Vorschriften treten jedoch bereits einen Tag nach Verkündung

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gemeindeanteil an der Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000208377)
 
 Die Gemeinden erhalten 15 Prozent des Aufkommens an Lohnsteuer und an
 veranlagter Einkommensteuer sowie 12 Prozent des Aufkommens an
@@ -36,6 +37,7 @@ werden.
 
 
 ## § 2 Aufteilung des Gemeindeanteils an der Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000307140)
 
 Der Gemeindeanteil an der Einkommensteuer wird nach einem Schlüssel
 auf die Gemeinden aufgeteilt, der von den Ländern auf Grund der
@@ -45,6 +47,7 @@ und durch Rechtsverordnung der Landesregierung festgesetzt wird.
 
 
 ## § 3 Verteilungsschlüssel für den Gemeindeanteil
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000416123)
 
 (1) Der Schlüssel für die Aufteilung des Gemeindeanteils an der
 Einkommensteuer wird wie folgt ermittelt. Für jede Gemeinde wird eine
@@ -74,6 +77,7 @@ des Schlüssels jeweils maßgebend sind.
 
 
 ## § 4 Berichtigung von Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000505140)
 
 (1) Werden innerhalb von sechs Monaten nach der Festsetzung des
 Schlüssels Fehler bei der Ermittlung der Schlüsselzahl einer Gemeinde
@@ -89,6 +93,7 @@ Ausgleichsbetrag einen bestimmten Betrag nicht überschreitet.
 
 
 ## § 5 Überweisung des Gemeindeanteils an der Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000605140)
 
 Die Landesregierungen regeln durch Rechtsverordnung die Termine und
 das Verfahren für die Überweisung des Gemeindeanteils an der
@@ -96,6 +101,7 @@ Einkommensteuer.
 
 
 ## § 5a Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE001507123)
 
 (1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Absatz 1 und 2 des
 Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln
@@ -154,6 +160,7 @@ durch die Länder auf Eins normiert werden.
 
 
 ## § 5b Übermittlung statistischer Ergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE001607377)
 
 Zur Festsetzung der Verteilungsschlüssel nach § 5a, jedoch nicht für
 die Regelung von Einzelfällen, dürfen das Statistische Bundesamt und
@@ -180,6 +187,7 @@ entsprechend.
 
 
 ## § 5c Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE002302377)
 
 Das Bundesministerium der Finanzen wird ermächtigt, nähere
 Bestimmungen über die Ermittlung der Schlüsselzahlen nach § 5a durch
@@ -187,6 +195,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
 
 
 ## § 5d Überweisung des Gemeindeanteils an der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE001811377)
 
 (1) Die Verteilung des Gemeindeanteils an der Umsatzsteuer auf die
 Länder wird nach § 17 des Finanzausgleichsgesetzes vom
@@ -201,6 +210,7 @@ Gemeinden.
 
 
 ## § 6 Umlage nach Maßgabe des Gewerbesteueraufkommens
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000732123)
 
 (1) Die Gemeinden führen nach den folgenden Vorschriften eine Umlage
 an das für sie zuständige Finanzamt ab. Die Umlage ist entsprechend
@@ -252,6 +262,7 @@ sonstiger zuständiger Landesbehörden treffen.
 
 
 ## § 7 Sondervorschriften für Berlin und Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE000806140)
 
 In Berlin und Hamburg stehen der Gemeindeanteil an der Einkommensteuer
 und der Gemeindeanteil an der Umsatzsteuer dem Land zu. Die Länder
@@ -261,6 +272,7 @@ Hamburg keine Anwendung.
 
 
 ## § 8 Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE002002140)
 
 Soweit dieses Gesetz die Landesregierungen zum Erlass von
 Rechtsverordnungen ermächtigt, können die Landesregierungen die
@@ -269,6 +281,7 @@ Landes übertragen.
 
 
 ## § 9 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gemfinrefg/BJNR015870969.html#BJNR015870969BJNE002201140)
 
 Das Bundesministerium der Finanzen kann dieses Gesetz und die auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen in der jeweils

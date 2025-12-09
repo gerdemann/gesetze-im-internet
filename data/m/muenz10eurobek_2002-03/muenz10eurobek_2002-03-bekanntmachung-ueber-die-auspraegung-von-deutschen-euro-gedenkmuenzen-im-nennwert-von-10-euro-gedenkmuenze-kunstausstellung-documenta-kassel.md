@@ -19,6 +19,7 @@ Fundstelle
 Stand: Änderung v. 2.12.2002 I 4527
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2002-03/BJNR125300002.html#BJNR125300002BJNE000101301)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema

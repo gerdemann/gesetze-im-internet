@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eg_egkombek/BJNR104480980.html#BJNR104480980BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -31,16 +32,19 @@ Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eg_egkombek/BJNR104480980.html#BJNR104480980BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eg_egkombek/BJNR104480980.html#BJNR104480980BJNE000200303)
 
 Fundstelle: BGBl. I 1980, 449)
 ![bgbl1_1980_j0449_0010.jpg](bgbl1_1980_j0449_0010.jpg)
 
 ## Anlage 2 Kennzeichen der Kommission der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eg_egkombek/BJNR104480980.html#BJNR104480980BJNE000300303)
 
 Fundstelle: BGBl. I 1980, 450)
 ![bgbl1_1980_j0450_0010.jpg](bgbl1_1980_j0450_0010.jpg)

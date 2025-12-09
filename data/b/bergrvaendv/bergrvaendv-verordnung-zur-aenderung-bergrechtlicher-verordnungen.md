@@ -35,6 +35,7 @@ mit dem Bundesberggesetz der Umsetzung folgender EG-Richtlinien: -
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bergrv_ndv/BJNR209300998.html#BJNR209300998BJNE000100311)
 
 Auf Grund der § 57c und 66 Satz 1 Nr. 1 Buchstabe b, Nr. 2, 3, 5, 6,
 9, 10 und Satz 3, des § 67 Nr. 1 und 8 und des § 68 Abs. 2, in
@@ -51,10 +52,12 @@ Bundesministerium für Verkehr:
 
 
 ## (XXXX) Art 1 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/bergrv_ndv/BJNR209300998.html#BJNR209300998BJNE000200311)
 
 
 
 ## Art 6 Übergangsvorschrift zu Artikel 5
+[Direktlink](https://www.gesetze-im-internet.de/bergrv_ndv/BJNR209300998.html#BJNR209300998BJNE000300311)
 
 Die bei Inkrafttreten dieser Verordnung bereits begonnenen Verfahren
 betreffend betriebsplanpflichtige Vorhaben im Sinne des § 1 der in
@@ -63,6 +66,7 @@ Vorschriften zu Ende zu führen.
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bergrv_ndv/BJNR209300998.html#BJNR209300998BJNE000400311)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft, soweit in
 Satz 2 nichts anderes bestimmt ist. ... die Artikel 5 und 6 treten am

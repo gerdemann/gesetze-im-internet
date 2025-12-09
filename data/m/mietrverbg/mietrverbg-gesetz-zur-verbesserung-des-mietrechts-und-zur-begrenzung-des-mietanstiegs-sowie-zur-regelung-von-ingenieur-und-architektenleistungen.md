@@ -21,36 +21,44 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNE001200301)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000100301)
 
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000200301)
 
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000300301)
 
 
 
 ## Art 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000401377)
 
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000500301)
 
 
 
 ## Art 6 - Verbot der Zweckentfremdung von Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000600301)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNE001301307)
 
 (1) Die Landesregierungen werden ermächtigt, für Gemeinden, in denen
 die Versorgung der Bevölkerung mit ausreichendem Wohnraum zu
@@ -80,6 +88,7 @@ der Raum wieder als Wohnraum zu behandeln.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNE001402377)
 
 (1) Ordnungswidrig handelt, wer ohne die erforderliche Genehmigung
 Wohnraum für andere als Wohnzwecke im Sinne des § 1 Abs. 1 verwendet
@@ -90,6 +99,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNE001502377)
 
 § 27 Abs. 7 des Wohnraumförderungsgesetzes und § 7 Abs. 3 des
 Wohnungsbindungsgesetzes in Verbindung mit § 27 Abs. 7 des
@@ -98,26 +108,32 @@ Wohnraumförderungsgesetzes sowie die landesrechtlichen Vorschriften
 
 
 ## Art 7 - 
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000700301)
 
 
 
 ## Art 8 - 
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000800301)
 
 
 
 ## Art 9 - Gesetz zur Regelung der Wohnungsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG000900301)
 
 
 
 ## Art 10 - Gesetz zur Regelung von Ingenieur- und Architektenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG001000301)
 
 
 
 ## Art 11 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNG001100301)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNE001600301)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -127,6 +143,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/mietrverbg/BJNR017459971.html#BJNR017459971BJNE001700301)
 
 (1) Die Vorschriften dieses Gesetzes treten unbeschadet des Absatzes 2
 am Tage nach der Verkündung in Kraft.

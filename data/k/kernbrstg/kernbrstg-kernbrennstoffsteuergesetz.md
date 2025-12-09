@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Steuergegenstand, Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000100000)
 
 (1) Kernbrennstoff, der zur gewerblichen Erzeugung von elektrischem
 Strom verwendet wird, unterliegt im Steuergebiet der
@@ -31,6 +32,7 @@ das Gebiet von Büsingen und ohne die Insel Helgoland.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000200000)
 
 Im Sinn dieses Gesetzes ist:
 
@@ -75,12 +77,14 @@ Im Sinn dieses Gesetzes ist:
 
 
 ## § 3 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000300000)
 
 Die Steuer für ein Gramm Plutonium 239, Plutonium 241, Uran 233 oder
 Uran 235 beträgt 145 Euro.
 
 
 ## § 4 Pflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000400000)
 
 (1) Wer eine Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen
 Erzeugung von Elektrizität betreibt, hat dies dem zuständigen
@@ -152,6 +156,7 @@ verzichtet.
 
 
 ## § 5 Entstehung der Steuer, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000500000)
 
 (1) Die Steuer entsteht dadurch, dass ein Brennelement oder einzelne
 Brennstäbe in einen Kernreaktor erstmals eingesetzt werden und eine
@@ -162,6 +167,7 @@ nachweislich defekter Brennstäbe führt nicht zur Steuer-entstehung.
 
 
 ## § 6 Steueranmeldung, Fälligkeit der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000600000)
 
 (1) Der Steuerschuldner hat für Kernbrennstoff, für den die Steuer
 nach § 5 Absatz 1 entstanden ist, bis zum 15. Tag des folgenden Monats
@@ -181,6 +187,7 @@ Steuer erkennbar sind.
 
 
 ## § 7 Auskunftspflicht des Herstellers der Brennelemente oder Brennstäbe
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000700000)
 
 Der Hersteller von Brennelementen oder Brennstäben, die nach § 5
 verwendet werden, hat dem Hauptzollamt die Auskünfte zu erteilen, die
@@ -189,6 +196,7 @@ erforderlich sind.
 
 
 ## § 8 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000800000)
 
 Der Steueraufsicht im Sinn von § 209 der Abgabenordnung unterliegt der
 Betreiber einer Anlage zur Spaltung von Kernbrennstoffen zur
@@ -196,6 +204,7 @@ gewerblichen Erzeugung von Elektrizität.
 
 
 ## § 9 Zuständiges Hauptzollamt
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE000900000)
 
 Unbeschadet der Bestimmungen des § 27 der Abgabenordnung ist für den
 Anwendungsbereich dieses Gesetzes das Hauptzollamt örtlich zuständig,
@@ -207,6 +216,7 @@ steuerlich in Erscheinung treten.
 
 
 ## § 10 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE001000000)
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -232,6 +242,7 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ## § 11 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE001101377)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur
 Durchführung dieses Gesetzes durch Rechtsverordnung, die nicht der
@@ -260,12 +271,14 @@ Ermittlung nur mit unvertretbarem Aufwand möglich ist.
 
 
 ## § 12 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE001200000)
 
 Das Gesetz ist auf Besteuerungsvorgänge anzuwenden, bei denen die sich
 selbsttragende Kettenreaktion vor dem 1. Januar 2017 ausgelöst wurde.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kernbrstg/BJNR180400010.html#BJNR180400010BJNE001300000)
 
 Dieses Gesetz tritt am 1. Januar 2011 in Kraft.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Stellenbesetzungssperre
+[Direktlink](https://www.gesetze-im-internet.de/perseinspg/BJNR015650983.html#BJNR015650983BJNE000101301)
 
 (1) Bei der Bundesagentur für Arbeit, der Bundesversicherungsanstalt
 für Angestellte, der Bundesknappschaft, der Landesversicherungsanstalt
@@ -64,6 +65,7 @@ Stellenbesetzungssperre besteht.
 
 
 ## § 2 Wegfall des Essenszuschusses
+[Direktlink](https://www.gesetze-im-internet.de/perseinspg/BJNR015650983.html#BJNR015650983BJNE000200317)
 
 Bei den in § 1 genannten Einrichtungen dürfen die bisher gewährten
 Essenszuschüsse oder entsprechende Leistungen unabhängig von ihrer

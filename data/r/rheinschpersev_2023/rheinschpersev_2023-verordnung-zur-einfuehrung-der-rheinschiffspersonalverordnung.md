@@ -29,6 +29,7 @@ Fundstelle
 
 
 ## § 1 Inkraftsetzung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000100000)
 
 (1) Folgende von der Zentralkommission für die Rheinschifffahrt im
 schriftlichen Verfahren gefassten Beschlüsse werden hiermit auf dem
@@ -74,6 +75,7 @@ _\_\__\_\__\_\_\_\_
 [^BJNR0690P0023BJNE000100000_1]: 
 
 ## § 2 Anwendung der Binnenschiffspersonalverordnung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000200000)
 
 Soweit die Rheinschiffspersonalverordnung und die Dienstanweisungen
 zur Rheinschiffspersonalverordnung sowie diese Verordnung keine
@@ -85,6 +87,7 @@ genannten Verordnung ergangenen Rechtsverordnungen entsprechend.
 
 
 ## § 3 Ausnahmen von der Patentpflicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000300000)
 
 Zur Führung von Fahrzeugen im Sinne des § 11.01 Nummer 4 der
 Rheinschiffspersonalverordnung ist ein Befähigungszeugnis für
@@ -97,6 +100,7 @@ Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016,
 
 
 ## § 4 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000400000)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
 ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der
@@ -204,6 +208,7 @@ für Sachkundige für LNG sind die Wasserstraßen- und Schifffahrtsämter.
 
 
 ## § 5 Zuständigkeit für die Durchführung von Tauglichkeitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000500000)
 
 (1) Tauglichkeitsnachweise im Sinne von § 4.01 Nummer 2 und 3, § 4.02,
 § 7.01 Nummer 2, § 8.01 Nummer 2 und § 12.04 Nummer 2 Buchstabe b der
@@ -221,6 +226,7 @@ Rheinschifffahrt anerkannt worden ist.
 
 
 ## § 6 Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000601119)
 
 (1) Zum Führen von Fahrzeugen im Sinne des § 11.01 Nummer 3 der
 Rheinschiffspersonalverordnung ist im Falle des § 13 Absatz 1 der
@@ -271,6 +277,7 @@ Rheinschiffspersonalverordnung ist
 
 
 ## § 7 Ausbildungsprogramme, Lehrgänge, Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000700000)
 
 (1) Ausbildungsprogramme im Sinne des
 § 10.01 Nummer 2 Buchstabe b der Rheinschiffspersonalverordnung sind
@@ -318,6 +325,7 @@ Binnenschiffspersonalverordnung nichts anderes ergibt.
 
 
 ## § 8 Pflichten der Eigentümer, Ausrüster, Schiffsführer und Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000801119)
 
 (1) Der Eigentümer, der Ausrüster und der Schiffsführer haben dafür zu
 sorgen, dass
@@ -478,6 +486,7 @@ Entwertung vorzulegen.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE000901119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -558,6 +567,7 @@ fahrlässig
 
 
 ## § 10 Übergangsbestimmungen für Tauglichkeitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001001119)
 
 Tauglichkeitsuntersuchungen können abweichend von § 5 Absatz 1 bis zum
 Ablauf des 17. Januar 2024 auch durchgeführt werden von
@@ -576,6 +586,7 @@ Ablauf des 17. Januar 2024 auch durchgeführt werden von
 
 
 ## § 11 Übergangsbestimmung für Befähigungszeugnisse auf Grund von Prüfungen nach Landesrecht zuständiger Behörden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001100000)
 
 Befähigungszeugnisse im Sinne des § 6 Absatz 2 Satz 1 stehen bis zum
 1\. Mai 2025 auch ohne eine Feststellung durch das Bundesministerium
@@ -584,6 +595,7 @@ gleich.
 
 
 ## § 12 Umtausch von Schifferdienstbüchern
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001200000)
 
 (1) Beim Umtausch eines Schifferdienstbuches in ein Schifferdienstbuch
 nach der Rheinschiffspersonalverordnung nach § 20.01 Nummer 2 der
@@ -620,6 +632,7 @@ der Fachausbildung nicht überschreiten.
 
 
 ## § 12a Umschreibung von Behördenpatenten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001600119)
 
 Ein Wasserstraßen- und Schifffahrtsamt hat bis zum Ablauf des 17.
 Januar 2032 ein Befähigungszeugnis als Matrose oder Matrosin
@@ -630,6 +643,7 @@ auch wenn die antragstellende Person das 60. Lebensjahr vollendet hat.
 
 
 ## § 13 Nichtanwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001300000)
 
 Die Schiffspersonalverordnung-Rhein (Anlage 1 zu Artikel 1 Satz 1
 Nummer 1 der Rheinschiffspersonaleinführungsverordnung vom 16.
@@ -642,6 +656,7 @@ ist, ist nicht mehr anzuwenden.
 (zu § 1 Absatz 2 Nummer 1)
 
 ## Anlage 1 Rheinschiffspersonalverordnung (RheinSchPersV)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001401119)
 
 (Fundstelle: BGBl 2023 II Anlageband zu Nr. 105)
 
@@ -650,5 +665,6 @@ ist, ist nicht mehr anzuwenden.
 (zu § 1 Absatz 2 Nummer 2)
 
 ## Anlage 2 Änderungen der Rheinschifffahrtspolizeiverordnung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev_2023/BJNR0690P0023.html#BJNR0690P0023BJNE001500000)
 
 

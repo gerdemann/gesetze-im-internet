@@ -18,34 +18,41 @@ Fundstelle
 
 
 ## Art I - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNG000100326)
 
 
 
 ### § 1 Änderung des Lastenausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000300326)
 
 -
 
 
 ### § 2 Änderung des Währungsausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000400326)
 
 -
 
 
 ### § 3 Änderung des Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000500326)
 
 -
 
 
 ### § 4 Änderung des Vierzehnten Gesetzes zur Änderung des Lastenausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000600326)
 
 -
 
 
 ## Art II - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNG000200326)
 
 
 
 ### § 5 Überleitungsvorschrift zu § 230 des Lastenausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000700326)
 
 Soweit Leistungen aus dem Härtefonds (§§ 301, 301a LAG) an Personen
 gewährt worden sind, die selbst oder deren Ehegatten
@@ -71,6 +78,7 @@ folgendes:
 
 
 ### § 6 Anwendungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000800326)
 
 (1) Von den Vorschriften des Artikels I sind anzuwenden
 
@@ -112,6 +120,7 @@ Kriegsschadenrente frühestens vom 1. Juni 1963 ab gewährt.
 
 
 ### § 7 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE000900326)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
@@ -119,6 +128,7 @@ auch im Land Berlin.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_16/BJNR003600963.html#BJNR003600963BJNE001000326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

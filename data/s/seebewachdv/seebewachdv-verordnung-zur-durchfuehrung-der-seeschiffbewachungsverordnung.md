@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000100000)
 
 Auf Grund des § 31 Absatz 4 Satz 2 bis 4 der Gewerbeordnung in
 Verbindung mit § 4 Absatz 2, § 5 Absatz 3 und § 6 Absatz 1 Satz 2 der
@@ -32,6 +33,7 @@ Hydrographie unter Wahrung der Rechte des Bundestages:
 
 
 ## § 1 Ernennung eines Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000200000)
 
 (1) Wer leitender Angestellter ist, bestimmt sich nach § 5 Absatz 3
 des Betriebsverfassungsgesetzes in der Fassung der Bekanntmachung vom
@@ -49,6 +51,7 @@ Bewachungsunternehmens einschließlich der eingesetzten Wachpersonen.
 
 
 ## § 2 Aufbauorganisation
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000300000)
 
 (1) Die Aufbauorganisation hat insbesondere folgende Aspekte zu
 umfassen:
@@ -103,6 +106,7 @@ zu unterrichten. Die Unterrichtung muss in Textform erfolgen.
 
 
 ## § 3 Ablauforganisation
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000400000)
 
 (1) Zur Sicherstellung einer ordnungsgemäßen Ablauforganisation im
 Bewachungsunternehmen ist ein Prozesshandbuch zu erstellen. Darin sind
@@ -122,6 +126,7 @@ Kenntnis nehmen.
 
 
 ## § 4 Personalauswahlprozess
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000500000)
 
 Grundlage des Personalauswahlprozesses ist ein vom
 Bewachungsunternehmen zu erstellendes Anforderungsprofil. Die
@@ -153,6 +158,7 @@ Dokumentation der Personalauswahl hat folgende Unterlagen zu umfassen:
 
 
 ## § 5 Personalüberprüfungsprozess
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000600000)
 
 Die Zuverlässigkeit und persönliche Eignung der Wachpersonen ist im
 Abstand von höchstens zwölf Monaten gemäß den §§ 8 und 9 der
@@ -161,6 +167,7 @@ dokumentieren.
 
 
 ## § 6 Personaleinarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000701118)
 
 (1) Für die Einarbeitung jeder einzelnen Wachperson ist vom
 Bewachungsunternehmen ein Konzept zu entwickeln, das zu umfassen hat:
@@ -203,6 +210,7 @@ Verantwortlichen zur Kenntnis zu geben.
 
 
 ## § 7 Personalweiterbildungsprozess
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000800000)
 
 (1) Die Sachkunde nach § 10 der Seeschiffbewachungsverordnung ist
 durch jährliche Schulungen auf einem aktuellen Stand zu halten.
@@ -238,6 +246,7 @@ insbesondere solche zu:
 
 
 ## § 8 Sicherstellung der Rechtsberatung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE000900000)
 
 Der Zugang der Wachpersonen zu einer Rechtsberatung nach § 4 Absatz 1
 Satz 2 Nummer 4 der Seeschiffbewachungsverordnung ist rund um die Uhr
@@ -249,6 +258,7 @@ unverzüglich zu informieren.
 
 
 ## § 9 Dokumentierte Kontroll- und Prüfprozesse
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001000000)
 
 (1) Die internen Prüfprozesse gemäß § 4 Absatz 1 Satz 2 Nummer 5 der
 Seeschiffbewachungsverordnung müssen Kontrollmechanismen für die
@@ -302,6 +312,7 @@ Anwendung.
 
 
 ## § 10 Dokumentationssystem
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001100000)
 
 Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung
 eines Dokumentationssystems die Erfüllung der Dokumentationspflichten
@@ -335,6 +346,7 @@ Hierfür sind in Textform festzulegen:
 
 
 ## § 11 Kommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001200000)
 
 (1) Die Geschäftsleitung des Bewachungsunternehmens hat durch
 Einrichtung und Aufrechterhaltung eines geeigneten
@@ -389,6 +401,7 @@ aufzubewahren. Wesentliche Vorgänge in den Betriebsabläufen sind:
 
 
 ## § 12 Verfahrensabläufe für den Einsatz
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001300000)
 
 (1) Für die Planung und Durchführung von Einsätzen auf See ist gemäß §
 5 Absatz 1 der Seeschiffbewachungsverordnung erforderlich, dass das
@@ -513,6 +526,7 @@ ebenfalls vorzulegen.
 
 
 ## § 13 Dienstanweisungen
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001400000)
 
 (1) In die allgemeine Dienstanweisung sind grundsätzliche Angaben
 mindestens zu der nachstehenden Aufzählung aufzunehmen und ihr ist
@@ -578,6 +592,7 @@ der befahrenen Küsten- und Hafenstaaten beizufügen:
 
 
 ## § 14 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001500000)
 
 (1) Das Bewachungsunternehmen hat darzustellen, welche Waffen und
 sonstige Ausrüstung verwendet werden. Dabei sind auch deren
@@ -638,6 +653,7 @@ Ausfuhrkontrolle unverzüglich mitzuteilen.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seebewachdv/BJNR162300013.html#BJNR162300013BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

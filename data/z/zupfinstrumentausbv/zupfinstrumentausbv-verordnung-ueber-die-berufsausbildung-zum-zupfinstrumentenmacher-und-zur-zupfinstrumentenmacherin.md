@@ -28,6 +28,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 der Handwerksordnung, der zuletzt durch
 Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
@@ -39,6 +40,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000200000)
 
 Der Ausbildungsberuf Zupfinstrumentenmacher und
 Zupfinstrumentenmacherin wird nach § 25 der Handwerksordnung zur
@@ -47,11 +49,13 @@ Zupfinstrumentenmacher der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ## § 3 Fachrichtungen der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000401118)
 
 (1) Die Berufsausbildung wird in einer der beiden folgenden
 Fachrichtungen durchgeführt:
@@ -72,6 +76,7 @@ entsprechend anzuwenden.
 
 
 ## § 4 Struktur und Inhalte der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000501118)
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -214,6 +219,7 @@ der Fachrichtung Harfenbau sind:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -225,6 +231,7 @@ Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000700000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -246,6 +253,7 @@ durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000801118)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres
@@ -325,6 +333,7 @@ Herstellen eines Korpusteils statt.
 
 
 ## § 8 Gesellenprüfung in der Fachrichtung Gitarrenbau
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE000901118)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -514,6 +523,7 @@ Absätze 1 bis 6 entsprechend anzuwenden.
 
 
 ## § 9 Gesellenprüfung in der Fachrichtung Harfenbau
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE001001118)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -696,6 +706,7 @@ folgende Vorgaben:
 
 
 ## § 10 Gewichtung der Prüfungsbereiche, Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE001101118)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -762,6 +773,7 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 11 Bestehende Ausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE001201118)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -770,6 +782,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum
@@ -779,6 +792,7 @@ Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin vom 27. Januar
 (zu § 5 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin
+[Direktlink](https://www.gesetze-im-internet.de/zupfinstrumentausbv/BJNR087500014.html#BJNR087500014BJNE001401118)
 
 (Fundstelle: BGBl. I 2014, 880 - 886)
 

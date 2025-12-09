@@ -25,10 +25,12 @@ Stand: § 3a ist gem. Art. 3 Abs. 4 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 7.4
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000100000)
 
 
 
 ### § 1 Steuergebiet, Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000204360)
 
 (1) Energieerzeugnisse unterliegen im Steuergebiet der Energiesteuer.
 Steuergebiet im Sinne dieses Gesetzes ist das Gebiet der
@@ -102,6 +104,7 @@ Alkoholsteuergesetzes befinden.
 
 
 ### § 1a Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007105123)
 
 Im Sinn dieses Gesetzes ist oder sind:
 
@@ -304,6 +307,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 ### § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000307360)
 
 (1) Die Steuer beträgt
 
@@ -662,6 +666,7 @@ steuerfreien Verwendung im Betrieb nicht geeignet sind.
 
 
 ### § 3 Begünstigte Anlagen, Ortsfestigkeit und Nutzungsgrad
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000403301)
 
 (1) Begünstigte Anlagen sind ortsfeste Anlagen,
 
@@ -758,6 +763,7 @@ Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 3a Sonstige begünstigte Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000501301)
 
 (1) Sonstige begünstigte Anlagen sind Arbeitsmaschinen und Fahrzeuge,
 die ausschließlich dem Güterumschlag in Seehäfen dienen.
@@ -777,6 +783,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 3b Staatliche Beihilfen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008403123)
 
 (1) Die Inanspruchnahme oder die Beantragung einer Steuerbefreiung,
 Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als
@@ -826,14 +833,17 @@ und 57.
 
 
 ## Kapitel 2 - Bestimmungen für Energieerzeugnisse außer Kohle und Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000200000)
 
 
 
 ### Abschnitt 1 - Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000300000)
 
 
 
 #### § 4 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000602360)
 
 Die folgenden Energieerzeugnisse unterliegen dem
 Steueraussetzungsverfahren (§ 5):
@@ -899,6 +909,7 @@ Steueraussetzungsverfahren (§ 5):
 
 
 #### § 5 Steueraussetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000701308)
 
 (1) Die Steuer ist ausgesetzt (Steueraussetzungsverfahren) für
 Energieerzeugnisse im Sinn des § 4, die
@@ -928,6 +939,7 @@ Steueraussetzung zu lagern (§ 7 Absatz 2).
 
 
 #### § 6 Herstellungsbetriebe für Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE000803301)
 
 (1) Herstellungsbetriebe im Sinne dieses Gesetzes sind vorbehaltlich
 der Absätze 2 und 3 Betriebe, in denen Energieerzeugnisse im Sinn des
@@ -1005,6 +1017,7 @@ wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
 
 #### § 7 Lager für Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009600123)
 
 (1) Lager für Energieerzeugnisse im Sinne dieses Gesetzes sind
 vorbehaltlich Absatz 2 Betriebe, in denen Energieerzeugnisse im Sinn
@@ -1093,6 +1106,7 @@ Erfüllung der Verbandszwecke unter Steueraussetzung gelagert werden.
 
 
 #### § 8 Entstehung der Steuer bei Entnahme in den steuerrechtlich freien Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001003123)
 
 (1) Die Steuer entsteht dadurch, dass Energieerzeugnisse im Sinn des §
 4 aus dem Steuerlager entfernt werden, ohne dass sich ein weiteres
@@ -1225,6 +1239,7 @@ sind.
 
 
 #### § 9 Herstellung außerhalb eines Herstellungsbetriebes
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001102308)
 
 (1) Werden Energieerzeugnisse im Sinn des § 4 außerhalb eines
 Herstellungsbetriebes hergestellt, entsteht die Steuer mit der
@@ -1247,6 +1262,7 @@ gelten sinngemäß.
 
 
 #### § 9a Registrierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007200308)
 
 (1) Registrierte Empfänger sind Personen, die Energieerzeugnisse unter
 Steueraussetzung
@@ -1298,6 +1314,7 @@ gilt § 8 Absatz 3 bis 6 entsprechend.
 
 
 #### § 9b Registrierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007301140)
 
 (1) Registrierte Versender sind Personen, die Energieerzeugnisse vom
 Ort der Einfuhr unter Steueraussetzung versenden dürfen.
@@ -1318,6 +1335,7 @@ Sicherheit nicht mehr ausreicht.
 
 
 #### § 9c Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007401123)
 
 (1) Begünstigte, die Energieerzeugnisse im Sinn des § 4 unter
 Steueraussetzung im Steuergebiet empfangen dürfen, sind vorbehaltlich
@@ -1428,6 +1446,7 @@ des Absatzes 2
 
 
 #### § 9d Beförderungen (Allgemeines)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007501123)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder den dazu
 ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur
@@ -1472,6 +1491,7 @@ Einfuhrmitgliedstaats Folgendes vorlegt:
 
 
 #### § 10 Beförderungen im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001202140)
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen unter Steueraussetzung,
 auch über Drittländer oder Drittgebiete, befördert werden aus
@@ -1519,6 +1539,7 @@ Begünstigten (§ 9c).
 
 
 #### § 11 Beförderungen aus anderen und in andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001303123)
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen unter Steueraussetzung,
 auch über Drittländer oder Drittgebiete, befördert werden
@@ -1600,6 +1621,7 @@ Energieerzeugnisse durch den Begünstigten (§ 9c).
 
 
 #### § 12 Weitergabe von Energieerzeugnissen durch Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001402123)
 
 Die Steuer entsteht nach dem im Zeitpunkt der Steuerentstehung
 zutreffenden Steuersatz des § 2, wenn von einem Begünstigten
@@ -1616,6 +1638,7 @@ sofort fällig.
 
 
 #### § 13 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001502123)
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen unter Steueraussetzung
 aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom
@@ -1685,6 +1708,7 @@ anzuwenden.
 
 
 #### § 14 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001605123)
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
 Steueraussetzung eintretender Fall, mit Ausnahme der in § 8 Absatz 1a
@@ -1807,10 +1831,12 @@ Antrag erstattet.
 
 
 ### Abschnitt 2 - Verbringen von Energieerzeugnissen des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000402123)
 
 
 
 #### § 15 Lieferung zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001702123)
 
 Im Sinn dieses Abschnitts werden Energieerzeugnisse im Sinn des § 4 zu
 gewerblichen Zwecken geliefert, wenn sie aus dem steuerrechtlich
@@ -1833,6 +1859,7 @@ das Steuergebiet verbringen oder verbringen lassen.
 
 
 #### § 15a Zertifizierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008900123)
 
 (1) Zertifizierte Empfänger sind Personen, die Energieerzeugnisse im
 Sinn des § 4, die aus dem steuerrechtlich freien Verkehr eines anderen
@@ -1918,6 +1945,7 @@ gelten die Absätze 3 bis 5 entsprechend.
 
 
 #### § 15b Zertifizierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009000123)
 
 (1) Zertifizierte Versender sind Personen, die Energieerzeugnisse im
 Sinn des § 4 im steuerrechtlich freien Verkehr zu gewerblichen Zwecken
@@ -1983,6 +2011,7 @@ Versender zugelassen.
 
 
 #### § 15c Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009100123)
 
 (1) Energieerzeugnisse im Sinn des § 4 des steuerrechtlich freien
 Verkehrs gelten, soweit in diesem Gesetz oder in den dazu ergangenen
@@ -2033,6 +2062,7 @@ oder an einem anderen zugelassenen Ort im Steuergebiet.
 
 
 #### § 16 Verbringen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001801308)
 
 (1) Energieerzeugnisse im Sinn des § 4, die eine Privatperson für
 ihren Eigenbedarf in einem anderen Mitgliedstaat im steuerrechtlich
@@ -2061,6 +2091,7 @@ sofort fällig.
 
 
 #### § 17 Entnahme aus Hauptbehältern
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE001901123)
 
 (1) Für Energieerzeugnisse, für die auf Grund der Ausnahmeregelungen
 des § 18b Absatz 2 Nummer 2 und 5 keine Steuer nach § 18b Absatz 1
@@ -2089,6 +2120,7 @@ abweichende Fristen bestimmen; § 8 Abs. 7 gilt sinngemäß.
 
 
 #### § 18 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002002123)
 
 (1) Versandhandel betreibt, wer in Ausübung einer selbstständigen
 wirtschaftlichen Tätigkeit Energieerzeugnisse im Sinn des § 4 aus dem
@@ -2134,6 +2166,7 @@ die Lieferung zu erfüllen.
 
 
 #### § 18a Unregelmäßigkeiten während der Beförderung im steuerrechtlich freien Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007601123)
 
 (1) Als Unregelmäßigkeit gilt, mit Ausnahme der in § 18b Absatz 2
 Nummer 1 geregelten Fälle, ein während der Beförderung von
@@ -2166,6 +2199,7 @@ Steuergebiet und zum Zeitpunkt der Feststellung eingetreten.
 
 
 #### § 18b Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009200123)
 
 (1) Die Steuer entsteht vorbehaltlich des Absatzes 2
 
@@ -2265,6 +2299,7 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 
 #### § 18c Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009300123)
 
 (1) Die Steuerschuldner nach § 18b Absatz 3 Satz 1 Nummer 1 und 2
 haben für die Energieerzeugnisse unverzüglich eine Steuererklärung
@@ -2294,16 +2329,20 @@ selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
 
 ### Abschnitt 2a - Einfuhr oder unrechtmäßiger Eingang von Energieerzeugnissen aus Drittländern oder Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG001101123)
 
 
 
 #### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002102123)
 
 
 #### § 19a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007701123)
 
 
 #### § 19b Steuerentstehung, Steuerschuldner bei der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007801123)
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der
 Energieerzeugnisse im Sinn des § 4 in den steuerrechtlich freien
@@ -2379,10 +2418,12 @@ sinngemäß.
 
 
 ### Abschnitt 3 - Steuerrechtlich freier Verkehr in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000501308)
 
 
 
 #### § 20 Differenzversteuerung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002201308)
 
 (1) Werden nach § 2 Abs. 3 Satz 1 versteuerte Energieerzeugnisse,
 ausgenommen Erdgas, nicht zu den in § 2 Abs. 3 Satz 1 und 2 genannten
@@ -2411,6 +2452,7 @@ selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
 
 #### § 21 Entstehung der Steuer für gekennzeichnete Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002300000)
 
 (1) Die Steuer entsteht für Energieerzeugnisse, die zugelassene
 Kennzeichnungsstoffe enthalten und die als Kraftstoff bereitgehalten,
@@ -2445,6 +2487,7 @@ berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
 
 #### § 22 Entstehung der Steuer für Energieerzeugnisse im Sinn des § 4, Auffangtatbestand
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002402140)
 
 (1) Ist für Energieerzeugnisse im Sinn des § 4 eine Steuer nicht auf
 Grund einer sonstigen Bestimmung dieses Gesetzes entstanden, so
@@ -2465,6 +2508,7 @@ sinngemäß.
 
 
 #### § 23 Entstehung der Steuer für sonstige Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002504123)
 
 (1) Für andere als in § 4 genannte Energieerzeugnisse, ausgenommen
 Kohle und Erdgas, entsteht die Steuer vorbehaltlich § 20 Abs. 1
@@ -2567,10 +2611,12 @@ Absatz 6 Satz 1 und 2 erbringen. Absatz 5 gilt sinngemäß.
 
 
 ### Abschnitt 4 - Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000600000)
 
 
 
 #### § 24 Begriffsbestimmungen, Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002601301)
 
 (1) Verfahren der Steuerbefreiung sind die steuerfreie Verwendung und
 die steuerfreie Verteilung. Energieerzeugnisse, die nach den §§ 25 bis
@@ -2611,6 +2657,7 @@ verwendet oder abgegeben werden.
 
 
 #### § 25 Steuerbefreiung für Verwendungen zu anderen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002702123)
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen steuerfrei verwendet
 werden zu anderen Zwecken als
@@ -2635,6 +2682,7 @@ Untersuchungszwecken.
 
 
 #### § 26 Steuerbefreiung für den Eigenverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002802301)
 
 (1) Der Inhaber eines Betriebs, der andere Energieerzeugnisse als
 Kohle und Erdgas herstellt, darf Energieerzeugnisse innerhalb des
@@ -2662,6 +2710,7 @@ oder in einem Gasgewinnungsbetrieb (§ 44 Absatz 3) statt.
 
 
 #### § 27 Steuerbefreiung, Schiff- und Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE002902360)
 
 (1) Energieerzeugnisse der Unterpositionen 2707 99 99, 2710 19 43 bis
 2710 19 99, 2710 20 11 bis 2710 20 39 und andere Schweröle der
@@ -2708,6 +2757,7 @@ Motoren bei deren Entwicklung und Herstellung.
 
 
 #### § 28 Steuerbefreiung für gasförmige Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003003301)
 
 (1) Zu den in § 2 Absatz 3 Satz 1 genannten Zwecken dürfen steuerfrei
 verwendet werden:
@@ -2745,10 +2795,12 @@ Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 #### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003101308)
 
 
 
 #### § 30 Zweckwidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003202301)
 
 (1) Die Steuer entsteht vorbehaltlich § 21 nach dem zutreffenden
 Steuersatz des § 2, wenn die Energieerzeugnisse entgegen der in der
@@ -2778,10 +2830,12 @@ treffen; § 6 Absatz 3 Satz 2 und 3 und § 8 Absatz 7 gelten sinngemäß.
 
 
 ## Kapitel 3 - Bestimmungen für Kohle
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000700000)
 
 
 
 ### § 31 Begriffsbestimmungen, Anmeldung, Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003302301)
 
 (1) Kohlebetriebe im Sinne dieses Gesetzes sind vorbehaltlich Absatz 2
 Betriebe, in denen Kohle gewonnen oder bearbeitet wird. Kohlelieferer
@@ -2814,6 +2868,7 @@ wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
 
 ### § 32 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003400000)
 
 (1) Die Steuer entsteht vorbehaltlich der §§ 34 und 35 dadurch, dass
 
@@ -2865,6 +2920,7 @@ Steuerschuldner sind Gesamtschuldner.
 
 
 ### § 33 Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003500000)
 
 (1) Der Steuerschuldner hat für Kohle, für die in einem Monat die
 Steuer nach § 32 Abs. 1 entstanden ist, bis zum 15. Tag des folgenden
@@ -2878,6 +2934,7 @@ berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
 
 ### § 34 Verbringen in das Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003602123)
 
 Wird Kohle aus einem Mitgliedstaat in das Steuergebiet verbracht,
 gelten §§ 15, 16 Absatz 1 Satz 1 und Absatz 2, die §§ 18, 18b und §
@@ -2889,6 +2946,7 @@ Kohle das dort genannte Begleitdokument nicht mitgeführt werden.
 
 
 ### § 35 Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003702123)
 
 Wird Kohle in das Steuergebiet eingeführt, gilt § 19b mit der Maßgabe
 sinngemäß, dass die Steuer nicht entsteht, wenn die Einfuhr durch den
@@ -2898,6 +2956,7 @@ anschließt.
 
 
 ### § 36 Steuerentstehung, Auffangtatbestand
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003800000)
 
 (1) Ist für Kohle eine Steuer nicht auf Grund einer sonstigen
 Bestimmung dieses Gesetzes entstanden, so entsteht sie dadurch, dass
@@ -2910,6 +2969,7 @@ selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
 
 ### § 37 Steuerbefreiung, Erlaubnis, Zweckwidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE003904301)
 
 (1) Wer Kohle steuerfrei in den Fällen des Absatzes 2 verwenden will,
 bedarf der Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt
@@ -2985,10 +3045,12 @@ Steuer.
 
 
 ## Kapitel 4 - Bestimmungen für Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000800000)
 
 
 
 ### § 38 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004003123)
 
 (1) Die Steuer entsteht dadurch, dass geliefertes oder selbst
 erzeugtes Erdgas im Steuergebiet zum Verbrauch aus dem Leitungsnetz
@@ -3058,6 +3120,7 @@ sind.
 
 
 ### § 39 Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004101308)
 
 (1) Der Steuerschuldner hat für Erdgas, für das in einem Monat
 (Veranlagungsmonat) die Steuer nach § 38 Abs. 1 entstanden ist, bis
@@ -3134,6 +3197,7 @@ sofort fällig.
 
 
 ### § 40 Nicht leitungsgebundenes Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004203123)
 
 (1) Wird Erdgas nicht leitungsgebunden aus einem Mitgliedstaat in das
 Steuergebiet verbracht, gelten die §§ 15, 16 Absatz 1 Satz 1 und
@@ -3150,6 +3214,7 @@ Wiederverdampfung von verflüssigtem Erdgas aufgenommen wird.
 
 
 ### § 41 Nicht leitungsgebundene Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004303123)
 
 (1) Wird Erdgas nicht leitungsgebunden in das Steuergebiet eingeführt,
 gilt § 19b sinngemäß mit der Maßgabe, dass keine Steuer entsteht, wenn
@@ -3162,6 +3227,7 @@ Erdgas aufgenommen wird.
 
 
 ### § 42 Differenzversteuerung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004400000)
 
 (1) Wird nach § 2 Abs. 3 Satz 1 Nr. 4 versteuertes Erdgas nicht zu den
 in § 2 Abs. 3 Satz 1 und 2 genannten Zwecken abgegeben oder verwendet,
@@ -3178,6 +3244,7 @@ Regelung treffen.
 
 
 ### § 43 Steuerentstehung, Auffangtatbestand
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004500000)
 
 (1) Ist für Erdgas eine Steuer nicht auf Grund einer sonstigen
 Bestimmung dieses Gesetzes entstanden, so entsteht sie dadurch, dass
@@ -3195,6 +3262,7 @@ Steuererklärung abzugeben und darin die Steuer selbst zu berechnen
 
 
 ### § 44 Steuerbefreiung, Erlaubnis, Zweckwidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004603301)
 
 (1) Verfahren der Steuerbefreiung sind die steuerfreie Verwendung und
 im Fall des Absatzes 2b auch die steuerfreie Verteilung von Erdgas.
@@ -3246,16 +3314,19 @@ Erlaubnis genannten Zweckbestimmung verwendet oder abgegeben, gilt §
 
 
 ## Kapitel 5 - Steuerentlastung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG000900000)
 
 
 
 ### § 45 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004700000)
 
 Die Steuerentlastung im Sinne dieses Gesetzes umfasst den Erlass, die
 Erstattung und die Vergütung einer entstandenen Steuer.
 
 
 ### § 46 Steuerentlastung beim Verbringen aus dem Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004805123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 
@@ -3339,6 +3410,7 @@ aus dem Steuergebiet verbracht oder ausgeführt hat.
 
 
 ### § 47 Steuerentlastung bei Aufnahme in Betriebe und bei steuerfreien Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE004904301)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt
 
@@ -3415,6 +3487,7 @@ Steuerentlastungsanspruch erklärt.
 
 
 ### § 47a Steuerentlastung für den Eigenverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008601123)
 
 (1) Eine teilweise Entlastung wird auf Antrag für nachweislich
 versteuerte Energieerzeugnisse gewährt, die unter den Voraussetzungen
@@ -3510,6 +3583,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt gegeben.
 
 
 ### § 48 Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem Gasöl
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005000000)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 versteuerte Anteile in Gemischen aus ordnungsgemäß gekennzeichnetem
@@ -3536,6 +3610,7 @@ Gemische der Verfügungsberechtigte.
 
 
 ### § 49 Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005102301)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 2 Absatz 1 Nummer 4 versteuerte Gasöle bis zum Steuersatz des §
@@ -3578,10 +3653,12 @@ hat.
 
 
 ### § 50 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005212301)
 
 
 
 ### § 51 Steuerentlastung für bestimmte Prozesse und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005305301)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
@@ -3639,6 +3716,7 @@ verwendet hat.
 
 
 ### § 52 Steuerentlastung für die Schiff- und Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005401360)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 versteuerte Energieerzeugnisse, die zu den in § 27 genannten Zwecken
@@ -3653,6 +3731,7 @@ verwendet hat.
 
 
 ### § 53 Steuerentlastung für die Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005506123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die
@@ -3711,6 +3790,7 @@ Stromerzeugungsanlage in ihr einsetzt.
 
 
 ### § 53a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008003123)
 
 (1) Eine teilweise Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
@@ -3927,10 +4007,12 @@ Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 53b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008101301)
 
 
 
 ### § 54 Steuerentlastung für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005606301)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 3 Satz 1 Nummer
@@ -3987,6 +4069,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 55 Steuerentlastung für Unternehmen in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005712123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 3 Satz 1 Nummer
@@ -4212,6 +4295,7 @@ Gewerbes, das die Energieerzeugnisse verwendet hat.
 
 
 ### § 56 Steuerentlastung für den Öffentlichen Personennahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE005805123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Benzine nach § 2
 Abs. 1 Nr. 1, Gasöle nach § 2 Abs. 1 Nr. 4, Erdgas, Flüssiggase und
@@ -4397,6 +4481,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 57 Steuerentlastung für Betriebe der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008801123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 2 Abs. 1 Nr. 4 versteuerte Energieerzeugnisse, die in Betrieben
@@ -4546,6 +4631,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 58 Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006002123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 versteuerte Energieerzeugnisse, die an die ausländischen Streitkräfte
@@ -4574,6 +4660,7 @@ Tankkartenverfahrens gleich.
 
 
 ### § 58a Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009400123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 versteuerte Energieerzeugnisse, die
@@ -4602,6 +4689,7 @@ Tankstellen erworben haben.
 
 
 ### § 59 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006102123)
 
 (1) Unter der Voraussetzung der Gegenseitigkeit wird den in Absatz 2
 aufgeführten Dienststellen und Personen auf Antrag die Steuer für
@@ -4642,6 +4730,7 @@ haben.
 
 
 ### § 60 Steuerentlastung bei Zahlungsausfall
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006200000)
 
 (1) Eine Steuerentlastung wird auf Antrag dem Verkäufer von
 nachweislich nach § 2 Abs. 1 Nr. 1 bis 4 versteuerten
@@ -4703,10 +4792,12 @@ Steuerbetrages an die Bundesrepublik Deutschland
 
 
 ## Kapitel 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNG001000000)
 
 
 
 ### § 61 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006302123)
 
 (1) Der Steueraufsicht im Sinn des § 209 der Abgabenordnung
 unterliegt,
@@ -4731,6 +4822,7 @@ der Probenahme die erforderliche Hilfe zu leisten.
 
 
 ### § 62 Steuerliche Betriebsleiter, Steuerhilfspersonen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006400000)
 
 (1) Der Steuerpflichtige kann sich zur Erfüllung seiner steuerlichen
 Pflichten Personen bedienen, die dem Betrieb oder dem Unternehmen
@@ -4746,6 +4838,7 @@ sein können.
 
 
 ### § 63 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006500000)
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
 stellen die Hauptzollämter für statistische Zwecke Erhebungen an und
@@ -4757,6 +4850,7 @@ allgemeine Zwecke übermitteln.
 
 
 ### § 64 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006603123)
 
 Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -4791,6 +4885,7 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ### § 65 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006701123)
 
 (1) Sichergestellt werden können
 
@@ -4836,6 +4931,7 @@ erbracht werden kann, dass
 
 
 ### § 66 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006812123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur
 Durchführung dieses Gesetzes durch Rechtsverordnung ohne Zustimmung
@@ -5474,10 +5570,12 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ### § 66a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE007002301)
 
 
 
 ### § 66b Ermächtigung zu § 55 Absatz 4, 5 und 8
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008203123)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium der Finanzen und dem
@@ -5563,6 +5661,7 @@ werden können, und dabei Folgendes zu regeln:
 
 
 ### § 66c Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008500301)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer
 Rechtsverordnung nach § 66 Absatz 1 Nummer 21 Buchstabe a bis c oder d
@@ -5578,6 +5677,7 @@ Euro geahndet werden.
 
 
 ### § 67 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE006906123)
 
 (1) Für Beförderungen von Energieerzeugnissen des steuerrechtlich
 freien Verkehrs, die vor dem 13. Februar 2023 begonnen worden sind,
@@ -5591,6 +5691,7 @@ erfolgen.
 
 
 ### § 68 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE009500123)
 
 (1) § 2 Absatz 1 ist vom 1. Juni 2022 bis zum 31. August 2022 mit der
 Maßgabe anzuwenden, dass die Steuer für 1 000 l
@@ -5669,6 +5770,7 @@ Absatz 1 und 2.
 (zu § 55)
 
 ### Anlage Zielwerte für die zu erreichende Reduzierung der Energieintensität
+[Direktlink](https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html#BJNR153410006BJNE008300140)
 
 (Fundstelle: BGBl. I 2012, 2441 - 2442)
 

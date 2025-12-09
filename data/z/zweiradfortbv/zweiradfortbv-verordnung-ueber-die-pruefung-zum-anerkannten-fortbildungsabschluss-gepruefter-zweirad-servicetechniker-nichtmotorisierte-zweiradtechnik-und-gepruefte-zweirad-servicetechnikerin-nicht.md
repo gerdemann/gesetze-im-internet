@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3
@@ -36,6 +37,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 „Geprüften Zweirad-Servicetechniker“ und zur „Geprüften Zweirad-
@@ -88,6 +90,7 @@ motorisierte Zweiradtechnik“ oder „Geprüfte Zweirad-Servicetechnikerin
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer eine der folgenden Voraussetzungen
 nachweist:
@@ -122,6 +125,7 @@ zur Prüfung rechtfertigen.
 
 
 ## § 3 Struktur der Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000400000)
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche
 
@@ -178,6 +182,7 @@ gehören die Qualifikationsschwerpunkte:
 
 
 ## § 4 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000501128)
 
 (1) Die Prüfung ist handlungsorientiert durchzuführen. Sie besteht aus
 zwei integrierten handlungsorientierten Situationsaufgaben nach den
@@ -230,6 +235,7 @@ Prüfungsdauer soll mindestens 20 und höchstens 30 Minuten betragen.
 
 
 ## § 5 Prüfungsinhalte im Handlungsbereich „Technik“
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000600000)
 
 (1) Im Qualifikationsschwerpunkt „Werkstatt- und Betriebstechnik“ soll
 die Fähigkeit nachgewiesen werden, Aufgaben der Instandhaltung von
@@ -394,6 +400,7 @@ Zweirades zu prüfen:
 
 
 ## § 6 Prüfungsinhalte im Handlungsbereich „Organisation, Kooperation und Kommunikation“
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000700000)
 
 (1) Im Qualifikationsschwerpunkt „Auftragsabwicklung“ soll die
 Fähigkeit nachgewiesen werden, Kundenaufträge unter Berücksichtigung
@@ -550,6 +557,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000801128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung
@@ -562,6 +570,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 8 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE000901128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -580,6 +589,7 @@ Punktebewertung einzubeziehen.
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den
 Prüfungsleistungen nach § 4 Absatz 2 bis 4 jeweils mindestens 50
@@ -601,6 +611,7 @@ ist die Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001600128)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -627,6 +638,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001001128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -640,6 +652,7 @@ Wiederholungsprüfung angemeldet hat.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001101128)
 
 (1) Begonnene Prüfungsverfahren zum „Geprüften Zweirad-
 Servicetechniker“ und zur „Geprüften Zweirad-Servicetechnikerin“, zum
@@ -657,12 +670,14 @@ anzuwenden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001201128)
 
 Diese Verordnung tritt am 1. März 2013 in Kraft.
 
 (zu den §§ 8 und 9)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2376 - 2377)
 
@@ -964,6 +979,7 @@ Diese Verordnung tritt am 1. März 2013 in Kraft.
 (zu § 10)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/zweiradfortbv/BJNR021400013.html#BJNR021400013BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2378)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000100311)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Verordnung vom 21.
@@ -28,17 +29,20 @@ Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000200311)
 
 Der Ausbildungsberuf Mikrotechnologe/Mikrotechnologin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000300311)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000400311)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -100,6 +104,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000500311)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen unter
 Berücksichtigung der Schwerpunkte "Halbleitertechnik" sowie
@@ -172,12 +177,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000600311)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000700311)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -186,6 +193,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000800311)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -213,6 +221,7 @@ Wirtschaftlichkeit.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE000900311)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -385,12 +394,14 @@ bestanden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE001000311)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
+[Direktlink](https://www.gesetze-im-internet.de/mikrotausbv/BJNR047700998.html#BJNR047700998BJNE001100311)
 
 (Fundstelle: BGBl. I 1998, 480 - 486)
 

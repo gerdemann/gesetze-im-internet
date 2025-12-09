@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erstanzv/BJNR341200997.html#BJNR341200997BJNE000100311)
 
 Auf Grund des § 24 Abs. 4 des Gesetzes über das Kreditwesen, der durch
 Artikel 1 Nr. 36 des Gesetzes vom 22. Oktober 1997 (BGBl. I S. 2518)
@@ -31,6 +32,7 @@ Spitzenverbände der Institute:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/erstanzv/BJNR341200997.html#BJNR341200997BJNE000200311)
 
 Anzeigen nach § 64e Abs. 2 Satz 1 des Gesetzes über das Kreditwesen
 (KWG) sind bis zum 1. April 1998 nach dem Stand vom 31. Dezember 1997
@@ -45,12 +47,14 @@ vorgesehenen Ausfertigungen beizufügen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/erstanzv/BJNR341200997.html#BJNR341200997BJNE000300311)
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
 Anzeige nach § 64e Abs. 2 Satz 1 KWG
 
 ## Anlage (Finanzdienstleistungsinstitute und Wertpapierhandelsbanken)1)
+[Direktlink](https://www.gesetze-im-internet.de/erstanzv/BJNR341200997.html#BJNR341200997BJNE000400311)
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 3413
 An die Landeszentralbank:

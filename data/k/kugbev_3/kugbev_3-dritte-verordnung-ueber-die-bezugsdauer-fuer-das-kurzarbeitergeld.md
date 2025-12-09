@@ -20,6 +20,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kugbev_3/BJNR1B00A0024.html#BJNR1B00A0024BJNE000100000)
 
 Auf Grund des § 109 Absatz 4 des Dritten Buches Sozialgesetzbuch –
 Arbeitsförderung –, der zuletzt durch Artikel 1 Nummer 1 Buchstabe d
@@ -28,6 +29,7 @@ ist, verordnet die Bundesregierung:
 
 
 ## § 1 Verlängerung der Bezugsdauer
+[Direktlink](https://www.gesetze-im-internet.de/kugbev_3/BJNR1B00A0024.html#BJNR1B00A0024BJNE000200000)
 
 Die Bezugsdauer für das Kurzarbeitergeld wird über die Bezugsdauer
 nach § 104 Absatz 1 Satz 1 des Dritten Buches Sozialgesetzbuch hinaus
@@ -35,6 +37,7 @@ auf bis zu 24 Monate, längstens bis zum 31. Dezember 2025, verlängert.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kugbev_3/BJNR1B00A0024.html#BJNR1B00A0024BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Sie tritt mit
 Ablauf des 31. Dezember 2025 außer Kraft.

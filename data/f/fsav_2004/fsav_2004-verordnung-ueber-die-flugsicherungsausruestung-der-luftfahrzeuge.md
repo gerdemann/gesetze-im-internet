@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000100000)
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 2 des Luftverkehrsgesetzes in der
 Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550), der
@@ -29,6 +30,7 @@ Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000200000)
 
 Luftfahrzeuge, die im deutschen Luftraum betrieben werden, müssen mit
 der für die sichere Durchführung der Flugsicherungsverfahren
@@ -37,6 +39,7 @@ Verordnung ausgerüstet sein.
 
 
 ## § 2 Beschaffenheit und Betriebstüchtigkeit der Flugsicherungsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000300000)
 
 (1) Die Flugsicherungsausrüstung der Luftfahrzeuge darf nur aus
 Anlagen, Geräten und Baugruppen bestehen, die auf Grund ihrer
@@ -67,6 +70,7 @@ untersagt werden.
 
 
 ## § 3 Flugsicherungsausrüstung für Flüge nach Instrumentenflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000400000)
 
 (1) Für Flüge nach Instrumentenflugregeln müssen Luftfahrzeuge
 ausgerüstet sein mit:
@@ -179,6 +183,7 @@ sein.
 
 
 ## § 4 Flugsicherungsausrüstung für Flüge nach Sichtflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000503124)
 
 (1) Für Flüge nach Sichtflugregeln müssen Flugzeuge, Drehflügler,
 Motorsegler, Segelflugzeuge, aerodynamisch gesteuerte
@@ -279,6 +284,7 @@ ausreichend.
 
 
 ## § 5 Pflichten des Führers, Eigentümers und Halters eines Luftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000601305)
 
 (1) Ein Flug darf nicht durchgeführt werden, wenn eine nach § 3 Abs. 1
 und 2 oder nach § 4 Abs. 1 bis 6 vorgeschriebene
@@ -305,6 +311,7 @@ Flugsicherungsausrüstung nicht vorhanden ist.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000700000)
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -321,6 +328,7 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsav_2004/BJNR309300004.html#BJNR309300004BJNE000800000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft, soweit
 im folgenden Absatz nichts Abweichendes bestimmt ist.

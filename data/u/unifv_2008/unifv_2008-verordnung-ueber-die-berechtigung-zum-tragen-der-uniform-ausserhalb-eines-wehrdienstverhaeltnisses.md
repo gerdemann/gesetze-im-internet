@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000100000)
 
 Auf Grund des § 4a Satz 2 in Verbindung mit § 93 Abs. 2 Nr. 2 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
@@ -27,6 +28,7 @@ Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000200000)
 
 Früheren Soldatinnen und früheren Soldaten kann für die in § 3
 genannten Anlässe das Tragen der Uniform außerhalb eines Wehrdienstes
@@ -34,6 +36,7 @@ genehmigt werden.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000301377)
 
 Uniform ist die Uniform der Soldatinnen und Soldaten der Bundeswehr
 mit den Abzeichen des Dienstgrads, den zu führen die frühere Soldatin
@@ -41,6 +44,7 @@ oder der frühere Soldat berechtigt ist.
 
 
 ## § 3 Anlässe
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000400000)
 
 Das Tragen der Uniform kann genehmigt werden für
 
@@ -73,6 +77,7 @@ Das Tragen der Uniform kann genehmigt werden für
 
 
 ## § 4 Ausschlusstatbestände
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000500000)
 
 Eine Genehmigung darf nicht erteilt werden für
 
@@ -89,6 +94,7 @@ Eine Genehmigung darf nicht erteilt werden für
 
 
 ## § 5 Antrag, Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000600000)
 
 (1) Die Genehmigung für die in § 3 Nr. 1 bis 5 genannten Anlässe wird
 auf Antrag erteilt. In den Fällen des § 3 Nr. 6 erfolgt die
@@ -119,6 +125,7 @@ Einzelfall zuständige Stelle.
 
 
 ## § 6 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000700000)
 
 (1) Die Genehmigung bedarf der Schriftform. Im Falle des § 3 Nr. 6
 kann die Genehmigung mit der Entscheidung über die Zuziehung zu der
@@ -146,6 +153,7 @@ Erreichbarkeit der genehmigenden Stelle bereitzuhalten.
 
 
 ## § 7 Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000800000)
 
 Die Genehmigung kann jederzeit widerrufen werden. Sie ist zu
 widerrufen, wenn zu befürchten ist, dass durch das Auftreten der
@@ -155,6 +163,7 @@ Trageberechtigung missbraucht wird.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/unifv_2008/BJNR077800008.html#BJNR077800008BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

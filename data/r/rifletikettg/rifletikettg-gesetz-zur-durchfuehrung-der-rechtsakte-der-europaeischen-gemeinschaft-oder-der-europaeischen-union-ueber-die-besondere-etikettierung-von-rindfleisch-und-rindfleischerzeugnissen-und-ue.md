@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000206119)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr.
 1760/2000 des Europäischen Parlaments und des Rates vom 17. Juli 2000
@@ -49,15 +51,18 @@ des Lebensmittelspezialitätenrechts und des Markenrechts.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000309360)
 
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000404377)
 
 -
 
 
 ## § 3a Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001513119)
 
 (1) Soweit es für die Etikettierung von Rindfleisch und
 Rindfleischerzeugnissen sowie für die Verkehrsbezeichnung und
@@ -119,6 +124,7 @@ oder 2 zu regeln.
 
 
 ## § 4 Zuständigkeit für die Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000506360)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung überwacht die
 Einhaltung der im Rahmen der Rechtsakte der Europäischen Gemeinschaft
@@ -130,6 +136,7 @@ auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ## § 4a Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001608360)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung ordnet für den
 Fall, dass die Rindfleischetikettierung sowie die Verkehrsbezeichnung
@@ -231,10 +238,12 @@ der Einfuhr zu regeln.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001801301)
 
 
 
 ## § 6 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000705360)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung
 
@@ -263,6 +272,7 @@ mitzuteilen.
 
 
 ## § 7 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000802360)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 der Europäischen Kommission obliegt dem Bundesministerium. Es kann
@@ -271,6 +281,7 @@ diese Befugnis auf die Bundesanstalt für Landwirtschaft und Ernährung
 
 
 ## § 8 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE000910119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den
 Bundesministerien der Finanzen und für Wirtschaft und Energie durch
@@ -315,6 +326,7 @@ gemacht werden.
 
 
 ## § 9 Unterlassungs- und Schadenersatzanspruch
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001003377)
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
 Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der
@@ -338,10 +350,12 @@ auch gegen den Inhaber des Betriebes begründet.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001103119)
 
 
 
 ## § 11 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001206119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -476,6 +490,7 @@ einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 
 ## § 12 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001301119)
 
 Ist eine Ordnungswidrigkeit nach § 11 Absatz 1 bis 5 begangen worden,
 so können
@@ -493,6 +508,7 @@ anzuwenden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettg/BJNR038000998.html#BJNR038000998BJNE001400305)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

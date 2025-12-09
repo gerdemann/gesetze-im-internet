@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
@@ -31,6 +32,7 @@ mit dem Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Industriemeister/zur Geprüften Industriemeisterin -
@@ -119,6 +121,7 @@ Papiererzeugung.
 
 
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000301308)
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften
 Industriemeisterin - Fachrichtung Papiererzeugung umfasst:
@@ -165,6 +168,7 @@ Fachgesprächs gemäß § 5 zu prüfen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000400000)
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende
 Basisqualifikationen" ist zuzulassen, wer Folgendes nachweist:
@@ -213,6 +217,7 @@ rechtfertigen.
 
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000501128)
 
 (1) Im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen"
 ist in folgenden Prüfungsbereichen zu prüfen:
@@ -434,6 +439,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000601128)
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst
 die Handlungsbereiche:
@@ -855,6 +861,7 @@ mündlichen Ergänzungsprüfung.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000702128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -867,6 +874,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -923,6 +931,7 @@ berechnen.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -988,6 +997,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE001500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -1013,6 +1023,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -1026,12 +1037,14 @@ vorangegangenen Prüfung erbrachten Leistungen ausgereicht haben.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE001002128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE001101128)
 
 Diese Verordnung tritt am 1. September 2005 in Kraft. Gleichzeitig
 tritt die Verordnung über die Prüfung zum anerkannten Abschluss
@@ -1043,6 +1056,7 @@ April 1999 (BGBl. I S. 711), außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE001203128)
 
 (Fundstelle: BGBl. I 2019, 2309 – 2310)
 
@@ -1344,6 +1358,7 @@ April 1999 (BGBl. I S. 711), außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/papindmeistprv_2005/BJNR250100005.html#BJNR250100005BJNE001303128)
 
 (Fundstelle: BGBl. I 2019, 2310 – 2311)
 

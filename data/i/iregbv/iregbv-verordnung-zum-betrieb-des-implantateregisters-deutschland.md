@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000100000)
 
 Auf Grund des § 37 Nummer 1 und 2 Buchstabe a bis h, j und k des
 Implantateregistergesetzes vom 12. Dezember 2019 (BGBl. I S. 2494),
@@ -29,9 +30,11 @@ Gesundheit:
 
 
 ## Abschnitt 1 - Beginn des Wirkbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000100000)
 
 
 ### § 1 Brustimplantate
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000303123)
 
 (1) Für Brustimplantate haben die verantwortlichen
 Gesundheitseinrichtungen ihre Pflichten nach den §§ 16, 17 Absatz 1
@@ -56,6 +59,7 @@ Matrices und chirurgische Netze.
 
 
 ### § 1a Endoprothesen an Hüfte und Knie sowie Aortenklappen-Implantate
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002901123)
 
 (1) Für Endoprothesen an Hüfte und Knie sowie für Aortenklappen-
 Implantate haben die verantwortlichen Gesundheitseinrichtungen ihre
@@ -83,6 +87,7 @@ Implantateregistergesetzes verarbeiten.
 
 
 ### § 2 Verpflichtungen der Kostenträger
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000401123)
 
 (1) Die privaten Krankenversicherungsunternehmen und die sonstigen
 Kostenträger haben ihre Pflichten nach § 17 Absatz 4 des
@@ -95,9 +100,11 @@ erstmals zum 1. Januar 2025 zu erfüllen.
 
 
 ## Abschnitt 2 - Auswertungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000200000)
 
 
 ### § 3 Besetzung der Auswertungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000500000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte entsendet
 mindestens eine bei ihm beschäftigte Person als Mitglied in jede
@@ -141,6 +148,7 @@ eine Nachfolgerin oder ein Nachfolger zu berufen.
 
 
 ### § 4 Stellung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000600000)
 
 (1) Die durch das Bundesinstitut für Arzneimittel und Medizinprodukte
 entsandten Mitglieder üben die Tätigkeit in der Auswertungsgruppe im
@@ -157,6 +165,7 @@ die gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
 
 
 ### § 5 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000700000)
 
 (1) Jede Auswertungsgruppe wählt für die Dauer von vier Jahren aus
 ihrer Mitte eine Person für den Vorsitz und zwei Personen für die
@@ -181,6 +190,7 @@ Gesundheit.
 
 
 ### § 6 Interessenkonflikt
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000800000)
 
 (1) Ein von der Geschäftsstelle berufenes Mitglied oder
 stellvertretendes Mitglied darf nicht tätig werden, wenn und soweit es
@@ -207,6 +217,7 @@ verlangen.
 
 
 ### § 7 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE000900000)
 
 (1) Die Registerstelle übermittelt die statistischen Auswertungen nach
 § 4 Absatz 1 Nummer 4 des Implantateregistergesetzes zur
@@ -230,6 +241,7 @@ Auffälligkeiten.
 
 
 ### § 8 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001000000)
 
 (1) Die Auswertungsgruppen können sich bei der Erfüllung ihrer
 Aufgaben durch Sachverständige beraten lassen. Die Beratung bedarf der
@@ -253,6 +265,7 @@ verlangen.
 
 
 ### § 9 Auswertungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001100000)
 
 (1) Der Auswertungsbericht nach § 11 Nummer 3 des
 Implantateregistergesetzes soll insbesondere folgendes enthalten:
@@ -310,9 +323,11 @@ beigefügten Stellungnahmen weiter
 
 
 ## Abschnitt 3 - Beirat
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000300000)
 
 
 ### § 10 Besetzung des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001200000)
 
 (1) Das Bundesministerium für Gesundheit beruft die Mitglieder und
 stellvertretenden Mitglieder des Beirats nach Anhörung der in § 12
@@ -342,6 +357,7 @@ oder stellvertretendes Mitglied abberufen, wenn
 
 
 ### § 11 Stellung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001300000)
 
 (1) Mitglieder und stellvertretende Mitglieder des Beirats erhalten
 Ersatz ihrer Reisekosten in entsprechender Anwendung des
@@ -355,6 +371,7 @@ Mitgliedschaft im Beirat fort.
 
 
 ### § 12 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001400000)
 
 (1) Der Beirat wählt für die Dauer der Berufungsperiode aus seiner
 Mitte eine Person für den Vorsitz und zwei Personen für die
@@ -368,6 +385,7 @@ teilzunehmen.
 
 
 ### § 13 Interessenkonflikt
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001500000)
 
 (1) Ein Mitglied oder stellvertretendes Mitglied darf nicht tätig
 werden, wenn und soweit es ein wirtschaftliches oder sonstiges
@@ -392,9 +410,11 @@ Interessenkonflikte zu verlangen.
 
 
 ## Abschnitt 4 - Produktdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000400000)
 
 
 ### § 14 Produktdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001600000)
 
 (1) Zu den Implantaten werden die in der Anlage 1 zu dieser Verordnung
 genannten Produktdaten in der Produktdatenbank entsprechend der
@@ -416,9 +436,11 @@ Gesundheit jeweils folgende Angaben:
 
 
 ## Abschnitt 5 - Meldungen an die Registerstelle und die Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000500000)
 
 
 ### § 15 Datenübermittlung durch die verantwortlichen Gesundheitseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001701123)
 
 (1) Die verantwortliche Gesundheitseinrichtung verwendet für die
 Meldungen nach den §§ 16 und 17 Absatz 1 und 3 des
@@ -503,6 +525,7 @@ Registerstelle verwendet. Sie ist zu löschen, wenn der
 
 
 ### § 16 Meldebestätigung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001801123)
 
 Die Registerstelle übermittelt der Gesundheitseinrichtung als
 Meldebestätigung nach § 4 Absatz 3 des Implantateregistergesetzes eine
@@ -541,6 +564,7 @@ zugänglichen Datenbank bereit.
 
 
 ### § 17 Berichtigung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE001901123)
 
 (1) Für die Vervollständigung oder Korrektur übermittelt die
 verantwortliche Gesundheitseinrichtung der Vertrauensstelle die Daten
@@ -570,6 +594,7 @@ verantwortliche Gesundheitseinrichtung.
 
 
 ### § 18 Datenübermittlung durch die Krankenkassen, privaten Krankenversicherungsunternehmen und sonstigen Kostenträger; Abruf durch die Registerstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002000000)
 
 (1) Die gesetzlichen Krankenkassen, privaten
 Krankenversicherungsunternehmen und sonstigen Kostenträger übermitteln
@@ -593,9 +618,11 @@ Richtigkeit und Vollständigkeit der Daten erforderlich ist.
 
 
 ## Abschnitt 6 - Zugang zu den Registerdaten
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000600000)
 
 
 ### § 19 Datenübermittlung an Nutzungsberechtigte nach § 29 des Implantateregistergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002100000)
 
 (1) Die Registerstelle übermittelt regelmäßig
 
@@ -670,6 +697,7 @@ Auswertungsgruppen beraten lassen.
 
 
 ### § 20 Datenübermittlung zu Forschungszwecken oder statistischen Zwecken nach § 31 des Implantateregistergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002200000)
 
 (1) Ein Antrag auf Datenübermittlung zu wissenschaftlichen
 Forschungszwecken oder für statistische Vorhaben nach § 31 des
@@ -746,6 +774,7 @@ möglich ist.
 
 
 ### § 21 Nutzungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002300000)
 
 (1) Die Übermittlung der anonymisierten Daten durch die Registerstelle
 erfolgt auf der Grundlage einer Nutzungsvereinbarung. Die
@@ -820,9 +849,11 @@ soll die Nutzungsvereinbarung zusätzlich folgendes enthalten:
 
 
 ## Abschnitt 7 - Weitere Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000700000)
 
 
 ### § 22 Verfahren zur Erfüllung des Auskunftsrechts nach Artikel 15 und des Rechts auf Berichtigung nach Artikel 16 der Datenschutz-Grundverordnung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002400000)
 
 (1) Die nachstehenden Absätze regeln das Verfahren für das Verlangen
 der betroffenen Person
@@ -901,6 +932,7 @@ gekennzeichneten Umschlag zur Weitergabe an die betroffene Person
 
 
 ### § 23 Verfahren zur unverzüglichen Information der Patientinnen und Patienten, die von einer Sicherheitskorrekturmaßnahme im Feld betroffen sind
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002500000)
 
 In den Fällen des § 4 Absatz 4 des Implantateregistergesetzes
 übermittelt die Registerstelle jeder verantwortlichen
@@ -911,9 +943,11 @@ Sicherheitsanweisung.
 
 
 ## Abschnitt 7a - Vergütungsminderung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000900119)
 
 
 ### § 23a Vergütungsminderung
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE003101128)
 
 (1) In den Fällen des § 35 Absatz 1 des Implantateregistergesetzes
 vermindert sich der Anspruch einer verantwortlichen
@@ -934,15 +968,18 @@ versichert ist.
 
 
 ## Abschnitt 8 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNG000800000)
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002600000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 14)
 
 ### Anlage 1 In der Produktdatenbank zu erfassende Produktdaten
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002701123)
 
 (Fundstelle: BGBl. I 2021, 4352; bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -1056,6 +1093,7 @@ V.  Besondere Angaben für Aortenklappen-Implantate
 
 
 ### Anlage 2 (zu § 15 Absatz 2 Satz 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/iregbv/BJNR434400021.html#BJNR434400021BJNE002802123)
 
 (Fundstelle: BGBl. I 2021, 4353 - 4354; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

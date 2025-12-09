@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Kontrollrahmen
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000100000)
 
 (1) Die Bundesregierung unterliegt hinsichtlich der Tätigkeit des
 Bundesamtes für Verfassungsschutz, des Militärischen Abschirmdienstes
@@ -32,6 +33,7 @@ Kommission nach dem Artikel 10-Gesetz bleiben unberührt.
 
 
 ## § 2 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000201377)
 
 (1) Der Deutsche Bundestag wählt zu Beginn jeder Wahlperiode die
 Mitglieder des Parlamentarischen Kontrollgremiums aus seiner Mitte.
@@ -52,6 +54,7 @@ Kontrollgremium ausscheidet.
 
 
 ## § 3 Zusammentritt
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000301305)
 
 (1) Das Parlamentarische Kontrollgremium tritt mindestens einmal im
 Vierteljahr zusammen. Es wählt eine Vorsitzende oder einen
@@ -73,6 +76,7 @@ hat.
 
 
 ## § 4 Pflicht der Bundesregierung zur Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000401305)
 
 (1) Die Bundesregierung unterrichtet das Parlamentarische
 Kontrollgremium umfassend über die allgemeine Tätigkeit der in § 1
@@ -99,6 +103,7 @@ genannten Behörden bleibt unberührt.
 
 
 ## § 5 Befugnisse des Kontrollgremiums, Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000501305)
 
 (1) Soweit sein Recht auf Kontrolle reicht, kann das Parlamentarische
 Kontrollgremium von der Bundesregierung und den in § 1 genannten
@@ -125,6 +130,7 @@ werden.
 
 
 ## § 5a Ständiger Bevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001500305)
 
 (1) Das Parlamentarische Kontrollgremium wird durch regelmäßige und
 einzelfallbezogene Untersuchungen einer oder eines Ständigen
@@ -161,6 +167,7 @@ Tätigkeit der oder des Ständigen Bevollmächtigten.
 
 
 ## § 5b Ernennung und Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001601377)
 
 (1) Die oder der Ständige Bevollmächtigte wird auf Vorschlag des
 Parlamentarischen Kontrollgremiums von der Präsidentin oder dem
@@ -211,6 +218,7 @@ Bundesverfassungsgerichtsgesetzes bleibt unberührt.
 
 
 ## § 6 Umfang der Unterrichtungspflicht, Verweigerung der Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000601305)
 
 (1) Die Verpflichtung der Bundesregierung nach den §§ 4 und 5
 erstreckt sich nur auf Informationen und Gegenstände, die der
@@ -236,6 +244,7 @@ Kontrollgremium zu begründen.
 
 
 ## § 7 Beauftragung eines Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000700000)
 
 (1) Das Parlamentarische Kontrollgremium kann mit der Mehrheit von
 zwei Dritteln seiner Mitglieder nach Anhörung der Bundesregierung im
@@ -259,6 +268,7 @@ der Bekanntgabe gegenüber den Belangen der Betroffenen überwiegt.
 
 
 ## § 8 Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000802377)
 
 (1) Angehörigen der Nachrichtendienste ist es gestattet, sich in
 dienstlichen Angelegenheiten sowie bei innerdienstlichen Missständen,
@@ -279,6 +289,7 @@ werden.
 
 
 ## § 9 Mitberatung
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE000900000)
 
 (1) Der Vorsitzende, sein Stellvertreter und ein beauftragtes Mitglied
 können an den Sitzungen des Vertrauensgremiums nach § 10a der
@@ -298,6 +309,7 @@ teilnehmen.
 
 
 ## § 10 Geheime Beratungen, Bewertungen, Sondervoten
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001001305)
 
 (1) Die Beratungen des Parlamentarischen Kontrollgremiums sind geheim.
 Die Mitglieder des Gremiums und die an den Sitzungen teilnehmenden
@@ -336,6 +348,7 @@ der Stelle, die die Informationen übermittelt hat, zulässig.
 
 
 ## § 11 Unterstützung der Mitglieder durch eigene Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001100000)
 
 (1) Die Mitglieder des Parlamentarischen Kontrollgremiums haben das
 Recht, zur Unterstützung ihrer Arbeit Mitarbeiter ihrer Fraktion nach
@@ -355,6 +368,7 @@ teilnehmen können. § 10 Absatz 1 gilt entsprechend.
 
 
 ## § 12 Beschäftigte des Kontrollgremiums
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001202377)
 
 (1) Dem Parlamentarischen Kontrollgremium werden zur Unterstützung im
 erforderlichen Umfang Beschäftigte der Bundestagsverwaltung
@@ -381,6 +395,7 @@ nach Maßgabe der Weisungen entsprechend.
 
 
 ## § 12a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001702377)
 
 Bei der Berechnung der Amtszeit nach § 5b Absatz 1 Satz 1 ist der
 bisher in dem Amt als die oder der Ständige Bevollmächtigte in einem
@@ -388,6 +403,7 @@ bisher in dem Amt als die oder der Ständige Bevollmächtigte in einem
 
 
 ## § 13 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001300000)
 
 Das Parlamentarische Kontrollgremium erstattet dem Deutschen Bundestag
 Bericht über seine bisherige Kontrolltätigkeit, mindestens in der
@@ -398,6 +414,7 @@ besonderer Bedeutung, nachgekommen ist.
 
 
 ## § 14 Gerichtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001400000)
 
 Das Bundesverfassungsgericht entscheidet über Streitigkeiten zwischen
 dem Parlamentarischen Kontrollgremium und der Bundesregierung auf
@@ -406,6 +423,7 @@ Mitglieder des Parlamentarischen Kontrollgremiums.
 
 
 ## § 15 Zusammenwirken
+[Direktlink](https://www.gesetze-im-internet.de/pkgrg/BJNR234610009.html#BJNR234610009BJNE001800377)
 
 (1) Das Parlamentarische Kontrollgremium kann sich mit den für die
 Kontrolle der in Absatz 1 genannten Behörden zuständigen Stellen unter

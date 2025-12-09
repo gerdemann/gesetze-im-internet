@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -33,6 +34,7 @@ Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000200310)
 
 (1) Der Ausbildungsberuf
 Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte
@@ -60,11 +62,13 @@ gewählt werden.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000300310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000400310)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -281,6 +285,7 @@ E.  in der Fachrichtung landwirtschaftliche Sozialversicherung:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000500310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -302,6 +307,7 @@ ist auch in den Prüfungen nach den §§ 8 bis 13 nachzuweisen.
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000600310)
 
 (1) Während der Berufsausbildung beim Versicherungsträger soll der
 Auszubildende mit Vorgängen befaßt werden, die den im
@@ -321,12 +327,14 @@ Auszubildenden zum Besuch der Berufsschule zu organisieren.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -335,6 +343,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -367,6 +376,7 @@ durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung allgemeine Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001000310)
 
 (1) Die Abschlußprüfung in der Fachrichtung allgemeine
 Krankenversicherung erstreckt sich auf die in der Anlage 1
@@ -461,6 +471,7 @@ Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 10 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001100310)
 
 (1) Die Abschlußprüfung in der Fachrichtung gesetzliche
 Unfallversicherung erstreckt sich auf die in der Anlage 2 aufgeführten
@@ -555,6 +566,7 @@ ist die Prüfung nicht bestanden.
 
 
 ## § 11 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001200310)
 
 (1) Die Abschlußprüfung in der Fachrichtung gesetzliche
 Rentenversicherung erstreckt sich auf die in der Anlage 3 aufgeführten
@@ -649,6 +661,7 @@ ist die Prüfung nicht bestanden.
 
 
 ## § 12 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung knappschaftliche Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001300310)
 
 (1) Die Abschlußprüfung in der Fachrichtung knappschaftliche
 Sozialversicherung erstreckt sich auf die in der Anlage 4 aufgeführten
@@ -746,6 +759,7 @@ ist die Prüfung nicht bestanden.
 
 
 ## § 13 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung landwirtschaftliche Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001400310)
 
 (1) Die Abschlußprüfung in der Fachrichtung landwirtschaftliche
 Sozialversicherung erstreckt sich auf die in der Anlage 5 aufgeführten
@@ -843,6 +857,7 @@ ist die Prüfung nicht bestanden.
 
 
 ## § 14 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001500310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -851,12 +866,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001600310)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 4)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung allgemeine Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001701308)
 
 (Fundstelle: BGBl. I 1996, S. 1981 - 1988;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2067,6 +2084,7 @@ fortzuführen.
 (zu § 4)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001800310)
 
 (Fundstelle: BGBl. I 1996, S. 1989 - 1995)
 
@@ -3177,6 +3195,7 @@ fortzuführen.
 (zu § 4)
 
 ## Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE001900310)
 
 (Fundstelle: BGBl. I 1996, S. 1996 - 2003)
 
@@ -4786,6 +4805,7 @@ fortzuführen.
 (zu § 4)
 
 ## Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung knappschaftliche Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE002000310)
 
 (Fundstelle: BGBl. I 1996, S. 2004 - 2011)
 
@@ -6413,6 +6433,7 @@ fortzuführen.
 (zu § 4)
 
 ## Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung landwirtschaftliche Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svfangausbv_1997/BJNR197500996.html#BJNR197500996BJNE002100310)
 
 (Fundstelle: BGBl. I 1996, S. 2012 - 2019)
 

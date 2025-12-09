@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/versruhg/BJNR016840991.html#BJNR016840991BJNE000100314)
 
 (1) Die Ansprüche auf Leistungen aus Sonder- oder
 Zusatzversorgungssystemen nach Anlage II Kapitel VIII Sachgebiet H
@@ -49,6 +50,7 @@ beziehen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/versruhg/BJNR016840991.html#BJNR016840991BJNE000203126)
 
 (1) Über das Ruhen entscheidet das Bundesamt für Soziale Sicherung.
 Dies gilt auch für am 1. Januar 2023 noch nicht abgeschlossene
@@ -61,10 +63,12 @@ Sozialgerichtsgesetzes entsprechend.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versruhg/BJNR016840991.html#BJNR016840991BJNE000306126)
 
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/versruhg/BJNR016840991.html#BJNR016840991BJNE000402126)
 
 (1) Die Staatsanwaltschaft teilt dem Bundesamt für Soziale Sicherung
 mit, wenn sich der Berechtigte in den Fällen des § 1 Abs. 1 dem
@@ -87,6 +91,7 @@ jeweils maßgebenden Regelungen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/versruhg/BJNR016840991.html#BJNR016840991BJNE000502126)
 
 Die Kommission nach § 3 in der bis zum 31. Dezember 2022 geltenden
 Fassung wird mit Wirkung zum 1. Januar 2023 aufgelöst. Zu diesem
@@ -95,6 +100,7 @@ angehörenden Mitglieder.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/versruhg/BJNR016840991.html#BJNR016840991BJNE000600314)
 
 Über Streitigkeiten aufgrund dieses Gesetzes entscheiden die Gerichte
 der Sozialgerichtsbarkeit.

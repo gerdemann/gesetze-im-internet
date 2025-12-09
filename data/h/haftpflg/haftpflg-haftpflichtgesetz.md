@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000101308)
 
 (1) Wird bei dem Betrieb einer Schienenbahn oder einer Schwebebahn ein
 Mensch getötet, der Körper oder die Gesundheit eines Menschen verletzt
@@ -45,6 +46,7 @@ Gewalt verursacht ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000200300)
 
 (1) Wird durch die Wirkungen von Elektrizität, Gasen, Dämpfen oder
 Flüssigkeiten, die von einer Stromleitungs- oder Rohrleitungsanlage
@@ -85,6 +87,7 @@ Zeichen oder Lauten dienen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000300300)
 
 Wer ein Bergwerk, einen Steinbruch, eine Gräberei (Grube) oder eine
 Fabrik betreibt, haftet, wenn ein Bevollmächtigter oder ein
@@ -96,6 +99,7 @@ Schaden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000400300)
 
 Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten
 mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; bei
@@ -105,6 +109,7 @@ Geschädigten gleich.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000502311)
 
 (1) Im Falle der Tötung ist der Schadensersatz (§§ 1, 2 und 3) durch
 Ersatz der Kosten einer versuchten Heilung sowie des
@@ -134,6 +139,7 @@ Getöteten war.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000601308)
 
 Im Falle einer Körperverletzung ist der Schadensersatz (§§ 1, 2 und 3)
 durch Ersatz der Kosten der Heilung sowie des Vermögensnachteils zu
@@ -145,6 +151,7 @@ eine billige Entschädigung in Geld gefordert werden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000700300)
 
 Die Ersatzpflicht nach den §§ 1 bis 3 dieses Gesetzes darf, soweit es
 sich um Personenschäden handelt, im voraus weder ausgeschlossen noch
@@ -159,6 +166,7 @@ Vereinbarungen sind nichtig.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000800300)
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
 Erwerbsfähigkeit und wegen Vermehrung der Bedürfnisse des Verletzten
@@ -177,6 +185,7 @@ dem Urteile bestimmten Sicherheit verlangen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE000901308)
 
 Der Unternehmer oder der in § 2 bezeichnete Inhaber der Anlage haftet
 im Falle der Tötung oder Verletzung eines Menschen für jede Person bis
@@ -185,6 +194,7 @@ von jährlich 36.000 Euro.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE001001308)
 
 (1) Der Unternehmer oder der in § 2 bezeichnete Inhaber der Anlage
 haftet für Sachschäden nur bis zum Betrag von 300.000 Euro, auch wenn
@@ -200,6 +210,7 @@ Grundstücken.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE001100300)
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
@@ -207,6 +218,7 @@ Anwendung.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE001200300)
 
 Unberührt bleiben gesetzliche Vorschriften, nach denen ein
 Ersatzpflichtiger in weiterem Umfang als nach den Vorschriften dieses
@@ -215,6 +227,7 @@ verantwortlich ist.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE001301308)
 
 (1) Sind nach den §§ 1, 2 mehrere einem Dritten zum Schadensersatz
 verpflichtet, so hängt im Verhältnis der Ersatzpflichtigen
@@ -245,6 +258,7 @@ verantwortlich ist.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/haftpflg/BJNR002070871.html#BJNR002070871BJNE001400300)
 
 Für Klagen, die auf Grund dieses Gesetzes erhoben werden, ist auch das
 Gericht zuständig, in dessen Bezirk das schädigende Ereignis

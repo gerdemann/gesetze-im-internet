@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000100000)
 
 Auf Grund des § 10 Absatz 2 des Tiergesundheitsgesetzes vom 22. Mai
 2013 (BGBl. I S. 1324) verordnet das Bundesministerium für Ernährung
@@ -25,6 +26,7 @@ und Landwirtschaft:
 
 
 ## § 1 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000200000)
 
 (1) Die Länder führen jährlich in den Monaten September bis Januar des
 Folgejahres ein Monitoring zur Untersuchung von Wildvögeln,
@@ -73,6 +75,7 @@ nachgewiesenen Virus.
 
 
 ## § 2 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000300000)
 
 Jagdausübungsberechtigte haben nach näherer Anweisung der zuständigen
 Behörde
@@ -89,17 +92,20 @@ Behörde
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 2)
 
 ## Anlage 1 Vorgaben für das im Rahmen des Monitorings zu untersuchende Probenmaterial
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000600000)
 
 (Fundstelle: BGBl. I 2016, 450)
 
@@ -127,6 +133,7 @@ Kapitel XII des Anhangs der Entscheidung 2006/437/EG.
 (zu § 1 Absatz 3)
 
 ## Anlage 2 Probenschlüssel für die Untersuchungen auf Geflügelpest-Virus bei Wildvögeln
+[Direktlink](https://www.gesetze-im-internet.de/wvgeflpestmonv/BJNR044900016.html#BJNR044900016BJNE000700000)
 
 (Fundstelle: BGBl. I 2016, 451)
 

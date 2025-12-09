@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000100311)
 
 Auf Grund des § 5 Abs. 1 Nr. 3, 4 und 5 in Verbindung mit § 12 des
 Seelotsgesetzes in der Fassung der Bekanntmachung vom 13. September
@@ -32,6 +33,7 @@ der Küstenländer und der Bundeslotsenkammer:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000203305)
 
 (1) Seeschiffe im Sinne dieser Verordnung sind Schiffe, die in einem
 Seeschiffsregister oder einem vergleichbaren ausländischen Register
@@ -93,12 +95,14 @@ Schifffahrtsamt.
 
 
 ## § 2 Lotsenbrüderschaft
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000300311)
 
 Der Lotsdienst auf dem Seelotsrevier Ems obliegt den in der
 Lotsenbrüderschaft Emden zusammengeschlossenen Seelotsen.
 
 
 ## § 3 Lotsenstationen, Lotsenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000401305)
 
 (1) Auf dem Seelotsrevier Ems bestehen Lotsenstationen in Emden und
 auf Borkum.
@@ -109,6 +113,7 @@ emsaufwärts gelegenen Seehäfen erfolgt im Bereich Emden-Reede.
 
 
 ## § 4 Lotsenversetzpositionen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000501305)
 
 (1) Seelotsen werden im Bereich der Leuchttonne „Westerems“ (53° 39,3’
 Nord und 006° 16,3’ Ost) und im Bereich der Leuchttonne „GW/TG“
@@ -139,6 +144,7 @@ vereinbaren.
 
 
 ## § 5 Lotsenanforderung und Versetzmanöver
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000602119)
 
 (1) Führer von Schiffen, die zur Annahme eines Seelotsen verpflichtet
 sind oder einen Seelotsen annehmen wollen, müssen den Seelotsen
@@ -200,6 +206,7 @@ Versetzfahrzeug während des Versetzmanövers zu sorgen.
 
 
 ## § 6 Pflicht zur Annahme eines Bordlotsen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000702119)
 
 (1) Führer von Seeschiffen sind zur Annahme eines Seelotsen an Bord
 verpflichtet,
@@ -265,6 +272,7 @@ nicht überschritten werden:
 
 
 ## § 7 Ausnahmen von der Lotsenannahmepflicht
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000800311)
 
 Von der Lotsenannahmepflicht ausgenommen sind die Führer von
 Dienstschiffen des Bundes und der Häfen- und Schifffahrtsverwaltungen
@@ -275,6 +283,7 @@ Eemshaven und Emden.
 
 
 ## § 8 Befreiung von der Annahmepflicht eines Bordlotsen ohne Antrag für Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE000900311)
 
 (1) Von der Lotsenannahmepflicht befreit sind Führer von Seeschiffen
 mit einer Länge bis einschließlich 120 m, einer Breite bis
@@ -317,6 +326,7 @@ ein typgleiches Schiff übertragen.
 
 
 ## § 9 Befreiung von der Annahmepflicht eines Bordlotsen auf Antrag für Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001002305)
 
 (1) Führer von Seeschiffen können auf Antrag von der
 Schifffahrtspolizeibehörde von der Lotsenannahmepflicht befreit werden
@@ -392,6 +402,7 @@ dem Fahrzeug nach Absatz 2 mindestens dreimal befahren hat.
 
 
 ## § 10 Befreiung für Tankschiffe
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001102305)
 
 (1) Die Schifffahrtspolizeibehörde kann auf Antrag von der
 Lotsenannahmepflicht befreien:
@@ -524,6 +535,7 @@ werden.
 
 
 ## § 11 Stellvertreter des Schiffsführers
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001200311)
 
 Die Vorschriften der §§ 8 bis 10 über die Befreiung von der
 Lotsenannahmepflicht gelten auch für den Stellvertreter des
@@ -533,6 +545,7 @@ wenn auch der Schiffsführer von der Lotsenannahmepflicht befreit ist.
 
 
 ## § 12 Befreiung von der Lotsenannahmepflicht in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001300311)
 
 Die Schifffahrtspolizeibehörde kann den Führer eines Schiffes in
 besonderen Einzelfällen über die Vorschriften der §§ 8 bis 10 hinaus
@@ -541,6 +554,7 @@ befreien.
 
 
 ## § 13 Landradarberatung
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001401305)
 
 (1) Führer von Fahrzeugen, die nach den Vorschriften der §§ 8 bis 12
 von der Lotsenannahmepflicht befreit sind, haben bei Sichtweiten unter
@@ -575,6 +589,7 @@ nach § 5 Abs. 1 und 3 erfolgt.
 
 
 ## § 14 Anordnung zur Annahme von Seelotsen zur Abwehr einer Gefahr/Widerruf von Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001500311)
 
 (1) Die Schifffahrtspolizeibehörde kann über die Vorschriften der §§ 6
 und 13 hinaus aus schifffahrtspolizeilichen Gründen die Annahme eines
@@ -587,6 +602,7 @@ Befreiungen nach dieser Lotsverordnung widerrufen.
 
 
 ## § 15 Lotsentätigkeit nach der ersten Bestallung
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001601305)
 
 (1) Nach seiner ersten Bestallung darf ein Seelotse während einer
 Übergangszeit nur Schiffe bestimmter Größe lotsen, und zwar
@@ -619,6 +635,7 @@ aufgeführten Parameter gelten folgende Obergrenzen:
 
 
 ## § 16 Distanzlotsungen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001700311)
 
 Die Seelotsen der Lotsenbrüderschaft Emden dürfen über ihr
 Seelotsrevier hinaus zwischen den Außenstationen der deutschen
@@ -627,6 +644,7 @@ diesen Bereich hinaus dürfen sie nicht lotsen.
 
 
 ## § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001800311)
 
 Ordnungswidrig im Sinne des § 47 Abs. 1 Nr. 7 des Seelotsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -656,22 +674,26 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 18 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE001902305)
 
 -
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE002000311)
 
 -
 
 
 ## § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE002100311)
 
 Diese Verordnung tritt am 1. März 2003 in Kraft.
 
 (zu § 5 Absatz 3)
 
 ## Anlage 1 Ort und Anmeldung für die Lotsenanforderung
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE002202119)
 
 (Fundstelle: BGBl. 2024 I Nr. 262, S. 3)
 
@@ -792,6 +814,7 @@ des Seelotsen bis 18 Uhr angezeigt werden.
 Bescheinigung
 
 ## Anlage 2 zum Nachweis der Befreiung von der Lotsenannahmepflicht \*)
+[Direktlink](https://www.gesetze-im-internet.de/emslotsv_2003/BJNR504120003.html#BJNR504120003BJNE002301305)
 
 Fundstelle des Originaltextes: BAnz. 2008, Nr. 64, 1512
 Bescheinigung

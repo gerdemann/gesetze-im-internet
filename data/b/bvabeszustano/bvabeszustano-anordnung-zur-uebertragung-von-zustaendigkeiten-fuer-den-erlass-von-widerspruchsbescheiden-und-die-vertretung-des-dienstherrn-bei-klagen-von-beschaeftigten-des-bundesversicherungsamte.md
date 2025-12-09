@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bvabeszustano/BJNR066900012.html#BJNR066900012BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -26,6 +27,7 @@ Bundesministerium für Arbeit und Soziales an:
 
 
 ## I. Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bvabeszustano/BJNR066900012.html#BJNR066900012BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Entscheidung über Widersprüche von
 Beschäftigten des Bundesversicherungsamtes gegen Verwaltungsakte sowie
@@ -35,6 +37,7 @@ hat.
 
 
 ## II. Verwaltungsgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bvabeszustano/BJNR066900012.html#BJNR066900012BJNE000300000)
 
 Dem Bundesverwaltungsamt wird die Vertretung des Dienstherrn bei
 Klagen von Beschäftigten des Bundesversicherungsamtes sowie bei Klagen
@@ -47,6 +50,7 @@ Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
 
 ## III. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bvabeszustano/BJNR066900012.html#BJNR066900012BJNE000400000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
 

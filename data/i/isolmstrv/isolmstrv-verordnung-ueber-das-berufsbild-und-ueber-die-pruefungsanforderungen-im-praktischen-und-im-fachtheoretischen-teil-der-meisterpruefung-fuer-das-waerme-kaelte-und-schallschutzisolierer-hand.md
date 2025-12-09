@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE000400307)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -31,10 +32,12 @@ Bildung und Wissenschaft verordnet:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNG000100307)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE000500307)
 
 (1) Dem Wärme-, Kälte- und Schallschutzisolierer-Handwerk sind
 folgende Tätigkeiten zuzurechnen:
@@ -162,10 +165,12 @@ folgende Kenntnisse und Fertigkeiten zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNG000200307)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE000600307)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -181,6 +186,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE000700307)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehenden Arbeiten
 anzufertigen:
@@ -227,6 +233,7 @@ Maßangaben, Massenberechnungen, Vorkalkulation und Angebot vorzulegen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE000800307)
 
 (1) Als Arbeitsprobe sind zwei der nachstehenden Arbeiten auszuführen:
 
@@ -251,6 +258,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE000900307)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern
 nachzuweisen:
@@ -349,15 +357,18 @@ ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNG000300307)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE001000307)
 
 -
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -367,10 +378,12 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE001201128)
 
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE001300307)
 
 (1) Diese Verordnung tritt am 1. November 1982 in Kraft.
 
@@ -380,6 +393,7 @@ nicht mehr anzuwenden.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/isolmstrv/BJNR006630982.html#BJNR006630982BJNE001400307)
 
 Der Bundesminister für Wirtschaft
 

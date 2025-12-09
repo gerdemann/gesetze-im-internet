@@ -27,9 +27,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000200000)
 
 Die Ausbildungsberufe mit den Berufsbezeichnungen
 
@@ -49,6 +51,7 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000300000)
 
 (1) Die Berufsausbildung im Ausbildungsberuf Fachkraft für Gastronomie
 dauert zwei Jahre.
@@ -63,6 +66,7 @@ Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000400000)
 
 (1) Ein HACCP-Konzept im Sinne dieser Verordnung ist ein
 systematisches, nach übergeordneten Grundsätzen auf Betriebsebene
@@ -84,6 +88,7 @@ vertieftes Fachwissen.
 
 
 ### § 4 Gegenstand der Berufsausbildungen und Ausbildungsrahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung zur Fachkraft für Gastronomie sind
 mindestens die im Ausbildungsrahmenplan (Anlage 1) genannten
@@ -115,6 +120,7 @@ Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung zur Fachkraft für Gastronomie sowie Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -205,6 +211,7 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Struktur der Berufsausbildung zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie sowie Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -298,6 +305,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 7 Struktur der Berufsausbildung zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie sowie Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000800000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -385,6 +393,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 8 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE000900000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des jeweiligen Ausbildungsrahmenplans für jeden
@@ -393,12 +402,15 @@ erstellen.
 
 
 ## Abschnitt 2 - Berufsausbildung zur Fachkraft für Gastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000200000)
 
 
 ### Unterabschnitt 1 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000300000)
 
 
 #### § 9 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001000000)
 
 (1) Die Zwischenprüfung soll im dritten Ausbildungshalbjahr
 stattfinden.
@@ -407,6 +419,7 @@ stattfinden.
 
 
 #### § 10 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001100000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -423,6 +436,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 #### § 11 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001200000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich „Wirtschaftsdienst“
 statt.
@@ -484,9 +498,11 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### Unterabschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000400000)
 
 
 #### § 12 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001300000)
 
 (1) Die Abschlussprüfung findet am Ende der Berufsausbildung statt.
 
@@ -494,6 +510,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001400000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -510,6 +527,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 #### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001500000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -526,6 +544,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 #### § 15 Prüfungsbereich „Produktion und Service“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001600000)
 
 (1) Im Prüfungsbereich „Produktion und Service“ besteht die Prüfung
 aus zwei Teilen.
@@ -624,6 +643,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 16 Prüfungsbereich „Gasterlebnis, Verkaufsförderung und Warenlagerung“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001700000)
 
 (1) Im Prüfungsbereich „Gasterlebnis, Verkaufsförderung und
 Warenlagerung“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -712,6 +732,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 17 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001800000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -725,6 +746,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -778,6 +800,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 #### § 19 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002000000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich für die schriftlich zu
 bearbeitenden Aufgaben eine mündliche Ergänzungsprüfung beantragen.
@@ -820,12 +843,15 @@ gewichten.
 
 
 ## Abschnitt 3 - Berufsausbildung zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000500000)
 
 
 ### Unterabschnitt 1 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000600000)
 
 
 #### § 20 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002100000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -841,6 +867,7 @@ der Abschlussprüfung stattfinden.
 
 
 #### § 21 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002200000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -857,6 +884,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 22 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002300000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Produktion
 und Service“ statt.
@@ -958,6 +986,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 23 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002400000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -979,6 +1008,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 24 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002500000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -999,6 +1029,7 @@ statt:
 
 
 #### § 25 Prüfungsbereich „Gasterlebnis, Verkaufsförderung, Produktkompetenz und Warenlagerung“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002600000)
 
 (1) Im Prüfungsbereich „Gasterlebnis, Verkaufsförderung,
 Produktkompetenz und Warenlagerung“ hat der Prüfling nachzuweisen,
@@ -1062,6 +1093,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 26 Prüfungsbereich „Veranstaltungsplanung, Restaurant- und Bankettservice“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002700000)
 
 (1) Die Prüfung im „Prüfungsbereich Veranstaltungsplanung, Restaurant-
 und Bankettservice“ besteht aus zwei Teilen.
@@ -1129,6 +1161,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 27 Prüfungsbereich „Teamkommunikation und Gesprächsführung“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002800000)
 
 (1) Im Prüfungsbereich „Teamkommunikation und Gesprächsführung“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1171,6 +1204,7 @@ Gesprächssimulation stehen dem Prüfling 10 Minuten zur Verfügung.
 
 
 #### § 28 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE002900000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1184,6 +1218,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 29 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1262,6 +1297,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 #### § 30 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003100000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich für die schriftlich zu
 bearbeitenden Aufgaben eine mündliche Ergänzungsprüfung beantragen.
@@ -1304,9 +1340,11 @@ gewichten.
 
 
 ### Unterabschnitt 2 - Zusatzqualifikation Bar und Wein
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000700000)
 
 
 #### § 31 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003200000)
 
 (1) Über das in § 6 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Bar und Wein vereinbart werden.
@@ -1316,6 +1354,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 #### § 32 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003300000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -1387,9 +1426,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ### Unterabschnitt 3 - Weitere Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000800000)
 
 
 #### § 33 Befreiung von Teil 1 der Abschlussprüfung und Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003400000)
 
 Bei erfolgreich abgeschlossener Berufsausbildung zur Fachkraft für
 Gastronomie nach § 18 Absatz 2 ist
@@ -1410,6 +1451,7 @@ Gastronomie nach § 18 Absatz 2 ist
 
 
 #### § 34 Erwerb des Abschlusses zur Fachkraft für Gastronomie nach nichtbestandener Abschlussprüfung zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003500000)
 
 Besteht der Prüfling die Prüfung nach § 29 nicht, erwirbt er auf
 seinen Antrag den Abschluss zur Fachkraft für Gastronomie nach
@@ -1440,12 +1482,15 @@ die Anforderungen nach § 18 erfüllen.
 
 
 ## Abschnitt 4 - Berufsausbildung zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG000900000)
 
 
 ### Unterabschnitt 1 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG001000000)
 
 
 #### § 35 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003600000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -1461,6 +1506,7 @@ der Abschlussprüfung stattfinden.
 
 
 #### § 36 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003700000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -1477,6 +1523,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 37 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003800000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Produktion
 und Service“ statt.
@@ -1578,6 +1625,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 #### § 38 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE003900000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -1599,6 +1647,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 39 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004000000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -1620,6 +1669,7 @@ statt:
 
 
 #### § 40 Prüfungsbereich „Gasterlebnis, Verkaufsförderung, Marketing und Warenlagerung“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004100000)
 
 (1) Im Prüfungsbereich „Gasterlebnis, Verkaufsförderung, Marketing und
 Warenlagerung“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1679,6 +1729,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 41 Prüfungsbereich „Personal- und Warenwirtschaft sowie Steuerung und Kontrolle in der Systemgastronomie“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004200000)
 
 (1) Im Prüfungsbereich „Personal- und Warenwirtschaft sowie Steuerung
 und Kontrolle in der Systemgastronomie“ hat der Prüfling nachzuweisen,
@@ -1739,6 +1790,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 42 Prüfungsbereich „Betriebliche Abläufe in der Systemgastronomie“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004300000)
 
 (1) Im Prüfungsbereich „Betriebliche Abläufe in der Systemgastronomie“
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1792,6 +1844,7 @@ auftragsbezogene Fachgespräch dauert höchstens 10 Minuten.
 
 
 #### § 43 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004400000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1805,6 +1858,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 44 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1883,6 +1937,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 #### § 45 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004600000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1924,9 +1979,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ### Unterabschnitt 2 - Zusatzqualifikation Bar und Wein
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG001100000)
 
 
 #### § 46 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004700000)
 
 (1) Über das in § 7 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Bar und Wein vereinbart werden.
@@ -1936,6 +1993,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 #### § 47 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004800000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -2007,9 +2065,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ### Unterabschnitt 3 - Weitere Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNG001200000)
 
 
 #### § 48 Befreiung von Teil 1 der Abschlussprüfung und Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE004900000)
 
 Bei erfolgreich abgeschlossener Berufsausbildung zur Fachkraft für
 Gastronomie nach § 18 Absatz 2 ist
@@ -2029,6 +2089,7 @@ Gastronomie nach § 18 Absatz 2 ist
 
 
 #### § 49 Erwerb des Abschlusses zur Fachkraft für Gastronomie nach nichtbestandener Abschlussprüfung zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE005000000)
 
 Besteht der Prüfling die Prüfung nach § 44 nicht, erwirbt er auf
 seinen Antrag den Abschluss zur Fachkraft für Gastronomie nach
@@ -2060,6 +2121,7 @@ die Anforderungen nach § 18 erfüllen.
 (zu § 4 Absatz 1)
 
 #### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Gastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE005100000)
 
 (Fundstelle: BGBl. I 2022, 362 - 368)
 
@@ -2894,6 +2956,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten**
    (zu § 4 Absatz 2)
 
 #### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE005200000)
 
 (Fundstelle: BGBl. I 2022, 369 - 377)
 
@@ -3867,6 +3930,7 @@ und Fähigkeiten**
    (zu § 4 Absatz 3)
 
 #### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE005300000)
 
 (Fundstelle: BGBl. I 2022, 378 - 386)
 
@@ -4830,6 +4894,7 @@ und Fähigkeiten**
    (zu § 31 Absatz 2 und zu § 46 Absatz 2)
 
 #### Anlage 4 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Bar und Wein
+[Direktlink](https://www.gesetze-im-internet.de/gastroausbv/BJNR034900022.html#BJNR034900022BJNE005400000)
 
 (Fundstelle: BGBl. I 2021, 387)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000100327)
 
 Auf Grund des § 14a des Bundesausbildungsförderungsgesetzes vom 26.
 August 1971 (Bundesgesetzbl. I S. 1409) und des Gesetzes zur Änderung
@@ -31,6 +32,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Schulgeld, Studiengebühren
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000201320)
 
 (1) (weggefallen)
 
@@ -44,11 +46,13 @@ abgesetzt.
 
 
 ## (XXXX) §§ 2 bis 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000300327)
 
 -
 
 
 ## § 6 Voraussetzungen der Internatsunterbringung
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000401311)
 
 (1) Ausbildungsförderung wird einem Auszubildenden geleistet, dessen
 Bedarf sich nach § 12 Abs. 2 oder nach § 13 Abs. 1 Nr. 1 in Verbindung
@@ -72,6 +76,7 @@ Betriebserlaubnispflicht unterliegen.
 
 
 ## § 7 Leistung bei Internatsunterbringung
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000501320)
 
 (1) Kosten der Unterbringung sind die tatsächlich im
 Bewilligungszeitraum zu entrichtenden Kosten ohne Schulgeld
@@ -95,16 +100,19 @@ pädagogischen Leistungen nachweist.
 
 
 ## (XXXX) §§ 8 und 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000602320)
 
 -
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000800327)
 
 -
 
 
 ## § 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE000900327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 67 des
@@ -112,11 +120,13 @@ Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE001000327)
 
 Diese Verordnung tritt am 1. Juli 1974 in Kraft.
 
 
 ## Anlage zu § 4
+[Direktlink](https://www.gesetze-im-internet.de/h_rtev/BJNR014490974.html#BJNR014490974BJNE001101301)
 
 -
 

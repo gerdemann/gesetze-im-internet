@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Pflicht zur Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000201311)
 
 (1) Die Bundesrepublik Deutschland erfüllt ihre Verpflichtungen zur
 Zusammenarbeit, die sich aus den vom Sicherheitsrat der Vereinten
@@ -68,6 +70,7 @@ Gesetzes.
 
 
 ## § 2 Verhältnis zu nationalen Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000300311)
 
 (1) Auf Ersuchen des Gerichtshofes werden Strafverfahren, soweit sie
 Straftaten betreffen, die seiner Gerichtsbarkeit unterliegen, in jedem
@@ -112,6 +115,7 @@ zu treffenden Entscheidungen.
 
 
 ## § 3 Überstellung und Durchbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000400311)
 
 (1) Auf Ersuchen des Gerichtshofes werden Personen, die sich im
 Geltungsbereich dieses Gesetzes aufhalten, zur Verfolgung wegen einer
@@ -139,6 +143,7 @@ internationale Rechtshilfe in Strafsachen entsprechend.
 
 
 ## § 4 Sonstige Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000501310)
 
 (1) Vorbehaltlich des Satzes 2 wird dem Gerichtshof auf Ersuchen für
 Verfahren wegen Straftaten, die seiner Gerichtsbarkeit unterliegen,
@@ -179,6 +184,7 @@ deutschem Recht.
 
 
 ## § 5 Rechtshilfe durch Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000601310)
 
 (1) Rechtshilfe kann durch Vollstreckung einer rechtskräftigen, vom
 Gerichtshof verhängten Freiheitsstrafe geleistet werden.
@@ -193,6 +199,7 @@ wird.
 
 
 ## § 6 Vorrechte und Immunitäten
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000701310)
 
 (1) Das Übereinkommen vom 13. Februar 1946 über die Vorrechte und
 Immunitäten der Vereinten Nationen (BGBl. 1980 II S. 941) findet auf
@@ -213,6 +220,7 @@ Wahrnehmung der Aufgaben des Gerichtshofes erforderlich ist.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ruastrghg/BJNR084300998.html#BJNR084300998BJNE000800311)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

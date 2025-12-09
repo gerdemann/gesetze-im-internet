@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Art I Neufassung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/beg_ndg_3/BJNR005590956.html#BJNR005590956BJNE000100325)
 
 -
 
 
 ## Art II Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/beg_ndg_3/BJNR005590956.html#BJNR005590956BJNE000200325)
 
 In diesem Gesetz werden bezeichnet
 
@@ -60,6 +62,7 @@ In diesem Gesetz werden bezeichnet
 
 
 ## Art III Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beg_ndg_3/BJNR005590956.html#BJNR005590956BJNE000300325)
 
 
 1.  Ansprüche von Verfolgten, die ihren Wohnsitz oder dauernden Aufenthalt
@@ -227,6 +230,7 @@ In diesem Gesetz werden bezeichnet
 
 
 ## Art IIIa
+[Direktlink](https://www.gesetze-im-internet.de/beg_ndg_3/BJNR005590956.html#BJNR005590956BJNE000400325)
 
 Wiederkehrende Leistungen nach dem Bundesentschädigungsgesetz sind bei
 Änderung der tatsächlichen Verhältnisse infolge der Erhöhung der
@@ -237,6 +241,7 @@ den diese Geldleistungen sich monatlich erhöht haben oder erhöhen.
 
 
 ## Art IV Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/beg_ndg_3/BJNR005590956.html#BJNR005590956BJNE000500325)
 
 Das Änderungsgesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -244,6 +249,7 @@ im Land Berlin.
 
 
 ## Art V Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beg_ndg_3/BJNR005590956.html#BJNR005590956BJNE000600325)
 
 Das Änderungsgesetz tritt am 1. April 1956 in Kraft.
 

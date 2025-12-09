@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -30,6 +31,7 @@ Infrastruktur:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000200000)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen (Regulierungsbehörde) erhebt für ihre individuell
@@ -40,6 +42,7 @@ Maßgabe dieser Verordnung.
 
 
 ## § 2 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000300000)
 
 (1) Die gebührenfähigen Leistungen und die jeweilige Gebührenhöhe
 ergeben sich aus dem Gebührenverzeichnis der Anlage.
@@ -64,6 +67,7 @@ erforderlichen Nachweise vorzulegen.
 
 
 ## § 3 Stundung, Niederschlagung und Erlass
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000400000)
 
 Die Regulierungsbehörde ist befugt, festgesetzte Gebühren gemäß § 59
 der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu
@@ -71,6 +75,7 @@ erlassen.
 
 
 ## § 4 Gebührenbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000501130)
 
 (1) Unternehmen im Sinne des § 2 Absatz 1 des Allgemeinen
 Eisenbahngesetzes, die Eisenbahnverkehrsdienste hauptsächlich aus
@@ -102,6 +107,7 @@ sind Gebühren nach Nummer 14 der Anlage.
 
 
 ## § 5 Alt-Sachverhalte
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000600000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die nach dem 2. September 2016 und vor dem 15. Mai 2021
@@ -110,12 +116,14 @@ gilt die Anlage mit Wirkung ab dem 24. Mai 2019.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ereg-bgebv/BJNR097500021.html#BJNR097500021BJNE000801130)
 
 (Fundstelle: BGBl. I 2021, 977 – 979;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

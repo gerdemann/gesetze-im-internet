@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000100000)
 
 Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen,
 pflegebedürftige nahe Angehörige in häuslicher Umgebung zu pflegen und
@@ -27,6 +28,7 @@ damit die Vereinbarkeit von Beruf und familiärer Pflege zu verbessern.
 
 
 ## § 2 Kurzzeitige Arbeitsverhinderung
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000201119)
 
 (1) Beschäftigte haben das Recht, bis zu zehn Arbeitstage der Arbeit
 fernzubleiben, wenn dies erforderlich ist, um für einen
@@ -49,6 +51,7 @@ Buches Sozialgesetzbuch.
 
 
 ## § 3 Pflegezeit und sonstige Freistellungen
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000303126)
 
 (1) Beschäftigte sind von der Arbeitsleistung vollständig oder
 teilweise freizustellen, wenn sie einen pflegebedürftigen nahen
@@ -134,6 +137,7 @@ Familienpflegezeitgesetzes.
 
 
 ## § 4 Dauer der Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000402126)
 
 (1) Die Pflegezeit nach § 3 beträgt für jeden pflegebedürftigen nahen
 Angehörigen längstens sechs Monate (Höchstdauer). Für einen kürzeren
@@ -171,6 +175,7 @@ um ein Zwölftel kürzen.
 
 
 ## § 4a Erneute Pflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE001000126)
 
 (1) Abweichend von § 4 Absatz 1 Satz 2 und 3 können Beschäftigte
 einmalig nach einer beendeten Pflegezeit zur Pflege oder Betreuung
@@ -197,6 +202,7 @@ Absatz 1 Satz 4 nicht überschritten wird.
 
 
 ## § 5 Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000502126)
 
 (1) Der Arbeitgeber darf das Beschäftigungsverhältnis von der
 Ankündigung, höchstens jedoch zwölf Wochen vor dem angekündigten
@@ -214,6 +220,7 @@ Verwaltungsvorschriften erlassen.
 
 
 ## § 6 Befristete Verträge
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000601119)
 
 (1) Wenn zur Vertretung einer Beschäftigten oder eines Beschäftigten
 für die Dauer der kurzzeitigen Arbeitsverhinderung nach § 2 oder der
@@ -246,6 +253,7 @@ Verordnungen auf die Zahl der Arbeitsplätze abgestellt wird.
 
 
 ## § 7 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000702301)
 
 (1) Beschäftigte im Sinne dieses Gesetzes sind
 
@@ -295,11 +303,13 @@ Buches Sozialgesetzbuch voraussichtlich erfüllen.
 
 
 ## § 8 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE000800000)
 
 Von den Vorschriften dieses Gesetzes kann nicht zuungunsten der
 Beschäftigten abgewichen werden.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegezg/BJNR089600008.html#BJNR089600008BJNE001119126)
 
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000100319)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -33,6 +34,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000200319)
 
 Die in Anwendung des Protokolls vom 13. April 1962 über die Gründung
 Europäischer Schulen (BGBl. 1969 II S. 1301) gegründete Europäische
@@ -44,6 +46,7 @@ Unterrichtsanstalten in der Bundesrepublik Deutschland gleichgestellt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000301377)
 
 (1) Haben die Europäischen Schulen Gegenstände erworben oder sonstige
 Leistungen in Anspruch genommen, die ausschließlich für ihren
@@ -76,6 +79,7 @@ Antrags verrechnet werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000400319)
 
 Die Einfuhr von Gegenständen, die ausschließlich für den
 satzungsgemäßen Bedarf der Europäischen Schulen bestimmt sind, ist
@@ -84,6 +88,7 @@ Lebensmitteln und Tabakerzeugnissen. § 2 Abs. 2 gilt entsprechend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000501377)
 
 Wird ein Gegenstand veräußert, den die Europäischen Schulen für den
 satzungsgemäßen Bedarf erworben oder eingeführt haben und für dessen
@@ -98,6 +103,7 @@ Umsatzsteuergesetzes) ermittelt werden. § 2 Abs. 4 gilt entsprechend.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000600319)
 
 (1) Die beiden Zulagen, die der Oberste Schulrat der Europäischen
 Schulen den Direktoren und den Lehrern der Europäischen Schulen in
@@ -122,6 +128,7 @@ des Direktors für ihre Tätigkeit an dieser Schule zahlt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000700319)
 
 Die ausländischen Bediensteten der Europäischen Schulen in Karlsruhe
 und München sowie die zu ihrem Haushalt gehörenden und von ihnen
@@ -131,6 +138,7 @@ Meldepflicht nach den Meldegesetzen der Länder bleiben unberührt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000800319)
 
 § 2 ist auf Steuerbeträge anzuwenden, denen Lieferungen und sonstige
 Leistungen zugrunde liegen, die nach dem 31. Dezember 1984 bewirkt
@@ -138,6 +146,7 @@ werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE000900319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes,
@@ -146,6 +155,7 @@ wurde, auch im Land Berlin.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/euschulvorrv_1985/BJNR209990985.html#BJNR209990985BJNE001000319)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1985 in Kraft.
 

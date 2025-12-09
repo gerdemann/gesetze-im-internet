@@ -43,6 +43,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000100000)
 
 Auf Grund des § 23 Absatz 1 Nummer 1 bis 3 und 8 bis 12 des
 Wasserhaushaltsgesetzes, Absatz 1 geändert durch Artikel 12 Nummer 0a
@@ -51,6 +52,7 @@ Bundesregierung nach Anhörung der beteiligten Kreise:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000302130)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -95,6 +97,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ## § 2 Bestimmung und Beschreibung der Grundwasserkörper
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000400000)
 
 (1) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und
 aktualisiert die zuständige Behörde
@@ -127,6 +130,7 @@ die Beurteilung des Grundwasserkörpers von Bedeutung ist.
 
 
 ## § 3 Gefährdete Grundwasserkörper
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000500000)
 
 (1) Grundwasserkörper, bei denen das Risiko besteht, dass sie die
 Bewirtschaftungsziele nach § 47 des Wasserhaushaltsgesetzes nicht
@@ -150,6 +154,7 @@ nach Absatz 2.
 
 
 ## § 4 Einstufung des mengenmäßigen Grundwasserzustands
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000600000)
 
 (1) Die zuständige Behörde stuft den mengenmäßigen Grundwasserzustand
 als gut oder schlecht ein.
@@ -189,6 +194,7 @@ als gut oder schlecht ein.
 
 
 ## § 5 Kriterien für die Beurteilung des chemischen Grundwasserzustands
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000701118)
 
 (1) Grundlage für die Beurteilung des chemischen Grundwasserzustands
 sind die in Anlage 2 aufgeführten Schwellenwerte. Geht von einem nicht
@@ -230,6 +236,7 @@ Abstimmung der Werte für die grenzüberschreitenden Grundwasserkörper.
 
 
 ## § 6 Ermittlung des chemischen Grundwasserzustands
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000800000)
 
 (1) Die zuständige Behörde ermittelt und beurteilt den chemischen
 Grundwasserzustand auf der Grundlage von Grundwasseruntersuchungen und
@@ -291,6 +298,7 @@ legen:
 
 
 ## § 7 Einstufung des chemischen Grundwasserzustands
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE000901118)
 
 (1) Die zuständige Behörde stuft den chemischen Grundwasserzustand als
 gut oder schlecht ein.
@@ -383,6 +391,7 @@ Einstufung berücksichtigt worden sind.
 
 
 ## § 8 Bestimmung von Grundwasserkörpern mit weniger strengen Zielen
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001000000)
 
 (1) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und
 aktualisiert die zuständige Behörde die Bestimmung der
@@ -415,6 +424,7 @@ zu erreichen wäre.
 
 
 ## § 8a Zusätzliche Inhalte der Bewirtschaftungspläne
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002700118)
 
 (1) In die aktualisierten Bewirtschaftungspläne nach § 84 Absatz 1 des
 Wasserhaushaltsgesetzes sind zusätzlich zu den Informationen nach § 83
@@ -508,6 +518,7 @@ Absatz 1 auch folgende Informationen aufzunehmen:
 
 
 ## § 9 Überwachung des mengenmäßigen und chemischen Grundwasserzustands
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001100000)
 
 (1) In jedem Grundwasserkörper sind Messstellen für eine
 repräsentative Überwachung des mengenmäßigen Grundwasserzustands nach
@@ -531,6 +542,7 @@ nach Anlage 5 durchzuführen.
 
 
 ## § 10 Steigender Trend von Schadstoffkonzentrationen, Trendumkehr
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001201118)
 
 (1) Auf der Grundlage der Überblicksüberwachung und der operativen
 Überwachung nach § 9 Absatz 2 ermittelt die zuständige Behörde für
@@ -579,6 +591,7 @@ Trendumkehrpunkte zu berichten.
 
 
 ## § 11 Zusätzliche Trendermittlung
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001300000)
 
 (1) Bei Grundwasserkörpern, die auf Grund schädlicher
 Bodenveränderungen oder Altlasten nach § 3 Absatz 1 als gefährdet
@@ -604,6 +617,7 @@ Einzugsgebiete zusammen.
 
 
 ## § 12 Darstellung des Grundwasserzustands und der Trends
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001400000)
 
 (1) Die Einstufung des mengenmäßigen Grundwasserzustands nach § 4 und
 des chemischen Grundwasserzustands nach § 7 sowie die nach den §§ 10
@@ -623,6 +637,7 @@ chemischen Grundwasserzustand darzustellen.
 
 
 ## § 13 Maßnahmen zur Verhinderung oder Begrenzung von Schadstoffeinträgen in das Grundwasser
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001500000)
 
 (1) Zur Erreichung der in § 47 des Wasserhaushaltsgesetzes genannten
 Ziele sind in den Maßnahmenprogrammen nach § 82 des
@@ -652,6 +667,7 @@ Absätze 1 und 2 zu berücksichtigen.
 
 
 ## § 14 Wirtschaftliche Analyse der Wassernutzungen
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001600000)
 
 (1) Bis zum 22. Dezember 2013 und danach alle sechs Jahre sind die vor
 dem 16. November 2010 durchgeführten wirtschaftlichen Analysen der
@@ -690,6 +706,7 @@ Maßnahmen für das Maßnahmenprogramm zugrunde gelegt werden.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Grundwasserverordnung vom 18. März 1997 (BGBl.
@@ -697,12 +714,14 @@ I S. 542) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Absatz 1 und 3, § 3 Absatz 2)
 
 ## Anlage 1 Beschreibung der Grundwasserkörper
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE001900000)
 
 (Fundstelle: BGBl. I 2010, 1519 - 1520)
 
@@ -863,6 +882,7 @@ Der Bundesrat hat zugestimmt.
 10 Absatz 2 Satz 4 Nummer 1)
 
 ## Anlage 2 Schwellenwerte
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002002130)
 
 (Fundstelle: BGBl. I 2017, 1045 - 1046;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -1056,6 +1076,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 (zu § 9 Absatz 1)
 
 ## Anlage 3 Überwachung des mengenmäßigen Grundwasserzustands
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002100000)
 
 (Fundstelle: BGBl. I 2010, 1522)
 
@@ -1116,6 +1137,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 (zu § 9 Absatz 1 und 2)
 
 ## Anlage 4 Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002201118)
 
 (Fundstelle: BGBl. I 2010, 1523 - 1524; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1288,6 +1310,7 @@ vgl. Fußnote)
 (zu § 5 Absatz 2 Satz 1 und 2 und Absatz 3)
 
 ## Anlage 4a Ableitung von Hintergrundwerten für hydrogeochemische Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002800118)
 
 (Fundstelle: BGBl. I 2010, 1046)
 
@@ -1351,6 +1374,7 @@ vgl. Fußnote)
 (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)
 
 ## Anlage 5 Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002300000)
 
 (Fundstelle: BGBl. I 2010, 1525 - 1526)
 
@@ -1483,6 +1507,7 @@ vgl. Fußnote)
 (zu § 10 Absatz 1)
 
 ## Anlage 6 Ermittlung steigender Trends, Ermittlung der Trendumkehr
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002400000)
 
 (Fundstelle: BGBl. I 2010, 1527)
 
@@ -1549,6 +1574,7 @@ vgl. Fußnote)
 (zu § 13 Absatz 1)
 
 ## Anlage 7 Liste gefährlicher Schadstoffe und Schadstoffgruppen
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002500000)
 
 (Fundstelle: BGBl. I 2010, 1528)
 
@@ -1605,6 +1631,7 @@ vgl. Fußnote)
 (zu § 13 Absatz 2)
 
 ## Anlage 8 Liste sonstiger Schadstoffe und Schadstoffgruppen
+[Direktlink](https://www.gesetze-im-internet.de/grwv_2010/BJNR151300010.html#BJNR151300010BJNE002600000)
 
 (Fundstelle: BGBl. I 2010, 1529)
 

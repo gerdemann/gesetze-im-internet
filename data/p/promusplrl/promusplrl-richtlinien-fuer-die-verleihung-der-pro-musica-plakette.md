@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/promusplrl/BJNR102220968.html#BJNR102220968BJNE000101377)
 
 
 1.  Die PRO MUSICA-Plakette ist als Auszeichnung für Vereinigungen von
@@ -194,6 +195,7 @@ Geändert durch
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/promusplrl/BJNR102220968.html#BJNR102220968BJNE000200315)
 
 Der Bundespräsident
 Der Bundeskanzler

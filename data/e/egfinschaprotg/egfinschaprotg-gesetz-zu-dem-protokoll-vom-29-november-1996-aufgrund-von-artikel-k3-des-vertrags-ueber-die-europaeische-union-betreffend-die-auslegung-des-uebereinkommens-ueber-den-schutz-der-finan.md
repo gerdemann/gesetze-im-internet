@@ -24,12 +24,14 @@ Geändert durch
 Stand: Art. 2 tritt gem. Art. 3 Satz 2 iVm Abschn. I Bek. v. 27.4.2007 II 794 mWv 17.10.2002 in Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egfinschaprotg/BJNR081420000.html#BJNR081420000BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/egfinschaprotg/BJNR081420000.html#BJNR081420000BJNE000200305)
 
 Dem in Brüssel am 29. November 1996 von der Bundesrepublik Deutschland
 unterzeichneten Protokoll aufgrund von Artikel K.3 des Vertrags über
@@ -42,6 +44,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/egfinschaprotg/BJNR081420000.html#BJNR081420000BJNE000301377)
 
 (1) Jedes Gericht kann dem Gerichtshof der Europäischen Gemeinschaften
 eine Frage zur Vorabentscheidung vorlegen, die sich ihm in einem
@@ -61,6 +64,7 @@ hält.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/egfinschaprotg/BJNR081420000.html#BJNR081420000BJNE000400305)
 
 Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tage seiner
 Verkündung in Kraft. Artikel 2 tritt an dem Tag in Kraft, an dem das

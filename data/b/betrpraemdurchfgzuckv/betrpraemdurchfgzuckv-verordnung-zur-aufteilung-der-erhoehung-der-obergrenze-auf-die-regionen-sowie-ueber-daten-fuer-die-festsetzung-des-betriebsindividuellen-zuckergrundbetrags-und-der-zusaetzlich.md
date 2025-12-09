@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000100000)
 
 Auf Grund des § 4 Abs. 4, des § 5 Abs. 4a Satz 3 und des § 5a Abs. 3
 Satz 2 des Betriebsprämiendurchführungsgesetzes in der Fassung der
@@ -31,6 +32,7 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1 Aufteilung der Erhöhung der Obergrenze auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000206377)
 
 (1) Der erste Erhöhungsbetrag im Sinne des § 4 Abs. 2 des
 Betriebsprämiendurchführungsgesetzes wird auf die Regionen nach
@@ -67,12 +69,14 @@ wird in Höhe von 274 Euro der Region Rheinland-Pfalz zugeteilt.
 
 
 ## § 2 Ausgleichsbetrag je Tonne Zucker
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000300000)
 
 Der Ausgleichsbetrag nach § 5a Abs. 3 Satz 1 des
 Betriebsprämiendurchführungsgesetzes wird auf 45,74 Euro festgesetzt.
 
 
 ## § 3 Faktoren für die zusätzlichen betriebsindividuellen Zuckerbeträge
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000400000)
 
 Die Faktoren nach § 5 Abs. 4a Satz 2 des
 Betriebsprämiendurchführungsgesetzes werden
@@ -88,12 +92,14 @@ festgesetzt.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1 Abs. 1)
 
 ## Anlage 1 Aufteilung des ersten Erhöhungsbetrags auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000601377)
 
 
 *    *   Region
@@ -171,6 +177,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 1 Abs. 2)
 
 ## Anlage 2 Aufteilung des zweiten Erhöhungsbetrags auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000700377)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 3039)
 
@@ -248,6 +255,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 1 Abs. 3)
 
 ## Anlage 3 Aufteilung des dritten Erhöhungsbetrags und des zusätzlichen Betrags auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000800377)
 
 ( Fundstelle: BGBl. I 2008, 2411 )
 
@@ -325,6 +333,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 1 Absatz 4)
 
 ## Anlage 4 Aufteilung des vierten Erhöhungsbetrags auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE000900310)
 
 (Fundstelle: BGBl. I 2009, 3556)
 
@@ -402,6 +411,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 1 Absatz 5)
 
 ## Anlage 5 Aufteilung des fünften Erhöhungsbetrags auf die Regionen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfgzuckv/BJNR346700006.html#BJNR346700006BJNE001000310)
 
 (Fundstelle: BGBl. I 2009, 3557)
 

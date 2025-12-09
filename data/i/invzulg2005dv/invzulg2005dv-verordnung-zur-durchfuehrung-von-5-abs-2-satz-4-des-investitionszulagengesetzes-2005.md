@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/invzulg2005dv/BJNR248400005.html#BJNR248400005BJNE000100000)
 
 Auf Grund des § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005
 vom 17. März 2004 (BGBl. I S. 438, 2005 I S. 1059) verordnet das
@@ -26,6 +27,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Einzelnotifizierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/invzulg2005dv/BJNR248400005.html#BJNR248400005BJNE000200000)
 
 Die Investitionszulage ist der Europäischen Kommission zur Genehmigung
 vorzulegen und erst nach deren Genehmigung festzusetzen, wenn sie für
@@ -60,6 +62,7 @@ ein Unternehmen bestimmt ist, das
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/invzulg2005dv/BJNR248400005.html#BJNR248400005BJNE000300000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die Europäische
 Kommission die hierzu erforderliche beihilferechtliche Genehmigung
@@ -70,6 +73,7 @@ im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/invzulg2005dv/BJNR248400005.html#BJNR248400005BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

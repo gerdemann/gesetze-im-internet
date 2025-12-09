@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000100000)
 
 Auf Grund des § 56 Absatz 1 Nummer 3 des Bundesmeldegesetzes vom 3.
 Mai 2013 (BGBl. I S. 1084), der zuletzt durch Artikel 5 Nummer 21
@@ -30,6 +31,7 @@ Heimat:
 
 
 ## § 1 Anwendungsbereich und Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000200000)
 
 (1) Diese Verordnung bestimmt die Voraussetzungen für automatisierte
 Abrufe von Meldedaten durch Behörden oder sonstige öffentliche Stellen
@@ -61,6 +63,7 @@ soll.
 
 
 ## § 2 Technische Grundlagen des Abrufverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000300000)
 
 (1) Datenabrufe nach den §§ 34a, 38 und 39 des Bundesmeldegesetzes
 erfolgen elektronisch unter Zugrundelegung des Datenaustauschformats
@@ -95,6 +98,7 @@ Transport gleichwertig sind.
 
 
 ## § 3 Standards der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000400000)
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des
 Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil –
@@ -126,6 +130,7 @@ angegebenen Zahlen bezeichnen die zugehörigen Blattnummern des DSMeld
 
 
 ## § 4 Auswahldaten für die Personensuche
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000501130)
 
 (1) Für automatisierte Abrufe von Meldedaten in der Personensuche nach
 § 34a Absatz 2 Satz 1 des Bundesmeldegesetzes sind von der abrufenden
@@ -325,6 +330,7 @@ die technischen Vorgaben in Nummer 4 der Anlage sicherzustellen.
 
 
 ## § 5 Abrufdaten für die Personensuche
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000602130)
 
 (1) Bei einem Abruf von Meldedaten in der Personensuche nach § 34a
 Absatz 2 des Bundesmeldegesetzes stellen die durch die Länder zur
@@ -710,6 +716,7 @@ aus Satz 1 Nummer 1 bis 4 werden durch die abrufende Stelle bestimmt.
 
 
 ## § 6 Trefferliste für die Personensuche
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000701130)
 
 (1) Werden bei einem Datenabruf in der Personensuche nach § 34a Absatz
 2 des Bundesmeldegesetzes Datensätze unterschiedlicher Personen
@@ -783,6 +790,7 @@ Trefferliste nicht übermittelt.
 
 
 ## § 7 Auswahldaten für die freie Suche
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000802130)
 
 (1) Für automatisierte Abrufe von Meldedaten in der freien Suche nach
 § 34a Absatz 3 des Bundesmeldegesetzes sind von der abrufenden Stelle
@@ -927,6 +935,7 @@ Datenblatt 1205) aus Absatz 1 Nummer 9 zulässig.
 
 
 ## § 8 Abrufdaten für die freie Suche
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE000901130)
 
 (1) Bei einem Abruf von Meldedaten in der freien Suche nach § 34a
 Absatz 3 des Bundesmeldegesetzes stellen die durch die Länder zur
@@ -1090,6 +1099,7 @@ Ergebnisliste nicht übermittelt.
 
 
 ## § 9 Verwendung des Identifikationsmerkmals
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE001000000)
 
 Das Identifikationsmerkmal nach § 39 Absatz 2 des Bundesmeldegesetzes
 darf 48 Stunden nach seiner Übermittlung in einer Trefferliste nach §
@@ -1098,6 +1108,7 @@ genutzt werden.
 
 
 ## § 10 Auskunftsfähiger Datenbestand
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE001100000)
 
 Die durch die Länder zur Sicherstellung des automatisierten Abrufs von
 Meldedaten bestimmten Stellen und die Meldebehörden halten die in den
@@ -1108,6 +1119,7 @@ bereit.
 
 
 ## § 11 Angaben der abrufenden Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE001200000)
 
 Die abrufende Stelle übermittelt bei einem automatisierten Abruf von
 Meldedaten zur Sicherstellung der Aufgaben der Meldebehörden nach § 34
@@ -1142,6 +1154,7 @@ Vorgaben in Nummer 8 der Anlage sicherzustellen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE001300000)
 
 Diese Verordnung tritt am 1. Mai 2022 in Kraft. Zugleich tritt die
 Bundesmeldedatenabrufverordnung vom 1. Dezember 2014 (BGBl. I S.
@@ -1150,11 +1163,13 @@ Bundesmeldedatenabrufverordnung vom 1. Dezember 2014 (BGBl. I S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/bmelddav_2022/BJNR320900021.html#BJNR320900021BJNE001502130)
 
 (Fundstelle: BGBl. I 2021, 3215 - 3228;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

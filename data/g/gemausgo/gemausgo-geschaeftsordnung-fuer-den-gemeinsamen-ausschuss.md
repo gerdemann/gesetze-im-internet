@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000100311)
 
 Zur Ausführung des Artikels 53a des Grundgesetzes hat der Bundestag
 mit Zustimmung des Bundesrates für den Gemeinsamen Ausschuß die
@@ -27,10 +28,12 @@ folgende Geschäftsordnung beschlossen:
 
 
 ## I. Abschnitt - Zusammensetzung und Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNG000100311)
 
 
 
 ### § 1 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000201305)
 
 (1) Der Gemeinsame Ausschuß besteht aus 32 vom Bundestag aus seiner
 Mitte bestimmten Abgeordneten und 16 Mitgliedern des Bundesrates.
@@ -48,6 +51,7 @@ betroffenen Landesregierungen, weitere Mitglieder zu bestimmen.
 
 
 ### § 2 Bestimmung der Mitglieder des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000300311)
 
 (1) Die dem Gemeinsamen Ausschuß angehörenden Abgeordneten und ihre
 Stellvertreter werden zu Beginn jeder Wahlperiode vom Bundestag durch
@@ -61,6 +65,7 @@ anzurechnen.
 
 
 ### § 3 Ausscheiden von Abgeordneten
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000400311)
 
 Ein dem Gemeinsamen Ausschuß angehörender Abgeordneter scheidet aus
 diesem zu dem Zeitpunkt aus, zu dem er den Verzicht auf seine
@@ -70,6 +75,7 @@ der Fraktion ausscheidet, die ihn vorgeschlagen hat.
 
 
 ### § 4 Bestimmung der Mitglieder des Bundesrates
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000500311)
 
 (1) Jede Landesregierung bestimmt aus ihren Mitgliedern und
 stellvertretenden Mitgliedern des Bundesrates eines zum Mitglied des
@@ -82,6 +88,7 @@ Stellvertreter und jeden Wechsel mit.
 
 
 ### § 5 Rechte der Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000600311)
 
 (1) Die Stellvertreter haben die gleichen Rechte und Pflichten wie die
 Mitglieder des Gemeinsamen Ausschusses; Stimm- und Antragsrecht haben
@@ -93,6 +100,7 @@ ein, in der sie von der Fraktion vorgeschlagen worden sind.
 
 
 ### § 6 Präsenzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000700311)
 
 (1) Die Mitglieder des Gemeinsamen Ausschusses und die Stellvertreter
 haben sicherzustellen, daß sie jederzeit durch den Präsidenten des
@@ -104,6 +112,7 @@ Bundesrates jeweils für ihren Bereich.
 
 
 ### § 7 Vorsitz des Gemeinsamen Ausschusses
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000800311)
 
 (1) Der Präsident des Bundestages ist Vorsitzender des Gemeinsamen
 Ausschusses.
@@ -117,6 +126,7 @@ Reihenfolge.
 
 
 ### § 8 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE000901305)
 
 (1) Der Vorsitzende beruft den Gemeinsamen Ausschuß zu
 Informationssitzungen (Artikel 53a Abs. 2 des Grundgesetzes) ein.
@@ -131,6 +141,7 @@ Bundesregierung unverzüglich über die Einberufung.
 
 
 ### § 9 Feststellung nach Artikel 115a Abs. 2 und 115e Abs. 1 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001000311)
 
 Der Gemeinsame Ausschuß soll eine Feststellung nach Artikel 115a Abs.
 2 oder Artikel 115e Abs. 1 des Grundgesetzes erst treffen, nachdem der
@@ -140,10 +151,12 @@ Hindernisse entgegenstehen oder daß dieser nicht beschlußfähig ist.
 
 
 ## II. Abschnitt - Verfahrensbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNG000200311)
 
 
 
 ### § 10 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001101305)
 
 Die Beratungen des Gemeinsamen Ausschusses sind nicht öffentlich. § 69
 Abs. 2 Satz 1 und Abs. 7 der Geschäftsordnung des Bundestages, die
@@ -152,6 +165,7 @@ dazu finden entsprechende Anwendung.
 
 
 ### § 11 Teilnahme an den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001200311)
 
 (1) Der Bundespräsident hat das Recht, an allen Sitzungen des
 Gemeinsamen Ausschusses teilzunehmen.
@@ -171,12 +185,14 @@ seinen Sitzungen gestatten.
 
 
 ### § 12 Beschlußfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001300311)
 
 Der Gemeinsame Ausschuß ist beschlußfähig, wenn mehr als die Hälfte
 der Mitglieder oder der Stellvertreter anwesend ist.
 
 
 ### § 13 Beschlußmehrheiten
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001400311)
 
 (1) Der Gemeinsame Ausschuß faßt seine Beschlüsse mit der Mehrheit der
 abgegebenen Stimmen, soweit nicht das Grundgesetz etwas anderes
@@ -187,6 +203,7 @@ Abstimmung durch Zählen der Stimmen festzustellen.
 
 
 ### § 14 Beratung von Gesetzentwürfen
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001500311)
 
 Gesetzentwürfe werden in einer Beratung verabschiedet. Mindestens
 sechs Mitglieder können verlangen, daß die Beratung um mindestens
@@ -197,11 +214,13 @@ dem Bundeskanzler zu.
 
 
 ### § 15 Wahlen
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001600311)
 
 Wahlen werden mit verdeckten Stimmzetteln durchgeführt.
 
 
 ### § 16 Anträge nach Artikel 115h Abs. 2 des Grundgesetzes (Mißtrauensvotum)
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001700311)
 
 Ein Antrag nach Artikel 115h Abs. 2 Satz 2 des Grundgesetzes muß von
 mindestens neun Mitgliedern des Gemeinsamen Ausschusses gestellt
@@ -209,6 +228,7 @@ werden.
 
 
 ### § 17 Sitzungsprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001800311)
 
 (1) Über jede Sitzung des Gemeinsamen Ausschusses wird ein Protokoll
 angefertigt, das mindestens die Anträge und die Beschlüsse enthalten
@@ -224,6 +244,7 @@ Ausschuß.
 
 
 ### § 18 Anwendbarkeit der Geschäftsordnung des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE001900311)
 
 (1) Im übrigen finden auf das Verfahren des Ausschusses die
 Vorschriften der Geschäftsordnung des Bundestages über das Verfahren
@@ -236,6 +257,7 @@ Gemeinsamen Ausschuß von zwei Mitgliedern ausgeübt werden.
 
 
 ### § 19 Änderung der Geschäftsordnung und Abweichungen von der Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/gemausgo/BJNR111020969.html#BJNR111020969BJNE002000311)
 
 Ist die Feststellung nach Artikel 115e Abs. 1 des Grundgesetzes
 getroffen, kann der Gemeinsame Ausschuß diese Geschäftsordnung ändern

@@ -18,12 +18,14 @@ Fundstelle
 Stand: Das G tritt gem. § 10 mit Ablauf des 31.12.2050 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Ziel und Volumen der finanziellen Unterstützung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000200000)
 
 Mit dem Ziel der Behebung von Defiziten im Bereich der öffentlichen
 Infrastruktur und der Schaffung von Wirtschaftswachstum überlässt der
@@ -35,6 +37,7 @@ der Länder und Kommunen fällt.
 
 
 ## § 2 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000300000)
 
 (1) Der Betrag nach § 1 wird nach den folgenden Prozentsätzen auf die
 Länder verteilt:
@@ -134,6 +137,7 @@ jeweils zustehenden Mittel fest.
 
 
 ## § 3 Förderbereiche und Fördervoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000400000)
 
 (1) Die Mittel werden für Sachinvestitionen der Träger von
 Einrichtungen insbesondere folgender Infrastrukturbereiche
@@ -191,6 +195,7 @@ sicher.
 
 
 ## § 4 Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000500000)
 
 (1) Investitionsmaßnahmen nach § 3 können finanziert werden, sofern
 sie nicht vor dem 1. Januar 2025 begonnen wurden. Dies gilt auch,
@@ -210,6 +215,7 @@ abgerechnet werden.
 
 
 ## § 5 Sicherstellung der zweckentsprechenden Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000600000)
 
 (1) Die Länder stellen die zweckentsprechende Mittelverwendung sicher
 und legen hierfür die Verfahren fest.
@@ -247,6 +253,7 @@ Absatz 2 Satz 2 des Grundgesetzes bleiben unberührt.
 
 
 ## § 6 Berichtspflichten der Länder
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000700000)
 
 (1) Die Länder berichten dem Bund zu Beginn des Förderzeitraums
 einmalig über die Verfahren zur Durchführung dieses Gesetzes. Die
@@ -264,6 +271,7 @@ Verwaltungsvereinbarung nach § 9 festzulegen.
 
 
 ## § 7 Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000800000)
 
 (1) Der Bund stellt die Mittel den Ländern als bewirtschaftende
 Stellen zur Verfügung. Die für die Bewirtschaftung zuständigen Stellen
@@ -276,6 +284,7 @@ angeordnet werden.
 
 
 ## § 8 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE000900000)
 
 (1) Der Bund kann Mittel von einem Land zurückfordern, wenn eine
 geförderte Maßnahme
@@ -322,6 +331,7 @@ vorübergehend zu sperren.
 
 
 ## § 9 Verwaltungsvereinbarung und Durchführung des Gesetzes seitens des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE001000000)
 
 (1) Ergänzende Bestimmungen zu den §§ 2 bis 8 sowie Einzelheiten des
 Verfahrens zur Durchführung dieses Gesetzes werden im Rahmen einer
@@ -333,11 +343,13 @@ Bundesministerium der Finanzen betraut.
 
 
 ## § 10 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE001100000)
 
 Dieses Gesetz tritt mit Ablauf des 31. Dezember 2050 außer Kraft.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lukifg/BJNR0F60A0025.html#BJNR0F60A0025BJNE001200000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

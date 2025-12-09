@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000102310)
 
 
 
 ### § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE001305130)
 
 (1) Dieses Gesetz regelt den Anbau, das Verarbeiten, das
 Inverkehrbringen und die Absatzförderung von Wein und sonstigen
@@ -81,6 +83,7 @@ Verarbeiten und das Inverkehrbringen von
 
 
 ### § 1a Geltungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010800116)
 
 (1) Vorschriften dieses Gesetzes oder auf Grund von Ermächtigungen
 dieses Gesetzes erlassener Rechtsverordnungen für Weine, die mit der
@@ -96,6 +99,7 @@ diese Bezeichnung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE001409130)
 
 
 1.  Erzeugnisse:
@@ -333,6 +337,7 @@ diese Bezeichnung.
 
 
 ### § 3 Weinanbaugebiet
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE001510116)
 
 (1) Für Qualitätsweine, Prädikatsweine, Qualitätslikörweine b.A.,
 Qualitätsperlweine b.A. und Sekte b.A. werden folgende bestimmte
@@ -428,6 +433,7 @@ Angabe, sofern dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 3a Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008505377)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -439,6 +445,7 @@ Rechtsverordnungen zu erlassen.
 
 
 ### § 3b Durchführung des GAP-Strategieplans, Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008707130)
 
 (1) Die nach Artikel 88 Absatz 1 in Verbindung mit Anhang VII der
 Verordnung (EU) 2021/2115 Deutschland zur Verfügung stehenden
@@ -490,10 +497,12 @@ Marktorganisationsgesetzes.
 
 
 ## 2. Abschnitt - Anbauregeln
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000202310)
 
 
 
 ### § 4 Rebanlagen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE001708116)
 
 (1) Zur Herstellung von inländischem Wein und anderen Erzeugnissen aus
 inländischen Weintrauben dürfen für andere Zwecke als zur Destillation
@@ -535,6 +544,7 @@ Durchführung der Anbauregeln erforderlich ist,
 
 
 ### § 5 Anerkennung der für Qualitätswein, Prädikatswein, Qualitätslikörwein b. A., Qualitätsperlwein b.A. und Sekt b.A. geeigneten Rebflächen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE001804377)
 
 Rebflächen in den in § 3 Abs. 1 genannten bestimmten Anbaugebieten,
 die zulässigerweise mit Reben zur Erzeugung von Wein bepflanzt sind
@@ -544,6 +554,7 @@ Sekt b.A. geeignet.
 
 
 ### § 6 Wiederbepflanzungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE001909116)
 
 (1) Die zuständige Landesbehörde erteilt einem Erzeuger, der eine
 Rebfläche gerodet hat, auf Antrag eine Genehmigung zur
@@ -604,6 +615,7 @@ nach Absatz 1 und 2 vorsehen.
 
 
 ### § 6a Umwandlung bestehender Pflanzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009901125)
 
 (1) Anträge auf Umwandlung von Pflanzungsrechten nach Artikel 68
 Absatz 1 der Verordnung (EU) Nr. 1308/2013 können ab dem 15. September
@@ -621,6 +633,7 @@ Vorjahres.
 
 
 ### § 7 Festsetzung eines Prozentsatzes für Neuanpflanzungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002013130)
 
 (1) Abweichend von dem in Artikel 63 Absatz 1 der Verordnung (EU) Nr.
 1308/2013 bestimmten Prozentsatz wird für Genehmigungen für
@@ -668,6 +681,7 @@ Verteilungsverfahren zu verwenden.
 
 
 ### § 7a Genehmigungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010000116)
 
 Ein Antrag auf Genehmigung einer Neuanpflanzung von Reben darf nur
 genehmigt werden, wenn der Antragsteller glaubhaft macht, dass er die
@@ -678,6 +692,7 @@ beantragt.
 
 
 ### § 7b Festlegung von Prioritätskriterien
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010102116)
 
 (1) Für die Genehmigung von Neuanpflanzungen wird vorbehaltlich des §
 7 Absatz 2 im Falle des Artikels 64 Absatz 2 der Verordnung (EU) Nr.
@@ -712,6 +727,7 @@ zu roden. Die Verpflichtung nach Satz 1 besteht jedoch nicht über den
 
 
 ### § 7c Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010201116)
 
 (1) Der Antrag auf Genehmigung einer Neuanpflanzung von Reben ist vom
 Erzeuger bis zum Ablauf des letzten Tages des Monats Februar eines
@@ -743,6 +759,7 @@ die jeweilige Genehmigung erteilt wurde, durchzuführen.
 
 
 ### § 7d Inanspruchnahme von Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010304130)
 
 (1) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1
 erteilten Genehmigungen sind innerhalb der in Artikel 62 Absatz 3
@@ -806,6 +823,7 @@ wie beschieden innerhalb der vorgesehenen Fristen durchgeführt werden.
 
 
 ### § 7e Vom Genehmigungssystem ausgenommene Flächen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010402116)
 
 (1) Die Mitteilung über die Anpflanzung oder Wiederbepflanzung von
 Flächen gemäß Artikel 3 Absatz 2 Unterabsatz 1 Satz 1 sowie eine
@@ -844,6 +862,7 @@ werden.
 
 
 ### § 7f Anpflanzung zu Forschungs- und Versuchszwecken; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010900116)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und
@@ -864,6 +883,7 @@ Voraussetzungen und das Verfahren festzulegen
 
 
 ### § 8 Klassifizierung von Rebsorten
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008305116)
 
 (1) Zur Herstellung von Wein zugelassen sind alle in der von der
 Bundesanstalt für Landwirtschaft und Ernährung veröffentlichten
@@ -875,6 +895,7 @@ Hoheitsgebiet zur Herstellung von Wein zugelassenen Rebsorten.
 
 
 ### § 8a Bewirtschaftung des Produktionspotenzials
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008106116)
 
 (1) (weggefallen)
 
@@ -906,11 +927,13 @@ Laufzeit der Anbauregelung nach Artikel 85f der Verordnung (EG) Nr.
 
 
 ### § 8b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008205310)
 
 -
 
 
 ### § 9 Hektarertrag
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002309130)
 
 (1) Weintrauben, Traubenmost, teilweise gegorener Traubenmost und Wein
 dürfen nach Maßgabe der folgenden Vorschriften nur in einer Menge an
@@ -1002,6 +1025,7 @@ berechneten Gesamthektarerträgen zulassen.
 
 
 ### § 9a Abgabe, Verwendung oder Verwertung von Wein, Jungwein oder Traubenmost aus nicht selbst erzeugten Weintrauben, nicht selbst erzeugtem Jungwein oder nicht selbst erzeugtem Traubenmost
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009402116)
 
 (1) Übernimmt ein Betrieb von einem Weinbaubetrieb oder einem anderen
 Betrieb Weintrauben, Traubenmost, teilweise gegorenen Traubenmost oder
@@ -1026,6 +1050,7 @@ herabgestuft worden ist, festgesetzten Hektarertrag entspricht.
 
 
 ### § 10 Übermenge
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002506116)
 
 (1) Übersteigt in einem Weinbaubetrieb die Erntemenge den
 Gesamthektarertrag im Sinne des § 9 Abs. 1 Satz 1 oder 2 um nicht mehr
@@ -1089,6 +1114,7 @@ festgesetzt worden ist, ist die Übermenge zu destillieren.
 
 
 ### § 11 Destillation
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002605116)
 
 (1) Übersteigt in einem Weinbaubetrieb die Erntemenge den
 Gesamthektarertrag im Sinne des § 9 Abs. 1 Satz 1 oder 2 um mehr als
@@ -1134,6 +1160,7 @@ und § 10 Absatz 5 Satz 3 gelten entsprechend.
 
 
 ### § 12 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002709377)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -1260,10 +1287,12 @@ bis 11 zu gewährleisten.
 
 
 ## 3. Abschnitt - Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000302310)
 
 
 
 ### § 13 Behandlungsverfahren und Behandlungsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002808116)
 
 (1) Das Anwenden von Behandlungsverfahren und das Zusetzen von Stoffen
 sind nur zulässig, soweit dies in Rechtsverordnungen auf Grund dieses
@@ -1354,6 +1383,7 @@ den in Anhang VIII Teil I Abschnitt C Nummer 6 der Verordnung (EU) Nr.
 
 
 ### § 14 Beschaffenheit von Behältnissen und Räumen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE002905377)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -1390,6 +1420,7 @@ der Erzeugnisse erforderlich ist, vorzuschreiben, dass
 
 
 ### § 15 Erhöhung des Alkoholgehaltes, Süßung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003007377)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -1432,6 +1463,7 @@ ist,
 
 
 ### § 16 Inverkehrbringen und Verarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003113377)
 
 (1) Erzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie
 von handelsüblicher Beschaffenheit sind.
@@ -1548,10 +1580,12 @@ anzuhören.
 
 
 ## 4. Abschnitt - Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A., Sekt b.A. und Landwein
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000404116)
 
 
 
 ### § 16a Produktspezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008804130)
 
 Die in § 23 Absatz 1 und 2 sowie in diesem Abschnitt geregelten
 Bestimmungen über die Anforderungen und Eigenschaften von
@@ -1564,6 +1598,7 @@ Kontrollen der Einhaltung der Produktspezifikationen.
 
 
 ### § 17 Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A.
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003211116)
 
 (1) Qualitätswein und die Prädikatsweine Kabinett, Spätlese oder
 Auslese müssen mindestens 7 Volumenprozent vorhandenen Alkohol, die
@@ -1640,11 +1675,13 @@ erforderlich ist,
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003305310)
 
 -
 
 
 ### § 19 Qualitätsprüfung der Qualitätsweine, Prädikatsweine, Qualitätslikörweine b.A., Qualitätsperlweine b.A., Sekte b.A. und bestimmter Qualitätsschaumweine
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003506377)
 
 (1) Abgefüllter inländischer Wein darf als Qualitätswein, im Inland
 hergestellter Qualitätsschaumwein darf als Sekt b.A., im Inland
@@ -1674,6 +1711,7 @@ Die amtliche Prüfungsnummer ist auf den Behältnissen anzugeben.
 
 
 ### § 20 Qualitätsprüfung der Prädikatsweine
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003605310)
 
 (1) Inländischer Wein darf als Prädikatswein in Verbindung mit einem
 der Begriffe Kabinett, Spätlese, Auslese, Beerenauslese,
@@ -1736,6 +1774,7 @@ Eiswein das Erntegut von Hand gelesen worden sein muss.
 
 
 ### § 21 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003710377)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -1789,6 +1828,7 @@ Europäischen Union erforderlich ist.
 
 
 ### § 22 Landwein
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003806377)
 
 (1) Die Bezeichnung eines Weines als Landwein setzt voraus, dass
 
@@ -1842,6 +1882,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 22a Jährliche Kontrollen der Produktspezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008903377)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1873,10 +1914,12 @@ Rechtsverordnung
 
 
 ## 5. Abschnitt - Geografische Bezeichnungen und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG001201310)
 
 
 
 ### § 22b Schutz geografischer Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009002377)
 
 (1) Geografische Bezeichnungen im Sinne dieses Gesetzes sind
 
@@ -1929,6 +1972,7 @@ Irreführung über die geografische Herkunft besteht.
 
 
 ### § 22c Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) 2024/1143 in Verbindung mit der Verordnung (EU) Nr. 1308/2013
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009108130)
 
 (1) Anträge auf Eintragung einer geografischen Angabe oder
 Ursprungsbezeichnung in das Verzeichnis der geschützten
@@ -2025,6 +2069,7 @@ Bundesrates nähere Bestimmungen zu erlassen.
 
 
 ### § 22d Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009203377)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2048,6 +2093,7 @@ dient.
 
 
 ### § 22e Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009700377)
 
 (1) Anträge auf Eintragung einer geografischen Angabe in das Register
 der geschützten geografischen Angaben für aromatisierte
@@ -2094,6 +2140,7 @@ nähere Bestimmungen zu erlassen über
 
 
 ### § 22f Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009800377)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, zur Verbesserung der Qualität der aromatisierten
@@ -2105,6 +2152,7 @@ der aromatisierten Weinerzeugnisse zu erlassen.
 
 
 ### § 22g Organisationen zur Verwaltung herkunftsgeschützter Weinnamen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010601130)
 
 (1) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass
 für das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1 oder
@@ -2142,6 +2190,7 @@ Aufgaben der Organisation notwendigen Mittel und Strukturen.
 
 
 ### § 23 Angabe kleinerer und größerer geografischer Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE003909116)
 
 (1) Für Erzeugnisse, die den Namen einer geschützten
 Ursprungsbezeichnung tragen, dürfen zusätzlich zu dem Namen der
@@ -2239,6 +2288,7 @@ abzugeben ist.
 
 
 ### § 24 Bezeichnungen und sonstige Angaben
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004007377)
 
 (1) (weggefallen)
 
@@ -2398,12 +2448,14 @@ genannten Hangneigungswinkel getroffen werden.
 
 
 ### § 24a Besondere Bezeichnungen für Qualitätsschaumwein
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE009500116)
 
 Der Name eines Landweingebietes darf auch für einen
 Qualitätsschaumwein verwendet werden.
 
 
 ### § 25 Verbote zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004205116)
 
 (1) Es ist verboten, als Verantwortlicher nach Artikel 8 Absatz 1 der
 Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
@@ -2459,6 +2511,7 @@ nicht entsprechen, an andere Lebensmittelunternehmer zu liefern.
 
 
 ### § 26 Bezeichnungsschutz, Schutz vor Verwechslung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004306377)
 
 (1) Für Getränke, die nicht Erzeugnisse sind, dürfen die Worte Wein,
 Kabinett, Spätlese, Auslese, Beerenauslese, Trockenbeerenauslese und
@@ -2491,16 +2544,19 @@ Voraussetzungen abhängig gemacht werden kann.
 
 
 ### § 26a Regelungen zum Schutz vor ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010700116)
 
 Die Regelungen des Abschnitts 9a des Lebensmittel- und
 Futtermittelgesetzbuches gelten entsprechend.
 
 
 ## 6. Abschnitt - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000602310)
 
 
 
 ### § 27 Vorschriftswidrige Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004407116)
 
 (1) Erzeugnisse, die den Rechtsakten der Europäischen Gemeinschaft
 oder der Europäischen Union, diesem Gesetz oder den auf Grund dieses
@@ -2535,6 +2591,7 @@ zu erlassen.
 
 
 ### § 28 Besondere Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004505377)
 
 (1) Ein Stoff, der bei der Verarbeitung von Erzeugnissen nicht
 zugesetzt werden darf, darf nicht mit dem Ziel dieser Verwendung zu
@@ -2570,6 +2627,7 @@ Sicherung einer ausreichenden Überwachung vorzuschreiben
 
 
 ### § 29 Weinbuchführung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004605377)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -2645,6 +2703,7 @@ Eintragungen vorgeschrieben werden über
 
 
 ### § 30 Begleitpapiere
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004705377)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -2662,6 +2721,7 @@ Sicherung einer ausreichenden Überwachung
 
 
 ### § 31 Allgemeine Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE004812116)
 
 (1) Soweit es zur Überwachung der Einhaltung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union, dieses Gesetzes
@@ -2798,6 +2858,7 @@ entsprechend.
 
 
 ### § 32 Rückstandsbeobachtung bei geernteten Weintrauben
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005003310)
 
 Soweit nach dem Lebensmittel- und Futtermittelgesetzbuch die
 Beobachtung der Rückstandssituation bei Lebensmitteln (Lebensmittel-
@@ -2806,6 +2867,7 @@ Weintrauben Anwendung.
 
 
 ### § 33 Meldungen, Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005113116)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -2923,6 +2985,7 @@ Aufstellung über das Produktionspotential erforderliche Angaben zu
 
 
 ### § 34 Verarbeitung von Einzelangaben; Übermittlung von Daten aus der Weinbaukartei
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005306116)
 
 (1) Die erhebenden Behörden sind berechtigt, Einzelangaben in
 Erklärungen, die nach den für den Weinbau und die Weinwirtschaft
@@ -2964,10 +3027,12 @@ verarbeiten, zu dessen Erfüllung sie ihr übermittelt werden.
 
 
 ## 7. Abschnitt - Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000702310)
 
 
 
 ### § 35 Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005406377)
 
 (1) Drittlandserzeugnisse dürfen nur eingeführt werden, wenn
 
@@ -3003,6 +3068,7 @@ insbesondere vorzusehen, dass
 
 
 ### § 36 Überwachung bei der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005506377)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -3121,10 +3187,12 @@ Zustimmung des Bundesrates erlassen. Es bestimmt die für die
 
 
 ## 8. Abschnitt - Absatzförderung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000802310)
 
 
 
 ### § 37 Deutscher Weinfonds
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005703310)
 
 (1) Der als Anstalt des öffentlichen Rechts errichtete Deutsche
 Weinfonds hat die Aufgabe, im Rahmen der ihm zur Verfügung stehenden
@@ -3159,6 +3227,7 @@ Weinfonds der Einrichtungen der Wirtschaft bedienen.
 
 
 ### § 38 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005803310)
 
 (1) Der Vorstand besteht aus höchstens zwei Personen. Die Mitglieder
 des Vorstandes werden auf Vorschlag des Aufsichtsrates vom
@@ -3180,6 +3249,7 @@ Vorschriften finden Anwendung.
 
 
 ### § 39 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE005905116)
 
 (1) Der Aufsichtsrat besteht aus zehn Mitgliedern. Die Mitglieder des
 Aufsichtsrates üben ihre Tätigkeit ehrenamtlich aus.
@@ -3213,6 +3283,7 @@ dessen Tagesordnung fest.
 
 
 ### § 40 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006006377)
 
 (1) Der Verwaltungsrat besteht aus 44 Personen, und zwar aus
 
@@ -3283,6 +3354,7 @@ Aufsichtsrates.
 
 
 ### § 41 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006105377)
 
 Der Verwaltungsrat beschließt über die Satzung des Deutschen
 Weinfonds. Die Satzung bedarf der Genehmigung des Bundesministeriums
@@ -3290,6 +3362,7 @@ für Ernährung und Landwirtschaft.
 
 
 ### § 42 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006205377)
 
 (1) Der Deutsche Weinfonds untersteht der Aufsicht des
 Bundesministerium für Ernährung und Landwirtschaft. Maßnahmen des
@@ -3314,6 +3387,7 @@ durchzuführen.
 
 
 ### § 43 Abgabe für den Deutschen Weinfonds
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006306116)
 
 (1) Zur Beschaffung der für die Durchführung der Aufgaben des
 Deutschen Weinfonds erforderlichen Mittel sind vorbehaltlich des
@@ -3383,6 +3457,7 @@ gebracht.
 
 
 ### § 44 Erhebung der Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006408116)
 
 (1) Berechnungsgrundlage für die Erhebung der Abgabe nach § 43 Abs. 1
 Satz 1 Nr. 1 ist die in der Weinbaukartei als bestockt gekennzeichnete
@@ -3411,6 +3486,7 @@ von Säumniszuschlägen vorgesehen werden.
 
 
 ### § 45 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006605377)
 
 Der Deutsche Weinfonds hat für die Bewirtschaftung seiner Mittel einen
 Wirtschaftsplan aufzustellen. Dieser bedarf der Genehmigung des
@@ -3418,6 +3494,7 @@ Bundesministeriums für Ernährung und Landwirtschaft.
 
 
 ### § 46 Abgabe für die gebietliche Absatzförderung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006704116)
 
 Die Länder können zur besonderen Förderung des in ihrem Gebiet
 erzeugten Weines von den nach § 43 Abs. 1 Satz 1 Nr. 1
@@ -3427,6 +3504,7 @@ unterschiedlicher Höhe festgesetzt werden.
 
 
 ### § 47 Unterrichtung und Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006805377)
 
 Die gebietlichen Absatzförderungseinrichtungen und der Deutsche
 Weinfonds unterrichten sich gegenseitig über geplante
@@ -3439,10 +3517,12 @@ Ernährung und Landwirtschaft.
 
 
 ## 9. Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG000902310)
 
 
 
 ### § 48 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE006907116)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -3495,6 +3575,7 @@ Schädigung an Körper oder Gesundheit bringt.
 
 
 ### § 49 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007011116)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -3564,6 +3645,7 @@ Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach §
 
 
 ### § 50 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007120130)
 
 (1) Ordnungswidrig handelt, wer eine der in
 
@@ -3665,6 +3747,7 @@ Euro geahndet werden.
 
 
 ### § 51 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007207116)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates,
@@ -3684,6 +3767,7 @@ Tatbestände zu bezeichnen, die
 
 
 ### § 52 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007402310)
 
 Ist eine Straftat nach § 48 oder § 49 oder eine Ordnungswidrigkeit
 nach § 50 begangen worden, so können Gegenstände, auf die sich eine
@@ -3694,16 +3778,19 @@ des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 
 ## 10. Abschnitt - Verbraucherinformation und Destillation in Krisenfällen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG001102116)
 
 
 
 ### § 52a Verbraucherinformation
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008601310)
 
 Für die Verbraucherinformation gilt das Verbraucherinformationsgesetz
 entsprechend.
 
 
 ### § 52b Destillation in Krisenfällen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE010500116)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei
 der Europäischen Kommission nach Artikel 216 Absatz 2 der Verordnung
@@ -3775,10 +3862,12 @@ Nummer 4 des Marktorganisationsgesetzes.
 
 
 ## 11. Abschnitt - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNG001003310)
 
 
 
 ### § 53 Rechtsverordnungen zur Durchführung des Gemeinschaftsrechts oder Unionsrechts
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007509130)
 
 (1) Rechtsverordnungen nach diesem Gesetz können auch zur Durchführung
 von für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der
@@ -3800,6 +3889,7 @@ Zustimmung des Bundesrates erlassen.
 
 
 ### § 54 Übertragung von Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007602310)
 
 (1) In den Rechtsverordnungen auf Grund dieses Gesetzes kann die
 jeweilige Ermächtigung ganz oder teilweise auf die Landesregierungen
@@ -3814,10 +3904,12 @@ durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu
 
 
 ### § 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007807116)
 
 
 
 ### § 56 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE007915130)
 
 (1) Die Regierungen der Länder Brandenburg, Sachsen, Sachsen-Anhalt
 und Thüringen können in Rechtsverordnungen nach § 9 Abs. 2 Satz 1 bis
@@ -3950,6 +4042,7 @@ in der bis zum 27. Juni 2024 geltenden Fassung weiter anzuwenden.
 
 
 ### § 57 Fortbestehen anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008006116)
 
 (1) Solange noch nicht auf Grund der Ermächtigungen dieses Gesetzes
 neue Regelungen getroffen worden sind, sind
@@ -4003,6 +4096,7 @@ Vorschriften aufzuheben.
 
 
 ### § 57a Ermächtigung zur Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE008405377)
 
 (1) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass
 von Rechtsverordnungen des Bundes fortgefallen sind, können
@@ -4018,6 +4112,7 @@ Ermächtigungen gestützt sind, aufzuheben.
 
 
 ### § 57b Geändertes Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE011000130)
 
 (1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf
 Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche
@@ -4050,6 +4145,7 @@ Rechtsakt
 (zu § 7d Absatz 1c)
 
 ### Anlage 1 Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2159
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE011100130)
 
 (Fundstelle: BGBl. 2024 I Nr. 405, S. 10)
 
@@ -4092,6 +4188,7 @@ Rechtsakt
 (zu § 7d Absatz 1d)
 
 ### Anlage 2 Regionen im Sinne von Artikel 1 Absatz 1 der Delegierten Verordnung (EU) 2024/2146
+[Direktlink](https://www.gesetze-im-internet.de/weing_1994/BJNR146710994.html#BJNR146710994BJNE011200130)
 
 (Fundstelle: BGBl. 2024 I Nr. 405, S. 11)
 

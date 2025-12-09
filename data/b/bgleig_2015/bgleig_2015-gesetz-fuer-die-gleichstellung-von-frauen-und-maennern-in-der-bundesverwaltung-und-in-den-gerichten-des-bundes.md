@@ -22,9 +22,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNG000100000)
 
 
 ### § 1 Ziele des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000201116)
 
 (1) Ziel des Gesetzes ist es,
 
@@ -57,6 +59,7 @@ Behindertengleichstellungsgesetzes.
 
 
 ### § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000301116)
 
 (1) Dieses Gesetz gilt für die Dienststellen nach § 3 Nummer 5.
 
@@ -67,6 +70,7 @@ Satzungsänderung muss einstimmig gefasst werden.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000403116)
 
 Im Sinne dieses Gesetzes sind:
 
@@ -146,6 +150,7 @@ Im Sinne dieses Gesetzes sind:
 
 
 ### § 4 Allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000501116)
 
 (1) Die Beschäftigten, insbesondere solche in den Führungspositionen,
 sowie die Leitung und Personalverwaltung der Dienststelle haben die
@@ -176,9 +181,11 @@ Ausdruck bringen. Dies gilt auch für den Schriftverkehr.
 
 
 ## Abschnitt 2 - Maßnahmen zur Gleichstellung von Frauen und Männern
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNG000200000)
 
 
 ### § 5 Ausnahmen von der Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000601116)
 
 (1) Die Vorschriften dieses Abschnitts sind nur dann nicht anzuwenden,
 wenn die Zugehörigkeit zu einem bestimmten Geschlecht unverzichtbare
@@ -189,6 +196,7 @@ Schwerbehindertenvertretung bleiben unberührt.
 
 
 ### § 6 Arbeitsplatzausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000701116)
 
 (1) Ausschreibungen von Arbeitsplätzen müssen geschlechtsneutral
 erfolgen. Es ist insbesondere unzulässig, Arbeitsplätze nur für Männer
@@ -218,6 +226,7 @@ oder des Funktionsbereichs enthalten.
 
 
 ### § 7 Bewerbungsgespräche
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000801116)
 
 (1) Liegen in ausreichender Zahl Bewerbungen von Frauen vor, die das
 in der Ausschreibung vorgegebene Anforderungs- und
@@ -238,6 +247,7 @@ sind die jeweiligen Gründe aktenkundig zu machen.
 
 
 ### § 8 Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg und der Vergabe von Ausbildungsplätzen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE000901116)
 
 (1) Sind Frauen in einem Bereich unterrepräsentiert, so hat die
 Dienststelle sie bei gleicher Qualifikation wie ihre Mitbewerber
@@ -293,6 +303,7 @@ zu hören ist.
 
 
 ### § 9 Qualifikation von Bewerberinnen und Bewerbern
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001001116)
 
 (1) Die Qualifikation einer Bewerberin oder eines Bewerbers wird
 anhand der Anforderungen des zu besetzenden Arbeitsplatzes ermittelt,
@@ -343,6 +354,7 @@ sein:
 
 
 ### § 10 Fortbildung, Dienstreisen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001101116)
 
 (1) Die Dienststelle hat die Teilnahme der Beschäftigten an
 Fortbildungen zu unterstützen. Bei der Einführungs-, Förderungs- und
@@ -392,9 +404,11 @@ geben.
 
 
 ## Abschnitt 3 - Gleichstellungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNG000300000)
 
 
 ### § 11 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001201116)
 
 Der Gleichstellungsplan dient der Erreichung der Ziele dieses Gesetzes
 und ist ein wesentliches Instrument der Personalplanung, insbesondere
@@ -404,6 +418,7 @@ der Dienststellenleitung.
 
 
 ### § 12 Erstellung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001300000)
 
 (1) Jede Dienststelle hat einen Gleichstellungplan für jeweils vier
 Jahre zu erstellen, der nach zwei Jahren den aktuellen Gegebenheiten
@@ -419,6 +434,7 @@ Stichtage festgelegt werden.
 
 
 ### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001401116)
 
 (1) Der Gleichstellungsplan muss eine Bestandsaufnahme vornehmen,
 indem er die bestehende Situation der Frauen und Männer in der
@@ -476,6 +492,7 @@ enthalten.
 
 
 ### § 14 Veröffentlichung und Kenntnisgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001501116)
 
 Die Dienststelle hat den Gleichstellungsplan innerhalb eines Monats
 nach Beginn seiner Geltungsdauer im Intranet zu veröffentlichen und
@@ -484,9 +501,11 @@ Kenntnis zu geben.
 
 
 ## Abschnitt 4 - Vereinbarkeit von Familie oder Pflege mit der Berufstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNG000401116)
 
 
 ### § 15 Arbeitszeiten, sonstige Rahmenbedingungen und Erstattung von Betreuungskosten in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001602130)
 
 (1) Die Dienststellen haben Arbeitszeiten und sonstige
 Rahmenbedingungen anzubieten, die allen Beschäftigten die
@@ -566,6 +585,7 @@ Maßnahmen möglich:
 
 
 ### § 16 Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001701116)
 
 (1) Die Dienststellen haben den Anträgen von Beschäftigten mit
 Familien- oder Pflegeaufgaben auf familien- oder pflegebedingte
@@ -619,6 +639,7 @@ bis 5 unberührt.
 
 
 ### § 17 Wechsel zur Vollzeitbeschäftigung, beruflicher Wiedereinstieg
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001800000)
 
 (1) Bei Vorliegen der gleichen Qualifikation müssen im Rahmen der
 Besetzung von Arbeitsplätzen vorrangig berücksichtigt werden:
@@ -674,6 +695,7 @@ berufliche Entwicklung zu erörtern ist.
 
 
 ### § 18 Verbot von Benachteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE001901116)
 
 (1) Folgende Umstände dürfen die Einstellung sowie die berufliche
 Entwicklung einschließlich des beruflichen Aufstiegs nicht
@@ -715,9 +737,11 @@ Bundesbeamtengesetzes zu berücksichtigen.
 
 
 ## Abschnitt 5 - Gleichstellungsbeauftragte, Stellvertreterin und Vertrauensfrau
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNG000500000)
 
 
 ### § 19 Wahl, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002001116)
 
 (1) In jeder Dienststelle mit in der Regel mindestens 100
 Beschäftigten wird eine Gleichstellungsbeauftragte gewählt. Dies gilt
@@ -789,6 +813,7 @@ des Bundesrates das Verfahren der Wahl nach den Absätzen 1 bis 4.
 
 
 ### § 20 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002101116)
 
 (1) Die Dienststelle bestellt die gewählten Beschäftigten für jeweils
 vier Jahre zur Gleichstellungsbeauftragten oder zur Stellvertreterin.
@@ -836,6 +861,7 @@ Zustimmung der zu bestellenden Beschäftigten.
 
 
 ### § 21 Anfechtung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002200000)
 
 (1) Die Wahl kann angefochten werden, wenn gegen wesentliche
 Vorschriften zur Wahl verstoßen worden und der Verstoß nicht
@@ -851,6 +877,7 @@ Arbeitstagen nach Bekanntgabe des Wahlergebnisses erfolgen.
 
 
 ### § 22 Vorzeitiges Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002300000)
 
 (1) Scheidet die Gleichstellungsbeauftragte vorzeitig aus ihrem Amt
 aus oder ist sie nicht nur vorübergehend verhindert, ihr Amt
@@ -877,6 +904,7 @@ sechs Monate ununterbrochen nicht ausgeübt werden konnte.
 
 
 ### § 23 Zusammenlegung, Aufspaltung und Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002401116)
 
 (1) Bei der Zusammenlegung von Dienststellen zu einer neuen
 Dienststelle endet die Amtszeit der Gleichstellungsbeauftragten und
@@ -900,6 +928,7 @@ Organisationsaktes der Eingliederung.
 
 
 ### § 24 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002501116)
 
 (1) Die Gleichstellungsbeauftragte gehört der Personalverwaltung an.
 In Dienststellen ist sie unmittelbar der Dienststellenleitung
@@ -921,6 +950,7 @@ Stellvertreterinnen, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 25 Aufgaben, Rechte und Pflichten der Gleichstellungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002601116)
 
 (1) Die Gleichstellungsbeauftragte hat die Aufgabe, den Vollzug dieses
 Gesetzes sowie des Allgemeinen Gleichbehandlungsgesetzes im Hinblick
@@ -982,6 +1012,7 @@ vor der Wahrnehmung anderer Aufgaben.
 
 
 ### § 26 Aufgaben der Stellvertreterin und der Vertrauensfrau
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002701116)
 
 (1) Die Stellvertreterin wird grundsätzlich im Vertretungsfall tätig.
 
@@ -1027,6 +1058,7 @@ der örtlichen Dienststelle übertragen.
 
 
 ### § 27 Beteiligung und Unterstützung der Gleichstellungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002801116)
 
 (1) Die Dienststelle beteiligt die Gleichstellungsbeauftragten
 frühzeitig, insbesondere bei
@@ -1088,6 +1120,7 @@ Gleichstellungsbeauftragte über die Gründe zu informieren.
 
 
 ### § 28 Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE002901116)
 
 (1) Die Gleichstellungsbeauftragte darf bei der Erfüllung ihrer
 Pflichten nicht behindert und wegen ihrer Tätigkeit als
@@ -1241,6 +1274,7 @@ regelmäßigen Arbeitszeit einer Vollzeitkraft.
 
 
 ### § 29 Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003001116)
 
 (1) Der Gleichstellungsbeauftragten ist mit Beginn und bis zum Ende
 ihrer Amtszeit die notwendige personelle, räumliche und sachliche
@@ -1270,6 +1304,7 @@ Personalvertretungsmitglieder gilt entsprechend.
 
 
 ### § 30 Zusammenarbeit und Information
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003100000)
 
 (1) Die Dienststellenleitung und die Gleichstellungsbeauftragte
 arbeiten zum Wohle der Beschäftigten und zur Erfüllung der in § 1
@@ -1296,6 +1331,7 @@ ist.
 
 
 ### § 31 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003200000)
 
 Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die
 Mitarbeiterinnen und Mitarbeiter sowie die Vertrauensfrauen sind
@@ -1306,6 +1342,7 @@ Stillschweigen verpflichtet.
 
 
 ### § 32 Form der Mitwirkung und Stufenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003301116)
 
 (1) Die Gleichstellungsbeauftragte hat das Recht und die Pflicht,
 unmittelbar bei der Dienststellenleitung vorzutragen. Sie hat in allen
@@ -1356,6 +1393,7 @@ nachgeordnete Dienststelle nach § 25 Absatz 4 ist.
 
 
 ### § 33 Einspruchsrecht und Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003401116)
 
 (1) Die Gleichstellungsbeauftragte hat ein Einspruchsrecht gegenüber
 der Dienststellenleitung, wenn sie geltend macht, die Dienststelle
@@ -1411,6 +1449,7 @@ und der Gleichstellungsbeauftragten unverzüglich zu übermitteln.
 
 
 ### § 34 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003501116)
 
 (1) Bleibt der Einspruch nach § 33 erfolglos, so kann die
 Gleichstellungsbeauftragte oder die Dienststelle einen
@@ -1446,6 +1485,7 @@ Absätzen 1 oder 2 entstehen.
 
 
 ### § 35 Fragerecht
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003600000)
 
 (1) Zur Klärung von Fragen grundsätzlicher Bedeutung, insbesondere zur
 Auslegung dieses Gesetzes, können sich die Gleichstellungsbeauftragte
@@ -1462,6 +1502,7 @@ nachrichtlich zu.
 
 
 ### § 36 Interministerieller Arbeitskreis der Gleichstellungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003700000)
 
 Die Gleichstellungsbeauftragten der obersten Bundesbehörden bilden
 zusammen den Interministeriellen Arbeitskreis der
@@ -1474,9 +1515,11 @@ bleibt von den Sätzen 1 und 2 unberührt.
 
 
 ## Abschnitt 6 - Sonderregelungen, Statistik, Bericht und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNG000600000)
 
 
 ### § 37 Sonderregelungen für den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003802360)
 
 Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden
 Abweichungen:
@@ -1538,6 +1581,7 @@ Abweichungen:
 
 
 ### § 38 Statistik, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE003901116)
 
 (1) Jede Dienststelle erfasst alle zwei Jahre die Zahl aller in der
 Dienststelle beschäftigten Frauen und Männer sowie die Zahl der Frauen
@@ -1654,6 +1698,7 @@ Rechtsverordnung getroffen werden.
 
 
 ### § 39 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE004001116)
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre
 einen Bericht vor. Der Bericht legt dar,
@@ -1686,6 +1731,7 @@ enthalten.
 
 
 ### § 40 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgleig_2015/BJNR064300015.html#BJNR064300015BJNE004101116)
 
 Gleichstellungspläne, die am 12. August 2021 bestehen, gelten auch
 nach dem Inkrafttreten des Gesetzes zur Ergänzung und Änderung der

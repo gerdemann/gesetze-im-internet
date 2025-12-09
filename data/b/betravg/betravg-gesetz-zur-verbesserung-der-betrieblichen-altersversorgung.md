@@ -20,20 +20,24 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001000314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Arbeitsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000100314)
 
 
 
 ### Erster Abschnitt - Durchführung der betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000201308)
 
 
 
 #### § 1 Zusage des Arbeitgebers auf betriebliche Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001106360)
 
 (1) Werden einem Arbeitnehmer Leistungen der Alters-, Invaliditäts-
 oder Hinterbliebenenversorgung aus Anlass seines Arbeitsverhältnisses
@@ -90,6 +94,7 @@ erfolgt.
 
 
 #### § 1a Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004304360)
 
 (1) Der Arbeitnehmer kann vom Arbeitgeber verlangen, dass von seinen
 künftigen Entgeltansprüchen bis zu 4 vom Hundert der jeweiligen
@@ -134,6 +139,7 @@ Entgeltumwandlung gelten entsprechend.
 
 
 #### § 1b Unverfallbarkeit und Durchführung der betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004405360)
 
 (1) Einem Arbeitnehmer, dem Leistungen aus der betrieblichen
 Altersversorgung zugesagt worden sind, bleibt die Anwartschaft
@@ -223,6 +229,7 @@ einzuräumen.
 
 
 #### § 2 Höhe der unverfallbaren Anwartschaft
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001216124)
 
 (1) Bei Eintritt des Versorgungsfalles wegen Erreichens der
 Altersgrenze, wegen Invalidität oder Tod haben ein vorher
@@ -347,6 +354,7 @@ einen biometrischen Risikoausgleich verbraucht wurden.
 
 
 #### § 2a Berechnung und Wahrung des Teilanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005200119)
 
 (1) Bei der Berechnung des Teilanspruchs eines mit unverfallbarer
 Anwartschaft ausgeschiedenen Arbeitnehmers nach § 2 sind die
@@ -416,6 +424,7 @@ führen.
 
 
 #### § 3 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001307119)
 
 (1) Unverfallbare Anwartschaften im Falle der Beendigung des
 Arbeitsverhältnisses und laufende Leistungen dürfen nur unter den
@@ -452,6 +461,7 @@ entsprechend.
 
 
 #### § 4 Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001408124)
 
 (1) Unverfallbare Anwartschaften und laufende Leistungen dürfen nur
 unter den Voraussetzungen der folgenden Absätze übertragen werden.
@@ -526,6 +536,7 @@ die Zusage des ehemaligen Arbeitgebers.
 
 
 #### § 4a Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005001119)
 
 (1) Der Arbeitgeber oder der Versorgungsträger hat dem Arbeitnehmer
 auf dessen Verlangen mitzuteilen,
@@ -570,10 +581,12 @@ Frist erteilt werden.
 
 
 ### Zweiter Abschnitt - Auszehrungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000300314)
 
 
 
 #### § 5 Auszehrung und Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001501308)
 
 (1) Die bei Eintritt des Versorgungsfalls festgesetzten Leistungen der
 betrieblichen Altersversorgung dürfen nicht mehr dadurch gemindert
@@ -593,10 +606,12 @@ Beiträgen oder Zuschüssen des Arbeitgebers beruhen.
 
 
 ### Dritter Abschnitt - Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000400314)
 
 
 
 #### § 6 Vorzeitige Altersleistung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001604126)
 
 Einem Arbeitnehmer, der die Altersrente aus der gesetzlichen
 Rentenversicherung als Vollrente in Anspruch nimmt, sind auf sein
@@ -611,10 +626,12 @@ oder sonstigen Versorgungsträger unverzüglich anzuzeigen.
 
 
 ### Vierter Abschnitt - Insolvenzsicherung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000500314)
 
 
 
 #### § 7 Umfang des Versicherungsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001711124)
 
 (1) Versorgungsempfänger, deren Ansprüche aus einer unmittelbaren
 Versorgungszusage des Arbeitgebers nicht erfüllt werden, weil über das
@@ -794,6 +811,7 @@ abweichend von den Absätzen 1 bis 5 festsetzen.
 
 
 #### § 8 Übertragung der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001809124)
 
 (1) Ein Anspruch gegen den Träger der Insolvenzsicherung auf
 Leistungen nach § 7 besteht nicht, wenn ein Unternehmen der
@@ -823,6 +841,7 @@ Versicherungsnehmerwechsel.
 
 
 #### § 8a Abfindung durch den Träger der Insolvenzsicherung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005300360)
 
 Der Träger der Insolvenzsicherung kann eine Anwartschaft ohne
 Zustimmung des Arbeitnehmers abfinden, wenn der Monatsbetrag der aus
@@ -839,6 +858,7 @@ ist. § 2 Abs. 2 Satz 4 bis 6 und § 3 Abs. 5 gelten entsprechend.
 
 
 #### § 9 Mitteilungspflicht, Forderungs- und Vermögensübergang
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE001907126)
 
 (1) Der Träger der Insolvenzsicherung teilt dem Berechtigten die ihm
 nach § 7 oder § 8 zustehenden Ansprüche oder Anwartschaften
@@ -923,6 +943,7 @@ den das Insolvenzverfahren eröffnet wird, die sofortige Beschwerde zu.
 
 
 #### § 10 Beitragspflicht und Beitragsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002013124)
 
 (1) Die Mittel für die Durchführung der Insolvenzsicherung werden auf
 Grund öffentlich-rechtlicher Verpflichtung durch Beiträge aller
@@ -1030,6 +1051,7 @@ Ausfertigung erteilt der Träger der Insolvenzsicherung.
 
 
 #### § 10a Säumniszuschläge, Zinsen, Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003800308)
 
 (1) Für Beiträge, die wegen Verstoßes des Arbeitgebers gegen die
 Meldepflicht erst nach Fälligkeit erhoben werden, kann der Träger der
@@ -1058,6 +1080,7 @@ anzuwenden.
 
 
 #### § 11 Melde-, Auskunfts- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002105124)
 
 (1) Der Arbeitgeber hat dem Träger der Insolvenzsicherung eine
 betriebliche Altersversorgung nach § 1b Abs. 1 bis 4 für seine
@@ -1131,6 +1154,7 @@ Nähere zu bestimmen und Einzelheiten des Verfahrens zu regeln.
 
 
 #### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002204124)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1159,11 +1183,13 @@ Finanzdienstleistungsaufsicht.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002301308)
 
 (weggefallen)
 
 
 #### § 14 Träger der Insolvenzsicherung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002407126)
 
 (1) Träger der Insolvenzsicherung ist der Pensions-Sicherungs-Verein
 Versicherungsverein auf Gegenseitigkeit. Er ist zugleich Träger der
@@ -1293,6 +1319,7 @@ geltenden Fassung auch für den Fonds anzuwenden.
 
 
 #### § 15 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002502308)
 
 Personen, die bei dem Träger der Insolvenzsicherung beschäftigt oder
 für ihn tätig sind, dürfen fremde Geheimnisse, insbesondere Betriebs-
@@ -1304,10 +1331,12 @@ gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
 
 
 ### Fünfter Abschnitt - Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000600314)
 
 
 
 #### § 16 Anpassungsprüfungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002609119)
 
 (1) Der Arbeitgeber hat alle drei Jahre eine Anpassung der laufenden
 Leistungen der betrieblichen Altersversorgung zu prüfen und hierüber
@@ -1368,10 +1397,12 @@ des 85. Lebensjahres im Anschluss an einen Auszahlungsplan.
 
 
 ### Sechster Abschnitt - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000700314)
 
 
 
 #### § 17 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002707360)
 
 (1) Arbeitnehmer im Sinne der §§ 1 bis 16 sind Arbeiter und
 Angestellte einschließlich der zu ihrer Berufsausbildung
@@ -1398,6 +1429,7 @@ Altersversorgung werden unbeschadet des § 18 durch die §§ 1 bis 16 und
 
 
 #### § 18 Sonderregelungen für den öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002817124)
 
 (1) Für Personen, die
 
@@ -1596,6 +1628,7 @@ einer Auskunft der Deutschen Rentenversicherung Bund vorzunehmen.
 
 
 #### § 18a Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004800308)
 
 Der Anspruch auf Leistungen aus der betrieblichen Altersversorgung
 verjährt in 30 Jahren. Ansprüche auf regelmäßig wiederkehrende
@@ -1604,14 +1637,17 @@ Vorschriften des Bürgerlichen Gesetzbuchs.
 
 
 ### Siebter Abschnitt - Betriebliche Altersversorgung und Tarifvertrag
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000801360)
 
 
 
 #### Unterabschnitt 1 - Tariföffnung; Optionssysteme
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG001000360)
 
 
 
 ##### § 19 Allgemeine Tariföffnungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE002901360)
 
 (1) Von den §§ 1a, 2, 2a Absatz 1, 3 und 4, § 3, mit Ausnahme des § 3
 Absatz 2 Satz 3, von den §§ 4, 5, 16, 18a Satz 1, §§ 27 und 28 kann in
@@ -1626,6 +1662,7 @@ zuungunsten des Arbeitnehmers abgewichen werden.
 
 
 ##### § 20 Tarifvertrag und Entgeltumwandlung; Optionssysteme
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005400360)
 
 (1) Soweit Entgeltansprüche auf einem Tarifvertrag beruhen, kann für
 diese eine Entgeltumwandlung nur vorgenommen werden, soweit dies durch
@@ -1667,10 +1704,12 @@ die Einführung eines Optionssystems regeln; Satz 2 gilt entsprechend.
 
 
 #### Unterabschnitt 2 - Tarifvertrag und reine Beitragszusage
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG001100360)
 
 
 
 ##### § 21 Tarifvertragsparteien
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005500360)
 
 (1) Vereinbaren die Tarifvertragsparteien eine betriebliche
 Altersversorgung in Form der reinen Beitragszusage, müssen sie sich an
@@ -1699,6 +1738,7 @@ Arbeitgebers treten.
 
 
 ##### § 22 Arbeitnehmer und Versorgungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005601124)
 
 (1) Bei einer reinen Beitragszusage hat der Pensionsfonds, die
 Pensionskasse oder die Direktversicherung dem Versorgungsempfänger auf
@@ -1746,6 +1786,7 @@ gilt entsprechend.
 
 
 ##### § 23 Zusatzbeiträge des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005700360)
 
 (1) Zur Absicherung der reinen Beitragszusage soll im Tarifvertrag ein
 Sicherungsbeitrag vereinbart werden.
@@ -1758,12 +1799,14 @@ die Entgeltumwandlung Sozialversicherungsbeiträge einspart.
 
 
 ##### § 24 Nichttarifgebundene Arbeitgeber und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005800360)
 
 Nichttarifgebundene Arbeitgeber und Arbeitnehmer können die Anwendung
 der einschlägigen tariflichen Regelung vereinbaren.
 
 
 ##### § 25 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003001360)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -1776,10 +1819,12 @@ Zustimmung des Bundesrates.
 
 
 ## Zweiter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNG000901360)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003100314)
 
 Die §§ 1 bis 4 und 18 gelten nicht, wenn das Arbeitsverhältnis oder
 Dienstverhältnis vor dem Inkrafttreten des Gesetzes beendet worden
@@ -1787,6 +1832,7 @@ ist.
 
 
 ### § 26a Übergangsvorschrift zu § 1a Absatz 1a
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005900360)
 
 § 1a Absatz 1a gilt für individual- und kollektivrechtliche
 Entgeltumwandlungsvereinbarungen, die vor dem 1. Januar 2019
@@ -1794,6 +1840,7 @@ geschlossen worden sind, erst ab dem 1. Januar 2022.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003200314)
 
 § 2 Abs. 2 Satz 2 Nr. 2 und 3 und Abs. 3 Satz 2 Nr. 1 und 2 gelten in
 Fällen, in denen vor dem Inkrafttreten des Gesetzes die
@@ -1805,6 +1852,7 @@ Gesetzes erfüllt sein müssen.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003300314)
 
 § 5 gilt für Fälle, in denen der Versorgungsfall vor dem Inkrafttreten
 des Gesetzes eingetreten ist, mit der Maßgabe, daß diese Vorschrift
@@ -1813,6 +1861,7 @@ werdenden Versorgungsleistungen anzuwenden ist.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003400314)
 
 § 6 gilt für die Fälle, in denen das Altersruhegeld der gesetzlichen
 Rentenversicherung bereits vor dem Inkrafttreten des Gesetzes in
@@ -1822,6 +1871,7 @@ gewähren sind.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003501124)
 
 (1) Ein Anspruch gegen den Träger der Insolvenzsicherung nach § 7
 besteht nur, wenn der Sicherungsfall nach dem Inkrafttreten der §§ 7
@@ -1876,16 +1926,19 @@ Untersuchung beauftragen.
 
 
 ### § 30a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003901360)
 
 
 
 ### § 30b
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004001308)
 
 § 4 Abs. 3 gilt nur für Zusagen, die nach dem 31. Dezember 2004
 erteilt wurden.
 
 
 ### § 30c
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004103360)
 
 (1) § 16 Abs. 3 Nr. 1 gilt nur für laufende Leistungen, die auf
 Zusagen beruhen, die nach dem 31. Dezember 1998 erteilt werden.
@@ -1910,6 +1963,7 @@ Angestellten mit mittlerem Einkommen tritt.
 
 
 ### § 30d Übergangsregelung zu § 18
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004202360)
 
 (1) Ist der Versorgungsfall vor dem 1. Januar 2001 eingetreten oder
 ist der Arbeitnehmer vor dem 1. Januar 2001 aus dem
@@ -1964,6 +2018,7 @@ Fassung einzubeziehen.
 
 
 ### § 30e
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004902119)
 
 (1) § 1 Abs. 2 Nr. 4 zweiter Halbsatz gilt für Zusagen, die nach dem
 31\. Dezember 2002 erteilt werden.
@@ -1983,6 +2038,7 @@ Abs. 1 bis 4. Die Regelung in Absatz 1 bleibt unberührt.
 
 
 ### § 30f
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004502119)
 
 (1) Wenn Leistungen der betrieblichen Altersversorgung vor dem 1.
 Januar 2001 zugesagt worden sind, ist § 1b Abs. 1 mit der Maßgabe
@@ -2027,6 +2083,7 @@ Beendigung des Arbeitsverhältnisses das 21. Lebensjahr vollendet ist.
 
 
 ### § 30g
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004602119)
 
 (1) § 2a Absatz 2 gilt nicht für Beschäftigungszeiten vor dem 1.
 Januar 2018. Für Beschäftigungszeiten nach dem 31. Dezember 2017 gilt
@@ -2044,12 +2101,14 @@ Januar 2005 erstmals gezahlt worden sind.
 
 
 ### § 30h
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE004701360)
 
 § 20 Absatz 1 gilt für Entgeltumwandlungen, die auf Zusagen beruhen,
 die nach dem 29. Juni 2001 erteilt werden.
 
 
 ### § 30i
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE005101119)
 
 (1) Der Barwert der bis zum 31. Dezember 2005 aufgrund eingetretener
 Insolvenzen zu sichernden Anwartschaften wird einmalig auf die
@@ -2077,6 +2136,7 @@ im Jahr der Insolvenz in die erforderlichen jährlichen Beiträge gemäß
 
 
 ### § 30j Übergangsregelung zu § 20 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE006000360)
 
 § 20 Absatz 2 gilt nicht für Optionssysteme, die auf der Grundlage von
 Betriebs- oder Dienstvereinbarungen vor dem 1. Juni 2017 eingeführt
@@ -2084,6 +2144,7 @@ worden sind.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003601308)
 
 Auf Sicherungsfälle, die vor dem 1. Januar 1999 eingetreten sind, ist
 dieses Gesetz in der bis zu diesem Zeitpunkt geltenden Fassung
@@ -2091,6 +2152,7 @@ anzuwenden.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE003700314)
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach seiner
 Verkündung in Kraft. Die §§ 7 bis 15 treten am 1. Januar 1975 in
@@ -2100,6 +2162,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III
 (BGBl. II 1990, 889, 1024)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/betravg/BJNR036100974.html#BJNR036100974BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

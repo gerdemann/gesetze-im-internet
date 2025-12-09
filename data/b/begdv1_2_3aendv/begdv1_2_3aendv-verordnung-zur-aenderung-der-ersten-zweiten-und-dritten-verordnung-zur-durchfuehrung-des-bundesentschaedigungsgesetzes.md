@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv/BJNR009410958.html#BJNR009410958BJNE000100328)
 
 Auf Grund der §§ 27, 42 und 126 des Bundesgesetzes zur Entschädigung
 für Opfer der nationalsozialistischen Verfolgung
@@ -28,11 +29,13 @@ mit Zustimmung des Bundesrates:
 
 
 ## (XXXX) Art I bis Art III (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv/BJNR009410958.html#BJNR009410958BJNE000200328)
 
 -
 
 
 ## Art IV Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv/BJNR009410958.html#BJNR009410958BJNE000300328)
 
 (1) Die Unanfechtbarkeit oder die Rechtskraft einer vor Verkündung
 dieser Verordnung ergangenen Entscheidung steht einer erneuten
@@ -47,6 +50,7 @@ worden sind.
 
 
 ## Art V Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv/BJNR009410958.html#BJNR009410958BJNE000400328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 240 BEG
@@ -54,11 +58,13 @@ auch im Land Berlin.
 
 
 ## Art VI Nichtanwendung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv/BJNR009410958.html#BJNR009410958BJNE000500328)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ## Art VII Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/begdv1_2_3_ndv/BJNR009410958.html#BJNR009410958BJNE000600328)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1957 in Kraft.
 

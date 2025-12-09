@@ -22,16 +22,19 @@ Zuletzt geändert durch
 Stand: Aufgenommen wegen Art. 111
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fgg-rg/BJNR258600008.html#BJNR258600008BJNE000200000)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/fgg-rg/BJNR258600008.html#BJNR258600008BJNE000300000)
 
 -
 
 
 ## Art 111 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fgg-rg/BJNR258600008.html#BJNR258600008BJNE011801160)
 
 (1) Auf Verfahren, die bis zum Inkrafttreten des Gesetzes zur Reform
 des Verfahrens in Familiensachen und in den Angelegenheiten der
@@ -83,6 +86,7 @@ freiwilligen Gerichtsbarkeit geltenden Vorschriften anzuwenden.
 
 
 ## Art 112 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fgg-rg/BJNR258600008.html#BJNR258600008BJNE011900000)
 
 (1) Dieses Gesetz tritt, mit Ausnahme von Artikel 110a Abs. 2 und 3,
 am 1. September 2009 in Kraft; ...

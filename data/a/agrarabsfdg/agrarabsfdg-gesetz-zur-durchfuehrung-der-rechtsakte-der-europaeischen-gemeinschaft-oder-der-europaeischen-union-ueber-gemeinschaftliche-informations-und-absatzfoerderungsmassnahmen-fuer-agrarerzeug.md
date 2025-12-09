@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agrarabsfdg/BJNR268800002.html#BJNR268800002BJNE000101377)
 
 Dieses Gesetz gilt für die Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union über
@@ -30,6 +31,7 @@ Agrarerzeugnisse.
 
 
 ## § 2 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/agrarabsfdg/BJNR268800002.html#BJNR268800002BJNE000200000)
 
 Zuständige Stelle für die Durchführung der in § 1 genannten
 Rechtsakte, dieses Gesetzes sowie der auf Grund dieses Gesetzes
@@ -38,6 +40,7 @@ und Ernährung (Bundesanstalt).
 
 
 ## § 3 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/agrarabsfdg/BJNR268800002.html#BJNR268800002BJNE000300000)
 
 (1) Soweit es erforderlich ist, das Vorliegen oder das Einhalten der
 Fördervoraussetzungen zu überwachen, darf die Bundesanstalt bei
@@ -81,6 +84,7 @@ Anwendung.
 
 
 ## § 4 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarabsfdg/BJNR268800002.html#BJNR268800002BJNE000403301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates,
@@ -107,6 +111,7 @@ erforderlich ist, Vorschriften zu erlassen
 
 
 ## § 5 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agrarabsfdg/BJNR268800002.html#BJNR268800002BJNE000500000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -135,6 +140,7 @@ Euro geahndet werden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrarabsfdg/BJNR268800002.html#BJNR268800002BJNE000600000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

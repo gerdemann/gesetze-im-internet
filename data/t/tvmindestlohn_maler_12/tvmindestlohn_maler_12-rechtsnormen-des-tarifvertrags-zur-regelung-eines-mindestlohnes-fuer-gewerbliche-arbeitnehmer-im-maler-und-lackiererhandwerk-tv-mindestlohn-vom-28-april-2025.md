@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die zugehörige V v. 24.7.2025 I Nr. 179 (MalerArbbV 12) tritt gem. § 2 dieser V mit Ablauf des 30.6.2027 außer Kraft
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohn_maler_12/BJNR0B30B0025.html#BJNR0B30B0025BJNE000100000)
 
 (1) Räumlicher Geltungsbereich
 
@@ -176,6 +177,7 @@ c)  gewerbliches Reinigungspersonal und anderes gewerbefremdes
 
 
 ## § 2 Mindestlohn
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohn_maler_12/BJNR0B30B0025.html#BJNR0B30B0025BJNE000200000)
 
 
 1.  Der Mindestlohn nach Nr. 2 ist Lohn im Sinne des § 5 Nr. 1 AEntG für
@@ -243,6 +245,7 @@ abgedruckt.]
 
 
 ## § 3 Fälligkeit des Branchen-Mindestlohnes
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohn_maler_12/BJNR0B30B0025.html#BJNR0B30B0025BJNE000300000)
 
 
 1.  Der Anspruch auf den Mindestlohn nach § 2 Nr. 2 wird spätestens zum
@@ -279,6 +282,7 @@ abgedruckt.]
 (zu § 2 Nummer 4 Satz 1 der Anlage)
 
 ## Anhang 1 Tätigkeitsbeispiele für Facharbeiten im Sinne § 2 Nr. 4 Satz 1
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohn_maler_12/BJNR0B30B0025.html#BJNR0B30B0025BJNE000400000)
 
 Maler
 
@@ -399,6 +403,7 @@ Maler
 (zu § 3 Nummer 2 der Anlage)
 
 ## Anhang 2 Auszug aus dem Rahmentarifvertrag (RTV) für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. August 2025 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohn_maler_12/BJNR0B30B0025.html#BJNR0B30B0025BJNE000500000)
 
 ## § 9
 

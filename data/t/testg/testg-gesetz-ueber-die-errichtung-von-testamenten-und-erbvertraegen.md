@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/testg/BJNR009730938.html#BJNR009730938BJNE000100301)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 51 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/testg/BJNR009730938.html#BJNR009730938BJNE000200301)
 
 (1) Das Gesetz gilt nicht für Erbfälle, die sich vor seinem
 Inkrafttreten ereignet haben.

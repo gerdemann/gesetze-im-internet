@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE000600325)
 
 Auf Grund des § 14 Abs. 4 des Heimgesetzes vom 7. August 1974 (BGBl. I
 S. 1873) wird im Einvernehmen mit dem Bundesminister für Wirtschaft
@@ -29,10 +30,12 @@ mit Zustimmung des Bundesrates verordnet:
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNG000100325)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE000700325)
 
 (1) Diese Verordnung regelt die Pflichten des Trägers einer
 Einrichtung im Sinne des § 1 Abs. 1 des Gesetzes, der Geld oder
@@ -48,6 +51,7 @@ einer Einrichtung gewährt werden.
 
 
 ### § 2 Begriff des Trägers
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE000800325)
 
 Träger im Sinne dieser Verordnung sind natürliche oder juristische
 Personen, die eine Einrichtung im Sinne des § 1 Abs. 1 des Gesetzes
@@ -58,6 +62,7 @@ lediglich das Belegungsrecht ausübt.
 
 
 ### § 3 Verpflichtung anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE000900325)
 
 Ermächtigt der Träger andere Personen zur Entgegennahme oder
 Verwendung der Leistungen, so hat er sicherzustellen, daß auch diese
@@ -66,6 +71,7 @@ erfüllen.
 
 
 ### § 4 Zwingende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001000325)
 
 Die Pflichten des Trägers nach dieser Verordnung einschließlich der
 Pflichten nach § 3 können vertraglich weder ausgeschlossen noch
@@ -73,10 +79,12 @@ beschränkt werden.
 
 
 ## Zweiter Teil - Pflichten des Trägers
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNG000200325)
 
 
 
 ### § 5 Anzeige- und Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001100325)
 
 (1) Läßt sich der Träger einer Einrichtung Leistungen im Sinne des § 1
 versprechen oder nimmt er solche Leistungen entgegen, so hat er dies
@@ -90,6 +98,7 @@ zu informieren.
 
 
 ### § 6 Verwendungszweck
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001200325)
 
 (1) Der Träger darf Leistungen im Sinne des § 1 nur zur Vorbereitung
 und Durchführung der von den Vertragsparteien bestimmten Maßnahmen
@@ -103,6 +112,7 @@ und in einem Finanzierungsplan ausgewiesen ist.
 
 
 ### § 7 Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001300325)
 
 (1) Leistungen im Sinne des § 1 dürfen von dem Träger einer
 Einrichtung nur bis zu einer Höhe von insgesamt 30 vom Hundert der im
@@ -143,6 +153,7 @@ verfolgt.
 
 
 ### § 8 Getrennte Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001400325)
 
 (1) Der Träger hat die ihm gewährten Leistungen im Sinne des § 1 bis
 zu ihrer bestimmungsmäßigen Verwendung getrennt von seinem Vermögen
@@ -171,6 +182,7 @@ Bewerber oder Bewohner entrichteten Zinsen.
 
 
 ### § 9 Leistungen zum Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001500325)
 
 Die Vorschriften des § 6 Abs. 2 sowie der §§ 7 und 8 gelten nicht für
 Leistungen im Sinne des § 1, die zum Betrieb der Einrichtung gewährt
@@ -178,6 +190,7 @@ werden.
 
 
 ### § 10 Verrechnung, Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001600325)
 
 (1) Sollen Leistungen im Sinne des § 1 einschließlich ihrer Zinsen mit
 dem Entgelt im Sinne des § 14 Abs. 1 Satz 1 des Gesetzes verrechnet
@@ -197,6 +210,7 @@ Leistung im Sinne des § 1 erbracht hat.
 
 
 ### § 11 Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001700325)
 
 (1) Der Träger einer Einrichtung hat bei Entgegennahme von Leistungen
 im Sinne des § 1 etwaige Ansprüche auf Rückzahlung nach § 14 Abs. 3
@@ -224,6 +238,7 @@ worden sind.
 
 
 ### § 12 Formen der Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001801310)
 
 (1) Die Sicherheit kann durch die Bestellung eines Grundpfandrechtes
 geleistet werden. Dabei darf eine Beleihungsgrenze von 60 vom Hundert
@@ -277,6 +292,7 @@ Versicherungsunternehmen sind nur solche geeignet, die
 
 
 ### § 13 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE001900325)
 
 (1) Einrichtungen, die mit Leistungen im Sinne des § 1 gebaut,
 erworben, instandgesetzt, ausgestattet oder betrieben werden, sind bei
@@ -294,6 +310,7 @@ genannten Form versichert ist.
 
 
 ### § 14 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002000325)
 
 Werden Leistungen im Sinne des § 1 mit dem Entgelt verrechnet, kann
 der Bewohner einmal jährlich von dem Träger Auskunft über seinen
@@ -302,6 +319,7 @@ Auskunft jederzeit zu erteilen.
 
 
 ### § 15 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002100325)
 
 (1) Der Träger hat bei Beendigung des Heimvertrages mit einem Bewohner
 diesem oder dessen Rechtsnachfolger Rechnung zu legen über
@@ -323,10 +341,12 @@ Beendigung des Heimvertrages voll zurückgezahlt werden.
 
 
 ## Dritter Teil - Prüfung der Einhaltung der Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNG000300325)
 
 
 
 ### § 16 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002200325)
 
 (1) Der Träger hat die Einhaltung der in den §§ 5 bis 15 genannten
 Pflichten für jedes Kalenderjahr, spätestens bis zum 30. September des
@@ -343,6 +363,7 @@ zur Durchführung einer ordnungsgemäßen Prüfung zu geben.
 
 
 ### § 17 Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002300325)
 
 Der Träger hat vom Zeitpunkt der Entgegennahme der Leistungen im Sinne
 des § 1 prüfungsfähige Aufzeichnungen zu machen sowie Unterlagen und
@@ -385,6 +406,7 @@ ersichtlich sein
 
 
 ### § 18 Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002400325)
 
 (1) Geeignete Prüfer im Sinne des § 16 Abs. 1 Satz 1 sind:
 
@@ -434,6 +456,7 @@ hieraus entstehenden Schaden zu ersetzen.
 
 
 ### § 19 Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002500325)
 
 (1) Das Ergebnis der Prüfung ist unverzüglich nach ihrer Durchführung
 in einem Prüfungsbericht festzuhalten. Dieser Bericht muß den Vermerk
@@ -455,10 +478,12 @@ Heimbeirates eingesehen werden.
 
 
 ## Vierter Teil - Ordnungswidrigkeiten und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNG000400325)
 
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002600325)
 
 Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Heimgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -499,6 +524,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 21 Übergangsvorschriften und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002700325)
 
 (1) Die Vorschriften der Verordnung finden keine Anwendung auf
 Leistungen im Sinne des § 1, die vor Inkrafttreten der Verordnung
@@ -513,18 +539,21 @@ Pflichten nach § 11 kann nur befristet erteilt werden.
 
 
 ### § 22 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002800325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE002900325)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 vierten Kalendermonats in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/heimsicherungsv/BJNR005530978.html#BJNR005530978BJNE003000325)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

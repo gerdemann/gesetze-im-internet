@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milov4/BJNR1410A0023.html#BJNR1410A0023BJNE000100000)
 
 Auf Grund des § 11 des Mindestlohngesetzes vom 11. August 2014 (BGBl.
 I S. 1348) verordnet die Bundesregierung:
 
 
 ## § 1 Höhe des Mindestlohns
+[Direktlink](https://www.gesetze-im-internet.de/milov4/BJNR1410A0023.html#BJNR1410A0023BJNE000200000)
 
 Der Mindestlohn beträgt
 
@@ -48,6 +50,7 @@ Der Mindestlohn beträgt
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milov4/BJNR1410A0023.html#BJNR1410A0023BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 

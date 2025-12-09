@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/johordennferl_1994/BJNR095400994.html#BJNR095400994BJNE000100308)
 
 Die Balley Brandenburg des Ritterlichen Ordens St. Johannis vom Spital
 zu Jerusalem, genannt der Johanniterorden, hat eine Neufassung ihrer

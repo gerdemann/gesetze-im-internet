@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000100319)
 
 
 
 ### § 1 Erfaßte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE001404308)
 
 (1) In Unternehmen, die
 
@@ -82,6 +84,7 @@ deren Rechtsform.
 
 
 ### § 2 Anteilseigner
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE001502308)
 
 Anteilseigner im Sinne dieses Gesetzes sind je nach der Rechtsform der
 in § 1 Abs. 1 Nr. 1 bezeichneten Unternehmen Aktionäre, Gesellschafter
@@ -89,6 +92,7 @@ oder Mitglieder einer Genossenschaft.
 
 
 ### § 3 Arbeitnehmer und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE001601308)
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind
 
@@ -111,6 +115,7 @@ Betriebsverfassungsgesetzes ist anzuwenden.
 
 
 ### § 4 Kommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE001700319)
 
 (1) Ist ein in § 1 Abs. 1 Nr. 1 bezeichnetes Unternehmen persönlich
 haftender Gesellschafter einer Kommanditgesellschaft und hat die
@@ -133,6 +138,7 @@ Kommanditgesellschaft nicht ausgeschlossen werden.
 
 
 ### § 5 Konzern
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE001800319)
 
 (1) Ist ein in § 1 Abs. 1 Nr. 1 bezeichnetes Unternehmen herrschendes
 Unternehmen eines Konzerns (§ 18 Abs. 1 des Aktiengesetzes), so gelten
@@ -165,14 +171,17 @@ Unternehmen.
 
 
 ## Zweiter Teil - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000200319)
 
 
 
 ### Erster Abschnitt - Bildung und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000300319)
 
 
 
 #### § 6 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE001902119)
 
 (1) Bei den in § 1 Abs. 1 bezeichneten Unternehmen ist ein
 Aufsichtsrat zu bilden, soweit sich dies nicht schon aus anderen
@@ -200,6 +209,7 @@ Genossenschaftsgesetzes nicht anzuwenden.
 
 
 #### § 7 Zusammensetzung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002004126)
 
 (1) Der Aufsichtsrat eines Unternehmens
 
@@ -271,14 +281,17 @@ Aufsichtsratsmitgliedern des Unternehmens teilnehmen.
 
 
 ### Zweiter Abschnitt - Bestellung der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000400319)
 
 
 
 #### Erster Unterabschnitt - Aufsichtsratsmitglieder der Anteilseigner
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000500319)
 
 
 
 ##### § 8
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002101308)
 
 (1) Die Aufsichtsratsmitglieder der Anteilseigner werden durch das
 nach Gesetz, Satzung oder Gesellschaftsvertrag zur Wahl von
@@ -290,10 +303,12 @@ Satzung oder des Gesellschaftsvertrags bestellt.
 
 
 #### Zweiter Unterabschnitt - Aufsichtsratsmitglieder der Arbeitnehmer, Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000600319)
 
 
 
 ##### § 9
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002201305)
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer (§ 7 Abs. 2) eines
 Unternehmens mit in der Regel mehr als 8.000 Arbeitnehmern werden
@@ -315,10 +330,12 @@ abgegebenen Stimmen gefaßt werden.
 
 
 #### Dritter Unterabschnitt - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000701305)
 
 
 
 ##### § 10 Wahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002302308)
 
 (1) In jedem Betrieb des Unternehmens wählen die Arbeitnehmer in
 geheimer Wahl und nach den Grundsätzen der Verhältniswahl Delegierte.
@@ -337,6 +354,7 @@ gewählt. § 11 Abs. 2 ist anzuwenden.
 
 
 ##### § 11 Errechnung der Zahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002403308)
 
 (1) In jedem Betrieb entfällt auf je 90 wahlberechtigte Arbeitnehmer
 ein Delegierter. Ergibt die Errechnung nach Satz 1 in einem Betrieb
@@ -412,6 +430,7 @@ Nr. 2 erhalten.
 
 
 ##### § 12 Wahlvorschläge für Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002503308)
 
 (1) Zur Wahl der Delegierten können die wahlberechtigten Arbeitnehmer
 des Betriebs Wahlvorschläge machen. Jeder Wahlvorschlag muss von einem
@@ -424,6 +443,7 @@ enthalten, wie in dem Wahlgang Delegierte zu wählen sind.
 
 
 ##### § 13 Amtszeit der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002601305)
 
 (1) Die Delegierten werden für eine Zeit gewählt, die der Amtszeit der
 von ihnen zu wählenden Aufsichtsratsmitglieder entspricht. Sie nehmen
@@ -459,6 +479,7 @@ gesunken ist.
 
 
 ##### § 14 Vorzeitige Beendigung der Amtszeit oder Verhinderung von Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002701305)
 
 (1) Die Amtszeit eines Delegierten endet vor dem in § 13 bezeichneten
 Zeitpunkt
@@ -483,6 +504,7 @@ ersetzenden Delegierten angehören.
 
 
 ##### § 15 Wahl der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002804308)
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 7
 Abs. 2 Arbeitnehmer des Unternehmens sein müssen, geheim und nach den
@@ -521,6 +543,7 @@ Angestellten entfallen.
 
 
 ##### § 16 Wahl der Vertreter von Gewerkschaften in den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE002903119)
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 7
 Abs. 2 Vertreter von Gewerkschaften sind, in geheimer Wahl und nach
@@ -538,6 +561,7 @@ Aufsichtsrat zu wählen sind.
 
 
 ##### § 17 Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003002119)
 
 (1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen
 ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Für einen
@@ -558,10 +582,12 @@ Arbeitnehmer nicht mehr den Vorgaben des § 7 Absatz 3 entspricht; §
 
 
 #### Vierter Unterabschnitt - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG005500319)
 
 
 
 ##### § 18
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003102308)
 
 Sind nach § 9 die Aufsichtsratsmitglieder der Arbeitnehmer in
 unmittelbarer Wahl zu wählen, so sind die Arbeitnehmer des
@@ -573,10 +599,12 @@ Unternehmens treten.
 
 
 #### Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG005600119)
 
 
 
 ##### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE005500119)
 
 (1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die
 Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die
@@ -623,10 +651,12 @@ nach § 104 des Aktiengesetzes oder der Nachwahl besetzt.
 
 
 #### Sechster Unterabschnitt - Weitere Vorschriften über das Wahlverfahren sowie über die Bestellung und Abberufung von Aufsichtsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000801119)
 
 
 
 ##### § 19 Bekanntmachung der Mitglieder des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003203140)
 
 Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die
 Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats
@@ -639,6 +669,7 @@ Bekanntmachung in seinen Betrieben verpflichtet.
 
 
 ##### § 20 Wahlschutz und Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003300319)
 
 (1) Niemand darf die Wahlen nach den §§ 10, 15, 16 und 18 behindern.
 Insbesondere darf niemand in der Ausübung des aktiven und passiven
@@ -655,6 +686,7 @@ Minderung des Arbeitsentgelts.
 
 
 ##### § 21 Anfechtung der Wahl von Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003402308)
 
 (1) Die Wahl der Delegierten eines Betriebs kann beim Arbeitsgericht
 angefochten werden, wenn gegen wesentliche Vorschriften über das
@@ -682,6 +714,7 @@ Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
 
 
 ##### § 22 Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003503140)
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds
 der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn
@@ -733,6 +766,7 @@ Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
 
 ##### § 23 Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003602308)
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der
 Amtszeit auf Antrag abberufen werden. Antragsberechtigt sind für die
@@ -769,6 +803,7 @@ entsprechend anzuwenden.
 
 
 ##### § 24 Verlust der Wählbarkeit und Änderung der Zuordnung unternehmensangehöriger Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003701308)
 
 (1) Verliert ein Aufsichtsratsmitglied, das nach § 7 Abs. 2
 Arbeitnehmer des Unternehmens sein muß, die Wählbarkeit, so erlischt
@@ -780,10 +815,12 @@ nicht zum Erlöschen seines Amtes.
 
 
 ### Dritter Abschnitt - Innere Ordnung, Rechte und Pflichten des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG000900319)
 
 
 
 #### § 25 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003804308)
 
 (1) Die innere Ordnung, die Beschlußfassung sowie die Rechte und
 Pflichten des Aufsichtsrats bestimmen sich nach den §§ 27 bis 29, den
@@ -818,6 +855,7 @@ nicht entgegensteht.
 
 
 #### § 26 Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE003900319)
 
 Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer
 Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer
@@ -827,6 +865,7 @@ benachteiligt werden. Dies gilt auch für ihre berufliche Entwicklung.
 
 
 #### § 27 Vorsitz im Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004000319)
 
 (1) Der Aufsichtsrat wählt mit einer Mehrheit von zwei Dritteln der
 Mitglieder, aus denen er insgesamt zu bestehen hat, aus seiner Mitte
@@ -851,6 +890,7 @@ abgegebenen Stimmen gewähltes Mitglied angehören.
 
 
 #### § 28 Beschlußfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004100319)
 
 Der Aufsichtsrat ist nur beschlußfähig, wenn mindestens die Hälfte der
 Mitglieder, aus denen er insgesamt zu bestehen hat, an der
@@ -859,6 +899,7 @@ anzuwenden.
 
 
 #### § 29 Abstimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004200319)
 
 (1) Beschlüsse des Aufsichtsrats bedürfen der Mehrheit der abgegebenen
 Stimmen, soweit nicht in Absatz 2 und in den §§ 27, 31 und 32 etwas
@@ -873,10 +914,12 @@ zu.
 
 
 ## Dritter Teil - Gesetzliches Vertretungsorgan
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG001000319)
 
 
 
 ### § 30 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004300319)
 
 Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen
 Vertretung des Unternehmens befugten Organs sowie die Bestellung
@@ -886,6 +929,7 @@ nichts anderes ergibt.
 
 
 ### § 31 Bestellung und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004400319)
 
 (1) Die Bestellung der Mitglieder des zur gesetzlichen Vertretung des
 Unternehmens befugten Organs und der Widerruf der Bestellung bestimmen
@@ -918,6 +962,7 @@ Organs entsprechend anzuwenden.
 
 
 ### § 32 Ausübung von Beteiligungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004501308)
 
 (1) Die einem Unternehmen, in dem die Arbeitnehmer nach diesem Gesetz
 ein Mitbestimmungsrecht haben, auf Grund von Beteiligungen an einem
@@ -941,6 +986,7 @@ beträgt.
 
 
 ### § 33 Arbeitsdirektor
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004601308)
 
 (1) Als gleichberechtigtes Mitglied des zur gesetzlichen Vertretung
 des Unternehmens befugten Organs wird ein Arbeitsdirektor bestellt.
@@ -956,10 +1002,12 @@ Genossenschaftsgesetzes nicht anzuwenden.
 
 
 ## Vierter Teil - Seeschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG001100319)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004703308)
 
 (1) Die Gesamtheit der Schiffe eines Unternehmens gilt für die
 Anwendung dieses Gesetzes als ein Betrieb.
@@ -990,15 +1038,18 @@ anzuwenden.
 
 
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNG001200319)
 
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004801308)
 
 -
 
 
 ### § 36 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE004901308)
 
 (1) Soweit in anderen Vorschriften auf Vorschriften des
 Betriebsverfassungsgesetzes 1952 über die Vertretung der Arbeitnehmer
@@ -1016,6 +1067,7 @@ Mitbestimmungsgesetz".
 
 
 ### § 37 Erstmalige Anwendung des Gesetzes auf ein Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE005002308)
 
 (1) Andere als die in § 97 Abs. 2 Satz 2 des Aktiengesetzes
 bezeichneten Bestimmungen der Satzung (des Gesellschaftsvertrags), die
@@ -1054,11 +1106,13 @@ Kommanditgesellschaft auf Aktien.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE005101308)
 
 (weggefallen)
 
 
 ### § 39 Ermächtigung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE005203119)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Vorschriften über das Verfahren für die Wahl und die Abberufung von
@@ -1113,6 +1167,7 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 
 ### § 40 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE005304126)
 
 (1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
 einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in
@@ -1125,6 +1180,7 @@ des Unternehmens befugte Organ erfolgt ist.
 
 
 ### § 41 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mitbestg/BJNR011530976.html#BJNR011530976BJNE005400319)
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000100000)
 
 Auf Grund des § 80 Satz 1 Nummer 3a in Verbindung mit Satz 3 und 4 und
 in Verbindung mit § 83 des Arzneimittelgesetzes, von denen § 83
@@ -30,6 +31,7 @@ für Gesundheit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000201116)
 
 (1) Diese Verordnung regelt das Verfahren für das Inverkehrbringen von
 Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
@@ -56,6 +58,7 @@ Verantwortung einer Ärztin oder eines Arztes.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000300000)
 
 (1) Ein Härtefallprogramm ist ein „compassionate-use“-Programm nach
 der Verordnung (EG) Nr. 726/2004. Im Rahmen eines Härtefallprogramms
@@ -77,6 +80,7 @@ Arzneimittelgesetzes genehmigt oder zugelassen ist.
 
 
 ## § 3 Anzeige des Härtefallprogramms
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000400000)
 
 (1) Eine Person, die die Verantwortung für die Veranlassung, die
 Organisation und Finanzierung eines Härtefallprogramms übernimmt
@@ -220,6 +224,7 @@ Einreichung der Angaben und Unterlagen auf ihrer Website.
 
 
 ## § 4 Beginn des Härtefallprogramms, Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000500000)
 
 (1) Die zuständige Bundesoberbehörde bestätigt der verantwortlichen
 Person innerhalb von zwei Wochen den Eingang der ordnungsgemäßen
@@ -273,6 +278,7 @@ Genehmigung begonnen werden.
 
 
 ## § 5 Dauer des Härtefallprogramms, erneute Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000600000)
 
 (1) Das Härtefallprogramm endet unbeschadet von § 4 Absatz 3 mit dem
 Abbruch durch die verantwortliche Person oder mit der tatsächlichen
@@ -286,6 +292,7 @@ vorgelegte Unterlagen Bezug genommen werden, soweit sich keine
 
 
 ## § 6 Mitteilungspflichten der verantwortlichen Person
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000700000)
 
 (1) Die verantwortliche Person nach § 3 Absatz 1 hat
 
@@ -333,6 +340,7 @@ Maßnahmen unverzüglich zu ergreifen.
 
 
 ## § 7 Verantwortungsbereich der verantwortlichen Person
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000800000)
 
 Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
 
@@ -392,6 +400,7 @@ Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
 
 
 ## § 8 Informationspflichten der zuständigen Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE000900000)
 
 (1) Bei Arzneimitteln, die aus einem gentechnisch veränderten
 Organismus oder aus einer Kombination von gentechnisch veränderten
@@ -412,6 +421,7 @@ Informationen über ihr angezeigte Härtefallprogramme zur Verfügung.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE001000000)
 
 Härtefallprogramme, die bei Inkrafttreten der Verordnung durchgeführt
 werden, können unabhängig von den Vorgaben dieser Verordnung
@@ -419,6 +429,7 @@ weitergeführt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amhv/BJNR093500010.html#BJNR093500010BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

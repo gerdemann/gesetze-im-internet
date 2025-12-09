@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arznrav_1993-11/BJNR198200993.html#BJNR198200993BJNE000100307)
 
 Auf Grund des § 311a Abs. 4 des Fünften Buches Sozialgesetzbuch, der
 durch Artikel 1 Nr. 1 des Ersten Gesetzes zur Änderung des Fünften
@@ -29,6 +30,7 @@ Bundesministerium für Gesundheit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/arznrav_1993-11/BJNR198200993.html#BJNR198200993BJNE000200307)
 
 Die Rechnungsabschläge nach § 311a Abs. 1 und 2 des Fünften Buches
 Sozialgesetzbuch werden für Arzneimittel, die vom 1. November 1993 bis
@@ -37,6 +39,7 @@ werden, ausgesetzt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/arznrav_1993-11/BJNR198200993.html#BJNR198200993BJNE000300307)
 
 Diese Verordnung tritt mit Wirkung vom 1. November 1993 in Kraft.
 

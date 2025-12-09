@@ -20,22 +20,26 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000100325)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000200325)
 
 -
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000300325)
 
 -
 
 
 ## Art III Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000400325)
 
 
 1.  (1) Steht einem Berechtigten auf Grund der Änderungen in Artikel I Nr.
@@ -209,6 +213,7 @@ beschlossen:
 
 
 ## Art IV Angleichung
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000500325)
 
 
 1.  (1) Ist vor Verkündung dieses Gesetzes nach dem Bundesergänzungsgesetz
@@ -284,6 +289,7 @@ beschlossen:
 
 
 ## Art V Sonderregelung für überregionale Verfolgtengruppen
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000600325)
 
 
 1.  (1) Der Verfolgte, dem die Freiheit auf die Dauer von mindestens sechs
@@ -461,6 +467,7 @@ beschlossen:
 
 
 ## Art VI Sonderregelung für Nationalgeschädigte
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000700325)
 
 
 1.  (1) Personen, die unter der nationalsozialistischen Gewaltherrschaft
@@ -614,6 +621,7 @@ beschlossen:
 
 
 ## Art VII Kostentragung bei Erledigung eines Rechtsstreits
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000800325)
 
 Soweit sich ein Rechtsstreit auf Grund dieses Gesetzes erledigt,
 werden Gerichtskosten nicht erhoben. Jede Partei trägt ihre
@@ -621,6 +629,7 @@ außergerichtlichen Auslagen.
 
 
 ## Art VIII Abschluß der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE000900325)
 
 (1) Nach dem 31. Dezember 1969 können Ansprüche nach dem
 Bundesentschädigungsgesetz und nach diesem Gesetz nicht mehr
@@ -638,6 +647,7 @@ Gesetzes.
 
 
 ## Art IX Wiedergutmachung in der Strafrechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE001000325)
 
 (1) Die Rechtsvorschriften zur Wiedergutmachung
 nationalsozialistischen Unrechts in der Strafrechtspflege, die eine
@@ -664,11 +674,13 @@ zurückgewiesen worden ist.
 
 
 ## Art X
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE001100325)
 
 -
 
 
 ## Art XI Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE001200325)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 2. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -679,6 +691,7 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Art XII Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE001300325)
 
 Es treten in Kraft
 
@@ -761,6 +774,7 @@ Es treten in Kraft
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/begschlg/BJNR013150965.html#BJNR013150965BJNE001400325)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.

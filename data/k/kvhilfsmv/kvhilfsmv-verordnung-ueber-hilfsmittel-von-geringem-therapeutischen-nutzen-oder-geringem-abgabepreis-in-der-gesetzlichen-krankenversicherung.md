@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kvhilfsmv/BJNR022370989.html#BJNR022370989BJNE000100328)
 
 Auf Grund des § 34 Abs. 4 des Fünften Buches Sozialgesetzbuch (Artikel
 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477) wird verordnet:
 
 
 ## § 1 Sächliche Mittel mit geringem oder umstrittenem therapeutischen Nutzen
+[Direktlink](https://www.gesetze-im-internet.de/kvhilfsmv/BJNR022370989.html#BJNR022370989BJNE000200328)
 
 Von der Versorgung sind ausgeschlossen:
 
@@ -64,6 +66,7 @@ Von der Versorgung sind ausgeschlossen:
 
 
 ## § 2 Sächliche Mittel mit geringem Abgabepreis
+[Direktlink](https://www.gesetze-im-internet.de/kvhilfsmv/BJNR022370989.html#BJNR022370989BJNE000301308)
 
 Von der Versorgung sind ausgeschlossen:
 
@@ -134,6 +137,7 @@ Von der Versorgung sind ausgeschlossen:
 
 
 ## § 3 Instandsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kvhilfsmv/BJNR022370989.html#BJNR022370989BJNE000400328)
 
 Von der Versorgung sind ausgeschlossen:
 Instandsetzungen von Brillengestellen für Versicherte, die das 18.
@@ -142,11 +146,13 @@ vorhandenen Fassung.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kvhilfsmv/BJNR022370989.html#BJNR022370989BJNE000601308)
 
 Diese Verordnung tritt am 1. Januar 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kvhilfsmv/BJNR022370989.html#BJNR022370989BJNE000700328)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Arbeit und Sozialordnung

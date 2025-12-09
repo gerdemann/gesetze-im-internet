@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-250 v. 13.2.1998 I 364 (KochAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -36,9 +37,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Kochs und der
 Köchin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
@@ -46,11 +49,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000500000)
 
 (1) Ein HACCP-Konzept im Sinne dieser Verordnung ist ein
 systematisches, nach übergeordneten Grundsätzen auf Betriebsebene
@@ -72,6 +77,7 @@ vertieftes Fachwissen.
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse
@@ -93,6 +99,7 @@ Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -196,6 +203,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans (Anlage 1) für jeden
@@ -204,9 +212,11 @@ erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNG000200000)
 
 
 ### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE000900000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -222,6 +232,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 8 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -238,6 +249,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001100000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Zubereiten
 von einfachen Speisen und Gerichten“ statt.
@@ -355,6 +367,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 10 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -376,6 +389,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001300000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -396,6 +410,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich „Planen, Zubereiten und Präsentieren eines Drei-Gänge-Menüs“
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001400000)
 
 (1) Im Prüfungsbereich „Planen, Zubereiten und Präsentieren eines
 Drei-Gänge-Menüs“ hat der Prüfling nachzuweisen, dass er in der Lage
@@ -497,6 +512,7 @@ erbrachten Leistungen und die Arbeitsaufgabe.
 
 
 ### § 13 Prüfungsbereich „Produkte, Lagerhaltung und Warenwirtschaft“
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001500000)
 
 (1) Im Prüfungsbereich „Produkte, Lagerhaltung und Warenwirtschaft“
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -545,6 +561,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 14 Prüfungsbereich „Technologie, Gästeinformation und Arbeiten im Team“
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001600000)
 
 (1) Im Prüfungsbereich „Technologie, Gästeinformation und Arbeiten im
 Team“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -598,6 +615,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -611,6 +629,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -678,6 +697,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -718,9 +738,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Zusatzqualifikation Vertiefung für vegetarische und vegane Küche
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNG000300000)
 
 
 ### § 18 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002000000)
 
 (1) Über das in § 5 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Vertiefung für vegetarische und
@@ -731,6 +753,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 19 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002100000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -769,9 +792,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 4 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNG000400000)
 
 
 ### § 20 Befreiung von Teil 1 der Abschlussprüfung und Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002200000)
 
 Bei erfolgreich abgeschlossener Berufsausbildung nach § 16 Absatz 2
 der Fachkraft-Küche-Ausbildungsverordnung vom 9. März 2022 (BGBl. I S.
@@ -789,6 +814,7 @@ der Fachkraft-Küche-Ausbildungsverordnung vom 9. März 2022 (BGBl. I S.
 
 
 ### § 21 Erwerb des Abschlusses zur Fachkraft Küche nach nicht bestandener Abschlussprüfung zum Koch und zur Köchin
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002300000)
 
 Besteht der Prüfling die Prüfung nach § 16 nicht, erwirbt er auf
 seinen Antrag den Abschluss zur Fachkraft Küche nach der Fachkraft-
@@ -820,9 +846,11 @@ vom 9. März 2022 (BGBl. I S. 389) erfüllen.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNG000500000)
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002400000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Koch/zur Köchin vom 13.
@@ -831,6 +859,7 @@ Februar 1998 (BGBl. I S. 364) außer Kraft.
 (zu § 4 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Koch und zur Köchin
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002500000)
 
 (Fundstelle: BGBl. I 2022, 404 - 411)
 
@@ -1896,6 +1925,7 @@ und Fähigkeiten**
    (zu § 18 Absatz 2)
 
 ### Anlage 2 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Vertiefung für vegetarische und vegane Küche
+[Direktlink](https://www.gesetze-im-internet.de/kochausbv_2022/BJNR039800022.html#BJNR039800022BJNE002600000)
 
 (Fundstelle: BGBl. I 2022, 412)
 

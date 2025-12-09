@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNG000100000)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000100000)
 
 Zweck des Gesetzes ist es, Zugangskontrolldienste gegen unerlaubte
 Eingriffe zu schützen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000202360)
 
 Im Sinne dieses Gesetzes bezeichnet der Ausdruck
 
@@ -68,10 +71,12 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck
 
 
 ## Abschnitt 2 - Schutz der Zugangskontrolldienste
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNG000200000)
 
 
 
 ### § 3 Verbot von gewerbsmäßigen Eingriffen zur Umgehung von Zugangskontrolldiensten
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000300000)
 
 Verboten sind
 
@@ -90,10 +95,12 @@ Verboten sind
 
 
 ## Abschnitt 3 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNG000300000)
 
 
 
 ### § 4 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000400000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 3 Nr. 1 eine Umgehungsvorrichtung herstellt,
@@ -101,6 +108,7 @@ einführt oder verbreitet.
 
 
 ### § 5 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000500000)
 
 (1) Ordnungswidrig handelt, wer entgegen § 3 Nr. 2 eine
 Umgehungsvorrichtung besitzt, technisch einrichtet, wartet oder
@@ -111,16 +119,19 @@ fünfzigtausend Euro geahndet werden.
 
 
 ### § 6 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000600000)
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können
 eingezogen werden.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNG000400000)
 
 
 
 ### § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zkdsg/BJNR109000002.html#BJNR109000002BJNE000700000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

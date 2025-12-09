@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_52/BJNR131900996.html#BJNR131900996BJNE000100000)
 
 Auf Grund
 
@@ -49,6 +50,7 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_52/BJNR131900996.html#BJNR131900996BJNE000201307)
 
 Abweichend von § 47 Abs. 3 Nr. 4 der Straßenverkehrs-Zulassungs-
 Ordnung gelten Kraftfahrzeuge auch dann als schadstoffarm im Sinne der
@@ -121,6 +123,7 @@ Dies gilt nur, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_52/BJNR131900996.html#BJNR131900996BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

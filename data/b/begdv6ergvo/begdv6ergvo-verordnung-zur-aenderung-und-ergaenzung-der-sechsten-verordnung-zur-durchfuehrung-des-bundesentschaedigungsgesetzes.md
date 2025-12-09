@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv6ergvo/BJNR000650970.html#BJNR000650970BJNE000100325)
 
 Auf Grund des § 42 des Bundesentschädigungsgesetzes in der Fassung des
 Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559, 562), zuletzt
@@ -27,11 +28,13 @@ geändert durch das Gesetz vom 25. Juni 1969 (Bundesgesetzblatt I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/begdv6ergvo/BJNR000650970.html#BJNR000650970BJNE000200325)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/begdv6ergvo/BJNR000650970.html#BJNR000650970BJNE000300325)
 
 (1) Soweit vor Verkündung dieser Verordnung ein nach § 31 Abs. 2 BEG
 geltend gemachter Anspruch durch unanfechtbaren Bescheid oder
@@ -62,6 +65,7 @@ zugunsten der Berechtigten sein Bewenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/begdv6ergvo/BJNR000650970.html#BJNR000650970BJNE000400325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240 BEG
@@ -69,6 +73,7 @@ auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/begdv6ergvo/BJNR000650970.html#BJNR000650970BJNE000500325)
 
 Diese Verordnung tritt mit Wirkung vom 18. September 1965 in Kraft.
 

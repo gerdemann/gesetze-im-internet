@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nemv/BJNR101110004.html#BJNR101110004BJNE000100000)
 
 (1) Nahrungsergänzungsmittel im Sinne dieser Verordnung ist ein
 Lebensmittel, das
@@ -46,6 +47,7 @@ Mineralstoffe, einschließlich Spurenelemente.
 
 
 ## § 2 Abgabe in Verpackungen
+[Direktlink](https://www.gesetze-im-internet.de/nemv/BJNR101110004.html#BJNR101110004BJNE000201116)
 
 Ein Nahrungsergänzungsmittel, das zur Abgabe an den Verbraucher
 bestimmt ist, darf gewerbsmäßig nur als vorverpacktes Lebensmittel im
@@ -64,6 +66,7 @@ des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie
 
 
 ## § 3 Zugelassene Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/nemv/BJNR101110004.html#BJNR101110004BJNE000302116)
 
 (1) Bei der Herstellung eines Nahrungsergänzungsmittels dürfen nur die
 in Anhang I der Richtlinie 2002/46/EG des Europäischen Parlaments und
@@ -91,6 +94,7 @@ erreichbaren Reinheitsanforderungen entsprechen.
 
 
 ## § 4 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/nemv/BJNR101110004.html#BJNR101110004BJNE000402116)
 
 (1) Für ein Nahrungsergänzungsmittel ist die Bezeichnung
 "Nahrungsergänzungsmittel" Bezeichnung des Lebensmittels nach der
@@ -163,6 +167,7 @@ Durchführungsverordnung entsprechend.
 
 
 ## § 5 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/nemv/BJNR101110004.html#BJNR101110004BJNE000504116)
 
 (1) Wer ein Nahrungsergänzungsmittel als Hersteller oder Einführer in
 den Verkehr bringen will, hat dies spätestens beim ersten
@@ -184,6 +189,7 @@ zuständigen obersten Landesbehörden.
 
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nemv/BJNR101110004.html#BJNR101110004BJNE000602116)
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder

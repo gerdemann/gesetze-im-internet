@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000102360)
 
 (1) Dieses Gesetz gilt für die Errichtung, den Betrieb und die
 Änderung von Anlagen
@@ -69,6 +70,7 @@ Sinn des Satzes 1 Nummer 3.
 
 
 ## § 2 Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000202360)
 
 (1) Die Errichtung und der Betrieb von Anlagen im Sinn des § 1 Absatz
 2 Satz 1 Nummer 1 bis 3 sowie die wesentliche Änderung solcher Anlagen
@@ -95,6 +97,7 @@ Gründen des öffentlichen Interesses geboten ist.
 
 
 ## § 3 Bearbeitungsreihenfolge
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000301124)
 
 (1) Die Bearbeitung der Planfeststellungs- oder Genehmigungsanträge
 erfolgt in der Reihenfolge ihres Eingangs. Maßgeblich ist der Eingang
@@ -128,6 +131,7 @@ zumindest beinhaltet:
 
 
 ## § 4 Planfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000401124)
 
 (1) Der Plan umfasst zusätzlich zu den Zeichnungen und Erläuterungen
 nach § 73 Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes
@@ -172,6 +176,7 @@ Antrag ablehnen.
 
 
 ## § 5 Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000502360)
 
 (1) § 74 Absatz 6 und 7 des Verwaltungsverfahrensgesetzes ist nur
 anzuwenden, wenn zusätzlich zu den dort genannten Voraussetzungen für
@@ -258,6 +263,7 @@ das Landschaftsbild landschaftsgerecht neu gestaltet ist.
 
 
 ## § 6 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000601124)
 
 (1) Die Errichtung, der Betrieb oder die wesentliche Änderung von
 Anlagen im Sinn des § 1 Absatz 2 Satz 1 Nummer 4 bedarf der
@@ -310,6 +316,7 @@ genaue Standort der Anlage anzugeben.
 
 
 ## § 7 Versagen der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000701124)
 
 Die Genehmigung darf nur versagt werden, wenn
 
@@ -327,6 +334,7 @@ Die Genehmigung darf nur versagt werden, wenn
 
 
 ## § 8 Einvernehmensregelung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000801360)
 
 Die Feststellung des Plans, die Plangenehmigung oder die Genehmigung
 bedürfen des Einvernehmens der Wasserstraßen- und
@@ -337,6 +345,7 @@ verhütet oder ausgeglichen werden kann.
 
 
 ## § 9 Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE000902360)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der
 ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland
@@ -375,6 +384,7 @@ bekannt zu machen.
 
 
 ## § 10 Sicherheitszonen
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001000000)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der
 ausschließlichen Wirtschaftszone Sicherheitszonen um die Anlagen
@@ -393,6 +403,7 @@ empfiehlt.
 
 
 ## § 11 Bekanntmachung der Anlagen und ihrer Sicherheitszonen
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001100000)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die Anlagen
 sowie die von ihm nach § 10 eingerichteten Sicherheitszonen in den
@@ -402,6 +413,7 @@ bekannt und trägt sie in die amtlichen Seekarten ein.
 
 
 ## § 12 Pflichten der verantwortlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001200000)
 
 Die im Sinn von § 13 verantwortlichen Personen haben sicherzustellen,
 dass von der Anlage während der Errichtung, des Betriebs und nach
@@ -434,6 +446,7 @@ melden.
 
 
 ## § 13 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001300000)
 
 (1) Die verantwortlichen Personen für die Erfüllung der Pflichten, die
 sich aus diesem Gesetz oder aus Verwaltungsakten zu Errichtung,
@@ -488,6 +501,7 @@ wenn der Betrieb der Anlage auf eine andere Person übertragen wird.
 
 
 ## § 14 Überwachung der Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001401360)
 
 (1) Die Anlagen, ihre Errichtung und ihr Betrieb unterliegen der
 Überwachung durch das Bundesamt für Seeschifffahrt und Hydrographie.
@@ -549,6 +563,7 @@ anzuwenden.
 
 
 ## § 15 Beseitigung der Anlagen, Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001501124)
 
 (1) Wenn der Planfeststellungsbeschluss, die Plangenehmigung oder die
 Genehmigung unwirksam werden, sind die Anlagen in dem Umfang zu
@@ -574,6 +589,7 @@ Hydrographie deren Geeignetheit festgestellt hat.
 
 
 ## § 16 Verwaltungsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001600000)
 
 Für die Durchsetzung der im Planfeststellungsbeschluss oder in der
 Plangenehmigung nach § 5 getroffenen Regelungen sind die Bestimmungen
@@ -583,6 +599,7 @@ angeordnet werden kann.
 
 
 ## § 17 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001700000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -606,6 +623,7 @@ Hydrographie.
 
 
 ## § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001800000)
 
 (1) Auf Anlagen im Sinn des § 1 Absatz 2, die nach den Vorschriften
 der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57), die
@@ -637,6 +655,7 @@ Vorschriften weiter anzuwenden.
 (zu § 15 Absatz 3)
 
 ## Anlage Anforderungen an Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/seeanlg/BJNR234800016.html#BJNR234800016BJNE001900000)
 
 (Fundstelle: BGBl. I 2016,2353)
 

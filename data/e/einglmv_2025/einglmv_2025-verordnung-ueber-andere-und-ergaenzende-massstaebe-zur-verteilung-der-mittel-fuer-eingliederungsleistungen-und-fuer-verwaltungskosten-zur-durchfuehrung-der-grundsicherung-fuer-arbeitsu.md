@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000100000)
 
 Auf Grund des § 46 Absatz 2 Satz 3 des Zweiten Buches Sozialgesetzbuch
 – Bürgergeld, Grundsicherung für Arbeitsuchende – in der Fassung der
@@ -34,6 +35,7 @@ Finanzen:
 
 
 ## § 1 Verteilungsmaßstäbe für die Mittel für Eingliederungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000200000)
 
 (1) Die Verteilung der im Bundeshaushalt 2025 in Kapitel 1101
 Titelgruppe 01 Titel 685 11 veranschlagten Mittel für
@@ -130,6 +132,7 @@ Anlagen 3 und 4 genannten Prozentsätzen.
 
 
 ## § 2 Verteilungsmaßstäbe für die Mittel für Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000300000)
 
 (1) Die Verteilung der im Bundeshaushalt 2025 in Kapitel 1101
 Titelgruppe 01 Titel 636 13 für Verwaltungskosten für die Durchführung
@@ -216,6 +219,7 @@ Einrichtungen verteilt werden.
 
 
 ## § 3 Neuberechnung der Anteile der Mittel nach Veränderung der Zuständigkeit von Jobcentern
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000400000)
 
 Verändert sich die Zuständigkeit von Jobcentern für die Durchführung
 der Grundsicherung für Arbeitsuchende im Verlauf des Jahres 2025, so
@@ -226,6 +230,7 @@ Absatz 3 bis 5 und nach § 2 Absatz 5 und 6 zu berücksichtigen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Sie tritt mit
 Ablauf des 31. Dezember 2025 außer Kraft.
@@ -233,6 +238,7 @@ Ablauf des 31. Dezember 2025 außer Kraft.
 (zu § 1 Absatz 4 Satz 5)
 
 ## Anlage 1 Verteilung der Mittel für Eingliederungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 420, S. 4 - 13)
 
@@ -3900,6 +3906,7 @@ zkT zugelassener kommunaler Träger
 (zu § 1 Absatz 5 Satz 6)
 
 ## Anlage 2 Verteilung der Mittel für Eingliederungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000700000)
 
 (Fundstelle: BGBl. 2024 I Nr. 420, S. 14 - 23)
 
@@ -7567,6 +7574,7 @@ zkT zugelassener kommunaler Träger
 (zu § 1 Absatz 7 Satz 4)
 
 ## Anlage 3 Verteilung des Aufwendungsersatzes für Teilnehmenden an Förderungen der beruflichen Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 420, S. 24 - 34)
 
@@ -11238,6 +11246,7 @@ zkT zugelassener kommunaler Träger
 (zu § 1 Absatz 7 Satz 4)
 
 ## Anlage 4 Verteilung des Aufwendungsersatzes für Teilnehmenden an Förderungen der beruflichen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE000901311)
 
 (Fundstelle: BGBl. 2025 I Nr. 184, S. 1 - 12)
 
@@ -14873,6 +14882,7 @@ zkT zugelassener kommunaler Träger
 (zu § 2 Absatz 5 Satz 4)
 
 ## Anlage 5 Verteilung der Mittel für Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE001000000)
 
 (Fundstelle: BGBl. 2024 I Nr. 420, S. 44 - 53)
 
@@ -18540,6 +18550,7 @@ zkT zugelassener kommunaler Träger
 (zu § 2 Absatz 6 Satz 4)
 
 ## Anlage 6 Verteilung der auf die Bundesagentur für Arbeit entfallenden Mittel für Verwaltungskosten nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit für die gemeinsamen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/einglmv_2025/BJNR1A40A0024.html#BJNR1A40A0024BJNE001100000)
 
 (Fundstelle: BGBl. 2024 I Nr. 420, S. 54 - 61)
 

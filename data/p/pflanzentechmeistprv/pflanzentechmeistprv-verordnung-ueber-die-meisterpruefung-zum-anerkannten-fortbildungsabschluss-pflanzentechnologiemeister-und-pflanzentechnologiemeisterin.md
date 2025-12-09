@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000100000)
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436
@@ -29,9 +30,11 @@ Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000100000)
 
 
 ### § 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss
 Pflanzentechnologiemeister und Pflanzentechnologiemeisterin soll die
@@ -178,6 +181,7 @@ Pflanzentechnologiemeisterin.
 
 
 ### § 2 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000400000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -209,6 +213,7 @@ rechtfertigt.
 
 
 ### § 3 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000500000)
 
 Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
@@ -226,9 +231,11 @@ Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
 
 ## Abschnitt 2 - Prüfungsteil Pflanzenkultur, Verfahrenstechnik, Untersuchungstechnik und Dienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000200000)
 
 
 ### § 4 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000600000)
 
 (1) Im Prüfungsteil Pflanzenkultur, Verfahrenstechnik,
 Untersuchungstechnik und Dienstleistung soll der Prüfling nachweisen,
@@ -290,6 +297,7 @@ Gesundheitsschutzes als Führungskraft durchführen kann.
 
 
 ### § 5 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000700000)
 
 Die Prüfung besteht aus
 
@@ -303,6 +311,7 @@ Die Prüfung besteht aus
 
 
 ### § 6 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000800000)
 
 (1) Mit der Durchführung des Arbeitsprojekts soll der Prüfling
 nachweisen, dass er in der Lage ist, ausgehend von konkreten
@@ -336,6 +345,7 @@ länger als 90 Minuten dauern.
 
 
 ### § 7 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE000900000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -346,9 +356,11 @@ Minuten.
 
 
 ## Abschnitt 3 - Prüfungsteil Betriebs- und Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000300000)
 
 
 ### § 8 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001000000)
 
 (1) Im Prüfungsteil Betriebs- und Unternehmensführung soll der
 Prüfling nachweisen, dass er wirtschaftliche, rechtliche und soziale
@@ -400,6 +412,7 @@ Entwicklungsmöglichkeiten aufzeigen kann.
 
 
 ### § 9 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001100000)
 
 Die Prüfung besteht aus
 
@@ -413,6 +426,7 @@ Die Prüfung besteht aus
 
 
 ### § 10 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001200000)
 
 (1) Im Arbeitsprojekt soll der Prüfling eine komplexe
 betriebswirtschaftliche Aufgabe in einem Betrieb der Pflanzenzüchtung,
@@ -443,6 +457,7 @@ länger als 45 Minuten dauern.
 
 
 ### § 11 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001300000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -453,9 +468,11 @@ Minuten.
 
 
 ## Abschnitt 4 - Prüfungsteil Berufsausbildung und Mitarbeiterführung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000400000)
 
 
 ### § 12 Anforderungen und Handlungsfelder
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001400000)
 
 (1) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung soll der
 Prüfling nachweisen, dass er Zusammenhänge der Berufsbildung und
@@ -686,6 +703,7 @@ Kompetenzen:
 
 
 ### § 13 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001500000)
 
 (1) Der Prüfungsteil Berufsausbildung und Mitarbeiterführung gliedert
 sich in folgende Abschnitte:
@@ -713,6 +731,7 @@ Fallstudie (§ 16).
 
 
 ### § 14 Praktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001600000)
 
 (1) Der praktische Teil besteht aus der Durchführung einer
 Ausbildungssituation und einem Fachgespräch.
@@ -729,6 +748,7 @@ Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 
 ### § 15 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001700000)
 
 (1) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben
 unter Aufsicht bearbeiten. Die Aufgaben sollen sich auf die in § 12
@@ -739,6 +759,7 @@ Minuten.
 
 
 ### § 16 Fallstudie
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001800000)
 
 (1) In der Fallstudie soll der Prüfling eine Situation der
 Mitarbeiterführung bearbeiten. Die Situation wird vom
@@ -754,9 +775,11 @@ Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 
 ## Abschnitt 5 - Befreiung von Prüfungsleistungen, Bewertungen in den Prüfungen, Bestehens- und Zeugnisregelungen
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000500000)
 
 
 ### § 17 Befreiung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE001900000)
 
 Für die Befreiung von einzelnen Prüfungsteilen nach § 3 oder von
 Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16
@@ -764,6 +787,7 @@ ist § 56 Absatz 2 des Berufsbildungsgesetzes entsprechend anzuwenden.
 
 
 ### § 18 Bewertungen in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE002000000)
 
 (1) Die drei Prüfungsteile nach § 3 sind gesondert zu bewerten.
 
@@ -813,6 +837,7 @@ Prüfungsbestandteilen nach § 17 entfällt diese Verpflichtung.
 
 
 ### § 19 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE002100000)
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil
 (§ 3) mindestens die Note „ausreichend“ erzielt hat.
@@ -848,9 +873,11 @@ Prüfling ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
 
 
 ## Abschnitt 6 - Ergänzungs- und Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000600000)
 
 
 ### § 20 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE002200000)
 
 (1) Die Prüfungen nach den §§ 7, 11 und 15 sind jeweils durch eine
 mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung
@@ -865,6 +892,7 @@ Verhältnis 2:1 zu gewichten.
 
 
 ### § 21 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE002300000)
 
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal
 wiederholt werden.
@@ -887,9 +915,11 @@ zu befreien, wenn
 
 
 ## Abschnitt 7 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNG000700000)
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflanzentechmeistprv/BJNR381500017.html#BJNR381500017BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

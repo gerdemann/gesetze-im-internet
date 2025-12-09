@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000100000)
 
 Auf Grund des § 50 Absatz 4a des Wasserhaushaltsgesetzes, der durch
 Artikel 1 Nummer 2 Buchstabe c des Gesetzes vom 4. Januar 2023 (BGBl.
@@ -30,9 +31,11 @@ für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNG000100000)
 
 
 ### § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000300000)
 
 Diese Verordnung dient dem Schutz der Beschaffenheit des Grundwassers
 und des Oberflächenwassers in Einzugsgebieten von Entnahmestellen für
@@ -44,6 +47,7 @@ Ursachen zu verringern.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000400000)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -67,6 +71,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ### § 3 Risikobasierter Ansatz für Trinkwassereinzugsgebiete; Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000500000)
 
 (1) Zur Sicherstellung der Qualität des Oberflächenwassers, des
 Grundwassers und des Rohwassers gilt für Trinkwassereinzugsgebiete ein
@@ -98,6 +103,7 @@ der Maßgabe, dass es keiner Dokumentation nach § 12 bedarf.
 
 
 ### § 4 Länderübergreifende Trinkwassereinzugsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000600000)
 
 (1) Erstreckt sich ein Trinkwassereinzugsgebiet auf das Gebiet
 mehrerer Länder, koordinieren die zuständigen Behörden der betroffenen
@@ -111,6 +117,7 @@ trifft.
 
 
 ### § 5 Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000700000)
 
 Die zuständige Behörde kann verlangen, dass die für die Sachbereiche
 nach Anlage 1 zuständigen Behörden ihr diejenigen Informationen in
@@ -125,9 +132,11 @@ unberührt.
 
 
 ## Abschnitt 2 - Bewertung der Trinkwassereinzugsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNG000200000)
 
 
 ### § 6 Bestimmung und Beschreibung des Trinkwassereinzugsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000800000)
 
 (1) Der Betreiber hat eine Bestimmung und Beschreibung des
 Trinkwassereinzugsgebiets vorzunehmen. Dies umfasst:
@@ -254,6 +263,7 @@ Oberflächengewässers und seiner Zuflüsse.
 
 
 ### § 7 Gefährdungsanalyse und Risikoabschätzung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE000900000)
 
 (1) Zur Bewertung von Risiken für das Oberflächenwasser, das
 Grundwasser oder für beides oder für das Rohwasser hat der Betreiber
@@ -319,6 +329,7 @@ Risikoabschätzung nicht erforderlich.
 
 
 ### § 8 Untersuchungen auf relevante Parameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001000000)
 
 (1) Der Betreiber hat nach Maßgabe der Absätze 2 bis 4 und der §§ 9
 und 16 im Trinkwassereinzugsgebiet Untersuchungen des Grundwassers,
@@ -410,6 +421,7 @@ Parameter auszuwählen, wenn sie lokal relevant sind:
 
 
 ### § 9 Untersuchungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001100000)
 
 (1) Der Betreiber legt ein Untersuchungsprogramm fest, das Folgendes
 enthält:
@@ -473,6 +485,7 @@ perfringens, einschließlich Sporen, gelten entsprechend.
 
 
 ### § 10 Unterrichtungspflicht des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001200000)
 
 (1) Der Betreiber unterrichtet die zuständige Behörde unverzüglich
 über
@@ -510,6 +523,7 @@ sind.
 
 
 ### § 11 Akkreditierte Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001300000)
 
 Untersuchungen des Grundwassers, des Oberflächenwassers sowie des
 Rohwassers nach den §§ 8 und 9, auch in Verbindung mit § 16, dürfen
@@ -530,6 +544,7 @@ allgemein anerkannten Regeln der Technik durchzuführen.
 
 
 ### § 12 Dokumentation über die Bewertung des Trinkwassereinzugsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001400000)
 
 (1) Der Betreiber hat zum Ablauf des 12. November 2025 eine
 Dokumentation über die Bewertung des Trinkwassereinzugsgebiets zu
@@ -604,6 +619,7 @@ Gesundheitsamt weiter.
 
 
 ### § 13 Fachkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001500000)
 
 Die Bestimmung und Beschreibung des Trinkwassereinzugsgebiets nach §
 6, die Gefährdungsanalyse und die Risikoabschätzung nach § 7, die
@@ -625,6 +641,7 @@ auch in Verbindung mit Schulung, verfügen über
 
 
 ### § 14 Unterrichtungspflicht der Behörde; Daten zur Georeferenzierung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001600000)
 
 (1) Die zuständige Behörde unterrichtet den Betreiber unverzüglich
 über ihr bekannte Gefährdungen, Gefährdungsereignisse und
@@ -639,9 +656,11 @@ ihrer jeweiligen Aufgaben erforderlich ist, herausgeben.
 
 
 ## Abschnitt 3 - Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNG000300000)
 
 
 ### § 15 Risikomanagementmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001700000)
 
 (1) Die zuständige Behörde legt auf der Grundlage der Ergebnisse der
 durchgeführten Bewertung gemäß Abschnitt 2 bis zum Ablauf des 12. Mai
@@ -758,6 +777,7 @@ zu unterrichten.
 
 
 ### § 16 Anpassung des Untersuchungsprogramms; weitere Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001800000)
 
 (1) Die zuständige Behörde überprüft in regelmäßigen Abständen von
 höchstens sechs Jahren, erstmals zum 12. Mai 2027, auf Grundlage der
@@ -821,6 +841,7 @@ Wasserbeschaffenheit vorliegen.
 
 
 ### § 17 Maßnahmen zu Stoffen und Verbindungen auf der Beobachtungsliste
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE001900000)
 
 (1) Wird im Grundwasser, Oberflächenwasser oder Rohwasser ein Stoff
 oder eine Verbindung, der oder die Bestandteil der Beobachtungsliste
@@ -867,9 +888,11 @@ Ergebnis der Prüfung nach Satz 1.
 
 
 ## Abschnitt 4 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNG000400000)
 
 
 ### § 18 Nicht relevante Pestizid-Metaboliten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002000000)
 
 Das Umweltbundesamt veröffentlicht für die Matrix Rohwasser eine
 Empfehlung mit kategorisierten Richtwerten für Pestizid-Metaboliten,
@@ -883,6 +906,7 @@ gegebenenfalls an. Bei Überschreitung der Richtwerte-nrM gemäß Anlage
 
 
 ### § 19 Berichtspflichten der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002100000)
 
 (1) Die zuständige Behörde hat der zuständigen obersten Landesbehörde
 oder einer anderen nach Landesrecht zuständigen Stelle auf Anforderung
@@ -940,6 +964,7 @@ deren relevanter und nicht relevanter Metaboliten.
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002200000)
 
 Ordnungswidrig im Sinne des § 103 Absatz 1 Nummer 3 Buchstabe b des
 Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -961,11 +986,13 @@ Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002400000)
 
 Der Bundesrat hat zugestimmt.
 
@@ -973,6 +1000,7 @@ Der Bundesrat hat zugestimmt.
 § 15 Absatz 2 Satz 5 und § 17 Absatz 1 Satz 2)
 
 ### Anlage 1 Sachbereiche, die in der Zuständigkeit anderer Behörden liegen können
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 346, S. 12)
 
@@ -1050,6 +1078,7 @@ insbesondere:**
 (zu § 18 Satz 2 und 4)
 
 ### Anlage 2 Kategorisierung der Richtwerte für nicht relevante Metaboliten von Pestiziden (Richtwert-nrM)
+[Direktlink](https://www.gesetze-im-internet.de/trinkwegv/BJNR15A0A0023.html#BJNR15A0A0023BJNE002600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 346, S. 13)
 

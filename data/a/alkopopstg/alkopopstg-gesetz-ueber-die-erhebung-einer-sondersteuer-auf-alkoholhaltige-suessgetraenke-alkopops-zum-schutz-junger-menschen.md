@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Steuergebiet, Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstg/BJNR185710004.html#BJNR185710004BJNE000201377)
 
 (1) Alkoholhaltige Süßgetränke (Alkopops) unterliegen im Steuergebiet
 einer Sondersteuer zum Schutz junger Menschen (Alkopopsteuer).
@@ -58,6 +59,7 @@ gemeinsamen Verpackung enthalten sind.
 
 
 ## § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstg/BJNR185710004.html#BJNR185710004BJNE000300000)
 
 Die Steuer bemisst sich nach der in dem Alkopop enthaltenen
 Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohol,
@@ -65,6 +67,7 @@ gemessen bei einer Temperatur von 20Grad C: 5 550 Euro.
 
 
 ## § 3 Besteuerung, Steuerverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstg/BJNR185710004.html#BJNR185710004BJNE000402377)
 
 (1) Für die Herstellung, Bearbeitung oder Verarbeitung, die Lagerung
 und die Beförderung von Alkopops unter Steueraussetzung, für die
@@ -86,6 +89,7 @@ im steuerrechtlich freien Verkehr befindet.
 
 
 ## § 4 Aufkommensverwendung, Aufkommensverteilung
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstg/BJNR185710004.html#BJNR185710004BJNE000501377)
 
 Das Netto-Mehraufkommen aus der Alkopopsteuer ist zur Finanzierung von
 Maßnahmen zur Suchtprävention der Bundeszentrale für gesundheitliche
@@ -98,5 +102,6 @@ durch Rechtsverordnung zu regeln.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstg/BJNR185710004.html#BJNR185710004BJNE000601123)
 
 

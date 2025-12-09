@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv1993anwbek/BJNR032010015.html#BJNR032010015BJNE000100000)
 
 Nach § 11 Absatz 2 der Verordnung über die Sicherung der Seefahrt vom
 27\. Juli 1993 (BGBl. I S. 1417), der durch Artikel 2 Nummer 4 der
@@ -34,6 +35,7 @@ anzuwenden sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/seefsichv1993anwbek/BJNR032010015.html#BJNR032010015BJNE000200000)
 
 Bundesministerium
 für Verkehr und digitale Infrastruktur

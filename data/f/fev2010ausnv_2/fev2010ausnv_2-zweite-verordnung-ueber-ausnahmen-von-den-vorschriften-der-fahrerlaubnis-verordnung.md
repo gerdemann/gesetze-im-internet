@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fev2010ausnv_2/BJNR311300011.html#BJNR311300011BJNE000100000)
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe w in Verbindung mit § 6
 Absatz 3 des Straßenverkehrsgesetzes, von denen § 6 Absatz 1 Nummer 1
@@ -30,6 +31,7 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fev2010ausnv_2/BJNR311300011.html#BJNR311300011BJNE000201116)
 
 Abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung dürfen die in
 Anhang II Teil A Absatz 5 Ziffer 2 der Richtlinie 2007/46/EG des
@@ -46,11 +48,13 @@ werden und die in der Anlage aufgeführten Anforderungen erfüllt sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fev2010ausnv_2/BJNR311300011.html#BJNR311300011BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/fev2010ausnv_2/BJNR311300011.html#BJNR311300011BJNE000401305)
 
 (Fundstelle: BGBl. I 2011, 3114;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

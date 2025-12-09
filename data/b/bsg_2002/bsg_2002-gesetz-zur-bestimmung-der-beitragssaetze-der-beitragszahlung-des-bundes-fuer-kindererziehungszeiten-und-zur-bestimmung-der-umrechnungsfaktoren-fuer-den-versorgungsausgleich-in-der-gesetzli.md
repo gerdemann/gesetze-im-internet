@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2002/BJNR401010001.html#BJNR401010001BJNE000100305)
 
 Der Beitragssatz für das Jahr 2002 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,1 Prozent und in der
@@ -27,6 +28,7 @@ knappschaftlichen Rentenversicherung 25,4 Prozent.
 
 
 ## § 2 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2002/BJNR401010001.html#BJNR401010001BJNE000200305)
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und der
 Beitragssätze für das Jahr 2002 berechneten Faktoren betragen im Jahr
@@ -125,6 +127,7 @@ Beiträge maßgebend wäre.
 
 
 ## § 3 Zahlungen für Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2002/BJNR401010001.html#BJNR401010001BJNE000300305)
 
 Zur pauschalen Abgeltung für die Beitragszahlung für
 Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der

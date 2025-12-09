@@ -36,6 +36,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000100000)
 
 Es verordnen
 
@@ -63,6 +64,7 @@ Es verordnen
 
 
 ## § 1 Art und Inhalt des Informationssystems
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000202116)
 
 (1) In dem zentralen Arzneimittel-Informationssystem nach § 67a des
 Arzneimittelgesetzes werden unbeschadet der Anforderungen anderer
@@ -203,6 +205,7 @@ sind.
 
 
 ## § 2 Datenübermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000305116)
 
 (1) Unbeschadet der Anforderungen anderer gesetzlicher Bestimmungen
 übermitteln die für den Vollzug des Arzneimittelgesetzes zuständigen
@@ -261,6 +264,7 @@ anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
 
 ## § 3 Bereitstellung von Daten und Nutzung des Informationssystems
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000404116)
 
 (1) Die in dem Informationssystem nach § 1 Absatz 1 Nummer 1 und 2
 gespeicherten Daten werden den für das Arzneimittelrecht und das
@@ -331,6 +335,7 @@ Geschäftsgeheimnissen bleiben unberührt.
 
 
 ## § 4 Speicherungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000501116)
 
 Daten nach § 1 Absatz 1 Nummer 1 und 2 und Absatz 2 mit Ausnahme
 personenbezogener Daten sollen mindestens 30 Jahre über die Dauer der
@@ -348,6 +353,7 @@ löschen.
 
 
 ## § 5 Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000601116)
 
 Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments
 und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
@@ -358,11 +364,13 @@ juristische Personen entsprechend anzuwenden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dimdiamv/BJNR014000010.html#BJNR014000010BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

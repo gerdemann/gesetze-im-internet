@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-25-3 v. 25.4.1979 I 502 (HeilvfV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNG000100000)
 
 
 ### § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000200000)
 
 Diese Verordnung gilt für die durch einen Dienstunfall nach § 31 des
 Beamtenversorgungsgesetzes verletzten
@@ -41,6 +43,7 @@ nach § 46 des Deutschen Richtergesetzes entsprechend.
 
 
 ### § 2 Rechtsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000300000)
 
 (1) Eine durch einen Dienstunfall verletzte Person hat Anspruch auf
 Durchführung eines Heilverfahrens mit dem Ziel, die Folgen des
@@ -55,6 +58,7 @@ durchführt.
 
 
 ### § 3 Notwendigkeit und Angemessenheit
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000401311)
 
 (1) Notwendig sind die von einer Ärztin oder einem Arzt, einer
 Zahnärztin oder einem Zahnarzt, einer Psychotherapeutin oder einem
@@ -77,6 +81,7 @@ Dienstunfallfürsorgestelle.
 
 
 ### § 4 Durchgangsärztliche und besondere unfallmedizinische Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000500000)
 
 (1) Ist auf Grund einer Verletzung mit einer vorübergehenden
 Dienstunfähigkeit über den Unfalltag hinaus oder mit einer
@@ -112,6 +117,7 @@ Buches Sozialgesetzbuch behandelt wird.
 
 
 ### § 5 Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000600000)
 
 Sofern nach dieser Verordnung ein ärztliches Gutachten oder ein
 Gutachten zur Feststellung eines ursächlichen Zusammenhangs eingeholt
@@ -136,9 +142,11 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz
 
 
 ## Abschnitt 2 - Erstattung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNG000200000)
 
 
 ### § 6 Erstattungsfähige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000702311)
 
 (1) Erstattungsfähig sind Aufwendungen für
 
@@ -214,6 +222,7 @@ Bundesministeriums der Finanzen von dieser Verordnung abweichen.
 
 
 ### § 7 Erstattungsfähige Aufwendungen bei Traumatisierung
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000800000)
 
 (1) Nach einem traumatischen Ereignis, das von der verletzten Person
 nach § 45 des Beamtenversorgungsgesetzes angezeigt worden ist, werden
@@ -267,6 +276,7 @@ Gutachten zu Art und Umfang der Therapie einzuholen.
 
 
 ### § 8 Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE000900000)
 
 (1) Aufwendungen für die dienstunfallbedingte Versorgung mit
 Hilfsmitteln, mit Geräten zur Selbstbehandlung und Selbstkontrolle
@@ -324,6 +334,7 @@ gezahlt.
 
 
 ### § 9 Krankenhausleistungen und Rehabilitationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001001311)
 
 (1) Erstattungsfähig sind die dienstunfallbedingten Aufwendungen für
 
@@ -394,6 +405,7 @@ nach Absatz 1 Nummer 1 bis 4 erstattungsfähigen Aufwendungen
 
 
 ### § 10 Pflege
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001102311)
 
 (1) Wird die verletzte Person aufgrund des Dienstunfalls einem
 Pflegegrad (§ 15 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch)
@@ -489,6 +501,7 @@ Erstattung der Pflegekosten kürzen.
 
 
 ### § 11 Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001201311)
 
 (1) Eine Haushaltshilfe ist notwendig, solange und soweit der
 verletzten Person die Weiterführung des Haushalts nicht möglich ist
@@ -566,6 +579,7 @@ Haushaltshilfe werden in sinngemäßer Anwendung des § 12 Absatz 1 Satz
 
 
 ### § 12 Fahrten
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001301311)
 
 (1) Aufwendungen der verletzten Person für notwendige Hin- und
 Rückfahrten aus Anlass der Heilbehandlung werden wie folgt erstattet:
@@ -649,6 +663,7 @@ Absatzes 3 Satz 1 Nummer 3 sowie von Angehörigen im Fall des Absatzes
 
 
 ### § 13 Erhöhter Kleider- und Wäscheverschleiß
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001401311)
 
 Aufwendungen, die infolge eines dienstunfallbedingt erhöhten Kleider-
 und Wäscheverschleißes entstehen, werden von Amts wegen mit einem
@@ -662,6 +677,7 @@ Antrag erstattet.
 
 
 ### § 14 Kraftfahrzeughilfe
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001501311)
 
 Kraftfahrzeughilfe wird gewährt, wenn die Dienstunfallfürsorgestelle
 vor der Entstehung der Aufwendungen die Erstattung zugesagt hat. § 40
@@ -671,6 +687,7 @@ mit der Kraftfahrzeughilfe-Verordnung gilt entsprechend. Die §§ 6 und
 
 
 ### § 15 Dienstunfallbedingte Wohnumfeldanpassung
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001600000)
 
 (1) Die Aufwendungen für eine bedarfsgerechte Anpassung wie
 Ausstattung, Umbau oder Ausbau der bisher genutzten Wohnung sowie die
@@ -686,6 +703,7 @@ Vergleichsangebote beizubringen.
 
 
 ### § 16 Überführung und Bestattung
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001700000)
 
 (1) Ist die verletzte Person an den Folgen des Dienstunfalls
 verstorben, so werden erstattet die Aufwendungen für
@@ -709,9 +727,11 @@ Sterbegeld nach § 18 Absatz 1 und 2 des Beamtenversorgungsgesetzes mit
 
 
 ## Abschnitt 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNG000300000)
 
 
 ### § 17 Erstattungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001801311)
 
 (1) Soweit nichts anderes bestimmt ist, werden Aufwendungen nur
 erstattet, wenn die verletzte Person dies bei der
@@ -755,9 +775,11 @@ vorliegt, entstanden sind. Satz 1 gilt nur, wenn
 
 
 ## Abschnitt 4 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNG000400000)
 
 
 ### § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heilvfv_2020/BJNR234910020.html#BJNR234910020BJNE001900000)
 
 (1) Hinsichtlich der Erstattung von Aufwendungen, die vor dem
 Inkrafttreten dieser Verordnung entstanden sind, ist die

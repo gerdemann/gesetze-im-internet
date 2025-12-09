@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000200000)
 
 (1) Wehrsold erhalten Soldatinnen und Soldaten, die Wehrdienst nach §
 58b des Soldatengesetzes leisten.
@@ -78,6 +80,7 @@ Stand: Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)
 
 
 ### § 2 Anspruch auf Wehrsold
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000300000)
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, besteht der
 Anspruch auf Wehrsold für die Zeit vom Tag des Dienstantritts bis zum
@@ -92,6 +95,7 @@ beim Eintritt des Ereignisses zustand, weitergewährt.
 
 
 ### § 3 Anwendung von Vorschriften des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000401377)
 
 (1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 11, 12,
 17a und 42b des Bundesbesoldungsgesetzes gelten entsprechend.
@@ -110,9 +114,11 @@ Besoldungsgruppen differenziert sind, gilt folgende Zuordnung:
 
 
 ## Abschnitt 2 - Geldbezüge
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNG000200000)
 
 
 ### § 4 Wehrsoldgrundbetrag, Kinderzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000500000)
 
 (1) Soldatinnen und Soldaten erhalten einen monatlichen
 Wehrsoldgrundbetrag. Die Höhe des Wehrsoldgrundbetrags richtet sich
@@ -128,6 +134,7 @@ monatlichen Zuschlag. Die Höhe des Zuschlags richtet sich nach Spalte
 
 
 ### § 5 Erstattung der Beiträge zur Kranken- und Pflegeversicherung für Angehörige
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000600000)
 
 Für Personen ohne eigenes Einkommen, die nach § 4 der
 Bundesbeihilfeverordnung in Verbindung mit § 31 Absatz 2 des
@@ -139,6 +146,7 @@ ohne Zusatzbeiträge erstattet.
 
 
 ### § 6 Auslandsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000700000)
 
 (1) Soldatinnen und Soldaten erhalten eine Auslandsvergütung, wenn bei
 entsprechender Verwendung an demselben Standort
@@ -150,6 +158,7 @@ Tabelle in der Anlage.
 
 
 ### § 7 Anpassung des Wehrsoldes
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000801377)
 
 Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des
 Bundesbesoldungsgesetzes erhöhen oder verringern sich der
@@ -162,6 +171,7 @@ geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
 
 
 ### § 8 Entlassungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE000901377)
 
 (1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst
 leisten, erhalten bei der Entlassung ein Entlassungsgeld. Als
@@ -220,6 +230,7 @@ Soldatengesetzes) unberücksichtigt.
 
 
 ### § 9 Vergütung für herausgehobene Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001000000)
 
 (1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst
 geleistet haben, erhalten für die Dauer der Wahrnehmung einer
@@ -233,6 +244,7 @@ jeweiligen Stellenzulage nach Anlage IX des Bundesbesoldungsgesetzes.
 
 
 ### § 10 Vergütung für besondere Erschwernisse
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001100000)
 
 (1) Soldatinnen und Soldaten erhalten zur Abgeltung besonderer
 Erschwernisse eine widerrufliche Vergütung unter den gleichen
@@ -245,6 +257,7 @@ Bundesbesoldungsgesetzes erlassene Rechtsverordnung entsprechend.
 
 
 ### § 11 Vergütung für besondere zeitliche Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001200000)
 
 (1) Soldatinnen und Soldaten erhalten eine Vergütung für jede
 Dienstleistung, für die Besoldungsempfängerinnen und
@@ -258,6 +271,7 @@ werden.
 
 
 ### § 12 Auslandsverwendungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001300000)
 
 (1) Soldatinnen und Soldaten, die an einer besonderen Verwendung im
 Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes
@@ -272,6 +286,7 @@ die höchste Stufe des Auslandsverwendungszuschlags zu.
 
 
 ### § 13 Kaufkraftausgleich
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001400000)
 
 Geldbezüge nach den §§ 4, 6, 9, 10 und 11 unterliegen dem
 Kaufkraftausgleich in entsprechender Anwendung des § 55 des
@@ -281,9 +296,11 @@ Kaufkraftausgleich unterliegt.
 
 
 ## Abschnitt 3 - Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNG000300000)
 
 
 ### § 14 Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001500000)
 
 (1) Soldatinnen und Soldaten, die auf Grund dienstlicher Anordnung
 verpflichtet sind, in einer Gemeinschaftsunterkunft zu wohnen, wird
@@ -295,6 +312,7 @@ Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
 
 ### § 15 Dienstkleidung und Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001600000)
 
 (1) Soldatinnen und Soldaten werden die Dienstkleidung und die
 Ausrüstung unentgeltlich bereitgestellt.
@@ -306,6 +324,7 @@ Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
 
 ### § 16 Heilfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001700000)
 
 (1) Soldatinnen und Soldaten haben Anspruch auf Heilfürsorge in Form
 der unentgeltlichen truppenärztlichen Versorgung. § 69a des
@@ -320,6 +339,7 @@ Wehrdienstbeschädigung.
 
 
 ### § 17 Verpflegung, Verpflegungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001800000)
 
 (1) Soldatinnen und Soldaten, die für die Dauer eines auswärtigen
 Dienstgeschäftes außerhalb von Dienstreisen auf Grund dienstlicher
@@ -348,13 +368,16 @@ entsprechend.
 
 
 ## Abschnitt 4 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNG000400000)
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE001901377)
 
 
 
 ### § 19 Sonderzahlungen zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE002101377)
 
 (1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise
 werden die folgenden Sonderzahlungen unter den Voraussetzungen der
@@ -413,6 +436,7 @@ gleich und werden jedem Berechtigten nur einmal gewährt.
 (zu den §§ 4 und 6)
 
 ### Anlage Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/wsg_2020/BJNR115800019.html#BJNR115800019BJNE002000000)
 
 (Fundstelle: BGBl. I 2019, 1161)
 

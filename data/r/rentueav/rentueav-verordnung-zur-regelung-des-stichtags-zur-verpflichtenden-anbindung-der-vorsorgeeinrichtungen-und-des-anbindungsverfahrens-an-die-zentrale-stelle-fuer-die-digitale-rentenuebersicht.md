@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rent_av/BJNR01E0A0024.html#BJNR01E0A0024BJNE000100000)
 
 Auf Grund des § 13 Absatz 2 Nummer 1 und Absatz 3 des
 Rentenübersichtsgesetzes vom 11. Februar 2021 (BGBl. I S. 154)
@@ -25,6 +26,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rent_av/BJNR01E0A0024.html#BJNR01E0A0024BJNE000200000)
 
 Die Verordnung gilt für solche Vorsorgeeinrichtungen, die nach § 7
 Absatz 1 Satz 3 des Rentenübersichtsgesetzes verpflichtet sind, sich
@@ -34,6 +36,7 @@ noch nicht in der Auszahlungsphase befinden.
 
 
 ## § 2 Anbindungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rent_av/BJNR01E0A0024.html#BJNR01E0A0024BJNE000300000)
 
 (1) Die Vorsorgeeinrichtungen melden sich bis zum 31. März 2024 unter
 Angabe der Zahl der Altersvorsorgeansprüche aus
@@ -66,6 +69,7 @@ entsprechend.
 
 
 ## § 3 Stichtag für die verpflichtende Anbindung
+[Direktlink](https://www.gesetze-im-internet.de/rent_av/BJNR01E0A0024.html#BJNR01E0A0024BJNE000400000)
 
 (1) Der Stichtag für die verpflichtende Anbindung der
 Vorsorgeeinrichtungen an die Zentrale Stelle für die Digitale
@@ -83,6 +87,7 @@ müssen innerhalb von neun Monaten ab dem Zeitpunkt der Anmeldung zur
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rent_av/BJNR01E0A0024.html#BJNR01E0A0024BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

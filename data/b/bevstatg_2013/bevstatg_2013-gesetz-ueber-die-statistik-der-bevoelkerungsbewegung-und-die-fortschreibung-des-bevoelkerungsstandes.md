@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000201311)
 
 Folgende Bundesstatistiken werden geführt, um die Zahl und die
 Zusammensetzung der Bevölkerung sowie ihre Veränderungen und deren
@@ -59,6 +60,7 @@ Ursachen festzustellen:
 
 
 ## § 2 Statistik der natürlichen Bevölkerungsbewegung
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000304126)
 
 (1) Die nach Landesrecht für die Führung der Personenstandsregister
 zuständigen Stellen übermitteln den statistischen Ämtern der Länder
@@ -231,6 +233,7 @@ Sterbefalleintrags dient als Hilfsmerkmal.
 
 
 ## § 3 Statistik der rechtskräftigen Beschlüsse in Ehesachen und Statistik der rechtskräftigen Aufhebungen von Lebenspartnerschaften
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000404126)
 
 Die für Ehesachen sowie für Lebenspartnerschaftssachen zuständigen
 Gerichte erster Instanz übermitteln den statistischen Ämtern der
@@ -281,6 +284,7 @@ Daten als Erhebungsmerkmale:
 
 
 ## § 4 Wanderungsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000503126)
 
 (1) Erfolgt die Verlegung der alleinigen Wohnung oder der Hauptwohnung
 
@@ -365,6 +369,7 @@ Rückmeldeverfahrens.
 
 
 ## § 5 Fortschreibung des Bevölkerungsstandes und Bevölkerungsvorausberechnungen
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000604126)
 
 (1) Der Bevölkerungsstand wird
 
@@ -480,6 +485,7 @@ ebenfalls durchzuführen, bleibt unberührt.
 
 
 ## § 5a Übermittlung von Tabellen an oberste Bundes- und Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000900311)
 
 Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für
 Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen,
@@ -490,6 +496,7 @@ ausweisen.
 
 
 ## § 5b Übermittlung von Angaben an das Robert Koch-Institut; Fachspezifische Analysen und Mortalitätssurveillance; Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE001000126)
 
 (1) Für Zwecke der epidemiologischen Analysen einer
 überdurchschnittlichen Sterblichkeit übermittelt das Statistische
@@ -534,6 +541,7 @@ zugeordnet werden können.
 
 
 ## § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000703126)
 
 (1) Abweichend von § 5b Absatz 1 Satz 1 übermittelt das Statistische
 Bundesamt für den Zeitraum vom 21. Juli 2023 bis zum 31. Oktober 2023
@@ -556,6 +564,7 @@ zum Sterbeort.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bevstatg_2013/BJNR082600013.html#BJNR082600013BJNE000800000)
 
 Dieses Gesetz tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt das
 Bevölkerungsstatistikgesetz in der Fassung der Bekanntmachung vom 14.

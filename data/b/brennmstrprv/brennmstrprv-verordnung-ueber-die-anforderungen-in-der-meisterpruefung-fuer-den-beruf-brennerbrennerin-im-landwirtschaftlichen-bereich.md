@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000100000)
 
 Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
@@ -33,6 +34,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000201377)
 
 (1) Die Meisterprüfung für den Beruf Brenner/Brennerin ist eine
 berufliche Fortbildungsprüfung nach § 1 Abs. 4 des
@@ -100,6 +102,7 @@ Brennmeisterin“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000300000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -131,6 +134,7 @@ Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000400000)
 
 (1) Die Meisterprüfung beinhaltet die Prüfungsteile
 
@@ -149,6 +153,7 @@ Prüfung rechtfertigen.
 
 
 ## § 4 Prüfungsanforderungen im Prüfungsteil „Brennereitechnologie, Betriebs- und Verfahrenstechnik, Vermarktung“
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000500000)
 
 (1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin soll
 nachweisen, dass die Herstellung und Weiterverarbeitung von
@@ -242,6 +247,7 @@ Verfügung.
 
 
 ## § 5 Prüfungsanforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000600000)
 
 (1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin soll
 nachweisen, dass wirtschaftliche, rechtliche und soziale Zusammenhänge
@@ -330,6 +336,7 @@ Prüfungsgespräch soll jeweils nicht länger als 60 Minuten dauern.
 
 
 ## § 6 Prüfungsanforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000701377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -580,6 +587,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000801377)
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile
@@ -592,6 +600,7 @@ Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ## § 8 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE000901377)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 „Brennereitechnologie, Betriebs- und Verfahrenstechnik, Vermarktung“
@@ -633,6 +642,7 @@ gewichten.
 
 
 ## § 9 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE001000000)
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
 wiederholt werden.
@@ -648,6 +658,7 @@ Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brennmstrprv/BJNR206500008.html#BJNR206500008BJNE001101377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.

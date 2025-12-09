@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000100310)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung
@@ -36,6 +37,7 @@ und Wohnungswesen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000201119)
 
 (1) Zur Vorbereitung auf die Taucherprüfung kann die zuständige Stelle
 bei nach Art und Einrichtung geeigneten Taucherbetrieben
@@ -48,6 +50,7 @@ durchführen.
 
 
 ## § 2 Ziel der beruflichen Fortbildung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000301128)
 
 (1) Durch die Teilnahme an dem Fortbildungsgang nach § 1 Abs. 1 sollen
 Kenntnisse, Fertigkeiten und Erfahrungen, die in der Berufsausbildung
@@ -80,6 +83,7 @@ Aufgaben eines Tauchers wahrzunehmen:
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000400310)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -121,6 +125,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Dauer und Inhalt des Fortbildungsganges
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000501119)
 
 (1) Der Fortbildungsgang gliedert sich in einen Fortbildungslehrgang
 und eine betriebliche Fortbildung.
@@ -144,6 +149,7 @@ Bescheinigung auszustellen.
 
 
 ## § 5 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000600310)
 
 (1) Die Prüfung gliedert sich in
 
@@ -162,6 +168,7 @@ beginnen.
 
 
 ## § 6 Fachtheoretischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000701128)
 
 (1) Im fachtheoretischen Teil ist in folgenden Prüfungsbereichen zu
 prüfen:
@@ -271,6 +278,7 @@ Prüfungsbereichen gute schriftliche Leistungen erbracht hat.
 
 
 ## § 7 Fachpraktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000801128)
 
 (1) Im fachpraktischen Teil ist in folgenden Handlungsbereichen zu
 prüfen:
@@ -336,6 +344,7 @@ betragen.
 
 
 ## § 8 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE000902128)
 
 (1) Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -351,6 +360,7 @@ angerechnet, die den Anforderungen der Anlagen 3 und 4 entsprechen.
 
 
 ## § 9 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001900128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -368,6 +378,7 @@ Handlungsbereichen „Handhabung der Tauch- und Arbeitsgeräte“ und
 
 
 ## § 10 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001002128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -401,6 +412,7 @@ Gesamtnote.
 
 
 ## § 11 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE002000128)
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -427,6 +439,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 12 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001101128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -442,6 +455,7 @@ Wiederholungsprüfung gewertet.
 
 
 ## § 13 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001201128)
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende
@@ -457,6 +471,7 @@ durchführen. § 10 Abs. 2 findet in diesem Fall keine Anwendung.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001301128)
 
 (1) Diese Verordnung tritt mit Ausnahme von § 4 Abs. 3 Satz 2 am 1.
 Juni 2000 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung
@@ -468,6 +483,7 @@ I S. 1936) außer Kraft.
 (zu den §§ 9 und 10)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001502128)
 
 (Fundstelle: BGBl. I 2019, 2214 - 2215)
 
@@ -769,6 +785,7 @@ I S. 1936) außer Kraft.
 (zu § 11)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE002100128)
 
 (Fundstelle: BGBl. I 2019, 2215)
 
@@ -843,6 +860,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 
 
 ## Anlage 3 (zu § 4 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001702128)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 2000, 171; bzgl. der einzelnen
@@ -1010,6 +1028,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 
 
 ## Anlage 4 (zu § 4 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/tauchprv_2000/BJNR016500000.html#BJNR016500000BJNE001601128)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 2000, 170)

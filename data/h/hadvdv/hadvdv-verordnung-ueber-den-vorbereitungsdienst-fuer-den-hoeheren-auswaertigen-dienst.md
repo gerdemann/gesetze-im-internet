@@ -18,15 +18,18 @@ Fundstelle
 Stand: Ersetzt V 2030-7-6-4 v. 15.6.2004 I 1088 (LAP-hADV 2004)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNG000100000)
 
 
 ### § 1 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000200000)
 
 Der Vorbereitungsdienst für den höheren Auswärtigen Dienst dauert
 mindestens zwölf, in der Regel 14 Monate.
 
 
 ### § 2 Ziele und Inhalte der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000300000)
 
 (1) Die Anwärterinnen und Anwärter werden auf ihre beruflichen
 Aufgaben im höheren Auswärtigen Dienst und der damit einhergehenden
@@ -76,6 +79,7 @@ werden befähigt, sich eigenständig weiterzubilden.
 
 
 ### § 3 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000400000)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -119,6 +123,7 @@ Nummer 4 ebenfalls erfüllen.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000500000)
 
 (1) Menschen mit Schwerbehinderung, diesen gleichgestellten Menschen
 mit Behinderung und Menschen mit Beeinträchtigungen, die die Umsetzung
@@ -160,9 +165,11 @@ Ausbildungsleiter mit.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNG000200000)
 
 
 ### § 5 Ziele des Auswahlverfahrens, allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000600000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das
 Auswärtige Amt auf Grundlage eines Auswahlverfahrens.
@@ -202,6 +209,7 @@ Auswahlverfahren ausgeschlossen.
 
 
 ### § 6 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000700000)
 
 (1) Zum Auswahlverfahren wird zugelassen, wer nach den Angaben in der
 Bewerbung die Voraussetzungen, die in der Ausschreibung für die
@@ -223,6 +231,7 @@ elektronische Mitteilung über die Ablehnung.
 
 
 ### § 7 Teile des Auswahlverfahrens, Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000800000)
 
 (1) Das Auswahlverfahren umfasst einen schriftlichen und einen
 mündlichen Teil, die jeweils aus mehreren Abschnitten bestehen.
@@ -268,6 +277,7 @@ Auswahlverfahrens über die Dauer und den Ablauf des jeweiligen Teils.
 
 
 ### § 8 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE000900000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 die kognitiven Fähigkeiten geprüft.
@@ -307,6 +317,7 @@ schriftlichen Teil des Auswahlverfahrens bestanden haben.
 
 
 ### § 9 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001000000)
 
 (1) Wer den schriftlichen Teil des Auswahlverfahrens bestanden hat,
 wird zum mündlichen Teil des Auswahlverfahrens zugelassen. Die
@@ -335,6 +346,7 @@ zum mündlichen Teil zugelassen.
 
 
 ### § 10 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001100000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere die
 sozialen Kompetenzen, die für den höheren Auswärtigen Dienst
@@ -366,6 +378,7 @@ weitere Auswahlinstrumente ergänzt werden.
 
 
 ### § 11 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001200000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Auswärtige
 Amt jeweils eine Auswahlkommission ein. Bei Bedarf können mehrere
@@ -462,6 +475,7 @@ zulässig.
 
 
 ### § 12 Ergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001300000)
 
 (1) Die Auswahlkommission nimmt am Ende eines Auswahltages für jede
 Bewerberin und jeden Bewerber, die oder der an diesem Auswahltag den
@@ -490,6 +504,7 @@ erscheint.
 
 
 ### § 13 Wiederholte Teilnahme am Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001400000)
 
 (1) Bewerberinnen und Bewerber, die im mündlichen Teil des
 Auswahlverfahrens eine festgelegte Mindestpunktzahl für eine
@@ -514,9 +529,11 @@ erneut zu durchlaufen.
 
 
 ## Abschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNG000300000)
 
 
 ### § 14 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001500000)
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
 Anwärter für die vorgesehene Laufbahn befähigt sind. Die Prüfung wird
@@ -527,6 +544,7 @@ die Abschlussprüfung (§ 18).
 
 
 ### § 15 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001600000)
 
 Die Durchführung der Laufbahnprüfung obliegt der Akademie Auswärtiger
 Dienst. Ihr obliegt dabei die Verantwortung für folgende Maßnahmen:
@@ -565,6 +583,7 @@ Dienst. Ihr obliegt dabei die Verantwortung für folgende Maßnahmen:
 
 
 ### § 16 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001700000)
 
 (1) Die Prüfungskommission besteht in der Regel aus vier Mitgliedern.
 Die Mitglieder sind unabhängig und an Weisungen nicht gebunden.
@@ -603,6 +622,7 @@ Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 ### § 17 Fach- und Sprachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001800000)
 
 (1) Die Fach- und Sprachprüfungen werden insbesondere durchgeführt in
 Form von:
@@ -674,6 +694,7 @@ festgelegt wird.
 
 
 ### § 18 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE001900000)
 
 (1) Die Abschlussprüfung besteht aus
 
@@ -702,6 +723,7 @@ Anwärter mindestens die Note „ausreichend“ erzielt hat.
 
 
 ### § 19 Verhinderung, Säumnis, Rücktritt, Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002000000)
 
 (1) Wer aus wichtigem Grund verhindert ist, eine Prüfungsleistung
 rechtzeitig zu erbringen, hat dies unverzüglich schriftlich oder
@@ -737,6 +759,7 @@ gelten entsprechend.
 
 
 ### § 20 Störungen
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002100000)
 
 Sieht sich eine Anwärterin oder ein Anwärter während einer Prüfung
 durch äußere Einwirkungen erheblich gestört, so hat sie oder er dies
@@ -745,6 +768,7 @@ Prüfung können Störungen nicht mehr geltend gemacht werden.
 
 
 ### § 21 Verstöße bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002200000)
 
 (1) Verstöße bei Prüfungen können sein:
 
@@ -793,6 +817,7 @@ Abschlusszeugnisses für nicht bestanden erklären.
 
 
 ### § 22 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002300000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter im Rahmen der
 Ausbildung sowie der Laufbahnprüfung werden wie folgt bewertet:
@@ -978,6 +1003,7 @@ Rangpunkte gerundet.
 
 
 ### § 23 Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002400000)
 
 (1) Im Anschluss an die mündliche Prüfung ermittelt die
 Prüfungskommission das Gesamtergebnis der Laufbahnprüfung als
@@ -1006,6 +1032,7 @@ Teilprüfungen wie folgt gewertet:
 
 
 ### § 24 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002500000)
 
 (1) Anwärterinnen und Anwärtern, die die Prüfung bestanden haben,
 erhalten ein Prüfungszeugnis, das die Abschlussnote sowie die nach §
@@ -1021,6 +1048,7 @@ Fällen des § 21 Absatz 4 ist das Prüfungszeugnis zurückzugeben.
 
 
 ### § 25 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002600000)
 
 (1) Jeweils eine Ausfertigung der Niederschriften über die Fach- und
 Sprachprüfungen sowie die Abschlussprüfung ist mit den schriftlichen
@@ -1036,6 +1064,7 @@ Prüfungsakten nehmen.
 
 
 ### § 26 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002700000)
 
 (1) Eine nicht bestandene Prüfung kann einmal wiederholt werden. Das
 Auswärtige Amt kann in begründeten Ausnahmefällen eine zweite
@@ -1053,15 +1082,18 @@ zum Ablauf der Wiederholungsfrist verlängert.
 
 
 ### § 27 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002800000)
 
 Die Zeiten des Erholungsurlaubes bestimmt die Ausbildungsleiterin oder
 der Ausbildungsleiter.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNG000400000)
 
 
 ### § 28 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hadvdv/BJNR05C0E0025.html#BJNR05C0E0025BJNE002900000)
 
 (1) Für Anwärterinnen und Anwärter, die vor dem 25. März 2025 mit dem
 Vorbereitungsdienst für den höheren Auswärtigen Dienst begonnen haben,

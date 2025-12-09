@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/mindnam_ndg/BJNR140630997.html#BJNR140630997BJNE000103126)
 
 (1) Eine Person, auf die sowohl das Rahmenübereinkommen zum Schutz
 nationaler Minderheiten als auch deutsches Namensrecht Anwendung
@@ -70,6 +71,7 @@ ist eine erneute Erklärung nach Absatz 1 nicht zulässig.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/mindnam_ndg/BJNR140630997.html#BJNR140630997BJNE000202377)
 
 Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen oder
 Lebenspartnerschaftsnamen des oder der Erklärenden nur dann, wenn sich
@@ -81,6 +83,7 @@ Vorschriften des Bürgerlichen Gesetzbuchs.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/mindnam_ndg/BJNR140630997.html#BJNR140630997BJNE000300320)
 
 Für die Entgegennahme der Erklärungen und ihre Beglaubigung oder
 Beurkundung werden Gebühren nicht erhoben.

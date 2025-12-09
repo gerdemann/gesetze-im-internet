@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1 Freigabe der stillgelegten Mittel
+[Direktlink](https://www.gesetze-im-internet.de/estfreigg/BJNR036790974.html#BJNR036790974BJNE000100317)
 
 Die nach § 9 Abs. 1 des Stabilitätszuschlaggesetzes vom 26. Juni 1973
 (Bundesgesetzbl. I S. 676, 681) als Konjunkturausgleichsrücklagen auf
@@ -28,6 +29,7 @@ nach § 9 Abs. 2 dieses Gesetzes zur Entnahme freigegeben.
 
 
 ## § 2 Aufhebung der Stillegungspflicht für künftig aufkommende Beträge
+[Direktlink](https://www.gesetze-im-internet.de/estfreigg/BJNR036790974.html#BJNR036790974BJNE000200317)
 
 Künftig aufkommende Beträge aus dem Zuschlag zur Einkommensteuer und
 zur Körperschaftsteuer sind nicht mehr als
@@ -39,12 +41,14 @@ entnehmen.
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/estfreigg/BJNR036790974.html#BJNR036790974BJNE000300317)
 
 Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/estfreigg/BJNR036790974.html#BJNR036790974BJNE000400317)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000104119)
 
 (1) Dieses Gesetz dient der Durchführung der
 
@@ -68,6 +69,7 @@ Verpflegungseinrichtungen sowie deren Kontrolle.
 
 
 ## § 2 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000203119)
 
 (1) Die Durchführung einschließlich der Überwachung der Einhaltung der
 in § 1 genannten Rechtsakte, dieses Gesetzes und der auf Grund dieses
@@ -133,6 +135,7 @@ Rechtsverordnung durch Verwaltungsakt ausgeübt werden können.
 
 
 ## § 3 Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000302119)
 
 (1) Das Kontrollverfahren im Sinne von Artikel 40 der Verordnung (EU)
 2018/848 in Verbindung mit Artikel 28 Absatz 1 der Verordnung (EU)
@@ -183,6 +186,7 @@ nicht überschreiten.
 
 
 ## § 4 Zulassung der Kontrollstellen und Entzug der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000403119)
 
 (1) Eine Kontrollstelle ist auf Antrag zuzulassen, wenn
 
@@ -283,6 +287,7 @@ betroffenen Land kontrollierten Unternehmen anzuzeigen.
 
 
 ## § 5 Pflichten der Kontrollstellen
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000504119)
 
 (1) Die Kontrollstelle ist verpflichtet, die Tätigkeit jedes
 Unternehmers im Sinne des Artikels 34 Absatz 1 der Verordnung (EU) Nr.
@@ -409,6 +414,7 @@ Unternehmen das weitere Durchführen der Kontrollen sichergestellt ist.
 
 
 ## § 6 Gemeinschaftliche Verpflegungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000603119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft erlässt
 durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen für
@@ -459,6 +465,7 @@ weiter.
 
 
 ## § 7 Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000703119)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zolldienststellen wirken bei der Überwachung der Einfuhr von nach
@@ -514,6 +521,7 @@ vorzuschreiben, dass
 
 
 ## § 8 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000804119)
 
 (1) Unternehmer im Sinne des Artikels 9 Absatz 1 der Verordnung (EU)
 2017/625 und Artikel 34 der Verordnung (EU) 2018/848 und des § 6 Abs.
@@ -565,6 +573,7 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 9 Datenübermittlung, Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE000903119)
 
 (1) Die zuständigen Behörden und die Deutsche Akkreditierungsstelle
 GmbH erteilen einander die zur Überwachung der Kontrollstellen
@@ -600,10 +609,12 @@ Behörden übertragen.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001005301)
 
 
 
 ## § 11 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001105119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -655,6 +666,7 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ## § 12 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001202119)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird
 bestraft, wer gegen die Verordnung (EU) 2018/848 des Europäischen
@@ -710,6 +722,7 @@ Verordnung (EU) 2018/848 nicht erfüllt wird.
 
 
 ## § 13 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001303119)
 
 (1) Ordnungswidrig handelt, wer eine der in § 12 bezeichneten
 Handlungen fahrlässig begeht.
@@ -823,6 +836,7 @@ Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 
 ## § 14 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001401119)
 
 Ist eine Straftat nach § 12 oder eine Ordnungswidrigkeit nach § 13
 Absatz 1 bis 5 begangen worden, so können Gegenstände, auf die sich
@@ -833,10 +847,12 @@ des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001501119)
 
 
 
 ## § 16 Ausschluss des Abweichungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/_lg_2009/BJNR235810008.html#BJNR235810008BJNE001600000)
 
 Abweichungen von den in § 4 Abs. 5 Satz 2 und 3 und § 9 Abs. 1 Satz 2
 enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht

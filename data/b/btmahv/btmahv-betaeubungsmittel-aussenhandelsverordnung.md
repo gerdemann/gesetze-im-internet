@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE000700312)
 
 Auf Grund des § 11 Abs. 2 des Betäubungsmittelgesetzes vom 28. Juli
 1981 (BGBl. I S. 681) verordnet die Bundesregierung:
 
 
 ## I. - Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNG000100312)
 
 
 
 ### § 1 Einfuhrantrag
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE000802320)
 
 (1) Wer Betäubungsmittel einführen will, hat für jede Einfuhrsendung
 unter Verwendung eines amtlichen Formblatts eine Einfuhrgenehmigung
@@ -113,6 +116,7 @@ zuständigen Behörde des Ausfuhrlandes zurück.
 
 
 ### § 2 Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE000901305)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die
 Einfuhrgenehmigung zu versagen, wenn die Einfuhr des Betäubungsmittels
@@ -136,6 +140,7 @@ Betäubungsmittelverkehrs nicht gewährleistet sind.
 
 
 ### § 3 Einfuhrgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001001305)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erteilt
 die Einfuhrgenehmigung unter Verwendung amtlicher Formblätter in
@@ -151,6 +156,7 @@ die Betäubungsmittel bereits auf dem Transport befinden.
 
 
 ### § 4 Einfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001101320)
 
 Betäubungsmittel dürfen nur über eine vom Bundesminister der Finanzen
 bestimmte Zollstelle eingeführt werden. Sie sind dieser Zollstelle
@@ -160,6 +166,7 @@ aus einem Mitgliedstaat der Europäischen Union.
 
 
 ### § 5 Lagerung unter zollamtlicher Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001201305)
 
 Ist in der Einfuhrgenehmigung nur die Lagerung unter zollamtlicher
 Überwachung genehmigt, so dürfen die Betäubungsmittel nur in einer
@@ -175,6 +182,7 @@ Bundesinstitutes für Arzneimittel und Medizinprodukte erforderlich.
 
 
 ### § 6 Einfuhranzeige
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001302320)
 
 (1) Der Einführer hat die erfolgte Einfuhr dem Bundesinstitut für
 Arzneimittel und Medizinprodukte unverzüglich anzuzeigen und die
@@ -209,10 +217,12 @@ anzuzeigen. Der Anzeige ist die Einfuhrgenehmigung beizufügen.
 
 
 ## II. - Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNG000200312)
 
 
 
 ### § 7 Ausfuhrantrag
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001402320)
 
 (1) Wer Betäubungsmittel ausführen will, hat für jede Ausfuhrsendung
 unter Verwendung eines amtlichen Formblatts eine Ausfuhrgenehmigung
@@ -311,6 +321,7 @@ zurück.
 
 
 ### § 8 Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001501305)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die
 Ausfuhrgenehmigung zu versagen, wenn
@@ -361,6 +372,7 @@ nicht gewährleistet sind.
 
 
 ### § 9 Ausfuhrgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001601305)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erteilt
 die Ausfuhrgenehmigung unter Verwendung amtlicher Formblätter in
@@ -374,6 +386,7 @@ drei Monate zu befristen.
 
 
 ### § 10 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001701305)
 
 Zur Ausfuhr bestimmte Betäubungsmittel sind in den Handelsrechnungen,
 Lieferscheinen, Ladelisten, Versand- und Zollpapieren nach § 14 Abs. 1
@@ -387,6 +400,7 @@ den Vorschriften des Einfuhrlandes erforderlich ist.
 
 
 ### § 11 Ausfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001801320)
 
 (1) Betäubungsmittel dürfen nur über eine vom Bundesminister der
 Finanzen bestimmte Zollstelle ausgeführt werden. Sie sind dieser
@@ -401,6 +415,7 @@ Ausfuhrgenehmigungen dürfen nicht abgefertigt oder versandt werden.
 
 
 ### § 12 Ausfuhranzeige
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE001902320)
 
 (1) Der Ausführer hat die erfolgte Ausfuhr dem Bundesinstitut für
 Arzneimittel und Medizinprodukte unverzüglich anzuzeigen und die
@@ -436,10 +451,12 @@ Ausfuhrgenehmigung beizufügen.
 
 
 ## III. - Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNG000300312)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002002320)
 
 (1) Betäubungsmittel dürfen durch den Geltungsbereich des
 Betäubungsmittelgesetzes nur unter zollamtlicher Überwachung ohne
@@ -489,10 +506,12 @@ dem Flugzeug oder dem Seeschiff entladen werden.
 
 
 ## IV. - Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNG000400312)
 
 
 
 ### § 14 Einfuhr und Ausfuhr im Rahmen internationaler Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002101305)
 
 (1) Bundes- und Landesbehörden dürfen Betäubungsmittel für den Bereich
 ihrer dienstlichen Tätigkeit und die von ihnen mit der Untersuchung
@@ -547,6 +566,7 @@ Ausstellungsdatum an gerechnet, aufzubewahren.
 
 
 ### § 15 Vereinfachter grenzüberschreitender Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002204130)
 
 (1) Die Vorschriften der §§ 1 bis 12 finden keine Anwendung auf
 Zubereitungen der in den Anlagen II und III des
@@ -582,10 +602,12 @@ Weltgesundheitsorganisation, 1211 Genf 27, Schweiz) ausgeführt werden.
 
 
 ## V. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNG000500312)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002301320)
 
 Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des
 Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -604,10 +626,12 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## VI. - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNG000600312)
 
 
 
 ### § 17 Zuständige Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002400312)
 
 Der Bundesminister der Finanzen gibt im Bundesanzeiger die Zollstellen
 bekannt, bei denen Betäubungsmittel zur Einfuhr, Ausfuhr und Durchfuhr
@@ -615,6 +639,7 @@ abgefertigt werden.
 
 
 ### § 18 Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002501305)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt die
 amtlichen Formblätter nach § 1 Abs. 1, § 3 Abs. 1 Satz 1, § 6 Abs. 1
@@ -628,6 +653,7 @@ Nr. 4 Buchstabe a der Betäubungsmittel im Bundesanzeiger bekannt.
 
 
 ### § 19 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002600312)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 41 Satz 2 des Betäubungsmittelgesetzes auch im Land
@@ -635,6 +661,7 @@ Berlin.
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/btmahv/BJNR014200981.html#BJNR014200981BJNE002700312)
 
 (1) Diese Verordnung tritt am 1. Januar 1982 in Kraft.
 

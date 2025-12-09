@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in
@@ -36,6 +37,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Technischen Fachwirt/zur Geprüften Technischen Fachwirtin
@@ -112,6 +114,7 @@ eigenständig und verantwortlich wahrnehmen zu können:
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000302128)
 
 (1) Zur Prüfung in den Prüfungsteilen „Wirtschaftsbezogene
 Qualifikationen“ oder „Technische Qualifikationen“ ist zuzulassen, wer
@@ -158,6 +161,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000402308)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -239,6 +243,7 @@ durchgeführt.
 
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000501308)
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen
 zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre
@@ -371,6 +376,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Technische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000600000)
 
 (1) Im Qualifikationsbereich "Naturwissenschaftliche und technische
 Grundlagen" soll die Fähigkeit, einschlägige naturwissenschaftliche
@@ -510,6 +516,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000701308)
 
 (1) Im Handlungsbereich "Absatz-, Materialwirtschaft und Logistik"
 soll die Fähigkeit, das absatzwirtschaftliche Instrumentarium anwenden
@@ -637,6 +644,7 @@ Die Prüfungsdauer beträgt mindestens 240, höchstens 300 Minuten.
 
 
 ## § 7 Weitere Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000802128)
 
 (1) Die zu prüfende Person kann beantragen, nach erfolgreichem
 Abschluss des Prüfungsteils "Handlungsspezifische Qualifikationen"
@@ -661,6 +669,7 @@ Qualifikation durch eine Prüfung gemäß § 6 Abs. 4 und 5 sowie § 7 Abs.
 
 
 ## § 8 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE000902128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -673,6 +682,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 9 Bewerten von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001002128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -717,6 +727,7 @@ wie folgt zu gewichten:
 
 
 ## § 10 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -794,6 +805,7 @@ ist die Gesamtnote.
 
 
 ## § 11 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001700128)
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -820,6 +832,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 12 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001101128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen
@@ -836,6 +849,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 13 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001203128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu
@@ -843,12 +857,14 @@ Ende geführt werden.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001301128)
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
 (zu den §§ 9 und 10)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001405128)
 
 (Fundstelle: BGBl. I 2019, 2401 – 2402)
 
@@ -1150,6 +1166,7 @@ Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 (zu § 11)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/techfachwprv/BJNR006600006.html#BJNR006600006BJNE001505128)
 
 (Fundstelle: BGBl. I 2019, 2402 – 2403)
 

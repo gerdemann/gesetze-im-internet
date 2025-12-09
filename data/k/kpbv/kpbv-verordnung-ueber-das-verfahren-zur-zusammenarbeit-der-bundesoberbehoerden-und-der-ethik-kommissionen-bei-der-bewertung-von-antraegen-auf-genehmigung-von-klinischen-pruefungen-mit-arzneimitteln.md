@@ -29,6 +29,7 @@ Stand: Die §§ 5 bis 12 sind gem. Art. 13 Abs. 2 u. 3 G v. 12.7.2017 I 2333 iVm
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000100000)
 
 Auf Grund des § 41b Absatz 1 des Arzneimittelgesetzes, der durch
 Artikel 1 Nummer 8 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
@@ -37,9 +38,11 @@ Gesundheit:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000202130)
 
 (1) Diese Verordnung regelt
 
@@ -87,9 +90,11 @@ Nr. 536/2014 entsprechend.
 
 
 ## Abschnitt 2 - Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNG000200000)
 
 
 ### § 2 Registrierungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000301130)
 
 Der Antrag auf Registrierung als Ethik-Kommission zur Teilnahme an dem
 Verfahren zur Bewertung eines Antrags auf Genehmigung einer klinischen
@@ -113,6 +118,7 @@ Kommission verlangen.
 
 
 ### § 3 Registrierungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000401130)
 
 (1) Die nach § 41a Absatz 3 Nummer 1 des Arzneimittelgesetzes für die
 Bewertung klinischer Prüfungen erforderliche aktuelle
@@ -189,9 +195,11 @@ Kommission vertraulich zu behandeln.
 
 
 ## Abschnitt 3 - Geschäftsverteilungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNG000300000)
 
 
 ### § 4 Geschäftsverteilungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000502130)
 
 (1) Der Geschäftsverteilungsplan legt die Reihenfolge fest, in der die
 registrierten Ethik-Kommissionen für die Bearbeitung eines Antrags auf
@@ -263,9 +271,11 @@ sicherstellt.
 
 
 ## Abschnitt 4 - Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNG000400000)
 
 
 ### § 5 Validierung
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000602130)
 
 (1) Die zuständige Ethik-Kommission gibt ihre Stellungnahme nach § 40
 Absatz 3 Satz 2 des Arzneimittelgesetzes oder ihre Bewertung nach § 40
@@ -307,6 +317,7 @@ Nr. 536/2014 ab.
 
 
 ### § 6 Prüfung der nach Artikel 6 der Verordnung (EU) Nr. 536/2014 in Teil I des Bewertungsberichts zu behandelnden Aspekte
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000702130)
 
 (1) Ist die Bundesrepublik Deutschland berichterstattender
 Mitgliedstaat der Europäischen Union und ist kein anderer
@@ -384,6 +395,7 @@ im Sinne von Artikel 6 Absatz 8 Unterabsatz 4 der Verordnung (EU) Nr.
 
 
 ### § 7 Prüfung der nach Artikel 7 der Verordnung (EU) Nr. 536/2014 in Teil II des Bewertungsberichts zu behandelnden Aspekte
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000802130)
 
 (1) Die zuständige Ethik-Kommission kann den Sponsor nach Artikel 7
 Absatz 2 Unterabsatz 2, Absatz 3 Unterabsatz 5 der Verordnung (EU) Nr.
@@ -413,6 +425,7 @@ das spätere Fristende.
 
 
 ### § 8 Hinzufügung eines zusätzlichen Mitgliedstaats der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE000901130)
 
 (1) Wünscht der Sponsor eine genehmigte klinische Prüfung nach Artikel
 14 der Verordnung (EU) Nr. 536/2014 auf die Bundesrepublik Deutschland
@@ -452,6 +465,7 @@ behandelnden Aspekten sowie eine entsprechende Begründung.
 
 
 ### § 9 Wesentliche Änderung einer klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001001130)
 
 (1) Die zuständige Ethik-Kommission gibt bei einem Antrag auf
 Genehmigung einer wesentlichen Änderung einer klinischen Prüfung nach
@@ -567,12 +581,14 @@ Bundesoberbehörde.
 
 
 ### § 10 Bewertungsverfahren nach Artikel 44 der Verordnung (EU) Nr. 536/2014
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001100000)
 
 Die zuständige Ethik-Kommission übermittelt ihre Bewertung nach § 40c
 Absatz 2 des Arzneimittelgesetzes an die zuständige Bundesoberbehörde.
 
 
 ### § 11 Korrekturmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001200000)
 
 Die zuständige Bundesoberbehörde informiert die zuständige Ethik-
 Kommission über beabsichtigte Korrekturmaßnahmen nach § 42 Absatz 2
@@ -584,9 +600,11 @@ zuständigen Bundesoberbehörde ab.
 
 
 ## Abschnitt 5 - Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNG000500000)
 
 
 ### § 12 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001303130)
 
 (1) Der zuständigen Ethik-Kommission stehen die nach dem in der Anlage
 3 enthaltenen Gebührenverzeichnis festgelegten Gebühren und
@@ -614,9 +632,11 @@ Entscheidend ist jeweils das spätere Ereignis.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNG000600000)
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001400000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.
@@ -631,12 +651,14 @@ Inkrafttretens nach Absatz 2 im Bundesgesetzblatt bekannt.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3)
 
 ### Anlage 1 Antragsbezogene Erklärung zu persönlichen und finanziellen Interessen (§ 41a Absatz 3 Nummer 7 des Arzneimittelgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001601130)
 
 (Fundstelle: BGBl. I 2017, 2339)
 
@@ -812,6 +834,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 3)
 
 ### Anlage 2 Jährliche Erklärung zu finanziellen Interessen (Artikel 9 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 536/2014)
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001701130)
 
 (Fundstelle: BGBl. I 2017, 2340 - 2342)
 
@@ -1337,6 +1360,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 12)
 
 ### Anlage 3 Verzeichnis über die Höhe der Gebühren der Ethik-Kommissionen
+[Direktlink](https://www.gesetze-im-internet.de/kpbv/BJNR233300017.html#BJNR233300017BJNE001802130)
 
 (Fundstelle: Fundstelle: BGBl. 2024 I Nr. 324, S. 27 – 28)
 

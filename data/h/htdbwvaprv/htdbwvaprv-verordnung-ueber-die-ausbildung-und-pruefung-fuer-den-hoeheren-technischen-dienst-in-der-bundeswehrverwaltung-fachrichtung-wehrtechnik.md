@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in
@@ -30,9 +31,11 @@ Verteidigung:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNG000100000)
 
 
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000301311)
 
 (1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige
 Verwendung in der Fachrichtung Wehrtechnik des höheren technischen
@@ -88,11 +91,13 @@ verpflichtet; das Selbststudium ist zu fördern.
 
 
 ### § 2 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000401311)
 
 Der Vorbereitungsdienst dauert in der Regel 18 Monate.
 
 
 ### § 3 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000501311)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse und Fähigkeiten einschränken, wird im
@@ -130,9 +135,11 @@ inhaltlichen Anforderungen herabgesetzt werden.
 
 
 ## Kapitel 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNG000201311)
 
 
 ### § 4 Einstellungsbehörde und personalbearbeitende Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000601311)
 
 (1) Einstellungsbehörde und personalbearbeitende Dienststelle ist das
 Bundesamt für das Personalmanagement der Bundeswehr.
@@ -147,6 +154,7 @@ Auswahl und Einstellung zuständig ist, auf eine nachgeordnete Behörde
 
 
 ### § 5 Beschäftigungsdienststelle
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000701311)
 
 Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das
 Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
@@ -154,6 +162,7 @@ Bundeswehr.
 
 
 ### § 6 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000801311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
@@ -177,6 +186,7 @@ vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
 
 ### § 7 Anforderungen im Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE000902311)
 
 (1) Die Eignung und Befähigung wird im Auswahlverfahren anhand von
 Eignungsmerkmale festgestellt.
@@ -205,6 +215,7 @@ Einsatz kann durch Informationstechnologie unterstützt werden.
 
 
 ### § 8 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001001311)
 
 (1) Die Einstellungsbehörde richtet eine Auswahlkommission ein. Bei
 Bedarf können mehrere Auswahlkommissionen eingerichtet werden. Die
@@ -232,6 +243,7 @@ nicht stimmberechtigt.
 
 
 ### § 8a Ergänzende Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004000311)
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -269,6 +281,7 @@ die bei Beginn des Auswahlverfahrens gilt.
 
 
 ### § 8b Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004100311)
 
 Das Auswahlverfahren besteht aus
 
@@ -282,6 +295,7 @@ Das Auswahlverfahren besteht aus
 
 
 ### § 8c Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004200311)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens sind höchstens vier
 der folgenden Auswahlinstrumente einzusetzen:
@@ -308,6 +322,7 @@ einen halben Arbeitstag.
 
 
 ### § 8d Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004300311)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
 den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
@@ -321,6 +336,7 @@ teilgenommen haben.
 
 
 ### § 8e Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004400311)
 
 (1) Im mündlichen Teil des Auswahlverfahrens sind höchstens vier der
 folgenden Auswahlinstrumente einzusetzen:
@@ -367,6 +383,7 @@ auch im mündlichen Teil des Auswahlverfahrens bewertet.
 
 
 ### § 8f Bewertung der Eignungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004500311)
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
 den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
@@ -380,6 +397,7 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
 ### § 8g Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004600311)
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
 Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
@@ -411,6 +429,7 @@ anderen Bewerbers liegende Gründe überwiegen.
 
 
 ### § 8h Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE004700311)
 
 (1) In den Vorbereitungsdienst für den höheren technischen Dienst in
 der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt
@@ -443,9 +462,11 @@ Auswahlverfahren.
 
 
 ## Kapitel 3 - Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNG000300000)
 
 
 ### § 9 Gliederung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001101311)
 
 (1) Der Vorbereitungsdienst gliedert sich in Lehrveranstaltungen und
 eine praktische Ausbildung. Im Einzelnen sind folgende
@@ -503,6 +524,7 @@ unterzogen.
 
 
 ### § 10 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001201311)
 
 Im Lehrgang „Aufgaben und Organisation der Bundeswehr und
 Statusfragen“ werden die Referendarinnen und Referendare mit den
@@ -531,6 +553,7 @@ Einzelheiten regelt der Lehrplan.
 
 
 ### § 11 Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001300000)
 
 Die Referendarinnen und Referendare werden bei verschiedenen
 Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und
@@ -542,6 +565,7 @@ Verteidigung erstellt.
 
 
 ### § 12 Lehrgänge „Bundeswehr und Sicherheitspolitik“, „Wirtschaftlichkeit im Projektmanagement“, „Technisches Projektmanagement“ und „Führungs- und Lenkungsaufgaben“
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001401311)
 
 (1) Im Lehrgang „Bundeswehr und Sicherheitspolitik“ wird den
 Referendarinnen und Referendaren ein Überblick über die Grundlagen der
@@ -578,6 +602,7 @@ wahrzunehmen. Einzelheiten regelt der Lehrplan.
 
 
 ### § 13 Lehrgang „Systemtechnik“
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001501311)
 
 Im Lehrgang „Systemtechnik“ werden den Referendarinnen und
 Referendaren die Grundlagen und Methoden vermittelt, die zur Umsetzung
@@ -590,6 +615,7 @@ wehrtechnischer Systeme vermittelt. Einzelheiten regelt der Lehrplan.
 
 
 ### § 14 Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001601311)
 
 Im Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“ wird
 das Wissen, das von den Referendarinnen und Referendaren im
@@ -599,10 +625,12 @@ Fachgebiete erweitert und vertieft. Einzelheiten regelt der Lehrplan.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001701311)
 
 
 
 ### § 16 Lehrgang „Rechtsgrundlagen in der Praxis“
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001800000)
 
 Den Referendarinnen und Referendaren werden die Rechts- und
 Verwaltungskenntnisse vermittelt, die für die spätere
@@ -612,6 +640,7 @@ sind. Einzelheiten regelt der Lehrplan.
 
 
 ### § 17 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE001901311)
 
 (1) In der praktischen Ausbildung sollen die Referendarinnen und
 Referendare Ihre Kenntnisse, die sie im Hochschulstudium erworben
@@ -658,6 +687,7 @@ den Referendarinnen und Referendaren nicht übertragen werden.
 
 
 ### § 18 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002002311)
 
 (1) Mit der Ausbildung darf nur betraut werden, wer über die
 erforderlichen Fähigkeiten und Kenntnisse verfügt und entsprechend
@@ -703,9 +733,11 @@ regelmäßig über den erreichten Ausbildungsstand.
 
 
 ## Kapitel 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNG000400000)
 
 
 ### § 19 Oberprüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002101311)
 
 (1) Das Oberprüfungsamt für das technische Referendariat beim
 Bundesministerium für Digitales und Verkehr führt die Große
@@ -737,6 +769,7 @@ Direktorin oder den Direktor bei der Wahrnehmung der Aufgaben.
 
 
 ### § 20 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002201311)
 
 (1) Für die schriftlichen Aufsichtsarbeiten, die Praxisarbeit und die
 mündliche Prüfung wird jeweils eine Prüfungskommission eingerichtet.
@@ -811,6 +844,7 @@ des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 ### § 21 Große Staatsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002301311)
 
 (1) In der Großen Staatsprüfung ist festzustellen, ob die
 Referendarinnen und Referendare für den höheren technischen
@@ -861,6 +895,7 @@ Bundesministeriums der Verteidigung bleiben hiervon unberührt.
 
 
 ### § 22 Prüfungsort, Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002400000)
 
 (1) Die Termine für die Aushändigung und Präsentation der Praxisarbeit
 werden von der Ausbildungsleitung nach Maßgabe des § 24 festgesetzt.
@@ -872,6 +907,7 @@ Referendare hierüber rechtzeitig informiert werden.
 
 
 ### § 23 Schriftliche Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002502311)
 
 (1) Durch die schriftlichen Aufsichtsarbeiten sollen die
 Referendarinnen und Referendare zeigen, dass sie Aufgaben aus dem
@@ -941,6 +977,7 @@ Monate nach dem Prüfungstag schriftlich bekannt.
 
 
 ### § 24 Praxisarbeit
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002602311)
 
 (1) Die Praxisarbeit soll erkennen lassen, dass die Referendarin oder
 der Referendar zur selbständigen Bearbeitung von und zur Mitarbeit an
@@ -996,6 +1033,7 @@ verlangen, dass ihr oder ihm die Arbeit überlassen wird.
 
 
 ### § 25 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002700000)
 
 (1) Das Oberprüfungsamt lässt Referendarinnen und Referendare zur
 mündlichen Prüfung zu, wenn die Aufsichtsarbeiten und die Praxisarbeit
@@ -1008,6 +1046,7 @@ rechtzeitig vor der mündlichen Prüfung mit.
 
 
 ### § 26 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002802311)
 
 (1) In der mündlichen Prüfung sollen die Referendarinnen und
 Referendare neben dem speziellen wehrtechnischen Wissen und Können in
@@ -1042,6 +1081,7 @@ schriftlich oder elektronisch zu dokumentieren.
 
 
 ### § 27 Verhinderung, Rücktritt, Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE002900000)
 
 (1) Wer durch eine Erkrankung oder sonstige nicht von ihm zu
 vertretende Umstände an der Prüfung oder an Teilen der Prüfung nicht
@@ -1068,6 +1108,7 @@ die gesamte Prüfung für nicht bestanden erklärt wird.
 
 
 ### § 28 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003000000)
 
 (1) Referendarinnen oder Referendaren, die bei den Aufsichtsarbeiten,
 der Praxisarbeit oder in der mündlichen Prüfung täuschen, eine
@@ -1106,6 +1147,7 @@ den Absätzen 2 bis 4 zu hören.
 
 
 ### § 29 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003100000)
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten
 bewertet:
@@ -1269,6 +1311,7 @@ wie folgt zugeordnet:
 
 
 ### § 30 Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003201116)
 
 (1) Die Große Staatsprüfung ist bestanden, wenn jeder Prüfungsteil
 nach § 21 Absatz 2 mindestens mit „ausreichend (5 Rangpunkte oder
@@ -1322,6 +1365,7 @@ elektronisch zu dokumentieren.
 
 
 ### § 31 Zeugnisse, Ende des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003300000)
 
 (1) Das Oberprüfungsamt erteilt den Referendarinnen und Referendaren,
 die die Prüfung bestanden haben, einen schriftlichen Bescheid über das
@@ -1351,6 +1395,7 @@ Ausbildung und die Ausbildungsinhalte umfasst.
 
 
 ### § 32 Erwerb der Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003400000)
 
 Mit Bestehen der Großen Staatsprüfung erwerben die Referendarinnen und
 Referendare die Befähigung für den höheren technischen
@@ -1359,6 +1404,7 @@ Verwaltungsdienst. Sie sind berechtigt, die Berufsbezeichnung
 
 
 ### § 33 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003500000)
 
 (1) Eine Ausfertigung des Prüfungszeugnisses ist mit den
 Aufsichtsarbeiten, der Dokumentation der Praxisarbeit und der
@@ -1375,6 +1421,7 @@ Prüfungsakten nehmen.
 
 
 ### § 34 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003601311)
 
 (1) Wer Prüfungsteile nicht bestanden hat, kann diese innerhalb von
 drei Monaten nach Mitteilung des Ergebnisses einmal wiederholen; das
@@ -1392,9 +1439,11 @@ zum Ablauf der Wiederholungsfrist verlängert.
 
 
 ## Kapitel 5 - Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNG000500000)
 
 
 ### § 35 Aufstiegsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003701311)
 
 (1) Die Einstellungsbehörde gibt in einer Ausschreibung die
 Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren
@@ -1411,9 +1460,11 @@ nach § 39 Absatz 3 der Bundeslaufbahnverordnung.
 
 
 ## Kapitel 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNG000600000)
 
 
 ### § 36 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003801311)
 
 Die Verordnung über die Ausbildung und Prüfung für den höheren
 technischen Dienst in der Bundeswehrverwaltung – Fachrichtung
@@ -1433,6 +1484,7 @@ worden ist, ist weiter anzuwenden
 
 
 ### § 37 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/htdbwvaprv/BJNR036600010.html#BJNR036600010BJNE003900000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Dezember 2009 in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und

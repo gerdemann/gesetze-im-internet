@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zstbfdv/BJNR150300011.html#BJNR150300011BJNE000100000)
 
 Auf Grund des § 7 Absatz 1 Satz 3 des Bundesfreiwilligendienstgesetzes
 vom 28. April 2011 (BGBl. I S. 687) verordnet das Bundesministerium
@@ -28,6 +29,7 @@ für Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Durchführungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/zstbfdv/BJNR150300011.html#BJNR150300011BJNE000201116)
 
 (1) Die Mindestanforderungen an eine Zentralstelle des
 Bundesfreiwilligendienstes erfüllt, wer den Bundesfreiwilligendienst
@@ -72,6 +74,7 @@ Freiwilligen entspricht, durchgeführt hat.
 
 
 ## § 2 Erreichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/zstbfdv/BJNR150300011.html#BJNR150300011BJNE000301116)
 
 Zentralstelle kann nur sein, wer seine Erreichbarkeit sicherstellt.
 Eine Zentralstelle, die den Anforderungen des § 1 Absatz 1 genügt,
@@ -83,6 +86,7 @@ erreichbar sein.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zstbfdv/BJNR150300011.html#BJNR150300011BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

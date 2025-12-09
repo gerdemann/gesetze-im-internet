@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000100326)
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und Abs. 2 Nr. 3, der §§ 3, 5 Abs. 1,
 des § 19 Abs. 8 und des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes
@@ -30,6 +31,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000200326)
 
 Zweck dieser Verordnung ist es, sicherzustellen, daß in einem
 Verteidigungsfall sowie in einer Zeit, in der die
@@ -41,6 +43,7 @@ erbracht werden können.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000304305)
 
 (1) Luftfahrzeuge, die in die Luftfahrzeugrolle (§ 2 Abs. 1 des
 Luftverkehrsgesetzes) eingetragen sind, dürfen im Luftverkehr nur noch
@@ -83,6 +86,7 @@ außerhalb des Geltungsbereichs dieser Verordnung in das Bundesgebiet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000403305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 durch Rechtsverordnung
@@ -101,6 +105,7 @@ durch Rechtsverordnung
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000500326)
 
 Die oberste Landesverkehrsbehörde kann einen Flugplatzhalter
 verpflichten, regelmäßig oder unter bestimmten Voraussetzungen
@@ -111,6 +116,7 @@ Verkehrsleistungen zu erstatten. Dazu gehören insbesondere Angaben
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000603305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann ein
 nach § 20 Abs. 1 oder § 21 Abs. 1 des Luftverkehrsgesetzes genehmigtes
@@ -122,6 +128,7 @@ Luftfahrzeuge.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000700326)
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -151,6 +158,7 @@ nach Absatz 1 Nr. 3 die oberste Landesverkehrsbehörde.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/luftverksiv/BJNR023890979.html#BJNR023890979BJNE000803305)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

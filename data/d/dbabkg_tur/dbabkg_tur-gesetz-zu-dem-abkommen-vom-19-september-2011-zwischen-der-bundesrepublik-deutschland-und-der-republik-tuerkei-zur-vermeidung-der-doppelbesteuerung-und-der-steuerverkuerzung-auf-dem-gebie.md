@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_tur/BJNR052620012.html#BJNR052620012BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_tur/BJNR052620012.html#BJNR052620012BJNE000200000)
 
 Dem in Berlin am 19. September 2011 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Türkei zur Vermeidung
@@ -34,6 +36,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_tur/BJNR052620012.html#BJNR052620012BJNE000300000)
 
 Soweit das Abkommen auf Grund seines Artikels 30 Absatz 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -50,6 +53,7 @@ der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_tur/BJNR052620012.html#BJNR052620012BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

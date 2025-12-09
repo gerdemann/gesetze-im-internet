@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die §§ 1 bis 9 einschließlich der Anlagen zu dieser Verordnung treten am 1. Januar 2013 in Kraft und treten mit Ablauf des 31. Dezember 2013 außer Kraft. Kann der Entgeltkatalog 2014 erst nach dem 1. Januar 2014 angewendet werden, sind die §§ 1 bis 9 einschließlich der Anlagen zu dieser Verordnung bis zum Inkrafttreten einer Vereinbarung nach § 17d Absatz 3 des Krankenhausfinanzierungsgesetzes entsprechend weiter anzuwenden.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/peppv_2013/BJNR230300012.html#BJNR230300012BJNE000100000)
 
 Auf Grund des § 17d Absatz 6 Satz 1 Nummer 1 des
 Krankenhausfinanzierungsgesetzes vom 10. April 1991 (BGBl. I S. 886),
@@ -28,10 +29,12 @@ Gesundheit:
 
 
 ## (XXXX) §§ 1 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/peppv_2013/BJNR230300012.html#BJNR230300012BJNE002001311)
 
 
 
 ## § 10 Vorschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/peppv_2013/BJNR230300012.html#BJNR230300012BJNE001100000)
 
 Für die Entwicklung des Entgeltkatalogs 2014 hat das Institut für das
 Entgeltsystem im Krankenhaus in Abstimmung mit dem Bundesministerium
@@ -43,6 +46,7 @@ allen Beteiligten offen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/peppv_2013/BJNR230300012.html#BJNR230300012BJNE001200000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.
@@ -57,5 +61,6 @@ entsprechend weiter anzuwenden.
 
 
 ## (XXXX) Anlagen 1a bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/peppv_2013/BJNR230300012.html#BJNR230300012BJNE002101311)
 
 

@@ -17,11 +17,13 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/frhfemd_kielaufhg/BJNR171300009.html#BJNR171300009BJNE000100000)
 
 Die Freihäfen Emden und Kiel werden aufgehoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/frhfemd_kielaufhg/BJNR171300009.html#BJNR171300009BJNE000200000)
 
 Dieses Gesetz tritt am 1. Januar 2010 in Kraft. Gleichzeitig treten
 das Gesetz zur Änderung der Grenze des Freihafens Emden vom 19.

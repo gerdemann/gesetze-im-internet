@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pvaufhano/DDNR212690990.html#DDNR212690990BJNE000100314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pvaufhano/DDNR212690990.html#DDNR212690990BJNE000200314)
 
 (1) Die bestehenden Verträge zu freiwilligen Personenversicherungen
 der Bürger werden auf der Grundlage der bisherigen
@@ -39,6 +41,7 @@ nicht auf seiten der Unruhestifter teilgenommen hat.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/pvaufhano/DDNR212690990.html#DDNR212690990BJNE000300314)
 
 Der Versicherungsnehmer und der Versicherer können den
 Versicherungsvertrag zum Ende des Beitragszeitraumes schriftlich
@@ -50,11 +53,13 @@ Rentenversicherungen besteht kein Kündigungsrecht des Versicherers.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/pvaufhano/DDNR212690990.html#DDNR212690990BJNE000400314)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pvaufhano/DDNR212690990.html#DDNR212690990BJNE000500314)
 
 **Geschäftsführender Minister der Finanzen**
 

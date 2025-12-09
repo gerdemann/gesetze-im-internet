@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000100314)
 
 Auf Grund
 
@@ -69,6 +70,7 @@ verordnet der Bundesminister für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000200314)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1992 an 42,63 Deutsche
 Mark.
@@ -78,6 +80,7 @@ Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000300314)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 1992 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung für Arbeitsunfälle
@@ -91,6 +94,7 @@ Anpassungsfaktor beträgt 1,1273.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000400314)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 1992 an
@@ -109,6 +113,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung in der Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000500314)
 
 Die in § 4 Abs. 1 Satz 1 des Gesetzes über eine Altershilfe für
 Landwirte bestimmten Beträge für das Altersgeld und das vorzeitige
@@ -124,6 +129,7 @@ Altersgeld betragen vom 1. Juli 1992 an
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000600314)
 
 Die Angleichungsfaktoren zur Ermittlung des Wertes von
 angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a
@@ -181,6 +187,7 @@ Entscheidung über den Versorgungsausgleich in der Zeit vom 1. Juli
 
 
 ## § 6 Grenzbeträge für die Zahlung eines Sozialzuschlags
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000700314)
 
 Die in § 2 Abs. 1 Nr. 1 und 2 des Gesetzes zur Zahlung eines
 Sozialzuschlags zu Renten im Beitrittsgebiet bestimmten Beträge
@@ -196,11 +203,13 @@ betragen vom 1. Juli 1992 an
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000800314)
 
 Diese Verordnung tritt am 1. Juli 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1992/BJNR010170992.html#BJNR010170992BJNE000900314)
 
 Der Bundesrat hat zugestimmt.
 

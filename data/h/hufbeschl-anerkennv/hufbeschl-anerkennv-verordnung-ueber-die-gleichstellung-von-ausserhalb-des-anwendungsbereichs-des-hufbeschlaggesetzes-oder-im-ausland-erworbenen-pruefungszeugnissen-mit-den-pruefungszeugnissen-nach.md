@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000100000)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz verordnet
@@ -45,6 +46,7 @@ Verbraucherschutz verordnet
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000200000)
 
 (1) Diese Verordnung regelt die Gleichstellung von außerhalb des
 Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen
@@ -60,6 +62,7 @@ Hufbeschlaggesetzes vom 19. April 2006 (BGBl. I S. 900).
 
 
 ## § 2 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000300000)
 
 (1) Die Anerkennung von außerhalb des Anwendungsbereichs des
 Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen
@@ -130,6 +133,7 @@ Fertigkeiten auszugehen.
 
 
 ## § 3 Staatliche Anerkennung als Hufbeschlagschmied/als Hufbeschlagschmiedin
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000400000)
 
 (1) Der Antrag auf die staatliche Anerkennung als
 Hufbeschlagschmied/als Hufbeschlagschmiedin ist an die nach
@@ -156,6 +160,7 @@ Hufbeschlagverordnung auszustellen.
 
 
 ## § 4 Staatliche Anerkennung als Hufbeschlaglehrschmied/als Hufbeschlaglehrschmiedin
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000500000)
 
 (1) Der Antrag auf die staatliche Anerkennung als
 Hufbeschlaglehrschmied/als Hufbeschlaglehrschmiedin ist an die nach
@@ -182,6 +187,7 @@ Hufbeschlagverordnung auszustellen.
 
 
 ## § 5 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000600000)
 
 (1) Die zuständige Behörde bestätigt der Antrag stellenden Person
 binnen eines Monats den Empfang der Unterlagen und teilt dabei mit, ob
@@ -206,6 +212,7 @@ anzuwenden.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000700000)
 
 Deutschen Staatsangehörigen, die vor dem 18. März 2009 eine Prüfung im
 Sinne des § 2 Absatz 2 abgelegt haben, ist durch die nach Landesrecht
@@ -217,17 +224,20 @@ Im Übrigen gilt § 2 Absatz 1.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Absatz 2)
 
 ## Anlage 1 Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE001000000)
 
 (Fundstelle: BGBl. I 2009, 488 - 489)
 
@@ -441,6 +451,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 2 Absatz 3)
 
 ## Anlage 2 Der Prüfung gemäß Abschnitt 3 der Hufbeschlagverordnung (Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschl-anerkennv/BJNR048500009.html#BJNR048500009BJNE001100000)
 
 (Fundstelle: BGBl. I 2009, 490)
 

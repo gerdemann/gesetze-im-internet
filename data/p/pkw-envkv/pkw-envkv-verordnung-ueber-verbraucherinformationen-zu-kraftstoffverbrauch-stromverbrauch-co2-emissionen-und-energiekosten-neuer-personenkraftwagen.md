@@ -30,6 +30,7 @@ Nr. L 12 S. 16), zuletzt geändert durch die Verordnung (EG) Nr.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000100000)
 
 Auf Grund des § 1 Abs. 1 Nr. 1 in Verbindung mit § 1 Abs. 2 und 3 Nr.
 1 und 3 bis 5 des Energieverbrauchskennzeichnungsgesetzes vom 30.
@@ -41,6 +42,7 @@ Reaktorsicherheit:
 
 
 ## § 1 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000202128)
 
 (1) Stellt ein Hersteller oder ein Händler einen neuen
 Personenkraftwagen aus, bietet ihn zum Kauf, zur Langzeitmiete oder
@@ -156,6 +158,7 @@ zur Aufhebung der Richtlinie 2007/46/EG (ABl. L 151 vom 14.6.2018, S.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000302128)
 
 (1) Im Sinne dieser Verordnung
 
@@ -465,6 +468,7 @@ Kraftstoffverbrauchswert oder Stromverbrauchswert „Innenstadt“,
 Hinweis über den Energieverbrauch und die CO
 
 ## § 3 -Emissionen sowie Aushang am Verkaufsort
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000402128)
 
 (1) Wer einen neuen Personenkraftwagen an einem Verkaufsort ausstellt
 oder zum Kauf, zur Langzeitmiete oder zum Leasing anbietet, hat
@@ -547,6 +551,7 @@ handelt.
 Zuweisung zu einer CO
 
 ## § 3a -Klasse
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001602128)
 
 (1) Der Hersteller muss neue Personenkraftwagen entsprechend der Höhe
 der kombinierten CO
@@ -614,6 +619,7 @@ Personenkraftwagens ergibt.
 Leitfaden zum Energieverbrauch und zu den CO
 
 ## § 4 -Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000505128)
 
 (1) Die Hersteller müssen eine Stelle bestimmen, die einen Leitfaden
 zum Energieverbrauch und zu den CO
@@ -754,6 +760,7 @@ unterschiedlicher Kennzahlen verschiedenen CO
 
 
 ## § 5 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000602128)
 
 (1) Hersteller und Händler, die Werbeschriften erstellen, erstellen
 lassen, weitergeben oder auf andere Weise verwenden, haben
@@ -797,6 +804,7 @@ Anwendung.
 
 
 ## § 6 Verbot missbräuchlicher Verwendung von Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000702128)
 
 Es ist verboten, in Hinweisen und Aushängen, im Leitfaden, in
 Werbeschriften und in Werbematerialien Angaben, Zeichen oder Symbole
@@ -826,6 +834,7 @@ solche abweichenden Angaben, Zeichen, oder Symbole geeignet sind,
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000803128)
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des
 Energieverbrauchskennzeichnungsgesetzes handelt, wer vorsätzlich oder
@@ -857,6 +866,7 @@ fahrlässig
 
 
 ## § 8 Auskunftspflicht des Herstellers gegenüber den Marktüberwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001800128)
 
 Auf Nachfrage der zuständigen Marktüberwachungsbehörden muss der
 Hersteller ihnen zu allen Modellen, die zum Zeitpunkt der Nachfrage in
@@ -883,6 +893,7 @@ bereitgestellt werden.
 
 
 ## § 9 Übergangsregelungen zur Weiterverwendung von Werbematerial
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE000901128)
 
 (1) Werbung im Internet kann noch bis zum 1. Mai 2024 nach den
 Anforderungen dieser Verordnung in der bis zum 22. Februar 2024
@@ -900,6 +911,7 @@ geschaltet wurde.
 
 
 ## § 10 Weitere Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001701128)
 
 (1) Hinweise nach § 3 Absatz 1 Satz 1 Nummer 1 und Aushänge nach § 3
 Absatz 1 Satz 1 Nummer 2 können bis zum 1. Mai 2024 noch den
@@ -912,6 +924,7 @@ geltenden Fassung entsprechen.
 
 
 ## § 11 Weiterentwicklung der Pkw-Energieverbrauchskennzeichnungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001900128)
 
 (1) Nach dem 22. Februar 2024 überprüft das Bundesministerium für
 Wirtschaft und Klimaschutz diese Verordnung. Die Überprüfung erfolgt
@@ -956,12 +969,14 @@ Verordnung vor.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001101128)
 
 Der Bundesrat hat zugestimmt.
 
 Hinweis über den Energieverbrauch und die CO
 
 ## Anlage 1 -Emissionen neuer Personenkraftwagen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001203128)
 
 (Fundstelle: BGBl. I 2024 I Nr. 50, S. 9 - 17)
 
@@ -1357,6 +1372,7 @@ Kraftstoffkombinationen. Die Abbildungen sind verkleinert dargestellt.
 Aushang am Verkaufsort über den Energieverbrauch und die CO
 
 ## Anlage 2 -Emissionen neuer Personenkraftwagen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001302128)
 
 (Fundstelle: BGBl. I 2004, 1042;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1578,6 +1594,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 Leitfaden über den Energieverbrauch und die CO
 
 ## Anlage 3 -Emissionen neuer Personenkraftwagen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001402128)
 
 (Fundstelle: BGBl. I 2004, 1043;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -1778,6 +1795,7 @@ Der Leitfaden über den Energieverbrauch und die CO
 Angaben in der Werbung über den Energieverbrauch und die CO
 
 ## Anlage 4 -Emissionen von neuen Personenkraftwagen
+[Direktlink](https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html#BJNR103700004BJNE001502128)
 
 (Fundstelle: BGBl. I 2004, 1044;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

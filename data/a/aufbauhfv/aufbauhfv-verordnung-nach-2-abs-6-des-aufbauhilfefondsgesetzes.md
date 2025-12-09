@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000100000)
 
 Auf Grund des § 2 Abs. 6 des Aufbauhilfefondsgesetzes vom 19.
 September 2002 (BGBl. I S. 3651, 3652) verordnet die Bundesregierung:
 
 
 ## § 1 Mittelverteilung
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000200000)
 
 (1) Die dem Fonds nach § 4 Abs. 2 des Aufbauhilfefondsgesetzes
 zugewiesenen Mittel verteilen sich nach folgenden Maßgaben:
@@ -126,6 +128,7 @@ Aufbauhilfefondsgesetzes aufzustellenden Wirtschaftsplans.
 
 
 ## § 2 Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000300000)
 
 (1) Nach der Verteilung der Mittel des Fonds im Rahmen seines
 Wirtschaftsplans obliegt die Entscheidung über die Verwendung der
@@ -197,6 +200,7 @@ alle selbständig ausgeübten beruflichen Betätigungen.
 
 
 ## § 3 Zweckentsprechende Mittelverwendung, Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000400000)
 
 (1) Die Länder sind für die bestimmungsgemäße Verwendung der Mittel
 des Fonds verantwortlich, soweit nicht der Bund für seine eigenen aus
@@ -246,6 +250,7 @@ Ausgabetiteln des Wirtschaftsplans des Fonds zu.
 
 
 ## § 4 Mittelanforderung
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000500000)
 
 (1) Soweit nicht der Bund eigene Maßnahmen und Programme aus den
 Fondsmitteln zu finanzieren hat und unbeschadet der Regelung des § 4
@@ -260,6 +265,7 @@ unverzüglich an den Fonds zurückzuzahlen.
 
 
 ## § 5 Liquidität des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000600000)
 
 Die Liquidität des Fonds ist durch den Bund auf seine Kosten
 sicherzustellen. Eine Zwischenanlage eventuell überschießender Mittel
@@ -267,6 +273,7 @@ zugunsten des Fonds erfolgt nicht.
 
 
 ## § 6 Fondsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000700000)
 
 Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen;
 dieses stellt den erforderlichen Wirtschaftsplan zu seiner
@@ -274,11 +281,13 @@ Bewirtschaftung auf.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000800000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/aufbauhfv/BJNR096200003.html#BJNR096200003BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

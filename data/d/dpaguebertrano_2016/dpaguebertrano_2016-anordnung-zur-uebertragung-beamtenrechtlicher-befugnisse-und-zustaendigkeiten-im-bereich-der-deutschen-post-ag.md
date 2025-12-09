@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000100000)
 
 Der Vorstand der Deutschen Post AG ordnet nach
 
@@ -73,6 +74,7 @@ an:
 
 
 ## § 1 Befugnisse im Bereich des allgemeinen Beamtenrechts
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000200000)
 
 Den Leiterinnen oder Leitern der selbstständigen Niederlassungen, der
 Service Niederlassungen und der Geschäftsbereiche Vertrieb sowie bei
@@ -103,6 +105,7 @@ Befugnis übertragen,
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000301311)
 
 Der Service Niederlassung Post & Paket in Darmstadt wird die Befugnis
 übertragen, von der Rückforderung zu viel gezahlter Bezüge aus
@@ -111,6 +114,7 @@ Betrag von ursprünglich 5 000 Euro nicht übersteigt.
 
 
 ## § 3 Zuständigkeit für den Erlass von beamtenrechtlichen Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000401311)
 
 (1) Die Zuständigkeit für den Erlass von beamtenrechtlichen
 Widerspruchsbescheiden im Bereich der Deutschen Post AG wird den
@@ -127,6 +131,7 @@ Umzugskostenrechts der Service Niederlassung Post & Paket in Darmstadt
 
 
 ## § 4 Befugnis zur Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000500000)
 
 Die Befugnis zur Vertretung des Dienstherrn bei Klagen aus dem
 Beamtenverhältnis im Bereich der Deutschen Post AG wird den
@@ -137,6 +142,7 @@ Widerspruchsbescheiden zuständig sind.
 
 
 ## § 5 Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000602311)
 
 (1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß, zur
 Zurückstufung und zur Entfernung aus dem Beamtenverhältnis werden den
@@ -150,6 +156,7 @@ Post & Paket in Darmstadt übertragen.
 
 
 ## § 6 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000700000)
 
 Der Vorstand der Deutschen Post AG behält sich vor, die übertragenen
 Befugnisse im Einzelfall oder in bestimmten Gruppen von Fällen und in
@@ -157,6 +164,7 @@ jedem Stadium des Verfahrens selbst wahrzunehmen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dpag_bertrano_2016/BJNR218900015.html#BJNR218900015BJNE000800000)
 
 Diese Anordnung tritt am 1. Januar 2016 in Kraft. Gleichzeitig treten
 die Anordnung zur Übertragung beamtenrechtlicher Befugnisse im Bereich

@@ -23,6 +23,7 @@ Die geltung der v ist durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000208305)
 
 Abweichend von § 18 Abs. 5 Nr. 1 der Straßenverkehrs-Ordnung beträgt
 auf Autobahnen (Zeichen 330.1) und Kraftfahrstraßen (Zeichen 331.1)
@@ -151,6 +152,7 @@ gesichert niedergelegt."
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000304308)
 
 Der Bestätigung eines amtlich anerkannten Sachverständigen oder
 Prüfers oder eines Prüfingenieurs einer amtlich anerkannten
@@ -167,6 +169,7 @@ auf Verlangen zur Prüfung ausgehändigt wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000404308)
 
 Die Reifen des Anhängers müssen zum Zeitpunkt der jeweiligen Fahrt,
 erkennbar am eingeprägten Herstellungsdatum, jünger als sechs Jahre
@@ -175,6 +178,7 @@ gekennzeichnet sein.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000503308)
 
 Die Stützlast der Kombination ist an der größtmöglichen Stützlast des
 Zugfahrzeugs oder des Anhängers zu orientieren, wobei als Obergrenze
@@ -182,12 +186,14 @@ in jedem Fall der kleinere Wert gilt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000801308)
 
 Die Ausführung der großen Tempo-100 km/h-Plakette nach § 1 Nr. 4
 bestimmt sich nach § 58 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000901308)
 
 Bei allen Veränderungen, die dazu führen, dass den Anforderungen
 dieser Verordnung nicht mehr entsprochen wird, richtet sich die
@@ -195,6 +201,7 @@ zulässige Höchstgeschwindigkeit nach der Straßenverkehrs-Ordnung.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE001001308)
 
 Bescheinigungen, die nach § 1 Nr. 5 in der bis zum 21. Oktober 2005
 geltenden Fassung ausgestellt worden sind, behalten in Bezug auf die
@@ -203,6 +210,7 @@ Gültigkeit.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_9/BJNR317100998.html#BJNR317100998BJNE000604308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

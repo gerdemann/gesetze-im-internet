@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)
 
 ## Kapitel 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000202123)
 
 (1) Dieses Gesetz ist anzuwenden auf Investmentfonds und deren
 Anleger.
@@ -92,6 +94,7 @@ eigenständige Investmentfonds.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000304123)
 
 (1) Die Begriffsbestimmungen des Kapitalanlagegesetzbuchs gelten
 entsprechend, soweit sich keine abweichenden Begriffsbestimmungen aus
@@ -324,6 +327,7 @@ Personengesellschaften geltenden Regelungen anzuwenden.
 
 
 ### § 3 Gesetzlicher Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000400000)
 
 (1) Die Rechte und Pflichten eines Investmentfonds nach diesem Gesetz
 sind von dem gesetzlichen Vertreter des Investmentfonds wahrzunehmen
@@ -350,6 +354,7 @@ gesetzlicher Vertreter nachgewiesen wird.
 
 
 ### § 4 Zuständige Finanzbehörden, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000501123)
 
 (1) Für die Besteuerung von Investmentfonds ist das Finanzamt örtlich
 zuständig, in dessen Bezirk sich die Geschäftsleitung des gesetzlichen
@@ -387,6 +392,7 @@ mehreren anderen Finanzbehörden übertragen.
 
 
 ### § 5 Prüfung der steuerlichen Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000600000)
 
 (1) Die zuständige Finanzbehörde ist zur Überprüfung der steuerlichen
 Verhältnisse befugt.
@@ -409,6 +415,7 @@ Die §§ 194 bis 203 der Abgabenordnung sind entsprechend anzuwenden.
 
 
 ### § 5a Übertragung von Wirtschaftsgütern in einen Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000700000)
 
 Werden ein oder mehrere Wirtschaftsgüter aus dem Betriebsvermögen
 eines Anlegers in das Vermögen eines Investmentfonds übertragen, so
@@ -421,12 +428,15 @@ ausgegeben werden.
 
 
 ## Kapitel 2 - Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000200000)
 
 
 ### Abschnitt 1 - Besteuerung des Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000300000)
 
 
 #### § 6 Körperschaftsteuerpflicht eines Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000803123)
 
 (1) Inländische Investmentfonds gelten als Zweckvermögen nach § 1
 Absatz 1 Nummer 5 des Körperschaftsteuergesetzes und sind unbeschränkt
@@ -533,6 +543,7 @@ Einkommensteuergesetzes ist sinngemäß anzuwenden.
 
 
 #### § 7 Erhebung der Kapitalertragsteuer gegenüber Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE000901123)
 
 (1) Bei Einkünften nach § 6 Absatz 2, die einem Steuerabzug
 unterliegen, beträgt die Kapitalertragsteuer 15 Prozent des
@@ -584,6 +595,7 @@ bereits erteilten Steuerbescheinigung erfolgen.
 
 
 #### § 8 Steuerbefreiung aufgrund steuerbegünstigter Anleger
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001002123)
 
 (1) Einkünfte nach § 6 Absatz 2 sind auf Antrag des Investmentfonds
 steuerbefreit, soweit
@@ -653,6 +665,7 @@ Nummer 1 oder Absatz 2 setzt voraus, dass
 
 
 #### § 9 Nachweis der Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001100000)
 
 (1) Die Steuerbefreiung nach § 8 Absatz 1 Nummer 1 ist nachzuweisen
 durch
@@ -695,6 +708,7 @@ erworben oder veräußert wurden.
 
 
 #### § 10 Investmentfonds oder Anteilklassen für steuerbegünstigte Anleger; Nachweis der Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001202123)
 
 (1) Investmentfonds oder Anteilklassen sind steuerbefreit, wenn sich
 nach den Anlagebedingungen nur steuerbegünstigte Anleger nach § 8
@@ -741,6 +755,7 @@ Absatz 4 des Einkommensteuergesetzes ist entsprechend anzuwenden.
 
 
 #### § 11 Erstattung von Kapitalertragsteuer an Investmentfonds durch die Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001302123)
 
 (1) Das Betriebsstättenfinanzamt des Entrichtungspflichtigen erstattet
 auf Antrag des Investmentfonds die einbehaltene Kapitalertragsteuer,
@@ -787,6 +802,7 @@ innerhalb der Antragsfrist eingereicht werden.
 
 
 #### § 12 Leistungspflicht gegenüber steuerbegünstigten Anlegern
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001400000)
 
 (1) Der Investmentfonds hat den steuerbegünstigten Anlegern einen
 Betrag in Höhe der aufgrund der §§ 8 und 10 nicht erhobenen Steuer und
@@ -805,6 +821,7 @@ werden, im Verhältnis zum Gesamtzufluss.
 
 
 #### § 13 Wegfall der Steuerbefreiung eines Anlegers
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001500000)
 
 (1) Fallen die Voraussetzungen für eine Steuerbefreiung eines Anlegers
 eines Investmentfonds oder einer Anteilklasse nach § 10 weg, so ist
@@ -835,6 +852,7 @@ Entrichtungspflichtigen zu zahlen.
 
 
 #### § 14 Haftung bei unberechtigter Steuerbefreiung oder -erstattung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001600000)
 
 (1) Der Anleger nach § 8 Absatz 1 oder 2, der zum Zeitpunkt des
 Zuflusses der Einnahmen bei dem Investmentfonds die Voraussetzungen
@@ -906,6 +924,7 @@ Basisrentenvertrags ausgeschlossen oder uneinbringlich ist.
 
 
 #### § 15 Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001701123)
 
 (1) Investmentfonds gelten als sonstige juristische Personen des
 privaten Rechts nach § 2 Absatz 3 des Gewerbesteuergesetzes.
@@ -939,9 +958,11 @@ Gewerbesteuergesetzes zur Ermittlung des Gewerbeertrags.
 
 
 ### Abschnitt 2 - Besteuerung des Anlegers eines Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000400000)
 
 
 #### § 16 Investmenterträge
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001800000)
 
 (1) Erträge aus Investmentfonds (Investmenterträge) sind
 
@@ -1005,6 +1026,7 @@ nicht von ihr befreit ist.
 
 
 #### § 17 Erträge bei Abwicklung eines Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE001902123)
 
 (1) Während der Abwicklung eines Investmentfonds gelten Ausschüttungen
 eines Kalenderjahres insoweit als steuerfreie Kapitalrückzahlung, wie
@@ -1031,6 +1053,7 @@ mindern.
 
 
 #### § 18 Vorabpauschale
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002001377)
 
 (1) Die Vorabpauschale ist der Betrag, um den die Ausschüttungen eines
 Investmentfonds innerhalb eines Kalenderjahres den Basisertrag für
@@ -1059,6 +1082,7 @@ im Bundessteuerblatt.
 
 
 #### § 19 Gewinne aus der Veräußerung von Investmentanteilen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002101123)
 
 (1) Für die Ermittlung des Gewinns aus der Veräußerung von
 Investmentanteilen, die nicht zu einem Betriebsvermögen gehören, ist §
@@ -1127,6 +1151,7 @@ zu erheben.
 
 
 #### § 20 Teilfreistellung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002204123)
 
 (1) Steuerfrei sind bei Aktienfonds 30 Prozent der Erträge
 (Aktienteilfreistellung). Bei natürlichen Personen, die ihre
@@ -1208,6 +1233,7 @@ Gewerbesteuergesetzes sind die Freistellungen nach den Absätzen 1 bis
 
 
 #### § 21 Anteilige Abzüge aufgrund einer Teilfreistellung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002300000)
 
 Betriebsvermögensminderungen, Betriebsausgaben, Veräußerungskosten
 oder Werbungskosten, die mit den Erträgen aus Aktien-, Misch- oder
@@ -1226,6 +1252,7 @@ Immobilienfonds ausreichend.
 
 
 #### § 22 Änderung des anwendbaren Teilfreistellungssatzes
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002402123)
 
 (1) Ändert sich der anwendbare Teilfreistellungssatz oder fallen die
 Voraussetzungen der Teilfreistellung weg, so gilt der Investmentanteil
@@ -1282,9 +1309,11 @@ Einkommensteuergesetzes vorzunehmen war.
 
 
 ### Abschnitt 3 - Verschmelzung von Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000500000)
 
 
 #### § 23 Verschmelzung von Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002500000)
 
 (1) Werden inländische Investmentfonds nach den §§ 181 bis 191 des
 Kapitalanlagegesetzbuchs miteinander verschmolzen, so hat
@@ -1325,9 +1354,11 @@ unterliegen.
 
 
 ### Abschnitt 4 - Verhältnis zu den Besteuerungsregelungen für Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000600000)
 
 
 #### § 24 Kein Wechsel zu den Besteuerungsregelungen für Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002600000)
 
 Wenn Investmentfonds oder ihre Anleger der Besteuerung nach Kapitel 2
 unterlegen haben, so ist ein Wechsel zur Besteuerung nach Kapitel 3
@@ -1335,12 +1366,15 @@ ausgeschlossen.
 
 
 ## Kapitel 3 - Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000700000)
 
 
 ### Abschnitt 1 - Voraussetzungen und Besteuerung eines Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000800000)
 
 
 #### § 25 Getrennte Besteuerungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002700000)
 
 Die Vorschriften des Kapitels 2 sind auf Spezial-Investmentfonds und
 deren Anleger nicht anzuwenden, es sei denn, in Kapitel 3 werden
@@ -1348,6 +1382,7 @@ abweichende Bestimmungen getroffen.
 
 
 #### § 26 Anlagebestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002804123)
 
 Ein Spezial-Investmentfonds ist ein Investmentfonds, der in der
 Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
@@ -1542,6 +1577,7 @@ Anlagepraxis nicht wesentlich gegen die nachfolgenden Voraussetzungen
 
 
 #### § 27 Rechtsformen von inländischen Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE002900000)
 
 Inländische Spezial-Investmentfonds können gebildet werden
 
@@ -1557,6 +1593,7 @@ Inländische Spezial-Investmentfonds können gebildet werden
 
 
 #### § 28 Beteiligung von Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003000000)
 
 (1) Personengesellschaften, die unmittelbar oder mittelbar über andere
 Personengesellschaften Anleger eines Spezial-Investmentfonds sind,
@@ -1580,6 +1617,7 @@ Anlegerzusammensetzung wiederherzustellen.
 
 
 #### § 29 Steuerpflicht des Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003101123)
 
 (1) Die Vorschriften der §§ 6, 7, 11 und 15 für die Besteuerung von
 Investmentfonds sind auf Spezial-Investmentfonds anzuwenden, soweit
@@ -1603,6 +1641,7 @@ Werbungskosten abziehbar.
 
 
 #### § 30 Inländische Beteiligungseinnahmen und sonstige inländische Einkünfte mit Steuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003201123)
 
 (1) Die Körperschaftsteuerpflicht für die inländischen
 Beteiligungseinnahmen eines Spezial-Investmentfonds entfällt, wenn der
@@ -1671,6 +1710,7 @@ den Spezial-Investmentfonds einem Steuerabzug unterliegen.
 
 
 #### § 31 Steuerabzug und Steueranrechnung bei Ausübung der Transparenzoption
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003301123)
 
 (1) Nimmt ein Spezial-Investmentfonds die Transparenzoption wahr, so
 sind die Regelungen des Einkommensteuergesetzes zum Steuerabzug vom
@@ -1777,6 +1817,7 @@ bleibt unberührt.
 
 
 #### § 32 Haftung bei ausgeübter Transparenzoption
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003400000)
 
 (1) Der Entrichtungspflichtige haftet für die Steuer, die bei
 ausgeübter Transparenzoption zu Unrecht nicht erhoben oder erstattet
@@ -1801,6 +1842,7 @@ Entrichtungspflichtigen nicht mitgeteilt hat.
 
 
 #### § 33 Inländische Immobilienerträge und sonstige inländische Einkünfte ohne Steuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003502123)
 
 (1) Die Körperschaftsteuerpflicht für die inländischen
 Immobilienerträge eines Spezial-Investmentfonds entfällt, wenn der
@@ -1867,9 +1909,11 @@ Vereinnahmung durch den Spezial-Investmentfonds zugrunde lag.
 
 
 ### Abschnitt 2 - Besteuerung des Anlegers eines Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG000900000)
 
 
 #### § 34 Spezial-Investmenterträge
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003600000)
 
 (1) Erträge aus Spezial-Investmentfonds (Spezial-
 Investmenterträge) sind
@@ -1900,6 +1944,7 @@ den Voraussetzungen des § 16 Absatz 4 gewährt.
 
 
 #### § 35 Ausgeschüttete Erträge und Ausschüttungsreihenfolge
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003701123)
 
 (1) Ausgeschüttete Erträge sind die nach den §§ 37 bis 41 ermittelten
 Einkünfte, die von einem Spezial-Investmentfonds zur Ausschüttung
@@ -1944,6 +1989,7 @@ beteiligt war, gelten insoweit Substanzbeträge als ausgeschüttet.
 
 
 #### § 36 Ausschüttungsgleiche Erträge
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003802123)
 
 (1) Ausschüttungsgleiche Erträge sind die folgenden nach den §§ 37 bis
 41 ermittelten positiven Einkünfte, die von einem Spezial-
@@ -2037,6 +2083,7 @@ nicht zur Ausschüttung verwendet.
 
 
 #### § 37 Ermittlung der Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE003901123)
 
 (1) Der Spezial-Investmentfonds ermittelt die Einkünfte des Spezial-
 Investmentfonds entsprechend § 2 Absatz 2 Satz 1 Nummer 2 und § 23
@@ -2064,6 +2111,7 @@ Beträge zur Ausschüttung zur Verfügung.
 
 
 #### § 38 Vereinnahmung und Verausgabung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004000000)
 
 (1) § 11 des Einkommensteuergesetzes ist nach Maßgabe der folgenden
 Absätze anzuwenden.
@@ -2129,6 +2177,7 @@ ausschüttungsgleichen Erträgen.
 
 
 #### § 39 Werbungskosten, Abzug der Direktkosten
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004100000)
 
 (1) Werbungskosten des Spezial-Investmentfonds, die in einem
 unmittelbaren wirtschaftlichen Zusammenhang mit Einnahmen stehen, sind
@@ -2159,6 +2208,7 @@ Direktkosten sind von den jeweiligen Einnahmen abzuziehen.
 
 
 #### § 40 Abzug der Allgemeinkosten
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004200000)
 
 (1) Die Allgemeinkosten sind zwischen den nach § 43 Absatz 1
 steuerbefreiten Einkünften und allen übrigen Einkünften des Spezial-
@@ -2209,6 +2259,7 @@ Investmentfonds Verlustvorträge zu bilden.
 
 
 #### § 41 Verlustverrechnung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004300000)
 
 (1) Negative Erträge des Spezial-Investmentfonds sind mit positiven
 Erträgen gleicher Art bis zu deren Höhe auszugleichen. Die
@@ -2223,6 +2274,7 @@ veräußert.
 
 
 #### § 42 Steuerbefreiung von Beteiligungseinkünften und inländischen Immobilienerträgen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004403123)
 
 (1) Soweit die ausgeschütteten und ausschüttungsgleichen Erträge
 Kapitalerträge nach § 43 Absatz 1 Satz 1 Nummer 6 und 9 sowie Satz 2
@@ -2282,6 +2334,7 @@ ausgeschütteten oder ausschüttungsgleichen Erträge steuerfrei. Absatz
 
 
 #### § 43 Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung, der Hinzurechnungsbesteuerung und der Teilfreistellung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004502123)
 
 (1) Die ausgeschütteten und ausschüttungsgleichen Erträge sind bei der
 Veranlagung des Anlegers insoweit von der Bemessungsgrundlage der
@@ -2318,6 +2371,7 @@ Teilfreistellung nach § 20 entsprechend anzuwenden.
 
 
 #### § 44 Anteilige Abzüge aufgrund einer Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004600000)
 
 § 21 ist entsprechend auf Betriebsvermögensminderungen,
 Betriebsausgaben, Veräußerungskosten oder Werbungskosten anzuwenden,
@@ -2326,6 +2380,7 @@ oder teilweise von der Besteuerung freizustellen sind.
 
 
 #### § 45 Gewerbesteuer bei Spezial-Investmenterträgen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004701123)
 
 (1) Bei der Ermittlung des Gewerbeertrags nach § 7 des
 Gewerbesteuergesetzes sind § 42 Absatz 4 sowie § 3 Nummer 40 des
@@ -2366,6 +2421,7 @@ Werbungskosten abziehbar.
 
 
 #### § 46 Zinsschranke
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004800000)
 
 (1) Beim Anleger sind für Zwecke des § 4h Absatz 1 des
 Einkommensteuergesetzes ausgeschüttete oder ausschüttungsgleiche
@@ -2398,6 +2454,7 @@ auf die folgenden Geschäftsjahre des Spezial-Investmentfonds zu
 
 
 #### § 47 Anrechnung und Abzug von ausländischer Steuer
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE004900000)
 
 (1) Enthalten die ausgeschütteten und ausschüttungsgleichen Erträge
 Einkünfte aus einem ausländischen Staat, die in diesem Staat zu einer
@@ -2464,6 +2521,7 @@ nicht zu berücksichtigen.
 
 
 #### § 48 Fonds-Aktiengewinn, Fonds-Abkommensgewinn, Fonds-Teilfreistellungsgewinn
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005000000)
 
 (1) Der Spezial-Investmentfonds hat bei jeder Bewertung seines
 Vermögens pro Spezial-Investmentanteil den Fonds-Aktiengewinn, den
@@ -2598,6 +2656,7 @@ Wertveränderungen entfällt:
 
 
 #### § 49 Veräußerung von Spezial-Investmentanteilen, Teilwertansatz
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005103123)
 
 (1) Wird der Spezial-Investmentanteil veräußert oder wird ein Gewinn
 aus dem Spezial-Investmentanteil in sonstiger Weise realisiert, so
@@ -2720,6 +2779,7 @@ die Veräußerung nach Satz 1 und 5 zu informieren.
 
 
 #### § 50 Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005200000)
 
 (1) Ein inländischer Spezial-Investmentfonds hat als
 Entrichtungspflichtiger 15 Prozent Kapitalertragsteuer einzubehalten
@@ -2748,6 +2808,7 @@ entsprechend.
 
 
 #### § 51 Feststellung der Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005302123)
 
 (1) Die Besteuerungsgrundlagen nach den §§ 29 bis 49, die nicht
 ausgeglichenen negativen Erträge nach § 41 und die positiven Erträge,
@@ -2840,9 +2901,11 @@ Absatz 1 Nummer 3 der Finanzgerichtsordnung entsprechend.
 
 
 ### Abschnitt 3 - Wegfall der Voraussetzungen eines Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG001000000)
 
 
 #### § 52 Wegfall der Voraussetzungen eines Spezial-Investmentfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005401123)
 
 (1) Ein Spezial-Investmentfonds gilt als aufgelöst, wenn der Spezial-
 Investmentfonds seine Anlagebedingungen in der Weise ändert, dass die
@@ -2869,9 +2932,11 @@ oder 3 anwendbare Wert anzusetzen.
 
 
 ## Kapitel 4 - Altersvorsorgevermögenfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG001100000)
 
 
 ### § 53 Altersvorsorgevermögenfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005500000)
 
 (1) Ein Altersvorsorgevermögenfonds ist eine offene
 Investmentkommanditgesellschaft,
@@ -2910,9 +2975,11 @@ Anteile am Gewinn eines Altersvorsorgevermögenfonds nicht anzuwenden.
 
 
 ## Kapitel 5 - Verschmelzung von Spezial-Investmentfonds und von Altersvorsorgevermögenfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG001200000)
 
 
 ### § 54 Verschmelzung von Spezial-Investmentfonds und Altersvorsorgevermögenfonds
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005600000)
 
 (1) Bei einer Verschmelzung von inländischen Spezial-Investmentfonds
 miteinander gilt § 23 Absatz 1 bis 3 entsprechend. Satz 1 ist nicht
@@ -2942,9 +3009,11 @@ entsprechend.
 
 
 ## Kapitel 6 - Bußgeldvorschriften, Anwendungs- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNG001300000)
 
 
 ### § 55 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005700000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -2979,6 +3048,7 @@ Finanzbehörde.
 
 
 ### § 56 Anwendungs- und Übergangsvorschriften zum Investmentsteuerreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE005805123)
 
 (1) Die Vorschriften dieses Gesetzes in der am 1. Januar 2018
 geltenden Fassung sind ab dem 1. Januar 2018 anzuwenden. Für die Zeit
@@ -3195,6 +3265,7 @@ nach § 50.
 
 
 ### § 57 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/invstg_2018/BJNR173010016.html#BJNR173010016BJNE006006123)
 
 (1) Ab dem 1. Januar 2020 anzuwenden sind:
 

@@ -27,9 +27,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000100000)
 
 
 ### § 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000100000)
 
 (1) Das Bundeskriminalamt ist nationale zentrale Stelle für die
 Verarbeitung von Fluggastdaten (Fluggastdatenzentralstelle). Die
@@ -44,9 +46,11 @@ nach Weisung der Fluggastdatenzentralstelle.
 
 
 ## Abschnitt 2 - Übermittlung von Fluggastdaten an die Fluggastdatenzentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000200000)
 
 
 ### § 2 Datenübermittlung durch Luftfahrtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000200000)
 
 (1) Luftfahrtunternehmen übermitteln nach Maßgabe des Absatzes 3 im
 Rahmen ihrer Geschäftstätigkeit erhobene Fluggastdaten von Fluggästen,
@@ -209,6 +213,7 @@ die ein angemessenes Datensicherheitsniveau gewährleistet.
 
 
 ### § 3 Datenübermittlung der durch andere Unternehmen erhobenen Fluggastdaten
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000300000)
 
 Für den Fall, dass andere Unternehmen, die an der Reservierung oder
 Buchung von Flügen oder an der Ausstellung von Flugscheinen beteiligt
@@ -231,9 +236,11 @@ Luftfahrtunternehmen übermitteln, gilt Folgendes:
 
 
 ## Abschnitt 3 - Verarbeitung von Fluggastdaten durch die Fluggastdatenzentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000300000)
 
 
 ### § 4 Voraussetzungen für die Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000400000)
 
 (1) Die Fluggastdatenzentralstelle verarbeitet die von den
 Luftfahrtunternehmen übermittelten Fluggastdaten und gleicht sie mit
@@ -341,6 +348,7 @@ nach Absatz 1 erfolgen kann.
 
 
 ### § 5 Depersonalisierung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000500000)
 
 (1) Nach Ablauf von sechs Monaten ab Übermittlung der Fluggastdaten an
 die Fluggastdatenzentralstelle werden die Fluggastdaten durch
@@ -396,9 +404,11 @@ ist.
 
 
 ## Abschnitt 4 - Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000400000)
 
 
 ### § 6 Datenübermittlung an die zuständigen Behörden im Inland
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000600000)
 
 (1) Soweit dies zur Erfüllung von deren Aufgaben zur Verhütung oder
 Verfolgung von Straftaten nach § 4 Absatz 1 erforderlich ist, kann die
@@ -455,6 +465,7 @@ begründen.
 
 
 ### § 7 Datenaustausch zwischen den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000701000)
 
 (1) Der Fluggastdatenzentralstelle obliegt der Austausch von
 Fluggastdaten und von Ergebnissen der Verarbeitung dieser Daten mit
@@ -561,6 +572,7 @@ strafrechtlichen Angelegenheiten bleiben unberührt.
 
 
 ### § 8 Teilnahme an gemeinsamen Verfahren der Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000800000)
 
 Die Fluggastdatenzentralstelle kann an gemeinsamen Verfahren der
 systematischen Zusammenarbeit mit anderen Fluggastdatenzentralstellen
@@ -570,6 +582,7 @@ nach Maßgabe dieses Gesetzes teilnehmen. § 7 bleibt unberührt.
 
 
 ### § 9 Datenübermittlung an Europol
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE000900000)
 
 Die Fluggastdatenzentralstelle kann Fluggastdaten und die Ergebnisse
 der Verarbeitung dieser Daten an Europol übermitteln, wenn ein
@@ -580,6 +593,7 @@ erforderlich ist. § 5 Absatz 2 gilt entsprechend.
 
 
 ### § 10 Datenübermittlung an Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001000000)
 
 (1) Unter Beachtung der §§ 78 bis 80 des Bundesdatenschutzgesetzes
 kann die Fluggastdatenzentralstelle Fluggastdaten und die Ergebnisse
@@ -632,9 +646,11 @@ Datenschutzbeauftragten der Fluggastdatenzentralstelle zu überprüfen.
 
 
 ## Abschnitt 5 - Datenschutzrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000500000)
 
 
 ### § 11 Nationale Kontrollstelle
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001100000)
 
 Die Aufgaben der nationalen Kontrollstelle für den Datenschutz nimmt
 die oder der Bundesbeauftragte für den Datenschutz und die
@@ -642,6 +658,7 @@ Informationsfreiheit wahr.
 
 
 ### § 12 Die oder der Datenschutzbeauftragte der Fluggastdatenzentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001200000)
 
 (1) Die Aufgaben der oder des Datenschutzbeauftragten der
 Fluggastdatenzentralstelle nimmt die oder der Datenschutzbeauftragte
@@ -654,6 +671,7 @@ hält.
 
 
 ### § 13 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001300000)
 
 (1) Fluggastdaten sind nach Ablauf von fünf Jahren ab ihrer
 Übermittlung an die Fluggastdatenzentralstelle durch die
@@ -698,6 +716,7 @@ Absatz 1 Satz 1 gelöscht werden.
 
 
 ### § 14 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001401116)
 
 (1) § 76 des Bundesdatenschutzgesetzes gilt mit der Maßgabe, dass die
 Protokolle der oder dem Datenschutzbeauftragten der
@@ -718,6 +737,7 @@ anschließend zu löschen.
 
 
 ### § 15 Dokumentationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001500000)
 
 (1) Die Fluggastdatenzentralstelle dokumentiert alle
 Verarbeitungssysteme und Verarbeitungsverfahren, die in ihre
@@ -761,18 +781,22 @@ Verfügung.
 
 
 ## Abschnitt 6 - Geltung des Bundeskriminalamtgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000600000)
 
 
 ### § 16 Geltung des Bundeskriminalamtgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001600000)
 
 Das Bundeskriminalamtgesetz findet entsprechende Anwendung, soweit in
 diesem Gesetz keine spezielleren Regelungen enthalten sind.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNG000700000)
 
 
 ### § 17 Gerichtliche Zuständigkeit, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001700000)
 
 Für gerichtliche Entscheidungen nach diesem Gesetz ist das Amtsgericht
 zuständig, in dessen Bezirk das Bundeskriminalamt seinen Sitz hat. Für
@@ -782,6 +806,7 @@ Gerichtsbarkeit entsprechend.
 
 
 ### § 18 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flugdag/BJNR148410017.html#BJNR148410017BJNE001801000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

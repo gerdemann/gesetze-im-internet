@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/betrkv/BJNR234700003.html#BJNR234700003BJNE000100000)
 
 (1) Betriebskosten sind die Kosten, die dem Eigentümer oder
 Erbbauberechtigten durch das Eigentum oder Erbbaurecht am Grundstück
@@ -52,6 +53,7 @@ darf nicht angesetzt werden.
 
 
 ## § 2 Aufstellung der Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/betrkv/BJNR234700003.html#BJNR234700003BJNE000203130)
 
 Betriebskosten im Sinne von § 1 sind:
 

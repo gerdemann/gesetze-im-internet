@@ -20,12 +20,14 @@ Neugefasst durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000010300)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zweck und Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000093310)
 
 Zweck dieses Gesetzes ist es, in der Umgebung von Flugplätzen bauliche
 Nutzungsbeschränkungen und baulichen Schallschutz zum Schutz der
@@ -35,6 +37,7 @@ sicherzustellen.
 
 
 ## § 2 Einrichtung von Lärmschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000301310)
 
 (1) In der Umgebung von Flugplätzen werden Lärmschutzbereiche
 eingerichtet, die das Gebiet der in dem nachfolgenden Absatz genannten
@@ -320,6 +323,7 @@ Luftfahrttechnik.
 
 
 ## § 3 Ermittlung der Lärmbelastung
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000401310)
 
 (1) Der äquivalente Dauerschallpegel
 L(tief)Aeq Tag für die Tag-Schutzzonen 1 und 2 sowie der äquivalente
@@ -337,6 +341,7 @@ Lärmbelastung zu regeln.
 
 
 ## § 4 Festsetzung von Lärmschutzbereichen
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000501310)
 
 (1) Ein Lärmschutzbereich ist für folgende Flugplätze festzusetzen:
 
@@ -435,6 +440,7 @@ festgesetzt werden. Die Absätze 2 bis 7 gelten entsprechend.
 
 
 ## § 5 Bauverbote
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000601310)
 
 (1) In einem Lärmschutzbereich dürfen Krankenhäuser, Altenheime,
 Erholungsheime und ähnliche in gleichem Maße schutzbedürftige
@@ -494,6 +500,7 @@ Lärmschutzbereichs hätte begonnen werden dürfen.
 
 
 ## § 6 Sonstige Beschränkungen der baulichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000701310)
 
 Die nach § 5 Abs. 1 Satz 3, Abs. 2 Satz 2 und Abs. 3 zulässigen
 baulichen Anlagen sowie Wohnungen in der Tag-Schutzzone 2 dürfen nur
@@ -502,6 +509,7 @@ Schallschutzanforderungen genügen.
 
 
 ## § 7 Schallschutz
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000801310)
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 15) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -513,6 +521,7 @@ genügen müssen.
 
 
 ## § 8 Entschädigung bei Bauverboten
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000901310)
 
 (1) Wird durch ein Bauverbot nach § 5 Abs. 1 Satz 1 und 2 oder Absatz
 2 Satz 1 die bisher zulässige bauliche Nutzung aufgehoben und tritt
@@ -533,6 +542,7 @@ April 2002 (BGBl. I S. 1250), sind sinngemäß anzuwenden.
 
 
 ## § 9 Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen, Entschädigung für Beeinträchtigungen des Außenwohnbereichs
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE001600310)
 
 (1) Dem Eigentümer eines in der Tag-Schutzzone 1 gelegenen
 Grundstücks, auf dem bei Festsetzung des Lärmschutzbereichs
@@ -643,6 +653,7 @@ Jahren nach Entstehung des Anspruchs geltend gemacht werden.
 
 
 ## § 10 Verfahren bei der Erstattung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000192310)
 
 Die nach Landesrecht zuständige Behörde setzt nach Anhörung der
 Beteiligten (Zahlungsempfänger und Zahlungspflichtiger) durch
@@ -652,6 +663,7 @@ enthalten. Er ist den Beteiligten zuzustellen.
 
 
 ## § 11 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE001001310)
 
 (1) Der Halter eines Flugplatzes und die mit der Flugsicherung
 Beauftragten sind verpflichtet, der nach Landesrecht zuständigen
@@ -677,6 +689,7 @@ der für ihn tätigen Personen handelt.
 
 
 ## § 12 Zahlungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE001101310)
 
 (1) Zur Zahlung der Entschädigung nach § 8, zur Erstattung der
 Aufwendungen für bauliche Schallschutzmaßnahmen nach § 9 Abs. 1 und 2
@@ -696,6 +709,7 @@ Anspruch richtet.
 
 
 ## § 13 Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE001201310)
 
 (1) Dieses Gesetz regelt in der ab dem 7. Juni 2007 geltenden Fassung
 für die Umgebung von Flugplätzen mit Wirkung auch für das
@@ -718,6 +732,7 @@ bleiben unberührt.
 
 
 ## § 14 Schutzziele für die Lärmaktionsplanung
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE001301310)
 
 Bei der Lärmaktionsplanung nach § 47d des Bundes-
 Immissionsschutzgesetzes sind für Flugplätze die jeweils anwendbaren
@@ -726,6 +741,7 @@ beachten.
 
 
 ## § 15 Anhörung beteiligter Kreise
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE001401310)
 
 Soweit Ermächtigungen zum Erlass von Rechtsverordnungen die Anhörung
 der beteiligten Kreise vorschreiben, ist ein jeweils auszuwählender
@@ -737,21 +753,25 @@ Immissionsschutz zuständigen obersten Landesbehörden zu hören.
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000193310)
 
 -
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000194310)
 
 -
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000195310)
 
 -
 
 
 ## Anlage (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmg/BJNR002820971.html#BJNR002820971BJNE000212310)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 2556)
 

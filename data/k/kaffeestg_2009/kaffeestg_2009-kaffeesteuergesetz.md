@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000100000)
 
 
 ### § 1 Steuergebiet, Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000201000)
 
 (1) Kaffee sowie in das Steuergebiet beförderte kaffeehaltige Waren
 unterliegen im Steuergebiet der Kaffeesteuer. Steuergebiet ist das
@@ -62,6 +64,7 @@ geänderte Nomenklatur anzupassen, soweit sich hieraus steuerliche
 
 
 ### § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000301000)
 
 (1) Die Kaffeesteuer beträgt für Röstkaffee 2,19 Euro je Kilogramm und
 für löslichen Kaffee 4,78 Euro je Kilogramm. Mischungen von Röstkaffee
@@ -122,11 +125,13 @@ Kaffeegehalt zu besteuern.
 
 
 ### § 3 Kaffeehaltige Waren
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000401123)
 
 Für kaffeehaltige Waren gelten die §§ 15 bis 19 entsprechend.
 
 
 ### § 4 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000502123)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -237,9 +242,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000200000)
 
 
 ### § 5 Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000601000)
 
 (1) Steuerlager sind Orte, an und von denen Kaffee unter
 Steueraussetzung hergestellt, bearbeitet oder verarbeitet, gelagert,
@@ -253,6 +260,7 @@ Steuerlager gehören.
 
 
 ### § 6 Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000702140)
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager
 betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag
@@ -297,6 +305,7 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 ### § 7 Registrierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000801000)
 
 (1) Registrierte Versender sind Personen, die Kaffee vom Ort der
 Einfuhr unter Steueraussetzung versenden dürfen.
@@ -321,6 +330,7 @@ Belange dem nicht entgegenstehen.
 
 
 ### § 8 Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE000902123)
 
 (1) Begünstigte, die Kaffee unter Steueraussetzung im Steuergebiet
 empfangen dürfen, sind vorbehaltlich des Absatzes 2
@@ -423,6 +433,7 @@ zuzulassen.
 
 
 ### § 9 Beförderungen im und aus dem Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001003123)
 
 (1) Kaffee darf unter Steueraussetzung befördert werden
 
@@ -531,6 +542,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 10 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001102123)
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
 Steueraussetzung eintretender Fall, mit Ausnahme der in § 11 Absatz 3
@@ -548,6 +560,7 @@ Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 2 zu erlassen.
 
 
 ### § 11 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001203123)
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung von Kaffee in
 den steuerrechtlich freien Verkehr, es sei denn, es schließt sich eine
@@ -670,6 +683,7 @@ Nachweis.
 
 
 ### § 12 Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001303123)
 
 (1) Der Steuerschuldner nach § 11 Absatz 5 Nummer 1 erste Alternative
 hat über Kaffee, für den in einem Monat die Steuer entstanden ist,
@@ -690,15 +704,19 @@ bestimmen.
 
 
 ## Abschnitt 3 - Einfuhr oder unrechtmäßiger Eingang von Kaffee aus Drittländern oder Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000301123)
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001401123)
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001501123)
 
 
 ### § 15 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001603123)
 
 (1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der
 Überführung des Kaffees in den steuerrechtlich freien Verkehr durch
@@ -758,9 +776,11 @@ wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
 
 
 ## Abschnitt 4 - Beförderung von Kaffee des zollrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000401123)
 
 
 ### § 16 Erwerb durch Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001701000)
 
 (1) Kaffee, den eine Privatperson für ihren Eigenbedarf in anderen
 Mitgliedstaaten im zollrechtlich freien Verkehr erwirbt und selbst in
@@ -793,6 +813,7 @@ der Privatperson bestimmt ist.
 
 
 ### § 17 Bezug und Besitz zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001804123)
 
 (1) Wird Kaffee in anderen als den in § 16 Absatz 1 und § 18 Absatz 1
 genannten Fällen aus dem zollrechtlich freien Verkehr eines anderen
@@ -873,6 +894,7 @@ erlassen.
 
 
 ### § 18 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE001903123)
 
 (1) Versandhandel betreibt, wer in Ausübung einer selbstständigen
 wirtschaftlichen Tätigkeit Kaffee aus dem zollrechtlich freien Verkehr
@@ -934,6 +956,7 @@ Versandhandel einzubeziehen.
 
 
 ### § 19 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002002123)
 
 (1) Treten während der Beförderung von Kaffee nach § 17 Absatz 1 und 2
 oder nach § 18 Absatz 2 im Steuergebiet Unregelmäßigkeiten ein,
@@ -958,9 +981,11 @@ Vorschriften zu den Absätzen 1 und 4 zu erlassen.
 
 
 ## Abschnitt 5 - Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000500000)
 
 
 ### § 20 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002102123)
 
 (1) Kaffee ist von der Steuer befreit, wenn er
 
@@ -1000,6 +1025,7 @@ Verfahren zu regeln.
 
 
 ### § 21 Steuerentlastung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002203123)
 
 (1) Nachweislich versteuerter Kaffee, der in ein Steuerlager
 aufgenommen worden ist, wird auf Antrag von der Steuer entlastet
@@ -1079,9 +1105,11 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ## Abschnitt 6 - Steueraufsicht, Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000600000)
 
 
 ### § 22 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002301123)
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegt
 die Tätigkeit eines Steuervertreters nach § 18 Absatz 4 Satz 6 im
@@ -1108,6 +1136,7 @@ Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
 
 
 ### § 23 Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002406123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -1266,9 +1295,11 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNG000700000)
 
 
 ### § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002501123)
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -1286,4 +1317,5 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestg_2009/BJNR191900009.html#BJNR191900009BJNE002601123)
 

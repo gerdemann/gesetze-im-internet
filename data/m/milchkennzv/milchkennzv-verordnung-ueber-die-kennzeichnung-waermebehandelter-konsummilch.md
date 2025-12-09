@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000100326)
 
 Mit Zustimmung des Bundesrates verordnen
 auf Grund des § 9 Abs. 2 und der §§ 37 und 52 Abs. 1 Satz 1 des
@@ -48,6 +49,7 @@ Gesundheit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000204301)
 
 (1) Die Vorschriften dieser Verordnung finden Anwendung auf
 Konsummilch im Sinne von Nummern III 1 erster Unterabsatz Buchstabe b
@@ -66,6 +68,7 @@ den Verkehr gebracht wird.
 
 
 ## § 2 Allgemeine Kennzeichnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000309301)
 
 (1) Konsummilch darf nur in den Verkehr gebracht werden, wenn sie nach
 den Vorschriften dieser Verordnung gekennzeichnet ist.
@@ -160,6 +163,7 @@ Sprache, deutlich sichtbar und in leicht lesbarer Schrift anzugeben
 
 
 ## § 3 Besondere Kennzeichnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000405377)
 
 Die Kennzeichnung muß ferner enthalten den Fettgehalt der Konsummilch
 in vom Hundert des Gewichts durch die Angabe
@@ -178,6 +182,7 @@ c)  "höchstens ...% Fett" bei entrahmter Milch;.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000504377)
 
 (1) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -194,6 +199,7 @@ gekennzeichnet ist, gewerbsmäßig in den Verkehr bringt.
 
 
 ## § 4a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000900124)
 
 (1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
 entgegenstehen aus
@@ -230,6 +236,7 @@ Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ## § 5 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milchkennzv/BJNR013010974.html#BJNR013010974BJNE000804119)
 
 Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 

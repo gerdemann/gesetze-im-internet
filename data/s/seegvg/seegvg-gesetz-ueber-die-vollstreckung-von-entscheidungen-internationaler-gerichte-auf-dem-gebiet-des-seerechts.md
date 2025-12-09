@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/seegvg/BJNR078600995.html#BJNR078600995BJNE000100305)
 
 Entscheidungen der Kammer für Meeresbodenstreitigkeiten des
 Internationalen Seegerichtshofs (Artikel 39 der Anlage VI zum
@@ -34,6 +35,7 @@ Zivilverfahrensrechts mit den nachfolgenden Maßgaben.
 
 
 ## § 2 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/seegvg/BJNR078600995.html#BJNR078600995BJNE000202310)
 
 (1) Eine mit der Vollstreckungsklausel versehene Ausfertigung des
 Titels wird auf Antrag dem in der Entscheidung bezeichneten Gläubiger
@@ -80,6 +82,7 @@ des Senats zu übernehmen ist)."
 
 
 ## § 3 Zuständigkeit des Oberlandesgerichts als Vollstreckungsorgan
+[Direktlink](https://www.gesetze-im-internet.de/seegvg/BJNR078600995.html#BJNR078600995BJNE000300305)
 
 Soweit das Prozeßgericht des ersten Rechtszuges als
 Vollstreckungsorgan bestimmt ist, nimmt diese Aufgabe das
@@ -89,6 +92,7 @@ zu hören.
 
 
 ## § 4 Rechtsbehelfe in der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/seegvg/BJNR078600995.html#BJNR078600995BJNE000400305)
 
 Einwendungen, die den durch die Entscheidung des Seegerichtshofs
 festgestellten Anspruch betreffen, können vor inländischen Gerichten

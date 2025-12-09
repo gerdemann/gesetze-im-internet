@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001200308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Aufgaben, Stellung und Organisation des Auswärtigen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000101311)
 
 
 
 ### § 1 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001301311)
 
 (1) Der Auswärtige Dienst nimmt die auswärtigen Angelegenheiten des
 Bundes wahr. Er pflegt die Beziehungen der Bundesrepublik Deutschland
@@ -100,6 +103,7 @@ Aufgaben.
 
 
 ### § 2 Auswärtiger Dienst
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001401311)
 
 Der Auswärtige Dienst besteht aus dem Auswärtigen Amt (Zentrale) und
 den Auslandsvertretungen, die zusammen eine einheitliche Bundesbehörde
@@ -107,6 +111,7 @@ unter Leitung des Bundesministers des Auswärtigen bilden.
 
 
 ### § 3 Auslandsvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001501311)
 
 (1) Auslandsvertretungen sind Botschaften, Generalkonsulate und
 Konsulate sowie ständige Vertretungen bei zwischenstaatlichen und
@@ -124,6 +129,7 @@ Bundespräsidenten bei dem Staatsoberhaupt des Empfangsstaats.
 
 
 ### § 4 Gemeinsame Auslandsvertretungen mit anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001601311)
 
 (1) Der Bundesminister des Auswärtigen kann Vereinbarungen mit anderen
 Staaten, insbesondere Mitgliedstaaten der Europäischen Gemeinschaft,
@@ -137,10 +143,12 @@ gegen die Bundesrepublik Deutschland vorzunehmen.
 
 
 ## Abschnitt 2 - Einsatz, Arbeitsweise und Ausstattung des Auswärtigen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000201311)
 
 
 
 ### § 5 Personaleinsatz
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001703311)
 
 (1) Die Angehörigen des Auswärtigen Dienstes werden nach dienstlichen
 Erfordernissen im Auswärtigen Amt und an den Auslandsvertretungen
@@ -156,6 +164,7 @@ dem sie das 67. Lebensjahr vollenden.
 
 
 ### § 6 Personalreserve
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001801311)
 
 (1) Der Auswärtige Dienst verfügt über eine angemessene
 Personalreserve. Sie gewährleistet eine sachgerechte Personalplanung
@@ -179,6 +188,7 @@ unter den besonderen Bedingungen des Auswärtigen Dienstes.
 
 
 ### § 7 Organisation und Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE001902311)
 
 (1) Organisation und Ausstattung des Auswärtigen Dienstes sind seinen
 Aufgaben und Erfordernissen regelmäßig anzupassen.
@@ -196,6 +206,7 @@ stellt.
 
 
 ### § 8 Inspektion
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002001311)
 
 Inspekteure des Auswärtigen Amts überprüfen regelmäßig
 Aufgabenerfüllung, Organisation und Ausstattung der
@@ -208,6 +219,7 @@ Zusammenarbeit.
 
 
 ### § 9 Kurierdienst und Auslands-IT
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002102311)
 
 (1) Das Auswärtige Amt stellt durch einen eigenen Kurierdienst und die
 Auslandsinformations- und -kommunikationstechnik mit einem eigenen
@@ -221,6 +233,7 @@ unmittelbaren Bundesverwaltung im Ausland.
 
 
 ### § 10 Politisches Archiv
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002202311)
 
 Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder
 beglaubigten Abschriften der völkerrechtlichen Vereinbarungen des
@@ -231,10 +244,12 @@ Nutzung von Archivgut des Bundes sind entsprechend anzuwenden.
 
 
 ## Abschnitt 3 - Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000301311)
 
 
 
 ### § 11 Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002302311)
 
 (1) Die Angehörigen des Auswärtigen Dienstes im Inland und im Ausland
 sind Beamte, Angestellte und Arbeiter.
@@ -258,6 +273,7 @@ Rechtsstellung gegenüber dem Empfangsstaat gilt das Wiener
 
 
 ### § 12 Auswahl und Ausbildung der Beamten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002403311)
 
 (1) Die Befähigung für die Laufbahnen des mittleren, gehobenen und
 höheren Auswärtigen Dienstes wird durch Vorbereitungsdienst und
@@ -279,6 +295,7 @@ Berufserfahrung erworben haben.
 
 
 ### § 13 Personalaustausch
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002501311)
 
 (1) Das Auswärtige Amt kann Angehörige anderer Bundesbehörden
 insbesondere für besondere Fachaufgaben zeitlich befristet in den
@@ -296,10 +313,12 @@ Auswärtigen Dienst der Bundesrepublik Deutschland verwendet werden.
 
 
 ## Abschnitt 4 - Rechte und Pflichten der Beamten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000401311)
 
 
 
 ### § 14 Besondere Pflichten im Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002601311)
 
 (1) Der Beamte des Auswärtigen Dienstes hat sich für Verwendungen an
 allen Dienstorten bereitzuhalten.
@@ -316,6 +335,7 @@ Deutschen zu helfen.
 
 
 ### § 15 Fürsorge und Schutz
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002702311)
 
 (1) Die Fürsorge des Dienstherrn für den Beamten des Auswärtigen
 Dienstes und seine Familienangehörigen trägt den Belastungen und
@@ -333,6 +353,7 @@ Ausland wahr.
 
 
 ### § 16 Erkrankungen und Unfälle im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002804311)
 
 (1) In Krankheits-, Geburts- und Todesfällen, von denen der Beamte und
 seine Familienangehörigen im Ausland betroffen sind, werden dem
@@ -360,6 +381,7 @@ Bundesminister der Finanzen erläßt.
 
 
 ### § 17 Gesundheitsdienst und soziale Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE002901311)
 
 (1) Der Auswärtige Dienst unterhält zur Vorsorge gegen besondere
 gesundheitliche Gefährdungen seiner Beamten und ihrer
@@ -374,6 +396,7 @@ Organisationen betrieben werden.
 
 
 ### § 18 Urlaub der in das Ausland entsandten Beamten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE005002311)
 
 (1) Beamte des Auswärtigen Dienstes an außereuropäischen Dienstorten
 erhalten neben dem Erholungsurlaub jährlich zusätzliche Urlaubstage,
@@ -395,10 +418,12 @@ Innern, für Bau und Heimat durch Verwaltungsvorschrift.
 
 
 ## Abschnitt 5 - Fürsorge für Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000502311)
 
 
 
 ### § 19 Unterstützung der Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003103311)
 
 (1) Die Begleitung des ins Ausland entsandten Beamten durch seine
 Kinder, seinen Ehegatten und dessen Kinder wird zum Schutz von Ehe und
@@ -443,6 +468,7 @@ den Ehegatten beziehen, gelten entsprechend für den Lebenspartner.
 
 
 ### § 20 Mitwirkung der Ehegatten an dienstlichen Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003202311)
 
 Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von
 Aufgaben der Beamten oder der Auslandsvertretung mit, so sind sie
@@ -450,6 +476,7 @@ dabei zu unterstützen.
 
 
 ### § 21 Vorschulische und schulische Erziehung und Ausbildung der Kinder
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003303311)
 
 (1) Vorschulische und schulische Erziehung, Ausbildung und Entwicklung
 der Kinder von Beamten des Auswärtigen Dienstes und ihrer Ehegatten
@@ -468,6 +495,7 @@ dem Bundesminister der Finanzen erläßt.
 
 
 ### § 22 Unfälle und Erkrankungen von Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003404126)
 
 (1) Erleidet ein Familienangehöriger des Beamten oder eine andere zur
 häuslichen Gemeinschaft gehörende Person im Ausland einen Schaden
@@ -497,6 +525,7 @@ dem Bundesminister der Finanzen erläßt.
 
 
 ### § 23 Reisebeihilfen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003502311)
 
 (1) Zu Reisen des Beamten und seiner Familienangehörigen vom
 ausländischen Dienstort aus Anlaß des Todes oder einer
@@ -514,6 +543,7 @@ Auswärtigen Dienstes erfordern.
 
 
 ### § 24 Berufsausübung der Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003602311)
 
 (1) Der Dienstherr setzt sich dafür ein, daß der Ehegatte des Beamten
 nach Möglichkeit eine eigene Berufstätigkeit sowohl im Ausland ausüben
@@ -527,10 +557,12 @@ mitwirkt.
 
 
 ## Abschnitt 6 - Fürsorge in Krisenfällen und bei außergewöhnlichen Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000601311)
 
 
 
 ### § 25 Maßnahmen der Krisenfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003701311)
 
 Bei kriegerischen Auseinandersetzungen oder inneren Unruhen oder
 Bedrohungen der Sicherheit der Auslandsvertretungen und ihrer
@@ -542,6 +574,7 @@ und die zu ihrer häuslichen Gemeinschaft gehörenden Personen.
 
 
 ### § 26 Schadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003802311)
 
 (1) Schäden, die während eines dienstlich angeordneten
 Auslandsaufenthalts des Beamten diesem, einem Familienangehörigen oder
@@ -566,10 +599,12 @@ und dem Bundesminister der Finanzen erläßt.
 
 
 ## Abschnitt 7 - Wohnungsfürsorge und Umzüge
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000701311)
 
 
 
 ### § 27 Wohnsitz und Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE003901311)
 
 (1) Der ins Ausland entsandte Beamte hat seinen Wohnsitz am
 ausländischen Dienstort zu nehmen; der Dienstherr kann Ausnahmen
@@ -594,6 +629,7 @@ dienstlichen und örtlichen Verhältnisse erfordern.
 
 
 ### § 28 Auslandsumzüge und Auslandstrennungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004002311)
 
 Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen
 Regelungen werden nach den Grundsätzen des Bundesumzugskostengesetzes
@@ -604,10 +640,12 @@ getroffen.
 
 
 ## Abschnitt 8 - Auslandsbezogene Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000801311)
 
 
 
 ### § 29 Auslandsbesoldung des Auswärtigen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004102311)
 
 Die Auslandsbesoldung der Beamten des Auswärtigen Dienstes erfolgt
 nach dem Bundesbesoldungsgesetz. Neben den aus den Lebensbedingungen
@@ -624,6 +662,7 @@ unberührt.
 
 
 ### § 30 Fremdsprachenförderung
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004201311)
 
 Erwerb und Pflege von dienstlich erforderlichen Sprachkenntnissen
 werden vom Auswärtigen Amt durch Fortbildungsmaßnahmen, Gewährung von
@@ -634,10 +673,12 @@ Das Nähere regelt das Auswärtige Amt in Verwaltungsvorschriften.
 
 
 ## Abschnitt 9 - Rechtsverhältnisse der nichtentsandten Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG000901311)
 
 
 
 ### § 31 Nichtentsandte Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004301311)
 
 An den Auslandsvertretungen werden deutsche und nichtdeutsche
 nichtentsandte Angestellte und Arbeiter beschäftigt. Sie leisten einen
@@ -645,6 +686,7 @@ wichtigen Beitrag zum Gesamtauftrag des Auswärtigen Dienstes.
 
 
 ### § 32 Nichtentsandte Beschäftigte deutscher Staatsangehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004401311)
 
 Die Rechtsverhältnisse der bei den Auslandsvertretungen beschäftigten
 nichtentsandten deutschen Arbeitnehmer richten sich nach den für sie
@@ -652,6 +694,7 @@ geltenden Tarifverträgen und sonstigen Bestimmungen.
 
 
 ### § 33 Nichtentsandte Beschäftigte anderer Staatsangehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004501311)
 
 Die Arbeitsverhältnisse nichtentsandter Beschäftigter, die nicht
 Deutsche sind, werden unter Berücksichtigung der Erfordernisse der
@@ -661,14 +704,17 @@ Verhältnisse werden angemessene soziale Bedingungen gewährleistet.
 
 
 ## Abschnitt 10 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNG001001311)
 
 
 
 ### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004601311)
 
 
 
 ### § 35 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004701311)
 
 Der Bundesminister des Auswärtigen erläßt, soweit in diesem Gesetz
 nicht anders bestimmt, die zur Durchführung dieses Gesetzes
@@ -676,12 +722,14 @@ erforderlichen Verwaltungsvorschriften.
 
 
 ### § 36 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004802311)
 
 § 5 Abs. 2 dieses Gesetzes ist nicht anzuwenden auf Beamte, denen vor
 dem 1. Januar 2003 Altersteilzeit bewilligt wurde.
 
 
 ### § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gad/BJNR018420990.html#BJNR018420990BJNE004901311)
 
 Dieses Gesetz tritt am 1. Januar 1991 in Kraft.
 

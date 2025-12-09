@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE003500314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE003600314)
 
 Dieses Gesetz regelt den Vollzug der Freiheitsstrafe in
 Justizvollzugsanstalten und der freiheitsentziehenden Maßregeln der
@@ -38,14 +41,17 @@ Besserung und Sicherung.
 
 
 ## Zweiter Abschnitt - Vollzug der Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000200314)
 
 
 
 ### Erster Titel - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000300314)
 
 
 
 #### § 2 Aufgaben des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE003700314)
 
 Im Vollzug der Freiheitsstrafe soll der Gefangene fähig werden,
 künftig in sozialer Verantwortung ein Leben ohne Straftaten zu führen
@@ -54,6 +60,7 @@ der Allgemeinheit vor weiteren Straftaten.
 
 
 #### § 3 Gestaltung des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE003800314)
 
 (1) Das Leben im Vollzug soll den allgemeinen Lebensverhältnissen
 soweit als möglich angeglichen werden.
@@ -65,6 +72,7 @@ sich in das Leben in Freiheit einzugliedern.
 
 
 #### § 4 Stellung des Gefangenen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE003900314)
 
 (1) Der Gefangene wirkt an der Gestaltung seiner Behandlung und an der
 Erreichung des Vollzugszieles mit. Seine Bereitschaft hierzu ist zu
@@ -79,10 +87,12 @@ sind.
 
 
 ### Zweiter Titel - Planung des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000400314)
 
 
 
 #### § 5 Aufnahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004001306)
 
 (1) Beim Aufnahmeverfahren dürfen andere Gefangene nicht zugegen sein.
 
@@ -94,6 +104,7 @@ und dem Leiter der Anstalt oder der Aufnahmeabteilung vorgestellt.
 Behandlungsuntersuchung.
 
 #### § 6 Beteiligung des Gefangenen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004201307)
 
 (1) Nach dem Aufnahmeverfahren wird damit begonnen, die Persönlichkeit
 und die Lebensverhältnisse des Gefangenen zu erforschen. Hiervon kann
@@ -112,6 +123,7 @@ angezeigt ist.
 
 
 #### § 7 Vollzugsplan
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004303307)
 
 (1) Auf Grund der Behandlungsuntersuchung (§ 6) wird ein Vollzugsplan
 erstellt.
@@ -158,6 +170,7 @@ zu entscheiden.
 
 
 #### § 8 Verlegung. Überstellung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004400314)
 
 (1) Der Gefangene kann abweichend vom Vollstreckungsplan in eine
 andere für den Vollzug der Freiheitsstrafe zuständige Anstalt verlegt
@@ -178,6 +191,7 @@ Vollzugsanstalt überstellt werden.
 
 
 #### § 9 Verlegung in eine sozialtherapeutische Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004503307)
 
 (1) Ein Gefangener ist in eine sozialtherapeutische Anstalt zu
 verlegen, wenn er wegen einer Straftat nach den §§ 174 bis 180 oder
@@ -198,6 +212,7 @@ der Zustimmung des Leiters der sozialtherapeutischen Anstalt.
 
 
 #### § 10 Offener und geschlossener Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004600314)
 
 (1) Ein Gefangener soll mit seiner Zustimmung in einer Anstalt oder
 Abteilung des offenen Vollzuges untergebracht werden, wenn er den
@@ -213,6 +228,7 @@ Behandlung notwendig ist.
 
 
 #### § 11 Lockerungen des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004700314)
 
 (1) Als Lockerung des Vollzuges kann namentlich angeordnet werden, daß
 der Gefangene
@@ -236,12 +252,14 @@ Vollzuges zu Straftaten mißbrauchen werde.
 
 
 #### § 12 Ausführung aus besonderen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004800314)
 
 Ein Gefangener darf auch ohne seine Zustimmung ausgeführt werden, wenn
 dies aus besonderen Gründen notwendig ist.
 
 
 #### § 13 Urlaub aus der Haft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE004900314)
 
 (1) Ein Gefangener kann bis zu einundzwanzig Kalendertagen in einem
 Jahr aus der Haft beurlaubt werden. § 11 Abs. 2 gilt entsprechend.
@@ -264,6 +282,7 @@ Urlaub erteilt werden.
 
 
 #### § 14 Weisungen, Aufhebung von Lockerungen und Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005000314)
 
 (1) Der Anstaltsleiter kann dem Gefangenen für Lockerungen und Urlaub
 Weisungen erteilen.
@@ -287,6 +306,7 @@ vorgelegen haben.
 
 
 #### § 15 Entlassungsvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005100314)
 
 (1) Um die Entlassung vorzubereiten, soll der Vollzug gelockert werden
 (§ 11).
@@ -305,6 +325,7 @@ werden. § 11 Abs. 2, § 13 Abs. 5 und § 14 gelten entsprechend. Absatz
 
 
 #### § 16 Entlassungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005200314)
 
 (1) Der Gefangene soll am letzten Tag seiner Strafzeit möglichst
 frühzeitig, jedenfalls noch am Vormittag entlassen werden.
@@ -322,10 +343,12 @@ Eingliederung hierauf angewiesen ist.
 
 
 ### Dritter Titel - Unterbringung und Ernährung des Gefangenen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000500314)
 
 
 
 #### § 17 Unterbringung während der Arbeit und Freizeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005301307)
 
 (1) Die Gefangenen arbeiten gemeinsam. Dasselbe gilt für
 Berufsausbildung, berufliche Weiterbildung sowie arbeitstherapeutische
@@ -357,6 +380,7 @@ Freizeit kann eingeschränkt werden,
 
 
 #### § 18 Unterbringung während der Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005400314)
 
 (1) Gefangene werden während der Ruhezeit allein in ihren Hafträumen
 untergebracht. Eine gemeinsame Unterbringung ist zulässig, sofern ein
@@ -371,6 +395,7 @@ des Absatzes 1 nur vorübergehend und aus zwingenden Gründen zulässig.
 
 
 #### § 19 Ausstattung des Haftraumes durch den Gefangenen und sein persönlicher Besitz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005500314)
 
 (1) Der Gefangene darf seinen Haftraum in angemessenem Umfang mit
 eigenen Sachen ausstatten. Lichtbilder nahestehender Personen und
@@ -382,6 +407,7 @@ Anstalt gefährden, können ausgeschlossen werden.
 
 
 #### § 20 Kleidung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005600314)
 
 (1) Der Gefangene trägt Anstaltskleidung. Für die Freizeit erhält er
 eine besondere Oberbekleidung.
@@ -394,6 +420,7 @@ eigene Kosten sorgt.
 
 
 #### § 21 Anstaltsverpflegung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005700314)
 
 Zusammensetzung und Nährwert der Anstaltsverpflegung werden ärztlich
 überwacht. Auf ärztliche Anordnung wird besondere Verpflegung gewährt.
@@ -402,6 +429,7 @@ Religionsgemeinschaft zu befolgen.
 
 
 #### § 22 Einkauf
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005800314)
 
 (1) Der Gefangene kann sich von seinem Hausgeld (§ 47) oder von seinem
 Taschengeld (§ 46) aus einem von der Anstalt vermittelten Angebot
@@ -424,10 +452,12 @@ Eigengeld einzukaufen.
 
 
 ### Vierter Titel - Besuche, Schriftwechsel sowie Urlaub, Ausgang und Ausführung aus besonderem Anlaß
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000600314)
 
 
 
 #### § 23 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE005900314)
 
 Der Gefangene hat das Recht, mit Personen außerhalb der Anstalt im
 Rahmen der Vorschriften dieses Gesetzes zu verkehren. Der Verkehr mit
@@ -435,6 +465,7 @@ Personen außerhalb der Anstalt ist zu fördern.
 
 
 #### § 24 Recht auf Besuch
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006000314)
 
 (1) Der Gefangene darf regelmäßig Besuch empfangen. Die Gesamtdauer
 beträgt mindestens eine Stunde im Monat. Das Weitere regelt die
@@ -452,6 +483,7 @@ werden, daß sich der Besucher durchsuchen läßt.
 
 
 #### § 25 Besuchsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006100314)
 
 Der Anstaltsleiter kann Besuche untersagen,
 
@@ -468,6 +500,7 @@ Der Anstaltsleiter kann Besuche untersagen,
 
 
 #### § 26 Besuche von Verteidigern, Rechtsanwälten und Notaren
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006200314)
 
 Besuche von Verteidigern sowie von Rechtsanwälten oder Notaren in
 einer den Gefangenen betreffenden Rechtssache sind zu gestatten. § 24
@@ -477,6 +510,7 @@ nicht zulässig. § 29 Abs. 1 Satz 2 und 3 bleibt unberührt.
 
 
 #### § 27 Überwachung der Besuche
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006301307)
 
 (1) Die Besuche dürfen aus Gründen der Behandlung oder der Sicherheit
 oder Ordnung der Anstalt überwacht werden, es sei denn, es liegen im
@@ -504,6 +538,7 @@ unberührt.
 
 
 #### § 28 Recht auf Schriftwechsel
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006400314)
 
 (1) Der Gefangene hat das Recht, unbeschränkt Schreiben abzusenden und
 zu empfangen.
@@ -524,6 +559,7 @@ untersagen,
 
 
 #### § 29 Überwachung des Schriftwechsels
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006503310)
 
 (1) Der Schriftwechsel des Gefangenen mit seinem Verteidiger wird
 nicht überwacht. Liegt dem Vollzug der Freiheitsstrafe eine Straftat
@@ -560,6 +596,7 @@ erforderlich ist.
 
 
 #### § 30 Weiterleitung von Schreiben. Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006600314)
 
 (1) Der Gefangene hat Absendung und Empfang seiner Schreiben durch die
 Anstalt vermitteln zu lassen, soweit nichts anderes gestattet ist.
@@ -573,6 +610,7 @@ verschlossen zu seiner Habe geben.
 
 
 #### § 31 Anhalten von Schreiben
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006700314)
 
 (1) Der Anstaltsleiter kann Schreiben anhalten,
 
@@ -615,6 +653,7 @@ ist, dürfen nicht angehalten werden.
 
 
 #### § 32 Ferngespräche und Telegramme
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006801307)
 
 Dem Gefangenen kann gestattet werden, Ferngespräche zu führen oder
 Telegramme aufzugeben. Im übrigen gelten für Ferngespräche die
@@ -629,6 +668,7 @@ Mitteilungspflicht nach Satz 3 zu unterrichten.
 
 
 #### § 33 Pakete
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE006900314)
 
 (1) Der Gefangene darf dreimal jährlich in angemessenen Abständen ein
 Paket mit Nahrungs- und Genußmitteln empfangen. Die Vollzugsbehörde
@@ -654,11 +694,13 @@ Ordnung der Anstalt überprüfen.
 
 
 #### § 34 Verwertung von Kenntnissen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007001307)
 
 (weggefallen)
 
 
 #### § 35 Urlaub, Ausgang und Ausführung aus wichtigem Anlaß
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007100314)
 
 (1) Aus wichtigem Anlaß kann der Anstaltsleiter dem Gefangenen Ausgang
 gewähren oder ihn bis zu sieben Tagen beurlauben; der Urlaub aus
@@ -677,6 +719,7 @@ die Eingliederung behindern würde.
 
 
 #### § 36 Gerichtliche Termine
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007200314)
 
 (1) Der Anstaltsleiter kann einem Gefangenen zur Teilnahme an einem
 gerichtlichen Termin Ausgang oder Urlaub erteilen, wenn anzunehmen
@@ -695,10 +738,12 @@ Gefangenen vorführen, sofern ein Vorführungsbefehl vorliegt.
 
 
 ### Fünfter Titel - Arbeit, Ausbildung und Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000700314)
 
 
 
 #### § 37 Zuweisung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007301307)
 
 (1) Arbeit, arbeitstherapeutische Beschäftigung, Ausbildung und
 Weiterbildung dienen insbesondere dem Ziel, Fähigkeiten für eine
@@ -722,6 +767,7 @@ fähig, soll er arbeitstherapeutisch beschäftigt werden.
 
 
 #### § 38 Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007401307)
 
 (1) Für geeignete Gefangene, die den Abschluß der Hauptschule nicht
 erreicht haben, soll Unterricht in den zum Hauptschulabschluß
@@ -734,6 +780,7 @@ Weiterbildung, soweit die Art der Maßnahme es erfordert.
 
 
 #### § 39 Freies Beschäftigungsverhältnis, Selbstbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007501307)
 
 (1) Dem Gefangenen soll gestattet werden, einer Arbeit,
 Berufsausbildung oder beruflichen Weiterbildung auf der Grundlage
@@ -751,6 +798,7 @@ Gutschrift für den Gefangenen überwiesen wird.
 
 
 #### § 40 Abschlußzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007600314)
 
 Aus dem Abschlußzeugnis über eine ausbildende oder weiterbildende
 Maßnahme darf die Gefangenschaft eines Teilnehmers nicht erkennbar
@@ -758,6 +806,7 @@ sein.
 
 
 #### § 41 Arbeitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007701306)
 
 (1) Der Gefangene ist verpflichtet, eine ihm zugewiesene, seinen
 körperlichen Fähigkeiten angemessene Arbeit, arbeitstherapeutische
@@ -777,6 +826,7 @@ widerrufen werden.
 
 
 #### § 42 Freistellung von der Arbeitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE007900314)
 
 (1) Hat der Gefangene ein Jahr lang zugewiesene Tätigkeit nach § 37
 oder Hilfstätigkeiten nach § 41 Abs. 1 Satz 2 ausgeübt, so kann er
@@ -798,6 +848,7 @@ Strafvollzuges bleiben unberührt.
 
 
 #### § 43 Arbeitsentgelt, Arbeitsurlaub und Anrechnung der Freistellung auf den Entlassungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008002311)
 
 (1) Die Arbeit des Gefangenen wird anerkannt durch Arbeitsentgelt und
 eine Freistellung von der Arbeit, die auch als Urlaub aus der Haft
@@ -891,6 +942,7 @@ gutgeschrieben, soweit er nicht vor diesem Zeitpunkt entlassen wird; §
 
 
 #### § 44 Ausbildungsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008103301)
 
 (1) Nimmt der Gefangene an einer Berufsausbildung, beruflichen
 Weiterbildung oder an einem Unterricht teil und ist er zu diesem Zweck
@@ -910,11 +962,13 @@ Arbeitsentgelts eine Ausbildungsbeihilfe.
 
 
 #### § 45 Ausfallentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008200307)
 
 (zukünftig in Kraft)
 
 
 #### § 46 Taschengeld
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008400314)
 
 Wenn ein Gefangener ohne sein Verschulden kein Arbeitsentgelt und
 keine Ausbildungsbeihilfe erhält, wird ihm ein angemessenes
@@ -922,6 +976,7 @@ Taschengeld gewährt, falls er bedürftig ist.
 
 
 #### § 47 Hausgeld
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008601311)
 
 (1) Der Gefangene darf von seinen in diesem Gesetz geregelten Bezügen
 drei Siebtel monatlich (Hausgeld) und das Taschengeld (§ 46) für den
@@ -934,6 +989,7 @@ festgesetzt.
 
 
 #### § 48 Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008704311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -942,11 +998,13 @@ bis 45 Rechtsverordnungen über die Vergütungsstufen zu erlassen.
 
 
 #### § 49 Unterhaltsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE008800307)
 
 (zukünftig in Kraft)
 
 
 #### § 50 Haftkostenbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009006311)
 
 (1) Als Teil der Kosten der Vollstreckung der Rechtsfolgen einer Tat
 (§ 464a Abs. 1 Satz 2 der Strafprozessordnung) erhebt die
@@ -1004,6 +1062,7 @@ Justizverwaltungsabgabe; auf das gerichtliche Verfahren finden die §§
 
 
 #### § 51 Überbrückungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009100314)
 
 (1) Aus den in diesem Gesetz geregelten Bezügen und aus den Bezügen
 der Gefangenen, die in einem freien Beschäftigungsverhältnis stehen (§
@@ -1046,6 +1105,7 @@ Ablauf von vier Wochen seit der Entlassung bedarf.
 
 
 #### § 52 Eigengeld
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009200314)
 
 Bezüge des Gefangenen, die nicht als Hausgeld, Haftkostenbeitrag,
 Unterhaltsbeitrag oder Überbrückungsgeld in Anspruch genommen werden,
@@ -1053,10 +1113,12 @@ sind dem Gefangenen zum Eigengeld gutzuschreiben.
 
 
 ### Sechster Titel - Religionsausübung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000800314)
 
 
 
 #### § 53 Seelsorge
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009300314)
 
 (1) Dem Gefangenen darf religiöse Betreuung durch einen Seelsorger
 seiner Religionsgemeinschaft nicht versagt werden. Auf seinen Wunsch
@@ -1071,6 +1133,7 @@ angemessenem Umfang zu belassen.
 
 
 #### § 54 Religiöse Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009400314)
 
 (1) Der Gefangene hat das Recht, am Gottesdienst und an anderen
 religiösen Veranstaltungen seines Bekenntnisses teilzunehmen.
@@ -1086,16 +1149,19 @@ Seelsorger soll vorher gehört werden.
 
 
 #### § 55 Weltanschauungsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009500314)
 
 Für Angehörige weltanschaulicher Bekenntnisse gelten die §§ 53 und 54
 entsprechend.
 
 
 ### Siebter Titel - Gesundheitsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG000900314)
 
 
 
 #### § 56 Allgemeine Regeln
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009600314)
 
 (1) Für die körperliche und geistige Gesundheit des Gefangenen ist zu
 sorgen. § 101 bleibt unberührt.
@@ -1105,6 +1171,7 @@ und zur Hygiene zu unterstützen.
 
 
 #### § 57 Gesundheitsuntersuchungen, medizinische Vorsorgeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009701309)
 
 (1) Gefangene, die das fünfunddreißigste Lebensjahr vollendet haben,
 haben jedes zweite Jahr Anspruch auf eine ärztliche
@@ -1173,6 +1240,7 @@ sind,
 
 
 #### § 58 Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009801309)
 
 Gefangene haben Anspruch auf Krankenbehandlung, wenn sie notwendig
 ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu
@@ -1197,6 +1265,7 @@ umfaßt insbesondere
 
 
 #### § 59 Versorgung mit Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE009901309)
 
 Gefangene haben Anspruch auf Versorgung mit Seh- und Hörhilfen,
 Körperersatzstücken, orthopädischen und anderen Hilfsmitteln, die im
@@ -1215,6 +1284,7 @@ Ausnahmefällen.
 
 
 #### § 60 Krankenbehandlung im Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010001309)
 
 Während eines Urlaubs oder Ausgangs hat der Gefangene gegen die
 Vollzugsbehörde nur einen Anspruch auf Krankenbehandlung in der für
@@ -1222,6 +1292,7 @@ ihn zuständigen Vollzugsanstalt.
 
 
 #### § 61 Art und Umfang der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010101309)
 
 Für die Art der Gesundheitsuntersuchungen und medizinischen
 Vorsorgeleistungen sowie für den Umfang dieser Leistungen und der
@@ -1232,6 +1303,7 @@ Regelungen.
 
 
 #### § 62 Zuschüsse zu Zahnersatz und Zahnkronen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010201309)
 
 Die Landesjustizverwaltungen bestimmen durch allgemeine
 Verwaltungsvorschriften die Höhe der Zuschüsse zu den Kosten der
@@ -1241,6 +1313,7 @@ Kosten übernommen werden.
 
 
 #### § 62a Ruhen der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023100309)
 
 Der Anspruch auf Leistungen nach den §§ 57 bis 59 ruht, solange der
 Gefangene auf Grund eines freien Beschäftigungsverhältnisses (§ 39
@@ -1248,6 +1321,7 @@ Abs. 1) krankenversichert ist.
 
 
 #### § 63 Ärztliche Behandlung zur sozialen Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010300314)
 
 Mit Zustimmung des Gefangenen soll die Vollzugsbehörde ärztliche
 Behandlung, namentlich Operationen oder prothetische Maßnahmen
@@ -1258,6 +1332,7 @@ nicht in Frage gestellt wird.
 
 
 #### § 64 Aufenthalt im Freien
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010400314)
 
 Arbeitet ein Gefangener nicht im Freien, so wird ihm täglich
 mindestens eine Stunde Aufenthalt im Freien ermöglicht, wenn die
@@ -1265,6 +1340,7 @@ Witterung dies zu der festgesetzten Zeit zuläßt.
 
 
 #### § 65 Verlegung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010601111)
 
 (1) Ein kranker Gefangener kann in ein Anstaltskrankenhaus oder in
 eine für die Behandlung seiner Krankheit besser geeignete
@@ -1278,6 +1354,7 @@ außerhalb des Vollzuges zu bringen.
 
 
 #### § 66 Benachrichtigung bei Erkrankung oder Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010700314)
 
 (1) Wird ein Gefangener schwer krank, so ist ein Angehöriger, eine
 Person seines Vertrauens oder der gesetzliche Vertreter unverzüglich
@@ -1288,10 +1365,12 @@ benachrichtigen, soll nach Möglichkeit entsprochen werden.
 
 
 ### Achter Titel - Freizeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001000314)
 
 
 
 #### § 67 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010800314)
 
 Der Gefangene erhält Gelegenheit, sich in seiner Freizeit zu
 beschäftigen. Er soll Gelegenheit erhalten, am Unterricht
@@ -1302,6 +1381,7 @@ Bücherei zu benutzen.
 
 
 #### § 68 Zeitungen und Zeitschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE010900314)
 
 (1) Der Gefangene darf Zeitungen und Zeitschriften in angemessenem
 Umfang durch Vermittlung der Anstalt beziehen.
@@ -1314,6 +1394,7 @@ Ordnung der Anstalt erheblich gefährden würden.
 
 
 #### § 69 Hörfunk und Fernsehen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011001307)
 
 (1) Der Gefangene kann am Hörfunkprogramm der Anstalt sowie am
 gemeinschaftlichen Fernsehempfang teilnehmen. Die Sendungen sind so
@@ -1329,6 +1410,7 @@ des § 70 zugelassen.
 
 
 #### § 70 Besitz von Gegenständen für die Freizeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011100314)
 
 (1) Der Gefangene darf in angemessenem Umfang Bücher und andere
 Gegenstände zur Fortbildung oder zur Freizeitbeschäftigung besitzen.
@@ -1350,10 +1432,12 @@ widerrufen werden.
 
 
 ### Neunter Titel - Soziale Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001100314)
 
 
 
 #### § 71 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023000314)
 
 Der Gefangene kann die soziale Hilfe der Anstalt in Anspruch nehmen,
 um seine persönlichen Schwierigkeiten zu lösen. Die Hilfe soll darauf
@@ -1362,6 +1446,7 @@ Angelegenheiten selbst zu ordnen und zu regeln.
 
 
 #### § 72 Hilfe bei der Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011200314)
 
 (1) Bei der Aufnahme wird dem Gefangenen geholfen, die notwendigen
 Maßnahmen für hilfsbedürftige Angehörige zu veranlassen und seine Habe
@@ -1372,6 +1457,7 @@ Sozialversicherung zu beraten.
 
 
 #### § 73 Hilfe während des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011300314)
 
 Der Gefangene wird in dem Bemühen unterstützt, seine Rechte und
 Pflichten wahrzunehmen, namentlich sein Wahlrecht auszuüben sowie für
@@ -1380,6 +1466,7 @@ verursachten Schaden zu regeln.
 
 
 #### § 74 Hilfe zur Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011400314)
 
 Um die Entlassung vorzubereiten, ist der Gefangene bei der Ordnung
 seiner persönlichen, wirtschaftlichen und sozialen Angelegenheiten zu
@@ -1390,6 +1477,7 @@ Entlassung zu finden.
 
 
 #### § 75 Entlassungsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011500314)
 
 (1) Der Gefangene erhält, soweit seine eigenen Mittel nicht
 ausreichen, von der Anstalt eine Beihilfe zu den Reisekosten sowie
@@ -1411,10 +1499,12 @@ Abs. 5 entsprechend.
 
 
 ### Zehnter Titel - Besondere Vorschriften für den Frauenstrafvollzug
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001200314)
 
 
 
 #### § 76 Leistungen bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011601309)
 
 (1) Bei einer Schwangeren oder einer Gefangenen, die unlängst
 entbunden hat, ist auf ihren Zustand Rücksicht zu nehmen. Die
@@ -1436,18 +1526,21 @@ eine Hebamme und, falls erforderlich, durch einen Arzt gewährt.
 
 
 #### § 77 Arznei-, Verband- und Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011700314)
 
 Bei Schwangerschaftsbeschwerden und im Zusammenhang mit der Entbindung
 werden Arznei-, Verband- und Heilmittel geleistet.
 
 
 #### § 78 Art, Umfang und Ruhen der Leistungen bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011801309)
 
 Die §§ 60, 61, 62a und 65 gelten für die Leistungen nach den §§ 76 und
 77 entsprechend.
 
 
 #### § 79 Geburtsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE011901301)
 
 In der Anzeige der Geburt an das Standesamt dürfen die Anstalt als
 Geburtsstätte des Kindes, das Verhältnis des Anzeigenden zur Anstalt
@@ -1455,6 +1548,7 @@ und die Gefangenschaft der Mutter nicht vermerkt sein.
 
 
 #### § 80 Mütter mit Kindern
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012000314)
 
 (1) Ist das Kind einer Gefangenen noch nicht schulpflichtig, so kann
 es mit Zustimmung des Inhabers des Aufenthaltsbestimmungsrechts in der
@@ -1469,10 +1563,12 @@ gemeinsame Unterbringung von Mutter und Kind gefährdet würde.
 
 
 ### Elfter Titel - Sicherheit und Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001300314)
 
 
 
 #### § 81 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012100314)
 
 (1) Das Verantwortungsbewußtsein des Gefangenen für ein geordnetes
 Zusammenleben in der Anstalt ist zu wecken und zu fördern.
@@ -1485,6 +1581,7 @@ notwendig beeinträchtigen.
 
 
 #### § 82 Verhaltensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012200314)
 
 (1) Der Gefangene hat sich nach der Tageseinteilung der Anstalt
 (Arbeitszeit, Freizeit, Ruhezeit) zu richten. Er darf durch sein
@@ -1504,6 +1601,7 @@ unverzüglich zu melden.
 
 
 #### § 83 Persönlicher Gewahrsam. Eigengeld
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012300314)
 
 (1) Der Gefangene darf nur Sachen in Gewahrsam haben oder annehmen,
 die ihm von der Vollzugsbehörde oder mit ihrer Zustimmung überlassen
@@ -1530,6 +1628,7 @@ Vollzugsbehörde vernichtet oder unbrauchbar gemacht werden.
 
 
 #### § 84 Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012401307)
 
 (1) Gefangene, ihre Sachen und die Hafträume dürfen durchsucht werden.
 Die Durchsuchung männlicher Gefangener darf nur von Männern, die
@@ -1549,6 +1648,7 @@ der Anstalt nach Absatz 2 zu durchsuchen sind.
 
 
 #### § 85 Sichere Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012500314)
 
 Ein Gefangener kann in eine Anstalt verlegt werden, die zu seiner
 sicheren Unterbringung besser geeignet ist, wenn in erhöhtem Maß
@@ -1557,6 +1657,7 @@ eine Gefahr für die Sicherheit oder Ordnung der Anstalt darstellt.
 
 
 #### § 86 Erkennungsdienstliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012603125)
 
 (1) Zur Sicherung des Vollzuges sind als erkennungsdienstliche
 Maßnahmen zulässig
@@ -1595,6 +1696,7 @@ erkennungsdienstlichen Behandlung und bei der Entlassung aufzuklären.
 
 
 #### § 86a Lichtbilder
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE025000301)
 
 (1) Unbeschadet des § 86 dürfen zur Aufrechterhaltung der Sicherheit
 und Ordnung der Anstalt Lichtbilder der Gefangenen aufgenommen und mit
@@ -1630,6 +1732,7 @@ oder zu löschen.
 
 
 #### § 87 Festnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012702301)
 
 (1) Ein Gefangener, der entwichen ist oder sich sonst ohne Erlaubnis
 außerhalb der Anstalt aufhält, kann durch die Vollzugsbehörde oder auf
@@ -1645,6 +1748,7 @@ Gefangenen erforderlich ist.
 
 
 #### § 88 Besondere Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012801125)
 
 (1) Gegen einen Gefangenen können besondere Sicherungsmaßnahmen
 angeordnet werden, wenn nach seinem Verhalten oder auf Grund seines
@@ -1688,6 +1792,7 @@ werden, als es ihr Zweck erfordert.
 
 
 #### § 89 Einzelhaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE012900314)
 
 (1) Die unausgesetzte Absonderung eines Gefangenen (Einzelhaft) ist
 nur zulässig, wenn dies aus Gründen, die in der Person des Gefangenen
@@ -1700,6 +1805,7 @@ Freistunde teilnimmt.
 
 
 #### § 90 Fesselung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013000314)
 
 In der Regel dürfen Fesseln nur an den Händen oder an den Füßen
 angelegt werden. Im Interesse des Gefangenen kann der Anstaltsleiter
@@ -1708,6 +1814,7 @@ gelockert, soweit dies notwendig ist.
 
 
 #### § 91 Anordnung besonderer Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013100314)
 
 (1) Besondere Sicherungsmaßnahmen ordnet der Anstaltsleiter an. Bei
 Gefahr im Verzug können auch andere Bedienstete der Anstalt diese
@@ -1721,6 +1828,7 @@ Stellungnahme unverzüglich eingeholt.
 
 
 #### § 92 Ärztliche Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013200314)
 
 (1) Ist ein Gefangener in einem besonders gesicherten Haftraum
 untergebracht oder gefesselt (§ 88 Abs. 2 Nr. 5 und 6), so sucht ihn
@@ -1733,6 +1841,7 @@ tägliche Aufenthalt im Freien entzogen wird.
 
 
 #### § 93 Ersatz von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013402311)
 
 (1) Der Gefangene ist verpflichtet, der Vollzugsbehörde Aufwendungen
 zu ersetzen, die er durch eine vorsätzliche oder grob fahrlässige
@@ -1752,10 +1861,12 @@ Gefangenen oder seine Eingliederung behindert würde.
 
 
 ### Zwölfter Titel - Unmittelbarer Zwang
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001400314)
 
 
 
 #### § 94 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013500314)
 
 (1) Bedienstete der Justizvollzugsanstalten dürfen unmittelbaren Zwang
 anwenden, wenn sie Vollzugs- und Sicherungsmaßnahmen rechtmäßig
@@ -1772,6 +1883,7 @@ bleibt unberührt.
 
 
 #### § 95 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013600314)
 
 (1) Unmittelbarer Zwang ist die Einwirkung auf Personen oder Sachen
 durch körperliche Gewalt, ihre Hilfsmittel und durch Waffen.
@@ -1786,6 +1898,7 @@ sowie Reizstoffe.
 
 
 #### § 96 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013700314)
 
 (1) Unter mehreren möglichen und geeigneten Maßnahmen des
 unmittelbaren Zwanges sind diejenigen zu wählen, die den Einzelnen und
@@ -1796,6 +1909,7 @@ Schaden erkennbar außer Verhältnis zu dem angestrebten Erfolg steht.
 
 
 #### § 97 Handeln auf Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013801160)
 
 (1) Wird unmittelbarer Zwang von einem Vorgesetzten oder einer sonst
 befugten Person angeordnet, sind Vollzugsbedienstete verpflichtet, ihn
@@ -1817,6 +1931,7 @@ nicht anzuwenden.
 
 
 #### § 98 Androhung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE013900314)
 
 Unmittelbarer Zwang ist vorher anzudrohen. Die Androhung darf nur dann
 unterbleiben, wenn die Umstände sie nicht zulassen oder unmittelbarer
@@ -1826,6 +1941,7 @@ gegenwärtige Gefahr abzuwenden.
 
 
 #### § 99 Allgemeine Vorschriften für den Schußwaffengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014000314)
 
 (1) Schußwaffen dürfen nur gebraucht werden, wenn andere Maßnahmen des
 unmittelbaren Zwanges bereits erfolglos waren oder keinen Erfolg
@@ -1844,6 +1960,7 @@ Leib oder Leben erforderlich ist.
 
 
 #### § 100 Besondere Vorschriften für den Schußwaffengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014100314)
 
 (1) Gegen Gefangene dürfen Schußwaffen gebraucht werden,
 
@@ -1867,6 +1984,7 @@ eine Anstalt einzudringen.
 
 
 #### § 101 Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014201306)
 
 (1) Medizinische Untersuchung und Behandlung sowie Ernährung sind
 zwangsweise nur bei Lebensgefahr, bei schwerwiegender Gefahr für die
@@ -1888,10 +2006,12 @@ Aufschub Lebensgefahr verbunden ist.
 
 
 ### Dreizehnter Titel - Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001500314)
 
 
 
 #### § 102 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014300314)
 
 (1) Verstößt ein Gefangener schuldhaft gegen Pflichten, die ihm durch
 dieses Gesetz oder auf Grund dieses Gesetzes auferlegt sind, kann der
@@ -1905,6 +2025,7 @@ Verfehlung ein Straf- oder Bußgeldverfahren eingeleitet wird.
 
 
 #### § 103 Arten der Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014401307)
 
 (1) Die zulässigen Disziplinarmaßnahmen sind:
 
@@ -1957,6 +2078,7 @@ einer Verbindung mit Arrest.
 Vollzug der Disziplinarmaßnahmen.
 
 #### § 104 Aussetzung zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014500314)
 
 (1) Disziplinarmaßnahmen werden in der Regel sofort vollstreckt.
 
@@ -1984,6 +2106,7 @@ wird, ruhen die Befugnisse des Gefangenen aus den §§ 19, 20, 22, 37,
 
 
 #### § 105 Disziplinarbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014600314)
 
 (1) Disziplinarmaßnahmen ordnet der Anstaltsleiter an. Bei einer
 Verfehlung auf dem Weg in eine andere Anstalt zum Zwecke der Verlegung
@@ -1998,6 +2121,7 @@ sind, werden auf Ersuchen vollstreckt. § 104 Abs. 2 bleibt unberührt.
 
 
 #### § 106 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014700314)
 
 (1) Der Sachverhalt ist zu klären. Der Gefangene wird gehört. Die
 Erhebungen werden in einer Niederschrift festgelegt; die Einlassung
@@ -2015,6 +2139,7 @@ eröffnet und mit einer kurzen Begründung schriftlich abgefaßt.
 
 
 #### § 107 Mitwirkung des Arztes
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014800314)
 
 (1) Bevor der Arrest vollzogen wird, ist der Arzt zu hören. Während
 des Arrestes steht der Gefangene unter ärztlicher Aufsicht.
@@ -2024,10 +2149,12 @@ die Gesundheit des Gefangenen gefährdet würde.
 
 
 ### Vierzehnter Titel - Rechtsbehelfe und gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001601125)
 
 
 
 #### § 108 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE014900314)
 
 (1) Der Gefangene erhält Gelegenheit, sich mit Wünschen, Anregungen
 und Beschwerden in Angelegenheiten, die ihn selbst betreffen, an den
@@ -2041,6 +2168,7 @@ selbst betreffen, an ihn wenden kann.
 
 
 #### § 109 Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015001308)
 
 (1) Gegen eine Maßnahme zur Regelung einzelner Angelegenheiten auf dem
 Gebiet des Strafvollzuges oder des Vollzuges freiheitsentziehender
@@ -2065,12 +2193,14 @@ zuständigen Gerichts.
 
 
 #### § 110 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015101308)
 
 Über den Antrag entscheidet die Strafvollstreckungskammer, in deren
 Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat.
 
 
 #### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE025210131)
 
 (1) Die Gerichtsakten können elektronisch geführt werden. Die
 Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, von
@@ -2138,6 +2268,7 @@ zuständigen Bundesministerien übertragen.
 
 
 #### § 111 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015200314)
 
 (1) Beteiligte des gerichtlichen Verfahrens sind
 
@@ -2156,6 +2287,7 @@ Aufsichtsbehörde.
 
 
 #### § 112 Antragsfrist. Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015302311)
 
 (1) Der Antrag muß binnen zwei Wochen nach Zustellung oder
 schriftlicher Bekanntgabe der Maßnahme oder ihrer Ablehnung
@@ -2179,6 +2311,7 @@ Jahresfrist infolge höherer Gewalt unmöglich war.
 
 
 #### § 113 Vornahmeantrag
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015400314)
 
 (1) Wendet sich der Antragsteller gegen das Unterlassen einer
 Maßnahme, kann der Antrag auf gerichtliche Entscheidung nicht vor
@@ -2200,6 +2333,7 @@ Einzelfalles unterblieben ist.
 
 
 #### § 114 Aussetzung der Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015500314)
 
 (1) Der Antrag auf gerichtliche Entscheidung hat keine aufschiebende
 Wirkung.
@@ -2218,6 +2352,7 @@ Stellung des Antrags auf gerichtliche Entscheidung zulässig.
 
 
 #### § 115 Gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015604311)
 
 (1) Das Gericht entscheidet ohne mündliche Verhandlung durch Beschluß.
 Der Beschluss stellt den Sach- und Streitstand seinem wesentlichen
@@ -2261,6 +2396,7 @@ der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht ist.
 
 
 #### § 116 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015700314)
 
 (1) Gegen die gerichtliche Entscheidung der Strafvollstreckungskammer
 ist die Rechtsbeschwerde zulässig, wenn es geboten ist, die
@@ -2281,6 +2417,7 @@ Gesetz nichts anderes bestimmt.
 
 
 #### § 117 Zuständigkeit für die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015800314)
 
 Über die Rechtsbeschwerde entscheidet ein Strafsenat des
 Oberlandesgerichts, in dessen Bezirk die Strafvollstreckungskammer
@@ -2288,6 +2425,7 @@ ihren Sitz hat.
 
 
 #### § 118 Form. Frist. Begründung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE015901311)
 
 (1) Die Rechtsbeschwerde muß bei dem Gericht, dessen Entscheidung
 angefochten wird, binnen eines Monats nach Zustellung der
@@ -2307,6 +2445,7 @@ Geschäftsstelle tun.
 
 
 #### § 119 Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016000314)
 
 (1) Der Strafsenat entscheidet ohne mündliche Verhandlung durch
 Beschluß.
@@ -2330,6 +2469,7 @@ Strafvollstreckungskammer zurückzuverweisen.
 
 
 #### § 119a Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE025101125)
 
 (1) Ist die Unterbringung in der Sicherungsverwahrung angeordnet oder
 vorbehalten, stellt das Gericht während des Vollzuges der
@@ -2390,6 +2530,7 @@ gebunden.
 
 
 #### § 120 Entsprechende Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016104125)
 
 (1) Kommt die Behörde in den Fällen des § 114 Absatz 2 Satz 2 sowie
 des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen
@@ -2406,6 +2547,7 @@ der Zivilprozeßordnung entsprechend anzuwenden.
 
 
 #### § 121 Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016204308)
 
 (1) In der das Verfahren abschließenden Entscheidung ist zu bestimmen,
 von wem die Kosten des Verfahrens und die notwendigen Auslagen zu
@@ -2432,6 +2574,7 @@ Teil des Hausgeldes (§ 47) in Anspruch genommen werden.
 
 
 #### § 121a Gerichtliche Zuständigkeit bei dem Richtervorbehalt unterliegenden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE025300125)
 
 (1) Soweit nach den Vollzugsgesetzen eine Maßnahme der vorherigen
 gerichtlichen Anordnung oder der gerichtlichen Genehmigung bedarf, ist
@@ -2447,6 +2590,7 @@ Anstalt zuständige Aufsichtsbehörde ihren Sitz hat.
 
 
 #### § 121b Gerichtliches Verfahren bei dem Richtervorbehalt unterliegenden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE025400125)
 
 (1) Das gerichtliche Verfahren im Sinne des § 121a richtet sich nach
 dem Gesetz über das Verfahren in Familiensachen und in den
@@ -2461,19 +2605,23 @@ die Rechtsbeschwerde der Bundesgerichtshof.
 
 
 ### Fünfzehnter Titel - Strafvollstreckung und Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001700314)
 
 
 
 #### § 122
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016301160)
 
 (weggefallen)
 
 
 ### Sechzehnter Titel - Sozialtherapeutische Anstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003500306)
 
 
 
 #### § 123 Sozialtherapeutische Anstalten und Abteilungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016401306)
 
 (1) Für den Vollzug nach § 9 sind von den übrigen Vollzugsanstalten
 getrennte sozialtherapeutische Anstalten vorzusehen.
@@ -2485,6 +2633,7 @@ sozialtherapeutische Anstalt entsprechend.
 
 
 #### § 124 Urlaub zur Vorbereitung der Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016501306)
 
 (1) Der Anstaltsleiter kann dem Gefangenen zur Vorbereitung der
 Entlassung Sonderurlaub bis zu sechs Monaten gewähren. § 11 Abs. 2 und
@@ -2500,6 +2649,7 @@ dies für die Behandlung des Gefangenen notwendig ist.
 
 
 #### § 125 Aufnahme auf freiwilliger Grundlage
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016601306)
 
 (1) Ein früherer Gefangener kann auf seinen Antrag vorübergehend
 wieder in die sozialtherapeutische Anstalt aufgenommen werden, wenn
@@ -2514,6 +2664,7 @@ unmittelbarem Zwang durchgesetzt werden.
 
 
 #### § 126 Nachgehende Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016701306)
 
 Die Zahl der Fachkräfte für die sozialtherapeutische Anstalt ist so zu
 bemessen, daß auch eine nachgehende Betreuung der Gefangenen
@@ -2522,19 +2673,23 @@ werden kann.
 
 
 #### (XXXX) §§ 127 und 128
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE016802306)
 
 -
 
 
 ## Dritter Abschnitt - Besondere Vorschriften über den Vollzug der freiheitsentziehenden Maßregeln der Besserung und Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG001800314)
 
 
 
 ### Erster Titel - Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002001306)
 
 
 
 #### § 129 Ziel der Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017100314)
 
 Der Sicherungsverwahrte wird zum Schutz der Allgemeinheit sicher
 untergebracht. Ihm soll geholfen werden, sich in das Leben in Freiheit
@@ -2542,6 +2697,7 @@ einzugliedern.
 
 
 #### § 130 Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017204125)
 
 Für die Sicherungsverwahrung gelten die Vorschriften über den Vollzug
 der Freiheitsstrafe (§§ 3 bis 119 sowie 120 bis 126) entsprechend,
@@ -2549,6 +2705,7 @@ soweit im folgenden nichts anderes bestimmt ist.
 
 
 #### § 131 Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017300314)
 
 Die Ausstattung der Sicherungsanstalten, namentlich der Hafträume, und
 besondere Maßnahmen zur Förderung und Betreuung sollen dem
@@ -2559,6 +2716,7 @@ Rechnung zu tragen.
 
 
 #### § 132 Kleidung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017400314)
 
 Der Untergebrachte darf eigene Kleidung, Wäsche und eigenes Bettzeug
 benutzen, wenn Gründe der Sicherheit nicht entgegenstehen und der
@@ -2567,6 +2725,7 @@ auf eigene Kosten sorgt.
 
 
 #### § 133 Selbstbeschäftigung. Taschengeld
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017502311)
 
 (1) Dem Untergebrachten wird gestattet, sich gegen Entgelt selbst zu
 beschäftigen, wenn dies dem Ziel dient, Fähigkeiten für eine
@@ -2578,6 +2737,7 @@ Eckvergütung nach § 43 Abs. 2 im Monat nicht unterschreiten.
 
 
 #### § 134 Entlassungsvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017601306)
 
 Um die Entlassung zu erproben und vorzubereiten, kann der Vollzug
 gelockert und Sonderurlaub bis zu einem Monat gewährt werden. Bei
@@ -2586,6 +2746,7 @@ unberührt.
 
 
 #### § 135 Sicherungsverwahrung in Frauenanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017700314)
 
 Die Sicherungsverwahrung einer Frau kann auch in einer für den Vollzug
 der Freiheitsstrafe bestimmten Frauenanstalt durchgeführt werden, wenn
@@ -2593,10 +2754,12 @@ diese Anstalt für die Sicherungsverwahrung eingerichtet ist.
 
 
 ### Zweiter Titel - Unterbringung in einem psychiatrischen Krankenhaus und in einer Entziehungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002101306)
 
 
 
 #### § 136 Unterbringung in einem psychiatrischen Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017800314)
 
 Die Behandlung des Untergebrachten in einem psychiatrischen
 Krankenhaus richtet sich nach ärztlichen Gesichtspunkten. Soweit
@@ -2606,6 +2769,7 @@ Betreuung und Pflege zuteil.
 
 
 #### § 137 Unterbringung in einer Entziehungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE017900314)
 
 Ziel der Behandlung des Untergebrachten in einer Entziehungsanstalt
 ist es, ihn von seinem Hang zu heilen und die zugrunde liegende
@@ -2613,6 +2777,7 @@ Fehlhaltung zu beheben.
 
 
 #### § 138 Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018003125)
 
 (1) Die Unterbringung in einem psychiatrischen Krankenhaus oder in
 einer Entziehungsanstalt richtet sich nach Landesrecht, soweit
@@ -2642,14 +2807,17 @@ die §§ 121a und 121b entsprechend.
 
 
 ## Vierter Abschnitt - Vollzugsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002200314)
 
 
 
 ### Erster Titel - Arten und Einrichtung der Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002300314)
 
 
 
 #### § 139 Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018101306)
 
 Die Freiheitsstrafe sowie die Unterbringung in der
 Sicherungsverwahrung werden in Anstalten der Landesjustizverwaltungen
@@ -2657,6 +2825,7 @@ Sicherungsverwahrung werden in Anstalten der Landesjustizverwaltungen
 
 
 #### § 140 Trennung des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018201306)
 
 (1) Die Unterbringung in der Sicherungsverwahrung wird in getrennten
 Anstalten oder in getrennten Abteilungen einer für den Vollzug der
@@ -2673,6 +2842,7 @@ Abteilung zu ermöglichen.
 
 
 #### § 141 Differenzierung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018300314)
 
 (1) Für den Vollzug der Freiheitsstrafe sind Haftplätze vorzusehen in
 verschiedenen Anstalten oder Abteilungen, in denen eine auf die
@@ -2685,12 +2855,14 @@ verminderte Vorkehrungen gegen Entweichungen.
 
 
 #### § 142 Einrichtungen für Mütter mit Kindern
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018400314)
 
 In Anstalten für Frauen sollen Einrichtungen vorgesehen werden, in
 denen Mütter mit ihren Kindern untergebracht werden können.
 
 
 #### § 143 Größe und Gestaltung der Anstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018500314)
 
 (1) Justizvollzugsanstalten sind so zu gestalten, daß eine auf die
 Bedürfnisse des einzelnen abgestellte Behandlung gewährleistet ist.
@@ -2705,6 +2877,7 @@ zweihundert Plätze nicht übersteigen.
 
 
 #### § 144 Größe und Ausgestaltung der Räume
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018602311)
 
 (1) Räume für den Aufenthalt während der Ruhe- und Freizeit sowie
 Gemeinschafts- und Besuchsräume sind wohnlich oder sonst ihrem Zweck
@@ -2719,6 +2892,7 @@ sowie die Heizung und Einrichtung der Räume zu bestimmen.
 
 
 #### § 145 Festsetzung der Belegungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018700314)
 
 Die Aufsichtsbehörde setzt die Belegungsfähigkeit für jede Anstalt so
 fest, daß eine angemessene Unterbringung während der Ruhezeit (§ 18)
@@ -2729,6 +2903,7 @@ Besuche zur Verfügung steht.
 
 
 #### § 146 Verbot der Überbelegung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018800314)
 
 (1) Hafträume dürfen nicht mit mehr Personen als zugelassen belegt
 werden.
@@ -2738,6 +2913,7 @@ der Aufsichtsbehörde zulässig.
 
 
 #### § 147 Einrichtungen für die Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE018900314)
 
 Um die Entlassung vorzubereiten, sollen den geschlossenen Anstalten
 offene Einrichtungen angegliedert oder gesonderte offene Anstalten
@@ -2745,6 +2921,7 @@ vorgesehen werden.
 
 
 #### § 148 Arbeitsbeschaffung, Gelegenheit zur beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019002301)
 
 (1) Die Vollzugsbehörde soll im Zusammenwirken mit den Vereinigungen
 und Stellen des Arbeits- und Wirtschaftslebens dafür sorgen, daß jeder
@@ -2759,6 +2936,7 @@ Arbeitsvermittlung durchführen kann.
 
 
 #### § 149 Arbeitsbetriebe, Einrichtungen zur beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019100314)
 
 (1) In den Anstalten sind die notwendigen Betriebe für die nach § 37
 Abs. 2 zuzuweisenden Arbeiten sowie die erforderlichen Einrichtungen
@@ -2778,16 +2956,19 @@ Angehörigen dieser Unternehmen übertragen werden.
 
 
 #### § 150 Vollzugsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019200314)
 
 Für Vollzugsanstalten nach den §§ 139 bis 149 können die Länder
 Vollzugsgemeinschaften bilden.
 
 
 ### Zweiter Titel - Aufsicht über die Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002400314)
 
 
 
 #### § 151 Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019300314)
 
 (1) Die Landesjustizverwaltungen führen die Aufsicht über die
 Justizvollzugsanstalten. Sie können Aufsichtsbefugnisse auf
@@ -2801,6 +2982,7 @@ verfügt, ist fachliche Beratung sicherzustellen.
 
 
 #### § 152 Vollstreckungsplan
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019400314)
 
 (1) Die Landesjustizverwaltung regelt die örtliche und sachliche
 Zuständigkeit der Justizvollzugsanstalten in einem Vollstreckungsplan.
@@ -2815,16 +2997,19 @@ bestimmen.
 
 
 #### § 153 Zuständigkeit für Verlegungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019500314)
 
 Die Landesjustizverwaltung kann sich Entscheidungen über Verlegungen
 vorbehalten oder sie einer zentralen Stelle übertragen.
 
 
 ### Dritter Titel - Innerer Aufbau der Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002500314)
 
 
 
 #### § 154 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019601301)
 
 (1) Alle im Vollzug Tätigen arbeiten zusammen und wirken daran mit,
 die Aufgaben des Vollzuges zu erfüllen.
@@ -2839,6 +3024,7 @@ Eingliederung des Gefangenen fördern kann, zusammenarbeiten.
 
 
 #### § 155 Vollzugsbedienstete
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019700314)
 
 (1) Die Aufgaben der Justizvollzugsanstalten werden von
 Vollzugsbeamten wahrgenommen. Aus besonderen Gründen können sie auch
@@ -2853,6 +3039,7 @@ und Sozialarbeitern vorzusehen.
 
 
 #### § 156 Anstaltsleitung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019800314)
 
 (1) Für jede Justizvollzugsanstalt ist ein Beamter des höheren
 Dienstes zum hauptamtlichen Leiter zu bestellen. Aus besonderen
@@ -2871,6 +3058,7 @@ werden.
 
 
 #### § 157 Seelsorge
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE019900314)
 
 (1) Seelsorger werden im Einvernehmen mit der jeweiligen
 Religionsgemeinschaft im Hauptamt bestellt oder vertraglich
@@ -2886,6 +3074,7 @@ andere religiöse Veranstaltungen Seelsorger von außen zuziehen.
 
 
 #### § 158 Ärztliche Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020001311)
 
 (1) Die ärztliche Versorgung ist durch hauptamtliche Ärzte
 sicherzustellen. Sie kann aus besonderen Gründen nebenamtlichen oder
@@ -2900,6 +3089,7 @@ erfahren haben.
 
 
 #### § 159 Konferenzen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020100314)
 
 Zur Aufstellung und Überprüfung des Vollzugsplanes und zur
 Vorbereitung wichtiger Entscheidungen im Vollzug führt der
@@ -2908,6 +3098,7 @@ Beteiligten durch.
 
 
 #### § 160 Gefangenenmitverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020200314)
 
 Den Gefangenen und Untergebrachten soll ermöglicht werden, an der
 Verantwortung für Angelegenheiten von gemeinsamem Interesse
@@ -2916,6 +3107,7 @@ für ihre Mitwirkung eignen.
 
 
 #### § 161 Hausordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020300314)
 
 (1) Der Anstaltsleiter erläßt eine Hausordnung. Sie bedarf der
 Zustimmung der Aufsichtsbehörde.
@@ -2939,10 +3131,12 @@ Zustimmung der Aufsichtsbehörde.
 
 
 ### Vierter Titel - Anstaltsbeiräte
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002600314)
 
 
 
 #### § 162 Bildung der Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020400314)
 
 (1) Bei den Justizvollzugsanstalten sind Beiräte zu bilden.
 
@@ -2952,6 +3146,7 @@ Zustimmung der Aufsichtsbehörde.
 
 
 #### § 163 Aufgabe der Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020500314)
 
 Die Mitglieder des Beirats wirken bei der Gestaltung des Vollzuges und
 bei der Betreuung der Gefangenen mit. Sie unterstützen den
@@ -2960,6 +3155,7 @@ bei der Eingliederung der Gefangenen nach der Entlassung.
 
 
 #### § 164 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020600314)
 
 (1) Die Mitglieder des Beirats können namentlich Wünsche, Anregungen
 und Beanstandungen entgegennehmen. Sie können sich über die
@@ -2973,6 +3169,7 @@ Schriftwechsel werden nicht überwacht.
 
 
 #### § 165 Pflicht zur Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020700314)
 
 Die Mitglieder des Beirats sind verpflichtet, außerhalb ihres Amtes
 über alle Angelegenheiten, die ihrer Natur nach vertraulich sind,
@@ -2982,10 +3179,12 @@ Beendigung ihres Amtes.
 
 
 ### Fünfter Titel - Kriminologische Forschung im Strafvollzug
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002700314)
 
 
 
 #### § 166
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020802125)
 
 (1) Dem kriminologischen Dienst obliegt es, in Zusammenarbeit mit den
 Einrichtungen der Forschung den Vollzug, namentlich die
@@ -2996,14 +3195,17 @@ Ergebnisse für Zwecke der Strafrechtspflege nutzbar zu machen.
 
 
 ## Fünfter Abschnitt - Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002802125)
 
 
 
 ### Erster Titel - Vollzug des Strafarrestes in Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG002900314)
 
 
 
 #### § 167 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE020906125)
 
 Für den Vollzug des Strafarrestes in Justizvollzugsanstalten gelten §
 119 Absatz 5 und 6 der Strafprozessordnung sowie die Vorschriften über
@@ -3013,6 +3215,7 @@ Fällen einer in § 39 erwähnten Beschäftigung Anwendung.
 
 
 #### § 168 Unterbringung, Besuche und Schriftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021000314)
 
 (1) Eine gemeinsame Unterbringung während der Arbeit, Freizeit und
 Ruhezeit (§§ 17 und 18) ist nur mit Einwilligung des Gefangenen
@@ -3030,6 +3233,7 @@ notwendig ist.
 
 
 #### § 169 Kleidung, Wäsche und Bettzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021100314)
 
 Der Gefangene darf eigene Kleidung, Wäsche und eigenes Bettzeug
 benutzen, wenn Gründe der Sicherheit nicht entgegenstehen und der
@@ -3038,6 +3242,7 @@ eigene Kosten sorgt.
 
 
 #### § 170 Einkauf
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021200314)
 
 Der Gefangene darf Nahrungs- und Genußmittel sowie Mittel zur
 Körperpflege in angemessenem Umfang durch Vermittlung der Anstalt auf
@@ -3045,10 +3250,12 @@ eigene Kosten erwerben.
 
 
 ### Zweiter Titel - Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003000314)
 
 
 
 #### § 171 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021306125)
 
 Für den Vollzug einer gerichtlich angeordneten Ordnungs-, Sicherungs-,
 Zwangs- und Erzwingungshaft gelten § 119 Absatz 5 und 6 der
@@ -3059,6 +3266,7 @@ etwas anderes bestimmt ist.
 
 
 #### § 171a Fixierung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE025500125)
 
 (1) Eine Fesselung, durch die die Bewegungsfreiheit des Gefangenen
 vollständig aufgehoben wird (Fixierung), ist nur zulässig, soweit und
@@ -3101,6 +3309,7 @@ die Zulässigkeit der durchgeführten Maßnahme beim zuständigen Gericht
 
 
 #### § 172 Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021400314)
 
 Eine gemeinsame Unterbringung während der Arbeit, Freizeit und
 Ruhezeit (§§ 17 und 18) ist nur mit Einwilligung des Gefangenen
@@ -3111,6 +3320,7 @@ wird.
 
 
 #### § 173 Kleidung, Wäsche und Bettzeug
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021500314)
 
 Der Gefangene darf eigene Kleidung, Wäsche und eigenes Bettzeug
 benutzen, wenn Gründe der Sicherheit nicht entgegenstehen und der
@@ -3119,6 +3329,7 @@ eigene Kosten sorgt.
 
 
 #### § 174 Einkauf
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021600314)
 
 Der Gefangene darf Nahrungs- und Genußmittel sowie Mittel zur
 Körperpflege in angemessenem Umfang durch Vermittlung der Anstalt auf
@@ -3126,16 +3337,19 @@ eigene Kosten erwerben.
 
 
 #### § 175 Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021700314)
 
 Der Gefangene ist zu einer Arbeit, Beschäftigung oder Hilfstätigkeit
 nicht verpflichtet.
 
 
 ### Dritter Titel - Arbeitsentgelt in Jugendstrafanstalten und im Vollzug der Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003100314)
 
 
 
 #### § 176 Jugendstrafanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE021901311)
 
 (1) Übt ein Gefangener in einer Jugendstrafanstalt eine ihm
 zugewiesene Arbeit aus, so erhält er unbeschadet der Vorschriften des
@@ -3156,6 +3370,7 @@ Taschengeld gewährt, falls er bedürftig ist.
 
 
 #### § 177 Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022001311)
 
 Übt der Untersuchungsgefangene eine ihm zugewiesene Arbeit,
 Beschäftigung oder Hilfstätigkeit aus, so erhält er ein nach § 43 Abs.
@@ -3168,10 +3383,12 @@ Anwendung. Für junge und heranwachsende Untersuchungsgefangene gilt §
 
 
 ### Vierter Titel - Unmittelbarer Zwang in Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003200314)
 
 
 
 #### § 178
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022101160)
 
 (1) Die §§ 94 bis 101 über den unmittelbaren Zwang gelten nach Maßgabe
 der folgenden Absätze auch für Justizvollzugsbedienstete außerhalb des
@@ -3191,10 +3408,12 @@ weitere Einschränkungen des Rechtes zum Schußwaffengebrauch vorsehen.
 
 
 ### Fünfter Titel - Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003601125)
 
 
 
 #### § 179 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023402125)
 
 (1) Die Vollzugsbehörde darf personenbezogene Daten erheben, soweit
 deren Kenntnis für den ihr nach diesem Gesetz aufgegebenen Vollzug der
@@ -3266,6 +3485,7 @@ Ausnahmen nicht, wenn
 
 
 #### § 180 Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023502125)
 
 (1) Die Vollzugsbehörde darf personenbezogene Daten verarbeiten,
 soweit dies für den ihr nach diesem Gesetz aufgegebenen Vollzug der
@@ -3385,6 +3605,7 @@ der Zweck der Übermittlung der Daten gefährdet würde.
 
 
 #### § 181 Zweckbindung bei Übermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023601125)
 
 (1) Von der Vollzugsbehörde an eine öffentliche Stelle übermittelte
 personenbezogene Daten dürfen nur zu dem Zweck verarbeitet werden, zu
@@ -3402,6 +3623,7 @@ Vollzugsbehörde zugestimmt hat.
 
 
 #### § 182 Schutz besonderer Kategorien personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023702125)
 
 (1) Das religiöse oder weltanschauliche Bekenntnis eines Gefangenen
 und personenbezogene Daten, die anläßlich ärztlicher Untersuchungen
@@ -3446,6 +3668,7 @@ sind.
 
 
 #### § 183 Schutz der Daten in Akten und Dateisystemen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023801125)
 
 (1) Der einzelne Vollzugsbedienstete darf sich von personenbezogenen
 Daten nur Kenntnis verschaffen, soweit dies zur Erfüllung der ihm
@@ -3461,6 +3684,7 @@ Unterlagen zu führen und besonders zu sichern.
 
 
 #### § 184 Berichtigung, Löschung und Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023902125)
 
 (1) Die in Dateisystemen gespeicherten personenbezogenen Daten sind
 spätestens zwei Jahre nach der Entlassung des Gefangenen oder der
@@ -3523,6 +3747,7 @@ schutzwürdiger Interessen der betroffenen Person erforderlich ist.
 
 
 #### § 185 Auskunft an den die betroffene Person, Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024001125)
 
 Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der
 Verordnung (EU) 2016/679 besteht nicht, soweit die Voraussetzungen
@@ -3538,6 +3763,7 @@ Landesbehörde.
 
 
 #### § 186 Auskunft und Akteneinsicht für wissenschaftliche Zwecke und zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024102125)
 
 (1) Für die Auskunft und Akteneinsicht für wissenschaftliche Zwecke
 gilt § 476 der Strafprozessordnung entsprechend.
@@ -3551,53 +3777,64 @@ der Aufgaben des Ausschusses unbedingt erforderlich ist.
 
 
 #### § 187 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024202125)
 
 
 
 ### Sechster Titel - Anpassung des Bundesrechts
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003301307)
 
 
 
 #### § 188
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024300307)
 
 (weggefallen)
 
 
 #### § 189 Verordnung über Kosten im Bereich der Justizverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024400307)
 
 -
 
 
 ### Siebter Titel - Sozial- und Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003700307)
 
 
 
 #### § 190 Reichsversicherungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024500307)
 
 -
 
 
 #### § 191 Angestelltenversicherungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024600307)
 
 -
 
 
 #### § 192 Reichsknappschaftsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024700307)
 
 -
 
 
 #### § 193 Gesetz über die Krankenversicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024800307)
 
 -
 
 
 #### § 194
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE024900307)
 
 (weggefallen)
 
 
 #### § 195 Einbehaltung von Beitragsteilen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022301301)
 
 Soweit die Vollzugsbehörde Beiträge zur Kranken- und
 Rentenversicherung sowie zur Bundesagentur für Arbeit zu entrichten
@@ -3608,10 +3845,12 @@ Arbeitnehmer erhielte.
 
 
 ### Achter Titel - Einschränkung von Grundrechten, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNG003401307)
 
 
 
 #### § 196 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022400314)
 
 Durch dieses Gesetz werden die Grundrechte aus Artikel 2 Abs. 2 Satz 1
 und 2 (körperliche Unversehrtheit und Freiheit der Person) und Artikel
@@ -3620,11 +3859,13 @@ eingeschränkt.
 
 
 #### § 197
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022501307)
 
 (weggefallen)
 
 
 #### § 198 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022604307)
 
 (1) Dieses Gesetz tritt unbeschadet der §§ 199 und 201 am 1. Januar
 1977 in Kraft, soweit die Absätze 2 und 3 nichts anderes bestimmen.
@@ -3787,6 +4028,7 @@ Vollzug - wird zum 31. Dezember 1985 befunden.
 
 
 #### § 199 Übergangsfassungen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022706310)
 
 (1) Bis zum Inkrafttreten des besonderen Bundesgesetzes nach § 198
 Abs. 3 gilt folgendes:
@@ -3845,6 +4087,7 @@ angezeigt ist."
 
 
 #### § 200 Höhe des Arbeitsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022802311)
 
 Der Bemessung des Arbeitsentgelts nach § 43 sind 9 vom Hundert der
 Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch zu Grunde zu
@@ -3852,6 +4095,7 @@ legen.
 
 
 #### § 201 Übergangsbestimmungen für bestehende Anstalten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE022901306)
 
 Für Anstalten, mit deren Errichtung vor Inkrafttreten dieses Gesetzes
 begonnen wurde, gilt folgendes:
@@ -3891,6 +4135,7 @@ begonnen wurde, gilt folgendes:
 
 
 #### § 202 Freiheitsstrafe und Jugendhaft der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html#BJNR005810976BJNE023200309)
 
 (1) Für den Vollzug der nach dem Strafgesetzbuch der Deutschen
 Demokratischen Republik gegen Jugendliche und Heranwachsende erkannten

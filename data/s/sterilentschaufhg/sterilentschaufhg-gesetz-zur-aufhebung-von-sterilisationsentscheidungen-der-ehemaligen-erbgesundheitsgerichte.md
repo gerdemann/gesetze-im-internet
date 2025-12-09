@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sterilentschaufhg/BJNR250140998.html#BJNR250140998BJNE000100305)
 
 (1) Die eine Unfruchtbarmachung anordnenden und noch rechtskräftigen
 Beschlüsse, die von den Gerichten aufgrund des Gesetzes zur Verhütung
@@ -30,6 +31,7 @@ gemacht werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sterilentschaufhg/BJNR250140998.html#BJNR250140998BJNE000200305)
 
 Die Verordnung über die Wiederaufnahme von Verfahren in
 Erbgesundheitssachen vom 28. Juli 1947 (Verordnungsblatt für die

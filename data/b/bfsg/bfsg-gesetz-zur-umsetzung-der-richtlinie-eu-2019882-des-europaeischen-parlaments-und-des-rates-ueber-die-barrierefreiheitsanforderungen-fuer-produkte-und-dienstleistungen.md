@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zweck, Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000101000)
 
 
 ### § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000201000)
 
 (1) Zweck dieses Gesetzes ist es, im Interesse der Verbraucher und
 Nutzer die Barrierefreiheit von Produkten und Dienstleistungen nach
@@ -175,6 +177,7 @@ S. 1) bleiben von diesem Gesetz unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000301126)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -534,9 +537,11 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ## Abschnitt 2 - Anforderungen an die Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000200000)
 
 
 ### § 3 Barrierefreiheit, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000401000)
 
 (1) Produkte, die ein Wirtschaftsakteur auf dem Markt bereitstellt und
 Dienstleistungen, die er anbietet oder erbringt, müssen barrierefrei
@@ -593,6 +598,7 @@ nach Satz 2 Dritter zu bedienen.
 
 
 ### § 4 Konformitätsvermutung auf der Grundlage harmonisierter Normen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000501000)
 
 Bei Produkten und Dienstleistungen, die harmonisierten Normen oder
 Teilen davon entsprechen, deren Fundstellen im Amtsblatt der
@@ -603,6 +609,7 @@ betreffenden Normen oder von Teilen dieser Normen abgedeckt sind.
 
 
 ### § 5 Konformitätsvermutung auf der Grundlage technischer Spezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000601126)
 
 Bei Produkten und Dienstleistungen, die den technischen
 Spezifikationen gemäß Artikel 15 Absatz 3 der Richtlinie (EU) 2019/882
@@ -614,6 +621,7 @@ technischen Spezifikationen abgedeckt sind.
 
 
 ### § 5a Barrierefreiheit gemäß anderen Rechtsakten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE004400126)
 
 Erfüllen die Merkmale, Bestandteile oder Funktionen von Produkten oder
 Dienstleistungen, die nicht in den Anwendungsbereich dieses Gesetzes
@@ -628,6 +636,7 @@ Rechtsakten nichts anderes festgelegt ist.
 
 
 ### § 5b Harmonisierte Normen und technische Spezifikationen für andere Rechtsakte der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE004500126)
 
 Entsprechen die Merkmale, Bestandteile oder Funktionen von Produkten
 und Dienstleistungen, die nicht in den Anwendungsbereich dieses
@@ -639,9 +648,11 @@ Barrierefreiheitsanforderungen dieses Gesetzes erfüllen.
 
 
 ## Abschnitt 3 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000300000)
 
 
 ### § 6 Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000701000)
 
 (1) Der Hersteller darf ein Produkt nur in den Verkehr bringen, wenn
 
@@ -700,6 +711,7 @@ ist schriftlich oder elektronisch zu führen.
 
 
 ### § 7 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000800000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass sein Produkt eine Typen-,
 Chargen- oder Seriennummer oder ein anderes Kennzeichen zu seiner
@@ -742,6 +754,7 @@ geltenden Barrierefreiheitsanforderungen her.
 
 
 ### § 8 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE000900000)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -775,6 +788,7 @@ darf der Hersteller nicht auf einen Bevollmächtigten übertragen.
 
 
 ### § 9 Allgemeine Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001000000)
 
 (1) Der Einführer darf nur Produkte in den Verkehr bringen, die die
 Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden
@@ -819,6 +833,7 @@ Rechtsverordnung nicht beeinträchtigen.
 
 
 ### § 10 Besondere Kennzeichnungs- und Informationspflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001100000)
 
 (1) Der Einführer hat beim Inverkehrbringen seinen Namen, seine Firma
 oder seine Marke sowie seine Postanschrift auf dem Produkt anzugeben.
@@ -843,6 +858,7 @@ auf deren Verlangen die technischen Unterlagen vorlegen kann.
 
 
 ### § 11 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001201126)
 
 (1) Der Händler darf ein Produkt erst auf dem Markt bereitstellen,
 wenn
@@ -896,6 +912,7 @@ Korrekturmaßnahmen.
 
 
 ### § 12 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001300000)
 
 Auf einen Einführer oder Händler sind die §§ 6 und 7 entsprechend
 anzuwenden, wenn er
@@ -913,6 +930,7 @@ anzuwenden, wenn er
 
 
 ### § 13 Angabe der Wirtschaftsakteure, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001401000)
 
 (1) Der Wirtschaftsakteur hat der Marktüberwachungsbehörde auf deren
 Verlangen Auskunft über die Wirtschaftsakteure zu erteilen,
@@ -938,6 +956,7 @@ Nutzungsdauer des Produkts geboten erscheint.
 
 
 ### § 14 Pflichten des Dienstleistungserbringers
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001501000)
 
 (1) Der Dienstleistungserbringer darf seine Dienstleistung nur
 anbieten oder erbringen, wenn
@@ -990,6 +1009,7 @@ Konformität ergriffen werden.
 
 
 ### § 15 Beratungsangebot der Bundesfachstelle für Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001600000)
 
 Die Beratung der Bundesfachstelle für Barrierefreiheit nach § 13
 Absatz 2 Satz 2 des Behindertengleichstellungsgesetzes vom 27. April
@@ -1003,9 +1023,11 @@ und erbringen möchten.
 
 
 ## Abschnitt 4 - Grundlegende Veränderungen von Produkten oder Dienstleistungen und unverhältnismäßige Belastungen für die Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000400000)
 
 
 ### § 16 Grundlegende Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001701000)
 
 (1) Die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu
 erlassenden Rechtsverordnung gelten nur insoweit, als deren Einhaltung
@@ -1040,6 +1062,7 @@ Fakten.
 
 
 ### § 17 Unverhältnismäßige Belastungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001801000)
 
 (1) Die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu
 erlassenden Rechtsverordnung gelten nur insoweit, als deren Einhaltung
@@ -1095,9 +1118,11 @@ nach Absatz 1 berücksichtigen muss, zu präzisieren und zu ergänzen.
 
 
 ## Abschnitt 5 - CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000501000)
 
 
 ### § 18 EU-Konformitätserklärung für Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE001901000)
 
 (1) Bevor ein Produkt, dessen Übereinstimmung mit den
 Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden
@@ -1133,6 +1158,7 @@ Rechtsakte samt Fundstelle anzugeben.
 
 
 ### § 19 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002000000)
 
 (1) Bevor ein Produkt, dessen Übereinstimmung mit den
 Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu erlassenden
@@ -1158,9 +1184,11 @@ Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr.
 
 
 ## Abschnitt 6 - Marktüberwachung von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000601000)
 
 
 ### § 20 Aufgaben der Marktüberwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002101000)
 
 (1) Die Länder stellen sicher, dass ihre Marktüberwachungsbehörden
 ihre Aufgaben ordnungsgemäß wahrnehmen können. Dafür statten sie sie
@@ -1183,6 +1211,7 @@ zentralen Verbindungsstelle gemäß Artikel 10 Absatz 3 der Verordnung
 
 
 ### § 21 Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002200000)
 
 (1) Die Marktüberwachung von Produkten erfolgt nach der von den
 Ländern nach § 20 Absatz 2 Satz 1 entwickelten
@@ -1253,6 +1282,7 @@ das Verfahren nach Absatz 4 entsprechend.
 
 
 ### § 22 Maßnahmen der Marktüberwachung bei Produkten, die die Barrierefreiheitsanforderungen nicht erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002300000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
 Produkt die Barrierefreiheitsanforderungen der nach § 3 Absatz 2 zu
@@ -1300,6 +1330,7 @@ feststellt, dass die Maßnahmen nicht gerechtfertigt sind.
 
 
 ### § 23 Maßnahmen bei formaler Nichtkonformität von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002400000)
 
 (1) Stellt die Marktüberwachungsbehörde eine formale Nichtkonformität
 fest, so fordert sie den Wirtschaftsakteur auf, die formale
@@ -1340,6 +1371,7 @@ Absatz 4 Satz 4 und 5 gilt entsprechend.
 
 
 ### § 24 Pflichten der Marktüberwachungsbehörde und der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin bei Nichtkonformität von Produkten, die sich nicht auf das deutsche Hoheitsgebiet beschränken
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002500000)
 
 (1) Ist die Marktüberwachungsbehörde nach der Prüfung nach § 22 Absatz
 1 der Auffassung, dass die beanstandeten Produkte auch in anderen
@@ -1399,6 +1431,7 @@ nicht gerechtfertigt sind.
 
 
 ### § 25 Unterstützungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002600000)
 
 (1) Die Marktüberwachungsbehörden und die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin haben einander zu unterstützen und
@@ -1410,6 +1443,7 @@ Kommission oder eines anderen Mitgliedstaates der Europäischen Union.
 
 
 ### § 26 Pflichten der Marktüberwachungsbehörde bei Maßnahmen anderer Mitgliedstaaten, bei Produkten, die gegen Barrierefreiheitsanforderungen verstoßen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002700000)
 
 (1) Wird die Marktüberwachungsbehörde von der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darüber informiert, dass ein anderer
@@ -1446,6 +1480,7 @@ gerechtfertigt ist.
 
 
 ### § 27 Aufgaben der zentralen Verbindungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002800000)
 
 (1) Die zentrale Verbindungsstelle teilt der Europäischen Kommission
 und den anderen Mitgliedstaaten der Europäischen Union mit:
@@ -1474,9 +1509,11 @@ nach der Richtlinie (EU) 2019/882 wahr.
 
 
 ## Abschnitt 7 - Marktüberwachung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000701000)
 
 
 ### § 28 Marktüberwachung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE002901000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass das
 Angebot oder die Erbringung einer Dienstleistung die
@@ -1543,6 +1580,7 @@ das Verfahren nach Absatz 4 entsprechend.
 
 
 ### § 29 Maßnahmen der Marktüberwachung bei Dienstleistungen, die die Barrierefreiheitsanforderungen nicht erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003000000)
 
 (1) Gelangt die Marktüberwachungsbehörde zu dem Ergebnis, dass die
 Dienstleistung die Barrierefreiheitsanforderungen der nach § 3 Absatz
@@ -1575,6 +1613,7 @@ hebt die Marktüberwachungsbehörde die Anordnung auf.
 
 
 ### § 30 Maßnahmen bei formaler Nichtkonformität von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003100000)
 
 (1) Stellt die Marktüberwachungsbehörde eine formale Nichtkonformität
 fest, so fordert sie den Dienstleistungserbringer auf, die formale
@@ -1603,6 +1642,7 @@ Marktüberwachungsbehörde die Anordnung auf.
 
 
 ### § 31 Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003200000)
 
 (1) Die Marktüberwachungsbehörde hat die Öffentlichkeit in geeigneter
 Weise, zum Beispiel auf ihrer Webseite, über ihre Existenz, ihre
@@ -1619,9 +1659,11 @@ die Informationen in Leichter Sprache erläutern.
 
 
 ## Abschnitt 8 - Verwaltungsverfahren, Rechtsbehelfe, Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000801000)
 
 
 ### § 32 Rechte von Verbrauchern, anerkannten Verbänden und qualifizierten Einrichtungen im Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003302126)
 
 (1) Auf Antrag eines Verbrauchers hat die Marktüberwachungsbehörde ein
 Verfahren zur Durchführung von Maßnahmen nach Abschnitt 6 oder
@@ -1674,6 +1716,7 @@ das Verwaltungsverfahren nach dieser Vorschrift entsprechend.
 
 
 ### § 33 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003401126)
 
 (1) Der Verbraucher hat unter den Voraussetzungen des § 32 Absatz 1
 Satz 1 das Recht, einen nach § 15 Absatz 3 des
@@ -1712,6 +1755,7 @@ führen. Absatz 1 Satz 4 gilt entsprechend.
 
 
 ### § 34 Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003501126)
 
 (1) Ein Verbraucher, der geltend macht, dass ein Wirtschaftsakteur
 gegen eine Bestimmung dieses Gesetzes oder der nach § 3 Absatz 2 zu
@@ -1751,9 +1795,11 @@ Behindertengleichstellungsschlichtungsverordnung vom 25. November 2016
 
 
 ## Abschnitt 9 - Auskunftspflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG000901000)
 
 
 ### § 35 Auskunftspflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003601000)
 
 Die Wirtschaftsakteure sind verpflichtet, der Marktüberwachungsbehörde
 auf deren begründetes Verlangen die Auskünfte zu erteilen, die für die
@@ -1768,9 +1814,11 @@ Auskunftsverweigerung zu belehren.
 
 
 ## Abschnitt 10 - Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNG001001000)
 
 
 ### § 36 Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003701000)
 
 Zur Vorbereitung der Berichterstattung an die Europäische Kommission
 teilen die Länder auf Anforderung des Bundesministeriums für Arbeit
@@ -1786,6 +1834,7 @@ stellen diese Informationen auf elektronischem Wege zur Verfügung.
 
 
 ### § 37 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1859,6 +1908,7 @@ werden.
 
 
 ### § 38 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE003900000)
 
 (1) Unbeschadet von Absatz 2 können Dienstleistungserbringer bis zum
 27\. Juni 2030 ihre Dienstleistungen weiterhin unter Einsatz von
@@ -1879,6 +1929,7 @@ Erbringung vergleichbarer Dienstleistungen eingesetzt werden.
 (zu § 28)
 
 ### Anlage 1 Überwachung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE004001000)
 
 (Fundstelle: BGBl. I 2021, 2985)
 
@@ -1986,6 +2037,7 @@ Erbringung vergleichbarer Dienstleistungen eingesetzt werden.
 (zu den §§ 6, 9, 18 und 19)
 
 ### Anlage 2 Konformitätsbewertungsverfahren für Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE004100000)
 
 (Fundstelle: BGBl. I 2021, 2986)
 
@@ -2071,6 +2123,7 @@ genügen.
 (zu den §§ 14 und 28)
 
 ### Anlage 3 Informationen über Dienstleistungen, die den Barrierefreiheitsanforderungen entsprechen
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE004200000)
 
 (Fundstelle: BGBl. I 2021, 2987)
 
@@ -2118,6 +2171,7 @@ genügen.
 (zu den §§ 17, 21 und 28)
 
 ### Anlage 4 Kriterien für die Beurteilung der unverhältnismäßigen Belastung
+[Direktlink](https://www.gesetze-im-internet.de/bfsg/BJNR297010021.html#BJNR297010021BJNE004300000)
 
 (Fundstelle: BGBl. I 2021, 2988)
 

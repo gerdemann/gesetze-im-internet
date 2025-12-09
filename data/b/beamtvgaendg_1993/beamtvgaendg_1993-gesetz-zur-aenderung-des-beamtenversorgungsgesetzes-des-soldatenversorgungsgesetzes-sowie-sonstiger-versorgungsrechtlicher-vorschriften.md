@@ -19,27 +19,32 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 und Art 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000200320)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000300320)
 
 -
 
 
 ## (XXXX) Art 4 bis Art 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000400320)
 
 -
 
 
 ## Art 8 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000500320)
 
 Die auf Artikel 7 beruhenden Teile der dort geänderten
 Rechtsverordnung können auf Grund der Ermächtigung des
@@ -47,6 +52,7 @@ Beamtenversorgungsgesetzes durch Rechtsverordnung geändert werden.
 
 
 ## Art 9 Neufassung des Beamtenversorgungsgesetzes, des Soldatenversorgungsgesetzes und des Kindererziehungszuschlagsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000600320)
 
 (1) Das Bundesministerium des Innern kann den Wortlaut des
 Beamtenversorgungsgesetzes und des Kindererziehungszuschlagsgesetzes
@@ -59,6 +65,7 @@ an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 10 Ausgleichsregelung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000700320)
 
 Auf die Verbesserung der Mindestversorgung, die sich aus der Anhebung
 des Erhöhungsbetrages auf sechzig Deutsche Mark nach § 14 Abs. 4 Satz
@@ -73,6 +80,7 @@ Gesetzes vom 23. März 1993.
 
 
 ## Art 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000800320)
 
 Artikel 1 Nr. 3, 7, 9, 10 Buchstabe b, Nr. 16 Buchstabe a, Nr. 17 und
 24 sowie Artikel 2 Nr. 6 Buchstabe b, Nr. 9, 11, 12 Buchstabe b, Nr.
@@ -86,6 +94,7 @@ Soldatenversorgungs-Übergangsverordnung bleiben unberührt.
 
 
 ## Art 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_ndg_1993/BJNR244200994.html#BJNR244200994BJNE000900320)
 
 (1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.

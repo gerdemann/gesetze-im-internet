@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_i/BJNR141900018.html#BJNR141900018BJNE000101119)
 
 (Fundstelle: BGBl. I 2018, 1419 - 1421;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

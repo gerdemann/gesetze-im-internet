@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002600309)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Grundsätze für die Verleihung von Titeln, Orden und Ehrenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNG000100311)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE000700311)
 
 (1) Für besondere Verdienste um die Bundesrepublik Deutschland können
 Titel, Orden und Ehrenzeichen des Bundes nach Maßgabe dieses Gesetzes
@@ -40,6 +43,7 @@ verleihen, werden durch dieses Gesetz nicht berührt.
 
 
 ### § 2 Titel
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE000800311)
 
 (1) Titel werden durch den Bundespräsidenten verliehen, soweit
 gesetzlich nichts anderes bestimmt ist. Die Bezeichnung der Titel und
@@ -50,6 +54,7 @@ dieses Gesetz nicht berührt.
 
 
 ### § 3 Orden und Ehrenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE000900311)
 
 (1) Orden und Ehrenzeichen können nur vom Bundespräsidenten oder mit
 seiner Genehmigung gestiftet und verliehen werden. Der Stiftungserlaß
@@ -71,6 +76,7 @@ Verwechseln ähnlich sind.
 
 
 ### § 4 Entziehung
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001002311)
 
 (1) Erweist sich ein Beliehener durch sein Verhalten, insbesondere
 durch Begehen einer entehrenden Straftat, des verliehenen Titels oder
@@ -126,6 +132,7 @@ des Urteilstenors für seine Entscheidung nicht ausreicht.
 
 
 ### § 5 Genehmigung der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001100311)
 
 (1) Ein Deutscher darf Titel, Orden und Ehrenzeichen von einem
 ausländischen Staatsoberhaupt oder einer ausländischen Regierung nur
@@ -142,10 +149,12 @@ dieses Gesetzes verliehen werden.
 
 
 ## Zweiter Abschnitt - Besondere Vorschriften für früher verliehene Orden und Ehrenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNG000200311)
 
 
 
 ### § 6 Früher verliehene Auszeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001201311)
 
 (1) Außer den nach Maßgabe dieses Gesetzes verliehenen Orden und
 Ehrenzeichen dürfen getragen werden
@@ -201,6 +210,7 @@ des Innern, für Bau und Heimat bezogen werden
 
 
 ### § 7 Verwundetenabzeichen des zweiten Weltkrieges
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001301311)
 
 (1) Das Verwundetenabzeichen des zweiten Weltkrieges kann von jedem,
 der eine Verletzung durch Kriegseinwirkungen nachweisen kann, in der
@@ -215,10 +225,12 @@ wie der Nachweis der Verwundungen oder Beschädigungen zu führen ist.
 
 
 ## Dritter Abschnitt - Besitznachweis
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNG000300311)
 
 
 
 ### § 8 Verleihungsurkunde, Besitzzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001400311)
 
 Orden und Ehrenzeichen dürfen, soweit §§ 7 und 10 nicht Abweichungen
 zulassen, nur getragen werden, wenn sie von der zur Verleihung
@@ -229,6 +241,7 @@ Besitzzeugnis innehat.
 
 
 ### § 9 Ersatzurkunde
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001501311)
 
 (1) Soweit Verleihungsurkunden oder Besitzzeugnisse über Orden und
 Ehrenzeichen, die vor dem 8. Mai 1945 verliehen wurden,
@@ -253,6 +266,7 @@ zuständigen Behörden.
 
 
 ### § 10 Sonderbestimmungen für vor dem 8. Mai 1945 verliehene Auszeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001601311)
 
 (1) Als Besitznachweis für Orden und Ehrenzeichen, die vor dem 8. Mai
 1945 verliehen worden sind, gilt auch die ordnungsgemäße Eintragung
@@ -274,19 +288,23 @@ Verleihung in anderer Weise nachgewiesen werden kann.
 
 
 ## Vierter Abschnitt - Ehrensold
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNG000400311)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001702377)
 
 (weggefallen)
 
 
 ## Fünfter Abschnitt - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNG000500311)
 
 
 
 ### § 12 Trageweise
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001800311)
 
 (1) Orden und Ehrenzeichen sowie sonstige Auszeichnungen, die am Band
 zu tragen sind, werden an der Ordensschnalle auf der linken Brustseite
@@ -341,6 +359,7 @@ werden.
 
 
 ### § 13 Rückgabe von Orden und Ehrenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE001900311)
 
 (1) Orden und Ehrenzeichen verbleiben nach dem Tod des Inhabers im
 Besitz der Hinterbliebenen, soweit im Stiftungserlaß nichts anderes
@@ -351,6 +370,7 @@ nicht berührt.
 
 
 ### § 14 Vertrieb
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002001309)
 
 (1) Orden und Ehrenzeichen - auch in verkleinerter Form - und die
 dazugehörigen Bänder dürfen Privatpersonen gegen Entgelt nur nach
@@ -366,10 +386,12 @@ erteilen.
 
 
 ## Sechster Abschnitt - Bußgeld- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNG000600311)
 
 
 
 ### § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002101309)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -411,6 +433,7 @@ bestimmt gewesen sind, können eingezogen werden.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002201305)
 
 Bis zum Zeitpunkt des Wirksamwerdens des Beitritts bestehende
 Ansprüche aus verliehenen staatlichen Auszeichnungen der Deutschen
@@ -420,6 +443,7 @@ an nicht mehr geltend gemacht werden.
 
 
 ### § 17 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002300311)
 
 Folgende Vorschriften werden als Bundesrecht aufgehoben:
 
@@ -443,6 +467,7 @@ Folgende Vorschriften werden als Bundesrecht aufgehoben:
 
 
 ### § 18 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002400311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -452,6 +477,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ordeng/BJNR008440957.html#BJNR008440957BJNE002500311)
 
 Das Gesetz tritt am Tage nach seiner Verkündung, § 11 mit Wirkung vom
 1\. Oktober 1956 in Kraft.

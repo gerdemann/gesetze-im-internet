@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000100315)
 
 Auf Grund des § 1 Abs. 1 Nr. 8 letzter Halbsatz des Ersten
 Überleitungsgesetzes in der Fassung vom 28. April 1955
@@ -31,6 +32,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000200315)
 
 Der Bund trägt die Aufwendungen für die Heil- und Krankenbehandlung
 Versorgungsberechtigter in den Versorgungskrankenanstalten der Länder
@@ -38,6 +40,7 @@ im Wege der Erstattung nach Maßgabe der folgenden Bestimmungen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000300315)
 
 (1) Versorgungsberechtigte im Sinne dieser Verordnung sind Personen,
 denen oder für die Heil- oder Krankenbehandlung nach dem
@@ -55,6 +58,7 @@ Einrichtung der Kriegsopferversorgung betrieben werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000401309)
 
 (1) Aufwendungen im Sinne des § 1 sind die auf die Heil- und
 Krankenbehandlung von Versorgungsberechtigten entfallenden Anteile an
@@ -82,6 +86,7 @@ Versorgungskrankenanstalten zur Abgeltung der Versorgungsbelastung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000503301)
 
 (1) Die Aufwendungen der Länder für die Errichtung, Erweiterung und
 Erneuerung der zum Betrieb der Versorgungskrankenanstalten gehörenden
@@ -138,6 +143,7 @@ Wertermittlungsrichtlinien ermittelt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000602310)
 
 (1) Nicht erstattungsfähig sind die Aufwendungen der Länder für
 
@@ -186,6 +192,7 @@ der tatsächlich verfügbaren Betten ermittelt werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000700315)
 
 (1) Zur Ermittlung des auf die Heil- und Krankenbehandlung
 Versorgungsberechtigter entfallenden Anteils an den Gesamtaufwendungen
@@ -213,6 +220,7 @@ abzusetzen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000802310)
 
 Für die Zeit vom 1. Januar 1966 an fordern die Länder die Erstattung
 der vom Bund zu tragenden Aufwendungen nach Abschluß eines jeden
@@ -223,6 +231,7 @@ Unterlagen beizufügen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE000902310)
 
 Der Bund erstattet den Ländern die von ihm zu tragenden Aufwendungen
 nach Feststellung durch das Bundesministerium für Arbeit und Soziales.
@@ -233,6 +242,7 @@ der Bund vorab insoweit, als er keine Beanstandung erhebt.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001000315)
 
 Der Bund leistet jeweils für ein abgelaufenes Kalendervierteljahr
 Abschlagszahlungen. Diese errechnen sich aus der von den Ländern
@@ -244,6 +254,7 @@ einen Vergleichstag.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001100315)
 
 Für die Zeit vom 1. April 1955 bis zum 31. Dezember 1965 fordern die
 Länder die vom Bund zu tragenden Aufwendungen nachträglich für jedes
@@ -256,6 +267,7 @@ anzuwenden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001202310)
 
 (1) Das Bundesministerium für Arbeit und Soziales oder die von ihm
 Beauftragten können die den Eintragungen in den Abrechnungsbogen
@@ -276,6 +288,7 @@ Unterschiedsbetrag bei Zahlungen nach den §§ 8 bis 10 zu verrechnen.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001300315)
 
 Der Bund kann mit den Ländern oder mit einzelnen von ihnen
 vereinbaren, daß die von ihm zu erstattenden Aufwendungen ganz oder
@@ -283,15 +296,18 @@ teilweise pauschal abgegolten werden.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001401301)
 
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001500315)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Anlage (zu §§ 7 und 10)
+[Direktlink](https://www.gesetze-im-internet.de/koverstv/BJNR008600967.html#BJNR008600967BJNE001600315)
 
 (Fundstelle: BGBl. I 1967, 863 — 865)
 

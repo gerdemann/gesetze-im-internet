@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000101307)
 
 Auf Grund des § 18b Abs. 1 des Bundesausbildungsförderungsgesetzes in
 der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
@@ -27,6 +28,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Prüfungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000201307)
 
 Prüfungsstelle ist die Behörde, bei Prüfungen im kirchlichen oder
 privaten Bereich die Einrichtung, die das Gesamtergebnis der
@@ -36,6 +38,7 @@ oder Hochschule feststellt.
 
 
 ## § 2 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000301307)
 
 (1) Abschlußprüfung ist diejenige Prüfung, die dazu bestimmt ist,
 einen Ausbildungs- oder Studiengang abzuschließen. In der einstufigen
@@ -56,6 +59,7 @@ Notenverbesserung durchgeführt wird.
 
 
 ## § 3 Prüfungsabsolvent/Geförderter
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000401307)
 
 (1) Prüfungsabsolvent im Sinne dieser Verordnung ist jeder
 Auszubildende, der eine Abschlußprüfung im Sinne des § 2 abgeschlossen
@@ -67,6 +71,7 @@ Bundesausbildungsförderungsgesetz erhalten hat.
 
 
 ## § 4 Kalenderjahr
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000501307)
 
 Die Abschlußprüfung ist dem Kalenderjahr zuzurechnen, in dem das
 Gesamtergebnis dieser Prüfung von der Prüfungsstelle festgestellt
@@ -74,6 +79,7 @@ wird. Dies gilt auch für eine angefochtene Prüfungsentscheidung.
 
 
 ## § 5 Vergleichsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000602310)
 
 (1) Die Prüfungsstelle hat, vorbehaltlich des Satzes 2 und der Absätze
 2 und 3 für jeden Ausbildungs- oder Studiengang eine Vergleichsgruppe
@@ -105,6 +111,7 @@ entsprechend anzuwenden.
 
 
 ## § 6 Bildung der Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000701307)
 
 (1) Die Rangfolge ist grundsätzlich nach der im Zeugnis der
 Abschlußprüfung ausgewiesenen oder nach der Prüfungsordnung
@@ -140,6 +147,7 @@ vor.
 
 
 ## § 7 Besonderheiten bei der Vergleichsgruppen- und Rangfolgenbildung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000802310)
 
 (1) In Ausbildungs- oder Studiengängen, in denen als Gesamtergebnis
 der Abschlußprüfung nur das Bestehen festgestellt wird oder in denen
@@ -168,6 +176,7 @@ bestimmten Behörde.
 
 
 ## § 8 Ranggleichheit
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE000901307)
 
 (1) Besteht in der nach den §§ 6 und 7 gebildeten Rangfolge eine
 Ranggleichheit an der Stelle, bis zu der die ersten 30 vom Hundert der
@@ -181,11 +190,13 @@ nächste ganze Zahl aufzurunden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001001307)
 
 -
 
 
 ## § 10 Anfechtungswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001101307)
 
 Führt die Änderung einer prüfungs- oder förderungsrechtlichen
 Entscheidung dazu, daß ein Geförderter den für ein Kalenderjahr
@@ -195,6 +206,7 @@ nicht berührt.
 
 
 ## § 11 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001203116)
 
 (1) Die Prüfungsstellen haben alle Prüfungsabsolventen auf die
 Möglichkeit eines leistungsabhängigen Teilerlasses von
@@ -226,6 +238,7 @@ Berücksichtigung als Geförderter ausgeschlossen.
 
 
 ## § 12 Festlegung der Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001302310)
 
 (1) Die Prüfungsstelle ermittelt nach den §§ 6 und 8 dieser Verordnung
 für jede Vergleichsgruppe die Prüfungsgesamtnote des
@@ -259,11 +272,13 @@ nicht vertretbar ist.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001401307)
 
 -
 
 
 ## § 14 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001501307)
 
 In den Ausbildungsgängen für Ärzte und Apotheker sind, soweit noch
 nicht alle Teilabschnitte der ärztlichen oder pharmazeutischen Prüfung
@@ -279,6 +294,7 @@ Additionswerten ergibt.
 
 
 ## § 15 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001601307)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
@@ -286,6 +302,7 @@ Land Berlin.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001701307)
 
 Diese Verordnung tritt am 1. Januar 1984 mit der Maßgabe in Kraft, daß
 sie für alle nach dem 31. Dezember 1983 abgeschlossenen
@@ -293,6 +310,7 @@ Abschlußprüfungen anzuwenden ist.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-teilerlassv/BJNR014390983.html#BJNR014390983BJNE001802307)
 
 -
 

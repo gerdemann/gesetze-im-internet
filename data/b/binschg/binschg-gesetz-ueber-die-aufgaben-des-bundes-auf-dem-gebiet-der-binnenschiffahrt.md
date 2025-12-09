@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1 Aufgaben des Bundes, Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000111119)
 
 (1) Dem Bund obliegen auf dem Gebiet der Binnenschifffahrt, soweit
 nicht in diesem Gesetz oder auf Grund dieses Gesetzes etwas anderes
@@ -80,6 +81,7 @@ Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur).
 
 
 ## § 2 Erlaubnis zur Fahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000208119)
 
 (1) Das Befahren der Bundeswasserstraßen ist erlaubnispflichtig, wenn
 das Wasserfahrzeug
@@ -156,6 +158,7 @@ zur Umgehung geeignet sind, nicht berührt.
 
 
 ## § 3 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000316119)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 im Rahmen des § 1 Absatz 1 Nummer 1 bis 5 oder 7 Rechtsverordnungen zu
@@ -393,6 +396,7 @@ b)  überwachungsbedürftige Anlagen im Sinne des § 2 Nummer 30 des
 
 
 ## § 3a Übertragung von und Beleihung mit Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000407119)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung juristische Personen des privaten Rechts mit
@@ -432,6 +436,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 3b Binnenlotsen
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000506119)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung im Benehmen mit den beteiligten Ländern und
@@ -445,6 +450,7 @@ versprochen, noch gefordert, noch angenommen werden.
 
 
 ## § 3c Angleichung der Wettbewerbsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001503119)
 
 Mit dem Ziel bester Verkehrsbedienung hat die Bundesregierung darauf
 hinzuwirken, dass die Wettbewerbsbedingungen der Verkehrsträger
@@ -454,6 +460,7 @@ ermöglicht wird.
 
 
 ## § 3d Berufszulassung von Unternehmern
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001607119)
 
 Das Bundesministerium für Digitales und Verkehr kann zur Umsetzung der
 Richtlinie 87/540/EWG des Rates vom 9. November 1987 über den Zugang
@@ -469,6 +476,7 @@ Schifffahrt wahrgenommen werden.
 
 
 ## § 3e Übertragungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000611119)
 
 (1) Die Ermächtigungen nach § 3 Absatz 1, auch in Verbindung mit
 Absatz 2 und 6, und Absatz 4, auch in Verbindung mit Absatz 6, und §
@@ -500,6 +508,7 @@ bestimmt.
 
 
 ## § 4 Zulassung von Ärzten
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000715119)
 
 (1) Soweit durch Rechtsvorschrift die Untersuchung und Feststellung
 der medizinischen Tauglichkeit durch einen zugelassenen Arzt
@@ -560,6 +569,7 @@ Feststellung der medizinischen Tauglichkeit zu regeln.
 
 
 ## § 4a Überwachung von Ärzten
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002501119)
 
 (1) Ein zugelassener Arzt unterliegt der Überwachung durch die
 Berufsgenossenschaft. Die Ärzte der Berufsgenossenschaft und deren
@@ -614,6 +624,7 @@ anzuwenden.
 
 
 ## § 5 Hamburger Hafen
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000802119)
 
 Auf den im Bereich des Hamburger Hafens liegenden Teilen der
 Bundeswasserstraße Elbe ist der Bund im Rahmen des § 1 Absatz 1 Nummer
@@ -625,6 +636,7 @@ die Führung und Besetzung solcher Fahrzeuge sowie auf Hafenlotsen.
 
 
 ## § 6 Überwachungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE000905119)
 
 (1) Zur Durchführung der Aufgaben nach § 1 Absatz 1 können die damit
 betrauten Personen Wasserfahrzeuge, Schwimmkörper und schwimmende
@@ -664,6 +676,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 6a Überwachungsbefugnis im Rahmen von Binnenschifffahrtsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001706119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt überwacht die
 Einhaltung der auf Grund der Einführungsgesetze zu den bilateralen
@@ -714,6 +727,7 @@ zu stellen und die nötigen Hilfsdienste zu leisten.
 
 
 ## § 6b Verwaltungszwang
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001803119)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt kann die
 Durchführung der im Rahmen ihrer Überwachungsaufgaben nach § 6a
@@ -722,6 +736,7 @@ Verwaltungsmaßnahmen allgemein geltenden Bestimmungen erzwingen.
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001008119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Rechtsverordnung nach den §§ 3 und 3d oder einer auf Grund einer
@@ -771,6 +786,7 @@ Wasserstraßen und Schifffahrt.
 
 
 ## § 8 Verarbeitung von Daten im Binnenschiffsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001109119)
 
 (1) Die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung
 des Bundes dürfen, soweit dies zum Betrieb von
@@ -1062,6 +1078,7 @@ anzuwenden.
 
 
 ## § 9 Binnenschiffsbestandsdatei
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001213119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 zentrale Binnenschiffsbestandsdatei über Wasserfahrzeuge
@@ -1269,6 +1286,7 @@ anzusehen oder nachdem es ausbesserungsunfähig geworden ist.
 
 
 ## § 10 Amtliche Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001902119)
 
 Die Amtsgerichte, bei denen ein Binnenschiffsregister geführt wird,
 teilen Tatsachen, die
@@ -1285,6 +1303,7 @@ der Datei führenden Stelle nach § 9 Absatz 1 mit.
 
 
 ## § 11 Ordnungswidrigkeitendatei
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002010119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 Datei über die von ihr verfolgten Ordnungswidrigkeiten in der
@@ -1459,6 +1478,7 @@ genutzt werden.
 
 
 ## § 12 Verzeichnis über Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002108119)
 
 (1) Jedes Wasserstraßen- und Schifffahrtsamt führt ein Verzeichnis
 über Wasserfahrzeuge mit einer Länge von weniger als 20 Meter
@@ -1612,6 +1632,7 @@ Kleinfahrzeug abgemeldet worden ist.
 
 
 ## § 13 Datei über Befähigungsnachweise und Schifferdienstbücher
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002208119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 Datei
@@ -1820,12 +1841,14 @@ nicht mehr erforderlich sind, spätestens jedoch,
 
 
 ## § 14 Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE002309119)
 
 Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung
 des Bundesrates.
 
 
 ## § 15 Überleitung des Verzeichnisses für Sportbootführerscheine
+[Direktlink](https://www.gesetze-im-internet.de/binschg/BJNR203170956.html#BJNR203170956BJNE001307119)
 
 Die nach § 3a Absatz 1 Beliehenen haben in einem mit der
 Generaldirektion Wasserstraßen und Schifffahrt abgestimmten

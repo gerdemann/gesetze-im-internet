@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_13/BJNR380500002.html#BJNR380500002BJNE000102308)
 
 (1) Diese Verordnung gilt für die Bereitstellung auf dem Markt von
 neuen Aerosolpackungen, deren Behälter ein Gesamtfassungsvermögen von
@@ -63,6 +64,7 @@ neuen Aerosolpackungen, deren Behälter ein Gesamtfassungsvermögen von
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_13/BJNR380500002.html#BJNR380500002BJNE000200000)
 
 Im Sinne dieser Verordnung ist unter Aerosolpackung jeder nicht
 wiederverwendbare Behälter aus Metall, Glas oder Kunststoff zu
@@ -75,6 +77,7 @@ Pulver oder in flüssigem Zustand austreten zu lassen.
 
 
 ## § 3 Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_13/BJNR380500002.html#BJNR380500002BJNE000301308)
 
 Aerosolpackungen dürfen nur auf dem Markt bereitgestellt werden, wenn
 sie den Sicherheitsanforderungen der Richtlinie 75/324/EWG des Rates
@@ -90,6 +93,7 @@ der Änderungs- oder Anpassungsrichtlinie angewendet werden.
 
 
 ## § 4 Voraussetzungen für die Bereitstellung auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_13/BJNR380500002.html#BJNR380500002BJNE000401308)
 
 Aerosolpackungen dürfen nur auf dem Markt bereitgestellt werden, wenn
 
@@ -124,6 +128,7 @@ Aerosolpackungen dürfen nur auf dem Markt bereitgestellt werden, wenn
 
 
 ## § 5 Kennzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_13/BJNR380500002.html#BJNR380500002BJNE000500000)
 
 (1) Die nach § 4 Abs. 1 Nr. 1 erforderliche Konformitätskennzeichnung
 muss auf jeder Aerosolpackung deutlich sichtbar angebracht sein.
@@ -137,6 +142,7 @@ können.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_13/BJNR380500002.html#BJNR380500002BJNE000603126)
 
 Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Einsetzung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000100000)
 
 (1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner
 Mitglieder die Pflicht, einen Untersuchungsausschuss einzusetzen.
@@ -31,6 +32,7 @@ verfassungsmäßigen Zuständigkeit des Bundestages.
 
 
 ## § 2 Rechte der qualifizierten Minderheit bei der Einsetzung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000200000)
 
 (1) Ist die Einsetzung von einem Viertel der Mitglieder des
 Bundestages beantragt, so hat der Bundestag sie unverzüglich zu
@@ -50,6 +52,7 @@ Bundesverfassungsgericht anzurufen, bleibt unberührt.
 
 
 ## § 3 Gegenstand der Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000300000)
 
 Der Untersuchungsausschuss ist an den ihm erteilten
 Untersuchungsauftrag gebunden. Eine nachträgliche Änderung des
@@ -58,6 +61,7 @@ Abs. 2 ist entsprechend anzuwenden.
 
 
 ## § 4 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000400000)
 
 Der Bundestag bestimmt bei der Einsetzung die Zahl der ordentlichen
 und die gleich große Zahl der stellvertretenden Mitglieder des
@@ -72,12 +76,14 @@ Proportion (St. Lague/Schepers) berechnet.
 
 
 ## § 5 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000500000)
 
 Die ordentlichen und stellvertretenden Mitglieder werden von den
 Fraktionen benannt und abberufen.
 
 
 ## § 6 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000600000)
 
 (1) Für den Vorsitz der Untersuchungsausschüsse sind die Fraktionen im
 Verhältnis ihrer Stärke zu berücksichtigen. Der Untersuchungsausschuss
@@ -90,6 +96,7 @@ Beschlüsse des Untersuchungsausschusses gebunden.
 
 
 ## § 7 Stellvertretender Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000700000)
 
 (1) Der Untersuchungsausschuss bestimmt nach den Vereinbarungen im
 Ältestenrat ein Mitglied für den stellvertretenden Vorsitz; dieses
@@ -101,6 +108,7 @@ Pflichten des oder der abwesenden Vorsitzenden.
 
 
 ## § 8 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000800000)
 
 (1) Der oder die Vorsitzende beruft den Untersuchungsausschuss unter
 Angabe der Tagesordnung ein.
@@ -119,6 +127,7 @@ Bundestages hierzu die Genehmigung erteilt hat.
 
 
 ## § 9 Beschlussfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE000900000)
 
 (1) Der Untersuchungsausschuss ist beschlussfähig, wenn die Mehrheit
 seiner Mitglieder anwesend ist. Er gilt solange als beschlussfähig,
@@ -141,6 +150,7 @@ Bei Stimmengleichheit ist der Antrag abgelehnt.
 
 
 ## § 10 Ermittlungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001000000)
 
 (1) Der Untersuchungsausschuss hat jederzeit das Recht und auf Antrag
 eines Viertels seiner Mitglieder die Pflicht, zu seiner Unterstützung
@@ -181,6 +191,7 @@ Ermittlungsauftrag in angemessenem Umfang Hilfskräfte einzusetzen.
 
 
 ## § 11 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001100000)
 
 (1) Über die Sitzungen des Untersuchungsausschusses wird ein Protokoll
 angefertigt.
@@ -194,6 +205,7 @@ Untersuchungsausschuss.
 
 
 ## § 12 Sitzungen zur Beratung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001100001)
 
 (1) Die Beratungen und Beschlussfassungen des Untersuchungsausschusses
 sind nicht öffentlich.
@@ -206,6 +218,7 @@ nicht öffentlichen Sitzungen entscheidet der Untersuchungsausschuss.
 
 
 ## § 13 Sitzungen zur Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001200000)
 
 (1) Die Beweiserhebung erfolgt in öffentlicher Sitzung. Ton- und
 Filmaufnahmen sowie Ton- und Bildübertragungen sind nicht zulässig.
@@ -220,6 +233,7 @@ Anwendung.
 
 
 ## § 14 Ausschluss der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001300000)
 
 (1) Der Untersuchungsausschuss schließt die Öffentlichkeit aus, wenn
 
@@ -270,6 +284,7 @@ in öffentlicher Sitzung.
 
 
 ## § 15 Geheimnisschutz
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001400000)
 
 (1) Beweismittel, Beweiserhebungen und Beratungen kann der
 Untersuchungsausschuss mit einem Geheimhaltungsgrad versehen. Vor
@@ -287,6 +302,7 @@ Geheimschutzordnung des Bundestages.
 
 
 ## § 16 Zugang zu Verschlusssachen und Amtsverschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001500000)
 
 (1) Verschlusssachen des Geheimhaltungsgrades VS-VERTRAULICH und
 höher, die der Untersuchungsausschuss eingestuft oder von einer
@@ -319,6 +335,7 @@ geboten ist.
 
 
 ## § 17 Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001600000)
 
 (1) Der Untersuchungsausschuss erhebt die durch den
 Untersuchungsauftrag gebotenen Beweise aufgrund von Beweisbeschlüssen.
@@ -343,6 +360,7 @@ Beweise oder über die Anordnung des Zwangsmittels.
 
 
 ## § 18 Vorlage von Beweismitteln
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001700000)
 
 (1) Die Bundesregierung, die Behörden des Bundes sowie die
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
@@ -374,12 +392,14 @@ Ermittlungsrichterin des Bundesgerichtshofes.
 
 
 ## § 19 Augenschein
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001800000)
 
 Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster
 Halbsatz und Abs. 4 entsprechend.
 
 
 ## § 20 Ladung der Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE001900000)
 
 (1) Zeugen sind verpflichtet, auf Ladung des Untersuchungsausschusses
 zu erscheinen. § 50 der Strafprozessordnung findet keine Anwendung.
@@ -391,6 +411,7 @@ Beistand ihres Vertrauens zu der Vernehmung hinzuziehen dürfen.
 
 
 ## § 21 Folgen des Ausbleibens von Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002000000)
 
 (1) Erscheinen ordnungsgemäß geladene Zeugen nicht, so kann der
 Untersuchungsausschuss ihnen die durch ihr Ausbleiben verursachten
@@ -407,6 +428,7 @@ der Verspätung kein Verschulden trifft.
 
 
 ## § 22 Zeugnis- und Auskunftsverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002100000)
 
 (1) Die Vorschriften der §§ 53 und 53a der Strafprozessordnung gelten
 entsprechend.
@@ -425,6 +447,7 @@ Zeugnisses stützen, sind auf Verlangen glaubhaft zu machen.
 
 
 ## § 23 Vernehmung von Amtsträgern
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002200000)
 
 (1) § 54 der Strafprozessordnung ist anzuwenden.
 
@@ -434,6 +457,7 @@ gilt entsprechend.
 
 
 ## § 24 Vernehmung der Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002300000)
 
 (1) Zeugen sind einzeln und in Abwesenheit der später zu hörenden
 Zeugen zu vernehmen.
@@ -465,6 +489,7 @@ Untersuchungsausschuss nicht einstimmig Abweichendes beschließt.
 
 
 ## § 25 Zulässigkeit von Fragen an Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002400000)
 
 (1) Der oder die Vorsitzende hat ungeeignete oder nicht zur Sache
 gehörende Fragen zurückzuweisen. Zeugen können den Vorsitzenden oder
@@ -481,6 +506,7 @@ nicht Bezug genommen werden.
 
 
 ## § 26 Abschluss der Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002500000)
 
 (1) Den einzelnen Zeugen ist das Protokoll über ihre Vernehmung
 zuzustellen.
@@ -497,6 +523,7 @@ unter welchen Voraussetzungen diese gemäß Absatz 2 abgeschlossen ist.
 
 
 ## § 27 Grundlose Zeugnisverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002600000)
 
 (1) Wird das Zeugnis ohne gesetzlichen Grund verweigert, so kann der
 Untersuchungsausschuss Zeugen die durch ihre Weigerung verursachten
@@ -515,6 +542,7 @@ hinaus.
 
 
 ## § 28 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002700000)
 
 (1) Auf Sachverständige sind die Vorschriften der §§ 20, 22 bis 26
 entsprechend anzuwenden, soweit nicht nachfolgend abweichende
@@ -549,6 +577,7 @@ gilt entsprechend.
 
 
 ## § 29 Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002800000)
 
 (1) Wer einen Gegenstand, der als Beweismittel für die Untersuchung
 von Bedeutung sein kann, in seinem Gewahrsam hat, ist verpflichtet,
@@ -582,6 +611,7 @@ Strafprozessordnung sind entsprechend anzuwenden.
 
 
 ## § 30 Verfahren bei der Vorlage von Beweismitteln
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE002900000)
 
 (1) Wenn die Person, die den Gewahrsam hat, einwendet, verlangte
 Beweismittel seien für die Untersuchung nicht bedeutsam oder beträfen
@@ -619,6 +649,7 @@ zulässig erklärt.
 
 
 ## § 31 Verlesung von Protokollen und Schriftstücken
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE003000000)
 
 (1) Die Protokolle über Untersuchungshandlungen von anderen
 Untersuchungsausschüssen, Gerichten und Behörden sowie Schriftstücke,
@@ -636,6 +667,7 @@ nicht statt, wenn die Voraussetzungen des § 14 Abs. 1 vorliegen.
 
 
 ## § 32 Rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE003100000)
 
 (1) Personen, die durch die Veröffentlichung des Abschlussberichtes in
 ihren Rechten erheblich beeinträchtigt werden können, ist vor
@@ -649,6 +681,7 @@ wiederzugeben.
 
 
 ## § 33 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE003200000)
 
 (1) Nach Abschluss der Untersuchung erstattet der
 Untersuchungsausschuss dem Bundestag einen schriftlichen Bericht. Der
@@ -669,6 +702,7 @@ Bundestag einen Zwischenbericht vorzulegen.
 
 
 ## § 34 Rechte des Verteidigungsausschusses als Untersuchungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE003300000)
 
 (1) Beschließt der Verteidigungsausschuss, eine Angelegenheit zum
 Gegenstand seiner Untersuchung zu machen, hat er bei seinen
@@ -693,6 +727,7 @@ auf den veröffentlichten Bericht beziehen.
 
 
 ## § 35 Kosten und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE003402377)
 
 (1) Die Kosten des Untersuchungsverfahrens trägt der Bund.
 
@@ -709,6 +744,7 @@ setzt der Präsident oder die Präsidentin des Bundestages fest.
 
 
 ## § 36 Gerichtliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/puag/BJNR114210001.html#BJNR114210001BJNE003501377)
 
 (1) Zuständiges Gericht für Streitigkeiten nach diesem Gesetz ist der
 Bundesgerichtshof, soweit Artikel 94 des Grundgesetzes sowie § 13 des

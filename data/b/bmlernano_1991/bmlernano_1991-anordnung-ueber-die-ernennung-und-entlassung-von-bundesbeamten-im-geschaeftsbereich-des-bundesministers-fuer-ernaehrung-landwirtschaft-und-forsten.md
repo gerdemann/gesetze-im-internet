@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bmlernano_1991/BJNR019260991.html#BJNR019260991BJNE000100308)
 
 
 *

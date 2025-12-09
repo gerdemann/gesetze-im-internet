@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## Art 1 Leistungsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr_2018/BJNR223600018.html#BJNR223600018BJNE000100000)
 
 Artikel 2 Absatz 1 des Vertrages zwischen der Bundesrepublik
 Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft
@@ -35,6 +36,7 @@ des Vertrages – mit dem Haushaltsjahr 2018.“
 
 
 ## Art 2 Zustimmung des Deutschen Bundestages, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr_2018/BJNR223600018.html#BJNR223600018BJNE000200000)
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
 ein Bundesgesetz.
@@ -44,6 +46,7 @@ Vertrag zugestimmt wird, in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr_2018/BJNR223600018.html#BJNR223600018BJNE000300000)
 
 
 *    *

@@ -23,12 +23,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grabfertcesvtrg/BJNR001820996.html#BJNR001820996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grabfertcesvtrg/BJNR001820996.html#BJNR001820996BJNE000200310)
 
 Dem in Furth im Wald am 19. Mai 1995 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und der Tschechischen Republik über
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grabfertcesvtrg/BJNR001820996.html#BJNR001820996BJNE000301123)
 
 Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen
 werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung
@@ -58,6 +61,7 @@ erforderlich sind.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grabfertcesvtrg/BJNR001820996.html#BJNR001820996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

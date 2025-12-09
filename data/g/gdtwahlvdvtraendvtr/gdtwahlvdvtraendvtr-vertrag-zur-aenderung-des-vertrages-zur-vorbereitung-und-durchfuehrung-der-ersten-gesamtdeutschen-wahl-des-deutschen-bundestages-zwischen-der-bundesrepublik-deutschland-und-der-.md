@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr_ndvtr/BJNR208310990.html#BJNR208310990BJNE000100308)
 
 Die Bundesrepublik Deutschland
 und
@@ -32,6 +33,7 @@ sind übereingekommen, folgenden Änderungsvertrag zu schließen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr_ndvtr/BJNR208310990.html#BJNR208310990BJNE000200308)
 
 Der am 3. August 1990 unterzeichnete Vertrag zur Vorbereitung und
 Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages
@@ -222,6 +224,7 @@ wie folgt neu beschrieben:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr_ndvtr/BJNR208310990.html#BJNR208310990BJNE000300308)
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser
 Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
@@ -229,6 +232,7 @@ Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr_ndvtr/BJNR208310990.html#BJNR208310990BJNE000400308)
 
 Dieser Vertrag tritt gleichzeitig mit dem am 3. August 1990
 unterzeichneten Vertrag zur Vorbereitung und Durchführung der ersten
@@ -238,6 +242,7 @@ in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr_ndvtr/BJNR208310990.html#BJNR208310990BJNE000500308)
 
 Geschehen in Bonn am 20. August 1990 in zwei Urschriften in deutscher
 Sprache.

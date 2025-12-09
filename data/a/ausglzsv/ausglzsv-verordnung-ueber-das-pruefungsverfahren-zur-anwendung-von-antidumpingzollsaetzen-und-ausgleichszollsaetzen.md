@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000100319)
 
 Auf Grund des § 21 Abs. 3 Sätze 2 und 3 des Zollgesetzes vom 14. Juni
 1961 (Bundesgesetzbl. I S. 737), zuletzt geändert durch das Gesetz zur
@@ -29,6 +30,7 @@ Auf Grund des § 21 Abs. 3 Sätze 2 und 3 des Zollgesetzes vom 14. Juni
 
 
 ## § 1 Prüfungsantrag, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000204377)
 
 (1) Die Einleitung des Prüfungsverfahrens kann von Personen beantragt
 werden, die behaupten, durch das Vorliegen eines Tatbestandes des § 21
@@ -59,6 +61,7 @@ Antidumpingzollsätzen oder von Ausgleichszollsätzen vorliegen.
 
 
 ## § 2 Angaben bei Dumpingverdacht
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000300319)
 
 (1) Macht der Antragsteller geltend, daß die Voraussetzungen für die
 Anwendung von Antidumpingzollsätzen vorliegen, so soll der Antrag
@@ -173,6 +176,7 @@ letzten zwölf Monaten vor der Antragstellung angegeben werden.
 
 
 ## § 3 Angaben bei Verdacht der Gewährung von Prämien oder Subventionen
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000400319)
 
 Macht der Antragsteller geltend, daß die Voraussetzungen für die
 Anwendung von Ausgleichszollsätzen vorliegen, so soll der Antrag über
@@ -183,6 +187,7 @@ Prüfungsverfahren beziehen soll.
 
 
 ## § 4 Ablehnung des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000501301)
 
 Ergeben sich aus dem Antrag auch nach ergänzenden Ermittlungen durch
 das zuständige Bundesministerium keine hinreichenden Anhaltspunkte
@@ -193,6 +198,7 @@ Prüfungsverfahrens ab und teilt dies dem Antragsteller mit.
 
 
 ## § 5 Einleitung des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000601301)
 
 (1) Bei Vorliegen hinreichender Anhaltspunkte leitet das zuständige
 Bundesministerium das Prüfungsverfahren ein. Es teilt dies dem
@@ -208,6 +214,7 @@ sachdienliche Tatsachen oder Nachweise vorgebracht werden können.
 
 
 ## § 6 Sachaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000701301)
 
 Nach Einleitung des Prüfungsverfahrens klärt das zuständige
 Bundesministerium den Sachverhalt auf. Es zieht dabei den
@@ -220,6 +227,7 @@ betroffen werden können.
 
 
 ## § 7 Abschluß des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000801301)
 
 (1) Nach Sachaufklärung schließt das zuständige Bundesministerium das
 Prüfungsverfahren ab. Das Ergebnis des Prüfungsverfahrens wird dem
@@ -231,6 +239,7 @@ Prüfungsverfahrens im Bundesanzeiger bekannt.
 
 
 ## § 8 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE000900319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 99 des
@@ -238,6 +247,7 @@ Zollgesetzes auch im Land Berlin.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausglzsv/BJNR214550963.html#BJNR214550963BJNE001000319)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

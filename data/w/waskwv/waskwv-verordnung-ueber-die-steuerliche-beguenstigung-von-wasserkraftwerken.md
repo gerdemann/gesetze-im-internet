@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000100303)
 
 Auf Grund des § 12 der Reichsabgabenordnung wird im Einvernehmen mit
 dem Reichsminister des Innern und dem Generalinspektor für Wasser und
@@ -27,12 +28,14 @@ Energie verordnet:
 
 
 ## § 1 Steuerbegünstigte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000200303)
 
 Unternehmen, die elektrische Arbeit durch Wasserkräfte erzeugen,
 werden nach Maßgabe dieser Verordnung steuerlich begünstigt.
 
 
 ## § 2 Steuerbegünstigte Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000300303)
 
 (1) Die steuerliche Begünstigung erstreckt sich nur auf die Anlagen
 zur Erzeugung elektrischer Arbeit durch Wasserkräfte
@@ -46,6 +49,7 @@ gewährt werden.
 
 
 ## § 3 Voraussetzungen der steuerlichen Begünstigung
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000401309)
 
 Die steuerliche Begünstigung tritt nur ein, wenn der Baubeginn der
 Anlagen in die Zeit vom 1. Januar 1938 bis zum 31. Dezember 1990
@@ -53,6 +57,7 @@ fällt.
 
 
 ## § 4 Einkommensteuer und Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000500303)
 
 (1) Die Einkommensteuer oder die Körperschaftsteuer, die auf den
 Gewinn aus den steuerbegünstigten Anlagen entfällt, ermäßigt sich ab
@@ -67,6 +72,7 @@ unterhält.
 
 
 ## § 5 Vermögensteuer und Aufbringungsumlage
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000600303)
 
 Die Vermögensteuer
 und die Aufbringungsumlage, die auf die steuerbegünstigten Anlagen
@@ -76,6 +82,7 @@ Hälfte der gesetzlichen Beträge.
 
 
 ## § 6 Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000701140)
 
 (1) Die einheitlichen Gewerbesteuermeßbeträge, die auf die
 steuerbegünstigten Anlagen entfallen, ermäßigen sich ab dem
@@ -86,6 +93,7 @@ gesetzlichen Beträge.
 
 
 ## § 7 Absetzung für Abnutzung
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000800303)
 
 (1) Die Summe der Absetzungen für Abnutzung auf die Wirtschaftsgüter,
 die zu den steuerbegünstigten Anlagen gehören, muß für die gesamte
@@ -102,16 +110,19 @@ Begünstigung für dieses Jahr nicht ein.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE000901309)
 
 -
 
 
 ## § 9 Weitergewährung bisheriger steuerlicher Begünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE001000303)
 
 -
 
 
 ## § 10 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE001101309)
 
 (1) Die Bestimmungen dieser Verordnung sind erstmalig anzuwenden:
 
@@ -137,6 +148,7 @@ Wirtschaftsjahre anzuwenden, die vor dem 1. Januar 1984 enden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/waskwv/BJNR002780944.html#BJNR002780944BJNE001200303)
 
 Der Reichsminister der Finanzen
 

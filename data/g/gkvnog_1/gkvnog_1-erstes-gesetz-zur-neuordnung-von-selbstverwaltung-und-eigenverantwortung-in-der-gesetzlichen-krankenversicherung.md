@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## (XXXX) Art 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/gkvnog_1/BJNR151800997.html#BJNR151800997BJNE000100310)
 
 
 
 ## Art 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gkvnog_1/BJNR151800997.html#BJNR151800997BJNE000202308)
 
 Ab Inkrafttreten dieses Gesetzes gilt Artikel 1 Nr. 2 und 3
 entsprechend für Beitragserhöhungen, die nach dem 11. März 1997 und
@@ -41,6 +43,7 @@ Betracht.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gkvnog_1/BJNR151800997.html#BJNR151800997BJNE000300310)
 
 (1)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konjv_1/BJNR001900967.html#BJNR001900967BJNE000100303)
 
 Auf Grund des § 51 Abs. 1 Ziff. 2 Buchstabe s des
 Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 10.
@@ -28,6 +29,7 @@ des Bundestages:
 
 
 ## § 1 Bewertungsfreiheit für abnutzbare Wirtschaftsgüter des Anlagevermögens
+[Direktlink](https://www.gesetze-im-internet.de/konjv_1/BJNR001900967.html#BJNR001900967BJNE000200303)
 
 (1) Bei abnutzbaren Wirtschaftsgütern des Anlagevermögens, die vom
 Steuerpflichtigen nach dem 19. Januar 1967 und vor dem 1. November
@@ -62,6 +64,7 @@ Herstellung ist das Jahr der Fertigstellung.
 
 
 ## § 2 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/konjv_1/BJNR001900967.html#BJNR001900967BJNE000300303)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 25
@@ -70,6 +73,7 @@ S. 981) auch im Land Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konjv_1/BJNR001900967.html#BJNR001900967BJNE000400303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

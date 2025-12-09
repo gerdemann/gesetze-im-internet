@@ -20,6 +20,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000100000)
 
 Auf Grund des § 6 Absatz 1 Satz 1 Nummer 18 in Verbindung mit Absatz 3
 Nummer 1, 2 und 6, sowie mit Absatz 7 Satz 1 Nummer 2 und Satz 2 des
@@ -31,6 +32,7 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1 Digitaler Fahrzeugschein
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000200000)
 
 (1) Das Kraftfahrt-Bundesamt kann eine Applikation für mobile
 Endgeräte zur Verfügung stellen, die es ermöglicht, die Angaben der
@@ -47,6 +49,7 @@ Verwaltungshinweise dargestellt werden.
 
 
 ## § 2 Antrag, Bereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000300000)
 
 (1) Der Halter eines Fahrzeugs oder die dazu berechtigte Person kann
 über die Applikation beim Kraftfahrt-Bundesamt die Bereitstellung des
@@ -59,6 +62,7 @@ Teil I ausgefertigt hat.
 
 
 ## § 3 Weitergabe an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000400000)
 
 (1) Der Halter eines Fahrzeugs ist berechtigt, den Digitalen
 Fahrzeugschein an eine andere Person weiterzugeben. Eine Weitergabe
@@ -73,6 +77,7 @@ zu befristen und jederzeit zu beenden.
 
 
 ## § 4 Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000500000)
 
 Die Pflichten nach § 13 Absatz 6 Satz 1 der Fahrzeug-
 Zulassungsverordnung erfüllt eine ein Fahrzeug führende Person auch
@@ -82,6 +87,7 @@ vorzeigt.
 
 
 ## § 5 Ungültigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000600000)
 
 Das Kraftfahrt-Bundesamt hat den in der Applikation dargestellten
 Digitalen Fahrzeugschein unverzüglich als ungültig zu markieren,
@@ -93,6 +99,7 @@ nicht mehr eingesehen werden.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fzausnv_2/BJNR0220A0025.html#BJNR0220A0025BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 mit Ablauf des 31. Januar 2030 außer Kraft.

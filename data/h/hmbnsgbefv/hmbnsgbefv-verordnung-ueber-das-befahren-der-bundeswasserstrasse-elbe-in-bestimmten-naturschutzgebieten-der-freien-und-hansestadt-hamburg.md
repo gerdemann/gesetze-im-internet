@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hmbnsgbefv/BJNR219200016.html#BJNR219200016BJNE000100000)
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
 Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S.
@@ -29,6 +30,7 @@ und Reaktorsicherheit:
 
 
 ## § 1 Befahrensregelung für das Naturschutzgebiet Mühlenberger Loch/Neßsand
+[Direktlink](https://www.gesetze-im-internet.de/hmbnsgbefv/BJNR219200016.html#BJNR219200016BJNE000200000)
 
 (1) Auf der Bundeswasserstraße Elbe im Bereich des Naturschutzgebietes
 „Mühlenberger Loch/Neßsand“ nach Maßgabe des als Anlage zu dieser
@@ -70,6 +72,7 @@ begrenzten Wasser- und Wattflächen zu betreten.
 
 
 ## § 2 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/hmbnsgbefv/BJNR219200016.html#BJNR219200016BJNE000300000)
 
 (1) Die Verbote des § 1 Absatz 1 gelten nicht für notwendige Dienst-
 oder Forschungsfahrten im Auftrag oder mit Wasserfahrzeugen des Bundes
@@ -99,6 +102,7 @@ dies zur Abwehr einer unmittelbar drohenden Gefahr erforderlich ist.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hmbnsgbefv/BJNR219200016.html#BJNR219200016BJNE000400000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -114,11 +118,13 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hmbnsgbefv/BJNR219200016.html#BJNR219200016BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/hmbnsgbefv/BJNR219200016.html#BJNR219200016BJNE000600000)
 
 (Fundstelle: BGBl. I 2016,2193)
 

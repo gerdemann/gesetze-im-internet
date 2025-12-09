@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv_2004/BJNR090700004.html#BJNR090700004BJNE000100000)
 
 Auf Grund des § 8 Abs. 3 Satz 1, 2, 4 und 5 des
 Finanzverwaltungsgesetzes in der Fassung der Bekanntmachung vom 30.
@@ -32,6 +33,7 @@ Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv_2004/BJNR090700004.html#BJNR090700004BJNE000200000)
 
 Die Leitungsaufgaben der Zoll- und Verbrauchsteuerabteilungen der
 Oberfinanzdirektionen Chemnitz, Cottbus, Hamburg, Hannover, Karlsruhe,
@@ -48,6 +50,7 @@ Gesetzes zur Bekämpfung der Schwarzarbeit und § 16 des Arbeitnehmer-
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv_2004/BJNR090700004.html#BJNR090700004BJNE000300000)
 
 Die Oberfinanzdirektion Köln ist zugleich zuständige Behörde der
 Zollverwaltung im Sinne des § 3 Abs. 1 Satz 1, Abs. 2 und 4 des
@@ -55,6 +58,7 @@ Arbeitnehmer-Entsendegesetzes.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv_2004/BJNR090700004.html#BJNR090700004BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 

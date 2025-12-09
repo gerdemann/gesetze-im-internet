@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stiftkstbegv/BJNR001010926.html#BJNR001010926BJNE000100304)
 
 Auf Grund des § 108 Abs. 2 der Reichsabgabenordnung wird mit
 Zustimmung des Reichsrats folgendes bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stiftkstbegv/BJNR001010926.html#BJNR001010926BJNE000200304)
 
 Ist eine Vermögensmasse, die zu einem standesherrlichen Hausvermögen,
 einem Familienfideikommiß, einem Lehen oder einem Erbstammgut gehört
@@ -37,6 +39,7 @@ Familienmitglieder verteilt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stiftkstbegv/BJNR001010926.html#BJNR001010926BJNE000300304)
 
 Diese Verordnung gilt erstmalig für den ersten Steuerabschnitt, für
 den nach dem Körperschaftsteuergesetz vom 10. August 1925
@@ -45,6 +48,7 @@ zur Körperschaftsteuer zu veranlagen ist.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stiftkstbegv/BJNR001010926.html#BJNR001010926BJNE000400304)
 
 Der Reichsminister der Finanzen
 

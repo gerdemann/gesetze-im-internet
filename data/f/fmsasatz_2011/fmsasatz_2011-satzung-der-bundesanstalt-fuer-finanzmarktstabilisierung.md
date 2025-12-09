@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Die zugehörige V v. 21.2.2011 I 271 (FMSASatzV 2011) tritt gem. Art. 14 G v. 28.2.2025 I Nr. 69 mWv 1.1.2026 außer Kraft
 
 ## Abschnitt 1 - Grundlagen der Organisation
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNG000101116)
 
 
 ### § 1 Rechtsform und Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000103123)
 
 (1) Die Bundesanstalt für Finanzmarktstabilisierung ist eine
 bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts im
@@ -37,6 +39,7 @@ Geschäftsverkehr als „FMSA“ bezeichnet werden.
 
 
 ### § 2 Aufgaben und Organisation der FMSA; Trägerschaft und Unterstützung durch die Finanzagentur
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000204123)
 
 (1) Der FMSA obliegen die ihr nach § 8a des
 Stabilisierungsfondsgesetzes übertragenen Aufgaben, insbesondere:
@@ -120,6 +123,7 @@ vorheriger Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
 
 ### § 3 Rechts- und Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000301116)
 
 Die FMSA untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums der Finanzen. Die Rechts- und Fachaufsicht umfasst
@@ -128,9 +132,11 @@ gegenüber der FMSA.
 
 
 ## Abschnitt 2 - Leitungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNG000201116)
 
 
 ### § 4 Organe
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000401116)
 
 (1) Organ der FMSA ist der Leitungsausschuss.
 
@@ -145,6 +151,7 @@ Leitungsausschuss erlassen.
 
 
 ### § 5 Zusammensetzung und Beschlüsse des Leitungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000503116)
 
 (1) Der Leitungsausschuss besteht aus einem Mitglied. Dieses Mitglied
 führt den Titel „Leiterin der Bundesanstalt für
@@ -194,6 +201,7 @@ der Finanzen eine Geschäftsordnung geben.
 
 
 ### § 6 Rechtsstellung der Leitung
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000603116)
 
 (1) Die Leitung unterliegt dem Weisungsrecht des Bundesministeriums
 der Finanzen.
@@ -212,6 +220,7 @@ Betrugsbekämpfung sind entsprechend einzuhalten.
 
 
 ### § 7 Aufgaben, Zuständigkeiten und Entlastung der Leitung
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000704123)
 
 (1) Die Leitung führt die Geschäfte der FMSA und verwaltet deren
 Vermögen nach den geltenden Gesetzen, insbesondere nach den Maßgaben
@@ -227,9 +236,11 @@ der Bundeshaushaltsordnung.
 
 
 ## Abschnitt 3 - Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNG000301116)
 
 
 ### § 8 Vertretung der FMSA
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000801116)
 
 (1) Die Leitung, im Verhinderungsfall eine der Stellvertretungen,
 vertritt die FMSA gerichtlich und außergerichtlich. Soweit im Rahmen
@@ -251,9 +262,11 @@ Annahme bevollmächtigten Beschäftigten der FMSA.
 
 
 ## Abschnitt 4 - Personal
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNG000401116)
 
 
 ### § 9 Personal
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE000903123)
 
 (1) Die FMSA kann Arbeitnehmerinnen und Arbeitnehmer im Rahmen des vom
 Bundesministerium der Finanzen genehmigten Stellenplans in
@@ -277,9 +290,11 @@ zugewiesenen Arbeitnehmerinnen und Arbeitnehmern.
 
 
 ## Abschnitt 5 - Haushalts- und Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNG000501116)
 
 
 ### § 10 Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatz_2011/BJNR027200011.html#BJNR027200011BJNE001105123)
 
 (1) Soweit nicht durch Gesetz oder in dieser Satzung abweichend
 geregelt, bezieht sich die unmittelbare Geltung der §§ 106 bis 110 der

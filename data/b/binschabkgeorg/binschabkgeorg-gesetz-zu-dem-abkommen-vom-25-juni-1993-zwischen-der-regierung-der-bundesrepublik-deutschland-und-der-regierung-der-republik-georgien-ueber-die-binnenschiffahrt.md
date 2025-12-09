@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/binschabkgeorg/BJNR104220996.html#BJNR104220996BJNE000100310)
 
 Dem in Bonn am 25. Juni 1993 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung der
@@ -30,6 +31,7 @@ Protokoll werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/binschabkgeorg/BJNR104220996.html#BJNR104220996BJNE000203305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, die genehmigten Vereinbarungen über die
@@ -40,6 +42,7 @@ setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/binschabkgeorg/BJNR104220996.html#BJNR104220996BJNE000300310)
 
 Abweichungen von den in einer Rechtsverordnung nach Artikel 2
 festgesetzten Mindest-/Höchstfrachten für Verkehrsleistungen sowie
@@ -48,6 +51,7 @@ festgesetzten Entgelts gleichkommen, sind verboten.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/binschabkgeorg/BJNR104220996.html#BJNR104220996BJNE000400310)
 
 Ordnungswidrig im Sinne des § 3 des Wirtschaftsstrafgesetzes 1954
 handelt, wer vorsätzlich oder fahrlässig den Abschluß von Verträgen
@@ -58,6 +62,7 @@ solche Verträge abschließt oder erfüllt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/binschabkgeorg/BJNR104220996.html#BJNR104220996BJNE000504119)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und
@@ -65,6 +70,7 @@ Schifffahrt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/binschabkgeorg/BJNR104220996.html#BJNR104220996BJNE000600310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

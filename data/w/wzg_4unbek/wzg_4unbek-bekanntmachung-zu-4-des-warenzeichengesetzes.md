@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4unbek/BJNR007810963.html#BJNR007810963BJNE000100303)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird
@@ -31,11 +32,13 @@ Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4unbek/BJNR007810963.html#BJNR007810963BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4unbek/BJNR007810963.html#BJNR007810963BJNE000200303)
 
 (Fundstelle: BGBl. I 1963, 781,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

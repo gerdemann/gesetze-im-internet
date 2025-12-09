@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Kosten der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000301126)
 
 Kosten der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
 Sozialgesetzbuch sind der in Geld ausgedrückte Güter- und
@@ -33,6 +34,7 @@ Investitionen und Versorgungszuschläge für Beamtinnen und Beamte.
 
 
 ## § 2 Gesamtverwaltungskosten der gemeinsamen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000401126)
 
 (1) Gesamtverwaltungskosten sind die personellen, sächlichen sowie
 sonstigen Aufwendungen der gemeinsamen Einrichtung zur Durchführung
@@ -53,6 +55,7 @@ Informationstechnik (§ 12).
 
 
 ## § 3 Eingliederungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000501126)
 
 Eingliederungsleistungen sind Leistungen an erwerbsfähige
 Leistungsberechtigte nach den §§ 16 bis 17 des Zweiten Buches
@@ -61,6 +64,7 @@ nicht zu den Gesamtverwaltungskosten.
 
 
 ## § 4 Vollzeitäquivalent
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000602126)
 
 (1) Das Vollzeitäquivalent bildet den Umfang der Tätigkeit einer
 Beschäftigten oder eines Beschäftigten in der gemeinsamen Einrichtung
@@ -94,6 +98,7 @@ Das Vollzeitäquivalent ist auf die vierte Nachkommastelle zu runden.
 
 
 ## § 5 Personalkosten
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000702126)
 
 (1) Personalkosten sind die Aufwendungen für Bezüge der Beamtinnen und
 Beamten sowie Arbeitnehmerinnen und Arbeitnehmer, denen Tätigkeiten in
@@ -129,6 +134,7 @@ Arbeitnehmerinnen und Arbeitnehmer. Dazu gehören insbesondere:
 
 
 ## § 6 Personalnebenkosten
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000802126)
 
 Personalnebenkosten sind die über die Personalkosten hinausgehenden
 Aufwendungen für aktive Beamtinnen und Beamte sowie für
@@ -159,6 +165,7 @@ Arbeitnehmerinnen und Arbeitnehmer, insbesondere für
 
 
 ## § 7 Versorgungsaufwendungen für Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE000902126)
 
 Versorgungsaufwendungen sind die durch das Dienstverhältnis bedingten
 kalkulatorischen Kosten für künftige Versorgungsleistungen und
@@ -167,6 +174,7 @@ Tätigkeiten in den gemeinsamen Einrichtungen zugewiesen sind.
 
 
 ## § 8 Kosten der Personalverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001003126)
 
 Kosten der Personalverwaltung sind die Aufwendungen der Träger zur
 Erfüllung ihrer Pflichten als Arbeitgeber und Dienstherr der
@@ -174,6 +182,7 @@ Beschäftigten in der gemeinsamen Einrichtung.
 
 
 ## § 8a Kosten der Nachwuchskräfte
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002601126)
 
 Kosten der Nachwuchskräfte sind Aufwendungen für Personen, die im
 Rahmen ihrer Ausbildung oder ihres Studiums im Bereich der
@@ -182,6 +191,7 @@ Sozialgesetzbuch eingesetzt werden.
 
 
 ## § 9 Sachkosten
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001101126)
 
 (1) Sachkosten sind Raumkosten, laufende Sachkosten und sonstige
 Sachgemeinkosten.
@@ -221,6 +231,7 @@ Aufwendungen für die Instandhaltung und Instandsetzung.
 
 
 ## § 10 Amtshilfe und Arbeitnehmerüberlassung
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001201126)
 
 Kosten der Amtshilfe sind die Aufwendungen für Personal, das in der
 gemeinsamen Einrichtung Amtshilfe gemäß § 3 des Zehnten Buches
@@ -230,6 +241,7 @@ des Arbeitnehmerüberlassungsgesetzes eingesetzt wird.
 
 
 ## § 11 Leistungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001301126)
 
 Leistungen Dritter sind
 
@@ -245,6 +257,7 @@ Leistungen Dritter sind
 
 
 ## § 12 Zentral verwaltete Verfahren der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001402126)
 
 Kosten der zentral verwalteten Verfahren der Informationstechnik sind
 die Aufwendungen der Bundesagentur für Arbeit für die Betreuung,
@@ -263,6 +276,7 @@ oder gewerbsmäßiger Kriminalität.
 
 
 ## § 13 Grundsätze zur Bestimmung der Gesamtverwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001502126)
 
 (1) Die Bestimmung der Gesamtverwaltungskosten nach § 2 erfolgt unter
 Berücksichtigung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit
@@ -282,6 +296,7 @@ folgenden Monats nachgewiesen werden.
 
 
 ## § 14 Bestimmung der Personalkosten
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001604126)
 
 (1) Personalkosten nach § 5 werden in tatsächlicher Höhe anerkannt.
 Die Personalkosten sind aufgegliedert nach Besoldungs- und
@@ -315,6 +330,7 @@ anerkannt.
 
 
 ## § 15 Bestimmung der Personalnebenkosten
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001704126)
 
 Personalnebenkosten nach § 6 werden in tatsächlicher Höhe anerkannt.
 Für Personalnebenkosten nach § 6 Nummer 1 und 4 können ausnahmsweise
@@ -324,6 +340,7 @@ entsprechend.
 
 
 ## § 16 Versorgungsaufwendungen für Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001806126)
 
 Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30
 Prozent der nach § 14 bestimmten ruhegehaltfähigen Personalkosten für
@@ -332,6 +349,7 @@ Januar 2015 bis 31. Dezember 2025 ein Zuschlag von bis zu 35 Prozent.
 
 
 ## § 17 Bestimmung der Kosten für die Personalverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE001903126)
 
 Für Kosten der Personalverwaltung nach § 8 wird ein Zuschlag von bis
 zu 2 Prozent der nach § 14 vom jeweiligen Träger bestimmten und um die
@@ -340,6 +358,7 @@ Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung nach §
 
 
 ## § 17a Bestimmung der Kosten für Nachwuchskräfte
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002701126)
 
 (1) Für Kosten der Nachwuchskräfte nach § 8a wird ein Zuschlag von bis
 zu 0,5 Prozent der nach § 14 vom jeweiligen Träger bestimmten und um
@@ -356,12 +375,14 @@ mindestens einmal jährlich nachzuweisen.
 
 
 ## § 18 Bestimmung der Sachkosten und der Kosten für Amtshilfe und Arbeitnehmerüberlassung
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002001126)
 
 Sächliche Aufwendungen nach den §§ 9 und 10 werden in tatsächlicher
 Höhe anerkannt.
 
 
 ## § 19 Bestimmung der Kosten für Leistungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002101126)
 
 Aufwendungen nach § 11 werden in tatsächlicher Höhe anerkannt, soweit
 auch der gemeinsamen Einrichtung Verwaltungskosten entstanden wären,
@@ -370,6 +391,7 @@ hätte.
 
 
 ## § 20 Bestimmung der Kosten für die zentral verwalteten Verfahren der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002202126)
 
 Für die Kosten der zentral verwalteten Verfahren der
 Informationstechnik nach § 12 wird für jeden Mitarbeiter in der
@@ -383,6 +405,7 @@ genehmigen und im Bundesanzeiger zu veröffentlichen.
 
 
 ## § 21 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002302126)
 
 Das Bundesministerium für Arbeit und Soziales legt anlassbezogen unter
 Beteiligung der Länder einen Bericht zur Umsetzung der Regelungen
@@ -390,5 +413,6 @@ dieser Verordnung vor.
 
 
 ## § 22 (Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/vkfv/BJNR171400011.html#BJNR171400011BJNE002402126)
 
 

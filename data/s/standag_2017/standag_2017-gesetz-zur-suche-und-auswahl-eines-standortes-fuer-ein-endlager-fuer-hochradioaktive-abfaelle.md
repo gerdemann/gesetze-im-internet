@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 751-17 v. 23.7.2013 I 2553 (StandAG)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000100000)
 
 (1) Dieses Gesetz regelt das Standortauswahlverfahren.
 
@@ -74,6 +76,7 @@ hochradioaktiver Abfälle gewährleistet ist.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -210,6 +213,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 3 Vorhabenträger
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000301119)
 
 (1) Vorhabenträger ist der Dritte nach § 9a Absatz 3 Satz 2 zweiter
 Halbsatz des Atomgesetzes. Der Vorhabenträger hat die Aufgabe, das
@@ -245,6 +249,7 @@ Rahmen des Standortauswahlverfahrens von ihm vorgenommenen Maßnahmen.
 
 
 ### § 4 Bundesamt für die Sicherheit der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000401119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung hat im
 Standortauswahlverfahren insbesondere die Aufgaben:
@@ -272,9 +277,11 @@ unmittelbar nach Übermittlung durch den Vorhabenträger.
 
 
 ## Teil 2 - Beteiligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000200000)
 
 
 ### § 5 Grundsätze der Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000501119)
 
 (1) Ziel der Öffentlichkeitsbeteiligung ist eine Lösung zu finden, die
 in einem breiten gesellschaftlichen Konsens getragen wird und damit
@@ -298,6 +305,7 @@ zeitlichen Abständen zu prüfen.
 
 
 ### § 6 Informationsplattform
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000601119)
 
 Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das
 Bundesamt für die Sicherheit der nuklearen Entsorgung eine
@@ -310,6 +318,7 @@ insbesondere Gutachten, Stellungnahmen, Datensammlungen und Berichte.
 
 
 ### § 7 Stellungnahmeverfahren; Erörterungstermine
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000701119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung gibt der
 Öffentlichkeit und den Trägern öffentlicher Belange, deren
@@ -366,6 +375,7 @@ Durchführung entsprechend Absatz 4 Satz 2 bekannt zu machen.
 
 
 ### § 8 Nationales Begleitgremium
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000802119)
 
 (1) Aufgabe des pluralistisch zusammengesetzten Nationalen
 Begleitgremiums ist die vermittelnde und unabhängige Begleitung des
@@ -420,6 +430,7 @@ Begleitgremium über seine Tätigkeit.
 
 
 ### § 9 Fachkonferenz Teilgebiete
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE000901119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung beruft
 nach Erhalt des Zwischenberichts nach § 13 Absatz 2 Satz 3 eine
@@ -446,6 +457,7 @@ Entsorgung eingerichtet wird.
 
 
 ### § 10 Regionalkonferenzen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001001119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung richtet
 in jeder nach § 14 Absatz 2 zur übertägigen Erkundung vorgeschlagenen
@@ -516,6 +528,7 @@ sich die dazugehörige Regionalkonferenz auf.
 
 
 ### § 11 Fachkonferenz Rat der Regionen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001101119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung richtet
 nach Bildung der Regionalkonferenzen eine Fachkonferenz Rat der
@@ -536,12 +549,15 @@ Entsorgung eingerichtet wird.
 
 
 ## Teil 3 - Standortauswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000300000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000400000)
 
 
 #### § 12 Erkundung; Verhältnis zur Raumordnung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001200000)
 
 (1) Für die Erkundung sind die §§ 3 bis 29, 39, 40, 48 und 50 bis 104,
 106 und 145 bis 148 des Bundesberggesetzes entsprechend anzuwenden. Im
@@ -575,9 +591,11 @@ auch Informationen über die nach § 21 zugelassenen Vorhaben.
 
 
 ### Kapitel 2 - Ablauf des Standortauswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000500000)
 
 
 #### § 13 Ermittlung von Teilgebieten
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001301119)
 
 (1) Der Vorhabenträger hat unter Anwendung der in den §§ 22 bis 24
 festgelegten geowissenschaftlichen Anforderungen und Kriterien
@@ -604,6 +622,7 @@ Absatz 2 bleibt unberührt.
 
 
 #### § 14 Ermittlung von Standortregionen für übertägige Erkundung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001401119)
 
 (1) Der Vorhabenträger ermittelt aus den Teilgebieten nach § 13 Absatz
 1 Standortregionen für die übertägige Erkundung. Er führt für die
@@ -632,6 +651,7 @@ Erkundungsprogramme für die übertägige Erkundung zur Festlegung vor.
 
 
 #### § 15 Entscheidung über übertägige Erkundung und Erkundungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001502119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft
 den Vorschlag des Vorhabenträgers. Will das Bundesamt für die
@@ -661,6 +681,7 @@ fest und veröffentlicht sie sowie Änderungen im Bundesanzeiger.
 
 
 #### § 16 Übertägige Erkundung und Vorschlag für untertägige Erkundung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001601119)
 
 (1) Der Vorhabenträger hat die durch Bundesgesetz ausgewählten
 Standortregionen übertägig nach den standortbezogenen
@@ -691,6 +712,7 @@ Prüfkriterien für die untertägige Erkundung zur Festlegung vor.
 
 
 #### § 17 Entscheidung über untertägige Erkundung und Erkundungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001702119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft
 den Vorschlag des Vorhabenträgers. Will das Bundesamt für die
@@ -740,6 +762,7 @@ ausgewählten Standorte, legt diese fest und veröffentlicht sie sowie
 
 
 #### § 18 Untertägige Erkundung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001802119)
 
 (1) Der Vorhabenträger hat die durch Bundesgesetz ausgewählten
 Standorte nach den Erkundungsprogrammen untertägig zu erkunden. Auf
@@ -767,6 +790,7 @@ Umweltverträglichkeitsprüfung durch.
 
 
 #### § 19 Abschließender Standortvergleich und Standortvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE001903119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft
 den Vorschlag des Vorhabenträgers einschließlich des zugrunde
@@ -819,6 +843,7 @@ und letzten Rechtszug das Bundesverwaltungsgericht.
 
 
 #### § 20 Standortentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002001128)
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag und dem Bundesrat
 den Standortvorschlag in Form eines Gesetzentwurfs vor. Zu den von der
@@ -846,6 +871,7 @@ statt.
 
 
 #### § 21 Sicherungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002103119)
 
 (1) Gebiete, die als bestmöglich sicherer Standort für die Endlagerung
 in Betracht kommen, sind vor Veränderungen zu schützen, die ihre
@@ -981,9 +1007,11 @@ zulässig, wenn die Voraussetzungen nach Satz 1 fortbestehen.
 
 
 ### Kapitel 3 - Kriterien und Anforderungen für die Standortauswahl
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000600000)
 
 
 #### § 22 Ausschlusskriterien
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002200000)
 
 (1) Ein Gebiet ist nicht als Endlagerstandort geeignet, wenn
 mindestens eines der Ausschlusskriterien nach Absatz 2 in diesem
@@ -1054,6 +1082,7 @@ verritzt und seine Integrität nicht gefährdet wird.
 
 
 #### § 23 Mindestanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002300000)
 
 (1) Für die Endlagerung hochradioaktiver Abfälle kommen die
 Wirtsgesteine Steinsalz, Tongestein und Kristallingestein in Betracht.
@@ -1156,6 +1185,7 @@ Absatz 3 gilt entsprechend.
 
 
 #### § 24 Geowissenschaftliche Abwägungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002400000)
 
 (1) Anhand geowissenschaftlicher Abwägungskriterien wird jeweils
 bewertet, ob in einem Gebiet eine günstige geologische Gesamtsituation
@@ -1194,6 +1224,7 @@ festgelegt.
 
 
 #### § 25 Planungswissenschaftliche Abwägungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002500000)
 
 Die planungswissenschaftlichen Abwägungskriterien dienen vorrangig der
 Einengung von großen, potenziell für ein Endlager geeigneten Gebieten,
@@ -1212,6 +1243,7 @@ geowissenschaftlichen Abwägungskriterien erfolgt nicht.
 
 
 #### § 26 Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002601119)
 
 (1) Sicherheitsanforderungen sind die Anforderungen, denen die
 Errichtung, der Betrieb und die Stilllegung einer nach § 9b Absatz 1a
@@ -1297,6 +1329,7 @@ Naturschutz und nukleare Sicherheit zugeleitet.
 
 
 #### § 27 Vorläufige Sicherheitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002701119)
 
 (1) Gegenstand der vorläufigen Sicherheitsuntersuchungen nach § 14
 Absatz 1, § 16 Absatz 1 und § 18 Absatz 1 ist die Bewertung, inwieweit
@@ -1355,9 +1388,11 @@ Naturschutz und nukleare Sicherheit zugeleitet.
 
 
 ## Teil 4 - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000700000)
 
 
 ### § 28 Umlage
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002801119)
 
 (1) Der Vorhabenträger und das Bundesamt für die Sicherheit der
 nuklearen Entsorgung legen ihre umlagefähigen Kosten für die Umsetzung
@@ -1422,6 +1457,7 @@ Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten.
 
 
 ### § 29 Umlagepflichtige und Umlagebetrag
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE002901118)
 
 (1) Umlagepflichtig ist derjenige, dem eine Genehmigung nach den §§ 6,
 7 oder 9 des Atomgesetzes, nach § 12 Absatz 1 Nummer 3 sowie Absatz 3
@@ -1445,6 +1481,7 @@ Endlagervorausleistungsverordnung.
 
 
 ### § 30 Jahresrechnung für die Umsetzung der Standortsuche und Ermittlung der umlagefähigen Kosten
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003002119)
 
 (1) Der Vorhabenträger und das Bundesamt für die Sicherheit der
 nuklearen Entsorgung stellen nach Ende des Haushaltsjahres die
@@ -1459,6 +1496,7 @@ das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
 
 ### § 31 Ermittlung des Umlagebetrages
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003103119)
 
 (1) Auf Grundlage der in den Jahresrechnungen ermittelten
 umlagefähigen Kosten nach § 30 Absatz 1 haben der Vorhabenträger und
@@ -1480,6 +1518,7 @@ Haushaltsjahres bekannt gegeben werden.
 
 
 ### § 32 Umlageforderung, Festsetzung und Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003203119)
 
 (1) Die Umlageforderung entsteht mit Ablauf des Haushaltsjahres, für
 das die Umlagepflicht besteht (Umlagejahr).
@@ -1502,6 +1541,7 @@ einen späteren Zeitpunkt bestimmt.
 
 
 ### § 33 Umlagevorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003303119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit hat von den Umlagepflichtigen eine Vorauszahlung auf den
@@ -1523,6 +1563,7 @@ Anlage nur kleine Mengen an radioaktiven Abfällen ergeben.
 
 
 ### § 34 Differenz zwischen Umlagebetrag und Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003401119)
 
 (1) Entsteht nach der Anrechnung des gezahlten
 Umlagevorauszahlungsbetrages auf den festgesetzten Umlagebetrag ein
@@ -1535,6 +1576,7 @@ Umlagebetrag, ist die Überzahlung unverzinst zu erstatten.
 
 
 ### § 35 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003500000)
 
 Werden die Umlagebeträge oder Umlagevorauszahlungsbeträge nicht
 innerhalb von zwei Wochen nach Ablauf des Fälligkeitstages entrichtet,
@@ -1547,6 +1589,7 @@ Säumniszuschläge unberührt.
 
 
 ### § 35a Abschließende Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE005100119)
 
 Nach der Standortentscheidung nach § 20 Absatz 2 wird eine
 abschließende Berechnung der Umlagebeträge vorgenommen. Hierfür gilt §
@@ -1568,9 +1611,11 @@ festgesetzten Umlagebeträge, soweit
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000800000)
 
 
 ### § 36 Salzstock Gorleben
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003600000)
 
 (1) Der Salzstock Gorleben wird wie jeder andere in Betracht kommende
 Standort gemäß den nach den §§ 22 bis 26 festgelegten Kriterien und
@@ -1616,9 +1661,11 @@ wird dort nicht betrieben.
 
 
 ## Teil 6 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG000900000)
 
 
 ### § 37 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003701119)
 
 Für die bis zum 27. Juli 2013 nach § 21b des Atomgesetzes gezahlten
 Vorausleistungen gelten das Atomgesetz und die
@@ -1627,9 +1674,11 @@ Inkrafttretens dieses Gesetzes geltenden Fassung fort.
 
 
 ## Teil 7 - Ermächtigungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNG001000000)
 
 
 ### § 38 Dokumentation, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003802119)
 
 (1) Daten und Dokumente, die für die End- und Zwischenlagerung
 radioaktiver Abfälle bedeutsam sind oder werden können
@@ -1653,6 +1702,7 @@ dauerhafte Unversehrtheit der Daten gesichert wird.
 (zu § 24 Absatz 3)
 
 ### Anlage 1 Kriterium zur Bewertung des Transportes radioaktiver Stoffe durch Grundwasserbewegungen im einschlusswirksamen Gebirgsbereich
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE003900000)
 
 (Fundstelle: BGBl. I 2017, 1088)
 
@@ -1759,6 +1809,7 @@ Indikator verwendet werden.
 (zu § 24 Absatz 3)
 
 ### Anlage 2 Kriterium zur Bewertung der Konfiguration der Gesteinskörper
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004000000)
 
 (Fundstelle: BGBl. I 2017, 1089)
 
@@ -1883,6 +1934,7 @@ werden.
 (zu § 24 Absatz 3)
 
 ### Anlage 3 Kriterium zur Bewertung der räumlichen Charakterisierbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004100000)
 
 (Fundstelle: BGBl. I 2017, 1090)
 
@@ -1995,6 +2047,7 @@ Eigenschaften nach der unten stehenden Tabelle.
 (zu § 24 Absatz 3)
 
 ### Anlage 4 Kriterium zur Bewertung der langfristigen Stabilität der günstigen Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004200000)
 
 (Fundstelle: BGBl. I 2017, 1091)
 
@@ -2024,6 +2077,7 @@ wesentlich verändert haben. Sie sind wie folgt zu bewerten:
 (zu § 24 Absatz 4)
 
 ### Anlage 5 Kriterium zur Bewertung der günstigen gebirgsmechanischen Eigenschaften
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004300000)
 
 (Fundstelle: BGBl. I 2017, 1092)
 
@@ -2048,6 +2102,7 @@ Endlagerhohlräume möglichst gering sein. Indikatoren hierfür sind:
 (zu § 24 Absatz 4)
 
 ### Anlage 6 Kriterium zur Bewertung der Neigung zur Bildung von Fluidwegsamkeiten
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004400000)
 
 (Fundstelle: BGBl. I 2017, 1093 - 1094)
 
@@ -2215,6 +2270,7 @@ stehenden Tabelle.
 (zu § 24 Absatz 5)
 
 ### Anlage 7 Kriterium zur Bewertung der Gasbildung
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004500000)
 
 (Fundstelle: BGBl. I 2017, 1095)
 
@@ -2258,6 +2314,7 @@ der unten stehenden Tabelle.
 (zu § 24 Absatz 5)
 
 ### Anlage 8 Kriterium zur Bewertung der Temperaturverträglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004600000)
 
 (Fundstelle: BGBl. I 2017, 1096)
 
@@ -2274,6 +2331,7 @@ Mineralumwandlungen.
 (zu § 24 Absatz 5)
 
 ### Anlage 9 Kriterium zur Bewertung des Rückhaltevermögens im einschlusswirksamen Gebirgsbereich
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004700000)
 
 (Fundstelle: BGBl. I 2017, 1097)
 
@@ -2333,6 +2391,7 @@ Gesteinsporen im Nanometerbereich.
 (zu § 24 Absatz 5)
 
 ### Anlage 10 Kriterium zur Bewertung der hydrochemischen Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004800000)
 
 (Fundstelle: BGBl. I 2017, 1098)
 
@@ -2367,6 +2426,7 @@ Indikatoren hierfür sind:
 (zu § 24 Absatz 5)
 
 ### Anlage 11 Kriterium zur Bewertung des Schutzes des einschlusswirksamen Gebirgsbereichs durch das Deckgebirge
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE004900000)
 
 (Fundstelle: BGBl. I 2017, 1099)
 
@@ -2463,6 +2523,7 @@ stehenden Tabelle.
 (zu § 25)
 
 ### Anlage 12 Planungswissenschaftliche Abwägungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/standag_2017/BJNR107410017.html#BJNR107410017BJNE005000000)
 
 (Fundstelle: BGBl. I 2017, 1100)
 

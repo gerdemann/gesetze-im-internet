@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fehmarnbeltqvtrg/BJNR079920009.html#BJNR079920009BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fehmarnbeltqvtrg/BJNR079920009.html#BJNR079920009BJNE000200000)
 
 Dem in Kopenhagen am 3. September 2008 unterzeichneten Vertrag
 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark
@@ -32,6 +34,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/fehmarnbeltqvtrg/BJNR079920009.html#BJNR079920009BJNE000300000)
 
 Eine Gesellschaft im Sinne des Artikels 6 des Vertrages vom 3.
 September 2008 bedarf für den Betrieb der Schienenverbindung auf der
@@ -43,6 +46,7 @@ dänischem Recht zugelassen ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/fehmarnbeltqvtrg/BJNR079920009.html#BJNR079920009BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

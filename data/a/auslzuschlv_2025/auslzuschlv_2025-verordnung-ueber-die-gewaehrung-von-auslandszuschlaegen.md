@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 2032-1-37 v. 17.8.2010 I 1177, 1244 (AuslZuschlV 2010)
 
 ## Abschnitt 1 - Auslandszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNG000100000)
 
 
 ### § 1 Zuteilung der Dienstorte zu Zonenstufen
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000200000)
 
 (1) Befindet sich an einem Dienstort eine Auslandsvertretung der
 Bundesrepublik Deutschland, so wird dem Dienstort eine Zonenstufe nach
@@ -45,6 +47,7 @@ Bundesbesoldungsgesetzes umfassen auch die Amtszulagen.
 
 
 ### § 2 Auslandszuschlag bei Arbeitsplatzteilung
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000300000)
 
 In Fällen des § 53 Absatz 3 Satz 3 des Bundesbesoldungsgesetzes wird
 die Grundgehaltsspanne der oder des höher besoldeten Berechtigten
@@ -52,6 +55,7 @@ zugrunde gelegt.
 
 
 ### § 3 Zuschlag zur Abgeltung außergewöhnlicher materieller Mehraufwendungen und immaterieller Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000400000)
 
 (1) Als monatlicher Zuschlag zur Abgeltung außergewöhnlicher
 materieller Mehraufwendungen können zusätzlich zum Auslandszuschlag
@@ -122,6 +126,7 @@ pauschalen Kürzung nach Absatz 3 zugrunde gelegt wurden.
 
 
 ### § 4 Zuschlag zur Sicherstellung einer anforderungsgerechten Besetzung eines Dienstpostens im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000500000)
 
 (1) Kann ein Dienstposten im Ausland wegen außergewöhnlicher
 materieller Mehraufwendungen oder immaterieller Belastungen nicht mit
@@ -140,6 +145,7 @@ Dienstort gezahlt.
 
 
 ### § 5 Erhöhung der Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000600000)
 
 Ein Zuschlag nach § 3 erhöht sich für jede Person, die nach § 53
 Absatz 4 des Bundesbesoldungsgesetzes berücksichtigungsfähig ist, um
@@ -148,6 +154,7 @@ Zuschlag festgesetzt worden ist, nicht nur vorübergehend aufhält.
 
 
 ### § 6 Übernahme der Festsetzung einer anderen obersten Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000700000)
 
 Eine oberste Dienstbehörde kann einen Zuschlag nach § 3 übernehmen,
 den eine andere oberste Dienstbehörde festgesetzt hat. Ein
@@ -156,6 +163,7 @@ ist bei der Übernahme nicht herzustellen.
 
 
 ### § 7 Höchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000800000)
 
 Die Beträge nach den §§ 3 bis 5 können bis zum gesetzlichen
 Höchstbetrag nach § 53 Absatz 1 Satz 5 des Bundesbesoldungsgesetzes
@@ -164,12 +172,15 @@ nebeneinander gewährt werden und unterliegen dem Kaufkraftausgleich (§
 
 
 ## Abschnitt 2 - Erhöhter Auslandszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNG000200000)
 
 
 ### Unterabschnitt 1 - Erhöhter Auslandszuschlag für Angehörige des Auswärtigen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNG000300000)
 
 
 #### § 8 Information über den Ablauf des maßgeblichen Zeitraums bei befristeten Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE000900000)
 
 Die entsendende Dienststelle informiert die Bezügestelle, wenn der
 Zeitraum nach § 53 Absatz 6 Satz 2 des Bundesbesoldungsgesetzes
@@ -177,6 +188,7 @@ abgelaufen ist.
 
 
 #### § 9 Maßgebliche Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001000000)
 
 Maßgebliche Dienstbezüge für die Berechnung des erhöhten
 Auslandszuschlags nach § 53 Absatz 6 Satz 1 und 2 des
@@ -201,9 +213,11 @@ Bundesbesoldungsgesetzes sind:
 
 
 ### Unterabschnitt 2 - Erhöhter Auslandszuschlag für berücksichtigungsfähige Personen
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNG000400000)
 
 
 #### § 10 Erhöhter Auslandszuschlag für Verheiratete
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001100000)
 
 (1) Einen erhöhten Auslandszuschlag erhalten nach Maßgabe der Absätze
 2 und 3:
@@ -252,6 +266,7 @@ von ihnen den Erhöhungsbetrag erhält.
 
 
 #### § 11 Verwendung zum Aufbau einer eigenständigen Altersvorsorge der Ehegattin oder des Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001200000)
 
 Als Verwendung für den Aufbau einer eigenständigen Altersvorsorge der
 Ehegattin oder des Ehegatten nach § 10 Absatz 2 gelten:
@@ -293,6 +308,7 @@ ist zulässig.
 
 
 #### § 12 Nachweis und Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001300000)
 
 (1) Die Verwendung zum Aufbau einer eigenständigen Altersvorsorge nach
 § 10 Absatz 2 kann durch eine schriftliche oder elektronische
@@ -312,6 +328,7 @@ eingestellt wird.
 
 
 #### § 13 Abweichende Regelungen für bestimmte Personengruppen zu Verwendung und Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001400000)
 
 (1) Hat die Ehegattin oder der Ehegatte das 50. Lebensjahr am 1.
 Januar 2020 vollendet, so gelten als Verwendung zum Aufbau ihrer oder
@@ -351,6 +368,7 @@ Bundesbesoldungsgesetzes.
 
 
 #### § 14 Erhöhter Auslandszuschlag für weitere berücksichtigungsfähige Personen
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001500000)
 
 (1) Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die
 das Gesetz über den Auswärtigen Dienst gilt, erhalten einen um einen
@@ -374,6 +392,7 @@ entsprechend.
 
 
 #### § 15 Begriff des Nettoerwerbseinkommens
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001600000)
 
 Das Nettoerwerbseinkommen ist die Summe der nach Abzug der zu
 entrichtenden Steuern vom Einkommen und der Arbeitnehmeranteile zur
@@ -400,6 +419,7 @@ gesetzlichen Sozialversicherung verbleibenden Einkünfte aus:
 
 
 #### § 16 Anrechnung des Nettoerwerbseinkommens der berücksichtigungsfähigen Person
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001700000)
 
 (1) Ist die Ehegattin oder der Ehegatte oder eine nach § 53 Absatz 4
 Nummer 3 des Bundesbesoldungsgesetzes berücksichtigungsfähige Person
@@ -426,6 +446,7 @@ Dienstorten betrachtet.
 
 
 #### § 17 Vorläufige Gewährung und Nachweis bei Nettoerwerbseinkommen der berücksichtigungsfähigen Person
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001800000)
 
 (1) Der erhöhte Auslandszuschlag wird vorläufig auf Basis einer
 schriftlichen oder elektronischen dienstlichen Erklärung zum
@@ -440,9 +461,11 @@ erhöhten Auslandszuschlags umfassen.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNG000500000)
 
 
 ### § 18 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE001900000)
 
 (1) Stand Empfängerinnen und Empfängern von Auslandsdienstbezügen
 schon vor dem 1. Juli 2025 ein erhöhter Auslandszuschlag für
@@ -462,6 +485,7 @@ worden ist.
 
 
 ### Anlage 1 (zu § 1 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE002000000)
 
 (Fundstelle: BGBl. 2025 I Nr. 145, S. 8 - 13)
 
@@ -2319,6 +2343,7 @@ worden ist.
 
 
 ### Anlage 2 (zu § 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/auslzuschlv_2025/BJNR0910B0025.html#BJNR0910B0025BJNE002100000)
 
 (Fundstelle: BGBl. 2025 I Nr. 145, S. 14 - 16)
 

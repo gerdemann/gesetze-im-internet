@@ -24,6 +24,7 @@ Die v tritt gem. art. 3 abs. 2 an dem tag außer kraft, an dem die durch
 Stand: Die V ist gem. Art. 3 Abs. 1 iVm Bek. v. 31.10.2025 II Nr. 279 am 23.10.2025 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unfrb_rovbgv/BJNR1070O0025.html#BJNR1070O0025BJNE000100000)
 
 Die Bundesregierung verordnet aufgrund des Artikels 2 Absatz 2 des
 Gesetzes zu dem Abkommen vom 10. November 1995 zwischen der
@@ -33,6 +34,7 @@ des Freiwilligenprogramms der Vereinten Nationen vom 5. Juni 1996
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unfrb_rovbgv/BJNR1070O0025.html#BJNR1070O0025BJNE000200000)
 
 Die durch Notenwechsel vom 19. März 2025 und 25. Juni 2025
 geschlossene Vereinbarung zwischen der Regierung der Bundesrepublik
@@ -44,6 +46,7 @@ Kraft gesetzt. Der Notenwechsel wird mit einer amtlichen deutschen
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unfrb_rovbgv/BJNR1070O0025.html#BJNR1070O0025BJNE000300000)
 
 (1) Gemäß Artikel 4 Absatz 2 des Abkommens vom 10. November 1995
 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen
@@ -59,6 +62,7 @@ Juni 1996 (BGBl. 1996 II S. 903) ist in vollem Umfang anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unfrb_rovbgv/BJNR1070O0025.html#BJNR1070O0025BJNE000400000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die durch
 Notenwechsel geschlossene Vereinbarung nach der Inkrafttretensklausel
@@ -72,6 +76,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/unfrb_rovbgv/BJNR1070O0025.html#BJNR1070O0025BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

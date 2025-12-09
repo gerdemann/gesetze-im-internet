@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbaveng/BJNR072720996.html#BJNR072720996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbaveng/BJNR072720996.html#BJNR072720996BJNE000200310)
 
 Dem am 8. Februar 1995 in Caracas unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Venezuela zur
@@ -36,6 +38,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbaveng/BJNR072720996.html#BJNR072720996BJNE000300310)
 
 Soweit das Abkommen auf Grund seines Artikels 28 für die Zeit vor
 seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -52,6 +55,7 @@ der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbaveng/BJNR072720996.html#BJNR072720996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

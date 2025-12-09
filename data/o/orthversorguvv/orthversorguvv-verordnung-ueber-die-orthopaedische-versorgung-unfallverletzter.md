@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000100319)
 
 Auf Grund des § 564 der Reichsversicherungsordnung verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000201308)
 
 (1) Die orthopädische Versorgung der Unfallverletzten umfaßt die
 Ausstattung mit Körperersatzstücken, orthopädischen und anderen
@@ -39,6 +41,7 @@ berücksichtigen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000302126)
 
 (1) Körperersatzstücke und Hilfsmittel sind insbesondere
 Kunstglieder, Kunstaugen, Zahnersatz und andere künstliche
@@ -62,6 +65,7 @@ für fremde Führung einen monatlichen Zuschuß.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000401126)
 
 (1) Die Körperersatzstücke und Hilfsmittel sollen dem allgemeinen
 Stand der technischen Entwicklung entsprechen. Sie sind in der
@@ -95,12 +99,14 @@ Mehrkosten selbst zu tragen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000500319)
 
 Der Träger der Unfallversicherung kann sich an wertvollen Hilfsmitteln
 das Eigentum vorbehalten.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000600319)
 
 Die Lieferung des Körperersatzstücks oder Hilfsmittels kann davon
 abhängig gemacht werden, daß der Verletzte sich, um mit dem Gebrauch
@@ -109,6 +115,7 @@ einer dazu erforderlichen Ausbildung unterzieht.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000701126)
 
 (1) Krankenfahrzeuge sind zu gewähren, wenn die Gehfähigkeit des
 Verletzten durch Unfallfolgen erheblich beeinträchtigt ist und die
@@ -146,6 +153,7 @@ auszugehen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000801126)
 
 (1) Versicherte, denen infolge eines Versicherungsfalls
 außergewöhnlicher Verschleiß an Kleidung oder Wäsche entsteht,
@@ -157,6 +165,7 @@ Pauschbetrag, so sind sie in besonderen Fällen erstattungsfähig.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE000900319)
 
 Um eine gleichmäßige Versorgung der Unfallverletzten zu sichern,
 sollen die Träger der Unfallversicherung gemeinsame Richtlinien über
@@ -165,6 +174,7 @@ Körperersatzstücken und Hilfsmitteln vereinbaren.
 
 
 ## § 9 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE001001126)
 
 Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
 Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
@@ -179,6 +189,7 @@ geltenden Fassung weiter.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/orthversorguvv/BJNR008710973.html#BJNR008710973BJNE001100319)
 
 (1) Diese Verordnung tritt am ersten Tag des auf die Verkündung
 folgenden Kalendermonats in Kraft.

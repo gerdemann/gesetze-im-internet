@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000100000)
 
 Auf Grund des § 2 Abs. 2 des Satellitendatensicherheitsgesetzes vom
 23\. November 2007 (BGBl. I S. 2590) und auf Grund des § 17 Abs. 3 Satz
@@ -30,6 +31,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Daten mit besonders hohem Informationsgehalt
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000200000)
 
 (1) Ein Sensor eines Erdfernerkundungssystems ist alleine oder in
 Kombination mit einem oder mehreren Sensoren technisch in der Lage,
@@ -58,6 +60,7 @@ Metern oder weniger erzeugt werden kann.
 
 
 ## § 2 Sensitive Anfragen
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000300000)
 
 (1) Eine Anfrage der Bundesrepublik Deutschland nach § 21 des
 Satellitendatensicherheitsgesetzes oder einer deutschen militärischen
@@ -111,12 +114,14 @@ Flussdiagramm dargestellt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000400000)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 2 Nummer 1)
 
 ## Anlage 1 Bodenstationsnegativliste
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000601125)
 
 (Fundstelle: BGBl. 2023 I Nr. 278, S. 1 – 2)
 
@@ -167,6 +172,7 @@ Staatsgebiet Arabische Republik Syrien
 (zu § 2 Abs. 2 Nr. 2)
 
 ## Anlage 2 Gebietspositivliste
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000700000)
 
 ( Fundstelle: BGBl. I 2008, 509 )
 Antarktischer Kontinent und angrenzende Meere (alle Gebiete südlich
@@ -178,6 +184,7 @@ geographischer Breite)
 (zu § 2 Absatz 2 Nummer 2 Buchstabe a)
 
 ## Anlage 3 Gebietsnegativliste
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000802125)
 
 Fundstelle: BGBl. 2023 I Nr. 278, S. 2)
 
@@ -236,6 +243,7 @@ Staatsgebiet Republik Zypern
 (zu § 2 Abs. 2 Nr. 2 Buchstabe b)
 
 ## Anlage 4 Empfängerpositivliste
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE000901125)
 
 (Fundstelle: BGBl. I 2008, 510)
 
@@ -279,6 +287,7 @@ Staatsgebiet Republik Zypern
 (zu § 2 Abs. 1 und 2)
 
 ## Anlage 5 Übersicht über den Prüfablauf
+[Direktlink](https://www.gesetze-im-internet.de/satdsiv/BJNR050800008.html#BJNR050800008BJNE001000000)
 
 ( Fundstelle: BGBl. I 2008, 511 )
 ![bgbl1_2008_j0508-1_0010.jpg](bgbl1_2008_j0508-1_0010.jpg)

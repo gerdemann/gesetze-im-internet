@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000203320)
 
 Wer gentechnische Arbeiten oder Freisetzungen durchführt, hat nach
 Maßgabe dieser Verordnung Aufzeichnungen zu führen, aufzubewahren und
@@ -30,6 +31,7 @@ der zuständigen Behörde auf ihr Ersuchen vorzulegen.
 
 
 ## § 2 Aufzeichnungen bei gentechnischen Arbeiten oder bei Freisetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000304310)
 
 (1) Die Aufzeichnungen über gentechnische Arbeiten müssen folgende
 Angaben enthalten:
@@ -224,6 +226,7 @@ Arbeiten aufzuzeichnen.
 
 
 ## § 3 Form der Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000402320)
 
 (1) Die Aufzeichnungen dürfen weder durch Streichung noch auf andere
 Weise unleserlich gemacht werden. Es dürfen keine Veränderungen
@@ -246,6 +249,7 @@ gewährleistet ist.
 
 
 ## § 4 Aufzeichnungs- und Vorlagepflichtiger, Aufbewahrungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000502320)
 
 (1) Der Betreiber hat die Aufzeichnungen der zuständigen Behörde auf
 ihr Ersuchen vorzulegen. Er hat die Aufzeichnungen aufzubewahren; die
@@ -275,6 +279,7 @@ abgelaufen sind.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000602320)
 
 Ordnungswidrig im Sinne des § 38 Abs. 1 Nr. 12 des Gentechnikgesetzes
 handelt, wer als Betreiber vorsätzlich oder fahrlässig
@@ -296,11 +301,13 @@ handelt, wer als Betreiber vorsätzlich oder fahrlässig
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000702320)
 
 (weggefallen)
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/gentaufzv/BJNR023380990.html#BJNR023380990BJNE000801320)
 
 (Inkrafttreten)
 

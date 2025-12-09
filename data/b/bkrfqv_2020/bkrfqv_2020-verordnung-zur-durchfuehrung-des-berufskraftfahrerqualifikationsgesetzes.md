@@ -25,6 +25,7 @@ Führerschein (ABl. L 112 vom 2.5.2018, S. 29).
 
 
 ## § 1 Erwerb der Grundqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000100000)
 
 (1) Für den Zugang zum Erwerb der Grundqualifikation ist der vorherige
 Erwerb der jeweiligen Fahrerlaubnis nicht erforderlich.
@@ -64,6 +65,7 @@ zu verkürzen.
 
 
 ## § 2 Erwerb der beschleunigten Grundqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000200000)
 
 (1) Für den Zugang zum Erwerb der beschleunigten Grundqualifikation
 ist der vorherige Erwerb der jeweiligen Fahrerlaubnis nicht
@@ -151,6 +153,7 @@ Prüfung ist entsprechend zu verkürzen.
 
 
 ## § 3 Unterrichts- und Prüfungsanforderungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000300000)
 
 (1) Fahrer im Güterkraftverkehr, die ihre Tätigkeit auf den
 Personenkraftverkehr ausweiten, oder Fahrer im Personenkraftverkehr,
@@ -171,6 +174,7 @@ der neuen beschleunigten Grundqualifikation sind.
 
 
 ## § 4 Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000400000)
 
 (1) Durch die Weiterbildung sind alle in Anlage 1 aufgeführten
 Kenntnisbereiche zu vertiefen und aufzufrischen. Aus den
@@ -226,6 +230,7 @@ Anrechnung nicht mehr zulässig.
 
 
 ## § 5 Anerkennung von Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000500000)
 
 (1) Der Antrag auf Anerkennung einer Ausbildungsstätte für die
 beschleunigte Grundqualifikation und die Weiterbildung ist bei der
@@ -296,6 +301,7 @@ zu erlassen. Vorbehaltlich besonderer Bestimmungen sind zu benennen:
 
 
 ## § 6 Anforderungen an den Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000600000)
 
 (1) Die Teilnehmerzahl für den Unterricht zur beschleunigten
 Grundqualifikation und zur Weiterbildung ist auf höchstens 25 Personen
@@ -309,6 +315,7 @@ und zur Visualisierung vorhanden sind.
 
 
 ## § 7 Fortbildung der Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000700000)
 
 (1) Ausbilder, die Unterricht zur beschleunigten Grundqualifikation
 oder zur Weiterbildung durchführen, haben ihre Kenntnisse regelmäßig
@@ -336,6 +343,7 @@ vorzulegen.
 
 
 ## § 8 Ausstellung des Fahrerqualifizierungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000800000)
 
 (1) Die nach Landesrecht zuständige Behörde stellt auf Antrag einen
 Fahrerqualifizierungsnachweis aus, wenn der Fahrer nachweislich
@@ -407,6 +415,7 @@ aus dem Berufskraftfahrerqualifikationsregister ein.
 
 
 ## § 9 Ausstellung eines neuen Fahrerqualifizierungsnachweises bei Änderungen, Verlust, Diebstahl und Beschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE000900000)
 
 (1) Bei Änderungen der den Angaben auf dem
 Fahrerqualifizierungsnachweis zugrunde liegenden Tatsachen ist auf
@@ -452,6 +461,7 @@ Landesrecht zuständigen Behörde unverzüglich zurückzugeben.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001000000)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 2 Nummer 7 Buchstabe a des
 Berufskraftfahrerqualifikationsgesetzes handelt, wer vorsätzlich oder
@@ -483,6 +493,7 @@ fahrlässig
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001100000)
 
 (1) Weiterbildungsbescheinigungen, die nach den bis zum Ablauf des 21.
 Dezember 2016 geltenden Vorschriften ausgefertigt worden sind, bleiben
@@ -582,6 +593,7 @@ zu den in § 8 Absatz 3 genannten Unterlagen vorzulegen.
 (zu § 1 Absatz 2 Satz 2, § 2 Absatz 2 Satz 2, § 4 Absatz 1 Satz 1)
 
 ## Anlage 1 Liste der Kenntnisbereiche
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001200000)
 
 (Fundstelle: BGBl. I 2020, 2910 - 2913)
 
@@ -1235,6 +1247,7 @@ vom 6.5.2008, S. 1) vergleichbar sein.
 (zu § 1 Absatz 2 Satz 1)
 
 ## Anlage 2 Prüfungen zum Erwerb der Grundqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001300000)
 
 (Fundstelle: BGBl. I 2020, 2914)
 
@@ -1304,6 +1317,7 @@ vom 6.5.2008, S. 1) vergleichbar sein.
 2)
 
 ## Anlage 3 Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001400000)
 
 (Fundstelle: BGBl. I 2020, 2915 - 2016)
 
@@ -1512,6 +1526,7 @@ II. Anmerkungen zur Musterbescheinigung über die Teilnahme an einer
 3)
 
 ## Anlage 4 Musterbescheinigung über die Teilnahme an einer Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001500000)
 
 (Fundstelle: BGBl. I 2020, 2917 - 2918)
 
@@ -1776,6 +1791,7 @@ II. Anmerkungen zur Musterbescheinigung über die Teilnahme an einer
 (zu § 8 Absatz 1 Satz 3)
 
 ## Anlage 5 Muster des Fahrerqualifizierungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqv_2020/BJNR290510020.html#BJNR290510020BJNE001600000)
 
 (Fundstelle: BGBl. I 2020, 2919 - 2920)
 

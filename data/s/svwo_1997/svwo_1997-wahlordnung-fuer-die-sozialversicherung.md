@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000100310)
 
 Auf Grund des § 56 des Vierten Buches Sozialgesetzbuch - Gemeinsame
 Vorschriften für die Sozialversicherung - (Artikel 1 des Gesetzes vom
@@ -29,10 +30,12 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## Erster Teil - Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG000200310)
 
 
 
 ### § 1 Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000301308)
 
 Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches
 Sozialgesetzbuch sind
@@ -56,6 +59,7 @@ Sozialgesetzbuch sind
 
 
 ### § 2 Wahlbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000404126)
 
 (1) Die Wahlbeauftragten und ihre Stellvertreter werden jeweils mit
 Wirkung vom 1. Oktober des zweiten Jahres vor dem Jahr bestellt, in
@@ -82,6 +86,7 @@ treffen.
 
 
 ### § 3 Wahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000503126)
 
 (1) Der Vorstand eines Versicherungsträgers bestellt spätestens mit
 Wirkung vom 1. Februar des dem Wahljahr vorhergehenden Jahres einen
@@ -165,6 +170,7 @@ Sitzungen kann er sie als Schriftführer heranziehen.
 
 
 ### § 4 Beschwerdewahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000604126)
 
 (1) Das Bundesministerium für Arbeit und Soziales bestellt am Sitz des
 Bundeswahlbeauftragten für die Sozialversicherungswahlen einen
@@ -218,6 +224,7 @@ zur Äußerung zu geben.
 
 
 ### § 5 Wahlleitungen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000702308)
 
 (1) Der Wahlausschuß bestellt Briefwahlleitungen oder nimmt deren
 Aufgaben selbst wahr. Nimmt er die Aufgaben der Briefwahlleitungen
@@ -262,6 +269,7 @@ Mitgliedern der Briefwahlleitung unterzeichnet. § 3 Abs. 9 Satz 2 und
 
 
 ### § 6 Entschädigung der Wahlbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000802308)
 
 (1) Der Bundeswahlbeauftragte und sein Stellvertreter erhalten
 Reisekostenvergütung nach dem Bundesreisekostengesetz und eine
@@ -274,6 +282,7 @@ Stellvertreter regeln die obersten Verwaltungsbehörden der Länder.
 
 
 ### § 7 Entschädigung der Mitglieder der Wahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE000900310)
 
 (1) Die Mitglieder der Wahlausschüsse werden wie die Mitglieder der
 Selbstverwaltungsorgane des Versicherungsträgers entschädigt, für den
@@ -284,6 +293,7 @@ diese die Entschädigung der Mitglieder.
 
 
 ### § 8 Entschädigung der Mitglieder der Beschwerdewahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001000310)
 
 (1) Der Vorsitzende des Bundeswahlausschusses und sein Stellvertreter
 erhalten Reisekostenvergütung nach dem Bundesreisekostengesetz und
@@ -311,6 +321,7 @@ die obersten Verwaltungsbehörden der Länder.
 
 
 ### § 9 Entschädigung der Mitglieder der Wahlleitungen und anderer Wahlhelfer
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001102308)
 
 (1) Den Mitgliedern der Wahlleitungen werden in entsprechender
 Anwendung des § 41 Abs. 2 des Vierten Buches Sozialgesetzbuch der
@@ -347,18 +358,22 @@ hinzuweisen.
 
 
 ## Zweiter Teil - Wahl der Mitglieder der Vertreterversammlungen in der Renten- und Unfallversicherung sowie der Mitglieder der Verwaltungsräte in der Kranken- und Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG001202308)
 
 
 
 ### Erster Abschnitt - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG001300310)
 
 
 
 #### Erster Unterabschnitt - Wahltag, Wahlankündigung, Wahlausschreibung, Vorschlagslisten und Wahlbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG001400310)
 
 
 
 ##### § 10 Wahltag, Wahlankündigung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001301308)
 
 Der Bundeswahlbeauftragte soll spätestens einen Monat vor Ablauf der
 Frist des § 48c Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch
@@ -372,6 +387,7 @@ soll ein Mittwoch in dem Zeitraum vom 15. Mai bis zum 15. Juni sein.
 
 
 ##### § 11 Verfahren zur vorgezogenen Feststellung der Vorschlagsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001402126)
 
 (1) In dem Antrag auf Feststellung der Vorschlagsberechtigung nach §
 48b Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch sind dem
@@ -499,6 +515,7 @@ Bekanntmachung.
 
 
 ##### § 12 Verfahren zur Feststellung der allgemeinen Vorschlagsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001500310)
 
 Den Antrag auf Feststellung der allgemeinen Vorschlagsberechtigung
 nach § 48c des Vierten Buches Sozialgesetzbuch sollen nur
@@ -513,6 +530,7 @@ Antragsteller Angaben entsprechend § 11 Abs. 1 zu verlangen.
 
 
 ##### § 13 Beschwerde im Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001601126)
 
 (1) Beschwerden nach § 48b Abs. 3 des Vierten Buches Sozialgesetzbuch
 sind, wenn sie sich gegen die Entscheidung des Wahlausschusses eines
@@ -539,6 +557,7 @@ Wahlbeauftragten den Termin der Sitzung mit. Für das Verfahren gelten
 
 
 ##### § 14 Wahlausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001703126)
 
 (1) Der Bundeswahlbeauftragte weist spätestens am 1. April des
 Kalenderjahres vor dem Kalenderjahr des Wahltages durch öffentliche
@@ -686,6 +705,7 @@ bezeichnen.
 
 
 ##### § 15 Vorschlagslisten und Niederschriften
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001803126)
 
 (1) Die Vorschlagslisten für die Wahlen der Vertreterversammlungen
 sind auf Vordrucken nach dem Muster der Anlage 1 und für die Wahlen
@@ -795,6 +815,7 @@ Familienname, Vorname, Geburtsjahr und Wohnort anzugeben.
 
 
 ##### § 16 Listenvertreter
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE001900310)
 
 (1) In den Vorschlagslisten von Personenvereinigungen und Verbänden
 sind ein Listenvertreter und sein Stellvertreter zu benennen. Scheidet
@@ -818,6 +839,7 @@ Hälfte der Unterzeichner unterschrieben sein.
 
 
 ##### § 17 Stellung des Listenvertreters
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002001126)
 
 (1) Der Listenvertreter übt die Befugnisse aus, die ihm nach § 60 des
 Vierten Buches Sozialgesetzbuch und nach dieser Verordnung zustehen.
@@ -855,6 +877,7 @@ benannt ist.
 
 
 ##### § 18 Listenänderung und Listenergänzung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002103126)
 
 (1) Soll die Aufstellung der Bewerber in einer Vorschlagsliste vor
 Ablauf der Einreichungsfrist geändert oder ergänzt werden, muß die
@@ -900,6 +923,7 @@ soweit dies technisch möglich ist. Absatz 3 Satz 4 findet Anwendung.
 
 
 ##### § 19 Zurücknahme von Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002200310)
 
 (1) Eine Vorschlagsliste kann durch gemeinsame Erklärung des
 Listenvertreters und seines Stellvertreters zurückgenommen werden,
@@ -911,6 +935,7 @@ zurückgenommen werden.
 
 
 ##### § 20 Listenzusammenlegung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002302126)
 
 (1) Die Listenvertreter können die Erklärung, daß ihre
 Vorschlagslisten zusammengelegt werden sollen (§ 48 Abs. 7 des Vierten
@@ -933,6 +958,7 @@ Unterschriften der beteiligten Listenvertreter.
 
 
 ##### § 21 Listenverbindung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002401308)
 
 Die Listenvertreter können die Erklärung, daß ihre Vorschlagslisten
 verbunden werden sollen (§ 48 Abs. 7 des Vierten Buches
@@ -943,6 +969,7 @@ Satz 3 bleibt unberührt.
 
 
 ##### § 22 Vorläufige Prüfung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002502308)
 
 (1) Der Vorsitzende des Wahlausschusses vermerkt auf den
 Vorschlagslisten den Tag des Eingangs und bezeichnet sie in der
@@ -1016,6 +1043,7 @@ auszuhändigen.
 
 
 ##### § 23 Zulassung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002603126)
 
 (1) Der Wahlausschuß entscheidet bis zum 142. Tag vor dem Wahltag in
 einer Sitzung über die Zulassung sämtlicher Vorschlagslisten,
@@ -1100,6 +1128,7 @@ zuständigen Landeswahlbeauftragten mitzuteilen.
 
 
 ##### § 24 Beschwerde gegen die Entscheidung des Wahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002702126)
 
 (1) Gegen eine Entscheidung des Wahlausschusses, die eine
 Vorschlagsliste, Listenzusammenlegung oder Listenverbindung,
@@ -1125,6 +1154,7 @@ dem Beschwerdewahlausschuß vor.
 
 
 ##### § 25 Entscheidung des Beschwerdewahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002800310)
 
 (1) Über die Beschwerde entscheidet der Bundeswahlausschuß, wenn sie
 sich gegen die Entscheidung des Wahlausschusses eines
@@ -1162,6 +1192,7 @@ werden.
 
 
 ##### § 26 Auslegung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE002902126)
 
 (1) Wird eine Wahl mit Wahlhandlung durchgeführt, legt der
 Versicherungsträger in seinen Geschäftsstellen Abschriften der
@@ -1177,6 +1208,7 @@ entsprechend.
 
 
 ##### § 27 Information der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003001308)
 
 (1) Wird eine Wahl mit Wahlhandlung durchgeführt, ist den Trägern der
 zugelassenen Vorschlagslisten durch den Versicherungsträger
@@ -1220,6 +1252,7 @@ Information der Wahlberechtigten kann mit der Aushändigung oder
 
 
 ##### § 28 Wahl ohne Wahlhandlung und Bekanntmachung des Ergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003101308)
 
 (1) Wird aus einer Wählergruppe keine gültige Vorschlagsliste
 eingereicht oder nur eine Vorschlagsliste zugelassen, findet für diese
@@ -1246,16 +1279,19 @@ gewählt.
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003201308)
 
 (weggefallen)
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003301308)
 
 (weggefallen)
 
 
 ##### § 31 Bekanntmachung von Wahlen zu den Vertreterversammlungen und Verwaltungsräten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003401308)
 
 (1) Frühestens am 51. und spätestens am 37. Tag vor dem Wahltag machen
 die Versicherungsträger die Wahl öffentlich bekannt
@@ -1289,15 +1325,18 @@ Weise hinzuweisen ist, hinreichend zur Kenntnis zu bringen.
 
 
 ##### § 32
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003502308)
 
 (weggefallen)
 
 
 #### Zweiter Unterabschnitt - Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG003600310)
 
 
 
 ##### § 33 Wahlausweise
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003600310)
 
 (1) Die Wahlberechtigten wählen auf Grund von Wahlausweisen. Als
 Wahlausweise gelten auch besondere, personenbezogene Kennzeichnungen
@@ -1313,6 +1352,7 @@ ausgegangen worden ist.
 
 
 ##### § 34 Ausstellung der Wahlausweise
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003700310)
 
 (1) Die Wahlausschüsse verteilen bis zum 51. Tag vor dem Wahltag die
 Vordrucke für die Wahlausweise, die Stimmzettel, die Merkblätter, die
@@ -1357,6 +1397,7 @@ Nähere.
 
 
 ##### § 35 Ausstellung der Wahlausweise für Arbeitgeber in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003802308)
 
 (1) Die Arbeitgeber erhalten die Wahlausweise auf Antrag.
 
@@ -1380,6 +1421,7 @@ beteiligte Krankenkassen hiervon.
 
 
 ##### § 36 Ausstellung der Wahlausweise in der Unfallversicherung für Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE003901119)
 
 (1) Die Wahlausweise für wahlberechtigte Unternehmer werden vom
 Versicherungsträger auf Antrag ausgestellt.
@@ -1396,6 +1438,7 @@ Angabe durch den Unternehmer genügt.
 
 
 ##### § 37 Ausstellung der Wahlausweise in der Unfallversicherung für Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004001308)
 
 (1) Die Wahlausweise werden
 
@@ -1442,6 +1485,7 @@ dem Wahltag die Gesamtzahl der ausgestellten und ausgehändigten oder
 
 
 ##### § 38 Ausstellung der Wahlausweise in der Unfallversicherung für Rentenbezieher
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004100310)
 
 (1) Die Wahlausweise werden für wahlberechtigte Rentenbezieher vom
 Versicherungsträger auf Antrag ausgestellt.
@@ -1458,6 +1502,7 @@ Angabe durch den Rentenbezieher genügt.
 
 
 ##### § 39 Ausstellung der Wahlausweise in der Unfallversicherung für Schüler, Lernende und Studierende
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004200310)
 
 Für die nach § 2 Abs. 1 Nr. 2 und 8 Buchstabe b und c des Siebten
 Buches Sozialgesetzbuch versicherten Schüler, Lernenden und
@@ -1470,6 +1515,7 @@ Wahlausweise ausstellt.
 
 
 ##### § 40 Ausstellung von Wahlausweisen in der Unfallversicherung für andere Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004300310)
 
 Die Wahlausweise für andere am Stichtag (§ 50 Abs. 1 Satz 1 des
 Vierten Buches Sozialgesetzbuch) gegen Versicherungsfälle der
@@ -1480,6 +1526,7 @@ Antrag ausgestellt.
 
 
 ##### § 41 Form und Inhalt der Wahlausweise und der Stimmzettel sowie der Stimmzettelumschläge und Wahlbriefumschläge
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004404126)
 
 (1) Die Wahlausweise und die Stimmzettel werden auf amtlichen
 Vordrucken nach dem Muster der Anlage 7 oder 8 ausgestellt; der
@@ -1593,6 +1640,7 @@ Zustimmung des Wahlbeauftragten zu einer Abweichung einzuholen.
 
 
 ##### § 42 Verwendung personenbezogener Kennzeichnungen als Wahlausweise
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004501126)
 
 (1) Werden personenbezogene Kennzeichnungen als Wahlausweise
 verwendet, dürfen diese nur auf die Wahlbriefumschläge aufgedruckt
@@ -1638,10 +1686,12 @@ Wahlbeauftragten einzuholen.
 
 
 ### Zweiter Abschnitt - Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG004500310)
 
 
 
 #### § 43 Briefliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004601308)
 
 (1) Der Wahlberechtigte, der brieflich wählt,
 
@@ -1678,6 +1728,7 @@ Verfügung gestellt. Das Nähere regelt der Bundeswahlbeauftragte.
 
 
 #### § 44 Frist für die briefliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004700310)
 
 Der Wähler soll den Wahlbrief möglichst frühzeitig absenden; er muß
 ihn so rechtzeitig absenden, daß der Wahlbrief spätestens am Wahltag
@@ -1689,6 +1740,7 @@ eingegangen.
 
 
 #### § 45 Behandlung der Wahlbriefe
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004803126)
 
 (1) Der Wahlausschuß prüft die Wahlbriefe selbst oder läßt sie durch
 Briefwahlleitungen behandeln, die er in der erforderlichen Zahl
@@ -1722,6 +1774,7 @@ aufbewahrt.
 
 
 #### § 46 Behandlung der Wahlbriefe beim Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE004901308)
 
 In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat
 der Arbeitgeber oder der sonst für die Ausgabe der Wahlunterlagen
@@ -1731,55 +1784,66 @@ unverzüglich an den Adressaten abgesandt werden.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005001119)
 
 (weggefallen)
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005101119)
 
 (weggefallen)
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005201119)
 
 (weggefallen)
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005301119)
 
 (weggefallen)
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005401119)
 
 (weggefallen)
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005501119)
 
 (weggefallen)
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005601119)
 
 (weggefallen)
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005702119)
 
 (weggefallen)
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005801119)
 
 (weggefallen)
 
 
 ### Dritter Abschnitt - Ermittlung und Bekanntmachung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG005900310)
 
 
 
 #### § 56 Ungültige Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE005900310)
 
 (1) Ungültig ist die Stimmabgabe, wenn der Stimmzettel
 
@@ -1845,6 +1909,7 @@ ungültig.
 
 
 #### § 57 Ermittlung des Wahlergebnisses durch die Briefwahlleitungen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006000310)
 
 (1) Die Briefwahlleitung ermittelt unverzüglich nach dem Wahltag
 getrennt nach Wählergruppen, wie viele Stimmen für die einzelnen
@@ -1871,6 +1936,7 @@ Anzugeben sind dabei gesondert für die einzelnen Wählergruppen
 
 
 #### § 58 Ermittlung des Wahlergebnisses durch den Wahlausschuss
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006104126)
 
 (1) Auf Grund der Wahlniederschriften der Briefwahlleitungen und unter
 Berücksichtigung der Stimmen, die ihm selbst brieflich zugegangen
@@ -1931,16 +1997,19 @@ erhalten eine Abschrift der Niederschrift.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006202308)
 
 (weggefallen)
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006302308)
 
 (weggefallen)
 
 
 #### § 61 Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006403126)
 
 (1) Der Wahlausschuß stellt unverzüglich das Wahlergebnis fest und
 macht es mit den in der Anlage 11 unter den Nummern 1 bis 8
@@ -1960,69 +2029,83 @@ Abschrift der Bekanntmachung.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006501308)
 
 (weggefallen)
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006701308)
 
 (weggefallen)
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006802308)
 
 (weggefallen)
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE006901308)
 
 (weggefallen)
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007001308)
 
 (weggefallen)
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007101308)
 
 (weggefallen)
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007201308)
 
 (weggefallen)
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007302308)
 
 (weggefallen)
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007401308)
 
 (weggefallen)
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007502308)
 
 (weggefallen)
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007601308)
 
 (weggefallen)
 
 
 ## Dritter Teil - Wahl der Vorsitzenden der Selbstverwaltungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG007701308)
 
 
 
 ### Erster Abschnitt - Wahl der Vorsitzenden der Vertreterversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG007800310)
 
 
 
 #### § 73 Erste Sitzung der Vertreterversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007802308)
 
 (1) Die erste Sitzung der in einer allgemeinen Wahl neu gewählten
 Vertreterversammlung muß spätestens fünf Monate nach dem Wahltag
@@ -2049,6 +2132,7 @@ Wahl des Vorsitzenden der Vertreterversammlung.
 
 
 #### § 74 Wahl des Vorsitzenden der Vertreterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE007900310)
 
 (1) Der Vorsitzende des Wahlausschusses eröffnet die erste Sitzung der
 Vertreterversammlung und führt einen Beschluß darüber herbei, ob der
@@ -2086,10 +2170,12 @@ Vorsitzenden der Vertreterversammlung zu unterzeichnen.
 
 
 ### Zweiter Abschnitt - Wahl der  Vorsitzenden der Verwaltungsräte
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG008000310)
 
 
 
 #### § 75 Erste Sitzung der Verwaltungsräte
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008001308)
 
 (1) Die erste Sitzung des in einer allgemeinen Wahl neu gewählten
 Verwaltungsrates muß spätestens fünf Monate nach dem Wahltag
@@ -2108,6 +2194,7 @@ Wahl des Vorsitzenden des Verwaltungsrates.
 
 
 #### § 76 Wahl des Vorsitzenden des Verwaltungsrates
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008100310)
 
 (1) Der Vorsitzende des Wahlausschusses eröffnet die erste Sitzung des
 Verwaltungsrates und führt einen Beschluß darüber herbei, ob der
@@ -2146,10 +2233,12 @@ Vorsitzenden des Verwaltungsrates zu unterzeichnen.
 
 
 ### Dritter Abschnitt - Wahl des Vorstandes in der Renten- und Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG008202308)
 
 
 
 #### § 77 Wahl des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008201126)
 
 (1) Der Vorstand wird im Anschluß an die Wahl des Vorsitzenden der
 Vertreterversammlung gewählt.
@@ -2196,6 +2285,7 @@ Bekanntgabe auf sein Verlangen schriftlich zu bestätigen.
 
 
 #### § 78 Wahl des Vorsitzenden des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008300310)
 
 (1) Die Wahl des Vorsitzenden des Vorstandes kann unmittelbar im
 Anschluß an die Wahl des Vorstandes stattfinden; sie muß innerhalb von
@@ -2217,10 +2307,12 @@ zur Wahl des Vorsitzenden des Vorstandes.
 
 
 ### Vierter Abschnitt - Bekanntmachung des endgültigen Wahlergebnisses und der Ergänzung von Selbstverwaltungsorganen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG008401126)
 
 
 
 #### § 79 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008404126)
 
 (1) Der Vorsitzende der Vertreterversammlung oder des Verwaltungsrates
 teilt dem Wahlausschuß das Ergebnis der Wahl der Vorsitzenden der
@@ -2265,10 +2357,12 @@ Begründung öffentlich bekannt.
 
 
 ## Vierter Teil - Wahl von Versichertenältesten und Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG008502308)
 
 
 
 ### § 80 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008603126)
 
 (1) Für die Wahl von Versichertenältesten in der Rentenversicherung,
 der Unfallversicherung und der Kranken- und Pflegeversicherung sowie
@@ -2283,6 +2377,7 @@ machen. § 79 Absatz 3 und 6 findet entsprechende Anwendung.
 
 
 ### § 81 Zeitpunkt der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008700310)
 
 Soweit die Satzung des Versicherungsträgers nichts anderes bestimmt,
 soll die Wahl von Versichertenältesten und Vertrauenspersonen in der
@@ -2291,10 +2386,12 @@ stattfinden.
 
 
 ## Fünfter Teil - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG008801308)
 
 
 
 ### § 82 Kostenträger
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE008900310)
 
 (1) Der Bund trägt die durch die Tätigkeit des Bundeswahlbeauftragten
 entstehenden Kosten.
@@ -2313,6 +2410,7 @@ und beglaubigte Abschriften von Belegen verlangen.
 
 
 ### § 83 Erstattung von Auslagen des Bundeswahlbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009001308)
 
 (1) Die Versicherungsträger haben dem Bund die nach § 14 Abs. 1
 entstehenden Auslagen zu erstatten. Diese Auslagen werden auf alle
@@ -2342,16 +2440,19 @@ Wahlbeauftragte bestimmt das Nähere.
 
 
 ### § 84
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009101308)
 
 (weggefallen)
 
 
 ### § 85
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009201308)
 
 (weggefallen)
 
 
 ### § 86 Kostenerstattung im Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009300310)
 
 (1) Obsiegt der Beschwerdeführer in einem Beschwerdeverfahren nach den
 §§ 13 und 24, hat ihm der Versicherungsträger die notwendigen
@@ -2370,6 +2471,7 @@ Antragsteller seine notwendigen Aufwendungen zu erstatten hat. Absatz
 
 
 ### § 87 Kosten der Beschwerdewahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009400310)
 
 (1) Die Kosten, die durch die Bestellung des Bundeswahlausschusses und
 seine Tätigkeit entstehen, tragen die bundesunmittelbaren
@@ -2389,10 +2491,12 @@ zuständige Landeswahlbeauftragte.
 
 
 ## Sechster Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNG009501308)
 
 
 
 ### § 88 Öffentliche Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009602126)
 
 (1) Die nach dieser Verordnung erforderlichen Bekanntmachungen
 veröffentlichen
@@ -2426,6 +2530,7 @@ Tagespresse durch eine viertelseitige Anzeige veröffentlichen.
 
 
 ### § 88a Datenschutzrechtliche Spezialregelungen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE012700126)
 
 (1) Hinsichtlich der in den Vorschlagslisten enthaltenen
 personenbezogenen Daten bestehen das Recht auf Berichtigung nach
@@ -2451,12 +2556,14 @@ Voraussetzungen des § 91.
 
 
 ### § 89 Gebührenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009700310)
 
 Für die Ausstellung von Bescheinigungen, die in dieser Verordnung
 vorgesehen sind, werden Gebühren nicht erhoben.
 
 
 ### § 90 Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009801308)
 
 (1) Die Versicherungsträger und alle am Wahlverfahren Beteiligte sind
 berechtigt, die Vordrucke nach dem Muster der Anlagen selbst
@@ -2472,6 +2579,7 @@ dies erforderlich ist.
 
 
 ### § 91 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE009901126)
 
 Die Wahlunterlagen werden bis zum Ablauf der Amtsdauer der gewählten
 Organe aufbewahrt. Die Wahlausweise, Stimmzettel, Stimmzettelumschläge
@@ -2496,12 +2604,14 @@ endgültig verbleiben.
 
 
 ### § 92 Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010000310)
 
 Alle an der Durchführung der Wahlen beteiligten Behörden und
 Versicherungsträger leisten sich gegenseitig Amtshilfe.
 
 
 ### § 93 Wahlen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010100310)
 
 (1) Die Vorschriften dieser Verordnung gelten entsprechend, wenn eine
 Wahl wiederholt werden oder für einen neu errichteten
@@ -2523,6 +2633,7 @@ notwendig macht, erforderlich ist.
 
 
 ### § 94 Stadtstaaten-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010200310)
 
 In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche
 Stellen die Aufgaben wahrnehmen, die im Vierten Buch Sozialgesetzbuch
@@ -2530,58 +2641,68 @@ und in dieser Verordnung den Gemeindeverwaltungen übertragen sind.
 
 
 ### § 95 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010300310)
 
 Diese Verordnung tritt am 1. Oktober 1997 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010400310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### § 96 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE012800126)
 
 Für die Sozialversicherungswahlen im Jahr 2023 gilt § 11 Absatz 1 Satz
 2 Nummer 8 in der bis zum 17. Februar 2021 geltenden Fassung.
 
 
 ### Anlage 1 (zu § 15 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010504126)
 
 (Fundstelle: BGBl. I 2021, 169 - 172)
 
 
 
 ### Anlage 2 (zu § 15 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010603126)
 
 (Fundstelle: BGBl. I 2021, 173 - 176; 2022 I 105)
 
 
 
 ### Anlage 3 (zu § 15 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010703126)
 
 (Fundstelle: BGBl. I 2021, 177 - 178)
 
 
 
 ### Anlage 4 (zu § 15 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010802126)
 
 (Fundstelle: BGBl. I 2021, 179 - 180)
 
 
 
 ### Anlage 5 (zu § 15 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE010902126)
 
 (Fundstelle: BGBl. I 2021, 181 - 182)
 
 
 
 ### Anlage 6 (zu § 15 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011002126)
 
 (Fundstelle: BGBl. I 2021, 183)
 
 
 
 ### Anlage 7 (zu § 41 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011104126)
 
 (Fundstelle: BGBl. I 2021, 184 - 185; 2022 I 1539)
 
@@ -2826,6 +2947,7 @@ vorgesehenen Frist vernichtet werden.
 [^F823428_02a_BJNR194600997BJNE011104126]: 
 
 ### Anlage 8 (zu § 41 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011201126)
 
 (Fundstelle: BGBl. I 2021, 186 - 187; 2022 I 1540)
 
@@ -3097,30 +3219,35 @@ vorgesehenen Frist vernichtet werden.
 [^F823428_02b_BJNR194600997BJNE011201126]: 
 
 ### Anlage 9 (zu § 41 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011402126)
 
 (Fundstelle: BGBl. I 2021, 188)
 
 
 
 ### Anlage 10 (zu § 41 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011702126)
 
 (Fundstelle: BGBl. I 2021, 189)
 
 
 
 ### Anlage 11 (zu § 3 Absatz 9 in Verbindung mit § 58 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011803126)
 
 (Fundstelle: BGBl. I 2021, 190 - 196)
 
 
 
 ### Anlage 12 (zu § 77 Absatz 3 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE011902126)
 
 (Fundstelle: BGBl. I 2021, 197 - 200)
 
 
 
 ### Anlage 13 (zu § 77 Absatz 3 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/svwo_1997/BJNR194600997.html#BJNR194600997BJNE012002126)
 
 (Fundstelle: BGBl. I 2021, 201 - 202)
 

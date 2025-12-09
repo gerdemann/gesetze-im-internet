@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000100000)
 
 (1) Dieses Gesetz regelt die Förderung der Deutschen Auslandsschulen
 im Rahmen der Auswärtigen Angelegenheiten. Bund und Länder arbeiten
@@ -34,6 +36,7 @@ ihrer Geltung unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000200000)
 
 (1) Deutsche Auslandsschule im Sinne dieses Gesetzes ist eine Schule,
 die im Ausland liegt und der aus einem erheblichen Bundesinteresse
@@ -66,6 +69,7 @@ Bund und dem Träger der Schule verliehen worden ist
 
 
 ### § 3 Anspruch auf die Verleihung des Status „Deutsche Auslandsschule“ und Kündigung des Verleihungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000300000)
 
 (1) Auf die Verleihung des Status „Deutsche Auslandsschule“ besteht
 kein Anspruch. Die Verleihung des Status „Deutsche Auslandsschule“
@@ -81,6 +85,7 @@ Status „Deutsche Auslandsschule“.
 
 
 ### § 4 Schulaufsicht über die Deutschen Auslandsschulen
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000400000)
 
 (1) Soweit das Recht des Sitzlandes es zulässt, beaufsichtigt der Bund
 die Deutschen Auslandsschulen. Grundlagen dafür sind der
@@ -108,12 +113,14 @@ ihrer Zuständigkeit.
 
 
 ### § 5 Ausschluss eines Beschulungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000500000)
 
 Ein Anspruch auf Beschulung an einer Deutschen Auslandsschule besteht
 nach diesem Gesetz nicht.
 
 
 ### § 6 Aufgabenwahrnehmung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000600000)
 
 Die Wahrnehmung der Aufgaben, die sich aus diesem Gesetz ergeben,
 obliegt dem Auswärtigen Amt. Fachaufgaben kann es einer nachgeordneten
@@ -121,9 +128,11 @@ Bundesbehörde übertragen.
 
 
 ## Abschnitt 2 - Förderung der Deutschen Auslandsschulen
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNG000200000)
 
 
 ### § 7 Förderanspruch, Förderantrag und Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000700000)
 
 (1) Deutsche Auslandsschulen, die gemäß § 8 förderfähig sind, haben
 einen Anspruch auf personelle und finanzielle Förderung nach Maßgabe
@@ -144,6 +153,7 @@ begründen, geführt wurden.
 
 
 ### § 8 Förderfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000800000)
 
 Eine Deutsche Auslandsschule ist förderfähig, wenn sie
 
@@ -183,6 +193,7 @@ Eine Deutsche Auslandsschule ist förderfähig, wenn sie
 
 
 ### § 9 Fördervertrag
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE000900000)
 
 (1) Durch Fördervertrag zwischen dem Bund und dem Träger der Deutschen
 Auslandsschule werden insbesondere vereinbart:
@@ -232,6 +243,7 @@ Weisungen nach § 4 Absatz 3 nicht umgesetzt werden.
 
 
 ### § 10 Erstattung der finanziellen Förderung
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001000000)
 
 Der Bund kann die vollständige oder anteilige Erstattung der
 finanziellen Förderung verlangen,
@@ -248,6 +260,7 @@ finanziellen Förderung verlangen,
 
 
 ### § 11 Personelle Förderung
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001100000)
 
 (1) Der Umfang der Förderung richtet sich nach der Anzahl der
 Lehrkräfte, die zur Anerkennung der laut Fördervertrag geförderten
@@ -270,6 +283,7 @@ Landesdienst festgelegt.
 
 
 ### § 12 Finanzielle Förderung
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001200000)
 
 (1) Die finanzielle Förderung berücksichtigt den Aufwand, der für die
 im Fördervertrag vereinbarten Abschlüsse und Klassenzüge erforderlich
@@ -302,6 +316,7 @@ Finanzierung des regulären Schulbetriebs notwendig sind.
 
 
 ### § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001300000)
 
 (1) Die gemäß § 11 Absatz 1 Satz 2 zu vereinbarende Anzahl der
 erforderlichen Lehrkräfte darf für einen Übergangszeitraum bis zum 31.
@@ -315,6 +330,7 @@ Verwaltungsvorschrift des Auswärtigen Amts.
 
 
 ### § 14 Weitere Förderung förderfähiger Deutscher Auslandsschulen
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001400000)
 
 Eine freiwillige Förderung zur Finanzierung von Ausgaben, die nicht
 bereits nach den §§ 11 und 12 gefördert werden, ist durch den Anspruch
@@ -322,6 +338,7 @@ auf Förderung nach diesem Gesetz nicht ausgeschlossen.
 
 
 ### § 15 Vermittlung zusätzlicher Lehrkräfte
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001500000)
 
 Neben den erforderlichen Lehrkräften können auf Antrag des
 Schulträgers weitere Lehrkräfte an eine Deutsche Auslandsschule
@@ -331,12 +348,14 @@ Vergütung dieser Lehrkräfte verpflichtet.
 
 
 ### § 16 Freiwillige Förderung
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001600000)
 
 Deutsche Auslandsschulen, die nicht förderfähig im Sinne von § 8 sind,
 kann der Bund nach Maßgabe des Zuwendungsrechts fördern.
 
 
 ### § 17 Förderung des Deutschen Sprachdiploms an anderen Schulen
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001700000)
 
 Zur Förderung der deutschen Sprache kann die Bundesregierung Schulen
 im Ausland, die keine Deutschen Auslandsschulen sind, aber das
@@ -345,6 +364,7 @@ Maßgabe des Zuwendungsrechts fördern.
 
 
 ### § 18 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001800000)
 
 Das Auswärtige Amt wird ermächtigt, die nach diesem Gesetz
 erforderlichen Verwaltungsvorschriften im Einvernehmen mit dem
@@ -356,6 +376,7 @@ Schulträger und Bund sowie die Übergangsbestimmungen (§ 13).
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aschulg/BJNR330600013.html#BJNR330600013BJNE001900000)
 
 Dieses Gesetz tritt am 1. Januar 2014 in Kraft.
 

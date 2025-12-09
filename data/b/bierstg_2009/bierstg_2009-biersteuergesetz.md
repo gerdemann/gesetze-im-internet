@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000100000)
 
 
 ### § 1 Steuergebiet, Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000201123)
 
 (1) Bier unterliegt im Steuergebiet der Biersteuer. Steuergebiet ist
 das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen
@@ -52,6 +54,7 @@ Durchführungsverordnung (EU) 2018/1602 (ABl. L 273 vom 31.10.2018, S.
 
 
 ### § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000305123)
 
 (1) Bier wird nach Grad Plato in Steuerklassen eingeteilt. Grad Plato
 ist der Stammwürzegehalt des Bieres in Gramm je 100 Gramm Bier, wie er
@@ -151,6 +154,7 @@ mit Sitz im Steuergebiet eine Bescheinigung entsprechend Absatz 6 Satz
 
 
 ### § 3 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000401123)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -261,9 +265,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000200000)
 
 
 ### § 4 Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000500000)
 
 Steuerlager sind Orte, an oder von denen Bier unter Steueraussetzung
 im Brauverfahren oder auf andere Weise hergestellt, bearbeitet oder
@@ -274,6 +280,7 @@ Besteuerungsgrundlage ändert.
 
 
 ### § 5 Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000603123)
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager
 betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag
@@ -295,6 +302,7 @@ ausreicht.
 
 
 ### § 6 Registrierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000700000)
 
 (1) Registrierte Empfänger sind Personen, die Bier unter
 Steueraussetzung
@@ -333,6 +341,7 @@ Sicherheit nicht mehr ausreicht.
 
 
 ### § 7 Registrierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000800000)
 
 (1) Registrierte Versender sind Personen, die Bier vom Ort der Einfuhr
 unter Steueraussetzung versenden dürfen.
@@ -352,6 +361,7 @@ Sicherheit nicht mehr ausreicht.
 
 
 ### § 8 Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE000903123)
 
 (1) Begünstigte, die Bier unter Steueraussetzung im Steuergebiet
 empfangen dürfen, sind vorbehaltlich des Absatzes 2
@@ -456,6 +466,7 @@ geeignete Dokumente zuzulassen.
 
 
 ### § 9 Beförderungen (Allgemeines)
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001002123)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
 ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur
@@ -503,6 +514,7 @@ Verfahren abweichend von Absatz 1 zu bestimmen.
 
 
 ### § 10 Beförderungen im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001102123)
 
 (1) Bier darf unter Steueraussetzung, auch über Drittländer oder
 Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder
@@ -549,6 +561,7 @@ und endet mit der Aufnahme oder Übernahme.
 
 
 ### § 11 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001203123)
 
 (1) Bier darf unter Steueraussetzung, auch über Drittländer oder
 Drittgebiete, befördert werden,
@@ -640,6 +653,7 @@ endet die Beförderung unter Steueraussetzung mit der Aufnahme oder
 
 
 ### § 12 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001302123)
 
 (1) Bier darf unter Steueraussetzung aus Steuerlagern im Steuergebiet
 oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet
@@ -696,6 +710,7 @@ entsprechend anzuwenden.
 
 
 ### § 13 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001401123)
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
 Steueraussetzung eintretender Fall, mit Ausnahme der in § 14 Absatz 3
@@ -755,6 +770,7 @@ Fälle entsprechend.
 
 
 ### § 14 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001502123)
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung des Bieres in
 den steuerrechtlich freien Verkehr, es sei denn, es schließt sich eine
@@ -861,6 +877,7 @@ gesamtschuldnerisch zur Erfüllung dieser Schuld verpflichtet.
 
 
 ### § 15 Steuererklärung, Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001602123)
 
 (1) Die Steuerschuldner nach § 14 Absatz 5 Satz 1 Nummer 1 erste
 Alternative und Nummer 3 haben über Bier, für das in einem Monat die
@@ -885,17 +902,21 @@ berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
 
 ## Abschnitt 3 - Einfuhr oder unrechtmäßiger Eingang von Bier aus Drittländern oder Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000301123)
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001701123)
 
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001801123)
 
 
 
 ### § 18 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE001903123)
 
 (1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der
 Überführung des Bieres in den steuerrechtlich freien Verkehr durch die
@@ -956,9 +977,11 @@ ist.
 
 
 ## Abschnitt 4 - Beförderung von Bier des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000401123)
 
 
 ### § 19 Erwerb durch Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002000000)
 
 (1) Bier, das eine Privatperson für ihren Eigenbedarf in anderen
 Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst
@@ -984,6 +1007,7 @@ bestimmt ist, sind die nachstehenden Kriterien zu berücksichtigen:
 
 
 ### § 20 Lieferung zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002103123)
 
 (1) Im Sinne dieses Abschnitts wird Bier zu gewerblichen Zwecken
 geliefert, wenn es aus dem steuerrechtlich freien Verkehr eines
@@ -1009,6 +1033,7 @@ Steueraufkommens Vorschriften zu Absatz 1 zu erlassen.
 
 
 ### § 20a Zertifizierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003400123)
 
 (1) Zertifizierte Empfänger sind Personen, die Bier, das aus dem
 steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu
@@ -1093,6 +1118,7 @@ bis 5 entsprechend.
 
 
 ### § 20b Zertifizierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003500123)
 
 (1) Zertifizierte Versender sind Personen, die Bier des
 steuerrechtlich freien Verkehrs zu gewerblichen Zwecken aus ihrem
@@ -1156,6 +1182,7 @@ entsprechender Anzeige als zertifizierte Versender zugelassen.
 
 
 ### § 20c Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003600123)
 
 (1) Bier des steuerrechtlich freien Verkehrs gilt, soweit in diesem
 Gesetz oder in den dazu ergangenen Rechtsverordnungen keine Ausnahmen
@@ -1205,6 +1232,7 @@ zugelassenen Ort im Steuergebiet.
 
 
 ### § 21 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002202123)
 
 (1) Versandhandel betreibt, wer Bier in Ausübung einer selbständigen
 wirtschaftlichen Tätigkeit aus dem steuerrechtlich freien Verkehr des
@@ -1251,6 +1279,7 @@ abweichendes vereinfachtes Verfahren zulassen.
 
 
 ### § 22 Unregelmäßigkeiten während der Beförderung von Bier des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002301123)
 
 (1) Als Unregelmäßigkeit gilt, mit Ausnahme der in § 22a Absatz 2 Satz
 1 Nummer 2 geregelten Fälle, ein während der Beförderung von Bier des
@@ -1282,6 +1311,7 @@ Steuergebiet und zum Zeitpunkt der Feststellung eingetreten.
 
 
 ### § 22a Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003700123)
 
 (1) Die Steuer entsteht vorbehaltlich des Absatzes 2
 
@@ -1363,6 +1393,7 @@ Für Satz 1 Nummer 2 gilt § 14 Absatz 3 entsprechend.
 
 
 ### § 22b Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003800123)
 
 (1) Die Steuerschuldner nach § 22a Absatz 3 Satz 1 Nummer 1 und 2
 haben bei Empfang im Einzelfall unverzüglich eine Steueranmeldung
@@ -1390,9 +1421,11 @@ sofort fällig.
 
 
 ## Abschnitt 5 - Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000500000)
 
 
 ### § 23 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002403123)
 
 (1) Bier ist von der Steuer befreit, wenn es gewerblich verwendet wird
 
@@ -1502,6 +1535,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 23a Verwender
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003300140)
 
 (1) Wer Bier in den Fällen des § 23 Absatz 1 steuerfrei verwenden
 will, bedarf einer Erlaubnis. Sie wird auf Antrag unter
@@ -1558,6 +1592,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 24 Steuerentlastung im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002502123)
 
 (1) Für nachweislich versteuertes Bier, das in das Steuerlager wieder
 zurückgenommen worden ist, wird die Steuer auf Antrag erlassen oder
@@ -1614,6 +1649,7 @@ vorzuschreiben.
 
 
 ### § 25 Steuerentlastung bei der Beförderung von Bier des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002602123)
 
 (1) Nachweislich versteuertes Bier, das nach § 20c oder § 21 in einen
 anderen Mitgliedstaat befördert worden ist, wird auf Antrag von der
@@ -1680,9 +1716,11 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 ## Abschnitt 6 - Steueraufsicht, Geschäftsstatistik, Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000600000)
 
 
 ### § 26 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002701123)
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegt
 die Tätigkeit eines Steuervertreters nach § 21 Absatz 2 Satz 6 im
@@ -1713,6 +1751,7 @@ Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
 
 
 ### § 27 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002800000)
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
 stellen die Hauptzollämter für statistische Zwecke Erhebungen an und
@@ -1724,6 +1763,7 @@ allgemeine Zwecke übermitteln.
 
 
 ### § 28 Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE002904123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1883,6 +1923,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 29 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003901123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Höchstmengen für den
@@ -2039,9 +2080,11 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNG000700000)
 
 
 ### § 30 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003101123)
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -2061,6 +2104,7 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ### § 31 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bierstg_2009/BJNR190800009.html#BJNR190800009BJNE003201123)
 
 (1) Für Beförderungen von Bier des steuerrechtlich freien Verkehrs,
 die vor dem 13. Februar 2023 begonnen worden sind, gilt dieses Gesetz

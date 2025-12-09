@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ostsfischzprok/BJNR308670978.html#BJNR308670978BJNE000100377)
 
 In der Ostsee sind in den letzten Monaten tiefgreifende Veränderungen
 in der bestehenden Fischereiordnung eingetreten. Mehrere

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000100308)
 
 Auf Grund des § 3 Abs. 5 des Gesetzes über das Verwaltungsverfahren
 der Kriegsopferversorgung in der Fassung der Bekanntmachung vom 6. Mai
@@ -27,6 +28,7 @@ Sozialordnung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000200308)
 
 (1) Die Versorgung der Opfer des Krieges, die ihren Wohnsitz oder
 gewöhnlichen Aufenthalt im Ausland haben, wird durchgeführt für
@@ -99,6 +101,7 @@ gewöhnlichen Aufenthalt nicht in Spanien hat.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000300308)
 
 Für die Versorgung mit Hilfsmitteln und die Erbringung von
 Ersatzleistungen sind die orthopädischen Versorgungsstellen zuständig,
@@ -109,6 +112,7 @@ Orthopädische Versorgungsstelle beim Versorgungsamt Stuttgart.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000400308)
 
 Für Versorgungsberechtigte, die im Ausland keinen gewöhnlichen
 Aufenthalt oder einen mehrfachen Wohnsitz in verschiedenen Staaten
@@ -120,6 +124,7 @@ Versorgung eingegangen ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000500308)
 
 (1) Haben die Hinterbliebenen oder einzelne von ihnen ihren Wohnsitz
 oder gewöhnlichen Aufenthalt im Ausland, so findet für die
@@ -137,6 +142,7 @@ dessen Bezirk sich die Waise aufhält.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000600308)
 
 Hat eine Hinterbliebene ihren Wohnsitz zum Zwecke der Eheschließung im
 Ausland begründet, so wird für die Gewährung der Abfindung nach § 44
@@ -146,17 +152,20 @@ in den gleichen Staat verlegt worden ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000700308)
 
 Für Personen, deren Aufenthalt im Ausland nur als vorübergehend
 anzusehen ist, bleibt das bisherige Versorgungsamt zuständig.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000800308)
 
 Diese Verordnung tritt am 1. Mai 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv/BJNR012040991.html#BJNR012040991BJNE000900308)
 
 Der Bundesrat hat zugestimmt.
 

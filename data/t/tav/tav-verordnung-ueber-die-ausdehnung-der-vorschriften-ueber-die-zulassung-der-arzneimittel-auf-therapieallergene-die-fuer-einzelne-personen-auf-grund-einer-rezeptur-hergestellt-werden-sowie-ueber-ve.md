@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000100000)
 
 Auf Grund des § 35 Abs. 1 Nr. 2 und Abs. 2 sowie des § 80 Satz 1 Nr. 1
 und 2 des Arzneimittelgesetzes in der Fassung der Bekanntmachung des
@@ -28,6 +29,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Zulassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000200000)
 
 Die Vorschriften des Arzneimittelgesetzes über die Zulassung der
 Arzneimittel werden auf Therapieallergene ausgedehnt, die für einzelne
@@ -37,6 +39,7 @@ Allergene enthalten.
 
 
 ## § 2 Staatliche Chargenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000300000)
 
 § 32 des Arzneimittelgesetzes wird auf Therapieallergene nach § 1 mit
 der Maßgabe angewandt, dass Gegenstand der staatlichen Chargenprüfung
@@ -45,6 +48,7 @@ bevor daraus die Therapieallergene abgefüllt oder gemischt werden.
 
 
 ## § 3 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000400000)
 
 (1) Therapieallergene nach § 1, die bei Inkrafttreten dieser
 Verordnung hergestellt werden, dürfen bis zur Entscheidung über die
@@ -87,17 +91,20 @@ abgeholfen, ist die Zulassung zu versagen.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 
 Liste der Therapieallergene
 
 ## Anhang (Erläuterungen in Klammern)
+[Direktlink](https://www.gesetze-im-internet.de/tav/BJNR217700008.html#BJNR217700008BJNE000700000)
 
 ( Fundstelle: BGBl. I 2008, 2178)
 Spezies aus der Familie Poaceae außer Poa mays (Süßgräser außer Mais)

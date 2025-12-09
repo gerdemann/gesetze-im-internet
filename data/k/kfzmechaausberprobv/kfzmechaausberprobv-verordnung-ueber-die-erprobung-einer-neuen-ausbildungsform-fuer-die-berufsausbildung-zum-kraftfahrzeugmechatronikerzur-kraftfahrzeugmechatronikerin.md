@@ -20,6 +20,7 @@ Stand: Die V tritt mit Ausnahme von § 3 Abs. 2 am 31.7.2007 außer Kraft
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausberprobv/BJNR137500003.html#BJNR137500003BJNE000100000)
 
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112) und des § 27 Abs. 2 der Handwerksordnung in der
@@ -35,6 +36,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausberprobv/BJNR137500003.html#BJNR137500003BJNE000401000)
 
 (1) (weggefallen)
 
@@ -44,6 +46,7 @@ anzuwenden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausberprobv/BJNR137500003.html#BJNR137500003BJNE000500000)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft und mit Ausnahme von
 § 3 Abs. 2 am 31. Juli 2007 außer Kraft.

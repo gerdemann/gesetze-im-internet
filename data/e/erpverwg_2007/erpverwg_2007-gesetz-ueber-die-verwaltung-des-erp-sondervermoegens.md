@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Verwalter des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000101377)
 
 Das Bundesministerium für Wirtschaft und Energie verwaltet die in
 Artikel III des Gesetzes vom 31. Januar 1950 betreffend das Abkommen
@@ -32,6 +33,7 @@ Sondervermögen".
 
 
 ## § 2 Zweckbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000200000)
 
 Das Sondervermögen dient der Förderung der deutschen Wirtschaft nach
 Maßgabe der Bestimmungen des Abkommens über Wirtschaftliche
@@ -40,6 +42,7 @@ Bundesrepublik Deutschland vom 15. Dezember 1949 (BGBl. 1950 S. 10).
 
 
 ## § 3 Rechtsgeschäftlicher Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000300000)
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
@@ -47,6 +50,7 @@ Der allgemeine Gerichtsstand des Sondervermögens ist Berlin.
 
 
 ## § 4 Getrennte Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000400000)
 
 (1) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen
 Rechten und Verbindlichkeiten getrennt zu halten.
@@ -56,12 +60,14 @@ dieses haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
 
 ## § 5 Substanzerhaltungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000500000)
 
 Das Sondervermögen soll in seinem Bestand erhalten bleiben. Es ist
 nach wirtschaftlichen Grundsätzen zu verwalten.
 
 
 ## § 6 Kapitalanlagen in der Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000601377)
 
 (1) Teile des Sondervermögens werden als Eigenkapital in Form einer
 Kapitalrücklage (Förderrücklage) in die Kreditanstalt für Wiederaufbau
@@ -110,6 +116,7 @@ stehen unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.
 
 
 ## § 7 Fördertätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000700000)
 
 (1) Im Rahmen der Zweckbestimmung können Fördermaßnahmen durchgeführt
 werden, insbesondere Darlehen gewährt und Zinslasten aus der
@@ -127,6 +134,7 @@ Sondervermögen nicht aufnehmen.
 
 
 ## § 8 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000801377)
 
 (1) Über die für das jeweils folgende Rechnungsjahr (1. Januar bis 31.
 Dezember eines Jahres) geplante Wirtschaftsförderung des
@@ -158,6 +166,7 @@ aufgekommenen Einnahmen nicht verwendet sind.
 
 
 ## § 9 Durchführung der Wirtschaftsförderung
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE000901377)
 
 (1) Der Wirtschaftsplan wird durch das Bundesministerium für
 Wirtschaft und Energie und die Kreditanstalt für Wiederaufbau nach den
@@ -181,12 +190,14 @@ des Wirtschaftsplans berichten.
 
 
 ## § 10 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE001000000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt das
 Sondervermögen, soweit sie nicht vom Bund getragen werden.
 
 
 ## § 11 Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE001101377)
 
 (1) Das Bundesministerium für Wirtschaft und Energie stellt am Schluss
 eines jeden Rechnungsjahres die Jahresrechnung für das Sondervermögen
@@ -201,6 +212,7 @@ jährlichen Gesetzes über den Wirtschaftsplan zu veröffentlichen.
 
 
 ## § 12 Prüfungsrechte des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/erpverwg_2007/BJNR116010007.html#BJNR116010007BJNE001200000)
 
 (1) Das Sondervermögen kann unmittelbar oder durch Beauftragte von
 allen natürlichen oder juristischen Personen, die durch die

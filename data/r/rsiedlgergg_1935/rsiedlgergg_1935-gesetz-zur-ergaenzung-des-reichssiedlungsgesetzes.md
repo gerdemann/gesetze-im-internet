@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000100319)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000200319)
 
 (1) Wird ein mit einer Hypothek belastetes Grundstück im Rahmen eines
 Siedlungsverfahrens nach dem Reichssiedlungsgesetz von einem
@@ -57,6 +59,7 @@ Verteilung nicht gefährdet wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000300319)
 
 (1) In den Fällen des § 1 sind die Abschreibung eines Grundstücksteils
 und die Eintragung der Lastenverteilung im Grundbuch schon dann
@@ -84,6 +87,7 @@ Abweichungen mehr als 2 vom Hundert der Fläche betragen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000400319)
 
 (1) Hypothekenbanken im Sinne des § 1 des Hypothekenbankgesetzes und
 öffentlich-rechtliche Kreditanstalten im Sinne des § 1 des Gesetzes
@@ -124,6 +128,7 @@ Kreditanstalten vom 21. Dezember 1927.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000500319)
 
 Wird ein zu Siedlungszwecken erworbenes Grundstück oder ein zu
 Siedlungszwecken erworbener Grundstücksteil in einzelne
@@ -132,6 +137,7 @@ bis 3 sinngemäß.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000600319)
 
 Die Vorschriften der §§ 1 bis 4 gelten auch in den Fällen, in denen
 ein Grundstück oder Grundstücksteil vor dem Inkrafttreten dieses
@@ -140,6 +146,7 @@ Reichssiedlungsgesetz erworben oder aufgeteilt ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000700319)
 
 (1) Die Vorschriften der §§ 1 bis 5 gelten sinngemäß für die Fälle, in
 denen ein Vorkaufsrecht nach dem Reichssiedlungsgesetz ausgeübt ist
@@ -155,6 +162,7 @@ im ganzen einem Siedlungsbewerber überträgt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000800319)
 
 (1) Erwirbt ein Siedlungsunternehmen ein verpachtetes Grundstück, so
 kann es das Pachtverhältnis unter Einhaltung einer Kündigungsfrist von
@@ -197,6 +205,7 @@ Siedlungsbehörde festgesetzten Zeitpunkt geltend machen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE000900319)
 
 Die Gebühren-, ... und Steuerfreiheit nach § 29 des
 Reichssiedlungsgesetzes gilt auch für die Fälle, in denen ein
@@ -205,6 +214,7 @@ erworben wird.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgergg_1935/BJNR000010935.html#BJNR000010935BJNE001000319)
 
 (1) Der
 Reichsminister für Ernährung und Landwirtschaft bestimmt, welche

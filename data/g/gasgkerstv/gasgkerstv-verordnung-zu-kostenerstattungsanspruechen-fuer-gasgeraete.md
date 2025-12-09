@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gasgkerstv/BJNR193600017.html#BJNR193600017BJNE000100000)
 
 Auf Grund des § 19a Absatz 3 Satz 6 des Energiewirtschaftsgesetzes,
 der durch Artikel 3 Nummer 2 Buchstabe c des Gesetzes vom 14. Dezember
@@ -26,6 +27,7 @@ Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Kostenerstattungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/gasgkerstv/BJNR193600017.html#BJNR193600017BJNE000200000)
 
 (1) Hat der Eigentümer eines technisch nicht anpassbaren Gasgeräts zum
 Zweck der Beheizung von Räumen gegen den Netzbetreiber einen
@@ -68,6 +70,7 @@ Typschilds des Gasgeräts zu bestimmen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gasgkerstv/BJNR193600017.html#BJNR193600017BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2017 in Kraft.
 

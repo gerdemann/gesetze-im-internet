@@ -28,6 +28,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000100000)
 
 Auf Grund des § 4, auch in Verbindung mit § 15 Absatz 6 Satz 1, des
 Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54, 136), von denen § 4
@@ -37,6 +38,7 @@ Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000202119)
 
 Diese Verordnung gilt für
 
@@ -94,6 +96,7 @@ bei der Übernahme der in Satz 1 Nummer 1 genannten Stoffe,
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000300000)
 
 Im Sinne dieser Verordnung sind
 
@@ -117,6 +120,7 @@ unmittelbar durch Dritte auf Flächen des Empfängers aufgebracht wird.
 
 
 ## § 3 Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000400000)
 
 (1) Abgeber, Beförderer sowie Empfänger haben spätestens einen Monat
 nach Abschluss des Inverkehrbringens, des Beförderns oder der
@@ -161,6 +165,7 @@ auf Verlangen vorzulegen.
 
 
 ## § 4 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000501124)
 
 (1) Werden Stoffe nach § 1 Satz 1 Nummer 1 in ein Land verbracht, so
 hat der Empfänger dieser Stoffe dies bis zum 31. März für das jeweils
@@ -183,6 +188,7 @@ die Angaben nach Satz 2 übermittelt.
 
 
 ## § 5 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000600000)
 
 Wer Stoffe nach § 1 Satz 1 Nummer 1 zum ersten Mal gewerbsmäßig in den
 Verkehr bringt, hat dies der für seinen Sitz zuständigen Behörde einen
@@ -195,6 +201,7 @@ abgeben.
 
 
 ## § 6 Ergänzende Landesregelungen
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000700000)
 
 Den Landesregierungen wird die Befugnis übertragen, durch
 Rechtsverordnung weitergehende Regelungen über Aufzeichnungs-, Melde-,
@@ -206,6 +213,7 @@ düngerechtlichen Vorschriften erforderlich ist.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000802124)
 
 Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe d des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -234,11 +242,13 @@ Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE000900000)
 
 Diese Verordnung tritt am 1. September 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wd_ngv/BJNR106200010.html#BJNR106200010BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

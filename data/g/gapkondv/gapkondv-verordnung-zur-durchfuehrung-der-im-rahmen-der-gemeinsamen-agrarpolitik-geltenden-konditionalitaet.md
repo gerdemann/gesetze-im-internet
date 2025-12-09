@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000100000)
 
 Es verordnen auf Grund des
 
@@ -74,9 +75,11 @@ Es verordnen auf Grund des
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000300000)
 
 Diese Verordnung dient der Durchführung des GAP-Konditionalitäten-
 Gesetzes und der in § 1 des GAP-Konditionalitäten-Gesetzes genannten
@@ -84,12 +87,15 @@ Unionsregelung.
 
 
 ## Kapitel 2 - GLÖZ-Standards
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000200000)
 
 
 ### Abschnitt 1 - Erhaltung von Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000300000)
 
 
 #### § 2 Fälle, in denen keine Genehmigung nach § 5 des GAP-Konditionalitäten-Gesetzes erforderlich ist
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000401119)
 
 (1) Die Genehmigung nach § 5 des GAP-Konditionalitäten-Gesetzes ist
 für eine förderfähige Fläche nicht erforderlich, die infolge der
@@ -127,6 +133,7 @@ Fläche natürlich ausgebreitet hat, die
 
 
 #### § 3 Antrag auf Genehmigung der Umwandlung von Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000502119)
 
 (1) Die Genehmigung für die Umwandlung von Dauergrünland nach § 5 des
 GAP-Konditionalitäten-Gesetzes ist schriftlich oder elektronisch bei
@@ -191,6 +198,7 @@ der zuständigen Behörde zu beantragen.
 
 
 #### § 4 Anlage von Ersatzflächen bei genehmigter Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000603119)
 
 (1) Eine Ersatzfläche ist fünf aufeinander folgende Jahre als
 Dauergrünland zu nutzen. Satz 1 gilt auch für Flächen, die vor dem 1.
@@ -247,6 +255,7 @@ Formulare bereithält, sind diese zu verwenden.
 
 
 #### § 5 Frist für die Anlage von Ersatzflächen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000700000)
 
 Die Ersatzfläche ist bis zu dem auf die Genehmigung folgenden
 Schlusstermin für den Sammelantrag nach § 6 des GAP-Integriertes
@@ -254,6 +263,7 @@ Verwaltungs- und Kontrollsystem-Gesetzes anzulegen.
 
 
 #### § 6 Geltungsdauer der Genehmigungen nach § 5 des GAP-Konditionalitäten-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000800000)
 
 (1) Nicht in Anspruch genommene Genehmigungen nach § 5 des GAP-
 Konditionalitäten-Gesetzes erlöschen mit Ablauf
@@ -276,6 +286,7 @@ die Genehmigung.
 
 
 #### § 7 Rückumwandlung bei einer Umwandlung entgegen § 5 des GAP-Konditionalitäten-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE000902119)
 
 (1) Sofern Dauergrünland ohne Genehmigung nach § 5 Absatz 1 Satz 2 des
 GAP-Konditionalitäten-Gesetzes umgewandelt wurde und kein Fall der §§
@@ -302,6 +313,7 @@ angemessene Frist für die Rückumwandlung zu setzen. § 4 Absatz 1 Satz
 
 
 #### § 8 Nichtanwendbarkeit von § 6 des GAP- Konditionalitäten-Gesetzes in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001001119)
 
 § 6 des GAP-Konditionalitäten-Gesetzes ist nicht für Dauergrünland
 anzuwenden, das
@@ -330,6 +342,7 @@ anzuwenden, das
 
 
 #### § 9 Anzeige der Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001100000)
 
 Die Umwandlung von Dauergrünland nach § 6 des GAP-Konditionalitäten-
 Gesetzes ist der zuständigen Behörde im nächsten Sammelantrag nach § 5
@@ -338,6 +351,7 @@ anzuzeigen.
 
 
 #### § 10 Umwandlung von Dauergrünland nach § 7 des GAP-Konditionalitäten-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001202119)
 
 (1) § 7 des GAP-Konditionalitäten-Gesetzes ist nicht anzuwenden bei
 Dauergrünland, das
@@ -373,9 +387,11 @@ Dauergrünland genutzt werden müssen.
 
 
 ### Abschnitt 2 - Mindestschutz von Feuchtgebieten und Mooren
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000400000)
 
 
 #### § 11 Gebietskulisse
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001302119)
 
 (1) Die Landesregierungen haben durch Rechtsverordnung nach § 26
 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des GAP-
@@ -435,6 +451,7 @@ des GAP-Konditionalitäten-Gesetzes festlegen:
 
 
 #### § 12 Anbau in Paludikulturverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001402119)
 
 (1) Innerhalb der Gebietskulisse nach § 11 sind das Umwandeln oder das
 Pflügen von Dauergrünland zulässig, sofern eine standortangepasste
@@ -463,6 +480,7 @@ nasse Nutzung im Sinne einer Paludikultur etabliert wird.
 
 
 #### § 12a Neuansaat, Neuanpflanzung und Rodung von Dauerkulturen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE005000119)
 
 Sofern innerhalb der Gebietskulisse nach § 11 die Neuansaat,
 Neuanpflanzung oder die Rodung von Dauerkulturen erforderlich wird,
@@ -474,6 +492,7 @@ durchzuführen.
 
 
 #### § 13 Überprüfung der Genehmigung der erstmaligen oder vertieften Entwässerung landwirtschaftlicher Flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001502119)
 
 (1) Wer eine landwirtschaftliche Fläche in einer nach § 11
 festgelegten Gebietskulisse erstmalig durch eine Drainage oder einen
@@ -506,14 +525,17 @@ Absatz 1 oder Absatz 2 den zur Kontrolle befugten Personen vorzulegen.
 
 
 ### Abschnitt 3 - Weitere GLÖZ-Standards
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000500000)
 
 
 #### § 14 Verbot des Abbrennens von Stoppelfeldern
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001600000)
 
 Stoppelfelder dürfen nicht abgebrannt werden.
 
 
 #### § 15 Schaffung von Pufferstreifen entlang von Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001702119)
 
 (1) Pflanzenschutzmittel, Biozid-Produkte und Düngemittel dürfen auf
 landwirtschaftlichen Flächen, die an Gewässer angrenzen, innerhalb
@@ -536,6 +558,7 @@ entsprechend begründet ist.
 
 
 #### § 16 Bodenbearbeitung zur Begrenzung von Erosion
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001802119)
 
 (1) Zur Begrenzung von Erosion sind Maßnahmen vorzusehen, die sich an
 den aus der Einteilung landwirtschaftlicher Flächen nach dem Grad der
@@ -649,6 +672,7 @@ dies erforderlich ist, um
 
 
 #### § 17 Mindestanforderungen an die Bodenbedeckung in den sensibelsten Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE001902119)
 
 (1) Der Begünstigte hat auf mindestens 80 Prozent des Ackerlandes
 seines Betriebes eine Mindestbodenbedeckung sicherzustellen. Die
@@ -759,6 +783,7 @@ Absatz 4 Satz 3, auch im Fall des Absatzes 5, keine Anwendung.
 
 
 #### § 18 Fruchtwechsel auf Ackerland
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE002003119)
 
 (1) Der Begünstigte ist verpflichtet, auf jeder zum Ackerland seines
 Betriebes gehörenden Fläche innerhalb eines Zeitraumes von drei
@@ -882,9 +907,11 @@ als erfüllt, soweit
 
 
 ### Abschnitt 4 - Landschaftselemente
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000601119)
 
 
 #### § 19 Keine Beseitigung von Landschaftselementen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE002501119)
 
 (1) Folgende Landschaftselemente dürfen nicht beseitigt werden:
 
@@ -1002,9 +1029,11 @@ insbesondere anfallendes Schnittgut anschließend verwertet wird.
 
 
 ### Abschnitt 5 - Umweltsensibles Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000701119)
 
 
 #### § 20 Anzeigepflicht für Maßnahmen zur Grasnarbenerneuerung bei umweltsensiblem Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE002601119)
 
 (1) Der Begünstigte hat der zuständigen Behörde eine Maßnahme nach § 7
 Absatz 5 Satz 2 der GAP-Direktzahlungen-Verordnung mindestens 15
@@ -1030,6 +1059,7 @@ durchgeführt werden.
 
 
 #### § 21 Rückumwandlung von umweltsensiblen Dauergrünlandflächen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003002119)
 
 Sofern umweltsensibles Dauergrünland entgegen § 12 Absatz 3 des GAP-
 Konditionalitäten-Gesetzes umgewandelt oder gepflügt wurde, hat die
@@ -1043,9 +1073,11 @@ Absatz 1 Satz 1 gilt entsprechend.
 
 
 ## Kapitel 3 - Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG001300119)
 
 
 ### § 22 Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE005100119)
 
 Vorschriften der sozialen Konditionalität im Sinne von § 3 Absatz 1
 Nummer 3 GAP-Konditionalitäten-Gesetz sind die in Anlage 7 genannten
@@ -1053,12 +1085,15 @@ Regelungen.
 
 
 ## Kapitel 4 - Kontrollen, Mitteilungen und Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000801119)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG000901119)
 
 
 #### § 23 Anzuwendende Vorschriften und Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003101119)
 
 (1) Die zuständigen Behörden führen die Kontrollen und die
 Verwaltungssanktionen bezüglich der GAB und GLÖZ-Standards nach
@@ -1093,9 +1128,11 @@ zuständig.
 
 
 ### Abschnitt 2 - Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG001001119)
 
 
 #### § 24 Systematische Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003201119)
 
 (1) Der Zeitpunkt der Vor-Ort-Kontrolle nach § 16 Absatz 1 des GAP-
 Konditionalitäten-Gesetzes (systematische Vor-Ort-Kontrolle) ist so
@@ -1131,6 +1168,7 @@ ausgeweitet.
 
 
 #### § 25 Mindestkontrollsatz
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003301119)
 
 (1) Der Mindestkontrollsatz für systematische Vor-Ort-Kontrollen kann
 auf der Ebene jeder Kontrollbehörde oder auf der Ebene der einzelnen
@@ -1146,6 +1184,7 @@ den Risikoanteil an der Mindestkontrollquote im Folgejahr erhöhen.
 
 
 #### § 26 Auswahl der Kontrollstichprobe
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003401119)
 
 (1) Die Kontrollstichprobe nach § 16 Absatz 1 des GAP-
 Konditionalitäten-Gesetzes wird zu einem Anteil von zwischen 20 und 25
@@ -1175,6 +1214,7 @@ berücksichtigenden Kriterien fest.
 
 
 #### § 27 Verwaltungskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003501119)
 
 (1) Neben den systematischen Vor-Ort-Kontrollen führen die
 Kontrollbehörden bei allen Begünstigten Verwaltungskontrollen
@@ -1203,6 +1243,7 @@ Kontrollbehörden insbesondere, ob
 
 
 #### § 28 Anlassbezogene Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003601119)
 
 Zusätzlich zu systematischen Vor-Ort-Kontrollen und
 Verwaltungskontrollen führen die Kontrollbehörden anlassbezogene Vor-
@@ -1214,6 +1255,7 @@ hat.
 
 
 #### § 29 Kontrollbericht
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003701119)
 
 (1) Unbeschadet besonderer Regelungen in den für die GAB und GLÖZ-
 Standards geltenden Rechtsvorschriften muss der Kontrollbericht nach §
@@ -1237,9 +1279,11 @@ zu machen.
 
 
 ### Abschnitt 3 - Mitteilungen über Verstöße gegen Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG001400119)
 
 
 #### § 30 Inhalt und Zeitpunkt der Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE005201119)
 
 (1) In der Mitteilung nach § 13 Absatz 1 des GAP-Konditionalitäten-
 Gesetzes sind anzugeben:
@@ -1284,9 +1328,11 @@ mit.
 
 
 ### Abschnitt 4 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG001101119)
 
 
 #### § 31 Sanktionierung bei Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003801119)
 
 § 22 des GAP-Konditionalitäten-Gesetzes gilt entsprechend, wenn
 
@@ -1302,6 +1348,7 @@ mit.
 
 
 #### § 32 Ausnahmen von Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE003901119)
 
 Kommt der Begünstigte seinen Verpflichtungen aufgrund eines wirksamen
 Verwaltungsaktes einer Behörde nicht nach, wird keine
@@ -1309,6 +1356,7 @@ Verwaltungssanktion angewandt.
 
 
 #### § 33 Frühwarnsystem bei geringfügigen Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004001119)
 
 Hat ein Verstoß gegen die GAB oder GLÖZ-Standards keine oder nur
 unerhebliche Folgen für die Erreichung des Ziels der jeweiligen GAB
@@ -1319,6 +1367,7 @@ betrieblichen Beratung anordnen.
 
 
 #### § 34 Abweichungen vom Regelsatz für Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004101119)
 
 (1) Soweit das Flächenmonitoringsystem zur Feststellung von Verstößen
 gegen bestimmte GAB oder GLÖZ-Standards eingesetzt wird, kann die
@@ -1350,6 +1399,7 @@ Vorschriften der sozialen Konditionalität.
 
 
 #### § 34a Kumulation von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE005500119)
 
 (1) Sind in demselben Kalenderjahr mehrere festgestellte nicht
 wiederkehrende, nicht vorsätzliche Verstöße gegen Vorschriften der
@@ -1376,20 +1426,24 @@ Verordnung (EU) 2022/1172.
 
 
 ## Kapitel 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNG001201119)
 
 
 ### § 35 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004201119)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004301119)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 11)
 
 ### Anlage 1 Klassenzeichen für Bodenarten für Feuchtgebiete und Moore
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004400000)
 
 (Fundstelle: BGBl. I 2022, 2256)
 
@@ -1415,6 +1469,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 11)
 
 ### Anlage 2 Bodentypen und Legendeneinheiten nach aktueller deutscher Bodensystematik und daran angelehnten Kartenwerken
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004500000)
 
 (Fundstelle: BGBl. I 2022, 2257)
 
@@ -1446,6 +1501,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 16)
 
 ### Anlage 3 Bestimmung der potenziellen Erosionsgefährdung durch Wasser
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004602119)
 
 (Fundstelle: BGBl. I 2022, 2258;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1495,6 +1551,7 @@ Wassererosionsgefährdungsklasse
 (zu § 16)
 
 ### Anlage 4 Bestimmung der potenziellen Erosionsgefährdung durch Wind
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004701119)
 
 (Fundstelle: BGBl. I 2022, 2259;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1541,6 +1598,7 @@ zu ermitteln.
 (zu den §§ 16 und 17)
 
 ### Anlage 5 Frühe Sommerkulturen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004802119)
 
 (Fundstelle: BGBl. I 2022, 2276;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1567,6 +1625,7 @@ frühesten möglichen Zeitpunkt erfolgt:
 (zu § 17)
 
 ### Anlage 6 Klassenzeichen für Bodenarten für schwere Böden
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE004900130)
 
 (Fundstelle: BGBl. I 2022, 2276)
 
@@ -1586,6 +1645,7 @@ frühesten möglichen Zeitpunkt erfolgt:
 (zu § 22)
 
 ### Anlage 7 Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondv/BJNR224400022.html#BJNR224400022BJNE005301119)
 
 (Fundstelle: BGBl. 2024 I Nr. 417, S. 8;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000000000)
 
 Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 1 in Verbindung mit § 2a
 Abs. 5 Satz 1 Nr. 1 und Satz 2 des Adoptionsvermittlungsgesetzes in
@@ -30,10 +31,12 @@ Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000101377)
 
 Diese Verordnung regelt die Meldungen der nach dem
 Adoptionsvermittlungsgesetz zur internationalen Adoptionsvermittlung
@@ -55,10 +58,12 @@ alle Vermittlungsfälle, in denen
 
 
 ## Abschnitt 2 - Adoptionsvermittlungsverfahren im Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNG000200000)
 
 
 
 ### § 2 Anlässe für Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000200000)
 
 (1) Der Bundeszentralstelle sind zu melden:
 
@@ -102,6 +107,7 @@ Meldung, wenn
 
 
 ### § 3 Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000300000)
 
 Meldepflichtig ist die nach dem Adoptionsvermittlungsgesetz zur
 internationalen Adoptionsvermittlung befugte Stelle, die zum Zeitpunkt
@@ -112,6 +118,7 @@ sind der Bundeszentralstelle unverzüglich mitzuteilen.
 
 
 ### § 4 Inhalt der Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000401360)
 
 (1) Die Meldung nach § 2 Abs. 1 Nr. 1 muss enthalten:
 
@@ -296,10 +303,12 @@ Absatz 2 hinaus enthalten:
 
 
 ## Abschnitt 3 - Adoptionsvermittlungsverfahren im Verhältnis zu sonstigen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNG000300000)
 
 
 
 ### § 5 Einmalige Meldung
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000501360)
 
 Betrifft das Vermittlungsverfahren sonstige Staaten, sind der
 Bundeszentralstelle mit Abschluss des Vermittlungsverfahrens in
@@ -309,10 +318,12 @@ und Abs. 4 Nr. 1 Buchstabe b bis e in einer Meldung zusammengefasst zu
 
 
 ## Abschnitt 4 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNG000400000)
 
 
 
 ### § 6 Form und Frist der Meldungen der Daten
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000600000)
 
 (1) Die Meldungen sollen im Wege der Datenfernübertragung übermittelt
 werden und dem von der Bundeszentralstelle festgelegten Muster
@@ -329,10 +340,12 @@ Frist können mehrere Meldungen zusammengefasst übermittelt werden.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNG000500000)
 
 
 
 ### § 7 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000700000)
 
 Für internationale Adoptionsvermittlungsverfahren im Verhältnis zu
 Vertragsstaaten des Adoptionsübereinkommens, die zum Zeitpunkt des
@@ -343,11 +356,13 @@ zusammengefasst übermittelt werden können.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000800000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ausladmv/BJNR439400002.html#BJNR439400002BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

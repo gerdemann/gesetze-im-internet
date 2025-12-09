@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000000000)
 
 Auf Grund des § 11 Abs. 4, § 31 Abs. 7 Satz 1 und § 37 Abs. 2 Satz 1
 des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001
@@ -29,20 +30,24 @@ des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001
 
 
 ## Erster Abschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000300000)
 
 Diese Verordnung ist auf Angebote gemäß § 2 Abs. 1 des
 Wertpapiererwerbs- und Übernahmegesetzes anzuwenden.
 
 
 ## Zweiter Abschnitt - Inhalt der Angebotsunterlage
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNG000200000)
 
 
 
 ### § 2 Ergänzende Angaben der Angebotsunterlage
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000410360)
 
 Der Bieter hat in seine Angebotsunterlage folgende ergänzende Angaben
 aufzunehmen:
@@ -203,10 +208,12 @@ veröffentlicht wurde und wo dieser jeweils erhältlich ist.
 
 
 ## Dritter Abschnitt - Gegenleistung bei Übernahmeangeboten und Pflichtangeboten
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNG000300000)
 
 
 
 ### § 3 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000500000)
 
 Bei Übernahmeangeboten und Pflichtangeboten hat der Bieter den
 Aktionären der Zielgesellschaft eine angemessene Gegenleistung
@@ -216,6 +223,7 @@ nicht derselben Gattung angehören, getrennt zu ermitteln.
 
 
 ### § 4 Berücksichtigung von Vorerwerben
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000601377)
 
 Die Gegenleistung für die Aktien der Zielgesellschaft muss mindestens
 dem Wert der höchsten vom Bieter, einer mit ihm gemeinsam handelnden
@@ -228,6 +236,7 @@ Satz 1 oder § 35 Abs. 2 Satz 1 des Wertpapiererwerbs- und
 
 
 ### § 5 Berücksichtigung inländischer Börsenkurse
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000702123)
 
 (1) Sind die Aktien der Zielgesellschaft zum Handel an einer
 inländischen Börse zugelassen, muss die Gegenleistung mindestens dem
@@ -267,6 +276,7 @@ zu entsprechen.
 
 
 ### § 6 Berücksichtigung ausländischer Börsenkurse
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000800000)
 
 (1) Sind die Aktien der Zielgesellschaft ausschließlich zum Handel an
 einem organisierten Markt im Sinne des § 2 Abs. 7 des
@@ -305,6 +315,7 @@ sind im Einzelnen zu dokumentieren.
 
 
 ### § 7 Bestimmung des Wertes der Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE000900000)
 
 Besteht die vom Bieter angebotene Gegenleistung in Aktien, sind für
 die Bestimmung des Wertes dieser Aktien die §§ 5 und 6 entsprechend
@@ -312,10 +323,12 @@ anzuwenden.
 
 
 ## Vierter Abschnitt - Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNG000400000)
 
 
 
 ### § 8 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001002360)
 
 Der Antrag auf Befreiung von der Pflicht zur Veröffentlichung nach §
 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur
@@ -329,6 +342,7 @@ hat.
 
 
 ### § 9 Befreiungstatbestände
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001101377)
 
 Die Bundesanstalt kann insbesondere eine Befreiung von den in § 8 Satz
 1 genannten Pflichten erteilen bei Erlangung der Kontrolle über die
@@ -386,6 +400,7 @@ Eine Befreiung kann ferner erteilt werden, wenn
 
 
 ### § 10 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001200000)
 
 Der Antrag muss folgende Angaben enthalten:
 
@@ -411,12 +426,14 @@ Der Antrag muss folgende Angaben enthalten:
 
 
 ### § 11 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001301377)
 
 Die zur Beurteilung und Bearbeitung des Antrags erforderlichen
 Unterlagen sind unverzüglich bei der Bundesanstalt einzureichen.
 
 
 ### § 12 Prüfung der Vollständigkeit des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001401377)
 
 Die Bundesanstalt hat nach Eingang des Antrags und der Unterlagen zu
 prüfen, ob sie den Anforderungen der §§ 10 und 11 entsprechen. Sind
@@ -428,6 +445,7 @@ Frist nicht entsprochen, gilt der Antrag als zurückgenommen.
 
 
 ### § 12a Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001600123)
 
 Soweit der nach § 5 oder der nach § 39 Absatz 3 des Börsengesetzes
 maßgebliche Zeitraum teilweise oder vollständig in die Zeit vor dem 3.
@@ -437,10 +455,12 @@ Fassung als börslich gemeldeten Geschäfte zu berücksichtigen.
 
 
 ## Fünfter Abschnitt - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNG000500000)
 
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wp_gangebv/BJNR426300001.html#BJNR426300001BJNE001500000)
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 

@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -36,9 +37,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des
 Binnenschifffahrtskapitäns und der Binnenschifffahrtskapitänin wird
@@ -46,11 +49,13 @@ nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse
@@ -71,6 +76,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -150,6 +156,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -157,9 +164,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -175,6 +184,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -191,6 +201,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Betrieb von
 Binnenschiffen und Sicherheit auf Binnenschiffen“ statt.
@@ -269,6 +280,7 @@ Prüfungszeit 90 Minuten.
 
 
 ### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -290,6 +302,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -307,6 +320,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich „Planen von Reisen“
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001300000)
 
 (1) Im Prüfungsbereich „Planen von Reisen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -390,6 +404,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 12 Prüfungsbereich „Durchführen von Reisen“
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001400000)
 
 (1) Im Prüfungsbereich „Durchführen von Reisen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -457,6 +472,7 @@ beträgt 15 Minuten.
 
 
 ### § 13 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001500000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -470,6 +486,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 14 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -533,6 +550,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 15 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -570,9 +588,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNG000300000)
 
 
 ### § 16 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001800000)
 
 Berufsausbildungsverhältnisse, die am 1. August 2022 bestehen, können
 nach den Vorschriften dieser Verordnung unter Anrechnung der bisher
@@ -591,12 +611,14 @@ absolvierten Ausbildungszeit fortgesetzt werden, wenn
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschifffahrtskapitän und zur Binnenschifffahrtskapitänin
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE002000000)
 
 (Fundstelle: BGBl. I 2022, 276 - 287)
 
@@ -1804,6 +1826,7 @@ und Fähigkeiten
    (zu § 11 Absatz 1)
 
 ### Anlage 2 Inhalte des Prüfungsbereichs „Planen von Reisen“
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE002100000)
 
 (Fundstelle: BGBl. I 2022, 288 - 289)
 
@@ -2162,6 +2185,7 @@ Simulatoren und für die medizinische Tauglichkeit (ABl. L 6 vom
 (zu § 12 Absatz 1)
 
 ### Anlage 3 Inhalte des Prüfungsbereichs „Durchführen von Reisen“
+[Direktlink](https://www.gesetze-im-internet.de/binschkapausbv/BJNR027100022.html#BJNR027100022BJNE002200000)
 
 (Fundstelle: BGBl. I 2022, 290)
 

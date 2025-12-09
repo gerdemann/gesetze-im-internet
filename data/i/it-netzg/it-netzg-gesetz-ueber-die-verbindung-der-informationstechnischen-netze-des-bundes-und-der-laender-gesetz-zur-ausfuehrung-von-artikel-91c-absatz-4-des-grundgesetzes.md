@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000100000)
 
 (1) Der Bund errichtet zur Verbindung der informationstechnischen
 Netze des Bundes und der Länder ein Verbindungsnetz. Bund und Länder
@@ -51,6 +52,7 @@ ergänzend Anwendung, soweit sie diesem Gesetz nicht widersprechen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000201130)
 
 (1) Informationstechnische Netze im Sinne dieses Gesetzes sind die
 Gesamtheit von Übertragungssystemen und gegebenenfalls Vermittlungs-
@@ -66,6 +68,7 @@ verbundenen Netzen werden gemeinsam vereinbart.
 
 
 ## § 3 Datenaustausch; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000301130)
 
 (1) Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über
 das Verbindungsnetz. Im Anwendungsbereich des Onlinezugangsgesetzes
@@ -82,6 +85,7 @@ festzulegen.
 
 
 ## § 4 Beschlüsse über das Verbindungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000400000)
 
 (1) Der Bund und die Länder beschließen gemeinsam im
 Koordinierungsgremium für das Verbindungsnetz die folgenden
@@ -118,6 +122,7 @@ abbildet.
 
 
 ## § 5 Vergabe
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000501116)
 
 (1) Hinsichtlich des Verbindungsnetzes ist gemeinsame Vergabestelle
 des Bundes und der Länder einschließlich der mittelbaren Bundes- und
@@ -134,6 +139,7 @@ vertraulicher Dokumente durch geeignete Maßnahmen sicherzustellen.
 
 
 ## § 6 Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000600000)
 
 (1) Der Bund betreibt das Verbindungsnetz. Er setzt dabei die
 gemeinsamen Festlegungen nach § 4 Absatz 1 um.
@@ -145,6 +151,7 @@ Betriebs des Verbindungsnetzes die Interessen der Länder einzubringen.
 
 
 ## § 7 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000701130)
 
 (1) Der Bund trägt die Kosten der Errichtung und des Betriebs des
 Verbindungsnetzes.
@@ -162,6 +169,7 @@ Absätze 2 und 3 entsprechend.
 
 
 ## § 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/it-netzg/BJNR270600009.html#BJNR270600009BJNE000800000)
 
 Den Übergang der gegenwärtig vom Deutschland Online Infrastruktur
 e. V. (DOI-Netz e. V.) wahrgenommenen Aufgaben auf den Bund nach

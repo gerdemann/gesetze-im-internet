@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4comeconbek_1980/BJNR001480980.html#BJNR001480980BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,16 +31,19 @@ Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4comeconbek_1980/BJNR001480980.html#BJNR001480980BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1 Bezeichnungen, Abkürzungen und Kennzeichen des Rates für Gegenseitige Wirtschaftshilfe
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4comeconbek_1980/BJNR001480980.html#BJNR001480980BJNE000200303)
 
 Fundstelle: BGBl. I 1980, 149)
 ![bgbl1_1980_j0149_0010.jpg](bgbl1_1980_j0149_0010.jpg)
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4comeconbek_1980/BJNR001480980.html#BJNR001480980BJNE000300303)
 
 Fundstelle: BGBl. I 1980, 150)
 ![bgbl1_1980_j0150_0010.jpg](bgbl1_1980_j0150_0010.jpg)

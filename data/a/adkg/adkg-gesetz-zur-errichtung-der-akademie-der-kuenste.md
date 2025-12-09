@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Name, Sitz, Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000100000)
 
 Unter dem Namen "Akademie der Künste" wird mit Sitz in Berlin eine
 bundesunmittelbare, rechtsfähige Körperschaft des öffentlichen Rechts
@@ -28,6 +29,7 @@ errichtet. Die Akademie der Künste verwaltet sich selbst.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000200000)
 
 (1) Die Akademie der Künste dient der Repräsentation des Gesamtstaates
 auf dem Gebiet der Kunst und Kultur; sie hat die Aufgabe, die Künste
@@ -54,6 +56,7 @@ Absatzes 1 übernehmen.
 
 
 ## § 3 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000300000)
 
 (1) Die Akademie der Künste gibt sich eine Satzung, die der
 Genehmigung im Rahmen der Rechtsaufsicht bedarf. Das Gleiche gilt für
@@ -83,12 +86,14 @@ Personalangelegenheiten der Akademie der Künste zu befassen.
 
 
 ## § 4 Organe
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000400000)
 
 Die Organe der Akademie der Künste sind die Mitgliederversammlung, der
 Senat, der Präsident oder die Präsidentin.
 
 
 ## § 5 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000500000)
 
 (1) Die Akademie der Künste hat höchstens 500 Mitglieder. Sie kann
 darüber hinaus Ehrenmitglieder berufen. Die Mitgliedschaft ist
@@ -111,6 +116,7 @@ Präsidentin berufen.
 
 
 ## § 6 Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000601116)
 
 (1) Der Mitgliederversammlung der Akademie der Künste gehören alle
 Mitglieder an, die Ehrenmitglieder mit beratender Stimme. Die
@@ -127,6 +133,7 @@ von zwei Dritteln der anwesenden Mitglieder.
 
 
 ## § 7 Senat
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000700000)
 
 (1) Der Senat besteht aus dem Präsidenten oder der Präsidentin, dem
 Vizepräsidenten oder der Vizepräsidentin, den Direktoren oder den
@@ -142,6 +149,7 @@ sind die bestandsbezogenen Veranstaltungen des Archivs.
 
 
 ## § 8 Präsident oder Präsidentin
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000800000)
 
 (1) Der Präsident oder die Präsidentin vertritt die Akademie der
 Künste nach innen und außen. Er oder sie leitet die
@@ -159,6 +167,7 @@ jeweils drei Jahre. Ihre Wiederwahl ist möglich.
 
 
 ## § 9 Sektionen
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE000900000)
 
 (1) Die Akademie der Künste hat sechs Sektionen:
 Bildende Kunst
@@ -183,6 +192,7 @@ abweichende Regelung über die Sektionen enthalten.
 
 
 ## § 10 Archiv
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001000000)
 
 (1) Die Akademie der Künste hat ein Archiv, für das im Rahmen der
 Geschäftsführung der Direktor oder die Direktorin des Archivs
@@ -197,6 +207,7 @@ regeln.
 
 
 ## § 11 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001100000)
 
 Die Geschäftsführung der Akademie der Künste wird nach Maßgabe der
 Satzung unter Leitung des Präsidenten oder der Präsidentin durch
@@ -205,6 +216,7 @@ Verwaltung wahrgenommen.
 
 
 ## § 12 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001200000)
 
 (1) Die Akademie beschäftigt Arbeitnehmerinnen und Arbeitnehmer. Auf
 diese sind die für Arbeitnehmerinnen und Arbeitnehmer des Bundes
@@ -220,6 +232,7 @@ landesunmittelbaren Körperschaft Akademie der Künste.
 
 
 ## § 13 Haushalt, Aufsicht, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001300000)
 
 (1) Zur Erfüllung ihrer Aufgaben erhält die Akademie der Künste einen
 Bundeszuschuss nach Maßgabe des Bundeshaushalts. Die Akademie der
@@ -237,12 +250,14 @@ Aufwandsentschädigungen vorgesehen werden.
 
 
 ## § 14 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001400000)
 
 Die Akademie der Künste verlangt nach Maßgabe der Satzung Entgelte für
 die Benutzung ihrer Einrichtungen und für Veranstaltungen.
 
 
 ## § 15 Übernahme von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001500000)
 
 (1) Die Akademie der Künste übernimmt als Gesamtrechtsnachfolgerin die
 Rechte und Pflichten, welche für die bisherige gemeinsame Körperschaft
@@ -264,6 +279,7 @@ begründet worden sind.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/adkg/BJNR121800005.html#BJNR121800005BJNE001600000)
 
 Dieses Gesetz tritt an dem Tag in Kraft, an dem der Staatsvertrag über
 die Auflösung der von den Ländern Berlin und Brandenburg getragenen

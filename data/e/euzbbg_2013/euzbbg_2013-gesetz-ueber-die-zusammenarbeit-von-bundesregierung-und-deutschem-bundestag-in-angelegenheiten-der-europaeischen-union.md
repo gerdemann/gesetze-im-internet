@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Mitwirkung des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000100001)
 
 (1) In Angelegenheiten der Europäischen Union wirkt der Bundestag an
 der Willensbildung des Bundes mit und hat das Recht zur Stellungnahme.
@@ -35,6 +36,7 @@ Union stehen.
 
 
 ## § 2 Ausschuss für die Angelegenheiten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000200001)
 
 Der Bundestag bestellt einen Ausschuss für die Angelegenheiten der
 Europäischen Union. Der Bundestag kann den Ausschuss ermächtigen, für
@@ -46,6 +48,7 @@ Europäischen Union eingeräumt sind.
 
 
 ## § 3 Grundsätze der Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000300001)
 
 (1) Die Bundesregierung unterrichtet den Bundestag in Angelegenheiten
 der Europäischen Union umfassend, zum frühestmöglichen Zeitpunkt und
@@ -81,6 +84,7 @@ Bundestages widersprechen.
 
 
 ## § 4 Übersendung von Dokumenten und Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000400001)
 
 (1) Die Unterrichtung des Bundestages nach § 3 erfolgt insbesondere
 durch Übersendung von allen bei der Bundesregierung eingehenden
@@ -207,6 +211,7 @@ Entwicklungen in Angelegenheiten der Europäischen Union.
 
 
 ## § 5 Vorhaben der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000500001)
 
 (1) Vorhaben der Europäischen Union (Vorhaben) im Sinne dieses
 Gesetzes sind insbesondere
@@ -289,6 +294,7 @@ erforderlich ist.
 
 
 ## § 6 Förmliche Zuleitung, Berichtsbogen und Umfassende Bewertung, Abschluss von EU-Gesetzgebungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000600001)
 
 (1) Die Bundesregierung übersendet dem Bundestag alle Vorhaben mit
 einem Zuleitungsschreiben (förmliche Zuleitung). Das
@@ -353,6 +359,7 @@ innerstaatliche Umsetzung und den Umsetzungsbedarf.
 
 
 ## § 7 Gemeinsame Außen- und Sicherheitspolitik und Gemeinsame Sicherheits- und Verteidigungspolitik
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000700001)
 
 (1) Im Bereich der Gemeinsamen Außen- und Sicherheitspolitik und der
 Gemeinsamen Sicherheits- und Verteidigungspolitik unterrichtet die
@@ -381,6 +388,7 @@ des Bundestages mündlich.
 
 
 ## § 8 Stellungnahmen des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000800001)
 
 (1) Vor ihrer Mitwirkung an Vorhaben gibt die Bundesregierung dem
 Bundestag Gelegenheit zur Stellungnahme. Hierzu übermittelt die
@@ -424,6 +432,7 @@ Gründe im Rahmen einer Plenardebatte.
 
 
 ## § 9 Aufnahme von Verhandlungen über Beitritte und Vertragsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE000900001)
 
 (1) Mit der Unterrichtung über Vorschläge und Initiativen für
 Beschlüsse zur Aufnahme von Verhandlungen
@@ -447,6 +456,7 @@ bleibt unberührt.
 
 
 ## § 9a Einführung des Euro in einem Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE001000001)
 
 (1) Mit der Unterrichtung über Vorschläge und Initiativen für
 Beschlüsse des Rates gemäß Artikel 140 Absatz 2 des Vertrages über die
@@ -462,6 +472,7 @@ Entscheidungen zu treffen, bleibt unberührt.
 
 
 ## § 10 Zugang zu Datenbanken, vertrauliche Behandlung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE001100001)
 
 (1) Die Bundesregierung eröffnet dem Bundestag im Rahmen der
 Datenschutzvorschriften Zugang zu Dokumentendatenbanken der
@@ -483,6 +494,7 @@ Rechnung.
 
 
 ## § 11 Verbindungsbüro des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE001200001)
 
 (1) Der Bundestag kann über ein Verbindungsbüro unmittelbare Kontakte
 zu Einrichtungen der Europäischen Union pflegen, soweit dies der
@@ -498,6 +510,7 @@ fachlichen Aufgaben.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE001300001)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft. Gleichzeitig
 tritt das Gesetz über die Zusammenarbeit von Bundesregierung und
@@ -509,6 +522,7 @@ worden ist, außer Kraft.
 (zu § 6 Absatz 2)
 
 ## Anlage Berichtsbogen
+[Direktlink](https://www.gesetze-im-internet.de/euzbbg_2013/BJNR217000013.html#BJNR217000013BJNE001400001)
 
 (Fundstelle: BGBl. I 2013, 2175)
 

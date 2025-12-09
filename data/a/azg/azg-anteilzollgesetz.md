@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000100319)
 
 Wenn für veredeltes Zollgut oder Ersatzgut in einem Mitgliedstaat der
 Europäischen Wirtschaftsgemeinschaft die in Artikel 9 Abs. 2 des
@@ -32,6 +33,7 @@ Drittlandszollgut ein anteiliger Zoll (Anteilzoll) erhoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000200319)
 
 (1) Die Zollschuld entsteht dadurch, daß die Zollstelle das in § 1
 genannte veredelte Zollgut oder Ersatzgut zur Ausfuhr oder zu einem
@@ -55,6 +57,7 @@ zu erheben, als er den Anteilzoll nach Absatz 2 für diese Abfälle
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000300319)
 
 (1) Der Anteilzoll ist jeweils im Zusammenhang mit den Abrechnungen
 des Veredelungsverkehrs bei der hierfür zuständigen Zollstelle zu
@@ -64,6 +67,7 @@ entrichten.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000400319)
 
 Der Anteilzoll kann auf Antrag des Veredelers erlassen, erstattet oder
 angerechnet werden, wenn das nach § 2 Abs. 1 abgefertigte und
@@ -72,6 +76,7 @@ vorgeführt wird und diese die Kennzeichnung beseitigt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000500319)
 
 (1) Für Nachholgut, das Drittlandszollgut ist (§ 1), wird ein
 Anteilzoll nach den in § 2 Abs. 2 bezeichneten Sätzen erhoben, soweit
@@ -88,6 +93,7 @@ Anteilzoll übersteigt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000600319)
 
 (1) Zollvergütungen, die für Freigut bei der Ausfuhr oder Abfertigung
 zu einem Zollverkehr gewährt werden, sind für solche Waren zu kürzen,
@@ -101,6 +107,7 @@ Bemessung des Kürzungsbetrages Durchschnittssätze festsetzen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000700319)
 
 Der Bundesminister der Finanzen wird ermächtigt, durch
 Rechtsverordnung die Bestimmungen dieses Gesetzes für sinngemäß
@@ -113,6 +120,7 @@ einen entsprechenden Beschluß gefaßt haben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000800319)
 
 (1) Der Bundesminister der Finanzen wird ermächtigt, zur Durchführung
 dieses Gesetzes durch Rechtsverordnung das Verfahren im einzelnen zu
@@ -134,6 +142,7 @@ Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE000900319)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -143,6 +152,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/azg/BJNR010820960.html#BJNR010820960BJNE001000319)
 
 Dieses Gesetz tritt am 1. Januar 1961 in Kraft.
 

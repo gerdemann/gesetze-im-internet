@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## 1.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000100326)
 
 
 1.  Ich übertrage
@@ -63,6 +64,7 @@ Fundstelle
 
 
 ## 2.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000200326)
 
 Bei Belohnungen oder Geschenken, die einem Beamten nach Beendigung des
 Beamtenverhältnisses gewährt werden, ist für Entscheidungen nach
@@ -71,6 +73,7 @@ deren Geschäftsbereich der Beamte zuletzt angehört hat.
 
 
 ## 3.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000300326)
 
 
 1.  Ich übertrage
@@ -117,6 +120,7 @@ deren Geschäftsbereich der Beamte zuletzt angehört hat.
 
 
 ## 4.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000400326)
 
 Soweit Ruhestandsbeamten und früheren Beamten mit Versorgungsbezügen
 die Aufnahme einer Beschäftigung oder Erwerbstätigkeit untersagt wird,
@@ -127,6 +131,7 @@ Beendigung des Beamtenverhältnisses zuletzt angehört hat.
 
 
 ## 5.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000500326)
 
 Ich bestimme, daß
 die Oberpostdirektionen - soweit sie sich für besondere Fälle die
@@ -147,18 +152,21 @@ dürfen.
 
 
 ## 6.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000600326)
 
 Für besondere Fälle behalte ich mir Entscheidungen nach den
 Abschnitten 1 bis 5 dieser Anordnung vor.
 
 
 ## 7.
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000700326)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dbpbeamtrano_1985/BJNR007780985.html#BJNR007780985BJNE000800326)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

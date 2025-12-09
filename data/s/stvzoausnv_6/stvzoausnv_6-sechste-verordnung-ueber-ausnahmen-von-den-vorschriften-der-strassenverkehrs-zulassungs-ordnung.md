@@ -18,6 +18,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 8a V v. 20.7.2023 I Nr. 199
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000100317)
 
 Auf Grund des § 6 Abs. 1 und des § 27 Abs. 3 Satz 3 des
 Straßenverkehrsgesetzes wird nach Anhören der zuständigen obersten
@@ -25,6 +26,7 @@ Landesbehörden verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000200317)
 
 Abweichend von § 5 der Straßenverkehrs-Zulassungs-Ordnung (StVZO)
 bildet das Mitführen von zulassungsfreien Gerätewagen hinter
@@ -34,6 +36,7 @@ Fahrerlaubnis.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000303119)
 
 Abweichend von § 3 Abs. 1 der Fahrzeug-Zulassungsverordnung genügt bei
 Gerätewagen in Lohndreschbetrieben, wenn sie nur für Zwecke dieser
@@ -46,6 +49,7 @@ entsprechend.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000402308)
 
 § 33 StVZO gilt nicht für Kraftfahrzeuge, die den Vorschriften über
 Bau und Ausrüstung von Anhängern entsprechen und bei denen dies aus
@@ -57,6 +61,7 @@ ersichtlich ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000500317)
 
 Abweichend von § 49a Abs. 1 Satz 1 und § 50 Abs. 4 StVZO dürfen bei
 Fernlichtschaltung auch die besonderen Abblendscheinwerfer Fernlicht
@@ -64,11 +69,13 @@ ausstrahlen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000601306)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000700317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 7
@@ -80,12 +87,14 @@ auch im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000800317)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft,
 § 10 jedoch mit Wirkung vom 1. Juli 1962.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_6/BJNR004500962.html#BJNR004500962BJNE000900317)
 
 Der Bundesminister für Verkehr
 

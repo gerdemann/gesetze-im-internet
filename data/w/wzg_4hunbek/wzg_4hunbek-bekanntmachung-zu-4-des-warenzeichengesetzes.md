@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4hunbek/BJNR011220967.html#BJNR011220967BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574), zuletzt
@@ -31,11 +32,13 @@ Edelmetallen eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4hunbek/BJNR011220967.html#BJNR011220967BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Ungarische Prüf- und Gewährzeichen
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4hunbek/BJNR011220967.html#BJNR011220967BJNE000200303)
 
 (Fundstelle: BGBl. I 1967, 1123 - 1124)
 ![bgbl1_1967_j1123_0010.jpg](bgbl1_1967_j1123_0010.jpg)![bgbl1_1967_j1124_0010.jpg](bgbl1_1967_j1124_0010.jpg)

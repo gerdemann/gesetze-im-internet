@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/plfzv/BJNR258200013.html#BJNR258200013BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 des Netzausbaubeschleunigungsgesetzes
 Übertragungsnetz vom 28. Juli 2011 (BGBl. I S. 1690) verordnet die
@@ -28,6 +29,7 @@ Bundesregierung:
 
 
 ## § 1 Durchführung der Planfeststellung durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/plfzv/BJNR258200013.html#BJNR258200013BJNE000201118)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen führt die Planfeststellungsverfahren nach Abschnitt 3
@@ -47,11 +49,13 @@ des Netzausbaubeschleunigungsgesetzes Übertragungsnetz durch für
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/plfzv/BJNR258200013.html#BJNR258200013BJNE000300000)
 
 Diese Verordnung tritt am 27. Juli 2013 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/plfzv/BJNR258200013.html#BJNR258200013BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

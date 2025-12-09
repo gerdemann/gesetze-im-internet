@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000100000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Ergänzung der
@@ -108,6 +109,7 @@ für Datenanalyse“ oder „Geprüfte Berufsspezialistin für Datenanalyse“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000200000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53b des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -144,6 +146,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000300000)
 
 Die Prüfung findet im Prüfungsbereich „Datenanalysen zur Optimierung
 von betriebs- und produktionswirtschaftlichen Prozessen planen,
@@ -151,6 +154,7 @@ durchführen und evaluieren“ nach § 4 statt.
 
 
 ## § 4 Prüfungsbereich „Datenanalysen zur Optimierung von betriebs- und produktionswirtschaftlichen Prozessen planen, durchführen und evaluieren“
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000400000)
 
 Im Prüfungsbereich „Datenanalysen zur Optimierung von betriebs- und
 produktionswirtschaftlichen Prozessen planen, durchführen und
@@ -345,6 +349,7 @@ Inhalten der folgenden Qualifikationsschwerpunkte geprüft:
 
 
 ## § 5 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000500000)
 
 (1) Die Prüfung gliedert sich in
 
@@ -369,6 +374,7 @@ vertreten ist.
 
 
 ## § 6 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000600000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -400,6 +406,7 @@ die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 7 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000700000)
 
 (1) Die mündliche Prüfung besteht aus zwei Prüfungsleistungen in Form
 einer Präsentation und eines sich unmittelbar anschließenden
@@ -434,6 +441,7 @@ zu beantworten. Das Fachgespräch soll höchstens 30 Minuten dauern.
 
 
 ## § 8 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000800000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -468,6 +476,7 @@ berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE000900000)
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen ohne
 Rundung jeweils mindestens 50 Punkte erreicht worden sind.
@@ -492,6 +501,7 @@ ist die Gesamtnote.
 
 
 ## § 10 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE001000000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -502,6 +512,7 @@ sich die Anteile nach § 8 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder §
 
 
 ## § 11 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE001100000)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -528,6 +539,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 12 Wiederholung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE001200000)
 
 (1) Prüfungsleistungen, die mit weniger als 50 Punkten bewertet worden
 sind, dürfen nach Maßgabe der Absätze 2 bis 3 wiederholt werden.
@@ -554,6 +566,7 @@ wiederholen.
 (zu den §§ 8 und 9)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE001300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 296, S. 7 - 8)
 
@@ -854,6 +867,7 @@ wiederholen.
 (zu § 11)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/dafprv/BJNR1280B0024.html#BJNR1280B0024BJNE001400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 296, S. 9)
 

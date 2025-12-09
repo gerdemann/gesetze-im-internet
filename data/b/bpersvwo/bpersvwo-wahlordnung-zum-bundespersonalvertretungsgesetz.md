@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Wahl des Personalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000101301)
 
 
 
 ### Erster Abschnitt - Gemeinsame Vorschriften über Vorbereitung und Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000201301)
 
 
 
 #### § 1 Wahlvorstand, Wahlhelfer
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE001602125)
 
 (1) Der Wahlvorstand führt die Wahl des Personalrates durch. Er kann
 wahlberechtigte Beschäftigte seiner Dienststelle als Wahlhelfer zu
@@ -61,6 +64,7 @@ unterrichtet werden.
 
 
 #### § 2 Feststellung der Beschäftigtenzahl, Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE001704125)
 
 (1) Der Wahlvorstand stellt die Zahl der in der Regel Beschäftigten
 und ihre Verteilung auf die Gruppen fest. Übersteigt diese Zahl 50
@@ -77,6 +81,7 @@ Stelle zur Einsicht auszulegen.
 
 
 #### § 3 Einsprüche gegen das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE001801301)
 
 (1) Jeder Beschäftigte kann beim Wahlvorstand schriftlich binnen sechs
 Arbeitstagen seit Auslegung des Wählerverzeichnisses (§ 2 Abs. 3)
@@ -98,6 +103,7 @@ oder zu ergänzen.
 
 
 #### § 4 Vorabstimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE001902125)
 
 (1) Vorabstimmungen über
 
@@ -129,6 +135,7 @@ Absatz 1 bezeichneten Fristen hinzuweisen.
 
 
 #### § 5 Ermittlung der Zahl der zu wählenden Personalratsmitglieder, Verteilung der Sitze auf die Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002003125)
 
 (1) Der Wahlvorstand ermittelt die Zahl der zu wählenden Mitglieder
 des Personalrates (§§ 16 und 17 Abs. 4 des Gesetzes). Ist eine von §
@@ -165,6 +172,7 @@ höhere Zahl von Sitzen zufällt.
 
 
 #### § 6 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002106125)
 
 (1) Nach Ablauf der in § 4 bestimmten Frist und spätestens sechs
 Wochen vor dem letzten Tag der Stimmabgabe erläßt der Wahlvorstand ein
@@ -263,6 +271,7 @@ Wahlvorstand jederzeit berichtigt werden.
 
 
 #### § 7 Wahlvorschläge, Einreichungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002202301)
 
 (1) Zur Wahl des Personalrates können die wahlberechtigten
 Beschäftigten und die in der Dienststelle vertretenen Gewerkschaften
@@ -275,6 +284,7 @@ einzureichen.
 
 
 #### § 8 Inhalt der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002303125)
 
 (1) Jeder Wahlvorschlag soll mindestens doppelt soviel Bewerber
 enthalten, wie
@@ -346,6 +356,7 @@ Listenvertreter benennen.
 
 
 #### § 9 Sonstige Erfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002402301)
 
 (1) Jeder Bewerber kann für die Wahl des Personalrates nur auf einem
 Wahlvorschlag vorgeschlagen werden.
@@ -364,6 +375,7 @@ Gruppe unterzeichnen lassen.
 
 
 #### § 10 Behandlung der Wahlvorschläge durch den Wahlvorstand, ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002502301)
 
 (1) Der Wahlvorstand vermerkt auf den Wahlvorschlägen den Tag und die
 Uhrzeit des Eingangs. Im Falle des Absatzes 5 ist auch der Zeitpunkt
@@ -416,6 +428,7 @@ beseitigt, sind diese Wahlvorschläge ungültig.
 
 
 #### § 11 Nachfrist für die Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002601301)
 
 (1) Ist nach Ablauf der Fristen nach § 7 Abs. 2 und § 10 Abs. 5 Satz 1
 Nr. 1 und 2 bei Gruppenwahl nicht für jede Gruppe ein gültiger
@@ -447,6 +460,7 @@ ein, so gibt der Wahlvorstand sofort bekannt
 
 
 #### § 12 Bezeichnung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002701301)
 
 (1) Nach Ablauf der Fristen nach § 7 Abs. 2, § 10 Abs. 5 und § 11 Abs.
 1 ermittelt der Wahlvorstand durch das Los die Reihenfolge der
@@ -468,6 +482,7 @@ Kennwort anzugeben.
 
 
 #### § 13 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002801301)
 
 (1) Unverzüglich nach Ablauf der Fristen nach § 7 Abs. 2, § 10 Abs. 5
 und § 11 Abs. 1, spätestens jedoch fünf Arbeitstage vor Beginn der
@@ -481,6 +496,7 @@ bekanntgemacht.
 
 
 #### § 14 Sitzungsniederschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE002901301)
 
 Der Wahlvorstand fertigt über jede Sitzung, in der er einen Beschluß
 gefaßt hat, eine Niederschrift, die mindestens den Wortlaut des
@@ -489,6 +505,7 @@ Wahlvorstandes zu unterzeichnen.
 
 
 #### § 15 Ausübung des Wahlrechts, Stimmzettel, ungültige Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003001301)
 
 (1) Wählen kann nur, wer in das Wählerverzeichnis eingetragen ist.
 
@@ -535,6 +552,7 @@ Gegenwart des Wählers zu vernichten.
 
 
 #### § 16 Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003101301)
 
 (1) Der Wahlvorstand trifft Vorkehrungen, daß der Wähler den
 Stimmzettel im Wahlraum unbeobachtet kennzeichnen und in den
@@ -583,6 +601,7 @@ ist.
 
 
 #### § 17 Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003201301)
 
 (1) Einem wahlberechtigten Beschäftigten, der im Zeitpunkt der Wahl
 verhindert ist, seine Stimme persönlich abzugeben, hat der
@@ -637,6 +656,7 @@ durch eine Person seines Vertrauens verrichten lassen.
 
 
 #### § 18 Behandlung der schriftlich abgegebenen Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003301301)
 
 (1) Unmittelbar vor Abschluß der Stimmabgabe öffnet der Wahlvorstand
 in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
@@ -654,6 +674,7 @@ Wahl nicht angefochten worden ist.
 
 
 #### § 19 Stimmabgabe bei Nebenstellen und Teilen von Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003402125)
 
 Für die Beschäftigten von
 
@@ -675,6 +696,7 @@ Beschäftigten die in § 17 Abs. 1 bezeichneten Unterlagen zu
 
 
 #### § 20 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003501301)
 
 (1) Unverzüglich nach Abschluß der Wahl nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor und stellt das Ergebnis
@@ -701,6 +723,7 @@ gesondert bei den Wahlunterlagen aufzubewahren.
 
 
 #### § 21 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003601301)
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine Niederschrift,
 die von sämtlichen Mitgliedern des Wahlvorstandes zu unterzeichnen
@@ -739,6 +762,7 @@ des Wahlergebnisses sind in der Niederschrift zu vermerken.
 
 
 #### § 22 Benachrichtigung der gewählten Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003701301)
 
 Der Wahlvorstand benachrichtigt die als Personalratsmitglieder
 Gewählten unverzüglich schriftlich gegen Empfangsbestätigung,
@@ -749,6 +773,7 @@ die Wahl als angenommen.
 
 
 #### § 23 Bekanntmachung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003801301)
 
 Der Wahlvorstand gibt das Wahlergebnis und die Namen der als
 Personalratsmitglieder gewählten Bewerber durch zweiwöchigen Aushang
@@ -757,6 +782,7 @@ worden ist.
 
 
 #### § 24 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE003901301)
 
 Die Wahlunterlagen (Niederschriften, Bekanntmachungen, Stimmzettel,
 Freiumschläge für die schriftliche Stimmabgabe usw.) werden vom
@@ -765,14 +791,17 @@ Personalratswahl aufbewahrt.
 
 
 ### Zweiter Abschnitt - Besondere Vorschriften für die Wahl mehrerer Personalratsmitglieder oder Gruppenvertreter
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000301301)
 
 
 
 #### Erster Unterabschnitt - Wahlverfahren bei Vorliegen mehrerer Wahlvorschläge (Verhältniswahl)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000401301)
 
 
 
 ##### § 25 Voraussetzungen für Verhältniswahl, Stimmzettel, Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004001301)
 
 (1) Nach den Grundsätzen der Verhältniswahl (Listenwahl) ist zu
 wählen, wenn
@@ -801,6 +830,7 @@ anzukreuzen, für die er seine Stimme abgeben will.
 
 
 ##### § 26 Ermittlung der gewählten Gruppenvertreter bei Gruppenwahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004101301)
 
 (1) Bei Gruppenwahl werden die Summen der auf die einzelnen
 Vorschlagslisten jeder Gruppe entfallenen Stimmen
@@ -821,6 +851,7 @@ der Reihenfolge ihrer Benennung (§ 8 Abs. 2) zu verteilen.
 
 
 ##### § 27 Ermittlung der gewählten Gruppenvertreter bei gemeinsamer Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004201301)
 
 (1) Bei gemeinsamer Wahl werden die Summen der auf die einzelnen
 Vorschlagslisten entfallenen Stimmen nebeneinandergestellt und der
@@ -840,10 +871,12 @@ Reihenfolge ihrer Benennung verteilt.
 
 
 #### Zweiter Unterabschnitt - Wahlverfahren bei Vorliegen eines Wahlvorschlages (Personenwahl)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000501301)
 
 
 
 ##### § 28 Voraussetzungen für Personenwahl, Stimmzettel, Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004301301)
 
 (1) Nach den Grundsätzen der Personenwahl ist zu wählen, wenn
 
@@ -876,6 +909,7 @@ für die er seine Stimme abgeben will. Der Wähler darf
 
 
 ##### § 29 Ermittlung der gewählten Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004401301)
 
 (1) Bei Gruppenwahl sind die Bewerber in der Reihenfolge der jeweils
 höchsten auf sie entfallenen Stimmenzahlen gewählt.
@@ -888,10 +922,12 @@ höchsten auf sie entfallenen Stimmenzahlen besetzt.
 
 
 ### Dritter Abschnitt - Besondere Vorschriften für die Wahl eines Personalratsmitgliedes oder eines Gruppenvertreters (Personenwahl)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000601301)
 
 
 
 #### § 30 Voraussetzungen für Personenwahl, Stimmzettel, Stimmabgabe, Wahlergebnis
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004501301)
 
 (1) Nach den Grundsätzen der Personenwahl ist zu wählen, wenn
 
@@ -916,24 +952,29 @@ Bei gleicher Stimmenzahl entscheidet das Los.
 
 
 ### Vierter Abschnitt - Wahl der Vertreter der nichtständig Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000701301)
 
 
 
 #### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004602125)
 
 
 
 ## Zweiter Teil - Wahl des Bezirkspersonalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000801301)
 
 
 
 ### § 32 Entsprechende Anwendung der Vorschriften über die Wahl des Personalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004701301)
 
 Für die Wahl des Bezirkspersonalrates gelten die §§ 1 bis 30
 entsprechend, soweit sich aus den §§ 33 bis 41 nichts anderes ergibt.
 
 
 ### § 33 Leitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004801301)
 
 (1) Der Bezirkswahlvorstand leitet die Wahl des Bezirkspersonalrates.
 Die Durchführung der Wahl in den einzelnen Dienststellen übernehmen
@@ -947,6 +988,7 @@ Aushang bis zum Abschluß der Stimmabgabe bekannt.
 
 
 ### § 34 Feststellung der Beschäftigtenzahl, Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE004903310)
 
 (1) Die örtlichen Wahlvorstände stellen die Zahl der in den
 Dienststellen in der Regel Beschäftigten und ihre Verteilung auf die
@@ -961,6 +1003,7 @@ Innerhalb der Gruppen sind die Anteile der Geschlechter festzustellen.
 
 
 ### § 35 Ermittlung der Zahl der zu wählenden Bezirkspersonalratsmitglieder, Verteilung der Sitze auf die Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005002125)
 
 (1) Der Bezirkswahlvorstand ermittelt die Zahl der zu wählenden
 Mitglieder des Bezirkspersonalrates und die Verteilung der Sitze auf
@@ -975,12 +1018,14 @@ vorgeschriebene Zahl von Sitzen.
 
 
 ### § 36 Gleichzeitige Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005101301)
 
 Die Wahl des Bezirkspersonalrates soll möglichst gleichzeitig mit der
 Wahl der Personalräte in demselben Bezirk stattfinden.
 
 
 ### § 37 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005204125)
 
 (1) Der Bezirkswahlvorstand erläßt das Wahlausschreiben.
 
@@ -1084,12 +1129,14 @@ Bezirkswahlvorstand jederzeit berichtigt werden.
 
 
 ### § 38 Bekanntmachungen des Bezirkswahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005301301)
 
 Bekanntmachungen nach den §§ 11 und 13 sind in gleicher Weise wie das
 Wahlausschreiben in den Dienststellen auszuhängen.
 
 
 ### § 39 Sitzungsniederschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005401301)
 
 (1) Der Bezirkswahlvorstand fertigt über jede Sitzung, in der er einen
 Beschluß gefaßt hat, eine Niederschrift. Die Niederschrift ist von
@@ -1101,6 +1148,7 @@ Wahlvorstand.
 
 
 ### § 40 Stimmabgabe, Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005501301)
 
 Findet die Wahl des Bezirkspersonalrates zugleich mit der Wahl der
 Personalräte statt, so kann für die Stimmabgabe zu beiden Wahlen
@@ -1110,6 +1158,7 @@ Wahl des Personalrates zu verwenden.
 
 
 ### § 41 Feststellung und Bekanntmachung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005601301)
 
 (1) Die örtlichen Wahlvorstände zählen die auf die einzelnen
 Vorschlagslisten oder, wenn Personenwahl stattgefunden hat, die auf
@@ -1136,21 +1185,25 @@ Wahlausschreiben bekannt.
 
 
 ## Dritter Teil - Wahl des Hauptpersonalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG000901301)
 
 
 
 ### § 42 Entsprechende Anwendung der Vorschriften über die Wahl des Bezirkspersonalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005701301)
 
 Für die Wahl des Hauptpersonalrates gelten die §§ 32 bis 41
 entsprechend, soweit sich aus den §§ 43 und 44 nichts anderes ergibt.
 
 
 ### § 43 Leitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005801301)
 
 Der Hauptwahlvorstand leitet die Wahl des Hauptpersonalrates.
 
 
 ### § 44 Durchführung der Wahl nach Bezirken
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE005903310)
 
 (1) Der Hauptwahlvorstand kann die bei den Behörden der Mittelstufe
 bestehenden oder auf sein Ersuchen bestellten örtlichen Wahlvorstände
@@ -1191,20 +1244,24 @@ Niederschrift über die Zusammenstellung der Wahlergebnisse (Absatz 2).
 
 
 ## Vierter Teil - Wahl des Gesamtpersonalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG001001301)
 
 
 
 ### § 45 Entsprechende Anwendung der Vorschriften über die Wahl des Personalrates
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006001301)
 
 Für die Wahl des Gesamtpersonalrates gelten die §§ 32 bis 41
 entsprechend.
 
 
 ## Fünfter Teil - Wahl der Jugend- und Auszubildendenvertreter
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG001102301)
 
 
 
 ### § 46 Vorbereitung und Durchführung der Wahl der Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006103125)
 
 (1) Für die Vorbereitung und Durchführung der Wahl der Jugend- und
 Auszubildendenvertreter gelten die §§ 1 bis 3, 6 bis 25, 28 und 30
@@ -1233,6 +1290,7 @@ das Los.
 
 
 ### § 47 Wahl der Jugend- und Auszubildendenstufenvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006203125)
 
 (1) Für die Wahl der Jugend- und Auszubildendenstufenvertretungen nach
 § 107 Absatz 1 des Gesetzes gelten die §§ 33 bis 41, 43, 44 und 46
@@ -1252,14 +1310,17 @@ bezeichneten Unterlagen zu übersenden.
 
 
 ## Sechster Teil - Besondere Verwaltungszweige
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG001201301)
 
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006303125)
 
 
 
 ### § 49 Personalvertretungen im Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006401301)
 
 Für den Bundesnachrichtendienst gilt diese Wahlordnung mit folgenden
 Abweichungen:
@@ -1289,11 +1350,13 @@ Abweichungen:
 
 
 ### § 49a
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE007001301)
 
 -
 
 
 ### § 50 Wahl einer Personalvertretung im Inland durch Beschäftigte in Dienststellen des Bundes im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006502125)
 
 (1) Der Haupt- oder Bezirkswahlvorstand kann für die Wahl der
 Stufenvertretung durch Beschäftigte in Dienststellen des Bundes im
@@ -1312,6 +1375,7 @@ Abs. 1 bezeichneten Unterlagen zu übersenden.
 
 
 ### § 51 Vertrauensperson der lokal Beschäftigten (§ 120 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006603125)
 
 (1) Der Personalrat bestellt spätestens drei Wochen vor dem Ablauf der
 Amtszeit der Vertrauensperson der lokal Beschäftigten drei lokal
@@ -1348,10 +1412,12 @@ entscheidet das Los.
 
 
 ## Siebter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNG001301301)
 
 
 
 ### § 52 Berechnung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006701301)
 
 Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
@@ -1360,6 +1426,7 @@ Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage.
 
 
 ### § 53 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006803310)
 
 Für Wahlen, zu deren Durchführung der Wahlvorstand spätestens vor dem
 1\. Oktober 2005 bestellt worden ist, ist die Wahlordnung zum
@@ -1368,6 +1435,7 @@ geltenden Fassung anzuwenden.
 
 
 ### § 54 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bpersvwo/BJNR023370974.html#BJNR023370974BJNE006901301)
 
 -
 

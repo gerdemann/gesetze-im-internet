@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000100305)
 
 Ziel dieses Gesetzes ist die Erhaltung der Meeresumwelt sowie deren
 Schutz vor Verschmutzung durch das Einbringen von Abfällen oder
@@ -28,6 +29,7 @@ anderen Stoffen und Gegenständen.
 
 
 ## § 2 Sachlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000200305)
 
 (1) Dieses Gesetz gilt für alle Meeresgewässer mit Ausnahme des
 Küstenmeeres unter deutscher Souveränität sowie der Küstenmeere unter
@@ -66,6 +68,7 @@ Bundeswehr.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000301116)
 
 (1) Einbringen im Sinne dieses Gesetzes ist:
 
@@ -136,6 +139,7 @@ Vorhaben
 
 
 ## § 4 Einbringungsverbot, Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000401116)
 
 Das Einbringen von Abfällen und sonstigen Stoffen und Gegenständen in
 die Hohe See ist verboten. Ausgenommen von diesem Verbot sind:
@@ -156,6 +160,7 @@ die Hohe See ist verboten. Ausgenommen von diesem Verbot sind:
 
 
 ## § 5 Erlaubnispflicht, Bedingungen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000501116)
 
 (1) Das Einbringen der Stoffe und Gegenstände nach § 4 Satz 2 bedarf
 der Erlaubnis.
@@ -188,6 +193,7 @@ längstens für drei Jahre erteilt werden.
 
 
 ## § 5a Pflichten des Vorhabenträgers bei Maßnahmen des marinen Geo-Engineerings
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE001400116)
 
 (1) Bei Einbringungen nach § 3 Absatz 1 Nummer 5 hat der
 Vorhabenträger ein hohes Schutzniveau für die Meeresumwelt und die
@@ -247,12 +253,14 @@ unbeschadet des Absatzes 1 sicherzustellen, dass die Maßnahmen
 
 
 ## § 6 Verbrennungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000600305)
 
 Die Verbrennung von Abfällen oder sonstigen Stoffen auf Hoher See ist
 verboten.
 
 
 ## § 7 Notlage
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000700305)
 
 § 4 wird nicht angewandt, wenn Stoffe in die Hohe See eingebracht oder
 eingeleitet werden, um eine Gefahr für das Leben oder die Gesundheit
@@ -267,6 +275,7 @@ Seeschiffahrt und Hydrographie zu melden.
 
 
 ## § 8 Zuständigkeiten, Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000808116)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für den
 Vollzug dieses Gesetzes zuständig; es untersteht insoweit der
@@ -345,6 +354,7 @@ Auslagen erhoben.
 
 
 ## § 9 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE000906116)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -370,6 +380,7 @@ wissenschaftlichen Forschung dienen.
 
 
 ## § 10 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE001003116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -405,6 +416,7 @@ Seeschifffahrt und Hydrographie.
 
 
 ## § 11 Vollzugsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE001103116)
 
 Die in § 8 Absatz 4 bezeichneten Vollzugsbeamten des Bundes haben auf
 der Hohen See bei der Erforschung von Zuwiderhandlungen nach § 10 und
@@ -415,6 +427,7 @@ sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
 
 
 ## § 12 Unberührtheit von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE001200305)
 
 Dieses Gesetz berührt nicht
 
@@ -449,12 +462,14 @@ Dieses Gesetz berührt nicht
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE001300305)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 4 Satz 2 Nummer 3)
 
 ## Anlage Maßnahmen des marinen Geo-Engineerings
+[Direktlink](https://www.gesetze-im-internet.de/hoheseeeinbrg/BJNR245510998.html#BJNR245510998BJNE001500116)
 
 (Fundstelle: BGBl. I 2018, S. 2255)
 

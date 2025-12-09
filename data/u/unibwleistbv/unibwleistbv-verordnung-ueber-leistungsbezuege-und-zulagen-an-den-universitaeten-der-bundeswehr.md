@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000100000)
 
 Auf Grund des § 33 Abs. 4 und des § 35 Abs. 2 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6.
@@ -29,6 +30,7 @@ Verteidigung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000200000)
 
 Diese Verordnung regelt die Vergabe von Leistungsbezügen sowie von
 Forschungs- und Lehrzulagen an Professorinnen und Professoren,
@@ -41,6 +43,7 @@ Besoldungsanpassungen.
 
 
 ## § 2 Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000300000)
 
 Leistungsbezüge werden in den Besoldungsgruppen W 2 und W 3 vergeben
 
@@ -61,6 +64,7 @@ Leistungsbezüge werden in den Besoldungsgruppen W 2 und W 3 vergeben
 
 
 ## § 3 Berufungs- und Bleibe-Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000400000)
 
 (1) Leistungsbezüge können aus Anlass der Berufung vergeben werden,
 soweit dies erforderlich ist, um qualifizierte Professorinnen und
@@ -106,6 +110,7 @@ verändert, der die Professorin oder der Professor angehört.
 
 
 ## § 4 Besondere Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000501310)
 
 (1) Leistungsbezüge können für besondere Leistungen in Forschung,
 Lehre, Weiterbildung und Nachwuchsförderung vergeben werden. Dies sind
@@ -217,6 +222,7 @@ aus gleichem Grund beabsichtigte befristete monatliche Zahlung.
 
 
 ## § 5 Funktions-Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000600000)
 
 (1) Funktions-Leistungsbezüge können an die hauptamtlichen Mitglieder
 der Universitätsleitungen (Präsidentin oder Präsident, Kanzlerin oder
@@ -243,6 +249,7 @@ der Professor oder das Mitglied der Universitätsleitung angehört.
 
 
 ## § 6 Forschungs- und Lehrzulage
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000700000)
 
 (1) An Professorinnen und Professoren, die Mittel privater Dritter für
 Forschungs- oder Lehrvorhaben der Universität (Drittmittel) einwerben
@@ -281,6 +288,7 @@ Verteidigung.
 
 
 ## § 7 Ruhegehaltfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000800000)
 
 (1) Wiederholt befristet vergebene Leistungsbezüge nach den §§ 3 und 4
 sind bis zur Höhe von zusammen 40 Prozent des zum Zeitpunkt der
@@ -296,6 +304,7 @@ Halbsatz 1 des Bundesbesoldungsgesetzes.
 
 
 ## § 8 Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE000900000)
 
 (1) Mehrere Leistungsbezüge nach § 3 oder nach § 4 können
 nebeneinander vergeben werden. Leistungsbezüge nach den §§ 3 bis 5
@@ -321,6 +330,7 @@ Bundesministerium der Verteidigung.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/unibwleistbv/BJNR350400004.html#BJNR350400004BJNE001000000)
 
 Die Verordnung tritt am 1. Januar 2005 in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Anlage II (EETS-Zulassungsvertrag)
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000103123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -298,6 +299,7 @@ in …] [Nachweis der Registrierung]
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000202123)
 
 Die Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates
 vom 19. März 2019 über die Interoperabilität elektronischer
@@ -326,6 +328,7 @@ einem Bordgerät eines Anbieters zu ermöglichen.
 
 
 ## § 1 Vertragsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000302123)
 
 (1) Dieser EETS-Zulassungsvertrag („Vertrag“) regelt die Rechte und
 Pflichten des Anbieters und des Mauterhebers im Zusammenhang mit der
@@ -368,6 +371,7 @@ Definitionen.
 
 
 ## § 2 Vertragsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000402123)
 
 (1) Bestandteile dieses Vertrages sind
 
@@ -424,6 +428,7 @@ Definitionen.
 
 
 ## § 3 Zusicherungen des Anbieters / Wechsel eines wirtschaftlich Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000503123)
 
 (1) Der Anbieter versichert, dass er entsprechend Artikel 4 der
 Richtlinie (EU) 2019/520 registriert ist, und hat die Registrierung
@@ -478,6 +483,7 @@ Unterzeichnung dieses Vertrages vollständig und richtig sind:
 
 
 ## § 4 Einschaltung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000602123)
 
 (1) Der Anbieter hat alle vertraglichen Leistungen selbst zu erbringen
 und muss alle vom Mauterheber gestellten Vorgaben zu jedem Zeitpunkt
@@ -506,6 +512,7 @@ Anbieter die Pflichtverletzung zu vertreten haben.
 
 
 ## § 5 Auskehr der Mauteinnahmen an den Mauterheber
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000702123)
 
 (1) Die Auskehr der Mauteinnahmen erfolgt auf das Konto der
 Bundeskasse Trier-Deutsche Bundesbank Saarbrücken, IBAN DE81 5900 0000
@@ -530,6 +537,7 @@ ist.
 
 
 ## § 6 Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000803123)
 
 (1) Der Anbieter muss dem Mauterheber vor Abschluss dieses Vertrages
 eine Garantie einer Bank („Bankgarantie") oder ein gleichwertiges
@@ -624,6 +632,7 @@ Finanzinstrument.
 
 
 ## § 7 Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE000903123)
 
 (1) Der Anbieter ist verpflichtet, für die im Rahmen dieses Vertrages
 ausgeführten Tätigkeiten auf eigene Kosten eine
@@ -684,6 +693,7 @@ nur mit vorheriger Zustimmung des Mauterhebers zulässig.
 
 
 ## § 8 Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001002123)
 
 Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche
 Zustimmung des Mauterhebers Rechte aus diesem Vertrag an Dritte
@@ -695,6 +705,7 @@ Ermessen des Mauterhebers.
 
 
 ## § 9 Aufrechnungs- und Zurückbehaltungsrechte, Verbot der Besicherung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001102123)
 
 (1) Dem Anbieter steht hinsichtlich der an den Mauterheber
 auszukehrenden Mauteinnahmen weder ein Aufrechnungs- noch ein
@@ -712,6 +723,7 @@ machen oder auf sonstige Weise mit Rechten Dritter zu belasten.
 
 
 ## § 10 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001203123)
 
 (1) Der Mauterheber wird den Anbieter nach Möglichkeit über relevante
 Änderungen des EETS-Registers sowie anderer Grundlagen für die
@@ -797,6 +809,7 @@ Mitwirkungspflichten des Mauterhebers:
 
 
 ## § 11 Nachweis- und Informationspflichten des Anbieters
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001302123)
 
 (1) Der Anbieter muss dem Mauterheber jede Änderung an seinem EETS-
 Teilsystem, die Auswirkung auf die Erfüllung der Vorgaben für das
@@ -847,6 +860,7 @@ indirekt Auswirkungen haben könnten
 
 
 ## § 12 Zutritts- und Einsichtsrechte des Mauterhebers
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001402123)
 
 (1) Der Anbieter muss dem Mauterheber oder einer von diesem benannten
 Stelle zur Überwachung der Einhaltung der Vorgaben und der
@@ -873,6 +887,7 @@ Bundesrechnungshof und sonstigen staatlichen Stellen vereinbaren.
 
 
 ## § 13 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001502123)
 
 (1) Der Anbieter stellt sicher, dass er bei der Durchführung des EETS
 jederzeit alle Anforderungen des Datenschutzes erfüllt. Dazu gehören
@@ -923,6 +938,7 @@ Beendigung dieses Vertrages fort.
 
 
 ## § 14 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001602123)
 
 (1) Zum Zwecke des elektronischen Austauschs der für die Durchführung
 des EETS erforderlichen Daten wird der Mauterheber den Anbieter über
@@ -1008,6 +1024,7 @@ dieses Vertrages fort.
 
 
 ## § 15 Aufbewahrung von vertraulichen Daten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001702123)
 
 (1) Der Anbieter verpflichtet sich, alle im Zusammenhang mit der
 Einrichtung, Durchführung und Beendigung des EETS erstellten oder
@@ -1075,6 +1092,7 @@ Beendigung dieses Vertrages fort.
 
 
 ## § 16 Geheimhaltung und Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001803123)
 
 (1) Anbieter und Mauterheber werden alle Daten, die ihnen im
 Zusammenhang mit der Einrichtung, Durchführung und Beendigung des EETS
@@ -1178,6 +1196,7 @@ Beendigung dieses Vertrages fort.
 
 
 ## § 17 Qualitätsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE001903123)
 
 (1) Der Anbieter muss beim Betrieb seines EETS-Teilsystems die
 folgenden Qualitätsparameter erfüllen:
@@ -1239,6 +1258,7 @@ Qualitätsparametern für EETS-Anbieter (Anlage 5) geregelt.
 
 
 ## § 18 Übertragung von Datenobjekten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002002123)
 
 (1) Der Anbieter ist verantwortlich für die Richtigkeit und
 Vollständigkeit der von ihm übermittelten Datenobjekte und trägt das
@@ -1259,6 +1279,7 @@ Mauterhebers.
 
 
 ## § 19 Einstandspflicht für geschuldete Maut
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002103123)
 
 (1) Der Anbieter haftet gegenüber dem Mauterheber für die im EETS-
 Gebiet BFStrMG geschuldete Maut der Nutzer, die er dem Mauterheber in
@@ -1298,6 +1319,7 @@ Sperrliste entfernen, wenn er das Bordgerät wieder entsperrt hat.
 
 
 ## § 20 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002204123)
 
 (1) Der Mauterheber zahlt dem Anbieter eine Vergütung, deren
 Bestandteile und ihre jeweiligen Höhen für die jeweilige
@@ -1323,6 +1345,7 @@ gemäß den Regelungen zur Vergütung **[Anlage 9], Ziffer 2** überprüft.
 
 
 ## § 21 Rechnungsstellung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002303123)
 
 (1) Der Anbieter hat zur Abrechnung der Vergütung nach § 20 dieses
 Vertrages eine kalendermonatliche, prüffähige Rechnung entsprechend
@@ -1351,6 +1374,7 @@ in der Rechnung anzugebene Konto des Anbieters.
 
 
 ## § 22 Allgemeine Abrechnungs- und Zahlungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002403123)
 
 (1) Alle Rechnungen müssen den zum Zeitpunkt der Ausstellung der
 Rechnung geltenden Bestimmungen des deutschen Umsatzsteuergesetzes
@@ -1433,6 +1457,7 @@ Absatz 1 Satz 2 BGB zu zahlen.
 
 
 ## § 23 Erneute Durchführung des Verfahrens zur Feststellung der Gebrauchstauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002503123)
 
 (1) Der Mauterheber kann auch nach Vertragsabschluss vom Anbieter die
 erneute Durchführung des Verfahrens zur Feststellung der
@@ -1482,6 +1507,7 @@ durch die Regelungen dieses Paragraphen unberührt.
 
 
 ## § 24 Haftung und Gewährleistung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002603123)
 
 (1) Der Anbieter haftet bei Verletzung gesetzlicher oder vertraglicher
 Verpflichtungen nach den allgemeinen gesetzlichen Bestimmungen für
@@ -1563,6 +1589,7 @@ Regelung dieses Paragraphen unberührt.
 
 
 ## § 25 Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002702123)
 
 (1) Der Anbieter stellt den Mauterheber, die beim Mauterheber
 beschäftigten oder eingesetzten Personen sowie die vom Mauterheber im
@@ -1589,6 +1616,7 @@ erfolgen auf erstes Anfordern.
 
 
 ## § 26 Gewerbliche Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002802123)
 
 (1) Der Anbieter hat keine Rechte in Bezug auf gewerbliche
 Schutzrechte und Urheberrechte („Schutzrechte") des Mauterhebers oder
@@ -1621,6 +1649,7 @@ verschuldensunabhängig für eine Verletzung der Pflicht gemäß Satz 2.
 
 
 ## § 27 Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE002904123)
 
 (1) Der Anbieter verwirkt eine Vertragsstrafe jeweils in Höhe von
 25 000 Euro, wenn er schuldhaft
@@ -1782,6 +1811,7 @@ Vertragsstrafe.
 
 
 ## § 28 Laufzeit und Beendigung des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003003123)
 
 (1) Der Vertrag tritt zum (Datum) in Kraft und wird auf unbestimmte
 Zeit geschlossen. Der Anbieter wird den EETS für das EETS-Gebiet
@@ -1924,6 +1954,7 @@ Einschreiben / Rückschein zuzustellen.
 
 
 ## § 29 Verfahren nach Vertragsbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003102123)
 
 (1) Der Anbieter ist auch nach Beendigung dieses Vertrages
 verpflichtet, die von seinen Nutzern im EETS-Gebiet BFStrMG
@@ -1950,6 +1981,7 @@ bis 30 MautSysG festgelegt.
 
 
 ## § 30 Sperrung von Bordgeräten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003202123)
 
 Im Fall der Kündigung dieses Vertrages durch eine Vertragspartei muss
 der Anbieter alle von seinen Nutzern im Rahmen ihrer
@@ -1961,6 +1993,7 @@ Anbieter die Bordgeräte nach Satz 1 unverzüglich sperren.
 
 
 ## § 31 Vertragsanpassungen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003302123)
 
 (1) Der Anbieter ist verpflichtet, mit dem Mauterheber diejenigen
 Änderungen und Ergänzungen zu diesem Vertrag zu vereinbaren, die
@@ -1976,6 +2009,7 @@ Rechts ergebenden Verpflichtungen zu erfüllen.
 
 
 ## § 32 Höhere Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003402123)
 
 Wird einer Vertragspartei die Erfüllung einer ihr nach diesem Vertrag
 obliegenden Verpflichtung infolge höherer Gewalt oder anderer objektiv
@@ -1987,6 +2021,7 @@ Regelung unberührt.
 
 
 ## § 33 Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003502123)
 
 (1) Den Vertragsparteien steht es frei, im Falle von Streitigkeiten
 über den Inhalt oder die Auslegung dieses Vertrages die
@@ -1999,6 +2034,7 @@ Europäischen Union.
 
 
 ## § 34 Anwendbares Recht und Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003602123)
 
 (1) Dieser Vertrag und seine Auslegung unterliegen deutschem Recht
 unter Ausschluss der kollisionsrechtlichen Vorschriften und der United
@@ -2008,6 +2044,7 @@ Nations Convention on the International Sales of Goods (UNCISG).
 
 
 ## § 35 Schriftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003703123)
 
 (1) Sämtliche Mitteilungen gemäß oder im Zusammenhang mit diesem
 Vertrag sind in Textform und in deutscher Sprache abzufassen und an
@@ -2039,6 +2076,7 @@ unverzüglich mitteilen.
 
 
 ## § 36 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003802123)
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform,
 soweit nicht eine notarielle Beurkundung gesetzlich erforderlich ist.
@@ -2048,6 +2086,7 @@ Anwendung von § 126 Absatz 3 BGB ist ausgeschlossen. Sämtliche
 
 
 ## § 37 Salvatorische Klausel
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE003903123)
 
 Sollten einzelne Bestimmungen dieses Vertrags unwirksam oder
 undurchführbar sein, so berührt dies nicht die Wirksamkeit der übrigen
@@ -2060,6 +2099,7 @@ Unterschriften
 
 
 ## Anlage 1 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004103123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -2227,6 +2267,7 @@ Anbieter resultieren.
 
 
 ## Anlage 2 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004201123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -2236,6 +2277,7 @@ Anbieter resultieren.
 
 
 ## Anlage 3 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004301123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -2245,6 +2287,7 @@ Anbieter resultieren.
 
 
 ## Anlage 4 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004401123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -2254,6 +2297,7 @@ Anbieter resultieren.
 
 
 ## Anlage 5 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004505123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -3567,6 +3611,7 @@ eine Vertragsstrafe von 100 Euro berechnet.
 
 
 ## Anlage 6 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004602123)
 
 (Fundstelle: BAnz AT 29.10.2021 V 2)
 
@@ -3702,6 +3747,7 @@ Ermessen des Mauterhebers anteilig zu entrichten.
 
 
 ## Anlage 7 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004702123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -4047,6 +4093,7 @@ Ermessen des Mauterhebers anteilig zu entrichten.
 
 
 ## Anlage 8 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE004801123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -4056,6 +4103,7 @@ Ermessen des Mauterhebers anteilig zu entrichten.
 
 
 ## Anlage 9 zum EETS-Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_ii/BJNR608630018.html#BJNR608630018BJNE005103123)
 
 (Fundstelle: BGBl. 2025 I Nr. 244, S. 5 – 12)
 

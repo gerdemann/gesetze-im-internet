@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb92018__160abs3ua_wmvo_39abs4s6uabek/BJNR634600024.html#BJNR634600024BJNE000100000)
 
 
 1.  Gemäß § 160 Absatz 3 des Neunten Buches Sozialgesetzbuch (SGB IX)
@@ -149,6 +150,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb92018__160abs3ua_wmvo_39abs4s6uabek/BJNR634600024.html#BJNR634600024BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

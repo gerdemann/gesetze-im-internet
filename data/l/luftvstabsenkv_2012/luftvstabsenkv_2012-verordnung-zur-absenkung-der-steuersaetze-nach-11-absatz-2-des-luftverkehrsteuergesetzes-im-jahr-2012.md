@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2012/BJNR273200011.html#BJNR273200011BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes vom 9.
 Dezember 2010 (BGBl. I S. 1885) verordnet das Bundesministerium der
@@ -28,6 +29,7 @@ Technologie:
 
 
 ## § 1 Steuersätze 2012
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2012/BJNR273200011.html#BJNR273200011BJNE000200000)
 
 Als Folge der Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten werden die Steuersätze des § 11
@@ -65,6 +67,7 @@ Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2012/BJNR273200011.html#BJNR273200011BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 

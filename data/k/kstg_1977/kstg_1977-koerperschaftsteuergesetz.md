@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000106301)
 
 
 
 ### § 1 Unbeschränkte Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE001415123)
 
 (1) Unbeschränkt körperschaftsteuerpflichtig sind die folgenden
 Körperschaften, Personenvereinigungen und Vermögensmassen, die ihre
@@ -106,6 +108,7 @@ Bundesrepublik Deutschland zustehende Anteil
 
 
 ### § 1a Option zur Körperschaftsbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE010402123)
 
 (1)
 1Auf unwiderruflichen Antrag sind für Zwecke der Besteuerung nach dem
@@ -264,6 +267,7 @@ eine Körperschaft.
 
 
 ### § 2 Beschränkte Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE001508301)
 
 Beschränkt körperschaftsteuerpflichtig sind
 
@@ -305,6 +309,7 @@ Beschränkt körperschaftsteuerpflichtig sind
 
 
 ### § 3 Abgrenzung der Steuerpflicht bei Personenvereinigungen und nicht rechtsfähigen Vermögensmassen sowie bei Realgemeinden
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE001607123)
 
 (1) Personenvereinigungen, nicht rechtsfähige Anstalten, Stiftungen
 und andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr
@@ -322,6 +327,7 @@ versteuern.
 
 
 ### § 4 Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE001707140)
 
 (1)
 1Betriebe gewerblicher Art von juristischen Personen des öffentlichen
@@ -372,6 +378,7 @@ zusammengefasst werden.
 
 
 ### § 5 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE007147123)
 
 (1) Von der Körperschaftsteuer sind befreit
 
@@ -855,6 +862,7 @@ Körperschaftsteuergesetz gelten nicht
 
 
 ### § 6 Einschränkung der Befreiung von Pensions-, Sterbe-, Kranken- und Unterstützungskassen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE001907116)
 
 (1) Übersteigt am Schluss des Wirtschaftsjahrs, zu dem der Wert der
 Deckungsrückstellung versicherungsmathematisch zu berechnen ist, das
@@ -939,20 +947,24 @@ bezeichneten Betrag übersteigt.
 
 
 ### § 6a Einkommensermittlung bei voll steuerpflichtigen Unterstützungskassen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE009000116)
 
 Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6
 Absatz 5 Satz 2 und Absatz 5a entsprechend anzuwenden.
 
 
 ## Zweiter Teil - Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000206301)
 
 
 
 ### Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000306301)
 
 
 
 #### § 7 Grundlagen der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002010301)
 
 (1) Die Körperschaftsteuer bemisst sich nach dem zu versteuernden
 Einkommen.
@@ -983,6 +995,7 @@ Einvernehmen mit dem Finanzamt vorgenommen wird.
 
 
 #### § 8 Ermittlung des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002124123)
 
 (1)
 1Was als Einkommen gilt und wie das Einkommen zu ermitteln ist,
@@ -1150,6 +1163,7 @@ anzuwenden.
 
 
 #### § 8a Betriebsausgabenabzug für Zinsaufwendungen bei Körperschaften (Zinsschranke)
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE007312123)
 
 (1)
 1§ 4h Abs. 1 Satz 2 des Einkommensteuergesetzes ist mit der Maßgabe
@@ -1192,6 +1206,7 @@ Person auslösen.
 
 
 #### § 8b Beteiligung an anderen Körperschaften und Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE010202123)
 
 (1)
 1Bezüge im Sinne des § 20 Abs. 1 Nr. 1, 2, 9 und 10 Buchstabe a des
@@ -1419,6 +1434,7 @@ Unterstützungskassen.
 
 
 #### § 8c Verlustabzug bei Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008818123)
 
 (1)
 1Werden innerhalb von fünf Jahren mittelbar oder unmittelbar mehr als
@@ -1527,6 +1543,7 @@ Absatzes 1 ergeben.
 
 
 #### § 8d Fortführungsgebundener Verlustvortrag
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE009105123)
 
 
 (1)
@@ -1604,6 +1621,7 @@ stillen Reserven entsprechend.
 
 
 #### § 9 Abziehbare Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002227123)
 
 (1)
 1Abziehbare Aufwendungen sind auch:
@@ -1743,6 +1761,7 @@ Einkommensteuergesetzes gilt entsprechend.
 
 
 #### § 10 Nichtabziehbare Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002310123)
 
 Nichtabziehbar sind auch:
 
@@ -1777,6 +1796,7 @@ Nichtabziehbar sind auch:
 
 
 #### § 11 Auflösung und Abwicklung (Liquidation)
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002408301)
 
 (1)
 1Wird ein unbeschränkt Steuerpflichtiger im Sinne des § 1 Abs. 1 Nr. 1
@@ -1818,6 +1838,7 @@ sinngemäß anzuwenden.
 
 
 #### § 12 Entstrickungs- und Wegzugsbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE010500123)
 
 (1)
 1Wird bei der Körperschaft, Personenvereinigung oder Vermögensmasse
@@ -1859,6 +1880,7 @@ Vermögensmasse zuzuordnen ist, entsprechend.
 
 
 #### § 13 Beginn und Erlöschen einer Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002612123)
 
 (1) Wird eine steuerpflichtige Körperschaft, Personenvereinigung oder
 Vermögensmasse von der Körperschaftsteuer befreit, so hat sie auf den
@@ -1902,10 +1924,12 @@ Anteile als Anschaffungskosten der Anteile.
 
 
 ### Zweites Kapitel - Sondervorschriften für die Organschaft
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000406301)
 
 
 
 #### § 14 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien als Organgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002720123)
 
 (1)
 1Verpflichtet sich eine Europäische Gesellschaft, Aktiengesellschaft
@@ -2082,6 +2106,7 @@ Organgesellschaft verbunden werden.
 
 
 #### § 15 Ermittlung des Einkommens bei Organschaft
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE010102123)
 
 1Bei der Ermittlung des Einkommens bei Organschaft gilt abweichend von
 den allgemeinen Vorschriften Folgendes:
@@ -2197,6 +2222,7 @@ Satz 3 des Investmentsteuergesetzes beim Organträger Anwendung.
 
 
 #### § 16 Ausgleichszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE002909301)
 
 1Die Organgesellschaft hat ihr Einkommen in Höhe von 20/17 der
 geleisteten Ausgleichszahlungen selbst zu versteuern.
@@ -2206,6 +2232,7 @@ an Stelle des Organträgers zu versteuern.
 
 
 #### § 17 Andere Kapitalgesellschaften als Organgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003010118)
 
 (1)
 1Die §§ 14 bis 16 gelten entsprechend, wenn eine andere als die in §
@@ -2232,9 +2259,11 @@ im Sinne des § 14 abzuführen.
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003108140)
 
 
 #### § 19 Steuerabzug bei dem Organträger
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003207118)
 
 (1) Sind bei der Organgesellschaft die Voraussetzungen für die
 Anwendung besonderer Tarifvorschriften erfüllt, die einen Abzug von
@@ -2269,10 +2298,12 @@ Einkommensteuer der Gesellschafter anzurechnen.
 
 
 ### Drittes Kapitel - Sondervorschriften für Versicherungen und Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000509377)
 
 
 
 #### § 20 Schwankungsrückstellungen, Schadenrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003311116)
 
 (1)
 1Für die Bildung der Rückstellungen zum Ausgleich des schwankenden
@@ -2315,6 +2346,7 @@ Finanzdienstleistungsaufsicht entsprechend anzuwenden.
 
 
 #### § 21 Beitragsrückerstattungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003413123)
 
 (1)
 1Aufwendungen für Beitragsrückerstattungen und Direktgutschriften, die
@@ -2372,6 +2404,7 @@ anzuwenden.
 
 
 #### § 21a Deckungsrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE007806116)
 
 (1)
 1§ 6 Abs. 1 Nr. 3a Buchstabe e des Einkommensteuergesetzes ist von
@@ -2399,10 +2432,12 @@ entsprechend verfahren.
 
 
 ### Viertes Kapitel - Sondervorschriften für Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000606301)
 
 
 
 #### § 22 Genossenschaftliche Rückvergütung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003507123)
 
 (1)
 1Rückvergütungen der Genossenschaften an ihre Mitglieder sind nur
@@ -2451,10 +2486,12 @@ Rückvergütungen zu behandeln.
 
 
 ## Dritter Teil - Tarif, Besteuerung bei ausländischen Einkunftsteilen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG000706301)
 
 
 
 ### § 23 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003615123)
 
 (1) Die Körperschaftsteuer beträgt für
 
@@ -2485,6 +2522,7 @@ oder erhöht sich die Körperschaftsteuer entsprechend.
 
 
 ### § 24 Freibetrag für bestimmte Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003710123)
 
 1Vom Einkommen der steuerpflichtigen Körperschaften,
 Personenvereinigungen oder Vermögensmassen ist ein Freibetrag von
@@ -2510,6 +2548,7 @@ Personenvereinigungen oder Vermögensmassen ist ein Freibetrag von
 
 
 ### § 25 Freibetrag für Genossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003811123)
 
 (1)
 1Vom Einkommen der steuerpflichtigen Genossenschaften sowie der
@@ -2552,6 +2591,7 @@ Tierhaltung im Sinne des § 13b des Einkommensteuergesetzes betreiben.
 
 
 ### § 26 Steuerermäßigung bei ausländischen Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE003921377)
 
 (1)
 1Für die Anrechnung einer der deutschen Körperschaftsteuer
@@ -2594,10 +2634,12 @@ Europäischen Union nicht besteuert werden.
 
 
 ## Vierter Teil - Nicht in das Nennkapital geleistete Einlagen und Entstehung und Veranlagung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG001301301)
 
 
 
 ### § 27 Nicht in das Nennkapital geleistete Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE007909123)
 
 (1)
 1Die unbeschränkt steuerpflichtige Kapitalgesellschaft hat die nicht
@@ -2742,6 +2784,7 @@ des § 20 Absatz 1 Nummer 1 oder 9 des Einkommensteuergesetzes führen.
 
 
 ### § 28 Umwandlung von Rücklagen in Nennkapital und Herabsetzung des Nennkapitals
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008003301)
 
 (1)
 1Wird das Nennkapital durch Umwandlung von Rücklagen erhöht, so gilt
@@ -2781,6 +2824,7 @@ entsprechend.
 
 
 ### § 29 Kapitalveränderungen bei Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008105123)
 
 (1) In Umwandlungsfällen im Sinne des § 1 des Umwandlungsgesetzes gilt
 das Nennkapital der übertragenden Kapitalgesellschaft und bei
@@ -2841,6 +2885,7 @@ Vermögensübergangs.
 
 
 ### § 30 Entstehung der Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE006108301)
 
 Die Körperschaftsteuer entsteht
 
@@ -2862,6 +2907,7 @@ Die Körperschaftsteuer entsteht
 
 
 ### § 31 Steuererklärungspflicht, Veranlagung und Erhebung von Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE006216123)
 
 (1)
 1Auf die Durchführung der Besteuerung einschließlich der Anrechnung,
@@ -2894,6 +2940,7 @@ endet.
 
 
 ### § 32 Sondervorschriften für den Steuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE006321123)
 
 (1) Die Körperschaftsteuer für Einkünfte, die dem Steuerabzug
 unterliegen, ist durch den Steuerabzug abgegolten,
@@ -3140,6 +3187,7 @@ des Einkommensteuergesetzes sind entsprechend anzuwenden.
 
 
 ### § 32a Erlass, Aufhebung oder Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung oder verdeckter Einlage
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008700301)
 
 (1)
 1Soweit gegenüber einer Körperschaft ein Steuerbescheid hinsichtlich
@@ -3165,10 +3213,12 @@ werden.
 
 
 ## Fünfter Teil - Ermächtigungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG001401301)
 
 
 
 ### § 33 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE006615123)
 
 (1) Die Bundesregierung wird ermächtigt, zur Durchführung dieses
 Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
@@ -3281,6 +3331,7 @@ Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 
 ### § 34 Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE010308123)
 
 (1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen
 nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum
@@ -3763,6 +3814,7 @@ anzuwenden.
 
 
 ### § 35 Sondervorschriften für Körperschaften, Personenvereinigungen oder Vermögensmassen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE006906301)
 
 Soweit ein Verlust einer Körperschaft, Personenvereinigung oder
 Vermögensmasse, die am 31. Dezember 1990 ihre Geschäftsleitung oder
@@ -3778,10 +3830,12 @@ Einlagekonto zu erhöhen.
 
 
 ## Sechster Teil - Sondervorschriften für den Übergang vom Anrechnungsverfahren zum Halbeinkünfteverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNG001501301)
 
 
 
 ### § 36 Endbestände
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008605301)
 
 (1) Auf den Schluss des letzten Wirtschaftsjahrs, das in dem
 Veranlagungszeitraum endet, für den das Körperschaftsteuergesetz in
@@ -3875,6 +3929,7 @@ das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
 
 
 ### § 37 Körperschaftsteuerguthaben und Körperschaftsteuerminderung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008208140)
 
 (1)
 1Auf den Schluss des Wirtschaftsjahrs, das dem in § 36 Abs. 1
@@ -4031,6 +4086,7 @@ leisten.
 
 
 ### § 38 Körperschaftsteuererhöhung
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008308118)
 
 (1)
 1Ein positiver Endbetrag im Sinne des § 36 Abs. 7 aus dem Teilbetrag
@@ -4174,6 +4230,7 @@ Union unbeschränkt steuerpflichtig wird.
 
 
 ### § 39 Einlagen der Anteilseigner und Sonderausweis
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008403301)
 
 (1) Ein sich nach § 36 Abs. 7 ergebender positiver Endbetrag des
 Teilbetrags im Sinne des § 30 Abs. 2 Nr. 4 des
@@ -4190,6 +4247,7 @@ Satz 3 einbezogen.
 
 
 ### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html#BJNR025990976BJNE008505301)
 
 -
 

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000211125)
 
 (1) Nach diesem Gesetz werden folgende Ansprüche beigetrieben, soweit
 sie von Justizbehörden des Bundes einzuziehen sind:
@@ -120,6 +121,7 @@ durch Rechtsverordnung auf die Landesjustizverwaltung übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000304311)
 
 (1) Die Beitreibung obliegt in den Fällen des § 1 Absatz 1 Nummer 1
 bis 3 den nach den Verfahrensgesetzen für die Vollstreckung dieser
@@ -152,6 +154,7 @@ Vollstreckungsmaßnahmen nicht.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000402311)
 
 Zustellungen sind nur erforderlich, soweit dies besonders bestimmt
 ist. Sie werden sinngemäß nach den Vorschriften der
@@ -160,6 +163,7 @@ Gericht vorbehaltenen Anordnungen trifft die Vollstreckungsbehörde.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000501311)
 
 Die Vollstreckung kann gegen jeden durchgeführt werden, der nach den
 für den beizutreibenden Anspruch geltenden besonderen Vorschriften
@@ -171,6 +175,7 @@ in das belastete Grundstück vollstreckt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000601311)
 
 (1) Die Vollstreckung darf erst beginnen, wenn der beizutreibende
 Anspruch fällig ist. In den Fällen des § 1 Absatz 1 Nummer 8 und 9
@@ -189,6 +194,7 @@ werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000716125)
 
 (1) Für die Vollstreckung gelten nach Maßgabe der Absätze 2 bis 4
 folgende Vorschriften sinngemäß:
@@ -275,6 +281,7 @@ Identifikationsnummer nach § 139b der Abgabenordnung, abzurufen, wenn
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000803311)
 
 Die Abnahme der Vermögensauskunft beantragt die Vollstreckungsbehörde
 bei dem zuständigen Gerichtsvollzieher; die Vollstreckung in
@@ -287,6 +294,7 @@ Vermögensverzeichnisse zu Vollstreckungszwecken abrufen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE000901311)
 
 (1) Einwendungen, die den beizutreibenden Anspruch selbst, die Haftung
 für den Anspruch oder die Verpflichtung zur Duldung der Vollstreckung
@@ -316,6 +324,7 @@ Vollstreckung stattgefunden hat.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE001001311)
 
 (1) Werden Einwendungen gegen die Vollstreckung erhoben, so kann die
 Vollstreckungsbehörde die Vollstreckungsmaßnahmen einstweilen
@@ -327,6 +336,7 @@ die Zahlung oder Stundung der Schuld nachgewiesen wird.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE001203311)
 
 (1) Bei der Pfändung von Forderungen oder anderen Vermögensrechten
 gelten die Vorschriften des Gerichtskostengesetzes sinngemäß.
@@ -336,4 +346,5 @@ des Gerichtsvollzieherkostengesetzes sinngemäß.
 
 
 ## § 11 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/jbeitro/BJNR002980937.html#BJNR002980937BJNE001403311)
 

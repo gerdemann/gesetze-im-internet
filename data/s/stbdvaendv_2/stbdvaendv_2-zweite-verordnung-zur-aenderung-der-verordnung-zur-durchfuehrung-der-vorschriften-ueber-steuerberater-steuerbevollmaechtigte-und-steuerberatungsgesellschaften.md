@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stbdv_ndv_2/BJNR116800996.html#BJNR116800996BJNE000100310)
 
 Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der
 Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735), der zuletzt
@@ -28,11 +29,13 @@ Bundessteuerberaterkammer:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/stbdv_ndv_2/BJNR116800996.html#BJNR116800996BJNE000200310)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/stbdv_ndv_2/BJNR116800996.html#BJNR116800996BJNE000300310)
 
 (1) Auf Bewerber, die die Zulassung zur Prüfung vor Inkrafttreten
 dieser Verordnung beantragt haben, sind die bisherigen Vorschriften
@@ -50,11 +53,13 @@ entsprechenden Berufshaftpflichtversicherung nachzuweisen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/stbdv_ndv_2/BJNR116800996.html#BJNR116800996BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stbdv_ndv_2/BJNR116800996.html#BJNR116800996BJNE000500310)
 
 Der Bundesrat hat zugestimmt.
 

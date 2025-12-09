@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE000600308)
 
 Die Reichsregierung und die Regierungen der Länder Preußen, Bayern,
 Sachsen, Württemberg, Baden, Hessen, Hamburg, Mecklenburg-Schwerin,
@@ -28,10 +29,12 @@ gesetzgebenden Körperschaften den nachstehenden Vertrag:
 
 
 ## I. - Gegenstand des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNG000100308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE000700308)
 
 1\. Am 1. April 1921 gehen auf das Reich über
 
@@ -73,6 +76,7 @@ Anerkennung des Reichs bedürfen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE000800308)
 
 Das dem Reich zustehende Eigentum unterliegt folgenden
 Einschränkungen:
@@ -105,6 +109,7 @@ c)  Soweit die auf Grund dieses Vertrags auf das Reich übergehenden
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE000900308)
 
 1\. Die Wasserkräfte, die aus den an das Reich übergehenden
 Wasserstraßen zu gewinnen sind, fallen ihm zu. Jedoch verbleiben die
@@ -123,6 +128,7 @@ Reich und Land neu vereinbart wird.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001000308)
 
 1\. Grundstücke der Länder, die bisher ausschließlich für die
 Verwaltung der auf das Reich übergehenden Wasserstraßen oder anderer
@@ -161,6 +167,7 @@ ganz oder teilweise aufkündigen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001100308)
 
 Das Reich tritt in die öffentlich-rechtlichen und in die
 privatrechtlichen Verträge der Länder ein, soweit sie Rechte und
@@ -171,10 +178,12 @@ Länder.
 
 
 ## II. - Finanzielle Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNG000200308)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001200308)
 
 1\. Als Abfindung für die Übertragung der nach den Bestimmungen dieses
 Vertrags auf das Reich übergehenden Gegenstände gewährt das Reich den
@@ -209,6 +218,7 @@ Reich und den Ländern vorbehalten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001300308)
 
 Die für die endgültige Abfindung maßgebenden Beträge werden gemeinsam
 festgestellt werden, wenn die Rechnungsergebnisse für die Zeit bis zum
@@ -217,6 +227,7 @@ Schätzung ermittelt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001400308)
 
 1\. Die nach § 6 an die Länder zu zahlende Abfindung ist frei von
 Steuern und Abgaben des Reichs.
@@ -227,6 +238,7 @@ entnehmen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001500308)
 
 Vom 1. April 1921 an fließen alle Einnahmen dem Reich zu und werden
 alle Ausgaben vom Reich bestritten. Soweit jedoch in sinngemäßer
@@ -236,16 +248,19 @@ hat es hierbei sein Bewenden.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001600308)
 
 Die Länder werden von den Reichswasserstraßen Staatssteuern nicht
 erheben.
 
 
 ## III. - Verwaltung der Reichswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNG000300308)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001700308)
 
 Die Verwaltungszuständigkeiten der Landeszentralbehörden hinsichtlich
 des Baues, der Unterhaltung, des Betriebs und der Verwaltung der auf
@@ -261,6 +276,7 @@ Reichsverfassung steht vom 1. April 1921 an dem Reich zu.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001800308)
 
 Bei der Ausübung der Verwaltung nach § 11 gelten folgende
 Bestimmungen:
@@ -322,6 +338,7 @@ e)  Falls der Staatsgerichtshof auf Antrag des Reichs entscheiden sollte,
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE001900308)
 
 Unbeschadet der einheitlichen Verwaltung der Reichswasserstraßen wird
 das Reich die Eigenart der einzelnen Flußgebiete unter Beobachtung des
@@ -335,6 +352,7 @@ Ausgleich herbeiführen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002000308)
 
 Auf Antrag der Landesregierung wird das Reich den
 Reichswasserstraßenbehörden oder einzelnen Beamten gegen angemessene
@@ -344,6 +362,7 @@ Geschäfte sind die Anweisungen der obersten Landesbehörde maßgebend.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002100308)
 
 Die Gesetze und Verordnungen der Länder bleiben unbeschadet der
 Bestimmungen der Reichsverfassung bis zu einer anderweiten
@@ -351,6 +370,7 @@ reichsgesetzlichen Regelung in Kraft.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002200308)
 
 Das Reich wird die Untertunnelung der Wasserstraßen sowie die Führung
 von Leitungen für die öffentliche Versorgung mit Gas, Wasser und
@@ -362,6 +382,7 @@ Anerkennungsgebühren sollen hierfür nicht erhoben werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002300308)
 
 Das Reich wird die Gebühren und Abgaben für die Benutzung der
 Wasserstraßen mit tunlichster Schonung bestehender Verhältnisse
@@ -373,6 +394,7 @@ wird und daß die Häfen im Wettbewerb des Weltverkehrs bestehen können.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002400308)
 
 1\. Das Reich ist verpflichtet, die von den Ländern begonnenen Bauten
 an den übergehenden Wasserstraßen fortzuführen, soweit das Bedürfnis
@@ -384,6 +406,7 @@ Zusammenstellung - Anlage B - enthaltenen Bauausführungen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002500308)
 
 Das Reich wird den Bau neuer, dem allgemeinen Verkehr dienenden
 Wasserstraßen sowie den Um- und Ausbau der bestehenden Anlagen nach
@@ -392,6 +415,7 @@ der verfügbaren Mittel ausführen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002600308)
 
 Das Reich wird bei der Vergebung von Lieferungen und Arbeiten für die
 Reichswasserstraßen die Unternehmer im gesamten Reichsgebiet nach
@@ -402,14 +426,17 @@ herangezogen und in ihrer Entwicklung gefördert werden.
 
 
 ## IV. - ...
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNG000400308)
 
 
 
 ## V. - Schluß- und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNG000500308)
 
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002700308)
 
 1\. Die Vertragschließenden sind darüber einig, daß dieser Vertrag den
 Übergang der Wasserstraßen nur vorläufig und nicht vollständig regelt
@@ -426,6 +453,7 @@ Reich und das beteiligte Land je 2 Beisitzer.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002800308)
 
 1\. Das Reich wird die auf das Reichsverkehrsministerium übergehenden
 Akten der Landeszentralbehörden diesen zwecks Führung der
@@ -440,6 +468,7 @@ zu vereinbaren.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE002900308)
 
 Sofern nicht alle Länder, deren Wasserstraßen nach Artikel 97 der
 Reichsverfassung auf das Reich übergehen, diesem Vertrage beitreten,
@@ -454,6 +483,7 @@ zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den
 Ländern auf das Reich
 
 ### Anlage A Verzeichnis der auf das Reich übergehenden Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE003000308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
@@ -2149,6 +2179,7 @@ zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den
 Ländern auf das Reich
 
 ### Anlage B Nachweisung der begonnenen Bauten
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtr/BJNR009620921.html#BJNR009620921BJNE003100308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 

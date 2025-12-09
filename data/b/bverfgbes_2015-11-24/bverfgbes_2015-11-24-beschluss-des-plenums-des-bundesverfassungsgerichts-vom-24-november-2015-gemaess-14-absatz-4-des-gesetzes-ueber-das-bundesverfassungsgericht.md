@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_2015-11-24/BJNR011800016.html#BJNR011800016BJNE000100000)
 
 Das Plenum des Bundesverfassungsgerichts hat am 24. November 2015
 gemäß § 14 Absatz 4 des Gesetzes über das Bundesverfassungsgericht in
@@ -30,6 +31,7 @@ I S. 1474) geändert worden ist, beschlossen:
 
 
 ## A.
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_2015-11-24/BJNR011800016.html#BJNR011800016BJNE000209377)
 
 Mit Wirkung vom 1. Januar 2025 ist abweichend von § 14 Absatz 1 bis 3
 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des
@@ -243,6 +245,7 @@ IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
 
 
 ## B.
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_2015-11-24/BJNR011800016.html#BJNR011800016BJNE000303377)
 
 Im Verfassungsbeschwerdeverfahren bestimmt sich der maßgebliche
 Rechtsbereich anhand des Verfahrensgegenstands des dem angegriffenen
@@ -252,6 +255,7 @@ Senat zugewiesen ist.
 
 
 ## C.
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_2015-11-24/BJNR011800016.html#BJNR011800016BJNE000403377)
 
 Am 31. Dezember 2024 anhängige Verfahren aus dem Rechtsbereich des
 Rechts des Versicherungswesens (A. I. Ziffer 10), des

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Zweck der Statistik, Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000100000)
 
 (1) Die in diesem Gesetz geregelte statistische Erhebung dient
 
@@ -40,6 +41,7 @@ Fundstelle
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -82,6 +84,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Erhebungseinheiten, Erhebungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000300000)
 
 (1) Erhebungseinheiten sind rechtliche Einheiten, bei denen es sich um
 Marktproduzenten handelt und bei denen die Zahl der Lohn- und
@@ -103,6 +106,7 @@ Fassung genannten Wirtschaftszweige.
 
 
 ## § 4 Periodizität und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000400000)
 
 (1) Die Erhebung wird dreijährlich durchgeführt.
 
@@ -113,6 +117,7 @@ und 2023.
 
 
 ## § 5 Art und Umfang der Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000500000)
 
 (1) Die Erhebung wird als Stichprobenerhebung durchgeführt. Die
 Erhebungseinheiten werden nach mathematisch-statistischen Verfahren
@@ -127,6 +132,7 @@ Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.
 
 
 ## § 6 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000600000)
 
 (1) Erhebungsmerkmale sind die Merkmale zu dem Thema „globale
 Wertschöpfungsketten“ nach der Verordnung (EU) 2019/2152 in der
@@ -152,6 +158,7 @@ bereit. Das Statistische Bundesamt informiert dabei insbesondere über
 
 
 ## § 7 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000700000)
 
 Hilfsmerkmale sind
 
@@ -166,6 +173,7 @@ Hilfsmerkmale sind
 
 
 ## § 8 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000800000)
 
 Für die Erhebung besteht Auskunftspflicht. Auskunftspflichtig sind die
 Inhaber und Inhaberinnen oder die Leiter und Leiterinnen der
@@ -174,6 +182,7 @@ Nummer 2 ist freiwillig.
 
 
 ## § 9 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE000900000)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen den obersten Bundes- und Landesbehörden für die Verwendung
@@ -188,11 +197,13 @@ auf regionaler Ebene.
 
 
 ## § 10 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE001000000)
 
 Die Statistik wird vom Statistischen Bundesamt durchgeführt.
 
 
 ## § 11 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gwstatg/BJNR00D0B0024.html#BJNR00D0B0024BJNE001100000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates, soweit dies

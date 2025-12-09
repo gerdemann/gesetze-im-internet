@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000100306)
 
 Auf Grund des § 55 Abs. 3 und 4 und des § 123 Abs. 1 des
 Bewertungsgesetzes in der Fassung vom 10. Dezember 1965
@@ -28,6 +29,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000200306)
 
 (1) Für die Holzarten Fichte, Kiefer und Pappel werden für die in
 Absatz 3 bestimmten Bewertungsgebiete Normalwerte festgesetzt. Der
@@ -44,6 +46,7 @@ und Gemeinden ergibt sich aus der Anlage 2.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000300306)
 
 (1) Die in der Anlage 1 festgesetzten Normalwerte gelten bei der
 Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche 30 ha
@@ -255,6 +258,7 @@ festgesetzt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000400306)
 
 Die Hundertsätze für die Anteile der einzelnen Alters- oder
 Vorratsklassen an den Normalwerten werden einheitlich für alle
@@ -262,18 +266,21 @@ Bewertungsgebiete in der aus Anlage 3 zu ersehenden Höhe festgesetzt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000501301)
 
 Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten
 nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000600306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 (zu § 1 Abs. 1)
 
 ## Anlage 1 Normalwerte
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000700306)
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 806 - 814)
 **A. Vorbemerkungen**
@@ -7309,6 +7316,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 Bewertungsgebiete
 
 ## Anlage 2 Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000800306)
 
 (Fundstelle: BGBl. I 1967, 815 - 835)
 
@@ -12641,6 +12649,7 @@ Bewertungsgebiete
 
 
 ## Anlage 3 (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/bewg_55abs3_4dv/BJNR008050967.html#BJNR008050967BJNE000900306)
 
 (Fundstelle: BGBl. I 1967, 836)
 

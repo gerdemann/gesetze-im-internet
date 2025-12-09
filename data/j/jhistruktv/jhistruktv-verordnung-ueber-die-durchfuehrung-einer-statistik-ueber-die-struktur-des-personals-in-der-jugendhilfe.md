@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000100304)
 
 Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für
 Bundeszwecke vom 3. September 1953 (Bundesgesetzbl. I S. 1314),
@@ -28,6 +29,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000200304)
 
 Auf dem Gebiet der Jugendhilfe wird eine Bundesstatistik über die
 Struktur des Personals nach dem Stand vom 1. November 1974
@@ -35,6 +37,7 @@ durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000300304)
 
 Die Statistik erfaßt bei den Trägern der öffentlichen und der freien
 Jugendhilfe sowie den sonstigen öffentlich-rechtlichen und den
@@ -58,6 +61,7 @@ privaten gewerblichen Trägern von Jugendhilfeeinrichtungen
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000400304)
 
 Auskunftspflichtig nach § 10 des Gesetzes über die Statistik für
 Bundeszwecke sind
@@ -76,6 +80,7 @@ Bundeszwecke sind
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000500304)
 
 (1) Statistische Meldestellen für die Erhebung nach § 2 sind die
 Jugendämter für die in ihrem örtlichen Zuständigkeitsbereich
@@ -92,6 +97,7 @@ Statistischen Ämter der Länder weiterzuleiten.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000600304)
 
 Die Weiterleitung von Einzelangaben über die nach § 2 erfaßten
 Tatbestände durch die Statistischen Ämter an die fachlich zuständigen
@@ -101,6 +107,7 @@ Personen ist zugelassen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000700304)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 17 des
@@ -108,6 +115,7 @@ Gesetzes über die Statistik für Bundeszwecke auch im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/jhistruktv/BJNR020840974.html#BJNR020840974BJNE000800304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

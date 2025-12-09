@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000700000)
 
 Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom
 7\. August 1996 (BGBl. I S. 1246), der durch Artikel 210 Nr. 1 der
@@ -30,12 +31,14 @@ Bundesministerium des Innern:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000100000)
 
 Diese Verordnung gilt für den Geschäftsbereich des Bundesministeriums
 der Verteidigung.
 
 
 ## § 2 Pflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000200000)
 
 Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium
 der Verteidigung, ist verpflichtet, die Zielsetzung des § 1 Abs. 1
@@ -47,6 +50,7 @@ Vorschriften des Arbeitsschutzgesetzes möglich ist.
 
 
 ## § 3 Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000300000)
 
 Tätigkeiten im Sinne dieser Verordnung üben Beschäftigte in
 Dienststellen der Bundeswehr im Rahmen der diesen nach dem Grundgesetz
@@ -78,6 +82,7 @@ aus.
 
 
 ## § 4 Voraussetzungen für ein Abweichen von Vorschriften des Arbeitsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000400000)
 
 (1) Soweit öffentliche Belange dies zwingend erfordern, insbesondere
 zur Aufrechterhaltung oder Wiederherstellung der äußeren Sicherheit
@@ -95,6 +100,7 @@ den Dienststellenleiter, festgestellt.
 
 
 ## § 5 Gewährleistung der Sicherheit und des Gesundheitsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000500000)
 
 (1) Die bei Abweichen von Vorschriften des Arbeitsschutzgesetzes zu
 treffenden Schutzvorkehrungen müssen einen den Umständen nach
@@ -135,6 +141,7 @@ berücksichtigen. Die Entscheidung ist regelmäßig zu dokumentieren.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmvg-arbschganwv/BJNR185000002.html#BJNR185000002BJNE000600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

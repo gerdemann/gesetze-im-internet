@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000105124)
 
 
 *    *   §  1
@@ -180,6 +181,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000203124)
 
 (1) Diese Verordnung regelt die Beförderung gefährlicher Güter mit
 Seeschiffen. Für die Beförderung gefährlicher Güter mit Seeschiffen
@@ -211,6 +213,7 @@ Sicherheitsvorschriften.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000304124)
 
 (1) Die nachfolgenden Begriffe werden im Sinne dieser Verordnung wie
 folgt verwendet:
@@ -402,6 +405,7 @@ folgt verwendet:
 
 
 ## § 3 Zulassung zur Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000402124)
 
 (1) Gefährliche Güter dürfen zur Beförderung auf Seeschiffen im
 Geltungsbereich dieser Verordnung nur übergeben, nur auf Seeschiffe
@@ -569,6 +573,7 @@ englische Übersetzung beizufügen.
 
 
 ## § 4 Allgemeine Sicherheitspflichten, Überwachung, Ausrüstung, Unterweisung
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000504124)
 
 (1) Die an der Beförderung gefährlicher Güter mit Seeschiffen
 Beteiligten haben die nach Art und Ausmaß der vorhersehbaren Gefahren
@@ -679,6 +684,7 @@ sind die Aufzeichnungen unverzüglich zu löschen.
 
 
 ## § 5 Verladung gefährlicher Güter
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000602124)
 
 (1) Vor der Verladung gefährlicher Güter sind Stauanweisungen unter
 Beachtung der anwendbaren Stau- und Trennvorschriften nach den
@@ -694,6 +700,7 @@ im Bestimmungshafen noch vorhanden sein.
 
 
 ## § 6 Unterlagen für die Beförderung gefährlicher Güter
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000702124)
 
 (1) Für verpackte gefährliche Güter sind folgende Anforderungen zu
 erfüllen:
@@ -865,6 +872,7 @@ Prüfung vorzulegen.
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000802124)
 
 (1) Die nach Landesrecht zuständigen Behörden können in ihrem
 Zuständigkeitsbereich, die Generaldirektion Wasserstraßen und
@@ -944,6 +952,7 @@ und auf dem Seeschiff mitzuführen.
 
 
 ## § 8 Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE000902124)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur ist für
 die Durchführung dieser Verordnung in allen Fällen zuständig, in denen
@@ -953,6 +962,7 @@ abweichende Zuständigkeitsregelung getroffen ist.
 
 
 ## § 9 Zuständigkeiten der nach Landesrecht zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001003124)
 
 (1) Die nach Landesrecht zuständigen Behörden sind zuständig für die
 Überwachung der Einhaltung der Vorschriften über die Beförderung
@@ -984,6 +994,7 @@ Sondervorschrift 76 sowie Aufgaben nach Kapitel 3.3 Sondervorschrift
 
 
 ## § 10 Zuständigkeiten der durch das Bundesministerium der Verteidigung bestimmten Sachverständigen und Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001103124)
 
 (1) Neben den zuständigen Behörden des Bundes und der Länder sind für
 die Durchführung dieser Verordnung auch Dienststellen, die das
@@ -1022,6 +1033,7 @@ ausländischen Streitkräfte zuständige Behörden für
 
 
 ## § 11 Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001202124)
 
 Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
 Bundeswehr ist, soweit es sich um den militärischen Bereich handelt,
@@ -1043,6 +1055,7 @@ zuständige Behörde für Aufgaben nach
 
 
 ## § 12 Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001306124)
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung ist
 zuständige Behörde für
@@ -1186,6 +1199,7 @@ teilnehmen.
 
 
 ## § 13 Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001405124)
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist
 zuständige Behörde für
@@ -1221,12 +1235,14 @@ zuständige Behörde für
 
 
 ## § 14 Zuständigkeiten des Umweltbundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001502124)
 
 Das Umweltbundesamt ist zuständig für die Zustimmung nach
 Unterabschnitt 2.10.2.6 des IMDG-Codes.
 
 
 ## § 15 Zuständigkeiten der für die Schiffssicherheit zuständigen bundesunmittelbaren Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001602124)
 
 Die für die Schiffssicherheit zuständige bundesunmittelbare
 Berufsgenossenschaft ist zuständig für
@@ -1248,6 +1264,7 @@ Berufsgenossenschaft ist zuständig für
 
 
 ## § 16 Zuständigkeiten der Benannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001704124)
 
 (1) Die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-
 Verordnung sind zuständig für Baumusterprüfungen sowie erstmalige und
@@ -1282,6 +1299,7 @@ Eisenbahn und Binnenschifffahrt teilnehmen.
 
 
 ## § 16a Zuständigkeiten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE003002124)
 
 (1) Die Wasserstraßen- und Schifffahrtsämter sind zuständig für die
 Überwachung der Einhaltung der Vorschriften über die Beförderung
@@ -1301,6 +1319,7 @@ werden.
 
 
 ## § 17 Pflichten des Versenders
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001803124)
 
 Der Versender und der Beauftragte des Versenders
 
@@ -1416,6 +1435,7 @@ Der Versender und der Beauftragte des Versenders
 
 
 ## § 18 Pflichten des für das Packen oder Beladen einer Güterbeförderungseinheit Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE001902124)
 
 Der für das Packen oder Beladen einer Güterbeförderungseinheit jeweils
 Verantwortliche
@@ -1443,6 +1463,7 @@ Verantwortliche
 
 
 ## § 19 Pflichten des Auftraggebers des Beförderers
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002002124)
 
 Wer einen Beförderer mit der Beförderung gefährlicher Güter in
 verpackter Form mit Seeschiffen beauftragt, hat dem Beförderer vor der
@@ -1469,6 +1490,7 @@ Verladung folgende Dokumente zu übergeben oder zu übermitteln:
 
 
 ## § 20 Pflichten des für den Umschlag Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002103124)
 
 Der für den Umschlag Verantwortliche
 
@@ -1518,6 +1540,7 @@ Der für den Umschlag Verantwortliche
 
 
 ## § 21 Pflichten des Beförderers
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002203124)
 
 Der Beförderer und der Beauftragte des Beförderers
 
@@ -1582,6 +1605,7 @@ Der Beförderer und der Beauftragte des Beförderers
 
 
 ## § 22 Pflichten des Reeders
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002302124)
 
 Der Reeder
 
@@ -1610,6 +1634,7 @@ Der Reeder
 
 
 ## § 23 Pflichten des Schiffsführers
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002403124)
 
 Der Schiffsführer
 
@@ -1682,12 +1707,14 @@ Der Schiffsführer
 
 
 ## § 24 Pflichten des mit der Planung der Beladung Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002502124)
 
 Der mit der Planung der Beladung Beauftragte hat dafür zu sorgen, dass
 Stauanweisungen nach § 5 Absatz 1 festgelegt werden.
 
 
 ## § 25 Pflichten des Empfängers
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002602124)
 
 Der Empfänger hat so bald wie möglich oder im Falle einer
 Notfallexpositionssituation sofort den Versender, den Beförderer und
@@ -1698,6 +1725,7 @@ oder die Kontamination zu informieren.
 
 
 ## § 26 Pflichten mehrerer Beteiligter
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002703124)
 
 (1) Die an der Beförderung gefährlicher Güter Beteiligten haben
 entsprechend ihren Verantwortlichkeiten bei der Beförderung
@@ -1731,6 +1759,7 @@ haben dafür zu sorgen, dass die Beschäftigten
 
 
 ## § 27 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002805124)
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des
 Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1961,6 +1990,7 @@ Schifffahrt übertragen.
 
 
 ## § 28 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggvsee_2015/BJNR018210016.html#BJNR018210016BJNE002902124)
 
 (1) Bis zum 31. Dezember 2015 kann die Beförderung gefährlicher Güter
 mit Seeschiffen noch nach den Vorschriften der Gefahrgutverordnung See

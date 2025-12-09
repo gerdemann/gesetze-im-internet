@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -48,9 +49,11 @@ Es verordnen auf Grund
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000300000)
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Treibhausgas-Emissionshandelsgesetzes. Sie dient der Konkretisierung
@@ -59,6 +62,7 @@ Emissionshandelsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000400000)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -89,9 +93,11 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 Emissionsberichterstattung
 
 ## Abschnitt 2 - (Zu § 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNG000200000)
 
 
 ### § 3 Emissionsfaktor beim Einsatz flüssiger Biobrennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000501360)
 
 (1) Für den Einsatz flüssiger Biobrennstoffe zur Stromproduktion gilt
 Artikel 38 Absatz 2 Satz 1 der Monitoring-Verordnung, soweit die
@@ -162,6 +168,7 @@ Emissionsfaktors für fossile Brennstoffe zu bestimmen.
 
 
 ### § 4 Emissionsfaktor beim Einsatz von Biokraftstoffen im Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000600000)
 
 (1) Beim Einsatz von Biokraftstoffen im Luftverkehr beträgt der
 Emissionsfaktor Null, soweit die eingesetzten Biokraftstoffe die
@@ -200,6 +207,7 @@ Emissionsfaktors für fossile Treibstoffe zu bestimmen.
 
 
 ### § 5 Nachweisanforderungen für angewendete Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000700000)
 
 Soweit zur Bestimmung der Emissionen Berechnungsfaktoren verwendet
 werden, die auf Analysen basieren, gelten die Nachweisanforderungen in
@@ -209,9 +217,11 @@ Analysemethoden.
 Umtausch von Emissionsgutschriften
 
 ## Abschnitt 3 - (Zu § 18 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNG000300000)
 
 
 ### § 6 Umtauschbarkeit von Emissionsgutschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000800000)
 
 Neben den Emissionsgutschriften nach § 18 Absatz 3 des Gesetzes sind
 auch zertifizierte Emissionsreduktionen im Sinne des § 2 Nummer 21 des
@@ -229,6 +239,7 @@ Projekt-Mechanismen-Gesetzes aus Projekten umtauschbar, die
 
 
 ### § 7 Umtauschverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE000900000)
 
 Für den Umtausch von Emissionsgutschriften in Berechtigungen der
 Handelsperiode 2013 bis 2020 sind die Vorgaben der Register-Verordnung
@@ -242,9 +253,11 @@ besteht kein Anspruch auf Umtausch.
 Zertifizierung von Prüfstellen
 
 ## Abschnitt 4 - (Zu § 21 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNG000400000)
 
 
 ### § 8 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001003116)
 
 (1) Die im Handelsregister, Abteilung B des Amtsgerichts Bonn unter
 der Nummer 6946 eingetragene DAU-Deutsche Akkreditierungs- und
@@ -271,6 +284,7 @@ Entscheidung über den Widerspruch zuständig.
 
 
 ### § 9 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001100000)
 
 (1) Hinsichtlich der Anforderungen an die zu zertifizierenden
 Prüfstellen, die Zulassungsstelle und das Zertifizierungsverfahren
@@ -286,6 +300,7 @@ Verifizierungs-Verordnung.
 
 
 ### § 10 Ausschluss von der Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001200000)
 
 (1) Von der Zertifizierung als Prüfstelle sind natürliche Personen
 ausgeschlossen, die
@@ -318,6 +333,7 @@ als Prüfstelle auf.
 
 
 ### § 11 Aufsicht über die Tätigkeit der Beliehenen
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001302116)
 
 (1) Die Aufsicht über die Beliehene erstreckt sich auf die
 Rechtmäßigkeit der Zertifizierungs- und Aufsichtstätigkeit und auf die
@@ -332,6 +348,7 @@ Zertifizierungsverfahren eingehalten werden.
 
 
 ### § 12 Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001402116)
 
 (1) Die Beleihung endet mit dem Inkrafttreten einer Verordnung, durch
 die die Beleihung aufgehoben wird.
@@ -348,22 +365,27 @@ Ablauf der in Absatz 2 genannten Frist verpflichtet.
 Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle
 
 ## Abschnitt 5 - (Zu § 22 Absatz 2 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNG000600116)
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001900301)
 
 
 
 ## Abschnitt 6 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNG000501116)
 
 
 ### § 14 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001501116)
 
 Die §§ 3 und 4 gelten nicht für flüssige Biobrennstoffe oder
 Biokraftstoffe, die vor dem 1. Januar 2014 eingesetzt werden.
 
 
 ### § 15 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE001602301)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -373,5 +395,6 @@ Kraft.
 (zu § 13)
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ehv_2020/BJNR329500013.html#BJNR329500013BJNE002000301)
 
 

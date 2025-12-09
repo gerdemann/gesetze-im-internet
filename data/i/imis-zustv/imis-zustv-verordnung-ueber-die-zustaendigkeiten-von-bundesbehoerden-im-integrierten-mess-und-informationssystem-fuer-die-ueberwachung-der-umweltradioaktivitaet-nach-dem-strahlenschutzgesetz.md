@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Aufgaben des Bundesamtes für Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000100000)
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig
 
@@ -58,6 +59,7 @@ für die Aufgaben des Strahlenschutzgesetzes nach § 161 Absatz 1 Nummer
 
 
 ## § 2 Aufgaben des Deutschen Wetterdienstes
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000200000)
 
 (1) Der Deutsche Wetterdienst ist zuständig
 
@@ -102,6 +104,7 @@ Nummer 1.
 
 
 ## § 3 Aufgaben der Physikalisch-Technischen Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000300000)
 
 (1) Die Physikalisch-Technische Bundesanstalt ist im Rahmen der
 Aufgaben nach § 161 Absatz 1 Nummer 2 des Strahlenschutzgesetzes
@@ -113,6 +116,7 @@ Strahlenschutz nach § 1 Absatz 1 Nummer 1.
 
 
 ## § 4 Aufgaben des Johann Heinrich von Thünen-Instituts
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000400000)
 
 (1) Das Johann Heinrich von Thünen-Institut, Bundesinstitut für
 ländliche Räume, Wald und Fischerei, ist zuständig für die Aufgaben
@@ -130,6 +134,7 @@ zuständig.
 
 
 ## § 5 Aufgaben der Bundesanstalt für Gewässerkunde
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000500000)
 
 (1) Die Bundesanstalt für Gewässerkunde ist für die Aufgaben nach §
 161 Absatz 1 Nummer 1 Buchstabe c des Strahlenschutzgesetzes im
@@ -143,6 +148,7 @@ oberirdische Binnengewässer zuständig.
 
 
 ## § 6 Aufgaben des Bundesamtes für Seeschifffahrt und Hydrographie
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000600000)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für die
 Aufgaben nach § 161 Absatz 1 Nummer 1 Buchstabe c des
@@ -159,6 +165,7 @@ ausschließlichen Wirtschaftszone und des Festlandsockels, zuständig.
 
 
 ## § 7 Aufgaben des Max Rubner-Instituts
+[Direktlink](https://www.gesetze-im-internet.de/imis-zustv/BJNR353610017.html#BJNR353610017BJNE000700000)
 
 (1) Das Max Rubner-Institut, Bundesforschungsinstitut für Ernährung
 und Lebensmittel, ist als Leitstelle zur Überwachung der

@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die zugehörige V v. 24.1.2023 I Nr. 22 (AusbDienstLArbbV 6) tritt gem. § 2 dieser V am 31.12.2026 außer Kraft
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/BJNR0160B0023.html#BJNR0160B0023BJNE000100000)
 
 Dieser Tarifvertrag gilt
 
@@ -47,6 +48,7 @@ Dieser Tarifvertrag gilt
 
 
 ## § 2 Regelungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/BJNR0160B0023.html#BJNR0160B0023BJNE000200000)
 
 (1) Dieser Tarifvertrag regelt ausschließlich die
 Mindeststundenentgelte und den jährlichen Urlaubsanspruch. Er enthält
@@ -60,6 +62,7 @@ bleiben unberührt.
 
 
 ## § 3 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/BJNR0160B0023.html#BJNR0160B0023BJNE000300000)
 
 (1) Das Mindeststundenentgelt (brutto) beträgt in Gruppe 1
 
@@ -154,6 +157,7 @@ Arbeitsverhältnisses noch bestehen, sind abzugelten.
 
 
 ## § 4 Öffnungsklausel Altersvorsorge; Entgeltumwandlung
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/BJNR0160B0023.html#BJNR0160B0023BJNE000400000)
 
 Entsprechend der §§ 20 und 1a BetrAVG wird die Entgeltumwandlung
 zugelassen. Die Durchführung des Anspruchs der Arbeitnehmerin und des
@@ -162,6 +166,7 @@ Betriebsvereinbarung oder individualrechtlich geregelt.
 
 
 ## § 5 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/BJNR0160B0023.html#BJNR0160B0023BJNE000500000)
 
 Die Arbeitnehmer und Arbeitnehmerinnen haben unter Fortzahlung des
 Arbeitsentgelts Anspruch auf Jahresurlaub; Urlaubsjahr ist das
@@ -175,6 +180,7 @@ erhöht oder verringert sich der Urlaubsanspruch entsprechend.
 (zu § 3 Absatz 2 der Anlage)
 
 ## Anhang „Qualifikationen – Gruppe 2“ zum TV Mindestlohn pädagogisches Personal Nr. 7
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/BJNR0160B0023.html#BJNR0160B0023BJNE000600000)
 
 
 1.  Die im Folgenden aufgeführten formalen Qualifikationen (Abschlüsse)

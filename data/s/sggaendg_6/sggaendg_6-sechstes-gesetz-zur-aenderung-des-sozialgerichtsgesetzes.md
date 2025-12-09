@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## (XXXX) Art 1 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_6/BJNR214400001.html#BJNR214400001BJNE000101310)
 
 
 ## Art 17 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_6/BJNR214400001.html#BJNR214400001BJNE000200305)
 
 (1) Für einen Rechtszug, für den am Tag vor dem Inkrafttreten dieses
 Gesetzes die Gebühr fällig geworden ist oder Kosten gemäß § 192 des
@@ -39,6 +41,7 @@ zugestellt oder bekannt gegeben wurde.
 
 
 ## Art 18 Neufassung des Sozialgerichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_6/BJNR214400001.html#BJNR214400001BJNE000300305)
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Sozialgerichtsgesetzes in der beim Inkrafttreten dieses Gesetzes
@@ -46,6 +49,7 @@ geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgg_ndg_6/BJNR214400001.html#BJNR214400001BJNE000400305)
 
 ... Im Übrigen tritt dieses Gesetz am 2. Januar 2002 in Kraft.
 

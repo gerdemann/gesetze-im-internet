@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000100307)
 
 Auf Grund des § 4 Abs. 4 und des § 18 Abs. 2 und 3 des
 Kraftfahrsachverständigengesetzes vom 22. Dezember 1971
@@ -28,6 +29,7 @@ verordnet:
 
 
 ## § 1 Zweck und Durchführung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000203305)
 
 (1) Durch die Ausbildung bei einer Technischen Prüfstelle für den
 Kraftfahrzeugverkehr soll der Bewerber auf die Wahrnehmung der
@@ -89,6 +91,7 @@ Verlangen der Anerkennungsbehörde sind die Wochenberichte beizufügen.
 
 
 ## § 2 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000302308)
 
 (1) Die Prüfung ist vor einem Prüfungsausschuß abzulegen. Der
 Prüfungsausschuß wird bei der zuständigen obersten Landesbehörde oder
@@ -127,12 +130,14 @@ Prüfungsausschuß abgenommen werden.
 
 
 ## § 3 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000400307)
 
 Die Anerkennungsbehörde entscheidet über die Zulassung zur Prüfung.
 Sie beauftragt den Prüfungsausschuß mit der Durchführung der Prüfung.
 
 
 ## § 4 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000500307)
 
 (1) Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der
 Prüfung und lädt die Bewerber.
@@ -149,6 +154,7 @@ Anerkennungsbehörden können jederzeit der Prüfung beiwohnen.
 
 
 ## § 5 Teile der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000600307)
 
 Die Prüfung umfaßt einen praktischen, einen schriftlichen und einen
 mündlichen Teil. Die Reihenfolge bestimmt der Vorsitzende des
@@ -156,6 +162,7 @@ Prüfungsausschusses.
 
 
 ## § 6 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000700307)
 
 (1) Im praktischen Teil der Prüfung hat der Bewerber nachzuweisen, daß
 er Kraftfahrzeuge aller Klassen für Verbrennungsmaschinen
@@ -167,6 +174,7 @@ wird.
 
 
 ## § 7 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000800307)
 
 (1) Im schriftlichen Teil der Prüfung hat der Bewerber um die amtliche
 Anerkennung als Sachverständiger, bei dem die Anerkennung nicht auf
@@ -206,6 +214,7 @@ Hilfsmittel zulassen.
 
 
 ## § 8 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE000900307)
 
 Der mündliche Teil der Prüfung dient dem zusammenfassenden Nachweis
 des Fachwissens und der Fähigkeit, das Wissen anzuwenden; er soll in
@@ -214,6 +223,7 @@ drei Fachgebiete des schriftlichen Teils umfassen.
 
 
 ## § 9 Bewertung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001000307)
 
 (1) Der praktische Teil der Prüfung ist als bestanden oder als nicht
 bestanden zu bewerten.
@@ -257,6 +267,7 @@ bilden. Es ist nach folgenden Noten zu bewerten:
 
 
 ## § 10 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001100307)
 
 Die Gesamtprüfung ist bestanden, wenn
 
@@ -275,6 +286,7 @@ Die Gesamtprüfung ist bestanden, wenn
 
 
 ## § 11 Entscheidung über die Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001200307)
 
 (1) Über die Bewertung des praktischen Teils, der Leistungen in den
 einzelnen Fachgebieten des mündlichen und schriftlichen Teils und
@@ -309,6 +321,7 @@ innerhalb eines Jahres durchgeführt wird.
 
 
 ## § 12 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001300307)
 
 Der Vorsitzende gibt im Anschluß an die Entscheidung des
 Prüfungsausschusses dem Bewerber bekannt, ob er die Prüfung bestanden
@@ -319,6 +332,7 @@ bei der Wiederholungsprüfung angerechnet werden können.
 
 
 ## § 13 Niederschrift über die Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001400307)
 
 (1) Über das Ergebnis der Prüfung, mit Ausnahme des schriftlichen
 Prüfungsteils, ist eine Niederschrift zu fertigen. Hat der Bewerber
@@ -330,6 +344,7 @@ eine Prüfungsbescheinigung auszustellen.
 
 
 ## § 14 Wiederholungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001500307)
 
 Hat der Bewerber die Prüfung nicht bestanden, kann er sie nach
 erneuter Zulassung, frühestens nach drei Monaten, wiederholen. Besteht
@@ -339,6 +354,7 @@ wiederholen.
 
 
 ## § 15 Ausbildung und Prüfung der Bewerber bei Behörden
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001600307)
 
 Bewerber um die amtliche Anerkennung als Sachverständiger oder Prüfer
 für den Kraftfahrzeugverkehr bei Behörden nach § 16 des Gesetzes sind
@@ -347,6 +363,7 @@ auszubilden und zu prüfen.
 
 
 ## § 16 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001700307)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 23 des
@@ -354,6 +371,7 @@ Kraftfahrsachverständigengesetzes auch im Land Berlin.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001800307)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -364,6 +382,7 @@ nach der Gebührenordnung für Maßnahmen im Straßenverkehr erhoben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE001900307)
 
 Der Bundesminister für Verkehr
 
@@ -371,6 +390,7 @@ Der Bundesminister für Verkehr
 Anforderungen an amtlich anerkannte Sachverständige oder Prüfer
 
 ## Anlage 1 für den Kraftfahrzeugverkehr nach § 15 der Fahrerlaubnis-Verordnung (Fahrerlaubnisprüfungen)
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvv/BJNR008540972.html#BJNR008540972BJNE002000308)
 
 **1. Erforderliche Befähigung von Fahrerlaubnisprüfern**
 

@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE000501308)
 
 (1) Die Arbeitnehmer haben ein Mitbestimmungsrecht in den
 Aufsichtsräten und in den zur gesetzlichen Vertretung berufenen
@@ -102,6 +104,7 @@ Betriebsräte.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE000600319)
 
 Auf die in § 1 bezeichneten Unternehmen finden die Vorschriften des
 Aktiengesetzes, des Gesetzes betreffend die Gesellschaften mit
@@ -111,10 +114,12 @@ Vorschriften dieses Gesetzes widersprechen.
 
 
 ## Zweiter Teil - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNG000200319)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE000701308)
 
 (1) Betreibt eine Gesellschaft mit beschränkter Haftung ein
 Unternehmen im Sinne des § 1, so ist nach Maßgabe dieses Gesetzes ein
@@ -125,6 +130,7 @@ Vorschriften des Aktienrechts sinngemäß Anwendung.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE000800319)
 
 (1) Der Aufsichtsrat besteht aus elf Mitgliedern. Er setzt sich
 zusammen aus
@@ -164,6 +170,7 @@ Pflichten. Sie sind an Aufträge und Weisungen nicht gebunden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE000901119)
 
 Die in § 4 Abs. 1 Buchstabe a bezeichneten Mitglieder des
 Aufsichtsrats werden durch das nach Gesetz, Satzung oder
@@ -173,6 +180,7 @@ Gesellschaftsvertrags gewählt oder entsandt.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE002101126)
 
 Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des
 Aufsichtsrates eines in § 1 genannten, börsennotierten Unternehmens
@@ -185,6 +193,7 @@ Gesellschaften mit beschränkter Haftung.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001005119)
 
 (1) Unter den in § 4 Abs. 1 Buchstabe b bezeichneten Mitgliedern des
 Aufsichtsrats müssen sich zwei Arbeitnehmer befinden, die in einem
@@ -236,11 +245,13 @@ erfüllt worden sind.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001100319)
 
 -
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001200319)
 
 (1) Das in § 4 Abs. 1 Buchstabe c bezeichnete weitere Mitglied des
 Aufsichtsrats wird durch das Wahlorgan auf Vorschlag der übrigen
@@ -282,6 +293,7 @@ tätig werden, wenn wenigstens zwei Mitglieder mitwirken.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001302308)
 
 (1) Bei Gesellschaften mit einem Nennkapital von mehr als zehn
 Millionen Euro kann durch Satzung oder Gesellschaftsvertrag bestimmt
@@ -303,6 +315,7 @@ beträgt.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001401304)
 
 Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der
 Mitglieder, aus denen er nach diesem Gesetz oder der Satzung insgesamt
@@ -311,6 +324,7 @@ des Aktiengesetzes findet Anwendung.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001501304)
 
 (1) Auf die in § 5 bezeichneten Mitglieder des Aufsichtsrats findet §
 103 des Aktiengesetzes Anwendung.
@@ -330,10 +344,12 @@ erfolgen.
 
 
 ## Dritter Teil - Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNG000300319)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001601304)
 
 Die Bestellung der Mitglieder des zur gesetzlichen Vertretung
 berufenen Organs und der Widerruf ihrer Bestellung erfolgen nach
@@ -342,6 +358,7 @@ Aufsichtsrat.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001700319)
 
 (1) Als gleichberechtigtes Mitglied des zur gesetzlichen Vertretung
 berufenen Organs wird ein Arbeitsdirektor bestellt. Der
@@ -356,10 +373,12 @@ Geschäftsordnung.
 
 
 ## Vierter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNG000400319)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestg/BJNR003470951.html#BJNR003470951BJNE001901119)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Vorschriften zu erlassen über

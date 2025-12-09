@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000100314)
 
 Auf Grund des Artikels 7 Abs. 2 Nr. 1 Buchstabe e und Nr. 2 des
 Gesetzes vom 11. Februar 1977 zu den Übereinkommen vom 15. Februar
@@ -36,6 +37,7 @@ Gesetzes über Ordnungswidrigkeiten verordnet:
 
 
 ## § 1 Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000201307)
 
 (1) Über die Durchführung eines Einbringungsvorhabens sind gegenüber
 dem Bundesamt für Seeschiffahrt und Hydrographie folgende Nachweise zu
@@ -69,6 +71,7 @@ Einbringungsverfahren ordnungsgemäß durchgeführt wird.
 
 
 ## § 2 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000301307)
 
 (1) Das Bundesamt für Seeschiffahrt und Hydrographie erhebt für
 Amtshandlungen auf Grund des Gesetzes zu den Übereinkommen vom 15.
@@ -141,6 +144,7 @@ werden.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000401307)
 
 (1) Ordnungswidrig im Sinne des Artikels 10 Abs. 1 Nr. 3 des Gesetzes
 zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur
@@ -158,6 +162,7 @@ Seeschiffahrt und Hydrographie übertragen.
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000500314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 13 des Gesetzes zu den Übereinkommen vom 15.
@@ -168,11 +173,13 @@ auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000600314)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hohseeeinbrv/BJNR024780977.html#BJNR024780977BJNE000700314)
 
 Der Bundesminister für Verkehr
 

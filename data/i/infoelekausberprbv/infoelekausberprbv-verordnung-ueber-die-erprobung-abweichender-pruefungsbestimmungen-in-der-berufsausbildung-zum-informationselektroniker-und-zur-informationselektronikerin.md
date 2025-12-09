@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Struktur und Gegenstand der Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/inf_lekausberprbv/BJNR072600021.html#BJNR072600021BJNE000100000)
 
 (1) Eine nach § 33 Absatz 1, auch in Verbindung mit Absatz 2, der
 Handwerksordnung zuständige Stelle kann beschließen, dass im Hinblick
@@ -56,6 +57,7 @@ Anmeldung zur Prüfung mitzuteilen.
 
 
 ## § 2 Zeitliche Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/inf_lekausberprbv/BJNR072600021.html#BJNR072600021BJNE000200000)
 
 § 1 ist für Prüfungen anzuwenden, die bis zum Ablauf des 30. Juni 2026
 begonnen werden.

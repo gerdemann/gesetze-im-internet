@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001201310)
 
 Auf individuelle Ausbildungsförderung besteht für eine der Neigung,
 Eignung und Leistung entsprechende Ausbildung ein Rechtsanspruch nach
@@ -32,10 +33,12 @@ nicht zur Verfügung stehen.
 
 
 ## Abschnitt I - Förderungsfähige Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000101310)
 
 
 
 ### § 2 Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001317311)
 
 (1) Ausbildungsförderung wird geleistet für den Besuch von
 
@@ -170,6 +173,7 @@ als eigener Ausbildungsabschnitt.
 
 
 ### § 3 Fernunterricht
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001402310)
 
 (1) Ausbildungsförderung wird für die Teilnahme an
 Fernunterrichtslehrgängen geleistet, soweit sie unter denselben
@@ -229,12 +233,14 @@ gleichgestellt.
 
 
 ### § 4 Ausbildung im Inland
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001502310)
 
 Ausbildungsförderung wird vorbehaltlich der §§ 5 und 6 für die
 Ausbildung im Inland geleistet.
 
 
 ### § 5 Ausbildung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001618119)
 
 (1) Der ständige Wohnsitz im Sinne dieses Gesetzes ist an dem Ort
 begründet, der nicht nur vorübergehend Mittelpunkt der
@@ -334,6 +340,7 @@ Praktikum im Inland förderungsfähig wäre.
 
 
 ### § 5a Unberücksichtigte Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001708130)
 
 Bei der Leistung von Ausbildungsförderung für eine Ausbildung im
 Inland bleibt die Zeit einer Ausbildung, die der Auszubildende im
@@ -351,6 +358,7 @@ Ausland durchzuführender Teil der Ausbildung vorgeschrieben ist.
 
 
 ### § 6 Förderung der Deutschen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001802116)
 
 Deutschen im Sinne des Grundgesetzes, die ihren ständigen Wohnsitz in
 einem ausländischen Staat haben und dort oder von dort aus in einem
@@ -364,6 +372,7 @@ nicht anzuwenden.
 
 
 ### § 7 Erstausbildung, weitere Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE001919130)
 
 (1) Ausbildungsförderung wird für die weiterführende allgemeinbildende
 und zumindest für drei Schul- oder Studienjahre berufsbildender
@@ -502,10 +511,12 @@ angerechnet werden.
 
 
 ## Abschnitt II - Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000201310)
 
 
 
 ### § 8 Staatsangehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009505130)
 
 (1) Ausbildungsförderung wird geleistet
 
@@ -625,6 +636,7 @@ Ausbildungsförderung zu leisten ist, bleiben unberührt.
 
 
 ### § 9 Eignung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002101310)
 
 (1) Die Ausbildung wird gefördert, wenn die Leistungen des
 Auszubildenden erwarten lassen, dass er das angestrebte
@@ -643,6 +655,7 @@ beigebracht hat.
 
 
 ### § 10 Alter
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002207119)
 
 (1) (weggefallen)
 
@@ -701,10 +714,12 @@ aufnimmt.
 
 
 ## Abschnitt III - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000301310)
 
 
 
 ### § 11 Umfang der Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002312116)
 
 (1) Ausbildungsförderung wird für den Lebensunterhalt und die
 Ausbildung geleistet (Bedarf).
@@ -763,6 +778,7 @@ oder ähnliche Leistungen aus öffentlichen Mitteln erhalten.
 
 
 ### § 12 Bedarf für Schüler
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002420130)
 
 (1) Als monatlicher Bedarf gelten für Schüler
 
@@ -806,6 +822,7 @@ und Rückreise geleistet werden.
 
 
 ### § 13 Bedarf für Studierende
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002622130)
 
 (1) Als monatlicher Bedarf gelten für Auszubildende in
 
@@ -842,6 +859,7 @@ bestimmt.
 
 
 ### § 13a Kranken- und Pflegeversicherungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008813130)
 
 (1) Für Auszubildende, die in der gesetzlichen Krankenversicherung
 nach § 5 Absatz 1 Nummer 9 oder 10 des Fünften Buches Sozialgesetzbuch
@@ -895,6 +913,7 @@ den Sätzen 1 bis 3 gilt für Auszubildende, die die Altersgrenze des §
 
 
 ### § 14 Bedarf für Praktikanten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002702310)
 
 Als monatlicher Bedarf für Praktikanten gelten die Beträge, die für
 Schüler und Studenten der Ausbildungsstätten geleistet werden, mit
@@ -903,6 +922,7 @@ entsprechend anzuwenden.
 
 
 ### § 14a Zusatzleistungen in Härtefällen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002807116)
 
 Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates bestimmen, dass bei einer Ausbildung im Inland
@@ -945,6 +965,7 @@ werden über
 
 
 ### § 14b Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009306119)
 
 (1) Für Auszubildende, die mit mindestens einem eigenen Kind, das das
 14\. Lebensjahr noch nicht vollendet hat, in einem Haushalt leben,
@@ -962,6 +983,7 @@ Wochentagen während der regulären Betreuungszeiten erhoben wird.
 
 
 ### § 15 Förderungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE002917130)
 
 (1) Ausbildungsförderung wird vom Beginn des Monats an geleistet, in
 dem die Ausbildung aufgenommen wird, frühestens jedoch vom Beginn des
@@ -1056,6 +1078,7 @@ Studienabschluss abschließen können.
 
 
 ### § 15a Förderungshöchstdauer, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009007119)
 
 (1) Die Förderungshöchstdauer entspricht vorbehaltlich der Absätze 1a
 und 1b der Regelstudienzeit nach § 10 Absatz 2 des
@@ -1118,6 +1141,7 @@ Förderungshöchstdauer führt.
 
 
 ### § 15b Aufnahme und Beendigung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003007119)
 
 (1) Die Ausbildung gilt im Sinne dieses Gesetzes als mit dem Anfang
 des Monats aufgenommen, in dem Unterricht oder Vorlesungen tatsächlich
@@ -1155,6 +1179,7 @@ Ausbildungsstätte einer anderen Ausbildungsstättenart weiterführt.
 
 
 ### § 16 Förderungsdauer im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003111119)
 
 (1) Für eine Ausbildung im Ausland nach § 5 Absatz 2 Nummer 1 oder
 Absatz 5 wird Ausbildungsförderung längstens für die Dauer eines
@@ -1176,6 +1201,7 @@ geleistet.
 
 
 ### § 17 Förderungsarten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003212130)
 
 (1) Ausbildungsförderung wird vorbehaltlich der Absätze 2 und 3 als
 Zuschuss geleistet.
@@ -1228,6 +1254,7 @@ Förderungshöchstdauer hinaus geleistet wird.
 
 
 ### § 18 Darlehensbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003318130)
 
 (1) Für
 
@@ -1409,6 +1436,7 @@ nach Satz 1. Die Freistellung endet
 
 
 ### § 18a Einkommensabhängige Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003429130)
 
 (1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist
 des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der
@@ -1470,6 +1498,7 @@ Versorgungsbezüge.
 
 
 ### § 18b Teilerlass des Darlehens
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003520116)
 
 (1) (weggefallen)
 
@@ -1579,6 +1608,7 @@ Durchführung dieses Gesetzes erforderlich ist.
 
 
 ### § 18c Bankdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009114311)
 
 (1) Bankdarlehen der Kreditanstalt für Wiederaufbau für
 Förderungsleistungen im Sinne des § 17 Absatz 3 Satz 1 in der am 31.
@@ -1692,6 +1722,7 @@ tatsächlichen Kosten.
 
 
 ### § 18d Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009204116)
 
 (1) Die nach § 18c Absatz 10 auf den Bund übergegangenen
 Darlehensbeträge werden von der Kreditanstalt für Wiederaufbau
@@ -1724,6 +1755,7 @@ bis zum 30. Juni des folgenden Jahres den Restbetrag.
 
 
 ### § 19 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003603310)
 
 Mit einem Anspruch auf Erstattung von Ausbildungsförderung (§ 50 des
 Zehnten Buches Sozialgesetzbuch und § 20) kann gegen den Anspruch auf
@@ -1738,6 +1770,7 @@ für Bankdarlehen nach § 18c.
 
 
 ### § 20 Rückzahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003703310)
 
 (1) Haben die Voraussetzungen für die Leistung von
 Ausbildungsförderung an keinem Tage des Kalendermonats vorgelegen, für
@@ -1773,10 +1806,12 @@ aus einem von ihm zu vertretenden Grund unterbrochen hat. Die Regelung
 
 
 ## Abschnitt IV - Einkommensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000401310)
 
 
 
 ### § 21 Einkommensbegriff
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003835130)
 
 (1) Als Einkommen gilt – vorbehaltlich des Satzes 3, der Absätze 2a, 3
 und 4 – die Summe der positiven Einkünfte im Sinne des § 2 Absatz 1
@@ -1933,6 +1968,7 @@ Fassung.
 
 
 ### § 22 Berechnungszeitraum für das Einkommen des Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE003904310)
 
 (1) Für die Anrechnung des Einkommens des Auszubildenden sind die
 Einkommensverhältnisse im Bewilligungszeitraum maßgebend. Sind bei
@@ -1961,6 +1997,7 @@ des Einkommens
 
 
 ### § 23 Freibeträge vom Einkommen des Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004029130)
 
 (1) Vom Einkommen des Auszubildenden bleiben monatlich anrechnungsfrei
 
@@ -2049,6 +2086,7 @@ der Zeitpunkt festzulegen, ab dem der geänderte Betrag anzuwenden ist.
 
 
 ### § 24 Berechnungszeitraum für das Einkommen der Eltern und des Ehegatten oder Lebenspartners
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004110310)
 
 (1) Für die Anrechnung des Einkommens der Eltern und des Ehegatten
 oder Lebenspartners des Auszubildenden sind die Einkommensverhältnisse
@@ -2086,6 +2124,7 @@ Kalenderjahreseinkommens.
 
 
 ### § 25 Freibeträge vom Einkommen der Eltern und des Ehegatten oder Lebenspartners
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004231130)
 
 (1) Es bleiben monatlich anrechnungsfrei
 
@@ -2163,16 +2202,19 @@ unterhaltspflichtig ist.
 
 
 ## Abschnitt V - Vermögensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000501310)
 
 
 
 ### § 26 Umfang der Vermögensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004504310)
 
 Vermögen des Auszubildenden wird nach Maßgabe der §§ 27 bis 30
 angerechnet.
 
 
 ### § 27 Vermögensbegriff
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004603116)
 
 (1) Als Vermögen gelten alle
 
@@ -2208,6 +2250,7 @@ rechtlichen Gründen nicht verwerten kann.
 
 
 ### § 28 Wertbestimmung des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004709310)
 
 (1) Der Wert eines Gegenstandes ist zu bestimmen
 
@@ -2231,6 +2274,7 @@ Bewilligungszeitraums bleiben unberücksichtigt.
 
 
 ### § 29 Freibeträge vom Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004808119)
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
 
@@ -2255,6 +2299,7 @@ Vermögens anrechnungsfrei bleiben.
 
 
 ### § 30 Monatlicher Anrechnungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE004901310)
 
 Auf den monatlichen Bedarf des Auszubildenden ist der Betrag
 anzurechnen, der sich ergibt, wenn der Betrag des anzurechnenden
@@ -2263,15 +2308,18 @@ geteilt wird.
 
 
 ### (XXXX) §§ 31 bis 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005001310)
 
 -
 
 
 ## Abschnitt VI - 
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000601310)
 
 
 
 ### § 35 Anpassung der Bedarfssätze und Freibeträge
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005105119)
 
 Die Bedarfssätze, Freibeträge sowie die Vomhundertsätze und
 Höchstbeträge nach § 21 Absatz 2 sind alle zwei Jahre zu überprüfen
@@ -2284,10 +2332,12 @@ zu berichten.
 
 
 ## Abschnitt VII - Vorausleistung und Anspruchsübergang
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000702310)
 
 
 
 ### § 36 Vorausleistung von Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005212130)
 
 (1) Macht der Auszubildende glaubhaft, dass seine Eltern den nach den
 Vorschriften dieses Gesetzes angerechneten Unterhaltsbetrag nicht
@@ -2331,6 +2381,7 @@ erhalten hat, abgesehen werden.
 
 
 ### § 37 Übergang von Unterhaltsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005305310)
 
 (1) Hat der Auszubildende für die Zeit, für die ihm
 Ausbildungsförderung gezahlt wird, nach bürgerlichem Recht einen
@@ -2371,6 +2422,7 @@ erfolgten Anspruchsübergang folgt.
 
 
 ### § 38 Übergang von anderen Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005401310)
 
 Hat der Auszubildende für die Zeit, für die ihm Ausbildungsförderung
 gezahlt wird, gegen eine öffentlich-rechtliche Stelle, die nicht
@@ -2382,10 +2434,12 @@ bleiben unberührt.
 
 
 ## Abschnitt VIII - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000801310)
 
 
 
 ### § 39 Auftragsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005508119)
 
 (1) Dieses Gesetz wird vorbehaltlich des Absatzes 2 im Auftrag des
 Bundes von den Ländern ausgeführt.
@@ -2409,6 +2463,7 @@ Regelungen (Programmablaufplan) regeln.
 
 
 ### § 40 Ämter für Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005610116)
 
 (1) Die Länder errichten für jeden Kreis und jede kreisfreie Stadt ein
 Amt für Ausbildungsförderung. Die Länder können für mehrere Kreise
@@ -2445,6 +2500,7 @@ Landesämtern für Ausbildungsförderung einrichten.
 
 
 ### § 40a Landesämter für Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005703310)
 
 Die Länder können Landesämter für Ausbildungsförderung errichten.
 Mehrere Länder können ein gemeinsames Landesamt für
@@ -2454,6 +2510,7 @@ Satz 3 Nummer 2 keine Anwendung.
 
 
 ### § 41 Aufgaben der Ämter für Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005806116)
 
 (1) Das Amt für Ausbildungsförderung nimmt die zur Durchführung dieses
 Gesetzes erforderlichen Aufgaben wahr, soweit sie nicht anderen
@@ -2488,16 +2545,19 @@ sind unverzüglich zu löschen.
 
 
 ### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE005905310)
 
 -
 
 
 ### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006004310)
 
 -
 
 
 ### § 44 Beirat für Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006105116)
 
 (1) Das Bundesministerium für Bildung und Forschung kann durch
 Rechtsverordnung ohne Zustimmung des Bundesrates einen Beirat für
@@ -2525,10 +2585,12 @@ der Arbeitnehmer zu berufen.
 
 
 ## Abschnitt IX - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG000901310)
 
 
 
 ### § 45 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006211116)
 
 (1) Für die Entscheidung über die Ausbildungsförderung ist das Amt für
 Ausbildungsförderung zuständig, in dessen Bezirk die Eltern des
@@ -2603,6 +2665,7 @@ bestimmt.
 
 
 ### § 45a Wechsel in der Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006302310)
 
 (1) Wird ein anderes Amt für Ausbildungsförderung zuständig, so tritt
 dieses Amt für sämtliche Verwaltungshandlungen einschließlich des
@@ -2619,6 +2682,7 @@ Sozialgesetzbuch und § 20 auf dieses Land über.
 
 
 ### § 46 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006413130)
 
 (1) Über die Leistung von Ausbildungsförderung wird auf schriftlichen
 oder elektronischen Antrag entschieden.
@@ -2659,6 +2723,7 @@ Ausbildung nicht binnen eines Jahres nach Antragstellung beginnt.
 
 
 ### § 47 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006507130)
 
 (1) Ausbildungsstätten, Fernlehrinstitute und Prüfungsstellen sind
 verpflichtet, die nach § 3 Absatz 3, § 15 Absatz 5 sowie den §§ 48 und
@@ -2710,6 +2775,7 @@ Erteilung von Auskünften und Vorlage von Urkunden setzen.
 
 
 ### § 47a Ersatzpflicht des Ehegatten oder Lebenspartners und der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006605116)
 
 Haben der Ehegatte oder Lebenspartner oder die Eltern des
 Auszubildenden die Leistung von Ausbildungsförderung an den
@@ -2723,6 +2789,7 @@ erfolgten Leistung an mit 6 vom Hundert für das Jahr zu verzinsen.
 
 
 ### § 48 Mitwirkung von Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006711116)
 
 (1) Vom fünften Fachsemester an wird Ausbildungsförderung für den
 Besuch einer Höheren Fachschule, Akademie oder einer Hochschule nur
@@ -2780,6 +2847,7 @@ Auszubildenden schriftlich oder elektronisch mitzuteilen ist.
 
 
 ### § 49 Feststellung der Voraussetzungen der Förderung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006806310)
 
 (1) Der Auszubildende hat auf Verlangen des Amtes für
 Ausbildungsförderung eine gutachtliche Stellungnahme der
@@ -2809,6 +2877,7 @@ Auslandspraktikum den Erfordernissen des § 5 Absatz 5 entspricht.
 
 
 ### § 50 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE006909116)
 
 (1) Die Entscheidung ist dem Antragsteller schriftlich oder
 elektronisch mitzuteilen (Bescheid). Unter dem Vorbehalt der
@@ -2882,6 +2951,7 @@ erforderlichen Nachweise beigefügt wurden.
 
 
 ### § 51 Zahlweise
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007012116)
 
 (1) Der Förderungsbetrag ist unbar monatlich im Voraus zu zahlen.
 
@@ -2903,11 +2973,13 @@ aufzurunden.
 
 
 ### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007101310)
 
 -
 
 
 ### § 53 Änderung des Bescheides
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007207116)
 
 Ändert sich ein für die Leistung der Ausbildungsförderung maßgeblicher
 Umstand, so wird der Bescheid geändert
@@ -2937,12 +3009,14 @@ diese angerechnet wird.
 
 
 ### § 54 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007301310)
 
 Für öffentlich-rechtliche Streitigkeiten aus diesem Gesetz ist der
 Verwaltungsrechtsweg gegeben.
 
 
 ### § 55 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007405130)
 
 (1) Über die Ausbildungsförderung nach diesem Gesetz wird eine
 Bundesstatistik durchgeführt.
@@ -3013,10 +3087,12 @@ dieser Aufgabe betraut wurden.
 
 
 ## Abschnitt X - Studienstarthilfe
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG001200130)
 
 
 
 ### § 56 Leistungsberechtigte, Verfahren, Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009700130)
 
 (1) Auszubildenden, die sich erstmalig an einer Ausbildungsstätte nach
 § 2 Absatz 1 Satz 1 Nummer 6 oder an einer nichtstaatlichen Hochschule
@@ -3095,6 +3171,7 @@ zuständige mit der Durchführung betraute Stelle zuständig.
 
 
 ### § 56a Förderungsart und Umfang; Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009800130)
 
 (1) Die Studienstarthilfe wird einmalig als Zuschuss zum Beginn der
 Ausbildung in Höhe von 1 000 Euro geleistet.
@@ -3135,6 +3212,7 @@ Studienstarthilfe, ist dem Antrag stattzugeben.
 
 
 ### § 56b Nichtanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009900130)
 
 (1) Die Studienstarthilfe ist bei der Gewährung von
 einkommensabhängigen Sozialleistungen und von Leistungen nach dem
@@ -3149,10 +3227,12 @@ anzurechnen.
 
 
 ## Abschnitt XI - 
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG001002130)
 
 
 
 ### § 57 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007509130)
 
 (1) Die für die Ausführung dieses Gesetzes erforderlichen Mittel,
 einschließlich der Erstattungsbeträge an die Kreditanstalt für
@@ -3199,10 +3279,12 @@ ständigen Wohnsitz hat, dem nach der Rechtsverordnung auf Grund des §
 
 
 ## Abschnitt XII - Bußgeldvorschriften, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNG001102130)
 
 
 
 ### § 58 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007706130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3242,6 +3324,7 @@ Studienstarthilfe betraute Stelle, in den Fällen des Absatzes 1 Nummer
 
 
 ### § 59 Verordnungsermächtigung für Fälle bundesweiter Notlagen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008703311)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates im Fall einer vom Deutschen Bundestag auf
@@ -3328,6 +3411,7 @@ zu erfassen.
 
 
 ### § 60 Opfer politischer Verfolgung durch SED-Unrecht
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008906116)
 
 Verfolgten nach § 1 des Beruflichen Rehabilitierungsgesetzes oder
 verfolgten Schülern nach § 3 des Beruflichen Rehabilitierungsgesetzes
@@ -3359,6 +3443,7 @@ wird für Ausbildungsabschnitte, die vor dem 1. Januar 2003 beginnen,
 
 
 ### § 61 Förderung von Ausländerinnen und Ausländern mit einer Aufenthaltserlaubnis oder einer entsprechenden Fiktionsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007804311)
 
 (1) Ergänzend zu § 8 Absatz 2 Nummer 1 wird Ausländerinnen und
 Ausländern Ausbildungsförderung auch geleistet, die gemäß § 49 des
@@ -3392,20 +3477,24 @@ entsprechend.
 
 
 ### § 62 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007805311)
 
 
 
 ### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE007904310)
 
 -
 
 
 ### § 64 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008002310)
 
 -
 
 
 ### § 65 Weitergeltende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008108116)
 
 (1) Die Vorschriften über die Leistung individueller Förderung der
 Ausbildung nach
@@ -3436,10 +3525,12 @@ Vorrang vor diesem Gesetz.
 
 
 ### § 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008204311)
 
 
 
 ### § 66a Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008321130)
 
 (1) Für Auszubildende, denen bis zum 31. Juli 2016 nach zuvor bereits
 erworbenem Hochschulabschluss die Leistung von Ausbildungsförderung
@@ -3506,6 +3597,7 @@ des Semesters, der vor dem 25. Juli 2024 liegt, als vollzogen gilt.
 
 
 ### § 66b Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009600311)
 
 Auszubildenden, die bis zum Ende des Übergangszeitraums nach Teil Vier
 des Abkommens über den Austritt des Vereinigten Königreichs
@@ -3521,10 +3613,12 @@ Gesetzes gewährt.
 
 
 ### § 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE009405311)
 
 
 
 ### § 68 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g/BJNR014090971.html#BJNR014090971BJNE008504310)
 
 (Inkrafttreten)
 

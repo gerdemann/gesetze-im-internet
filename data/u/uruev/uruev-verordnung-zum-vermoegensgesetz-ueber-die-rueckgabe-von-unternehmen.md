@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE000700314)
 
 Auf Grund des § 6 Abs. 9 des Vermögensgesetzes in der Fassung der
 Bekanntmachung vom 18. April 1991 (BGBl. I S. 957) verordnet der
@@ -28,10 +29,12 @@ Finanzen und dem Bundesminister für Wirtschaft:
 
 
 ## Abschnitt 1 - Gegenstand der Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNG000100314)
 
 
 
 ### § 1 Zurückzugebendes Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE000800314)
 
 (1) Ein Unternehmen ist nach § 6 Abs. 1 Satz 1 des Vermögensgesetzes
 in dem Zustand zurückzugeben, in dem es sich unbeschadet von
@@ -57,6 +60,7 @@ Gegenstand hatte.
 
 
 ### § 2 Vergleichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE000900314)
 
 (1) Die Vergleichbarkeit im Sinne des § 6 Abs. 1 des Vermögensgesetzes
 ist stets gegeben, wenn das Unternehmen lediglich in anderer
@@ -83,10 +87,12 @@ fortgeführt werden zu können.
 
 
 ## Abschnitt 2 - Wertausgleich. Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNG000200314)
 
 
 
 ### § 3 Wertänderungen
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001000314)
 
 Wird für die Rückgabe eine Bilanz gefertigt, weil sich die
 Vermögenslage gegenüber der D-Markeröffnungsbilanz verändert hat und
@@ -98,6 +104,7 @@ den Stichtag der Bilanz ergeben.
 
 
 ### § 4 Sorgfaltspflicht, Haftung
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001100314)
 
 (1) Die gesetzlichen Vertreter von Gesellschaften im Aufbau haften dem
 Berechtigten für Schäden, die dadurch entstehen, daß die gesetzlichen
@@ -117,6 +124,7 @@ diese Personen bleiben unberührt.
 
 
 ### § 5 Eigenkapital bei Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001200314)
 
 (1) Bei der Anwendung des § 6 Abs. 2 oder 3 des Vermögensgesetzes
 wegen wesentlicher Verschlechterung oder Verbesserung der
@@ -151,6 +159,7 @@ weitergehender Ausgleich findet nicht statt.
 
 
 ### § 6 Verschlechterung der Ertragslage
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001300314)
 
 (1) Eine wesentliche Verschlechterung der Ertragslage nach § 6 Abs. 1
 und 4 des Vermögensgesetzes wird vermutet, wenn das zurückzugebende
@@ -204,6 +213,7 @@ unberührt.
 
 
 ### § 7 Verzinsung der Ausgleichsforderungen und Ausgleichsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001400314)
 
 (1) Ausgleichsforderungen und Ausgleichsverbindlichkeiten nach § 6
 Abs. 2 bis 4 des Vermögensgesetzes sind vom Tag der Rückgabe des
@@ -229,6 +239,7 @@ ursächlich waren.
 
 
 ### § 8 Behandlung staatlicher Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001500314)
 
 (1) Eine einem Gesellschafter oder Mitglied des geschädigten
 Unternehmens wegen der Schädigung tatsächlich zugeflossene
@@ -255,10 +266,12 @@ dafür maßgeblichen Vorschriften.
 
 
 ## Abschnitt 3 - Durchführung der Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNG000300314)
 
 
 
 ### § 9 Eigentumsübergang
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001601307)
 
 (1) Die Rückgabe eines Unternehmens nach § 6 Abs. 5 des
 Vermögensgesetzes erfolgt, wenn bei einer einvernehmlichen Regelung
@@ -287,6 +300,7 @@ beeinträchtigt wird.
 
 
 ### § 10 Übertragung von Anteilen auf die Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001700314)
 
 (1) Für einen Antrag auf unmittelbare Übertragung der Anteile an der
 verfügungsberechtigten Gesellschaft nach § 6 Abs. 5a Satz 1 Buchstabe
@@ -327,6 +341,7 @@ Wiedereinsetzung wirkt auf den Zeitpunkt der Schädigung zurück.
 
 
 ### § 11 Besonderheiten wegen der Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001801307)
 
 (1) Wird die Rückgabe eines Unternehmens verlangt, das im Zeitpunkt
 der Schädigung von einem Einzelkaufmann geführt wurde, so darf die
@@ -352,6 +367,7 @@ werden.
 
 
 ### § 12 Erbfall
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE001900314)
 
 (1) Ist ein Gesellschafter einer geschädigten
 Personenhandelsgesellschaft verstorben, so können sämtliche oder
@@ -371,10 +387,12 @@ Vermögensgesetzes, so stehen ihnen diese zur gesamten Hand zu.
 
 
 ## Abschnitt 4 - Unternehmensrückgaben nach dem Unternehmensgesetz und Beteiligungskäufe
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNG000400314)
 
 
 
 ### § 13 Wirksamkeit abgeschlossener Verträge
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002000314)
 
 (1) Ein Vertrag über die Rückgabe eines Unternehmens nach den §§ 17
 bis 19 des Gesetzes über die Gründung und Tätigkeit privater
@@ -392,6 +410,7 @@ Vermögensgesetzes bleibt unberührt.
 
 
 ### § 14 Überprüfung von Unternehmensrückgaben
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002100314)
 
 (1) Der Antrag auf Überprüfung der Rückgabe nach § 6 Abs. 8 des
 Vermögensgesetzes kann nur von demjenigen gestellt werden, der das
@@ -433,10 +452,12 @@ zurücknehmen oder nach Absatz 2 Satz 1 und 2 beschränken kann.
 
 
 ## Abschnitt 5 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNG000500314)
 
 
 
 ### § 15 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002200314)
 
 (1) Für die Rückgabe von Unternehmen ist auch in den Fällen der
 staatlichen Verwaltung ausschließlich das Landesamt zuständig, in
@@ -451,6 +472,7 @@ weiterzuleiten.
 
 
 ### § 16 Behandlung staatlicher Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002300314)
 
 (1) Für die Abwicklung von staatlichen Beteiligungen nach § 6 Abs. 5c
 des Vermögensgesetzes ist das Landesamt zuständig, das für die
@@ -469,6 +491,7 @@ staatlichen Beteiligung nicht zustande kommt.
 
 
 ### § 17 Quorum
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002401377)
 
 (1) Für die Berechnung des Quorums nach § 6 Abs. 1a Satz 2 des
 Vermögensgesetzes bleibt eine staatliche Beteiligung unberücksichtigt.
@@ -498,6 +521,7 @@ Gesetzbuchs bestellt.
 
 
 ### § 18 Antrag auf Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002500314)
 
 (1) Wird ein Antrag auf Rückgabe eines Unternehmens von einer in § 6
 Abs. 6 Satz 1 des Vermögensgesetzes bezeichneten Person gestellt, so
@@ -517,6 +541,7 @@ Berechtigten vorbehalten.
 
 
 ### § 19 Anwendung sonstiger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002600314)
 
 (1) Auf die Ausführung des Vermögensgesetzes und dieser Verordnung ist
 das Verwaltungsverfahrensgesetz anzuwenden.
@@ -529,15 +554,18 @@ entsprechend.
 
 
 ## Abschnitt 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNG000600314)
 
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002700314)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ur_v/BJNR015420991.html#BJNR015420991BJNE002800314)
 
 Der Bundesrat hat zugestimmt.
 

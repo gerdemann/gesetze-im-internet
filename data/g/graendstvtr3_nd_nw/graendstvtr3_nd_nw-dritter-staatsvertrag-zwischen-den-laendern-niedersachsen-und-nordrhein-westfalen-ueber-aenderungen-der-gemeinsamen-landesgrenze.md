@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3_nd_nw/BJNR186000006.html#BJNR186000006BJNE000100000)
 
 Um den Verlauf der gemeinsamen Landesgrenze zweckmäßig zu gestalten
 und ein ehemaliges Tanklager der Bundeswehr einer gewerblichen Nutzung
@@ -32,6 +33,7 @@ nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3_nd_nw/BJNR186000006.html#BJNR186000006BJNE000200000)
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze. Die
 Änderungen sind in der Anlage auf zwei Kartenblättern grafisch
@@ -51,6 +53,7 @@ Im Gebiet der Gemeinde Bad Essen, Gemarkung Dahlinghausen,
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3_nd_nw/BJNR186000006.html#BJNR186000006BJNE000300000)
 
 In dem abzutretenden Gebiet befindet sich kein Verwaltungsvermögen im
 Sinne des § 4 des Gesetzes über das Verfahren bei sonstigen Änderungen
@@ -59,6 +62,7 @@ Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325).
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3_nd_nw/BJNR186000006.html#BJNR186000006BJNE000400000)
 
 (1) Die Länder und die betroffenen kommunalen Körperschaften werden
 dafür Sorge tragen, dass die mit den Grenzänderungen zusammenhängenden
@@ -73,6 +77,7 @@ Grundbuches erforderlichen Erklärungen abzugeben.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3_nd_nw/BJNR186000006.html#BJNR186000006BJNE000500000)
 
 (1) Der Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden ausgetauscht.
@@ -82,6 +87,7 @@ Ratifikationsurkunden folgenden Monats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3_nd_nw/BJNR186000006.html#BJNR186000006BJNE000600000)
 
 Für das Land Niedersachsen
 Für den Niedersächsischen Ministerpräsidenten

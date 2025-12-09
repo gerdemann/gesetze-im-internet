@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr2016g/BJNR053020019.html#BJNR053020019BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Zustimmung zu den Regelungen des Weltpostvereins
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr2016g/BJNR053020019.html#BJNR053020019BJNE000200000)
 
 (1) Den folgenden von der Bundesrepublik Deutschland unterzeichneten
 Verträgen wird zugestimmt:
@@ -65,6 +67,7 @@ Zusatzprotokolls an geltenden Fassung mit einer amtlichen deutschen
 
 
 ## Art 2 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr2016g/BJNR053020019.html#BJNR053020019BJNE000300000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die Ergänzenden
@@ -113,6 +116,7 @@ Die Ermächtigung nach Absatz 2 umfasst nur
 
 
 ## Art 3 Zulassung von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr2016g/BJNR053020019.html#BJNR053020019BJNE000400000)
 
 (1) Unternehmen, welche für die Bundesrepublik Deutschland die Rechte
 und Pflichten wahrnehmen, die sich für eine Postverwaltung im
@@ -149,6 +153,7 @@ sowie der auf Grund der Artikel 2 und 3 erlassenen Rechtsverordnungen.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr2016g/BJNR053020019.html#BJNR053020019BJNE000500000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

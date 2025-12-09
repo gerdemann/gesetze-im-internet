@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bvasitzbek/BJNR148800000.html#BJNR148800000BJNE000100305)
 
 Das Bundesministerium für Arbeit und Sozialordnung gibt gemäß § 9 Nr.
 3 des Berlin/Bonn-Gesetzes vom 26. April 1994 (BGBl. I S. 918), der

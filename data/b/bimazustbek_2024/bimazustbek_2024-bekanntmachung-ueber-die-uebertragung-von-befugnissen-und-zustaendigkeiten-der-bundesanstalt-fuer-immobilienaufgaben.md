@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bimazustbek_2024/BJNR01F0A0024.html#BJNR01F0A0024BJNE000100000)
 
 Nach § 11 Absatz 4 des Gesetzes über die Bundesanstalt für
 Immobilienaufgaben vom 9. Dezember 2004 (BGBl. I S. 3235), der durch
@@ -33,6 +34,7 @@ hat.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimazustbek_2024/BJNR01F0A0024.html#BJNR01F0A0024BJNE000200000)
 
 Bundesanstalt für Immobilienaufgaben
 

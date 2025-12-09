@@ -20,6 +20,7 @@ Fundstelle
 Stand: Der Staatsvertrag ist gem. Art. 9 Satz 2 iVm Bek. v. 8.7.2013 I 2236 am 4.7.2013 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000100000)
 
 Die Bundesrepublik Deutschland
 als Treuhandverwalterin des Finanzvermögens nach Artikel 22 des
@@ -45,6 +46,7 @@ schließen nachfolgenden Staatsvertrag:
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000200000)
 
 Artikel 22 Absatz 1 des Einigungsvertrages sieht die hälftige
 Aufteilung des vom Bund treuhänderisch verwalteten Finanzvermögens
@@ -67,6 +69,7 @@ zudem völlig offen.
 
 
 ## Art 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000300000)
 
 Im Zusammenhang mit dem Finanzvermögen gibt es eine Reihe zwischen dem
 Bund und den Ländern nicht abschließend geklärter Fragen, darunter:
@@ -113,6 +116,7 @@ die folgende Einigung erzielt:
 
 
 ## Art 2 Vermögensaufteilung
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000400000)
 
 (1) Das Finanzvermögen ist mit Inkrafttreten dieses Staatsvertrages
 abschließend und vollständig aufgeteilt. Zwischen Bund und Ländern
@@ -153,6 +157,7 @@ erfolgt.
 
 
 ## Art 3 Sanierungsaufwendungen der Wismut GmbH
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000500000)
 
 Die Verpflichtungen der Wismut GmbH, insbesondere die
 Sanierungsaufwendungen und die Kosten für die Langzeitaufgaben, werden
@@ -165,6 +170,7 @@ dazu werden in einem gesonderten Verwaltungsabkommen geregelt.
 
 
 ## Art 4 Finanzierung der ehemaligen Staatlichen Versicherung der DDR in Abwicklung (SinA)
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000600000)
 
 Bund und Länder sind sich einig, dass den Ländern gegenüber dem Bund
 aus dem Komplex SinA keine unmittelbaren oder mittelbaren
@@ -172,6 +178,7 @@ Finanzierungsverpflichtungen obliegen.
 
 
 ## Art 5 Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000700000)
 
 Bund und Länder sind sich einig, dass den Ländern gegenüber dem Bund
 beziehungsweise dem Entschädigungsfonds aus den nach § 10 Absatz 1
@@ -180,6 +187,7 @@ des Finanzvermögens keine Finanzierungsverpflichtungen obliegen.
 
 
 ## Art 6 Ansprüche nach § 8 Absatz 4 des Vermögenszuordnungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000800000)
 
 (1) Bund und Länder verzichten auf die Geltendmachung von Ansprüchen
 auf Erfassung, Abrechnung und Abführung der Veräußerungserlöse nach §
@@ -222,6 +230,7 @@ sie betreffenden Inhalte dieses Staatsvertrages sicher.
 
 
 ## Art 7 Nicht zugeordnetes Finanzvermögen
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE000900000)
 
 Die Feststellung, was dem Finanzvermögen zugehört, erfolgt durch
 Zuordnungsverfahren nach dem Vermögenszuordnungsgesetz. Bund und
@@ -240,6 +249,7 @@ nachvollziehbar darlegen.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE001000000)
 
 (1) Die Regelungen des Vermögensgesetzes und des
 Vermögenszuordnungsgesetzes bleiben im Übrigen von diesem
@@ -253,12 +263,14 @@ Ergänzungsvereinbarungen bleiben von diesem Staatsvertrag unberührt.
 
 
 ## Art 9 Ratifikation, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE001100000)
 
 Dieser Staatsvertrag bedarf der Ratifikation. Er tritt an dem Tag in
 Kraft, an dem alle Ratifikationsurkunden beim Bund hinterlegt wurden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finvermstvtr/BJNR185900013.html#BJNR185900013BJNE001200000)
 
 Für den Bund, der Bundesminister der Finanzen
 

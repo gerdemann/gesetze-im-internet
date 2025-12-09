@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
@@ -33,6 +34,7 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000201360)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Prozessmanager Elektrotechnik/zur Geprüften Prozessmanagerin
@@ -242,6 +244,7 @@ Process Manager – Electric/Electronics)“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000301360)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -282,6 +285,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000400000)
 
 Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -301,6 +305,7 @@ nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
 
 ## § 4 Prüfungsteil „Prozess- und Projektmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000501128)
 
 (1) Im Prüfungsteil „Prozess- und Projektmanagement“ soll die
 Befähigung nachgewiesen werden, Prozesse in einem der Handlungsfelder
@@ -464,6 +469,7 @@ Fachgesprächs sind die Befähigungen nach Absatz 2 zu bewerten.
 
 
 ## § 5 Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000600000)
 
 (1) Im Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“ soll die
 Befähigung nachgewiesen werden, Aufgaben des Engineerings unter
@@ -537,6 +543,7 @@ gewichtet.
 
 
 ## § 6 Prüfungsteil „Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000700000)
 
 (1) Im Prüfungsteil „Personalmanagement“ soll die Befähigung
 nachgewiesen werden, Aufgaben und Maßnahmen in den Bereichen
@@ -610,6 +617,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000802128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -622,6 +630,7 @@ zugrunde zu legen.
 
 
 ## § 8 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE000901128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
 bewerten.
@@ -637,6 +646,7 @@ zu bilden.
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 Prüfungsleistungen nach § 8 Absatz 2 jeweils mindestens 50 Punkte
@@ -671,6 +681,7 @@ ist die Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001700128)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
@@ -697,6 +708,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001001128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -712,12 +724,14 @@ gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001101128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 2)
 
 ## Anlage 1 Spezialistenprofile in der Elektrotechnik
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001302128)
 
 (Fundstelle: BGBl. I 2009, 2846 - 2849; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -1194,6 +1208,7 @@ Elektrotechnik**
 (zu den §§ 8 und 9)
 
 ## Anlage 2 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001800128)
 
 (Fundstelle: BGBl. I 2019, 2319 – 2320)
 
@@ -1495,6 +1510,7 @@ Elektrotechnik**
 (zu § 10)
 
 ## Anlage 3 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pmelekprv/BJNR284100009.html#BJNR284100009BJNE001900128)
 
 (Fundstelle: BGBl. I 2019, 2321)
 

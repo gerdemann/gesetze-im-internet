@@ -20,24 +20,29 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE001500305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 11 - 
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNG000100305)
 
 
 
 ## Art 12 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNG001200305)
 
 
 
 ### I. - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNG001300305)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE001600305)
 
 Die rechtliche Stellung eines vor dem Inkrafttreten dieses Gesetzes
 geborenen Kindes und seiner Verwandten bestimmt sich für die Zeit nach
@@ -46,6 +51,7 @@ sich nicht aus den §§ 2 bis 23 ein anderes ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE001700305)
 
 Unter welchen Voraussetzungen ein Mann als Vater anzusehen ist, wird
 auch für Rechtsverhältnisse, die sich nach dem bisher geltenden Recht
@@ -53,6 +59,7 @@ bestimmen, nach den Vorschriften dieses Gesetzes beurteilt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE001803140)
 
 (1) Hat ein Mann vor dem Inkrafttreten dieses Gesetzes in einer
 öffentlichen Urkunde seine Vaterschaft anerkannt oder in einem
@@ -84,11 +91,13 @@ Gesetzbuchs.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE001901377)
 
 (weggefallen)
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002000305)
 
 Ein Vertrag zur Abfindung des Unterhaltsanspruchs, der vor dem
 Inkrafttreten dieses Gesetzes zwischen dem Kind und dem Vater oder dem
@@ -99,10 +108,12 @@ achtzehnten Lebensjahres zu gewähren ist.
 
 
 ### (XXXX) §§ 6 und 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002101377)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002301377)
 
 Hat das Vormundschaftsgericht vor dem Inkrafttreten dieses Gesetzes
 rechtskräftig festgestellt, daß ein nichteheliches Kind durch die
@@ -112,11 +123,13 @@ so sind die §§ 2, 3 nicht anzuwenden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002401377)
 
 (weggefallen)
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002501140)
 
 (1) Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser
 vor dem Inkrafttreten dieses Gesetzes gestorben ist, die bisher
@@ -143,11 +156,13 @@ Abgabenordnung entstanden ist.
 
 
 ### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE004302140)
 
 (weggefallen)
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002600305)
 
 Soweit nach den Artikeln 208, 209 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuch Vorschriften aus der Zeit vor dem
@@ -157,11 +172,13 @@ diesem Fall nicht.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002701377)
 
 (weggefallen)
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002800305)
 
 Für das Verhältnis einer vor dem Inkrafttreten dieses Gesetzes
 erlassenen Entscheidung über Ansprüche nach § 1708 des Bürgerlichen
@@ -173,10 +190,12 @@ Abs. 2.
 
 
 ### (XXXX) §§ 14 bis 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE002901377)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE003800305)
 
 (1) In den Fällen des § 3 Abs. 1 wird, soweit dies nach den bisherigen
 Vorschriften noch nicht geschehen ist, der Vater eines nichtehelichen
@@ -200,10 +219,12 @@ Amts wegen eintragen.
 
 
 ### II. - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNG001400305)
 
 
 
 ### § 24 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE003902140)
 
 (1) Ein ab dem 29. Mai 2009 und vor dem 15. April 2011 erteilter
 Erbschein, der wegen der durch das Zweite Gesetz zur erbrechtlichen
@@ -226,10 +247,12 @@ bereits rechtskräftig entschieden wurde.
 
 
 ### (XXXX) §§ 25 und 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE004001377)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/nehelg/BJNR012439969.html#BJNR012439969BJNE004200305)
 
 Dieses Gesetz tritt am 1. Juli 1970 in Kraft.
 

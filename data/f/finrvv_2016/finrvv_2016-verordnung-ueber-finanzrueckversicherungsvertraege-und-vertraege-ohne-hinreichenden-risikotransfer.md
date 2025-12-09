@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000100000)
 
 Auf Grund des § 170 Satz 1 in Verbindung mit Satz 3 des
 Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434)
@@ -25,6 +26,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000200000)
 
 (1) Diese Verordnung ist auf Versicherungsunternehmen mit Sitz im
 Inland und auf Niederlassungen von Versicherungsunternehmen eines
@@ -39,6 +41,7 @@ Versicherungsaufsichtsgesetzes ist diese Verordnung nicht anzuwenden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000300000)
 
 (1) Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -100,6 +103,7 @@ sind diese gewissenhaft zu schätzen.
 
 
 ## § 3 Unternehmensinterne Kriterien für Finanzrückversicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000400000)
 
 (1) Die Versicherungsunternehmen haben geeignete interne Kriterien zu
 entwickeln, nach denen sie zusätzlich zu den gesetzlichen Kriterien
@@ -120,6 +124,7 @@ Versicherungsaufsichtsgesetzes erfüllen.
 
 
 ## § 4 Allgemeine Anforderungen an den hinreichenden Risikotransfer
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000500000)
 
 (1) Der hinreichende Risikotransfer eines
 Finanzrückversicherungsvertrages ist durch eine Risikoprüfung
@@ -234,6 +239,7 @@ hinreichenden Risikotransfers nach Absatz 3.
 
 
 ## § 5 Durchführung und Dokumentation des Risikotransfertests
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000600000)
 
 (1) Ein nach § 4 Absatz 1 erforderlicher Risikotransfertest ist zum
 Zeitpunkt des Vertragsschlusses und zum Zeitpunkt jeder Änderung des
@@ -287,6 +293,7 @@ geeigneter realistischer Szenarien durchzuführen.
 
 
 ## § 6 Mindestbestimmungen in Finanzrückversicherungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000700000)
 
 (1) Das Versicherungsunternehmen hat eine Bestimmung in den
 Finanzrückversicherungsvertrag aufzunehmen, wonach
@@ -332,6 +339,7 @@ unberührt.
 
 
 ## § 7 Interne Verwaltungs- und Rechnungslegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000800000)
 
 (1) Das Versicherungsunternehmen hat im Rahmen des
 Risikomanagementsystems und des internen Kontrollsystems geeignete
@@ -364,6 +372,7 @@ mindestens folgende Festlegungen umfassen:
 
 
 ## § 8 Dokumentation der Verträge zur Finanzrückversicherung
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE000900000)
 
 (1) Das Versicherungsunternehmen hat in geeigneter Form und
 nachprüfbar zu dokumentieren
@@ -404,12 +413,14 @@ Vertrag verbunden sein.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE001000000)
 
 Die §§ 4 bis 6 und § 8 finden nur auf solche Verträge Anwendung, die
 nach dem 25. Juli 2008 abgeschlossen werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finrvv_2016/BJNR083800016.html#BJNR083800016BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

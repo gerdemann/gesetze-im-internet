@@ -24,6 +24,7 @@ Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000000000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -37,6 +38,7 @@ Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000100000)
 
 Der Ausbildungsberuf Konditor/Konditorin wird gemäß § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 58, Konditoren,
@@ -44,6 +46,7 @@ der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000200000)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -55,6 +58,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000300000)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -64,6 +68,7 @@ Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Kenntnisse und Fertigkeiten:
@@ -144,6 +149,7 @@ Kenntnisse und Fertigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan und Zielsetzung der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000500000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -161,12 +167,14 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -175,6 +183,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -217,6 +226,7 @@ kann.
 
 
 ## § 9 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE000900000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -367,6 +377,7 @@ mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE001000000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -375,12 +386,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Konditor/zur Konditorin
+[Direktlink](https://www.gesetze-im-internet.de/kondausbv_2003/BJNR079000003.html#BJNR079000003BJNE001200000)
 
 (Fundstelle: BGBl. I 2003, 793 - 798)
 

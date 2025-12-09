@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000100312)
 
 Im Geltungsbereich dieses Gesetzes werden bei privaten Haushalten
 folgende repräsentative Erhebungen über Wirtschaftsrechnungen als
@@ -42,6 +43,7 @@ Bundesstatistik durchgeführt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000201123)
 
 (1) Die Erhebungen nach § 1 erfassen folgende Tatbestände:
 
@@ -93,6 +95,7 @@ der Ergebnisse erforderlich sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000301118)
 
 (1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens
 2 000\*) Haushalte in jedem Monat.
@@ -112,18 +115,21 @@ vom Hundert aller Haushalte.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000400312)
 
 Die Erteilung der Auskunft durch die Haushalte zu den Erhebungen nach
 § 1 ist freiwillig.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000500312)
 
 Die Aufbereitung der Erhebungen nach § 1 Nr. 2 obliegt dem
 Statistischen Bundesamt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000600312)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -133,6 +139,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/prhaushstatg/BJNR000180961.html#BJNR000180961BJNE000700312)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_15/BJNR022400987.html#BJNR022400987BJNE000100304)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 1 Nr. 1 des Gesetzes vom 12.
@@ -40,11 +41,13 @@ für Umwelt, Naturschutz und Reaktorsicherheit.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_15/BJNR022400987.html#BJNR022400987BJNE000200304)
 
 Die Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_15/BJNR022400987.html#BJNR022400987BJNE000300304)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000100000)
 
 Auf Grund des § 30 Absatz 5 des Berufsbildungsgesetzes vom 23. März
 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Bildung und
@@ -25,6 +26,7 @@ Berufsbildung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000200000)
 
 Ausbilder und Ausbilderinnen haben für die Ausbildung in anerkannten
 Ausbildungsberufen nach dem Berufsbildungsgesetz den Erwerb der
@@ -34,6 +36,7 @@ die Ausbildung im Bereich der Angehörigen der freien Berufe.
 
 
 ## § 2 Berufs- und arbeitspädagogische Eignung
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000300000)
 
 Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum
 selbstständigen Planen, Durchführen und Kontrollieren der
@@ -56,6 +59,7 @@ Berufsausbildung in den Handlungsfeldern:
 
 
 ## § 3 Handlungsfelder
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000400000)
 
 (1) Das Handlungsfeld nach § 2 Nummer 1 umfasst die berufs- und
 arbeitspädagogische Eignung, Ausbildungsvoraussetzungen zu prüfen und
@@ -205,6 +209,7 @@ Ausbilderinnen sind dabei in der Lage,
 
 
 ## § 4 Nachweis der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000500000)
 
 (1) Die Eignung nach § 2 ist in einer Prüfung nachzuweisen. Die
 Prüfung besteht aus einem schriftlichen und einem praktischen Teil.
@@ -239,12 +244,14 @@ Prüfungsausschuss. § 37 Absatz 2 und 3, § 39 Absatz 1 Satz 2, die §§
 
 
 ## § 5 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000600000)
 
 Über die bestandene Prüfung ist jeweils ein Zeugnis nach den Anlagen 1
 und 2 auszustellen.
 
 
 ## § 6 Andere Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000700000)
 
 (1) Wer die Prüfung nach einer vor Inkrafttreten dieser Verordnung
 geltenden Ausbilder-Eignungsverordnung bestanden hat, die auf Grund
@@ -275,6 +282,7 @@ Stelle hierüber eine Bescheinigung.
 
 
 ## § 7 Fortführen der Ausbildertätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000800000)
 
 Wer vor dem 1. August 2009 als Ausbilder im Sinne des § 28 Absatz 1
 Satz 2 des Berufsbildungsgesetzes tätig war, ist vom Nachweis nach den
@@ -288,6 +296,7 @@ Auflagen erteilen.
 
 
 ## § 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE000900000)
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 31. Juli 2010
 nach den bisherigen Vorschriften zu Ende geführt werden. Die
@@ -300,12 +309,14 @@ beantragt werden.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 (zu § 5)
 
 ## Anlage 1 Muster
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE001200000)
 
 ( Fundstelle: BGBl. I 2009, 91 )
 
@@ -357,6 +368,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 (zu § 5)
 
 ## Anlage 2 Muster
+[Direktlink](https://www.gesetze-im-internet.de/ausbeignv_2009/BJNR008800009.html#BJNR008800009BJNE001300000)
 
 ( Fundstelle: BGBl. I 2009, 92 )
 

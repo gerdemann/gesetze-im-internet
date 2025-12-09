@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euvtrg/BJNR212510992.html#BJNR212510992BJNE000100333)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen; Artikel 79 Abs. 2 des Grundgesetzes ist eingehalten:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euvtrg/BJNR212510992.html#BJNR212510992BJNE000200333)
 
 Dem in Maastricht am 7. Februar 1992 von der Bundesrepublik
 Deutschland unterzeichneten Vertrag über die Europäische Union
@@ -34,6 +36,7 @@ Erklärungen werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euvtrg/BJNR212510992.html#BJNR212510992BJNE000300333)
 
 Verpflichtungen der Bundesrepublik Deutschland aus Rechtsakten der
 Europäischen Gemeinschaft nach Artikel 104c des Vertrags zur Gründung
@@ -46,6 +49,7 @@ Ländern zu erfüllen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euvtrg/BJNR212510992.html#BJNR212510992BJNE000400333)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

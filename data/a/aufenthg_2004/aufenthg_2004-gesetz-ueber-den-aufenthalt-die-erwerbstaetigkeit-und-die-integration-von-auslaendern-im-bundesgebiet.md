@@ -101,10 +101,12 @@ Mittelbare änderung durch
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000101310)
 
 
 
 ### § 1 Zweck des Gesetzes; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000204311)
 
 (1) Das Gesetz dient der Steuerung und Begrenzung des Zuzugs von
 Ausländern in die Bundesrepublik Deutschland. Es ermöglicht und
@@ -140,6 +142,7 @@ Die Regelungen in anderen Gesetzen bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019807311)
 
 (1) Ausländer ist jeder, der nicht Deutscher im Sinne des Artikels 116
 Abs. 1 des Grundgesetzes ist.
@@ -375,14 +378,17 @@ geregelt ist.
 
 
 ## Kapitel 2 - Einreise und Aufenthalt im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000201310)
 
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000301310)
 
 
 
 #### § 3 Passpflicht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000403311)
 
 (1) Ausländer dürfen nur in das Bundesgebiet einreisen oder sich darin
 aufhalten, wenn sie einen anerkannten und gültigen Pass oder
@@ -399,6 +405,7 @@ zulassen.
 
 
 #### § 4 Erfordernis eines Aufenthaltstitels
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000510311)
 
 (1) Ausländer bedürfen für die Einreise und den Aufenthalt im
 Bundesgebiet eines Aufenthaltstitels, sofern nicht durch Recht der
@@ -445,6 +452,7 @@ wird auf Antrag ausgestellt.
 
 
 #### § 4a Zugang zur Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020901311)
 
 (1) Ausländer, die einen Aufenthaltstitel besitzen, dürfen eine
 Erwerbstätigkeit ausüben, es sei denn, ein Gesetz bestimmt ein Verbot.
@@ -515,6 +523,7 @@ der Ausländer auf Gewinnerzielung gerichtet ausübt.
 
 
 #### § 5 Allgemeine Erteilungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000615126)
 
 (1) Die Erteilung eines Aufenthaltstitels setzt in der Regel voraus,
 dass
@@ -581,6 +590,7 @@ besteht oder eine Abschiebungsanordnung nach § 58a erlassen wurde.
 
 
 #### § 6 Visum
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000709311)
 
 (1) Einem Ausländer können nach Maßgabe der Verordnung (EG) Nr.
 810/2009 folgende Visa erteilt werden:
@@ -623,6 +633,7 @@ Sinne des Absatzes 1 Nummer 1 oder des Absatzes 3 erteilt.
 
 
 #### § 7 Aufenthaltserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000802311)
 
 (1) Die Aufenthaltserlaubnis ist ein befristeter Aufenthaltstitel. Sie
 wird zu den in den nachfolgenden Abschnitten genannten
@@ -640,6 +651,7 @@ nachträglich verkürzt werden.
 
 
 #### § 8 Verlängerung der Aufenthaltserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE000904310)
 
 (1) Auf die Verlängerung der Aufenthaltserlaubnis finden dieselben
 Vorschriften Anwendung wie auf die Erteilung.
@@ -679,6 +691,7 @@ Absatz 1, 2 oder Absatz 3 erteilten Aufenthaltserlaubnis.
 
 
 #### § 9 Niederlassungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001005311)
 
 (1) Die Niederlassungserlaubnis ist ein unbefristeter
 Aufenthaltstitel. Sie kann nur in den durch dieses Gesetz ausdrücklich
@@ -794,6 +807,7 @@ folgende Zeiten angerechnet:
 
 
 #### § 9a Erlaubnis zum Daueraufenthalt – EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE012605311)
 
 (1) Die Erlaubnis zum Daueraufenthalt – EU ist ein unbefristeter
 Aufenthaltstitel. § 9 Abs. 1 Satz 2 und 3 gilt entsprechend. Soweit
@@ -884,6 +898,7 @@ Für Satz 1 Nr. 3 und 4 gilt § 9 Abs. 2 Satz 2 bis 5 entsprechend.
 
 
 #### § 9b Anrechnung von Aufenthaltszeiten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE012705311)
 
 (1) Auf die erforderlichen Zeiten nach § 9a Abs. 2 Satz 1 Nr. 1 werden
 folgende Zeiten angerechnet:
@@ -993,6 +1008,7 @@ Aufenthaltserlaubnis nach den §§ 30 oder 32 erteilt wurde.
 
 
 #### § 9c Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE012802311)
 
 Feste und regelmäßige Einkünfte im Sinne des § 9a Absatz 2 Satz 1
 Nummer 2 liegen in der Regel vor, wenn
@@ -1028,6 +1044,7 @@ verlangt, als es in § 9 Abs. 2 Satz 1 Nr. 3 vorgesehen ist.
 
 
 #### § 10 Aufenthaltstitel bei Asylantrag
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001110311)
 
 (1) Einem Ausländer, der einen Asylantrag gestellt hat, kann vor dem
 bestandskräftigen Abschluss des Asylverfahrens ein Aufenthaltstitel
@@ -1066,6 +1083,7 @@ Kind des Ausländers.
 
 
 #### § 11 Einreise- und Aufenthaltsverbot
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001206311)
 
 (1) Gegen einen Ausländer, der ausgewiesen, zurückgeschoben oder
 abgeschoben worden ist oder gegen den eine Abschiebungsanordnung nach
@@ -1207,6 +1225,7 @@ verlängerte Frist gelten die Absätze 3 und 4 Satz 1 entsprechend.
 
 
 #### § 12 Geltungsbereich; Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001302311)
 
 (1) Der Aufenthaltstitel wird für das Bundesgebiet erteilt. Seine
 Gültigkeit nach den Vorschriften des Schengener
@@ -1240,6 +1259,7 @@ Erscheinen erforderlich ist, ohne Erlaubnis wahrnehmen.
 
 
 #### § 12a Wohnsitzregelung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017903311)
 
 (1) Zur Förderung seiner nachhaltigen Integration in die
 Lebensverhältnisse der Bundesrepublik Deutschland ist ein Ausländer,
@@ -1447,10 +1467,12 @@ besonders begründeten Einzelfällen unberührt.
 
 
 ### Abschnitt 2 - Einreise
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000401310)
 
 
 
 #### § 13 Grenzübertritt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001402116)
 
 (1) Die Einreise in das Bundesgebiet und die Ausreise aus dem
 Bundesgebiet sind nur an den zugelassenen Grenzübergangsstellen und
@@ -1477,6 +1499,7 @@ hat.
 
 
 #### § 14 Unerlaubte Einreise; Ausnahme-Visum
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001503116)
 
 (1) Die Einreise eines Ausländers in das Bundesgebiet ist unerlaubt,
 wenn er
@@ -1507,6 +1530,7 @@ Passersatzpapiere ausstellen.
 
 
 #### § 15 Zurückweisung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001607311)
 
 (1) Ein Ausländer, der unerlaubt einreisen will, wird an der Grenze
 zurückgewiesen.
@@ -1565,6 +1589,7 @@ ist entsprechend anzuwenden.
 
 
 #### § 15a Verteilung unerlaubt eingereister Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001704311)
 
 (1) Unerlaubt eingereiste Ausländer, die weder um Asyl nachsuchen noch
 unmittelbar nach der Feststellung der unerlaubten Einreise in
@@ -1637,10 +1662,12 @@ nachweislich vor dem 1. Januar 2005 eingereist sind.
 
 
 ### Abschnitt 3 - Aufenthalt zum Zweck der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000502311)
 
 
 
 #### § 16 Grundsatz des Aufenthalts zum Zweck der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001808311)
 
 Der Zugang von Ausländern zur Ausbildung dient der allgemeinen Bildung
 und der internationalen Verständigung ebenso wie der Sicherung des
@@ -1652,6 +1679,7 @@ werden.
 
 
 #### § 16a Berufsausbildung; berufliche Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE018503311)
 
 (1) Eine Aufenthaltserlaubnis zum Zweck der betrieblichen Aus- und
 Weiterbildung soll erteilt werden, wenn die Bundesagentur für Arbeit
@@ -1700,6 +1728,7 @@ zu suchen.
 
 
 #### § 16b Studium
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE018603311)
 
 (1) Einem Ausländer wird zum Zweck des Vollzeitstudiums an einer
 staatlichen Hochschule, an einer staatlich anerkannten Hochschule oder
@@ -1847,6 +1876,7 @@ und zur Ausübung einer Au-pair-Tätigkeit (ABl. L132 vom 21.5.2016, S.
 
 
 #### § 16c Mobilität im Rahmen des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021002311)
 
 (1) Für einen Aufenthalt zum Zweck des Studiums, der 360 Tage nicht
 überschreitet, bedarf ein Ausländer abweichend von § 4 Absatz 1 keines
@@ -1933,6 +1963,7 @@ Absatz 1 genannten Voraussetzungen anzuzeigen.
 
 
 #### § 16d Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021106311)
 
 (1) Einem Ausländer soll zum Zweck der Anerkennung seiner im Ausland
 erworbenen Berufsqualifikation eine Aufenthaltserlaubnis für die
@@ -2166,6 +2197,7 @@ oder Absatz 3 genannte Höchstaufenthaltsdauer erfolgt nicht.
 
 
 #### § 16e Studienbezogenes Praktikum EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021200311)
 
 (1) Einem Ausländer wird eine Aufenthaltserlaubnis zum Zweck eines
 Praktikums nach der Richtlinie (EU) 2016/801 erteilt, wenn die
@@ -2232,6 +2264,7 @@ Praktikums, höchstens jedoch für sechs Monate erteilt.
 
 
 #### § 16f Sprachkurse und Schulbesuch
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021701311)
 
 (1) Einem Ausländer kann eine Aufenthaltserlaubnis zur Teilnahme an
 Sprachkursen, die nicht der Studienvorbereitung dienen, oder zur
@@ -2279,6 +2312,7 @@ zugestimmt hat.
 
 
 #### § 16g Aufenthaltserlaubnis zur Berufsausbildung für ausreisepflichtige Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022601311)
 
 (1) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn er
 in Deutschland
@@ -2472,6 +2506,7 @@ Fällen des Absatzes 6 abgesehen werden.
 
 
 #### § 17 Suche eines Ausbildungs- oder Studienplatzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE001908311)
 
 (1) Einem Ausländer kann zum Zweck der Suche nach einem
 Ausbildungsplatz zur Durchführung einer qualifizierten
@@ -2522,10 +2557,12 @@ gesetzlichen Anspruchs erteilt werden.
 
 
 ### Abschnitt 4 - Aufenthalt zum Zweck der Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000601310)
 
 
 
 #### § 18 Grundsatz der Fachkräfteeinwanderung; allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002006311)
 
 (1) Die Zulassung ausländischer Beschäftigter orientiert sich an den
 Erfordernissen des Wirtschafts- und Wissenschaftsstandortes
@@ -2607,12 +2644,14 @@ nicht jedoch für länger als vier Jahre, erteilt.
 
 
 #### § 18a Fachkräfte mit Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015006311)
 
 Einer Fachkraft mit Berufsausbildung wird eine Aufenthaltserlaubnis
 zur Ausübung jeder qualifizierten Beschäftigung erteilt.
 
 
 #### § 18b Fachkräfte mit akademischer Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016502311)
 
 Einer Fachkraft mit akademischer Ausbildung wird eine
 Aufenthaltserlaubnis zur Ausübung jeder qualifizierten Beschäftigung
@@ -2620,6 +2659,7 @@ erteilt.
 
 
 #### § 18c Niederlassungserlaubnis für Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016606311)
 
 (1) Einer Fachkraft ist ohne Zustimmung der Bundesagentur für Arbeit
 eine Niederlassungserlaubnis zu erteilen, wenn
@@ -2687,6 +2727,7 @@ Berufserfahrung insbesondere
 
 
 #### § 18d Forschung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE018902311)
 
 (1) Einem Ausländer wird ohne Zustimmung der Bundesagentur für Arbeit
 eine Aufenthaltserlaubnis nach der Richtlinie (EU) 2016/801 zum Zweck
@@ -2766,6 +2807,7 @@ hat. Absatz 5 gilt entsprechend.
 
 
 #### § 18e Kurzfristige Mobilität für Forscher
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021300311)
 
 (1) Für einen Aufenthalt zum Zweck der Forschung, der eine Dauer von
 180 Tagen innerhalb eines Zeitraums von 360 Tagen nicht überschreitet,
@@ -2846,6 +2888,7 @@ Absatz 1 genannten Voraussetzungen anzuzeigen.
 
 
 #### § 18f Aufenthaltserlaubnis für mobile Forscher
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021400311)
 
 (1) Für einen Aufenthalt zum Zweck der Forschung, der mehr als 180
 Tage und höchstens ein Jahr dauert, wird einem Ausländer ohne
@@ -2890,6 +2933,7 @@ gestellt wurde.
 
 
 #### § 18g Blaue Karte EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022301126)
 
 (1) Einer Fachkraft mit akademischer Ausbildung wird ohne Zustimmung
 der Bundesagentur für Arbeit eine Blaue Karte EU zum Zweck einer ihrer
@@ -3006,6 +3050,7 @@ jeweils bis zum 31. Dezember des Vorjahres im Bundesanzeiger bekannt.
 
 
 #### § 18h Kurzfristige Mobilität für Inhaber einer Blauen Karte EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022400311)
 
 (1) Ein Inhaber einer gültigen Blauen Karte EU, die ein anderer
 Mitgliedstaat der Europäischen Union ausgestellt hat, benötigt für die
@@ -3030,6 +3075,7 @@ Mitgliedstaat ausgestellten Blauen Karte EU war.
 
 
 #### § 18i Langfristige Mobilität für Inhaber einer Blauen Karte EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022500311)
 
 (1) Einem Ausländer, der eine gültige Blaue Karte EU besitzt, die von
 einem anderen Mitgliedstaat der Europäischen Union erteilt wurde und
@@ -3077,6 +3123,7 @@ EU abweichend von Absatz 1 Satz 1 sechs Monate.
 
 
 #### § 19 ICT-Karte für unternehmensintern transferierte Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002105311)
 
 (1) Eine ICT-Karte ist ein Aufenthaltstitel zum Zweck eines
 unternehmensinternen Transfers eines Ausländers. Ein
@@ -3222,6 +3269,7 @@ Drittstaatsangehörigen im Rahmen eines unternehmensinternen Transfers
 
 
 #### § 19a Kurzfristige Mobilität für unternehmensintern transferierte Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016702311)
 
 (1) Für einen Aufenthalt zum Zweck eines unternehmensinternen
 Transfers, der eine Dauer von bis zu 90 Tagen innerhalb eines
@@ -3342,6 +3390,7 @@ Mitgliedstaat verlängert wurde.
 
 
 #### § 19b Mobiler-ICT-Karte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019002311)
 
 (1) Eine Mobiler-ICT-Karte ist ein Aufenthaltstitel nach der
 Richtlinie (EU) 2014/66 zum Zweck eines unternehmensinternen Transfers
@@ -3410,6 +3459,7 @@ Woche, anzuzeigen.
 
 
 #### § 19c Sonstige Beschäftigungszwecke; Beamte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019101311)
 
 (1) Einem Ausländer kann unabhängig von einer Qualifikation als
 Fachkraft eine Aufenthaltserlaubnis zur Ausübung einer Beschäftigung
@@ -3439,6 +3489,7 @@ und 3 erteilt.
 
 
 #### § 19d Aufenthaltserlaubnis für qualifizierte Geduldete zum Zweck der Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019202311)
 
 (1) Einem geduldeten Ausländer soll eine Aufenthaltserlaubnis zur
 Ausübung einer der beruflichen Qualifikation entsprechenden
@@ -3527,6 +3578,7 @@ gilt Absatz 1 entsprechend.
 
 
 #### § 19e Teilnahme am europäischen Freiwilligendienst
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021500311)
 
 (1) Einem Ausländer wird eine Aufenthaltserlaubnis zum Zweck der
 Teilnahme an einem europäischen Freiwilligendienst nach der Richtlinie
@@ -3567,6 +3619,7 @@ jedoch für ein Jahr erteilt.
 
 
 #### § 19f Ablehnungsgründe bei Aufenthaltstiteln nach den §§ 16b, 16c, 16e, 16f, 17, 18d, 18e, 18f, 18g und 19e
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021601311)
 
 (1) Ein Aufenthaltstitel nach § 16b Absatz 1 und 5, den §§ 16e, 17
 Absatz 2, §§ 18d, 18g und 19e wird nicht erteilt an Ausländer,
@@ -3717,6 +3770,7 @@ bekannt zu geben.
 
 
 #### § 20 Arbeitsplatzsuche im Anschluss an Aufenthalte im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE012914311)
 
 (1) Zur Suche nach einer Erwerbstätigkeit
 
@@ -3762,6 +3816,7 @@ ausgeschlossen.
 
 
 #### § 20a Chancenkarte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022800311)
 
 (1) Eine Chancenkarte ist eine Aufenthaltserlaubnis zur Suche nach
 einer Erwerbstätigkeit oder nach Maßnahmen zur Anerkennung
@@ -3894,6 +3949,7 @@ Kapazitäten der beteiligten Behörden zugrunde gelegt werden.
 
 
 #### § 20b Punktevergabe für die Chancenkarte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022901126)
 
 (1) Punkte im Hinblick auf eine Erteilung der Chancenkarte nach § 20a
 Absatz 3 Nummer 2 erhält der Ausländer jeweils,
@@ -3993,6 +4049,7 @@ die zu erreichen ist, um die Voraussetzung nach § 20a Absatz 3 Nummer
 
 
 #### § 21 Selbständige Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002309311)
 
 (1) Einem Ausländer kann eine Aufenthaltserlaubnis zur Ausübung einer
 selbständigen Tätigkeit erteilt werden, wenn
@@ -4079,10 +4136,12 @@ Erlaubnisse erteilt wurden oder ihre Erteilung zugesagt ist.
 
 
 ### Abschnitt 5 - Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000701310)
 
 
 
 #### § 22 Aufnahme aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002403311)
 
 Einem Ausländer kann für die Aufnahme aus dem Ausland aus
 völkerrechtlichen oder dringenden humanitären Gründen eine
@@ -4094,6 +4153,7 @@ der Bundesrepublik Deutschland die Aufnahme erklärt hat.
 Aufenthaltsgewährung durch die obersten Landesbehörden;
 
 #### § 23 Aufnahme bei besonders gelagerten politischen Interessen; Neuansiedlung von Schutzsuchenden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002505311)
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder
 humanitären Gründen oder zur Wahrung politischer Interessen der
@@ -4133,6 +4193,7 @@ entsprechend.
 
 
 #### § 23a Aufenthaltsgewährung in Härtefällen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002605116)
 
 (1) Die oberste Landesbehörde darf anordnen, dass einem Ausländer, der
 vollziehbar ausreisepflichtig ist, abweichend von den in diesem Gesetz
@@ -4176,6 +4237,7 @@ Lebensunterhalts.
 
 
 #### § 24 Aufenthaltsgewährung zum vorübergehenden Schutz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002707311)
 
 (1) Einem Ausländer, dem auf Grund eines Beschlusses des Rates der
 Europäischen Union gemäß der Richtlinie 2001/55/EG vorübergehender
@@ -4220,6 +4282,7 @@ verständlichen Sprache unterrichtet.
 
 
 #### § 25 Aufenthalt aus humanitären Gründen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002810311)
 
 (1) Einem Ausländer ist eine Aufenthaltserlaubnis zu erteilen, wenn er
 als Asylberechtigter anerkannt ist. Dies gilt nicht, wenn der
@@ -4340,6 +4403,7 @@ Anforderungen zur Beseitigung der Ausreisehindernisse nicht erfüllt.
 
 
 #### § 25a Aufenthaltsgewährung bei gut integrierten Jugendlichen und jungen Volljährigen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015405311)
 
 (1) Einem jugendlichen oder jungen volljährigen Ausländer, der Inhaber
 einer Aufenthaltserlaubnis nach § 104c oder seit mindestens zwölf
@@ -4429,6 +4493,7 @@ werden.
 
 
 #### § 25b Aufenthaltsgewährung bei nachhaltiger Integration
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017103311)
 
 (1) Einem Ausländer, der geduldet oder Inhaber einer
 Aufenthaltserlaubnis nach § 104c ist, soll abweichend von § 5 Absatz 1
@@ -4542,6 +4607,7 @@ werden.
 
 
 #### § 26 Dauer des Aufenthalts
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002910311)
 
 (1) Die Aufenthaltserlaubnis nach diesem Abschnitt kann für jeweils
 längstens drei Jahre erteilt und verlängert werden, in den Fällen des
@@ -4639,10 +4705,12 @@ entsprechend angewandt werden.
 
 
 ### Abschnitt 6 - Aufenthalt aus familiären Gründen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000801310)
 
 
 
 #### § 27 Grundsatz des Familiennachzugs
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003009311)
 
 (1) Die Aufenthaltserlaubnis zur Herstellung und Wahrung der
 familiären Lebensgemeinschaft im Bundesgebiet für ausländische
@@ -4738,6 +4806,7 @@ für mindestens ein Jahr zu erteilen.
 
 
 #### § 28 Familiennachzug zu Deutschen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003105116)
 
 (1) Die Aufenthaltserlaubnis ist dem ausländischen
 
@@ -4789,6 +4858,7 @@ Anwendung.
 
 
 #### § 29 Familiennachzug zu Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003215311)
 
 (1) Für den Familiennachzug zu einem Ausländer muss
 
@@ -4891,6 +4961,7 @@ Satz 1 oder § 21 ist, wird von der Voraussetzung des Absatzes 1 Nummer
 
 
 #### § 30 Ehegattennachzug
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003313311)
 
 (1) Dem Ehegatten eines Ausländers ist eine Aufenthaltserlaubnis zu
 erteilen, wenn
@@ -5026,6 +5097,7 @@ gelten für den Ehegatten entsprechend.
 
 
 #### § 31 Eigenständiges Aufenthaltsrecht der Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003408311)
 
 (1) Die Aufenthaltserlaubnis des Ehegatten wird im Falle der Aufhebung
 der ehelichen Lebensgemeinschaft als eigenständiges, vom Zweck des
@@ -5098,6 +5170,7 @@ Daueraufenthalt – EU nicht vorliegen.
 
 
 #### § 32 Kindernachzug
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003510311)
 
 (1) Dem minderjährigen ledigen Kind eines Ausländers ist eine
 Aufenthaltserlaubnis zu erteilen, wenn beide Eltern oder der allein
@@ -5195,6 +5268,7 @@ nach § 19f gelten für das minderjährige Kind entsprechend.
 
 
 #### § 33 Geburt eines Kindes im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003603311)
 
 Einem Kind, das im Bundesgebiet geboren wird, kann abweichend von den
 §§ 5 und 29 Abs. 1 Nr. 2 von Amts wegen eine Aufenthaltserlaubnis
@@ -5212,6 +5286,7 @@ Aufenthalts als erlaubt.
 
 
 #### § 34 Aufenthaltsrecht der Kinder
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003703311)
 
 (1) Die einem Kind erteilte Aufenthaltserlaubnis ist abweichend von §
 5 Abs. 1 Nr. 1 und § 29 Abs. 1 Nr. 2 zu verlängern, solange ein
@@ -5234,6 +5309,7 @@ Erlaubnis zum Daueraufenthalt – EU noch nicht vorliegen.
 
 
 #### § 35 Eigenständiges, unbefristetes Aufenthaltsrecht der Kinder
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003805116)
 
 (1) Einem minderjährigen Ausländer, der eine Aufenthaltserlaubnis nach
 diesem Abschnitt besitzt, ist abweichend von § 9 Abs. 2 eine
@@ -5296,6 +5372,7 @@ Behinderung nicht erfüllt werden können.
 
 
 #### § 36 Nachzug der Eltern und sonstiger Familienangehöriger
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE003906311)
 
 (1) Den Eltern eines minderjährigen Ausländers, der eine
 Aufenthaltserlaubnis nach § 23 Absatz 4, § 25 Absatz 1 oder Absatz 2
@@ -5328,6 +5405,7 @@ erfüllt ist.
 
 
 #### § 36a Familiennachzug zu subsidiär Schutzberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020300311)
 
 (1) Dem Ehegatten oder dem minderjährigen ledigen Kind eines
 Ausländers, der eine Aufenthaltserlaubnis nach § 25 Absatz 2 Satz 1
@@ -5429,10 +5507,12 @@ keine Anwendung.
 
 
 ### Abschnitt 7 - Besondere Aufenthaltsrechte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG000901310)
 
 
 
 #### § 37 Recht auf Wiederkehr
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004005311)
 
 (1) Einem Ausländer, der als Minderjähriger rechtmäßig seinen
 gewöhnlichen Aufenthalt im Bundesgebiet hatte, ist eine
@@ -5507,6 +5587,7 @@ Bundesgebiet aufgehalten hat.
 
 
 #### § 38 Aufenthaltstitel für ehemalige Deutsche
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004102311)
 
 (1) Einem ehemaligen Deutschen ist
 
@@ -5542,6 +5623,7 @@ von deutschen Stellen als Deutscher behandelt wurde.
 
 
 #### § 38a Aufenthaltserlaubnis für in anderen Mitgliedstaaten der Europäischen Union langfristig Aufenthaltsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013006311)
 
 (1) Einem Ausländer, der in einem anderen Mitgliedstaat der
 Europäischen Union die Rechtsstellung eines langfristig
@@ -5585,10 +5667,12 @@ einer Erwerbstätigkeit.
 
 
 ### Abschnitt 8 - Beteiligung der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001001310)
 
 
 
 #### § 39 Zustimmung zur Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016314126)
 
 (1) Die Erteilung eines Aufenthaltstitels zur Ausübung einer
 Beschäftigung setzt die Zustimmung der Bundesagentur für Arbeit
@@ -5709,6 +5793,7 @@ Zulassungszahlen festlegen.
 
 
 #### § 40 Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004306311)
 
 (1) Die Zustimmung nach § 39 ist zu versagen, wenn
 
@@ -5792,6 +5877,7 @@ Zulassungszahlen festlegen.
 
 
 #### § 41 Widerruf der Zustimmung und Entzug der Arbeitserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004404311)
 
 Die Zustimmung kann widerrufen und die Arbeitserlaubnis der
 Bundesagentur für Arbeit kann entzogen werden, wenn der Ausländer zu
@@ -5801,6 +5887,7 @@ ist.
 
 
 #### § 42 Verordnungsermächtigung und Weisungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004512126)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung (Beschäftigungsverordnung) mit Zustimmung des
@@ -5893,9 +5980,11 @@ Beschäftigung von Arbeitnehmern Weisungen erteilen.
 
 
 ## Kapitel 3 - Integration
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001102310)
 
 
 ### § 43 Integrationskurs
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004609311)
 
 (1) Die Integration von rechtmäßig auf Dauer im Bundesgebiet lebenden
 Ausländern in das wirtschaftliche, kulturelle und gesellschaftliche
@@ -5939,6 +6028,7 @@ des Bundesrates regelt.
 
 
 ### § 44 Berechtigung zur Teilnahme an einem Integrationskurs
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004713311)
 
 (1) Einen Anspruch auf die einmalige Teilnahme an einem
 Integrationskurs hat ein Ausländer, der sich dauerhaft im Bundesgebiet
@@ -6015,6 +6105,7 @@ integrationsbedürftig sind, sowie auf Ausländer, die
 
 
 ### § 44a Verpflichtung zur Teilnahme an einem Integrationskurs
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004809311)
 
 (1) Ein Ausländer ist zur Teilnahme an einem Integrationskurs
 verpflichtet, wenn
@@ -6108,6 +6199,7 @@ werden.
 
 
 ### § 45 Integrationsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE004903311)
 
 Der Integrationskurs soll durch weitere Integrationsangebote des
 Bundes und der Länder, insbesondere sozialpädagogische und
@@ -6129,6 +6221,7 @@ Interessenverbände beteiligt werden.
 
 
 ### § 45a Berufsbezogene Deutschsprachförderung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017707311)
 
 (1) Die Integration in den Arbeitsmarkt kann durch Maßnahmen der
 berufsbezogenen Deutschsprachförderung unterstützt werden. Diese
@@ -6162,6 +6255,7 @@ regeln.
 
 
 ### § 45b Informations- und Beratungsangebote; Verordnungsermächtigung und Vorintegrationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022700311)
 
 (1) Zur Beratung zu arbeits- und sozialrechtlichen Fragestellungen von
 Drittstaatsangehörigen wird ab dem 1. Januar 2026 ein bundesweites,
@@ -6211,10 +6305,12 @@ auf Vorintegrationsmaßnahmen und die Aufgaben nach Absatz 1 Satz 5 und
 
 
 ## Kapitel 4 - Ordnungsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001201310)
 
 
 
 ### § 46 Ordnungsverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005001310)
 
 (1) Die Ausländerbehörde kann gegenüber einem vollziehbar
 ausreisepflichtigen Ausländer Maßnahmen zur Förderung der Ausreise
@@ -6231,6 +6327,7 @@ entfällt.
 
 
 ### § 47 Verbot und Beschränkung der politischen Betätigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005101310)
 
 (1) Ausländer dürfen sich im Rahmen der allgemeinen Rechtsvorschriften
 politisch betätigen. Die politische Betätigung eines Ausländers kann
@@ -6283,6 +6380,7 @@ sie
 
 
 ### § 47a Mitwirkungspflichten; Lichtbildabgleich
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019700377)
 
 Ein Ausländer ist verpflichtet, seinen Pass, seinen Passersatz oder
 seinen Ausweisersatz auf Verlangen einer zur Identitätsfeststellung
@@ -6299,6 +6397,7 @@ im Dokument abzugleichen.
 
 
 ### § 47b Reisen in den Herkunftsstaat
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE002708311)
 
 Asylberechtigte und Ausländer, denen internationaler Schutz (§ 1
 Absatz 1 Nummer 2 des Asylgesetzes) zuerkannt oder für die ein
@@ -6311,6 +6410,7 @@ Flüchtlinge zur Prüfung des Widerrufs der Rechtsstellung weiter.
 
 
 ### § 48 Ausweisrechtliche Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014207311)
 
 (1) Ein Ausländer ist verpflichtet,
 
@@ -6409,6 +6509,7 @@ bleibt hiervon unberührt.
 
 
 ### § 48a Erhebung von Zugangsdaten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017202311)
 
 (1) Soweit der Ausländer die notwendigen Zugangsdaten für die
 Auswertung von Endgeräten, die er für telekommunikative Zwecke
@@ -6432,6 +6533,7 @@ entsprechend anzuwenden.
 
 
 ### § 49 Überprüfung, Feststellung und Sicherung der Identität
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014308311)
 
 (1) Die mit dem Vollzug dieses Gesetzes betrauten Behörden dürfen
 unter den Voraussetzungen des § 48 Abs. 1 die auf dem elektronischen
@@ -6559,14 +6661,17 @@ zu dulden.
 
 
 ## Kapitel 5 - Beendigung des Aufenthalts
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001301310)
 
 
 
 ### Abschnitt 1 - Begründung der Ausreisepflicht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001401310)
 
 
 
 #### § 50 Ausreisepflicht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005407311)
 
 (1) Ein Ausländer ist zur Ausreise verpflichtet, wenn er einen
 erforderlichen Aufenthaltstitel nicht oder nicht mehr besitzt und ein
@@ -6622,6 +6727,7 @@ entsprechend.
 
 
 #### § 51 Beendigung der Rechtmäßigkeit des Aufenthalts; Fortgeltung von Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005510311)
 
 (1) Der Aufenthaltstitel erlischt in folgenden Fällen:
 
@@ -6789,6 +6895,7 @@ lebenden Ehegatten, wenn sie das 60. Lebensjahr vollendet haben.
 
 
 #### § 52 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005614311)
 
 (1) Der Aufenthaltstitel des Ausländers nach § 4 Absatz 1 Satz 2
 Nummer 1 zweite Alternative, Nummer 2, 2a, 2b, 2c, 3 und 4 kann außer
@@ -6971,6 +7078,7 @@ Europäischen Union verliert.
 
 
 #### § 53 Ausweisung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005706311)
 
 (1) Ein Ausländer, dessen Aufenthalt die öffentliche Sicherheit und
 Ordnung, die freiheitliche demokratische Grundordnung oder sonstige
@@ -7025,6 +7133,7 @@ abgeschlossen wird. Von der Bedingung wird abgesehen, wenn
 
 
 #### § 54 Ausweisungsinteresse
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE005811311)
 
 (1) Das Ausweisungsinteresse im Sinne von § 53 Absatz 1 wiegt
 besonders schwer, wenn der Ausländer
@@ -7306,6 +7415,7 @@ wenn der Ausländer
 
 
 #### § 55 Bleibeinteresse
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006008311)
 
 (1) Das Bleibeinteresse im Sinne von § 53 Absatz 1 wiegt besonders
 schwer, wenn der Ausländer
@@ -7374,6 +7484,7 @@ des Aufenthaltstitels entsprochen wurde.
 
 
 #### § 56 Überwachung ausreisepflichtiger Ausländer aus Gründen der inneren Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006110311)
 
 (1) Ein Ausländer, gegen den eine Ausweisungsverfügung auf Grund eines
 Ausweisungsinteresses nach § 54 Absatz 1 Nummer 2 bis 5 oder eine
@@ -7438,6 +7549,7 @@ ist sofort vollziehbar.
 
 
 #### § 56a Elektronische Aufenthaltsüberwachung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020101311)
 
 (1) Um eine erhebliche Gefahr für die innere Sicherheit oder für Leib
 und Leben Dritter abzuwehren, kann ein Ausländer, der einer räumlichen
@@ -7627,10 +7739,12 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
 
 ### Abschnitt 2 - Durchsetzung der Ausreisepflicht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001501310)
 
 
 
 #### § 57 Zurückschiebung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006206311)
 
 (1) Ein Ausländer, der in Verbindung mit der unerlaubten Einreise über
 eine Grenze im Sinne des Artikels 2 Nummer 2 der Verordnung (EU)
@@ -7654,6 +7768,7 @@ die §§ 62 und 62a sind entsprechend anzuwenden.
 
 
 #### § 58 Abschiebung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006309311)
 
 (1) Der Ausländer ist abzuschieben, wenn die Ausreisepflicht
 vollziehbar ist, eine Ausreisefrist nicht gewährt wurde oder diese
@@ -7805,6 +7920,7 @@ Absatzes 4 betreffen.
 
 
 #### § 58a Abschiebungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006404311)
 
 (1) Die oberste Landesbehörde kann gegen einen Ausländer auf Grund
 einer auf Tatsachen gestützten Prognose zur Abwehr einer besonderen
@@ -7840,6 +7956,7 @@ vorläufigen Rechtsschutz nicht vollzogen werden.
 
 
 #### § 59 Androhung der Abschiebung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006509311)
 
 (1) Die Abschiebung ist unter Bestimmung einer angemessenen Frist
 zwischen sieben und 30 Tagen für die freiwillige Ausreise anzudrohen,
@@ -7955,6 +8072,7 @@ beschäftigen (ABl. L 168 vom 30.6.2009, S. 24), zu unterrichten.
 
 
 #### § 60 Verbot der Abschiebung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006609311)
 
 (1) In Anwendung des Abkommens vom 28. Juli 1951 über die
 Rechtsstellung der Flüchtlinge (BGBl. 1953 II S. 559) darf ein
@@ -8096,6 +8214,7 @@ Ausländer nicht abgeschoben werden darf.
 
 
 #### § 60a Vorübergehende Aussetzung der Abschiebung (Duldung)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006713311)
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder
 humanitären Gründen oder zur Wahrung politischer Interessen der
@@ -8265,6 +8384,7 @@ erlaubt.
 
 
 #### § 60b Duldung für Personen mit ungeklärter Identität
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020700311)
 
 (1) Einem vollziehbar ausreisepflichtigen Ausländer wird die Duldung
 im Sinne des § 60a als „Duldung für Personen mit ungeklärter
@@ -8365,6 +8485,7 @@ Anwendung.
 
 
 #### § 60c Ausbildungsduldung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020403311)
 
 (1) Eine Duldung im Sinne von § 60a Absatz 2 Satz 3 ist zu erteilen,
 wenn der Ausländer in Deutschland
@@ -8512,6 +8633,7 @@ zumutbaren Maßnahmen für die Identitätsklärung ergriffen hat.
 
 
 #### § 60d Beschäftigungsduldung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020503311)
 
 (1) Einem ausreisepflichtigen Ausländer und seinem Ehegatten oder
 seinem Lebenspartner, die bis zum 31. Dezember 2022 in das
@@ -8617,6 +8739,7 @@ zumutbaren Maßnahmen für die Identitätsklärung ergriffen hat.
 
 
 #### § 61 Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006807311)
 
 (1) Der Aufenthalt eines vollziehbar ausreisepflichtigen Ausländers
 ist räumlich auf das Gebiet des Landes beschränkt. Von der räumlichen
@@ -8693,6 +8816,7 @@ sowie die Durchführung der Ausreise gesichert werden.
 
 
 #### § 62 Abschiebungshaft
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE006908311)
 
 (1) Die Abschiebungshaft ist unzulässig, wenn der Zweck der Haft durch
 ein milderes Mittel erreicht werden kann. Die Inhaftnahme ist auf die
@@ -8896,6 +9020,7 @@ anzurechnen. § 62a Absatz 1 findet entsprechende Anwendung.
 
 
 #### § 62a Vollzug der Abschiebungshaft
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015704311)
 
 (1) Die Abschiebungshaft wird grundsätzlich in speziellen
 Hafteinrichtungen vollzogen. Sind spezielle Hafteinrichtungen im
@@ -8929,6 +9054,7 @@ die in der Einrichtung geltenden Regeln zu informieren.
 
 
 #### § 62b Ausreisegewahrsam
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017303311)
 
 (1) Unabhängig von den Voraussetzungen der Sicherungshaft nach § 62
 Absatz 3, insbesondere vom Vorliegen der Fluchtgefahr, kann ein
@@ -9000,6 +9126,7 @@ Anordnung des Ausreisegewahrsams vorzuführen.
 
 
 #### § 62c Ergänzende Vorbereitungshaft
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021801311)
 
 (1) Ein Ausländer, der sich entgegen einem bestehenden Einreise- und
 Aufenthaltsverbot nach § 11 Absatz 1 Satz 3 im Bundesgebiet aufhält
@@ -9059,6 +9186,7 @@ Anordnung der Haft nach Absatz 1 vorzuführen.
 
 
 #### § 62d Bestellung eines anwaltlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE023200311)
 
 Zur richterlichen Entscheidung über die Anordnung von Abschiebungshaft
 nach § 62 und Ausreisegewahrsam nach § 62b bestellt das Gericht dem
@@ -9068,10 +9196,12 @@ Bevollmächtigten.
 
 
 ## Kapitel 6 - Haftung und Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001601310)
 
 
 
 ### § 63 Pflichten der Beförderungsunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007005311)
 
 (1) Ein Beförderungsunternehmer darf Ausländer nur in das Bundesgebiet
 befördern, wenn sie im Besitz eines erforderlichen Passes und eines
@@ -9097,6 +9227,7 @@ Umsetzung der in Absatz 1 genannten Pflicht vereinbaren.
 
 
 ### § 64 Rückbeförderungspflicht der Beförderungsunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007104116)
 
 (1) Wird ein Ausländer zurückgewiesen, so hat ihn der
 Beförderungsunternehmer, der ihn an die Grenze befördert hat,
@@ -9120,6 +9251,7 @@ bringen, in dem seine Einreise gewährleistet ist.
 
 
 ### § 65 Pflichten der Flughafenunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007201310)
 
 Der Unternehmer eines Verkehrsflughafens ist verpflichtet, auf dem
 Flughafengelände geeignete Unterkünfte zur Unterbringung von
@@ -9129,6 +9261,7 @@ Entscheidung über die Einreise bereitzustellen.
 
 
 ### § 66 Kostenschuldner; Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007305311)
 
 (1) Kosten, die durch die Durchsetzung einer räumlichen Beschränkung,
 die Zurückweisung, Zurückschiebung oder Abschiebung entstehen, hat der
@@ -9214,6 +9347,7 @@ nach diesen Geldmitteln oder Unterlagen durchsucht werden.
 
 
 ### § 67 Umfang der Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007402310)
 
 (1) Die Kosten der Abschiebung, Zurückschiebung, Zurückweisung und der
 Durchsetzung einer räumlichen Beschränkung umfassen
@@ -9263,6 +9397,7 @@ Personalkosten der öffentlichen Hand.
 
 
 ### § 68 Haftung für Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007503311)
 
 (1) Wer sich der Ausländerbehörde oder einer Auslandsvertretung
 gegenüber verpflichtet hat, die Kosten für den Lebensunterhalt eines
@@ -9298,6 +9433,7 @@ sowie der Versagung weiterer Leistungen verarbeiten.
 
 
 ### § 68a Übergangsvorschrift zu Verpflichtungserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE018001311)
 
 § 68 Absatz 1 Satz 1 bis 3 gilt auch für vor dem 6. August 2016
 abgegebene Verpflichtungserklärungen, jedoch mit der Maßgabe, dass an
@@ -9308,6 +9444,7 @@ Mittel mit Ablauf des 31. August 2016.
 
 
 ### § 69 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007612311)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und den zur Durchführung dieses Gesetzes erlassenen
@@ -9453,6 +9590,7 @@ anzurechnen und im Übrigen zurückzuzahlen.
 
 
 ### § 70 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007704311)
 
 (1) Die Ansprüche auf die in § 67 Abs. 1 und 2 genannten Kosten
 verjähren sechs Jahre nach Eintritt der Fälligkeit.
@@ -9465,14 +9603,17 @@ nicht nachgekommen ist.
 
 
 ## Kapitel 7 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001701310)
 
 
 
 ### Abschnitt 1 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001801310)
 
 
 
 #### § 71 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014412311)
 
 (1) Für aufenthalts- und passrechtliche Maßnahmen und Entscheidungen
 nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in
@@ -9619,6 +9760,7 @@ Bundesanzeiger bekannt gegeben werden.
 
 
 #### § 71a Zuständigkeit und Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013103311)
 
 (1) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten sind in den Fällen des § 98 Absatz 2a Nummer
@@ -9643,6 +9785,7 @@ Erkenntnisse sind.
 
 
 #### § 72 Beteiligungserfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE007916311)
 
 (1) Eine Betretenserlaubnis (§ 11 Absatz 8) darf nur mit Zustimmung
 der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde
@@ -9725,6 +9868,7 @@ Zustimmung nicht bedürfen.
 
 
 #### § 72a Abgleich von Visumantragsdaten zu Sicherheitszwecken
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016901311)
 
 (1) Daten, die im Visumverfahren von der deutschen Auslandsvertretung
 zur visumantragstellenden Person, zum Einlader und zu Personen, die
@@ -9848,6 +9992,7 @@ Antiterrordateigesetzes entsprechend.
 
 
 #### § 73 Sonstige Beteiligungserfordernisse im Visumverfahren, im Registrier- und Asylverfahren und bei der Erteilung von Aufenthaltstiteln
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014608311)
 
 (1) Daten, die im Visumverfahren von der deutschen Auslandsvertretung
 oder von der für die Entgegennahme des Visumantrags zuständigen
@@ -10020,6 +10165,7 @@ Einvernehmen mit dem Auswärtigen Amt.
 
 
 #### § 73a Unterrichtung über die Erteilung von Visa
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015801311)
 
 (1) Unterrichtungen der anderen Schengen-Staaten über erteilte Visa
 gemäß Artikel 31 der Verordnung (EG) Nr. 810/2009 können über die
@@ -10045,6 +10191,7 @@ Ermächtigung des Absatzes 1 Gebrauch gemacht wird.
 
 
 #### § 73b Überprüfung der Zuverlässigkeit von im Visumverfahren tätigen Personen und Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017401311)
 
 (1) Das Auswärtige Amt überprüft die Zuverlässigkeit von Personen auf
 Sicherheitsbedenken, denen im Visumverfahren die Erfüllung einer oder
@@ -10092,6 +10239,7 @@ gelten entsprechend.
 
 
 #### § 73c Zusammenarbeit mit externen Dienstleistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017501311)
 
 Die deutschen Auslandsvertretungen können im Verfahren zur Beantragung
 nationaler Visa nach Kapitel 2 Abschnitt 3 und 4 mit einem externen
@@ -10106,6 +10254,7 @@ verlegt hat.
 
 
 #### § 74 Beteiligung des Bundes; Weisungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008102311)
 
 (1) Ein Visum kann zur Wahrung politischer Interessen des Bundes mit
 der Maßgabe erteilt werden, dass die Verlängerung des Visums und die
@@ -10137,9 +10286,11 @@ Rechtsverordnungen erteilen, wenn
 
 
 ### Abschnitt 1a - Durchbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002501310)
 
 
 #### § 74a Durchbeförderung von Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013203310)
 
 Ausländische Staaten dürfen Ausländer aus ihrem Hoheitsgebiet über das
 Bundesgebiet in einen anderen Staat zurückführen oder aus einem
@@ -10156,10 +10307,12 @@ zu dulden.
 
 
 ### Abschnitt 2 - Bundesamt für Migration und Flüchtlinge
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG001901310)
 
 
 
 #### § 75 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008216126)
 
 Das Bundesamt für Migration und Flüchtlinge hat unbeschadet der
 Aufgaben nach anderen Gesetzen folgende Aufgaben:
@@ -10265,15 +10418,18 @@ Aufgaben nach anderen Gesetzen folgende Aufgaben:
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008301310)
 
 (weggefallen)
 
 
 ### Abschnitt 3 - Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002001310)
 
 
 
 #### § 77 Schriftform; Ausnahme von Formerfordernissen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008408311)
 
 (1) Die folgenden Verwaltungsakte bedürfen der Schriftform und sind
 mit Ausnahme der Nummer 5 mit einer Begründung zu versehen:
@@ -10382,6 +10538,7 @@ der Ausländer noch nicht eingereist oder bereits ausgereist ist.
 
 
 #### § 78 Dokumente mit elektronischem Speicher- und Verarbeitungsmedium
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008510311)
 
 (1) Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 werden
 als eigenständige Dokumente mit elektronischem Speicher- und
@@ -10666,6 +10823,7 @@ Absatz 1.
 
 
 #### § 78a Vordrucke für Aufenthaltstitel in Ausnahmefällen, Ausweisersatz und Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015104311)
 
 (1) Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 können
 abweichend von § 78 nach einem einheitlichen Vordruckmuster
@@ -10807,6 +10965,7 @@ Passpflicht genügt. Die Absätze 2 und 3 gelten entsprechend.
 
 
 #### § 79 Entscheidung über den Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008608311)
 
 (1) Über den Aufenthalt von Ausländern wird auf der Grundlage der im
 Bundesgebiet bekannten Umstände und zugänglichen Erkenntnisse
@@ -10868,6 +11027,7 @@ Verfahrens entschieden werden.
 
 
 #### § 80 Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008703311)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz ist
 ein Ausländer, der volljährig ist, sofern er nicht nach Maßgabe des
@@ -10899,6 +11059,7 @@ Aufenthalt nach Kapitel 2 Abschnitt 3 und 4 zustimmen.
 
 
 #### § 81 Beantragung des Aufenthaltstitels
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008808311)
 
 (1) Ein Aufenthaltstitel wird einem Ausländer nur auf seinen Antrag
 erteilt, soweit nichts anderes bestimmt ist.
@@ -10981,6 +11142,7 @@ gewonnenen Daten im Ausländerzentralregister erfolgt ist.
 
 
 #### § 81a Beschleunigtes Fachkräfteverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008706311)
 
 (1) Arbeitgeber können bei der zuständigen Ausländerbehörde in
 Vollmacht des Ausländers, der zu einem Aufenthaltszweck nach den §§
@@ -11100,6 +11262,7 @@ Beschäftigte.
 
 
 #### § 82 Mitwirkung des Ausländers
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE008913311)
 
 (1) Der Ausländer ist verpflichtet, seine Belange und für ihn günstige
 Umstände, soweit sie nicht offenkundig oder bekannt sind, unter Angabe
@@ -11172,6 +11335,7 @@ Satz 1 zu unterrichten.
 
 
 #### § 83 Beschränkung der Anfechtbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009004116)
 
 (1) Die Versagung eines nationalen Visums und eines Passersatzes an
 der Grenze sind unanfechtbar. Der Ausländer wird bei der Versagung
@@ -11188,6 +11352,7 @@ findet kein Widerspruch statt.
 
 
 #### § 84 Wirkungen von Widerspruch und Klage
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009113311)
 
 (1) Widerspruch und Klage gegen
 
@@ -11257,12 +11422,14 @@ wird.
 
 
 #### § 85 Berechnung von Aufenthaltszeiten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009201310)
 
 Unterbrechungen der Rechtmäßigkeit des Aufenthalts bis zu einem Jahr
 können außer Betracht bleiben.
 
 
 #### § 85a Verfahren bei konkreten Anhaltspunkten einer missbräuchlichen Anerkennung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020200310)
 
 (1) Wird der Ausländerbehörde von einer beurkundenden Behörde oder
 einer Urkundsperson mitgeteilt, dass konkrete Anhaltspunkte für eine
@@ -11323,9 +11490,11 @@ Absätzen 1 und 3 die deutschen Auslandsvertretungen zuständig.
 
 
 ### Abschnitt 4 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002102310)
 
 
 #### § 86 Erhebung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009302311)
 
 Die mit der Ausführung dieses Gesetzes betrauten Behörden dürfen zum
 Zweck der Ausführung dieses Gesetzes und ausländerrechtlicher
@@ -11338,6 +11507,7 @@ soweit dies im Einzelfall zur Aufgabenerfüllung erforderlich ist.
 
 
 #### § 86a Erhebung personenbezogener Daten zu Förderungen der freiwilligen Ausreise und Reintegration
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020601311)
 
 (1) Die Ausländerbehörden und alle sonstigen öffentlichen Stellen
 sowie privaten Träger, die staatlich finanzierte rückkehr- und
@@ -11387,6 +11557,7 @@ der Ausreise und zum Zielstaat der Ausreise.
 
 
 #### § 87 Übermittlungen an Ausländerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009412126)
 
 (1) Öffentliche Stellen mit Ausnahme von Schulen sowie Bildungs- und
 Erziehungseinrichtungen haben ihnen bekannt gewordene Umstände den in
@@ -11504,6 +11675,7 @@ zuständige Ausländerbehörde zu übermitteln, soweit dies für die in §
 
 
 #### § 88 Übermittlungen bei besonderen gesetzlichen Verarbeitungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009505311)
 
 (1) Eine Übermittlung personenbezogener Daten und sonstiger Angaben
 nach § 87 unterbleibt, soweit besondere gesetzliche
@@ -11545,6 +11717,7 @@ Absätze 1 bis 3 entsprechende Anwendung.
 
 
 #### § 88a Verarbeitung von Daten im Zusammenhang mit Integrationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015506311)
 
 (1) Bei der Durchführung von Integrationskursen ist eine Übermittlung
 von teilnehmerbezogenen Daten, insbesondere von Daten der Bestätigung
@@ -11700,6 +11873,7 @@ die für die Durchführung eines wissenschaftlichen Forschungsvorhabens
 
 
 #### § 89 Verfahren bei identitätsüberprüfenden, -feststellenden und -sichernden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014704311)
 
 (1) Das Bundeskriminalamt leistet Amtshilfe bei der Auswertung der
 nach § 49 von den mit der Ausführung dieses Gesetzes betrauten
@@ -11781,6 +11955,7 @@ Sicherheit oder Ordnung benötigt werden.
 
 
 #### § 90 Übermittlungen durch Ausländerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015603311)
 
 (1) Ergeben sich im Einzelfall konkrete Anhaltspunkte für
 
@@ -11854,6 +12029,7 @@ ihrem Ersuchen gegenüber der Ausländerbehörde bestätigt.
 
 
 #### § 90a Mitteilungen der Ausländerbehörden an die Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013302311)
 
 (1) Die Ausländerbehörden unterrichten unverzüglich die zuständigen
 Meldebehörden, wenn sie Anhaltspunkte dafür haben, dass die im
@@ -11898,6 +12074,7 @@ meldepflichtigen Ausländer enthalten:
 
 
 #### § 90b Datenabgleich zwischen Ausländer- und Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013402311)
 
 Die Ausländer- und Meldebehörden übermitteln einander jährlich die in
 § 90a Abs. 2 genannten Daten zum Zweck der Datenpflege, soweit sie
@@ -11914,6 +12091,7 @@ Vorschriften zum Datenabgleich bleiben unberührt.
 
 
 #### § 90c Datenübermittlungen im Visumverfahren über das Auswärtige Amt
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015901311)
 
 (1) Die Übermittlung von Daten im Visumverfahren von den
 Auslandsvertretungen an die im Visumverfahren beteiligten Behörden und
@@ -11935,6 +12113,7 @@ Versagung des Visums oder Rücknahme des Visumantrags.
 
 
 #### § 91 Speicherung und Löschung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009803311)
 
 (1) Die Daten über die Ausweisung, Zurückschiebung und Abschiebung
 sind zehn Jahre nach Ablauf der in § 11 Absatz 2 bezeichneten Frist zu
@@ -11949,6 +12128,7 @@ werden können, sind unverzüglich zu vernichten.
 
 
 #### § 91a Datenerhebung und -verwendung im Fall vorübergehenden Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE009906126)
 
 (1) Die Daten zu Ausländern nach § 24 Absatz 1, die ein Visum oder
 eine Aufenthaltserlaubnis beantragt haben oder denen ein solches Visum
@@ -11975,6 +12155,7 @@ erfüllen.
 
 
 #### § 91b Datenübermittlung durch das Bundesamt für Migration und Flüchtlinge als nationale Kontaktstelle
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010004126)
 
 Das Bundesamt für Migration und Flüchtlinge als nationale
 Kontaktstelle nach Artikel 27 Abs. 1 der Richtlinie 2001/55/EG darf
@@ -11999,6 +12180,7 @@ Stellen übermitteln:
 
 
 #### § 91c Innergemeinschaftliche Auskünfte zur Durchführung der Richtlinie 2003/109/EG
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013504311)
 
 (1) Das Bundesamt für Migration und Flüchtlinge unterrichtet als
 nationale Kontaktstelle im Sinne des Artikels 25 der Richtlinie
@@ -12145,6 +12327,7 @@ Mitteilungen anderer Mitgliedstaaten der Europäischen Union mit,
 
 
 #### § 91d Auskünfte zur Durchführung der Richtlinie (EU) 2016/801
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013605311)
 
 (1) Das Bundesamt für Migration und Flüchtlinge nimmt Anträge nach §
 18f entgegen und leitet diese Anträge an die zuständige
@@ -12255,6 +12438,7 @@ Flüchtlinge unverzüglich die zuständige Ausländerbehörde.
 
 
 #### § 91e Gemeinsame Vorschriften zu innergemeinschaftlichen Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013703126)
 
 Im Sinne der §§ 91c bis 91g sind
 
@@ -12271,6 +12455,7 @@ Im Sinne der §§ 91c bis 91g sind
 
 
 #### § 91f Auskünfte zur Durchführung der Richtlinie (EU) 2021/1883 innerhalb der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016802311)
 
 (1) Das Bundesamt für Migration und Flüchtlinge ist nationale
 Kontaktstelle im Sinne des Artikels 28 Absatz 1 der Richtlinie (EU)
@@ -12522,6 +12707,7 @@ und bei jeder Änderung
 
 
 #### § 91g Auskünfte zur Durchführung der Richtlinie 2014/66/EU
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE019603311)
 
 (1) Das Bundesamt für Migration und Flüchtlinge nimmt Anträge nach §
 19b entgegen und leitet diese Anträge an die zuständige
@@ -12649,6 +12835,7 @@ zuständigen Organen der Europäischen Union jährlich
 
 
 #### § 91h Datenübermittlung zur Durchführung der Verordnung (EU) 2017/2226
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022100311)
 
 (1) Erwirbt ein Drittstaatsangehöriger, dessen Daten im
 Einreise-/Ausreisesystem nach der Verordnung (EU) 2017/2226 des
@@ -12704,10 +12891,12 @@ durchgeführt werden.
 
 
 ## Kapitel 8 - Beauftragte für Migration, Flüchtlinge und Integration
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002201310)
 
 
 
 ### § 92 Amt der Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010102310)
 
 (1) Die Bundesregierung bestellt eine Beauftragte oder einen
 Beauftragten für Migration, Flüchtlinge und Integration.
@@ -12733,6 +12922,7 @@ Zusammentreten eines neuen Bundestages.
 
 
 ### § 93 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010201310)
 
 Die Beauftragte hat die Aufgaben,
 
@@ -12790,6 +12980,7 @@ Die Beauftragte hat die Aufgaben,
 
 
 ### § 94 Amtsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010302116)
 
 (1) Die Beauftragte wird bei Rechtsetzungsvorhaben der Bundesregierung
 oder einzelner Bundesministerien sowie bei sonstigen Angelegenheiten,
@@ -12817,10 +13008,12 @@ anderweitig nachgewiesen ist.
 
 
 ## Kapitel 9 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002301310)
 
 
 
 ### § 95 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014808311)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -12939,6 +13132,7 @@ einer dort genannten zuständigen Stelle verfolgt.
 
 
 ### § 96 Einschleusen von Ausländern und Personen, auf die das Freizügigkeitsgesetz/EU Anwendung findet
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010507311)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren, in
 minder schweren Fällen mit Freiheitsstrafe bis zu fünf Jahren oder mit
@@ -13037,6 +13231,7 @@ anzuwenden, wenn
 
 
 ### § 97 Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010604311)
 
 (1) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer in
 den Fällen des § 96 Abs. 1, auch in Verbindung mit § 96 Abs. 4, den
@@ -13058,6 +13253,7 @@ Taten verbunden hat, gewerbsmäßig handelt.
 
 
 ### § 97a Geheimhaltungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE020800311)
 
 Informationen zum konkreten Ablauf einer Abschiebung, insbesondere
 Informationen nach § 59 Absatz 1 Satz 8 sind Geheimnisse oder
@@ -13067,6 +13263,7 @@ Zeitpunkt von Anordnungen nach § 82 Absatz 4 Satz 1.
 
 
 ### § 98 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010727311)
 
 (1) Ordnungswidrig handelt, wer eine in § 95 Abs. 1 Nr. 1 oder 2 oder
 Abs. 2 Nr. 1 Buchstabe b bezeichnete Handlung fahrlässig begeht.
@@ -13204,10 +13401,12 @@ Flüchtlinge bleibt unberührt.
 
 
 ## Kapitel 9a - Rechtsfolgen bei illegaler Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002600310)
 
 
 
 ### § 98a Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016002311)
 
 (1) Der Arbeitgeber ist verpflichtet, dem Ausländer, den er ohne die
 nach § 284 Absatz 1 des Dritten Buches Sozialgesetzbuch erforderliche
@@ -13258,6 +13457,7 @@ unberührt.
 
 
 ### § 98b Ausschluss von Subventionen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016100310)
 
 (1) Die zuständige Behörde kann Anträge auf Subventionen im Sinne des
 § 264 des Strafgesetzbuches ganz oder teilweise ablehnen, wenn der
@@ -13298,6 +13498,7 @@ Freiheits- oder der Geldstrafe erfolgen.
 
 
 ### § 98c Ausschluss von der Vergabe öffentlicher Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE016201116)
 
 (1) Öffentliche Auftraggeber nach § 99 des Gesetzes gegen
 Wettbewerbsbeschränkungen können einen Bewerber oder einen Bieter vom
@@ -13331,10 +13532,12 @@ Entsendegesetzes entsprechend.
 
 
 ## Kapitel 10 - Verordnungsermächtigungen; Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNG002401310)
 
 
 
 ### § 99 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010819126)
 
 (1) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -13715,6 +13918,7 @@ einem Aufenthalt nach Kapitel 2 Abschnitt 3 oder 4 zu verzeichnen ist.
 
 
 ### § 100 Sprachliche Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE010902311)
 
 Das Bundesministerium des Innern, für Bau und Heimat kann durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die in diesem Gesetz
@@ -13728,6 +13932,7 @@ Wortlaut dieses Gesetzes im Bundesgesetzblatt bekannt machen.
 
 
 ### § 101 Fortgeltung bisheriger Aufenthaltsrechte
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011004311)
 
 (1) Eine vor dem 1. Januar 2005 erteilte Aufenthaltsberechtigung oder
 unbefristete Aufenthaltserlaubnis gilt fort als
@@ -13755,6 +13960,7 @@ und Sachverhalt im Rahmen seiner Gültigkeitsdauer fort.
 
 
 ### § 102 Fortgeltung ausländerrechtlicher Maßnahmen und Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011101310)
 
 (1) Die vor dem 1. Januar 2005 getroffenen sonstigen
 ausländerrechtlichen Maßnahmen, insbesondere zeitliche und räumliche
@@ -13777,6 +13983,7 @@ einer Duldung vor dem 1. Januar 2005 angerechnet.
 
 
 ### § 103 Anwendung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011201310)
 
 Für Personen, die vor dem Inkrafttreten dieses Gesetzes gemäß § 1 des
 Gesetzes über Maßnahmen für im Rahmen humanitärer Hilfsaktionen
@@ -13790,6 +13997,7 @@ Fassung weiter Anwendung. In diesen Fällen gilt § 52 Abs. 1 Satz 1 Nr.
 
 
 ### § 104 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011333311)
 
 (1) Über vor dem 1. Januar 2005 gestellte Anträge auf Erteilung einer
 unbefristeten Aufenthaltserlaubnis oder einer Aufenthaltsberechtigung
@@ -13922,6 +14130,7 @@ offensichtlich unbegründet abgelehnt wurde, findet § 10 Absatz 3 Satz
 
 
 ### § 104a Altfallregelung
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013805311)
 
 (1) Einem geduldeten Ausländer soll abweichend von § 5 Abs. 1 Nr. 1
 und Abs. 2 eine Aufenthaltserlaubnis erteilt werden, wenn er sich am
@@ -14059,6 +14268,7 @@ Heimat.
 
 
 ### § 104b Aufenthaltsrecht für integrierte Kinder von geduldeten Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE013901310)
 
 Einem minderjährigen ledigen Kind kann im Fall der Ausreise seiner
 Eltern oder des allein personensorgeberechtigten Elternteils, denen
@@ -14090,6 +14300,7 @@ verlängert wird, abweichend von § 5 Abs. 1 Nr. 1, Abs. 2 und § 10 Abs.
 
 
 ### § 104c Chancen-Aufenthaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE021900311)
 
 (1) Einem geduldeten Ausländer soll abweichend von § 5 Absatz 1 Nummer
 1, 1a und 4 sowie § 5 Absatz 2 eine Aufenthaltserlaubnis erteilt
@@ -14143,6 +14354,7 @@ Weise zu erfüllen sind, bezeichnen.
 
 
 ### § 105 Übergangsregelung zur Duldung für Personen mit ungeklärter Identität
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011403311)
 
 (1) Die Ausländerbehörde entscheidet bei geduldeten Ausländern über
 die Ausstellung einer Bescheinigung über die Duldung nach § 60a Absatz
@@ -14160,6 +14372,7 @@ Voraussetzungen für ihre Erteilung, findet § 60b keine Anwendung.
 
 
 ### § 105a Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE014910311)
 
 Von den in § 4 Absatz 2 Satz 2, § 15a Abs. 4 Satz 2 und 3, § 23 Abs. 1
 Satz 3, § 23a Abs. 1 Satz 1, Abs. 2 Satz 2, § 43 Abs. 4, § 44a Abs. 1
@@ -14177,6 +14390,7 @@ Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 
 ### § 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE015202311)
 
 Inhaber eines nach § 78a Absatz 1 Satz 1 ausgestellten
 Aufenthaltstitels können ein eigenständiges Dokument mit
@@ -14189,6 +14403,7 @@ wenn sie ein berechtigtes Interesse an der Neuausstellung darlegen.
 
 
 ### § 105c Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE017800116)
 
 Maßnahmen und Verpflichtungen nach § 54a Absatz 1 bis 4 in der bis zum
 31\. Dezember 2015 geltenden Fassung, die vor dem 1. Januar 2016
@@ -14198,6 +14413,7 @@ geltenden Fassung.
 
 
 ### § 105d Ermächtigung zur vorübergehenden Ausübung von Heilkunde
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE022000311)
 
 (1) Stehen für die ärztliche Versorgung von Ausländern, die eine
 Aufenthaltserlaubnis nach § 24 Absatz 1 besitzen oder beantragt haben
@@ -14277,6 +14493,7 @@ Bundesärzteordnung vereinbart wurde.
 
 
 ### § 106 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011504311)
 
 (1) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2
 Satz 1 des Grundgesetzes) und der Freiheit der Person (Artikel 2 Abs.
@@ -14294,6 +14511,7 @@ Abschiebungshaft jeweils vollzogen wird.
 
 
 ### § 107 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE011601310)
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 die Vorschriften dieses Gesetzes über die Zuständigkeit von Behörden
@@ -14301,6 +14519,7 @@ dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ### Anlage (zu § 20a Absatz 3 Nummer 2, § 20b)
+[Direktlink](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#BJNR195010004BJNE023000311)
 
 (Fundstelle: BGBl. 2023 I Nr. 217, S. 20)
 

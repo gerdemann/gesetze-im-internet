@@ -21,28 +21,34 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000300319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNG000100319)
 
 
 
 ## (XXXX) §§ 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000400319)
 
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000501308)
 
 
 
 ## Art 2 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNG000200319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000601308)
 
 (1) Wer wegen des Inkrafttretens dieses Gesetzes nicht mehr nach § 165
 Abs. 1 Nr. 3 der Reichsversicherungsordnung versichert ist oder wer
@@ -61,6 +67,7 @@ erfüllt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000700319)
 
 Personen, die bis zum 30. Juni 1978 eine Rente aus der gesetzlichen
 Rentenversicherung beantragen, gelten bis zu dem in § 315a Abs. 2 Satz
@@ -71,6 +78,7 @@ des § 315a Abs. 1 der Reichsversicherungsordnung nicht mehr erfüllen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000800319)
 
 (1) Personen, die vor dem Inkrafttreten dieses Gesetzes eine Rente aus
 der gesetzlichen Rentenversicherung beantragt haben, können erklären,
@@ -91,6 +99,7 @@ Krankenversicherung abgegeben werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE000900319)
 
 (1) Versicherte haben keinen Anspruch nach § 198 der
 Reichsversicherungsordnung oder nach § 25 des Gesetzes über die
@@ -111,6 +120,7 @@ Reichsversicherungsordnung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001000319)
 
 (1) Vereinbarungen nach § 368f Abs. 3 der Reichsversicherungsordnung
 sind erstmalig mit Wirkung vom 1. Juli 1978 zu treffen; hierbei ist
@@ -125,6 +135,7 @@ Arzneimittel im Jahre 1977 zu treffen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001100319)
 
 Die Bundesregierung hat den gesetzgebenden Körperschaften bis zum 31.
 Dezember 1981 einen Bericht über die Erfahrungen mit der konzertierten
@@ -140,6 +151,7 @@ Vorschlag machen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001200319)
 
 Leistungen nach § 205 Abs. 1 der Reichsversicherungsordnung oder nach
 § 32 Abs. 1 des Gesetzes über die Krankenversicherung der Landwirte,
@@ -153,6 +165,7 @@ gewähren.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001300319)
 
 Die in § 187 Nr. 1 Buchstabe b der Reichsversicherungsordnung und in §
 11 Nr. 1 Buchstabe b des Gesetzes über die Krankenversicherung der
@@ -162,6 +175,7 @@ Gesetzes geltenden Rechtsvorschriften zu erfüllen waren.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001400319)
 
 Die Bewertungsmaßstäbe nach § 368g Abs. 4 der
 Reichsversicherungsordnung sind erstmalig bis zum 1. Juli 1978
@@ -172,6 +186,7 @@ dieses Gesetzes bestehenden Vergütungsregelungen fort.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001500319)
 
 (1) Bis zum Inkrafttreten dieses Gesetzes abgeschlossene Verträge, die
 eine dem § 368n Abs. 2 Sätze 4 und 5 der Reichsversicherungsordnung
@@ -195,31 +210,37 @@ Beschwerdeverfahren bis zu deren Abschluß fort.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001600319)
 
 -
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001700319)
 
 -
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001800319)
 
 -
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE001900319)
 
 -
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE002000319)
 
 -
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE002100319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die
@@ -228,6 +249,7 @@ aufgrund dieses Gesetzes erlassen werden, gelten im Land Berlin nach §
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/kvkg/BJNR010699977.html#BJNR010699977BJNE002200319)
 
 (1) Dieses Gesetz tritt mit Ausnahme der in Absatz 2 genannten
 Vorschriften am 1. Juli 1977 in Kraft.

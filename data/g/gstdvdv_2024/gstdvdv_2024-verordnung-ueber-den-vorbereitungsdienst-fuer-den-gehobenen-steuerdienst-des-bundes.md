@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 2030-8-5-10 v. 12.1.2017 I 82 (GStDVDV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000100000)
 
 Auf Grund des § 26 Absatz 2 des Bundesbeamtengesetzes, der durch
 Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250)
@@ -34,9 +35,11 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000200000)
 
 (1) Die Ausbildung nach dieser Verordnung ist der Vorbereitungsdienst
 für den gehobenen Steuerdienst des Bundes.
@@ -58,6 +61,7 @@ Laufbahnprüfung eine Mindestgesamtpunktzahl erreicht hat.
 
 
 ### § 2 Dienstbehörde, Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000300000)
 
 (1) Dienstbehörde ist das Bundeszentralamt für Steuern.
 
@@ -74,9 +78,11 @@ jeweiligen Landesfinanzbehörde.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNG000200000)
 
 
 ### § 3 Ziel des Auswahlverfahrens, Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000400000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das
 Bundeszentralamt für Steuern auf der Grundlage eines
@@ -131,6 +137,7 @@ haben, jedoch erst nach einem Jahr.
 
 
 ### § 4 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000500000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das
 Bundeszentralamt für Steuern eine Auswahlkommission ein. Bei Bedarf
@@ -171,6 +178,7 @@ Enthaltung von der Punktvergabe ist nicht zulässig.
 
 
 ### § 5 Teile des Auswahlverfahrens, Auswahlkonzept, Täuschungen
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000600000)
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
@@ -186,6 +194,7 @@ Bewerberin oder der Bewerber angehört.
 
 
 ### § 6 Nachteilsausgleich im Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000700000)
 
 (1) Bewerberinnen und Bewerbern mit Behinderung oder mit einer
 vorübergehenden Beeinträchtigung wird auf Antrag ein angemessener
@@ -205,6 +214,7 @@ Gewährte Nachteilsausgleiche sind aktenkundig zu machen.
 
 
 ### § 7 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000800000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 die kognitiven Fähigkeiten der Bewerberinnen und Bewerber geprüft.
@@ -245,6 +255,7 @@ jedem Bewerber erzielten Ergebnisses eine Rangfolge fest.
 
 
 ### § 8 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE000900000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil bestanden hat.
@@ -264,6 +275,7 @@ haben, werden immer zum mündlichen Teil zugelassen.
 
 
 ### § 9 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001000000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere die
 persönlichen und sozialen Kompetenzen der Bewerberinnen und Bewerber
@@ -305,6 +317,7 @@ erforderliche Mindestgesamtpunktzahl erreicht hat.
 
 
 ### § 10 Gesamtergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001100000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber das Gesamtergebnis des Auswahlverfahrens. In das
@@ -319,9 +332,11 @@ für die Einstellung maßgebend.
 
 
 ## Abschnitt 3 - Ausbildung und Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNG000300000)
 
 
 ### § 11 Ausbildung und Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001200000)
 
 Für die Durchführung der Ausbildung und die Abnahme der
 Laufbahnprüfung gelten Teil 2 Kapitel 1 und 3 sowie § 79 der
@@ -329,12 +344,14 @@ Steuerbeamtenausbildungs- und -prüfungsordnung entsprechend.
 
 
 ### § 12 Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001300000)
 
 Wer die Laufbahnprüfung bestanden hat, erlangt die Befähigung für die
 Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes.
 
 
 ### § 13 Ausbildungsakte
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001400000)
 
 (1) Das Bundeszentralamt für Steuern führt für jede Anwärterin und
 jeden Anwärter eine Ausbildungsakte.
@@ -348,9 +365,11 @@ fünf Jahre aufbewahrt und sodann vernichtet oder gelöscht.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNG000400000)
 
 
 ### § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001500000)
 
 Für Anwärterinnen und Anwärter, die vor dem 26. Oktober 2022 mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über den
@@ -359,6 +378,7 @@ Januar 2017 (BGBl. I S. 82) weiter anzuwenden.
 
 
 ### § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gstdvdv_2024/BJNR1460A0023.html#BJNR1460A0023BJNE001600000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft. Gleichzeitig tritt
 die Verordnung über den Vorbereitungsdienst für den gehobenen

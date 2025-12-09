@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2008/BJNR178600008.html#BJNR178600008BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „UNESCO
@@ -48,11 +49,13 @@ Der Entwurf der Münze stammt von Herrn Wolfgang Th. Doehm, Stuttgart.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2008/BJNR178600008.html#BJNR178600008BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2008/BJNR178600008.html#BJNR178600008BJNE000300000)
 
 ( Fundstelle: BGBl. I 2008, 1786 )
 

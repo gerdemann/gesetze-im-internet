@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000100328)
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 1, 2 und 4 des Gesetzes über die
 Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965
@@ -32,6 +33,7 @@ wird verordnet:
 
 
 ## § 1 Anwendung der Internationalen Regeln
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000206360)
 
 Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See,
 die dem Übereinkommen von 1972 (BGBl. 1976 II, S. 1023) beigefügt und
@@ -43,6 +45,7 @@ bezeichnet, sind in der aus der Anlage ersichtlichen deutschen
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000306360)
 
 (1) Diese Verordnung gilt
 
@@ -85,6 +88,7 @@ unter ausländischer Flagge.
 
 
 ## § 3 Grundregeln für das Verhalten im Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000404308)
 
 (1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß die
 Sicherheit und Leichtigkeit des Verkehrs gewährleistet ist und daß
@@ -127,6 +131,7 @@ Schiffsbesatzung entsprechend.
 
 
 ## § 4 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000501308)
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit
 Verantwortliche haben die Vorschriften dieser Verordnung über das
@@ -157,6 +162,7 @@ Verordnung oder sonstigen Vorschriften ergibt, bleibt unberührt.
 
 
 ## § 5 Fahrzeuge des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000601308)
 
 Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser
 Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben
@@ -168,6 +174,7 @@ Seeaufgabengesetzes durchführen, entsprechend.
 
 
 ## § 6 Verkehrstrennungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000703308)
 
 (1) Verkehrstrennungsgebiete sind Schiffahrtswege, die durch
 Trennlinien oder Trennzonen oder anderweitig in Einbahnwege geteilt
@@ -182,6 +189,7 @@ Seeschiffahrt und Hydrographie) bekanntgemacht worden sind.
 
 
 ## § 7 Sicherheitszonen
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000806360)
 
 (1) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von
 500 m, gemessen von jedem Punkt des äußeren Randes, um Anlagen oder
@@ -221,6 +229,7 @@ nachrichtlich veröffentlicht.
 [^F819035_01_BJNR008130977BJNE000806360]: 
 
 ## § 7a Auskunft auf Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE001500308)
 
 (1) Wird der Fahrzeugführer eines Schiffes, das sich in der
 ausschließlichen Wirtschaftszone oder dem Küstenmeer eines anderen
@@ -252,6 +261,7 @@ Hydrographie) bekannt.
 
 
 ## § 8 Überwachung, Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE000903360)
 
 (1) Für die Überwachung der Vorschriften dieser Verordnung sind die
 Strom- und Schiffahrtpolizeibehörden nach Maßgabe des § 55 der
@@ -264,6 +274,7 @@ nach den Internationalen Regeln zulässig ist.
 
 
 ## § 8a Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE001400307)
 
 Soweit in anderen Vorschriften auf die "Seestraßenordnung" verwiesen
 wird, treten an deren Stelle die "Internationalen Regeln von 1972 zur
@@ -271,6 +282,7 @@ Verhütung von Zusammenstößen auf See".
 
 
 ## § 8b Verwendung von Lichtern, Signalkörpern und Schallsignalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE005102308)
 
 (1) Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind,
 dürfen
@@ -308,6 +320,7 @@ Fassung.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE001004305)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -454,11 +467,13 @@ Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 10 Inkrafttreten, Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE001201308)
 
 Die Verordnung tritt am 15. Juli 1977 in Kraft; ... .
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/seestrov/BJNR008130977.html#BJNR008130977BJNE001300328)
 
 Der Bundesminister für Verkehr
 

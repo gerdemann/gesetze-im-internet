@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dechwettbabkv/BJNR1960A0024.html#BJNR1960A0024BJNE000100000)
 
 Auf Grund des § 187 Absatz 10 Satz 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26.
@@ -28,6 +29,7 @@ Klimaschutz:
 
 
 ## § 1 Verwendung, Schutz und Vertraulichkeit von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/dechwettbabkv/BJNR1960A0024.html#BJNR1960A0024BJNE000200000)
 
 (1) Im Hinblick auf das Abkommen vom 1. November 2022 zwischen dem
 Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik
@@ -47,6 +49,7 @@ sowie gegenüber Dritten ist ausgeschlossen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dechwettbabkv/BJNR1960A0024.html#BJNR1960A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

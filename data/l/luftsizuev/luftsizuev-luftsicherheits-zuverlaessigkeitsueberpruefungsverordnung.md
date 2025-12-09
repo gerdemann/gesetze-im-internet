@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000100000)
 
 Auf Grund des § 17 Abs. 1 des Luftsicherheitsgesetzes vom 11. Januar
 2005 (BGBl. I S. 78) verordnet das Bundesministerium des Innern:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000202124)
 
 (1) Die Luftsicherheitsbehörde überprüft die Zuverlässigkeit der in §
 7 Abs. 1 des Luftsicherheitsgesetzes genannten Personen nach Maßgabe
@@ -65,6 +67,7 @@ Verordnung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000300000)
 
 (1) Die Zuverlässigkeit der in § 7 Abs. 1 des Luftsicherheitsgesetzes
 genannten Personen wird überprüft
@@ -110,6 +113,7 @@ Luftsicherheitsgesetzes bleibt davon unberührt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000401124)
 
 (1) Die Durchführung der Zuverlässigkeitsüberprüfung soll von den in §
 7 Abs. 1 des Luftsicherheitsgesetzes genannten Personen bei der nach §
@@ -257,6 +261,7 @@ widerrufen, darf die Ausbildung nicht fortgeführt werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000501124)
 
 (1) Die Luftsicherheitsbehörde soll über den Antrag auf Überprüfung
 der Zuverlässigkeit innerhalb eines Monats entscheiden.
@@ -351,6 +356,7 @@ geeigneter Nachweise verlangen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000601124)
 
 (1) Die Zuverlässigkeit eines Betroffenen ist zu verneinen, wenn daran
 Zweifel verbleiben. Zweifel an seiner Zuverlässigkeit verbleiben auch,
@@ -376,6 +382,7 @@ werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000701124)
 
 (1) Über das Ergebnis der Zuverlässigkeitsüberprüfung werden gemäß § 7
 Abs. 7 Satz 2 des Luftsicherheitsgesetzes unterrichtet:
@@ -459,6 +466,7 @@ Zuverlässigkeitsüberprüfung gilt im gesamten Bundesgebiet.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000801124)
 
 (1) Werden den nach § 7 Absatz 3 Satz 1 Nummer 2 des
 Luftsicherheitsgesetzes beteiligten Behörden, dem jeweiligen
@@ -495,6 +503,7 @@ diesen Betrieb zuständige Luftfahrtbehörde zu unterrichten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE000900000)
 
 Von der Zuverlässigkeitsüberprüfung sind ausgenommen:
 
@@ -512,6 +521,7 @@ Von der Zuverlässigkeitsüberprüfung sind ausgenommen:
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE001000000)
 
 Bis zum 31. Dezember 2008 ist § 3 Abs. 5 Satz 1 und § 5 Abs. 2 Satz 1
 mit der Maßgabe anzuwenden, dass anstelle der Frist von fünf Jahren
@@ -519,11 +529,13 @@ die Frist von zwei Jahren tritt.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE001100000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsiz_v/BJNR094700007.html#BJNR094700007BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

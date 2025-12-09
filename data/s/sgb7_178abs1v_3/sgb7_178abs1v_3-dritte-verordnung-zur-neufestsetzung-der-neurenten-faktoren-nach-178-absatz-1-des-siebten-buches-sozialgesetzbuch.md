@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb7_178abs1v_3/BJNR1740B0024.html#BJNR1740B0024BJNE000100000)
 
 Die Faktoren zur Berechnung der Rentenlasten, die nach § 178 Absatz 1
 des Siebten Buches Sozialgesetzbuch von jeder Berufsgenossenschaft

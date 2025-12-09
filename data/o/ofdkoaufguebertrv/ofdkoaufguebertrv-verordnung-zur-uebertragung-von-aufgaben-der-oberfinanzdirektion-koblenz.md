@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ofdkoaufg_bertrv/BJNR354000002.html#BJNR354000002BJNE000000000)
 
 Auf Grund des § 8 Abs. 3 Satz 1, 2 und 5 des Finanzverwaltungsgesetzes
 in der Fassung der Bekanntmachung vom 30. August 1971 (BGBl. I S.
@@ -32,6 +33,7 @@ Rheinland-Pfalz und Baden-Württemberg:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ofdkoaufg_bertrv/BJNR354000002.html#BJNR354000002BJNE000100000)
 
 Die Aufgaben der Zoll- und Verbrauchsteuerabteilung der
 Oberfinanzdirektion Koblenz im Sinne von § 8 Abs. 4 des
@@ -41,6 +43,7 @@ und Frankenthal auf die Oberfinanzdirektion Karlsruhe übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ofdkoaufg_bertrv/BJNR354000002.html#BJNR354000002BJNE000200000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2002 in Kraft.
 

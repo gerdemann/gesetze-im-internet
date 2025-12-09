@@ -20,6 +20,7 @@ Organisationserlass teilweise aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000100311)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
 27\. Oktober 1998 bekannt, der mit Wirkung vom 27. Oktober 1998 in
@@ -29,6 +30,7 @@ sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000200311)
 
 Das bisherige Bundesministerium für Verkehr und das bisherige
 Bundesministerium für Raumordnung, Bauwesen und Städtebau werden zu
@@ -37,6 +39,7 @@ zusammengelegt.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000300311)
 
 Es erhalten
 
@@ -53,6 +56,7 @@ Es erhalten
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000400311)
 
 Es wird ein Beauftragter der Bundesregierung für Angelegenheiten der
 neuen Länder bestellt. Diese Aufgabe übernimmt ein Staatsminister beim
@@ -64,6 +68,7 @@ Bundesländer übertragen.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000500311)
 
 Es wird ein Beauftragter der Bundesregierung für Angelegenheiten der
 Kultur und der Medien bestellt; dies geschieht unter Wahrung der
@@ -116,6 +121,7 @@ Deutschland gerichtlich und außergerichtlich.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000600311)
 
 Dem Bundesministerium für Finanzen werden übertragen aus dem
 Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
@@ -156,6 +162,7 @@ zugunsten Osteuropas und GUS.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000700311)
 
 Dem Bundesminister für Wirtschaft und Technologie werden aus dem
 Geschäftsbereich des Bundesministeriums für Bildung und Forschung
@@ -165,6 +172,7 @@ für die angewandte Energieforschung.
 
 
 ## VII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000800311)
 
 Dem Bundesministerium für Gesundheit wird aus dem Geschäftsbereich des
 Bundesministeriums für Arbeit und Sozialordnung übertragen die
@@ -172,6 +180,7 @@ Zuständigkeit für Pflegeversicherung.
 
 
 ## VIII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE000900311)
 
 Dem Bundesministerium für Arbeit und Sozialordnung wird aus dem
 Geschäftsbereich des Bundesministeriums für Gesundheit übertragen die
@@ -179,6 +188,7 @@ Zuständigkeit für Sozialrecht/Sozialhilfe.
 
 
 ## IX.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE001000311)
 
 Die Einzelheiten des Überganges werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
@@ -186,6 +196,7 @@ Bundeskanzleramtes mitgeteilt."
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1998bek/BJNR328800998.html#BJNR328800998BJNE001100311)
 
 Der Chef des Bundeskanzleramtes
 

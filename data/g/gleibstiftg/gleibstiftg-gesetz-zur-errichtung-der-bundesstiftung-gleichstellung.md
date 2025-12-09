@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000100000)
 
 (1) Unter dem Namen „Bundesstiftung Gleichstellung“ wird eine
 rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts
@@ -26,12 +27,14 @@ errichtet. Die Errichtung erfolgt mit Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000200000)
 
 Stiftungszweck ist die Stärkung und Förderung der Gleichstellung von
 Frauen und Männern in Deutschland.
 
 
 ## § 3 Erfüllung des Stiftungszwecks
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000300000)
 
 (1) Der Stiftungszweck wird insbesondere erfüllt durch:
 
@@ -71,6 +74,7 @@ bestehende Bundesgesetze sowie bestehende Programme und Projekte.
 
 
 ## § 4 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000400000)
 
 (1) Das Stiftungsvermögen bilden die unbeweglichen und beweglichen
 Vermögensgegenstände, die die Bundesrepublik Deutschland für die
@@ -91,6 +95,7 @@ Einnahmen sind nur zur Erfüllung des Stiftungszwecks zu verwenden.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000500000)
 
 (1) Organe der Stiftung sind der Stiftungsrat und das Direktorium.
 
@@ -110,6 +115,7 @@ vorsätzlich oder grob fahrlässig verursacht haben.
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000600000)
 
 (1) Der Stiftungsrat besteht aus
 
@@ -211,6 +217,7 @@ Bundesverwaltung geltenden Bestimmungen entsprechend.
 
 
 ## § 7 Direktorium
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000700000)
 
 (1) Das Direktorium besteht aus zwei Mitgliedern. Die Mitglieder sind
 hauptamtlich für die Stiftung tätig.
@@ -232,6 +239,7 @@ Direktoriums ist zuvor Gelegenheit zur Stellungnahme zu geben.
 
 
 ## § 8 Beteiligte Gremien
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000800000)
 
 (1) Bei der Erfüllung des Stiftungszwecks sind folgende Gremien
 beteiligt:
@@ -255,6 +263,7 @@ Mitglieder der Gremien ist § 5 Absatz 3 entsprechend anzuwenden.
 
 
 ## § 9 Stiftungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE000900000)
 
 (1) Der Stiftungsrat beruft den ständigen Stiftungsbeirat. Aufgabe des
 Stiftungsbeirates ist die Beratung des Stiftungsrates und des
@@ -314,6 +323,7 @@ stellvertretenden Vorsitzenden vertreten werden.
 
 
 ## § 10 Fachbeirat
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001000000)
 
 (1) Der Stiftungsrat kann auf Vorschlag des Direktoriums einen
 Fachbeirat zu bestimmten Themenschwerpunkten einberufen. Bei Bedarf
@@ -340,6 +350,7 @@ höchstens fünf sachverständigen Mitgliedern.
 
 
 ## § 11 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001100000)
 
 (1) Die Satzung wird vom Stiftungsrat beschlossen. Der Beschluss der
 Satzung sowie von Satzungsänderungen bedürfen einer Mehrheit von zwei
@@ -367,6 +378,7 @@ eine Satzung nach Absatz 1 Satz 1 beschließt.
 
 
 ## § 12 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001200000)
 
 (1) Die Geschäfte der Stiftung werden durch Arbeitnehmerinnen und
 Arbeitnehmer wahrgenommen.
@@ -378,6 +390,7 @@ anzuwenden. Satz 1 gilt für Auszubildende entsprechend.
 
 
 ## § 13 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001300000)
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung gelten die für die bundesunmittelbare
@@ -394,18 +407,21 @@ der Prüfung durch den Bundesrechnungshof.
 
 
 ## § 14 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001400000)
 
 Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend.
 
 
 ## § 15 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001500000)
 
 Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der
 Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.
 
 
 ## § 16 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001600000)
 
 Die Stiftung legt dem Deutschen Bundestag über das Bundesministerium
 für Familie, Senioren, Frauen und Jugend in jeder Legislaturperiode
@@ -419,6 +435,7 @@ vorgelegt werden.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gleibstiftg/BJNR113900021.html#BJNR113900021BJNE001700000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

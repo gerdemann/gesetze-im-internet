@@ -19,6 +19,7 @@ Stand: Zuletzt geändert Art. 6 G v. 12.8.2025 I Nr. 189
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000100308)
 
 Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der
 Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) verordnet der
@@ -26,6 +27,7 @@ Bundesminister für Raumordnung, Bauwesen und Städtebau:
 
 
 ## § 1 Planunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000200308)
 
 (1) Als Unterlagen für Bauleitpläne sind Karten zu verwenden, die in
 Genauigkeit und Vollständigkeit den Zustand des Plangebiets in einem
@@ -43,6 +45,7 @@ soll angegeben werden.
 
 
 ## § 2 Planzeichen
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000300308)
 
 (1) Als Planzeichen in den Bauleitplänen sollen die in der Anlage zu
 dieser Verordnung enthaltenen Planzeichen verwendet werden. Dies gilt
@@ -71,6 +74,7 @@ erkennbar ist.
 
 
 ## § 3 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000400308)
 
 Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser
 Verordnung geltenden Planzeichen können weiterhin verwendet werden
@@ -91,6 +95,7 @@ Verordnung geltenden Planzeichen können weiterhin verwendet werden
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000500308)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden dritten Kalendermonats in Kraft.
@@ -100,11 +105,13 @@ folgenden dritten Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000600308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html#BJNR000580991BJNE000704130)
 
 (Fundstelle: BGBl. I 1991, 58 [Anlagenband];
 bzgl. der einzelnen Änderungen vgl. Fußnote)

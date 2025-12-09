@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000100306)
 
 Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung
 und Beschleunigung gerichtlicher Verfahren (Vereinfachungsnovelle) vom
@@ -31,6 +32,7 @@ wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Bestimmung der Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000200306)
 
 (1) Für das Mahnverfahren bei Gerichten, die das Verfahren maschinell
 bearbeiten, werden eingeführt
@@ -74,6 +76,7 @@ zuzustellen ist.
 
 
 ## § 2 Zweitschriften, Ausfertigungen
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000301308)
 
 (1) Die in den Anlagen 3, 4, 6 und 7 bestimmten Vordrucke für den
 Widerspruch, den Antrag auf Erlaß eines Vollstreckungsbescheids und
@@ -89,6 +92,7 @@ Antragsgegner" zu versehen.
 
 
 ## § 3 Zulässige Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000401308)
 
 (1) Folgende Abweichungen von den in den Anlagen 1 bis 7 bestimmten
 Vordrucken sind zulässig:
@@ -119,6 +123,7 @@ automatisierten gerichtlichen Mahnverfahrens.
 
 
 ## § 4 Übergang zum Euro
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000502310)
 
 (1) Für Mahnverfahren, in denen der Antrag auf Erlaß des Mahnbescheids
 nach dem 31. Dezember 1998 und vor dem 1. Januar 2002 bei Gericht
@@ -177,16 +182,19 @@ bis 5 bestimmt die in § 3 Abs. 2 bezeichnete Stelle.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000600306)
 
 Diese Verordnung tritt am 1. Januar 1979 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000700306)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000804307)
 
 (Inhalt: nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 1991, 1567 - 1570;
@@ -194,6 +202,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE000902307)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
@@ -201,6 +210,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE001002307)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1991, 1571 - 1572;
@@ -208,6 +218,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE001103310)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
@@ -215,6 +226,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE001202307)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
@@ -222,6 +234,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE001303307)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
@@ -229,6 +242,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/maschmahnvordrv/BJNR007050978.html#BJNR007050978BJNE001402307)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;

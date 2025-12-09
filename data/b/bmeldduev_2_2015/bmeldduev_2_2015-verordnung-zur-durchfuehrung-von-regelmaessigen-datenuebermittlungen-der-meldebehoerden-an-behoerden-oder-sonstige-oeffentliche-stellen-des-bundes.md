@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000100000)
 
 Auf Grund des § 56 Absatz 1 Nummer 2 und 3 und Absatz 2 des
 Bundesmeldegesetzes (BMG) vom 3. Mai 2013 (BGBl. I S. 1084) verordnet
@@ -28,6 +29,7 @@ das Bundesministerium des Innern:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000206130)
 
 (1) Diese Verordnung regelt die Durchführung von regelmäßigen
 Datenübermittlungen der Meldebehörden an das Bundesamt für
@@ -46,6 +48,7 @@ bezeichnet.
 
 
 ## § 2 Verfahren der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000300000)
 
 Datenübermittlungen nach dieser Verordnung erfolgen elektronisch unter
 Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung des
@@ -55,6 +58,7 @@ des Bundes und die daran angeschlossenen Netze von Bund und Ländern.
 
 
 ## § 3 Standards der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000404130)
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des
 Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil –
@@ -83,6 +87,7 @@ der Anwendung anzugeben.
 
 
 ## § 4 Datenübermittlung an das Bundesamt für das Personalmanagement der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000501130)
 
 Die Meldebehörden übermitteln gemäß § 58c Absatz 1 des
 Soldatengesetzes an das Bundesamt für das Personalmanagement der
@@ -123,10 +128,12 @@ Die Datenübermittlung unterbleibt, wenn die betroffene Person ihr nach
 
 
 ## § 5 (wegefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000601116)
 
 
 
 ## § 6 Datenübermittlungen an die Datenstelle der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000702130)
 
 (1) Die Meldebehörden übermitteln gemäß § 150 Absatz 1 sowie § 196
 Absatz 2 und 2a des Sechsten Buches Sozialgesetzbuch der Datenstelle
@@ -320,6 +327,7 @@ Rentenversicherung zusätzlich zu den Daten nach Absatz 1:
 
 
 ## § 7 Datenübermittlung an das Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000802130)
 
 Die Meldebehörden übermitteln gemäß § 20a des
 Bundeszentralregistergesetzes nach einer Namensänderung oder Änderung
@@ -391,6 +399,7 @@ Geburtsdatum ebenfalls zu übermitteln.
 
 
 ## § 8 Datenübermittlung an das Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE000901130)
 
 Die Meldebehörden übermitteln gemäß § 64 des Straßenverkehrsgesetzes
 nach einer Änderung des Geburtsnamens oder des Vornamens einer Person,
@@ -462,6 +471,7 @@ Geburtsname ebenfalls zu übermitteln.
 
 
 ## § 9 Datenübermittlung an das Bundeszentralamt für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE001003130)
 
 (1) Die Meldebehörden übermitteln dem Bundeszentralamt für Steuern
 nach Speicherung einer Geburt oder eines Sterbefalles, nach einer
@@ -679,9 +689,11 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE001105130)
 
 
 ## § 11 Datenübermittlung an das Ausländerzentralregister
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE001404130)
 
 (1) Die Meldebehörden übermitteln gemäß § 6 Absatz 1 Nummer 9 des AZR-
 Gesetzes bei Änderung der Anschrift unverzüglich folgende Daten an das
@@ -758,6 +770,7 @@ zusätzlich die Daten nach Absatz 1 Nummer 1 bis 6 und 8 zu
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE001201116)
 
 (1) Diese Verordnung tritt am 1. November 2015 in Kraft.
 
@@ -768,6 +781,7 @@ Ablauf des 31. Oktober 2015 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_2_2015/BJNR195000014.html#BJNR195000014BJNE001301116)
 
 Der Bundesrat hat zugestimmt.
 

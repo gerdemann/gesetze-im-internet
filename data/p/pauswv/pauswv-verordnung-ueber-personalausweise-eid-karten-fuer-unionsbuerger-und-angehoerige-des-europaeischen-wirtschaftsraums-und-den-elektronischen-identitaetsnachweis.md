@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000100000)
 
 Auf Grund des § 34 des Personalausweisgesetzes vom 18. Juni 2009
 (BGBl. I S. 1346) in Verbindung mit dem 2. Abschnitt des
@@ -29,9 +30,11 @@ das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000302116)
 
 (1) Eine Sperrsumme ist ein eindeutiges Merkmal, das aus dem
 Sperrkennwort nach § 2 Absatz 6 des Personalausweisgesetzes, dem
@@ -78,6 +81,7 @@ bekannt gemacht ist, zu verwenden.
 
 
 ### § 2 Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000406130)
 
 Nach dem Stand der Technik sind zu erfüllen
 
@@ -152,6 +156,7 @@ Informationstechnik bekannt gemacht.
 
 
 ### § 3 Zertifizierung von Systemkomponenten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000503129)
 
 (1) Aus Anhang 4 ergeben sich die Systemkomponenten
 
@@ -194,6 +199,7 @@ Fassung.
 
 
 ### § 4 Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000604130)
 
 (1) Die Personalausweisbehörde dokumentiert für die Zwecke des
 elektronischen Identitätsnachweises mit dem Personalausweis:
@@ -318,6 +324,7 @@ Lichtbilds
 
 
 ### § 5 Speicherung und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000705130)
 
 (1) Für die Speicherung personenbezogener Daten nach dieser Verordnung
 bei den Personalausweisbehörden gilt § 23 Absatz 4 des
@@ -430,9 +437,11 @@ Fristablauf sind die Daten zu löschen:
 
 
 ## Kapitel 2 - Übermittlung des Lichtbilds durch Dienstleister
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG001300130)
 
 
 ### § 5a Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006700130)
 
 (1) In Fällen, in denen ein Personalausweis bei einer
 Personalausweisbehörde nach § 8 Absatz 1 des Personalausweisgesetzes
@@ -460,6 +469,7 @@ Vorlage bei einer Personalausweisbehörde bestimmt sind.
 
 
 ### § 5b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006800130)
 
 (1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 1 übermittelt der
 Dienstleister das Lichtbild an einen Cloudanbieter und übergibt der
@@ -484,6 +494,7 @@ und ausschließlich im Gebiet der Europäischen Union erfolgen.
 
 
 ### § 5c Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006900130)
 
 (1) Dienstleister haben sich bei einem Cloudanbieter mit einem
 Nutzerkonto zu registrieren. Bei der Registrierung ist ein Nachweis
@@ -548,6 +559,7 @@ Personalausweisgesetzes das übermittelte Pseudonym ein.
 
 
 ### § 5d Pflichten des Cloudanbieters
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007000130)
 
 Wenn bestimmte Tatsachen die Annahme begründen, dass ein beim
 Cloudanbieter abgerufenes Lichtbild auf unzulässige Weise erstellt
@@ -559,6 +571,7 @@ die Daten durch den Cloudanbieter gelöscht werden.
 
 
 ### § 5e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007100130)
 
 (1) Bei einer Übermittlung nach § 5a Absatz 2 Nummer 2 fertigt der
 Dienstleister das Lichtbild durch sein Lichtbildaufnahmegerät an, das
@@ -576,9 +589,11 @@ ein.
 
 
 ## Kapitel 3 - Übermittlung der Ausweisantragsdaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000201130)
 
 
 ### § 6 Erfassung der Anschrift
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000801360)
 
 Der Wohnort in der Anschrift nach § 5 Absatz 2 Nummer 9 Alternative 1
 des Personalausweisgesetzes ist mit der amtlichen Bezeichnung und mit
@@ -594,6 +609,7 @@ der Anschrift ermöglichen.
 
 
 ### § 6a Fertigung des Lichtbilds durch die Personalausweisbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE007200130)
 
 (1) Wird das Lichtbild von der Personalausweisbehörde mit einem
 eigenen Lichtbildaufnahmegerät gefertigt, trägt die
@@ -613,6 +629,7 @@ nach dessen Anfertigung.
 
 
 ### § 7 Qualitätssicherung des Lichtbildes und der Fingerabdrücke
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE000902130)
 
 (1) Ein Lichtbild, das nach § 9 Absatz 3 Satz 3 des
 Personalausweisgesetzes gefertigt wird, muss aktuell sein und den
@@ -637,6 +654,7 @@ Ausnahmen zulassen.
 
 
 ### § 8 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001001116)
 
 (1) Nachdem die Personalausweisbehörde alle Antragsdaten erfasst hat,
 führt sie diese zu einem digitalen Datensatz zusammen und übermittelt
@@ -701,6 +719,7 @@ dieser Verordnung entsprechendes Niveau aufweisen.
 
 
 ### § 9 Qualitätsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001101116)
 
 (1) Der Ausweishersteller erstellt eine Qualitätsstatistik. Sie
 enthält anonymisierte Qualitätswerte zu Lichtbildern und
@@ -716,9 +735,11 @@ zur Verfügung.
 
 
 ## Kapitel 4 - Produktion des Personalausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000302130)
 
 
 ### § 10 Eingang der Antragsdaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001200000)
 
 Der Ausweishersteller prüft, ob die Antragsdaten vollständig und
 unversehrt eingegangen sind, und bestätigt der Personalausweisbehörde
@@ -730,6 +751,7 @@ der übermittelnden Personalausweisbehörde.
 
 
 ### § 11 Muster für den Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001300000)
 
 Der Personalausweis ist nach dem in Anhang 1 abgedruckten Muster
 herzustellen. Für die einzutragenden Daten gelten die formalen
@@ -737,6 +759,7 @@ Anforderungen des Anhangs 3 Abschnitt 1.
 
 
 ### § 12 Muster für den vorläufigen Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001400000)
 
 Der vorläufige Personalausweis ist nach dem in Anhang 2 abgedruckten
 Muster herzustellen. Für die einzutragenden Daten gelten die formalen
@@ -744,6 +767,7 @@ Anforderungen des Anhangs 3 Abschnitt 1.
 
 
 ### § 12a Muster für den Ersatz-Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004700116)
 
 Der Ersatz-Personalausweis ist nach dem in Anhang 2a abgedruckten
 Muster herzustellen. Für die einzutragenden Daten gelten die formalen
@@ -751,6 +775,7 @@ Anforderungen des Anhangs 3 Abschnitt 1.
 
 
 ### § 13 Schnittstelle des Chips
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001501130)
 
 Der Chip des Personalausweises ist mit einer kontaktlosen
 Schnittstelle ausgestattet und benötigt für die Datenübertragung die
@@ -758,6 +783,7 @@ Energieversorgung durch Lesegeräte.
 
 
 ### § 14 Speicherung von personenbezogenen Daten; Zugriffsschutz
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001602130)
 
 (1) Alle im Chip des Personalausweises gespeicherten personenbezogenen
 Daten sind gegen unbefugten Zugriff zu schützen. Es ist insbesondere
@@ -796,6 +822,7 @@ Daten ausschließlich ausgelesen werden können durch
 
 
 ### § 15 Übermittlung und Übersendung des Sperrkennworts an die Personalausweisbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001700000)
 
 (1) Der Ausweishersteller übermittelt der Personalausweisbehörde im
 Datenübertragungsformat XhD auf sicherem elektronischem Weg
@@ -809,6 +836,7 @@ Bestätigung erhalten, fragt er bei der Personalausweisbehörde nach.
 
 
 ### § 16 Übermittlung der Sperrsumme, des Sperrschlüssels und des letzten Tages der Gültigkeitsdauer an den Sperrlistenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001801116)
 
 Der Ausweishersteller übermittelt dem Sperrlistenbetreiber auf
 sicherem elektronischem Weg verschlüsselt und signiert die Sperrsumme,
@@ -823,6 +851,7 @@ bei dem Sperrlistenbetreiber nach.
 
 
 ### § 17 Erhalt der Geheimnummer und der Entsperrnummer
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE001903130)
 
 (1) Die antragstellende Person erhält von der Personalausweisbehörde
 die Geheimnummer und die Entsperrnummer des Personalausweises in einem
@@ -850,9 +879,11 @@ Entsperrnummer erhalten können.
 
 
 ## Kapitel 5 - Ausgabe und Versand des Personalausweises; Braille-Aufkleber
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000403130)
 
 
 ### § 18 Ausgabe und Versand des Personalausweises und des Sperrkennworts
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002002130)
 
 (1) Der Personalausweis wird gemeinsam mit dem Sperrkennwort von der
 Personalausweisbehörde an die antragstellende Person, an eine andere
@@ -933,6 +964,7 @@ bevollmächtigte Person ist in diesen Fällen ausgeschlossen.
 
 
 ### § 18a Aufkleber mit Brailleschrift
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005600116)
 
 Auf Antrag des Ausweisinhabers wird durch die Personalausweisbehörde
 entweder bei Ausgabe des Personalausweises oder zu einem späteren
@@ -941,9 +973,11 @@ Personalausweis angebracht.
 
 
 ## Kapitel 6 - Änderung von Daten des Personalausweises; nachträgliches Einschalten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000502130)
 
 
 ### § 19 Änderung der Anschrift
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002103130)
 
 (1) Die Personalausweisbehörde ändert die Anschrift auf dem
 Personalausweis, indem sie einen Aufkleber mit der neuen Anschrift und
@@ -983,6 +1017,7 @@ Personalausweis in den dafür vorgesehenen Datenfeldern.
 
 
 ### § 20 Neusetzung und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit dem Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002203130)
 
 (1) Kennt der Ausweisinhaber die ursprüngliche Geheimnummer nicht,
 kann die Personalausweisbehörde die Neusetzung der Geheimnummer durch
@@ -1021,6 +1056,7 @@ Berechtigungszertifikat.
 
 
 ### § 21 Nachträgliches Einschalten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002404130)
 
 (1) Bevor die ausstellende oder zuständige Personalausweisbehörde
 einen ausgeschalteten elektronischen Identitätsnachweis nach § 10
@@ -1060,9 +1096,11 @@ Berechtigungszertifikat.
 
 
 ## Kapitel 7 - Elektronischer Identitätsnachweis mit einem mobilen Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG001201130)
 
 
 ### § 22 Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005701130)
 
 (1) Der Ausweisinhaber leitet die Einrichtung eines elektronischen
 Identitätsnachweises mit einem mobilen Endgerät durch Verwendung eines
@@ -1121,6 +1159,7 @@ abzustimmen.
 
 
 ### § 23 Speicherung von personenbezogenen Daten; Zugriffsschutz
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005800116)
 
 Auf einen elektronischen Identitätsnachweis mit einem mobilen Endgerät
 sind § 14 Absatz 1 mit der Maßgabe, dass abweichend von § 14 Absatz 1
@@ -1130,6 +1169,7 @@ Geheimnummer übermittelt werden muss, sowie § 14 Absatz 2 Nummer 1 und
 
 
 ### § 23a Neusetzen und Änderung der Geheimnummer für den elektronischen Identitätsnachweis mit einem mobilen Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005900116)
 
 (1) Kennt der Ausweisinhaber die bei der Einrichtung des
 elektronischen Identitätsnachweises mit einem mobilen Endgerät
@@ -1142,15 +1182,18 @@ bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer
 
 
 ### § 23b Gültigkeitsdauer
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006000116)
 
 Der elektronische Identitätsnachweis mit einem mobilen Endgerät hat
 eine Gültigkeitsdauer von zwei Jahren.
 
 
 ## Kapitel 8 - Sperrung und Entsperrung des elektronischen Identitätsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000701130)
 
 
 ### § 24 Referenzliste; allgemeine Sperrliste
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002600000)
 
 (1) Der Sperrlistenbetreiber führt eine Referenzliste der Sperrsummen,
 der Sperrschlüssel und des Datums der Übermittlung dieser Daten vom
@@ -1167,6 +1210,7 @@ bereitgestellt.
 
 
 ### § 25 Sperrung des elektronischen Identitätsnachweises mit dem Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002701116)
 
 (1) Kommt ein Personalausweis abhanden, hat der Ausweisinhaber den
 elektronischen Identitätsnachweis über die zuständige oder
@@ -1198,6 +1242,7 @@ gegenüber dem Sperrnotruf zu erfolgen.
 
 
 ### § 25a Sperrung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006100116)
 
 (1) Kommt ein mobiles Endgerät, auf welches Daten nach § 10a Absatz 1
 Satz 1 des Personalausweisgesetzes übermittelt wurden, abhanden, hat
@@ -1214,6 +1259,7 @@ zu bestätigen.
 
 
 ### § 26 Entsperrung des elektronischen Identitätsnachweises mit dem Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002801116)
 
 (1) Der Ausweisinhaber kann die Entsperrung eines gesperrten
 elektronischen Identitätsnachweises bei der ausstellenden oder
@@ -1234,6 +1280,7 @@ Bestätigung an den Ausweisinhaber weiter.
 
 
 ### § 26a Entsperrung des elektronischen Identitätsnachweises mit mobilem Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006200116)
 
 Anstelle einer Entsperrung eines gesperrten elektronischen
 Identitätsnachweises mit einem mobilen Endgerät kann ein erneuter
@@ -1242,6 +1289,7 @@ werden.
 
 
 ### § 27 Auskunft über Sperrung
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE002901116)
 
 Der Sperrlistenbetreiber hat die technischen und organisatorischen
 Vorkehrungen dafür zu treffen, dass der Ausweisinhaber Auskunft
@@ -1253,9 +1301,11 @@ Personalausweisen zu erteilen, die von ihr ausgestellt worden sind.
 
 
 ## Kapitel 9 - Beantragung von Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000801130)
 
 
 ### § 28 Antrag auf Erteilung einer Berechtigung für Vor-Ort-Diensteanbieter und sonstige Diensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003002116)
 
 (1) Der Antrag auf Erteilung einer Berechtigung nach § 21 Absatz 2 des
 Personalausweisgesetzes oder der Antrag auf Erteilung einer Vor-Ort-
@@ -1338,6 +1388,7 @@ Angaben enthalten:
 
 
 ### § 29 Antrag auf Erteilung einer Berechtigung für Identifizierungsdiensteanbieter; Vorgaben zu Datenschutz und Datensicherheit bei Identifizierungsdiensteanbietern
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003104116)
 
 (1) Für den Antrag auf Erteilung einer Berechtigung für
 Identifizierungsdiensteanbieter nach § 21b des Personalausweisgesetzes
@@ -1392,6 +1443,7 @@ Satz 1 Nummer 2 des Personalausweisgesetzes liegen nicht vor, wenn
 
 
 ### § 29a Einholung von Stellungnahmen der Datenschutzaufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004900116)
 
 Die Vergabestelle für Berechtigungszertifikate kann jederzeit eine
 Stellungnahme der zuständigen Datenschutzaufsichtsbehörde einholen, ob
@@ -1402,6 +1454,7 @@ Datenschutzaufsichtsbehörde nur in Zweifelsfällen abwarten.
 
 
 ### § 30 Öffentliche Liste der Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003200000)
 
 Die Vergabestelle für Berechtigungszertifikate veröffentlicht eine
 Liste aller erteilten gültigen Berechtigungen. Dabei sind die Angaben
@@ -1412,9 +1465,11 @@ Identitätsnachweises verwendet werden.
 
 
 ## Kapitel 10 - Ausgabe von Berechtigungszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG000901130)
 
 
 ### § 31 Angaben vor der Ausgabe von Berechtigungszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003302116)
 
 Berechtigungszertifikateanbieter dürfen Berechtigungszertifikate für
 den elektronischen Identitätsnachweis bereitstellen, wenn sie vor
@@ -1424,6 +1479,7 @@ sowie Absatz 2 aufgeführten Angaben gemacht haben.
 
 
 ### § 32 Beachtung der Anforderungen des Inhabers der Wurzelzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003402116)
 
 Das Bundesamt für Sicherheit in der Informationstechnik ist Inhaber
 der Wurzelzertifikate für Berechtigungszertifikate zum elektronischen
@@ -1437,6 +1493,7 @@ Informationstechnik bekannt gemacht.
 
 
 ### § 33 Beachtung der Berechtigung durch den Berechtigungszertifikateanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003500000)
 
 Vor der Ausgabe von Berechtigungszertifikaten hat der
 Berechtigungszertifikateanbieter zu überprüfen, ob eine Berechtigung
@@ -1452,6 +1509,7 @@ beauftragten Berechtigungszertifikateanbieter.
 
 
 ### § 34 Gültigkeitsdauer von Berechtigungszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003600000)
 
 Die Vergabestelle für Berechtigungszertifikate legt mit Erteilung der
 Berechtigung die Gültigkeitsdauer der Berechtigungszertifikate fest.
@@ -1462,6 +1520,7 @@ Einsatzumfeldes und an den beantragten Datenkategorien zu orientieren.
 
 
 ### § 35 Speicherung, Abruf und Verwendung von Daten durch Berechtigungszertifikateanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003700000)
 
 (1) Berechtigungszertifikateanbieter sind verpflichtet, sich zur
 Erzeugung von Listen, die Sperrmerkmale im Sinne des § 2 Absatz 7 des
@@ -1481,6 +1540,7 @@ erstellen.
 
 
 ### § 36 Ausgabe von hoheitlichen Berechtigungszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003804360)
 
 (1) Hoheitliche Berechtigungszertifikate nach § 20a Absatz 1 des
 Personalausweisgesetzes dürfen vorbehaltlich von Satz 2 ausschließlich
@@ -1504,6 +1564,7 @@ Berechtigungszertifikaten.
 
 
 ### § 36a Ausgabe von Berechtigungszertifikaten für öffentliche Stellen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005000116)
 
 Der Bund stellt Berechtigungszertifikate für öffentliche Stellen
 anderer Mitgliedstaaten zur Verfügung. Die Kommunikation und die
@@ -1519,9 +1580,11 @@ im Binnenmarkt (ABl. L 53 vom 25.2.2015, S. 14).
 
 
 ## Kapitel 11 - eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG001101130)
 
 
 ### § 36b Entsprechende Anwendung der Vorschriften über den Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005201130)
 
 (1) Soweit dieses Kapitel keine besonderen Regelungen enthält, gelten
 für die die eID-Karte betreffenden Angelegenheiten die Vorschriften
@@ -1534,6 +1597,7 @@ das eID-Kartenregister.
 
 
 ### § 36c Nicht auf die eID-Karte entsprechend anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005301116)
 
 Auf die eID-Karte finden keine Anwendung:
 
@@ -1571,6 +1635,7 @@ Auf die eID-Karte finden keine Anwendung:
 
 
 ### § 36d Abweichende Regelung für die eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006600130)
 
 § 20 Absatz 2 Satz 3 gilt mit der Maßgabe, dass der Zusteller bei der
 Übergabe des Briefes die Identität der antragstellenden Person durch
@@ -1580,6 +1645,7 @@ dessen Staatsangehörigkeit die antragstellende Person besitzt, zu
 
 
 ### § 36e Muster der eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005401130)
 
 Die eID-Karte ist nach dem in Anhang 3a abgedruckten Muster
 herzustellen. Für die einzutragenden Daten gelten die formalen
@@ -1587,9 +1653,11 @@ Anforderungen des Anhangs 3 Abschnitt 1 entsprechend.
 
 
 ## Kapitel 12 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNG001002130)
 
 
 ### § 37 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE003902130)
 
 (1) Vordrucke für vorläufige Personalausweise, die der Anlage 2 der
 bis zum 31. Oktober 2010 geltenden Verordnung zur Bestimmung der
@@ -1643,16 +1711,19 @@ bestätigen.
 
 
 ### § 38 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004000000)
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004100000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anhang 1 Muster des Personalausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004205130)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -1665,24 +1736,28 @@ Rückseite
 
 
 ### Anhang 1a Muster des Aufklebers zur Anschriftenänderung des Personalausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006300116)
 
 (Fundstelle: BGBl. I 2021, 3691)
 
 ![bgbl1_2021_j3682-1_0070.jpg](bgbl1_2021_j3682-1_0070.jpg)
 
 ### Anhang 1b Muster des Aufklebers zur Anschriftenänderung des Personalausweises nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006400116)
 
 (Fundstelle: BGBl. I 2021, 3691)
 
 ![bgbl1_2021_j3682-1_0080.jpg](bgbl1_2021_j3682-1_0080.jpg)
 
 ### Anhang 1c Muster des Aufklebers mit Brailleschrift für den Personalausweis und die eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE006500116)
 
 (Fundstelle: BGBl. I 2021, 3692)
 
 ![bgbl1_2021_j3682-1_0090.jpg](bgbl1_2021_j3682-1_0090.jpg)
 
 ### Anhang 2 Muster des vorläufigen Personalausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004302116)
 
 (Fundstelle: BGBl. I 2020, 2754)
 
@@ -1698,6 +1773,7 @@ Personalausweises
 ![bgbl1_2020_j2744-1_0060.jpg](bgbl1_2020_j2744-1_0060.jpg)
 
 ### Anhang 2a Muster des Ersatz-Personalausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004800116)
 
 (Fundstelle: BGBl. I 2015, 1102)
 
@@ -1709,6 +1785,7 @@ Rückseite
 ![bgbl1_2015_j1101-1_0020.jpg](bgbl1_2015_j1101-1_0020.jpg)
 
 ### Anhang 3
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004408130)
 
 (Fundstelle: BGBl. I 2010, 1471 - 1474;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2187,6 +2264,7 @@ Absatz 1 des Personalausweisgesetzes
 [^F829576_02_BJNR146000010BJNE004408130]: 
 
 ### Anhang 3a Muster der eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE005500360)
 
 (Fundstelle: BGBl. I 2020, 2200)
 
@@ -2199,6 +2277,7 @@ Rückseite
 
 
 ### Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten
+[Direktlink](https://www.gesetze-im-internet.de/pauswv/BJNR146000010.html#BJNR146000010BJNE004603130)
 
 (Fundstelle: BGBl. I 2010, 1476;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

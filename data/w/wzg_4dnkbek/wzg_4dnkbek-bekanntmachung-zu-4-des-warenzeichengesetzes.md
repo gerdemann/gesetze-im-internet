@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4dnkbek/BJNR019460975.html#BJNR019460975BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -31,11 +32,13 @@ Dänemark eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4dnkbek/BJNR019460975.html#BJNR019460975BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Amtliche Prüf- und Gewährzeichen des Königreichs Dänemark
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4dnkbek/BJNR019460975.html#BJNR019460975BJNE000200303)
 
 Fundstelle: BGBl. I 1975, 1947 - 1954)
 ![bgbl1_1975_j1947_0010.jpg](bgbl1_1975_j1947_0010.jpg)![bgbl1_1975_j1948_0010.jpg](bgbl1_1975_j1948_0010.jpg)![bgbl1_1975_j1949_0010.jpg](bgbl1_1975_j1949_0010.jpg)![bgbl1_1975_j1950_0010.jpg](bgbl1_1975_j1950_0010.jpg)![bgbl1_1975_j1951_0010.jpg](bgbl1_1975_j1951_0010.jpg)![bgbl1_1975_j1952_0010.jpg](bgbl1_1975_j1952_0010.jpg)![bgbl1_1975_j1953_0010.jpg](bgbl1_1975_j1953_0010.jpg)![bgbl1_1975_j1954_0010.jpg](bgbl1_1975_j1954_0010.jpg)

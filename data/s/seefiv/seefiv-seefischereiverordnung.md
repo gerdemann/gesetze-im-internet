@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000100326)
 
 Auf Grund der §§ 2 und 6 Abs. 3 des Seefischereigesetzes vom 12. Juli
 1984 (BGBl. I S. 876) wird verordnet:
 
 
 ## § 1 Überwachung der Fischerei im Küstenmeer
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000201377)
 
 Die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung
 (Bundesanstalt) zur Überwachung der Seefischerei nach § 2 Absatz 1 in
@@ -39,6 +41,7 @@ Vorpommern entfernt ist, bestimmt ist.
 
 
 ## § 2 Beschränkungen der Fischerei
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000309119)
 
 (1) Für Zeiträume, für die zu erwarten ist, dass auf Grund des
 Fischereirechts der Europäischen Union die Seefischerei mengenmäßig
@@ -117,6 +120,7 @@ Maschinenleistung aufweisen, verboten.
 
 
 ## § 3 Kontrollmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000403377)
 
 (1) Beim Betreten eines Schiffes zeigt ein Kontrollbeamter des Bundes
 den in der Anlage 2 zu dieser Verordnung bezeichneten Ausweis vor.
@@ -201,6 +205,7 @@ Kontrollbeamten einzuholen.
 
 
 ## § 4 Vermarktungskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001403377)
 
 Die Bundesanstalt kann, soweit dies zur Sicherstellung einer
 ausreichenden Überwachung erforderlich ist, anerkannte
@@ -214,6 +219,7 @@ obersten Landesbehörde.
 
 
 ## § 5 Verbindliche Anlandeorte
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000504377)
 
 (1) Soweit nicht nach § 6 oder auf Grund von Vorschriften des
 Fischereirechts der Europäischen Union etwas anderes geregelt ist,
@@ -236,6 +242,7 @@ oder Heimathafen des betroffenen Fischereifahrzeugs.
 
 
 ## § 6 Besondere Bestimmungen über Anlandungen und Umladungen in bezeichneten Häfen und an küstennahen Orten
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001500377)
 
 (1) Die bezeichneten Häfen und küstennahen Orte, an denen
 
@@ -293,6 +300,7 @@ insbesondere zu berücksichtigen:
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000607119)
 
 (1) Die Vorschriften dieser Verordnung gelten nicht für Fänge, die
 
@@ -331,6 +339,7 @@ verkauft oder zum Kauf angeboten werden.
 
 
 ## § 8 Zugang von Fischereifahrzeugen aus Drittländern zum Hafen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001600377)
 
 (1) Hat die Bundesanstalt einem Fischereifahrzeug aus einem Drittland
 den Zugang zum Hafen nicht genehmigt,
@@ -363,6 +372,7 @@ um den Heimathafen des jeweiligen Fischereifahrzeugs.
 
 
 ## § 9 Überprüfung von Satellitenortungsanlagen und elektronischen Aufzeichnungs- und Meldesystemen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001701119)
 
 Zur Überprüfung der Satellitenortungsanlage oder des elektronischen
 Aufzeichnungs- und Meldesystems im Sinne des Artikels 26 Absatz 1 Satz
@@ -381,6 +391,7 @@ der Fanglizenz zu erfolgen.
 
 
 ## § 10 Logbuchführung
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001801119)
 
 (1) Dem Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
 Europäischen Union ist es verboten, im Fischereilogbuch eine
@@ -447,6 +458,7 @@ vollständige Angaben nach Satz 2 enthalten müssen.
 
 
 ## § 11 Umladeerklärung
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001901119)
 
 (1) Der Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
 Europäischen Union mit einer Länge über alles von 10 Meter oder mehr,
@@ -493,6 +505,7 @@ unberührt.
 
 
 ## § 12 Anlandeerklärung
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002001119)
 
 (1) Der Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
 Europäischen Union mit einer Länge über alles
@@ -525,6 +538,7 @@ bleiben diese von den Absätzen 1 und 2 unberührt.
 
 
 ## § 13 Ausnahmen für die küstennahe Fischerei und die Tagesfischerei
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002101119)
 
 (1) Die Verpflichtungen auf Grund des Fischereirechts der Europäischen
 Union
@@ -594,6 +608,7 @@ Bundesnaturschutzgesetzes ausgewiesen sind.
 
 
 ## § 14 Fanggerät
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002201119)
 
 (1) Schleppnetze, Snurrewaden oder ähnliche Fanggeräte mit
 Fluchtfenster des Typs BACOMA oder mit einem um 90 Grad gedrehten
@@ -643,6 +658,7 @@ Landesfischereibehörde zu stellen.
 
 
 ## § 15 Wiegen von Seefischereierzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002301119)
 
 (1) Der für die Erstvermarktung der im Hoheitsgebiet angelandeten
 Seefischereierzeugnisse verantwortliche Marktteilnehmer hat
@@ -667,6 +683,7 @@ Europäischen Kommission gebilligt worden sind.
 
 
 ## § 16 Durchführung des Punktesystems für schwere Verstöße
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002400377)
 
 (1) Für die Zwecke des Punktesystems für schwere Verstöße nach § 13
 Absatz 1 Satz 2 Nummer 2 des Seefischereigesetzes werden die in Anlage
@@ -710,6 +727,7 @@ abweichen.
 
 
 ## § 17 Vermarktung von Seefischereierzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002500377)
 
 (1) Der Käufer, Verkäufer, Lagerhalter und Transporteur haben nach
 Aufforderung der jeweils zuständigen Landesbehörde beim Kauf oder
@@ -747,6 +765,7 @@ Seefischereierzeugnisse erwerben; Artikel 59 Absatz 3 der Verordnung
 
 
 ## § 18 Rückverfolgbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002601119)
 
 (1) Der für den Erstverkauf von Seefischereierzeugnissen
 verantwortliche Marktteilnehmer hat sicherzustellen, dass die
@@ -830,6 +849,7 @@ diese einen Wert von 50 Euro pro Tag und pro Verbraucher nicht
 
 
 ## § 19 Übernahmeerklärung und Transport
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002700377)
 
 (1) Die für die Erstvermarktung der im Hoheitsgebiet angelandeten
 Seefischereierzeugnisse verantwortlichen Marktteilnehmer, die bei
@@ -861,6 +881,7 @@ vorlegen.
 
 
 ## § 20 Einfuhr und Ausfuhr von Fischereierzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002800377)
 
 (1) Werden Fischereierzeugnisse bei der Einfuhr in ein
 Versandverfahren nach Artikel 4 Nummer 16 Buchstabe b der Verordnung
@@ -894,6 +915,7 @@ nachweisen kann.
 
 
 ## § 21 Finanzielle Beteiligung der Europäischen Union an bestimmten Ausgaben der Wirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE002901119)
 
 (1) Die Bundesanstalt hat die Aufgabe,
 
@@ -933,6 +955,7 @@ Verfahren in Kenntnis gesetzt wird.
 
 
 ## § 22 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000705119)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 4 Buchstabe a des
 Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1107,11 +1130,13 @@ Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE000903377)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001001377)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
@@ -1119,6 +1144,7 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 (zu § 2 Absatz 1)
 
 ## Anlage 1 Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001101119)
 
 (Fundstelle: BGBl. I 2019, 437)
 
@@ -1227,6 +1253,7 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 
 ## Anlage 2 (zu § 3 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001201308)
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1487;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1255,6 +1282,7 @@ Im Auftrag
 (zu § 5 Absatz 2)
 
 ## Anlage 3 Verbindliche Anlandeorte
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE001306119)
 
 (Fundstelle: BGBl. I 2012, 2553 - 2554)
 
@@ -1397,6 +1425,7 @@ Im Auftrag
 
 
 ## Anlage 4 (zu § 14 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE003001119)
 
 (Fundstelle: BGBl. I 2012, 2555 - 2556)
 
@@ -1629,6 +1658,7 @@ Sortiergittereinsatzes**
 (zu § 16 Absatz 1)
 
 ## Anlage 5 Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
+[Direktlink](https://www.gesetze-im-internet.de/seefiv/BJNR014850989.html#BJNR014850989BJNE003103377)
 
 (Fundstelle: BGBl. 2024 I Nr. 311, S. 1 – 6)
 

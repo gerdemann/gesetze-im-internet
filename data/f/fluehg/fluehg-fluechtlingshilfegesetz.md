@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNG000100319)
 
 
 
 ### § 1 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE000701307)
 
 (1) Leistungen nach Maßgabe der folgenden Vorschriften erhalten auf
 Antrag deutsche Staatsangehörige und deutsche Volkszugehörige, die
@@ -47,6 +49,7 @@ sind entsprechend anzuwenden.
 
 
 ### § 2 Ausschließungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE000800319)
 
 Liegen Voraussetzungen im Sinne des § 301 Abs. 2 Satz 2 oder des § 359
 Abs. 1 oder 3 des Lastenausgleichsgesetzes vor, werden Leistungen nach
@@ -58,19 +61,23 @@ anzuwenden.
 
 
 ## Abschnitt II - Einrichtungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNG000200319)
 
 
 
 ### (XXXX) §§ 3 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE000901308)
 
 -
 
 
 ## Abschnitt III - Laufende Beihilfe (Beihilfe zum Lebensunterhalt, besondere laufende Beihilfe)
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNG000300319)
 
 
 
 ### § 10 Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE001600319)
 
 (1) Berechtigte nach Abschnitt I, die in vorgeschrittenem Lebensalter
 stehen oder infolge von Krankheit oder Gebrechen dauernd
@@ -164,6 +171,7 @@ Lastenausgleichsgesetzes Anwendung.
 
 
 ### § 11 Lebensalter und Erwerbsunfähigkeit, Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE001700319)
 
 (1) Wegen vorgeschrittenen Lebensalters wird laufende Beihilfe nur
 gewährt, wenn der Berechtigte bei Antragstellung das 65. (eine Frau
@@ -199,6 +207,7 @@ Antragsfrist nicht vor dem 31. Dezember 1972 endet.
 
 
 ### § 12 Einkommenshöchstbetrag und Höhe der laufenden Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE001800319)
 
 Für den Einkommenshöchstbetrag und die Höhe der Beihilfe zum
 Lebensunterhalt sind die §§ 267 bis
@@ -213,6 +222,7 @@ Lastenausgleichsgesetzes errechnet wird.
 
 
 ### § 13 Gewährung von laufender Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE001901308)
 
 (1) Berechtigten, die auf Grund dieses Gesetzes laufende Beihilfe
 beantragen können, wird bei Antragstellung innerhalb eines Jahres nach
@@ -231,6 +241,7 @@ Lastenausgleichsgesetzes gilt entsprechend.
 
 
 ### § 14 Laufende Beihilfe nach Tod des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE002000319)
 
 Nach dem Tode des nach § 10 Berechtigten wird laufende Beihilfe
 entsprechend den Grundsätzen des § 261 Abs. 2 des
@@ -241,6 +252,7 @@ weitergewährt.
 
 
 ### § 15 Zusätzliche Leistungen zur Beihilfe zum Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE002102310)
 
 Zur Beihilfe zum Lebensunterhalt werden Leistungen in entsprechender
 Anwendung der §§ 276 und 277 des Lastenausgleichsgesetzes gewährt. Bei
@@ -249,37 +261,45 @@ Lastenausgleichsgesetzes entsprechend.
 
 
 ### § 16 Wirkung von Veränderungen, Meldepflicht, Erstattungspflicht, Verhältnis zu Aufbaudarlehen und zur Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE002200319)
 
 Die §§ 288 bis 292 des Lastenausgleichsgesetzes gelten entsprechend.
 
 
 ### § 16a Laufende Beihilfe nach dem 31. Dezember 2005
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE003400310)
 
 Für Zeiträume nach dem 31. Dezember 2005 gelten die §§ 292a bis 292c
 des Lastenausgleichsgesetzes entsprechend.
 
 
 ## Abschnitt IV - Eingliederungsdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNG000400319)
 
 
 
 ### (XXXX) §§ 17 bis 20a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE002301308)
 
 
 ## Abschnitt V - Anwendung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNG000500319)
 
 
 
 ## Abschnitt VI - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNG000600319)
 
 
 
 ### § 21 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE002801308)
 
 Die Aufwendungen für die Leistungen nach Abschnitt III trägt der Bund.
 
 
 ### § 22 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE002901308)
 
 Für die Durchführung des Gesetzes gelten die Vorschriften des
 Dreizehnten Abschnitts des Dritten Teils des Lastenausgleichsgesetzes
@@ -287,6 +307,7 @@ entsprechend.
 
 
 ### § 22a Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE003300308)
 
 Ansprüche nach § 20 Abs. 2 des Flüchtlingshilfegesetzes, die den
 Berechtigten vor dem 31. Juli 1992 zustehen, können noch bis zum 31.
@@ -294,6 +315,7 @@ Juli 1995 geltend gemacht werden.
 
 
 ### § 23 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE003000319)
 
 Zur Milderung von Härten kann die Bundesregierung mit Zustimmung des
 Bundesrates durch Rechtsverordnung bestimmen, daß in diesem Gesetz
@@ -314,6 +336,7 @@ erfüllt sein.
 
 
 ### § 24 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE003100319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -323,6 +346,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fl_hg/BJNR006120965.html#BJNR006120965BJNE003200319)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

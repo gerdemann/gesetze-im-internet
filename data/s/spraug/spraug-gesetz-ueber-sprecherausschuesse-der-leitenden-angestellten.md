@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000100325)
 
 
 
 ### § 1 Errichtung von Sprecherausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE001500325)
 
 (1) In Betrieben mit in der Regel mindestens zehn leitenden
 Angestellten (§ 5 Abs. 3 des Betriebsverfassungsgesetzes) werden
@@ -50,6 +52,7 @@ erfüllt.
 
 
 ### § 2 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE001600325)
 
 (1) Der Sprecherausschuß arbeitet mit dem Arbeitgeber vertrauensvoll
 unter Beachtung der geltenden Tarifverträge zum Wohl der leitenden
@@ -81,14 +84,17 @@ hierdurch nicht berührt.
 
 
 ## Zweiter Teil - Sprecherausschuß, Versammlung der leitenden Angestellten, Gesamt-, Unternehmens- und Konzernsprecherausschuß
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000200325)
 
 
 
 ### Erster Abschnitt - Wahl, Zusammensetzung und Amtszeit des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000300325)
 
 
 
 #### § 3 Wahlberechtigung und Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE001700325)
 
 (1) Wahlberechtigt sind alle leitenden Angestellten des Betriebs.
 
@@ -116,6 +122,7 @@ wählbar ist, wer
 
 
 #### § 4 Zahl der Sprecherausschußmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE001800325)
 
 (1) Der Sprecherausschuß besteht in Betrieben mit in der Regel
 
@@ -146,6 +153,7 @@ Verhältnis im Sprecherausschuß vertreten sein.
 
 
 #### § 5 Zeitpunkt der Wahlen und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE001900325)
 
 (1) Die regelmäßigen Wahlen des Sprecherausschusses finden alle vier
 Jahre in der Zeit vom 1. März bis 31. Mai statt. Sie sind zeitgleich
@@ -196,6 +204,7 @@ Wahlergebnis bekanntgegeben ist.
 
 
 #### § 6 Wahlvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002000325)
 
 (1) Der Sprecherausschuß wird in geheimer und unmittelbarer Wahl
 gewählt.
@@ -218,6 +227,7 @@ Unterzeichnung durch fünfzig leitende Angestellte.
 
 
 #### § 7 Bestellung, Wahl und Aufgaben des Wahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002100325)
 
 (1) Spätestens zehn Wochen vor Ablauf seiner Amtszeit bestellt der
 Sprecherausschuß einen aus drei oder einer höheren ungeraden Zahl von
@@ -254,6 +264,7 @@ eine Abschrift der Wahlniederschrift zu übersenden.
 
 
 #### § 8 Wahlanfechtung, Wahlschutz und Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002200325)
 
 (1) Die Wahl kann beim Arbeitsgericht angefochten werden, wenn gegen
 wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das
@@ -279,6 +290,7 @@ Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
 
 
 #### § 9 Ausschluß von Mitgliedern, Auflösung des Sprecherausschusses und Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002300325)
 
 (1) Mindestens ein Viertel der leitenden Angestellten oder der
 Arbeitgeber können beim Arbeitsgericht den Ausschluß eines Mitglieds
@@ -314,6 +326,7 @@ werden.
 
 
 #### § 10 Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002400325)
 
 (1) Scheidet ein Mitglied des Sprecherausschusses aus, rückt ein
 Ersatzmitglied nach. Dies gilt entsprechend für die Stellvertretung
@@ -334,10 +347,12 @@ gewählte Ersatzmitglied nachrückt oder die Stellvertretung übernimmt.
 
 
 ### Zweiter Abschnitt - Geschäftsführung des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000400325)
 
 
 
 #### § 11 Vorsitzender
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002500325)
 
 (1) Der Sprecherausschuß wählt aus seiner Mitte den Vorsitzenden und
 dessen Stellvertreter.
@@ -354,6 +369,7 @@ Vorsitzenden oder andere Mitglieder des Sprecherausschusses
 
 
 #### § 12 Sitzungen des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002601311)
 
 (1) Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand die
 Mitglieder des Sprecherausschusses zu der nach § 11 Abs. 1
@@ -411,6 +427,7 @@ auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 13 Beschlüsse und Geschäftsordnung des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002701311)
 
 (1) Die Beschlüsse des Sprecherausschusses werden, soweit in diesem
 Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der
@@ -443,6 +460,7 @@ beschließt.
 
 
 #### § 14 Arbeitsversäumnis und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002800325)
 
 (1) Mitglieder des Sprecherausschusses sind von ihrer beruflichen
 Tätigkeit ohne Minderung des Arbeitsentgelts zu befreien, wenn und
@@ -456,10 +474,12 @@ sachliche Mittel und Büropersonal zur Verfügung zu stellen.
 
 
 ### Dritter Abschnitt - Versammlung der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000500325)
 
 
 
 #### § 15 Zeitpunkt, Einberufung und Themen der Versammlung
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE002900325)
 
 (1) Der Sprecherausschuß soll einmal im Kalenderjahr eine Versammlung
 der leitenden Angestellten einberufen und in ihr einen
@@ -485,10 +505,12 @@ Stellung nehmen. § 2 Abs. 4 gilt entsprechend.
 
 
 ### Vierter Abschnitt - Gesamtsprecherausschuß
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000600325)
 
 
 
 #### § 16 Errichtung, Mitgliederzahl und Stimmengewicht
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003000325)
 
 (1) Bestehen in einem Unternehmen mehrere Sprecherausschüsse, ist ein
 Gesamtsprecherausschuß zu errichten.
@@ -516,6 +538,7 @@ Satz 1 anteilig zu.
 
 
 #### § 17 Ausschluß von Mitgliedern und Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003100325)
 
 (1) Mindestens ein Viertel der leitenden Angestellten des
 Unternehmens, der Gesamtsprecherausschuß oder der Arbeitgeber können
@@ -530,6 +553,7 @@ Entscheidung oder Abberufung durch den Sprecherausschuß.
 
 
 #### § 18 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003200325)
 
 (1) Der Gesamtsprecherausschuß ist zuständig für die Behandlung von
 Angelegenheiten, die das Unternehmen oder mehrere Betriebe des
@@ -549,6 +573,7 @@ entsprechend für den Gesamtsprecherausschuß.
 
 
 #### § 19 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003301311)
 
 (1) Für den Gesamtsprecherausschuß gelten § 10 Abs. 1, die §§ 11, 13
 Abs. 1, 3 bis 5 und § 14 entsprechend.
@@ -570,10 +595,12 @@ Stellvertretung durch Ersatzmitglieder ist zulässig.
 
 
 ### Fünfter Abschnitt - Unternehmenssprecherausschuß
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000700325)
 
 
 
 #### § 20 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003400325)
 
 (1) Sind in einem Unternehmen mit mehreren Betrieben in der Regel
 insgesamt mindestens zehn leitende Angestellte beschäftigt, kann
@@ -608,10 +635,12 @@ entsprechend für den Unternehmenssprecherausschuß.
 
 
 ### Sechster Abschnitt - Konzernsprecherausschuß
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000800325)
 
 
 
 #### § 21 Errichtung, Mitgliederzahl und Stimmengewicht
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003500325)
 
 (1) Für einen Konzern (§ 18 Abs. 1 des Aktiengesetzes) kann durch
 Beschlüsse der einzelnen Gesamtsprecherausschüsse ein
@@ -649,6 +678,7 @@ entsprechend.
 
 
 #### § 22 Ausschluß von Mitgliedern und Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003600325)
 
 (1) Mindestens ein Viertel der leitenden Angestellten der
 Konzernunternehmen, der Konzernsprecherausschuß oder der Arbeitgeber
@@ -664,6 +694,7 @@ Gesamtsprecherausschuß.
 
 
 #### § 23 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003700325)
 
 (1) Der Konzernsprecherausschuß ist zuständig für die Behandlung von
 Angelegenheiten, die den Konzern oder mehrere Konzernunternehmen
@@ -679,6 +710,7 @@ Widerruf der Beauftragung gilt Satz 1 entsprechend.
 
 
 #### § 24 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003801311)
 
 (1) Für den Konzernsprecherausschuß gelten § 10 Abs. 1, die §§ 11, 13
 Abs. 1, 3 bis 5, die §§ 14, 18 Abs. 3 und § 19 Abs. 3 entsprechend.
@@ -696,14 +728,17 @@ bis 7 gilt entsprechend.
 
 
 ## Dritter Teil - Mitwirkung der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG000900325)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG001000325)
 
 
 
 #### § 25 Aufgaben des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE003900325)
 
 (1) Der Sprecherausschuß vertritt die Belange der leitenden
 Angestellten des Betriebs (§ 1 Abs. 1 und 2). Die Wahrnehmung eigener
@@ -716,6 +751,7 @@ jederzeit zur Verfügung zu stellen.
 
 
 #### § 26 Unterstützung einzelner leitender Angestellter
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004000325)
 
 (1) Der leitende Angestellte kann bei der Wahrnehmung seiner Belange
 gegenüber dem Arbeitgeber ein Mitglied des Sprecherausschusses zur
@@ -732,6 +768,7 @@ Verlangen beizufügen.
 
 
 #### § 27 Grundsätze für die Behandlung der leitenden Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004101308)
 
 (1) Arbeitgeber und Sprecherausschuss haben darüber zu wachen, dass
 alle leitenden Angestellten des Betriebs nach den Grundsätzen von
@@ -749,6 +786,7 @@ zu fördern.
 
 
 #### § 28 Richtlinien und Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004201311)
 
 (1) Arbeitgeber und Sprecherausschuß können Richtlinien über den
 Inhalt, den Abschluß oder die Beendigung von Arbeitsverhältnissen der
@@ -768,6 +806,7 @@ drei Monaten gekündigt werden.
 
 
 #### § 29 Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004300325)
 
 (1) Die Mitglieder und Ersatzmitglieder des Sprecherausschusses sind
 verpflichtet, Betriebs- oder Geschäftsgeheimnisse, die ihnen wegen
@@ -786,10 +825,12 @@ des Konzernsprecherausschusses.
 
 
 ### Zweiter Abschnitt - Mitwirkungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG001100325)
 
 
 
 #### § 30 Arbeitsbedingungen und Beurteilungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004400325)
 
 Der Arbeitgeber hat den Sprecherausschuß rechtzeitig in folgenden
 Angelegenheiten der leitenden Angestellten zu unterrichten:
@@ -806,6 +847,7 @@ Er hat die vorgesehenen Maßnahmen mit dem Sprecherausschuß zu beraten.
 
 
 #### § 31 Personelle Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004500325)
 
 (1) Eine beabsichtigte Einstellung oder personelle Veränderung eines
 leitenden Angestellten ist dem Sprecherausschuß rechtzeitig
@@ -831,6 +873,7 @@ einer vertraulichen Behandlung bedürfen, Stillschweigen zu bewahren; §
 
 
 #### § 32 Wirtschaftliche Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004600325)
 
 (1) Der Unternehmer hat den Sprecherausschuß mindestens einmal im
 Kalenderhalbjahr über die wirtschaftlichen Angelegenheiten des
@@ -851,10 +894,12 @@ dieser Nachteile zu beraten.
 
 
 ## Vierter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG001200325)
 
 
 
 ### § 33 Seeschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004700325)
 
 (1) Auf Seeschiffahrtsunternehmen (§ 114 Abs. 2 des
 Betriebsverfassungsgesetzes) und ihre Betriebe ist dieses Gesetz
@@ -893,10 +938,12 @@ mit folgender Maßgabe Anwendung:
 
 
 ## Fünfter Teil - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG001300325)
 
 
 
 ### § 34 Straftaten gegen Vertretungsorgane der leitenden Angestellten und ihre Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004800325)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -927,6 +974,7 @@ verfolgt.
 
 
 ### § 35 Verletzung von Geheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE004900325)
 
 (1) Wer unbefugt ein fremdes Betriebs- oder Geschäftsgeheimnis
 offenbart, das ihm in seiner Eigenschaft als Mitglied oder
@@ -964,6 +1012,7 @@ Tode des Betroffenen, so gilt Satz 2 entsprechend.
 
 
 ### § 36 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE005001308)
 
 (1) Ordnungswidrig handelt, wer eine der in § 30 Satz 1, § 31 Abs. 1
 oder § 32 Abs. 1 Satz 1 oder Abs. 2 Satz 1 genannten Unterrichtungs-
@@ -975,10 +1024,12 @@ Euro geahndet werden.
 
 
 ## Sechster Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNG001400325)
 
 
 
 ### § 37 Erstmalige Wahlen nach diesem Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE005100325)
 
 (1) Die erstmaligen Wahlen des Sprecherausschusses oder des
 Unternehmenssprecherausschusses finden im Zeitraum der regelmäßigen
@@ -992,6 +1043,7 @@ spätestens bis zum 31. Mai 1990, im Amt.
 
 
 ### § 38 Ermächtigung zum Erlaß von Wahlordnungen
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE005202308)
 
 Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung zur Regelung des Wahlverfahrens Vorschriften über die
@@ -1026,6 +1078,7 @@ insbesondere über
 
 
 ### § 39 Sonderregelung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/spraug/BJNR023160988.html#BJNR023160988BJNE005306126)
 
 Eine Versammlung nach § 15 kann bis zum Ablauf des 7. April 2023 auch
 mittels audiovisueller Einrichtungen durchgeführt werden, wenn

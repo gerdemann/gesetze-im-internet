@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Anspruch auf nachträgliche Erfüllung eines Entschädigungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000100000)
 
 (1) Ist ein Anspruch auf Entschädigung nach den zum Zeitpunkt der
 Enteignung in der früheren Deutschen Demokratischen Republik
@@ -71,6 +72,7 @@ Entschädigung
 
 
 ## § 2 Rechte an enteigneten Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000200000)
 
 Gläubiger von Rechten an einem Grundstück oder Gebäude, die bei
 Inanspruchnahme im Grundbuch eingetragen waren, sowie ihre
@@ -86,6 +88,7 @@ entsprechend.
 
 
 ## § 3 Währungsumstellung
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000300000)
 
 Der in Mark der Deutschen Demokratischen Republik begründete Anspruch
 ist im Verhältnis 2 zu 1 auf Deutsche Mark umzustellen; dieser Betrag
@@ -103,6 +106,7 @@ Entschädigung zu erfüllenden Forderungen.
 
 
 ## § 4 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000400000)
 
 Über Ansprüche nach den §§ 1 und 2 entscheiden die für die
 Durchführung des Vermögensgesetzes zuständigen Behörden. Zuständig ist
@@ -117,6 +121,7 @@ diesem Gesetz zu übertragen.
 
 
 ## § 5 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000500000)
 
 Anträge nach den §§ 1 und 2 können bis zum 16. Juni 2004 gestellt
 werden (Ausschlussfrist). Ein Antrag nach dem Vermögensgesetz, über
@@ -125,6 +130,7 @@ nach dieser Vorschrift.
 
 
 ## § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000600000)
 
 Die Abschnitte V und VI des Vermögensgesetzes gelten entsprechend. §
 32 Abs. 1 des Vermögensgesetzes findet keine Anwendung. Für
@@ -133,6 +139,7 @@ entsprechend.
 
 
 ## § 7 Ausschluss doppelter Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/ddr-eerfg/BJNR247300003.html#BJNR247300003BJNE000700000)
 
 Hat der Berechtigte für den Verlust des enteigneten Vermögenswerts
 oder für die Entziehung des Entschädigungsanspruchs eine Leistung nach

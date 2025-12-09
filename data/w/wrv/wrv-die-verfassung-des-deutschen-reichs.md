@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 109
+[Direktlink](https://www.gesetze-im-internet.de/wrv/BJNR013830919.html#BJNR013830919BJNE000100306)
 
 (1) u. (2)
 
@@ -28,6 +29,7 @@ nicht mehr verliehen werden.
 
 
 ## Art 136
+[Direktlink](https://www.gesetze-im-internet.de/wrv/BJNR013830919.html#BJNR013830919BJNE000100314)
 
 (1) Die bürgerlichen und staatsbürgerlichen Rechte und Pflichten
 werden durch die Ausübung der Religionsfreiheit weder bedingt noch
@@ -49,6 +51,7 @@ religiösen Eidesform gezwungen werden.
 
 
 ## Art 137
+[Direktlink](https://www.gesetze-im-internet.de/wrv/BJNR013830919.html#BJNR013830919BJNE000200314)
 
 (1) Es besteht keine Staatskirche.
 
@@ -87,6 +90,7 @@ erfordert, liegt diese der Landesgesetzgebung ob.
 
 
 ## Art 138
+[Direktlink](https://www.gesetze-im-internet.de/wrv/BJNR013830919.html#BJNR013830919BJNE000300314)
 
 (1) Die auf Gesetz, Vertrag oder besonderen Rechtstiteln beruhenden
 Staatsleistungen an die Religionsgesellschaften werden durch die
@@ -100,12 +104,14 @@ Vermögen werden gewährleistet.
 
 
 ## Art 139
+[Direktlink](https://www.gesetze-im-internet.de/wrv/BJNR013830919.html#BJNR013830919BJNE000400314)
 
 Der Sonntag und die staatlich anerkannten Feiertage bleiben als Tage
 der Arbeitsruhe und der seelischen Erhebung gesetzlich geschützt.
 
 
 ## Art 141
+[Direktlink](https://www.gesetze-im-internet.de/wrv/BJNR013830919.html#BJNR013830919BJNE000500314)
 
 Soweit das Bedürfnis nach Gottesdienst und Seelsorge im Heer, in
 Krankenhäusern, Strafanstalten oder sonstigen öffentlichen Anstalten

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000100314)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -41,6 +42,7 @@ wiedergegebenen Kennzeichens.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000200314)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 desselben Gesetzes werden nationale
 Kennzeichen bekanntgemacht, die
@@ -53,32 +55,38 @@ eingeführt sind (Anlage 4).
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000300314)
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 14.
 Januar 1992 (BGBl. I S. 224).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000400314)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000500314)
 
 Fundstelle: BGBl. I 1992, 1025)
 ![bgbl1_1992_j1025_0010.jpg](bgbl1_1992_j1025_0010.jpg)
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000600314)
 
 Fundstelle: BGBl. I 1992, 1025)
 ![bgbl1_1992_j1025_0020.jpg](bgbl1_1992_j1025_0020.jpg)
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000700314)
 
 Fundstelle: BGBl. I 1992, 1026)
 ![bgbl1_1992_j1026_0010.jpg](bgbl1_1992_j1026_0010.jpg)
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4eureka_eftabek/BJNR010240992.html#BJNR010240992BJNE000800314)
 
 Fundstelle: BGBl. I 1992, 1026)
 ![bgbl1_1992_j1026_0020.jpg](bgbl1_1992_j1026_0020.jpg)

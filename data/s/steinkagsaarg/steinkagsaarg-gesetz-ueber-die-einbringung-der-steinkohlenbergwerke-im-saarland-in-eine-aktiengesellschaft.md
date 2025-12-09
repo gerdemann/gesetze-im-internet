@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/steinkagsaarg/BJNR011030957.html#BJNR011030957BJNE000100314)
 
 Als neuer Rechtsträger für die Steinkohlenbergwerke im Saarland
 (Artikel 85 des Vertrags zwischen der Bundesrepublik Deutschland und
@@ -30,6 +31,7 @@ Grundkapitals zu beteiligen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/steinkagsaarg/BJNR011030957.html#BJNR011030957BJNE000200314)
 
 Die Bundesrepublik Deutschland bringt in die Gesellschaft gegen
 Gewährung von Aktien sämtliche beweglichen und unbeweglichen
@@ -47,6 +49,7 @@ für Kohle.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/steinkagsaarg/BJNR011030957.html#BJNR011030957BJNE000300314)
 
 Die gemäß § 2 eingebrachten Gegenstände gehen kraft Gesetzes auf die
 Gesellschaft im Zeitpunkt ihrer Eintragung in das Handelsregister
@@ -62,6 +65,7 @@ in das Handelsregister erlischt das Unternehmen "Saarbergwerke".
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/steinkagsaarg/BJNR011030957.html#BJNR011030957BJNE000400314)
 
 Bei einem Antrag auf Berichtigung des Grundbuchs durch Eintragung der
 Gesellschaft als Eigentümerin eines gemäß § 2 eingebrachten
@@ -73,6 +77,7 @@ nicht der Form des § 29 der Grundbuchordnung bedarf.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/steinkagsaarg/BJNR011030957.html#BJNR011030957BJNE000500314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -80,6 +85,7 @@ im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/steinkagsaarg/BJNR011030957.html#BJNR011030957BJNE000600314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einlbehpostano/BJNR077510995.html#BJNR077510995BJNE000100000)
 
 Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in
 der Fassung der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750)
@@ -28,6 +29,7 @@ Benehmen mit dem Bundesministerium des Innern an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/einlbehpostano/BJNR077510995.html#BJNR077510995BJNE000200000)
 
 Einleitungsbehörden sind
 
@@ -63,6 +65,7 @@ Einleitungsbehörden sind
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/einlbehpostano/BJNR077510995.html#BJNR077510995BJNE000300000)
 
 Diese Anordnung tritt mit sofortiger Wirkung in Kraft.
 

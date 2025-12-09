@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hhg_3v/BJNR005450962.html#BJNR005450962BJNE000100319)
 
 Auf Grund des § 3 Buchstabe b des Häftlingshilfegesetzes in der
 Fassung der Bekanntmachung vom 25. Juli 1960 (Bundesgesetzbl. I S.
@@ -27,6 +28,7 @@ Fassung der Bekanntmachung vom 25. Juli 1960 (Bundesgesetzbl. I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hhg_3v/BJNR005450962.html#BJNR005450962BJNE000203314)
 
 (1) Deutsche Staatsangehörige und deutsche Volkszugehörige erhalten
 auf Antrag Beschädigtenversorgung nach Maßgabe des § 4 des
@@ -50,6 +52,7 @@ Häftlingshilfegesetzes sind sinngemäß anzuwenden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hhg_3v/BJNR005450962.html#BJNR005450962BJNE000300319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 15 des
@@ -57,6 +60,7 @@ Häftlingshilfegesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hhg_3v/BJNR005450962.html#BJNR005450962BJNE000400319)
 
 Diese Verordnung tritt mit dem Tag des Inkrafttretens des
 Häftlingshilfegesetzes in Kraft.

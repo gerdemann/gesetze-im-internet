@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvrausnv/BJNR039400993.html#BJNR039400993BJNE000100307)
 
 Auf Grund
 
@@ -49,6 +50,7 @@ Auf Grund
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvrausnv/BJNR039400993.html#BJNR039400993BJNE000201307)
 
 Mofas, die den in der Anlage aufgeführten Merkmalen entsprechen
 (Leichtmofas), dürfen abweichend von § 50 Abs. 6a und § 53 der
@@ -59,17 +61,20 @@ Nummer 1.7 genannten Auflagen erfüllt sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvrausnv/BJNR039400993.html#BJNR039400993BJNE000300307)
 
 Abweichend von § 21a Abs. 2 der Straßenverkehrs-Ordnung brauchen die
 Führer der Leichtmofas während der Fahrt keinen Schutzhelm zu tragen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvrausnv/BJNR039400993.html#BJNR039400993BJNE000400307)
 
 Diese Verordnung tritt mit Wirkung vom 28. Februar 1993 in Kraft.
 
 
 ## Anlage Merkmale der Leichtmofas
+[Direktlink](https://www.gesetze-im-internet.de/stvrausnv/BJNR039400993.html#BJNR039400993BJNE000500307)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 1993, 395)

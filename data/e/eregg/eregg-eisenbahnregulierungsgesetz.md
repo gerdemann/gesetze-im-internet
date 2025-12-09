@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNG000100000)
 
 
 ### § 1 Gegenstand, Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000202119)
 
 (1) Dieses Gesetz regelt für Eisenbahnen im Sinne des Allgemeinen
 Eisenbahngesetzes
@@ -315,6 +317,7 @@ wahrnehmen.
 
 
 ### § 2 Ausnahmen und Befreiungen von den Entflechtungsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000302119)
 
 (1) Die §§ 5 bis 9 und 12 sind nicht anzuwenden auf
 Eisenbahnverkehrsunternehmen, die ausschließlich tätig sind im
@@ -479,6 +482,7 @@ für die Anordnung entfallen sind.
 
 
 ### § 2a Ausnahmen und Befreiungen von den Entgelt- und Zuweisungsvorschriften für Eisenbahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009700119)
 
 (1) Nicht anzuwenden sind
 
@@ -547,6 +551,7 @@ in den Anwendungsbereich des Absatzes 1 fällt.
 
 
 ### § 2b Ausnahmen und Befreiungen von den Entgelt- und Zuweisungsvorschriften für Serviceeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009800119)
 
 (1) Kapitel 3 ist nicht anzuwenden für Betreiber von
 Serviceeinrichtungen, soweit die Serviceeinrichtungen an nicht
@@ -597,6 +602,7 @@ erfüllt, ist die Entscheidung zu widerrufen.
 
 
 ### § 3 Ziele der Regulierung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000401119)
 
 Ziele der Regulierung des Eisenbahnsektors sind:
 
@@ -629,6 +635,7 @@ Ziele der Regulierung des Eisenbahnsektors sind:
 
 
 ### § 4 Betriebs- und Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000500000)
 
 (1) Sind nach diesem Gesetz in einem Verfahren Angaben gegenüber einem
 Dritten zu machen, so hat der Dritte Betriebs- und
@@ -644,9 +651,11 @@ Aufgabenerfüllung erforderlich ist.
 
 
 ## Kapitel 2 - Entwicklung des Eisenbahnsektors
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNG000200000)
 
 
 ### § 5 Unabhängigkeit der Eisenbahnverkehrsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000600000)
 
 Eisenbahnverkehrsunternehmen, die unmittelbar oder mittelbar im
 Eigentum des Bundes, eines Landes oder einer kommunalen
@@ -662,6 +671,7 @@ Gebietskörperschaft.
 
 
 ### § 6 Führung der Eisenbahnverkehrsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000700000)
 
 Die Eisenbahnverkehrsunternehmen müssen nach den
 betriebswirtschaftlichen Grundsätzen geführt werden, die für
@@ -672,6 +682,7 @@ Behörden Verträge schließen.
 
 
 ### § 7 Getrennte Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000801119)
 
 (1) Eisenbahnen müssen ungeachtet ihrer Rechtsform für die Erbringung
 von Verkehrsleistungen durch Eisenbahnverkehrsunternehmen einerseits
@@ -724,6 +735,7 @@ anderen wirtschaftlichen Tätigkeiten zu überprüfen.
 
 
 ### § 8 Unabhängigkeit des Betreibers von Eisenbahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE000902119)
 
 (1) Ein Betreiber von Eisenbahnanlagen muss rechtlich getrennt sein
 
@@ -828,6 +840,7 @@ keinen Einfluss ausgeübt haben, ist ausgeschlossen.
 
 
 ### § 8a Unabhängigkeit des Betreibers von Eisenbahnanlagen in Bezug auf wesentliche Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009201119)
 
 (1) Ein Betreiber von Eisenbahnanlagen muss innerhalb der in § 8
 Absatz 1, §§ 23 und 39 Absatz 1 und § 44 dieses Gesetzes festgelegten
@@ -864,6 +877,7 @@ Geschäftsführung, Verwaltung und interne Kontrolle verfügen.
 
 
 ### § 8b Unparteilichkeit des Betreibers von Eisenbahnanlagen hinsichtlich des Verkehrsmanagements, der Instandhaltungsplanung und der baulichen Planung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009301119)
 
 (1) Die Aufgaben im Zusammenhang mit dem Verkehrsmanagement, der
 Instandhaltungsplanung und der Erneuerungsplanung müssen auf
@@ -895,6 +909,7 @@ und Erneuerungsarbeiten in diskriminierungsfreier Weise durchzuführen.
 
 
 ### § 8c Auslagerung und Aufteilung der Funktionen des Betreibers von Eisenbahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009401119)
 
 (1) Entstehen keine Konflikte zwischen den Interessen von
 Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen und
@@ -924,6 +939,7 @@ begründeten Fällen dazu raten, sie zu beenden. § 67 bleibt unberührt.
 
 
 ### § 8d Finanzielle Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009501119)
 
 (1) Die Einnahmen aus dem Betrieb von Eisenbahnanlagen, einschließlich
 Zuwendungen durch öffentliche Gelder dürfen vom Betreiber von
@@ -996,6 +1012,7 @@ bleiben unberührt.
 
 
 ### § 8e Europäisches Netzwerk der Hauptinfrastrukturbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009600124)
 
 Der Hauptinfrastrukturbetreiber arbeitet mit den
 Hauptinfrastrukturbetreibern der anderen Mitgliedstaaten in einem
@@ -1037,6 +1054,7 @@ Regulierungsbehörde gemäß den §§ 66 bis 74.
 
 
 ### § 9 Geschäftsplan des Betreibers von Eisenbahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001002119)
 
 (1) Jeder Betreiber von Eisenbahnanlagen hat einen Geschäftsplan zu
 beschließen, der auch die geplanten Investitions- und
@@ -1098,6 +1116,7 @@ bis 74.
 
 
 ### § 10 Zugang zu Eisenbahnanlagen und zu Serviceeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001102119)
 
 (1) Jeder Zugangsberechtigte hat das Recht auf Zugang zu
 Eisenbahnanlagen für alle Arten von Schienengüterverkehrsdiensten zu
@@ -1128,6 +1147,7 @@ inhaltsgleiche oder entgegenstehende Regelung trifft.
 
 
 ### § 10a Besondere Regeln für Betreiber der Personenbahnsteige und Betreiber der Laderampen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE010000119)
 
 (1) Für Betreiber der Personenbahnsteige und der Laderampen gelten,
 soweit dieses Gesetz nichts anderes bestimmt, die §§ 19 bis 24, 34, 36
@@ -1169,6 +1189,7 @@ Qualität und zeitlichen Verfügbarkeit.
 
 
 ### § 11 Zugang zu Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001201119)
 
 (1) Ein Betreiber von Eisenbahnanlagen hat für alle
 Zugangsberechtigten die Leistungen des Mindestzugangspakets nach
@@ -1187,6 +1208,7 @@ Regelung trifft.
 
 
 ### § 12 Unabhängigkeit von Entscheidungen für Serviceeinrichtungen; getrennte Rechnungsführung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001301119)
 
 (1) Wird ein Betreiber einer der in Anlage 2 Nummer 2 Buchstabe a, b,
 c, d, g und h aufgeführten Serviceeinrichtungen unmittelbar oder
@@ -1233,6 +1255,7 @@ Serviceeinrichtung entsprechend eingehalten werden.
 
 
 ### § 13 Serviceeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001401119)
 
 (1) Der Antrag eines Zugangsberechtigten auf Zugang zur
 Serviceeinrichtung und auf das dortige Erbringen von Leistungen nach
@@ -1285,6 +1308,7 @@ Sinne von Artikel 1 Satz 3 der Durchführungsverordnung (EU) 2017/2177.
 
 
 ### § 14 Zugang zu weiteren Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001501119)
 
 (1) Erbringt
 
@@ -1317,6 +1341,7 @@ angeboten werden.
 
 
 ### § 15 Werksbahnen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001600000)
 
 (1) Der Betreiber einer Werksbahn kann sich vorbehalten, Transporte
 auf der von ihm betriebenen Eisenbahninfrastruktur oder Teilen davon
@@ -1360,6 +1385,7 @@ Bundeseisenbahnverkehrsverwaltungsgesetzes.
 
 
 ### § 16 Durchführungsrechtsakt über den Zugang zu Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001700000)
 
 Die §§ 13, 14 und 15 sind insoweit nicht anzuwenden, als ein auf Grund
 des Artikels 13 Absatz 9 der Richtlinie 2012/34/EU erlassener
@@ -1368,6 +1394,7 @@ Regelung trifft.
 
 
 ### § 17 Umfang der Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001802119)
 
 (1) Die Regulierungsbehörde führt zur Wahrnehmung ihrer Aufgaben im
 Hinblick auf die Erfüllung der in § 3 dieses Gesetzes genannten Ziele,
@@ -1497,9 +1524,11 @@ Marktüberwachung Stellung nehmen.
 
 
 ## Kapitel 3 - Erhebung von Entgelten und Zuweisung von Schienenwegkapazität im Schienenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNG000300000)
 
 
 ### § 18 Effektive Nutzung der Schienenwegkapazität
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE001900000)
 
 Die Regelungen über Entgelte und Kapazitätszuweisungen für
 Schienenwege nach diesem Gesetz sind so auszulegen, dass es den
@@ -1509,6 +1538,7 @@ nutzen.
 
 
 ### § 19 Schienennetz-Nutzungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002001119)
 
 (1) Der Betreiber der Schienenwege hat nach Konsultation mit den
 Zugangsberechtigten nach Absatz 2 Schienennetz-Nutzungsbedingungen zu
@@ -1589,6 +1619,7 @@ Regulierungsbehörde. Die §§ 21 und 66 bis 68 bleiben unberührt.
 
 
 ### § 20 Vereinbarungen zwischen einem Zugangsberechtigten und dem Betreiber der Schienenwege oder einer Serviceeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002100000)
 
 (1) Der Betreiber der Schienenwege schließt mit jedem
 Zugangsberechtigten die erforderlichen Vereinbarungen über
@@ -1613,6 +1644,7 @@ Serviceeinrichtung.
 
 
 ### § 21 Vereinbarungen zur Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002200000)
 
 (1) Die Schienennetz-Nutzungsbedingungen und die Nutzungsbedingungen
 für Serviceeinrichtungen müssen einen Abschnitt mit Bestimmungen
@@ -1633,6 +1665,7 @@ der Eisenbahnaufsichtsbehörden.
 
 
 ### § 22 Eintritt eines Drittunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002300000)
 
 Ein Eisenbahnverkehrsunternehmen kann zur Erfüllung seiner
 Verpflichtungen aus einem Beförderungsvertrag verlangen, dass statt
@@ -1650,6 +1683,7 @@ und die durch den Eintritt des Dritten entstehenden Aufwendungen.
 
 
 ### § 23 Festsetzung, Berechnung und Erhebung von Entgelten für Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002400000)
 
 (1) Ein Betreiber der Schienenwege hat zu gewährleisten, dass die
 Entgeltregelung in seinem gesamten Netz auf denselben Grundsätzen
@@ -1668,6 +1702,7 @@ zu mitteln.
 
 
 ### § 24 Entgeltregulierung, Schienenwegkosten und Rechnungsführung beim Betreiber der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002500000)
 
 (1) Verpflichtet sich der Betreiber der Schienenwege gegenüber
 Gebietskörperschaften vertraglich zur Leistung von Eigenmitteln, so
@@ -1695,6 +1730,7 @@ die für Eisenbahnverkehrsunternehmen erbracht werden, festzulegen.
 
 
 ### § 25 Anreizsetzung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002601119)
 
 (1) Für die Dauer einer Regulierungsperiode hat ein Betreiber der
 Schienenwege der Regulierungsbehörde das Ausgangsniveau der
@@ -1738,6 +1774,7 @@ dieser eine angemessene Korrektur vor.
 
 
 ### § 26 Verfahren im Rahmen der Anreizsetzung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002701119)
 
 (1) Nach Ermittlung der jährlichen Obergrenze der Gesamtkosten prüft
 die Regulierungsbehörde auf Antrag des betroffenen Betreibers der
@@ -1781,6 +1818,7 @@ Jahre betragen.
 
 
 ### § 27 Ausnahmen im Rahmen der Anreizsetzung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002800000)
 
 (1) Liegen besondere oder unvorhergesehene Mehrbelastungen für einen
 Betreiber der Schienenwege vor, so kann die Regulierungsbehörde auf
@@ -1819,6 +1857,7 @@ ist entsprechend in Bezug auf zuwendungsgedeckte Kosten zu verfahren.
 
 
 ### § 28 Inflationsfaktor, Produktivitätsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE002901119)
 
 (1) Der Inflationsfaktor bestimmt sich nach dem Mittelwert der vom
 Statistischen Bundesamt ermittelten Werte für die Veränderung des
@@ -1847,6 +1886,7 @@ nach Absatz 2 vorzulegen.
 
 
 ### § 29 Regulierung durch Regulierungsvereinbarungen mit dem Betreiber der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003000000)
 
 (1) Zwischen einer Gebietskörperschaft und einem Betreiber der
 Schienenwege können für einen Zeitraum von mindestens fünf Jahren
@@ -1907,6 +1947,7 @@ Geschäftsplan. Dies wird durch die zuständigen Aufsichtsbehörden
 
 
 ### § 30 Verfahren für qualifizierte Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003100000)
 
 Die Anerkennung einer Vereinbarung als qualifizierte
 Regulierungsvereinbarung muss bei der Regulierungsbehörde beantragt
@@ -1923,6 +1964,7 @@ Entscheidung, gilt die Vereinbarung als anerkannt.
 
 
 ### § 31 Ermittlung der Entgelte des Betreibers der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003200000)
 
 (1) Der Betreiber der Schienenwege hat das Entgelt für das
 Mindestzugangspaket in Euro je Trassenkilometer auszuweisen. Mit
@@ -1937,6 +1979,7 @@ anderweitig gedeckt werden.
 
 
 ### § 31a Ermittlung der Entgelte des Betreibers der Personenbahnsteige und des Betreibers der Laderampen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE010100119)
 
 (1) Der Betreiber der Personenbahnsteige und der Betreiber der
 Laderampen haben das Entgelt für das Mindestzugangspaket in Euro je
@@ -1967,6 +2010,7 @@ werden.
 
 
 ### § 32 Ermittlung der Entgelte des Betreibers einer Serviceeinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003301119)
 
 (1) Die Entgelte für den Schienenzugang innerhalb von
 Serviceeinrichtungen nach Anlage 2 Nummer 2 und für die Erbringung von
@@ -1994,6 +2038,7 @@ Wartungseinrichtungen.
 
 
 ### § 33 Ermittlung und Genehmigung der Entgelte in Ausnahmefällen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003400000)
 
 (1) Es bedürfen der Genehmigung:
 
@@ -2020,6 +2065,7 @@ des § 315 des Bürgerlichen Gesetzbuches.
 
 
 ### § 34 Entgeltgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003501119)
 
 (1) Entgelte für die Nutzung der Schienenwege und von
 Serviceeinrichtungen sind an den Betreiber der Schienenwege und den
@@ -2054,6 +2100,7 @@ diese spätestens nach vier Jahren anzuwenden.
 
 
 ### § 35 Besondere Bedingungen bei Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003601119)
 
 (1) Die Wegeentgelte nach § 34 Absatz 3 können einen
 Entgeltbestandteil umfassen, der die Knappheit der
@@ -2151,6 +2198,7 @@ betroffen werden, auch ohne Antrag beiladen.
 
 
 ### § 36 Ausgestaltung der Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003702119)
 
 (1) Damit ein Betreiber der Schienenwege die ihm entstehenden Kosten
 vollständig decken kann, sind Aufschläge auf der Grundlage
@@ -2239,6 +2287,7 @@ Umfang und zur Art und Weise der Differenzierung machen.
 
 
 ### § 37 Ausgestaltung der Entgelte für Eisenbahnanlagen und Personenbahnhöfe für Personenverkehrsdienste im Rahmen eines öffentlichen Dienstleistungsauftrags; Kostendeckungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003802119)
 
 (1) Stehen den Ländern für die jeweilige Fahrplanperiode vom Bund
 Mittel für den öffentlichen Personennahverkehr, insbesondere für den
@@ -2324,6 +2373,7 @@ Dezember 2018, vorzulegen.
 
 
 ### § 38 Entgeltnachlässe für Betreiber der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE003900000)
 
 (1) Ungeachtet der grundsätzlichen Festlegung der Höhe der Kosten nach
 den §§ 34 und 35 müssen alle Nachlässe auf Entgelte, die ein Betreiber
@@ -2352,6 +2402,7 @@ angewandt.
 
 
 ### § 39 Besondere Entgeltregelungen, leistungsabhängige Entgeltregelung für Betreiber der Schienenwege und Betreiber von Serviceeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004000000)
 
 (1) Ein Betreiber der Schienenwege ist verpflichtet, den
 Zugangsberechtigten den Zugang zu Eisenbahnanlagen zu angemessenen,
@@ -2380,6 +2431,7 @@ Regelung trifft.
 
 
 ### § 40 Entgelte für vorgehaltene Schienenwegkapazität
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004100000)
 
 (1) Ein Betreiber der Schienenwege kann von einem Zugangsberechtigten
 ein angemessenes Entgelt für Schienenwegkapazität verlangen, die
@@ -2404,6 +2456,7 @@ verrechnet werden.
 
 
 ### § 41 Zusammenarbeit bei netzübergreifenden Entgeltregelungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004200000)
 
 (1) Betreiber der Schienenwege haben zur Koordinierung der
 Entgelterhebung oder zur Erhebung der Entgelte für den
@@ -2422,6 +2475,7 @@ Zugangsberechtigten transparenten Verfahren angewandt werden können.
 
 
 ### § 42 Rechte an Schienenwegkapazität
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004301124)
 
 (1) Der jeweilige Betreiber der Schienenwege hat dem jeweiligen
 Zugangsberechtigten Schienenwegkapazität nach § 44 zuzuweisen. Nach
@@ -2460,6 +2514,7 @@ Dienstleistungsaufträge.
 
 
 ### § 43 Rechte an und Nutzung von Kapazitäten in Serviceeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004401119)
 
 (1) Der jeweilige Betreiber einer Serviceeinrichtung hat dem
 jeweiligen Zugangsberechtigten Kapazitäten in der Serviceeinrichtung
@@ -2499,6 +2554,7 @@ Serviceeinrichtung zu zahlen.
 
 
 ### § 44 Zuweisung von Zugtrassen und Schienenwegkapazität
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004500000)
 
 (1) Ein Betreiber der Schienenwege hat die Zuweisung von Zugtrassen
 einschließlich des Verfahrens angemessen, nichtdiskriminierend und
@@ -2530,6 +2586,7 @@ stehen.
 
 
 ### § 45 Genehmigung der Entgelte und der Entgeltgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004601119)
 
 (1) Die Entgelte eines Betreibers der Schienenwege für die Erbringung
 des Mindestzugangspakets sind einschließlich der Entgeltgrundsätze
@@ -2550,6 +2607,7 @@ Sinne des § 315 des Bürgerlichen Gesetzbuches.
 
 
 ### § 46 Verfahren zur Genehmigung der Entgelte und der Entgeltgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004701119)
 
 (1) Die Genehmigung der Entgelte ist mindestens sechs Monate vor
 Ablauf der in § 51 Absatz 1 Satz 2 bestimmten Frist für die Stellung
@@ -2585,6 +2643,7 @@ keine Entscheidung, so gilt das beantragte Entgelt als genehmigt. Im
 
 
 ### § 47 Zusammenarbeit bei der Bereitstellung von Kapazität und bei der Zuweisung von netzübergreifenden Zugtrassen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004801119)
 
 (1) Ein Betreiber von Eisenbahnanlagen im Inland ist verpflichtet, im
 Interesse einer wirksamen Schaffung von Kapazitäten und Zuweisung von
@@ -2661,6 +2720,7 @@ unterrichten einander über die aufgestellten Nutzungsbedingungen.
 
 
 ### § 48 Anforderungen an Zugangsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE004901119)
 
 (1) Ein Betreiber der Schienenwege kann mit Rücksicht auf berechtigte
 Erwartungen hinsichtlich seiner künftigen Erlöse und hinsichtlich der
@@ -2680,6 +2740,7 @@ Regelung trifft.
 
 
 ### § 49 Rahmenvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005001119)
 
 (1) Zwischen einem Betreiber der Schienenwege und einem
 Zugangsberechtigten kann ein Rahmenvertrag geschlossen werden. In dem
@@ -2782,6 +2843,7 @@ eine Verlängerung der Laufzeit des Rahmenvertrages zur Folge hätten.
 
 
 ### § 49a Verfahren zur Genehmigung von Rahmenverträgen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE010200119)
 
 (1) Der Betreiber der Schienenwege beantragt die Genehmigung der
 Rahmenverträge und deren Änderung schriftlich oder elektronisch bei
@@ -2815,6 +2877,7 @@ Verwaltungsverfahrensgesetzes.
 
 
 ### § 50 Zeitplan des Zuweisungsverfahrens im Netzfahrplan
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005101119)
 
 (1) Ein Betreiber der Schienenwege hat den im Delegierten Beschluss
 (EU) 2017/2075 der Kommission vom 4. September 2017 zur Ersetzung des
@@ -2832,6 +2895,7 @@ vorgenommen werden, wenn dies unbedingt erforderlich ist.
 
 
 ### § 51 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005201119)
 
 (1) Die Zuweisung von Schienenwegkapazität hat der Zugangsberechtigte
 bei dem Betreiber der Schienenwege zu beantragen, dessen Netz genutzt
@@ -2879,6 +2943,7 @@ die in Anlage 2 Nummer 1 und 2 beschriebenen Leistungen.
 
 
 ### § 52 Netzfahrplanerstellung, Koordinierungsverfahren, Streitbeilegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005301119)
 
 (1) Ein Betreiber der Schienenwege muss, soweit ihm dies möglich ist,
 allen Anträgen auf Zuweisung von Schienenwegkapazität, einschließlich
@@ -3004,6 +3069,7 @@ als das genehmigte Entgelt.
 
 
 ### § 52a Pilotprojekte zur Erprobung neuer Modelle der Kapazitätsnutzung und der Fahrplanerstellung sowie des Deutschlandtakts; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE010300119)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
@@ -3056,6 +3122,7 @@ nach § 19 zu veröffentlichen.
 
 
 ### § 53 Netzfahrplanerstellung, Konsultationsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005401119)
 
 (1) Ein Betreiber der Schienenwege muss spätestens vier Monate nach
 Ablauf der in § 51 Absatz 1 Satz 2 genannten Frist einen vorläufigen
@@ -3078,6 +3145,7 @@ fest.
 
 
 ### § 54 Nutzungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005501119)
 
 Steht der endgültige Netzfahrplanentwurf fest, hat der Betreiber der
 Schienenwege unverzüglich
@@ -3095,6 +3163,7 @@ kann nur innerhalb von fünf Arbeitstagen angenommen werden.
 
 
 ### § 55 Überlastete Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005600000)
 
 (1) In den Fällen, in denen Anträgen auf die Zuweisung von
 Schienenwegkapazität nach Koordinierung der beantragten Zugtrassen und
@@ -3151,6 +3220,7 @@ Schienenpersonennahverkehr unmittelbar gefährdet ist.
 
 
 ### § 56 Anträge außerhalb der Erstellung des Netzfahrplans
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005701119)
 
 (1) Ein Betreiber der Schienenwege muss über Anträge außerhalb der
 Erstellung des Netzfahrplans auf Zuweisung einzelner Zugtrassen
@@ -3181,6 +3251,7 @@ außerhalb des Netzfahrplans gestellt worden sind.
 
 
 ### § 57 Besondere Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005800000)
 
 (1) Die Schienenwegkapazität gilt als von Verkehrsdiensten aller Art
 nutzbar, die den Betriebsmerkmalen der Zugtrasse entsprechen.
@@ -3202,6 +3273,7 @@ den Schienennetz-Nutzungsbedingungen nach § 19 anzugeben.
 
 
 ### § 58 Kapazitätsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE005900000)
 
 (1) Zweck einer Kapazitätsanalyse überlasteter Schienenwege ist neben
 der Ermittlung der Engpässe bei der Schienenwegkapazität, die
@@ -3226,6 +3298,7 @@ wurde.
 
 
 ### § 59 Plan zur Erhöhung der Schienenwegkapazität
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006001119)
 
 (1) Innerhalb von sechs Monaten nach Abschluss einer Kapazitätsanalyse
 hat der Betreiber der Schienenwege nach Konsultation der Nutzer der
@@ -3343,6 +3416,7 @@ durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
 
 
 ### § 60 Nutzung von Zugtrassen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006101119)
 
 (1) Ein Betreiber der Schienenwege muss in den Schienennetz-
 Nutzungsbedingungen Bedingungen festlegen, anhand derer er dem Grad
@@ -3379,6 +3453,7 @@ entziehen.
 
 
 ### § 61 Schienenwegkapazität für Instandhaltungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006201124)
 
 (1) Die Vorhaltung von Schienenwegkapazität für Instandhaltungszwecke
 ist im Rahmen der Netzfahrplanerstellung zu berücksichtigen.
@@ -3398,6 +3473,7 @@ ebenfalls zur Verfügung gestellt werden.
 
 
 ### § 62 Sondermaßnahmen bei Störungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006301124)
 
 (1) Bei technisch bedingten oder unfallbedingten Störungen der
 Zugbewegungen hat der Betreiber der Schienenwege alle erforderlichen
@@ -3427,13 +3503,16 @@ vertreten.
 
 
 ### (XXXX) §§ 63 bis 65 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006401119)
 
 
 
 ## Kapitel 4 - Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNG000501119)
 
 
 ### § 66 Die Regulierungsbehörde und ihre Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006701124)
 
 (1) Ist ein Zugangsberechtigter der Auffassung, durch Entscheidungen
 eines Eisenbahninfrastrukturunternehmens diskriminiert oder auf andere
@@ -3535,6 +3614,7 @@ insbesondere
 
 
 ### § 67 Befugnisse der Regulierungsbehörde, Überwachung des Verkehrsmarktes, Vollstreckungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006800000)
 
 (1) Die Regulierungsbehörde kann gegenüber Eisenbahnen und den übrigen
 nach diesem Gesetz Verpflichteten die Maßnahmen treffen, die
@@ -3607,6 +3687,7 @@ nach diesem Gesetz übertragenen Aufgaben erforderlich ist.
 
 
 ### § 68 Entscheidungen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE006901119)
 
 (1) Binnen eines Monats ab Erhalt einer Beschwerde prüft die
 Regulierungsbehörde die Beschwerde. Dazu fordert sie von den
@@ -3647,12 +3728,14 @@ Anwendungsbereich dieses Gesetzes in Einklang stehen.
 
 
 ### § 69 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007000000)
 
 Die Regulierungsbehörde erhebt für individuell zurechenbare
 öffentliche Leistungen Gebühren und Auslagen.
 
 
 ### § 70 Überwachung der Entflechtungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007102119)
 
 (1) Die Regulierungsbehörde ist befugt, einen Betreiber der
 Schienenwege, einen Betreiber einer Serviceeinrichtung und die
@@ -3714,6 +3797,7 @@ entgegenstehende Regelung trifft.
 
 
 ### § 71 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007200000)
 
 Die Regulierungsbehörde legt den gesetzgebenden Körperschaften des
 Bundes in den Jahren, in denen ein Gutachten der Monopolkommission
@@ -3724,6 +3808,7 @@ wesentlichen Marktdaten enthält.
 
 
 ### § 72 Besondere Unterrichtungspflichten der Eisenbahninfrastrukturunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007301119)
 
 Alle Eisenbahninfrastrukturunternehmen haben die Regulierungsbehörde
 unter Angabe der maßgeblichen Gründe unverzüglich zu unterrichten über
@@ -3776,6 +3861,7 @@ Absatz 3 der Verordnung (EU) Nr. 913/2010.
 
 
 ### § 73 Vorabprüfung durch die Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007401119)
 
 (1) Die Regulierungsbehörde kann nach Eingang einer Unterrichtung nach
 § 72 innerhalb von
@@ -3867,6 +3953,7 @@ nicht zu erwarten ist.
 
 
 ### § 74 Wissenschaftliche Beratung der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007500000)
 
 (1) Die Regulierungsbehörde kann zur Vorbereitung ihrer Entscheidungen
 oder zur Begutachtung von Fragen der Regulierung wissenschaftliche
@@ -3885,6 +3972,7 @@ Zugang zur Infrastruktur.
 
 
 ### § 75 Zusammenarbeit mit den Regulierungsbehörden der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007601124)
 
 (1) Die Regulierungsbehörde tauscht in nicht personenbezogener Form
 Informationen über ihre Arbeit, ihre Entscheidungsgrundsätze und ihre
@@ -3979,6 +4067,7 @@ Regelung trifft.
 
 
 ### § 76 Beteiligung der Regulierungsbehörde bei bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007700000)
 
 Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz
 ergeben, gilt § 90 Absatz 1 und 2 des Gesetzes gegen
@@ -3989,6 +4078,7 @@ Präsidentin treten.
 
 
 ### § 77 Beschlusskammern
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007801119)
 
 (1) Die Regulierungsbehörde entscheidet durch Beschlusskammern. Satz 1
 ist nicht anzuwenden
@@ -4107,6 +4197,7 @@ Verfahren in nicht personenbezogener Form veröffentlichen.
 
 
 ### § 77a Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE010400119)
 
 (1) Widerspruch und Klage gegen Entscheidungen der Regulierungsbehörde
 haben keine aufschiebende Wirkung.
@@ -4137,6 +4228,7 @@ anzuwenden.
 
 
 ### § 78 Gutachten der Monopolkommission
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE007901119)
 
 (1) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in
 dem sie
@@ -4170,6 +4262,7 @@ Körperschaften vorgelegt wird.
 
 
 ### § 79 Eisenbahninfrastrukturbeirat
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008001119)
 
 (1) Der Eisenbahninfrastrukturbeirat hat die Aufgabe,
 
@@ -4195,9 +4288,11 @@ durchführen.
 
 
 ## Kapitel 5 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNG000601119)
 
 
 ### § 80 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008102119)
 
 (1) Befreiungen von den Vorschriften über die getrennte
 Rechnungslegung nach § 9 Absatz 1e des Allgemeinen Eisenbahngesetzes
@@ -4232,6 +4327,7 @@ der Personenbahnsteige zu entrichten.
 
 
 ### Anlage 1 Verzeichnis der Eisenbahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008302119)
 
 (Fundstelle: BGBl. I 2016, 2111;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4299,6 +4395,7 @@ private Gleisanschlüsse:
 (zu den §§ 10 bis 14)
 
 ### Anlage 2 Für die Eisenbahnverkehrsunternehmen zu erbringende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008401119)
 
 (Fundstelle: BGBl. I 2016, 2112;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4440,6 +4537,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 19)
 
 ### Anlage 3 Inhalt der Schienennetz-Nutzungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008501119)
 
 (Fundstelle: BGBl. I 2016, 2113;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4553,6 +4651,7 @@ enthalten:
 (zu den §§ 25 bis 27)
 
 ### Anlage 4 Anreizsetzung
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008602119)
 
 (Fundstelle: BGBl. I 2016, 2114 - 2115;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4817,6 +4916,7 @@ Durchführung der Anreizsetzung
 (zu § 29)
 
 ### Anlage 5 Grundsätze und Eckdaten für Regulierungsvereinbarungen zwischen den zuständigen Stellen und Betreibern der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008701119)
 
 (Fundstelle: BGBl. I 2016, 2116;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4853,6 +4953,7 @@ Elemente, was sich mindestens auf Folgendes bezieht:
 (zu § 34 Absatz 4)
 
 ### Anlage 6 Abweichungen und Ergänzungen von Durchführungsrechtsakten der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008800000)
 
 (Fundstelle: BGBl. I 2016, 2117)
 
@@ -4881,6 +4982,7 @@ Weise durchführen.
 (zu § 36 Absatz 2 und § 39)
 
 ### Anlage 7 Anforderungen in Bezug auf die Kosten der Eisenbahnanlagen und Zugangsentgelte
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE008901119)
 
 (Fundstelle: BGBl. I 2016, 2118 - 2119;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5158,11 +5260,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009001119)
 
 
 (zu § 70 Absatz 1)
 
 ### Anlage 9 Der Regulierungsbehörde auf Verlangen vorzulegende Buchführungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/eregg/BJNR208210016.html#BJNR208210016BJNE009100000)
 
 (Fundstelle: BGBl. I 2016, 2121)
 

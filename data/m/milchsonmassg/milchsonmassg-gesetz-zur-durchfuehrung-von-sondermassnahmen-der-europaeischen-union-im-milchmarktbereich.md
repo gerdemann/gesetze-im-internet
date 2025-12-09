@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/milchsonmassg/BJNR304510016.html#BJNR304510016BJNE000100000)
 
 (1) Dieses Gesetz dient in Ergänzung des Marktorganisationsgesetzes
 der Durchführung von Sondermaßnahmen der Europäischen Union im
@@ -28,6 +29,7 @@ des Marktorganisationsgesetzes.
 
 
 ## § 2 Voraussetzungen und Höhe einer Vergünstigung
+[Direktlink](https://www.gesetze-im-internet.de/milchsonmassg/BJNR304510016.html#BJNR304510016BJNE000200000)
 
 (1) Soweit
 

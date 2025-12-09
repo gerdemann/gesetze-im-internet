@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000100308)
 
 Auf Grund des § 28 Abs. 2 des Krankenhausfinanzierungsgesetzes in der
 Fassung der Bekanntmachung vom 23. Dezember 1985 (BGBl. 1986 I S. 33),
@@ -28,6 +29,7 @@ S. 2477) geändert worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Umfang der Erhebungen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000200308)
 
 (1) Erhebungen als Bundesstatistik werden durchgeführt über
 
@@ -73,6 +75,7 @@ des Krankenhausfinanzierungsgesetzes genannten Krankenhäuser.
 
 
 ## § 2 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000301116)
 
 Erhebungseinheiten sind:
 
@@ -88,6 +91,7 @@ Erhebungseinheiten sind:
 
 
 ## § 3 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000605116)
 
 Erhebungsmerkmale sind:
 
@@ -220,6 +224,7 @@ erfassen.
 
 
 ## § 4 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000704116)
 
 Hilfsmerkmale sind:
 
@@ -250,6 +255,7 @@ Hilfsmerkmale sind:
 
 
 ## § 5 Periodizität und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000802116)
 
 Die Erhebungen werden jährlich durchgeführt. Die Angaben nach § 3 Satz
 1 Nummer 1, 2, 5 bis 12 und 17 werden jeweils nach dem Stand vom 31.
@@ -263,6 +269,7 @@ Landesamt zu melden.
 
 
 ## § 6 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE000902116)
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 4
 Nummer 4 sind freiwillig.
@@ -289,6 +296,7 @@ Krankenhäuser und der Vorsorge- oder Rehabilitationseinrichtungen.
 
 
 ## § 7 Übermittlung, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE001001116)
 
 (1) Das Statistische Bundesamt und die Statistischen Landesämter
 dürfen den fachlich zuständigen obersten Bundes- und Landesbehörden
@@ -340,6 +348,7 @@ Verzeichnis mit folgenden Angaben zu veröffentlichen:
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE001201320)
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Wirkung vom 1.
 Januar 1990 in Kraft. Es treten § 3 Nr. 11 bis 13 am 1. Januar 1991
@@ -347,6 +356,7 @@ und § 3 Nr. 14 am 1. Januar 1993 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/khstatv/BJNR007300990.html#BJNR007300990BJNE001300308)
 
 Der Bundesrat hat zugestimmt.
 

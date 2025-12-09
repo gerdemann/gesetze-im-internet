@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Nachweis der erforderlichen fachlichen Kenntnisse und Fertigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000100000)
 
 (1) Mit dem Antrag auf Ausstellung eines Sachkundenachweises nach § 9
 Absatz 2 Satz 1 des Pflanzenschutzgesetzes ist der Nachweis der
@@ -107,6 +108,7 @@ zuletzt durch Artikel 5 Absatz 40 des Gesetzes vom 24. Februar 2012
 
 
 ## § 2 Ausstellung und Gestaltung des Sachkundenachweises
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000202301)
 
 (1) Hat die Prüfung der vom Antragsteller nach § 1 vorzulegenden
 Unterlagen durch die zuständige Behörde ergeben, dass der
@@ -189,6 +191,7 @@ werden. § 9 des Bundesdatenschutzgesetzes ist zu beachten.
 
 
 ## § 3 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000300000)
 
 (1) Durch die Prüfungen ist jeweils festzustellen, ob der Prüfling die
 erforderlichen Kenntnisse und die für die jeweilige Tätigkeit
@@ -238,6 +241,7 @@ werden.
 
 
 ## § 4 Durchführung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000400000)
 
 (1) Die Prüfung wird vor einem Prüfungsausschuss der zuständigen
 Behörde abgelegt. Die nach Landesrecht zuständige Behörde richtet den
@@ -312,6 +316,7 @@ Antragstellers die Prüfung bei einer anderen Behörde zulassen.
 
 
 ## § 5 Entzug und Wiedererlangung der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000500000)
 
 (1) Hat die zuständige Behörde den Sachkundenachweis unter den
 Voraussetzungen des § 9 Absatz 3 des Pflanzenschutzgesetzes entzogen,
@@ -327,6 +332,7 @@ Antragsteller frühestens sechs Monate vor Ablauf der nach § 23 Absatz
 
 
 ## § 6 Anerkennung von Befähigungsnachweisen aus anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000600000)
 
 (1) Abweichend von § 1 erkennt die zuständige Behörde unter den
 Voraussetzungen des Absatzes 2 auch Befähigungsnachweise, die in
@@ -343,6 +349,7 @@ Sprachkenntnisse hat.
 
 
 ## § 7 Anerkennung von Fort- oder Weiterbildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000700000)
 
 (1) Die zuständige Behörde erkennt auf Antrag eine Fort- oder
 Weiterbildungsmaßnahme im Sinne des § 9 Absatz 4 des
@@ -403,6 +410,7 @@ des § 9 Absatz 4 des Pflanzenschutzgesetzes.
 
 
 ## § 8 Nachweis einer Fort- oder Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000800000)
 
 Die zuständige Behörde stellt dem jeweiligen Teilnehmer über die
 erfolgte Teilnahme an einer Fort- oder Weiterbildungsmaßnahme eine
@@ -414,6 +422,7 @@ oder Weiterbildungsmaßnahme übertragen.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE000900000)
 
 Die §§ 1a bis 1c der Pflanzenschutz-Sachkundeverordnung vom 28. Juli
 1987 (BGBl. I S. 1752), die zuletzt durch Artikel 27 des Gesetzes vom
@@ -423,6 +432,7 @@ zum Ablauf des 25. November 2013 anzuwenden.
 (zu § 1 Absatz 1 und 2, § 3 Absatz 3 und § 6 Absatz 2)
 
 ## Anlage 1 Erforderliche fachliche Kenntnisse und Fertigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE001000000)
 
 (Fundstelle: BGBl. I 2013, 1957)
 
@@ -487,6 +497,7 @@ Fertigkeiten im
 (zu § 1 Absatz 1 und 2)
 
 ## Anlage 2 Liste der anerkannten Berufsabschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE001100000)
 
 (Fundstelle: BGBl. I 2013, 1958)
 
@@ -547,6 +558,7 @@ der Verordnung vom 2. Juli 2002 (BGBl. I S. 2480) geändert worden ist.
 (zu § 2 Absatz 1)
 
 ## Anlage 3 Muster eines Sachkundenachweises
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE001201360)
 
 (Fundstelle: BGBl. I 2013, 1959; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -556,6 +568,7 @@ Fußnote)
 (zu § 4 Absatz 8)
 
 ## Anlage 4 Muster eines Zeugnisses über eine Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE001300000)
 
 (Fundstelle: BGBl. I 2013, 1960)
 
@@ -641,6 +654,7 @@ Zeugnis
 (zu § 8)
 
 ## Anlage 5 Nachweis über die Teilnahme an einer Fort- oder Weiterbildungsmaßnahme zur Sachkunde im Pflanzenschutz
+[Direktlink](https://www.gesetze-im-internet.de/pflschsachkv_2013/BJNR195310013.html#BJNR195310013BJNE001400000)
 
 (Fundstelle: BGBl. I 2013, 1961)
 

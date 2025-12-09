@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000100307)
 
 Auf Grund des § 6 Abs. 1 Nr. 1, des § 15 Satz 1, des § 16 und des § 17
 Abs. 3 Satz 1 sowie des § 31 Abs. 2 Satz 1 Nr. 1 des Gesetzes zur
@@ -32,6 +33,7 @@ Wirtschaft:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000201310)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung
 
@@ -51,6 +53,7 @@ in der jeweils geltenden Fassung.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000302310)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 ist zuständig für die Durchführung der in § 1 genannten Rechtsakte
@@ -88,6 +91,7 @@ Ausfuhrerstattungsverordnung.
 
 
 ## § 3 Mindestmenge
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000401308)
 
 Die Bundesanstalt trifft die in § 2 Abs. 1 genannten Maßnahmen nur,
 falls je Schlachtstätte wenigstens 120 Viertel, 60
@@ -98,6 +102,7 @@ zulassen.
 
 
 ## § 4 Gewinnung, Verpackung und Nämlichkeitssicherung der Teilstücke
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000504377)
 
 (1) Eine Sondererstattung für Teilstücke nach der Verordnung (EG) Nr.
 1359/2007 kann unbeschadet anderweitiger Voraussetzungen nur in
@@ -136,6 +141,7 @@ Bundesanzeiger bekannt gemachten Muster zu entsprechen.
 
 
 ## § 5 Pflichten des Zerlegebetriebes
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000601308)
 
 Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
 
@@ -160,11 +166,13 @@ Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000701310)
 
 -
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000800307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Rindfleisch-Sondererstattungs-Verordnung vom
@@ -177,6 +185,7 @@ worden ist.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/rindfls_rstv_1994/BJNR031800994.html#BJNR031800994BJNE000901308)
 
 (weggefallen)
 

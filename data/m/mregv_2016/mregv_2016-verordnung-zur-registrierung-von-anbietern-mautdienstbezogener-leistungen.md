@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000100000)
 
 Diese Verordnung regelt
 
@@ -42,6 +43,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Unterlagen und Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000200000)
 
 Die für das Registrierungsverfahren erforderlichen Nachweise,
 Unterlagen und Bescheinigungen zum Nachweis der Voraussetzungen für
@@ -52,6 +54,7 @@ die deutsche Sprache vorzulegen.
 
 
 ## § 3 Sitz oder ständige Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000300000)
 
 Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 1
 des Mautsystemgesetzes durch einen gültigen Auszug aus dem
@@ -60,6 +63,7 @@ Antragstellung nicht älter als drei Monate sein.
 
 
 ## § 4 Zertifiziertes Qualitätsmanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000400000)
 
 (1) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5
 Nummer 2 des Mautsystemgesetzes durch ein Zertifikat einer nach dem
@@ -82,6 +86,7 @@ Originaldokuments vorzulegen.
 [^F794827_01_BJNR185010016BJNE000400000]: 
 
 ## § 5 Technische Ausrüstung und Konformität der Interoperabilitätskomponenten
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000501123)
 
 (1) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5
 Nummer 3 des Mautsystemgesetzes nachzuweisen durch
@@ -133,6 +138,7 @@ mindestens 24 Monate gültig sein.
 
 
 ## § 6 Befähigung zum Erbringen mautdienstbezogener Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000600000)
 
 (1) Die Voraussetzung des § 5 Nummer 4 des Mautsystemgesetzes ist
 erfüllt, wenn der Antragsteller innerhalb der letzten fünf Jahre vor
@@ -169,6 +175,7 @@ Bereichen die Erfahrung dem Antragsteller zur Verfügung gestellt wird.
 
 
 ## § 7 Finanzielle Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000702123)
 
 (1) Die Voraussetzung des § 5 Nummer 5 des Mautsystemgesetzes ist
 erfüllt, wenn der Antragsteller über die nach seinem Geschäftsmodell
@@ -227,6 +234,7 @@ Unterlagen, insbesondere über das Geschäftsmodell, vorzulegen.
 
 
 ## § 8 Risikomanagementplan
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000801123)
 
 (1) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5
 Nummer 6 des Mautsystemgesetzes durch einen Risikomanagementplan und
@@ -279,6 +287,7 @@ Der Risikomanagementplan darf zum Zeitpunkt der Antragstellung nicht
 
 
 ## § 9 Gewähr für Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE000903123)
 
 (1) Die Voraussetzung des § 5 Nummer 7 des Mautsystemgesetzes ist
 insbesondere nicht erfüllt, wenn
@@ -362,6 +371,7 @@ Originaldokumente vorzulegen.
 
 
 ## § 10 Regelmäßige Überprüfung der Registrierungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE001000000)
 
 Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach § 7
 Absatz 2 des Mautsystemgesetzes gelten die §§ 2, 4 und 7 bis 9
@@ -369,6 +379,7 @@ entsprechend.
 
 
 ## § 11 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE001102123)
 
 (1) Für die Registrierung nach den §§ 5 und 6 Absatz 1 des
 Mautsystemgesetzes sowie die regelmäßige Überprüfung der
@@ -383,6 +394,7 @@ bestimmen sich nach der Anlage.
 
 
 ## Anlage (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/mregv_2016/BJNR185010016.html#BJNR185010016BJNE001200000)
 
 (Fundstelle: BGBl. I 2016,1853)
 

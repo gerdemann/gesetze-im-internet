@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000100302)
 
 Wir ...
 verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des
@@ -27,14 +28,17 @@ Bundesrats und des Reichstags, was folgt:
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000201301)
 
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000301301)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000400302)
 
 (1) Die Zivilprozeßordnung findet auf alle bürgerlichen
 Rechtsstreitigkeiten Anwendung, welche vor die ordentlichen Gerichte
@@ -47,6 +51,7 @@ dieselbe ein abweichendes Verfahren gestatten.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000500302)
 
 Für bürgerliche Rechtsstreitigkeiten, für welche nach dem Gegenstand
 oder der Art des Anspruchs der Rechtsweg zulässig ist, darf aus dem
@@ -56,10 +61,12 @@ Landesgesetzgebung nicht ausgeschlossen werden.
 
 
 ## (XXXX) §§ 5 und 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000600302)
 
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000701310)
 
 (1) Ist in einem Land auf Grund des § 8 des Einführungsgesetzes zum
 Gerichtsverfassungsgesetz für bürgerliche Rechtsstreitigkeiten ein
@@ -85,10 +92,12 @@ Beschwerde oder des Antrags.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000802310)
 
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE000901307)
 
 Das oberste Landesgericht für bürgerliche Rechtsstreitigkeiten
 bestimmt das zuständige Gericht auch dann, wenn nach § 36 Abs. 2 der
@@ -97,24 +106,29 @@ entscheiden hätte.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001000302)
 
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001101160)
 
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001200302)
 
 Gesetz im Sinne der Zivilprozeßordnung und dieses Gesetzes ist jede
 Rechtsnorm.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001301301)
 
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001400302)
 
 (1) Die prozeßrechtlichen Vorschriften der Landesgesetze treten für
 alle bürgerlichen Rechtsstreitigkeiten, deren Entscheidung in
@@ -127,6 +141,7 @@ werden.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001500302)
 
 (1) Unberührt bleiben:
 
@@ -161,6 +176,7 @@ werden.
 
 
 ## § 15a
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002304311)
 
 (1) Durch Landesgesetz kann bestimmt werden, dass die Erhebung der
 Klage erst zulässig ist, nachdem von einer durch die
@@ -252,6 +268,7 @@ Zivilprozessordnung.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001602125)
 
 (1) Die Bundesregierung und die Landesregierungen werden ermächtigt,
 durch Rechtsverordnung für ihre jeweiligen Zuständigkeitsbereiche
@@ -311,6 +328,7 @@ Absatz 1 Satz 3 der Zivilprozessordnung.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001702125)
 
 (1) Das Bundesministerium der Justiz evaluiert unter Beteiligung der
 an der Erprobung teilnehmenden Länder vier Jahre und acht Jahre nach
@@ -352,10 +370,12 @@ folgende Angaben enthalten:
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001800302)
 
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE001900302)
 
 (1) Rechtskräftig im Sinne dieses Gesetzes sind Endurteile, welche mit
 einem ordentlichen Rechtsmittel nicht mehr angefochten werden können.
@@ -367,6 +387,7 @@ sind.
 
 
 ## § 20 Übergangsvorschriften zum Sechsten Gesetz zur Änderung der Pfändungsfreigrenzen
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002902160)
 
 (1) Eine vor dem Inkrafttreten des Sechsten Gesetzes zur Änderung der
 Pfändungsfreigrenzen vom 1. April 1992 (BGBl. I S. 745) am 1. Juli
@@ -397,6 +418,7 @@ unpfändbaren Beträge zum 1. Juli des jeweiligen Jahres ändern.
 
 
 ## § 21 Übergangsvorschriften zum Siebten Gesetz zur Änderung der Pfändungsfreigrenzen
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003300301)
 
 (1) Für eine vor dem 1. Januar 2002 ausgebrachte Pfändung sind
 hinsichtlich der nach diesem Zeitpunkt fälligen Leistungen die
@@ -423,6 +445,7 @@ weniger zu leisten hat.
 
 
 ## § 22 Überleitungsvorschriften zum Zweiten Gesetz zur Änderung zwangsvollstreckungsrechtlicher Vorschriften (2. Zwangsvollstreckungsnovelle)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003401308)
 
 (1) § 708 Nr. 11 der Zivilprozessordnung ist in seiner bis zum 1.
 Januar 1999 geltenden Fassung (Inkrafttreten der 2.
@@ -476,6 +499,7 @@ worden sind, finden die §§ 807, 899, 900 der Zivilprozessordnung und §
 
 
 ## § 23 Schutz von Hochwasser-Soforthilfen vor Pfändungen auf Pfändungsschutzkonten
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002004125)
 
 (1) Staatliche Soforthilfen, die als Billigkeitsleistungen zur
 Überbrückung von Notlagen von Bürgern oder zur Milderung von Schäden
@@ -498,6 +522,7 @@ Rückforderungen von Soforthilfen im Sinne des Absatzes 1.
 
 
 ## § 24
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002400301)
 
 Auf einen Räumungsrechtsstreit, der vor dem 1. September 2001
 rechtshängig geworden ist, finden § 93b Abs. 1 und 2, § 721 Abs. 7
@@ -506,10 +531,12 @@ Zeitpunkt geltenden Fassung Anwendung.
 
 
 ## § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002202301)
 
 
 
 ## § 26
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002513125)
 
 Für das Gesetz zur Reform des Zivilprozesses vom 27. Juli 2001 gelten
 folgende Übergangsvorschriften:
@@ -592,6 +619,7 @@ folgende Übergangsvorschriften:
 
 
 ## § 27
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002800310)
 
 Auf vereinfachte Verfahren über den Unterhalt Minderjähriger (§§ 645
 bis 660 der Zivilprozessordnung), in denen der Antrag auf Festsetzung
@@ -602,6 +630,7 @@ Anwendung.
 
 
 ## § 28
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE002701310)
 
 (1) Das Mahnverfahren findet nicht statt für Ansprüche eines
 Unternehmers aus einem Vertrag, für den das Verbraucherkreditgesetz
@@ -620,6 +649,7 @@ effektiven Jahrezinses tritt.
 
 
 ## § 29
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003000301)
 
 Für das 1. Justizmodernisierungsgesetz vom 24. August 2004 (BGBl. I S.
 2198) gelten folgende Übergangsvorschriften:
@@ -645,6 +675,7 @@ Für das 1. Justizmodernisierungsgesetz vom 24. August 2004 (BGBl. I S.
 
 
 ## § 30
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003100310)
 
 Für Artikel 1 Nr. 2a und 3a des Justizkommunikationsgesetzes vom 22.
 März 2005 (BGBl. I S. 837) gilt folgende Übergangsvorschrift:
@@ -656,6 +687,7 @@ Zwangsvollstreckung gilt als besonderer Rechtszug.
 
 
 ## § 31
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003200301)
 
 Für das Gesetz zur Einführung von Kapitalanleger-Musterverfahren vom
 16\. August 2005 (BGBl. I S. 2437) gilt folgende Übergangsvorschrift:
@@ -669,6 +701,7 @@ bisher geltenden Vorschriften.
 
 
 ## § 32 Überleitungsvorschriften zum Gesetz zur Entlastung der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003500301)
 
 (1) Wenn vor dem Inkrafttreten des Gesetzes zur Entlastung der
 Rechtspflege vom 11. Januar 1993 (BGBl. I S. 50) am 1. März 1993 die
@@ -690,6 +723,7 @@ geltenden Fassung.
 
 
 ## § 33 Überleitungsvorschriften zum Schiedsverfahrens-Neuregelungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003600301)
 
 (1) Die Wirksamkeit von Schiedsvereinbarungen, die vor dem
 Inkrafttreten des Schiedsverfahrens-Neuregelungsgesetzes vom 22.
@@ -718,6 +752,7 @@ Recht.
 
 
 ## § 34 Überleitungsvorschriften zum Gesetz zur Vereinfachung und Beschleunigung gerichtlicher Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003700301)
 
 In ihrer bis zum Inkrafttreten des Gesetzes zur Vereinfachung und
 Beschleunigung gerichtlicher Verfahren vom 3. Dezember 1976 (BGBl. I
@@ -768,6 +803,7 @@ S. 3281) geltenden Fassung sind weiter anzuwenden:
 
 
 ## § 35
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003800113)
 
 Auf Verfahren, die vor dem 31. Dezember 2006 rechtskräftig
 abgeschlossen worden sind, ist § 580 Nr. 8 der Zivilprozessordnung
@@ -775,6 +811,7 @@ nicht anzuwenden.
 
 
 ## § 36
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003900301)
 
 Für das Gesetz zur Änderung des Unterhaltsrechts vom 21. Dezember 2007
 (BGBl. I S. 3189) gelten folgende Übergangsvorschriften:
@@ -879,6 +916,7 @@ Für das Gesetz zur Änderung des Unterhaltsrechts vom 21. Dezember 2007
 
 
 ## § 37 Übergangsvorschrift zum Risikobegrenzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE003901160)
 
 § 799a der Zivilprozessordnung ist nicht anzuwenden, wenn die
 Vollstreckung aus der Urkunde vor dem 19. August 2008 für unzulässig
@@ -886,6 +924,7 @@ erklärt worden ist.
 
 
 ## § 37a Übergangsbestimmung zur Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004200160)
 
 Führt die Änderung der nach § 115 Absatz 1 Satz 3 der
 Zivilprozessordnung maßgebenden Beträge durch Artikel 6 des Gesetzes
@@ -896,6 +935,7 @@ bereits ab dem 1. Januar 2011 zu berücksichtigen.
 
 
 ## § 37b Übergangsvorschrift zum Gesetz zur Stärkung des Justizstandortes Deutschland durch Einführung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstandort-Stärkungsgesetz)
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE005100125)
 
 § 273a der Zivilprozessordnung ist auch in Verfahren anwendbar, die am
 1\. April 2025 bereits anhängig sind. Im Übrigen sind auf Verfahren,
@@ -904,6 +944,7 @@ geltenden Vorschriften anzuwenden.
 
 
 ## § 38 Informationspflicht aus Anlass des Gesetzes zur Reform des Kontopfändungsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004001160)
 
 Die Kreditinstitute haben die Inhaber der bei ihnen geführten Konten
 darüber zu unterrichten, dass Pfändungsschutz für Kontoguthaben und
@@ -916,6 +957,7 @@ November 2011 zu erfolgen.
 
 
 ## § 38a
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004300308)
 
 (1) Für Zurückweisungsbeschlüsse, die vor dem 27. Oktober 2011
 erlassen wurden, ist § 522 Absatz 3 in der vor dem 27. Oktober 2011
@@ -927,6 +969,7 @@ Absatz 4 der Zivilprozessordnung nicht anzuwenden.
 
 
 ## § 39
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004101140)
 
 Für das Gesetz zur Reform der Sachaufklärung in der
 Zwangsvollstreckung vom 29. Juli 2009 (BGBl. I S. 2258) gelten
@@ -1007,6 +1050,7 @@ folgende Übergangsvorschriften:
 
 
 ## § 40 Übergangsvorschrift zum Gesetz zur Änderung des Prozesskostenhilfe- und Beratungshilferechts
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004400311)
 
 Hat eine Partei vor dem 1. Januar 2014 für einen Rechtszug
 Prozesskostenhilfe beantragt, so sind für diesen Rechtszug die §§ 114
@@ -1022,6 +1066,7 @@ gilt als besonderer Rechtszug.
 
 
 ## § 41 Übergangsvorschrift zum Gesetz zur Änderung des Sachverständigenrechts und zur weiteren Änderung des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie zur Änderung des Sozialgerichtsgesetzes, der Verwaltungsgerichtsordnung, der Finanzgerichtsordnung und des Gerichtskostengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004500311)
 
 Wurde der Sachverständige vor dem 15. Oktober 2016 ernannt, ist § 411
 Absatz 1 und 2 der Zivilprozessordnung in der bis zum 15. Oktober 2016
@@ -1029,6 +1074,7 @@ geltenden Fassung anzuwenden.
 
 
 ## § 42 Informationspflichten aus Anlass des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004600311)
 
 Die Länder übermitteln dem Bundesministerium der Justiz und für
 Verbraucherschutz auf Anfrage die Informationen nach Artikel 53 Absatz
@@ -1041,6 +1087,7 @@ Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S.
 
 
 ## § 43 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004702125)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -1071,6 +1118,7 @@ Rechtsverordnung auf die zuständigen obersten Landesbehörden
 
 
 ## § 44 Vorrang- und Beschleunigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004800125)
 
 (1) Verfahren über die Anpassung der Miete oder Pacht für Grundstücke
 oder Räume, die keine Wohnräume sind, wegen staatlicher Maßnahmen zur
@@ -1082,6 +1130,7 @@ spätestens einen Monat nach Zustellung der Klageschrift stattfinden.
 
 
 ## § 45 Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE004900125)
 
 Zur Zwangsvollstreckung in das Vermögen einer rechtsfähigen
 Gesellschaft bürgerlichen Rechts im Sinne von § 705 Absatz 2 des
@@ -1091,6 +1140,7 @@ erwirkt wurde.
 
 
 ## § 46 Übergangsvorschrift zum Verbraucherrechtedurchsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/zp_g/BJNR002440877.html#BJNR002440877BJNE005000360)
 
 Auf eine vor dem 13. Oktober 2023 anhängig gemachte
 Musterfeststellungsklage sind die §§ 32c und 606 bis 614 der

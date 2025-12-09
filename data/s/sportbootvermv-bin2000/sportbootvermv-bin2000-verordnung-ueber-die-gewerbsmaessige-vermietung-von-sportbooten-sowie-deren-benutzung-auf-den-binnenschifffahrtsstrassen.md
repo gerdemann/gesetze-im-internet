@@ -29,12 +29,14 @@ des Europäischen Parlaments und des Rates vom 20. Juli 1998
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000101308)
 
 Diese Verordnung gilt für das Vermieten und Mieten von Sportbooten zur
 Teilnahme am Verkehr auf den Binnenschifffahrtsstraßen.
 
 
 ## § 2 Begriffsbestimmungen und anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002902119)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -141,6 +143,7 @@ Verlag GmbH, 10772 Berlin, zu beziehen.
 
 
 ## § 2a Rechtsverordnung mit vorübergehender Geltungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002700305)
 
 Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis
 nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, des
@@ -151,6 +154,7 @@ treffen.
 
 
 ## § 3 Grundregel, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000302305)
 
 (1) Ein Sportboot darf nur vermietet werden, wenn es dafür technisch
 zugelassen ist. Die technische Zulassung wird auf Antrag des
@@ -171,6 +175,7 @@ Schifffahrtsamt zuständig,
 
 
 ## § 4 Bootszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000506119)
 
 (1) Ein Bootszeugnis darf nur erteilt oder seine Gültigkeit verlängert
 werden, wenn das Unternehmen nachgewiesen hat, dass das Sportboot
@@ -213,6 +218,7 @@ bekannt gemacht.
 
 
 ## § 5 Nachweis über die Fahrtauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000604119)
 
 (1) Nachweise über die Fahrtauglichkeit der Sportboote sind:
 
@@ -272,6 +278,7 @@ Nachweise nach den Absätzen 1 bis 4 bescheinigt ist.
 
 
 ## § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000702305)
 
 (1) Der Antrag auf Ausstellung und Verlängerung des Bootszeugnisses (§
 4 Abs. 1) sowie dessen Änderung (§ 4 Abs. 3) ist vom Unternehmen bei
@@ -343,6 +350,7 @@ Wasserstraßen- und Schifffahrtsamt anzuzeigen.
 
 
 ## § 7 Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000803119)
 
 (1) Das Unternehmen hat jedes Sportboot mit einem Kennzeichen nach der
 Kennzeichnungsverordnung oder mit einem Vermietungskennzeichen nach
@@ -371,6 +379,7 @@ Fassung dieser Vorschrift erteilt worden sind, gelten weiter.
 
 
 ## § 8 Pflichten des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE000909119)
 
 (1) Das Unternehmen darf die Vermietung eines Sportbootes nicht
 anordnen oder zulassen, wenn ihm bekannt ist oder bekannt sein muss,
@@ -523,6 +532,7 @@ hinzuweisen.
 
 
 ## § 8a Gelegenheitsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002801119)
 
 (1) Eine Fahrt im Gelegenheitsverkehr ist auf die Beförderung von
 höchstens zwölf Fahrgästen und auf die Wasserstraßen der Zone 3, mit
@@ -620,6 +630,7 @@ Bestimmungen der Absätze 2 bis 6 oder Satz 1 verstoßen hat.
 
 
 ## § 9 Charterbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE001204118)
 
 (1) Abweichend von § 8 Absatz 4 darf ein Unternehmen ein Sportboot von
 weniger als 15 Metern Länge auch vermieten an Personen, denen es eine
@@ -678,6 +689,7 @@ eingetragenen Beschränkungen beachten.
 
 
 ## § 10 Pflichten des Sportbootführers
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE001302124)
 
 (1) Der Sportbootführer hat dafür zu sorgen, dass
 
@@ -740,6 +752,7 @@ im Steuerstand sitzend auszuüben.
 
 
 ## § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE001405124)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -894,6 +907,7 @@ fahrlässig
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE001604305)
 
 Nach der Sportbootvermietungsverordnung-Binnen vom 11. Oktober 1996
 (BGBl. I S. 1518) ausgestellte Bootszeugnisse gelten ohne förmliche
@@ -903,6 +917,7 @@ Abnahmeprotokolls den Bootszeugnissen beigefügt wird.
 
 
 ## Anlage 1 (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE001804119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 44 – 45)
 
@@ -910,6 +925,7 @@ Abnahmeprotokolls den Bootszeugnissen beigefügt wird.
 ![bgbl1_2025_j02420_0410.jpg](bgbl1_2025_j02420_0410.jpg)
 
 ## Anlage 2 (zu § 5 Abs. 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE001906119)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587;
 bzgl. der einzelnen Änderungen vgl Fußnote)
@@ -1233,6 +1249,7 @@ Stempel            Unterschrift .......................-----
 
 
 ## Anlage 3 (zu § 5 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002002305)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4588 - 4589
 Wasserstraßen- und Schifffahrtsamt
@@ -1319,6 +1336,7 @@ Untersuchungsort        Datum                    Unterschrift
 (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b)
 
 ## Anlage 4 Charterbescheinigung und Einweisung
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002104305)
 
 Fundstelle des Originaltextes: BGBl. I 20030, 2527 -2529;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1898,6 +1916,7 @@ I
 (zu § 9 Abs. 2 Nr. 1)
 
 ## Anlage 5 Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002207119)
 
 (Fundstelle: BGBl I 2009, 889 - 892);
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2398,6 +2417,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 9 Abs. 2 Nr. 2)
 
 ## Anlage 6 Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002605119)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2533;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2461,6 +2481,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anhang 1 (zu Anlage 6)
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002405305)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2434 - 2537;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2522,6 +2543,7 @@ Es weichen aus - grundsätzlich nach Steuerbord -
 
 
 ## Anhang 2 (zu Anlage 6)
+[Direktlink](https://www.gesetze-im-internet.de/sportbootvermv-bin2000/BJNR057210000.html#BJNR057210000BJNE002504119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 46 – 48)
 

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000202123)
 
 Im Sinn dieser Verordnung ist
 
@@ -60,6 +62,7 @@ Im Sinn dieser Verordnung ist
 
 
 ### § 1a Hauptzollamt; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE004700123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -81,9 +84,11 @@ für den Anwendungsbereich dieser Verordnung
 
 
 ## Abschnitt 2 - Zu § 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000200000)
 
 
 ### § 2 Kaffeemenge, Kaffeeart, Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000300000)
 
 (1) Bei löslichem Kaffee in Form von flüssigen Auszügen, Essenzen und
 Konzentraten bestimmt sich die Kaffeemenge nach der Trockenmasse.
@@ -100,9 +105,11 @@ sie zu einer Mengenvermehrung führen.
 
 
 ## Abschnitt 3 - Zu den §§ 5 und 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000300000)
 
 
 ### § 3 Steuerlager, Anforderungen an die Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000402123)
 
 (1) Das Steuerlager nach § 5 des Gesetzes umfasst die Gesamtheit der
 baulich zueinander gehörenden Räume, in denen sich die Einrichtungen
@@ -144,6 +151,7 @@ das Steuerlager einbezogen werden.
 
 
 ### § 4 Antrag auf Erlaubnis als Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000502123)
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 6 des
 Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim
@@ -176,6 +184,7 @@ betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und
 
 
 ### § 5 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000603123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten
@@ -197,6 +206,7 @@ Absätze 1 und 2 bleiben unberührt.
 
 
 ### § 6 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000702123)
 
 (1) Die Höhe der Sicherheitsleistung wird durch das Hauptzollamt unter
 Berücksichtigung des § 6 Absatz 1 Satz 5 des Gesetzes festgelegt. Die
@@ -211,6 +221,7 @@ unberührt.
 
 
 ### § 6a Überprüfung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE004800123)
 
 Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -222,6 +233,7 @@ oder der Neuerteilung durchgeführt.
 
 
 ### § 7 Änderung von Verhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000801123)
 
 (1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach
 § 4 Absatz 1 und 2 Satz 1 angegebenen Verhältnisse vor der Änderung
@@ -300,6 +312,7 @@ schriftlich anzuzeigen:
 
 
 ### § 8 Erlöschen und Fortbestand der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE000902123)
 
 (1) Die Erlaubnis nach § 5 erlischt unbeschadet des § 124 Absatz 2 der
 Abgabenordnung durch
@@ -429,6 +442,7 @@ Zwecke der Räumung bis zum Fristablauf weiter.
 
 
 ### § 9 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001001123)
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -449,6 +463,7 @@ aufgezeichnet werden.
 
 
 ### § 10 Vollständige Zerstörung und unwiederbringlicher Gesamt- oder Teilverlust
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001101123)
 
 Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden
 oder vollständig oder teilweise unwiederbringlich verloren gegangen,
@@ -459,6 +474,7 @@ Nachweisführung treffen.
 
 
 ### § 11 Bestandsaufnahme im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001201123)
 
 (1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine
 Bestandsaufnahme durchzuführen und beim Hauptzollamt innerhalb eines
@@ -487,9 +503,11 @@ werden können.
 
 
 ## Abschnitt 4 - Zu § 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000400000)
 
 
 ### § 12 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001302123)
 
 (1) Wer als registrierter Versender nach § 7 Absatz 1 des Gesetzes
 Kaffee vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung
@@ -538,9 +556,11 @@ entsprechend.
 
 
 ## Abschnitt 5 - Zu den §§ 8 und 23 Absatz 1 Nummer 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000500000)
 
 
 ### § 13 Begünstigte, Ausstellen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001403123)
 
 (1) Ein Begünstigter, der Kaffee unter Steueraussetzung von einem
 Steuerlager im Steuergebiet oder von einem registrierten Versender vom
@@ -601,9 +621,11 @@ Steuerschuldner sind Gesamtschuldner.
 
 
 ## Abschnitt 6 - Zu § 9 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000600000)
 
 
 ### § 14 Beförderungen im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001501123)
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der
 Einfuhr im Steuergebiet unter Steueraussetzung in ein Steuerlager im
@@ -663,6 +685,7 @@ das Lagerbuch einzutragen.
 
 
 ### § 15 Mitführen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001600000)
 
 Wird Kaffee unter Steueraussetzung im Steuergebiet zu Begünstigten im
 Steuergebiet befördert, hat der Beförderer während der Beförderung
@@ -672,6 +695,7 @@ Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
 
 ### § 16 Beförderungen in andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001701123)
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der
 Einfuhr im Steuergebiet unter Steueraussetzung an einen Empfänger in
@@ -721,6 +745,7 @@ führen durch:
 
 
 ### § 17 Ausfuhr oder Überführung in das externe Versandverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001801123)
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der
 Einfuhr im Steuergebiet unter Steueraussetzung unmittelbar oder über
@@ -798,6 +823,7 @@ tritt in diesen Fällen:
 
 
 ### § 18 Art und Höhe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE001900000)
 
 (1) Die Sicherheit für Beförderungen von Kaffee unter Steueraussetzung
 kann für mehrere Verfahren als Gesamtbürgschaft oder für jedes
@@ -819,9 +845,11 @@ Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 
 
 ## Abschnitt 7 - Zu den §§ 10 und 11 Absatz 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000700000)
 
 
 ### § 19 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002002123)
 
 (1) Geht der Rückschein in den Fällen des § 14 Absatz 3 Satz 3 nicht
 binnen zwei Monaten beim Versender ein, ist dies vom Versender
@@ -840,9 +868,11 @@ Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 
 ## Abschnitt 8 - Zu den § 11 und 12 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000800000)
 
 
 ### § 20 Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002102123)
 
 (1) Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach
 amtlich vorgeschriebenem Vordruck abzugeben. Das Hauptzollamt kann
@@ -867,6 +897,7 @@ entsprechend.
 
 
 ### § 20a Herstellung von Kaffee außerhalb eines Steuerlagers
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE004900123)
 
 (1) Wer Kaffee ohne Erlaubnis als Steuerlagerinhaber zu gewerblichen
 Zwecken herstellt oder herstellen will, hat dies vor dem geplanten
@@ -915,9 +946,11 @@ letzten Überprüfungsmaßnahme oder der Anmeldung durchgeführt.
 
 
 ## Abschnitt 9 - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG000900000)
 
 
 ### § 21 Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002202123)
 
 Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung wird
 vom Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
@@ -926,9 +959,11 @@ oder Steuerentlastung mindestens 25 Euro beträgt.
 
 
 ## Abschnitt 10 - Zu den §§ 3 und 15 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001001123)
 
 
 ### § 22 Anmeldung des Kaffees und der kaffeehatligen Waren
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002302123)
 
 Kaffee und kaffeehaltige Waren aus Drittländern oder Drittgebieten
 sind in den Fällen der Einfuhr, auch in Verbindung mit § 3 des
@@ -938,9 +973,11 @@ Steuererklärung ist in der Zollanmeldung abzugeben.
 
 
 ## Abschnitt 11 - Zu den §§ 3 und 16 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001100000)
 
 
 ### § 23 Beförderungen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002401123)
 
 (1) Werden mehr als 10 Kilogramm Kaffee oder kaffeehaltige Waren nach
 § 16 des Gesetzes, auch in Verbindung mit § 3 des Gesetzes, zu
@@ -955,9 +992,11 @@ als Eigenbedarf nach § 16 des Gesetzes.
 
 
 ## Abschnitt 12 - Zu den §§ 3 und 17 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001200000)
 
 
 ### § 24 Beförderungen zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002502123)
 
 Die Anzeige nach § 17 Absatz 4 Satz 1 des Gesetzes ist im Voraus beim
 Hauptzollamt nach amtlich vorgeschriebenem Vordruck abzugeben. Auf
@@ -972,6 +1011,7 @@ Absatz 2 entsprechend.
 
 
 ### § 25 Nicht nur gelegentlicher Bezug zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002603123)
 
 (1) Die Verfahrensvereinfachung nach § 17 Absatz 6 Satz 1 des Gesetzes
 ist im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck
@@ -995,15 +1035,18 @@ entsprechend.
 
 
 ### § 26 Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002701140)
 
 Die Anzeige nach § 17 Absatz 4 Satz 2 des Gesetzes ist vom Beförderer
 vor der Durchfuhr beim Hauptzollamt Stuttgart abzugeben.
 
 
 ## Abschnitt 13 - Zu den §§ 3 und 18 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001300000)
 
 
 ### § 27 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002804123)
 
 (1) Wer als Versandhändler nach § 18 Absatz 1 des Gesetzes Kaffee an
 Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im
@@ -1072,9 +1115,11 @@ für den Steuervertreter erteilte Erlaubnis erlischt.
 
 
 ## Abschnitt 14 - Zu den §§ 3 und 19 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001400000)
 
 
 ### § 28 Unregelmäßigkeiten während der Beförderung von Kaffee oder kaffeehaltigen Waren des zollrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE002902123)
 
 (1) Sind Kaffee oder kaffeehaltige Waren während der Beförderung
 infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig
@@ -1088,15 +1133,18 @@ Steueranmeldung gilt § 20 Absatz 2 entsprechend.
 
 
 ## Abschnitt 15 - Zu § 20 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001500000)
 
 
 ### § 29 Rohkaffeehändler
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003000000)
 
 Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20
 Absatz 1 Nummer 4 des Gesetzes gleichgestellt.
 
 
 ### § 30 Steuerbefreiung für den Bezug von Kaffee zur Herstellung kaffeehaltiger Waren
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003102123)
 
 (1) Kaffee ist steuerfrei, wenn er durch einen Erlaubnisinhaber nach
 Absatz 2 unter Steueraussetzung zur Herstellung kaffeehaltiger Waren
@@ -1153,9 +1201,11 @@ aus der eigenen Herstellung gleich.
 
 
 ## Abschnitt 16 - Zu § 21 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001600000)
 
 
 ### § 31 Aufnahme von versteuertem Kaffee in ein Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003202123)
 
 (1) Der Steuerlagerinhaber hat über die Aufnahme von versteuertem
 Kaffee nach § 21 Absatz 1 des Gesetzes Aufzeichnungen nach amtlich
@@ -1181,6 +1231,7 @@ dem Steuerschuldner.
 
 
 ### § 32 Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003302123)
 
 (1) Wer versteuerten Kaffee oder kaffeehaltige, mit Kaffeesteuer
 belastete Waren gegen Steuerentlastung nach § 21 Absatz 2 und 3 des
@@ -1229,6 +1280,7 @@ entsprechend.
 
 
 ### § 33 Nachweis der Ausfuhr bei Lieferungen in Drittländer oder Drittgebiete oder der Überführung in das externe Versandverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003402123)
 
 (1) In Fällen, in denen der Inhaber der Erlaubnis (§ 30) oder des
 Zusagescheins (§ 32) kaffeehaltige Waren ausführt oder in das externe
@@ -1274,6 +1326,7 @@ einen Beleg zu führen, der Folgendes enthalten muss:
 
 
 ### § 34 Nachweis bei Lieferung an einen Empfänger in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003501140)
 
 (1) Bei einer Lieferung von Kaffee oder kaffeehaltigen Waren an einen
 Empfänger in einem anderen Mitgliedstaat muss der Inhaber der
@@ -1337,9 +1390,11 @@ oder des Zusagescheins zusätzlich hierüber den Beleg zu führen durch:
 
 
 ## Abschnitt 17 - Zu § 23 Absatz 1 Nummer 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001700000)
 
 
 ### § 35 Verbrauch durch diplomatische oder konsularische Vertretungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003601118)
 
 (1) Unter der Voraussetzung der Gegenseitigkeit wird auf Antrag Kaffee
 von der Steuer befreit oder eine für Kaffee entrichtete Steuer
@@ -1411,9 +1466,11 @@ Bundesrepublik Deutschland nicht unterhalten.
 
 
 ## Abschnitt 18 - Zu § 20 Absatz 1 und den §§ 3 und 21 Ab-satz 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001800000)
 
 
 ### § 36 Vernichtung von Kaffee und kaffeehaltigen Waren, Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003703123)
 
 (1) Soll Kaffee vernichtet werden, hat der Steuerlagerinhaber dies
 beim Hauptzollamt mindestens eine Woche im Voraus unter Angabe des
@@ -1430,9 +1487,11 @@ gilt Absatz 1 entsprechend.
 
 
 ## Abschnitt 19 - Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG001900000)
 
 
 ### § 37 Probenentnahme im Rahmen der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003801123)
 
 Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die
 der Kaffeesteuer unterliegen oder unterliegen können, von Roh- und
@@ -1446,16 +1505,20 @@ Proben zur Verfügung zu stellen.
 
 
 ## Abschnitt 20 - Zu § 23 Absatz 1 Nummer 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG002200140)
 
 
 ### (XXXX) §§ 38 bis 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE004101123)
 
 
 
 ## Abschnitt 21 - Zu § 381 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNG002001140)
 
 
 ### § 44 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeestv_2010/BJNR333400009.html#BJNR333400009BJNE003902123)
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig

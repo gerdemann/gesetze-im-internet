@@ -23,6 +23,7 @@ Die v tritt gem. § 6 satz 2 mit ablauf des 23.3.2009 außer kraft, sofern nicht
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000101377)
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe r in Verbindung mit Abs. 4
 und 5 sowie der §§ 15 und 16, jeweils in Verbindung mit § 6 Abs. 4 des
@@ -37,6 +38,7 @@ Finanzen und für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000201377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung des
 Titels V Kapitel III der Verordnung (EG) Nr. 479/2008 des Rates über
@@ -53,6 +55,7 @@ im Weinsektor (ABl. EU Nr. L 170 S. 1).
 
 
 ## § 2 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000301377)
 
 Die nach Landesrecht zuständigen Stellen gewähren die
 gemeinschaftsrechtlich vorgesehenen Prämien für das Roden von
@@ -60,6 +63,7 @@ Rebflächen in den Weinwirtschaftsjahren 2008/2009 bis 2010/2011.
 
 
 ## § 3 Verfahren, Ermittlungen zur Festsetzung der Höhe der Prämie
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000401377)
 
 Den Landesregierungen wird die Befugnis übertragen, durch
 Rechtsverordnung
@@ -89,6 +93,7 @@ Rechtsverordnung
 
 
 ## § 4 Ausschluss von Rebflächen
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000501377)
 
 (1) In einer Rechtsverordnung nach § 3 kann die Gewährung einer
 Rodungsprämie ausgeschlossen werden für Rebflächen mit
@@ -111,6 +116,7 @@ für eine gleichmäßige Behandlung aller Anträge zu treffen.
 
 
 ## § 5 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000601377)
 
 (1) Die Rodung ist der zuständigen Stelle innerhalb eines Monats nach
 ihrer Durchführung, spätestens am Ende des jeweiligen
@@ -131,6 +137,7 @@ erforderliche Unterstützung zu gewähren.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egrebflroddv/BJNR184900008.html#BJNR184900008BJNE000701377)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

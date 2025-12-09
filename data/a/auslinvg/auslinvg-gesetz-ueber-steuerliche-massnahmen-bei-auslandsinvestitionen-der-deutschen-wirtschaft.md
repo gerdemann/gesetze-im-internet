@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in Gesellschaften, Betriebe oder Betriebstätten im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000100317)
 
 (1) Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des
 Einkommensteuergesetzes ermitteln und im Zusammenhang mit
@@ -83,6 +84,7 @@ können.
 
 
 ## § 2 Ausländische Verluste bei Doppelbesteuerungsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000200317)
 
 (1) Sind nach einem Abkommen zur Vermeidung der Doppelbesteuerung bei
 einem unbeschränkt Steuerpflichtigen aus einer in einem ausländischen
@@ -131,6 +133,7 @@ Absatzes 1 Satz 3 dem Gesamtbetrag der Einkünfte hinzuzurechnen. Satz
 
 
 ## § 3 Steuerfreie Rücklage für Verluste von ausländischen Tochtergesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000300317)
 
 (1) Unbeschränkt Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder
 § 5 des Einkommensteuergesetzes ermitteln, können für Verluste einer
@@ -255,11 +258,13 @@ Wirtschaftsjahrs.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000400317)
 
 -
 
 
 ## § 5 Gemeinsame Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000503118)
 
 Voraussetzung für die Anwendung der §§ 1 bis 3 ist, daß die
 Gesellschaft, der Betrieb oder die Betriebstätte im Ausland
@@ -278,12 +283,14 @@ Förderungswürdigkeit bestätigt.
 
 
 ## § 6 Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000600317)
 
 Die Vorschriften der §§ 1, 3 und
 4 gelten auch für die Ermittlung des Gewerbeertrags.
 
 
 ## § 7 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000700317)
 
 Der Bundesminister der Finanzen wird ermächtigt, den Wortlaut dieses
 Gesetzes in der jeweils geltenden Fassung mit neuem Datum
@@ -292,6 +299,7 @@ des Wortlauts zu beseitigen.
 
 
 ## § 8 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000803377)
 
 (1) Die vorstehende Fassung dieses Gesetzes ist vorbehaltlich der
 Absätze 2 und 3 erstmals für den Veranlagungszeitraum 1982 anzuwenden.
@@ -315,6 +323,7 @@ Veranlagungszeiträume ab 2009 weiter anzuwenden.
 
 
 ## § 9 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE000900317)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -322,6 +331,7 @@ im Land Berlin.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslinvg/BJNR012140969.html#BJNR012140969BJNE001000317)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

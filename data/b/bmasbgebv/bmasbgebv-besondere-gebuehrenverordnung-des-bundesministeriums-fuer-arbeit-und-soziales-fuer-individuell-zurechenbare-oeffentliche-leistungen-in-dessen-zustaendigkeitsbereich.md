@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -25,6 +26,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000200000)
 
 Im Zuständigkeitsbereich des Bundesministeriums für Arbeit und
 Soziales werden Gebühren und Auslagen für individuell zurechenbare
@@ -34,6 +36,7 @@ erbracht werden.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis in der Anlage.
@@ -47,6 +50,7 @@ aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000400000)
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
 ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der
@@ -58,6 +62,7 @@ I S. 130), die zuletzt durch Artikel 1 der Verordnung vom 11. Februar
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000500000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -68,12 +73,14 @@ anzuwenden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000600000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmasbgebv/BJNR337600021.html#BJNR337600021BJNE000800000)
 
 (Fundstelle: BGBl. I 2021, 3377)
 

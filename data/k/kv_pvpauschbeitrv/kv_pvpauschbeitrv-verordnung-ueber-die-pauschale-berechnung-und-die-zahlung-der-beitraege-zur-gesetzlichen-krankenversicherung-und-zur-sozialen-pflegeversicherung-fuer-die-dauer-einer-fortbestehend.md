@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000100305)
 
 Auf Grund
 
@@ -57,6 +58,7 @@ Sozialordnung:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000201308)
 
 Die Beiträge zur gesetzlichen Krankenversicherung und zur sozialen
 Pflegeversicherung werden für Personen, deren Mitgliedschaft während
@@ -65,6 +67,7 @@ pauschal berechnet.
 
 
 ## § 2 Beitragsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000301308)
 
 Die pauschalen Beiträge werden kalenderjährlich wie folgt berechnet:
 
@@ -86,6 +89,7 @@ Die pauschalen Beiträge werden kalenderjährlich wie folgt berechnet:
 
 
 ## § 3 Berechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000405308)
 
 (1) Als beitragspflichtige Einnahmen gilt ein Betrag in Höhe von 80
 vom Hundert der für das Kalenderjahr der Dienstleistung geltenden
@@ -116,6 +120,7 @@ der nicht zu berücksichtigenden Diensttage.
 
 
 ## § 4 Abrechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000504308)
 
 (1) Das Bundesamt für Wehrverwaltung und das Bundesamt für den
 Zivildienst führen die Abrechnung der pauschalen Beiträge nach § 2 Nr.
@@ -134,6 +139,7 @@ Pflegeversicherungsbeiträgen ermittelt.
 
 
 ## § 5 Zahlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000605308)
 
 (1) Die Beiträge zur gesetzlichen Krankenversicherung und zur sozialen
 Pflegeversicherung werden vom Bundesamt für Wehrverwaltung und vom
@@ -172,6 +178,7 @@ Abrechnungsjahres bei der nächsten Abrechnung berücksichtigt.
 
 
 ## § 6 Berücksichtigung des zusätzlichen Beitragssatzes
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000802308)
 
 Für den Zeitraum vom 1. Juli 2005 bis zum 31. Dezember 2008 ist für
 die Ermittlung der Berechnungsgrundlagen auch § 241a des Fünften
@@ -180,6 +187,7 @@ Fassung zu berücksichtigen.
 
 
 ## § 7 Abrechnungszeiträume bis 2008
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE001000308)
 
 Für die Abrechnungszeiträume bis einschließlich 2008 ist,
 vorbehaltlich des § 6, diese Verordnung in der bis zum 31. Dezember
@@ -187,6 +195,7 @@ vorbehaltlich des § 6, diese Verordnung in der bis zum 31. Dezember
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kv_pvpauschbeitrv/BJNR039200998.html#BJNR039200998BJNE000900305)
 
 Der Bundesrat hat zugestimmt.
 

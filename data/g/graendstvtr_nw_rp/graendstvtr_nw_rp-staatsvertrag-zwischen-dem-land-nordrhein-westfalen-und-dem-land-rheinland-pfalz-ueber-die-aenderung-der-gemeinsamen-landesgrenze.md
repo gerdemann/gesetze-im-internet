@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_nw_rp/BJNR100150992.html#BJNR100150992BJNE000100314)
 
 Das Land Nordrhein-Westfalen und das Land Rheinland-Pfalz schließen
 nachstehenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_nw_rp/BJNR100150992.html#BJNR100150992BJNE000200314)
 
 (1) Das Land Nordrhein-Westfalen tritt an das Land Rheinland-Pfalz aus
 dem Gebiet der Stadt Siegen das Flurstück 762 in Flur 1 sowie die
@@ -37,6 +39,7 @@ dem Gebiet der Ortsgemeinde Mudersbach die Flurstücke 621/2, 622/1 und
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_nw_rp/BJNR100150992.html#BJNR100150992BJNE000300314)
 
 Die betroffenen Gemeinden und Gemeindeverbände regeln die Rechtsfolgen
 der Änderung der Gemeindegebiete und die Auseinandersetzung durch
@@ -45,6 +48,7 @@ zuständigen Aufsichtsbehörden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_nw_rp/BJNR100150992.html#BJNR100150992BJNE000400314)
 
 (1) Der Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden werden ausgetauscht.
@@ -54,6 +58,7 @@ Ratifikationsurkunden folgenden Monats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_nw_rp/BJNR100150992.html#BJNR100150992BJNE000500314)
 
 Für das Land Nordrhein-Westfalen
 Der Ministerpräsident

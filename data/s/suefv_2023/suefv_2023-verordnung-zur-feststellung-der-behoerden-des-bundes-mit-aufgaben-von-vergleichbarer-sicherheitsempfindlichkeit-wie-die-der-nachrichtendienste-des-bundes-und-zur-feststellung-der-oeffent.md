@@ -24,6 +24,7 @@ Geändert durch
 Stand: Ersetzt V 12-10-2 v. 30.7.2003 I 1553 (SÜFV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000100000)
 
 Auf Grund des § 34 des Sicherheitsüberprüfungsgesetzes, der durch
 Artikel 1 Nummer 37 des Gesetzes vom 16. Juni 2017 (BGBl. I S. 1634)
@@ -31,9 +32,11 @@ neu gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## Teil 1 - Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNG000100000)
 
 
 ### § 1 Aufgaben mit vergleichbarer Sicherheitsempfindlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000201311)
 
 Folgende Behörden des Bundes nehmen Aufgaben von vergleichbarer
 Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes
@@ -102,12 +105,15 @@ Nachrichtendiensten des Bundes erfolgt:
 
 
 ## Teil 2 - Feststellung der lebens- oder verteidigungswichtigen Einrichtungen im Sinne des § 1 Absatz 4 des Sicherheitsüberprüfungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNG000200000)
 
 
 ### Abschnitt 1 - Feststellung des öffentlichen Bereichs
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNG000300000)
 
 
 #### § 2 Deutscher Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000300000)
 
 Lebenswichtige Einrichtungen sind der Polizeivollzugsdienst beim
 Deutschen Bundestag und die technischen Arbeitseinheiten des Deutschen
@@ -116,6 +122,7 @@ erheblich beeinträchtigen würde.
 
 
 #### § 3 Bundesrat
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000400000)
 
 Lebenswichtige Einrichtungen sind die technischen Arbeitseinheiten des
 Bundesrates, deren Ausfall die Tätigkeit des Bundesrates erheblich
@@ -123,6 +130,7 @@ beeinträchtigen würde.
 
 
 #### § 4 Bundesverfassungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000500000)
 
 Lebenswichtige Einrichtungen sind die Arbeitseinheiten, die den
 Betrieb der Informations- und Kommunikationstechnik des
@@ -132,6 +140,7 @@ würde.
 
 
 #### § 5 Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000600000)
 
 Lebenswichtige Einrichtungen sind die Arbeitseinheiten, die den
 Betrieb der Informations- und Kommunikationstechnik der Deutschen
@@ -140,6 +149,7 @@ sowie die Einrichtungen der zentralen Bargeldversorgung.
 
 
 #### § 6 Oberste Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000700000)
 
 Lebenswichtige Einrichtungen in den obersten Bundesbehörden sind die
 Arbeitseinheiten, die den Betrieb der Informations- und
@@ -148,6 +158,7 @@ oberster Bundesbehörden erheblich beeinträchtigen würde.
 
 
 #### § 7 Geschäftsbereiche der obersten Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000800000)
 
 Lebenswichtige Einrichtungen in den Geschäftsbereichen der obersten
 Bundesbehörden sind die Arbeitseinheiten, die den Betrieb der
@@ -157,6 +168,7 @@ Behörden sowie Bundesgerichte erheblich beeinträchtigen würde.
 
 
 #### § 8 Bundesministerium des Innern und für Heimat
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE000900000)
 
 Lebenswichtige Einrichtung ist im Bundesministerium des Innern und für
 Heimat unbeschadet von § 6 der Leitungsbereich für den Zivil- und
@@ -164,6 +176,7 @@ Katastrophenschutz.
 
 
 #### § 9 Geschäftsbereich des Bundesministeriums des Innern und für Heimat
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001000000)
 
 Lebenswichtige Einrichtungen sind im Geschäftsbereich des
 Bundesministeriums des Innern und für Heimat unbeschadet von § 7
@@ -182,6 +195,7 @@ Bundesministeriums des Innern und für Heimat unbeschadet von § 7
 
 
 #### § 10 Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001100000)
 
 Lebenswichtige Einrichtungen sind im Geschäftsbereich des
 Bundesministeriums für Arbeit und Soziales unbeschadet von § 7 die
@@ -193,6 +207,7 @@ Sozialversicherungsträger sicherstellen.
 
 
 #### § 11 Bundesministerium für Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001200000)
 
 Lebenswichtige Einrichtungen sind im Geschäftsbereich des
 Bundesministeriums für Gesundheit unbeschadet von § 7 im Institut mit
@@ -205,6 +220,7 @@ internationaler Ebene zuständig sind.
 
 
 #### § 12 Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001300000)
 
 Lebenswichtige Einrichtungen sind im Geschäftsbereich des
 Bundesministeriums für Ernährung und Landwirtschaft unbeschadet von §
@@ -214,9 +230,11 @@ Mikroorganismen arbeiten.
 
 
 ### Abschnitt 2 - Feststellung des nichtöffentlichen Bereichs
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNG000400000)
 
 
 #### § 13 Bundesministerium des Innern und für Heimat
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001400000)
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
 Bundesministeriums des Innern und für Heimat die Teile von
@@ -229,6 +247,7 @@ beeinträchtigen würde.
 
 
 #### § 14 Bundesministerium der Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001500000)
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
 Bundesministeriums der Finanzen die Teile von Unternehmen, die durch
@@ -239,6 +258,7 @@ nachgeordneter Behörden erheblich beeinträchtigen würde.
 
 
 #### § 15 Auswärtiges Amt
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001600000)
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
 Auswärtigen Amtes die Teile von Unternehmen, die mit dem Aufbau oder
@@ -249,6 +269,7 @@ beeinträchtigen würde.
 
 
 #### § 16 Bundesministerium für Wirtschaft und Klimaschutz
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001700000)
 
 (1) Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
 Bundesministeriums für Wirtschaft und Klimaschutz
@@ -291,6 +312,7 @@ und Klimaschutz mit.
 
 
 #### § 17 Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001800000)
 
 Lebenswichtige Einrichtungen sind, soweit der Betrieb nicht
 ausreichend durch organisatorische oder technische Maßnahmen gegen
@@ -312,6 +334,7 @@ Verbraucherschutz
 
 
 #### § 18 Bundesministerium für Digitales und Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE001900000)
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
 Bundesministeriums für Digitales und Verkehr
@@ -364,9 +387,11 @@ Bundesministeriums für Digitales und Verkehr
 
 
 ### Abschnitt 3 - Zuständigkeits- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNG000500000)
 
 
 #### § 19 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE002000000)
 
 (1) Zuständig für die Durchführung der Sicherheitsüberprüfungen nach §
 13 ist die Bundesanstalt für den Digitalfunk der Behörden und
@@ -378,6 +403,7 @@ Klimaschutz.
 
 
 #### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/s_fv_2023/BJNR0210A0023.html#BJNR0210A0023BJNE002100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Sicherheitsüberprüfungsfeststellungsverordnung

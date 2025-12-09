@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/intkonnbek_2001/BJNR257600001.html#BJNR257600001BJNE000100305)
 
 Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche,
 der durch Artikel 5 Nr. 1 des Gesetzes vom 25. Juli 1986 (BGBl. I S.

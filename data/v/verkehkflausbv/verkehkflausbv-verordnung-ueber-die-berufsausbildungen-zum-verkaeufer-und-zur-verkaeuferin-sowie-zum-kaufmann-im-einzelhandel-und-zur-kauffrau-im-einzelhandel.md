@@ -29,6 +29,7 @@ Stand: Ersetzt V 806-21-1-329 v. 16.7.2004 I 1806; 2007 I 2203 (EzHdlAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -38,9 +39,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000300000)
 
 Der Ausbildungsberuf des Verkäufers und der Verkäuferin sowie der
 Ausbildungsberuf des Kaufmanns im Einzelhandel und der Kauffrau im
@@ -49,6 +52,7 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000400000)
 
 (1) Die Berufsausbildung im Ausbildungsberuf des Verkäufers und der
 Verkäuferin dauert zwei Jahre.
@@ -58,6 +62,7 @@ Einzelhandel und der Kauffrau im Einzelhandel dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildungen und Ausbildungsrahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung zum Verkäufer und zur Verkäuferin
 sind mindestens die im Ausbildungsrahmenplan für die Berufsausbildung
@@ -84,6 +89,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild des Verkäufers und der Verkäuferin
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000600000)
 
 (1) Die Berufsausbildung zum Verkäufer und zur Verkäuferin gliedert
 sich in:
@@ -172,6 +178,7 @@ sind:
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild des Kaufmanns im Einzelhandel und der Kauffrau im Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000700000)
 
 (1) Die Berufsausbildung zum Kaufmann im Einzelhandel und zur Kauffrau
 im Einzelhandel gliedert sich in:
@@ -298,6 +305,7 @@ sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000800000)
 
 Der Ausbildungsbetrieb hat spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -305,6 +313,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE000900000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -315,12 +324,15 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung und Abschlussprüfung in der Berufsausbildung zum Verkäufer und zur Verkäuferin
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNG000200000)
 
 
 ### Unterabschnitt 1 - Zwischenprüfung in der Berufsausbildung zum Verkäufer und zur Verkäuferin
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNG000300000)
 
 
 #### § 8 Ziel und Zeitpunkt der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist in der Berufsausbildung
 zum Verkäufer und zur Verkäuferin eine Zwischenprüfung durchzuführen.
@@ -330,6 +342,7 @@ stattfinden.
 
 
 #### § 9 Inhalt der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001100000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -346,6 +359,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 #### § 10 Prüfungsbereich der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001200000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Verkaufsprozesse
 statt.
@@ -374,9 +388,11 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### Unterabschnitt 2 - Abschlussprüfung in der Berufsausbildung zum Verkäufer und zur Verkäuferin
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNG000400000)
 
 
 #### § 11 Ziel und Zeitpunkt der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001300000)
 
 (1) Durch die Abschlussprüfung in der Berufsausbildung zum Verkäufer
 und zur Verkäuferin ist festzustellen, ob der Prüfling die berufliche
@@ -387,6 +403,7 @@ durchgeführt werden.
 
 
 #### § 12 Inhalt der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001400000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -403,6 +420,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 #### § 13 Prüfungsbereiche der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001500000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -422,6 +440,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 #### § 14 Prüfungsbereich Verkauf und Werbemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001600000)
 
 (1) Im Prüfungsbereich Verkauf und Werbemaßnahmen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -450,6 +469,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 15 Prüfungsbereich Warenwirtschaft und Kalkulation
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001700000)
 
 (1) Im Prüfungsbereich Warenwirtschaft und Kalkulation soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -475,6 +495,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -488,6 +509,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 17 Prüfungsbereich Fachgespräch in der Wahlqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE001900000)
 
 (1) Im Prüfungsbereich Fachgespräch in der Wahlqualifikation soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -521,6 +543,7 @@ und im Ausbildungsnachweis dokumentierte Warenbereich.
 
 
 #### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -603,9 +626,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Abschlussprüfung in der Berufsausbildung zum Kaufmann im Einzelhandel und zur Kauffrau im Einzelhandel, Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNG000500000)
 
 
 ### § 19 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002100000)
 
 (1) Durch die Abschlussprüfung in der Berufsausbildung zum Kaufmann im
 Einzelhandel und zur Kauffrau im Einzelhandel ist festzustellen, ob
@@ -618,6 +643,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 20 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002200000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -634,6 +660,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 21 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002300000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -651,6 +678,7 @@ statt:
 
 
 ### § 22 Prüfungsbereich Verkauf und Werbemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002400000)
 
 (1) Im Prüfungsbereich Verkauf und Werbemaßnahmen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -679,6 +707,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 23 Prüfungsbereich Warenwirtschaft und Kalkulation
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002500000)
 
 (1) Im Prüfungsbereich Warenwirtschaft und Kalkulation soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -704,6 +733,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 24 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -717,6 +747,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 25 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002700000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -738,6 +769,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 26 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002800000)
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
 statt:
@@ -752,6 +784,7 @@ statt:
 
 
 ### § 27 Prüfungsbereich Geschäftsprozesse im Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE002900000)
 
 (1) Im Prüfungsbereich Geschäftsprozesse im Einzelhandel soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -791,6 +824,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 28 Prüfungsbereich Fachgespräch in der Wahlqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE003000000)
 
 (1) Im Prüfungsbereich Fachgespräch in der Wahlqualifikation soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -825,6 +859,7 @@ dokumentierte Warenbereich.
 
 
 ### § 29 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE003100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -913,6 +948,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### § 30 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE003201360)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum Verkäufer und
 zur Verkäuferin kann im Umfang von zwei Jahren auf die Dauer der
@@ -943,9 +979,11 @@ Einzelhandel geltenden Vorschriften abschließen.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNG000600000)
 
 
 ### § 31 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE003300000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig treten
 die Verordnung über die Berufsausbildung im Einzelhandel in den
@@ -962,6 +1000,7 @@ im Einzelhandel/Kauffrau im Einzelhandel vom 24. März 2009 (BGBl. I S.
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Verkäufer und zur Verkäuferin
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE003400000)
 
 (Fundstelle: BGBl. I 2017, 465)
 
@@ -1741,6 +1780,7 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 (zu § 3 Absatz 2)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Einzelhandel und zur Kauffrau im Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/verkehkflausbv/BJNR045800017.html#BJNR045800017BJNE003500000)
 
 (Fundstelle: BGBl. I 2017, 471)
 

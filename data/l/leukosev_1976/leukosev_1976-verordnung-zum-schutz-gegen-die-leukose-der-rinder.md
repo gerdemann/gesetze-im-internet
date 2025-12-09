@@ -20,10 +20,12 @@ Neugefasst durch
 
 
 ## I. - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000103124)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE000907124)
 
 (1) Leukose im Sinne dieser Verordnung ist die Enzootische Leukose.
 
@@ -178,19 +180,23 @@ als Zugtiere bestimmt sind.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001003124)
 
 (weggefallen)
 
 
 ## II. - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000202124)
 
 
 
 ### 1. - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000302124)
 
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001102124)
 
 Impfungen gegen die Leukose der Rinder und Heilversuche sind verboten.
 Die zuständige Behörde kann Ausnahmen für wissenschaftliche Versuche
@@ -198,6 +204,7 @@ zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 3a
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE002604124)
 
 (1) Der Halter von Rindern ist verpflichtet, die über 24 Monate alten
 Tiere nach näherer Anweisung der zuständigen Behörde im Abstand von
@@ -223,11 +230,13 @@ untersuchen. Absatz 1 Satz 2 bleibt unberührt.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001203124)
 
 (weggefallen)
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001305124)
 
 (1) Zucht- und Nutzrinder dürfen
 
@@ -251,11 +260,13 @@ und eine Verbreitung der Seuche dadurch nicht zu befürchten ist.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001403124)
 
 (weggefallen)
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001502124)
 
 Die zuständige Behörde kann die Untersuchung von Rindern und die
 amtliche Beobachtung von Rindern anordnen, wenn dies aus Gründen der
@@ -264,10 +275,12 @@ anordnen.
 
 
 ### 2. - Besondere Schutzmaßregeln nach amtlicher Feststellung der Leukose oder des Verdachts auf Leukose der Rinder
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000402124)
 
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001603124)
 
 (1) Ist in einem Bestand Leukose der Rinder oder der Verdacht auf
 Leukose amtlich festgestellt, so unterliegt das Gehöft oder der
@@ -315,6 +328,7 @@ entgegenstehen.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001703124)
 
 Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen
 leukotische Tumoren oder ein positiver serologischer Befund
@@ -326,10 +340,12 @@ erforderlich ist.
 
 
 ### 3. - Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000502124)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001802124)
 
 Nach Entfernung der Rinder, bei denen leukotische Tumoren, positive
 oder wiederholt zweifelhafte serologische Befunde festgestellt worden
@@ -348,10 +364,12 @@ desinfizieren.
 
 
 ## III. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000602124)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE001902124)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Leukose der
 Rinder erloschen ist oder der Verdacht auf Leukose der Rinder
@@ -410,10 +428,12 @@ beseitigt ist oder sich als unbegründet erwiesen hat.
 
 
 ## IV. - Amtlich anerkannter leukosefreier Rinderbestand
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000901124)
 
 
 
 ### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE002701124)
 
 Ein Rinderbestand, der sich im Inland befindet, ist im Sinne des
 Artikels 3 Absatz 1 der Entscheidung 2003/467/EG der Kommission vom
@@ -427,6 +447,7 @@ Rinderbestand.
 
 
 ### § 11b
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE002801124)
 
 (1) Die zuständige Behörde entzieht dem Inhaber eines Rinderbestandes
 die amtliche Anerkennung seines Bestandes als leukosefrei, soweit für
@@ -457,10 +478,12 @@ Anerkennung nach Absatz 1 Satz 2 auf, soweit der Verdacht im Sinne des
 
 
 ## V. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000703124)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE002006124)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -515,10 +538,12 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## VI. - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNG000803124)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE002103124)
 
 § 11a gilt nicht für einen Rinderbestand, soweit die zuständige
 Behörde am 30. Mai 2017
@@ -539,6 +564,7 @@ vorliegen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/leukosev_1976/BJNR021000976.html#BJNR021000976BJNE002303124)
 
 (Inkrafttreten, Außerkrafttreten)
 

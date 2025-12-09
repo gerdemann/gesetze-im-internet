@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kaffee_bk1983orgvorrv/BJNR200940990.html#BJNR200940990BJNE000100308)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kaffee_bk1983orgvorrv/BJNR200940990.html#BJNR200940990BJNE000200308)
 
 Für die Gewährung von Vorrechten und Immunitäten an die Internationale
 Kaffe-Organisation gilt das Internationale Kaffee-Übereinkommen von
@@ -41,6 +43,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kaffee_bk1983orgvorrv/BJNR200940990.html#BJNR200940990BJNE000300308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -49,6 +52,7 @@ vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kaffee_bk1983orgvorrv/BJNR200940990.html#BJNR200940990BJNE000400308)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Internationale Kaffee-Übereinkommen von 1983 in der Fassung der in § 1
@@ -67,6 +71,7 @@ Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kaffee_bk1983orgvorrv/BJNR200940990.html#BJNR200940990BJNE000500308)
 
 Der Bundesrat hat zugestimmt.
 

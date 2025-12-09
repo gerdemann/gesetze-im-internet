@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruchsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000201123)
 
 (1) Anspruchsberechtigt sind Steuerpflichtige im Sinne des
 Einkommensteuer- und des Körperschaftsteuergesetzes, soweit sie
@@ -36,6 +37,7 @@ anspruchsberechtigt.
 
 
 ## § 2 Begünstigte Forschungs- und Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000301123)
 
 (1) Forschungs- und Entwicklungsvorhaben sind begünstigt, soweit sie
 einer oder mehreren der Kategorien Grundlagenforschung, industrielle
@@ -89,6 +91,7 @@ der für die Überprüfung der Anspruchsvoraussetzungen erforderlich ist.
 
 
 ## § 3 Förderfähige Aufwendungen und Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001901123)
 
 (1) Förderfähige Aufwendungen sind die beim Anspruchsberechtigten dem
 Lohnsteuerabzug gemäß § 38 Absatz 1 des Einkommensteuergesetzes
@@ -228,6 +231,7 @@ Voraussetzungen des Absatzes 6 vorliegen.
 
 
 ## § 4 Höhe der Forschungszulage
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000501123)
 
 (1) Die Forschungszulage beträgt 25 Prozent der Bemessungsgrundlage
 nach § 3 Absatz 5. Anspruchsberechtigte, die als kleines und mittleres
@@ -249,6 +253,7 @@ und Entwicklungsvorhaben den Betrag von 15 000 000 Euro nicht
 
 
 ## § 5 Antrag auf Forschungszulage
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000602123)
 
 (1) Der Anspruchsberechtigte hat nach Ablauf des Wirtschaftsjahres, in
 dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 und 2 vom
@@ -284,6 +289,7 @@ nach § 3 Absatz 1 bis 4 förderfähigen Aufwendungen gesondert fest.
 
 
 ## § 6 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000701123)
 
 (1) Grundlage für die Festsetzung der Forschungszulage ist für jedes
 im Antrag nach § 5 aufgeführte Forschungs- und Entwicklungsvorhaben
@@ -317,6 +323,7 @@ Auslagen erhoben werden.
 
 
 ## § 7 Kumulierung mit anderen Förderungen oder staatlichen Beihilfen
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000800000)
 
 (1) Die Forschungszulage kann vorbehaltlich des Absatzes 2 neben
 anderen Förderungen oder staatlichen Beihilfen für das begünstigte
@@ -333,6 +340,7 @@ Feststellung der Voraussetzungen nach Absatz 2 erforderlich sind.
 
 
 ## § 8 Begünstigungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE000900000)
 
 Die Forschungszulage kann nur für Forschungs- und Entwicklungsvorhaben
 im Sinne des § 2 beansprucht werden, mit deren Arbeiten nach dem 1.
@@ -341,6 +349,7 @@ Januar 2020 begonnen wird oder für die der Auftrag nach dem 1. Januar
 
 
 ## § 9 Anzuwendende Rechtsvorschriften der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001001123)
 
 (1) Auf dieses Gesetz findet vorbehaltlich des Absatzes 5 die
 Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur
@@ -384,6 +393,7 @@ Verordnung eingehalten werden.
 
 
 ## § 10 Festsetzung und Leistung der Forschungszulage
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001102123)
 
 (1) Die Forschungszulage ist in einem Forschungszulagenbescheid
 festzusetzen. Die festgesetzte Forschungszulage wird im Rahmen der
@@ -421,6 +431,7 @@ entsprechend zu ändern.
 
 
 ## § 11 Verzinsung des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001200000)
 
 Ist der Forschungszulagenbescheid nach § 10 aufgehoben oder
 zuungunsten des Anspruchsberechtigten geändert worden, ist der
@@ -438,6 +449,7 @@ aufgehoben oder geändert worden ist.
 
 
 ## § 12 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001300000)
 
 Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung
 sind mit Ausnahme des § 163 der Abgabenordnung entsprechend
@@ -447,6 +459,7 @@ Finanzrechtsweg gegeben.
 
 
 ## § 13 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001400000)
 
 Für die Forschungszulage gelten die Strafvorschriften des § 370 Absatz
 1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 sowie die
@@ -459,6 +472,7 @@ bis 412 der Abgabenordnung entsprechend.
 
 
 ## § 14 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001500000)
 
 (1) Das Bundesministerium für Bildung und Forschung wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates und im
@@ -509,12 +523,14 @@ der Besteuerung das Antragsverfahren nach § 5 näher zu regeln.
 
 
 ## § 15 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001600000)
 
 Das Bundesministerium der Finanzen kann den Wortlaut dieses Gesetzes
 in der jeweils geltenden Fassung bekannt machen.
 
 
 ## § 16 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001701123)
 
 (1) Das Gesetz ist auf der Grundlage und im Rahmen der Vorgaben der
 AGVO anwendbar.
@@ -538,6 +554,7 @@ im Bundesgesetzblatt bekannt zu machen.
 
 
 ## § 16a Anonymisierung und Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE002000123)
 
 Das Bundesministerium für Bildung und Forschung und die
 Bescheinigungsstelle nach § 2 Absatz 1 Satz 2 der Forschungszulagen-
@@ -552,6 +569,7 @@ Maßnahmen im Bereich Forschung und Entwicklung verarbeiten.
 
 
 ## § 17 Evaluierung und wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html#BJNR276310019BJNE001801123)
 
 (1) Die Bundesregierung wird die Anwendung dieses Gesetzes spätestens
 nach Ablauf von fünf Jahren auf wissenschaftlicher Grundlage

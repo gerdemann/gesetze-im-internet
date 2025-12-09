@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2, § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) und § 56
@@ -32,6 +33,7 @@ Bundesamtes für Bauwesen und Raumordnung an:
 
 
 ## § 1 Zuständigkeit in Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass von
 Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche von
@@ -52,6 +54,7 @@ entscheiden.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000300000)
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamtes wird
 die Vertretung der Bundesrepublik Deutschland in
@@ -65,6 +68,7 @@ wahrzunehmen.
 
 
 ## § 3 Absehen von der Rückforderung zu viel gezahlter Bezüge aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000400000)
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, ohne Einholen
 der Zustimmung der Bundesministerin oder des Bundesministers für
@@ -76,6 +80,7 @@ Beamte des Bundesamtes für Bauwesen und Raumordnung betroffen sind.
 
 
 ## § 4 Beihilfefestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000500000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für die
 Beihilfefestsetzung für Beihilfeanträge der Bediensteten des
@@ -86,6 +91,7 @@ Vorschriften der obersten Dienstbehörde vorbehalten sind.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000600000)
 
 (1) Diese Anordnung tritt für die Beihilfefestsetzung sowie für das
 Widerspruchs- und Klageverfahren in Angelegenheiten der Beihilfe mit
@@ -105,6 +111,7 @@ Buches Sozialgesetzbuch mit Wirkung vom 1. Oktober 2022 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbr_bertrano/BJNR0570A0025.html#BJNR0570A0025BJNE000700000)
 
 Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen
 

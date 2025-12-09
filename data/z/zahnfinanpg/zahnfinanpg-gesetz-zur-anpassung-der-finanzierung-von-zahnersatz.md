@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zahnfinanpg/BJNR344500004.html#BJNR344500004BJNE000100000)
 
 
 ## Art 3a Sonderkündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/zahnfinanpg/BJNR344500004.html#BJNR344500004BJNE000200000)
 
 Versicherte, die auf Grund von § 58 Abs. 2 des Fünften Buches
 Sozialgesetzbuch in der Fassung des GKV-Modernisierungsgesetzes eine

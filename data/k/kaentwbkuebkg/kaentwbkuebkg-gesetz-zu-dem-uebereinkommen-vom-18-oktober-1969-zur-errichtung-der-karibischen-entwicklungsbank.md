@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_ntwbk_bkg/BJNR202980989.html#BJNR202980989BJNE000100325)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/k_ntwbk_bkg/BJNR202980989.html#BJNR202980989BJNE000200325)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 Kingston, Jamaika, vom 18. Oktober 1969 zur Errichtung der Karibischen
@@ -33,6 +35,7 @@ mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/k_ntwbk_bkg/BJNR202980989.html#BJNR202980989BJNE000300325)
 
 Zur Erfüllung der Verbindlichkeiten, die der Bundesrepublik
 Deutschland aus dem Beitritt zur Karibischen Entwicklungsbank
@@ -49,18 +52,21 @@ achthundertvierundvierzig Deutsche Mark) zu leisten.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/k_ntwbk_bkg/BJNR202980989.html#BJNR202980989BJNE000400325)
 
 Die Deutsche Bundesbank ist Hinterlegungsstelle für die Karibische
 Entwicklungsbank nach Artikel 37 Absatz 2 des Übereinkommens.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/k_ntwbk_bkg/BJNR202980989.html#BJNR202980989BJNE000500325)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/k_ntwbk_bkg/BJNR202980989.html#BJNR202980989BJNE000600325)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

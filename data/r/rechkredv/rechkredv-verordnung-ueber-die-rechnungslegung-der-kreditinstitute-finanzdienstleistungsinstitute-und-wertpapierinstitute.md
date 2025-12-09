@@ -33,10 +33,12 @@ Offenlegung von Jahresabschlußunterlagen (ABl. EG Nr. L 44 S. 40).
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000101307)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001304360)
 
 Diese Verordnung ist auf Kreditinstitute,
 Finanzdienstleistungsinstitute und Wertpapierinstitute (Institute)
@@ -48,10 +50,12 @@ Wohnungsunternehmen mit Spareinrichtung nicht anzuwenden.
 
 
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000201307)
 
 
 
 ### § 2 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001403160)
 
 (1) Institute haben an Stelle des § 266 des Handelsgesetzbuchs über
 die Gliederung der Bilanz das anliegende Formblatt 1 und an Stelle des
@@ -84,6 +88,7 @@ Verlustrechnungen nicht anzuwenden.
 
 
 ### § 3 Unterposten
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001501307)
 
 Als Unterposten sind im Formblatt jeweils gesondert auszuweisen:
 
@@ -123,6 +128,7 @@ Reihenfolge der betroffenen Posten gemacht werden.
 
 
 ### § 4 Nachrangige Vermögensgegenstände und Schulden
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001602307)
 
 (1) Vermögensgegenstände und Schulden sind als nachrangig auszuweisen,
 wenn sie als Forderungen oder Verbindlichkeiten im Fall der
@@ -136,6 +142,7 @@ betroffenen Posten gemacht werden.
 
 
 ### § 5 Gemeinschaftsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001701307)
 
 Wird ein Kredit von mehreren Kreditinstituten gemeinschaftlich gewährt
 (Gemeinschaftskredit), so hat jedes beteiligte oder unterbeteiligte
@@ -156,6 +163,7 @@ Wertpapiere oder Beteiligungen gemeinschaftlich erwerben.
 
 
 ### § 6 Treuhandgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001803360)
 
 (1) Vermögensgegenstände und Schulden, die ein Institut im eigenen
 Namen, aber für fremde Rechnung hält, sind in seine Bilanz
@@ -183,6 +191,7 @@ Anteilinhaber verwaltete Investmentvermögen" auszuweisen.
 
 
 ### § 7 Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE001905360)
 
 (1) Als Wertpapiere sind Aktien, Zwischenscheine, Anteile oder Aktien
 an Investmentvermögen, Optionsscheine, Zins- und Gewinnanteilscheine,
@@ -208,6 +217,7 @@ die an ausländischen Börsen zugelassen sind oder gehandelt werden.
 
 
 ### § 8 Restlaufzeit
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002001307)
 
 (1) Für die Gliederung nach Restlaufzeiten sind bei ungekündigten
 Kündigungsgeldern die Kündigungsfristen maßgebend. Sofern neben der
@@ -230,6 +240,7 @@ nächsten Geschäftstag.
 
 
 ### § 9 Fristengliederung
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002104140)
 
 (1) Im Anhang sind gesondert die Beträge der folgenden Posten oder
 Unterposten des Formblattes 1 (Bilanz) nach Restlaufzeiten
@@ -298,6 +309,7 @@ maßgebend:
 
 
 ### § 10 Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002201307)
 
 (1) Täglich fällige, keinerlei Bindungen unterliegende
 Verbindlichkeiten gegenüber einem Kontoinhaber müssen mit gegen
@@ -313,6 +325,7 @@ darf mit Sperrguthaben und Spareinlagen.
 
 
 ### § 11 Anteilige Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002303360)
 
 Anteilige Zinsen und ähnliche das Geschäftsjahr betreffende Beträge,
 die erst nach dem Bilanzstichtag fällig werden, aber bereits am
@@ -327,14 +340,17 @@ Restlaufzeiten aufgegliedert zu werden.
 
 
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz (Formblatt 1)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000301307)
 
 
 
 ### Unterabschnitt 1 - Posten der Aktivseite
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000401307)
 
 
 
 #### § 12 Barreserve (Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002402307)
 
 (1) Als Kassenbestand sind gesetzliche Zahlungsmittel einschließlich
 der ausländischen Noten und Münzen sowie Postwertzeichen und
@@ -360,6 +376,7 @@ Verbindlichkeiten auszuweisen.
 
 
 #### § 13 Schuldtitel öffentlicher Stellen und Wechsel, die zur Refinanzierung bei Zentralnotenbanken zugelassen sind (Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002504140)
 
 (1) Im Posten Nr. 2 sind Schatzwechsel und unverzinsliche
 Schatzanweisungen sowie ähnliche Schuldtitel öffentlicher Stellen und
@@ -389,6 +406,7 @@ sind nicht als Wechsel zu bilanzieren.
 
 
 #### § 14 Forderungen an Kreditinstitute (Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002604360)
 
 Im Posten "Forderungen an Kreditinstitute" sind alle Arten von
 Forderungen aus Bankgeschäften sowie alle Forderungen von
@@ -414,6 +432,7 @@ Verrechnungskonten.
 
 
 #### § 15 Forderungen an Kunden (Nr. 4)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002705140)
 
 (1) Im Posten "Forderungen an Kunden" sind alle Arten von
 Vermögensgegenständen einschließlich der von Kunden eingereichten
@@ -462,6 +481,7 @@ Pfandbriefgesetzes entsprechen.
 
 
 #### § 16 Schuldverschreibungen und andere festverzinsliche Wertpapiere (Nr. 5)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002803307)
 
 (1) Als Schuldverschreibungen und andere festverzinsliche Wertpapiere
 sind die folgenden Rechte, wenn sie börsenfähig sind und nicht zu dem
@@ -500,6 +520,7 @@ nicht börsenfähigen eigenen Schuldverschreibungen ist vom Passivposten
 
 
 #### § 17 Aktien und andere nicht festverzinsliche Wertpapiere (Nr. 6)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE002903360)
 
 Im Posten "Aktien und andere nicht festverzinsliche Wertpapiere" sind
 Aktien auszuweisen, soweit sie nicht im Posten "Beteiligungen"
@@ -514,6 +535,7 @@ aufzunehmen.
 
 
 #### § 18 Beteiligungen (Nr. 7)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003002307)
 
 Institute in der Rechtsform der eingetragenen Genossenschaft und
 genossenschaftliche Zentralbanken haben Geschäftsguthaben bei
@@ -523,6 +545,7 @@ anzupassen.
 
 
 #### § 19 Ausgleichsforderungen gegen die öffentliche Hand einschließlich Schuldverschreibungen aus deren Umtausch (Nr. 10)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003102307)
 
 Im Posten Nr. 10 sind Ausgleichsforderungen aus der Währungsreform von
 1948 sowie Ausgleichsforderungen gegenüber dem Ausgleichsfonds
@@ -536,6 +559,7 @@ Außenhandelsbetrieb erlangt hat.
 
 
 #### § 20 Sonstige Vermögensgegenstände (Nr. 14)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003203140)
 
 Im Posten "Sonstige Vermögensgegenstände" sind Forderungen und
 sonstige Vermögensgegenstände auszuweisen, die einem anderen Posten
@@ -555,11 +579,13 @@ befinden.
 
 
 ### Unterabschnitt 2 - Posten der Passivseite
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000501307)
 
 
 Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1),
 
 #### § 21 Verbindlichkeiten gegenüber Kunden (Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003306360)
 
 (1) Als Verbindlichkeiten gegenüber Kreditinstituten sind alle Arten
 von Verbindlichkeiten aus Bankgeschäften sowie alle Verbindlichkeiten
@@ -628,6 +654,7 @@ nicht als Spareinlagen.
 
 
 #### § 22 Verbriefte Verbindlichkeiten (Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003402307)
 
 (1) Als verbriefte Verbindlichkeiten sind Schuldverschreibungen und
 diejenigen Verbindlichkeiten auszuweisen, für die nicht auf den Namen
@@ -658,6 +685,7 @@ nicht mehr ausgewiesen werden.
 
 
 #### § 23 Rechnungsabgrenzungsposten (Nr. 6)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003501307)
 
 Dem Kreditnehmer aus Teilzahlungsfinanzierungsgeschäften berechnete
 Zinsen, Provisionen und Gebühren, die künftigen Rechnungsperioden
@@ -670,6 +698,7 @@ entsprechend auch für andere Wechselrefinanzierungen.
 
 
 #### § 24 Rückstellungen (Nr. 7)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003601307)
 
 Wird im Unterposten Buchstabe c "andere Rückstellungen" eine
 Rückstellung für einen drohenden Verlust aus einer unter dem Strich
@@ -679,6 +708,7 @@ Betrags zu kürzen.
 
 
 #### § 25 Eigenkapital (Nr. 12)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003702307)
 
 (1) Im Unterposten Buchstabe a "Gezeichnetes Kapital" sind, ungeachtet
 ihrer genauen Bezeichnung im Einzelfall, alle Beträge auszuweisen, die
@@ -697,6 +727,7 @@ in das Bilanzformblatt eingetragen werden.
 
 
 #### § 26 Eventualverbindlichkeiten (Nr. 1 unter dem Strich)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003803140)
 
 (1) Im Unterposten Buchstabe a "Eventualverbindlichkeiten aus
 weitergegebenen abgerechneten Wechseln" sind nur
@@ -731,6 +762,7 @@ Gewährleistungsverträgen".
 
 
 #### § 27 Andere Verpflichtungen (Nr. 2 unter dem Strich)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE003901307)
 
 (1) Im Unterposten Buchstabe b "Plazierungs- und
 Übernahmeverpflichtungen" sind Verbindlichkeiten aus der Übernahme
@@ -754,10 +786,12 @@ nicht als unwiderrufliche Kreditzusage.
 
 
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung (Formblätter 2 und 3)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000601307)
 
 
 
 ### § 28 Zinserträge (Formblatt 2 Spalte Erträge Nr. 1, Formblatt 3 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004003360)
 
 Im Posten "Zinserträge" sind Zinserträge und ähnliche Erträge aus dem
 Bankgeschäft einschließlich des Factoring-Geschäfts sowie alle
@@ -783,6 +817,7 @@ oder nach der Höhe der Forderung berechnet werden.
 
 
 ### § 29 Zinsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 1, Formblatt 3 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004104360)
 
 Im Posten "Zinsaufwendungen" sind Zinsaufwendungen und ähnliche
 Aufwendungen aus dem Bankgeschäft einschließlich des Factoring-
@@ -807,6 +842,7 @@ Verbindlichkeiten berechnet werden.
 
 
 ### § 30 Provisionserträge (Formblatt 2 Spalte Erträge Nr. 4, Formblatt 3 Nr. 5), Provisionsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 2, Formblatt 3 Nr. 6)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004203360)
 
 (1) Im Posten "Provisionserträge" sind Provisionen und ähnliche
 Erträge aus Dienstleistungsgeschäften wie dem Zahlungsverkehr,
@@ -825,6 +861,7 @@ Dienstleistungsgeschäften auszuweisen.
 
 
 ### § 31 Allgemeine Verwaltungsaufwendungen (Formblatt 2 Spalte Aufwendungen Nr. 4, Formblatt 3 Nr. 10)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004302307)
 
 (1) Im Unterposten Buchstabe a Doppelbuchstabe ab "Soziale Abgaben und
 Aufwendungen für Altersversorgung und für Unterstützung" sind
@@ -850,6 +887,7 @@ erfassen.
 
 
 ### § 32 Abschreibungen und Wertberichtigungen auf Forderungen und bestimmte Wertpapiere sowie Zuführungen zu Rückstellungen im Kreditgeschäft (Formblatt 2 Spalte Aufwendungen Nr. 7, Formblatt 3 Nr. 13), Erträge aus Zuschreibungen zu Forderungen und bestimmten Wertpapieren sowie aus der Auflösung von Rückstellungen im Kreditgeschäft (Formblatt 2 Spalte Erträge Nr. 6, Formblatt 3 Nr. 14)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004401307)
 
 In diese Posten sind die in § 340f Abs. 3 des Handelsgesetzbuchs
 bezeichneten Aufwendungen und Erträge aufzunehmen. Die Posten dürfen
@@ -858,6 +896,7 @@ werden. Eine teilweise Verrechnung ist nicht zulässig.
 
 
 ### § 33 Abschreibungen und Wertberichtigungen auf Beteiligungen, Anteile an verbundenen Unternehmen und wie Anlagevermögen behandelte Wertpapiere (Formblatt 2 Spalte Aufwendungen Nr. 8, Formblatt 3 Nr. 15), Erträge aus Zuschreibungen zu Beteiligungen, Anteilen an verbundenen Unternehmen und wie Anlagevermögen behandelten Wertpapieren (Formblatt 2 Spalte Erträge Nr. 7, Formblatt 3 Nr. 16)
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004501307)
 
 In diese Posten sind die in § 340c Abs. 2 des Handelsgesetzbuchs
 bezeichneten Aufwendungen und Erträge aufzunehmen. Die Posten dürfen
@@ -866,10 +905,12 @@ werden. Eine teilweise Verrechnung ist nicht zulässig.
 
 
 ## Abschnitt 5 - Anhang
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000701307)
 
 
 
 ### § 34 Zusätzliche Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004605360)
 
 (1) In den Anhang sind neben den nach § 340a in Verbindung mit § 284
 Absatz 1, 2 Nummer 1, 2 und 4, § 285 Nummer 3, 3a, 7, 9 Buchstabe a
@@ -957,6 +998,7 @@ behandelt werden, können mit anderen Posten zusammengefaßt werden.
 
 
 ### § 35 Zusätzliche Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004705140)
 
 (1) Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind
 im Anhang anzugeben:
@@ -1245,6 +1287,7 @@ wesentlicher Bedeutung sind.
 
 
 ### § 36 Termingeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004801307)
 
 In den Anhang ist eine Aufstellung über die Arten von am
 Bilanzstichtag noch nicht abgewickelten fremdwährungs-, zinsabhängigen
@@ -1284,20 +1327,24 @@ ein wesentlicher Teil davon auf Handelsgeschäfte entfällt.
 
 
 ## Abschnitt 6 - Konzernrechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000801307)
 
 
 
 ### § 37 Konzernrechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE004902140)
 
 Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung
 bedingt, die §§ 1 bis 36 entsprechend anzuwenden.
 
 
 ## Abschnitt 7 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG000901307)
 
 
 
 ### § 38 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE005005360)
 
 (1) Ordnungswidrig im Sinne des § 340n Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer als Geschäftsleiter im Sinne des § 1
@@ -1349,10 +1396,12 @@ Konzernabschluß im Sinne des § 37.
 
 
 ## Abschnitt 8 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNG001001307)
 
 
 
 ### § 39 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE005113360)
 
 (1) Vor dem 1. Juli 1993 begründete Spareinlagen nach § 21 des
 Gesetzes über das Kreditwesen in der Fassung der Bekanntmachung vom
@@ -1416,12 +1465,14 @@ nach dem 31. Dezember 2015 beginnen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE005201307)
 
 (Inkrafttreten, Aufhebung von Rechtsvorschriften)
 
 \*Fe Jahresbilanz \*/ zum ..........................
 
 ### Formblatt 1 der .............................................
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE005310360)
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1998, 3672 - 3675;
@@ -1431,6 +1482,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 Gewinn- und Verlustrechnung
 
 ### Formblatt 2 der ................................................ für die Zeit vom ............... bis ...............
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE005409360)
 
 (Fundstelle: BGBl. I 1998, S. 3676 - 3678;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2538,6 +2590,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Gewinn- und Verlustrechnung
 
 ### Formblatt 3 der ................................................ für die Zeit vom ............... bis ...............
+[Direktlink](https://www.gesetze-im-internet.de/rechkredv/BJNR002030992.html#BJNR002030992BJNE005509360)
 
 (Fundstelle: BGBl. I 1998, S. 3679 - 3681;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

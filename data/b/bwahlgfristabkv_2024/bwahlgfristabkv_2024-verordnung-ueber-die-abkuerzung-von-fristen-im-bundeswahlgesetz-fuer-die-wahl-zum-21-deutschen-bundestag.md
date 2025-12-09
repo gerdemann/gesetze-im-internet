@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgfristabkv_2024/BJNR1B40A0024.html#BJNR1B40A0024BJNE000100000)
 
 Auf Grund des § 52 Absatz 3 des Bundeswahlgesetzes, der zuletzt durch
 Artikel 1 Nummer 3 des Gesetzes vom 7. März 2024 (BGBl. 2024 I Nr. 91)
@@ -26,6 +27,7 @@ für Heimat:
 
 
 ## § 1 Abkürzung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgfristabkv_2024/BJNR1B40A0024.html#BJNR1B40A0024BJNE000200000)
 
 Die in den nachstehend genannten Bestimmungen des Bundeswahlgesetzes
 in der Fassung der Bekanntmachung vom 23. Juli 1993 (BGBl. I S. 1288,
@@ -92,6 +94,7 @@ für die Wahl zum 21. Deutschen Bundestag wie folgt abgekürzt:
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgfristabkv_2024/BJNR1B40A0024.html#BJNR1B40A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

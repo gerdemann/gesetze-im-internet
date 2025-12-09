@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Art und Gegenstand der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000100000)
 
 (1) Ab dem Jahr 2017 wird eine Erhebung auf repräsentativer Grundlage
 über die Bevölkerungsstruktur sowie über die wirtschaftliche und
@@ -47,6 +48,7 @@ durchgeführt.
 
 
 ## § 2 Zweck der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000200000)
 
 (1) Der Zweck des Mikrozensus ist es, statistische Angaben in
 regionaler und tiefer fachlicher Gliederung bereitstellen zu können.
@@ -84,6 +86,7 @@ Datenlieferverpflichtungen, die sich ergeben aus
 
 
 ## § 3 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000300000)
 
 (1) Erhebungseinheiten sind meldepflichtige Personen sowie Haushalte
 und Wohnungen.
@@ -95,6 +98,7 @@ ausgewählten Wohnung einem Haushalt zugeordnet.
 
 
 ## § 4 Auswahl der Stichprobe, Grundstichprobe
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000400000)
 
 (1) Die Erhebungseinheiten werden auf der Grundlage von Flächen oder
 vergleichbaren Bezugsgrößen (Auswahlbezirke) ausgewählt. Die
@@ -107,6 +111,7 @@ bestimmt.
 
 
 ## § 5 Periodizität, Berichtswoche
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000500000)
 
 (1) In jedem Auswahlbezirk werden die Angaben zu den
 Erhebungsmerkmalen innerhalb von fünf aufeinanderfolgenden
@@ -144,6 +149,7 @@ Kalenderwochen erhoben:
 
 
 ## § 6 Kernprogramm der Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000600000)
 
 (1) In Haushalten werden jährlich Angaben zu folgenden
 Erhebungsmerkmalen erhoben:
@@ -582,6 +588,7 @@ erhoben:
 
 
 ## § 7 Erhebungsmerkmale in Bezug auf die Arbeitsmarktbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000701126)
 
 (1) Gemeinsam mit den Angaben zu § 6 werden, soweit in § 5 Absatz 3
 Nummer 2 nichts anderes bestimmt ist, jährlich die Angaben zu
@@ -872,6 +879,7 @@ nach § 6 zu Befragenden.
 
 
 ## § 8 Erhebungsmerkmale in Bezug auf Einkommen und Lebensbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000803126)
 
 (1) Ab dem Jahr 2020 werden jährlich gemeinsam mit den Angaben zum
 Kernprogramm nach § 6 bei Personen, die im Auswahlbezirk ihren
@@ -1201,6 +1209,7 @@ geltenden Fassung:
 
 
 ## § 9 Erhebungsmerkmale in Bezug auf Informations- und Kommunikationstechnologie
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE000900000)
 
 Ab dem Jahr 2021 werden jährlich gemeinsam mit den Angaben zum
 Kernprogramm nach § 6 bei Personen, die im Auswahlbezirk ihren
@@ -1213,6 +1222,7 @@ zu Befragenden zugrunde.
 
 
 ## § 10 Erhebungsmerkmale in Gemeinschaftsunterkünften
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001000000)
 
 (1) In Gemeinschaftsunterkünften werden abweichend von § 6 Angaben zu
 folgenden Erhebungsmerkmalen erhoben:
@@ -1252,6 +1262,7 @@ Personen dienen, soweit diese keinen eigenen Haushalt führen.
 
 
 ## § 11 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001100000)
 
 (1) Hilfsmerkmale sind:
 
@@ -1313,6 +1324,7 @@ Zuordnung der Erwerbstätigen zu Wirtschaftszweigen verwendet werden.
 
 
 ## § 12 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001200000)
 
 (1) Werden Erhebungsbeauftragte nach § 14 des Bundesstatistikgesetzes
 eingesetzt, dürfen sie die Angaben nach § 13 Absatz 6 Satz 1 selbst in
@@ -1326,6 +1338,7 @@ für ihre Tätigkeit eine steuerfreie Aufwandsentschädigung im Sinne des
 
 
 ## § 13 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001300000)
 
 (1) Für den Mikrozensus besteht Auskunftspflicht, soweit in Absatz 7
 nichts anderes bestimmt ist. Die Auskunftspflicht über Dritte
@@ -1390,6 +1403,7 @@ erhobenen Angaben nach § 14 Absatz 2.
 
 
 ## § 14 Trennung und Löschung von Angaben
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001400000)
 
 (1) Die Angaben zu den Hilfsmerkmalen nach § 11 sind von den Angaben
 zu den Erhebungsmerkmalen, unverzüglich nachdem die Überprüfung der
@@ -1430,6 +1444,7 @@ verwendet werden.
 
 
 ## § 15 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001500000)
 
 (1) Die nach Landesrecht für die Übermittlung von Meldedaten
 zuständigen Stellen übermitteln den statistischen Ämtern der Länder
@@ -1470,6 +1485,7 @@ nunmehr zuständigen statistischen Amt übermittelt.
 
 
 ## § 16 Zusatzaufbereitungen zur Erwerbsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001600000)
 
 Für Zusatzaufbereitungen zur Erwerbsbeteiligung übermitteln die
 statistischen Ämter der Länder jeweils monatlich die für den Vormonat
@@ -1479,6 +1495,7 @@ Angaben unverzüglich zusammen und veröffentlicht die Ergebnisse.
 
 
 ## § 17 Weitere Stichprobenerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001700000)
 
 Die Angaben zu den §§ 6 bis 10 dürfen zur Auswahl von
 Erhebungseinheiten für Bundesstatistiken nach § 7 des
@@ -1487,6 +1504,7 @@ mathematisch-statistischen Verfahren.
 
 
 ## § 18 Experimentierklausel
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001800000)
 
 (1) Zur Erprobung neuer Erhebungsverfahren ist es zulässig, bei bis zu
 2,5 Prozent der Grundstichprobe die Verfahren der ab 2020 geltenden
@@ -1499,6 +1517,7 @@ teilnehmen.
 
 
 ## § 19 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE001901311)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1519,6 +1538,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ## § 20 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mzg/BJNR282610016.html#BJNR282610016BJNE002000126)
 
 Die Erhebungen für die im Jahr 2022 liegenden Berichtswochen werden
 nach dem Mikrozensusgesetz vom 7. Dezember 2016 (BGBl. I S. 2826), das

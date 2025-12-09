@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000101307)
 
 
 
 ### § 1 Bundeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE001606126)
 
 (1) Der Bundeswahlleiter und sein Stellvertreter werden auf
 unbestimmte Zeit ernannt. Das Bundesministerium des Innern und für
@@ -42,6 +44,7 @@ Unionsbürgern in Deutschland.
 
 
 ### § 2 Landeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE001702377)
 
 Der Landeswahlleiter und sein Stellvertreter werden auf unbestimmte
 Zeit ernannt. Die ernennende Stelle teilt die Namen des
@@ -51,6 +54,7 @@ Bundeswahlleiter mit und macht sie öffentlich bekannt.
 
 
 ### § 3 Kreis- und Stadtwahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE001803160)
 
 (1) Die Kreis- und Stadtwahlleiter und deren Stellvertreter werden vor
 jeder Wahl ernannt. Spätestens hat die Ernennung alsbald nach der
@@ -65,6 +69,7 @@ aus.
 
 
 ### § 4 Bildung der Wahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE001902377)
 
 (1) Der Bundeswahlleiter, die Landeswahlleiter sowie die Kreis- und
 Stadtwahlleiter berufen alsbald nach der Bestimmung des Tages der
@@ -93,6 +98,7 @@ zum Ablauf der Wahlperiode, fort.
 
 
 ### § 5 Tätigkeit der Wahlausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002003377)
 
 (1) Die Wahlausschüsse sind ohne Rücksicht auf die Zahl der
 erschienenen Beisitzer beschlußfähig.
@@ -123,6 +129,7 @@ Schriftführer zu unterzeichnen.
 
 
 ### § 6 Wahlvorsteher und Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002104377)
 
 (1) Vor jeder Wahl sind, nach Möglichkeit aus den Wahlberechtigten der
 Gemeinde, für jeden Wahlbezirk ein Wahlvorsteher und sein
@@ -182,6 +189,7 @@ erforderlichen Hilfskräfte zur Verfügung.
 
 
 ### § 7 Briefwahlvorsteher und Briefwahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002204377)
 
 Für die Briefwahlvorsteher und Briefwahlvorstände gilt § 6
 entsprechend mit folgenden Maßgaben:
@@ -240,6 +248,7 @@ entsprechend mit folgenden Maßgaben:
 
 
 ### § 8 Beweglicher Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002302307)
 
 Für die Stimmabgabe in kleineren Krankenhäusern, kleineren Alten- oder
 Pflegeheimen, Klöstern, sozialtherapeutischen Anstalten und
@@ -253,6 +262,7 @@ beauftragen.
 
 
 ### § 9 Ehrenämter
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002404377)
 
 Die Übernahme eines Wahlehrenamtes können ablehnen
 
@@ -284,6 +294,7 @@ Die Übernahme eines Wahlehrenamtes können ablehnen
 
 
 ### § 10 Auslagenersatz für Inhaber von Wahlämtern, Erfrischungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002508377)
 
 (1) Wahlleiter, Beisitzer der Wahlausschüsse und Mitglieder der
 Wahlvorstände erhalten, wenn sie außerhalb ihres Wahlbezirks tätig
@@ -302,6 +313,7 @@ Es ist auf ein Tagegeld nach Absatz 1 anzurechnen.
 
 
 ### § 11 Geldbußen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002602160)
 
 Geldbußen nach § 4 des Europawahlgesetzes in Verbindung mit § 49a Abs.
 1 Nr. 1 des Bundeswahlgesetzes fließen in die Kasse der Gemeinde, in
@@ -311,14 +323,17 @@ des Bundeswahlgesetzes in die Kasse des Bundes.
 
 
 ## Zweiter Abschnitt - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000201307)
 
 
 
 ### Erster Unterabschnitt - Wahlbezirke
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000301307)
 
 
 
 #### § 12 Allgemeine Wahlbezirke
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002704160)
 
 (1) Gemeinden mit nicht mehr als 2.500 Einwohnern bilden in der Regel
 einen Wahlbezirk. Größere Gemeinden werden in mehrere Wahlbezirke
@@ -345,6 +360,7 @@ bestimmt er, welche Gemeinde die Wahl durchführt.
 
 
 #### § 13 Sonderwahlbezirke
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002801307)
 
 (1) Für Krankenhäuser, Altenheime, Altenwohnheime, Pflegeheime,
 Erholungsheime und gleichartige Einrichtungen mit einer größeren
@@ -360,10 +376,12 @@ zusammengefaßt werden.
 
 
 ### Zweiter Unterabschnitt - Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000401307)
 
 
 
 #### § 14 Führung des Wählerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE002902377)
 
 (1) Die Gemeindebehörde legt vor jeder Wahl für jeden allgemeinen
 Wahlbezirk (§ 12) ein Verzeichnis der Wahlberechtigten nach
@@ -387,6 +405,7 @@ ihren Teil des Wahlbezirks an.
 
 
 #### § 15 Eintragung der wahlberechtigten Deutschen in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003009377)
 
 (1) Von Amts wegen sind in das Wählerverzeichnis alle Wahlberechtigten
 einzutragen, die am 42. Tage vor der Wahl (Stichtag) bei der
@@ -520,6 +539,7 @@ die sich in den Einrichtungen aufhaltenden Personen nicht besteht.
 
 
 #### § 16 Zuständigkeiten für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003103377)
 
 (1) Zuständig für die Eintragung in das Wählerverzeichnis ist in den
 Fällen des
@@ -598,6 +618,7 @@ Fällen des
 
 
 #### § 17 Verfahren für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003207377)
 
 (1) Der Antrag auf Eintragung in das Wählerverzeichnis ist schriftlich
 bis spätestens zum 21. Tage vor der Wahl bei der zuständigen
@@ -711,6 +732,7 @@ Absatz 5 Satz 5 und 6 gilt entsprechend.
 
 
 #### § 17a Eintragung der wahlberechtigten Unionsbürger, Zuständigkeiten und Verfahren für die Eintragung in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013510377)
 
 (1) Nach § 6 Abs. 3 des Europawahlgesetzes wahlberechtigte
 Unionsbürger sind auf Antrag in das Wählerverzeichnis einzutragen,
@@ -859,6 +881,7 @@ entsprechend.
 
 
 #### § 17b Eintragung von wahlberechtigten Unionsbürgern in das Wählerverzeichnis von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014505377)
 
 (1) Ist ein wahlberechtigter Unionsbürger auf seinen Antrag hin bei
 der Wahl vom 13. Juni 1999 oder einer späteren Wahl zum Europäischen
@@ -888,6 +911,7 @@ gelten entsprechend.
 
 
 #### § 18 Benachrichtigung der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003305377)
 
 (1) Spätestens am Tage vor der Bereithaltung des Wählerverzeichnisses
 zur Einsichtnahme benachrichtigt die Gemeindebehörde jeden
@@ -979,6 +1003,7 @@ bekannt.
 
 
 #### § 19 Bekanntmachung über das Recht auf Einsicht in das Wählerverzeichnis, über die Erteilung von Wahlscheinen und über die Bedingungen und Einzelheiten für die Ausübung des Wahlrechts von Unionsbürgern
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003405377)
 
 (1) Die Gemeindebehörde macht spätestens am 24. Tage vor der Wahl nach
 dem Muster der Anlage 5 öffentlich bekannt,
@@ -1062,6 +1087,7 @@ Tageszeitung vorzunehmen.
 
 
 #### § 20 Einsicht in das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003503377)
 
 (1) Die Gemeindebehörde hält das Wählerverzeichnis mindestens am Ort
 der Gemeindeverwaltung während der allgemeinen Öffnungszeiten zur
@@ -1081,6 +1107,7 @@ unbeteiligten Dritten nicht zugänglich gemacht werden.
 
 
 #### § 21 Einspruch gegen das Wählerverzeichnis und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003605377)
 
 (1) Wer das Wählerverzeichnis für unrichtig oder unvollständig hält,
 kann innerhalb der Einsichtsfrist Einspruch einlegen.
@@ -1122,6 +1149,7 @@ gilt entsprechend.
 
 
 #### § 22 Berichtigung des Wählerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003704377)
 
 (1) Nach Beginn der Einsichtsfrist ist die Eintragung oder Streichung
 von Personen sowie die Vornahme sonstiger Änderungen im
@@ -1150,6 +1178,7 @@ Berichtigungen nicht mehr vorgenommen werden.
 
 
 #### § 23 Abschluß des Wählerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003801307)
 
 (1) Das Wählerverzeichnis ist spätestens am Tage vor der Wahl, jedoch
 nicht früher als am dritten Tage vor der Wahl, durch die
@@ -1166,10 +1195,12 @@ Wahlbezirks verbunden und abgeschlossen.
 
 
 ### Dritter Unterabschnitt - Wahlscheine
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000501307)
 
 
 
 #### § 24 Voraussetzungen für die Erteilung von Wahlscheinen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE003904160)
 
 (1) Ein Wahlberechtigter, der in das Wählerverzeichnis eingetragen
 ist, erhält auf Antrag einen Wahlschein.
@@ -1195,6 +1226,7 @@ eingetragen ist, erhält auf Antrag einen Wahlschein,
 
 
 #### § 25 Zuständige Behörde, Form des Wahlscheines
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004001307)
 
 Der Wahlschein wird nach dem Muster der Anlage 8 von der
 Gemeindebehörde erteilt, in deren Wählerverzeichnis der
@@ -1202,6 +1234,7 @@ Wahlberechtigte eingetragen ist oder hätte eingetragen werden müssen.
 
 
 #### § 26 Wahlscheinanträge
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004107377)
 
 (1) Die Erteilung eines Wahlscheines kann schriftlich oder mündlich
 bei der Gemeindebehörde beantragt werden. Die Schriftform gilt auch
@@ -1238,6 +1271,7 @@ aufzubewahren.
 
 
 #### § 27 Erteilung von Wahlscheinen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004206377)
 
 (1) Wahlscheine dürfen nicht vor Zulassung der Wahlvorschläge durch
 den Bundeswahlausschuss nach § 14 Absatz 1 und 4 des
@@ -1356,6 +1390,7 @@ gelten entsprechend.
 
 
 #### § 28 Erteilung von Wahlscheinen an bestimmte Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004302160)
 
 (1) Die Gemeindebehörde fordert spätestens am achten Tage vor der Wahl
 von den Leitungen
@@ -1406,6 +1441,7 @@ wahlberechtigten Soldaten entsprechend Absatz 2 zu verständigen.
 
 
 #### § 29 Vermerk im Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004401307)
 
 Hat ein Wahlberechtigter einen Wahlschein erhalten, so wird im
 Wählerverzeichnis in der Spalte für den Vermerk über die Stimmabgabe
@@ -1413,6 +1449,7 @@ Wählerverzeichnis in der Spalte für den Vermerk über die Stimmabgabe
 
 
 #### § 30 Einspruch gegen die Versagung des Wahlscheines und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004501307)
 
 Wird die Erteilung eines Wahlscheines versagt, so kann dagegen
 Einspruch eingelegt werden. § 21 Abs. 2, 4 und 5 gilt entsprechend.
@@ -1422,10 +1459,12 @@ Einspruch vor dem zwölften Tage vor der Wahl eingelegt worden ist.
 
 
 ### Vierter Unterabschnitt - Wahlvorschläge, Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000601307)
 
 
 
 #### § 31 Aufforderung zur Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004603377)
 
 (1) Nachdem der Wahltag bestimmt ist, fordern die Landeswahlleiter
 durch öffentliche Bekanntmachung zur möglichst frühzeitigen
@@ -1446,6 +1485,7 @@ Abs. 3 des Europawahlgesetzes).
 
 
 #### § 32 Inhalt und Form der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004712126)
 
 (1) Die Wahlvorschläge sollen nach den Mustern der Anlagen 12 und 13
 in zwei Ausfertigungen eingereicht werden. Sie müssen enthalten:
@@ -1629,6 +1669,7 @@ unmittelbar unter Vorlage der erforderlichen Nachweise zu beantragen.
 
 
 #### § 33 Vorprüfung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004805377)
 
 (1) Der Bundeswahlleiter vermerkt auf jedem Wahlvorschlag den Tag und
 bei Eingang am letzten Tag der Einreichungsfrist außerdem die Uhrzeit
@@ -1675,6 +1716,7 @@ zur Äußerung zu geben.
 
 
 #### § 34 Zulassung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE004902377)
 
 (1) Der Bundeswahlleiter lädt die Vertrauenspersonen der
 Wahlvorschläge zu der Sitzung, in der über die Zulassung der
@@ -1725,6 +1767,7 @@ Absatz 5 erforderlichen Hinweisen.
 
 
 #### § 35 Beschwerde gegen Entscheidungen des Bundeswahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005005377)
 
 (1) Die Beschwerde gegen eine Entscheidung des Bundeswahlausschusses
 nach § 14 Absatz 4 des Europawahlgesetzes ist schriftlich oder zur
@@ -1744,6 +1787,7 @@ bekannt.
 
 
 #### § 36 Ausschluß von der Verbindung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005102160)
 
 (1) Die Erklärung darüber, daß ein oder mehrere Wahlvorschläge
 desselben Wahlvorschlagsberechtigten von der Listenverbindung
@@ -1772,6 +1816,7 @@ jeweiligen Wahlvorschlages mit.
 
 
 #### § 37 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005208377)
 
 (1) Der Bundeswahlleiter macht die vom Bundeswahlausschuss
 zugelassenen Wahlvorschläge öffentlich bekannt und weist darauf hin,
@@ -1799,6 +1844,7 @@ teilt die Reihenfolge dem Bundeswahlleiter sofort mit.
 
 
 #### § 38 Stimmzettel, Umschläge für die Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005308377)
 
 (1) Der Stimmzettel ist mindestens 21 x 29,7 cm (DIN A4) groß und aus
 weißem oder weißlichem Papier. Das Papier muss so beschaffen sein,
@@ -1852,10 +1898,12 @@ Stimmzettelumschläge für die Briefwahl.
 
 
 ### Fünfter Unterabschnitt - Wahlräume, Wahlzeit
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000701307)
 
 
 
 #### § 39 Wahlräume
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005405377)
 
 (1) Die Gemeindebehörde bestimmt für jeden Wahlbezirk einen Wahlraum.
 Soweit möglich, stellen die Gemeinden Wahlräume in Gemeindegebäuden
@@ -1877,6 +1925,7 @@ sorgt.
 
 
 #### § 40 Wahlzeit
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005502377)
 
 (1) Die Wahl dauert von 8.00 bis 18.00 Uhr.
 
@@ -1885,6 +1934,7 @@ erfordern, die Wahlzeit mit einem früheren Beginn festsetzen.
 
 
 #### § 41 Wahlbekanntmachung der Gemeindebehörde
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005604377)
 
 (1) Die Gemeindebehörde macht spätestens am sechsten Tage vor der Wahl
 nach dem Muster der Anlage 23 Beginn und Ende der Wahlzeit sowie die
@@ -1944,14 +1994,17 @@ Dem Auszug ist ein Stimmzettel als Muster beizufügen.
 
 
 ## Dritter Abschnitt - Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000801307)
 
 
 
 ### Erster Unterabschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG000901307)
 
 
 
 #### § 42 Ausstattung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005703377)
 
 Die Gemeindebehörde übergibt dem Wahlvorsteher eines jeden Wahlbezirks
 vor Beginn der Wahlhandlung
@@ -1993,6 +2046,7 @@ vor Beginn der Wahlhandlung
 
 
 #### § 43 Wahlkabinen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005803377)
 
 (1) In jedem Wahlraum richtet die Gemeindebehörde eine Wahlkabine oder
 mehrere Wahlkabinen mit Tischen ein, in denen der Wähler seinen
@@ -2006,6 +2060,7 @@ dienen, wenn dessen Eingang vom Tisch des Wahlvorstandes aus
 
 
 #### § 44 Wahlurnen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE005901307)
 
 (1) Die Gemeindebehörde sorgt für die erforderlichen Wahlurnen.
 
@@ -2020,12 +2075,14 @@ beweglichen Wahlvorstand können kleinere Wahlurnen verwendet werden.
 
 
 #### § 45 Wahltisch
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006001307)
 
 Der Tisch, an dem der Wahlvorstand Platz nimmt, muß von allen Seiten
 zugänglich sein. An oder auf diesen Tisch wird die Wahlurne gestellt.
 
 
 #### § 46 Eröffnung der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006103160)
 
 (1) Der Wahlvorsteher eröffnet die Wahlhandlung damit, daß er die
 anwesenden Beisitzer auf ihre Verpflichtung zur unparteiischen
@@ -2051,6 +2108,7 @@ Sie darf bis zum Schluß der Wahlhandlung nicht mehr geöffnet werden.
 
 
 #### § 47 Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006201307)
 
 Während der Wahlhandlung sowie der Ermittlung und Feststellung des
 Wahlergebnisses hat jedermann zum Wahlraum Zutritt, soweit das ohne
@@ -2058,12 +2116,14 @@ Störung des Wahlgeschäfts möglich ist.
 
 
 #### § 48 Ordnung im Wahlraum
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006301307)
 
 Der Wahlvorstand sorgt für Ruhe und Ordnung im Wahlraum. Er ordnet bei
 Andrang den Zutritt zum Wahlraum.
 
 
 #### § 49 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006406377)
 
 (1) Wenn der Wähler den Wahlraum betritt, erhält er einen amtlichen
 Stimmzettel. Der Wahlvorstand kann anordnen, dass er hierzu seine
@@ -2155,6 +2215,7 @@ Mitglieds des Wahlvorstandes vernichtet hat.
 
 
 #### § 50 Stimmabgabe von Wählern mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006506377)
 
 (1) Ein Wähler, der des Lesens unkundig ist oder wegen einer
 Behinderung gehindert ist, den Stimmzettel zu kennzeichnen, zu falten
@@ -2180,11 +2241,13 @@ des Stimmzettels auch einer Stimmzettelschablone bedienen.
 
 
 #### § 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006602160)
 
 -
 
 
 #### § 52 Stimmabgabe von Inhabern eines Wahlscheines
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006701307)
 
 Der Inhaber eines Wahlscheines nennt seinen Namen, weist sich aus und
 übergibt den Wahlschein dem Wahlvorsteher. Dieser prüft den
@@ -2197,6 +2260,7 @@ ein.
 
 
 #### § 53 Schluss der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006802377)
 
 Ist die Wahlzeit (§ 40) abgelaufen, wird dies vom Wahlvorsteher
 bekanntgegeben. Von da ab sind nur noch die Wahlberechtigten zur
@@ -2209,10 +2273,12 @@ Wahlvorsteher die Wahlhandlung für geschlossen.
 
 
 ### Zweiter Unterabschnitt - Besondere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG001001307)
 
 
 
 #### § 54 Wahl in Sonderwahlbezirken
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE006902377)
 
 (1) Zur Stimmabgabe in Sonderwahlbezirken (§ 13) wird jeder in der
 Einrichtung anwesende Wahlberechtigte zugelassen, der einen für den
@@ -2269,6 +2335,7 @@ allgemeinen Wahlzeit ermittelt werden.
 
 
 #### § 55 Stimmabgabe in kleineren Krankenhäusern und kleineren Alten- oder Pflegeheimen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007002377)
 
 (1) Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit
 möglich im Benehmen mit der Leitung eines kleineren Krankenhauses oder
@@ -2305,6 +2372,7 @@ allgemeinen Bestimmungen.
 
 
 #### § 56 Stimmabgabe in Klöstern
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007101307)
 
 Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit
 möglich im Benehmen mit der Leitung eines Klosters die Stimmabgabe im
@@ -2312,6 +2380,7 @@ Kloster entsprechend § 55 regeln.
 
 
 #### § 57 Stimmabgabe in sozialtherapeutischen Anstalten und Justizvollzugsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007201307)
 
 (1) In sozialtherapeutischen Anstalten und Justizvollzugsanstalten
 soll die Gemeindebehörde bei entsprechendem Bedürfnis und soweit
@@ -2332,11 +2401,13 @@ gelten die allgemeinen Bestimmungen.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007302307)
 
 (weggefallen)
 
 
 #### § 59 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007404377)
 
 (1) Wer durch Briefwahl wählt, kennzeichnet persönlich den
 Stimmzettel, legt ihn in den amtlichen Stimmzettelumschlag und
@@ -2382,10 +2453,12 @@ des Absatzes 4 hin.
 
 
 ## Vierter Abschnitt - Ermittlung und Feststellung der Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG001101307)
 
 
 
 ### § 60 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007502377)
 
 Im Anschluß an die Wahlhandlung ermittelt der Wahlvorstand
 vorbehaltlich § 61 Absatz 2 ohne Unterbrechung das Wahlergebnis im
@@ -2408,6 +2481,7 @@ Wahlbezirk. Er stellt fest
 
 
 ### § 61 Zählung der Wähler
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007603377)
 
 (1) Vor dem Öffnen der Wahlurne werden alle nicht benutzten
 Stimmzettel vom Wahltisch entfernt. Zunächst werden die Zahl der
@@ -2440,6 +2514,7 @@ aufnehmenden Wahlvorstands zu vermerken.
 
 
 ### § 62 Zählung der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007703377)
 
 (1) Nachdem die Stimmzettel sowie die Stimmabgabevermerke und die
 Wahlscheine gezählt worden sind, bilden mehrere Beisitzer unter
@@ -2517,6 +2592,7 @@ je für sich und behalten sie unter Aufsicht.
 
 
 ### § 63 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007801307)
 
 Im Anschluß an die Feststellungen nach § 60 gibt der Wahlvorsteher das
 Wahlergebnis im Wahlbezirk mit den in dieser Vorschrift bezeichneten
@@ -2527,6 +2603,7 @@ mitgeteilt werden.
 
 
 ### § 64 Schnellmeldungen, vorläufige Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE007904377)
 
 (1) Sobald das Wahlergebnis im Wahlbezirk festgestellt ist, meldet es
 der Wahlvorsteher dem Kreis- oder Stadtwahlleiter. Ist eine
@@ -2588,6 +2665,7 @@ Kreis- oder Stadtwahlleiters nach Absatz 3 Satz 3 vorliegt.
 
 
 ### § 65 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008003377)
 
 (1) Über die Wahlhandlung sowie die Ermittlung und Feststellung des
 Wahlergebnisses ist vom Schriftführer eine Niederschrift nach dem
@@ -2620,6 +2698,7 @@ Unbefugten nicht zugänglich sind.
 
 
 ### § 66 Übergabe und Verwahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008102377)
 
 (1) Hat der Wahlvorstand seine Aufgabe erledigt, so verpackt der
 Wahlvorsteher je für sich
@@ -2659,6 +2738,7 @@ ist.
 
 
 ### § 67 Behandlung der Wahlbriefe, Vorbereitung der Ermittlung und Feststellung des Briefwahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008203377)
 
 (1) Die für den Eingang der Wahlbriefe zuständige Stelle (§ 59 Abs. 2)
 sammelt die Wahlbriefe ungeöffnet und hält sie unter Verschluß. Sie
@@ -2694,6 +2774,7 @@ schnellstem Wege nach Schluß der Wahlzeit zuzuleiten.
 
 
 ### § 68 Zulassung der Wahlbriefe, Ermittlung und Feststellung des Briefwahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008305160)
 
 (1) Ein vom Briefwahlvorsteher bestimmtes Mitglied des
 Briefwahlvorstandes öffnet die Wahlbriefe nacheinander und entnimmt
@@ -2814,6 +2895,7 @@ Verhältnisse im Einzelfall treffen.
 
 
 ### § 69 Ermittlung und Feststellung der Wahlergebnisse im Kreis oder in der kreisfreien Stadt
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008403160)
 
 (1) Der Kreis- oder Stadtwahlleiter prüft die Wahlniederschriften der
 Wahlvorstände auf Vollständigkeit und Ordnungsmäßigkeit. Er stellt
@@ -2867,6 +2949,7 @@ dazugehörigen Zusammenstellung.
 
 
 ### § 70 Ermittlung und Feststellung des Wahlergebnisses im Land
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008501307)
 
 (1) Der Landeswahlleiter prüft die Wahlniederschriften der Kreis- und
 Stadtwahlausschüsse und stellt danach die endgültigen Wahlergebnisse
@@ -2910,6 +2993,7 @@ Landes (Absatz 1).
 
 
 ### § 71 Abschließende Ermittlung und Feststellung des Ergebnisses der Wahl im Wahlgebiet
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008605377)
 
 (1) Der Bundeswahlleiter prüft die Wahlniederschriften der
 Landeswahlausschüsse. Er ermittelt nach den Niederschriften der
@@ -2993,6 +3077,7 @@ Bewerber gewählt sind.
 
 
 ### § 72 Bekanntmachung der endgültigen Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008704377)
 
 (1) Sobald die Feststellungen aller Wahlausschüsse abgeschlossen sind,
 machen
@@ -3016,6 +3101,7 @@ seiner Bekanntmachung dem Bundeswahlleiter.
 
 
 ### § 73 Benachrichtigung der gewählten Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008802160)
 
 (1) Der Bundeswahlleiter benachrichtigt die vom Bundeswahlausschuss
 für gewählt erklärten Bewerber nach der mündlichen Bekanntgabe des
@@ -3040,6 +3126,7 @@ Benachrichtigungen zugestellt worden sind.
 
 
 ### § 74 Überprüfung der Wahl durch die Landeswahlleiter und den Bundeswahlleiter
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE008903160)
 
 (1) Die Landeswahlleiter und der Bundeswahlleiter prüfen, ob die Wahl
 nach den Vorschriften des Europawahlgesetzes, dieser Verordnung und
@@ -3057,10 +3144,12 @@ ihnen vorhandenen Wahlunterlagen übersenden.
 
 
 ## Fünfter Abschnitt - Nachwahl, Wiederholungswahl, Berufung von Listennachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG001201307)
 
 
 
 ### § 75 Nachwahl
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009001307)
 
 (1) Sobald feststeht, daß die Wahl infolge höherer Gewalt oder aus
 sonstigem Grunde nicht durchgeführt werden kann, sagt der Kreis- oder
@@ -3086,6 +3175,7 @@ bekannt.
 
 
 ### § 76 Wiederholungswahl
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009102377)
 
 (1) Das Wahlverfahren ist nur insoweit zu erneuern, als das nach der
 Entscheidung im Wahlprüfungsverfahren erforderlich ist.
@@ -3129,6 +3219,7 @@ Verhältnisse treffen.
 
 
 ### § 77 Berufung von Listennachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009207377)
 
 (1) Liegen die Voraussetzungen für eine Listennachfolge vor, so
 benachrichtigt der Bundeswahlleiter den nächsten Listenbewerber
@@ -3167,10 +3258,12 @@ widerrufen werden.
 
 
 ## Sechster Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNG001301307)
 
 
 
 ### § 78 Datenschutzrechtliche Spezialregelungen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009303377)
 
 (1) Das Recht auf Auskunft über die im Wählerverzeichnis enthaltenen
 personenbezogenen Daten nach Artikel 15 Absatz 1 und das Recht auf
@@ -3205,6 +3298,7 @@ nach § 19.
 
 
 ### § 78a Prüfung der Wählbarkeit deutscher Bewerber in anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013603377)
 
 (1) Wird dem Bundeswahlleiter von einem anderen Mitgliedstaat der
 Europäischen Union mitgeteilt, dass sich ein deutscher
@@ -3234,6 +3328,7 @@ genannten Frist vorliegen.
 
 
 ### § 79 Öffentliche Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009407126)
 
 (1) Die nach dem Europawahlgesetz und dieser Verordnung
 vorgeschriebenen öffentlichen Bekanntmachungen erfolgen durch das
@@ -3263,6 +3358,7 @@ Wahlperiode zu löschen.
 
 
 ### § 80 Zustellungen, Versicherungen an Eides Statt
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009503377)
 
 (1) Für Zustellungen gilt das Verwaltungszustellungsgesetz des Bundes
 in der jeweils geltenden Fassung.
@@ -3274,6 +3370,7 @@ Gemeindebehörde zuständig.
 
 
 ### § 81 Beschaffung von Stimmzetteln und Vordrucken
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009612377)
 
 (1) Der Kreis- oder Stadtwahlleiter beschafft
 
@@ -3432,6 +3529,7 @@ Kreis- oder Stadtwahlleiter die Lieferung übernimmt.
 
 
 ### § 82 Sicherung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009701307)
 
 (1) Die Wählerverzeichnisse, die Wahlscheinverzeichnisse, die
 Verzeichnisse nach § 27 Abs. 8 Satz 2 und § 28 Abs. 1, die Formblätter
@@ -3457,6 +3555,7 @@ Wahlstraftat erforderlich ist.
 
 
 ### § 83 Vernichtung von Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009803377)
 
 (1) Die eingenommenen Wahlbenachrichtigungen sind unverzüglich zu
 vernichten.
@@ -3479,11 +3578,13 @@ Bedeutung sein können.
 
 
 ### § 84
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE009902311)
 
 (weggefallen)
 
 
 ### § 85 Stadtstaatklausel
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010002377)
 
 In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche
 Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser
@@ -3493,6 +3594,7 @@ Zuständigkeit.
 
 
 ### § 86 Nachweis des Nichtausschlusses von der Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010107126)
 
 Zum Nachweis des Nichtausschlusses von der Wählbarkeit haben nach § 6
 Absatz 3 des Europawahlgesetzes wahlberechtigte Unionsbürger sowie
@@ -3508,6 +3610,7 @@ Bundesministerium des Innern und für Heimat zu übersenden.
 
 
 ### § 87 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013708377)
 
 (1) Anträge von Unionsbürgern gemäß § 17a, die zur Eintragung in das
 Wählerverzeichnis geführt haben, dürfen entgegen § 83 nicht vernichtet
@@ -3531,11 +3634,13 @@ Europäischen Union erfolgen.
 
 
 ### § 88
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010202307)
 
 (Inkrafttreten, Außerkrafttreten)
 
 
 ### Anlage 1 (zu § 17 Absatz 6)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010405377)
 
 (Fundstelle: BGBl. I 2018, 575 - 579;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4635,6 +4740,7 @@ Merkblatt zu dem Antrag auf Eintragung in das Wählerverzeichnis
 [^f802772_06_BJNR014530988BJNE010405377]: 
 
 ### Anlage 2 (zu § 17 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010510377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2258 - 2563;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5913,6 +6019,7 @@ eine Wohnung **gemeldet** sind, dürfen den Antrag **nicht** stellen.
 (zu § 17a Absatz 2)
 
 ### Anlage 2A Antrag auf Eintragung in das Wählerverzeichnis für Unionsbürger
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013809377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2564 - 2566;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6886,6 +6993,7 @@ ausgefüllt werden.
 [^f802772_08_BJNR014530988BJNE013809377]: 
 
 ### Anlage 2B (zu § 17a Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014405126)
 
 (Fundstelle: BGBl. 2023 I Nr. 215, S. 3 – 6)
 
@@ -6895,6 +7003,7 @@ ausgefüllt werden.
 ![bgbl1_2023_j02150_0040.jpg](bgbl1_2023_j02150_0040.jpg)
 
 ### Anlage 2C (zu § 17b Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014602377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2571 - 2573;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7691,6 +7800,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 18 Absatz 1)
 
 ### Anlage 3 Wahlbenachrichtigung
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010609377)
 
 (Fundstelle: BGBl. I 2018, 586;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7892,6 +8002,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^f802772_15_BJNR014530988BJNE010609377]: 
 
 ### Anlage 4 (zu § 18 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010707377)
 
 (Fundstelle: BGBl. I 2018, 587;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8118,6 +8229,7 @@ Rückseite der Wahlbenachrichtigung
 [^f802772_19_BJNR014530988BJNE010707377]: 
 
 ### Anlage 5 (zu § 19 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010813377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2577 - 2578;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8769,6 +8881,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE010806160_04_BJNR014530988BJNE010813377]: 
 
 ### Anlage 6 (zu § 19 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE010907377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2579;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8981,6 +9094,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 19 Absatz 3)
 
 ### Anlage 6A Bekanntmachung für Staatsangehörige der übrigen Mitgliedstaaten der Europäischen Union (Unionsbürger) zur Wahl zum Europäischen Parlament in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013906377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2580;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9089,6 +9203,7 @@ Wahlteilnahme.
 
 
 ### Anlage 7 (zu § 23 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011004377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2581)
 
@@ -9554,6 +9669,7 @@ Wahlteilnahme.
 [^BJNR014530988BJNE011004377_03]: 
 
 ### Anlage 8 (zu § 25)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011107377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2582;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9985,6 +10101,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE011106377_04_BJNR014530988BJNE011107377]: 
 
 ### Anlage 9 (zu § 27 Abs. 3 und § 38 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011204377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2583;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10029,6 +10146,7 @@ Vorderseite des Stimmzettelumschlags für die Briefwahl
 [^BJNR014530988BJNE011203160_01_BJNR014530988BJNE011204377]: 
 
 ### Anlage 10 (zu § 27 Absatz 3 und § 38 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011308377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2584;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10443,6 +10561,7 @@ hellrot (maschinenlesbar)
 
 
 ### Anlage 11 (zu § 27 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011409377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2585 - 2586;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10684,6 +10803,7 @@ und in den Stimmzettelumschlag zu legen ist!
 [^F826154_02_BJNR014530988BJNE011409377]: 
 
 ### Anlage 12 (zu § 32 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011506377)
 
 (Fundstelle: BGBl. I 2003, 2587 - 2588
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11451,6 +11571,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE011505377_06_BJNR014530988BJNE011506377]: 
 
 ### Anlage 13 (zu § 32 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011606377)
 
 (Fundstelle: BGBl. I 2003, 2589 - 2590;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12204,6 +12325,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE011605377_05_BJNR014530988BJNE011606377]: 
 
 ### Anlage 14 (zu § 32 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011705377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2591 - 2592
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12920,6 +13042,7 @@ _\_\__\_\__\_\__\_\__\_\_
 [^BJNR014530988BJNE011705377_11]: 
 
 ### Anlage 14A (zu § 32 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014005377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2593;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13245,6 +13368,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE014003160_01_BJNR014530988BJNE014005377]: 
 
 ### Anlage 15 (zu § 32 Absatz 4 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011807377)
 
 (Fundstelle: BGBl. I 2003, 2594;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13559,6 +13683,7 @@ Daten gilt:
 [^BJNR014530988BJNE011807377_05]: 
 
 ### Anlage 16 (zu § 32 Absatz 4 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE011906377)
 
 (Fundstelle: BGBl. I 2003, 2595;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13833,6 +13958,7 @@ personenbezogenen Daten gilt:
 [^BJNR014530988BJNE011906377_01]: 
 
 ### Anlage 16A (zu § 32 Absatz 4 Nummer 2a)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014105377)
 
 (Fundstelle: BGBl. I 2018, 591 - 592)
 
@@ -14068,6 +14194,7 @@ personenbezogenen Daten gilt:
 [^f802772_26_BJNR014530988BJNE014105377]: 
 
 ### Anlage 16B (zu § 32 Absatz 4 Nummer 2b)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014205377)
 
 (Fundstelle: BGBl. I 2003, 2597 - 2599;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14976,10 +15103,12 @@ _\_\__\_\__\_\__\_\__\_\_
 [^BJNR014530988BJNE014205377_06]: 
 
 ### Anlage 16C (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE014303377)
 
 
 
 ### Anlage 17 (zu § 32 Abs. 4 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012005377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2601 - 2603;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16075,6 +16204,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE012004377_05_BJNR014530988BJNE012005377]: 
 
 ### Anlage 18 (zu § 32 Abs. 4 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012105377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2604 - 2606;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -17163,6 +17293,7 @@ usw.
 [^BJNR014530988BJNE012104377_05_BJNR014530988BJNE012105377]: 
 
 ### Anlage 19 (zu § 32 Abs. 4 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012206377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2607;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -17526,6 +17657,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 20 (zu § 34 Abs. 6 und 8)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012304377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2608 - 2610;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -19080,6 +19212,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 21 (zu § 36 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012405377)
 
    (Fundstelle des Originaltextes: BGBl. I 2003, 2611;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -19369,6 +19502,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 22 (zu § 27 Abs. 3 und § 38 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012504377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2612;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -19796,6 +19930,7 @@ TH = Thüringen
 [^BJNR014530988BJNE012504377_01]: 
 
 ### Anlage 23 (zu § 41 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012608377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2613 - 2614;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -20460,6 +20595,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE012607377_05_BJNR014530988BJNE012608377]: 
 
 ### Anlage 24 (zu § 64 Abs. 7 und § 68 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012702377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2615)
 
@@ -20902,6 +21038,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE012702377_03]: 
 
 ### Anlage 25 (zu § 65 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012808377)
 
 (Fundstelle: BGBl. 2023 I Nr. 119, S. 9 - 21)
 
@@ -23241,12 +23378,14 @@ am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 § 71 Abs. 1)
 
 ### Anlage 26 Zusammenstellung der endgültigen Ergebnisse der Wahl zum Europäischen Parlament
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE012902377)
 
 (Inhalt: nicht darstellbare Tabelle über Wahlergebnisse,
 Fundstelle: BGBl. I 2003, 2622)
 
 
 ### Anlage 27 (zu § 68 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013008377)
 
 (Fundstelle: BGBl. 2023 I Nr. 119, S. 22 - 33)
 
@@ -25222,6 +25361,7 @@ am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [^F826154_04_BJNR014530988BJNE013008377]: 
 
 ### Anlage 28 (zu § 69 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013104377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2629 - 2631;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -27021,6 +27161,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE013103377_03_BJNR014530988BJNE013104377]: 
 
 ### Anlage 29 (zu § 70 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013205377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2632 - 2633;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -28216,6 +28357,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE013204377_04_BJNR014530988BJNE013205377]: 
 
 ### Anlage 30 (zu § 71 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013305377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 2634 - 2636;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -29802,6 +29944,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^BJNR014530988BJNE013305377_03]: 
 
 ### Anlage 31
+[Direktlink](https://www.gesetze-im-internet.de/euwo_1988/BJNR014530988.html#BJNR014530988BJNE013403311)
 
 (weggefallen)
 

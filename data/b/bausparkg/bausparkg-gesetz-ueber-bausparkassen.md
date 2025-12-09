@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000104118)
 
 (1) Bausparkassen sind Kreditinstitute, deren Geschäftsbetrieb darauf
 gerichtet ist, Einlagen von Bausparern (Bauspareinlagen)
@@ -112,6 +113,7 @@ Aufgaben zu übertragen, bleibt unberührt.
 
 
 ## § 2 Zulassung zum Geschäftsbetrieb; Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000202118)
 
 (1) Wer das Bauspargeschäft betreiben will, bedarf der schriftlichen
 oder elektronischen Erlaubnis der Aufsichtsbehörde. Zusätzlich zu den
@@ -206,6 +208,7 @@ Kreditwesengesetzes bleiben jeweils unberührt.
 
 
 ## § 2a Unwirksamkeit von Verträgen oder Absprachen mit beherrschender Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE002500118)
 
 Verträge und Absprachen, durch die die Leitung einer Bausparkasse ganz
 oder teilweise einer anderen Person unterstellt wird, sind unwirksam,
@@ -214,6 +217,7 @@ handelt.
 
 
 ## § 3 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000306118)
 
 (1) Die Aufsichtsbehörde übt die Aufsicht über die Bausparkassen nach
 den Vorschriften dieses Gesetzes, des Kreditwesengesetzes und der in §
@@ -281,6 +285,7 @@ Erfüllung der Aufgaben der Bundesanstalt erforderlich ist.
 
 
 ## § 4 Zulässige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000412118)
 
 (1) Bausparkassen dürfen außer dem Bauspargeschäft nur folgende
 Geschäfte betreiben:
@@ -507,6 +512,7 @@ auszuzahlen.
 
 
 ## § 5 Allgemeine Geschäftsgrundsätze, Allgemeine Bedingungen für Bausparverträge
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000504118)
 
 (1) Bausparkassen haben ihrem Geschäftsbetrieb Allgemeine
 Geschäftsgrundsätze und Allgemeine Bedingungen für Bausparverträge
@@ -625,6 +631,7 @@ begründeten Ausnahmefällen abgewichen werden.
 
 
 ## § 6 Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000603118)
 
 (1) Die Zuteilungsmasse im Sinne des § 1 Absatz 6 darf nur für das
 Bauspargeschäft und zur Rückzahlung fremder Gelder, die der
@@ -702,6 +709,7 @@ Nummer 5 Buchstabe c bleibt hiervon unberührt.
 
 
 ## § 6a Vorgaben für Zuteilungsmassen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE002403118)
 
 (1) Grundsätzlich darf eine Bausparkasse nur eine einheitliche
 Zuteilungsmasse für alle Bausparverträge bilden. Ausnahmen sind nur
@@ -717,6 +725,7 @@ Bausparer nicht erheblich beeinträchtigt werden.
 
 
 ## § 7 Sicherung der Forderungen aus Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000706118)
 
 (1) Forderungen aus Bauspardarlehen und aus Darlehen nach § 4 Abs. 1
 Nr. 2 sowie Forderungen aus Darlehen nach § 4 Abs. 1 Nr. 1, soweit
@@ -821,6 +830,7 @@ gewähren kann.
 
 
 ## § 8 Risikomanagement, bauspartechnische Simulationsmodelle
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000805118)
 
 (1) Die Bausparkasse muss über ein dem § 25a Absatz 1 des
 Kreditwesengesetzes entsprechendes, auf ihre Belange ausgerichtetes
@@ -861,6 +871,7 @@ entsprechend.
 
 
 ## § 9 Änderung der Allgemeinen Geschäftsgrundsätze und der Allgemeinen Bedingungen für Bausparverträge
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE000907118)
 
 (1) Änderungen und Ergänzungen der Allgemeinen Geschäftsgrundsätze und
 der Allgemeinen Bedingungen für Bausparverträge, welche die in § 5
@@ -889,6 +900,7 @@ Abschluß neuer Verträge verbieten.
 
 
 ## § 10 Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001004118)
 
 Im Interesse der Erfüllung der Verpflichtungen der Bausparkassen
 gegenüber ihren Gläubigern, insbesondere zur Sicherung der ihnen
@@ -1103,6 +1115,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ## § 11 Abberufung von Geschäftsleitern
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001103360)
 
 Die Bundesanstalt kann die Abberufung des Geschäftsleiters einer
 Bausparkasse außer aus den in § 36 des Kreditwesengesetzes
@@ -1116,6 +1129,7 @@ durch die Bundesanstalt dieses Verhalten fortsetzt.
 
 
 ## § 12 Vertrauensmann
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001203360)
 
 (1) Die Bundesanstalt bestellt bei jeder Bausparkasse einen
 Vertrauensmann. Vor der Bestellung ist die Bausparkasse und, soweit
@@ -1143,6 +1157,7 @@ Vergütung; diese ist von der Bausparkasse in sinngemäßer Anwendung des
 
 
 ## § 13 Besondere Pflichten des Prüfers
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001301308)
 
 Bei der Prüfung des Jahresabschlusses einer Bausparkasse hat der
 Prüfer auch festzustellen, ob
@@ -1166,6 +1181,7 @@ Das Ergebnis ist in den Prüfungsbericht aufzunehmen.
 
 
 ## § 14 Bestandsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001404118)
 
 (1) Ein Vertrag, durch den der Bestand einer Bausparkasse an
 Bausparverträgen mit den zugehörigen Aktiva und Passiva auf eine
@@ -1195,6 +1211,7 @@ geeignet oder nicht erforderlich.
 
 
 ## § 15 Zahlungsverbot, Zustimmung zur vereinfachten Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001507118)
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen einer
 Bausparkasse und erscheint die Vermeidung des Insolvenzverfahrens
@@ -1214,6 +1231,7 @@ unberührt.
 
 
 ## § 16 Einstellung des Geschäftsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE002600118)
 
 (1) Beschließt eine Bausparkasse, ihren Geschäftsbetrieb einzustellen,
 oder ordnet die Bundesanstalt die Abwicklung der Geschäfte einer
@@ -1298,6 +1316,7 @@ Kreditwesengesetzes bleiben unberührt.
 
 
 ## § 17 Bezeichnung "Bausparkasse"
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001603118)
 
 (1) Die Bezeichnung "Bausparkasse" oder eine Bezeichnung, in der das
 Wort "Bausparkasse" oder der Wortstamm "Bauspar" enthalten ist, dürfen
@@ -1315,6 +1334,7 @@ entsprechend.
 
 
 ## § 18 Bestimmungen für bestehende und für neue rechtlich unselbständige Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001806118)
 
 (1) Für Kreditinstitute, die beim Inkrafttreten dieses Gesetzes das
 Bauspargeschäft betreiben durften, gilt die nach § 32 des
@@ -1349,6 +1369,7 @@ unselbständige Einrichtungen betreiben.
 
 
 ## § 19 Überleitungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE001906128)
 
 (1) Die auf dem Gebiet des Bausparwesens bestehenden
 Rechtsvorschriften sowie die auf Grund der bisherigen
@@ -1418,11 +1439,13 @@ Forderung weiterhin zulässig.
 
 
 ## § 20 (Änderung und Aufhebung von Rechtsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE002002308)
 
 -
 
 
 ## § 21 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bausparkg/BJNR020970972.html#BJNR020970972BJNE002202308)
 
 -
 

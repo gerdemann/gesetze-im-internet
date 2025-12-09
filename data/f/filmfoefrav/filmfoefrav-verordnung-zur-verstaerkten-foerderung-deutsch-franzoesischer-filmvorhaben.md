@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/filmf_frav/BJNR008890981.html#BJNR008890981BJNE000100317)
 
 Auf Grund des § 32 Abs. 6 Satz 3 des Filmförderungsgesetzes vom 25.
 Juni 1979 (BGBl. I S. 803) wird nach Anhörung der
@@ -25,6 +26,7 @@ Filmförderungsanstalt verordnet:
 
 
 ## § 1 Art und Höhe der Förderungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/filmf_frav/BJNR008890981.html#BJNR008890981BJNE000200317)
 
 (1) Zur verstärkten Förderung deutsch-französischer Filmvorhaben, die
 in Gemeinschaftsproduktion im Sinne des Filmförderungsgesetzes
@@ -46,6 +48,7 @@ Vorschriften des Filmförderungsgesetzes.
 
 
 ## § 2 Art und Zahl der Filmvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/filmf_frav/BJNR008890981.html#BJNR008890981BJNE000300317)
 
 Gefördert werden jährlich bis zu sechs Filmvorhaben. Die Anzahl der im
 Jahr geförderten Filmvorhaben mit deutscher und mit französischer
@@ -64,17 +67,20 @@ mit Mehrheitsbeteiligung behandelt, wenn
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/filmf_frav/BJNR008890981.html#BJNR008890981BJNE000400317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 76 des Filmförderungsgesetzes auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/filmf_frav/BJNR008890981.html#BJNR008890981BJNE000500317)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/filmf_frav/BJNR008890981.html#BJNR008890981BJNE000600317)
 
 Der Bundesminister für Wirtschaft
 

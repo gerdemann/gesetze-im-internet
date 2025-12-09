@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000100306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000200306)
 
 Dem in Brüssel am 13. Mai 1975 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich Belgien über die
@@ -33,6 +35,7 @@ Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000300306)
 
 (1) Die Bundesregierung und die Landesregierungen bestimmen in ihrem
 jeweiligen Geschäftsbereich die Behörden, die für die Beglaubigung
@@ -45,6 +48,7 @@ nicht der Zustimmung des Bundesrates.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000400306)
 
 Die Beglaubigung nach Artikel 3 Abs. 1 und 2 des Abkommens wird mit
 den entsprechenden Ergänzungen in der folgenden Form auf der Urkunde
@@ -68,6 +72,7 @@ Stempel
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000500306)
 
 Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 6 des
 Abkommens aus dem Königreich Belgien zugeleitet, so führt es eine
@@ -78,6 +83,7 @@ Stelle. Die Person, Stelle oder Behörde ist verpflichtet, eine
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000600306)
 
 (1) Ersuchen, mit denen außerhalb eines gerichtlichen oder
 behördlichen Verfahrens eine Nachprüfung nach Artikel 6 des Abkommens
@@ -93,6 +99,7 @@ geregelten Voraussetzungen vorliegen.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000700306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -101,6 +108,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/urkbefrbelg/BJNR208130980.html#BJNR208130980BJNE000800306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

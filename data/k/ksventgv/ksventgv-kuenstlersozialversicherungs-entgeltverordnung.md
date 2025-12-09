@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ksventgv/BJNR001560991.html#BJNR001560991BJNE000100308)
 
 Auf Grund des § 25 Abs. 2 Satz 3 des
 Künstlersozialversicherungsgesetzes vom 27. Juli 1981 (BGBl. I S.
@@ -30,6 +31,7 @@ der Bundesminister für Arbeit und Sozialordnung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ksventgv/BJNR001560991.html#BJNR001560991BJNE000200308)
 
 Dem Entgelt im Sinne des § 25 Abs. 2 Satz 1 des Gesetzes sind nicht
 zuzurechnen:
@@ -48,6 +50,7 @@ zuzurechnen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ksventgv/BJNR001560991.html#BJNR001560991BJNE000300308)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1991 in Kraft.
 

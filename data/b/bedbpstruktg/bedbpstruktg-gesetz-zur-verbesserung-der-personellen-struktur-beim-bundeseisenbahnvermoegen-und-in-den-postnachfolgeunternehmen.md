@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bedbpstruktg/BJNR242600993.html#BJNR242600993BJNE000102311)
 
 Dieses Gesetz gilt für Beamtinnen und Beamte
 
@@ -41,6 +42,7 @@ Dieses Gesetz gilt für Beamtinnen und Beamte
 
 
 ## § 2 Förderung der anderweitigen Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/bedbpstruktg/BJNR242600993.html#BJNR242600993BJNE000202311)
 
 (1) Für jeden in § 1 Nr. 1 bezeichneten Beamten, der vor dem 1. Januar
 1999 in einen anderen Geschäftsbereich oder in den Bereich eines
@@ -64,6 +66,7 @@ hat.
 
 
 ## § 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des  Bundeseisenbahnvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bedbpstruktg/BJNR242600993.html#BJNR242600993BJNE000302310)
 
 (1) Beamtinnen und Beamte des Bundeseisenbahnvermögens, die von
 Umstrukturierungsmaßnahmen bei der Deutsche Bahn Aktiengesellschaft
@@ -91,6 +94,7 @@ Ruhestand versetzt werden, wenn
 
 
 ## § 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bedbpstruktg/BJNR242600993.html#BJNR242600993BJNE000405311)
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember
 2024 auf Antrag in den Ruhestand versetzt werden, wenn
@@ -192,6 +196,7 @@ Zahlungszeitraum.
 
 
 ## § 5 Beamtinnen und Beamte der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/bedbpstruktg/BJNR242600993.html#BJNR242600993BJNE000501116)
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 3 können auf Antrag in den
 Ruhestand versetzt werden, wenn ihre Verwendung in der Verwaltung
@@ -208,6 +213,7 @@ des Beamtenversorgungsgesetzes aus.
 
 
 ## Anlage (zu § 4 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/bedbpstruktg/BJNR242600993.html#BJNR242600993BJNE000601116)
 
 (Fundstelle: BGBl. I 2017, 1945 – 1946)
 

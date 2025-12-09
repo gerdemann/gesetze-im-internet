@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000100310)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE001800310)
 
 (1) Zweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen
 vorzubeugen, Infektionen frühzeitig zu erkennen und ihre
@@ -41,10 +43,12 @@ Gesundheitseinrichtungen sowie des Einzelnen bei der Prävention
 
 
 ### § 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009801116)
 
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE001908125)
 
 Im Sinne dieses Gesetzes ist
 
@@ -216,6 +220,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ### § 3 Prävention durch Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002000310)
 
 Die Information und Aufklärung der Allgemeinheit über die Gefahren
 übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung
@@ -226,10 +231,12 @@ und Versorgungsangebote zu informieren.
 
 
 ## 2. Abschnitt - Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000202116)
 
 
 
 ### § 4 Aufgaben des Robert Koch-Institutes
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002110116)
 
 (1) Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung
 übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und
@@ -350,6 +357,7 @@ personenbezogene Daten verarbeiten.
 
 
 ### § 5 Epidemische Lage von nationaler Tragweite
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002213116)
 
 (1) Der Deutsche Bundestag kann eine epidemische Lage von nationaler
 Tragweite feststellen, wenn die Voraussetzungen nach Satz 6 vorliegen.
@@ -807,6 +815,7 @@ sowie eine Stellungnahme der Bundesregierung zu diesem Ergebnis.
 
 
 ### § 5a Ausübung heilkundlicher Tätigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010200116)
 
 (1) Im Rahmen einer epidemischen Lage von nationaler Tragweite wird
 die Ausübung heilkundlicher Tätigkeiten folgenden Personen gestattet:
@@ -861,6 +870,7 @@ zu gestatten.
 
 
 ### § 5b Schutzmasken in der Nationalen Reserve Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010800360)
 
 (1) In der Nationalen Reserve Gesundheitsschutz werden Schutzmasken
 unabhängig von ihrer Kennzeichnung für den Fall einer Pandemie zum
@@ -882,6 +892,7 @@ entsprechen.
 
 
 ### § 5c Verfahren bei aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandenen überlebenswichtigen intensivmedizinischen Behandlungskapazitäten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010801116)
 
 (1) Niemand darf bei einer ärztlichen Entscheidung über die Zuteilung
 aufgrund einer übertragbaren Krankheit nicht ausreichend vorhandener
@@ -1038,10 +1049,12 @@ diesem Ergebnis.
 
 
 ## 3. Abschnitt - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000302116)
 
 
 
 ### § 6 Meldepflichtige Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002306116)
 
 (1) Namentlich ist zu melden:
 
@@ -1198,6 +1211,7 @@ gemäß § 8 Absatz 1 Nummer 1, 3 oder 5, § 10 Absatz 1 zu erfolgen.
 
 
 ### § 7 Meldepflichtige Nachweise von Krankheitserregern
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002407130)
 
 (1) Namentlich ist bei folgenden Krankheitserregern, soweit nicht
 anders bestimmt, der direkte oder indirekte Nachweis zu melden, soweit
@@ -1481,6 +1495,7 @@ Absatz 1 Nummer 2, 3 oder Absatz 4, § 10 Absatz 3 zu erfolgen.
 
 
 ### § 8 Zur Meldung verpflichtete Personen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002507116)
 
 (1) Zur Meldung sind verpflichtet:
 
@@ -1557,6 +1572,7 @@ Geltungsbereichs dieses Gesetzes durchführen lassen.
 
 
 ### § 9 Namentliche Meldung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002611130)
 
 (1) Die namentliche Meldung durch eine der in § 8 Absatz 1 Nummer 1
 und 4 bis 8 genannten Personen muss, soweit vorliegend, folgende
@@ -1768,6 +1784,7 @@ angehört.
 
 
 ### § 10 Nichtnamentliche Meldung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002708130)
 
 (1) Die nichtnamentliche Meldung nach § 6 Absatz 3 Satz 1 muss
 unverzüglich erfolgen und dem Gesundheitsamt, in dessen Bezirk sich
@@ -1922,6 +1939,7 @@ zu gewinnenden epidemiologischen Beurteilung bewirkt.
 
 
 ### § 11 Übermittlung an die zuständige Landesbehörde und an das Robert Koch-Institut
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002809130)
 
 (1) Die verarbeiteten Daten zu meldepflichtigen Krankheiten und
 Nachweisen von Krankheitserregern werden anhand der Falldefinitionen
@@ -2056,6 +2074,7 @@ sind zu pseudonymisieren.
 
 
 ### § 12 Übermittlungen und Mitteilungen auf Grund völker- und unionsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE002907130)
 
 (1) Im Hinblick auf eine übertragbare Krankheit, die nach Anlage 2 der
 Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005 (BGBl.
@@ -2136,10 +2155,12 @@ ausgeschlossen.
 
 
 ### § 12a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009602116)
 
 
 
 ### § 13 Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003012130)
 
 (1) Zur Überwachung übertragbarer Krankheiten können der Bund und die
 Länder weitere Formen der epidemiologischen Überwachung durchführen.
@@ -2390,6 +2411,7 @@ Bundesrates Folgendes festzulegen:
 
 
 ### § 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003111116)
 
 (1) Für die Erfüllung der Aufgaben nach Maßgabe der Zwecke dieses
 Gesetzes richtet das Robert Koch-Institut nach Weisung des
@@ -2576,6 +2598,7 @@ des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
 
 ### § 14a Interoperabilität; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE011500116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Förderung der
@@ -2637,6 +2660,7 @@ ausschließlich in die Zuständigkeit der Länder fallen.
 
 
 ### § 15 Anpassung der Meldepflicht an die epidemische Lage
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003204116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Meldepflicht für
@@ -2669,6 +2693,7 @@ Rechtsverordnung auf andere Stellen übertragen.
 
 
 ### § 15a Durchführung der infektionshygienischen und hygienischen Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010003116)
 
 (1) Bei der Durchführung der folgenden infektionshygienischen oder
 hygienischen Überwachung unterliegen Personen, die über Tatsachen
@@ -2744,10 +2769,12 @@ Abschnitts, bleiben unberührt.
 
 
 ## 4. Abschnitt - Verhütung übertragbarer Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000400310)
 
 
 
 ### § 16 Allgemeine Maßnahmen zur Verhütung übertragbarer Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003304116)
 
 (1) Werden Tatsachen festgestellt, die zum Auftreten einer
 übertragbaren Krankheit führen können, oder ist anzunehmen, dass
@@ -2816,6 +2843,7 @@ Behörde getroffen.
 
 
 ### § 17 Besondere Maßnahmen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003402116)
 
 (1) Wenn Gegenstände mit meldepflichtigen Krankheitserregern behaftet
 sind oder wenn das anzunehmen ist und dadurch eine Verbreitung der
@@ -2925,6 +2953,7 @@ Absätze 1 bis 5 eingeschränkt.
 
 
 ### § 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003513116)
 
 (1) Zum Schutz des Menschen vor übertragbaren Krankheiten dürfen bei
 behördlich angeordneten Maßnahmen zur
@@ -3055,6 +3084,7 @@ Bundesrates Einzelheiten des Anerkennungsverfahrens festzulegen.
 
 
 ### § 19 Aufgaben des Gesundheitsamtes in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003602116)
 
 (1) Das Gesundheitsamt bietet bezüglich sexuell übertragbarer
 Krankheiten und Tuberkulose Beratung und Untersuchung an oder stellt
@@ -3085,6 +3115,7 @@ angemessen sind.
 
 
 ### § 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003709116)
 
 (1) Die Bundeszentrale für gesundheitliche Aufklärung, die obersten
 Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie
@@ -3429,14 +3460,17 @@ eingeschränkt.
 
 
 ### § 20a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE011104116)
 
 
 
 ### § 20b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE011203116)
 
 
 
 ### § 20c Durchführung von Grippeschutzimpfungen und Schutzimpfungen gegen das Coronavirus SARS-CoV-2 durch Apotheker
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE011402116)
 
 (1) Abweichend von § 20 Absatz 4 Satz 1 sind Apotheker zur
 Durchführung von Grippeschutzimpfungen bei Personen, die das 18.
@@ -3511,6 +3545,7 @@ Absatz 1 Satz 1 Nummer 1.
 
 
 ### § 21 Impfstoffe
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003801116)
 
 Bei einer auf Grund dieses Gesetzes angeordneten oder einer von der
 obersten Landesgesundheitsbehörde öffentlich empfohlenen Schutzimpfung
@@ -3522,6 +3557,7 @@ werden können. Das Grundrecht der körperlichen Unversehrtheit (Artikel
 
 
 ### § 22 Impf-, Genesenen- und Testdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE003914116)
 
 (1) Die zur Durchführung von Schutzimpfungen berechtigte Person hat
 jede Schutzimpfung unverzüglich in einem Impfausweis oder, falls der
@@ -3640,6 +3676,7 @@ enthalten:
 
 
 ### § 22a Impf-, Genesenen und Testnachweis bei COVID-19; COVID-19-Zertifikate; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE011302130)
 
 (1) Ein Impfnachweis ist ein Nachweis hinsichtlich des Vorliegens
 eines vollständigen Impfschutzes gegen das Coronavirus SARS-CoV-2 in
@@ -3947,6 +3984,7 @@ zur Bescheinigung von COVID-19-Tests verpflichtet ist.
 
 
 ### § 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004009116)
 
 (1) Beim Robert Koch-Institut wird eine Kommission für
 Infektionsprävention in medizinischen Einrichtungen und in
@@ -4175,6 +4213,7 @@ die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
 
 
 ### § 23a Personenbezogene Daten über den Impf- und Serostatus von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009704116)
 
 Soweit es zur Erfüllung von Verpflichtungen aus § 23 Absatz 3 in Bezug
 auf übertragbare Krankheiten erforderlich ist, darf der Arbeitgeber
@@ -4190,10 +4229,12 @@ bleiben unberührt.
 
 
 ## 5. Abschnitt - Bekämpfung übertragbarer Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000500310)
 
 
 
 ### § 24 Feststellung und Heilbehandlung übertragbarer Krankheiten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004103116)
 
 Die Feststellung oder die Heilbehandlung einer in § 6 Absatz 1 Satz 1
 Nummer 1, 2 und 5 oder in § 34 Absatz 1 Satz 1 genannten Krankheit
@@ -4234,6 +4275,7 @@ Geltungsdauer kann mit Zustimmung des Bundesrates verlängert werden.
 
 
 ### § 25 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004207360)
 
 (1) Ergibt sich oder ist anzunehmen, dass jemand krank,
 krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist oder
@@ -4291,6 +4333,7 @@ Gesundheitsamt für erforderlich gehalten wird.
 
 
 ### § 26 Teilnahme des behandelnden Arztes
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004301116)
 
 Der behandelnde Arzt ist berechtigt, mit Zustimmung des Patienten an
 den Untersuchungen nach § 25 sowie an der inneren Leichenschau
@@ -4298,6 +4341,7 @@ teilzunehmen.
 
 
 ### § 27 Gegenseitige Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004403116)
 
 (1) Das Gesundheitsamt unterrichtet insbesondere in den Fällen des §
 25 Absatz 1 unverzüglich andere Gesundheitsämter oder die zuständigen
@@ -4425,6 +4469,7 @@ hat.
 
 
 ### § 28 Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004506116)
 
 (1) Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder
 Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener
@@ -4461,6 +4506,7 @@ für ihre Überwachung außerdem § 16 Abs. 2 entsprechend.
 
 
 ### § 28a Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) bei epidemischer Lage von nationaler Tragweite
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010507116)
 
 (1) Notwendige Schutzmaßnahmen im Sinne des § 28 Absatz 1 Satz 1 und 2
 zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019
@@ -4656,6 +4702,7 @@ Krankheit-2019 (COVID-19) nicht zwingend erforderlich ist.
 
 
 ### § 28b Besondere Schutzmaßnahmen zur Verhinderung der Verbreitung der Coronavirus-Krankheit-2019 (COVID-19) unabhängig von einer epidemischen Lage von nationaler Tragweite bei saisonal hoher Dynamik
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010605116)
 
 (1) Unabhängig von einer durch den Deutschen Bundestag nach § 5 Absatz
 1 Satz 1 festgestellten epidemischen Lage von nationaler Tragweite
@@ -5015,6 +5062,7 @@ Zustimmung des Bundesrates
 
 
 ### § 28c Verordnungsermächtigung für besondere Regelungen für Geimpfte, Getestete und vergleichbare Personen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010703116)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung für
 Personen, bei denen von einer Immunisierung gegen das Coronavirus
@@ -5040,6 +5088,7 @@ andere Stellen übertragen.
 
 
 ### § 29 Beobachtung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004604116)
 
 (1) Kranke, Krankheitsverdächtige, Ansteckungsverdächtige und
 Ausscheider können einer Beobachtung unterworfen werden.
@@ -5066,6 +5115,7 @@ Grundgesetz) werden insoweit eingeschränkt.
 
 
 ### § 30 Absonderung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004703116)
 
 (1) Die zuständige Behörde hat anzuordnen, dass Personen, die an
 Lungenpest oder an von Mensch zu Mensch übertragbarem hämorrhagischem
@@ -5136,6 +5186,7 @@ nötigenfalls von den Ländern zu schaffen und zu unterhalten.
 
 
 ### § 31 Berufliches Tätigkeitsverbot
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004800310)
 
 Die zuständige Behörde kann Kranken, Krankheitsverdächtigen,
 Ansteckungsverdächtigen und Ausscheidern die Ausübung bestimmter
@@ -5145,6 +5196,7 @@ tragen, dass im Einzelfall die Gefahr einer Weiterverbreitung besteht.
 
 
 ### § 32 Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE004902116)
 
 Die Landesregierungen werden ermächtigt, unter den Voraussetzungen,
 die für Maßnahmen nach den §§ 28 bis 28b und 29 bis 31 maßgebend sind,
@@ -5162,10 +5214,12 @@ können insoweit eingeschränkt werden.
 
 
 ## 6. Abschnitt - Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000601116)
 
 
 
 ### § 33 Gemeinschaftseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005001116)
 
 Gemeinschaftseinrichtungen im Sinne dieses Gesetzes sind
 Einrichtungen, in denen überwiegend minderjährige Personen betreut
@@ -5191,6 +5245,7 @@ werden; dazu gehören insbesondere:
 
 
 ### § 34 Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005104116)
 
 (1) Personen, die an
 
@@ -5442,6 +5497,7 @@ Robert Koch-Institut zu übermitteln.
 
 
 ### § 35 Infektionsschutz in Einrichtungen und Unternehmen der Pflege und Eingliederungshilfe, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005201116)
 
 (1) Folgende Einrichtungen und Unternehmen haben sicherzustellen, dass
 die nach dem Stand der medizinischen Wissenschaft und der
@@ -5649,6 +5705,7 @@ erhoben.
 
 
 ### § 36 Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005313116)
 
 (1) Folgende Einrichtungen und Unternehmen müssen in Hygieneplänen
 innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen und
@@ -6054,10 +6111,12 @@ Absatz 1 des Grundgesetzes) eingeschränkt.
 
 
 ## 7. Abschnitt - Wasser
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000700310)
 
 
 
 ### § 37 Beschaffenheit von Wasser für den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005403116)
 
 (1) Wasser für den menschlichen Gebrauch muss so beschaffen sein, dass
 durch seinen Genuss oder Gebrauch eine Schädigung der menschlichen
@@ -6098,6 +6157,7 @@ menschlichen Gebrauch handelt, durch die sonst zuständige Behörde.
 
 
 ### § 38 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005516116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
@@ -6314,6 +6374,7 @@ Technik entsprechen.
 
 
 ### § 39 Untersuchungen, Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005608116)
 
 (1) Der Betreiber einer Wasserversorgungsanlage, eines Schwimm- oder
 Badebeckens oder eines Schwimm- oder Badeteiches hat die ihm auf Grund
@@ -6340,6 +6401,7 @@ um
 
 
 ### § 40 Aufgaben des Umweltbundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005704116)
 
 Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe,
 Konzeptionen zur Vorbeugung, Erkennung und Verhinderung der
@@ -6360,6 +6422,7 @@ Landesbehörden können daran teilnehmen.
 
 
 ### § 41 Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005801116)
 
 (1) Die Abwasserbeseitigungspflichtigen haben darauf hinzuwirken, dass
 Abwasser so beseitigt wird, dass Gefahren für die menschliche
@@ -6376,10 +6439,12 @@ Grundgesetz) kann insoweit eingeschränkt werden.
 
 
 ## 8. Abschnitt - Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000800310)
 
 
 
 ### § 42 Tätigkeits- und Beschäftigungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE005903116)
 
 (1) Personen, die
 
@@ -6479,6 +6544,7 @@ Bundesrates verlängert werden.
 
 
 ### § 43 Belehrung, Bescheinigung des Gesundheitsamtes
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006004116)
 
 (1) Personen dürfen gewerbsmäßig die in § 42 Abs. 1 bezeichneten
 Tätigkeiten erstmalig nur dann ausüben und mit diesen Tätigkeiten
@@ -6546,10 +6612,12 @@ einzuschränken, wenn Rechtsakte der Europäischen Union dies erfordern.
 
 
 ## 9. Abschnitt - Tätigkeiten mit Krankheitserregern
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG000900310)
 
 
 
 ### § 44 Erlaubnispflicht für Tätigkeiten mit Krankheitserregern
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006100310)
 
 Wer Krankheitserreger in den Geltungsbereich dieses Gesetzes
 verbringen, sie ausführen, aufbewahren, abgeben oder mit ihnen
@@ -6557,6 +6625,7 @@ arbeiten will, bedarf einer Erlaubnis der zuständigen Behörde.
 
 
 ### § 45 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006202125)
 
 (1) Einer Erlaubnis nach § 44 bedürfen nicht Personen, die zur
 selbständigen Ausübung des Berufs als Arzt, Zahnarzt oder Tierarzt
@@ -6628,6 +6697,7 @@ bezüglich der erlaubnisfreien Tätigkeiten nach den Absätzen 1, 2 oder
 
 
 ### § 46 Tätigkeit unter Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006300310)
 
 Der Erlaubnis nach § 44 bedarf nicht, wer unter Aufsicht desjenigen,
 der eine Erlaubnis besitzt oder nach § 45 keiner Erlaubnis bedarf,
@@ -6635,6 +6705,7 @@ tätig ist.
 
 
 ### § 47 Versagungsgründe, Voraussetzungen für die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006400310)
 
 (1) Die Erlaubnis ist zu versagen, wenn der Antragsteller
 
@@ -6690,6 +6761,7 @@ unmittelbare Behandlung der Patienten des Krankenhauses durchführen.
 
 
 ### § 48 Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006500310)
 
 Die Erlaubnis nach § 44 kann außer nach den Vorschriften des
 Verwaltungsverfahrensgesetzes zurückgenommen oder widerrufen werden,
@@ -6697,6 +6769,7 @@ wenn ein Versagungsgrund nach § 47 Abs. 1 vorliegt.
 
 
 ### § 49 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006600310)
 
 (1) Wer Tätigkeiten im Sinne von § 44 erstmalig aufnehmen will, hat
 dies der zuständigen Behörde mindestens 30 Tage vor Aufnahme
@@ -6737,6 +6810,7 @@ der Gesundheit der Bevölkerung zu besorgen ist, insbesondere weil
 
 
 ### § 50 Veränderungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006700310)
 
 Wer eine in § 44 genannte Tätigkeit ausübt, hat jede wesentliche
 Veränderung der Beschaffenheit der Räume und Einrichtungen, der
@@ -6748,6 +6822,7 @@ der Grundlage des § 46 tätig sind.
 
 
 ### § 50a Laborcontainment und Ausrottung des Poliovirus; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009900116)
 
 (1) Natürliche oder juristische Personen, die die tatsächliche
 Sachherrschaft über Polioviren oder Material, das möglicherweise
@@ -6814,6 +6889,7 @@ eingeschränkt.
 
 
 ### § 51 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006801116)
 
 Wer eine in § 44 genannte Tätigkeit ausübt oder Polioviren oder
 Material, das möglicherweise Polioviren enthält, besitzt, untersteht
@@ -6827,6 +6903,7 @@ Prüfungen zu dulden. Das Grundrecht der Unverletzlichkeit der Wohnung
 
 
 ### § 52 Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE006901116)
 
 Krankheitserreger sowie Material, das Krankheitserreger enthält,
 dürfen nur an denjenigen abgegeben werden, der eine Erlaubnis besitzt,
@@ -6837,6 +6914,7 @@ Untersuchungseinrichtungen.
 
 
 ### § 53 Anforderungen an Räume und Einrichtungen, Gefahrenvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007004116)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften
@@ -6863,6 +6941,7 @@ ist.
 
 
 ### § 53a Verfahren über eine einheitliche Stelle, Entscheidungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009500310)
 
 (1) Verwaltungsverfahren nach diesem Abschnitt können über eine
 einheitliche Stelle abgewickelt werden.
@@ -6874,10 +6953,12 @@ entsprechend.
 
 
 ## 10. Abschnitt - Vollzug des Gesetzes und zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001001116)
 
 
 
 ### § 54 Vollzug durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007103116)
 
 Die Landesregierungen bestimmen durch Rechtsverordnung die zuständigen
 Behörden im Sinne dieses Gesetzes, soweit eine landesrechtliche
@@ -6890,6 +6971,7 @@ obersten Landesbehörden nach diesem Gesetz verzichtet wird.
 
 
 ### § 54a Vollzug durch die Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010301116)
 
 (1) Den zuständigen Stellen der Bundeswehr obliegt der Vollzug dieses
 Gesetzes, soweit er betrifft:
@@ -6949,6 +7031,7 @@ Deutschland unberührt.
 
 
 ### § 54b Vollzug durch das Eisenbahn-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010401116)
 
 Im Bereich der Eisenbahnen des Bundes und der Magnetschwebebahnen
 obliegt der Vollzug dieses Gesetzes für Schienenfahrzeuge sowie für
@@ -6958,10 +7041,12 @@ zuständigen Behörde nach den §§ 15a, 37 bis 39 und 41 betroffen sind.
 
 
 ## 11. Abschnitt - Angleichung an Gemeinschaftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001100310)
 
 
 
 ### § 55 Angleichung an Gemeinschaftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007200310)
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der
 Angleichung der Rechtsvorschriften der Mitgliedstaaten der
@@ -6973,10 +7058,12 @@ erforderlich ist.
 
 
 ## 12. Abschnitt - Entschädigung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001200310)
 
 
 
 ### § 56 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007325116)
 
 (1) Wer auf Grund dieses Gesetzes als Ausscheider,
 Ansteckungsverdächtiger, Krankheitsverdächtiger oder als sonstiger
@@ -7199,6 +7286,7 @@ Höhe der Entschädigung zu gewähren.
 
 
 ### § 57 Verhältnis zur Sozialversicherung und zur Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007407116)
 
 (1) Für Personen, denen eine Entschädigung nach § 56 Abs. 1 zu
 gewähren ist, besteht eine Versicherungspflicht in der gesetzlichen
@@ -7263,6 +7351,7 @@ bestimmt.
 
 
 ### § 58 Aufwendungserstattung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007504116)
 
 Entschädigungsberechtigte im Sinne des § 56 Absatz 1 und 1a, die der
 Pflichtversicherung in der gesetzlichen Kranken-, Renten- sowie der
@@ -7277,6 +7366,7 @@ Entschädigung.
 
 
 ### § 59 Arbeits- und sozialrechtliche Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007601116)
 
 (1) Wird ein Beschäftigter während seines Urlaubs nach § 30, auch in
 Verbindung mit § 32, abgesondert oder hat er sich auf Grund einer nach
@@ -7291,9 +7381,11 @@ Behinderungen im Sinne des Dritten Buches Sozialgesetzbuch.
 
 
 ### (XXXX) §§ 60 bis 64 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE007702116)
 
 
 ### § 65 Entschädigung bei behördlichen Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE008200310)
 
 (1) Soweit auf Grund einer Maßnahme nach den §§ 16 und 17 Gegenstände
 vernichtet, beschädigt oder in sonstiger Weise in ihrem Wert gemindert
@@ -7320,6 +7412,7 @@ Auf Grund der Maßnahme notwendige Aufwendungen sind zu erstatten.
 
 
 ### § 66 Zahlungsverpflichteter
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE008313116)
 
 Ansprüche nach den §§ 56 bis 58 richten sich gegen das Land,
 
@@ -7349,6 +7442,7 @@ verursacht worden ist.
 
 
 ### § 67 Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE008401116)
 
 Die nach § 56 Abs. 2 Satz 2 und 3 zu zahlenden Entschädigungen können
 nach den für das Arbeitseinkommen geltenden Vorschriften der
@@ -7356,10 +7450,12 @@ Zivilprozessordnung gepfändet werden.
 
 
 ## 13. Abschnitt - Rechtsweg und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001302116)
 
 
 
 ### § 68 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE008507116)
 
 Für Streitigkeiten über Ansprüche nach den §§ 56 bis 58 und 65 gegen
 das nach § 66 Absatz 1 zur Zahlung verpflichtete Land ist der
@@ -7380,6 +7476,7 @@ Verwaltungsrechtsweg gegeben.
 
 
 ### § 69 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE008612116)
 
 (1) Folgende Kosten sind aus öffentlichen Mitteln zu bestreiten,
 soweit nicht ein anderer Kostenträger zur Kostentragung verpflichtet
@@ -7444,18 +7541,22 @@ soweit die Länder abweichende Vereinbarungen treffen.
 
 
 ## 14. Abschnitt - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001400310)
 
 
 
 ### (XXXX) §§ 70 bis 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE008702116)
 
 
 
 ## 14. Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001501116)
 
 
 
 ### § 73 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009027116)
 
 (1) (weggefallen)
 
@@ -7694,6 +7795,7 @@ bis zu fünfundzwanzigtausend Euro geahndet werden.
 
 
 ### § 74 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009106116)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 73 Absatz 1 oder Absatz 1a Nummer 1 bis 7, 11,
@@ -7710,6 +7812,7 @@ SARS-CoV-2 zur Täuschung im Rechtsverkehr nicht richtig dokumentiert.
 
 
 ### § 75 Weitere Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009202116)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -7755,6 +7858,7 @@ eine Person behandelt.
 
 
 ### § 75a Weitere Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE011002116)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer wissentlich zur Täuschung im Rechtsverkehr
@@ -7793,16 +7897,19 @@ zur Täuschung im Rechtsverkehr gebraucht.
 
 
 ### § 76 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009300310)
 
 Gegenstände, auf die sich eine Straftat nach § 75 Abs. 1 oder 3
 bezieht, können eingezogen werden.
 
 
 ## 15. Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNG001601116)
 
 
 
 ### § 77 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE009406116)
 
 (1) Die nach den Vorschriften des Bundes-Seuchengesetzes bestehende
 Erlaubnis für das Arbeiten und den Verkehr mit Krankheitserregern gilt
@@ -7857,6 +7964,7 @@ beginnen.
 (zu § 5b Absatz 4)
 
 ### Anlage Maskentypen nach § 5b Absatz 4
+[Direktlink](https://www.gesetze-im-internet.de/ifsg/BJNR104510000.html#BJNR104510000BJNE010900360)
 
 (Fundstelle: BGBl. I 2021, 1175 – 1176)
 

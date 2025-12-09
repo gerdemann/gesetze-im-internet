@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfarmwidvertrano/BJNR230300017.html#BJNR230300017BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -26,6 +27,7 @@ Bundesministerium für Gesundheit an:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bfarmwidvertrano/BJNR230300017.html#BJNR230300017BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass von
 Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche von
@@ -36,6 +38,7 @@ Maßnahme zuständig war.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bfarmwidvertrano/BJNR230300017.html#BJNR230300017BJNE000300000)
 
 Dem Präsidenten des Bundesverwaltungsamtes wird die Vertretung des
 Bundesministeriums für Gesundheit bei verwaltungsgerichtlichen
@@ -45,6 +48,7 @@ kann im Einzelfall die Vertretung selbst übernehmen.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfarmwidvertrano/BJNR230300017.html#BJNR230300017BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juni 2017 in Kraft.
 Gleichzeitig tritt die Anordnung zur Übertragung von Zuständigkeiten

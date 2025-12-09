@@ -34,9 +34,11 @@ Mittelbare änderung durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000100000)
 
 
 ### § 1 Steuergebiet, Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000102123)
 
 (1) Alkoholerzeugnisse unterliegen im Steuergebiet der Alkoholsteuer.
 Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das
@@ -84,6 +86,7 @@ S. 1) geänderten, am 1. Januar 2019 geltenden Fassung.
 
 
 ### § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000203123)
 
 (1) Die Steuer bemisst sich nach der im Alkoholerzeugnis enthaltenen
 Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohols (hl A),
@@ -152,6 +155,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 3 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000301123)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -273,9 +277,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000200000)
 
 
 ### § 4 Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000401000)
 
 (1) Steuerlager sind Orte, an oder von denen Alkoholerzeugnisse unter
 Steueraussetzung hergestellt, bearbeitet (auch gereinigt) oder
@@ -310,6 +316,7 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 ### § 5 Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000501000)
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager
 betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag
@@ -398,6 +405,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 6 Registrierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000601000)
 
 (1) Registrierte Empfänger sind Personen, die in ihren Betrieben im
 Steuergebiet Alkoholerzeugnisse unter Steueraussetzung zu gewerblichen
@@ -442,6 +450,7 @@ Sicherheitsleistung, zu erlassen.
 
 
 ### § 7 Registrierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000701000)
 
 (1) Registrierte Versender sind Personen, die Alkoholerzeugnisse vom
 Ort der Einfuhr unter Steueraussetzung versenden dürfen.
@@ -469,6 +478,7 @@ steuerliche Belange nicht entgegenstehen.
 
 
 ### § 8 Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000803123)
 
 (1) Begünstigte, die Alkoholerzeugnisse unter Steueraussetzung im
 Steuergebiet empfangen dürfen, sind vorbehaltlich des Absatzes 2
@@ -572,6 +582,7 @@ geeignete Dokumente zuzulassen.
 
 
 ### § 9 Abfindungsbrennerei
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE000903377)
 
 (1) Abfindungsbrennereien sind Orte, an denen Alkohol abweichend von §
 4 ohne Verschlüsse ausschließlich aus Obst, einschließlich Obstmost
@@ -638,6 +649,7 @@ insbesondere
 
 
 ### § 10 Abfindungsbrenner
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001005377)
 
 (1) Wer eine Abfindungsbrennerei betreiben will, bedarf der Erlaubnis.
 Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt,
@@ -732,6 +744,7 @@ insbesondere
 
 
 ### § 11 Stoffbesitzer
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001101000)
 
 (1) Stoffbesitzer sind natürliche Personen, die
 
@@ -811,6 +824,7 @@ insbesondere
 
 
 ### § 12 Abschnittsbrennen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001201000)
 
 (1) Innerhalb eines Abschnitts dürfen
 
@@ -841,6 +855,7 @@ Abschnittsbrennens zu regeln.
 
 
 ### § 13 Beförderungen (Allgemeines)
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001302123)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
 ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur
@@ -891,6 +906,7 @@ Verfahren abweichend von Absatz 1 zu bestimmen.
 
 
 ### § 14 Beförderungen im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001402123)
 
 (1) Alkoholerzeugnisse dürfen unter Steueraussetzung, auch über
 Drittländer oder Drittgebiete, befördert werden aus Steuerlagern im
@@ -951,6 +967,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 15 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001502123)
 
 (1) Alkoholerzeugnisse dürfen unter Steueraussetzung, auch über
 Drittländer oder Drittgebiete, befördert werden
@@ -1061,6 +1078,7 @@ zur Sicherheitsleistung, zu erlassen; dabei kann es
 
 
 ### § 16 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001602123)
 
 (1) Alkoholerzeugnisse dürfen unter Steueraussetzung aus Steuerlagern
 im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr
@@ -1120,6 +1138,7 @@ anzuwenden.
 
 
 ### § 17 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001702123)
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
 Steueraussetzung eintretender Fall, mit Ausnahme der in § 18 Absatz 3
@@ -1186,6 +1205,7 @@ zu erlassen.
 
 
 ### § 18 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001802123)
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der
 Alkoholerzeugnisse in den steuerrechtlich freien Verkehr, es sei denn,
@@ -1345,6 +1365,7 @@ Absätzen 3 bis 6 zu erlassen und dabei insbesondere
 
 
 ### § 19 Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE001902123)
 
 (1) Die Steuerschuldner nach § 18 Absatz 7 Satz 1 Nummer 1 erste
 Alternative und Nummer 4 haben über die Alkoholerzeugnisse, für die in
@@ -1376,15 +1397,19 @@ die Einzelheiten zur Steueranmeldung zu bestimmen.
 
 
 ## Abschnitt 3 - Einfuhr oder unrechtmäßiger Eingang von Alkoholerzeugnissen aus Drittländern oder Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000301123)
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002001123)
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002101123)
 
 
 ### § 22 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002202123)
 
 (1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der
 Überführung der Alkoholerzeugnisse in den steuerrechtlich freien
@@ -1445,9 +1470,11 @@ Einfuhr erforderlich ist.
 
 
 ## Abschnitt 4 - Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000401123)
 
 
 ### § 23 Erwerb durch Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002301000)
 
 (1) Alkoholerzeugnisse, die eine Privatperson für ihren Eigenbedarf in
 anderen Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und
@@ -1482,6 +1509,7 @@ diese nicht für den Eigenbedarf der Privatperson bestimmt sind.
 
 
 ### § 24 Lieferung zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002402123)
 
 (1) Im Sinn dieses Abschnitts werden Alkoholerzeugnisse zu
 gewerblichen Zwecken geliefert, wenn sie aus dem steuerrechtlich
@@ -1508,6 +1536,7 @@ Steueraufkommens Vorschriften zu Absatz 1 zu erlassen.
 
 
 ### § 24a Zertifizierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003900123)
 
 (1) Zertifizierte Empfänger sind Personen, die Alkoholerzeugnisse, die
 aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu
@@ -1598,6 +1627,7 @@ zu Erleichterungen zu erlassen.
 
 
 ### § 24b Zertifizierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE004001123)
 
 (1) Zertifizierte Versender sind Personen, die Alkoholerzeugnisse des
 steuerrechtlich freien Verkehrs zu gewerblichen Zwecken aus ihrem
@@ -1666,6 +1696,7 @@ zu dem Erlaubnisverfahren sowie zu Erleichterungen zu erlassen.
 
 
 ### § 24c Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE004100123)
 
 (1) Alkoholerzeugnisse des steuerrechtlich freien Verkehrs gelten,
 soweit in diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen
@@ -1746,6 +1777,7 @@ Dabei kann das Bundesministerium der Finanzen
 
 
 ### § 25 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002502123)
 
 (1) Versandhandel betreibt, wer in Ausübung einer selbstständigen
 wirtschaftlichen Tätigkeit Alkoholerzeugnisse aus dem steuerrechtlich
@@ -1792,6 +1824,7 @@ abweichendes vereinfachtes Verfahren zulassen.
 
 
 ### § 26 Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002602123)
 
 (1) Als Unregelmäßigkeit gilt, mit Ausnahme der in § 26a Absatz 2 Satz
 1 Nummer 2 geregelten Fälle, ein während der Beförderung von
@@ -1829,6 +1862,7 @@ Vorschriften zu den Absätzen 1 und 2 zu erlassen.
 
 
 ### § 26a Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE004200123)
 
 (1) Die Steuer entsteht vorbehaltlich des Absatzes 2
 
@@ -1919,6 +1953,7 @@ Absätzen 1 bis 3 zu erlassen.
 
 
 ### § 26b Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE004300123)
 
 (1) Die Steuerschuldner nach § 26a Absatz 3 Satz 1 Nummer 1 und 2
 haben bei Empfang im Einzelfall unverzüglich eine Steueranmeldung
@@ -1952,9 +1987,11 @@ die Einzelheiten zur Steueranmeldung zu bestimmen.
 
 
 ## Abschnitt 5 - Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000500000)
 
 
 ### § 27 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002703123)
 
 (1) Alkoholerzeugnisse sind von der Steuer befreit, wenn sie
 folgendermaßen gewerblich verwendet werden:
@@ -2082,6 +2119,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 28 Verwender
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002801000)
 
 (1) Wer Alkoholerzeugnisse in den Fällen des § 27 Absatz 1 steuerfrei
 verwenden will, bedarf einer Erlaubnis. Sie wird auf Antrag Personen
@@ -2145,6 +2183,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 29 Steuerentlastung im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE002902123)
 
 (1) Nachweislich versteuerte Alkoholerzeugnisse, die in ein
 Steuerlager aufgenommen worden sind, werden auf Antrag von der Steuer
@@ -2186,6 +2225,7 @@ vorzuschreiben.
 
 
 ### § 30 Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003002123)
 
 (1) Nachweislich versteuerte Alkoholerzeugnisse, die nach § 24c oder §
 25 in einen anderen Mitgliedstaat befördert worden sind, werden auf
@@ -2253,9 +2293,11 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 ## Abschnitt 6 - Steueraufsicht, Überwachung, Berechnung bei Verkürzung der Alkoholsteuer, Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000600000)
 
 
 ### § 31 Steueraufsicht, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003102123)
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung
 unterliegen im Steuergebiet der Steueraufsicht:
@@ -2314,6 +2356,7 @@ haben, sowie hierzu die Einzelheiten und das Verfahren festzulegen.
 
 
 ### § 32 Überwachung von Brenn- und Reinigungsgeräten
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003202123)
 
 (1) Wer zur gewerblichen Gewinnung oder Reinigung von Alkohol
 geeignete Brenn- oder Reinigungsgeräte oder sonstige zur gewerblichen
@@ -2358,6 +2401,7 @@ Absätzen 1 und 2 zu erlassen und dabei insbesondere
 
 
 ### § 33 Berechnung bei Verkürzung der Alkoholsteuer
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003300000)
 
 (1) Ist Alkoholsteuer dadurch verkürzt worden, dass eine
 Brennvorrichtung unbefugt in Betrieb genommen worden ist, so wird die
@@ -2380,6 +2424,7 @@ anderen Zeitraum oder auf eine andere Menge erstreckt hat.
 
 
 ### § 34 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003401123)
 
 (1) Das Hauptzollamt kann in entsprechender Anwendung des § 215 der
 Abgabenordnung Folgendes sicherstellen:
@@ -2426,9 +2471,11 @@ Abgabenordnung Folgendes sicherstellen:
 
 
 ## Abschnitt 7 - Geschäftsstatistik, Bußgeldvorschriften, Besondere Ermächtigungen, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNG000700000)
 
 
 ### § 35 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003500000)
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
 stellen die Hauptzollämter für statistische Zwecke Erhebungen an und
@@ -2441,6 +2488,7 @@ allgemeine Zwecke in anonymisierter Form übermitteln.
 
 
 ### § 36 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003601123)
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
@@ -2484,6 +2532,7 @@ einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
 ### § 37 Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE004400123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -2680,6 +2729,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 38 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstg/BJNR165100013.html#BJNR165100013BJNE003801123)
 
 (1) Die am 31. Dezember 2017 nach dem Branntweinmonopolgesetz in der
 im Bundesgesetzblatt Teil III, Gliederungsnummer 612-7,

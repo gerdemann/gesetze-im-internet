@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/arg/BJNR043410997.html#BJNR043410997BJNE000100305)
 
 Der Erblastentilgungsfonds übernimmt zur Regelung der Altschulden für
 gesellschaftliche Einrichtungen mit Wirkung vom 1. Januar 1997 bei der
@@ -31,6 +32,7 @@ zusammen 8.389.768.897,33 Deutsche Mark.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/arg/BJNR043410997.html#BJNR043410997BJNE000200305)
 
 Als Folge der Übernahme der in § 1 genannten Verbindlichkeiten durch
 den Erblastentilgungsfonds werden die in den Ländern Berlin,
@@ -45,6 +47,7 @@ sind, tritt die befreiende Wirkung auch für sie ein.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/arg/BJNR043410997.html#BJNR043410997BJNE000301377)
 
 (1) Die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen,
 Sachsen-Anhalt und Thüringen erstatten zu gleichen Teilen dem Bund als
@@ -92,6 +95,7 @@ Absatz 1 angerechnet.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/arg/BJNR043410997.html#BJNR043410997BJNE000400305)
 
 (1) Soweit die Erfüllung der auf das jeweilige Land entfallenden
 Erstattungsleistungen nach § 3 nicht in voller Höhe erbracht wird,

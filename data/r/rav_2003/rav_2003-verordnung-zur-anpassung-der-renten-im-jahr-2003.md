@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000000000)
 
 Auf Grund
 
@@ -54,6 +55,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000100000)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2003 an 26,13 Euro.
 
@@ -62,6 +64,7 @@ Euro.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000200000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2003 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -76,6 +79,7 @@ Der Anpassungsfaktor beträgt 1,0119.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000300000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2003 an
@@ -94,6 +98,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000400000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 2003 an 12,06 Euro.
@@ -103,11 +108,13 @@ Landwirte beträgt vom 1. Juli 2003 an 10,60 Euro.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000500000)
 
 Diese Verordnung tritt am 1. Juli 2003 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2003/BJNR078400003.html#BJNR078400003BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

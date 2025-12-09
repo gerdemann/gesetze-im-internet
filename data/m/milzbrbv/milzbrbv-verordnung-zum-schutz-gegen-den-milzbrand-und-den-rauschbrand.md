@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE000700308)
 
 Auf Grund des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 4
 sowie des § 79 Abs. 1 Nr. 2 in Verbindung mit den §§ 18, 19 Abs. 1 und
@@ -34,10 +35,12 @@ Landwirtschaft und Forsten:
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNG000100308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE000800308)
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -63,10 +66,12 @@ Im Sinne dieser Verordnung liegen vor:
 
 
 ## Abschnitt 2 - Schutzmaßregeln gegen Milzbrand
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNG000200308)
 
 
 
 ### § 2 Impfungen
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE000900308)
 
 (1) Impfungen gegen Milzbrand sind verboten.
 
@@ -97,6 +102,7 @@ Seuchenbekämpfung nicht entgegenstehen.
 
 
 ### § 3 Schutzmaßregeln vor amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001000308)
 
 Im Falle des Ausbruchs oder des Verdachts des Ausbruchs von Milzbrand
 in einem Betrieb oder sonstigen Standort gilt vor der amtlichen
@@ -132,6 +138,7 @@ Feststellung folgendes:
 
 
 ### § 4 Schutzmaßregeln nach amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001100308)
 
 Ist der Ausbruch oder der Verdacht des Ausbruchs von Milzbrand in
 einem Betrieb oder an einem sonstigen Standort amtlich festgestellt,
@@ -198,6 +205,7 @@ folgender Vorschriften der Sperre:
 
 
 ### § 5 Tötung und Heilversuch
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001200308)
 
 (1) Ist in einem Bestand der Ausbruch oder der Verdacht des Ausbruchs
 von Milzbrand amtlich festgestellt, so kann die zuständige Behörde die
@@ -212,12 +220,14 @@ dürfen nur von einem Tierarzt vorgenommen werden.
 
 
 ### § 6 Milzbrand bei Wildtieren
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001300308)
 
 § 4 Nr. 6 und § 5 Abs. 2 gelten für seuchenkrankes und
 seuchenverdächtiges Wild entsprechend.
 
 
 ### § 7 Reinigung und Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001401301)
 
 (1) Nach Entfernen der seuchenkranken oder seuchenverdächtigen Tiere
 muß der Besitzer die Ställe und sonstigen Standorte sowie sämtliche
@@ -237,10 +247,12 @@ dem Dung behandeln.
 
 
 ## Abschnitt 3 - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNG000300308)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001500308)
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn
 der Milzbrand erloschen ist oder der Verdacht auf Milzbrand beseitigt
@@ -277,10 +289,12 @@ Milzbrand hinweisen.
 
 
 ## Abschnitt 4 - Schutzmaßregeln gegen Rauschbrand
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNG000400308)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001601119)
 
 Wird bei Rindern Rauschbrand festgestellt oder liegt Verdacht auf
 Rauschbrand vor, so kann die zuständige Behörde die sinngemäße
@@ -289,10 +303,12 @@ gilt entsprechend.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNG000500308)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001701301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -353,10 +369,12 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNG000600308)
 
 
 
 ### § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001800308)
 
 Diese Verordnung tritt am 1. Juni 1991 in Kraft.
 Gleichzeitig treten außer Kraft:
@@ -404,6 +422,7 @@ Gleichzeitig treten außer Kraft:
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/milzbrbv/BJNR011720991.html#BJNR011720991BJNE001900308)
 
 Der Bundesrat hat zugestimmt.
 

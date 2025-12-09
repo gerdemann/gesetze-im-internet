@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/kbnanrg/BJNR041700009.html#BJNR041700009BJNE000102126)
 
 Der nach § 66 Absatz 1 Satz 2 und 3 des Einkommensteuergesetzes und §
 6 Absatz 3 des Bundeskindergeldgesetzes zu zahlende Einmalbetrag ist

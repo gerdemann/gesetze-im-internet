@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt G 310-24 v. 19.10.2012 I 2182 (KapMuG 2012)
 
 ## Abschnitt 1 - Musterverfahrensantrag; Vorlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich; Verhältnis zum Verbraucherrechtedurchsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000200000)
 
 (1) Dieses Gesetz ist anwendbar in bürgerlichen Rechtsstreitigkeiten,
 in denen einer der folgenden Ansprüche geltend gemacht wird:
@@ -137,6 +139,7 @@ Lebenssachverhalts eine Verbandsklage rechtshängig ist.
 
 
 ### § 2 Musterverfahrensantrag
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000300000)
 
 (1) Durch Musterverfahrensantrag können der Kläger und der Beklagte im
 ersten Rechtszug die Feststellung des Vorliegens oder Nichtvorliegens
@@ -161,6 +164,7 @@ Rechtsstreitigkeiten zukommen kann.
 
 
 ### § 3 Entscheidung über den Musterverfahrensantrag
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000400000)
 
 (1) Das Prozessgericht entscheidet über die Zulässigkeit des
 Musterverfahrensantrags durch unanfechtbaren Beschluss.
@@ -188,6 +192,7 @@ unzulässig, soweit
 
 
 ### § 4 Bekanntmachung des Musterverfahrensantrags
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000500000)
 
 (1) Einen zulässigen Musterverfahrensantrag macht das Prozessgericht
 im Musterverfahrensregister (§ 5) öffentlich bekannt. Die
@@ -232,6 +237,7 @@ versehen und enthält die folgenden Angaben:
 
 
 ### § 5 Musterverfahrensregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000600000)
 
 (1) Das Musterverfahrensregister wird im Bundesanzeiger unter der
 Rubrik „Register nach dem Kapitalanleger-Musterverfahrensgesetz“
@@ -270,6 +276,7 @@ vorzusehen, die sicherstellen, dass die Bekanntmachungen
 
 
 ### § 6 Unterbrechung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000700000)
 
 Mit der Bekanntmachung des Musterverfahrensantrags wird das jeweilige
 Ausgangsverfahren unterbrochen, soweit die Entscheidung des
@@ -278,6 +285,7 @@ Feststellungszielen abhängt.
 
 
 ### § 7 Vorlage an das Oberlandesgericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000800000)
 
 (1) Durch Vorlagebeschluss ist eine Entscheidung des im Rechtszug
 übergeordneten Oberlandesgerichts über die Feststellungsziele von
@@ -334,15 +342,18 @@ Bezirke oder für das gesamte Gebiet mehrerer Länder begründet werden.
 
 
 ### § 8 Sperrwirkung des Vorlagebeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE000900000)
 
 Ab dem Erlass des Vorlagebeschlusses sind weitere gleichgerichtete
 Musterverfahrensanträge unzulässig; § 3 ist anzuwenden.
 
 
 ## Abschnitt 2 - Durchführung des Musterverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNG000200000)
 
 
 ### § 9 Eröffnung des Musterverfahrens; Bestimmung des Musterklägers
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001000000)
 
 (1) Das Oberlandesgericht eröffnet das Musterverfahren durch
 unanfechtbaren Beschluss (Eröffnungsbeschluss), soweit eine
@@ -399,6 +410,7 @@ eines Anspruchs zum Musterverfahren (§ 13) zu belehren.
 
 
 ### § 10 Aussetzung von Ausgangsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001100000)
 
 (1) Nach Bekanntmachung des Eröffnungsbeschlusses setzt das
 Prozessgericht ein nach § 6 unterbrochenes Ausgangsverfahren von Amts
@@ -427,6 +439,7 @@ Aussetzung des von ihnen geführten Ausgangsverfahrens befindet.
 
 
 ### § 11 Beteiligte des Musterverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001200000)
 
 (1) Beteiligte des Musterverfahrens sind:
 
@@ -462,6 +475,7 @@ Musterkläger das Musterverfahren nicht angemessen führt.
 
 
 ### § 12 Erweiterung des Musterverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001300000)
 
 (1) Nach Bekanntmachung des Eröffnungsbeschlusses können Beteiligte
 des Musterverfahrens jeweils eine Erweiterung des Musterverfahrens um
@@ -500,6 +514,7 @@ Musterverfahrensregister öffentlich bekannt.
 
 
 ### § 13 Anmeldung eines Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001400000)
 
 (1) Binnen sechs Monaten ab Bekanntmachung des Eröffnungsbeschlusses
 kann gegenüber dem Oberlandesgericht ein Anspruch zum Musterverfahren
@@ -532,6 +547,7 @@ zuzustellen.
 
 
 ### § 14 Allgemeine Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001500000)
 
 (1) Auf das erstinstanzliche Musterverfahren sind die im ersten
 Rechtszug für das Verfahren vor den Landgerichten geltenden
@@ -548,6 +564,7 @@ Bekanntmachung und Terminstag müssen mindestens zwei Wochen liegen.
 
 
 ### § 15 Elektronische Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001600000)
 
 Abweichend von § 298a Absatz 1a Satz 1 der Zivilprozessordnung werden
 die Prozessakten des erstinstanzlichen Musterverfahrens ab dem 1.
@@ -555,6 +572,7 @@ Januar 2025 elektronisch geführt.
 
 
 ### § 16 Vorbereitung des Termins; Schriftsätze
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001700000)
 
 (1) Zur Vorbereitung des Termins kann der Vorsitzende oder ein von ihm
 bestimmtes Mitglied des Senats den Beigeladenen die Ergänzung des
@@ -578,6 +596,7 @@ elektronisches Informations- und Kommunikationssystem bestimmen.
 
 
 ### § 17 Vorlage von Beweismitteln
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001800000)
 
 (1) Auf Antrag des Musterklägers ordnet das Oberlandesgericht an, dass
 ein Musterbeklagter oder ein Dritter in seinem Besitz befindliche
@@ -645,6 +664,7 @@ Verfahren gegen Unternehmen nicht anzuwenden.
 
 
 ### § 18 Klagerücknahme; Neubestimmung des Musterklägers; Verfahrensbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE001900000)
 
 (1) Der Musterkläger und die Beigeladenen können ihre jeweilige Klage
 im Ausgangsverfahren innerhalb von einem Monat ab Zustellung des
@@ -712,6 +732,7 @@ unverzüglich im Musterverfahrensregister öffentlich bekannt.
 
 
 ### § 19 Musterentscheid
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002000000)
 
 (1) Das Oberlandesgericht erlässt auf Grund mündlicher Verhandlung den
 Musterentscheid durch Beschluss. Der Musterentscheid wird den
@@ -723,6 +744,7 @@ Prozessgericht.
 
 
 ### § 20 Vergleichsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002100000)
 
 (1) Der Musterkläger und die Musterbeklagten können einen
 gerichtlichen Vergleich dadurch schließen, dass sie
@@ -758,6 +780,7 @@ enthalten:
 
 
 ### § 21 Genehmigung und Wirksamkeit des Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002200000)
 
 (1) Das Gericht genehmigt den Vergleich durch unanfechtbaren
 Beschluss, wenn es ihn unter Berücksichtigung des bisherigen Sach- und
@@ -774,6 +797,7 @@ Vergleich erklären.
 
 
 ### § 22 Zustellung des Vergleichs; Austritt
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002300000)
 
 (1) Der genehmigte Vergleich wird den Beigeladenen zugestellt. Die
 Zustellung kann durch öffentliche Bekanntmachung im
@@ -800,6 +824,7 @@ belehren über
 
 
 ### § 23 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002400000)
 
 (1) Gegen den Musterentscheid findet die Rechtsbeschwerde statt. Die
 Sache hat stets grundsätzliche Bedeutung im Sinne des § 574 Absatz 2
@@ -840,6 +865,7 @@ Bekanntmachung im Musterverfahrensregister ersetzt werden.
 
 
 ### § 24 Musterrechtsbeschwerdeführer
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002500000)
 
 (1) Legt der Musterkläger Rechtsbeschwerde gegen den Musterentscheid
 ein, so führt er das Musterverfahren als Musterrechtsbeschwerdeführer
@@ -871,9 +897,11 @@ verzichten ebenfalls auf die Fortführung der Rechtsbeschwerde.
 
 
 ## Abschnitt 3 - Wirkung des Musterentscheids und des Vergleichs; Kosten
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNG000300000)
 
 
 ### § 25 Wirkung des Musterentscheids
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002600000)
 
 (1) Der Musterentscheid bindet die Prozessgerichte in allen nach § 10
 ausgesetzten Ausgangsverfahren. Unbeschadet des Absatzes 3 wirkt der
@@ -915,6 +943,7 @@ dem Rechtsbeschwerdeverfahren nicht beigetreten sind.
 
 
 ### § 26 Wirkung des Vergleichs
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002700000)
 
 (1) Das Gericht stellt durch unanfechtbaren Beschluss fest, ob der
 genehmigte Vergleich wirksam geworden ist. Das Gericht macht den
@@ -941,6 +970,7 @@ gerichtet, so ist die Klageänderung zulässig.
 
 
 ### § 27 Gegenstand der Kostenentscheidung im Ausgangsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002800000)
 
 (1) Die dem Musterkläger und den Beigeladenen im erstinstanzlichen
 Musterverfahren entstehenden Kosten gelten als Teil der Kosten des
@@ -968,6 +998,7 @@ Voraussetzungen zurückgenommen worden ist.
 
 
 ### § 28 Verstoß gegen die Vorlage- und Eröffnungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE002900000)
 
 Das Rechtsmittel gegen die verfahrensabschließende Entscheidung des
 Prozessgerichts im Ausgangsverfahren kann nicht darauf gestützt
@@ -978,6 +1009,7 @@ Eröffnungsbeschlusses nicht vorgelegen haben.
 
 
 ### § 29 Kostenentscheidung im Rechtsbeschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE003000000)
 
 (1) Die Kosten einer ohne Erfolg eingelegten Rechtsbeschwerde haben
 nach dem Grad ihrer Beteiligung der Musterrechtsbeschwerdeführer und
@@ -1018,9 +1050,11 @@ Feststellungszielen des Musterverfahrens betroffen sind, ergibt.
 
 
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNG000400000)
 
 
 ### § 30 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE003100000)
 
 (1) Auf Musterverfahren, in denen vor dem 1. November 2012 bereits
 mündlich verhandelt worden ist, ist das Kapitalanleger-
@@ -1034,6 +1068,7 @@ geltenden Fassung weiterhin anzuwenden.
 
 
 ### § 31 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/kapmug_2024/BJNR0F00B0024.html#BJNR0F00B0024BJNE003200000)
 
 Dieses Gesetz ist fünf Jahre nach dem Inkrafttreten zu evaluieren.
 

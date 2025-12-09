@@ -28,6 +28,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000100000)
 
 Auf Grund des § 23 Absatz 1 in Verbindung mit § 48b sowie des § 59 des
 Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom
@@ -37,9 +38,11 @@ Bundestages:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000302116)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Feuerungsanlagen, die keiner Genehmigung nach § 4 des
@@ -89,6 +92,7 @@ einsetzen, anwendbar.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000400000)
 
 In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -229,6 +233,7 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ### § 3 Brennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000500000)
 
 (1) In Feuerungsanlagen nach § 1 dürfen nur die folgenden Brennstoffe
 eingesetzt werden:
@@ -353,9 +358,11 @@ Anforderungen erfüllen:
 
 
 ## Abschnitt 2 - Feuerungsanlagen für feste Brennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000200000)
 
 
 ### § 4 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000600000)
 
 (1) Feuerungsanlagen für feste Brennstoffe dürfen nur betrieben
 werden, wenn sie sich in einem ordnungsgemäßen technischen Zustand
@@ -424,6 +431,7 @@ lassen.
 
 
 ### § 5 Feuerungsanlagen mit einer Nennwärmeleistung von 4 Kilowatt oder mehr
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000700000)
 
 (1) Feuerungsanlagen für feste Brennstoffe mit einer Nennwärmeleistung
 von 4 Kilowatt oder mehr, ausgenommen Einzelraumfeuerungsanlagen, sind
@@ -629,9 +637,11 @@ für
 
 
 ## Abschnitt 3 - Öl- und Gasfeuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000300000)
 
 
 ### § 6 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000801116)
 
 (1) Öl- und Gasfeuerungsanlagen zur Beheizung von Gebäuden oder Räumen
 mit Wasser als Wärmeträger und einer Feuerungswärmeleistung unter 1
@@ -723,6 +733,7 @@ werden.
 
 
 ### § 7 Ölfeuerungsanlagen mit Verdampfungsbrenner
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE000900000)
 
 Ölfeuerungsanlagen mit Verdampfungsbrenner sind so zu errichten und zu
 betreiben, dass
@@ -751,6 +762,7 @@ von Satz 1 Nummer 1 die Rußzahl 3 nicht überschritten werden.
 
 
 ### § 8 Ölfeuerungsanlagen mit Zerstäubungsbrenner
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001000000)
 
 Ölfeuerungsanlagen mit Zerstäubungsbrenner sind so zu errichten und zu
 betreiben, dass
@@ -782,6 +794,7 @@ geändert.
 
 
 ### § 9 Gasfeuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001100000)
 
 (1) Für Feuerungsanlagen, die regelmäßig mit Gasen der öffentlichen
 Gasversorgung und während höchstens 300 Stunden im Jahr mit Heizöl EL
@@ -796,6 +809,7 @@ werden.
 
 
 ### § 10 Begrenzung der Abgasverluste
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001200000)
 
 (1) Bei Öl- und Gasfeuerungsanlagen dürfen die nach dem Verfahren der
 Anlage 2 Nummer 3.4 für die Feuerstätte ermittelten Abgasverluste die
@@ -859,13 +873,16 @@ oder der jeweiligen Bauart entsprechen.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001301116)
 
 
 
 ## Abschnitt 4 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000400000)
 
 
 ### § 12 Messöffnung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001400000)
 
 Der Betreiber einer Feuerungsanlage, für die nach den §§ 14 und 15
 Messungen von einer Schornsteinfegerin oder einem Schornsteinfeger
@@ -878,6 +895,7 @@ zuständigen Behörde die Herstellung einer Messöffnung zu gestatten.
 
 
 ### § 13 Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001501116)
 
 (1) Messungen zur Feststellung der Emissionen und der Abgasverluste
 müssen unter Einsatz von Messverfahren und Messeinrichtungen
@@ -892,6 +910,7 @@ einer nach Landesrecht zuständigen Behörde bekannt gegebenen Stelle zu
 
 
 ### § 14 Überwachung neuer und wesentlich geänderter Feuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001602116)
 
 (1) Der Betreiber hat die Einhaltung der Anforderungen des § 19 vor
 der Inbetriebnahme der Anlage von einer Schornsteinfegerin oder einem
@@ -945,6 +964,7 @@ lassen. Das Schornsteinfeger-Handwerksgesetz vom 26. November 2008
 
 
 ### § 15 Wiederkehrende Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001700000)
 
 (1) Der Betreiber einer Feuerungsanlage für den Einsatz der in § 3
 Absatz 1 Nummer 1 bis 8 und 13 genannten Brennstoffe mit einer
@@ -1000,6 +1020,7 @@ einem Schornsteinfeger durch Messungen feststellen zu lassen.
 
 
 ### § 16 Zusammenstellung der Messergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001802116)
 
 Der Bezirksschornsteinfegermeister meldet die Ergebnisse der Messungen
 nach den §§ 14 und 15 kalenderjährlich nach näherer Weisung der Innung
@@ -1018,6 +1039,7 @@ zum 30. Juni des folgenden Jahres vor.
 
 
 ### § 17 Eigenüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE001902116)
 
 (1) Die Aufgaben der Schornsteinfegerinnen und der Schornsteinfeger
 und der Bezirksschornsteinfegermeister nach den §§ 14 bis 16 werden
@@ -1044,13 +1066,16 @@ nach § 16 Satz 2 und 3 mit.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002001116)
 
 
 
 ## Abschnitt 5 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000500000)
 
 
 ### § 19 Ableitbedingungen für Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002102116)
 
 (1) Bei einer Feuerungsanlage für feste Brennstoffe, die nach dem 31.
 Dezember 2021 errichtet wird, ist der Schornstein so auszuführen, dass
@@ -1157,6 +1182,7 @@ wird.
 
 
 ### § 20 Anzeige und Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002201116)
 
 Der Betreiber einer Feuerungsanlage hat dafür Sorge zu tragen, dass
 die Nachweise über die Durchführung aller von einer Schornsteinfegerin
@@ -1167,6 +1193,7 @@ Kehrbuch einzutragen.
 
 
 ### § 21 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002300000)
 
 Die Befugnis der zuständigen Behörde, auf Grund der §§ 24 und 25 des
 Bundes-Immissionsschutzgesetzes andere oder weiter gehende Anordnungen
@@ -1174,6 +1201,7 @@ zu treffen, bleibt unberührt.
 
 
 ### § 22 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002401116)
 
 Die zuständige Behörde kann auf Antrag Ausnahmen von den Anforderungen
 der §§ 3 bis 10, 19, 25 und 26 zulassen, soweit diese im Einzelfall
@@ -1183,6 +1211,7 @@ Umwelteinwirkungen nicht zu befürchten sind.
 
 
 ### § 23 Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002500000)
 
 DIN-, DIN EN-Normen sowie die VDI-Richtlinien, auf die in dieser
 Verordnung verwiesen wird, sind bei der Beuth Verlag GmbH, Berlin,
@@ -1195,6 +1224,7 @@ Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 ### § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002601116)
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1267,9 +1297,11 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 6 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000600000)
 
 
 ### § 25 Übergangsregelung für Feuerungsanlagen für feste Brennstoffe, ausgenommen Einzelraumfeuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002700000)
 
 (1) Bestehende Feuerungsanlagen, ausgenommen
 Einzelraumfeuerungsanlagen, für feste Brennstoffe dürfen nur
@@ -1507,6 +1539,7 @@ Absatz 1 Satz 2 bleibt unberührt.
 
 
 ### § 26 Übergangsregelung für Einzelraumfeuerungsanlagen für feste Brennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002800000)
 
 (1) Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem 22.
 März 2010 errichtet und in Betrieb genommen wurden, dürfen nur
@@ -1633,6 +1666,7 @@ anderen Schornsteinfegerarbeiten beraten lassen.
 
 
 ### § 27 Übergangsregelung für Schornsteinfegerarbeiten nach dem 1. Januar 2013
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE002900000)
 
 An die Stelle der Bezirksschornsteinfegermeister treten ab dem 1.
 Januar 2013 die bevollmächtigten Bezirksschornsteinfeger nach § 48
@@ -1640,9 +1674,11 @@ Satz 1 des Schornsteinfeger-Handwerksgesetzes.
 
 
 ## Abschnitt 7 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNG000700000)
 
 
 ### § 28 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE003000000)
 
 Diese Verordnung tritt am 22. März 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über kleine und mittlere Feuerungsanlagen in der
@@ -1652,12 +1688,14 @@ zuletzt durch Artikel 4 der Verordnung vom 14. August 2003 (BGBl I
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE003100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 12)
 
 ### Anlage 1 Messöffnung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE003200000)
 
 (Fundstelle: BGBl. I 2010, 50)
 
@@ -1687,6 +1725,7 @@ Der Bundesrat hat zugestimmt.
 2)
 
 ### Anlage 2 Anforderungen an die Durchführung der Messungen im Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE003301116)
 
 (Fundstelle: BGBl. I 2010, 51 - 53)
 
@@ -2096,6 +2135,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 2 Nummer 11, § 6)
 
 ### Anlage 3 Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE003400000)
 
 (Fundstelle: BGBl. I 2010, 54)
 
@@ -2165,6 +2205,7 @@ Der Bundesrat hat zugestimmt.
 Nummer 2, Absatz 6)
 
 ### Anlage 4 Anforderungen bei der Typprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html#BJNR003800010BJNE003500000)
 
 (Fundstelle: BGBl. I 2010, 55 - 56)
 

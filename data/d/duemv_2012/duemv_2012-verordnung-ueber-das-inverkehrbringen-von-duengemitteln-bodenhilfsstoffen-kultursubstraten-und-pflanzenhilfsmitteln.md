@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000100000)
 
 Auf Grund des § 5 Absatz 2 in Verbindung mit Absatz 3, des § 5 Absatz
 5 Satz 1 Nummer 1, des § 7, des § 8 Absatz 1, des § 9 und des § 15
@@ -38,6 +39,7 @@ Verbraucherschutz:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000301119)
 
 Im Sinne dieser Verordnung sind:
 
@@ -232,6 +234,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000401119)
 
 (1) Diese Verordnung gilt für das Inverkehrbringen von Düngemitteln,
 die nicht als EG-Düngemittel bezeichnet sind, sowie von
@@ -254,6 +257,7 @@ Anteilseigner oder alleinigem Gesellschafter beherrscht wird.
 
 
 ## § 3 Zulassung von Düngemitteltypen
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000502119)
 
 (1) Düngemittel dürfen vorbehaltlich des § 5 Absatz 1 des
 Düngegesetzes nur in den Verkehr gebracht werden, wenn sie einem durch
@@ -372,6 +376,7 @@ zugelassen, dass
 
 
 ## § 4 Inverkehrbringen von Wirtschaftsdüngern, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000602119)
 
 (1) Wirtschaftsdünger, soweit diese nicht als Düngemittel nach Anlage
 1 Abschnitt 3 in den Verkehr gebracht werden, sowie Bodenhilfsstoffe,
@@ -611,6 +616,7 @@ untersagen.
 
 
 ## § 5 Anforderungen an die Seuchen- und Phytohygiene
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000701119)
 
 (1) Die Erfüllung der Anforderungen nach § 3 Absatz 1 Nummer 1 und
 nach § 4 Absatz 1 Nummer 1 setzt voraus, dass keine Krankheitserreger,
@@ -701,6 +707,7 @@ Landwirte ausgebracht werden.
 
 
 ## § 6 Anforderungen an die Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000802119)
 
 (1) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und
 Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
@@ -1060,6 +1067,7 @@ wird.
 
 
 ## § 7 Kennzeichnung bei EG-Düngemitteln
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE000900000)
 
 Wer ein Düngemittel mit der Bezeichnung „EG-Düngemittel“ in den
 Verkehr bringt, hat dafür zu sorgen, dass das Düngemittel entsprechend
@@ -1070,6 +1078,7 @@ Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom
 
 
 ## § 7a Kennzeichnung bei Inverkehrbringen nach § 5 Absatz 1 Satz 2 des Düngegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001800119)
 
 Wer Düngemittel, Bodenhilfsstoffe, Kultursubstrate oder
 Pflanzenhilfsmittel nach § 5 Absatz 1 Satz 2 des Düngegesetzes in den
@@ -1093,6 +1102,7 @@ werden.
 
 
 ## § 8 Toleranzen
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001000000)
 
 (1) Toleranzen gelten für gekennzeichnete Gehalte, Nährstoffformen
 oder Nährstofflöslichkeiten, sie gelten nicht für festgesetzte oder in
@@ -1172,6 +1182,7 @@ unterschreiten.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001102124)
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe e des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3
@@ -1195,6 +1206,7 @@ Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 9a Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001700124)
 
 Das Bundesministerium für Ernährung und Landwirtschaft überprüft bis
 zum 31. Dezember 2019 unter Berücksichtigung der neuesten
@@ -1206,6 +1218,7 @@ Zwecken erforderlich ist.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001203119)
 
 (1) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und
 Pflanzenhilfsmittel, die hinsichtlich der Kennzeichnung nach § 6 den
@@ -1267,6 +1280,7 @@ bis zum Ablauf des 31. Dezember 2020 in den Verkehr gebracht werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Düngemittelverordnung vom 16. Dezember 2008
@@ -1275,12 +1289,14 @@ April 2012 (BGBl. I S. 611) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Nummer 11, § 3 Absatz 1, § 6 Absatz 3, § 8 Absatz 3 und 4)
 
 ## Anlage 1 Definition von Düngemitteltypen
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001501119)
 
 (Fundstelle: BGBl. I 2012, 2490 - 2511; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -4363,6 +4379,7 @@ werden.
 1, 2, 5, 6 und 7, § 8 Absatz 3 und 4, § 10)
 
 ## Anlage 2 Tabellen
+[Direktlink](https://www.gesetze-im-internet.de/d_mv_2012/BJNR248200012.html#BJNR248200012BJNE001603119)
 
 (Fundstelle: BGBl. I 2012, 2512 - 2544)
 

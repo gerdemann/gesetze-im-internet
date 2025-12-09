@@ -21,6 +21,7 @@ Ano für strom u. gas aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000100326)
 
 Um die Versorgungsunternehmen von betriebsfremden Ausgaben zu
 entlasten und eine fortschreitende Verbilligung von Elektrizität, Gas
@@ -31,6 +32,7 @@ Zustimmung des Beauftragten für den Vierjahresplan angeordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000200326)
 
 (1) Von der Verkündung dieser Anordnung ab dürfen Konzessionsabgaben
 von Unternehmen und Betrieben zur Versorgung mit Elektrizität, Gas
@@ -46,6 +48,7 @@ Vorschriften des § 3 bleiben unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000300326)
 
 (1) Vom 1. April 1941 ab werden Konzessionsabgaben von
 Versorgungsunternehmen an Gemeinden auf folgende Höchstsätze
@@ -116,6 +119,7 @@ Ergebnis der Volkszählung vom 17. Mai 1939 auszugehen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000400326)
 
 (1) Konzessionsabgaben, die nach den vorstehenden Bestimmungen
 kreisangehörigen Gemeinden weitergewährt werden dürfen, dürfen statt
@@ -141,6 +145,7 @@ oder gleichgestellten Zusammenschlüssen sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000500326)
 
 (1) Soweit Konzessionsabgaben nach dem 31. März 1941 weitererhoben
 werden dürfen, sind sie nach Hundertsätzen der Entgelte aus
@@ -163,6 +168,7 @@ Wiederverkäufer von Elektrizität, Gas oder Wasser erzielt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000600326)
 
 (1) Konzessionsabgaben, deren Forterhebung nach den §§ 2 oder 3
 zulässig ist, dürfen nur insoweit an die Gemeinde oder den Landkreis
@@ -215,6 +221,7 @@ ausreichen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000700326)
 
 (1) Vom 1. April 1941 ab dürfen Gemeinden, Gemeindeverbände oder
 Zweckverbände Finanzzuschläge oder sonstige Leistungen (z.B.
@@ -250,6 +257,7 @@ wesentlich abweichen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000800326)
 
 (1) Ist zweifelhaft, inwieweit Leistungen eines
 Versorgungsunternehmens an eine Gemeinde, einen Gemeindeverband oder
@@ -266,6 +274,7 @@ einer von ihm bestimmten Frist zu keiner Einigung kommen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE000900326)
 
 (1) Bei Übernahme der Versorgung durch ein anderes Unternehmen darf
 höchstens die bisherige, nach den Vorschriften dieser Anordnung
@@ -291,6 +300,7 @@ aufnehmende Gemeinde.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE001000326)
 
 (1) Die Erhebung von Konzessionsabgaben nach Maßgabe der §§ 2 und 3
 dieser Anordnung wird nicht dadurch ausgeschlossen, daß die
@@ -302,6 +312,7 @@ vereinbarten Konzessionsabgabe erteilt hatte.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE001100326)
 
 Durch den Wegfall oder die Herabsetzung von Konzessionsabgaben nach
 Maßgabe dieser Anordnung werden die Gültigkeit und die sonstigen
@@ -309,6 +320,7 @@ Bestimmungen eines Konzessionsvertrags nicht berührt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE001200326)
 
 Der
 Reichskommissar für die Preisbildung erläßt die zur Durchführung ...
@@ -318,6 +330,7 @@ für den Einzelfall.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE001300326)
 
 (1) Die Anordnung tritt am Tage der Verkündung in Kraft.
 
@@ -325,6 +338,7 @@ für den Einzelfall.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/k_ano/BJNR505700941.html#BJNR505700941BJNE001400326)
 
 Der Reichskommissar für die Preisbildung
 

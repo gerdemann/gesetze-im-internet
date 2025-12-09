@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsvergbrv/BJNR148300012.html#BJNR148300012BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -28,6 +29,7 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsvergbrv/BJNR148300012.html#BJNR148300012BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und dem Vereinigten Königreich
@@ -38,6 +40,7 @@ Einkommen und vom Vermögen vom 30. März 2010 (BGBl. 2010 II S. 1333,
 
 
 ## § 2 Abfindungen an Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/konsvergbrv/BJNR148300012.html#BJNR148300012BJNE000300000)
 
 (1) Die einheitliche Anwendung und Auslegung des Abkommens
 hinsichtlich der Besteuerung von Abfindungen an Arbeitnehmer auf Grund
@@ -76,17 +79,20 @@ Abkommens genannten Einkünfte nicht anzuwenden.
 
 
 ## § 3 Anwendungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/konsvergbrv/BJNR148300012.html#BJNR148300012BJNE000400000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem
 29\. Dezember 2011 anzuwenden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsvergbrv/BJNR148300012.html#BJNR148300012BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsvergbrv/BJNR148300012.html#BJNR148300012BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

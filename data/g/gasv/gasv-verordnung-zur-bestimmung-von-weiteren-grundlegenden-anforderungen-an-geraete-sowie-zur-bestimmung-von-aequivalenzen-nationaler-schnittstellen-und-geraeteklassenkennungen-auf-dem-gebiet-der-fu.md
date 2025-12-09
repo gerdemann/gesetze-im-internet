@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gasv/BJNR039800002.html#BJNR039800002BJNE000100305)
 
 Auf Grund des § 3 Abs. 3 und des § 4 Abs. 2 des Gesetzes über
 Funkanlagen und Telekommunikationsendeinrichtungen vom 31. Januar 2001
@@ -30,6 +31,7 @@ Technologie:
 
 
 ## § 1 Weitere grundlegende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gasv/BJNR039800002.html#BJNR039800002BJNE000200305)
 
 Als weitere grundlegende Anforderungen werden die von der Europäischen
 Kommission festgestellten und in Anlage 1 aufgeführten Anforderungen
@@ -37,6 +39,7 @@ bestimmt.
 
 
 ## § 2 Äquivalenzen von Schnittstellen und Geräteklassenkennungen
+[Direktlink](https://www.gesetze-im-internet.de/gasv/BJNR039800002.html#BJNR039800002BJNE000300305)
 
 Die von der Europäischen Kommission festgestellten Äquivalenzen
 nationaler Schnittstellen sowie die von ihr vergebenen
@@ -44,11 +47,13 @@ Geräteklassenkennungen werden nach Anlage 2 bestimmt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gasv/BJNR039800002.html#BJNR039800002BJNE000400305)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/gasv/BJNR039800002.html#BJNR039800002BJNE000503311)
 
 (Fundstelle: BGBl. I 2014, 313)
 
@@ -113,6 +118,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/gasv/BJNR039800002.html#BJNR039800002BJNE000602301)
 
 (Fundstelle: BGBl. I 2006, 1435)
 

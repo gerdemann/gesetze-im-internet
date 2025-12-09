@@ -25,9 +25,11 @@ EU 2006 Nr. L 10 S. 16).
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000102125)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000305125)
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -147,12 +149,15 @@ EU 2006 Nr. L 10 S. 16).
 
 
 ## Abschnitt 2 - Schutzmaßregeln bei gehaltenen Vögeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000202125)
 
 
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000302125)
 
 
 #### § 2 Anzeige, Register und Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000404125)
 
 (1) Wer Geflügel halten will, hat der zuständigen Behörde zusätzlich
 zu den Angaben nach § 26 Absatz 1 Satz 1 der Viehverkehrsverordnung
@@ -220,6 +225,7 @@ sind der zuständigen Behörde auf Verlangen vorzulegen.
 
 
 #### § 3 Fütterung und Tränkung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000503125)
 
 Wer Geflügel hält, hat sicherzustellen, dass
 
@@ -239,6 +245,7 @@ Wer Geflügel hält, hat sicherzustellen, dass
 
 
 #### § 4 Früherkennung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000603125)
 
 (1) Treten innerhalb von 24 Stunden in einem Bestand oder einem
 räumlich abgegrenzten Teil eines Bestandes Verluste von
@@ -280,6 +287,7 @@ Untersuchungen ausschließen zu lassen.
 
 
 #### § 5 Schutzkleidung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000703125)
 
 Der Tierhalter hat sicherzustellen, dass jede Person, die Geflügel
 impft oder gewerbsmäßig in einer Geflügelhaltung tätig ist,
@@ -294,6 +302,7 @@ Einwegschutzkleidung, unverzüglich unschädlich beseitigt wird.
 
 
 #### § 6 Weitere allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000803125)
 
 (1) Werden in einem Geflügelbestand mehr als
 1 000 Stück Geflügel gehalten, so hat der Tierhalter sicherzustellen,
@@ -373,6 +382,7 @@ werden.
 
 
 #### § 7 Geflügelausstellungen und Geflügelmärkte
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE000906125)
 
 (1) Eine Geflügelausstellung, ein Geflügelmarkt oder eine
 Veranstaltung ähnlicher Art darf nur durchgeführt werden, soweit der
@@ -485,6 +495,7 @@ Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 8 Schutzimpfungen und Heilversuche
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001005125)
 
 (1) Schutzimpfungen gegen die Geflügelpest und die niedrigpathogene
 aviäre Influenza der Subtypen H5 und H7 sind, vorbehaltlich der
@@ -599,6 +610,7 @@ die Kommission einen Impfplan, der folgende Angaben enthalten muss:
 
 
 #### § 9 Durchführung der Schutzimpfung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001102125)
 
 (1) Schutzimpfungen sind so durchzuführen, dass
 
@@ -632,6 +644,7 @@ Kalendermonats, in dem die Schutzimpfung beendet worden ist.
 
 
 #### § 10 Untersuchungen im Falle der Schutzimpfung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001203125)
 
 (1) Der Inhaber einer Genehmigung nach § 8 Absatz 3 Nummer 1 hat
 Untersuchungen nach Maßgabe der Genehmigung durchführen zu lassen. Die
@@ -676,6 +689,7 @@ worden sind.
 
 
 #### § 11 Maßregeln für das Verbringen geimpfter Vögel
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001303125)
 
 (1) In der Zeit vom Beginn der Schutzimpfung bis zur Beendigung der
 Untersuchungen nach § 10 Absatz 1 Satz 1 oder Absatz 2 Nummer 3
@@ -732,6 +746,7 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 #### § 12 Maßregeln bei Feststellung von Geflügelpest oder niedrigpathogener aviärer Influenza bei geimpften Vögeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001402125)
 
 Wird nach einer virologischen Untersuchung nach § 10 Absatz 1 Satz 1
 oder Absatz 2 Nummer 2 bei einem geimpften Vogel
@@ -749,9 +764,11 @@ nach den §§ 46 bis 51 Anwendung.
 
 
 ### Unterabschnitt 2 - Aufstallung, Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000404125)
 
 
 #### § 13 Aufstallung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001505125)
 
 (1) Die zuständige Behörde ordnet eine Aufstallung des Geflügels
 
@@ -904,6 +921,7 @@ Hühnern und Puten nach Absatz 4 Satz 3 gilt § 7 Absatz 3 entsprechend.
 
 
 #### § 14 Weitere Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001604125)
 
 (1) Die zuständige Behörde kann, soweit dies aus Gründen der
 Tierseuchenbekämpfung erforderlich ist, anordnen, dass
@@ -959,6 +977,7 @@ sind.
 
 
 #### § 14a Abgabe im Reisegewerbe
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE007601125)
 
 (1) Die zuständige Behörde kann, soweit dies aus Gründen der
 Tierseuchenbekämpfung erforderlich ist, anordnen, dass Geflügel
@@ -989,12 +1008,15 @@ zur Schlachtung verbracht wird.
 
 
 ### Unterabschnitt 3 - Schutzmaßregeln bei Geflügelpest
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000502125)
 
 
 #### Teil 1 - Vor amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000602125)
 
 
 ##### § 15 Verdachtsbestand
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001705125)
 
 (1) Im Falle des Verdachts auf Geflügelpest bei einem gehaltenen Vogel
 in einem Geflügelbestand oder einer sonstigen Vogelhaltung
@@ -1250,6 +1272,7 @@ werden.
 
 
 ##### § 16 Anordnung für weitere Bestände
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001802125)
 
 Die zuständige Behörde kann, soweit es aus Gründen der
 Tierseuchenbekämpfung erforderlich ist, für weitere Bestände Maßregeln
@@ -1260,6 +1283,7 @@ Vögel aus einem Verdachtsbestand eingestellt worden sind.
 
 
 ##### § 17 Überwachungszone
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE001902125)
 
 (1) Hat die zuständige Behörde eine Anordnung nach § 15 Absatz 1 Satz
 1 getroffen, kann sie zusätzlich, soweit es aus Gründen der
@@ -1311,9 +1335,11 @@ Tierseuchenbekämpfung erforderlich, wenn
 
 
 #### Teil 2 - Nach amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000702125)
 
 
 ##### § 18 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002002125)
 
 Die zuständige Behörde macht den Ausbruch der Geflügelpest sowie den
 Zeitpunkt ihrer mutmaßlichen Einschleppung in den betroffenen
@@ -1322,6 +1348,7 @@ Geflügelbestand oder die betroffene sonstige Vogelhaltung
 
 
 ##### § 19 Schutzmaßregeln für den Seuchenbestand
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002105125)
 
 (1) Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt,
 so ordnet die zuständige Behörde in Bezug auf den Seuchenbestand an
@@ -1467,6 +1494,7 @@ negativem Ergebnis auf Geflügelpest untersucht worden sind.
 
 
 ##### § 20 Schutzmaßregeln in besonderen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002203125)
 
 (1) Die zuständige Behörde kann, vorbehaltlich des Absatzes 2, bei
 Geflügelpest in einem zoologischen Garten oder einer ähnlichen
@@ -1573,6 +1601,7 @@ Ausnahmegenehmigung mit.
 
 
 ##### § 21 Schutzmaßregeln in Bezug auf den Sperrbezirk
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002305125)
 
 (1) Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt,
 so legt die zuständige Behörde ein Gebiet um den Seuchenbestand mit
@@ -1739,6 +1768,7 @@ Ferner gilt Satz 1 Nummer 5 nicht
 
 
 ##### § 22 Ausnahmen von der Sperrbezirksregelung für gehaltene Vögel
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002404125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1
 Nummer 1 genehmigen für das Verbringen von Geflügel, ausgenommen
@@ -1934,6 +1964,7 @@ Bestand gehaltenem Geflügel in Kontakt gekommen sind.
 
 
 ##### § 23 Ausnahmen von der Sperrbezirksregelung für Bruteier und Konsumeier
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002504125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1
 Nummer 1 für das Verbringen von Bruteiern genehmigen
@@ -2004,6 +2035,7 @@ sichergestellt ist, dass die Konsumeier
 
 
 ##### § 24 Ausnahmen von der Sperrbezirksregelung für Fleisch von Geflügel und Federwild
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002603125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1
 Nummer 1 für das Verbringen von frischem Fleisch von Geflügel und
@@ -2052,6 +2084,7 @@ Satz 1 Nummer 1 genehmigen für das Verbringen von
 
 
 ##### § 25 Ausnahmen von der Sperrbezirksregelung für tierische Nebenprodukte
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002704125)
 
 Abweichend von § 21 Absatz 6 Satz 1 Nummer 1 dürfen
 
@@ -2129,6 +2162,7 @@ gewerblichen Zwecken zugesandt werden.
 
 
 ##### § 26 Reinigung und Desinfektion von Transportfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002803125)
 
 Transportfahrzeuge, mit denen
 
@@ -2151,6 +2185,7 @@ zuständigen Behörde zu reinigen oder zu desinfizieren.
 
 
 ##### § 27 Schutzmaßregeln in Bezug auf das Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE002906125)
 
 (1) Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt,
 legt die zuständige Behörde um den den Seuchenbestand umgebenden
@@ -2202,6 +2237,7 @@ soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 
 ##### § 28 Ausnahmen von der Beobachtungsgebietsregelung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003004125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 27 Absatz 4 Nummer 1
 genehmigen für das Verbringen von Geflügel von außerhalb des
@@ -2318,6 +2354,7 @@ Nummer 1 genehmigen für das Verbringen von
 
 
 ##### § 29 Weitere Ausnahmen von der Beobachtungsgebietsregelung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003103125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 27 Absatz 4 Nummer 1
 genehmigen für das Verbringen von
@@ -2387,6 +2424,7 @@ entsprechend.
 
 
 ##### § 30 Schutzmaßregeln in Bezug auf die Kontrollzone
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003205125)
 
 (1) Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt,
 kann die zuständige Behörde zusätzlich zum Sperrbezirk und zum
@@ -2484,6 +2522,7 @@ sind die jeweils strengeren Schutzregeln anzuwenden.
 
 
 ##### § 31 Ausnahmen von der Kontrollzonenregelung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003304125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 30 Absatz 3 Satz 1
 Nummer 1 oder Satz 2 Nummer 1 genehmigen für das Verbringen von
@@ -2550,6 +2589,7 @@ Entscheidung 2006/415/EG der Kommission“.
 
 
 ##### § 32 Weitere Ausnahmen von der Kontrollzonenregelung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003403125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 30 Absatz 3 Satz 1
 Nummer 2 Buchstabe a genehmigen für das Verbringen von Bruteiern aus
@@ -2590,6 +2630,7 @@ entsprechend.
 
 
 ##### § 32a Schutzmaßregeln für Gebiete mit hoher Geflügeldichte
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE007503125)
 
 Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt, kann
 die zuständige Behörde nach Maßgabe der Sätze 2 und 3 anordnen, dass
@@ -2623,6 +2664,7 @@ Die Anordnung ist auf die erforderlichen Vogelarten zu beschränken.
 
 
 ##### § 33 Risikobewertung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003502125)
 
 Eine Genehmigung nach § 22 bis § 24, § 28, § 29, § 31 und § 32 darf
 nur erteilt werden, soweit sichergestellt ist, dass
@@ -2641,6 +2683,7 @@ nicht beeinträchtigt werden.
 
 
 ##### § 34 Seuchenausbruch in einem benachbarten Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003603125)
 
 Wird auf einem Gebiet eines benachbarten Mitgliedstaates oder
 Drittlandes der Verdacht auf Geflügelpest oder Geflügelpest innerhalb
@@ -2660,6 +2703,7 @@ Beobachtungsgebiet fest. Ferner kann sie nach Maßgabe
 
 
 ##### § 35 Schutzmaßregeln für den Kontaktbestand
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003703125)
 
 (1) Führen die epidemiologischen Nachforschungen nach § 15 Absatz 1
 Satz 2 Nummer 2 zu dem Ergebnis, dass die Geflügelpest aus einem
@@ -2698,6 +2742,7 @@ zuständige Behörde für diese Bestände oder sonstigen Vogelhaltungen
 
 
 ##### § 36 Notimpfungen nach Entscheidung der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003802125)
 
 (1) Die zuständige Behörde kann unter Beachtung einer Risikobewertung
 des Friedrich-Loeffler-Instituts für ein bestimmtes Gebiet
@@ -2751,6 +2796,7 @@ verbracht werden.
 
 
 ##### § 37 Ausnahmen für das Verbringen innerhalb des Impfgebiets
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE003902125)
 
 Die zuständige Behörde kann Ausnahmen von § 36 Absatz 3 Nummer 1
 genehmigen für das Verbringen innerhalb des Impfgebiets von
@@ -2835,6 +2881,7 @@ Geflügel gehalten wird.
 
 
 ##### § 38 Ausnahmen für das Verbringen aus dem Impfgebiet
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004002125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 36 Absatz 3 Nummer 1
 genehmigen für das Verbringen gehaltener Vögel aus einem im Impfgebiet
@@ -2944,6 +2991,7 @@ der Gewinnung von Fleisch von
 
 
 ##### § 39 Ausnahmen für das Verbringen von außerhalb des Impfgebiets
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004102125)
 
 Die zuständige Behörde kann Ausnahmen von § 36 Absatz 3 Nummer 3
 genehmigen für das Verbringen von
@@ -2996,6 +3044,7 @@ genehmigen für das Verbringen von
 
 
 ##### § 40 Untersuchungen im Falle der Notimpfung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004202125)
 
 Soweit eine Notimpfung nach § 36 Absatz 1 angeordnet worden ist, haben
 Tierhalter die im Impfgebiet gehaltenen Vögel nach Maßgabe des § 10
@@ -3005,6 +3054,7 @@ bekannt.
 
 
 ##### § 41 Schutzmaßregeln bei Feststellung der Geflügelpest bei notgeimpften Vögeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004302125)
 
 Wird nach einer virologischen Untersuchung nach § 40 Satz 1
 Geflügelpest amtlich festgestellt, finden die Maßregeln nach den §§ 18
@@ -3012,6 +3062,7 @@ bis 33 und 35 Anwendung.
 
 
 ##### § 42 Notimpfungen bei Gefahr im Verzuge
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004402125)
 
 Abweichend von § 36 Absatz 1 Nummer 1 kann die zuständige Behörde bei
 Gefahr im Verzuge eine Notimpfung anordnen, soweit
@@ -3029,9 +3080,11 @@ entsprechend.
 
 
 ### Unterabschnitt 4 - Schutzmaßregeln in Schlachtstätten, auf dem Transport und in Grenzkontrollstellen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000802125)
 
 
 #### § 43 Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004503125)
 
 (1) Im Falle des Verdachts auf Geflügelpest in einer Schlachtstätte,
 einem Transportmittel oder einer Grenzkontrollstelle ordnet die
@@ -3086,9 +3139,11 @@ Maßregeln nach § 15 an.
 
 
 ### Unterabschnitt 5 - Aufhebung, Wiederbelegung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG000902125)
 
 
 #### § 44 Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004605125)
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf,
 soweit
@@ -3192,6 +3247,7 @@ Untersuchung nicht bestätigt werden konnte.
 
 
 #### § 45 Wiederbelegung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004703125)
 
 (1) Geflügelbestände oder sonstige Vogelhaltungen, in denen
 Geflügelpest amtlich festgestellt worden ist und in denen die
@@ -3227,9 +3283,11 @@ entgegenstehen.
 
 
 ### Unterabschnitt 6 - Schutzmaßregeln bei niedrigpathogener aviärer Influenza
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001002125)
 
 
 #### § 46 Schutzmaßregeln für den Bestand
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004805125)
 
 (1) Ist niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 bei
 einem gehaltenen Vogel in einem Bestand oder einer sonstigen
@@ -3389,6 +3447,7 @@ Kontakt gekommen sind.
 
 
 #### § 47 Schutzmaßregeln in besonderen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE004904125)
 
 (1) Die zuständige Behörde kann, vorbehaltlich des Absatzes 2, nach
 amtlicher Feststellung der niedrigpathogenen aviären Influenza der
@@ -3434,6 +3493,7 @@ und soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 48 Schutzmaßregeln in Bezug auf das Sperrgebiet
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005006125)
 
 (1) Ist niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 bei
 einem gehaltenen Vogel amtlich festgestellt, so legt die zuständige
@@ -3527,6 +3587,7 @@ serologische und virologische Untersuchungen anordnen.
 
 
 #### § 49 Ausnahmen von der Sperrgebietsregelung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005105125)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 48 Absatz 4 Satz 1
 Nummer 1 genehmigen für das Verbringen von
@@ -3630,6 +3691,7 @@ Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 50 Schutzmaßregeln für weitere Bestände
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005203125)
 
 Führen die epidemiologischen Nachforschungen nach § 46 Absatz 1 zu dem
 Ergebnis, dass niedrigpathogene aviäre Influenza der Subtypen H5 oder
@@ -3667,6 +3729,7 @@ anordnen.
 
 
 #### § 51 Notimpfung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005302125)
 
 Die zuständige Behörde kann unter Beachtung einer Risikobewertung des
 Friedrich-Loeffler-Instituts die Durchführung einer Notimpfung
@@ -3674,6 +3737,7 @@ anordnen. Die §§ 36 bis 42 gelten entsprechend.
 
 
 #### § 52 Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005404125)
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf,
 soweit niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 bei
@@ -3759,6 +3823,7 @@ gehaltenen Vögeln gilt als erloschen, soweit
 
 
 #### § 53 Wiederbelegung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005503125)
 
 § 45 Absatz 1 und 3 gilt entsprechend. Zusätzlich hat der Tierhalter
 nach der Wiederbelegung die Maßnahmen nach Maßgabe des Kapitels IV
@@ -3767,6 +3832,7 @@ Nummer 8.22 Buchstabe a bis c und e des Anhangs der Entscheidung
 
 
 #### § 53a Schutzmaßregeln in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE007403125)
 
 Ist niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 bei
 einem gehaltenen Vogel in einem Bestand oder einer sonstigen
@@ -3801,12 +3867,15 @@ erforderlich ist.
 
 
 ## Abschnitt 3 - Schutzmaßregeln bei Wildvögeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001102125)
 
 
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001202125)
 
 
 #### § 54 Früherkennung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005603125)
 
 (1) Zur Erkennung der Geflügelpest bei Wildvögeln haben
 Jagdausübungsberechtigte
@@ -3844,12 +3913,15 @@ anzulocken.
 
 
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001302125)
 
 
 #### Teil 1 - Vor amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001402125)
 
 
 ##### § 55 Verdacht auf Geflügelpest, Geflügelpest
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005705125)
 
 (1) Ist der Verdacht auf Geflügelpest oder Geflügelpest bei einem
 Wildvogel amtlich festgestellt, so kann die zuständige Behörde das
@@ -3888,9 +3960,11 @@ worden ist, zusammenfällt.
 
 
 #### Teil 2 - Nach amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001502125)
 
 
 ##### § 56 Schutzmaßregeln in Bezug auf den Sperrbezirk und das Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005806125)
 
 (1) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz
 1 Nummer 1
@@ -4028,6 +4102,7 @@ und das Beobachtungsgebiet § 21 Absatz 2 entsprechend.
 
 
 ##### § 57 Ausnahmen von der Sperrbezirksregelung für gehaltene Vögel und Bruteier
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE005905125)
 
 (1) Die zuständige Behörde kann im Fall der Festlegung eines
 Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 Ausnahmen von § 56
@@ -4126,6 +4201,7 @@ Sendung erfüllt die Tiergesundheitsbedingungen der Entscheidung
 
 
 ##### § 58 Ausnahmen von der Sperrbezirksregelung für Fleisch
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006004125)
 
 Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1
 Nummer 1 darf oder dürfen abweichend von § 56 Absatz 1 Satz 1 Nummer 3
@@ -4195,6 +4271,7 @@ verbracht werden
 
 
 ##### § 59 Ausnahmen von der Sperrbezirksregelung für tierische Nebenprodukte
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006106125)
 
 (1) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz
 1 Nummer 1 dürfen abweichend von § 56 Absatz 1 Satz 1 Nummer 4
@@ -4286,6 +4363,7 @@ zugesandt werden.
 
 
 ##### § 60 Ausnahmen von der Beobachtungsgebietsregelung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006203125)
 
 (1) Die zuständige Behörde kann im Falle der Festlegung eines
 Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2
@@ -4306,12 +4384,14 @@ gekommen sind.
 
 
 ##### § 61 Risikobewertung
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006302125)
 
 Für die Erteilung einer Genehmigung nach den §§ 57 bis 60 gilt § 33
 entsprechend.
 
 
 ##### § 62 Seuchenausbruch in einem benachbarten Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006403125)
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder
 Drittlandes der Verdacht auf Geflügelpest oder Geflügelpest bei einem
@@ -4322,6 +4402,7 @@ gilt § 55 entsprechend.
 
 
 ##### § 63 Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006503125)
 
 Die zuständige Behörde hebt die Festlegungen nach § 55, auch in
 Verbindung mit § 62 auf, wenn hochpathogenes aviäres Influenzavirus
@@ -4329,9 +4410,11 @@ nicht nachgewiesen worden ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNG001602125)
 
 
 ### § 64 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006608125)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -4580,6 +4663,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 65 Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006704125)
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der
 Geflügelpest oder der niedrigpathogenen aviären Influenza bei einem
@@ -4592,9 +4676,11 @@ entgegenstehen, bleibt unberührt.
 
 
 ### § 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006803125)
 
 
 ### § 67 Aufheben bundesrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE006902125)
 
 (1) (Aufhebung anderer Vorschriften)
 
@@ -4605,12 +4691,14 @@ der Newcastle-Krankheit weiter anzuwenden.
 
 
 ### § 68 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE007002125)
 
 
 (zu § 8 Absatz 3, § 10 Absatz 3, § 11 Absatz 1, § 15 Absatz 5, § 20
 Absatz 1, § 21 Absatz 3, § 47 Absatz 1, § 48 Absatz 2)
 
 ### Anlage 1 Liste der gehaltenen Vögel seltener Rassen
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE007203125)
 
 (Fundstelle: BGBl. I 2018, 1698)
 
@@ -4795,6 +4883,7 @@ Absatz 1, § 21 Absatz 3, § 47 Absatz 1, § 48 Absatz 2)
 
 
 ### Anlage 2 (zu § 7 Absatz 2, § 13 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/geflpestschv/BJNR234800007.html#BJNR234800007BJNE007304125)
 
 (Fundstelle: BGBl. I 2018, 1699)
 

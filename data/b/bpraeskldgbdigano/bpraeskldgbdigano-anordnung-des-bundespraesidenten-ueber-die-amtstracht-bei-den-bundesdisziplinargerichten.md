@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbdigano/BJNR001220953.html#BJNR001220953BJNE000100307)
 
 Auf Grund des § 20 des Deutschen Beamtengesetzes vom 26. Januar 1937
 (Reichsgesetzbl. I S. 39) in der Fassung der Bekanntmachung vom 30.
@@ -25,6 +26,7 @@ Juni 1950 (Bundesgesetzbl. S. 279) ordne ich an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbdigano/BJNR001220953.html#BJNR001220953BJNE000200307)
 
 Die Amtstracht der Bundesrichter, des Bundesdisziplinaranwalts sowie
 der für ihn auftretenden Beamten, der Vorsitzenden der
@@ -38,6 +40,7 @@ Halsbinde.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbdigano/BJNR001220953.html#BJNR001220953BJNE000300307)
 
 Die Farbe der Amtstracht ist für die Richter und die Beamten bei dem
 Bundesdisziplinarhof und für den Bundesdisziplinaranwalt karmesinrot,
@@ -52,6 +55,7 @@ Wollstoff.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbdigano/BJNR001220953.html#BJNR001220953BJNE000400307)
 
 Am Barett tragen
 
@@ -84,6 +88,7 @@ e)  die für den Bundesdisziplinaranwalt auftretenden Beamten eine Spange
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbdigano/BJNR001220953.html#BJNR001220953BJNE000500307)
 
 Der Bundesminister des Innern wird ermächtigt, Ausführungsbestimmungen
 zu dieser Anordnung zu erlassen.

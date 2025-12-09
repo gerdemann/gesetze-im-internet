@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE000206377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
@@ -30,6 +31,7 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 
 
 ## § 2 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE000310360)
 
 (1) Zuständig für die Festsetzung und Änderung der Quoten ist das
 Bundesministerium für Ernährung und Landwirtschaft
@@ -153,6 +155,7 @@ ist zuständig für
 
 
 ## § 3 Festsetzung und Änderung der Quoten
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE000407377)
 
 (1) Das Bundesministerium setzt die Quoten durch schriftlichen
 Bescheid fest.
@@ -164,6 +167,7 @@ sonstigen vom Rat verfolgten Zielen Rechnung zu tragen.
 
 
 ## § 4 Zulassung der Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE000508360)
 
 (1) Der Antrag auf Zulassung als Unternehmen bedarf der Schriftform.
 
@@ -183,10 +187,12 @@ Bundesfinanzverwaltung zu melden.
 
 
 ## (XXXX) §§ 5 und 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE000803377)
 
 
 
 ## § 7 Mitteilungs-, Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE001002377)
 
 (1) Die zugelassenen Unternehmen haben die bei ihnen verbleibenden
 Antrags- und Bewilligungsunterlagen und die Unterlagen für die
@@ -228,6 +234,7 @@ erteilen sowie die erforderliche Unterstützung zu gewähren.
 
 
 ## § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/zuckquotv_1981/BJNR011610981.html#BJNR011610981BJNE000604377)
 
 -
 

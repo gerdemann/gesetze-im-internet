@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE000400319)
 
 Auf Grund des § 368i Abs. 7 der Reichsversicherungsordnung in der
 Fassung des Gesetzes über Änderungen von Vorschriften des Zweiten
@@ -32,6 +33,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE000505124)
 
 Die Vorschriften dieser Verordnung gelten für die Landes- und
 Bundesschiedsämter sowie für die sektorenübergreifenden
@@ -40,6 +42,7 @@ Bundesebene gleichermaßen, soweit nichts Abweichendes bestimmt ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE000601124)
 
 Wird ein Landesschiedsamt oder ein sektorenübergreifendes
 Landesschiedsgremium für die Bezirke mehrerer Kassenärztlicher oder
@@ -54,6 +57,7 @@ Anzahl der als Stellvertreter Vorgeschlagenen die erforderliche Anzahl
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE000703124)
 
 Die Amtsdauer der während einer Amtsperiode neu hinzugetretenen
 Mitglieder endet mit dem Ablauf der Amtsperiode. § 26 des Zehnten
@@ -61,6 +65,7 @@ Buches Sozialgesetzbuch gilt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE000802124)
 
 (1) Bei einer Abberufung der unparteiischen Mitglieder und ihrer
 Stellvertreter durch die für das jeweilige Schiedsamt oder das
@@ -77,6 +82,7 @@ ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE000902124)
 
 Legen die Vertreter ihr Amt nieder, hat die für die Bestellung
 zuständige Organisation den Vorsitzenden des jeweiligen Schiedsamtes
@@ -90,10 +96,12 @@ Stellvertreter. § 4 Absatz 2 Satz 2 gilt.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001001124)
 
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001101124)
 
 Die von den Organisationen bestellten Mitglieder der Schiedsämter und
 der sektorenübergreifenden Schiedsgremien oder ihre Stellvertreter
@@ -104,6 +112,7 @@ richtet sich gegen die bestellende Organisation.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001202124)
 
 Die unparteiischen Mitglieder der Bundesschiedsämter und des
 sektorenübergreifenden Schiedsgremiums auf Bundesebene oder ihre
@@ -113,6 +122,7 @@ Krankenkassen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001302124)
 
 Die unparteiischen Mitglieder der Landesschiedsämter und der
 sektorenübergreifenden Landesschiedsgremien oder ihre Stellvertreter
@@ -122,6 +132,7 @@ der sektorenübergreifenden Landesschiedsgremien zuständige Stelle.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001401124)
 
 Die unparteiischen Mitglieder der Schiedsämter und der
 sektorenübergreifenden Schiedsgremien oder ihre Stellvertreter
@@ -132,6 +143,7 @@ Die Festsetzung bedarf der Zustimmung der Aufsichtsbehörde.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001504124)
 
 Die Geschäfte der Landesschiedsämter und der sektorenübergreifenden
 Landesschiedsgremien werden bei den Landesverbänden der
@@ -147,6 +159,7 @@ zweiter Halbsatz bleibt unberührt.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001602124)
 
 Die die Schiedsämter bildenden Körperschaften tragen die Kosten für
 die von ihnen oder der zuständigen Aufsichtsbehörde bestellten
@@ -163,6 +176,7 @@ Vereinigung die Kosten anteilmäßig.
 
 
 ## § 12a
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE003500124)
 
 Die Organisationen, die das jeweilige sektorenübergreifende
 Schiedsgremium bilden, tragen die Kosten für die von ihnen oder der
@@ -177,9 +191,11 @@ beteiligt, so trägt jede Vereinigung die Kosten anteilig.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001702124)
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001801124)
 
 Ist für die Einleitung des Schiedsverfahrens ein Antrag erforderlich,
 ist dieser schriftlich bei dem Vorsitzenden des zuständigen
@@ -192,6 +208,7 @@ Einigung nicht zustande gekommen ist.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE001901124)
 
 Auf Verlangen haben die Vertragsparteien dem zuständigen Schiedsamt
 oder dem zuständigen sektorenübergreifenden Schiedsgremium die für die
@@ -199,6 +216,7 @@ Entscheidung erforderlichen Unterlagen vorzulegen.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002001124)
 
 Das Schiedsamt oder das sektorenübergreifende Schiedsgremium
 entscheidet auf Grund mündlicher Verhandlung, zu der die
@@ -215,6 +233,7 @@ die dem Bundesversicherungsamt vorzulegen sind.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002102124)
 
 Sachverständige und Zeugen, die auf Beschluss eines Schiedsamts oder
 eines sektorenübergreifenden Schiedsgremiums hinzugezogen worden sind,
@@ -223,12 +242,14 @@ vergüten oder zu entschädigen.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002201124)
 
 Die Beratung und Beschlußfassung erfolgt in Abwesenheit der Vertreter
 der Vertragsparteien.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002303124)
 
 Die Entscheidung des Schiedsamts oder des sektorenübergreifenden
 Schiedsgremiums ist schriftlich zu erlassen, zu begründen und den
@@ -238,6 +259,7 @@ des zuständigen Sozialgerichts zu belehren.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002402124)
 
 Für die Festsetzung eines Vertrages durch ein Schiedsamt oder durch
 ein sektorenübergreifendes Schiedsgremium wird eine Gebühr in Höhe von
@@ -248,6 +270,7 @@ erhoben.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002501124)
 
 Die Gebühr wird fällig, sobald das Schiedsamt oder das
 sektorenübergreifende Schiedsgremium den Vertragsinhalt festgesetzt
@@ -255,6 +278,7 @@ oder das Schiedsverfahren sich auf andere Weise erledigt hat.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE002601124)
 
 Die Gebühr ist von jeder der beteiligten Vertragsparteien in gleichen
 Anteilen zu tragen. Sind auf Seiten einer Vertragspartei mehrere
@@ -263,6 +287,7 @@ gesamtschuldnerisch für den nach Satz 1 anfallenden Gebührenanteil.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schiedsamtso/BJNR005700957.html#BJNR005700957BJNE003201126)
 
 Der Bundesminister für Arbeit
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weuvorrv/BJNR207040959.html#BJNR207040959BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -32,6 +33,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/weuvorrv/BJNR207040959.html#BJNR207040959BJNE000200314)
 
 (1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen
 der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf
@@ -46,11 +48,13 @@ internationalen Personals vom 11. Mai 1955 Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/weuvorrv/BJNR207040959.html#BJNR207040959BJNE000300314)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/weuvorrv/BJNR207040959.html#BJNR207040959BJNE000400314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen über den Status der Westeuropäischen Union, der

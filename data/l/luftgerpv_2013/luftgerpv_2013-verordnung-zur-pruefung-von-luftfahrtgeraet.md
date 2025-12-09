@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000101311)
 
 (1) Diese Verordnung regelt die Anforderungen an die Prüfung von
 Luftfahrtgerät auf seine Lufttüchtigkeit im Rahmen der Entwicklung,
@@ -116,6 +118,7 @@ Lufttüchtigkeitszeugnissen bleiben unberührt.
 
 
 ### § 2 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000201311)
 
 (1) Für die Sicherstellung und Bescheinigung der Lufttüchtigkeit nach
 § 1 sind folgende Stellen zuständig:
@@ -175,6 +178,7 @@ sind oder die erteilten Auflagen nicht eingehalten werden.
 
 
 ### § 3 Einzelstückprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000300000)
 
 (1) Der Nachweis der Lufttüchtigkeit eines Luftfahrtgeräts nach § 1
 Absatz 3 der Luftverkehrs-Zulassungs-Ordnung wird in einer
@@ -200,6 +204,7 @@ Einzelstücken eines Luftsportgeräts wird in der Kategorie
 
 
 ### § 4 Anerkennung der Musterprüfung anderer Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000400000)
 
 (1) Ist das Muster eines Luftfahrtgeräts bereits nach ausländischen
 Lufttüchtigkeitsvorschriften oder Lufttüchtigkeitsvorschriften der
@@ -239,6 +244,7 @@ und zugelassene Änderungen des Musters.
 
 
 ### § 5 Anerkennung der Herstellungsnachweise anderer Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000500000)
 
 Ist Luftfahrtgerät, dessen Muster nach der Luftverkehrs-Zulassungs-
 Ordnung zugelassen ist, nach ausländischen
@@ -256,6 +262,7 @@ allgemein anerkannt.
 
 
 ### § 6 Anerkennung der Nachweise anderer Stellen über die Aufrechterhaltung der Lufttüchtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000601311)
 
 (1) Sind die Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit von
 Luftfahrtgerät mit deutscher Verkehrszulassung im Ausland nach
@@ -286,6 +293,7 @@ geprüft wurde, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
 
 ### § 7 Genehmigung von Kleinbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000701311)
 
 Die nach § 2 Absatz 1 zuständige Stelle kann Kleinbetrieben, die nur
 teilweise die Voraussetzungen für die Durchführung der Prüfungen nach
@@ -296,6 +304,7 @@ Luftfahrtgeräts sichergestellt ist.
 
 
 ### § 8 Behebung von Mängeln des Musters
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000801311)
 
 (1) Werden beim Betrieb des zugelassenen Luftfahrtgeräts Mängel des
 Musters festgestellt, welche die Lufttüchtigkeit beeinträchtigen,
@@ -312,9 +321,11 @@ auf Verlangen zu übersenden.
 
 
 ## Zweiter Abschnitt - Entwicklung und Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNG000200000)
 
 
 ### § 9 Musterprüfung und Stückprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE000900000)
 
 (1) Für Luftfahrtgerät nach § 1 Absatz 1 Nummer 1 bis 6 und 9 bis 11
 der Luftverkehrs-Zulassungs-Ordnung erfolgen die Musterprüfung und die
@@ -339,6 +350,7 @@ in begründeten Einzelfällen Ausnahmen erteilen.
 
 
 ### § 10 Luftsportgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001001116)
 
 (1) In der Musterprüfung eines Luftsportgeräts wird geprüft, ob das
 Muster den Bauvorschriften für Luftfahrtgerät entspricht und keine
@@ -397,6 +409,7 @@ organisatorischen Voraussetzungen verfügt.
 
 
 ### § 11 Nicht musterzulassungspflichtiges Luftsportgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001100000)
 
 (1) Bei Luftsportgerät nach § 1 Absatz 4 Nummer 1 der Luftverkehrs-
 Zulassungs-Ordnung hat der Hersteller vor der Auslieferung an den
@@ -429,9 +442,11 @@ Prüfungen nach den Absätzen 1 und 2.
 
 
 ## Dritter Abschnitt - Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNG000300000)
 
 
 ### § 12 Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001201311)
 
 (1) Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit des
 Luftfahrtgeräts nach § 1 Absatz 1 Nummer 1 bis 6 und 9 bis 11 der
@@ -463,6 +478,7 @@ Durchführung bestimmter Instandhaltungsmaßnahmen ermächtigen.
 
 
 ### § 13 Nachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001301311)
 
 (1) Bei Luftsportgerät nach § 1 Absatz 1 Nummer 7 der Luftverkehrs-
 Zulassungs-Ordnung mit einer höchstzulässigen Leermasse über 120
@@ -496,6 +512,7 @@ Beauftragten bescheinigen zu lassen.
 
 
 ### § 14 Angeordnete Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001400000)
 
 Die zuständige Stelle kann jederzeit die Überprüfung der
 Lufttüchtigkeit eines Luftfahrzeugs sowie Instandhaltungsmaßnahmen
@@ -508,9 +525,11 @@ ist, dass das Muster Mängel aufweist.
 
 
 ## Vierter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNG000400000)
 
 
 ### § 15 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001500000)
 
 Das Luftfahrt-Bundesamt wird ermächtigt, zur Durchführung dieser
 Verordnung weitere Einzelheiten, die zur Feststellung der
@@ -521,6 +540,7 @@ Flugsicherung herbeizuführen.
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001600000)
 
 (1) Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -695,6 +715,7 @@ fahrlässig
 
 
 ### § 17 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv_2013/BJNR029310013.html#BJNR029310013BJNE001701311)
 
 Bisherige Zulassungen, Genehmigungen und Anerkennungen, die nach der
 Verordnung zur Prüfung von Luftfahrtgerät vom 3. August 1998 (BGBl. I

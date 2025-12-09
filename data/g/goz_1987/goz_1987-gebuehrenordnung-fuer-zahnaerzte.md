@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000200304)
 
 Auf Grund des § 15 des Gesetzes über die Ausübung der Zahnheilkunde in
 der durch Artikel 5 des Gesetzes vom 22. Dezember 1981 (BGBl. I S.
@@ -28,6 +29,7 @@ des Bundesrates:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000300304)
 
 (1) Die Vergütungen für die beruflichen Leistungen der Zahnärzte
 bestimmen sich nach dieser Verordnung, soweit nicht durch Bundesgesetz
@@ -42,6 +44,7 @@ des Zahlungspflichtigen erbracht worden sind.
 
 
 ## § 2 Abweichende Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000401310)
 
 (1) Durch Vereinbarung zwischen Zahnarzt und Zahlungspflichtigem kann
 eine von dieser Verordnung abweichende Gebührenhöhe festgelegt werden.
@@ -76,12 +79,14 @@ Leistungen zulässig.
 
 
 ## § 3 Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000501310)
 
 Als Vergütungen stehen dem Zahnarzt Gebühren, Entschädigungen und
 Ersatz von Auslagen zu.
 
 
 ## § 4 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000601310)
 
 (1) Gebühren sind Vergütungen für die im Gebührenverzeichnis (Anlage
 1) genannten zahnärztlichen Leistungen.
@@ -119,6 +124,7 @@ darüber zu unterrichten.
 
 
 ## § 5 Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000702310)
 
 (1) Die Höhe der einzelnen Gebühr bemißt sich nach dem Einfachen bis
 Dreieinhalbfachen des Gebührensatzes. Gebührensatz ist der Betrag, der
@@ -145,11 +151,13 @@ einem niedrigeren Gebührensatz zu berechnen.
 
 
 ## § 5a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001601310)
 
 -
 
 
 ## § 6 Gebühren für andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000801310)
 
 (1) Selbstständige zahnärztliche Leistungen, die in das
 Gebührenverzeichnis nicht aufgenommen sind, können entsprechend einer
@@ -203,6 +211,7 @@ Gebührenverzeichnisses der Gebührenordnung für Ärzte aufgeführt sind:
 
 
 ## § 7 Gebühren bei stationärer Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE000904310)
 
 (1) Bei vollstationären, teilstationären sowie vor- und
 nachstationären privatzahnärztlichen Leistungen sind die nach dieser
@@ -219,6 +228,7 @@ Kosten nicht berechnen; die §§ 8 und 9 bleiben unberührt.
 
 
 ## § 8 Entschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001001310)
 
 (1) Als Entschädigungen für Besuche erhält der Zahnarzt Wegegeld oder
 Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den
@@ -274,6 +284,7 @@ Absatz 2 Satz 3 und 4 gilt entsprechend.
 
 
 ## § 9 Ersatz von Auslagen für zahntechnische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001101310)
 
 (1) Neben den für die einzelnen zahnärztlichen Leistungen vorgesehenen
 Gebühren können als Auslagen die dem Zahnarzt tatsächlich entstandenen
@@ -302,6 +313,7 @@ unterrichten.
 
 
 ## § 10 Fälligkeit und Abrechnung der Vergütung, Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001202310)
 
 (1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine
 dieser Verordnung entsprechende Rechnung nach der Anlage 2 erteilt
@@ -380,6 +392,7 @@ von seiner Schweigepflicht entbunden hat.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001301310)
 
 Die Gebührenordnung für Zahnärzte in der vor dem 1. Januar 2012
 geltenden Fassung gilt weiter für
@@ -409,6 +422,7 @@ geltenden Fassung gilt weiter für
 
 
 ## § 12 Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001401310)
 
 Die Bundesregierung prüft die Auswirkungen der Neustrukturierung und
 -bewertung der Leistungen der Gebührenordnung für Zahnärzte. Sie
@@ -417,6 +431,7 @@ Ergebnis der Prüfung und die tragenden Gründe.
 
 
 ## Anlage 1 Gebührenverzeichnis für zahnärztliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001501310)
 
 (Fundstelle: BGBl I 2011, 2664 — 2680)
 ## **A.**
@@ -2862,6 +2877,7 @@ L.
 
 
 ## Anlage 2 Liquidationsvordruck
+[Direktlink](https://www.gesetze-im-internet.de/goz_1987/BJNR023160987.html#BJNR023160987BJNE001700310)
 
 (Fundstelle: BGBl I 2011, 2681 — 2682)
 

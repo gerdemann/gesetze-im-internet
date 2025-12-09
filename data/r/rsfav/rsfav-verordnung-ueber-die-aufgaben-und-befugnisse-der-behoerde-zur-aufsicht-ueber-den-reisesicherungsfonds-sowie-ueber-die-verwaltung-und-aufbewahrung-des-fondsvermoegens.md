@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000100000)
 
 Auf Grund des § 23 Absatz 1 Nummer 1 und 3 sowie Absatz 2 Nummer 1 des
 Reisesicherungsfondsgesetzes vom 25. Juni 2021 (BGBl. I S. 2114)
@@ -27,6 +28,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Aufgaben der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000200000)
 
 Die Aufsichtsbehörde beaufsichtigt nach Maßgabe des § 19 des
 Reisesicherungsfondsgesetzes den gesamten Geschäftsbetrieb des
@@ -35,6 +37,7 @@ ausgegliedert hat (§ 5 der Reisesicherungsfondsverordnung).
 
 
 ## § 2 Adressaten von Maßnahmen der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000300000)
 
 Zur Verhinderung oder Beseitigung von Missständen im Sinne des § 19
 Absatz 1 des Reisesicherungsfondsgesetzes kann die Aufsichtsbehörde
@@ -58,6 +61,7 @@ Reisesicherungsfonds Funktionen ausgegliedert hat.
 
 
 ## § 3 Informationsverlangen der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000400000)
 
 (1) Die Aufsichtsbehörde kann vom Reisesicherungsfonds sowie von
 Dritten, auf die der Reisesicherungsfonds Funktionen ausgegliedert
@@ -161,6 +165,7 @@ unaufgefordert und unverzüglich anzeigen muss, insbesondere:
 
 
 ## § 4 Anordnungsbefugnis für Unterrichtungen bei drohendem oder eingetretenem Schadensfall
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000500000)
 
 (1) Die Aufsichtsbehörde kann anordnen, dass der Reisesicherungsfonds
 sie unverzüglich unterrichten muss, sobald ihm Umstände bekannt
@@ -178,6 +183,7 @@ den organisatorischen Aufwand bewältigen wird.
 
 
 ## § 5 Auskunftsverlangen der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000600000)
 
 (1) Die Aufsichtsbehörde ist befugt, von dem Reisesicherungsfonds, den
 Mitgliedern seiner Organe und seinen Beschäftigten Auskünfte über alle
@@ -197,6 +203,7 @@ Ordnungswidrigkeit verfolgt zu werden.
 
 
 ## § 6 Genehmigungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000700000)
 
 (1) Die folgenden Vorgänge bedürfen der Genehmigung der
 Aufsichtsbehörde:
@@ -220,6 +227,7 @@ benachteiligt werden.
 
 
 ## § 7 Verwarnung und Abberufung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000800000)
 
 (1) Bei einem Verstoß gegen Bestimmungen des
 Reisesicherungsfondsgesetzes oder der auf dessen Grundlage erlassenen
@@ -260,6 +268,7 @@ Absatz 3 der Reisesicherungsfondsverordnung) nachgeht.
 
 
 ## § 8 Prüfungen in den Geschäftsräumen; Einberufung von Gesellschafterversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE000900000)
 
 (1) Die Aufsichtsbehörde ist befugt,
 
@@ -295,6 +304,7 @@ Absatz 2 zu dulden.
 
 
 ## § 9 Grundsätze zur Anlage des Fondsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE001000000)
 
 Das Fondsvermögen muss risikoarm, hochliquide und ausreichend
 diversifiziert angelegt werden. Angestrebt wird eine möglichst große
@@ -302,6 +312,7 @@ Sicherheit der Anlage bei angemessener Rentabilität.
 
 
 ## § 10 Zulässige Anlagegegenstände und Ausgliederung der Fondsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE001100000)
 
 (1) Derjenige Teil des Fondsvermögens, der kurzfristig für Zwecke des
 § 3 des Reisesicherungsfondsgesetzes benötigt wird, ist vom
@@ -341,6 +352,7 @@ Fondsvermögen vollständig gemäß Absatz 1 vorzuhalten.
 
 
 ## § 11 Treuhänder für das Fondsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE001200000)
 
 (1) Zur Überwachung der Anlage des Fondsvermögens gemäß § 10 und
 dessen sicherer Aufbewahrung sind ein Treuhänder sowie ein
@@ -365,6 +377,7 @@ Aufsichtsbehörde.
 
 
 ## § 12 Aufgaben und Befugnisse des Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE001300000)
 
 (1) Der Treuhänder prüft, ob die Aufteilung und Anlage des
 Fondsvermögens sowie die Entnahmen aus diesem den Vorgaben des § 10
@@ -395,6 +408,7 @@ Fondsvermögen vorschriftsmäßig angelegt und aufbewahrt ist.
 
 
 ## § 13 Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE001400000)
 
 (1) Verwaltungsakte der Aufsichtsbehörde, die auf Grund des
 Reisesicherungsfondsgesetzes oder der auf dessen Grundlage erlassenen
@@ -418,6 +432,7 @@ haben keine aufschiebende Wirkung.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rsfav/BJNR470700021.html#BJNR470700021BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

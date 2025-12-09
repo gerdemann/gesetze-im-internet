@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/fzulganwbek/BJNR159600020.html#BJNR159600020BJNE000100000)
 
 Nach § 16 Absatz 3 des Forschungszulagengesetzes vom 14. Dezember 2019
 (BGBl. I S. 2763), das durch Artikel 8 des Gesetzes vom 29. Juni 2020
@@ -41,6 +42,7 @@ bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fzulganwbek/BJNR159600020.html#BJNR159600020BJNE000200000)
 
 Bundesministerium der Finanzen
 

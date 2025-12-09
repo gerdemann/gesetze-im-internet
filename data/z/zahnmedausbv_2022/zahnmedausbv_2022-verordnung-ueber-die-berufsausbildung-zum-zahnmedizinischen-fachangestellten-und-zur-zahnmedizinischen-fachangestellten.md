@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-287 v. 4.7.2001 I 1492 (ZahnmedAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) verordnet das
@@ -34,9 +35,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Zahnmedizinischen
 Fachangestellten und der Zahnmedizinischen Fachangestellten wird nach
@@ -44,11 +47,13 @@ Fachangestellten und der Zahnmedizinischen Fachangestellten wird nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -144,6 +150,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -151,9 +158,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -165,6 +174,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -181,6 +191,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001000000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -196,6 +207,7 @@ statt:
 
 
 ### § 9 Prüfungsbereich „Durchführen von Hygienemaßnahmen und Aufbereiten von Medizinprodukten“
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001100000)
 
 (1) Im Prüfungsbereich „Durchführen von Hygienemaßnahmen und
 Aufbereiten von Medizinprodukten“ hat der Prüfling nachzuweisen, dass
@@ -239,6 +251,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 10 Prüfungsbereich „Empfangen und Aufnehmen von Patientinnen und Patienten“
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001200000)
 
 (1) Im Prüfungsbereich „Empfangen und Aufnehmen von Patientinnen und
 Patienten“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -273,6 +286,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 11 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001300000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -294,6 +308,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001400000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -312,6 +327,7 @@ statt:
 
 
 ### § 13 Prüfungsbereich „Assistieren bei und Dokumentieren von zahnärztlichen Maßnahmen“
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001500000)
 
 (1) Im Prüfungsbereich „Assistieren bei und Dokumentieren von
 zahnärztlichen Maßnahmen“ hat der Prüfling nachzuweisen, dass er in
@@ -374,6 +390,7 @@ Minuten einzuräumen.
 
 
 ### § 14 Prüfungsbereich „Organisieren der Verwaltungsprozesse und Abrechnen von Leistungen“
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001600000)
 
 (1) Im Prüfungsbereich „Organisieren der Verwaltungsprozesse und
 Abrechnen von Leistungen“ hat der Prüfling nachzuweisen, dass er in
@@ -424,6 +441,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -437,6 +455,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -507,6 +526,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -545,9 +565,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNG000300000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE002000000)
 
 Berufsausbildungsverhältnisse, die am 1. August 2022 bestehen, können
 nach den Vorschriften dieser Verordnung unter Anrechnung der bisher
@@ -563,6 +585,7 @@ absolvierten Ausbildungszeit fortgesetzt werden, wenn
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Zahnmedizinischen
@@ -572,6 +595,7 @@ Fachangestellten/zur Zahnmedizinischen Fachangestellten vom 4. Juli
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten und zur Zahnmedizinischen Fachangestellten
+[Direktlink](https://www.gesetze-im-internet.de/zahnmedausbv_2022/BJNR048700022.html#BJNR048700022BJNE002200000)
 
 (Fundstelle: BGBl. I 2022, 491 - 497)
 

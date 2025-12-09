@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 7110-3-147 v. 22.3.2002 I 1224 (MetallbMstrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -28,6 +29,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der
 Prüfung in den Teilen I und II der Meisterprüfung zu stellenden
@@ -64,6 +66,7 @@ Meisterprüfung im Metallbauer-Handwerk in folgenden Schwerpunkten:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000300000)
 
 (1) In den Teilen I und II der Meisterprüfung im Metallbauer-Handwerk
 hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen,
@@ -387,6 +390,7 @@ Leistungserbringung folgende Gesichtspunkte zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -406,6 +410,7 @@ verrichtet.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht und wählt dafür einen Schwerpunkt nach
@@ -465,6 +470,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000600000)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -494,6 +500,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000700000)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und
 vervollständigt für die Meisterprüfung den Nachweis der beruflichen
@@ -527,6 +534,7 @@ Absatz 2 gebildet.
 
 
 ## § 7 Gewichtung, Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die
 Situationsaufgabe werden gesondert bewertet. Bei Berechnung des
@@ -550,6 +558,7 @@ Situationsaufgabe im Verhältnis 2 : 1 gewichtet.
 
 
 ## § 8 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE000900000)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben in seinem gewählten Schwerpunkt
@@ -586,6 +595,7 @@ Stunden an einem Tag darf nicht überschritten werden.
 
 
 ## § 9 Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001000000)
 
 (1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines
 Betriebs im Metallbauer-Handwerk analysieren, Lösungen erarbeiten und
@@ -732,6 +742,7 @@ anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 10 Handlungsfeld „Leistungen eines Betriebs im Metallbauer-Handwerk erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001100000)
 
 (1) Im Handlungsfeld „Leistungen eines Betriebs im Metallbauer-
 Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling
@@ -949,6 +960,7 @@ Qualifikationen:
 
 
 ## § 11 Handlungsfeld „Einen Betrieb im Metallbauer-Handwerk führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001200000)
 
 (1) Im Handlungsfeld „Einen Betrieb im Metallbauer-Handwerk führen und
 organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1108,6 +1120,7 @@ und organisieren“ besteht aus folgenden Qualifikationen:
 
 
 ## § 12 Gewichtung, Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001300000)
 
 (1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II
 der Meisterprüfung nach Maßgabe der Vorschriften der
@@ -1137,6 +1150,7 @@ Meisterprüfung ausschlaggebend ist.
 
 
 ## § 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001400000)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -1146,6 +1160,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001500000)
 
 (1) Die bis zum Ablauf des 30. Juni 2025 begonnenen Prüfungsverfahren
 werden nach den Vorschriften für die Metallbauermeisterverordnung vom
@@ -1163,6 +1178,7 @@ des 30. Juni 2025 geltenden Vorschriften ablegen.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/metallbmstrv_2025/BJNR1860A0024.html#BJNR1860A0024BJNE001600000)
 
 Diese Verordnung tritt am 1. Juli 2025 in Kraft. Gleichzeitig tritt
 die Metallbauermeisterverordnung vom 22. März 2002 (BGBl. I S. 1224),

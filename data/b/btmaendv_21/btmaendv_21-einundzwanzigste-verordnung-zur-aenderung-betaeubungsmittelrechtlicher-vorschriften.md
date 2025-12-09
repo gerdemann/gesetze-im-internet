@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/btm_ndv_21/BJNR024600008.html#BJNR024600008BJNE000100000)
 
 Auf Grund des § 1 Abs. 2 des Betäubungsmittelgesetzes in der Fassung
 der Bekanntmachung vom 1. März 1994 (BGBl. I S. 358) verordnet die
@@ -24,11 +25,13 @@ Bundesregierung nach Anhörung von Sachverständigen:
 
 
 ## Art 1 Änderung der Anlagen des Betäubungsmittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btm_ndv_21/BJNR024600008.html#BJNR024600008BJNE000200000)
 
 -
 
 
 ## Art 2 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/btm_ndv_21/BJNR024600008.html#BJNR024600008BJNE000300000)
 
 Wer am 1. März 2008 mit folgenden in Artikel 1 Nr. 2 aufgeführten
 Stoffen und deren Zubereitungen
@@ -53,11 +56,13 @@ gebunden.
 
 
 ## Art 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/btm_ndv_21/BJNR024600008.html#BJNR024600008BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btm_ndv_21/BJNR024600008.html#BJNR024600008BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

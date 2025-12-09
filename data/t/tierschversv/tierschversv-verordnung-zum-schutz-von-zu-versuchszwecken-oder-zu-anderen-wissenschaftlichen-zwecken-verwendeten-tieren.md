@@ -21,12 +21,15 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Halten von Wirbeltieren und Kopffüßern zur Verwendung in Tierversuchen oder zu anderen wissenschaftlichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000100000)
 
 
 ### Unterabschnitt 1 - Anforderungen an die Haltung sowie an Einrichtungen und Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000200000)
 
 
 #### § 1 Anforderungen an die Haltung von Wirbeltieren und Kopffüßern
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000201119)
 
 (1) Der Leiter einer Einrichtung oder der Verantwortliche für einen
 Betrieb, in der oder in dem Wirbeltiere oder Kopffüßer gehalten
@@ -90,6 +93,7 @@ verwendeten Wirbeltiere bleibt unberührt.
 
 
 #### § 2 Anforderungen an die Tötung von Wirbeltieren und Kopffüßern
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000301119)
 
 (1) In § 1 Absatz 1 bezeichnete Wirbeltiere und Kopffüßer dürfen nur
 
@@ -167,6 +171,7 @@ genehmigen, wenn
 
 
 #### § 3 Anforderungen an die Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000400000)
 
 (1) Der Leiter einer Einrichtung oder der Verantwortliche für einen
 Betrieb im Sinne des § 1 Absatz 1 hat sicherzustellen, dass
@@ -195,6 +200,7 @@ und Fähigkeiten regelmäßig fortbilden.
 
 
 #### § 4 Organisationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000501119)
 
 Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 Satz 1 und 2
 des Tierschutzgesetzes hat der Träger der Einrichtung oder der für den
@@ -230,6 +236,7 @@ bestellen, die
 
 
 #### § 5 Tierschutzbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000601119)
 
 (1) Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 des
 Tierschutzgesetzes hat der Träger der Einrichtung oder der für den
@@ -334,6 +341,7 @@ festzulegen.
 
 
 #### § 6 Tierschutzausschuss
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000701119)
 
 (1) Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 Satz 1
 und 2 des Tierschutzgesetzes hat der Träger der Einrichtung oder der
@@ -426,6 +434,7 @@ Verlangen vorzulegen.
 
 
 #### § 7 Führen von Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000800000)
 
 (1) Wer zum Führen von Aufzeichnungen nach § 11a Absatz 1 Satz 1
 Nummer 1 des Tierschutzgesetzes verpflichtet ist, hat in den Betriebs-
@@ -484,6 +493,7 @@ auf Verlangen vorzulegen.
 
 
 #### § 8 Besondere Aufzeichnungen bei Hunden, Katzen und Primaten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE000900000)
 
 (1) Unbeschadet des § 7 hat der zum Führen von Aufzeichnungen nach §
 11a Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes Verpflichtete bei
@@ -522,6 +532,7 @@ Versuchsvorhaben, in denen es verwendet worden ist.
 
 
 #### § 9 Kennzeichnung von Hunden, Katzen und Primaten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001000000)
 
 (1) Wer Hunde, Katzen oder Primaten, die zur Verwendung in
 Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu
@@ -545,6 +556,7 @@ vorzulegen.
 
 
 #### § 10 Anderweitige Unterbringung oder Freilassung von Wirbeltieren und Kopffüßern
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001100000)
 
 (1) Wirbeltiere oder Kopffüßer, die in Tierversuchen verwendet worden
 sind oder die dazu bestimmt gewesen sind, in Tierversuchen verwendet
@@ -576,9 +588,11 @@ Lebensraum verbracht werden.
 
 
 ### Unterabschnitt 2 - Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000300000)
 
 
 #### § 11 Erlaubnisvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001201119)
 
 (1) Die Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 des
 Tierschutzgesetzes darf nur erteilt werden, wenn
@@ -629,6 +643,7 @@ ist, unter Befristungen, Bedingungen und Auflagen erteilt werden.
 
 
 #### § 12 Beantragen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001300000)
 
 In dem Antrag auf Erteilung der Erlaubnis nach § 11 Absatz 1 Satz 1
 Nummer 1 des Tierschutzgesetzes sind anzugeben
@@ -661,6 +676,7 @@ Dem Antrag sind Nachweise über die Kenntnisse und Fähigkeiten nach §
 
 
 #### § 13 Erlaubnisbescheid, Anzeige und Erlaubnis von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001401119)
 
 (1) In dem Erlaubnisbescheid sind die Personen nach § 12 Satz 1 Nummer
 4 und 6 anzugeben.
@@ -681,9 +697,11 @@ Tiere auswirken könnte, bedarf einer erneuten Erlaubnis.
 
 
 ## Abschnitt 2 - Durchführung, Genehmigung und Anzeige von Tierversuchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000400000)
 
 
 ### § 14 Geltung für Tiere in einem frühen Entwicklungsstadium
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001500000)
 
 Die §§ 7 bis 9 des Tierschutzgesetzes sowie die §§ 15 bis 43 gelten
 auch für die Durchführung von Tierversuchen, einschließlich der
@@ -715,9 +733,11 @@ Genehmigung und Anzeige von Versuchsvorhaben,
 
 
 ### Unterabschnitt 1 - Durchführung von Tierversuchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000500000)
 
 
 #### § 15 Anforderungen an Räumlichkeiten und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001600000)
 
 (1) Tierversuche an Wirbeltieren und Kopffüßern dürfen nur in den
 Räumlichkeiten einer Einrichtung oder eines Betriebs im Sinne des § 1
@@ -748,6 +768,7 @@ Räumlichkeiten, Anlagen und Gegenstände
 
 
 #### § 16 Anforderungen an die Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001701119)
 
 (1) Tierversuche an Wirbeltieren und Kopffüßern dürfen nur von
 Personen durchgeführt werden, die über die Kenntnisse und Fähigkeiten
@@ -806,6 +827,7 @@ nachweisen.
 
 
 #### § 17 Schmerzlinderung und Betäubung
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001801119)
 
 (1) Bei der Durchführung von Versuchen an Wirbeltieren und Kopffüßern
 ist durch Anwendung schmerzlindernder Mittel oder Verfahren
@@ -871,6 +893,7 @@ verhindert oder beeinträchtigt wird.
 
 
 #### § 18 Erneutes Verwenden von Wirbeltieren und Kopffüßern
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE001900000)
 
 (1) Ein Wirbeltier oder ein Kopffüßer, das oder der bereits in einem
 Versuchsvorhaben verwendet worden ist, darf in einem weiteren
@@ -922,6 +945,7 @@ Versuchsvorhaben genehmigen, wenn das Tier
 
 
 #### § 19 Verwenden gezüchteter Wirbeltiere und Kopffüßer
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002000000)
 
 (1) Wirbeltiere und Kopffüßer dürfen in Tierversuchen nur verwendet
 werden, wenn sie für einen solchen Zweck gezüchtet worden sind. Die
@@ -936,6 +960,7 @@ Gänsen oder Fischen, ausgenommen Zebrabärblinge.
 
 
 #### § 20 Verwenden wildlebender Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002100000)
 
 (1) Aus der Natur entnommene Tiere dürfen in Tierversuchen nicht
 verwendet werden. Die zuständige Behörde kann Ausnahmen hiervon
@@ -957,6 +982,7 @@ Tierversuchs vereinbare, geringstmögliche Maß zu vermindern.
 
 
 #### § 21 Verwenden herrenloser oder verwilderter Haustiere
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002200000)
 
 Herrenlose oder verwilderte Tiere von Tierarten, die üblicherweise in
 menschlicher Obhut gehalten werden, dürfen in Tierversuchen nicht
@@ -978,6 +1004,7 @@ genehmigen, wenn
 
 
 #### § 22 Verwenden geschützter Tierarten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002300000)
 
 In Anhang A der Verordnung (EG) Nr. 338/97 des Rates vom 9. Dezember
 1996 über den Schutz von Exemplaren wildlebender Tier- und
@@ -1017,6 +1044,7 @@ Grundlagenforschung dienen.
 
 
 #### § 23 Verwenden von Primaten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002400000)
 
 (1) Primaten dürfen in Tierversuchen nicht verwendet werden.
 
@@ -1134,6 +1162,7 @@ dienen.
 
 
 #### § 24 Herkunft zu verwendender Primaten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002500000)
 
 (1) Primaten, die in Anhang II Spalte 1 der Richtlinie 2010/63/EU
 aufgeführt sind, dürfen ab dem in Anhang II Spalte 2 der Richtlinie
@@ -1150,6 +1179,7 @@ Primaten erforderlich ist.
 
 
 #### § 25 Durchführung besonders belastender Tierversuche
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002600000)
 
 (1) Tierversuche an Wirbeltieren oder Kopffüßern, die bei den
 verwendeten Tieren zu voraussichtlich länger anhaltenden oder sich
@@ -1170,6 +1200,7 @@ unerlässlich ist.
 
 
 #### § 26 Genehmigungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002701301)
 
 (1) Eine Genehmigung nach § 23 Absatz 3 oder 5 oder § 25 Absatz 2 Satz
 2 wird von der zuständigen Behörde unter dem Vorbehalt erteilt, dass
@@ -1189,6 +1220,7 @@ Grundlage der Mitteilung der zuständigen Behörde nach Satz 2.
 
 
 #### § 27 Zweckerreichung
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002800000)
 
 (1) Sobald der Zweck eines Tierversuchs erreicht ist, sind Maßnahmen
 zu ergreifen, um die Schmerzen, Leiden und Schäden der verwendeten
@@ -1218,6 +1250,7 @@ dass
 
 
 #### § 28 Verfahren nach Abschluss, Nachbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE002900000)
 
 (1) Nach Abschluss eines Tierversuchs entscheidet ein Tierarzt oder
 eine andere sachkundige Person darüber, ob ein verwendetes Wirbeltier
@@ -1246,6 +1279,7 @@ versorgt werden.
 
 
 #### § 29 Führen von Aufzeichnungen zu Tierversuchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003001119)
 
 (1) In den nach § 9 Absatz 5 Satz 1 des Tierschutzgesetzes zu
 führenden Aufzeichnungen sind für jedes Versuchsvorhaben, in dem
@@ -1286,6 +1320,7 @@ möglich, automatisiert zu löschen.
 
 
 #### § 30 Pflichten des Leiters
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003101119)
 
 (1) Der Leiter des Versuchsvorhabens oder im Falle dessen Verhinderung
 sein Stellvertreter hat sicherzustellen, dass die Vorschriften der §§
@@ -1319,9 +1354,11 @@ verbessern, berücksichtigt werden.
 
 
 ### Unterabschnitt 2 - Genehmigung und Anzeige von Versuchsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000600000)
 
 
 #### § 31 Beantragen der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003201119)
 
 (1) Der Antrag auf Genehmigung eines Versuchsvorhabens nach § 8 Absatz
 1 Satz 1 des Tierschutzgesetzes ist schriftlich oder elektronisch bei
@@ -1443,6 +1480,7 @@ werden.
 
 
 #### § 32 Genehmigungsverfahren, Bearbeitungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003301119)
 
 (1) Die zuständige Behörde hat innerhalb von 40 Arbeitstagen ab dem
 Eingang eines den Anforderungen des § 31 entsprechenden Antrags dem
@@ -1500,6 +1538,7 @@ die Stellungnahme zu.
 
 
 #### § 33 Genehmigungsbescheid, Befristung
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003401119)
 
 (1) Der Genehmigungsbescheid ergeht schriftlich oder elektronisch und
 enthält
@@ -1552,6 +1591,7 @@ worden sind.
 
 
 #### § 34 Genehmigung und Anzeige von Änderungen genehmigter Versuchsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003501119)
 
 (1) Änderungen genehmigter Versuchsvorhaben, die sich nachteilig auf
 das Wohlergehen der Tiere auswirken können, bedürfen einer
@@ -1586,6 +1626,7 @@ mitgeteilt, dass gegen die Änderungen keine Einwände bestehen.
 
 
 #### § 35 Rückblickende Bewertung von Versuchsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003601119)
 
 (1) Genehmigt die zuständige Behörde ein Versuchsvorhaben, so kann sie
 zugleich festlegen, dass das Versuchsvorhaben nach seinem Abschluss
@@ -1635,6 +1676,7 @@ Durchführung der Bewertung erforderlich sind, Folgendes zu prüfen:
 
 
 #### § 36 Vereinfachtes Genehmigungsverfahren für Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003701119)
 
 (1) Der Antrag auf Genehmigung eines Versuchsvorhabens im
 vereinfachten Genehmigungsverfahren nach § 8a Absatz 1 des
@@ -1759,6 +1801,7 @@ Frist durchgeführt werden.
 
 
 #### § 37 Sammelgenehmigung und Genehmigung von Änderungen genehmigter Versuchsvorhaben im vereinfachten Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003801119)
 
 (1) Ist die Durchführung mehrerer gleichartiger Versuchsvorhaben nach
 § 8a Absatz 1 Satz 1 des Tierschutzgesetzes beabsichtigt, so genügt
@@ -1775,6 +1818,7 @@ erneuten Genehmigung im vereinfachten Genehmigungsverfahren bedürfen.
 
 
 #### § 38 Prüfung der Anzeige von Änderungen von Versuchsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE003901119)
 
 Im Fall der Anzeige von Änderungen nach § 34 Absatz 3 prüft die
 zuständige Behörde innerhalb von zwei Wochen, ob
@@ -1791,6 +1835,7 @@ zuständige Behörde innerhalb von zwei Wochen, ob
 
 
 #### § 39 Anzeige von Versuchsvorhaben an Zehnfußkrebsen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004001119)
 
 (1) In der Anzeige eines Versuchsvorhabens nach § 8a Absatz 3 des
 Tierschutzgesetzes sind anzugeben:
@@ -1858,6 +1903,7 @@ Tierschutzgesetzes zu untersagen ist.
 
 
 #### § 40 Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004101119)
 
 Der Inhaber einer Genehmigung oder, im Falle von Versuchsvorhaben nach
 § 8a Absatz 3 des Tierschutzgesetzes, der Anzeigende hat
@@ -1890,6 +1936,7 @@ Bewertung erst nach Ablauf der in Satz 1 genannten Frist erfolgt.
 
 
 #### § 41 Veröffentlichung von Zusammenfassungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004201119)
 
 (1) Die zuständige Behörde übermittelt dem Bundesinstitut für
 Risikobewertung (Bundesinstitut) innerhalb von drei Monaten nach
@@ -1935,6 +1982,7 @@ Europäische Kommission weiter.
 
 
 #### § 42 Tierversuchskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004300000)
 
 (1) Die Mehrheit der Mitglieder der nach § 15 Absatz 1 Satz 2 und
 Absatz 3 Satz 2 des Tierschutzgesetzes einzuberufenden Kommissionen
@@ -1957,6 +2005,7 @@ Tierschutzfragen geeignet sind.
 
 
 #### § 43 Unterrichtung des Bundesministeriums
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004400000)
 
 Die nach Landesrecht zuständigen Behörden unterrichten das
 Bundesministerium über Fälle grundsätzlicher Bedeutung bei der
@@ -1971,9 +2020,11 @@ Voraussetzungen erhoben haben. Personenbezogene Daten dürfen nicht
 
 
 ## Abschnitt 3 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000700000)
 
 
 ### § 44 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004502119)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe a des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2072,9 +2123,11 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNG000800000)
 
 
 ### § 45 Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004600000)
 
 Das Bundesinstitut berät die zuständigen Behörden und die
 Tierschutzausschüsse nach § 6 in Angelegenheiten, die mit dem Erwerb,
@@ -2097,18 +2150,21 @@ einschließlich diesbezüglicher bewährter Praktiken, aus.
 
 
 ### § 46 Beratung zu Alternativen zu Tierversuchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004700000)
 
 Das Bundesinstitut berät die zuständigen Behörden in Angelegenheiten,
 die mit Alternativen zu Tierversuchen zusammenhängen.
 
 
 ### § 47 Unberührtheitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004801119)
 
 Die Vorschriften des Naturschutzrechts, des Jagdrechts, des
 Umweltrechts und des Fischereirechts bleiben unberührt.
 
 
 ### § 48 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE004901119)
 
 (1) Die §§ 1 und 3 bis 6 gelten für Einrichtungen und Betriebe, in
 denen am 12. August 2013 Wirbeltiere oder Kopffüßer,
@@ -2182,6 +2238,7 @@ zum 1. Dezember 2021 geltenden Fassung weiter anzuwenden.
 
 
 ### Anlage 1 Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE005001119)
 
 (Fundstelle: BGBl. I 2013, 3140 - 3141;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2351,6 +2408,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Absatz 2)
 
 ### Anlage 2 Tötungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tierschversv/BJNR312600013.html#BJNR312600013BJNE005100001)
 
 (Fundstelle: BGBl. I 2013, 3142 - 3143)
 

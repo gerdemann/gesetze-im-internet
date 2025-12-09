@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rebflanpflv_02_03/BJNR150100000.html#BJNR150100000BJNE000101320)
 
 Auf Grund des § 7 Abs. 2 Nr. 1, 2 und 4, auch in Verbindung mit § 54
 Abs. 1, diese jeweils in Verbindung mit § 53 Abs. 3 des Weingesetzes
@@ -31,6 +32,7 @@ Landwirtschaft und Forsten:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rebflanpflv_02_03/BJNR150100000.html#BJNR150100000BJNE000201320)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung von
 Titel II Kapitel I der Verordnung (EG) Nr. 1493/1999 des Rates vom 17.
@@ -43,6 +45,7 @@ Marktorganisation für Wein hinsichtlich des Produktionspotentials
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rebflanpflv_02_03/BJNR150100000.html#BJNR150100000BJNE000308310)
 
 Die nach Landesrecht zuständigen Behörden genehmigen die
 Neuanpflanzung von Rebflächen nach Maßgabe der in § 1 genannten
@@ -118,6 +121,7 @@ ergebenden Höchstfläche:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rebflanpflv_02_03/BJNR150100000.html#BJNR150100000BJNE000401320)
 
 Die Landesregierungen regeln, soweit bundesrechtliche Vorschriften
 nicht entgegenstehen, in Rechtsverordnungen die näheren
@@ -127,6 +131,7 @@ Höchstflächen nicht überschritten werden.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/rebflanpflv_02_03/BJNR150100000.html#BJNR150100000BJNE000701310)
 
 Im Falle der im Lande Schleswig-Holstein belegenen Rebflächen bedarf
 es nicht des Erfordernisses, dass die neuanzupflanzenden Rebflächen in
@@ -136,6 +141,7 @@ stehen müssen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rebflanpflv_02_03/BJNR150100000.html#BJNR150100000BJNE000501320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

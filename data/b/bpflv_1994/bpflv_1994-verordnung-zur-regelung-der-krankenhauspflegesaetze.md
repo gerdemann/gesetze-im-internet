@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNG000200000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE000304116)
 
 (1) Nach dieser Verordnung werden die vollstationären,
 stationsäquivalenten und teilstationären Leistungen der Krankenhäuser
@@ -55,6 +57,7 @@ einheitlich nach § 115a des Fünften Buches Sozialgesetzbuch vergütet.
 
 
 ### § 2 Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE000410130)
 
 (1) Krankenhausleistungen nach § 1 Abs. 1 sind insbesondere ärztliche
 Behandlung, auch durch nicht fest angestellte Ärztinnen und Ärzte,
@@ -123,10 +126,12 @@ zwischen Krankenhäusern erbracht werden.
 
 
 ## Zweiter Abschnitt - Vergütung der Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNG000501360)
 
 
 
 ### § 3 Vereinbarung eines Gesamtbetrags
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE000614130)
 
 (1) Das Vergütungssystem nach § 17d des
 Krankenhausfinanzierungsgesetzes wird für die Jahre 2013 bis 2019
@@ -421,6 +426,7 @@ entsprechend.
 
 
 ### § 4 Leistungsbezogener Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE000710116)
 
 (1) Zur Unterstützung der Vertragsparteien nach § 11 bei der
 Vereinbarung eines leistungsgerechten Gesamtbetrags, eines
@@ -482,6 +488,7 @@ Krankenhaus.
 
 
 ### § 5 Vereinbarung von Zu- und Abschlägen
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE000810116)
 
 (1) Die nach § 9 Absatz 1 Nummer 3 vereinbarten Regelungen für
 bundeseinheitliche Zu- und Abschläge nach § 17d Absatz 2 Satz 4 des
@@ -535,6 +542,7 @@ tatsächlich genutzt werden.
 
 
 ### § 6 Vereinbarung sonstiger Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE000922116)
 
 (1) Für Leistungen, die mit den nach § 17d des
 Krankenhausfinanzierungsgesetzes auf Bundesebene bewerteten Entgelten
@@ -583,10 +591,12 @@ bilden.
 
 
 ## Dritter Abschnitt - Entgeltarten und Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNG003200360)
 
 
 
 ### § 7 Entgelte für allgemeine Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE001011125)
 
 Die allgemeinen Krankenhausleistungen werden gegenüber den
 Patientinnen und Patienten oder ihren Kostenträgern mit folgenden
@@ -641,6 +651,7 @@ vergütet. Darüber hinaus werden folgende Zuschläge abgerechnet:
 
 
 ### § 8 Berechnung der Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE001111130)
 
 (1) Die Entgelte für allgemeine Krankenhausleistungen sind für alle
 Patientinnen und Patienten des Krankenhauses einheitlich zu berechnen;
@@ -747,10 +758,12 @@ Erlösausgleiche nicht berücksichtigt.
 
 
 ## Vierter Abschnitt - Vereinbarungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNG003300360)
 
 
 
 ### § 9 Vereinbarung auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE001209130)
 
 (1) Der Spitzenverband Bund der Krankenkassen und der Verband der
 privaten Krankenversicherung gemeinsam vereinbaren mit der Deutschen
@@ -852,9 +865,11 @@ die Schiedsstelle bis zum 9. Januar 2025 zu treffen.
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE001411116)
 
 
 ### § 11 Vereinbarung für das einzelne Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE001517130)
 
 (1) Nach Maßgabe der §§ 3 bis 6 und unter Beachtung des
 Versorgungsauftrags des Krankenhauses nach § 8 Absatz 1 Satz 3 und 4
@@ -1011,6 +1026,7 @@ Absatz 4 Satz 5 wie folgt zu vereinbaren ist:
 
 
 ### § 12 Vorläufige Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE001612360)
 
 Können sich die Vertragsparteien insbesondere über die Höhe des
 Gesamtbetrags, des Erlösbudgets, des krankenhausindividuellen
@@ -1026,6 +1042,7 @@ ausgeglichen.
 
 
 ### § 13 Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE002407116)
 
 (1) Kommt eine Vereinbarung nach § 11 ganz oder teilweise nicht
 zustande, entscheidet die Schiedsstelle nach § 18a Abs. 1 des
@@ -1065,6 +1082,7 @@ Gründen beruht.
 
 
 ### § 14 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE002504116)
 
 (1) Die Genehmigung des vereinbarten oder von der Schiedsstelle nach §
 13 festgesetzten krankenhausindividuellen Basisentgeltwerts, des
@@ -1092,6 +1110,7 @@ Rechtsauffassung der Genehmigungsbehörde erneut zu entscheiden.
 
 
 ### § 15 Laufzeit
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE002608116)
 
 (1) Die mit Bewertungsrelationen bewerteten Entgelte und sonstigen
 Entgelte werden in der für das Kalenderjahr vereinbarten
@@ -1126,10 +1145,12 @@ anzuwenden.
 
 
 ## Fünfter Abschnitt - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNG002002360)
 
 
 
 ### § 16 Gesondert berechenbare ärztliche und andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE002805116)
 
 Die Berechnung belegärztlicher Leistungen richtet sich nach § 18 des
 Krankenhausentgeltgesetzes. Die Vereinbarung und Berechnung von
@@ -1138,6 +1159,7 @@ nach den §§ 17 und 19 des Krankenhausentgeltgesetzes.
 
 
 ### § 17 Zuständigkeit der Krankenkassen auf Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE004403360)
 
 Die in dieser Verordnung den Landesverbänden der Krankenkassen
 zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs.
@@ -1149,6 +1171,7 @@ Landwirtschaft, Forsten und Gartenbau wahr.
 
 
 ### § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpflv_1994/BJNR275010994.html#BJNR275010994BJNE004311116)
 
 (1) Krankenhäuser, die in den Jahren 2013, 2014, 2015, 2016 oder 2017
 nach § 3 Absatz 1 Satz 2 das Vergütungssystem nach § 17d des

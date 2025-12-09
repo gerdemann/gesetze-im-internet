@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zusammenführung der Bundeseisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000100303)
 
 Das unter dem Namen "Deutsche Bundesbahn" als nicht rechtsfähiges
 Sondervermögen verwaltete Bundeseisenbahnvermögen sowie das
@@ -30,6 +31,7 @@ verwaltet.
 
 
 ## § 2 Vermögen des Bundeseisenbahnvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000200303)
 
 Vermögensgegenstände und -rechte sowie Verbindlichkeiten der in § 1
 genannten Sondervermögen "Deutsche Bundesbahn" und "Deutsche
@@ -38,6 +40,7 @@ Verbindlichkeiten des Bundeseisenbahnvermögens.
 
 
 ## § 3 Gliederung und Aufgaben des Bundeseisenbahnvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000300303)
 
 (1) Das Bundeseisenbahnvermögen ist in zwei Bereiche gegliedert:
 
@@ -81,6 +84,7 @@ Verbindlichkeiten des Bundeseisenbahnvermögens.
 
 
 ## § 4 Stellung im gerichtlichen und außergerichtlichen Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000400303)
 
 (1) Das Bundeseisenbahnvermögen kann im Rechtsverkehr unter seinem
 Namen handeln, klagen und verklagt werden.
@@ -92,6 +96,7 @@ im Rechtsstreit zu vertreten.
 
 
 ## § 5 Haftung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000501311)
 
 (1) Das Bundeseisenbahnvermögen ist unbeschadet der Schuldmitübernahme
 nach § 1 Abs. 2 des Schuldenmitübernahmegesetzes vom 21. Juni 1999
@@ -112,6 +117,7 @@ Bundeseisenbahnvermögen gemäß § 17 eingeht.
 
 
 ## § 6 Verwaltungsaufbau
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000603305)
 
 (1) Die im Zeitpunkt der Zusammenführung der in § 1 genannten
 Sondervermögen bestehenden Dienststellen dieser Sondervermögen werden
@@ -144,6 +150,7 @@ des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
 
 ## § 7 Personalwesen
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000707119)
 
 (1) Die Beamten, Angestellten und Arbeiter des
 Bundeseisenbahnvermögens stehen im Dienst des Bundes. Die Beamten sind
@@ -216,10 +223,12 @@ Eisenbahnbetriebes es erfordert.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000801119)
 
 
 
 ## § 9 Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE000901308)
 
 (1) § 8 Abs. 1 gilt entsprechend für die Wahlen zu den
 Schwerbehindertenvertretungen im Bereich des Bundeseisenbahnvermögens.
@@ -245,6 +254,7 @@ Bundeseisenbahnvermögen.
 
 
 ## § 10 Vorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001003305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur ist
 oberster Dienstvorgesetzter und Vorgesetzter des Präsidenten des
@@ -263,6 +273,7 @@ digitale Infrastruktur bedarf.
 
 
 ## § 11 Verwendung auf anderen Dienstposten
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001100303)
 
 Der Präsident oder die von ihm bestimmten Dienststellen des
 Bundeseisenbahnvermögens können einen Beamten vorübergehend auf einem
@@ -284,6 +295,7 @@ Bundeseisenbahnvermögens oder der Gesellschaft ergeben.
 
 
 ## § 12 Besoldungsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001200303)
 
 (1) Beim Bundeseisenbahnvermögen können die nach § 26 Abs. 1 des
 Bundesbesoldungsgesetzes oder den Verordnungen zu § 26 Abs. 4 Nr. 1
@@ -302,6 +314,7 @@ unberührt.
 
 
 ## § 13 Gesetzliche Sozialeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001305305)
 
 (1) Das Bundeseisenbahnvermögen führt für seinen Bereich auf dem
 Gebiet der Krankenversicherung die Aufgaben der bisherigen
@@ -318,6 +331,7 @@ Deutsche Bahn Aktiengesellschaft.
 
 
 ## § 14 Krankenversorgung der Beamten des Bundeseisenbahnvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001400303)
 
 (1) Die Krankenversorgung der Bundesbahnbeamten als betriebliche
 Sozialeinrichtung der Deutschen Bundesbahn im Sinne des § 27 des
@@ -373,6 +387,7 @@ Wertausgleich übergeben.
 
 
 ## § 15 Betriebliche Sozialeinrichtungen, Selbsthilfeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001501308)
 
 (1) Die Bundesbahnversicherungsanstalt Abteilung B als betriebliche
 Sozialeinrichtung des bisherigen Sondervermögens Deutsche Bundesbahn
@@ -422,6 +437,7 @@ Rentenversicherung Knappschaft-Bahn-See weitergeführt.
 
 
 ## § 16 Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001606123)
 
 (1) Die nicht durch eigene Einnahmen gedeckten Aufwendungen des
 Bundeseisenbahnvermögens werden aus dem Bundeshaushalt getragen.
@@ -459,6 +475,7 @@ Infrastruktur und des Bundesministeriums der Finanzen.
 
 
 ## § 17 Schuldurkunden
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001702308)
 
 (1) Die Schuldurkunden des Bundeseisenbahnvermögens stehen den
 Schuldurkunden des Bundes gleich. § 5 Abs. 2 Satz 1 und Abs. 3 bleibt
@@ -470,6 +487,7 @@ verwaltet.
 
 
 ## § 18 Jahresabschluß und Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001803305)
 
 (1) Das Bundeseisenbahnvermögen stellt am Schluß eines jeden
 Kalenderjahres die Jahresrechnung für das Sondervermögen auf. Die
@@ -499,6 +517,7 @@ Wirtschaftsführung des Bundeseisenbahnvermögens zu erteilen.
 
 
 ## § 19 Haushalts- und Wirtschaftsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE001900303)
 
 Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung des
 Bundeseisenbahnvermögens. Teil V der Bundeshaushaltsordnung ist
@@ -506,6 +525,7 @@ entsprechend anzuwenden.
 
 
 ## § 20 Übertragungsverpflichtung des Bundeseisenbahnvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002004123)
 
 (1) Die Bundesrepublik Deutschland (Bundeseisenbahnvermögen) ist
 berechtigt und verpflichtet, der nach § 1 Abs. 1 des Deutsche Bahn
@@ -548,6 +568,7 @@ Bundeseisenbahnvermögen.
 
 
 ## § 21 Vermögensübergang
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002100303)
 
 Liegenschaften des Bundeseisenbahnvermögens, die unmittelbar und
 ausschließlich bahnnotwendig sind, gehen auf die Deutsche Bahn
@@ -556,6 +577,7 @@ Aktiengesellschaft mit dem Tag ihrer Eintragung in das Handelsregister
 
 
 ## § 22 Verfügungsbefugnis der Deutsche Bahn Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002204305)
 
 (1) Die Deutsche Bahn Aktiengesellschaft ist zur Verfügung über
 Liegenschaften befugt, wenn die Bundesrepublik Deutschland
@@ -606,6 +628,7 @@ Reichsbahn aufzunehmen.
 
 
 ## § 23 Feststellung des Übergangs und Vornahme der Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002300303)
 
 (1) Der Übergang von Liegenschaften aus dem Bundeseisenbahnvermögen
 auf Grund des § 21 auf die Deutsche Bahn Aktiengesellschaft wird durch
@@ -673,6 +696,7 @@ ein dem Vergleich entsprechender Bescheid.
 
 
 ## § 24 Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002403305)
 
 (1) Auf Antrag der Deutsche Bahn Aktiengesellschaft entscheidet eine
 Schiedsstelle darüber,
@@ -707,6 +731,7 @@ eine Vergütung gezahlt wird.
 
 
 ## § 25 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002503305)
 
 Verwaltungsvorschriften zur Durchführung der §§ 20 bis 24 erläßt das
 Bundesministerium für Verkehr und digitale Infrastruktur im
@@ -714,6 +739,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen.
 
 
 ## § 26 Übertragung von Liegenschaften auf Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002603305)
 
 (1) Die Deutsche Bahn Aktiengesellschaft ist berechtigt und
 verpflichtet, für die Durchführung von Schienenpersonennahverkehr
@@ -778,6 +804,7 @@ für mindestens 30 Jahre nicht einhält.
 
 
 ## § 27 Anwendung von Vorschriften auf ausgegliederte Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002700303)
 
 (1) § 7 Abs. 4, 5, § 11 Nr. 2, § 12 Abs. 2 sowie § 15 Abs. 1 Satz 4,
 Abs. 3 gelten entsprechend für die nach § 2 Abs. 1 des Deutsche Bahn
@@ -798,6 +825,7 @@ festgestellt werden.
 
 
 ## § 28 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002800303)
 
 (1) Bis zur Eintragung der Deutsche Bahn Aktiengesellschaft in das
 Handelsregister wird das Bundeseisenbahnvermögen auf der Grundlage der
@@ -832,12 +860,14 @@ Liegenschaft ist.
 
 
 ## § 29 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE002900303)
 
 Rechtsverordnungen auf Grund dieses Gesetzes bedürfen nicht der
 Zustimmung des Bundesrates.
 
 
 ## § 30 Auflösung des Bundeseisenbahnvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE003003305)
 
 (1) Die Bundesregierung wird ermächtigt, frühestens zehn Jahre nach
 Inkrafttreten dieses Gesetzes das Bundeseisenbahnvermögen aufzulösen
@@ -854,6 +884,7 @@ der Stelle fort, der die Aufgaben des Bundeseisenbahnvermögens
 
 
 ## Anlage (zu § 15 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE003100303)
 
 
 A.  Betriebliche Sozialeinrichtungen der bisherigen Bundeseisenbahnen
@@ -913,6 +944,7 @@ B.  Selbsthilfeeinrichtungen der bisherigen Bundeseisenbahnen
 
 
 ## Anlage (zu § 22 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bezng/BJNR237810993.html#BJNR237810993BJNE003200303)
 
 Rechtsvorgänger
 Deutsches Reich Reichseisenbahnvermögen

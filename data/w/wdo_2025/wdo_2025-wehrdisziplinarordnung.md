@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt G 52-5 v. 16.8.2001 I 2093 (WDO 2002)
 
 ## Teil 1 - Einleitende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000100000)
 
 
 ### § 1 Sachlicher und persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000200000)
 
 (1) Dieses Gesetz regelt die Würdigung besonderer Leistungen durch
 förmliche Anerkennungen und die Ahndung von Dienstvergehen durch
@@ -40,6 +42,7 @@ Ruhestand. Die gewährten Leistungen gelten als Ruhegehalt.
 
 
 ### § 2 Früher begangene Dienstvergehen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000300000)
 
 (1) Wer nach Beendigung eines früheren Wehrdienstverhältnisses erneut
 in einem Wehrdienstverhältnis steht, kann auch wegen solcher
@@ -68,6 +71,7 @@ Verweis oder die Disziplinarbuße verhängen.
 
 
 ### § 3 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000400000)
 
 (1) Der Soldatin oder dem Soldaten ist zu gestatten, die Akten
 einzusehen, soweit dies ohne Gefährdung des Ermittlungszwecks möglich
@@ -87,6 +91,7 @@ dürfen weder beigezogen noch verwertet werden.
 
 
 ### § 4 Beteiligung der Vertrauensperson
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000500000)
 
 Für die Beteiligung der Vertrauensperson bei Entscheidungen nach
 diesem Gesetz gelten die §§ 28 und 29 des Soldatinnen- und
@@ -97,6 +102,7 @@ dessen Anhörung nach § 14 Absatz 1 Satz 3 oder nach § 32 Absatz 5 Satz
 
 
 ### § 5 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000600000)
 
 (1) Die in diesem Gesetz vorgeschriebenen Zustellungen werden
 ausgeführt
@@ -128,6 +134,7 @@ erhalten, gilt es spätestens zu diesem Zeitpunkt als zugestellt.
 
 
 ### § 6 Belehrung über Rechtsmittel und Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000700000)
 
 Bei allen nach diesem Gesetz anfechtbaren Entscheidungen ist die
 Soldatin oder der Soldat über die Möglichkeit der Anfechtung, über die
@@ -137,6 +144,7 @@ elektronisch zu belehren.
 
 
 ### § 7 Disziplinarbuch
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000800000)
 
 Förmliche Anerkennungen, unanfechtbar verhängte Disziplinarmaßnahmen
 und rechtskräftig ausgesprochene Strafen sind in das Disziplinarbuch
@@ -144,6 +152,7 @@ einzutragen.
 
 
 ### § 8 Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE000900000)
 
 (1) Förmliche Anerkennungen sind zu tilgen, wenn ihre Rücknahme
 unanfechtbar geworden ist.
@@ -215,6 +224,7 @@ die Absätze 7 und 8 gelten entsprechend.
 
 
 ### § 9 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001000000)
 
 (1) Auskünfte über förmliche Anerkennungen, über Disziplinarmaßnahmen
 und über im Disziplinarbuch eingetragene gerichtliche Strafen,
@@ -249,6 +259,7 @@ mit Zustimmung der Soldatin oder des Soldaten erteilt.
 
 
 ### § 10 Entschädigung von Zeuginnen, Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001100000)
 
 Werden Zeuginnen, Zeugen oder Sachverständige nicht dienstlich
 gestellt, so erhalten sie eine Entschädigung oder Vergütung in
@@ -257,9 +268,11 @@ entsprechender Anwendung des Justizvergütungs- und
 
 
 ## Teil 2 - Würdigung besonderer Leistungen durch förmliche Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000200000)
 
 
 ### § 11 Voraussetzungen und Arten der förmlichen Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001200000)
 
 (1) Vorbildliche Pflichterfüllung oder hervorragende Einzeltaten
 können durch förmliche Anerkennungen gewürdigt werden.
@@ -274,6 +287,7 @@ gewürdigt werden.
 
 
 ### § 12 Zuständigkeit zum Erteilen förmlicher Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001300000)
 
 (1) Es können erteilen
 
@@ -306,6 +320,7 @@ gewürdigt werden.
 
 
 ### § 13 Verfahren beim Erteilen förmlicher Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001400000)
 
 (1) Bei der Entscheidung, ob eine förmliche Anerkennung erteilt werden
 soll, ist ein strenger Maßstab anzulegen. Die Soldatin oder der Soldat
@@ -322,6 +337,7 @@ Disziplinarvorgesetzte der Soldatin oder des Soldaten anzuhören.
 
 
 ### § 14 Rücknahme förmlicher Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001500000)
 
 (1) Die förmliche Anerkennung ist zurückzunehmen, wenn sich
 nachträglich herausstellt, dass die Voraussetzungen, unter denen sie
@@ -347,12 +363,15 @@ würde.
 
 
 ## Teil 3 - Ahndung von Dienstvergehen durch Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000300000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000400000)
 
 
 #### § 15 Disziplinarmaßnahmen, Ermessensgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001600000)
 
 (1) Dienstvergehen nach § 23 des Soldatengesetzes können geahndet
 werden durch einfache Disziplinarmaßnahmen nach § 22 oder durch
@@ -367,6 +386,7 @@ dienstliche und außerdienstliche Verhalten zu berücksichtigen.
 
 
 #### § 16 Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001700000)
 
 (1) Ist durch ein Gericht oder eine Behörde unanfechtbar eine Strafe
 oder Ordnungsmaßnahme verhängt worden oder kann eine Tat nach § 153a
@@ -412,6 +432,7 @@ wird.
 
 
 #### § 17 Beschleunigungsgebot, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001800000)
 
 (1) Disziplinarsachen sind beschleunigt zu behandeln.
 
@@ -453,6 +474,7 @@ die Soldatin oder den Soldaten eingeleitet worden ist.
 
 
 #### § 18 Verbot mehrfacher, Gebot einheitlicher Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE001900000)
 
 (1) Ein Dienstvergehen darf nur einmal disziplinar geahndet werden. §
 99 bleibt unberührt.
@@ -463,6 +485,7 @@ Dienstvergehen zu ahnden.
 
 
 #### § 19 Gnadenrecht
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002000000)
 
 (1) Der Bundespräsidentin oder dem Bundespräsidenten steht das
 Gnadenrecht hinsichtlich der nach diesem Gesetz verhängten
@@ -475,6 +498,7 @@ Soldatengesetzes entsprechend.
 
 
 #### § 20 Durchsuchung und Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002100000)
 
 (1) Zur Aufklärung eines Dienstvergehens darf die oder der
 Disziplinarvorgesetzte Durchsuchungen und Beschlagnahmen nur außerhalb
@@ -548,6 +572,7 @@ zu. § 119 bleibt unberührt.
 
 
 #### § 21 Vorläufige Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002200000)
 
 (1) Die Disziplinarvorgesetzten haben die Befugnis, Soldatinnen und
 Soldaten, die ihrer Disziplinarbefugnis unterstehen, wegen eines
@@ -609,12 +634,15 @@ der oder des Festgenommenen zu melden.
 
 
 ### Kapitel 2 - Die Disziplinarbefugnis der Disziplinarvorgesetzten und ihre Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000500000)
 
 
 #### Abschnitt 1 - Einfache Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000600000)
 
 
 ##### § 22 Arten der einfachen Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002300000)
 
 (1) Die Disziplinarmaßnahmen, die von den Disziplinarvorgesetzten
 verhängt werden können (einfache Disziplinarmaßnahmen), sind:
@@ -683,6 +711,7 @@ Reservistengesetzes nur ein Verweis verhängt werden.
 
 
 ##### § 23 Verweis, strenger Verweis
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002400000)
 
 (1) Der Verweis ist der förmliche Tadel eines bestimmten
 pflichtwidrigen Verhaltens.
@@ -701,6 +730,7 @@ Einleitung eines gerichtlichen Disziplinarverfahrens aber absieht.
 
 
 ##### § 24 Disziplinarbuße, strenge Disziplinarbuße
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002500000)
 
 (1) Die Disziplinarbuße darf den einmonatigen Betrag der Dienstbezüge
 oder des Wehrsoldes nicht überschreiten. Bei denjenigen, deren
@@ -717,6 +747,7 @@ Truppe bekannt gemacht wird.
 
 
 ##### § 25 Ausgangsbeschränkung, strenge Ausgangsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002600000)
 
 (1) Die Ausgangsbeschränkung besteht in dem Verbot, die dienstliche
 Unterkunft ohne Erlaubnis zu verlassen. Sie kann beim Verhängen durch
@@ -736,6 +767,7 @@ entsprechend.
 
 
 ##### § 26 Disziplinararrest, strenger Disziplinararrest
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002700000)
 
 (1) Der Disziplinararrest besteht in einfacher Freiheitsentziehung. Er
 dauert mindestens drei Tage und höchstens drei Wochen.
@@ -745,9 +777,11 @@ der Truppe bekannt gemacht wird.
 
 
 #### Abschnitt 2 - Disziplinarbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000700000)
 
 
 ##### § 27 Disziplinarvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002800000)
 
 (1) Die Befugnis, Disziplinarmaßnahmen zu verhängen und die sonst den
 Disziplinarvorgesetzten obliegenden Entscheidungen und Maßnahmen zu
@@ -777,6 +811,7 @@ sonstige Pflichten zusammentrifft.
 
 
 ##### § 28 Stufen der Disziplinarbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE002900000)
 
 (1) Die Disziplinarbefugnis ist nach der Dienststellung der
 Disziplinarvorgesetzten abgestuft. Es können verhängen
@@ -831,6 +866,7 @@ Disziplinarvorgesetzten zu melden.
 
 
 ##### § 29 Zuständigkeit der oder des nächsten Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003000000)
 
 (1) Soweit das Gesetz nicht etwas anderes bestimmt, übt die oder der
 nächste Disziplinarvorgesetzte die Disziplinarbefugnis aus. Nächste
@@ -854,6 +890,7 @@ ausgeübt werden.
 
 
 ##### § 30 Zuständigkeit der oder des nächsthöheren Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003100000)
 
 (1) Die oder der nächsthöhere Disziplinarvorgesetzte ist zuständig,
 wenn die Tat von der oder dem nächsten Disziplinarvorgesetzten nicht
@@ -902,6 +939,7 @@ oder dem nächsthöheren Disziplinarvorgesetzten zu melden.
 
 
 ##### § 31 Disziplinarbefugnis nach dem Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003200000)
 
 (1) Die örtlichen Befehlshaberinnen und Befehlshaber, die Führerinnen
 und Führer von besonders zusammengestellten Abteilungen und die
@@ -947,9 +985,11 @@ entsprechend.
 
 
 #### Abschnitt 3 - Ausübung der Disziplinarbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000800000)
 
 
 ##### § 32 Ermittlungen der Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003300000)
 
 (1) Werden Tatsachen bekannt, die den Verdacht eines Dienstvergehens
 rechtfertigen, so muss die oder der Disziplinarvorgesetzte den
@@ -988,6 +1028,7 @@ das von der Soldatin oder dem Soldaten unterschrieben sein soll.
 
 
 ##### § 33 Prüfungspflicht der Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003400000)
 
 (1) Hat eine Soldatin oder ein Soldat ein Dienstvergehen begangen,
 prüft die oder der Disziplinarvorgesetzte, ob es mit einer
@@ -1016,6 +1057,7 @@ der Soldatin oder des Soldaten liegen.
 
 
 ##### § 34 Bindung an tatsächliche Feststellungen anderer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003500000)
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
 Strafverfahren oder Bußgeldverfahren, auf denen die Entscheidung
@@ -1033,6 +1075,7 @@ bringen.
 
 
 ##### § 35 Selbstständigkeit der Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003600000)
 
 (1) Die oder der zuständige Disziplinarvorgesetzte entscheidet allein
 verantwortlich. Ihr oder ihm kann nicht befohlen werden, ob und wie
@@ -1051,6 +1094,7 @@ dürfen höhere Vorgesetzte diese Entscheidung nicht ändern.
 
 
 ##### § 36 Absehen von einer Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003700000)
 
 (1) Wird durch die Ermittlungen ein Dienstvergehen nicht festgestellt
 oder hält die oder der Disziplinarvorgesetzte eine Disziplinarmaßnahme
@@ -1064,6 +1108,7 @@ werden.
 
 
 ##### § 37 Verhängen der Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003800000)
 
 (1) Eine Disziplinarmaßnahme darf erst nach Ablauf einer Nacht
 verhängt werden, nachdem die Soldatin oder der Soldat nach § 32 Absatz
@@ -1096,6 +1141,7 @@ unberührt.
 
 
 ##### § 38 Bemessung der Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE003900000)
 
 (1) Bei der Bemessung von Art und Höhe der Disziplinarmaßnahme sind
 Eigenart und Schwere des Dienstvergehens und seine Auswirkungen, das
@@ -1114,6 +1160,7 @@ Freiheitsentziehung gebietet.
 
 
 ##### § 39 Anrechnung von Freiheitsentziehung auf die Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004000000)
 
 Auf die Disziplinarmaßnahme kann eine Freiheitsentziehung, die die
 Soldatin oder der Soldat aus Anlass ihrer oder seiner Tat durch
@@ -1123,6 +1170,7 @@ Disziplinarmaßnahme ganz oder teilweise für vollstreckt erklärt wird.
 
 
 ##### § 40 Richterliche Mitwirkung bei der Verhängung von Disziplinararrest und strengem Disziplinararrest
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004100000)
 
 (1) Disziplinararrest darf erst verhängt werden, nachdem die Richterin
 oder der Richter des zuständigen, notfalls des nächst erreichbaren
@@ -1196,6 +1244,7 @@ gehemmt.
 
 
 ##### § 41 Disziplinarvorgesetzte und gerichtliches Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004200000)
 
 Ist die Einleitung eines gerichtlichen Disziplinarverfahrens geboten,
 führt die oder der zuständige Disziplinarvorgesetzte die Entscheidung
@@ -1203,9 +1252,11 @@ der Einleitungsbehörde herbei.
 
 
 #### Abschnitt 4 - Beschwerden gegen Maßnahmen und Entscheidungen der Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG000900000)
 
 
 ##### § 42 Anwendung der Wehrbeschwerdeordnung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004300000)
 
 (1) Auf Beschwerden gegen Disziplinarmaßnahmen sowie gegen sonstige
 Maßnahmen und Entscheidungen der Disziplinarvorgesetzten und gegen
@@ -1232,6 +1283,7 @@ mit dieser Feststellung angefochten werden.
 
 
 ##### § 43 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004400000)
 
 (1) Über die Beschwerde entscheidet die oder der nächste
 Disziplinarvorgesetzte der oder des Vorgesetzten, welche oder welcher
@@ -1281,6 +1333,7 @@ Absatz 2 Satz 4 und 5 sowie § 40 Absatz 4 Satz 8 gelten entsprechend.
 
 
 ##### § 44 Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004500000)
 
 (1) Die Entscheidung über die Beschwerde darf die Disziplinarmaßnahme
 nicht verschärfen.
@@ -1317,9 +1370,11 @@ ausgeschieden ist.
 
 
 #### Abschnitt 5 - Nochmalige Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001000000)
 
 
 ##### § 45 Aufhebung einer Disziplinarmaßnahme bei nachträglichem Straf- oder Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004600000)
 
 (1) Ist eine einfache Disziplinarmaßnahme unanfechtbar verhängt worden
 und wird wegen desselben Sachverhalts nachträglich durch ein Gericht
@@ -1343,6 +1398,7 @@ Strafverfahren oder Bußgeldverfahren erkennbar angerechnet worden ist.
 
 
 ##### § 46 Aufhebung oder Änderung einer Disziplinarmaßnahme aus anderen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004700000)
 
 (1) Jede und jeder Disziplinarvorgesetzte muss beantragen, die
 Disziplinarmaßnahme aufzuheben, wenn sie oder er der Auffassung ist,
@@ -1377,6 +1433,7 @@ abweichen.
 
 
 ##### § 47 Verfahren bei Aufhebung oder Änderung einer Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004800000)
 
 (1) Über den Antrag auf Aufhebung oder Änderung einer
 Disziplinarmaßnahme entscheidet das Wehrdienstgericht durch Beschluss.
@@ -1393,6 +1450,7 @@ Beschwerdeverfahren gegen die Disziplinarmaßnahme mitgewirkt haben.
 
 
 ##### § 48 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE004900000)
 
 (1) Die höheren Disziplinarvorgesetzten überwachen die ihnen
 unterstellten Disziplinarvorgesetzten in der Ausübung der
@@ -1460,9 +1518,11 @@ bekannt werden, der für das Aufheben zuständigen Stelle zu melden.
 
 
 #### Abschnitt 6 - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001100000)
 
 
 ##### § 49 Vollstreckbarkeit der Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005000000)
 
 (1) Eine verhängte Disziplinarmaßnahme ist erst dann zu vollstrecken,
 wenn die Soldatin oder der Soldat an dem auf die Verhängung folgenden
@@ -1476,6 +1536,7 @@ Entscheidung wirksam und vollstreckbar.
 
 
 ##### § 50 Zuständigkeit für die Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005100000)
 
 (1) Einfache Disziplinarmaßnahmen vollstreckt die oder der nächste
 Disziplinarvorgesetzte. Wird die Disziplinarmaßnahme von einer anderen
@@ -1495,6 +1556,7 @@ vollstrecken.
 
 
 ##### § 51 Aussetzung, Aufschub und Unterbrechung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005200000)
 
 (1) Beim Verhängen einer einfachen Disziplinarmaßnahme kann die
 Vollstreckung fünf Monate ausgesetzt werden, um der Soldatin oder dem
@@ -1519,6 +1581,7 @@ aufgeschoben oder unterbrochen werden.
 
 
 ##### § 52 Vollstreckung von Verweis und strengem Verweis
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005300000)
 
 (1) Der Verweis ist mit dem Verhängen vollstreckt.
 
@@ -1530,6 +1593,7 @@ den Soldaten ein strenger Verweis verhängt worden ist.
 
 
 ##### § 53 Vollstreckung von Disziplinarbuße und strenger Disziplinarbuße
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005400000)
 
 (1) Die Disziplinarbuße kann von den Dienstbezügen oder dem Wehrsold
 oder, wenn das Dienstverhältnis endet, von dem Entlassungsgeld oder
@@ -1559,6 +1623,7 @@ worden ist.
 
 
 ##### § 54 Vollstreckung von Ausgangsbeschränkung und strenger Ausgangsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005500000)
 
 (1) Die Ausgangsbeschränkung ist an aufeinanderfolgenden Tagen zu
 vollstrecken. Dieser Zeitraum ist zu befehlen. Bei der verschärften
@@ -1586,6 +1651,7 @@ verschärfte strenge Ausgangsbeschränkung verhängt worden ist.
 
 
 ##### § 55 Vollstreckung und Vollzug von Disziplinararrest und strengem Disziplinararrest; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005600000)
 
 (1) Die Vollstreckung des Disziplinararrests beginnt mit der
 Freiheitsentziehung.
@@ -1626,6 +1692,7 @@ worden ist.
 
 
 ##### § 56 Ausgleich bei nachträglicher Aufhebung einer vollstreckten Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005700000)
 
 (1) Wird ein Disziplinararrest oder ein strenger Disziplinararrest
 nachträglich ganz oder teilweise aufgehoben, erhält die Soldatin oder
@@ -1669,6 +1736,7 @@ oder teilweise aufgehoben hat; die §§ 42 bis 44 gelten entsprechend.
 
 
 ##### § 57 Behelfsvollzug bei Disziplinararrest und strengem Disziplinararrest
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005800000)
 
 (1) Bei Disziplinararrest oder strengem Disziplinararrest ist der
 Behelfsvollzug zulässig, wenn infolge der Art der Verwendung der
@@ -1687,6 +1755,7 @@ zu Dienstleistungen heranzuziehen ist.
 
 
 ##### § 58 Vollstreckung im Zusammenhang mit dem Entlassungstag
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE005900000)
 
 (1) Eine Disziplinarbuße oder eine strenge Disziplinarbuße kann auch
 nach dem Entlassungstag vollstreckt werden.
@@ -1704,6 +1773,7 @@ absehen, wenn hieraus kein Nachteil für die Disziplin zu besorgen ist.
 
 
 ##### § 59 Verjährung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006000000)
 
 Einfache Disziplinarmaßnahmen dürfen nach Ablauf von sechs Monaten
 nicht mehr vollstreckt werden. Die Frist beginnt mit dem Tag, an dem
@@ -1712,12 +1782,15 @@ wird gewahrt, wenn vor ihrem Ablauf die Vollstreckung beginnt.
 
 
 ### Kapitel 3 - Das gerichtliche Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001200000)
 
 
 #### Abschnitt 1 - Gerichtliche Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001300000)
 
 
 ##### § 60 Arten der gerichtlichen Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006100000)
 
 (1) Gerichtliche Disziplinarmaßnahmen gegen Berufssoldatinnen und
 Berufssoldaten sowie gegen Soldatinnen auf Zeit und Soldaten auf Zeit
@@ -1797,6 +1870,7 @@ Disziplinarverfahren.
 
 
 ##### § 61 Kürzung der Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006200000)
 
 Die Kürzung der Dienstbezüge besteht in der bruchteilmäßigen
 Verminderung der jeweiligen Dienstbezüge um mindestens ein Zwanzigstel
@@ -1807,6 +1881,7 @@ der Dienstbezüge unberücksichtigt.
 
 
 ##### § 62 Beförderungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006300000)
 
 (1) Während der Dauer eines Beförderungsverbots darf kein höherer
 Dienstgrad verliehen werden. Auch eine Einweisung in eine Planstelle
@@ -1817,6 +1892,7 @@ höchstens vier Jahre. Sie ist nach vollen Monaten zu bemessen.
 
 
 ##### § 63 Herabsetzung in der Besoldungsgruppe
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006400000)
 
 Ist bei einer Soldatin oder einem Soldaten, bei einer Soldatin im
 Ruhestand oder einem Soldaten im Ruhestand oder bei einer Person nach
@@ -1830,6 +1906,7 @@ entsprechend.
 
 
 ##### § 64 Dienstgradherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006500000)
 
 (1) Bei Offizierinnen und Offizieren ist die Dienstgradherabsetzung um
 einen oder mehrere Dienstgrade bis zum niedrigsten Offizierdienstgrad
@@ -1863,6 +1940,7 @@ herabsetzen.
 
 
 ##### § 65 Entfernung aus dem Dienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006600000)
 
 (1) Mit der Entfernung aus dem Dienstverhältnis wird das
 Dienstverhältnis beendet. Die Entfernung aus dem Dienstverhältnis
@@ -1909,6 +1987,7 @@ die Beschränkungen nach § 64 Absatz 1 und 2 gebunden zu sein.
 
 
 ##### § 66 Kürzung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006700000)
 
 Die Kürzung des Ruhegehalts besteht in der bruchteilmäßigen
 Verminderung des monatlichen Ruhegehalts. Für die Kürzung des
@@ -1919,6 +1998,7 @@ Hälfte gekürzt werden.
 
 
 ##### § 67 Aberkennung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006800000)
 
 (1) Mit der Aberkennung des Ruhegehalts tritt der Verlust der Rechte
 als Soldatin im Ruhestand oder als Soldat im Ruhestand ein. Die
@@ -1940,6 +2020,7 @@ gilt entsprechend.
 
 
 ##### § 68 Aberkennung des Dienstgrades
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE006900000)
 
 Die Aberkennung des Dienstgrades bewirkt den Verlust des Dienstgrades
 und der sich daraus ergebenden Befugnisse. Sie setzt voraus, dass die
@@ -1949,6 +2030,7 @@ die Reservistin oder der Reservist noch im Dienst befände. § 65 Absatz
 
 
 ##### § 69 Disziplinarmaßnahmen gegen als im Ruhestand geltende frühere Soldatinnen und frühere Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007000000)
 
 (1) Bei Personen nach § 1 Absatz 3 besteht die Kürzung des Ruhegehalts
 in der Kürzung der Übergangsbeihilfe, der Übergangsgebührnisse, der
@@ -1976,9 +2058,11 @@ entsprechend.
 
 
 #### Abschnitt 2 - Wehrdienstgerichte
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001400000)
 
 
 ##### § 70 Bestimmung der Wehrdienstgerichte
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007100000)
 
 Dienstgerichte für gerichtliche Disziplinarverfahren gegen Soldatinnen
 und Soldaten und für Verfahren über Beschwerden von Soldatinnen und
@@ -1988,6 +2072,7 @@ des § 82.
 
 
 ##### § 71 Errichtung der Truppendienstgerichte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007200000)
 
 (1) Das Bundesministerium der Verteidigung errichtet durch
 Rechtsverordnung Truppendienstgerichte und bestimmt Anzahl, Sitz und
@@ -2022,6 +2107,7 @@ einer Truppendienstkammer am Sitz des Gerichts wahr.
 
 
 ##### § 72 Zuständigkeit der Truppendienstgerichte
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007300000)
 
 (1) Zuständig ist das Truppendienstgericht, das für den Befehlsbereich
 errichtet ist, zu dem der Truppenteil oder die Dienststelle der
@@ -2044,6 +2130,7 @@ das zuständige Truppendienstgericht.
 
 
 ##### § 73 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007400000)
 
 (1) Das Truppendienstgericht besteht aus der Präsidentin oder dem
 Präsidenten und weiteren Richterinnen und Richtern in erforderlicher
@@ -2080,6 +2167,7 @@ ein weiteres Richteramt bei einem anderen Truppendienstgericht
 
 
 ##### § 74 Präsidialverfassung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007500000)
 
 (1) Bei jedem Truppendienstgericht wird ein Präsidium gebildet.
 
@@ -2093,12 +2181,14 @@ ergibt.
 
 
 ##### § 75 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007600000)
 
 Die Präsidentin oder der Präsident übt die Dienstaufsicht über die
 Angehörigen des jeweiligen Truppendienstgerichts aus.
 
 
 ##### § 76 Ehrenamtliche Richterinnen und ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007700000)
 
 (1) Die ehrenamtlichen Richterinnen und ehrenamtlichen Richter werden
 für zwei Kalenderjahre berufen. Wird die Berufung neuer ehrenamtlicher
@@ -2210,6 +2300,7 @@ dieser Liste gelten die Absätze 1 bis 5 entsprechend.
 
 
 ##### § 77 Besetzung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007800000)
 
 (1) Die Truppendienstkammer entscheidet in der Hauptverhandlung
 
@@ -2272,6 +2363,7 @@ Richter bei einer anderen Truppendienstkammer bleibt unberührt.
 
 
 ##### § 78 Große Besetzung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE007900000)
 
 Vor Anberaumung der Hauptverhandlung kann die oder der Vorsitzende der
 Truppendienstkammer durch Beschluss zwei weitere Richterinnen und
@@ -2280,6 +2372,7 @@ geboten ist.
 
 
 ##### § 79 Ausschluss von der Ausübung des Richteramtes
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008000000)
 
 (1) Eine Richterin oder ein Richter oder eine ehrenamtliche Richterin
 oder ein ehrenamtlicher Richter ist von der Ausübung des Richteramtes
@@ -2331,6 +2424,7 @@ auch ausgeschlossen, wenn sie oder er
 
 
 ##### § 80 Säumige ehrenamtliche Richterinnen und säumige ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008100000)
 
 (1) Gegen ehrenamtliche Richterinnen und ehrenamtliche Richter, die
 sich ohne genügende Entschuldigung zu den Sitzungen nicht rechtzeitig
@@ -2347,6 +2441,7 @@ Truppendienstgericht entscheidet endgültig.
 
 
 ##### § 81 Ruhen und Erlöschen des Amtes von ehrenamtlichen Richterinnen und ehrenamtlichen Richtern
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008200000)
 
 (1) Eine ehrenamtliche Richterin oder ein ehrenamtlicher Richter,
 gegen die oder den ein gerichtliches Disziplinarverfahren eingeleitet
@@ -2397,6 +2492,7 @@ Erlöschen des Amtes widersprechen.
 
 
 ##### § 82 Errichtung, Zusammensetzung und Zuständigkeit der Wehrdienstsenate
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008300000)
 
 (1) Für Wehrdisziplinarsachen und Wehrbeschwerdesachen werden beim
 Bundesverwaltungsgericht Wehrdienstsenate gebildet. Für die
@@ -2458,9 +2554,11 @@ ehrenamtlichen Richter gilt § 76 Absatz 6 bis 8 entsprechend.
 
 
 #### Abschnitt 3 - Wehrdisziplinaranwaltschaften, Bundeswehrdisziplinaranwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001500000)
 
 
 ##### § 83 Wehrdisziplinaranwaltschaften
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008400000)
 
 (1) Durch das Bundesministerium der Verteidigung werden
 Wehrdisziplinaranwaltschaften eingerichtet. Es bestellt Beamtinnen und
@@ -2482,6 +2580,7 @@ gerichtlichen Disziplinarverfahren verhängt worden sind.
 
 
 ##### § 84 Bundeswehrdisziplinaranwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008500000)
 
 (1) Beim Bundesverwaltungsgericht wird eine
 Bundeswehrdisziplinaranwältin oder ein Bundeswehrdisziplinaranwalt
@@ -2520,9 +2619,11 @@ bleiben unberührt.
 
 
 #### Abschnitt 4 - Allgemeine Vorschriften für das gerichtliche Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001600000)
 
 
 ##### § 85 Verfahren gegen frühere Soldatinnen und frühere Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008600000)
 
 (1) Durch eine Versetzung in den Ruhestand oder ein sonstiges
 Ausscheiden aus dem Dienstverhältnis ohne Verlust des Dienstgrades
@@ -2554,6 +2655,7 @@ Soldatengesetzes als Dienstvergehen gilt.
 
 
 ##### § 86 Aussetzung des gerichtlichen Disziplinarverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008700000)
 
 (1) Ist gegen die Soldatin oder den Soldaten wegen des Sachverhalts,
 der dem gerichtlichen Disziplinarverfahren zu Grunde liegt, im
@@ -2580,6 +2682,7 @@ Truppendienstkammer beantragen. Die Entscheidung ist endgültig.
 
 
 ##### § 87 Bindung an tatsächliche Feststellungen anderer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008800000)
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
 Strafverfahren oder im Bußgeldverfahren, auf denen die Entscheidung
@@ -2599,6 +2702,7 @@ Prüfung zu Grunde gelegt werden.
 
 
 ##### § 88 Verhandlungsunfähigkeit oder Abwesenheit der Soldatin oder des Soldaten bei gerichtlichen Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE008900000)
 
 (1) Der Einleitung oder Fortsetzung eines gerichtlichen
 Disziplinarverfahrens steht nicht entgegen, dass die Soldatin oder der
@@ -2634,6 +2738,7 @@ bestellt werden.
 
 
 ##### § 89 Zeuginnen und Zeugen sowie Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009000000)
 
 (1) Die Vereidigung von Zeuginnen und Zeugen sowie Sachverständigen
 ist nur zulässig, wenn sie zur Sicherung des Beweises oder mit
@@ -2648,12 +2753,14 @@ oder einen Richter ausgeführt.
 
 
 ##### § 90 Unzulässigkeit der Verhaftung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009100000)
 
 Die Soldatin oder der Soldat darf im gerichtlichen
 Disziplinarverfahren nicht verhaftet werden.
 
 
 ##### § 91 Gutachten über den psychischen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009200000)
 
 Das Truppendienstgericht kann die Soldatin oder den Soldaten nach
 Anhörung einer oder eines Sachverständigen und der Verteidigerin oder
@@ -2668,6 +2775,7 @@ Dauer von sechs Wochen nicht überschreiten.
 
 
 ##### § 92 Ladungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009300000)
 
 Soldatinnen und Soldaten werden zur Hauptverhandlung sowie zu
 sonstigen Vernehmungen dienstlich gestellt, auch wenn sie Zeuginnen
@@ -2679,6 +2787,7 @@ unmittelbar geladen.
 
 
 ##### § 93 Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009400000)
 
 (1) In jeder Lage des Verfahrens hat die Soldatin oder der Soldat das
 Recht, sich des Beistands einer Verteidigerin oder eines Verteidigers
@@ -2758,6 +2867,7 @@ Zustellung.
 
 
 ##### § 94 Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009500000)
 
 (1) Zur Ergänzung der Vorschriften dieses Gesetzes über das
 gerichtliche Disziplinarverfahren sind die Vorschriften des
@@ -2779,9 +2889,11 @@ anzuwenden.
 
 
 #### Abschnitt 5 - Einleitung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001700000)
 
 
 ##### § 95 Vorermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009600000)
 
 (1) Zur Vorbereitung ihrer Entschließung über die Einleitung eines
 gerichtlichen Disziplinarverfahrens kann die Einleitungsbehörde die
@@ -2825,6 +2937,7 @@ dem Soldaten zuzustellen und der Einleitungsbehörde bekannt zu geben.
 
 
 ##### § 96 Einleitungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009700000)
 
 (1) Das gerichtliche Disziplinarverfahren wird durch schriftliche
 Verfügung der Einleitungsbehörde eingeleitet. Der Soldatin oder dem
@@ -2848,6 +2961,7 @@ Vorgesetzter Einleitungsbehörde ist.
 
 
 ##### § 97 Einleitungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009800000)
 
 (1) Einleitungsbehörde ist
 
@@ -2895,6 +3009,7 @@ zuständige Einleitungsbehörde bestimmen.
 
 
 ##### § 98 Antrag auf Einleitung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE009900000)
 
 (1) Jede Soldatin und jeder Soldat, gegen die oder den eine
 gerichtliche Disziplinarmaßnahme verhängt werden kann, kann die
@@ -2917,6 +3032,7 @@ Gesetzes in Verbindung mit § 88 des Soldatengesetzes.
 
 
 ##### § 99 Nachträgliches gerichtliches Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010000000)
 
 (1) Hält die Einleitungsbehörde eine gerichtliche Disziplinarmaßnahme
 für geboten, kann sie das gerichtliche Disziplinarverfahren auch
@@ -2939,9 +3055,11 @@ Strafverfahren oder Bußgeldverfahren erkennbar angerechnet worden ist.
 
 
 #### Abschnitt 6 - Ermittlungen der Wehrdisziplinaranwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001800000)
 
 
 ##### § 100 Ermittlungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010100000)
 
 (1) Die Wehrdisziplinaranwaltschaft hat die belastenden, entlastenden
 und die für Art und Höhe der Disziplinarmaßnahme bedeutsamen Umstände
@@ -2972,9 +3090,11 @@ gestatten.
 
 
 #### Abschnitt 7 - Verfahren bis zur Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG001900000)
 
 
 ##### § 101 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010200000)
 
 (1) Die Einleitungsbehörde hat das gerichtliche Disziplinarverfahren
 einzustellen, wenn
@@ -3010,6 +3130,7 @@ entsprechend.
 
 
 ##### § 102 Anschuldigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010300000)
 
 (1) Stellt die Einleitungsbehörde das gerichtliche
 Disziplinarverfahren nicht ein, legt die Wehrdisziplinaranwaltschaft
@@ -3041,6 +3162,7 @@ Hauptverhandlung einzelne Beweiserhebungen anordnen.
 
 
 ##### § 103 Zustellung der Anschuldigungsschrift
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010400000)
 
 Die oder der Vorsitzende der Truppendienstkammer stellt der Soldatin
 oder dem Soldaten die Anschuldigungsschrift und die nach § 102 Absatz
@@ -3051,6 +3173,7 @@ eines Verteidigers zu beantragen, hinzuweisen.
 
 
 ##### § 104 Antrag auf gerichtliche Fristsetzung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010500000)
 
 (1) Ist die Anschuldigungsschrift der Soldatin oder dem Soldaten
 innerhalb von sechs Monaten nach der Zustellung der
@@ -3073,6 +3196,7 @@ solange das Verfahren nach § 86 ausgesetzt ist.
 
 
 ##### § 105 Ladung zur Hauptverhandlung, Ladungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010600000)
 
 (1) Nach Ablauf der Frist nach § 103 setzt die oder der Vorsitzende,
 sofern kein Disziplinargerichtsbescheid nach § 114 ergeht, den Termin
@@ -3104,9 +3228,11 @@ eingehalten sei.
 
 
 #### Abschnitt 8 - Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002000000)
 
 
 ##### § 106 Teilnahme der Soldatin oder des Soldaten an der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010700000)
 
 (1) Die Hauptverhandlung findet auch ohne Anwesenheit der Soldatin
 oder des Soldaten statt, wenn
@@ -3144,6 +3270,7 @@ Hinderungsgründe bestehen.
 
 
 ##### § 107 Grundsatz der Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010800000)
 
 (1) Die Hauptverhandlung ist nicht öffentlich. Die Anwesenheit der
 Vertrauensperson nach § 28 Absatz 2 des Soldatinnen- und
@@ -3162,6 +3289,7 @@ Einrichtungen zwingend geboten ist.
 
 
 ##### § 108 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE010900000)
 
 (1) Das Gericht hat zur Erforschung der Wahrheit die Beweisaufnahme
 von Amts wegen auf alle Tatsachen und Beweismittel zu erstrecken, die
@@ -3200,6 +3328,7 @@ Vertrauensperson.
 
 
 ##### § 109 Gegenstand der Urteilsfindung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011000000)
 
 (1) Zum Gegenstand der Urteilsfindung können nur die
 Pflichtverletzungen gemacht werden, die in der Anschuldigungsschrift
@@ -3225,6 +3354,7 @@ Sinne der Strafprozessordnung zu Grunde gelegt werden.
 
 
 ##### § 110 Entscheidung des Truppendienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011100000)
 
 (1) Das Urteil kann nur auf eine Disziplinarmaßnahme, auf Freispruch
 oder auf Einstellung des Verfahrens lauten.
@@ -3245,6 +3375,7 @@ Beschluss einstellen.
 
 
 ##### § 111 Zahlung des Unterhaltsbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011200000)
 
 (1) Die Zahlung eines Unterhaltsbeitrags nach § 65 Absatz 2 oder § 67
 Absatz 2 beginnt, soweit in dem Urteil nicht etwas anderes bestimmt
@@ -3284,6 +3415,7 @@ wird.
 
 
 ##### § 112 Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011300000)
 
 (1) Im Fall der Entfernung aus dem Dienstverhältnis kann das
 Bundesministerium der Verteidigung der früheren Berufssoldatin oder
@@ -3330,6 +3462,7 @@ Fall einer Lebenspartnerschaft.
 
 
 ##### § 113 Unterzeichnung des Urteils, Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011400000)
 
 (1) Das mit Gründen versehene Urteil der Truppendienstkammer ist von
 der oder dem Vorsitzenden, im Fall der großen Besetzung auch von den
@@ -3341,9 +3474,11 @@ Gründen zuzustellen.
 
 
 #### Abschnitt 9 - Verfahren bei Disziplinargerichtsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002100000)
 
 
 ##### § 114 Entscheidung durch Disziplinargerichtsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011500000)
 
 (1) Weist die Sache keine besonderen Schwierigkeiten tatsächlicher
 oder rechtlicher Art auf, kann die oder der Vorsitzende ohne
@@ -3390,6 +3525,7 @@ rechtskräftigen Urteil gleich.
 
 
 ##### § 115 Inhalt des Disziplinargerichtsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011600000)
 
 Der Disziplinargerichtsbescheid enthält
 
@@ -3424,6 +3560,7 @@ Der Disziplinargerichtsbescheid enthält
 
 
 ##### § 116 Disziplinargerichtsbescheid auf Antrag der Wehrdisziplinaranwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011700000)
 
 (1) Hält die Wehrdisziplinaranwaltschaft nach dem Ergebnis der
 Ermittlungen unter Beachtung der Voraussetzungen des § 114 Absatz 1
@@ -3481,9 +3618,11 @@ zuzustellen. § 102 Absatz 2 und 4 gilt entsprechend.
 
 
 #### Abschnitt 10 - Gerichtliches Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002200000)
 
 
 ##### § 117 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011800000)
 
 Ein nach Kapitel 3 vorgesehener Antrag auf gerichtliche Entscheidung
 ist schriftlich oder zu Protokoll der Geschäftsstelle des
@@ -3499,6 +3638,7 @@ erteilen.
 
 
 ##### § 118 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE011900000)
 
 In gerichtlichen Antragsverfahren kann das Wehrdienstgericht Beweise
 erheben und mündliche Verhandlung anordnen. Es entscheidet durch
@@ -3506,12 +3646,15 @@ Beschluss.
 
 
 #### Abschnitt 11 - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002300000)
 
 
 ##### Unterabschnitt 1 - Beschwerde gegen gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002400000)
 
 
 ###### § 119 Bestimmungen für das Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012000000)
 
 (1) Gegen Beschlüsse des Truppendienstgerichts und gegen richterliche
 Verfügungen ist die Beschwerde an das Bundesverwaltungsgericht
@@ -3540,9 +3683,11 @@ Die Entscheidung ist zuzustellen.
 
 
 ##### Unterabschnitt 2 - Berufung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002500000)
 
 
 ###### § 120 Einlegung und Frist der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012100000)
 
 (1) Gegen das Urteil des Truppendienstgerichts ist bis zum Ablauf
 einer Woche nach seiner Verkündung die Berufung an das
@@ -3563,6 +3708,7 @@ entsprechend.
 
 
 ###### § 121 Begründung der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012200000)
 
 (1) Innerhalb eines Monats nach Zustellung des Urteils ist beim
 Truppendienstgericht anzugeben, inwieweit das Urteil angefochten wird
@@ -3573,6 +3719,7 @@ entsprechend.
 
 
 ###### § 122 Zulässigkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012300000)
 
 (1) Die oder der Vorsitzende der Truppendienstkammer verwirft die
 Berufung durch Beschluss als unzulässig, wenn sie nicht statthaft oder
@@ -3590,6 +3737,7 @@ das Bundesverwaltungsgericht weiterleitet.
 
 
 ###### § 123 Beschluss des Berufungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012400000)
 
 (1) Das Bundesverwaltungsgericht kann durch Beschluss
 
@@ -3618,6 +3766,7 @@ das Bundesverwaltungsgericht weiterleitet.
 
 
 ###### § 124 Urteil des Berufungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012500000)
 
 (1) Soweit das Bundesverwaltungsgericht die Berufung für zulässig und
 begründet hält, hat es das Urteil des Truppendienstgerichts aufzuheben
@@ -3637,6 +3786,7 @@ nochmaligen Verhandlung und Entscheidung zurückverweisen.
 
 
 ###### § 125 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012600000)
 
 Hat das Bundesverwaltungsgericht bei einer Berufungsentscheidung den
 Anspruch einer oder eines Beteiligten auf das rechtliche Gehör in
@@ -3649,6 +3799,7 @@ der Geschäftsstelle beim Berufungsgericht zu stellen und zu begründen.
 
 
 ###### § 126 Bindung des Truppendienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012700000)
 
 Wird die Sache an ein Truppendienstgericht zurückverwiesen, ist es an
 die rechtliche Beurteilung gebunden, die der Entscheidung des
@@ -3656,6 +3807,7 @@ Bundesverwaltungsgerichts zu Grunde liegt.
 
 
 ###### § 127 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012800000)
 
 Im Verfahren vor dem Bundesverwaltungsgericht dürfen Protokolle über
 die Aussagen der in der Hauptverhandlung des ersten Rechtszugs
@@ -3670,6 +3822,7 @@ Truppendienstgericht entsprechend.
 
 
 ###### § 128 Ausbleiben der Soldatin oder des Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE012900000)
 
 Außer in den Fällen des § 106 Absatz 1 findet die
 Berufungshauptverhandlung auch dann ohne die Soldatin oder den
@@ -3679,9 +3832,11 @@ Abwesenheit verhandelt werden kann.
 
 
 ##### Unterabschnitt 3 - Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002600000)
 
 
 ###### § 129 Rechtskraft gerichtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013000000)
 
 (1) Die Entscheidungen des Truppendienstgerichts werden mit Ablauf der
 Rechtsmittelfrist rechtskräftig, wenn kein Rechtsmittel eingelegt
@@ -3698,9 +3853,11 @@ Zustellung rechtskräftig, die Urteile mit der Verkündung.
 
 
 #### Abschnitt 12 - Vorläufige Dienstenthebung, Einbehaltung von Dienstbezügen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002700000)
 
 
 ##### § 130 Zulässigkeit, Wirksamkeit, Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013100000)
 
 (1) Die Einleitungsbehörde kann eine Soldatin oder einen Soldaten
 vorläufig des Dienstes entheben, wenn das gerichtliche
@@ -3745,6 +3902,7 @@ Anordnungen kraft Gesetzes.
 
 
 ##### § 131 Verfall und Nachzahlung der einbehaltenen Beträge
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013200000)
 
 (1) Die nach § 130 einbehaltenen Beträge verfallen, wenn
 
@@ -3812,9 +3970,11 @@ Truppendienstgerichts beantragen. Dieses entscheidet endgültig.
 
 
 #### Abschnitt 13 - Antragsverfahren vor dem Wehrdienstgericht bei nachträglicher strafgerichtlicher Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002800000)
 
 
 ##### § 132 Voraussetzungen und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013300000)
 
 (1) Ist im gerichtlichen Disziplinarverfahren eine einfache
 Disziplinarmaßnahme, Kürzung der Dienstbezüge oder Kürzung des
@@ -3847,9 +4007,11 @@ Absatz 3 entsprechend.
 
 
 #### Abschnitt 14 - Wiederaufnahme des gerichtlichen Disziplinarverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG002900000)
 
 
 ##### § 133 Wiederaufnahmegründe
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013400000)
 
 (1) Die Wiederaufnahme eines durch rechtskräftiges Urteil
 abgeschlossenen gerichtlichen Disziplinarverfahrens ist zulässig, wenn
@@ -3918,6 +4080,7 @@ kann.
 
 
 ##### § 134 Unzulässigkeit der Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013500000)
 
 (1) Die Wiederaufnahme eines durch rechtskräftiges Urteil
 abgeschlossenen gerichtlichen Disziplinarverfahrens ist unzulässig,
@@ -3954,6 +4117,7 @@ dem Eintritt der Rechtskraft des Urteils drei Jahre vergangen sind.
 
 
 ##### § 135 Antrag auf Wiederaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013600000)
 
 (1) Zur Wiederaufnahme des gerichtlichen Disziplinarverfahrens bedarf
 es eines Antrags. Antragsberechtigt sind
@@ -4012,6 +4176,7 @@ Bundesverwaltungsgericht entsprechend.
 
 
 ##### § 136 Entscheidung durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013700000)
 
 (1) Das Wehrdienstgericht kann den Antrag auf Wiederaufnahme des
 gerichtlichen Disziplinarverfahrens, auch nach Eröffnung der
@@ -4030,6 +4195,7 @@ nach Absatz 2 stehen einem rechtskräftigen Urteil gleich.
 
 
 ##### § 137 Mündliche Verhandlung, Entscheidung durch Urteil
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013800000)
 
 (1) Das Wehrdienstgericht entscheidet, wenn das
 Wiederaufnahmeverfahren nicht auf andere Weise abgeschlossen wird,
@@ -4040,6 +4206,7 @@ zulässig.
 
 
 ##### § 138 Rechtswirkungen, Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE013900000)
 
 (1) Wird in einem Wiederaufnahmeverfahren das angefochtene Urteil zu
 Gunsten der oder des Verurteilten aufgehoben, so erhält die oder der
@@ -4065,9 +4232,11 @@ aus dem Wehrdienstverhältnis entsprechend.
 
 
 #### Abschnitt 15 - Vollstreckung von Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG003000000)
 
 
 ##### § 139 Durchführung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014000000)
 
 (1) Um die Vollstreckung von einfachen Disziplinarmaßnahmen ersucht
 die Wehrdisziplinaranwaltschaft die nächste Disziplinarvorgesetzte
@@ -4120,14 +4289,17 @@ Absatz 5 Satz 1 entsprechend.
 
 
 #### Abschnitt 16 - Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG003100000)
 
 
 ##### § 140 Erhebung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014100000)
 
 Kosten werden nur im gerichtlichen Disziplinarverfahren erhoben.
 
 
 ##### § 141 Umfang der Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014200000)
 
 (1) Gerichtliche Disziplinarverfahren sind gebührenfrei.
 
@@ -4165,6 +4337,7 @@ Kosten werden nur im gerichtlichen Disziplinarverfahren erhoben.
 
 
 ##### § 142 Kostenpflicht der Soldatin oder des Soldaten sowie des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014300000)
 
 (1) Die Kosten des Verfahrens sind der Soldatin oder dem Soldaten
 aufzuerlegen, wenn sie oder er verurteilt wird. Sie sind jedoch dem
@@ -4196,6 +4369,7 @@ einem Dritten zu tragen sind.
 
 
 ##### § 143 Kosten bei Rechtsmitteln und Rechtsbehelfen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014400000)
 
 (1) Die Kosten eines erfolgreichen Rechtsmittels der Soldatin oder des
 Soldaten oder der Wehrdisziplinaranwaltschaft, soweit diese es zu
@@ -4233,6 +4407,7 @@ Wiederaufnahme des Verfahrens entstanden sind.
 
 
 ##### § 144 Notwendige Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014500000)
 
 (1) Die notwendigen Auslagen der Soldatin oder des Soldaten sind dem
 Bund aufzuerlegen, wenn die Soldatin oder der Soldat freigesprochen
@@ -4329,6 +4504,7 @@ entsprechend.
 
 
 ##### § 145 Entscheidung über die Kosten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014600000)
 
 (1) Jede Entscheidung in der Hauptsache muss bestimmen, wer die Kosten
 des Verfahrens zu tragen hat.
@@ -4367,6 +4543,7 @@ entscheidet das Truppendienstgericht.
 
 
 ##### § 146 Kostenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014700000)
 
 (1) Die Höhe der Kosten und notwendigen Auslagen, die nach der
 Kostenentscheidung zu erstatten sind, wird von der Urkundsbeamtin oder
@@ -4384,9 +4561,11 @@ Truppendienstkammer endgültig. § 117 gilt entsprechend.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNG003200000)
 
 
 ### § 147 Sonderbestimmung für Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014800000)
 
 (1) Wird einer Soldatin auf Zeit oder einem Soldaten auf Zeit während
 der ersten vier Dienstjahre eine Entlassungsverfügung nach § 55 Absatz
@@ -4405,6 +4584,7 @@ entlassen werden.
 
 
 ### § 148 Besondere Entlassung einer Soldatin oder eines Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE014900000)
 
 Auf das Verfahren der Wehrdienstgerichte in den Fällen des § 88 des
 Soldatengesetzes sind die Vorschriften über das gerichtliche
@@ -4416,6 +4596,7 @@ ab.
 
 
 ### § 149 Bindung der Gerichte an Disziplinarentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE015000000)
 
 (1) Für die Entscheidungen im gerichtlichen Disziplinarverfahren, für
 die richterliche Nachprüfung der Entscheidungen der
@@ -4430,6 +4611,7 @@ Dienstverhältnis bindend.
 
 
 ### § 150 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE015100000)
 
 Das Bundesministerium der Verteidigung wird ermächtigt, durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern
@@ -4439,6 +4621,7 @@ sowie von Teil 3 Kapitel 3 Abschnitt 1 anzusehen sind.
 
 
 ### § 151 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE015200000)
 
 (1) Die Tilgung einer Herabsetzung in der Besoldungsgruppe, die vor
 dem 1. April 2025 verhängt wurde, richtet sich nach den Vorschriften
@@ -4484,6 +4667,7 @@ vor dem 1. April 2025 zugestellt worden sind.
 
 
 ### § 152 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/wdo_2025/BJNR1A80B0024.html#BJNR1A80B0024BJNE015300000)
 
 Durch dieses Gesetz werden das Grundrecht auf körperliche
 Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), das

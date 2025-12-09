@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000100320)
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -34,6 +35,7 @@ Berufsbildung:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000201377)
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der
 Prüfungsteilnehmer die notwendigen Fähigkeiten und Erfahrungen
@@ -91,6 +93,7 @@ Gärtnermeister/Gärtnermeisterin mit Angabe der gewählten Fachrichtung.
 
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE001200308)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -122,6 +125,7 @@ rechtfertigen.
 
 
 ## § 2 Gliederung der Meisterprüfung, Wahl der Fachrichtung
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000300320)
 
 (1) Die Meisterprüfung umfaßt die Teile
 
@@ -148,6 +152,7 @@ beziehen.
 
 
 ## § 3 Prüfungsanforderungen im Teil "Produktion, Dienstleistung und Vermarktung"
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000401377)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er die
 Pflanzenproduktion, die Anlage und Pflege von Grabstätten oder ein
@@ -445,6 +450,7 @@ aufgeführten Inhalten und soll nicht länger als drei Stunden dauern.
 
 
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000501377)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche,
 rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren
@@ -519,6 +525,7 @@ vorzuschlagen.
 
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000602377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -769,6 +776,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 6 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000703377)
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile
@@ -781,6 +789,7 @@ Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ## § 7 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000802377)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 "Produktion, Dienstleistung und Vermarktung" ist eine Note als
@@ -823,6 +832,7 @@ gewichten.
 
 
 ## § 8 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE000900320)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -837,6 +847,7 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE001002377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.
@@ -849,6 +860,7 @@ geltenden Vorschriften ablegen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gartmstrv/BJNR204600997.html#BJNR204600997BJNE001100320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

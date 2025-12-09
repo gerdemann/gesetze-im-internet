@@ -26,6 +26,7 @@ Stand: Ersetzt V 7110-6-86 v. 3.7.2003 I 1064, 1546 (MalerLackAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
 2 Satz 1 Nummer 2, 3 und 4 der Handwerksordnung in der Fassung der
@@ -39,9 +40,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung „Maler und Lackierer“
 oder „Malerin und Lackiererin“ wird nach § 25 der Handwerksordnung zur
@@ -50,11 +53,13 @@ Lackierer, der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -73,6 +78,7 @@ Kontrollieren im eigenen Arbeitsbereich ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -350,6 +356,7 @@ vermitteln sind, sind:
 
 
 ### § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000700000)
 
 (1) Die Berufsausbildung zum Maler und Lackierer und zur Malerin und
 Lackiererin ist in überbetrieblichen Ausbildungsstätten zu ergänzen
@@ -504,6 +511,7 @@ in gleicher inhaltlicher und zeitlicher Ausgestaltung wie in der
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -511,9 +519,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000200000)
 
 
 ### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE005400000)
 
 (1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
 
@@ -523,9 +533,11 @@ zuständige Stelle fest.
 
 
 ### Unterabschnitt 1 - Prüfung Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000400000)
 
 
 #### § 8 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE000900000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -542,6 +554,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 #### § 9 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001000000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Herstellen
 von Oberflächen und Durchführen von Instandsetzungsmaßnahmen statt.
@@ -630,9 +643,11 @@ Aufgaben beträgt 90 Minuten.
 
 
 ### Unterabschnitt 2 - Prüfung Teil 2 in der Fachrichtung Gestaltung und Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000500000)
 
 
 #### § 10 Inhalte des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001100000)
 
 (1) Teil 2 der Gesellenprüfung in der Fachrichtung Gestaltung und
 Instandhaltung erstreckt sich auf
@@ -655,6 +670,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 11 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001200000)
 
 Teil 2 der Gesellenprüfung findet in der Fachrichtung Gestaltung und
 Instandhaltung in den folgenden Prüfungsbereichen statt:
@@ -675,6 +691,7 @@ Instandhaltung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 12 Prüfungsbereich Ausführen eines Kundenauftrags
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001300000)
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -728,6 +745,7 @@ dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 #### § 13 Prüfungsbereich Durchführen von Fassaden-, Raum- und Objektgestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001400000)
 
 (1) Im Prüfungsbereich Durchführen von Fassaden-, Raum- und
 Objektgestaltungen hat der Prüfling nachzuweisen, dass er in der Lage
@@ -766,6 +784,7 @@ ist,
 
 
 #### § 14 Prüfungsbereich Durchführen von Instandhaltungs- und Bautenschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001500000)
 
 (1) Im Prüfungsbereich Durchführen von Instandhaltungs- und
 Bautenschutzmaßnahmen hat der Prüfling nachzuweisen, dass er in der
@@ -813,6 +832,7 @@ Lage ist,
 
 
 #### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -826,6 +846,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Gestaltung und Instandhaltung wie folgt zu gewichten:
@@ -908,6 +929,7 @@ folgt bewertet worden sind:
 
 
 #### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -949,9 +971,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Prüfung Teil 2 in der Fachrichtung Energieeffizienz- und Gestaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000600000)
 
 
 #### § 18 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE001900000)
 
 Die Gesellenprüfung in der Fachrichtung Energieeffizienz- und
 Gestaltungstechnik erstreckt sich auf
@@ -969,6 +993,7 @@ Gestaltungstechnik erstreckt sich auf
 
 
 #### § 19 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002000000)
 
 Die Gesellenprüfung findet in der Fachrichtung Energieeffizienz- und
 Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
@@ -991,6 +1016,7 @@ Gestaltungstechnik in den folgenden Prüfungsbereichen statt:
 
 
 #### § 20 Prüfungsbereich Ausführen eines Kundenauftrags
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002100000)
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1040,6 +1066,7 @@ dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 #### § 21 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Außenflächen von Bauten oder Anlagen sowie deren jeweiligen Bestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002200000)
 
 (1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an
 Außenflächen von Bauten oder Anlagen und deren jeweiligen
@@ -1094,6 +1121,7 @@ Bestandteilen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 #### § 22 Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an Innenflächen von Bauten oder Anlagen und deren Bestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002300000)
 
 (1) Im Prüfungsbereich Durchführen von Energieeffizienzmaßnahmen an
 Innenflächen von Bauten oder Anlagen und deren Bestandteilen hat der
@@ -1141,6 +1169,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 #### § 23 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002400000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1154,6 +1183,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 24 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Energieeffizienz- und Gestaltungstechnik wie folgt zu
@@ -1242,6 +1272,7 @@ wie folgt bewertet worden sind:
 
 
 #### § 25 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002600000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1285,9 +1316,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Prüfung Teil 2 in der Fachrichtung Kirchenmalerei und Denkmalpflege
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000700000)
 
 
 #### § 26 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002700000)
 
 Die Gesellenprüfung in der Fachrichtung Kirchenmalerei und
 Denkmalpflege erstreckt sich auf
@@ -1305,6 +1338,7 @@ Denkmalpflege erstreckt sich auf
 
 
 #### § 27 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002800000)
 
 Die Gesellenprüfung findet in der Fachrichtung Kirchenmalerei und
 Denkmalpflege in den folgenden Prüfungsbereichen statt:
@@ -1327,6 +1361,7 @@ Denkmalpflege in den folgenden Prüfungsbereichen statt:
 
 
 #### § 28 Prüfungsbereich Ausführen eines Kundenauftrags
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE002900000)
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1376,6 +1411,7 @@ dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 #### § 29 Prüfungsbereich Durchführen von Maßnahmen zur Instandhaltung und Rekonstruktion an historischen Objekten
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003000000)
 
 (1) Im Prüfungsbereich Maßnahmen zur Instandhaltung und Rekonstruktion
 an historischen Objekten hat der Prüfling nachzuweisen, dass er in der
@@ -1436,6 +1472,7 @@ Lage ist,
 
 
 #### § 30 Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an historischen Objekten
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003100000)
 
 (1) Im Prüfungsbereich Durchführen von Maßnahmen zur Reproduktion an
 historischen Objekten hat der Prüfling nachzuweisen, dass er in der
@@ -1477,6 +1514,7 @@ Lage ist,
 
 
 #### § 31 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003200000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1490,6 +1528,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 32 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003300000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Kirchenmalerei und Denkmalpflege wie folgt zu gewichten:
@@ -1574,6 +1613,7 @@ folgt bewertet worden sind:
 
 
 #### § 33 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003400000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1617,9 +1657,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 5 - Prüfung Teil 2 in der Fachrichtung Bauten- und Korrosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000800000)
 
 
 #### § 34 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003500000)
 
 Die Gesellenprüfung in der Fachrichtung Bauten- und Korrosionsschutz
 erstreckt sich auf
@@ -1637,6 +1679,7 @@ erstreckt sich auf
 
 
 #### § 35 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003600000)
 
 Die Gesellenprüfung findet in der Fachrichtung Bauten- und
 Korrosionsschutz in den folgenden Prüfungsbereichen statt:
@@ -1657,6 +1700,7 @@ Korrosionsschutz in den folgenden Prüfungsbereichen statt:
 
 
 #### § 36 Prüfungsbereich Ausführen eines Kundenauftrags
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003700000)
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1719,6 +1763,7 @@ situativen Fachgespräche insgesamt höchstens 15 Minuten.
 
 
 #### § 37 Prüfungsbereich Durchführen von Bautenschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003800000)
 
 (1) Im Prüfungsbereich Durchführen von Bautenschutzmaßnahmen hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1775,6 +1820,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 #### § 38 Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE003900000)
 
 (1) Im Prüfungsbereich Durchführen von Korrosionsschutzmaßnahmen hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1834,6 +1880,7 @@ der Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 #### § 39 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004000000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1847,6 +1894,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 40 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Bauten- und Korrosionsschutz wie folgt zu gewichten:
@@ -1928,6 +1976,7 @@ folgt bewertet worden sind:
 
 
 #### § 41 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004200000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1969,9 +2018,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 6 - Prüfung Teil 2 in der Fachrichtung Ausbautechnik und Oberflächengestaltung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG000900000)
 
 
 #### § 42 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004300000)
 
 Die Gesellenprüfung in der Fachrichtung Ausbautechnik und
 Oberflächengestaltung erstreckt sich auf
@@ -1989,6 +2040,7 @@ Oberflächengestaltung erstreckt sich auf
 
 
 #### § 43 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004400000)
 
 Die Gesellenprüfung findet in der Fachrichtung Ausbautechnik und
 Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
@@ -2009,6 +2061,7 @@ Oberflächengestaltung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 44 Prüfungsbereich Ausführen eines Kundenauftrags
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004500000)
 
 (1) Im Prüfungsbereich Ausführen eines Kundenauftrags hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2073,6 +2126,7 @@ dieser Zeit dauert das situative Fachgespräch höchstens 15 Minuten.
 
 
 #### § 45 Prüfungsbereich Ausführen von Ausbauarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004600000)
 
 (1) Im Prüfungsbereich Ausführen von Ausbauarbeiten hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2130,6 +2184,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 #### § 46 Prüfungsbereich Ausführen von Dämmarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004700000)
 
 (1) Im Prüfungsbereich Ausführen von Dämmarbeiten hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2189,6 +2244,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 #### § 47 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -2202,6 +2258,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 48 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE004900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Ausbautechnik und Oberflächengestaltung wie folgt zu
@@ -2282,6 +2339,7 @@ wie folgt bewertet worden sind:
 
 
 #### § 49 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE005000000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -2323,9 +2381,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNG001000000)
 
 
 ### § 50 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE005100000)
 
 Wer die Ausbildung zum Bauten- und Objektbeschichter oder zur Bauten-
 und Objektbeschichterin nach der Verordnung über die Berufsausbildung
@@ -2341,6 +2401,7 @@ Verordnung anzurechnen und ersetzt Teil 1 der Gesellenprüfung nach §
 
 
 ### § 51 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE005200000)
 
 Diese Verordnung tritt am 1. August 2021 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung im Maler- und
@@ -2349,6 +2410,7 @@ Lackierergewerbe vom 3. Juli 2003 (BGBl. I S. 1064, 1546) außer Kraft.
 (zu § 3 Absatz 1 Satz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer und zur Malerin und Lackiererin
+[Direktlink](https://www.gesetze-im-internet.de/malerlackausbv_2021/BJNR230000021.html#BJNR230000021BJNE005300000)
 
 (Fundstelle: BGBl. I 2021, 2314 - 2333)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv1983abwv_2009_2010/BJNR026600010.html#BJNR026600010BJNE000100000)
 
 Auf Grund des § 12 Absatz 2 Satz 1 des Marktorganisationsgesetzes in
 der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847),
@@ -29,6 +30,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv1983abwv_2009_2010/BJNR026600010.html#BJNR026600010BJNE000200000)
 
 Abweichend von § 6 Absatz 1 Satz 1 der Zucker-Produktionsabgaben-
 Verordnung in der Fassung der Bekanntmachung vom 9. November 2006
@@ -37,6 +39,7 @@ Wirtschaftsjahr 2009/2010 bis zum 15. April 2010 anzuzeigen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zuckprodabgv1983abwv_2009_2010/BJNR026600010.html#BJNR026600010BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

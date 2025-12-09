@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000100000)
 
 Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des
 Einlagensicherungsgesetzes vom 28. Mai 2015 (BGBl. I S. 786) verordnet
@@ -31,9 +32,11 @@ Deutschlands GmbH:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Verordnungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000301128)
 
 (1) Diese Verordnung gilt für die Entschädigungseinrichtung deutscher
 Banken GmbH sowie für CRR-Kreditinstitute im Sinne des § 1 des
@@ -62,6 +65,7 @@ Entschädigungseinrichtung und trifft nähere Bestimmungen über
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000400000)
 
 (1) Gedeckte Einlagen eines CRR-Kreditinstituts im Sinne dieser
 Verordnung sind die nach § 8 Absatz 1 des Einlagensicherungsgesetzes
@@ -90,15 +94,19 @@ Finanzsicherheit für Zahlungsverpflichtungen zugelassen sind.
 
 
 ## Teil 2 - Beiträge und Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000200000)
 
 
 ### Kapitel 1 - Jahresbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000300000)
 
 
 #### Abschnitt 1 - Beitragspflicht und Beitragserhebung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000400000)
 
 
 ##### § 3 Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000501128)
 
 (1) CRR-Kreditinstitute, die der Entschädigungseinrichtung im
 jeweiligen Abrechnungsjahr zugeordnet sind, sind nach Maßgabe des § 26
@@ -126,6 +134,7 @@ Einlagensicherungsgesetzes entfällt.
 
 
 ##### § 4 Beitragsbescheid und Zahlungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000600000)
 
 (1) Die Entschädigungseinrichtung erhebt den Jahresbeitrag zum Ende
 eines Abrechnungsjahres durch einen Beitragsbescheid.
@@ -151,12 +160,15 @@ Beitragsbescheid fest.
 
 
 #### Abschnitt 2 - Risikoorientierte Beitragsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000500000)
 
 
 ##### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000600000)
 
 
 ###### § 5 Beitragsbemessung und Zuschlag für Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000701128)
 
 (1) Der Jahresbeitrag eines CRR-Kreditinstituts ist nach § 7 so zu
 bemessen, dass mit der Summe aller Jahresbeiträge mindestens die
@@ -218,6 +230,7 @@ Formel berechnet:
 
 
 ###### § 6 Jahreszielausstattung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000801128)
 
 (1) Um sicherzustellen, dass die Zielausstattung nach § 17 Absatz 2
 Satz 1 des Einlagensicherungsgesetzes erreicht wird, ermittelt die
@@ -263,6 +276,7 @@ Zielausstattung erforderlich erscheint.
 
 
 ###### § 7 Berechnungsformel
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE000902128)
 
 (1) Der Jahresbeitrag wird nach der folgenden Formel berechnet:
 C
@@ -338,9 +352,11 @@ Kreditinstituts geteilt wird.
 
 
 ##### Titel 2 - Bestimmung des aggregierten Risikogewichts
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000701128)
 
 
 ###### § 8 Bestimmung des aggregierten Risikogewichts
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001002128)
 
 (1) Das aggregierte Risikogewicht wird auf der Grundlage einer
 Bonitätsnote bestimmt. Die Bonitätsnote beruht auf einer
@@ -406,6 +422,7 @@ den Absätzen 1 und 2 ein aggregiertes Risikogewicht von 108 Prozent.
 
 
 ###### § 9 Risikokategorien, Risikoindikatoren und Risikogewichtung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001101128)
 
 (1) Für die Einschätzung des Risikos des CRR-Kreditinstituts legt die
 Entschädigungseinrichtung die folgenden Risikokategorien zugrunde:
@@ -439,6 +456,7 @@ von Ratings nach § 10.
 
 
 ###### § 10 Risikoeinschätzung auf der Grundlage von Ratings
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001201128)
 
 (1) Für die Risikoeinschätzung auf Grundlage von Ratings dürfen nur
 Ratingergebnisse von aktuellen Kreditratings eines anerkannten
@@ -501,16 +519,20 @@ im Ausland vorlegen, wenn diese Ratings die Anforderungen des Absatzes
 
 
 ##### Titel 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000801128)
 
 
 ###### (XXXX) §§ 11 und 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001301128)
 
 
 
 ### Kapitel 2 - Einmalige Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG000900000)
 
 
 #### § 13 Zahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001501128)
 
 (1) CRR-Kreditinstitute, die der Entschädigungseinrichtung neu
 zugeordnet werden, haben neben dem Jahresbeitrag eine nach Maßgabe des
@@ -556,6 +578,7 @@ oder
 
 
 #### § 14 Bemessung und Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001600000)
 
 (1) Die einmalige Zahlung beträgt 0,2 Prozent der gedeckten Einlagen,
 die bei dem CRR-Kreditinstitut am 31. Dezember des Vorjahres vorhanden
@@ -566,9 +589,11 @@ fällig.
 
 
 ### Kapitel 3 - Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG001000000)
 
 
 #### § 15 Vorlage- und Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001702128)
 
 (1) Die Entschädigungseinrichtung bestimmt die Modalitäten der nach §
 17 Absatz 4 des Einlagensicherungsgesetzes vorgeschriebenen Meldung
@@ -653,6 +678,7 @@ Nummer 2 bis 4 und gemäß § 15 Absatz 3 Nummer 2 befreit.
 
 
 #### § 16 Vorläufige und endgültige Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001801128)
 
 (1) Legt ein CRR-Kreditinstitut die zur Bemessung des Jahresbeitrags
 erforderlichen Daten und Unterlagen nicht rechtzeitig oder nicht
@@ -695,6 +721,7 @@ Bekanntgabe des endgültigen Bescheids über den Jahresbeitrag fällig.
 
 
 #### § 17 Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE001900000)
 
 (1) Daten und Unterlagen, die nach dem 31. Dezember des jeweils
 folgenden Abrechnungsjahres vorgelegt werden, berücksichtigt die
@@ -705,6 +732,7 @@ Gunsten der CRR-Kreditinstitute nicht mehr.
 
 
 #### § 17a Schätzung bei unrichtiger Meldung der Höhe der gedeckten Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE004000128)
 
 Stellt die Entschädigungseinrichtung nach Festsetzung des
 Jahresbeitrags fest, dass der Bemessung des Jahresbeitrags eines CRR-
@@ -721,6 +749,7 @@ aufweisen.
 
 
 #### § 18 Verzugszinsen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002000000)
 
 Wird bis zum Ablauf eines Monats nach dem Fälligkeitstag der jeweilige
 Beitrag, ein vorläufiger Beitrag oder die jeweilige Zahlung nicht
@@ -732,12 +761,15 @@ entsprechend.
 
 
 ## Teil 3 - Zahlungsverpflichtungen und Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG001100000)
 
 
 ### Kapitel 1 - Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG001200000)
 
 
 #### § 19 Gestattung der Übernahme von Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002100000)
 
 (1) Die Entschädigungseinrichtung kann den ihr zugeordneten CRR-
 Kreditinstituten gestatten, in einem Abrechnungsjahr bis zu 30 Prozent
@@ -778,6 +810,7 @@ verfügbaren Finanzmitteln betragen.
 
 
 #### § 20 Voraussetzungen für die Übernahme von Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002200000)
 
 Die Übernahme einer Zahlungsverpflichtung in einem Abrechnungsjahr
 setzt voraus, dass ein CRR-Kreditinstitut
@@ -803,6 +836,7 @@ erbringen.
 
 
 #### § 21 Rahmenvertrag über Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002300000)
 
 (1) Der Rahmenvertrag bildet die Grundlage für den Abschluss von
 Verträgen über die Übernahme von Zahlungsverpflichtungen nach § 22 in
@@ -824,6 +858,7 @@ vertretungsberechtigten Personen im Rahmenvertrag zu bestimmen.
 
 
 #### § 22 Verträge über die Übernahme von Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002400000)
 
 (1) Auf der Grundlage des Rahmenvertrags sind in den jeweiligen
 Abrechnungsjahren einzelne Verträge über die Übernahme von
@@ -870,6 +905,7 @@ vereinbart wird. Das Vertragsmuster ist der Bundesanstalt anzuzeigen.
 
 
 #### § 23 Anforderung und Fälligkeit der Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002500000)
 
 (1) Die Entschädigungseinrichtung fordert die Zahlung aus der
 Zahlungsverpflichtung ganz oder in Teilbeträgen an, wenn sie die
@@ -955,6 +991,7 @@ Beitragsbescheid festgesetzte Beitragsteil fällig geworden ist. Absatz
 
 
 #### § 24 Übertragung von Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002601128)
 
 (1) Die CRR-Kreditinstitute sind berechtigt, Verträge über die
 Übernahme von Zahlungsverpflichtungen nach § 22 mit Zustimmung der
@@ -999,9 +1036,11 @@ durch eine Vereinbarung im Sinne des § 32 Absatz 1 Nummer 2 erfolgt.
 
 
 ### Kapitel 2 - Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG001300000)
 
 
 #### § 25 Besicherung von Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002700000)
 
 Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen
 Finanzsicherheiten zu leisten. Der Marktwert der Finanzsicherheiten
@@ -1011,6 +1050,7 @@ Zahlungsverpflichtungen entsprechen.
 
 
 #### § 26 Leistung von Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002800000)
 
 (1) Finanzsicherheiten dürfen ausschließlich risikoarme Schuldtitel
 oder Barsicherheiten sein. Die Entschädigungseinrichtung kann in den
@@ -1049,6 +1089,7 @@ Entschädigungseinrichtung verpfändet werden.
 
 
 #### § 27 Rahmenvertrag über Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE002900000)
 
 (1) Grundlage für die Leistung von Finanzsicherheiten im Zusammenhang
 mit dem Abschluss von Verträgen über die Übernahme von
@@ -1126,6 +1167,7 @@ regeln,
 
 
 #### § 28 Zulässige Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003000000)
 
 (1) Die Entschädigungseinrichtung kann die als Finanzsicherheiten
 zulässigen risikoarmen Schuldtitel oder Barsicherheiten einschränken
@@ -1142,6 +1184,7 @@ Finanzsicherheiten zu begrenzen.
 
 
 #### § 29 Verwaltung von Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003100000)
 
 (1) Die Entschädigungseinrichtung kann einen Dritten mit der
 Verwaltung der Finanzsicherheiten beauftragen. Hierzu ist eine
@@ -1155,6 +1198,7 @@ in der Vereinbarung zu regeln.
 
 
 #### § 30 Bewertungsabschläge, Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003200000)
 
 (1) Die Entschädigungseinrichtung legt Bewertungsabschläge für die
 gestellten Finanzsicherheiten fest und veröffentlicht sie auf ihrer
@@ -1179,9 +1223,11 @@ denominierte Beträge sind in Euro umzurechnen.
 
 
 ### Kapitel 3 - Anzeigepflicht, Ausscheiden und Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG001400000)
 
 
 #### § 31 Anzeige- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003300000)
 
 (1) Ein CRR-Kreditinstitut, das eine Zahlungsverpflichtung nach § 19
 übernommen hat, ist verpflichtet, der Entschädigungseinrichtung
@@ -1210,6 +1256,7 @@ die gestellten Finanzsicherheiten auferlegen.
 
 
 #### § 32 Zuordnung zu einer anderen Entschädigungseinrichtung, Ausscheiden aus der Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003401128)
 
 (1) Wechselt ein CRR-Kreditinstitut nach § 24 Absatz 4 oder 5 des
 Einlagensicherungsgesetzes die Entschädigungseinrichtung und werden
@@ -1271,6 +1318,7 @@ Sicherungssystem nach § 25a Absatz 4 des Einlagensicherungsgesetzes.
 
 
 #### § 33 Verwertung und Freigabe von Finanzsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003500000)
 
 (1) Liegen die Voraussetzungen für eine Verwertung der
 Finanzsicherheiten nach § 27 Absatz 3 Nummer 8 vor, so veräußert die
@@ -1285,13 +1333,16 @@ Besicherung fortbestehender Zahlungsverpflichtungen erforderlich sind.
 
 
 ## Teil 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNG001500000)
 
 
 ### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003602128)
 
 
 
 ### § 35 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten die EdB-Beitragsverordnung vom 10. Juli 1999
@@ -1304,6 +1355,7 @@ geändert worden ist, außer Kraft.
 (zu § 8 Absatz 1 und § 9)
 
 ### Anlage 1 Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
+[Direktlink](https://www.gesetze-im-internet.de/entschfinv/BJNR000900016.html#BJNR000900016BJNE003802128)
 
 (Fundstelle: BGBl. I 2016, 21 - 23; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

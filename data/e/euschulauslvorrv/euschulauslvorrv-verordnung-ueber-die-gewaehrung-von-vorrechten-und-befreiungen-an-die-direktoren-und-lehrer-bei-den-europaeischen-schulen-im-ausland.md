@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euschulauslvorrv/BJNR067620995.html#BJNR067620995BJNE000100320)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/euschulauslvorrv/BJNR067620995.html#BJNR067620995BJNE000200320)
 
 Die Zulagen, die den Direktoren und Lehrern der in Anwendung des
 Protokolls über die Gründung Europäischer Schulen vom 13. April 1962
@@ -41,11 +43,13 @@ Einkommensteuer befreit.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/euschulauslvorrv/BJNR067620995.html#BJNR067620995BJNE000300320)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/euschulauslvorrv/BJNR067620995.html#BJNR067620995BJNE000400320)
 
 Der Bundesrat hat zugestimmt.
 

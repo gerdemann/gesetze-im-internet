@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Voraussetzungen; Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/egmrkhg/BJNR082910013.html#BJNR082910013BJNE000100000)
 
 (1) In Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
 wird einer dritten in ihren Menschenrechten betroffenen Person auf
@@ -73,6 +74,7 @@ wirtschaftlichen Verhältnisse eingeführt worden sind.
 
 
 ## § 2 Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/egmrkhg/BJNR082910013.html#BJNR082910013BJNE000200000)
 
 (1) Die Bewilligung von Kostenhilfe bewirkt, dass der drittbetroffenen
 Person für Auslagen sowie für Honorare, die ihr für einen
@@ -91,6 +93,7 @@ gilt im Verfahren vor der Großen Kammer weiter.
 
 
 ## § 3 Festsetzung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egmrkhg/BJNR082910013.html#BJNR082910013BJNE000301311)
 
 (1) Die Kostenhilfe umfasst die Fahrt- und Aufenthaltskosten sowie
 andere notwendige Auslagen, die der drittbetroffenen Person und der zu
@@ -116,6 +119,7 @@ Auslagen haben, ist die Kostenhilfe unverzüglich zurückzuzahlen.
 
 
 ## § 4 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/egmrkhg/BJNR082910013.html#BJNR082910013BJNE000400000)
 
 (1) Gegen die Entscheidung über die Kostenhilfe findet die sofortige
 Beschwerde nach den Vorschriften der Zivilprozessordnung statt, über

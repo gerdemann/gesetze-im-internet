@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -35,20 +36,24 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000300000)
 
 Der Ausbildungsberuf des Automatenfachmanns und der Automatenfachfrau
 wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -66,6 +71,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -191,6 +197,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -198,6 +205,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -208,12 +216,15 @@ regelmäßig durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000300000)
 
 
 #### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE000900000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -225,6 +236,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 #### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -241,6 +253,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 9 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001100000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -255,6 +268,7 @@ statt:
 
 
 #### § 10 Prüfungsbereich Automatenbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001200000)
 
 (1) Im Prüfungsbereich Automatenbetreuung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -316,6 +330,7 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 #### § 11 Prüfungsbereich Automatenbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001300000)
 
 (1) Im Prüfungsbereich Automatenbewirtschaftung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -344,6 +359,7 @@ nachweisen, dass er in der Lage ist,
 
 
 #### § 12 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001400000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -365,9 +381,11 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### Unterabschnitt 2 - Fachrichtung Automatenmechatronik
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000400000)
 
 
 #### § 13 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001500000)
 
 Teil 2 der Abschlussprüfung in der Fachrichtung Automatenmechatronik
 findet in folgenden Prüfungsbereichen statt:
@@ -385,6 +403,7 @@ findet in folgenden Prüfungsbereichen statt:
 
 
 #### § 14 Prüfungsbereich Instandsetzungs- und Wartungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001600000)
 
 (1) Im Prüfungsbereich Instandsetzungs- und Wartungstechnik soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -437,6 +456,7 @@ Arbeitsplanung durchführen.
 
 
 #### § 15 Prüfungsbereich Netzwerke und Elektrotechnik
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001700000)
 
 (1) Im Prüfungsbereich Netzwerke und Elektrotechnik soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -470,6 +490,7 @@ nachweisen, dass er in der Lage ist,
 [^F2_790316_BJNR107500015BJNE001700000]: 
 
 #### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -483,6 +504,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -569,9 +591,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Automatendienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000500000)
 
 
 #### § 18 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002000000)
 
 Teil 2 der Abschlussprüfung in der Fachrichtung
 Automatendienstleistung findet in folgenden Prüfungsbereichen statt:
@@ -586,6 +610,7 @@ Automatendienstleistung findet in folgenden Prüfungsbereichen statt:
 
 
 #### § 19 Prüfungsbereich Automatenwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002100000)
 
 (1) Im Prüfungsbereich Automatenwirtschaft soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -643,6 +668,7 @@ Der Prüfling wählt, ob er die Anforderungen nach Satz 1 Nummer 1 oder
 
 
 #### § 20 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002200000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -656,6 +682,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 21 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002300000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -732,9 +759,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000600000)
 
 
 ### § 22 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002400000)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
 Automatenservice kann unter Berücksichtigung der in der Ausbildung
@@ -749,9 +778,11 @@ gleich.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNG000700000)
 
 
 ### § 23 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002500000)
 
 Berufsausbildungsverhältnisse zum Automatenfachmann und zur
 Automatenfachfrau, die bei Inkrafttreten dieser Verordnung bereits
@@ -763,12 +794,14 @@ hat.
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002600000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Automatenfachmann und zur Automatenfachfrau
+[Direktlink](https://www.gesetze-im-internet.de/automausbv/BJNR107500015.html#BJNR107500015BJNE002700000)
 
 (Fundstelle: BGBl. I 2015, 1080 - 1086)
 

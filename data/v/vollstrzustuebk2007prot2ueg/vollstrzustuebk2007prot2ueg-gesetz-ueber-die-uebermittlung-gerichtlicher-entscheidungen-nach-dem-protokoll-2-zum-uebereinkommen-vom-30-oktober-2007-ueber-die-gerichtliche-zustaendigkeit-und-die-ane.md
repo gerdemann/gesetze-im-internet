@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzust_bk2007prot2_g/BJNR239910008.html#BJNR239910008BJNE000101311)
 
 Die Aufgaben der zuständigen nationalen Behörde nach Artikel 3 Abs. 1
 Satz 4 des Protokolls 2 zu dem Übereinkommen vom 30. Oktober 2007 über

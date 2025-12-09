@@ -36,6 +36,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000100000)
 
 Es verordnen
 
@@ -67,9 +68,11 @@ nach Anhörung der Tierschutzkommission:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000300000)
 
 (1) Diese Verordnung dient dem Schutz von Tieren beim Transport,
 insbesondere der Durchführung der Verordnung (EG) Nr. 1/2005 des Rates
@@ -84,6 +87,7 @@ Transporte im Sinne des Artikels 1 Abs. 5 der Verordnung (EG) Nr.
 
 
 ### § 2 Zulassungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000400000)
 
 Die Zulassungsnummer im Sinne des Artikels 13 Abs. 2 der Verordnung
 (EG) Nr. 1/2005 ist zwölfstellig und wird aus der für die Sitzgemeinde
@@ -94,6 +98,7 @@ Betriebsnummer gebildet.
 
 
 ### § 3 Ausnahmen für Straßentransportmittel
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000500000)
 
 Bei innerstaatlichen Beförderungen von Tieren im Sinne des Artikels 18
 Abs. 4 der Verordnung (EG) Nr. 1/2005 dürfen Straßentransportmittel
@@ -117,6 +122,7 @@ verfügen. § 10 bleibt unberührt.
 
 
 ### § 4 Befähigungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000600000)
 
 (1) Der Befähigungsnachweis nach Artikel 17 Abs. 2 der Verordnung (EG)
 Nr. 1/2005 wird außer in den dort genannten Fällen von der zuständigen
@@ -154,6 +160,7 @@ rechtfertigen, dass dies auch weiterhin geschieht.
 
 
 ### § 5 Schienentransport
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000702119)
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften zum Schienentransport haben der
@@ -180,9 +187,11 @@ müssen nicht angebunden werden.
 
 
 ## Abschnitt 2 - Transport in Behältnissen
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNG000200000)
 
 
 ### § 6 Besondere Anforderungen an Behältnisse
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000802119)
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften zum Transport in Behältnissen hat der
@@ -205,6 +214,7 @@ Landtransporte.
 
 
 ### § 7 Pflichten des Absenders
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE000902119)
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften zum Transport von Tieren in
@@ -246,6 +256,7 @@ Freitags oder vor Feiertagen abgeschlossen werden kann.
 
 
 ### § 8 Nachnahmeversand
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001001360)
 
 (1) Der Absender darf Tiere mit Nachnahme nur versenden, soweit sie
 schriftlich bestellt worden sind und der Empfänger dem Absender
@@ -273,9 +284,11 @@ nächsten Möglichkeit zurückzubefördern.
 
 
 ## Abschnitt 3 - Besondere Vorschriften zum Schutz von Nutztieren beim innerstaatlichen Transport
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNG000300000)
 
 
 ### § 9 Raumbedarf und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001102119)
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften hat derjenige, der Einhufer oder Tiere
@@ -301,6 +314,7 @@ werden, wenn die lichte Raumhöhe bei Straßentransporten auf höchstens
 
 
 ### § 10 Begrenzung von Transporten
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001202119)
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften dürfen Nutztiere im Rahmen
@@ -341,6 +355,7 @@ befördert werden.
 
 
 ### § 11 Eintagsküken
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001302119)
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften hat der Absender bei innerstaatlichen
@@ -358,9 +373,11 @@ Transporten von Eintagsküken sicherzustellen, dass
 
 
 ## Abschnitt 4 - Besondere Vorschriften zum Schutz von anderen Tieren als Nutztieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNG000400000)
 
 
 ### § 12 Meeressäugetiere und Vögel
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001402119)
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften müssen Meeressäugetiere bei
@@ -377,6 +394,7 @@ Wasser aufnehmen können.
 
 
 ### § 13 Wechselwarme Wirbeltiere und wirbellose Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001502119)
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
 unionsrechtlichen Vorschriften
@@ -406,9 +424,11 @@ vorübergehend auf feuchter Unterlage transportiert werden.
 
 
 ## Abschnitt 5 - Grenzüberschreitender Transport
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNG000500000)
 
 
 ### § 14 Ausfuhr über bestimmte Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001601118)
 
 (1) Die Ausfuhr von Tieren ist nur über Zollstellen mit zugeordneten
 Grenzkontrollstellen oder sonstigen Ausgangsstellen zulässig, die das
@@ -425,6 +445,7 @@ soweit Belange des Tierschutzes nicht entgegenstehen.
 
 
 ### § 15 Anzeige der Ankunft
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001700000)
 
 (1) Wer Tiere im Rahmen einer wirtschaftlichen Tätigkeit aus einem
 Drittland empfängt, hat der für den Bestimmungsort zuständigen Behörde
@@ -442,6 +463,7 @@ Tierseuchenschutzverordnung anzuzeigen ist.
 
 
 ### § 16 Einfuhr über bestimmte Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001801118)
 
 Die Einfuhr von Tieren im Rahmen einer wirtschaftlichen Tätigkeit ist
 nur über Zollstellen mit zugeordneten Grenzkontrollstellen zulässig,
@@ -452,6 +474,7 @@ Erteilung des Einvernehmens auf die Generalzolldirektion übertragen.
 
 
 ### § 17 Einfuhrdokument
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE001901360)
 
 Bei der Einfuhr von Kälbern oder Schweinen muss der Transport von
 einer Bescheinigung der zuständigen Behörde des Herkunftslandes
@@ -461,6 +484,7 @@ Europäischen Union gehalten worden sind.
 
 
 ### § 18 Anforderungen an die Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002000000)
 
 Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen
 Einfuhrdokumente nach § 17 mitgeführt werden und die zuständige
@@ -470,6 +494,7 @@ eingehalten sind.
 
 
 ### § 19 Einfuhruntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002100000)
 
 (1) Bei der Einfuhr und der Durchfuhr prüft die zuständige Behörde bei
 der Grenzkontrollstelle durch Besichtigung der Tiere und der
@@ -487,9 +512,11 @@ stichprobenartigen Besichtigung und Nämlichkeitskontrolle.
 
 
 ## Abschnitt 6 - Befugnisse der Behörde, Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNG000600000)
 
 
 ### § 20 Befugnisse der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002200000)
 
 (1) Transporte können jederzeit angehalten und kontrolliert werden.
 
@@ -527,6 +554,7 @@ beauftragten Personen zu unterstützen.
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002301119)
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe a des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -786,6 +814,7 @@ indem er vorsätzlich oder fahrlässig
 
 
 ### § 22 Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002401360)
 
 Die Länder übermitteln dem Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit zum Zweck der Weiterleitung an die
@@ -797,22 +826,26 @@ für ihre Behebung.
 
 
 ### § 23 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002501119)
 
 Bis zum 1. Januar 2023 ist § 10 Absatz 4 in der am 30. November 2021
 geltenden Fassung weiter anzuwenden.
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002800000)
 
 (Fundstelle: BGBl. I 2009, 382 - 383)
 Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
@@ -1269,6 +1302,7 @@ Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
 (zu § 9 Abs. 1 und 2)
 
 ### Anlage 2 Abtrennung und Raumbedarf
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE002900000)
 
 (Fundstelle: BGBl. I 2009, 384 - 385)
 
@@ -1467,6 +1501,7 @@ Die Behältnisse müssen folgende Mindestabmessungen aufweisen:
 (zu § 19 Abs. 1)
 
 ### Anlage 3 Durchführung der Nämlichkeitskontrolle bei Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschtrv_2009/BJNR037500009.html#BJNR037500009BJNE003000000)
 
 (Fundstelle: BGBl. I 2009, 385)
 

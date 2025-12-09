@@ -23,12 +23,15 @@ Mittelbare änderung durch
 
 
 ## Teil 1 - Schaumwein
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000200000)
 
 
 #### § 1 Steuergebiet, Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000204123)
 
 (1) Schaumwein unterliegt im Steuergebiet der Schaumweinsteuer.
 Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das
@@ -89,6 +92,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 2 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000302123)
 
 (1) Die Steuer beträgt für Schaumwein vorbehaltlich des Absatzes 2 136
 Euro je Hektoliter (hl).
@@ -127,6 +131,7 @@ Lebensmittelüberwachungsbehörden mitgeteilt werden.
 
 
 #### § 3 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000402123)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -239,9 +244,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ### Abschnitt 2 - Steueraussetzung und Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000300000)
 
 
 #### § 4 Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000501000)
 
 (1) Steuerlager sind Orte, an oder von denen Schaumwein unter
 Steueraussetzung hergestellt, bearbeitet oder verarbeitet, gelagert,
@@ -255,6 +262,7 @@ Steuerlager gehören.
 
 
 #### § 5 Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000602140)
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager
 betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag
@@ -296,6 +304,7 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 #### § 6 Registrierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000701000)
 
 (1) Registrierte Empfänger sind Personen, die Schaumwein unter
 Steueraussetzung
@@ -339,6 +348,7 @@ Sicherheitsleistung zu erlassen.
 
 
 #### § 7 Registrierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000801000)
 
 (1) Registrierte Versender sind Personen, die Schaumwein vom Ort der
 Einfuhr unter Steueraussetzung versenden dürfen.
@@ -366,6 +376,7 @@ Belange dem nicht entgegenstehen.
 
 
 #### § 8 Begünstigte
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE000903123)
 
 (1) Begünstigte, die Schaumwein unter Steueraussetzung im Steuergebiet
 empfangen dürfen, sind vorbehaltlich des Absatzes 2
@@ -469,6 +480,7 @@ geeignete Dokumente zuzulassen.
 
 
 #### § 9 Beförderungen (Allgemeines)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001002123)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
 ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur
@@ -516,6 +528,7 @@ Verfahren abweichend von Absatz 1 zu bestimmen.
 
 
 #### § 10 Beförderungen im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001104123)
 
 (1) Schaumwein darf unter Steueraussetzung, auch über Drittländer oder
 Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder
@@ -578,6 +591,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 11 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001203123)
 
 (1) Schaumwein darf unter Steueraussetzung, auch über Drittländer oder
 Drittgebiete, befördert werden
@@ -691,6 +705,7 @@ zur Sicherheitsleistung zu erlassen; dabei kann es
 
 
 #### § 12 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001302123)
 
 (1) Schaumwein darf unter Steueraussetzung aus Steuerlagern im
 Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im
@@ -746,6 +761,7 @@ anzuwenden.
 
 
 #### § 13 Unregelmäßigkeiten während der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001403123)
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
 Steueraussetzung eintretender Fall, mit Ausnahme der in § 14 Absatz 3
@@ -811,6 +827,7 @@ zu erlassen.
 
 
 #### § 14 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001504123)
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung des Schaumweins
 in den steuerrechtlich freien Verkehr, es sei denn, es schließt sich
@@ -924,6 +941,7 @@ Nachweis.
 
 
 #### § 15 Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001603123)
 
 (1) Die Steuerschuldner nach § 14 Absatz 5 Satz 1 Nummer 1 erste
 Alternative und Nummer 3 haben über Schaumwein, für den in einem Monat
@@ -944,15 +962,19 @@ die Einzelheiten zur Steueranmeldung zu bestimmen.
 
 
 ### Abschnitt 3 - Einfuhr oder unrechtmäßiger Eingang von Schaumwein aus Drittländern oder Drittgebieten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000401123)
 
 
 #### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001702123)
 
 
 #### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001801123)
 
 
 #### § 18 Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE001903123)
 
 (1) Die Steuer entsteht vorbehaltlich des Satzes 2 zum Zeitpunkt der
 Überführung des Schaumweins in den steuerrechtlich freien Verkehr
@@ -1013,9 +1035,11 @@ ist.
 
 
 ### Abschnitt 4 - Beförderung von Schaumwein des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000501123)
 
 
 #### § 19 Erwerb durch Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002001000)
 
 (1) Schaumwein, den eine Privatperson für ihren Eigenbedarf in anderen
 Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst
@@ -1049,6 +1073,7 @@ Eigenbedarf der Privatperson bestimmt ist.
 
 
 #### § 20 Lieferung zu gewerblichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002102123)
 
 (1) Im Sinn dieses Abschnitts wird Schaumwein zu gewerblichen Zwecken
 geliefert, wenn er aus dem steuerrechtlich freien Verkehr eines
@@ -1074,6 +1099,7 @@ Steueraufkommens Vorschriften zu Absatz 1 zu erlassen.
 
 
 #### § 20a Zertifizierte Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004100123)
 
 (1) Zertifizierte Empfänger sind Personen, die Schaumwein, der aus dem
 steuerrechtlich freien Verkehr eines anderen Mitgliedstaats zu
@@ -1164,6 +1190,7 @@ zu Erleichterungen zu erlassen.
 
 
 #### § 20b Zertifizierte Versender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004200123)
 
 (1) Zertifizierte Versender sind Personen, die Schaumwein des
 steuerrechtlich freien Verkehrs zu gewerblichen Zwecken aus ihrem
@@ -1232,6 +1259,7 @@ zu dem Erlaubnisverfahren sowie zu Erleichterungen zu erlassen.
 
 
 #### § 20c Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004300123)
 
 (1) Schaumwein des steuerrechtlich freien Verkehrs gilt, soweit in
 diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine
@@ -1311,6 +1339,7 @@ Dabei kann das Bundesministerium der Finanzen
 
 
 #### § 21 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002203123)
 
 (1) Versandhandel betreibt, wer in Ausübung einer selbstständigen
 wirtschaftlichen Tätigkeit Schaumwein aus dem steuerrechtlich freien
@@ -1357,6 +1386,7 @@ abweichendes vereinfachtes Verfahren zulassen.
 
 
 #### § 22 Unregelmäßigkeiten während der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002302123)
 
 (1) Als Unregelmäßigkeit gilt, mit Ausnahme der in § 22a Absatz 2 Satz
 1 Nummer 2 geregelten Fälle, ein während der Beförderung von
@@ -1393,6 +1423,7 @@ Vorschriften zu den Absätzen 1 und 2 zu erlassen.
 
 
 #### § 22a Steuerentstehung, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004400123)
 
 (1) Die Steuer entsteht vorbehaltlich des Absatzes 2
 
@@ -1480,6 +1511,7 @@ Absätzen 1 bis 3 zu erlassen.
 
 
 #### § 22b Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004500123)
 
 (1) Die Steuerschuldner nach § 22a Absatz 3 Satz 1 Nummer 1 und 2
 haben bei Empfang im Einzelfall unverzüglich eine Steueranmeldung
@@ -1513,9 +1545,11 @@ die Einzelheiten zur Steueranmeldung zu bestimmen.
 
 
 ### Abschnitt 5 - Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000600000)
 
 
 #### § 23 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002405123)
 
 (1) Schaumwein ist von der Steuer befreit, wenn er gewerblich
 verwendet wird
@@ -1617,6 +1651,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 23a Verwender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004001123)
 
 (1) Wer Schaumwein in den Fällen des § 23 Absatz 1 steuerfrei
 verwenden will, bedarf einer Erlaubnis. Sie wird auf Antrag unter
@@ -1673,6 +1708,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 24 Steuerentlastung im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002502123)
 
 (1) Nachweislich versteuerter Schaumwein, der in ein Steuerlager
 aufgenommen worden ist, wird auf Antrag von der Steuer entlastet.
@@ -1721,6 +1757,7 @@ vorzuschreiben.
 
 
 #### § 25 Steuerentlastung bei der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002602123)
 
 (1) Nachweislich versteuerter Schaumwein, der nach § 20c oder § 21 in
 einen anderen Mitgliedstaat befördert worden ist, wird auf Antrag von
@@ -1788,9 +1825,11 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 
 
 ### Abschnitt 6 - Steueraufsicht, Geschäftsstatistik, Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000700000)
 
 
 #### § 26 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002701123)
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegt
 die Tätigkeit eines Steuervertreters nach § 21 Absatz 2 Satz 6 im
@@ -1822,6 +1861,7 @@ Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
 
 
 #### § 27 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE002800000)
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
 stellen die Hauptzollämter für statistische Zwecke Erhebungen an und
@@ -1833,6 +1873,7 @@ allgemeine Zwecke übermitteln.
 
 
 #### § 28 Besondere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE004600123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -2028,9 +2069,11 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ## Teil 2 - Zwischenerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000800000)
 
 
 ### § 29 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003001000)
 
 (1) Zwischenerzeugnisse unterliegen im Steuergebiet (§ 1 Absatz 1 Satz
 2) der Zwischenerzeugnissteuer. Die Steuer ist eine Verbrauchsteuer im
@@ -2048,6 +2091,7 @@ Anwendung.
 
 
 ### § 30 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003102123)
 
 (1) Die Steuer beträgt für Zwischenerzeugnisse vorbehaltlich der
 Absätze 2 und 3 153 Euro/hl.
@@ -2073,6 +2117,7 @@ Alkoholgehalt von nicht mehr als 15 Volumenprozent
 
 
 ### § 31 Herstellung von Zwischenerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003201377)
 
 Die Vorschrift des § 14 Absatz 2 Nummer 2 in Verbindung mit Absatz 1
 über die Steuerentstehung bei der Herstellung ohne Erlaubnis nach § 5
@@ -2083,9 +2128,11 @@ als die Steuer für das Zwischenerzeugnis.
 
 
 ## Teil 3 - Wein
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG000900000)
 
 
 ### § 32 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003305123)
 
 (1) Wein im Sinn dieses Gesetzes sind die nicht der Schaumweinsteuer
 nach § 1 Absatz 2 unterliegenden Erzeugnisse
@@ -2140,6 +2187,7 @@ nach § 1 Absatz 2 unterliegenden Erzeugnisse
 
 
 ### § 33 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003402140)
 
 (1) Beförderungen von Wein aus anderen, in andere oder über andere
 Mitgliedstaaten im gewerblichen Verkehr und die daran beteiligten
@@ -2178,13 +2226,16 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003502140)
 
 
 
 ## Teil 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNG001000000)
 
 
 ### § 35 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003602123)
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -2219,6 +2270,7 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ### § 36 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003700000)
 
 Das Bundesministerium der Finanzen erlässt die allgemeinen
 Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
@@ -2226,6 +2278,7 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ### § 37 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstg_2009/BJNR189600009.html#BJNR189600009BJNE003801123)
 
 (1) Für Beförderungen von Schaumwein, Zwischenerzeugnissen oder Wein
 des steuerrechtlich freien Verkehrs, die vor dem 13. Februar 2023

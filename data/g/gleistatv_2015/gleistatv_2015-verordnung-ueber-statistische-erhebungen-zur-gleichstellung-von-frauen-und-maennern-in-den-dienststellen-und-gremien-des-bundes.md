@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erhebungsmerkmale für die Gleichstellungsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000101116)
 
 (1) Jede Dienststelle nach § 3 Nummer 5 des
 Bundesgleichstellungsgesetzes erfasst alle zwei Jahre die Zahl der in
@@ -172,6 +173,7 @@ getrennt zu erfassen.
 
 
 ## § 2 Erhebungsmerkmale für den Gleichstellungsindex
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000201116)
 
 Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der
 obersten Bundesbehörde beschäftigten Frauen und Männer. Die Erhebung
@@ -200,6 +202,7 @@ erfasst auch die Zahl der Frauen und Männer nach
 
 
 ## § 3 Führungspositionen
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE001400116)
 
 Sofern nach dieser Verordnung Führungspositionen ab Ebene der
 Referatsleitung erfasst werden sollen, sind die entsprechenden Daten
@@ -231,6 +234,7 @@ erfassen:
 
 
 ## § 4 Berichtszeitpunkt, Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000301116)
 
 (1) Die Daten nach § 1 Absatz 1 sind zum 30. Juni des Berichtsjahres
 zu erfassen. Die Daten nach § 1 Absatz 2 sind für den Zeitraum vom 1.
@@ -247,6 +251,7 @@ Berichtsjahres zu erfassen.
 
 
 ## § 5 Meldung und Aufbereitung der Daten für die Gleichstellungsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000401116)
 
 (1) Die nach § 1 Absatz 1 und 2 erfassten Daten der nachgeordneten
 Bundesbehörden mit regelmäßig mindestens 15 Beschäftigten sind der
@@ -300,6 +305,7 @@ internen Dienstgebrauch zu.
 
 
 ## § 6 Meldung und Aufbereitung der Daten für den Gleichstellungsindex
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000501116)
 
 (1) Für die Meldung und Aufbereitung der Daten gilt § 4 Absatz 4
 entsprechend.
@@ -334,6 +340,7 @@ bis zum 31. Dezember des Berichtsjahres auf seiner Internetseite.
 
 
 ## § 7 Elektronische Erfassung und Meldung
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000602116)
 
 (1) Die Erfassung und Meldung der Daten hat elektronisch zu erfolgen.
 Die Dienststellen oder Institutionen des Bundes haben hierfür die
@@ -348,6 +355,7 @@ Bau und Heimat ändern.
 
 
 ## § 8 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000701116)
 
 Die Dienststellen und Institutionen des Bundes haben sicherzustellen,
 dass nur die Personen, die mit personellen und
@@ -356,6 +364,7 @@ erfassenden und zu meldenden personenbezogenen Daten erlangen.
 
 
 ## § 9 Sonderregelung für den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/gleistatv_2015/BJNR228000015.html#BJNR228000015BJNE000801116)
 
 Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1
 Absatz 1 und 2 ausgenommen.

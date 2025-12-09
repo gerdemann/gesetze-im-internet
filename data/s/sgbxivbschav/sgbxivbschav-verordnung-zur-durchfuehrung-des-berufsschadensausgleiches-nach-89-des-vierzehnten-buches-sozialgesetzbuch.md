@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000100000)
 
 Auf Grund des § 91 des Vierzehnten Buches Sozialgesetzbuch – Soziale
 Entschädigung – vom 12. Dezember 2019 (BGBl. I S. 2652) verordnet das
@@ -26,9 +27,11 @@ Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Grundsätzliches
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000200000)
 
 (1) Im Sinne dieser Verordnung ist
 
@@ -129,6 +132,7 @@ Bundesministerium der Finanzen:
 
 
 ### § 2 Grundlagen für die Ermittlung des Durchschnittseinkommens nach § 89 Absatz 3 des Vierzehnten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000300000)
 
 (1) Zur Bestimmung des Vergleichseinkommens und zur Ermittlung des
 Durchschnittseinkommens nach § 89 Absatz 3 des Vierzehnten Buches
@@ -144,9 +148,11 @@ eine Erwerbstätigkeit ausüben oder nicht mehr erwerbstätig sind.
 
 
 ## Abschnitt 2 - Zuordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNG000200000)
 
 
 ### § 3 Allgemeine Zuordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000400000)
 
 (1) Die Zuordnung erfolgt bei Geschädigten
 
@@ -219,6 +225,7 @@ der Abschluss erwartet werden in den Fällen
 
 
 ### § 4 Zuordnung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000500000)
 
 (1) Hatten Geschädigte vor der Schädigung oder der Auswirkung der
 Schädigungsfolgen in ihrer Erwerbstätigkeit nachweislich eine Stellung
@@ -257,6 +264,7 @@ Besoldungsgruppe nicht erreicht.
 
 
 ### § 5 Zuordnung und Regelung bei mehreren Tätigkeiten oder bei Führen eines gemeinsamen Haushaltes
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000600000)
 
 (1) Hätten Geschädigte ohne die Schädigung
 
@@ -302,6 +310,7 @@ erwerbstätig sind.
 
 
 ### § 6 Zuordnung bei Nachschaden gemäß § 89 Absatz 8 des Vierzehnten Buches Sozialgesetzbuch sowie bei berücksichtigungsfähigem Schaden nach einem Nachschaden
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000700000)
 
 (1) Bei einem Nachschaden im Sinne des § 89 Absatz 8 des Vierzehnten
 Buches Sozialgesetzbuch bleibt es bei der bisherigen Zuordnung.
@@ -319,9 +328,11 @@ von § 4 des Vierzehnten Buches Sozialgesetzbuch eintritt.
 
 
 ## Abschnitt 3 - Derzeitiges Einkommen gemäß § 89 Absatz 2 des Vierzehnten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNG000300000)
 
 
 ### § 7 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000800000)
 
 (1) Das derzeitige Einkommen im Sinne des § 89 Absatz 2 Satz 1 des
 Vierzehnten Buches Sozialgesetzbuch setzt sich zusammen aus den
@@ -423,6 +434,7 @@ insbesondere auch
 
 
 ### § 8 Besonderheiten bei der Berücksichtigung einzelner Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE000900000)
 
 (1) Einkommen aus früherer Erwerbstätigkeit, das infolge eines
 Versorgungsausgleichs in seiner Höhe verändert ist, ist mit dem Betrag
@@ -450,6 +462,7 @@ sie ohne die Schädigung noch in bisherigem Umfang erwerbstätig wären.
 
 
 ### § 9 Einkommen bei Nachschaden gemäß § 89 Absatz 8 des Vierzehnten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE001000000)
 
 (1) Bei einem Nachschaden im Sinne des § 89 Absatz 8 des Vierzehnten
 Buches Sozialgesetzbuch wird das vor dem Nachschaden erzielte
@@ -472,6 +485,7 @@ Einkommensminderung zu reduzieren.
 
 
 ### § 10 Vergleichswert als fiktives Altersersatzeinkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE001100000)
 
 (1) Haben Geschädigte während mindestens eines Viertels der Zeit ihrer
 Erwerbstätigkeit Einkünfte aus selbständiger Tätigkeit erwirtschaftet
@@ -505,6 +519,7 @@ Vierzehnten Buches Sozialgesetzbuch anzupassen.
 
 
 ### § 11 Nicht zu berücksichtigende Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE001200000)
 
 Zum Einkommen im Sinne des § 7 gehören nicht:
 
@@ -584,14 +599,17 @@ aus Aktien.
 
 
 ## Abschnitt 4 - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNG000400000)
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE001300000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgbxivbschav/BJNR12D0A0023.html#BJNR12D0A0023BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

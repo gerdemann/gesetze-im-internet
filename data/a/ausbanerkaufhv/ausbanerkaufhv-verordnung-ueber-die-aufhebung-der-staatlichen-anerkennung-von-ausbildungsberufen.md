@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbanerkaufhv/BJNR131800996.html#BJNR131800996BJNE000100000)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,6 +31,7 @@ für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Aufhebung der staatlichen Anerkennung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/ausbanerkaufhv/BJNR131800996.html#BJNR131800996BJNE000200000)
 
 Die staatliche Anerkennung der Ausbildungsberufe
 
@@ -60,6 +62,7 @@ wird aufgehoben.
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ausbanerkaufhv/BJNR131800996.html#BJNR131800996BJNE000300000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -67,6 +70,7 @@ anzuwenden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbanerkaufhv/BJNR131800996.html#BJNR131800996BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

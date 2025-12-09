@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNG000100000)
 
 
 
 ## Art 2 - Aufhebung der Verringerungen der Gesamtvergütungen
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNG000200000)
 
 Die Verringerungen der Gesamtvergütungen zum Ausgleich der
 Budgetüberschreitungen nach § 84 Abs. 1 des Fünften Buches
@@ -37,10 +40,12 @@ Gesetzes.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNG000300000)
 
 
 
 ## § 1 Übergangsregelung für die Arznei- und Heilmittelvereinbarungen für das Jahr 2002
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNE000200000)
 
 (1) Die Landesverbände der Krankenkassen und die Verbände der
 Ersatzkassen gemeinsam und einheitlich und die Kassenärztliche
@@ -61,6 +66,7 @@ Krankenkassen bis zum 31. Januar 2002.
 
 
 ## § 2 Übergangsregelung für die Prüfungen ärztlich verordneter Leistungen nach § 106 Abs. 2 Nr. 1 des Fünften Buches Sozialgesetzbuch in den Jahren 2002 und 2003
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNE000300000)
 
 Prüfungen nach Richtgrößen im Jahr 2002 erfolgen entsprechend § 106
 Abs. 5a des Fünften Buches Sozialgesetzbuch in der Fassung dieses
@@ -85,6 +91,7 @@ Rahmen der Prüfung nach Durchschnittswerten festgesetzten Betrag.
 
 
 ## Art 3a - Festsetzung des Vertragsinhalts durch das Schiedsamt
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNG000400000)
 
 Kommen die Vereinbarungen nach § 84 Abs. 1 und 6 des Fünften Buches
 Sozialgesetzbuch sowie nach Artikel 3 § 1 Abs. 1 Satz 1 und Abs. 2
@@ -101,6 +108,7 @@ von einem Monat nach Fristablauf fest.
 
 
 ## Art 4 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/abag/BJNR377309001.html#BJNR377309001BJNG000500000)
 
 Dieses Gesetz tritt mit Wirkung zum 31. Dezember 2001 in Kraft.
 

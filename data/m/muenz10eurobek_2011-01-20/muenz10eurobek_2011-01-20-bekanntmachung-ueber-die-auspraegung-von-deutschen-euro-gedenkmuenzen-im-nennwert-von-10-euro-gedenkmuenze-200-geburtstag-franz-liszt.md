@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2011-01-20/BJNR006200011.html#BJNR006200011BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2404) hat die Bundesregierung beschlossen, zum Thema „200.
@@ -57,11 +58,13 @@ Der Entwurf stammt von dem Künstler Michael Otto aus Rodenbach.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2011-01-20/BJNR006200011.html#BJNR006200011BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2011-01-20/BJNR006200011.html#BJNR006200011BJNE000300000)
 
 (Fundstelle: BGBl. I 2011, 62)
 

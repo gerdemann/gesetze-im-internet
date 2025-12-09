@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbasgpnv/BJNR521800021.html#BJNR521800021BJNE000100000)
 
 Auf Grund des § 2 Absatz 3 Nummer 1 der Abgabenordnung, der durch
 Artikel 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/dbasgpnv/BJNR521800021.html#BJNR521800021BJNE000200000)
 
 Abkommen im Sinne dieser Verordnung ist das Abkommen vom 28. Juni 2004
 zwischen der Bundesrepublik Deutschland und der Republik Singapur zur
@@ -35,6 +37,7 @@ des Protokolls vom 9. Dezember 2019 (BGBl. 2020 II S. 1178, 1179).
 
 
 ## § 2 Vermeidung der Doppelbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/dbasgpnv/BJNR521800021.html#BJNR521800021BJNE000300000)
 
 Aufgrund der auf diplomatischem Weg erfolgten Notifizierung gemäß
 Artikel 24 Absatz 1 Buchstabe e Doppelbuchstabe bb des Abkommens wird
@@ -51,17 +54,20 @@ Abkommens.
 
 
 ## § 3 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/dbasgpnv/BJNR521800021.html#BJNR521800021BJNE000400000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte ab dem 1.
 Januar 2022 anzuwenden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbasgpnv/BJNR521800021.html#BJNR521800021BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dbasgpnv/BJNR521800021.html#BJNR521800021BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

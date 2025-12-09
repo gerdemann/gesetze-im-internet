@@ -18,12 +18,14 @@ Fundstelle
 Stand: Esetzt G 2129-60 v. 9.6.2021 I 1730 (SchlärmschG)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000200000)
 
 Zweck dieses Gesetzes ist es, auf leiseren Strecken der regelspurigen
 öffentlichen Eisenbahninfrastruktur das Betriebsverbot lauter
@@ -39,6 +41,7 @@ S. 88) geändert worden ist, ab dem 15. Dezember 2024 gilt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000300000)
 
 (1) „Laute Güterwagen“ im Sinne dieses Gesetzes sind solche nach
 Artikel 5a der Verordnung (EU) Nr. 1304/2014.
@@ -54,6 +57,7 @@ Eisenbahnregulierungsgesetzes anzuwenden.
 
 
 ## § 3 Pflichten der Zugangsberechtigten und Betreiber der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000400000)
 
 (1) Zugangsberechtigte haben bei der Beantragung der Zuweisung von
 Schienenwegkapazität nach Maßgabe der Schienennetz-Nutzungsbedingungen
@@ -96,6 +100,7 @@ Schienenwegkapazität erfolgen.
 
 
 ## § 4 Auskunftspflichten der Zugangsberechtigten und der Betreiber der Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000500000)
 
 (1) Die zuständige Behörde kann von den Zugangsberechtigten sowie den
 Betreibern der Schienenwege verlangen, ihr diejenigen Daten zu
@@ -112,6 +117,7 @@ mindestens zwölf Monate bereitzuhalten.
 
 
 ## § 5 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000600000)
 
 Zuständige Behörde für die Durchführung und Überwachung dieses
 Gesetzes auf den Schienenwegen der Eisenbahnen des Bundes sowie der
@@ -121,6 +127,7 @@ Zuständigkeit der Regulierungsbehörde bleibt unberührt.
 
 
 ## § 6 Überwachung durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000700000)
 
 (1) Die nach § 5 zuständige Behörde hat die Einhaltung des
 Betriebsverbots nach Artikel 5a der Verordnung (EU) Nr. 1304/2014
@@ -142,6 +149,7 @@ Internetseite der zuständigen Behörde zu veröffentlichen.
 
 
 ## § 7 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000800000)
 
 Die nach diesem Gesetz zuständige Behörde kann ihre Anordnungen nach §
 4 Absatz 1 Satz 1 nach den für die Vollstreckung von
@@ -150,6 +158,7 @@ Zwangsgeldes beträgt bis zu 500 000 Euro.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE000900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -194,6 +203,7 @@ die einer Sicherheitsgenehmigung bedürfen, das Eisenbahn-Bundesamt.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schl_rmschg_2024/BJNR12D0A0024.html#BJNR12D0A0024BJNE001000000)
 
 Dieses Gesetz tritt am 15. Dezember 2024 in Kraft. Gleichzeitig tritt
 das Schienenlärmschutzgesetz vom 20. Juli 2017 (BGBl. I S. 2804), das

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_30bek_2025/BJNR634700024.html#BJNR634700024BJNE000100000)
 
 Gemäß § 30 Absatz 1 des Elftes Buch Sozialgesetzbuch (SGB XI) steigen
 die im Vierten Kapitel des SGB XI benannten,ab 1. Januar 2024
@@ -949,6 +950,7 @@ dem 1. Januar 2025 die nachfolgend dargestellten Änderungen:
 [^F832039_01_BJNR634700024BJNE000100000]: 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_30bek_2025/BJNR634700024.html#BJNR634700024BJNE000200000)
 
 Bundesministerium für Gesundheit
 

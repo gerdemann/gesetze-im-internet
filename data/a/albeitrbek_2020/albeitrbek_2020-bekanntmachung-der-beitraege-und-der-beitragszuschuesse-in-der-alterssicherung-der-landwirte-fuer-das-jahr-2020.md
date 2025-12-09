@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2020/BJNR286900019.html#BJNR286900019BJNE000100000)
 
 Auf Grund des § 33 Absatz 1 und der §§ 68, 114 und 120 des Gesetzes
 über die Alterssicherung der Landwirte, von denen § 33 Absatz 1 und §
@@ -247,6 +248,7 @@ vom 20. April 2007 (BGBl. I S. 554) neu gefasst worden sind, sowie §
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2020/BJNR286900019.html#BJNR286900019BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

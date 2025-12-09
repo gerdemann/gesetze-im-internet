@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beg_172dv_63/BJNR468200021.html#BJNR468200021BJNE000100000)
 
 Auf Grund des § 172 Absatz 4 des Bundesentschädigungsgesetzes, der
 durch Artikel 84 Nummer 1 der Verordnung vom 29. Oktober 2001 (BGBl. I
@@ -26,6 +27,7 @@ Absatz 1 des BEG-Schlussgesetzes vom 14. September 1965 (BGBl. I S.
 
 
 ## § 1 Höhe der Entschädigungsaufwendungen und Lastenanteile des Bundes und der elf alten Bundesländer (Länder) im Rechnungsjahr 2020
+[Direktlink](https://www.gesetze-im-internet.de/beg_172dv_63/BJNR468200021.html#BJNR468200021BJNE000200000)
 
 (1) Die nach dem Bundesentschädigungsgesetz geleisteten
 Entschädigungsaufwendungen (Entschädigungsausgaben nach Abzug der mit
@@ -285,11 +287,13 @@ sind.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beg_172dv_63/BJNR468200021.html#BJNR468200021BJNE000300000)
 
 Diese Verordnung tritt am siebten Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/beg_172dv_63/BJNR468200021.html#BJNR468200021BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

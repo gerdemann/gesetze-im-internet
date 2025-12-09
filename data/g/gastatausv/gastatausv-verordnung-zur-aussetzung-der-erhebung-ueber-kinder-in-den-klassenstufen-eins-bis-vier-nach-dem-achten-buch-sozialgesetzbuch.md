@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gastatausv/BJNR0300A0023.html#BJNR0300A0023BJNE000100000)
 
 Auf Grund des § 5 Absatz 4 Satz 1 des Bundesstatistikgesetzes in der
 Fassung der Bekanntmachung vom 20. Oktober 2016 (BGBl. I S. 2394)
@@ -25,6 +26,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Aussetzung der Erhebung über Kinder in den Klassenstufen eins bis vier
+[Direktlink](https://www.gesetze-im-internet.de/gastatausv/BJNR0300A0023.html#BJNR0300A0023BJNE000200000)
 
 Die Erhebung nach § 98 Absatz 1 Nummer 1a des Achten Buches
 Sozialgesetzbuch – Kinder und Jugendhilfe – in der Fassung der
@@ -34,11 +36,13 @@ durch Artikel 1 des Gesetzes vom 21. Dezember 2022 (BGBl. I S. 2824;
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gastatausv/BJNR0300A0023.html#BJNR0300A0023BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gastatausv/BJNR0300A0023.html#BJNR0300A0023BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

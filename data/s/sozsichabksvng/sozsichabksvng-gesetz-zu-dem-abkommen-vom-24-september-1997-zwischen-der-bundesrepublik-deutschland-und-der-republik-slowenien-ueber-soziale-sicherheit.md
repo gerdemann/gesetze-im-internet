@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksvng/BJNR198520998.html#BJNR198520998BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksvng/BJNR198520998.html#BJNR198520998BJNE000200310)
 
 Den folgenden, in Laibach am 24. September 1997 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -46,11 +48,13 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksvng/BJNR198520998.html#BJNR198520998BJNE000301308)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksvng/BJNR198520998.html#BJNR198520998BJNE000400310)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -85,6 +89,7 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksvng/BJNR198520998.html#BJNR198520998BJNE000500310)
 
 Die Aufgaben der zuständigen Behörde nach
 
@@ -115,6 +120,7 @@ Verbindungsstelle Krankenversicherung-Ausland, Bonn, übertragen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksvng/BJNR198520998.html#BJNR198520998BJNE000600310)
 
 (1) Dieses Gesetzes tritt am Tage nach seiner Verkündung in Kraft.
 

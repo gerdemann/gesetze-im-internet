@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000200305)
 
 
 
 ## Art 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000300305)
 
 Die Form und die Abmessungen bisher bestehender, von diesem Gesetz
 abweichender Bauschutzbereiche richten sich ab dem 1. Februar 1999
@@ -40,6 +43,7 @@ entgegenstehen.
 
 
 ## Art 10 Bekanntmachungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000400305)
 
 Das Bundesministerium für Verkehr kann den Wortlaut des
 Luftverkehrsgesetzes, der Luftverkehrs-Ordnung und der Luftverkehrs-
@@ -49,11 +53,13 @@ bekanntmachen.
 
 
 ## Art 10a
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000500305)
 
 -
 
 
 ## Art 11 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000600305)
 
 Die auf den Artikel 5 bis 8 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
@@ -61,6 +67,7 @@ Ermächtigung durch Rechtsverordnung geändert oder aufgehoben werden.
 
 
 ## Art 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg_11/BJNR243200998.html#BJNR243200998BJNE000700305)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am ersten Tage
 des siebten auf die Verkündung folgenden Kalendermonats in Kraft.

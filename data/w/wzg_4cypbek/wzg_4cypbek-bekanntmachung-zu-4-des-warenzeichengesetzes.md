@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cypbek/BJNR011580987.html#BJNR011580987BJNE000100308)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird in der
@@ -29,11 +30,13 @@ November 1986 (BGBl. I S. 2095).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cypbek/BJNR011580987.html#BJNR011580987BJNE000900308)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Prüf- und Gewährzeichen der Republik Zypern für frische, zum Export bestimmte landwirtschaftliche Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cypbek/BJNR011580987.html#BJNR011580987BJNE000200308)
 
 (Inhalt: Nicht darstellbares Warenzeichen,
 Fundstelle: BGBl. I 1987, 1158)

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen, Beauftragter und Internetadressen
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000100000)
 
 (1) Dieses Gesetz regelt die einmalige Entlastung von Kosten für
 leitungsgebundenes Erdgas und Wärme.
@@ -47,6 +48,7 @@ für Wirtschaft und Klimaschutz bekannt zu machende Internetadressen.
 
 
 ## § 2 Entlastung bei leitungsgebundenen Erdgaslieferungen an Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000200000)
 
 (1) Erdgaslieferanten sind verpflichtet, den Letztverbrauchern für
 jede ihrer Entnahmestellen in der Bundesrepublik Deutschland einen
@@ -165,6 +167,7 @@ insbesondere des Teils 4, anzuwenden.
 
 
 ## § 3 Vorläufige Leistung des Erdgaslieferanten auf die Entlastung bei Letztverbrauchern mit Standardlastprofil
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000300000)
 
 (1) Der Erdgaslieferant hat bei Letztverbrauchern, die über ein
 Standardlastprofil beliefert werden, eine vorläufige Leistung nach den
@@ -207,6 +210,7 @@ Erdgaslieferant verpflichtet und berechtigt,
 
 
 ## § 4 Verpflichtung des Wärmeversorgungsunternehmens gegenüber seinen Kunden
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000400000)
 
 (1) Wärmeversorgungsunternehmen sind verpflichtet, ihren Kunden für
 deren im Dezember 2022 zu leistende Zahlungen für Wärmelieferungen in
@@ -283,6 +287,7 @@ Entlastung aus Mitteln des Bundes finanziert wird.
 
 
 ## § 5 Weitergabe der Entlastungen bei Mietverhältnissen und in Wohnungseigentümergemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000501377)
 
 (1) Der Vermieter hat die Entlastung, die er nach den §§ 2 oder 4 für
 Dezember 2022 erlangt oder erlangen könnte, im Rahmen der
@@ -345,6 +350,7 @@ entsprechend anwendbar.
 
 
 ## § 6 Erstattungsanspruch der Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000600000)
 
 Lieferanten, die nach den §§ 2 und 4 zu Entlastungen verpflichtet
 sind, haben in Höhe der sich aus diesen Vorschriften ergebenden
@@ -355,6 +361,7 @@ Stelle der Zahlung des Letztverbrauchers oder des Kunden.
 
 
 ## § 7 Vorauszahlungen an Erdgaslieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000700000)
 
 Erdgaslieferanten haben in Höhe der Entlastungsbeträge nach § 2 Absatz
 2 Satz 4 und 5, sowie der nach § 3 gewährten vorläufigen Leistungen
@@ -364,6 +371,7 @@ Vorauszahlung tritt an die Stelle der Zahlung des Letztverbrauchers.
 
 
 ## § 8 Antragsverfahren für die Vorauszahlung an Erdgaslieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000800000)
 
 (1) Erdgaslieferanten, die einen Anspruch auf Vorauszahlung nach § 7
 haben, haben die Auszahlung der Vorauszahlung über das Kreditinstitut
@@ -450,6 +458,7 @@ keine Beanstandungen ergab.
 
 
 ## § 9 Antragsverfahren für den Erstattungsanspruch von Wärmeversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE000900000)
 
 (1) Wärmeversorgungsunternehmen, die einen Erstattungsanspruch nach §
 6 haben, haben die Auszahlung der Erstattung über das Kreditinstitut
@@ -536,6 +545,7 @@ aufzunehmen.
 
 
 ## § 10 Endabrechnung bei Lieferanten, Erstattungsanträge von Erdgaslieferanten und Nachprüfungsverfahren bei Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001000000)
 
 (1) Erdgaslieferanten, die eine Vorauszahlung nach § 8 erhalten haben,
 sind verpflichtet, dem Beauftragten bis zum Ablauf des 31. Mai 2024
@@ -607,6 +617,7 @@ und 2 der Bundeshaushaltsordnung ausgenommen.
 
 
 ## § 10a Veröffentlichungs-, Berichts- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001600377)
 
 (1) Der Beauftragte veröffentlicht innerhalb von zwölf Monaten,
 nachdem die Höhe der Gewährung der Beihilfe feststeht, die in Anhang
@@ -632,6 +643,7 @@ Verlangen herauszugeben.
 
 
 ## § 11 Sozialrechtliche Regelung
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001100000)
 
 (1) Wird Personen, die Leistungen zur Sicherung des Lebensunterhalts
 nach dem Zweiten Buch Sozialgesetzbuch oder Zwölften Buch
@@ -661,6 +673,7 @@ nach § 3 Absatz 3, sind die Absätze 1 und 2 entsprechend anzuwenden.
 
 
 ## § 12 Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001200000)
 
 Unpfändbar sind:
 
@@ -690,6 +703,7 @@ Satz 1 Nummer 1 bis 3 genannten Ansprüchen ist zulässig.
 
 
 ## § 13 Mitwirkung der Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001300000)
 
 Kreditinstitute sind verpflichtet, Vorauszahlungsanträge der
 Lieferanten nach § 8 Absatz 1 sowie Auszahlungsanträge der Lieferanten
@@ -708,6 +722,7 @@ Prüfpflichten eingehalten zu haben und weiter einzuhalten.
 
 
 ## § 14 Mitwirkung der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001400000)
 
 Die Bundesnetzagentur übermittelt dem Beauftragten, soweit für die
 Antragsprüfungen und sonstigen Prüfungshandlungen erforderlich,
@@ -730,6 +745,7 @@ Geschäftsgeheimnisse:
 
 
 ## § 15 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ewsg/BJNR205100022.html#BJNR205100022BJNE001500000)
 
 Es findet bis zum 31. Dezember 2024 eine Evaluierung der Regelungen
 dieses Gesetzes durch das Bundesministerium für Wirtschaft und

@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Beginn und Ende des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000213377)
 
 (1) Soldatinnen und Soldaten haben nach Maßgabe des § 15 Absatz 1 oder
 1a des Bundeselterngeld- und Elternzeitgesetzes Anspruch auf
@@ -68,6 +69,7 @@ Beendigung des Wehrdienstverhältnisses.
 
 
 ## § 2 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000310123)
 
 (1) Die Elternzeit soll, wenn sie unmittelbar nach der Geburt des
 Kindes oder nach Ablauf der Mutterschutzfrist (§ 5 Abs. 1 Satz 1 der
@@ -97,6 +99,7 @@ unverzüglich mitzuteilen.
 
 
 ## § 3 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000406310)
 
 (1) Die Elternzeit erteilt das Bundesministerium der Verteidigung oder
 eine von ihm beauftragte Stelle.
@@ -111,6 +114,7 @@ verzichtet werden.
 
 
 ## § 4 Nicht volle Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000511311)
 
 Während der Elternzeit darf die Soldatin oder der Soldat mit
 Zustimmung des Bundesministeriums der Verteidigung oder der von ihm
@@ -120,22 +124,26 @@ Umfang von 32 Stunden in der Woche nicht überschreitet.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000606310)
 
 -
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000706310)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000805310)
 
 Die Vorschriften dieser Verordnung sind nur in den Fällen anzuwenden,
 in denen das Kind nach Inkrafttreten dieser Verordnung geboren wird.
 
 
 ## § 7a
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE001207310)
 
 Für die vor dem 1. Januar 2004 geborenen Kinder oder für die vor
 diesem Zeitpunkt mit dem Ziel der Adoption aufgenommenen Kinder sind
@@ -144,11 +152,13 @@ geltenden Fassung weiter anzuwenden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE000905310)
 
 (Aufhebung anderer Vorschriften)
 
 
 ## § 9 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/erzurlsoldv/BJNR026450990.html#BJNR026450990BJNE001005310)
 
 -
 

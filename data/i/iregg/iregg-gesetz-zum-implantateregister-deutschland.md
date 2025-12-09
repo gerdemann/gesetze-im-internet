@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zweck; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000100000)
 
 
 ### § 1 Bezeichnung und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000201116)
 
 (1) Zur Gewährleistung hoher Qualitäts- und Sicherheitsstandards bei
 der Gesundheitsversorgung mit Implantaten wird ein Implantateregister
@@ -85,6 +87,7 @@ geführt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000300000)
 
 Im Sinne dieses Gesetzes bezeichnet der Ausdruck:
 
@@ -149,9 +152,11 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck:
 
 
 ## Abschnitt 2 - Registerstelle; Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000200000)
 
 
 ### § 3 Registerstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000401116)
 
 (1) Das Bundesministerium für Gesundheit errichtet und betreibt eine
 Registerstelle für das Implantateregister. Die Registerstelle ist die
@@ -173,6 +178,7 @@ Strafgesetzbuches unterliegen.
 
 
 ### § 4 Aufgaben der Registerstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000500000)
 
 (1) Die Registerstelle hat insbesondere
 
@@ -251,6 +257,7 @@ Sicherheit in der Informationstechnik sicher.
 
 
 ### § 5 Beleihung mit Aufgaben der Registerstelle; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000600000)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -315,6 +322,7 @@ Beliehene mit Beendigung der Beleihung der Registerstelle unverzüglich
 
 
 ### § 6 Rechts- und Fachaufsicht über die Beliehene
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000700000)
 
 (1) Die Beliehene untersteht der Fachaufsicht einschließlich der
 Rechtsaufsicht des Bundesministeriums für Gesundheit. Zur Wahrnehmung
@@ -352,9 +360,11 @@ für Gesundheit sind befugt,
 
 
 ## Abschnitt 3 - Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000300000)
 
 
 ### § 7 Geschäftsstelle; Aufgaben der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000801116)
 
 (1) Das Bundesministerium für Gesundheit unterhält eine
 Geschäftsstelle für das Implantateregister.
@@ -418,9 +428,11 @@ mehreren Sprachen vorliegen und barrierefrei zugänglich sein.
 
 
 ## Abschnitt 4 - Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000400000)
 
 
 ### § 8 Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE000900000)
 
 (1) Das Robert Koch-Institut richtet eine Vertrauensstelle für das
 Implantateregister ein. Die Vertrauensstelle ist organisatorisch,
@@ -439,6 +451,7 @@ Strafgesetzbuches unterliegen.
 
 
 ### § 9 Aufgaben der Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001000000)
 
 (1) Die Vertrauensstelle hat
 
@@ -523,9 +536,11 @@ Sicherheit in der Informationstechnik sicher.
 
 
 ## Abschnitt 5 - Auswertungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000500000)
 
 
 ### § 10 Auswertungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001100000)
 
 (1) Die Geschäftsstelle richtet für jeden im Implantateregister
 erfassten Implantattyp eine Auswertungsgruppe ein.
@@ -572,6 +587,7 @@ teilnehmen:
 
 
 ### § 11 Aufgaben der Auswertungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001200000)
 
 Jede Auswertungsgruppe hat für die Gruppe von Implantattypen, für die
 sie eingerichtet wurde,
@@ -594,9 +610,11 @@ sie eingerichtet wurde,
 
 
 ## Abschnitt 6 - Beirat
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000600000)
 
 
 ### § 12 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001300000)
 
 (1) Zur Beratung und Unterstützung der Geschäftsstelle und der
 Registerstelle wird ein Beirat eingerichtet.
@@ -649,6 +667,7 @@ Verbände, Gruppen und Institutionen ausgewogen vertreten sind:
 
 
 ### § 13 Aufgaben des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001400000)
 
 (1) Der Beirat berät und unterstützt die Registerstelle insbesondere
 
@@ -685,9 +704,11 @@ bedarf der Zustimmung des Bundesministeriums für Gesundheit.
 
 
 ## Abschnitt 7 - Produktdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000700000)
 
 
 ### § 14 Produktdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001501116)
 
 (1) Zur Erfassung der Produktdaten von Implantaten, die zur Erreichung
 der Zwecke des Implantateregisters nach § 1 erforderlich sind,
@@ -731,6 +752,7 @@ registrierten Implantate.
 
 
 ### § 15 Pflichten der Produktverantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001603116)
 
 Die Produktverantwortlichen sind verpflichtet, folgende Daten in die
 zentrale Produktdatenbank einzugeben:
@@ -765,9 +787,11 @@ zentrale Produktdatenbank einzugeben:
 
 
 ## Abschnitt 8 - Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000800000)
 
 
 ### § 16 Meldepflichten gegenüber der Registerstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001700000)
 
 (1) Die verantwortliche Gesundheitseinrichtung übermittelt der
 Registerstelle nach jeder implantatbezogenen Maßnahme
@@ -804,6 +828,7 @@ zu korrigieren.
 
 
 ### § 17 Meldepflichten gegenüber der Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001802119)
 
 (1) Die verantwortliche Gesundheitseinrichtung übermittelt der
 Vertrauensstelle nach jeder implantatbezogenen Maßnahme diejenigen
@@ -884,6 +909,7 @@ Identifikationsnummer barrierefrei bereitstellen.
 
 
 ### § 18 Art der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE001901128)
 
 Die verantwortlichen Gesundheitseinrichtungen, die gesetzlichen
 Krankenkassen, die privaten Krankenversicherungsunternehmen und die
@@ -894,9 +920,11 @@ Sozialgesetzbuch zu verwenden.
 
 
 ## Abschnitt 9 - Datenverarbeitung durch die Vertrauens- und Registerstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG000900000)
 
 
 ### § 19 Grundsätze der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002000000)
 
 (1) Die Vertrauensstelle und die Registerstelle verarbeiten die bei
 ihnen gespeicherten Daten nach Maßgabe dieses Gesetzes.
@@ -906,6 +934,7 @@ ihnen gespeicherten Daten nach Maßgabe dieses Gesetzes.
 
 
 ### § 20 Einheitliche Datenstruktur
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002100000)
 
 (1) Die Übermittlung der Daten zur Erfüllung einer Meldepflicht nach
 den §§ 16 und 17 erfolgt auf der Grundlage einer einheitlichen
@@ -962,6 +991,7 @@ Datenstruktur.
 
 
 ### § 21 Verarbeitung und Übermittlung von Daten bestehender Implantateregister
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002200000)
 
 (1) Die Vertrauensstelle und die Registerstelle sind berechtigt,
 personenbezogene Daten, die ihr von den Vertrauensstellen bestehender
@@ -1030,6 +1060,7 @@ zur Aufnahme in das Implantateregister Deutschland zu übermitteln.
 
 
 ### § 22 Verfahren zur Datenübernahme von bestehenden Implantateregistern
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002300000)
 
 (1) Die Vertrauensstelle hat die durch eine Vertrauensstelle eines
 bestehenden Implantateregisters übermittelten patienten- und
@@ -1054,6 +1085,7 @@ Informationstechnik fest.
 
 
 ### § 23 Austausch anonymisierter Registerdaten
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002400000)
 
 Die Registerstelle darf zur Förderung der Zwecke des
 Implantateregisters nach § 1
@@ -1073,9 +1105,11 @@ Implantateregisters nach § 1
 
 
 ## Abschnitt 10 - Informationspflichten; Beschränkung der Betroffenenrechte
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG001000000)
 
 
 ### § 24 Informations- und Auskunftspflicht gegenüber betroffenen Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002500000)
 
 (1) Die verantwortliche Gesundheitseinrichtung ist verpflichtet, den
 betroffenen Patientinnen und Patienten
@@ -1109,6 +1143,7 @@ Patientin oder des betroffenen Patienten berechtigt ist.
 
 
 ### § 25 Informationspflicht gegenüber den gesetzlichen Krankenkassen und privaten Krankenversicherungen und sonstigen Kostenträgern
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002600000)
 
 Die verantwortliche Gesundheitseinrichtung, die eine implantatbezogene
 Maßnahme durchgeführt hat, informiert die gesetzliche Krankenkasse,
@@ -1118,6 +1153,7 @@ Kostenträger der betroffenen Patientin oder des betroffenen Patienten
 
 
 ### § 26 Beschränkung der Rechte betroffener Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002700000)
 
 Der von einer implantatbezogenen Maßnahme betroffenen Patientin oder
 dem von einer implantatbezogenen Maßnahme betroffenen Patienten steht
@@ -1135,9 +1171,11 @@ Artikels 23 der Verordnung (EU) 2016/679 kein Anspruch zu auf
 
 
 ## Abschnitt 11 - Zugang zu den Registerdaten
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG001100000)
 
 
 ### § 27 Grundsätze des Zugangs zu Registerdaten
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002800000)
 
 Öffentliche und nicht öffentliche Stellen haben nur Zugang zu den
 gespeicherten Daten des Implantateregisters, soweit dieses Gesetz es
@@ -1145,6 +1183,7 @@ vorsieht.
 
 
 ### § 28 Allgemeine Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE002900000)
 
 (1) Die Geschäftsstelle kann allgemeine Auskünfte zur Arbeitsweise des
 Registers und zu dessen Datenbestand sowie allgemeine Auskünfte über
@@ -1155,6 +1194,7 @@ enthalten.
 
 
 ### § 29 Datenübermittlung durch die Registerstelle
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003000000)
 
 (1) Die Registerstelle übermittelt
 
@@ -1266,6 +1306,7 @@ erhobenen Daten zusammenzuführen und auszuwerten.
 
 
 ### § 30 Datenübermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003100000)
 
 (1) Die Registerstelle übermittelt dem Bundesinstitut für Arzneimittel
 und Medizinprodukte die Daten, die erforderlich sind
@@ -1324,6 +1365,7 @@ Informationstechnik fest.
 
 
 ### § 31 Datenübermittlung zu Forschungszwecken oder statistischen Zwecken; Datenbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003200000)
 
 (1) Die Registerstelle soll Daten auf Antrag
 
@@ -1405,9 +1447,11 @@ gemachten Daten auf der Internetseite des Implantateregisters.
 
 
 ## Abschnitt 12 - Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG001200000)
 
 
 ### § 32 Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003300000)
 
 (1) Die Registerstelle hat die pseudonymisierten Daten zu
 anonymisieren, wenn den Zwecken des Implantateregisters nach § 1 auch
@@ -1428,9 +1472,11 @@ der betroffenen Patientin oder des betroffenen Patienten
 
 
 ## Abschnitt 13 - Finanzierung und Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG001300000)
 
 
 ### § 33 Finanzierung durch Gebühren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003401116)
 
 (1) Das Bundesministerium für Gesundheit erhebt für die Erbringung der
 nach diesem Gesetz oder nach den zur Durchführung dieses Gesetzes
@@ -1474,6 +1520,7 @@ Behandlungen nach § 17 Absatz 3 des Krankenhausentgeltgesetzes.
 
 
 ### § 34 Vergütung der verantwortlichen Gesundheitseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003501116)
 
 (1) Die Vergütung des Aufwandes der verantwortlichen
 Gesundheitseinrichtungen erfolgt
@@ -1497,6 +1544,7 @@ Absatz 1 Satz 2 Nummer 1 abgegolten.
 
 
 ### § 35 Vergütungsminderung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003601119)
 
 (1) Der Anspruch einer verantwortlichen Gesundheitseinrichtung auf
 Vergütung der meldepflichtigen implantatbezogenen Maßnahme gegen eine
@@ -1531,6 +1579,7 @@ Unfallversicherung oder eines sonstigen Kostenträgers entsprechend.
 
 
 ### § 36 Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003700000)
 
 (1) Bei der Abrechnung der implantatbezogenen Maßnahme weist die
 verantwortliche Gesundheitseinrichtung durch Vorlage der
@@ -1563,9 +1612,11 @@ auf ihre Nachweispflicht hinzuweisen.
 
 
 ## Abschnitt 14 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNG001400000)
 
 
 ### § 37 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003802119)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung
@@ -1666,6 +1717,7 @@ Rechtsverordnung
 (zu § 2 Nummer 1)
 
 ### Anlage Liste der Implantattypen
+[Direktlink](https://www.gesetze-im-internet.de/iregg/BJNR249410019.html#BJNR249410019BJNE003900000)
 
 (Fundstelle: BGBl. I 2019, 2505)
 

@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hofv_2017/BJNR235800017.html#BJNR235800017BJNE000101129)
 
 Auf Grund des § 23 des Bodensonderungsgesetzes, der durch Artikel 186
 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden
@@ -32,6 +33,7 @@ Verbraucherschutz:
 
 
 ## § 1 Amtliches Verzeichnis bei ungetrennten Hofräumen
+[Direktlink](https://www.gesetze-im-internet.de/hofv_2017/BJNR235800017.html#BJNR235800017BJNE000201129)
 
 (1) Bis zur Aufnahme des Grundstücks in das amtliche Verzeichnis gilt
 vorbehaltlich anderer bundesgesetzlicher Bestimmungen bei
@@ -59,6 +61,7 @@ Verzeichnis dient.
 
 
 ## § 2 Bezeichnung des Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/hofv_2017/BJNR235800017.html#BJNR235800017BJNE000301129)
 
 (1) Im Grundbuch ist das Grundstück, das dort als Anteil an einem
 ungetrennten Hofraum bezeichnet ist, mit der Nummer des
@@ -73,11 +76,13 @@ Grundbuch eine sonstige Eintragung vorgenommen werden soll.
 
 
 ## § 3 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hofv_2017/BJNR235800017.html#BJNR235800017BJNE000401129)
 
 Diese Verordnung tritt mit Ablauf des 31. Dezember 2035 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hofv_2017/BJNR235800017.html#BJNR235800017BJNE000501129)
 
 Der Bundesrat hat zugestimmt.
 

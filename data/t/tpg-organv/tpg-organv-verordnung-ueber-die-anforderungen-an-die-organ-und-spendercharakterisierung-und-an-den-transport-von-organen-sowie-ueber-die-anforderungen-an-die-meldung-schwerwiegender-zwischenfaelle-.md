@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000101116)
 
 (1) Diese Verordnung regelt die Anforderungen an
 
@@ -114,9 +115,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Organ- und Spendercharakterisierung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNG000100000)
 
 
 ### § 2 Notwendige Angaben zur Organ- und Spendercharakterisierung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000200000)
 
 Folgende Angaben sind unbeschadet des § 10a Absatz 4 Satz 3 des
 Transplantationsgesetzes durch die von der Koordinierungsstelle
@@ -177,6 +180,7 @@ Wissenschaft und Technik zu erheben:
 
 
 ### § 3 Weitere Angaben zur Organ- und Spendercharakterisierung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000300000)
 
 Folgende Angaben sind nach ärztlicher Beurteilung durch die von der
 Koordinierungsstelle beauftragte Person unter ärztlicher Beratung und
@@ -235,6 +239,7 @@ Falles zu erheben:
 
 
 ### § 4 Anwendung des Dringlichkeitsverfahrens der Richtlinie 2010/53/EU
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000400000)
 
 Bei der Erhebung der Angaben zur Organ- und Spendercharakterisierung
 nach den §§ 2 und 3 hat die von der Koordinierungsstelle beauftragte
@@ -252,9 +257,11 @@ Transplantationszentrums.
 
 
 ## Abschnitt 2 - Transport
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNG000200000)
 
 
 ### § 5 Verfahren zur Übermittlung von Angaben zur Organ- und Spendercharakterisierung bei verstorbenen Spendern
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000900116)
 
 (1) Die von der Koordinierungsstelle beauftragte Person hat die nach
 §§ 2 und 3 bei verstorbenen Spendern erhobenen Angaben zur Organ-und
@@ -277,6 +284,7 @@ weiterzuleiten.
 
 
 ### § 6 Verfahren zur Übermittlung von Angaben zur Organ- und Spendercharakterisierung beim grenzüberschreitenden Organaustausch
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001000116)
 
 (1) Wird ein Organ eines verstorbenen Spenders in einen
 Bestimmungsmitgliedstaat zum Zweck der Übertragung vermittelt, hat die
@@ -302,6 +310,7 @@ unverzüglich in Kenntnis zu setzen.
 
 
 ### § 7 Kennzeichnung der Behälter für den Transport von Organen
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000501116)
 
 (1) Die für den Transport der Organe verwendeten Behälter sind mit
 folgenden Angaben zu versehen:
@@ -331,9 +340,11 @@ Absatz 1 genannten Anforderungen nicht eingehalten werden.
 
 
 ## Abschnitt 3 - Rückverfolgbarkeit, Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNG000301116)
 
 
 ### § 8 Angaben zur Gewährleistung der Rückverfolgbarkeit von Organen beim grenzüberschreitenden Organaustausch
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001100116)
 
 (1) Wird ein Organ in einen Bestimmungsmitgliedstaat zum Zweck der
 Übertragung vermittelt, hat die verantwortliche Person der
@@ -381,6 +392,7 @@ Ursprungsmitgliedstaat zu bestätigen.
 
 
 ### § 9 Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000601116)
 
 (1) Die von der Koordinierungsstelle beauftragte Person stellt sicher,
 dass jeder schwerwiegende Zwischenfall, der sich auf die Qualität und
@@ -440,6 +452,7 @@ Gefährdung der Organ- oder Gewebeempfänger erforderlich ist.
 
 
 ### § 10 Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen beim grenzüberschreitenden Organaustausch
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001200116)
 
 (1) Meldet die von der Koordinierungsstelle beauftragte Person nach §
 9 Absatz 3 Satz 1 der Vermittlungsstelle einen schwerwiegenden
@@ -505,6 +518,7 @@ und die Vermittlungsstelle hiervon zu unterrichten.
 
 
 ### § 11 Meldung von Vorfällen bei der Lebendspende von Organen
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000701116)
 
 Der behandelnde Arzt eines Lebendspenders ist verpflichtet, jeden
 Vorfall, der im Rahmen der ärztlich empfohlenen Nachbetreuung nach § 8
@@ -517,9 +531,11 @@ Transplantationszentrum zu melden, welches das Organ übertragen hat.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften, Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNG000401116)
 
 
 ### § 12 Gemeinsame Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001300116)
 
 (1) Die Vermittlungsstelle und die Koordinierungsstelle stellen
 personell sicher, dass eine Person ständig für Notfälle zur Verfügung
@@ -558,6 +574,7 @@ keine Sprache vereinbart worden ist, auf Englisch gemacht werden.
 
 
 ### § 13 Vermittlung im Organaustauschverbund
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001400116)
 
 Ist die Vermittlungsstelle mit der Vermittlung von Organen im Rahmen
 eines internationalen Organaustauschverbundes nach § 12 Absatz 2 Satz
@@ -569,6 +586,7 @@ Informationspflichten nach den §§ 6, 8 und 10 Absatz 3 und 4.
 
 
 ### § 14 Notfallregelung
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001500116)
 
 In Notfällen können die Angaben nach den §§ 5, 6, 8 und 10 abweichend
 von § 12 Absatz 2 mündlich übermittelt werden. In diesen Fällen ist
@@ -577,6 +595,7 @@ nachzuholen.
 
 
 ### § 15 Verbindung zwischen den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001600116)
 
 Die Vermittlungsstelle und die Koordinierungsstelle stellen sicher,
 dass die relevanten Kontaktdaten für die Übermittlung der Angaben nach
@@ -587,6 +606,7 @@ und die Postanschrift.
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE000801116)
 
 Ordnungswidrig im Sinne des § 20 Absatz 1 Nummer 11 des
 Transplantationsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -604,6 +624,7 @@ Transplantationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001700116)
 
 (Fundstelle: BGBl. 2014, 604)
 
@@ -662,6 +683,7 @@ muss folgende Angaben enthalten:
 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/tpg-organv/BJNR018810013.html#BJNR018810013BJNE001800116)
 
 (Fundstelle: BGBl. 2014, 604)
 

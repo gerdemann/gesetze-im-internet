@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000101305)
 
 
 
 ### § 1 Errichtung, Rechtsform, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001102305)
 
 (1) Zur Wahrnehmung der sich aus diesem Gesetz ergebenden Rechte und
 Pflichten in bezug auf die aus den Teilsondervermögen der Deutschen
@@ -38,6 +40,7 @@ Rechts. Sie hat ihren Sitz in Bonn.
 
 
 ### § 2 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001201308)
 
 Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums der Finanzen. Es ist befugt, alle Auskünfte zu
@@ -47,10 +50,12 @@ Bestimmungen und den Interessen des Bundes wahrnimmt.
 
 
 ## Abschnitt 2 - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000201305)
 
 
 
 ### § 3 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001304305)
 
 (1) Die Bundesanstalt hat die Aufgaben nach den Abschnitten 4, 5, 7
 und 8.
@@ -70,10 +75,12 @@ Postnachfolgeunternehmen ausüben.
 
 
 ## Abschnitt 3 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000302305)
 
 
 
 ### § 4 Leitung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001403119)
 
 (1) Die Bundesanstalt wird durch eine Präsidentin oder einen
 Präsidenten geleitet, die oder der in einem Anstellungsverhältnis zur
@@ -129,6 +136,7 @@ Berufssoldatinnen und Berufssoldaten entsprechend.
 
 
 ### § 5 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001505305)
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er besteht
 aus einer oder einem Vorsitzenden, die oder der vom Bundesministerium
@@ -184,6 +192,7 @@ innerhalb dieser Frist kein Beschluß, gilt die Vorlage als genehmigt.
 
 
 ### § 6 Einspruch gegen Beschlüsse des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001601308)
 
 (1) Die Präsidentin oder der Präsident kann gegen einen nach § 5 Abs.
 4 gefaßten Beschluß des Verwaltungsrats binnen einer Woche nach
@@ -205,6 +214,7 @@ Präsidentin oder des Präsidenten als beschlossen.
 
 
 ### § 7 Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001701308)
 
 (1) Die Präsidentin oder der Präsident legt die Beschlüsse des
 Verwaltungsrats gemäß § 5 Abs. 4 dem Bundesministerium der Finanzen
@@ -216,14 +226,17 @@ Geschäftsführung der Bundesanstalt.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001803119)
 
 
 
 ## Abschnitt 4 - Postbeamtenversorgungskasse
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000403305)
 
 
 
 ### § 9 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE001902305)
 
 Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§
 14 bis 16 des Postpersonalrechtsgesetzes übertragenen Aufgaben wahr.
@@ -234,6 +247,7 @@ Leistungsempfängerinnen und Leistungsempfänger liegt.
 
 
 ### § 10 Wirtschaftsführung, Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002004119)
 
 (1) Die Präsidentin oder der Präsident stellt für jedes Geschäftsjahr
 einen Wirtschaftsplan für die Postbeamtenversorgungskasse auf. Dieser
@@ -255,6 +269,7 @@ Grundgesetzes) erfolgen darf.
 
 
 ### § 11 Rechtsnachfolge des Bundes-Pensions-Service für Post und Telekommunikation e. V.
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002103119)
 
 (1) Die Bundesanstalt tritt in die Rechte und Pflichten des Bundes-
 Pensions-Service für Post und Telekommunikation e. V. als
@@ -271,6 +286,7 @@ Sicherungsrechte bleiben bestehen.
 
 
 ### § 12 Überleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service für Post und Telekommunikation e. V.
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002201305)
 
 (1) Die Bundesanstalt tritt in die Rechte und Pflichten der mit dem
 Bundes-Pensions-Service für Post und Telekommunikation e. V.
@@ -331,6 +347,7 @@ bei der Bundesanstalt bestehenden betrieblichen Altersversorgung teil.
 
 
 ### § 13 Überleitung der Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002301305)
 
 Die Beurlaubung der Beamtinnen und Beamten, die im Rahmen eines
 privatrechtlichen Arbeitsverhältnisses für den Bundes-Pensions-Service
@@ -342,10 +359,12 @@ erlischt.
 
 
 ## Abschnitt 5 - Dienstrechtliche Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000502305)
 
 
 
 ### § 14 Prüfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002401305)
 
 In Disziplinarverfahren, bei Entlassungen und Zurruhesetzungen sowie
 bei Herabsetzungen der Arbeitszeit wegen begrenzter Dienstfähigkeit
@@ -354,6 +373,7 @@ Postpersonalrechtsgesetzes übertragenen Aufgaben wahr.
 
 
 ### § 15 Ausübung der dienstrechtlichen Befugnisse bei Versorgungsempfängerinnen und Versorgungsempfängern aus dem Bereich der früheren Deutschen Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002504119)
 
 (1) Die Bundesanstalt nimmt die dem Dienstherrn Bund obliegenden
 Aufgaben und Befugnisse gegenüber folgenden Personen wahr:
@@ -423,6 +443,7 @@ Grundsätze für die Entscheidung aufstellen.
 
 
 ### § 16 Beihilfebearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002604305)
 
 (1) Der Bundesanstalt werden folgende Aufgaben und Befugnisse in Bezug
 auf die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und
@@ -463,6 +484,7 @@ für die eigenen Beamtinnen und Beamten der Bundesanstalt.
 
 
 ### § 17 Ausübung der dienstrechtlichen Befugnisse bei der Auflösung von Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002703123)
 
 (1) Wird ein Postnachfolgeunternehmen aufgelöst oder erlischt es kraft
 Gesetzes, so tritt die Bundesanstalt an die Stelle dieses
@@ -493,15 +515,18 @@ die Postlaufbahnverordnung gelten entsprechend.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002802305)
 
 -
 
 
 ## Abschnitt 6 - Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000601305)
 
 
 
 ### § 19 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE002902305)
 
 (1) Die Aufgaben nach § 3 nimmt die Bundesanstalt nach Maßgabe
 öffentlich-rechtlicher entgeltlicher Geschäftsbesorgungsverträge wahr,
@@ -523,6 +548,7 @@ Gewinnzuschlag erhoben.
 
 
 ### § 20 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003002119)
 
 (1) Die Präsidentin oder der Präsident stellt für jedes Jahr einen
 Wirtschaftsplan auf, der
@@ -573,6 +599,7 @@ Investitionen fortzuführen.
 
 
 ### § 21 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003103119)
 
 (1) Die Präsidentin oder der Präsident stellt für das vergangene
 Geschäftsjahr innerhalb der ersten vier Monate des Folgejahres einen
@@ -603,6 +630,7 @@ Publizitätsgesetz ist nicht anzuwenden.
 
 
 ### § 22 Prüfung und Entlastung der Präsidentin oder des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003203305)
 
 (1) Jahresabschluss und Lagebericht der Bundesanstalt sind durch eine
 oder einen vom Bundesministerium der Finanzen zu bestimmende
@@ -624,10 +652,12 @@ enthält keinen Verzicht auf Ersatzansprüche.
 
 
 ## Abschnitt 7 - Personal
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000701305)
 
 
 
 ### § 23 Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003304305)
 
 (1) Unbeschadet des Rechts, Arbeitnehmerinnen und Arbeitnehmer zu
 beschäftigen, wird der Bundesanstalt das Recht verliehen, Beamtinnen
@@ -665,6 +695,7 @@ Verwendung weitergewährt. Anrechnungsvorschriften finden Anwendung.
 
 
 ### § 24 Überleitungsmaßnahmen für das Personal
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003403305)
 
 (1) Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes gültigen
 Tarifverträge der Unternehmen der Deutschen Bundespost POSTDIENST, der
@@ -683,6 +714,7 @@ Postnachfolgeunternehmen zustimmen.
 
 
 ### § 25 Vorübergehende geringerwertige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003501308)
 
 Einer Beamtin oder einem Beamten, deren oder dessen Aufgabengebiet von
 Umstrukturierungsmaßnahmen oder einem Aufgabenrückgang betroffen ist,
@@ -695,10 +727,12 @@ oder seiner bisherigen Tätigkeit zuzumuten ist.
 
 
 ## Abschnitt 8 - Soziale Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000802305)
 
 
 
 ### § 26 Betriebliche Sozialeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003607119)
 
 (1) Die Versorgungsanstalt der Deutschen Bundespost und das
 Erholungswerk Post Postbank Telekom e. V. werden für die Bundesanstalt
@@ -757,10 +791,12 @@ wahrgenommen.
 
 
 ### Unterabschnitt 1 - Verwaltung der Postbeamtenkrankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG001001305)
 
 
 
 #### § 26a Organe
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE004400308)
 
 (1) Organe der Postbeamtenkrankenkasse sind der Vorstand und der
 Verwaltungsrat.
@@ -770,6 +806,7 @@ die Satzung der Postbeamtenkrankenkasse geregelt.
 
 
 #### § 26b Vorstand, Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE004504119)
 
 (1) Der Vorstand besteht aus einer oder mehreren Personen. Er vertritt
 die Postbeamtenkrankenkasse nach außen. Besteht der Vorstand aus
@@ -843,6 +880,7 @@ Mitglieder des Verwaltungsrats.
 
 
 #### § 26c Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE004600308)
 
 (1) Die Satzung der Postbeamtenkrankenkasse regelt ihre Organisation
 und Verwaltung sowie ihre Leistungen und Beiträge.
@@ -858,6 +896,7 @@ Personals gehen.
 
 
 #### § 26d Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE004701305)
 
 (1) Die Postbeamtenkrankenkasse erbringt nach Maßgabe ihrer Satzung
 für ihre Mitglieder Krankenversicherungsleistungen (Grundversicherung)
@@ -876,10 +915,12 @@ Postbeamtenkrankenkasse sind nicht anzuwenden.
 
 
 ### Unterabschnitt 2 - Wirtschaftsführung der Postbeamtenkrankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG001101305)
 
 
 
 #### § 26e Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE004800308)
 
 (1) Der Vorstand der Postbeamtenkrankenkasse stellt für jedes
 Geschäftsjahr einen Wirtschaftsplan auf, der vom Verwaltungsrat der
@@ -896,6 +937,7 @@ erforderlichen Beiträge werden jährlich nach Maßgabe der §§ 26f und
 
 
 #### § 26f Grundsätze der Beitragsgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE004900308)
 
 Grundlage der jährlichen Beitragsberechnung in den einzelnen
 Versicherungszweigen ist jeweils ein Gutachten, das nach Maßgabe der
@@ -908,6 +950,7 @@ Postbeamtenkrankenkasse berücksichtigt.
 
 
 #### § 26g Beiträge in der Grundversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE005003305)
 
 (1) Grundlage der Beitragsstruktur und der Beitragshöhe sind in den
 Beitragstabellen in Anhang 1 zu den §§ 25 bis 28 der im Amtsblatt des
@@ -981,6 +1024,7 @@ festzusetzen.
 
 
 #### § 26h Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE005101305)
 
 (1) Die Postbeamtenkrankenkasse bildet zur dauerhaften
 Haushaltssicherung in der Grundversicherung einen Ausgleichsfonds. Die
@@ -1018,6 +1062,7 @@ aufzubrauchen.
 
 
 #### § 26i Sonstige Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE005203305)
 
 (1) Die Beihilfepauschale für die Mitglieder der Gruppe A der
 Postbeamtenkrankenkasse und der Zuschuss der Postnachfolgeunternehmen
@@ -1041,6 +1086,7 @@ Ausgleichsfonds zahlen. § 26h Abs. 1 Satz 2 gilt entsprechend.
 
 
 #### § 26j Freistellung der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE005302119)
 
 (1) Soweit die Bundesrepublik Deutschland von Mitgliedern oder
 Versicherten, für die die Postnachfolgeunternehmen zur Ausübung der
@@ -1095,6 +1141,7 @@ Regelungen nach den Absätzen 1 bis 5.
 
 
 #### § 26k Verteilung des Verwaltungsaufwands, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE005403305)
 
 Die der Bundesanstalt aus der Weiterführung der
 Postbeamtenkrankenkasse entstehenden Kosten, einschließlich der
@@ -1111,6 +1158,7 @@ Satz 1.
 
 
 #### § 26l Beihilfebearbeitung für andere Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE006100305)
 
 Die Postbeamtenkrankenkasse kann nach Maßgabe öffentlich-rechtlicher
 Geschäftsbesorgungsverträge für Körperschaften, Anstalten und
@@ -1133,16 +1181,19 @@ Dienstbehörde und der Bundesanstalt.
 
 
 ### Unterabschnitt 3 - Wohnungsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG001201305)
 
 
 
 #### § 27 Wohnungsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003701305)
 
 Die Bundesanstalt legt die Grundsätze der Wohnungsfürsorge für die
 Postnachfolgeunternehmen fest.
 
 
 #### § 28 Übergangsregelung im Sozialwesen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE005600305)
 
 (1) Für die bis zum Inkrafttreten dieses Gesetzes im Bereich der
 früheren Deutschen Bundespost beschäftigten Beamtinnen und Beamten,
@@ -1170,10 +1221,12 @@ Personenkreises nach den bislang geltenden Regelungen weiterzuführen.
 
 
 ## Abschnitt 9 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNG000901305)
 
 
 
 ### § 29 Vermögensübergang
+[Direktlink](https://www.gesetze-im-internet.de/bapostg/BJNR232510994.html#BJNR232510994BJNE003901308)
 
 Der Bundesanstalt sind nach näherer Maßgabe der §§ 13 und 14 des
 Postumwandlungsgesetzes ohne Wertausgleich alle Vermögensgegenstände

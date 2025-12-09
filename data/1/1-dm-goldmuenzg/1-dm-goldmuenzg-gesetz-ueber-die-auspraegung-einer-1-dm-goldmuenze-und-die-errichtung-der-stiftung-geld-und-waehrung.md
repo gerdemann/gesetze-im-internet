@@ -19,10 +19,12 @@ Fundstelle
 
 
 ## Erster Abschnitt - Ausgabe einer 1-DM Goldmünze
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNG000100305)
 
 
 
 ### § 1 Ausgabe durch die Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE000400305)
 
 Die Deutsche Bundesbank wird ermächtigt, zum Gedenken an die Deutsche
 Mark im eigenen Namen im Jahre 2001 eine Münze in Gold über 1 Deutsche
@@ -31,6 +33,7 @@ herauszugeben.
 
 
 ### § 2 Gestalt der 1-DM-Goldmünze
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE000500305)
 
 (1) Die Gestaltung der Wert- und Bildseite der 1-DM-Goldmünze ist mit
 Ausnahme der Umschrift auf der Bildseite mit der Gestalt der 1 DM-
@@ -45,12 +48,14 @@ sind im Bundesanzeiger bekannt zu machen.
 
 
 ### § 3 Gesetzliches Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE000600305)
 
 Die 1-DM-Goldmünzen sind nach Maßgabe des § 4 bis zum Ablauf des 31.
 Dezember 2001 gesetzliches Zahlungsmittel.
 
 
 ### § 4 Annahme- und Umtauschpflicht
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE000700305)
 
 (1) Die Deutsche Bundesbank ist verpflichtet, die 1-DM-Goldmünzen zum
 Nennwert in Zahlung zu nehmen oder in andere gesetzliche
@@ -61,6 +66,7 @@ Bestimmung des § 1 Satz 2 des DM-Beendigungsgesetzes entsprechend.
 
 
 ### § 5 Prägung und Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE000800305)
 
 (1) Die 1-DM-Goldmünzen werden von denjenigen Münzstätten der Länder
 ausgeprägt, die sich dazu bereit erklären und die von der Deutschen
@@ -77,6 +83,7 @@ Münzstätten von der Deutschen Bundesbank zugewiesen.
 
 
 ### § 6 Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE000900305)
 
 Die 1-DM-Goldmünzen werden unbeschadet des Artikels 106 Abs. 2 Satz 1
 des Vertrages zur Gründung der Europäischen Gemeinschaft durch die
@@ -85,6 +92,7 @@ Bundesschuldenverwaltung in den Verkehr gebracht.
 
 
 ### § 7 Ausgabepreis
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001000305)
 
 Die Deutsche Bundesbank bestimmt den Ausgabepreis der 1-DM-Goldmünze
 nach dem Marktpreis für Gold am Tag vor der Erstausgabe zuzüglich
@@ -93,6 +101,7 @@ einer Änderung des Goldpreises im Absatzzeitraum verändern.
 
 
 ### § 8 Erlösverwendung
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001100305)
 
 (1) Der Nettoerlös aus dem Inverkehrbringen der 1-DM-Goldmünzen fließt
 bis zur Höhe von 100 Millionen DM der Stiftung "Geld und Währung" zu.
@@ -106,16 +115,19 @@ aus.
 
 
 ### § 9 Anwendung der Bußgeldvorschriften des Münzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001200305)
 
 § 13 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) gilt
 nicht für die 1-DM-Goldmünzen.
 
 
 ## Zweiter Abschnitt - Stiftung "Geld und Währung"
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNG000200305)
 
 
 
 ### § 10 Errichtung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001300305)
 
 (1) Unter dem Namen "Geld und Währung" wird eine rechtsfähige Stiftung
 des öffentlichen Rechts errichtet. Die Stiftung entsteht am 1. Januar
@@ -125,6 +137,7 @@ des öffentlichen Rechts errichtet. Die Stiftung entsteht am 1. Januar
 
 
 ### § 11 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001400305)
 
 (1) Zweck der Stiftung ist, das Bewusstsein der Öffentlichkeit für die
 Bedeutung stabilen Geldes zu erhalten und zu fördern. Die Stiftung
@@ -149,6 +162,7 @@ Währungswesens.
 
 
 ### § 12 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001500305)
 
 (1) Die Deutsche Bundesbank verwaltet das der Stiftung nach § 8 Abs. 1
 zufließende Vermögen.
@@ -165,6 +179,7 @@ Deutschen Bundesbank zu.
 
 
 ### § 13 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001600305)
 
 Die Stiftung gibt sich im Einvernehmen mit der Deutschen Bundesbank
 und im Benehmen mit dem Bundesministerium der Finanzen eine Satzung,
@@ -174,11 +189,13 @@ Satzung.
 
 
 ### § 14 Stiftungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001700305)
 
 Organe der Stiftung sind der Stiftungsrat und der Vorstand.
 
 
 ### § 15 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001800305)
 
 (1) Der Stiftungsrat besteht aus sieben Mitgliedern. Die Deutsche
 Bundesbank bestellt fünf Mitglieder. Das Bundesministerium der
@@ -206,6 +223,7 @@ Vorsitzenden.
 
 
 ### § 16 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE001900305)
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
 Stiftungsrat mit einer Mehrheit von sechs Siebteln für die Dauer von
@@ -220,12 +238,14 @@ außergerichtlich. Das Nähere regelt die Satzung.
 
 
 ### § 17 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE002000305)
 
 Die Mitglieder des Stiftungsrates und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ### § 18 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE002100305)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
 der Finanzen.
@@ -236,10 +256,12 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## Dritter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNG000300305)
 
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/1-dm-goldm_nzg/BJNR204500000.html#BJNR204500000BJNE002200305)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

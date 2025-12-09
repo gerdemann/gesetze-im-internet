@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Die V ist gem. Artikel 9 Satz 1 V v. 3.9.2010 I 1261 am 9.9.2010 in Kraft getreten
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000201377)
 
 Diese Verordnung regelt die Bedingungen, zu denen die Netzbetreiber
 den Netzzugangsberechtigten im Sinne des § 20 Absatz 1 des
@@ -40,6 +42,7 @@ Energiewirtschaftsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000303377)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -146,9 +149,11 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 [^F774449_01_BJNR126110010BJNE000303377]: 
 
 ## Teil 2 - Vertragliche Ausgestaltung des Netzzugangs
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000200000)
 
 
 ### § 3 Verträge für den Netzzugang
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000400000)
 
 (1) Transportkunden sind nach Maßgabe dieser Verordnung gegenüber dem
 Ein- oder Ausspeisenetzbetreiber berechtigt und verpflichtet, einen
@@ -197,6 +202,7 @@ Bedingungen ermöglicht wird.
 
 
 ### § 4 Mindestanforderungen an die Allgemeinen Geschäftsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000500000)
 
 (1) Die allgemeinen Geschäftsbedingungen für Ein- oder
 Ausspeiseverträge müssen Mindestangaben enthalten über:
@@ -309,12 +315,14 @@ müssen Mindestangaben enthalten über:
 
 
 ### § 5 Haftung bei Störung der Netznutzung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000600000)
 
 § 18 der Niederdruckanschlussverordnung gilt für die Haftung bei
 Störungen der Netznutzung entsprechend.
 
 
 ### § 6 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000700000)
 
 (1) Transportkunden haben sich bei den Netzbetreibern, mit denen sie
 Verträge gemäß § 3 abschließen wollen, zu registrieren. Dabei kann der
@@ -331,9 +339,11 @@ Bilanzkreisverantwortlichen oder eines Vertreters fordern.
 
 
 ## Teil 3 - Abwicklung des Netzzugangs
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000300000)
 
 
 ### § 7 Netzkopplungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000800000)
 
 (1) Netzbetreiber sind verpflichtet, mit Netzbetreibern, mit deren
 Netzen sie über einen Netzkopplungspunkt verbunden sind,
@@ -376,6 +386,7 @@ der Stationskapazität.
 
 
 ### § 8 Abwicklung des Netzzugangs
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE000901124)
 
 (1) Die Netzbetreiber sind verpflichtet, von Transportkunden
 bereitgestellte Gasmengen an den vom Transportkunden benannten
@@ -427,6 +438,7 @@ gewähren.
 
 
 ### § 9 Ermittlung technischer Kapazitäten
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001002377)
 
 (1) Fernleitungsnetzbetreiber sind verpflichtet, die technischen
 Kapazitäten im Sinne des § 8 Absatz 2 zu ermitteln. Sie ermitteln für
@@ -505,10 +517,12 @@ Informationen vollständig nachvollziehen zu können.
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001101124)
 
 
 
 ### § 11 Kapazitätsprodukte
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001202124)
 
 (1) Fernleitungsnetzbetreiber haben Transportkunden sowohl feste als
 auch unterbrechbare Kapazitäten anzubieten, und zwar auf Jahres-,
@@ -543,6 +557,7 @@ gibt den berührten Wirtschaftskreisen Gelegenheit zur Stellungnahme.
 
 
 ### § 12 Kapazitätsbuchungsplattform
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001301124)
 
 (1) Fernleitungsnetzbetreiber haben für die Vergabe von Ein- und
 Ausspeisekapazitäten eine oder eine begrenzte Anzahl gemeinsamer
@@ -582,6 +597,7 @@ Sekundärkapazität zu ermöglichen.
 
 
 ### § 13 Zuteilung von Ein- und Ausspeisekapazität
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001403377)
 
 (1) Fernleitungsnetzbetreiber haben feste Ein- und
 Ausspeisekapazitäten über die Kapazitätsbuchungsplattform in einem
@@ -619,10 +635,12 @@ des Teils 6 zur Einspeisung von Biogas gebucht werden.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001501124)
 
 
 
 ### § 15 Nominierung und Nominierungsersatzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001600000)
 
 (1) Der Transportkunde hat die beabsichtigte Inanspruchnahme von Ein-
 und Ausspeisekapazitäten nach Stundenmengen in Kilowattstunden pro
@@ -663,6 +681,7 @@ schlüssig zu begründen.
 
 
 ### § 16 Freigabepflicht ungenutzter Kapazitäten
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001702124)
 
 (1) Transportkunden sind bis zum Nominierungszeitpunkt verpflichtet,
 vollständig oder teilweise ungenutzte feste Kapazitäten unverzüglich
@@ -728,6 +747,7 @@ Dritter zur Verfügung zu stellen.
 
 
 ### § 17 Ermittlung des langfristigen Kapazitätsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001801124)
 
 Fernleitungsnetzbetreiber sind verpflichtet, marktgebietsweit im
 Verfahren der Netzentwicklungsplanung nach § 15a des
@@ -790,6 +810,7 @@ zu veröffentlichen.
 
 
 ### § 18 Reduzierung der Kapazität nach Buchung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE001900000)
 
 Soweit sich die Kapazitäten nach Abschluss des Ein- oder
 Ausspeisevertrags aus technischen Gründen vermindern, reduzieren sich
@@ -799,6 +820,7 @@ Transportkunden unverzüglich mitzuteilen.
 
 
 ### § 19 Gasbeschaffenheit
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002000000)
 
 (1) Der Transportkunde hat sicherzustellen, dass das zur Einspeisung
 anstehende Gas den allgemein anerkannten Regeln der Technik im Sinne
@@ -830,9 +852,11 @@ unzumutbar, muss der Netzbetreiber dies begründen.
 
 
 ## Teil 4 - Kooperation der Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000400000)
 
 
 ### § 20 Marktgebiete
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002100000)
 
 (1) Die Fernleitungsnetzbetreiber bilden Marktgebiete. Für jedes
 gebildete Marktgebiet ist ein Marktgebietsverantwortlicher zu
@@ -863,6 +887,7 @@ netztechnischen Gründen erforderlich ist.
 
 
 ### § 21 Reduzierung der Anzahl der Marktgebiete
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002201124)
 
 (1) Die Fernleitungsnetzbetreiber, die Marktgebiete nach § 20 bilden,
 haben mit dem Ziel zusammenzuarbeiten, die Liquidität des Gasmarktes
@@ -876,12 +901,15 @@ Gebrauch zu machen.
 
 
 ## Teil 5 - Bilanzierung und Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000500000)
 
 
 ### Abschnitt 1 - Bilanzierung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000600000)
 
 
 #### § 22 Grundsätze der Bilanzierung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002300000)
 
 (1) Abweichungen zwischen Ein- und Ausspeisemengen eines oder mehrerer
 Transportkunden werden in einem Bilanzkreis ausgeglichen. Der
@@ -910,6 +938,7 @@ Bilanzkreises.
 
 
 #### § 23 Bilanzkreisabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002401124)
 
 (1) Die Bilanzierungsperiode ist der Gastag. Der Gastag beginnt um
 6\.00 Uhr und endet um 6.00 Uhr des folgenden Tages.
@@ -938,6 +967,7 @@ angemessene Anreize zur Vermeidung von Bilanzungleichgewichten setzen.
 
 
 #### § 24 Standardlastprofile
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002500000)
 
 (1) Verteilnetzbetreiber wenden für die Allokation der Ausspeisemengen
 von Letztverbrauchern bis zu einer maximalen stündlichen
@@ -995,6 +1025,7 @@ angepasst werden.
 
 
 #### § 25 Mehr- oder Mindermengenabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002600000)
 
 (1) Die Mehr- und Mindermengen, die durch Abweichungen zwischen
 allokierten Mengen und der tatsächlichen Ausspeisung beim
@@ -1017,6 +1048,7 @@ ab, der die Regelenergie bereitstellt.
 
 
 #### § 26 Datenbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002700000)
 
 (1) Netzbetreiber und Marktgebietsverantwortliche haben sich
 gegenseitig sowie den Transportkunden und den
@@ -1037,9 +1069,11 @@ Verfahrens und der Datenformate angemessen zu beteiligen.
 
 
 ### Abschnitt 2 - Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000700000)
 
 
 #### § 27 Einsatz von Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002800000)
 
 (1) Regelenergie wird im Rahmen des technisch Erforderlichen zum
 Ausgleich von Schwankungen der Netzlast mit dem Ziel eingesetzt, einen
@@ -1077,6 +1111,7 @@ Zumutbaren zu vermeiden.
 
 
 #### § 28 Beschaffung externer Regelenergie
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE002900000)
 
 (1) Externe Regelenergie wird vom Marktgebietsverantwortlichen für die
 in seinem Marktgebiet gelegenen Netzbetreiber beschafft. Die
@@ -1092,6 +1127,7 @@ Anbietergemeinschaft zur Erreichung der Mindestangebote ist zulässig.
 
 
 #### § 29 Regelenergiekosten und -erlöse; Kosten und Erlöse bei der Erbringung von Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003000000)
 
 Der Saldo aus Kosten und Erlösen für die Beschaffung und den Einsatz
 von externer Regelenergie ist vorrangig mit den Erlösen des
@@ -1110,19 +1146,23 @@ voraussichtlichen Kosten für Regelenergie zu verlangen.
 
 
 #### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003102124)
 
 
 
 ## Teil 6 - Biogas
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000800000)
 
 
 ### § 31 Zweck der Regelung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003201116)
 
 Ziel der Regelungen des Teils 6 ist es, die Einspeisung von Biogas in
 das Erdgasnetz zu ermöglichen.
 
 
 ### § 32 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003300000)
 
 Für diesen Verordnungsteil gelten die folgenden Begriffsbestimmungen:
 
@@ -1149,6 +1189,7 @@ Für diesen Verordnungsteil gelten die folgenden Begriffsbestimmungen:
 
 
 ### § 33 Netzanschlusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003401377)
 
 (1) Netzbetreiber haben Anlagen auf Antrag eines Anschlussnehmers
 vorrangig an die Gasversorgungsnetze anzuschließen. Die Kosten für den
@@ -1289,6 +1330,7 @@ wirtschaftlich unzumutbar.
 
 
 ### § 34 Vorrangiger Netzzugang für Transportkunden von Biogas
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003500000)
 
 (1) Netzbetreiber sind verpflichtet, Einspeiseverträge und
 Ausspeiseverträge vorrangig mit Transportkunden von Biogas
@@ -1320,6 +1362,7 @@ Biogaseinspeisung realisiert werden kann.
 
 
 ### § 35 Erweiterter Bilanzausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003601118)
 
 (1) Marktgebietsverantwortliche innerhalb eines Marktgebiets haben für
 die Ein- und Ausspeisung von Biogas einen erweiterten Bilanzausgleich
@@ -1386,6 +1429,7 @@ Absatz 1 Nummer 7 des Energiewirtschaftsgesetzes überprüft.
 
 
 ### § 36 Qualitätsanforderungen für Biogas
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003700000)
 
 [^F774449_02_BJNR126110010BJNE003700000]
 (1) Der Einspeiser von Biogas hat ausschließlich sicherzustellen, dass
@@ -1430,17 +1474,21 @@ Kosten.
 [^F774449_03_BJNR126110010BJNE003700000]: 
 
 ### § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003801118)
 
 
 
 ## Teil 7 - Besondere Regelungen für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG000901377)
 
 
 ### Abschnitt 1 - Kapazitätsreservierung und Kapazitätsausbauanspruch
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001600377)
 
 
 
 #### § 38 Kapazitätsreservierung für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE003901377)
 
 (1) Betreiber von Speicher-, LNG- und Produktionsanlagen sowie
 Betreiber von Gaskraftwerken, die nach Inkrafttreten dieser Verordnung
@@ -1514,6 +1562,7 @@ Anreizregulierungsverordnung verbucht.
 
 
 #### § 39 Kapazitätsausbauanspruch für Betreiber von Gaskraftwerken sowie Speicher-, LNG- und Produktionsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004002377)
 
 (1) Betreiber von Speicher-, LNG- oder Produktionsanlagen sowie
 Gaskraftwerken, deren Reservierungsanfrage nach § 38 wegen fehlender
@@ -1575,10 +1624,12 @@ Planungspauschale nicht verlangt werden.
 
 
 ### Abschnitt 2 - Netzanschluss von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001700377)
 
 
 
 #### § 39a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004103377)
 
 Für diesen Verordnungsabschnitt sind die folgenden
 Begriffsbestimmungen anzuwenden:
@@ -1604,6 +1655,7 @@ Begriffsbestimmungen anzuwenden:
 
 
 #### § 39b Netzanschlusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005400377)
 
 (1) Fernleitungsnetzbetreiber müssen LNG-Anlagen auf Antrag eines
 Anschlussnehmers an die Fernleitungsnetze anschließen.
@@ -1631,6 +1683,7 @@ Errichtung ein Teil des Energieversorgungsnetzes.
 
 
 #### § 39c Weitere Pflichten des Fernleitungsnetzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005500377)
 
 (1) Der anschlussverpflichtete Fernleitungsnetzbetreiber ist für die
 Wartung und den Betrieb der für den Netzanschluss erforderlichen
@@ -1647,6 +1700,7 @@ Leistungserbringung beachten.
 
 
 #### § 39d Vorbereitung des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005600377)
 
 (1) Richtet ein Anschlussnehmer ein schriftliches
 Netzanschlussbegehren an den Fernleitungsnetzbetreiber, muss dieser
@@ -1692,6 +1746,7 @@ unverzüglich die Planung des Netzanschlusses durchzuführen.
 
 
 #### § 39e Realisierungsfahrplan
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005700377)
 
 (1) Der Fernleitungsnetzbetreiber führt den Netzanschluss auf
 Grundlage der gemeinsamen Planung unverzüglich selbst oder durch einen
@@ -1739,6 +1794,7 @@ unverzüglich der Regulierungsbehörde vorzulegen.
 
 
 #### § 39f Kostenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005800377)
 
 (1) Die Kosten für die Errichtung der für den Netzanschluss
 erforderlichen Infrastruktur einschließlich der Kosten für die Planung
@@ -1770,6 +1826,7 @@ oder in Rechnung stellen.
 
 
 #### § 39g Geltungsdauer und Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005900377)
 
 (1) Die Netzanschlusspflicht nach § 39b gilt nur für Anträge, die vor
 dem 1. Juni 2024 beim anschlussverpflichteten
@@ -1784,16 +1841,20 @@ ist.
 
 
 ## Teil 8 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001001377)
 
 
 ### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004105377)
 
 
 
 ## Teil 9 - Wechsel des Gaslieferanten
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001100000)
 
 
 ### § 41 Lieferantenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004201360)
 
 (1) Die Netzbetreiber sind verpflichtet, für die Durchführung des
 Lieferantenwechsels bundesweit einheitliche, massengeschäftstaugliche
@@ -1850,6 +1911,7 @@ genannt sind. § 50 Absatz 1 Nummer 14 bleibt unberührt.
 
 
 ### § 42 Rucksackprinzip
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004300000)
 
 Bei einem Wechsel des Lieferanten kann der neue Lieferant vom
 bisherigen Lieferanten die Übertragung der für die Versorgung des
@@ -1863,6 +1925,7 @@ entsprechende Höchstabnahmemenge auch weiterhin zu vermuten ist.
 
 
 ### § 42a Elektronischer Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005300360)
 
 Der Datenaustausch zur Anbahnung und Abwicklung der Netznutzung
 zwischen Betreibern von Gasversorgungsnetzen,
@@ -1875,22 +1938,27 @@ verwendet werden, die eine größtmögliche Automatisierung ermöglichen.
 
 
 ## Teil 10 - Messung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001200000)
 
 
 ### § 43 Messung
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004401118)
 
 Die Messung erfolgt nach den Bestimmungen des
 Messstellenbetriebsgesetzes.
 
 
 ### (XXXX) §§ 44 bis 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE004501118)
 
 
 
 ## Teil 11 - Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001300000)
 
 
 ### § 49 Verfahren zur Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005001377)
 
 (1) Gasversorgungsunternehmen haben den Antrag nach § 25 Satz 2 des
 Energiewirtschaftsgesetzes bei der Regulierungsbehörde spätestens bis
@@ -1916,9 +1984,11 @@ unberührt.
 
 
 ## Teil 12 - Befugnisse der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001400000)
 
 
 ### § 50 Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005105377)
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
 Absatz 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die
@@ -2125,9 +2195,11 @@ worden sind.
 [^F774449_04_BJNR126110010BJNE005105377]: 
 
 ## Teil 13 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNG001500000)
 
 
 ### § 51 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html#BJNR126110010BJNE005201377)
 
 (1) Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 Buchstabe a des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig

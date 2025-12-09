@@ -21,10 +21,12 @@ Geändert durch
 
 
 ## Art I - Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNG000100315)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE000600315)
 
 (1) Die Ausgaben der Finanzbehörden, die nach § 1 Abs. 1 des Gesetzes
 über die Finanzverwaltung vom 6. September 1950 (Bundesgesetzbl. S.
@@ -55,15 +57,18 @@ besonderen Gesetz vorbehalten.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE000700315)
 
 -
 
 
 ## Art II - Sonstige ehemalige Reichs- und Zonenverwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNG000200315)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE000800315)
 
 Die Ausgaben (einschließlich der Versorgungsausgaben) der Verwaltungen
 und Einrichtungen, die nach Artikel 130 des Grundgesetzes in die
@@ -72,6 +77,7 @@ werden, gehen mit dem Inkrafttreten der Überführung auf den Bund über.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE000900315)
 
 (1) Die Ausgaben für die Versorgung der ehemaligen
 Verwaltungsangehörigen der in der Anlage bezeichneten ehemaligen
@@ -89,6 +95,7 @@ zu erlassende Rechtsverordnung ergänzen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001001123)
 
 (1) Die Wartestandsbeamten der in der Anlage bezeichneten
 Zonenbehörden werden Wartestandsbeamte des Bundes.
@@ -104,10 +111,12 @@ Wartestandsbeamten zu sorgen
 
 
 ## Art III - Gemeinsame Bestimmungen zu den Art  I und II
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNG000300315)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001101123)
 
 Für die Versorgungsberechtigten, deren Versorgung nach den
 Vorschriften der Artikel I und II auf den Bund übergeht, übt die
@@ -122,6 +131,7 @@ zuständig erachtet.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001200315)
 
 Soweit die Ausgaben der in den Artikeln I und II bezeichneten
 Verwaltungen und Einrichtungen auf den Bund übergehen, übernimmt der
@@ -131,11 +141,13 @@ sind. Insoweit gehen auch die Ersatzansprüche auf den Bund über.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001300315)
 
 -
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001400315)
 
 Soweit die Bestimmungen der Artikel I und II den Übergang von
 Versorgungsausgaben auf den Bund regeln, sind diese Bestimmungen und
@@ -150,6 +162,7 @@ Deckungsmitteln auf den Bund vom 28. November 1950 (Bundesgesetzbl. S.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001500315)
 
 Die Bundesregierung wird ermächtigt, die Versorgungsausgaben im Sinne
 der Artikel I und II durch eine mit Zustimmung des Bundesrates zu
@@ -157,6 +170,7 @@ erlassende Rechtsverordnung näher zu bestimmen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001600315)
 
 (1) Soweit nach den Artikeln I und II Ausgaben auf den Bund übergehen,
 stehen die mit den Ausgaben zusammenhängenden Einnahmen dem Bund zu.
@@ -173,21 +187,25 @@ Zone bleiben unberührt.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001700315)
 
 Die Bestimmungen der §§ 18, 20 und 22 des Ersten Überleitungsgesetzes
 sind entsprechend anzuwenden.
 
 
 ## Art IV - Änderungen und Ergänzungen des Ersten Überleitungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNG000400315)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001800315)
 
 -
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE001900315)
 
 Der Bundesminister der Finanzen wird ermächtigt, das Erste Gesetz zur
 Überleitung von Lasten und Deckungsmitteln auf den Bund in der ab 1.
@@ -195,10 +213,12 @@ April 1951 geltenden Fassung bekanntzumachen.
 
 
 ## Art V - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNG000500315)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE002000315)
 
 Dieses Gesetz und die noch zu erlassenden Rechtsverordnungen gelten
 auch für das Land Berlin, sobald es gemäß Artikel 87 Abs. 2 seiner
@@ -206,12 +226,14 @@ Verfassung die Anwendung dieses Gesetzes beschlossen hat.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE002100315)
 
 Dieses Gesetz tritt mit Wirkung vom 1. April 1950 in Kraft, soweit
 sich nicht aus seinen Bestimmungen etwas anderes ergibt.
 
 
 ### Anlage
+[Direktlink](https://www.gesetze-im-internet.de/_blg_2/BJNR007740951.html#BJNR007740951BJNE002200315)
 
 (Fundstelle: BGBl. Teil III 603-4, S. 61)
 

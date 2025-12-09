@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000100000)
 
 (1) Dieses Gesetz gilt für in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet belegene Grundstücke privater Eigentümer, sofern sie
@@ -75,6 +76,7 @@ Grundstück fortdauern sollte.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000203360)
 
 (1) Verwaltungsaufgabe im Sinne von § 1 Abs. 1 ist auch eine Aufgabe,
 die bis zum 3. Oktober 1990 die Deutsche Post oder deren
@@ -132,6 +134,7 @@ an.
 
 
 ## § 3 Rechte bei öffentlicher Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000300000)
 
 (1) Der öffentliche Nutzer kann vom Grundstückseigentümer den Verkauf
 des Grundstücks an sich verlangen (Erwerbsrecht). Das Erwerbsrecht
@@ -180,6 +183,7 @@ als Gesamtschuldner verpflichtet.
 
 
 ## § 4 Erfasste Flächen
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000400000)
 
 (1) Ansprüche nach diesem Gesetz erstrecken sich
 
@@ -200,6 +204,7 @@ baulich oder wirtschaftlich nutzbar sind (Restflächen).
 
 
 ## § 5 Ankaufspreis und Bodenwertermittlung bei Verkehrsflächen; Entgelt für Dienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000501160)
 
 (1) Bei Verkehrsflächen beträgt der Kaufpreis 20 Prozent des
 Bodenwertes eines in gleicher Lage belegenen unbebauten Grundstücks im
@@ -236,6 +241,7 @@ Kaufpreis zugrunde zu legen.
 
 
 ## § 6 Ankaufspreis und Bodenwertermittlung anderer Flächen
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000600000)
 
 (1) Der Kaufpreis für nach § 1 Abs. 1 Satz 1 Nr. 2 und Satz 6 genutzte
 Grundstücke beträgt die Hälfte des Bodenwertes im Zeitpunkt der
@@ -261,6 +267,7 @@ Satz 6 hatte; § 5 Abs. 2 ist anzuwenden.
 
 
 ## § 7 Weiterer Inhalt des Kaufvertrages; dingliche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000700000)
 
 (1) Die §§ 62 bis 64 sowie 75 und 76 des
 Sachenrechtsbereinigungsgesetzes gelten entsprechend. § 64 Abs. 3 Satz
@@ -308,6 +315,7 @@ Schadenersatz wegen Nichterfüllung verlangt werden.
 
 
 ## § 8 Abschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000800000)
 
 (1) Die Rechte des öffentlichen Nutzers nach § 3 Abs. 1 und 3
 erlöschen, wenn sie nicht bis zum Ablauf des 30. Juni 2007 ausgeübt
@@ -323,6 +331,7 @@ entsprechend.
 
 
 ## § 9 Vorläufiges Nutzungsentgelt, vorläufiges Besitzrecht; Aufgabe der öffentlichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE000900000)
 
 (1) Bis zur Bereinigung der Rechtsverhältnisse nach diesem Gesetz kann
 der Grundstückseigentümer von dem öffentlichen Nutzer die Zahlung
@@ -365,6 +374,7 @@ unberührt.
 
 
 ## § 10 Sicherung der Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE001000000)
 
 (1) Dem Grundstückseigentümer steht das Recht des Wiederkaufs für den
 Fall zu, dass das Grundstück nicht oder überwiegend nicht mehr für die
@@ -381,6 +391,7 @@ Gesetzbuchs über den Wiederkauf.
 
 
 ## § 11 Anwendung des Bodensonderungsgesetzes und des Flurbereinigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE001100000)
 
 (1) Der Erwerb von Grundstücken nach diesem Gesetz kann auch im Wege
 eines Verfahrens nach dem Bodensonderungsgesetz erfolgen, wenn dies
@@ -408,6 +419,7 @@ der festzusetzende Ausgleich nach den Regelungen dieses Gesetzes.
 
 
 ## § 12 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE001201301)
 
 Die Kosten des Vertrages und seiner Durchführung trägt der öffentliche
 Nutzer. Gerichtskosten nach dem Gerichts- und Notarkostengesetz werden
@@ -415,6 +427,7 @@ nicht erhoben.
 
 
 ## § 13 Abweichende Vereinbarungen; Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE001300000)
 
 (1) Die Beteiligten können von den Bestimmungen dieses Gesetzes
 abweichende Vereinbarungen treffen. Vergleiche sind zulässig.
@@ -427,6 +440,7 @@ Durchführungsverordnung vor.
 
 
 ## § 14 Rechtsweg; Gerichtliches Verfahren; Notarielles Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/verkflberg/BJNR271610001.html#BJNR271610001BJNE001400000)
 
 (1) Für Streitigkeiten aus diesem Gesetz ist der ordentliche Rechtsweg
 gegeben. Ausschließlich zuständig ist das Landgericht, in dessen

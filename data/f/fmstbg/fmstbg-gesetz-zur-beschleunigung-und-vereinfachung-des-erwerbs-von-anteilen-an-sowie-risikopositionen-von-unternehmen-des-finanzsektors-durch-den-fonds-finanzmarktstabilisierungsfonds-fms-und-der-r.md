@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000205123)
 
 Die folgenden Begriffe werden für die Zwecke des Gesetzes wie folgt
 bestimmt:
@@ -59,6 +60,7 @@ bestimmt:
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000301123)
 
 (1) Unternehmen im Sinne dieses Gesetzes bezeichnen sowohl
 „Unternehmen des Finanzsektors“ im Sinne von Absatz 1 Nummer 4 als
@@ -86,6 +88,7 @@ unmittelbar abhängigen Unternehmen.
 
 
 ## § 3 Verpflichtungserklärung bei Aktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000404123)
 
 (1) Die Vorschriften des Aktiengesetzes über die Verantwortung des
 Vorstands zur eigenverantwortlichen Leitung der Gesellschaft sowie
@@ -105,6 +108,7 @@ werden. § 254 Absatz 2 des Aktiengesetzes gilt entsprechend.
 
 
 ## § 4 Verpflichtungserklärung bei anderen Rechtsformen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002900123)
 
 Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors und
 für Unternehmen der Realwirtschaft, die nicht in der Rechtsform einer
@@ -112,6 +116,7 @@ Aktiengesellschaft verfasst sind, entsprechend.
 
 
 ## § 5 Ausgestaltung der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000603123)
 
 (1) Wenn der Vorstand bei der Ausgabe neuer Aktien gemäß § 203 AktG
 vom genehmigtem Kapital Gebrauch macht, entscheidet er mit Zustimmung
@@ -156,6 +161,7 @@ Stammaktien umgewandelt werden.
 
 
 ## § 6 Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000702123)
 
 (1) Für Aktiengesellschaften, Kommanditgesellschaften auf Aktien,
 Europäische Gesellschaften (SE) und Versicherungsvereine auf
@@ -171,6 +177,7 @@ COVID-19-Pandemie.
 
 
 ## § 7 Kapitalerhöhung gegen Einlagen und Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000806123)
 
 (1) Wird im Zusammenhang mit einer Rekapitalisierung nach § 7 oder §
 22 des Stabilisierungsfondsgesetzes eine Hauptversammlung zur
@@ -250,6 +257,7 @@ Weise ausgeübt haben.
 
 
 ## § 7a Bedingtes Kapital
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001905123)
 
 (1) Eine bedingte Kapitalerhöhung im Zusammenhang mit einer
 Rekapitalisierung nach § 7 oder § 22 des Stabilisierungsfondsgesetzes
@@ -274,6 +282,7 @@ entsprechend.
 
 
 ## § 7b Schaffung eines genehmigten Kapitals durch die Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002004123)
 
 (1) Der Beschluss der Hauptversammlung, mit dem der Vorstand
 ermächtigt wird, im Zusammenhang mit einer Rekapitalisierung nach § 7
@@ -295,6 +304,7 @@ entsprechend.
 
 
 ## § 7c Eintragung von Hauptversammlungsbeschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002103123)
 
 Ein Beschluss der Hauptversammlung nach den §§ 7, 7a und 7b ist
 unverzüglich zur Eintragung in das Handelsregister anzumelden und beim
@@ -315,6 +325,7 @@ Ermächtigung nach § 5 Absatz 1 und § 7b.
 
 
 ## § 7d Ausschluss der aktienrechtlichen Vorschriften über verbundene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002204123)
 
 Die Vorschriften des Aktiengesetzes über herrschende Unternehmen sind
 auf den Fonds, den Bund und die von ihnen errichteten Körperschaften,
@@ -328,6 +339,7 @@ bleiben von dieser Bestimmung unberührt.
 
 
 ## § 7e Kapitalmaßnahmen durch Dritte im Zusammenhang mit einer Stabilisierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002304123)
 
 Die §§ 7 bis 7d gelten entsprechend für Kapitalmaßnahmen, insbesondere
 die Ausgabe neuer Aktien gegen Hingabe von Einlagen aus von dem Fonds
@@ -342,6 +354,7 @@ Stabilisierungsfondsgesetzes geschaffen werden soll.
 
 
 ## § 7f Zusammenhang mit Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002603123)
 
 (1) Ein Zusammenhang mit der Stabilisierung, einer Rekapitalisierung
 oder einer anderen Stabilisierungsmaßnahme im Sinne der §§ 7 bis 7b
@@ -394,6 +407,7 @@ verwenden.
 
 
 ## § 8 Genussrechte und nachrangige Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE000902123)
 
 (1) Der Vorstand eines als Aktiengesellschaft verfassten Unternehmens
 ist bis zum 30. Juni 2022 ermächtigt, Genussrechte und
@@ -419,6 +433,7 @@ nach § 21 Absatz 1 des Stabilisierungsfondsgesetzes eine Garantie
 
 
 ## § 9 Sinngemäße Anwendung bei Kommanditgesellschaften auf Aktien, Europäischen Gesellschaften (SE) und Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001004123)
 
 (1) Für Unternehmen, die in der Rechtsform der Kommanditgesellschaft
 auf Aktien oder der Europäischen Gesellschaft (SE) verfasst sind,
@@ -434,6 +449,7 @@ ist.
 
 
 ## § 9a Vorgaben für Stabilisierungsmaßnahmen bei als GmbH verfassten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE003001123)
 
 (1) Beschlüsse der Gesellschafterversammlung über die in den §§ 7 und
 7b bezeichneten Refinanzierungsmaßnahmen bedürfen der einfachen
@@ -461,6 +477,7 @@ Beschlussfassung wirksam.
 
 
 ## § 9b GmbH & Co. KG und KG
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE003100123)
 
 Für Beschlüsse von Unternehmen der Realwirtschaft, die als GmbH & Co.
 KG oder KG über die Aufnahme des Wirtschaftsstabilisierungsfonds als
@@ -469,6 +486,7 @@ Beschluss teilnehmenden Gesellschafter.
 
 
 ## § 10 Stille Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001101123)
 
 (1) Eine Vereinbarung über die Leistung einer Vermögenseinlage durch
 den Fonds als stiller Gesellschafter in ein Unternehmen ist kein
@@ -502,6 +520,7 @@ Aktiengesetzes.
 
 
 ## § 11 Keine Informationspflicht gegenüber dem Wirtschaftsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001202123)
 
 § 106 Absatz 2 Satz 2 und Absatz 3 Nummer 9a sowie § 109a des
 Betriebsverfassungsgesetzes finden keine Anwendung auf den Erwerb von
@@ -509,18 +528,21 @@ Anteilen durch die Fonds.
 
 
 ## § 12 Keine Mitteilungspflicht für wesentliche Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001303123)
 
 § 43 des Wertpapierhandelsgesetzes findet keine Anwendung auf den
 Erwerb von Anteilen durch die Fonds.
 
 
 ## § 13 Keine Anzeigepflicht für bedeutende Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001402123)
 
 § 2c des Kreditwesengesetzes findet keine Anwendung auf den Erwerb von
 bedeutenden Beteiligungen durch die Fonds.
 
 
 ## § 14 Wertpapiererwerbs- und Übernahmeangebote; Ausschluss von Minderheitsaktionären
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001501123)
 
 (1) Wird die Kontrolle im Sinne des § 29 Absatz 2 des
 Wertpapiererwerbs- und Übernahmegesetzes über eine Zielgesellschaft
@@ -601,6 +623,7 @@ anzuwenden.
 
 
 ## § 15 Keine Börsenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001604123)
 
 § 40 Absatz 1 des Börsengesetzes und § 69 der Börsenzulassungs-
 Verordnung finden auf die Ausgabe von Aktien an den Fonds keine
@@ -611,12 +634,14 @@ zu laufen.
 
 
 ## § 16 Wettbewerbsrecht
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001703123)
 
 Die Vorschriften des Ersten bis Dritten Teils des Gesetzes gegen
 Wettbewerbsbeschränkungen finden keine Anwendung auf den Fonds.
 
 
 ## § 17 Anfechtung, Gesellschafterdarlehen und wirtschaftlich vergleichbare Forderungen, verdeckte Sacheinlage
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE001801123)
 
 (1) Rechtshandlungen, die im Zusammenhang mit Stabilisierungsmaßnahmen
 stehen, können nicht zu Lasten des Fonds, des Bundes und der von ihnen
@@ -645,6 +670,7 @@ gegenüber dem Fonds.
 
 
 ## § 18 Keine Kündigung bei Übernahme einer Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002403123)
 
 Die Übernahme, Umstrukturierung, Veränderung oder Veräußerung einer
 Beteiligung des Fonds an einem Unternehmen des Finanzsektors stellt
@@ -662,6 +688,7 @@ würde.
 
 
 ## § 19 Veränderung und Beendigung von Rekapitalisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE002504123)
 
 (1) Das Unternehmen ist verpflichtet, auf Verlangen des Fonds
 zumutbare Maßnahmen vorzunehmen, die für die Rückführung, Veräußerung,
@@ -706,6 +733,7 @@ Anwendung.
 
 
 ## § 20 Erwerb von Risikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/fmstbg/BJNR198600008.html#BJNR198600008BJNE003200123)
 
 (1) Übertragungen von Risikopositionen und Sicherheiten auf den Fonds
 sind insolvenzrechtlich nicht anfechtbar. Zivilrechtliche Abtretungs-

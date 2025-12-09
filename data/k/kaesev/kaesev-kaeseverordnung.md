@@ -26,10 +26,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000100328)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE000904377)
 
 (1) Käse sind frische oder in verschiedenen Graden der Reife
 befindliche Erzeugnisse, die aus dickgelegter Käsereimilch hergestellt
@@ -122,6 +124,7 @@ Buchstabe b genannten Stoffe beigegebene Lebensmittel.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001001308)
 
 Die Vorschriften dieser Verordnung gelten nur für das gewerbsmäßige
 Herstellen und Inverkehrbringen von Käse und Erzeugnissen aus Käse.
@@ -133,6 +136,7 @@ werden.
 
 
 ### § 3 Anforderungen an die Herstellung von Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001115119)
 
 (1) Bei der Herstellung von Käse, ausgenommen Molkenkäse, dürfen außer
 Käsereimilch (§ 1 Abs. 2) nur verwendet werden
@@ -258,6 +262,7 @@ muß eine fettfreie Milchtrockenmasse von mindestens 32% aufweisen.
 
 
 ### § 4 Anforderungen an die Herstellung von Erzeugnissen aus Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001206119)
 
 (1) Bei der Herstellung von Erzeugnissen aus Käse dürfen außer den in
 den Begriffsbestimmungen für diese Erzeugnisse in § 1 Abs. 4 jeweils
@@ -314,6 +319,7 @@ enthalten.
 
 
 ### § 5 Fettgehaltsstufen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001301308)
 
 Käse und Erzeugnisse aus Käse dürfen nach ihrem Fettgehalt in der
 Trockenmasse nur in den folgenden Fettgehaltsstufen in den Verkehr
@@ -390,10 +396,12 @@ gebracht werden:
 
 
 ## Zweiter Abschnitt - Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000200328)
 
 
 
 ### § 6 Käsegruppen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001401308)
 
 (1) Käse wird nach dem Wassergehalt in der fettfreien Käsemasse in
 folgende Käsegruppen eingeteilt:
@@ -455,6 +463,7 @@ Mindestgehalt an Trockenmasse in Käsegruppen nach Anlage 1 eingeteilt.
 
 
 ### § 7 Standardsorten
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001500328)
 
 (1) Käse darf unter der Bezeichnung einer Standardsorte der Anlage 1
 nur in den Verkehr gebracht werden, wenn er den Vorschriften der
@@ -485,6 +494,7 @@ einem Hinweis auf Sahne oder Rahm in den Verkehr gebracht werden.
 
 
 ### § 8 Geographische Herkunftsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004600308)
 
 Käse darf unter einer der in Anlage 1b Spalte 1 aufgeführten
 geographischen Herkunftsbezeichnungen nur in den Verkehr gebracht
@@ -502,10 +512,12 @@ werden, wenn er
 
 
 ### (XXXX) §§ 9 und 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001601308)
 
 
 
 ### § 11 Güteklasse, Markenkäse, Güteprüfungen für inländischen Markenkäse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001702377)
 
 (1) Im Inland hergestellter Käse darf nach Maßgabe der Absätze 2 bis
 10 unter der Gütebezeichnung "Markenkäse" in den Verkehr gebracht
@@ -601,6 +613,7 @@ Fundstelle: BGBl. I 2004, 1704)
 
 
 ### § 11a Markenkäse aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004800377)
 
 (1) Käse, der in einem anderen Mitgliedstaat der Europäischen Union
 hergestellt ist, darf im Geltungsbereich dieser Verordnung unter der
@@ -616,10 +629,12 @@ Inland erfüllt sind.
 
 
 ## Dritter Abschnitt - Erzeugnisse aus Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000300328)
 
 
 
 ### § 12 Trockenmasse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001800328)
 
 Schmelzkäse und Schmelzkäsezubereitungen dürfen unbeschadet der
 sonstigen Anforderungen nur in den Verkehr gebracht werden, wenn sie
@@ -628,6 +643,7 @@ Gehalt an Trockenmasse aufweisen.
 
 
 ### § 13 Kochkäse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE001901377)
 
 Anstelle der Bezeichnung "Schmelzkäse" darf die Bezeichnung "Kochkäse"
 verwendet werden, wenn zur Herstellung nur Sauermilchquark oder
@@ -638,10 +654,12 @@ verwendet worden sind.
 
 
 ## Vierter Abschnitt - Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000400328)
 
 
 
 ### § 14 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002017119)
 
 (1) Käse und Erzeugnisse aus Käse dürfen nur in den Verkehr gebracht
 werden, wenn sie nach den Vorschriften dieser Verordnung
@@ -808,6 +826,7 @@ unmittelbaren Verzehr an Ort und Stelle abgegeben werden.
 
 
 ### § 15 Zusätzliche Kennzeichnung bei Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002108311)
 
 (1) Bei Käse muß die Kennzeichnung ferner enthalten
 
@@ -858,6 +877,7 @@ enthält.
 
 
 ### § 16 Zusätzliche Kennzeichnung bei Erzeugnissen aus Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002204377)
 
 (1) Bei Erzeugnissen aus Käse muß die Kennzeichnung ferner enthalten
 
@@ -892,6 +912,7 @@ Standardsorte verwendet worden ist.
 
 
 ### § 17 Besondere Hinweise auf Standardsorten bei Erzeugnissen aus Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002302308)
 
 (1) Erzeugnisse aus Käse dürfen in der Kennzeichnung einen besonderen
 Hinweis auf eine Standardsorte oder auf einen anderen Käse enthalten.
@@ -908,14 +929,17 @@ bei der angegebenen Standardsorte.
 
 
 ### (XXXX) §§ 18 und 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002400328)
 
 
 
 ## Fünfter Abschnitt - Labaustauschstoffe und Lab-Pepsin-Zubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000500328)
 
 
 
 ### § 20 Herstellung von Labaustauschstoffen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002500328)
 
 (1) Wer einen Labaustauschstoff herstellen will, bedarf hierzu der
 Genehmigung der zuständigen Behörde. Labaustauschstoffe im Sinne
@@ -1030,6 +1054,7 @@ gründlich gereinigt und desinfiziert werden.
 
 
 ### § 21 Verbringen von Labaustauschstoffen in den Geltungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002600328)
 
 (1) Wer Labaustauschstoffe in den Geltungsbereich dieser Verordnung
 verbringen will, hat dies der für den Ort der Zollabfertigung
@@ -1085,6 +1110,7 @@ Absatz 1 zuständigen Behörde zuzuleiten.
 
 
 ### § 22 Abgabe und Kennzeichnung von Lab-Pepsin-Zubereitungen und Labaustauschstoffen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002700328)
 
 Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in
 Packungen oder Behältnissen in den Verkehr gebracht werden. Auf den
@@ -1122,22 +1148,27 @@ anzugeben
 
 
 ## Sechster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000601119)
 
 
 
 ### (XXXX) §§ 23 bis 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002902119)
 
 
 
 ## Siebenter Abschnitt - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000700328)
 
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE002901308)
 
 
 
 ### § 27 Befugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003100328)
 
 Die Länder bleiben befugt, Vorschriften zu erlassen
 
@@ -1158,6 +1189,7 @@ Die Länder bleiben befugt, Vorschriften zu erlassen
 
 
 ### § 28 Ausländische Käse und ausländische Erzeugnisse aus Käse
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003207377)
 
 (1) Außerhalb des Geltungsbereichs dieser Verordnung hergestellte Käse
 und Erzeugnisse aus Käse (ausländische Käse und Erzeugnisse aus Käse),
@@ -1184,6 +1216,7 @@ verwendet werden.
 
 
 ### § 29 Besondere Zubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003300328)
 
 Die Vorschriften dieser Verordnung finden keine Anwendung auf
 
@@ -1200,10 +1233,12 @@ Die Vorschriften dieser Verordnung finden keine Anwendung auf
 
 
 ## Achter Abschnitt - Straftaten und Ordnungswidrigkeiten, Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNG000800328)
 
 
 
 ### § 30 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003407119)
 
 (1) (weggefallen)
 
@@ -1276,6 +1311,7 @@ oder fahrlässig
 
 
 ### § 31 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003505377)
 
 (1) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 2 des Milch- und
 Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1378,6 +1414,7 @@ berechtigt zu sein.
 
 
 ### § 31a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003609124)
 
 (1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
 entgegenstehen aus
@@ -1415,12 +1452,14 @@ Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ### § 32 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003802119)
 
 Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 (zu § 7)
 
 ### Anlage 1 Standardsorten
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE003907119)
 
 (Fundstelle BGBl. I 1986, 423 - 427;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2582,12 +2621,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004002377)
 
    -
 
 (zu § 8)
 
 ### Anlage 1b Geographische Herkunftsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004700308)
 
 (Fundstelle: BGBl. I 1993, 2443 - 2444)
 
@@ -2794,6 +2835,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 12)
 
 ### Anlage 2 Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004101377)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1705)
 
@@ -2884,12 +2926,14 @@ Schmelzkäsezubereitungen aus Frischkäse.
 
 
 ### Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004206377)
 
 -
 
 (zu § 11 Abs. 9)
 
 ### Anlage 4 Bestimmungen über die Durchführung von Käseprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004300328)
 
 Fundstelle des Originaltextes: BGBl. I 1986, 431
 
@@ -3112,6 +3156,7 @@ Güteprüfung mindestens 75 Tage alt sein.
 (zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1)
 
 ### Anlage 5 Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21 \*)
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004400328)
 
 Fundstelle des Originaltextes: BGBl. I 1986, 432-433
 ....................., den ..............
@@ -3163,6 +3208,7 @@ Nachweisführenden)
 (zu § 21 Abs. 2 S 1 Nr. 4)
 
 ### Anlage 6 Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
+[Direktlink](https://www.gesetze-im-internet.de/k_sev/BJNR511800965.html#BJNR511800965BJNE004500328)
 
 Fundstelle des Originaltextes: BGBl. I 1986, 433 - 434
 Herkunftsland:

@@ -22,9 +22,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und anzuwendendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000201140)
 
 (1) Dieses Gesetz regelt die Einzelheiten der Amtshilfe zwischen
 Deutschland und den anderen Mitgliedstaaten der Europäischen Union
@@ -117,6 +119,7 @@ der Finanzen Verwaltungsvorschriften erlassen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000300000)
 
 (1) „Person“ ist
 
@@ -149,6 +152,7 @@ Fassung.
 
 
 ### § 3 Zuständigkeit und Prüfungsbefugnisse für Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000400000)
 
 (1) Das Bundesministerium der Finanzen ist zuständige Behörde
 ausschließlich im Sinne von Artikel 4 Absatz 1 der
@@ -183,6 +187,7 @@ gemäß Absatz 1 Satz 4 an die zuständige ausländische Behörde geleitet.
 
 
 ### § 4 Zuständigkeit für die Vollstreckung eingehender Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000500000)
 
 (1) Folgende Behörden nehmen nach Maßgabe dieses Gesetzes Amtshilfe in
 Anspruch und leisten danach Amtshilfe (Vollstreckungsbehörden):
@@ -265,9 +270,11 @@ veröffentlichen.
 
 
 ## Abschnitt 2 - Erteilen von Auskünften
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNG000200000)
 
 
 ### § 5 Erteilen von Auskünften an andere Mitgliedstaaten auf Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000600000)
 
 (1) Auf Ersuchen teilt das Verbindungsbüro dem Mitgliedstaat alle
 Auskünfte mit, die bei der Beitreibung einer Forderung gemäß § 1
@@ -303,6 +310,7 @@ so sind dem anderen Mitgliedstaat die Gründe hierfür mitzuteilen.
 
 
 ### § 6 Erteilen von Auskünften an andere Mitgliedstaaten ohne Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000700000)
 
 (1) Bei einer Erstattung von Steuern oder Abgaben an eine Person, die
 in einem anderen Mitgliedstaat niedergelassen oder wohnhaft ist, kann
@@ -321,9 +329,11 @@ nach Übermittlung der Information an den anderen Mitgliedstaat.
 
 
 ## Abschnitt 3 - Zustellung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNG000300000)
 
 
 ### § 7 Zustellungsersuchen von anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000800000)
 
 (1) Auf Ersuchen veranlasst die Vollstreckungsbehörde die Zustellung
 aller Dokumente, die mit einer Forderung gemäß § 1 oder mit deren
@@ -342,6 +352,7 @@ welche Anschrift dem Empfänger das Dokument zugestellt worden ist.
 
 
 ### § 8 Zustellungsersuchen in andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE000900000)
 
 (1) Das Verbindungsbüro kann um die Zustellung aller Dokumente
 ersuchen, die mit einer Forderung gemäß § 1 oder mit deren
@@ -357,9 +368,11 @@ Zustellung mit unverhältnismäßigen Schwierigkeiten verbunden wäre.
 
 
 ## Abschitt 4 - Beitreibungs- und Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNG000400000)
 
 
 ### § 9 Beitreibungsersuchen von anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001000000)
 
 (1) Auf Ersuchen nimmt die Vollstreckungsbehörde die Vollstreckung von
 Forderungen vor, für die in einem anderen Mitgliedstaat ein
@@ -394,6 +407,7 @@ Kosten können vorher einbehalten werden.
 
 
 ### § 10 Beitreibungsersuchen in andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001100000)
 
 (1) Ein Verbindungsbüro kann Beitreibungsersuchen in einen anderen
 Mitgliedstaat stellen, wenn
@@ -457,6 +471,7 @@ zur unverzüglichen Weiterleitung an den anderen Mitgliedstaat mit.
 
 
 ### § 11 Änderung oder Rücknahme des Beitreibungsersuchens
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001200000)
 
 (1) Das Verbindungsbüro teilt unverzüglich nach entsprechender
 Erstellung durch die Vollstreckungsbehörde dem anderen Mitgliedstaat
@@ -491,6 +506,7 @@ und 4 sowie § 13 entsprechend.
 
 
 ### § 12 Ersuchen um Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001300000)
 
 (1) Um die Vollstreckung sicherzustellen, führt die
 Vollstreckungsbehörde auf Ersuchen des anderen Mitgliedstaates
@@ -524,6 +540,7 @@ entsprechend.
 
 
 ### § 13 Streitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001400000)
 
 (1) Stellt das Verbindungsbüro ein Ersuchen, so sind die nach dem
 Dritten Abschnitt des Ersten Teils der Abgabenordnung zuständigen
@@ -595,6 +612,7 @@ anzuwenden.
 
 
 ### § 14 Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001500000)
 
 (1) Die in den §§ 9 bis 13 vorgesehene Amtshilfe wird nicht geleistet,
 wenn die Vollstreckung oder die Anordnung von Sicherungsmaßnahmen
@@ -631,6 +649,7 @@ Verbindungsbüro dem anderen Mitgliedstaat mit.
 
 
 ### § 15 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001600000)
 
 (1) Für die Verjährung von Forderungen, hinsichtlich derer um
 Amtshilfe ersucht wird, sind die §§ 228 bis 232 der Abgabenordnung
@@ -671,6 +690,7 @@ ersucht wurde, unterbricht oder hemmt.
 
 
 ### § 16 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001700000)
 
 (1) Die Vollstreckungsbehörde bemüht sich bei den betreffenden
 Personen, neben den in § 9 Absatz 5 genannten Beträgen auch die ihr
@@ -694,9 +714,11 @@ werden.
 
 
 ## Abschnitt 5 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNG000500000)
 
 
 ### § 17 Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001800000)
 
 (1) Die Verbindungsbüros können zur Förderung der Amtshilfe gemäß der
 Beitreibungsrichtlinie vereinbaren, dass unter den von ihr
@@ -728,6 +750,7 @@ ersuchenden Behörde hervorgehen.
 
 
 ### § 18 Anwesenheit von deutschen Bediensteten in anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE001900000)
 
 Sofern die Komplexität eines Ersuchens es erfordert, können
 ordnungsgemäß bevollmächtigte deutsche Bedienstete in andere
@@ -736,6 +759,7 @@ des § 17 gelten sinngemäß.
 
 
 ### § 19 Standardformblätter und Kommunikationsmittel
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE002000000)
 
 (1) Ersuchen um Auskünfte gemäß § 5 Absatz 1, um Zustellung gemäß § 7
 Absatz 1 und § 8 Absatz 1, um Beitreibung gemäß § 9 Absatz 1 und § 10
@@ -768,6 +792,7 @@ ergriffenen Maßnahmen.
 
 
 ### § 20 Sprachen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE002100000)
 
 (1) Alle Ersuchen um Amtshilfe, Standardformblätter für die Zustellung
 sowie einheitliche Vollstreckungstitel für die Vollstreckung werden
@@ -793,6 +818,7 @@ beizufügen.
 
 
 ### § 21 Weiterleitung von Auskünften und Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE002200000)
 
 (1) Die Auskünfte, die im Rahmen der Durchführung dieses Gesetzes an
 Deutschland übermittelt werden, unterliegen dem Steuergeheimnis und
@@ -833,9 +859,11 @@ Beweismittel verwendet werden.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNG000600000)
 
 
 ### § 22 Anwendung anderer Abkommen zur Unterstützung bei der Beitreibung
+[Direktlink](https://www.gesetze-im-internet.de/eubeitrg/BJNR259210011.html#BJNR259210011BJNE002300000)
 
 (1) Dieses Gesetz gilt unbeschadet der Erfüllung von Verpflichtungen
 zur Leistung von Amtshilfe in größerem Umfang, die sich aus

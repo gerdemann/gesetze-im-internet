@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2010/BJNR169300010.html#BJNR169300010BJNE000100000)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
 der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
@@ -47,11 +48,13 @@ Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2010/BJNR169300010.html#BJNR169300010BJNE000200000)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2010/BJNR169300010.html#BJNR169300010BJNE000300000)
 
 (Fundstelle: BGBl. I 2010, 1694 - 1696)
 Gültig ab 1. Januar 2010
@@ -984,6 +987,7 @@ Gültig ab 1. Januar 2010
 [^f774683_03_BJNR169300010BJNE000300000]: 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2010/BJNR169300010.html#BJNR169300010BJNE000400000)
 
 (Fundstelle: BGBl. I 2010, 1697 - 1714)
 (Anlage IV des BBesG)
@@ -6048,6 +6052,7 @@ Gültig ab 1. August 2011 für Postnachfolgeunternehmen
 [^f774683_01_BJNR169300010BJNE000400000]: 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2010/BJNR169300010.html#BJNR169300010BJNE000500000)
 
 (Fundstelle: BGBl. I 2010, 1715 - 1717)
 Gültig ab 1. Januar 2010 für Postnachfolgeunternehmen

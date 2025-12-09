@@ -18,12 +18,15 @@ Fundstelle
 Stand: Ersetzt V 2129-8-13-2 v. 2.5.2013 I 1021, 1023, 3754 (BImSchV 13 2013)
 
 ## Abschnitt 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000100000)
 
 
 ### Unterabschnitt 1 - Anwendungsbereich, Begriffsbestimmungen, Bezugssauerstoffgehalt und Aggregationsregeln
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000200000)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Feuerungsanlagen, einschließlich Gasturbinenanlagen
@@ -107,6 +110,7 @@ maßgeblichen Abschnitts 2, 3, 4, 5 oder 6.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000300000)
 
 (1) „Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den
 festen, flüssigen oder gasförmigen Emissionen, angegeben als
@@ -315,6 +319,7 @@ Gasmotoranlage.
 
 
 #### § 3 Bezugssauerstoffgehalt
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000400000)
 
 Emissionsgrenzwerte beziehen sich auf einen Volumengehalt an
 Sauerstoff im Abgas von
@@ -337,6 +342,7 @@ Sauerstoff im Abgas von
 
 
 #### § 4 Aggregationsregeln
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000500000)
 
 (1) Werden in einer gemeinsamen Anlage im Sinne des § 1 Absatz 3 der
 Verordnung über genehmigungsbedürftige Anlagen die Abgase von zwei
@@ -390,9 +396,11 @@ vorzulegen.
 
 
 ### Unterabschnitt 2 - Gemeinsame Anforderungen an die Errichtung und den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000300000)
 
 
 #### § 5 Anforderungen und im Jahresmittel einzuhaltende Emissionsgrenzwerte zur Absicherung von Umweltqualitätszielen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000600000)
 
 (1) Großfeuerungsanlagen mit einer Feuerungswärmeleistung von mehr als
 300 MW sind so zu errichten und zu betreiben, dass kein
@@ -455,6 +463,7 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 #### § 6 Emissionsgrenzwerte bei Betrieb mit mehreren Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000700000)
 
 (1) Feuerungsanlagen sind beim Betrieb mit mehreren Brennstoffen so zu
 betreiben, dass
@@ -484,6 +493,7 @@ jeweils eingesetzten Brennstoff gelten.
 
 
 #### § 7 Kraft-Wärme-Kopplung und Kopplung von Gas- und Dampfturbinen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000800000)
 
 (1) Der Betreiber hat bei der Errichtung oder der wesentlichen
 Änderung einer Feuerungsanlage Maßnahmen zur Kraft-Wärme-Kopplung
@@ -508,6 +518,7 @@ Betreiber diesen Umstand der zuständigen Behörde anzuzeigen.
 
 
 #### § 8 Wesentliche Änderung einer Feuerungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE000900000)
 
 Wird eine Feuerungsanlage wesentlich geändert, sind die Anforderungen
 dieses Unterabschnitts sowie die zusätzlichen Anforderungen an die
@@ -529,6 +540,7 @@ Gesamtleistung der Feuerungsanlage nach erfolgter wesentlicher
 
 
 #### § 9 Anlagen zur Abscheidung und Kompression von Kohlendioxid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001000000)
 
 (1) Vor der erstmaligen Genehmigung der Errichtung oder des Betriebs
 einer Feuerungsanlage zur Erzeugung von Strom mit einer elektrischen
@@ -554,6 +566,7 @@ Kompression von Kohlendioxid erforderlichen Anlagen freizuhalten.
 
 
 #### § 10 Begrenzung der Emissionen bei Lagerungs- und Transportvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001100000)
 
 (1) Bei der Lagerung und beim Transport von Stoffen sind nach näherer
 Bestimmung der zuständigen Behörde Maßnahmen zur Begrenzung der
@@ -570,6 +583,7 @@ Transporteinrichtungen und geschlossene Zwischenlager zu verwenden.
 
 
 #### § 11 Ableitbedingungen für Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001200000)
 
 Abgase sind in kontrollierter Weise so abzuleiten, dass ein
 ungestörter Abtransport mit der freien Luftströmung ermöglicht wird.
@@ -579,6 +593,7 @@ näheren Bestimmungen sind in der Genehmigung festzulegen.
 
 
 #### § 12 Abgasreinigungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001300000)
 
 (1) Soweit zur Einhaltung der Emissionsgrenzwerte
 Abgasreinigungseinrichtungen erforderlich sind, muss der gesamte
@@ -602,9 +617,11 @@ diese Abgasreinigungseinrichtung betrieben werden.
 
 
 ### Unterabschnitt 3 - Gemeinsame Vorschriften zur Messung, Überwachung und Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000400000)
 
 
 #### § 13 Brennstoffkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001400000)
 
 (1) Der Betreiber hat die Brennstoffdaten der der Feuerungsanlage
 zugeführten Brennstoffe, ausgenommen Zündbrennstoffe, gemäß Anlage 1
@@ -640,6 +657,7 @@ fünf Jahre lang aufzubewahren.
 
 
 #### § 14 Energieeffizienzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001500000)
 
 (1) Der Betreiber einer Feuerungsanlage zur Bereitstellung von
 elektrischer oder mechanischer Energie hat den elektrischen oder
@@ -679,6 +697,7 @@ fünf Jahren nach dem Ende des Leistungstests.
 
 
 #### § 15 Messplätze
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001600000)
 
 Der Betreiber hat vor der Inbetriebnahme einer Anlage für die
 Messungen zur Feststellung der Emissionen sowie zur Ermittlung der
@@ -690,6 +709,7 @@ gewährleistet sind. Näheres bestimmt die zuständige Behörde.
 
 
 #### § 16 Messverfahren und Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001700000)
 
 (1) Der Betreiber hat sicherzustellen, dass für Messungen die dem
 Stand der Messtechnik entsprechenden Messverfahren angewendet und
@@ -747,6 +767,7 @@ zuständigen Behörde vorzulegen.
 
 
 #### § 17 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001800000)
 
 (1) Der Betreiber hat folgende Parameter kontinuierlich zu ermitteln,
 zu registrieren, gemäß § 19 Absatz 1 Satz 1 bis 4 und Absatz 2 und 3
@@ -814,6 +835,7 @@ eingehalten werden.
 
 
 #### § 18 Ausnahmen vom Erfordernis kontinuierlicher Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE001900000)
 
 (1) Die zuständige Behörde kann bei Feuerungsanlagen mit einer
 Lebensdauer von weniger als
@@ -917,6 +939,7 @@ Frist von vier Wochen widerspricht.
 
 
 #### § 19 Auswertung und Beurteilung von kontinuierlichen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002000000)
 
 (1) Während des Betriebs der Anlage ist aus den nach § 17 ermittelten
 Messwerten für jede halbe Stunde jeweils der Halbstundenmittelwert zu
@@ -984,6 +1007,7 @@ Jahr erhaltenen Messwerte den vorgeschriebenen Grenzwert nicht
 
 
 #### § 20 Periodische Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002100000)
 
 (1) Soweit auf der Grundlage dieser Verordnung periodische Messungen
 durchzuführen sind, hat der Betreiber diese nach Inbetriebnahme oder
@@ -1074,6 +1098,7 @@ den entsprechenden Schadstoff auf Verlangen vorzulegen.
 
 
 #### § 21 Messberichte; Beurteilung von periodischen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002200000)
 
 (1) Der Betreiber hat über die Ergebnisse der Messungen nach § 20
 einen Messbericht gemäß Satz 2 zu erstellen. Den Messbericht hat der
@@ -1104,6 +1129,7 @@ einer periodischen Messung den jeweils geltenden Emissionsgrenzwert
 
 
 #### § 22 Jährliche Berichte über Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002300000)
 
 (1) Der Betreiber hat der zuständigen Behörde jährlich jeweils bis zum
 Ablauf des 30. April des Folgejahres für jede einzelne Anlage unter
@@ -1199,9 +1225,11 @@ aufzuführen.
 
 
 ### Unterabschnitt 4 - Zulassung von Ausnahmen und weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000500000)
 
 
 #### § 23 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002400000)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
 von Vorschriften dieser Verordnung zulassen, soweit unter
@@ -1239,6 +1267,7 @@ Weiterleitung an die Europäische Kommission zuzuleiten.
 
 
 #### § 24 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002500000)
 
 (1) Die Befugnis der zuständigen Behörde, andere oder weitergehende
 Anforderungen, insbesondere zur Vermeidung schädlicher
@@ -1252,12 +1281,15 @@ Verordnung hinausgehen, sind diese weiterhin maßgeblich.
 
 
 ## Abschnitt 2 - Vorschriften für Feuerungsanlagen im Anwendungsbereich des Durchführungsbeschlusses (EU) 2017/1442 der Kommission vom 31. Juli 2017 zu den besten verfügbaren Techniken für Großfeuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000600000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften zu Abschnitt 2
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000700000)
 
 
 #### § 25 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002600000)
 
 Die Vorschriften dieses Abschnitts gelten für alle Feuerungsanlagen im
 Anwendungsbereich nach § 1, soweit die Feuerungsanlagen nicht in den
@@ -1265,6 +1297,7 @@ Anwendungsbereich des Abschnitts 3, 4, 5 oder 6 fallen.
 
 
 #### § 26 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002700000)
 
 (1) Altanlage im Sinne dieses Abschnitts ist eine bestehende Anlage,
 
@@ -1329,9 +1362,11 @@ Anlage,
 
 
 ### Unterabschnitt 2 - Zusätzliche Anforderungen an Errichtung und Betrieb zu Abschnitt 2
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000800000)
 
 
 #### § 27 Emissionsgrenzwerte für Ammoniak
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002800000)
 
 Sofern zur Minderung der Emissionen von Stickstoffoxiden ein Verfahren
 zur selektiven katalytischen Reduktion oder ein Verfahren zur
@@ -1350,6 +1385,7 @@ Bezugssauerstoffgehalt zu beziehen.
 
 
 #### § 28 Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz fester Brennstoffe, ausgenommen Biobrennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE002900000)
 
 (1) Großfeuerungsanlagen, die feste Brennstoffe mit Ausnahme von
 Biobrennstoffen einsetzen, sind so zu errichten und zu betreiben, dass
@@ -2111,6 +2147,7 @@ dem Ende des Nachweiszeitraums jeweils fünf Jahre lang aufzubewahren.
 
 
 #### § 29 Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von Biobrennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003000000)
 
 (1) Großfeuerungsanlagen, die Biobrennstoffe einsetzen, sind so zu
 errichten und zu betreiben, dass die Anforderungen dieses Absatzes und
@@ -2679,6 +2716,7 @@ dem Ende des Nachweiszeitraums jeweils fünf Jahre lang aufzubewahren.
 
 
 #### § 30 Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz flüssiger Brennstoffe, ausgenommen flüssige Brennstoffe aus Produktionsrückständen der chemischen Industrie
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003100000)
 
 (1) Großfeuerungsanlagen, die flüssige Brennstoffe, ausgenommen
 flüssige Brennstoffe aus Produktionsrückständen der chemischen
@@ -3041,6 +3079,7 @@ Absatz 1 Satz 2 Nummer 4 nicht anzuwenden.
 
 
 #### § 31 Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von gasförmigen Brennstoffen, ausgenommen gasförmige Brennstoffe aus Produktionsrückständen der chemischen Industrie
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003200000)
 
 (1) Großfeuerungsanlagen, die gasförmige Brennstoffe, ausgenommen
 gasförmige Brennstoffe aus Produktionsrückständen der chemischen
@@ -3270,6 +3309,7 @@ findet.
 
 
 #### § 32 Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von flüssigen und gasförmigen Produktionsrückständen aus der chemischen Industrie
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003300000)
 
 (1) Großfeuerungsanlagen, die flüssige oder gasförmige
 Produktionsrückstände aus der chemischen Industrie einsetzen, sind so
@@ -3626,6 +3666,7 @@ fünf Jahre lang aufzubewahren.
 
 
 #### § 33 Emissionsgrenzwerte für Gasturbinenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003400000)
 
 (1) Gasturbinenanlagen sind so zu errichten und zu betreiben, dass die
 Anforderungen dieses Absatzes und der Absätze 2 bis 4, des Absatzes 5
@@ -4073,6 +4114,7 @@ Einzelfall festzulegen.
 
 
 #### § 34 Emissionsgrenzwerte für Verbrennungsmotoranlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003500000)
 
 (1) Verbrennungsmotoranlagen sind so zu errichten und zu betreiben,
 dass die Anforderungen dieses Absatzes, der Absätze 2 bis 6 Nummer 1
@@ -4319,6 +4361,7 @@ jeweils fünf Jahre lang aufzubewahren.
 
 
 #### § 35 Netzstabilitätsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003600000)
 
 (1) Vor der erstmaligen Genehmigung zur Errichtung oder zum Betrieb
 einer Netzstabilitätsanlage hat der Betreiber die maximal zu
@@ -4345,9 +4388,11 @@ die Betriebsstunden des abgelaufenen Kalenderjahres zu berichten.
 
 
 ### Unterabschnitt 3 - Zusätzliche Anforderungen an Messung und Überwachung zu Abschnitt 2
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG000900000)
 
 
 #### § 36 Ausnahme vom Erfordernis kontinuierlicher Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003700000)
 
 (1) Abweichend von § 17 Absatz 1 sind bei Feuerungsanlagen mit einer
 Feuerungswärmeleistung von 50 MW bis weniger als 100 MW, die im
@@ -4384,6 +4429,7 @@ durchführen zu lassen.
 
 
 #### § 37 Abweichende Vorschriften zu periodischen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003800000)
 
 (1) Abweichend von § 20 Absatz 2 Satz 2 hat der Betreiber
 Wiederholungsmessungen zur Überwachung der Einhaltung der
@@ -4431,6 +4477,7 @@ durchführen zu lassen.
 
 
 #### § 38 Zusätzliche periodische Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE003900000)
 
 Der Betreiber von Großfeuerungsanlagen mit zirkulierender
 Wirbelschichtfeuerung zum Einsatz von festen Brennstoffen oder
@@ -4444,9 +4491,11 @@ Anwendung.
 
 
 ### Unterabschnitt 4 - Übergangsvorschriften zu Abschnitt 2
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001000000)
 
 
 #### § 39 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004000000)
 
 (1) Für bestehende Anlagen im Anwendungsbereich des Abschnitts 2
 gelten die Anforderungen dieser Verordnung ab dem 18. August 2021.
@@ -4543,12 +4592,15 @@ Standes der Technik, der Verhältnismäßigkeit und angemessener
 
 
 ## Abschnitt 3 - Vorschriften für Großfeuerungsanlagen im Anwendungsbereich des Durchführungsbeschlusses (EU) 2014/687 der Kommission vom 26. September 2014 zu den besten verfügbaren Techniken in Bezug auf die Herstellung von Zellstoff, Papier und Karton
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001100000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften zu Abschnitt 3
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001200000)
 
 
 #### § 40 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004100000)
 
 Die Vorschriften dieses Abschnitts gelten für Großfeuerungsanlagen der
 Zellstoffindustrie, die Brennstoffe nach § 2 Absatz 4 Nummer 2
@@ -4556,6 +4608,7 @@ Buchstabe d einsetzen.
 
 
 #### § 41 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004200000)
 
 (1) Altanlage im Sinne dieses Abschnitts ist eine bestehende Anlage,
 
@@ -4602,9 +4655,11 @@ Buchstabe d einsetzen.
 
 
 ### Unterabschnitt 2 - Zusätzliche Anforderungen an Errichtung und Betrieb zu Abschnitt 3
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001300000)
 
 
 #### § 42 Gemeinsame Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von Ablaugen der Zellstoffherstellung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004300000)
 
 (1) Großfeuerungsanlagen, die Ablaugen aus der Zellstoffindustrie
 einsetzen, sind so zu errichten und zu betreiben, dass die
@@ -4670,6 +4725,7 @@ Heizflächenreinigung einzuhalten.
 
 
 #### § 43 Zusätzliche Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von Sulfat-Ablaugen der Zellstoffherstellung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004400000)
 
 (1) Großfeuerungsanlagen, die Sulfat-Ablaugen aus der
 Zellstoffindustrie einsetzen, sind so zu errichten und zu betreiben,
@@ -4807,6 +4863,7 @@ Feuerungswärmeleistung von
 
 
 #### § 44 Zusätzliche Emissionsgrenzwerte für Großfeuerungsanlagen bei Einsatz von Sulfit-Ablaugen der Zellstoffherstellung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004500000)
 
 (1) Großfeuerungsanlagen, die Sulfit-Ablaugen aus der
 Zellstoffindustrie einsetzen, sind so zu errichten und zu betreiben,
@@ -4909,9 +4966,11 @@ Jahresmittelwert nicht überschritten werden.
 
 
 ### Unterabschnitt 3 - Übergangsvorschriften zu Abschnitt 3
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001400000)
 
 
 #### § 45 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004600000)
 
 (1) Soweit Anforderungen aus Abschnitt 1 dieser Verordnung über die
 Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und
@@ -4936,12 +4995,15 @@ unberührt.
 
 
 ## Abschnitt 4 - Vorschriften für Feuerungsanlagen im Anwendungsbereich des Durchführungsbeschlusses (EU) 2014/738 der Kommission vom 9. Oktober 2014 zu den besten verfügbaren Techniken in Bezug auf das Raffinieren von Mineralöl und Gas
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001500000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften zu Abschnitt 4
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001600000)
 
 
 #### § 46 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004700000)
 
 Die Vorschriften dieses Abschnitts gelten für Feuerungsanlagen in
 Raffinerien, die Raffinerieheizgase oder Destillations- oder
@@ -4949,6 +5011,7 @@ Konversionsrückstände einsetzen.
 
 
 #### § 47 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004800000)
 
 (1) Altanlage im Sinne dieses Abschnitts ist eine bestehende Anlage,
 
@@ -4995,9 +5058,11 @@ Konversionsrückstände einsetzen.
 
 
 ### Unterabschnitt 2 - Zusätzliche Anforderungen an Errichtung und Betrieb zu Abschnitt 4
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001700000)
 
 
 #### § 48 Gemeinsame Emissions- grenzwerte für Großfeuerungsanlagen in Raffinerien, die Raffinerieheizgase oder Destillations- oder Konversionsrückstände einsetzen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE004900000)
 
 Großfeuerungsanlagen in Raffinerien sind so zu errichten und zu
 betreiben, dass
@@ -5037,6 +5102,7 @@ betreiben, dass
 
 
 #### § 49 Emissionsgrenzwerte für Großfeuerungsanlagen für den Einsatz von Destillations- oder Konversionsrückständen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005000000)
 
 (1) Großfeuerungsanlagen in Raffinerien, die Destillations- oder
 Konversionsrückstände einsetzen, sind so zu errichten und zu
@@ -5240,6 +5306,7 @@ Nachweiszeitraums jeweils fünf Jahre lang aufzubewahren.
 
 
 #### § 50 Emissionsgrenzwerte für Großfeuerungsanlagen für den Einsatz von Raffinerieheizgasen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005100000)
 
 (1) Großfeuerungsanlagen in Raffinerien, die Raffinerieheizgase
 einsetzen, sind so zu errichten und zu betreiben, dass die
@@ -5313,6 +5380,7 @@ Monatsmittelwert und von 500 mg/m³ für den Halbstundenmittelwert nicht
 
 
 #### § 51 Emissionsgrenzwerte in Raffinerien bei Betrieb mit mehreren Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005200000)
 
 Bei bestehenden Mischfeuerungen in Feuerungsanlagen, in denen
 Destillations- oder Konversionsrückstände zum Eigenverbrauch in
@@ -5343,6 +5411,7 @@ Abgasvolumenströme gewichteten Durchschnittswert zulassen.
 
 
 #### § 52 Emissionsgrenzwerte für Gasturbinen in Raffinerien, die Raffinerieheizgase einsetzen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005300000)
 
 (1) Gasturbinenanlagen in Raffinerien, die Raffinerieheizgase
 einsetzen, sind so zu errichten und zu betreiben, dass die
@@ -5428,6 +5497,7 @@ und den jeweils maßgeblichen Anforderungen an die Zusatzfeuerung nach
 
 
 #### § 53 Kompensationsmöglichkeit in Raffinerien
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005400000)
 
 (1) Abweichend von den in den §§ 6, 49 bis 52 bestimmten
 Emissionsgrenzwerten für Stickstoffmonoxid und Stickstoffdioxid,
@@ -5544,9 +5614,11 @@ berücksichtigten Anlage ist der berechnete Emissionsgrenzwert zu
 
 
 ### Unterabschnitt 3 - Zusätzliche Anforderungen an Messung und Überwachung zu Abschnitt 4
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001800000)
 
 
 #### § 54 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005500000)
 
 Bei Anwendung von § 53 bleiben die Anforderungen zur Messung und
 Überwachung an der jeweiligen Einzelquelle nach § 17 sowie die
@@ -5555,6 +5627,7 @@ unberührt.
 
 
 #### § 55 Abweichende Vorschriften zu periodischen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005600000)
 
 Abweichend von § 20 Absatz 2 Satz 2 hat der Betreiber die
 Wiederholungsmessungen zur Überwachung der Einhaltung der Anforderung
@@ -5565,9 +5638,11 @@ entsprechend.
 
 
 ### Unterabschnitt 4 - Übergangsvorschriften zu Abschnitt 4
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG001900000)
 
 
 #### § 56 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005700000)
 
 (1) Soweit Anforderungen aus Abschnitt 1 dieser Verordnung über die
 Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und
@@ -5592,12 +5667,15 @@ unberührt.
 
 
 ## Abschnitt 5 - Vorschriften für Großfeuerungsanlagen im Anwendungsbereich des Durchführungsbeschlusses (EU) 2017/2117 der Kommission vom 21. November 2017 zu den besten verfügbaren Techniken in Bezug auf die Herstellung von organischen Grundchemikalien
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002000000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften zu Abschnitt 5
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002100000)
 
 
 #### § 57 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005800000)
 
 Die Vorschriften dieses Abschnitts gelten für Großfeuerungsanlagen zur
 Herstellung von Alkenen durch Spalten von Kohlenwasserstoffen und für
@@ -5605,6 +5683,7 @@ Großfeuerungsanlagen zum Spalten von 1,2-Dichlorethan.
 
 
 #### § 58 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE005900000)
 
 (1) Altanlage im Sinne dieses Abschnitts ist eine Anlage,
 
@@ -5651,9 +5730,11 @@ Großfeuerungsanlagen zum Spalten von 1,2-Dichlorethan.
 
 
 ### Unterabschnitt 2 - Zusätzliche Anforderungen an Errichtung und Betrieb zu Abschnitt 5
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002200000)
 
 
 #### § 59 Emissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006000000)
 
 (1) Großfeuerungsanlagen im Anwendungsbereich dieses Abschnitts sind
 so zu errichten und zu betreiben, dass die Anforderungen dieses
@@ -5765,9 +5846,11 @@ zur Herstellung von Alkenen durch Spalten von Kohlenwasserstoffen
 
 
 ### Unterabschnitt 3 - Zusätzliche Vorschriften zur Messung und Überwachung zu Abschnitt 5
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002300000)
 
 
 #### § 60 Ausnahmen vom Erfordernis kontinuierlicher Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006100000)
 
 Abweichend von § 17 Absatz 1 sind bei Feuerungsanlagen, die
 ausschließlich mit gasförmigen Brennstoffen betrieben werden,
@@ -5776,9 +5859,11 @@ erforderlich.
 
 
 ### Unterabschnitt 4 - Übergangsvorschriften zu Abschnitt 5
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002400000)
 
 
 #### § 61 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006200000)
 
 (1) Soweit Anforderungen aus Abschnitt 1 dieser Verordnung über die
 Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und
@@ -5815,12 +5900,15 @@ unberührt.
 
 
 ## Abschnitt 6 - Vorschriften für Großfeuerungsanlagen in der chemischen Industrie, die der mittelbaren Beheizung von Gütern in Reaktoren dienen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002500000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften zu Abschnitt 6
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002600000)
 
 
 #### § 62 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006300000)
 
 Die Vorschriften dieses Abschnitts gelten für Großfeuerungsanlagen zum
 Reformieren von Erdgas sowie in anderen Großfeuerungsanlagen der
@@ -5830,6 +5918,7 @@ Abschnitt 5 liegen.
 
 
 #### § 63 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006400000)
 
 Altanlage im Sinne dieses Abschnitts ist eine Anlage,
 
@@ -5854,9 +5943,11 @@ Altanlage im Sinne dieses Abschnitts ist eine Anlage,
 
 
 ### Unterabschnitt 2 - Zusätzliche Anforderungen an Errichtung und Betrieb zu Abschnitt 6
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002700000)
 
 
 #### § 64 Emissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006500000)
 
 (1) Großfeuerungsanlagen im Anwendungsbereich dieses Abschnitts sind
 so zu errichten und zu betreiben, dass die Anforderungen dieses
@@ -5975,9 +6066,11 @@ zum Reformieren von Erdgas mit einer Feuerungswärmeleistung von
 
 
 ### Unterabschnitt 3 - Übergangsvorschriften zu Abschnitt 6
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002800000)
 
 
 #### § 65 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006600000)
 
 (1) Soweit Anforderungen aus Abschnitt 1 dieser Verordnung über die
 Anforderungen der Verordnung über Großfeuerungs-, Gasturbinen- und
@@ -6002,9 +6095,11 @@ unberührt.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNG002900000)
 
 
 ### § 66 Zugänglichkeit und Gleichwertigkeit von Normen und Arbeitsblättern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006700000)
 
 (1) Die in den §§ 2, 15 und 18 genannten DIN-, DIN-SPEC- oder DIN-EN-
 Normen sind bei der Beuth Verlag GmbH, Berlin, zu beziehen. Die in § 2
@@ -6030,6 +6125,7 @@ gleichwertiger wissenschaftlicher Qualität gewährleisten.
 
 
 ### § 67 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006800000)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-
 Immissionsschutzes handelt, wer vorsätzlich oder fahrlässig
@@ -6150,6 +6246,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 13 Absatz 1)
 
 ### Anlage 1 Brennstoffkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE006900000)
 
 (Fundstelle: BGBl. I 2021, 2554 - 2556)
 
@@ -6590,6 +6687,7 @@ brennstoffbezogenen Größen zu ermitteln:
 § 49 Absatz 1 und 6 und § 55)
 
 ### Anlage 2 Emissionsgrenzwerte für Schwermetalle und krebserzeugende Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE007000000)
 
 (Fundstelle: BGBl. I 2021, 2557)
 
@@ -6698,6 +6796,7 @@ krebserzeugenden Stoffe gelten folgende Emissionsgrenzwerte:
 Anlage 2 Nummer 4 und 5)
 
 ### Anlage 3 Äquivalenzfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE007100000)
 
 (Fundstelle: BGBl. I 2021, 2558)
 
@@ -6928,6 +7027,7 @@ summieren:
 (zu § 16 Absatz 1 und § 19 Absatz 5)
 
 ### Anlage 4 Anforderungen an die kontinuierlichen Messeinrichtungen und die Validierung der Messergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE007200000)
 
 (Fundstelle: BGBl. I 2021, 2559)
 
@@ -7065,6 +7165,7 @@ summieren:
 und § 19 Absatz 1)
 
 ### Anlage 5 Umrechnungsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_13_2021/BJNR251410021.html#BJNR251410021BJNE007300000)
 
 (Fundstelle: BGBl. I 2021, 2560)
 

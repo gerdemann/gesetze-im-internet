@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2022/BJNR520210021.html#BJNR520210021BJNE000100000)
 
 Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des
 Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung –,
@@ -111,6 +112,7 @@ Beitragssatzes für das Jahr 2022 berechneten Faktoren betragen im Jahr
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2022/BJNR520210021.html#BJNR520210021BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

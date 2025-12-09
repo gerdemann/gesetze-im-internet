@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Prämienberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000109116)
 
 Unbeschränkt einkommensteuerpflichtige Personen im Sinne des § 1
 Absatz 1, 2 oder 3 des Einkommensteuergesetzes, die das 16. Lebensjahr
@@ -43,6 +44,7 @@ daß
 
 
 ## § 2 Prämienbegünstigte Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000217116)
 
 (1) Als Aufwendungen zur Förderung des Wohnungsbaus im Sinne des § 1
 gelten
@@ -175,6 +177,7 @@ Absatz 2 Satz 7 bis 10 gilt sinngemäß.
 
 
 ## § 2a Einkommensgrenze
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000312116)
 
 Die Einkommensgrenze beträgt 35 000 Euro, bei Ehegatten (§ 3 Abs. 3)
 70 000 Euro. Maßgebend ist das zu versteuernde Einkommen (§ 2 Absatz 5
@@ -186,11 +189,13 @@ würde.
 
 
 ## § 2b
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000406310)
 
 (weggefallen)
 
 
 ## § 3 Höhe der Prämie
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000512116)
 
 (1) Die Prämie bemißt sich nach den im Sparjahr (§ 4 Abs. 1)
 geleisteten prämienbegünstigten Aufwendungen. Sie beträgt 10 Prozent
@@ -212,6 +217,7 @@ Satzes 1 erfüllt sind.
 
 
 ## § 4 Prämienverfahren allgemein
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000609320)
 
 (1) Der Anspruch auf Prämie entsteht mit Ablauf des Sparjahrs.
 Sparjahr ist das Kalenderjahr, in dem die prämienbegünstigten
@@ -248,6 +254,7 @@ gesetzlich zugelassen ist.
 
 
 ## § 4a Prämienverfahren im Fall des § 2 Abs. 1 Nr. 1
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE001403310)
 
 (1) Bei Aufwendungen im Sinne des § 2 Abs. 1 Nr. 1 hat die
 Bausparkasse auf Grund des Antrags zu ermitteln, ob und in welcher
@@ -344,6 +351,7 @@ für die ihr aus dem Prämienverfahren entstehenden Kosten.
 
 
 ## § 4b Prämienverfahren in den Fällen des § 2 Abs. 1 Nr. 2 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE001501310)
 
 (1) Bei Aufwendungen im Sinne des § 2 Abs. 1 Nr. 2 bis 4 hat das
 Unternehmen den Antrag an das Wohnsitzfinanzamt des
@@ -365,6 +373,7 @@ Prämien an das Finanzamt zurückgezahlt sind.
 
 
 ## § 5 Verwendung der Prämie
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000708310)
 
 (1) (weggefallen)
 
@@ -382,18 +391,21 @@ Genossenschaft ausgezahlt wird.
 
 
 ## § 6 Steuerliche Behandlung der Prämie
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000805310)
 
 Die Prämien gehören nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes.
 
 
 ## § 7 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE000905310)
 
 Der Bund stellt die Beträge für die Prämien den Ländern in voller Höhe
 gesondert zur Verfügung.
 
 
 ## § 8 Anwendung der Abgabenordnung und der Finanzgerichtsordnung
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE001006310)
 
 (1) Auf die Wohnungsbauprämie sind die für Steuervergütungen geltenden
 Vorschriften der Abgabenordnung entsprechend anzuwenden. Dies gilt
@@ -420,6 +432,7 @@ Rechtsbehelf gegen die Prämie angegriffen werden.
 
 
 ## § 9 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE001108310)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zur Durchführung dieses
@@ -492,6 +505,7 @@ zu bestimmen.
 
 
 ## § 10 Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wopg/BJNR001390952.html#BJNR001390952BJNE001221116)
 
 (1) Dieses Gesetz in der Fassung des Artikels 11 des Gesetzes vom 8.
 Dezember 2010 (BGBl. I S. 1768) ist vorbehaltlich Satz 2 erstmals für

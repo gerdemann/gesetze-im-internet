@@ -30,24 +30,29 @@ Stand: Ersetzt V 2124-1-10 v. 3.9.1981 I 923 (HebAPrO)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000100000)
 
 Auf Grund des § 71 Absatz 1 des Hebammengesetzes vom 22. November 2019
 (BGBl. I S. 1759) verordnet das Bundesministerium für Gesundheit:
 
 
 ## Teil 1 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000200000)
 
 
 #### § 1 Inhalt des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000300000)
 
 Im Hebammenstudium sind der studierenden Person die in Anlage 1
 genannten Kompetenzen zu vermitteln.
 
 
 #### § 2 Studiengangskonzept
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000401130)
 
 (1) Im Studiengangskonzept legt die Hochschule den Umfang des
 berufspraktischen Studienteils und des hochschulischen Studienteils
@@ -70,6 +75,7 @@ berücksichtigt werden.
 
 
 #### § 3 Inhalt des modularen Curriculums
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000501125)
 
 (1) Das modulare Curriculum wird von der Hochschule so erstellt, dass
 der studierenden Person die in Anlage 1 genannten Kompetenzen
@@ -93,9 +99,11 @@ genannten Fächer.
 
 
 ### Abschnitt 2 - Der berufspraktische Teil des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000300000)
 
 
 #### § 4 Kompetenzerwerb durch Praxiseinsätze
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000600000)
 
 Im berufspraktischen Teil des Studiums wird die studierende Person
 durch Praxiseinsätze befähigt, die in den theoretischen und
@@ -104,6 +112,7 @@ beziehen, miteinander zu verbinden und weiterzuentwickeln.
 
 
 #### § 5 Kooperationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000701130)
 
 (1) Die Kooperationsvereinbarungen regeln die enge Zusammenarbeit
 zwischen der Hochschule und der jeweiligen verantwortlichen
@@ -134,6 +143,7 @@ dokumentiert werden.
 
 
 #### § 6 Praxiseinsätze in Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000800000)
 
 (1) Jede studierende Person absolviert Praxiseinsätze in
 Krankenhäusern nach § 13 Absatz 1 Satz 1 Nummer 1 des
@@ -169,6 +179,7 @@ erhält:
 
 
 #### § 7 Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE000900000)
 
 (1) In Praxiseinsätzen bei freiberuflichen Hebammen oder in ambulanten
 hebammengeleiteten Einrichtungen nach § 13 Absatz 1 Satz 1 Nummer 2
@@ -186,6 +197,7 @@ berufspraktischen Ausbildung von Hebammen geeignet sind, stattfinden.
 
 
 #### § 7a Praxiseinsätze in klinischen und außerklinischen Einrichtungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE008300130)
 
 (1) Ein Praxiseinsatz nach § 6 oder § 7 kann ganz oder teilweise
 außerhalb des Geltungsbereichs des Hebammengesetzes durchgeführt
@@ -261,6 +273,7 @@ Hebammenausbildung um die entsprechende Dauer.
 
 
 #### § 8 Umfang und Inhalt der Praxiseinsätze
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001001130)
 
 (1) Die Praxiseinsätze nach den §§ 6 bis 7a werden so festgelegt, dass
 sie mindestens den Vorgaben in Anlage 2 entsprechen.
@@ -270,6 +283,7 @@ aufgeführten Tätigkeiten auszuüben.
 
 
 #### § 9 Praxisplan
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001100000)
 
 Bei der Erstellung des Praxisplans nach § 16 Absatz 1 des
 Hebammengesetzes beachtet die verantwortliche Praxiseinrichtung die
@@ -278,6 +292,7 @@ Vorgaben des modularen Curriculums der Hochschule sowie die §§ 6 bis
 
 
 #### § 10 Qualifikation der Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001201130)
 
 (1) Zur Praxisanleitung befähigt ist eine Person, wenn sie
 
@@ -329,6 +344,7 @@ festzustellen. Das Nähere regeln die Länder.
 
 
 #### § 11 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001300000)
 
 Die Hochschule gewährleistet nach § 17 des Hebammengesetzes eine
 Praxisbegleitung in angemessenem Umfang. Die Praxisbegleitung nimmt
@@ -337,6 +353,7 @@ studierenden Person vor.
 
 
 #### § 12 Tätigkeitsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001400000)
 
 In dem Tätigkeitsnachweis nach § 33 Absatz 2 Nummer 3 des
 Hebammengesetzes dokumentiert die studierende Person diejenigen
@@ -344,12 +361,15 @@ Tätigkeiten, die sie entsprechend den Vorgaben in Anlage 3 ausübt.
 
 
 ## Teil 2 - Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000400000)
 
 
 ### Abschnitt 1 - Gemeinsame Bestimmungen für die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000500000)
 
 
 #### § 13 Gegenstand und Teile der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001500000)
 
 (1) Gegenstand der staatlichen Prüfung zur Erlangung der Erlaubnis zum
 Führen der Berufsbezeichnung „Hebamme“ sind die in Anlage 1 genannten
@@ -373,6 +393,7 @@ Hebammengesetzes im Rahmen von Modulprüfungen durchgeführt.
 
 
 #### § 14 Bildung und Zuständigkeit des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001600000)
 
 (1) An jeder Hochschule, die das Hebammenstudium anbietet, wird ein
 Prüfungsausschuss gebildet.
@@ -382,6 +403,7 @@ Modulprüfungen zuständig.
 
 
 #### § 15 Zusammensetzung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001700000)
 
 (1) Der Prüfungsausschuss besteht aus den folgenden Mitgliedern:
 
@@ -426,6 +448,7 @@ Vorsitzenden übertragen.
 
 
 #### § 16 Benennung der Mitglieder des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001800000)
 
 (1) Die zuständige Behörde bestellt die oder den Vorsitzenden des
 Prüfungsausschusses nach § 15 Absatz 1 Nummer 1 und ein Ersatzmitglied
@@ -443,6 +466,7 @@ Prüfer.
 
 
 #### § 17 Teilnahme der Vorsitzenden des Prüfungsausschusses an der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE001901130)
 
 Die Vorsitzenden des Prüfungsausschusses haben das Recht, an den
 einzelnen Teilen der staatlichen Prüfung teilzunehmen; ihnen steht
@@ -452,6 +476,7 @@ bleiben unberührt.
 
 
 #### § 18 Zulassung zur staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002000000)
 
 (1) Auf Antrag der studierenden Person entscheiden die Vorsitzenden
 des Prüfungsausschusses, ob die studierende Person zur staatlichen
@@ -466,6 +491,7 @@ eines Tätigkeitsnachweises nach § 12 nachweist, dass sie die in Anlage
 
 
 #### § 19 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002100000)
 
 (1) Einer studierenden Person mit Behinderung oder Beeinträchtigung
 wird bei der Durchführung der staatlichen Prüfung auf Antrag ein
@@ -491,6 +517,7 @@ verändert werden.
 
 
 #### § 20 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002200000)
 
 Die in der staatlichen Prüfung erbrachten Leistungen der studierenden
 Person werden wie folgt benotet:
@@ -562,9 +589,11 @@ Person werden wie folgt benotet:
 
 
 ### Abschnitt 2 - Schriftlicher Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000600000)
 
 
 #### § 21 Gegenstand des schriftlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002300000)
 
 (1) Gegenstand des schriftlichen Teils der staatlichen Prüfung sind
 Kompetenzen in folgenden Kompetenzbereichen der Anlage 1:
@@ -588,6 +617,7 @@ durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
 
 #### § 22 Bewertung des schriftlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002401130)
 
 (1) Jede Klausur des schriftlichen Teils der staatlichen Prüfung ist
 von zwei Prüferinnen oder Prüfern zu benoten.
@@ -601,6 +631,7 @@ entsprechende Note nach § 20 zuzuordnen.
 
 
 #### § 23 Bestehen und Note des schriftlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002500000)
 
 (1) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn
 jede Klausur mindestens mit „ausreichend“ benotet worden ist.
@@ -624,9 +655,11 @@ Satz 1 ist eine Gewichtung nach dem Arbeitsaufwand vorzunehmen, wenn
 
 
 ### Abschnitt 3 - Mündlicher Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000700000)
 
 
 #### § 24 Gegenstand des mündlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002600000)
 
 (1) Gegenstand des mündlichen Teils der staatlichen Prüfung sind
 Kompetenzen in den folgenden Kompetenzbereichen der Anlage 1:
@@ -649,6 +682,7 @@ Vorsitzenden des Prüfungsausschusses bestimmt.
 
 
 #### § 25 Durchführung des mündlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002701130)
 
 (1) Der mündliche Teil der staatlichen Prüfung wird von zwei
 Prüferinnen oder Prüfern abgenommen.
@@ -661,6 +695,7 @@ und Zuhörer besteht.
 
 
 #### § 26 Bewertung des mündlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002801130)
 
 (1) Der mündliche Teil der staatlichen Prüfung wird von den
 Prüferinnen oder Prüfern bewertet, die ihn abgenommen haben.
@@ -674,15 +709,18 @@ die entsprechende Note nach § 20 zuzuordnen.
 
 
 #### § 27 Bestehen des mündlichen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE002900000)
 
 Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die
 Prüfungsleistung mindestens mit „ausreichend“ benotet worden ist.
 
 
 ### Abschnitt 4 - Praktischer Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000800000)
 
 
 #### § 28 Gegenstand des praktischen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003000000)
 
 (1) Gegenstand des praktischen Teils der staatlichen Prüfung sind
 Kompetenzen in allen Kompetenzbereichen der Anlage 1.
@@ -712,6 +750,7 @@ Vorsitzenden des Prüfungsausschusses bestimmt.
 
 
 #### § 29 Prüfungsorte und Prüfungsarten des praktischen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003100000)
 
 (1) Der erste und der dritte Prüfungsteil des praktischen Teils der
 staatlichen Prüfung werden grundsätzlich im Krankenhaus oder an der
@@ -729,6 +768,7 @@ erfolgt mit Modellen und Simulationspersonen.
 
 
 #### § 30 Ablauf der Prüfungsteile des praktischen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003200000)
 
 (1) Der erste Prüfungsteil des praktischen Teils der staatlichen
 Prüfung besteht aus
@@ -791,6 +831,7 @@ Vorbereitungsteil findet unter Aufsicht statt.
 
 
 #### § 31 Durchführung des praktischen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003302130)
 
 (1) Der praktische Teil der staatlichen Prüfung wird als Einzelprüfung
 durchgeführt.
@@ -807,6 +848,7 @@ Abnahme der praktischen Prüfung geeignet.
 
 
 #### § 32 Bewertung des praktischen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003401130)
 
 (1) Der jeweilige Prüfungsteil des praktischen Teils der staatlichen
 Prüfung wird von den Prüferinnen oder Prüfern bewertet, die ihn
@@ -822,6 +864,7 @@ zuzuordnen.
 
 
 #### § 33 Bestehen und Note des praktischen Teils der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003500000)
 
 (1) Der praktische Teil der staatlichen Prüfung ist bestanden, wenn
 jeder der drei Prüfungsteile mit mindestens „ausreichend“ benotet
@@ -847,9 +890,11 @@ ein:
 
 
 ### Abschnitt 5 - Weitere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG000900000)
 
 
 #### § 34 Bestehen und Gesamtnote der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003600000)
 
 (1) Die staatliche Prüfung hat bestanden, wer den schriftlichen Teil,
 den mündlichen Teil und den praktischen Teil der staatlichen Prüfung
@@ -877,6 +922,7 @@ der staatlichen Prüfung.
 
 
 #### § 35 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003700000)
 
 (1) Das Zeugnis zum Abschluss des Hebammenstudiums ist von der
 Hochschule im Einvernehmen mit der zuständigen Behörde auszustellen.
@@ -886,6 +932,7 @@ ausgewiesen.
 
 
 #### § 36 Wiederholung von Teilen der staatlichen Prüfung und zusätzliche Praxiseinsätze
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003800000)
 
 (1) Wenn eine studierende Person
 
@@ -918,6 +965,7 @@ Vorsitzenden des Prüfungsausschusses.
 
 
 #### § 37 Rücktritt von der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE003900000)
 
 (1) Tritt eine studierende Person nach ihrer Zulassung, aber vor
 Beginn der Prüfungshandlung von einem Bestandteil der staatlichen
@@ -940,6 +988,7 @@ betroffene Bestandteil nach Absatz 1 nicht bestanden.
 
 
 #### § 38 Versäumnisse
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004000000)
 
 Versäumt eine studierende Person einen Bestandteil der staatlichen
 Prüfung nach § 36 Absatz 1 Nummer 1 bis 3, ist § 37 entsprechend
@@ -948,6 +997,7 @@ nach Beginn der Prüfungshandlung gilt als Versäumnis.
 
 
 #### § 39 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004100000)
 
 (1) Hat eine studierende Person die ordnungsgemäße Durchführung der
 staatlichen Prüfung in erheblichem Maß gestört oder eine Täuschung
@@ -964,6 +1014,7 @@ zulässig.
 
 
 #### § 40 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004200000)
 
 (1) Über die staatliche Prüfung ist eine Niederschrift zu erstellen.
 
@@ -973,6 +1024,7 @@ hervorgehen.
 
 
 #### § 41 Aufbewahrung von Prüfungsunterlagen und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004300000)
 
 (1) Die Klausuren der staatlichen Prüfung sind drei Jahre
 aufzubewahren. Anträge auf Zulassung zur staatlichen Prüfung und
@@ -988,9 +1040,11 @@ Aufbewahrung derselben regelt die Hochschule.
 
 
 ## Teil 3 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001000000)
 
 
 ### § 42 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004400000)
 
 (1) Bei der Erteilung der Erlaubnis zum Führen der Berufsbezeichnung
 nach § 5 Absatz 1 des Hebammengesetzes verwendet die zuständige
@@ -1007,12 +1061,15 @@ Muster der Erlaubnisurkunde nach Anlage 6.
 
 
 ## Teil 4 - Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001100000)
 
 
 ### Abschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001200000)
 
 
 #### § 43 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004501000)
 
 (1) Beantragt eine Person, die außerhalb des Geltungsbereiches des
 Hebammengesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach §
@@ -1042,6 +1099,7 @@ innerhalb von zwei Monaten erfolgen.
 
 
 #### § 43a Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007400125)
 
 (1) Personen, die die Erlaubnis zum Führen der Berufsbezeichnung nach
 § 5 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs
@@ -1146,6 +1204,7 @@ Gründe gegen eine entsprechende Absicht sprechen.
 
 
 #### § 44 Bescheide bei Feststellung wesentlicher Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004600000)
 
 (1) Stellt die Behörde hinsichtlich der Gleichwertigkeit der
 Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie der
@@ -1189,9 +1248,11 @@ antragstellenden Person einen rechtsmittelfähigen Bescheid.
 
 
 ### Abschnitt 2 - Anpassungsmaßnahmen nach § 58 des Hebammengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001300000)
 
 
 #### § 45 Gegenstand, Ablauf und Ort der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004700000)
 
 (1) In der Eignungsprüfung hat die zu prüfende Person nachzuweisen,
 dass sie über die Kompetenzen verfügt, die zum Ausgleich der von der
@@ -1243,6 +1304,7 @@ Prüfungsteile fest.
 
 
 #### § 46 Durchführung und Abschluss der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004801130)
 
 (1) Die Eignungsprüfung wird als staatliche Prüfung durchgeführt. Die
 Länder können zur Durchführung der Eignungsprüfung die
@@ -1278,6 +1340,7 @@ dem Muster der Anlage 7 erteilt.
 
 
 #### § 47 Inhalt und Durchführung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE004900000)
 
 (1) Ziel des Anpassungslehrgangs nach § 58 des Hebammengesetzes ist
 es, die von der zuständigen Behörde festgestellten wesentlichen
@@ -1307,9 +1370,11 @@ Anpassungslehrgang und verwenden dabei das Muster der Anlage 8.
 
 
 ### Abschnitt 3 - Anpassungsmaßnahmen nach § 59 des Hebammengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001400000)
 
 
 #### § 48 Gegenstand der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005000000)
 
 (1) In der Kenntnisprüfung hat die zu prüfende Person nachzuweisen,
 dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der
@@ -1321,6 +1386,7 @@ praktischen Teil.
 
 
 #### § 49 Mündlicher Teil der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005101130)
 
 (1) Im mündlichen Teil der Kenntnisprüfung ist eine Aufgabenstellung
 zu bearbeiten, die Anforderungen aus dem Kompetenzbereich I der Anlage
@@ -1349,6 +1415,7 @@ Fragerecht zu.
 
 
 #### § 50 Praktischer Teil der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005201130)
 
 (1) Im praktischen Teil der Kenntnisprüfung hat die zu prüfende Person
 in drei Betreuungssituationen nachzuweisen, dass sie die vorbehaltenen
@@ -1413,6 +1480,7 @@ anwesend sein; ihnen steht ein Fragerecht zu.
 
 
 #### § 51 Durchführung und Abschluss der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005300000)
 
 (1) Die Kenntnisprüfung wird als staatliche Prüfung durchgeführt. Die
 Länder können zur Durchführung der Kenntnisprüfung die
@@ -1435,6 +1503,7 @@ erteilt.
 
 
 #### § 52 Inhalt und Durchführung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005400000)
 
 (1) Ziel des Anpassungslehrgangs nach § 59 des Hebammengesetzes ist
 es, festzustellen, dass die teilnehmende Person über die Kompetenzen
@@ -1464,6 +1533,7 @@ in angemessenem Umfang beteiligt werden.
 
 
 #### § 53 Abschluss des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005500000)
 
 (1) Der Anpassungslehrgang nach § 59 des Hebammengesetzes schließt mit
 einer Prüfung über die vermittelten Kompetenzen in Form eines
@@ -1492,9 +1562,11 @@ Anpassungslehrgang und verwenden dabei das Muster der Anlage 10.
 
 
 ### Abschnitt 4 - Nachweise der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Berufsqualifikationen aus einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001500000)
 
 
 #### § 54 Nachweise der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005600000)
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen
 Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
@@ -1538,6 +1610,7 @@ Erklärung gibt, ersetzen.
 
 
 #### § 55 Nachweise der gesundheitlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005700000)
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen
 Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
@@ -1554,6 +1627,7 @@ ist.
 
 
 #### § 56 Aktualität von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005800000)
 
 Die Nachweise nach den §§ 54 und 55 dürfen von der zuständigen Behörde
 der Beurteilung nur zugrunde gelegt werden, wenn der Zeitpunkt, zu dem
@@ -1561,9 +1635,11 @@ sie ausgestellt worden sind, höchstens drei Monate zurückliegt.
 
 
 ### Abschnitt 5 - Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001700125)
 
 
 #### § 56a Frist der Behörde für die Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007500125)
 
 Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung
 nach § 59a des Hebammengesetzes, so bestätigt die zuständige Behörde
@@ -1573,6 +1649,7 @@ erforderlichen Voraussetzungen nachzuweisen.
 
 
 #### § 56b Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007600125)
 
 (1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach §
 59a des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs
@@ -1673,6 +1750,7 @@ Gründe gegen eine entsprechende Absicht sprechen.
 
 
 #### § 56c Frist der Behörde für die Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007700125)
 
 Die zuständige Behörde entscheidet kurzfristig über den Antrag,
 spätestens jedoch drei Monate nach Vorlage der vollständigen
@@ -1680,15 +1758,18 @@ Unterlagen durch die antragstellende Person.
 
 
 #### § 56d Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007800125)
 
 Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach §
 59a des Hebammengesetzes ist das Muster nach Anlage 11 zu verwenden.
 
 
 ### Abschnitt 6 - Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001800125)
 
 
 #### § 56e Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007900125)
 
 (1) Personen, die eine Genehmigung nach § 62a Absatz 1 des
 Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des
@@ -1759,9 +1840,11 @@ entsprechend.
 
 
 ## Teil 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNG001600000)
 
 
 ### § 57 Übergangsvorschriften zur fachschulischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE005902125)
 
 (1) Für fachschulische Ausbildungen zur Hebamme oder zum
 Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen worden
@@ -1846,6 +1929,7 @@ allgemeine Schulbildung verfügt.
 
 
 ### § 58 Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006001130)
 
 (1) Für Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor
 dem 31. Dezember 2022 in Form von Modellvorhaben begonnen worden sind,
@@ -1889,6 +1973,7 @@ Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
 
 
 ### § 59 Ausnahmeregelung zur Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006100000)
 
 (1) Auf Personen, die am 31. Dezember 2019 als praxisanleitende Person
 tätig sind oder auf der Grundlage des Hebammengesetzes in der bis zum
@@ -1901,6 +1986,7 @@ geeigneter Form nachzuweisen.
 
 
 ### § 60 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006200000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. Januar
 2020 in Kraft. § 43 Absatz 4 tritt am 1. März 2020 in Kraft.
@@ -1913,6 +1999,7 @@ Dezember 2019 außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006300000)
 
 Der Bundesrat hat zugestimmt.
 
@@ -1921,6 +2008,7 @@ Der Bundesrat hat zugestimmt.
 § 45 Absatz 3, § 48 Absatz 2, § 49 Absatz 1 und § 50 Absatz 2)
 
 ### Anlage 1 Kompetenzen für die staatliche Prüfung zur Hebamme
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006400000)
 
 (Fundstelle: BGBl. I 2020, 51 - 53)
 
@@ -2287,6 +2375,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 8 Absatz 1)
 
 ### Anlage 2 Stundenverteilung der Praxiseinsätze des Hebammenstudiums
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006500000)
 
 (Fundstelle: BGBl. I 2020, 54)
 
@@ -2372,6 +2461,7 @@ _\_\__\_\__\_\_
 (zu § 8 Absatz 2, den §§ 12 und 18 Absatz 2)
 
 ### Anlage 3 Inhalt der Praxiseinsätze
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006600000)
 
 (Fundstelle: BGBl. I 2020, 55)
 
@@ -2426,6 +2516,7 @@ auszuüben:
 (zu § 42 Absatz 1)
 
 ### Anlage 4 Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006701125)
 
 (Fundstelle: BGBl. I 2020, 56)
 
@@ -2493,6 +2584,7 @@ auszuüben:
    (zu § 42 Absatz 2)
 
 ### Anlage 5 Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006801125)
 
 (Fundstelle: BGBl. I 2020, 57)
 
@@ -2568,6 +2660,7 @@ auszuüben:
    (zu § 42 Absatz 3)
 
 ### Anlage 6 Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE006901125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 43 – 44)
 
@@ -2701,6 +2794,7 @@ versión vigente.**
    (zu § 57 Absatz 8)
 
 ### Anlage 6a Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE008000125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 44 – 45)
 
@@ -2837,6 +2931,7 @@ versión vigente.**
 (zu § 46 Absatz 4)
 
 ### Anlage 7 Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007001125)
 
 (Fundstelle: BGBl. I 2020, 59)
 
@@ -2916,6 +3011,7 @@ _\_\__\_\_\_\_
 (zu § 47 Absatz 3)
 
 ### Anlage 8 Bescheinigung über die Teilnahme am Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007101125)
 
 (Fundstelle: BGBl. I 2020, 60)
 
@@ -2994,6 +3090,7 @@ _\_\__\_\_\_\_
 (zu § 51 Absatz 4)
 
 ### Anlage 9 Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007201125)
 
 (Fundstelle: BGBl. I 2020, 61)
 
@@ -3069,6 +3166,7 @@ _\_\__\_\_\_\_
 (zu § 53 Absatz 4)
 
 ### Anlage 10 Bescheinigung über die Teilnahme am Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE007301125)
 
 (Fundstelle: BGBl. I 2020, 62)
 
@@ -3153,6 +3251,7 @@ _\_\__\_\_\_\_
 (zu § 56d)
 
 ### Anlage 11 Urkunde über die Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE008100125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 46)
 
@@ -3222,6 +3321,7 @@ Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
    (zu § 3 Absatz 1)
 
 ### Anlage 12 Fächerkatalog gemäß Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG über den theoretischen und fachlichen Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/hebstprv/BJNR003900020.html#BJNR003900020BJNE008200125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 46 – 47)
 

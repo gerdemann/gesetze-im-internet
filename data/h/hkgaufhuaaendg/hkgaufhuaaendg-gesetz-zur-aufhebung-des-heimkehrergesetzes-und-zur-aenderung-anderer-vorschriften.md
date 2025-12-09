@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## Art 1 - Aufhebung des Heimkehrergesetzes (84-1)
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNG000100307)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNE000500307)
 
 Es treten außer Kraft:
 
@@ -42,6 +44,7 @@ Es treten außer Kraft:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNE000600307)
 
 § 7 Abs. 3 des Heimkehrergesetzes ist in der bis zum 28. Dezember 1991
 geltenden Fassung weiter anzuwenden auf Arbeitsverhältnisse, in denen
@@ -51,6 +54,7 @@ Betriebszugehörigkeit angerechnet worden sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNE000700307)
 
 § 10 des Heimkehrergesetzes und der Zweite Abschnitt der Verordnung
 zur Durchführung des Gesetzes über Hilfsmaßnahmen für Heimkehrer sind
@@ -61,10 +65,12 @@ eingetreten ist und erstmals Leistungen beantragt hat.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNG000200307)
 
 
 
 ## Art 3 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNG000300307)
 
 Die auf Artikel 2 Nr. 1, 4 und 17 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
@@ -72,6 +78,7 @@ Ermächtigung durch Rechtsverordnungen geändert werden.
 
 
 ## Art 4 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hkgaufhua_ndg/BJNR023179991.html#BJNR023179991BJNG000400307)
 
 Artikel 1 tritt am 1. Januar 1992 in Kraft, soweit er § 1 des in
 Artikel 1 Nr. 1 genannten Gesetzes betrifft. Im übrigen tritt das

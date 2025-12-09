@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000100314)
 
 Auf Grund des Artikels 130 des Grundgesetzes für die Bundesrepublik
 Deutschland verordnet die Bundesregierung mit Zustimmung des
@@ -28,6 +29,7 @@ Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000200314)
 
 Mit Wirkung vom 1. April 1950 werden folgende Verwaltungsstellen der
 Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
@@ -79,6 +81,7 @@ Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000301320)
 
 (1) Die Befugnisse, die den in § 1 angeführten Verwaltungsstellen
 zustanden, die Geltendmachung der Ansprüche und die Erfüllung der
@@ -139,6 +142,7 @@ anderes Bundesministerium übertragen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000401320)
 
 (1) Folgende Behörden und Einrichtungen werden von der Auflösung gemäß
 § 1 nicht betroffen, sondern in die Verwaltung des Bundes überführt:
@@ -223,6 +227,7 @@ dieser Stellen ändern.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000500314)
 
 Das Deutsche Patentamt im Vereinigten Wirtschaftsgebiet wird in die
 Verwaltung des Bundes überführt. Es führt die Bezeichnung "Deutsches
@@ -230,6 +235,7 @@ Patentamt".
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000600314)
 
 Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird in die
 Verwaltung des Bundes überführt. Es führt die Bezeichnung
@@ -237,6 +243,7 @@ Verwaltung des Bundes überführt. Es führt die Bezeichnung
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wivwauflv/BJNR006780950.html#BJNR006780950BJNE000700314)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1950 in Kraft.
 

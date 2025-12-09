@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000100000)
 
 Auf Grund des § 86f des Steuerberatungsgesetzes, der durch Artikel 4
 Nummer 35 des Gesetzes vom 7. Juli 2021 (BGBl. I S. 2363) eingefügt
@@ -29,9 +30,11 @@ der Bundessteuerberaterkammer:
 
 
 ## Abschnitt 1 - Steuerberaterplattform
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNG000100000)
 
 
 ### § 1 Führung der Steuerberaterplattform
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000300000)
 
 (1) Die Bundessteuerberaterkammer hat die Steuerberaterplattform auf
 der Grundlage des Protokoll standards „Online Services Computer
@@ -67,6 +70,7 @@ erhalten. Das Zertifikat ist zu veröffentlichen.
 
 
 ### § 2 Einrichtung der Nutzerkonten
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000400000)
 
 (1) Die Bundessteuerberaterkammer richtet den Steuerberatern, den
 Steuerbevollmächtigten und den Berufsausübungsgesellschaften im Sinne
@@ -95,6 +99,7 @@ registrieren.
 
 
 ### § 3 Registrierung bei der Steuerberaterplattform und Erstanmeldung am besonderen elektronischen Steuerberaterpostfach
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000500000)
 
 (1) Die Registrierung bei der Steuerberaterplattform und die
 Erstanmeldung am besonderen elektronischen Steuerberaterpostfach nach
@@ -105,6 +110,7 @@ Identifizierung und Authentisierung erforderlich.
 
 
 ### § 4 Identifizierung und Authentisierung bei der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000601123)
 
 (1) Die Identifizierung und Authentisierung des Steuerberaters, des
 Steuerbevollmächtigten oder der Leitungspersonen einer
@@ -154,6 +160,7 @@ ist.
 
 
 ### § 5 Digitale Steuerberateridentität
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000700000)
 
 (1) Steuerberater, Steuerbevollmächtigte und
 Berufsausübungsgesellschaften erhalten auf der Steuerberaterplattform
@@ -167,6 +174,7 @@ Steuerberaterplattform angeschlossenen Dienste bereitgestellt.
 
 
 ### § 6 Nutzung für hoheitliche elektronische Verwaltungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000800000)
 
 Die Bundessteuerberaterkammer und die Steuerberaterkammern können die
 Steuerberaterplattform für die Erfüllung ihrer Aufgaben nach dem
@@ -175,6 +183,7 @@ digitale Steuerberateridentität zurückgreifen.
 
 
 ### § 7 Weitere Zugangsberechtigungen für das Nutzerkonto
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE000900000)
 
 (1) Wird für einen Steuerberater, einen Steuerbevollmächtigten oder
 eine Berufsausübungsgesellschaft ein Praxisabwickler, Praxistreuhänder
@@ -192,6 +201,7 @@ Bundessteuerberaterkammer.
 
 
 ### § 8 Datensicherheit; unbefugter Zugriff
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001000000)
 
 (1) Der Inhaber eines Nutzerkontos darf dieses keiner weiteren Person
 überlassen und hat die für ihn erstellten Zugangsdaten geheim zu
@@ -217,6 +227,7 @@ dauerhaft auf ihrer Internetseite zu veröffentlichen.
 
 
 ### § 9 Sperrung eines Nutzerkontos
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001100000)
 
 (1) Sobald der Eintrag zu einer Person oder einer
 Berufsausübungsgesellschaft aus dem Berufsregister gelöscht wurde,
@@ -245,6 +256,7 @@ Nutzerkontos von einer Steuerberaterkammer in eine andere wechselt.
 
 
 ### § 10 Löschung eines Nutzerkontos
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001200000)
 
 (1) Gesperrte Nutzerkonten auf der Steuerberaterplattform werden nach
 Ablauf von sechs Monaten nach der Sperrung gelöscht.
@@ -258,9 +270,11 @@ oder des Treuhandverhältnisses gelöscht werden.
 
 
 ## Abschnitt 2 - Besonderes elektronisches Steuerberaterpostfach
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNG000200000)
 
 
 ### § 11 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001300000)
 
 (1) Das besondere elektronische Steuerberaterpostfach dient der
 elektronischen Kommunikation der in das Steuerberaterverzeichnis
@@ -285,6 +299,7 @@ Mitgliedern der Steuerberaterkammern gleich.
 
 
 ### § 12 Elektronische Adressatensuche
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001400000)
 
 (1) Die Bundessteuerberaterkammer hat den Mitgliedern der
 Steuerberaterkammern, den nach § 76a Absatz 2 des
@@ -305,6 +320,7 @@ Kommunikation ermöglicht wird.
 
 
 ### § 13 Führung der besonderen elektronischen Steuerberaterpostfächer
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001500000)
 
 (1) Die Bundessteuerberaterkammer hat die besonderen elektronischen
 Steuerberaterpostfächer auf der Grundlage des Protokollstandards
@@ -353,6 +369,7 @@ Verordnung sein.
 
 
 ### § 14 Einrichtung eines besonderen elektronischen Steuerberaterpostfachs
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001601123)
 
 (1) Die Bundessteuerberaterkammer richtet unverzüglich nach der
 Unterrichtung über die Eintragung einer Person oder einer
@@ -404,6 +421,7 @@ und für sich besondere elektronische Steuerberaterpostfächer ein.
 
 
 ### § 15 Erstanmeldung am besonderen elektronischen Steuerberaterpostfach
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001700000)
 
 (1) Die Erstanmeldung am besonderen elektronischen
 Steuerberaterpostfach erfolgt mittels
@@ -429,6 +447,7 @@ unbefugten Verwendung zu schützen (Zertifikats-Passwort).
 
 
 ### § 16 Weitere Zugangsberechtigungen für das besondere elektronische Steuerberaterpostfach
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001800000)
 
 (1) Der Postfachinhaber kann Dritten Zugang zu seinem besonderen
 elektronischen Steuerberaterpostfach gewähren, indem er ihnen den
@@ -466,6 +485,7 @@ private Schlüssel importiert wurde.
 
 
 ### § 17 Zugangsberechtigung für die besonderen elektronischen Steuerberaterpostfächer der Steuerberaterkammern und der Bundessteuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE001900000)
 
 (1) Die Steuerberaterkammern und die Bundessteuerberaterkammer
 bestimmen die natürlichen Personen, die Zugang zu ihrem besonderen
@@ -481,6 +501,7 @@ Absatz 1 Satz 2 und Absatz 3 bis 5 gilt entsprechend.
 
 
 ### § 18 Anmeldung am besonderen elektronischen Steuerberaterpostfach; Übermittlung von Dokumenten mit nicht-qualifizierter Signatur
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002001123)
 
 (1) Die Anmeldung des Postfachinhabers an seinem besonderen
 elektronischen Steuerberaterpostfach erfolgt mit dem privaten
@@ -497,6 +518,7 @@ Steuerberaterkammer genutzt werden.
 
 
 ### § 19 Praxisabwickler, Praxistreuhänder, Vertreter und Zustellungsbevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002100000)
 
 (1) Wird für einen Steuerberater, einen Steuerbevollmächtigten oder
 eine Berufsausübungsgesellschaft ein Praxisabwickler oder
@@ -537,6 +559,7 @@ Steuerberaterpostfach einzuräumen, so gilt Absatz 2 entsprechend.
 
 
 ### § 20 Datensicherheit; unbefugter Zugriff
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002200000)
 
 (1) Der Postfachinhaber darf den von ihm erzeugten privaten Schlüssel
 keiner unbefugten Person weitergeben und hat das dem privaten
@@ -571,6 +594,7 @@ Sperrung des Postfachs bei der Bundessteuerberaterkammer sein.
 
 
 ### § 21 Automatisches Löschen von Nachrichten
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002300000)
 
 (1) Noch nicht abgerufene Nachrichten dürfen frühestens 90 Tage nach
 ihrem Eingang automatisch in den Papierkorb des besonderen
@@ -585,6 +609,7 @@ gelöscht werden.
 
 
 ### § 22 Sperrung des besonderen elektronischen Steuerberaterpostfachs
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002401123)
 
 (1) Die Bundessteuerberaterkammer sperrt ein besonderes elektronisches
 Steuerberaterpostfach, sobald
@@ -617,6 +642,7 @@ erfolgt ist, ist sie auf dessen Antrag wieder aufzuheben.
 
 
 ### § 23 Löschung des besonderen elektronischen Steuerberaterpostfachs
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002500000)
 
 (1) Gesperrte besondere elektronische Steuerberaterpostfächer werden
 einschließlich der darin gespeicherten Nachrichten nach Ablauf von
@@ -632,14 +658,17 @@ gelöscht werden.
 
 
 ## Abschnitt 3 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNG000300000)
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002600000)
 
 Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stbppv/BJNR210500022.html#BJNR210500022BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 

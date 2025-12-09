@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/BJNR001500988.html#BJNR001500988BJNE000100325)
 
 Auf Grund des § 88 Abs. 4 des Bundessozialhilfegesetzes in der Fassung
 der Bekanntmachung vom 20. Januar 1987 (BGBl. I S. 401) wird mit
@@ -27,6 +28,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/BJNR001500988.html#BJNR001500988BJNE000212116)
 
 Kleinere Barbeträge oder sonstige Geldwerte im Sinne des § 90 Absatz 2
 Nummer 9 des Zwölften Buches Sozialgesetzbuch sind:
@@ -49,6 +51,7 @@ oder eines Elternteils abhängig ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/BJNR001500988.html#BJNR001500988BJNE000302116)
 
 (1) Der nach § 1 maßgebende Betrag ist angemessen zu erhöhen, wenn im
 Einzelfall eine besondere Notlage der nachfragenden Person besteht.
@@ -62,6 +65,7 @@ vorliegen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/BJNR001500988.html#BJNR001500988BJNE000401310)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 136 des Zwölften Buches Sozialgesetzbuch auch im Land
@@ -69,11 +73,13 @@ Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/BJNR001500988.html#BJNR001500988BJNE000500325)
 
 Diese Verordnung tritt am 1. April 1988 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/BJNR001500988.html#BJNR001500988BJNE000600325)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 

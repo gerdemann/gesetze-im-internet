@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000100000)
 
 Auf Grund des § 91 Abs. 8 in Verbindung mit Abs. 3 Satz 1 und 2 des
 Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970) in
@@ -34,6 +35,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000200000)
 
 Die Bundesnetzagentur erhebt für kostenpflichtige Amtshandlungen nach
 dem Energiewirtschaftsgesetz Gebühren und Auslagen nach dieser
@@ -41,12 +43,14 @@ Verordnung.
 
 
 ## § 2 Gebührenhöhe
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000300000)
 
 Die Höhe einer zu erhebenden Gebühr richtet sich nach dem
 Gebührenverzeichnis in der Anlage.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000403118)
 
 (1) Diese Verordnung findet auch auf Verfahren Anwendung, die bereits
 vor ihrem Inkrafttreten begonnen haben, soweit dafür Gebühren oder
@@ -67,17 +71,20 @@ bleibt unberührt.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html#BJNR054000006BJNE000710377)
 
 (Fundstelle: BGBl. I 2022, 2277 – 2285)
 

@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE000103377)
 
 
 *    *   (weggefallen)
@@ -86,10 +87,12 @@ Zuletzt geändert durch
 
 
 ## (XXXX) §§ 1 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE000206377)
 
 
 
 ## § 5 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE000602377)
 
 Anlagen zur Lagerung, Abfüllung oder Beförderung brennbarer
 Flüssigkeiten müssen ferner den über § 4 Abs. 1 hinausgehenden
@@ -99,6 +102,7 @@ gestellt werden. § 9 Abs. 4 Satz 2 und 3 bleibt unberührt.
 
 
 ## § 6 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE000703377)
 
 Die zuständige Behörde kann für Anlagen im Einzelfall aus besonderen
 Gründen Ausnahmen von § 4 Abs. 1 Satz 1 zulassen, wenn die Sicherheit
@@ -106,6 +110,7 @@ auf andere Weise gewährleistet ist.
 
 
 ## § 7 Anlagen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE000806118)
 
 (1) Für Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des
 Bundes, der Bundeswehr sowie der Bundespolizei stehen die Befugnisse
@@ -117,11 +122,13 @@ bestimmten Behörde zu.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE000902377)
 
 (weggefallen)
 
 
 ## § 9 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE001004377)
 
 (1) und (2) (weggefallen)
 
@@ -148,19 +155,23 @@ für die Beurteilung der Anlage erforderlichen Unterlagen beizufügen.
 
 
 ## (XXXX) §§ 10 und 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE001103377)
 
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE001303308)
 
 (weggefallen)
 
 
 ## (XXXX) §§ 13 bis 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE001403377)
 
 
 
 ## § 24 Aufsicht über Anlagen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE002507118)
 
 Aufsichtsbehörde für Anlagen der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes, der Bundeswehr sowie der
@@ -170,19 +181,23 @@ bestimmte Behörde.
 
 
 ## (XXXX) §§ 25 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE002605377)
 
 
 
 ## § 29
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE003002308)
 
 (weggefallen)
 
 
 ## § 30
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE003101308)
 
 (Außerkrafttreten anderer Vorschriften)
 
 
 ## (XXXX) Anhang I und II (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfv_1980/BJNR002290980.html#BJNR002290980BJNE003202377)
 
 

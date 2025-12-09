@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbapakg/BJNR083620995.html#BJNR083620995BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbapakg/BJNR083620995.html#BJNR083620995BJNE000200310)
 
 Dem in Islamabad am 14. Juli 1994 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Islamischen Republik Pakistan
@@ -36,6 +38,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbapakg/BJNR083620995.html#BJNR083620995BJNE000300310)
 
 Soweit das Abkommen auf Grund seines Artikels 28 Abs. 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -52,6 +55,7 @@ wird der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbapakg/BJNR083620995.html#BJNR083620995BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

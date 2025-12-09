@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lebpabkg_pol/BJNR033820015.html#BJNR033820015BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/lebpabkg_pol/BJNR033820015.html#BJNR033820015BJNE000200000)
 
 Dem in Warschau am 5. Dezember 2014 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Polen zum Export
@@ -34,6 +36,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/lebpabkg_pol/BJNR033820015.html#BJNR033820015BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die zur Durchführung des Abkommens
@@ -59,6 +62,7 @@ getroffen werden über
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/lebpabkg_pol/BJNR033820015.html#BJNR033820015BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

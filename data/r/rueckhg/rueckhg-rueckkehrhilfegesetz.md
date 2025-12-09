@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000100317)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anspruchsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000202308)
 
 (1) Anspruch auf Rückkehrhilfe haben Arbeitnehmer, die
 
@@ -76,6 +78,7 @@ und über eine eigenständige Sicherung des Lebensunterhalts verfügt.
 
 
 ## § 2 Höhe der Rückkehrhilfe
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000300317)
 
 (1) Die Rückkehrhilfe beträgt 10.500 DM. Der Betrag erhöht sich für
 jedes Kind des Arbeitnehmers, das sich im Geltungsbereich dieses
@@ -93,12 +96,14 @@ wird eine Rückkehrhilfe nicht mehr gezahlt.
 
 
 ## § 3 Beauftragung der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000403308)
 
 Die Rückkehrhilfe wird nach fachlichen Weisungen des Bundesministers
 für Arbeit und Soziales durch die Bundesagentur für Arbeit gewährt.
 
 
 ## § 4 Aufbringung der Mittel durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000501308)
 
 Die Aufwendungen der Bundesagentur für Arbeit für die Gewährung der
 Rückkehrhilfe trägt der Bund. Verwaltungskosten werden nicht
@@ -106,6 +111,7 @@ erstattet.
 
 
 ## § 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000601308)
 
 Die Rückkehrhilfe ist schriftlich bei der Agentur für Arbeit zu
 beantragen. Für die Entgegennahme des Antrags und die Entscheidung
@@ -118,6 +124,7 @@ Buches Sozialgesetzbuch Anwendung.
 
 
 ## § 6 Bescheinigung des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000701308)
 
 Der Arbeitgeber hat dem Arbeitnehmer alle Tatsachen, die nach § 1 Abs.
 1 Nr. 2 Buchstabe a und b für die Entscheidung über den Anspruch auf
@@ -129,6 +136,7 @@ Arbeitnehmer für dessen Antrag auf Rückkehrhilfe auszuhändigen.
 
 
 ## § 7 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000803308)
 
 (1) Rückkehrwillige Ausländer sind auf Verlangen über allgemeine
 Rückkehrbedingungen und über die Möglichkeiten der beruflichen
@@ -144,6 +152,7 @@ Information der Berater sowie Kosten der Koordinierung trägt der Bund.
 
 
 ## § 8 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/r_ckhg/BJNR113770983.html#BJNR113770983BJNE000900317)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

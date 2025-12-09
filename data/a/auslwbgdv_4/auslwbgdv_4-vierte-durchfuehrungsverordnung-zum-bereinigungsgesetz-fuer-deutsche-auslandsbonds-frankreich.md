@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000100304)
 
 Auf Grund des § 23 Abs. 5, des § 35 Abs. 2 und des § 76 des
 Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
@@ -26,6 +27,7 @@ Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000200304)
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
@@ -41,6 +43,7 @@ Gesetzes bestellten Auslandsbevollmächtigten sowie einen für ihn nach
 
 
 ## § 2 Hinterlegung der Bonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000300304)
 
 Eine Hinterlegung von Auslandsbonds nach § 23 Abs. 2 des Gesetzes ist
 in Frankreich nur bei einer für den angemeldeten Bond zuständigen
@@ -50,12 +53,14 @@ zuzulassen, bleibt unberührt.
 
 
 ## § 3 Verfahren bei der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000400304)
 
 Für die Anmeldung soll der Vordruck verwendet werden, der vom
 Auslandsbevollmächtigten zur Verfügung gestellt wird.
 
 
 ## § 4 Gesetzliches Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000500304)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen des
 Auslandsbevollmächtigten wird nach § 35 des Gesetzes für Frankreich
@@ -83,6 +88,7 @@ Nachfolgers gilt Absatz 2.
 
 
 ## § 5 Verfahren vor dem gesetzlichen Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000600304)
 
 (1) Der Antrag auf schiedsgerichtliche Entscheidung ist bei dem
 Auslandsbevollmächtigten schriftlich einzureichen. Dem Antrag sind
@@ -115,6 +121,7 @@ sowie die Treuhänder und Zahlungsagenten von der Entscheidung.
 
 
 ## § 6 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000700304)
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können in
 Frankreich gemäß § 70 Abs. 2 des Gesetzes durch eingeschriebenen Brief
@@ -122,6 +129,7 @@ gegen Rückschein bewirkt werden.
 
 
 ## § 7 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000800304)
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
@@ -130,6 +138,7 @@ diese Rechtsverordnung auch im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_4/BJNR513410953.html#BJNR513410953BJNE000900304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

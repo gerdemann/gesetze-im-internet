@@ -25,9 +25,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000201116)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von
@@ -146,6 +148,7 @@ den Betrieb von
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000300000)
 
 (1) „Abgas“ im Sinne dieser Verordnung ist das Trägergas mit den
 festen, flüssigen oder gasförmigen Emissionen, angegeben als
@@ -380,6 +383,7 @@ Verbrennung gasförmiger Brennstoffe nach dem Ottoprinzip arbeitet.
 
 
 ### § 3 Bezugssauerstoffgehalt
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000400000)
 
 Emissionsgrenzwerte beziehen sich auf einen Volumengehalt an
 Sauerstoff im Abgas von
@@ -401,6 +405,7 @@ Sauerstoff im Abgas von
 
 
 ### § 4 Aggregationsregeln
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000500000)
 
 (1) Werden in einer Anlage nach § 1 Absatz 3 der Verordnung über
 genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom
@@ -426,6 +431,7 @@ genehmigungsbedürftigen Feuerungsanlage sind.
 
 
 ### § 5 Emissionsrelevante Änderung in einer Feuerungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000600000)
 
 (1) Eine emissionsrelevante Änderung an einer nicht
 genehmigungsbedürftigen Feuerungsanlage liegt regelmäßig vor bei
@@ -447,6 +453,7 @@ Immissionsschutzgesetzes.
 
 
 ### § 6 Registrierung von Feuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000700000)
 
 (1) Der Betreiber einer Feuerungsanlage nach § 1 Absatz 1 Nummer 1 und
 3 hat vor der Inbetriebnahme den beabsichtigten Betrieb der
@@ -494,6 +501,7 @@ davon unberührt.
 
 
 ### § 7 Aufzeichnungs- und Aufbewahrungspflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000800000)
 
 (1) Der Betreiber einer Feuerungsanlage hat folgende Aufzeichnungen zu
 führen:
@@ -569,15 +577,18 @@ Umweltinformationen zugänglich zu machen.
 
 
 ### § 8 An- und Abfahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE000900000)
 
 Der Betreiber hält die An- und Abfahrzeiten von Feuerungsanlagen
 möglichst kurz.
 
 
 ## Abschnitt 2 - Anforderungen an die Errichtung und den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNG000200000)
 
 
 ### § 9 Emissionsgrenzwerte für Ammoniak
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001000000)
 
 Feuerungsanlagen, die selektive katalytische Reduktion oder selektive
 nichtkatalytische Reduktion einsetzen, sind so zu errichten und zu
@@ -587,6 +598,7 @@ Massenkonzentration von 30 mg/m
 
 
 ### § 10 Emissionsgrenzwerte für Feuerungsanlagen bei Einsatz von festen Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001100000)
 
 (1) Feuerungsanlagen, die feste Brennstoffe einsetzen, sind so zu
 errichten und zu betreiben, dass die Anforderungen der Absätze 2 bis
@@ -902,6 +914,7 @@ bestehenden Anlagen mit einer Feuerungswärmeleistung von weniger als
 
 
 ### § 11 Emissionsgrenzwerte bei Einsatz von flüssigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von 10 Megawatt oder mehr oder in genehmigungsbedürftigen mittelgroßen Feuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001200000)
 
 (1) Nicht genehmigungsbedürftige mittelgroße Feuerungsanlagen mit
 einer Feuerungswärmeleistung von 10 Megawatt oder mehr und
@@ -1032,6 +1045,7 @@ von 0,35 g/m
 
 
 ### § 12 Emissionsgrenzwerte bei Einsatz von flüssigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von weniger als 10 Megawatt
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001300000)
 
 (1) Nicht genehmigungsbedürftige mittelgroße Feuerungsanlagen mit
 einer Feuerungswärmeleistung von weniger als 10 Megawatt, die flüssige
@@ -1069,6 +1083,7 @@ gelten die Anforderungen des § 11 entsprechend.
 
 
 ### § 13 Emissionsgrenzwerte bei Einsatz von gasförmigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von 10 Megawatt oder mehr oder in genehmigungsbedürftigen mittelgroßen Feuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001400000)
 
 (1) Nicht genehmigungsbedürftige mittelgroße Feuerungsanlagen mit
 einer Feuerungswärmeleistung von 10 Megawatt oder mehr und
@@ -1284,6 +1299,7 @@ als Schwefeldioxid, nicht überschreiten:
 
 
 ### § 14 Emissionsgrenzwerte bei Einsatz von gasförmigen Brennstoffen in nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer Feuerungswärmeleistung von weniger als 10 Megawatt
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001500000)
 
 (1) Nicht genehmigungsbedürftige mittelgroße Feuerungsanlagen mit
 einer Feuerungswärmeleistung von weniger als 10 Megawatt, die
@@ -1324,6 +1340,7 @@ die Anforderungen des § 13 entsprechend.
 
 
 ### § 15 Emissionsgrenzwerte für Gasturbinenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001600000)
 
 (1) Gasturbinenanlagen sind so zu errichten und zu betreiben, dass die
 Anforderungen der Absätze 2, 3 Satz 1, des Absatzes 4 Satz 1, der
@@ -1456,6 +1473,7 @@ die in diesem Bereich einzuhaltende Emissionsbegrenzung fest.
 
 
 ### § 16 Emissionsgrenzwerte für Verbrennungsmotoranlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001700000)
 
 (1) Verbrennungsmotoranlagen sind so zu errichten und zu betreiben,
 dass die Anforderungen des Absatzes 2 Satz 1, der Absätze 3, 4 Satz 1,
@@ -1772,6 +1790,7 @@ folgenden Massenkonzentrationen, angegeben als Schwefeldioxid, nicht
 
 
 ### § 17 Anforderungen an die Abgasverluste von nicht genehmigungsbedürftigen mittelgroßen Öl- und Gasfeuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001800000)
 
 (1) Nicht genehmigungsbedürftige mittelgroße Öl- und
 Gasfeuerungsanlagen sind so zu errichten und zu betreiben, dass der
@@ -1786,6 +1805,7 @@ Bauart entsprechen.
 
 
 ### § 18 Anforderungen an Mischfeuerungen und Mehrstofffeuerungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE001900000)
 
 (1) Mischfeuerungen sind so zu errichten und zu betreiben, dass die
 Anforderungen dieses Absatzes eingehalten werden. Der Betreiber hat
@@ -1805,6 +1825,7 @@ werden.
 
 
 ### § 19 Ableitbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002000000)
 
 (1) Der Betreiber einer Anlage hat die Abgase in kontrollierter Weise
 so abzuleiten, dass ein ungestörter Abtransport mit der freien
@@ -1828,6 +1849,7 @@ für genehmigungsbedürftige Anlagen in der Genehmigung festzulegen.
 
 
 ### § 20 Abgasreinigungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002100000)
 
 (1) Sofern zur Einhaltung der Emissionsgrenzwerte
 Abgasreinigungseinrichtungen erforderlich sind, ist der gesamte
@@ -1855,9 +1877,11 @@ werden.
 
 
 ## Abschnitt 3 - Messung und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNG000300000)
 
 
 ### § 21 Messungen an mittelgroßen Feuerungsanlagen bei Einsatz von festen Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002200000)
 
 (1) Der Betreiber hat bei Einsatz von festen Brennstoffen in
 Feuerungsanlagen mit einer Feuerungswärmeleistung von 25 Megawatt oder
@@ -1941,6 +1965,7 @@ Jahre zu ermitteln.
 
 
 ### § 22 Messungen an mittelgroßen Feuerungsanlagen bei Einsatz von gasförmigen Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002300000)
 
 (1) Bei Einsatz von gasförmigen Brennstoffen in Feuerungsanlagen, die
 selektive katalytische Reduktion oder selektive nichtkatalytische
@@ -1978,6 +2003,7 @@ worden ist, zu ermitteln. Satz 1 gilt nicht für Brennwertgeräte.
 
 
 ### § 23 Messungen an mittelgroßen Feuerungsanlagen bei Einsatz von flüssigen Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002400000)
 
 (1) Der Betreiber hat bei Einsatz von flüssigen Brennstoffen in
 Feuerungsanlagen mit einer Feuerungswärmeleistung von 20 Megawatt oder
@@ -2082,6 +2108,7 @@ ermitteln. Satz 1 gilt nicht für Brennwertgeräte.
 
 
 ### § 24 Messungen an Verbrennungsmotoranlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002500000)
 
 (1) Der Betreiber hat bei einer Feuerungswärmeleistung von 1 Megawatt
 oder mehr bei Verbrennungsmotoranlagen, die mit flüssigen Brennstoffen
@@ -2165,6 +2192,7 @@ ermitteln.
 
 
 ### § 25 Messungen an Gasturbinenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002600000)
 
 (1) Der Betreiber hat bei Gasturbinenanlagen mit einer
 Feuerungswärmeleistung von 20 Megawatt oder mehr die Emissionen an
@@ -2198,6 +2226,7 @@ alle drei Jahre zu ermitteln.
 
 
 ### § 26 Messungen an Feuerungsanlagen mit Abgasreinigungseinrichtung für Stickstoffoxide
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002700000)
 
 Der Betreiber hat bei Feuerungsanlagen, die selektive katalytische
 Reduktion oder selektive nichtkatalytische Reduktion einsetzen, die
@@ -2218,6 +2247,7 @@ gilt nicht für
 
 
 ### § 27 Messplätze
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002800000)
 
 Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen
 zur Feststellung der Emissionen sowie zur Ermittlung der Bezugs- oder
@@ -2227,6 +2257,7 @@ repräsentative und einwandfreie Messungen gewährleistet sind.
 
 
 ### § 28 Messverfahren und Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE002900000)
 
 (1) Der Betreiber hat sicherzustellen, dass für Messungen die dem
 Stand der Messtechnik entsprechenden Messverfahren, die den
@@ -2281,6 +2312,7 @@ innerhalb von zwölf Wochen nach Kalibrierung und Prüfung vorzulegen.
 
 
 ### § 29 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003000000)
 
 (1) Abweichend von § 21 Absatz 8, § 22 Absatz 2 und 3, § 23 Absatz 3
 und 4 und § 25 Absatz 1 und 2 hat der Betreiber die Emissionen von
@@ -2359,6 +2391,7 @@ kontinuierlichen Messungen nach Satz 1 gilt § 30 entsprechend.
 
 
 ### § 30 Auswertung und Beurteilung von kontinuierlichen Messungen, Messbericht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003100000)
 
 (1) Während des Betriebs der Anlage ist aus den nach § 29 Absatz 1
 Satz 1, Absatz 3 und 6 ermittelten Messwerten aus kontinuierlichen
@@ -2407,6 +2440,7 @@ vorliegen, müssen nicht im Messbericht enthalten sein.
 
 
 ### § 31 Einzelmessungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003200000)
 
 (1) Der Betreiber hat innerhalb von vier Monaten nach der
 Inbetriebnahme der Feuerungsanlage folgende erste Messung nach den
@@ -2537,9 +2571,11 @@ Feuerungsanlagen ist zu beachten.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNG000400000)
 
 
 ### § 32 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003301116)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
 von den Anforderungen nach den §§ 9 bis 17 sowie 21 bis 29 zulassen,
@@ -2608,6 +2644,7 @@ erforderlich ist. Ausnahmen nach Satz 2 sind zu befristen.
 
 
 ### § 33 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003400000)
 
 (1) Die Befugnis der zuständigen Behörde, andere oder weitergehende
 Anforderungen, insbesondere zur Vermeidung schädlicher
@@ -2624,6 +2661,7 @@ gestellten Anforderungen weiterhin maßgeblich.
 
 
 ### § 34 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003500000)
 
 Andere oder weitergehende Anforderungen nach anderen Gesetzen oder
 Rechtsverordnungen bleiben unberührt, insbesondere die Anforderungen
@@ -2647,6 +2685,7 @@ Anleitung zur Reinhaltung der Luft.
 
 
 ### § 35 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003600000)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2751,9 +2790,11 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 5 - Anlagenregister, Informationsformate und Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNG000500000)
 
 
 ### § 36 Anlagenregister
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003700000)
 
 (1) Die zuständige Behörde führt ein Register mit Informationen über
 jede gemäß § 6 zu registrierende Feuerungsanlage (Anlagenregister).
@@ -2784,6 +2825,7 @@ des Anlagenregisters. Absatz 4 findet insoweit keine Anwendung.
 
 
 ### § 37 Informationsformate und Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003800000)
 
 Die zuständige oberste Landesbehörde oder die nach Landesrecht
 bestimmte Behörde kann verlangen, dass der Betreiber zur Erfüllung der
@@ -2799,9 +2841,11 @@ vorzulegen und auf elektronischem Weg zu übermitteln hat.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNG000600000)
 
 
 ### § 38 Zugänglichkeit und Gleichwertigkeit von Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE003900000)
 
 (1) Die genannten DIN-, DIN-EN- und DIN-SPEC-Normen sind bei der Beuth
 Verlag GmbH, Berlin, zu beziehen und sind in der Deutschen
@@ -2818,6 +2862,7 @@ und Verlagsgesellschaft Gas und Wasser mbH, Bonn, zu beziehen.
 
 
 ### § 39 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE004000000)
 
 (1) Für bestehende Anlagen gelten
 
@@ -2983,6 +3028,7 @@ gelten.
 (zu § 6)
 
 ### Anlage 1 Informationen, die der Betreiber der zuständigen Behörde vorzulegen hat
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE004100000)
 
 (Fundstelle: BGBl. I 2019, 825)
 
@@ -3039,6 +3085,7 @@ gelten.
 (zu § 28)
 
 ### Anlage 2 Anforderungen an die Probenahme und Analyse, an die kontinuierlichen Messeinrichtungen und an die Validierung der Messergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE004200000)
 
 (Fundstelle: BGBl. I 2019, 826)
 
@@ -3115,6 +3162,7 @@ gelten.
 (zu § 30)
 
 ### Anlage 3 Umrechnungsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_44/BJNR080410019.html#BJNR080410019BJNE004300000)
 
 (Fundstelle: BGBl. I 2019, 827)
 

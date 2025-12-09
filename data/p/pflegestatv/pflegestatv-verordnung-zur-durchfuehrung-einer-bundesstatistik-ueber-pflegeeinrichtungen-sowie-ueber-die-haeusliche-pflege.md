@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000100310)
 
 Auf Grund des § 109 Abs. 1 des Elften Buches Sozialgesetzbuch -
 Soziale Pflegeversicherung - (Artikel 1 des Gesetzes vom 26. Mai 1994,
@@ -29,6 +30,7 @@ BGBl. I S. 1014, 1015, 2797) verordnet die Bundesregierung:
 
 
 ## § 1 Umfang der Erhebungen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000200310)
 
 (1) Erhebungen als Bundesstatistik werden durchgeführt über
 
@@ -48,6 +50,7 @@ Versorgungsvertrag nach dem Elften Buch Sozialgesetzbuch besteht
 
 
 ## § 2 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000302119)
 
 (1) Erhebungsmerkmale bei den Erhebungen nach § 1 Abs. 1 Nr. 1 sind
 für die Pflegeeinrichtung
@@ -119,6 +122,7 @@ für die Pflegeeinrichtung
 
 
 ## § 3 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000401119)
 
 Hilfsmerkmale sind:
 
@@ -140,6 +144,7 @@ Hilfsmerkmale sind:
 
 
 ## § 4 Periodizität und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000501377)
 
 (1) Die Erhebungen werden zweijährlich, erstmalig für das Jahr 1999,
 erhoben.
@@ -155,6 +160,7 @@ privaten Versicherungsunternehmen der 1. April des Folgejahres.
 
 
 ## § 5 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000601377)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3
 Nr. 4 sind freiwillig.
@@ -176,6 +182,7 @@ Voraussetzungen gegeben sind.
 
 
 ## § 6 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000700310)
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -195,6 +202,7 @@ Pflegeeinrichtungen.
 
 
 ## § 7 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000801119)
 
 Die statistischen Ämter der Länder sind berechtigt, mit Zustimmung der
 Betroffenen zweijährlich ein Verzeichnis mit Namen, Anschrift,
@@ -203,11 +211,13 @@ der Pflegeplätze eines Pflegeheimes zu veröffentlichen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE000900310)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pflegestatv/BJNR228200999.html#BJNR228200999BJNE001000310)
 
 Der Bundesrat hat zugestimmt.
 

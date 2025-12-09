@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rheinfallvtrg_che/BJNR220400967.html#BJNR220400967BJNE000100315)
 
 Dem in Freiburg im Breisgau am 23. November 1964 unterzeichneten
 Vertrag zwischen der Bundesrepublik Deutschland und der
@@ -30,6 +31,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rheinfallvtrg_che/BJNR220400967.html#BJNR220400967BJNE000200315)
 
 In den Gebietsteilen, die nach Artikel 1 Abs. 1 des Vertrages auf die
 Bundesrepublik Deutschland übergehen, treten mit dem Zeitpunkt des
@@ -39,6 +41,7 @@ das schweizerische Recht in diesen Gebietsteilen außer Kraft.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rheinfallvtrg_che/BJNR220400967.html#BJNR220400967BJNE000300315)
 
 (1) Die Regierung des Landes Baden-Württemberg wird ermächtigt, für
 die in Artikel 1 Abs. 1 des Vertrages bezeichneten Gebietsteile durch
@@ -69,12 +72,14 @@ Landesjustizverwaltung übertragen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/rheinfallvtrg_che/BJNR220400967.html#BJNR220400967BJNE000400315)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/rheinfallvtrg_che/BJNR220400967.html#BJNR220400967BJNE000500315)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

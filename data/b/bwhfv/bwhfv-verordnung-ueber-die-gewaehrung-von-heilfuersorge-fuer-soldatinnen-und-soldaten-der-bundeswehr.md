@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000100000)
 
 Auf Grund des § 69a Absatz 7 des Bundesbesoldungsgesetzes, der durch
 Artikel 1 Nummer 19 des Gesetzes vom 9. Dezember 2015 (BGBl. I S.
@@ -30,9 +31,11 @@ dem Bundesministerium der Finanzen:
 
 
 ## Kapitel 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNG000100000)
 
 
 ### § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000300000)
 
 Die Gewährung der Heilfürsorge in Form der unentgeltlichen
 truppenärztlichen Versorgung dient der Erhaltung, Wiederherstellung
@@ -40,6 +43,7 @@ und Verbesserung der Gesundheit der Soldatinnen und Soldaten.
 
 
 ### § 2 Unentgeltliche truppenärztliche Versorgung bei gesundheitlichen Schädigungen als Folge von Wehrdienstbeschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000402116)
 
 (1) Liegt bei einer Soldatin oder bei einem Soldaten eine
 gesundheitliche Schädigung als Folge einer Wehrdienstbeschädigung nach
@@ -71,6 +75,7 @@ ansonsten die Dienstfähigkeit beeinträchtigt ist.
 
 
 ### § 3 Verzicht auf unentgeltliche truppenärztliche Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000500000)
 
 (1) Nimmt eine Soldatin oder ein Soldat ohne truppenärztliche oder
 truppenzahnärztliche Veranlassung eine andere Heilbehandlung als die
@@ -88,6 +93,7 @@ vorzulegen; die hierdurch entstehenden Kosten werden übernommen.
 
 
 ### § 4 Sachleistungsprinzip
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000600000)
 
 (1) Die Leistungen der unentgeltlichen truppenärztlichen Versorgung
 werden grundsätzlich als Sach- oder Dienstleistungen gewährt.
@@ -134,9 +140,11 @@ Verteidigung.
 
 
 ## Kapitel 2 - Leistungen der unentgeltlichen truppenärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNG000200000)
 
 
 ### § 5 Verhütung und Früherkennung von Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000701116)
 
 Zu den Maßnahmen zur Verhütung und Früherkennung von Krankheiten
 gehören
@@ -156,6 +164,7 @@ gehören
 
 
 ### § 6 Medizinische Vorsorgeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000801116)
 
 (1) Reichen ärztliche Behandlungen sowie die Versorgung mit Arznei-,
 Verband-, Heil- und Hilfsmitteln nicht aus oder können sie wegen
@@ -241,6 +250,7 @@ anzulegen.
 
 
 ### § 7 Ambulante allgemeinmedizinische Untersuchungen und Behandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE000900000)
 
 (1) Ambulante allgemeinmedizinische Untersuchungen und Behandlungen
 können durchgeführt werden:
@@ -289,6 +299,7 @@ oder dem nach Absatz 2 Zuständigen grundsätzlich übertragen werden
 
 
 ### § 8 Ambulante fachärztliche Untersuchungen und Behandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001000000)
 
 (1) Fachärztinnen und Fachärzte im Sinne dieses Paragrafen sind nicht
 die Fachärztinnen und Fachärzte für Allgemeinmedizin.
@@ -356,6 +367,7 @@ Dienstfähigkeit beeinträchtigt ist.
 
 
 ### § 9 Ambulante zahnärztliche Untersuchungen und Behandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001100000)
 
 (1) Die zahnärztliche Versorgung umfasst alle erforderlichen Maßnahmen
 zur Verhütung, Früherkennung und Behandlung von Zahn-, Mund- und
@@ -409,6 +421,7 @@ Behandlungsplan genehmigt hat.
 
 
 ### § 10 Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001200000)
 
 (1) Die Truppenärztin oder der Truppenarzt oder die Truppenzahnärztin
 oder der Truppenzahnarzt weist die Soldatin oder den Soldaten
@@ -489,6 +502,7 @@ ist ein strenger Maßstab anzulegen.
 
 
 ### § 11 Palliativversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001300000)
 
 (1) Spezialisierte ambulante Palliativversorgung wird gewährt, wenn
 wegen einer nicht heilbaren, fortschreitenden und weit
@@ -503,6 +517,7 @@ werden kann.
 
 
 ### § 12 Organspenden und andere Spenden
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001400000)
 
 (1) Für die Spende, Entnahme und Übertragung von Organen, Geweben,
 Blutstammzellen oder anderen Blutbestandteilen gilt § 45a der
@@ -517,6 +532,7 @@ truppenärztlichen Versorgung nicht erstattungsfähig.
 
 
 ### § 13 Medizinische Rehabilitationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001501116)
 
 (1) Ärztinnen und Ärzte der Bundeswehr können auf Empfehlung einer
 Fachärztin oder eines Facharztes der Bundeswehr stationäre oder
@@ -572,6 +588,7 @@ ist ein strenger Maßstab anzulegen.
 
 
 ### § 14 Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001600000)
 
 (1) Soldatinnen und Soldaten haben Anspruch auf die medizinisch
 notwendige Versorgung mit Heilmitteln, sofern sie nicht nach Anlage 1
@@ -602,6 +619,7 @@ sonst von zivilen Angehörigen der Medizinfachberufe angewandt.
 
 
 ### § 15 Arzneimittel und Medizinprodukte, einschließlich digitaler Gesundheitsanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001701116)
 
 (1) Arzneimittel und Medizinprodukte, einschließlich digitaler
 Gesundheitsanwendungen im Sinne von § 33a des Fünften Buches
@@ -630,6 +648,7 @@ Leistungserbringern beschafft.
 
 
 ### § 16 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001801116)
 
 (1) Soldatinnen und Soldaten haben Anspruch auf eine wirtschaftlich
 angemessene Versorgung mit
@@ -704,6 +723,7 @@ Gründen der Wirtschaftlichkeit geboten ist.
 
 
 ### § 17 Sehhilfen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE001900000)
 
 (1) Fehlsichtigen Soldatinnen und Soldaten werden auf Grund
 truppenärztlicher Verordnung oder auf Grund der Verordnung einer
@@ -763,6 +783,7 @@ wird auf Kosten der Bundeswehr Ersatz geleistet, wenn
 
 
 ### § 18 Eigentum an Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002000000)
 
 (1) Ein Hilfsmittel geht, soweit nichts anderes bestimmt ist, nicht in
 das Eigentum der Soldatin oder des Soldaten über.
@@ -786,6 +807,7 @@ Hilfsmittel.
 
 
 ### § 19 Häusliche Krankenpflege
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002102116)
 
 (1) Soldatinnen und Soldaten erhalten auf truppenärztliche Verordnung
 in ihrem Haushalt, in ihrer Familie oder an einem anderen geeigneten
@@ -868,6 +890,7 @@ Heilverfahrensverordnung anzuwenden.
 
 
 ### § 19a Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE003500116)
 
 Reichen Leistungen der häuslichen Krankenpflege nach § 19 Absatz 3 bei
 schwerer Krankheit oder wegen akuter Verschlimmerung einer Krankheit,
@@ -883,6 +906,7 @@ werden.
 
 
 ### § 20 Familien- und Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002201116)
 
 (1) Die notwendigen Kosten für eine Familien- und Haushaltshilfe
 werden übernommen, wenn
@@ -958,6 +982,7 @@ hat.
 
 
 ### § 21 Soziotherapie
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002300000)
 
 Soziotherapie kann verordnet werden, wenn die Soldatin oder der Soldat
 wegen einer schweren psychischen Erkrankung nicht in der Lage ist,
@@ -972,6 +997,7 @@ sich nach § 37a Absatz 2 des Fünften Buches Sozialgesetzbuch.
 
 
 ### § 22 Behandlung während eines dienstlich angeordneten Aufenthaltes im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002401116)
 
 (1) Erkrankt eine Soldatin oder ein Soldat während eines dienstlich
 angeordneten Aufenthaltes im Ausland, ist ihre oder seine Behandlung
@@ -1005,6 +1031,7 @@ und Vergütungen berechnen.
 
 
 ### § 23 Behandlung während eines privaten Aufenthaltes im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002500000)
 
 (1) Erkrankt eine Soldatin oder ein Soldat während eines privaten
 Aufenthaltes im Ausland, werden die notwendigen Kosten ihrer oder
@@ -1042,6 +1069,7 @@ beizufügen:
 
 
 ### § 24 Krankentransporte, Reiseauslagen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002602116)
 
 (1) Krankentransporte, die nach Art der Erkrankung der Soldatin oder
 des Soldaten notwendig sind, sind grundsätzlich mit bundeswehreigenen
@@ -1141,6 +1169,7 @@ für die Benutzung eines Mietwagens oder eines Taxis erstattet werden.
 
 
 ### § 25 Reiseauslagen bei Aufenthalt außerhalb des Dienstortes und der berücksichtigungsfähigen Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002700000)
 
 (1) Hält sich eine Soldatin oder ein Soldat außerhalb ihres oder
 seines Dienstortes auf, werden erforderliche Reiseauslagen höchstens
@@ -1163,6 +1192,7 @@ tatsächlich entstandenen Kosten.
 
 
 ### § 26 Verpflegungsgeld bei stationären Krankenhausbehandlungen, Rehabilitationsmaßnahmen und Vorsorgeleistungen sowie bei Unterbringung in einem Pflegeheim
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002802116)
 
 (1) Für Verpflegung, die bei voll- und teilstationärer
 Krankenhausbehandlung, bei medizinischer Rehabilitationsbehandlung
@@ -1189,6 +1219,7 @@ wenn
 
 
 ### § 27 Leistungen bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE002901116)
 
 (1) Soldatinnen haben Anspruch auf
 
@@ -1245,6 +1276,7 @@ diese Kosten übernommen.
 
 
 ### § 28 Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE003003116)
 
 (1) Bei Pflegebedürftigkeit einer Soldatin oder eines Soldaten im
 Sinne des § 14 des Elften Buches Sozialgesetzbuch werden neben den
@@ -1301,6 +1333,7 @@ Pflegetagegeldversicherung werden nicht angerechnet.
 
 
 ### § 29 Künstliche Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE003100000)
 
 Vor Beginn der Behandlung ist der Truppenärztin oder dem Truppenarzt
 ein Behandlungsplan zur Genehmigung vorzulegen. Die Bundeswehr
@@ -1310,6 +1343,7 @@ werden.
 
 
 ### § 30 Behandlung in Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE003200000)
 
 (1) Bei plötzlichen schweren Erkrankungen und Unglücksfällen können
 Soldatinnen und Soldaten andere ärztliche oder zahnärztliche Hilfe in
@@ -1370,9 +1404,11 @@ der Soldatin oder des Soldaten.
 
 
 ## Kapitel 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNG000300000)
 
 
 ### § 31 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE003300000)
 
 Die Verwaltungsvorschriften zur Durchführung dieser Verordnung erlässt
 das Bundesministerium der Verteidigung oder eine von ihm bestimmte
@@ -1380,6 +1416,7 @@ Stelle.
 
 
 ### § 32 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwhfv/BJNR325000017.html#BJNR325000017BJNE003400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Allgemeine Verwaltungsvorschrift zu § 69 Abs. 2

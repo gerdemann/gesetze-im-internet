@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000100303)
 
 Auf Grund des durch Artikel 3 Nr. 2 der Vereinfachungsnovelle vom 3.
 Dezember 1976 (BGBl. I S. 3281) eingefügten § 46a Abs. 7 des
@@ -27,6 +28,7 @@ Arbeitsgerichtsgesetzes wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000202125)
 
 (1) Für das Mahnverfahren bei den Gerichten für Arbeitssachen werden
 eingeführt
@@ -95,6 +97,7 @@ Durchschrift des Widerspruchs versehen werden.
 
 
 ## § 1a Beschriftung mittels Schreibprogramm
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE001004125)
 
 (1) Der in Anlage 1 bestimmte Vordruck kann in einem aus Blatt 1 bis 3
 bestehenden Teil des Vordrucks für den Antrag auf Erlass des
@@ -162,6 +165,7 @@ behoben ist.
 
 
 ## § 2 Elektronisch ausfüllbarer und auslesbarer Vordruck
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE001300125)
 
 (1) Die Länder können die in den Anlagen bestimmten Vordrucke in
 elektronisch ausfüllbarer Form zur Einreichung in Papierform zur
@@ -174,6 +178,7 @@ hierfür festzulegen.
 
 
 ## § 3 Vordrucke zur Übermittlung als elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE001400125)
 
 Die Länder können Anpassungen an den in den Anlagen bestimmten
 Vordrucken zulassen, die es, ohne den Inhalt wesentlich zu verändern
@@ -183,6 +188,7 @@ gemäß § 46c des Arbeitsgerichtsgesetzes einzureichen.
 
 
 ## § 4 Vordrucke zur Übermittlung als strukturierter Datensatz
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE001500125)
 
 Die Länder können Anpassungen an den in den Anlagen bestimmten
 Vordrucken zulassen, die es, ohne den Inhalt wesentlich zu verändern
@@ -200,6 +206,7 @@ jeweiligen Land die technischen Voraussetzungen hierfür vorliegen.
 
 
 ## § 5 Gemeinsame Koordinierungsstelle; Bereitstellung von Vordrucken im Internet
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE001600125)
 
 Die Länder können eine gemeinsame Koordinierungsstelle durch
 Verwaltungsvereinbarung einrichten, die für die Gestaltung der
@@ -216,6 +223,7 @@ gemeinsamen Koordinierungsstelle für die Gestaltung der Vordrucke nach
 
 
 ## § 6 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000306125)
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
 Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des
@@ -243,11 +251,13 @@ In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000401125)
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000501360)
 
 Der Bundesminister
 für Arbeit und Sozialordnung
@@ -255,6 +265,7 @@ Ehrenberg
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000604311)
 
 (Fundstelle: BGBl. I 2014, 1568 - 1580;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -265,6 +276,7 @@ für den Mahn- und Vollstreckungsbescheid
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/agmahnvordrv/BJNR026250977.html#BJNR026250977BJNE000701301)
 
 (Fundstelle: BGBl. I 2001, 379 - 382)
 

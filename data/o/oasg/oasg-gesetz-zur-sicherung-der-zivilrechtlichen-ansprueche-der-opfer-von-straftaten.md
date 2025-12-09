@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Gesetzliches Forderungspfandrecht
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000100310)
 
 (1) Es besteht ein Pfandrecht an einer Forderung, die ein Täter oder
 Teilnehmer einer rechtswidrigen Tat im Sinne des § 11 Abs. 1 Nr. 5 des
@@ -42,12 +43,14 @@ das Pfandrecht sichert diese Forderung.
 
 
 ## § 2 Mehrere Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000200310)
 
 Pfandrechte, die auf derselben öffentlichen Darstellung beruhen, haben
 den gleichen Rang. § 432 des Bürgerlichen Gesetzbuchs ist anzuwenden.
 
 
 ## § 3 Anteilsmäßige Befriedigung
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000300310)
 
 Übersteigen die Ansprüche auf Schadensersatz mehrerer Pfandgläubiger
 die Höhe der Forderung, erhalten sie Befriedigung nur anteilig im
@@ -55,6 +58,7 @@ Verhältnis ihrer Ansprüche untereinander zur Höhe der Forderung.
 
 
 ## § 4 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000400310)
 
 Liegen Tatsachen, die die Annahme begründen, daß ein gesetzliches
 Pfandrecht nach § 1 Abs. 1 Satz 1 oder 2 entstanden ist und der
@@ -67,6 +71,7 @@ Verschwiegenheitspflichten bleiben unberührt.
 
 
 ## § 5 Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000500310)
 
 Ist ungewiß, ob und inwieweit einer Person ein Pfandrecht nach § 1
 Abs. 1 Satz 1 oder 2 zusteht, ist der Schuldner zur Hinterlegung an
@@ -76,6 +81,7 @@ sind anzuwenden.
 
 
 ## § 6 Ergänzende Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000600310)
 
 Soweit nichts anderes bestimmt ist, gelten die Vorschriften des
 Bürgerlichen Gesetzbuchs über das Pfandrecht an Forderungen
@@ -83,6 +89,7 @@ entsprechend.
 
 
 ## § 7 Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000700310)
 
 Das Pfandrecht besteht auch an der Forderung, die jemand ohne selbst
 Täter oder Teilnehmer einer rechtswidrigen Tat zu sein, als
@@ -94,6 +101,7 @@ einen geldwerten Vorteil erlangt.
 
 
 ## § 8 Übergangsvorschrift und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/oasg/BJNR090500998.html#BJNR090500998BJNE000800310)
 
 (1) Dieses Gesetz findet keine Anwendung auf Forderungen, die vor
 seinem Inkrafttreten entstanden sind.

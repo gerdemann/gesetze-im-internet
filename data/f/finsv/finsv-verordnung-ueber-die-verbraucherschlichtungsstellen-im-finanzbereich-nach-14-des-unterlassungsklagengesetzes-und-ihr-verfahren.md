@@ -22,6 +22,7 @@ Geändert durch
 Stand: §§ 11 bis 20 treten gem. § 27 Abs. 1 Satz 1 dieser V am 17.9.2016 in Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000100000)
 
 Auf Grund des § 14 Absatz 5 in Verbindung mit Absatz 3 des
 Unterlassungsklagengesetzes, die durch Artikel 7 Nummer 3 des Gesetzes
@@ -31,9 +32,11 @@ im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Behördliche Verbraucherschlichtungsstellen bei der Deutschen Bundesbank und der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNG000100000)
 
 
 ### § 1 Organisation der Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000200000)
 
 (1) Die Verbraucherschlichtungsstelle für die Streitigkeiten, die der
 Deutschen Bundesbank durch § 14 Absatz 1 Satz 2 des
@@ -84,6 +87,7 @@ möglich sein.
 
 
 ### § 2 Auswahl und Bestellung der Schlichter
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000300000)
 
 Die Schlichter werden von der Trägerin für die Dauer von drei Jahren
 bestellt. Eine Person kann wiederholt zum Schlichter bestellt werden.
@@ -98,6 +102,7 @@ Schlichter bestellt werden.
 
 
 ### § 3 Unabhängigkeit und Unparteilichkeit sowie die Abberufung der Schlichter
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000400000)
 
 (1) Die Schlichter müssen unabhängig sein und dürfen nicht an
 Weisungen gebunden werden.
@@ -127,17 +132,20 @@ Abberufungsgründen nach Satz 1 unverzüglich zu unterrichten.
 
 
 ### § 4 Verfahrenssprache
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000500000)
 
 Schlichtungsverfahren werden in deutscher Sprache geführt.
 
 
 ### § 5 Vertraulichkeit des Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000600000)
 
 Die Schlichter und die in der Geschäftsstelle tätigen Personen sind
 zur Verschwiegenheit über die Schlichtungsverfahren verpflichtet.
 
 
 ### § 6 Ablehnung der Durchführung des Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000701360)
 
 (1) Der Schlichter lehnt die Durchführung des Schlichtungsverfahrens
 ab, wenn
@@ -213,6 +221,7 @@ für das Schlichtungsverfahren vorlagen.
 
 
 ### § 7 Antrag auf Durchführung eines Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000801360)
 
 (1) Die Durchführung eines Schlichtungsverfahrens ist in Textform bei
 der Verbraucherschlichtungsstelle in deutscher Sprache zu beantragen.
@@ -266,6 +275,7 @@ sind, beraten oder vertreten lassen können.
 
 
 ### § 8 Behandlung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE000900000)
 
 (1) Ist die Verbraucherschlichtungsstelle für den Antrag nicht
 zuständig und ist der Antrag nicht nach § 24 abzugeben, lehnt der
@@ -316,6 +326,7 @@ Schlichtungsverfahren vorlagen.
 
 
 ### § 9 Schlichtungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001001360)
 
 (1) Der Schlichter hat den Beteiligten spätestens 90 Tage nach dem
 Zeitpunkt, zu dem alle Informationen für das Schlichtungsverfahren
@@ -363,6 +374,7 @@ Verbraucherschlichtungsstelle beendet.
 
 
 ### § 10 Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001100000)
 
 (1) Das Verfahren vor der Verbraucherschlichtungsstelle ist für
 Verbraucher kostenfrei. Auslagen werden nicht erstattet.
@@ -377,6 +389,7 @@ die Erhebung der Gebühr ganz oder teilweise unangemessen wäre.
 
 
 ### § 10a Bescheinigung über einen erfolglosen Schlichtungsversuch
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002900360)
 
 Auf Antrag eines Beteiligten hat die Geschäftsstelle eine
 Bescheinigung über einen erfolglosen Schlichtungsversuch nach § 15a
@@ -398,9 +411,11 @@ konnte. Die Bescheinigung hat folgende Angaben zu enthalten:
 
 
 ## Abschnitt 2 - Anerkannte Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNG000200000)
 
 
 ### § 11 Anerkennung von privaten Schlichtungsstellen als Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001200000)
 
 (1) Eine private Schlichtungsstelle ist als
 Verbraucherschlichtungsstelle für Streitigkeiten nach § 14 Absatz 1
@@ -423,6 +438,7 @@ Verbraucherstreitbeilegungsgesetzes einzutragen.
 
 
 ### § 12 Anforderungen an die Organisation der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001300000)
 
 (1) Die Schlichtungsstelle muss im Inland eingerichtet werden.
 
@@ -461,6 +477,7 @@ zu bestellen.
 
 
 ### § 13 Anforderungen an die Finanzierung der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001400000)
 
 Der Träger muss die Schlichtungsstelle so ausstatten, dass sie über
 das für ihre Tätigkeit erforderliche Personal sowie die erforderlichen
@@ -473,12 +490,14 @@ Verfügung stehen, der vom Haushalt des Trägers getrennt ist.
 
 
 ### § 14 Vergütung der Schlichter
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001500000)
 
 Einem Schlichter darf eine Vergütung, die vom Ergebnis eines
 Schlichtungsverfahrens abhängig gemacht wird, nicht gewährt werden.
 
 
 ### § 15 Anforderungen an die Verfahrensordnung der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001600000)
 
 (1) Der Träger muss für die Schlichtungsstelle eine Verfahrensordnung
 erlassen, die die Zuständigkeit der Schlichtungsstelle für
@@ -501,6 +520,7 @@ Beteiligten verlangt werden.
 
 
 ### § 16 Anforderungen an den Antrag auf Anerkennung als Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001700000)
 
 Der Träger der Schlichtungsstelle kann einen Antrag auf Anerkennung
 seiner Schlichtungsstelle als Verbraucherschlichtungsstelle nach § 14
@@ -543,6 +563,7 @@ des Unterlassungsklagengesetzes stellen. Der Antrag muss enthalten:
 
 
 ### § 17 Änderung der Verfahrensordnung einer Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001800000)
 
 (1) Eine Änderung der Verfahrensordnung einer
 Verbraucherschlichtungsstelle bedarf der Zustimmung des Bundesamts für
@@ -562,6 +583,7 @@ auf Zustimmung eingegangen ist, widerspricht.
 
 
 ### § 18 Mitteilung von Änderungen bei der Organisation oder Finanzierung der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE001900000)
 
 Der Träger der Verbraucherschlichtungsstelle hat dem Bundesamt für
 Justiz mitzuteilen:
@@ -595,6 +617,7 @@ Justiz mitzuteilen:
 
 
 ### § 19 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002000000)
 
 (1) Erfüllt die Verbraucherschlichtungsstelle die für ihre Anerkennung
 notwendigen Voraussetzungen nicht mehr oder verstößt sie bei ihrer
@@ -614,9 +637,11 @@ nach § 33 des Verbraucherstreitbeilegungsgesetzes zu löschen.
 
 
 ## Abschnitt 3 - Berichts- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNG000300000)
 
 
 ### § 20 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002100000)
 
 Der Träger einer Verbraucherschlichtungsstelle hat für jedes
 Kalenderjahr einen Bericht über die Tätigkeit der Schlichtungsstelle
@@ -631,6 +656,7 @@ Tätigkeitsbericht auf Anfrage auch in Textform zu übermitteln.
 
 
 ### § 21 Evaluationsbericht
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002200000)
 
 Der Träger der Verbraucherschlichtungsstelle hat alle zwei
 Kalenderjahre einen Evaluationsbericht zu erstellen, in dem die
@@ -646,6 +672,7 @@ beginnt frühestens mit dem 1. Februar 2018.
 
 
 ### § 22 Informationen zur Schlichtungsstelle und ihrem Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002300000)
 
 (1) Auf der Webseite der Verbraucherschlichtungsstelle sind die
 Informationen zur Verbraucherschlichtungsstelle und ihrem Verfahren
@@ -661,6 +688,7 @@ Informationen jedermann in Textform zu übermitteln.
 
 
 ### § 23 Mitteilungen an die Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002400000)
 
 Die Schlichter haben die Bundesanstalt für
 Finanzdienstleistungsaufsicht über diejenigen ihnen bei ihrer
@@ -670,9 +698,11 @@ von Verbrauchern erheblich beeinträchtigt werden können.
 
 
 ## Abschnitt 4 - Zusammenarbeit mit anderen Streitbeilegungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNG000400000)
 
 
 ### § 24 Abgabe und Weiterleitung bei Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002500000)
 
 (1) Wird eine Schlichtung wegen einer Streitigkeit nach § 14 Absatz 1
 des Unterlassungsklagengesetzes bei einer unzuständigen
@@ -691,6 +721,7 @@ in dem anderen Vertragsstaat weiter.
 
 
 ### § 25 Zusammenarbeit mit ausländischen Streitbeilegungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002600000)
 
 Die behördlichen Verbraucherschlichtungsstellen erteilen im Rahmen
 ihrer Zuständigkeit auf Ersuchen den Stellen, die in einem anderen
@@ -703,6 +734,7 @@ zuständige behördliche Verbraucherschlichtungsstelle weiter.
 
 
 ### § 26 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002700000)
 
 (1) Für die Schlichtungsverfahren bei den behördlichen
 Verbraucherschlichtungsstellen, die am 31. Januar 2017 noch nicht
@@ -721,6 +753,7 @@ Kapitalanlageschlichtungsstellenverordnung genehmigt wurden.
 
 
 ### § 27 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finsv/BJNR214000016.html#BJNR214000016BJNE002800000)
 
 (1) Die §§ 11 bis 20 treten am Tag nach der Verkündung in Kraft. Im
 Übrigen tritt diese Verordnung am 1. Februar 2017 in Kraft.

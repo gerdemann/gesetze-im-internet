@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2024/BJNR1560A0023.html#BJNR1560A0023BJNE000100000)
 
 Auf Grund des § 68 Satz 1 bis 3 und des § 114 des Gesetzes über die
 Alterssicherung der Landwirte, von denen § 68 zuletzt durch Artikel 17
@@ -41,6 +42,7 @@ wird bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2024/BJNR1560A0023.html#BJNR1560A0023BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

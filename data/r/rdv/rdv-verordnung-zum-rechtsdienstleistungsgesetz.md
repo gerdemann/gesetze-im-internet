@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000100000)
 
 Auf Grund des § 10 Abs. 1 Satz 2, § 12 Abs. 5, § 13 Abs. 4, § 16 Abs.
 3 Satz 3, § 17 Abs. 2 und des § 18 Abs. 3 des
@@ -30,10 +31,12 @@ der Justiz:
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000201311)
 
 
 
 ## § 2 Nachweis der theoretischen Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000303125)
 
 (1) In den Bereichen Inkassodienstleistungen und Rentenberatung wird
 die nach § 12 Abs. 3 Satz 1 des Rechtsdienstleistungsgesetzes
@@ -86,6 +89,7 @@ beziehen.
 
 
 ## § 3 Nachweis der praktischen Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000401311)
 
 (1) Die nach § 12 Abs. 3 Satz 2 des Rechtsdienstleistungsgesetzes
 erforderliche praktische Sachkunde wird in der Regel durch
@@ -114,6 +118,7 @@ Inland tätig gewesen ist.
 
 
 ## § 4 Sachkundelehrgang
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000500000)
 
 (1) Der Sachkundelehrgang muss geeignet sein, alle nach § 11 Abs. 1
 oder 2 des Rechtsdienstleistungsgesetzes für die jeweilige
@@ -180,6 +185,7 @@ dem Zeugnis beizufügen.
 
 
 ## § 5 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000601125)
 
 (1) Die nach § 12 Abs. 1 Nr. 3 des Rechtsdienstleistungsgesetzes von
 der registrierten Person zu unterhaltende
@@ -247,6 +253,7 @@ Person an der Nichterteilung dieser Auskunft überwiegt.
 
 
 ## § 6 Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000702119)
 
 (1) Anträge nach § 13 Abs. 1 des Rechtsdienstleistungsgesetzes sind in
 Textform zu stellen. Dabei ist anzugeben, für welchen Bereich oder
@@ -269,6 +276,7 @@ ausgestellt sind, kann die Vorlage einer Übersetzung verlangt werden.
 
 
 ## § 7 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000803125)
 
 (1) Akten und elektronische Akten über registrierte Personen sind für
 einen Zeitraum von zehn Jahren nach der Löschung der im
@@ -288,6 +296,7 @@ Beendigung des Verfahrens aufzubewahren.
 
 
 ## § 8 Öffentliche Bekanntmachungen im Rechtsdienstleistungsregister
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE000904125)
 
 Für öffentliche Bekanntmachungen nach § 16 Absatz 2 Satz 1 Nummer 1
 des Rechtsdienstleistungsgesetzes und solche nach § 16 Absatz 2 Satz 1
@@ -337,15 +346,18 @@ Unterscheidungskraft besitzen.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE001003125)
 
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE001100000)
 
 Diese Verordnung tritt am 1. Juli 2008 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rdv/BJNR106900008.html#BJNR106900008BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

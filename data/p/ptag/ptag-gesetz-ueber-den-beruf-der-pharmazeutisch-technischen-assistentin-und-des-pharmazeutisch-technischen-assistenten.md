@@ -30,9 +30,11 @@ geändert worden ist.
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000100000)
 
 
 ### § 1 Erlaubnis zum Führen der Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder „pharmazeutisch-technischer Assistent“
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000200000)
 
 Wer die Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder
 „pharmazeutisch-technischer Assistent“ führen will, bedarf der
@@ -40,6 +42,7 @@ Erlaubnis.
 
 
 ### § 2 Voraussetzungen für die Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000300000)
 
 (1) Die Erlaubnis nach § 1 wird auf Antrag erteilt, wenn die
 antragstellende Person
@@ -90,6 +93,7 @@ zuständige Behörde des Landes, in dem
 
 
 ### § 3 Rücknahme der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000400000)
 
 (1) Die Erlaubnis nach § 1 ist zurückzunehmen, wenn
 
@@ -116,6 +120,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 4 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000500000)
 
 (1) Die Erlaubnis nach § 1 ist zu widerrufen, wenn bekannt wird, dass
 sich die Inhaberin oder der Inhaber einer Erlaubnis eines Verhaltens
@@ -131,6 +136,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 5 Ruhen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000600000)
 
 (1) Das Ruhen der Erlaubnis nach § 1 kann angeordnet werden, wenn
 
@@ -157,9 +163,11 @@ Voraussetzungen nicht mehr vorliegen.
 
 
 ## Abschnitt 2 - Berufsbild und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000200000)
 
 
 ### § 6 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000701116)
 
 Die Ausübung des Berufs der pharmazeutisch-technischen Assistentin und
 des pharmazeutisch-technischen Assistenten umfasst insbesondere
@@ -218,6 +226,7 @@ des pharmazeutisch-technischen Assistenten umfasst insbesondere
 
 
 ### § 7 Befugnisse der pharmazeutisch-technischen Assistentinnen und pharmazeutisch-technischen Assistenten
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000800000)
 
 (1) Die pharmazeutisch-technischen Assistentinnen und pharmazeutisch-
 technischen Assistenten sind befugt, in der Apotheke unter der
@@ -253,9 +262,11 @@ nicht befugt.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000300000)
 
 
 ### § 8 Nichtanwendung des Berufsbildungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE000900000)
 
 Auf die Ausbildung zur pharmazeutisch-technischen Assistentin oder zum
 pharmazeutisch-technischen Assistenten und auf das
@@ -263,6 +274,7 @@ Ausbildungsverhältnis findet das Berufsbildungsgesetz keine Anwendung.
 
 
 ### § 9 Ziel der Ausbildung und der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001000000)
 
 Die Ausbildung zur pharmazeutisch-technischen Assistentin oder zum
 pharmazeutisch-technischen Assistenten und die staatliche Prüfung sind
@@ -275,6 +287,7 @@ berücksichtigen.
 
 
 ### § 10 Voraussetzungen für den Zugang zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001100000)
 
 Die Ausbildung zur pharmazeutisch-technischen Assistentin oder zum
 pharmazeutisch-technischen Assistenten darf nur absolvieren, wer
@@ -309,6 +322,7 @@ pharmazeutisch-technischen Assistenten darf nur absolvieren, wer
 
 
 ### § 11 Dauer und Struktur der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001200000)
 
 (1) Die Ausbildung dauert in Vollzeit zweieinhalb Jahre. Sie umfasst
 
@@ -347,6 +361,7 @@ Entscheidung anzuhören.
 
 
 ### § 12 Verkürzung der Ausbildungsdauer durch Anrechnung gleichwertiger Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001300000)
 
 Die zuständige Behörde kann auf Antrag eine erfolgreich abgeschlossene
 Ausbildung oder erfolgreich abgeschlossene Teile einer Ausbildung oder
@@ -359,6 +374,7 @@ dadurch nicht gefährdet wird.
 
 
 ### § 13 Anrechnung von Fehlzeiten
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001400000)
 
 (1) Auf die Dauer der Ausbildung werden angerechnet:
 
@@ -397,6 +413,7 @@ Landespersonalvertretungsgesetzen bleiben unberührt.
 
 
 ### § 14 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001500000)
 
 (1) Die Ausbildung schließt mit der staatlichen Prüfung ab.
 
@@ -410,6 +427,7 @@ prüfende Person bis zu zweimal wiederholen.
 
 
 ### § 15 Schulische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001600000)
 
 (1) Die schulische Ausbildung wird an einer staatlichen, staatlich
 genehmigten oder staatlich anerkannten Schule durchgeführt. Die
@@ -421,6 +439,7 @@ durch die zuständige Behörde.
 
 
 ### § 16 Mindestanforderungen an die Schulen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001700000)
 
 (1) Die Schulen müssen eine ordnungsgemäße schulische Ausbildung
 sicherstellen. Sie müssen folgende Anforderungen erfüllen:
@@ -460,6 +479,7 @@ Anforderungen festlegen.
 
 
 ### § 17 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001800000)
 
 (1) Die praktische Ausbildung nach § 11 Absatz 1 Satz 2 Nummer 4
 dürfen nur Auszubildende absolvieren, die den ersten Abschnitt der
@@ -512,9 +532,11 @@ Assistentin oder zum pharmazeutisch-technischen Assistenten.
 
 
 ## Abschnitt 4 - Ausbildungsverhältnis während der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000400000)
 
 
 ### § 18 Ausbildungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE001901116)
 
 (1) Zwischen dem Träger der praktischen Ausbildung und der oder dem
 Auszubildenden ist für die Durchführung der praktischen Ausbildung ein
@@ -587,6 +609,7 @@ anzuwenden.
 
 
 ### § 19 Pflichten der Träger der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002000000)
 
 (1) Der Träger der praktischen Ausbildung hat, im Fall des § 17 Absatz
 2 Satz 2 Nummer 2 im Einvernehmen mit der Apothekenleiterin oder dem
@@ -621,6 +644,7 @@ angemessen sein.
 
 
 ### § 20 Pflichten der oder des Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002100000)
 
 (1) Die oder der Auszubildende hat sich zu bemühen, das
 Ausbildungsziel zu erreichen.
@@ -647,6 +671,7 @@ Ausbildungsziel zu erreichen.
 
 
 ### § 21 Ausbildungsvergütung; Überstunden und ihre Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002200000)
 
 (1) Der Träger der praktischen Ausbildung hat der oder dem
 Auszubildenden eine angemessene monatliche Ausbildungsvergütung zu
@@ -664,6 +689,7 @@ vertreten hat, nicht erfüllen kann.
 
 
 ### § 22 Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002300000)
 
 (1) Auf die Ausbildungsvergütung können Sachbezüge angerechnet werden.
 Maßgeblich für die Bestimmung der Werte der Sachbezüge sind die Werte,
@@ -681,6 +707,7 @@ Sachbezugswerten auszuzahlen.
 
 
 ### § 23 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002400000)
 
 (1) Die ersten vier Wochen des Ausbildungsverhältnisses sind die
 Probezeit.
@@ -690,6 +717,7 @@ aus tarifvertraglichen Regelungen eine andere Dauer ergibt.
 
 
 ### § 24 Ende des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002500000)
 
 (1) Das Ausbildungsverhältnis endet unabhängig vom Zeitpunkt des
 zweiten Abschnitts der staatlichen Prüfung mit Ablauf der Zeit der
@@ -712,6 +740,7 @@ nächstmöglichen staatlichen Prüfung.
 
 
 ### § 25 Kündigung des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002600000)
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem
 Vertragspartner jederzeit ohne Einhalten einer Kündigungsfrist
@@ -751,6 +780,7 @@ Satz 1 gehemmt.
 
 
 ### § 26 Beschäftigung im Anschluss an das Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002700000)
 
 Wird die oder der Auszubildende im Anschluss an das
 Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
@@ -759,6 +789,7 @@ unbestimmte Zeit als begründet.
 
 
 ### § 27 Nichtigkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002800000)
 
 (1) Eine Vereinbarung, die zu Ungunsten der oder des Auszubildenden
 von den §§ 18 bis 26 abweicht, ist nichtig.
@@ -790,9 +821,11 @@ Ausbildungsverhältnisses ein Arbeitsverhältnis eingeht.
 
 
 ## Abschnitt 5 - Anerkennung im Ausland erworbener Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000500000)
 
 
 ### § 28 Anforderungen an die Anerkennung einer außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE002900000)
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene
 Berufsqualifikation wird anerkannt, wenn
@@ -823,12 +856,14 @@ Berufsqualifikation zu erteilen.
 
 
 ### § 29 Nichtanwendbarkeit des Berufsqualifikationsfeststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003000000)
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 des Berufsqualifikationsfeststellungsgesetzes keine Anwendung.
 
 
 ### § 30 Begriffsbestimmungen zu den ausländischen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003100000)
 
 (1) Mitgliedstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der
 Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten
@@ -858,6 +893,7 @@ erbringt.
 
 
 ### § 31 Ausbildungsnachweise bei Berufsqualifikationen, die in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat abgeschlossen worden sind
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003200000)
 
 (1) Bei einer Berufsqualifikation, die in einem anderen Mitgliedstaat,
 in einem anderen Vertragsstaat oder in einem gleichgestellten Staat
@@ -951,6 +987,7 @@ beigefügt ist.
 
 
 ### § 32 Ausbildungsnachweise bei Ausbildungen, die in einem Drittstaat abgeschlossen worden sind
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003300000)
 
 (1) Bei einer Berufsqualifikation, die in einem Drittstaat, der kein
 gleichgestellter Staat ist, abgeschlossen worden ist, sind die
@@ -974,6 +1011,7 @@ Bescheinigung vorzulegen.
 
 
 ### § 33 Gleichwertigkeit der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003400000)
 
 Eine Berufsqualifikation, die außerhalb des Geltungsbereichs dieses
 Gesetzes abgeschlossen worden ist, ist gleichwertig mit der in diesem
@@ -994,6 +1032,7 @@ Assistentin oder zum pharmazeutisch-technischen Assistenten, wenn
 
 
 ### § 34 Wesentliche Unterschiede bei der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003501116)
 
 (1) Wesentliche Unterschiede liegen vor,
 
@@ -1021,6 +1060,7 @@ im Geltungsbereich dieses Gesetzes sind.
 
 
 ### § 35 Ausgleich durch Berufserfahrung oder durch lebenslanges Lernen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003600000)
 
 (1) Wesentliche Unterschiede können vollständig oder teilweise
 ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen, die
@@ -1047,6 +1087,7 @@ sind.
 
 
 ### § 36 Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003700000)
 
 (1) Ist die Berufsqualifikation der antragstellenden Person nicht mit
 der in diesem Gesetz geregelten Berufsqualifikation gleichwertig, so
@@ -1061,6 +1102,7 @@ vorlegen kann.
 
 
 ### § 37 Anerkennung der Berufsqualifikation nach Eignungsprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003800000)
 
 (1) Als Anpassungsmaßnahme ist eine Eignungsprüfung oder ein
 Anpassungslehrgang erforderlich, wenn die antragstellende Person
@@ -1096,6 +1138,7 @@ Eignungsprüfung ablegen.
 
 
 ### § 38 Anerkennung der Berufsqualifikation nach Kenntnisprüfung oder Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE003901116)
 
 (1) Als Anpassungsmaßnahme ist eine Kenntnisprüfung oder ein
 Anpassungslehrgang erforderlich, wenn die antragstellende Person eine
@@ -1123,6 +1166,7 @@ Berufsqualifikation anerkannt.
 
 
 ### § 39 Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004000000)
 
 (1) Die Eignungsprüfung erstreckt sich auf die wesentlichen
 Unterschiede, die zuvor bei der antragstellenden Person festgestellt
@@ -1133,6 +1177,7 @@ Berufsqualifikation anerkannt.
 
 
 ### § 40 Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004100000)
 
 (1) Die Kenntnisprüfung erstreckt sich auf den Inhalt der staatlichen
 Prüfung.
@@ -1142,6 +1187,7 @@ Berufsqualifikation anerkannt.
 
 
 ### § 41 Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004201116)
 
 (1) Den Inhalt und Umfang des Anpassungslehrgangs regelt die auf der
 Grundlage des § 56 erlassene Ausbildungs- und Prüfungsverordnung.
@@ -1154,9 +1200,11 @@ Grundlage des § 56 erlassene Ausbildungs- und Prüfungsverordnung.
 
 
 ## Abschnitt 6 - Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000600000)
 
 
 ### § 42 Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004300000)
 
 Eine Staatsangehörige oder ein Staatsangehöriger eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -1169,6 +1217,7 @@ ausüben, wenn sie oder er zur Dienstleistung berechtigt ist.
 
 
 ### § 43 Meldung der Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004401116)
 
 (1) Wer beabsichtigt, in Deutschland als dienstleistungserbringende
 Person tätig zu sein, ist verpflichtet, dies der in Deutschland
@@ -1227,6 +1276,7 @@ richten, in dem die Dienstleistung erbracht werden soll.
 
 
 ### § 44 Berechtigung zur Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004501116)
 
 Zur Dienstleistungserbringung ist nur berechtigt, wer
 
@@ -1275,6 +1325,7 @@ Zur Dienstleistungserbringung ist nur berechtigt, wer
 
 
 ### § 45 Zur Dienstleistungserbringung berechtigende Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004600000)
 
 (1) Zur Dienstleistungserbringung berechtigen folgende
 Berufsqualifikationen:
@@ -1324,6 +1375,7 @@ Dienstleistungserbringung.
 
 
 ### § 46 Überprüfen der Berechtigung zur Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004701116)
 
 (1) Die zuständige Behörde überprüft, ob die meldende Person
 berechtigt ist, in Deutschland die Tätigkeit der pharmazeutisch-
@@ -1347,6 +1399,7 @@ meldenden Person anfordern.
 
 
 ### § 47 Rechte und Pflichten der dienstleistungserbringenden Person
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004800000)
 
 (1) Ist eine Person berechtigt, den Beruf der pharmazeutisch-
 technischen Assistentin und des pharmazeutisch-technischen Assistenten
@@ -1390,6 +1443,7 @@ in dem die Dienstleistung erbracht wird.
 
 
 ### § 48 Pflicht zur erneuten Meldung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE004900000)
 
 (1) Beabsichtigt die dienstleistungserbringende Person nach Ablauf
 eines Jahres nach der letzten Meldung erneut, vorübergehend und
@@ -1401,6 +1455,7 @@ machen, in dem die Dienstleistung erbracht werden soll.
 
 
 ### § 49 Bescheinigung, die erforderlich ist zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder in einem gleichgestellten Staat
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005000000)
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -1439,9 +1494,11 @@ technischen Assistenten ausübt.
 
 
 ## Abschnitt 7 - Zuständigkeiten und Zusammenarbeit der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000700000)
 
 
 ### § 50 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005100000)
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
@@ -1467,6 +1524,7 @@ der Länder wahrgenommen werden:
 
 
 ### § 51 Unterrichtungs- und Überprüfungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005200000)
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den Beruf
 der pharmazeutisch-technischen Assistentin und des pharmazeutisch-
@@ -1552,6 +1610,7 @@ statistischen Aufstellungen an die Europäische Kommission weiter.
 
 
 ### § 52 Warnmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005300000)
 
 (1) Die zuständige Behörde eines Landes unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und
@@ -1637,6 +1696,7 @@ entsprechenden Hinweis.
 
 
 ### § 53 Löschung einer Warnmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005400000)
 
 Ist die Entscheidung, die die Warnmitteilung ausgelöst hat, aufgehoben
 worden, so löscht die Behörde, die die Warnmitteilung getätigt hat,
@@ -1646,6 +1706,7 @@ Entscheidung.
 
 
 ### § 54 Unterrichtung über gefälschte Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005500000)
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
 auf Erteilung der Erlaubnis zum Führen der Berufsbezeichnung oder auf
@@ -1692,6 +1753,7 @@ Unterrichtung über die Fälschung um einen entsprechenden Hinweis.
 
 
 ### § 55 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005600000)
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
 dieses Gesetzes den Beruf der pharmazeutisch-technischen Assistentin
@@ -1742,9 +1804,11 @@ Behörde
 
 
 ## Abschnitt 8 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000800000)
 
 
 ### § 56 Ermächtigung zum Erlass der Ausbildungs- und Prüfungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005700000)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -1820,9 +1884,11 @@ des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
 
 ## Abschnitt 9 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG000900000)
 
 
 ### § 57 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005800000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1841,9 +1907,11 @@ Euro geahndet werden.
 
 
 ## Abschnitt 10 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG001000000)
 
 
 ### § 58 Übergangsvorschriften für die Mindestanforderungen an Schulen
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE005900000)
 
 (1) Die Voraussetzungen des § 16 Absatz 1 Satz 2 Nummer 1 und 2 gelten
 als erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen
@@ -1878,6 +1946,7 @@ entsprechenden Position tätig gewesen sind.
 
 
 ### § 59 Weitergeltung der Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE006000000)
 
 Eine Erlaubnis zum Führen der Berufsbezeichnung „pharmazeutisch-
 technische Assistentin“ oder „pharmazeutisch-technischer Assistent“,
@@ -1886,6 +1955,7 @@ erteilt wurde, gilt weiter. Die §§ 3 bis 5 bleiben unberührt.
 
 
 ### § 60 Weiterführung einer begonnenen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE006100000)
 
 Wer vor dem 1. Januar 2023 eine Ausbildung zur pharmazeutisch-
 technischen Assistentin oder zum pharmazeutisch-technischen
@@ -1895,6 +1965,7 @@ Ausbildung die Voraussetzung nach § 2 Absatz 1 Nummer 1.
 
 
 ### § 61 Weitergeltung der Berechtigung zum Führen der Berufsbezeichnung und Weiterführung eines begonnenen Anerkennungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE006200000)
 
 Antragstellende Personen sind in Deutschland zum Führen der
 Berufsbezeichnung „pharmazeutisch-technische Assistentin“ oder
@@ -1917,9 +1988,11 @@ Ausbildung, das vor dem 1. Januar 2023 begonnen wurde,
 
 
 ## Abschnitt 11 - Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNG001100000)
 
 
 ### § 62 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ptag/BJNR006610020.html#BJNR006610020BJNE006300000)
 
 Das Bundesministerium für Gesundheit evaluiert frühestens nach acht
 Jahren nach Inkrafttreten dieses Gesetzes die inhaltlichen Änderungen

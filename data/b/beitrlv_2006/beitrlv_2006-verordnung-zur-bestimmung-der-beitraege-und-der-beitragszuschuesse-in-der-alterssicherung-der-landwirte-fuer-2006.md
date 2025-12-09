@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beitrlv_2006/BJNR362600005.html#BJNR362600005BJNE000100000)
 
 Auf Grund des § 35 Abs. 1 und des § 69 in Verbindung mit § 68 sowie
 auf Grund des § 120 des Gesetzes über die Alterssicherung der
@@ -30,6 +31,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Beitrag in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/beitrlv_2006/BJNR362600005.html#BJNR362600005BJNE000200000)
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Kalenderjahr 2006 monatlich 199 Euro.
@@ -39,6 +41,7 @@ Beitrittsgebiet für das Kalenderjahr 2006 monatlich 168 Euro.
 
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/beitrlv_2006/BJNR362600005.html#BJNR362600005BJNE000300000)
 
 (1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
 wird der monatliche Zuschussbetrag für das Kalenderjahr 2006 wie folgt
@@ -274,11 +277,13 @@ Kalenderjahr 2006 wie folgt festgesetzt:
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beitrlv_2006/BJNR362600005.html#BJNR362600005BJNE000400000)
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/beitrlv_2006/BJNR362600005.html#BJNR362600005BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000100000)
 
 
 
 ### § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000201305)
 
 Dieses Gesetz dient dem Schutz vor Angriffen auf die Sicherheit des
 zivilen Luftverkehrs, insbesondere vor Flugzeugentführungen,
@@ -31,6 +33,7 @@ Sabotageakten und terroristischen Anschlägen.
 
 
 ### § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000301305)
 
 Die Luftsicherheitsbehörde hat die Aufgabe, Angriffe auf die
 Sicherheit des Luftverkehrs im Sinne des § 1 abzuwehren. Dazu gehört
@@ -58,10 +61,12 @@ insbesondere, dass sie:
 
 
 ## Abschnitt 2 - Sicherheitsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000200000)
 
 
 
 ### § 3 Allgemeine Befugnisse der Luftsicherheitsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000401305)
 
 (1) Die Luftsicherheitsbehörde trifft die notwendigen Maßnahmen, um
 eine im Einzelfall bestehende Gefahr für die Sicherheit des zivilen
@@ -98,6 +103,7 @@ unberührt.
 
 
 ### § 3a Flugverbot
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002300305)
 
 (1) Bei tatsächlichen Anhaltspunkten für eine erhebliche Gefährdung
 der Luftsicherheit kann die Luftsicherheitsbehörde für einzelne
@@ -130,6 +136,7 @@ entsprechend.
 
 
 ### § 4 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000500000)
 
 (1) Von mehreren möglichen und geeigneten Maßnahmen ist diejenige zu
 treffen, die den Einzelnen oder die Allgemeinheit voraussichtlich am
@@ -143,6 +150,7 @@ oder sich zeigt, dass er nicht erreicht werden kann.
 
 
 ### § 5 Besondere Befugnisse der Luftsicherheitsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000601305)
 
 (1) Die Luftsicherheitsbehörde kann Personen, welche den
 Sicherheitsbereich des Flugplatzes betreten haben oder betreten
@@ -192,6 +200,7 @@ Beförderung gegen § 27 des Luftverkehrsgesetzes verstößt, befinden.
 
 
 ### § 6 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000701126)
 
 (1) Die Befugnis zur Verarbeitung personenbezogener Daten richtet sich
 nach den für die Luftsicherheitsbehörden geltenden Vorschriften des
@@ -208,6 +217,7 @@ terroristischen Angriffen, erforderlich ist.
 
 
 ### § 7 Zuverlässigkeitsüberprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000805124)
 
 (1) Zum Schutz vor Angriffen auf die Sicherheit des zivilen
 Luftverkehrs (§ 1) hat die Luftsicherheitsbehörde die Zuverlässigkeit
@@ -567,6 +577,7 @@ Wirkung.
 
 
 ### § 7a Gemeinsames Luftsicherheitsregister
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002900124)
 
 (1) Die Luftsicherheitsbehörden der Länder können ein gemeinsames
 Luftsicherheitsregister errichten und führen, in dem für Zwecke des
@@ -709,6 +720,7 @@ gespeicherten Daten gilt § 7 Absatz 11 Satz 1 Nummer 1 entsprechend.
 
 
 ### § 8 Sicherheitsmaßnahmen der Flugplatzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE000901305)
 
 (1) Der Betreiber eines Flugplatzes ist zum Schutz des
 Flughafenbetriebs vor Angriffen auf die Sicherheit des Luftverkehrs
@@ -819,6 +831,7 @@ maßgeblich.
 
 
 ### § 9 Sicherheitsmaßnahmen der Luftfahrtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001001305)
 
 (1) Ein Luftfahrtunternehmen ist zum Schutz vor Angriffen auf die
 Sicherheit des Luftverkehrs verpflichtet,
@@ -952,6 +965,7 @@ erforderlich ist.
 
 
 ### § 9a Sicherheitsmaßnahmen der Beteiligten an der sicheren Lieferkette
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002401126)
 
 (1) Reglementierte Beauftragte, bekannte Versender, Transporteure,
 andere Stellen nach Ziffer 6.3.1.1. Buchstabe c des Anhangs der
@@ -1036,6 +1050,7 @@ werden.
 
 
 ### § 10 Zugangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001102126)
 
 Die Luftsicherheitsbehörde entscheidet, welchen Personen bei Vorliegen
 der Voraussetzungen die Berechtigung zum Zugang zur Luftseite sowie
@@ -1055,6 +1070,7 @@ Sicherheitsbereichen ohne Berechtigung ist verboten.
 
 
 ### § 10a Sicherheitsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002500305)
 
 (1) Sicherheitsausrüstung sind Kontrollmittel zur Durchführung der
 Kontrollen von Fluggästen und Handgepäck, von aufgegebenem Gepäck, von
@@ -1102,6 +1118,7 @@ zertifizierten und zugelassenen Sicherheitsausrüstung.
 
 
 ### § 11 Verbotene Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001201305)
 
 (1) Das Mitführen im Handgepäck oder Ansichtragen von
 
@@ -1165,6 +1182,7 @@ Infrastruktur erteilen.
 
 
 ### § 12 Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugführers
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001301308)
 
 (1) Der verantwortliche Luftfahrzeugführer hat als Beliehener für die
 Aufrechterhaltung der Sicherheit und Ordnung an Bord des im Flug
@@ -1218,10 +1236,12 @@ Absätzen 1 bis 3 entsteht.
 
 
 ## Abschnitt 3 - Unterstützung und Amtshilfe durch die Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000300000)
 
 
 
 ### § 13 Entscheidung der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001401305)
 
 (1) Liegen auf Grund eines erheblichen Luftzwischenfalls Tatsachen
 vor, die im Rahmen der Gefahrenabwehr die Annahme begründen, dass ein
@@ -1250,6 +1270,7 @@ Vorschriften dieses Gesetzes.
 
 
 ### § 14 Einsatzmaßnahmen, Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001501305)
 
 (1) Zur Verhinderung des Eintritts eines besonders schweren
 Unglücksfalles dürfen die Streitkräfte im Luftraum Luftfahrzeuge
@@ -1268,6 +1289,7 @@ Luftwaffe generell ermächtigen, Maßnahmen nach Absatz 1 anzuordnen.
 
 
 ### § 15 Sonstige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001602305)
 
 (1) Die Maßnahmen nach § 14 Absatz 1 dürfen erst nach Überprüfung
 sowie erfolglosen Versuchen zur Warnung und Umleitung getroffen
@@ -1288,10 +1310,12 @@ unberührt.
 
 
 ## Abschnitt 4 - Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000400000)
 
 
 
 ### § 16 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001704124)
 
 (1) Die örtliche Zuständigkeit der Luftsicherheitsbehörden für die
 Aufgaben nach § 2 erstreckt sich auf das Flugplatzgelände. Die
@@ -1362,6 +1386,7 @@ vom Luftfahrt-Bundesamt wahrgenommen.
 
 
 ### § 16a Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002601124)
 
 (1) Die zuständige Luftsicherheitsbehörde kann natürlichen Personen
 sowie teilrechtsfähigen Vereinigungen und juristischen Personen des
@@ -1420,6 +1445,7 @@ machen.
 
 
 ### § 17 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001805126)
 
 (1) Das Bundesministerium des Innern regelt durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Einzelheiten der
@@ -1475,6 +1501,7 @@ Validierungsprüfer für die Luftsicherheit zu regeln.
 
 
 ### § 17a Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002701126)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und der Verordnung (EG) Nr. 300/2008 werden Gebühren und
@@ -1517,10 +1544,12 @@ gespeicherten personenbezogenen Daten sind gebühren- und auslagenfrei.
 
 
 ## Abschnitt 5 - Bußgeld- und Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000500000)
 
 
 
 ### § 18 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE001901305)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1583,6 +1612,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Luftsicherheitsbehörde.
 
 
 ### § 19 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002001305)
 
 (1) Wer entgegen § 11 Absatz 1 Satz 1 einen dort genannten Gegenstand
 in einem Luftfahrzeug oder auf einem Flugplatz in einem Bereich der
@@ -1596,6 +1626,7 @@ bestraft.
 
 
 ### § 20 Bußgeld- und Strafvorschriften zu § 12
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002101305)
 
 (1) Ordnungswidrig handelt, wer entgegen § 12 Abs. 4 als an Bord
 befindliche Person den Anordnungen des Luftfahrzeugführers oder seiner
@@ -1624,10 +1655,12 @@ schwerer Fall liegt in der Regel vor, wenn
 
 
 ## Abschnitt 6 - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNG000600000)
 
 
 
 ### § 21 Grundrechtseinschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002200000)
 
 Die Grundrechte auf Leben, körperliche Unversehrtheit und Freiheit der
 Person (Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes), das
@@ -1638,6 +1671,7 @@ eingeschränkt.
 
 
 ### § 22 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftsig/BJNR007810005.html#BJNR007810005BJNE002800305)
 
 (1) Die Regelung in § 7 Absatz 1 Satz 2 ist erst ein Jahr nach dem 4.
 März 2017 anzuwenden. Bereits vor diesem Zeitpunkt können die

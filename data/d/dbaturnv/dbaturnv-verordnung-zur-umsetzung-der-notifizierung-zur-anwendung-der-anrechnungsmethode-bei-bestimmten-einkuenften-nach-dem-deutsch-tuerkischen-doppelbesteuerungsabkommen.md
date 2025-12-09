@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbaturnv/BJNR018600019.html#BJNR018600019BJNE000100000)
 
 Auf Grund des § 2 Absatz 3 Nummer 1 der Abgabenordnung, der durch
 Artikel 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/dbaturnv/BJNR018600019.html#BJNR018600019BJNE000200000)
 
 Abkommen im Sinn dieser Verordnung ist das Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Türkei zur Vermeidung der
@@ -35,6 +37,7 @@ in der jeweils geltenden Fassung.
 
 
 ## § 2 Vermeidung der Doppelbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/dbaturnv/BJNR018600019.html#BJNR018600019BJNE000300000)
 
 Aufgrund der auf diplomatischem Weg erfolgten Notifizierung gemäß
 Artikel 22 Absatz 2 Buchstabe e Doppelbuchstabe bb des Abkommens wird
@@ -52,17 +55,20 @@ Deutschland die Doppelbesteuerung durch Steueranrechnung nach Artikel
 
 
 ## § 3 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/dbaturnv/BJNR018600019.html#BJNR018600019BJNE000400000)
 
 Diese Verordnung ist auf Steuern anzuwenden, die für Zeiträume ab dem
 1\. Januar 2019 erhoben werden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbaturnv/BJNR018600019.html#BJNR018600019BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dbaturnv/BJNR018600019.html#BJNR018600019BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

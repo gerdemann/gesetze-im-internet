@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbb_mvbek/BJNR020500993.html#BJNR020500993BJNE000100333)
 
 Zwischen dem Land Brandenburg und dem Land Mecklenburg-Vorpommern
 wurde am 9. Mai 1992 ein Staatsvertrag über eine Änderung der

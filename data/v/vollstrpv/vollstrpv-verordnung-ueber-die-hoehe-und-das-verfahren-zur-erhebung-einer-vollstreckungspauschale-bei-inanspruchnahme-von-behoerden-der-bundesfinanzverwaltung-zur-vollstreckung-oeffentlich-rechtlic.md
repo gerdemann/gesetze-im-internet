@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000100000)
 
 Auf Grund des § 19a Absatz 3 des Verwaltungs-Vollstreckungsgesetzes,
 der durch Artikel 1 Nummer 3 des Gesetzes vom 25. November 2014 (BGBl.
@@ -28,6 +29,7 @@ Soziales und dem Bundesministerium für Gesundheit:
 
 
 ## § 1 Höhe, erstmalige Überprüfung und Berechnungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000200000)
 
 (1) Die Vollstreckungspauschale gemäß § 19a Absatz 1 des Verwaltungs-
 Vollstreckungsgesetzes beträgt 9 Euro.
@@ -41,6 +43,7 @@ vorhergehenden Kalenderjahre zu Grunde gelegt.
 
 
 ## § 2 Entstehung
+[Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000300000)
 
 Die Verpflichtung zur Leistung der Vollstreckungspauschale entsteht
 dem Grunde nach in dem Zeitpunkt, in dem die Anordnung an die
@@ -50,6 +53,7 @@ Rücknahme lässt die Entstehung unberührt.
 
 
 ## § 3 Abrechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000400000)
 
 (1) Das Bundesministerium der Finanzen beauftragt ein oder mehrere
 Hauptzollämter mit der Rechnungsstellung.
@@ -75,6 +79,7 @@ folgenden Jahres an die Anordnungsbehörden versandt.
 
 
 ## § 4 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000500000)
 
 Der Rechnungsbetrag wird einen Monat nach Ablauf des Monats fällig, in
 dem der Anordnungsbehörde die in § 3 Absatz 4 bezeichnete Rechnung
@@ -82,6 +87,7 @@ zugegangen ist.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vollstrpv/BJNR199600014.html#BJNR199600014BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

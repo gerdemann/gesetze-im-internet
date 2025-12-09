@@ -20,24 +20,29 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000101377)
 
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000201377)
 
 
 
 #### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004101377)
 
 Die Urheber von Werken der Literatur, Wissenschaft und Kunst genießen
 für ihre Werke Schutz nach Maßgabe dieses Gesetzes.
 
 
 ### Abschnitt 2 - Das Werk
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000301377)
 
 
 
 #### § 2 Geschützte Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004202305)
 
 (1) Zu den geschützten Werken der Literatur, Wissenschaft und Kunst
 gehören insbesondere:
@@ -75,6 +80,7 @@ Schöpfungen.
 
 
 #### § 3 Bearbeitungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004301304)
 
 Übersetzungen und andere Bearbeitungen eines Werkes, die persönliche
 geistige Schöpfungen des Bearbeiters sind, werden unbeschadet des
@@ -84,6 +90,7 @@ Musik wird nicht als selbständiges Werk geschützt.
 
 
 #### § 4 Sammelwerke und Datenbankwerke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004401307)
 
 (1) Sammlungen von Werken, Daten oder anderen unabhängigen Elementen,
 die aufgrund der Auswahl oder Anordnung der Elemente eine persönliche
@@ -100,6 +107,7 @@ Bestandteil des Datenbankwerkes.
 
 
 #### § 5 Amtliche Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004501377)
 
 (1) Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie
 Entscheidungen und amtlich verfaßte Leitsätze zu Entscheidungen
@@ -122,6 +130,7 @@ Einräumung des Nutzungsrechts nach Satz 2 verpflichtet.
 
 
 #### § 6 Veröffentlichte und erschienene Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004600315)
 
 (1) Ein Werk ist veröffentlicht, wenn es mit Zustimmung des
 Berechtigten der Öffentlichkeit zugänglich gemacht worden ist.
@@ -136,15 +145,18 @@ zugänglich ist.
 
 
 ### Abschnitt 3 - Der Urheber
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000401377)
 
 
 
 #### § 7 Urheber
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004700315)
 
 Urheber ist der Schöpfer des Werkes.
 
 
 #### § 8 Miturheber
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004800315)
 
 (1) Haben mehrere ein Werk gemeinsam geschaffen, ohne daß sich ihre
 Anteile gesondert verwerten lassen, so sind sie Miturheber des Werkes.
@@ -169,6 +181,7 @@ zu.
 
 
 #### § 9 Urheber verbundener Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE004900315)
 
 Haben mehrere Urheber ihre Werke zu gemeinsamer Verwertung miteinander
 verbunden, so kann jeder vom anderen die Einwilligung zur
@@ -178,6 +191,7 @@ zuzumuten ist.
 
 
 #### § 10 Vermutung der Urheber- oder Rechtsinhaberschaft
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005001140)
 
 (1) Wer auf den Vervielfältigungsstücken eines erschienenen Werkes
 oder auf dem Original eines Werkes der bildenden Künste in der
@@ -200,14 +214,17 @@ Urheber oder zum ursprünglichen Inhaber des verwandten Schutzrechts.
 
 
 ### Abschnitt 4 - Inhalt des Urheberrechts
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000501377)
 
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000601377)
 
 
 
 ##### § 11 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005102377)
 
 Das Urheberrecht schützt den Urheber in seinen geistigen und
 persönlichen Beziehungen zum Werk und in der Nutzung des Werkes. Es
@@ -216,10 +233,12 @@ Nutzung des Werkes.
 
 
 #### Unterabschnitt 2 - Urheberpersönlichkeitsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000701377)
 
 
 
 ##### § 12 Veröffentlichungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005200315)
 
 (1) Der Urheber hat das Recht zu bestimmen, ob und wie sein Werk zu
 veröffentlichen ist.
@@ -231,6 +250,7 @@ seiner Zustimmung veröffentlicht ist.
 
 
 ##### § 13 Anerkennung der Urheberschaft
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005300315)
 
 Der Urheber hat das Recht auf Anerkennung seiner Urheberschaft am
 Werk. Er kann bestimmen, ob das Werk mit einer Urheberbezeichnung zu
@@ -238,6 +258,7 @@ versehen und welche Bezeichnung zu verwenden ist.
 
 
 ##### § 14 Entstellung des Werkes
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005400315)
 
 Der Urheber hat das Recht, eine Entstellung oder eine andere
 Beeinträchtigung seines Werkes zu verbieten, die geeignet ist, seine
@@ -246,10 +267,12 @@ gefährden.
 
 
 #### Unterabschnitt 3 - Verwertungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000801377)
 
 
 
 ##### § 15 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005501377)
 
 (1) Der Urheber hat das ausschließliche Recht, sein Werk in
 körperlicher Form zu verwerten; das Recht umfaßt insbesondere
@@ -297,6 +320,7 @@ ist.
 
 
 ##### § 16 Vervielfältigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005601377)
 
 (1) Das Vervielfältigungsrecht ist das Recht, Vervielfältigungsstücke
 des Werkes herzustellen, gleichviel ob vorübergehend oder dauerhaft,
@@ -311,6 +335,7 @@ anderen handelt.
 
 
 ##### § 17 Verbreitungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005701307)
 
 (1) Das Verbreitungsrecht ist das Recht, das Original oder
 Vervielfältigungsstücke des Werkes der Öffentlichkeit anzubieten oder
@@ -340,6 +365,7 @@ von Originalen oder Vervielfältigungsstücken
 
 
 ##### § 18 Ausstellungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005800315)
 
 Das Ausstellungsrecht ist das Recht, das Original oder
 Vervielfältigungsstücke eines unveröffentlichten Werkes der bildenden
@@ -348,6 +374,7 @@ Schau zu stellen.
 
 
 ##### § 19 Vortrags-, Aufführungs- und Vorführungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE005901377)
 
 (1) Das Vortragsrecht ist das Recht, ein Sprachwerk durch persönliche
 Darbietung öffentlich zu Gehör zu bringen.
@@ -370,6 +397,7 @@ die Funksendung oder öffentliche Zugänglichmachung solcher Werke
 
 
 ##### § 19a Recht der öffentlichen Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022700377)
 
 Das Recht der öffentlichen Zugänglichmachung ist das Recht, das Werk
 drahtgebunden oder drahtlos der Öffentlichkeit in einer Weise
@@ -378,6 +406,7 @@ und zu Zeiten ihrer Wahl zugänglich ist.
 
 
 ##### § 20 Senderecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006001307)
 
 Das Senderecht ist das Recht, das Werk durch Funk, wie Ton- und
 Fernsehrundfunk, Satellitenrundfunk, Kabelfunk oder ähnliche
@@ -385,6 +414,7 @@ technische Mittel, der Öffentlichkeit zugänglich zu machen.
 
 
 ##### § 20a Europäische Satellitensendung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021800307)
 
 (1) Wird eine Satellitensendung innerhalb des Gebietes eines
 Mitgliedstaates der Europäischen Union oder Vertragsstaates des
@@ -423,6 +453,7 @@ und zurück zur Erde führt.
 
 
 ##### § 20b Weitersendung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021902360)
 
 (1) Das Recht, ein gesendetes Werk im Rahmen eines zeitgleich,
 unverändert und vollständig weiterübertragenen Programms
@@ -467,6 +498,7 @@ angemessene Vergütung für jede Weitersendung eingeräumt wird.
 
 
 ##### § 20c Europäischer ergänzender Online-Dienst
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027800360)
 
 (1) Ein ergänzender Online-Dienst eines Sendeunternehmens ist
 
@@ -499,6 +531,7 @@ Sportveranstaltungen.
 
 
 ##### § 20d Direkteinspeisung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027900360)
 
 (1) Überträgt ein Sendeunternehmen die programmtragenden Signale an
 einen Signalverteiler, ohne sie gleichzeitig selbst öffentlich
@@ -511,6 +544,7 @@ Sendeunternehmen und der Signalverteiler als Beteiligte einer einzigen
 
 
 ##### § 21 Recht der Wiedergabe durch Bild- oder Tonträger
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006100315)
 
 Das Recht der Wiedergabe durch Bild- oder Tonträger ist das Recht,
 Vorträge oder Aufführungen des Werkes mittels Bild- oder Tonträger
@@ -518,6 +552,7 @@ Vorträge oder Aufführungen des Werkes mittels Bild- oder Tonträger
 
 
 ##### § 22 Recht der Wiedergabe von Funksendungen und von öffentlicher Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006201377)
 
 Das Recht der Wiedergabe von Funksendungen und der Wiedergabe von
 öffentlicher Zugänglichmachung ist das Recht, Funksendungen und auf
@@ -527,6 +562,7 @@ Bildschirm, Lautsprecher oder ähnliche technische Einrichtungen
 
 
 ##### § 23 Bearbeitungen und Umgestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006303360)
 
 (1) Bearbeitungen oder andere Umgestaltungen eines Werkes,
 insbesondere auch einer Melodie, dürfen nur mit Zustimmung des
@@ -559,14 +595,17 @@ Nutzungen nach § 44b Absatz 2, § 60d Absatz 1, § 60e Absatz 1 sowie §
 
 
 ##### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006401360)
 
 
 
 #### Unterabschnitt 4 - Sonstige Rechte des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG000901377)
 
 
 
 ##### § 25 Zugang zu Werkstücken
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006500315)
 
 (1) Der Urheber kann vom Besitzer des Originals oder eines
 Vervielfältigungsstückes seines Werkes verlangen, daß er ihm das
@@ -580,6 +619,7 @@ Vervielfältigungsstück dem Urheber herauszugeben.
 
 
 ##### § 26 Folgerecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006603377)
 
 (1) Wird das Original eines Werkes der bildenden Künste oder eines
 Lichtbildwerkes weiterveräußert und ist hieran ein Kunsthändler oder
@@ -651,6 +691,7 @@ angewandten Kunst nicht anzuwenden.
 
 
 ##### § 27 Vergütung für Vermietung und Verleihen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006701307)
 
 (1) Hat der Urheber das Vermietrecht (§ 17) an einem Bild- oder
 Tonträger dem Tonträger- oder Filmhersteller eingeräumt, so hat der
@@ -675,14 +716,17 @@ eine Verwertungsgesellschaft geltend gemacht werden.
 
 
 ### Abschnitt 5 - Rechtsverkehr im Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001001377)
 
 
 
 #### Unterabschnitt 1 - Rechtsnachfolge in das Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001101377)
 
 
 
 ##### § 28 Vererbung des Urheberrechts
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006800315)
 
 (1) Das Urheberrecht ist vererblich.
 
@@ -692,6 +736,7 @@ Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 
 ##### § 29 Rechtsgeschäfte über das Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE006901377)
 
 (1) Das Urheberrecht ist nicht übertragbar, es sei denn, es wird in
 Erfüllung einer Verfügung von Todes wegen oder an Miterben im Wege der
@@ -704,16 +749,19 @@ Urheberpersönlichkeitsrechte.
 
 
 ##### § 30 Rechtsnachfolger des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007000315)
 
 Der Rechtsnachfolger des Urhebers hat die dem Urheber nach diesem
 Gesetz zustehenden Rechte, soweit nichts anderes bestimmt ist.
 
 
 #### Unterabschnitt 2 - Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001201377)
 
 
 
 ##### § 31 Einräumung von Nutzungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007102377)
 
 (1) Der Urheber kann einem anderen das Recht einräumen, das Werk auf
 einzelne oder alle Nutzungsarten zu nutzen (Nutzungsrecht). Das
@@ -743,6 +791,7 @@ unterliegt.
 
 
 ##### § 31a Verträge über unbekannte Nutzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007104125)
 
 (1) Ein Vertrag, durch den der Urheber Rechte für unbekannte
 Nutzungsarten einräumt oder sich dazu verpflichtet, bedarf der
@@ -773,6 +822,7 @@ verzichtet werden.
 
 
 ##### § 32 Angemessene Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007203360)
 
 (1) Der Urheber hat für die Einräumung von Nutzungsrechten und die
 Erlaubnis zur Werknutzung Anspruch auf die vertraglich vereinbarte
@@ -809,6 +859,7 @@ Vergütung für die Nutzung seiner Werke tarifvertraglich bestimmt ist.
 
 
 ##### § 32a Weitere Beteiligung des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022203360)
 
 (1) Hat der Urheber einem anderen ein Nutzungsrecht zu Bedingungen
 eingeräumt, die dazu führen, dass die vereinbarte Gegenleistung sich
@@ -842,6 +893,7 @@ Absatz 2a ist entsprechend anzuwenden.
 
 
 ##### § 32b Zwingende Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022301360)
 
 Die §§ 32, 32a, 32d bis 32f und 38 Absatz 4 finden zwingend Anwendung
 
@@ -857,6 +909,7 @@ Die §§ 32, 32a, 32d bis 32f und 38 Absatz 4 finden zwingend Anwendung
 
 
 ##### § 32c Vergütung für später bekannte Nutzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024000377)
 
 (1) Der Urheber hat Anspruch auf eine gesonderte angemessene
 Vergütung, wenn der Vertragspartner eine neue Art der Werknutzung nach
@@ -876,6 +929,7 @@ Nutzungsrecht für jedermann einräumen.
 
 
 ##### § 32d Auskunft und Rechenschaft des Vertragspartners
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025801360)
 
 (1) Bei entgeltlicher Einräumung eines Nutzungsrechts erteilt der
 Vertragspartner dem Urheber mindestens einmal jährlich Auskunft über
@@ -918,6 +972,7 @@ gewährleisten.
 
 
 ##### § 32e Auskunft und Rechenschaft Dritter in der Lizenzkette
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025901360)
 
 (1) Hat der Vertragspartner des Urhebers das Nutzungsrecht übertragen
 oder weitere Nutzungsrechte eingeräumt, so kann der Urheber Auskunft
@@ -947,6 +1002,7 @@ Voraussetzungen vorliegen.
 
 
 ##### § 32f Mediation und außergerichtliche Konfliktbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028000360)
 
 (1) Urheber und Werknutzer können insbesondere bei Streitigkeiten über
 Rechte und Ansprüche nach den §§ 32 bis 32e eine Mediation oder ein
@@ -959,6 +1015,7 @@ Werknutzer nicht berufen.
 
 
 ##### § 32g Vertretung durch Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028100360)
 
 Urheber können sich bei Streitigkeiten über Rechte und Ansprüche nach
 den §§ 32 bis 32f nach Maßgabe des Rechtsdienstleistungsgesetzes und
@@ -967,6 +1024,7 @@ lassen.
 
 
 ##### § 33 Weiterwirkung von Nutzungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007301377)
 
 Ausschließliche und einfache Nutzungsrechte bleiben gegenüber später
 eingeräumten Nutzungsrechten wirksam. Gleiches gilt, wenn der Inhaber
@@ -975,6 +1033,7 @@ er auf sein Recht verzichtet.
 
 
 ##### § 34 Übertragung von Nutzungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007401377)
 
 (1) Ein Nutzungsrecht kann nur mit Zustimmung des Urhebers übertragen
 werden. Der Urheber darf die Zustimmung nicht wider Treu und Glauben
@@ -1004,6 +1063,7 @@ des Nutzungsrechts und der Urheber Abweichendes vereinbaren.
 
 
 ##### § 35 Einräumung weiterer Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007501377)
 
 (1) Der Inhaber eines ausschließlichen Nutzungsrechts kann weitere
 Nutzungsrechte nur mit Zustimmung des Urhebers einräumen. Der
@@ -1015,6 +1075,7 @@ sind entsprechend anzuwenden.
 
 
 ##### § 35a Mediation und außergerichtliche Konfliktbeilegung bei Videoabrufdiensten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028200360)
 
 Rechtsinhaber und Werknutzer können insbesondere bei
 Vertragsverhandlungen über die Einräumung von Nutzungsrechten für die
@@ -1024,6 +1085,7 @@ Verfahren der außergerichtlichen Konfliktbeilegung einleiten.
 
 
 ##### § 36 Gemeinsame Vergütungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007604360)
 
 (1) Zur Bestimmung der Angemessenheit von Vergütungen nach den §§ 32,
 32a und 32c, zur Regelung der Auskünfte nach den §§ 32d und 32e sowie
@@ -1071,6 +1133,7 @@ Vorschlages keine der in Satz 1 genannten Parteien widerspricht.
 
 
 ##### § 36a Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022403123)
 
 (1) Zur Aufstellung gemeinsamer Vergütungsregeln bilden Vereinigungen
 von Urhebern mit Vereinigungen von Werknutzern oder einzelnen
@@ -1162,6 +1225,7 @@ die Entschädigung der Mitglieder der Schlichtungsstelle zu erlassen.
 
 
 ##### § 36b Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026001360)
 
 (1) Wer in einem Vertrag mit einem Urheber eine Bestimmung verwendet,
 die zum Nachteil des Urhebers von gemeinsamen Vergütungsregeln
@@ -1190,6 +1254,7 @@ Urteils gilt § 103.
 
 
 ##### § 36c Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026100123)
 
 Der Vertragspartner, der an der Aufstellung von gemeinsamen
 Vergütungsregeln gemäß § 36b Absatz 1 Satz 1 Nummer 1 oder 2 beteiligt
@@ -1200,6 +1265,7 @@ Vertrages verlangen, mit der die Abweichung beseitigt wird.
 
 
 ##### § 36d Unterlassungsanspruch bei Nichterteilung von Auskünften
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028300360)
 
 (1) Wer als Werknutzer Urhebern in mehreren gleich oder ähnlich
 gelagerten Fällen Auskünfte nach § 32d oder § 32e nicht erteilt, kann
@@ -1221,6 +1287,7 @@ einem Tarifvertrag beruht.
 
 
 ##### § 37 Verträge über die Einräumung von Nutzungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007700315)
 
 (1) Räumt der Urheber einem anderen ein Nutzungsrecht am Werk ein, so
 verbleibt ihm im Zweifel das Recht der Einwilligung zur
@@ -1238,6 +1305,7 @@ Einrichtungen öffentlich wahrnehmbar zu machen.
 
 
 ##### § 38 Beiträge zu Sammlungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007801360)
 
 (1) Gestattet der Urheber die Aufnahme des Werkes in eine periodisch
 erscheinende Sammlung, so erwirbt der Verleger oder Herausgeber im
@@ -1272,6 +1340,7 @@ unwirksam.
 
 
 ##### § 39 Änderungen des Werkes
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE007900315)
 
 (1) Der Inhaber eines Nutzungsrechts darf das Werk, dessen Titel oder
 Urheberbezeichnung (§ 10 Abs. 1) nicht ändern, wenn nichts anderes
@@ -1283,6 +1352,7 @@ zulässig.
 
 
 ##### § 40 Verträge über künftige Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008001125)
 
 (1) Ein Vertrag, durch den sich der Urheber zur Einräumung von
 Nutzungsrechten an künftigen Werken verpflichtet, die überhaupt nicht
@@ -1304,6 +1374,7 @@ noch nicht abgeliefert sind.
 
 
 ##### § 40a Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026200123)
 
 (1) Hat der Urheber ein ausschließliches Nutzungsrecht gegen eine
 pauschale Vergütung eingeräumt, ist er gleichwohl berechtigt, das Werk
@@ -1349,6 +1420,7 @@ Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
 
 
 ##### § 41 Rückrufsrecht wegen Nichtausübung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008102360)
 
 (1) Übt der Inhaber eines ausschließlichen Nutzungsrechts dieses Recht
 nicht oder nur unzureichend aus, so kann der Urheber entweder nur die
@@ -1389,6 +1461,7 @@ Vorschriften bleiben unberührt.
 
 
 ##### § 42 Rückrufsrecht wegen gewandelter Überzeugung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008200315)
 
 (1) Der Urheber kann ein Nutzungsrecht gegenüber dem Inhaber
 zurückrufen, wenn das Werk seiner Überzeugung nicht mehr entspricht
@@ -1421,6 +1494,7 @@ anzuwenden.
 
 
 ##### § 42a Zwangslizenz zur Herstellung von Tonträgern
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022802301)
 
 (1) Ist einem Hersteller von Tonträgern ein Nutzungsrecht an einem
 Werk der Musik eingeräumt worden mit dem Inhalt, das Werk zu
@@ -1482,6 +1556,7 @@ Filmes eingeräumt worden ist.
 
 
 ##### § 43 Urheber in Arbeits- oder Dienstverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008300315)
 
 Die Vorschriften dieses Unterabschnitts sind auch anzuwenden, wenn der
 Urheber das Werk in Erfüllung seiner Verpflichtungen aus einem
@@ -1491,6 +1566,7 @@ anderes ergibt.
 
 
 ##### § 44 Veräußerung des Originals des Werkes
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008400315)
 
 (1) Veräußert der Urheber das Original des Werkes, so räumt er damit
 im Zweifel dem Erwerber ein Nutzungsrecht nicht ein.
@@ -1503,14 +1579,17 @@ ausgeschlossen hat.
 
 
 ### Abschnitt 6 - Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001302123)
 
 
 
 #### Unterabschnitt 1 - Gesetzlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004500123)
 
 
 
 ##### § 44a Vorübergehende Vervielfältigungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022900377)
 
 Zulässig sind vorübergehende Vervielfältigungshandlungen, die flüchtig
 oder begleitend sind und einen integralen und wesentlichen Teil eines
@@ -1529,6 +1608,7 @@ keine eigenständige wirtschaftliche Bedeutung haben.
 
 
 ##### § 44b Text und Data Mining
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028400360)
 
 (1) Text und Data Mining ist die automatisierte Analyse von einzelnen
 oder mehreren digitalen oder digitalisierten Werken, um daraus
@@ -1547,6 +1627,7 @@ maschinenlesbarer Form erfolgt.
 
 
 ##### § 45 Rechtspflege und öffentliche Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008500315)
 
 (1) Zulässig ist, einzelne Vervielfältigungsstücke von Werken zur
 Verwendung in Verfahren vor einem Gericht, einem Schiedsgericht oder
@@ -1562,6 +1643,7 @@ Wiedergabe der Werke zulässig.
 
 
 ##### § 45a Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023001360)
 
 (1) Zulässig ist die nicht Erwerbszwecken dienende Vervielfältigung
 eines Werkes für und deren Verbreitung ausschließlich an Menschen,
@@ -1582,6 +1664,7 @@ ausschließlich die §§ 45b bis 45d.
 
 
 ##### § 45b Menschen mit einer Seh- oder Lesebehinderung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027500360)
 
 (1) Menschen mit einer Seh- oder Lesebehinderung dürfen
 veröffentlichte Sprachwerke, die als Text oder im Audioformat
@@ -1602,6 +1685,7 @@ Personen ohne eine solche Beeinträchtigung möglich ist.
 
 
 ##### § 45c Befugte Stellen; Vergütung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027601360)
 
 (1) Befugte Stellen dürfen veröffentlichte Sprachwerke, die als Text
 oder im Audioformat vorliegen, sowie grafische Aufzeichnungen von
@@ -1644,6 +1728,7 @@ Bezug auf befugte Stellen Folgendes zu regeln:
 
 
 ##### § 45d Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027700360)
 
 Auf Vereinbarungen, die nach den §§ 45b und 45c erlaubte Nutzungen zum
 Nachteil der Nutzungsberechtigten beschränken oder untersagen, kann
@@ -1651,6 +1736,7 @@ sich der Rechtsinhaber nicht berufen.
 
 
 ##### § 46 Sammlungen für den religiösen Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008603123)
 
 (1) Nach der Veröffentlichung zulässig ist die Vervielfältigung,
 Verbreitung und öffentliche Zugänglichmachung von Teilen eines Werkes,
@@ -1686,6 +1772,7 @@ anzuwenden.
 
 
 ##### § 47 Schulfunksendungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008701304)
 
 (1) Schulen sowie Einrichtungen der Lehrerbildung und der
 Lehrerfortbildung dürfen einzelne Vervielfältigungsstücke von Werken,
@@ -1701,6 +1788,7 @@ Urheber eine angemessene Vergütung gezahlt wird.
 
 
 ##### § 48 Öffentliche Reden
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008801377)
 
 (1) Zulässig ist
 
@@ -1726,6 +1814,7 @@ Absatz 1 Nr. 2 bezeichneten Reden in Form einer Sammlung, die
 
 
 ##### § 49 Zeitungsartikel und Rundfunkkommentare
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE008902377)
 
 (1) Zulässig ist die Vervielfältigung und Verbreitung einzelner
 Rundfunkkommentare und einzelner Artikel sowie mit ihnen im
@@ -1750,6 +1839,7 @@ gewährter Schutz bleibt unberührt.
 
 
 ##### § 50 Berichterstattung über Tagesereignisse
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009001377)
 
 Zur Berichterstattung über Tagesereignisse durch Funk oder durch
 ähnliche technische Mittel, in Zeitungen, Zeitschriften und in anderen
@@ -1761,6 +1851,7 @@ den Zweck gebotenen Umfang zulässig.
 
 
 ##### § 51 Zitate
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009102123)
 
 Zulässig ist die Vervielfältigung, Verbreitung und öffentliche
 Wiedergabe eines veröffentlichten Werkes zum Zweck des Zitats, sofern
@@ -1788,6 +1879,7 @@ verwandtes Schutzrecht geschützt ist.
 
 
 ##### § 51a Karikatur, Parodie und Pastiche
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028500360)
 
 Zulässig ist die Vervielfältigung, die Verbreitung und die öffentliche
 Wiedergabe eines veröffentlichten Werkes zum Zweck der Karikatur, der
@@ -1798,6 +1890,7 @@ verwandtes Schutzrecht geschützt ist.
 
 
 ##### § 52 Öffentliche Wiedergabe
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009203123)
 
 (1) Zulässig ist die öffentliche Wiedergabe eines veröffentlichten
 Werkes, wenn die Wiedergabe keinem Erwerbszweck des Veranstalters
@@ -1824,9 +1917,11 @@ Berechtigten zulässig.
 
 
 ##### (XXXX) §§ 52a und 52b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023101123)
 
 
 ##### § 53 Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009306123)
 
 (1) Zulässig sind einzelne Vervielfältigungen eines Werkes durch eine
 natürliche Person zum privaten Gebrauch auf beliebigen Trägern, sofern
@@ -1919,13 +2014,16 @@ zulässig.
 
 
 ##### § 53a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024201123)
 
 
 #### Unterabschnitt 2 - Vergütung der nach den §§ 53, 60a bis 60f erlaubten Vervielfältigungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004600123)
 
 
 
 ##### § 54 Vergütungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009405123)
 
 (1) Lässt die Art des Werkes eine nach § 53 Absatz 1 oder 2 oder den
 §§ 60a bis 60f erlaubte Vervielfältigung erwarten, so hat der Urheber
@@ -1941,6 +2039,7 @@ werden.
 
 
 ##### § 54a Vergütungshöhe
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020002123)
 
 (1) Maßgebend für die Vergütungshöhe ist, in welchem Maß die Geräte
 und Speichermedien als Typen tatsächlich für Vervielfältigungen nach §
@@ -1965,6 +2064,7 @@ Speichermediums stehen.
 
 
 ##### § 54b Vergütungspflicht des Händlers oder Importeurs
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020102140)
 
 (1) Neben dem Hersteller haftet als Gesamtschuldner, wer die Geräte
 oder Speichermedien in den Geltungsbereich dieses Gesetzes gewerblich
@@ -2001,6 +2101,7 @@ sie in den zollrechtlich freien Verkehr übergeführt werden.
 
 
 ##### § 54c Vergütungspflicht des Betreibers von Ablichtungsgeräten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020202123)
 
 (1) Werden Geräte der in § 54 Abs. 1 genannten Art, die im Weg der
 Ablichtung oder in einem Verfahren vergleichbarer Wirkung
@@ -2021,6 +2122,7 @@ Verwendung, wahrscheinlich ist.
 
 
 ##### § 54d Hinweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020301377)
 
 Soweit nach § 14 Abs. 2 Satz 1 Nr. 2 Satz 2 des Umsatzsteuergesetzes
 eine Verpflichtung zur Erteilung einer Rechnung besteht, ist in
@@ -2031,6 +2133,7 @@ hinzuweisen.
 
 
 ##### § 54e Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020401377)
 
 (1) Wer Geräte oder Speichermedien in den Geltungsbereich dieses
 Gesetzes gewerblich einführt oder wiedereinführt, ist dem Urheber
@@ -2044,6 +2147,7 @@ Vergütungssatz verlangt werden.
 
 
 ##### § 54f Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020502140)
 
 (1) Der Urheber kann von dem nach § 54 oder § 54b zur Zahlung der
 Vergütung Verpflichteten Auskunft über Art und Stückzahl der im
@@ -2062,6 +2166,7 @@ so kann der doppelte Vergütungssatz verlangt werden.
 
 
 ##### § 54g Kontrollbesuch
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020601377)
 
 Soweit dies für die Bemessung der vom Betreiber nach § 54c
 geschuldeten Vergütung erforderlich ist, kann der Urheber verlangen,
@@ -2073,6 +2178,7 @@ vermeidbare Betriebsstörungen unterbleiben.
 
 
 ##### § 54h Verwertungsgesellschaften; Handhabung der Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020702360)
 
 (1) Die Ansprüche nach den §§ 54 bis 54c, 54e Abs. 2, §§ 54f und 54g
 können nur durch eine Verwertungsgesellschaft geltend gemacht werden.
@@ -2098,10 +2204,12 @@ zur Geltendmachung der Ansprüche nach Absatz 1 verwenden.
 
 
 #### Unterabschnitt 3 - Weitere gesetzlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004700123)
 
 
 
 ##### § 55 Vervielfältigung durch Sendeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009500315)
 
 (1) Ein Sendeunternehmen, das zur Funksendung eines Werkes berechtigt
 ist, darf das Werk mit eigenen Mitteln auf Bild- oder Tonträger
@@ -2117,6 +2225,7 @@ Urheber unverzüglich zu benachrichtigen.
 
 
 ##### § 55a Benutzung eines Datenbankwerkes
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021000307)
 
 Zulässig ist die Bearbeitung sowie die Vervielfältigung eines
 Datenbankwerkes durch den Eigentümer eines mit Zustimmung des Urhebers
@@ -2134,6 +2243,7 @@ vertragliche Vereinbarungen sind nichtig.
 
 
 ##### § 56 Vervielfältigung und öffentliche Wiedergabe in Geschäftsbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009601377)
 
 (1) In Geschäftsbetrieben, in denen Geräte zur Herstellung oder zur
 Wiedergabe von Bild- oder Tonträgern, zum Empfang von Funksendungen
@@ -2150,6 +2260,7 @@ unverzüglich zu löschen.
 
 
 ##### § 57 Unwesentliches Beiwerk
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009700315)
 
 Zulässig ist die Vervielfältigung, Verbreitung und öffentliche
 Wiedergabe von Werken, wenn sie als unwesentliches Beiwerk neben dem
@@ -2158,6 +2269,7 @@ eigentlichen Gegenstand der Vervielfältigung, Verbreitung oder
 
 
 ##### § 58 Werbung für die Ausstellung und den öffentlichen Verkauf von Werken
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009802123)
 
 Zulässig sind die Vervielfältigung, Verbreitung und öffentliche
 Zugänglichmachung von öffentlich ausgestellten oder zur öffentlichen
@@ -2167,6 +2279,7 @@ dies zur Förderung der Veranstaltung erforderlich ist.
 
 
 ##### § 59 Werke an öffentlichen Plätzen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE009900315)
 
 (1) Zulässig ist, Werke, die sich bleibend an öffentlichen Wegen,
 Straßen oder Plätzen befinden, mit Mitteln der Malerei oder Graphik,
@@ -2179,6 +2292,7 @@ werden.
 
 
 ##### § 60 Bildnisse
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010001377)
 
 (1) Zulässig ist die Vervielfältigung sowie die unentgeltliche und
 nicht zu gewerblichen Zwecken vorgenommene Verbreitung eines
@@ -2195,10 +2309,12 @@ Lebenspartner noch Kinder vorhanden sind, die Eltern.
 
 
 #### Unterabschnitt 4 - Gesetzlich erlaubte Nutzungen für Unterricht, Wissenschaft und Institutionen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004800123)
 
 
 
 ##### § 60a Unterricht und Lehre
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026501360)
 
 (1) Zur Veranschaulichung des Unterrichts und der Lehre an
 Bildungseinrichtungen dürfen zu nicht kommerziellen Zwecken bis zu 15
@@ -2259,6 +2375,7 @@ sonstigen Aus- und Weiterbildung.
 
 
 ##### § 60b Unterrichts- und Lehrmedien
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026601360)
 
 (1) Hersteller von Unterrichts- und Lehrmedien dürfen für solche
 Sammlungen bis zu 10 Prozent eines veröffentlichten Werkes
@@ -2274,6 +2391,7 @@ geeignet, bestimmt und entsprechend gekennzeichnet sind.
 
 
 ##### § 60c Wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026700123)
 
 (1) Zum Zweck der nicht kommerziellen wissenschaftlichen Forschung
 dürfen bis zu 15 Prozent eines Werkes vervielfältigt, verbreitet und
@@ -2304,6 +2422,7 @@ zugänglich zu machen.
 
 
 ##### § 60d Text und Data Mining für Zwecke der wissenschaftlichen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026801360)
 
 (1) Vervielfältigungen für Text und Data Mining (§ 44b Absatz 1 und 2
 Satz 1) sind für Zwecke der wissenschaftlichen Forschung nach Maßgabe
@@ -2372,6 +2491,7 @@ Datenbanken durch Vervielfältigungen nach Absatz 1 gefährdet werden.
 
 
 ##### § 60e Bibliotheken
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026901360)
 
 (1) Öffentlich zugängliche Bibliotheken, die keine unmittelbaren oder
 mittelbaren kommerziellen Zwecke verfolgen (Bibliotheken), dürfen ein
@@ -2411,6 +2531,7 @@ eines Werkes entsprechend anzuwenden.
 
 
 ##### § 60f Archive, Museen und Bildungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027001360)
 
 (1) Für Archive, Einrichtungen im Bereich des Film- oder Tonerbes
 sowie öffentlich zugängliche Museen und Bildungseinrichtungen (§ 60a
@@ -2430,6 +2551,7 @@ Erhaltung eines Werkes entsprechend anzuwenden.
 
 
 ##### § 60g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027100123)
 
 (1) Auf Vereinbarungen, die erlaubte Nutzungen nach den §§ 60a bis 60f
 zum Nachteil der Nutzungsberechtigten beschränken oder untersagen,
@@ -2443,6 +2565,7 @@ Erlaubnis vor.
 
 
 ##### § 60h Angemessene Vergütung der gesetzlich erlaubten Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027201360)
 
 (1) Für Nutzungen nach Maßgabe dieses Unterabschnitts hat der Urheber
 Anspruch auf Zahlung einer angemessenen Vergütung. Vervielfältigungen
@@ -2482,10 +2605,12 @@ Regelungen anzuwenden.
 
 
 #### Unterabschnitt 5 - Besondere gesetzlich erlaubte Nutzungen verwaister Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004900123)
 
 
 
 ##### § 61 Verwaiste Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010102360)
 
 (1) Zulässig sind die Vervielfältigung und die öffentliche
 Zugänglichmachung verwaister Werke nach Maßgabe der Absätze 3 bis 5.
@@ -2537,6 +2662,7 @@ Zugänglichmachung deckt.
 
 
 ##### § 61a Sorgfältige Suche und Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025401123)
 
 (1) Die sorgfältige Suche nach dem Rechtsinhaber gemäß § 61 Absatz 2
 ist für jeden Bestandsinhalt und für in diesem enthaltene sonstige
@@ -2591,6 +2717,7 @@ bereits in der Datenbank des Harmonisierungsamtes für den Binnenmarkt
 
 
 ##### § 61b Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025500360)
 
 Wird ein Rechtsinhaber eines Bestandsinhalts nachträglich festgestellt
 oder ausfindig gemacht, hat die nutzende Institution die
@@ -2601,6 +2728,7 @@ Nutzung.
 
 
 ##### § 61c Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025600360)
 
 Zulässig sind die Vervielfältigung und die öffentliche
 Zugänglichmachung von
@@ -2621,10 +2749,12 @@ entsprechend.
 
 
 #### Unterabschnitt 5a - Besondere gesetzlich erlaubte Nutzungen nicht verfügbarer Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG005100360)
 
 
 
 ##### § 61d Nicht verfügbare Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028600360)
 
 (1) Kulturerbe-Einrichtungen (§ 60d) dürfen nicht verfügbare Werke (§
 52b des Verwertungsgesellschaftengesetzes) aus ihrem Bestand
@@ -2658,6 +2788,7 @@ Drittstaaten (§ 52c des Verwertungsgesellschaftengesetzes) enthalten.
 
 
 ##### § 61e Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028700360)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu
@@ -2674,6 +2805,7 @@ folgenden Regelungen nähere Bestimmungen zu treffen:
 
 
 ##### § 61f Information über nicht verfügbare Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028800360)
 
 Verwertungsgesellschaften, Kulturerbe-Einrichtungen und das Amt der
 Europäischen Union für geistiges Eigentum dürfen Werke vervielfältigen
@@ -2685,6 +2817,7 @@ Einrichtung dieses Werk gemäß § 61d nutzt.
 
 
 ##### § 61g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE028900360)
 
 Auf Vereinbarungen, die erlaubte Nutzungen nach den §§ 61d und 61f zum
 Nachteil der Nutzungsberechtigten beschränken oder untersagen, kann
@@ -2692,10 +2825,12 @@ sich der Rechtsinhaber nicht berufen.
 
 
 #### Unterabschnitt 6 - Gemeinsame Vorschriften für gesetzlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG005000123)
 
 
 
 ##### § 62 Änderungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010204360)
 
 (1) Soweit nach den Bestimmungen dieses Abschnitts die Benutzung eines
 Werkes zulässig ist, dürfen Änderungen an dem Werk nicht vorgenommen
@@ -2736,6 +2871,7 @@ gemacht werden.
 
 
 ##### § 63 Quellenangabe
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010306360)
 
 (1) Wenn ein Werk oder ein Teil eines Werkes in den Fällen des § 45
 Abs. 1, der §§ 45a bis 48, 50, 51, 58, 59 sowie der §§ 60a bis 60c,
@@ -2773,6 +2909,7 @@ auch das Sendeunternehmen anzugeben, das den Kommentar gesendet hat.
 
 
 ##### § 63a Gesetzliche Vergütungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022502360)
 
 (1) Auf gesetzliche Vergütungsansprüche nach diesem Abschnitt kann der
 Urheber im Voraus nicht verzichten. Sie können im Voraus nur an eine
@@ -2790,15 +2927,18 @@ entsprechend anzuwenden.
 
 
 ### Abschnitt 7 - Dauer des Urheberrechts
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001401377)
 
 
 
 #### § 64 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010401307)
 
 Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers.
 
 
 #### § 65 Miturheber, Filmwerke, Musikkomposition mit Text
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010502360)
 
 (1) Steht das Urheberrecht mehreren Miturhebern (§ 8) zu, so erlischt
 es siebzig Jahre nach dem Tode des längstlebenden Miturhebers.
@@ -2818,6 +2958,7 @@ sind.
 
 
 #### § 66 Anonyme und pseudonyme Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010602377)
 
 (1) Bei anonymen und pseudonymen Werken erlischt das Urheberrecht
 siebzig Jahre nach der Veröffentlichung. Es erlischt jedoch bereits
@@ -2838,6 +2979,7 @@ Abs. 2) berechtigt.
 
 
 #### § 67 Lieferungswerke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010701307)
 
 Bei Werken, die in inhaltlich nicht abgeschlossenen Teilen
 (Lieferungen) veröffentlicht werden, berechnet sich im Falle des § 66
@@ -2846,12 +2988,14 @@ Zeitpunkt ihrer Veröffentlichung.
 
 
 #### § 68 Vervielfältigungen gemeinfreier visueller Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010802360)
 
 Vervielfältigungen gemeinfreier visueller Werke werden nicht durch
 verwandte Schutzrechte nach den Teilen 2 und 3 geschützt.
 
 
 #### § 69 Berechnung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE010900315)
 
 Die Fristen dieses Abschnitts beginnen mit dem Ablauf des
 Kalenderjahres, in dem das für den Beginn der Frist maßgebende
@@ -2859,10 +3003,12 @@ Ereignis eingetreten ist.
 
 
 ### Abschnitt 8 - Besondere Bestimmungen für Computerprogramme
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004201377)
 
 
 
 #### § 69a Gegenstand des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019203360)
 
 (1) Computerprogramme im Sinne dieses Gesetzes sind Programme in jeder
 Gestalt, einschließlich des Entwurfsmaterials.
@@ -2888,6 +3034,7 @@ Computerprogramme nicht anzuwenden.
 
 
 #### § 69b Urheber in Arbeits- und Dienstverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019300305)
 
 (1) Wird ein Computerprogramm von einem Arbeitnehmer in Wahrnehmung
 seiner Aufgaben oder nach den Anweisungen seines Arbeitgebers
@@ -2899,6 +3046,7 @@ sofern nichts anderes vereinbart ist.
 
 
 #### § 69c Zustimmungsbedürftige Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019403377)
 
 Der Rechtsinhaber hat das ausschließliche Recht, folgende Handlungen
 vorzunehmen oder zu gestatten:
@@ -2936,6 +3084,7 @@ vorzunehmen oder zu gestatten:
 
 
 #### § 69d Ausnahmen von den zustimmungsbedürftigen Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019501360)
 
 (1) Soweit keine besonderen vertraglichen Bestimmungen vorliegen,
 bedürfen die in § 69c Nr. 1 und 2 genannten Handlungen nicht der
@@ -2987,6 +3136,7 @@ genutzt werden dürfen.
 
 
 #### § 69e Dekompilierung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019600305)
 
 (1) Die Zustimmung des Rechtsinhabers ist nicht erforderlich, wenn die
 Vervielfältigung des Codes oder die Übersetzung der Codeform im Sinne
@@ -3035,6 +3185,7 @@ Interessen des Rechtsinhabers unzumutbar verletzt.
 
 
 #### § 69f Rechtsverletzungen; ergänzende Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019702360)
 
 (1) Der Rechtsinhaber kann von dem Eigentümer oder Besitzer verlangen,
 daß alle rechtswidrig hergestellten, verbreiteten oder zur
@@ -3055,6 +3206,7 @@ Verbindung mit § 69d Absatz 5, des § 60e Absatz 1 oder 6 sowie des §
 
 
 #### § 69g Anwendung sonstiger Rechtsvorschriften, Vertragsrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019802360)
 
 (1) Die Bestimmungen dieses Abschnitts lassen die Anwendung sonstiger
 Rechtsvorschriften auf Computerprogramme, insbesondere über den Schutz
@@ -3068,14 +3220,17 @@ Vereinbarungen unberührt.
 
 
 ## Teil 2 - Verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001501377)
 
 
 
 ### Abschnitt 1 - Schutz bestimmter Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001601377)
 
 
 
 #### § 70 Wissenschaftliche Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011002377)
 
 (1) Ausgaben urheberrechtlich nicht geschützter Werke oder Texte
 werden in entsprechender Anwendung der Vorschriften des Teils 1
@@ -3092,6 +3247,7 @@ Frist ist nach § 69 zu berechnen.
 
 
 #### § 71 Nachgelassene Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011106360)
 
 (1) Wer ein nicht erschienenes Werk nach Erlöschen des Urheberrechts
 erlaubterweise erstmals erscheinen läßt oder erstmals öffentlich
@@ -3109,10 +3265,12 @@ ist, nach dieser. Die Frist ist nach § 69 zu berechnen.
 
 
 ### Abschnitt 2 - Schutz der Lichtbilder
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001701377)
 
 
 
 #### § 72 Lichtbilder
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011203377)
 
 (1) Lichtbilder und Erzeugnisse, die ähnlich wie Lichtbilder
 hergestellt werden, werden in entsprechender Anwendung der für
@@ -3129,10 +3287,12 @@ Die Frist ist nach § 69 zu berechnen.
 
 
 ### Abschnitt 3 - Schutz des ausübenden Künstlers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001801377)
 
 
 
 #### § 73 Ausübender Künstler
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011301377)
 
 Ausübender Künstler im Sinne dieses Gesetzes ist, wer ein Werk oder
 eine Ausdrucksform der Volkskunst aufführt, singt, spielt oder auf
@@ -3141,6 +3301,7 @@ künstlerisch mitwirkt.
 
 
 #### § 74 Anerkennung als ausübender Künstler
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011402140)
 
 (1) Der ausübende Künstler hat das Recht, in Bezug auf seine
 Darbietung als solcher anerkannt zu werden. Er kann dabei bestimmen,
@@ -3161,6 +3322,7 @@ Nennung bleibt bei einem besonderen Interesse unberührt.
 
 
 #### § 75 Beeinträchtigungen der Darbietung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011503377)
 
 Der ausübende Künstler hat das Recht, eine Entstellung oder eine
 andere Beeinträchtigung seiner Darbietung zu verbieten, die geeignet
@@ -3171,6 +3333,7 @@ angemessene Rücksicht zu nehmen.
 
 
 #### § 76 Dauer der Persönlichkeitsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011602377)
 
 Die in den §§ 74 und 75 bezeichneten Rechte erlöschen mit dem Tode des
 ausübenden Künstlers, jedoch erst 50 Jahre nach der Darbietung, wenn
@@ -3184,6 +3347,7 @@ Abs. 2) zu.
 
 
 #### § 77 Aufnahme, Vervielfältigung und Verbreitung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011701377)
 
 (1) Der ausübende Künstler hat das ausschließliche Recht, seine
 Darbietung auf Bild- oder Tonträger aufzunehmen.
@@ -3194,6 +3358,7 @@ vervielfältigen und zu verbreiten. § 27 ist entsprechend anzuwenden.
 
 
 #### § 78 Öffentliche Wiedergabe
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011802377)
 
 (1) Der ausübende Künstler hat das ausschließliche Recht, seine
 Darbietung
@@ -3237,6 +3402,7 @@ Verwertungsgesellschaft abgetreten werden.
 
 
 #### § 79 Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE011904123)
 
 (1) Der ausübende Künstler kann seine Rechte und Ansprüche aus den §§
 77 und 78 übertragen. § 78 Abs. 3 und 4 bleibt unberührt.
@@ -3273,6 +3439,7 @@ ausübende Künstler nicht verzichten.
 
 
 #### § 79a Vergütungsanspruch des ausübenden Künstlers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025100360)
 
 (1) Hat der ausübende Künstler einem Tonträgerhersteller gegen Zahlung
 einer einmaligen Vergütung Rechte an seiner Darbietung eingeräumt oder
@@ -3321,6 +3488,7 @@ Vergütung abziehen:
 
 
 #### § 79b Vergütung des ausübenden Künstlers für später bekannte Nutzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026300123)
 
 (1) Der ausübende Künstler hat Anspruch auf eine gesonderte
 angemessene Vergütung, wenn der Vertragspartner eine neue Art der
@@ -3337,6 +3505,7 @@ verzichtet werden.
 
 
 #### § 80 Gemeinsame Darbietung mehrerer ausübender Künstler
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012003360)
 
 (1) Erbringen mehrere ausübende Künstler gemeinsam eine Darbietung,
 ohne dass sich ihre Anteile gesondert verwerten lassen, so steht ihnen
@@ -3351,6 +3520,7 @@ entsprechend.
 
 
 #### § 81 Schutz des Veranstalters
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012104140)
 
 Wird die Darbietung des ausübenden Künstlers von einem Unternehmen
 veranstaltet, so stehen die Rechte nach § 77 Abs. 1 und 2 Satz 1 sowie
@@ -3360,6 +3530,7 @@ entsprechend.
 
 
 #### § 82 Dauer der Verwertungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012204360)
 
 (1) Ist die Darbietung des ausübenden Künstlers auf einem Tonträger
 aufgezeichnet worden, so erlöschen die in den §§ 77 und 78
@@ -3388,6 +3559,7 @@ erlaubterweise zur öffentlichen Wiedergabe benutzt worden ist.
 
 
 #### § 83 Schranken der Verwertungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012302377)
 
 Auf die dem ausübenden Künstler nach den §§ 77 und 78 sowie die dem
 Veranstalter nach § 81 zustehenden Rechte sind die Vorschriften des
@@ -3395,15 +3567,18 @@ Abschnitts 6 des Teils 1 entsprechend anzuwenden.
 
 
 #### § 84 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012401377)
 
 -
 
 
 ### Abschnitt 4 - Schutz des Herstellers von Tonträgern
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG001901377)
 
 
 
 #### § 85 Verwertungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012507360)
 
 (1) Der Hersteller eines Tonträgers hat das ausschließliche Recht, den
 Tonträger zu vervielfältigen, zu verbreiten und öffentlich zugänglich
@@ -3430,6 +3605,7 @@ Vorschriften des Teils 1 Abschnitt 6 gelten entsprechend.
 
 
 #### § 86 Anspruch auf Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012601377)
 
 Wird ein erschienener oder erlaubterweise öffentlich zugänglich
 gemachter Tonträger, auf den die Darbietung eines ausübenden Künstlers
@@ -3440,10 +3616,12 @@ dieser nach § 78 Abs. 2 erhält.
 
 
 ### Abschnitt 5 - Schutz des Sendeunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002001377)
 
 
 
 #### § 87 Sendeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012708360)
 
 (1) Das Sendeunternehmen hat das ausschließliche Recht,
 
@@ -3496,10 +3674,12 @@ entsprechend.
 
 
 ### Abschnitt 6 - Schutz des Datenbankherstellers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004301377)
 
 
 
 #### § 87a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021100307)
 
 (1) Datenbank im Sinne dieses Gesetzes ist eine Sammlung von Werken,
 Daten oder anderen unabhängigen Elementen, die systematisch oder
@@ -3515,6 +3695,7 @@ die Investition im Sinne des Absatzes 1 vorgenommen hat.
 
 
 #### § 87b Rechte des Datenbankherstellers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021201140)
 
 (1) Der Datenbankhersteller hat das ausschließliche Recht, die
 Datenbank insgesamt oder einen nach Art oder Umfang wesentlichen Teil
@@ -3532,6 +3713,7 @@ entsprechend.
 
 
 #### § 87c Schranken des Rechts des Datenbankherstellers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021304360)
 
 (1) Die Vervielfältigung eines nach Art oder Umfang wesentlichen Teils
 einer Datenbank ist zulässig
@@ -3579,6 +3761,7 @@ Absatzes 4 ist § 60g Absatz 1 entsprechend anzuwenden.
 
 
 #### § 87d Dauer der Rechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021400307)
 
 Die Rechte des Datenbankherstellers erlöschen fünfzehn Jahre nach der
 Veröffentlichung der Datenbank, jedoch bereits fünfzehn Jahre nach der
@@ -3587,6 +3770,7 @@ veröffentlicht worden ist. Die Frist ist nach § 69 zu berechnen.
 
 
 #### § 87e Verträge über die Benutzung einer Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021500307)
 
 Eine vertragliche Vereinbarung, durch die sich der Eigentümer eines
 mit Zustimmung des Datenbankherstellers durch Veräußerung in Verkehr
@@ -3603,10 +3787,12 @@ Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
 
 
 ### Abschnitt 7 - Schutz des Presseverlegers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004401360)
 
 
 
 #### § 87f Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024801360)
 
 (1) Presseveröffentlichung ist eine hauptsächlich aus Schriftwerken
 journalistischer Art bestehende Sammlung, die auch sonstige Werke oder
@@ -3645,6 +3831,7 @@ Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).
 
 
 #### § 87g Rechte des Presseverlegers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024901360)
 
 (1) Ein Presseverleger hat das ausschließliche Recht, seine
 Presseveröffentlichung im Ganzen oder in Teilen für die Online-Nutzung
@@ -3674,6 +3861,7 @@ gelten entsprechend.
 
 
 #### § 87h Ausübung der Rechte des Presseverlegers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025001360)
 
 (1) Die Rechte des Presseverlegers dürfen nicht zum Nachteil des
 Urhebers oder des Leistungsschutzberechtigten geltend gemacht werden,
@@ -3698,12 +3886,14 @@ gemacht werden,
 
 
 #### § 87i Vermutung der Rechtsinhaberschaft; gesetzlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029000360)
 
 § 10 Absatz 1 sowie die Vorschriften des Teils 1 Abschnitt 6 gelten
 entsprechend.
 
 
 #### § 87j Dauer der Rechte des Presseverlegers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029100360)
 
 Die Rechte des Presseverlegers erlöschen zwei Jahre nach der
 erstmaligen Veröffentlichung der Presseveröffentlichung. Die Frist ist
@@ -3711,6 +3901,7 @@ nach § 69 zu berechnen.
 
 
 #### § 87k Beteiligungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029200360)
 
 (1) Der Urheber sowie der Inhaber von Rechten an anderen nach diesem
 Gesetz geschützten Schutzgegenständen sind an den Einnahmen des
@@ -3726,14 +3917,17 @@ Verwertungsgesellschaft geltend gemacht werden.
 
 
 ## Teil 3 - Besondere Bestimmungen für Filme
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002101377)
 
 
 
 ### Abschnitt 1 - Filmwerke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002201377)
 
 
 
 #### § 88 Recht zur Verfilmung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012804125)
 
 (1) Gestattet der Urheber einem anderen, sein Werk zu verfilmen, so
 liegt darin im Zweifel die Einräumung des ausschließlichen Rechts, das
@@ -3755,6 +3949,7 @@ Tarifvertrag beruht.
 
 
 #### § 89 Rechte am Filmwerk
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE012903125)
 
 (1) Wer sich zur Mitwirkung bei der Herstellung eines Filmes
 verpflichtet, räumt damit für den Fall, daß er ein Urheberrecht am
@@ -3778,6 +3973,7 @@ die Absätze 1 und 2 entsprechend.
 
 
 #### § 90 Einschränkung der Rechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013002123)
 
 (1) Für die in § 88 Absatz 1 und § 89 Absatz 1 bezeichneten Rechte
 gelten nicht die Bestimmungen
@@ -3804,11 +4000,13 @@ Jahren bei pauschaler Vergütung (§ 40a).
 
 
 #### § 91 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013101377)
 
 -
 
 
 #### § 92 Ausübende Künstler
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013202377)
 
 (1) Schließt ein ausübender Künstler mit dem Filmhersteller einen
 Vertrag über seine Mitwirkung bei der Herstellung eines Filmwerks, so
@@ -3827,6 +4025,7 @@ oder einzuräumen.
 
 
 #### § 93 Schutz gegen Entstellung; Namensnennung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013301377)
 
 (1) Die Urheber des Filmwerkes und der zu seiner Herstellung benutzten
 Werke sowie die Inhaber verwandter Schutzrechte, die bei der
@@ -3843,6 +4042,7 @@ Aufwand bedeutet.
 
 
 #### § 94 Schutz des Filmherstellers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013406140)
 
 (1) Der Filmhersteller hat das ausschließliche Recht, den Bildträger
 oder Bild- und Tonträger, auf den das Filmwerk aufgenommen ist, zu
@@ -3870,10 +4070,12 @@ anzuwenden.
 
 
 ### Abschnitt 2 - Laufbilder
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002301377)
 
 
 
 #### § 95 Laufbilder
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013502377)
 
 Die §§ 88, 89 Abs. 4, 90, 93 und 94 sind auf Bildfolgen und Bild- und
 Tonfolgen, die nicht als Filmwerke geschützt sind, entsprechend
@@ -3881,14 +4083,17 @@ anzuwenden.
 
 
 ## Teil 4 - Gemeinsame Bestimmungen für Urheberrecht und verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002401377)
 
 
 
 ### Abschnitt 1 - Ergänzende Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002501377)
 
 
 
 #### § 95a Schutz technischer Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023201360)
 
 (1) Wirksame technische Maßnahmen zum Schutz eines nach diesem Gesetz
 geschützten Werkes oder eines anderen nach diesem Gesetz geschützten
@@ -3939,6 +4144,7 @@ Befugnisse von Kulturerbe-Einrichtungen gemäß § 61d.
 
 
 #### § 95b Durchsetzung von Schrankenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023304360)
 
 (1) Soweit ein Rechtsinhaber technische Maßnahmen nach Maßgabe dieses
 Gesetzes anwendet, ist er verpflichtet, den durch eine der nachfolgend
@@ -4074,6 +4280,7 @@ Vereinbarungen angewandten Maßnahmen, genießen Rechtsschutz nach §
 
 
 #### § 95c Schutz der zur Rechtewahrnehmung erforderlichen Informationen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023400377)
 
 (1) Von Rechtsinhabern stammende Informationen für die
 Rechtewahrnehmung dürfen nicht entfernt oder verändert werden, wenn
@@ -4105,6 +4312,7 @@ verschleiert.
 
 
 #### § 95d Kennzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023502360)
 
 (1) Werke und andere Schutzgegenstände, die mit technischen Maßnahmen
 geschützt werden, sind deutlich sichtbar mit Angaben über die
@@ -4117,6 +4325,7 @@ zustellungsfähigen Anschrift zu kennzeichnen.
 
 
 #### § 96 Verwertungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013601377)
 
 (1) Rechtswidrig hergestellte Vervielfältigungsstücke dürfen weder
 verbreitet noch zu öffentlichen Wiedergaben benutzt werden.
@@ -4126,14 +4335,17 @@ oder Tonträger aufgenommen oder öffentlich wiedergegeben werden.
 
 
 ### Abschnitt 2 - Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002601377)
 
 
 
 #### Unterabschnitt 1 - Bürgerlich-rechtliche Vorschriften; Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002701377)
 
 
 
 ##### § 97 Anspruch auf Unterlassung und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013702140)
 
 (1) Wer das Urheberrecht oder ein anderes nach diesem Gesetz
 geschütztes Recht widerrechtlich verletzt, kann von dem Verletzten auf
@@ -4157,6 +4369,7 @@ soweit dies der Billigkeit entspricht.
 
 
 ##### § 97a Abmahnung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024402360)
 
 (1) Der Verletzte soll den Verletzer vor Einleitung eines
 gerichtlichen Verfahrens auf Unterlassung abmahnen und ihm Gelegenheit
@@ -4217,6 +4430,7 @@ unberechtigt war. Weitergehende Ersatzansprüche bleiben unberührt.
 
 
 ##### § 98 Anspruch auf Vernichtung, Rückruf und Überlassung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013802140)
 
 (1) Wer das Urheberrecht oder ein anderes nach diesem Gesetz
 geschütztes Recht widerrechtlich verletzt, kann von dem Verletzten auf
@@ -4251,6 +4465,7 @@ vorgesehenen Maßnahmen.
 
 
 ##### § 99 Haftung des Inhabers eines Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE013902140)
 
 Ist in einem Unternehmen von einem Arbeitnehmer oder Beauftragten ein
 nach diesem Gesetz geschütztes Recht widerrechtlich verletzt worden,
@@ -4259,6 +4474,7 @@ den Inhaber des Unternehmens.
 
 
 ##### § 100 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014001140)
 
 Handelt der Verletzer weder vorsätzlich noch fahrlässig, kann er zur
 Abwendung der Ansprüche nach den §§ 97 und 98 den Verletzten in Geld
@@ -4272,6 +4488,7 @@ erteilt.
 
 
 ##### § 101 Anspruch auf Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014104360)
 
 (1) Wer in gewerblichem Ausmaß das Urheberrecht oder ein anderes nach
 diesem Gesetz geschütztes Recht widerrechtlich verletzt, kann von dem
@@ -4370,6 +4587,7 @@ Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 ##### § 101a Anspruch auf Vorlage und Besichtigung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018801140)
 
 (1) Wer mit hinreichender Wahrscheinlichkeit das Urheberrecht oder ein
 anderes nach diesem Gesetz geschütztes Recht widerrechtlich verletzt,
@@ -4405,6 +4623,7 @@ entstandenen Schadens verlangen.
 
 
 ##### § 101b Sicherung von Schadensersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024500140)
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
 begangenen Rechtsverletzung in den Fällen des § 97 Abs. 2 auch auf
@@ -4434,6 +4653,7 @@ entsprechend.
 
 
 ##### § 102 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014202377)
 
 Auf die Verjährung der Ansprüche wegen Verletzung des Urheberrechts
 oder eines anderen nach diesem Gesetz geschützten Rechts finden die
@@ -4444,11 +4664,13 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ##### § 102a Ansprüche aus anderen gesetzlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024600140)
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 
 ##### § 103 Bekanntmachung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014301140)
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, so kann der
 obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das
@@ -4462,6 +4684,7 @@ anderes bestimmt.
 
 
 ##### § 104 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014400315)
 
 Für alle Rechtsstreitigkeiten, durch die ein Anspruch aus einem der in
 diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird,
@@ -4473,6 +4696,7 @@ Arbeitssachen und der Verwaltungsrechtsweg unberührt.
 
 
 ##### § 104a Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025300360)
 
 (1) Für Klagen wegen Urheberrechtsstreitsachen gegen eine natürliche
 Person, die nach diesem Gesetz geschützte Werke oder andere nach
@@ -4488,6 +4712,7 @@ zuständig, in dessen Bezirk die Handlung begangen ist.
 
 
 ##### § 105 Gerichte für Urheberrechtsstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014503377)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 Urheberrechtsstreitsachen, für die das Landgericht in erster Instanz
@@ -4507,10 +4732,12 @@ von ihnen zuzuweisen, wenn dies der Rechtspflege dienlich ist.
 
 
 #### Unterabschnitt 2 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002801377)
 
 
 
 ##### § 106 Unerlaubte Verwertung urheberrechtlich geschützter Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014601309)
 
 (1) Wer in anderen als den gesetzlich zugelassenen Fällen ohne
 Einwilligung des Berechtigten ein Werk oder eine Bearbeitung oder
@@ -4522,6 +4749,7 @@ Geldstrafe bestraft.
 
 
 ##### § 107 Unzulässiges Anbringen der Urheberbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014701309)
 
 (1) Wer
 
@@ -4547,6 +4775,7 @@ Strafe bedroht ist.
 
 
 ##### § 108 Unerlaubte Eingriffe in verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014804377)
 
 (1) Wer in anderen als den gesetzlich zugelassenen Fällen ohne
 Einwilligung des Berechtigten
@@ -4589,6 +4818,7 @@ bestraft.
 
 
 ##### § 108a Gewerbsmäßige unerlaubte Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018501309)
 
 (1) Handelt der Täter in den Fällen der §§ 106 bis 108 gewerbsmäßig,
 so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
@@ -4597,6 +4827,7 @@ so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 ##### § 108b Unerlaubte Eingriffe in technische Schutzmaßnahmen und zur Rechtewahrnehmung erforderliche Informationen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023600377)
 
 (1) Wer
 
@@ -4645,6 +4876,7 @@ ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ##### § 109 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE014902377)
 
 In den Fällen der §§ 106 bis 108 und des § 108b wird die Tat nur auf
 Antrag verfolgt, es sei denn, daß die Strafverfolgungsbehörde wegen
@@ -4653,6 +4885,7 @@ Einschreiten von Amts wegen für geboten hält.
 
 
 ##### § 110 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015005140)
 
 Gegenstände, auf die sich eine Straftat nach den §§ 106, 107 Abs. 1
 Nr. 2, §§ 108 bis 108b bezieht, können eingezogen werden. § 74a des
@@ -4663,6 +4896,7 @@ wird, sind die Vorschriften über die Einziehung nicht anzuwenden.
 
 
 ##### § 111 Bekanntgabe der Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015102377)
 
 Wird in den Fällen der §§ 106 bis 108b auf Strafe erkannt, so ist,
 wenn der Verletzte es beantragt und ein berechtigtes Interesse daran
@@ -4672,6 +4906,7 @@ bestimmen.
 
 
 ##### § 111a Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023702360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -4706,10 +4941,12 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
 #### Unterabschnitt 3 - Vorschriften über Maßnahmen der Zollbehörde
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004101377)
 
 
 
 ##### § 111b Verfahren nach deutschem Recht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018908123)
 
 (1) Verletzt die Herstellung oder Verbreitung von
 Vervielfältigungsstücken das Urheberrecht oder ein anderes nach diesem
@@ -4790,6 +5027,7 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 
 
 ##### § 111c Verfahren nach der Verordnung (EU) Nr. 608/2013
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024701123)
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 111b
 Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
@@ -4797,14 +5035,17 @@ enthält, die dem entgegenstehen.
 
 
 ### Abschnitt 3 - Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG002901377)
 
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003001377)
 
 
 
 ##### § 112 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015201377)
 
 Die Zulässigkeit der Zwangsvollstreckung in ein nach diesem Gesetz
 geschütztes Recht richtet sich nach den allgemeinen Vorschriften,
@@ -4812,10 +5053,12 @@ soweit sich aus den §§ 113 bis 119 nichts anderes ergibt.
 
 
 #### Unterabschnitt 2 - Zwangsvollstreckung wegen Geldforderungen gegen den Urheber
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003101377)
 
 
 
 ##### § 113 Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015300315)
 
 Gegen den Urheber ist die Zwangsvollstreckung wegen Geldforderungen in
 das Urheberrecht nur mit seiner Einwilligung und nur insoweit
@@ -4825,6 +5068,7 @@ werden.
 
 
 ##### § 114 Originale von Werken
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015400315)
 
 (1) Gegen den Urheber ist die Zwangsvollstreckung wegen
 Geldforderungen in die ihm gehörenden Originale seiner Werke nur mit
@@ -4851,10 +5095,12 @@ Zustimmung des Urhebers verbreitet werden.
 
 
 #### Unterabschnitt 3 - Zwangsvollstreckung wegen Geldforderungen gegen den Rechtsnachfolger des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003201377)
 
 
 
 ##### § 115 Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015500315)
 
 Gegen den Rechtsnachfolger des Urhebers (§ 30) ist die
 Zwangsvollstreckung wegen Geldforderungen in das Urheberrecht nur mit
@@ -4864,6 +5110,7 @@ erschienen ist.
 
 
 ##### § 116 Originale von Werken
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015600315)
 
 (1) Gegen den Rechtsnachfolger des Urhebers (§ 30) ist die
 Zwangsvollstreckung wegen Geldforderungen in die ihm gehörenden
@@ -4884,6 +5131,7 @@ zulässig.
 
 
 ##### § 117 Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015700315)
 
 Ist nach § 28 Abs. 2 angeordnet, daß das Urheberrecht durch einen
 Testamentsvollstrecker ausgeübt wird, so ist die nach den §§ 115 und
@@ -4892,10 +5140,12 @@ erteilen.
 
 
 #### Unterabschnitt 4 - Zwangsvollstreckung wegen Geldforderungen gegen den Verfasser wissenschaftlicher Ausgaben und gegen den Lichtbildner
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003301377)
 
 
 
 ##### § 118 Entsprechende Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015801377)
 
 Die §§ 113 bis 117 sind sinngemäß anzuwenden
 
@@ -4911,10 +5161,12 @@ Die §§ 113 bis 117 sind sinngemäß anzuwenden
 
 
 #### Unterabschnitt 5 - Zwangsvollstreckung wegen Geldforderungen in bestimmte Vorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003401377)
 
 
 
 ##### § 119 Zwangsvollstreckung in bestimmte Vorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE015903377)
 
 (1) Vorrichtungen, die ausschließlich zur Vervielfältigung oder
 Funksendung eines Werkes bestimmt sind, wie Formen, Platten, Steine,
@@ -4933,18 +5185,22 @@ nach § 87b Abs. 1 geschützten Datenbanken entsprechend anzuwenden.
 
 
 ## Teil 5 - Anwendungsbereich, Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003501377)
 
 
 
 ### Abschnitt 1 - Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003601377)
 
 
 
 #### Unterabschnitt 1 - Urheberrecht
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003701377)
 
 
 
 ##### § 120 Deutsche Staatsangehörige und Staatsangehörige anderer EU-Staaten und EWR-Staaten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016001307)
 
 (1) Deutsche Staatsangehörige genießen den urheberrechtlichen Schutz
 für alle ihre Werke, gleichviel, ob und wo die Werke erschienen sind.
@@ -4966,6 +5222,7 @@ Miturheber deutscher Staatsangehöriger ist.
 
 
 ##### § 121 Ausländische Staatsangehörige
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016101301)
 
 (1) Ausländische Staatsangehörige genießen den urheberrechtlichen
 Schutz für ihre im Geltungsbereich dieses Gesetzes erschienenen Werke,
@@ -5010,6 +5267,7 @@ der Absätze 1 bis 5 nicht vorliegen.
 
 
 ##### § 122 Staatenlose
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016200315)
 
 (1) Staatenlose mit gewöhnlichem Aufenthalt im Geltungsbereich dieses
 Gesetzes genießen für ihre Werke den gleichen urheberrechtlichen
@@ -5022,6 +5280,7 @@ gewöhnlichen Aufenthalt haben.
 
 
 ##### § 123 Ausländische Flüchtlinge
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016300315)
 
 Für Ausländer, die Flüchtlinge im Sinne von Staatsverträgen oder
 anderen Rechtsvorschriften sind, gelten die Bestimmungen des § 122
@@ -5030,16 +5289,19 @@ ausgeschlossen.
 
 
 #### Unterabschnitt 2 - Verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003801377)
 
 
 
 ##### § 124 Wissenschaftliche Ausgaben und Lichtbilder
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016400315)
 
 Für den Schutz wissenschaftlicher Ausgaben (§ 70) und den Schutz von
 Lichtbildern (§ 72) sind die §§ 120 bis 123 sinngemäß anzuwenden.
 
 
 ##### § 125 Schutz des ausübenden Künstlers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016503377)
 
 (1) Den nach den §§ 73 bis 83 gewährten Schutz genießen deutsche
 Staatsangehörige für alle ihre Darbietungen, gleichviel, wo diese
@@ -5082,6 +5344,7 @@ nach § 82 zu überschreiten.
 
 
 ##### § 126 Schutz des Herstellers von Tonträgern
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016603377)
 
 (1) Den nach den §§ 85 und 86 gewährten Schutz genießen deutsche
 Staatsangehörige oder Unternehmen mit Sitz im Geltungsbereich dieses
@@ -5109,6 +5372,7 @@ gelten entsprechend.
 
 
 ##### § 127 Schutz des Sendeunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016703377)
 
 (1) Den nach § 87 gewährten Schutz genießen Sendeunternehmen mit Sitz
 im Geltungsbereich dieses Gesetzes für alle Funksendungen, gleichviel,
@@ -5127,6 +5391,7 @@ dieses Gesetzes den Schutz nach Inhalt der Staatsverträge. § 121 Abs.
 
 
 ##### § 127a Schutz des Datenbankherstellers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021601301)
 
 (1) Den nach § 87b gewährten Schutz genießen deutsche Staatsangehörige
 sowie juristische Personen mit Sitz im Geltungsbereich dieses
@@ -5157,6 +5422,7 @@ bekanntgemacht.
 
 
 ##### § 127b Schutz des Presseverlegers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029300360)
 
 (1) Den nach § 87g gewährten Schutz genießen deutsche Staatsangehörige
 oder Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes. § 120
@@ -5171,6 +5437,7 @@ Wirtschaftsraum befindet.
 
 
 ##### § 128 Schutz des Filmherstellers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016801307)
 
 (1) Den nach den §§ 94 und 95 gewährten Schutz genießen deutsche
 Staatsangehörige oder Unternehmen mit Sitz im Geltungsbereich dieses
@@ -5184,10 +5451,12 @@ Geltungsbereich dieses Gesetzes gelten die Bestimmungen in § 126 Abs.
 
 
 ### Abschnitt 2 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG003901377)
 
 
 
 #### § 129 Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE016900315)
 
 (1) Die Vorschriften dieses Gesetzes sind auch auf die vor seinem
 Inkrafttreten geschaffenen Werke anzuwenden, es sei denn, daß sie zu
@@ -5202,6 +5471,7 @@ bisherigen Vorschriften.
 
 
 #### § 130 Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017000315)
 
 Unberührt bleiben die Rechte des Urhebers einer Übersetzung, die vor
 dem 1. Januar 1902 erlaubterweise ohne Zustimmung des Urhebers des
@@ -5209,6 +5479,7 @@ dem 1. Januar 1902 erlaubterweise ohne Zustimmung des Urhebers des
 
 
 #### § 131 Vertonte Sprachwerke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017100315)
 
 Vertonte Sprachwerke, die nach § 20 des Gesetzes betreffend das
 Urheberrecht an Werken der Literatur und der Tonkunst vom 19. Juni
@@ -5223,6 +5494,7 @@ erschienen ist.
 
 
 #### § 132 Verträge
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017205125)
 
 (1) Die Vorschriften dieses Gesetzes sind mit Ausnahme der §§ 42 und
 43 auf Verträge, die vor dem 1. Januar 1966 abgeschlossen worden sind,
@@ -5253,6 +5525,7 @@ weiter anzuwenden.
 
 
 #### § 133 Übergangsregelung bei der Umsetzung vertragsrechtlicher Bestimmungen der Richtlinie (EU) 2019/790
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017301360)
 
 (1) Auf Verträge oder sonstige Sachverhalte, die ab dem 1. März 2017
 und vor dem 7. Juni 2021 geschlossen worden sind oder entstanden sind,
@@ -5279,6 +5552,7 @@ Verlangen des Urhebers zu erteilen.
 
 
 #### § 134 Urheber
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017400315)
 
 Wer zur Zeit des Inkrafttretens dieses Gesetzes nach den bisherigen
 Vorschriften, nicht aber nach diesem Gesetz als Urheber eines Werkes
@@ -5289,6 +5563,7 @@ Dauer des Urheberrechts die bisherigen Vorschriften anzuwenden.
 
 
 #### § 135 Inhaber verwandter Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017500315)
 
 Wer zur Zeit des Inkrafttretens dieses Gesetzes nach den bisherigen
 Vorschriften als Urheber eines Lichtbildes oder der Übertragung eines
@@ -5298,6 +5573,7 @@ die dieses Gesetz ihm gewährt.
 
 
 #### § 135a Berechnung der Schutzfrist
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017600315)
 
 Wird durch die Anwendung dieses Gesetzes auf ein vor seinem
 Inkrafttreten entstandenes Recht die Dauer des Schutzes verkürzt und
@@ -5309,6 +5585,7 @@ Vorschriften.
 
 
 #### § 136 Vervielfältigung und Verbreitung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017700315)
 
 (1) War eine Vervielfältigung, die nach diesem Gesetz unzulässig ist,
 bisher erlaubt, so darf die vor Inkrafttreten dieses Gesetzes
@@ -5326,6 +5603,7 @@ verbreitet werden.
 
 
 #### § 137 Übertragung von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017800315)
 
 (1) Soweit das Urheberrecht vor Inkrafttreten dieses Gesetzes auf
 einen anderen übertragen worden ist, stehen dem Erwerber die
@@ -5360,6 +5638,7 @@ unbillig belasten würde.
 
 
 #### § 137a Lichtbildwerke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018600304)
 
 (1) Die Vorschriften dieses Gesetzes über die Dauer des Urheberrechts
 sind auch auf Lichtbildwerke anzuwenden, deren Schutzfrist am 1. Juli
@@ -5372,6 +5651,7 @@ des Urheberrechts an Lichtbildwerken verlängert worden ist.
 
 
 #### § 137b Bestimmte Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019000309)
 
 (1) Die Vorschriften dieses Gesetzes über die Dauer des Schutzes nach
 den §§ 70 und 71 sind auch auf wissenschaftliche Ausgaben und Ausgaben
@@ -5388,6 +5668,7 @@ des verwandten Schutzrechtes verlängert worden ist.
 
 
 #### § 137c Ausübende Künstler
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019100309)
 
 (1) Die Vorschriften dieses Gesetzes über die Dauer des Schutzes nach
 § 82 sind auch auf Darbietungen anzuwenden, die vor dem 1. Juli 1990
@@ -5409,6 +5690,7 @@ die Dauer des Schutzes verlängert worden ist.
 
 
 #### § 137d Computerprogramme
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE019902360)
 
 (1) Die Vorschriften des Abschnitts 8 des Teils 1 sind auch auf
 Computerprogramme anzuwenden, die vor dem 24. Juni 1993 geschaffen
@@ -5425,6 +5707,7 @@ geschlossen werden oder entstehen.
 
 
 #### § 137e Übergangsregelung bei Umsetzung der Richtlinie 92/100/EWG
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020801377)
 
 (1) Die am 30. Juni 1995 in Kraft tretenden Vorschriften dieses
 Gesetzes finden auch auf vorher geschaffene Werke, Darbietungen,
@@ -5460,6 +5743,7 @@ einschließlich der Vermietung.
 
 
 #### § 137f Übergangsregelung bei Umsetzung der Richtlinie 93/98/EWG
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE020900307)
 
 (1) Würde durch die Anwendung dieses Gesetzes in der ab dem 1. Juli
 1995 geltenden Fassung die Dauer eines vorher entstandenen Rechts
@@ -5495,6 +5779,7 @@ zahlen.
 
 
 #### § 137g Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE021703360)
 
 (1) § 23 Absatz 2, § 53 Abs. 5, die §§ 55a und 63 Abs. 1 Satz 2 sind
 auch auf Datenbankwerke anzuwenden, die vor dem 1. Januar 1998
@@ -5510,6 +5795,7 @@ diesen Fällen am 1. Januar 1998.
 
 
 #### § 137h Übergangsregelung bei Umsetzung der Richtlinie 93/83/EWG
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022000307)
 
 (1) Die Vorschrift des § 20a ist auf Verträge, die vor dem 1. Juni
 1998 geschlossen worden sind, erst ab dem 1. Januar 2000 anzuwenden,
@@ -5534,6 +5820,7 @@ Juni 1998 geschlossen wurde.
 
 
 #### § 137i Übergangsregelung zum Gesetz zur Modernisierung des Schuldrechts
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE022100377)
 
 Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 findet mit der Maßgabe entsprechende Anwendung, dass § 26 Abs. 7, § 36
@@ -5543,6 +5830,7 @@ bis zum 1. Januar 2002 geltenden Fassung gleichgestellt sind.
 
 
 #### § 137j Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2001/29/EG
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023800377)
 
 (1) § 95d Abs. 1 ist auf alle ab dem 1. Dezember 2003 neu in den
 Verkehr gebrachten Werke und anderen Schutzgegenstände anzuwenden.
@@ -5564,10 +5852,12 @@ angemessene Vergütung zu zahlen.
 
 
 #### § 137k (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE023904360)
 
 
 
 #### § 137l Übergangsregelung für neue Nutzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE024300377)
 
 (1) Hat der Urheber zwischen dem 1. Januar 1966 und dem 1. Januar 2008
 einem anderen alle wesentlichen Nutzungsrechte ausschließlich sowie
@@ -5610,6 +5900,7 @@ Vergütung. Die Haftung des anderen entfällt.
 
 
 #### § 137m Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025200360)
 
 (1) Die Vorschriften über die Schutzdauer nach den §§ 82 und 85 Absatz
 3 sowie über die Rechte und Ansprüche des ausübenden Künstlers nach §
@@ -5638,18 +5929,21 @@ vertraglichen Hinweise auf das Gegenteil vorliegen.
 
 
 #### § 137n Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE025700360)
 
 § 61 Absatz 4 ist nur anzuwenden auf Bestandsinhalte, die der
 nutzenden Institution vor dem 29. Oktober 2014 überlassen wurden.
 
 
 #### § 137o Übergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027300123)
 
 § 60g gilt nicht für Verträge, die vor dem 1. März 2018 geschlossen
 wurden.
 
 
 #### § 137p Übergangsregelung aus Anlass der Umsetzung der Richtlinie (EU) 2019/789
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029400360)
 
 (1) § 20b ist auf Verträge über Weitersendungen, die nicht durch
 Kabelsysteme oder Mikrowellensysteme erfolgen, nur anzuwenden, sofern
@@ -5663,12 +5957,14 @@ Juni 2021 geschlossen wurden, ab dem 7. Juni 2025 anzuwenden.
 
 
 #### § 137q Übergangsregelung zur Verlegerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029500360)
 
 § 63a Absatz 2 und 3 gilt für Einnahmen, die Verwertungsgesellschaften
 ab dem 7. Juni 2021 erhalten.
 
 
 #### § 137r Übergangsregelung zum Schutz des Presseverlegers
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE029600360)
 
 Die Vorschriften dieses Gesetzes über den Schutz des Presseverlegers
 (§§ 87f bis 87k und § 127b) finden keine Anwendung auf
@@ -5677,10 +5973,12 @@ Juni 2019 erfolgte.
 
 
 ### Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNG004001377)
 
 
 
 #### § 138 Register anonymer und pseudonymer Werke
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE017905301)
 
 (1) Das Register anonymer und pseudonymer Werke für die in § 66 Abs. 2
 Satz 2 vorgesehenen Eintragungen wird beim Patentamt geführt. Das
@@ -5730,6 +6028,7 @@ wirksam.
 
 
 #### § 138a Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE026400123)
 
 Soweit personenbezogene Daten im Register anonymer und pseudonymer
 Werke enthalten sind, bestehen nicht
@@ -5758,21 +6057,25 @@ Deutschen Patent- und Markenamtes nehmen kann.
 
 
 #### § 139 Änderung der Strafprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018001377)
 
 -
 
 
 #### § 140 Änderung des Gesetzes über das am 6. September 1952 unterzeichnete Welturheberrechtsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018101377)
 
 -
 
 
 #### § 141 Aufgehobene Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018201377)
 
 -
 
 
 #### § 142 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE027401360)
 
 Die Bundesregierung erstattet vier Jahre nach Inkrafttreten des
 Urheberrechts-Wissensgesellschafts-Gesetzes dem Deutschen Bundestag
@@ -5781,6 +6084,7 @@ Bericht über die Auswirkungen des Teils 1 Abschnitt 6 Unterabschnitt
 
 
 #### § 143 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018400315)
 
 (1) Die §§ 64 bis 67, 69, 105 Abs. 1 bis 3 und § 138 Abs. 5 treten am
 Tage nach der Verkündung dieses Gesetzes in Kraft.
@@ -5789,6 +6093,7 @@ Tage nach der Verkündung dieses Gesetzes in Kraft.
 
 
 #### Anlage (zu § 61a) Quellen einer sorgfältigen Suche
+[Direktlink](https://www.gesetze-im-internet.de/urhg/BJNR012730965.html#BJNR012730965BJNE018706123)
 
 (Fundstelle: BGBl. I 2013, 3731 - 3732)
 

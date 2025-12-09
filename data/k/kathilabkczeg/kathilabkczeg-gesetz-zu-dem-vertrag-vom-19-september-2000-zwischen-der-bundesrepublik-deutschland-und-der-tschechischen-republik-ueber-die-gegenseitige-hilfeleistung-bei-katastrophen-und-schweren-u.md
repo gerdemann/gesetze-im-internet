@@ -23,12 +23,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkczeg/BJNR187420002.html#BJNR187420002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkczeg/BJNR187420002.html#BJNR187420002BJNE000200000)
 
 Dem in Berlin am 19. September 2000 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und der Tschechischen Republik über die
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkczeg/BJNR187420002.html#BJNR187420002BJNE000301116)
 
 (1) Aufwendungen, die auf Seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in der Tschechischen Republik entstehen, trägt
@@ -62,6 +65,7 @@ den Aufgabenbereich des Bundes oder eines Landes fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkczeg/BJNR187420002.html#BJNR187420002BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

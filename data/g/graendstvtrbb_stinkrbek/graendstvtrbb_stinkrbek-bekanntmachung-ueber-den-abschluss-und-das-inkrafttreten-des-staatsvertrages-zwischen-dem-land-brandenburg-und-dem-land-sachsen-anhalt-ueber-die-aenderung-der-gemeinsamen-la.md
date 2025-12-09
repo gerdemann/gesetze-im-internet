@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbb_stinkrbek/BJNR008900994.html#BJNR008900994BJNE000100307)
 
 Zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt wurde am 24.
 August 1993 ein Staatsvertrag über eine Änderung der gemeinsamen

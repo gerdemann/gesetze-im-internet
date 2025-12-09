@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000100000)
 
 Zur Untersuchung von in § 43 Absatz 1 Satz 2 des Lebensmittel- und
 Futtermittelgesetzbuches bezeichneten Gegen- oder Zweitproben,
@@ -31,6 +32,7 @@ Landes, in dem sie ihren Hauptsitz haben, durch eine Entscheidung nach
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000200000)
 
 (1) Als Gegenprobensachverständige dürfen nur zugelassen werden
 
@@ -112,6 +114,7 @@ werden,
 
 
 ## § 3 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000302116)
 
 (1) Der Antrag auf Zulassung ist schriftlich oder elektronisch bei der
 zuständigen Behörde zu stellen. In dem Antrag ist anzugeben, für
@@ -182,6 +185,7 @@ anzuwenden.
 
 
 ## § 4 Anzeigeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000401116)
 
 (1) Personen nach § 2 Absatz 2 Satz 2 müssen der zuständigen Behörde
 die Tätigkeit als Gegenprobensachverständiger vor dem erstmaligen
@@ -244,6 +248,7 @@ und 7 Satz 2 gilt entsprechend.
 
 
 ## § 5 Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung von Gegenprobensachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000502116)
 
 (1) Prüflaboratorien, in denen Gegenproben oder Zweitproben untersucht
 werden sollen, müssen die Anforderungen nach Artikel 37 Absatz 4
@@ -288,6 +293,7 @@ Drittstaates ist anzuerkennen, soweit
 
 
 ## § 6 Bestehende Zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000600000)
 
 Private Sachverständige, die vor dem 20. August 2009 über eine
 Zulassung für die Untersuchung von Gegen- oder Zweitproben verfügen,
@@ -296,6 +302,7 @@ Grundlage der bestehenden Zulassung weiter durchführen.
 
 
 ## § 7 Unterrichtung des Herstellers über die Zurücklassung von amtlich entnommenen Proben
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000700000)
 
 (1) Die zuständige Behörde hat, sofern eine Probe eines Lebensmittels,
 kosmetischen Mittels oder Bedarfsgegenstandes nach § 43 Absatz 1 Satz
@@ -346,6 +353,7 @@ nicht der Hersteller, gelten Satz 1 und 2 entsprechend.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE001810000)
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -371,6 +379,7 @@ oder fahrlässig
 (zu § 2 Absatz 1)
 
 ## Anlage 1 Anforderungen an die fachgerechte Untersuchung und Beurteilung von Gegen- oder Zweitproben
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE000900000)
 
 (Fundstelle: BGBl. I 2009, 2855)
 
@@ -449,10 +458,12 @@ oder fahrlässig
 
 
 ## Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE001001116)
 
 (zu § 3 Absatz 5)
 
 ## Anlage 3 Verpflichtungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/gpv/BJNR285210009.html#BJNR285210009BJNE001100000)
 
 (Fundstelle: BGBl. I 2009, 2856)
 Herr/Frau ................

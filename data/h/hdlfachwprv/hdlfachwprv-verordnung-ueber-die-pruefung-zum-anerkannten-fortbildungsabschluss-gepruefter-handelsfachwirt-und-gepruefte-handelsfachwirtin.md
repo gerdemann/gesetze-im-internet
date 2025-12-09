@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 806-22-6-4 v. 17.1.2006 I 59 (HandelsfachwPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -36,6 +37,7 @@ und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Handelsfachwirt und zur Geprüften Handelsfachwirtin nach den
@@ -107,6 +109,7 @@ Handelsfachwirtin“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000300000)
 
 (1) Zur ersten schriftlichen Teilprüfung nach § 3 Absatz 2 und 3 ist
 zuzulassen, wer
@@ -155,6 +158,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000401128)
 
 (1) Die Prüfung wird schriftlich und mündlich durchgeführt.
 
@@ -238,6 +242,7 @@ Das Fachgespräch soll nicht länger als 20 Minuten dauern.
 
 
 ## § 4 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000500000)
 
 (1) Im Handlungsbereich „Unternehmensführung und -steuerung“ soll die
 Fähigkeit nachgewiesen werden, bei der Erstellung von
@@ -540,6 +545,7 @@ werden. In diesem Rahmen kann Folgendes geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -552,6 +558,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -586,6 +593,7 @@ Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -619,6 +627,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE001500128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -645,6 +654,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000801128)
 
 (1) Jede Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -658,6 +668,7 @@ geprüft, gilt in diesem Fall das Ergebnis der letzten Teilprüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE000901128)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
@@ -665,6 +676,7 @@ erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE001001128)
 
 Begonnene Prüfungsverfahren zum Geprüften Handelsfachwirt/zur
 Geprüften Handelsfachwirtin können bis zum Ablauf des 31. Juli 2018
@@ -678,6 +690,7 @@ werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE001101128)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -688,6 +701,7 @@ I S. 59), die zuletzt durch Artikel 7 der Verordnung vom 26. März 2014
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE001201128)
 
 (Fundstelle: BGBl. I 2019, 2404 – 2405)
 
@@ -989,6 +1003,7 @@ I S. 59), die zuletzt durch Artikel 7 der Verordnung vom 26. März 2014
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/hdlfachwprv/BJNR052700014.html#BJNR052700014BJNE001301128)
 
 (Fundstelle: BGBl. I 2019, 2405 – 2406)
 

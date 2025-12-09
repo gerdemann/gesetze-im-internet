@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1989-10/BJNR920110989.html#BJNR920110989BJNE000100333)
 
 Dem Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit wird
 aus dem Geschäftsbereich des Bundesministers für Verkehr die

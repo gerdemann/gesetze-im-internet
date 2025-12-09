@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg_10bek/BJNR0AB0A0024.html#BJNR0AB0A0024BJNE000100000)
 
 Aufgrund des § 10 Absatz 3 Satz 2 des Saubere-Fahrzeuge-Beschaffungs-
 Gesetzes vom 9. Juni 2021 (BGBl. I S. 1691), der durch Artikel 1

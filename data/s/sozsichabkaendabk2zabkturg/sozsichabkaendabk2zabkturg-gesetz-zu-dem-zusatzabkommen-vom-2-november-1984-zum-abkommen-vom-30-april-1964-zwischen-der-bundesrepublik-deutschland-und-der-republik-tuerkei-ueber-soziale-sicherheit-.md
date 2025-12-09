@@ -20,22 +20,26 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk_ndabk2zabkturg/BJNR210380986.html#BJNR210380986BJNE000100304)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk_ndabk2zabkturg/BJNR210380986.html#BJNR210380986BJNE000200304)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk_ndabk2zabkturg/BJNR210380986.html#BJNR210380986BJNE000300304)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk_ndabk2zabkturg/BJNR210380986.html#BJNR210380986BJNE000400304)
 
 Bei Versicherten, auf die das Abkommen in der Fassung des
 Zusatzabkommens Anwendung findet und die den Geltungsbereich dieses
@@ -49,12 +53,14 @@ Vorschriften vorgesehenen zweijährigen Frist erstattet.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk_ndabk2zabkturg/BJNR210380986.html#BJNR210380986BJNE000500304)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk_ndabk2zabkturg/BJNR210380986.html#BJNR210380986BJNE000600304)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

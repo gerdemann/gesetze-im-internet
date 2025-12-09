@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000100000)
 
 
 
 ### § 1 Ziel und Verantwortung der Träger öffentlicher Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000102119)
 
 (1) Ziel dieses Gesetzes ist es, die Benachteiligung von Menschen mit
 Behinderungen zu beseitigen und zu verhindern sowie ihre
@@ -79,6 +81,7 @@ dieses Gesetzes im Rahmen der Wahrnehmung ihrer Aufgaben.
 
 
 ### § 2 Frauen mit Behinderungen; Benachteiligung wegen mehrerer Gründe
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000201119)
 
 (1) Zur Durchsetzung der Gleichberechtigung von Frauen und Männern und
 zur Vermeidung von Benachteiligungen von Frauen mit Behinderungen
@@ -97,6 +100,7 @@ berücksichtigen.
 
 
 ### § 3 Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000301119)
 
 Menschen mit Behinderungen im Sinne dieses Gesetzes sind Menschen, die
 langfristige körperliche, seelische, geistige oder
@@ -108,6 +112,7 @@ andauert.
 
 
 ### § 4 Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000401119)
 
 Barrierefrei sind bauliche und sonstige Anlagen, Verkehrsmittel,
 technische Gebrauchsgegenstände, Systeme der Informationsverarbeitung,
@@ -120,6 +125,7 @@ behinderungsbedingt notwendiger Hilfsmittel zulässig.
 
 
 ### § 5 Zielvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000503119)
 
 (1) Soweit nicht besondere gesetzliche oder verordnungsrechtliche
 Vorschriften entgegenstehen, sollen zur Herstellung der
@@ -197,6 +203,7 @@ Monats mitzuteilen.
 
 
 ### § 6 Gebärdensprache und Kommunikation von Menschen mit Hör- und Sprachbehinderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000601119)
 
 (1) Die Deutsche Gebärdensprache ist als eigenständige Sprache
 anerkannt.
@@ -212,10 +219,12 @@ Kommunikationshilfen zu verwenden.
 
 
 ## Abschnitt 2 - Verpflichtung zur Gleichstellung und Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000200000)
 
 
 
 ### § 7 Benachteiligungsverbot für Träger öffentlicher Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000702119)
 
 (1) Ein Träger öffentlicher Gewalt darf Menschen mit Behinderungen
 nicht benachteiligen. Eine Benachteiligung liegt vor, wenn Menschen
@@ -253,6 +262,7 @@ Buch Sozialgesetzbuch, bleiben unberührt.
 
 
 ### § 8 Herstellung von Barrierefreiheit in den Bereichen Bau und Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000801119)
 
 (1) Zivile Neu-, Um- und Erweiterungsbauten im Eigentum des Bundes
 einschließlich der bundesunmittelbaren Körperschaften, Anstalten und
@@ -297,6 +307,7 @@ unberührt.
 
 
 ### § 9 Recht auf Verwendung von Gebärdensprache und anderen Kommunikationshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE000905119)
 
 (1) Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen
 haben nach Maßgabe der Rechtsverordnung nach Absatz 2 das Recht, mit
@@ -330,6 +341,7 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 
 ### § 10 Gestaltung von Bescheiden und Vordrucken
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001005119)
 
 (1) Träger öffentlicher Gewalt haben bei der Gestaltung von
 Bescheiden, Allgemeinverfügungen, öffentlich-rechtlichen Verträgen und
@@ -348,6 +360,7 @@ gemacht werden.
 
 
 ### § 11 Verständlichkeit und Leichte Sprache
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001602119)
 
 (1) Träger öffentlicher Gewalt sollen mit Menschen mit geistigen
 Behinderungen und Menschen mit seelischen Behinderungen in einfacher
@@ -375,10 +388,12 @@ Leichter Sprache auf- und ausgebaut werden.
 
 
 ## Abschnitt 2a - Barrierefreie Informationstechnik öffentlicher Stellen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000700119)
 
 
 
 ### § 12 Öffentliche Stellen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001105119)
 
 Öffentliche Stellen des Bundes sind
 
@@ -429,6 +444,7 @@ mehr als 50 Prozent der Gesamtheit der Mittel aufbringt.
 
 
 ### § 12a Barrierefreie Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002000119)
 
 (1) Öffentliche Stellen des Bundes gestalten ihre Websites und mobilen
 Anwendungen, einschließlich der für die Beschäftigten bestimmten
@@ -477,6 +493,7 @@ gestalten.
 
 
 ### § 12b Erklärung zur Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002100119)
 
 (1) Die öffentlichen Stellen des Bundes veröffentlichen eine Erklärung
 zur Barrierefreiheit ihrer Websites oder mobilen Anwendungen.
@@ -541,6 +558,7 @@ Anfragen, die ihr aufgrund der Erklärung zur Barrierefreiheit
 
 
 ### § 12c Berichterstattung über den Stand der Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002200119)
 
 (1) Die obersten Bundesbehörden erstatten alle drei Jahre, erstmals
 zum 30. Juni 2021, der Überwachungsstelle des Bundes für
@@ -578,6 +596,7 @@ festgelegt werden.
 
 
 ### § 12d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002300119)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -612,10 +631,12 @@ Bestimmungen zu erlassen über
 
 
 ## Abschnitt 2b - Assistenzhunde
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000800377)
 
 
 
 ### § 12e Menschen mit Behinderungen in Begleitung durch Assistenzhunde
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002401126)
 
 (1) Träger öffentlicher Gewalt sowie Eigentümer, Besitzer und
 Betreiber von beweglichen oder unbeweglichen Anlagen und Einrichtungen
@@ -687,6 +708,7 @@ keine Anwendung.
 
 
 ### § 12f Ausbildung von Assistenzhunden
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002500377)
 
 Assistenzhund und die Gemeinschaft von Mensch und Tier (Mensch-
 Assistenzhund-Gemeinschaft) bedürfen einer geeigneten Ausbildung durch
@@ -704,6 +726,7 @@ Assistenzhundehalters.
 
 
 ### § 12g Prüfung von Assistenzhunden und der Mensch-Assistenzhund-Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002600377)
 
 Der Abschluss der Ausbildung des Hundes und der Mensch-Assistenzhund-
 Gemeinschaft nach § 12f erfolgt durch eine Prüfung. Die Prüfung dient
@@ -714,6 +737,7 @@ bescheinigen.
 
 
 ### § 12h Haltung von Assistenzhunden
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002700377)
 
 (1) Der Halter eines Assistenzhundes ist zur artgerechten Haltung des
 Assistenzhundes verpflichtet. Die Anforderungen des Tierschutzgesetzes
@@ -734,6 +758,7 @@ Assistenzhundes.
 
 
 ### § 12i Zulassung einer Ausbildungsstätte für Assistenzhunde
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002800377)
 
 Eine Ausbildungsstätte, die Assistenzhunde nach § 12f ausbildet,
 bedarf der Zulassung durch eine fachliche Stelle. Die Zulassung ist
@@ -774,6 +799,7 @@ Zulassungszertifikat.
 [^F816729_01_BJNR146800002BJNE002800377]: 
 
 ### § 12j Fachliche Stelle und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE002900377)
 
 (1) Als fachliche Stelle dürfen nur Zertifizierungsstellen für
 Produkte, Prozesse und Dienstleistungen nach DIN EN ISO/IEC 17065:2013
@@ -810,6 +836,7 @@ Akkreditierungsverfahren ergeben sich aus der Verordnung gemäß § 12l.
 [^F816729_02_BJNR146800002BJNE002900377]: 
 
 ### § 12k Studie zur Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE003000377)
 
 Das Bundesministerium für Arbeit und Soziales untersucht die Umsetzung
 und die Auswirkungen der §§ 12e bis 12l in den Jahren 2021 bis 2024.
@@ -819,6 +846,7 @@ einbezogenen Mensch-Assistenzhund-Gemeinschaften getragen werden.
 
 
 ### § 12l Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE003101126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Ernährung und
@@ -857,10 +885,12 @@ Bundesrates bedarf, Folgendes zu regeln:
 
 
 ## Abschnitt 3 - Bundesfachstelle für Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000500119)
 
 
 
 ### § 13 Bundesfachstelle für Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001703119)
 
 (1) Bei der Deutschen Rentenversicherung Knappschaft-Bahn-See wird
 eine Bundesfachstelle für Barrierefreiheit errichtet.
@@ -929,10 +959,12 @@ genannten Aufgaben.
 
 
 ## Abschnitt 4 - Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000301119)
 
 
 
 ### § 14 Vertretungsbefugnisse in verwaltungs- oder sozialrechtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001202119)
 
 Werden Menschen mit Behinderungen in ihren Rechten aus § 7 Absatz 1, §
 8 Absatz 1, § 9 Absatz 1, § 10 Absatz 1 Satz 2 oder § 12a, soweit die
@@ -950,6 +982,7 @@ Menschen mit Behinderung selbst vorliegen.
 
 
 ### § 15 Verbandsklagerecht
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001308119)
 
 (1) Ein nach Absatz 3 anerkannter Verband kann, ohne in seinen Rechten
 verletzt zu sein, Klage nach Maßgabe der Verwaltungsgerichtsordnung
@@ -1041,6 +1074,7 @@ Verband
 
 
 ### § 16 Schlichtungsstelle und -verfahren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001802377)
 
 (1) Bei der oder dem Beauftragten der Bundesregierung für die Belange
 von Menschen mit Behinderungen nach Abschnitt 5 wird eine
@@ -1137,10 +1171,12 @@ Nähere zu Tätigkeitsberichten der Schlichtungsstelle.
 
 
 ## Abschnitt 5 - Beauftragte oder Beauftragter der Bundesregierung für die Belange von Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000401119)
 
 
 
 ### § 17 Amt der oder des Beauftragten für die Belange von Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001401119)
 
 (1) Die Bundesregierung bestellt eine Beauftragte oder einen
 Beauftragten für die Belange von Menschen mit Behinderungen.
@@ -1153,6 +1189,7 @@ Zusammentreten eines neuen Bundestages.
 
 
 ### § 18 Aufgabe und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001501119)
 
 (1) Aufgabe der beauftragten Person ist es, darauf hinzuwirken, dass
 die Verantwortung des Bundes, für gleichwertige Lebensbedingungen für
@@ -1176,10 +1213,12 @@ personenbezogener Daten bleiben unberührt.
 
 
 ## Abschnitt 6 - Förderung der Partizipation
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNG000600119)
 
 
 
 ### § 19 Förderung der Partizipation
+[Direktlink](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html#BJNR146800002BJNE001900119)
 
 Der Bund fördert im Rahmen der zur Verfügung stehenden Haushaltsmittel
 Maßnahmen von Organisationen, die die Voraussetzungen des § 15 Absatz

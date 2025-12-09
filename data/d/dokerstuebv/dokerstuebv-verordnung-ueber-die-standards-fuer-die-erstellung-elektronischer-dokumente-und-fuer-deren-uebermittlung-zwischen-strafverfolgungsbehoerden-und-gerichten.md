@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000100000)
 
 Auf Grund des § 32b Absatz 5 Satz 1 der Strafprozessordnung, der durch
 Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208)
@@ -28,6 +29,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000200000)
 
 (1) Diese Verordnung ist anzuwenden auf
 
@@ -66,6 +68,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 2 Erstellung elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000300000)
 
 (1) Elektronische Dokumente sind in druckbarer, kopierbarer und,
 soweit technisch möglich, durchsuchbarer Form im Dateiformat PDF/A zu
@@ -95,6 +98,7 @@ beachtet werden.
 
 
 ## § 3 Übermittlung elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000400000)
 
 (1) Strafverfolgungsbehörden und Gerichte sollen einander Dokumente
 als elektronische Dokumente übermitteln, wenn die empfangende Stelle
@@ -126,6 +130,7 @@ entspricht.
 
 
 ## § 4 Übermittlung von Ermittlungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000501125)
 
 (1) Bei der elektronischen Übermittlung von Ermittlungsvorgängen
 (Verhandlungen gemäß § 163 Absatz 2 Satz 1 der Strafprozessordnung)
@@ -155,6 +160,7 @@ enthalten.
 
 
 ## § 5 Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000600000)
 
 (1) Die Übermittlung elektronischer Dokumente zwischen
 Strafverfolgungsbehörden und Gerichten untereinander erfolgt über das
@@ -171,6 +177,7 @@ sind, sind bis zum 31. Dezember 2025 weiterhin zulässig.
 
 
 ## § 6 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000701125)
 
 (1) Ist aus technischen Gründen eine Übermittlung nach § 5
 vorübergehend nicht möglich, so ist die Übermittlung auch auf andere
@@ -186,6 +193,7 @@ Absatz 1 Nummer 3 zulässig.
 
 
 ## § 7 Bekanntmachung technischer Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000800000)
 
 (1) Die Bundesregierung macht folgende technische Anforderungen im
 Bundesanzeiger und auf der Internetseite www.justiz.de bekannt:
@@ -212,11 +220,13 @@ Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dokerst_bv/BJNR024400020.html#BJNR024400020BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

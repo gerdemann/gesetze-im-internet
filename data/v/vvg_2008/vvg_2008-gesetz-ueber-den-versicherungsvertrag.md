@@ -20,15 +20,19 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000100000)
 
 
 ### Kapitel 1 - Vorschriften für alle Versicherungszweige
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000200000)
 
 
 #### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000300000)
 
 
 ##### § 1 Vertragstypische Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000200000)
 
 Der Versicherer verpflichtet sich mit dem Versicherungsvertrag, ein
 bestimmtes Risiko des Versicherungsnehmers oder eines Dritten durch
@@ -39,6 +43,7 @@ leisten.
 
 
 ##### § 1a Vertriebstätigkeit des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022000118)
 
 (1) Der Versicherer muss bei seiner Vertriebstätigkeit gegenüber
 Versicherungsnehmern stets ehrlich, redlich und professionell in deren
@@ -77,6 +82,7 @@ Werbemitteilungen müssen stets eindeutig als solche erkennbar sein.
 
 
 ##### § 2 Rückwärtsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000300000)
 
 (1) Der Versicherungsvertrag kann vorsehen, dass der
 Versicherungsschutz vor dem Zeitpunkt des Vertragsschlusses beginnt
@@ -97,6 +103,7 @@ Kenntnis des Vertretenen zu berücksichtigen.
 
 
 ##### § 3 Versicherungsschein
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000400000)
 
 (1) Der Versicherer hat dem Versicherungsnehmer einen
 Versicherungsschein in Textform, auf dessen Verlangen als Urkunde, zu
@@ -128,6 +135,7 @@ zu tragen und auf Verlangen vorzuschießen.
 
 
 ##### § 4 Versicherungsschein auf den Inhaber
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000500000)
 
 (1) Auf einen als Urkunde auf den Inhaber ausgestellten
 Versicherungsschein ist § 808 des Bürgerlichen Gesetzbuchs anzuwenden.
@@ -141,6 +149,7 @@ Versicherungsschein der Kraftloserklärung unterliegt.
 
 
 ##### § 5 Abweichender Versicherungsschein
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000600000)
 
 (1) Weicht der Inhalt des Versicherungsscheins von dem Antrag des
 Versicherungsnehmers oder den getroffenen Vereinbarungen ab, gilt die
@@ -165,6 +174,7 @@ verzichtet, den Vertrag wegen Irrtums anzufechten, ist unwirksam.
 
 
 ##### § 6 Beratung des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000703118)
 
 (1) Der Versicherer hat den Versicherungsnehmer, soweit nach der
 Schwierigkeit, die angebotene Versicherung zu beurteilen, oder der
@@ -207,6 +217,7 @@ Versicherungsmakler vermittelt wird.
 
 
 ##### § 6a Einzelheiten der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022100118)
 
 (1) Der nach § 6 zu erteilende Rat und die Gründe hierfür sind dem
 Versicherungsnehmer wie folgt zu übermitteln:
@@ -279,6 +290,7 @@ Absatz 2 unmittelbar nach Abschluss des Versicherungsvertrags erteilt.
 
 
 ##### § 7 Information des Versicherungsnehmers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000804311)
 
 (1) Der Versicherer hat dem Versicherungsnehmer rechtzeitig vor Abgabe
 von dessen Vertragserklärung seine Vertragsbestimmungen einschließlich
@@ -390,6 +402,7 @@ zuständige Aufsichtsbehörde in Textform mitzuteilen.
 
 
 ##### § 7a Querverkäufe
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022202128)
 
 (1) Wird ein Versicherungsprodukt zusammen mit einem Nebenprodukt oder
 einer Nebendienstleistung, das oder die keine Versicherung ist, als
@@ -446,6 +459,7 @@ eines Versicherungsnehmers, insbesondere das Widerrufsrecht.
 
 
 ##### § 7b Information bei Versicherungsanlageprodukten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022300118)
 
 (1) Bei Produkten, die Versicherungsanlageprodukte im Sinne von
 Artikel 2 Absatz 1 Nummer 17 der Richtlinie (EU) 2016/97 sind, sind
@@ -489,6 +503,7 @@ mindestens aber jährlich, zur Verfügung gestellt.
 
 
 ##### § 7c Beurteilung von Versicherungsanlageprodukten; Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022400118)
 
 (1) Bei einer Beratung zu einem Versicherungsanlageprodukt hat der
 Versicherer zu erfragen:
@@ -615,10 +630,12 @@ Versicherungsnehmers entspricht.
 
 
 ##### § 7d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022502128)
 
 
 
 ##### § 8 Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE000906311)
 
 (1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb von
 14 Tagen widerrufen. Der Widerruf ist in Textform gegenüber dem
@@ -708,6 +725,7 @@ VVG-Informationspflichtenverordnung anzupassen.
 
 
 ##### § 9 Rechtsfolgen des Widerrufs
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001001360)
 
 (1) Übt der Versicherungsnehmer das Widerrufsrecht nach § 8 Abs. 1
 aus, hat der Versicherer nur den auf die Zeit nach Zugang des
@@ -734,6 +752,7 @@ verlangt werden.
 
 
 ##### § 10 Beginn und Ende der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001100000)
 
 Ist die Dauer der Versicherung nach Tagen, Wochen, Monaten oder einem
 mehrere Monate umfassenden Zeitraum bestimmt, beginnt die Versicherung
@@ -742,6 +761,7 @@ mit Ablauf des letzten Tages der Vertragszeit.
 
 
 ##### § 11 Verlängerung, Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001200000)
 
 (1) Wird bei einem auf eine bestimmte Zeit eingegangenen
 Versicherungsverhältnis im Voraus eine Verlängerung für den Fall
@@ -765,12 +785,14 @@ Einhaltung einer Frist von drei Monaten gekündigt werden.
 
 
 ##### § 12 Versicherungsperiode
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001300000)
 
 Als Versicherungsperiode gilt, falls nicht die Prämie nach kürzeren
 Zeitabschnitten bemessen ist, der Zeitraum eines Jahres.
 
 
 ##### § 13 Änderung von Anschrift und Name
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001400000)
 
 (1) Hat der Versicherungsnehmer eine Änderung seiner Anschrift dem
 Versicherer nicht mitgeteilt, genügt für eine dem Versicherungsnehmer
@@ -787,6 +809,7 @@ Niederlassung Absatz 1 Satz 1 und 2 entsprechend anzuwenden.
 
 
 ##### § 14 Fälligkeit der Geldleistung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001500000)
 
 (1) Geldleistungen des Versicherers sind fällig mit der Beendigung der
 zur Feststellung des Versicherungsfalles und des Umfanges der Leistung
@@ -804,6 +827,7 @@ zur Zahlung von Verzugszinsen befreit wird, ist unwirksam.
 
 
 ##### § 15 Hemmung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001600000)
 
 Ist ein Anspruch aus dem Versicherungsvertrag beim Versicherer
 angemeldet worden, ist die Verjährung bis zu dem Zeitpunkt gehemmt, zu
@@ -812,6 +836,7 @@ zugeht.
 
 
 ##### § 16 Insolvenz des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001700000)
 
 (1) Wird über das Vermögen des Versicherers das Insolvenzverfahren
 eröffnet, endet das Versicherungsverhältnis mit Ablauf eines Monats
@@ -823,6 +848,7 @@ Wirkungen der Insolvenzeröffnung bleiben unberührt.
 
 
 ##### § 17 Abtretungsverbot bei unpfändbaren Sachen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001800000)
 
 Soweit sich die Versicherung auf unpfändbare Sachen bezieht, kann eine
 Forderung aus der Versicherung nur auf solche Gläubiger des
@@ -831,6 +857,7 @@ zerstörten oder beschädigten Sachen andere Sachen geliefert haben.
 
 
 ##### § 18 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE001900000)
 
 Von § 3 Abs. 1 bis 4, § 5 Abs. 1 bis 3, den §§ 6 bis 9 und 11 Abs. 2
 bis 4, § 14 Abs. 2 Satz 1 und § 15 kann nicht zum Nachteil des
@@ -838,9 +865,11 @@ Versicherungsnehmers abgewichen werden.
 
 
 #### Abschnitt 2 - Anzeigepflicht, Gefahrerhöhung, andere Obliegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000400000)
 
 
 ##### § 19 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002000000)
 
 (1) Der Versicherungsnehmer hat bis zur Abgabe seiner
 Vertragserklärung die ihm bekannten Gefahrumstände, die für den
@@ -884,6 +913,7 @@ Mitteilung auf dieses Recht hinzuweisen.
 
 
 ##### § 20 Vertreter des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002100000)
 
 Wird der Vertrag von einem Vertreter des Versicherungsnehmers
 geschlossen, sind bei der Anwendung des § 19 Abs. 1 bis 4 und des § 21
@@ -897,6 +927,7 @@ Last fällt.
 
 
 ##### § 21 Ausübung der Rechte des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002200000)
 
 (1) Der Versicherer muss die ihm nach § 19 Abs. 2 bis 4 zustehenden
 Rechte innerhalb eines Monats schriftlich geltend machen. Die Frist
@@ -924,12 +955,14 @@ verletzt, beläuft sich die Frist auf zehn Jahre.
 
 
 ##### § 22 Arglistige Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002300000)
 
 Das Recht des Versicherers, den Vertrag wegen arglistiger Täuschung
 anzufechten, bleibt unberührt.
 
 
 ##### § 23 Gefahrerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002400000)
 
 (1) Der Versicherungsnehmer darf nach Abgabe seiner Vertragserklärung
 ohne Einwilligung des Versicherers keine Gefahrerhöhung vornehmen oder
@@ -947,6 +980,7 @@ Versicherer unverzüglich anzuzeigen.
 
 
 ##### § 24 Kündigung wegen Gefahrerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002500000)
 
 (1) Verletzt der Versicherungsnehmer seine Verpflichtung nach § 23
 Abs. 1, kann der Versicherer den Vertrag ohne Einhaltung einer Frist
@@ -966,6 +1000,7 @@ wiederhergestellt ist, der vor der Gefahrerhöhung bestanden hat.
 
 
 ##### § 25 Prämienerhöhung wegen Gefahrerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002600000)
 
 (1) Der Versicherer kann an Stelle einer Kündigung ab dem Zeitpunkt
 der Gefahrerhöhung eine seinen Geschäftsgrundsätzen für diese höhere
@@ -982,6 +1017,7 @@ der Mitteilung auf dieses Recht hinzuweisen.
 
 
 ##### § 26 Leistungsfreiheit wegen Gefahrerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002700000)
 
 (1) Tritt der Versicherungsfall nach einer Gefahrerhöhung ein, ist der
 Versicherer nicht zur Leistung verpflichtet, wenn der
@@ -1017,6 +1053,7 @@ Leistung verpflichtet,
 
 
 ##### § 27 Unerhebliche Gefahrerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002800000)
 
 Die §§ 23 bis 26 sind nicht anzuwenden, wenn nur eine unerhebliche
 Erhöhung der Gefahr vorliegt oder wenn nach den Umständen als
@@ -1025,6 +1062,7 @@ soll.
 
 
 ##### § 28 Verletzung einer vertraglichen Obliegenheit
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE002900000)
 
 (1) Bei Verletzung einer vertraglichen Obliegenheit, die vom
 Versicherungsnehmer vor Eintritt des Versicherungsfalles gegenüber dem
@@ -1063,6 +1101,7 @@ unwirksam.
 
 
 ##### § 29 Teilrücktritt, Teilkündigung, teilweise Leistungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003000000)
 
 (1) Liegen die Voraussetzungen, unter denen der Versicherer nach den
 Vorschriften dieses Abschnittes zum Rücktritt oder zur Kündigung
@@ -1089,6 +1128,7 @@ Leistungsfreiheit Absatz 1 entsprechend anzuwenden.
 
 
 ##### § 30 Anzeige des Versicherungsfalles
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003100000)
 
 (1) Der Versicherungsnehmer hat den Eintritt des Versicherungsfalles,
 nachdem er von ihm Kenntnis erlangt hat, dem Versicherer unverzüglich
@@ -1104,6 +1144,7 @@ erlangt hat.
 
 
 ##### § 31 Auskunftspflicht des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003200000)
 
 (1) Der Versicherer kann nach dem Eintritt des Versicherungsfalles
 verlangen, dass der Versicherungsnehmer jede Auskunft erteilt, die zur
@@ -1118,6 +1159,7 @@ erfüllen.
 
 
 ##### § 32 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003300000)
 
 Von den §§ 19 bis 28 Abs. 4 und § 31 Abs. 1 Satz 2 kann nicht zum
 Nachteil des Versicherungsnehmers abgewichen werden. Für Anzeigen nach
@@ -1126,9 +1168,11 @@ kann jedoch die Schrift- oder die Textform vereinbart werden.
 
 
 #### Abschnitt 3 - Prämie
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000500000)
 
 
 ##### § 33 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003401377)
 
 (1) Der Versicherungsnehmer hat eine einmalige Prämie oder, wenn
 laufende Prämien vereinbart sind, die erste Prämie unverzüglich nach
@@ -1140,6 +1184,7 @@ wenn er vom Versicherer hierzu in Textform aufgefordert worden ist.
 
 
 ##### § 34 Zahlung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003500000)
 
 (1) Der Versicherer muss fällige Prämien oder sonstige ihm auf Grund
 des Vertrags zustehende Zahlungen vom Versicherten bei einer
@@ -1156,6 +1201,7 @@ hat.
 
 
 ##### § 35 Aufrechnung durch den Versicherer
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003600000)
 
 Der Versicherer kann eine fällige Prämienforderung oder eine andere
 ihm aus dem Vertrag zustehende fällige Forderung gegen eine Forderung
@@ -1164,6 +1210,7 @@ dem Versicherungsnehmer, sondern einem Dritten zusteht.
 
 
 ##### § 36 Leistungsort
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003700000)
 
 (1) Leistungsort für die Zahlung der Prämie ist der jeweilige Wohnsitz
 des Versicherungsnehmers. Der Versicherungsnehmer hat jedoch auf seine
@@ -1176,6 +1223,7 @@ die Stelle des Wohnsitzes.
 
 
 ##### § 37 Zahlungsverzug bei Erstprämie
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003800000)
 
 (1) Wird die einmalige oder die erste Prämie nicht rechtzeitig
 gezahlt, ist der Versicherer, solange die Zahlung nicht bewirkt ist,
@@ -1193,6 +1241,7 @@ aufmerksam gemacht hat.
 
 
 ##### § 38 Zahlungsverzug bei Folgeprämie
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE003900000)
 
 (1) Wird eine Folgeprämie nicht rechtzeitig gezahlt, kann der
 Versicherer dem Versicherungsnehmer auf dessen Kosten in Textform eine
@@ -1222,6 +1271,7 @@ Zahlung leistet; Absatz 2 bleibt unberührt.
 
 
 ##### § 39 Vorzeitige Vertragsbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004000000)
 
 (1) Im Fall der Beendigung des Versicherungsverhältnisses vor Ablauf
 der Versicherungsperiode steht dem Versicherer für diese
@@ -1240,6 +1290,7 @@ der für diese Zeit aufgewendeten Kosten zurückfordern.
 
 
 ##### § 40 Kündigung bei Prämienerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004100000)
 
 (1) Erhöht der Versicherer auf Grund einer Anpassungsklausel die
 Prämie, ohne dass sich der Umfang des Versicherungsschutzes
@@ -1257,6 +1308,7 @@ ohne die Prämie entsprechend herabzusetzen.
 
 
 ##### § 41 Herabsetzung der Prämie
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004200000)
 
 Ist wegen bestimmter gefahrerhöhender Umstände eine höhere Prämie
 vereinbart und sind diese Umstände nach Antragstellung des
@@ -1269,15 +1321,18 @@ beruhende Angaben über einen solchen Umstand veranlasst worden ist.
 
 
 ##### § 42 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004300000)
 
 Von § 33 Abs. 2 und den §§ 37 bis 41 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
 
 #### Abschnitt 4 - Versicherung für fremde Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000600000)
 
 
 ##### § 43 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004400000)
 
 (1) Der Versicherungsnehmer kann den Versicherungsvertrag im eigenen
 Namen für einen anderen, mit oder ohne Benennung der Person des
@@ -1294,6 +1349,7 @@ Rechnung geschlossen.
 
 
 ##### § 44 Rechte des Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004500000)
 
 (1) Bei der Versicherung für fremde Rechnung stehen die Rechte aus dem
 Versicherungsvertrag dem Versicherten zu. Die Übermittlung des
@@ -1306,6 +1362,7 @@ machen, wenn er im Besitz des Versicherungsscheins ist.
 
 
 ##### § 45 Rechte des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004600000)
 
 (1) Der Versicherungsnehmer kann über die Rechte, die dem Versicherten
 aus dem Versicherungsvertrag zustehen, im eigenen Namen verfügen.
@@ -1322,6 +1379,7 @@ Versicherung erteilt hat.
 
 
 ##### § 46 Rechte zwischen Versicherungsnehmer und Versichertem
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004700000)
 
 Der Versicherungsnehmer ist nicht verpflichtet, dem Versicherten oder,
 falls über dessen Vermögen das Insolvenzverfahren eröffnet ist, der
@@ -1334,6 +1392,7 @@ Gläubigern befriedigen.
 
 
 ##### § 47 Kenntnis und Verhalten des Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004800000)
 
 (1) Soweit die Kenntnis und das Verhalten des Versicherungsnehmers von
 rechtlicher Bedeutung sind, sind bei der Versicherung für fremde
@@ -1352,6 +1411,7 @@ Versicherten schließt.
 
 
 ##### § 48 Versicherung für Rechnung „wen es angeht“
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE004900000)
 
 Ist die Versicherung für Rechnung „wen es angeht“ genommen oder ist
 dem Vertrag in sonstiger Weise zu entnehmen, dass unbestimmt bleiben
@@ -1361,9 +1421,11 @@ Interesse versichert ist.
 
 
 #### Abschnitt 5 - Vorläufige Deckung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000700000)
 
 
 ##### § 49 Inhalt des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005001360)
 
 (1) Bei einem Versicherungsvertrag, dessen wesentlicher Inhalt die
 Gewährung einer vorläufigen Deckung durch den Versicherer ist, kann
@@ -1387,6 +1449,7 @@ Versicherungsnehmer am günstigsten sind, Vertragsbestandteil.
 
 
 ##### § 50 Nichtzustandekommen des Hauptvertrags
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005100000)
 
 Ist der Versicherungsnehmer verpflichtet, im Fall des
 Nichtzustandekommens des Hauptvertrags eine Prämie für die vorläufige
@@ -1396,6 +1459,7 @@ die beim Zustandekommen des Hauptvertrags für diesen zu zahlen wäre.
 
 
 ##### § 51 Prämienzahlung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005200000)
 
 (1) Der Beginn des Versicherungsschutzes kann von der Zahlung der
 Prämie abhängig gemacht werden, sofern der Versicherer den
@@ -1408,6 +1472,7 @@ abgewichen werden.
 
 
 ##### § 52 Beendigung des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005300000)
 
 (1) Der Vertrag über vorläufige Deckung endet spätestens zu dem
 Zeitpunkt, zu dem nach einem vom Versicherungsnehmer geschlossenen
@@ -1445,9 +1510,11 @@ Versicherungsnehmers abgewichen werden.
 
 
 #### Abschnitt 6 - Laufende Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000800000)
 
 
 ##### § 53 Anmeldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005400000)
 
 Wird ein Vertrag in der Weise geschlossen, dass das versicherte
 Interesse bei Vertragsschluss nur der Gattung nach bezeichnet und erst
@@ -1460,6 +1527,7 @@ beantragen.
 
 
 ##### § 54 Verletzung der Anmeldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005500000)
 
 (1) Hat der Versicherungsnehmer die Anmeldung eines versicherten
 Risikos oder der vereinbarten Prämiengrundlage oder die Beantragung
@@ -1482,6 +1550,7 @@ Versicherungsnehmer die Anmeldepflicht erfüllt hätte.
 
 
 ##### § 55 Einzelpolice
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005600000)
 
 (1) Ist bei einer laufenden Versicherung ein Versicherungsschein für
 ein einzelnes Risiko (Einzelpolice) oder ein Versicherungszertifikat
@@ -1504,6 +1573,7 @@ anzufechten, bleibt unberührt.
 
 
 ##### § 56 Verletzung der Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005700000)
 
 (1) Abweichend von § 19 Abs. 2 ist bei Verletzung der Anzeigepflicht
 der Rücktritt des Versicherers ausgeschlossen; der Versicherer kann
@@ -1522,6 +1592,7 @@ Versicherers, die Leistung zu verweigern, zugeht.
 
 
 ##### § 57 Gefahränderung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005800000)
 
 (1) Der Versicherungsnehmer hat dem Versicherer eine Änderung der
 Gefahr unverzüglich anzuzeigen.
@@ -1550,6 +1621,7 @@ Vertrag wegen einer Gefahrerhöhung zu kündigen.
 
 
 ##### § 58 Obliegenheitsverletzung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE005900000)
 
 (1) Verletzt der Versicherungsnehmer bei einer laufenden Versicherung
 schuldhaft eine vor Eintritt des Versicherungsfalles zu erfüllende
@@ -1564,12 +1636,15 @@ kündigen.
 
 
 #### Abschnitt 7 - Versicherungsvermittler, Versicherungsberater
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG000900000)
 
 
 ##### Unterabschnitt 1 - Mitteilungs- und Beratungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001000000)
 
 
 ###### § 59 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006001118)
 
 (1) Versicherungsvermittler im Sinn dieses Gesetzes sind
 Versicherungsvertreter und Versicherungsmakler. Die §§ 1a, 6a, 7a, 7b
@@ -1601,6 +1676,7 @@ Versicherungsberater entsprechend.
 
 
 ###### § 60 Beratungsgrundlage des Versicherungsvermittlers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006100000)
 
 (1) Der Versicherungsmakler ist verpflichtet, seinem Rat eine
 hinreichende Zahl von auf dem Markt angebotenen Versicherungsverträgen
@@ -1626,6 +1702,7 @@ Absatz 2 durch eine gesonderte schriftliche Erklärung verzichten.
 
 
 ###### § 61 Beratungs- und Dokumentationspflichten des Versicherungsvermittlers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006201118)
 
 (1) Der Versicherungsvermittler hat den Versicherungsnehmer, soweit
 nach der Schwierigkeit, die angebotene Versicherung zu beurteilen,
@@ -1650,6 +1727,7 @@ Versicherungsnehmer in Textform verzichten.
 
 
 ###### § 62 Zeitpunkt und Form der Information
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006300000)
 
 (1) Dem Versicherungsnehmer sind die Informationen nach § 60 Abs. 2
 vor Abgabe seiner Vertragserklärung, die Informationen nach § 61 Abs.
@@ -1666,6 +1744,7 @@ Pflichtversicherungen.
 
 
 ###### § 63 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006400000)
 
 Der Versicherungsvermittler ist zum Ersatz des Schadens verpflichtet,
 der dem Versicherungsnehmer durch die Verletzung einer Pflicht nach §
@@ -1674,6 +1753,7 @@ Versicherungsvermittler die Pflichtverletzung nicht zu vertreten hat.
 
 
 ###### § 64 Zahlungssicherung zugunsten des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006500000)
 
 Eine Bevollmächtigung des Versicherungsvermittlers durch den
 Versicherungsnehmer zur Annahme von Leistungen des Versicherers, die
@@ -1683,12 +1763,14 @@ schriftlichen Erklärung des Versicherungsnehmers.
 
 
 ###### § 65 Großrisiken
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006601377)
 
 Die §§ 60 bis 63 gelten nicht für die Vermittlung von
 Versicherungsverträgen über Großrisiken im Sinn des § 210 Absatz 2.
 
 
 ###### § 66 Sonstige Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006701118)
 
 § 1a Absatz 2, die §§ 6a, 7b, 7c, 60 bis 64, 69 Absatz 2 und § 214
 gelten nicht für Versicherungsvermittler in Nebentätigkeit nach § 34d
@@ -1703,12 +1785,14 @@ auszuhändigen.
 
 
 ###### § 67 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006800000)
 
 Von den §§ 60 bis 66 kann nicht zum Nachteil des Versicherungsnehmers
 abgewichen werden.
 
 
 ###### § 68 Versicherungsberater
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE006900000)
 
 Die für Versicherungsmakler geltenden Vorschriften des § 60 Abs. 1
 Satz 1, des § 61 Abs. 1 und der §§ 62 bis 65 und 67 sind auf
@@ -1718,9 +1802,11 @@ unberührt.
 
 
 ##### Unterabschnitt 2 - Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001100000)
 
 
 ###### § 69 Gesetzliche Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007000000)
 
 (1) Der Versicherungsvertreter gilt als bevollmächtigt,
 
@@ -1758,6 +1844,7 @@ trägt der Versicherer.
 
 
 ###### § 70 Kenntnis des Versicherungsvertreters
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007100000)
 
 Soweit nach diesem Gesetz die Kenntnis des Versicherers erheblich ist,
 steht die Kenntnis des Versicherungsvertreters der Kenntnis des
@@ -1768,6 +1855,7 @@ Versicherungsvertrag erlangt hat.
 
 
 ###### § 71 Abschlussvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007200000)
 
 Ist der Versicherungsvertreter zum Abschluss von
 Versicherungsverträgen bevollmächtigt, ist er auch befugt, die
@@ -1776,6 +1864,7 @@ Kündigungs- und Rücktrittserklärungen abzugeben.
 
 
 ###### § 72 Beschränkung der Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007300000)
 
 Eine Beschränkung der dem Versicherungsvertreter nach den §§ 69 und 71
 zustehenden Vertretungsmacht durch Allgemeine Versicherungsbedingungen
@@ -1783,6 +1872,7 @@ ist gegenüber dem Versicherungsnehmer und Dritten unwirksam.
 
 
 ###### § 73 Angestellte und nicht gewerbsmäßig tätige Vermittler
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007400000)
 
 Die §§ 69 bis 72 sind auf Angestellte eines Versicherers, die mit der
 Vermittlung oder dem Abschluss von Versicherungsverträgen betraut
@@ -1792,12 +1882,15 @@ tätig zu sein, entsprechend anzuwenden.
 
 
 ### Kapitel 2 - Schadensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001200000)
 
 
 #### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001300000)
 
 
 ##### § 74 Überversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007500000)
 
 (1) Übersteigt die Versicherungssumme den Wert des versicherten
 Interesses (Versicherungswert) erheblich, kann jede Vertragspartei
@@ -1813,6 +1906,7 @@ begründenden Umständen Kenntnis erlangt.
 
 
 ##### § 75 Unterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007600000)
 
 Ist die Versicherungssumme erheblich niedriger als der
 Versicherungswert zur Zeit des Eintrittes des Versicherungsfalles, ist
@@ -1821,6 +1915,7 @@ Versicherungssumme zu diesem Wert zu erbringen.
 
 
 ##### § 76 Taxe
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007700000)
 
 Der Versicherungswert kann durch Vereinbarung auf einen bestimmten
 Betrag (Taxe) festgesetzt werden. Die Taxe gilt auch als der Wert, den
@@ -1833,6 +1928,7 @@ ersetzen.
 
 
 ##### § 77 Mehrere Versicherer
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007800000)
 
 (1) Wer bei mehreren Versicherern ein Interesse gegen dieselbe Gefahr
 versichert, ist verpflichtet, jedem Versicherer die andere
@@ -1845,6 +1941,7 @@ versichert, ist Absatz 1 entsprechend anzuwenden.
 
 
 ##### § 78 Haftung bei Mehrfachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE007902128)
 
 (1) Ist bei mehreren Versicherern ein Interesse gegen dieselbe Gefahr
 versichert und übersteigen die Versicherungssummen zusammen den
@@ -1890,6 +1987,7 @@ erlangt.
 
 
 ##### § 79 Beseitigung der Mehrfachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008000000)
 
 (1) Hat der Versicherungsnehmer den Vertrag, durch den die
 Mehrfachversicherung entstanden ist, ohne Kenntnis von dem Entstehen
@@ -1909,6 +2007,7 @@ Versicherungssummen und der Prämien verlangen.
 
 
 ##### § 80 Fehlendes versichertes Interesse
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008100000)
 
 (1) Der Versicherungsnehmer ist nicht zur Zahlung der Prämie
 verpflichtet, wenn das versicherte Interesse bei Beginn der
@@ -1931,6 +2030,7 @@ begründenden Umständen Kenntnis erlangt.
 
 
 ##### § 81 Herbeiführung des Versicherungsfalles
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008200000)
 
 (1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer vorsätzlich den Versicherungsfall herbeiführt.
@@ -1942,6 +2042,7 @@ entsprechenden Verhältnis zu kürzen.
 
 
 ##### § 82 Abwendung und Minderung des Schadens
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008300000)
 
 (1) Der Versicherungsnehmer hat bei Eintritt des Versicherungsfalles
 nach Möglichkeit für die Abwendung und Minderung des Schadens zu
@@ -1970,6 +2071,7 @@ wenn der Versicherungsnehmer die Obliegenheit arglistig verletzt hat.
 
 
 ##### § 83 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008400000)
 
 (1) Der Versicherer hat Aufwendungen des Versicherungsnehmers nach §
 82 Abs. 1 und 2, auch wenn sie erfolglos bleiben, insoweit zu
@@ -1993,6 +2095,7 @@ Aufwendungen.
 
 
 ##### § 84 Sachverständigenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008500000)
 
 (1) Sollen nach dem Vertrag einzelne Voraussetzungen des Anspruchs aus
 der Versicherung oder die Höhe des Schadens durch Sachverständige
@@ -2012,6 +2115,7 @@ anfechtbar.
 
 
 ##### § 85 Schadensermittlungskosten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008600000)
 
 (1) Der Versicherer hat dem Versicherungsnehmer die Kosten, die durch
 die Ermittlung und Feststellung des von ihm zu ersetzenden Schadens
@@ -2031,6 +2135,7 @@ auch den Kostenersatz entsprechend kürzen.
 
 
 ##### § 86 Übergang von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008700000)
 
 (1) Steht dem Versicherungsnehmer ein Ersatzanspruch gegen einen
 Dritten zu, geht dieser Anspruch auf den Versicherer über, soweit der
@@ -2058,15 +2163,18 @@ verursacht.
 
 
 ##### § 87 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008801128)
 
 Von den §§ 74, 78 Absatz 4, den §§ 80, 82 bis 84 Abs. 1 Satz 1 und §
 86 kann nicht zum Nachteil des Versicherungsnehmers abgewichen werden.
 
 
 #### Abschnitt 2 - Sachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001400000)
 
 
 ##### § 88 Versicherungswert
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE008900000)
 
 Soweit nichts anderes vereinbart ist, gilt als Versicherungswert, wenn
 sich die Versicherung auf eine Sache oder einen Inbegriff von Sachen
@@ -2078,6 +2186,7 @@ Minderwertes aufzuwenden hat.
 
 
 ##### § 89 Versicherung für Inbegriff von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009000000)
 
 (1) Eine Versicherung, die für einen Inbegriff von Sachen genommen
 ist, umfasst die jeweils dem Inbegriff zugehörigen Sachen.
@@ -2092,6 +2201,7 @@ insoweit als für fremde Rechnung genommen.
 
 
 ##### § 90 Erweiterter Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009100000)
 
 Macht der Versicherungsnehmer Aufwendungen, um einen unmittelbar
 bevorstehenden Versicherungsfall abzuwenden oder in seinen
@@ -2100,6 +2210,7 @@ entsprechend anzuwenden.
 
 
 ##### § 91 Verzinsung der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009200000)
 
 Die vom Versicherer zu zahlende Entschädigung ist nach Ablauf eines
 Monats seit der Anzeige des Versicherungsfalles für das Jahr mit 4
@@ -2110,6 +2221,7 @@ Versicherungsnehmers nicht festgestellt werden kann.
 
 
 ##### § 92 Kündigung nach Versicherungsfall
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009300000)
 
 (1) Nach dem Eintritt des Versicherungsfalles kann jede Vertragspartei
 das Versicherungsverhältnis kündigen.
@@ -2129,6 +2241,7 @@ Versicherungsperiode zu.
 
 
 ##### § 93 Wiederherstellungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009400000)
 
 Ist der Versicherer nach dem Vertrag verpflichtet, einen Teil der
 Entschädigung nur bei Wiederherstellung oder Wiederbeschaffung der
@@ -2143,6 +2256,7 @@ wiederhergestellt oder wiederbeschafft worden ist.
 
 
 ##### § 94 Wirksamkeit der Zahlung gegenüber Hypothekengläubigern
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009500000)
 
 (1) Im Fall des § 93 Satz 1 ist eine Zahlung, die ohne die Sicherung
 der Wiederherstellung oder Wiederbeschaffung geleistet wird, einem
@@ -2177,6 +2291,7 @@ ist.
 
 
 ##### § 95 Veräußerung der versicherten Sache
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009600000)
 
 (1) Wird die versicherte Sache vom Versicherungsnehmer veräußert,
 tritt an dessen Stelle der Erwerber in die während der Dauer seines
@@ -2192,6 +2307,7 @@ gelten lassen, wenn er hiervon Kenntnis erlangt hat.
 
 
 ##### § 96 Kündigung nach Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009700000)
 
 (1) Der Versicherer ist berechtigt, dem Erwerber einer versicherten
 Sache das Versicherungsverhältnis unter Einhaltung einer Frist von
@@ -2212,6 +2328,7 @@ eine Haftung des Erwerbers für die Prämie besteht nicht.
 
 
 ##### § 97 Anzeige der Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009800000)
 
 (1) Die Veräußerung ist dem Versicherer vom Veräußerer oder Erwerber
 unverzüglich anzuzeigen. Ist die Anzeige unterblieben, ist der
@@ -2229,6 +2346,7 @@ Versicherers abgelaufen war und er nicht gekündigt hat.
 
 
 ##### § 98 Schutz des Erwerbers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE009900000)
 
 Der Versicherer kann sich auf eine Bestimmung des
 Versicherungsvertrags, durch die von den §§ 95 bis 97 zum Nachteil des
@@ -2238,6 +2356,7 @@ Veräußerung die Schriftform oder die Textform bestimmt werden.
 
 
 ##### § 99 Zwangsversteigerung, Erwerb des Nutzungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010000000)
 
 Geht das Eigentum an der versicherten Sache im Wege der
 Zwangsversteigerung über oder erwirbt ein Dritter auf Grund eines
@@ -2247,15 +2366,19 @@ die Berechtigung, versicherte Bodenerzeugnisse zu beziehen, sind die
 
 
 ## Teil 2 - Einzelne Versicherungszweige
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001500000)
 
 
 ### Kapitel 1 - Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001600000)
 
 
 #### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001700000)
 
 
 ##### § 100 Leistung des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010100000)
 
 Bei der Haftpflichtversicherung ist der Versicherer verpflichtet, den
 Versicherungsnehmer von Ansprüchen freizustellen, die von einem
@@ -2265,6 +2388,7 @@ gemacht werden, und unbegründete Ansprüche abzuwehren.
 
 
 ##### § 101 Kosten des Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010200000)
 
 (1) Die Versicherung umfasst auch die gerichtlichen und
 außergerichtlichen Kosten, die durch die Abwehr der von einem Dritten
@@ -2297,6 +2421,7 @@ gegenüber als begründet anerkennt.
 
 
 ##### § 102 Betriebshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010300000)
 
 (1) Besteht die Versicherung für ein Unternehmen, erstreckt sie sich
 auf die Haftpflicht der zur Vertretung des Unternehmens befugten
@@ -2314,6 +2439,7 @@ anzuwenden.
 
 
 ##### § 103 Herbeiführung des Versicherungsfalles
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010400000)
 
 Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer vorsätzlich und widerrechtlich den bei dem Dritten
@@ -2321,6 +2447,7 @@ eingetretenen Schaden herbeigeführt hat.
 
 
 ##### § 104 Anzeigepflicht des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010500000)
 
 (1) Der Versicherungsnehmer hat dem Versicherer innerhalb einer Woche
 die Tatsachen anzuzeigen, die seine Verantwortlichkeit gegenüber einem
@@ -2342,6 +2469,7 @@ anzuwenden.
 
 
 ##### § 105 Anerkenntnis des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010600000)
 
 Eine Vereinbarung, nach welcher der Versicherer nicht zur Leistung
 verpflichtet ist, wenn ohne seine Einwilligung der Versicherungsnehmer
@@ -2349,6 +2477,7 @@ den Dritten befriedigt oder dessen Anspruch anerkennt, ist unwirksam.
 
 
 ##### § 106 Fälligkeit der Versicherungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010700000)
 
 Der Versicherer hat den Versicherungsnehmer innerhalb von zwei Wochen
 von dem Zeitpunkt an, zu dem der Anspruch des Dritten mit bindender
@@ -2363,6 +2492,7 @@ zwei Wochen nach der Mitteilung der Berechnung zu zahlen.
 
 
 ##### § 107 Rentenanspruch
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010800000)
 
 (1) Ist der Versicherungsnehmer dem Dritten zur Zahlung einer Rente
 verpflichtet, ist der Versicherer, wenn die Versicherungssumme den
@@ -2376,6 +2506,7 @@ Verpflichtung des Versicherers auf die Leistung der Sicherheit. Absatz
 
 
 ##### § 108 Verfügung über den Freistellungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE010900000)
 
 (1) Verfügungen des Versicherungsnehmers über den
 Freistellungsanspruch gegen den Versicherer sind dem Dritten gegenüber
@@ -2387,6 +2518,7 @@ durch Allgemeine Versicherungsbedingungen ausgeschlossen werden.
 
 
 ##### § 109 Mehrere Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011000000)
 
 Ist der Versicherungsnehmer gegenüber mehreren Dritten verantwortlich
 und übersteigen deren Ansprüche die Versicherungssumme, hat der
@@ -2398,6 +2530,7 @@ dieser Ansprüche nicht gerechnet hat und auch nicht rechnen musste.
 
 
 ##### § 110 Insolvenz des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011100000)
 
 Ist über das Vermögen des Versicherungsnehmers das Insolvenzverfahren
 eröffnet, kann der Dritte wegen des ihm gegen den Versicherungsnehmer
@@ -2406,6 +2539,7 @@ Freistellungsanspruch des Versicherungsnehmers verlangen.
 
 
 ##### § 111 Kündigung nach Versicherungsfall
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011200000)
 
 (1) Hat der Versicherer nach dem Eintritt des Versicherungsfalles den
 Anspruch des Versicherungsnehmers auf Freistellung anerkannt oder zu
@@ -2421,15 +2555,18 @@ Abs. 2 Satz 2 und 3 ist anzuwenden.
 
 
 ##### § 112 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011300000)
 
 Von den §§ 104 und 106 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
 
 #### Abschnitt 2 - Pflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001800000)
 
 
 ##### § 113 Pflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011400000)
 
 (1) Eine Haftpflichtversicherung, zu deren Abschluss eine
 Verpflichtung durch Rechtsvorschrift besteht (Pflichtversicherung),
@@ -2446,6 +2583,7 @@ Mindestanforderungen hinausgehende Deckung gewährt.
 
 
 ##### § 114 Umfang des Versicherungsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011501377)
 
 (1) Die Mindestversicherungssumme beträgt bei einer
 Pflichtversicherung, soweit durch Rechtsvorschrift nichts anderes
@@ -2462,6 +2600,7 @@ geltend gemacht werden.
 
 
 ##### § 115 Direktanspruch
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011601128)
 
 (1) Der Dritte kann seinen Anspruch auf Schadensersatz auch gegen den
 Versicherer geltend machen,
@@ -2502,6 +2641,7 @@ umgekehrt.
 
 
 ##### § 116 Gesamtschuldner
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011700000)
 
 (1) Im Verhältnis der Gesamtschuldner nach § 115 Abs. 1 Satz 4
 zueinander ist der Versicherer allein verpflichtet, soweit er dem
@@ -2517,6 +2657,7 @@ wird.
 
 
 ##### § 117 Leistungspflicht gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011801377)
 
 (1) Ist der Versicherer von der Verpflichtung zur Leistung dem
 Versicherungsnehmer gegenüber ganz oder teilweise frei, so bleibt
@@ -2568,6 +2709,7 @@ Insolvenzverfahrens; die Benachrichtigung bedarf der Textform.
 
 
 ##### § 118 Rangfolge mehrerer Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE011900000)
 
 (1) Übersteigen die Ansprüche auf Entschädigung, die auf Grund
 desselben Schadensereignisses zu leisten ist, die Versicherungssumme,
@@ -2608,6 +2750,7 @@ hat und auch nicht rechnen musste.
 
 
 ##### § 119 Obliegenheiten des Dritten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012001377)
 
 (1) Der Dritte hat ein Schadensereignis, aus dem er einen Anspruch
 gegen den Versicherungsnehmer oder nach § 115 Abs. 1 gegen den
@@ -2626,6 +2769,7 @@ deren Beschaffung dem Dritten billigerweise zugemutet werden kann.
 
 
 ##### § 120 Obliegenheitsverletzung des Dritten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012100000)
 
 Verletzt der Dritte schuldhaft die Obliegenheit nach § 119 Abs. 2 oder
 3, beschränkt sich die Haftung des Versicherers nach den §§ 115 und
@@ -2636,17 +2780,20 @@ worden ist.
 
 
 ##### § 121 Aufrechnung gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012200000)
 
 § 35 ist gegenüber Dritten nicht anzuwenden.
 
 
 ##### § 122 Veräußerung der von der Versicherung erfassten Sache
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012300000)
 
 Die §§ 95 bis 98 über die Veräußerung der versicherten Sache sind
 entsprechend anzuwenden.
 
 
 ##### § 123 Rückgriff bei mehreren Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012400000)
 
 (1) Ist bei einer Versicherung für fremde Rechnung der Versicherer dem
 Versicherungsnehmer gegenüber nicht zur Leistung verpflichtet, kann er
@@ -2671,6 +2818,7 @@ zuständigen Stelle nicht angezeigt hat.
 
 
 ##### § 124 Rechtskrafterstreckung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012501377)
 
 (1) Soweit durch rechtskräftiges Urteil festgestellt wird, dass dem
 Dritten ein Anspruch auf Ersatz des Schadens nicht zusteht, wirkt das
@@ -2693,9 +2841,11 @@ Versicherer geltend machen kann.
 
 
 ### Kapitel 2 - Rechtsschutzversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG001900000)
 
 
 #### § 125 Leistung des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012600000)
 
 Bei der Rechtsschutzversicherung ist der Versicherer verpflichtet, die
 für die Wahrnehmung der rechtlichen Interessen des
@@ -2704,6 +2854,7 @@ im vereinbarten Umfang zu erbringen.
 
 
 #### § 126 Schadensabwicklungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012700000)
 
 (1) Werden Gefahren aus dem Bereich der Rechtsschutzversicherung neben
 anderen Gefahren versichert, müssen im Versicherungsschein der Umfang
@@ -2722,6 +2873,7 @@ entsprechend anzuwenden.
 
 
 #### § 127 Freie Anwaltswahl
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012800000)
 
 (1) Der Versicherungsnehmer ist berechtigt, zu seiner Vertretung in
 Gerichts- und Verwaltungsverfahren den Rechtsanwalt, der seine
@@ -2740,6 +2892,7 @@ genannten Bezeichnungen beruflich tätig zu werden.
 
 
 #### § 128 Gutachterverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE012900000)
 
 Für den Fall, dass der Versicherer seine Leistungspflicht verneint,
 weil die Wahrnehmung der rechtlichen Interessen keine hinreichende
@@ -2756,15 +2909,18 @@ Versicherungsnehmers im Einzelfall als anerkannt.
 
 
 #### § 129 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013000000)
 
 Von den §§ 126 bis 128 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
 
 ### Kapitel 3 - Transportversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002000000)
 
 
 #### § 130 Umfang der Gefahrtragung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013100000)
 
 (1) Bei der Versicherung von Gütern gegen die Gefahren der Beförderung
 zu Lande oder auf Binnengewässern sowie der damit verbundenen Lagerung
@@ -2785,6 +2941,7 @@ vom Versicherer zu ersetzender Schaden abgewendet werden sollte.
 
 
 #### § 131 Verletzung der Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013200000)
 
 (1) Abweichend von § 19 Abs. 2 ist bei Verletzung der Anzeigepflicht
 der Rücktritt des Versicherers ausgeschlossen; der Versicherer kann
@@ -2803,6 +2960,7 @@ Versicherers, die Leistung zu verweigern, zugeht.
 
 
 #### § 132 Gefahränderung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013300000)
 
 (1) Der Versicherungsnehmer darf abweichend von § 23 die Gefahr
 erhöhen oder in anderer Weise ändern und die Änderung durch einen
@@ -2833,6 +2991,7 @@ Vertrag wegen einer Gefahrerhöhung zu kündigen.
 
 
 #### § 133 Vertragswidrige Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013400000)
 
 (1) Werden die Güter mit einem Beförderungsmittel anderer Art
 befördert als vereinbart oder werden sie umgeladen, obwohl direkter
@@ -2851,6 +3010,7 @@ Weiterbeförderung.
 
 
 #### § 134 Ungeeignete Beförderungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013500000)
 
 (1) Ist für die Beförderung der Güter kein bestimmtes
 Beförderungsmittel vereinbart, ist der Versicherungsnehmer, soweit er
@@ -2869,6 +3029,7 @@ unverzüglich anzuzeigen. § 132 ist anzuwenden.
 
 
 #### § 135 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013600000)
 
 (1) Aufwendungen, die dem Versicherungsnehmer zur Abwendung oder
 Minderung des Schadens entstehen, sowie die Kosten für die Ermittlung
@@ -2888,6 +3049,7 @@ ersetzen.
 
 
 #### § 136 Versicherungswert
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013700000)
 
 (1) Als Versicherungswert der Güter gilt der gemeine Handelswert und
 in dessen Ermangelung der gemeine Wert, den die Güter am Ort der
@@ -2907,6 +3069,7 @@ Betrag des Schadens.
 
 
 #### § 137 Herbeiführung des Versicherungsfalles
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013800000)
 
 (1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer vorsätzlich oder grob fahrlässig den
@@ -2917,6 +3080,7 @@ der Führung des Schiffes nicht zu vertreten.
 
 
 #### § 138 Haftungsausschluss bei Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE013900000)
 
 Bei der Versicherung eines Schiffes ist der Versicherer nicht zum
 Ersatz eines Schadens verpflichtet, der daraus entsteht, dass das
@@ -2927,6 +3091,7 @@ in gewöhnlichem Gebrauch ist.
 
 
 #### § 139 Veräußerung der versicherten Sache oder Güter
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014000000)
 
 (1) Ist eine versicherte Sache, für die eine Einzelpolice oder ein
 Versicherungszertifikat ausgestellt worden ist, veräußert worden,
@@ -2946,6 +3111,7 @@ verpflichtet, dem Versicherer die Veräußerung anzuzeigen.
 
 
 #### § 140 Veräußerung des versicherten Schiffes
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014100000)
 
 Wird ein versichertes Schiff veräußert, endet abweichend von § 95 die
 Versicherung mit der Übergabe des Schiffes an den Erwerber, für
@@ -2954,6 +3120,7 @@ Bestimmungshafen.
 
 
 #### § 141 Befreiung durch Zahlung der Versicherungssumme
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014200000)
 
 (1) Der Versicherer ist nach Eintritt des Versicherungsfalles
 berechtigt, sich durch Zahlung der Versicherungssumme von allen
@@ -2972,9 +3139,11 @@ unmittelbaren Folgen erlangt hat, zugeht.
 
 
 ### Kapitel 4 - Gebäudefeuerversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002100000)
 
 
 #### § 142 Anzeigen an Hypothekengläubiger
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014300000)
 
 (1) Bei der Gebäudefeuerversicherung hat der Versicherer einem
 Hypothekengläubiger, der seine Hypothek angemeldet hat, unverzüglich
@@ -2991,6 +3160,7 @@ anzuzeigen, es sei denn, der Schaden ist unbedeutend.
 
 
 #### § 143 Fortdauer der Leistungspflicht gegenüber Hypothekengläubigern
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014400000)
 
 (1) Bei nicht rechtzeitiger Zahlung einer Folgeprämie bleibt der
 Versicherer gegenüber einem Hypothekengläubiger, der seine Hypothek
@@ -3025,6 +3195,7 @@ Nichtigkeit Kenntnis erlangt hat.
 
 
 #### § 144 Kündigung des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014500000)
 
 Hat ein Hypothekengläubiger seine Hypothek angemeldet, ist eine
 Kündigung des Versicherungsverhältnisses durch den Versicherungsnehmer
@@ -3038,6 +3209,7 @@ verweigert werden.
 
 
 #### § 145 Übergang der Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014600000)
 
 Soweit der Versicherer den Hypothekengläubiger nach § 143 befriedigt,
 geht die Hypothek auf ihn über. Der Übergang kann nicht zum Nachteil
@@ -3047,6 +3219,7 @@ geblieben ist.
 
 
 #### § 146 Bestätigungs- und Auskunftspflicht des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014700000)
 
 Der Versicherer ist verpflichtet, einem Hypothekengläubiger, der seine
 Hypothek angemeldet hat, die Anmeldung zu bestätigen und auf Verlangen
@@ -3055,6 +3228,7 @@ der Versicherungssumme zu erteilen.
 
 
 #### § 147 Änderung von Anschrift und Name des Hypothekengläubigers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014800000)
 
 Hat der Hypothekengläubiger dem Versicherer eine Änderung seiner
 Anschrift oder seines Namens nicht mitgeteilt, ist § 13 Abs. 1 auf die
@@ -3063,12 +3237,14 @@ entsprechend anzuwenden.
 
 
 #### § 148 Andere Grundpfandrechte
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE014900000)
 
 Ist das Grundstück mit einer Grundschuld, Rentenschuld oder Reallast
 belastet, sind die §§ 142 bis 147 entsprechend anzuwenden.
 
 
 #### § 149 Eigentümergrundpfandrechte
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015000000)
 
 Die durch die §§ 142 bis 148 begründeten Rechte können nicht zugunsten
 von Hypotheken, Grundschulden oder Rentenschulden, die dem
@@ -3076,9 +3252,11 @@ Versicherungsnehmer zustehen, geltend gemacht werden.
 
 
 ### Kapitel 5 - Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002200000)
 
 
 #### § 150 Versicherte Person
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015101124)
 
 (1) Die Lebensversicherung kann auf die Person des
 Versicherungsnehmers oder eines anderen genommen werden.
@@ -3106,6 +3284,7 @@ gewöhnlichen Beerdigungskosten festgesetzt hat, ist dieser maßgebend.
 
 
 #### § 151 Ärztliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015200000)
 
 Durch die Vereinbarung einer ärztlichen Untersuchung der versicherten
 Person wird ein Recht des Versicherers, die Vornahme der Untersuchung
@@ -3113,6 +3292,7 @@ zu verlangen, nicht begründet.
 
 
 #### § 152 Widerruf des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015300000)
 
 (1) Abweichend von § 8 Abs. 1 Satz 1 beträgt die Widerrufsfrist 30
 Tage.
@@ -3130,6 +3310,7 @@ Versicherungsscheins zu zahlen.
 
 
 #### § 153 Überschussbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015403118)
 
 (1) Dem Versicherungsnehmer steht eine Beteiligung an dem Überschuss
 und an den Bewertungsreserven (Überschussbeteiligung) zu, es sei denn,
@@ -3158,6 +3339,7 @@ nach Absatz 3 Satz 2 maßgebliche Zeitpunkt.
 
 
 #### § 154 Modellrechnung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015501118)
 
 (1) Macht der Versicherer im Zusammenhang mit dem Angebot oder dem
 Abschluss einer Lebensversicherung bezifferte Angaben zur Höhe von
@@ -3177,6 +3359,7 @@ Ansprüche gegen den Versicherer ableiten kann.
 
 
 #### § 155 Standmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015601118)
 
 (1) Bei Versicherungen mit Überschussbeteiligung hat der Versicherer
 den Versicherungsnehmer jährlich in Textform über den aktuellen Stand
@@ -3221,6 +3404,7 @@ den anfänglichen Angaben hinzuweisen.
 
 
 #### § 156 Kenntnis und Verhalten der versicherten Person
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015700000)
 
 Soweit nach diesem Gesetz die Kenntnis und das Verhalten des
 Versicherungsnehmers von rechtlicher Bedeutung sind, ist bei der
@@ -3229,6 +3413,7 @@ Verhalten zu berücksichtigen.
 
 
 #### § 157 Unrichtige Altersangabe
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015800000)
 
 Ist das Alter der versicherten Person unrichtig angegeben worden,
 verändert sich die Leistung des Versicherers nach dem Verhältnis, in
@@ -3240,6 +3425,7 @@ Altersangabe nicht geschlossen hätte.
 
 
 #### § 158 Gefahränderung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE015900000)
 
 (1) Als Erhöhung der Gefahr gilt nur eine solche Änderung der
 Gefahrumstände, die nach ausdrücklicher Vereinbarung als
@@ -3258,6 +3444,7 @@ angesehen werden soll.
 
 
 #### § 159 Bezugsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016000000)
 
 (1) Der Versicherungsnehmer ist im Zweifel berechtigt, ohne Zustimmung
 des Versicherers einen Dritten als Bezugsberechtigten zu bezeichnen
@@ -3274,6 +3461,7 @@ Bezeichnung als Bezugsberechtigter.
 
 
 #### § 160 Auslegung der Bezugsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016100000)
 
 (1) Sind mehrere Personen ohne Bestimmung ihrer Anteile als
 Bezugsberechtigte bezeichnet, sind sie zu gleichen Teilen
@@ -3295,6 +3483,7 @@ des Absatzes 2 Satz 1 nicht zu.
 
 
 #### § 161 Selbsttötung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016200000)
 
 (1) Bei einer Versicherung für den Todesfall ist der Versicherer nicht
 zur Leistung verpflichtet, wenn die versicherte Person sich vor Ablauf
@@ -3312,6 +3501,7 @@ zahlen.
 
 
 #### § 162 Tötung durch Leistungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016300000)
 
 (1) Ist die Versicherung für den Fall des Todes eines anderen als des
 Versicherungsnehmers genommen, ist der Versicherer nicht zur Leistung
@@ -3324,6 +3514,7 @@ widerrechtliche Handlung den Tod der versicherten Person herbeiführt.
 
 
 #### § 163 Prämien- und Leistungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016400000)
 
 (1) Der Versicherer ist zu einer Neufestsetzung der vereinbarten
 Prämie berechtigt, wenn
@@ -3366,6 +3557,7 @@ Versicherungsleistung der Genehmigung der Aufsichtsbehörde bedarf.
 
 
 #### § 164 Bedingungsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016500000)
 
 (1) Ist eine Bestimmung in Allgemeinen Versicherungsbedingungen des
 Versicherers durch höchstrichterliche Entscheidung oder durch
@@ -3384,6 +3576,7 @@ mitgeteilt worden sind, Vertragsbestandteil.
 
 
 #### § 165 Prämienfreie Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016600000)
 
 (1) Der Versicherungsnehmer kann jederzeit für den Schluss der
 laufenden Versicherungsperiode die Umwandlung der Versicherung in eine
@@ -3406,6 +3599,7 @@ berechnen. Die Ansprüche des Versicherungsnehmers aus der
 
 
 #### § 166 Kündigung des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016700000)
 
 (1) Kündigt der Versicherer das Versicherungsverhältnis, wandelt sich
 mit der Kündigung die Versicherung in eine prämienfreie Versicherung
@@ -3429,6 +3623,7 @@ von mindestens zwei Monaten einzuräumen.
 
 
 #### § 167 Umwandlung zur Erlangung eines Pfändungsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016800000)
 
 Der Versicherungsnehmer einer Lebensversicherung kann jederzeit für
 den Schluss der laufenden Versicherungsperiode die Umwandlung der
@@ -3438,6 +3633,7 @@ Umwandlung hat der Versicherungsnehmer zu tragen.
 
 
 #### § 168 Kündigung des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE016903130)
 
 (1) Sind laufende Prämien zu zahlen, kann der Versicherungsnehmer das
 Versicherungsverhältnis jederzeit für den Schluss der laufenden
@@ -3468,6 +3664,7 @@ bestimmten Versicherungsvertrag anzuwenden,
 
 
 #### § 169 Rückkaufswert
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017001118)
 
 (1) Wird eine Versicherung, die Versicherungsschutz für ein Risiko
 bietet, bei dem der Eintritt der Verpflichtung des Versicherers gewiss
@@ -3529,6 +3726,7 @@ bleibt unberührt.
 
 
 #### § 170 Eintrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017100000)
 
 (1) Wird in die Versicherungsforderung ein Arrest vollzogen oder eine
 Zwangsvollstreckung vorgenommen oder wird das Insolvenzverfahren über
@@ -3552,6 +3750,7 @@ Insolvenzverfahren eröffnet worden ist.
 
 
 #### § 171 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017200000)
 
 Von § 152 Abs. 1 und 2 und den §§ 153 bis 155, 157, 158, 161 und 163
 bis 170 kann nicht zum Nachteil des Versicherungsnehmers, der
@@ -3562,9 +3761,11 @@ vereinbart werden.
 
 
 ### Kapitel 6 - Berufsunfähigkeitsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002300000)
 
 
 #### § 172 Leistung des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017300000)
 
 (1) Bei der Berufsunfähigkeitsversicherung ist der Versicherer
 verpflichtet, für eine nach Beginn der Versicherung eingetretene
@@ -3584,6 +3785,7 @@ bisherigen Lebensstellung entspricht.
 
 
 #### § 173 Anerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017400000)
 
 (1) Der Versicherer hat nach einem Leistungsantrag bei Fälligkeit in
 Textform zu erklären, ob er seine Leistungspflicht anerkennt.
@@ -3593,6 +3795,7 @@ bis zum Ablauf der Frist bindend.
 
 
 #### § 174 Leistungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017500000)
 
 (1) Stellt der Versicherer fest, dass die Voraussetzungen der
 Leistungspflicht entfallen sind, wird er nur leistungsfrei, wenn er
@@ -3604,12 +3807,14 @@ leistungsfrei.
 
 
 #### § 175 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017600000)
 
 Von den §§ 173 und 174 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
 
 #### § 176 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017700000)
 
 Die §§ 150 bis 170 sind auf die Berufsunfähigkeitsversicherung
 entsprechend anzuwenden, soweit die Besonderheiten dieser Versicherung
@@ -3617,6 +3822,7 @@ nicht entgegenstehen.
 
 
 #### § 177 Ähnliche Versicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017800000)
 
 (1) Die §§ 173 bis 176 sind auf alle Versicherungsverträge, bei denen
 der Versicherer für eine dauerhafte Beeinträchtigung der
@@ -3628,9 +3834,11 @@ Gegenstand haben, ist Absatz 1 nicht anzuwenden.
 
 
 ### Kapitel 7 - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002400000)
 
 
 #### § 178 Leistung des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE017900000)
 
 (1) Bei der Unfallversicherung ist der Versicherer verpflichtet, bei
 einem Unfall der versicherten Person oder einem vertraglich dem Unfall
@@ -3643,6 +3851,7 @@ Beweis des Gegenteils vermutet.
 
 
 #### § 179 Versicherte Person
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018000000)
 
 (1) Die Unfallversicherung kann für den Eintritt eines Unfalles des
 Versicherungsnehmers oder eines anderen genommen werden. Eine
@@ -3665,6 +3874,7 @@ berücksichtigen.
 
 
 #### § 180 Invalidität
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018100000)
 
 Der Versicherer schuldet die für den Fall der Invalidität
 versprochenen Leistungen im vereinbarten Umfang, wenn die körperliche
@@ -3675,6 +3885,7 @@ wenn sie voraussichtlich länger als drei Jahre bestehen wird und eine
 
 
 #### § 181 Gefahrerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018200000)
 
 (1) Als Erhöhung der Gefahr gilt nur eine solche Änderung der
 Umstände, die nach ausdrücklicher Vereinbarung als Gefahrerhöhung
@@ -3689,6 +3900,7 @@ Gefahrerhöhung arglistig nicht angezeigt hat.
 
 
 #### § 182 Mitwirkende Ursachen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018300000)
 
 Ist vereinbart, dass der Anspruch auf die vereinbarten Leistungen
 entfällt oder sich mindert, wenn Krankheiten oder Gebrechen bei der
@@ -3698,6 +3910,7 @@ des Wegfalles oder der Minderung des Anspruchs nachzuweisen.
 
 
 #### § 183 Herbeiführung des Versicherungsfalles
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018400000)
 
 (1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn im Fall
 des § 179 Abs. 2 der Versicherungsnehmer vorsätzlich durch eine
@@ -3709,17 +3922,20 @@ widerrechtliche Handlung den Versicherungsfall herbeiführt.
 
 
 #### § 184 Abwendung und Minderung des Schadens
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018500000)
 
 Die §§ 82 und 83 sind auf die Unfallversicherung nicht anzuwenden.
 
 
 #### § 185 Bezugsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018600000)
 
 Ist als Leistung des Versicherers die Zahlung eines Kapitals
 vereinbart, sind die §§ 159 und 160 entsprechend anzuwenden.
 
 
 #### § 186 Hinweispflicht des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018700000)
 
 Zeigt der Versicherungsnehmer einen Versicherungsfall an, hat der
 Versicherer ihn auf vertragliche Anspruchs- und
@@ -3729,6 +3945,7 @@ Fristversäumnis nicht berufen.
 
 
 #### § 187 Anerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018800000)
 
 (1) Der Versicherer hat nach einem Leistungsantrag innerhalb eines
 Monats nach Vorlage der zu dessen Beurteilung erforderlichen
@@ -3745,6 +3962,7 @@ leisten.
 
 
 #### § 188 Neubemessung der Invalidität
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE018900000)
 
 (1) Sind Leistungen für den Fall der Invalidität vereinbart, ist jede
 Vertragspartei berechtigt, den Grad der Invalidität jährlich,
@@ -3761,11 +3979,13 @@ berufen.
 
 
 #### § 189 Sachverständigenverfahren, Schadensermittlungskosten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019000000)
 
 Die §§ 84 und 85 Abs. 1 und 3 sind entsprechend anzuwenden.
 
 
 #### § 190 Pflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019100000)
 
 Besteht für den Abschluss einer Unfallversicherung eine Verpflichtung
 durch Rechtsvorschrift, hat der Versicherer dem Versicherungsnehmer
@@ -3775,6 +3995,7 @@ besteht.
 
 
 #### § 191 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019200000)
 
 Von § 178 Abs. 2 Satz 2 und den §§ 181, 186 bis 188 kann nicht zum
 Nachteil des Versicherungsnehmers oder der versicherten Person
@@ -3782,9 +4003,11 @@ abgewichen werden.
 
 
 ### Kapitel 8 - Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002501377)
 
 
 #### § 192 Vertragstypische Leistungen des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019306119)
 
 (1) Bei der Krankheitskostenversicherung ist der Versicherer
 verpflichtet, im vereinbarten Umfang die Aufwendungen für medizinisch
@@ -3885,6 +4108,7 @@ Heilbehandlung notwendig ist.
 
 
 #### § 193 Versicherte Person; Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019405124)
 
 (1) Die Krankenversicherung kann auf die Person des
 Versicherungsnehmers oder eines anderen genommen werden. Versicherte
@@ -4084,6 +4308,7 @@ Versicherungsaufsichtsgesetzes angewiesen ist.
 
 
 #### § 194 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019501377)
 
 (1) Soweit der Versicherungsschutz nach den Grundsätzen der
 Schadensversicherung gewährt wird, sind die §§ 74 bis 80 und 82 bis 87
@@ -4111,6 +4336,7 @@ Einer Vorlage des Versicherungsscheins bedarf es nicht.
 
 
 #### § 195 Versicherungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019601377)
 
 (1) Die Krankenversicherung, die ganz oder teilweise den im
 gesetzlichen Sozialversicherungssystem vorgesehenen Kranken- oder
@@ -4135,6 +4361,7 @@ wird.
 
 
 #### § 196 Befristung der Krankentagegeldversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019701377)
 
 (1) Bei der Krankentagegeldversicherung kann vereinbart werden, dass
 die Versicherung mit Vollendung des 65. Lebensjahres der versicherten
@@ -4169,6 +4396,7 @@ vorstehenden Absätzen festgelegt vereinbaren.
 
 
 #### § 197 Wartezeiten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019802118)
 
 (1) Soweit Wartezeiten vereinbart werden, dürfen diese in der
 Krankheitskosten-, Krankenhaustagegeld- und
@@ -4191,6 +4419,7 @@ ausscheiden.
 
 
 #### § 198 Kindernachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE019901377)
 
 (1) Besteht am Tag der Geburt für mindestens einen Elternteil eine
 Krankenversicherung, ist der Versicherer verpflichtet, dessen
@@ -4217,6 +4446,7 @@ Krankenversicherungsschutz im Inland oder Ausland besteht.
 
 
 #### § 199 Beihilfeempfänger
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020001377)
 
 (1) Bei der Krankheitskostenversicherung einer versicherten Person mit
 Anspruch auf Beihilfe nach den Grundsätzen des öffentlichen Dienstes
@@ -4239,6 +4469,7 @@ oder Wartezeiten zu gewähren.
 
 
 #### § 200 Bereicherungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020101377)
 
 Hat die versicherte Person wegen desselben Versicherungsfalles einen
 Anspruch gegen mehrere Erstattungsverpflichtete, darf die
@@ -4246,6 +4477,7 @@ Gesamterstattung die Gesamtaufwendungen nicht übersteigen.
 
 
 #### § 201 Herbeiführung des Versicherungsfalles
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020201377)
 
 Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer oder die versicherte Person vorsätzlich die
@@ -4253,6 +4485,7 @@ Krankheit oder den Unfall bei sich selbst herbeiführt.
 
 
 #### § 202 Auskunftspflicht des Versicherers; Schadensermittlungskosten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020302360)
 
 Der Versicherer ist verpflichtet, auf Verlangen des
 Versicherungsnehmers oder der versicherten Person Auskunft über und
@@ -4270,6 +4503,7 @@ Versicherer die entstandenen Kosten zu erstatten.
 
 
 #### § 203 Prämien- und Bedingungsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020402118)
 
 (1) Bei einer Krankenversicherung, bei der die Prämie nach Art der
 Lebensversicherung berechnet wird, kann der Versicherer nur die
@@ -4324,6 +4558,7 @@ maßgeblichen Gründe an den Versicherungsnehmer folgt.
 
 
 #### § 204 Tarifwechsel
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020504360)
 
 (1) Bei bestehendem Versicherungsverhältnis kann der
 Versicherungsnehmer vom Versicherer verlangen, dass dieser
@@ -4441,6 +4676,7 @@ Anwartschaftsversicherung fortzuführen.
 
 
 #### § 205 Kündigung des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020602360)
 
 (1) Vorbehaltlich einer vereinbarten Mindestversicherungsdauer bei der
 Krankheitskosten- und bei der Krankenhaustagegeldversicherung kann der
@@ -4511,6 +4747,7 @@ werden.
 
 
 #### § 206 Kündigung des Versicherers
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020701377)
 
 (1) Jede Kündigung einer Krankheitskostenversicherung, die eine
 Pflicht nach § 193 Abs. 3 Satz 1 erfüllt, ist durch den Versicherer
@@ -4555,6 +4792,7 @@ und 3 ist entsprechend anzuwenden.
 
 
 #### § 207 Fortsetzung des Versicherungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020801377)
 
 (1) Endet das Versicherungsverhältnis durch den Tod des
 Versicherungsnehmers, sind die versicherten Personen berechtigt,
@@ -4584,6 +4822,7 @@ die er bei einem Aufenthalt im Inland zu erbringen hätte.
 
 
 #### § 208 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE020902118)
 
 Von § 192 Absatz 5 Satz 2 und den §§ 194 bis 199 und 201 bis 207 kann
 nicht zum Nachteil des Versicherungsnehmers oder der versicherten
@@ -4592,9 +4831,11 @@ nach § 205 kann die Schrift oder die Textform vereinbart werden.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNG002600000)
 
 
 ### § 209 Rückversicherung, Seeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021000000)
 
 Die Vorschriften dieses Gesetzes sind auf die Rückversicherung und die
 Versicherung gegen die Gefahren der Seeschifffahrt (Seeversicherung)
@@ -4602,6 +4843,7 @@ nicht anzuwenden.
 
 
 ### § 210 Großrisiken, laufende Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021901128)
 
 (1) Die Beschränkungen der Vertragsfreiheit nach diesem Gesetz sind
 auf Großrisiken und auf laufende Versicherungen nicht anzuwenden.
@@ -4655,12 +4897,14 @@ die Zahlen des Konzernabschlusses maßgebend.
 
 
 ### § 210a Elektronische Transportversicherungspolice
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE022600311)
 
 Der Urkunde nach § 4 oder § 55 gleichgestellt ist eine elektronische
 Transportversicherungspolice nach § 365a des Handelsgesetzbuchs.
 
 
 ### § 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021202118)
 
 (1) Die §§ 37, 38, 165, 166, 168 und 169 sind, soweit mit Genehmigung
 der Aufsichtsbehörde in den Allgemeinen Versicherungsbedingungen
@@ -4705,6 +4949,7 @@ sich nicht um Versicherungen mit kleineren Beträgen handele.
 
 
 ### § 212 Fortsetzung der Lebensversicherung nach der Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021300000)
 
 Besteht während einer Elternzeit ein Arbeitsverhältnis ohne Entgelt
 gemäß § 1a Abs. 4 des Betriebsrentengesetzes fort und wird eine vom
@@ -4718,6 +4963,7 @@ fortgesetzt wird.
 
 
 ### § 213 Erhebung personenbezogener Gesundheitsdaten bei Dritten
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021400000)
 
 (1) Die Erhebung personenbezogener Gesundheitsdaten durch den
 Versicherer darf nur bei Ärzten, Krankenhäusern und sonstigen
@@ -4742,6 +4988,7 @@ Widerspruchsrecht nach Absatz 2 bei der Unterrichtung.
 
 
 ### § 214 Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021503360)
 
 (1) Das Bundesamt für Justiz kann privatrechtlich organisierte
 Einrichtungen als Schlichtungsstelle zur außergerichtlichen Beilegung
@@ -4806,6 +5053,7 @@ Verbraucherstreitbeilegungsgesetz erfüllen.
 
 
 ### § 215 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021600000)
 
 (1) Für Klagen aus dem Versicherungsvertrag oder der
 Versicherungsvermittlung ist auch das Gericht örtlich zuständig, in
@@ -4825,6 +5073,7 @@ Zeitpunkt der Klageerhebung nicht bekannt ist.
 
 
 ### § 216 Prozessstandschaft bei Versicherermehrheit
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021700377)
 
 Ist ein Versicherungsvertrag mit den bei Lloyd´s vereinigten
 Einzelversicherern nicht über eine Niederlassung im Geltungsbereich
@@ -4839,6 +5088,7 @@ Versicherer.
 (zu § 8 Absatz 4 Satz 1)
 
 ### Anlage Muster für die Widerrufsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/vvg_2008/BJNR263110007.html#BJNR263110007BJNE021805128)
 
 (Fundstelle: BGBl I 2021, 1687 – 1690, bzgl. der einzelnen Änderungen
 vgl. Fußnote)

@@ -73,9 +73,11 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 [^f772370_02_BJNR258510009]: 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000100000)
 
 
 ### § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000200000)
 
 Zweck dieses Gesetzes ist es, durch eine nachhaltige
 Gewässerbewirtschaftung die Gewässer als Bestandteil des
@@ -84,6 +86,7 @@ Tiere und Pflanzen sowie als nutzbares Gut zu schützen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000302123)
 
 (1) Dieses Gesetz gilt für folgende Gewässer:
 
@@ -111,6 +114,7 @@ nicht für die Haftung für Gewässerveränderungen nach den §§ 89 und 90.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000404128)
 
 Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
@@ -254,6 +258,7 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
 
 ### § 4 Gewässereigentum, Schranken des Grundeigentums
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000500000)
 
 (1) Das Eigentum an den Bundeswasserstraßen steht dem Bund nach
 Maßgabe der wasserstraßenrechtlichen Vorschriften zu. Soweit sich aus
@@ -286,6 +291,7 @@ landesrechtlichen Vorschriften.
 
 
 ### § 5 Allgemeine Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000600000)
 
 (1) Jede Person ist verpflichtet, bei Maßnahmen, mit denen
 Einwirkungen auf ein Gewässer verbunden sein können, die nach den
@@ -315,12 +321,15 @@ Sachwerte durch Hochwasser anzupassen.
 
 
 ## Kapitel 2 - Bewirtschaftung von Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000200000)
 
 
 ### Abschnitt 1 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000300000)
 
 
 #### § 6 Allgemeine Grundsätze der Gewässerbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000700000)
 
 (1) Die Gewässer sind nachhaltig zu bewirtschaften, insbesondere mit
 dem Ziel,
@@ -371,6 +380,7 @@ Gründe des Wohls der Allgemeinheit dem nicht entgegenstehen.
 
 
 #### § 6a Grundsätze für die Kosten von Wasserdienstleistungen und Wassernutzungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012501123)
 
 (1) Bei Wasserdienstleistungen ist zur Erreichung der
 Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und 47 der Grundsatz
@@ -401,6 +411,7 @@ bleiben unberührt.
 
 
 #### § 7 Bewirtschaftung nach Flussgebietseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000804128)
 
 (1) Die Gewässer sind nach Flussgebietseinheiten zu bewirtschaften.
 Die Flussgebietseinheiten sind:
@@ -481,6 +492,7 @@ sind. Die Länder können die Zuordnung auch durch Gesetz regeln.
 
 
 #### § 8 Erlaubnis, Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE000900000)
 
 (1) Die Benutzung eines Gewässers bedarf der Erlaubnis oder der
 Bewilligung, soweit nicht durch dieses Gesetz oder auf Grund dieses
@@ -521,6 +533,7 @@ worden ist, mit diesem auf den Rechtsnachfolger über.
 
 
 #### § 9 Benutzungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001001123)
 
 (1) Benutzungen im Sinne dieses Gesetzes sind
 
@@ -574,6 +587,7 @@ verwendet werden.
 
 
 #### § 10 Inhalt der Erlaubnis und der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001100000)
 
 (1) Die Erlaubnis gewährt die Befugnis, die Bewilligung das Recht, ein
 Gewässer zu einem bestimmten Zweck in einer nach Art und Maß
@@ -584,6 +598,7 @@ Wasser in einer bestimmten Menge und Beschaffenheit.
 
 
 #### § 11 Erlaubnis-, Bewilligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001200000)
 
 (1) Erlaubnis und Bewilligung können für ein Vorhaben, das nach dem
 Gesetz über die Umweltverträglichkeitsprüfung einer
@@ -597,6 +612,7 @@ machen können.
 
 
 #### § 11a Verfahren bei Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013601128)
 
 (1) Die Absätze 2 bis 7 gelten für die Erteilung einer Erlaubnis oder
 Bewilligung ergänzend bei den folgenden Vorhaben:
@@ -836,6 +852,7 @@ andernfalls dem Träger des Vorhabens mit.
 
 
 #### § 12 Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001300000)
 
 (1) Die Erlaubnis und die Bewilligung sind zu versagen, wenn
 
@@ -855,6 +872,7 @@ Behörde.
 
 
 #### § 13 Inhalts- und Nebenbestimmungen der Erlaubnis und der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001400000)
 
 (1) Inhalts- und Nebenbestimmungen sind auch nachträglich sowie auch
 zu dem Zweck zulässig, nachteilige Wirkungen für andere zu vermeiden
@@ -908,6 +926,7 @@ Nummer 1 bis 4 zulässig sind.
 
 
 #### § 13a Versagung und Voraussetzungen für die Erteilung der Erlaubnis für bestimmte Gewässerbenutzungen; unabhängige Expertenkommission
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012600123)
 
 (1) Eine Erlaubnis für eine Gewässerbenutzung nach § 9 Absatz 2 Nummer
 3 und 4 ist zu versagen, wenn
@@ -1074,6 +1093,7 @@ Angemessenheit des Verbots nach Absatz 1 Satz 1 Nummer 1.
 
 
 #### § 13b Antragsunterlagen und Überwachung bei bestimmten Gewässerbenutzungen; Stoffregister
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012700123)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis für eine
 Gewässerbenutzung nach § 9 Absatz 2 Nummer 3 oder Nummer 4 muss
@@ -1131,6 +1151,7 @@ oder abgelagert werden.
 
 
 #### § 14 Besondere Vorschriften für die Erteilung der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001501123)
 
 (1) Die Bewilligung darf nur erteilt werden, wenn die
 Gewässerbenutzung
@@ -1209,6 +1230,7 @@ vergangen sind.
 
 
 #### § 15 Gehobene Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001601123)
 
 (1) Die Erlaubnis kann als gehobene Erlaubnis erteilt werden, wenn
 hierfür ein öffentliches Interesse oder ein berechtigtes Interesse des
@@ -1221,6 +1243,7 @@ bis 5 entsprechend.
 
 
 #### § 16 Ausschluss privatrechtlicher Abwehransprüche
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001700000)
 
 (1) Ist eine Gewässerbenutzung durch eine unanfechtbare gehobene
 Erlaubnis zugelassen, kann auf Grund privatrechtlicher Ansprüche zur
@@ -1247,6 +1270,7 @@ auf dem die Gewässerbenutzung stattfindet.
 
 
 #### § 17 Zulassung vorzeitigen Beginns
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001800000)
 
 (1) In einem Erlaubnis- oder Bewilligungsverfahren kann die zuständige
 Behörde auf Antrag zulassen, dass bereits vor Erteilung der Erlaubnis
@@ -1272,6 +1296,7 @@ werden. § 13 gilt entsprechend.
 
 
 #### § 18 Widerruf der Erlaubnis und der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE001900000)
 
 (1) Die Erlaubnis ist widerruflich.
 
@@ -1292,6 +1317,7 @@ teilweise widerrufen werden, wenn der Inhaber der Bewilligung
 
 
 #### § 19 Planfeststellungen und bergrechtliche Betriebspläne
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002000000)
 
 (1) Wird für ein Vorhaben, mit dem die Benutzung eines Gewässers
 verbunden ist, ein Planfeststellungsverfahren durchgeführt, so
@@ -1314,6 +1340,7 @@ die Bergbehörde. Absatz 3 ist entsprechend anzuwenden.
 
 
 #### § 20 Alte Rechte und alte Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002100000)
 
 (1) Soweit die Länder nichts anderes bestimmen, ist keine Erlaubnis
 oder Bewilligung erforderlich für Gewässerbenutzungen auf Grund
@@ -1376,6 +1403,7 @@ Entschädigung gilt § 13 Absatz 2 entsprechend.
 
 
 #### § 21 Anmeldung alter Rechte und alter Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002200000)
 
 (1) Alte Rechte und alte Befugnisse, die bis zum 28. Februar 2010 noch
 nicht im Wasserbuch eingetragen oder zur Eintragung in das Wasserbuch
@@ -1397,6 +1425,7 @@ in der am 28. Februar 2010 geltenden Fassung.
 
 
 #### § 22 Ausgleich zwischen konkurrierenden Gewässerbenutzungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002300000)
 
 Art, Maß und Zeiten der Gewässerbenutzung im Rahmen von Erlaubnissen,
 Bewilligungen, alten Rechten und alten Befugnissen können auf Antrag
@@ -1411,6 +1440,7 @@ festzulegen.
 
 
 #### § 23 Rechtsverordnungen zur Gewässerbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002404116)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates, auch zur
@@ -1496,6 +1526,7 @@ oberste Landesbehörden übertragen.
 
 
 #### § 24 Erleichterungen für EMAS-Standorte
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002502360)
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten
 Eigenverantwortung für EMAS-Standorte durch Rechtsverordnung mit
@@ -1543,9 +1574,11 @@ die Ermächtigung auf eine oder mehrere oberste Landesbehörden
 
 
 ### Abschnitt 2 - Bewirtschaftung oberirdischer Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000400000)
 
 
 #### § 25 Gemeingebrauch
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002600000)
 
 Jede Person darf oberirdische Gewässer in einer Weise und in einem
 Umfang benutzen, wie dies nach Landesrecht als Gemeingebrauch zulässig
@@ -1567,6 +1600,7 @@ den Gemeingebrauch erstrecken auf
 
 
 #### § 26 Eigentümer- und Anliegergebrauch
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002700000)
 
 (1) Eine Erlaubnis oder eine Bewilligung ist, soweit durch Landesrecht
 nicht etwas anderes bestimmt ist, nicht erforderlich für die Benutzung
@@ -1590,6 +1624,7 @@ nach Absatz 2 nicht statt.
 
 
 #### § 27 Bewirtschaftungsziele für oberirdische Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002800000)
 
 (1) Oberirdische Gewässer sind, soweit sie nicht nach § 28 als
 künstlich oder erheblich verändert eingestuft werden, so zu
@@ -1620,6 +1655,7 @@ verändert eingestuft werden, sind so zu bewirtschaften, dass
 
 
 #### § 28 Einstufung künstlicher und erheblich veränderter Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE002900000)
 
 Oberirdische Gewässer können als künstliche oder erheblich veränderte
 Gewässer im Sinne des § 3 Nummer 4 und 5 eingestuft werden, wenn
@@ -1668,6 +1704,7 @@ Gewässer im Sinne des § 3 Nummer 4 und 5 eingestuft werden, wenn
 
 
 #### § 29 Fristen zur Erreichung der Bewirtschaftungsziele
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003002311)
 
 (1) Ein guter ökologischer und ein guter chemischer Zustand der
 oberirdischen Gewässer sowie ein gutes ökologisches Potenzial und ein
@@ -1717,6 +1754,7 @@ worden sind, keine anderweitigen Bestimmungen enthalten.
 
 
 #### § 30 Abweichende Bewirtschaftungsziele
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003100000)
 
 Abweichend von § 27 können die zuständigen Behörden für bestimmte
 oberirdische Gewässer weniger strenge Bewirtschaftungsziele festlegen,
@@ -1750,6 +1788,7 @@ wenn
 
 
 #### § 31 Ausnahmen von den Bewirtschaftungszielen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003200000)
 
 (1) Vorübergehende Verschlechterungen des Zustands eines oberirdischen
 Gewässers verstoßen nicht gegen die Bewirtschaftungsziele nach den §§
@@ -1823,6 +1862,7 @@ entsprechend.
 
 
 #### § 32 Reinhaltung oberirdischer Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003300000)
 
 (1) Feste Stoffe dürfen in ein oberirdisches Gewässer nicht
 eingebracht werden, um sich ihrer zu entledigen. Satz 1 gilt nicht,
@@ -1837,6 +1877,7 @@ Rohrleitungen.
 
 
 #### § 33 Mindestwasserführung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003400000)
 
 Das Aufstauen eines oberirdischen Gewässers oder das Entnehmen oder
 Ableiten von Wasser aus einem oberirdischen Gewässer ist nur zulässig,
@@ -1846,6 +1887,7 @@ Absatz 1 und der §§ 27 bis 31 zu entsprechen (Mindestwasserführung).
 
 
 #### § 34 Durchgängigkeit oberirdischer Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003501118)
 
 (1) Die Errichtung, die wesentliche Änderung und der Betrieb von
 Stauanlagen dürfen nur zugelassen werden, wenn durch geeignete
@@ -1867,6 +1909,7 @@ hoheitlich durch.
 
 
 #### § 35 Wasserkraftnutzung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003600000)
 
 (1) Die Nutzung von Wasserkraft darf nur zugelassen werden, wenn auch
 geeignete Maßnahmen zum Schutz der Fischpopulation ergriffen werden.
@@ -1884,6 +1927,7 @@ der Öffentlichkeit in geeigneter Weise zugänglich gemacht.
 
 
 #### § 36 Anlagen in, an, über und unter oberirdischen Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003702119)
 
 (1) Anlagen in, an, über und unter oberirdischen Gewässern sind so zu
 errichten, zu betreiben, zu unterhalten und stillzulegen, dass keine
@@ -1936,6 +1980,7 @@ innerhalb angemessener Fristen anordnen.
 
 
 #### § 37 Wasserabfluss
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003800000)
 
 (1) Der natürliche Ablauf wild abfließenden Wassers auf ein tiefer
 liegendes Grundstück darf nicht zum Nachteil eines höher liegenden
@@ -1968,6 +2013,7 @@ nicht aus Quellen stammt.
 
 
 #### § 38 Gewässerrandstreifen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE003902128)
 
 (1) Gewässerrandstreifen dienen der Erhaltung und Verbesserung der
 ökologischen Funktionen oberirdischer Gewässer, der Wasserspeicherung,
@@ -2038,6 +2084,7 @@ Energie aus erneuerbaren Quellen erforderlich ist.
 
 
 #### § 38a Landwirtschaftlich genutzte Flächen mit Hangneigung an Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013500119)
 
 (1) Eigentümer und Nutzungsberechtigte haben auf landwirtschaftlich
 genutzten Flächen, die an Gewässer angrenzen und innerhalb eines
@@ -2059,6 +2106,7 @@ vorsieht und schädliche Gewässerveränderungen vermieden werden.
 
 
 #### § 39 Gewässerunterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004000000)
 
 (1) Die Unterhaltung eines oberirdischen Gewässers umfasst seine
 Pflege und Entwicklung als öffentlich-rechtliche Verpflichtung
@@ -2103,6 +2151,7 @@ Plangenehmigung nach § 68 etwas anderes bestimmt ist.
 
 
 #### § 40 Träger der Unterhaltungslast
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004100000)
 
 (1) Die Unterhaltung oberirdischer Gewässer obliegt den Eigentümern
 der Gewässer, soweit sie nicht nach landesrechtlichen Vorschriften
@@ -2141,6 +2190,7 @@ Absatzes 1 Satz 1 durchzuführen. Satz 1 gilt nicht, soweit eine
 
 
 #### § 41 Besondere Pflichten bei der Gewässerunterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004200000)
 
 (1) Soweit es zur ordnungsgemäßen Unterhaltung eines oberirdischen
 Gewässers erforderlich ist, haben
@@ -2184,6 +2234,7 @@ verpflichtete Person Anspruch auf Schadenersatz.
 
 
 #### § 42 Behördliche Entscheidungen zur Gewässerunterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004300000)
 
 (1) Die zuständige Behörde kann
 
@@ -2204,9 +2255,11 @@ einigen können.
 
 
 ### Abschnitt 3 - Bewirtschaftung von Küstengewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000500000)
 
 
 #### § 43 Erlaubnisfreie Benutzungen von Küstengewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004400000)
 
 Die Länder können bestimmen, dass eine Erlaubnis nicht erforderlich
 ist
@@ -2224,6 +2277,7 @@ ist
 
 
 #### § 44 Bewirtschaftungsziele für Küstengewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004500000)
 
 Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31
 entsprechend. Seewärts der in § 7 Absatz 5 Satz 2 genannten Linie
@@ -2232,6 +2286,7 @@ ein guter chemischer Zustand zu erreichen ist.
 
 
 #### § 45 Reinhaltung von Küstengewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004601116)
 
 (1) Feste Stoffe dürfen in ein Küstengewässer nicht eingebracht
 werden, um sich ihrer zu entledigen. Satz 1 gilt nicht, wenn Sediment,
@@ -2255,9 +2310,11 @@ Befördern von Flüssigkeiten und Gasen durch Rohrleitungen.
 
 
 ### Abschnitt 3a - Bewirtschaftung von Meeresgewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000501360)
 
 
 #### § 45a Bewirtschaftungsziele für Meeresgewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011000360)
 
 (1) Meeresgewässer sind so zu bewirtschaften, dass
 
@@ -2295,6 +2352,7 @@ jeweils gesondert zu bewirtschaften.
 
 
 #### § 45b Zustand der Meeresgewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011100360)
 
 (1) Zustand der Meeresgewässer ist der Zustand der Umwelt in
 Meeresgewässern unter Berücksichtigung
@@ -2339,6 +2397,7 @@ gesund und produktiv sind und die nachhaltig genutzt werden, wobei
 
 
 #### § 45c Anfangsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011200360)
 
 (1) Die zuständigen Behörden bewerten die Meeresgewässer bis zum 15.
 Juli 2012 nach Maßgabe des Anhangs III der Richtlinie 2008/56/EG des
@@ -2386,6 +2445,7 @@ weitestgehend zu berücksichtigen:
 
 
 #### § 45d Beschreibung des guten Zustands der Meeresgewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011300360)
 
 Auf der Grundlage der Anfangsbewertung nach § 45c beschreiben die
 zuständigen Behörden bis zum 15. Juli 2012 die Merkmale für den guten
@@ -2407,6 +2467,7 @@ vorkommen, sind ebenfalls weitestgehend zu berücksichtigen.
 
 
 #### § 45e Festlegung von Zielen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011400360)
 
 Auf der Grundlage der Anfangsbewertung nach § 45c legen die
 zuständigen Behörden nach Maßgabe des Anhangs IV der Richtlinie
@@ -2423,6 +2484,7 @@ dass die Ziele miteinander vereinbar sind.
 
 
 #### § 45f Überwachungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011500360)
 
 (1) Bis zum 15. Juli 2014 stellen die zuständigen Behörden auf der
 Grundlage der Anfangsbewertung nach § 45c und unter Beachtung der
@@ -2444,6 +2506,7 @@ weitestgehend bei der Aufstellung und Durchführung der
 
 
 #### § 45g Fristverlängerungen; Ausnahmen von den Bewirtschaftungszielen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011600360)
 
 (1) Die zuständige Behörde kann die Frist nach § 45a Absatz 1 Nummer 2
 sowie Fristen für nach § 45e Satz 1 festgelegte Ziele verlängern,
@@ -2500,6 +2563,7 @@ ergreifen, die darauf abzielen,
 
 
 #### § 45h Maßnahmenprogramme
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011701123)
 
 (1) Auf der Grundlage der Anfangsbewertung nach § 45c Absatz 1 und der
 nach § 45e Satz 1 festgelegten Ziele sind bis zum 31. Dezember 2015
@@ -2579,6 +2643,7 @@ bestimmt werden. Absatz 3 gilt entsprechend.
 
 
 #### § 45i Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011803116)
 
 (1) Die zuständige Behörde veröffentlicht
 
@@ -2623,6 +2688,7 @@ Maßnahmen.
 
 
 #### § 45j Überprüfung und Aktualisierung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE011900360)
 
 Die Anfangsbewertung nach § 45c Absatz 1, die Beschreibung des guten
 Zustands der Meeresgewässer nach § 45d Satz 1, die nach § 45e Satz 1
@@ -2632,6 +2698,7 @@ zu überprüfen und, soweit erforderlich, zu aktualisieren.
 
 
 #### § 45k Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012000360)
 
 (1) Um die Bewirtschaftungsziele nach § 45a zu erreichen, koordinieren
 die zuständigen Behörden, einschließlich der zuständigen Behörden der
@@ -2656,6 +2723,7 @@ Meeresgewässer gelangt, für das die Maßnahmen ergriffen werden. Absatz
 
 
 #### § 45l Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012103128)
 
 Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
 Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
@@ -2672,9 +2740,11 @@ Vorschriften in diesem Bereich zu regeln.
 
 
 ### Abschnitt 4 - Bewirtschaftung des Grundwassers
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000600000)
 
 
 #### § 46 Erlaubnisfreie Benutzungen des Grundwassers
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004700000)
 
 (1) Keiner Erlaubnis oder Bewilligung bedarf das Entnehmen,
 Zutagefördern, Zutageleiten oder Ableiten von Grundwasser
@@ -2706,6 +2776,7 @@ erforderlich ist.
 
 
 #### § 47 Bewirtschaftungsziele für das Grundwasser
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004800000)
 
 (1) Das Grundwasser ist so zu bewirtschaften, dass
 
@@ -2739,6 +2810,7 @@ erreichen ist.
 
 
 #### § 48 Reinhaltung des Grundwassers
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE004901000)
 
 (1) Eine Erlaubnis für das Einbringen und Einleiten von Stoffen in das
 Grundwasser darf nur erteilt werden, wenn eine nachteilige Veränderung
@@ -2758,6 +2830,7 @@ Gasen durch Rohrleitungen. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
 
 #### § 49 Erdaufschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005000000)
 
 (1) Arbeiten, die so tief in den Boden eindringen, dass sie sich
 unmittelbar oder mittelbar auf die Bewegung, die Höhe oder die
@@ -2785,12 +2858,15 @@ unbefugt Grundwasser erschlossen wird.
 
 
 ## Kapitel 3 - Besondere wasserwirtschaftliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000700000)
 
 
 ### Abschnitt 1 - Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000800000)
 
 
 #### § 50 Öffentliche Wasserversorgung; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005101130)
 
 (1) Die der Allgemeinheit dienende Wasserversorgung (öffentliche
 Wasserversorgung) ist eine Aufgabe der Daseinsvorsorge. Hierzu gehört
@@ -2897,6 +2973,7 @@ Rechtsverordnung auf andere Landesbehörden übertragen.
 
 
 #### § 51 Festsetzung von Wasserschutzgebieten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005200000)
 
 (1) Soweit es das Wohl der Allgemeinheit erfordert,
 
@@ -2925,6 +3002,7 @@ Schutzbestimmungen unterteilt werden.
 
 
 #### § 52 Besondere Anforderungen in Wasserschutzgebieten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005302128)
 
 (1) In der Rechtsverordnung nach § 51 Absatz 1 oder durch behördliche
 Entscheidung können in Wasserschutzgebieten, soweit der Schutzzweck
@@ -3000,6 +3078,7 @@ soweit nicht eine Entschädigungspflicht nach Absatz 4 besteht.
 
 
 #### § 53 Heilquellenschutz
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005400000)
 
 (1) Heilquellen sind natürlich zu Tage tretende oder künstlich
 erschlossene Wasser- oder Gasvorkommen, die auf Grund ihrer chemischen
@@ -3026,9 +3105,11 @@ Rechtsverordnung auf andere Landesbehörden übertragen.
 
 
 ### Abschnitt 2 - Abwasserbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG000900000)
 
 
 #### § 54 Begriffsbestimmungen für die Abwasserbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005501360)
 
 (1) Abwasser ist
 
@@ -3099,6 +3180,7 @@ unter spezifischen Referenzbedingungen.
 
 
 #### § 55 Grundsätze der Abwasserbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005600000)
 
 (1) Abwasser ist so zu beseitigen, dass das Wohl der Allgemeinheit
 nicht beeinträchtigt wird. Dem Wohl der Allgemeinheit kann auch die
@@ -3118,6 +3200,7 @@ wasserwirtschaftliche Belange nicht entgegenstehen.
 
 
 #### § 56 Pflicht zur Abwasserbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005700000)
 
 Abwasser ist von den juristischen Personen des öffentlichen Rechts zu
 beseitigen, die nach Landesrecht hierzu verpflichtet sind
@@ -3129,6 +3212,7 @@ Pflichten Dritter bedienen.
 
 
 #### § 57 Einleiten von Abwasser in Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005803360)
 
 (1) Eine Erlaubnis für das Einleiten von Abwasser in Gewässer
 (Direkteinleitung) darf nur erteilt werden, wenn
@@ -3209,6 +3293,7 @@ unverhältnismäßig wären.
 
 
 #### § 58 Einleiten von Abwasser in öffentliche Abwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE005902377)
 
 (1) Das Einleiten von Abwasser in öffentliche Abwasseranlagen
 (Indirekteinleitung) bedarf der Genehmigung durch die zuständige
@@ -3262,6 +3347,7 @@ auch unter dem Vorbehalt des Widerrufs erteilt werden.
 
 
 #### § 59 Einleiten von Abwasser in private Abwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006000000)
 
 (1) Dem Einleiten von Abwasser in öffentliche Abwasseranlagen stehen
 Abwassereinleitungen Dritter in private Abwasseranlagen, die der
@@ -3275,6 +3361,7 @@ der Anforderungen nach § 58 Absatz 2 sichergestellt ist.
 
 
 #### § 60 Abwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006103118)
 
 (1) Abwasseranlagen sind so zu errichten, zu betreiben und zu
 unterhalten, dass die Anforderungen an die Abwasserbeseitigung
@@ -3382,6 +3469,7 @@ Vorschriften bleiben unberührt.
 
 
 #### § 61 Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006201000)
 
 (1) Wer Abwasser in ein Gewässer oder in eine Abwasseranlage
 einleitet, ist verpflichtet, das Abwasser nach Maßgabe einer
@@ -3406,9 +3494,11 @@ nach denen keine Pflicht zur Selbstüberwachung besteht.
 
 
 ### Abschnitt 3 - Umgang mit wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001000000)
 
 
 #### § 62 Anforderungen an den Umgang mit wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006312128)
 
 (1) Anlagen zum Lagern, Abfüllen, Herstellen und Behandeln
 wassergefährdender Stoffe sowie Anlagen zum Verwenden
@@ -3509,6 +3599,7 @@ zum Umgang mit
 
 
 #### § 62a Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012203128)
 
 Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
 Verbraucherschutz erarbeitet im Einvernehmen mit dem Bundesministerium
@@ -3532,6 +3623,7 @@ Verbindung mit § 62 Absatz 4 zu berücksichtigen.
 
 
 #### § 63 Eignungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006404118)
 
 (1) Anlagen zum Lagern, Abfüllen oder Umschlagen wassergefährdender
 Stoffe dürfen nur errichtet, betrieben und wesentlich geändert werden,
@@ -3668,9 +3760,11 @@ Eignungsfeststellung zu berücksichtigen.
 
 
 ### Abschnitt 4 - Gewässerschutzbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001100000)
 
 
 #### § 64 Bestellung von Gewässerschutzbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006501360)
 
 (1) Gewässerbenutzer, die an einem Tag mehr als 750 Kubikmeter
 Abwasser einleiten dürfen, haben unverzüglich einen oder mehrere
@@ -3704,6 +3798,7 @@ Gewässerschutzbeauftragten nach diesem Gesetz wahrnehmen.
 
 
 #### § 65 Aufgaben von Gewässerschutzbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006601118)
 
 (1) Gewässerschutzbeauftragte beraten den Gewässerbenutzer und die
 Betriebsangehörigen in Angelegenheiten, die für den Gewässerschutz
@@ -3772,6 +3867,7 @@ und 2 aufgeführten Aufgaben der Gewässerschutzbeauftragten
 
 
 #### § 66 Weitere anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006700000)
 
 Auf das Verhältnis zwischen dem Gewässerbenutzer und den
 Gewässerschutzbeauftragten finden die §§ 55 bis 58 des Bundes-
@@ -3779,9 +3875,11 @@ Immissionsschutzgesetzes entsprechende Anwendung.
 
 
 ### Abschnitt 5 - Gewässerausbau, Deich-, Damm- und Küstenschutzbauten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001200000)
 
 
 #### § 67 Grundsatz, Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006800000)
 
 (1) Gewässer sind so auszubauen, dass natürliche Rückhalteflächen
 erhalten bleiben, das natürliche Abflussverhalten nicht wesentlich
@@ -3799,6 +3897,7 @@ dem Gewässerausbau gleich.
 
 
 #### § 68 Planfeststellung, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE006901119)
 
 (1) Der Gewässerausbau bedarf der Planfeststellung durch die
 zuständige Behörde.
@@ -3836,6 +3935,7 @@ Bundeswasserstraßengesetz hoheitlich durch.
 
 
 #### § 69 Abschnittsweise Zulassung, vorzeitiger Beginn
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007000000)
 
 (1) Gewässerausbauten einschließlich notwendiger Folgemaßnahmen, die
 wegen ihres räumlichen oder zeitlichen Umfangs in selbständigen
@@ -3850,6 +3950,7 @@ Plangenehmigungsverfahren nach § 68.
 
 
 #### § 70 Anwendbare Vorschriften, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007102128)
 
 (1) Für die Planfeststellung und die Plangenehmigung gelten § 13
 Absatz 1 und § 14 Absatz 3 bis 6 entsprechend; im Übrigen gelten die
@@ -3882,6 +3983,7 @@ Antrag eines beteiligten Landes zwischen den Ländern vermitteln.
 
 
 #### § 70a Planfeststellungsverfahren bei Häfen im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013800128)
 
 (1) Wird ein Planfeststellungsverfahren oder ein
 Plangenehmigungsverfahren für einen Gewässerausbau nach § 68
@@ -3961,6 +4063,7 @@ Vorschriften ein anderes Zulassungsverfahren durchzuführen ist.
 
 
 #### § 71 Enteignungsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007201118)
 
 (1) Dient der Gewässerausbau dem Wohl der Allgemeinheit, so kann bei
 der Feststellung des Plans bestimmt werden, dass für seine
@@ -3985,6 +4088,7 @@ bindend.
 
 
 #### § 71a Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012900118)
 
 (1) Die zuständige Behörde hat den Träger eines Vorhabens zum Küsten-
 oder Hochwasserschutz auf Antrag nach der Feststellung des Plans oder
@@ -4013,9 +4117,11 @@ entsprechend.
 
 
 ### Abschnitt 6 - Hochwasserschutz
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001300000)
 
 
 #### § 72 Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007301360)
 
 Hochwasser ist eine zeitlich beschränkte Überschwemmung von
 normalerweise nicht mit Wasser bedecktem Land, insbesondere durch
@@ -4025,6 +4131,7 @@ Abwasseranlagen.
 
 
 #### § 73 Bewertung von Hochwasserrisiken, Risikogebiete
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007400000)
 
 (1) Die zuständigen Behörden bewerten das Hochwasserrisiko und
 bestimmen danach die Gebiete mit signifikantem Hochwasserrisiko
@@ -4078,6 +4185,7 @@ Hochwasserrisiko Rechnung zu tragen.
 
 
 #### § 74 Gefahrenkarten und Risikokarten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007502118)
 
 (1) Die zuständigen Behörden erstellen für die Risikogebiete in den
 nach § 73 Absatz 3 maßgebenden Bewirtschaftungseinheiten
@@ -4141,6 +4249,7 @@ mit den Anforderungen der Absätze 2 und 4.
 
 
 #### § 75 Risikomanagementpläne
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007600000)
 
 (1) Die zuständigen Behörden stellen für die Risikogebiete auf der
 Grundlage der Gefahrenkarten und Risikokarten Risikomanagementpläne
@@ -4195,6 +4304,7 @@ mit den Anforderungen der Absätze 2 bis 4.
 
 
 #### § 76 Überschwemmungsgebiete an oberirdischen Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007701360)
 
 (1) Überschwemmungsgebiete sind Gebiete zwischen oberirdischen
 Gewässern und Deichen oder Hochufern und sonstige Gebiete, die bei
@@ -4234,6 +4344,7 @@ nachteiligen Hochwasserfolgen zu informieren.
 
 
 #### § 77 Rückhalteflächen, Bevorratung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007801118)
 
 (1) Überschwemmungsgebiete im Sinne des § 76 sind in ihrer Funktion
 als Rückhalteflächen zu erhalten. Soweit überwiegende Gründe des Wohls
@@ -4260,6 +4371,7 @@ entgegenstehen.
 
 
 #### § 78 Bauliche Schutzvorschriften für festgesetzte Überschwemmungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE007904128)
 
 (1) In festgesetzten Überschwemmungsgebieten ist die Ausweisung neuer
 Baugebiete im Außenbereich in Bauleitplänen oder in sonstigen
@@ -4399,6 +4511,7 @@ vorläufig gesicherte Gebiete gelten die Absätze 1 bis 7 entsprechend.
 
 
 #### § 78a Sonstige Schutzvorschriften für festgesetzte Überschwemmungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013000118)
 
 (1) In festgesetzten Überschwemmungsgebieten ist Folgendes untersagt:
 
@@ -4513,6 +4626,7 @@ vorläufig gesicherte Gebiete gelten die Absätze 1 bis 5 entsprechend.
 Risikogebiete außerhalb von
 
 #### § 78b 
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013100118)
 
 (1) Risikogebiete außerhalb von Überschwemmungsgebieten sind Gebiete,
 für die nach § 74 Absatz 2 Gefahrenkarten zu erstellen sind und die
@@ -4546,6 +4660,7 @@ außerhalb von Überschwemmungsgebieten gilt Folgendes:
 
 
 #### § 78c Heizölverbraucheranlagen in Überschwemmungsgebieten und in weiteren Risikogebieten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013200118)
 
 (1) Die Errichtung neuer Heizölverbraucheranlagen in festgesetzten und
 vorläufig gesicherten Überschwemmungsgebieten ist verboten. Die
@@ -4580,6 +4695,7 @@ hochwassersicher nachzurüsten.
 
 
 #### § 78d Hochwasserentstehungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013300118)
 
 (1) Hochwasserentstehungsgebiete sind Gebiete, in denen bei
 Starkniederschlägen oder bei Schneeschmelze in kurzer Zeit starke
@@ -4669,6 +4785,7 @@ Absatz 7 des Baugesetzbuches insbesondere zu berücksichtigen:
 
 
 #### § 79 Information und aktive Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008000000)
 
 (1) Die zuständigen Behörden veröffentlichen die Bewertung nach § 73
 Absatz 1, die Gefahrenkarten und Risikokarten nach § 74 Absatz 1 und
@@ -4685,6 +4802,7 @@ den landesrechtlichen Vorschriften.
 
 
 #### § 80 Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008100000)
 
 (1) Gefahrenkarten und Risikokarten sind so zu erstellen, dass die
 darin dargestellten Informationen vereinbar sind mit den nach der
@@ -4702,6 +4820,7 @@ werden.
 
 
 #### § 81 Vermittlung durch die Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008200000)
 
 Können sich die Länder bei der Zusammenarbeit im Rahmen dieses
 Abschnitts über eine Maßnahme des Hochwasserschutzes nicht einigen,
@@ -4710,9 +4829,11 @@ beteiligten Ländern.
 
 
 ### Abschnitt 7 - Wasserwirtschaftliche Planung und Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001400000)
 
 
 #### § 82 Maßnahmenprogramm
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008301123)
 
 (1) Für jede Flussgebietseinheit ist nach Maßgabe der Absätze 2 bis 6
 ein Maßnahmenprogramm aufzustellen, um die Bewirtschaftungsziele nach
@@ -4757,6 +4878,7 @@ Einleitungen in das Grundwasser zulassen.
 
 
 #### § 83 Bewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008402118)
 
 (1) Für jede Flussgebietseinheit ist nach Maßgabe der Absätze 2 bis 4
 ein Bewirtschaftungsplan aufzustellen.
@@ -4846,6 +4968,7 @@ Hintergrunddokumenten und -informationen zu gewähren. Die Sätze 1 bis
 
 
 #### § 84 Fristen für Maßnahmenprogramme und Bewirtschaftungspläne
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008500000)
 
 (1) Maßnahmenprogramme und Bewirtschaftungspläne, die nach Maßgabe des
 Landesrechts vor dem 1. März 2010 aufzustellen waren, sind erstmals
@@ -4859,6 +4982,7 @@ durchzuführen, nachdem sie in das Programm aufgenommen worden sind.
 
 
 #### § 85 Aktive Beteiligung interessierter Stellen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008600000)
 
 Die zuständigen Behörden fördern die aktive Beteiligung aller
 interessierten Stellen an der Aufstellung, Überprüfung und
@@ -4866,6 +4990,7 @@ Aktualisierung der Maßnahmenprogramme und Bewirtschaftungspläne.
 
 
 #### § 86 Veränderungssperre zur Sicherung von Planungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008700000)
 
 (1) Zur Sicherung von Planungen für
 
@@ -4903,6 +5028,7 @@ wenn dem keine überwiegenden öffentlichen Belange entgegenstehen.
 
 
 #### § 87 Wasserbuch
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008800000)
 
 (1) Über die Gewässer sind Wasserbücher zu führen.
 
@@ -4933,6 +5059,7 @@ rechtsändernde Wirkung.
 
 
 #### § 88 Informationsbeschaffung und -übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE008901377)
 
 (1) Die zuständige Behörde darf im Rahmen der ihr durch Gesetz oder
 Rechtsverordnung übertragenen Aufgaben Informationen einschließlich
@@ -5000,9 +5127,11 @@ erstattet.
 
 
 ### Abschnitt 8 - Haftung für Gewässerveränderungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001500000)
 
 
 #### § 89 Haftung für Änderungen der Wasserbeschaffenheit
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009000000)
 
 (1) Wer in ein Gewässer Stoffe einbringt oder einleitet oder wer in
 anderer Weise auf ein Gewässer einwirkt und dadurch die
@@ -5021,6 +5150,7 @@ Schaden durch höhere Gewalt verursacht wird.
 
 
 #### § 90 Sanierung von Gewässerschäden
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009101123)
 
 (1) Eine Schädigung eines Gewässers im Sinne des
 Umweltschadensgesetzes ist jeder Schaden mit erheblichen nachteiligen
@@ -5080,9 +5210,11 @@ unberührt.
 
 
 ### Abschnitt 9 - Duldungs- und Gestattungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001600000)
 
 
 #### § 91 Gewässerkundliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009200000)
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte von
 Grundstücken verpflichten, die Errichtung und den Betrieb von
@@ -5097,6 +5229,7 @@ Grundstücksnutzung beeinträchtigt wird.
 
 
 #### § 92 Veränderung oberirdischer Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009300000)
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte
 oberirdischer Gewässer sowie der Grundstücke, deren Inanspruchnahme
@@ -5112,6 +5245,7 @@ Betroffenen ist.
 
 
 #### § 93 Durchleitung von Wasser und Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009400000)
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte von
 Grundstücken und oberirdischen Gewässern verpflichten, das Durchleiten
@@ -5125,6 +5259,7 @@ entsprechend.
 
 
 #### § 94 Mitbenutzung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009500000)
 
 (1) Die zuständige Behörde kann Betreiber einer
 Grundstücksentwässerungs-, Wasserversorgungs- oder Abwasseranlage
@@ -5164,6 +5299,7 @@ genommen werden.
 
 
 #### § 95 Entschädigung für Duldungs- und Gestattungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009600000)
 
 Soweit Duldungs- oder Gestattungsverpflichtungen nach den §§ 92 bis 94
 das Eigentum unzumutbar beschränken, ist eine Entschädigung zu
@@ -5171,9 +5307,11 @@ leisten.
 
 
 ## Kapitel 4 - Entschädigung, Ausgleich, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001701118)
 
 
 ### § 96 Art und Umfang von Entschädigungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009700000)
 
 (1) Eine nach diesem Gesetz zu leistende Entschädigung hat den
 eintretenden Vermögensschaden angemessen auszugleichen. Soweit zum
@@ -5219,6 +5357,7 @@ die anspruchsberechtigte Person Sicherheitsleistung verlangen.
 
 
 ### § 97 Entschädigungspflichtige Person
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009800000)
 
 Soweit sich aus diesem Gesetz nichts anderes ergibt, hat die
 Entschädigung zu leisten, wer unmittelbar durch den Vorgang begünstigt
@@ -5230,6 +5369,7 @@ die aufgewandten Entschädigungsbeträge dem Land zu erstatten.
 
 
 ### § 98 Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE009900000)
 
 (1) Über Ansprüche auf Entschädigung ist gleichzeitig mit der dem
 Anspruch zugrunde liegenden Anordnung zu entscheiden. Die Entscheidung
@@ -5243,6 +5383,7 @@ Einigung nicht zustande, so setzt die Behörde die Entschädigung fest.
 
 
 ### § 99 Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010001116)
 
 Ein Ausgleich nach § 52 Absatz 5 und § 78a Absatz 5 Satz 4 ist in Geld
 zu leisten. Im Übrigen gelten für einen Ausgleich nach Satz 1 § 96
@@ -5250,6 +5391,7 @@ Absatz 1 und 5 und § 97 entsprechend.
 
 
 ### § 99a Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013401116)
 
 (1) Den Ländern steht ein Vorkaufsrecht an Grundstücken zu, die für
 Maßnahmen des Hochwasser- oder Küstenschutzes benötigt werden. Liegen
@@ -5284,9 +5426,11 @@ Körperschaften und Stiftungen des öffentlichen Rechts ausüben.
 
 
 ## Kapitel 5 - Gewässeraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001800000)
 
 
 ### § 100 Aufgaben der Gewässeraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010100000)
 
 (1) Aufgabe der Gewässeraufsicht ist es, die Gewässer sowie die
 Erfüllung der öffentlich-rechtlichen Verpflichtungen zu überwachen,
@@ -5304,6 +5448,7 @@ erteilte Zulassungen sind regelmäßig sowie aus besonderem Anlass zu
 
 
 ### § 101 Befugnisse der Gewässeraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010200000)
 
 (1) Bedienstete und Beauftragte der zuständigen Behörde sind im Rahmen
 der Gewässeraufsicht befugt,
@@ -5362,6 +5507,7 @@ sie tätigen Personen handelt.
 
 
 ### § 102 Gewässeraufsicht bei Anlagen und Einrichtungen der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, dass die Gewässeraufsicht im
@@ -5371,9 +5517,11 @@ Verteidigung gehörenden Stellen übertragen wird.
 
 
 ## Kapitel 6 - Bußgeld- und Überleitungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNG001900000)
 
 
 ### § 103 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010405130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5540,6 +5688,7 @@ einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
 ### § 104 Überleitung bestehender Erlaubnisse und Bewilligungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010500000)
 
 (1) Erlaubnisse, die vor dem 1. März 2010 nach § 7 des
 Wasserhaushaltsgesetzes erteilt worden sind, gelten als Erlaubnisse
@@ -5554,6 +5703,7 @@ nach diesem Gesetz fort.
 
 
 ### § 104a Ausnahmen von der Erlaubnispflicht bei bestehenden Anlagen zur untertägigen Ablagerung von Lagerstättenwasser
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012800123)
 
 (1) Die Nutzung einer Anlage zur untertägigen Ablagerung von
 Lagerstättenwasser, das bei Maßnahmen nach § 9 Absatz 2 Nummer 3 oder
@@ -5614,6 +5764,7 @@ Heilquellenschutzgebietes ausnahmsweise zugelassen wird
 
 
 ### § 105 Überleitung bestehender sonstiger Zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010601377)
 
 (1) Eine Zulassung für das Einleiten von Abwasser in öffentliche
 Abwasseranlagen, die vor dem 1. März 2010 erteilt worden ist, gilt als
@@ -5646,6 +5797,7 @@ als Plangenehmigung nach § 68 fort.
 
 
 ### § 106 Überleitung bestehender Schutzgebietsfestsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010700000)
 
 (1) Vor dem 1. März 2010 festgesetzte Wasserschutzgebiete gelten als
 festgesetzte Wasserschutzgebiete im Sinne von § 51 Absatz 1.
@@ -5660,6 +5812,7 @@ Absatz 2 oder Absatz 3.
 
 
 ### § 107 Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE012301118)
 
 (1) Eine Zulassung, die vor dem 2. Mai 2013 nach landesrechtlichen
 Vorschriften für Abwasserbehandlungsanlagen im Sinne des § 60 Absatz 3
@@ -5702,6 +5855,7 @@ genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
 
 
 ### § 108 Übergangsbestimmung für Verfahren zur Zulassung von Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013701128)
 
 Wurde vor dem 15. August 2025 ein Zulassungs- oder ein
 Befreiungsverfahren eingeleitet, auf das die Vorschriften des § 11a,
@@ -5714,6 +5868,7 @@ geltenden Recht fort.
 (zu § 3 Nummer 11)
 
 ### Anlage 1 Kriterien zur Bestimmung des Standes der Technik
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010802360)
 
 (Fundstelle: BGBl. I 2009, 2614;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5777,11 +5932,13 @@ folgende Kriterien zu berücksichtigen:
 
 
 ### Anlage 2 (zu § 7 Absatz 1 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE010900000)
 
 (Fundstelle: BGBl. I 2009, 2615)
 ![bgbl1_2009_j2585-1_0010.jpg](bgbl1_2009_j2585-1_0010.jpg)
 
 ### Anlage 3 (zu § 70a Absatz 1 Satz 1 Nummer 1, Absatz 2 Satz 1 und Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html#BJNR258510009BJNE013900128)
 
 (Fundstelle: BGBl 2023 I Nr. 409, S. 34)
 

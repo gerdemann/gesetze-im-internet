@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35abs4bek_1992-10-01/BJNR017490992.html#BJNR017490992BJNE000100314)
 
 Auf Grund des § 35 Abs. 4 des Warenzeichengesetzes in der Fassung der
 Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29), eingefügt durch
@@ -51,6 +52,7 @@ Januar 1990 (BGBl. I S. 142).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35abs4bek_1992-10-01/BJNR017490992.html#BJNR017490992BJNE000200314)
 
 Der Bundesminister der Justiz
 

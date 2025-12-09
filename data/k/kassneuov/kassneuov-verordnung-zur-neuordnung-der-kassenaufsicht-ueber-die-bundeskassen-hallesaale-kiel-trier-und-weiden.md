@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kassneuov/BJNR282000005.html#BJNR282000005BJNE000100000)
 
 Auf Grund des § 8 Abs. 3 Satz 1, 2, 4 und 5 des
 Finanzverwaltungsgesetzes vom 30. August 1971 (BGBl. I S. 1426, 1427),
@@ -32,6 +33,7 @@ Pfalz und Sachsen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kassneuov/BJNR282000005.html#BJNR282000005BJNE000200000)
 
 Die den Zoll- und Verbrauchsteuerabteilungen der Oberfinanzdirektionen
 Chemnitz, Cottbus, Hamburg, Hannover, Karlsruhe, Koblenz und Nürnberg
@@ -41,6 +43,7 @@ Außenstellen werden auf die Oberfinanzdirektion Köln übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kassneuov/BJNR282000005.html#BJNR282000005BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 

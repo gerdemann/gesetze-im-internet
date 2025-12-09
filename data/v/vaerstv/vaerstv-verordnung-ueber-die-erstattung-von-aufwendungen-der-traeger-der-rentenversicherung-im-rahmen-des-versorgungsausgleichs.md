@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/v_rstv/BJNR262800001.html#BJNR262800001BJNE000100310)
 
 Auf Grund des § 226 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
 Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
@@ -31,6 +32,7 @@ gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Berechnung der zu erstattenden Aufwendungen im Rahmen des Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/v_rstv/BJNR262800001.html#BJNR262800001BJNE000200310)
 
 (1) Die Aufwendungen des Trägers der Rentenversicherung auf Grund von
 Rentenanwartschaften, die durch Entscheidung des Familiengerichts im
@@ -98,6 +100,7 @@ Sozialgesetzbuch finden Anwendung.
 
 
 ## § 2 Durchführung der Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/v_rstv/BJNR262800001.html#BJNR262800001BJNE000301124)
 
 (1) Der Träger der Rentenversicherung soll die zu erstattenden
 Aufwendungen innerhalb von vier Kalendermonaten nach Ablauf des
@@ -121,17 +124,20 @@ des Bürgerlichen Gesetzbuches sinngemäß.
 
 
 ## § 3 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/v_rstv/BJNR262800001.html#BJNR262800001BJNE000400310)
 
 Diese Verordnung findet erstmals auf die Erstattung der im Jahre 2001
 entstehenden Aufwendungen der Träger der Rentenversicherung Anwendung.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/v_rstv/BJNR262800001.html#BJNR262800001BJNE000500310)
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/v_rstv/BJNR262800001.html#BJNR262800001BJNE000600310)
 
 Der Bundesrat hat zugestimmt.
 

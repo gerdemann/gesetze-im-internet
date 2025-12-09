@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000100308)
 
 Auf Grund des § 10 Abs. 3 und des § 11 Abs. 3 in Verbindung mit § 10
 Abs. 3 des Energiesicherungsgesetzes vom 9. November 1973
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Antrag, zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000201123)
 
 (1) Entschädigungen nach § 11 Absatz 1 und § 11a Absatz 1 sowie
 Härteausgleich nach § 12 Absatz 1 des Energiesicherungsgesetzes werden
@@ -39,6 +41,7 @@ einer nach dem Gesetz erlassenen Rechtsverordnung angeordnet hat.
 
 
 ## § 2 Erklärung über Mitberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000300308)
 
 Wer einen Anspruch auf Entschädigung oder Härteausgleich erhebt, hat
 der zuständigen Behörde schriftlich oder zur Niederschrift zu
@@ -58,6 +61,7 @@ oder geltend machen können. Die Erklärung ist zuzustellen
 
 
 ## § 3 Gütliche Einigung
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000400308)
 
 (1) Vor der Festsetzung der Entschädigung oder des Härteausgleichs hat
 die zuständige Behörde durch einen Vorschlag auf eine gütliche
@@ -71,6 +75,7 @@ beglaubigte Abschrift zuzustellen.
 
 
 ## § 4 Festsetzung der Entschädigung und des Härteausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000500308)
 
 (1) Kommt eine Einigung nach § 3 Abs. 1 nicht zustande, so setzt die
 zuständige Behörde die Höhe der Entschädigung oder des Härteausgleichs
@@ -92,6 +97,7 @@ Verzicht auf das Recht der Rücknahme zu hinterlegen ist.
 
 
 ## § 5 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000600308)
 
 (1) Die Niederschrift über die Einigung nach § 3 Abs. 2 ist nach
 Zustellung an die Beteiligten vollstreckbar. Der Festsetzungsbescheid
@@ -112,6 +118,7 @@ Prozeßgerichts.
 
 
 ## § 6 Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000700308)
 
 (1) Hat der Entschädigungsberechtigte im Falle der Anordnung einer
 Maßnahme, die auf die Abgabe eines Gutes gerichtet ist, gemäß § 2
@@ -130,6 +137,7 @@ bestehenden Rechtsverhältnis.
 
 
 ## § 7 Folgen der Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000800308)
 
 (1) Durch Hinterlegung in den Fällen des § 4 Abs. 3 und des § 6 wird
 der Zahlungspflichtige von seiner Zahlungspflicht befreit.
@@ -143,6 +151,7 @@ statthaft ist, bleiben unberührt.
 
 
 ## § 8 Klagen wegen der hinterlegten Summe
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE000900308)
 
 Wird der als Entschädigung oder Härteausgleich zu zahlende Betrag nach
 Maßgabe der Vorschriften dieser Verordnung hinterlegt, so kann jeder
@@ -161,6 +170,7 @@ im Falle der Zwangsversteigerung sinngemäß anzuwenden.
 
 
 ## § 9 Widerspruch gegen den Festsetzungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001000308)
 
 (1) Gegen den Festsetzungsbescheid kann innerhalb eines Monats nach
 Zustellung bei der Behörde, welche die Entschädigung oder den
@@ -189,6 +199,7 @@ Rechtsmittelbelehrung zu versehen und zuzustellen.
 
 
 ## § 10 Klage auf Entschädigung oder Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001100308)
 
 (1) Wegen der Festsetzung der Entschädigung oder des Härteausgleichs
 kann ein Beteiligter binnen einer Frist von zwei Monaten nach
@@ -227,6 +238,7 @@ Ermessen.
 
 
 ## § 11 Klage in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001200308)
 
 Hat eine oberste Bundes- oder oberste Landesbehörde die Entschädigung
 oder den Härteausgleich festgesetzt, so kann die Klage nach § 10 ohne
@@ -235,11 +247,13 @@ Zustellung des Festsetzungsbescheides erhoben werden.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001300308)
 
 -
 
 
 ## § 13 Rückzahlungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001401123)
 
 (1) Ist durch Vorauszahlungen auf eine noch nicht festgesetzte
 Entschädigung oder einen noch nicht festgesetzten Härteausgleich eine
@@ -263,11 +277,13 @@ Vorschriften der §§ 3 bis 11 sinngemäß anzuwenden.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001500308)
 
 -
 
 
 ## § 15 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001600308)
 
 Ansprüche auf Entschädigung oder Härteausgleich verjähren in vier
 Jahren. Die Verjährung beginnt mit dem Schluß des Jahres, in dem der
@@ -278,6 +294,7 @@ Behörde gleich.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ensigentschv/BJNR023300974.html#BJNR023300974BJNE001801123)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

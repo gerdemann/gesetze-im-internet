@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000000000)
 
 Auf Grund des § 36 Abs. 2 des Umweltauditgesetzes in der Fassung der
 Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490) in Verbindung
@@ -31,6 +32,7 @@ Umweltgutachterausschusses:
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000102116)
 
 (1) Für individuell zurechenbare öffentliche Leistungen der
 Zulassungsstelle und der Widerspruchsbehörde auf Grund des
@@ -49,6 +51,7 @@ Telekommunikationsdienstleistungen sind mit der Gebühr abgegolten.
 
 
 ## § 2 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000201116)
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
 wird eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt
@@ -64,6 +67,7 @@ Prozent der Widerspruchsgebühr.
 
 
 ## § 3 Zurückweisung oder Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000300000)
 
 (1) Für die vollständige oder teilweise Zurückweisung und bei
 Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren
@@ -74,6 +78,7 @@ vom Hundert des streitigen Betrags erhoben.
 
 
 ## § 4 Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Rücknahme von Anträgen
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000401116)
 
 Für
 
@@ -98,6 +103,7 @@ entspricht.
 
 
 ## § 5 Zulassungsentscheidungen ohne mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000500000)
 
 Für Zulassungsentscheidungen, die ohne mündliche Prüfung ergehen,
 ermäßigt sich die vorgesehene Gebühr um ein Viertel; sie kann bis zu
@@ -105,12 +111,14 @@ einem Viertel der vorgesehenen Gebühr ermäßigt werden.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/uaggebv_2002/BJNR350300002.html#BJNR350300002BJNE000704116)
 
 (Fundstelle: BGBl. I 2011, 2728 - 2731;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

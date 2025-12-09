@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung durch Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000100311)
 
 (1) Die Deutsche Genossenschaftsbank, Körperschaft des öffentlichen
 Rechts, ist mit Wirkung zum 1. Januar 1998 in eine Aktiengesellschaft
@@ -44,6 +45,7 @@ anzuwenden.
 
 
 ## § 2 Wirkungen der Umwandlung für die Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000200311)
 
 (1) Die Anteilsinhaber der Deutschen Genossenschaftsbank übernehmen
 das Grundkapital der Aktiengesellschaft im Verhältnis ihrer bisherigen
@@ -58,12 +60,14 @@ auf die Aktiengesellschaft über.
 
 
 ## § 3 Aktien
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000300311)
 
 Die Aktien der Aktiengesellschaft lauten vorbehaltlich künftiger
 Satzungsänderungen auf den Namen.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000400311)
 
 Die Satzung der Aktiengesellschaft wird im Anhang 2 zu diesem Gesetz
 festgestellt. Sie kann nach Maßgabe des Aktiengesetzes geändert
@@ -71,6 +75,7 @@ werden.
 
 
 ## § 5 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000500311)
 
 Die Aktiengesellschaft dient als Zentralkreditinstitut der Förderung
 des gesamten Genossenschaftswesens; hierzu gehört insbesondere die
@@ -80,6 +85,7 @@ Satzungsänderung aufgehoben werden.
 
 
 ## § 6 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000600311)
 
 Die Vorstandsmitglieder der Deutschen Genossenschaftsbank gelten bis
 zum Ablauf der Amtszeit, für die sie berufen sind, als bestellt im
@@ -88,6 +94,7 @@ Aktiengesetzes ist zulässig.
 
 
 ## § 7 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000700311)
 
 (1) Mitglieder des ersten Aufsichtsrats der Aktiengesellschaft sind
 die Mitglieder des Verwaltungsrats der Deutschen Genossenschaftsbank.
@@ -100,6 +107,7 @@ Anwendung.
 
 
 ## § 8 Erste Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000800311)
 
 Der Vorstand beruft die erste Hauptversammlung innerhalb von drei
 Monaten nach Inkrafttreten dieses Gesetzes ein. Diese Hauptversammlung
@@ -109,6 +117,7 @@ nach dem Mitbestimmungsgesetz zu wählen sind.
 
 
 ## § 9 Ausgabe gedeckter Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE000902128)
 
 (1) Die Aktiengesellschaft kann gedeckte Schuldverschreibungen bis zum
 Fünfzehnfachen des haftenden Eigenkapitals nach Maßgabe der folgenden
@@ -159,6 +168,7 @@ gedeckten Schuldverschreibungen gewähren.
 
 
 ## § 10 Erlöschen des Emissionsrechts nach § 9
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001000311)
 
 (1) Das Recht zur Ausgabe von gedeckten Schuldverschreibungen
 erlischt, wenn der Anteil der Genossenschaften, genossenschaftlichen
@@ -181,6 +191,7 @@ Bundesanzeiger bekanntzumachen.
 
 
 ## § 11 Zwangsvollstreckung und Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001102377)
 
 (1) Auf Arreste und Zwangsvollstreckungen in die in das
 Deckungsregister nach § 9 Abs. 4 eingetragenen Werte ist § 29 des
@@ -191,6 +202,7 @@ Pfandbriefgesetzes entsprechend anzuwenden.
 
 
 ## § 12 Anlagesicherheit, Deckungsstockfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001201377)
 
 (1) Soweit Unternehmen nach Gesetz oder Satzung Geld in mündelsicheren
 Werten anzulegen haben, stehen gedeckte Schuldverschreibungen der
@@ -209,6 +221,7 @@ Genossenschaftsbank betreffen, gelten auch für die Aktiengesellschaft.
 
 
 ## § 13 Übergangsregelung für gedeckte Schuldverschreibungen, Gewährleistungen der Deutschen Genossenschaftsbank sowie ihr gewährte Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001300311)
 
 (1) Die von der Deutschen Genossenschaftsbank begebenen gedeckten
 Schuldverschreibungen gelten als gedeckte Schuldverschreibungen der
@@ -223,6 +236,7 @@ solchen Körperschaft.
 
 
 ## § 14 Übergangsregelungen für betriebliche Interessenvertretung sowie für ehemalige Beamte
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001400311)
 
 (1) Die Aufgaben der Betriebsräte in den Betrieben und Betriebsteilen
 der Aktiengesellschaft nehmen die bisherigen örtlichen Personalräte,
@@ -257,12 +271,14 @@ der Deutschen Genossenschaftsbank bestanden haben.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001500311)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 Anteilseigner der DG BANK
 
 ## Anhang 1 (Stand 31. Dezember 1997)
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001600311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2106 - 2113
 
@@ -3626,6 +3642,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2106 - 2113
 
 
 ## Anhang 2 Satzung DG Bank AG
+[Direktlink](https://www.gesetze-im-internet.de/dgbankumwg/BJNR210200998.html#BJNR210200998BJNE001700311)
 
 (Text siehe: DGBankSa)
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Die Approbation als Zahnarzt
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNG000101307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE000605301)
 
 (1) Wer im Geltungsbereich dieses Gesetzes die Zahnheilkunde dauernd
 ausüben will, bedarf einer Approbation als Zahnarzt nach Maßgabe
@@ -88,6 +90,7 @@ Zahnheilkunde unter der Berufsbezeichnung „Zahnarzt“ oder
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE000715116)
 
 (1) Die Approbation als Zahnarzt ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -426,6 +429,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE000809116)
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 mit Zustimmung des Bundesrates in einer Approbationsordnung für
@@ -461,6 +465,7 @@ Fristenregelungen vorsehen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE000908310)
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die
 zahnärztliche Prüfung nicht bestanden oder bei einer vor Wirksamwerden
@@ -492,6 +497,7 @@ Abs. 1 Satz 1 Nr. 3 weggefallen ist.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001003301)
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -526,11 +532,13 @@ Beruf nicht ausüben.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001102307)
 
 (weggefallen)
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001201307)
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
@@ -538,6 +546,7 @@ Bedingung erklärt wird, ist unwirksam.
 
 
 ### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001301307)
 
 Bei einer Person, deren Approbation wegen Fehlens oder späteren
 Wegfalls einer der Voraussetzungen des § 2 Abs. 1 Satz 1 Nr. 2 und 3
@@ -550,6 +559,7 @@ Jahren erteilt werden.
 
 
 ### § 7b
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE003600116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -652,10 +662,12 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## II. - Eingliederung der Dentisten
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNG000201307)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001402320)
 
 (1) Wer bei Inkrafttreten dieses Gesetzes die staatliche Anerkennung
 als Dentist besitzt, erhält die Approbation als Zahnarzt, wenn er an
@@ -672,6 +684,7 @@ Fortbildungskursus erteilt werden kann.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001501307)
 
 (1) Dentistenassistenten, die bei Inkrafttreten dieses Gesetzes ein
 zugelassenes Lehrinstitut für Dentisten besuchen oder die
@@ -685,6 +698,7 @@ verlängert werden.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001604310)
 
 (1) Anwärter des Dentistenberufs, die bei Inkrafttreten dieses
 Gesetzes die ordnungsmäßige Ausbildung begonnen haben, erhalten die
@@ -698,6 +712,7 @@ mit Zustimmung des Bundesrates durch Rechtsverordnung.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001702310)
 
 Die Approbation als Zahnarzt darf in den Fällen der §§ 8 bis 10 nur
 erteilt werden, wenn der Bewerber das 25. Lebensjahr vollendet hat und
@@ -705,6 +720,7 @@ kein Versagungsgrund nach § 2 Abs. 1 Satz 1 Nr. 2 und 3 vorliegt.
 
 
 ### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001801307)
 
 Die §§ 8 bis 11 sind nur noch auf Anträge von Personen anwendbar, die
 alle in diesen Vorschriften vorgesehenen besonderen Voraussetzungen
@@ -713,15 +729,18 @@ erfüllt hatten.
 
 
 ## III. - Sonderbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNG000301307)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE001901307)
 
 (weggefallen)
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002010116)
 
 (1) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde kann
 auf Antrag Personen erteilt werden, die eine abgeschlossene
@@ -797,6 +816,7 @@ Zahnarztes.
 
 
 ### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002107116)
 
 (1) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder
 eines anderen Vertragsstaates des Abkommens über den Europäischen
@@ -928,6 +948,7 @@ darüber auszustellen, daß
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002201307)
 
 Für die Ausübung der Zahnheilkunde in Grenzgebieten durch Zahnärzte,
 die im Geltungsbereich dieses Gesetzes keine Niederlassung haben,
@@ -935,6 +956,7 @@ gelten die hierfür abgeschlossenen zwischenstaatlichen Verträge.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002301307)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Entgelte für zahnärztliche Tätigkeit in
@@ -945,10 +967,12 @@ der zur Zahlung der Entgelte Verpflichteten Rechnung zu tragen.
 
 
 ## IV. - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNG000401307)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002411116)
 
 (1) Die Approbation erteilt in den Fällen des § 2 Abs. 1 Satz 1 die
 zuständige Behörde des Landes, in dem der Antragsteller die
@@ -1008,6 +1032,7 @@ Monaten zu erfolgen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002505116)
 
 Das Bundesministerium für Gesundheit erlässt im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -1016,10 +1041,12 @@ erforderlichen Bestimmungen.
 
 
 ## V. - Straf-, Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNG000501307)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002602310)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft,
@@ -1037,6 +1064,7 @@ bestraft,
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002701307)
 
 Wer vor dem Inkrafttreten dieses Gesetzes die Zahnheilkunde ausgeübt
 hat, ohne im Besitz einer Bestallung als Arzt oder Zahnarzt zu sein,
@@ -1045,6 +1073,7 @@ entsprechend anzuwenden.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002802307)
 
 (1) Eine Approbation oder Bestallung, die beim Wirksamwerden des
 Beitritts im bisherigen Geltungsbereich dieses Gesetzes zur Ausübung
@@ -1103,6 +1132,7 @@ und sich die zahnärztliche Prüfung auf dieses Fach zu erstrecken hat.
 
 
 ### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE002909116)
 
 (1) Antragstellern, die die Voraussetzungen des § 2 Absatz 1 Satz 1
 Nummer 2, 3 und 5 erfüllen und eine Approbation als Zahnarzt auf Grund
@@ -1266,6 +1296,7 @@ bis 9 gilt entsprechend.
 
 
 ### § 21 Inkrafttreten der Approbationsordnung für Zahnärzte und Zahnärztinnen und Außerkrafttreten der Approbationsordnung für Zahnärzte, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE003003116)
 
 (1) Die Approbationsordnung für Zahnärzte und Zahnärztinnen vom 8.
 Juli 2019 (BGBl. I S. 933) tritt am 1. Oktober 2020 in Kraft.
@@ -1284,11 +1315,13 @@ und Zahnärztinnen anzuwenden.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE003101307)
 
 (vollzogene Änderungsvorschrift)
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE003201307)
 
 Alle entgegenstehenden Vorschriften, insbesondere die §§ 29, 40, 53,
 54 und 147 der Gewerbeordnung treten insoweit außer Kraft, als sie
@@ -1296,11 +1329,13 @@ sich auf Zahnärzte und Dentisten beziehen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE003301307)
 
 (Inkrafttreten)
 
 
 ### Anlage (zu § 2 Abs. 1 Satz 4)
+[Direktlink](https://www.gesetze-im-internet.de/zhg/BJNR002210952.html#BJNR002210952BJNE003407360)
 
 (Fundstelle: BGBl. I 2007, 2950 - 2953; bzgl. einzelner Änderungen
 vgl. Fußnote)

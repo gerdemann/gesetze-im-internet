@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Enteignung zur Sicherung der Finanzmarktstabilität
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000201123)
 
 (1) Zur Sicherung der Finanzmarktstabilität können Enteignungen nach
 Maßgabe dieses Gesetzes vorgenommen werden.
@@ -120,6 +121,7 @@ nachrangig gegenüber anderen Mitteln.
 
 
 ## § 2 Enteignungsakt
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000302123)
 
 (1) Die Enteignung erfolgt durch Erlass einer Rechtsverordnung der
 Bundesregierung ohne Zustimmung des Bundesrates. Die Rechtsverordnung
@@ -173,6 +175,7 @@ unberührt.
 
 
 ## § 3 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000401140)
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das
 Bundesministerium der Finanzen als Enteignungsbehörde.
@@ -197,6 +200,7 @@ verbunden wäre oder den Zweck der Enteignung gefährden würde.
 
 
 ## § 4 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000501116)
 
 (1) Für die Enteignung ist eine Entschädigung zu leisten. Eine
 Entschädigung kann verlangen, wer in seinem Recht durch die Enteignung
@@ -268,6 +272,7 @@ Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem
 
 
 ## § 5 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000600000)
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten
 Rechtszug auf Antrag über die Gültigkeit von Rechtsverordnungen nach §
@@ -326,6 +331,7 @@ Entschädigung.
 
 
 ## § 6 Befristung und Reprivatisierung
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000701123)
 
 (1) Eine Entscheidung nach § 3 Absatz 2 Satz 1 kann nur bis zum 30.
 Juni 2009 getroffen werden. Die Rechtsverordnung nach § 2 Absatz 1
@@ -356,6 +362,7 @@ Bundesministerium der Finanzen zu unterrichten.
 
 
 ## § 7 Rechte des Gremiums nach § 10a des Stabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000801123)
 
 (1) Das Gremium nach § 10a des Stabilisierungsfondsgesetzes wird vom
 Bundesministerium der Finanzen über alle nach diesem Gesetz
@@ -372,6 +379,7 @@ unberührt.
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rettungsg/BJNR072900009.html#BJNR072900009BJNE000900000)
 
 Die Bundesregierung kann durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über

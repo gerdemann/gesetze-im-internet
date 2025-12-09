@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000100000)
 
 Auf Grund des § 3 Abs. 3 des Halbleiterschutzgesetzes vom 22. Oktober
 1987 (BGBl. I S. 2294), der durch Artikel 2 Abs. 15 des Gesetzes vom
@@ -30,10 +31,12 @@ I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000300000)
 
 Für die Anmeldung einer Topografie gelten ergänzend zu den
 Bestimmungen des Halbleiterschutzgesetzes und der DPMA-Verordnung die
@@ -41,10 +44,12 @@ Bestimmungen dieser Verordnung.
 
 
 ## Abschnitt 2 - Anmeldung einer Topografie
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNG000200000)
 
 
 
 ### § 2 Form der Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000401360)
 
 (1) Die Anmeldung der Topografie ist beim Deutschen Patent- und
 Markenamt schriftlich einzureichen.
@@ -55,6 +60,7 @@ herausgegebenen Formblatts eingereicht werden.
 
 
 ### § 3 Anmeldung der Topografie
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000503360)
 
 (1) Die Anmeldung muss zur Wahrung des Anmeldetages enthalten:
 
@@ -172,6 +178,7 @@ Halbleiterschutzgesetzes).
 
 
 ### § 4 Unterlagen zur Identifizierung oder Veranschaulichung
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000600000)
 
 (1) Zur Identifizierung oder Veranschaulichung der Topografie sind
 folgende Unterlagen einzureichen:
@@ -197,6 +204,7 @@ Beschreibung eingereicht werden.
 
 
 ### § 5 Betriebs- oder Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000700000)
 
 Werden Unterlagen als Betriebs- oder Geschäftsgeheimnisse
 gekennzeichnet, so sind die gekennzeichneten Teile in der Anmeldung
@@ -210,6 +218,7 @@ gehalten.
 
 
 ### § 6 Fremdsprachige Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000801360)
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
 einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
@@ -242,10 +251,12 @@ eingegangen.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNG000300000)
 
 
 
 ### § 7 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE000900000)
 
 Für Anmeldungen einer Topografie, die vor Inkrafttreten dieser
 Verordnung eingereicht worden sind, gelten die Vorschriften der
@@ -255,6 +266,7 @@ I S. 1827).
 
 
 ### § 8 Übergangsregelung für künftige Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE001000000)
 
 Für Anmeldungen einer Topografie, die vor Inkrafttreten von Änderungen
 dieser Verordnung eingereicht worden sind, gelten die Vorschriften
@@ -262,6 +274,7 @@ dieser Verordnung in ihrer bis dahin geltenden Fassung.
 
 
 ### § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/halblschv/BJNR089400004.html#BJNR089400004BJNE001100000)
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.
 

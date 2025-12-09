@@ -30,6 +30,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000100000)
 
 Auf Grund des § 6 Abs. 3 des Gesetzes über die elektromagnetische
 Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S.
@@ -37,6 +38,7 @@ Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000300000)
 
 Diese Verordnung regelt die Durchführung besonderer Maßnahmen der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
@@ -54,6 +56,7 @@ vor elektromagnetischen Störungen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000401119)
 
 Im Sinne dieser Verordnung
 
@@ -79,6 +82,7 @@ Im Sinne dieser Verordnung
 
 
 ## § 3 Schutz von zu Sicherheitszwecken betriebenen Sende- und Empfangsfunkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000500000)
 
 (1) Störaussendungen aus leitergebundenen Telekommunikationsanlagen
 und -netzen dürfen in den zu schützenden Frequenzbereichen nach Anlage
@@ -125,6 +129,7 @@ Untersuchungen durchführen.
 
 
 ## § 4 Schutz öffentlicher Telekommunikationsnetze
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000600000)
 
 Im Falle von elektromagnetischen Störungen öffentlicher
 Telekommunikationsnetze durch leitergebundene
@@ -135,6 +140,7 @@ entsprechend.
 
 
 ## § 5 Schutz von Flugfunk-Frequenzen
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000700000)
 
 (1) Leitergebundene Übertragungen analoger Signale (Rundfunksignale)
 sind in den Frequenzbereichen
@@ -168,12 +174,14 @@ Grenzwertverschärfung nach Anlage 2 Nr. 7 aufheben.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 3 Abs. 1)
 
 ## Anlage 1 Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE001000000)
 
 (Fundstelle: BGBl. I 2009, 1062)
 
@@ -501,6 +509,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 3 Abs. 1)
 
 ## Anlage 2 Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE001100000)
 
 (Fundstelle: BGBl. I 2009, 1063)
 
@@ -634,6 +643,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 3 Abs. 1)
 
 ## Anlage 3 Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
+[Direktlink](https://www.gesetze-im-internet.de/schutsev/BJNR106000009.html#BJNR106000009BJNE001200000)
 
 **Inhalt**
 

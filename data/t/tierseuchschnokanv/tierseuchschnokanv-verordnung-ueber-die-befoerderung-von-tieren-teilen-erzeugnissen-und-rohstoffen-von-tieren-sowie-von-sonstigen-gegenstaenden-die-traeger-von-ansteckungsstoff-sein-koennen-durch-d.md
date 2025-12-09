@@ -25,6 +25,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000101301)
 
 (1) Diese Verordnung gilt für die Durchfahrt von Seeschiffen mit
 
@@ -52,6 +53,7 @@ und Flemhuder Sees.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000200326)
 
 (1) Lebende Klauentiere, Einhufer, Hasen, Kaninchen, Hunde,
 Hauskatzen, Affen, Halbaffen, lebendes Geflügel, lebende Papageien und
@@ -79,6 +81,7 @@ Reisenden gehalten werden, an Bord des Schiffes mitgeführt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000300326)
 
 (1) Von den in § 2 Abs. 1 Satz 1 genannten Tieren stammende Teile,
 Erzeugnisse und Rohstoffe, Rauhfutter, Stroh sowie Gegenstände jeder
@@ -103,6 +106,7 @@ verbracht werden.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000401308)
 
 (1) Die mit Wartung von Tieren betrauten Personen müssen vor dem
 Verlassen des Schiffes Arbeitskleidung und -schuhe wechseln. Alle
@@ -118,6 +122,7 @@ Satz 2 bereitzustellen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000500326)
 
 Die zuständige oberste Landesbehörde kann Ausnahmen von den
 Vorschriften dieser Verordnung zulassen, wenn auf andere Weise
@@ -126,6 +131,7 @@ weiterverbreitet werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000602301)
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -169,6 +175,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschnokanv/BJNR006050973.html#BJNR006050973BJNE000701308)
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 

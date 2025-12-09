@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-334 v. 20.1.2005 I 121, 925 (BinSchAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -36,9 +37,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Binnenschiffers und
 der Binnenschifferin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -46,11 +49,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -71,6 +76,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -174,6 +180,7 @@ weitere Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -181,9 +188,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -199,6 +208,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -215,6 +225,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Betrieb von
 Binnenschiffen und Sicherheit auf Binnenschiffen“ statt.
@@ -293,6 +304,7 @@ Minuten.
 
 
 ### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -314,6 +326,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -339,6 +352,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich „Störungsanalyse und Instandsetzung“
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001300000)
 
 (1) Im Prüfungsbereich „Störungsanalyse und Instandsetzung“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -413,6 +427,7 @@ Bearbeitung der Aufgaben beträgt sie 90 Minuten.
 
 
 ### § 12 Prüfungsbereich „Schwerpunkt Frachtschifffahrt“
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001400000)
 
 (1) Im Prüfungsbereich „Schwerpunkt Frachtschifffahrt“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -456,6 +471,7 @@ beträgt sie 60 Minuten.
 
 
 ### § 13 Prüfungsbereich „Schwerpunkt Personenschifffahrt“
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001500000)
 
 (1) Im Prüfungsbereich „Schwerpunkt Personenschifffahrt“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -497,6 +513,7 @@ beträgt sie 60 Minuten.
 
 
 ### § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001600000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -510,6 +527,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -567,6 +585,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -596,9 +615,11 @@ gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNG000300000)
 
 
 ### § 17 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE001900000)
 
 Berufsausbildungsverhältnisse, die am 1. August 2022 bestehen, können
 nach den Vorschriften dieser Verordnung unter Anrechnung der bisher
@@ -617,6 +638,7 @@ absolvierten Ausbildungszeit fortgesetzt werden, wenn
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Binnenschiffer/zur
@@ -626,6 +648,7 @@ Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschiffer und zur Binnenschifferin
+[Direktlink](https://www.gesetze-im-internet.de/binschausbv_2022/BJNR025700022.html#BJNR025700022BJNE002100000)
 
 (Fundstelle: BGBl. I 2022, 262 - 270)
 

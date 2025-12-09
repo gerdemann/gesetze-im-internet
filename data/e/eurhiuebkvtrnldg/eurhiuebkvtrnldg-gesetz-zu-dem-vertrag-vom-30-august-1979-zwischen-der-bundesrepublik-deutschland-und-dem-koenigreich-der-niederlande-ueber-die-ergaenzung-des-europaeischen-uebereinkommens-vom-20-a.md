@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000100304)
 
 Dem in Wittem am 30. August 1979 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Königreich der Niederlande über die
@@ -30,11 +31,13 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000201306)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000300304)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels VII des Vertrags
@@ -42,6 +45,7 @@ eingeschränkt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000400304)
 
 Rechtshilfeersuchen niederländischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
@@ -53,6 +57,7 @@ Zuwiderhandlung zuständig wäre, die Vornahme der Rechtshilfehandlung
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000500304)
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels IX Abs. 7 des Vertrags nur insoweit befugt, als sie nach
@@ -61,12 +66,14 @@ können.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000600304)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtrnldg/BJNR211580981.html#BJNR211580981BJNE000701306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 3 bis 5 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 3 bis 5 treten zusammen mit

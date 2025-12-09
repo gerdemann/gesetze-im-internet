@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die V tritt gem. § 4 mWv 1.11.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsgabsentgv/BJNR496200021.html#BJNR496200021BJNE000100000)
 
 Auf Grund des § 23 Absatz 1 Nummer 3 und Absatz 2 Nummer 4 des
 Reisesicherungsfondsgesetzes vom 25. Juni 2021 (BGBl. I S. 2114, 3141)
@@ -28,6 +29,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Höhe des Entgelts
+[Direktlink](https://www.gesetze-im-internet.de/rsgabsentgv/BJNR496200021.html#BJNR496200021BJNE000200000)
 
 (1) Das vom Reisesicherungsfonds nach § 22 Absatz 4 des
 Reisesicherungsfondsgesetzes zu zahlende Entgelt richtet sich nach der
@@ -108,6 +110,7 @@ vom vierten bis zum sechsten Erhebungszeitraum 2 Prozent.
 
 
 ## § 2 Auskunftsverlangen der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsgabsentgv/BJNR496200021.html#BJNR496200021BJNE000300000)
 
 (1) Die Aufsichtsbehörde kann verlangen, dass der Reisesicherungsfonds
 
@@ -128,6 +131,7 @@ Zukunft.
 
 
 ## § 3 Erhebung des Entgelts
+[Direktlink](https://www.gesetze-im-internet.de/rsgabsentgv/BJNR496200021.html#BJNR496200021BJNE000400000)
 
 (1) Das Entgelt wird von der Aufsichtsbehörde für jeden
 Erhebungszeitraum (§ 1 Absatz 5 Satz 1 und 2) innerhalb eines Monats
@@ -148,6 +152,7 @@ betreffend diesen Erhebungszeitraum nicht anzuwenden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rsgabsentgv/BJNR496200021.html#BJNR496200021BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und mit
 Ablauf des 31. Oktober 2027 außer Kraft.

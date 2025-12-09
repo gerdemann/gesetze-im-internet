@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriff des Hofes
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000103119)
 
 (1) Hof im Sinne dieses Gesetzes ist eine im Gebiet der Länder
 Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein
@@ -78,6 +79,7 @@ Landwirtschaftsgericht ein.
 
 
 ## § 2 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000200328)
 
 Zum Hof gehören:
 
@@ -101,6 +103,7 @@ b)  Mitgliedschaftsrechte, Nutzungsrechte und ähnliche Rechte, die dem Hof
 
 
 ## § 3 Hofeszubehör
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000300328)
 
 Zum Hof gehört auch das Hofeszubehör. Es umfaßt insbesondere das auf
 dem Hof für die Bewirtschaftung vorhandene Vieh, Wirtschafts- und
@@ -110,6 +113,7 @@ Erzeugnissen und Betriebsmittel.
 
 
 ## § 4 Erbfolge in einen Hof
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000400328)
 
 Der Hof fällt als Teil der Erbschaft kraft Gesetzes nur einem der
 Erben (dem Hoferben) zu. An seine Stelle tritt im Verhältnis der
@@ -117,6 +121,7 @@ Miterben untereinander der Hofeswert.
 
 
 ## § 5 Gesetzliche Hoferbenordnung
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000501308)
 
 Wenn der Erblasser keine andere Bestimmung trifft, sind als Hoferben
 kraft Gesetzes in folgender Ordnung berufen:
@@ -138,6 +143,7 @@ kraft Gesetzes in folgender Ordnung berufen:
 
 
 ## § 6 Einzelheiten zur Hoferbenordnung
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000600328)
 
 (1) In der ersten Hoferbenordnung ist als Hoferbe berufen:
 
@@ -208,6 +214,7 @@ zu bewirtschaften.
 
 
 ## § 7 Bestimmung des Hoferben durch den Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000700328)
 
 (1) Der Eigentümer kann den Hoferben durch Verfügung von Todes wegen
 frei bestimmen oder ihm den Hof im Wege der vorweggenommenen Erbfolge
@@ -233,6 +240,7 @@ verfügen, wird durch Satz 1 und 2 nicht beschränkt.
 
 
 ## § 8 Der Hoferbe beim Ehegattenhof
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000800328)
 
 (1) Bei einem Ehegattenhof fällt der Anteil des Erblassers dem
 überlebenden Ehegatten als Hoferben zu.
@@ -255,6 +263,7 @@ das Recht, eine solche Bestimmung zu treffen, unberührt.
 
 
 ## § 9 Vererbung mehrerer Höfe
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE000900328)
 
 (1) Hinterläßt der Erblasser mehrere Höfe, so können die als Hoferben
 berufenen Abkömmlinge in der Reihenfolge ihrer Berufung je einen Hof
@@ -281,6 +290,7 @@ zufallenden Hof rückwirkend vom Tode des Erblassers an.
 
 
 ## § 10 Vererbung nach allgemeinem Recht
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001000328)
 
 Der Hof vererbt sich nach den Vorschriften des allgemeinen Rechts,
 wenn nach den Vorschriften dieses Gesetzes kein Hoferbe vorhanden oder
@@ -288,6 +298,7 @@ wirksam bestimmt ist.
 
 
 ## § 11 Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001100328)
 
 Der Hoferbe kann den Anfall des Hofes durch Erklärung gegenüber dem
 Gericht ausschlagen, ohne die Erbschaft in das übrige Vermögen
@@ -297,6 +308,7 @@ entsprechende Anwendung.
 
 
 ## § 12 Abfindung der Miterben nach dem Erbfall
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001202119)
 
 (1) Den Miterben, die nicht Hoferben geworden sind, steht
 vorbehaltlich anderweitiger Regelung durch Übergabevertrag oder
@@ -370,6 +382,7 @@ und 3 des Bürgerlichen Gesetzbuchs) verlangt.
 
 
 ## § 13 Ergänzung der Abfindung wegen Wegfalls des höferechtlichen Zwecks
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001300328)
 
 (1) Veräußert der Hoferbe innerhalb von zwanzig Jahren nach dem
 Erbfall den Hof, so können die nach § 12 Berechtigten unter Anrechnung
@@ -470,6 +483,7 @@ zu erteilen.
 
 
 ## § 14 Stellung des überlebenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001400328)
 
 (1) Dem überlebenden Ehegatten des Erblassers steht, wenn der Hoferbe
 ein Abkömmling des Erblassers ist, bis zur Vollendung des
@@ -513,6 +527,7 @@ mit dem Übergang des Hofes zusammenhängenden Fragen.
 
 
 ## § 15 Nachlaßverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001500328)
 
 (1) Der Hoferbe haftet, auch wenn er an dem übrigen Nachlaß nicht als
 Miterbe beteiligt ist, für die Nachlaßverbindlichkeiten als
@@ -542,6 +557,7 @@ Hofeswerten getragen.
 
 
 ## § 16 Verfügung von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001600328)
 
 (1) Der Eigentümer kann die Erbfolge kraft Höferechts (§ 4) durch
 Verfügung von Todes wegen nicht ausschließen. Er kann sie jedoch
@@ -560,6 +576,7 @@ bestimmten Wert anzusetzen.
 
 
 ## § 17 Übergabevertrag
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001700328)
 
 (1) Bei der Übergabe des Hofes an den Hoferben im Wege der
 vorweggenommenen Hoferbfolge finden die Vorschriften des § 16
@@ -575,6 +592,7 @@ Genehmigung erforderlich ist, wird sie durch das Gericht erteilt.
 
 
 ## § 18 Zuständigkeit der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001801360)
 
 (1) Für die Entscheidung über alle Anträge und Streitigkeiten, die
 sich bei Anwendung der Höfeordnung ergeben, sowie aus Abmachungen der
@@ -595,6 +613,7 @@ Hoferbfolge zu bescheinigen.
 
 
 ## § 19 Geltung für Lebenspartner; Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/h_feo/BJNR700330947.html#BJNR700330947BJNE001901119)
 
 (1) Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten
 entsprechend für Lebenspartner. Eine land- oder forstwirtschaftliche

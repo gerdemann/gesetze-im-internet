@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000100000)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1, Abs. 3 Satz 2, Abs. 4 Nr. 1
 und Abs. 3 Satz 3 des Luftverkehrsgesetzes in der Fassung der
@@ -29,6 +30,7 @@ Bundesamt:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000200000)
 
 (1) Diese Verordnung gilt für den Betrieb von Zivilflugzeugen zum
 gewerbsmäßigen Transport von Personen und Sachen durch
@@ -45,6 +47,7 @@ Begriffsbestimmungen der OPS 1.1095.
 
 
 ## § 2 Notfallausrüstung \*% (zu OPS 1.005 Abs. b und § 19 Abs. 2 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000300000)
 
 (1) Der Brandschutz in den Fluggast-, Fracht- und Besatzungsräumen
 muss dem Stand der Technik entsprechen. Die Aufsichtsbehörde kann
@@ -61,6 +64,7 @@ Betriebes gewährleistet ist.
 
 
 ## § 3 Unfallverhütung und Flugsicherheitsprogramm \*% (zu OPS 1.035 und 1.037)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000400000)
 
 (1) Bis zum 1. Januar 2009 muss der Luftfahrtunternehmer ein den
 Anforderungen der Aufsichtsbehörde entsprechendes
@@ -150,6 +154,7 @@ beschrieben werden.
 
 
 ## § 4 Zutritt zum Führerraum \*% (zu OPS 1.100 Abs. a Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000500000)
 
 (1) Das Betriebshandbuch hat hinsichtlich des Zutritts von Personen
 zum Führerraum festzulegen, dass Personen gemäß OPS 1.100 Abs. a Nr. 3
@@ -172,6 +177,7 @@ werden.
 
 
 ## § 5 Mindestsichten für den Flugbetrieb nach Sichtflugregeln \*% (zu Anhang 1 zu OPS 1.465)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000600000)
 
 In der Bundesrepublik Deutschland dürfen Flugzeuge der Kategorien A
 und B gemäß Anlage 2 zu OPS 1.430 Buchstabe c in Lufträumen der
@@ -181,6 +187,7 @@ werden, vorausgesetzt die angezeigte Fluggeschwindigkeit (IAS) beträgt
 
 
 ## § 6 Rückhaltesysteme für Kleinkinder \*% (zu OPS 1.730)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000700000)
 
 Das Luftfahrt-Bundesamt prüft, ob Rückhaltesysteme zur Sicherung von
 Kleinkindern so gestaltet sind, dass sie die Anforderungen nach OPS
@@ -189,6 +196,7 @@ gewährleisten.
 
 
 ## § 7 Instandhaltungsbestimmungen für Luftfahrtunternehmen mit einer Betriebsgenehmigung für gewerbsmäßige Rundflüge \*% (zu OPS 1.875)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000800000)
 
 Für Luftfahrtunternehmen, die nach § 20 Abs. 1 Nr. 1 des
 Luftverkehrsgesetzes eine Betriebsgenehmigung für gewerbsmäßige
@@ -202,6 +210,7 @@ Zulassungen und die Anhänge I und III (ABl. EU Nr. L 122 vom 9. Mai
 
 
 ## § 8 Flug- und Dienstzeit-Begrenzung \*% (zu OPS 1.1100)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE000900000)
 
 (1) Die höchstzulässige kalenderjährliche Dienstzeit beträgt 2.000
 Stunden. Bei nicht ganzjähriger Beschäftigung ist die höchstzulässige
@@ -227,6 +236,7 @@ Anzahl der Ortstage anteilig gekürzt werden.
 
 
 ## § 9 Höchstzulässige ununterbrochene Dienstzeit \*% (zu OPS 1.1105)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001000000)
 
 (1) Folgende Dienstzeiten dürfen in ihrer Summe die zu Beginn der
 Dienstzeit höchstzulässige Flugdienstzeit nach OPS 1.1105 oder die
@@ -285,6 +295,7 @@ ausschließlich aus einer Positionierung bestehen.
 
 
 ## § 10 Höchstzulässige tägliche Flugdienstzeit für den Flugbetrieb mit nur einem Piloten und für medizinische Notfalleinsätze \*% (zu OPS 1.1105)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001100000)
 
 (1) Für den Flugbetrieb mit nur einem Piloten und für medizinische
 Notfalleinsätze gelten die Bestimmungen gemäß OPS 1.1105 entsprechend.
@@ -296,6 +307,7 @@ diesem Fall ausgeschlossen.
 
 
 ## § 11 Unterbrochene Flugdienstzeit \*% (zu OPS 1.1105)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001200000)
 
 (1) Wird die Flugdienstzeit nach OPS 1.1105 oder § 10 planmäßig durch
 eine Pause am Boden von mindestens drei Stunden unterbrochen und steht
@@ -328,6 +340,7 @@ folgende Maßgaben:
 
 
 ## § 12 Ruhezeit - Berücksichtigung von Zeitzonenunterschieden \*% (zu OPS 1.1110 Nr. 1.3)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001300000)
 
 Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der
 Beendigung des Flugdienstes (Einsatzorte) ein Zeitzonenunterschied von
@@ -348,6 +361,7 @@ entsprechend.
 
 
 ## § 13 Verkürzte Ruhezeiten in besonderen Fällen \*% (zu OPS 1.1110 Nr. 1.4.1 und 2.1)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001400000)
 
 (1) Die Aufsichtsbehörde kann auf schriftlichen Antrag Abweichungen
 von den Vorschriften von § 12 sowie gemäß OPS 1.1110 Nr. 1.4.1
@@ -402,6 +416,7 @@ für die Sicherheit des Luftverkehrs ausgeschlossen ist.
 
 
 ## § 14 Verlängerung der Flugdienstzeit aufgrund einer Ruhezeit während des Flugs \*% (zu OPS 1.1115)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001500000)
 
 (1) Die Aufsichtsbehörde kann auf schriftlichen Antrag eine zweimalige
 Verlängerung der Flugdienstzeit nach OPS 1.1105 Nr. 1.3 oder § 10 bis
@@ -436,6 +451,7 @@ gilt § 13 Abs. 3 und 4 entsprechend.
 
 
 ## § 15 Bereitschaft \*% (zu OPS 1.1125)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001600000)
 
 (1) Bereitschaftszeit ist als Flugdienstzeit anzurechnen, wenn
 Bereitschaftszeit und Flugdienstzeit nicht durch eine Ruhezeit nach
@@ -465,6 +481,7 @@ Bereitschaftszeit vor einer Ruhezeit.
 
 
 ## § 16 Schulungsprogramme \*% (zu OPS 1.1240)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001700000)
 
 Die zuständige Behörde genehmigt auf Antrag ein Schulungsprogramm für
 die Luftsicherheit. Das Programm für die Besatzungsmitglieder muss
@@ -506,6 +523,7 @@ mindestens folgende Inhalte umfassen:
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_1_2008/BJNR508900008.html#BJNR508900008BJNE001800000)
 
 (1) Diese Verordnung tritt am 16. Juli 2008 in Kraft.
 

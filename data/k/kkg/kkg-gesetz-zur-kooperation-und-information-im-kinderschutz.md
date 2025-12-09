@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Kinderschutz und staatliche Mitverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/kkg/BJNR297510011.html#BJNR297510011BJNE000100000)
 
 (1) Ziel des Gesetzes ist es, das Wohl von Kindern und Jugendlichen zu
 schützen und ihre körperliche, geistige und seelische Entwicklung zu
@@ -59,6 +60,7 @@ Väter (Frühe Hilfen).
 
 
 ## § 2 Information der Eltern über Unterstützungsangebote in Fragen der Kindesentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/kkg/BJNR297510011.html#BJNR297510011BJNE000200000)
 
 (1) Eltern sowie werdende Mütter und Väter sollen über
 Leistungsangebote im örtlichen Einzugsbereich zur Beratung und Hilfe
@@ -74,6 +76,7 @@ trifft, bezieht sich die in Satz 1 geregelte Befugnis auf die
 
 
 ## § 3 Rahmenbedingungen für verbindliche Netzwerkstrukturen im Kinderschutz
+[Direktlink](https://www.gesetze-im-internet.de/kkg/BJNR297510011.html#BJNR297510011BJNE000304126)
 
 (1) In den Ländern werden insbesondere im Bereich Früher Hilfen
 flächendeckend verbindliche Strukturen der Zusammenarbeit der
@@ -121,6 +124,7 @@ Ländern schließt.
 
 
 ## § 4 Beratung und Übermittlung von Informationen durch Geheimnisträger bei Kindeswohlgefährdung
+[Direktlink](https://www.gesetze-im-internet.de/kkg/BJNR297510011.html#BJNR297510011BJNE000402126)
 
 (1) Werden
 
@@ -205,6 +209,7 @@ interkollegialen Austausch von Ärztinnen und Ärzten regeln.
 
 
 ## § 5 Mitteilungen an das Jugendamt
+[Direktlink](https://www.gesetze-im-internet.de/kkg/BJNR297510011.html#BJNR297510011BJNE000500377)
 
 (1) Werden in einem Strafverfahren gewichtige Anhaltspunkte für die
 Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt,

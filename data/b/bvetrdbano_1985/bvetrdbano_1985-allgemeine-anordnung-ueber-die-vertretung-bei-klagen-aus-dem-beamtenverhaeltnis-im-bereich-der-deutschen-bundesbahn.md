@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bvetrdbano_1985/BJNR006460985.html#BJNR006460985BJNE000100319)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) ordnen wir
@@ -45,11 +46,13 @@ Deutschen Bundesbahn in den Fällen der Nummer 1 Satz 1 und der Nummer
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bvetrdbano_1985/BJNR006460985.html#BJNR006460985BJNE000200319)
 
 Diese Anordnung tritt am 1. Mai 1985 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bvetrdbano_1985/BJNR006460985.html#BJNR006460985BJNE000300319)
 
 Deutsche Bundesbahn
 

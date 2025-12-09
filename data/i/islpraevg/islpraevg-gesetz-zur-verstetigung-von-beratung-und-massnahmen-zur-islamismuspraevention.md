@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Beratungsstelle Radikalisierung
+[Direktlink](https://www.gesetze-im-internet.de/islpr_vg/BJNR14C0B0024.html#BJNR14C0B0024BJNE000100000)
 
 Das Bundesamt für Migration und Flüchtlinge unterhält eine
 Beratungsstelle Radikalisierung als erste Anlaufstelle für Angehörige
@@ -28,6 +29,7 @@ zuständigen kooperierenden Beratungsstellen der Länder.
 
 
 ## § 2 Bundesweite Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/islpr_vg/BJNR14C0B0024.html#BJNR14C0B0024BJNE000200000)
 
 Das Bundesministerium des Innern und für Heimat und das Bundesamt für
 Migration und Flüchtlinge koordinieren einen bundesweiten Austausch

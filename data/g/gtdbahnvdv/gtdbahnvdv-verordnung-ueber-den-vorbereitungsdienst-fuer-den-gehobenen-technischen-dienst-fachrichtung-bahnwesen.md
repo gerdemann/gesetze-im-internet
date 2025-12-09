@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-7-23-1 v. 21.11.2002 I 4438 (LAP-gtDBahnwesenV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in
@@ -35,9 +36,11 @@ Infrastruktur:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst, Einstellungsvoraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000300000)
 
 (1) Der Vorbereitungsdienst für den gehobenen technischen Dienst –
 Fachrichtung Bahnwesen – ist eine einjährige berufspraktische
@@ -50,6 +53,7 @@ Bachelorabschluss oder einen gleichwertigen Abschluss.
 
 
 ### § 2 Ziele und Schwerpunkte
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000400000)
 
 (1) Die berufspraktische Studienzeit vermittelt Kenntnisse und
 Fähigkeiten, die für eine vielseitige Verwendung im gehobenen
@@ -89,6 +93,7 @@ verpflichtet.
 
 
 ### § 3 Einstellungsbehörde, Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000501311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das
 Eisenbahn-Bundesamt auf der Grundlage eines Auswahlverfahrens. In
@@ -150,6 +155,7 @@ gleichen Auswahlmaßstäbe angelegt werden.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000600000)
 
 (1) Menschen mit Behinderung werden auf ihren Antrag im
 Auswahlverfahren, bei Leistungstests sowie in der Abschlussprüfung
@@ -166,12 +172,14 @@ Prüfungsamt.
 
 
 ### § 5 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000700000)
 
 Erholungsurlaub wird in Absprache mit der Ausbildungsleiterin oder dem
 Ausbildungsleiter gewährt.
 
 
 ### § 6 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000800000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt
 bewertet:
@@ -347,9 +355,11 @@ Auf- oder Abrundung berechnet.
 
 
 ## Abschnitt 2 - Berufspraktische Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNG000200000)
 
 
 ### § 7 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE000900000)
 
 (1) Den Anwärterinnen und Anwärtern werden in Praktika und
 Lehrveranstaltungen die Fachkenntnisse und Fähigkeiten vermittelt, die
@@ -369,6 +379,7 @@ berufspraktischen Studienzeit ist das Eisenbahn-Bundesamt zuständig.
 
 
 ### § 8 Ausbildungsleitung, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001000000)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner
@@ -392,6 +403,7 @@ entlastet.
 
 
 ### § 9 Ausbildungsrahmenplan, Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001100000)
 
 (1) Das Eisenbahn-Bundesamt erstellt für jeden Ausbildungsschwerpunkt
 einen Ausbildungsrahmenplan, der insbesondere die Ausbildungsinhalte,
@@ -406,6 +418,7 @@ Abfolge und die Zeiträume der einzelnen Ausbildungsabschnitte.
 
 
 ### § 10 Dienstliche Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001200000)
 
 (1) Am Ende jedes Ausbildungsabschnitts von mindestens einem Monat
 Dauer erstellt die Ausbildungsleiterin oder der Ausbildungsleiter auf
@@ -432,6 +445,7 @@ Bewertung. Die Bewertung ist mit ihr oder ihm zu besprechen.
 
 
 ### § 11 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001300000)
 
 (1) Während der berufspraktischen Studienzeit sind drei Leistungstests
 durchzuführen, die mindestens eine Woche vorher anzukündigen sind. Ein
@@ -468,6 +482,7 @@ entscheidet.
 
 
 ### § 12 Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001400000)
 
 Über den Erfolg der berufspraktischen Studienzeit erstellt das
 Eisenbahn-Bundesamt ein zusammenfassendes Zeugnis, in dem die
@@ -478,15 +493,18 @@ Anwärter erhält eine Ausfertigung des Zeugnisses.
 
 
 ## Abschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNG000300000)
 
 
 ### § 13 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001500000)
 
 Die Laufbahnprüfung besteht aus einer schriftlichen und einer
 mündlichen Abschlussprüfung.
 
 
 ### § 14 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001600000)
 
 Das Eisenbahn-Bundesamt richtet ein Prüfungsamt ein, das die
 Laufbahnprüfung organisiert. Die oberste Dienstbehörde kann die
@@ -495,6 +513,7 @@ Organisation der Laufbahnprüfung einer anderen Bundesbehörde
 
 
 ### § 15 Prüfungskommission, Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001700000)
 
 (1) Für die Durchführung der Laufbahnprüfung richtet das Prüfungsamt
 eine oder mehrere Prüfungskommissionen ein. Für die schriftliche und
@@ -545,6 +564,7 @@ Erstprüfenden und eine Zweitprüfende oder einen Zweitprüfenden.
 
 
 ### § 16 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001801116)
 
 (1) Die schriftliche Abschlussprüfung besteht aus je einer Klausur in
 folgenden Fächern:
@@ -620,6 +640,7 @@ wie viele Rangpunkte sie in ihren Klausuren erreicht haben.
 
 
 ### § 17 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE001901116)
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen,
 wer die schriftliche Abschlussprüfung bestanden hat. Wird eine
@@ -682,6 +703,7 @@ mündlich.
 
 
 ### § 18 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002000000)
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen oder
 mündlichen Abschlussprüfung oder einem einzelnen Prüfungsteil ohne
@@ -704,6 +726,7 @@ gewertet werden.
 
 
 ### § 19 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002100000)
 
 (1) Anwärterinnen und Anwärtern, die bei der Laufbahnprüfung täuschen,
 eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung
@@ -733,6 +756,7 @@ Absatz 3 anzuhören.
 
 
 ### § 20 Wiederholung von Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002200000)
 
 (1) Anwärterinnen und Anwärter, die die schriftliche oder mündliche
 Abschlussprüfung nicht bestanden haben, können die betreffende Prüfung
@@ -743,6 +767,7 @@ Dienstbehörde eine zweite Wiederholung zulassen.
 
 
 ### § 21 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002300000)
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die
 Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die
@@ -792,6 +817,7 @@ ganze Zahl gerundet.
 
 
 ### § 22 Abschlusszeugnis, Bescheid bei Nichtbestehen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002400000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
 Abschlusszeugnis. Das Abschlusszeugnis enthält:
@@ -821,6 +847,7 @@ umfasst hat und wie viele Rangpunkte erreicht worden sind.
 
 
 ### § 23 Prüfungsakte, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002500000)
 
 (1) Zu jeder Anwärterin und jedem Anwärter führt das Prüfungsamt eine
 Prüfungsakte. Darin aufzunehmen sind:
@@ -850,9 +877,11 @@ gewähren. Die Einsichtnahme ist in der Akte zu vermerken.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNG000400000)
 
 
 ### § 24 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002600000)
 
 Für Anwärterinnen und Anwärter, die vor dem 1. Oktober 2014 mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über die
@@ -863,6 +892,7 @@ die zuletzt durch Artikel 3 Absatz 34 der Verordnung vom 12. Februar
 
 
 ### § 25 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gtdbahnvdv/BJNR152600014.html#BJNR152600014BJNE002700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und

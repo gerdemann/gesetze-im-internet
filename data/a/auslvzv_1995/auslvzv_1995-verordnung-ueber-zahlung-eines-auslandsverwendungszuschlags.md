@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/auslvzv_1995/BJNR122600995.html#BJNR122600995BJNE000205360)
 
 (1) Auslandsverwendungszuschlag wird regelmäßig nur gezahlt bei
 Verwendungen in einem Verband, einer Einheit oder Gruppe sowie im
@@ -43,6 +44,7 @@ ist.
 
 
 ## § 2 Materielle Mehraufwendungen und immaterielle Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/auslvzv_1995/BJNR122600995.html#BJNR122600995BJNE000306116)
 
 Als materielle Mehraufwendungen und immaterielle Belastungen im
 Verwendungsgebiet und am Ort der besonderen Verwendung werden
@@ -104,6 +106,7 @@ berücksichtigt:
 
 
 ## § 3 Höhe und Festsetzung des Auslandsverwendungszuschlags
+[Direktlink](https://www.gesetze-im-internet.de/auslvzv_1995/BJNR122600995.html#BJNR122600995BJNE000409130)
 
 (1) Die Mehraufwendungen und Belastungen der Verwendung werden in
 sechs Stufen des Auslandsverwendungszuschlags wie folgt
@@ -260,6 +263,7 @@ Kaufkraftausgleich.
 
 
 ## § 4 Dauer des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/auslvzv_1995/BJNR122600995.html#BJNR122600995BJNE000506360)
 
 (1) Der Auslandsverwendungszuschlag steht für die Dauer der besonderen
 Verwendung im Ausland zu. Er wird vom Tage des Eintreffens im Gebiet
@@ -282,6 +286,7 @@ besonderen Verwendung.
 
 
 ## § 5 Anrechnung anderer Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/auslvzv_1995/BJNR122600995.html#BJNR122600995BJNE000902360)
 
 (1) Anzurechnen sind Bezüge, mit denen Belastungen abgegolten werden,
 die beim Auslandsverwendungszuschlag berücksichtigt worden sind.

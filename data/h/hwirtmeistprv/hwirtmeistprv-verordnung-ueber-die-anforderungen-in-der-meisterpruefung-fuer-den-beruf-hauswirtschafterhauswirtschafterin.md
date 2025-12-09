@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000100000)
 
 Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 und 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnen
@@ -29,6 +30,7 @@ und Forschung:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000200000)
 
 (1) Die Meisterprüfung für den Beruf Hauswirtschafter/
 Hauswirtschafterin ist eine berufliche Fortbildungsprüfung gemäß § 1
@@ -81,6 +83,7 @@ Meister der Hauswirtschaft/Meisterin der Hauswirtschaft.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000300000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -108,6 +111,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000400000)
 
 (1) Die Meisterprüfung umfasst die Teile
 
@@ -126,6 +130,7 @@ rechtfertigen.
 
 
 ## § 4 Prüfungsanforderungen im Teil "Hauswirtschaftliche Versorgungs- und Betreuungsleistungen"
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000500000)
 
 (1) Der Prüfling soll nachweisen, dass er hauswirtschaftliche
 Versorgungs- und Betreuungsleistungen in einem betrieblichen Kontext
@@ -210,6 +215,7 @@ als 30 Minuten dauern.
 
 
 ## § 5 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000600000)
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
 und soziale Zusammenhänge im Betrieb erkennen, analysieren und
@@ -279,6 +285,7 @@ als 30 Minuten dauern.
 
 
 ## § 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000700000)
 
 (1) Der Prüfling soll nachweisen, dass er die Bedeutung der
 Berufsbildung und Mitarbeiterführung für den Unternehmenserfolg
@@ -494,6 +501,7 @@ Prüfling nicht länger als 30 Minuten dauern.
 
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000800000)
 
 (1) Auf Antrag kann die zuständige Stelle den Prüfling von der
 Ablegung einzelner Prüfungsleistungen gemäß § 4 Abs. 3 und § 5 Abs. 3
@@ -520,6 +528,7 @@ Mitarbeiterführung" befreit werden.
 
 
 ## § 8 Bewerten der Prüfungsleistungen und Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE000900000)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 "Hauswirtschaftliche Versorgungs- und Betreuungsleistungen" ist eine
@@ -548,6 +557,7 @@ dieser Leistungen mit "mangelhaft" benotet worden ist.
 
 
 ## § 9 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE001000000)
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
 wiederholt werden.
@@ -562,6 +572,7 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE001100000)
 
 (1) Die bei Inkrafttreten dieser Verordnung begonnenen
 Prüfungsverfahren sind nach den bisherigen Vorschriften zu Ende zu
@@ -575,6 +586,7 @@ Wiederholungsprüfung nach den bisherigen Vorschriften ablegen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hwirtmeistprv/BJNR227800005.html#BJNR227800005BJNE001200000)
 
 Diese Verordnung tritt am 1. November 2005 in Kraft.
 

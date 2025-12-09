@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000100319)
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
 30\. März 1971 (Bundesgesetzblatt I S. 282), geändert durch Artikel 70
@@ -31,6 +32,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000200319)
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
 erheblichen Belästigungen durch Fluglärm in der Umgebung des
@@ -39,6 +41,7 @@ Lärmschutzbereich festgesetzt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000300319)
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird nach Anlage 1
 bestimmt durch die interpolierten Verbindungslinien zwischen den
@@ -47,6 +50,7 @@ verlaufen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000400319)
 
 (1) Liegt eine bauliche Anlage zu einem Teil im Lärmschutzbereich, so
 gilt sie als ganz im Lärmschutzbereich gelegen. Liegt eine bauliche
@@ -58,6 +62,7 @@ entsprechend anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000501308)
 
 (1) Der nach § 2 bestimmte Lärmschutzbereich ist in einer
 topographischen Karte im Maßstab 1:50.000 und in Karten im Maßstab
@@ -74,11 +79,13 @@ jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000600319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000700319)
 
 Der Bundesminister des Innern
 
@@ -87,6 +94,7 @@ den militärischen Flugplatz Hopsten in der Fassung der Zweiten
 Änderungsverordnung vom 12. Juli 1991)
 
 ## Anlage 1 Lärmschutzbereich - Zweite Änderung
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000801308)
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1517 - 1521)
 
@@ -3921,6 +3929,7 @@ den militärischen Flugplatz Hopsten in der Fassung der Zweiten
 
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Hopsten in der Fassung der Zweiten Änderungsverordnung vom 12. Juli 1991)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmhopstv/BJNR013250976.html#BJNR013250976BJNE000901308)
 
    (Fundstelle: BGBl. I 1991, 1522 - 1523)
 ![bgbl1_1991_j1522_0010.jpg](bgbl1_1991_j1522_0010.jpg)![bgbl1_1991_j1523_0010.jpg](bgbl1_1991_j1523_0010.jpg)

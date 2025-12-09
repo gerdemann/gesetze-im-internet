@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000100319)
 
 Der Verdienstorden der Bundesrepublik Deutschland wird vom
 Bundespräsidenten verliehen und kann als Zeichen der allgemeinen
@@ -27,6 +28,7 @@ Anerkennung in Form eines Ordenszeichens getragen werden.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000200319)
 
 (1) Der Verdienstorden der Bundesrepublik wird verliehen als
 
@@ -50,6 +52,7 @@ werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000300319)
 
 (1) Das Ordenszeichen ist ein rot-emailliertes, golden gefaßtes,
 schlankes Kreuz. In seiner Mitte ist der Bundesadler in schwarz auf
@@ -59,6 +62,7 @@ einem runden Schild aufgesetzt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000400319)
 
 (1) Form und Trageweise des Verdienstordens sind:
 
@@ -123,6 +127,7 @@ getragen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000500319)
 
 (1) Vorschlagsberechtigt für die Verleihung des Verdienstordens sind
 
@@ -163,6 +168,7 @@ der sie dem Bundespräsidenten zur Entscheidung vorlegt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000600319)
 
 (1) Das Großkreuz, das Große Verdienstkreuz mit Stern und Schulterband
 und das Große Verdienstkreuz mit Stern werden jeweils durch einen
@@ -183,6 +189,7 @@ vollzogen.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000700319)
 
 (1) Alle Beliehenen erhalten eine Urkunde mit der Unterschrift des
 Bundespräsidenten. Die Urkunden über die Verleihung des Großkreuzes,
@@ -202,11 +209,13 @@ entzogen werden.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000800319)
 
 Die Geschäfte der Ordenskanzlei nimmt das Bundespräsidialamt wahr.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/verdordenstat/BJNR107490955.html#BJNR107490955BJNE000900319)
 
 Der Bundespräsident
 Der Bundeskanzler

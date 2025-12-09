@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000100326)
 
 Auf Grund des § 34 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968
 (BGBl. I S. 787) verordnet die Bundesregierung:
 
 
 ## § 1 Bedarfsfeststellung, Bedarfsanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000201308)
 
 (1) Die fachlich zuständigen Bundes- und Landesbehörden empfehlen bei
 der Vorbereitung und Durchführung ihrer Maßnahmen auf dem Gebiet der
@@ -64,6 +66,7 @@ Arbeitskräftebedarfs gefährdet wird.
 
 
 ## § 2 Zuständige Agentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000301308)
 
 Für die Entgegennahme der Bedarfsanmeldung und der
 Veränderungsanzeigen ist die Agentur für Arbeit zuständig, in deren
@@ -72,6 +75,7 @@ liegt.
 
 
 ## § 3 Erfassung des Bedarfs
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000401308)
 
 (1) Die zuständige Agentur für Arbeit hat bei der Erfassung des
 Bedarfs insbesondere festzustellen
@@ -110,6 +114,7 @@ voraussichtliche Dauer der Beschäftigung festzustellen.
 
 
 ## § 4 Bedarfsdeckung, Grundsatz der Freiwilligkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000501308)
 
 Die Agentur für Arbeit trifft alle notwendigen Maßnahmen, damit der
 angemeldete und der zu erwartende weitere Bedarf an Arbeitskräften
@@ -123,6 +128,7 @@ Gesetzes).
 
 
 ## § 5 Vorrangige Heranziehung Nichterwerbstätiger
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000601308)
 
 Für die Deckung des Arbeitskräftebedarfs sind, wenn und soweit dies
 ohne Nachteile für die rechtzeitige und sachgerechte Durchführung der
@@ -136,6 +142,7 @@ Agenturen für Arbeit zu decken.
 
 
 ## § 6 Verteilung der Arbeitskräfte
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000701308)
 
 (1) Kann der Arbeitskräftebedarf nicht oder nicht rechtzeitig mit
 Personen gedeckt werden, die keine Erwerbstätigkeit ausüben, so sind
@@ -185,6 +192,7 @@ der Ausschuß unverzüglich zu unterrichten.
 
 
 ## § 7 Entscheidung der Agentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000801308)
 
 (1) Die Agentur für Arbeit entscheidet über die Deckung des
 angemeldeten Arbeitskräftebedarfs, wenn der Anmeldende die Agentur für
@@ -202,6 +210,7 @@ bei ihr bestehenden Arbeitskräfteausschuss (§ 9) zu hören.
 
 
 ## § 8 Arbeitskräfteausschuss bei der Agentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE000903311)
 
 (1) Bei jeder Agentur für Arbeit wird ein Arbeitskräfteausschuss
 gebildet.
@@ -261,6 +270,7 @@ auch auf deren Verlangen hinzuzuziehen.
 
 
 ## § 9 Arbeitskräfteausschüsse bei den durch den Vorstand der Bundesagentur für Arbeit beauftragten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE001002311)
 
 (1) Bei jeder durch den Vorstand der Bundesagentur mit der Wahrnehmung
 der Aufgaben nach § 7 Abs. 2 beauftragten Dienststelle wird ein
@@ -296,6 +306,7 @@ Bundesagentur für Arbeit beauftragte Person.
 
 
 ## § 10 Weitere Aufgaben der Arbeitskräfteausschüsse und der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE001101308)
 
 (1) Der Arbeitskräfteausschuss bei der Agentur für Arbeit hat
 unbeschadet seiner Aufgabe nach § 6 Abs. 4 die Agentur für Arbeit bei
@@ -330,6 +341,7 @@ Dienststelle und für die beauftragte Dienststelle entsprechend.
 
 
 ## § 11 Entschädigung und Auslagenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE001201308)
 
 Die Mitglieder der Arbeitskräfteausschüsse, ihre Stellvertreter und
 Personen, die nach § 8 Abs. 5 Nr. 3 und § 9 Abs. 4 in Verbindung mit §
@@ -358,11 +370,13 @@ Verwaltungsausschüssen der beauftragten Dienststellen.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE001300326)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/arbsv/BJNR010710989.html#BJNR010710989BJNE001400326)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000100328)
 
 Auf Grund des § 42 Satz 1 in Verbindung mit § 3 Abs. 1 Nr. 1, 2, 3, 6,
 11 Buchstabe a, Nr. 12, 13 und 14 des Pflanzenschutzgesetzes vom 15.
@@ -27,6 +28,7 @@ September 1986 (BGBl. I S. 1505) wird verordnet:
 
 
 ## § 1 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000200328)
 
 Verfügungsberechtigte und Besitzer von Reben sind verpflichtet, der
 zuständigen Behörde das Auftreten und den Verdacht des Auftretens der
@@ -34,6 +36,7 @@ Reblaus unter Angabe des Standorts der Reben unverzüglich anzuzeigen.
 
 
 ## § 2 Bekämpfungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000300328)
 
 Verfügungsberechtigte und Besitzer sind verpflichtet, soweit die
 zuständige Behörde es zur Bekämpfung der Reblaus anordnet,
@@ -65,6 +68,7 @@ zuständige Behörde es zur Bekämpfung der Reblaus anordnet,
 
 
 ## § 3 Verkehr mit Pflanzgut von Rebe
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000400328)
 
 (1) Aus von der Reblaus befallenen Gemeinden und Ortsteilen darf
 bewurzeltes Pflanzgut von Rebe in von der Reblaus nicht befallene
@@ -78,6 +82,7 @@ Bundesanzeiger bekannt.
 
 
 ## § 4 Beschränkung des Anbaus von Wurzelreben
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000501377)
 
 (1) In von der Reblaus befallenen Gemeinden und Ortsteilen dürfen nur
 Wurzelreben, die nicht für die Wurzelreblaus anfällig sind, angebaut
@@ -115,6 +120,7 @@ gelten, im Bundesanzeiger bekannt.
 
 
 ## § 5 Verbot des Züchtens und Haltens
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000601308)
 
 (1) Das Züchten und das Halten der Reblaus sowie das Arbeiten mit
 diesem Schadorganismus sind verboten.
@@ -126,6 +132,7 @@ nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung entsteht.
 
 
 ## § 6 Länderbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000700328)
 
 Unberührt bleiben die Befugnisse der Länder nach § 3 Abs. 3 und § 42
 Satz 2 Nr. 1 des Pflanzenschutzgesetzes, weitergehende Regelungen zur
@@ -133,6 +140,7 @@ Bekämpfung der Reblaus zu treffen.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE000803377)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -164,11 +172,13 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE001001308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/reblv/BJNR012030988.html#BJNR012030988BJNE001100328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

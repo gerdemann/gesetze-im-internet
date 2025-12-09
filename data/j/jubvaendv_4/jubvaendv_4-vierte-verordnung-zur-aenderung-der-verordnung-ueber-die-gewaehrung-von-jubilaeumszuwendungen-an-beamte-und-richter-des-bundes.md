@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jubv_ndv_4/BJNR004860990.html#BJNR004860990BJNE000100308)
 
 Auf Grund des § 80b des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) und des § 46 des
@@ -30,27 +31,32 @@ April 1972 (BGBl. I S. 713) verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/jubv_ndv_4/BJNR004860990.html#BJNR004860990BJNE000200308)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/jubv_ndv_4/BJNR004860990.html#BJNR004860990BJNE000300308)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/jubv_ndv_4/BJNR004860990.html#BJNR004860990BJNE000400308)
 
 Eine Neuberechnung der Jubiläumsdienstzeit nach Maßgabe dieser
 Verordnung erfolgt auf Antrag.
 
 
 ## Art 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jubv_ndv_4/BJNR004860990.html#BJNR004860990BJNE000501310)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/jubv_ndv_4/BJNR004860990.html#BJNR004860990BJNE000600308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

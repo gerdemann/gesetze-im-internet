@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/nordsbrweing/BJNR001510894.html#BJNR001510894BJNE000100328)
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 2 oder 3 des
 internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur
@@ -68,6 +69,7 @@ Deutsche Mark geahndet werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/nordsbrweing/BJNR001510894.html#BJNR001510894BJNE000200328)
 
 Die Bestimmungen der Artikel 2 und 3 des internationalen Vertrages vom
 16\. November 1887/14. Februar 1893 und des § 1 dieses Gesetzes finden,
@@ -77,6 +79,7 @@ Anwendung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/nordsbrweing/BJNR001510894.html#BJNR001510894BJNE000300328)
 
 Dieses Gesetz tritt gleichzeitig mit dem internationalen Vertrag vom
 16\. November 1887/14. Februar 1893 in Kraft.

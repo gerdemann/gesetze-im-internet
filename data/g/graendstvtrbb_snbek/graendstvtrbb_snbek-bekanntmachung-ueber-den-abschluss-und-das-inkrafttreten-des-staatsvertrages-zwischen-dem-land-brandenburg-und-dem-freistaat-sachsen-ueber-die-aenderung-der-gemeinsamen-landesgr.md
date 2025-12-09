@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbb_snbek/BJNR135900010.html#BJNR135900010BJNE000100000)
 
 Zwischen dem Land Brandenburg und dem Freistaat Sachsen wurde am 21.
 April/15. Mai 1998 ein Staatsvertrag über die Änderung der gemeinsamen
@@ -49,6 +50,7 @@ nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbb_snbek/BJNR135900010.html#BJNR135900010BJNE000200000)
 
 Bundesministerium des Innern
 

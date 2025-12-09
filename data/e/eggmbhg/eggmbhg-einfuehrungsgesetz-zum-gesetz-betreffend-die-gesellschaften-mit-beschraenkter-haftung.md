@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Umstellung auf Euro
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000100000)
 
 (1) Gesellschaften, die vor dem 1. Januar 1999 in das Handelsregister
 eingetragen worden sind, dürfen ihr auf Deutsche Mark lautendes
@@ -71,6 +72,7 @@ geleistet werden.
 
 
 ## § 2 Übergangsvorschriften zum Transparenz- und Publizitätsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000200000)
 
 § 42a Abs. 4 des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung in der Fassung des Artikels 3 Abs. 3 des
@@ -81,6 +83,7 @@ anzuwenden.
 
 
 ## § 3 Übergangsvorschriften zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000300000)
 
 (1) Die Pflicht, die inländische Geschäftsanschrift bei dem Gericht
 nach § 8 des Gesetzes betreffend die Gesellschaften mit beschränkter
@@ -152,6 +155,7 @@ Rechtslage nach den bis zum 1. November 2008 geltenden Vorschriften.
 
 
 ## § 4 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000400140)
 
 § 52 Abs. 1 Satz 1 des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung in Verbindung mit § 100 Abs. 5 und § 107 Abs. 4
@@ -162,6 +166,7 @@ des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
 
 ## § 5 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000502360)
 
 Die Festlegungen nach § 36 Satz 1 und 3 sowie § 52 Absatz 2 Satz 1, 2
 und 4 des Gesetzes betreffend die Gesellschaften mit beschränkter
@@ -174,6 +179,7 @@ dauern.
 
 
 ## § 6 Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000600360)
 
 § 29 des Gesetzes betreffend die Gesellschaften mit beschränkter
 Haftung in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17.
@@ -186,6 +192,7 @@ bis zum 22. Juli 2015 geltenden Fassung anwendbar.
 
 
 ## § 7 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000700123)
 
 § 52 Absatz 1 des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung in Verbindung mit § 100 Absatz 5 und § 107 Absatz
@@ -197,6 +204,7 @@ bestellt worden sind.
 
 
 ## § 8 Übergangsvorschrift zum Gesetz zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der Zentralstelle für Finanztransaktionsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000800123)
 
 § 8 Absatz 1 Nummer 3 und § 40 Absatz 1 Satz 1 bis 3 des Gesetzes
 betreffend die Gesellschaften mit beschränkter Haftung in der Fassung
@@ -213,6 +221,7 @@ die Gesellschaften mit beschränkter Haftung in der vor dem 26. Juni
 
 
 ## § 9 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE000900360)
 
 (1) Die §§ 86 und 87 des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung in der ab dem 1. Juli 2021 geltenden Fassung sind
@@ -230,6 +239,7 @@ Geschäftsjahr gewählt werden, anzuwenden.
 
 
 ## § 10 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE001000360)
 
 (1) Die §§ 36 und 52 Absatz 2 des Gesetzes betreffend die
 Gesellschaften mit beschränkter Haftung in der vom 12. August 2021 an
@@ -254,6 +264,7 @@ können bis zu ihrem vorgesehenen Ende wahrgenommen werden.
 
 
 ## § 11 Übergangsvorschriften zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE001100360)
 
 (1) § 6 Absatz 2 Satz 3, § 8 Absatz 3 Satz 1, § 39 Absatz 3 Satz 1, §
 66 Absatz 4 und § 67 Absatz 3 Satz 1 des Gesetzes betreffend die
@@ -271,6 +282,7 @@ letztmals anzuwenden auf Jahresabschlüsse für das vor dem 1. Januar
 
 
 ## § 12 Veränderung der Gesellschafterliste in Bezug auf eine Gesellschaft bürgerlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/eggmbhg/BJNR203100008.html#BJNR203100008BJNE001200360)
 
 (1) Wird an der Eintragung einer nach § 40 Absatz 1 Satz 2 Halbsatz 2
 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2001/BJNR258700001.html#BJNR258700001BJNE000100310)
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung
@@ -30,6 +31,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Aufhebung der Anerkennung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2001/BJNR258700001.html#BJNR258700001BJNE000200310)
 
 Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
@@ -61,6 +63,7 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 
 ## § 2 Besitzstandswahrung
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2001/BJNR258700001.html#BJNR258700001BJNE000300310)
 
 Personen, die vor Inkrafttreten der Verordnung in einem der in § 1
 genannten Ausbildungsberufe ausgebildet worden sind oder im Zeitpunkt
@@ -70,6 +73,7 @@ fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2001/BJNR258700001.html#BJNR258700001BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

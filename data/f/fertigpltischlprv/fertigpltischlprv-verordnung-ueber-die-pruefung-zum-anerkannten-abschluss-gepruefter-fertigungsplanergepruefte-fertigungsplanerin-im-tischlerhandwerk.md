@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000100000)
 
 Auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der
@@ -33,6 +34,7 @@ Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Fertigungsplaner/zur
@@ -86,6 +88,7 @@ Tischlerhandwerk.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -110,6 +113,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung, Struktur und integrierte Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000400000)
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche "Planung und
 Arbeitsvorbereitung" sowie "Steuerung und Fertigungskontrolle". Es ist
@@ -141,6 +145,7 @@ handlungsorientiert und praxisbezogen zu prüfen.
 
 
 ## § 4 Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000500000)
 
 (1) Den Handlungsbereichen gemäß § 3 Abs. 1 sind folgende
 Qualifikationsschwerpunkte zugeordnet:
@@ -338,6 +343,7 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000602119)
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese
@@ -349,6 +355,7 @@ zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE001100119)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -379,6 +386,7 @@ Bewertungen wie folgt zu gewichten:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE001200119)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der
 zusammengefassten Bewertung insgesamt mindestens 50 Punkte erreicht
@@ -400,6 +408,7 @@ Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE001300119)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -426,17 +435,20 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000701119)
 
 Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE000801119)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE001400119)
 
 (Fundstelle: BGBl. I 2019, 2160 - 2161)
 
@@ -738,6 +750,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fertigpltischlprv/BJNR148700004.html#BJNR148700004BJNE001500119)
 
 (Fundstelle: BGBl. I 2019, 2161)
 

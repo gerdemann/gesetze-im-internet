@@ -19,6 +19,7 @@ Fundstelle
 Stand: In Kraft gem. Bek. v. 20.4.1993 II 848 mWv 21.9.1992
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dtpljwabkv/BJNR206220992.html#BJNR206220992BJNE000100305)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -30,6 +31,7 @@ II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dtpljwabkv/BJNR206220992.html#BJNR206220992BJNE000200305)
 
 Dem Deutsch-Polnischen Jugendwerk werden die in Artikel 1 Abs. 2 und
 Artikel 10 des Abkommens vom 17. Juni 1991 zwischen der Regierung der
@@ -39,6 +41,7 @@ Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dtpljwabkv/BJNR206220992.html#BJNR206220992BJNE000300305)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen
 nach seinem Artikel 13 für die Bundesrepublik Deutschland in Kraft
@@ -52,6 +55,7 @@ im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dtpljwabkv/BJNR206220992.html#BJNR206220992BJNE000400305)
 
 Der Bundesrat hat zugestimmt.
 

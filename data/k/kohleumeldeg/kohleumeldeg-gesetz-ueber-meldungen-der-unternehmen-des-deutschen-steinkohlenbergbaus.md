@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/kohleumeldeg/BJNR027530977.html#BJNR027530977BJNE000104118)
 
 (1) Die Unternehmen, die in der Bundesrepublik Deutschland
 Steinkohlenbergbau betreiben (Bergbauunternehmen), melden dem
@@ -102,6 +103,7 @@ der für ihn tätigen Personen handelt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kohleumeldeg/BJNR027530977.html#BJNR027530977BJNE000200328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf

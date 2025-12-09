@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000100314)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
@@ -34,6 +35,7 @@ eingeführt sind.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000200314)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
 bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
@@ -44,64 +46,75 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000300314)
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7.
 September 1981 (BGBl. I S. 940).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000400314)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000500314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 48)
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000601308)
 
 (weggefallen)
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000700314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 49)
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000800314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 50)
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE000900314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 50)
 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE001000314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 51)
 
 
 ## Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE001100314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 51)
 
 
 ## Anlage 8
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE001200314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 52)
 
 
 ## Anlage 9
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4beluabek/BJNR000470983.html#BJNR000470983BJNE001300314)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl I 1983, 53, 433,

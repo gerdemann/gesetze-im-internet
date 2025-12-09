@@ -23,6 +23,7 @@ Die v tritt gem. § 6 satz 2 am 17.5.2001 außer kraft, sofern nicht mit zustimm
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000101308)
 
 Auf Grund des § 6 Abs. 1 Nr. 18 und 19 in Verbindung mit Abs. 4 und 5
 sowie der §§ 15 und 16, jeweils in Verbindung mit § 6 Abs. 4, des
@@ -36,6 +37,7 @@ Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000201308)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung von
 Titel II Kapitel II der Verordnung (EG) Nr. 1493/1999 des Rates vom
@@ -48,6 +50,7 @@ Marktorganisation für Wein hinsichtlich des Produktionspotentials
 
 
 ## § 2 Bestimmung der Rebflächen
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000301308)
 
 Die Landesregierungen können durch Rechtsverordnung bestimmen, dass
 für bestimmte Rebflächen eine Prämie für die endgültige Aufgabe des
@@ -56,6 +59,7 @@ kann.
 
 
 ## § 3 Verfahren und Höhe der Prämie
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000401308)
 
 Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch
 machen, haben sie in der Rechtsverordnung
@@ -74,6 +78,7 @@ machen, haben sie in der Rechtsverordnung
 
 
 ## § 4 Bedingungen und Mindestrodungsfläche
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000501308)
 
 Soweit die Landesregierungen von der Ermächtigung des § 2 Gebrauch
 machen, können sie in der Rechtsverordnung
@@ -93,6 +98,7 @@ machen, können sie in der Rechtsverordnung
 
 
 ## § 5 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000601308)
 
 (1) Die Rodung ist der zuständigen Stelle spätestens einen Monat nach
 ihrer Durchführung anzuzeigen.
@@ -112,6 +118,7 @@ erforderliche Unterstützung zu gewähren.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rebflrodv/BJNR150200000.html#BJNR150200000BJNE000701308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000100000)
 
 Auf Grund des § 30h Absatz 4 Satz 1 Nummer 1 und Nummer 1a des
 Wertpapierhandelsgesetzes, der durch Artikel 1 des Gesetzes vom 6.
@@ -33,9 +34,11 @@ ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf die Mitteilungen und
 Veröffentlichungen von Netto-Leerverkaufspositionen nach den Artikeln
@@ -46,9 +49,11 @@ der jeweils geltenden Fassung.
 
 
 ## Abschnitt 2 - Form und Inhalt der Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000200000)
 
 
 ### § 2 Allgemeine Bestimmungen zur Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000300000)
 
 Der Inhaber einer Netto-Leerverkaufsposition, für die er nach Artikel
 5 Absatz 1, Artikel 7 Absatz 1 und Artikel 8 der Verordnung (EU) Nr.
@@ -59,6 +64,7 @@ Finanzdienstleistungsaufsicht (Bundesanstalt) zu übermitteln.
 
 
 ### § 3 Angaben zur Person des Positionsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000400000)
 
 (1) Der Positionsinhaber hat der Bundesanstalt spätestens bei Abgabe
 der ersten Mitteilung die nach Absatz 2 oder Absatz 3 erforderlichen
@@ -148,6 +154,7 @@ im Anschluss an die nächste Mitteilung schriftlich mitzuteilen.
 
 
 ### § 4 Benennung einer Kontaktperson
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000500000)
 
 (1) Der Positionsinhaber hat eine natürliche Person zu benennen, die
 für ihn die Mitteilungen abgibt und für Rückfragen zur Verfügung steht
@@ -199,9 +206,11 @@ Meldeverfahrens mitzuteilen.
 
 
 ## Abschnitt 3 - Übermittlung der Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000300000)
 
 
 ### § 5 Art und Weise der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000600000)
 
 (1) Die nach Abschnitt 2 erforderlichen Angaben sind der Bundesanstalt
 über deren elektronische Meldeplattform zu übermitteln. Dabei ist
@@ -215,6 +224,7 @@ nachzuholen, sobald die Probleme behoben sind.
 
 
 ### § 6 Zulassung zur Teilnahme am elektronischen Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000700000)
 
 (1) Spätestens bei Abgabe der ersten Mitteilung nach Artikel 5 Absatz
 1, Artikel 7 Absatz 1 und Artikel 8 der Verordnung (EU) Nr. 236/2012
@@ -280,6 +290,7 @@ Positionsinhaber und der Kontaktperson dieser meldenden Person
 
 
 ### § 7 Dauer der Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000800000)
 
 Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten
 Netto-Leerverkaufsposition übermittelt, hat sie die vorhergehende
@@ -290,9 +301,11 @@ Datenbank zu löschen.
 
 
 ## Abschnitt 4 - Veröffentlichung im Bundesanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000400000)
 
 
 ### § 8 Allgemeine Bestimmungen zur Veröffentlichungspflicht; Auftragsnummer der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE000900000)
 
 (1) Der Inhaber einer nach Artikel 6 Absatz 1 der Verordnung (EU) Nr.
 236/2012 zu veröffentlichenden Netto-Leerverkaufsposition ist
@@ -311,6 +324,7 @@ Kontaktperson.
 
 
 ### § 9 Identifikation des Positionsinhabers und seiner Kontaktperson beim Betreiber des Bundesanzeigers
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001000000)
 
 (1) Der Positionsinhaber muss sich gegenüber dem Betreiber des
 Bundesanzeigers spätestens bis zur Vornahme der ersten
@@ -331,6 +345,7 @@ können für die Identifikation nach Absatz 1 verwendet werden.
 
 
 ### § 10 Übermittlung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001100000)
 
 (1) Für die Übermittlung der Daten stellt der Betreiber des
 Bundesanzeigers auf dessen elektronischer Serviceplattform ein
@@ -345,9 +360,11 @@ Betreiber des Bundesanzeigers gibt dafür ein Schema vor.
 
 
 ## Abschnitt 5 - Mitteilung und Veröffentlichung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000500000)
 
 
 ### § 11 Mitteilung und Veröffentlichung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001200000)
 
 (1) Der Positionsinhaber kann seine Mitteilungen und
 Veröffentlichungen auf eigene Kosten auch durch einen externen Dritten
@@ -376,6 +393,7 @@ ist nur für die Mitteilungen gegenüber der Bundesanstalt zulässig.
 
 
 ### § 12 Eignung des Dritten
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001300000)
 
 (1) Geeignet ist eine meldende Person, wenn sie die Einhaltung der
 Mitteilungs- und Veröffentlichungspflichten für Netto-
@@ -396,6 +414,7 @@ informieren.
 
 
 ### § 13 Pflichterfüllung bei Einschaltung eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001400000)
 
 Schaltet ein Positionsinhaber eine meldende Person ein, hat er seine
 Pflichten erst dann ordnungsgemäß erfüllt, wenn die meldende Person
@@ -406,9 +425,11 @@ und richtig innerhalb der in Artikel 9 Absatz 2 Satz 3 der Verordnung
 
 
 ## Abschnitt 6 - Aufsichtsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000600000)
 
 
 ### § 14 Befugnisse der Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001502123)
 
 (1) Im Hinblick auf die Veröffentlichungen nach Artikel 6 Absatz 1 der
 Verordnung (EU) Nr. 236/2012 überwacht die Bundesanstalt gegenüber dem
@@ -446,9 +467,11 @@ Missstände beseitigt werden.
 
 
 ## Abschnitt 7 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNG000700000)
 
 
 ### § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nlposv_2012/BJNR269900012.html#BJNR269900012BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Zugleich
 tritt die Netto-Leerverkaufspositionsverordnung vom 8. März 2012

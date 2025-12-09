@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154),
@@ -34,9 +35,11 @@ Landwirtschaft:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNG000100000)
 
 
 ### § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000202130)
 
 Im Zuständigkeitsbereich des Bundesministeriums für Ernährung und
 Landwirtschaft werden Gebühren und Auslagen für individuell
@@ -309,6 +312,7 @@ erhoben, die aufgrund der folgenden Vorschriften erbracht werden:
 
 
 ### § 2 Höhe der Gebühren und Bestimmung der Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000300000)
 
 (1) Die Höhe der Gebühren richtet sich nach dem Gebühren- und
 Auslagenverzeichnis. Das Verzeichnis bestimmt zudem die Auslagen nach
@@ -321,6 +325,7 @@ Festsetzung der Gebühren und Auslagen.
 
 
 ### § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000400000)
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
 ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der
@@ -331,9 +336,11 @@ geltenden Fassung bestimmt sind.
 
 
 ## Abschnitt 2 - Besondere Bestimmungen für gebührenpflichtige Leistungen nach dem Saatgutverkehrsgesetz und Sortenschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNG000200000)
 
 
 ### § 4 Entstehung der Gebührenschuld bei Entscheidung über die Erteilung des Sortenschutzes, die Sortenzulassung, die Verlängerung der Sortenzulassung und die Eintragung eines weiteren Züchters
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000500000)
 
 Die Gebührenschuld entsteht mit Eingang des Antrags beim
 Bundessortenamt bei folgenden Entscheidungen:
@@ -359,6 +366,7 @@ Bundessortenamt bei folgenden Entscheidungen:
 
 
 ### § 5 Prüfungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000600000)
 
 (1) Die Prüfungsgebühren (Nummern 102, 104, 202, 203, 204, 206, 222,
 232 und 248 des Abschnitts 16 des Gebühren- und Auslagenverzeichnisses
@@ -389,6 +397,7 @@ hat.
 
 
 ### § 6 Jahresgebühren, Überwachungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000700000)
 
 (1) Die Gebühren für jedes Schutzjahr (Jahresgebühren, Nummer 110 des
 Abschnitts 16 des Gebühren- und Auslagenverzeichnisses der Anlage)
@@ -426,9 +435,11 @@ diesen Antragsteller keine Gebühr nach Nummer 202.13.1 des Abschnitts
 
 
 ## Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNG000300000)
 
 
 ### § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000802130)
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -459,12 +470,14 @@ Fassung weiter anzuwenden.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE000900000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 2 Absatz 1)
 
 ### Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmelbgebv/BJNR287400021.html#BJNR287400021BJNE001002116)
 
 (Fundstelle: BGBl. I 2021, 2878 - 2903)
 

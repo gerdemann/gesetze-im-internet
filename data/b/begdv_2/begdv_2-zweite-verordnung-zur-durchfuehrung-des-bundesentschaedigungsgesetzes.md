@@ -22,10 +22,12 @@ Zuletzt geändert durch
 Stand: Ersetzt V v. 24.12.1954 I 510
 
 ## I. - Besondere Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000100328)
 
 
 
 ### § 1 Bedeutung der entsprechenden Anwendung des § 15 Abs. 2 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE000800328)
 
 Die in § 28 Abs. 2 BEG für entsprechend anwendbar erklärte Vermutung
 des § 15 Abs. 2 BEG erstreckt sich nur darauf, daß die seinerzeit
@@ -36,11 +38,13 @@ derzeitigen Gesundheitszustand des Verfolgten.
 
 
 ### § 2 Schaden im unmittelbaren Anschluß an Deportation oder Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE000900328)
 
 (Entfällt)
 
 
 ### § 3 Verschlimmerung früherer Leiden
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001000328)
 
 (1) Eine Verschlimmerung liegt vor, wenn sich der Krankheitswert eines
 früheren Leidens durch nationalsozialistische Gewaltmaßnahmen erhöht
@@ -59,6 +63,7 @@ Das Leiden gilt in vollem Umfange als ein Verfolgungsschaden.
 
 
 ### § 4 Anlagebedingte Leiden
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001100328)
 
 Ein anlagebedingtes Leiden gilt als durch nationalsozialistische
 Gewaltmaßnahmen im Sinne der Entstehung verursacht, wenn es durch
@@ -66,6 +71,7 @@ diese Gewaltmaßnahmen wesentlich mitverursacht worden ist.
 
 
 ### § 5 Nachhaltige Beeinträchtigung der Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001200328)
 
 Nachhaltig ist die Beeinträchtigung der Leistungsfähigkeit (§ 28 Abs.
 3 BEG), wenn mit Wahrscheinlichkeit anzunehmen ist, daß sie nicht nur
@@ -74,6 +80,7 @@ bleiben wird.
 
 
 ### § 6 Ärztliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001300328)
 
 (1) Der Verfolgte hat sich der vom Entschädigungsorgan angeordneten
 ärztlichen Untersuchung oder Beobachtung zu unterziehen. Die ärztliche
@@ -89,6 +96,7 @@ Antrag statt.
 
 
 ### § 7 Folgen der Weigerung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001400328)
 
 (1) Weigert sich der Verfolgte ohne ausreichenden Grund, sich der
 angeordneten ärztlichen Untersuchung, Nachuntersuchung oder
@@ -103,14 +111,17 @@ ist.
 
 
 ## II. - Die gesetzlichen Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000200328)
 
 
 
 ### 1. - Heilverfahren
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000300328)
 
 
 
 #### § 8 Anspruch auf Heilverfahren
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001500328)
 
 (1) Der Anspruch auf ein Heilverfahren (§ 30 BEG) hängt nicht davon
 ab, daß der Verfolgte in seiner Erwerbsfähigkeit um mindestens 25 vom
@@ -123,6 +134,7 @@ der die Heilbehandlung erfordert, nicht ohne Einfluß ist.
 
 
 #### § 9 Umfang des Heilverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001600328)
 
 Das Heilverfahren umfaßt
 
@@ -142,6 +154,7 @@ Das Heilverfahren umfaßt
 
 
 #### § 10 Erfüllung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001701320)
 
 (1) Soweit das Land das Heilverfahren nicht selbst durchführt oder
 durchführen läßt, wird der Anspruch des Verfolgten auf ein
@@ -171,6 +184,7 @@ zugestimmt werden.
 
 
 #### § 11 Verfolgte mit Wohnsitz oder dauerndem Aufenthalt außerhalb des Geltungsbereichs des Bundesentschädigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001800328)
 
 (1) Der Verfolgte, der seinen Wohnsitz oder dauernden Aufenthalt
 außerhalb des Geltungsbereichs des Bundesentschädigungsgesetzes hat,
@@ -186,10 +200,12 @@ außerhalb des Geltungsbereiches des Gesetzes selbst zu tragen.
 
 
 ### 2. - Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000400328)
 
 
 
 #### § 11a Anwendung der Vermutung bei Konzentrationslagerhaft von mindestens einem Jahr
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE001900328)
 
 (1) Die Anwendung der Vermutung des § 31 Abs. 2 BEG setzt voraus, daß
 der Verfolgte im Zeitpunkt der Entscheidung in seiner Erwerbsfähigkeit
@@ -200,6 +216,7 @@ um 25 vom Hundert oder mehr gemindert ist.
 
 
 #### § 12 Grundlage der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002000328)
 
 Die Rente wird unter Zugrundelegung des Diensteinkommens (Grundgehalt
 und Wohnungsgeld) eines mit dem Verfolgten vergleichbaren
@@ -208,6 +225,7 @@ festgesetzt.
 
 
 #### § 13 Art der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002100328)
 
 (1) Der Berechnung der Rente ist die als Anlage beigefügte, nach der
 Einteilung der Bundesbeamten in solche des einfachen, mittleren,
@@ -221,6 +239,7 @@ hätte.
 
 
 #### § 14 Einreihung in eine vergleichbare Beamtengruppe
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002201130)
 
 (1) Für die Einreihung in eine vergleichbare Beamtengruppe ist die
 wirtschaftliche Stellung des Verfolgten maßgebend, es sei denn, daß
@@ -268,6 +287,7 @@ Unterhalt des Verfolgten überwiegend bestritten hat.
 
 
 #### § 15 Bemessung des Hundertsatzes
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002315130)
 
 (1) Bei der Bemessung des Hundertsatzes ist von dem jeweiligen
 Mittelwert der in § 31 Abs. 6 BEG festgelegten Hundertsätze
@@ -485,6 +505,7 @@ gegenüberzustellen.
 
 
 #### § 15a Zuschläge und Abschläge bei der Bemessung des Hundertsatzes
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002412130)
 
 (1) Bei der Bemessung des Hundertsatzes nach § 15 sind im Regelfall
 folgende Zuschläge zu dem jeweiligen Mittelwert der in § 31 Abs. 6 BEG
@@ -689,6 +710,7 @@ Berechnung seiner Rente vorgenommen worden sind.
 
 
 #### § 16 Mindestrente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002500328)
 
 Der monatliche Mindestbetrag der Rente nach § 32 BEG darf nicht
 unterschritten werden, soweit sich aus dem Bundesentschädigungsgesetz
@@ -696,6 +718,7 @@ und dieser Verordnung nichts anderes ergibt.
 
 
 #### § 17 Verteilung von anzurechnenden Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002600328)
 
 Bei der Anrechnung von Leistungen auf laufende Renten gemäß § 10 BEG
 soll der anzurechnende Betrag derart verteilt werden, daß dem
@@ -704,6 +727,7 @@ Mindestbetrages der Rente verbleibt.
 
 
 #### § 17a Zahlung der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002701320)
 
 (1) Die Rente wird in monatlich vorauszahlbaren Beträgen vom Ersten
 des Monats an gezahlt, in dem die Voraussetzungen für den
@@ -720,12 +744,14 @@ aufzurunden.
 
 
 #### § 18 Erlöschen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002800328)
 
 Im Falle des Todes des Verfolgten erlischt die Rente mit dem Ende des
 Monats, in dem der Verfolgte stirbt.
 
 
 #### § 19 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE002902310)
 
 (1) Der Verfolgte ist verpflichtet, der zuständigen
 Entschädigungsbehörde eine Änderung der nach § 15 Abs. 2 bis 4
@@ -746,6 +772,7 @@ die Pflichten aus den Absätzen 1 und 2.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003001314)
 
 Kommt der Verfolgte oder sein gesetzlicher Vertreter den nach § 19
 bestehenden Pflichten nicht nach, so kann die Zahlung der Rente ganz
@@ -755,6 +782,7 @@ hingewiesen worden ist.
 
 
 #### § 21 Neufestsetzung der Rente bei Änderung der Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003100328)
 
 (1) Im Falle des § 35 BEG wird die Rente mit Wirkung vom Ersten des
 Monats neu festgesetzt, der dem Monat folgt, in dem die Verhältnisse
@@ -768,6 +796,7 @@ werden.
 
 
 #### § 21a Erhöhung der monatlichen Mindestbeträge der Rente (§ 32 Abs. 1 des Bundesentschädigungsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003220130)
 
 (Fundstelle: BGBl. I 1983, 1317;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1848,6 +1877,7 @@ Beeinträchtigung der Erwerbsfähigkeit
    Erhöhung der monatlichen Mindestbeträge der Rente
 
 #### § 21b (§ 32 Abs. 2 des Bundesentschädigungsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003320130)
 
 (Fundstelle: BGBl. I 1983, 1318;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2213,10 +2243,12 @@ Der monatliche Mindestbetrag der Rente beträgt
 
 
 ### 3. - Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000500328)
 
 
 
 #### § 22 Berechnung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003400328)
 
    (1) Die Kapitalentschädigung wird in der Weise berechnet, daß für
 jeden vollen Monat, der vom Zeitpunkt der Beeinträchtigung der
@@ -2235,10 +2267,12 @@ Anspruch auf Kapitalentschädigung.
 
 
 ### 4. - Versorgung der Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000600328)
 
 
 
 #### § 23 Anspruch nach § 41 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003500328)
 
 Soweit § 41 BEG nichts anderes bestimmt, gelten für die Ansprüche der
 Hinterbliebenen des Verfolgten nach § 41 BEG die entsprechenden
@@ -2248,6 +2282,7 @@ April 1966 (Bundesgesetzblatt I S. 292).
 
 
 #### § 23a Anrechnung von überzahlten Rentenbeträgen auf Ansprüche nach § 41 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003600328)
 
 Sind auf den Rentenanspruch des Verfolgten für Schaden an Körper oder
 Gesundheit an seine Hinterbliebenen nach dem Erlöschen des Anspruchs
@@ -2256,6 +2291,7 @@ Ansprüche nach § 41 BEG voll angerechnet werden.
 
 
 #### § 23b Beihilfe nach § 41a BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003701311)
 
 (1) In den Fällen des § 41a des Bundesentschädigungsgesetzes wird die
 festgesetzte Minderung der Erwerbsfähigkeit nur auf Antrag des
@@ -2278,10 +2314,12 @@ oder Gesundheit gewährt wird.
 
 
 ## III. - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNG000700328)
 
 
 
 ### § 23c Stichtag für Neufestsetzung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003800328)
 
 Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser
 Verordnung vom 18. September 1965 an zu gewähren oder neu festzusetzen
@@ -2290,6 +2328,7 @@ festgesetzt.
 
 
 ### § 23d Übergangsvorschriften für Änderungen dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE003900328)
 
 (1) Die Unanfechtbarkeit oder die Rechtskraft einer Entscheidung, die
 vor der Verkündung einer Änderungsverordnung ergangen ist, steht
@@ -2318,11 +2357,13 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE004001320)
 
 (weggefallen)
 
 
 ### § 25 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE004100328)
 
 (1) Es treten in Kraft
 
@@ -2351,6 +2392,7 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 
 ### Anlage (zu den §§ 13 und 14 der 2. DV-BEG) Besoldungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_2/BJNR005100954.html#BJNR005100954BJNE004220130)
 
 (Fundstelle: BGBl. I 1983, 1318 - 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-296 v. 23.7.2002 I 2764 (IndKfmAusbV 2002)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -36,9 +37,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Industriekaufmanns
 und der Industriekauffrau wird nach § 4 Absatz 1 des
@@ -46,11 +49,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -71,6 +76,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -175,6 +181,7 @@ Berufsbildpositionen vermittelt werden.
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -182,9 +189,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -199,6 +208,7 @@ Monate vor dem Zeitpunkt von Teil 2 stattfinden.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -215,6 +225,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 „Leistungserstellung, Logistik, Beschaffung und Buchhaltung“ statt.
@@ -256,6 +267,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -277,6 +289,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -295,6 +308,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich „Marketing, Vertrieb, Personalwesen und kaufmännische Steuerung und Kontrolle“
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001300000)
 
 (1) Im Prüfungsbereich „Marketing, Vertrieb, Personalwesen und
 kaufmännische Steuerung und Kontrolle“ hat der Prüfling nachzuweisen,
@@ -335,6 +349,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 12 Prüfungsbereich „Fachaufgabe im Einsatzgebiet“
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001400000)
 
 (1) Im Prüfungsbereich „Fachaufgabe im Einsatzgebiet“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -412,6 +427,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 13 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001500000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -425,6 +441,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 14 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -493,6 +510,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 15 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -533,9 +551,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNG000300000)
 
 
 ### § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001800000)
 
 Diese Verordnung tritt am 1. August 2024 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Industriekaufmann/zur
@@ -546,6 +566,7 @@ worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann und zur Industriekauffrau
+[Direktlink](https://www.gesetze-im-internet.de/indkflausbv/BJNR05E0A0024.html#BJNR05E0A0024BJNE001900000)
 
 (Fundstelle: BGBl. 2024 I Nr. 94, S. 8 - 13)
 

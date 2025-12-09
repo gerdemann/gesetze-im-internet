@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1974-04/BJNR009220974.html#BJNR009220974BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß des 25.
@@ -75,11 +76,13 @@ Zwischen Anfang und Ende der Inschrift ist eine Arabeske eingeprägt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1974-04/BJNR009220974.html#BJNR009220974BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1974-04/BJNR009220974.html#BJNR009220974BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1974, 923

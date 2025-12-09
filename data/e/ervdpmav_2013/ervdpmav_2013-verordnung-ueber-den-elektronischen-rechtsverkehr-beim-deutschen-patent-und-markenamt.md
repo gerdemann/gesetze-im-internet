@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Signaturgebundene elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/ervdpmav_2013/BJNR390610013.html#BJNR390610013BJNE000103360)
 
 (1) Beim Deutschen Patent- und Markenamt können elektronische
 Dokumente in folgenden Verfahren signaturgebunden eingereicht werden:
@@ -44,6 +45,7 @@ Dokumente in folgenden Verfahren signaturgebunden eingereicht werden:
 
 
 ## § 2 Signaturfreie elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/ervdpmav_2013/BJNR390610013.html#BJNR390610013BJNE000203125)
 
 (1) In folgenden Verfahren können elektronische Dokumente beim
 Deutschen Patent- und Markenamt auch signaturfrei eingereicht werden:
@@ -93,6 +95,7 @@ diese Verfahrenshandlungen über die Internetseite www.dpma.de bekannt.
 
 
 ## § 3 Form der Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/ervdpmav_2013/BJNR390610013.html#BJNR390610013BJNE000303125)
 
 (1) Zur Einreichung elektronisch übermittelter Dokumente ist
 ausschließlich die elektronische Annahmestelle des Deutschen Patent-
@@ -157,6 +160,7 @@ welche technischen Bedingungen für die Einreichung maßgeblich sind.
 
 
 ## § 4 Bekanntgabe der Bearbeitungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ervdpmav_2013/BJNR390610013.html#BJNR390610013BJNE000401123)
 
 Das Deutsche Patent- und Markenamt gibt über die Internetseite
 www.dpma.de bekannt:
@@ -192,6 +196,7 @@ www.dpma.de bekannt:
 
 
 ## § 5 Zustellung elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/ervdpmav_2013/BJNR390610013.html#BJNR390610013BJNE000501123)
 
 (1) Im Rahmen einer elektronischen Zustellung sind elektronische
 Dokumente für die Übermittlung mit einer fortgeschrittenen oder

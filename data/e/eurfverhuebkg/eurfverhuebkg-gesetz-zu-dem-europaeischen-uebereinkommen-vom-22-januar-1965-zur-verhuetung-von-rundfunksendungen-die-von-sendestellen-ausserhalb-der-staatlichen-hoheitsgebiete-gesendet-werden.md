@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurfverh_bkg/BJNR219390969.html#BJNR219390969BJNE000100314)
 
 Dem in Straßburg am 6. Dezember 1965 von der Bundesrepublik
 Deutschland unterzeichneten Europäischen Übereinkommen zur Verhütung
@@ -31,6 +32,7 @@ wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurfverh_bkg/BJNR219390969.html#BJNR219390969BJNE000200314)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer eine Rundfunksendestelle errichtet oder betreibt, wenn
@@ -47,12 +49,14 @@ Sendestellen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurfverh_bkg/BJNR219390969.html#BJNR219390969BJNE000300314)
 
 Werden Taten nach Artikel 2 nicht im Inland begangen, so gilt das
 deutsche Strafrecht unabhängig vom Recht des Tatorts.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurfverh_bkg/BJNR219390969.html#BJNR219390969BJNE000401308)
 
 Ist für eine Straftat nach Artikel 2 ein Gerichtsstand nach §§ 7 bis
 10, 13, 98 Abs. 2 Satz 3, § 128 Abs. 1 oder § 162 der
@@ -62,12 +66,14 @@ Gerichtsstand; zuständiges Amtsgericht ist das Amtsgericht Hamburg.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurfverh_bkg/BJNR219390969.html#BJNR219390969BJNE000500314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurfverh_bkg/BJNR219390969.html#BJNR219390969BJNE000600314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

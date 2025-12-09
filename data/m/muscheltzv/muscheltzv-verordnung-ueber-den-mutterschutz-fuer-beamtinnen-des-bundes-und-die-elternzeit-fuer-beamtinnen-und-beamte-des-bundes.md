@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Mutterschutz
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNG000101116)
 
 
 ### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000101116)
 
 Für den Mutterschutz von Personen in einem Beamtenverhältnis beim Bund
 sowie bei bundesunmittelbaren Körperschaften, Anstalten und Stiftungen
@@ -31,6 +33,7 @@ des öffentlichen Rechts gelten die §§ 2 bis 5.
 
 
 ### § 2 Anwendung des Mutterschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000202311)
 
 (1) Die folgenden Vorschriften des Mutterschutzgesetzes sind
 entsprechend anzuwenden:
@@ -82,6 +85,7 @@ Informationssystem jederzeit zugänglich zu machen.
 
 
 ### § 3 Besoldung bei Beschäftigungsverbot, Untersuchungen und Stillen
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000303311)
 
 (1) Durch die mutterschutzrechtlichen Beschäftigungsverbote mit
 Ausnahme des Verbots der Mehrarbeit wird die Zahlung der Dienst- und
@@ -107,6 +111,7 @@ ist.
 
 
 ### § 4 Entlassung während der Schwangerschaft, nach einer Fehlgeburt und nach der Entbindung
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000403116)
 
 (1) Während der Schwangerschaft, bis zum Ablauf von vier Monaten nach
 einer Fehlgeburt nach der zwölften Schwangerschaftswoche und bis zum
@@ -139,6 +144,7 @@ des Bundesbeamtengesetzes bleiben unberührt.
 
 
 ### § 5 Zuschuss bei Beschäftigungsverbot während einer Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000501116)
 
 Beamtinnen erhalten einen Zuschuss von 13 Euro für jeden Kalendertag
 eines Beschäftigungsverbots in den letzten sechs Wochen vor der
@@ -154,9 +160,11 @@ würden.
 
 
 ## Abschnitt 2 - Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNG000200000)
 
 
 ### § 6 Anwendung des Bundeselterngeld- und Elternzeitgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000603311)
 
 Beamtinnen und Beamte haben Anspruch auf Elternzeit ohne Dienst- oder
 Anwärterbezüge entsprechend des § 15 Absatz 1 bis 3 sowie der §§ 16
@@ -164,6 +172,7 @@ und 28 Absatz 1 Satz 1 des Bundeselterngeld- und Elternzeitgesetzes.
 
 
 ### § 7 Teilzeitbeschäftigung während der Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000702311)
 
 (1) Während der Elternzeit ist Beamtinnen und Beamten, die Anspruch
 auf Dienst- oder Anwärterbezüge haben, auf Antrag eine
@@ -182,6 +191,7 @@ vorliegt.
 
 
 ### § 8 Entlassung während der Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000802116)
 
 (1) Während der Elternzeit darf die Entlassung von Beamtinnen und
 Beamten auf Probe und von Beamtinnen und Beamten auf Widerruf gegen
@@ -195,6 +205,7 @@ ausnahmsweise für zulässig erklären.
 
 
 ### § 9 Erstattung von Krankenversicherungsbeiträgen
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE000902311)
 
 (1) Beamtinnen und Beamten werden für die Dauer der Elternzeit die
 Beiträge für ihre Kranken- und Pflegeversicherung bis zu monatlich 31
@@ -227,6 +238,7 @@ Krankenversicherung und Pflegeversicherung.
 
 
 ### § 10 Sonderregelung für Richterinnen und Richter im Bundesdienst
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE001000000)
 
 Während der Elternzeit ist eine Teilzeitbeschäftigung als Richterin
 oder Richter von mindestens der Hälfte bis zu drei Vierteln des
@@ -234,9 +246,11 @@ regelmäßigen Dienstes zulässig.
 
 
 ## Abschnitt 3 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNG000300000)
 
 
 ### § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/muscheltzv/BJNR032010009.html#BJNR032010009BJNE001101116)
 
 Auf die vor dem 14. Februar 2009 geborenen Kinder oder auf die vor
 diesem Zeitpunkt mit dem Ziel der Adoption aufgenommenen Kinder ist §

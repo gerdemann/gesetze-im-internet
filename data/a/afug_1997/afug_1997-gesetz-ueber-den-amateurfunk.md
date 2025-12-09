@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000100311)
 
 Dieses Gesetz regelt die Voraussetzungen und die Bedingungen für die
 Teilnahme am Amateurfunkdienst.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000201119)
 
 Im Sinne dieses Gesetzes ist
 
@@ -58,6 +60,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Voraussetzungen zur Teilnahme am Amateurfunkdienst, Rufzeichen, Frequenzzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000305119)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen (§ 10) läßt eine natürliche Person unter
@@ -110,6 +113,7 @@ Rufzeichen zugeteilt worden sind.
 
 
 ## § 4 Fachliche Prüfung, Anerkennung von Amateurfunkzeugnissen fremder Verwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000404123)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung die Durchführung und die
@@ -135,6 +139,7 @@ Amateurfunkstelle in Deutschland betreiben.
 
 
 ## § 5 Rechte und Pflichten des Funkamateurs
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000503119)
 
 (1) Der Funkamateur darf nur ein ihm von der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zugeteiltes
@@ -170,6 +175,7 @@ Amateurfunkdienst betreffen, für und an Dritte nicht übermitteln. Satz
 
 
 ## § 6 Technische und betriebliche Rahmenbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000605119)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung unter Berücksichtigung
@@ -205,6 +211,7 @@ Verordnung vom 15. April 1985 (BGBl. I S.637), aufgehoben werden.
 
 
 ## § 7 Schutzanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000703308)
 
 (1) Beim Betrieb einer Amateurfunkstelle sind abweichend von den
 sonstigen Vorschriften des Gesetzes über die elektromagnetische
@@ -236,10 +243,12 @@ Telekommunikationsendeinrichtungen findet insoweit Anwendung.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000806123)
 
 
 
 ## § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE000902119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -271,6 +280,7 @@ Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 ## § 10 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE001002119)
 
 (1) Die sich aus diesem Gesetz und den auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen ergebenden Aufgaben nimmt die
@@ -291,6 +301,7 @@ erhalten.
 
 
 ## § 11 Betriebseinschränkungen und -verbote
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE001101119)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen kann bei Verstößen gegen dieses Gesetz oder gegen
@@ -310,6 +321,7 @@ hierdurch erhebliche Störungen dieser Funkdienste verursacht werden. §
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE001200311)
 
 Die bis zum Inkrafttreten dieses Gesetzes erteilten Genehmigungen zum
 Errichten und Betreiben von Amateurfunkstellen gelten nach Maßgabe
@@ -317,6 +329,7 @@ dieses Gesetzes weiter.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/afug_1997/BJNR149400997.html#BJNR149400997BJNE001300311)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

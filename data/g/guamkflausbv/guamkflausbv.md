@@ -31,6 +31,7 @@ Stand: Ersetzt V 806-22-1-15 v. 14.2.2006 I 409 (GrHdlKfmAusbV 2006)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -40,9 +41,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000300000)
 
 Der Ausbildungsberuf des Kaufmanns für Groß- und
 Außenhandelsmanagement und der Kauffrau für Groß- und
@@ -51,11 +54,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -73,6 +78,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -180,6 +186,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -187,12 +194,15 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000300000)
 
 
 #### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000801311)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -204,9 +214,11 @@ jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
 
 ### Unterabschnitt 2 - Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000400000)
 
 
 #### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -223,6 +235,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Organisieren
 des Warensortiments und von Dienstleistungen statt.
@@ -261,9 +274,11 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### Unterabschnitt 3 - Teil 2 der Abschlussprüfung in der Fachrichtung Großhandel
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000500000)
 
 
 #### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Großhandel auf
@@ -286,6 +301,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Großhandel in
 den folgenden Prüfungsbereichen statt:
@@ -307,6 +323,7 @@ den folgenden Prüfungsbereichen statt:
 
 
 #### § 11 Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001300000)
 
 (1) Im Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -339,6 +356,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 12 Prüfungsbereich Prozessorientierte Organisation von Großhandelsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001400000)
 
 (1) Im Prüfungsbereich Prozessorientierte Organisation von
 Großhandelsgeschäften hat der Prüfling nachzuweisen, dass er in der
@@ -378,6 +396,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 13 Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Großhandel
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001500000)
 
 (1) Im Prüfungsbereich Fallbezogenes Fachgespräch zu einer
 betrieblichen Fachaufgabe im Großhandel hat der Prüfling nachzuweisen,
@@ -479,6 +498,7 @@ Fachgespräch erbringt.
 
 
 #### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -492,6 +512,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Großhandel wie folgt zu gewichten:
@@ -569,6 +590,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -609,9 +631,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Abschlussprüfung in der Fachrichtung Außenhandel
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000600000)
 
 
 #### § 17 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE001900000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Außenhandel auf
@@ -634,6 +658,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 18 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002000000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Außenhandel in
 folgenden Prüfungsbereichen statt:
@@ -655,6 +680,7 @@ folgenden Prüfungsbereichen statt:
 
 
 #### § 19 Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002100000)
 
 (1) Im Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -687,6 +713,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 20 Prüfungsbereich Prozessorientierte Organisation von Außenhandelsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002200000)
 
 (1) Im Prüfungsbereich Prozessorientierte Organisation von
 Außenhandelsgeschäften hat der Prüfling nachzuweisen, dass er in der
@@ -736,6 +763,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 21 Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Außenhandel
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002300000)
 
 (1) Im Prüfungsbereich Fallbezogenes Fachgespräch zu einer
 betrieblichen Fachaufgabe im Außenhandel hat der Prüfling
@@ -838,6 +866,7 @@ Fachgespräch erbringt.
 
 
 #### § 22 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002400000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -851,6 +880,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 23 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Außenhandel wie folgt zu gewichten:
@@ -928,6 +958,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 24 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002600000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -968,9 +999,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNG000700000)
 
 
 ### § 25 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002700000)
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Kaufmann im Groß- und
@@ -980,6 +1013,7 @@ Außenhandel/zur Kauffrau im Groß- und Außenhandel vom 14. Februar 2006
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/guamkflausbv/BJNR071500020.html#BJNR071500020BJNE002800000)
 
 (Fundstelle: BGBl. I 2020, 722 - 729)
 

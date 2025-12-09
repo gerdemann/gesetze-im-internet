@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000100000)
 
 
 ### § 1 Anwendungs- und Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000200000)
 
 (1) Dieses Gesetz trifft Regelungen zum Schutz des Menschen und,
 soweit es um den langfristigen Schutz der menschlichen Gesundheit
@@ -66,6 +68,7 @@ Wirtschaftszone und des Festlandsockels anzuwenden.
 
 
 ### § 2 Exposition; Expositionssituationen; Expositionskategorien
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000300000)
 
 (1) Exposition ist die Einwirkung ionisierender Strahlung auf den
 menschlichen Körper durch Strahlungsquellen außerhalb des Körpers
@@ -158,6 +161,7 @@ Handlungen.
 
 
 ### § 3 Begriff der radioaktiven Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000400000)
 
 (1) Radioaktive Stoffe (Kernbrennstoffe und sonstige radioaktive
 Stoffe) im Sinne dieses Gesetzes sind alle Stoffe, die ein Radionuklid
@@ -241,6 +245,7 @@ Notfallexpositionssituationen auftreten.
 
 
 ### § 4 Tätigkeiten, Tätigkeitsarten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000501000)
 
 (1) Tätigkeiten sind
 
@@ -338,6 +343,7 @@ beurteilen sind.
 
 
 ### § 5 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000602128)
 
 (1) Abfälle: Alle Stoffe und Gegenstände, die Abfälle im Sinne des § 3
 Absatz 1 des Kreislaufwirtschaftsgesetzes sind, einschließlich der
@@ -722,12 +728,15 @@ auf Grund anderer Eigenschaften erfolgt.
 
 
 ## Teil 2 - Strahlenschutz bei geplanten Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000200000)
 
 
 ### Kapitel 1 - Strahlenschutzgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000300000)
 
 
 #### § 6 Rechtfertigung von Tätigkeitsarten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000701000)
 
 (1) Neue Tätigkeitsarten, mit denen Expositionen von Mensch und Umwelt
 verbunden sein können, müssen unter Abwägung ihres wirtschaftlichen,
@@ -749,6 +758,7 @@ gerechtfertigt sind.
 
 
 #### § 7 Verfahren zur Prüfung der Rechtfertigung einer Tätigkeitsart; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000803128)
 
 (1) Liegen der zuständigen Behörde in einem Genehmigungs- oder
 Anzeigeverfahren nach den §§ 10, 12, 17, 19 Absatz 1 Satz 1 Nummer 1,
@@ -790,6 +800,7 @@ Zustimmung des Bundesrates
 
 
 #### § 8 Vermeidung unnötiger Exposition und Dosisreduzierung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE000901000)
 
 (1) Wer eine Tätigkeit plant, ausübt oder ausüben lässt, ist
 verpflichtet, jede unnötige Exposition oder Kontamination von Mensch
@@ -812,6 +823,7 @@ hat er unter Berücksichtigung aller Umstände des Einzelfalls
 
 
 #### § 9 Dosisbegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001001000)
 
 Wer eine Tätigkeit plant, ausübt oder ausüben lässt, ist verpflichtet,
 dafür zu sorgen, dass die Dosisgrenzwerte nicht überschritten werden,
@@ -820,12 +832,15 @@ Rechtsverordnungen festgelegt sind.
 
 
 ### Kapitel 2 - Vorabkontrolle bei radioaktiven Stoffen oder ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000400000)
 
 
 #### Abschnitt 1 - Errichtung von Anlagen zur Erzeugung ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000500000)
 
 
 ##### § 10 Genehmigungsbedürftige Errichtung von Anlagen zur Erzeugung ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001102128)
 
 (1) Wer eine Anlage zur Erzeugung ionisierender Strahlung der
 folgenden Art errichtet, bedarf der Genehmigung:
@@ -859,6 +874,7 @@ Errichtung einer der in Absatz 1 genannten Anlagen wesentlich ändert.
 
 
 ##### § 11 Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001202128)
 
 (1) Die zuständige Behörde hat die Genehmigung für die Errichtung
 einer Anlage nach § 10 zu erteilen, wenn
@@ -914,9 +930,11 @@ Rechtfertigung aus.
 
 
 #### Abschnitt 2 - Betrieb von Anlagen zur Erzeugung ionisierender Strahlung; Umgang mit radioaktiven Stoffen; Betrieb von Röntgeneinrichtungen oder Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000600000)
 
 
 ##### § 12 Genehmigungsbedürftige Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001302128)
 
 (1) Einer Genehmigung bedarf, wer
 
@@ -997,6 +1015,7 @@ wesentlichen Änderungen gelten die Sätze 1 und 2 entsprechend.
 
 
 ##### § 13 Allgemeine Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001402128)
 
 (1) Die zuständige Behörde hat eine Genehmigung für Tätigkeiten nach §
 12 Absatz 1 zu erteilen, wenn
@@ -1100,6 +1119,7 @@ Ländern vollständig finanziert wird.
 
 
 ##### § 14 Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001501000)
 
 (1) Die Genehmigung für eine Tätigkeit nach § 12 Absatz 1 Nummer 1, 2,
 3 oder 4 im Zusammenhang mit der Anwendung ionisierender Strahlung
@@ -1239,6 +1259,7 @@ Die Genehmigung wird auf längstens fünf Jahre befristet.
 
 
 ##### § 15 Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Tier in der Tierheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001601000)
 
 Die Genehmigung für eine Tätigkeit nach § 12 Absatz 1 Nummer 1, 2, 3
 oder 4 im Zusammenhang mit der Anwendung am Tier in der Tierheilkunde
@@ -1250,6 +1271,7 @@ zahnärztlichen Berufs berechtigt ist.
 
 
 ##### § 16 Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001701000)
 
 Einem Genehmigungsantrag für eine Tätigkeit nach § 12 Absatz 1 sind
 die zur Prüfung erforderlichen Unterlagen, insbesondere die Unterlagen
@@ -1257,6 +1279,7 @@ nach Anlage 2, beizufügen.
 
 
 ##### § 17 Anzeigebedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001802128)
 
 (1) Wer beabsichtigt, eine der folgenden Anlagen zur Erzeugung
 ionisierender Strahlung zu betreiben, hat dies der zuständigen Behörde
@@ -1339,6 +1362,7 @@ entsprechend anzuwenden.
 
 
 ##### § 18 Prüfung des angezeigten Betriebs einer Anlage zur Erzeugung ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE001902128)
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier
 Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor
@@ -1402,6 +1426,7 @@ oder die Änderung des Betriebs untersagen, wenn
 
 
 ##### § 19 Genehmigungs- und anzeigebedürftiger Betrieb von Röntgeneinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002007119)
 
 (1) Wer beabsichtigt,
 
@@ -1592,6 +1617,7 @@ Röntgeneinrichtung sind die Absätze 1 und 4 entsprechend anzuwenden.
 
 
 ##### § 20 Prüfung des angezeigten Betriebs einer Röntgeneinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002103119)
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von zwei
 Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor
@@ -1673,6 +1699,7 @@ nach § 19 Absatz 1 Satz 1 Nummer 2 untersagen, wenn
 
 
 ##### § 21 Beendigung des genehmigten oder angezeigten Betriebs oder Umgangs
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002201000)
 
 Wer den genehmigten oder angezeigten Betrieb einer Anlage zur
 Erzeugung ionisierender Strahlung, einer Röntgeneinrichtung oder eines
@@ -1681,6 +1708,7 @@ beendet, hat dies der zuständigen Behörde unverzüglich mitzuteilen.
 
 
 ##### § 22 Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002302128)
 
 (1) Wer
 
@@ -1752,6 +1780,7 @@ wenn
 
 
 ##### § 23 Verhältnis zur Verordnung (EU) 2017/745
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002404119)
 
 Die Anforderungen an die Beschaffenheit von Bestrahlungsvorrichtungen,
 von radioaktiven Stoffen, von Anlagen zur Erzeugung ionisierender
@@ -1765,6 +1794,7 @@ und digitalen Untersuchungs- und Behandlungsdaten bleiben unberührt.
 
 
 ##### § 24 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002500000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen,
@@ -1864,9 +1894,11 @@ Strahlenschutzverantwortliche zu sorgen hat.
 
 
 #### Abschnitt 3 - Beschäftigung in fremden Anlagen oder Einrichtungen oder im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000700000)
 
 
 ##### § 25 Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002601000)
 
 (1) Wer in fremden kerntechnischen Anlagen, Anlagen im Sinne des § 9a
 Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes, Anlagen zur
@@ -1902,6 +1934,7 @@ Die Genehmigung wird auf längstens fünf Jahre befristet.
 
 
 ##### § 26 Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002702128)
 
 (1) Wer im Zusammenhang mit dem Betrieb einer fremden
 Röntgeneinrichtung oder eines fremden Störstrahlers Personen
@@ -1959,9 +1992,11 @@ untersagen, wenn
 
 
 #### Abschnitt 4 - Beförderung radioaktiver Stoffe; grenzüberschreitende Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000800000)
 
 
 ##### § 27 Genehmigungsbedürftige Beförderung sonstiger radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002802128)
 
 (1) Wer sonstige radioaktive Stoffe befördert, bedarf der Genehmigung.
 Die Genehmigung kann dem Absender oder Beförderer im Sinne der
@@ -1996,6 +2031,7 @@ Inhaber der Genehmigung ist, zu beachten.
 
 
 ##### § 28 Genehmigungsfreie Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE002902118)
 
 (1) Keiner Genehmigung nach § 4 Absatz 1 des Atomgesetzes oder § 27
 Absatz 1 dieses Gesetzes bedarf, wer folgende Stoffe befördert:
@@ -2044,6 +2080,7 @@ nach § 4b des Atomgesetzes zu erbringen hat.
 
 
 ##### § 29 Voraussetzungen für die Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003004128)
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 27 Absatz 1 zu
 erteilen, wenn
@@ -2135,6 +2172,7 @@ werden.
 
 
 ##### § 30 Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003100000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, dass die grenzüberschreitende
@@ -2163,12 +2201,15 @@ genehmigungsfrei ist.
 
 
 #### Abschnitt 5 - Medizinische Forschung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG000901119)
 
 
 ##### Unterabschnitt 1 - Genehmigung einer Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004900119)
 
 
 ###### § 31 Genehmigungsbedürftige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003205119)
 
 Wer zum Zweck der medizinischen Forschung radioaktive Stoffe oder
 ionisierende Strahlung am Menschen anwendet, bedarf der Genehmigung,
@@ -2180,6 +2221,7 @@ abweicht.
 
 
 ###### § 31a Antrag auf Genehmigung einer Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023500119)
 
 (1) Der Genehmigungsantrag ist wie folgt einzureichen:
 
@@ -2247,6 +2289,7 @@ Arzneimittelgesetzes genannte klinische Prüfung handelt.
 
 
 ###### § 31b Genehmigungsverfahren bei der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023600119)
 
 (1) Die zuständige Behörde prüft die eingereichten Unterlagen auf
 Vollständigkeit innerhalb der folgenden Fristen:
@@ -2339,6 +2382,7 @@ zurückgenommen.
 
 
 ###### § 31c Voraussetzungen für die Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023700119)
 
 (1) Die zuständige Behörde darf die Genehmigung nur erteilen, wenn
 
@@ -2425,9 +2469,11 @@ Eintritt und Inhalt der fingierten Genehmigung.
 
 
 ##### Unterabschnitt 2 - Anzeige einer Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG005000119)
 
 
 ###### § 32 Anzeigebedürftige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003302119)
 
 (1) Wer beabsichtigt, radioaktive Stoffe oder ionisierende Strahlung
 am Menschen zum Zweck der medizinischen Forschung anzuwenden, hat dies
@@ -2549,6 +2595,7 @@ Einrichtungen gemeinsam angezeigt werden.
 
 
 ###### § 33 Beginn der angezeigten Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003402119)
 
 (1) Mit der angezeigten Anwendung radioaktiver Stoffe oder
 ionisierender Strahlung am Menschen zum Zweck der medizinischen
@@ -2593,6 +2640,7 @@ Kenntnis.
 
 
 ###### § 34 Untersagung der angezeigten Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003502119)
 
 Die zuständige Behörde untersagt die angezeigte Anwendung, wenn
 
@@ -2622,6 +2670,7 @@ Die zuständige Behörde untersagt die angezeigte Anwendung, wenn
 
 
 ###### § 34a Eingeschränkte Zulassung der angezeigten Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023800119)
 
 (1) Die zuständige Behörde kann die angezeigte Anwendung radioaktiver
 Stoffe oder ionisierender Strahlung am Menschen zum Zweck der
@@ -2635,6 +2684,7 @@ Bedingungen, Befristungen oder Auflagen unverzüglich zur Kenntnis.
 
 
 ###### § 35 Deckungsvorsorge bei der anzeigebedürftigen Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003604119)
 
 (1) Im Anzeigeverfahren ist der Nachweis über die erforderliche
 Deckungsvorsorge zu erbringen durch die Vorlage einer Bestätigung über
@@ -2664,9 +2714,11 @@ Durchführungsgesetz erbracht werden.
 
 
 ##### Unterabschnitt 3 - Tätigkeit der Ethik-Kommission bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG005100119)
 
 
 ###### § 36 Aufgabe der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003702119)
 
 (1) Im Anwendungsbereich dieses Gesetzes dürfen nur öffentlich-
 rechtliche, nach Landesrecht gebildete Ethik-Kommissionen und die
@@ -2755,6 +2807,7 @@ Rechtsbehelfen geltend gemacht werden.
 
 
 ###### § 36a Prüfung einer anzeige- oder genehmigungsbedürftigen Anwendung im Rahmen einer klinischen Prüfung im Sinne des § 4 Absatz 23 des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023900119)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte
 unterrichtet die zuständige Ethik-Kommission unverzüglich, spätestens
@@ -2778,6 +2831,7 @@ Behörde.
 
 
 ###### § 36b Prüfung einer anzeige- oder genehmigungsbedürftigen Anwendung im Rahmen einer klinischen Prüfung im Sinne des Artikels 2 Nummer 45 der Verordnung (EU) 2017/745 oder einer sonstigen klinischen Prüfung im Sinne des § 3 Nummer 4 des Medizinprodukterecht-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE024000119)
 
 (1) Bevor der Antragsteller den Genehmigungsantrag oder der Anzeigende
 die Anzeige bei der zuständigen Behörde einreicht, hat er über das
@@ -2840,6 +2894,7 @@ Behörde.
 
 
 ###### § 36c Prüfung einer sonstigen Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE024100119)
 
 (1) Finden weder § 36a noch § 36b Anwendung, hat der Antragsteller die
 Stellungnahme bei der nach Landesrecht zuständigen Ethik-Kommission zu
@@ -2857,9 +2912,11 @@ sowohl dem Antragsteller als auch der zuständigen Behörde.
 
 
 ##### Unterabschnitt 4 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG005200119)
 
 
 ###### § 37 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003801119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, welche besonderen
@@ -2930,12 +2987,15 @@ Nummer 3 und 4 eingeschränkt.
 
 
 #### Abschnitt 6 - Schutz des Verbrauchers bei Zusatz radioaktiver Stoffe und Aktivierung; bauartzugelassene Vorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001000000)
 
 
 ##### Unterabschnitt 1 - Rechtfertigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001100000)
 
 
 ###### § 38 Rechtfertigung von Tätigkeitsarten mit Konsumgütern oder bauartzugelassenen Vorrichtungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE003902128)
 
 (1) Das Bundesamt für Strahlenschutz prüft innerhalb von zwölf Monaten
 nach Eingang eines von der zuständigen Behörde gemäß § 41 Absatz 5, §
@@ -2985,9 +3045,11 @@ Zustimmung des Bundesrates
 
 
 ##### Unterabschnitt 2 - Schutz des Verbrauchers beim Zusatz radioaktiver Stoffe und bei der Aktivierung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001200000)
 
 
 ###### § 39 Unzulässiger Zusatz radioaktiver Stoffe und unzulässige Aktivierung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004001000)
 
 (1) Der Zusatz radioaktiver Stoffe bei der Herstellung folgender
 Produkte ist unzulässig:
@@ -3048,6 +3110,7 @@ werden.
 
 
 ###### § 40 Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004102128)
 
 (1) Wer bei der Herstellung von Konsumgütern, von Arzneimitteln im
 Sinne des § 2 des Arzneimittelgesetzes mit Ausnahme von radioaktiven
@@ -3082,6 +3145,7 @@ genannten Unterlagen, beizufügen.
 
 
 ###### § 41 Voraussetzungen für die Erteilung der Genehmigung des Zusatzes radioaktiver Stoffe oder der Aktivierung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004201000)
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 40 bei der
 Herstellung von Konsumgütern zu erteilen, wenn
@@ -3217,6 +3281,7 @@ Genehmigungsverfahren aus.
 
 
 ###### § 42 Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004301000)
 
 (1) Wer Konsumgüter, denen radioaktive Stoffe zugesetzt oder die
 aktiviert worden sind,
@@ -3272,6 +3337,7 @@ insbesondere die in Anlage 2 Teil F genannten Unterlagen, beizufügen.
 
 
 ###### § 43 Voraussetzungen für die Erteilung der Genehmigung der grenzüber- schreitenden Verbringung von Konsumgütern
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004401000)
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 42 zu erteilen,
 wenn die Voraussetzungen für die Genehmigung der grenzüberschreitenden
@@ -3293,6 +3359,7 @@ die zuständige Behörde das Genehmigungsverfahren aus.
 
 
 ###### § 44 Rückführung von Konsumgütern
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004501000)
 
 Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf
 und nach § 41 Absatz 1 Nummer 3 ein Rücknahmekonzept zu erstellen hat,
@@ -3303,9 +3370,11 @@ angegebenen Stelle zurückzugeben.
 
 
 ##### Unterabschnitt 3 - Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001300000)
 
 
 ###### § 45 Bauartzugelassene Vorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004605128)
 
 (1) Die Bauart folgender Vorrichtungen kann auf Antrag des Herstellers
 oder Verbringers der Vorrichtung zugelassen werden (bauartzugelassene
@@ -3365,6 +3434,7 @@ enthalten.
 
 
 ###### § 46 Verfahren der Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004702128)
 
 (1) Dem Antrag auf Zulassung einer Bauart sind die zur Prüfung
 erforderlichen Unterlagen, insbesondere die in Anlage 2 Teil G
@@ -3439,6 +3509,7 @@ zur Prüfung erforderlichen Baumusters entscheiden.
 
 
 ###### § 47 Zulassungsschein
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004801000)
 
 Wird die Bauart einer Vorrichtung nach § 45 zugelassen, so erteilt die
 für die Zulassung der Bauart zuständige Behörde einen
@@ -3477,6 +3548,7 @@ Zulassungsschein. Der Zulassungsschein enthält die folgenden Angaben:
 
 
 ###### § 48 Verwendung oder Betrieb bauartzugelassener Vorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE004902128)
 
 Eine bauartzugelassene Vorrichtung darf
 
@@ -3507,6 +3579,7 @@ gewährleistet ist.
 
 
 ###### § 49 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005000000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -3550,9 +3623,11 @@ Zustimmung des Bundesrates
 
 
 #### Abschnitt 7 - Tätigkeiten im Zusammenhang mit kosmischer Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001400000)
 
 
 ##### § 50 Anzeigebedürftiger Betrieb von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005102128)
 
 (1) Wer beabsichtigt, ein Luftfahrzeug zu betreiben, das in der
 deutschen Luftfahrzeugrolle nach § 3 Absatz 1 des Luftverkehrsgesetzes
@@ -3628,6 +3703,7 @@ werden.
 
 
 ##### § 51 Prüfung des angezeigten Betriebs von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005202128)
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier
 Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor
@@ -3662,6 +3738,7 @@ wenn
 
 
 ##### § 52 Anzeigebedürftiger Betrieb von Raumfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005302128)
 
 (1) Wer mit Sitz im Geltungsbereich dieses Gesetzes beabsichtigt,
 Raumfahrzeuge zu betreiben und dafür raumfahrendes Personal
@@ -3733,6 +3810,7 @@ Strahlung nicht.
 
 
 ##### § 53 Prüfung des angezeigten Betriebs von Raumfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005402128)
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von zwei
 Monaten nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden
@@ -3772,6 +3850,7 @@ nachzuweisenden Anforderungen nicht erfüllt ist.
 
 
 ##### § 54 Beendigung der angezeigten Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005501000)
 
 Wer eine nach § 50 Absatz 1 oder § 52 Absatz 1 angezeigte Tätigkeit
 beendet oder derart verändert, dass die effektive Dosis, die das
@@ -3781,12 +3860,15 @@ der zuständigen Behörde unverzüglich mitzuteilen.
 
 
 #### Abschnitt 8 - Tätigkeiten im Zusammenhang mit natürlich vorkommender Radioaktivität
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001500000)
 
 
 ##### Unterabschnitt 1 - Arbeitsplätze mit Exposition durch natürlich vorkommende Radioaktivität
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001600000)
 
 
 ###### § 55 Abschätzung der Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005602128)
 
 (1) Wer in seiner Betriebsstätte eine Tätigkeit nach § 4 Absatz 1 Satz
 1 Nummer 10 ausübt oder ausüben lässt, die einem der in Anlage 3
@@ -3813,6 +3895,7 @@ aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ###### § 56 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005702128)
 
 (1) Ergibt die Abschätzung, dass die Körperdosis einen der Werte für
 die Einstufung als beruflich exponierte Person überschreiten kann, so
@@ -3879,6 +3962,7 @@ angezeigte Tätigkeit wesentlich verändert wird.
 
 
 ###### § 57 Prüfung der angezeigten Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005802128)
 
 (1) Die zuständige Behörde prüft die Anzeige innerhalb von vier Wochen
 nach Eingang der Unterlagen. Teilt die Behörde dem Anzeigenden im
@@ -3937,6 +4021,7 @@ Erfüllung der Anordnung untersagen.
 
 
 ###### § 58 Beendigung der angezeigten Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE005901000)
 
 Wer eine nach § 56 Absatz 1 Satz 1 angezeigte Tätigkeit beendet oder
 derart verändert, dass eine Abschätzung nach § 55 Absatz 1 Satz 2
@@ -3946,6 +4031,7 @@ der zuständigen Behörde unverzüglich mitzuteilen.
 
 
 ###### § 59 Externe Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006002128)
 
 (1) Die Pflicht zur Abschätzung der Körperdosis nach § 55 Absatz 1
 gilt entsprechend für denjenigen, der die dort genannten Tätigkeiten
@@ -4003,9 +4089,11 @@ angezeigte Tätigkeit entsprechend.
 
 
 ##### Unterabschnitt 2 - Tätigkeiten mit Rückständen; Materialien
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001700000)
 
 
 ###### § 60 Anfall, Verwertung oder Beseitigung von Rückständen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006101000)
 
 (1) Wer in seiner Betriebsstätte industrielle und bergbauliche
 Prozesse durchführt oder durchführen lässt, bei denen jährlich mehr
@@ -4051,6 +4139,7 @@ genügen, und die sachliche Richtigkeit überprüfen.
 
 
 ###### § 61 Anfall und Lagerung überwachungsbedürftiger Rückstände; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006201000)
 
 (1) Wer in eigener Verantwortung industrielle und bergbauliche
 Prozesse durchführt oder durchführen lässt, bei denen
@@ -4103,6 +4192,7 @@ zur Beseitigung ist verboten.
 
 
 ###### § 62 Entlassung von Rückständen aus der Überwachung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006301000)
 
 (1) Der nach § 61 Absatz 1 Satz 1 Verpflichtete hat unter Angabe von
 Art, Masse und spezifischer Aktivität die beabsichtigte Verwertung
@@ -4203,6 +4293,7 @@ verwendet oder verwertet werden.
 
 
 ###### § 63 In der Überwachung verbleibende Rückstände; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006401000)
 
 (1) Ist eine Entlassung aus der Überwachung nach § 62 Absatz 2 nicht
 möglich, so hat der nach § 61 Absatz 1 Satz 1 Verpflichtete der
@@ -4226,6 +4317,7 @@ Zustimmung des Bundesrates festzulegen, auf welche Weise in der
 
 
 ###### § 64 Entfernung von Kontaminationen von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006501000)
 
 (1) Wer industrielle oder bergbauliche Prozesse, bei denen
 überwachungsbedürftige Rückstände angefallen sind, beendet, hat
@@ -4258,6 +4350,7 @@ sollen.
 
 
 ###### § 65 Überwachung sonstiger Materialien; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006601000)
 
 (1) Kann durch Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 10 mit
 Materialien, die im Inland oder im Ausland angefallen und die keine
@@ -4288,6 +4381,7 @@ zu beseitigen sind.
 
 
 ###### § 66 Mitteilungspflichten zur Betriebsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006702128)
 
 Besteht bei juristischen Personen das vertretungsberechtigte Organ aus
 mehreren Mitgliedern oder sind bei sonstigen Personenvereinigungen
@@ -4299,9 +4393,11 @@ Personenvereinigung bleibt hiervon unberührt.
 
 
 #### Abschnitt 9 - Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001800000)
 
 
 ##### § 67 Ausnahme von dem Erfordernis der Genehmigung und der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006802128)
 
 Wer als Arbeitnehmer oder Arbeitnehmerin oder anderweitig unter der
 Aufsicht stehend im Rahmen einer nach diesem Gesetz genehmigungs- oder
@@ -4310,9 +4406,11 @@ Genehmigung noch hat er oder sie eine Anzeige zu erstatten.
 
 
 ### Kapitel 3 - Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG001900000)
 
 
 #### § 68 Verordnungsermächtigung; Verwendungs- und Verwertungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE006901000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen,
@@ -4346,9 +4444,11 @@ wieder verwendet oder verwertet werden.
 
 
 ### Kapitel 4 - Betriebliche Organisation des Strahlenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002000000)
 
 
 #### § 69 Strahlenschutzverantwortlicher
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007002128)
 
 (1) Strahlenschutzverantwortlicher ist, wer
 
@@ -4385,6 +4485,7 @@ hiervon unberührt.
 
 
 #### § 70 Strahlenschutzbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007101000)
 
 (1) Der Strahlenschutzverantwortliche hat für die Leitung oder
 Beaufsichtigung einer Tätigkeit die erforderliche Anzahl von
@@ -4450,6 +4551,7 @@ Vorschriften des Bundesberggesetzes Anwendung finden.
 
 
 #### § 71 Betriebliche Zusammenarbeit im Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007201000)
 
 (1) Der Strahlenschutzverantwortliche hat den
 Strahlenschutzbeauftragten unverzüglich über alle Verwaltungsakte und
@@ -4481,6 +4583,7 @@ dessen Verlangen in Angelegenheiten des Strahlenschutzes zu beraten.
 
 
 #### § 72 Weitere Pflichten des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007303128)
 
 (1) Der Strahlenschutzverantwortliche hat bei Tätigkeiten nach § 4
 Absatz 1 Satz 1 Nummer 1 bis 7 und 9 unter Beachtung des Standes von
@@ -4568,6 +4671,7 @@ dieser Gefahr getroffen werden.
 
 
 #### § 73 Verordnungsermächtigung für den Erlass einer Strahlenschutzanweisung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007400000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, dass der
@@ -4576,6 +4680,7 @@ hat und welchen Inhalt die Strahlenschutzanweisung haben muss.
 
 
 #### § 74 Erforderliche Fachkunde und Kenntnisse im Strahlenschutz; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007502128)
 
 (1) Die erforderliche Fachkunde im Strahlenschutz wird in der Regel
 durch eine für das jeweilige Anwendungsgebiet geeignete Ausbildung,
@@ -4655,6 +4760,7 @@ mit Zustimmung des Bundesrates zu bestimmen,
 
 
 #### § 75 Überprüfung der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007601000)
 
 Für die Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen
 unbefugte Handlungen, die zu einer Entwendung oder Freisetzung
@@ -4664,9 +4770,11 @@ Verordnung anzuwenden.
 
 
 ### Kapitel 5 - Anforderungen an die Ausübung von Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002100000)
 
 
 #### § 76 Verordnungsermächtigungen für die physikalische Strahlenschutzkontrolle und Strahlenschutzbereiche; Aufzeichnungs- und Mitteilungspflichten der Daten der Körperdosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007702119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Anforderungen an die physikalische
@@ -4790,6 +4898,7 @@ Nummer 10 eingeschränkt.
 
 
 #### § 77 Grenzwert für die Berufslebensdosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007801000)
 
 Der Grenzwert für die Summe der in allen Kalenderjahren ermittelten
 effektiven Dosen beruflich exponierter Personen beträgt 400
@@ -4801,6 +4910,7 @@ Die Einwilligung ist schriftlich zu erteilen.
 
 
 #### § 78 Grenzwerte für beruflich exponierte Personen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE007901000)
 
 (1) Der Grenzwert der effektiven Dosis beträgt für beruflich
 exponierte Personen 20 Millisievert im Kalenderjahr. Die zuständige
@@ -4865,6 +4975,7 @@ unberührt.
 
 
 #### § 79 Verordnungsermächtigung für die berufliche Exposition; Führung einer Gesundheitsakte
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008002128)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, welche Vorsorge- und
@@ -5023,6 +5134,7 @@ Nummer 6 und 8 eingeschränkt.
 
 
 #### § 80 Grenzwerte für die Exposition der Bevölkerung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008101000)
 
 (1) Für Einzelpersonen der Bevölkerung beträgt der Grenzwert der Summe
 der effektiven Dosen 1 Millisievert im Kalenderjahr durch Expositionen
@@ -5071,6 +5183,7 @@ werden.
 
 
 #### § 81 Verordnungsermächtigung für den Schutz der Bevölkerung und der Umwelt
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008200000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, welche Vorsorge- und
@@ -5155,6 +5268,7 @@ Strahlenschutzverantwortliche zu sorgen hat.
 
 
 #### § 82 Verordnungsermächtigung für Pflichten des Strahlenschutzverantwortlichen im Zusammenhang mit Störfällen und Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008300000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, welche Pflichten der
@@ -5201,6 +5315,7 @@ bei radiologischen Gefahren anwendbar sind.
 
 
 #### § 83 Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008403119)
 
 (1) Ionisierende Strahlung und radioaktive Stoffe dürfen am Menschen
 nur angewendet werden
@@ -5255,6 +5370,7 @@ nichtmedizinische Anwendungen.
 
 
 #### § 84 Früherkennung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008502119)
 
 (1) Früherkennung zur Ermittlung nicht übertragbarer Krankheiten ist
 nur zulässig, wenn die Rechtsverordnung nach Absatz 2 dies vorsieht.
@@ -5299,6 +5415,7 @@ entbehrlich machen.
 
 
 #### § 85 Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten von Daten und Bilddokumenten bei der Anwendung am Menschen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008603128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass über
 die Anwendung ionisierender Strahlung oder radioaktiver Stoffe am
@@ -5420,6 +5537,7 @@ Strahlenschutzverantwortliche zu sorgen hat.
 
 
 #### § 86 Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008701128)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, welche Maßnahmen,
@@ -5563,6 +5681,7 @@ Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
 
 
 #### § 87 Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Tier in der Tierheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008800000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zum Schutz der bei der Anwendung
@@ -5585,6 +5704,7 @@ Strahlenschutzverantwortliche zu sorgen hat.
 
 
 #### § 88 Register über hochradioaktive Strahlenquellen; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE008903119)
 
 (1) Die Daten über hochradioaktive Strahlenquellen, die auf Grund
 dieses Gesetzes oder einer Rechtsverordnung nach § 89 Satz 1 Nummer 1
@@ -5678,6 +5798,7 @@ Zustimmung des Bundesrates das Nähere festzulegen über
 
 
 #### § 89 Verordnungsermächtigungen zu der Sicherheit von Strahlungsquellen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009001128)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zum Schutz von Menschen vor der schädlichen
@@ -5755,9 +5876,11 @@ Strahlenschutzverantwortliche zu sorgen hat.
 
 
 ### Kapitel 6 - Melde- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002200000)
 
 
 #### § 90 Verordnungsermächtigung für Pflichten, Aufgaben und Befugnisse bei Vorkommnissen; Aufzeichnungs-, Übermittlungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009101000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates im Hinblick auf Vorkommnisse in geplanten
@@ -5838,6 +5961,7 @@ löschen.
 
 
 #### § 91 Verordnungsermächtigung für Informationspflichten des Herstellers oder Lieferanten von Geräten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009200000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, dass der Hersteller oder
@@ -5868,15 +5992,19 @@ Rechtsverordnung kann insbesondere festgelegt werden,
 
 
 ## Teil 3 - Strahlenschutz bei Notfallexpositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002300000)
 
 
 ### Kapitel 1 - Notfallmanagementsystem des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002400000)
 
 
 #### Abschnitt 1 - Notfallschutzgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002500000)
 
 
 ##### § 92 Notfallschutzgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009300000)
 
 (1) Die Vorschriften der folgenden Absätze (Notfallschutzgrundsätze)
 sind als Vorgaben bei der Bewertung von Gefahren, die bei Notfällen
@@ -5914,9 +6042,11 @@ Referenzwerte so gering wie möglich zu halten.
 
 
 #### Abschnitt 2 - Referenz-, Dosis- und Kontaminationswerte; Abfälle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002600000)
 
 
 ##### § 93 Referenzwerte für den Schutz der Bevölkerung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009401119)
 
 (1) Für den Schutz der Bevölkerung gilt bei der Planung von
 Schutzmaßnahmen und bei den Entscheidungen über ihre Durchführung in
@@ -5946,6 +6076,7 @@ oder eine einmalige Exposition, festzulegen.
 
 
 ##### § 94 Dosiswerte und Kontaminationswerte für den Schutz der Bevölkerung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009501119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit legt für mögliche Notfälle durch Rechtsverordnung mit
@@ -6033,6 +6164,7 @@ Innern, für Bau und Heimat und dem Bundesministerium der Finanzen.
 
 
 ##### § 95 Bewirtschaftung von Abfällen, die infolge eines Notfalls kontaminiert sein können, Errichtung und Betrieb von Anlagen; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009600000)
 
 (1) Die Bundesregierung legt für mögliche Notfälle, für einen bereits
 eingetretenen Notfall und für eine nach einem Notfall bestehende
@@ -6179,6 +6311,7 @@ Einrichtungen behandelt, gelagert oder abgelagert werden können.
 
 
 ##### § 95a Auskunftsverlangen, Betretensrechte, Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023200128)
 
 (1) Auskunft über Abfälle und sonstige Gegenstände oder Stoffe, die
 durch einen Notfall kontaminiert sind oder kontaminiert sein können,
@@ -6276,6 +6409,7 @@ Personen handelt.
 
 
 ##### § 96 Eilverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009701119)
 
 (1) Bei Eilbedürftigkeit nach Eintritt eines Notfalls kann
 
@@ -6306,9 +6440,11 @@ aufzuheben, wenn der Bundesrat dies verlangt.
 
 
 #### Abschnitt 3 - Notfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002700000)
 
 
 ##### § 97 Gemeinsame Vorschriften für die Notfallpläne
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009800000)
 
 (1) Bund und Länder stellen Notfallpläne nach den §§ 98, 99, 100 und
 101 auf. In diesen Notfallplänen sind die geplanten angemessenen
@@ -6392,6 +6528,7 @@ Länder.
 
 
 ##### § 98 Allgemeiner Notfallplan des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE009901119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit bewertet mögliche Notfallexpositionssituationen. Auf seinen
@@ -6444,6 +6581,7 @@ darstellen.
 
 
 ##### § 99 Besondere Notfallpläne des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010000000)
 
 (1) Auf Vorschlag der für die jeweiligen Sachbereiche zuständigen
 Bundesministerien ergänzt und konkretisiert die Bundesregierung den
@@ -6496,6 +6634,7 @@ genannten Elemente. § 98 Absatz 3 Satz 2 gilt entsprechend.
 
 
 ##### § 100 Allgemeine und besondere Notfallpläne der Länder
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010100000)
 
 Die Länder stellen allgemeine und besondere Notfallpläne auf. Diese
 Notfallpläne der Länder ergänzen und konkretisieren den allgemeinen
@@ -6505,6 +6644,7 @@ Schutzmaßnahmen zuständig sind.
 
 
 ##### § 101 Externe Notfallpläne für ortsfeste Anlagen oder Einrichtungen mit besonderem Gefahrenpotential
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010200000)
 
 (1) Die für den Katastrophenschutz oder für die öffentliche Sicherheit
 zuständigen Behörden stellen nach Maßgabe ihrer landesrechtlichen
@@ -6525,6 +6665,7 @@ Strahlenschutzverantwortlichen für den anlageninternen Notfallschutz.
 
 
 ##### § 102 Notfallübungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010300000)
 
 (1) Die Behörden und Organisationen, die gemäß den Notfallplänen des
 Bundes und der Länder an der Notfallreaktion beteiligt sind, sowie die
@@ -6558,6 +6699,7 @@ erproben und zu üben sind insbesondere
 
 
 ##### § 103 Überprüfung und Änderung der Notfallpläne
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010400000)
 
 (1) Die Notfallpläne des Bundes und der Länder werden regelmäßig unter
 Berücksichtigung der Erfahrungen aus den Notfallübungen, den
@@ -6573,6 +6715,7 @@ die Überprüfungen sind in den Notfallplänen festzulegen.
 
 
 ##### § 104 Beschaffung von Schutzwirkstoffen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010500000)
 
 (1) Die nach § 192 Absatz 1 zuständige Behörde beschafft
 Schutzwirkstoffe in dem zur Versorgung der Bevölkerung im Bundesgebiet
@@ -6595,6 +6738,7 @@ Bevorratung, Verteilung und Abgabe an die Bevölkerung zur Verfügung.
 
 
 ##### § 105 Information der Bevölkerung über die Schutzmaßnahmen und Empfehlungen für das Verhalten bei möglichen Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010600000)
 
 (1) Die zuständigen Stellen des Bundes veröffentlichen die
 Notfallpläne des Bundes nach Maßgabe des § 10 des
@@ -6640,9 +6784,11 @@ Fassung unaufgefordert zu veröffentlichen. Sie müssen der
 
 
 #### Abschnitt 4 - Radiologische Lage, Notfallreaktion
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002800000)
 
 
 ##### § 106 Radiologisches Lagezentrum des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010702119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit richtet ein radiologisches Lagezentrum des Bundes ein.
@@ -6706,6 +6852,7 @@ unterstützt.
 
 
 ##### § 107 Aufgaben der Länder bei der Ermittlung und Auswertung der radiologischen Lage
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010800000)
 
 Die Länder übermitteln dem radiologischen Lagezentrum des Bundes
 unverzüglich
@@ -6750,6 +6897,7 @@ unverzüglich
 
 
 ##### § 108 Radiologisches Lagebild
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE010901119)
 
 (1) Nach Eintritt eines überregionalen oder regionalen Notfalls wird
 ein radiologisches Lagebild erstellt. In dem radiologischen Lagebild
@@ -6797,6 +6945,7 @@ und diagnostisch zulässt.
 
 
 ##### § 109 Entscheidungen über Schutzmaßnahmen durch die zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011000000)
 
 (1) Ob bei einem Notfall Schutzmaßnahmen getroffen werden und welche
 Schutzmaßnahmen bei diesem Notfall angemessen sind, entscheiden die
@@ -6832,6 +6981,7 @@ anderen Umstände des Notfalls.
 
 
 ##### § 110 Zusammenarbeit und Abstimmung bei Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011100000)
 
 Die Behörden und Organisationen, die an Entscheidungen über
 Schutzmaßnahmen oder deren Durchführung beteiligt sind, arbeiten nach
@@ -6842,6 +6992,7 @@ dadurch nicht verhindert oder unangemessen verzögert wird.
 
 
 ##### § 111 Dosisabschätzung, Abschätzung der Wirksamkeit der Schutzmaßnahmen, Anpassung der Notfallplanungen bei überregionalen und regionalen Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011201119)
 
 (1) Bei einem überregionalen oder regionalen Notfall schätzt die für
 die Erstellung des radiologischen Lagebildes zuständige Behörde oder
@@ -6922,6 +7073,7 @@ Artikel 84 Absatz 5 des Grundgesetzes für diesen Notfall
 
 
 ##### § 112 Information der betroffenen Bevölkerung und Empfehlungen für das Verhalten bei Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011301119)
 
 (1) Die nach Landesrecht zuständigen Behörden informieren bei einem
 lokalen Notfall unverzüglich die möglicherweise betroffene Bevölkerung
@@ -6949,9 +7101,11 @@ Notfall relevant sind.
 
 
 ### Kapitel 2 - Schutz der Einsatzkräfte
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG002900000)
 
 
 #### § 113 Unterrichtung, Aus- und Fortbildung der Einsatzkräfte im Rahmen der Notfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011400000)
 
 (1) Personen, die in den Notfallplänen des Bundes oder der Länder oder
 in internen Planungen der Strahlenschutzverantwortlichen
@@ -6983,6 +7137,7 @@ an Notfallübungen umfassen.
 
 
 #### § 114 Schutz der Einsatzkräfte bei Notfalleinsätzen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011501118)
 
 (1) Bei Notfalleinsätzen ist durch dem jeweiligen Einsatzzweck
 angemessene Schutz- und Überwachungsmaßnahmen anzustreben, dass die
@@ -7036,6 +7191,7 @@ die Berufslebensdosis nach § 77 zu berücksichtigen.
 
 
 #### § 115 Verantwortlichkeit für den Schutz der Einsatzkräfte
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011600000)
 
 (1) Verantwortlich für die Unterrichtung, Aus- und Fortbildung ihrer
 eigenen Einsatzkräfte sind
@@ -7079,6 +7235,7 @@ sind
 
 
 #### § 116 Schutz der Einsatzkräfte bei anderen Gefahrenlagen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011700000)
 
 Bei der Vorbereitung und Durchführung von Einsätzen, die nicht der
 Bekämpfung eines Notfalls im Sinne dieses Gesetzes, sondern der
@@ -7088,6 +7245,7 @@ Einsatzkräfte ionisierender Strahlung ausgesetzt sein können, sind die
 
 
 #### § 117 Verordnungsermächtigungen zum Schutz der Einsatzkräfte
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011801119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, durch Rechtsverordnung
@@ -7141,12 +7299,15 @@ Nummer 3 eingeschränkt.
 
 
 ## Teil 4 - Strahlenschutz bei bestehenden Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003000000)
 
 
 ### Kapitel 1 - Nach einem Notfall bestehende Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003100000)
 
 
 #### § 118 Übergang zu einer bestehenden Expositionssituation; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE011902119)
 
 (1) Wenn sich bei einem überregionalen oder regionalen Notfall die
 radiologische Lage im Wesentlichen stabilisiert hat, schätzt das
@@ -7227,6 +7388,7 @@ Referenzwerte für Organ-Äquivalentdosen festlegen.
 
 
 #### § 119 Radiologische Lage, Maßnahmen, Zusammenarbeit und Abstimmung in einer nach einem Notfall bestehenden Expositionssituation
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012001000)
 
 In einer nach einem Notfall bestehenden Expositionssituation sind die
 §§ 92 und 106 bis 111 entsprechend anzuwenden. An Stelle der
@@ -7237,6 +7399,7 @@ Notfallpläne nach den §§ 98 bis 100 gelten die Pläne nach § 118 Absatz
 
 
 #### § 120 Information der Bevölkerung und Verhaltensempfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012102119)
 
 (1) Pläne des Bundes nach § 118 Absatz 2 und 3 werden von den
 zuständigen Stellen des Bundes nach Maßgabe des § 10 des
@@ -7263,12 +7426,15 @@ Empfehlungen für das Verhalten in dieser Expositionssituation.
 
 
 ### Kapitel 2 - Schutz vor Radon
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003200000)
 
 
 #### Abschnitt 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003300000)
 
 
 ##### § 121 Festlegung von Gebieten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012202128)
 
 (1) Die zuständige Behörde legt durch Allgemeinverfügung innerhalb von
 zwei Jahren nach Inkrafttreten einer Rechtsverordnung nach Absatz 2
@@ -7289,6 +7455,7 @@ Gebiete heranzuziehen sind.
 
 
 ##### § 122 Radonmaßnahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012302119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit erstellt einen Radonmaßnahmenplan. Der Radonmaßnahmenplan
@@ -7315,6 +7482,7 @@ koordiniert die Entwicklung der Strategien.
 
 
 ##### § 123 Maßnahmen an Gebäuden; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012402128)
 
 (1) Wer ein Gebäude mit Aufenthaltsräumen oder Arbeitsplätzen
 errichtet, hat geeignete Maßnahmen zu treffen, um den Zutritt von
@@ -7353,9 +7521,11 @@ soweit diese Maßnahmen erforderlich und zumutbar sind.
 
 
 #### Abschnitt 2 - Schutz vor Radon in Aufenthaltsräumen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003400000)
 
 
 ##### § 124 Referenzwert; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012502119)
 
 Der Referenzwert für die über das Jahr gemittelte
 Radon-222-Aktivitätskonzentration in der Luft in Aufenthaltsräumen
@@ -7371,6 +7541,7 @@ Aufenthaltsräumen zu erfolgen hat.
 
 
 ##### § 125 Unterrichtung der Bevölkerung; Reduzierung der Radonkonzentration
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012602119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit sowie die zuständigen Behörden der Länder unterrichten die
@@ -7389,9 +7560,11 @@ andere Mittel zur Verringerung der Exposition durch Radon.
 
 
 #### Abschnitt 3 - Schutz vor Radon an Arbeitsplätzen in Innenräumen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003500000)
 
 
 ##### § 126 Referenzwert
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012701000)
 
 Der Referenzwert für die über das Jahr gemittelte
 Radon-222-Aktivitätskonzentration in der Luft an Arbeitsplätzen
@@ -7399,6 +7572,7 @@ beträgt 300 Becquerel je Kubikmeter.
 
 
 ##### § 127 Messung der Radonkonzentration
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012802128)
 
 (1) Wer für einen Arbeitsplatz in einem Innenraum verantwortlich ist,
 hat innerhalb der Frist nach Satz 2 Messungen der
@@ -7463,6 +7637,7 @@ für den Dritten.
 
 
 ##### § 128 Reduzierung der Radonkonzentration
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE012902128)
 
 (1) Überschreitet die Radon-222-Aktivitätskonzentration in der Luft an
 einem Arbeitsplatz den Referenzwert nach § 126, so hat der für den
@@ -7509,6 +7684,7 @@ Bekanntwerden der Gründe darüber zu unterrichten.
 
 
 ##### § 129 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013001000)
 
 (1) Der Verantwortliche nach § 128 Absatz 1 hat den Arbeitsplatz bei
 der zuständigen Behörde unverzüglich anzumelden, wenn eine Messung
@@ -7556,6 +7732,7 @@ betrieblichen Zusammenarbeit nach § 71 Absatz 3 entsprechend.
 
 
 ##### § 130 Abschätzung der Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013101000)
 
 (1) Der zur Anmeldung Verpflichtete hat innerhalb von sechs Monaten
 nach der Anmeldung eine auf den Arbeitsplatz bezogene Abschätzung der
@@ -7585,6 +7762,7 @@ Strahlenschutzes nach Maßgabe des § 131 und der Rechtsverordnung nach
 
 
 ##### § 131 Beruflicher Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013201000)
 
 (1) Erfordert das Ergebnis der Abschätzung nach § 130 Absatz 3 die
 Einhaltung von Anforderungen des beruflichen Strahlenschutzes, so hat
@@ -7620,6 +7798,7 @@ entsprechend.
 
 
 ##### § 131a Aufgabe oder Änderung des angemeldeten Arbeitsplatzes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023300128)
 
 Der für den Arbeitsplatz Verantwortliche, der einen Arbeitsplatz nach
 § 129 angemeldet hat, hat der zuständigen Behörde folgende Änderungen
@@ -7645,6 +7824,7 @@ unverzüglich mitzuteilen:
 
 
 ##### § 132 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013301128)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Anforderungen an den Schutz vor Radon an
@@ -7710,9 +7890,11 @@ festgelegt werden,
 
 
 ### Kapitel 3 - Schutz vor Radioaktivität in Bauprodukten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003600000)
 
 
 #### § 133 Referenzwert
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013401000)
 
 Der Referenzwert für die effektive Dosis aus äußerer Exposition von
 Einzelpersonen der Bevölkerung in Aufenthaltsräumen durch
@@ -7721,6 +7903,7 @@ Dosis aus äußerer Exposition im Freien 1 Millisievert im Kalenderjahr.
 
 
 #### § 134 Bestimmung der spezifischen Aktivität
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013501000)
 
 (1) Wer Bauprodukte, die die in Anlage 9 genannten mineralischen
 Primärrohstoffe oder Rückstände enthalten, herstellt oder ins Inland
@@ -7741,6 +7924,7 @@ verwendete Größen unterrichtet wird.
 
 
 #### § 135 Maßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013601000)
 
 (1) Der zur Bestimmung der spezifischen Aktivität Verpflichtete darf
 Bauprodukte, die die in Anlage 9 genannten mineralischen
@@ -7787,12 +7971,15 @@ hervorgehen.
 
 
 ### Kapitel 4 - Radioaktiv kontaminierte Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003700000)
 
 
 #### Abschnitt 1 - Radioaktive Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003800000)
 
 
 ##### § 136 Begriff der radioaktiven Altlast; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013701000)
 
 (1) Radioaktive Altlasten sind durch abgeschlossene menschliche
 Betätigung kontaminierte Grundstücke, Teile von Grundstücken, Gebäude
@@ -7822,6 +8009,7 @@ grundsätzlich eine Nutzung des Grundwassers zu unterstellen.
 
 
 ##### § 137 Verantwortlichkeit für radioaktive Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013801000)
 
 (1) Verantwortlich für eine radioaktive Altlast ist, wer
 
@@ -7855,6 +8043,7 @@ unter Berücksichtigung der Umstände des Einzelfalls schutzwürdig ist.
 
 
 ##### § 138 Verdacht auf radioaktive Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE013901000)
 
 (1) Liegen einer der in § 137 genannten Personen Anhaltspunkte für das
 Vorliegen einer radioaktiven Altlast vor, so hat sie dies der
@@ -7877,6 +8066,7 @@ Altlast vorliegt.
 
 
 ##### § 139 Behördliche Anordnungsbefugnisse für Maßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014001000)
 
 (1) Liegt eine radioaktive Altlast vor, so kann die zuständige Behörde
 einen der für die radioaktive Altlast Verantwortlichen verpflichten,
@@ -7945,6 +8135,7 @@ Zustimmung des Bundesrates
 
 
 ##### § 140 Weitere Pflichten im Zusammenhang mit der Durchführung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014101000)
 
 (1) Der für die radioaktive Altlast Verantwortliche hat der
 zuständigen Behörde unverzüglich den Beginn und den Abschluss der
@@ -7961,6 +8152,7 @@ wird.
 
 
 ##### § 141 Anwendung der Vorschriften für Tätigkeiten mit Rückständen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014201000)
 
 Abweichend von den §§ 138 bis 140 finden die Vorschriften von Teil 2
 Kapitel 2 Abschnitt 8 Unterabschnitt 2 dieses Gesetzes entsprechende
@@ -7972,6 +8164,7 @@ verwendet.
 
 
 ##### § 142 Information der Öffentlichkeit; Erfassung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014301000)
 
 (1) Die zuständige Behörde informiert die betroffene Öffentlichkeit
 über die radioaktive Altlast und die von ihr ausgehende Exposition
@@ -7984,6 +8177,7 @@ Altlasten und altlastverdächtigen Flächen.
 
 
 ##### § 143 Sanierungsplanung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014401000)
 
 (1) Bei radioaktiven Altlasten, bei denen wegen der
 Verschiedenartigkeit der erforderlichen Maßnahmen ein abgestimmtes
@@ -8020,6 +8214,7 @@ Abänderungen oder mit Nebenbestimmungen, für verbindlich erklären.
 
 
 ##### § 144 Behördliche Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014501000)
 
 (1) Die zuständige Behörde kann den Sanierungsplan nach § 143 Absatz 1
 selbst erstellen oder ergänzen oder durch einen Sachverständigen
@@ -8052,6 +8247,7 @@ kann die Einbeziehung Dritter vorsehen.
 
 
 ##### § 145 Schutz von Arbeitskräften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014602128)
 
 (1) Bei Sanierungs- und sonstigen Maßnahmen zur Verhinderung und
 Verminderung der Exposition bei radioaktiven Altlasten hat derjenige,
@@ -8133,6 +8329,7 @@ Zustimmung des Bundesrates festzulegen,
 
 
 ##### § 146 Kosten; Ausgleichsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014701000)
 
 (1) Die Kosten der nach § 138 Absatz 3, § 139 Absatz 1, den §§ 143 und
 144 Absatz 1 Nummer 1 angeordneten Maßnahmen tragen die zur
@@ -8161,6 +8358,7 @@ den ordentlichen Gerichten offen.
 
 
 ##### § 147 Wertausgleich; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014801000)
 
 (1) Soweit durch den Einsatz öffentlicher Mittel bei Maßnahmen zur
 Erfüllung der Pflichten nach § 139 oder § 143 der Verkehrswert des
@@ -8222,6 +8420,7 @@ Last hinzuweisen ist, zu regeln.
 
 
 ##### § 148 Sonstige bergbauliche und industrielle Hinterlassenschaften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE014901000)
 
 Die §§ 136 bis 147 finden entsprechende Anwendung auf Grubenbaue und
 sonstige nicht von § 136 erfasste Hinterlassenschaften aus
@@ -8234,6 +8433,7 @@ Atomgesetzes Anwendung findet.
 
 
 ##### § 149 Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015002128)
 
 (1) Die Stilllegung und Sanierung von Betriebsanlagen und
 Betriebsstätten des Uranerzbergbaus auf Grund des Gesetzes zu dem
@@ -8308,6 +8508,7 @@ Zustimmung des Bundesrates
 
 
 ##### § 150 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015101000)
 
 (1) Die §§ 136 bis 144 und 146 bis 148 finden keine Anwendung, soweit
 Vorschriften des Bundesberggesetzes und der auf Grund des
@@ -8335,9 +8536,11 @@ Bodenschutzgesetz zuständigen Behörden Einvernehmen her.
 
 
 #### Abschnitt 2 - Infolge eines Notfalls kontaminierte Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG003900000)
 
 
 ##### § 151 Kontaminierte Gebiete in einer Notfallexpositionssituation; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015201000)
 
 Auf die infolge eines Notfalls kontaminierten Grundstücke, Teile von
 Grundstücken, Gebäude und Gewässer finden in einer
@@ -8349,6 +8552,7 @@ Absatz 2 oder 3 festgelegten Referenzwerte.
 
 
 ##### § 152 Kontaminierte Gebiete in einer nach einem Notfall bestehenden Expositionssituation; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015301000)
 
 Auf die infolge eines Notfalls kontaminierten Grundstücke, Teile von
 Grundstücken, Gebäude und Gewässer finden in einer bestehenden
@@ -8359,9 +8563,11 @@ Bevölkerung die nach § 118 Absatz 4 oder 6 festgelegten Referenzwerte.
 
 
 ### Kapitel 5 - Sonstige bestehende Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004000000)
 
 
 #### § 153 Verantwortlichkeit für sonstige bestehende Expositionssituationen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015401000)
 
 (1) Verantwortlich für eine sonstige bestehende Expositionssituation
 ist, wer Hersteller, Lieferant, Verbringer oder Eigentümer der
@@ -8402,6 +8608,7 @@ ist nicht, wer
 
 
 #### § 154 Ermittlung und Bewertung einer sonstigen bestehenden Expositionssituation
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015501000)
 
 (1) Die zuständige Behörde trifft bei Anhaltspunkten für eine sonstige
 bestehende Expositionssituation oder für eine nachgewiesene sonstige
@@ -8447,6 +8654,7 @@ mitzuteilen.
 
 
 #### § 155 Verordnungsermächtigung für die Festlegung von Referenzwerten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015601119)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -8457,6 +8665,7 @@ entspricht, ermöglichen.
 
 
 #### § 156 Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015701000)
 
 (1) Auf der Grundlage der Ermittlung und Bewertung der sonstigen
 bestehenden Expositionssituation kann die zuständige Behörde Art,
@@ -8504,6 +8713,7 @@ verlangen, die zur Bewertung erforderlich sind.
 
 
 #### § 157 Kosten; Ausgleichsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015801000)
 
 Die Kosten der nach § 154 Absatz 3 und § 156 Absatz 3 angeordneten
 Maßnahmen tragen die zur Durchführung der Maßnahmen Verpflichteten. §
@@ -8511,6 +8721,7 @@ Maßnahmen tragen die zur Durchführung der Maßnahmen Verpflichteten. §
 
 
 #### § 158 Information
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE015901000)
 
 (1) Die zuständige Behörde
 
@@ -8533,6 +8744,7 @@ Informationen zur Verfügung zu stellen.
 
 
 #### § 159 Anmeldung; Anwendung der Bestimmungen zu geplanten Expositionssituationen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016001000)
 
 (1) Die Vorschriften der folgenden Absätze sind anzuwenden, wenn
 
@@ -8597,6 +8809,7 @@ Zustimmung des Bundesrates festzulegen,
 
 
 #### § 160 Verhältnis zu den Kapiteln 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016101000)
 
 Die Bestimmungen dieses Kapitels gelten nicht für nach einem Notfall
 bestehende Expositionssituationen, für Radon in Aufenthaltsräumen und
@@ -8605,12 +8818,15 @@ Radioaktivität in Bauprodukten.
 
 
 ## Teil 5 - Expositionssituationsübergreifende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004100000)
 
 
 ### Kapitel 1 - Überwachung der Umweltradioaktivität
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004200000)
 
 
 #### § 161 Aufgaben des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016200000)
 
 (1) Aufgaben des Bundes sind
 
@@ -8676,6 +8892,7 @@ Landesbehörden fest.
 
 
 #### § 162 Aufgaben der Länder
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016300000)
 
 (1) Die Länder ermitteln die Radioaktivität insbesondere
 
@@ -8704,6 +8921,7 @@ Absatz 1 ermittelt haben.
 
 
 #### § 163 Integriertes Mess- und Informationssystem des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016400000)
 
 (1) Das Bundesamt für Strahlenschutz als Zentralstelle des Bundes für
 die Überwachung der Umweltradioaktivität betreibt ein integriertes
@@ -8717,6 +8935,7 @@ Daten stehen den zuständigen Landesbehörden direkt zur Verfügung.
 
 
 #### § 164 Bewertung der Daten, Unterrichtung des Deutschen Bundestages und des Bundesrates
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016501119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit bewertet die Daten zur Umweltradioaktivität. Die
@@ -8730,6 +8949,7 @@ zu.
 
 
 #### § 165 Betretungsrecht und Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016600000)
 
 Die Beauftragten der zuständigen Behörden sind berechtigt, Grundstücke
 und Betriebs- und Geschäftsräume während der Betriebs- und Arbeitszeit
@@ -8737,9 +8957,11 @@ zu betreten, die Radioaktivität zu ermitteln und Proben zu nehmen.
 
 
 ### Kapitel 2 - Weitere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004300000)
 
 
 #### § 166 Festlegungen zur Ermittlung der beruflichen Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016701000)
 
 (1) Die Körperdosen einer Person aus beruflicher Exposition sind zu
 addieren, wenn sie nach diesem Gesetz oder einer auf dieses Gesetz
@@ -8770,6 +8992,7 @@ Ermittlung der beruflichen Exposition zu berücksichtigen.
 
 
 #### § 167 Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten für die ermittelte Körperdosis bei beruflicher Exposition
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016802128)
 
 (1) Der Strahlenschutzverantwortliche, der Verpflichtete nach § 131
 Absatz 1 oder § 145 Absatz 1 Satz 1 sowie der Verantwortliche nach §
@@ -8836,6 +9059,7 @@ unverzüglich die Körperdosis mitzuteilen.
 
 
 #### § 168 Übermittlung der Ergebnisse der Ermittlung der Körperdosis
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE016901000)
 
 (1) Der Strahlenschutzverantwortliche, der Verpflichtete nach § 131
 Absatz 1 oder § 145 Absatz 1 Satz 1 sowie der Verantwortliche nach §
@@ -8855,6 +9079,7 @@ vorzulegen.
 
 
 #### § 169 Bestimmung von Messstellen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017002128)
 
 (1) Die zuständige Behörde bestimmt Messstellen für die Ermittlung der
 beruflichen Exposition
@@ -8953,6 +9178,7 @@ Zustimmung des Bundesrates festzulegen,
 
 
 #### § 170 Strahlenschutzregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017103128)
 
 (1) Daten über berufliche Expositionen, die auf Grund dieses Gesetzes
 oder einer auf diesem Gesetz gestützten Rechtsverordnung erhoben
@@ -9147,6 +9373,7 @@ Zustimmung des Bundesrates zu bestimmen,
 
 
 #### § 171 Verordnungsermächtigung für Vorgaben in Bezug auf einen Strahlenpass
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017201128)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorgaben in Bezug auf einen zu führenden
@@ -9174,6 +9401,7 @@ festgelegt werden,
 
 
 #### § 172 Bestimmung von Sachverständigen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017302128)
 
 (1) Die zuständige Behörde bestimmt Sachverständige für die folgenden
 Sachverständigentätigkeiten:
@@ -9259,6 +9487,7 @@ Zustimmung des Bundesrates
 
 
 #### § 173 Verordnungsermächtigungen für Mitteilungspflichten bei Fund und Erlangung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017400000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, dass, auf welche Weise und
@@ -9285,6 +9514,7 @@ durch wen den zuständigen Behörden Folgendes zu melden ist:
 
 
 #### § 174 Verordnungsermächtigung für behördliche Befugnisse bei kontaminiertem Metall
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017500000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates festzulegen, dass kontaminiertes Metall nur
@@ -9293,6 +9523,7 @@ gebracht oder entsorgt werden darf.
 
 
 #### § 175 Dosis- und Messgrößen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017602119)
 
 (1) Für die Ermittlung der Organ-Äquivalentdosis ist, soweit nicht
 anders bestimmt, die äußere und innere Exposition zu berücksichtigen;
@@ -9341,6 +9572,7 @@ Bundesrates
 
 
 #### § 176 Haftung für durch ionisierende Strahlung verursachte Schäden
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017701000)
 
 Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz
 gestützten Rechtsverordnungen richtet sich die Haftung für durch
@@ -9349,6 +9581,7 @@ Atomgesetzes.
 
 
 #### § 177 Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017802119)
 
 Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz
 gestützten Rechtsverordnungen richtet sich die Vorsorge für die
@@ -9362,9 +9595,11 @@ ergeben hat, dass die Deckungssumme noch ausreichend bemessen ist.
 
 
 ## Teil 6 - Strahlenschutzrechtliche Aufsicht, Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004400000)
 
 
 ### § 178 Strahlenschutzrechtliche Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE017902128)
 
 Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten
 Rechtsverordnungen unterliegt der Aufsicht durch die zuständigen
@@ -9386,6 +9621,7 @@ mit Ausnahme
 
 
 ### § 179 Anwendung des Atomgesetzes; Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018003119)
 
 (1) Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz
 gestützten Rechtsverordnungen sind in der jeweils geltenden Fassung
@@ -9437,6 +9673,7 @@ Befugnissen nach Absatz 1 Nummer 2 und 3 entgegensteht.
 
 
 ### § 180 Aufsichtsprogramm; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018101000)
 
 (1) Im Rahmen der strahlenschutzrechtlichen Aufsicht bei geplanten
 Expositionssituationen richtet die zuständige Behörde ein Programm für
@@ -9476,6 +9713,7 @@ unberührt.
 
 
 ### § 181 Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018202128)
 
 (1) Besteht nach dem Gesetz über die Umweltverträglichkeitsprüfung
 eine Verpflichtung zur Durchführung einer
@@ -9514,6 +9752,7 @@ einem Vorverfahren.
 
 
 ### § 182 Schriftform, elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018302119)
 
 (1) Genehmigungen und Bauartzulassungen nach diesem Gesetz oder nach
 einer auf dieses Gesetz gestützten Rechtsverordnung sind schriftlich
@@ -9548,6 +9787,7 @@ Unterlagen zu übermitteln.
 
 
 ### § 183 Kosten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018404119)
 
 (1) Gebühren und Auslagen (Kosten) werden erhoben
 
@@ -9691,9 +9931,11 @@ ist entsprechend anzuwenden.
 
 
 ## Teil 7 - Verwaltungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004500000)
 
 
 ### § 184 Zuständigkeit der Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018501000)
 
 (1) Durch die Länder als eigene Angelegenheit werden ausgeführt:
 
@@ -9733,6 +9975,7 @@ Länder ausgeführt.
 
 
 ### § 184a Zuständigkeit der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE024200119)
 
 Die Aufgaben der Ethik-Kommission nach diesem Gesetz nehmen folgende
 Ethik-Kommissionen wahr:
@@ -9758,6 +10001,7 @@ Ethik-Kommissionen wahr:
 
 
 ### § 185 Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018603119)
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig für
 
@@ -9851,6 +10095,7 @@ Strahlenschutz zuständig ist
 
 
 ### § 186 Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018703128)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist
 zuständig für die Genehmigung der Beförderung von Großquellen sowie
@@ -9885,6 +10130,7 @@ auch die in § 184 bezeichneten Zuständigkeiten wahr als
 
 
 ### § 187 Zuständigkeit der Physikalisch-Technischen Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018803128)
 
 (1) Die Physikalisch-Technische Bundesanstalt ist zuständig für
 
@@ -9914,6 +10160,7 @@ und Energie herzustellen.
 
 
 ### § 188 Zuständigkeiten für grenzüberschreitende Verbringungen und deren Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE018903128)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist zuständig
 für die Erteilung einer Genehmigung für die grenzüberschreitende
@@ -9967,6 +10214,7 @@ und nukleare Sicherheit gebunden.
 
 
 ### § 189 Zuständigkeit des Luftfahrt-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019001000)
 
 Das Luftfahrt-Bundesamt ist zuständig für
 
@@ -9997,6 +10245,7 @@ Das Luftfahrt-Bundesamt ist zuständig für
 
 
 ### § 190 Zuständigkeit des Eisenbahn-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019101000)
 
 § 24 Absatz 1 Satz 2 und 3 des Atomgesetzes über die Zuständigkeit des
 Eisenbahn-Bundesamtes gilt entsprechend für die Beaufsichtigung und
@@ -10006,6 +10255,7 @@ bestimmt sich nach § 186 Absatz 1.
 
 
 ### § 190a Zuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte und des Paul-Ehrlich-Instituts
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE024300119)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist
 zuständig für die Prüfung der Anzeige der Anwendung radioaktiver
@@ -10033,6 +10283,7 @@ Bundesministerium für Gesundheit herzustellen.
 
 
 ### § 191 Geschäftsbereich des Bundesministeriums der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019202119)
 
 (1) Abweichend von § 189 sind bei dem Betrieb von Luftfahrzeugen, die
 im Geschäftsbereich des Bundesministeriums der Verteidigung betrieben
@@ -10050,6 +10301,7 @@ aufhaltenden Truppen und zivilen Gefolgen.
 
 
 ### § 192 Zuständigkeiten von Verwaltungsbehörden des Bundes bei Aufgaben des Notfallschutzes und der Überwachung der Umweltradioaktivität; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019300000)
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig für die Beschaffung
 und das Zurverfügungstellen von Schutzwirkstoffen nach § 104, soweit
@@ -10065,6 +10317,7 @@ Absatz 1 genannten Aufgaben des Bundes wahrnehmen.
 
 
 ### § 193 Informationsübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019403119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit kann folgende Informationen, die in
@@ -10094,6 +10347,7 @@ zu dem sie übermittelt worden sind.
 
 
 ### § 193a Ausstattung der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE023400128)
 
 Die zuständigen Behörden verfügen über die zur Erfüllung ihrer
 gesetzlichen Aufgaben erforderliche Ausstattung an Finanzmitteln und
@@ -10101,12 +10355,15 @@ die erforderliche Personalausstattung.
 
 
 ## Teil 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004600000)
 
 
 ### Kapitel 1 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004700000)
 
 
 #### § 194 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019505119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -10448,6 +10705,7 @@ Absätzen 1 bis 3 ausschließlich Artikel 83 der Verordnung (EU)
 
 
 #### § 195 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019601000)
 
 Ist eine Ordnungswidrigkeit nach § 194 Absatz 1 vorsätzlich begangen
 worden, so können Gegenstände eingezogen werden,
@@ -10463,9 +10721,11 @@ worden, so können Gegenstände eingezogen werden,
 
 
 ### Kapitel 2 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNG004800000)
 
 
 #### § 196 Genehmigungsbedürftige Errichtung von Anlagen (§ 10)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019701000)
 
 Eine Genehmigung für die Errichtung von Anlagen zur Erzeugung
 ionisierender Strahlen, die vor dem 31. Dezember 2018 erteilt worden
@@ -10473,6 +10733,7 @@ ist, gilt als Genehmigung nach § 10 mit allen Nebenbestimmungen fort.
 
 
 #### § 197 Genehmigungsbedürftige Tätigkeiten (§ 12)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019801000)
 
 (1) Eine Genehmigung für den Betrieb von Anlagen zur Erzeugung
 ionisierender Strahlen, die vor dem 31. Dezember 2018 erteilt worden
@@ -10533,6 +10794,7 @@ Dezember 2019 gestellt wurde.
 
 
 #### § 198 Genehmigungsbedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 12)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE019902128)
 
 (1) Eine vor dem 31. Dezember 2018 erteilte Genehmigung für den
 Betrieb von Röntgeneinrichtungen, mit Ausnahme der in den Absätzen 2
@@ -10578,6 +10840,7 @@ Nummer 5 mit allen Nebenbestimmungen fort.
 
 
 #### § 199 Anzeigebedürftiger Betrieb von Anlagen (§ 17)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020001000)
 
 Eine Anzeige des Betriebs einer Anlage zur Erzeugung ionisierender
 Strahlung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige
@@ -10585,6 +10848,7 @@ nach § 17 Absatz 1 fort.
 
 
 #### § 200 Anzeigebedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 19)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020105128)
 
 (1) Eine Anzeige des Betriebs einer Röntgeneinrichtung, die vor dem
 31\. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1
@@ -10603,6 +10867,7 @@ Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer
 
 
 #### § 201 Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen und Störstrahlern (§ 22)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020201000)
 
 Eine Anzeige der Prüfung, Erprobung, Wartung und Instandsetzung von
 Röntgeneinrichtungen oder Störstrahlern, die vor dem 31. Dezember 2018
@@ -10610,6 +10875,7 @@ erfolgt ist, gilt als Anzeige nach § 22 Absatz 1 fort.
 
 
 #### § 202 Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen (§ 25)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020301000)
 
 Eine Genehmigung für die Beschäftigung in fremden Anlagen oder
 Einrichtungen, die vor dem 31. Dezember 2018 erteilt worden ist, gilt
@@ -10619,6 +10885,7 @@ Dezember 2023 fort.
 
 
 #### § 203 Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen und Störstrahler (§ 26)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020401000)
 
 Eine Anzeige der Aufgabenwahrnehmung im Zusammenhang mit dem Betrieb
 einer fremden Röntgeneinrichtung oder eines fremden Störstrahlers, die
@@ -10627,6 +10894,7 @@ Absatz 1 fort.
 
 
 #### § 204 Genehmigungsbedürftige Beförderung radioaktiver Stoffe (§ 27)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020501000)
 
 (1) Eine Genehmigung für die Beförderung, die vor dem 31. Dezember
 2018 erteilt worden ist, gilt als Genehmigung nach § 27 Absatz 1 mit
@@ -10644,6 +10912,7 @@ Dezember 2021 bei der zuständigen Behörde nachgewiesen ist.
 
 
 #### § 205 Medizinische Forschung (§§ 31, 32)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020602119)
 
 (1) Eine nach § 23 Absatz 1 in Verbindung mit § 24 Absatz 1 der
 Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden
@@ -10685,6 +10954,7 @@ nach Satz 1 gilt Absatz 2b entsprechend.
 
 
 #### § 206 Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung (§ 40)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020701000)
 
 (1) Eine Genehmigung für den Zusatz radioaktiver Stoffe und die
 Aktivierung, die vor dem 31. Dezember 2018 erteilt worden ist, gilt
@@ -10703,6 +10973,7 @@ Genehmigung.
 
 
 #### § 207 Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern (§ 42)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020801000)
 
 Eine Genehmigung für die grenzüberschreitende Verbringung von
 Konsumgütern, die vor dem 31. Dezember 2018 erteilt worden ist, gilt
@@ -10711,6 +10982,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 208 Bauartzulassung (§ 45)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE020902128)
 
 (1) Bauartzulassungen von Geräten und anderen Vorrichtungen, in die
 sonstige radioaktive Stoffe nach § 2 Absatz 1 des Atomgesetzes
@@ -10760,6 +11032,7 @@ erstattet wird.
 
 
 #### § 209 Anzeigebedürftiger Betrieb von Luftfahrzeugen (§ 50)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021001000)
 
 Tätigkeiten im Sinne des § 4 Absatz 1 Satz 1 Nummer 11, die vor dem
 31\. Dezember 2018 aufgenommen wurden und nach diesem Gesetz eine
@@ -10768,6 +11041,7 @@ Anzeige bis zum 31. Dezember 2020 vorgenommen wurde.
 
 
 #### § 210 Anzeigebedürftige Tätigkeiten (§ 56)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021101000)
 
 (1) Eine Anzeige einer Tätigkeit im Sinne des § 4 Absatz 1 Satz 1
 Nummer 10, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige
@@ -10788,6 +11062,7 @@ entsprechend.
 
 
 #### § 211 Bestellung von Strahlenschutzbeauftragten (§ 70)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021201000)
 
 Eine Bestellung eines Strahlenschutzbeauftragten, die vor dem 31.
 Dezember 2018 erfolgt ist, gilt als Bestellung nach § 70 Absatz 1
@@ -10795,6 +11070,7 @@ fort.
 
 
 #### § 212 Grenzwerte für beruflich exponierte Personen; Ermittlung der Exposition der Bevölkerung (§§ 78, 80)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021301000)
 
 (1) Der Grenzwert nach § 78 Absatz 2 Nummer 1 ist ab dem 1. Januar
 2019 einzuhalten.
@@ -10804,6 +11080,7 @@ fort.
 
 
 #### § 213 Zulassung der Früherkennung (§ 84)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021401000)
 
 Eine Zulassung freiwilliger Röntgenreihenuntersuchungen zur Ermittlung
 übertragbarer Krankheiten in Landesteilen oder für Bevölkerungsgruppen
@@ -10813,6 +11090,7 @@ geltenden Fassung gilt als Zulassung nach § 84 Absatz 4 fort.
 
 
 #### § 214 Anmeldung von Arbeitsplätzen in Innenräumen (§ 129)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021501000)
 
 (1) Eine vor dem 31. Dezember 2018 erfolgte Anzeige einer Arbeit, die
 einem in Anlage XI Teil A zur Strahlenschutzverordnung in der bis zum
@@ -10830,6 +11108,7 @@ erfüllt die Pflicht zur Messung nach § 127 Absatz 1.
 
 
 #### § 215 Radioaktive Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021601000)
 
 (1) Erlaubnisse, die vor dem 31. Dezember 2018 auf dem in Artikel 3
 des Einigungsvertrags vom 6. September 1990 (BGBl. 1990 II S. 885,
@@ -10861,6 +11140,7 @@ der jeweiligen Erlaubnis beendet werden.
 
 
 #### § 216 Bestimmung von Messstellen (§ 169)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021701000)
 
 Behördliche Bestimmungen von Messstellen, die vor dem 31. Dezember
 2018 erfolgt sind, gelten als Bestimmungen nach § 169 Absatz 1 fort,
@@ -10870,6 +11150,7 @@ sind.
 
 
 #### § 217 Bestimmung von Sachverständigen (§ 172)
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021801000)
 
 Behördliche Bestimmungen von Sachverständigen, die vor dem 31.
 Dezember 2018 erfolgt sind, gelten als Bestimmungen nach § 172 Absatz
@@ -10877,6 +11158,7 @@ Dezember 2018 erfolgt sind, gelten als Bestimmungen nach § 172 Absatz
 
 
 #### § 218 Genehmigungsfreier Umgang mit Geräten, keramischen Gegenständen, Porzellan- und Glaswaren oder elektronischen Bauteilen sowie sonstigen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE021901000)
 
 (1) Vor dem 1. April 1977 beschaffte Geräte, keramische Gegenstände,
 Porzellanwaren, Glaswaren oder elektronische Bauteile, mit denen nach
@@ -10895,6 +11177,7 @@ beseitigt werden.
 (zu § 5 Absatz 32)
 
 #### Anlage 1 Rückstände nach § 5 Absatz 32
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022002128)
 
 (Fundstelle: BGBl. I 2017, 2046)
 
@@ -10971,6 +11254,7 @@ Keine Rückstände im Sinne dieses Gesetzes sind Materialien nach Satz
 (zu § 16, § 25 Absatz 2, § 40 Absatz 4, § 46 Absatz 1)
 
 #### Anlage 2 Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022104119)
 
 (Fundstelle: BGBl. I 2017, 2047 - 2048)
 
@@ -11287,6 +11571,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 55 Absatz 1)
 
 #### Anlage 3 Tätigkeitsfelder nach § 55 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022201000)
 
 (Fundstelle: BGBl. I 2017, 2049)
 
@@ -11343,6 +11628,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 97 Absatz 5)
 
 #### Anlage 4 Vorläufig als Notfallpläne des Bundes geltende Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022300000)
 
 (Fundstelle: BGBl. I 2017, 2050 - 2051)
 
@@ -11494,6 +11780,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 98)
 
 #### Anlage 5 Wesentliche Elemente des allgemeinen Notfallplans des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022400000)
 
 (Fundstelle: BGBl. I 2017, 2052 - 2053)
 
@@ -11662,6 +11949,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 99)
 
 #### Anlage 6 Wesentliche Elemente der besonderen Notfallpläne des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022500000)
 
 (Fundstelle: BGBl. I 2017, 2054)
 
@@ -11735,6 +12023,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 112)
 
 #### Anlage 7 Information der Bevölkerung und Empfehlungen für das Verhalten bei Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022600000)
 
 (Fundstelle: BGBl. I 2017, 2055)
 
@@ -11809,6 +12098,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 127 Absatz 1 Nummer 2)
 
 #### Anlage 8 Arbeitsfelder mit erhöhter Exposition durch Radon
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022701000)
 
 (Fundstelle: BGBl. I 2017, 2056)
 
@@ -11829,6 +12119,7 @@ nach § 45 Absatz 1 Nummer 1
 (zu § 134 Absatz 1)
 
 #### Anlage 9 Radiologisch relevante mineralische Primärrohstoffe für die Herstellung von Gebäuden mit Aufenthaltsräumen
+[Direktlink](https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html#BJNR196610017BJNE022801000)
 
 (Fundstelle: BGBl. I 2017, 2057)
 

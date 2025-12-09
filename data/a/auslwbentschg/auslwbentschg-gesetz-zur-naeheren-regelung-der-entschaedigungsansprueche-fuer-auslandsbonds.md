@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNG000100306)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE000600306)
 
 Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
@@ -68,16 +70,19 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
 
 ### § 2 Geltung des Bereinigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE000700306)
 
 Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich
 aus den folgenden Vorschriften ergebenden näheren Regelung.
 
 
 ## Zweiter Abschnitt - Entschädigungsansprüche aus Feststellungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNG000200306)
 
 
 
 ### § 3 Inhalt des Entschädigungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE000800306)
 
 (1) Der Aussteller ist dem Entschädigungsberechtigten zu
 Geldleistungen verpflichtet, deren Währung, Höhe, Verzinsung und
@@ -115,6 +120,7 @@ Entschädigungsanspruch nicht verpflichtet.
 
 
 ### § 4 Ansprüche aus Zinsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE000900306)
 
 (1) Der Entschädigungsanspruch umfaßt nach Maßgabe des § 3 die
 Ansprüche aus Zinsscheinen, die nach dem 14. März 1945 fällig geworden
@@ -153,6 +159,7 @@ zahlen waren.
 
 
 ### § 5 Beginn der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001000306)
 
 (1) Die Leistungspflicht des Ausstellers beginnt zwei Monate nach dem
 Inkrafttreten dieses Gesetzes, frühestens jedoch zwei Monate nach
@@ -186,6 +193,7 @@ der Feststellungsbescheid bezieht, so gilt Absatz 4 sinngemäß.
 
 
 ### § 6 Ausschluß nachträglicher Kürzungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001100306)
 
 (1) Nach Beginn der Leistungspflicht ist das Recht des Ausstellers,
 eine Kürzung des Entschädigungsanspruchs nach § 53 Abs. 2 AuslWBG zu
@@ -221,6 +229,7 @@ Auskunft über die ihnen zustehenden Ablösungsbeträge verpflichten.
 
 
 ### § 7 Nachträgliche Anerkennung von Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001200306)
 
 Nach Beginn der Leistungspflicht wird durch die Anerkennung eines nach
 § 51 AuslWBG nachträglich angemeldeten Auslandsbonds, für den ein
@@ -231,6 +240,7 @@ Leistungen nach § 5 Abs. 5 zurückbehalten hat.
 
 
 ### § 8 Zahlungen an die Konversionskasse
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001300306)
 
 (1) Der Aussteller ist unter den in Abschnitt I der Anlage V des
 Schuldenabkommens genannten Voraussetzungen zu Leistungen auf den
@@ -258,6 +268,7 @@ Gutschriften bei der Konversionskasse auf den Bund über.
 
 
 ### § 9 Verbriefung von Entschädigungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001401309)
 
 (1) Die Aussteller der im anliegenden Verzeichnis genannten Arten von
 Auslandsbonds haben unverzüglich nach Beginn der Leistungspflicht den
@@ -284,6 +295,7 @@ wahr. Auslosungen sind im Bundesanzeiger bekanntzumachen.
 
 
 ### § 10 Eintragung von Entschädigungsansprüchen in die Schuldbücher
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001502377)
 
 (1) Entschädigungsansprüche, die sich gegen den Bund richten, sind als
 Schuldbuchforderungen in das Bundesschuldbuch einzutragen, wenn das
@@ -299,10 +311,12 @@ das Landesschuldbuch einzutragen sind.
 
 
 ## Dritter Abschnitt - Entschädigungsansprüche für Tilgungsstücke
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNG000300306)
 
 
 
 ### § 11 Inhalt des Entschädigungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001600306)
 
 (1) Die Vorschriften dieses Gesetzes über Entschädigungsansprüche aus
 Feststellungsbescheiden mit Ausnahme des § 4 Abs. 3, des § 5 Abs. 1
@@ -334,6 +348,7 @@ Absatzes 2 sinngemäß Anwendung.
 
 
 ### § 12 Fälligkeit der Entschädigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001700306)
 
 Hat sich der Aussteller in seinem Regelungsangebot zur Barablösung
 verpflichtet, so kann er innerhalb von zwei Monaten nach dem
@@ -351,6 +366,7 @@ Art von Auslandsbonds ergeben, zu der die Tilgungsstücke gehören.
 
 
 ### § 13 Kürzungsrecht des Ausstellers nach Leistung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001800306)
 
 Der Aussteller kann sein Kürzungsrecht (§ 54 Abs. 2 Satz 1 in
 Verbindung mit § 53 Abs. 2 AuslWBG) auch geltend machen, wenn er auf
@@ -365,6 +381,7 @@ Empfänger der Leistung nach Satz 1 verpflichtet ist.
 
 
 ### § 14 Verbriefung von Entschädigungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE001901309)
 
 (1) Der Aussteller hat den Entschädigungsberechtigten für
 Tilgungsstücke auf Verlangen über die ihnen zustehenden Leistungen
@@ -386,6 +403,7 @@ zu tragen und vorzuschießen.
 
 
 ### § 15 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002000306)
 
 (1) Für Klagen aus Entschädigungsansprüchen für Tilgungsstücke ist das
 Landgericht Berlin ohne Rücksicht auf den Wert des Streitgegenstandes
@@ -396,10 +414,12 @@ oder Nichtbestehens von Entschädigungsansprüchen für Tilgungsstücke.
 
 
 ## Vierter Abschnitt - Verschiedene Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNG000400306)
 
 
 
 ### § 16 Haftung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002100306)
 
 Auf Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds
 unmittelbar haften, und auf Personen, die sich in einem
@@ -409,6 +429,7 @@ sinngemäß Anwendung.
 
 
 ### § 17 Ersatzurkunden und andere Ersatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002200306)
 
 (1) Der Aussteller ist zu Leistungen auf den Entschädigungsanspruch
 nicht verpflichtet, wenn der Entschädigungsberechtigte für seinen
@@ -424,6 +445,7 @@ nur gegen Rückgewähr der Entschädigungsleistungen geltend zu machen.
 
 
 ### § 18 Steuer- und Bilanzierungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002300306)
 
 (1)
 
@@ -449,6 +471,7 @@ Entschädigungsansprüche herrühren.
 
 
 ### § 19 Entschädigungsansprüche nach § 52 AuslWBG
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002400306)
 
 Auf die in § 52 AuslWBG genannten Entschädigungsansprüche für kraftlos
 gewordene Auslandsbonds sind §§ 8, 16, 18 sinngemäß anzuwenden; in §
@@ -460,6 +483,7 @@ AuslWBG rechtskräftig festgestellt hat.
 
 
 ### § 20 Vorschriften für die in den Niederlanden begebenen Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002500306)
 
 (1) Die in § 21 Abs. 1 Satz 2 AuslWBG bezeichnete Frist für
 Anmeldungen beim Auslandsbevollmächtigten wird für die Arten von
@@ -491,10 +515,12 @@ der Anmeldefrist.
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNG000500306)
 
 
 
 ### § 21 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002600306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -504,6 +530,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002700306)
 
 Dieses Gesetz tritt am ersten Tage des zweiten Monats nach seiner
 Verkündung in Kraft.
@@ -511,6 +538,7 @@ Verkündung in Kraft.
 (§ 9 Abs. 1)
 
 ### Anlage Verzeichnis nach § 9 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/auslwbentschg/BJNR001770960.html#BJNR001770960BJNE002800306)
 
 (Fundstelle: BGBl. Teil III 4139-3, S. 148)
 

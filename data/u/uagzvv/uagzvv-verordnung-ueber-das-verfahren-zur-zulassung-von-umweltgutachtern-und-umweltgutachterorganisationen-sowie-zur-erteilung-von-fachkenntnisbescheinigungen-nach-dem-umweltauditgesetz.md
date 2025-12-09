@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Antrag auf Zulassung als Umweltgutachter
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000202320)
 
 (1) Der Antragsteller muss im Antrag auf Zulassung als Umweltgutachter
 angeben
@@ -166,6 +167,7 @@ ergeben sollen.
 
 
 ## § 1a Antrag auf Zulassung als Umweltgutachter für ein Drittland
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001400310)
 
 (1) Für den Fall des Antrags eines zugelassenen Umweltgutachters auf
 Drittlandszulassung nach Artikel 22 Absatz 1 in Verbindung mit Absatz
@@ -219,6 +221,7 @@ Sinne des Absatzes 1 erforderlich sind.
 
 
 ## § 2 Antrag auf Zulassung als Umweltgutachterorganisation
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000303116)
 
 (1) Für den Antrag auf Zulassung als Umweltgutachterorganisation
 findet § 1 Abs. 1 Nr. 1 bis 4, 9 und 10 sinngemäß Anwendung.
@@ -251,6 +254,7 @@ entsprechend.
 
 
 ## § 2a Antrag auf Zulassung als Umweltgutachterorganisation für ein Drittland
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001500310)
 
 (1) Für den Fall des Antrags einer zugelassenen
 Umweltgutachterorganisation auf Drittlandszulassung nach Artikel 22
@@ -300,6 +304,7 @@ sind.
 
 
 ## § 3 Antrag auf Erteilung einer Fachkenntnisbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000402320)
 
 Für den Antrag auf Erteilung oder Änderung einer
 Fachkenntnisbescheinigung findet § 1 mit Ausnahme des Absatzes 1 Nr. 2
@@ -310,6 +315,7 @@ Umweltauditgesetzes die Bescheinigung beantragt wird.
 
 
 ## § 4 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000501320)
 
 (1) Die Mitglieder des Prüfungsausschusses sind in ihrer
 Prüfungstätigkeit unabhängig.
@@ -325,6 +331,7 @@ bewahren.
 
 
 ## § 5 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000604310)
 
 (1) Die Zulassungsstelle hat den Antragsteller zur mündlichen Prüfung
 spätestens zwei Wochen vorher durch eingeschriebenen Brief mit
@@ -391,6 +398,7 @@ bleibt unberührt.
 
 
 ## § 5a Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001600310)
 
 (1) Im Zulassungsverfahren auf Grund eines Antrags eines
 Umweltgutachters nach Artikel 22 Absatz 1 in Verbindung mit Absatz 2
@@ -443,6 +451,7 @@ für das Fachgespräch entsprechend.
 
 
 ## § 6 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000703320)
 
 (1) Der Prüfungsausschuss entscheidet im Anschluss an die mündliche
 Prüfung mit Stimmenmehrheit, ob die mündliche Prüfung bestanden, nicht
@@ -492,6 +501,7 @@ zu erteilen.
 
 
 ## § 7 Rücktritt von der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000802116)
 
 (1) Tritt der Antragsteller nach der Ladung gemäß § 5 Abs. 1 von der
 mündlichen Prüfung zurück, so gilt die Prüfung als nicht bestanden.
@@ -514,6 +524,7 @@ Prüfungstermin zur Ablegung der mündlichen Prüfung erneut zu laden; §
 
 
 ## § 8 Wiederholung des Zulassungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE000902320)
 
 Ein Antragsteller, der die mündliche Prüfung nicht bestanden hat, kann
 zweimal einen erneuten Antrag auf Zulassung stellen. Wurde auch in
@@ -525,6 +536,7 @@ Veränderungen ergeben haben.
 
 
 ## § 9 Mündliche Prüfung in Verfahren zur Erteilung einer Fachkenntnisbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001001320)
 
 (1) Die mündliche Prüfung in Verfahren zur Erteilung einer
 Fachkenntnisbescheinigung besteht aus einem Kurzvortrag und einem
@@ -536,6 +548,7 @@ Umweltauditgesetzes.
 
 
 ## § 10 Erteilung von Zulassung und Fachkenntnisbescheinigung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001101320)
 
 Nach bestandener mündlicher Prüfung dürfen im Falle des § 1 Abs. 3
 eine Zulassung oder eine Fachkenntnisbescheinigung erst nach Vorlage
@@ -544,11 +557,13 @@ wenn die erforderlichen Urkunden nicht fristgerecht vorgelegt werden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001201320)
 
 (Inkrafttreten)
 
 
 ## Anhang (zu § 5 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/uagzvv/BJNR184100995.html#BJNR184100995BJNE001303310)
 
 (Fundstelle: BGBl. I 2009, 1723 - 1733)
 

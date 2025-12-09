@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozversgdv/DDNR010750990.html#DDNR010750990BJNE000100314)
 
 Auf der Grundlage des § 52 des Gesetzes vom 28. Juni 1990 über die
 Sozialversicherung - SVG - (GBl. I Nr. 38 S. 486) wird folgendes
@@ -25,6 +26,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sozversgdv/DDNR010750990.html#DDNR010750990BJNE000200314)
 
 Arbeitgeber, die Lohnsteuern, Pflichtbeiträge zur gesetzlichen
 Kranken- und Rentenversicherung, Umlagen zur Unfallversicherung sowie
@@ -41,6 +43,7 @@ Ausgaben für Zwecke der Sozialversicherung zu übergeben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sozversgdv/DDNR010750990.html#DDNR010750990BJNE000300314)
 
 Die Verwaltungen der Sozialversicherung gewährleisten in
 Zusammenarbeit mit den Finanzämtern die Kontrolle über den
@@ -51,11 +54,13 @@ Unterlagen durch die Verwaltungen der Sozialversicherung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sozversgdv/DDNR010750990.html#DDNR010750990BJNE000400314)
 
 Die Verordnung tritt mit Wirkung vom 15. August 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sozversgdv/DDNR010750990.html#DDNR010750990BJNE000500314)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000100000)
 
 Auf Grund des § 84 des Bundesbeamtengesetzes vom 5. Februar 2009
 (BGBl. I S. 160) und des § 30 Absatz 4 in Verbindung mit § 93 Absatz 1
@@ -28,6 +29,7 @@ Nummer 5 des Soldatengesetzes in der Fassung der Bekanntmachung vom
 
 
 ## § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000200000)
 
 Diese Verordnung gilt
 
@@ -44,6 +46,7 @@ Beamtinnen und Beamte geltenden Vorschriften dieser Verordnung nach §
 
 
 ## § 2 Dienstjubiläen, Dankurkunden und Dienstjubiläumszuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000300000)
 
 (1) Anlässlich des 25-jährigen, 40-jährigen und
 50-jährigen Dienstjubiläums wird eine Dankurkunde ausgehändigt und
@@ -71,6 +74,7 @@ unberührt.
 
 
 ## § 3 Berücksichtigungsfähige Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000401116)
 
 (1) Bei der Berechnung der Dienstzeit nach § 2 werden berücksichtigt:
 
@@ -187,6 +191,7 @@ Vollzeitbeschäftigung berücksichtigt.
 
 
 ## § 4 Aushändigung der Dankurkunde
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000500000)
 
 (1) Die Dankurkunde darf nicht vor dem Tag des Dienstjubiläums
 ausgehändigt werden.
@@ -197,6 +202,7 @@ werden.
 
 
 ## § 5 Zurückstellung oder Hinausschiebung der Aushändigung der Dankurkunde und der Gewährung der Zuwendung
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000600000)
 
 (1) Die Aushändigung der Dankurkunde und die Gewährung der Zuwendung
 werden zurückgestellt, solange gegen die Dienstjubilarin oder den
@@ -234,6 +240,7 @@ Einstellung des Disziplinarverfahrens wirksam geworden ist.
 
 
 ## § 6 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000700000)
 
 Zuständig für die Durchführung dieser Verordnung ist die oberste
 Dienstbehörde. Sie kann die Aufgabe auf nachgeordnete Behörden
@@ -241,6 +248,7 @@ Dienstbehörde. Sie kann die Aufgabe auf nachgeordnete Behörden
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/djubv/BJNR226700014.html#BJNR226700014BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten außer Kraft:

@@ -22,12 +22,14 @@ Stand: In Kraft gem. Bek. v. 14.7.1983 I 952 mWv 21.6.1983
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000100317)
 
 Das Land Baden-Württemberg und das Land Hessen, beide vertreten durch
 ihre Ministerpräsidenten, schließen nachstehenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000200317)
 
 (1) Das Land Baden-Württemberg tritt an das Land Hessen das Gebiet des
 Ortsteils Rennhof der Stadt Hemsbach, Rhein-Neckar-Kreis, ab. Im
@@ -44,6 +46,7 @@ Lampertheim, Landkreis Bergstraße, ein.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000300317)
 
 (1) Folgende in dem abgetretenen Gebiet belegenen Gegenstände des
 Verwaltungsvermögens gehen entschädigungslos über:
@@ -65,6 +68,7 @@ Darmstadt als der zuständigen Kommunalaufsichtsbehörden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000400317)
 
 (1) Mit der Gebietsänderung treten in dem betroffenen Gebiet die
 Rechtsvorschriften des Landes Baden-Württemberg, des Rhein-Neckar-
@@ -78,6 +82,7 @@ Vorschriften maßgebend.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000500317)
 
 Die vertragschließenden Länder gehen davon aus, daß für den durch
 diesen Staatsvertrag entstehenden Gebietsverlust bei späteren
@@ -86,6 +91,7 @@ wird.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000600317)
 
 (1) Die Ratifikationsurkunden dieses Staatsvertrages sollen
 unverzüglich ausgetauscht werden, sobald die nach den
@@ -97,6 +103,7 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000700317)
 
 Der Ministerpräsident des Landes Baden-Württemberg
 Der Hessische Ministerpräsident
@@ -104,6 +111,7 @@ Der Hessische Ministerpräsident
 (zu Artikel 1 Abs. 2)
 
 ## Anlage Anlage zum Staatsvertrag zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_he/BJNR009530983.html#BJNR009530983BJNE000800317)
 
 (Fundstelle: BGBl. I 1983, 954)
 ![bgbl1_1983_j0954_0010.jpg](bgbl1_1983_j0954_0010.jpg)

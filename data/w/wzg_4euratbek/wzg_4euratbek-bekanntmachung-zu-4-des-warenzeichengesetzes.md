@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4euratbek/BJNR018000979.html#BJNR018000979BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,11 +31,13 @@ ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4euratbek/BJNR018000979.html#BJNR018000979BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4euratbek/BJNR018000979.html#BJNR018000979BJNE000200303)
 
 Fundstelle: BGBl. I 1979, 1801)
 ![bgbl1_1979_j1801_0010.jpg](bgbl1_1979_j1801_0010.jpg)

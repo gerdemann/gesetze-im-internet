@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uagbv/BJNR201300995.html#BJNR201300995BJNE000100000)
 
 Auf Grund des § 28 des Umweltauditgesetzes vom 7. Dezember 1995 (BGBl.
 I S. 1591) verordnet das Bundesministerium für Umwelt, Naturschutz und
@@ -27,6 +28,7 @@ Reaktorsicherheit:
 
 
 ## § 1 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/uagbv/BJNR201300995.html#BJNR201300995BJNE000202310)
 
 (1) Die im Handelsregister, Abteilung B des Amtsgerichts Bonn unter
 der Nummer 6946 eingetragene DAU - Deutsche Akkreditierungs- und
@@ -48,6 +50,7 @@ Standortregistern zuständigen Stellen.
 
 
 ## § 2 Eignung zur Aufgabenwahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/uagbv/BJNR201300995.html#BJNR201300995BJNE000302116)
 
 (1) Der Gesellschaftszweck der Beliehenen darf vorbehaltlich des
 Absatzes 2 nur auf die Erfüllung der Aufgaben nach § 1 und die
@@ -102,6 +105,7 @@ und nukleare Sicherheit
 
 
 ## § 3 Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/uagbv/BJNR201300995.html#BJNR201300995BJNE000403116)
 
 (1) Die Beleihung endet mit dem Inkrafttreten einer die Beleihung
 aufhebenden Verordnung. Bis zur Beendigung der Beleihung ist die
@@ -117,6 +121,7 @@ Umweltauditgesetzes erforderlich ist, zu entsprechen.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uagbv/BJNR201300995.html#BJNR201300995BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

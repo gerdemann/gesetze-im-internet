@@ -26,10 +26,12 @@ Mittelbare änderung durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000100303)
 
 
 
 ### § 1 Gerichte für Arbeitssachen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002000303)
 
 Die Gerichtsbarkeit in Arbeitssachen - §§ 2 bis 3 - wird ausgeübt
 durch die Arbeitsgerichte - §§ 14 bis 31 -, die Landesarbeitsgerichte
@@ -38,6 +40,7 @@ durch die Arbeitsgerichte - §§ 14 bis 31 -, die Landesarbeitsgerichte
 
 
 ### § 2 Zuständigkeit im Urteilsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002109125)
 
 (1) Die Gerichte für Arbeitssachen sind ausschließlich zuständig für
 
@@ -172,6 +175,7 @@ Urteilsverfahren statt.
 
 
 ### § 2a Zuständigkeit im Beschlußverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002218125)
 
 (1) Die Gerichte für Arbeitssachen sind ferner ausschließlich
 zuständig für
@@ -264,6 +268,7 @@ Beschlußverfahren statt.
 
 
 ### § 3 Zuständigkeit in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002300303)
 
 Die in den §§ 2 und 2a begründete Zuständigkeit besteht auch in den
 Fällen, in denen der Rechtsstreit durch einen Rechtsnachfolger oder
@@ -272,12 +277,14 @@ sachlich Berechtigten oder Verpflichteten hierzu befugt ist.
 
 
 ### § 4 Ausschluß der Arbeitsgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002400303)
 
 In den Fällen des § 2 Abs. 1 und 2 kann die Arbeitsgerichtsbarkeit
 nach Maßgabe der §§ 101 bis 110 ausgeschlossen werden.
 
 
 ### § 5 Begriff des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002506311)
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und
 Angestellte sowie die zu ihrer Berufsausbildung Beschäftigten. Als
@@ -311,6 +318,7 @@ anpassen.
 
 
 ### § 6 Besetzung der Gerichte für Arbeitssachen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002600303)
 
 (1) Die Gerichte für Arbeitssachen sind mit Berufsrichtern und mit
 ehrenamtlichen Richtern aus den Kreisen der Arbeitnehmer und
@@ -320,6 +328,7 @@ Arbeitgeber besetzt.
 
 
 ### § 6a Allgemeine Vorschriften über das Präsidium und die Geschäftsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002700303)
 
 Für die Gerichte für Arbeitssachen gelten die Vorschriften des Zweiten
 Titels des Gerichtsverfassungsgesetzes nach Maßgabe der folgenden
@@ -354,6 +363,7 @@ Vorschriften entsprechend:
 
 
 ### § 7 Geschäftsstelle, Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002806311)
 
 (1) Bei jedem Gericht für Arbeitssachen wird eine Geschäftsstelle
 eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten
@@ -370,6 +380,7 @@ trägt der Bund.
 
 
 ### § 8 Gang des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE002901305)
 
 (1) Im ersten Rechtszug sind die Arbeitsgerichte zuständig, soweit
 durch Gesetz nichts anderes bestimmt ist.
@@ -390,6 +401,7 @@ Bundesarbeitsgericht nach Maßgabe des § 92 statt.
 
 
 ### § 9 Allgemeine Verfahrensvorschriften und Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003004125)
 
 (1) Das Verfahren ist in allen Rechtszügen zu beschleunigen.
 
@@ -446,6 +458,7 @@ höherer Gewalt entsprechend.
 
 
 ### § 10 Parteifähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003114125)
 
 Parteifähig im arbeitsgerichtlichen Verfahren sind auch Gewerkschaften
 und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher
@@ -473,6 +486,7 @@ Landes, soweit ihr nach § 5 Absatz 6 des Tarifvertragsgesetzes Rechte
 
 
 ### § 11 Prozessvertretung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003205301)
 
 (1) Die Parteien können vor dem Arbeitsgericht den Rechtsstreit selbst
 führen. Parteien, die eine fremde oder ihnen zum Zweck der Einziehung
@@ -562,6 +576,7 @@ widerrufen oder berichtigt wird.
 
 
 ### § 11a Beiordnung eines Rechtsanwalts, Prozeßkostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003307125)
 
 (1) Die Vorschriften der Zivilprozessordnung über die
 Prozesskostenhilfe und über die grenzüberschreitende
@@ -580,6 +595,7 @@ Verhältnisse (§ 117 Abs. 2 der Zivilprozeßordnung) einzuführen.
 
 
 ### § 12 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003411311)
 
 Das Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz
 gelten entsprechend, soweit sie nicht unmittelbar Anwendung finden.
@@ -593,6 +609,7 @@ Bundesarbeitsgerichts.
 
 
 ### § 12a Kostentragungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003503311)
 
 (1) In Urteilsverfahren des ersten Rechtszugs besteht kein Anspruch
 der obsiegenden Partei auf Entschädigung wegen Zeitversäumnis und auf
@@ -616,6 +633,7 @@ zu, als ihr Kosten im Einzelfall tatsächlich erwachsen sind.
 
 
 ### § 13 Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003601307)
 
 (1) Die Arbeitsgerichte leisten den Gerichten für Arbeitssachen
 Rechtshilfe. Ist die Amtshandlung außerhalb des Sitzes eines
@@ -628,6 +646,7 @@ entsprechende Anwendung.
 
 
 ### § 13a Internationale Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016402125)
 
 Die Vorschriften des Buches 11 der Zivilprozessordnung über die
 justizielle Zusammenarbeit in der Europäischen Union finden in
@@ -643,14 +662,17 @@ Absatz 3 dieses Gesetzes anwendbar ist.
 
 
 ## Zweiter Teil - Aufbau der Gerichte für Arbeitssachen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000200303)
 
 
 
 ### Erster Abschnitt - Arbeitsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000300303)
 
 
 
 #### § 14 Errichtung und Organisation
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003702305)
 
 (1) In den Ländern werden Arbeitsgerichte errichtet.
 
@@ -698,6 +720,7 @@ Bedeutung haben, zu hören.
 
 
 #### § 15 Verwaltung und Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003802305)
 
 (1) Die Geschäfte der Verwaltung und Dienstaufsicht führt die
 zuständige oberste Landesbehörde. Vor Erlaß allgemeiner Anordnungen,
@@ -714,6 +737,7 @@ Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen.
 
 
 #### § 16 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE003900303)
 
 (1) Das Arbeitsgericht besteht aus der erforderlichen Zahl von
 Vorsitzenden und ehrenamtlichen Richtern. Die ehrenamtlichen Richter
@@ -726,6 +750,7 @@ Arbeitnehmer und der Arbeitgeber tätig.
 
 
 #### § 17 Bildung von Kammern
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004003125)
 
 (1) Die zuständige oberste Landesbehörde bestimmt die Zahl der
 Kammern. Die Landesregierung kann diese Befugnis durch
@@ -751,6 +776,7 @@ Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen.
 
 
 #### § 18 Ernennung der Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004102305)
 
 (1) Die Vorsitzenden werden auf Vorschlag der zuständigen obersten
 Landesbehörde nach Beratung mit einem Ausschuß entsprechend den
@@ -771,6 +797,7 @@ kraft Auftrags verwendet werden.
 
 
 #### § 19 Ständige Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004200303)
 
 (1) Ist ein Arbeitsgericht nur mit einem Vorsitzenden besetzt, so
 beauftragt das Präsidium des Landesarbeitsgerichts einen Richter
@@ -786,6 +813,7 @@ Anordnung sind schriftlich niederzulegen.
 
 
 #### § 20 Berufung der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004302305)
 
 (1) Die ehrenamtlichen Richter werden von der zuständigen obersten
 Landesbehörde oder von der von der Landesregierung durch
@@ -803,6 +831,7 @@ Körperschaften oder deren Arbeitgebervereinigungen eingereicht werden.
 
 
 #### § 21 Voraussetzungen für die Berufung als ehrenamtlicher Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004404160)
 
 (1) Als ehrenamtliche Richter sind Arbeitnehmer und Arbeitgeber zu
 berufen, die das 25. Lebensjahr vollendet haben und im Bezirk des
@@ -854,6 +883,7 @@ nur auf Antrag des ehrenamtlichen Richters zulässig ist.
 
 
 #### § 22 Ehrenamtlicher Richter aus Kreisen der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004500303)
 
 (1) Ehrenamtlicher Richter aus Kreisen der Arbeitgeber kann auch sein,
 wer vorübergehend oder regelmäßig zu gewissen Zeiten des Jahres keine
@@ -889,6 +919,7 @@ berufen werden
 
 
 #### § 23 Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004601307)
 
 (1) Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer kann auch
 sein, wer arbeitslos ist.
@@ -908,6 +939,7 @@ Satzung durchführt.
 
 
 #### § 24 Ablehnung und Niederlegung des ehrenamtlichen Richteramts
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004704301)
 
 (1) Das Amt des ehrenamtlichen Richters kann ablehnen oder
 niederlegen,
@@ -941,10 +973,12 @@ die zuständige Stelle (§ 20). Die Entscheidung ist endgültig.
 
 
 #### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004800303)
 
 
 
 #### § 26 Schutz der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE004900303)
 
 (1) Niemand darf in der Übernahme oder Ausübung des Amtes als
 ehrenamtlicher Richter beschränkt oder wegen der Übernahme oder
@@ -957,6 +991,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 27 Amtsenthebung der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005002305)
 
 Ein ehrenamtlicher Richter ist auf Antrag der zuständigen Stelle (§
 20) seines Amtes zu entheben, wenn er seine Amtspflicht grob verletzt.
@@ -964,6 +999,7 @@ Ein ehrenamtlicher Richter ist auf Antrag der zuständigen Stelle (§
 
 
 #### § 28 Ordnungsgeld gegen ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005100303)
 
 Die vom Präsidium für jedes Geschäftsjahr im voraus bestimmte Kammer
 des Landesarbeitsgerichts kann auf Antrag des Vorsitzenden des
@@ -976,6 +1012,7 @@ Die Entscheidung ist endgültig.
 
 
 #### § 29 Ausschuß der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005200303)
 
 (1) Bei jedem Arbeitsgericht mit mehr als einer Kammer wird ein
 Ausschuß der ehrenamtlichen Richter gebildet. Er besteht aus
@@ -997,6 +1034,7 @@ ehrenamtlichen Richter übermitteln.
 
 
 #### § 30 Besetzung der Fachkammern
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005300303)
 
 Die ehrenamtlichen Richter einer Fachkammer sollen aus den Kreisen der
 Arbeitnehmer und der Arbeitgeber entnommen werden, für die die
@@ -1010,6 +1048,7 @@ deren Bezirke die Fachkammer zuständig ist.
 
 
 #### § 31 Heranziehung der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005400303)
 
 (1) Die ehrenamtlichen Richter sollen zu den Sitzungen nach der
 Reihenfolge einer Liste herangezogen werden, die der Vorsitzende vor
@@ -1023,20 +1062,24 @@ ihren Dienstsitz haben.
 
 
 #### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005500303)
 
 
 
 ### Zweiter Abschnitt - Landesarbeitsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000400303)
 
 
 
 #### § 33 Errichtung und Organisation
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005600303)
 
 In den Ländern werden Landesarbeitsgerichte errichtet. § 14 Abs. 2 bis
 5 ist entsprechend anzuwenden.
 
 
 #### § 34 Verwaltung und Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005703310)
 
 (1) Die Geschäfte der Verwaltung und Dienstaufsicht führt die
 zuständige oberste Landesbehörde. § 15 Abs. 1 Satz 2 gilt
@@ -1050,6 +1093,7 @@ oberste Landesbehörde übertragen.
 
 
 #### § 35 Zusammensetzung, Bildung von Kammern
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005801307)
 
 (1) Das Landesarbeitsgericht besteht aus dem Präsidenten, der
 erforderlichen Zahl von weiteren Vorsitzenden und von ehrenamtlichen
@@ -1065,6 +1109,7 @@ Kammern. § 17 gilt entsprechend.
 
 
 #### § 36 Vorsitzende
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE005902305)
 
 Der Präsident und die weiteren Vorsitzenden werden auf Vorschlag der
 zuständigen obersten Landesbehörde nach Anhörung der in § 14 Abs. 5
@@ -1074,6 +1119,7 @@ bestellt.
 
 
 #### § 37 Ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006001305)
 
 (1) Die ehrenamtlichen Richter müssen das dreißigste Lebensjahr
 vollendet haben und sollen mindestens fünf Jahre ehrenamtliche Richter
@@ -1085,6 +1131,7 @@ bis 28 entsprechend.
 
 
 #### § 38 Ausschuß der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006100303)
 
 Bei jedem Landesarbeitsgericht wird ein Ausschuß der ehrenamtlichen
 Richter gebildet. Die Vorschriften des § 29 Abs. 1 Satz 2 und 3 und
@@ -1092,6 +1139,7 @@ Abs. 2 gelten entsprechend.
 
 
 #### § 39 Heranziehung der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006200303)
 
 Die ehrenamtlichen Richter sollen zu den Sitzungen nach der
 Reihenfolge einer Liste herangezogen werden, die der Vorsitzende vor
@@ -1101,10 +1149,12 @@ entsprechend anzuwenden.
 
 
 ### Dritter Abschnitt - Bundesarbeitsgericht
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000500303)
 
 
 
 #### § 40 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006308311)
 
 (1) Das Bundesarbeitsgericht hat seinen Sitz in Erfurt.
 
@@ -1120,6 +1170,7 @@ Bundesarbeitsgerichts übertragen.
 
 
 #### § 41 Zusammensetzung, Senate
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006404311)
 
 (1) Das Bundesarbeitsgericht besteht aus dem Präsidenten, der
 erforderlichen Zahl von Vorsitzenden Richtern, von berufsrichterlichen
@@ -1137,6 +1188,7 @@ Verbraucherschutz.
 
 
 #### § 42 Bundesrichter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006504311)
 
 (1) Für die Berufung der Bundesrichter (Präsident, Vorsitzende Richter
 und berufsrichterliche Beisitzer nach § 41 Abs. 1 Satz 1) gelten die
@@ -1150,6 +1202,7 @@ vollendet haben.
 
 
 #### § 43 Ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006604308)
 
 (1) Die ehrenamtlichen Richter werden vom Bundesministerium für Arbeit
 und Soziales für die Dauer von fünf Jahren berufen. Sie sind im
@@ -1178,6 +1231,7 @@ Bundesarbeitsgerichts getroffen werden.
 
 
 #### § 44 Anhörung der ehrenamtlichen Richter, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006701160)
 
 (1) Bevor zu Beginn des Geschäftsjahrs die Geschäfte verteilt sowie
 die berufsrichterlichen Beisitzer und die ehrenamtlichen Richter den
@@ -1190,6 +1244,7 @@ das Präsidium beschließt. Absatz 1 gilt entsprechend.
 
 
 #### § 45 Großer Senat
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006801309)
 
 (1) Bei dem Bundesarbeitsgericht wird ein Großer Senat gebildet.
 
@@ -1230,18 +1285,22 @@ vorliegenden Sache für den erkennenden Senat bindend.
 
 
 ## Dritter Teil - Verfahren vor den Gerichten für Arbeitssachen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000600303)
 
 
 
 ### Erster Abschnitt - Urteilsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000700303)
 
 
 
 #### Erster Unterabschnitt - Erster Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000800303)
 
 
 
 ##### § 46 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE006906125)
 
 (1) Das Urteilsverfahren findet in den in § 2 Abs. 1 bis 4
 bezeichneten bürgerlichen Rechtsstreitigkeiten Anwendung.
@@ -1273,6 +1332,7 @@ Beweisaufnahme per Bild- und Tonübertragung teilnimmt.
 
 
 ##### § 46a Mahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007009311)
 
 (1) Für das Mahnverfahren vor den Gerichten für Arbeitssachen gelten
 die Vorschriften der Zivilprozeßordnung über das Mahnverfahren
@@ -1339,6 +1399,7 @@ Satz 2 bis 4 der Zivilprozessordnung gilt entsprechend.
 
 
 ##### § 46b Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015802160)
 
 (1) Für das Europäische Mahnverfahren nach der Verordnung (EG) Nr.
 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember
@@ -1359,6 +1420,7 @@ gestellt.
 
 
 ##### § 46c Elektronisches Dokument; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016707125)
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Parteien sowie schriftlich
@@ -1444,6 +1506,7 @@ eingereichten Dokument inhaltlich übereinstimmt.
 
 
 ##### § 46d Gerichtliches elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016203311)
 
 Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem
 Urkundsbeamten der Geschäftsstelle oder dem Gerichtsvollzieher die
@@ -1457,6 +1520,7 @@ das handschriftlich unterzeichnete Schriftstück gemäß § 46e Absatz 2
 
 
 ##### § 46e Elektronische Akte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016307125)
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
@@ -1523,6 +1587,7 @@ Behörden und Gerichten geltenden Standards bestimmen.
 
 
 ##### § 46f Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016901125)
 
 Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates elektronische
@@ -1539,6 +1604,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 
 
 ##### § 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE017001125)
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1556,6 +1622,7 @@ Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 ##### § 46h Formfiktion
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE017200125)
 
 Ist eine empfangsbedürftige Willenserklärung, die der schriftlichen
 oder elektronischen Form bedarf, klar erkennbar in einem
@@ -1568,6 +1635,7 @@ ausgeschlossen ist.
 
 
 ##### § 47 Sondervorschriften über Ladung und Einlassung \*)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007100303)
 
 (1) Die Klageschrift muß mindestens eine Woche vor dem Termin
 zugestellt sein.
@@ -1577,6 +1645,7 @@ zu äußern, erfolgt in der Regel nicht.
 
 
 ##### § 48 Rechtsweg und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007204160)
 
 (1) Für die Zulässigkeit des Rechtsweges und der Verfahrensart sowie
 für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b
@@ -1626,11 +1695,13 @@ vorgesehenen Beschränkungen finden keine Anwendung.
 
 
 ##### § 48a
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007301309)
 
 -
 
 
 ##### § 49 Ablehnung von Gerichtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007400303)
 
 (1) Über die Ablehnung von Gerichtspersonen entscheidet die Kammer des
 Arbeitsgerichts.
@@ -1642,6 +1713,7 @@ beschlußunfähig, so entscheidet das Landesarbeitsgericht.
 
 
 ##### § 50 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007504125)
 
 (1) Die Urteile werden von Amts wegen binnen drei Wochen seit
 Übermittlung an die Geschäftsstelle zugestellt. § 317 Abs. 1 Satz 3
@@ -1655,6 +1727,7 @@ entsprechend anzuwenden.
 
 
 ##### § 50a Videoverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE017300125)
 
 (1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit
 ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung
@@ -1682,6 +1755,7 @@ Verfahrensbeteiligten zu informieren.
 
 
 ##### § 51 Persönliches Erscheinen der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007601125)
 
 (1) Der Vorsitzende kann das persönliche Erscheinen der Parteien in
 jeder Lage des Rechtsstreits anordnen. Als persönliches Erscheinen
@@ -1697,6 +1771,7 @@ Zivilprozeßordnung findet entsprechende Anwendung.
 
 
 ##### § 52 Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007702311)
 
 Die Verhandlungen vor dem erkennenden Gericht einschließlich der
 Beweisaufnahme und der Verkündung der Entscheidung ist öffentlich. Das
@@ -1715,6 +1790,7 @@ Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
 
 
 ##### § 53 Befugnisse des Vorsitzenden und der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007800303)
 
 (1) Die nicht auf Grund einer mündlichen Verhandlung ergehenden
 Beschlüsse und Verfügungen erläßt, soweit nichts anderes bestimmt ist,
@@ -1727,6 +1803,7 @@ das landgerichtliche Verfahren entsprechend.
 
 
 ##### § 54 Güteverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE007905125)
 
 (1) Die mündliche Verhandlung beginnt mit einer Verhandlung vor dem
 Vorsitzenden zum Zwecke der gütlichen Einigung der Parteien
@@ -1769,6 +1846,7 @@ einsetzen.
 
 
 ##### § 54a Mediation, außergerichtliche Konfliktbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016800308)
 
 (1) Das Gericht kann den Parteien eine Mediation oder ein anderes
 Verfahren der außergerichtlichen Konfliktbeilegung vorschlagen.
@@ -1784,6 +1862,7 @@ noch betrieben wird.
 
 
 ##### § 55 Alleinentscheidung durch den Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016502311)
 
 (1) Der Vorsitzende entscheidet außerhalb der streitigen Verhandlung
 allein
@@ -1864,6 +1943,7 @@ Verhandlung ausgeführt werden.
 
 
 ##### § 56 Vorbereitung der streitigen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008101309)
 
 (1) Der Vorsitzende hat die streitige Verhandlung so vorzubereiten,
 daß sie möglichst in einem Termin zu Ende geführt werden kann. Zu
@@ -1901,6 +1981,7 @@ gesetzten Frist zu belehren.
 
 
 ##### § 57 Verhandlung vor der Kammer
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008200303)
 
 (1) Die Verhandlung ist möglichst in einem Termin zu Ende zu führen.
 Ist das nicht durchführbar, insbesondere weil eine Beweisaufnahme
@@ -1912,6 +1993,7 @@ Verfahrens angestrebt werden.
 
 
 ##### § 58 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008303125)
 
 (1) Soweit die Beweisaufnahme an der Gerichtsstelle möglich ist,
 erfolgt sie vor der Kammer. In den übrigen Fällen kann die
@@ -1949,6 +2031,7 @@ Erörterungstermin § 50a entsprechend gilt.
 
 
 ##### § 59 Versäumnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008401311)
 
 Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil
 ergangen ist, binnen einer Notfrist von einer Woche nach seiner
@@ -1960,6 +2043,7 @@ Zivilprozeßordnung bleibt unberührt.
 
 
 ##### § 60 Verkündung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008502125)
 
 (1) Zur Verkündung des Urteils kann ein besonderer Termin nur bestimmt
 werden, wenn die sofortige Verkündung in dem Termin, auf Grund dessen
@@ -1999,6 +2083,7 @@ Geschäftsstelle zu übermitteln.
 
 
 ##### § 61 Inhalt des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008600303)
 
 (1) Den Wert des Streitgegenstands setzt das Arbeitsgericht im Urteil
 fest.
@@ -2017,6 +2102,7 @@ anzusehen.
 
 
 ##### § 61a Besondere Prozeßförderung in Kündigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008700303)
 
 (1) Verfahren in Rechtsstreitigkeiten über das Bestehen, das
 Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind nach
@@ -2048,6 +2134,7 @@ oder 4 gesetzten Fristen zu belehren.
 
 
 ##### § 61b Klage wegen Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015702301)
 
 (1) Eine Klage auf Entschädigung nach § 15 des Allgemeinen
 Gleichbehandlungsgesetzes muss innerhalb von drei Monaten, nachdem der
@@ -2067,6 +2154,7 @@ vor Ablauf von sechs Monaten seit Erhebung der ersten Klage statt.
 
 
 ##### § 62 Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008803311)
 
 (1) Urteile der Arbeitsgerichte, gegen die Einspruch oder Berufung
 zulässig ist, sind vorläufig vollstreckbar. Macht der Beklagte
@@ -2090,6 +2178,7 @@ als bei allen Arbeitsgerichten der Länder eingereicht.
 
 
 ##### § 63 Übermittlung von Urteilen in Tarifvertragssachen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE008905308)
 
 Rechtskräftige Urteile, die in bürgerlichen Rechtsstreitigkeiten
 zwischen Tarifvertragsparteien aus dem Tarifvertrag oder über das
@@ -2103,10 +2192,12 @@ obersten Arbeitsbehörde des Landes zu übermitteln.
 
 
 #### Zweiter Unterabschnitt - Berufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG000900303)
 
 
 
 ##### § 64 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009008125)
 
 (1) Gegen die Urteile der Arbeitsgerichte findet, soweit nicht nach §
 78 das Rechtsmittel der sofortigen Beschwerde gegeben ist, die
@@ -2201,6 +2292,7 @@ vorrangig zu erledigen.
 
 
 ##### § 65 Beschränkung der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009102310)
 
 Das Berufungsgericht prüft nicht, ob der beschrittene Rechtsweg und
 die Verfahrensart zulässig sind und ob bei der Berufung der
@@ -2210,6 +2302,7 @@ seinem Amte ausschließen.
 
 
 ##### § 66 Einlegung der Berufung, Terminbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009202160)
 
 (1) Die Frist für die Einlegung der Berufung beträgt einen Monat, die
 Frist für die Begründung der Berufung zwei Monate. Beide Fristen
@@ -2232,6 +2325,7 @@ Zivilprozessordnung findet keine Anwendung.
 
 
 ##### § 67 Zulassung neuer Angriffs- und Verteidigungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009301310)
 
 (1) Angriffs- und Verteidigungsmittel, die im ersten Rechtszug zu
 Recht zurückgewiesen worden sind, bleiben ausgeschlossen.
@@ -2266,12 +2360,14 @@ Verschulden der Partei beruht.
 
 
 ##### § 68 Zurückverweisung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009500303)
 
 Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die
 Zurückverweisung unzulässig.
 
 
 ##### § 69 Urteil
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009602310)
 
 (1) Das Urteil nebst Tatbestand und Entscheidungsgründen ist von
 sämtlichen Mitgliedern der Kammer zu unterschreiben. § 60 Abs. 1 bis 3
@@ -2301,18 +2397,22 @@ wenn die Parteien auf sie verzichtet haben; im Übrigen sind die §§
 
 
 ##### § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009702310)
 
 
 
 ##### § 71 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009800303)
 
 
 
 #### Dritter Unterabschnitt - Revisionsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001000303)
 
 
 
 ##### § 72 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE009909125)
 
 (1) Gegen das Endurteil eines Landesarbeitsgerichts findet die
 Revision an das Bundesarbeitsgericht statt, wenn sie in dem Urteil des
@@ -2367,6 +2467,7 @@ Entscheidungsverkündung gelten entsprechend.
 
 
 ##### § 72a Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010001301)
 
 (1) Die Nichtzulassung der Revision durch das Landesarbeitsgericht
 kann selbständig durch Beschwerde angefochten werden.
@@ -2428,6 +2529,7 @@ Landesarbeitsgericht zurückverweisen.
 
 
 ##### § 72b Sofortige Beschwerde wegen verspäteter Absetzung des Berufungsurteils
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015900301)
 
 (1) Das Endurteil eines Landesarbeitsgerichts kann durch sofortige
 Beschwerde angefochten werden, wenn es nicht binnen fünf Monaten nach
@@ -2463,6 +2565,7 @@ Landesarbeitsgerichts erfolgen.
 
 
 ##### § 73 Revisionsgründe
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010102301)
 
 (1) Die Revision kann nur darauf gestützt werden, daß das Urteil des
 Landesarbeitsgerichts auf der Verletzung einer Rechtsnorm beruht. Sie
@@ -2472,6 +2575,7 @@ kann nicht auf die Gründe des § 72b gestützt werden.
 
 
 ##### § 74 Einlegung der Revision, Terminbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010201310)
 
 (1) Die Frist für die Einlegung der Revision beträgt einen Monat, die
 Frist für die Begründung der Revision zwei Monate. Beide Fristen
@@ -2488,6 +2592,7 @@ Richter.
 
 
 ##### § 75 Urteil
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010300303)
 
 (1) Die Wirksamkeit der Verkündung des Urteils ist von der Anwesenheit
 der ehrenamtlichen Richter nicht abhängig. Wird ein Urteil in
@@ -2500,6 +2605,7 @@ sämtlichen Mitgliedern des erkennenden Senats zu unterschreiben.
 
 
 ##### § 76 Sprungrevision
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010401310)
 
 (1) Gegen das Urteil eines Arbeitsgerichts kann unter Übergehung der
 Berufungsinstanz unmittelbar die Revision eingelegt werden
@@ -2561,6 +2667,7 @@ Arbeitsgerichts unverzüglich Nachricht zu geben.
 
 
 ##### § 77 Revisionsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010502311)
 
 Gegen den Beschluss des Landesarbeitsgerichts, der die Berufung als
 unzulässig verwirft, findet die Revisionsbeschwerde statt, wenn das
@@ -2574,10 +2681,12 @@ gelten entsprechend.
 
 
 #### Vierter Unterabschnitt - Beschwerdeverfahren, Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001101301)
 
 
 
 ##### § 78 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010603301)
 
 Hinsichtlich der Beschwerde gegen Entscheidungen der Arbeitsgerichte
 oder ihrer Vorsitzenden gelten die für die Beschwerde gegen
@@ -2590,6 +2699,7 @@ Bundesarbeitsgericht.
 
 
 ##### § 78a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016001125)
 
 (1) Auf die Rüge der durch die Entscheidung beschwerten Partei ist das
 Verfahren fortzuführen, wenn
@@ -2650,10 +2760,12 @@ entsprechende Anwendung.
 
 
 #### Fünfter Unterabschnitt - Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001200303)
 
 
 
 ##### § 79
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010700303)
 
 Die Vorschriften der Zivilprozeßordnung über die Wiederaufnahme des
 Verfahrens gelten für Rechtsstreitigkeiten nach § 2 Abs. 1 bis 4
@@ -2664,14 +2776,17 @@ ausschließen, gestützt werden.
 
 
 ### Zweiter Abschnitt - Beschlußverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001300303)
 
 
 
 #### Erster Unterabschnitt - Erster Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001400303)
 
 
 
 ##### § 80 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010804125)
 
 (1) Das Beschlußverfahren findet in den in § 2a bezeichneten Fällen
 Anwendung.
@@ -2687,6 +2802,7 @@ das Güteverfahren gelten entsprechend.
 
 
 ##### § 81 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE010901311)
 
 (1) Das Verfahren wird nur auf Antrag eingeleitet; der Antrag ist bei
 dem Arbeitsgericht schriftlich einzureichen oder bei seiner
@@ -2709,6 +2825,7 @@ unanfechtbar.
 
 
 ##### § 82 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011009125)
 
 (1) Zuständig ist das Arbeitsgericht, in dessen Bezirk der Betrieb
 liegt. In Angelegenheiten des Gesamtbetriebsrats, des
@@ -2761,6 +2878,7 @@ haben soll.
 
 
 ##### § 83 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011114125)
 
 (1) Das Gericht erforscht den Sachverhalt im Rahmen der gestellten
 Anträge von Amts wegen. Die am Verfahren Beteiligten haben an der
@@ -2802,6 +2920,7 @@ Vorsitzenden findet die Beschwerde nach Maßgabe des § 78 statt.
 
 
 ##### § 83a Vergleich, Erledigung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011202311)
 
 (1) Die Beteiligten können, um das Verfahren ganz oder zum Teil zu
 erledigen, zu Protokoll des Gerichts oder des Vorsitzenden oder des
@@ -2822,6 +2941,7 @@ bestimmten Frist nicht äußert.
 
 
 ##### § 84 Beschluß
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011300303)
 
 Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des
 Verfahrens gewonnenen Überzeugung. Der Beschluß ist schriftlich
@@ -2829,6 +2949,7 @@ abzufassen. § 60 ist entsprechend anzuwenden.
 
 
 ##### § 85 Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011402311)
 
 (1) Soweit sich aus Absatz 2 nichts anderes ergibt, findet aus
 rechtskräftigen Beschlüssen der Arbeitsgerichte oder gerichtlichen
@@ -2857,14 +2978,17 @@ Arbeitsgerichten der Länder eingereicht.
 
 
 ##### § 86 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011500303)
 
 
 
 #### Zweiter Unterabschnitt - Zweiter Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001500303)
 
 
 
 ##### § 87 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011606125)
 
 (1) Gegen die das Verfahren beendenden Beschlüsse der Arbeitsgerichte
 findet die Beschwerde an das Landesarbeitsgericht statt.
@@ -2898,11 +3022,13 @@ und auf dem Verschulden des Beteiligten beruht.
 
 
 ##### § 88 Beschränkung der Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011701309)
 
 § 65 findet entsprechende Anwendung.
 
 
 ##### § 89 Einlegung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016600160)
 
 (1) Für die Einlegung und Begründung der Beschwerde gilt § 11 Abs. 4
 und 5 entsprechend.
@@ -2929,6 +3055,7 @@ ist.
 
 
 ##### § 90 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE011902125)
 
 (1) Die Beschwerdeschrift und die Beschwerdebegründung werden den
 Beteiligten zur Äußerung zugestellt. Die Äußerung erfolgt durch
@@ -2942,6 +3069,7 @@ den angefochtenen Beschluß erlassen hat.
 
 
 ##### § 91 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012000303)
 
 (1) Über die Beschwerde entscheidet das Landesarbeitsgericht durch
 Beschluß. Eine Zurückverweisung ist nicht zulässig. § 84 Satz 2 gilt
@@ -2953,10 +3081,12 @@ gilt entsprechend.
 
 
 #### Dritter Unterabschnitt - Dritter Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001600303)
 
 
 
 ##### § 92 Rechtsbeschwerdeverfahren, Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012103125)
 
 (1) Gegen den das Verfahren beendenden Beschluß eines
 Landesarbeitsgerichts findet die Rechtsbeschwerde an das
@@ -2979,6 +3109,7 @@ Abs. 1 Satz 2 bleibt unberührt.
 
 
 ##### § 92a Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012201301)
 
 Die Nichtzulassung der Rechtsbeschwerde durch das Landesarbeitsgericht
 kann selbständig durch Beschwerde angefochten werden. § 72a Abs. 2 bis
@@ -2986,6 +3117,7 @@ kann selbständig durch Beschwerde angefochten werden. § 72a Abs. 2 bis
 
 
 ##### § 92b Sofortige Beschwerde wegen verspäteter Absetzung der Beschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE016100301)
 
 Der Beschluss eines Landesarbeitsgerichts nach § 91 kann durch
 sofortige Beschwerde angefochten werden, wenn er nicht binnen fünf
@@ -2996,6 +3128,7 @@ entsprechend. § 92a findet keine Anwendung.
 
 
 ##### § 93 Rechtsbeschwerdegründe
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012302301)
 
 (1) Die Rechtsbeschwerde kann nur darauf gestützt werden, daß der
 Beschluß des Landesarbeitsgerichts auf der Nichtanwendung oder der
@@ -3006,6 +3139,7 @@ Gründe des § 92b gestützt werden.
 
 
 ##### § 94 Einlegung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012401301)
 
 (1) Für die Einlegung und Begründung der Rechtsbeschwerde gilt § 11
 Abs. 4 und 5 entsprechend.
@@ -3026,6 +3160,7 @@ worden ist.
 
 
 ##### § 95 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012501311)
 
 Die Rechtsbeschwerdeschrift und die Rechtsbeschwerdebegründung werden
 den Beteiligten zur Äußerung zugestellt. Die Äußerung erfolgt durch
@@ -3038,6 +3173,7 @@ anzuwenden.
 
 
 ##### § 96 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012601310)
 
 (1) Über die Rechtsbeschwerde entscheidet das Bundesarbeitsgericht
 durch Beschluß. Die §§ 562, 563 der Zivilprozeßordnung gelten
@@ -3048,6 +3184,7 @@ Senats zu unterschreiben und den Beteiligten zuzustellen.
 
 
 ##### § 96a Sprungrechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012700303)
 
 (1) Gegen den das Verfahren beendenden Beschluß eines Arbeitsgerichts
 kann unter Übergehung der Beschwerdeinstanz unmittelbar
@@ -3066,10 +3203,12 @@ Rechtsbeschwerdeschrift, andernfalls dem Antrag beizufügen.
 
 
 #### Vierter Unterabschnitt - Beschlußverfahren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001700303)
 
 
 
 ##### § 97 Entscheidung über die Tariffähigkeit oder Tarifzuständigkeit einer Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012803125)
 
 (1) In den Fällen des § 2a Abs. 1 Nr. 4 wird das Verfahren auf Antrag
 einer räumlich und sachlich zuständigen Vereinigung von Arbeitnehmern
@@ -3108,6 +3247,7 @@ nach § 2a Abs. 1 Nr. 4 antragsberechtigt.
 
 
 ##### § 98 Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE012905125)
 
 (1) In den Fällen des § 2a Absatz 1 Nummer 5 wird das Verfahren
 eingeleitet auf Antrag
@@ -3184,6 +3324,7 @@ antragsberechtigt.
 
 
 ##### § 99 Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE017100311)
 
 (1) In den Fällen des § 2a Absatz 1 Nummer 6 wird das Verfahren auf
 Antrag einer Tarifvertragspartei eines kollidierenden Tarifvertrags
@@ -3205,6 +3346,7 @@ Zivilprozessordnung findet keine Anwendung.
 
 
 ##### § 100 Entscheidung über die Besetzung der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013002311)
 
 (1) In den Fällen des § 76 Abs. 2 Satz 2 und 3 des
 Betriebsverfassungsgesetzes entscheidet der Vorsitzende allein. Wegen
@@ -3231,10 +3373,12 @@ Entscheidungen findet kein Rechtsmittel statt.
 
 
 ## Vierter Teil - Schiedsvertrag in Arbeitsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001800303)
 
 
 
 ### § 101 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013201311)
 
 (1) Für bürgerliche Rechtsstreitigkeiten zwischen
 Tarifvertragsparteien aus Tarifverträgen oder über das Bestehen oder
@@ -3261,6 +3405,7 @@ schiedsrichterliche Verfahren finden in Arbeitssachen keine Anwendung.
 
 
 ### § 102 Prozeßhindernde Einrede
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013301309)
 
 (1) Wird das Arbeitsgericht wegen einer Rechtsstreitigkeit angerufen,
 für die die Parteien des Tarifvertrages einen Schiedsvertrag
@@ -3307,6 +3452,7 @@ Rechtsstreits auf Grund des Schiedsvertrags ausgeschlossen.
 
 
 ### § 103 Zusammensetzung des Schiedsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013400303)
 
 (1) Das Schiedsgericht muß aus einer gleichen Zahl von Arbeitnehmern
 und von Arbeitgebern bestehen; außerdem können ihm Unparteiische
@@ -3328,6 +3474,7 @@ kein Rechtsmittel statt.
 
 
 ### § 104 Verfahren vor dem Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013500303)
 
 Das Verfahren vor dem Schiedsgericht regelt sich nach den §§ 105 bis
 110 und dem Schiedsvertrag, im übrigen nach dem freien Ermessen des
@@ -3335,6 +3482,7 @@ Schiedsgerichts.
 
 
 ### § 105 Anhörung der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013601301)
 
 (1) Vor der Fällung des Schiedsspruchs sind die Streitparteien zu
 hören.
@@ -3352,6 +3500,7 @@ Anhörung genügt.
 
 
 ### § 106 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013701301)
 
 (1) Das Schiedsgericht kann Beweise erheben, soweit die Beweismittel
 ihm zur Verfügung gestellt werden. Zeugen und Sachverständige kann das
@@ -3372,6 +3521,7 @@ Anwendung.
 
 
 ### § 107 Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013800303)
 
 Ein vor dem Schiedsgericht geschlossener Vergleich ist unter Angabe
 des Tages seines Zustandekommens von den Streitparteien und den
@@ -3379,6 +3529,7 @@ Mitgliedern des Schiedsgerichts zu unterschreiben.
 
 
 ### § 108 Schiedsspruch
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE013900303)
 
 (1) Der Schiedsspruch ergeht mit einfacher Mehrheit der Stimmen der
 Mitglieder des Schiedsgerichts, falls der Schiedsvertrag nichts
@@ -3403,6 +3554,7 @@ ein rechtskräftiges Urteil des Arbeitsgerichts.
 
 
 ### § 109 Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014000303)
 
 (1) Die Zwangsvollstreckung findet aus dem Schiedsspruch oder aus
 einem vor dem Schiedsgericht geschlossenen Vergleich nur statt, wenn
@@ -3418,6 +3570,7 @@ Parteien zuzustellen.
 
 
 ### § 110 Aufhebungsklage
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014100303)
 
 (1) Auf Aufhebung des Schiedsspruchs kann geklagt werden,
 
@@ -3452,10 +3605,12 @@ Vollstreckbarkeitserklärung auszusprechen.
 
 
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNG001900303)
 
 
 
 ### § 111 Änderung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014201305)
 
 (1) Soweit nach anderen Rechtsvorschriften andere Gerichte, Behörden
 oder Stellen zur Entscheidung oder Beilegung von Arbeitssachen
@@ -3480,6 +3635,7 @@ Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§
 
 
 ### § 112 Übergangsregelungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014303125)
 
 (1) Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum
 Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in
@@ -3516,6 +3672,7 @@ Arbeitsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
 
 
 ### § 113 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014401311)
 
 Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 8.
 September 2020 über die Auswirkungen der vorläufigen Leistungspflicht
@@ -3524,39 +3681,48 @@ Regelung fortbestehen soll.
 
 
 ### § 114 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014502125)
 
 
 
 ### § 115 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014600303)
 
 
 
 ### § 116 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014700303)
 
 
 
 ### § 117 Verfahren bei Meinungsverschiedenheiten der beteiligten Verwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014801305)
 
 Soweit in den Fällen der §§ 40 und 41 das Einvernehmen nicht erzielt
 wird, entscheidet die Bundesregierung.
 
 
 ### § 118 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE014900303)
 
 
 
 ### § 119 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015000303)
 
 
 
 ### § 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015100303)
 
 
 
 ### § 121 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015201301)
 
 
 
 ### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html#BJNR012670953BJNE015301301)
 
 

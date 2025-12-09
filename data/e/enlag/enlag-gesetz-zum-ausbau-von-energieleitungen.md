@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getreten
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/enlag/BJNR287010009.html#BJNR287010009BJNE000102377)
 
 (1) Für Vorhaben nach § 43 Absatz 1 Satz 1 des
 Energiewirtschaftsgesetzes im Bereich der Höchstspannungsnetze mit
@@ -56,6 +57,7 @@ Netzverknüpfungspunkten, an denen sie mit dem bestehenden
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/enlag/BJNR287010009.html#BJNR287010009BJNE000207377)
 
 (1) Um den Einsatz von Erdkabeln auf der Höchstspannungsebene im
 Übertragungsnetz als Pilotvorhaben zu testen, können folgende der in
@@ -155,6 +157,7 @@ Träger des Vorhabens dies beantragt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/enlag/BJNR287010009.html#BJNR287010009BJNE000403118)
 
 (Fundstelle: BGBl. I 2009, 2872; bzgl. einzelner Änderungen vgl.
 Fußnote)

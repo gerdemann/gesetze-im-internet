@@ -24,6 +24,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000100305)
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom
@@ -36,12 +37,14 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000200305)
 
 Der Ausbildungsberuf Bauwerksabdichter/Bauwerksabdichterin wird
 staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000300305)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -53,6 +56,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000400305)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -70,6 +74,7 @@ und 10 nachzuweisen.
 
 
 ## § 4 Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000500305)
 
 (1) In der Berufsausbildung sind in überbetrieblichen oder in
 geeigneten betrieblichen Ausbildungsstätten zu vermitteln:
@@ -98,6 +103,7 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000600305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -164,6 +170,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000700305)
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach der in der Anlage
 für die berufliche Grundbildung und für die berufliche Fachbildung
@@ -177,12 +184,14 @@ erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000800305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE000900305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -191,6 +200,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE001000305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -250,6 +260,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 10 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE001100305)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -414,6 +425,7 @@ worden sind.
 
 
 ## § 11 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE001200305)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Klebeabdichter sind
@@ -421,6 +433,7 @@ nicht mehr anzuwenden.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE001300305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -429,12 +442,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE001400305)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
+[Direktlink](https://www.gesetze-im-internet.de/bauwabdausbv/BJNR094600997.html#BJNR094600997BJNE001500305)
 
 (Fundstelle: BGBl. I 1997, 949 - 954)
 

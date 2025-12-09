@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes – Absatz 1 Nummer 2 geändert durch Artikel 1
@@ -50,9 +51,11 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000300000)
 
 (1) Das Bachelorstudium im Studiengang Verwaltungsinformatik (Bachelor
 of Science) an der Universität der Bundeswehr München (Universität)
@@ -67,6 +70,7 @@ Informationstechnikzentrum Bund im Benehmen mit der Universität.
 
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE003501311)
 
 Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
@@ -74,6 +78,7 @@ Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ziele des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000400000)
 
 (1) Der Vorbereitungsdienst vermittelt in enger Verbindung von
 Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse
@@ -106,12 +111,14 @@ verpflichtet.
 
 
 ### § 3 Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000500000)
 
 Dienstbehörde der Anwärterinnen und Anwärter ist das
 Informationstechnikzentrum Bund.
 
 
 ### § 4 Dienstvorgesetzte, Dienstvorgesetzter
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000600000)
 
 Dienstvorgesetzte oder Dienstvorgesetzter der Anwärterinnen und
 Anwärter ist die Leiterin oder der Leiter des
@@ -120,6 +127,7 @@ Bachelorstudiums.
 
 
 ### § 5 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000700000)
 
 (1) Auf Antrag gewährt das Informationstechnikzentrum Bund Menschen
 mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden
@@ -142,6 +150,7 @@ Anforderungen für die Eignung herabgesetzt werden.
 
 
 ### § 6 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000800000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt
 bewertet:
@@ -327,15 +336,18 @@ berechnet.
 
 
 ### § 7 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE000900000)
 
 Erholungsurlaub wird grundsätzlich während der vorlesungsfreien Zeiten
 des Bachelorstudiums gewährt.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNG000200000)
 
 
 ### § 8 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001001126)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer
@@ -372,6 +384,7 @@ eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
 
 ### § 9 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001102311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das
 Informationstechnikzentrum Bund eine Auswahlkommission ein. Bei Bedarf
@@ -425,6 +438,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 10 Durchführung des Auswahlverfahrens, Täuschungen
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001202311)
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil. Der schriftliche Teil kann ganz oder teilweise mit
@@ -445,6 +459,7 @@ Ausschluss wird die Bewerberin oder der Bewerber angehört.
 
 
 ### § 11 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001300000)
 
 (1) Der schriftliche und der mündliche Teil des Auswahlverfahrens ist
 bestanden, wenn die im Auswahlkonzept jeweils festgelegte
@@ -469,9 +484,11 @@ löschen.
 
 
 ## Abschnitt 3 - Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNG000300000)
 
 
 ### § 12 Aufbau des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001400000)
 
 Der Vorbereitungsdienst gliedert sich wie folgt:
 
@@ -515,6 +532,7 @@ Der Vorbereitungsdienst gliedert sich wie folgt:
 
 
 ### § 13 Einführungsveranstaltung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001500000)
 
 Vor dem Bachelorstudium erhalten die Anwärterinnen und Anwärter in
 einer ein- bis zweiwöchigen Einführungsveranstaltung des
@@ -524,6 +542,7 @@ sowie über ihre Rechtstellung als Beamtinnen und Beamte des Bundes.
 
 
 ### § 14 Bachelorstudium
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001600000)
 
 (1) Das Bachelorstudium richtet sich nach den Studien- und
 Prüfungsordnungen der Universität. Diese sind auf der Internetseite
@@ -534,6 +553,7 @@ Anwärter für das Bachelorstudium an die Universität ab.
 
 
 ### § 15 Berufspraktische Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001700000)
 
 (1) Die berufspraktischen Studienzeiten werden vom
 Informationstechnikzentrum Bund organisiert und durchgeführt und
@@ -553,6 +573,7 @@ einzelne Aufgaben oder Aufgabenteile eigenständig erledigen.
 
 
 ### § 16 Ausbildungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001800000)
 
 (1) Das Informationstechnikzentrum Bund bestellt eine Beamtin oder
 einen Beamten des gehobenen Dienstes des Bundes als Ausbildungsleitung
@@ -564,6 +585,7 @@ sorgfältige Ausbildung der Anwärterinnen und Anwärter sicher.
 
 
 ### § 17 Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE001900000)
 
 (1) Die Ausbildenden für die berufspraktischen Studienzeiten werden
 von der Ausbildungsleitung bestellt.
@@ -577,6 +599,7 @@ erforderlich ist, werden sie von anderen Dienstgeschäften entlastet.
 
 
 ### § 18 Bewertung der berufspraktischen Studienzeiten, Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002000000)
 
 (1) Nach Abschluss eines Ausbildungsabschnitts bewertet die
 Ausbildungsleitung die fachlichen Leistungen sowie die methodischen
@@ -598,6 +621,7 @@ besprechen.
 
 
 ### § 19 Zeugnis über die berufspraktischen Studienzeiten, Rangpunktzahl der berufspraktischen Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002100000)
 
 (1) Die Ausbildungsleitung erstellt für jede Anwärterin und jeden
 Anwärter ein Zeugnis über die berufspraktischen Studienzeiten.
@@ -623,9 +647,11 @@ berufspraktischen Studienzeiten.
 
 
 ## Abschnitt 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNG000400000)
 
 
 ### § 20 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002200000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -639,6 +665,7 @@ Die Laufbahnprüfung besteht aus
 
 
 ### § 21 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002300000)
 
 (1) Für die Durchführung der mündlichen Abschlussprüfung richtet das
 Informationstechnikzentrum Bund eine Prüfungskommission ein. Bei
@@ -673,6 +700,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ### § 22 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002400000)
 
 (1) Zur mündlichen Abschlussprüfung ist zugelassen, wer die
 Bachelorprüfung bestanden hat.
@@ -722,6 +750,7 @@ nicht unterschreiten und 30 Minuten nicht überschreiten.
 
 
 ### § 23 Durchführung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002500000)
 
 (1) Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung
 und stellt sicher, dass die Anwärterinnen und Anwärter in geeigneter
@@ -745,6 +774,7 @@ bleiben unberührt.
 
 
 ### § 24 Bewertung und Bestehen der mündlichen Abschlussprüfung, Rangpunktzahl der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002600000)
 
 (1) Bei den Beratungen über die Bewertung der Prüfungsleistungen
 dürfen nur die Mitglieder der Prüfungskommission anwesend sein.
@@ -764,6 +794,7 @@ erläutert es auf Wunsch.
 
 
 ### § 25 Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002700000)
 
 (1) Sind Anwärterinnen und Anwärter an der Ablegung der mündlichen
 Abschlussprüfung ganz oder teilweise gehindert, so können sie beim
@@ -789,6 +820,7 @@ mit null Rangpunkten bewertet.
 
 
 ### § 26 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002800000)
 
 (1) Anwärterinnen und Anwärtern, die bei der mündlichen
 Abschlussprüfung täuschen, eine Täuschung versuchen, an einer
@@ -827,6 +859,7 @@ Entscheidungen nach den Absätzen 2 und 3 anzuhören.
 
 
 ### § 27 Wiederholung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE002900000)
 
 (1) Anwärterinnen und Anwärter, die die mündliche Abschlussprüfung
 nicht bestanden haben, können sie einmal wiederholen. Auf Antrag kann
@@ -846,6 +879,7 @@ die zuvor erreichten.
 
 
 ### § 28 Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung, Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE003000000)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -1043,6 +1077,7 @@ nach § 6 Absatz 1 zugeordnet und als Abschlussnote festgesetzt.
 
 
 ### § 29 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE003100000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom
 Informationstechnikzentrum Bund ein Abschlusszeugnis.
@@ -1070,6 +1105,7 @@ Informationstechnikzentrum Bund ein Abschlusszeugnis.
 
 
 ### § 30 Bescheid über die nicht bestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE003200000)
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Informationstechnikzentrum Bund
@@ -1090,6 +1126,7 @@ Studienzeiten.
 
 
 ### § 31 Prüfungsakte
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE003300000)
 
 (1) Das Informationstechnikzentrum Bund führt für jede Anwärterin und
 jeden Anwärter eine Prüfungsakte.
@@ -1124,9 +1161,11 @@ vernichtet.
 
 
 ## Abschnitt 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNG000500000)
 
 
 ### § 32 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gtditzbundvdv/BJNR247900020.html#BJNR247900020BJNE003400000)
 
 Diese Verordnung tritt mit Wirkung vom 29. September 2020 in Kraft.
 

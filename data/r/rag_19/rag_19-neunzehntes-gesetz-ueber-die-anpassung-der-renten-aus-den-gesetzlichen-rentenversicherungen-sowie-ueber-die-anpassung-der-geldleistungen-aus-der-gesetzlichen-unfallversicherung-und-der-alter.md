@@ -22,16 +22,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE000700312)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNG000100312)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE000800312)
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1976 die
@@ -52,6 +55,7 @@ Juni 1976 erhöhten Renten, die Knappschaftsausgleichsleistung nach §
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE000900312)
 
 (1) Renten, die nach den §§ 1253ff. der Reichsversicherungsordnung, §§
 30ff. des Angestelltenversicherungsgesetzes oder §§ 53ff. des
@@ -91,6 +95,7 @@ Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001000312)
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 §§ 31
@@ -212,6 +217,7 @@ Deutsche Mark tritt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001100312)
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
 wie sie sich ergeben würde, wenn der nach § 5 zu ermittelnde
@@ -245,6 +251,7 @@ angepaßt würden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001200312)
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 der Rentenzahlbetrag
 für Juli 1976 ohne Kinderzuschuß für jedes Kind und ohne
@@ -268,6 +275,7 @@ hätten.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001300312)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Rentenversicherung der Angestellten, die nach § 4 angepaßt werden,
@@ -310,6 +318,7 @@ berücksichtigen sind, nicht überschreiten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001400312)
 
 Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
 Angleichungsgesetzes Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402)
@@ -321,6 +330,7 @@ Versicherungszeiten ergeben würde.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001500312)
 
 Die Vorschriften dieses Abschnitts gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 7
@@ -337,10 +347,12 @@ Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 
 
 ## Zweiter Abschnitt - Anpassung der Geldleistungen und des Pflegegeldes aus der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNG000200312)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001600312)
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der
 Veränderung der durchschnittlichen Bruttolohn- und -gehaltssumme
@@ -373,6 +385,7 @@ Jahresarbeitsverdienst zuletzt festgelegt worden ist.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001700312)
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
 einem mit 1,070 vervielfältigten Jahresarbeitsverdienst berechnet
@@ -388,6 +401,7 @@ zu zahlende Betrag mit 1,070 zu vervielfältigen ist.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001800312)
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
 Deutsche Mark nicht übersteigen, es sei denn, daß gemäß § 575 Abs. 2
@@ -397,10 +411,12 @@ von 36.000 Deutsche Mark der höhere Betrag.
 
 
 ## Dritter Abschnitt - Anpassung der Altersgelder in der Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNG000300312)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE001900312)
 
 In der Altershilfe für Landwirte werden wegen der Veränderung der
 allgemeinen Bemessungsgrundlage in der Rentenversicherung der Arbeiter
@@ -416,10 +432,12 @@ monatlich festgesetzt.
 
 
 ## Vierter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNG000400312)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002000312)
 
 (1) Renten aus den Rentenversicherungen der Arbeiter und der
 Angestellten, die nach den §§ 2 und 3 anzupassen sind, Renten mit
@@ -449,6 +467,7 @@ Berechtigten die höhere Leistung zu gewähren.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002100312)
 
 (1) Jedem Leistungsempfänger ist die Höhe der Leistung, die ihm vom
 Zeitpunkt der Anpassung auf Grund dieses Gesetzes an zusteht,
@@ -469,18 +488,22 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ## Fünfter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNG000500312)
 
 
 
 ### (XXXX) §§ 15 bis 26
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002200312)
 
 
 
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNG000600312)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002300312)
 
 Die Erhöhungsbeträge auf Grund dieses Gesetzes bleiben vom 1. Juli bis
 31\. Dezember 1976 bei der Ermittlung anderen Einkommens
@@ -493,14 +516,17 @@ festgestellt werden.
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002401308)
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002501308)
 
 -
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002600312)
 
 § 15 Abs. 2 des Gesetzes über die Errichtung einer
 Zusatzversorgungskasse für Arbeitnehmer in der Land- und
@@ -514,6 +540,7 @@ ist.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002700312)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -521,6 +548,7 @@ im Land Berlin.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/rag_19/BJNR013730976.html#BJNR013730976BJNE002800312)
 
 (1) Es treten in Kraft:
 § 25 mit Wirkung vom 4. August 1974,

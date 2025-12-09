@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## § 1 Bildung des Deutschen Ethikrats
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000100000)
 
 Es wird ein unabhängiger Sachverständigenrat gebildet, der die
 Bezeichnung "Deutscher Ethikrat" trägt.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000200000)
 
 (1) Der Deutsche Ethikrat verfolgt die ethischen, gesellschaftlichen,
 naturwissenschaftlichen, medizinischen und rechtlichen Fragen sowie
@@ -64,6 +66,7 @@ Aktivitäten und den Stand der gesellschaftlichen Debatte.
 
 
 ## § 3 Stellung
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000300000)
 
 Der Deutsche Ethikrat ist in seiner Tätigkeit unabhängig und nur an
 den durch dieses Gesetz begründeten Auftrag gebunden. Die Mitglieder
@@ -71,6 +74,7 @@ des Deutschen Ethikrats üben ihr Amt persönlich und unabhängig aus.
 
 
 ## § 4 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000400000)
 
 (1) Der Deutsche Ethikrat besteht aus 26 Mitgliedern, die
 naturwissenschaftliche, medizinische, theologische, philosophische,
@@ -90,6 +94,7 @@ Bundesregierung oder einer Landesregierung angehören.
 
 
 ## § 5 Berufung und Amtszeit der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000500000)
 
 (1) Der Präsident des Deutschen Bundestags beruft die Mitglieder des
 Deutschen Ethikrats je zur Hälfte auf Vorschlag des Deutschen
@@ -108,6 +113,7 @@ Mitglied unterbreitet hatte.
 
 
 ## § 6 Arbeitsweise
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000600000)
 
 (1) Der Deutsche Ethikrat wählt in geheimer Wahl aus seiner Mitte
 Vorsitz und Stellvertretung für die Dauer von vier Jahren. Eine
@@ -120,6 +126,7 @@ durch dritte Personen erstellen lassen.
 
 
 ## § 7 Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000700000)
 
 (1) Die Beratungen des Deutschen Ethikrats sind öffentlich; er kann
 auch nicht öffentlich beraten und die Ergebnisse nicht öffentlicher
@@ -134,6 +141,7 @@ oder dem Bericht zum Ausdruck bringen.
 
 
 ## § 8 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000800000)
 
 Der Deutsche Ethikrat wird bei der Durchführung seiner Aufgaben von
 einer Geschäftsstelle unterstützt. Die Geschäftsstelle wird vom
@@ -142,6 +150,7 @@ fachlich der oder dem Vorsitzenden des Deutschen Ethikrats.
 
 
 ## § 9 Pflicht zur Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE000900000)
 
 Die Mitglieder des Deutschen Ethikrats und die Angehörigen der
 Geschäftsstelle sind zur Verschwiegenheit über die nicht öffentlichen
@@ -152,6 +161,7 @@ gegeben und als vertraulich bezeichnet werden.
 
 
 ## § 10 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE001000000)
 
 (1) Die Mitglieder des Deutschen Ethikrats erhalten eine pauschale
 Aufwandsentschädigung sowie Ersatz ihrer Reisekosten nach dem
@@ -163,6 +173,7 @@ trägt der Bund.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ethrg/BJNR138500007.html#BJNR138500007BJNE001100000)
 
 Dieses Gesetz tritt am 1. August 2007 in Kraft.
 

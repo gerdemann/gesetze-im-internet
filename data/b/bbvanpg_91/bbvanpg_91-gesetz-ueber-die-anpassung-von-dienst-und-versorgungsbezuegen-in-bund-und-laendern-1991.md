@@ -21,19 +21,23 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE000500314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNG000100314)
 
 
 
 ## (XXXX) §§ 1 bis 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE000601310)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001101116)
 
 (1) Für die am 31. Dezember 1989 vorhandenen Versorgungsempfänger
 werden die der Berechnung der Versorgungsbezüge zugrunde liegenden
@@ -60,47 +64,57 @@ Soldatenversorgungsgesetzes.
 
 
 ## Art 2 - Sonstige Änderungen des Besoldungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNG000200314)
 
 
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001200314)
 
 -
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001301310)
 
 -
 
 
 ## Art 3 bis 9 - 
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNG000300314)
 
 
 
 ## Art 10 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNG000400314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001400314)
 
 -
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001501310)
 
 (weggefallen)
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001602310)
 
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001700314)
 
 -
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001801116)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. März 1991 in Kraft.
 
@@ -110,12 +124,14 @@ Soldatenversorgungsgesetzes.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE001900314)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.
 
 
 ## Anlagen 1 bis 3i, 4 und 5
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg_91/BJNR002669992.html#BJNR002669992BJNE002000314)
 
 -
 

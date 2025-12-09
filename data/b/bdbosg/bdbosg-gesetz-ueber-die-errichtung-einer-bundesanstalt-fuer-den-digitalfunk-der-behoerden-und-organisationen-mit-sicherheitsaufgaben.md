@@ -22,12 +22,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Errichtung, Zweck, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000203116)
 
 (1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und
 Heimat wird eine bundesunmittelbare rechtsfähige Anstalt des
@@ -45,6 +47,7 @@ Absatz 2 Satz 1 und Absatz 3 Satz 1.
 
 
 ## § 2 Aufgaben; Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000306116)
 
 (1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden
 und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS)
@@ -93,6 +96,7 @@ BOS treffen.
 
 
 ## § 2a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002503116)
 
 (1) Verkehrsdaten im Sinne dieses Gesetzes sind Daten, die bei der
 Erbringung eines Telekommunikationsdienstes im Digitalfunk BOS im
@@ -146,6 +150,7 @@ Dienstleistungen.
 
 
 ## § 3 Organe
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000400000)
 
 (1) Organe der Bundesanstalt sind die Präsidentin oder der Präsident
 und der Verwaltungsrat.
@@ -155,6 +160,7 @@ sie nicht durch dieses Gesetz geregelt sind.
 
 
 ## § 4 Präsidentin oder Präsident
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000501116)
 
 (1) Die Präsidentin oder der Präsident führt die Geschäfte der
 Bundesanstalt in eigener Verantwortung nach Maßgabe dieses Gesetzes
@@ -196,6 +202,7 @@ Bundesbeamtengesetzes) entsteht.
 
 
 ## § 5 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000604116)
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für
 Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht
@@ -243,6 +250,7 @@ Hierfür gelten die Absätze 4 und 5 entsprechend.
 
 
 ## § 6 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000701116)
 
 (1) Die Bundesanstalt gibt sich eine Satzung. Die Satzung wird durch
 den Verwaltungsrat erlassen. Sie bedarf der Genehmigung des
@@ -272,6 +280,7 @@ anzuwenden.
 
 
 ## § 7 Verwaltungsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000800000)
 
 Die Beteiligung der Länder am Digitalfunk BOS wird in einem
 Verwaltungsabkommen zwischen Bund und Ländern geregelt. Hierbei sollen
@@ -292,12 +301,14 @@ insbesondere Bestimmungen getroffen werden über
 
 
 ## § 8 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE000901116)
 
 Die Bundesanstalt untersteht der Aufsicht des Bundesministeriums des
 Innern, für Bau und Heimat.
 
 
 ## § 9 Zweckvermögen, Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001002116)
 
 (1) Zur Wahrnehmung für die ihr nach § 2 übertragenen Aufgaben bildet
 die Bundesanstalt ein Zweckvermögen. Die Bundesanstalt deckt ihren
@@ -314,6 +325,7 @@ das Verwaltungsabkommen nach § 7.
 
 
 ## § 10 Wirtschaftsplan, mittelfristige Planung
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001103116)
 
 (1) Die Präsidentin oder der Präsident stellt bis zum 31. Oktober
 eines jeden Jahres einen Wirtschaftsplan für das folgende
@@ -352,6 +364,7 @@ Bundesministerium der Finanzen.
 
 
 ## § 11 Buchführung, Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001203116)
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen
 Buchführung.
@@ -375,6 +388,7 @@ Bundeshaushaltsordnung ist anzuwenden.
 
 
 ## § 12 Rechnungsprüfung, Anwendung des Haushaltsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001301116)
 
 (1) Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 Abs. 1
 der Bundeshaushaltsordnung.
@@ -397,6 +411,7 @@ Deutschen Bundestags zuzulassen.
 
 
 ## § 13 Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001403116)
 
 (1) Die Bundesanstalt besitzt Dienstherrnfähigkeit nach § 2 des
 Bundesbeamtengesetzes.
@@ -413,6 +428,7 @@ Ministerialblatt bekannt zu machen.
 
 
 ## § 14 Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001500000)
 
 Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der
 Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und
@@ -421,6 +437,7 @@ Bestimmungen anzuwenden. § 13 Abs. 2 findet entsprechende Anwendung.
 
 
 ## § 15 Abwehr netzspezifischer Gefahren, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001600000)
 
 (1) Soweit es der Schutz der Funktionsfähigkeit und des laufenden
 Betriebs des Digitalfunk BOS dringend erfordert, ist die Präsidentin
@@ -476,6 +493,7 @@ eingeschränkt.
 
 
 ## § 15a Zertifizierung von Endgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002201116)
 
 (1) Im Digitalfunk BOS werden nur solche Endgeräte verwendet, die von
 der Bundesanstalt als hierfür geeignet zertifiziert worden sind. Die
@@ -571,6 +589,7 @@ weitere Nutzung der Endgeräte zu unterbinden.
 
 
 ## § 15b Erlass von Rechtsverordnungen; Widerspruchsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002305116)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat erlässt durch
 Rechtsverordnung Bestimmungen über die Einzelheiten des
@@ -645,6 +664,7 @@ Widerspruchsstelle nach billigem Ermessen.
 
 
 ## § 15c Testplattform
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002403301)
 
 (1) Zur Erfüllung ihrer Aufgaben nach § 2 kann die Bundesanstalt eine
 Testplattform unterhalten.
@@ -657,6 +677,7 @@ Satzung wird im Bundesanzeiger veröffentlicht.
 
 
 ## § 16 Internationale Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001701116)
 
 Für den Abschluss von Verwaltungsabkommen mit ausländischen Staaten
 über die Mitnutzung des Digitalfunk BOS ist das Bundesministerium des
@@ -668,6 +689,7 @@ ist.
 
 
 ## § 17 Abgabenfreiheit, Dienstsiegel, Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001800000)
 
 (1) Die Bundesanstalt führt als Dienstsiegel das kleine Bundessiegel
 mit der Umschrift "Bundesanstalt für den Digitalfunk der BOS".
@@ -688,6 +710,7 @@ nicht zulässig.
 
 
 ## § 18 Anwendbarkeit des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE001902116)
 
 Für die Verarbeitung personenbezogener Daten durch die Bundesanstalt
 gelten die Teile 1 und 2 des Bundesdatenschutzgesetzes, soweit die §§
@@ -695,6 +718,7 @@ gelten die Teile 1 und 2 des Bundesdatenschutzgesetzes, soweit die §§
 
 
 ## § 19 Verarbeitung von Verkehrsdaten durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002600116)
 
 (1) Die Bundesanstalt darf Verkehrsdaten verarbeiten, soweit dies zum
 Betreiben des Digitalfunk BOS und zur Sicherstellung der
@@ -757,6 +781,7 @@ unverzüglich zu löschen oder zu anonymisieren.
 
 
 ## § 20 Übermittlung von Verkehrsdaten an die Zuständigen Stellen für den Betrieb des Digitalfunk BOS
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002101116)
 
 (1) Verkehrsdaten dürfen von der Bundesanstalt an die Zuständigen
 Stellen für den Betrieb des Digitalfunk BOS übermittelt und von diesen
@@ -793,6 +818,7 @@ deren Erfüllung sie ihnen übermittelt werden.
 
 
 ## § 21 Übermittlung von Verkehrsdaten an Strafverfolgungs- und Polizeibehörden
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002700116)
 
 Die Bundesanstalt übermittelt Gerichten und Strafverfolgungsbehörden
 zu Zwecken der Strafverfolgung sowie den Polizeibehörden des Bundes
@@ -806,6 +832,7 @@ nachzuweisen.
 
 
 ## § 22 Weitere Vorschriften zur Übermittlung von Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002800116)
 
 (1) Sind mit Verkehrsdaten, die übermittelt werden dürfen, weitere
 Verkehrsdaten von Nutzern oder Dritten so verbunden, dass eine
@@ -817,6 +844,7 @@ Daten durch den Empfänger ist unzulässig.
 
 
 ## § 23 Dateisystem zur Verwaltung der Standorte des Digitalfunk BOS
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE002900116)
 
 (1) Die Bundesanstalt führt zur Erfüllung ihrer Aufgaben ein
 Dateisystem zur Verwaltung der Standorte des Digitalfunk BOS. In
@@ -856,6 +884,7 @@ Protokollierung folgt, zu löschen.
 
 
 ## § 24 Pflicht zur Abgabe eines Angebots für die Bereitstellung von Telekommunikationsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE003101116)
 
 (1) Unternehmen, die öffentliche Telekommunikationsleistungen anbieten
 (Telekommunikationsunternehmen), haben der Bundesanstalt auf deren
@@ -948,6 +977,7 @@ gemäß Absatz 1 abzugeben, ist der Verwaltungsrechtsweg gegeben.
 
 
 ## § 25 Einschränkung eines Grundrechts
+[Direktlink](https://www.gesetze-im-internet.de/bdbosg/BJNR203900006.html#BJNR203900006BJNE003001125)
 
 Durch die §§ 19 bis 22 wird das Grundrecht des Fernmeldegeheimnisses
 (Artikel 10 des Grundgesetzes) eingeschränkt.

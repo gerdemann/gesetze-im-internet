@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000100000)
 
 Auf Grund des § 58 des Berufsbildungsgesetzes in der Fassung der
 Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit § 1
@@ -30,9 +31,11 @@ Berufsbildung:
 
 
 ## Abschnitt 1 - Umschulungsabschluss
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNG000100000)
 
 
 ### § 1 Umschulungsabschluss; Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000300000)
 
 (1) Durch den Erwerb des Umschulungsabschlusses nach dieser Verordnung
 wird die auf die Ausübung einer anderen beruflichen Tätigkeit
@@ -46,9 +49,11 @@ oder „Geprüfte Qualitätsfachfrau Fertigungsprüftechnik“.
 
 
 ## Abschnitt 2 - Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNG000200000)
 
 
 ### § 2 Ziel der Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000400000)
 
 In der Umschulung werden die Fertigkeiten, Kenntnisse und Fähigkeiten
 vermittelt, in Unternehmen unterschiedlicher Größe, auch unter Einsatz
@@ -104,11 +109,13 @@ Aspekte der Nachhaltigkeit, folgende Tätigkeiten:
 
 
 ### § 3 Dauer der Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000500000)
 
 Die Gesamtdauer der Umschulung beträgt 24 Monate.
 
 
 ### § 4 Gliederung der Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000600000)
 
 Die Umschulung gliedert sich in
 
@@ -122,6 +129,7 @@ Die Umschulung gliedert sich in
 
 
 ### § 5 Umschulungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000700000)
 
 (1) Der Umschulungslehrgang umfasst mindestens 2 100 Zeitstunden.
 
@@ -158,6 +166,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten zu vermitteln.
 
 
 ### § 6 Betriebliche Umschulungsphase
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000800000)
 
 (1) Die betriebliche Umschulungsphase besteht aus mindestens drei
 Praxismonaten.
@@ -221,6 +230,7 @@ die betriebliche Kommunikation zu vermitteln.
 
 
 ### § 7 Teilnahmenachweise
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE000900000)
 
 Über die regelmäßige Teilnahme am Umschulungslehrgang und an der
 betrieblichen Umschulungsphase ist jeweils ein schriftlicher Nachweis
@@ -228,9 +238,11 @@ durch die teilnehmende Person zu führen.
 
 
 ## Abschnitt 3 - Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNG000300000)
 
 
 ### § 8 Ziel der Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001000000)
 
 Durch die Umschulungsprüfung ist festzustellen, ob die zu prüfende
 Person die in § 2 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -238,12 +250,14 @@ erworben hat.
 
 
 ### § 9 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001100000)
 
 Die Umschulungsprüfung wird von der nach dem Berufsbildungsgesetz
 zuständigen Stelle durchgeführt.
 
 
 ### § 10 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001200000)
 
 Zur Umschulungsprüfung ist zuzulassen, wer die Teilnahme an der
 Umschulung durch Vorlage der Nachweise nach § 7 belegt und
@@ -264,6 +278,7 @@ Umschulung durch Vorlage der Nachweise nach § 7 belegt und
 
 
 ### § 11 Dauer des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001300000)
 
 (1) Das Prüfungsverfahren ist innerhalb von zwei Jahren, beginnend mit
 dem ersten Tag der ersten Prüfungsleistung, abzuschließen. Bei
@@ -276,6 +291,7 @@ vertreten ist.
 
 
 ### § 12 Gliederung der Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001400000)
 
 Die Umschulungsprüfung gliedert sich in folgende Prüfungsteile:
 
@@ -289,6 +305,7 @@ Die Umschulungsprüfung gliedert sich in folgende Prüfungsteile:
 
 
 ### § 13 Prüfungsbereiche der Prüfungsteile
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001500000)
 
 (1) Der Prüfungsteil „Planung, Auswertung und Dokumentation in der
 Qualitätstechnik“ umfasst folgende Prüfungsbereiche:
@@ -323,6 +340,7 @@ Prüfungsbereiche:
 
 
 ### § 14 Prüfungsbereich „Werkzeuge und Methoden des Qualitätsmanagements“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001600000)
 
 Im Prüfungsbereich „Werkzeuge und Methoden des Qualitätsmanagements“
 hat die zu prüfende Person nachzuweisen, dass sie in der Lage ist,
@@ -392,6 +410,7 @@ Qualifikationsinhalten geprüft:
 
 
 ### § 15 Prüfungsbereich „Prüf- und Messtechnik“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001700000)
 
 Im Prüfungsbereich „Prüf- und Messtechnik“ hat die zu prüfende Person
 nachzuweisen, dass sie in der Lage ist, Prüfpläne zu entwickeln,
@@ -464,6 +483,7 @@ geprüft:
 
 
 ### § 16 Prüfungsbereich „Interpretieren technischer Dokumente“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001800000)
 
 Im Prüfungsbereich „Interpretieren technischer Dokumente“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, technische
@@ -489,6 +509,7 @@ diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ### § 17 Prüfungsbereich „Planen von Prüfprozessen“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE001900000)
 
 Im Prüfungsbereich „Planen von Prüfprozessen“ hat die zu prüfende
 Person nachzuweisen, dass sie in der Lage ist, Prüfprozesse zu planen
@@ -514,6 +535,7 @@ Qualifikationsinhalten geprüft:
 
 
 ### § 18 Prüfungsbereich „Durchführen von Prüfprozessen“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002000000)
 
 Im Prüfungsbereich „Durchführen von Prüfprozessen“ hat die zu prüfende
 Person nachzuweisen, dass sie in der Lage ist, Prüfprozesse zur
@@ -543,6 +565,7 @@ folgenden Qualifikationsinhalten geprüft:
 
 
 ### § 19 Prüfungsbereich „Dokumentieren von Prüfergebnissen“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002100000)
 
 Im Prüfungsbereich „Dokumentieren von Prüfergebnissen“ hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist, Ergebnisse von
@@ -568,6 +591,7 @@ Qualifikationsinhalten geprüft:
 
 
 ### § 20 Prüfungsbereich „Auswerten, Bewerten und Kommunizieren von Prüfergebnissen“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002200000)
 
 Im Prüfungsbereich „Auswerten, Bewerten und Kommunizieren von
 Prüfergebnissen“ hat die zu prüfende Person nachzuweisen, dass sie in
@@ -595,6 +619,7 @@ Qualifikationsinhalten geprüft:
 
 
 ### § 21 Form der Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002300000)
 
 (1) Der Prüfungsteil „Planung, Auswertung und Dokumentation in der
 Qualitätstechnik“ nach § 12 Nummer 1 umfasst eine schriftliche Prüfung
@@ -605,6 +630,7 @@ umfasst eine praktische Prüfung nach § 24.
 
 
 ### § 22 Prüfung im Prüfungsteil „Planung, Auswertung und Dokumentation in der Qualitätstechnik“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002400000)
 
 (1) Die Prüfung im Prüfungsteil „Planung, Auswertung und Dokumentation
 in der Qualitätstechnik“ besteht aus zwei Prüfungsleistungen in Form
@@ -628,6 +654,7 @@ mündliche Ergänzungsprüfung ausgeschlossen.
 
 
 ### § 23 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002500000)
 
 (1) Die Aufgabe in der mündlichen Ergänzungsprüfung muss aus dem
 Prüfungsbereich stammen, in dem die mit weniger als 50 Punkten
@@ -644,6 +671,7 @@ Prüfung doppelt gewichtet.
 
 
 ### § 24 Prüfung im Prüfungsteil „Fertigungsprüftechnik“
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002600000)
 
 (1) Die Prüfung im Prüfungsteil „Fertigungsprüftechnik“ besteht aus
 vier Prüfungsleistungen in Form von vier Arbeitsaufgaben, in deren
@@ -678,6 +706,7 @@ insgesamt höchstens 15 Minuten dauern.
 
 
 ### § 25 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002700000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
 bewerten.
@@ -696,6 +725,7 @@ arithmetische Mittel berechnet.
 
 
 ### § 26 Bestehen der Umschulungsprüfung; Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002800000)
 
 (1) Die Umschulungsprüfung ist bestanden, wenn ohne Rundung jeweils
 mindestens 50 Punkte erreicht worden sind:
@@ -732,6 +762,7 @@ ist die Gesamtnote.
 
 
 ### § 27 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE002900000)
 
 Wird die zu prüfende Person nach § 62 Absatz 4 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -744,6 +775,7 @@ Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ### § 28 Wiederholung der Umschulungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE003000000)
 
 (1) Prüfungsteile, die bei der ersten Prüfung mit weniger als 50
 Punkten bewertet wurden, können zweimal wiederholt werden.
@@ -758,15 +790,18 @@ eine Befreiung von Prüfungsleistungen nicht zulässig.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNG000400000)
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE003100000)
 
 Diese Verordnung tritt sechs Monate nach der Verkündung in Kraft.
 
 (zu § 5)
 
 ### Anlage 1 Umschulungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE003200000)
 
 (Fundstelle: BGBl. 2024 I Nr. 24, S. 10 - 11)
 
@@ -1037,6 +1072,7 @@ Diese Verordnung tritt sechs Monate nach der Verkündung in Kraft.
 (zu den §§ 25 und 26)
 
 ### Anlage 2 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/qfuv/BJNR0180A0024.html#BJNR0180A0024BJNE003300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 24, S. 12 - 13)
 

@@ -25,6 +25,7 @@ Stand: Ersetzt V 7110-6-67 v. 11.12.1997 I 3182 (ZTechAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
 2 Satz 1 Nummer 2 der Handwerksordnung in der Fassung der
@@ -41,9 +42,11 @@ für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000300000)
 
 Der Ausbildungsberuf mit der Ausbildungsberufsbezeichnung des
 Zahntechnikers und der Zahntechnikerin wird nach § 25 der
@@ -52,11 +55,13 @@ Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000500000)
 
 Im Sinne dieser Verordnung ist
 
@@ -141,6 +146,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -161,6 +167,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -252,6 +259,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -259,9 +267,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNG000200000)
 
 
 ### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE000900000)
 
 (1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
 
@@ -273,6 +283,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 8 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001000000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -289,6 +300,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001100000)
 
 Teil 1 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -304,6 +316,7 @@ statt:
 
 
 ### § 10 Prüfungsbereich Herstellen von temporären partiellen Prothesen, Schienen und analog modellierten Kronen
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001200000)
 
 (1) Im Prüfungsbereich Herstellen von temporären partiellen Prothesen,
 Schienen und analog modellierten Kronen hat der Prüfling nachzuweisen,
@@ -340,6 +353,7 @@ Prozent zu gewichten.
 
 
 ### § 11 Prüfungsbereich Zahntechnische Werkstücke
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001300000)
 
 (1) Im Prüfungsbereich Zahntechnische Werkstücke hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -381,6 +395,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ### § 12 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001400000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -402,6 +417,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 13 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001500000)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -419,6 +435,7 @@ statt:
 
 
 ### § 14 Prüfungsbereich Zahntechnische Aufträge durchführen
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001600000)
 
 (1) Im Prüfungsbereich Zahntechnische Aufträge durchführen hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -467,6 +484,7 @@ Prozent zu gewichten.
 
 
 ### § 15 Prüfungsbereich Fertigungsplanung, -technik und -kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001700000)
 
 (1) Im Prüfungsbereich Fertigungsplanung, -technik und -kontrolle hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -506,6 +524,7 @@ der Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -519,6 +538,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -588,6 +608,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 18 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE002000000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -625,9 +646,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNG000300000)
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Zahntechniker/zur
@@ -636,6 +659,7 @@ Zahntechnikerin vom 11. Dezember 1997 (BGBl. I S. 3182) außer Kraft.
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zahntechniker und zur Zahntechnikerin
+[Direktlink](https://www.gesetze-im-internet.de/zahntechausbv/BJNR058900022.html#BJNR058900022BJNE002200000)
 
 (Fundstelle: BGBl. I 2022, 594 - 600)
 

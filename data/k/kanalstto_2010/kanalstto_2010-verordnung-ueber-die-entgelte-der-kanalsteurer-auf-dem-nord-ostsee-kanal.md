@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kanalstto_2010/BJNR516500010.html#BJNR516500010BJNE000100000)
 
 Auf Grund des § 14 Absatz 2 in Verbindung mit Absatz 3 Satz 1 des
 Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli
@@ -30,6 +31,7 @@ nach Anhörung der Küstenländer:
 
 
 ## § 1 Entgelte und Entgeltberechnung
+[Direktlink](https://www.gesetze-im-internet.de/kanalstto_2010/BJNR516500010.html#BJNR516500010BJNE000203360)
 
 (1) Für die Leistungen der Kanalsteurer auf dem Nord-Ostsee-Kanal sind
 die in der Anlage aufgeführten Entgelte zu entrichten. Sie gelten
@@ -128,6 +130,7 @@ Bruttoraumzahl zugrunde gelegt:
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kanalstto_2010/BJNR516500010.html#BJNR516500010BJNE000300000)
 
 Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig
 tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
@@ -137,6 +140,7 @@ tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 (zu § 1 Absatz 1)
 
 ## Anlage Verzeichnis der Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/kanalstto_2010/BJNR516500010.html#BJNR516500010BJNE000409119)
 
 (Fundstelle: BGBl. 2024 I Nr. 431, S. 1 – 4;
 bzgl. einzelner Änderungen vgl. Fußnote)

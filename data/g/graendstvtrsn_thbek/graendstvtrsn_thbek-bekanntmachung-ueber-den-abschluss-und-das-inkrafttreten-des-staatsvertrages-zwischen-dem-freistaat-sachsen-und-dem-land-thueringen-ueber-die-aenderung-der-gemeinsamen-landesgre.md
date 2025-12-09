@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrsn_thbek/BJNR021500993.html#BJNR021500993BJNE000100333)
 
 Zwischen dem Freistaat Sachsen und dem Land Thüringen wurde am 11.
 Februar 1992 ein Staatsvertrag über eine Änderung der gemeinsamen

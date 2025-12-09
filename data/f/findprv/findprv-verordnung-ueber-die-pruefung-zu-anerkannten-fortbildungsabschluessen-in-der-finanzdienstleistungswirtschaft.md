@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -31,9 +32,11 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## Teil 1 - Fortbildungsabschlüsse in der Finanzdienstleistungswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNG000100000)
 
 
 ### § 1 Fortbildungsabschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000200000)
 
 Diese Verordnung regelt die Prüfungen zu den anerkannten
 Fortbildungsabschlüssen
@@ -50,9 +53,11 @@ Fortbildungsabschlüssen
 
 
 ## Teil 2 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachberater für Finanzdienstleistungen und Geprüfte Fachberaterin für Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNG000200000)
 
 
 ### § 2 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000300000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Fachberater für Finanzdienstleistungen und zur Geprüften
@@ -107,6 +112,7 @@ Finanzdienstleistungen“.
 
 
 ### § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000400000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -143,6 +149,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ### § 4 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000501128)
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -193,6 +200,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ### § 5 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000600000)
 
 (1) Im Handlungsbereich „Organisation und Steuerung der eigenen
 Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden,
@@ -307,6 +315,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ### § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -318,6 +327,7 @@ Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ### § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000802128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -332,9 +342,11 @@ berechnet.
 
 
 ## Teil 3 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Finanzberatung und Geprüfte Fachwirtin für Finanzberatung
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNG000300000)
 
 
 ### § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE002400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 schriftlichen Prüfungsleistungen und in der mündlichen Teilprüfung
@@ -357,6 +369,7 @@ Gesamtnote.
 
 
 ### § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE002500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -383,6 +396,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ### § 10 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE000901128)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Fachwirt für Finanzberatung und zur Geprüften Fachwirtin für
@@ -474,6 +488,7 @@ Fortbildungsabschluss „Geprüfter Fachwirt für Finanzberatung“ oder
 
 
 ### § 11 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001001128)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -510,6 +525,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ### § 12 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001101128)
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -620,6 +636,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ### § 13 Inhalte im Prüfungsteil A (Privatkunden)
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001201128)
 
 (1) Im Handlungsbereich „Organisation und Steuerung der eigenen
 Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden,
@@ -734,6 +751,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ### § 14 Inhalte im Prüfungsteil B (Geschäftskunden)
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001301128)
 
 (1) Im Handlungsbereich „Unternehmens- und Personalführung“ sollen die
 Kompetenzen nachgewiesen werden, Unternehmensstrategien auszugestalten
@@ -872,6 +890,7 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 ### § 15 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001401128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -884,9 +903,11 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## Teil 4 - Gemeinsame Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNG000400000)
 
 
 ### § 16 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001502128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -907,6 +928,7 @@ Mittel berechnet.
 
 
 ### § 17 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE002600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 schriftlichen und mündlichen Teilprüfungen mindestens 50 Punkte
@@ -927,6 +949,7 @@ Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
 
 ### § 18 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE002700128)
 
 (1) Wer die Prüfung nach § 17 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
@@ -953,6 +976,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ### § 19 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001601128)
 
 Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil
 der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-
@@ -960,6 +984,7 @@ Eignungsverordnung befreit.
 
 
 ### § 20 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001701128)
 
 (1) Jede nicht bestandene Prüfung und jeder nicht bestandene
 Prüfungsteil kann zweimal wiederholt werden.
@@ -975,6 +1000,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ### § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001801128)
 
 (1) Begonnene Prüfungsverfahren zum Fachberater für
 Finanzdienstleistungen (IHK) und zur Fachberaterin für
@@ -996,12 +1022,14 @@ Anwendung.
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE001901128)
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
 (zu den §§ 7, 8, 16 und 17)
 
 ### Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE002800128)
 
 (Fundstelle: BGBl. I 2019, 2357 – 2358)
 
@@ -1303,6 +1331,7 @@ Diese Verordnung tritt am 1. August 2012 in Kraft.
 (zu § 9)
 
 ### Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE002900128)
 
 (Fundstelle: BGBl. I 2019, 2358)
 
@@ -1361,6 +1390,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 (zu § 18)
 
 ### Anlage 3 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/findprv/BJNR027400012.html#BJNR027400012BJNE003000128)
 
 (Fundstelle: BGBl. I 2019, 2359)
 

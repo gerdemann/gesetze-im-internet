@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000100000)
 
 Im Sinne dieses Gesetzes bezeichnet
 
@@ -66,12 +67,14 @@ Im Sinne dieses Gesetzes bezeichnet
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000200000)
 
 Dieses Gesetz gilt nur für Fahrzeuge, die ihren gewöhnlichen Standort
 nicht im Inland haben.
 
 
 ## § 3 Verbot des Gebrauchs nicht versicherter Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000300000)
 
 (1) Ein Fahrzeug im Sinne des Artikels 1 Nummer 1 der Richtlinie
 2009/103/EG darf im Inland nur gebraucht werden, wenn die durch den
@@ -155,6 +158,7 @@ Gebrauch zu gestatten.
 
 
 ## § 4 Ausnahmen vom Verbot des Gebrauchs nicht versicherter Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000400000)
 
 § 3 ist nicht anzuwenden
 
@@ -180,6 +184,7 @@ Gebrauch zu gestatten.
 
 
 ## § 5 Grenzversicherung
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000500000)
 
 (1) Eine Grenzversicherung muss den für die Versicherung von
 Fahrzeugen mit gewöhnlichem oder regelmäßigem Standort im Inland
@@ -194,6 +199,7 @@ entsprechend anzuwenden.
 
 
 ## § 6 Vermerk der Versicherungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000600000)
 
 Bei einer Grenzversicherung nach § 5 kann der Versicherer die Dauer
 der Versicherung auf der Versicherungsbestätigung vermerken, wenn das
@@ -201,6 +207,7 @@ Versicherungsverhältnis nicht auf unbestimmte Zeit eingegangen ist.
 
 
 ## § 7 Fortbestehen der Leistungspflicht gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000700000)
 
 (1) Bei einer Grenzversicherung nach § 5 kann ein Umstand, der das
 Nichtbestehen oder die Beendigung des Versicherungsverhältnisses zur
@@ -224,6 +231,7 @@ Versicherungsvertragsgesetzes entsprechend anzuwenden.
 
 
 ## § 8 Ausländische Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000800000)
 
 Der Versicherer einer in § 3 Absatz 1 Nummer 2 und 3 sowie § 3 Absatz
 2 Nummer 2 und 3 genannten ausländischen Versicherung hat bei
@@ -233,6 +241,7 @@ Grenzversicherung bestimmten Mindestumfang zu gewähren.
 
 
 ## § 9 Gewährleistung der Schadenregulierung
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE000900000)
 
 (1) Die Schadenregulierung durch die nationalen Versicherungsbüros
 aller Staaten des Europäischen Wirtschaftsraums ist im Sinne des § 3
@@ -274,6 +283,7 @@ Fahrzeuge garantiert ist
 
 
 ## § 10 Leistungspflicht des Deutschen Büros Grüne Karte
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001000000)
 
 (1) Liegen die Voraussetzungen des § 9 Absatz 1 oder 2 vor, so können
 Dritte, die durch den Gebrauch eines Fahrzeugs im Inland geschädigt
@@ -327,6 +337,7 @@ hat.
 
 
 ## § 11 Fortbestehen der Leistungspflicht des Deutschen Büros Grüne Karte
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001100000)
 
 (1) Das Deutsche Büro Grüne Karte kann einem Dritten einen Umstand,
 der das Nichtbestehen oder die Beendigung der nach § 9 Absatz 1 Nummer
@@ -350,6 +361,7 @@ Versicherungsvertragsgesetzes entsprechend anzuwenden.
 
 
 ## § 12 Mitführen und Aushändigen des Versicherungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001200000)
 
 (1) Der Fahrer hat bei Gebrauch des Fahrzeugs im Inland einen Nachweis
 über den hierbei nach § 3 Absatz 1 oder Absatz 2 erforderlichen
@@ -386,6 +398,7 @@ Versicherungsnachweises ausgenommen sind
 
 
 ## § 13 Anforderungen an den Versicherungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001300000)
 
 Soweit nicht durch Rechtsverordnung nach § 16 Absatz 1 Nummer 1 etwas
 anderes bestimmt ist, ist der Versicherungsnachweis
@@ -406,6 +419,7 @@ anderes bestimmt ist, ist der Versicherungsnachweis
 
 
 ## § 14 Fehlender Versicherungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001400000)
 
 (1) Wenn der Fahrer des Fahrzeugs den Versicherungsnachweis entgegen §
 12 Absatz 1 Satz 1 nicht mitführt oder entgegen § 12 Absatz 1 Satz 2
@@ -429,6 +443,7 @@ sichergestellt werden, bis der Versicherungsnachweis vorgelegt wird.
 
 
 ## § 15 Ausnahmen vom Erfordernis zum Mitführen und Aushändigen des Versicherungsnachweises; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001500000)
 
 (1) Das Bundesministerium für Digitales und Verkehr kann durch
 Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der
@@ -463,6 +478,7 @@ gewährleistet ist.
 
 
 ## § 16 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001600000)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates weitere
@@ -508,6 +524,7 @@ genehmigen
 
 
 ## § 17 Ausnahmegenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001700000)
 
 Zur Pflege der Beziehungen mit dem Ausland kann das Bundesministerium
 für Digitales und Verkehr für Fahrzeuge Einzelausnahmen von diesem
@@ -517,6 +534,7 @@ Gebrauch dieses Fahrzeug geschädigt werden, gewährleistet bleibt.
 
 
 ## § 18 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001800000)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -550,6 +568,7 @@ der Entscheidung gehören.
 
 
 ## § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE001900000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -566,6 +585,7 @@ der Entscheidung gehören.
 
 
 ## § 20 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/auslpflvg_2024/BJNR0770B0024.html#BJNR0770B0024BJNE002000000)
 
 (1) Auf vor dem 17. April 2024 eingetretene Versicherungsfälle sind
 die bis zu diesem Zeitpunkt geltenden Vorschriften weiterhin

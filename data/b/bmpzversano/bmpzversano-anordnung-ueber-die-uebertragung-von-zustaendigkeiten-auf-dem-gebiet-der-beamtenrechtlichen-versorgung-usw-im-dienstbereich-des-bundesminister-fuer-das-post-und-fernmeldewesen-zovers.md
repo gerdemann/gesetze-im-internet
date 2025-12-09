@@ -22,20 +22,24 @@ Geändert durch
 
 
 ## A und B
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano/BJNR523100958.html#BJNR523100958BJNG000100326)
 
 -
 
 
 ## C. - Sonstige Zuständigkeitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano/BJNR523100958.html#BJNR523100958BJNG000200326)
 
 
 
 ### (XXXX) I. und II. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano/BJNR523100958.html#BJNR523100958BJNE000300326)
 
 -
 
 
 ### III.
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano/BJNR523100958.html#BJNR523100958BJNE000400326)
 
 Gemäß § 60 Abs. 2 G 131 bestimme ich zum Dienstvorgesetzten, der an
 die Stelle des letzten vor dem 8. Mai 1945 zuständig gewesenen
@@ -57,6 +61,7 @@ b)  die im Postdienst wiederverwendet werden, die Präsidenten der OPD, LPD
 
 
 ### IV.
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano/BJNR523100958.html#BJNR523100958BJNE000500326)
 
 Die nach Abschnitt A Abs. I zuständige OPD bzw. die LPD Berlin wird je
 für ihren Geschäftsbereich ermächtigt,
@@ -77,6 +82,7 @@ c)  nach § 35 Abs. 1 Satz 2 G 131 die Dienstunfähigkeit eines Beamten zur
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmpzversano/BJNR523100958.html#BJNR523100958BJNE000600326)
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
 Innern und Bundesminister der Finanzen und tritt am Tag nach ihrer

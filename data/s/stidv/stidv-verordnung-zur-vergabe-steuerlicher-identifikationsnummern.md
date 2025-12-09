@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufbau der Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000101377)
 
 Die Identifikationsnummer nach § 139b der Abgabenordnung besteht aus
 zehn Ziffern und einer Prüfziffer als elfter Ziffer.
 
 
 ## § 2 Form und Verfahren der Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000205123)
 
 (1) Für die Datenübermittlungen der Meldebehörden an das
 Bundeszentralamt für Steuern nach § 139b Absatz 6 Satz 1, 3, Absatz 7
@@ -47,9 +49,11 @@ bekannt gemachten jeweils geltenden Fassung zu Grunde zu legen.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000302377)
 
 
 ## § 4 Löschungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000400000)
 
 Die beim Bundeszentralamt für Steuern nach § 139b Abs. 3 der
 Abgabenordnung gespeicherten Daten sind zu löschen, wenn sie zur
@@ -59,6 +63,7 @@ Kalenderjahres, in dem der Steuerpflichtige verstorben ist.
 
 
 ## § 5 Sicherheit und Funktionsfähigkeit des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000501301)
 
 Das Bundeszentralamt für Steuern hat die Sicherheit und
 Funktionsfähigkeit des Verfahrens zu gewährleisten. Anforderungen an
@@ -68,6 +73,7 @@ Sicherheit in der Informationstechnik festzulegen.
 
 
 ## § 6 Benachrichtigung des Betroffenen, Berichtigung unrichtiger Daten
+[Direktlink](https://www.gesetze-im-internet.de/stidv/BJNR272610006.html#BJNR272610006BJNE000602123)
 
 (1) Das Bundeszentralamt für Steuern unterrichtet den
 Steuerpflichtigen unverzüglich über die ihm zugeteilte

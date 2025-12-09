@@ -21,6 +21,7 @@ Neugefasst durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000202116)
 
 (1) Diese Verordnung gilt für die Errichtung und den Betrieb von
 Hochfrequenzanlagen, Niederfrequenzanlagen und Gleichstromanlagen nach
@@ -62,6 +63,7 @@ auf elektrisch oder elektronisch betriebene Implantate.
 
 
 ## § 2 Hochfrequenzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000302116)
 
 (1) Zum Schutz vor schädlichen Umwelteinwirkungen sind
 Hochfrequenzanlagen mit einer äquivalenten isotropen
@@ -103,6 +105,7 @@ Betracht.
 
 
 ## § 3 Niederfrequenzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000402116)
 
 (1) Zum Schutz vor schädlichen Umwelteinwirkungen sind
 Niederfrequenzanlagen, die vor dem 22. August 2013 errichtet worden
@@ -154,6 +157,7 @@ Belästigungen oder Schäden führen können.
 
 
 ## § 3a Gleichstromanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001601116)
 
 Zum Schutz vor schädlichen Umwelteinwirkungen sind Gleichstromanlagen
 so zu errichten und zu betreiben, dass in ihrem Einwirkungsbereich an
@@ -174,6 +178,7 @@ Dabei sind alle relevanten Immissionen zu berücksichtigen.
 
 
 ## § 4 Anforderungen zur Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000502116)
 
 (1) Zum Zweck der Vorsorge darf eine wesentliche Änderung von
 Niederfrequenzanlagen in der Nähe von Wohnungen, Krankenhäusern,
@@ -206,6 +211,7 @@ vollständiger Antrag zu diesem Zeitpunkt vorlag, bleiben unberührt.
 
 
 ## § 5 Ermittlung der Feldstärke- und Flussdichtewerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000602116)
 
 Messgeräte, Mess- und Berechnungsverfahren, die bei der Ermittlung der
 elektrischen und magnetischen Feldstärke und magnetischen Flussdichte
@@ -222,6 +228,7 @@ Grenzwerte durch Berechnungsverfahren festgestellt werden kann.
 
 
 ## § 6 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000701116)
 
 Weitergehende Anforderungen aufgrund anderer Rechtsvorschriften,
 insbesondere von Rechtsvorschriften zur elektromagnetischen
@@ -229,6 +236,7 @@ Verträglichkeit und des Telekommunikationsrechts, bleiben unberührt.
 
 
 ## § 7 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000802116)
 
 (1) Die zuständige Behörde ist berechtigt, die vom Betreiber einer
 ortsfesten Funkanlage, die privaten oder gewerblichen Zwecken dient
@@ -276,6 +284,7 @@ zuständigen Behörde auf Verlangen unverzüglich vorzulegen.
 
 
 ## § 7a Beteiligung der Kommunen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001701116)
 
 Die Kommune, in deren Gebiet die Hochfrequenzanlage errichtet werden
 soll, wird bei der Auswahl von Standorten für Hochfrequenzanlagen, die
@@ -286,6 +295,7 @@ berücksichtigen.
 
 
 ## § 8 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE000902116)
 
 (1) Die zuständige Behörde kann auf Antrag Ausnahmen von den
 Anforderungen der §§ 2, 3 und 3a zulassen, soweit unter
@@ -300,6 +310,7 @@ unverhältnismäßig sind.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001002116)
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nr. 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -321,6 +332,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001102116)
 
 (1) Niederfrequenzanlagen mit einer Frequenz von 16,7 Hertz, die vor
 dem 22. August 2013 errichtet worden sind, sind bis zum 22. August
@@ -339,6 +351,7 @@ innerhalb von vier Wochen nach Inbetriebnahme zu erfolgen.
 
 
 ## Anhang 1 (zu §§ 2, 3, 3a, 10)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001402116)
 
 (Fundstelle: BGBl I 2013, 3270)
 
@@ -469,6 +482,7 @@ innerhalb von vier Wochen nach Inbetriebnahme zu erfolgen.
 (zu §§ 2, 3)
 
 ## Anhang 2 Berücksichtigung von Immissionsbeiträgen anderer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001502116)
 
 (Fundstelle: BGBl I 2013, 3271)
 
@@ -530,6 +544,7 @@ Frequenzbereich von 100 kHz bis 300 GHz (quadratisch gemittelt über
 
 
 ## Anhang 3 (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_26/BJNR196600996.html#BJNR196600996BJNE001801116)
 
 (Fundstelle: BGBl I 2013, 3272)
 

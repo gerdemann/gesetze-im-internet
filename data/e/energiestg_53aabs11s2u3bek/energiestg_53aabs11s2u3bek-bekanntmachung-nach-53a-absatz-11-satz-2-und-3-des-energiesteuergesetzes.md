@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg_53aabs11s2u3bek/BJNR1690A0023.html#BJNR1690A0023BJNE000100000)
 
 Nach § 53a Absatz 11 Satz 2 und 3 des Energiesteuergesetzes vom 15.
 Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch
@@ -29,6 +30,7 @@ Dezember 2023 ausläuft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/energiestg_53aabs11s2u3bek/BJNR1690A0023.html#BJNR1690A0023BJNE000200000)
 
 Bundesministerium der Finanzen
 

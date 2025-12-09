@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/abgg10u11abschnabestbek/BJNR079100022.html#BJNR079100022BJNE000100000)
 
 Der Ältestenrat des Deutschen Bundestages hat in seiner Sitzung am 12.
 Mai 2022 nachfolgende Ausführungsbestimmungen zu den Vorschriften des
@@ -578,6 +579,7 @@ Zehnten und Elften Abschnitts des Abgeordnetengesetzes beschlossen:
 [^F822011_01_BJNR079100022BJNE000100000]: 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/abgg10u11abschnabestbek/BJNR079100022.html#BJNR079100022BJNE000200000)
 
 Die Präsidentin des Deutschen Bundestages
 

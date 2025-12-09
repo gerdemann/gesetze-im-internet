@@ -29,10 +29,12 @@ Mittelbare änderung durch
 
 
 ## I. - Verkehrsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308)
 
 
 
 ### § 1 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE000505305)
 
 (1) Kraftfahrzeuge und ihre Anhänger, die auf öffentlichen Straßen in
 Betrieb gesetzt werden sollen, müssen von der zuständigen Behörde
@@ -67,6 +69,7 @@ Treten des Fahrers, ermöglicht. Für Fahrzeuge im Sinne der Sätze 1 und
 
 
 ### § 1a Kraftfahrzeuge mit hoch- oder vollautomatisierter Fahrfunktion
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011500116)
 
 (1) Der Betrieb eines Kraftfahrzeugs mittels hoch- oder
 vollautomatisierter Fahrfunktion ist zulässig, wenn die Funktion
@@ -137,6 +140,7 @@ eigenhändig steuert.
 
 
 ### § 1b Rechte und Pflichten des Fahrzeugführers bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011600116)
 
 (1) Der Fahrzeugführer darf sich während der Fahrzeugführung mittels
 hoch- oder vollautomatisierter Fahrfunktionen gemäß § 1a vom
@@ -160,6 +164,7 @@ unverzüglich wieder zu übernehmen,
 
 
 ### § 1c Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011701123)
 
 Das Bundesministerium für Digitales und Verkehr wird die Anwendung der
 Regelungen in Artikel 1 des Gesetzes vom 16. Juni 2017 (BGBl. I S.
@@ -169,6 +174,7 @@ evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag
 
 
 ### § 1d Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013200123)
 
 (1) Ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne dieses
 Gesetzes ist ein Kraftfahrzeug, das
@@ -205,6 +211,7 @@ gewährleisten.
 
 
 ### § 1e Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion; Widerspruch und Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013300123)
 
 (1) Der Betrieb eines Kraftfahrzeugs mittels autonomer Fahrfunktion
 ist zulässig, wenn
@@ -357,6 +364,7 @@ keine aufschiebende Wirkung.
 
 
 ### § 1f Pflichten der Beteiligten beim Betrieb von Kraftfahrzeugen mit autonomer Fahrfunktion
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013400123)
 
 (1) Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion ist zur
 Erhaltung der Verkehrssicherheit und der Umweltverträglichkeit des
@@ -457,6 +465,7 @@ Fahrfunktion ist verpflichtet,
 
 
 ### § 1g Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013500123)
 
 (1) Der Halter eines Kraftfahrzeugs mit autonomer Fahrfunktion ist
 verpflichtet, folgende Daten beim Betrieb des Kraftfahrzeugs zu
@@ -643,6 +652,7 @@ die Dritten ist nur zu den in Satz 1 genannten Zwecken zulässig.
 
 
 ### § 1h Nachträgliche Aktivierung von automatisierten und autonomen Fahrfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013600123)
 
 (1) Ist in einem Kraftfahrzeug eine automatisierte oder autonome
 Fahrfunktion verbaut, die in internationalen, im Geltungsbereich
@@ -667,6 +677,7 @@ Anforderungen.
 
 
 ### § 1i Erprobung von automatisierten und autonomen Fahrfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013700123)
 
 (1) Kraftfahrzeuge, die zur Erprobung von Entwicklungsstufen für die
 Entwicklung automatisierter oder autonomer Fahrfunktionen dienen,
@@ -726,6 +737,7 @@ gemacht wird.
 
 
 ### § 1j Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013801123)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der
@@ -857,6 +869,7 @@ Bundesrates diese Ermächtigung auf das Kraftfahrt-Bundesamt zu
 
 
 ### § 1k Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013901123)
 
 (1) Für Kraftfahrzeuge mit autonomer Fahrfunktion gemäß § 1d Absatz 1,
 die für militärische, nachrichtendienstliche oder polizeiliche Zwecke,
@@ -894,6 +907,7 @@ beschränken.
 
 
 ### § 1l Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE014001123)
 
 Das Bundesministerium für Digitales und Verkehr wird die Anwendung der
 Regelungen des Gesetzes vom 12. Juli 2021 (BGBl. I S. 3108) nach
@@ -909,6 +923,7 @@ von ihm festzulegenden Zeitpunkt bis zum Jahr 2030 erneut durchführen.
 
 
 ### § 2 Fahrerlaubnis und Führerschein
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012400123)
 
 (1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt, bedarf der
 Erlaubnis (Fahrerlaubnis) der zuständigen Behörde
@@ -1203,6 +1218,7 @@ ist.
 
 
 ### § 2a Fahrerlaubnis auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004707123)
 
 (1) Bei erstmaligem Erwerb einer Fahrerlaubnis wird diese auf Probe
 erteilt; die Probezeit dauert zwei Jahre vom Zeitpunkt der Erteilung
@@ -1347,6 +1363,7 @@ Die amtliche Anerkennung ist zu erteilen, wenn der Bewerber
 
 
 ### § 2b Aufbauseminar bei Zuwiderhandlungen innerhalb der Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004805123)
 
 (1) Die Teilnehmer an Aufbauseminaren sollen durch Mitwirkung an
 Gruppengesprächen und an einer Fahrprobe veranlasst werden, eine
@@ -1371,6 +1388,7 @@ entsprechend.
 
 
 ### § 2c Unterrichtung der Fahrerlaubnisbehörden durch das Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007202305)
 
 Das Kraftfahrt-Bundesamt hat die zuständige Behörde zu unterrichten,
 wenn über den Inhaber einer Fahrerlaubnis Entscheidungen in das
@@ -1384,6 +1402,7 @@ Bundesamt bei weiteren Unterrichtungen auch hierauf hinzuweisen.
 
 
 ### § 3 Entziehung der Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE000705123)
 
 (1) Erweist sich jemand als ungeeignet oder nicht befähigt zum Führen
 von Kraftfahrzeugen, so hat ihm die Fahrerlaubnisbehörde die
@@ -1452,6 +1471,7 @@ bestimmt werden.
 
 
 ### § 4 Fahreignungs-Bewertungssystem
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE000809123)
 
 (1) Zum Schutz vor Gefahren, die von Inhabern einer Fahrerlaubnis
 ausgehen, die wiederholt gegen die die Sicherheit des Straßenverkehrs
@@ -1673,6 +1693,7 @@ anzuordnen.
 
 
 ### § 4a Fahreignungsseminar
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011105123)
 
 (1) Mit dem Fahreignungsseminar soll erreicht werden, dass die
 Teilnehmer sicherheitsrelevante Mängel in ihrem Verkehrsverhalten und
@@ -1851,6 +1872,7 @@ Qualitätssicherung bestimmen.
 
 
 ### § 4b Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011202123)
 
 Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug
 werden von der Bundesanstalt für Straßenwesen wissenschaftlich
@@ -1863,6 +1885,7 @@ Weiterleitung an den Deutschen Bundestag vor.
 
 
 ### § 5 Verlust von Dokumenten und Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE000902308)
 
 Besteht eine Verpflichtung zur Ablieferung oder Vorlage eines
 Führerscheins, Fahrzeugscheins, Anhängerverzeichnisses,
@@ -1885,11 +1908,13 @@ beantragt.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001001308)
 
 (weggefallen)
 
 
 ### § 5b Unterhaltung der Verkehrszeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001106123)
 
 (1) Die Kosten der Beschaffung, Anbringung, Entfernung, Unterhaltung
 und des Betriebs der amtlichen Verkehrszeichen und -einrichtungen
@@ -1967,6 +1992,7 @@ oberste Landesbehörden übertragen.
 
 
 ### § 6 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001232123)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 soweit es zur Abwehr von Gefahren für die Sicherheit oder Leichtigkeit
@@ -2496,6 +2522,7 @@ zu übertragen.
 
 
 ### § 6a Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001317123)
 
 (1) Kosten (Gebühren und Auslagen) werden erhoben
 
@@ -2643,6 +2670,7 @@ getroffen werden.
 
 
 ### § 6b Herstellung, Vertrieb und Ausgabe von Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001404123)
 
 (1) Wer Kennzeichen für Fahrzeuge herstellen, vertreiben oder ausgeben
 will, hat dies der Zulassungsbehörde vorher anzuzeigen.
@@ -2676,6 +2704,7 @@ kann untersagt werden, wenn
 
 
 ### § 6c Herstellung, Vertrieb und Ausgabe von Kennzeichenvorprodukten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001507123)
 
 § 6b Abs. 1, 3, 4 Nr. 1 sowie Abs. 5 gilt entsprechend für die
 Herstellung, den Vertrieb oder die Ausgabe von bestimmten - nach
@@ -2686,6 +2715,7 @@ Beschriftung fehlt.
 
 
 ### § 6d Auskunft und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001601308)
 
 (1) Die mit der Herstellung, dem Vertrieb oder der Ausgabe von
 Kennzeichen befassten Personen haben den zuständigen Behörden oder den
@@ -2706,6 +2736,7 @@ oder Geschäftszeit zum Zwecke der Prüfung und Besichtigung betreten.
 
 
 ### § 6e Führen von Kraftfahrzeugen in Begleitung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010205123)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates zur Senkung des
@@ -2782,6 +2813,7 @@ gelten im Übrigen die Vorschriften über den Führerschein entsprechend.
 
 
 ### § 6f Entgelte für Begutachtungsstellen für Fahreignung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011302123)
 
 Das Bundesministerium für Digitales und Verkehr kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte der
@@ -2804,6 +2836,7 @@ geregelt ist, sind dabei Mindest- und Höchstsätze festzusetzen.
 
 
 ### § 6g Internetbasierte Zulassungsverfahren bei Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011402123)
 
 (1) In Ergänzung der allgemeinen Vorschriften über die Zulassung von
 Fahrzeugen zum Straßenverkehr, die Zuteilung von Kennzeichen für
@@ -2971,10 +3004,12 @@ kann, sind dabei zu nennen.
 
 
 ## II. - Haftpflicht
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000201308)
 
 
 
 ### § 7 Haftung des Halters, Schwarzfahrt
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001703124)
 
 (1) Wird bei dem Betrieb eines Kraftfahrzeugs ein Mensch getötet, der
 Körper oder die Gesundheit eines Menschen verletzt oder eine Sache
@@ -2995,6 +3030,7 @@ Halter überlassen worden ist.
 
 
 ### § 8 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001804123)
 
 Die Vorschriften des § 7 gelten nicht,
 
@@ -3017,6 +3053,7 @@ Die Vorschriften des § 7 gelten nicht,
 
 
 ### § 8a Entgeltliche Personenbeförderung, Verbot des Haftungsausschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE001902308)
 
 Im Fall einer entgeltlichen, geschäftsmäßigen Personenbeförderung darf
 die Verpflichtung des Halters, wegen Tötung oder Verletzung
@@ -3028,6 +3065,7 @@ Rechts betrieben wird.
 
 
 ### § 9 Mitverschulden
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002001308)
 
 Hat bei der Entstehung des Schadens ein Verschulden des Verletzten
 mitgewirkt, so finden die Vorschriften des § 254 des Bürgerlichen
@@ -3038,6 +3076,7 @@ gleichsteht.
 
 
 ### § 10 Umfang der Ersatzpflicht bei Tötung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002103360)
 
 (1) Im Fall der Tötung ist der Schadensersatz durch Ersatz der Kosten
 einer versuchten Heilung sowie des Vermögensnachteils zu leisten, den
@@ -3067,6 +3106,7 @@ Getöteten war.
 
 
 ### § 11 Umfang der Ersatzpflicht bei Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002202308)
 
 Im Fall der Verletzung des Körpers oder der Gesundheit ist der
 Schadensersatz durch Ersatz der Kosten der Heilung sowie des
@@ -3079,6 +3119,7 @@ gefordert werden.
 
 
 ### § 12 Höchstbeträge
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002306123)
 
 (1) Der Ersatzpflichtige haftet
 
@@ -3114,6 +3155,7 @@ Verhältnis, in welchem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 
 
 ### § 12a Höchstbeträge bei Beförderung gefährlicher Güter
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010002308)
 
 (1) Werden gefährliche Güter befördert, haftet der Ersatzpflichtige
 
@@ -3154,12 +3196,14 @@ abgeschlossenen Gelände stattfindet.
 
 
 ### § 12b Nichtanwendbarkeit der Höchstbeträge
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010102308)
 
 Die §§ 12 und 12a sind nicht anzuwenden, wenn ein Schaden bei dem
 Betrieb eines gepanzerten Gleiskettenfahrzeugs verursacht wird.
 
 
 ### § 13 Geldrente
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002401308)
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
 Erwerbsfähigkeit und wegen Vermehrung der Bedürfnisse des Verletzten
@@ -3178,6 +3222,7 @@ dem Urteil bestimmten Sicherheit verlangen.
 
 
 ### § 14 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002501308)
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
@@ -3185,6 +3230,7 @@ Anwendung.
 
 
 ### § 15 Verwirkung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002601308)
 
 Der Ersatzberechtigte verliert die ihm auf Grund der Vorschriften
 dieses Gesetzes zustehenden Rechte, wenn er nicht spätestens innerhalb
@@ -3198,6 +3244,7 @@ hat.
 
 
 ### § 16 Sonstige Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002701308)
 
 Unberührt bleiben die bundesrechtlichen Vorschriften, nach welchen der
 Fahrzeughalter für den durch das Fahrzeug verursachten Schaden in
@@ -3206,6 +3253,7 @@ nach welchen ein anderer für den Schaden verantwortlich ist.
 
 
 ### § 17 Schadensverursachung durch mehrere Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002803124)
 
 (1) Wird ein Schaden durch mehrere Kraftfahrzeuge verursacht und sind
 die beteiligten Fahrzeughalter einem Dritten kraft Gesetzes zum Ersatz
@@ -3235,6 +3283,7 @@ Kraftfahrzeug und eine Eisenbahn verursacht wird.
 
 
 ### § 18 Ersatzpflicht des Fahrzeugführers
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE002903124)
 
 (1) In den Fällen des § 7 Abs. 1 ist auch der Führer des
 Kraftfahrzeugs zum Ersatz des Schadens nach den Vorschriften der §§ 8
@@ -3252,6 +3301,7 @@ anzuwenden.
 
 
 ### § 19 Haftung des Halters bei Unfällen mit Anhängern und Gespannen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003003123)
 
 (1) Wird bei dem Betrieb eines Anhängers, der dazu bestimmt ist, von
 einem Kraftfahrzeug (Zugfahrzeug) gezogen zu werden, ein Mensch
@@ -3307,6 +3357,7 @@ entsprechend anzuwenden.
 
 
 ### § 19a Ersatzpflicht des Führers von Anhängern und Gespannen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012100124)
 
 (1) Der Führer eines Gespanns haftet wie der Führer eines
 Kraftfahrzeugs. § 18 Absatz 1 und 2 ist entsprechend anzuwenden.
@@ -3327,6 +3378,7 @@ der Führer eines Kraftfahrzeugs.
 
 
 ### § 20 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003101308)
 
 Für Klagen, die auf Grund dieses Gesetzes erhoben werden, ist auch das
 Gericht zuständig, in dessen Bezirk das schädigende Ereignis
@@ -3334,10 +3386,12 @@ stattgefunden hat.
 
 
 ## III. - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000301308)
 
 
 
 ### § 21 Fahren ohne Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003201308)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -3398,6 +3452,7 @@ die Tat bezieht, eingezogen werden, wenn der Täter
 
 
 ### § 22 Kennzeichenmissbrauch
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003301308)
 
 (1) Wer in rechtswidriger Absicht
 
@@ -3430,6 +3485,7 @@ unterdrückt worden ist.
 
 
 ### § 22a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003402308)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -3460,6 +3516,7 @@ Strafgesetzbuchs ist anzuwenden.
 
 
 ### § 22b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010300301)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -3490,9 +3547,11 @@ können eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003504123)
 
 
 ### § 24 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003607123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Rechtsverordnung nach § 1j Absatz 1 Nummer 1, 2, 4, 5 oder 6, § 6
@@ -3592,6 +3651,7 @@ bezieht, können eingezogen werden.
 
 
 ### § 24a 0,5 Promille-Grenze, Tetrahydrocannabinol-Grenzwert
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003713123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig im
 Straßenverkehr ein Kraftfahrzeug führt, obwohl er 0,25 mg/l oder mehr
@@ -3641,9 +3701,11 @@ Straßenverkehrs erforderlich ist.
 
 
 ### § 24b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003803123)
 
 
 ### § 24c Alkohol- und Cannabisverbot für Fahranfänger und Fahranfängerinnen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010401123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig in der
 Probezeit nach § 2a oder vor Vollendung des 21. Lebensjahres als
@@ -3667,6 +3729,7 @@ einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 
 ### § 25 Fahrverbot
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE003915123)
 
 (1) Wird gegen die betroffene Person wegen einer Ordnungswidrigkeit
 nach § 24 Absatz 1, die sie unter grober oder beharrlicher Verletzung
@@ -3744,6 +3807,7 @@ oder im Anschluss an deren Verkündung zu belehren.
 
 
 ### § 25a Kostentragungspflicht des Halters
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE005302123)
 
 (1) Kann in einem Bußgeldverfahren wegen eines Halt- oder
 Parkverstoßes der Führer des Kraftfahrzeugs, der den Verstoß begangen
@@ -3775,6 +3839,7 @@ Kostenentscheidung des Gerichts ist nicht anfechtbar.
 
 
 ### § 26 Zuständige Verwaltungsbehörde; Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004007123)
 
 (1) Bei Ordnungswidrigkeiten nach den § 24 Absatz 1, § 24a Absatz 1
 bis 2a und § 24c Absatz 1 ist Verwaltungsbehörde im Sinne des § 36
@@ -3811,6 +3876,7 @@ und d fünf Jahre.
 
 
 ### § 26a Bußgeldkatalog
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004109123)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
@@ -3838,6 +3904,7 @@ werden soll.
 
 
 ### § 27 Informationsschreiben
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004206123)
 
 (1) Hat die Verwaltungsbehörde in einem Bußgeldverfahren den Halter
 oder Eigentümer eines Kraftfahrzeugs auf Grund einer Abfrage im Sinne
@@ -3859,10 +3926,12 @@ Wohnsitz im Inland hat.
 
 
 ## IV. - Fahreignungsregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000402305)
 
 
 
 ### § 28 Führung und Inhalt des Fahreignungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004311123)
 
 (1) Das Kraftfahrt-Bundesamt führt das Fahreignungsregister nach den
 Vorschriften dieses Abschnitts.
@@ -4017,6 +4086,7 @@ Fahreignungsregister zu vervollständigen.
 
 
 ### § 28a Eintragung beim Abweichen vom Bußgeldkatalog
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004406123)
 
 Wird die Geldbuße wegen einer Ordnungswidrigkeit nach den § 24 Absatz
 1, § 24a und § 24c lediglich mit Rücksicht auf die wirtschaftlichen
@@ -4040,11 +4110,13 @@ der im Bußgeldkatalog vorgesehene Regelsatz maßgebend.
 
 
 ### § 28b
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009902308)
 
 (weggefallen)
 
 
 ### § 29 Tilgung der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004510123)
 
 (1) Die im Register gespeicherten Eintragungen werden nach Ablauf der
 in Satz 2 bestimmten Fristen getilgt. Die Tilgungsfristen betragen
@@ -4256,6 +4328,7 @@ Regelungen des Bundeszentralregistergesetzes.
 
 
 ### § 30 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE004611123)
 
 (1) Die Eintragungen im Fahreignungsregister dürfen an die Stellen,
 die
@@ -4403,6 +4476,7 @@ Absatz 1 Nummer 3).
 
 
 ### § 30a Direkteinstellung und Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE005407126)
 
 (1) Den Stellen, denen die Aufgaben nach § 30 Absatz 1 bis 4b
 obliegen, dürfen die für die Erfüllung dieser Aufgaben jeweils
@@ -4536,6 +4610,7 @@ entsprechend anzuwenden.
 
 
 ### § 30b Automatisiertes Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007305360)
 
 (1) Die Übermittlung von Daten aus dem Fahreignungsregister nach § 30
 Absatz 1 bis 4b und 7 darf nach näherer Bestimmung durch
@@ -4565,6 +4640,7 @@ entsprechend.
 
 
 ### § 30c Verordnungsermächtigungen, Ausführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007409123)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen über
@@ -4612,10 +4688,12 @@ dem Bundesministerium der Justiz erlassen.
 
 
 ## V. - Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000501308)
 
 
 
 ### § 31 Registerführung und Registerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE005507123)
 
 (1) Die Zulassungsbehörden führen ein Register über die Fahrzeuge, für
 die ein Kennzeichen ihres Bezirks zugeteilt oder ausgegeben wurde
@@ -4636,6 +4714,7 @@ Nachfolgeunternehmen der Deutschen Bundespost zugelassen sind.
 
 
 ### § 32 Zweckbestimmung der Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE005607123)
 
 (1) Die Fahrzeugregister werden geführt zur Speicherung von Daten
 
@@ -4713,6 +4792,7 @@ des Fahrverhaltens abzielen.
 
 
 ### § 33 Inhalt der Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE005708123)
 
 (1) Im örtlichen und im Zentralen Fahrzeugregister werden, soweit dies
 zur Erfüllung der in § 32 genannten Aufgaben jeweils erforderlich ist,
@@ -4808,6 +4888,7 @@ Verkehrsvorschriften gespeichert werden.
 
 
 ### § 34 Erhebung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE005806123)
 
 (1) Wer die Zuteilung oder die Ausgabe eines Kennzeichens für ein
 Fahrzeug beantragt, hat der hierfür zuständigen Stelle
@@ -4886,6 +4967,7 @@ löschen.
 
 
 ### § 35 Übermittlung von Fahrzeugdaten und Halterdaten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012702123)
 
 (1) Die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten
 dürfen an Behörden und sonstige öffentliche Stellen im Geltungsbereich
@@ -5260,6 +5342,7 @@ durch das Kraftfahrt-Bundesamt nach den §§ 37 bis 40.
 
 
 ### § 36 Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012603123)
 
 (1) Die Übermittlung nach § 35 Absatz 1 Nummer 1, soweit es sich um
 Aufgaben nach § 32 Absatz 1 Nummer 1 handelt, aus dem Zentralen
@@ -5538,6 +5621,7 @@ bezeichneten Aufgaben.
 
 
 ### § 36a Automatisiertes Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007502123)
 
 Die Übermittlung der Daten aus dem Zentralen Fahrzeugregister nach den
 §§ 35 und 37 darf nach näherer Bestimmung durch Rechtsverordnung nach
@@ -5547,6 +5631,7 @@ Verfahrens gilt § 30b Abs. 1 Satz 2, Abs. 2 und 3 entsprechend.
 
 
 ### § 36b Abgleich mit den Sachfahndungsdaten des Bundeskriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007601308)
 
 (1) Das Bundeskriminalamt übermittelt regelmäßig dem Kraftfahrt-
 Bundesamt die im Polizeilichen Informationssystem gespeicherten Daten
@@ -5563,6 +5648,7 @@ automatisierten Verfahren erfolgen.
 
 
 ### § 37 Übermittlung von Fahrzeugdaten und Halterdaten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006106123)
 
 (1) Die nach § 33 Absatz 1 gespeicherten Fahrzeugdaten und Halterdaten
 dürfen vom Kraftfahrt-Bundesamt an die zuständigen Stellen anderer
@@ -5632,6 +5718,7 @@ beurteilt.
 
 
 ### § 37a Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007706123)
 
 (1) Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen
 Fahrzeugregister für die in § 37 Abs. 1 und 1a genannten Maßnahmen an
@@ -5684,6 +5771,7 @@ entsprechend anzuwenden.
 
 
 ### § 37b Übermittlung von Fahrzeug- und Halterdaten nach der Richtlinie (EU) 2015/413
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011001123)
 
 (1) Das Kraftfahrt-Bundesamt unterstützt nach Absatz 2 die in Artikel
 4 Absatz 3 der Richtlinie (EU) 2015/413 genannten nationalen
@@ -5770,6 +5858,7 @@ Europäischen Union erforderlich ist.
 
 
 ### § 37c Übermittlung von Fahrzeugdaten und Halterdaten an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010502305)
 
 Das Kraftfahrt-Bundesamt übermittelt zur Erfüllung der Berichtspflicht
 nach Artikel 5 Absatz 1 Unterabsatz 4 der Richtlinie 2009/103/EG des
@@ -5784,6 +5873,7 @@ sind.
 
 
 ### § 38 Übermittlung an und Verwendung durch den Empfänger für wissenschaftliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006203126)
 
 (1) Die nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und Halterdaten
 dürfen an Hochschulen, andere Einrichtungen, die wissenschaftliche
@@ -5845,6 +5935,7 @@ ist.
 
 
 ### § 38a Übermittlung an und Verwendung durch den Empfänger für statistische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007802126)
 
 (1) Die nach § 33 Abs. 1 gespeicherten Fahrzeug- und Halterdaten
 dürfen zur Vorbereitung und Durchführung von Statistiken, soweit sie
@@ -5858,6 +5949,7 @@ Anwendung.
 
 
 ### § 38b Übermittlung an und Verwendung durch den Empfänger für planerische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007903126)
 
 (1) Die nach § 33 Abs. 1 gespeicherten Fahrzeug- und Halterdaten
 dürfen für im öffentlichen Interesse liegende Verkehrsplanungen an
@@ -5892,6 +5984,7 @@ nicht beeinträchtigt werden.
 
 
 ### § 39 Übermittlung von Fahrzeugdaten und Halterdaten zur Verfolgung von Rechtsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006309123)
 
 (1) Von den nach § 33 Abs. 1 gespeicherten Fahrzeugdaten und
 Halterdaten sind
@@ -6004,6 +6097,7 @@ zuständig.
 
 
 ### § 39a Auskunft über Daten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012800123)
 
 (1) Einer Person wird auf Antrag schriftlich über die zu ihrer Person
 im örtlichen oder im Zentralen Fahrzeugregister gespeicherten Daten
@@ -6051,6 +6145,7 @@ der Protokollierung § 36 Absatz 6 entsprechend.
 
 
 ### § 40 Übermittlung sonstiger Daten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006405305)
 
 Die nach § 33 Abs. 2 gespeicherten Daten über Beruf und Gewerbe
 (Wirtschaftszweig) dürfen nur für die Zwecke nach § 32 Abs. 1 Nr. 4
@@ -6061,6 +6156,7 @@ Vorhaben richten sich nach § 38a.
 
 
 ### § 41 Übermittlungssperren
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006504123)
 
 (1) Die Anordnung von Übermittlungssperren in den Fahrzeugregistern
 ist zulässig, wenn erhebliche öffentliche Interessen gegen die
@@ -6103,6 +6199,7 @@ unverzüglich zu löschen.
 
 
 ### § 42 Datenabgleich zur Beseitigung von Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006606123)
 
 (1) Bei Zweifeln an der Identität eines eingetragenen Halters mit dem
 Halter, auf den sich eine neue Mitteilung bezieht, dürfen die
@@ -6156,6 +6253,7 @@ besteht, dass die Datenbestände unrichtig oder unvollständig sind.
 
 
 ### § 43 Allgemeine Vorschriften für die Datenübermittlung an und die Verarbeitung der Daten durch den Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006704123)
 
 (1) Übermittlungen von Daten aus den Fahrzeugregistern sind nur auf
 Ersuchen zulässig, es sei denn, auf Grund besonderer Rechtsvorschrift
@@ -6182,6 +6280,7 @@ andere Zwecke durch nichtöffentliche Stellen bedarf der Zustimmung der
 
 
 ### § 44 Löschung der Daten in den Fahrzeugregistern
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006802126)
 
 (1) Die nach § 33 Abs. 1 und 2 gespeicherten Daten sind in den
 Fahrzeugregistern spätestens zu löschen, wenn sie für die Aufgaben
@@ -6192,6 +6291,7 @@ der Auflage zu löschen.
 
 
 ### § 45 Anonymisierte Daten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE006902126)
 
 Auf die Verarbeitung von Daten, die keinen Bezug zu einer bestimmten
 oder bestimmbaren Person ermöglichen, finden die Vorschriften dieses
@@ -6202,11 +6302,13 @@ die Fahrzeugbriefnummer.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007002308)
 
 (weggefallen)
 
 
 ### § 47 Verordnungsermächtigungen, Ausführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE007109123)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen
@@ -6287,10 +6389,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu erlassen
 
 
 ## VI. - Fahrerlaubnisregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000601308)
 
 
 
 ### § 48 Registerführung und Registerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008003123)
 
 (1) Die Fahrerlaubnisbehörden (§ 2 Abs. 1) führen im Rahmen ihrer
 örtlichen Zuständigkeit ein Register (örtliche Fahrerlaubnisregister)
@@ -6339,6 +6443,7 @@ Amt über die Daten keine Auskunft erteilen.
 
 
 ### § 49 Zweckbestimmung der Register
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008102305)
 
 (1) Die örtlichen Fahrerlaubnisregister und das Zentrale
 Fahrerlaubnisregister werden geführt zur Speicherung von Daten, die
@@ -6360,6 +6465,7 @@ Speicherung von Daten, die erforderlich sind
 
 
 ### § 50 Inhalt der Fahrerlaubnisregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008206124)
 
 (1) In den örtlichen Fahrerlaubnisregistern und im Zentralen
 Fahrerlaubnisregister werden gespeichert
@@ -6423,6 +6529,7 @@ die in § 65 Absatz 2a bezeichneten Daten.
 
 
 ### § 51 Mitteilung an das Zentrale Fahrerlaubnisregister
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008302313)
 
 Die Fahrerlaubnisbehörden teilen dem Kraftfahrt-Bundesamt zur
 Speicherung im Zentralen Fahrerlaubnisregister unverzüglich die auf
@@ -6431,6 +6538,7 @@ Löschung einer Eintragung führenden Daten mit.
 
 
 ### § 52 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008402308)
 
 (1) Die in den Fahrerlaubnisregistern gespeicherten Daten dürfen an
 die Stellen, die
@@ -6466,6 +6574,7 @@ führen.
 
 
 ### § 53 Direkteinstellung und Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008505126)
 
 (1) Den Stellen, denen die Aufgaben nach § 52 obliegen, dürfen die
 hierfür jeweils erforderlichen Daten aus dem Zentralen
@@ -6542,6 +6651,7 @@ nach Ablauf des betreffenden Kalenderjahres zu vernichten.
 
 
 ### § 54 Automatisiertes Mitteilungs-, Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008603123)
 
 Die Übermittlung der Daten an das Zentrale Fahrerlaubnisregister und
 aus dem Zentralen Fahrerlaubnisregister nach den §§ 51, 52 und 55 darf
@@ -6554,6 +6664,7 @@ Lebensjahres der betroffenen Person zu löschen.
 
 
 ### § 55 Übermittlung von Daten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008702126)
 
 (1) Die auf Grund des § 50 gespeicherten Daten dürfen von den
 Registerbehörden an die hierfür zuständigen Stellen anderer Staaten
@@ -6585,6 +6696,7 @@ gewährleistet ist.
 
 
 ### § 56 Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008804126)
 
 (1) Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen
 Fahrerlaubnisregister für die in § 55 Abs. 1 genannten Maßnahmen an
@@ -6611,6 +6723,7 @@ entsprechend anzuwenden.
 
 
 ### § 57 Übermittlung an und Verwendung durch den Empfänger für wissenschaftliche, statistische und gesetzgeberische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE008902126)
 
 Für die Übermittlung und Verwendung der nach § 50 gespeicherten Daten
 für wissenschaftliche Zwecke gilt § 38, für statistische Zwecke § 38a
@@ -6618,6 +6731,7 @@ und für gesetzgeberische Zwecke § 38b jeweils entsprechend.
 
 
 ### § 58 Auskunft über eigene Daten aus den Registern
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009005123)
 
 Einer Privatperson wird auf Antrag schriftlich über den sie
 betreffenden Inhalt des örtlichen oder des Zentralen
@@ -6632,6 +6746,7 @@ Hinsichtlich der Protokollierung gilt § 53 Absatz 3 entsprechend.
 
 
 ### § 59 Datenabgleich zur Beseitigung von Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009103126)
 
 (1) Bei Zweifeln an der Identität einer eingetragenen Person mit der
 Person, auf die sich eine Mitteilung nach § 51 bezieht, dürfen die
@@ -6668,6 +6783,7 @@ sind.
 
 
 ### § 60 Allgemeine Vorschriften für die Datenübermittlung an und die Verarbeitung der Daten durch den Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009203123)
 
 (1) Übermittlungen von Daten aus den Fahrerlaubnisregistern sind nur
 auf Ersuchen zulässig, es sei denn, auf Grund besonderer
@@ -6688,6 +6804,7 @@ entsprechend.
 
 
 ### § 61 Löschung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009305126)
 
 (1) Die auf Grund des § 50 im Zentralen Fahrerlaubnisregister
 gespeicherten Daten sind zu löschen, soweit
@@ -6737,6 +6854,7 @@ betroffenen Person zu löschen.
 
 
 ### § 62 Register über die Dienstfahrerlaubnisse der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009404124)
 
 (1) Die durch das Bundesministerium der Verteidigung bestimmte
 Dienststelle führt ein zentrales Register über die von den
@@ -6768,6 +6886,7 @@ erforderlich ist.
 
 
 ### § 63 Verordnungsermächtigungen, Ausführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009506123)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen
@@ -6815,10 +6934,12 @@ Rechtsverordnungen mit Zustimmung des Bundesrates zu erlassen
 
 
 ## VIa. - Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000801124)
 
 
 
 ### § 63a Datenverarbeitung bei Kraftfahrzeugen mit hoch- oder vollautomatisierter Fahrfunktion
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011801126)
 
 (1) Kraftfahrzeuge gemäß § 1a speichern die durch ein
 Satellitennavigationssystem ermittelten Positions- und Zeitangaben,
@@ -6864,6 +6985,7 @@ zu Zwecken der Unfallforschung an Dritte übermittelt werden.
 
 
 ### § 63b Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE011902123)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, im
 Benehmen mit der Beauftragten für den Datenschutz und die
@@ -6887,6 +7009,7 @@ Bundestag zur Kenntnis zuzuleiten.
 
 
 ### § 63c Datenverarbeitung im Rahmen der Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten aufgrund immissionsschutzrechtlicher Vorschriften oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz vor Abgasen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012000124)
 
 (1) Zur Überprüfung der Einhaltung von Verkehrsbeschränkungen und
 Verkehrsverboten, die aufgrund des § 40 des Bundes-
@@ -6967,6 +7090,7 @@ unberührt.
 
 
 ### § 63d Informationen an die Halter
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE012901123)
 
 Das Kraftfahrt-Bundesamt darf die nach § 33 Absatz 1 gespeicherten
 Fahrzeugdaten und Halterdaten im Einvernehmen mit dem
@@ -6984,6 +7108,7 @@ dass das Einvernehmen ohne nähere Prüfung erteilt werden darf.
 
 
 ### § 63e Datenerhebung, Datenspeicherung und Datenverwendung für das Verkehrsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013000123)
 
 (1) Der jeweils zuständige Straßenbaulastträger oder die abweichend
 hiervon nach Landesrecht für das Verkehrsmanagement zuständige Behörde
@@ -7113,6 +7238,7 @@ als Auswertung.
 
 
 ### § 63f Verkehrsunfallforschung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE013101123)
 
 (1) Die Bundesanstalt für Straßenwesen darf zum Zweck der
 Verkehrsunfallforschung die folgenden personenbezogenen Daten der
@@ -7204,10 +7330,12 @@ Straßenwesen zum Zweck der Verkehrsunfallforschung, insbesondere über
 
 
 ## VII. - Gemeinsame Vorschriften, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000701308)
 
 
 
 ### § 64 Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009605123)
 
 (1) Die Meldebehörden haben dem Kraftfahrt-Bundesamt bei der Änderung
 des Geburtsnamens oder des Vornamens einer Person, die das 14.
@@ -7258,6 +7386,7 @@ amtlichen Informationen abschließend.
 
 
 ### § 65 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009715123)
 
 (1) Registerauskünfte, Führungszeugnisse, Gutachten und
 Gesundheitszeugnisse, die sich am 1. Januar 1999 bereits in den Akten
@@ -7516,9 +7645,11 @@ Bestimmungen geahndet werden.
 
 
 ### § 66 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE010602123)
 
 
 ### Anlage (zu § 24a)
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE009803123)
 
 (Fundstelle: BGBl. I 2007, 1045)
 
@@ -7581,6 +7712,7 @@ Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 1099)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNE888800305)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -27,6 +27,7 @@ Recht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000000000)
 
 Auf Grund des § 6 Abs. 1 Nr. 20 des Straßenverkehrsgesetzes in der
 Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310) und des §
@@ -48,6 +49,7 @@ verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000100000)
 
 (1) Die Vorschriften dieser Verordnung gelten für die technische
 Kontrolle von Nutzfahrzeugen, die am Straßenverkehr teilnehmen oder
@@ -59,6 +61,7 @@ unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000203123)
 
 Im Sinne dieser Verordnung bezeichnet der Begriff:
 
@@ -142,6 +145,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff:
 
 
 ## § 3 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000302123)
 
 (1) Die Kontrollen führen die nach Bundes- und Landesrecht zuständigen
 Behörden durch.
@@ -163,6 +167,7 @@ durchführt.
 
 
 ## § 4 Häufigkeit der Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000404123)
 
 (1) Die zuständigen Behörden stellen sicher, dass in ihrem sachlichen
 und örtlichen Zuständigkeitsbereich ein ausreichender Anteil an
@@ -186,6 +191,7 @@ in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
 
 ## § 5 Kontrollen auf der Straße
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000503360)
 
 (1) Die Auswahl eines Fahrzeugs für die Kontrolle und die Durchführung
 der Kontrollen erfolgt
@@ -290,6 +296,7 @@ liegt ein offensichtlicher Mangel vor.
 
 
 ## § 6 Kontrollbericht
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000603123)
 
 Die zuständigen Behörden oder deren Beauftragte haben einen
 Kontrollbericht nach dem Muster des Anhangs IV der Richtlinie
@@ -305,6 +312,7 @@ des Kontrollberichts erhält der Fahrer des geprüften Nutzfahrzeugs.
 
 
 ## § 7 Bewertung von Mängeln und Folgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000703360)
 
 (1) Die bei der Kontrolle festgestellten Mängel werden nach der im
 Anhang II der Richtlinie 2014/47/EU vorgenommenen Bewertung in eine
@@ -348,6 +356,7 @@ werden:
 
 
 ## § 8 Informationen unter den Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000803123)
 
 Die obersten Landesbehörden oder die von ihnen beauftragten Stellen
 teilen jährlich zum 30. Juni dem Bundesamt für Logistik und Mobilität
@@ -357,6 +366,7 @@ zuständig und wer Ansprechpartner ist.
 
 
 ## § 9 Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Behörden der Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE000904123)
 
 (1) Das Bundesamt für Logistik und Mobilität nimmt die Aufgaben als
 nationale Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen,
@@ -397,6 +407,7 @@ zugelassen ist, welche die erforderlichen Maßnahmen ergreift.
 
 
 ## § 10 Berichtswesen
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001007123)
 
 (1) Die nach Bundes- und Landesrecht zuständigen Behörden übermitteln
 dem Bundesamt für Logistik und Mobilität jeweils für zwei
@@ -431,6 +442,7 @@ Union. Der Bericht wird den obersten Verkehrsbehörden der Länder
 
 
 ## § 11 Kontrollen des Bundesamtes für Logistik und Mobilität, der Bundespolizei und der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001103123)
 
 Diese Verordnung wird entsprechend angewendet durch:
 
@@ -450,26 +462,31 @@ Diese Verordnung wird entsprechend angewendet durch:
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001200000)
 
 Diese Verordnung tritt am ersten Tage des dritten auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001402308)
 
 
 
 ## Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001502308)
 
 
 (zu § 10 Absatz 1)
 
 ## Anlage 3 Muster des Formulars für den Bericht an das Bundesamt für Logistik und Mobilität über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/techkontrollv/BJNR077400003.html#BJNR077400003BJNE001606123)
 
 (Fundstelle: BGBl. I 2018, 547 — 548)
 

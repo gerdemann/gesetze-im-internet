@@ -21,17 +21,20 @@ Europäischen Parlaments und des Rates vom 14. Mai 2001 (ABl. EG Nr. L
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/b_oua_ndg_2004/BJNR177600004.html#BJNR177600004BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis Art 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_oua_ndg_2004/BJNR177600004.html#BJNR177600004BJNE000200000)
 
 -
 
 
 ## Art 8 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/b_oua_ndg_2004/BJNR177600004.html#BJNR177600004BJNE000300000)
 
 Die auf den Artikeln 3 und 4 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
@@ -39,6 +42,7 @@ Ermächtigungen durch Rechtsverordnung geändert werden.
 
 
 ## Art 9 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/b_oua_ndg_2004/BJNR177600004.html#BJNR177600004BJNE000400000)
 
 (1) Das Bundesministerium für Gesundheit und Soziale Sicherung kann
 die Bundesärzteordnung und das Gesetz über die Ausübung der
@@ -52,6 +56,7 @@ Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/b_oua_ndg_2004/BJNR177600004.html#BJNR177600004BJNE000500000)
 
 (1) Ab dem 1. Oktober 2004 haben Studierende der Humanmedizin, die vor
 diesem Zeitpunkt ihr Medizinstudium mit Bestehen des Dritten
@@ -69,6 +74,7 @@ Nr. 2 zum Praktischen Jahr keine Anwendung.
 
 
 ## Art 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/b_oua_ndg_2004/BJNR177600004.html#BJNR177600004BJNE000600000)
 
 (1) Das Gesetz tritt vorbehaltlich des Absatzes 2 am Tage nach der
 Verkündung in Kraft.

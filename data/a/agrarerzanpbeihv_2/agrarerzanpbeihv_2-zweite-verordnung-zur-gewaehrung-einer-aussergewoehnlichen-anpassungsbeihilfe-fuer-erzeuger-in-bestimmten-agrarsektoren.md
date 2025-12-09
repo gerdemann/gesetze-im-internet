@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000101119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf
 Grund
@@ -53,6 +54,7 @@ Grund
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000201119)
 
 Diese Verordnung dient der Durchführung der Durchführungsverordnung
 (EU) 2023/1465 der Kommission vom 14. Juli 2023 über eine finanzielle
@@ -66,6 +68,7 @@ wirtschaftlichen Schwierigkeiten betroffen sind.
 
 
 ## § 2 Beihilfeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000301119)
 
 (1) Eine Beihilfe ist einem Unternehmer im Sinne des § 136 Absatz 3
 Nummer 1 des Siebten Buches Sozialgesetzbuch – Gesetzliche
@@ -131,6 +134,7 @@ Unternehmer gewährt.
 
 
 ## § 3 Höhe der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000401119)
 
 (1) Die Beihilfe beträgt für
 
@@ -173,6 +177,7 @@ dieses Unternehmen auf den Betrag von 15 000 Euro festzusetzen.
 
 
 ## § 4 Zuständigkeit für die Verwaltung und Kontrolle der Gewährung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000501119)
 
 (1) Die für die Verwaltung und Kontrolle der in § 1 genannten Maßnahme
 zuständige Zahlstelle nach Artikel 9 der Verordnung (EU) 2021/2116 des
@@ -194,6 +199,7 @@ im Sinne des Artikels 1 Absatz 4 der Durchführungsverordnung (EU)
 
 
 ## § 5 Durchführung der Beihilfegewährung
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000601119)
 
 (1) Zuständig für die Durchführung der Beihilfegewährung ist die
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. Sie hat
@@ -211,6 +217,7 @@ der Kontrollen nach pflichtgemäßem Ermessen.
 
 
 ## § 6 Überwachung durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000701119)
 
 (1) Die Bundesanstalt hat im Rahmen der Verwaltung und Kontrolle nach
 § 4 Absatz 1 die unionsrechtskonforme Gewährung der Beihilfe durch die
@@ -228,6 +235,7 @@ bei den Beihilfeberechtigten vornehmen.
 
 
 ## § 7 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000801119)
 
 Zum Zweck der Überwachung der Einhaltung dieser Verordnung haben die
 nach § 2 Beihilfeberechtigten der Bundesanstalt, dem Bundesministerium
@@ -260,6 +268,7 @@ Landwirtschaft, Forsten und Gartenbau nach § 5 Absatz 3.
 
 
 ## § 8 Bereitstellung und Übermittlung von Betriebsdaten
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE000901119)
 
 (1) Zum Zweck der Überwachung nach § 6 Absatz 1 und 2 haben die
 zuständigen Zahlstellen der Länder im Sinne des Integrierten
@@ -302,6 +311,7 @@ Anforderung kann wiederholt erfolgen, damit die Bundesanstalt bei der
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrarerzanpbeihv_2/BJNR1110A0023.html#BJNR1110A0023BJNE001001119)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

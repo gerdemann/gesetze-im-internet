@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/irenasitzabkg/BJNR101020011.html#BJNR101020011BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/irenasitzabkg/BJNR101020011.html#BJNR101020011BJNE000200000)
 
 Dem in Abu Dhabi am 5. April 2011 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Internationalen Organisation
@@ -34,6 +36,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/irenasitzabkg/BJNR101020011.html#BJNR101020011BJNE000300000)
 
 (1) Bedienstete der Internationalen Organisation für erneuerbare
 Energien, deren Mitgliedschaft als Arbeitnehmer in der deutschen
@@ -57,6 +60,7 @@ Berücksichtigungszeiten ausschließt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/irenasitzabkg/BJNR101020011.html#BJNR101020011BJNE000400311)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

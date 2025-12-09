@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Aufgaben der landwirtschaftlichen Krankenkasse, versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000101308)
 
 
 
 ### § 1 Aufgaben der Krankenversicherung für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001008126)
 
 Die landwirtschaftliche Krankenkasse als Solidargemeinschaft hat die
 Aufgabe, die Gesundheit der Versicherten zu erhalten,
@@ -42,6 +44,7 @@ Krankheit. Die §§ 1 bis 2b, 4 Absatz 4 und 5, § 4a Absatz 2 und 4 Satz
 
 
 ### § 2 Pflichtversicherte
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE008006126)
 
 (1) In der Krankenversicherung der Landwirte sind
 versicherungspflichtig
@@ -232,6 +235,7 @@ dem Grunde nach besteht.
 
 
 ### § 3 Verhältnis der Versicherungspflicht nach diesem Gesetz zur Versicherungspflicht nach anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001211126)
 
 (1) Nach diesem Gesetz ist nicht versichert, wer
 
@@ -329,6 +333,7 @@ von der Versicherungspflicht befreit ist.
 
 
 ### § 3a Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007303308)
 
 Versicherungsfrei ist, wer
 
@@ -346,6 +351,7 @@ Versicherungsfrei ist, wer
 
 
 ### § 4 Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001313126)
 
 (1) Auf Antrag wird von der Versicherungspflicht nach § 2 befreit, wer
 versicherungspflichtig wird
@@ -389,6 +395,7 @@ Sozialgesetzbuch besteht.
 
 
 ### § 5 Befristete Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001401308)
 
 Unternehmer der Binnenfischerei, der Imkerei und der Wanderschäferei,
 die nur aufgrund des § 2 Abs. 2 versicherungspflichtig sind, werden
@@ -401,6 +408,7 @@ Ersten des Kalendermonats wirksam, der auf die Antragstellung folgt.
 
 
 ### § 6 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001506126)
 
 (1) Der Versicherung können beitreten
 
@@ -445,6 +453,7 @@ informiert werden.
 
 
 ### § 7 Familienversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001606311)
 
 (1) Für die Familienversicherung gilt § 10 des Fünften Buches
 Sozialgesetzbuch entsprechend. Die Familienversicherung besteht auch
@@ -477,10 +486,12 @@ Vierten Buches Sozialgesetzbuch zulässig.
 
 
 ## Zweiter Abschnitt - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000200326)
 
 
 
 ### § 8 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001712126)
 
 (1) Für die Leistungen nach diesem Gesetz gilt das Dritte Kapitel des
 Fünften Buches Sozialgesetzbuch, soweit nachfolgend nichts
@@ -556,6 +567,7 @@ sind.
 
 
 ### § 9 Betriebshilfe
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001805126)
 
 (1) Nach § 2 versicherungspflichtige landwirtschaftliche Unternehmer
 erhalten anstelle von Krankengeld oder Mutterschaftsgeld Betriebshilfe
@@ -610,6 +622,7 @@ Buches Sozialgesetzbuch genannten Stellen übertragen.
 
 
 ### § 10 Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE001904119)
 
 (1) Die Satzung soll bestimmen, daß für landwirtschaftliche
 Unternehmer Haushaltshilfe gewährt wird, wenn dem Versicherten, dem
@@ -628,6 +641,7 @@ Buches Sozialgesetzbuch.
 
 
 ### § 11 Ersatzkraft bei Betriebs- und Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002001126)
 
 Als Betriebs- oder Haushaltshilfe ist eine Ersatzkraft zu stellen.
 Kann eine Ersatzkraft nicht gestellt werden oder besteht Grund, von
@@ -646,6 +660,7 @@ Ersatzkraft entstehenden Kosten steht.
 
 
 ### § 12 Krankengeld
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002103308)
 
 Krankengeld nach den Vorschriften des Fünften Buches Sozialgesetzbuch
 erhalten
@@ -676,6 +691,7 @@ aus.
 
 
 ### § 13 Krankengeld für nicht rentenversicherungspflichtige mitarbeitende Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002207124)
 
 (1) Die nach § 2 Abs. 1 Nr. 3 versicherungspflichtigen mitarbeitenden
 Familienangehörigen, die nicht rentenversicherungspflichtig sind,
@@ -699,6 +715,7 @@ Sozialgesetzbuch gelten entsprechend.
 
 
 ### § 14 Mutterschaftsgeld
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002303308)
 
 (1) Mutterschaftsgeld nach § 24i des Fünften Buches Sozialgesetzbuch
 erhalten
@@ -735,10 +752,12 @@ Sozialgesetzbuch
 
 
 ## Dritter Abschnitt - Beziehungen der Krankenkasse zu den Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000301308)
 
 
 
 ### § 15 Vertragsrecht
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002404119)
 
 Für die Beziehungen der landwirtschaftlichen Krankenkasse zu den
 Leistungserbringern gelten die Vorschriften des Vierten Kapitels des
@@ -747,15 +766,18 @@ Abweichendes bestimmt wird.
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002501308)
 
 —
 
 
 ## Vierter Abschnitt - Träger der Krankenversicherung der Landwirte und Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000401308)
 
 
 
 ### § 17 Träger der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002607126)
 
 Träger der Krankenversicherung der Landwirte ist die
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. In
@@ -768,11 +790,13 @@ Krankenkasse keine Anwendung.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002707308)
 
 —
 
 
 ### § 18a Reduzierung der Kosten für Verwaltung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007902119)
 
 (1) Die landwirtschaftliche Krankenkasse ergreift Maßnahmen, damit die
 Verwaltungs- und Verfahrenskosten für die landwirtschaftliche
@@ -791,11 +815,13 @@ Altersrückstellungsvermögen unberücksichtigt.
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002805308)
 
 -
 
 
 ### § 20 Versicherung besonderer Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE002905377)
 
 (1) Für Versicherungspflichtige nach § 2 Absatz 1 Nummer 6 und 7 sind
 für die Durchführung dieser Versicherung die Vorschriften des Fünften
@@ -815,6 +841,7 @@ der gesetzlichen Krankenversicherung gilt.
 
 
 ### § 21 Wahlrecht der Studenten und Praktikanten
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003001308)
 
 (1) Die Mitgliedschaft bei der landwirtschaftlichen Krankenkasse
 können wählen
@@ -842,6 +869,7 @@ Krankenkasse andere Zahlungsweisen vorsehen kann.
 
 
 ### § 22 Beginn der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003105126)
 
 (1) Die Mitgliedschaft beginnt
 
@@ -903,6 +931,7 @@ Geltungsbereich des Sozialgesetzbuches ermitteln konnte.
 
 
 ### § 23 Mitgliedschaft von Antragstellern
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003203308)
 
 (1) Als Mitglieder gelten Personen, die eine der in § 2 Abs. 1 Nr. 4
 genannten Renten nach dem Gesetz über die Alterssicherung der
@@ -928,6 +957,7 @@ vorrangige Versicherungspflicht nach diesem Gesetz vorliegen.
 
 
 ### § 24 Ende der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003305119)
 
 (1) Die Mitgliedschaft Versicherungspflichtiger endet
 
@@ -982,6 +1012,7 @@ des Fünften Buches Sozialgesetzbuch.
 
 
 ### § 25 Fortbestehen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003408126)
 
 (1) Die Mitgliedschaft der in § 2 Abs. 1 Nr. 1 bis 3 genannten
 Versicherungspflichtigen bleibt erhalten, solange
@@ -1010,6 +1041,7 @@ Sozialgesetzbuch entsprechend.
 
 
 ### § 26 Satzung und Aufgabenerledigung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003507126)
 
 (1) Die Satzung muss insbesondere Bestimmungen enthalten über
 
@@ -1043,6 +1075,7 @@ des Fünften Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 27 Meldepflichten landwirtschaftlicher Unternehmer und früherer Versicherter
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003600326)
 
 (1) Versicherungspflichtige landwirtschaftliche Unternehmer haben die
 Aufnahme und die Aufgabe der Tätigkeit als landwirtschaftliche
@@ -1062,12 +1095,14 @@ haben sich bei der landwirtschaftlichen Krankenkasse zu melden.
 
 
 ### § 28 Meldepflichten bei Wehrdienst und Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003703308)
 
 Für die Meldepflicht bei Einberufung zum Wehrdienst oder Zivildienst
 gilt § 204 des Fünften Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 29 Meldepflichten bei Bezug einer Rente nach dem Gesetz über die Alterssicherung der Landwirte oder einer Rente der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003805119)
 
 (1) Wer eine der in § 2 Abs. 1 Nr. 4 genannten Renten beantragt, hat
 mit dem Antrag eine Meldung für die landwirtschaftliche Krankenkasse
@@ -1124,6 +1159,7 @@ Versicherungspflicht nach anderen gesetzlichen Vorschriften endet.
 
 
 ### § 30 Meldepflichten bei Leistungen zur Teilhabe am Arbeitsleben, Bezug von Vorruhestandsgeld, Versorgungsbezügen und Erziehungsgeld oder Elterngeld
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE003902308)
 
 Für die Meldepflichten bei Teilnahme an Leistungen zur Teilhabe am
 Arbeitsleben sowie bei Bezug von Vorruhestandsgeld, Versorgungsbezügen
@@ -1132,6 +1168,7 @@ und Erziehungsgeld oder Elterngeld gelten § 200 Abs. 1 Nr. 2 und 3, §
 
 
 ### § 31 Meldepflichten bestimmter Versicherungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004001308)
 
 Versicherungspflichtige, die eine Rente nach dem Gesetz über die
 Alterssicherung der Landwirte, eine Rente der gesetzlichen
@@ -1152,6 +1189,7 @@ Krankenkasse unverzüglich zu melden
 
 
 ### § 32 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004100326)
 
 Für Versicherte und landwirtschaftliche Unternehmer, bei denen
 versicherungspflichtige Familienangehörige mitarbeiten, gilt § 206 des
@@ -1159,6 +1197,7 @@ Fünften Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 33 Prüfpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004201308)
 
 Die landwirtschaftliche Krankenkasse prüft mindestens alle vier Jahre
 die für die Versicherung und die Erhebung der Beiträge maßgebenden
@@ -1166,10 +1205,12 @@ Tatsachen.
 
 
 ## Fünfter Abschnitt - Wahrnehmung von Verbandsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000501308)
 
 
 
 ### § 34 Verbandsaufgaben in der landwirtschaftlichen Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004311126)
 
 (1) Die landwirtschaftliche Krankenkasse nimmt in der
 landwirtschaftlichen Krankenversicherung Verbandsaufgaben wahr. § 217f
@@ -1198,11 +1239,13 @@ gehören insbesondere
 
 
 ### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004404308)
 
 -
 
 
 ### § 36 Wahrnehmung von Aufgaben der Landesverbände der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004502308)
 
 Für die landwirtschaftliche Krankenversicherung nimmt die
 landwirtschaftliche Krankenkasse die Aufgaben der Landesverbände der
@@ -1210,10 +1253,12 @@ Krankenkassen nach dem Fünften Buch Sozialgesetzbuch wahr.
 
 
 ## Sechster Abschnitt - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000600326)
 
 
 
 ### § 37 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004603308)
 
 (1) Die Mittel für die landwirtschaftliche Krankenversicherung werden
 durch Beiträge, durch Zuschüsse des Bundes, die Beteiligung des Bundes
@@ -1242,6 +1287,7 @@ Fünften Buches Sozialgesetzbuch entsprechend anzuwenden.
 
 
 ### § 38 Festsetzung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004712126)
 
 (1) Die Beiträge für die in § 2 Abs. 1 Nr. 1, 2 und 3 genannten
 Versicherungspflichtigen und die in § 6 genannten
@@ -1285,6 +1331,7 @@ eines jeden Jahres für das darauffolgende Jahr bekannt.
 
 
 ### § 39 Beitragsberechnung für versicherungspflichtige landwirtschaftliche Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004823311)
 
 (1) Bei versicherungspflichtigen landwirtschaftlichen Unternehmern
 werden, soweit nachfolgend nichts Abweichendes bestimmt ist, der
@@ -1356,6 +1403,7 @@ hätte.
 
 
 ### § 40 Beitragsberechnung bei Einkommen aus Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE004921126)
 
 (1) Die Beiträge nach § 39 Absatz 1 Nr. 1 werden nach Beitragsklassen
 festgesetzt. Die Satzung bestimmt die Beitragsklassen für die
@@ -1447,6 +1495,7 @@ dann aufzuheben, wenn
 
 
 ### § 41 Auskunftspflicht des Beitragspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005000326)
 
 Macht der Beitragspflichtige trotz Aufforderung der Krankenkasse die
 für die Festsetzung des außerland- und außerforstwirtschaftlichen
@@ -1457,6 +1506,7 @@ außerforstwirtschaftlichen Arbeitseinkommen festgesetzt werden.
 
 
 ### § 42 Beitragsberechnung für versicherungspflichtige mitarbeitende Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005110377)
 
 (1) Der Beitrag für versicherungspflichtige mitarbeitende
 Familienangehörige aus ihrer Beschäftigung im landwirtschaftlichen
@@ -1493,6 +1543,7 @@ Schadensersatz nicht ausgeschlossen oder gemindert.
 
 
 ### § 43 Beitragsberechnung für besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005201308)
 
 (1) Die Beitragsberechnung bei Wehr- und Zivildienst richtet sich nach
 § 244 des Fünften Buches Sozialgesetzbuch.
@@ -1506,6 +1557,7 @@ gilt § 46 entsprechend.
 
 
 ### § 44 Beitragsberechnung für Antragsteller
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005303308)
 
 (1) Der Beitrag für nach § 23 versicherte Personen wird durch die
 Satzung festgesetzt. Dies gilt auch für Personen, bei denen die
@@ -1542,6 +1594,7 @@ Abs. 1
 
 
 ### § 45 Beitragsberechnung für Altenteiler
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005407126)
 
 (1) Bei den nach § 2 Abs. 1 Nr. 4 oder 5 Versicherungspflichtigen
 werden der Beitragsbemessung in folgender Reihenfolge zugrunde gelegt
@@ -1594,6 +1647,7 @@ Absatz 1 Satz 1 Nummer 3 gilt § 39 Absatz 2 Satz 5 entsprechend.
 
 
 ### § 46 Beitragsberechnung für freiwillige Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005505119)
 
 (1) Für freiwillige Mitglieder wird die Beitragsbemessung durch die
 Satzung geregelt; § 240 des Fünften Buches Sozialgesetzbuch ist mit
@@ -1608,6 +1662,7 @@ Buches Sozialgesetzbuch.
 
 
 ### § 47 Tragung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005601308)
 
 (1) Vorbehaltlich des § 48 tragen versicherungspflichtige und
 freiwillige Mitglieder sowie die in § 23 Abs. 1 genannten
@@ -1619,6 +1674,7 @@ Rentenversicherung zu tragenden Beiträge allein.
 
 
 ### § 48 Tragung der Beiträge durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005720126)
 
 (1) Die landwirtschaftlichen Unternehmer tragen die Beiträge nach § 42
 Abs. 1 für die versicherungspflichtigen mitarbeitenden
@@ -1655,6 +1711,7 @@ zur Prüfung der Beitragszahlung berechtigt.
 
 
 ### § 48a Tragung der Beiträge bei Bezug von Pflegeunterstützungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE008300119)
 
 (1) Für versicherungspflichtige mitarbeitende Familienangehörige, die
 Pflegeunterstützungsgeld nach § 44a Absatz 3 des Elften Buches
@@ -1671,6 +1728,7 @@ Festsetzungsstelle für die Beihilfe des Pflegebedürftigen.
 
 
 ### § 49 Zahlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005804126)
 
 (1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
@@ -1686,6 +1744,7 @@ Festsetzungsstelle für die Beihilfe gezahlt.
 
 
 ### § 50 Beitragszahlung aus der Rente und aus Versorgungsbezügen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE005909124)
 
 (1) Beiträge, die Versicherungspflichtige aus ihrer Rente nach § 228
 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch zu tragen haben,
@@ -1702,12 +1761,14 @@ Sozialgesetzbuch gilt.
 
 
 ### § 50a Ermäßigung und Erlass von Beitragsschulden und Säumniszuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE008100377)
 
 Für die nach § 2 Absatz 1 Nummer 7 Versicherungspflichtigen gilt §
 256a des Fünften Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 51 Verwendung und Verwaltung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006006126)
 
 (1) Für die Verwendung und Verwaltung der Mittel gelten die §§ 260 bis
 263a des Fünften Buches Sozialgesetzbuch entsprechend, soweit
@@ -1730,6 +1791,7 @@ in § 2 Abs. 1 Nr. 4 und 5 genannten Personen außer Ansatz.
 
 
 ### § 51a Übernahme der Krankenbehandlung gegen Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007704308)
 
 Für die Übernahme der Krankenbehandlung für nicht
 Versicherungspflichtige gegen Kostenerstattung ist § 264 Abs. 2 bis 7
@@ -1737,11 +1799,13 @@ des Fünften Buches Sozialgesetzbuch entsprechend anzuwenden.
 
 
 ### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006101308)
 
 —
 
 
 ### § 53 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006205119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft kann im
 Einvernehmen mit dem Bundesministerium für Gesundheit und dem
@@ -1760,11 +1824,13 @@ des Bundesrates Näheres bestimmen über
 
 
 ### § 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006303308)
 
 —
 
 
 ### § 55 Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006401308)
 
 Für die Prüfung der Geschäfts-, Rechnungs- und Betriebsführung der
 landwirtschaftlichen Krankenkasse gilt § 274 des Fünften Buches
@@ -1772,10 +1838,12 @@ Sozialgesetzbuch entsprechend.
 
 
 ## Siebter Abschnitt - Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000701308)
 
 
 
 ### § 56 Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz; Telematikinfrastruktur, Förderung von offenen Standards und Schnittstellen; Nationales Gesundheitsportal
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006504126)
 
 Für den Medizinischen Dienst, die Versicherungs- und Leistungsdaten
 sowie den Datenschutz und die Datentransparenz sind das Neunte und
@@ -1791,10 +1859,12 @@ entsprechend anzuwenden.
 
 
 ## Achter Abschnitt - Straf- und Bußgeldvorschriften, Anwendung sonstiger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000801308)
 
 
 
 ### § 57 Straf- und Bußgeldvorschriften, Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006606126)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 56 Satz 3 in Verbindung mit § 352, § 356
@@ -1877,15 +1947,18 @@ Ordnungswidrigkeiten gilt § 396 des Fünften Buches Sozialgesetzbuch.
 
 
 ### § 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006706308)
 
 —
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNG000900326)
 
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006803308)
 
 (1) Eine Befreiung nach den §§ 4 und 94 Abs. 1 des Gesetzes über die
 Krankenversicherung der Landwirte in der bis zum 31. Dezember 1988
@@ -1913,6 +1986,7 @@ nach § 257 des Fünften Buches Sozialgesetzbuch besteht.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE006901308)
 
 (1) Die in § 2 Abs. 1 Nr. 1 bis 3 genannten Versicherten, die im Monat
 Dezember 1982 wegen des Bezugs einer Rente der gesetzlichen
@@ -1935,6 +2009,7 @@ landwirtschaftlichen Krankenkassen erfüllt waren.
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007002308)
 
 (1) Die auf die landwirtschaftlichen Krankenkassen übergegangene
 Verpflichtung zur Versorgung der ehemaligen dienstordnungsmäßig
@@ -1984,6 +2059,7 @@ Absatz 2 und Absatz 3 Satz 2 und 3 gelten.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007100326)
 
 Rechtsverordnungen und allgemeine Verwaltungsvorschriften, die auf
 Grund von Vorschriften erlassen worden sind, auf die dieses Gesetz
@@ -1991,6 +2067,7 @@ verweist, gelten auch für die Krankenversicherung der Landwirte.
 
 
 ### § 63 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007204308)
 
 (1) Personen, deren Versicherungspflicht aufgrund dieses Gesetzes vom
 1\. Januar 1995 an entfällt, können der Versicherung beitreten. Der
@@ -2014,6 +2091,7 @@ widerrufen werden.
 
 
 ### § 64 Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007501308)
 
 (1) Die landwirtschaftliche Krankenkasse hat bis zum 31. Oktober 2013
 die ab dem 1. Januar 2014 geltenden Beitragsklassen nach den §§ 40 und
@@ -2066,6 +2144,7 @@ Absatz 2 zu gestalten.
 
 
 ### § 65 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE007604124)
 
 Für Personen, die am 30. Juni 2020 nach § 2 Absatz 1 Nummer 5
 versicherungspflichtig sind, findet § 2 Absatz 1 Nummer 5 weiterhin in
@@ -2073,6 +2152,7 @@ der bis zum 30. Juni 2020 geltenden Fassung Anwendung.
 
 
 ### § 66 Bestandsbereinigung bei der freiwilligen Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/kvlg_1989/BJNR025570988.html#BJNR025570988BJNE008400126)
 
 (1) Die Krankenkasse hat ihren Mitgliederbestand für den Zeitraum vom
 1\. August 2013 bis zum 1. Januar 2019 nach Maßgabe des Absatzes 2 zu

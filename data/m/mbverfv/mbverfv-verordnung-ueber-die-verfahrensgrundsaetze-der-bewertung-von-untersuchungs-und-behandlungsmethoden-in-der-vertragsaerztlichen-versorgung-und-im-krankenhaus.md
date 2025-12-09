@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000100000)
 
 Auf Grund des § 91b Satz 1 und 2 des Fünften Buches Sozialgesetzbuch –
 Gesetzliche Krankenversicherung –, der durch Artikel 2 Nummer 2 des
@@ -26,6 +27,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000200000)
 
 Diese Verordnung regelt das Nähere zum Verfahren, das der Gemeinsame
 Bundesausschuss bei der Bewertung von Untersuchungs- und
@@ -40,6 +42,7 @@ unberührt.
 
 
 ## § 2 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000300000)
 
 Ein Antrag nach § 135 Absatz 1 Satz 1 des Fünften Buches
 Sozialgesetzbuch oder nach § 137c Absatz 1 Satz 1 des Fünften Buches
@@ -51,6 +54,7 @@ oder nach § 137c Absatz 1 Satz 5 des Fünften Buches Sozialgesetzbuch.
 
 
 ## § 3 Ankündigung der Bewertung und Einholung von Ersteinschätzungen
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000400000)
 
 (1) Nach der Annahme eines Antrags macht der Gemeinsame
 Bundesausschuss unverzüglich bekannt, welche Untersuchungs- oder
@@ -100,6 +104,7 @@ dokumentieren.
 
 
 ## § 4 Ermittlung und Auswertung der vorliegenden Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000500000)
 
 (1) Für die Bewertung einer Untersuchungs- oder Behandlungsmethode
 nach § 135 Absatz 1 des Fünften Buches Sozialgesetzbuch oder § 137c
@@ -205,6 +210,7 @@ Nachweise einer höheren Evidenzstufe getroffen werden kann.
 
 
 ## § 5 Bewertung und Abwägungsprozess zur Erstellung eines Beschlussentwurfs
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000600000)
 
 Der Gemeinsame Bundesausschuss erstellt in einem umfassenden
 Abwägungsprozess einen Beschlussentwurf über die Bewertung der
@@ -215,6 +221,7 @@ vorliegenden Erkenntnisse erstellt werden.
 
 
 ## § 6 Stellungnahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000700000)
 
 (1) Die Frist zur Abgabe einer schriftlichen oder elektronischen
 Stellungnahme durch die Stellungnahmeberechtigen zu dem
@@ -241,6 +248,7 @@ einzubeziehen.
 
 
 ## § 7 Abschließende Gesamtbewertung und Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000800000)
 
 (1) Die abschließende Gesamtbewertung der Methode erfolgt aufgrund der
 nach Abschluss des Stellungnahmeverfahrens getroffenen abschließenden
@@ -325,6 +333,7 @@ vorliegen werden.
 
 
 ## § 8 Tragende Gründe
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE000900000)
 
 (1) Der Gemeinsame Bundesausschuss hat die tragenden Gründe für einen
 Beschluss nach § 7 Absatz 2 oder Absatz 3 auf seiner Internetseite zu
@@ -372,6 +381,7 @@ Methode zu behandelnden Erkrankung.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mbverfv/BJNR137900020.html#BJNR137900020BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

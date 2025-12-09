@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Art 1 - Errichtung eines Bundesamtes für Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNG000100308)
 
 
 
 ### § 1 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNE000202116)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
 und nukleare Sicherheit wird ein "Bundesamt für Strahlenschutz" als
@@ -33,6 +35,7 @@ selbständige Bundesoberbehörde errichtet.
 
 
 ### § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNE000306116)
 
 (1) Das Bundesamt für Strahlenschutz erledigt Verwaltungsaufgaben des
 Bundes auf den Gebieten des Strahlenschutzes einschließlich des
@@ -77,6 +80,7 @@ Erfüllung der Aufgabe nach Satz 1 erforderlich ist.
 
 
 ### § 3 Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNE000402116)
 
 Soweit das Bundesamt für Strahlenschutz Aufgaben aus einem anderen
 Geschäftsbereich als dem des Bundesministeriums für Umwelt,
@@ -85,20 +89,24 @@ fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
 
 ## Art 2 und 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNG000500308)
 
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNE000504116)
 
 
 
 ## Art 4 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNG000600308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 5 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bastrlschg/BJNR018300989.html#BJNR018300989BJNG000700308)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

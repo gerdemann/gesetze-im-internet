@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 6a Ausgleichspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_g/BJNR002250951.html#BJNR002250951BJNE000704305)
 
 (1) Der Eisenbahn ist für die Beförderung von Personen mit
 Zeitfahrausweisen des Ausbildungsverkehrs auf Antrag ein Ausgleich
@@ -72,6 +73,7 @@ Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L
 
 
 ## § 6c Ausgleichspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/_g/BJNR002250951.html#BJNR002250951BJNE000900325)
 
 Den Ausgleich nach den §§ 6a und 6b Nr. 1 bis 3 gewährt das Land, in
 dessen Gebiet der Verkehr betrieben wird; den Ausgleich nach § 6b Nr.
@@ -81,6 +83,7 @@ zugrunde gelegt, der in dem jeweiligen Land erbracht wird.
 
 
 ## § 6e Ermittlung des Ausgleichs, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/_g/BJNR002250951.html#BJNR002250951BJNE001103308)
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu
@@ -94,6 +97,7 @@ und wie die Erträge und die Personen-Kilometer zu ermitteln sind.
 
 
 ## § 6f Prüfungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/_g/BJNR002250951.html#BJNR002250951BJNE001200325)
 
 Die nach § 6a Abs. 2 zur Festlegung der Kostensätze befugte Behörde
 kann zur Vorbereitung ihrer Entscheidungen durch Beauftragte die
@@ -121,6 +125,7 @@ leisten.
 
 
 ## § 6g Sonderregelung
+[Direktlink](https://www.gesetze-im-internet.de/_g/BJNR002250951.html#BJNR002250951BJNE001300325)
 
 Die Vorschriften der §§ 6a bis 6f finden auf die Deutsche Bundesbahn
 sowie auf Eisenbahnen, die nicht dem öffentlichen Verkehr dienen,
@@ -128,6 +133,7 @@ keine Anwendung.
 
 
 ## § 6h Ersetzung bundesrechtlicher Vorschriften durch Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/_g/BJNR002250951.html#BJNR002250951BJNE004900308)
 
 Die Länder können mit Wirkung ab dem 1. Januar 2007 die Vorschriften
 der §§ 6a, 6c, 6e und 6f sowie die Vorschriften, zu deren Erlass § 6e

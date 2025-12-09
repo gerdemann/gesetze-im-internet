@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/BJNR177100012.html#BJNR177100012BJNE000100000)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
 der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
@@ -46,11 +47,13 @@ Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/BJNR177100012.html#BJNR177100012BJNE000200000)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1 Grundgehaltssätze
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/BJNR177100012.html#BJNR177100012BJNE000300000)
 
 (Fundstelle: BGBl. I 2012, 1772 - 1774)
 
@@ -993,6 +996,7 @@ Gültig ab 1. März 2012
 [^f777573_01_BJNR177100012BJNE000300000]: 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/BJNR177100012.html#BJNR177100012BJNE000400000)
 
 (Fundstelle: BGBl. I 2012, 1775 - 1789)
 
@@ -6655,6 +6659,7 @@ Absatz 1 Satz 2
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/BJNR177100012.html#BJNR177100012BJNE000500000)
 
 (Fundstelle: BGBl. I 2012, 1790 - 1792)
 

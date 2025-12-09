@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Technische Bewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000102116)
 
 (1) Das Deutsche Institut für Bautechnik in Berlin ist Technische
 Bewertungsstelle im Sinne von Artikel 29 Absatz 1 Unterabsatz 1 der
@@ -50,6 +51,7 @@ Bauproduktenverordnung und die Unterrichtungen nach Artikel 29 Absatz
 
 
 ## § 2 Widerruf der Benennung als Technische Bewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000202116)
 
 (1) Gelangt der Verwaltungsrat des Deutschen Instituts für Bautechnik
 bei der nach § 1 Absatz 3 vorzunehmenden Überwachung und Begutachtung
@@ -69,6 +71,7 @@ erfüllt sind.
 
 
 ## § 3 Notifizierende Behörde und notifizierte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000302116)
 
 (1) Das Deutsche Institut für Bautechnik ist notifizierende Behörde im
 Sinne von Artikel 40 Absatz 1 der EU-Bauproduktenverordnung. Es nimmt
@@ -89,6 +92,7 @@ Bauproduktenverordnung.
 
 
 ## § 4 Antrag auf Notifizierung
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000400000)
 
 Dem Antrag auf Notifizierung nach Artikel 47 Absatz 1 der EU-
 Bauproduktenverordnung ist die in Artikel 47 Absatz 2 genannte
@@ -97,10 +101,12 @@ beizufügen.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000503116)
 
 
 
 ## § 6 Sprache
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000600000)
 
 Für Artikel 7 Absatz 4, Artikel 11 Absatz 6, Artikel 13 Absatz 4 und
 Artikel 14 Absatz 2 der EU-Bauproduktenverordnung wird Deutsch als die
@@ -111,6 +117,7 @@ die deutsche Sprache verwendet wird.
 
 
 ## § 7 Rechtsverordnungen zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000700000)
 
 (1) Die Bundesregierung kann zur Umsetzung oder Durchführung von
 Rechtsakten der Europäischen Union, die Regelungen über das
@@ -144,6 +151,7 @@ werden ermächtigt, durch Rechtsverordnungen Folgendes zu regeln:
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Rechtsverordnung nach § 7 Absatz 1 oder einer vollziehbaren Anordnung
@@ -286,6 +294,7 @@ einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
 ## § 9 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baupg_2013/BJNR245000012.html#BJNR245000012BJNE000900000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 8 Absatz 2 Nummer 2 Buchstabe a, Nummer 5, 9,

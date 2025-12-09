@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ustzustv/BJNR381400001.html#BJNR381400001BJNE000116123)
 
 (1) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz
 2 der Abgabenordnung sind folgende Finanzämter örtlich zuständig:
@@ -220,6 +221,7 @@ vornehmen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ustzustv/BJNR381400001.html#BJNR381400001BJNE000200305)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000100311)
 
 Auf Grund des § 5 Abs. 2 des Finanzverwaltungsgesetzes in der Fassung
 des Artikels 5 des Finanzanpassungsgesetzes vom 30. August 1971 (BGBl.
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Abrechnung der Steuererstattungen, der Steuervergütungen und der anläßlich der Vergütung von Körperschaftsteuer vereinnahmten Kapitalertragsteuer zwischen Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000202140)
 
 (1) Zwischen Bund und Ländern sind vom Bundeszentralamt für Steuern
 monatlich abzurechnen
@@ -58,6 +60,7 @@ Körperschaftsteuer vereinnahmten Kapitalertragsteuer fest.
 
 
 ## § 2 Aufteilung der Länderanteile an den Steuererstattungen, den Steuervergütungen und der anläßlich der Vergütung von Körperschaftsteuer vereinnahmten Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000303140)
 
 (1) Maßgebendes Aufkommen für die Aufteilung der Anteile der Länder,
 einschließlich der Gemeinden, an den vom Bundeszentralamt für Steuern
@@ -82,6 +85,7 @@ Vorjahres vorliegen.
 
 
 ## § 3 Vom Bundeszentralamt für Steuern durchgeführte Erstattungen von Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000401308)
 
 Die vom Bundeszentralamt für Steuern durchgeführten Erstattungen von
 Umsatzsteuer werden aus dem Aufkommen an der von Bundesfinanzbehörden
@@ -90,17 +94,20 @@ geleistet.
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000500311)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 23 des Finanzverwaltungsgesetzes auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000600311)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fvg_5abs2dv_1977/BJNR016780977.html#BJNR016780977BJNE000700311)
 
 Der Bundesminister der Finanzen
 

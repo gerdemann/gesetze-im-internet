@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000100314)
 
 Auf Grund des § 16 Abs. 2 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes vom 25. Juli 1991 (BGBl. I S. 1606,
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesminister der Finanzen:
 
 
 ## § 1 Erstattungsfähige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000204119)
 
 (1) Aufwendungen im Sinne des § 15 Abs. 1 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes sind
@@ -75,6 +77,7 @@ nach den §§ 9 und 11 dieses Gesetzes.
 
 
 ## § 2 Berechnung der Erstattungsbeträge bei Renten und sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000306126)
 
 (1) Erstattungsbetrag ist bei Renten, die nach den Vorschriften des
 Sechsten Buches Sozialgesetzbuch festgestellt sind, der aus
@@ -160,6 +163,7 @@ Juli 2024 bis zum 30. November 2025 ausgezahlten Rentenzuschläge.
 
 
 ## § 3 Erstattung der Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000404119)
 
 Der Deutschen Rentenversicherung Bund werden zur Durchführung des
 Anspruchs- und Anwartschaftsüberführungsgesetzes erforderliche
@@ -171,6 +175,7 @@ im Jahre 2021, ist der Erstattungsbetrag auf seine Angemessenheit zu
 
 
 ## § 4 Erfassung der Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000503126)
 
 (1) Die Aufwendungen der Deutschen Rentenversicherung Bund für
 Leistungen nach dem Anspruchs- und Anwartschaftsüberführungsgesetz
@@ -211,6 +216,7 @@ in dem Verhältnis auf, in dem die jeweilige Anzahl der Zahlfälle aus
 
 
 ## § 5 Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000603126)
 
 Auf die jährlichen Erstattungsbeträge nach den §§ 2 und 3 leistet der
 Bund jeweils am Auszahlungstag der Rentenleistung in das Inland
@@ -219,6 +225,7 @@ Vorschüsse fest.
 
 
 ## § 6 Durchführung des Erstattungsverfahrens und der Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000701126)
 
 (1) Das Erstattungsverfahren wird für das Kalenderjahr durchgeführt.
 Dabei sind die Aufwendungen zu berücksichtigen, die rechnungsmäßig dem
@@ -230,17 +237,20 @@ gegenüber und führt die Schlußabrechnung durch.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000800314)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE000900314)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Absatz 6)
 
 ## Anlage Anteilswerte nach § 2 Absatz 6
+[Direktlink](https://www.gesetze-im-internet.de/aa_gerstv/BJNR009990992.html#BJNR009990992BJNE001000126)
 
 (Fundstelle: BGBl. 2025 I Nr. 65, S. 2)
 

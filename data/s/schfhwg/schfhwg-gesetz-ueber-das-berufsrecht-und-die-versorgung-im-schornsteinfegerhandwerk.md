@@ -20,12 +20,15 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Berufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000200000)
 
 
 #### § 1 Eigentümerpflichten; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000202124)
 
 (1) Jeder Eigentümer eines Grundstücks oder eines Raums ist
 verpflichtet, fristgerecht Folgendes zu veranlassen:
@@ -113,6 +116,7 @@ der Absätze 3 und 4 eingeschränkt.
 
 
 #### § 2 Schornsteinfeger und Schornsteinfegerinnen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000301124)
 
 (1) Die nach den Rechtsverordnungen nach § 1 Abs. 1 Satz 2 und 3 oder
 einer auf Grund des Bundes-Immissionsschutzgesetzes für kleine und
@@ -153,6 +157,7 @@ verpflichtet,
 
 
 #### § 3 Schornsteinfegerregister
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000403123)
 
 (1) Um den Eigentümern, den bevollmächtigten Bezirksschornsteinfegern
 und der zuständigen Behörde die Feststellung zu erleichtern, wer die
@@ -219,6 +224,7 @@ mitzuteilen. Die Daten sind unverzüglich zu löschen, wenn
 
 
 #### § 4 Nachweise; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000503128)
 
 (1) Jeder Eigentümer eines Grundstücks oder eines Raums hat die
 Durchführung der im Feuerstättenbescheid festgesetzten Arbeiten
@@ -261,6 +267,7 @@ des Kehrbuchs nach § 19 vorgesehenen Daten entnehmen kann.
 
 
 #### § 5 Mängel
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000601124)
 
 (1) Mängel an kehr- und überprüfungspflichtigen Anlagen, die nicht
 innerhalb des im Feuerstättenbescheid für die Durchführung der
@@ -281,6 +288,7 @@ Bezirksschornsteinfeger zu melden.
 
 
 #### § 6 Erbbaurecht und Gebäudeeigentum
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000700000)
 
 Für Erbbauberechtigte sowie für Eigentümer von Gebäuden nach Artikel
 233 §§ 2b, 4 und 8 des Einführungsgesetzes zum Bürgerlichen
@@ -289,9 +297,11 @@ Vorschriften dieses Gesetzes entsprechend anzuwenden.
 
 
 ### Kapitel 2 - Bezirke, bevollmächtigte Bezirksschornsteinfeger
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000300000)
 
 
 #### § 7 Bezirke
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000801124)
 
 Für die Überprüfung der Einhaltung der Pflichten nach § 1 Abs. 1 und 2
 richtet die zuständige Behörde Bezirke, insbesondere unter
@@ -299,6 +309,7 @@ Berücksichtigung der Betriebs- und Brandsicherheit, ein.
 
 
 #### § 8 Bevollmächtigte Bezirksschornsteinfeger
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE000902124)
 
 (1) Bevollmächtigter Bezirksschornsteinfeger ist, wer von der
 zuständigen Behörde für einen Bezirk bestellt ist.
@@ -311,6 +322,7 @@ Rolleneintragungspflicht nach der Handwerksordnung.
 
 
 #### § 9 Öffentliche Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001003124)
 
 Die zuständige Behörde hat die Bestellung zum bevollmächtigten
 Bezirksschornsteinfeger öffentlich auszuschreiben. Sie kann
@@ -328,6 +340,7 @@ die zuständige Behörde dem ausgewählten Bewerber einen Bezirk zu.
 
 
 #### § 9a Bewerber und Bewerberinnen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006001128)
 
 (1) Bewerber und Bewerberinnen, die in ihrer Person die
 handwerksrechtlichen Voraussetzungen zur selbstständigen Ausübung des
@@ -417,6 +430,7 @@ beanstanden ist.
 
 
 #### § 9b Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006100124)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das
 Nähere über das Ausschreibungsverfahren und die Auswahl der Bewerber
@@ -425,6 +439,7 @@ Ermächtigung auf die zuständigen obersten Landesbehörden übertragen.
 
 
 #### § 10 Bestellung und kommissarische Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001103128)
 
 (1) Die Bestellung des bevollmächtigten Bezirksschornsteinfegers ist
 auf sieben Jahre befristet, endet jedoch spätestens mit Ablauf des
@@ -458,6 +473,7 @@ aufschiebende Wirkung.
 
 
 #### § 11 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001203128)
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen
 Behörde unverzüglich nach seiner Bestellung mindestens einen
@@ -517,6 +533,7 @@ erforderlich sind. Nach Beendigung der Vertretung hat der Vertreter
 
 
 #### § 11a Verwaltung eines unbesetzten Bezirks
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006200124)
 
 (1) Wenn ein Bezirk unbesetzt ist, ist § 11 Absatz 3 bis 5
 entsprechend anzuwenden.
@@ -527,6 +544,7 @@ Todesfall unter Angabe des Sterbedatums unverzüglich anzuzeigen.
 
 
 #### § 11b Vertretung durch Betriebsangehörigen für die Feuerstättenschau
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006800128)
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger kann bei der
 zuständigen Behörde schriftlich oder elektronisch beantragen, einen
@@ -584,6 +602,7 @@ einzeln und unabhängig voneinander antragsberechtigt sind.
 
 
 #### § 12 Aufhebung der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001304128)
 
 (1) Unbeschadet der Regelungen der Verwaltungsverfahrensgesetze der
 Länder über Rücknahme und Widerruf eines Verwaltungsakts ist die
@@ -627,15 +646,18 @@ Führung des Schornsteinfegerregisters mitzuteilen.
 
 
 #### § 12a Haftungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006301128)
 
 Eine Haftung des Staates an Stelle des bevollmächtigten
 Bezirksschornsteinfegers oder von dessen Vertreter besteht nicht.
 
 
 ### Kapitel 3 - Aufgaben, Befugnisse und Pflichten der bevollmächtigten Bezirksschornsteinfeger
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000401124)
 
 
 #### § 13 Allgemeine Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001402128)
 
 Die bevollmächtigten Bezirksschornsteinfeger kontrollieren die
 Einhaltung der Pflichten der Eigentümer nach § 1 Abs. 1 und 2 und
@@ -643,6 +665,7 @@ führen die Kehrbücher nach Maßgabe des § 19 Absatz 2.
 
 
 #### § 14 Feuerstättenschau
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001503128)
 
 (1) Jeder bevollmächtigte Bezirksschornsteinfeger hat zweimal während
 des Zeitraums seiner Bestellung sämtliche Anlagen in den Gebäuden
@@ -683,6 +706,7 @@ entsprechend anzuwenden.
 
 
 #### § 14a Feuerstättenbescheid
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006401128)
 
 (1) Unverzüglich nach der Feuerstättenschau hat der bevollmächtigte
 Bezirksschornsteinfeger gegenüber dem Eigentümer einen
@@ -735,6 +759,7 @@ für und gegen den Rechtsnachfolger.
 
 
 #### § 14b Gegenstands- und Streitwert
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006500124)
 
 In Widerspruchsverfahren oder in verwaltungsgerichtlichen Verfahren,
 die einen Feuerstättenbescheid zum Gegenstand haben, betragen der
@@ -742,6 +767,7 @@ Gegenstandswert und der Streitwert jeweils 500 Euro.
 
 
 #### § 15 Anlassbezogene Überprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001602124)
 
 Die bevollmächtigten Bezirksschornsteinfeger haben die Befugnis zur
 Durchführung von Überprüfungen in ihrem jeweiligen Bezirk, wenn
@@ -764,6 +790,7 @@ entsprechend.
 
 
 #### § 16 Weitere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001702124)
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger stellt in seinem
 Bezirk Bescheinigungen über die Tauglichkeit und sichere Benutzbarkeit
@@ -776,10 +803,12 @@ Hilfe bei der Brandbekämpfung in seinem Bezirk.
 
 
 #### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001802124)
 
 
 
 #### § 18 Berufspflichten des bevollmächtigten Bezirksschornsteinfegers
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE001903128)
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat seine Aufgaben
 unparteiisch zu erfüllen.
@@ -814,6 +843,7 @@ sofern bestellt, regelmäßig zu überwachen.
 
 
 #### § 19 Führung des Kehrbuchs
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002005128)
 
 (1) In das Kehrbuch sind die folgenden Daten einzutragen:
 
@@ -978,6 +1008,7 @@ Die Verordnung (EU) 2016/679 bleibt unberührt.
 
 
 #### § 19a Mitteilungspflichten von Verwaltern und Wohnungseigentümern
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006601128)
 
 Ein Verwalter im Sinne des Wohnungseigentumsgesetzes hat dem
 bevollmächtigten Bezirksschornsteinfeger auf Anforderung unverzüglich
@@ -989,6 +1020,7 @@ Anforderung unverzüglich mitzuteilen.
 
 
 #### § 20 Kosten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002104128)
 
 (1) Der Eigentümer hat für Tätigkeiten des bevollmächtigten
 Bezirksschornsteinfegers nach § 14 Absatz 1 bis 3, § 14a, § 15 Satz 1,
@@ -1031,6 +1063,7 @@ der Länder mit der jeweiligen Leistung verbundenen Kosten. § 9 Absatz
 
 
 #### § 21 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002203123)
 
 (1) Die bevollmächtigten Bezirksschornsteinfeger unterstehen der
 Aufsicht der zuständigen Behörde. Die zuständige Behörde kann die
@@ -1061,6 +1094,7 @@ Warnungsgeld von bis zu zwanzigtausend Euro verhängen.
 
 
 #### § 22 Verhältnis zu Bestimmungen des Immissionsschutzrechts
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002300000)
 
 Die Befugnisse der jeweils zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes oder der nach diesem Gesetz erlassenen
@@ -1069,15 +1103,18 @@ bleiben von den Bestimmungen dieses Gesetzes unberührt.
 
 
 #### § 23 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002400000)
 
 Die für die Aufgaben nach diesem Gesetz zuständigen Behörden werden
 durch Landesrecht bestimmt.
 
 
 ### Kapitel 4 - Bußgeldvorschriften, Ersatzvornahme
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000500000)
 
 
 #### § 24 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002502128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1135,6 +1172,7 @@ Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 #### § 25 Nichterfüllung, Zweitbescheid
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002602128)
 
 (1) Der bevollmächtigte Bezirksschornsteinfeger hat der zuständigen
 Behörde unverzüglich zu melden, wenn
@@ -1165,6 +1203,7 @@ aufschiebende Wirkung.
 
 
 #### § 26 Ersatzvornahme
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002702128)
 
 (1) Wird die Verpflichtung, die in dem Zweitbescheid nach § 25 Absatz
 2 Satz 1 festgesetzten Schornsteinfegerarbeiten durchführen zu lassen,
@@ -1184,12 +1223,15 @@ können sie im Verwaltungszwangsverfahren beigetrieben werden.
 
 
 ## Teil 2 - Versorgung der bevollmächtigten Bezirksschornsteinfeger
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000601360)
 
 
 ### Kapitel 1 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000701360)
 
 
 #### § 27 Schließung der Zusatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002802360)
 
 (1) Die Zusatzversorgung der bevollmächtigten Bezirksschornsteinfeger
 (Zusatzversorgung) wird geschlossen; ab dem 1. Januar 2013 werden
@@ -1218,6 +1260,7 @@ sich bei einer Veränderung nach Satz 1 ergeben hätte.
 
 
 #### § 28 Träger der Zusatzversorgung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE002902118)
 
 (1) Die bisherige Versorgungsanstalt der deutschen
 Bezirksschornsteinfegermeister wird zur Versorgungsanstalt der
@@ -1233,6 +1276,7 @@ Stelle zuweisen.
 
 
 #### § 29 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE005900118)
 
 (1) Die Geschäftsführung der Versorgungsanstalt obliegt der
 Bayerischen Versorgungskammer. Sie vertritt die Versorgungsanstalt
@@ -1284,6 +1328,7 @@ der Geschäftsführung gehören insbesondere
 
 
 #### § 30 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003102116)
 
 Die Rechts- und Fachaufsicht über die Versorgungsanstalt führt das
 Bundesamt für Soziale Sicherung. § 88 Absatz 1 und 2, § 89 Absatz 1
@@ -1292,9 +1337,11 @@ entsprechend anzuwenden.
 
 
 ### Kapitel 2 - Allgemeine Verfahrens- und Anspruchsregelungen; Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000801360)
 
 
 #### § 31 Versorgungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003202124)
 
 (1) Die Versorgungsempfänger und Versorgungsberechtigten sind
 verpflichtet, der Versorgungsanstalt auf Verlangen unverzüglich alle
@@ -1320,6 +1367,7 @@ anzuwenden.
 
 
 #### § 32 Verpfändung, Übertragung und Aufrechnung von Versorgungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003301360)
 
 (1) Versorgungsansprüche können nicht verpfändet und nur zur Erfüllung
 gesetzlicher Unterhaltsansprüche auf Dritte übertragen werden.
@@ -1329,6 +1377,7 @@ Versorgungsempfängern aufrechnen.
 
 
 #### § 33 Übergang von Schadenersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003401360)
 
 Wird ein Versorgungsberechtigter oder ein Versorgungsempfänger
 körperlich verletzt oder getötet, so geht ein gesetzlicher
@@ -1345,6 +1394,7 @@ geltend gemacht werden.
 
 
 #### § 34 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003501360)
 
 Ansprüche gegen die Versorgungsanstalt nach diesem Gesetz sowie
 Ansprüche der Versorgungsanstalt auf Beiträge, Zinsen und sonstige
@@ -1354,6 +1404,7 @@ kann.
 
 
 #### § 35 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003601360)
 
 Für alle Streitigkeiten, die Angelegenheiten der Zusatzversorgung der
 bevollmächtigten Bezirksschornsteinfeger durch die Versorgungsanstalt
@@ -1361,6 +1412,7 @@ betreffen, ist der Verwaltungsrechtsweg gegeben.
 
 
 #### § 36 Mittel zur Durchführung der Zusatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003701360)
 
 (1) Die Mittel zur Durchführung der Zusatzversorgung werden
 aufgebracht aus
@@ -1385,9 +1437,11 @@ Der Zuschuss des Bundes wird in bedarfsgerechten Raten zugewiesen.
 
 
 ### Kapitel 3 - Versorgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG000901360)
 
 
 #### § 37 Ruhegeld
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003801360)
 
 (1) Die erworbenen Anwartschaften der Versorgungsberechtigten auf
 Ruhegeld werden zum Stichtag 31. Dezember 2012 auf Grundlage der
@@ -1465,6 +1519,7 @@ Fassung entsprechend anzuwenden.
 
 
 #### § 38 Ruhegeld bei Berufsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE003901360)
 
 (1) Ein Versorgungsberechtigter erhält auf Antrag Ruhegeld bei
 Berufsunfähigkeit, wenn
@@ -1541,6 +1596,7 @@ Im Übrigen ist § 37 Absatz 6 entsprechend anzuwenden.
 
 
 #### § 39 Witwen- und Witwergeld
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE004001360)
 
 (1) Ehegatten von verstorbenen Versorgungsempfängern nach § 37 oder §
 38 erhalten Witwen- oder Witwergeld in Höhe von 55 Prozent des
@@ -1573,6 +1629,7 @@ und § 38 Absatz 1 Nummer 2 sind entsprechend anzuwenden.
 
 
 #### § 40 Waisengeld
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE004101360)
 
 (1) Die Kinder von verstorbenen Versorgungsberechtigten oder
 verstorbenen Versorgungsempfängern nach § 37 oder § 38 erhalten
@@ -1600,6 +1657,7 @@ entsprechend anzuwenden, dass an die Stelle des 27. Lebensjahres das
 
 
 #### § 41 Interne Teilung beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE004201360)
 
 (1) Der Ausgleich von Anrechten der Versorgungsanstalt erfolgt in Form
 der internen Teilung nach Maßgabe des Versorgungsausgleichsgesetzes
@@ -1637,13 +1695,16 @@ des Monats, in dem sie verstorben ist. Für Hinterbliebene gelten die
 
 
 ## Teil 3 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNG001101360)
 
 
 ### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE004902128)
 
 
 
 ### § 43 Ruhegeld wegen Versetzung in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE005302124)
 
 Am 31. Dezember 2012 festgestellte Ruhegelder wegen Versetzung in den
 Ruhestand werden vom 1. Januar 2013 an als Ruhegeld bei
@@ -1651,10 +1712,12 @@ Berufsunfähigkeit weitergezahlt.
 
 
 ### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE005403119)
 
 
 
 ### § 45 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schfhwg/BJNR224210008.html#BJNR224210008BJNE006700124)
 
 § 12a ist ab dem 1. Januar 2018 anzuwenden.
 

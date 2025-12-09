@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4espbek_1983/BJNR009360983.html#BJNR009360983BJNE000100314)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -29,11 +30,13 @@ das im Königreich Spanien für gewerbliche Waren eingeführt ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4espbek_1983/BJNR009360983.html#BJNR009360983BJNE000900314)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Prüf- und Gewährzeichen des Königreichs Spanien für gewerbliche Waren
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4espbek_1983/BJNR009360983.html#BJNR009360983BJNE000200314)
 
 (Inhalt: Nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1983, 936)

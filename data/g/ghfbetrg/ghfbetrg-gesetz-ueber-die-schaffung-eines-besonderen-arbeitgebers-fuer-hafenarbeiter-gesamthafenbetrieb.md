@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ghfbetrg/BJNR003520950.html#BJNR003520950BJNE000100303)
 
 (1) Durch schriftliche Vereinbarung von zuständigen
 Arbeitgeberverbänden und Gewerkschaften oder von einzelnen
@@ -41,6 +42,7 @@ vom Hundert der Hafenarbeiter beschäftigt haben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ghfbetrg/BJNR003520950.html#BJNR003520950BJNE000201308)
 
 (1) Der Gesamthafenbetrieb bestimmt nach Maßgabe der geltenden Gesetze
 seine Rechtsform, seine Aufgaben, seine Organe und seine
@@ -58,6 +60,7 @@ Weisungen gebunden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ghfbetrg/BJNR003520950.html#BJNR003520950BJNE000300303)
 
 Werden Beiträge und Umlagen beschlossen, so hat der Gesamthafenbetrieb
 einen Rechtsanspruch auf die festgesetzten Leistungen gegen die

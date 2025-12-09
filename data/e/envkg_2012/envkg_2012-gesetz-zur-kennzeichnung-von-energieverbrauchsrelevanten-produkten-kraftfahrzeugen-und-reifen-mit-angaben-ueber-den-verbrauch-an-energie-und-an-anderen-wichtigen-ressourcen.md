@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNG000100118)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000201118)
 
 (1) Dieses Gesetz ist anzuwenden für die Kennzeichnung von neu in
 Verkehr gebrachten Produkten mit Angaben über den Verbrauch an Energie
@@ -76,6 +78,7 @@ Ressourcen vom Anwendungsbereich dieses Gesetzes erfasst.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000301123)
 
 Im Sinne dieses Gesetzes
 
@@ -352,10 +355,12 @@ Im Sinne dieses Gesetzes
 
 
 ## Abschnitt 2 - Neu in Verkehr gebrachte Produkte
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNG000200118)
 
 
 
 ### § 3 Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000401123)
 
 (1) Ein Produkt darf nur dann angeboten oder ausgestellt werden, wenn
 
@@ -465,6 +470,7 @@ der Pflichten nach Satz 1.
 
 
 ### § 4 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000502128)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 in Rechtsverordnungen mit Zustimmung des Bundesrates Folgendes
@@ -611,6 +617,7 @@ Folgendes regeln:
 
 
 ### § 5 Zuständigkeit für die Marktüberwachung und Zusammenarbeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000600000)
 
 (1) Die Marktüberwachung obliegt vorbehaltlich des Satzes 3 den nach
 Landesrecht zuständigen Behörden. Im Anwendungsbereich der Pkw-
@@ -675,6 +682,7 @@ Union zu beleihen.
 
 
 ### § 6 Marktüberwachungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000701123)
 
 (1) Die Marktüberwachungsbehörden haben für die in einer
 Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union
@@ -709,6 +717,7 @@ elektronischem Weg und gegebenenfalls in anderer Form zur Verfügung.
 
 
 ### § 7 Vermutungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000800000)
 
 Werden die in diesem Gesetz, einer Rechtsverordnung nach § 4 oder
 einer Verordnung der Europäischen Union festgelegten
@@ -718,6 +727,7 @@ vermutet, dass diese den dort genannten Anforderungen entsprechen.
 
 
 ### § 8 Stichprobenkontrollen und Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE000901123)
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Weise und in angemessenem Umfang, ob die
@@ -815,6 +825,7 @@ gegenseitig bei Marktüberwachungsmaßnahmen nach den Absätzen 1 bis 4.
 
 
 ### § 9 Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001000000)
 
 (1) Die Stichprobenkontrollen und Maßnahmen der
 Marktüberwachungsbehörden im Sinne des § 8 Absatz 1 bis 4 sind gegen
@@ -833,6 +844,7 @@ Maßnahme wird daraufhin umgehend überprüft.
 
 
 ### § 10 Betretensrechte, Befugnisse und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001100001)
 
 (1) Die Marktüberwachungsbehörden und ihre Beauftragten sind, soweit
 dies zur Erfüllung ihrer Aufgaben erforderlich ist, befugt, zu den
@@ -890,6 +902,7 @@ genommen werden.
 
 
 ### § 11 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001201118)
 
 (1) Trifft die Marktüberwachungsbehörde Maßnahmen nach § 8 Absatz 4,
 durch die das Anbieten oder Ausstellen eines Produkts untersagt wird,
@@ -941,6 +954,7 @@ elektronische Kommunikationsmittel zu benutzen.
 
 
 ### § 12 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001302123)
 
 (1) Die zuständigen obersten Landesbehörden berichten jährlich in
 nicht personenbezogener Form über die ergriffenen Vollzugsmaßnahmen
@@ -996,6 +1010,7 @@ anderer Form zur Verfügung. Der erste Bericht muss spätestens bis zum
 
 
 ### § 13 Beauftragte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001400000)
 
 Beauftragte Stelle für die Verbrauchskennzeichnung von
 energieverbrauchsrelevanten Produkten im Anwendungsbereich der
@@ -1004,6 +1019,7 @@ Materialforschung und -prüfung.
 
 
 ### § 14 Aufgaben der beauftragten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001501118)
 
 (1) Die Aufgaben der beauftragten Stelle umfassen
 
@@ -1035,6 +1051,7 @@ Richtlinie 2010/30/EU.
 
 
 ### § 15 Bußgeldvorschriften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001602123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1080,10 +1097,12 @@ werden können.
 
 
 ## Abschnitt 3 - Gebrauchte Produkte
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNG000300118)
 
 
 
 ### § 16 Berechtigung zur Verbrauchskennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001701119)
 
 (1) Heizungsinstallateure, Schornsteinfeger gemäß § 2 des
 Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S.
@@ -1105,6 +1124,7 @@ zeitlichen Vorgaben der Anlage 3 vergeben.
 
 
 ### § 17 Verpflichtung zur Verbrauchskennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001801119)
 
 (1) Der zuständige bevollmächtigte Bezirksschornsteinfeger hat im
 Anschluss an die Feuerstättenschau nach § 14 des Schornsteinfeger-
@@ -1148,6 +1168,7 @@ Aufwandsentschädigung für
 
 
 ### § 18 Verfahren zur Verbrauchskennzeichnung und Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE001900118)
 
 (1) Bei der Verbrauchskennzeichnung haben die Berechtigten nach § 16
 Absatz 1 und die Verpflichteten nach § 17 Absatz 1
@@ -1180,6 +1201,7 @@ die Vergabe des Etiketts stichprobenhaft zu überprüfen.
 
 
 ### § 19 Kostenfreiheit und Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE002000118)
 
 (1) Für den Eigentümer und den Mieter eines Heizgerätes nach § 1
 Absatz 2 ist das Anbringen des Etiketts und die Information nach § 18
@@ -1193,18 +1215,21 @@ zu dulden.
 (zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)
 
 ### Anlage 1 Musteretikett für Heizgeräte zur Verwendung bis einschließlich 25. September 2019
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE002100118)
 
 (Fundstelle: BGBl. I 2015, 2197)
 ![bgbl1_2015_j2194-1_0020.jpg](bgbl1_2015_j2194-1_0020.jpg)
 (zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)
 
 ### Anlage 2 Musteretikett für Heizgeräte zur Verwendung ab 26. September 2019
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE002200118)
 
 (Fundstelle: BGBl. I 2015, 2198)
 ![bgbl1_2015_j2194-1_0010.jpg](bgbl1_2015_j2194-1_0010.jpg)
 (zu § 16 Absatz 2)
 
 ### Anlage 3 Zeitliche Vorgabe zur Etikettierung
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE002300118)
 
 (Fundstelle: BGBl. I 2015, 2199)
 Ab den folgenden Jahren kann das Etikett durch die in § 16 Absatz 1
@@ -1286,6 +1311,7 @@ angebracht werden:
 (zu § 3 Absatz 4)
 
 ### Anlage 4 Poster zum Energiekostenvergleich
+[Direktlink](https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html#BJNR107010012BJNE002400123)
 
 (Fundstelle: BGBl. I 3062, 3063)
 

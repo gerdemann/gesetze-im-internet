@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000100308)
 
 (1) Kreditinstitute können den Zinssatz für Kredite, die in der
 Deutschen Demokratischen Republik bis zum 30. Juni 1990 gewährt worden
@@ -66,6 +67,7 @@ ihrer jeweils geltenden Fassung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000200308)
 
 Für die in § 1 Abs. 4 genannten Kredite übernimmt der Bund gegenüber
 den Kreditinstituten die Marktzinsen. § 1 Abs. 1 Satz 3 gilt
@@ -73,6 +75,7 @@ entsprechend.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000300308)
 
 (1) Soweit in dem in Artikel 3 des Einigungsvertrages bezeichneten
 Gebiet aufgrund von Rechtsvorschriften Kredite zur Schaffung und
@@ -91,6 +94,7 @@ Verordnung genannten Rechtsvorschriften gewährt wurden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000400308)
 
 (1) Soweit für die in § 3 bezeichneten Kredite am 30. Juni 1990
 aufgrund von Rechtsvorschrift oder vertraglicher Vereinbarung keine
@@ -109,6 +113,7 @@ Zinszuschüsse vom 3. Oktober 1990 bis zum 30. Juni 1991 auf 2 Prozent.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000500308)
 
 (1) Natürliche Personen, denen in dem in Artikel 3 des
 Einigungsvertrages bezeichneten Gebiet aufgrund von Rechtsvorschriften
@@ -132,6 +137,7 @@ bestehende Kreditverträge eingetreten sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000600308)
 
 (1) Soweit für die in § 5 bezeichneten Kredite am 30. Juni 1990 keine
 Zinsen zu zahlen waren, belaufen sich die Zinszuschüsse in der Zeit
@@ -144,6 +150,7 @@ Höhe von 2 Prozent geleistet.
 
 
 ## § 6a
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000700308)
 
 Die Ersetzung der in den §§ 3 und 5 bezeichneten Kredite durch andere
 Finanzierungsmittel berührt den Anspruch des Kreditnehmers auf
@@ -151,6 +158,7 @@ Zinszuschüsse nicht.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000801307)
 
 (1) Die Zinszuschüsse sind von dem Land zu zahlen, in dem die
 Baumaßnahme durchgeführt wurde. Zinszuschüsse, die von einem Land
@@ -166,6 +174,7 @@ Abs. 1 können nach dem 31. März 1996 nicht mehr gestellt werden.
 
 
 ## § 8 Erlöschen von Zinsen aus an Grundstücken gesicherten Schuldverhältnissen, die vor dem 28. Juni 1948 entstanden sind
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE000900308)
 
 (1) Rückständige Zinsen aus Darlehen und sonstigen Forderungen, die
 durch Grundpfandrechte an in dem in Artikel 3 des Einigungsvertrages
@@ -181,6 +190,7 @@ Grundpfandrechten entsprechend.
 
 
 ## § 9 Erlöschen von Zinsen aus Aufbaukrediten an private Vermieter
+[Direktlink](https://www.gesetze-im-internet.de/kredaag/BJNR113140991.html#BJNR113140991BJNE001000308)
 
 (1) Rückständige Zinsen aus Darlehen, die durch Kreditinstitute der
 ehemaligen Deutschen Demokratischen Republik an private Vermieter von

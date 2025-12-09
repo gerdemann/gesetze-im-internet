@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35abs4bek_1987-05-21/BJNR013530987.html#BJNR013530987BJNE000100305)
 
 Auf Grund des § 35 Abs. 4 des Warenzeichengesetzes in der Fassung der
 Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29), eingefügt durch
@@ -75,6 +76,7 @@ Dienstleistungsmarken besteht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35abs4bek_1987-05-21/BJNR013530987.html#BJNR013530987BJNE000200305)
 
 Der Bundesminister der Justiz
 

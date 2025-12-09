@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000100307)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -33,6 +34,7 @@ Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000200307)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Kürschner/Kürschnerin nach der Handwerksordnung und für die
@@ -40,16 +42,19 @@ Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000300307)
 
 Der Ausbildungsberuf Kürschner/Kürschnerin wird staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000400307)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000500307)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -101,6 +106,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000600307)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -118,12 +124,14 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000700307)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000800307)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -132,6 +140,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE000900307)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -204,6 +213,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE001000307)
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -377,6 +387,7 @@ Technologie mindestens ausreichende Leistungen erbracht werden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE001100307)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -385,12 +396,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE001200307)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kürschner/zur Kürschnerin
+[Direktlink](https://www.gesetze-im-internet.de/k_rschausbv/BJNR023900997.html#BJNR023900997BJNE001300307)
 
 (Fundstelle: BGBl. I 1997, 242 - 245)
 

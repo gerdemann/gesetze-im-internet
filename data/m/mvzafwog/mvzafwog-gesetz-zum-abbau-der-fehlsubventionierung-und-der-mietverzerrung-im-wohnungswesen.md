@@ -17,20 +17,24 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNE000600319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Unterartikel 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNG000200319)
 
 
 
 ## Unterartikel 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNG000300319)
 
 
 
 ## Unterartikel 4 - Änderung des Wohnungsbaugesetzes für das Saarland
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNG000400319)
 
 Das Wohnungsbaugesetz für das Saarland in der Fassung der
 Bekanntmachung vom 10. Juli 1980 (Amtsblatt des Saarlandes S. 802)
@@ -101,10 +105,12 @@ wird wie folgt geändert:
 
 
 ## Unterartikel 5 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNG000500319)
 
 
 
 ## § 1 Schuldnachlaß bei Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNE002000319)
 
 (1) Der Eigentümer eines Eigenheims, einer Eigensiedlung oder einer
 eigengenutzten Eigentumswohnung, für die öffentliche Mittel vor dem 1.
@@ -119,22 +125,26 @@ Wohnungsbaugesetzes gefördert worden ist.
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNE002100319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 3 Saar-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNE002200319)
 
 Unterartikel 2 und 3 gelten nicht im Saarland.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNE002300319)
 
 -
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mvzafwog/BJNR015429981.html#BJNR015429981BJNE002401307)
 
 Dieser Artikel tritt am 1. Januar 1982 in Kraft; § 16a Abs. 1 des
 Wohnungsbindungsgesetzes (Unterartikel 2 Nr. 1) tritt am 1. Januar

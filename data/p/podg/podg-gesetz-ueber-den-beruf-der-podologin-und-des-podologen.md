@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNG000200000)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000101310)
 
 (1) Wer die Berufsbezeichnung "Podologin" oder "Podologe" führen will,
 bedarf der Erlaubnis. Die Bezeichnung "Medizinische Fußpflegerin" oder
@@ -44,6 +46,7 @@ Gemeinschaften eine Gleichstellung ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000204116)
 
 (1) Die Erlaubnis nach § 1 Satz 1 ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -208,6 +211,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001200310)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Podologen ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten
@@ -244,6 +248,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 2b
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001600116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -342,10 +347,12 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNG000300000)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000300000)
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs
 insbesondere dazu befähigen, durch Anwendung geeigneter Verfahren nach
@@ -359,6 +366,7 @@ Rehabilitation von Fußerkrankungen mitzuwirken (Ausbildungsziel).
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000400000)
 
 Die Ausbildung dauert in Vollzeitform zwei Jahre, in Teilzeitform
 höchstens vier Jahre. Sie wird durch staatlich anerkannte Schulen
@@ -371,6 +379,7 @@ Behandlungsmaßnahmen durchgeführt werden, sicherzustellen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000500000)
 
 Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
@@ -388,6 +397,7 @@ Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000600000)
 
 (1) Auf die Dauer der Ausbildung nach § 4 werden angerechnet
 
@@ -417,6 +427,7 @@ Ausbildungsziels dadurch nicht gefährdet werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000707116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -469,9 +480,11 @@ Fristenregelungen vorsehen.
 
 
 ## Abschnitt 2a - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNG000700310)
 
 
 ### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001302116)
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die zur Ausübung des Berufs des Podologen in einem
@@ -578,6 +591,7 @@ darüber auszustellen, dass
 
 
 ### § 7b
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001401116)
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
 berechtigt, für jede Dienstleistungserbringung von den zuständigen
@@ -595,6 +609,7 @@ disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 
 
 ### § 7c
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001500310)
 
 Podologinnen und Podologen im Sinne des § 7a haben beim Erbringen der
 Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und
@@ -605,10 +620,12 @@ Dienstleistungserbringers hierüber zu unterrichten.
 
 
 ## Abschnitt 3 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNG000400000)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000801310)
 
 (1) Die Entscheidungen nach § 2 Abs. 1 trifft die zuständige Behörde
 des Landes, in dem der Antragsteller die staatliche Prüfung bestanden
@@ -632,10 +649,12 @@ des Podologen ausübt.
 
 
 ## Abschnitt 4 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNG000500000)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE000900000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -655,10 +674,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNG000600000)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001000000)
 
 (1) Eine auf Grund
 
@@ -739,6 +760,7 @@ dieses Gesetzes die staatliche Prüfung erfolgreich ablegen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/podg/BJNR332010001.html#BJNR332010001BJNE001100000)
 
 § 1 Satz 2 und § 9 Abs. 1 Nr. 2 sind vor dem 1. Januar 2003 nicht
 anzuwenden.

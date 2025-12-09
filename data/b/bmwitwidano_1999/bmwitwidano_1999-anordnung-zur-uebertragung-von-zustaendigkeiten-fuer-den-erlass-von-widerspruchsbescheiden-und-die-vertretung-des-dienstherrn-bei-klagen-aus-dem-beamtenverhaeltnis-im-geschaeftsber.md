@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_1999/BJNR072600999.html#BJNR072600999BJNE000100311)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung mit
@@ -34,6 +35,7 @@ Behördenleiter behalte ich mir vor.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_1999/BJNR072600999.html#BJNR072600999BJNE000200311)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) übertrage ich
@@ -46,6 +48,7 @@ vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_1999/BJNR072600999.html#BJNR072600999BJNE000300311)
 
 Diese Anordnung tritt mit Wirkung vom 15. März 1999 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -54,6 +57,7 @@ sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_1999/BJNR072600999.html#BJNR072600999BJNE000400311)
 
 Bundesministerium für Wirtschaft und Technologie
 

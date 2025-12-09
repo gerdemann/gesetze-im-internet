@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000100000)
 
 Zweck dieses Gesetzes ist es, im Hinblick auf die staatliche
 Verpflichtung, die Menschenwürde und das Recht auf Leben zu achten und
@@ -44,6 +45,7 @@ zu schützen und die Freiheit der Forschung zu gewährleisten,
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000201310)
 
 Dieses Gesetz gilt für die Einfuhr von embryonalen Stammzellen und für
 die Verwendung von embryonalen Stammzellen, die sich im Inland
@@ -51,6 +53,7 @@ befinden.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000300000)
 
 Im Sinne dieses Gesetzes
 
@@ -85,6 +88,7 @@ Im Sinne dieses Gesetzes
 
 
 ## § 4 Einfuhr und Verwendung embryonaler Stammzellen
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000401310)
 
 (1) Die Einfuhr und die Verwendung embryonaler Stammzellen ist
 verboten.
@@ -131,6 +135,7 @@ menschlichen Embryonen gewonnen wurden.
 
 
 ## § 5 Forschung an embryonalen Stammzellen
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000500000)
 
 Forschungsarbeiten an embryonalen Stammzellen dürfen nur durchgeführt
 werden, wenn wissenschaftlich begründet dargelegt ist, dass
@@ -161,6 +166,7 @@ werden, wenn wissenschaftlich begründet dargelegt ist, dass
 
 
 ## § 6 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000601116)
 
 (1) Jede Einfuhr und jede Verwendung embryonaler Stammzellen bedarf
 der Genehmigung durch die zuständige Behörde.
@@ -246,6 +252,7 @@ der Genehmigung haben keine aufschiebende Wirkung.
 
 
 ## § 7 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000705116)
 
 (1) Zuständige Behörde ist eine durch Rechtsverordnung des
 Bundesministeriums für Gesundheit zu bestimmende Behörde aus seinem
@@ -259,6 +266,7 @@ Antragstellers sind nicht zu erstatten.
 
 
 ## § 8 Zentrale Ethik-Kommission für Stammzellenforschung
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000800000)
 
 (1) Bei der zuständigen Behörde wird eine interdisziplinär
 zusammengesetzte, unabhängige Zentrale Ethik-Kommission für
@@ -287,6 +295,7 @@ einschließlich der Fristen zu regeln.
 
 
 ## § 9 Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE000900000)
 
 Die Zentrale Ethik-Kommission für Stammzellenforschung prüft und
 bewertet anhand der eingereichten Unterlagen, ob die Voraussetzungen
@@ -295,6 +304,7 @@ ethisch vertretbar ist.
 
 
 ## § 10 Vertraulichkeit von Angaben
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001000000)
 
 (1) Die Antragsunterlagen nach § 6 sind vertraulich zu behandeln.
 
@@ -324,6 +334,7 @@ Antragsunterlagen zurückzugeben.
 
 
 ## § 11 Register
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001100000)
 
 Die Angaben über die embryonalen Stammzellen und die Grunddaten der
 genehmigten Forschungsvorhaben werden durch die zuständige Behörde in
@@ -331,6 +342,7 @@ einem öffentlich zugänglichen Register geführt.
 
 
 ## § 12 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001200000)
 
 Die für das Forschungsvorhaben verantwortliche Person hat wesentliche
 nachträglich eingetretene Änderungen, die die Zulässigkeit der Einfuhr
@@ -339,6 +351,7 @@ unverzüglich der zuständigen Behörde anzuzeigen. § 6 bleibt unberührt.
 
 
 ## § 13 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001301310)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer ohne Genehmigung nach § 6 Abs. 1
@@ -360,6 +373,7 @@ bestraft, wer einer vollziehbaren Auflage nach § 6 Abs. 6 Satz 1 oder
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001400000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -378,6 +392,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ## § 15 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001500000)
 
 Die Bundesregierung übermittelt dem Deutschen Bundestag im Abstand von
 zwei Jahren, erstmals zum Ablauf des Jahres 2003, einen
@@ -387,6 +402,7 @@ menschlicher Stammzellen dar.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stzg/BJNR227700002.html#BJNR227700002BJNE001600000)
 
 Dieses Gesetz tritt am ersten Tag des auf die Verkündung folgenden
 Monats in Kraft.

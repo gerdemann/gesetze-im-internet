@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Weitere Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lf_g/BJNR265300005.html#BJNR265300005BJNE000104116)
 
 (1) Solange noch nicht auf Grund der Ermächtigungen des Lebensmittel-
 und Futtermittelgesetzbuches neue Regelungen getroffen worden sind,
@@ -129,6 +130,7 @@ Zustimmung des Bundesrates
 
 
 ## § 1a Weitere Anwendung von Vorschriften über den Lebensmittelzusatzstoffen gleichgestellte Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/lf_g/BJNR265300005.html#BJNR265300005BJNE000600116)
 
 (1) § 2 Absatz 3 Satz 2 Nummer 2 und 4 jeweils in Verbindung mit § 4
 Absatz 1 Nummer 2 und § 6 Absatz 1 sowie § 59 Absatz 1 Nummer 1 bis 3
@@ -156,6 +158,7 @@ Verfolgung von Straftaten und Ordnungswidrigkeiten weiter anzuwenden.
 
 
 ## § 2 Geltung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lf_g/BJNR265300005.html#BJNR265300005BJNE000200000)
 
 (1) § 6 Abs. 1 Nr. 2, § 8 Abs. 1 Nr. 2, § 9 Abs. 1, § 10 Abs. 1 Nr. 3,
 § 28 Abs. 2, § 33 Abs. 2 und § 34 Abs. 2 des Lebensmittel- und
@@ -222,11 +225,13 @@ erlassen worden sind.
 
 
 ## § 3 Anpassung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lf_g/BJNR265300005.html#BJNR265300005BJNE000300000)
 
 -
 
 
 ## § 4 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/lf_g/BJNR265300005.html#BJNR265300005BJNE000400000)
 
 (1) Soweit in bundesrechtlichen Vorschriften außerhalb dieses
 Gesetzes, die am 7. September 2005 bestehen, auf nachfolgend in Spalte
@@ -460,6 +465,7 @@ Futtermittelgesetzbuches weiter anzuwenden.
 
 
 ## § 5 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lf_g/BJNR265300005.html#BJNR265300005BJNE000500000)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates Verweise in bundesrechtlichen Vorschriften

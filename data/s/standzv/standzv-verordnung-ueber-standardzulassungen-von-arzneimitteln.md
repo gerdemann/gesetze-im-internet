@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000100311)
 
 Auf Grund des § 36 Abs. 1 und 3 des Arzneimittelgesetzes vom 24.
 August 1976 (BGBl. I S. 2445, 2448) wird nach Anhörung von
@@ -30,6 +31,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000201307)
 
 Die in der Anlage in Teil I, 1. Abschnitt und in Teil II, 1. Abschnitt
 bezeichneten Fertigarzneimittel sind von der Pflicht zur
@@ -40,6 +42,7 @@ erfüllen (Standardzulassungen).
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000303116)
 
 Arzneimittel, die den Vorschriften dieser Verordnung in der am 3.
 September 2021 geltenden Fassung entsprechen, dürfen vom
@@ -51,21 +54,25 @@ Arzneimittelgesetzes in den Verkehr bringen.
 
 
 ## § 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000701116)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000400311)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000500311)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
 (zu § 1)
 
 ## Anlage Standardzulassungen
+[Direktlink](https://www.gesetze-im-internet.de/standzv/BJNR016010982.html#BJNR016010982BJNE000615116)
 
 (Inhalt: Nicht erfasster Anlageband,
 Fundstelle: Anlageband I zu BGBl I Nr. 47 v. 8.12.1982,

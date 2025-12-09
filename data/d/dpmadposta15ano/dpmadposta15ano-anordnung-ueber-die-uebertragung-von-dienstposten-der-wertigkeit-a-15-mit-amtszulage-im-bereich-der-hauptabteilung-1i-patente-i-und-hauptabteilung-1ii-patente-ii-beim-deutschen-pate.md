@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dpmadposta15ano/BJNR062000010.html#BJNR062000010BJNE000100000)
 
 Auf Grund des Artikels 1 Absatz 1 Satz 2 der Anordnung des
 Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen,
@@ -32,17 +33,20 @@ des Deutschen Patent- und Markenamtes übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dpmadposta15ano/BJNR062000010.html#BJNR062000010BJNE000200000)
 
 Für besondere Fälle behalte ich mir die Übertragung der unter I.
 genannten Dienstposten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/dpmadposta15ano/BJNR062000010.html#BJNR062000010BJNE000300000)
 
 Diese Anordnung tritt am 1. Juni 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmadposta15ano/BJNR062000010.html#BJNR062000010BJNE000400000)
 
 Die Bundesministerin der Justiz
 

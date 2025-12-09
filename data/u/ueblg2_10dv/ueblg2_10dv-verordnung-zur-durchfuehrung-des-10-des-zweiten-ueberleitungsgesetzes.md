@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_blg2_10dv/BJNR007410952.html#BJNR007410952BJNE000100319)
 
 Auf Grund des § 10 des Zweiten Gesetzes zur Überleitung von Lasten und
 Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21.
@@ -28,6 +29,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_blg2_10dv/BJNR007410952.html#BJNR007410952BJNE000201309)
 
 Versorgungsausgaben im Sinne der Artikel I und II des Zweiten
 Überleitungsgesetzes sind
@@ -71,6 +73,7 @@ Versorgungsausgaben im Sinne der Artikel I und II des Zweiten
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_blg2_10dv/BJNR007410952.html#BJNR007410952BJNE000300319)
 
 Als Versorgungsausgaben im Sinne der Artikel I und II des Zweiten
 Überleitungsgesetzes gelten:
@@ -121,6 +124,7 @@ Als Versorgungsausgaben im Sinne der Artikel I und II des Zweiten
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_blg2_10dv/BJNR007410952.html#BJNR007410952BJNE000400319)
 
 Soweit für die Zeit vom 1. April 1950 bis zum 31. März 1952 Zahlungen
 der in den §§ 1 und 2 bezeichneten Arten geleistet worden sind, auf
@@ -131,6 +135,7 @@ des Bundes hinausgehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/_blg2_10dv/BJNR007410952.html#BJNR007410952BJNE000500319)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1950 in Kraft. Sie
 gilt gemäß § 14 des Gesetzes über die Stellung des Landes Berlin im

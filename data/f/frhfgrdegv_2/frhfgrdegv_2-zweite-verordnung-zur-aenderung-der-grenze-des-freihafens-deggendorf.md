@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_2/BJNR320400997.html#BJNR320400997BJNE000100000)
 
 Auf Grund des § 1 Abs. 4 des Gesetzes zur Errichtung neuer Freihäfen
 und zur Änderung des Zollgesetzes vom 25. Juli 1989 (BGBl. I S. 1541)
@@ -28,6 +29,7 @@ Finanzen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_2/BJNR320400997.html#BJNR320400997BJNE000200000)
 
 Der durch § 1 Abs. 2 des Gesetzes zur Errichtung neuer Freihäfen und
 zur Änderung des Zollgesetzes vom 25. Juli 1989 (BGBl. I S. 1541)
@@ -73,11 +75,13 @@ Anlage durch eine gestrichelte Linie gekennzeichnet."
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_2/BJNR320400997.html#BJNR320400997BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_2/BJNR320400997.html#BJNR320400997BJNE000400000)
 
 Fundstelle: BGBl. I 1997, 3205)
 

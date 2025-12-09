@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv6_ndv_2/BJNR017860977.html#BJNR017860977BJNE000100325)
 
 Auf Grund des § 42 Abs. 2 des Bundesentschädigungsgesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 251-1, veröffentlichten
@@ -28,11 +29,13 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/begdv6_ndv_2/BJNR017860977.html#BJNR017860977BJNE000200325)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/begdv6_ndv_2/BJNR017860977.html#BJNR017860977BJNE000300325)
 
 (1) Soweit vor Verkündung dieser Verordnung ein nach § 31 Abs. 2 des
 Bundesentschädigungsgesetzes geltend gemachter Anspruch durch
@@ -66,6 +69,7 @@ zugunsten der Berechtigten sein Bewenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/begdv6_ndv_2/BJNR017860977.html#BJNR017860977BJNE000400325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 240 Abs. 2 des Bundesentschädigungsgesetzes auch im
@@ -73,6 +77,7 @@ Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/begdv6_ndv_2/BJNR017860977.html#BJNR017860977BJNE000500325)
 
 Diese Verordnung tritt mit Wirkung vom 18. September 1965 in Kraft.
 

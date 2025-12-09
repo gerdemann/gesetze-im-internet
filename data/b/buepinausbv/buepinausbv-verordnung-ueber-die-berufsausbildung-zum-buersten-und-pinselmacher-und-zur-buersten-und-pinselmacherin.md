@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-116 v. 14.12.1984 I 1558 (BürstPiAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -37,9 +38,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000300000)
 
 Der Ausbildungsberuf des Bürsten- und Pinselmachers und der Bürsten-
 und Pinselmacherin wird staatlich anerkannt nach
@@ -56,11 +59,13 @@ und Pinselmacherin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -78,6 +83,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -158,6 +164,7 @@ ergibt sich aus den Abschnitten B und C der Anlage.
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -165,6 +172,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -175,9 +183,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -187,6 +197,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -203,6 +214,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Arbeitsauftrag
 statt.
@@ -275,9 +287,11 @@ schriftliche Bearbeitung der Aufgaben entfallen 120 Minuten.
 
 
 ## Abschnitt 3 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNG000300000)
 
 
 ### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001200000)
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -287,6 +301,7 @@ Berufsausbildung durchgeführt werden.
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001300000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -303,6 +318,7 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001400000)
 
 Die Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -320,6 +336,7 @@ Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich Produktionsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001500000)
 
 (1) Im Prüfungsbereich Produktionsauftrag soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -429,6 +446,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 ### § 14 Prüfungsbereich Arbeitsplanung und Technologie
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001600000)
 
 (1) Im Prüfungsbereich Arbeitsplanung und Technologie soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -484,6 +502,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -497,6 +516,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -565,9 +585,11 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNG000400000)
 
 
 ### § 17 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE001900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -576,6 +598,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt
 die Bürsten- und Pinselmacher-Ausbildungsverordnung vom 14. Dezember
@@ -584,6 +607,7 @@ die Bürsten- und Pinselmacher-Ausbildungsverordnung vom 14. Dezember
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bürsten- und Pinselmacher und zur Bürsten- und Pinselmacherin
+[Direktlink](https://www.gesetze-im-internet.de/b_pinausbv/BJNR155900017.html#BJNR155900017BJNE002100000)
 
 (Fundstelle: BGBl. I 2017, 1563 - 1568)
 

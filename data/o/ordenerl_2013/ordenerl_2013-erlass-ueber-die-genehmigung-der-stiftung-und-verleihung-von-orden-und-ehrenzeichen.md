@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2013/BJNR223200013.html#BJNR223200013BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -24,6 +25,7 @@ Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2013/BJNR223200013.html#BJNR223200013BJNE000200000)
 
 Ich genehmige den in der Anlage wiedergegebenen Gemeinsamen Erlass des
 Bundesministers des Innern und des Bundesministers der Verteidigung
@@ -31,16 +33,19 @@ Bundesministers des Innern und des Bundesministers der Verteidigung
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2013/BJNR223200013.html#BJNR223200013BJNE000300000)
 
 Dieser Erlass tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2013/BJNR223200013.html#BJNR223200013BJNE000400000)
 
 Der Bundespräsident
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2013/BJNR223200013.html#BJNR223200013BJNE000500000)
 
 (Fundstelle: BGBl. I 2013, 2233 - 2235)
 

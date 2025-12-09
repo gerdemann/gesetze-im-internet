@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000100307)
 
 Auf Grund
 
@@ -55,6 +56,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Bezugsgröße der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000200307)
 
 Die Bezugsgröße (Ost) im Sinne des § 18 Abs. 2 des Vierten Buches
 Sozialgesetzbuch beträgt ab 1. Januar 1992 25.200 DM jährlich und
@@ -62,6 +64,7 @@ Sozialgesetzbuch beträgt ab 1. Januar 1992 25.200 DM jährlich und
 
 
 ## § 2 Beitragsbemessungsgrenzen in der Rentenversicherung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000300307)
 
 Die Beitragsbemessungsgrenzen (Ost) betragen ab 1. Januar 1992
 
@@ -79,6 +82,7 @@ Jahresbeträge ergänzt.
 
 
 ## § 3 Werte für Jahreshöchstverdienste in den Anlagen 3 bis 6 zu dem Anspruchs- und Anwartschaftsüberführungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000400307)
 
 (1) In Anlage 3 wird die Spalte "Rentenversicherung der Arbeiter und
 der Angestellten" für die Zeit "1.1. - 30.6.1990" um den Wert
@@ -96,6 +100,7 @@ die Zeit "1.1. - 30.6.1990" um den Wert "30.481,48" ergänzt.
 
 
 ## § 4 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000500307)
 
 Die Angleichungsfaktoren zur Ermittlung des Wertes von
 angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a
@@ -131,11 +136,13 @@ Januar 1992 bis zum 30. Juni 1992
 
 
 ## § 5 Anpassung des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000600307)
 
 Der aktuelle Rentenwert (Ost) beträgt ab 1. Januar 1992 23,57 DM.
 
 
 ## § 6 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000700307)
 
 Der Anpassungsfaktor für die vom 1. Januar 1992 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung für Arbeitsunfälle
@@ -143,6 +150,7 @@ im Sinne des § 1153 Reichsversicherungsordnung beträgt 1,1165.
 
 
 ## § 7 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000800307)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 1151
 Reichsversicherungsordnung beträgt vom 1. Januar 1992 an zwischen 266
@@ -150,11 +158,13 @@ Deutsche Mark und 1.064 Deutsche Mark monatlich.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE000900307)
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_3/BJNR023440991.html#BJNR023440991BJNE001000307)
 
 Der Bundesrat hat zugestimmt.
 

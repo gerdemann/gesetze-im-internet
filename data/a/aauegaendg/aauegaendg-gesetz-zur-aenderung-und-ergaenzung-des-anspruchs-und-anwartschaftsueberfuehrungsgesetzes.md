@@ -18,25 +18,30 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg/BJNR167400996.html#BJNR167400996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 u. 2
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg/BJNR167400996.html#BJNR167400996BJNE000200310)
 
 
 
 ## Art 3 Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg/BJNR167400996.html#BJNR167400996BJNE000300310)
 
 -
 
 
 ## (XXXX) Art 4 u. 5
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg/BJNR167400996.html#BJNR167400996BJNE000400310)
 
 
 
 ## Art 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg/BJNR167400996.html#BJNR167400996BJNE000500310)
 
 Bestand am 31. Dezember 1996 Anspruch auf eine Rente, der
 Pflichtbeitragszeiten zugrunde liegen, für die als Verdienst ein
@@ -62,6 +67,7 @@ sind. Die Sätze 2 bis 5 sind anzuwenden.
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aa_g_ndg/BJNR167400996.html#BJNR167400996BJNE000600310)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1997 in Kraft,
 soweit in den folgenden Absätzen nicht etwas anderes bestimmt ist.

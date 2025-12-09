@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000300315)
 
 Auf Grund des § 35 Abs. 3 und des § 52 des Bundeswahlgesetzes in der
 Fassung der Bekanntmachung vom 1. September 1975 (Bundesgesetzbl. I S.
@@ -29,10 +30,12 @@ verordnet:
 
 
 ## Erster Abschnitt - Amtliche Zulassung und Genehmigung der Verwendung von Wahlgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNG000100315)
 
 
 
 ### § 1 Zulassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000401311)
 
 Mechanisch oder elektrisch betriebene einschließlich rechnergesteuerte
 Geräte, die bei Wahlen der Abgabe und Zählung der Wählerstimmen dienen
@@ -41,6 +44,7 @@ wenn ihre Bauart zugelassen und ihre Verwendung genehmigt ist.
 
 
 ### § 2 Erteilung der Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000501311)
 
 (1) Die Bauartzulassung wird für Wahlgeräte einer bestimmten Bauart
 vom Bundesministerium des Innern auf Antrag des Herstellers erteilt.
@@ -89,6 +93,7 @@ Bundesanstalt geprüften Baumusters (Baugleichheitserklärung) beifügen.
 
 
 ### § 3 Rücknahme, Erlöschen und Widerruf der Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000601311)
 
 (1) Das Bundesministerium des Innern kann die Bauartzulassung
 zurücknehmen, wenn bei ihrer Erteilung die in § 2 Abs. 2 Satz 1
@@ -110,6 +115,7 @@ Bauartzulassung gilt § 2 Abs. 5 entsprechend.
 
 
 ### § 4 Genehmigung der Verwendung von Wahlgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000701311)
 
 (1) Die Verwendung von Wahlgeräten mit zugelassener Bauart bedarf vor
 jeder Wahl der Genehmigung. Über die Genehmigung der Verwendung von
@@ -124,10 +130,12 @@ mit und macht sie im Bundesanzeiger bekannt.
 
 
 ## Zweiter Abschnitt - Durchführung der Wahl zum Bundestag und zum Europäischen Parlament mit Wahlgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNG000201311)
 
 
 
 ### § 5 Geltung der Bundeswahlordnung und der Europawahlordnung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000801311)
 
 Soweit sich aus den Vorschriften dieser Verordnung nicht etwas anderes
 ergibt, gelten auch bei der Verwendung von Wahlgeräten die
@@ -135,6 +143,7 @@ Vorschriften der Bundeswahlordnung oder der Europawahlordnung.
 
 
 ### § 6 Wahlbekanntmachung der Gemeindebehörden
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE000901311)
 
 Die Gemeindebehörde weist in der Wahlbekanntmachung über § 48 Abs. 1
 der Bundeswahlordnung oder § 41 Abs. 1 der Europawahlordnung hinaus
@@ -146,6 +155,7 @@ abgeben kann, nebst gerätespezifischer Darstellung der Wahlvorschläge
 
 
 ### § 7 Überprüfung der Wahlgeräte und Einweisung der Wahlvorsteher
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001001311)
 
 (1) Die Gemeindebehörde darf am Wahltag nur Wahlgeräte verwenden, die
 nach Bestimmung des Wahltages an Hand der Bedienungsanleitungen und
@@ -167,6 +177,7 @@ einzuweisen.
 
 
 ### § 8 Ausstattung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001101311)
 
 (1) Die Gemeindebehörde übergibt dem Wahlvorsteher vor Beginn der
 Wahlhandlung außer den in § 49 der Bundeswahlordnung oder § 42 der
@@ -203,6 +214,7 @@ ungültiger Stimmen hingewiesen sein muß.
 
 
 ### § 9 Wahlzelle
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001201311)
 
 (1) Jedes Wahlgerät ist in der Wahlzelle so aufzustellen, daß jeder
 Wähler seine Stimmen unbeobachtet abgeben kann.
@@ -213,6 +225,7 @@ die Erststimmen vom Wähler aus gesehen links oder oben befinden.
 
 
 ### § 10 Eröffnung der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001301311)
 
 (1) Der Wahlvorstand stellt vor Beginn der Stimmabgabe fest, daß
 
@@ -254,6 +267,7 @@ aufzubewahren.
 
 
 ### § 11 Stimmabgabe und Vermerk über Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001402311)
 
 (1) Für die Stimmabgabe an den Wahlgeräten gelten die §§ 56 und 58 der
 Bundeswahlordnung oder die §§ 49 und 51 der Europawahlordnung mit den
@@ -306,6 +320,7 @@ rückgängig gemacht werden kann, zu versiegeln.
 
 
 ### § 12 Schluß der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001501311)
 
 Der Wahlvorsteher hat nach Schließung der Wahlhandlung jedes Wahlgerät
 oder die Stimmenspeicher gegen jede weitere Stimmabgabe zu sperren und
@@ -314,6 +329,7 @@ versiegeln.
 
 
 ### § 13 Zählung der Wähler
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001601311)
 
 Vor dem Ablesen der einzelnen Anzeigen der von einem Wahlgerät
 gezählten Stimmen werden zur Feststellung der Zahl der Wähler die Zahl
@@ -330,6 +346,7 @@ Wahlniederschrift zu vermerken, und, soweit möglich, zu erläutern.
 
 
 ### § 14 Zählung der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001701311)
 
 (1) Der Schriftführer trägt die an jedem verwendeten Wahlgerät
 angezeigten oder ausgedruckten Zahlen der Reihenfolge nach in die
@@ -378,6 +395,7 @@ darzustellen und in der Wahlniederschrift zu vermerken.
 
 
 ### § 15 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001802311)
 
 (1) Über die Wahlhandlung, die Ermittlung und die Feststellung des
 Wahlergebnisses ist vom Schriftführer eine Wahlniederschrift nach dem
@@ -420,6 +438,7 @@ Behältnisses, in dem sich die Schlüssel oder Stimmenspeicher befinden.
 
 
 ### § 16 Übergabe und Verwahrung der Wahlunterlagen und der Wahlgeräte
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE001902311)
 
 (1) Hat der Wahlvorstand seine Aufgaben beendet, so gibt der
 Wahlvorsteher der Gemeindebehörde
@@ -449,6 +468,7 @@ Unbefugten nicht zugänglich sind.
 
 
 ### § 17 Feststellung des Wahlergebnisses im Wahlkreis
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002001311)
 
 (1) Ergeben sich Bedenken gegen die Ordnungsmäßigkeit des
 Wahlgeschäfts, der Wahlergebnisermittlung oder der Wahlniederschrift,
@@ -474,6 +494,7 @@ Bedeutung sein können.
 
 
 ### § 18 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002101311)
 
 Für Wahlgeräte einer Bauart, die bereits für die Wahlen zum 14.
 Deutschen Bundestag oder die Europawahlen 1994 zugelassen worden ist,
@@ -484,17 +505,20 @@ diese Wahlgeräte nicht anzuwenden.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002201311)
 
 (weggefallen)
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002300315)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 2)
 
 ### Anlage 1 Richtlinien für die Bauart von Wahlgeräten
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002401311)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 753 - 755
 
@@ -1006,6 +1030,7 @@ und
 
 
 ### Anlage 2 (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002701311)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 756 - 761)
 
@@ -2739,6 +2764,7 @@ radieren.
 [^BJNR024590975BJNE002701311_12]: 
 
 ### Anlage 3 (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bwahlgv/BJNR024590975.html#BJNR024590975BJNE002800311)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 762 - 766)
 

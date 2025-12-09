@@ -27,9 +27,11 @@ Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000200000)
 
 (1) Der Aufsicht nach diesem Gesetz unterliegen
 
@@ -90,6 +92,7 @@ hierfür entsprechend.
 
 
 ### § 2 Öffentlich-rechtliche Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000300000)
 
 (1) Soweit öffentlich-rechtliche Einrichtungen einschließlich der
 rechtlich unselbständigen kommunalen und kirchlichen
@@ -110,6 +113,7 @@ Landesrecht Abweichendes bestimmen.
 
 
 ### § 3 Ausnahmen von der Aufsichtspflicht, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000401119)
 
 (1) Der Aufsicht nach diesem Gesetz unterliegen nicht
 
@@ -194,6 +198,7 @@ Versicherungsverträge nicht gefährdet werden.
 
 
 ### § 4 Feststellung der Aufsichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000501128)
 
 Dass ein Unternehmen der Aufsicht unterliegt, entscheidet die
 Aufsichtsbehörde. Die Entscheidung bindet die Verwaltungsbehörden.
@@ -203,6 +208,7 @@ Aufsichtsbehörde nicht entgegen.
 
 
 ### § 5 Freistellung von der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000602118)
 
 (1) Die Aufsichtsbehörde kann Versicherungsvereine auf
 Gegenseitigkeit, die nicht eingetragen zu werden brauchen, von der
@@ -236,6 +242,7 @@ der Belange der Versicherten nicht erforderlich erscheint.
 
 
 ### § 6 Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000700000)
 
 (1) Die Bezeichnungen „Versicherung“, „Versicherer“, „Assekuranz“,
 „Rückversicherung“, „Rückversicherer“ und entsprechende
@@ -276,6 +283,7 @@ entsprechend anzuwenden.
 
 
 ### § 7 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000807123)
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -664,6 +672,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 
 ### § 7a Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040500128)
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft
 gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
@@ -687,15 +696,19 @@ Unternehmen wahrnimmt, das nicht unter Satz 1 fällt.
 
 
 ## Teil 2 - Vorschriften für die Erstversicherung und die Rückversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000200000)
 
 
 ### Kapitel 1 - Geschäftstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000300000)
 
 
 #### Abschnitt 1 - Zulassung und Ausübung der Geschäftstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000400000)
 
 
 ##### § 8 Erlaubnis; Spartentrennung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE000901128)
 
 (1) Versicherungsunternehmen mit Sitz im Inland bedürfen zum
 Geschäftsbetrieb der Erlaubnis der Aufsichtsbehörde.
@@ -729,6 +742,7 @@ verlegt.
 
 
 ##### § 9 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001004128)
 
 (1) Mit dem Antrag auf Erlaubnis ist der Geschäftsplan einzureichen;
 er hat den Zweck und die Einrichtung des Unternehmens, das Gebiet des
@@ -955,6 +969,7 @@ detailliert sein, damit eine ordnungsgemäße Bewertung möglich ist.
 
 
 ##### § 10 Umfang der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001100000)
 
 (1) Die Aufsichtsbehörde erteilt die Erlaubnis unbefristet, wenn sich
 nicht aus dem Geschäftsplan etwas anderes ergibt. Die Erlaubnis gilt
@@ -995,6 +1010,7 @@ verbunden sind, oder wenn die Erlaubnis zum Betrieb der in der Anlage
 
 
 ##### § 11 Versagung und Beschränkung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001200000)
 
 (1) Die Aufsichtsbehörde versagt die Erlaubnis, wenn
 
@@ -1089,6 +1105,7 @@ die Erlaubnis nicht versagt werden.
 
 
 ##### § 12 Änderungen des Geschäftsplans und von Unternehmensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001302360)
 
 (1) Jede Änderung der in § 9 Absatz 2 Nummer 1 und 2 genannten
 Bestandteile des Geschäftsplans eines Erstversicherungsunternehmens,
@@ -1135,6 +1152,7 @@ oder Vertragsstaaten ausgedehnt werden, ist
 
 
 ##### § 13 Bestandsübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001401118)
 
 (1) Jeder Vertrag, durch den der Versicherungsbestand eines
 Erstversicherungsunternehmens ganz oder teilweise auf ein anderes
@@ -1225,6 +1243,7 @@ Mitteilung auf das Kündigungsrecht hinzuweisen.
 
 
 ##### § 14 Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001501128)
 
 (1) Jede Umwandlung eines Erstversicherungsunternehmens nach den §§ 1,
 305, 320 und 333 des Umwandlungsgesetzes bedarf der Genehmigung der
@@ -1238,6 +1257,7 @@ Vorschriften über die Umwandlung nicht beachtet worden sind.
 
 
 ##### § 15 Versicherungsfremde Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001601118)
 
 (1) Erstversicherungsunternehmen dürfen neben Versicherungsgeschäften
 nur solche Geschäfte betreiben, die mit Versicherungsgeschäften in
@@ -1266,6 +1286,7 @@ Geschäftsbetrieb eines Versicherungsunternehmens.
 
 
 ##### § 15a Immobiliar-Verbraucherdarlehen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036002118)
 
 (1) Für die Vergabe von Immobiliar-Verbraucherdarlehen gilt § 18a
 Absatz 1 bis 10 des Kreditwesengesetzes entsprechend. Bei der
@@ -1285,9 +1306,11 @@ Zustimmung des Bundesrates auf die Bundesanstalt übertragen.
 
 
 #### Abschnitt 2 - Bedeutende Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000500000)
 
 
 ##### § 16 Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001700000)
 
 Die Inhaber einer bedeutenden Beteiligung im Sinne des § 7 Nummer 3 am
 Versicherungsunternehmen müssen den Ansprüchen genügen, die im
@@ -1301,6 +1324,7 @@ berufen sind, sowie für die persönlich haftenden Gesellschafter.
 
 
 ##### § 17 Anzeige bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001802128)
 
 (1) Jeder hat der Aufsichtsbehörde unverzüglich anzuzeigen, wenn er
 beabsichtigt,
@@ -1445,6 +1469,7 @@ Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
 
 ##### § 18 Untersagung oder Beschränkung einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE001902128)
 
 (1) Die Aufsichtsbehörde kann in den Fällen des § 17 Absatz 1 Satz 1
 Nummer 1 oder 2 innerhalb des Beurteilungszeitraums den beabsichtigten
@@ -1553,6 +1578,7 @@ beabsichtigten Erwerbs oder der Erhöhung unverzüglich anzuzeigen hat.
 
 
 ##### § 19 Untersagung der Ausübung der Stimmrechte
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002002128)
 
 (1) Die Aufsichtsbehörde kann dem Inhaber einer bedeutenden
 Beteiligung sowie den seine bedeutende Beteiligung vermittelnden
@@ -1623,6 +1649,7 @@ dem vermittelnden Unternehmen beteiligt ist, nicht zu befolgen.
 
 
 ##### § 20 Prüfung des Inhabers
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002100000)
 
 Sofern Tatsachen Anlass zu Zweifeln geben, dass der Inhaber einer
 bedeutenden Beteiligung den in § 16 genannten Anforderungen genügt
@@ -1637,6 +1664,7 @@ lassen hat.
 
 
 ##### § 21 Zusammenarbeit mit den zuständigen Behörden in anderen Mitglied- oder Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002201128)
 
 (1) Bei der Beurteilung des Erwerbs arbeitet die Aufsichtsbehörde mit
 den zuständigen Behörden in den anderen Mitglied- oder Vertragsstaaten
@@ -1680,6 +1708,7 @@ Behörde zu vermerken.
 
 
 ##### § 22 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002300000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung Vorschriften über Art, Umfang, Zeitpunkt und Form der
@@ -1697,9 +1726,11 @@ bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
 
 #### Abschnitt 3 - Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000600000)
 
 
 ##### § 23 Allgemeine Anforderungen an die Geschäftsorganisation, Produktfreigabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002405128)
 
 (1) Versicherungsunternehmen müssen über eine Geschäftsorganisation
 verfügen, die wirksam und ordnungsgemäß ist und die der Art, dem
@@ -1807,6 +1838,7 @@ geeignete Stelle zu melden.
 
 
 ##### § 24 Anforderungen an Personen, die das Unternehmen tatsächlich leiten oder andere Schlüsselaufgaben wahrnehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002501118)
 
 (1) Personen, die ein Versicherungsunternehmen tatsächlich leiten oder
 andere Schlüsselaufgaben wahrnehmen, müssen zuverlässig und fachlich
@@ -1849,6 +1881,7 @@ dabei außer Betracht.
 
 
 ##### § 25 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002601118)
 
 (1) Die Vergütungssysteme für Geschäftsleiter, Mitarbeiter und
 Aufsichtsratsmitglieder von Versicherungsunternehmen müssen
@@ -1899,6 +1932,7 @@ Absatzziele gekoppelt sein.
 
 
 ##### § 26 Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002700000)
 
 (1) Versicherungsunternehmen müssen über ein wirksames
 Risikomanagementsystem verfügen, das gut in die Organisationsstruktur
@@ -2041,6 +2075,7 @@ Laufenden.
 
 
 ##### § 27 Risiko- und Solvabilitätsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002801118)
 
 (1) Zum Risikomanagementsystem gehört eine unternehmenseigene Risiko-
 und Solvabilitätsbeurteilung, die Versicherungsunternehmen regelmäßig
@@ -2103,6 +2138,7 @@ Anpassungen und Übergangsmaßnahmen zu bewerten.
 
 
 ##### § 28 Externe Ratings
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE002900000)
 
 (1) Damit ein übermäßiges Vertrauen auf externe Ratingagenturen
 vermieden wird, überprüfen die Versicherungsunternehmen bei der
@@ -2120,6 +2156,7 @@ geltenden Fassung ergebenden Pflichten einzuhalten.
 
 
 ##### § 29 Internes Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003001118)
 
 (1) Versicherungsunternehmen müssen über ein wirksames internes
 Kontrollsystem verfügen, das mindestens Verwaltungs- und
@@ -2150,6 +2187,7 @@ gewährleisten ist.
 
 
 ##### § 30 Interne Revision
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003100000)
 
 (1) Versicherungsunternehmen müssen über eine wirksame interne
 Revision verfügen, welche die gesamte Geschäftsorganisation und
@@ -2164,6 +2202,7 @@ ergreifen sind und stellt die Umsetzung dieser Maßnahmen sicher.
 
 
 ##### § 31 Versicherungsmathematische Funktion
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003201118)
 
 (1) Versicherungsunternehmen müssen über eine wirksame
 versicherungsmathematische Funktion verfügen. Die Aufgabe dieser
@@ -2210,6 +2249,7 @@ darlegen können.
 
 
 ##### § 32 Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003301123)
 
 (1) Ein Versicherungsunternehmen, das Funktionen oder
 Versicherungstätigkeiten ausgliedert, bleibt für die Erfüllung aller
@@ -2261,6 +2301,7 @@ Zustellungen durch die Aufsichtsbehörde bewirkt werden können.
 
 
 ##### § 33 Entsprechende Anwendung gesellschaftsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003400000)
 
 (1) § 188 Absatz 1 Satz 1 und § 195 Absatz 3 sind entsprechend auch
 für Versicherungsaktiengesellschaften anzuwenden.
@@ -2278,6 +2319,7 @@ Aktiengesetzes entsprechend.
 
 
 ##### § 34 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003501123)
 
 (1) Für Versicherungsunternehmen, die nicht der Aufsicht durch die
 Aufsichtsbehörden der Länder unterliegen, kann das Bundesministerium
@@ -2324,12 +2366,15 @@ Zustimmung des Bundesrates.
 
 
 #### Abschnitt 4 - Allgemeine Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000700000)
 
 
 ##### Unterabschnitt 1 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000800000)
 
 
 ###### § 35 Pflichten des Abschlussprüfers
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040101128)
 
 (1) Bei der Prüfung des Jahresabschlusses hat der Prüfer
 festzustellen, ob das Versicherungsunternehmen folgende
@@ -2461,6 +2506,7 @@ berichten.
 
 
 ###### § 35a Bestimmung von Prüfungsinhalten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040700128)
 
 (1) Unbeschadet der besonderen Pflichten des Prüfers nach § 35 kann
 die Aufsichtsbehörde gegenüber dem Versicherungsunternehmen
@@ -2474,6 +2520,7 @@ bekannt gegeben werden.
 
 
 ###### § 36 Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003702123)
 
 (1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom
 Versicherungsunternehmen gewählten Abschlussprüfer anzuzeigen. Die
@@ -2516,6 +2563,7 @@ Verpflichtung befreit sind, den Jahresabschluss prüfen zu lassen.
 
 
 ###### § 37 Vorlage bei der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003800000)
 
 (1) Versicherungsunternehmen haben den von den gesetzlichen Vertretern
 aufgestellten sowie später den festgestellten Jahresabschluss und den
@@ -2548,6 +2596,7 @@ Unternehmen.
 
 
 ###### § 38 Rechnungslegung und Prüfung öffentlich-rechtlicher Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE003900000)
 
 (1) Die Vorschriften des Zweiten Unterabschnitts des Vierten
 Abschnitts in Verbindung mit den Vorschriften des Ersten und Zweiten
@@ -2564,6 +2613,7 @@ Vorschriften bestehen.
 
 
 ###### § 39 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004003128)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für
 Versicherungsunternehmen, die nicht der Aufsicht durch die
@@ -2643,9 +2693,11 @@ Rechtsverordnung der Aufsichtsbehörde des Landes übertragen.
 
 
 ##### Unterabschnitt 2 - Bericht über Solvabilität und Finanzlage
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG000900000)
 
 
 ###### § 40 Solvabilitäts- und Finanzbericht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004101360)
 
 (1) Versicherungsunternehmen haben mindestens einmal jährlich,
 spätestens 14 Wochen nach Ende des Geschäftsjahres, einen
@@ -2775,6 +2827,7 @@ auf die verwiesen werden soll, nach Art und Umfang gleichwertig sind.
 
 
 ###### § 41 Nichtveröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004201118)
 
 (1) Mit Genehmigung der Aufsichtsbehörde kann auf Angaben im
 Solvabilitäts- und Finanzbericht verzichtet werden; dies gilt nicht
@@ -2798,6 +2851,7 @@ durch die Veröffentlichung
 
 
 ###### § 42 Aktualisierung des Solvabilitäts- und Finanzberichts
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004300000)
 
 (1) Verändert eine wichtige Entwicklung die Bedeutung der im
 Solvabilitäts- und Finanzbericht veröffentlichten Informationen
@@ -2844,9 +2898,11 @@ vorzunehmen.
 
 
 ##### Unterabschnitt 3 - Für Aufsichtszwecke beizubringende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001000000)
 
 
 ###### § 43 Informationspflichten; Berechnungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004400000)
 
 (1) Versicherungsunternehmen haben den Aufsichtsbehörden nach Maßgabe
 dieses Gesetzes diejenigen Informationen zu übermitteln, die sie zur
@@ -2862,6 +2918,7 @@ Form bei der Aufsichtsbehörde einzureichen.
 
 
 ###### § 43a Berichtspflichten zum Zwecke der Finanzstabilität; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036300118)
 
 (1) Die Aufsichtsbehörde kann von beaufsichtigten Unternehmen und von
 beaufsichtigten Gruppen Informationen verlangen,
@@ -2896,6 +2953,7 @@ Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
 
 ###### § 44 Prognoserechnungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004500000)
 
 Die Aufsichtsbehörde kann von den beaufsichtigten Unternehmen die
 Durchführung von Berechnungen einschließlich Prognoserechnungen
@@ -2923,6 +2981,7 @@ dass dabei bestimmte Rechnungsannahmen zugrunde gelegt werden.
 
 
 ###### § 45 Befreiung von Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004600000)
 
 (1) Wenn Berichte auf Grund von delegierten Rechtsakten gemäß Artikel
 35 Absatz 9 und technischen Durchführungsstandards gemäß Artikel 35
@@ -3043,6 +3102,7 @@ mindestens die folgenden Kriterien:
 
 
 ###### § 46 Informationspflichten gegenüber der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004700000)
 
 (1) Alle Unternehmen, die nach diesem Gesetz der Aufsicht unterliegen,
 haben der Bundesanstalt die von ihr angeforderten Zählnachweise über
@@ -3057,6 +3117,7 @@ Aufsicht nach diesem Gesetz unterliegen.
 
 
 ###### § 47 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004801128)
 
 Versicherungsunternehmen haben der Aufsichtsbehörde unverzüglich
 Folgendes anzuzeigen:
@@ -3145,9 +3206,11 @@ Folgendes anzuzeigen:
 
 
 #### Abschnitt 5 - Versicherungsvertrieb
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001101118)
 
 
 ##### § 48 Anforderungen an den Versicherungsvertrieb
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE004903128)
 
 (1) Versicherungsunternehmen sind verpflichtet, nur mit solchen
 gewerbsmäßig tätigen Versicherungsvermittlern zusammenzuarbeiten, die
@@ -3234,6 +3297,7 @@ nicht in einem Mitglied- oder Vertragsstaat belegen sind, gelten die
 
 
 ##### § 48a Vertriebsvergütung und Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037000118)
 
 (1) Die Vertriebsvergütung von Versicherungsunternehmen und deren
 Angestellten darf nicht mit ihrer Pflicht, im bestmöglichen Interesse
@@ -3297,6 +3361,7 @@ zu handeln.
 
 
 ##### § 48b Sondervergütungs- und Provisionsabgabeverbot
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037100118)
 
 (1) Versicherungsunternehmen und Versicherungsvermittlern im Sinne von
 § 59 Absatz 1 des Versicherungsvertragsgesetzes ist es untersagt,
@@ -3339,6 +3404,7 @@ Absatz 1 und § 177 Absatz 1 bleiben unberührt.
 
 
 ##### § 48c Durchleitungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037200118)
 
 (1) Sobald der Versicherungsberater das Versicherungsunternehmen nach
 § 34d Absatz 2 Satz 6 der Gewerbeordnung darüber informiert, dass er
@@ -3383,6 +3449,7 @@ abweichend von den Sätzen 1 und 2 diese zugrunde gelegt werden.
 
 
 ##### § 49 Stornohaftung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005001123)
 
 (1) Die Versicherungsunternehmen müssen sicherstellen, dass zumindest
 im Fall der Kündigung eines Vertrags durch den Versicherungsnehmer,
@@ -3411,6 +3478,7 @@ versicherte Person abzustellen ist.
 
 
 ##### § 50 Entgelt bei der Vermittlung substitutiver Krankenversicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005100000)
 
 (1) Die Versicherungsunternehmen dürfen Versicherungsvermittlern für
 den Abschluss von substitutiven Krankenversicherungen in einem
@@ -3448,6 +3516,7 @@ und dem Versicherungsvermittler ist unwirksam.
 
 
 ##### § 50a Entgelt bei der Vermittlung von Restschuldversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040200123)
 
 (1) Gewährt ein Versicherungsunternehmen einem Versicherungsvermittler
 eine Abschlussprovision für den Abschluss einer
@@ -3508,6 +3577,7 @@ Vorgaben des Satzes 2 und der Absätze 1 bis 3 entspricht.
 
 
 ##### § 51 Beschwerden über Versicherungsvermittler
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005201118)
 
 Versicherungsunternehmen müssen Beschwerden von Kunden über
 Versicherungsvermittler oder andere Versicherungsunternehmen, die ihre
@@ -3519,9 +3589,11 @@ Gewerbeordnung zuständige Behörde davon in Kenntnis setzen.
 
 
 #### Abschnitt 6 - Verhinderung von Geldwäsche und von Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001200000)
 
 
 ##### § 52 Verpflichtete Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005301118)
 
 Die Vorschriften dieses Abschnitts gelten für alle
 Versicherungsunternehmen im Sinne von § 2 Absatz 1 Nummer 7 des
@@ -3529,6 +3601,7 @@ Geldwäschegesetzes.
 
 
 ##### § 53 Interne Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005402360)
 
 (1) Die verpflichteten Unternehmen dürfen im Einzelfall einander
 Informationen übermitteln, wenn tatsächliche Anhaltspunkte dafür
@@ -3552,6 +3625,7 @@ vorgelegt wird.
 
 
 ##### § 54 Allgemeine Sorgfaltspflichten in Bezug auf den Bezugsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005501118)
 
 (1) Ein verpflichtetes Unternehmen ist unbeschadet des § 10 Absatz 1
 Nummer 2 des Geldwäschegesetzes bei Begründung der Geschäftsbeziehung
@@ -3594,6 +3668,7 @@ Absatz 1 des Geldwäschegesetzes ist entsprechend anzuwenden.
 
 
 ##### § 55 Verstärkte Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005601118)
 
 Handelt es sich bei einem vom Vertragspartner abweichenden
 Bezugsberechtigten oder, sofern vorhanden, um den wirtschaftlich
@@ -3620,16 +3695,20 @@ genannten Pflichten hinaus zusätzlich
 
 
 ##### § 56 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005701118)
 
 
 
 #### Abschnitt 7 - Grenzüberschreitende Geschäftstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001300000)
 
 
 ##### Unterabschnitt 1 - Dienstleistungsverkehr, Niederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001400000)
 
 
 ###### § 57 Versicherungsgeschäfte über Niederlassungen oder im Dienstleistungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005801128)
 
 (1) Erstversicherungsunternehmen dürfen nach Maßgabe der §§ 58 und 59
 das Versicherungsgeschäft in den anderen Mitglied- oder
@@ -3709,6 +3788,7 @@ zugelassen wurde.
 
 
 ###### § 58 Errichtung einer Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE005900000)
 
 (1) Erstversicherungsunternehmen haben der Aufsichtsbehörde die
 beabsichtigte Errichtung einer Niederlassung unter Angabe des
@@ -3788,6 +3868,7 @@ spätestens einen Monat vor der beabsichtigten Durchführung der
 
 
 ###### § 59 Aufnahme des Dienstleistungsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006000000)
 
 (1) Erstversicherungsunternehmen haben der Aufsichtsbehörde die
 beabsichtigte Aufnahme des Dienstleistungsverkehrs unter Angabe des
@@ -3879,6 +3960,7 @@ Vertreter für die Schadenregulierung ernennen will.
 
 
 ###### § 60 Statistische Angaben über grenzüberschreitende Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006101118)
 
 (1) Jedes Erstversicherungsunternehmen muss der Aufsichtsbehörde für
 im Rahmen der Niederlassungsfreiheit getätigte Geschäfte und getrennt
@@ -3906,9 +3988,11 @@ Absatz 1 genannten Angaben zusammengefasst mit.
 
 
 ##### Unterabschnitt 2 - Unternehmen mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001500000)
 
 
 ###### § 61 Geschäftstätigkeit durch eine Niederlassung oder im Dienstleistungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006202128)
 
 (1) Erstversicherungsunternehmen mit Sitz in einem anderen Mitglied-
 oder Vertragsstaat mit Ausnahme der in den §§ 65 und 66 genannten
@@ -3956,6 +4040,7 @@ Angaben den Aufsichtsbehörden der Herkunftsstaaten mit.
 
 
 ###### § 62 Beaufsichtigung der Geschäftstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006305128)
 
 (1) Die Finanzaufsicht über die Geschäftstätigkeit im Sinne des § 61
 obliegt allein der Aufsichtsbehörde des Herkunftsstaats, die Aufsicht
@@ -4029,6 +4114,7 @@ erforderlichen Maßnahmen.
 
 
 ###### § 63 Bestandsübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006400000)
 
 (1) Ein Vertrag, durch den ein Erstversicherungsunternehmen mit Sitz
 in einem anderen Mitglied- oder Vertragsstaat ganz oder teilweise
@@ -4057,6 +4143,7 @@ Absatz 2 Satz 5 entsprechend anzuwenden.
 
 
 ###### § 64 Bei Lloyd´s vereinigte Einzelversicherer
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006500000)
 
 (1) Die bei Lloyd´s vereinigten Einzelversicherer dürfen eine
 Geschäftstätigkeit nur ausüben, wenn die Vereinigung im Namen der
@@ -4080,6 +4167,7 @@ werden.
 
 
 ###### § 65 Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006600000)
 
 (1) Versicherungsunternehmen mit Sitz in einem anderen Mitglied- oder
 Vertragsstaat, auf die die Richtlinie 2009/138/EG keine Anwendung
@@ -4117,6 +4205,7 @@ Niederlassung voraussetzen.
 
 
 ###### § 66 Dienstleistungsverkehr; Mitversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006700000)
 
 (1) Erstversicherungsunternehmen, die im Dienstleistungsverkehr
 ausschließlich die in der Anlage 1 Nummer 4 bis 7 und 12 genannten
@@ -4171,6 +4260,7 @@ Verwaltungsakt gewähren.
 
 
 ###### § 66a Entsprechende Anwendung des EU-Passregimes
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039700128)
 
 (1) Wird der Austritt des Vereinigten Königreichs Großbritannien und
 Nordirland aus der Europäischen Union wirksam, ohne dass bis zu diesem
@@ -4200,9 +4290,11 @@ dass die §§ 243 und 243a anzuwenden sind.
 
 
 ##### Unterabschnitt 3 - Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001600000)
 
 
 ###### § 67 Erlaubnis; Spartentrennung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006802360)
 
 (1) Versicherungsunternehmen eines Drittstaats, die im Inland das
 Erst- oder Rückversicherungsgeschäft betreiben wollen, bedürfen zum
@@ -4254,6 +4346,7 @@ entsprechend.
 
 
 ###### § 68 Niederlassung; Hauptbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE006900000)
 
 (1) Die Unternehmen, für die § 67 Absatz 1 gilt, haben im Inland eine
 Niederlassung zu errichten und dort alle die Niederlassung
@@ -4295,6 +4388,7 @@ Versicherten zu verfügen.
 
 
 ###### § 69 Antrag; Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007000000)
 
 (1) Der Antrag nach § 67 ist bei der Bundesanstalt zu stellen. Mit dem
 Antrag sind einzureichen:
@@ -4365,6 +4459,7 @@ in einem Drittstaat.
 
 
 ###### § 70 Erleichterungen für Unternehmen, die bereits in einem anderen Mitglied- oder Vertragsstaat zugelassen sind
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007100000)
 
 (1) Einem Unternehmen, das in einem anderen Mitglied- oder
 Vertragsstaat die Erlaubnis zum Geschäftsbetrieb erhalten oder
@@ -4418,6 +4513,7 @@ bleiben unberührt.
 
 
 ###### § 71 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007200000)
 
 Die Bundesanstalt widerruft die Erlaubnis, wenn
 
@@ -4435,6 +4531,7 @@ Die Bundesanstalt widerruft die Erlaubnis, wenn
 
 
 ###### § 72 Versicherung inländischer Risiken
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007300000)
 
 Erstversicherungsunternehmen eines Drittstaats, denen der
 Geschäftsbetrieb nach § 67 erlaubt worden ist, dürfen
@@ -4445,6 +4542,7 @@ Inland wohnen.
 
 
 ###### § 73 Bestandsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007400000)
 
 (1) Ein Vertrag, durch den der Versicherungsbestand einer inländischen
 Niederlassung im Sinne des § 68 Absatz 1 ganz oder teilweise
@@ -4510,12 +4608,15 @@ zuständige Aufsichtsbehörde nichts anderes bestimmt.
 
 
 ### Kapitel 2 - Finanzielle Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001700000)
 
 
 #### Abschnitt 1 - Solvabilitätsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001800000)
 
 
 ##### § 74 Bewertung der Vermögenswerte und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007500000)
 
 (1) Versicherungsunternehmen haben nach Maßgabe der Absätze 2 und 3
 sowie der §§ 75 bis 87 eine Gegenüberstellung von Aktiva und Passiva
@@ -4537,6 +4638,7 @@ Versicherungsunternehmens zu berücksichtigen, findet nicht statt.
 
 
 ##### § 75 Allgemeine Vorschriften für die Bildung versicherungstechnischer Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007600000)
 
 (1) In der Solvabilitätsübersicht sind für sämtliche
 Versicherungsverpflichtungen gegenüber Versicherungsnehmern und
@@ -4565,6 +4667,7 @@ sind die in § 74 Absatz 3 genannten Grundsätze zu beachten.
 
 
 ##### § 76 Wert der versicherungstechnischen Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007700000)
 
 (1) Der Wert der versicherungstechnischen Rückstellungen entspricht
 der Summe aus
@@ -4588,6 +4691,7 @@ in diesem Fall nicht.
 
 
 ##### § 77 Bester Schätzwert
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007800000)
 
 (1) Der beste Schätzwert entspricht dem wahrscheinlichkeitsgewichteten
 Durchschnitt künftiger Zahlungsströme unter Berücksichtigung des
@@ -4616,6 +4720,7 @@ auf die maßgebliche risikofreie Zinskurve angewandt.
 
 
 ##### § 78 Risikomarge
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE007900000)
 
 (1) Die Risikomarge stellt sicher, dass der Wert der
 versicherungstechnischen Rückstellungen dem Betrag entspricht, den die
@@ -4633,6 +4738,7 @@ an anrechnungsfähigen Eigenmitteln fest, so ist dieser zu verwenden.
 
 
 ##### § 79 Allgemeine Grundsätze für die Berechnung der versicherungstechnischen Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008000000)
 
 (1) Versicherungsunternehmen müssen über interne Prozesse und
 Verfahren verfügen, um die Genauigkeit, Vollständigkeit und
@@ -4650,6 +4756,7 @@ Einzelfallanalysen verwenden.
 
 
 ##### § 80 Matching-Anpassung an die maßgebliche risikofreie Zinskurve
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008100000)
 
 (1) Mit Genehmigung der Aufsichtsbehörde können
 Versicherungsunternehmen eine Matching-Anpassung an die maßgebliche
@@ -4768,6 +4875,7 @@ Schätzwerts dieser Verpflichtungen eine Volatilitätsanpassung nach §
 
 
 ##### § 81 Berechnung der Matching-Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008200000)
 
 Die Matching-Anpassung nach § 80 ist für jede Währung nach folgenden
 Grundsätzen zu berechnen:
@@ -4817,6 +4925,7 @@ Grundsätzen zu berechnen:
 
 
 ##### § 82 Volatilitätsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008300000)
 
 (1) Versicherungsunternehmen können mit Genehmigung der
 Aufsichtsbehörde eine Volatilitätsanpassung der maßgeblichen
@@ -4835,6 +4944,7 @@ Volatilitätsanpassung.
 
 
 ##### § 83 Zu berücksichtigende technische Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008401360)
 
 (1) Wenn Durchführungsrechtsakte mit den in Artikel 77e Absatz 1
 genannten technischen Informationen gemäß Artikel 77e Absatz 2 der
@@ -4854,6 +4964,7 @@ werden.
 
 
 ##### § 84 Weitere Sachverhalte, die bei der Berechnung der versicherungstechnischen Rückstellungen zu berücksichtigen sind
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008500000)
 
 (1) Bei der Berechnung der versicherungstechnischen Rückstellungen
 sind ferner die folgenden Sachverhalte zu berücksichtigen:
@@ -4885,6 +4996,7 @@ Absatzes 1 Nummer 3 anzusehen.
 
 
 ##### § 85 Finanzgarantien und vertragliche Optionen in den Versicherungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008600000)
 
 (1) Bei der Berechnung der versicherungstechnischen Rückstellungen ist
 der Wert der Finanzgarantien und sonstiger vertraglicher Optionen zu
@@ -4901,6 +5013,7 @@ Nichtfinanzbedingungen auf die Ausübung dieser Optionen haben könnten.
 
 
 ##### § 86 Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008700000)
 
 (1) Die Berechnung der einforderbaren Beträge aus
 Rückversicherungsverträgen und gegenüber Zweckgesellschaften erfolgt
@@ -4918,6 +5031,7 @@ ergebenden durchschnittlichen Verlusts.
 
 
 ##### § 87 Vergleich mit Erfahrungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008800000)
 
 (1) Versicherungsunternehmen haben durch geeignete Prozesse und
 Verfahren sicherzustellen, dass die besten Schätzwerte und die
@@ -4932,6 +5046,7 @@ Annahmen vorzunehmen.
 
 
 ##### § 88 Befugnisse der Aufsichtsbehörde in Bezug auf versicherungstechnische Rückstellungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE008900000)
 
 (1) Auf Verlangen der Aufsichtsbehörde haben ihr die
 Versicherungsunternehmen Folgendes nachzuweisen:
@@ -4986,12 +5101,15 @@ Zustimmung des Bundesrates.
 
 
 #### Abschnitt 2 - Solvabilitätsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG001900000)
 
 
 ##### Unterabschnitt 1 - Bestimmung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002000000)
 
 
 ###### § 89 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009000000)
 
 (1) Versicherungsunternehmen haben stets über anrechnungsfähige
 Eigenmittel mindestens in Höhe der Solvabilitätskapitalanforderung zu
@@ -5044,6 +5162,7 @@ als Vermögenswert zu behandeln und zählt zu den Basiseigenmitteln.
 
 
 ###### § 90 Genehmigung ergänzender Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009100000)
 
 (1) Ergänzende Eigenmittel dürfen nur mit vorheriger Genehmigung der
 Aufsichtsbehörde angesetzt werden.
@@ -5084,6 +5203,7 @@ Eigenmittel berücksichtigt die Aufsichtsbehörde:
 
 
 ###### § 91 Einstufung der Eigenmittelbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009200000)
 
 (1) Die Versicherungsunternehmen haben ihre Eigenmittelbestandteile in
 drei Qualitätsklassen einzustufen.
@@ -5131,6 +5251,7 @@ wird.
 
 
 ###### § 92 Kriterien der Einstufung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009300000)
 
 (1) Basiseigenmittel werden in die Qualitätsklasse 1 eingestuft, wenn
 sie die in § 91 Absatz 2 Nummer 1 und 2 genannten Merkmale unter
@@ -5152,6 +5273,7 @@ nicht unter die Absätze 1 bis 3 fallen, werden in die Qualitätsklasse
 
 
 ###### § 93 Einstufung bestimmter Eigenmittelbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009400000)
 
 (1) In die Qualitätsklasse 1 eingestuft wird der
 wahrscheinlichkeitsgewichtete Durchschnitt künftiger Zahlungsströme an
@@ -5194,6 +5316,7 @@ darf und nicht auf festgelegte Überschussanteile entfällt
 
 
 ###### § 94 Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009501118)
 
 (1) Für die Einhaltung der Solvabilitätskapitalanforderung setzen sich
 die anrechnungsfähigen Eigenmittel zusammen aus Eigenmitteln der
@@ -5216,6 +5339,7 @@ anrechnungsfähig, soweit zumindest folgende Bedingungen erfüllt sind:
 
 
 ###### § 95 Eigenmittel zur Einhaltung der Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009600000)
 
 (1) Für die Einhaltung der Mindestkapitalanforderung setzen sich die
 anrechnungsfähigen Eigenmittel nur aus Eigenmitteln der
@@ -5227,9 +5351,11 @@ mindestens die Hälfte der Mindestkapitalanforderung.
 
 
 ##### Unterabschnitt 2 - Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002100000)
 
 
 ###### § 96 Ermittlung der Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009700000)
 
 (1) Die Solvabilitätskapitalanforderung kann mit Hilfe einer
 Standardformel oder eines internen Modells ermittelt werden. In beiden
@@ -5246,6 +5372,7 @@ und verwendet.
 
 
 ###### § 97 Berechnung der Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009800000)
 
 (1) Die Berechnung der Solvabilitätskapitalanforderung hat unter der
 Annahme der Unternehmensfortführung zu erfolgen.
@@ -5295,6 +5422,7 @@ Solvabilitätskapitalanforderung angemessen Rechnung getragen wird.
 
 
 ###### § 98 Häufigkeit der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE009900000)
 
 (1) Die Versicherungsunternehmen müssen die
 Solvabilitätskapitalanforderung mindestens einmal im Jahr berechnen
@@ -5317,6 +5445,7 @@ Solvabilitätskapitalanforderung verlangen.
 
 
 ###### § 99 Struktur der Standardformel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010000000)
 
 Wird die Solvabilitätskapitalanforderung mit der Standardformel
 berechnet, so setzt sie sich aus den folgenden Bestandteilen zusammen:
@@ -5336,6 +5465,7 @@ berechnet, so setzt sie sich aus den folgenden Bestandteilen zusammen:
 
 
 ###### § 100 Aufbau der Basissolvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010100000)
 
 (1) Die Basissolvabilitätskapitalanforderung umfasst einzelne
 Risikomodule, die gemäß der Anlage 3 aggregiert werden. Sie umfasst
@@ -5385,6 +5515,7 @@ und krankenversicherungstechnischen Module zugrunde gelegt werden.
 
 
 ###### § 101 Nichtlebensversicherungstechnisches Risikomodul
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010200000)
 
 (1) Das nichtlebensversicherungstechnische Risikomodul gibt das sich
 aus Nichtlebensversicherungsverpflichtungen ergebende Risiko in Bezug
@@ -5416,6 +5547,7 @@ ergibt aus:
 
 
 ###### § 102 Lebensversicherungstechnisches Risikomodul
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010300000)
 
 (1) Das lebensversicherungstechnische Risikomodul gibt das sich aus
 Lebensversicherungsverpflichtungen ergebende Risiko in Bezug auf die
@@ -5471,6 +5603,7 @@ ergibt aus:
 
 
 ###### § 103 Krankenversicherungstechnisches Risikomodul
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010400000)
 
 (1) Das krankenversicherungstechnische Risikomodul gibt das sich aus
 Krankenversicherungsverpflichtungen ergebende Risiko in Bezug auf die
@@ -5503,6 +5636,7 @@ Wertes der Versicherungsverbindlichkeiten, das sich ergibt aus
 
 
 ###### § 104 Marktrisikomodul
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010500000)
 
 (1) Das Marktrisikomodul deckt das Risiko ab, das sich ergibt aus der
 Höhe oder der Volatilität der Marktpreise von Finanzinstrumenten, die
@@ -5545,6 +5679,7 @@ ebenfalls zu berechnen.
 
 
 ###### § 105 Gegenparteiausfallrisikomodul
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010600000)
 
 (1) Das Gegenparteiausfallrisikomodul trägt möglichen Verlusten
 Rechnung, die sich aus einem unerwarteten Ausfall oder der
@@ -5578,6 +5713,7 @@ Gegenpartei.
 
 
 ###### § 106 Aktienrisikountermodul
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010700000)
 
 (1) Das Aktienrisikountermodul schließt eine symmetrische Anpassung
 des Faktors im Szenario für Aktienanlagen ein, der das Risiko aus
@@ -5596,6 +5732,7 @@ dem Standardfaktor für Aktienanlagen liegt.
 
 
 ###### § 107 Kapitalanforderung für das operationelle Risiko
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010800000)
 
 (1) Die Kapitalanforderung für das operationelle Risiko deckt
 operationelle Risiken ab, soweit diese nicht bereits in den in § 100
@@ -5620,6 +5757,7 @@ nicht überschreiten.
 
 
 ###### § 108 Anpassung für die Verlustausgleichsfähigkeit der versicherungstechnischen Rückstellungen und latenten Steuern
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE010900000)
 
 (1) Die in § 99 Nummer 3 genannte Anpassung für die
 Verlustausgleichsfähigkeit der versicherungstechnischen Rückstellungen
@@ -5645,6 +5783,7 @@ besten Schätzwerts verglichen.
 
 
 ###### § 109 Abweichungen von der Standardformel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011000000)
 
 (1) Versicherungsunternehmen können eine vereinfachte Berechnung für
 ein Untermodul oder Risikomodul verwenden, wenn Art, Umfang und
@@ -5664,6 +5803,7 @@ Die verwendeten Daten müssen genau, vollständig und angemessen sein.
 
 
 ###### § 110 Wesentliche Abweichungen von den Annahmen, die der Berechnung mit der Standardformel zugrunde liegen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011100000)
 
 Ist die Berechnung der Solvabilitätskapitalanforderung nach der
 Standardformel nicht zweckmäßig, weil das Risikoprofil des
@@ -5678,9 +5818,11 @@ einzuhalten.
 
 
 ##### Unterabschnitt 3 - Interne Modelle
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002200000)
 
 
 ###### § 111 Verwendung interner Modelle
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011201128)
 
 (1) Versicherungsunternehmen können für die Berechnung der
 Solvabilitätskapitalanforderung ein internes Modell in Form eines
@@ -5729,6 +5871,7 @@ gemäß der Standardformel nach den §§ 96 bis 110 verlangen.
 
 
 ###### § 112 Interne Modelle in Form von Partialmodellen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011300000)
 
 (1) Interne Modelle in Form von Partialmodellen werden genehmigt für
 die Berechnung
@@ -5787,6 +5930,7 @@ Bezug auf dieses Risikomodul abgedeckt ist.
 
 
 ###### § 113 Verantwortung des Vorstands; Mitwirkung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011400000)
 
 (1) Der Vorstand ist selbst verantwortlich
 
@@ -5816,6 +5960,7 @@ Modell zu erfüllen.
 
 
 ###### § 114 Nichterfüllung der Anforderungen an das interne Modell
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011500000)
 
 (1) Wenn Versicherungsunternehmen nach der Erteilung der
 aufsichtsbehördlichen Genehmigung zur Verwendung eines internen
@@ -5832,6 +5977,7 @@ anordnen.
 
 
 ###### § 115 Verwendungstest
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011600000)
 
 (1) Das interne Modell muss in erheblichem Maße zur
 Unternehmenssteuerung verwendet werden und in der
@@ -5858,6 +6004,7 @@ Anforderungen der Absätze 1 und 2 erfüllt sind.
 
 
 ###### § 116 Statistische Qualitätsstandards für Wahrscheinlichkeitsverteilungsprognosen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011700000)
 
 (1) Das interne Modell muss alle wesentlichen Risiken des
 Versicherungsunternehmens abdecken. Die in § 97 Absatz 3 genannten
@@ -5890,6 +6037,7 @@ mindestens einmal jährlich zu aktualisieren.
 
 
 ###### § 117 Sonstige statistische Qualitätsstandards
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011800000)
 
 (1) Abhängigkeiten innerhalb der Risikokategorien sowie zwischen den
 Risikokategorien in Bezug auf Diversifikationseffekte können im
@@ -5919,6 +6067,7 @@ berücksichtigen.
 
 
 ###### § 118 Kalibrierungsstandards
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE011900000)
 
 (1) Die Versicherungsunternehmen können abweichend von § 97 Absatz 2
 im internen Modell einen anderen Zeitraum oder ein anderes Risikomaß
@@ -5950,6 +6099,7 @@ anerkannten Marktpraxis entspricht.
 
 
 ###### § 119 Zuordnung von Gewinnen und Verlusten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012000000)
 
 Die Versicherungsunternehmen haben die Ursachen und Quellen von
 Gewinnen und Verlusten jedes Hauptgeschäftsbereichs mindestens einmal
@@ -5961,6 +6111,7 @@ Versicherungsunternehmen widerspiegeln.
 
 
 ###### § 120 Validierungsstandards
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012100000)
 
 (1) Versicherungsunternehmen müssen über einen regelmäßigen
 Modellvalidierungszyklus verfügen, der die Kontrolle des
@@ -5988,6 +6139,7 @@ für das interne Modell verwendeten Daten.
 
 
 ###### § 121 Dokumentationsstandards
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012200000)
 
 (1) Der Aufbau und die Funktionsweise des internen Modells sind zu
 dokumentieren. Aus dieser Dokumentation muss hervorgehen, dass die
@@ -6004,9 +6156,11 @@ ihrem internen Modell (§ 111 Absatz 2) zu dokumentieren.
 
 
 ##### Unterabschnitt 4 - Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002300000)
 
 
 ###### § 122 Bestimmung der Mindestkapitalanforderung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012300000)
 
 (1) Die Mindestkapitalanforderung entspricht dem Betrag
 anrechnungsfähiger Basiseigenmittel, unterhalb dessen die
@@ -6027,6 +6181,7 @@ Zustimmung des Bundesrates.
 
 
 ###### § 123 Berechnungsturnus; Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012400000)
 
 (1) Versicherungsunternehmen haben die Mindestkapitalanforderung
 vierteljährlich zu berechnen und das Berechnungsergebnis der
@@ -6041,9 +6196,11 @@ dafür zu erläutern.
 
 
 #### Abschnitt 3 - Anlagen; Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002400000)
 
 
 ##### § 124 Anlagegrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012501118)
 
 (1) Versicherungsunternehmen müssen ihre gesamten Vermögenswerte nach
 dem Grundsatz der unternehmerischen Vorsicht anlegen. Dabei sind
@@ -6154,6 +6311,7 @@ nicht ausländisches Recht Abweichendes vorschreibt.
 
 
 ##### § 125 Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012601123)
 
 (1) Der Vorstand eines Erstversicherungsunternehmens hat schon im
 Laufe des Geschäftsjahres Beträge in solcher Höhe dem
@@ -6290,6 +6448,7 @@ Pensionsprodukt gesonderte Anlagestöcke zu bilden sind.
 
 
 ##### § 126 Vermögensverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012701128)
 
 (1) Das Versicherungsunternehmen hat dafür zu sorgen, dass die
 Bestände des Sicherungsvermögens in ein Vermögensverzeichnis einzeln
@@ -6340,6 +6499,7 @@ aufzubewahren und zu verwalten.
 
 
 ##### § 127 Zuführungen zum Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012800000)
 
 (1) Erreicht das Sicherungsvermögen nicht den Mindestumfang nach § 125
 Absatz 2, hat der Vorstand den fehlenden Betrag unverzüglich dem
@@ -6357,6 +6517,7 @@ geboten sein.
 
 
 ##### § 128 Treuhänder für das Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE012900000)
 
 (1) Zur Überwachung des Sicherungsvermögens für die
 Lebensversicherung, die Krankenversicherung der in § 146 genannten
@@ -6393,6 +6554,7 @@ Aufsichtsbehörde.
 
 
 ##### § 129 Sicherstellung des Sicherungsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013000000)
 
 (1) Das Sicherungsvermögen ist so sicherzustellen, dass nur mit
 Zustimmung des Treuhänders darüber verfügt werden kann.
@@ -6423,6 +6585,7 @@ Sicherungsvermögen beziehen.
 
 
 ##### § 130 Entnahme aus dem Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013100000)
 
 (1) Dem Sicherungsvermögen dürfen außer den Mitteln, die zur Vornahme
 und Änderung der Kapitalanlagen erforderlich sind, nur die Beträge
@@ -6441,6 +6604,7 @@ den Beständen des Sicherungsvermögens gehören.
 
 
 ##### § 131 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013200000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für
 Versicherungsunternehmen, die nicht der Aufsicht durch die
@@ -6495,9 +6659,11 @@ Zustimmung des Bundesrates.
 
 
 #### Abschnitt 4 - Versicherungsunternehmen in besonderen Situationen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002500000)
 
 
 ##### § 132 Feststellung und Anzeige einer sich verschlechternden finanziellen Lage
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013300000)
 
 (1) Ein Versicherungsunternehmen muss über geeignete Verfahren
 verfügen, um eine Verschlechterung seiner finanziellen Lage
@@ -6510,6 +6676,7 @@ Versicherungsunternehmen unverzüglich der Aufsichtsbehörde anzuzeigen.
 
 
 ##### § 133 Unzureichende Höhe versicherungstechnischer Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013400000)
 
 (1) Sofern ein Versicherungsunternehmen auf Grund einer Verletzung der
 in den §§ 74 bis 88 geregelten Pflichten nur unzureichende
@@ -6532,6 +6699,7 @@ Maßnahme sein sollen.
 
 
 ##### § 134 Nichtbedeckung der Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013501118)
 
 (1) Ist die Solvabilitätskapitalanforderung nicht mehr bedeckt oder
 droht dieser Fall innerhalb der nächsten drei Monate einzutreten, hat
@@ -6600,6 +6768,7 @@ sie die Vermögenswerte, die Gegenstand der Maßnahme sein sollen.
 
 
 ##### § 135 Nichtbedeckung der Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013600000)
 
 (1) Ist die Mindestkapitalanforderung nicht mehr bedeckt oder droht
 dieser Fall innerhalb der nächsten drei Monate einzutreten, hat das
@@ -6623,6 +6792,7 @@ anzuwenden.
 
 
 ##### § 136 Sanierungs- und Finanzierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013700000)
 
 (1) Sanierungsplan und Finanzierungsplan umfassen mindestens die
 folgenden Angaben:
@@ -6656,6 +6826,7 @@ die Rechte der Versicherungsnehmer nicht mehr gefährdet sind.
 
 
 ##### § 137 Fortschreitende Verschlechterung der Solvabilität
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013800000)
 
 (1) Im Fall einer fortschreitenden Verschlechterung der Solvabilität
 eines Versicherungsunternehmens kann die Aufsichtsbehörde neben den in
@@ -6686,12 +6857,15 @@ Versicherungsunternehmens berücksichtigt werden.
 
 
 ### Kapitel 3 - Besondere Vorschriften für einzelne Zweige
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002600000)
 
 
 #### Abschnitt 1 - Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002700000)
 
 
 ##### § 138 Prämienkalkulation in der Lebensversicherung; Gleichbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE013900000)
 
 (1) Die Prämien in der Lebensversicherung müssen unter Zugrundelegung
 angemessener versicherungsmathematischer Annahmen kalkuliert werden
@@ -6707,6 +6881,7 @@ nach gleichen Grundsätzen bemessen werden.
 
 
 ##### § 139 Überschussbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014000000)
 
 (1) Die für die Überschussbeteiligung der Versicherten bestimmten
 Beträge sind, soweit sie den Versicherten nicht unmittelbar zugeteilt
@@ -6745,6 +6920,7 @@ Aufsichtsbehörde nach einem abweichenden Verfahren berechnen.
 
 
 ##### § 140 Rückstellung für Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014100000)
 
 (1) Die der Rückstellung für Beitragsrückerstattung zugewiesenen
 Beträge dürfen nur für die Überschussbeteiligung der Versicherten
@@ -6824,6 +7000,7 @@ beziehungsweise sind.
 
 
 ##### § 141 Verantwortlicher Aktuar in der Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014201118)
 
 (1) Jedes Lebensversicherungsunternehmen hat einen Verantwortlichen
 Aktuar zu bestellen. Er muss zuverlässig und fachlich geeignet sein.
@@ -6934,6 +7111,7 @@ im Sinne des § 210 ist.
 
 
 ##### § 142 Treuhänder in der Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014300000)
 
 Soweit bei den nach dem 28. Juli 1994 geschlossenen
 Lebensversicherungsverträgen die Prämien mit Wirkung für bestehende
@@ -6946,6 +7124,7 @@ bedürfen.
 
 
 ##### § 143 Besondere Anzeigepflichten in der Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014400000)
 
 Nach Erteilung der Erlaubnis zum Betrieb der Lebensversicherung hat
 das Unternehmen unverzüglich der Aufsichtsbehörde die Grundsätze für
@@ -6957,6 +7136,7 @@ oder geänderter Grundsätze.
 
 
 ##### § 144 Information bei betrieblicher Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014502118)
 
 (1) Soweit Lebensversicherungsunternehmen Leistungen der betrieblichen
 Altersversorgung erbringen, gelten für die Information der
@@ -6969,6 +7149,7 @@ Versicherungsverträgen deutsches Recht zugrunde liegt.
 
 
 ##### § 145 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014601118)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
 nähere Einzelheiten festlegen bezüglich
@@ -7034,9 +7215,11 @@ den Aufsichtsbehörden der Länder.
 
 
 #### Abschnitt 2 - Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002800000)
 
 
 ##### § 146 Substitutive Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014700000)
 
 (1) Soweit die Krankenversicherung ganz oder teilweise den im
 gesetzlichen Sozialversicherungssystem vorgesehenen Kranken- oder
@@ -7105,6 +7288,7 @@ kalkuliert werden.
 
 
 ##### § 147 Sonstige Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014800000)
 
 Sofern die nicht-substitutive Krankenversicherung nach Art der
 Lebensversicherung betrieben wird, sind § 146 Absatz 1 Nummer 1 bis 4
@@ -7112,6 +7296,7 @@ und Absatz 2 sowie § 156 entsprechend anzuwenden.
 
 
 ##### § 148 Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE014900000)
 
 Vorbehaltlich der §§ 110 und 111 des Elften Buches Sozialgesetzbuch
 sind § 146 Absatz 1 Nummer 1 bis 4 und Absatz 2 sowie die §§ 155 bis
@@ -7123,6 +7308,7 @@ einem anderen privaten Krankenversicherungsunternehmen vorzusehen.
 
 
 ##### § 149 Prämienzuschlag in der substitutiven Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015000000)
 
 In der substitutiven Krankheitskostenversicherung ist spätestens mit
 Beginn des Kalenderjahres, das auf die Vollendung des 21. Lebensjahres
@@ -7140,6 +7326,7 @@ nicht.
 
 
 ##### § 150 Gutschrift zur Alterungsrückstellung; Direktgutschrift
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015100000)
 
 (1) Das Versicherungsunternehmen hat den Versicherten in der nach Art
 der Lebensversicherung betriebenen Krankheitskosten- und freiwilligen
@@ -7187,6 +7374,7 @@ dann zusätzlich gemäß Absatz 2 gutzuschreiben.
 
 
 ##### § 151 Überschussbeteiligung der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015200000)
 
 (1) § 139 Absatz 1 und 2 Satz 1 und 2 sowie § 140 Absatz 1 mit
 Ausnahme von § 140 Absatz 1 Satz 2 Nummer 2 und 3 sind auf
@@ -7214,6 +7402,7 @@ entspricht.
 
 
 ##### § 152 Basistarif
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015301123)
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die substitutive
 Krankenversicherung betreiben, haben einen branchenweit einheitlichen
@@ -7333,6 +7522,7 @@ ermittelt.
 
 
 ##### § 153 Notlagentarif
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015400000)
 
 (1) Nichtzahler nach § 193 Absatz 7 des Versicherungsvertragsgesetzes
 bilden einen Tarif im Sinne des § 155 Absatz 3 Satz 1. Der
@@ -7365,6 +7555,7 @@ Alterungsrückstellung geleistet werden.
 
 
 ##### § 154 Risikoausgleich
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015500000)
 
 (1) Die Versicherungsunternehmen, die einen Basistarif anbieten,
 müssen sich zur dauerhaften Erfüllbarkeit der Verpflichtungen aus den
@@ -7385,6 +7576,7 @@ Bundesanstalt.
 
 
 ##### § 155 Prämienänderungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015600000)
 
 (1) Bei der nach Art der Lebensversicherung betriebenen
 Krankenversicherung dürfen Prämienänderungen erst in Kraft gesetzt
@@ -7458,6 +7650,7 @@ anzupassen. Absatz 3 Satz 3 bis 5 ist entsprechend anzuwenden.
 
 
 ##### § 156 Verantwortlicher Aktuar in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015701118)
 
 (1) Versicherungsunternehmen, die die substitutive Krankenversicherung
 betreiben, haben einen Verantwortlichen Aktuar zu bestellen. § 141
@@ -7487,6 +7680,7 @@ anzuwenden.
 
 
 ##### § 157 Treuhänder in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015800000)
 
 (1) Zum Treuhänder darf nur bestellt werden, wer zuverlässig, fachlich
 geeignet und von dem Versicherungsunternehmen unabhängig ist,
@@ -7527,6 +7721,7 @@ Krankenversicherung, voraus.
 
 
 ##### § 158 Besondere Anzeigepflichten in der Krankenversicherung; Leistungen im Basis- und Notlagentarif
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE015900000)
 
 (1) Krankenversicherungsunternehmen haben der Aufsichtsbehörde
 unverzüglich anzuzeigen:
@@ -7552,6 +7747,7 @@ aus.
 
 
 ##### § 159 Statistische Daten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016000000)
 
 (1) Die Bundesanstalt veröffentlicht nicht tarifspezifische allgemeine
 Wahrscheinlichkeitstafeln und andere einschlägige statistische Daten
@@ -7571,6 +7767,7 @@ Herkunftsstaaten.
 
 
 ##### § 160 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016100000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung für die nach Art der Lebensversicherung betriebene
@@ -7638,9 +7835,11 @@ für Verbraucherschutz zu erlassen.
 
 
 #### Abschnitt 3 - Sonstige Nichtlebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG002900000)
 
 
 ##### § 161 Unfallversicherung mit Prämienrückgewähr
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016201118)
 
 (1) Soweit Unfallversicherungsunternehmen Versicherungen mit
 Rückgewähr der Prämie übernehmen, gelten die §§ 138, 139, 140 Absatz
@@ -7656,6 +7855,7 @@ der Verwendung neuer oder geänderter Grundsätze.
 
 
 ##### § 162 Deckungsrückstellung für Haftpflicht- und Unfall-Renten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016300000)
 
 Für die Berechnung der Deckungsrückstellung von Renten in der
 Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-
@@ -7665,6 +7865,7 @@ Absatz 1 bis 3, 5 und 6 sowie § 145 Absatz 4 entsprechend anzuwenden.
 
 
 ##### § 163 Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016401128)
 
 (1) Für die Erlaubnis zur Deckung der in der Anlage 1 Nummer 10
 Buchstabe a genannten Risiken hat das Versicherungsunternehmen in
@@ -7724,6 +7925,7 @@ Schadenregulierungsbeauftragte gilt nicht als Niederlassung.
 
 
 ##### § 164 Schadenabwicklung in der Rechtsschutzversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016500000)
 
 (1) Ein Versicherungsunternehmen, das die Rechtsschutzversicherung
 zusammen mit anderen Versicherungssparten betreibt, hat die
@@ -7761,9 +7963,11 @@ verbunden sind.
 
 
 #### Abschnitt 4 - Rückversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003000000)
 
 
 ##### § 165 Rückversicherungsunternehmen in Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016600000)
 
 (1) Auf Rückversicherungsunternehmen, die den Abschluss neuer
 Rückversicherungsverträge bis zum 10. Dezember 2007 eingestellt haben
@@ -7815,6 +8019,7 @@ soweit das ausländische Recht nichts Abweichendes vorschreibt.
 
 
 ##### § 166 Bestandsübertragungen; Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016702128)
 
 (1) Jeder Vertrag, durch den ein Versicherungsbestand eines
 inländischen Rückversicherungsunternehmens ganz oder teilweise auf ein
@@ -7867,6 +8072,7 @@ Anwendung.
 
 
 ##### § 167 Finanzrückversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016800000)
 
 (1) Eine Finanzrückversicherung ist eine Rückversicherung, bei der das
 übernommene wirtschaftliche Gesamtrisiko, das sich aus der Übernahme
@@ -7901,6 +8107,7 @@ steuern, kontrollieren und über diese berichten können.
 
 
 ##### § 168 Versicherungs-Zweckgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE016901128)
 
 (1) Eine Versicherungs-Zweckgesellschaft ist eine Kapitalgesellschaft
 oder eine rechtsfähige Personengesellschaft, die kein bestehendes
@@ -7933,6 +8140,7 @@ ausreichende Mittel vorzuweisen.
 
 
 ##### § 169 Rückversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017000000)
 
 (1) Rückversicherungsunternehmen mit Sitz in einem anderen Mitglied-
 oder Vertragsstaat, die eine behördliche Zulassung nach den
@@ -7984,6 +8192,7 @@ dass an die Stelle der Versicherungsnehmer die Vorversicherer treten.
 
 
 ##### § 170 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017100000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung Vorschriften zu erlassen
@@ -8019,9 +8228,11 @@ nicht der Zustimmung des Bundesrates.
 
 
 ### Kapitel 4 - Versicherungsvereine auf Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003100000)
 
 
 #### § 171 Rechtsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017200000)
 
 Ein Verein, der die Versicherung seiner Mitglieder nach dem Grundsatz
 der Gegenseitigkeit betreiben will, wird dadurch rechtsfähig, dass ihm
@@ -8030,6 +8241,7 @@ Gegenseitigkeit Geschäfte zu betreiben.
 
 
 #### § 172 Anwendung handelsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017300000)
 
 Soweit dieses Gesetz nichts anderes vorschreibt, gelten die
 Vorschriften des Ersten und Vierten Buchs des Handelsgesetzbuchs über
@@ -8041,6 +8253,7 @@ Abschnitts des Dritten Buchs des Handelsgesetzbuchs entsprechend.
 
 
 #### § 173 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017400000)
 
 (1) Die Verfassung eines Versicherungsvereins auf Gegenseitigkeit wird
 durch die Satzung bestimmt, soweit sie nicht auf den folgenden
@@ -8050,6 +8263,7 @@ Vorschriften beruht.
 
 
 #### § 174 Firma
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017500000)
 
 (1) Die Satzung hat den Namen (die Firma) und den Sitz des Vereins zu
 bestimmen.
@@ -8060,6 +8274,7 @@ Gegenseitigkeit betrieben wird.
 
 
 #### § 175 Haftung für Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017600000)
 
 Für alle Verbindlichkeiten des Vereins haftet den Vereinsgläubigern
 nur das Vereinsvermögen. Die Mitglieder haften den Vereinsgläubigern
@@ -8067,6 +8282,7 @@ nicht.
 
 
 #### § 176 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017700000)
 
 Die Satzung soll Bestimmungen über den Beginn der Mitgliedschaft
 enthalten. Mitglied kann nur werden, wer ein Versicherungsverhältnis
@@ -8075,6 +8291,7 @@ endet die Mitgliedschaft, wenn das Versicherungsverhältnis aufhört.
 
 
 #### § 177 Gleichbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017800000)
 
 (1) Mitgliedsbeiträge und Vereinsleistungen an die Mitglieder dürfen
 bei gleichen Voraussetzungen nur nach gleichen Grundsätzen bemessen
@@ -8086,6 +8303,7 @@ soweit es die Satzung ausdrücklich gestattet.
 
 
 #### § 178 Gründungsstock
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE017901118)
 
 (1) In der Satzung ist vorzusehen, dass ein Gründungsstock gebildet
 wird, der die Kosten der Vereinserrichtung zu decken sowie als Gewähr-
@@ -8126,6 +8344,7 @@ der Zustimmung der Aufsichtsbehörde. Absatz 4 findet keine Anwendung.
 
 
 #### § 179 Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018000000)
 
 (1) Die Satzung hat zu bestimmen, ob die Ausgaben durch einmalige oder
 wiederkehrende Beiträge gedeckt werden sollen, die im Voraus erhoben
@@ -8143,6 +8362,7 @@ zu decken, ist unzulässig.
 
 
 #### § 180 Beitragspflicht ausgeschiedener oder eingetretener Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018100000)
 
 (1) Zu den Nachschüssen oder Umlagen haben auch die im Laufe des
 Geschäftsjahres ausgeschiedenen oder eingetretenen Mitglieder
@@ -8160,12 +8380,14 @@ bestimmt.
 
 
 #### § 181 Aufrechnungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018200000)
 
 Gegen eine Forderung des Vereins aus der Beitragspflicht kann das
 Mitglied nicht aufrechnen.
 
 
 #### § 182 Ausschreibung von Umlagen und Nachschüssen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018300000)
 
 (1) Die Satzung soll bestimmen, unter welchen Voraussetzungen
 Nachschüsse oder Umlagen ausgeschrieben werden dürfen, insbesondere,
@@ -8177,6 +8399,7 @@ Umlagen ausgeschrieben und eingezogen werden.
 
 
 #### § 183 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018400000)
 
 (1) Die Satzung hat zu bestimmen, wie die Vereinsbekanntmachungen
 erlassen werden.
@@ -8185,6 +8408,7 @@ erlassen werden.
 
 
 #### § 184 Organe
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018500000)
 
 Die Satzung hat zu bestimmen, wie ein Vorstand, ein Aufsichtsrat und
 eine oberste Vertretung (oberstes Organ; Versammlung von Mitgliedern
@@ -8192,6 +8416,7 @@ oder von Vertretern der Mitglieder) zu bilden sind.
 
 
 #### § 185 Anmeldung zum Handelsregister
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018600000)
 
 (1) Sämtliche Vorstands- und Aufsichtsratsmitglieder haben den Verein
 bei dem Gericht, in dessen Bezirk er seinen Sitz hat, zur Eintragung
@@ -8203,6 +8428,7 @@ Geschäftsbetrieb im Sinne des § 171 mitzuteilen.
 
 
 #### § 186 Unterlagen zur Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018700000)
 
 (1) Der Anmeldung zum Handelsregister sind beizufügen:
 
@@ -8240,6 +8466,7 @@ Absatz 2 des Handelsgesetzbuchs entsprechend.
 
 
 #### § 187 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018800000)
 
 (1) Bei der Eintragung ins Handelsregister sind anzugeben:
 
@@ -8267,6 +8494,7 @@ das einzutragen.
 
 
 #### § 188 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE018902360)
 
 (1) Der Vorstand besteht aus mindestens zwei Personen. Für den
 Vorstand gelten § 76 Absatz 1, 3 und 4, die §§ 77 bis 87, 88 bis 91
@@ -8299,6 +8527,7 @@ wenn entgegen dem Gesetz
 
 
 #### § 189 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019002360)
 
 (1) Der Aufsichtsrat besteht aus drei Personen. Die Satzung kann eine
 bestimmte höhere Zahl festsetzen, die durch drei teilbar sein muss.
@@ -8327,11 +8556,13 @@ verpflichtet, wenn mit ihrem Wissen und ohne ihr Einschreiten die in §
 
 
 #### § 190 Schadenersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019100000)
 
 § 117 des Aktiengesetzes gilt entsprechend.
 
 
 #### § 191 Oberste Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019203128)
 
 Für die oberste Vertretung gelten entsprechend die für die
 Hauptversammlung geltenden Vorschriften der §§ 118, 118a, 119 Absatz 1
@@ -8351,6 +8582,7 @@ Erfordernisse bestimmen.
 
 
 #### § 192 Rechte von Minderheiten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019300000)
 
 Soweit die Vorschriften des Aktiengesetzes, die nach den §§ 188, 190
 und 191 entsprechend gelten, einer Minderheit von Aktionären Rechte
@@ -8362,6 +8594,7 @@ Vertretung zu bestimmen.
 
 
 #### § 193 Verlustrücklage
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019400000)
 
 Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen
 Verlusts aus dem Geschäftsbetrieb eine Rücklage (Verlustrücklage,
@@ -8370,6 +8603,7 @@ sind und welchen Mindestbetrag die Rücklage erreichen muss.
 
 
 #### § 194 Überschussverwendung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019500000)
 
 (1) Ein sich nach der Bilanz ergebender Überschuss wird, soweit er
 nicht nach der Satzung der Verlustrücklage oder anderen Rücklagen
@@ -8384,6 +8618,7 @@ verteilt werden soll.
 
 
 #### § 195 Änderung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019600000)
 
 (1) Nur die oberste Vertretung kann die Satzung ändern.
 
@@ -8403,6 +8638,7 @@ anderes vorschreibt.
 
 
 #### § 196 Eintragung der Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019700000)
 
 (1) Die Satzungsänderung ist zur Eintragung ins Handelsregister
 anzumelden. Der Anmeldung ist die Genehmigungsurkunde beizufügen. Es
@@ -8422,6 +8658,7 @@ worden ist.
 
 
 #### § 197 Änderung der allgemeinen Versicherungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019800000)
 
 (1) § 195 Absatz 1 und 2 gilt vorbehaltlich des Absatzes 2
 entsprechend auch für Änderungen der allgemeinen
@@ -8446,6 +8683,7 @@ die bestehenden Versicherungsverhältnisse geändert werden können.
 
 
 #### § 198 Auflösung des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE019900000)
 
 Der Verein wird aufgelöst:
 
@@ -8467,6 +8705,7 @@ Der Verein wird aufgelöst:
 
 
 #### § 199 Auflösungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020000000)
 
 (1) Der Beschluss nach § 198 Nummer 2 bedarf einer Mehrheit von drei
 Vierteln der abgegebenen Stimmen, wenn die Satzung nichts anderes
@@ -8490,6 +8729,7 @@ unberührt, wenn die Satzung nichts anderes bestimmt.
 
 
 #### § 200 Bestandsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020100000)
 
 Verträge, durch die der Versicherungsbestand des Vereins ganz oder
 teilweise auf ein anderes Unternehmen übertragen werden soll, bedürfen
@@ -8502,6 +8742,7 @@ Abfindung auf die Mitglieder zu verteilen ist.
 
 
 #### § 201 Verlust der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020200000)
 
 (1) Verliert ein Versicherungsnehmer durch eine Bestandsübertragung
 ganz oder zum Teil seine Rechte als Vereinsmitglied und wird er nicht
@@ -8542,6 +8783,7 @@ Maßstäbe festgesetzt werden:
 
 
 #### § 202 Anmeldung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020300000)
 
 Der Vorstand hat die Auflösung des Vereins zur Eintragung in das
 Handelsregister anzumelden. Dies gilt nicht in den Fällen des § 198
@@ -8554,6 +8796,7 @@ ablehnenden Beschlusses zu übersenden.
 
 
 #### § 203 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020400000)
 
 (1) Nach der Auflösung des Vereins findet die Abwicklung statt, wenn
 nicht über sein Vermögen das Insolvenzverfahren eröffnet worden ist.
@@ -8567,6 +8810,7 @@ die bestehenden nicht erhöht oder verlängert werden.
 
 
 #### § 204 Abwicklungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020500000)
 
 (1) Die Abwicklung besorgen die Vorstandsmitglieder als Abwickler,
 wenn nicht die Satzung oder ein Beschluss der obersten Vertretung
@@ -8594,6 +8838,7 @@ und die §§ 325, 328 des Handelsgesetzbuchs sinngemäß.
 
 
 #### § 205 Tilgung des Gründungsstocks; Vermögensverteilung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020600000)
 
 (1) Der Gründungsstock darf erst getilgt werden, wenn die Ansprüche
 sämtlicher anderer Gläubiger, insbesondere die der Mitglieder aus
@@ -8612,6 +8857,7 @@ obersten Vertretung übertragen.
 
 
 #### § 206 Fortsetzung des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020700000)
 
 (1) Ist ein Verein durch Zeitablauf oder durch Beschluss der obersten
 Vertretung aufgelöst worden, so kann die oberste Vertretung, solange
@@ -8637,6 +8883,7 @@ Handelsregister des Sitzes des Vereins eingetragen worden ist.
 
 
 #### § 207 Beitragspflicht im Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020800000)
 
 (1) Soweit Mitglieder oder ausgeschiedene Mitglieder nach dem Gesetz
 oder der Satzung zu Beiträgen verpflichtet sind, haften sie bei
@@ -8649,6 +8896,7 @@ für die Schulden des Vereins, als ob sie ihm noch angehörten.
 
 
 #### § 208 Rang der Insolvenzforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE020900000)
 
 (1) Die Ansprüche auf Tilgung des Gründungsstocks stehen allen übrigen
 Insolvenzforderungen nach. Unter den Insolvenzforderungen werden
@@ -8663,6 +8911,7 @@ Umlagen erhoben werden.
 
 
 #### § 209 Nachschüsse und Umlagen im Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021000000)
 
 (1) Die Nachschüsse oder Umlagen, die das Insolvenzverfahren
 erfordert, werden vom Insolvenzverwalter festgestellt und
@@ -8683,6 +8932,7 @@ entsprechend.
 
 
 #### § 210 Kleinere Vereine
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021100000)
 
 (1) Für Vereine, die bestimmungsgemäß einen sachlich, örtlich oder dem
 Personenkreis nach eng begrenzten Wirkungskreis haben (kleinere
@@ -8717,12 +8967,15 @@ Aufsichtsbehörde.
 
 
 ### Kapitel 5 - Kleine Versicherungsunternehmen und Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003200000)
 
 
 #### Abschnitt 1 - Kleine Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003300000)
 
 
 ##### § 211 Kleine Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021202128)
 
 (1) Kleine Versicherungsunternehmen im Sinne dieses Gesetzes sind
 Erstversicherungsunternehmen,
@@ -8811,6 +9064,7 @@ nicht als ein solches zu behandeln.
 
 
 ##### § 212 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021304118)
 
 (1) Für kleine Versicherungsunternehmen gelten die auf
 Erstversicherungsunternehmen, die keine Sterbekassen oder
@@ -8935,6 +9189,7 @@ Eigenmittel treten, und mit folgenden besonderen Maßgaben:
 
 
 ##### § 213 Solvabilitäts- und Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021401118)
 
 Kleine Versicherungsunternehmen müssen stets über Eigenmittel
 mindestens in Höhe der Solvabilitätskapitalanforderung verfügen. Die
@@ -8944,6 +9199,7 @@ Solvabilitätskapitalanforderung gilt als Mindestkapitalanforderung.
 
 
 ##### § 214 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021502128)
 
 (1) In die Ermittlung der Eigenmittel gehen ein
 
@@ -9256,6 +9512,7 @@ Dezember 2027 beginnt.
 
 
 ##### § 215 Anlagegrundsätze für das Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021600000)
 
 (1) Die Bestände des Sicherungsvermögens nach § 125 sind unter
 Berücksichtigung der Art der betriebenen Versicherungsgeschäfte sowie
@@ -9302,6 +9559,7 @@ Einzelfall auf Antrag vorübergehend gestattet.
 
 
 ##### § 216 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021700000)
 
 (1) Zusammen mit dem nach § 341a Absatz 1 des Handelsgesetzbuchs
 vorgeschriebenen Jahresabschluss und Lagebericht ist der
@@ -9315,6 +9573,7 @@ berichten. Die Pflichten nach § 126 Absatz 2 bleiben unberührt.
 
 
 ##### § 217 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021800000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung Vorschriften für kleine Versicherungsunternehmen zu
@@ -9376,9 +9635,11 @@ für Verbraucherschutz zu erlassen.
 
 
 #### Abschnitt 2 - Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003400000)
 
 
 ##### § 218 Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE021900000)
 
 (1) Sterbekassen sind Lebensversicherungsunternehmen, die nach ihrem
 Geschäftsplan nur Todesfallrisiken im Inland versichern, soweit der
@@ -9391,6 +9652,7 @@ betreiben.
 
 
 ##### § 219 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022001118)
 
 (1) Auf Sterbekassen finden unabhängig von der Höhe ihrer
 Beitragseinnahmen und ihrer versicherungstechnischen Rückstellungen
@@ -9441,6 +9703,7 @@ folgender Maßgabe:
 
 
 ##### § 220 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022100000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung Vorschriften über die Berechnung und die Höhe der
@@ -9451,9 +9714,11 @@ nicht der Zustimmung des Bundesrates.
 
 
 ## Teil 3 - Sicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003500000)
 
 
 ### § 221 Pflichtmitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022201119)
 
 (1) Unternehmen, die gemäß § 8 Absatz 1 oder § 67 Absatz 1 zum
 Geschäftsbetrieb in den in der Anlage 1 genannten Versicherungssparten
@@ -9476,6 +9741,7 @@ Bedingungen abhängig machen. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 ### § 222 Aufrechterhaltung der Versicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022301119)
 
 (1) Stellt die Aufsichtsbehörde fest, dass die Voraussetzungen des §
 314 Absatz 1 Satz 1 bei einem Versicherungsunternehmen erfüllt sind,
@@ -9555,6 +9821,7 @@ Aufsichtsbehörde haben keine aufschiebende Wirkung.
 
 
 ### § 223 Sicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022400000)
 
 (1) Bei der Kreditanstalt für Wiederaufbau werden ein Sicherungsfonds
 für die Lebensversicherer und ein Sicherungsfonds für die
@@ -9577,6 +9844,7 @@ entscheidet die Bundesanstalt.
 
 
 ### § 224 Beleihung Privater
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022501119)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz
@@ -9661,6 +9929,7 @@ entsprechend Anwendung:
 
 
 ### § 225 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022601128)
 
 Die Bundesanstalt hat Missständen entgegenzuwirken, welche die
 ordnungsgemäße Erfüllung der Aufgaben der Sicherungsfonds gefährden
@@ -9673,6 +9942,7 @@ die Vorschriften einer Rechtsverordnung nach § 310a.
 
 
 ### § 226 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022700000)
 
 (1) Die Versicherungsunternehmen, die einem Sicherungsfonds angehören,
 sind verpflichtet, Beiträge an den Sicherungsfonds zu leisten. Die
@@ -9744,6 +10014,7 @@ der Sicherungsfonds.
 
 
 ### § 227 Rechnungslegung des Sicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022801119)
 
 (1) Die Sicherungsfonds haben für den Schluss eines jeden
 Kalenderjahres jeweils einen Geschäftsbericht aufzustellen und einen
@@ -9775,6 +10046,7 @@ Satz 4 näher zu unterrichten.
 
 
 ### § 228 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE022901119)
 
 (1) Die Versicherungsunternehmen sind verpflichtet, dem
 Sicherungsfonds, dem sie angehören, auf Verlangen alle Auskünfte zu
@@ -9822,6 +10094,7 @@ nicht anzuwenden.
 
 
 ### § 229 Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023000000)
 
 (1) Erfüllt ein Versicherungsunternehmen die Beitrags- oder
 Mitwirkungspflichten nach § 226 oder § 228 nicht, nicht richtig, nicht
@@ -9846,6 +10119,7 @@ erloschen ist, haftet der Sicherungsfonds nicht.
 
 
 ### § 230 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023100000)
 
 Personen, die bei einem Sicherungsfonds beschäftigt oder für ihn tätig
 sind, dürfen fremde Geheimnisse, insbesondere Betriebs- oder
@@ -9858,6 +10132,7 @@ weitergegeben werden.
 
 
 ### § 231 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023200000)
 
 (1) Der Sicherungsfonds kann seine Anordnungen nach den Bestimmungen
 des Verwaltungs-Vollstreckungsgesetzes durchsetzen.
@@ -9867,15 +10142,19 @@ des Verwaltungs-Vollstreckungsgesetzes durchsetzen.
 
 
 ## Teil 4 - Einrichtungen der betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003600000)
 
 
 ### Kapitel 1 - Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003700000)
 
 
 #### Abschnitt 1 - Abgrenzung zu anderen Lebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005900118)
 
 
 ##### § 232 Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023301118)
 
 (1) Eine Pensionskasse ist ein rechtlich selbständiges
 Lebensversicherungsunternehmen, dessen Zweck die Absicherung
@@ -9910,6 +10189,7 @@ nach Anlage 1 Nummer 19, 21 und 24 erteilt werden.
 
 
 ##### § 233 Regulierte Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023401118)
 
 (1) Pensionskassen können mit Genehmigung der Bundesanstalt reguliert
 werden (regulierte Pensionskassen). Den Antrag, reguliert zu werden,
@@ -9994,6 +10274,7 @@ Bescheid genannten Zeitpunkt in Kraft getreten sind, ist § 234 Absatz
 
 
 ##### § 234 Besonderheiten der Geschäftstätigkeit, die nicht die Geschäftsorganisation betreffen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023502123)
 
 (1) Für Pensionskassen gilt § 341k des Handelsgesetzbuchs; § 36 Absatz
 2 findet keine Anwendung. § 1 Absatz 2 Satz 4, § 35 Absatz 2, § 37
@@ -10079,9 +10360,11 @@ Pensionskasse und der Zustimmung der Aufsichtsbehörde.
 
 
 #### Abschnitt 2 - Besonderheiten der Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG006000118)
 
 
 ##### § 234a Ergänzende allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037800118)
 
 (1) Die Geschäftsorganisation einer Pensionskasse muss über § 23
 Absatz 1 hinaus auch der Größenordnung ihrer Tätigkeiten angemessen
@@ -10113,6 +10396,7 @@ Absatz 2 bis 4 nicht.
 
 
 ##### § 234b Besondere Vorschriften zu Schlüsselfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037900118)
 
 (1) Pensionskassen ermöglichen der verantwortlichen Person für eine
 Schlüsselfunktion, ihre Aufgaben effektiv, objektiv, sachgemäß und
@@ -10216,6 +10500,7 @@ erfüllen.
 
 
 ##### § 234c Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038000118)
 
 (1) Das Risikomanagementsystem einer Pensionskasse muss über § 26
 Absatz 5 hinaus auch ökologische und soziale Risiken sowie die
@@ -10248,6 +10533,7 @@ Risikobeurteilung nach § 234d. § 27 ist nicht anzuwenden.
 
 
 ##### § 234d Eigene Risikobeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038100118)
 
 (1) Zum Risikomanagementsystem einer Pensionskasse gehört eine eigene
 Risikobeurteilung, die zu dokumentieren ist. Die eigene
@@ -10365,6 +10651,7 @@ Entscheidungen der Pensionskasse ein.
 
 
 ##### § 234e Ergänzende Vorschriften zur Ausgliederung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038200118)
 
 (1) Werden Tätigkeiten ausgegliedert, müssen Pensionskassen einen
 geeigneten Dienstleister auswählen und kontinuierlich überwachen, dass
@@ -10381,9 +10668,11 @@ anzuwenden.
 
 
 #### Abschnitt 3 - Besonderheiten in Bezug auf die finanzielle Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG006100118)
 
 
 ##### § 234f Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038301118)
 
 (1) Für Pensionskassen gelten nicht die §§ 74 bis 88 und 133, 134
 Absatz 4 und 5, die §§ 301 und 304 Absatz 1 Nummer 2 sowie die §§ 341
@@ -10414,6 +10703,7 @@ genehmigten Finanzierungsplan zu erfüllen.
 
 
 ##### § 234g Solvabilitätskapitalanforderung, Mindestkapitalanforderung und Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038400118)
 
 (1) Pensionskassen müssen stets über Eigenmittel mindestens in Höhe
 der Solvabilitätskapitalanforderung verfügen.
@@ -10434,6 +10724,7 @@ nachzuweisen.
 
 
 ##### § 234h Ergänzende allgemeine Anlagegrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038500118)
 
 (1) Pensionskassen haben die Vermögenswerte zum größtmöglichen
 langfristigen Nutzen der Versorgungsanwärter und Versorgungsempfänger
@@ -10456,6 +10747,7 @@ Absatz 2 Satz 1 ist nicht anzuwenden.
 
 
 ##### § 234i Anlagepolitik
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038600118)
 
 Pensionskassen haben der Aufsichtsbehörde eine Erklärung zu den
 Grundsätzen ihrer Anlagepolitik vorzulegen
@@ -10476,6 +10768,7 @@ Spätestens nach drei Jahren ist die Erklärung zu überprüfen.
 
 
 ##### § 234j Besondere Vorschriften zum Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038700118)
 
 (1) Das Sicherungsvermögen darf nur angelegt werden in
 
@@ -10500,9 +10793,11 @@ nach § 126 Absatz 2 bleiben unberührt.
 
 
 #### Abschnitt 4 - Informationspflichten gegenüber Versorgungsanwärtern und Versorgungsempfängern
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG006200118)
 
 
 ##### § 234k Anforderungen an zu erteilende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038800118)
 
 (1) Die nach diesem Abschnitt vorgeschriebenen Informationen über ein
 Altersversorgungssystem müssen
@@ -10538,6 +10833,7 @@ grenzüberschreitend im Sinne des § 241 betrieben werden.
 
 
 ##### § 234l Allgemeine Informationen zu einem Altersversorgungssystem
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE038900118)
 
 (1) Für jedes betriebene Altersversorgungssystem stellt die
 Pensionskasse den Versorgungsanwärtern und Versorgungsempfängern
@@ -10557,6 +10853,7 @@ innerhalb einer angemessenen Frist zur Verfügung.
 
 
 ##### § 234m Information der Versorgungsanwärter bei Beginn des Versorgungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039000118)
 
 (1) Die Pensionskasse stellt dem Versorgungsanwärter bei Beginn des
 Versorgungsverhältnisses folgende Informationen zur Verfügung:
@@ -10612,6 +10909,7 @@ Informationen:
 
 
 ##### § 234n Information vor dem Beitritt zu einem Altersversorgungssystem
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039100118)
 
 Die Pensionskasse stellt sicher, dass Versorgungsanwärtern, die nicht
 automatisch in das Altersversorgungssystem aufgenommen werden, die in
@@ -10620,6 +10918,7 @@ werden, bevor sie dem Altersversorgungssystem beitreten.
 
 
 ##### § 234o Information der Versorgungsanwärter während der Anwartschaftsphase
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039200118)
 
 (1) Pensionskassen stellen dem Versorgungsanwärter mindestens alle
 zwölf Monate die für ihn wesentlichen Informationen über den Stand
@@ -10659,6 +10958,7 @@ auch auf Anfrage des Versorgungsanwärters mitzuteilen.
 
 
 ##### § 234p Information der Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039600118)
 
 (1) Die Pensionskasse unterrichtet den Versorgungsempfänger regelmäßig
 über die ihm zustehenden Leistungen und über etwaige Wahlrechte, in
@@ -10681,9 +10981,11 @@ angemessen informiert.
 
 
 #### Abschnitt 5 - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG006300118)
 
 
 ##### § 235 Verordnungsermächtigungen zur Finanzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023601118)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für
 Pensionskassen durch Rechtsverordnung Vorschriften zu erlassen
@@ -10779,6 +11081,7 @@ und für Verbraucherschutz.
 
 
 ##### § 235a Verordnungsermächtigung zu den Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039300118)
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium für Arbeit und Soziales für Pensionskassen,
@@ -10824,9 +11127,11 @@ Bundesrates.
 
 
 ### Kapitel 2 - Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003800000)
 
 
 #### § 236 Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023703118)
 
 (1) Ein Pensionsfonds im Sinne dieses Gesetzes ist eine rechtsfähige
 Versorgungseinrichtung, die
@@ -10921,6 +11226,7 @@ Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
 
 #### § 237 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023801118)
 
 (1) Für Pensionsfonds gelten die auf Lebensversicherungsunternehmen,
 die Pensionskassen sind, anwendbaren Vorschriften entsprechend, soweit
@@ -10963,6 +11269,7 @@ auf Grund des § 88 Absatz 3 erlassenen Rechtsverordnung.
 
 
 #### § 238 Finanzielle Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE023901118)
 
 (1) Für Pensionsfonds treten die Absätze 2 bis 5 an die Stelle des §
 234g. In § 234f Absatz 2 Satz 2 tritt Absatz 4 an die Stelle von §
@@ -10985,6 +11292,7 @@ nachzuweisen.
 
 
 #### § 239 Vermögensanlage
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024001118)
 
 (1) Pensionsfonds haben unter Berücksichtigung der jeweiligen
 Pensionspläne Sicherungsvermögen zu bilden. Sie haben dafür zu sorgen,
@@ -11057,6 +11365,7 @@ nicht überschreiten.
 
 
 #### § 240 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024102128)
 
 Das Bundesministerium der Finanzen wird ermächtigt, für Pensionsfonds,
 die nicht der Aufsicht durch die Aufsichtsbehörden der Länder
@@ -11152,9 +11461,11 @@ mit dem Bundesministerium der Justiz und für Verbraucherschutz.
 
 
 ### Kapitel 3 - Grenzüberschreitende Geschäftstätigkeit von Einrichtungen der betrieblichen Altersversorgung und grenzüberschreitende Übertragung von Beständen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG003901118)
 
 
 #### § 241 Grenzüberschreitende Geschäftstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024201118)
 
 (1) Grenzüberschreitende Geschäftstätigkeit einer Einrichtung der
 betrieblichen Altersversorgung liegt vor, wenn sie ein
@@ -11173,6 +11484,7 @@ Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist, sind die
 
 
 #### § 242 Grenzüberschreitende Geschäftstätigkeit von Pensionskassen und Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024301118)
 
 (1) Pensionskassen und Pensionsfonds haben ihre Absicht, für ein
 Trägerunternehmen die betriebliche Altersversorgung im Wege der
@@ -11265,6 +11577,7 @@ oder der Pensionsfonds grenzüberschreitend tätig ist. Sie teilt ihr
 
 
 #### § 243 Grenzüberschreitende Geschäftstätigkeit von Einrichtungen, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024401118)
 
 (1) Die Absätze 2 bis 6 sind anzuwenden auf Altersversorgungssysteme,
 
@@ -11335,6 +11648,7 @@ im Inland befinden.
 
 
 #### § 243a Übertragung von Beständen auf eine Pensionskasse oder einen Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039400118)
 
 (1) Jeder Vertrag, durch den der Bestand an Versorgungsverhältnissen
 eines Altersversorgungssystems, das eine Einrichtung der betrieblichen
@@ -11498,6 +11812,7 @@ Altersversorgungssystem betreiben,
 
 
 #### § 243b Übertragung von Beständen auf eine Einrichtung, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039500118)
 
 (1) Jeder Vertrag, durch den der Bestand an Versorgungsverhältnissen
 eines von einer Pensionskasse oder einem Pensionsfonds betriebenen
@@ -11579,13 +11894,16 @@ unterrichtet worden ist. § 243 Absatz 2 ist nicht anzuwenden.
 
 
 #### § 244 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024501118)
 
 
 
 ## Teil 4a - Reine Beitragszusagen in der betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005800124)
 
 
 ### § 244a Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037300124)
 
 (1) Bei der Durchführung reiner Beitragszusagen nach § 1 Absatz 2
 Nummer 2a des Betriebsrentengesetzes haben Pensionsfonds,
@@ -11599,6 +11917,7 @@ Regelungen enthält.
 
 
 ### § 244b Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037400124)
 
 (1) Pensionsfonds, Pensionskassen und andere
 Lebensversicherungsunternehmen dürfen reine Beitragszusagen nur dann
@@ -11624,6 +11943,7 @@ der Erlaubnis für die in Nummer 21 der Anlage 1 genannte Sparte.
 
 
 ### § 244c Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037500124)
 
 Unter Berücksichtigung der jeweiligen Tarifverträge ist
 
@@ -11640,6 +11960,7 @@ Unter Berücksichtigung der jeweiligen Tarifverträge ist
 
 
 ### § 244d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037600124)
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium für Arbeit und Soziales durch
@@ -11667,12 +11988,15 @@ nicht der Zustimmung des Bundesrates.
 
 
 ## Teil 5 - Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004000000)
 
 
 ### Kapitel 1 - Beaufsichtigung von Versicherungsunternehmen in einer Gruppe
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004100000)
 
 
 #### § 245 Anwendungsbereich der Gruppenaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024601118)
 
 (1) Versicherungsunternehmen einer Gruppe unterliegen neben der
 Einzelaufsicht einer Aufsicht auf Ebene der Gruppe nach Maßgabe der
@@ -11768,6 +12092,7 @@ Pensionsfonds entsteht.
 
 
 #### § 246 Umfang der Gruppenaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024700000)
 
 (1) Eine gruppenweite Beaufsichtigung gemäß § 245 umfasst nicht die
 Beaufsichtigung auf Einzelebene des Versicherungsunternehmens eines
@@ -11814,6 +12139,7 @@ Beaufsichtigung angeforderten Informationen zu geben.
 
 
 #### § 247 Oberstes Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024800000)
 
 (1) Ist das in § 245 Absatz 2 Nummer 1 genannte beteiligte
 Versicherungsunternehmen oder die in § 245 Absatz 2 Nummer 2 genannte
@@ -11841,6 +12167,7 @@ der gruppeninternen Transaktionen gemäß § 274 oder von beidem absehen.
 
 
 #### § 248 Oberstes Mutterunternehmen auf nationaler Ebene
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE024900000)
 
 (1) Hat das in § 245 Absatz 2 Nummer 1 genannte beteiligte
 Versicherungsunternehmen oder die in § 245 Absatz 2 Nummer 2 genannte
@@ -11913,6 +12240,7 @@ Tochterunternehmen anzuwenden.
 
 
 #### § 249 Mutterunternehmen, die mehrere Mitglied- oder Vertragsstaaten umfassen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025000000)
 
 (1) Die Aufsichtsbehörde kann mit den Aufsichtsbehörden anderer
 Mitglied- oder Vertragsstaaten, in denen sich ein verbundenes
@@ -11928,12 +12256,15 @@ Mutterunternehmens im Sinne des § 248 keine Gruppenaufsicht statt.
 
 
 ### Kapitel 2 - Finanzlage
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004200000)
 
 
 #### Abschnitt 1 - Solvabilität der Gruppe
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004300000)
 
 
 ##### § 250 Überwachung der Gruppensolvabilität
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025100000)
 
 (1) Die Solvabilität der Gruppe wird nach Maßgabe der Absätze 2 und 3,
 der §§ 275 bis 287 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305
@@ -11954,6 +12285,7 @@ berechneten Solvabilitätskapitalanforderung zu verfügen.
 
 
 ##### § 251 Häufigkeit der Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025200000)
 
 (1) Die Solvabilitätskapitalanforderung auf Gruppenebene ist von den
 beteiligten Versicherungsunternehmen, der Versicherungs-
@@ -11984,6 +12316,7 @@ Solvabilitätskapitalanforderung verlangen.
 
 
 ##### § 252 Bestimmung der Methode
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025300000)
 
 (1) Die Solvabilität der Gruppe, an deren Spitze ein beteiligtes
 Versicherungsunternehmen steht, ist auf der Grundlage eines
@@ -11998,6 +12331,7 @@ wäre, eine kombinierte Anwendung beider Methoden festlegen.
 
 
 ##### § 253 Berücksichtigung des verhältnismäßigen Anteils
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025400000)
 
 (1) Bei der Berechnung der Gruppensolvabilität ist der
 verhältnismäßige Anteil, den das beteiligte Unternehmen an seinen
@@ -12051,6 +12385,7 @@ Anteil fest, der zu berücksichtigen ist, wenn
 
 
 ##### § 254 Ausschluss der Mehrfachberücksichtigung anrechnungsfähiger Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025500000)
 
 (1) Auf die Solvabilitätskapitalanforderung anrechnungsfähige
 Eigenmittel dürfen bei mehreren in die Berechnung der
@@ -12144,6 +12479,7 @@ Eigenmittel genehmigt hat.
 
 
 ##### § 255 Ausschluss der gruppeninternen Kapitalschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025600000)
 
 (1) Bei der Berechnung der Gruppensolvabilität bleiben
 anrechnungsfähige Eigenmittel unberücksichtigt, die aus einer
@@ -12180,6 +12516,7 @@ angerechnet werden können.
 
 
 ##### § 256 Verbundene Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025700000)
 
 (1) Hat das Versicherungsunternehmen mehr als ein verbundenes
 Versicherungsunternehmen, umfasst die Berechnung der
@@ -12195,6 +12532,7 @@ berücksichtigt.
 
 
 ##### § 257 Zwischengeschaltete Versicherungs-Holdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025800000)
 
 (1) Hält ein Versicherungsunternehmen über eine Versicherungs-
 Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft
@@ -12223,6 +12561,7 @@ der Gruppenaufsichtsbehörde genehmigt worden sind.
 
 
 ##### § 258 Verbundene Versicherungsunternehmen eines Drittstaats
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE025900000)
 
 (1) Ist ein Versicherungsunternehmen beteiligtes Unternehmen eines
 Versicherungsunternehmens eines Drittstaats und wird die
@@ -12268,6 +12607,7 @@ Richtlinie 2009/138/EG über die vorläufige Gleichwertigkeit vorliegt.
 
 
 ##### § 259 Verbundene Kreditinstitute, Wertpapierfirmen und Finanzinstitute
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026001128)
 
 (1) Bei der Berechnung der Gruppensolvabilität eines
 Versicherungsunternehmens, das an einem Kreditinstitut, einem
@@ -12288,6 +12628,7 @@ dies beantragen.
 
 
 ##### § 260 Nichtverfügbarkeit der notwendigen Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026100000)
 
 Sind die für die Berechnung der Gruppensolvabilität eines
 Versicherungsunternehmens notwendigen Informationen über ein
@@ -12301,6 +12642,7 @@ herangezogen werden.
 
 
 ##### § 261 Konsolidierungsmethode
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026200000)
 
 (1) Nach der Konsolidierungsmethode wird die Gruppensolvabilität des
 beteiligten Versicherungsunternehmens auf der Grundlage des
@@ -12330,6 +12672,7 @@ gemäß § 95 zu bedecken. § 250 Absatz 1 Satz 2, die §§ 253 bis 260 und
 
 
 ##### § 262 Internes Modell für die Gruppe
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026301128)
 
 (1) Ein Versicherungsunternehmen und seine verbundenen Unternehmen
 oder gemeinsam die verbundenen Unternehmen einer Versicherungs-
@@ -12397,6 +12740,7 @@ Gruppenaufsichtsbehörde die endgültige Entscheidung.
 
 
 ##### § 263 Kapitalaufschlag für ein Gruppenunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026400000)
 
 (1) Wenn ein Versicherungsunternehmen seine
 Solvabilitätskapitalanforderung auf Grundlage eines auf Gruppenebene
@@ -12422,6 +12766,7 @@ gegenüber den anderen Mitgliedern des Aufsichtskollegiums.
 
 
 ##### § 264 Kapitalaufschlag für die Gruppe
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026500000)
 
 (1) Die Gruppenaufsichtsbehörde kann einen Kapitalaufschlag auf die
 konsolidierte Solvabilitätskapitalanforderung für die Gruppe
@@ -12446,6 +12791,7 @@ anzuwenden.
 
 
 ##### § 265 Abzugs- und Aggregationsmethode
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026600000)
 
 (1) Nach der Abzugs- und Aggregationsmethode ist die
 Gruppensolvabilität des beteiligten Versicherungsunternehmens die
@@ -12513,6 +12859,7 @@ Rechtsakte sind entsprechend anzuwenden.
 
 
 ##### § 266 Gruppensolvabilität bei einer Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026700000)
 
 Sind Versicherungsunternehmen Tochterunternehmen einer Versicherungs-
 Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft,
@@ -12529,6 +12876,7 @@ festgelegten Bestimmungen unterliegt.
 
 
 ##### § 267 Bedingungen für Tochterunternehmen eines Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026800000)
 
 Die Bestimmungen der §§ 269 und 270 gelten für jedes
 Versicherungsunternehmen, das Tochterunternehmen eines
@@ -12561,6 +12909,7 @@ Versicherungsunternehmens ist, wenn
 
 
 ##### § 268 Beaufsichtigung bei zentralisiertem Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE026901128)
 
 (1) Bei der Entscheidung über die Genehmigung eines Antrags auf
 Beaufsichtigung der Solvabilität einer Gruppe mit zentralisiertem
@@ -12618,6 +12967,7 @@ als verbindlich anerkannt und umgesetzt.
 
 
 ##### § 269 Bestimmung der Solvabilitätskapitalanforderung des Tochterunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027000000)
 
 (1) Die Solvabilitätskapitalanforderung eines Tochterunternehmens wird
 gemäß den Absätzen 2, 4 und 5 berechnet. § 262 bleibt unberührt.
@@ -12678,6 +13028,7 @@ betroffenen Aufsichtsbehörden als verbindlich anerkannt und umgesetzt.
 
 
 ##### § 270 Nichtbedeckung der Kapitalanforderungen des Tochterunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027100000)
 
 (1) Innerhalb von sechs Monaten nach Feststellung der Nichtbedeckung
 der Solvabilitätskapitalanforderung hat das Tochterunternehmen die
@@ -12766,6 +13117,7 @@ betroffenen Aufsichtsbehörden als verbindlich anerkannt und umgesetzt.
 
 
 ##### § 271 Ende der Ausnahmeregelung für ein Tochterunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027200000)
 
 (1) Die in den §§ 269 und 270 vorgesehenen Regelungen sind nicht
 anwendbar, wenn
@@ -12816,6 +13168,7 @@ genehmigt, richtet sich das Verfahren erneut nach den §§ 269 und 270.
 
 
 ##### § 272 Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027300000)
 
 Für Versicherungsunternehmen, die Tochterunternehmen einer
 Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-
@@ -12823,9 +13176,11 @@ Gesellschaft sind, gelten die §§ 267 bis 271 entsprechend.
 
 
 #### Abschnitt 2 - Risikokonzentration und gruppeninterne Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004400000)
 
 
 ##### § 273 Überwachung der Risikokonzentration
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027400000)
 
 (1) Der Gruppenaufsichtsbehörde sind mindestens einmal jährlich alle
 wesentlichen Risikokonzentrationen auf Gruppenebene zu melden.
@@ -12864,6 +13219,7 @@ Gruppe und das Risiko eines Interessenkonflikts.
 
 
 ##### § 274 Überwachung gruppeninterner Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027500000)
 
 (1) Der Gruppenaufsichtsbehörde ist mindestens einmal jährlich über
 alle wesentlichen gruppeninternen Transaktionen der
@@ -12897,9 +13253,11 @@ ist entsprechend anzuwenden.
 
 
 #### Abschnitt 3 - Geschäftsorganisation, Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004500000)
 
 
 ##### § 275 Überwachung des Governance-Systems
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027601118)
 
 (1) Teil 2 Kapitel 1 Abschnitt 3 und § 47 Nummer 1, 2, 8 und 9 gelten
 auf Gruppenebene entsprechend. Dessen ungeachtet sind das
@@ -12953,6 +13311,7 @@ Aufsichtskollegiums und trägt deren Auffassungen angemessen Rechnung.
 
 
 ##### § 276 Gegenseitiger Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027701360)
 
 (1) Die in die Gruppenaufsicht einbezogenen natürlichen und
 juristischen Personen einschließlich ihrer verbundenen und beteiligten
@@ -12968,6 +13327,7 @@ unberührt.
 
 
 ##### § 277 Bericht über Solvabilität und Finanzlage der Gruppe
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027800000)
 
 (1) Das oberste Mutterunternehmen auf Ebene der Mitglied- oder
 Vertragsstaaten im Sinne des § 247 hat jährlich einen Solvabilitäts-
@@ -12996,6 +13356,7 @@ Zusatzinformationen verpflichten.
 
 
 ##### § 278 Gruppenstruktur
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE027900000)
 
 Versicherungsunternehmen, Versicherungs-Holdinggesellschaften und
 gemischte Finanzholding-Gesellschaften veröffentlichen jährlich die
@@ -13006,9 +13367,11 @@ und bedeutenden Zweigniederlassungen.
 
 
 ### Kapitel 3 - Maßnahmen zur Erleichterung der Gruppenaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004600000)
 
 
 #### § 279 Zuständigkeit für die Gruppenaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028000000)
 
 (1) Zuständig für die Koordinierung und Wahrnehmung der
 Gruppenaufsicht ist die Gruppenaufsichtsbehörde.
@@ -13076,6 +13439,7 @@ Gruppenaufsichtsbehörde,
 
 
 #### § 280 Bestimmung der Gruppenaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028100000)
 
 (1) Wäre die Anwendung der in § 279 Absatz 2 genannten Kriterien auf
 Grund der Struktur der Gruppe und der relativen Bedeutung der
@@ -13123,6 +13487,7 @@ Absatz 2 ermittelten Aufsichtsbehörde wahrgenommen.
 
 
 #### § 281 Aufgaben und Befugnisse der Gruppenaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028200000)
 
 (1) Die Aufgaben und Befugnisse der Gruppenaufsichtsbehörde umfassen
 
@@ -13193,6 +13558,7 @@ Angelegenheit befassen und um Unterstützung bitten.
 
 
 #### § 282 Befreiung von der Berichterstattung auf Gruppenebene
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028300000)
 
 (1) Sind die Intervalle für die regelmäßige aufsichtliche
 Berichterstattung kürzer als ein Jahr, kann die
@@ -13213,6 +13579,7 @@ ist.
 
 
 #### § 283 Aufsichtskollegium
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028400000)
 
 (1) In Bezug auf Gruppen, die nicht ausschließlich im Inland tätig
 sind, ist die Aufsichtsbehörde Mitglied eines Aufsichtskollegiums
@@ -13282,6 +13649,7 @@ nicht beeinträchtigt werden.
 
 
 #### § 284 Zusammenarbeit bei der Gruppenaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028501128)
 
 (1) Die für die Beaufsichtigung der Versicherungsunternehmen einer
 Gruppe zuständigen Aufsichtsbehörden und die Gruppenaufsichtsbehörde
@@ -13338,6 +13706,7 @@ insbesondere, wenn sie
 
 
 #### § 285 Gegenseitige Konsultation der Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028600000)
 
 (1) Vor jeder Entscheidung, die für die Aufsichtstätigkeit anderer
 Aufsichtsbehörden von Bedeutung ist, hört die Aufsichtsbehörde im
@@ -13376,6 +13745,7 @@ Aufsichtsbehörden unverzüglich von ihrer Entscheidung in Kenntnis.
 
 
 #### § 286 Zusammenarbeit bei verbundenen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028700000)
 
 (1) Ist ein Versicherungsunternehmen mit Sitz im Inland mit einem
 Versicherungsunternehmen, einem Kreditinstitut im Sinne der Richtlinie
@@ -13415,6 +13785,7 @@ Vertragsstaats als Gruppenaufsichtsbehörde an und wendet diese an.
 
 
 #### § 287 Zwangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028800000)
 
 (1) Erfüllt ein Versicherungsunternehmen einer Gruppe die
 Anforderungen der §§ 250 bis 272 an die Solvabilität der Gruppe nicht
@@ -13444,9 +13815,11 @@ Gruppenaufsichtsbehörde ist.
 
 
 ### Kapitel 4 - Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004700000)
 
 
 #### § 288 Mutterunternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE028900000)
 
 (1) Für ein Versicherungsunternehmen einer Gruppe, dessen
 Mutterunternehmen eine Versicherungs-Holdinggesellschaft, eine
@@ -13499,6 +13872,7 @@ Gruppenaufsichtsbehörde.
 
 
 #### § 289 Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029000000)
 
 (1) Ist im Überprüfungsverfahren nach § 288 die gleichwertige
 Beaufsichtigung festgestellt worden, erkennt die Aufsichtsbehörde die
@@ -13510,6 +13884,7 @@ Zusammenarbeit mit den Aufsichtsbehörden des Drittstaats entsprechend.
 
 
 #### § 290 Fehlende Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029100000)
 
 (1) Findet keine gleichwertige Beaufsichtigung im Sinne des § 288
 statt, sind die §§ 250 bis 265 und 271 bis 285 sowie 309 entsprechend
@@ -13558,6 +13933,7 @@ gilt § 289 Absatz 2.
 
 
 #### § 291 Ebene der Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029200000)
 
 (1) Ist ein Mutterunternehmen mit Sitz in einem Drittstaat selbst
 Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder
@@ -13581,9 +13957,11 @@ Versicherungsunternehmen handelt. In diesem Fall erläutert die in §
 
 
 ### Kapitel 5 - Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004800000)
 
 
 #### § 292 Gruppeninterne Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029301118)
 
 Haben ein oder mehrere Versicherungsunternehmen eine gemischte
 Versicherungs-Holdinggesellschaft als Mutterunternehmen, unterliegen
@@ -13595,6 +13973,7 @@ anzuwenden.
 
 
 #### § 293 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029404128)
 
 (1) Für Versicherungs-Holdinggesellschaften und gemischte
 Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16
@@ -13632,12 +14011,15 @@ der Verordnung (EU) 2022/2554.
 
 
 ## Teil 6 - Aufsicht: Aufgaben und allgemeine Befugnisse, Organisation
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG004900000)
 
 
 ### Kapitel 1 - Aufgaben und allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005000000)
 
 
 #### § 294 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029501118)
 
 (1) Hauptziel der Beaufsichtigung ist der Schutz der
 Versicherungsnehmer und der Begünstigten von Versicherungsleistungen.
@@ -13718,6 +14100,7 @@ die Erlaubnis zum Geschäftsbetrieb widerrufen wird.
 
 
 #### § 295 Zuständige Behörde in Bezug auf EU-Verordnungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029609128)
 
 (1) Die nach diesem Gesetz zuständige Aufsichtsbehörde ist für die der
 Aufsicht nach diesem Gesetz unterliegenden Unternehmen auch
@@ -13788,6 +14171,7 @@ entsprechend.
 
 
 #### § 296 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029701118)
 
 (1) Auf Versicherungsunternehmen, die keine Pensionskassen sind,
 wendet die Aufsichtsbehörde die Vorschriften dieses Gesetzes in einer
@@ -13804,6 +14188,7 @@ Gesetz zum Erlass von Rechtsverordnungen ermächtigt.
 
 
 #### § 297 Ermessen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029800000)
 
 (1) Die Aufsichtsbehörde trifft ihre Maßnahmen nach pflichtgemäßem
 Ermessen.
@@ -13816,6 +14201,7 @@ beeinträchtigt werden.
 
 
 #### § 298 Allgemeine Aufsichtsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE029901118)
 
 (1) Gegenüber Erstversicherungsunternehmen, den Mitgliedern ihres
 Vorstands sowie sonstigen Geschäftsleitern und den die
@@ -13859,6 +14245,7 @@ finanzielle Solidität des anderen Unternehmens beziehen.
 
 
 #### § 299 Erweiterung der Aufsichtsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030000000)
 
 Die Aufsichtsbehörde kann Maßnahmen nach § 298 Absatz 1 oder 2 auch
 unmittelbar ergreifen gegenüber
@@ -13878,6 +14265,7 @@ unmittelbar ergreifen gegenüber
 
 
 #### § 300 Änderung des Geschäftsplans
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030100000)
 
 Die Aufsichtsbehörde kann verlangen, dass ein Geschäftsplan vor
 Abschluss neuer Versicherungsverträge geändert wird. Wenn es zur
@@ -13889,6 +14277,7 @@ Rückversicherungsunternehmen.
 
 
 #### § 301 Kapitalaufschlag
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030200000)
 
 (1) Die Aufsichtsbehörde kann einen Kapitalaufschlag auf die
 Solvabilitätskapitalanforderung für ein Versicherungsunternehmen nur
@@ -13969,6 +14358,7 @@ Kapitalaufschlag außer Betracht.
 
 
 #### § 302 Untersagung einer Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030300000)
 
 (1) Ist ein Erstversicherungsunternehmen an einem anderen Unternehmen,
 das nicht der Aufsicht unterliegt, beteiligt und ist die Beteiligung
@@ -13990,6 +14380,7 @@ Einfluss ausübt oder auszuüben in der Lage ist.
 
 
 #### § 303 Abberufung von Personen mit Schlüsselaufgaben, Verwarnung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030407123)
 
 (1) Die Aufsichtsbehörde kann eine Person, die ein
 Versicherungsunternehmen tatsächlich leitet oder für andere
@@ -14073,6 +14464,7 @@ Versicherungsunternehmen erneut nachhaltig gegen die in Absatz 1 Satz
 
 
 #### § 303a Tätigkeitsverbot für natürliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036502123)
 
 In den Fällen des § 304 Absatz 3 Nummer 3 oder des § 308 c Absatz 1
 kann die Aufsichtsbehörde auch einer für den Verstoß verantwortlichen
@@ -14086,6 +14478,7 @@ genommenen Vorschriften verstoßen haben.
 
 
 #### § 304 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030503119)
 
 (1) Die Erlaubnis zum Geschäftsbetrieb ist zu widerrufen,
 
@@ -14171,6 +14564,7 @@ anzuwenden.
 
 
 #### § 305 Befragung, Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030603128)
 
 (1) Die Aufsichtsbehörde ist befugt,
 
@@ -14298,6 +14692,7 @@ Bestimmungen über die Art und Weise der Übermittlung festlegen.
 
 
 #### § 305a Befugnisse und Maßnahmen gegen beaufsichtigte Kontributoren und Verwender von Indizes im Sinne der Verordnung (EU) 2016/1011
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036801123)
 
 (1) Die Aufsichtsbehörde kann Personen, die an der Bereitstellung
 eines Referenzwerts im Sinne der Verordnung (EU) 2016/1011 beteiligt
@@ -14392,6 +14787,7 @@ erforderlich sind. Insbesondere kann sie
 
 
 #### § 306 Betreten und Durchsuchen von Räumen; Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030701128)
 
 (1) Die Aufsichtsbehörde ist befugt,
 
@@ -14565,6 +14961,7 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 #### § 307 Sonderbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030801128)
 
 (1) Die Aufsichtsbehörde kann einen Sonderbeauftragten bestellen,
 diesen mit der Wahrnehmung von Aufgaben bei einem Unternehmen betrauen
@@ -14704,6 +15101,7 @@ verpflichtende Handlungen begangen hat.
 
 
 #### § 308 Unerlaubte Versicherungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE030902119)
 
 (1) Werden ohne die nach § 8 Absatz 1 erforderliche Erlaubnis
 Versicherungsgeschäfte betrieben, wird die Geschäftstätigkeit entgegen
@@ -14776,6 +15174,7 @@ bekannt gegeben hat.
 
 
 #### § 308a Maßnahmen gegenüber PRIIP-Herstellern und PRIIP-Verkäufern
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036200118)
 
 Die Aufsichtsbehörde kann gegenüber jedem Versicherungsunternehmen,
 das über ein PRIIP im Sinne des Artikels 4 Nummer 3 der Verordnung
@@ -14815,6 +15214,7 @@ Regulierungsstandards zu überwachen. Insbesondere kann sie
 
 
 #### § 308b Maßnahmen hinsichtlich der Vergabe von Wohnimmobilien-Darlehen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036400118)
 
 Die Aufsichtsbehörde kann nach Anhörung der Spitzenverbände der
 Unternehmen im Wege der Allgemeinverfügung Beschränkungen bei der
@@ -14833,6 +15233,7 @@ erlassen.
 
 
 #### § 308c Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE037701123)
 
 (1) Verstößt ein nach diesem Gesetz beaufsichtigtes Unternehmen als
 Originator oder ursprünglicher Kreditgeber gegen die Anforderungen der
@@ -14856,6 +15257,7 @@ Verordnung erfüllen.
 
 
 #### § 308d Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040800128)
 
 (1) Die Aufsichtsbehörde kann bei Verstößen gegen die Verordnung (EU)
 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
@@ -14894,6 +15296,7 @@ in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. §
 
 
 #### § 309 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031005128)
 
 (1) Die bei den Versicherungsaufsichtsbehörden beschäftigten oder von
 ihnen beauftragten Personen, die nach § 307 bestellten
@@ -15092,6 +15495,7 @@ unberührt.
 
 
 #### § 310 Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031106128)
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung können mit
@@ -15116,6 +15520,7 @@ Wirkung.
 
 
 #### § 310a Elektronische Übermittlung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040600128)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
@@ -15159,9 +15564,11 @@ Bundesrates bedarf, auf die Bundesanstalt übertragen.
 
 
 ### Kapitel 2 - Sichernde Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005100000)
 
 
 #### § 311 Anzeige der Zahlungsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031200000)
 
 (1) Sobald das Versicherungsunternehmen zahlungsunfähig wird, hat sein
 Vorstand dies der Aufsichtsbehörde anzuzeigen. Dies gilt sinngemäß,
@@ -15184,6 +15591,7 @@ Liquidatoren.
 
 
 #### § 312 Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031301118)
 
 (1) Der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen
 eines Versicherungsunternehmens kann nur von der Aufsichtsbehörde
@@ -15238,6 +15646,7 @@ Vorgehen.
 
 
 #### § 313 Unterrichtung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031400000)
 
 (1) Mit dem Eröffnungsbeschluss ist den Gläubigern ein Formblatt zu
 übersenden, das mit den Worten „Aufforderung zur Anmeldung und
@@ -15297,6 +15706,7 @@ Form über den Fortgang des Insolvenzverfahrens zu unterrichten.
 
 
 #### § 314 Zahlungsverbot; Herabsetzung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031500000)
 
 (1) Ergibt sich bei der Prüfung der Geschäftsführung und der
 Vermögenslage eines Unternehmens, dass dieses dauerhaft nicht mehr
@@ -15335,6 +15745,7 @@ beschränkt werden.
 
 
 #### § 315 Behandlung von Versicherungsforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031600000)
 
 (1) Bei Befriedigung aus den Werten des Sicherungsvermögens nach § 126
 Absatz 1 bis 3 haben
@@ -15361,6 +15772,7 @@ denselben Rang.
 
 
 #### § 316 Erlöschen bestimmter Versicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031700000)
 
 Durch die Eröffnung des Insolvenzverfahrens erlöschen
 
@@ -15387,6 +15799,7 @@ Mindestumfang des Sicherungsvermögens nach § 125 Absatz 2 fordern. §
 
 
 #### § 317 Pfleger im Insolvenzfall
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031800000)
 
 (1) Das Insolvenzgericht hat den Versicherten zur Wahrung ihrer Rechte
 nach den §§ 315 und 316 einen Pfleger zu bestellen. Für die
@@ -15419,9 +15832,11 @@ die Aufsichtsbehörde anzuhören.
 
 
 ### Kapitel 3 - Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005200000)
 
 
 #### § 318 Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE031900000)
 
 (1) Die Bundesanstalt veröffentlicht jährlich Mitteilungen über den
 Stand der ihrer Aufsicht unterstellten Versicherungsunternehmen sowie
@@ -15456,6 +15871,7 @@ einer einzigen elektronischen Adresse abrufbar sein.
 
 
 #### § 319 Bekanntmachung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032001118)
 
 (1) Die Bundesanstalt soll jede gegen ein ihrer Aufsicht
 unterstehendes Unternehmen oder gegen einen Geschäftsleiter eines
@@ -15504,6 +15920,7 @@ mehr erforderlich ist.
 
 
 #### § 319a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011, die Verordnung (EU) 2017/2402 oder die Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036603128)
 
 (1) Die Aufsichtsbehörde macht Entscheidungen über Maßnahmen und
 Sanktionen, die wegen Verstößen gegen die Verordnung (EU) 2015/2365
@@ -15576,12 +15993,15 @@ Personen einen unverhältnismäßigen Schaden zufügen würde.
 
 
 ### Kapitel 4 - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005300000)
 
 
 #### Abschnitt 1 - Bundesaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005400000)
 
 
 ##### § 320 Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032101123)
 
 (1) Die Bundesanstalt beaufsichtigt
 
@@ -15624,6 +16044,7 @@ tätig sind.
 
 
 ##### § 321 Übertragung der Aufsicht auf eine Landesaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032200000)
 
 (1) Das Bundesministerium der Finanzen kann auf Antrag der
 Bundesanstalt die Aufsicht über private Versicherungsunternehmen von
@@ -15639,6 +16060,7 @@ größere wirtschaftliche Bedeutung erlangt haben.
 
 
 ##### § 322 Übertragung der Aufsicht auf die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032300000)
 
 (1) Die Fachaufsicht über ein öffentlich-rechtliches Wettbewerbs-
 Versicherungsunternehmen, dessen Tätigkeit sich auf das Gebiet eines
@@ -15652,6 +16074,7 @@ Landesregierungen dies beantragen.
 
 
 ##### § 323 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032400000)
 
 (1) Ein nach § 322 Absatz 1 gestellter Antrag kann jederzeit von der
 früher aufsichtsführenden Landesbehörde zum 1. Januar mit Wirkung zum
@@ -15668,6 +16091,7 @@ zu geben.
 
 
 ##### § 324 Zusammenarbeit der Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032501118)
 
 (1) Die Bundesanstalt und die aufsichtsführenden Landesbehörden sind
 verpflichtet, einander ihre Rechts- und Verwaltungsgrundsätze
@@ -15685,6 +16109,7 @@ dieser Richtlinie.
 
 
 ##### § 325 Versicherungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032600000)
 
 (1) Zur Mitwirkung bei der Aufsicht besteht bei der Bundesanstalt ein
 Beirat aus Sachverständigen des Versicherungswesens.
@@ -15708,9 +16133,11 @@ der Reisekosten.
 
 
 #### Abschnitt 2 - Aufsicht im Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005500000)
 
 
 ##### § 326 Allgemeine Grundsätze für die Zusammenarbeit der Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032702128)
 
 (1) Die Aufsichtsbehörde arbeitet mit der Europäischen Kommission und
 den Aufsichtsbehörden der Mitglied- oder Vertragsstaaten eng zusammen,
@@ -15767,6 +16194,7 @@ ordnungsgemäße Bewertung möglich ist.
 
 
 ##### § 327 Zusammenarbeit bei örtlichen Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032800000)
 
 (1) Soweit es zur Ausübung der Finanzaufsicht nach § 62 Absatz 1 oder
 § 169 Absatz 1 oder zur Prüfung eines im Inland ansässigen
@@ -15801,6 +16229,7 @@ Maßnahmen.
 
 
 ##### § 328 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE032900000)
 
 Will die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats
 in einem Verfahren nach dessen Vorschriften über die
@@ -15817,6 +16246,7 @@ Bundesanstalt bewirkt.
 
 
 ##### § 329 Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033002128)
 
 (1) Die Aufsichtsbehörde arbeitet gemäß der Verordnung (EU) Nr.
 1094/2010 für die Zwecke der Richtlinien 2009/138/EG und 2003/41/EG
@@ -15913,6 +16343,7 @@ Artikel 32 Absatz 3 und Artikel 36 der Richtlinie (EU) 2016/97.
 
 
 ##### § 330 Meldungen an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033100000)
 
 (1) Die Aufsichtsbehörde meldet der Europäischen Kommission
 
@@ -16002,9 +16433,11 @@ Versicherungswesen und die betriebliche Altersversorgung.
 
 
 ## Teil 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005600000)
 
 
 ### § 331 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033205123)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -16086,6 +16519,7 @@ Geldstrafe.
 
 
 ### § 332 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036910128)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -16791,6 +17225,7 @@ Absätzen 4d, 4e, 4f, 4g, 4h, 4i und 4j verjährt in drei Jahren.
 
 
 ### § 333 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033400000)
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt, soweit die Aufsicht
@@ -16798,6 +17233,7 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 
 
 ### § 334 Beteiligung der Aufsichtsbehörde und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033504123)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde übermittelt der Bundesanstalt in
@@ -16871,9 +17307,11 @@ Behörde weiter.
 
 
 ## Teil 8 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNG005700000)
 
 
 ### § 335 Fortsetzung des Geschäftsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033600000)
 
 Die Versicherungsunternehmen, die am 1. Januar 1902 in einem oder in
 mehreren Ländern landesgesetzlich zum Geschäftsbetrieb befugt gewesen
@@ -16885,6 +17323,7 @@ Erlaubnis gezogen waren.
 
 
 ### § 336 Weitergeltung genehmigter Geschäftspläne in der Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033700000)
 
 Für die vor dem 29. Juli 1994 abgeschlossenen
 Lebensversicherungsverträge (Altbestand) gilt der von der
@@ -16897,6 +17336,7 @@ berechnen ist.
 
 
 ### § 337 Treuhänder in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033800000)
 
 Soweit bei der nach Art der Lebensversicherung betriebenen
 Krankenversicherung die Prämien für die vor dem 29. Juli 1994
@@ -16907,6 +17347,7 @@ Zustimmung des Treuhänders (§ 155 Absatz 1 und 2).
 
 
 ### § 338 Zuschlag in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE033900000)
 
 Ist ein Vertrag über eine substitutive Krankenversicherung vor dem 1.
 Januar 2000 geschlossen, gilt § 149 mit der Maßgabe, dass
@@ -16935,6 +17376,7 @@ Januar 2000 geschlossen, gilt § 149 mit der Maßgabe, dass
 
 
 ### § 339 Teilbestandsvorschriften in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034000000)
 
 Unternehmen, die im Rahmen eines einheitlichen Vertrags Risiken
 decken, die den in der Anlage 1 Nummer 1 und 19 genannten
@@ -16944,6 +17386,7 @@ Unfallversicherungsteil dieser Verträge auf ein anderes Unternehmen
 
 
 ### § 340 Bestandsschutz für Rückversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034100000)
 
 (1) Für Unternehmen, die ausschließlich die Rückversicherung
 betreiben, dieses Geschäft bereits vor dem 21. Dezember 2004 ausgeübt
@@ -16965,6 +17408,7 @@ Einschränkung der laufenden Aufsicht.
 
 
 ### § 341 Bericht über die Solvabilität und die Finanzlage
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034200000)
 
 Versicherungsunternehmen, für die ein Kapitalaufschlag festgesetzt
 wurde oder die unternehmensspezifische Parameter bei der Berechnung
@@ -16978,6 +17422,7 @@ offenzulegen, bleibt unberührt.
 
 
 ### § 342 Einhaltung der Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034300000)
 
 (1) Versicherungsunternehmen, die die am 31. Dezember 2015 geltenden
 Solvabilitätsanforderungen erfüllen, deren anrechnungsfähige
@@ -17000,6 +17445,7 @@ anzuwenden.
 
 
 ### § 343 Einstellung des Geschäftsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034400000)
 
 (1) Unbeschadet des § 165 Absatz 1 gilt, dass für
 Versicherungsunternehmen, die den Abschluss neuer
@@ -17056,6 +17502,7 @@ Vertragsstaaten zu übermitteln.
 
 
 ### § 344 Fristen für Berichts- und Offenlegungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034501118)
 
 (1) Die Frist, in der Versicherungsunternehmen die Informationen nach
 Artikel 304 Absatz 1 der Delegierten Verordnung (EU) 2015/35 der
@@ -17164,6 +17611,7 @@ verlängern.
 
 
 ### § 345 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034601118)
 
 (1) Unbeschadet des § 92 dürfen Basiseigenmittelbestandteile für bis
 zu zehn Jahre nach dem 1. Januar 2016 als Eigenmittel der
@@ -17211,9 +17659,11 @@ Bestandteile
 
 
 ### § 346 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034701123)
 
 
 ### § 347 Standardparameter
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034800000)
 
 (1) Unbeschadet von § 89 Absatz 1 Satz 1, § 96 Absatz 1, § 97 Absatz 3
 und der §§ 100, 109 Absatz 2 gilt im Hinblick auf die zu verwendenden
@@ -17279,6 +17729,7 @@ Januar 2016 beginnenden Jahres auf 100 Prozent am 1. Januar 2023.
 
 
 ### § 348 Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE034900000)
 
 (1) Erfüllt ein Versicherungsunternehmen abweichend von § 134 die
 Solvabilitätskapitalanforderung im Jahr 2016 nicht, hätte aber die
@@ -17311,6 +17762,7 @@ Solvabilitätskapitalanforderung stattgefunden hat.
 
 
 ### § 349 Internes Teilgruppenmodell
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035001119)
 
 Auf Antrag kann die Aufsichtsbehörde dem obersten beteiligten
 Versicherungsunternehmen die Verwendung eines nur auf einen Teil der
@@ -17324,6 +17776,7 @@ spätestens 31. März 2022 bei der Aufsichtsbehörde zu stellen.
 
 
 ### § 350 Gruppenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035100000)
 
 Unbeschadet des § 250 sind auf Gruppenebene die §§ 345 bis 347 und 351
 und 352 entsprechend anzuwenden. Wenn das oberste beteiligte
@@ -17343,6 +17796,7 @@ Solvabilitätskapitalanforderung für die Gruppe, ist unbeschadet des §
 
 
 ### § 351 Risikofreie Zinssätze
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035200000)
 
 (1) Versicherungsunternehmen dürfen mit Genehmigung der
 Aufsichtsbehörde unter Berücksichtigung der zulässigen
@@ -17416,6 +17870,7 @@ Anforderungen entsprechen:
 
 
 ### § 352 Versicherungstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035300000)
 
 (1) Versicherungsunternehmen dürfen mit Genehmigung der
 Aufsichtsbehörde bei versicherungstechnischen Rückstellungen
@@ -17490,6 +17945,7 @@ nicht anwenden und müssen
 
 
 ### § 353 Plan betreffend die schrittweise Einführung von Übergangsmaßnahmen für risikofreie Zinssätze und versicherungstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035400000)
 
 (1) Versicherungsunternehmen, die die Übergangsmaßnahmen nach § 351
 oder § 352 anwenden, melden der Aufsichtsbehörde unverzüglich, wenn
@@ -17524,6 +17980,7 @@ oder § 352.
 
 
 ### § 354 Überprüfung der langfristigen Garantien und der Maßnahmen gegen Aktienrisiken
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035500000)
 
 Die Bundesanstalt informiert die Europäische Aufsichtsbehörde für das
 Versicherungswesen und die betriebliche Altersversorgung bis zum 1.
@@ -17578,6 +18035,7 @@ Januar 2021 jedes Jahr über Folgendes:
 
 
 ### § 355 Entscheidungen der Aufsichtsbehörde aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035600000)
 
 (1) Ab dem 11. April 2015 ist die Aufsichtsbehörde befugt, zu
 entscheiden über die Genehmigung
@@ -17667,6 +18125,7 @@ wirksam, wenn in der Entscheidung kein späteres Datum genannt wird.
 
 
 ### § 356 Übergangsvorschrift zu § 35 Absatz 1 Satz 1 Nummer 5 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE036703118)
 
 § 35 Absatz 1 Satz 1 Nummer 5, 6 und 7 ist erstmals auf die
 Abschlussprüfung des Jahresabschlusses für das Geschäftsjahr
@@ -17677,6 +18136,7 @@ beginnt.
 
 
 ### § 357 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE039900123)
 
 Die §§ 36, 191, 331, 332 und 334 in der ab dem 1. Juli 2021 geltenden
 Fassung sind erstmals auf alle gesetzlich vorgeschriebenen
@@ -17688,6 +18148,7 @@ das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 
 ### § 358 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040300311)
 
 § 188 Absatz 1 Satz 2 dieses Gesetzes in Verbindung mit § 76 Absatz 4
 des Aktiengesetzes und § 189 Absatz 3 Satz 1 dieses Gesetzes in
@@ -17697,6 +18158,7 @@ auf die Festlegung von Zielgrößen ab dem 12. August 2021 anzuwenden.
 
 
 ### § 359 Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040400128)
 
 (1) Für oberste Vertretungen, die bis einschließlich 31. August 2023
 einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats
@@ -17710,6 +18172,7 @@ einberufen werden.
 
 
 ### § 360 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE040900128)
 
 § 35 Absatz 1 Satz 1 Nummer 10 ist erstmals anzuwenden auf
 Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024
@@ -17717,6 +18180,7 @@ beginnendes Geschäftsjahr.
 
 
 ### Anlage 1 Einteilung der Risiken nach Sparten
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035700000)
 
 (Fundstelle: BGBl. I 2015, 555 - 556)
 
@@ -17969,6 +18433,7 @@ beginnendes Geschäftsjahr.
 
 
 ### Anlage 2 Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035800000)
 
 (Fundstelle: BGBl. I 2015, 557)
 
@@ -18006,6 +18471,7 @@ Umfasst die Zulassung zugleich
 
 
 ### Anlage 3 Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)
+[Direktlink](https://www.gesetze-im-internet.de/vag_2016/BJNR043410015.html#BJNR043410015BJNE035900000)
 
 (Fundstelle: BGBl. I 2015, 558 - 559)
 

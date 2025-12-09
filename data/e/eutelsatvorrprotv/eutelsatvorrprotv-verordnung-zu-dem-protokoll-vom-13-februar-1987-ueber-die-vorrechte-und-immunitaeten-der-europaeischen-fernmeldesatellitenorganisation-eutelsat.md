@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eutelsatvorrprotv/BJNR202530989.html#BJNR202530989BJNE000100325)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -30,6 +31,7 @@ II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eutelsatvorrprotv/BJNR202530989.html#BJNR202530989BJNE000200325)
 
 Für die Gewährung von Vorrechten und Immunitäten an die Europäische
 Fernmeldesatellitenorganisation EUTELSAT, errichtet auf Grund des
@@ -40,6 +42,7 @@ EUTELSAT. Das Protokoll wird nachstehend mit einer amtlichen Deutschen
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eutelsatvorrprotv/BJNR202530989.html#BJNR202530989BJNE000300325)
 
 (1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die
 Inhaber eines Passes oder Personalausweises der Bundesrepublik
@@ -59,6 +62,7 @@ und Zollbestimmungen sind mit Wirkung vom 1. Januar 1985 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eutelsatvorrprotv/BJNR202530989.html#BJNR202530989BJNE000400325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -67,6 +71,7 @@ vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eutelsatvorrprotv/BJNR202530989.html#BJNR202530989BJNE000500325)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Protokoll
 nach seinem Artikel 23 oder 24 für die Bundesrepublik Deutschland in
@@ -80,6 +85,7 @@ im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eutelsatvorrprotv/BJNR202530989.html#BJNR202530989BJNE000600325)
 
 Der Bundesrat hat zugestimmt.
 

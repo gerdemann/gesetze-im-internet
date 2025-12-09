@@ -26,9 +26,11 @@ verbrachten Kulturgütern und zur Änderung der Verordnung (EU) Nr.
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000200000)
 
 Das Gesetz regelt
 
@@ -54,6 +56,7 @@ Das Gesetz regelt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000300000)
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
@@ -187,6 +190,7 @@ Das Gesetz regelt
 
 
 ### § 3 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000401130)
 
 (1) Zuständige Behörden im Sinne dieses Gesetzes sind die zuständigen
 Behörden der Länder, soweit in diesem Gesetz nichts anderes bestimmt
@@ -215,6 +219,7 @@ Geschäftsbereich übertragen.
 
 
 ### § 4 Internetportal zum Kulturgutschutz
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000500000)
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde ist
 verpflichtet, ein zentrales Internetportal zum Kulturgutschutz zu
@@ -285,12 +290,15 @@ Geschäftsordnung.
 
 
 ## Kapitel 2 - Schutz von Kulturgut vor Abwanderung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000200000)
 
 
 ### Abschnitt 1 - Unterschutzstellen des nationalen Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000300000)
 
 
 #### § 5 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000600000)
 
 Nationales Kulturgut unterliegt als Teil des kulturellen Erbes
 Deutschlands dem Schutz gegen Abwanderung aus dem Bundesgebiet nach
@@ -298,6 +306,7 @@ diesem Gesetz.
 
 
 #### § 6 Nationales Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000700000)
 
 (1) Nationales Kulturgut ist Kulturgut, das
 
@@ -332,6 +341,7 @@ Depositalvertrages.
 
 
 #### § 7 Eintragung in ein Verzeichnis national wertvollen Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000800000)
 
 (1) Kulturgut ist von der obersten Landesbehörde in ein Verzeichnis
 national wertvollen Kulturgutes einzutragen, wenn
@@ -379,6 +389,7 @@ Religionsgemeinschaften richtet sich nach § 9.
 
 
 #### § 8 Nachträgliche Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE000900000)
 
 (1) Ist Kulturgut unter Verstoß gegen § 24 ausgeführt worden, so kann
 es von der zuständigen obersten Landesbehörde auch nach der Ausfuhr in
@@ -404,6 +415,7 @@ Eintragung unanfechtbar geworden ist.
 
 
 #### § 9 Kulturgut im Eigentum der Kirchen und Religionsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001000000)
 
 (1) Die Kirchen und die als Körperschaften des öffentlichen Rechts
 anerkannten Religionsgemeinschaften können bei der zuständigen
@@ -429,6 +441,7 @@ Religionsgemeinschaften tritt.
 
 
 #### § 10 Ausnahmen zur Eintragung von Kulturgut bei Leihgaben aus dem Ausland und nach Rückkehr in das Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001100000)
 
 (1) Für ehemals im Bundesgebiet belegenes Kulturgut, das sich mehr als
 fünf Jahre vor dem 6. August 2016 außerhalb des Bundesgebietes
@@ -494,6 +507,7 @@ Genehmigungspflicht nach § 24 Absatz 1 Nummer 2.
 
 
 #### § 11 Ortswechsel von eingetragenem Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001200000)
 
 (1) Wird Kulturgut, das in ein Verzeichnis national wertvollen
 Kulturgutes eingetragen ist, für weniger als ein Jahr von einem Land
@@ -510,6 +524,7 @@ schriftlich oder elektronisch mitzuteilen.
 
 
 #### § 12 Steuerliche Begünstigung von national wertvollem Kulturgut, Ausgleich bei Verkauf infolge wirtschaftlicher Notlage
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001300000)
 
 (1) Kulturgut, das in ein Verzeichnis national wertvollen Kulturgutes
 eingetragen ist, wird bei der Heranziehung zu Steuern begünstigt nach
@@ -535,6 +550,7 @@ Berücksichtigung der Steuervorteile nach Absatz 1 hinzuwirken.
 
 
 #### § 13 Löschung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001400000)
 
 (1) Haben sich die das Kulturgut betreffenden Umstände, die zur
 Eintragung des Kulturgutes in ein Verzeichnis national wertvollen
@@ -561,9 +577,11 @@ bis 5 entsprechend anzuwenden.
 
 
 ### Abschnitt 2 - Verfahren und Mitwirkungspflichten; Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000400000)
 
 
 #### § 14 Eintragungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001500000)
 
 (1) Die Einleitung des Verfahrens auf Eintragung in ein Verzeichnis
 national wertvollen Kulturgutes erfolgt von Amts wegen oder auf Antrag
@@ -644,6 +662,7 @@ Genehmigungspflicht nach § 24 Absatz 1 Nummer 2.
 
 
 #### § 15 Mitwirkungspflichten während des Eintragungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001600000)
 
 (1) Im Verfahren zur Eintragung in ein Verzeichnis national wertvollen
 Kulturgutes ist der Eigentümer, hilfsweise der unmittelbare Besitzer,
@@ -676,6 +695,7 @@ Landesbehörde mitzuteilen.
 
 
 #### § 16 Führung und Veröffentlichung der Verzeichnisse national wertvollen Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001700000)
 
 (1) Die Länder führen ihre Verzeichnisse national wertvollen
 Kulturgutes in dem gemeinsamen Verfahren nach § 79 Absatz 1 Satz 1 und
@@ -703,6 +723,7 @@ Verwaltungsausschusses nach § 4 Absatz 4 geregelt.
 
 
 #### § 17 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001800000)
 
 (1) Die zuständige oberste Landesbehörde hat jede Einleitung und jede
 Beendigung eines Verfahrens zur Eintragung, jede Eintragung, jede
@@ -714,9 +735,11 @@ Bundesanzeiger bekannt zu machen und den Beteiligten mitzuteilen.
 
 
 ### Abschnitt 3 - Beschädigungsverbot und Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000500000)
 
 
 #### § 18 Beschädigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE001900000)
 
 (1) Es ist verboten, Kulturgut, das in ein Verzeichnis national
 wertvollen Kulturgutes eingetragen ist, zu zerstören, zu beschädigen
@@ -732,6 +755,7 @@ eingeleitet ist.
 
 
 #### § 19 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002000000)
 
 (1) Der unmittelbare Besitzer eines Kulturgutes, das in ein
 Verzeichnis national wertvollen Kulturgutes eingetragen ist, ist
@@ -757,12 +781,15 @@ wertvollen Kulturgutes eingeleitet ist.
 
 
 ## Kapitel 3 - Kulturgutverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000600000)
 
 
 ### Abschnitt 1 - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000700000)
 
 
 #### § 20 Kulturgutverkehrsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002100000)
 
 Kulturgut kann ein- oder ausgeführt sowie in Verkehr gebracht werden,
 soweit nicht dieses Gesetz oder andere Rechtsvorschriften,
@@ -771,9 +798,11 @@ Verbote oder Beschränkungen vorsehen.
 
 
 ### Abschnitt 2 - Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000800000)
 
 
 #### § 21 Ausfuhrverbot
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002200000)
 
 Die Ausfuhr von Kulturgut ist verboten, wenn
 
@@ -800,6 +829,7 @@ Die Ausfuhr von Kulturgut ist verboten, wenn
 
 
 #### § 22 Genehmigung der vorübergehenden Ausfuhr von nationalem Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002301130)
 
 (1) Genehmigungspflichtig ist die vorübergehende Ausfuhr von
 nationalem Kulturgut nach § 6 in einen Mitgliedstaat oder Drittstaat.
@@ -836,6 +866,7 @@ nichtig.
 
 
 #### § 23 Genehmigung der dauerhaften Ausfuhr von nationalem Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002400000)
 
 (1) Genehmigungspflichtig ist die dauerhafte Ausfuhr von nationalem
 Kulturgut nach § 6 in einen Mitgliedstaat oder einen Drittstaat.
@@ -931,6 +962,7 @@ zulässig.
 
 
 #### § 24 Genehmigungspflichtige Ausfuhr von Kulturgut; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002501130)
 
 (1) Genehmigungspflichtig ist die Ausfuhr von Kulturgut
 
@@ -1026,6 +1058,7 @@ Bundesgebiet befindet. Dies gilt nicht für Kulturgut, das
 
 
 #### § 25 Allgemeine offene Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002601130)
 
 (1) Für die vorübergehende Ausfuhr von Kulturgut kann die zuständige
 oberste Landesbehörde einer Kulturgut bewahrenden Einrichtung auf
@@ -1054,6 +1087,7 @@ Landesbehörde ausgenommen werden.
 
 
 #### § 26 Spezifische offene Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002701130)
 
 (1) Für die regelmäßige vorübergehende Ausfuhr von Kulturgut kann die
 zuständige oberste Landesbehörde dem Eigentümer oder rechtmäßigen
@@ -1075,6 +1109,7 @@ Jahre nicht überschreiten.
 
 
 #### § 27 Genehmigung der Ausfuhr von kirchlichem Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002800000)
 
 (1) Für die vorübergehende Ausfuhr von nationalem Kulturgut, das sich
 im Eigentum einer Kirche oder einer als Körperschaft des öffentlichen
@@ -1110,9 +1145,11 @@ erteilt werden kann.
 
 
 ### Abschnitt 3 - Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG000900000)
 
 
 #### § 28 Einfuhrverbot
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE002901130)
 
 Die Einfuhr von Kulturgut ist verboten, wenn es
 
@@ -1138,6 +1175,7 @@ Die Einfuhr von Kulturgut ist verboten, wenn es
 
 
 #### § 29 Ausnahmen vom Einfuhrverbot
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003000000)
 
 Das Einfuhrverbot ist nicht anzuwenden auf Kulturgut, das
 
@@ -1155,6 +1193,7 @@ Das Einfuhrverbot ist nicht anzuwenden auf Kulturgut, das
 
 
 #### § 30 Nachweis der Rechtmäßigkeit der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003101130)
 
 Wer Kulturgut aus einem Mitgliedstaat einführt, hat, sofern es von
 einem Mitgliedstaat oder Vertragsstaat als nationales Kulturgut
@@ -1167,9 +1206,11 @@ konnte.
 
 
 ### Abschnitt 4 - Unrechtmäßiger Kulturgutverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001000000)
 
 
 #### § 31 Unrechtmäßige Ausfuhr von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003201130)
 
 (1) Die Ausfuhr von Kulturgut ist unrechtmäßig, wenn sie unter Verstoß
 gegen § 21 erfolgt oder unter Verstoß gegen Verordnungen der
@@ -1183,6 +1224,7 @@ der vorübergehenden Ausfuhr gleich.
 
 
 #### § 32 Unrechtmäßige Einfuhr von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003301130)
 
 (1) Die Einfuhr von Kulturgut ist unrechtmäßig, wenn sie
 
@@ -1217,6 +1259,7 @@ vorliegt.
 
 
 #### § 33 Sicherstellung von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003401130)
 
 (1) Die zuständige Behörde hat Kulturgut sicherzustellen,
 
@@ -1267,6 +1310,7 @@ nicht nur vorübergehend zu verändern.
 
 
 #### § 34 Verwahrung sichergestellten Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003500000)
 
 (1) Sichergestelltes Kulturgut ist von der zuständigen Behörde in
 Verwahrung zu nehmen. Sie kann das Kulturgut, sofern der Zweck der
@@ -1285,6 +1329,7 @@ von der zuständigen Behörde getroffen oder veranlasst.
 
 
 #### § 35 Aufhebung der Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003600000)
 
 (1) Die Sicherstellung des Kulturgutes ist von der zuständigen Behörde
 aufzuheben, wenn
@@ -1354,6 +1399,7 @@ Sicherstellung ist zwischenzeitlich entfallen.
 
 
 #### § 36 Herausgabe sichergestellten Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003701130)
 
 (1) Ist die Sicherstellung aufgehoben worden, so ist das Kulturgut
 herauszugeben
@@ -1387,6 +1433,7 @@ nicht innerhalb der Frist abgeholt wird.
 
 
 #### § 37 Einziehung sichergestellten Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003801130)
 
 (1) Sichergestelltes Kulturgut soll von der zuständigen Behörde
 eingezogen werden, wenn es in den Fällen des § 36 Absatz 1 Nummer 1
@@ -1414,6 +1461,7 @@ Kulturgut bewahrenden Einrichtung in Verwahrung geben.
 
 
 #### § 38 Folgen der Einziehung; Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE003900000)
 
 (1) Wird sichergestelltes Kulturgut eingezogen, so gehen der Besitz an
 dem Kulturgut mit der Anordnung der Einziehung und das Eigentum an dem
@@ -1480,6 +1528,7 @@ Entschädigung eine unbillige Härte wäre.
 
 
 #### § 39 Kosten für Sicherstellung, Verwahrung, Erhaltung und Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004001130)
 
 Die notwendigen Kosten (Gebühren und Auslagen) für die Sicherstellung,
 Verwahrung, Erhaltung und Herausgabe des Kulturgutes trägt die Person,
@@ -1491,9 +1540,11 @@ fest.
 
 
 ## Kapitel 4 - Pflichten beim Inverkehrbringen von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001100000)
 
 
 ### § 40 Verbot des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004100000)
 
 (1) Verboten ist das Inverkehrbringen von Kulturgut, das
 abhandengekommen ist, rechtswidrig ausgegraben oder unrechtmäßig
@@ -1515,6 +1566,7 @@ vertreten hat.
 
 
 ### § 41 Allgemeine Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004200000)
 
 (1) Wer Kulturgut in Verkehr bringt, ist verpflichtet, zuvor mit der
 erforderlichen Sorgfalt zu prüfen, ob das Kulturgut
@@ -1554,6 +1606,7 @@ Umständen des Inverkehrbringens von Kulturgut unternehmen würde.
 
 
 ### § 42 Sorgfaltspflichten beim gewerblichen Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004301130)
 
 (1) Wer in Ausübung seiner gewerblichen Tätigkeit Kulturgut in Verkehr
 bringt, ist verpflichtet, zuvor zusätzlich zu den Pflichten nach § 41
@@ -1621,6 +1674,7 @@ begründeter inländischer Schätzwert.
 
 
 ### § 43 Erleichterte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004400000)
 
 Erleichterte Sorgfaltspflichten gelten, wenn
 
@@ -1643,6 +1697,7 @@ Pflichten nach § 41 nur diejenigen nach § 42 Absatz 1 Nummer 1 und 2.
 
 
 ### § 44 Erhöhte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004501130)
 
 Beim gewerblichen Inverkehrbringen ist der Maßstab des zumutbaren
 Aufwandes nach § 42 Absatz 1 Satz 3 nicht für Kulturgut anzuwenden,
@@ -1680,6 +1735,7 @@ Auf Kulturgut nach Satz 1 ist § 42 Absatz 3 nicht anzuwenden.
 
 
 ### § 45 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004600000)
 
 (1) Wer in Ausübung einer gewerblichen Tätigkeit Kulturgut in Verkehr
 bringt, ist verpflichtet, über die Prüfungen und Feststellungen nach §
@@ -1699,6 +1755,7 @@ anzuwenden.
 
 
 ### § 46 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004700000)
 
 (1) Wer in Ausübung einer gewerblichen Tätigkeit Kulturgut in Verkehr
 bringt, ist verpflichtet, der zuständigen Behörde auf Verlangen
@@ -1720,6 +1777,7 @@ Gesetz erforderlich sind.
 
 
 ### § 47 Rechtsfolge bei Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004800000)
 
 Hat die zuständige Behörde belegbare Erkenntnisse darüber, dass
 wiederholt gegen Aufzeichnungs-, Aufbewahrungs- und Auskunftspflichten
@@ -1729,6 +1787,7 @@ im Sinne des § 35 der Gewerbeordnung mit.
 
 
 ### § 48 Einsichtsrechte des Käufers
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE004900000)
 
 (1) Wird ein Erwerber eines Kulturgutes gerichtlich nach diesem Gesetz
 oder aufgrund zivilrechtlicher Vorschriften auf Herausgabe des
@@ -1752,12 +1811,15 @@ Inanspruchnahme bei Geltendmachung
 
 
 ## Kapitel 5 - Rückgabe unrechtmäßig eingeführten Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001200000)
 
 
 ### Abschnitt 1 - Rückgabeanspruch
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001300000)
 
 
 #### § 49 Öffentlich-rechtliche Rückgabeansprüche
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005001130)
 
 (1) Ansprüche auf Rückgabe von Kulturgut nach diesem Abschnitt sind
 öffentlich-rechtliche Ansprüche. Zivilrechtliche Ansprüche bleiben
@@ -1768,6 +1830,7 @@ Fremdbesitzer.
 
 
 #### § 50 Rückgabeanspruch eines Mitgliedstaates
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005100000)
 
 Auf Ersuchen eines Mitgliedstaates ist Kulturgut zurückzugeben, wenn
 es
@@ -1789,6 +1852,7 @@ es
 
 
 #### § 51 Rückgabeanspruch wegen Verstoßes gegen das Recht der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005201130)
 
 Ist Kulturgut entgegen einem im Amtsblatt der Europäischen Union
 veröffentlichten, unmittelbar geltenden Rechtsakt der Europäischen
@@ -1800,6 +1864,7 @@ dient.
 
 
 #### § 52 Rückgabeanspruch eines Vertragsstaates
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005301130)
 
 (1) Auf Ersuchen eines Vertragsstaates ist Kulturgut zurückzugeben,
 wenn es
@@ -1848,6 +1913,7 @@ Fassung anzuwenden.
 
 
 #### § 53 Rückgabeanspruch nach der Haager Konvention
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005400000)
 
 (1) Kulturgut nach Kapitel I Artikel 1 der Haager Konvention, das
 entgegen § 28 Nummer 3 aufgrund eines bewaffneten Konflikts eingeführt
@@ -1871,6 +1937,7 @@ Absatzes 1 Nummer 1 und 2 erfüllt sein müssen.
 
 
 #### § 54 Anzuwendendes Zivilrecht
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005500000)
 
 (1) Wer Eigentümer des Kulturgutes ist, das nach den Bestimmungen
 dieses Gesetzes in das Hoheitsgebiet eines anderen Mitgliedstaates
@@ -1883,6 +1950,7 @@ stehen der Rückgabepflicht nicht entgegen.
 
 
 #### § 55 Befristung und Verjährung des Rückgabeanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005600000)
 
 (1) Rückgabeansprüche unterliegen nicht der Verjährung, wenn sie auf
 die Rückgabe von Kulturgut gerichtet sind, das
@@ -1913,6 +1981,7 @@ Abschnitt verjähren nach drei Jahren.
 
 
 #### § 56 Beginn der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005700000)
 
 Die Verjährungsfrist beginnt mit dem Zeitpunkt, in dem der ersuchende
 Mitgliedstaat oder Vertragsstaat von dem Ort der Belegenheit des
@@ -1921,6 +1990,7 @@ erlangt.
 
 
 #### § 57 Hemmung und Neubeginn der Verjährung und Erlöschensfristen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005800000)
 
 (1) Auf die Verjährung und auf die Frist nach § 55 Absatz 1 Satz 2
 sind die Vorschriften über die Hemmung der Verjährung nach den §§ 204,
@@ -1936,9 +2006,11 @@ geltend zu machen.
 
 
 ### Abschnitt 2 - Rückgabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001400000)
 
 
 #### § 58 Grundsatz der Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE005900000)
 
 Die Rückgabe kann durch eine gütliche Einigung im behördlichen
 Vermittlungsverfahren erreicht werden oder mit einer Klage auf
@@ -1946,6 +2018,7 @@ Rückgabe des ersuchenden Staates verfolgt werden.
 
 
 #### § 59 Rückgabeersuchen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006000000)
 
 Das Rückgabeersuchen ist zu stellen für
 
@@ -1961,6 +2034,7 @@ Das Rückgabeersuchen ist zu stellen für
 
 
 #### § 60 Kollidierende Rückgabeersuchen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006101130)
 
 Stellen zu demselben Kulturgut mehrere Staaten oder zuständige
 Behörden des Herkunftsgebiets im Sinne des § 53 Absatz 1
@@ -1973,6 +2047,7 @@ dem Auswärtigen Amt mitgeteilt worden ist.
 
 
 #### § 61 Aufgaben der Länder
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006200000)
 
 (1) Die zuständige Behörde eines Landes hat insbesondere folgende
 Aufgaben:
@@ -2019,6 +2094,7 @@ verpflichtet, Maßnahmen nach Absatz 1 Nummer 4 und 5 zu ergreifen.
 
 
 #### § 62 Aufgaben der obersten Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006300000)
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde hat
 folgende Aufgaben:
@@ -2054,6 +2130,7 @@ Medien zuständigen obersten Bundesbehörde folgende Aufgaben:
 
 
 #### § 63 Zulässigkeit der Klage auf Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006400000)
 
 (1) Die Klage eines ersuchenden Mitgliedstaates oder Vertragsstaates
 auf Rückgabe ist nur dann zulässig, wenn der Klageschrift folgende
@@ -2093,6 +2170,7 @@ mehr unrechtmäßig ist.
 
 
 #### § 64 Kosten der behördlichen Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006500000)
 
 Hat die zuständige Behörde das Kulturgut, über dessen Rückgabe das
 Gericht zu entscheiden hat, nach § 33 sichergestellt, so ist in der
@@ -2102,6 +2180,7 @@ entstanden sind.
 
 
 #### § 65 Kosten der Rückgabe und Erhaltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006600000)
 
 (1) Die Kosten, die sich aufgrund der Rückgabe ergeben, gehen zu
 Lasten des ersuchenden Mitgliedstaates oder Vertragsstaates.
@@ -2113,9 +2192,11 @@ Vertragsstaates. § 64 ist entsprechend anzuwenden.
 
 
 ### Abschnitt 3 - Entschädigung und Erstattungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001500000)
 
 
 #### § 66 Entschädigung bei Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006701130)
 
 (1) Ist der Eigenbesitzer beim Erwerb des Kulturgutes mit der
 erforderlichen Sorgfalt vorgegangen, so kann er die Rückgabe des
@@ -2161,6 +2242,7 @@ Kulturgutes berücksichtigt, insbesondere
 
 
 #### § 67 Höhe der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006801130)
 
 (1) Die Höhe der Entschädigung bestimmt sich unter Berücksichtigung
 der entstandenen Aufwendungen des Eigenbesitzers für
@@ -2183,6 +2265,7 @@ darauf vertraut hat, das Kulturgut im Bundesgebiet belassen zu dürfen.
 
 
 #### § 68 Erstattungsanspruch des ersuchenden Mitglied- oder Vertragsstaates
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE006900000)
 
 (1) Der ersuchende Mitgliedstaat oder Vertragsstaat kann von den
 Personen, die Kulturgut unrechtmäßig verbracht haben oder die die
@@ -2195,9 +2278,11 @@ geltend zu machen.
 
 
 ## Kapitel 6 - Rückgabe unrechtmäßig ausgeführten Kulturgutes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001600000)
 
 
 ### § 69 Rückgabeanspruch gegenüber Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007000000)
 
 (1) Den Anspruch auf Rückgabe von Kulturgut, das unrechtmäßig in das
 Hoheitsgebiet eines Mitgliedstaates ausgeführt worden ist, macht im
@@ -2216,6 +2301,7 @@ betreffenden Kulturgutes erhoben hat.
 
 
 ### § 70 Rückgabeanspruch gegenüber Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007101130)
 
 (1) Den Anspruch auf Rückgabe von Kulturgut, das unrechtmäßig in das
 Hoheitsgebiet eines Vertragsstaates ausgeführt worden ist, macht das
@@ -2229,6 +2315,7 @@ Kulturgut vor der unrechtmäßigen Ausfuhr dauerhaft befand.
 
 
 ### § 71 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007200000)
 
 (1) Die notwendigen Kosten und Auslagen, die durch die Geltendmachung
 des Rückgabeanspruchs entstanden sind, trägt derjenige, der das
@@ -2240,6 +2327,7 @@ geltend macht, setzt den zu erstattenden Betrag durch Bescheid fest.
 
 
 ### § 72 Eigentum an zurückgegebenem Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007300000)
 
 Wer Eigentümer des Kulturgutes ist, das unrechtmäßig ausgeführt worden
 ist und in das Bundesgebiet zurückgegeben worden ist, bestimmt sich
@@ -2247,9 +2335,11 @@ nach den deutschen Sachvorschriften.
 
 
 ## Kapitel 7 - Rückgabezusage im internationalen Leihverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001700000)
 
 
 ### § 73 Rechtsverbindliche Rückgabezusage
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007400000)
 
 (1) Wird Kulturgut aus dem Ausland für eine öffentliche Ausstellung
 oder für eine andere Form der öffentlichen Präsentation,
@@ -2269,6 +2359,7 @@ ersten Leihortes zuständig.
 
 
 ### § 74 Erteilung der rechtsverbindlichen Rückgabezusage
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007500000)
 
 (1) Auf Antrag des Entleihers kann die oberste Landesbehörde im
 Benehmen mit der für Kultur und Medien zuständigen obersten
@@ -2281,6 +2372,7 @@ Worte „rechtsverbindliche Rückgabezusage“.
 
 
 ### § 75 Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007600000)
 
 (1) Die rechtsverbindliche Rückgabezusage kann von der obersten
 Landesbehörde im Einvernehmen mit der für Kultur und Medien
@@ -2294,6 +2386,7 @@ bis zu vier Jahre verlängert werden.
 
 
 ### § 76 Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007700000)
 
 (1) Die rechtsverbindliche Rückgabezusage bewirkt, dass
 
@@ -2322,9 +2415,11 @@ Genehmigungspflicht nach § 24.
 
 
 ## Kapitel 8 - Datenschutz, gemeinsames Verfahren, Zoll
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001800000)
 
 
 ### § 77 Verarbeitung von Informationen einschließlich personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007801116)
 
 (1) Die für die Ausführung dieses Gesetzes zuständigen Behörden des
 Bundes und der Länder dürfen Informationen einschließlich
@@ -2348,6 +2443,7 @@ unberührt.
 
 
 ### § 78 Übermittlung von Informationen einschließlich personenbezogener Daten an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE007901116)
 
 (1) Öffentliche Stellen im Sinne des § 2 des Bundesdatenschutzgesetzes
 dürfen Informationen einschließlich personenbezogener Daten der nach
@@ -2381,6 +2477,7 @@ Auswärtige Amt.
 
 
 ### § 79 Gemeinsames Verfahren von Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008001116)
 
 (1) Zum umfassenden Schutz nationalen Kulturgutes führen Bund und
 Länder ein gemeinsames Verfahren im Sinne des § 11 des E-Government-
@@ -2418,6 +2515,7 @@ Absatz 4 geregelt.
 
 
 ### § 80 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten und Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008101116)
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde erteilt
 den zuständigen zentralen Stellen eines Mitgliedstaates auf
@@ -2470,6 +2568,7 @@ erforderlich ist.
 
 
 ### § 81 Mitwirkung der Zollbehörden, Anhaltung von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008201130)
 
 (1) Die Zollbehörden wirken im Rahmen ihrer Zuständigkeit bei der
 Überwachung der Ein- und Ausfuhr von Kulturgut mit, für das Verbote
@@ -2534,6 +2633,7 @@ unerheblich und nicht nur vorübergehend zu verändern.
 
 
 ### § 82 Anmeldepflicht bei Ein- und Ausfuhr im Kulturgutverkehr mit Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008300000)
 
 (1) Bei der zuständigen Zollstelle ist Kulturgut anzumelden, das
 
@@ -2560,9 +2660,11 @@ Kulturgut vorzuführen.
 
 
 ## Kapitel 9 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG001900000)
 
 
 ### § 83 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008400000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2626,6 +2728,7 @@ zurückbringt.
 
 
 ### § 84 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008500000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2667,6 +2770,7 @@ Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
 
 ### § 85 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008601116)
 
 Ist eine Straftat nach § 83 oder eine Ordnungswidrigkeit nach § 84
 Absatz 1 oder 2 begangen worden, so können folgende Gegenstände
@@ -2686,6 +2790,7 @@ Ordnungswidrigkeiten sind anzuwenden.
 
 
 ### § 86 Besondere Voraussetzung der Verwertung von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008701116)
 
 (1) Kulturgut, das der Einziehung unterliegt, darf nur mit Zustimmung
 der zuständigen Behörde verwertet werden.
@@ -2722,6 +2827,7 @@ Voraussetzungen nach Absatz 2 abschließend geprüft sind.
 
 
 ### § 87 Aufgaben und Befugnisse der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008800000)
 
 (1) Die Staatsanwaltschaft kann bei Straftaten und
 Ordnungswidrigkeiten nach den §§ 83 und 84 Ermittlungen nach § 161
@@ -2740,6 +2846,7 @@ I S. 1482), das durch Artikel 297 der Verordnung vom 31. August 2015
 
 
 ### § 88 Straf- und Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE008900000)
 
 Soweit für Straftaten nach § 83 das Amtsgericht sachlich zuständig
 ist, liegt die örtliche Zuständigkeit bei dem Amtsgericht, in dessen
@@ -2752,9 +2859,11 @@ kann diese Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 
 ## Kapitel 10 - Evaluierung, Übergangs- und Ausschlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNG002000000)
 
 
 ### § 89 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE009000000)
 
 Das für Kultur und Medien zuständige Mitglied der Bundesregierung
 unterrichtet den Deutschen Bundestag und den Bundesrat über die
@@ -2763,6 +2872,7 @@ Verwaltungsaufwandes zwei Jahre nach Inkrafttreten des Gesetzes.
 
 
 ### § 90 Fortgeltung und Befristung bisherigen Abwanderungsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE009100000)
 
 (1) Bestandteil des Verzeichnisses national wertvollen Kulturgutes ist
 Kulturgut, das aufgrund des Gesetzes zum Schutz deutschen Kulturgutes
@@ -2808,6 +2918,7 @@ geändert worden ist, bis zum Abschluss des Verfahrens fort.
 
 
 ### § 91 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/kgsg/BJNR191410016.html#BJNR191410016BJNE009200000)
 
 Von den in den §§ 7 bis 17, 22 bis 27 und 73 bis 76 getroffenen
 Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht

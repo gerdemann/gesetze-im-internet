@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE000400319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## I. - Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE000501307)
 
 Hat ein Gericht in einem anhängigen Verfahren ausländisches Recht
 einer der Vertragsparteien anzuwenden, so kann es eine Auskunft nach
@@ -43,6 +46,7 @@ Ersuchens beizufügen. Das Auskunftsersuchen ist von dem Gericht der
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE000600319)
 
 Eine Mitteilung des anderen Vertragsstaats, daß für die Erledigung des
 Ersuchens mit Kosten zu rechnen ist (Artikel 6 Abs. 3 des
@@ -52,6 +56,7 @@ Ersuchen aufrechterhalten wird.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE000700319)
 
 Werden für die Erledigung eines Auskunftsersuchens von einem anderen
 Vertragsstaat Kosten erhoben, sind die Kosten nach Eingang der Antwort
@@ -61,6 +66,7 @@ Das ersuchende Gericht übermittelt den Kostenbetrag der
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE000800319)
 
 Die Vernehmung einer Person, die ein Auskunftsersuchen in einem
 anderen Vertragsstaat bearbeitet hat, ist zum Zwecke der Erläuterung
@@ -68,10 +74,12 @@ oder Ergänzung der Antwort unzulässig.
 
 
 ## II. - Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNG000200319)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE000900319)
 
 Bezieht sich ein Auskunftsersuchen auf Landesrecht, leitet es die
 Empfangsstelle an die von der Regierung des Landes bestimmte Stelle
@@ -84,6 +92,7 @@ gleichlautend, so kann die Beantwortung der Stelle eines der Länder
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001003310)
 
 (1) Die Empfangsstelle kann ein Auskunftsersuchen an einen
 Rechtsanwalt, einen Notar, einen beamteten Professor der Rechte oder
@@ -104,6 +113,7 @@ zuständig.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001100319)
 
 Wird die Auskunft von einer privaten Stelle oder rechtskundigen Person
 erteilt (Artikel 6 Abs. 2 des Übereinkommens, § 6), obliegt die
@@ -114,6 +124,7 @@ Die Kostenrechnung ist der Empfangsstelle mit der Auskunft zu
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001200319)
 
 Leitet die Empfangsstelle ein Ersuchen an eine von der Landesregierung
 bestimmte Stelle weiter, so nimmt diese die Aufgaben und Befugnisse
@@ -128,10 +139,12 @@ dieser Stelle.
 
 
 ## III. - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNG000300319)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001302377)
 
 (1) Die Aufgaben der Empfangsstelle im Sinne des Artikels 2 Abs. 1 des
 Übereinkommens nimmt das Bundesministerium der Justiz und für
@@ -161,6 +174,7 @@ Satz 1 und 3 sowie § 9 Abs. 2 Satz 2 auf die Landesjustizverwaltungen
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001600307)
 
 Die Vorschriften dieses Gesetzes, mit Ausnahme von § 1 Satz 2, sind
 auf Auskünfte nach Kapitel I des Zusatzprotokolls vom 15. März 1978
@@ -168,6 +182,7 @@ auf Auskünfte nach Kapitel I des Zusatzprotokolls vom 15. März 1978
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001500319)
 
 (1) Dieses Gesetz tritt gleichzeitig mit dem Europäischen
 Übereinkommen vom 7. Juni 1968 betreffend Auskünfte über ausländisches
@@ -178,6 +193,7 @@ Bundesgesetzblatt bekanntzugeben.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/euausk_bkg/BJNR014330974.html#BJNR014330974BJNE001401307)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf

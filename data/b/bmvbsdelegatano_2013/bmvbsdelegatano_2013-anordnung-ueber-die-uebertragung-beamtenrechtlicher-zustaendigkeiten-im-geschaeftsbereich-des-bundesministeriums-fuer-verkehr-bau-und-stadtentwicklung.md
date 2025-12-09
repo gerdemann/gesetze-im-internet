@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000100000)
 
 Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und §
 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S.
@@ -30,6 +31,7 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung an:
 
 
 ## § 1 Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000200000)
 
 (1) Der Leiterin oder dem Leiter des Deutschen Wetterdienstes werden
 für ihren oder seinen Geschäftsbereich übertragen:
@@ -84,6 +86,7 @@ Satz 1 gilt nicht für die DFS Deutsche Flugsicherung GmbH.
 
 
 ## § 2 Übertragung von Zuständigkeiten in Widerspruchsverfahren in beamtenrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000300000)
 
 (1) Der DFS Deutsche Flugsicherung GmbH wird die Zuständigkeit für die
 Entscheidung über Widersprüche der bei ihr tätigen Beamtinnen und
@@ -97,6 +100,7 @@ Widersprüche gegen von ihnen getroffene beamtenrechtliche Maßnahmen
 
 
 ## § 3 Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000400000)
 
 Die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
 wird den in § 2 Absatz 2 genannten Behörden übertragen, soweit sie
@@ -105,16 +109,19 @@ sind.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000501311)
 
 -
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000601311)
 
 -
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/BJNR324300013.html#BJNR324300013BJNE000701311)
 
 -
 

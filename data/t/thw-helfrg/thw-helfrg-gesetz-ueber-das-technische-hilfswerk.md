@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Rechtsform, Aufgaben und Personal
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000202116)
 
 (1) Das Technische Hilfswerk ist eine nicht rechtsfähige Bundesanstalt
 mit eigenem Verwaltungsunterbau im Geschäftsbereich des
@@ -72,6 +74,7 @@ bestimmt; sie sind grundsätzlich in Ortsverbänden organisiert.
 
 
 ## § 1a Einsatzkräfte und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE001000116)
 
 (1) Zur Wahrnehmung seiner Aufgaben hält das Technische Hilfswerk
 Einheiten und Einrichtungen mit Einsatzkräften, bestehend aus
@@ -111,6 +114,7 @@ unmittelbaren Zwang gegenüber Personen aus.
 
 
 ## § 1b Forschung
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE001100116)
 
 Das Technische Hilfswerk beteiligt sich an internationalen,
 supranationalen und nationalen Forschungsprojekten zu Fragestellungen
@@ -118,6 +122,7 @@ in den Bereichen Rettungswesen, Katastrophenschutz und Zivilschutz.
 
 
 ## § 2 Helferinnen und Helfer; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000302116)
 
 (1) Dienste sollen in der Regel außerhalb der üblichen Arbeitszeit
 stattfinden. Dies gilt nicht für Einsätze.
@@ -133,6 +138,7 @@ Einzelnen zu regeln.
 
 
 ## § 3 Ausgleichsansprüche und soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000903116)
 
 (1) Arbeitnehmerinnen und Arbeitnehmern dürfen aus ihrer Verpflichtung
 zum Dienst im Technischen Hilfswerk und aus diesem Dienst keine
@@ -215,6 +221,7 @@ Zustimmung des Bundesrates.
 
 
 ## § 4 Mitwirkung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000502116)
 
 (1) Die Mitwirkung im Technischen Hilfswerk erfolgt durch Orts- und
 Landesausschüsse sowie durch einen Bundesausschuss, die die Leitungen
@@ -229,6 +236,7 @@ Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates.
 
 
 ## § 5 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000602116)
 
 Beim Bundesministerium des Innern, für Bau und Heimat wird ein Beirat
 aus Vertretern des Bundes, der Länder, der kommunalen Spitzenverbände,
@@ -240,6 +248,7 @@ regelt.
 
 
 ## § 6 Gebühren und Auslagen bei Amtshilfe; Verordnungsermächtigung für Kostenerstattungen
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000702116)
 
 (1) Das Technische Hilfswerk kann für seine im Rahmen der Amtshilfe
 erbrachten technischen Unterstützungsleistungen bei den ersuchenden
@@ -311,6 +320,7 @@ oder eines überwiegenden öffentlichen Interesses verzichtet wird
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/thw-helfrg/BJNR001180990.html#BJNR001180990BJNE000801310)
 
 -
 

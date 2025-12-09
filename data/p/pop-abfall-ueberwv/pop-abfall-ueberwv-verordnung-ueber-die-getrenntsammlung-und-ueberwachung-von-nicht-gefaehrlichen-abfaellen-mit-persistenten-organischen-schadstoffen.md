@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pop-abfall-_berwv/BJNR264410017.html#BJNR264410017BJNE000200000)
 
 (1) Diese Verordnung gilt für Erzeuger, Besitzer, Sammler, Beförderer,
 Händler, Makler und Entsorger von POP-haltigen Abfällen.
@@ -40,6 +41,7 @@ weiteren Verwertung oder Beseitigung im Bundesgebiet verbunden ist.
 
 
 ## § 2 POP-haltige Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/pop-abfall-_berwv/BJNR264410017.html#BJNR264410017BJNE000300000)
 
 POP-haltige Abfälle im Sinne dieser Verordnung sind
 
@@ -128,6 +130,7 @@ POP-haltige Abfälle im Sinne dieser Verordnung sind
 
 
 ## § 3 Getrennte Sammlung und Beförderung; Vermischungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/pop-abfall-_berwv/BJNR264410017.html#BJNR264410017BJNE000400000)
 
 (1) Erzeuger und Besitzer von POP-haltigen Abfällen haben diese
 getrennt von anderen Abfällen zu sammeln und zu befördern, soweit dies
@@ -179,6 +182,7 @@ sind, sind diese zu trennen,
 
 
 ## § 4 Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/pop-abfall-_berwv/BJNR264410017.html#BJNR264410017BJNE000502125)
 
 (1) Erzeuger, Besitzer, Sammler, Beförderer und Entsorger von POP-
 haltigen Abfällen haben sowohl der zuständigen Behörde gegenüber als
@@ -241,6 +245,7 @@ Haushaltungen.
 
 
 ## § 5 Registerpflichten
+[Direktlink](https://www.gesetze-im-internet.de/pop-abfall-_berwv/BJNR264410017.html#BJNR264410017BJNE000600000)
 
 (1) Erzeuger, Besitzer, Sammler, Beförderer, Händler und Makler von
 POP-haltigen Abfällen haben ein Register zu führen, in dem
@@ -273,6 +278,7 @@ Haushaltungen.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pop-abfall-_berwv/BJNR264410017.html#BJNR264410017BJNE000700000)
 
 Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig

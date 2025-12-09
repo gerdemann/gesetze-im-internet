@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000100000)
 
 Auf Grund des § 8 Abs. 1 des Hufbeschlaggesetzes vom 19. April 2006
 (BGBl. I S. 900) verordnet das Bundesministerium für Ernährung,
@@ -27,10 +28,12 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Staatliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNG000100000)
 
 
 
 ### § 1 Staatlich anerkannter Hufbeschlagschmied/Staatlich anerkannte Hufbeschlagschmiedin
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000300000)
 
 (1) Als Hufbeschlagschmied/Hufbeschlagschmiedin ist durch die nach
 Landesrecht zuständige Behörde anzuerkennen, wer durch Vorlage der
@@ -52,6 +55,7 @@ Hufbeschlaggesetzes befreit.
 
 
 ### § 2 Staatlich anerkannter Hufbeschlaglehrschmied/Staatlich anerkannte Hufbeschlaglehrschmiedin
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000400000)
 
 (1) Als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin ist durch die
 nach Landesrecht zuständige Behörde anzuerkennen, wer durch Vorlage
@@ -76,6 +80,7 @@ Voraussetzung des § 5 Abs. 1 Nr. 2 des Hufbeschlaggesetzes befreit.
 
 
 ### § 3 Staatlich anerkannte Hufbeschlagschule
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000500000)
 
 Eine Bildungseinrichtung ist durch die nach Landesrecht zuständige
 Behörde als Hufbeschlagschule anzuerkennen, wenn sie durch Vorlage der
@@ -85,16 +90,19 @@ eine Urkunde nach dem Muster der Anlage 3 auszustellen.
 
 
 ## Abschnitt 2 - Ausbildung und Prüfung zum Hufbeschlagschmied/zur Hufbeschlagschmiedin und erforderliche Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNG000200000)
 
 
 
 ### § 4 Ziel der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000600000)
 
 Durch die Prüfung ist festzustellen, ob der Prüfling befähigt ist, den
 Anforderungen des § 4 Abs. 2 des Hufbeschlaggesetzes zu entsprechen.
 
 
 ### § 5 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000700000)
 
 (1) Zur Prüfung ist zuzulassen, wer eine mindestens zweijährige
 praktische Tätigkeit nach Maßgabe des § 7 und den Besuch der
@@ -183,6 +191,7 @@ vorzulegen.
 
 
 ### § 6 Einführungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000800000)
 
 (1) Der Einführungslehrgang dient der Vermittlung der notwendigen
 Grundlagen für die Aufnahme einer praktischen Tätigkeit im Bereich des
@@ -223,6 +232,7 @@ Lehrgangs anzugeben.
 
 
 ### § 7 Praktische Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE000900000)
 
 (1) Im Verlauf der mindestens zweijährigen praktischen Tätigkeit
 sollen die maßgeblichen Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -289,6 +299,7 @@ und durch die Unterschrift des Arbeitgebers zu bestätigen.
 
 
 ### § 8 Vorbereitungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001000000)
 
 (1) Der Besuch des Vorbereitungslehrgangs hat an einer nach § 6 Abs. 2
 des Hufbeschlaggesetzes anerkannten Hufbeschlagschule zu erfolgen. Die
@@ -441,12 +452,14 @@ zu vermitteln.
 
 
 ### § 9 Prüfungsteile
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001100000)
 
 Die Prüfung besteht aus einem praktischen Teil nach Maßgabe des § 10
 und einem theoretischen Teil nach Maßgabe des § 11.
 
 
 ### § 10 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001200000)
 
 (1) Der praktische Teil besteht aus den Prüfungsbereichen:
 
@@ -526,6 +539,7 @@ zur Verfügung.
 
 
 ### § 11 Theoretischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001300000)
 
 (1) Der theoretische Teil der Prüfung besteht aus den
 Prüfungsbereichen:
@@ -601,6 +615,7 @@ Prüfling nicht länger als 30 Minuten dauern.
 
 
 ### § 12 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001400000)
 
 (1) Die Prüfung wird vor einem Prüfungsausschuss der zuständigen
 Behörde abgelegt.
@@ -645,6 +660,7 @@ Prüfungszeugnis einzuziehen.
 
 
 ### § 13 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001500000)
 
 (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet
 die Prüfung und setzt die Prüfungstermine in Absprache mit der
@@ -671,6 +687,7 @@ auszuweisen.
 
 
 ### § 14 Bewerten und Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001600000)
 
 (1) Für die Bewertung der Leistungen in den Prüfungsteilen nach § 10
 Abs. 1 und § 11 Abs. 1 ist die in Anlage 4 dargestellte sechsstufige
@@ -698,6 +715,7 @@ nach dem in der Anlage 5 enthaltenen Muster auszustellen.
 
 
 ### § 15 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001700000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann in einem Zeitraum von
 zwei Jahren nach dem Zeitpunkt der Mitteilung der Ergebnisse der
@@ -717,10 +735,12 @@ Antragstellers die Prüfung bei einer anderen Behörde zulassen.
 
 
 ## Abschnitt 3 - Prüfung zum Hufbeschlaglehrschmied/zur Hufbeschlaglehrschmiedin
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNG000300000)
 
 
 
 ### § 16 Ziel der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001800000)
 
 Durch die Prüfung zum Hufbeschlaglehrschmied/zur
 Hufbeschlaglehrschmiedin ist festzustellen, ob der Prüfling befähigt
@@ -729,6 +749,7 @@ entsprechen.
 
 
 ### § 17 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE001900000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -782,6 +803,7 @@ vorzulegen.
 
 
 ### § 18 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002000000)
 
 (1) Die Hufbeschlaglehrschmiedprüfung besteht aus den Prüfungsteilen:
 
@@ -859,6 +881,7 @@ Prüfungsgespräch stehen bis zu 15 Minuten zur Verfügung.
 
 
 ### § 19 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002100000)
 
 (1) Die Hufbeschlaglehrschmiedprüfung wird vor einem Prüfungsausschuss
 der zuständigen Behörde abgelegt.
@@ -901,6 +924,7 @@ Prüfungszeugnis einzuziehen.
 
 
 ### § 20 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002200000)
 
 (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet
 die Prüfung und setzt die Prüfungstermine in Absprache mit der nach
@@ -928,6 +952,7 @@ sind in der Niederschrift des Prüfungsausschusses auszuweisen.
 
 
 ### § 21 Bewerten und Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002300000)
 
 (1) Für die Bewertung der Leistungen in den Prüfungsteilen nach § 18
 Abs. 1 ist die in Anlage 4 dargestellte sechsstufige Notenskala
@@ -947,6 +972,7 @@ nach dem in der Anlage 6 enthaltenen Muster auszustellen.
 
 
 ### § 22 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002400000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann im Zeitraum von zwei
 Jahren nach der Bekanntgabe der Ergebnisse der ersten Prüfung zweimal
@@ -967,10 +993,12 @@ zulassen.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNG000400000)
 
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002500000)
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren einschließlich der Wiederholungsprüfungen können auf
@@ -991,16 +1019,19 @@ ausüben.
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002800000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3213
 Anerkennungsurkunde
@@ -1027,6 +1058,7 @@ berechtigt.
 
 
 ### Anlage 2 (zu § 2 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE002900000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3214
 Anerkennungsurkunde
@@ -1051,6 +1083,7 @@ staatlich anerkannt.
 
 
 ### Anlage 3 (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE003000000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3215
 Anerkennungsurkunde
@@ -1078,6 +1111,7 @@ staatlich anerkannt.
 (zu § 14 Abs. 1 und § 21 Abs. 1)
 
 ### Anlage 4 Bewertungsskala für die Bildung der Noten in den einzelnen Prüfungsleistungen  der Prüfungen nach § 10 Abs. 1, § 11 Abs. 1 und § 18 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE003100000)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3216)
 
@@ -1124,6 +1158,7 @@ Hufbeschlaggesetzes zu bewerten:
 
 
 ### Anlage 5 (zu § 14 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE003200000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3217
 Prüfungszeugnis
@@ -1174,6 +1209,7 @@ ungenügend).
 
 
 ### Anlage 6 (zu § 21 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlv/BJNR320500006.html#BJNR320500006BJNE003300000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3218
 Prüfungszeugnis

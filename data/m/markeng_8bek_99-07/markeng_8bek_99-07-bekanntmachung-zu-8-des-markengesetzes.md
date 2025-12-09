@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-07/BJNR163300999.html#BJNR163300999BJNE000100000)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082, 1995 I S. 156) wird bekanntgemacht, daß das
@@ -35,6 +36,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage Emblem der Ramsar CONVENTION ON WETLANDS
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-07/BJNR163300999.html#BJNR163300999BJNE000200000)
 
 (Fundstelle: BGBl. I 1999, 1633)
 ![bgbl1_1999_j1633_0010.jpg](bgbl1_1999_j1633_0010.jpg)

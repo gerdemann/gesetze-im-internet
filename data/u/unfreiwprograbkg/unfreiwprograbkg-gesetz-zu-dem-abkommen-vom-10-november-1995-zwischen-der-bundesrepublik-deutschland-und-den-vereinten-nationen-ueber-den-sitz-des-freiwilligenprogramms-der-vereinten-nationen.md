@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkg/BJNR090320996.html#BJNR090320996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkg/BJNR090320996.html#BJNR090320996BJNE000200310)
 
 Dem in New York am 10. November 1995 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und den Vereinten Nationen über den
@@ -36,6 +38,7 @@ Notenwechsel und die Erklärung werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkg/BJNR090320996.html#BJNR090320996BJNE000300310)
 
 (1) Die Bundesregierung wird ermächtigt, Änderungen dieses Abkommens,
 die im Rahmen von Konsultationen zwischen den Vertragsparteien des
@@ -51,6 +54,7 @@ anzuwenden ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkg/BJNR090320996.html#BJNR090320996BJNE000400310)
 
 (1) Bedienstete der Vereinten Nationen und ihres
 Freiwilligenprogramms, deren Mitgliedschaft in der deutschen
@@ -72,6 +76,7 @@ Kindererziehungszeiten und Berücksichtigungszeiten ausschließt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/unfreiwprograbkg/BJNR090320996.html#BJNR090320996BJNE000500310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

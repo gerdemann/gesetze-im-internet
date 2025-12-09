@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000100326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Versuchsanlage des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000203305)
 
 (1) Zur Erprobung von Techniken für den öffentlichen spurgeführten
 Verkehr der Bundeseisenbahnen errichtet die Bundesrepublik Deutschland
@@ -40,6 +42,7 @@ Benutzungsordnung.
 
 
 ## § 2 Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000302308)
 
 (1) Die Errichtung und jede Änderung der Versuchsanlage bedürfen der
 vorherigen Planfeststellung; bei einer Änderung kann die
@@ -57,6 +60,7 @@ Vorhabens überwiegende öffentliche Belange entgegenstehen.
 
 
 ## § 3 Planfeststellungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000400326)
 
 (1) Der Planfeststellungsbeschluß stellt Art und Umfang der
 Versuchsanlage fest und entscheidet über die Einwendungen, über die
@@ -72,6 +76,7 @@ ausgeschlossen.
 
 
 ## § 4 Planfeststellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000503305)
 
 Die Planfeststellung wird von der örtlich zuständigen
 Bundesbahndirektion durchgeführt. Bestehen zwischen der
@@ -81,6 +86,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur festgestellt.
 
 
 ## § 5 Planfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000600326)
 
 Im übrigen gelten für die Planfeststellung, für das Verfahren bei der
 Planfeststellung und für die vorzeitige Besitzeinweisung § 17 Abs. 4,
@@ -93,6 +99,7 @@ Artikel 26 des Zuständigkeitslockerungsgesetzes vom 10. März 1975
 
 
 ## § 6 Kreuzungen mit anderen Eisenbahnen und mit Straßen
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000700326)
 
 (1) Erfordert die Linienführung der Versuchsanlage eine Kreuzung mit
 einer anderen Eisenbahn, die dem öffentlichen Verkehr dient, oder mit
@@ -136,6 +143,7 @@ Planfeststellungsbehörde zu entscheiden.
 
 
 ## § 7 Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000803305)
 
 (1) Vom Beginn der Auslegung des Planes im Planfeststellungsverfahren
 oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben
@@ -181,6 +189,7 @@ nicht entgegenstehen.
 
 
 ## § 8 Vorarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE000900326)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
 von Planungen notwendige Vermessungen, Boden- und
@@ -199,6 +208,7 @@ der Bund eine angemessene Entschädigung in Geld zu leisten.
 
 
 ## § 9 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001000326)
 
 Kommt in den Fällen des § 7 Abs. 2 Satz 1 oder des § 8 Abs. 3 eine
 Einigung über die Geldentschädigung nicht zustande, setzt die nach
@@ -208,6 +218,7 @@ Beteiligten zu hören.
 
 
 ## § 10 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001100326)
 
 (1) Für Zwecke des Baues und der Änderung der Versuchsanlage ist die
 Enteignung zulässig, soweit sie zur Ausführung des nach den
@@ -226,6 +237,7 @@ kann das Entschädigungsverfahren unmittelbar durchgeführt werden.
 
 
 ## § 11 Verwaltung und Betrieb der Versuchsanlage
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001203305)
 
 (1) Die Versuchsanlage nach § 1 wird vom Bund verwaltet und betrieben.
 Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt
@@ -252,6 +264,7 @@ andere Behörden finden insoweit nicht statt.
 
 
 ## § 12 Andere Versuchsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001300326)
 
 (1) Die §§ 2, 3, 5 bis 9 gelten sinngemäß auch in den Fällen, in denen
 Versuchsanlagen zur Erprobung von Techniken für den öffentlichen
@@ -283,6 +296,7 @@ Stelle die Betriebsvorschriften genehmigt hat.
 
 
 ## § 13 Beseitigung der Versuchsanlage
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001400326)
 
 Stellt der Betreiber fest, daß der Erprobungszweck der Anlage
 entfallen ist oder die Anlage nicht anderweitig für öffentliche Zwecke
@@ -291,11 +305,13 @@ ursprünglichen Zustand wiederherzustellen.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001500326)
 
 -
 
 
 ## § 15 Fortgeltung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001600326)
 
 Das Bundesbahngesetz vom 13. Dezember 1951 (Bundesgesetzbl. I S. 955),
 zuletzt geändert durch
@@ -305,6 +321,7 @@ Bundesverfassungsgericht vom 21. Dezember 1970 (Bundesgesetzbl. I S.
 
 
 ## § 16 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001700326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -314,6 +331,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/spurverkerprg/BJNR002410976.html#BJNR002410976BJNE001800326)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

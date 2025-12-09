@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -34,9 +35,11 @@ mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000300000)
 
 Die Ausbildungsberufe
 
@@ -54,11 +57,13 @@ stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Im
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000400000)
 
 Die Ausbildungen dauern jeweils drei Jahre.
 
 
 ### § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000500000)
 
 Die Ausbildungen gliedern sich wie folgt:
 
@@ -85,9 +90,11 @@ Die Ausbildungen gliedern sich wie folgt:
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf zum Geomatiker/zur Geomatikerin
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNG000200000)
 
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000600000)
 
 (1) Gegenstand der Berufsbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
@@ -187,6 +194,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
 
 
 ### § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000700000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -208,6 +216,7 @@ durchzusehen.
 
 
 ### § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -252,6 +261,7 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 ### § 7 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE000900000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -460,6 +470,7 @@ folgende Vorgaben:
 
 
 ### § 8 Gewichtungs- und Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001000000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -523,9 +534,11 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf zum Vermessungstechniker/ zur Vermessungstechnikerin
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNG000300000)
 
 
 ### § 9 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001100000)
 
 (1) Gegenstand der Berufsbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse
@@ -644,6 +657,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
 
 
 ### § 10 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001200000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -665,6 +679,7 @@ durchzusehen.
 
 
 ### § 11 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001300000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -709,6 +724,7 @@ Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 
 ### § 12 Abschlussprüfung in der Fachrichtung Vermessung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001400000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -862,6 +878,7 @@ folgende Vorgaben:
 
 
 ### § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Vermessung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001500000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -919,6 +936,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ### § 14 Abschlussprüfung in der Fachrichtung Bergvermessung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001600000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -1071,6 +1089,7 @@ folgende Vorgaben:
 
 
 ### § 15 Gewichtungs- und Bestehensregelungen in der Fachrichtung Bergvermessung
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001700000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1128,9 +1147,11 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNG000400000)
 
 
 ### § 16 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001800000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 in den Ausbildungsberufen Kartograph/Kartographin,
@@ -1142,6 +1163,7 @@ Vertragsparteien dies vereinbaren.
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig treten
 die Verordnung über die Berufsausbildung zum Kartographen/zur
@@ -1154,6 +1176,7 @@ Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993
 (zu § 4 Absatz 1 Satz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Geomatiker/zur Geomatikerin
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE002000000)
 
 (Fundstelle: BGBl. I 2010, 701 - 706)
 
@@ -1930,6 +1953,7 @@ Fähigkeiten**
 (zu § 9 Absatz 1 Satz 1)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin
+[Direktlink](https://www.gesetze-im-internet.de/geoitausbv/BJNR069400010.html#BJNR069400010BJNE002100000)
 
 (Fundstelle: BGBl. I 2010, 707 - 712)
 

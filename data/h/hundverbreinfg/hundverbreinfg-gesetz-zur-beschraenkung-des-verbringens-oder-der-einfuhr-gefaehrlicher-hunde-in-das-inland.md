@@ -25,6 +25,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000100310)
 
 Im Sinne dieses Gesetzes ist
 Verbringen in das Inland:
@@ -43,6 +44,7 @@ Landesrecht bestimmte Hunde.
 
 
 ## § 2 Einfuhr- und Verbringungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000200310)
 
 (1) Hunde der Rassen Pitbull-Terrier, American Staffordshire-Terrier,
 Staffordshire-Bullterrier, Bullterrier sowie deren Kreuzungen
@@ -97,6 +99,7 @@ Zustimmung des Bundesrates
 
 
 ## § 3 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000300310)
 
 (1) Natürliche und juristische Personen sowie nichtrechtsfähige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
@@ -170,6 +173,7 @@ dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 4 Mitwirkung der Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000400310)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Einfuhr von Hunden mit. Die
@@ -188,6 +192,7 @@ Besichtigungen vorsehen.
 
 
 ## § 5 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000500310)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 2 Abs. 1 einen Hund in das Inland verbringt
@@ -200,6 +205,7 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ## § 6 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000601305)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -223,6 +229,7 @@ Euro geahndet werden.
 
 
 ## § 7 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfg/BJNR053010001.html#BJNR053010001BJNE000700310)
 
 Ist eine Straftat nach § 5 oder eine Ordnungswidrigkeit nach § 6 Abs.
 1 begangen worden, so können

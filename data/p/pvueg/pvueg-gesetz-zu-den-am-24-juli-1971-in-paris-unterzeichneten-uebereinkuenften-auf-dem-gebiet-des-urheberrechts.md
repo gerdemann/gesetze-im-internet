@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/pv_g/BJNR210690973.html#BJNR210690973BJNE000100303)
 
 Den folgenden von der Bundesrepublik Deutschland am 21. Juli 1971 in
 Paris unterzeichneten Übereinkünften wird zugestimmt:
@@ -39,6 +40,7 @@ Die Übereinkünfte werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/pv_g/BJNR210690973.html#BJNR210690973BJNE000200303)
 
 Die Bundesregierung wird ermächtigt, die in Artikel VI Abs. 1 Ziffer
 ii des Anhangs zur Pariser Fassung der Berner Übereinkunft zum Schutz
@@ -46,11 +48,13 @@ von Werken der Literatur und Kunst vorgesehene Erklärung abzugeben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/pv_g/BJNR210690973.html#BJNR210690973BJNE000300303)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/pv_g/BJNR210690973.html#BJNR210690973BJNE000400303)
 
 Für die Berechnung der Dauer des Schutzes, den ausländische
 Staatsangehörige für ihre Werke nach dem revidierten
@@ -60,12 +64,14 @@ Welturheberrechtsabkommens anzuwenden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/pv_g/BJNR210690973.html#BJNR210690973BJNE000500303)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/pv_g/BJNR210690973.html#BJNR210690973BJNE000600303)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

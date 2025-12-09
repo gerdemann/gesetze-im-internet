@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -60,6 +61,7 @@ Es verordnen auf Grund
 
 
 ## Art 1 Inkraftsetzen von Beschlüssen der Zentralkommission für die Rheinschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000201305)
 
 Folgende von der Zentralkommission für die Rheinschifffahrt (ZKR) in
 Straßburg gefassten Beschlüsse werden hiermit auf dem Rhein in Kraft
@@ -180,6 +182,7 @@ veröffentlicht.
 
 
 ## Art 2 Ausnahmen von der Schifferpatentpflicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000300000)
 
 (1) Zur Führung von Fahrzeugen der Streitkräfte ist ein Rheinpatent
 nicht erforderlich.
@@ -190,6 +193,7 @@ Schiffspersonalverordnung-Rhein nicht erforderlich.
 
 
 ## Art 3 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000406119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
 ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der
@@ -378,6 +382,7 @@ Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des §
 
 
 ## Art 4 Zuständigkeit für ärztliche Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000502305)
 
 (1) Ärztliche Zeugnisse im Sinne des § 3.03 Nummer 1 Satz 2 Buchstabe
 a, der §§ 3.04, 3.07 Nummer 2, des § 7.01 Nummer 3 Buchstabe a, des §
@@ -398,6 +403,7 @@ ausgestellt worden ist, steht dem Zeugnis nach Absatz 1 gleich.
 
 
 ## Art 5 Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000605119)
 
 (1) Der Eigentümer, der Ausrüster und der Schiffsführer haben dafür zu
 sorgen, dass
@@ -652,6 +658,7 @@ Behörde abzuliefern oder es ihr zur Entwertung vorzulegen.
 
 
 ## Art 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000703119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -777,6 +784,7 @@ nicht rechtzeitig zur Entwertung vorlegt.
 
 
 ## Art 7 Radarpatent für die Führer von Fähren
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000800000)
 
 (1) Die Prüfung für die Führer von Fähren beschränkt sich im
 praktischen Teil unter Berücksichtigung der jeweiligen örtlichen
@@ -797,6 +805,7 @@ ein.
 
 
 ## Art 8 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE000900000)
 
 Es werden aufgehoben:
 
@@ -883,10 +892,12 @@ Es werden aufgehoben:
 
 
 ## (XXXX) Art 9 bis 17
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE001000000)
 
 
 
 ## Art 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE001100000)
 
 (1) Diese Verordnung und die in Artikel 1 genannten Beschlüsse treten
 am Tag nach der Verkündung in Kraft.
@@ -896,6 +907,7 @@ treten am 30. September 2014 außer Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE001200000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 3 - 105)
 
@@ -903,6 +915,7 @@ Text siehe: RheinSchPersV
 
 
 ## (XXXX) Anlage 2 bis 15
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersev/BJNR130020011.html#BJNR130020011BJNE001300000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 106 - 142)
 

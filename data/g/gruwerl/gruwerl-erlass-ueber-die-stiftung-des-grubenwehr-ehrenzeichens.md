@@ -20,18 +20,21 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000100319)
 
 Als Anerkennung für besondere persönliche Verdienste im
 Grubenrettungswesen stifte ich das Grubenwehr-Ehrenzeichen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000200319)
 
 Diese Auszeichnung wird als Grubenwehr-Ehrenzeichen in Silber und
 Grubenwehr-Ehrenzeichen in Gold verliehen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000300319)
 
 
 a)  Mit dem Grubenwehr-Ehrenzeichen in Silber können ausgezeichnet werden:
@@ -80,6 +83,7 @@ b)  Mit dem Grubenwehr-Ehrenzeichen in Gold können ausgezeichnet werden:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000400319)
 
 (1) Das Grubenwehr-Ehrenzeichen besteht aus einer runden silbernen
 oder goldenen Medaille. Die Vorderseite der Medaille zeigt auf
@@ -105,6 +109,7 @@ auf einer Mustertafel (s. Anlage) festgelegt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000500319)
 
 (1) Über die Verleihung des Grubenwehr-Ehrenzeichens erhält der
 Ausgezeichnete eine Verleihungsurkunde mit der Unterschrift des
@@ -115,6 +120,7 @@ Bundespräsidenten.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000600319)
 
 Einzelheiten über die Einreichung und Behandlung der Vorschläge für
 das Grubenwehr-Ehrenzeichen werden in besonderen
@@ -122,6 +128,7 @@ Durchführungsbestimmungen geregelt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gruwerl/BJNR006620953.html#BJNR006620953BJNE000700319)
 
 Der Bundespräsident
 Der Bundeskanzler

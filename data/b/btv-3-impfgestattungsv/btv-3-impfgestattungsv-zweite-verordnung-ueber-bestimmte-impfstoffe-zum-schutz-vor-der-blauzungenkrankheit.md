@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Die V tritt gem. § 2 Satz 2 mWv 7.12.2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird; gem. § 2 idF d. Art. 1 V v. 25.11.2024 I Nr. 366 ist die Geltung dieser V über den 6.12.2024 hinaus verlängert worden
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/btv-3-impfgestattungsv/BJNR0B50A0024.html#BJNR0B50A0024BJNE000101119)
 
 Auf Grund des § 11 Absatz 4 Satz 1 Nummer 1 des
 Tiergesundheitsgesetzes in der Fassung der Bekanntmachung vom 21.
@@ -29,6 +30,7 @@ Ernährung und Landwirtschaft:
 
 
 ## § 1 Gestattung der Anwendung bestimmter Impfstoffe
+[Direktlink](https://www.gesetze-im-internet.de/btv-3-impfgestattungsv/BJNR0B50A0024.html#BJNR0B50A0024BJNE000201119)
 
 (1) In Anwendung des Artikels 110 Absatz 2 der Verordnung (EU) 2019/6
 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über
@@ -60,6 +62,7 @@ worden ist.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/btv-3-impfgestattungsv/BJNR0B50A0024.html#BJNR0B50A0024BJNE000301119)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

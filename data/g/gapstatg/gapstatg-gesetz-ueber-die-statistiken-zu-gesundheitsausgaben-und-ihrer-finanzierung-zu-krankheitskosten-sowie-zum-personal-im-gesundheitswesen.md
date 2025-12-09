@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Gegenstand, Zwecke und Durchführung der Statistiken
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000100000)
 
 (1) Zur Gewinnung von Strukturinformationen über die Höhe der
 Gesundheitsausgaben und ihre Finanzierung, über die Krankheitskosten
@@ -55,6 +56,7 @@ durchgeführt.
 
 
 ## § 2 Gesundheitsausgabenstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000200000)
 
 (1) Die Statistik nach § 1 Absatz 2 Nummer 1 erfasst folgende
 Sachverhalte:
@@ -117,6 +119,7 @@ Statistik erforderlichen Periodizität, höchstens jedoch jährlich.
 
 
 ## § 3 Krankheitskostenstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000300000)
 
 (1) Die Statistik nach § 1 Absatz 2 Nummer 2 erfasst die
 Krankheitskosten nach Alter und Geschlecht der erkrankten Person,
@@ -155,6 +158,7 @@ Statistik erforderlichen Periodizität, höchstens jedoch jährlich.
 
 
 ## § 4 Gesundheitspersonalstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000400000)
 
 (1) Die Statistik nach § 1 Absatz 2 Nummer 3 erfasst folgende
 Sachverhalte:
@@ -208,6 +212,7 @@ Statistik erforderlichen Periodizität, höchstens jedoch jährlich.
 
 
 ## § 5 Regionales Gesundheitspersonalmonitoring
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000500000)
 
 (1) Die Statistik nach § 1 Absatz 2 Nummer 4 erfasst folgende
 Sachverhalte:
@@ -264,6 +269,7 @@ Statistik erforderlichen Periodizität, höchstens jedoch jährlich.
 
 
 ## § 6 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000600000)
 
 Hilfsmerkmale sind:
 
@@ -278,6 +284,7 @@ Hilfsmerkmale sind:
 
 
 ## § 7 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000700000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht.
 
@@ -289,6 +296,7 @@ freiwillig.
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000800000)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnungen ohne Zustimmung des Bundesrates das Nähere zur
@@ -311,6 +319,7 @@ insbesondere zu
 
 
 ## § 9 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gapstatg/BJNR279900021.html#BJNR279900021BJNE000900000)
 
 (1) Das Statistische Bundesamt darf den fachlich zuständigen obersten
 Bundes- und Landesbehörden für die Verwendung gegenüber den

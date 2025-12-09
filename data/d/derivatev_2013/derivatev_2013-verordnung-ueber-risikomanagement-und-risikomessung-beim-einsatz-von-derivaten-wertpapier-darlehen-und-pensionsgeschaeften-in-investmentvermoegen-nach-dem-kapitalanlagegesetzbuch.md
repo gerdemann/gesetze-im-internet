@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000100000)
 
 Auf Grund des § 197 Absatz 3 Satz 1 und des § 204 Absatz 3 Satz 1 des
 Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) sowie des
@@ -36,9 +37,11 @@ verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000200000)
 
 (1) Diese Verordnung ist anzuwenden auf
 
@@ -67,6 +70,7 @@ Pensionsgeschäfte aus.
 
 
 ### § 2 Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000300000)
 
 (1) Der Einsatz von Derivaten, Wertpapier-Darlehen und
 Pensionsgeschäften darf
@@ -120,6 +124,7 @@ Kapitalanlagegesetzbuches entsprechen.
 
 
 ### § 3 Liefer- und Zahlungsverpflichtungen; Deckung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000400000)
 
 (1) Die Kapitalverwaltungsgesellschaft muss sicherstellen, dass
 
@@ -139,6 +144,7 @@ des Risikomanagementprozesses laufend zu überwachen.
 
 
 ### § 4 Interessenkonflikte
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000500000)
 
 (1) Die Kapitalverwaltungsgesellschaft hat insbesondere für Geschäfte,
 bei denen Interessenkonflikte nicht auszuschließen sind, zum Beispiel
@@ -155,12 +161,15 @@ zweckdienlich ist.
 
 
 ## Abschnitt 2 - Marktrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000200000)
 
 
 ### Unterabschnitt 1 - Anwendungsvorschriften für den qualifizierten und den einfachen Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000300000)
 
 
 #### § 5 Grundlagen und Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000600000)
 
 (1) Die Kapitalverwaltungsgesellschaft hat die Auslastung der nach §
 197 Absatz 2 des Kapitalanlagegesetzbuches festgesetzten
@@ -208,6 +217,7 @@ anwenden, wenn
 
 
 #### § 6 Aufzeichnungs- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000701123)
 
 Die Entscheidung der Kapitalverwaltungsgesellschaft für den einfachen
 Ansatz oder den qualifizierten Ansatz sowie für eine der Methoden des
@@ -228,9 +238,11 @@ Kommunikationsverfahren anzuzeigen.
 
 
 ### Unterabschnitt 2 - Qualifizierter Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000400000)
 
 
 #### § 7 Risikobegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000800000)
 
 (1) Der einem Investmentvermögen zuzuordnende potenzielle Risikobetrag
 für das Marktrisiko darf zu keinem Zeitpunkt das Zweifache des
@@ -243,6 +255,7 @@ Prozent des Wertes des Investmentvermögens übersteigen.
 
 
 #### § 8 Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE000900000)
 
 Im Rahmen des qualifizierten Ansatzes kann die
 Kapitalverwaltungsgesellschaft den potenziellen Risikobetrag entweder
@@ -255,6 +268,7 @@ kontinuierlich zu verwenden.
 
 
 #### § 9 Zugehöriges Vergleichsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001001123)
 
 (1) Das zugehörige Vergleichsvermögen ist regelmäßig ein
 derivatefreies Vermögen, das keinen Leverage aufweist und dessen
@@ -307,6 +321,7 @@ Kapitalanlagegesetzbuches.
 
 
 #### § 10 Potenzieller Risikobetrag für das Marktrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001100000)
 
 (1) Der potenzielle Risikobetrag für das Marktrisiko ist mit Hilfe
 eines geeigneten eigenen Risikomodells im Sinne des § 1 Absatz 13 des
@@ -342,6 +357,7 @@ Bundesanstalt geeignete Maßnahmen veranlassen.
 
 
 #### § 11 Quantitative Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001200000)
 
 Bei der Ermittlung des potenziellen Risikobetrags für das Marktrisiko
 ist
@@ -371,6 +387,7 @@ Sinne des § 10 Absatz 2 Satz 2 zulässig.
 
 
 #### § 12 Zu erfassende Risikofaktoren
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001300000)
 
 (1) Bei der Ermittlung des potenziellen Risikobetrags für das
 Marktrisiko sind alle nicht nur unerheblichen Marktrisikofaktoren in
@@ -409,6 +426,7 @@ angemessener Weise zu berücksichtigen.
 
 
 #### § 13 Qualitative Anforderungen; Risikocontrolling
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001400000)
 
 (1) Die Arbeits- und Ablauforganisation der
 Kapitalverwaltungsgesellschaft ist so zu gestalten, dass eine zeitnahe
@@ -506,6 +524,7 @@ Internen Revision zu überprüfen.
 
 
 #### § 14 Prognosegüte
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001501123)
 
 Die Prognosegüte eines Risikomodells ist mittels eines täglichen
 Vergleichs des anhand des Risikomodells auf der Basis einer Haltedauer
@@ -532,9 +551,11 @@ geeignete Maßnahmen veranlassen.
 
 
 ### Unterabschnitt 3 - Einfacher Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000500000)
 
 
 #### § 15 Risikobegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001600000)
 
 (1) Der Anrechnungsbetrag für das Marktrisiko nach § 16 Absatz 3 darf
 zu keinem Zeitpunkt den Wert des Investmentvermögens übersteigen.
@@ -547,6 +568,7 @@ vermindern.
 
 
 #### § 16 Anrechnungsbetrag für das Marktrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001701118)
 
 (1) Der Anrechnungsbetrag für das Marktrisiko für Grundformen von
 Derivaten ist regelmäßig jeweils das Basiswertäquivalent. Dabei ist
@@ -735,6 +757,7 @@ ist bei
 
 
 #### § 17 Unberücksichtigte Derivate
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001800000)
 
 Bei der Ermittlung des Anrechnungsbetrags nach § 16 Absatz 3 dürfen
 unberücksichtigt bleiben:
@@ -768,6 +791,7 @@ unberücksichtigt bleiben:
 
 
 #### § 18 Zugehöriges Delta
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE001900000)
 
 (1) Das zugehörige Delta ist das Verhältnis der Veränderung des Wertes
 des Derivates zu einer als geringfügig angenommenen Veränderung des
@@ -779,6 +803,7 @@ ermitteln, zu dokumentieren und der Verwahrstelle mitzuteilen.
 
 
 #### § 19 Anerkennung von Absicherungsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002000000)
 
 (1) Bei der Ermittlung des Anrechnungsbetrags für das Marktrisiko nach
 § 16 Absatz 3 können Absicherungsgeschäfte berücksichtigt werden. Dem
@@ -855,6 +880,7 @@ und wenn wesentliche Risiken unberücksichtigt bleiben.
 
 
 #### § 20 Absicherungen bei Zinsderivaten
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002100000)
 
 (1) Zur Verrechnung von Zinsderivaten nach § 19 Absatz 2 sind die
 Zinsderivate entsprechend den restlichen Zinsbindungsfristen der
@@ -943,6 +969,7 @@ als Summe der
 
 
 #### § 21 Wiederanlage von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002200000)
 
 (1) Die Anlage von Sicherheiten im Rahmen von Derivaten, von
 Wertpapier-Darlehen nach den §§ 200 bis 202 des
@@ -965,6 +992,7 @@ Absätze 1 bis 3.
 
 
 #### § 22 Ermittlung des Anrechnungsbetrags für strukturierte Investmentvermögen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002300000)
 
 Der Anrechnungsbetrag für das Marktrisiko für strukturierte
 Investmentvermögen kann alternativ für die einzelnen
@@ -1014,12 +1042,15 @@ Auszahlungsprofile getrennt ermittelt werden, sofern
 
 
 ## Abschnitt 3 - Kreditrisiko und Liquiditätsrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000600000)
 
 
 ### Unterabschnitt 1 - Emittentenrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000700000)
 
 
 #### § 23 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002400000)
 
 (1) Bei der Berechnung der Auslastung der Anlagegrenzen nach den §§
 206 und 207 des Kapitalanlagegesetzbuches (Ausstellergrenzen) sind
@@ -1033,6 +1064,7 @@ einzubeziehen.
 
 
 #### § 24 Anwendung des einfachen Ansatzes
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002501311)
 
 (1) Für die Berechnung der Ausstellergrenzen nach § 23 Absatz 1 ist
 grundsätzlich der einfache Ansatz nach § 16 anzuwenden. Dazu sind für
@@ -1074,9 +1106,11 @@ Derivate den Ausstellergrenzen entsprechen.
 
 
 ### Unterabschnitt 2 - Liquiditätsrisiko und Kontrahentenrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000800000)
 
 
 #### § 25 Abschluss und Bewertung eines OTC-Derivates
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002601128)
 
 (1) Derivate, die nicht zum Handel an einer Börse zugelassen oder in
 einen anderen organisierten Markt einbezogen sind (OTC-Derivate), darf
@@ -1101,6 +1135,7 @@ Gegengeschäft glattgestellt werden können.
 
 
 #### § 26 Kündbarkeit von Wertpapier-Darlehen und Pensionsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002701118)
 
 (1) Die Kapitalverwaltungsgesellschaft muss berechtigt sein, jederzeit
 ein Wertpapier-Darlehen zu kündigen und zu beenden. Alle im Rahmen des
@@ -1151,6 +1186,7 @@ nachgekommen werden kann.
 
 
 #### § 27 Anrechnungsbetrag für das Kontrahentenrisiko
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002802123)
 
 (1) Derivate, Wertpapier-Darlehen und Pensionsgeschäfte dürfen nur
 insoweit abgeschlossen werden, als der Anrechnungsbetrag für das
@@ -1371,9 +1407,11 @@ System gewährleistet ist.
 
 
 ## Abschnitt 4 - Stresstests
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG000900000)
 
 
 ### § 28 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE002900000)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jedes
 Investmentvermögen Stresstests nach Maßgabe des § 30 durchzuführen.
@@ -1404,6 +1442,7 @@ nach § 36 des Kapitalanlagegesetzbuches.
 
 
 ### § 29 Qualitative Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003000000)
 
 (1) Die Stresstests müssen sich auf alle Risiken erstrecken, die den
 Wert oder die Schwankungen des Wertes des Investmentvermögens nicht
@@ -1425,6 +1464,7 @@ oder illiquider Märkte.
 
 
 ### § 30 Häufigkeit, Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003100000)
 
 (1) Die Stresstests sind mindestens monatlich durchzuführen. Darüber
 hinaus sind Stresstests dann durchzuführen, wenn nicht ausgeschlossen
@@ -1440,6 +1480,7 @@ geänderte Stresstest mindestens einmal parallel durchzuführen.
 
 
 ### § 31 Dokumentation, Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003200000)
 
 (1) Die Kapitalverwaltungsgesellschaft muss eine nachvollziehbare
 Richtlinie für die Gestaltung und die fortlaufende Anpassung der
@@ -1459,6 +1500,7 @@ erstreckt sich auch auf § 28 Absatz 4 und 5.
 
 
 ### § 32 Zusätzliche Stresstests im Rahmen der Sicherheitenverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003300000)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jedes
 Investmentvermögen, für das Sicherheiten in Höhe von mindestens 30
@@ -1489,9 +1531,11 @@ den Sicherheiten verbundene Liquiditätsrisiko zu bewerten.
 
 
 ## Abschnitt 5 - Strukturierte Produkte mit derivativer Komponente
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG001000000)
 
 
 ### § 33 Erwerb strukturierter Produkte
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003400000)
 
 (1) Ein strukturiertes Produkt darf für ein Investmentvermögen nur
 erworben werden, wenn sichergestellt ist, dass nur solche Komponenten
@@ -1509,6 +1553,7 @@ nachvollziehbar zu dokumentieren.
 
 
 ### § 34 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003500000)
 
 (1) Die Kapitalverwaltungsgesellschaft hat die Investition in
 strukturierte Produkte in einer Richtlinie zu regeln, die eine
@@ -1551,9 +1596,11 @@ im Prüfungsbericht aufzuzeigen.
 
 
 ## Abschnitt 6 - Besondere Veröffentlichungs- und Meldebestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG001100000)
 
 
 ### § 35 Angaben im Verkaufsprospekt eines Publikumsinvestmentvermögens
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003601118)
 
 (1) Der Verkaufsprospekt eines Publikumsinvestmentvermögens gemäß §
 165 des Kapitalanlagegesetzbuches muss beim Einsatz von Total Return
@@ -1695,6 +1742,7 @@ Publikumsinvestmentvermögens
 
 
 ### § 36 Angaben in den wesentlichen Anlegerinformationen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003700000)
 
 Die Informationen nach § 35 Absatz 2 sind in zusammengefasster Form
 auch in den wesentlichen Anlegerinformationen gemäß § 166 des
@@ -1702,6 +1750,7 @@ Kapitalanlagegesetzbuches darzustellen.
 
 
 ### § 37 Angaben im Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003801118)
 
 (1) Der Jahresbericht eines Investmentvermögens muss beim Einsatz von
 Derivaten die folgenden Angaben enthalten:
@@ -1767,6 +1816,7 @@ den Europäischen Wirtschaftsraum begeben oder garantiert hat.
 
 
 ### § 38 Berichte über Derivate
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE003901123)
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jeden OGAW zum Ende des
 Kalenderjahres oder des Geschäftsjahres (Berichtsstichtag) und
@@ -1814,9 +1864,11 @@ Informationen zum Zweck der Überwachung von Systemrisiken übermitteln.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNG001200000)
 
 
 ### § 39 Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE004000000)
 
 Die Vorschriften dieser Verordnung sind entsprechend anzuwenden
 
@@ -1832,6 +1884,7 @@ Die Vorschriften dieser Verordnung sind entsprechend anzuwenden
 
 
 ### § 40 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE004102311)
 
 (1) Die Derivateverordnung vom 6. Februar 2004 (BGBl. I S. 153) in der
 bis zum 21. Juli 2013 geltenden Fassung ist auf die am 21. Juli 2013
@@ -1846,6 +1899,7 @@ bis zum 5. Juni 2020 angewendet werden.
 
 
 ### § 41 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/derivatev_2013/BJNR246300013.html#BJNR246300013BJNE004200000)
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt
 die Derivateverordnung vom 6. Februar 2004 (BGBl. I S. 153), die durch

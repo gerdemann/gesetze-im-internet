@@ -26,9 +26,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000200000)
 
 Der Ausbildungsberuf des Elektronikers für Maschinen und
 Antriebstechnik nach dem Berufsbildungsgesetz und der Elektronikerin
@@ -37,11 +39,13 @@ nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000300000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -61,6 +65,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -149,6 +154,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000600000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -156,9 +162,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000700000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -168,6 +176,7 @@ Stelle fest.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000800000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -184,6 +193,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE000900000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 Elektrotechnische Anlagen und Betriebsmittel statt.
@@ -228,6 +238,7 @@ schriftliche Bearbeitung der Aufgaben entfallen 120 Minuten.
 
 
 ### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001000000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -249,6 +260,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001100000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -269,6 +281,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001200000)
 
 (1) Im Prüfungsbereich Kundenauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -342,6 +355,7 @@ Anmeldung zur Prüfung mit.
 
 
 ### § 12 Prüfungsbereich Systementwurf
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001300000)
 
 (1) Im Prüfungsbereich Systementwurf hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -369,6 +383,7 @@ dass er in der Lage ist,
 
 
 ### § 13 Prüfungsbereich Funktions- und Systemanalyse
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001400000)
 
 (1) Im Prüfungsbereich Funktions- und Systemanalyse hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -394,6 +409,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001500000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -407,6 +423,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -485,6 +502,7 @@ Nummer 3 des Berufsbildungsgesetzes zu fassen.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -526,6 +544,7 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 (zu § 3 Absatz 1 Satz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Maschinen und Antriebstechnik nach dem Berufsbildungsgesetz und zur Elektronikerin für Maschinen und Antriebstechnik nach dem Berufsbildungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/elekmaschbbbigausbv/BJNR071400021.html#BJNR071400021BJNE001800000)
 
 (Fundstelle: BGBl. I 2021, 718 - 725)
 

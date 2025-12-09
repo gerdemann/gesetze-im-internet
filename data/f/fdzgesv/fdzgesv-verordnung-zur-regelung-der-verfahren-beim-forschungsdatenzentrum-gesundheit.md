@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Teil 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000200000)
 
 Die Verordnung regelt das Nähere zur Wahrnehmung, Durchführung und
 Finanzierung der Aufgaben der Datentransparenz nach den §§ 303a bis
@@ -29,6 +31,7 @@ Sozialgesetzbuch.
 
 
 ### § 2 Aufgabenwahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000300000)
 
 (1) Die Aufgaben der Vertrauensstelle nach § 303c des Fünften Buches
 Sozialgesetzbuch nimmt das Robert Koch-Institut wahr. Die
@@ -53,9 +56,11 @@ Stand der Technik ist zu gewährleisten.
 
 
 ## Teil 2 - Übermittlung von Daten der Krankenkassen (Datentransparenzverfahren)
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNG000200000)
 
 
 ### § 3 Art und Umfang der zu übermittelnden Daten im Datentransparenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000400000)
 
 Die Krankenkassen und die Pflegekassen übermitteln im Rahmen ihrer
 Verpflichtung nach § 303b Absatz 1 Satz 1 des Fünften Buches
@@ -474,6 +479,7 @@ der Krankenkassen als Datensammelstelle die folgenden Daten:
 
 
 ### § 4 Datenverarbeitung durch den Spitzenverband Bund der Krankenkassen als Datensammelstelle
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000500000)
 
 (1) Der Spitzenverband Bund der Krankenkassen führt die von den
 Krankenkassen und Pflegekassen übermittelten Daten nach § 3 in
@@ -522,6 +528,7 @@ Spitzenverband Bund der Krankenkassen.
 
 
 ### § 5 Verfahren der Pseudonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000600000)
 
 (1) Für die Pseudonymisierung der Angaben zu den Leistungserbringern
 nach § 303b Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuches
@@ -557,6 +564,7 @@ Datenschutz und die Informationsfreiheit.
 
 
 ### § 6 Verfahren in der Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000700000)
 
 (1) Die Vertrauensstelle überführt die ihr vom Spitzenverband Bund der
 Krankenkassen übermittelten Lieferpseudonyme in permanente
@@ -573,9 +581,11 @@ und Arbeitsnummern sowie die periodenübergreifenden Pseudonyme.
 
 
 ## Teil 3 - Übermittlung von Daten aus elektronischen Patientenakten (Datenfreigabeverfahren)
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNG000300000)
 
 
 ### § 7 Übermittlung von Daten aus der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000800000)
 
 (1) Daten in elektronischen Patientenakten der gesetzlich Versicherten
 werden nach § 9 pseudonymisiert und verschlüsselt und nach § 10 an das
@@ -607,6 +617,7 @@ genannten Frist übermittelt.
 
 
 ### § 8 Widerspruch gegen die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE000900000)
 
 (1) Versicherte können gemäß § 363 Absatz 5 des Fünften Buches
 Sozialgesetzbuch der Übermittlung von Daten aus ihrer elektronischen
@@ -673,6 +684,7 @@ Ombudsstellen in einer Verfahrensordnung.
 
 
 ### § 9 Pseudonymisierung und Verschlüsselung auszuleitender Daten
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001000000)
 
 (1) Die nach § 7 Absatz 1 für die Zwecke nach § 303e Absatz 2 des
 Fünften Buches Sozialgesetzbuch zugänglich zu machenden Daten werden
@@ -692,6 +704,7 @@ jeweils aktuellen Stand der Technik.
 
 
 ### § 10 Übermittlung an das Forschungsdatenzentrum und die Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001100000)
 
 (1) Die Krankenkassen übermitteln die nach § 9 pseudonymisierten und
 verschlüsselten Daten gemeinsam mit einer Arbeitsnummer an das
@@ -711,12 +724,14 @@ Datenübermittlung in der Woche erfolgen.
 
 
 ### § 11 Verarbeitung in der Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001200000)
 
 Für die Verarbeitung der nach § 10 übermittelten Lieferpseudonyme und
 Arbeitsnummern in der Vertrauensstelle gilt § 6 entsprechend.
 
 
 ### § 12 Verarbeitung im Forschungsdatenzentrum
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001300000)
 
 Das Forschungsdatenzentrum nimmt die ihm nach § 10 Absatz 1 Satz 1
 sowie nach § 11 in Verbindung mit § 6 übermittelten Daten entgegen. Es
@@ -727,6 +742,7 @@ periodenübergreifenden Pseudonym vorhandenen Daten.
 
 
 ### § 13 Informationspflichten und Datencockpit
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001400000)
 
 (1) Über die Benutzeroberfläche eines geeigneten Endgeräts sind
 Informationen über die Übermittlung von Daten aus der elektronischen
@@ -768,6 +784,7 @@ informiert werden.
 
 
 ### § 14 Zusammensetzung der AG Pseudonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001500000)
 
 (1) Zur Erarbeitung und Weiterentwicklung von zuverlässigen Verfahren
 zur Pseudonymisierung der aus der elektronischen Patientenakte zu
@@ -822,6 +839,7 @@ AG Pseudonymisierung kann sich selbst eine Geschäftsordnung geben.
 
 
 ### § 15 Aufgaben der AG Pseudonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001600000)
 
 (1) Die AG Pseudonymisierung legt zuverlässige
 Pseudonymisierungsverfahren für Dokumente oder Datensätze in den
@@ -853,6 +871,7 @@ Medikationsliste fest.
 
 
 ### § 16 Konzepterstellung einer Datenausleitung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001700000)
 
 Die Gesellschaft für Telematik legt dem Bundesministerium für
 Gesundheit bis zum 31. August 2025 ein Konzept für ein technisches
@@ -862,9 +881,11 @@ nach § 363 Absatz 8 des Fünften Buches Sozialgesetzbuch vor.
 
 
 ## Teil 4 - Antragsverfahren und Datenbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNG000400000)
 
 
 ### § 17 Antrag auf Datenbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001800000)
 
 (1) Anträge an das Forschungsdatenzentrum auf Zugang zu den Daten, die
 dem Forschungsdatenzentrum nach § 303b Absatz 1 oder nach § 363 des
@@ -931,6 +952,7 @@ beschleunigtes und vereinfachtes Antragsverfahren.
 
 
 ### § 18 Antragserfassung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE001900000)
 
 (1) Das Forschungsdatenzentrum prüft die Anträge auf
 Datenbereitstellung dahingehend, ob
@@ -1002,6 +1024,7 @@ entscheidet über den Antrag nach Satz 1.
 
 
 ### § 19 Antragsregister
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE002000000)
 
 (1) Im öffentlichen Antragsregister nach § 303d Absatz 1 Nummer 6 des
 Fünften Buches Sozialgesetzbuch ist für jeden Antrag Folgendes
@@ -1039,6 +1062,7 @@ betroffenen Personen in das Antragsregister aufgenommen werden.
 
 
 ### § 20 Datenbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE002100000)
 
 (1) Das Forschungsdatenzentrum stellt den Nutzungsberechtigten im
 Anschluss an die bewilligende Entscheidung nach § 18 Absatz 3 die
@@ -1132,9 +1156,11 @@ bewilligten Zwecke nutzen.
 
 
 ## Teil 5 - Kostenregelungen, Übergangsregelungen und Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNG000500000)
 
 
 ### § 21 Kostenerstattung und Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE002200000)
 
 (1) Die Kranken- und die Pflegekassen erstatten dem Bundesinstitut für
 Arzneimittel und Medizinprodukte und dem Robert Koch-Institut die
@@ -1193,6 +1219,7 @@ der Krankenkassen.
 
 
 ### § 22 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE002300000)
 
 (1) Das Forschungsdatenzentrum übernimmt den Datenbestand der
 Datenaufbereitungsstelle nach § 2 Absatz 2 der
@@ -1232,6 +1259,7 @@ nicht erhoben.
 
 
 ### § 23 Evaluation und Weiterentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/fdzgesv/BJNR01B0B0025.html#BJNR01B0B0025BJNE002400000)
 
 Das Forschungsdatenzentrum berichtet dem Bundesministerium für
 Gesundheit alle drei Jahre, erstmals zum 31. Dezember 2027,

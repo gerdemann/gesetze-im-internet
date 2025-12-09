@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkzvbg_2usag/BJNR030120996.html#BJNR030120996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkzvbg_2usag/BJNR030120996.html#BJNR030120996BJNE000200310)
 
 Den folgenden, in Bonn am 6. März 1995 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -50,6 +52,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkzvbg_2usag/BJNR030120996.html#BJNR030120996BJNE000300310)
 
 Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz
 beruhenden Leistungen sind Ausgaben der Rentenversicherung für das
@@ -57,6 +60,7 @@ Beitrittsgebiet.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkzvbg_2usag/BJNR030120996.html#BJNR030120996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage seiner Verkündung in Kraft.
 

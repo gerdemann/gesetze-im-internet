@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/chemg_28bek95/BJNR077600995.html#BJNR077600995BJNE000100000)
 
 Auf Grund des § 28 Abs. 5 Satz 1 und 2 des Chemikaliengesetzes in der
 Fassung der Bekanntmachung vom 25. Juli 1994 (BGBl. I S. 1703) wird

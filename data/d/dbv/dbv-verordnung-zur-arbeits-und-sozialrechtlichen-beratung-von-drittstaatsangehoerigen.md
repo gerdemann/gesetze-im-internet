@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000100000)
 
 Auf Grund des § 45b Absatz 3 Satz 1 des Aufenthaltsgesetzes in der
 Fassung der Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162), der
@@ -26,6 +27,7 @@ Arbeit und Soziales:
 
 
 ## § 1 Grundsätze des Beratungsangebots
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000300000)
 
 (1) Das Bundesministerium für Arbeit und Soziales finanziert durch
 Trägerzuschüsse nach § 7 eine arbeits- und sozialrechtliche Beratung
@@ -56,6 +58,7 @@ kein Rechtsanspruch auf Beratung.
 
 
 ## § 2 Aufbau des Beratungsangebots
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000400000)
 
 (1) In jedem Land wird eine Beratungsstelle durch jeweils einen Träger
 eingerichtet. Jede Beratungsstelle kann innerhalb eines Landes über
@@ -79,6 +82,7 @@ Drittstaatsangehörige anbieten.
 
 
 ## § 3 Bewilligungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000500000)
 
 Die Umsetzung der Verwaltung des Beratungsangebots wird auf die
 Deutsche Rentenversicherung Knappschaft-Bahn-See als zuständiger
@@ -88,6 +92,7 @@ zu treffende Verwaltungsvereinbarung.
 
 
 ## § 4 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000600000)
 
 (1) Das Bundesministerium für Arbeit und Soziales führt vor Beginn der
 ersten Bewilligungsperiode nach § 10 ein Interessenbekundungsverfahren
@@ -118,6 +123,7 @@ als den Zeitpunkt nach Satz 1 festlegen.
 
 
 ## § 5 Antragsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000700000)
 
 Antragsberechtigt für einen Zuschuss nach § 7 sind
 
@@ -133,6 +139,7 @@ Antragsberechtigt für einen Zuschuss nach § 7 sind
 
 
 ## § 6 Voraussetzungen für die Gewährung des Zuschusses
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000800000)
 
 (1) Für die Gewährung eines Zuschusses muss ein Träger zuverlässig und
 fachlich geeignet sein.
@@ -169,6 +176,7 @@ beschaffen.
 
 
 ## § 7 Gegenstand und Höhe des Zuschusses
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE000900000)
 
 (1) Der Zuschuss wird für interne Personal-, Verwaltungs- und
 Sachausgaben des Trägers gewährt. Für Ausgaben, für die dem Träger ein
@@ -250,6 +258,7 @@ geleistet werden
 
 
 ## § 8 Entscheidung; Auszahlung des Zuschusses; Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001000000)
 
 (1) Die Bewilligungsstelle entscheidet über die Gewährung des
 Zuschusses durch Verwaltungsakt. Der Verwaltungsakt kann mit Auflagen
@@ -303,12 +312,14 @@ verlangt.
 
 
 ## § 9 Weiterleitung der Leistung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001100000)
 
 Die Weiterleitung von Zuschüssen an Dritte sowie die Einbindung von
 Teilvorhabenträgern in die Aufgaben eines Trägers sind ausgeschlossen.
 
 
 ## § 10 Dauer und Zeitraum der Bewilligungsperiode
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001200000)
 
 (1) Die erste Bewilligung von Zuschüssen nach dieser Verordnung
 erfolgt zum 1. Januar 2026.
@@ -329,6 +340,7 @@ Bewilligungsstelle hat dem nachrückenden Träger die Entscheidung nach
 
 
 ## § 11 Kontrolle der Zuschussverwendung
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001300000)
 
 (1) Die Träger haben der Bewilligungsstelle bis zum 31. März eines
 jeden Jahres einen Zwischenbericht für das vorausgehende Kalenderjahr
@@ -358,6 +370,7 @@ längere Aufbewahrungsfrist bestimmen, bleiben von Satz 1 unberührt.
 
 
 ## § 12 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001400000)
 
 (1) Die Bewilligungsstelle erhebt bei den Trägern regelmäßig nicht
 personenbezogene Daten über die wirtschaftlichen und die betrieblichen
@@ -371,6 +384,7 @@ der beratenen Drittstaatsangehörigen.
 
 
 ## § 13 Mitteilungspflichten; sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001500000)
 
 (1) Die Träger sind verpflichtet, der Bewilligungsstelle unverzüglich
 anzuzeigen, wenn in den tatsächlichen oder rechtlichen Verhältnissen,
@@ -388,6 +402,7 @@ bleiben davon unberührt.
 
 
 ## § 14 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001600000)
 
 Das Beratungsangebot und die Höhe der Pauschale nach § 7 Absatz 5
 werden bis zum 31. Dezember 2030 durch das Bundesministerium für
@@ -398,6 +413,7 @@ Unterlagen und Belege zu gewähren.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbv/BJNR1AC0A0024.html#BJNR1AC0A0024BJNE001700000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 

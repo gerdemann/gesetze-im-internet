@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000100308)
 
 Auf Grund der
 
@@ -41,6 +42,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000201308)
 
 Die in § 19 des Rentenangleichungsgesetzes genannten Renten aus der
 Rentenversicherung einschließlich der Renten aus der freiwilligen
@@ -54,6 +56,7 @@ der Deutschen Post.
 
 
 ## § 2 Renten aus der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000300308)
 
 Die Renten aus der Rentenversicherung werden dadurch angepaßt, daß der
 nach den sonst maßgebenden Vorschriften ermittelte Betrag um 15 vom
@@ -61,6 +64,7 @@ Hundert erhöht wird.
 
 
 ## § 3 Renten aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000400308)
 
 Die Renten aus der Unfallversicherung für Arbeitsunfälle und
 Berufskrankheiten, die vor dem 1. Januar 1991 eingetreten sind, werden
@@ -69,6 +73,7 @@ Dies gilt nicht für Kinderzuschläge zu Unfallrenten.
 
 
 ## § 4 Kriegsbeschädigtenrenten
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000500308)
 
 Kriegsbeschädigtenrenten werden dadurch angepaßt, daß der nach den
 sonst maßgebenden Vorschriften ermittelte Betrag um 15 vom Hundert
@@ -79,12 +84,14 @@ anzuwenden.
 
 
 ## § 5 Auswirkungen auf den Sozialzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000600308)
 
 Die sich nach den §§ 2 und 3 ergebenden Erhöhungsbeträge werden auf
 den Sozialzuschlag nicht angerechnet.
 
 
 ## § 6 Renten mit Zusatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000700308)
 
 (1) Renten, die wegen Bezugs einer Zusatzversorgung nach § 23 Abs. 1
 des Rentenangleichungsgesetzes nicht anzugleichen waren, werden nach
@@ -106,6 +113,7 @@ oder § 3 ergebenden Erhöhungsbeträge übersteigen.
 
 
 ## § 7 Berechnung der in der Zeit vom 1. Januar 1991 bis 30. Juni 1991 entstehenden Rentenansprüche aus der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000800308)
 
 Für in der Zeit vom 1. Januar 1991 bis 30. Juni 1991 entstehende
 Rentenansprüche gelten anstelle der in der Anlage zum
@@ -196,11 +204,13 @@ Prozentsätze:
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE000900308)
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1/BJNR028670990.html#BJNR028670990BJNE001000308)
 
 Der Bundesrat hat zugestimmt.
 

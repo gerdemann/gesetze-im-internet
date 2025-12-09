@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Erholungs- und Heimaturlaub
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNG000101320)
 
 
 
 ### § 1 Erholungsurlaub der Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE000405116)
 
 Für den Erholungsurlaub der Berufssoldatinnen, Berufssoldaten,
 Soldatinnen auf Zeit und Soldaten auf Zeit gelten die Vorschriften für
@@ -41,11 +43,13 @@ bleiben.
 
 
 ### (XXXX) §§ 2 und 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE000502320)
 
 (weggefallen)
 
 
 ### § 4 Erholungsurlaub der Soldatinnen auf Zeit und Soldaten auf Zeit im letzten Urlaubsjahr und vor Beginn des Fachschulbesuches
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE000703126)
 
 (1) Läuft die Zeit, für die eine Soldatin auf Zeit oder ein Soldat auf
 Zeit in ihr oder sein Dienstverhältnis berufen ist, vor Ende des
@@ -62,6 +66,7 @@ Zwölftel des Jahreserholungsurlaubs zu gewähren.
 
 
 ### § 5 Erholungsurlaub der sonstigen Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE000809311)
 
 (1) Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des
 Wehrpflichtgesetzes oder des § 58b des Soldatengesetzes leisten,
@@ -74,6 +79,7 @@ Dienstleistungen nach § 60 des Soldatengesetzes erbringen.
 
 
 ### § 6 Urlaub zur Erhaltung der Einsatzfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001903310)
 
 (1) Soldatinnen und Soldaten kann nach einem Einsatz, durch dessen
 Besonderheiten sie außergewöhnlichen Belastungen ausgesetzt waren, zur
@@ -88,6 +94,7 @@ die einzelnen Arten eines solchen Einsatzes gewährt werden kann.
 
 
 ### § 7 Urlaub zur Wiederherstellung der vollen Dienstfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE000902310)
 
 Soldatinnen und Soldaten kann zur Wiederherstellung der vollen
 Dienstfähigkeit auf Grund eines truppenärztlichen Vorschlages Urlaub
@@ -98,6 +105,7 @@ anzurechnen ist.
 
 
 ### § 8 Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001005310)
 
 Der Zusatzurlaub nach § 1 der Heimaturlaubsverordnung kann abweichend
 von § 7 der Erholungsurlaubsverordnung auch zu einem späteren
@@ -108,10 +116,12 @@ Auslandsverwendung, anzutreten.
 
 
 ## Zweiter Abschnitt - Sonderurlaub
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNG000201320)
 
 
 
 ### § 9 Anwendung der Vorschriften für Bundesbeamtinnen und Bundesbeamte
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001102310)
 
 Für den Sonderurlaub der Soldatinnen und Soldaten gelten die
 Vorschriften für Bundesbeamtinnen und Bundesbeamte entsprechend,
@@ -119,6 +129,7 @@ sofern sich aus den folgenden Vorschriften nichts anderes ergibt.
 
 
 ### § 10 Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001203311)
 
 Bei der Gewährung eines Urlaubs unter Wegfall der Geldbezüge entfallen
 auch die Sachbezüge, soweit nicht ausdrücklich etwas anderes bestimmt
@@ -126,6 +137,7 @@ worden ist.
 
 
 ### § 11 Urlaub der Sanitätsoffizier-Anwärterinnen und Sanitätsoffizier-Anwärter zum Studium
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001304310)
 
 Sanitätsoffizier-Anwärterinnen und Sanitätsoffizier-Anwärter können
 zum Studium der Medizin, Zahnmedizin, Veterinärmedizin oder Pharmazie
@@ -136,26 +148,31 @@ Soldatengesetzes.
 
 
 ### (XXXX) §§ 12 u. 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001405310)
 
 -
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001502320)
 
 (weggefallen)
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNG000301320)
 
 
 
 ### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001602320)
 
 Der Urlaub wird vom Bundesministerium der Verteidigung oder der von
 ihm bestimmten Stelle erteilt.
 
 
 ### § 15 Urlaub nach dem Eignungsübungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/soldurlv/BJNR005290957.html#BJNR005290957BJNE001702310)
 
 Die §§ 2 und 4 der Verordnung zum Eignungsübungsgesetz vom 15. Februar
 1956 (BGBl. I S. 71), zuletzt geändert am 10. Mai 1971 (BGBl. I S.

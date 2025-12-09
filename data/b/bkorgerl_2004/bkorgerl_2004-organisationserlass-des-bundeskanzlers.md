@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2004/BJNR388500004.html#BJNR388500004BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 Wirkung vom 1. Januar 2005 an:
@@ -47,6 +48,7 @@ Wirkung vom 1. Januar 2005 an:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2004/BJNR388500004.html#BJNR388500004BJNE000200000)
 
 Der Bundeskanzler
 

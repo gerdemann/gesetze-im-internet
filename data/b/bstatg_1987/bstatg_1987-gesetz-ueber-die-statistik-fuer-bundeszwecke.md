@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Statistik für Bundeszwecke
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000102116)
 
 Die Statistik für Bundeszwecke (Bundesstatistik) hat im föderativ
 gegliederten Gesamtsystem der amtlichen Statistik die Aufgabe, laufend
@@ -43,6 +44,7 @@ Zwecken.
 
 
 ## § 2 Statistisches Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000203311)
 
 (1) Das Statistische Bundesamt ist eine selbständige Bundesoberbehörde
 im Geschäftsbereich des Bundesministeriums des Innern, für Bau und
@@ -60,6 +62,7 @@ sachgerechten Methoden durch.
 
 
 ## § 3 Aufgaben des Statistischen Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000303116)
 
 (1) Aufgabe des Statistischen Bundesamtes ist es, vorbehaltlich
 sonstiger Rechtsvorschriften,
@@ -175,6 +178,7 @@ die beteiligten Länder zustimmen.
 
 
 ## § 3a Zusammenarbeit der statistischen Ämter
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002802116)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen, soweit sie für die Durchführung von Bundesstatistiken und für
@@ -190,6 +194,7 @@ Bereitstellung von Daten für die Wissenschaft.
 
 
 ## § 4 Statistischer Beirat
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000407311)
 
 (1) Beim Statistischen Bundesamt besteht ein Statistischer Beirat, der
 es in statistischen Fachfragen berät und die Belange der Nutzer der
@@ -201,6 +206,7 @@ im Einvernehmen mit den Bundesministerien.
 
 
 ## § 5 Anordnung von Bundesstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000503116)
 
 (1) Die Bundesstatistiken werden, soweit in diesem Gesetz oder in
 einer sonstigen Rechtsvorschrift nichts anderes bestimmt ist, durch
@@ -277,6 +283,7 @@ Zugangsrecht zu diesen Registern gewährt wird.
 
 
 ## § 5a Nutzung von Verwaltungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE003202126)
 
 (1) Vor der Anordnung oder Änderung einer Bundesstatistik prüft das
 Statistische Bundesamt, ob bei Stellen der öffentlichen Verwaltung
@@ -316,6 +323,7 @@ die Bundesstatistik anordnet oder ändert.
 
 
 ## § 6 Maßnahmen zur Vorbereitung und Durchführung von Bundesstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000607311)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 können zur Vorbereitung und Durchführung durch Rechtsvorschrift
@@ -402,6 +410,7 @@ verwendet werden, darf von der Erhebung im Übrigen abgesehen werden.
 
 
 ## § 7 Erhebungen für besondere Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000703116)
 
 (1) Zur Erfüllung eines kurzfristig auftretenden Datenbedarfs oberster
 Bundesbehörden dürfen Bundesstatistiken ohne Auskunftspflicht
@@ -434,6 +443,7 @@ aus der Vorbefragung in aggregierter Form verwendet werden.
 
 
 ## § 8 Aufbereitung von Daten aus dem Verwaltungsvollzug
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000802126)
 
 (1) Soweit Verwaltungsstellen des Bundes aufgrund nicht-statistischer
 Rechts- oder Verwaltungsvorschriften Daten erheben oder bei ihnen
@@ -449,6 +459,7 @@ Rechtsvorschrift bleiben unberührt.
 
 
 ## § 9 Regelungsumfang bundesstatistischer Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE000902116)
 
 (1) Die eine Bundesstatistik anordnende Rechtsvorschrift muss die
 Erhebungsmerkmale, die Hilfsmerkmale, die Art der Erhebung, den
@@ -463,6 +474,7 @@ Angaben über persönliche oder sachliche Verhältnisse enthalten, die
 
 
 ## § 10 Erhebungs- und Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001002116)
 
 (1) Bundesstatistiken werden auf der Grundlage von Erhebungs- und
 Hilfsmerkmalen erstellt. Erhebungsmerkmale umfassen Angaben über
@@ -488,10 +500,12 @@ Kartenprojektion quadratisch ist und mindestens 1 Hektar groß ist.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001103116)
 
 
 
 ## § 11a Elektronische Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE003104116)
 
 (1) Soweit Stellen, die Aufgaben der öffentlichen Verwaltung
 wahrnehmen, Daten mittels standardisierter elektronischer
@@ -511,6 +525,7 @@ entsprechendes Verschlüsselungsverfahren zu verwenden.
 
 
 ## § 12 Trennung und Löschung der Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001202116)
 
 (1) Hilfsmerkmale sind, soweit Absatz 2, § 10 Absatz 2, § 13 oder eine
 sonstige Rechtsvorschrift nichts anderes bestimmen, zu löschen, sobald
@@ -529,6 +544,7 @@ löschen.
 
 
 ## § 13 Register
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001307311)
 
 (1) Das Statistische Bundesamt führt zur Vorbereitung und Erstellung
 von Bundesstatistiken sowie für Auswertungszwecke ein
@@ -582,6 +598,7 @@ Datenbestand „Georeferenzierte Adressdaten“, soweit vorhanden.
 
 
 ## § 13a Zusammenführung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE003004128)
 
 Soweit es zur Gewinnung von statistischen Informationen ohne
 zusätzliche statistische Erhebungen sowie zur Erfüllung der Zwecke
@@ -627,6 +644,7 @@ Erhebung.
 
 
 ## § 14 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001402116)
 
 (1) Die mit der Erhebung von Bundesstatistiken amtlich betrauten
 Personen (Erhebungsbeauftragte) müssen die Gewähr für Zuverlässigkeit
@@ -652,6 +670,7 @@ belehren.
 
 
 ## § 15 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001503116)
 
 (1) Die eine Bundesstatistik anordnende Rechtsvorschrift hat
 festzulegen, ob und in welchem Umfang die Erhebung mit oder ohne
@@ -702,6 +721,7 @@ Auskunftserteilung haben keine aufschiebende Wirkung.
 
 
 ## § 16 Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001604116)
 
 (1) Einzelangaben über persönliche und sachliche Verhältnisse, die für
 eine Bundesstatistik gemacht werden, sind von den Amtsträgern und
@@ -830,6 +850,7 @@ Rechtsvorschrift, nach den Absätzen 5, 6 oder von Tabellen nach Absatz
 
 
 ## § 17 Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001703116)
 
 Die zu Befragenden sind schriftlich oder elektronisch zu unterrichten
 über
@@ -871,6 +892,7 @@ Die zu Befragenden sind schriftlich oder elektronisch zu unterrichten
 
 
 ## § 18 Statistische Erhebungen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001803116)
 
 (1) Die Bundesstatistiken betreffenden Vorschriften dieses Gesetzes
 finden vorbehaltlich der Regelungen in Absatz 2 entsprechende
@@ -902,6 +924,7 @@ S. 90) geändert worden ist, in der jeweils geltenden Fassung.
 
 
 ## § 19 Supra- und internationale Aufgaben des Statistischen Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE001902116)
 
 Im supra- und internationalen Bereich hat das Statistische Bundesamt
 insbesondere die Aufgabe, an der Vorbereitung von statistischen
@@ -915,6 +938,7 @@ weiterzuleiten.
 
 
 ## § 20 Kosten der Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002001116)
 
 Die Kosten der Bundesstatistik werden, soweit sie bei den
 Bundesbehörden entstehen, vom Bund, im Übrigen von den Ländern
@@ -922,6 +946,7 @@ getragen.
 
 
 ## § 21 Verbot der Reidentifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002101116)
 
 Eine Zusammenführung von Einzelangaben aus Bundesstatistiken oder
 solcher Einzelangaben mit anderen Angaben zum Zwecke der Herstellung
@@ -931,6 +956,7 @@ Bundesstatistik anordnenden Rechtsvorschrift ist untersagt.
 
 
 ## § 22 Strafvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002201116)
 
 Wer entgegen § 21 Einzelangaben aus Bundesstatistiken oder solche
 Einzelangaben mit anderen Angaben zusammenführt, wird mit
@@ -938,6 +964,7 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ## § 23 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002305311)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 15 Absatz 1 Satz 2, Absatz 2 und 5 Satz 1 eine Auskunft nicht, nicht
@@ -965,6 +992,7 @@ werden.
 
 
 ## § 24 Verwaltungsbehörde im Sinne des Gesetzes über Ordnungswidrigkeiten (OWiG)
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002402116)
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 des Gesetzes über
 Ordnungswidrigkeiten ist das Statistische Bundesamt, soweit es
@@ -987,6 +1015,7 @@ Aufgaben bei der Durchführung der Erhebungen nach § 18 obliegen.
 
 
 ## § 25 Aufschiebende Wirkung von Widerspruch und Anfechtungsklage bei Landes- und Kommunalstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002501116)
 
 Durch Landesgesetz kann bestimmt werden, dass Widerspruch und
 Anfechtungsklage gegen die Aufforderung zur Auskunftserteilung bei der
@@ -995,13 +1024,16 @@ Rechtsvorschrift angeordnet sind, keine aufschiebende Wirkung haben.
 
 
 ## § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002702116)
 
 
 
 ## § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE003400116)
 
 
 
 ## § 28 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bstatg_1987/BJNR004620987.html#BJNR004620987BJNE002901116)
 
 

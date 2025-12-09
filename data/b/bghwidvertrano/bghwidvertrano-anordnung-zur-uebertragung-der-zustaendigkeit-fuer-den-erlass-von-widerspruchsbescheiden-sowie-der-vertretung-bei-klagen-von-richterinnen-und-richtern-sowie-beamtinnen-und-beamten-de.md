@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bghwidvertrano/BJNR197600022.html#BJNR197600022BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in
@@ -27,6 +28,7 @@ Verbindung mit § 46 des Deutschen Richtergesetzes vom 19. April 1972
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bghwidvertrano/BJNR197600022.html#BJNR197600022BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass von
 Widerspruchsbescheiden übertragen, soweit dadurch über Widersprüche
@@ -38,6 +40,7 @@ Bundesverwaltungsamts besteht.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bghwidvertrano/BJNR197600022.html#BJNR197600022BJNE000300000)
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
 die Vertretung der Bundesrepublik Deutschland in
@@ -47,6 +50,7 @@ den Erlass des Widerspruchsbescheids besteht.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bghwidvertrano/BJNR197600022.html#BJNR197600022BJNE000400000)
 
 Die §§ 1 und 2 sind nicht auf Widersprüche und Klagen in
 Angelegenheiten der Besoldung anzuwenden, die vor dem Inkrafttreten
@@ -54,6 +58,7 @@ dieser Anordnung eingelegt oder erhoben worden sind.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bghwidvertrano/BJNR197600022.html#BJNR197600022BJNE000500000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.

@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 2030-7-6-5 v. 8.7.2004 I 1591 (LAP-gehDAAV 2004)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst für den gehobenen Auswärtigen Dienst, Studium
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000200000)
 
 (1) Der duale Diplomstudiengang „Gehobener Auswärtiger Dienst“
 (Diplomstudiengang) am Fachbereich Auswärtige Angelegenheiten der
@@ -33,6 +35,7 @@ dauert drei Jahre.
 
 
 ### § 2 Ziele und Inhalte des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000300000)
 
 (1) Die Studierenden werden auf ihre beruflichen Aufgaben im gehobenen
 Auswärtigen Dienst und die damit einhergehende Verantwortung im
@@ -58,6 +61,7 @@ selbständige lebenslange Lernen vermittelt.
 
 
 ### § 3 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000400000)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -107,6 +111,7 @@ Nummer 6 ebenfalls erfüllen.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000500000)
 
 (1) Menschen mit Schwerbehinderung, diesen gleichgestellten Menschen
 mit Behinderung und Menschen mit Beeinträchtigungen, die die Umsetzung
@@ -146,9 +151,11 @@ gewährten Nachteilsausgleich dem Prüfungsausschuss mit.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000200000)
 
 
 ### § 5 Ziele des Auswahlverfahrens, allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000600000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das
 Auswärtige Amt auf Grundlage eines Auswahlverfahrens.
@@ -185,6 +192,7 @@ Auswahlverfahren ausgeschlossen.
 
 
 ### § 6 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000700000)
 
 (1) Zum Auswahlverfahren wird zugelassen, wer nach den Angaben in der
 Bewerbung die Voraussetzungen, die in der Ausschreibung für die
@@ -206,6 +214,7 @@ elektronische Mitteilung über die Ablehnung.
 
 
 ### § 7 Teile des Auswahlverfahrens, Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000800000)
 
 (1) Das Auswahlverfahren umfasst einen schriftlichen und einen
 mündlichen Teil, die jeweils aus mehreren Abschnitten bestehen.
@@ -251,6 +260,7 @@ Auswahlverfahrens über die Dauer und den Ablauf des jeweiligen Teils.
 
 
 ### § 8 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE000900000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 die kognitiven Fähigkeiten geprüft.
@@ -287,6 +297,7 @@ schriftlichen Teil des Auswahlverfahrens bestanden haben.
 
 
 ### § 9 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001000000)
 
 (1) Wer den schriftlichen Teil des Auswahlverfahrens bestanden hat,
 wird zum mündlichen Teil des Auswahlverfahrens zugelassen. Die
@@ -315,6 +326,7 @@ zum mündlichen Teil zugelassen.
 
 
 ### § 10 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001100000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere die
 sozialen Kompetenzen, die für den gehobenen Auswärtigen Dienst
@@ -345,6 +357,7 @@ Auswahlinstrumente ergänzt werden.
 
 
 ### § 11 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001200000)
 
 (1) Für die Durchführung eines Auswahlverfahrens richtet das
 Auswärtige Amt jeweils eine Auswahlkommission ein. Bei Bedarf können
@@ -441,6 +454,7 @@ zulässig.
 
 
 ### § 12 Ergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001300000)
 
 (1) Die Auswahlkommission nimmt am Ende eines Auswahltages für jede
 Bewerberin und jeden Bewerber, die oder der an diesem Auswahltag den
@@ -469,6 +483,7 @@ erscheint.
 
 
 ### § 13 Wiederholte Teilnahme am Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001400000)
 
 (1) Bewerberinnen und Bewerber, die im mündlichen Teil des
 Auswahlverfahrens eine festgelegte Mindestpunktzahl für eine
@@ -494,9 +509,11 @@ erneut zu durchlaufen.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000300000)
 
 
 ### § 14 Dauer und Aufbau des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001500000)
 
 (1) Das Studium dauert in der Regel sechs Semester.
 
@@ -569,6 +586,7 @@ Verkürzung trifft das Auswärtige Amt.
 
 
 ### § 15 Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001600000)
 
 Das Studium vermittelt rechtswissenschaftliche,
 verwaltungsorganisatorische, ökonomische, fremdsprachliche und
@@ -606,6 +624,7 @@ folgt gegliedert:
 
 
 ### § 16 Studienstruktur, Module
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001700000)
 
 (1) Im Studium werden die wechselnden Lernorte Hochschule, Auswärtiges
 Amt und Auslandsvertretungen strukturell und inhaltlich miteinander
@@ -630,6 +649,7 @@ Fachbereichs Auswärtige Angelegenheiten regelmäßig evaluiert.
 
 
 ### § 17 Modulhandbuch, Ausbildungsrichtlinien
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001800000)
 
 (1) Der Fachbereich Auswärtige Angelegenheiten erstellt ein
 Modulhandbuch. Im Modulhandbuch wird das Nähere zur Studienstruktur
@@ -700,6 +720,7 @@ vorgehalten und archiviert.
 
 
 ### § 18 Praxisintegrierende Studienabschnitte
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE001900000)
 
 In den praxisintegrierenden Studienabschnitten sind den Studierenden
 ausschließlich Tätigkeiten zu übertragen, die den
@@ -707,6 +728,7 @@ Ausbildungsrichtlinien entsprechen.
 
 
 ### § 19 Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen sowie Anrechnung von berufspraktischen Kenntnissen und Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002000000)
 
 (1) Studien- und Prüfungsleistungen, die in einem gleichen oder
 vergleichbaren Studiengang an anderen staatlichen oder staatlich
@@ -724,6 +746,7 @@ Fachbereich Auswärtige Angelegenheiten erworben werden.
 
 
 ### § 20 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002100000)
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -740,12 +763,15 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 
 ## Abschnitt 4 - Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000500000)
 
 
 #### § 21 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002200000)
 
 Die Diplomprüfung ist gleichzeitig die Laufbahnprüfung. Sie besteht
 aus:
@@ -764,6 +790,7 @@ aus:
 
 
 #### § 22 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002300000)
 
 Das Prüfungsamt ist beim Auswärtigen Amt eingerichtet. Es hat die
 förmliche Zeichnungsbefugnis in Prüfungsangelegenheiten inne.
@@ -771,6 +798,7 @@ Grundlage seiner Arbeit sind Beschlüsse des Prüfungsausschusses.
 
 
 #### § 23 Einrichtung und Zusammensetzung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002400000)
 
 (1) Das Auswärtige Amt und der Fachbereich Auswärtige Angelegenheiten
 richten für den Diplomstudiengang einen Prüfungsausschuss am
@@ -832,6 +860,7 @@ Fachbereichs Auswärtige Angelegenheiten.
 
 
 #### § 24 Aufgaben und Beschlussfassung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002500000)
 
 (1) Der Prüfungsausschuss trifft alle prüfungsrelevanten
 Entscheidungen.
@@ -855,6 +884,7 @@ Vorsitzenden den Ausschlag.
 
 
 #### § 25 Prüferinnen und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002600000)
 
 (1) Das Prüfungsamt bestellt die Prüferinnen und Prüfer für die
 Prüfungen.
@@ -869,6 +899,7 @@ werden.
 
 
 #### § 26 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002700000)
 
 (1) Prüfungen können aus mehreren Prüfungsteilen bestehen. Jeder
 Prüfungsteil ist zeitlich und räumlich abgegrenzt und wird in einer
@@ -903,6 +934,7 @@ ECTS-Leistungspunkte gutgeschrieben.
 
 
 #### § 27 Durchführung der Prüfungen, Prüfungsplan, Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002800000)
 
 (1) Der Prüfungsausschuss erstellt für jedes Semester einen
 Prüfungsplan. In dem Prüfungsplan wird festgelegt, welche
@@ -926,6 +958,7 @@ und ohne unzulässige fremde Mitwirkung erbracht worden ist.
 
 
 #### § 28 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE002900000)
 
 (1) Die Prüfungsleistungen werden, soweit sich aus § 29 Absatz 5 bis
 7, § 35 Absatz 4 und § 53 Absatz 2 nichts anderes ergibt, wie folgt
@@ -1120,6 +1153,7 @@ Prüfer dürfen gegenseitige Kenntnis von den Bewertungen haben.
 
 
 #### § 29 Multiple-Choice-Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003000000)
 
 (1) Multiple-Choice-Aufgaben können gestellt werden als
 
@@ -1316,6 +1350,7 @@ automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
 
 #### § 30 Wiederholung von Prüfungen und Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003100000)
 
 (1) Eine nicht bestandene Prüfung kann einmal wiederholt werden. Bei
 Nichtbestehen der Wiederholungsprüfung kann das Auswärtige Amt im
@@ -1350,6 +1385,7 @@ Regelungen des Absatzes 1 Satz 2 und 3 sind anzuwenden.
 
 
 #### § 31 Bewertungsverfahren für Wiederholungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003200000)
 
 (1) Prüfungsleistungen in Wiederholungsprüfungen werden von zwei
 Prüferinnen und Prüfern bewertet. Der Prüfungsausschuss legt fest, wer
@@ -1362,9 +1398,11 @@ der Bewertung der Erstprüferin oder des Erstprüfers haben.
 
 
 ### Unterabschnitt 2 - Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000600000)
 
 
 #### § 32 Prüferinnen und Prüfer in Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003300000)
 
 (1) Die Prüferinnen und Prüfer in Modulprüfungen müssen mindestens
 einen Bachelor- oder Diplomabschluss oder eine gleichwertige
@@ -1385,6 +1423,7 @@ Prüferinnen und Prüfern.
 
 
 #### § 33 Umfang und Zeitpunkt der Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003400000)
 
 (1) In jedem Modul ist in der Regel eine Prüfung abzulegen.
 
@@ -1395,6 +1434,7 @@ abgenommen werden, in dem das Modul absolviert wird.
 
 
 #### § 34 Formen der Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003500000)
 
 (1) Eine Modulprüfung kann aus mehreren Prüfungsformen bestehen.
 
@@ -1494,6 +1534,7 @@ sind.
 
 
 #### § 35 Äquivalenzprüfungen in Sprachmodulen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003600000)
 
 (1) Das Auswärtige Amt kann eine Befreiung von der Teilnahme am Modul
 Englisch und am Modul Französisch im ersten Semester zulassen.
@@ -1524,9 +1565,11 @@ Rangpunkte als Modulabschlussnote.
 
 
 ### Unterabschnitt 3 - Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000700000)
 
 
 #### § 36 Ziel der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003700000)
 
 Durch die schriftlich oder elektronisch auszuarbeitende Diplomarbeit
 sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb
@@ -1536,6 +1579,7 @@ bearbeiten.
 
 
 #### § 37 Thema der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003800000)
 
 (1) Das Thema der Diplomarbeit muss einem Modul und den Zielen
 zugeordnet werden können, die im Modulhandbuch festgelegt sind.
@@ -1557,6 +1601,7 @@ Erstprüfers möglich.
 
 
 #### § 38 Bearbeitungszeit, Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE003900000)
 
 (1) Die Bearbeitungszeit für die Diplomarbeit beginnt mit der Ausgabe
 des Themas.
@@ -1566,12 +1611,14 @@ Anwesenheitspflicht und von anderen Studienaufgaben freigestellt.
 
 
 #### § 39 Betreuung der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004000000)
 
 Bei der Anfertigung der Diplomarbeit werden die Studierenden von der
 Erstprüferin oder dem Erstprüfer betreut.
 
 
 #### § 40 Sprache der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004100000)
 
 Die Diplomarbeit ist in deutscher Sprache zu verfassen. In Absprache
 mit der Erstprüferin oder dem Erstprüfer und der Zweitprüferin oder
@@ -1580,6 +1627,7 @@ französischer Sprache verfasst werden.
 
 
 #### § 41 Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004200000)
 
 (1) Die Diplomarbeit ist nach den Vorgaben der Ausbildungsrichtlinien
 mit einer schriftlichen oder elektronischen Eigenständigkeitserklärung
@@ -1597,6 +1645,7 @@ geltenden Fassung veröffentlicht.
 
 
 #### § 42 Abgabe der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004300000)
 
 Die Diplomarbeit ist beim Prüfungsamt nach den Vorgaben der
 Ausbildungsrichtlinien abzugeben. Das Abgabedatum wird vom Prüfungsamt
@@ -1604,6 +1653,7 @@ dokumentiert. Die Abgabe beim Prüfungsamt ist zu dokumentieren.
 
 
 #### § 43 Prüferinnen und Prüfer der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004400000)
 
 (1) Mit der Vergabe des Themas der Diplomarbeit werden zwei
 Prüferinnen und Prüfer bestellt.
@@ -1635,6 +1685,7 @@ Angelegenheiten bestellt werden.
 
 
 #### § 44 Begutachtung der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004500000)
 
 Die Erstprüferin oder der Erstprüfer und die Zweitprüferin oder der
 Zweitprüfer begutachten die Diplomarbeit unabhängig voneinander. Die
@@ -1643,12 +1694,14 @@ Erstprüferin oder des Erstprüfers haben.
 
 
 #### § 45 Veröffentlichung der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004600000)
 
 Die Diplomarbeit kann mit Zustimmung des Fachbereichs Auswärtige
 Angelegenheiten und der Autorin oder des Autors veröffentlicht werden.
 
 
 #### § 46 Wiederholung der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004700000)
 
 (1) Für die Wiederholung der Diplomarbeit gibt das Prüfungsamt auf
 Beschluss des Prüfungsausschusses ein neues Thema aus.
@@ -1660,15 +1713,18 @@ der Bearbeitungszeit sind sie vom Dienst freizustellen.
 
 
 ### Unterabschnitt 4 - Diplomkolloquium
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000800000)
 
 
 #### § 47 Zulassung zum Diplomkolloquium
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004800000)
 
 Zum Diplomkolloquium werden Studierende zugelassen, die ihre
 Diplomarbeit bestanden haben.
 
 
 #### § 48 Ziel des Diplomkolloquiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE004900000)
 
 Die Studierenden weisen im Diplomkolloquium nach, dass sie
 
@@ -1689,6 +1745,7 @@ Die Studierenden weisen im Diplomkolloquium nach, dass sie
 
 
 #### § 49 Form des Diplomkolloquiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005000000)
 
 Das Diplomkolloquium besteht aus einer Präsentation der Diplomarbeit
 sowie aus einem wissenschaftlichen Gespräch mit den Prüferinnen und
@@ -1696,6 +1753,7 @@ Prüfern.
 
 
 #### § 50 Termin des Diplomkolloquiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005100000)
 
 Der Termin des Diplomkolloquiums wird vom Prüfungsamt festgesetzt und
 schriftlich oder elektronisch bekannt gegeben. Das Diplomkolloquium
@@ -1703,6 +1761,7 @@ findet frühestens zehn Tage nach Bekanntgabe des Termins statt.
 
 
 #### § 51 Sprache des Diplomkolloquiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005200000)
 
 Das Diplomkolloquium wird in deutscher Sprache abgehalten. Wird die
 Diplomarbeit in englischer oder französischer Sprache verfasst, kann
@@ -1712,6 +1771,7 @@ abgehalten werden.
 
 
 #### § 52 Prüferinnen und Prüfer des Diplomkolloquiums
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005300000)
 
 Für das Diplomkolloquium werden zwei Prüferinnen und Prüfer bestellt,
 in der Regel die Erst- und Zweitprüferinnen oder -prüfer der
@@ -1719,9 +1779,11 @@ Diplomarbeit. Im Übrigen gilt § 43 entsprechend.
 
 
 ### Unterabschnitt 5 - Abschluss der Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG000900000)
 
 
 #### § 53 Bestehen der Diplomprüfung, Rangpunkte
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005400000)
 
 (1) Die Diplomprüfung ist bestanden, wenn
 
@@ -1765,6 +1827,7 @@ festgesetzt.
 
 
 #### § 54 Diplomurkunde, Abschlusszeugnis, ergänzende Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005500000)
 
 (1) Wer die Diplomprüfung bestanden hat, erhält vom Prüfungsamt
 
@@ -1810,6 +1873,7 @@ elektronischen Antrag ausgestellt.
 
 
 #### § 55 Nicht bestandene Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005600000)
 
 Wer die Diplomprüfung endgültig nicht bestanden hat, erhält vom
 Prüfungsamt
@@ -1828,9 +1892,11 @@ Prüfungsamt
 
 
 ### Unterabschnitt 6 - Weitere Prüfungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG001000000)
 
 
 #### § 56 Verhinderung, Säumnis, Rücktritt, Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005700000)
 
 (1) Wer aus wichtigem Grund verhindert ist, eine Prüfungsleistung
 rechtzeitig zu erbringen, hat dies unverzüglich und eindeutig
@@ -1888,6 +1954,7 @@ und 2 gelten entsprechend.
 
 
 #### § 57 Störungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005800000)
 
 Sieht sich die oder der Studierende während einer Prüfung durch äußere
 Einwirkungen erheblich gestört, so hat sie oder er dies unverzüglich
@@ -1896,6 +1963,7 @@ Störungen nicht mehr geltend gemacht werden.
 
 
 #### § 58 Verstöße bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE005900000)
 
 (1) Verstöße bei Prüfungen können sein:
 
@@ -1945,6 +2013,7 @@ ausgestellt, die Leistungsübersicht zurückzugeben.
 
 
 #### § 59 Prüfungsakte, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE006000000)
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -1975,9 +2044,11 @@ Prüfungsamt bestimmt Ort und Zeit der Einsichtnahme.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNG001100000)
 
 
 ### § 60 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gadvdv/BJNR05C0D0025.html#BJNR05C0D0025BJNE006100000)
 
 (1) Für Studierende, die vor dem 1. August 2023 mit dem
 Vorbereitungsdienst für den gehobenen Auswärtigen Dienst begonnen

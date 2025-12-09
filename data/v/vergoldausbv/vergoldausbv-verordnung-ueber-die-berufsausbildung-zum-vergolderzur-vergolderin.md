@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000100320)
 
 Auf Grund des § 25 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -31,17 +32,20 @@ Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000200320)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Vergolder/Vergolderin nach der Handwerksordnung.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000300320)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000400320)
 
 Gegenstand der Berufsausbildung sind mindestens folgende Fertigkeiten
 und Kenntnisse:
@@ -96,6 +100,7 @@ und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000500320)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -114,12 +119,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000600320)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000700320)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -128,6 +135,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000800320)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -188,6 +196,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE000900320)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -345,6 +354,7 @@ sind.
 
 
 ## § 9 Aufhebung der Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE001000320)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Vergolder/Vergolderin
@@ -352,6 +362,7 @@ sind nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE001100320)
 
 Auf Ausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei
@@ -360,12 +371,14 @@ dieser Verordnung.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE001200320)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Vergolder/zur Vergolderin
+[Direktlink](https://www.gesetze-im-internet.de/vergoldausbv/BJNR124100997.html#BJNR124100997BJNE001300320)
 
 (Fundstelle : BGBl. I 1997, 1243 - 1246)
 

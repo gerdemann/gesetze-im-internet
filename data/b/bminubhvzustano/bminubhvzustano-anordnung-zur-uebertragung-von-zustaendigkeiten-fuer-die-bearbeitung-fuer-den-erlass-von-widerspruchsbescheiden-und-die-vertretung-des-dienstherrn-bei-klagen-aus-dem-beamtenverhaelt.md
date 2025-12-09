@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminubhvzustano/BJNR187700001.html#BJNR187700001BJNE000100305)
 
 Auf Grund des § 17 Abs. 5 Satz 2 der Allgemeinen Verwaltungsvorschrift
 für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen
@@ -36,6 +37,7 @@ des Bundesbeamtengesetzes.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminubhvzustano/BJNR187700001.html#BJNR187700001BJNE000200305)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
@@ -49,6 +51,7 @@ zuständig war.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminubhvzustano/BJNR187700001.html#BJNR187700001BJNE000300305)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich
@@ -58,6 +61,7 @@ dieser Anordnung zur Entscheidung über Widersprüche zuständig ist.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminubhvzustano/BJNR187700001.html#BJNR187700001BJNE000400305)
 
 Diese Anordnung tritt mit Wirkung vom 1. März 2001 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -66,6 +70,7 @@ sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminubhvzustano/BJNR187700001.html#BJNR187700001BJNE000500305)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

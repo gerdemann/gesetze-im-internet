@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000100000)
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 6 der
@@ -32,6 +33,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000201377)
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der
 Prüfungsteilnehmer die notwendigen Fähigkeiten und Erfahrungen
@@ -90,6 +92,7 @@ Forstwirtschaftsmeister/Forstwirtschaftsmeisterin.
 
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE001200308)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -121,6 +124,7 @@ rechtfertigen.
 
 
 ## § 2 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000300000)
 
 (1) Die Meisterprüfung umfasst die Teile:
 
@@ -139,6 +143,7 @@ rechtfertigen.
 
 
 ## § 3 Prüfungsanforderungen im Teil "Produktion und Dienstleistungen"
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000401377)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, dass er Maßnahmen der
 Waldbewirtschaftung, der Ernte von Forsterzeugnissen, des Einsatzes
@@ -207,6 +212,7 @@ anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz
 
 
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000501377)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, dass er wirtschaftliche,
 rechtliche und soziale Zusammenhänge im Betrieb und im Rahmen der
@@ -277,6 +283,7 @@ anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz
 
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000601377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -527,6 +534,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 6 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000702377)
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile
@@ -539,6 +547,7 @@ Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ## § 7 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000801377)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 "Produktion und Dienstleistungen" ist eine Note als arithmetisches
@@ -581,6 +590,7 @@ gewichten.
 
 
 ## § 8 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE000900000)
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
 wiederholt werden.
@@ -594,6 +604,7 @@ bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE001001377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.
@@ -606,6 +617,7 @@ Vorschriften ablegen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/forstwimeistprv_2004/BJNR259100004.html#BJNR259100004BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

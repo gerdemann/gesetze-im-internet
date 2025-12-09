@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE000400320)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -32,10 +33,12 @@ Wissenschaft:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNG000100320)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE000500320)
 
 (1) Dem Modisten-Handwerk sind folgende Tätigkeiten zuzurechnen:
 Entwurf, Anfertigung, Veränderung und Reparatur von Kopfbedeckungen
@@ -117,10 +120,12 @@ zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNG000200320)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE000600320)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -137,6 +142,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE000700320)
 
 (1) Als Meisterprüfungsarbeit sind die nachstehend genannten Arbeiten
 anzufertigen:
@@ -171,6 +177,7 @@ berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE000800320)
 
 (1) Als Arbeitsprobe ist eine modische Unterform mit handgeformter
 Sparterie und einem Drahtrand auszuführen.
@@ -181,6 +188,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE000900320)
 
 (1) In Teil II sind Kenntnisse in den folgenden vier Prüfungsfächern
 nachzuweisen:
@@ -251,16 +259,19 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNG000300320)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE001000320)
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -270,6 +281,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/modmstrv/BJNR231200994.html#BJNR231200994BJNE001200320)
 
 (1) Diese Verordnung tritt am 1. Dezember 1994 in Kraft.
 

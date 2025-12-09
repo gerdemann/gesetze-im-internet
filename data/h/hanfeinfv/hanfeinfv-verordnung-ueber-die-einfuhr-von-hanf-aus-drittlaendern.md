@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000000000)
 
 Auf Grund des § 3 Abs. 2, der §§ 15, 16 und 21 Nr. 1 und 3 sowie des §
 31 Abs. 2 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen
@@ -34,6 +35,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000101377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
@@ -42,6 +44,7 @@ gemeinsamen Organisation der Agrarmärkte.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000201377)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -50,6 +53,7 @@ Bundesfinanzverwaltung zuständig ist.
 
 
 ## § 3 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000302377)
 
 (1) Die Zulassung als Einführer von nicht zur Aussaat bestimmten Samen
 von Hanf wird auf Antrag erteilt an
@@ -116,6 +120,7 @@ andere Frist vorgeschrieben ist.
 
 
 ## § 4 Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000402377)
 
 (1) (weggefallen)
 
@@ -142,6 +147,7 @@ der Lizenz bestehen.
 
 
 ## § 5 Prüfung von Einfuhrbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000502377)
 
 (1) Bei der Einfuhr von Rohhanf ist der Lizenzantrag zusammen mit der
 Zollanmeldung zur Überführung in den zollrechtlich freien Verkehr der
@@ -167,6 +173,7 @@ nicht erfüllen, genügt die Vorlage des in Satz 2 genannten Attestes.
 
 
 ## § 6 Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000601377)
 
 Auf begründeten Antrag des zugelassenen Einführers kann die Frist zur
 Behandlung der nicht zur Aussaat bestimmten Hanfsamen von der
@@ -175,6 +182,7 @@ werden.
 
 
 ## § 7 Bescheinigung über die Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000702377)
 
 Der zugelassene Einführer hat der Bundesanstalt die in Artikel 9
 Absatz 4 der delegierten Verordnung (EU) Nr. 2016/1237 genannte
@@ -187,6 +195,7 @@ der Registriernummer der Lizenz zuzuordnen.
 
 
 ## § 8 Muster, Formulare
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000800000)
 
 (1) Für die nach den in § 1 genannten Rechtsakten oder dieser
 Verordnung vorgeschriebenen Anträge und Bescheinigungen kann die
@@ -198,6 +207,7 @@ werden, sind diese zu verwenden.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE000901377)
 
 Ordnungswidrig im Sinne des § 36 Abs. 3 Nr. 3 des Gesetzes zur
 Durchführung der Gemeinsamen Marktorganisationen und der
@@ -215,6 +225,7 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hanfeinfv/BJNR404400002.html#BJNR404400002BJNE001000000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

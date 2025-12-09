@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwausglabgv_1971/BJNR202330971.html#BJNR202330971BJNE000100314)
 
 Auf Grund des § 21 Abs. 2 Nr. 4 Buchstabe f des Zollgesetzes in der
 Fassung der Bekanntmachung vom 18. Mai 1970 (Bundesgesetzbl. I S.
@@ -28,6 +29,7 @@ die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lwausglabgv_1971/BJNR202330971.html#BJNR202330971BJNE000200314)
 
 (1) Für in § 21 Abs. 2 Nr. 4 Buchstabe f Doppelbuchstabe cc des
 Zollgesetzes aufgeführte Waren, für die nach der Verordnung (EWG) Nr.
@@ -50,6 +52,7 @@ festgesetzten Ausgleichsbeträge im Bundesanzeiger bekannt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lwausglabgv_1971/BJNR202330971.html#BJNR202330971BJNE000300314)
 
 Für die Entstehung der Angleichungszollschuld steht die Abfertigung
 zur bleibenden Zollgutverwendung der Abfertigung zum freien Verkehr
@@ -57,11 +60,13 @@ gleich.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lwausglabgv_1971/BJNR202330971.html#BJNR202330971BJNE000400314)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/lwausglabgv_1971/BJNR202330971.html#BJNR202330971BJNE000500314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 89 des
@@ -69,6 +74,7 @@ Zollgesetzes auch im Land Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/lwausglabgv_1971/BJNR202330971.html#BJNR202330971BJNE000600314)
 
 Diese Verordnung tritt mit Wirkung vom 12. Mai 1971 in Kraft.
 

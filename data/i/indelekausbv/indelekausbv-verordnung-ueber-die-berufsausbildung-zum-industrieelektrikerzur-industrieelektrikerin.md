@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -34,17 +35,20 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000200000)
 
 Der Ausbildungsberuf Industrieelektriker/Industrieelektrikerin wird
 nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und in die Ausbildung in einer der Fachrichtungen
@@ -59,6 +63,7 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -141,6 +146,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten (berufliche Handlungsfähigkeit) sollen so vermittelt
@@ -163,6 +169,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres
@@ -195,6 +202,7 @@ und Bewerten von elektrischen Funktionen und Systemen statt.
 
 
 ## § 7 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -401,6 +409,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtung und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -452,6 +461,7 @@ zu gewichten.
 
 
 ## § 9 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE001000000)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum
 Industrieelektriker/zur Industrieelektrikerin kann in der
@@ -497,12 +507,14 @@ Ausbildungsjahres dieser Berufe fortgesetzt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 (zu § 4)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE001200000)
 
 (Fundstelle: BGBl. I 2009, 1205 - 1209)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1153,6 +1165,7 @@ und Fähigkeiten in der Fachrichtung Geräte und Systeme**
 (zu § 4)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/indelekausbv/BJNR120100009.html#BJNR120100009BJNE001300000)
 
 (Fundstelle: BGBl. I 2009, 1210 - 1219)
 **Abschnitt 1: Gemeinsame Qualifikationen**

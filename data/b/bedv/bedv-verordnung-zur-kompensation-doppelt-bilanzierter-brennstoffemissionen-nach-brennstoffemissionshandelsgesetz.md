@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 des Brennstoffemissionshandelsgesetzes vom
 12\. Dezember 2019 (BGBl. I S. 2728) verordnet die Bundesregierung
@@ -28,9 +29,11 @@ unter Wahrung der Rechte des Bundestages:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000300000)
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I S.
@@ -50,6 +53,7 @@ werden müssen (Doppelbilanzierung).
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000400000)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des
 Brennstoffemissionshandelsgesetzes die folgenden Begriffsbestimmungen:
@@ -76,6 +80,7 @@ Brennstoffemissionshandelsgesetzes die folgenden Begriffsbestimmungen:
 
 
 ### § 3 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000500000)
 
 Zuständige Behörde für die Durchführung dieser Verordnung ist das
 Umweltbundesamt als zuständige Behörde gemäß § 13 Absatz 1 des
@@ -83,6 +88,7 @@ Brennstoffemissionshandelsgesetzes.
 
 
 ### § 4 Antragserfordernis und Ausschlussregelung
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000600000)
 
 (1) Auf Antrag gewährt die zuständige Behörde dem antragstellenden
 Anlagenbetreiber eine Kompensation zum Ausgleich von Belastungen
@@ -116,9 +122,11 @@ Brennstoffemissionshandelsgesetzes.
 
 
 ## Abschnitt 2 - Berechnung der Kompensationshöhe
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNG000200000)
 
 
 ### § 5 Kompensationsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000700000)
 
 Der Kompensationsbetrag wird berechnet, indem die folgenden Werte
 miteinander multipliziert werden:
@@ -134,6 +142,7 @@ miteinander multipliziert werden:
 
 
 ### § 6 Maßgebliche Emissionsmenge
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000800000)
 
 (1) Die maßgebliche Emissionsmenge der emissionshandelspflichtigen
 Anlage wird berechnet, indem die folgenden Werte miteinander
@@ -205,6 +214,7 @@ diese vom Anlagenbetreiber zusammen mit dem Antrag einzureichen.
 
 
 ### § 7 Maßgeblicher Preis
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE000900000)
 
 Für die Abrechnungsjahre 2021 bis 2025 entspricht der maßgebliche
 Preis der Emissionszertifikate dem Festpreis, der für das jeweilige
@@ -218,9 +228,11 @@ Abrechnungsjahr.
 
 
 ## Abschnitt 3 - Kompensationsverfahren, Datenschutz, Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNG000300000)
 
 
 ### § 8 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE001001360)
 
 (1) Kompensationsanträge für die Abrechnungsjahre 2022 bis 2030 sind
 bei der zuständigen Behörde jeweils bis zum Ablauf des 31. Juli des
@@ -265,6 +277,7 @@ unterschreitet.
 
 
 ### § 9 Kompensationsvorbehalt für eingelagerte Brennstoffmengen
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE001100000)
 
 Die Gewährung der Kompensation für Brennstoffmengen nach § 6 Absatz 2
 Satz 2 steht unter dem Vorbehalt der rechtzeitigen Erbringung des
@@ -278,6 +291,7 @@ nicht rechtzeitig oder nicht vollständig erbracht wird.
 
 
 ### § 10 Anwendbare Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE001200000)
 
 (1) Für das Kompensationsverfahren und die Evaluierung nach § 11
 gelten § 15 Absatz 1 und § 17 der BEHG-Carbon-Leakage-Verordnung
@@ -289,9 +303,11 @@ Vertraulichkeit bei der Durchführung dieser Verordnung gelten die §§
 
 
 ## Abschnitt 4 - Sonstige Regelungen, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNG000400000)
 
 
 ### § 11 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE001300000)
 
 (1) Im Rahmen der Evaluierung nach § 23 des
 Brennstoffemissionshandelsgesetzes legt die zuständige Behörde der
@@ -316,6 +332,7 @@ besteht.
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bedv/BJNR01D0A0023.html#BJNR01D0A0023BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

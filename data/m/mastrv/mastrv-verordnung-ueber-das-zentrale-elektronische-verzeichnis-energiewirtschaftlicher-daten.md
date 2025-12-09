@@ -22,15 +22,18 @@ Zuletzt geändert durch
 Stand: Die V ist gem. Art. 2 Abs. 1 V v. 10.04.2017 I 842 am 1.7.2017 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000200000)
 
 Diese Verordnung dient der Ausgestaltung des Marktstammdatenregisters
 nach § 111e des Energiewirtschaftsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000301118)
 
 Im Sinn dieser Verordnung ist
 
@@ -122,9 +125,11 @@ Im Sinn dieser Verordnung ist
 
 
 ## Abschnitt 2 - Registrierungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNG000200000)
 
 
 ### § 3 Registrierung von Marktakteuren
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000403377)
 
 (1) Folgende Marktakteure müssen sich nach Absatz 2 im
 Marktstammdatenregister registrieren:
@@ -189,6 +194,7 @@ registrieren.
 
 
 ### § 4 Registrierung von Behörden
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000501377)
 
 (1) Folgende Behörden müssen sich im Marktstammdatenregister
 registrieren:
@@ -212,6 +218,7 @@ sich im Marktstammdatenregister freiwillig registrieren.
 
 
 ### § 5 Registrierung von Einheiten und von EEG- und KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000605377)
 
 (1) Betreiber müssen ihre Einheiten, ihre EEG- und KWK-Anlagen im
 Marktstammdatenregister registrieren. Einheiten von Solaranlagen, die
@@ -285,12 +292,14 @@ ist.
 
 
 ### § 6 Erforderliche Daten zur Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000700000)
 
 Bei jeder Registrierung müssen die Daten eingetragen werden, die nach
 der Anlage zu dieser Verordnung erforderlich sind.
 
 
 ### § 7 Registrierung von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000801118)
 
 (1) Änderungen, die die im Marktstammdatenregister eingetragenen Daten
 betreffen, muss der Verantwortliche innerhalb eines Monats nach ihrem
@@ -304,9 +313,11 @@ Monats nach der Bekanntgabe der Zulassung erfolgen.
 
 
 ## Abschnitt 3 - Behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNG000300000)
 
 
 ### § 8 Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE000904377)
 
 (1) Für die Registrierungen muss das Webportal genutzt werden. Ein
 Marktakteur, der eine natürliche Person ist und der sich nach § 3
@@ -335,6 +346,7 @@ die Einheit als in Betrieb genommen registriert wurde.
 
 
 ### § 9 Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001001118)
 
 (1) Die Bundesnetzagentur verarbeitet Daten einschließlich
 personenbezogener Daten, soweit dies zur Registerführung erforderlich
@@ -371,6 +383,7 @@ Absatz 3 Satz 5 des Bundesarchivgesetzes.
 
 
 ### § 10 Überprüfung und Änderung der gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001102377)
 
 (1) Die Bundesnetzagentur kann die gespeicherten Daten jederzeit im
 Rahmen der Registerführung überprüfen. Hierzu kann sie die im
@@ -428,14 +441,17 @@ Richtigkeit der Daten im Marktstammdatenregister herzustellen.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001202377)
 
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001301118)
 
 
 
 ### § 13 Überprüfung gespeicherter Daten durch die Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001404377)
 
 (1) Die Bundesnetzagentur kann die Netzbetreiber auffordern, die im
 Marktstammdatenregister eingetragenen Daten von Einheiten, EEG- und
@@ -479,6 +495,7 @@ Registerführung erforderlich sind.
 
 
 ### § 14 Daten zu technischen Lokationen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001501118)
 
 (1) Netzbetreiber fassen Einheiten, die miteinander verbunden sind
 (Konfigurationen), zu folgenden technischen Lokationen zusammen:
@@ -520,9 +537,11 @@ eindeutige Nummer zu.
 
 
 ## Abschnitt 4 - Nutzung des Marktstammdatenregisters
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNG000400000)
 
 
 ### § 15 Öffentliche Zugänglichkeit der Daten
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001602377)
 
 (1) Die im Marktstammdatenregister gespeicherten Daten werden wie
 folgt veröffentlicht:
@@ -568,6 +587,7 @@ erforderlich ist.
 
 
 ### § 16 Verwendung der Daten durch Behörden; Weitergabe an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001704377)
 
 (1) Behörden sollen die ihnen zugänglichen Daten des Registers
 verwenden, soweit sie diese Daten zur Erfüllung ihrer jeweiligen
@@ -662,6 +682,7 @@ Vorschriften.
 
 
 ### § 17 Verwendung der Daten durch Netzbetreiber und andere Marktakteure
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001802377)
 
 (1) Die Bundesnetzagentur gewährt Netzbetreibern Zugang zu Daten, die
 nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich
@@ -694,9 +715,11 @@ zuständigen Marktgebietsverantwortlichen anzuwenden.
 
 
 ## Abschnitt 5 - Meldepflichten und Veröffentlichungen nach dem Erneuerbare-Energien-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNG000500000)
 
 
 ### § 18 Zusätzliche Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE001906377)
 
 Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im
 Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe
@@ -705,6 +728,7 @@ Inbetriebnahme der ertüchtigten Anlage eintragen.
 
 
 ### § 19 Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002008377)
 
 Die Bundesnetzagentur veröffentlicht spätestens zum letzten
 Kalendertag jeden Monats den Zubau der erneuerbaren Energien im
@@ -712,9 +736,11 @@ vorangegangenen Monat auf einer von ihr betriebenen Internetseite.
 
 
 ## Abschnitt 6 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNG000600000)
 
 
 ### § 20 Nutzungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002100000)
 
 (1) Die Bundesnetzagentur kann im Rahmen dieser Verordnung durch
 Allgemeinverfügung weitere konkretisierende Bedingungen und
@@ -734,6 +760,7 @@ Sicherheit in der Informationstechnik entsprechen.
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002201377)
 
 Ordnungswidrig im Sinn des § 95 Absatz 1 Nummer 5 Buchstabe e des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -750,6 +777,7 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 22 Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002301118)
 
 Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des
 Energiewirtschaftsgesetzes unter Beachtung der Zwecke des § 111e
@@ -789,6 +817,7 @@ Absatz 1 des Energiewirtschaftsgesetzes treffen über:
 
 
 ### § 23 Fälligkeit von Ansprüchen auf Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002405377)
 
 (1) Ansprüche auf Zahlungen von Marktprämien, Einspeisevergütungen und
 Flexibilitätsprämien nach dem Erneuerbare-Energien-Gesetz sowie
@@ -809,6 +838,7 @@ erlangt haben müsste.
 
 
 ### § 24 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002501377)
 
 Stromspeicher gelten bis zum 30. September 2021 als registriert im
 Sinn von § 5.
@@ -816,6 +846,7 @@ Sinn von § 5.
 (zu § 6)
 
 ### Anlage Im Marktstammdatenregister zu erfassende Daten
+[Direktlink](https://www.gesetze-im-internet.de/mastrv/BJNR084210017.html#BJNR084210017BJNE002709377)
 
 (Fundstelle: BGBl. 2024 I Nr. 402, S. 1 - 11)
 

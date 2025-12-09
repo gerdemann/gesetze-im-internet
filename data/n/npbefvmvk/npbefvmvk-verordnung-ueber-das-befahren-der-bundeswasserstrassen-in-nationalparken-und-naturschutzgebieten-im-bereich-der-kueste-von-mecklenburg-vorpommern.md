@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000100310)
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
 Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818)
@@ -30,6 +31,7 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000201305)
 
 (1) Zum Schutz der Tier- und Pflanzenwelt wird das Befahren der
 Bundeswasserstraßen mit Wasserfahrzeugen, Sportfahrzeugen oder
@@ -94,6 +96,7 @@ Schutzzonen I und II und den darin liegenden besonderen Schutzgebieten
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000300310)
 
 (1) Das Befahren der Bundeswasserstraßen in den Nationalparken und den
 Schutzzonen I und II des Biosphärenreservats "Südost-Rügen" mit den in
@@ -111,6 +114,7 @@ Umständen unvermeidbar, gestört wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000401305)
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und
 II der Nationalparke oder des Biosphärenreservats "Südost-Rügen" mit
@@ -166,6 +170,7 @@ Fahrzeugen nicht überschritten werden.
 
 
 ## § 4 Nationalpark "Vorpommersche Boddenlandschaft"
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000501305)
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und
 II auf den in den Kartenausschnitten der Anlage I Kartenblatt 1 bis 4
@@ -191,6 +196,7 @@ sonstigen Wasserflächen oder Zufahrtswege nicht befahren.
 
 
 ## § 5 Nationalpark "Jasmund"
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000601305)
 
 Es ist untersagt, die Bundeswasserstraßen in dem Nationalpark
 "Jasmund" außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der
@@ -204,6 +210,7 @@ innerhalb der Schutzzone I zu befahren.
 
 
 ## § 6 Biosphärenreservat "Südost-Rügen"
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000701305)
 
 Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II
 des Biosphärenreservats "Südost-Rügen" außerhalb der Fahrwasser im
@@ -227,6 +234,7 @@ Mindestabstands von 100 m zum Ufer befahren.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000801305)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann
 Befreiungen von den §§ 3 bis 6 gewähren, wenn
@@ -252,6 +260,7 @@ geben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE000900310)
 
 (1) Die §§ 4 bis 6 gelten nicht für
 
@@ -289,6 +298,7 @@ und 6.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE001000310)
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -324,6 +334,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE001100310)
 
 Diese Verordnung tritt am 10. Juli 1997 in Kraft. Gleichzeitig treten
 für den Bereich der Bundeswasserstraßen § 6 Abs. 1 Nr. 18, Abs. 2, § 7
@@ -334,6 +345,7 @@ außer Kraft.
 
 
 ## Anlage I (zu § 1 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE001200310)
 
 (Inhalt: Nicht darstellbare topographische Karten,
 Fundstelle: BGBl. I 1997, S. 1545 - 1551)
@@ -420,6 +432,7 @@ Fundstelle: BGBl. I 1997, S. 1545 - 1551)
 (zu § 4 Abs. 1 und 2)
 
 ## Anlage II Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
+[Direktlink](https://www.gesetze-im-internet.de/npbefvmvk/BJNR154200997.html#BJNR154200997BJNE001300310)
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 

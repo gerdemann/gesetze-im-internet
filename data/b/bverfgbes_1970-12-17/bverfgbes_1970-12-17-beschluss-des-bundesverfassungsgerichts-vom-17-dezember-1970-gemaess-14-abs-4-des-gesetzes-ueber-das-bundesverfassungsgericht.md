@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1970-12-17/BJNR000140971.html#BJNR000140971BJNE000100304)
 
 Das Plenum des Bundesverfassungsgerichts hat gemäß § 14 Abs. 4 des
 Gesetzes über das Bundesverfassungsgericht vom 12. März 1951
@@ -30,6 +31,7 @@ beschlossen:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1970-12-17/BJNR000140971.html#BJNR000140971BJNE000200304)
 
 Mit Wirkung vom 1. Januar 1971 ist abweichend von § 14 Abs. 1 bis 3
 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des
@@ -76,11 +78,13 @@ Bundesverfassungsgerichts auch in folgenden Fällen zuständig:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1970-12-17/BJNR000140971.html#BJNR000140971BJNE000300304)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1970-12-17/BJNR000140971.html#BJNR000140971BJNE000400304)
 
 Der Präsident des Bundesverfassungsgerichts
 

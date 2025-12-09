@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/BJNR208900989.html#BJNR208900989BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/BJNR208900989.html#BJNR208900989BJNE000200308)
 
 Den folgenden, in Bern am 2. März 1989 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -52,6 +54,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/BJNR208900989.html#BJNR208900989BJNE000300308)
 
 (1) Abweichend von § 16 Abs. 1 Nr. 1 des Fünften Buches
 Sozialgesetzbuch ruht der Anspruch auf Leistungen nicht für
@@ -84,6 +87,7 @@ Fünften Buches Sozialgesetzbuch gilt nicht.
 
 
 ## Art 2a
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/BJNR208900989.html#BJNR208900989BJNE000602308)
 
 (1) Für die Anwendung der Rechtsvorschriften über die
 Versicherungspflicht in der Krankenversicherung der Rentner nach § 5
@@ -109,12 +113,14 @@ eingeschrieben sind oder waren, entsprechend.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/BJNR208900989.html#BJNR208900989BJNE000400308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/BJNR208900989.html#BJNR208900989BJNE000500308)
 
 (1) Artikel 2 tritt mit Wirkung vom 1. Januar 1989 in Kraft, im
 übrigen tritt das Gesetz am Tage nach seiner Verkündung in Kraft.

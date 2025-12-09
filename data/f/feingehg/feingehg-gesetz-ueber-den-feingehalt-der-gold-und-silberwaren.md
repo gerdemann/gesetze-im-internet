@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000100328)
 
 Gold- und Silberwaren dürfen zu jedem Feingehalt angefertigt und
 feilgehalten werden. Die Angabe des Feingehalts auf denselben ist nur
@@ -27,6 +28,7 @@ nach Maßgabe der folgenden Bestimmungen gestattet.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000200328)
 
 (1) Auf goldenen Geräten darf der Feingehalt nur in 585 oder mehr
 Tausendteilen, auf silbernen Geräten nur in 800 oder mehr
@@ -41,6 +43,7 @@ haben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000302118)
 
 Die Angabe des Feingehalts auf goldenen und silbernen Geräten
 geschieht durch ein Stempelzeichen, welches die Zahl der Tausendteile
@@ -51,12 +54,14 @@ Form des Stempelzeichens zu bestimmen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000400328)
 
 Goldene und silberne Uhrgehäuse unterliegen den Bestimmungen des § 2
 Abs. 2 und des § 5 Abs. 1 und 3.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000501377)
 
 (1) Schmucksachen von Gold und Silber dürfen in jedem Feingehalt
 gestempelt werden und ist in diesem Fall der letztere in Tausendteilen
@@ -70,6 +75,7 @@ Gold und Silber nicht angebracht werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000600328)
 
 Aus dem Ausland eingeführte Gold- und Silberwaren, deren Feingehalt
 durch eine diesem Gesetz nicht entsprechende Bezeichnung angegeben
@@ -78,6 +84,7 @@ Stempelzeichen nach Maßgabe dieses Gesetzes versehen sind.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000700328)
 
 Für die Richtigkeit des angegebenen Feingehalts haftet der Verkäufer
 der Ware. Ist deren Stempelung im Inland erfolgt, so haftet gleich dem
@@ -86,6 +93,7 @@ erfolgt ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000800328)
 
 (1) Auf Gold- und Silberwaren, welche mit anderen metallischen Stoffen
 ausgefüllt sind, darf der Feingehalt nicht angegeben werden.
@@ -112,6 +120,7 @@ Betracht, welche:
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE000901377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -150,6 +159,7 @@ eingezogen werden.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/feingehg/BJNR001200884.html#BJNR001200884BJNE001000328)
 
 Dieses Gesetz tritt am 1. Januar 1888 in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstkompg/BJNR117010009.html#BJNR117010009BJNE000100000)
 
 Den Ländern steht wegen der Übertragung der Kraftfahrzeugsteuer auf
 den Bund ab dem 1. Juli 2009 aus dem Steueraufkommen des Bundes ab
@@ -26,6 +27,7 @@ ist ein Betrag von 4 570 882 000 Euro zu Grunde zu legen.
 
 
 ## § 2 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstkompg/BJNR117010009.html#BJNR117010009BJNE000200000)
 
 Der in § 1 festgelegte Betrag wird nach folgenden Prozentsätzen auf
 die Länder verteilt:
@@ -114,6 +116,7 @@ die Länder verteilt:
 
 
 ## § 3 Zahlungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kraftstkompg/BJNR117010009.html#BJNR117010009BJNE000300000)
 
 Die nach § 1 in Verbindung mit § 2 festgelegten jeweiligen
 Jahresbeträge werden den Ländern zu jeweils einem Viertel am 15.

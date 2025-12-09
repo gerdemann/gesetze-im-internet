@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,6 +31,7 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000200310)
 
 Der Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin sowie
 der darauf aufbauende Ausbildungsberuf Industrie-Isolierer/Industrie-
@@ -37,6 +39,7 @@ Isoliererin werden staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000300310)
 
 (1) Die Stufenausbildung in der Isolier-Industrie dauert insgesamt 36
 Monate.
@@ -49,6 +52,7 @@ Monate.
 
 
 ## § 3 Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000400310)
 
 (1) In der Berufsausbildung zum Isolierfacharbeiter/zur
 Isolierfacharbeiterin sind
@@ -81,6 +85,7 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## § 4 Ausbildungsberufsbild Isolierfacharbeiter/Isolierfacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000500310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -132,6 +137,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsberufsbild Industrie-Isolierer/Industrie-Isoliererin
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000600310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -176,6 +182,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000700310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage 1 und die Fertigkeiten und Kenntnisse nach § 5 nach der in der
@@ -195,12 +202,14 @@ bis 11 nachzuweisen.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000800310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE000900310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -209,6 +218,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001000310)
 
 (1) Während der Berufsausbildung zum Isolierfacharbeiter/zur
 Isolierfacharbeiterin ist zur Ermittlung des Ausbildungsstandes eine
@@ -272,6 +282,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 10 Abschlußprüfung für den Ausbildungsberuf Isolierfacharbeiter/Isolierfacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001100310)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -438,6 +449,7 @@ worden sind.
 
 
 ## § 11 Abschlußprüfung für den Ausbildungsberuf Industrie-Isolierer/Industrie-Isoliererin
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001200310)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -618,6 +630,7 @@ worden sind.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001300310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -626,12 +639,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001400310)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 6 Abs. 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Isolierfacharbeiter/zur Isolierfacharbeiterin
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001500310)
 
 (Fundstelle: BGBl. I 1997, 221 - 223)
 
@@ -1185,6 +1200,7 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 (zu § 6 Abs. 1)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Industrie-Isolierer/zur Industrie-Isoliererin
+[Direktlink](https://www.gesetze-im-internet.de/isausbv_1997/BJNR021700997.html#BJNR021700997BJNE001600310)
 
 (Fundstelle: BGBl. I 1997, 224 - 225)
 

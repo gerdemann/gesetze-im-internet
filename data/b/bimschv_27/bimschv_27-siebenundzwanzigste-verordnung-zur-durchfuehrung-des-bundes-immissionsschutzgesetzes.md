@@ -28,12 +28,14 @@ S. 30), sind beachtet worden.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000100320)
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
 Betrieb von Anlagen zur Feuerbestattung.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000200320)
 
 Im Sinne dieser Verordnung sind:
 
@@ -71,6 +73,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 3 Feuerung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000300320)
 
 (1) Soweit die Anlagen mit Brennern ausgerüstet sind, dürfen diese nur
 mit Gasen der öffentlichen Gasversorgung, Flüssiggas, Wasserstoff oder
@@ -89,6 +92,7 @@ hinweist. Eine bereits begonnene Einäscherung ist zu Ende zu führen.
 
 
 ## § 4 Emissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000400320)
 
 Anlagen dürfen nur so errichtet und betrieben werden, daß
 
@@ -123,6 +127,7 @@ nicht überschreiten. 11121
 
 
 ## § 5 Ableitbedingungen für Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000500320)
 
 Abgase sind über einen oder mehrere Schornsteine in die freie
 Luftströmung so abzuleiten, daß die Höhe der Austrittsöffnung für die
@@ -142,12 +147,14 @@ unter Zugrundelegung einer Dachneigung von 20 Grad zu berechnen ist.
 
 
 ## § 6 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000600320)
 
 Der Betreiber einer Anlage hat diese der zuständigen Behörde
 spätestens einen Monat vor der Inbetriebnahme anzuzeigen.
 
 
 ## § 7 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000701320)
 
 (1) Die Anlagen sind mit Meßeinrichtungen auszurüsten, die
 
@@ -187,6 +194,7 @@ Durchführung vorzulegen.
 
 
 ## § 8 Beurteilung und Berichte von kontinuierlichen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000800320)
 
 (1) Während des Betriebes der Anlage ist für den Kohlenmonoxidmeßwert
 für jede aufeinanderfolgende Stunde der Mittelwert zu bilden.
@@ -203,6 +211,7 @@ Grenzwert nach § 4 Nr. 1 überschreitet.
 
 
 ## § 9 Einzelmessungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE000901116)
 
 Der Betreiber einer nach Inkrafttreten dieser Verordnung errichteten
 Anlage hat die Einhaltung der Anforderungen für Gesamtstaub,
@@ -215,6 +224,7 @@ nach Satz 1 im Abstand von drei Jahren wiederholen zu lassen.
 
 
 ## § 10 Beurteilung und Berichte von Einzelmessungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001000320)
 
 (1) Über die Messungen nach § 9 ist ein Meßbericht zu erstellen und
 der zuständigen Behörde innerhalb von drei Monaten nach Durchführung
@@ -231,12 +241,14 @@ Probenahmezeit nach § 4 Nr. 3 überschreitet.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001100320)
 
 Altanlagen müssen die Anforderungen dieser Verordnung spätestens nach
 Ablauf von drei Jahren nach Inkrafttreten dieser Verordnung einhalten.
 
 
 ## § 12 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001200320)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
 von Vorschriften dieser Verordnung zulassen, soweit unter
@@ -263,6 +275,7 @@ erteilen, mit Auflagen verbinden oder befristen.
 
 
 ## § 13 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001300320)
 
 Die Befugnis der zuständigen Behörde, auf der Grundlage des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
@@ -270,6 +283,7 @@ treffen, bleibt unberührt.
 
 
 ## § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001400320)
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -303,6 +317,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Anhang 1 Bestimmung der Massenkonzentration von Gesamtstaub und und Gesamtkohlenstoff nach § 4 Nr. 2
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001500320)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 547
 
@@ -330,6 +345,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 547
 
 
 ## Anhang 2 Bestimmung der Massenkonzentration von Dioxinen und Furanen nach § 4 Nr. 3
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_27/BJNR054510997.html#BJNR054510997BJNE001600320)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 547
 

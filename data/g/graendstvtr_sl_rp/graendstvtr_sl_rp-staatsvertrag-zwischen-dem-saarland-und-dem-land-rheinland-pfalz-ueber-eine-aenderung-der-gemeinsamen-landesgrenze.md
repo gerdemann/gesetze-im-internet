@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000100000)
 
 Das Saarland und das Land Rheinland-Pfalz schließen aufgrund des
 Artikels 29 Abs. 7 des Grundgesetzes für die Bundesrepublik
@@ -30,6 +31,7 @@ vom 30. Juli 1979 (BGBl. I S. 1325) nachstehenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000200000)
 
 (1) Das Saarland tritt an das Land Rheinland-Pfalz aus dem Gebiet der
 Gemeinde Freisen die in der Anlage 1 dieses Staatsvertrags
@@ -47,6 +49,7 @@ Staatsvertrags grafisch dargestellt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000800000)
 
 Für das Land Rheinland-Pfalz
 Der Ministerpräsident
@@ -56,6 +59,7 @@ Der Ministerpräsident
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000300000)
 
 Abweichend von § 4 Satz 1 des Gesetzes über das Verfahren bei
 sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29
@@ -66,6 +70,7 @@ entsprechende Körperschaft des öffentlichen Rechts über.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000400000)
 
 Für die im Zusammenhang mit der Änderung der Landesgrenze stehenden
 Amtshandlungen sowie Eintragungen der Rechtsänderungen in die
@@ -74,6 +79,7 @@ Abgaben und Auslagen nicht erhoben.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000500000)
 
 Die von der Änderung der Landesgrenze betroffenen Gemeinden und
 Gemeindeverbände werden, soweit dies erforderlich ist, ihre infolge
@@ -83,6 +89,7 @@ der Zustimmung der zuständigen obersten Aufsichtsbehörden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000600000)
 
 Mit dem Inkrafttreten dieses Staatsvertrags gilt in den abzutretenden
 Gebieten jeweils das Recht des aufnehmenden Landes und der dort
@@ -94,6 +101,7 @@ geltenden Vorschriften maßgebend.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sl_rp/BJNR025900004.html#BJNR025900004BJNE000700000)
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden werden ausgetauscht und mit jeweils einer

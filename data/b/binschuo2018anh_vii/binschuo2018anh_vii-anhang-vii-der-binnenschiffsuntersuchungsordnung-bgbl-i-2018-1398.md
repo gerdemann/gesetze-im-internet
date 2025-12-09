@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_vii/BJNR152000018.html#BJNR152000018BJNE000100000)
 
 (Fundstelle: BGBl. I 2018, 1520)
 

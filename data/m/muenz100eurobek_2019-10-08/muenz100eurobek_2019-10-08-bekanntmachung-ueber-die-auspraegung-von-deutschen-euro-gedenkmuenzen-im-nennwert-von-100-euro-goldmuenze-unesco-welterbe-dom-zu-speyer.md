@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2019-10-08/BJNR154100019.html#BJNR154100019BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, in Würdigung des
@@ -49,11 +50,13 @@ Der Entwurf stammt von dem Künstler Bodo Broschat aus Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2019-10-08/BJNR154100019.html#BJNR154100019BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2019-10-08/BJNR154100019.html#BJNR154100019BJNE000300000)
 
 (Fundstelle: BGBl. I 2019, 1541)
 

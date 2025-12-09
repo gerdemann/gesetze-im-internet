@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dtagbefugano_2019/BJNR088600019.html#BJNR088600019BJNE000100000)
 
 Nach § 3 Absatz 1 Satz 1 und § 3 Absatz 2 Satz 4 des
 Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325,
@@ -33,6 +34,7 @@ auf Vorschlag des Vorstands der Deutschen Telekom AG an:
 
 
 ## § 1 Befugnisse von Dienstbehörden
+[Direktlink](https://www.gesetze-im-internet.de/dtagbefugano_2019/BJNR088600019.html#BJNR088600019BJNE000201119)
 
 (1) Die Befugnisse einer Dienstbehörde unmittelbar unterhalb des
 Vorstands der Deutschen Telekom AG nimmt der Betrieb Civil Servants
@@ -44,6 +46,7 @@ Services wahr.
 
 
 ## § 2 Befugnisse von Dienstvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/dtagbefugano_2019/BJNR088600019.html#BJNR088600019BJNE000301119)
 
 (1) Die Befugnisse einer Dienstvorgesetzten oder eines
 Dienstvorgesetzten unmittelbar unterhalb des Vorstands der Deutschen
@@ -57,6 +60,7 @@ Services wahr.
 
 
 ## § 3 Ernennungs- und Entlassungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/dtagbefugano_2019/BJNR088600019.html#BJNR088600019BJNE000401119)
 
 (1) Die Befugnis, bei der Deutschen Telekom AG beschäftigte Beamtinnen
 und Beamte der Bundesbesoldungsordnung A zu ernennen und zu entlassen,
@@ -68,6 +72,7 @@ im Einzelfall selbst auszuüben.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dtagbefugano_2019/BJNR088600019.html#BJNR088600019BJNE000500000)
 
 Diese Anordnung tritt am 1. Juli 2019 in Kraft. Gleichzeitig tritt die
 Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der

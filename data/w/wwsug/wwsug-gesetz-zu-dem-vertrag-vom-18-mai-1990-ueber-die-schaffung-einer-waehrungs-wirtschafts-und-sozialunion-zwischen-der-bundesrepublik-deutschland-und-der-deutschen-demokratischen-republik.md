@@ -22,12 +22,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE001800328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - Zustimmung zum Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000100328)
 
 Dem in Bonn am 18. Mai 1990 von der Bundesrepublik Deutschland
 unterzeichneten Vertrag über die Schaffung einer Währungs-,
@@ -40,6 +42,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2 - Durchführung der Wirtschaftsunion
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000200328)
 
 (1) Die Bundesrepublik Deutschland wird bei der Herstellung des
 Einvernehmens gemäß Artikel 11 Abs. 4 des Vertrages im Rahmen von
@@ -92,22 +95,27 @@ Ausbildung der Jugendlichen.
 
 
 ## Art 3 bis 20 - 
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000300328)
 
 
 
 ## Art 21 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000401377)
 
 
 
 ## (XXXX) §§ 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE001901377)
 
 
 
 ## Art 22 - Sonderregelungen zu den Gemeinsamen Vorschriften für die Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000500328)
 
 
 
 ## § 1 Befreiung von der Versicherungspflicht in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002201305)
 
 (1) Personen, die für begrenzte Zeit im Geltungsbereich dieses
 Gesetzes beschäftigt sind, werden auf ihren Antrag von der
@@ -127,6 +135,7 @@ des Antrags.
 
 
 ## § 2 Versicherungspflicht auf Antrag in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002300328)
 
 (1) Beschäftigte, die ihren Wohnsitz oder gewöhnlichen Aufenthalt
 zuletzt im Geltungsbereich dieses Gesetzes hatten und für begrenzte
@@ -168,6 +177,7 @@ tragen.
 
 
 ## § 3 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002400328)
 
 Die Einzugsstelle hat die Betroffenen und die für die Entscheidung
 über die Versicherungspflicht in der Deutschen Demokratischen Republik
@@ -176,11 +186,13 @@ zuständige Stelle über Beginn und Ende der Versicherungspflicht nach §
 
 
 ## § 4 Entsprechende Anwendung des Sozialgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002500328)
 
 Das Erste und das Zehnte Buch Sozialgesetzbuch gelten entsprechend.
 
 
 ## § 5 Zusammenarbeit der Versicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002600328)
 
 Die Versicherungsträger und ihre Verbände sind berechtigt, die
 Sozialversicherung der Deutschen Demokratischen Republik beim
@@ -190,10 +202,12 @@ unterstützen und dabei eigene Mittel einzusetzen.
 
 
 ## Art 23 - Gesetzliche Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000600328)
 
 
 
 ## § 1 Ausschluß der Anwendung des Fremdrentenrechts
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002700328)
 
 (1) Für rentenrechtliche Zeiten, die nach dem 18. Mai 1990 bei einem
 Träger der gesetzlichen Rentenversicherung im Gebiet der Deutschen
@@ -213,6 +227,7 @@ war.
 
 
 ## § 2 Rentenrechtliche Zeiten im Bundesgebiet und in der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002800328)
 
 (1) Für die Erfüllung von Anspruchs- und Anrechnungsvoraussetzungen
 sowie von Voraussetzungen bei der besonderen Bewertung von Zeiten
@@ -340,6 +355,7 @@ berücksichtigungsfähig sind.
 
 
 ## § 3 Rentenleistungen in die Deutsche Demokratische Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE002900328)
 
 (1) Berechtigte im Sinne der Vorschriften der gesetzlichen
 Rentenversicherungen über die Erbringung von Leistungen an Berechtigte
@@ -360,6 +376,7 @@ Krankenversicherung geleistet.
 
 
 ## § 4 Rentenleistungen ins Ausland
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003000328)
 
 Berechtigte Deutsche, die nach dem 18. Mai 1990 ihren gewöhnlichen
 Aufenthalt im Ausland genommen haben, erhalten die Rente, die sich
@@ -372,6 +389,7 @@ und bis zum 31. Dezember 1990 ins Ausland verlegen.
 
 
 ## § 5 Übergangsregelung für besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003100328)
 
 Bei Personen, die am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im
 Geltungsbereich dieses Gesetzes hatten und von einem Unternehmen in
@@ -382,10 +400,12 @@ Anwendung, wenn der Leistungsbezug vor dem 1. Januar 1996 beginnt.
 
 
 ## Art 24 - Gesetzliche Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000700328)
 
 
 
 ## § 1 Ausschluß der Anwendung des Fremdrentenrechts
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003200328)
 
 (1) Auf Arbeitsunfälle, die nach dem 18. Mai 1990 im
 Zuständigkeitsbereich eines Trägers der gesetzlichen
@@ -407,6 +427,7 @@ Fremdrentenrecht bleibt unberührt.
 
 
 ## § 2 Gefährdende Beschäftigungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003300328)
 
 (1) Haben Personen, die ihren gewöhnlichen Aufenthalt im
 Geltungsbereich dieses Gesetzes nach dem 18. Mai 1990 begründet haben,
@@ -426,6 +447,7 @@ eingetretenen Arbeitsunfälle und entsprechenden Entschädigungsfälle.
 
 
 ## § 3 Unfallversicherungsleistungen in die Deutsche Demokratische Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003400328)
 
 (1) Leistungen der gesetzlichen Unfallversicherung werden auch
 erbracht an leistungsberechtigte Personen, die nach dem 18. Mai 1990
@@ -449,6 +471,7 @@ April 1963 (BGBl. I S. 241), ist für Personen nach den Absätzen 1 und
 
 
 ## § 4 Zusammenarbeit in der Unfallverhütung
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003500328)
 
 Zur Vorbereitung der Tätigkeitsaufnahme von Unfallversicherungsträgern
 auf dem Gebiet der Deutschen Demokratischen Republik einschließlich
@@ -462,10 +485,12 @@ einzusetzen.
 
 
 ## Art 25 - Gesetzliche Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000800328)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003600328)
 
 (1) Abweichend von § 16 Abs. 1 Nr. 1 und § 17 des Fünften Buches
 Sozialgesetzbuch erhalten Versicherte, die sich in der Deutschen
@@ -493,11 +518,13 @@ entstanden wären.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003701305)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003800328)
 
 Beim Tod eines Versicherten wird Sterbegeld nach § 58 des Fünften
 Buches Sozialgesetzbuch auch dann gezahlt, wenn der Verstorbene am 1.
@@ -506,6 +533,7 @@ Republik versichert war.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNE003900328)
 
 Renten aus der Deutschen Demokratischen Republik einschließlich Berlin
 (Ost) gelten als der Rente vergleichbare Einnahmen (Versorgungsbezüge)
@@ -521,10 +549,12 @@ Sozialgesetzbuch entsprechend.
 
 
 ## Art 26 und 27 - 
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG000900328)
 
 
 
 ## Art 28 - Umstellungsrechnung von Geldinstituten und Außenhandelsbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001001377)
 
 Zuständige Stelle im Sinne der Anlage I Artikel 8 § 5 des Vertrages
 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion
@@ -545,18 +575,22 @@ zu erlassen.
 
 
 ## Art 29 und 30 - 
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001100328)
 
 
 
 ## Art 31 - Errichtung eines Fonds "Deutsche Einheit"
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001200328)
 
 
 
 ## Art 32 und 33 - 
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001300328)
 
 
 
 ## Art 34 - Verteilungsregelung über Schulden nach Beitritt
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001400328)
 
 Nach dem Beitritt (Artikel 23 GG) wird die aufgelaufene Verschuldung
 des Republikhaushalts in dem Umfang an das Treuhandvermögen
@@ -570,6 +604,7 @@ wird in einem Bundesgesetz mit Zustimmung des Bundesrates getroffen.
 
 
 ## Art 35 - Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001500328)
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates ein Abkommen mit der Deutschen Demokratischen Republik mit
@@ -653,6 +688,7 @@ zustimmt.
 
 
 ## Art 36 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001600328)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -661,6 +697,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 37 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wwsug/BJNR205189990.html#BJNR205189990BJNG001700328)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Sätze 2 und 3 dieses
 Absatzes am Tage nach seiner Verkündung in Kraft.

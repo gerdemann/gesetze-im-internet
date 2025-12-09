@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000100328)
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes vom 2. April
 1968 (BGBl. II S. 173), der durch § 36 Nr. 1 des Gesetzes vom 20.
@@ -29,6 +30,7 @@ Forsten verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000200328)
 
 Zur Erhaltung der Vielfalt der erdgeschichtlichen Erscheinungen des
 Helgoländer Felssockels mit seinen Lebensräumen wildwachsender
@@ -39,6 +41,7 @@ Maßgabe dieser Verordnung eingeschränkt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000301305)
 
 (1) Es ist untersagt, das Gebiet der Nordsee um Helgoland innerhalb
 folgender Koordinaten zu befahren:
@@ -114,6 +117,7 @@ dies mit dem Schutzzweck der Verordnung vereinbar ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000402305)
 
 Die Verbote nach § 2 gelten nicht für
 
@@ -154,6 +158,7 @@ Die Verbote nach § 2 gelten nicht für
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000500328)
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -169,6 +174,7 @@ entgegen
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000600328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 58 des Bundeswasserstraßengesetzes auch im Land
@@ -176,6 +182,7 @@ Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000700328)
 
 Diese Verordnung tritt am 15. Juni 1985 in Kraft. Gleichzeitig tritt
 Abschnitt A, Teil I, Nr. 11 der Bekanntmachung der Wasser- und
@@ -184,11 +191,13 @@ Januar 1984 (BAnz. S. 909) außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000800328)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/hgfsnatschv/BJNR007760985.html#BJNR007760985BJNE000900328)
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: BGBl I 1985, 777)

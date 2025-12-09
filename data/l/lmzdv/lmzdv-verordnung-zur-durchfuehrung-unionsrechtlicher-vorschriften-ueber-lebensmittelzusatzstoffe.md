@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000100000)
 
 (1) Diese Verordnung ist anzuwenden in Ergänzung
 
@@ -88,6 +89,7 @@ Nitritpökelsalz.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000200000)
 
 Nicht vorverpackte Lebensmittel im Sinne dieser Verordnung sind
 Lebensmittel, die
@@ -106,6 +108,7 @@ Lebensmittel, die
 
 
 ## § 3 Bier
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000300000)
 
 Bei der Herstellung von Bier, das unter der Bezeichnung „nach dem
 deutschen Reinheitsgebot gebraut“ oder unter gleichsinnigen Angaben in
@@ -132,6 +135,7 @@ verwendet werden:
 
 
 ## § 4 Nitrite und Nitritpökelsalz
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000400000)
 
 (1) Nitrite dürfen weder in Betriebe, die Lebensmittel herstellen,
 verbracht werden noch in diesen Betrieben aufbewahrt oder gelagert
@@ -157,6 +161,7 @@ ausschließlich zu diesem Zweck bestimmt sind.
 
 
 ## § 5 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000501130)
 
 (1) Nicht vorverpackte Lebensmittel nach § 2 Nummer 3, die nicht zur
 Selbstbedienung angeboten werden, und nicht vorverpackte Lebensmittel
@@ -329,6 +334,7 @@ bereitzustellen sind.
 
 
 ## § 6 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000601125)
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer
@@ -397,6 +403,7 @@ in Verkehr bringt.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lmzdv/BJNR136210021.html#BJNR136210021BJNE000700000)
 
 (1) Wer eine in § 6 Absatz 1 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und

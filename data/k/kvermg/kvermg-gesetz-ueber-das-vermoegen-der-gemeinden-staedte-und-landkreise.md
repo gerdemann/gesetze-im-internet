@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000100314)
 
 Auf der Grundlage
 
@@ -42,6 +43,7 @@ wird folgendes Gesetz erlassen:
 
 
 ## § 1 Kommunales Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000200314)
 
 Volkseigenes Vermögen, das kommunalen Aufgaben und kommunalen
 Dienstleistungen dient, wird den Gemeinden, Städten und Landkreisen
@@ -50,6 +52,7 @@ Bildungseinrichtungen.
 
 
 ## § 2 Vermögen der Gemeinden und Städte
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000300314)
 
 (1) In das Vermögen der Gemeinden und Städte gehen über
 
@@ -94,6 +97,7 @@ oder der Landesregierungen gefaßt werden.
 
 
 ## § 3 Vermögen der Landkreise
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000400314)
 
 In das Vermögen der Landkreise gehen über
 
@@ -133,6 +137,7 @@ e)  alle sonstigen Rechte und Forderungen, die den Kreisen sowie deren
 
 
 ## § 4 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000500314)
 
 (1) Die auf der Grundlage des Beschlusses des Präsidiums des
 Ministerrates vom 9. Februar 1972 und damit im Zusammenhang stehender
@@ -154,6 +159,7 @@ Anteil gekürzt.
 
 
 ## § 5 Nutzung des kommunalen Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000600314)
 
 (1) Über kommunales Vermögen kann im Rahmen der Gesetze
 uneingeschränkt verfügt werden. Die Nutzung des kommunalen Vermögens
@@ -177,6 +183,7 @@ Kreisverbände eingebracht werden.
 
 
 ## § 6 Kommunale Betriebe und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000700314)
 
 (1) Volkseigene Betriebe und Einrichtungen, die zur Erfüllung der
 kommunalen Selbstverwaltungsaufgaben gemäß §§ 2 und 72 des Gesetzes
@@ -225,27 +232,32 @@ Einrichtungen hinaus können den Kommunen weiter übertragen werden:
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE000900314)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE001100314)
 
 -
 
 
 ## § 9 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE001200314)
 
 Bis zur Länderbildung nehmen die Regierungsbevollmächtigten für die
 Bezirke die Befugnisse aus § 2 Absatz 2 und § 8 Absatz 2 wahr.
 
 
 ## § 10 Schlußbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE001300314)
 
 Dieses Gesetz tritt am Tage seiner Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE001400314)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
@@ -253,6 +265,7 @@ Republik**
 Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1199)
+[Direktlink](https://www.gesetze-im-internet.de/kvermg/DDNR006600990.html#DDNR006600990BJNE888800301)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

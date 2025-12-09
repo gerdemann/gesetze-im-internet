@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/festlsockelprokbek/BJNR201040964.html#BJNR201040964BJNE000100304)
 
 Die von der Bundesregierung am 20. Januar 1964 beschlossene
 Proklamation über die Erforschung und Ausbeutung des deutschen
@@ -26,6 +27,7 @@ Festlandsockels wird hiermit bekanntgemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/festlsockelprokbek/BJNR201040964.html#BJNR201040964BJNE000200304)
 
 Der Bundesminister des Auswärtigen
 

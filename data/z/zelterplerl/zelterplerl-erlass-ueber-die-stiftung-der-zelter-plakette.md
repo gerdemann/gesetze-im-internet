@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/zelterplerl/BJNR007400956.html#BJNR007400956BJNE000100304)
 
 (1) Als Auszeichnung für Chorvereinigungen, die sich in langjährigem
 Wirken besondere Verdienste um die Pflege der Chormusik und des
@@ -34,6 +35,7 @@ festgelegt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zelterplerl/BJNR007400956.html#BJNR007400956BJNE000200304)
 
 Der Bundespräsident
 Der Stellvertreter des Bundeskanzlers

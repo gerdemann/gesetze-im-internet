@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Schutzvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000101360)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000202360)
 
 Im Sinne dieses Gesetzes
 
@@ -62,6 +64,7 @@ Im Sinne dieses Gesetzes
 
 
 ### § 2 Designschutz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000302360)
 
 (1) Als eingetragenes Design wird ein Design geschützt, das neu ist
 und Eigenart hat.
@@ -79,6 +82,7 @@ Entwicklung des Designs berücksichtigt.
 
 
 ### § 3 Ausschluss vom Designschutz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000402360)
 
 (1) Vom Designschutz ausgeschlossen sind
 
@@ -114,6 +118,7 @@ austauschbaren Teilen innerhalb eines Bauteilesystems zu ermöglichen.
 
 
 ### § 4 Bauelemente komplexer Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000502360)
 
 Ein Design, das bei einem Erzeugnis, das Bauelement eines komplexen
 Erzeugnisses ist, benutzt oder in dieses Erzeugnis eingefügt wird,
@@ -125,6 +130,7 @@ Eigenart erfüllen.
 
 
 ### § 5 Offenbarung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000602360)
 
 Ein Design ist offenbart, wenn es bekannt gemacht, ausgestellt, im
 Verkehr verwendet oder auf sonstige Weise der Öffentlichkeit
@@ -137,6 +143,7 @@ der Vertraulichkeit bekannt gemacht wurde.
 
 
 ### § 6 Neuheitsschonfrist
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000702360)
 
 Eine Offenbarung bleibt bei der Anwendung des § 2 Absatz 2 und 3
 unberücksichtigt, wenn ein Design während der zwölf Monate vor dem
@@ -149,10 +156,12 @@ Rechtsnachfolger offenbart wurde.
 
 
 ## Abschnitt 2 - Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000201360)
 
 
 
 ### § 7 Recht auf das eingetragene Design
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000802360)
 
 (1) Das Recht auf das eingetragene Design steht dem Entwerfer oder
 seinem Rechtsnachfolger zu. Haben mehrere Personen gemeinsam ein
@@ -166,12 +175,14 @@ vertraglich nichts anderes vereinbart wurde.
 
 
 ### § 8 Formelle Berechtigung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE000902360)
 
 Anmelder und Rechtsinhaber gelten in Verfahren, die ein eingetragenes
 Design betreffen, als berechtigt und verpflichtet.
 
 
 ### § 9 Ansprüche gegenüber Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001002360)
 
 (1) Ist ein eingetragenes Design auf den Namen eines nicht nach § 7
 Berechtigten eingetragen, kann der Berechtigte unbeschadet anderer
@@ -209,6 +220,7 @@ Designs (Register) eingetragen.
 
 
 ### § 10 Entwerferbenennung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001102360)
 
 Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das
 Recht, im Verfahren vor dem Deutschen Patent- und Markenamt und im
@@ -218,10 +230,12 @@ Nennung verlangen.
 
 
 ## Abschnitt 3 - Eintragungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000301360)
 
 
 
 ### § 11 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001202360)
 
 (1) Die Anmeldung zur Eintragung eines Designs in das Register ist
 beim Deutschen Patent- und Markenamt einzureichen. Die Anmeldung kann
@@ -281,6 +295,7 @@ Einfluss auf den Schutzumfang des eingetragenen Designs.
 
 
 ### § 12 Sammelanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001302360)
 
 (1) Mehrere Designs können in einer Anmeldung zusammengefasst werden
 (Sammelanmeldung). Die Sammelanmeldung darf nicht mehr als 100 Designs
@@ -295,6 +310,7 @@ nachzuentrichten.
 
 
 ### § 13 Anmeldetag
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001403123)
 
 (1) Der Anmeldetag eines Designs ist der Tag, an dem die Unterlagen
 mit den Angaben nach § 11 Absatz 2
@@ -317,6 +333,7 @@ Prioritätstag an die Stelle des Anmeldetages.
 
 
 ### § 14 Ausländische Priorität
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001502360)
 
 (1) Wer nach einem Staatsvertrag die Priorität einer früheren
 ausländischen Anmeldung desselben Designs in Anspruch nimmt, hat vor
@@ -349,6 +366,7 @@ stellt dies fest.
 
 
 ### § 15 Ausstellungspriorität
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001603123)
 
 (1) Hat der Anmelder ein Design
 
@@ -384,6 +402,7 @@ Prioritätsfristen nach § 14 Absatz 1 nicht.
 
 
 ### § 16 Prüfung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001705123)
 
 (1) Das Deutsche Patent- und Markenamt prüft, ob
 
@@ -421,6 +440,7 @@ durch Beschluss zurück.
 
 
 ### § 17 Weiterbehandlung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001803360)
 
 (1) Ist nach Versäumung einer vom Deutschen Patent- und Markenamt
 bestimmten Frist die Designanmeldung zurückgewiesen worden, so wird
@@ -443,6 +463,7 @@ Handlung zu beschließen hat.
 
 
 ### § 18 Eintragungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE001902360)
 
 Ist der Gegenstand der Anmeldung kein Design im Sinne des § 1 Nummer 1
 oder ist ein Design nach § 3 Absatz 1 Nummer 3 oder Nummer 4 vom
@@ -451,6 +472,7 @@ Markenamt die Anmeldung zurück.
 
 
 ### § 19 Führung des Registers, Eintragung und Designinformation
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002003123)
 
 (1) Das Register für eingetragene Designs wird vom Deutschen Patent-
 und Markenamt geführt.
@@ -469,6 +491,7 @@ Register eingetragenen Angaben an Dritte in elektronischer Form
 
 
 ### § 20 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002105123)
 
 (1) Die Eintragung in das Register wird mit einer Wiedergabe des
 eingetragenen Designs durch das Deutsche Patent- und Markenamt bekannt
@@ -479,6 +502,7 @@ und die Erkennbarkeit der Erscheinungsmerkmale des Designs.
 
 
 ### § 21 Aufschiebung der Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002203123)
 
 (1) Mit der Anmeldung kann für die Wiedergabe die Aufschiebung der
 Bekanntmachung um 30 Monate ab dem Anmeldetag beantragt werden. Wird
@@ -505,6 +529,7 @@ beschränkt werden.
 
 
 ### § 22 Einsichtnahme in das Register
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002306360)
 
 (1) Die Einsicht in das Register steht jedermann frei. Das Recht, die
 Wiedergabe eines eingetragenen Designs und die vom Deutschen Patent-
@@ -549,6 +574,7 @@ soweit
 
 
 ### § 22a Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008900123)
 
 Soweit personenbezogene Daten im Register oder in öffentlich
 zugänglichen elektronischen Informationsdiensten des Deutschen Patent-
@@ -575,6 +601,7 @@ Markenamtes nehmen kann.
 
 
 ### § 23 Verfahrensvorschriften, Beschwerde und Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002405123)
 
 (1) Im Deutschen Patent- und Markenamt werden zur Durchführung der
 Verfahren in Designangelegenheiten eine oder mehrere Designstellen und
@@ -629,6 +656,7 @@ die §§ 124 und 128b des Patentgesetzes finden entsprechende Anwendung.
 
 
 ### § 24 Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002506123)
 
 In Verfahren nach § 23 Absatz 1 erhält der Anmelder auf Antrag unter
 entsprechender Anwendung der §§ 114 bis 116 der Zivilprozessordnung
@@ -644,6 +672,7 @@ entsprechende Anwendung.
 
 
 ### § 25 Elektronische Verfahrensführung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008800123)
 
 (1) Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für
 Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
@@ -677,6 +706,7 @@ bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ### § 26 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002708360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -759,10 +789,12 @@ auf das Deutsche Patent- und Markenamt übertragen.
 
 
 ## Abschnitt 4 - Entstehung und Dauer des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000401360)
 
 
 
 ### § 27 Entstehung und Dauer des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002802360)
 
 (1) Der Schutz entsteht mit der Eintragung in das Register.
 
@@ -771,6 +803,7 @@ gerechnet ab dem Anmeldetag.
 
 
 ### § 28 Aufrechterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE002902360)
 
 (1) Die Aufrechterhaltung des Schutzes wird durch Zahlung einer
 Aufrechterhaltungsgebühr jeweils für das 6. bis 10., 11. bis 15., 16.
@@ -787,10 +820,12 @@ berücksichtigt.
 
 
 ## Abschnitt 5 - Eingetragenes Design als Gegenstand des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000502360)
 
 
 
 ### § 29 Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003002360)
 
 (1) Das Recht an einem eingetragenen Design kann auf andere übertragen
 werden oder übergehen.
@@ -807,6 +842,7 @@ wird.
 
 
 ### § 30 Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003102360)
 
 (1) Das Recht an einem eingetragenen Design kann
 
@@ -835,6 +871,7 @@ Insolvenzverwalters.
 
 
 ### § 31 Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003202360)
 
 (1) Der Rechtsinhaber kann Lizenzen für das gesamte Gebiet oder einen
 Teil des Gebiets der Bundesrepublik Deutschland erteilen. Eine Lizenz
@@ -879,16 +916,19 @@ erteilt worden sind.
 
 
 ### § 32 Angemeldete Designs
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003302360)
 
 Die Vorschriften dieses Abschnitts gelten entsprechend für die Rechte,
 die durch die Anmeldung von Designs begründet werden.
 
 
 ## Abschnitt 6 - Nichtigkeit und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000601360)
 
 
 
 ### § 33 Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003403123)
 
 (1) Ein eingetragenes Design ist nichtig, wenn
 
@@ -944,6 +984,7 @@ von Anfang an nicht eingetreten.
 
 
 ### § 34 Antragsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003502360)
 
 Zur Stellung des Antrags auf Feststellung der Nichtigkeit nach § 33
 Absatz 1 ist jedermann befugt. Zur Stellung des Antrags auf Erklärung
@@ -955,6 +996,7 @@ Amts wegen durch die zuständige Behörde bleibt unberührt.
 
 
 ### § 34a Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007804360)
 
 (1) Der Antrag ist schriftlich beim Deutschen Patent- und Markenamt
 einzureichen. Die zur Begründung dienenden Tatsachen und Beweismittel
@@ -1027,6 +1069,7 @@ die Festsetzung des Gegenstandswertes gelten § 23 Absatz 3 Satz 2 und
 
 
 ### § 34b Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007901360)
 
 Ist oder wird während des Nichtigkeitsverfahrens ein Rechtsstreit
 anhängig, dessen Entscheidung vom Rechtsbestand des eingetragenen
@@ -1039,6 +1082,7 @@ ergangen ist. § 52b Absatz 3 Satz 3 gilt entsprechend.
 
 
 ### § 34c Beitritt zum Nichtigkeitsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008001360)
 
 (1) Ein Dritter kann einem Nichtigkeitsverfahren beitreten, wenn über
 den Antrag auf Feststellung oder Erklärung der Nichtigkeit noch keine
@@ -1065,6 +1109,7 @@ Beschwerdeführers.
 
 
 ### § 35 Teilweise Aufrechterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003603123)
 
 (1) Ein eingetragenes Design kann in geänderter Form bestehen bleiben,
 
@@ -1091,6 +1136,7 @@ einzureichen.
 
 
 ### § 36 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003703123)
 
 (1) Ein eingetragenes Design wird gelöscht
 
@@ -1128,10 +1174,12 @@ eine entsprechende Eintragung in das Register.
 
 
 ## Abschnitt 7 - Schutzwirkungen und Schutzbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000701360)
 
 
 
 ### § 37 Gegenstand des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003802360)
 
 (1) Der Schutz wird für diejenigen Merkmale der Erscheinungsform eines
 eingetragenen Designs begründet, die in der Anmeldung sichtbar
@@ -1145,6 +1193,7 @@ der eingereichten Wiedergabe des eingetragenen Designs.
 
 
 ### § 38 Rechte aus dem eingetragenen Design und Schutzumfang
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE003902360)
 
 (1) Das eingetragene Design gewährt seinem Rechtsinhaber das
 ausschließliche Recht, es zu benutzen und Dritten zu verbieten, es
@@ -1166,6 +1215,7 @@ Design das Ergebnis einer Nachahmung des eingetragenen Designs ist.
 
 
 ### § 39 Vermutung der Rechtsgültigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004002360)
 
 Zugunsten des Rechtsinhabers wird vermutet, dass die an die
 Rechtsgültigkeit eines eingetragenen Designs zu stellenden
@@ -1173,6 +1223,7 @@ Anforderungen erfüllt sind.
 
 
 ### § 40 Beschränkungen der Rechte aus dem eingetragenen Design
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004102360)
 
 Rechte aus einem eingetragenen Design können nicht geltend gemacht
 werden gegenüber
@@ -1203,6 +1254,7 @@ werden gegenüber
 
 
 ### § 40a Reparaturklausel
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE009000360)
 
 (1) Es besteht kein Designschutz für ein in ein Erzeugnis eingebautes
 oder darauf angewandtes Design, das ein Bauelement eines komplexen
@@ -1222,6 +1274,7 @@ für Reparaturzwecke wählen können.
 
 
 ### § 41 Vorbenutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004202360)
 
 (1) Rechte nach § 38 können gegenüber einem Dritten, der vor dem
 Anmeldetag im Inland ein identisches Design, das unabhängig von einem
@@ -1237,10 +1290,12 @@ die Anstalten getroffen wurden.
 
 
 ## Abschnitt 8 - Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000801360)
 
 
 
 ### § 42 Beseitigung, Unterlassung und Schadenersatz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004303360)
 
 (1) Wer entgegen § 38 Absatz 1 Satz 1 ein eingetragenes Design benutzt
 (Verletzer), kann von dem Rechtsinhaber oder einem anderen
@@ -1260,6 +1315,7 @@ Designs eingeholt hätte.
 
 
 ### § 43 Vernichtung, Rückruf und Überlassung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004402360)
 
 (1) Der Verletzte kann den Verletzer auf Vernichtung der im Besitz
 oder Eigentum des Verletzers befindlichen rechtswidrig hergestellten,
@@ -1291,6 +1347,7 @@ Maßnahmen.
 
 
 ### § 44 Haftung des Inhabers eines Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004503360)
 
 Ist in einem Unternehmen von einem Arbeitnehmer oder Beauftragten ein
 eingetragenes Design widerrechtlich verletzt worden, so hat der
@@ -1299,6 +1356,7 @@ Anspruchs auf Schadenersatz auch gegen den Inhaber des Unternehmens.
 
 
 ### § 45 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004601360)
 
 Handelt der Verletzer weder vorsätzlich noch fahrlässig, so kann er
 zur Abwendung der Ansprüche nach den §§ 42 und 43 den Verletzten in
@@ -1312,6 +1370,7 @@ als erteilt.
 
 
 ### § 46 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004704360)
 
 (1) Der Verletzte kann den Verletzer auf unverzügliche Auskunft über
 die Herkunft und den Vertriebsweg der rechtsverletzenden Erzeugnisse
@@ -1404,6 +1463,7 @@ Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 ### § 46a Vorlage und Besichtigung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006901360)
 
 (1) Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann
 der Rechtsinhaber oder ein anderer Berechtigter den vermeintlichen
@@ -1438,6 +1498,7 @@ entstandenen Schadens verlangen.
 
 
 ### § 46b Sicherung von Schadensersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007001360)
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
 begangenen Rechtsverletzung in den Fällen des § 42 Absatz 2 auch auf
@@ -1467,6 +1528,7 @@ entsprechend.
 
 
 ### § 47 Urteilsbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004802360)
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
 obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das
@@ -1479,6 +1541,7 @@ nach Satz 1 ist nicht vorläufig vollstreckbar.
 
 
 ### § 48 Erschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE004902360)
 
 Die Rechte aus einem eingetragenen Design erstrecken sich nicht auf
 Handlungen, die ein Erzeugnis betreffen, in das ein unter den
@@ -1491,6 +1554,7 @@ ist.
 
 
 ### § 49 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005001360)
 
 Auf die Verjährung der in den §§ 42 bis 47 genannten Ansprüche finden
 die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen
@@ -1500,11 +1564,13 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ### § 50 Ansprüche aus anderen gesetzlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005101360)
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 
 ### § 51 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005203123)
 
 (1) Wer entgegen § 38 Absatz 1 Satz 1 ein eingetragenes Design
 benutzt, obwohl der Rechtsinhaber nicht zugestimmt hat, wird mit
@@ -1534,10 +1600,12 @@ Die Art der Bekanntmachung ist im Urteil zu bestimmen.
 
 
 ## Abschnitt 9 - Verfahren in Designstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG000902360)
 
 
 
 ### § 52 Designstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005305360)
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
 Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
@@ -1563,6 +1631,7 @@ des Patentanwalts zu erstatten.
 
 
 ### § 52a Geltendmachung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008102123)
 
 Eine Partei kann sich auf die fehlende Rechtsgültigkeit eines
 eingetragenen Designs nur durch Erhebung einer Widerklage auf
@@ -1573,6 +1642,7 @@ Verfügungsverfahren nach den §§ 935 bis 945 der Zivilprozessordnung.
 
 
 ### § 52b Widerklage auf Feststellung oder Erklärung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008202123)
 
 (1) Die Designgerichte sind für Widerklagen auf Feststellung oder
 Erklärung der Nichtigkeit eines eingetragenen Designs zuständig,
@@ -1602,6 +1672,7 @@ Verfahrens mit dem Datum der Entscheidung in das Register ein.
 
 
 ### § 53 Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005403360)
 
 Ansprüche, welche die in diesem Gesetz geregelten Rechtsverhältnisse
 betreffen und auch auf Vorschriften des Gesetzes gegen den unlauteren
@@ -1611,6 +1682,7 @@ zuständigen Gericht geltend gemacht werden.
 
 
 ### § 54 Streitwertbegünstigung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005501360)
 
 (1) Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage
 ein Anspruch aus einem der in diesem Gesetz geregelten
@@ -1641,10 +1713,12 @@ Gegner zu hören.
 
 
 ## Abschnitt 10 - Vorschriften über Maßnahmen der Zollbehörde
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG001001360)
 
 
 
 ### § 55 Beschlagnahme bei der Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005603123)
 
 (1) Liegt eine Rechtsverletzung nach § 38 Absatz 1 Satz 1
 offensichtlich vor, so unterliegt das jeweilige Erzeugnis auf Antrag
@@ -1670,6 +1744,7 @@ Betriebsgeheimnisse eingegriffen wird.
 
 
 ### § 56 Einziehung, Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005701360)
 
 (1) Wird der Beschlagnahme nicht spätestens nach Ablauf von zwei
 Wochen nach Zustellung der Mitteilung nach § 55 Absatz 2 Satz 1
@@ -1705,6 +1780,7 @@ Schaden zu ersetzen.
 
 
 ### § 57 Zuständigkeiten, Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005804123)
 
 (1) Der Antrag nach § 55 Absatz 1 ist bei der Generalzolldirektion zu
 stellen und hat Wirkung für ein Jahr, sofern keine kürzere
@@ -1721,6 +1797,7 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 
 
 ### § 57a Verfahren nach der Verordnung (EU) Nr. 608/2013
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007102123)
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 56
 Absatz 5 und § 57 Absatz 1 entsprechend, soweit die Verordnung keine
@@ -1728,10 +1805,12 @@ Bestimmungen enthält, die dem entgegenstehen.
 
 
 ## Abschnitt 11 - Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG001101360)
 
 
 
 ### § 58 Inlandsvertreter
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE005904123)
 
 (1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an
 einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent-
@@ -1757,6 +1836,7 @@ Patent- und Markenamt oder dem Bundespatentgericht angezeigt wird.
 
 
 ### § 59 Berühmung eines eingetragenen Designs
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006002360)
 
 Wer eine Bezeichnung verwendet, die geeignet ist, den Eindruck zu
 erwecken, dass ein Erzeugnis durch ein eingetragenes Design geschützt
@@ -1767,6 +1847,7 @@ stützt.
 
 
 ### § 60 Eingetragene Designs nach dem Erstreckungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006103123)
 
 (1) Für alle nach dem Erstreckungsgesetz vom 23. April 1992 (BGBl. I
 S. 938), zuletzt geändert durch Artikel 2 Absatz 10 des Gesetzes vom
@@ -1848,6 +1929,7 @@ Falles für den Benutzer eine unbillige Härte darstellen würde.
 
 
 ### § 61 Typografische Schriftzeichen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006202360)
 
 (1) Für die nach Artikel 2 des Schriftzeichengesetzes in der bis zum
 Ablauf des 1. Juni 2004 geltenden Fassung angemeldeten typografischen
@@ -1875,10 +1957,12 @@ zahlen.
 
 
 ## Abschnitt 12 - Gemeinschaftsgeschmacksmuster
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG001201360)
 
 
 
 ### § 62 Weiterleitung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006301360)
 
 Werden beim Deutschen Patent- und Markenamt Anmeldungen von
 Gemeinschaftsgeschmacksmustern nach Artikel 35 Absatz 2 der Verordnung
@@ -1891,6 +1975,7 @@ Modelle) weiter.
 
 
 ### § 62a Anwendung der Vorschriften dieses Gesetzes auf Gemeinschaftsgeschmacksmuster
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008302123)
 
 Soweit deutsches Recht anwendbar ist, sind folgende Vorschriften
 dieses Gesetzes auf Ansprüche des Inhabers eines
@@ -1919,6 +2004,7 @@ Gemeinschaftsgeschmacksmusters, das nach der Verordnung (EG) Nr.
 
 
 ### § 63 Gemeinschaftsgeschmacksmusterstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006403360)
 
 (1) Für alle Klagen, für die die Gemeinschaftsgeschmacksmustergerichte
 im Sinne des Artikels 80 Absatz 1 der Verordnung (EG) Nr. 6/2002
@@ -1942,6 +2028,7 @@ Gemeinschaftsgeschmacksmustergericht eines anderen Landes übertragen.
 
 
 ### § 63a Unterrichtung der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008401360)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz teilt der
 Kommission der Europäischen Gemeinschaften die nach Artikel 80 Absatz
@@ -1952,6 +2039,7 @@ Zuständigkeit dieser Gerichte mit.
 
 
 ### § 63b Örtliche Zuständigkeit der Gemeinschaftsgeschmacksmustergerichte
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008501360)
 
 Sind nach Artikel 82 der Verordnung (EG) Nr. 6/2002 deutsche
 Gemeinschaftsgeschmacksmustergerichte international zuständig, so
@@ -1965,6 +2053,7 @@ seinen allgemeinen Gerichtsstand hat.
 
 
 ### § 63c Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008601360)
 
 (1) Ist dem Insolvenzgericht bekannt, dass zur Insolvenzmasse ein
 angemeldetes oder eingereichtes Gemeinschaftsgeschmacksmuster gehört,
@@ -1998,6 +2087,7 @@ an die Stelle des Insolvenzverwalters.
 
 
 ### § 64 Erteilung der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006501360)
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 71 Absatz 2
 Satz 2 der Verordnung (EG) Nr. 6/2002 ist das Bundespatentgericht
@@ -2006,6 +2096,7 @@ Geschäftsstelle des Bundespatentgerichts erteilt.
 
 
 ### § 65 Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006601360)
 
 (1) Wer entgegen Artikel 19 Absatz 1 der Verordnung (EG) Nr. 6/2002
 ein Gemeinschaftsgeschmacksmuster benutzt, obwohl der Inhaber nicht
@@ -2016,10 +2107,12 @@ Geldstrafe bestraft.
 
 
 ## Abschnitt 13 - Schutz eingetragener Designs nach dem Haager Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG001402123)
 
 
 
 ### § 66 Anwendung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007202123)
 
 Dieses Gesetz ist auf Eintragungen oder Registrierungen von Designs
 nach dem Haager Abkommen vom 6. November 1925 über die internationale
@@ -2034,6 +2127,7 @@ dessen Fassungen nichts anderes bestimmt ist.
 
 
 ### § 67 Einreichung der internationalen Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007302123)
 
 Die internationale Anmeldung von Designs kann nach Wahl des Anmelders
 entweder direkt beim Internationalen Büro der Weltorganisation für
@@ -2042,6 +2136,7 @@ Patent- und Markenamt eingereicht werden.
 
 
 ### § 68 Weiterleitung der internationalen Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007402123)
 
 Werden beim Deutschen Patent- und Markenamt internationale Anmeldungen
 von Designs eingereicht, so vermerkt das Deutsche Patent- und
@@ -2050,6 +2145,7 @@ Anmeldung ohne Prüfung unverzüglich an das Internationale Büro weiter.
 
 
 ### § 69 Prüfung auf Eintragungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007503123)
 
 (1) Internationale Eintragungen werden in gleicher Weise wie Designs,
 die zur Eintragung in das vom Deutschen Patent- und Markenamt geführte
@@ -2083,6 +2179,7 @@ unverzüglich zurück.
 
 
 ### § 70 Nachträgliche Schutzentziehung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007602360)
 
 (1) An die Stelle des Antrags oder der Widerklage auf Feststellung
 oder Erklärung der Nichtigkeit nach § 33 Absatz 1 oder 2 tritt der
@@ -2101,6 +2198,7 @@ davon in Kenntnis.
 
 
 ### § 71 Wirkung der internationalen Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE007702360)
 
 (1) Eine internationale Eintragung, deren Schutz sich auf das Gebiet
 der Bundesrepublik Deutschland bezieht, hat ab dem Tag ihrer
@@ -2121,10 +2219,12 @@ wirksam.
 
 
 ## Abschnitt 14 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNG001302360)
 
 
 
 ### § 72 Anzuwendendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006703360)
 
 (1) Auf eingetragene Designs, die vor dem 1. Juli 1988 nach dem
 Geschmacksmustergesetz in der im Bundesgesetzblatt Teil III,
@@ -2161,6 +2261,7 @@ Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar
 
 
 ### § 73 Rechtsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE006804360)
 
 (1) Rechte aus einem eingetragenen Design können gegenüber Handlungen
 nicht geltend gemacht werden, die die Benutzung eines Bauelements zur
@@ -2196,6 +2297,7 @@ werden.
 
 
 ### § 74 Übergangsvorschriften zum Gesetz zur Modernisierung des Geschmacksmustergesetzes sowie zur Änderung der Regelungen über die Bekanntmachungen zum Ausstellungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html#BJNR039010004BJNE008703360)
 
 (1) Geschmacksmuster, die bis zum Inkrafttreten des Gesetzes vom 10.
 Oktober 2013 (BGBl. I S. 3799) am 1. Januar 2014 angemeldet oder

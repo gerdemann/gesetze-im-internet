@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000100000)
 
 Auf Grund des § 51 des Weingesetzes in der Fassung der Bekanntmachung
 vom 18. Januar 2011 (BGBl. I S. 66) in Verbindung mit § 1 Absatz 2 des
@@ -29,9 +30,11 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## Abschnitt 1 - Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1924/2006
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000100000)
 
 
 ### § 1 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000200000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer gegen die Verordnung (EG) Nr. 1924/2006
@@ -53,9 +56,11 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 2 - Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1234/2007
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000200000)
 
 
 ### § 2 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000301116)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer gegen die Verordnung (EG) Nr. 1234/2007
@@ -80,9 +85,11 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 3 - Zuwiderhandlungen gegen die Verordnung (EG) Nr. 555/2008
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000300000)
 
 
 ### § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000400000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel
@@ -92,9 +99,11 @@ genannten Bestimmung zuführt.
 
 
 ## Abschnitt 4 - Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1333/2008
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000400000)
 
 
 ### § 4 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000500000)
 
 Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird
 bestraft, wer gegen die Verordnung (EG) Nr. 1333/2008 verstößt, indem
@@ -118,9 +127,11 @@ er vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 5 - Zuwiderhandlungen gegen die Verordnung (EU) Nr. 1308/2013
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000501130)
 
 
 ### § 5 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000601130)
 
 Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird
 bestraft, wer gegen die Verordnung (EU) Nr. 1308/2013 verstößt, indem
@@ -166,6 +177,7 @@ er vorsätzlich oder fahrlässig
 
 
 ### § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000701130)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer gegen die Verordnung (EU) Nr. 1308/2013
@@ -223,9 +235,11 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 6 - Zuwiderhandlungen gegen die Delegierte Verordnung (EU) 2018/273
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000601130)
 
 
 ### § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000801130)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer gegen die Delegierte Verordnung (EU)
@@ -247,9 +261,11 @@ Weingesetzes handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## Abschnitt 7 - Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2018/274
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000701130)
 
 
 ### § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE000901130)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer gegen die Durchführungsverordnung (EU)
@@ -261,9 +277,11 @@ nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
 
 ## Abschnitt 8 - Zuwiderhandlungen gegen die Delegierte Verordnung (EU) 2019/934
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000801130)
 
 
 ### § 9 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE001001130)
 
 Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird
 bestraft, wer gegen die Delegierte Verordnung (EU) 2019/934 verstößt,
@@ -285,6 +303,7 @@ indem er vorsätzlich oder fahrlässig
 
 
 ### § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE001101130)
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des
 Weingesetzes handelt, wer gegen die Delegierte Verordnung (EU)
@@ -311,9 +330,11 @@ Weingesetzes handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## Abschnitt 9 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNG000900000)
 
 
 ### § 11 Verweisungen auf Vorschriften in Rechtsakten derEuropäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE001201130)
 
 Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union beziehen sich
@@ -321,6 +342,7 @@ auf die in der Anlage angegebenen Fassungen.
 
 
 ### § 11a Übergangsregelung aus Anlass der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE001500130)
 
 Soweit nach den in den Artikeln 90 und 91 der Verordnung (EU)
 2024/1143 des Europäischen Parlaments und des Rates vom 11. April 2024
@@ -343,12 +365,14 @@ anzuwenden.
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 11)
 
 ### Anlage Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/weinsbv/BJNR014300014.html#BJNR014300014BJNE001403130)
 
 (Fundstelle: BGBl. 2023 I Nr. 114, 2 - 3)
 

@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urhrschfrverlg/BJNR213950934.html#BJNR213950934BJNE000100304)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urhrschfrverlg/BJNR213950934.html#BJNR213950934BJNE000200304)
 
 (1) Die Schutzfristen im Urheberrecht, die dreißig Jahre betragen,
 werden auf fünfzig Jahre verlängert.
@@ -32,6 +34,7 @@ werden auf fünfzig Jahre verlängert.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/urhrschfrverlg/BJNR213950934.html#BJNR213950934BJNE000300304)
 
 (1) Die Verlängerung der Schutzdauer tritt auch für die bereits
 geschaffenen Werke ein, die beim Inkrafttreten dieses Gesetzes noch

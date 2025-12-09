@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000100000)
 
 Auf Grund des § 556c Absatz 3 des Bürgerlichen Gesetzbuchs, der durch
 Artikel 1 des Gesetzes vom 11. März 2013 (BGBl. I S. 434) eingefügt
@@ -24,9 +25,11 @@ worden ist, verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNG000100000)
 
 
 ### § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000300000)
 
 Gegenstand der Verordnung sind
 
@@ -44,9 +47,11 @@ Gegenstand der Verordnung sind
 
 
 ## Abschnitt 2 - Wärmeliefervertrag
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNG000200000)
 
 
 ### § 2 Inhalt des Wärmeliefervertrages
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000400000)
 
 (1) Der Wärmeliefervertrag soll enthalten:
 
@@ -105,6 +110,7 @@ Modernisierungsbeschränkungen ist unwirksam.
 
 
 ### § 3 Preisänderungsklauseln
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000500000)
 
 Preisänderungsklauseln in Wärmelieferverträgen sind nur wirksam, wenn
 sie den Anforderungen des § 24 Absatz 4 Satz 1 und 2 der Verordnung
@@ -113,11 +119,13 @@ jeweils geltenden Fassung entsprechen.
 
 
 ### § 4 Form des Wärmeliefervertrages
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000600000)
 
 Der Wärmeliefervertrag bedarf der Textform.
 
 
 ### § 5 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000700000)
 
 Hat der Mieter nach einer Umstellung auf Wärmelieferung die
 Wärmelieferkosten nicht als Betriebskosten zu tragen, weil die
@@ -130,6 +138,7 @@ entsprechen.
 
 
 ### § 6 Verhältnis zur Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000800000)
 
 Soweit diese Verordnung keine abweichenden Regelungen enthält, bleiben
 die Regelungen der Verordnung über Allgemeine Bedingungen für die
@@ -137,15 +146,18 @@ Versorgung mit Fernwärme unberührt.
 
 
 ### § 7 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE000900000)
 
 Eine von den Vorschriften dieses Abschnitts abweichende Vereinbarung
 ist unwirksam.
 
 
 ## Abschnitt 3 - Umstellung der Wärmeversorgung für Mietwohnraum
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNG000300000)
 
 
 ### § 8 Kostenvergleich vor Umstellung auf Wärmelieferung
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE001000000)
 
 Beim Kostenvergleich nach § 556c Absatz 1 Satz 1 Nummer 2 des
 Bürgerlichen Gesetzbuchs sind für das Mietwohngebäude
@@ -165,6 +177,7 @@ gegenüberzustellen
 
 
 ### § 9 Ermittlung der Betriebskosten der Eigenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE001100000)
 
 (1) Die bisherigen Betriebskosten nach § 8 Nummer 1 sind wie folgt zu
 ermitteln:
@@ -198,6 +211,7 @@ berechnen.
 
 
 ### § 10 Ermittlung der Kosten der Wärmelieferung
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE001200000)
 
 (1) Die Kosten der Wärmelieferung nach § 8 Nummer 2 sind wie folgt zu
 ermitteln: Aus dem durchschnittlichen Endenergieverbrauch in einem
@@ -220,6 +234,7 @@ wird.
 
 
 ### § 11 Umstellungsankündigung des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE001300000)
 
 (1) Die Umstellungsankündigung nach § 556c Absatz 2 des Bürgerlichen
 Gesetzbuchs muss dem Mieter spätestens drei Monate vor der Umstellung
@@ -261,15 +276,18 @@ entspricht.
 
 
 ### § 12 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE001400000)
 
 Eine zum Nachteil des Mieters von den Vorschriften dieses Abschnitts
 abweichende Vereinbarung ist unwirksam.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNG000400000)
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/w_rmelv/BJNR150900013.html#BJNR150900013BJNE001500000)
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft.
 

@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000100308)
 
 Auf Grund des § 4 Abs. 3 Satz 2 Nr. 2 des Dritten Verstromungsgesetzes
 vom 13. Dezember 1974 (Bundesgesetzbl. I S. 3473) wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000201308)
 
 (1) Die nach § 8 Abs. 2 des Dritten Verstromungsgesetzes
 abgabepflichtigen Eigenerzeuger von Elektrizität haben den Wert der
@@ -41,6 +43,7 @@ Betracht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000306118)
 
 (1) Der Wert jeder selbst erzeugten und verbrauchten Kilowattstunde
 bestimmt sich nach dem Durchschnittserlös, den die
@@ -58,6 +61,7 @@ Einphasen-Fahrstrom an Eisenbahnen des Bundes außer Betracht.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000400308)
 
 (1) Der nach § 2 maßgebende Durchschnittserlös ist um einen Abschlag
 zu vermindern, dessen Höhe sich nach der in Megawatt gemessenen
@@ -69,12 +73,14 @@ dieser Verordnung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000500308)
 
 Der nach den §§ 2 und 3 ermittelte Wert ist um einen Abschlag von 25
 vom Hundert zu vermindern.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000601308)
 
 Für die in Gegendruck- oder Entnahmekondensationsanlagen erzeugte
 Elektrizität ist der nach den §§ 2 bis 4 ermittelte Wert zusätzlich um
@@ -96,6 +102,7 @@ jährlicher Ermittlung und Zahlung der Ausgleichsabgabe zu führen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000701308)
 
 (1) Für die durch erneuerbare Energien oder die Verbrennung von Müll
 und sonstigen Abfällen erzeugte Elektrizität ist der sich nach den §§
@@ -117,6 +124,7 @@ Restgase aus Chemieproduktionen (außer Raffineriegas).
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE001300308)
 
 Für Elektrizitätserzeugungsanlagen, bei denen die Voraussetzungen der
 §§ 5 und 6 vorliegen, ist der sich nach den §§ 2 bis 4 ergebende Wert
@@ -124,6 +132,7 @@ höchstens um 50 vom Hundert herabzusetzen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE000802301)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann auf
 Antrag des Abgabeschuldners eine von dem Verfahren nach den §§ 2 bis 7
@@ -146,16 +155,19 @@ zurückgezahlt.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE001000308)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE001100308)
 
 Der Bundesminister für Wirtschaft
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/eigenverbv/BJNR037010974.html#BJNR037010974BJNE001200308)
 
 Fundstelle des Originaltextes: BGBl. I 1974, 3702
 Der Abschlag nach § 3 beträgt bei einer Engpaßleistung bis zu

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufhebung des Rechts der Gemeinnützigkeit im Wohnungswesen
+[Direktlink](https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html#BJNR011360988BJNE000100304)
 
 Es werden aufgehoben:
 1\.
@@ -33,6 +34,7 @@ Es werden aufgehoben:
 
 
 ## § 2 Maßnahmen bei Verstößen gegen Vorschriften des Wohnungsgemeinnützigkeitsrechts
+[Direktlink](https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html#BJNR011360988BJNE000200304)
 
 Hat ein am 31. Dezember 1989 als gemeinnütziges Wohnungsunternehmen
 oder als Organ der staatlichen Wohnungspolitik anerkanntes Unternehmen
@@ -44,6 +46,7 @@ einschließlich der ersparten Steuern auferlegen.
 
 
 ## § 3 Sicherstellung der Pensionszusagen und der Verpflichtung aus Sozialplänen und aus betrieblichen Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html#BJNR011360988BJNE000300304)
 
 (1) Scheidet ein am 31. Dezember 1989 als gemeinnütziges
 Wohnungsunternehmen oder als Organ der staatlichen Wohnungspolitik
@@ -68,16 +71,19 @@ Wohnungsgemeinnützigkeitsrechts herbeigeführt worden sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html#BJNR011360988BJNE000402320)
 
 (weggefallen)
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html#BJNR011360988BJNE000500304)
 
 -
 
 
 ## § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html#BJNR011360988BJNE000600304)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.

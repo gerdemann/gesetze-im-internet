@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-05/BJNR109500999.html#BJNR109500999BJNE000100320)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß das
@@ -47,6 +48,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage Emblem der Inter-American Development Bank
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-05/BJNR109500999.html#BJNR109500999BJNE000200320)
 
 Fundstelle: BGBl. I 1999, 1095)
 ![bgbl1_1999_j1095_0010.jpg](bgbl1_1999_j1095_0010.jpg)

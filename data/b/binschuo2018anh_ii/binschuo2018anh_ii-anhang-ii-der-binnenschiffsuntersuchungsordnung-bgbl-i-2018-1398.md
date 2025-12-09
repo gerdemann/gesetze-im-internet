@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000101119)
 
 **Teil I**
 ## **Fähren**
@@ -308,12 +309,15 @@ Kapitel 8
 
 
 ## Teil I - Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000101119)
 
 
 ### Kapitel 1 - Sondervorschriften für Fähren, Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000201119)
 
 
 #### § 1.01 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000203119)
 
 
 1.  Für Fähren, die keine Kahn- oder Kahnseilfähren sind, sind die Kapitel
@@ -329,6 +333,7 @@ Kapitel 8
 
 
 #### § 1.02 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000302119)
 
 In diesem Anhang gelten als:
 
@@ -442,6 +447,7 @@ Binnenschiffszeugnisses.
 
 
 #### § 1.03 Fährzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000401119)
 
 
 1.  Die Ergebnisse aus den Stabilitäts- und Festigkeitsberechnungen sind
@@ -469,6 +475,7 @@ Binnenschiffszeugnisses.
 
 
 #### § 1.04 Kennzeichnung der Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000501119)
 
 An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein
 mindestens 30 cm hohes „F“ mit heller Farbe auf dunklem Grund oder mit
@@ -476,12 +483,15 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
 
 ### Kapitel 2 - Bau, Einrichtung und Ausrüstung von Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000301119)
 
 
 #### Unterkapitel 1 - Fähren, die keine Kahn- und Kahnseilfähren sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG001300119)
 
 
 ##### § 2.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000601119)
 
 Für Fähren sind der ES-TRIN sowie die Anhänge III bis VII mit den sich
 aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden:
@@ -615,6 +625,7 @@ aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden:
 
 
 ##### § 2.02 Fährkörper
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000702119)
 
 
 1.  An beiden Enden des Fährkörpers muss ein Kollisionsschott nach Artikel
@@ -630,6 +641,7 @@ aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden:
 
 
 ##### § 2.03 Nachweis der Intakt- und Leckstabilität
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000801119)
 
 
 1.  Der Antragsteller weist anhand einer Berechnung nach, dass die
@@ -1042,6 +1054,7 @@ aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden:
 
 
 ##### § 2.04 Einsenkungsmarken
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE000902119)
 
 Artikel 4.03 Nummer 10 ES-TRIN ist anzuwenden; jedoch müssen
 mindestens zwei Einsenkungsmarkenpaare auf je einem Drittel der Länge
@@ -1049,6 +1062,7 @@ vorhanden sein.
 
 
 ##### § 2.05 Festigkeit des Wagendecks
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001001119)
 
 Bei Wagenfähren muss der Antragsteller durch eine Berechnung die
 Festigkeit des Wagendecks nachweisen. Für die Berechnung ist eine
@@ -1068,6 +1082,7 @@ b)  die zulässige Achslast einer Doppelachse von Landfahrzeugen in Tonnen
 
 
 ##### § 2.06 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001101119)
 
 
 1.  Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch
@@ -1096,6 +1111,7 @@ b)  die zulässige Achslast einer Doppelachse von Landfahrzeugen in Tonnen
 
 
 ##### § 2.07 Anker
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001201119)
 
 
 1.  Für Fähren, die mindestens zwei voneinander unabhängige in jeder
@@ -1113,6 +1129,7 @@ b)  die zulässige Achslast einer Doppelachse von Landfahrzeugen in Tonnen
 
 
 ##### § 2.08 Zusätzliche Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001301119)
 
 
 1.  Die bordseitigen, dem Zu- und Abgang dienenden Öffnungen von
@@ -1178,6 +1195,7 @@ b)  die zulässige Achslast einer Doppelachse von Landfahrzeugen in Tonnen
 
 
 ##### § 2.09 Landeklappen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE004200119)
 
 Die Festigkeit von Landeklappen muss ihrem Einsatzzweck entsprechen.
 Die Landeklappen sind seitlich mit geeigneten Absturzsicherungen zu
@@ -1185,9 +1203,11 @@ versehen.
 
 
 #### Unterkapitel 2 - Kahn- und Kahnseilfähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG001400119)
 
 
 ##### § 2.10 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE004300119)
 
 Für Kahnfähren und Kahnseilfähren gelten die nachstehenden
 Anforderungen:
@@ -1251,6 +1271,7 @@ Anforderungen:
 
 
 ##### § 2.11 Fährkörper
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE004400119)
 
 Kahnfähren und Kahnseilfähren müssen mit Luftkästen oder anderen
 Auftriebskörpern versehen sein. Luftkästen müssen zur Durchführung von
@@ -1258,6 +1279,7 @@ Dichtigkeitsprüfungen mit einem Schraubverschluss versehen sein.
 
 
 ##### § 2.12 Nachweis der Intakt- und Leckstabilität
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE004500119)
 
 Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die
 
@@ -1283,6 +1305,7 @@ Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die
 
 
 ##### § 2.13 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE004600119)
 
 
 1.  Jede Kahnfähre oder Kahnseilfähre muss mit einem Anker mit einem
@@ -1306,9 +1329,11 @@ Für Kahnfähren und Kahnseilfähren genügt als Nachweis für die
 
 
 ### Kapitel 3 - Zusätzliche Anforderungen an seilgebundene oder kettengebundene Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000401119)
 
 
 #### § 3.01 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001401119)
 
 Abweichend von § 1.02 gelten für dieses Kapitel als
 
@@ -1356,6 +1381,7 @@ Abweichend von § 1.02 gelten für dieses Kapitel als
 
 
 #### § 3.02 Nachweis der Intakt- und Leckstabilität für seilgebundene oder kettengebundene Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001501119)
 
 
 1.  Ergänzend zu § 2.03 muss sich der Nachweis ausreichender
@@ -1764,6 +1790,7 @@ Abweichend von § 1.02 gelten für dieses Kapitel als
 
 
 #### § 3.03 Einsenkungsmarken
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001601119)
 
 
 1.  Artikel 4.03 ES-TRIN ist nicht anzuwenden.
@@ -1785,6 +1812,7 @@ Abweichend von § 1.02 gelten für dieses Kapitel als
 
 
 #### § 3.04 Berechnung und Konstruktion der Seil- und Kettenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001701119)
 
 
 1.  Seilanlagen von seilgebundenen Fähren und Kettenanlagen von
@@ -1819,6 +1847,7 @@ Abweichend von § 1.02 gelten für dieses Kapitel als
 
 
 #### § 3.05 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001801119)
 
 Seilanlagen und Kettenanlagen sind
 
@@ -1842,6 +1871,7 @@ Untersuchungskommission vom Sachverständigen vorzulegen.
 
 
 #### § 3.06 Prüfbedingungen und Prüfinhalte
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE001901119)
 
 Die Seilanlagen und Kettenanlagen sind wie folgt zu prüfen:
 
@@ -1898,6 +1928,7 @@ Die Seilanlagen und Kettenanlagen sind wie folgt zu prüfen:
 
 
 #### § 3.07 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002001119)
 
 
 1.  Die Übereinstimmung jeder Seilanlage und Kettenanlage mit den
@@ -1921,9 +1952,11 @@ Die Seilanlagen und Kettenanlagen sind wie folgt zu prüfen:
 
 
 ### Kapitel 4 - Übergangsbestimmungen für Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000501119)
 
 
 #### § 4.01 Übergangsbestimmungen für Fähren, die schon in Betrieb sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002102119)
 
 Fähren, die bereits in Betrieb sind und den Vorschriften der Kapitel 1
 bis 3 nicht entsprechen, müssen an die in nachstehender Tabelle
@@ -2044,12 +2077,15 @@ Tabelle bedeuten
 
 
 ## Teil II - Barkassen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000600000)
 
 
 ### Kapitel 5 - Sondervorschriften für Barkassen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000700000)
 
 
 #### § 5.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002200000)
 
 
 1.  Für Barkassen sind der ES-TRIN und der Anhang III mit den sich aus den
@@ -2081,6 +2117,7 @@ Tabelle bedeuten
 
 
 #### § 5.02 Schiffskörper
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002301119)
 
 
 1.  Bei einer Barkasse muss der wasserdichte Innenboden der Plicht
@@ -2122,6 +2159,7 @@ Tabelle bedeuten
 
 
 #### § 5.03 Stabilität
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002401119)
 
 
 1.  Der Antragsteller muss durch eine Stabilitätsberechnung nachweisen,
@@ -2201,6 +2239,7 @@ Tabelle bedeuten
 
 
 #### § 5.04 Höchstzulässige Zahl der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002501119)
 
 
 1.  Die sich aus der freien Decksfläche ergebende höchstzulässige Zahl der
@@ -2221,6 +2260,7 @@ Tabelle bedeuten
 
 
 #### § 5.05 Freibord und Sicherheitsabstand
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002601119)
 
 Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für
 die Überprüfung des Sicherheitsabstandes und für die Festsetzung der
@@ -2230,6 +2270,7 @@ Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
 
 
 #### § 5.06 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002700000)
 
 
 1.  Mindestens ein Rettungsring nach Artikel 13.08 Nummer 1 ES-TRIN muss
@@ -2261,6 +2302,7 @@ Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
 
 
 #### § 5.07 Anker
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002800000)
 
 
 1.  Barkassen müssen mit einem Buganker ausgerüstet sein.
@@ -2278,6 +2320,7 @@ Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
 
 
 #### § 5.08 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE002901119)
 
 
 1.  Ausrüstungsgegenstände nach Artikel 13.02 Nummer 2 Buchstabe b
@@ -2301,9 +2344,11 @@ Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
 
 
 ### Kapitel 6 - Übergangsbestimmungen für Barkassen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000800000)
 
 
 #### § 6.01 Übergangsbestimmungen für Barkassen, die schon in Betrieb sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003002119)
 
 Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen,
 müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen
@@ -2355,12 +2400,15 @@ angepasst werden. In der Tabelle bedeuten
 
 
 ## Teil III - Fahrgastboote
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG000900000)
 
 
 ### Kapitel 7 - Sondervorschriften für Fahrgastboote
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG001000000)
 
 
 #### § 7.01 Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003101119)
 
 
 1.  Auf der Wasserstraße nach Anhang I Zone 1 und auf der Wasserstraße
@@ -2386,6 +2434,7 @@ angepasst werden. In der Tabelle bedeuten
 
 
 #### § 7.02 Anforderungen an Fahrgastboote in Zone 2
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003200000)
 
 Für die Wasserstraßen nach Anhang I Zone 2 zugelassene Fahrgastboote
 unterliegen folgenden Anforderungen an Ausrüstung und Betrieb:
@@ -2488,6 +2537,7 @@ unterliegen folgenden Anforderungen an Ausrüstung und Betrieb:
 [^F804091_05_BJNR142200018BJNE003200000]: 
 
 #### § 7.03 Anforderungen an Fahrgastboote in Zone 3 oder 4
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003302119)
 
 Für die Wasserstraßen nach Anhang I Zone 3 oder 4 zugelassene
 Fahrgastboote unterliegen folgenden Anforderungen an Ausrüstung und
@@ -2572,6 +2622,7 @@ Betrieb:
 
 
 #### § 7.04 Anforderungen an Fahrgastboote mit Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003401119)
 
 Fahrgastboote nach den §§ 7.02 und 7.03, die gebaut und eingerichtet
 sind, um hauptsächlich durch Segel fortbewegt zu werden, unterliegen
@@ -2603,6 +2654,7 @@ vorzulegen.
 
 
 #### § 7.05 Sicherheit am Arbeitsplatz
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003500000)
 
 Soweit die Vorschriften dieses Kapitels nicht entgegenstehen, gelten
 die Artikel 14.01 bis 14.06, 14.08, 14.09, 14.11 und 14.13 ES-TRIN
@@ -2611,6 +2663,7 @@ bleiben unberührt.
 
 
 #### § 7.06 Übergangs- und Sonderbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003602119)
 
 
 1.  Die §§ 7.02 und 7.04 gelten bis zum Ablauf des 6. Oktober 2033 nicht
@@ -2668,12 +2721,15 @@ bleiben unberührt.
 
 
 ## Teil IV - Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG001100000)
 
 
 ### Kapitel 8 - Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNG001200000)
 
 
 #### § 8.01 Abweichungen hinsichtlich Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_ii/BJNR142200018.html#BJNR142200018BJNE003700000)
 
 Für Fahrgastboote sind die jeweiligen Vorschriften mit den folgenden
 Maßgaben anzuwenden:

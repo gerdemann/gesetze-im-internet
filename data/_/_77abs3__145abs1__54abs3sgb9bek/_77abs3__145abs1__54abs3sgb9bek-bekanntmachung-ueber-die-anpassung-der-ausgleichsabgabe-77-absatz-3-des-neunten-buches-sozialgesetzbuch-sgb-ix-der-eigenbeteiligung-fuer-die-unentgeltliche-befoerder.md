@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/_77abs3__145abs1__54abs3sgb9bek/BJNR635810015.html#BJNR635810015BJNE000100000)
 
 
 1.  Gemäß § 77 Absatz 3 SGB IX erhöhen sich die zuletzt mit Bekanntmachung
@@ -68,6 +69,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/_77abs3__145abs1__54abs3sgb9bek/BJNR635810015.html#BJNR635810015BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000100000)
 
 Der Ausbildungsberuf des Fluggerätelektronikers und der
 Fluggerätelektronikerin wird nach § 4 Absatz 1 des
@@ -34,11 +35,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000200000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000301128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -156,6 +159,7 @@ Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000400000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -177,6 +181,7 @@ durchzusehen.
 
 
 ## § 5 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000500000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -194,6 +199,7 @@ ist.
 
 
 ## § 6 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000600000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -253,6 +259,7 @@ Teilsystem bestehen folgende Vorgaben:
 
 
 ## § 7 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000700000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
@@ -423,6 +430,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000801377)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -515,6 +523,7 @@ im Verhältnis von 2:1 zu gewichten.
 (zu § 3 Absatz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE000901128)
 
 (Fundstelle: BGBl I 2013, 2204 - 2209
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1350,6 +1359,7 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 (zu § 3 Absatz 1)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin - Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE001001128)
 
 (Fundstelle: BGBl. 2024 I Nr. 186, S. 42 – 53)
 
@@ -3169,6 +3179,7 @@ gestalten
 (zu § 3 Absatz 1)
 
 ## Anlage 3 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach der Verordnung (EU) Nr. 1321/2014 in Verbindung mit der Verordnung (EU) 2023/989 Anhang III (Teil 66)
+[Direktlink](https://www.gesetze-im-internet.de/flugelekausbv_2013/BJNR220110013.html#BJNR220110013BJNE001101128)
 
 (Fundstelle: BGBl. 2024 I Nr. 186, S. 54 – 63)
 

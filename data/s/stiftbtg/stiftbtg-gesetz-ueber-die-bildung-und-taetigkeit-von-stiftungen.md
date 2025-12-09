@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## I. - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000100307)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001100307)
 
 (1) Dieses Gesetz gilt für die rechtsfähigen Stiftungen des
 Privatrechts und des öffentlichen Rechts, einschließlich kirchlicher
@@ -36,12 +38,14 @@ Stiftungsgesetz zur Geltung gelangt.
 
 
 ### § 2 Auslegungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001200307)
 
 Bei der Anwendung dieses Gesetzes ist in erster Linie der Wille des
 Stifters zu berücksichtigen.
 
 
 ### § 3 Stiftungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001300307)
 
 (1) Die Landesregierung legt die nach diesem Gesetz zuständigen
 Stiftungsbehörden fest.
@@ -53,10 +57,12 @@ geführt wird.
 
 
 ## II. - Stiftungen des Privatrechts
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000200307)
 
 
 
 ### § 4 Stiftungserfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001400307)
 
 Zur Entstehung einer rechtsfähigen Stiftung des Privatrechts bedarf es
 außer eines Stiftungsgeschäfts der Genehmigung durch die
@@ -64,10 +70,12 @@ Stiftungsbehörde.
 
 
 ### - - Stiftungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000300307)
 
 
 
 #### § 5 Stiftungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001500307)
 
 (1) Das Stiftungsgeschäft unter Lebenden bedarf der schriftlichen
 Form.
@@ -83,6 +91,7 @@ Beurkundung mit der Einreichung betraut hat.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001600307)
 
 Wird die Stiftung genehmigt, so ist der Stifter verpflichtet, das in
 dem Stiftungsgeschäft zugesicherte Vermögen auf die Stiftung zu
@@ -92,6 +101,7 @@ Stiftungsgeschäft sich ein anderer Wille des Stifters ergibt.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001700307)
 
 Besteht das Stiftungsgeschäft in einer Verfügung von Todes wegen, so
 hat das Nachlaßgericht die Genehmigung einzuholen, sofern sie nicht
@@ -99,6 +109,7 @@ von dem Erben oder dem Testamentsvollstrecker nachgesucht wird.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001800307)
 
 Wird die Stiftung erst nach dem Tode des Stifters genehmigt, so gilt
 sie für die Zuwendungen des Stifters als schon vor dessen Tode
@@ -106,12 +117,14 @@ entstanden.
 
 
 #### § 9 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE001900307)
 
 Die Satzung einer Stiftung wird, soweit sie nicht auf den Bestimmungen
 dieses Gesetzes beruht, durch das Stiftungsgeschäft bestimmt.
 
 
 #### § 10 Inhalt der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002000307)
 
 (1) Die Satzung einer Stiftung muß Bestimmungen enthalten über den
 Namen, den Sitz, den Zweck, das Vermögen und die Organe der Stiftung.
@@ -133,6 +146,7 @@ Stiftung.
 
 
 #### § 11 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002100307)
 
 (1) Die Stiftung muß einen Vorstand haben. Der Vorstand kann aus
 mehreren Personen bestehen.
@@ -147,6 +161,7 @@ des Vereinsrechts entsprechend.
 
 
 #### § 12 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002200307)
 
 (1) Verletzen Mitglieder des Vorstandes oder eines anderen Organs der
 Stiftung schuldhaft ihre Obliegenheiten, so sind sie der Stiftung zum
@@ -159,6 +174,7 @@ Pflichten.
 
 
 #### § 13 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002300307)
 
 (1) In eine Stiftung können alle Arten von Vermögenswerten und
 Gegenstände eingebracht werden. Insbesondere können finanzielle
@@ -172,6 +188,7 @@ Leistungsentgelten ergeben.
 
 
 #### § 14 Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002400307)
 
 (1) Die Stiftung ist nach den Gesetzen, dem Stiftungsgeschäft und der
 Stiftungssatzung sparsam und wirtschaftlich zu verwalten. Die
@@ -188,10 +205,12 @@ Wirtschaftsführung einzuhalten.
 
 
 ## III. - Genehmigung und Stiftungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000400307)
 
 
 
 ### § 15 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002500307)
 
 (1) Die Genehmigung einer Stiftung wird durch die Stiftungsbehörde
 erteilt.
@@ -204,6 +223,7 @@ Genehmigung sind bei der Stiftungsbehörde zu hinterlegen.
 
 
 ### § 16 Versagung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002600307)
 
 (1) Die Genehmigung ist zu versagen:
 
@@ -224,6 +244,7 @@ Vermögen der Stiftung enthält.
 
 
 ### § 17 Bekanntgabe der Entscheidung und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002700307)
 
 (1) Die Entscheidung ist dem Antragsteller schriftlich mitzuteilen.
 Die Versagung der Genehmigung ist zu begründen. Die Genehmigung, der
@@ -236,6 +257,7 @@ Antragsteller schriftlich mitzuteilen und öffentlich bekanntzumachen.
 
 
 ### § 18 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002800307)
 
 Die Stiftungen stehen unter der Rechtsaufsicht des Landes, in dem sie
 ihren Sitz haben. Sie beschränkt sich darauf, zu überwachen, daß die
@@ -244,6 +266,7 @@ Stiftungssatzung beachten.
 
 
 ### § 19 Tätigkeit der Stiftungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE002900307)
 
 (1) Die Stiftungsbehörde ist befugt, sich über alle Angelegenheiten
 der Stiftung zu unterrichten. Sie kann insbesondere Anstalten und
@@ -275,6 +298,7 @@ Stelle berufen.
 
 
 ### § 20 Stiftungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003000307)
 
 (1) Bei der Stiftungsbehörde ist ein Verzeichnis der in ihrem
 Zuständigkeitsbereich bestehenden und neu entstehenden Stiftungen
@@ -298,10 +322,12 @@ Stiftungszweck sind öffentlich bekannt zu machen.
 
 
 ## IV. - Satzungsänderung und Beendigung der Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000500307)
 
 
 
 ### § 21 Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003100307)
 
 (1) Wenn die Satzung dies vorsieht oder wenn sich die Verhältnisse
 seit der Errichtung der Stiftung wesentlich geändert haben, kann die
@@ -326,6 +352,7 @@ rechtsfähig.
 
 
 ### § 22 Zweckänderung und Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003200307)
 
 (1) Ist die Erfüllung des Stiftungszweckes unmöglich geworden oder
 gefährdet sie das Gemeinwohl, so kann die Stiftungsbehörde der
@@ -346,6 +373,7 @@ Genehmigung der Stiftungsbehörde.
 
 
 ### § 23 Vermögensanfall
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003300307)
 
 (1) Ist für den Fall des Erlöschens einer Stiftung in der Satzung
 weder ein Anfallberechtigter bestimmt noch einem Stiftungsorgan die
@@ -371,10 +399,12 @@ Vereinsrecht statt.
 
 
 ## V. - Stiftungen öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000600307)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003400307)
 
 (1) Stiftungen des öffentlichen Rechts sind Stiftungen, die
 ausschließlich öffentliche Zwecke verfolgen und mit dem Land ihres
@@ -389,10 +419,12 @@ in das Stiftungsverzeichnis mitzuteilen.
 
 
 ## VI. - Kommunale Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000700307)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003500307)
 
 (1) Kommunale Stiftungen sind solche, deren Zweck im Rahmen der
 jeweiligen kommunalen Aufgaben liegt und nicht wesentlich über den
@@ -408,10 +440,12 @@ wird.
 
 
 ## VII. - Kirchliche Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000800307)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003600307)
 
 (1) Kirchliche Stiftungen im Sinne dieses Gesetzes sind Stiftungen,
 die ausschließlich oder überwiegend dazu bestimmt sind, kirchliche
@@ -427,6 +461,7 @@ sind.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003700307)
 
 (1) Eine kirchliche Stiftung ist auf Antrag der zuständigen
 Kirchenbehörde zu genehmigen, wenn die Verwirklichung des
@@ -445,10 +480,12 @@ Beaufsichtigung kirchlicher Stiftungen ist Aufgabe der Kirche.
 
 
 ## VIII. - Nichtrechtsfähige Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG000900307)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003800307)
 
 (1) Eine nichtrechtsfähige Stiftung ist eine Vermögensmasse, die einem
 bestimmten Zweck gewidmet ist aber keine Rechtsperson darstellt,
@@ -463,10 +500,12 @@ Stiftung entsprechend.
 
 
 ## IX. - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNG001000307)
 
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE003900307)
 
 Die bei Inkrafttreten dieses Gesetzes bestehenden Stiftungen bestehen
 fort. Für ihre künftigen Rechtsverhältnisse sind die Vorschriften
@@ -474,6 +513,7 @@ dieses Gesetzes anzuwenden.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE004000307)
 
 (1) Bestehende Stiftungen haben der zuständigen Stiftungsbehörde
 innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes Name, Sitz,
@@ -495,6 +535,7 @@ sechs Monaten, nachdem ihr die Satzung vorgelegt wurde, beanstandet.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE004100307)
 
 Bestehen Zweifel über die Rechtsnatur einer Stiftung, die für sie
 geltende Satzung oder die Stiftungsverwaltung, so entscheidet darüber
@@ -507,6 +548,7 @@ Stiftung soll gehört werden.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE004200307)
 
 (1) Dieses Gesetz tritt am 24. September 1990 in Kraft.
 
@@ -516,6 +558,7 @@ Stiftung soll gehört werden.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stiftbtg/DDNR014830990.html#DDNR014830990BJNE004300307)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**

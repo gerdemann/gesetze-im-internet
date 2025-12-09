@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminbf_bibbwidano/BJNR142400000.html#BJNR142400000BJNE000100310)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
@@ -36,6 +37,7 @@ Verwaltungsaktes oder die Ablehnung des Anspruches zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminbf_bibbwidano/BJNR142400000.html#BJNR142400000BJNE000200310)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich
@@ -45,6 +47,7 @@ Entscheidung über Widersprüche zuständig ist.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminbf_bibbwidano/BJNR142400000.html#BJNR142400000BJNE000300310)
 
 Diese Anordnung tritt mit Wirkung vom 1. Oktober 2000 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -53,6 +56,7 @@ sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminbf_bibbwidano/BJNR142400000.html#BJNR142400000BJNE000400310)
 
 Die Bundesministerin für Bildung und Forschung
 

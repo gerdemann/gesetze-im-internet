@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000000000)
 
 Auf Grund des § 71 Abs. 2 und 3 des Arzneimittelgesetzes in der
 Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) in
@@ -32,6 +33,7 @@ Verteidigung und dem Bundesministerium des Innern:
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000101310)
 
 (1) Zweck dieser Verordnung ist es, die Versorgung der Bevölkerung mit
 kaliumiodidhaltigen Arzneimitteln bei radiologischen Ereignissen
@@ -47,6 +49,7 @@ diesen vorrätig gehalten und zum Endverbrauch abgegeben werden.
 
 
 ## § 2 Ausnahmen vom Siebenten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000200000)
 
 (1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes können die in
 § 1 Abs. 2 genannten Arzneimittel vom pharmazeutischen Unternehmer und
@@ -60,6 +63,7 @@ abgegeben werden.
 
 
 ## § 3 Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000300000)
 
 Abweichend von § 10 Abs. 1 Nr. 9 und § 10 Abs. 8 des
 Arzneimittelgesetzes ist die Angabe des Verfalldatums auf den
@@ -72,6 +76,7 @@ Arzneimittel aufzubewahren.
 
 
 ## § 4 Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000400000)
 
 § 55 Abs. 8 des Arzneimittelgesetzes findet keine Anwendung, wenn
 kaliumiodidhaltige Arzneimittel nach § 1 Abs. 2 dieser Verordnung im
@@ -85,11 +90,13 @@ pharmazeutischen Regeln entsprachen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000500000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kiv/BJNR085000003.html#BJNR085000003BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

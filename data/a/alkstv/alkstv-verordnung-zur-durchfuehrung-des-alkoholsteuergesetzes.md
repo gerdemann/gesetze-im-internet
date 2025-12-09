@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000100000)
 
 Es verordnen
 
@@ -51,6 +52,7 @@ Es verordnen
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000301123)
 
 Im Sinne dieser Verordnung ist:
 
@@ -135,6 +137,7 @@ Im Sinne dieser Verordnung ist:
 
 
 ## § 1a Hauptzollamt; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008100123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -156,6 +159,7 @@ für den Anwendungsbereich dieser Verordnung
 
 
 ## § 2 Alkoholgehalt
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000400000)
 
 (1) Der Alkoholgehalt ist der Anteil des reinen Alkohols an der
 Gesamtmenge eines Gemisches.
@@ -254,6 +258,7 @@ Richtlinie
 
 
 ## § 3 Alkoholmenge
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000500000)
 
 (1) Die Alkoholmenge ist das in Litern ausgedrückte Volumen des reinen
 Alkohols bei einer Temperatur von 20 Grad Celsius.
@@ -278,6 +283,7 @@ Volumenprozent vom tatsächlichen Alkoholgehalt ab.
 
 
 ## § 4 Steuerlager, Anforderung an die Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000601123)
 
 (1) Ein Steuerlager umfasst
 
@@ -354,6 +360,7 @@ Steueraufsicht bestimmen, dass
 
 
 ## § 5 Steuerlagerinhaber, Antrag auf Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000701123)
 
 (1) Der Antrag auf Erlaubnis, als Steuerlagerinhaber tätig zu sein,
 ist beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu
@@ -394,6 +401,7 @@ betreiben, beantragt er in entsprechender Anwendung der Absätze 1 bis
 
 
 ## § 6 Steuerlagerinhaber, Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000802123)
 
 (1) Das Hauptzollamt erteilt die Erlaubnis, als Steuerlagerinhaber
 tätig zu sein, schriftlich oder elektronisch unter Widerrufsvorbehalt
@@ -442,6 +450,7 @@ Absätze 1 bis 4 bleiben unberührt.
 
 
 ## § 7 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE000901123)
 
 (1) Das Hauptzollamt legt die Höhe der Sicherheitsleistung unter
 Berücksichtigung des § 5 Absatz 1 Satz 4 und 5 des Gesetzes fest. Es
@@ -456,6 +465,7 @@ unberührt.
 
 
 ## § 7a Überprüfung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008200123)
 
 Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -467,6 +477,7 @@ oder der Neuerteilung durchgeführt.
 
 
 ## § 8 Änderung von Verhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001002123)
 
 (1) Der Steuerlagerinhaber hat dem Hauptzollamt die Änderung der nach
 § 5 Absatz 1, 2 Satz 1 und Absatz 3 Satz 1 angegebenen Verhältnisse
@@ -551,6 +562,7 @@ schriftlich anzuzeigen:
 
 
 ## § 9 Steuerlagerinhaber; Erlöschen und Fortbestand der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001101123)
 
 (1) Die Erlaubnis nach § 6 erlischt unbeschadet des § 124 Absatz 2 der
 Abgabenordnung durch
@@ -680,6 +692,7 @@ Zwecke der Räumung bis zum Fristablauf weiter.
 
 
 ## § 10 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001201123)
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -703,6 +716,7 @@ aufgezeichnet werden.
 
 
 ## § 11 Vollständige Zerstörung, unwiederbringlicher Gesamt- oder Teilverlust und Vernichtung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001302123)
 
 (1) Sind Alkoholerzeugnisse unbeabsichtigt vollständig zerstört worden
 oder vollständig oder teilweise unwiederbringlich verloren gegangen,
@@ -731,6 +745,7 @@ Beförderung geleistete Sicherheit freigegeben.
 
 
 ## § 12 Bestandsaufnahme im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001401123)
 
 (1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine
 Bestandsaufnahme durchzuführen und innerhalb eines Monats nach
@@ -761,6 +776,7 @@ oder vernichtet werden.
 
 
 ## § 13 Fehlmengen im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001501123)
 
 (1) Fehlmengen im Steuerlager, die auf Verarbeitungs-, Abfüll- und
 Lagerungsverluste zurückzuführen sind, gelten als unwiederbringlich
@@ -843,6 +859,7 @@ Schwierigkeiten führt.
 
 
 ## § 14 Zwangsanfall
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001602123)
 
 (1) Alkoholerzeugnisse gelten nach Maßgabe des Absatzes 2 als in einem
 Steuerlager hergestellt, wenn sie in einem betriebswirtschaftlich
@@ -871,6 +888,7 @@ Verhältnisse dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
 
 
 ## § 15 Aufnahme von Abfindungsalkohol
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001701123)
 
 (1) Das Hauptzollamt kann dem Steuerlagerinhaber unter
 Widerrufsvorbehalt gestatten, Abfindungsalkohol, ausgenommen aus
@@ -915,6 +933,7 @@ besondere Lagerbuchführung an.
 
 
 ## § 15a Amtliche Bescheinigung für unabhängige Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE009200123)
 
 (1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige
 Hersteller zur Gewährung ermäßigter Steuersätze in anderen
@@ -946,6 +965,7 @@ Mitgliedstaat selbst ausgestellte Bescheinigung, wenn
 
 
 ## § 16 Registrierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001802123)
 
 (1) Wer als registrierter Empfänger Alkoholerzeugnisse unter
 Steueraussetzung nicht nur gelegentlich empfangen will, hat die
@@ -1014,6 +1034,7 @@ Gesetzes zu leisten.
 
 
 ## § 17 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE001903123)
 
 (1) Wer als registrierter Versender Alkoholerzeugnisse vom Ort der
 Einfuhr unter Steueraussetzung versenden will, hat die Erlaubnis beim
@@ -1066,6 +1087,7 @@ entsprechend.
 
 
 ## § 18 Begünstigte, Ausstellen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002003123)
 
 (1) Ein Begünstigter, der Alkoholerzeugnisse unter Steueraussetzung
 empfangen will, hat vor Beginn der Beförderung eine
@@ -1127,6 +1149,7 @@ die Steueranmeldung gilt § 44 entsprechend.
 
 
 ## § 19 Antrag auf Erlaubnis zum Betrieb einer Abfindungsbrennerei
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002101123)
 
 (1) Der Antrag auf Erlaubnis zum Betrieb einer Abfindungsbrennerei
 nach § 10 Absatz 1 des Gesetzes ist beim Hauptzollamt nach amtlich
@@ -1190,6 +1213,7 @@ Das Hauptzollamt kann geeignete Unterlagen als Nachweis anfordern.
 
 
 ## § 20 Erteilung der Erlaubnis zum Betrieb einer Abfindungsbrennerei
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002202123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis. In der Erlaubnis sind die Räume, die
@@ -1218,6 +1242,7 @@ angezeigte Betriebszeit auf das erforderliche Maß beschränken.
 
 
 ## § 21 Erlöschen und Fortbestand der Erlaubnis zum Betrieb einer Abfindungsbrennerei
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002301123)
 
 (1) Bei Verkleinerung des landwirtschaftlichen Betriebs des
 Abfindungsbrenners erlischt die Erlaubnis nicht, wenn der verbleibende
@@ -1235,6 +1260,7 @@ des Absatzes 1 erfüllt.
 
 
 ## § 22 Belegheft, Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002401123)
 
 (1) Der Abfindungsbrenner hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -1245,6 +1271,7 @@ und die Reinigung des Alkohols zu führen hat.
 
 
 ## § 23 Gewinnung von Alkohol in einer Abfindungsbrennerei, Abfindungsanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002501123)
 
 (1) Die Gewinnung von Abfindungsalkohol ist mit der
 Abfindungsanmeldung zu beantragen. Die Abfindungsanmeldung ist jeweils
@@ -1285,6 +1312,7 @@ entfernen.
 
 
 ## § 24 Amtliche Ausbeutesätze der zugelassenen Rohstoffe
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002601123)
 
 (1) Der amtliche Ausbeutesatz im Sinne des § 9 Absatz 3 und des § 11
 Absatz 3 des Gesetzes ist die Menge reiner Alkohol, die
@@ -1330,6 +1358,7 @@ Ernährung und Landwirtschaft.
 
 
 ## § 25 Verarbeitung nicht selbstgewonnener Rohstoffe
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002700000)
 
 In Abfindungsbrennereien dürfen auch zugelassene Rohstoffe verarbeitet
 werden, die nicht durch den Abfindungsbrenner in seinem
@@ -1337,6 +1366,7 @@ landwirtschaftlichen Betrieb selbst gewonnen wurden.
 
 
 ## § 26 Vereinfachtes Lohnbrennen
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002802123)
 
 (1) Alkohol, der von einem Kontingentnehmer in seiner
 Abfindungsbrennerei gewonnen wird, gilt auf Antrag nach Absatz 2 als
@@ -1382,6 +1412,7 @@ anzuzeigen. Die §§ 8 und 9 gelten entsprechend.
 
 
 ## § 27 Stoffbesitzer
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE002901123)
 
 (1) Stoffbesitzer dürfen Alkohol nur in einer nach § 20 Absatz 1
 zugelassenen Abfindungsbrennerei gewinnen oder reinigen. Das
@@ -1401,6 +1432,7 @@ Eigenschaft als Stoffbesitzer wiederzuerkennen.
 
 
 ## § 28 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003001123)
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -1422,6 +1454,7 @@ Voraussetzungen und Rahmenbedingungen einzuhalten.
 
 
 ## § 29 Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003102123)
 
 (1) Sollen Alkoholerzeugnisse unter Steueraussetzung befördert werden
 aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im
@@ -1479,6 +1512,7 @@ dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
 
 ## § 30 Mitführen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003200000)
 
 Werden Alkoholerzeugnisse unter Steueraussetzung zu Begünstigten
 befördert, hat der Beförderer während der Beförderung die dem
@@ -1490,6 +1524,7 @@ nimmt der Versender zu seinen Aufzeichnungen.
 
 
 ## § 31 Annullierung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003302123)
 
 (1) Der Versender kann das elektronische Verwaltungsdokument
 annullieren, solange die Beförderung der Alkoholerzeugnisse noch nicht
@@ -1516,6 +1551,7 @@ eingehende Annullierungsmeldung an diesen weiter.
 
 
 ## § 32 Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen bei Verwendung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003402123)
 
 (1) Während der Beförderung der Alkoholerzeugnisse unter
 Steueraussetzung kann der Versender den Bestimmungsort oder den
@@ -1559,6 +1595,7 @@ geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 
 
 ## § 33 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003502123)
 
 (1) Nach der Aufnahme der Alkoholerzeugnisse, auch von Teilmengen, an
 einem Bestimmungsort, der in § 14 Absatz 1 Nummer 1 und § 15 Absatz 1
@@ -1655,6 +1692,7 @@ Alkoholerzeugnisse.
 
 
 ## § 34 Beförderungen im Steuergebiet in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003602123)
 
 (1) Bei Beförderungen von Alkoholerzeugnissen unter Steueraussetzung
 zwischen Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder,
@@ -1696,6 +1734,7 @@ entsprechend.
 
 
 ## § 35 Beförderungen im Steuergebiet in Betriebe von Verwendern
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003702123)
 
 (1) Bei Beförderungen von Alkoholerzeugnissen unter Steueraussetzung
 in Betriebe von Verwendern nach § 28 Absatz 1 des Gesetzes hat der
@@ -1808,6 +1847,7 @@ Aufzeichnungen zu nehmen.
 
 
 ## § 36 Beginn einer Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003803123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender abweichend von § 29 nur dann eine
@@ -1872,6 +1912,7 @@ Für die Eingangs- und Ausfuhrmeldung ist § 33 anzuwenden.
 
 
 ## § 37 Annullierung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE003901123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender das elektronische Verwaltungsdokument
@@ -1893,6 +1934,7 @@ zu übermitteln. § 31 Absatz 3 und 4 gilt entsprechend.
 
 
 ## § 38 Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004001123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender den Bestimmungsort oder den Empfänger
@@ -1932,6 +1974,7 @@ Alkoholerzeugnisse sowie die Vorlage der zweiten Ausfertigung des
 
 
 ## § 39 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004102123)
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 33 Absatz 1 nach
 Beendigung einer Beförderung von Alkoholerzeugnissen unter
@@ -2012,6 +2055,7 @@ gilt entsprechend.
 
 
 ## § 40 Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004201123)
 
 (1) Liegt kein Nachweis nach § 33 Absatz 6 vor, bestätigt das für den
 Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen
@@ -2045,6 +2089,7 @@ vorgesehen war.
 
 
 ## § 41 Art und Höhe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004301123)
 
 (1) Die Sicherheit für Beförderungen von Alkoholerzeugnissen unter
 Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder
@@ -2066,6 +2111,7 @@ Angemessenheit der Bürgschaftssumme.
 
 
 ## § 42 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004403123)
 
 (1) Werden beim Empfänger im Steuergebiet Abweichungen festgestellt,
 entscheidet das Hauptzollamt über die steuerliche Behandlung von
@@ -2091,9 +2137,11 @@ der Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 
 ## § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004501123)
 
 
 ## § 44 Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004601123)
 
 (1) Die Steueranmeldung nach § 19 Absatz 1 Satz 1 und Absatz 2 Satz 1
 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
@@ -2110,6 +2158,7 @@ Abgabenordnung entsprechend.
 
 
 ## § 45 Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004702123)
 
 Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung wird
 vom Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
@@ -2118,6 +2167,7 @@ oder Steuerentlastung mindestens 25 Euro beträgt.
 
 
 ## § 46 Anmeldung der Alkoholerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004801123)
 
 Alkoholerzeugnisse aus Drittländern oder Drittgebieten sind in den
 Fällen der Einfuhr nach den Zollvorschriften mit den für die
@@ -2126,6 +2176,7 @@ anzumelden. Die Steuererklärung ist in der Zollanmeldung abzugeben.
 
 
 ## § 47 Beförderungen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE004902123)
 
 (1) Werden mehr als 10 Liter Alkohol oder Alkohol zu Trinkzwecken nach
 § 23 des Gesetzes zu privaten Zwecken in das Steuergebiet befördert,
@@ -2139,6 +2190,7 @@ nicht als Eigenbedarf nach § 23 des Gesetzes.
 
 
 ## § 48 Zertifizierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005001123)
 
 (1) Wer als zertifizierter Empfänger nach § 24a Absatz 1 Satz 1 Nummer
 1 des Gesetzes Alkoholerzeugnisse des steuerrechtlich freien Verkehrs
@@ -2240,6 +2292,7 @@ fällt.
 
 
 ## § 48a Zertifizierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008300123)
 
 (1) Wer als zertifizierter Versender nach § 24b Absatz 1 Satz 1 Nummer
 1 des Gesetzes Alkoholerzeugnisse des steuerrechtlich freien Verkehrs
@@ -2326,6 +2379,7 @@ Beförderung nicht unter § 47 oder unter § 50 fällt.
 
 
 ## § 48b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008400123)
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -2356,6 +2410,7 @@ zulassen. Die Zulassung erfolgt im Rahmen der jeweiligen Erlaubnis.
 
 
 ## § 48c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008500123)
 
 (1) Sollen Alkoholerzeugnisse des steuerrechtlich freien Verkehrs nach
 diesem Abschnitt aus dem Steuergebiet befördert werden
@@ -2395,6 +2450,7 @@ zertifizierten Empfänger im Steuergebiet weitergeleitet.
 
 
 ## § 48d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008600123)
 
 (1) Während der Beförderung der Alkoholerzeugnisse kann der
 zertifizierte Versender den Bestimmungsort ändern und zwar
@@ -2415,6 +2471,7 @@ Alkoholerzeugnissen gilt § 32 Absatz 2, 3 und 6 entsprechend.
 
 
 ## § 48e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008700123)
 
 (1) Nach der Aufnahme der Alkoholerzeugnisse, auch von Teilmengen, an
 einem von der Erlaubnis umfassten Bestimmungsort hat der zertifizierte
@@ -2453,6 +2510,7 @@ wurde.
 
 
 ## § 48f Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008800123)
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung und kann das vereinfachte elektronische Verwaltungsdokument
@@ -2462,6 +2520,7 @@ nach amtlich vorgeschriebenem Vordruck zu verwenden.
 
 
 ## § 48g Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008900123)
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das
 Steuergebiet kein Nachweis nach § 48e Absatz 4 oder § 48f in
@@ -2491,9 +2550,11 @@ akzeptiert wird, als hinreichender Ersatznachweis dafür, dass
 
 
 ## § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005101123)
 
 
 ## § 50 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005202123)
 
 (1) Wer als Versandhändler nach § 25 Absatz 1 des Gesetzes
 Alkoholerzeugnisse an Privatpersonen im Steuergebiet liefern will, hat
@@ -2562,6 +2623,7 @@ für den Steuervertreter erteilte Erlaubnis erlischt.
 
 
 ## § 51 Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005301123)
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt-
 oder Teilverlusts von Alkoholerzeugnissen gelten § 11 Absatz 2 und §
@@ -2569,6 +2631,7 @@ oder Teilverlusts von Alkoholerzeugnissen gelten § 11 Absatz 2 und §
 
 
 ## § 51a Steueranmeldung; Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE009000123)
 
 (1) Die Steueranmeldung nach § 26b Absatz 1 bis 4 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
@@ -2578,6 +2641,7 @@ Kleinbetragsregelung gelten § 44 Absatz 2 und § 45 entsprechend.
 
 
 ## § 52 Vergällung von Alkohol
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005401123)
 
 (1) Soll Alkohol vergällt werden, ist die Vergällung vorbehaltlich des
 Absatzes 3 Satz 1 vom Steuerlagerinhaber oder Verwender unter Angabe
@@ -2605,6 +2669,7 @@ zu lagern.
 
 
 ## § 53 Vollständig vergällter Alkohol
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005501123)
 
 (1) Alkohol ist vollständig vergällt, wenn er vergällt wurde nach den
 Vorschriften der Verordnung (EG) Nr. 3199/93 der Kommission vom 22.
@@ -2643,6 +2708,7 @@ Informationsplattform www.zoll.de zu veröffentlichen.
 
 
 ## § 54 Zugelassene Vergällungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005601123)
 
 (1) Zur Vergällung von 100 Litern reinen Alkohols werden folgende
 Vergällungsmittel zugelassen:
@@ -2733,6 +2799,7 @@ entsprechend.
 
 
 ## § 55 Entgällung, Absehen von der Vergällung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005701123)
 
 (1) Es ist verboten,
 
@@ -2759,6 +2826,7 @@ Hauptzollamt auf Antrag des Verwenders von einer Vergällung absehen.
 
 
 ## § 56 Steuerfreie Alkoholerzeugnisse aus vergällten Alkoholerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005800000)
 
 Alkoholerzeugnisse nach § 27 Absatz 2 Nummer 5 des Gesetzes aus einem
 anderen Mitgliedstaat oder einem Drittland, die nach § 27 Absatz 1 des
@@ -2772,6 +2840,7 @@ befürchten lassen.
 
 
 ## § 57 Allgemeine Verwendungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE005901123)
 
 (1) Die gewerbliche Verwendung von Alkoholerzeugnissen, die, bezogen
 auf 100 Liter reinen Alkohol, mit den in § 54 Absatz 1 Nummer 1
@@ -2790,6 +2859,7 @@ Zwecke.
 
 
 ## § 58 Antrag auf Erlaubnis zur steuerfreien Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006001123)
 
 (1) Wer in anderen als den in § 57 genannten Fällen Alkoholerzeugnisse
 steuerfrei verwenden will, hat die Erlaubnis vor Beginn der Verwendung
@@ -2836,6 +2906,7 @@ anderer Lebensmittel gewerblich eingesetzt zu werden.
 
 
 ## § 59 Erteilung der Erlaubnis, Erlaubnisschein
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006102123)
 
 (1) Das Hauptzollamt erteilt dem Verwender schriftlich oder
 elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien
@@ -2863,6 +2934,7 @@ entsprechend.
 
 
 ## § 60 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006201123)
 
 (1) Der Verwender hat ein Belegheft zu führen. Das Hauptzollamt kann
 dazu Anordnungen treffen.
@@ -2881,6 +2953,7 @@ entgegenstehen.
 
 
 ## § 61 Lagerung, Bestandsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006302123)
 
 (1) Der Verwender darf die Alkoholerzeugnisse nur an den angemeldeten
 Orten empfangen und lagern. Das Hauptzollamt kann Ausnahmen zulassen,
@@ -2909,6 +2982,7 @@ Absatz 1 gelten entsprechend.
 
 
 ## § 62 Abgabe von Alkoholerzeugnissen, zweckwidrige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006401123)
 
 (1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in
 Ausnahmefällen Alkoholerzeugnisse im Rahmen seiner Erlaubnis zur
@@ -2923,6 +2997,7 @@ vorgeschriebenem Vordruck abzugeben.
 
 
 ## § 63 Steuerentlastung im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006502123)
 
 (1) Der Steuerlagerinhaber darf von ihm selbst versteuerte
 Alkoholerzeugnisse in sein Steuerlager aufnehmen. Für die Erfassung in
@@ -2969,6 +3044,7 @@ entsprechend.
 
 
 ## § 64 Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006601123)
 
 (1) In den Fällen des § 30 Absatz 1 des Gesetzes ist die
 Steuerentlastung mit einer Entlastungsanmeldung nach amtlich
@@ -3011,6 +3087,7 @@ entsprechend.
 
 
 ## § 65 Anmeldungen im Rahmen der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006701123)
 
 (1) Wer ohne Erlaubnis als Abfindungsbrenner Alkohol zu Trinkzwecken
 außerhalb des Steuerlagers zu gewerblichen Zwecken herstellen will,
@@ -3105,6 +3182,7 @@ durchgeführt.
 
 
 ## § 66 Unterstützungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006800000)
 
 Erlaubnisinhaber sind verpflichtet, Amtshandlungen im Betrieb zu
 unterstützen. Sie haben Folgendes unentgeltlich zur Verfügung zu
@@ -3127,6 +3205,7 @@ stellen:
 
 
 ## § 67 Probenentnahme im Rahmen der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE006901123)
 
 Das Hauptzollamt kann von folgenden Waren, die der Alkoholsteuer
 unterliegen oder unterliegen können, zu Untersuchungszwecken
@@ -3151,6 +3230,7 @@ Entnahmebestätigung auszustellen.
 
 
 ## § 68 Gewerbliche Nutzung von Brenngeräten
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE007001123)
 
 (1) Wer ein Brenngerät oder ein sonstiges zur Herstellung oder
 Reinigung von Alkohol geeignetes Gerät mit einem Raumgehalt von mehr
@@ -3199,6 +3279,7 @@ zu befürchten ist.
 
 
 ## § 69 Zur Gärung verwendete Gefäße
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE007101123)
 
 An Gefäßen, die zur alkoholischen Gärung verwendet werden, dürfen
 keine Einrichtungen vorhanden sein, die zum Aufkochen des Inhalts
@@ -3210,13 +3291,16 @@ weitere Ausnahmen von Satz 1 zulassen.
 
 
 ## § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE007201123)
 
 
 ## (XXXX) §§ 71 bis 76 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE007301123)
 
 
 
 ## § 77 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE007901123)
 
 (1) Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 1 der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
@@ -3366,6 +3450,7 @@ der vorgeschriebenen Weise oder nicht rechtzeitig beigibt.
 
 
 ## § 78 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/alkstv/BJNR043100017.html#BJNR043100017BJNE008001123)
 
 Für Beförderungen von Alkoholerzeugnissen des steuerrechtlich freien
 Verkehrs mit einem vereinfachten Begleitdokument aus anderen, in

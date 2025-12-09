@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000100319)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -31,12 +32,14 @@ verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000201377)
 
 Der Ausbildungsberuf des Berg- und Maschinenmannes und der Berg- und
 Maschinenfrau wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000300319)
 
 Die Ausbildung dauert zwei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -51,6 +54,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000400319)
 
 (1) Gegenstand der für beide Fachrichtungen gemeinsamen
 Berufsausbildung sind mindestens die folgenden Fertigkeiten und
@@ -180,6 +184,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000500319)
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -191,12 +196,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000600319)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000700319)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -205,6 +212,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000800319)
 
 (1) Während der Berufsausbildung ist eine Zwischenprüfung
 durchzuführen. Sie soll nach dem ersten Ausbildungsjahr stattfinden.
@@ -227,6 +235,7 @@ dieser Prüfungsdauer abgewichen werden.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE000900319)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4
 genannten Fertigkeiten und Kenntnisse sowie auf den im
@@ -464,21 +473,25 @@ der Kenntnisprüfung mindestens ausreichende Leistungen erbracht sind.
 
 
 ## (XXXX) §§ 9 und 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE001001377)
 
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE001200319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE001300319)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE001401377)
 
 (Fundstelle: BGBl. I 1979, 841 - 848;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1393,6 +1406,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/bergmausbv/BJNR008370979.html#BJNR008370979BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

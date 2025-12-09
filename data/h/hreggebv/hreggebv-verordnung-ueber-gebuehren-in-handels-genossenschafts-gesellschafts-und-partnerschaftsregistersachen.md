@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000100000)
 
 Auf Grund des § 79a der Kostenordnung, der durch Artikel 1 Nr. 7 des
 Gesetzes vom 3. Juli 2004 (BGBl. I S. 1410) eingefügt worden ist,
@@ -28,6 +29,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000206125)
 
 Für Eintragungen in das Handels-, Genossenschafts-, Gesellschafts-
 oder Partnerschaftsregister, die Entgegennahme, Prüfung und
@@ -44,6 +46,7 @@ freiwilligen Gerichtsbarkeit.
 
 
 ## § 2 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000303125)
 
 (1) Neben der Gebühr für die Ersteintragung werden nur Gebühren für
 die gleichzeitig angemeldete Eintragung der Errichtung einer
@@ -99,6 +102,7 @@ behandelt.
 
 
 ## § 2a Recht der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE001000301)
 
 Umwandlungen und Verschmelzungen nach dem Recht der Europäischen Union
 stehen hinsichtlich der Gebühren den Umwandlungen nach dem
@@ -106,6 +110,7 @@ Umwandlungsgesetz gleich.
 
 
 ## § 3 Zurücknahme
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000401160)
 
 (1) Wird eine Anmeldung zurückgenommen, bevor die Eintragung erfolgt
 oder die Anmeldung zurückgewiesen worden ist, sind 120 Prozent der für
@@ -132,6 +137,7 @@ Euro.
 
 
 ## § 4 Zurückweisung
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000501160)
 
 Wird eine Anmeldung zurückgewiesen, sind 170 Prozent der für die
 Eintragung bestimmten Gebühren zu erheben. Bei der Zurückweisung einer
@@ -141,6 +147,7 @@ die Eintragung einer Prokura unberücksichtigt.
 
 
 ## § 5 Zurücknahme oder Zurückweisung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000601160)
 
 Wird die Anmeldung einer sonstigen späteren Eintragung, die mehrere
 Tatsachen zum Gegenstand hat, teilweise zurückgenommen oder
@@ -150,17 +157,20 @@ auszugehen. § 3 Absatz 2 bleibt unberührt.
 
 
 ## § 5a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE001100160)
 
 Für Kosten, die vor dem Inkrafttreten einer Änderung der
 Rechtsverordnung fällig geworden sind, gilt das bisherige Recht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000801311)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/hreggebv/BJNR256200004.html#BJNR256200004BJNE000914125)
 
 (Fundstelle: BGBl. I 2010, 1732 – 1736;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

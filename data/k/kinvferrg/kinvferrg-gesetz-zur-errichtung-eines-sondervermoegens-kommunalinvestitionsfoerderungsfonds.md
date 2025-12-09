@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung eines Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000100000)
 
 Es wird ein Sondervermögen des Bundes mit der Bezeichnung
 „Kommunalinvestitionsförderungsfonds“ (KInvF) errichtet.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000200000)
 
 Aus dem Sondervermögen sollen Finanzhilfen an die Länder zur Förderung
 von besonders bedeutsamen Investitionen finanzschwacher Gemeinden und
@@ -33,6 +35,7 @@ Gemeindeverbände gewährt werden.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000300000)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
 Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der
@@ -48,12 +51,14 @@ haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
 
 ## § 4 Finanzierung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000401360)
 
 Der Bund stellt dem Sondervermögen einen Betrag in Höhe von insgesamt
 7 Milliarden Euro zur Verfügung.
 
 
 ## § 5 Wirtschaftsplan, Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000501360)
 
 (1) Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt, der für das Wirtschaftsjahr 2015 als
@@ -73,6 +78,7 @@ durch das Sondervermögen ist nicht zulässig.
 
 
 ## § 6 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000600000)
 
 Das Bundesministerium der Finanzen legt jährlich Rechnung über die
 Einnahmen und Ausgaben des Sondervermögens. Sie ist als Übersicht der
@@ -80,11 +86,13 @@ Haushaltsrechnung des Bundes beizufügen.
 
 
 ## § 7 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000700000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 8 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000804123)
 
 Das Sondervermögen ist nach Erfüllung seiner gesetzlichen Aufgaben,
 spätestens mit Ablauf des Jahres 2027 aufzulösen. Ein verbleibendes
@@ -95,6 +103,7 @@ bedarf.
 
 
 ## Anlage Anlage zu Art 1 § 5 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE000900000)
 
 (Fundstelle: BGBl. I 2015, 978 - 979)
 
@@ -494,6 +503,7 @@ erbringen können und dürfen.
 
 
 ## Anlage Anlage zu Art 6 § 5 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/kinvferrg/BJNR097410015.html#BJNR097410015BJNE001000360)
 
 (Fundstelle: BGBl. I 2017, 3156 - 3157)
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bzollv_v/BJNR054100994.html#BJNR054100994BJNE000100307)
 
 Auf Grund des § 19 Abs. 1 des Zollverwaltungsgesetzes vom 21. Dezember
 1992 (BGBl. I S. 2125), der durch Artikel 6 Abs. 60 des Gesetzes vom
@@ -31,6 +32,7 @@ Finanzen:
 
 
 ## § 1 Aufgabenübertragung auf die Deutsche Bahn Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bzollv_v/BJNR054100994.html#BJNR054100994BJNE000201301)
 
 Der Deutsche Bahn Aktiengesellschaft wird die Befugnis übertragen,
 durch ihre Bediensteten die nachstehenden Hoheitsaufgaben wahrnehmen
@@ -128,6 +130,7 @@ zu lassen:
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bzollv_v/BJNR054100994.html#BJNR054100994BJNE000300307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stauskv/BJNR278300007.html#BJNR278300007BJNE000100000)
 
 Auf Grund des § 89 Abs. 2 Satz 4 der Abgabenordnung in der Fassung der
 Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003 I S. 61),
@@ -29,6 +30,7 @@ der Finanzen:
 
 
 ## § 1 Form und Inhalt des Antrags auf Erteilung einer verbindlichen Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/stauskv/BJNR278300007.html#BJNR278300007BJNE000203123)
 
 (1) Der Antrag auf Erteilung einer verbindlichen Auskunft ist
 schriftlich oder elektronisch bei der nach § 89 Absatz 2 Satz 2 oder
@@ -180,6 +182,7 @@ Auskunft zugrunde liegenden Sachverhalt verwirklichen soll.
 
 
 ## § 2 Bindung einer verbindlichen Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/stauskv/BJNR278300007.html#BJNR278300007BJNE000301360)
 
 (1) Die von der nach § 89 Abs. 2 Satz 2 und 3 der Abgabenordnung
 zuständigen Finanzbehörde erteilte verbindliche Auskunft ist für die
@@ -211,6 +214,7 @@ unrichtig war.
 
 
 ## § 3 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/stauskv/BJNR278300007.html#BJNR278300007BJNE000402123)
 
 § 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli 2017
 geltenden Fassung sind erstmals auf Anträge auf Erteilung einer
@@ -223,6 +227,7 @@ einer verbindlichen Auskunft anzuwenden, die nach dem 31. Dezember
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stauskv/BJNR278300007.html#BJNR278300007BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

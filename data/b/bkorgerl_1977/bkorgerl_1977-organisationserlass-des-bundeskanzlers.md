@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1977/BJNR101280977.html#BJNR101280977BJNE000200333)
 
 Aus dem Geschäftsbereich des Bundesministers für Jugend, Familie und
 Gesundheit werden dem Bundesminister für Arbeit und Sozialordnung die
@@ -31,6 +32,7 @@ mitgeteilt.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1977/BJNR101280977.html#BJNR101280977BJNE000300333)
 
 
 1.  Das Presse- und Informationsamt der Bundesregierung unter der Leitung

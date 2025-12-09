@@ -34,12 +34,14 @@ sind beachtet worden.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000203360)
 
 (1) Dieses Gesetz regelt die Registrierung von Betrieben zur Haltung
 von Legehennen zum Zweck der Kennzeichnung von Eiern. Es dient auch
@@ -65,6 +67,7 @@ Gemeinschaft oder Europäischen Union im Anwendungsbereich des Satzes
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000300000)
 
 Im Sinne dieses Gesetzes sind:
 
@@ -98,6 +101,7 @@ Im Sinne dieses Gesetzes sind:
 
 
 ## § 3 Betriebsaufnahme, Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000402360)
 
 (1) Ein Betrieb im Sinne des § 1 Abs. 2 darf erst aufgenommen werden,
 wenn der Inhaber des Betriebes diesen zuvor nach Maßgabe des Absatzes
@@ -174,6 +178,7 @@ vorgesehenen und zur Verfügung gestellten Vordrucke zu verwenden sind.
 
 
 ## § 4 Kennnummer
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000501360)
 
 (1) Die zuständige Behörde teilt dem Inhaber des Betriebes nach Abgabe
 der Anzeige nach § 3 Abs. 1 für jeden Stall unverzüglich eine
@@ -202,6 +207,7 @@ des Betriebes mit.
 
 
 ## § 5 Registerführung, Datenübermittlung, Datenlöschung
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000604360)
 
 (1) Die zuständige Behörde führt ein Register der Betriebe nach § 1
 Abs. 2 mit den nach § 3 erhobenen Daten und den nach § 4 mitgeteilten
@@ -273,6 +279,7 @@ Aufbewahrungsfrist besteht, bleiben unberührt.
 
 
 ## § 6 Inverkehrbringen von Eiern
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000700000)
 
 Ab dem 1. Januar 2004 darf der Inhaber eines Betriebes im Sinne des §
 1 Abs. 2 Eier nur aus einem Stall in Verkehr bringen, für den ihm eine
@@ -280,6 +287,7 @@ Kennnummer mitgeteilt worden ist.
 
 
 ## § 7 Überwachung, Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000801377)
 
 (1) Die Beachtung der Vorschriften dieses Gesetzes und der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen sowie der in § 1 Abs. 1
@@ -349,6 +357,7 @@ würde.
 
 
 ## § 8 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE000902360)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -392,6 +401,7 @@ mit Zustimmung des Bundesrates verlängert werden.
 
 
 ## § 9 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE001001377)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 dritter Staaten sowie den Organen und Einrichtungen der Europäischen
@@ -403,6 +413,7 @@ die Befugnis nach Satz 2 auf andere Landesbehörden übertragen.
 
 
 ## § 10 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE001101360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -444,6 +455,7 @@ Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 
 ## § 11 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE001201377)
 
 Ist eine Ordnungswidrigkeit nach § 10 Abs. 1 begangen worden, so
 können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
@@ -453,6 +465,7 @@ Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## § 12 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE001301377)
 
 (1) Abweichend von § 3 Abs. 1 Satz 1 sind Inhaber von Betrieben zur
 Haltung von Legehennen mit weniger als 350 Legehennen, die am 14.
@@ -470,6 +483,7 @@ Daten.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/legregg/BJNR189400003.html#BJNR189400003BJNE001400000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

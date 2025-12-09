@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000105140)
 
 
 
 ### § 1 Recht auf Erziehung, Elternverantwortung, Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE002406377)
 
 (1) Jeder junge Mensch hat ein Recht auf Förderung seiner Entwicklung
 und auf Erziehung zu einer selbstbestimmten, eigenverantwortlichen und
@@ -66,6 +68,7 @@ insbesondere
 
 
 ### § 2 Aufgaben der Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE002515377)
 
 (1) Die Jugendhilfe umfasst Leistungen und andere Aufgaben zugunsten
 junger Menschen und Familien.
@@ -150,6 +153,7 @@ junger Menschen und Familien.
 
 
 ### § 3 Freie und öffentliche Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE002605140)
 
 (1) Die Jugendhilfe ist gekennzeichnet durch die Vielfalt von Trägern
 unterschiedlicher Wertorientierungen und die Vielfalt von Inhalten,
@@ -167,6 +171,7 @@ wahrnehmen oder mit ihrer Ausführung betraut werden.
 
 
 ### § 4 Zusammenarbeit der öffentlichen Jugendhilfe mit der freien Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE002707377)
 
 (1) Die öffentliche Jugendhilfe soll mit der freien Jugendhilfe zum
 Wohl junger Menschen und ihrer Familien partnerschaftlich
@@ -185,6 +190,7 @@ Jugendlichen und Eltern stärken.
 
 
 ### § 4a Selbstorganisierte Zusammenschlüsse zur Selbstvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018200377)
 
 (1) Selbstorganisierte Zusammenschlüsse nach diesem Buch sind solche,
 in denen sich nicht in berufsständische Organisationen der Kinder- und
@@ -209,6 +215,7 @@ Zusammenschlüsse nach Maßgabe dieses Buches anregen und fördern.
 
 
 ### § 5 Wunsch- und Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE002808140)
 
 (1) Die Leistungsberechtigten haben das Recht, zwischen Einrichtungen
 und Diensten verschiedener Träger zu wählen und Wünsche hinsichtlich
@@ -225,6 +232,7 @@ Hilfeplans (§ 36) geboten ist.
 
 
 ### § 6 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE002908140)
 
 (1) Leistungen nach diesem Buch werden jungen Menschen, Müttern,
 Vätern und Personensorgeberechtigten von Kindern und Jugendlichen
@@ -249,6 +257,7 @@ unberührt.
 
 
 ### § 7 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003008377)
 
 (1) Im Sinne dieses Buches ist
 
@@ -302,6 +311,7 @@ vollendet haben.
 
 
 ### § 8 Beteiligung von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003109377)
 
 (1) Kinder und Jugendliche sind entsprechend ihrem Entwicklungsstand
 an allen sie betreffenden Entscheidungen der öffentlichen Jugendhilfe
@@ -326,6 +336,7 @@ wahrnehmbaren Form.
 
 
 ### § 8a Schutzauftrag bei Kindeswohlgefährdung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016504377)
 
 (1) Werden dem Jugendamt gewichtige Anhaltspunkte für die Gefährdung
 des Wohls eines Kindes oder Jugendlichen bekannt, so hat es das
@@ -418,6 +429,7 @@ Kindes oder des Jugendlichen nicht in Frage gestellt wird.
 
 
 ### § 8b Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017002377)
 
 (1) Personen, die beruflich in Kontakt mit Kindern oder Jugendlichen
 stehen, haben bei der Einschätzung einer Kindeswohlgefährdung im
@@ -447,6 +459,7 @@ Behinderungen Rechnung getragen.
 
 
 ### § 9 Grundrichtung der Erziehung, Gleichberechtigung von jungen Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003206377)
 
 Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben
 sind
@@ -477,6 +490,7 @@ sind
 
 
 ### § 9a Ombudsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018300377)
 
 In den Ländern wird sichergestellt, dass sich junge Menschen und ihre
 Familien zur Beratung in sowie Vermittlung und Klärung von Konflikten
@@ -491,6 +505,7 @@ Nähere regelt das Landesrecht.
 
 
 ### § 9b Aufarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE019400126)
 
 (1) Die nach Landesrecht zuständigen Träger der öffentlichen Kinder-
 und Jugendhilfe haben Personen bei Vorliegen eines berechtigten
@@ -529,6 +544,7 @@ vorliegt.
 
 
 ### § 10 Verhältnis zu anderen Leistungen und Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003320126)
 
 (1) Verpflichtungen anderer, insbesondere der Träger anderer
 Sozialleistungen und der Schulen, werden durch dieses Buch nicht
@@ -570,6 +586,7 @@ Gewalthilfegesetz vom 24. Februar 2025 (BGBl. 2025 I Nr. 57) vor.
 
 
 ### § 10a Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018400377)
 
 (1) Zur Wahrnehmung ihrer Rechte nach diesem Buch werden junge
 Menschen, Mütter, Väter, Personensorge- und Erziehungsberechtigte, die
@@ -617,6 +634,7 @@ des Personensorgeberechtigten am Gesamtplanverfahren nach § 117 Absatz
 
 
 ### § 10b Verfahrenslotse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018500377)
 
 (1) Junge Menschen, die Leistungen der Eingliederungshilfe wegen einer
 Behinderung oder wegen einer drohenden Behinderung geltend machen oder
@@ -640,14 +658,17 @@ Einrichtungen, insbesondere mit anderen Rehabilitationsträgern.
 
 
 ## Zweites Kapitel - Leistungen der Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000205140)
 
 
 
 ### Erster Abschnitt - Jugendarbeit, Jugendsozialarbeit, erzieherischer Kinder- und Jugendschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000305140)
 
 
 
 #### § 11 Jugendarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003407377)
 
 (1) Jungen Menschen sind die zur Förderung ihrer Entwicklung
 erforderlichen Angebote der Jugendarbeit zur Verfügung zu stellen. Sie
@@ -692,6 +713,7 @@ Lebensjahr vollendet haben, in angemessenem Umfang einbeziehen.
 
 
 #### § 12 Förderung der Jugendverbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003505140)
 
 (1) Die eigenverantwortliche Tätigkeit der Jugendverbände und
 Jugendgruppen ist unter Wahrung ihres satzungsgemäßen Eigenlebens nach
@@ -707,6 +729,7 @@ Menschen zum Ausdruck gebracht und vertreten.
 
 
 #### § 13 Jugendsozialarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003608377)
 
 (1) Jungen Menschen, die zum Ausgleich sozialer Benachteiligungen oder
 zur Überwindung individueller Beeinträchtigungen in erhöhtem Maße auf
@@ -735,6 +758,7 @@ Beschäftigungsangeboten abgestimmt werden.
 
 
 #### § 13a Schulsozialarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018600377)
 
 Schulsozialarbeit umfasst sozialpädagogische Angebote nach diesem
 Abschnitt, die jungen Menschen am Ort Schule zur Verfügung gestellt
@@ -747,6 +771,7 @@ Rechtsvorschriften erbracht werden.
 
 
 #### § 14 Erzieherischer Kinder- und Jugendschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003705140)
 
 (1) Jungen Menschen und Erziehungsberechtigten sollen Angebote des
 erzieherischen Kinder- und Jugendschutzes gemacht werden.
@@ -767,16 +792,19 @@ erzieherischen Kinder- und Jugendschutzes gemacht werden.
 
 
 #### § 15 Landesrechtsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003805140)
 
 Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten
 Aufgaben und Leistungen regelt das Landesrecht.
 
 
 ### Zweiter Abschnitt - Förderung der Erziehung in der Familie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000405140)
 
 
 
 #### § 16 Allgemeine Förderung der Erziehung in der Familie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE003911377)
 
 (1) Müttern, Vätern, anderen Erziehungsberechtigten und jungen
 Menschen sollen Leistungen der allgemeinen Förderung der Erziehung in
@@ -830,6 +858,7 @@ Landesrecht.
 
 
 #### § 17 Beratung in Fragen der Partnerschaft, Trennung und Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004006140)
 
 (1) Mütter und Väter haben im Rahmen der Jugendhilfe Anspruch auf
 Beratung in Fragen der Partnerschaft, wenn sie für ein Kind oder einen
@@ -864,6 +893,7 @@ nach Absatz 2 unterrichtet.
 
 
 #### § 18 Beratung und Unterstützung bei der Ausübung der Personensorge und des Umgangsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004212301)
 
 (1) Mütter und Väter, die allein für ein Kind oder einen Jugendlichen
 zu sorgen haben oder tatsächlich sorgen, haben Anspruch auf Beratung
@@ -905,6 +935,7 @@ Geltendmachung von Unterhalts- oder Unterhaltsersatzansprüchen.
 
 
 #### § 19 Gemeinsame Wohnformen für Mütter/Väter und Kinder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004308377)
 
 (1) Mütter oder Väter, die allein für ein Kind unter sechs Jahren zu
 sorgen haben oder tatsächlich sorgen, sollen gemeinsam mit dem Kind in
@@ -934,6 +965,7 @@ Personen sowie die Krankenhilfe nach Maßgabe des § 40 umfassen.
 
 
 #### § 20 Betreuung und Versorgung des Kindes in Notsituationen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004406377)
 
 (1) Eltern haben einen Anspruch auf Unterstützung bei der Betreuung
 und Versorgung des im Haushalt lebenden Kindes, wenn
@@ -975,6 +1007,7 @@ sichergestellt werden.
 
 
 #### § 21 Unterstützung bei notwendiger Unterbringung zur Erfüllung der Schulpflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004608140)
 
 Können Personensorgeberechtigte wegen des mit ihrer beruflichen
 Tätigkeit verbundenen ständigen Ortswechsels die Erfüllung der
@@ -991,10 +1024,12 @@ Vollendung des 21. Lebensjahres.
 
 
 ### Dritter Abschnitt - Förderung von Kindern in Tageseinrichtungen und in Kindertagespflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000506140)
 
 
 
 #### § 22 Grundsätze der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004708377)
 
 (1) Tageseinrichtungen sind Einrichtungen, in denen sich Kinder für
 einen Teil des Tages oder ganztägig aufhalten und in Gruppen gefördert
@@ -1046,6 +1081,7 @@ weiterentwickelt werden. Das Nähere regelt das Landesrecht.
 
 
 #### § 22a Förderung in Tageseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016304377)
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen die Qualität der
 Förderung in ihren Einrichtungen durch geeignete Maßnahmen
@@ -1093,6 +1129,7 @@ Einrichtungen anderer Träger durch geeignete Maßnahmen sicherstellen.
 
 
 #### § 23 Förderung in Kindertagespflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004810377)
 
 (1) Die Förderung in Kindertagespflege nach Maßgabe von § 24 umfasst
 die Vermittlung des Kindes zu einer geeigneten
@@ -1147,6 +1184,7 @@ gefördert werden.
 
 
 #### § 24 Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE004917377)
 
 (1) Ein Kind, das das erste Lebensjahr noch nicht vollendet hat, ist
 in einer Einrichtung oder in Kindertagespflege zu fördern, wenn
@@ -1208,6 +1246,7 @@ beabsichtigten Inanspruchnahme der Leistung in Kenntnis setzen.
 
 
 #### § 24a Bericht zum Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote für Grundschulkinder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015210126)
 
 Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht
 über den Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote
@@ -1215,6 +1254,7 @@ für Grundschulkinder vorzulegen.
 
 
 #### § 25 Unterstützung selbst organisierter Förderung von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005005140)
 
 Mütter, Väter und andere Erziehungsberechtigte, die die Förderung von
 Kindern selbst organisieren wollen, sollen beraten und unterstützt
@@ -1222,6 +1262,7 @@ werden.
 
 
 #### § 26 Landesrechtsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005105140)
 
 Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten
 Aufgaben und Leistungen regelt das Landesrecht. Am 31. Dezember 1990
@@ -1230,14 +1271,17 @@ Bildungsbereich zuweisen, bleiben unberührt.
 
 
 ### Vierter Abschnitt - Hilfe zur Erziehung, Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche, Hilfe für junge Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000606140)
 
 
 
 #### Erster Unterabschnitt - Hilfe zur Erziehung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002305140)
 
 
 
 ##### § 27 Hilfe zur Erziehung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005208377)
 
 (1) Ein Personensorgeberechtigter hat bei der Erziehung eines Kindes
 oder eines Jugendlichen Anspruch auf Hilfe (Hilfe zur Erziehung), wenn
@@ -1278,6 +1322,7 @@ Pflege und Erziehung dieses Kindes.
 
 
 ##### § 28 Erziehungsberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005305140)
 
 Erziehungsberatungsstellen und andere Beratungsdienste und
 -einrichtungen sollen Kinder, Jugendliche, Eltern und andere
@@ -1290,6 +1335,7 @@ vertraut sind.
 
 
 ##### § 29 Soziale Gruppenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005405140)
 
 Die Teilnahme an sozialer Gruppenarbeit soll älteren Kindern und
 Jugendlichen bei der Überwindung von Entwicklungsschwierigkeiten und
@@ -1299,6 +1345,7 @@ Kinder und Jugendlicher durch soziales Lernen in der Gruppe fördern.
 
 
 ##### § 30 Erziehungsbeistand, Betreuungshelfer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005505140)
 
 Der Erziehungsbeistand und der Betreuungshelfer sollen das Kind oder
 den Jugendlichen bei der Bewältigung von Entwicklungsproblemen
@@ -1308,6 +1355,7 @@ fördern.
 
 
 ##### § 31 Sozialpädagogische Familienhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005605140)
 
 Sozialpädagogische Familienhilfe soll durch intensive Betreuung und
 Begleitung Familien in ihren Erziehungsaufgaben, bei der Bewältigung
@@ -1318,6 +1366,7 @@ erfordert die Mitarbeit der Familie.
 
 
 ##### § 32 Erziehung in einer Tagesgruppe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005705140)
 
 Hilfe zur Erziehung in einer Tagesgruppe soll die Entwicklung des
 Kindes oder des Jugendlichen durch soziales Lernen in der Gruppe,
@@ -1328,6 +1377,7 @@ Familienpflege geleistet werden.
 
 
 ##### § 33 Vollzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005805140)
 
 Hilfe zur Erziehung in Vollzeitpflege soll entsprechend dem Alter und
 Entwicklungsstand des Kindes oder des Jugendlichen und seinen
@@ -1340,6 +1390,7 @@ Formen der Familienpflege zu schaffen und auszubauen.
 
 
 ##### § 34 Heimerziehung, sonstige betreute Wohnform
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE005906140)
 
 Hilfe zur Erziehung in einer Einrichtung über Tag und Nacht
 (Heimerziehung) oder in einer sonstigen betreuten Wohnform soll Kinder
@@ -1365,6 +1416,7 @@ der allgemeinen Lebensführung beraten und unterstützt werden.
 
 
 ##### § 35 Intensive sozialpädagogische Einzelbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006005140)
 
 Intensive sozialpädagogische Einzelbetreuung soll Jugendlichen gewährt
 werden, die einer intensiven Unterstützung zur sozialen Integration
@@ -1374,10 +1426,12 @@ Bedürfnissen des Jugendlichen Rechnung tragen.
 
 
 #### Zweiter Unterabschnitt - Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002405140)
 
 
 
 ##### § 35a Eingliederungshilfe für Kinder und Jugendliche mit seelischer Behinderung oder drohender seelischer Behinderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013218377)
 
 (1) Kinder oder Jugendliche haben Anspruch auf Eingliederungshilfe,
 wenn
@@ -1464,10 +1518,12 @@ behinderte und nicht behinderte Kinder gemeinsam betreut werden.
 
 
 #### Dritter Unterabschnitt - Gemeinsame Vorschriften für die Hilfe zur Erziehung und die Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002505140)
 
 
 
 ##### § 36 Mitwirkung, Hilfeplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006111377)
 
 (1) Der Personensorgeberechtigte und das Kind oder der Jugendliche
 sind vor der Entscheidung über die Inanspruchnahme einer Hilfe und vor
@@ -1521,6 +1577,7 @@ Personensorgeberechtigten getroffen werden.
 
 
 ##### § 36a Steuerungsverantwortung, Selbstbeschaffung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016604377)
 
 (1) Der Träger der öffentlichen Jugendhilfe trägt die Kosten der Hilfe
 grundsätzlich nur dann, wenn sie auf der Grundlage seiner Entscheidung
@@ -1579,6 +1636,7 @@ Hinderungsgrundes nachzuholen.
 
 
 ##### § 36b Zusammenarbeit beim Zuständigkeitsübergang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018700377)
 
 (1) Zur Sicherstellung von Kontinuität und Bedarfsgerechtigkeit der
 Leistungsgewährung sind von den zuständigen öffentlichen Stellen,
@@ -1611,6 +1669,7 @@ nach den §§ 117 bis 122 des Neunten Buches.
 
 
 ##### § 37 Beratung und Unterstützung der Eltern, Zusammenarbeit bei Hilfen außerhalb der eigenen Familie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006209377)
 
 (1) Werden Hilfen nach den §§ 32 bis 34 und 35a Absatz 2 Nummer 3 und
 4 gewährt, haben die Eltern einen Anspruch auf Beratung und
@@ -1646,6 +1705,7 @@ Jugendamt einschalten.
 
 
 ##### § 37a Beratung und Unterstützung der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018800377)
 
 Die Pflegeperson hat vor der Aufnahme des Kindes oder des Jugendlichen
 und während der Dauer des Pflegeverhältnisses Anspruch auf Beratung
@@ -1664,6 +1724,7 @@ beraten, unterstützt und gefördert werden.
 
 
 ##### § 37b Sicherung der Rechte von Kindern und Jugendlichen in Familienpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018900377)
 
 (1) Das Jugendamt stellt sicher, dass während der Dauer des
 Pflegeverhältnisses ein nach Maßgabe fachlicher Handlungsleitlinien
@@ -1688,6 +1749,7 @@ Jugendlichen betreffen.
 
 
 ##### § 37c Ergänzende Bestimmungen zur Hilfeplanung bei Hilfen außerhalb der eigenen Familie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE019000377)
 
 (1) Bei der Aufstellung und Überprüfung des Hilfeplans nach § 36
 Absatz 2 Satz 2 ist bei Hilfen außerhalb der eigenen Familie
@@ -1741,6 +1803,7 @@ zulässig.
 
 
 ##### § 38 Zulässigkeit von Auslandsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006309126)
 
 (1) Hilfen nach diesem Abschnitt sind in der Regel im Inland zu
 erbringen. Sie dürfen nur dann im Ausland erbracht werden, wenn dies
@@ -1869,6 +1932,7 @@ nicht erfüllt sind.
 
 
 ##### § 39 Leistungen zum Unterhalt des Kindes oder des Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006411301)
 
 (1) Wird Hilfe nach den §§ 32 bis 35 oder nach § 35a Absatz 2 Nummer 2
 bis 4 gewährt, so ist auch der notwendige Unterhalt des Kindes oder
@@ -1932,6 +1996,7 @@ so ist auch der notwendige Unterhalt dieses Kindes sicherzustellen.
 
 
 ##### § 40 Krankenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006509140)
 
 Wird Hilfe nach den §§ 33 bis 35 oder nach § 35a Absatz 2 Nummer 3
 oder 4 gewährt, so ist auch Krankenhilfe zu leisten; für den Umfang
@@ -1944,10 +2009,12 @@ sind.
 
 
 #### Vierter Unterabschnitt - Hilfe für junge Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002605140)
 
 
 
 ##### § 41 Hilfe für junge Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006707377)
 
 (1) Junge Volljährige erhalten geeignete und notwendige Hilfe nach
 diesem Abschnitt, wenn und solange ihre Persönlichkeitsentwicklung
@@ -1973,6 +2040,7 @@ entsprechend.
 
 
 ##### § 41a Nachbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE019100377)
 
 (1) Junge Volljährige werden innerhalb eines angemessenen Zeitraums
 nach Beendigung der Hilfe bei der Verselbständigung im notwendigen
@@ -1988,14 +2056,17 @@ Kontakt zu dem jungen Volljährigen aufnehmen.
 
 
 ## Drittes Kapitel - Andere Aufgaben der Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000705140)
 
 
 
 ### Erster Abschnitt - Vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000805140)
 
 
 
 #### § 42 Inobhutnahme von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006811377)
 
 (1) Das Jugendamt ist berechtigt und verpflichtet, ein Kind oder einen
 Jugendlichen in seine Obhut zu nehmen, wenn
@@ -2102,6 +2173,7 @@ erforderlich, so sind die dazu befugten Stellen hinzuzuziehen.
 
 
 #### § 42a Vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017202126)
 
 (1) Das Jugendamt ist berechtigt und verpflichtet, ein ausländisches
 Kind oder einen ausländischen Jugendlichen vorläufig in Obhut zu
@@ -2195,6 +2267,7 @@ Verteilungsverfahrens nach § 42b Absatz 4.
 
 
 #### § 42b Verfahren zur Verteilung unbegleiteter ausländischer Kinder und Jugendlicher
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017300119)
 
 (1) Das Bundesverwaltungsamt benennt innerhalb von zwei Werktagen nach
 Anmeldung eines unbegleiteten ausländischen Kindes oder Jugendlichen
@@ -2275,6 +2348,7 @@ Vorschrift hat keine aufschiebende Wirkung.
 
 
 #### § 42c Aufnahmequote
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017400119)
 
 (1) Die Länder können durch Vereinbarung einen Schlüssel als Grundlage
 für die Benennung des zur Aufnahme verpflichteten Landes nach § 42b
@@ -2305,6 +2379,7 @@ Ländern mit der Aufnahmequote nach Absatz 1 werktäglich ermittelt.
 
 
 #### § 42d Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017500119)
 
 (1) Kann ein Land die Anzahl von unbegleiteten ausländischen Kindern
 oder Jugendlichen, die seiner Aufnahmequote nach § 42c entspricht,
@@ -2346,6 +2421,7 @@ Absatz 1.
 
 
 #### § 42e Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017600119)
 
 Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht
 über die Situation unbegleiteter ausländischer Minderjähriger in
@@ -2353,6 +2429,7 @@ Deutschland vorzulegen.
 
 
 #### § 42f Behördliches Verfahren zur Altersfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017700119)
 
 (1) Das Jugendamt hat im Rahmen der vorläufigen Inobhutnahme der
 ausländischen Person gemäß § 42a deren Minderjährigkeit durch
@@ -2384,10 +2461,12 @@ Verwaltungsgerichtsordnung erhoben werden kann.
 
 
 ### Zweiter Abschnitt - Schutz von Kindern und Jugendlichen in Familienpflege und in Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG000906140)
 
 
 
 #### § 43 Erlaubnis zur Kindertagespflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE006911377)
 
 (1) Eine Person, die ein Kind oder mehrere Kinder außerhalb des
 Haushalts des Erziehungsberechtigten während eines Teils des Tages und
@@ -2433,6 +2512,7 @@ Fragen zur Sicherung des Kindeswohls und zum Schutz vor Gewalt.
 
 
 #### § 44 Erlaubnis zur Vollzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007009140)
 
 (1) Wer ein Kind oder einen Jugendlichen über Tag und Nacht in seinem
 Haushalt aufnehmen will (Pflegeperson), bedarf der Erlaubnis. Einer
@@ -2479,6 +2559,7 @@ Jugendlichen betreffen.
 
 
 #### § 45 Erlaubnis für den Betrieb einer Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007115377)
 
 (1) Der Träger einer Einrichtung, nach § 45a bedarf für den Betrieb
 der Einrichtung der Erlaubnis. Einer Erlaubnis bedarf nicht, wer
@@ -2604,6 +2685,7 @@ haben keine aufschiebende Wirkung.
 
 
 #### § 45a Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE019200377)
 
 Eine Einrichtung ist eine auf gewisse Dauer und unter der
 Verantwortung eines Trägers angelegte förmliche Verbindung
@@ -2629,6 +2711,7 @@ betriebserlaubnispflichtige Einrichtung eingebunden sind.
 
 
 #### § 46 Prüfung vor Ort und nach Aktenlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007207377)
 
 (1) Die zuständige Behörde soll nach den Erfordernissen des
 Einzelfalls überprüfen, ob die Voraussetzungen für die Erteilung der
@@ -2684,6 +2767,7 @@ und 2 zu dulden.
 
 
 #### § 47 Melde- und Dokumentationspflichten, Aufbewahrung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007308377)
 
 (1) Der Träger einer erlaubnispflichtigen Einrichtung hat der
 zuständigen Behörde unverzüglich
@@ -2728,6 +2812,7 @@ das Wohl der Kinder und Jugendlichen zu beeinträchtigen.
 
 
 #### § 48 Tätigkeitsuntersagung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007405140)
 
 Die zuständige Behörde kann dem Träger einer erlaubnispflichtigen
 Einrichtung die weitere Beschäftigung des Leiters, eines Beschäftigten
@@ -2737,6 +2822,7 @@ er die für seine Tätigkeit erforderliche Eignung nicht besitzt.
 
 
 #### § 48a Sonstige betreute Wohnform
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013305140)
 
 (1) Für den Betrieb einer sonstigen Wohnform, in der Kinder oder
 Jugendliche betreut werden oder Unterkunft erhalten, gelten die §§ 45
@@ -2747,16 +2833,19 @@ verbunden, so gilt sie als Teil der Einrichtung.
 
 
 #### § 49 Landesrechtsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007505140)
 
 Das Nähere über die in diesem Abschnitt geregelten Aufgaben regelt das
 Landesrecht.
 
 
 ### Dritter Abschnitt - Mitwirkung in gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001005140)
 
 
 
 #### § 50 Mitwirkung in Verfahren vor den Familiengerichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007612377)
 
 (1) Das Jugendamt unterstützt das Familiengericht bei allen Maßnahmen,
 die die Sorge für die Person von Kindern und Jugendlichen betreffen.
@@ -2835,6 +2924,7 @@ seiner Geburt geführt hat.
 
 
 #### § 51 Beratung und Belehrung in Verfahren zur Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007708308)
 
 (1) Das Jugendamt hat im Verfahren zur Ersetzung der Einwilligung
 eines Elternteils in die Annahme nach § 1748 Absatz 2 Satz 1 des
@@ -2868,6 +2958,7 @@ zu beraten.
 
 
 #### § 52 Mitwirkung in Verfahren nach dem Jugendgerichtsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007807377)
 
 (1) Das Jugendamt hat nach Maßgabe der §§ 38 und 50 Absatz 3 Satz 2
 des Jugendgerichtsgesetzes im Verfahren nach dem Jugendgerichtsgesetz
@@ -2896,10 +2987,12 @@ jungen Volljährigen während des gesamten Verfahrens betreuen.
 
 
 ### Vierter Abschnitt - Beistandschaft, Pflegschaft und Vormundschaft für Kinder und Jugendliche, Auskunft über Nichtabgabe von Sorgeerklärungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001107140)
 
 
 
 #### § 52a Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015306140)
 
 (1) Das Jugendamt hat unverzüglich nach der Geburt eines Kindes,
 dessen Eltern nicht miteinander verheiratet sind, der Mutter Beratung
@@ -2946,6 +3039,7 @@ miteinander verheiratet sind, unverzüglich dem Jugendamt anzuzeigen.
 
 
 #### § 53 Mitwirkung bei der Auswahl von Vormündern und Pflegern durch das Familiengericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE007908126)
 
 (1) Das Jugendamt hat dem Familiengericht Personen vorzuschlagen, die
 sich im Einzelfall zur Bestellung als Vormund eignen.
@@ -2970,6 +3064,7 @@ entsprechend.
 
 
 #### § 53a Beratung und Unterstützung von Vormündern und Pflegern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018100126)
 
 (1) Vormünder haben Anspruch auf regelmäßige und dem jeweiligen
 erzieherischen Bedarf des Mündels entsprechende Beratung und
@@ -2988,6 +3083,7 @@ entsprechend.
 
 
 #### § 54 Anerkennung als Vormundschaftsverein
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008008126)
 
 (1) Ein rechtsfähiger Verein kann von dem überörtlichen Träger der
 Jugendhilfe als Vormundschaftsverein anerkannt werden, wenn er
@@ -3030,6 +3126,7 @@ Vormundschaftsverein fort.
 
 
 #### § 55 Beistandschaft, Pflegschaft und Vormundschaft des Jugendamts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008109126)
 
 (1) Das Jugendamt wird Beistand, Pfleger oder Vormund in den durch das
 Bürgerliche Gesetzbuch vorgesehenen Fällen (Beistandschaft,
@@ -3069,6 +3166,7 @@ zu trennen.
 
 
 #### § 56 Führung der Beistandschaft, der Pflegschaft und der Vormundschaft durch das Jugendamt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008209126)
 
 (1) Auf die Führung der Beistandschaft, der Pflegschaft und der
 Vormundschaft durch das Jugendamt sind die Bestimmungen des
@@ -3095,6 +3193,7 @@ Jugendamt errichtet hat.
 
 
 #### § 57 Mitteilungspflichten des Jugendamts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008308126)
 
 (1) Das Jugendamt hat dem Familiengericht unverzüglich den Eintritt
 einer Vormundschaft sowie den Wegfall der Voraussetzungen der
@@ -3138,6 +3237,7 @@ entsprechend.
 
 
 #### § 58 Auskunft über Alleinsorge aus dem Sorgeregister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015408126)
 
 (1) Zum Zwecke der Erteilung der schriftlichen Auskunft nach Absatz 2
 wird für Kinder nicht miteinander verheirateter Eltern bei dem nach §
@@ -3175,10 +3275,12 @@ Teile der elterlichen Sorge vorliegen. Satz 2 gilt entsprechend.
 
 
 ### Fünfter Abschnitt - Beurkundung, vollstreckbare Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001206140)
 
 
 
 #### § 59 Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008517377)
 
 (1) Die Urkundsperson beim Jugendamt ist befugt,
 
@@ -3246,6 +3348,7 @@ hinsichtlich der fachlichen Anforderungen an diese Personen regeln.
 
 
 #### § 60 Vollstreckbare Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008609126)
 
 Aus Urkunden, die eine Verpflichtung nach § 59 Absatz 1 Satz 1 Nummer
 3 oder 4 zum Gegenstand haben und die von einem Beamten oder
@@ -3280,10 +3383,12 @@ Maßgaben entsprechend anzuwenden:
 
 
 ## Viertes Kapitel - Schutz von Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001306140)
 
 
 
 ### § 61 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008710377)
 
 (1) Für den Schutz von Sozialdaten bei ihrer Verarbeitung in der
 Jugendhilfe gelten § 35 des Ersten Buches, §§ 67 bis 85a des Zehnten
@@ -3304,6 +3409,7 @@ gewährleistet ist.
 
 
 ### § 62 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008810377)
 
 (1) Sozialdaten dürfen nur erhoben werden, soweit ihre Kenntnis zur
 Erfüllung der jeweiligen Aufgabe erforderlich ist.
@@ -3364,6 +3470,7 @@ entsprechend.
 
 
 ### § 63 Datenspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE008907140)
 
 (1) Sozialdaten dürfen gespeichert werden, soweit dies für die
 Erfüllung der jeweiligen Aufgabe erforderlich ist.
@@ -3379,6 +3486,7 @@ Aufgabe erforderlich ist.
 
 
 ### § 64 Datenübermittlung und -nutzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009011126)
 
 (1) Sozialdaten dürfen zu dem Zweck übermittelt oder genutzt werden,
 zu dem sie erhoben worden sind.
@@ -3423,6 +3531,7 @@ Gefährdung tätig geworden ist und noch tätig ist.
 
 
 ### § 65 Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009113126)
 
 (1) Sozialdaten, die dem Mitarbeiter eines Trägers der öffentlichen
 Jugendhilfe zum Zwecke persönlicher und erzieherischer Hilfe
@@ -3476,6 +3585,7 @@ behördeninternes Weitergabeverbot nach Absatz 1 besteht.
 
 
 ### § 66 Auskünfte aus dem Ausländerzentralregister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009207126)
 
 Zur Erfüllung der Aufgaben nach diesem Buch dürfen die öffentlichen
 Träger der Jugendhilfe über junge Menschen, die Hilfen oder Leistungen
@@ -3486,10 +3596,12 @@ abrufen.
 
 
 ### § 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009307140)
 
 
 
 ### § 68 Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009411377)
 
 (1) Der Beamte oder Angestellte, dem die Ausübung der Beistandschaft,
 Amtspflegschaft oder Amtsvormundschaft übertragen ist, darf
@@ -3541,14 +3653,17 @@ nach Absatz 1 befugt übermittelt worden sind.
 
 
 ## Fünftes Kapitel - Träger der Jugendhilfe, Zusammenarbeit, Gesamtverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001405140)
 
 
 
 ### Erster Abschnitt - Träger der öffentlichen Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001505140)
 
 
 
 #### § 69 Träger der öffentlichen Jugendhilfe, Jugendämter, Landesjugendämter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009509140)
 
 (1) Die Träger der öffentlichen Jugendhilfe werden durch Landesrecht
 bestimmt.
@@ -3565,6 +3680,7 @@ einzelner Aufgaben gemeinsame Einrichtungen und Dienste errichten.
 
 
 #### § 70 Organisation des Jugendamts und des Landesjugendamts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009605140)
 
 (1) Die Aufgaben des Jugendamts werden durch den Jugendhilfeausschuss
 und durch die Verwaltung des Jugendamts wahrgenommen.
@@ -3585,6 +3701,7 @@ Landesjugendhilfeausschusses geführt.
 
 
 #### § 71 Jugendhilfeausschuss, Landesjugendhilfeausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009706377)
 
 (1) Dem Jugendhilfeausschuss gehören als stimmberechtigte Mitglieder
 an
@@ -3650,6 +3767,7 @@ stimmberechtigt ist.
 
 
 #### § 72 Mitarbeiter, Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009805140)
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen bei den
 Jugendämtern und Landesjugendämtern hauptberuflich nur Personen
@@ -3671,6 +3789,7 @@ sicherzustellen.
 
 
 #### § 72a Tätigkeitsausschluss einschlägig vorbestrafter Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016716126)
 
 (1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung
 der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen
@@ -3752,16 +3871,19 @@ nach der letztmaligen Ausübung einer solchen Tätigkeit zu löschen.
 
 
 ### Zweiter Abschnitt - Zusammenarbeit mit der freien Jugendhilfe, ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001605140)
 
 
 
 #### § 73 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE009905140)
 
 In der Jugendhilfe ehrenamtlich tätige Personen sollen bei ihrer
 Tätigkeit angeleitet, beraten und unterstützt werden.
 
 
 #### § 74 Förderung der freien Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010007126)
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen die freiwillige
 Tätigkeit auf dem Gebiet der Jugendhilfe anregen; sie sollen sie
@@ -3828,6 +3950,7 @@ Jugendbildungsstätten einschließen.
 
 
 #### § 74a Finanzierung von Tageseinrichtungen für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016403140)
 
 Die Finanzierung von Tageseinrichtungen regelt das Landesrecht. Dabei
 können alle Träger von Einrichtungen, die die rechtlichen und
@@ -3837,6 +3960,7 @@ unberührt.
 
 
 #### § 75 Anerkennung als Träger der freien Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010106140)
 
 (1) Als Träger der freien Jugendhilfe können juristische Personen und
 Personenvereinigungen anerkannt werden, wenn sie
@@ -3868,6 +3992,7 @@ Wohlfahrtspflege sind anerkannte Träger der freien Jugendhilfe.
 
 
 #### § 76 Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010210126)
 
 (1) Die Träger der öffentlichen Jugendhilfe können anerkannte Träger
 der freien Jugendhilfe an der Durchführung ihrer Aufgaben nach den §§
@@ -3879,6 +4004,7 @@ der Aufgaben verantwortlich.
 
 
 #### § 77 Vereinbarungen über Kostenübernahme und Qualitätsentwicklung bei ambulanten Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010310126)
 
 (1) Werden Einrichtungen und Dienste der Träger der freien Jugendhilfe
 in Anspruch genommen, so sind Vereinbarungen über die Höhe der Kosten
@@ -3905,6 +4031,7 @@ worden sind; § 78e gilt entsprechend.
 
 
 #### § 78 Arbeitsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010406377)
 
 Die Träger der öffentlichen Jugendhilfe sollen die Bildung von
 Arbeitsgemeinschaften anstreben, in denen neben ihnen die anerkannten
@@ -3918,10 +4045,12 @@ selbstorganisierte Zusammenschlüsse nach § 4a beteiligt werden.
 
 
 ### Dritter Abschnitt - Vereinbarungen über Leistungsangebote, Entgelte und Qualitätsentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003703140)
 
 
 
 #### § 78a Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015506377)
 
 (1) Die Regelungen der §§ 78b bis 78g gelten für die Erbringung von
 
@@ -3985,6 +4114,7 @@ Schutz von Kindern und Jugendlichen (§§ 42, 42a) gelten.
 
 
 #### § 78b Voraussetzungen für die Übernahme des Leistungsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015606126)
 
 (1) Wird die Leistung ganz oder teilweise in einer Einrichtung
 erbracht, so ist der Träger der öffentlichen Jugendhilfe zur Übernahme
@@ -4024,6 +4154,7 @@ Maßgabe der Hilfeplanung (§ 36) im Einzelfall geboten ist.
 
 
 #### § 78c Inhalt der Leistungs- und Entgeltvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015703140)
 
 (1) Die Leistungsvereinbarung muss die wesentlichen Leistungsmerkmale,
 insbesondere
@@ -4060,6 +4191,7 @@ Förderungen aus öffentlichen Mitteln sind anzurechnen.
 
 
 #### § 78d Vereinbarungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015803140)
 
 (1) Die Vereinbarungen nach § 78b Absatz 1 sind für einen zukünftigen
 Zeitraum (Vereinbarungszeitraum) abzuschließen. Nachträgliche
@@ -4085,6 +4217,7 @@ bis zum Inkrafttreten neuer Vereinbarungen weiter.
 
 
 #### § 78e Örtliche Zuständigkeit für den Abschluss von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015903140)
 
 (1) Soweit Landesrecht nicht etwas anderes bestimmt, ist für den
 Abschluss von Vereinbarungen nach § 78b Absatz 1 der örtliche Träger
@@ -4107,6 +4240,7 @@ Nummer 5 und 6 zuständigen Behörde vorsehen.
 
 
 #### § 78f Rahmenverträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016003140)
 
 Die kommunalen Spitzenverbände auf Landesebene schließen mit den
 Verbänden der Träger der freien Jugendhilfe und den Vereinigungen
@@ -4117,6 +4251,7 @@ sind zu beteiligen.
 
 
 #### § 78g Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016103140)
 
 (1) In den Ländern sind Schiedsstellen für Streit- und Konfliktfälle
 einzurichten. Sie sind mit einem unparteiischen Vorsitzenden und mit
@@ -4169,10 +4304,12 @@ das Nähere zu bestimmen über
 
 
 ### Vierter Abschnitt - Gesamtverantwortung, Jugendhilfeplanung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001707140)
 
 
 
 #### § 79 Gesamtverantwortung, Grundausstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010507377)
 
 (1) Die Träger der öffentlichen Jugendhilfe haben für die Erfüllung
 der Aufgaben nach diesem Buch die Gesamtverantwortung einschließlich
@@ -4210,6 +4347,7 @@ Personalausstattung ist ein Verfahren zur Personalbemessung zu nutzen.
 
 
 #### § 79a Qualitätsentwicklung in der Kinder- und Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017103126)
 
 (1) Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen,
 haben die Träger der öffentlichen Jugendhilfe Grundsätze und Maßstäbe
@@ -4255,6 +4393,7 @@ einen angemessenen Zeitraum aufzubewahren.
 
 
 #### § 80 Jugendhilfeplanung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010606377)
 
 (1) Die Träger der öffentlichen Jugendhilfe haben im Rahmen ihrer
 Planungsverantwortung
@@ -4325,6 +4464,7 @@ Rechnung tragen.
 
 
 #### § 81 Strukturelle Zusammenarbeit mit anderen Stellen und öffentlichen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010713126)
 
 Die Träger der öffentlichen Jugendhilfe haben mit anderen Stellen und
 öffentlichen Einrichtungen, deren Tätigkeit sich auf die
@@ -4383,10 +4523,12 @@ im Rahmen ihrer Aufgaben und Befugnisse zusammenzuarbeiten.
 
 
 ## Sechstes Kapitel - Zentrale Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001805140)
 
 
 
 ### § 82 Aufgaben der Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010805140)
 
 (1) Die oberste Landesjugendbehörde hat die Tätigkeit der Träger der
 öffentlichen und der freien Jugendhilfe und die Weiterentwicklung der
@@ -4398,6 +4540,7 @@ der Wahrnehmung ihrer Aufgaben zu unterstützen.
 
 
 ### § 83 Aufgaben des Bundes, sachverständige Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE010907377)
 
 (1) Die fachlich zuständige oberste Bundesbehörde soll die Tätigkeit
 der Jugendhilfe anregen und fördern, soweit sie von überregionaler
@@ -4417,6 +4560,7 @@ betreffenden Fragen die Möglichkeit der Beratung zu geben.
 
 
 ### § 84 Jugendbericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011006140)
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag und dem Bundesrat
 in jeder Legislaturperiode einen Bericht über die Lage junger Menschen
@@ -4433,14 +4577,17 @@ bei.
 
 
 ## Siebtes Kapitel - Zuständigkeit, Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG001906140)
 
 
 
 ### Erster Abschnitt - Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002705140)
 
 
 
 #### § 85 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011109126)
 
 (1) Für die Gewährung von Leistungen und die Erfüllung anderer
 Aufgaben nach diesem Buch ist der örtliche Träger sachlich zuständig,
@@ -4513,14 +4660,17 @@ sind, übertragen werden.
 
 
 ### Zweiter Abschnitt - Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002805140)
 
 
 
 #### Erster Unterabschnitt - Örtliche Zuständigkeit für Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002905140)
 
 
 
 ##### § 86 Örtliche Zuständigkeit für Leistungen an Kinder, Jugendliche und ihre Eltern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011210301)
 
 (1) Für die Gewährung von Leistungen nach diesem Buch ist der örtliche
 Träger zuständig, in dessen Bereich die Eltern ihren gewöhnlichen
@@ -4602,6 +4752,7 @@ von bis zu drei Monaten bleibt außer Betracht.
 
 
 ##### § 86a Örtliche Zuständigkeit für Leistungen an junge Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013406140)
 
 (1) Für Leistungen an junge Volljährige ist der örtliche Träger
 zuständig, in dessen Bereich der junge Volljährige vor Beginn der
@@ -4630,6 +4781,7 @@ nach § 41 erforderlich wird.
 
 
 ##### § 86b Örtliche Zuständigkeit für Leistungen in gemeinsamen Wohnformen für Mütter/Väter und Kinder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013505140)
 
 (1) Für Leistungen in gemeinsamen Wohnformen für Mütter oder Väter und
 Kinder ist der örtliche Träger zuständig, in dessen Bereich der nach §
@@ -4647,6 +4799,7 @@ Hilfeleistung von bis zu drei Monaten bleibt dabei außer Betracht.
 
 
 ##### § 86c Fortdauernde Leistungsverpflichtung und Fallübergabe bei Zuständigkeitswechsel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013606140)
 
 (1) Wechselt die örtliche Zuständigkeit für eine Leistung, so bleibt
 der bisher zuständige örtliche Träger so lange zur Gewährung der
@@ -4669,6 +4822,7 @@ junge Volljährige oder der Leistungsberechtigte nach § 19 sind an der
 
 
 ##### § 86d Verpflichtung zum vorläufigen Tätigwerden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013705140)
 
 Steht die örtliche Zuständigkeit nicht fest oder wird der zuständige
 örtliche Träger nicht tätig, so ist der örtliche Träger vorläufig zum
@@ -4678,10 +4832,12 @@ Leistungsberechtigte vor Beginn der Leistung tatsächlich aufhält.
 
 
 #### Zweiter Unterabschnitt - Örtliche Zuständigkeit für andere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003005140)
 
 
 
 ##### § 87 Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011308119)
 
 Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist
 der örtliche Träger zuständig, in dessen Bereich sich das Kind oder
@@ -4692,6 +4848,7 @@ ausländischen Kindes oder Jugendlichen richtet sich nach § 88a Absatz
 
 
 ##### § 87a Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013807377)
 
 (1) Für die Erteilung der Pflegeerlaubnis nach § 43 sowie für deren
 Rücknahme und Widerruf ist der örtliche Träger zuständig, in dessen
@@ -4720,6 +4877,7 @@ selbständige sonstige Wohnform gelegen ist.
 
 
 ##### § 87b Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013906140)
 
 (1) Für die Zuständigkeit des Jugendamts zur Mitwirkung in
 gerichtlichen Verfahren (§§ 50 bis 52) gilt § 86 Absatz 1 bis 4
@@ -4743,6 +4901,7 @@ zuständige örtliche Träger nicht tätig, so gilt § 86d entsprechend.
 
 
 ##### § 87c Örtliche Zuständigkeit für die Beistandschaft, die Pflegschaft, die Vormundschaft und die schriftliche Auskunft nach § 58
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014015377)
 
 (1) Für die Vormundschaft nach § 1786 des Bürgerlichen Gesetzbuchs ist
 das Jugendamt zuständig, in dessen Bereich die Mutter ihren
@@ -4812,6 +4971,7 @@ oder dem Vater allein übertragen wurde.
 
 
 ##### § 87d Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014107126)
 
 (1) Für die Wahrnehmung der Aufgaben nach den §§ 53 und 53a ist der
 örtliche Träger zuständig, in dessen Bereich der Pfleger oder Vormund
@@ -4823,16 +4983,19 @@ Sitz hat.
 
 
 ##### § 87e Örtliche Zuständigkeit für Beurkundung und Beglaubigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014205140)
 
 Für Beurkundungen und Beglaubigungen nach § 59 ist die Urkundsperson
 bei jedem Jugendamt zuständig.
 
 
 #### Dritter Unterabschnitt - Örtliche Zuständigkeit bei Aufenthalt im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003105140)
 
 
 
 ##### § 88 Örtliche Zuständigkeit bei Aufenthalt im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011406140)
 
 (1) Für die Gewährung von Leistungen der Jugendhilfe im Ausland ist
 der überörtliche Träger zuständig, in dessen Bereich der junge Mensch
@@ -4846,10 +5009,12 @@ Monaten bleibt dabei außer Betracht.
 
 
 #### Vierter Unterabschnitt - Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003800119)
 
 
 
 ##### § 88a Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017800119)
 
 (1) Für die vorläufige Inobhutnahme eines unbegleiteten ausländischen
 Kindes oder Jugendlichen (§ 42a) ist der örtliche Träger zuständig, in
@@ -4892,10 +5057,12 @@ Bestellung des Familiengerichts eintritt, richtet sich während
 
 
 ### Dritter Abschnitt - Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003205140)
 
 
 
 #### § 89 Kostenerstattung bei fehlendem gewöhnlichen Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011506140)
 
 Ist für die örtliche Zuständigkeit nach den §§ 86, 86a oder 86b der
 tatsächliche Aufenthalt maßgeblich, so sind die Kosten, die ein
@@ -4904,6 +5071,7 @@ erstatten, zu dessen Bereich der örtliche Träger gehört.
 
 
 #### § 89a Kostenerstattung bei fortdauernder Vollzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014308301)
 
 (1) Kosten, die ein örtlicher Träger auf Grund einer Zuständigkeit
 nach § 86 Absatz 6 aufgewendet hat, sind von dem örtlichen Träger zu
@@ -4927,6 +5095,7 @@ kostenerstattungspflichtig, der ohne Anwendung des § 86 Absatz 6
 
 
 #### § 89b Kostenerstattung bei vorläufigen Maßnahmen zum Schutz von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014408140)
 
 (1) Kosten, die ein örtlicher Träger im Rahmen der Inobhutnahme von
 Kindern und Jugendlichen (§ 42) aufgewendet hat, sind von dem
@@ -4944,6 +5113,7 @@ werden.
 
 
 #### § 89c Kostenerstattung bei fortdauernder oder vorläufiger Leistungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014506140)
 
 (1) Kosten, die ein örtlicher Träger im Rahmen seiner Verpflichtung
 nach § 86c aufgewendet hat, sind von dem örtlichen Träger zu
@@ -4965,6 +5135,7 @@ geworden ist.
 
 
 #### § 89d Kostenerstattung bei Gewährung von Jugendhilfe nach der Einreise
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014608119)
 
 (1) Kosten, die ein örtlicher Träger aufwendet, sind vom Land zu
 erstatten, wenn
@@ -5000,6 +5171,7 @@ Ansprüchen nach den §§ 89 bis 89c und § 89e vor.
 
 
 #### § 89e Schutz der Einrichtungsorte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014706140)
 
 (1) Richtet sich die Zuständigkeit nach dem gewöhnlichen Aufenthalt
 der Eltern, eines Elternteils, des Kindes oder des Jugendlichen und
@@ -5020,6 +5192,7 @@ Träger gehört.
 
 
 #### § 89f Umfang der Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014808140)
 
 (1) Die aufgewendeten Kosten sind zu erstatten, soweit die Erfüllung
 der Aufgaben den Vorschriften dieses Buches entspricht. Dabei gelten
@@ -5034,6 +5207,7 @@ nicht verlangt werden.
 
 
 #### § 89g Landesrechtsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE014906140)
 
 Durch Landesrecht können die Aufgaben des Landes und des überörtlichen
 Trägers nach diesem Abschnitt auf andere Körperschaften des
@@ -5041,6 +5215,7 @@ Trägers nach diesem Abschnitt auf andere Körperschaften des
 
 
 #### § 89h Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016203140)
 
 (1) Für die Erstattung von Kosten für Maßnahmen der Jugendhilfe nach
 der Einreise gemäß § 89d, die vor dem 1. Juli 1998 begonnen haben,
@@ -5055,14 +5230,17 @@ Absatz 7, § 89b Absatz 3, die §§ 89d und 89g in der ab dem 1. Juli
 
 
 ## Achtes Kapitel - Kostenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002007140)
 
 
 
 ### Erster Abschnitt - Pauschalierte Kostenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003306140)
 
 
 
 #### § 90 Pauschalierte Kostenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011612377)
 
 (1) Für die Inanspruchnahme von Angeboten
 
@@ -5135,10 +5313,12 @@ entsprechend.
 
 
 ### Zweiter Abschnitt - Kostenbeiträge für stationäre und teilstationäre Leistungen sowie vorläufige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003406140)
 
 
 
 #### § 91 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011711140)
 
 (1) Zu folgenden vollstationären Leistungen und vorläufigen Maßnahmen
 werden Kostenbeiträge erhoben:
@@ -5223,6 +5403,7 @@ eines Kostenbeitrags.
 
 
 #### § 92 Ausgestaltung der Heranziehung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011811126)
 
 (1) Zu den Kosten der in § 91 Absatz 1 genannten Leistungen und
 vorläufigen Maßnahmen sind Elternteile aus ihrem Einkommen nach
@@ -5284,6 +5465,7 @@ zu dem Kostenbeitrag stehen wird.
 
 
 #### § 93 Berechnung des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE011916126)
 
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit
 Ausnahme der Leistungen nach diesem Buch, der Leistungen nach dem
@@ -5371,6 +5553,7 @@ maßgeblich.
 
 
 #### § 94 Umfang der Heranziehung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012012126)
 
 (1) Die Kostenbeitragspflichtigen sind aus ihrem Einkommen in
 angemessenem Umfang zu den Kosten heranzuziehen. Die Kostenbeiträge
@@ -5412,10 +5595,12 @@ bestimmt.
 
 
 ### Dritter Abschnitt - Überleitung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003505140)
 
 
 
 #### § 95 Überleitung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012109126)
 
 (1) Hat eine in § 92 Absatz 1a genannte Person oder ein Ehegatte oder
 Lebenspartner des jungen Menschen oder Leistungsberechtigten nach § 19
@@ -5443,14 +5628,17 @@ Unterbrechung gilt ein Zeitraum von mehr als zwei Monaten.
 
 
 #### § 96 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012209140)
 
 
 
 ### Vierter Abschnitt - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003605140)
 
 
 
 #### § 97 Feststellung der Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012306140)
 
 Der erstattungsberechtigte Träger der öffentlichen Jugendhilfe kann
 die Feststellung einer Sozialleistung betreiben sowie Rechtsmittel
@@ -5461,6 +5649,7 @@ Verfahren selbst betreibt.
 
 
 #### § 97a Pflicht zur Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE015009126)
 
 (1) Soweit dies für die Berechnung oder den Erlass eines
 Kostenbeitrags oder die Übernahme eines Teilnahmebeitrags nach § 90
@@ -5519,20 +5708,24 @@ Auskunftsverweigerungsrecht hinzuweisen.
 
 
 #### § 97b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016803140)
 
 
 
 #### § 97c Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE016902140)
 
 Landesrecht kann abweichend von § 64 des Zehnten Buches die Erhebung
 von Gebühren und Auslagen regeln.
 
 
 ## Neuntes Kapitel - Kinder- und Jugendhilfestatistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002105140)
 
 
 
 ### § 98 Zweck und Umfang der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012413126)
 
 (1) Zur Beurteilung der Auswirkungen der Bestimmungen dieses Buches
 und zu seiner Fortentwicklung sind laufende Erhebungen über
@@ -5609,6 +5802,7 @@ auch laufende Erhebungen über Sorgeerklärungen durchzuführen.
 
 
 ### § 99 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012522126)
 
 (1) Erhebungsmerkmale bei den Erhebungen über Hilfe zur Erziehung nach
 den §§ 27 bis 35, Eingliederungshilfe für seelisch behinderte Kinder
@@ -6180,6 +6374,7 @@ diese nicht in Absatz 7 erfasst werden, sind
 
 
 ### § 100 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012609377)
 
 Hilfsmerkmale sind
 
@@ -6204,6 +6399,7 @@ Hilfsmerkmale sind
 
 
 ### § 101 Periodizität und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012717126)
 
 (1) Die Erhebungen nach § 99 Absatz 1 bis 5, 6a bis 7c und 10 sind
 jährlich durchzuführen, die Erhebungen nach § 99 Absatz 3 Nummer 3
@@ -6257,6 +6453,7 @@ zu erteilen.
 
 
 ### § 102 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012815126)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 100
 Nummer 4 sind freiwillig.
@@ -6318,6 +6515,7 @@ durch Landesrecht bestimmt.
 
 
 ### § 103 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE012908377)
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -6346,10 +6544,12 @@ Einzeldaten auf Anforderung an das Statistische Bundesamt.
 
 
 ## Zehntes Kapitel - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG002205140)
 
 
 
 ### § 104 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013009377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -6383,6 +6583,7 @@ Euro geahndet werden.
 
 
 ### § 105 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE013105140)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -6401,10 +6602,12 @@ bestraft, wer
 
 
 ## Elftes Kapitel - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNG003901377)
 
 
 
 ### § 106 Einschränkung eines Grundrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE017900119)
 
 Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf
 Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes)
@@ -6412,10 +6615,12 @@ eingeschränkt.
 
 
 ### § 107 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE018006126)
 
 
 
 ### § 108 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_8/BJNR111630990.html#BJNR111630990BJNE019300126)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 begleitet und untersucht

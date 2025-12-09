@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bgsresernano/BJNR020540976.html#BJNR020540976BJNE000100314)
 
 Auf Grund des § 55 Abs. 1 des Gesetzes über den Bundesgrenzschutz vom
 18\. August 1972 (Bundesgesetzbl. I S. 1834) und des Artikels 1 Abs. 2
@@ -44,6 +45,7 @@ jeweils für ihren Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bgsresernano/BJNR020540976.html#BJNR020540976BJNE000200314)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Abschnitt I Genannten vor.
@@ -51,6 +53,7 @@ Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bgsresernano/BJNR020540976.html#BJNR020540976BJNE000300314)
 
 Der Bundesminister des Innern
 

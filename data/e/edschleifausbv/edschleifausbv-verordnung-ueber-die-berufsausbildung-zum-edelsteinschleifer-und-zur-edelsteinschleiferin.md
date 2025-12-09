@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -35,9 +36,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000300000)
 
 Der Ausbildungsberuf des Edelsteinschleifers und der
 Edelsteinschleiferin wird staatlich anerkannt nach
@@ -54,11 +57,13 @@ Edelsteinschleiferin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -76,6 +81,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -214,6 +220,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -221,9 +228,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000200000)
 
 
 ### § 6 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -233,6 +242,7 @@ stattfinden.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -249,6 +259,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001000000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Edelsteinbearbeitung
 statt.
@@ -327,9 +338,11 @@ Bearbeitung der Aufgaben beträgt sie 120 Minuten.
 
 
 ## Abschnitt 3 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000300000)
 
 
 ### § 9 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001100000)
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -339,6 +352,7 @@ Berufsausbildung durchgeführt werden.
 
 
 ### § 10 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001200000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -355,9 +369,11 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### Unterabschnitt 1 - Fachrichtung Edelsteingravieren
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000400000)
 
 
 #### § 11 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001300000)
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Edelsteingravieren in den folgenden Prüfungsbereichen statt:
@@ -375,6 +391,7 @@ Edelsteingravieren in den folgenden Prüfungsbereichen statt:
 
 
 #### § 12 Prüfungsbereich Edelsteine gravieren
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001400000)
 
 (1) Im Prüfungsbereich Edelsteine gravieren soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -427,6 +444,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 #### § 13 Prüfungsbereich Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001500000)
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -465,6 +483,7 @@ dass er in der Lage ist,
 
 
 #### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -478,6 +497,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -545,9 +565,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 2 - Fachrichtung Edelsteinschleifen
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000500000)
 
 
 #### § 16 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001800000)
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Edelsteinschleifen in den folgenden Prüfungsbereichen statt:
@@ -565,6 +587,7 @@ Edelsteinschleifen in den folgenden Prüfungsbereichen statt:
 
 
 #### § 17 Prüfungsbereich Edelsteine schleifen
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE001900000)
 
 (1) Im Prüfungsbereich Edelsteine schleifen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -618,6 +641,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 #### § 18 Prüfungsbereich Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002000000)
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -651,6 +675,7 @@ dass er in der Lage ist,
 
 
 #### § 19 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -664,6 +689,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002200000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -731,9 +757,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Industriediamantschleifen
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000600000)
 
 
 #### § 21 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002300000)
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Industriediamantschleifen in den folgenden Prüfungsbereichen statt:
@@ -751,6 +779,7 @@ Industriediamantschleifen in den folgenden Prüfungsbereichen statt:
 
 
 #### § 22 Prüfungsbereich Industriediamanten schleifen
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002400000)
 
 (1) Im Prüfungsbereich Industriediamanten schleifen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -798,6 +827,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
 
 #### § 23 Prüfungsbereich Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002500000)
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -827,6 +857,7 @@ dass er in der Lage ist,
 
 
 #### § 24 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -840,6 +871,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 25 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -907,9 +939,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Fachrichtung Schmuckdiamantschleifen
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000700000)
 
 
 #### § 26 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002800000)
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Schmuckdiamantschleifen in den folgenden Prüfungsbereichen statt:
@@ -927,6 +961,7 @@ Schmuckdiamantschleifen in den folgenden Prüfungsbereichen statt:
 
 
 #### § 27 Prüfungsbereich Schmuckdiamanten schleifen
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE002900000)
 
 (1) Im Prüfungsbereich Schmuckdiamanten schleifen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -997,6 +1032,7 @@ auftragsbezogene Fachgespräch dauert höchstens 10 Minuten.
 
 
 #### § 28 Prüfungsbereich Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE003000000)
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -1026,6 +1062,7 @@ dass er in der Lage ist,
 
 
 #### § 29 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE003100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1039,6 +1076,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 30 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE003200000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1106,9 +1144,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNG000800000)
 
 
 ### § 31 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE003300000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig treten
 außer Kraft
@@ -1130,6 +1170,7 @@ außer Kraft
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin
+[Direktlink](https://www.gesetze-im-internet.de/edschleifausbv/BJNR063600018.html#BJNR063600018BJNE003400000)
 
 (Fundstelle: BGBl. I 2018, 643 - 649)
 

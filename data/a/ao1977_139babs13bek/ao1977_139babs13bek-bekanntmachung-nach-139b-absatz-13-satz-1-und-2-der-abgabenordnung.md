@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_139babs13bek/BJNR13A0A0023.html#BJNR13A0A0023BJNE000100000)
 
 Nach § 139b Absatz 13 Satz 1 und 2 der Abgabenordnung in der Fassung
 der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S.
@@ -29,6 +30,7 @@ vorliegen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_139babs13bek/BJNR13A0A0023.html#BJNR13A0A0023BJNE000200000)
 
 Bundesministerium der Finanzen
 

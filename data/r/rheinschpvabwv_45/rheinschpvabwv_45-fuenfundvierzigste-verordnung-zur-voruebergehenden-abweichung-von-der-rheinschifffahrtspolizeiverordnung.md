@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 4 dieser V mit Ablauf d. 30.11.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Nummer 1, 2 und 4 in Verbindung mit Absatz
 6 Nummer 1 Buchstabe a und mit § 14 des
@@ -35,6 +36,7 @@ verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
 
 
 ## § 1 Abweichende Regelung zur Rheinschifffahrtspolizeiverordnung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000200000)
 
 Die Rheinschifffahrtspolizeiverordnung ist in der Fassung anzuwenden,
 die sich aus der in Anhang 1 in Verbindung mit Anhang 3 aufgeführten
@@ -47,6 +49,7 @@ AIS-Daten an Bord von Fahrzeugen sind in Anhang 3 aufgeführt.
 
 
 ## § 2 Pflichten der Besetzung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000300000)
 
 Der Schiffsführer und die nach § 1.03 Nummer 3 der
 Rheinschifffahrtspolizeiverordnung für Kurs und Geschwindigkeit
@@ -65,6 +68,7 @@ Binnenschifffahrtskarte genutzt wird.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000400000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -75,6 +79,7 @@ Binnenschifffahrtskarte genutzt wird.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000500000)
 
 Diese Verordnung tritt am 1. Dezember 2024 in Kraft und mit Ablauf des
 30\. November 2027 außer Kraft.
@@ -82,6 +87,7 @@ Diese Verordnung tritt am 1. Dezember 2024 in Kraft und mit Ablauf des
 (zu § 1 Satz 1)
 
 ## Anhang 1 Abweichung zur Rheinschifffahrtspolizeiverordnung (RheinSchPV)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000600000)
 
 (Fundstelle: BGBl. 2024 II Nr. 280, S. 3)
 
@@ -115,6 +121,7 @@ entsprechen.“
 (zu § 1 Satz 2)
 
 ## Anhang 2 Beschluss der Zentralkommission für die Rheinschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000700000)
 
 (Fundstelle: BGBl. 2024 II Nr. 280, S. 3)
 
@@ -125,6 +132,7 @@ Rheinschifffahrtspolizeiverordnung.
 (zu § 1 und Angang 1)
 
 ## Anhang 3 Mindestanforderungen an Geräte zur Anzeige elektronischer Binnenschifffahrtskarten zur Nutzung von Inland AIS-Daten an Bord von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpvabwv_45/BJNR1180O0024.html#BJNR1180O0024BJNE000800000)
 
 (Fundstelle: BGBl. 2024 II Nr. 280, S. 4 - 5)
 

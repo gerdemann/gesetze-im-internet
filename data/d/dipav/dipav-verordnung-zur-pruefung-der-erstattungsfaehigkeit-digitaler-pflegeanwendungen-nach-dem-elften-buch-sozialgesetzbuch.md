@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000100000)
 
 Auf Grund des § 78a Absatz 6 und 9 Satz 3 des Elften Buches
 Sozialgesetzbuch – Soziale Pflegeversicherung –, der durch Artikel 5
@@ -30,9 +31,11 @@ mit dem Bundesministerium für Arbeit und Soziales:
 
 
 ## Abschnitt 1 - Antragsberechtigung und Antragsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000100000)
 
 
 ### § 1 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000200000)
 
 (1) Das Verfahren zur Aufnahme einer digitalen Pflegeanwendung in das
 Verzeichnis für digitale Pflegeanwendungen des Bundesinstituts für
@@ -50,6 +53,7 @@ oder elektronischer Form vorzulegen.
 
 
 ### § 2 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000300000)
 
 (1) Der vom Hersteller einer digitalen Pflegeanwendung beim
 Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende
@@ -166,9 +170,11 @@ bestimmt sind, sind in deutscher Sprache zu machen.
 
 
 ## Abschnitt 2 - Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000200000)
 
 
 ### § 3 Anforderungen an Sicherheit und Funktionstauglichkeit digitaler Pflegeanwendungen als Nicht-Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000400000)
 
 (1) Digitale Pflegeanwendungen, die keine Medizinprodukte im Sinne der
 geltenden medizinprodukterechtlichen Vorschriften sind, sind so zu
@@ -204,6 +210,7 @@ insbesondere:
 
 
 ### § 4 Anforderungen an Sicherheit und Funktionstauglichkeit digitaler Pflegeanwendungen als Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000500000)
 
 (1) Für digitale Pflegeanwendungen, die Medizinprodukte im Sinne der
 jeweils geltenden medizinprodukterechtlichen Vorschriften sind, gilt
@@ -220,6 +227,7 @@ Bescheinigungen, verlangen. § 3 Absatz 3 Satz 3 gilt entsprechend.
 
 
 ### § 5 Anforderungen an Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000600000)
 
 (1) Digitale Pflegeanwendungen müssen die gesetzlichen Vorgaben des
 Datenschutzes und die Anforderungen an die Datensicherheit nach dem
@@ -294,6 +302,7 @@ ausgeschlossen; Absatz 3 Satz 5 gilt entsprechend.
 
 
 ### § 6 Anforderungen an Qualität
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000700000)
 
 (1) Digitale Pflegeanwendungen sind so zu gestalten, dass sie die
 Anforderungen der technischen, syntaktischen und semantischen
@@ -370,6 +379,7 @@ Anlage 2 bei.
 
 
 ### § 7 Anforderungen an Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000800000)
 
 Als interoperable Formate nach § 6 Absatz 1 gelten offene,
 international anerkannte Standards und vom Hersteller der digitalen
@@ -383,6 +393,7 @@ getroffen worden sind, kann der Hersteller auch diese verwenden.
 
 
 ### § 8 Nachweis durch Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE000900000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann von
 dem Hersteller die Vorlage von Zertifikaten verlangen, die die
@@ -452,9 +463,11 @@ Gutachten verlangen.
 
 
 ## Abschnitt 3 - Anforderungen an den Nachweis des pflegerischen Nutzens
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000300000)
 
 
 ### § 9 Pflegerischer Nutzen digitaler Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001000000)
 
 (1) Ein pflegerischer Nutzen im Sinne dieser Verordnung liegt vor,
 wenn durch die Verwendung der digitalen Pflegeanwendung
@@ -498,6 +511,7 @@ Pflegebedürftigen dient.
 
 
 ### § 10 Nachweis des pflegerischen Nutzens
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001100000)
 
 (1) In dem Antrag auf Aufnahme in das Verzeichnis für digitale
 Pflegeanwendungen führt der Hersteller den Nachweis:
@@ -533,6 +547,7 @@ Vergleichbarkeit nach Satz 2 ist zu begründen.
 
 
 ### § 11 Studien zum Nachweis des pflegerischen Nutzens
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001200000)
 
 (1) Der Hersteller legt zum Nachweis des pflegerischen Nutzens
 vergleichende Studien vor. Vergleichende Studien im Sinne von Satz 1
@@ -586,6 +601,7 @@ Berichterstattung von Studien erstellt werden.
 
 
 ### § 12 Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001300000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bewertet
 im Rahmen einer Abwägungsentscheidung, ob auf Grundlage der
@@ -605,9 +621,11 @@ im Einzelfall von den Vorgaben an Nachweise nach § 11 abweichen.
 
 
 ## Abschnitt 4 - Ergänzende Vorschriften für das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000400000)
 
 
 ### § 13 Einleitung des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001400000)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem
 Antragsteller innerhalb von 14 Tagen den Eingang der vollständigen
@@ -617,6 +635,7 @@ Arzneimittel und Medizinprodukte möglich.
 
 
 ### § 14 Wesentliche Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001500000)
 
 (1) Wesentliche Veränderungen im Sinne dieser Verordnung sind solche,
 die
@@ -664,6 +683,7 @@ Sozialgesetzbuch gilt entsprechend.
 
 
 ### § 15 Verfahren bei wesentlichen Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001600000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt
 dem Hersteller innerhalb von 14 Tagen den Eingang der vollständigen
@@ -686,9 +706,11 @@ zu ergänzen.
 
 
 ## Abschnitt 5 - Inhalte und Veröffentlichung des Verzeichnisses für digitale Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000500000)
 
 
 ### § 16 Inhalte des elektronischen Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001700000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte listet im
 Verzeichnis für digitale Pflegeanwendungen die nach § 40a des Elften
@@ -739,6 +761,7 @@ Sozialgesetzbuch gelistet ist.
 
 
 ### § 17 Weitere Ausgestaltung des elektronischen Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001801311)
 
 (1) Im Verzeichnis für digitale Pflegeanwendungen werden weitere
 Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies
@@ -857,6 +880,7 @@ ausdrücklich widersprochen hat.
 
 
 ### § 18 Bekanntmachung des Verzeichnisses für digitale Pflegeanwendungen im Bundesanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE001900000)
 
 (1) Durch das Bundesinstitut für Arzneimittel und Medizinprodukte sind
 im Bundesanzeiger bekannt zu machen:
@@ -895,9 +919,11 @@ Medizinprodukte hin.
 
 
 ## Abschnitt 6 - Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000600000)
 
 
 ### § 19 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002000000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte berät
 Hersteller digitaler Pflegeanwendungen auf deren Anfrage vor
@@ -928,9 +954,11 @@ Informationen sind vertraulich zu behandeln.
 
 
 ## Abschnitt 7 - Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000700000)
 
 
 ### § 20 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002100000)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
 individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen
@@ -938,6 +966,7 @@ nach Maßgabe der folgenden Vorschriften.
 
 
 ### § 21 Gebühren für Entscheidungen über die Aufnahme digitaler Pflegeanwendungen in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002200000)
 
 Die Gebühr beträgt für die Entscheidung nach § 78a Absatz 5 Satz 1 des
 Elften Buches Sozialgesetzbuch über einen Antrag des Herstellers zur
@@ -946,6 +975,7 @@ Aufnahme in das Verzeichnis mindestens 3 000 und höchstens
 
 
 ### § 22 Gebühren für Änderungsanzeigen und Streichung
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002300000)
 
 (1) Die Gebühr für die Bearbeitung einer Anzeige nach § 78a Absatz 5
 Satz 5 des Elften Buches Sozialgesetzbuch in Verbindung mit § 139e
@@ -975,6 +1005,7 @@ Absatz 1 Satz 2 und 3 ist gebührenfrei.
 
 
 ### § 23 Gebühr für Beratungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002400000)
 
 (1) Die Gebühr für die Beratung des Herstellers digitaler
 Pflegeanwendungen nach § 78a Absatz 5 Satz 4 des Elften Buches
@@ -985,6 +1016,7 @@ elektronische Auskünfte sind gebührenfrei.
 
 
 ### § 24 Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002500000)
 
 (1) Wird ein Antrag ganz oder teilweise abgelehnt, ist eine Gebühr bis
 zu der Höhe zu erheben, die für die beantragte individuell
@@ -1027,6 +1059,7 @@ werden, ist eine Gebühr bis zur Höhe des für die vollständige
 
 
 ### § 25 Sonstige Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002600000)
 
 (1) Bei individuell zurechenbaren öffentlichen Leistungen nach den
 Nummern 1 bis 3, die auf Antrag erbracht werden, sind folgende
@@ -1057,6 +1090,7 @@ hinzuweisen.
 
 
 ### § 26 Gebührenermäßigung und Gebührenbefreiung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002700000)
 
 (1) Die nach den §§ 21 bis 23 zu erhebenden Gebühren können auf Antrag
 des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr
@@ -1078,12 +1112,14 @@ besonders gering ist.
 
 
 ### § 27 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002800000)
 
 Für die Erstattung von Auslagen gilt § 12 Absatz 1 des
 Bundesgebührengesetzes entsprechend.
 
 
 ### § 28 Entstehung der Gebühren- und Auslagenschuld
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE002900000)
 
 (1) Die Gebührenschuld entsteht mit Beendigung der individuell
 zurechenbaren öffentlichen Leistung. Bedarf diese Leistung einer
@@ -1110,6 +1146,7 @@ Beendigung der Leistung.
 
 
 ### § 29 Gebühren- und Auslagenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003000000)
 
 (1) Zur Zahlung der Gebühren ist derjenige verpflichtet,
 
@@ -1132,9 +1169,11 @@ Beendigung der Leistung.
 
 
 ## Abschnitt 8 - Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000800000)
 
 
 ### § 30 Einigung über den Vorsitzenden und die unparteiischen Mitglieder der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003100000)
 
 Über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder
 sowie deren Stellvertreter sollen sich die in § 134 Absatz 3 des
@@ -1143,6 +1182,7 @@ Elften Buches Sozialgesetzbuch genannten Verbände gemeinsam einigen.
 
 
 ### § 31 Einleitung des Schiedsverfahrens und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003200000)
 
 (1) Kommt eine Vereinbarung über Vergütungsbeträge sowie technische
 und vertragliche Rahmenbedingungen für die Zurverfügungstellung der
@@ -1158,6 +1198,7 @@ zur Stellungnahme geben.
 
 
 ### § 32 Entschädigung und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003300000)
 
 (1) Der Vorsitzende der Schiedsstelle und die zwei weiteren
 unparteiischen Mitglieder oder ihre Stellvertreter erhalten
@@ -1177,9 +1218,11 @@ der Schiedsstelle beteiligten Verbände.
 
 
 ## Abschnitt 9 - Inhalte des Berichtes über digitale Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG000900000)
 
 
 ### § 33 Inhalte des Berichtes über digitale Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003400000)
 
 (1) Der Bericht nach § 78a Absatz 9 des Elften Buches Sozialgesetzbuch
 enthält insbesondere Folgendes:
@@ -1284,14 +1327,17 @@ privaten Krankenversicherung e. V.
 
 
 ## Abschnitt 10 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNG001000000)
 
 
 ### § 34 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 Fragebogen gemäß § 3 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003600000)
 
 (Fundstelle: BGBl. I 2022, 1579 - 1593)
 
@@ -2847,6 +2893,7 @@ Absatz 4 des Elften Buches Sozialgesetzbuch anzugeben.
 
 
 ### Anlage 2 Fragebogen gemäß den §§ 6 und 7
+[Direktlink](https://www.gesetze-im-internet.de/dipav/BJNR156800022.html#BJNR156800022BJNE003701311)
 
 (Fundstelle: BGBl. I 2022, 1594 - 1602;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

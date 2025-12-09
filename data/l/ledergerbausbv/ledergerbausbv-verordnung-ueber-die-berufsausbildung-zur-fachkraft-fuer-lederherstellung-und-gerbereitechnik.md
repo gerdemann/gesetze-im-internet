@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-94 v. 13.8.1981 I 838 (GerbAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -40,9 +41,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000300000)
 
 Der Ausbildungsberuf der Fachkraft für Lederherstellung und
 Gerbereitechnik wird staatlich anerkannt nach
@@ -58,11 +61,13 @@ Gerbereitechnik wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -80,6 +85,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -154,6 +160,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -161,6 +168,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -171,9 +179,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Abschluss- und Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE000900000)
 
 (1) Durch die Abschluss- und Gesellenprüfung ist festzustellen, ob der
 Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -185,6 +195,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001000000)
 
 Teil 1 der Abschluss- und Gesellenprüfung erstreckt sich auf
 
@@ -201,6 +212,7 @@ Teil 1 der Abschluss- und Gesellenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001100000)
 
 Teil 1 der Abschluss- und Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -215,6 +227,7 @@ Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich Blößenherstellung und Trocknung von Leder
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001200000)
 
 (1) Im Prüfungsbereich Blößenherstellung und Trocknung von Leder soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -262,6 +275,7 @@ dauern insgesamt 45 Minuten.
 
 
 ### § 11 Prüfungsbereich Technologie der Blößenherstellung und der Gerbung
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001300000)
 
 (1) Im Prüfungsbereich Technologie der Blößenherstellung und der
 Gerbung soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -292,6 +306,7 @@ Gerbung soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 12 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001400000)
 
 (1) Teil 2 der Abschluss- und Gesellenprüfung erstreckt sich auf
 
@@ -314,6 +329,7 @@ erforderlich ist.
 
 
 ### § 13 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001500000)
 
 Teil 2 der Abschluss- und Gesellenprüfung findet in folgenden
 Prüfungsbereichen statt:
@@ -331,6 +347,7 @@ Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich Nasszurichtungs- und Zurichtungsprozesse
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001600000)
 
 (1) Im Prüfungsbereich Nasszurichtungs- und Zurichtungsprozesse soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -379,6 +396,7 @@ dauern insgesamt 90 Minuten.
 
 
 ### § 15 Prüfungsbereich Technologie der Nasszurichtung und Zurichtung
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001700000)
 
 (1) Im Prüfungsbereich Technologie der Nasszurichtung und Zurichtung
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -417,6 +435,7 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -430,6 +449,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- und Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -509,9 +529,11 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNG000300000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE002000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -521,6 +543,7 @@ Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Gerber-Ausbildungsverordnung vom 13. August 1981 (BGBl. I S. 838)
@@ -529,6 +552,7 @@ außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Lederherstellung und Gerbereitechnik
+[Direktlink](https://www.gesetze-im-internet.de/ledergerbausbv/BJNR114800015.html#BJNR114800015BJNE002200000)
 
 (Fundstelle: BGBl. I 2015, 1152 - 1156)
 

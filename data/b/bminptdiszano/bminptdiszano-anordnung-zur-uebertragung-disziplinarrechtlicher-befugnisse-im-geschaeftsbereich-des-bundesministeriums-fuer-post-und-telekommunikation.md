@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bminptdiszano/BJNR110300995.html#BJNR110300995BJNE000100320)
 
 Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der Fassung
 der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) wird angeordnet:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminptdiszano/BJNR110300995.html#BJNR110300995BJNE000200320)
 
 Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren
 gegen Ruhestandsbeamte werden übertragen
@@ -44,6 +46,7 @@ gegen Ruhestandsbeamte werden übertragen
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminptdiszano/BJNR110300995.html#BJNR110300995BJNE000300320)
 
 Diese Anordnung tritt am 1. Januar 1995 in Kraft. Gleichzeitig treten
 die Anordnung zur Durchführung der Bundesdisziplinarordnung für die
@@ -56,6 +59,7 @@ Direktoriums der Deutschen Bundespost vom 5. März 1990 außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bminptdiszano/BJNR110300995.html#BJNR110300995BJNE000400320)
 
 Bundesministerium für Post und Telekommunikation
 

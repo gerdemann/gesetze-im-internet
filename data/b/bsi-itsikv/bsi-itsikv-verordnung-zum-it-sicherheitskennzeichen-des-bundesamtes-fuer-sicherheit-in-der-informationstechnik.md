@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000101129)
 
 Auf Grund des § 56 Absatz 2 des BSI-Gesetzes vom 2. Dezember 2025
 (BGBl. 2025 I Nr. 301, S. 2) verordnet das Bundesministerium des
@@ -30,6 +31,7 @@ und nukleare Sicherheit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000200000)
 
 Diese Verordnung regelt die Gestaltung und Verwendung des IT-
 Sicherheitskennzeichens im Sinne des § 9c Absatz 1 Satz 1 des BSI-
@@ -39,6 +41,7 @@ fest.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000301129)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -113,6 +116,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ## § 3 Gestaltung des Etiketts und der Internetseite zum IT-Sicherheitskennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000401129)
 
 (1) Das IT-Sicherheitskennzeichen besteht aus der Herstellererklärung
 und der Sicherheitsinformation nach § 55 Absatz 2 des BSI-Gesetzes,
@@ -154,6 +158,7 @@ bereitgestellt und abgerufen werden können.
 
 
 ## § 4 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000500000)
 
 (1) Ein Antrag auf Freigabe des IT-Sicherheitskennzeichens für ein
 Produkt kann nur innerhalb der vom Bundesamt nach § 11 bekannt
@@ -171,6 +176,7 @@ Freigabeerklärung nach dieser Verordnung mit.
 
 
 ## § 5 Antragsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000601129)
 
 (1) Das Bundesamt führt anhand der eingereichten Unterlagen eine
 Plausibilitätsprüfung durch. Die Prüfung erfolgt innerhalb der nach §
@@ -212,6 +218,7 @@ elektronisch zu erlassen.
 
 
 ## § 6 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000701129)
 
 (1) Das Bundesamt kann auf die Plausibilitätsprüfung verzichten, wenn
 das Bundesamt für das Produkt ein Zertifikat nach § 52 des BSI-
@@ -230,6 +237,7 @@ Internetseite.
 
 
 ## § 7 Gegenstand der Herstellererklärung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000801129)
 
 (1) Die Herstellererklärung enthält die Zusicherung, dass das Produkt
 für die nach § 8 festgelegte Dauer die für die einschlägige
@@ -256,6 +264,7 @@ wie eigene zugerechnet.
 
 
 ## § 8 Laufzeit des IT-Sicherheitskennzeichens und Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE000900000)
 
 (1) Der Hersteller versichert, dass die Herstellererklärung für die
 dafür festgelegte Dauer erfüllt wird (Laufzeit). Die Laufzeit beträgt
@@ -294,6 +303,7 @@ Sicherheitsgründe erfordern eine sofortige Maßnahme.
 
 
 ## § 9 Verwendung des Sicherheitskennzeichens
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001001129)
 
 (1) Das produktspezifische Etikett darf in physischer und
 elektronischer Ausführung für die Dauer der Freigabe nach den Vorgaben
@@ -320,6 +330,7 @@ mit dem Etikett auf den Markt gebracht werden.
 
 
 ## § 10 Anerkennung von Normen, Standards oder branchenabgestimmten IT-Sicherheitsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001100000)
 
 (1) Das Bundesamt kann von Amts wegen feststellen, dass eine
 bestehende Norm oder ein Standard geeignet ist, die Anforderungen nach
@@ -352,6 +363,7 @@ Richtlinie überführt werden.
 
 
 ## § 11 Produktkategorien
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001200000)
 
 (1) Das Bundesamt legt die Produktkategorien fest, für deren Produkte
 es die Freigabe des IT-Sicherheitskennzeichens erteilt. Es gibt die
@@ -380,6 +392,7 @@ einer im Bundesanzeiger veröffentlichten Allgemeinverfügung.
 
 
 ## § 12 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001300000)
 
 (1) Eine Aufsicht über Produkte und Hersteller, welche die Freigabe
 zur Nutzung des Sicherheitskennzeichens erhalten haben, erfolgt für
@@ -398,6 +411,7 @@ Verbraucherorganisationen zur Grundlage seiner Aufsicht machen.
 
 
 ## § 13 Informationen für Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001401129)
 
 Verbraucherinformationen zu Produkten mit der Freigabe zur Nutzung des
 IT-Sicherheitskennzeichens werden in der Sicherheitsinformation nach §
@@ -407,6 +421,7 @@ veröffentlicht. Davon unberührt bleiben die Bestimmungen der § 13 oder
 
 
 ## § 14 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001501129)
 
 Drei Jahre nach Inkrafttreten dieser Rechtsverordnung und folgend alle
 drei Jahre sind unter Beteiligung der in § 56 Absatz 2 des BSI-
@@ -425,6 +440,7 @@ Gesetzes genannten Ressorts zu evaluieren:
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsi-itsikv/BJNR497800021.html#BJNR497800021BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

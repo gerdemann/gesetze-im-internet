@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000100310)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung
@@ -33,6 +34,7 @@ und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000200310)
 
 Die Meisterprüfung im Friseur-Handwerk umfasst folgende selbständige
 Prüfungsteile:
@@ -56,6 +58,7 @@ Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000300310)
 
 (1) Durch die Meisterprüfung im Friseur-Handwerk wird festgestellt,
 dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu
@@ -140,6 +143,7 @@ Qualifikationen zugerechnet:
 
 
 ## § 3 Gliederung, Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000400310)
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -170,6 +174,7 @@ sein darf.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000500310)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Der Kundenauftrag ist so zu gestalten,
@@ -216,6 +221,7 @@ Elemente nach Absatz 1 Nr. 3 mit 20 vom Hundert ein.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000600310)
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt
 wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er
@@ -227,6 +233,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000700310)
 
 (1) In der Situationsaufgabe sind die wesentlichen Kenntnisse und
 Fertigkeiten zu prüfen, die im Meisterprüfungsprojekt nicht oder nur
@@ -278,6 +285,7 @@ gewichtet.
 
 
 ## § 7 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000801360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung
 gestalterischer, technologischer, betriebsorganisatorischer sowie
@@ -426,6 +434,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE000902128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -436,6 +445,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE001001360)
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -443,6 +453,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/friseur-mstrv/BJNR063800001.html#BJNR063800001BJNE001100310)
 
 Diese Verordnung tritt am 1. September 2001 in Kraft.
 

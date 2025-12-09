@@ -20,28 +20,34 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000200305)
 
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000300305)
 
 -
 
 
 ## Art 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000405119)
 
 
 ## (XXXX) Art 9 bis 11
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000500305)
 
 
 
 ## Art 12 Aufsicht zur Budgetierung 1999
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000600305)
 
 (1) Die Vereinbarungen über die Vergütung der Leistungen nach § 83
 Abs. 1, §§ 85, 88 und 125 Fünftes Buch Sozialgesetzbuch für das Jahr
@@ -75,6 +81,7 @@ Verteilungsmaßstab bis zum 31. März 1999 fest.
 
 
 ## Art 13 Ausgabenbegrenzung bei Strukturverträgen
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000700305)
 
 In Verträgen nach § 73a Fünftes Buch Sozialgesetzbuch ist das
 Vergütungsvolumen als Bestandteil der Gesamtvergütung (§ 85 Abs. 2
@@ -84,6 +91,7 @@ dieses Gesetzes begrenzt. Satz 1 gilt nicht für Verträge, die vor dem
 
 
 ## Art 14 Gesamtvergütung der Vertragsärzte im Jahr 1999
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000801308)
 
 (1) Die nach § 85 Abs. 3 Fünftes Buch Sozialgesetzbuch zu
 vereinbarenden Veränderungen der Gesamtvergütungen der Vertragsärzte
@@ -162,6 +170,7 @@ Sozialgesetzbuch gilt Absatz 1 entsprechend.
 
 
 ## Art 15 Budget- und Preisregelung vertragszahnärztlicher Versorgung im Jahr 1999
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE000900305)
 
 (1) Für das Jahr 1999 darf in der nach § 85 Abs. 2 und 3 Fünftes Buch
 Sozialgesetzbuch zu vereinbarenden Gesamtvergütung das Ausgabenvolumen
@@ -201,6 +210,7 @@ Bundesgebiet getrennt anzuwenden.
 
 
 ## Art 16 Arznei-, Verband- und Heilmittelbudget für 1999
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001000305)
 
 (1) Als Budget nach § 84 Abs. 1 Fünftes Buch Sozialgesetzbuch für das
 Jahr 1999 gilt der um 7,5 vom Hundert erhöhte Betrag des Budgets für
@@ -224,6 +234,7 @@ vor Inkrafttreten dieses Gesetzes.
 
 
 ## Art 17 Festsetzung des Vertragsinhalts durch das Schiedsamt
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001100305)
 
 Kommen für das Jahr 1999 Vereinbarungen nach § 84 Abs. 3, § 85 Abs. 2
 und 3 und § 106 Fünftes Buch Sozialgesetzbuch bis zum 31. März 1999
@@ -238,6 +249,7 @@ gekommen ist.
 
 
 ## Art 18 Veränderungsrate der beitragspflichtigen Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001200305)
 
 Das Bundesministerium für Gesundheit stellt für das 1. bis 4. Quartal
 1998 die Veränderungsrate der beitragspflichtigen Einnahmen der
@@ -254,6 +266,7 @@ im Bundesanzeiger veröffentlicht.
 
 
 ## Art 19 Sonderkündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001300305)
 
 Versicherungspflichtige und ihre versicherten Familienangehörigen, die
 auf Grund ihrer Wahl der Kostenerstattung nach § 13 Abs. 2 Fünftes
@@ -268,11 +281,13 @@ mit Zahnersatz im Rahmen der vertragszahnärztlichen Versorgung hatten.
 
 
 ## Art 20
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001400305)
 
 -
 
 
 ## Art 21 Ende der laufenden Wahlperiode der Vertreterversammlungen der Kassenärztlichen/Kassenzahnärztlichen Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001500305)
 
 Soweit die laufenden Wahlperioden und die Amtsdauer der Mitglieder der
 Vertreterversammlungen der Kassenärztlichen Vereinigungen und der
@@ -281,6 +296,7 @@ verlängern sie sich bis zu diesem Zeitpunkt.
 
 
 ## Art 22 Gebührenordnung für Zahnärzte
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001601308)
 
 (1) (aufgehoben)
 
@@ -290,11 +306,13 @@ werden.
 
 
 ## Art 23
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001700305)
 
 -
 
 
 ## Art 24 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001801308)
 
 (1) Pflichtversicherte und ihre nach § 10 des Fünften Buches
 Sozialgesetzbuch versicherten Familienangehörigen, die als
@@ -330,6 +348,7 @@ die Abrechnung als Sachleistung auch für bereits vor dem 1. Januar
 
 
 ## Art 25 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE001900305)
 
 Die auf den Artikeln 5, 6, 10, 11 und 23 beruhenden Teile der
 geänderten Rechtsverordnungen können auf Grund der jeweils
@@ -337,6 +356,7 @@ einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ## Art 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gkv-solg/BJNR385300998.html#BJNR385300998BJNE002000305)
 
 (1) Artikel 3 tritt mit Wirkung vom 1. Januar 1998 in Kraft.
 

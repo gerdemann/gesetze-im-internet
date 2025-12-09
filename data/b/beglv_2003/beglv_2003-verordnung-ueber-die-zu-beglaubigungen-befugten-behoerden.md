@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beglv_2003/BJNR036100003.html#BJNR036100003BJNE000100000)
 
 Auf Grund des § 33 Abs. 1 Satz 2 und Abs. 4 sowie des § 34 Abs. 1 Satz
 1 und Abs. 4 in Verbindung mit Abs. 5 des
@@ -26,6 +27,7 @@ Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom
 
 
 ## § 1 Zu Beglaubigungen befugte Behörden
+[Direktlink](https://www.gesetze-im-internet.de/beglv_2003/BJNR036100003.html#BJNR036100003BJNE000200000)
 
 Alle Behörden im Sinne des § 1 Abs. 1 Nr. 1 des
 Verwaltungsverfahrensgesetzes sind befugt, Beglaubigungen nach den §§
@@ -33,6 +35,7 @@ Verwaltungsverfahrensgesetzes sind befugt, Beglaubigungen nach den §§
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beglv_2003/BJNR036100003.html#BJNR036100003BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Februar 2003 in Kraft.
 

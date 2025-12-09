@@ -21,6 +21,7 @@ V aufgeh. durch
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/epi_appro2002abwv/BJNR609100020.html#BJNR609100020BJNE001201116)
 
 Studierende, die das vorzeitige Praktische Jahr im Zeitpunkt der
 Aufhebung der Feststellung einer epidemischen Lage von nationaler

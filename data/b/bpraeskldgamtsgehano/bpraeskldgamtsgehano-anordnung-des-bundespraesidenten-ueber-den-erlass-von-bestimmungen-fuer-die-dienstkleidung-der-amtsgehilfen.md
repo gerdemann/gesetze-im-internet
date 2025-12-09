@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgamtsgehano/BJNR006610959.html#BJNR006610959BJNE000100303)
 
 Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister
 des Innern die Befugnis, Bestimmungen über die Dienstkleidung der

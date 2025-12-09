@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Erteilung der Vollstreckungsklausel zu gerichtlichen Entscheidungen und zu anderen Schuldtiteln
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE000500306)
 
 (1) Für die Erteilung der Vollstreckungsklausel zu gerichtlichen
 Entscheidungen (Artikel 1, 6ff. des Vertrages) und zu anderen
@@ -40,6 +42,7 @@ befindet oder die Zwangsvollstreckung durchgeführt werden soll.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE000600306)
 
 Der Antrag auf Erteilung der Vollstreckungsklausel (Artikel 9, 16 Abs.
 2 des Vertrages) kann bei dem Gericht schriftlich eingereicht oder
@@ -47,12 +50,14 @@ mündlich zu Protokoll der Geschäftsstelle gestellt werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE000700306)
 
 Über den Antrag entscheidet der Vorsitzende ohne mündliche
 Verhandlung. Einer Anhörung des Schuldners bedarf es nicht.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE000800306)
 
 Hängt die Vollstreckung nach dem Inhalt des Schuldtitels (§ 1 Abs. 1)
 von einer dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf
@@ -71,12 +76,14 @@ auch mündliche Verhandlung vor dem Vorsitzenden angeordnet werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE000900306)
 
 Ist der Antrag begründet, so ordnet der Vorsitzende die Erteilung der
 Vollstreckungsklausel an.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001001310)
 
 (1) Ist der Antrag nicht begründet, so lehnt ihn der Vorsitzende durch
 Beschluß ab. Der Beschluß ist mit Gründen zu versehen.
@@ -87,6 +94,7 @@ entsprechend.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001100306)
 
 (1) Auf Grund der Anordnung des Vorsitzenden (§ 5) wird die
 Vollstreckungsklausel von dem Urkundsbeamten der Geschäftsstelle in
@@ -112,6 +120,7 @@ Zivilprozeßordnung entsprechend anzuwenden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001200306)
 
 Eine beglaubigte Abschrift des nach § 7 mit der Vollstreckungsklausel
 versehenen Schuldtitels (§ 1 Abs. 1) und seiner Übersetzung ist dem
@@ -122,6 +131,7 @@ Bescheinigung über die bewirkte Zustellung zu übersenden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001300306)
 
 (1) Gegen die Anordnung des Vorsitzenden, daß die
 Vollstreckungsklausel zu erteilen ist (§ 5), findet Widerspruch statt.
@@ -140,6 +150,7 @@ Bescheinigung über die bewirkte Zustellung (§ 8 Satz 3) zu vermerken.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001400306)
 
 (1) Über den Widerspruch entscheidet das Landgericht durch Beschluß;
 der Beschluß kann ohne mündliche Verhandlung ergehen. Vor der
@@ -153,6 +164,7 @@ zulässig.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001501310)
 
 Der Beschluss, durch den über den Widerspruch entschieden wird,
 unterliegt der Beschwerde nach den §§ 567 bis 577 der
@@ -161,6 +173,7 @@ Zivilprozessordnung; § 1065 der Zivilprozessordnung gilt entsprechend.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001600306)
 
 Solange eine mündliche Verhandlung nicht angeordnet ist, können auch
 zu Protokoll der Geschäftsstelle Anträge gestellt und Erklärungen
@@ -168,6 +181,7 @@ abgegeben werden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001700306)
 
 (1) Ist zu einem Schuldtitel (§ 1 Abs. 1) die Vollstreckungsklausel
 erteilt, so kann der Schuldner Einwendungen gegen den Anspruch selbst
@@ -193,6 +207,7 @@ Erteilung der Vollstreckungsklausel entschieden hat.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001800306)
 
 (1) Die Zwangsvollstreckung aus den mit der Vollstreckungsklausel
 versehenen Schuldtiteln (§ 1 Abs. 1) darf erst nach Ablauf der Frist
@@ -204,10 +219,12 @@ einschließlich solcher, die auf eine Sicherung gerichtet sind.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Änderung der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNG000200306)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE001901310)
 
 (1) Wird ein Schuldtitel (§ 1 Abs. 1) nach der Erteilung der
 Vollstreckungsklausel in den Niederlanden aufgehoben oder geändert und
@@ -232,6 +249,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002000306)
 
 (1) Wird die Vollstreckungsklausel zu einem Schuldtitel (§ 1 Abs. 1)
 auf den Widerspruch oder die sofortige Beschwerde aufgehoben oder
@@ -250,10 +268,12 @@ Vollstreckungsklausel entschieden hat.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNG000300306)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002100306)
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in den
 Niederlanden geltend gemacht werden soll, so darf das Urteil nicht in
@@ -261,6 +281,7 @@ abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002200306)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
@@ -285,6 +306,7 @@ nicht erhoben.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002300306)
 
 Arrestbefehlen, einstweiligen Anordnungen oder Verfügungen (Artikel 1
 Abs. 2 des Vertrages), die in den Niederlanden geltend gemacht werden
@@ -293,6 +315,7 @@ anzuwenden.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002400306)
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen
 (Artikel 1 Abs. 2 des Vertrages), auf Grund deren ein Gläubiger die
@@ -303,10 +326,12 @@ der Zivilprozeßordnung nicht erforderlich wäre.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNG000400306)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002500306)
 
 Die Landesregierungen werden ermächtigt, die Entscheidung über Anträge
 auf Erteilung der Vollstreckungsklausel zu ausländischen Schuldtiteln
@@ -319,11 +344,13 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002600306)
 
 -
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002700306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -331,6 +358,7 @@ im Land Berlin.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/vollstrvtrnldag/BJNR000170965.html#BJNR000170965BJNE002800306)
 
 (1) Dieses Gesetz tritt gleichzeitig mit dem Vertrag vom 30. August
 1962 zwischen der Bundesrepublik Deutschland und dem Königreich der

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000100000)
 
 Auf Grund des § 2 Absatz 1 Satz 1 des
 Justizaktenaufbewahrungsgesetzes, der durch Artikel 4 Nummer 3
@@ -28,6 +29,7 @@ gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000200000)
 
 Diese Verordnung regelt die Aufbewahrung und Speicherung der Akten,
 Aktenregister, Karteien, Namens- und sonstigen Verzeichnisse der
@@ -40,6 +42,7 @@ unberührt.
 
 
 ## § 2 Durchführung der Aufbewahrung und Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000300000)
 
 (1) Die weggelegten oder abschließend bearbeiteten Akten,
 Aktenregister, Karteien, Namens- und sonstigen Verzeichnisse sind bis
@@ -55,6 +58,7 @@ Maßnahmen zu gewährleisten.
 
 
 ## § 3 Aufbewahrungs- und Speicherungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000400000)
 
 (1) Die Aufbewahrungs- und Speicherungsfristen bestimmen sich nach der
 Anlage. Für in der Anlage nicht ausdrücklich bezeichnete Akten gelten
@@ -94,6 +98,7 @@ mehr benötigt werden.
 
 
 ## § 4 Beginn der Aufbewahrungs- und Speicherungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000500000)
 
 (1) Die Aufbewahrungs- und Speicherungsfrist beginnt mit Ablauf des
 Jahres, in dem die Weglegung der Akten angeordnet wurde. Für Akten,
@@ -114,6 +119,7 @@ erneuten Weglegung beginnt.
 
 
 ## § 5 Beginn der Aufbewahrungs- und Speicherungsfristen in Straf- und Bußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000600000)
 
 (1) Die Aufbewahrungs- und Speicherungsfrist für Akten in Straf- und
 Bußgeldsachen beginnt mit Ablauf des Jahres, in dem die
@@ -141,6 +147,7 @@ speichern.
 
 
 ## § 6 Beginn der Aufbewahrungs- und Speicherungsfristen in Kindschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000700000)
 
 Die Aufbewahrungs- und Speicherungsfrist für Akten in
 Kindschaftssachen nach § 151 des Gesetzes über das Verfahren in
@@ -153,6 +160,7 @@ Angelegenheit beteiligte Person maßgebend.
 
 
 ## § 7 Beginn der Aufbewahrungs- und Speicherungsfristen in bestimmten Nachlasssachen
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000800000)
 
 (1) Die Aufbewahrungs- und Speicherungsfrist für Akten über
 Verfügungen von Todes wegen, soweit diese nicht zurückgegeben wurden,
@@ -167,6 +175,7 @@ Verfügung von Todes wegen eröffnet wurde.
 
 
 ## § 8 Abweichende Bestimmung des Beginns der Aufbewahrungs- und Speicherungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE000900000)
 
 Die Leitung der für die Aktenaufbewahrung oder -speicherung
 zuständigen Stelle kann anordnen, dass die Aufbewahrungs- und
@@ -178,6 +187,7 @@ werden.
 
 
 ## § 9 Aussetzung der Aussonderung
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE001000000)
 
 (1) Die Leitung der für die Aktenaufbewahrung oder -speicherung
 zuständigen Stelle kann für eine Gruppe von Akten anordnen, dass deren
@@ -197,6 +207,7 @@ dokumentieren. § 8 Satz 3 gilt entsprechend.
 
 
 ## § 10 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE001100000)
 
 Die Aufbewahrungs- und Speicherungsfristen nach der Anlage sind,
 vorbehaltlich abweichender Regelungen der Länder auf der Grundlage des
@@ -206,12 +217,14 @@ vor dem 1. Januar 2022 begonnen hat.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE001200000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
 (zu § 3 Absatz 1 Satz 1)
 
 ## Anlage Aufbewahrungs- und Speicherungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/jaktav/BJNR483400021.html#BJNR483400021BJNE001302125)
 
 (Fundstelle: BGBl. I 2021, 4837 - 4898;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

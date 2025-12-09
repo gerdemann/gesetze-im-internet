@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zinnrvorrv/BJNR215810976.html#BJNR215810976BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zinnrvorrv/BJNR215810976.html#BJNR215810976BJNE000200314)
 
 Für die Gewährung von Vorrechten und Immunitäten an den
 Internationalen Zinnrat gilt das Fünfte Internationale Zinn-
@@ -39,6 +41,7 @@ veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zinnrvorrv/BJNR215810976.html#BJNR215810976BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 4
@@ -51,6 +54,7 @@ vom 28. Februar 1964, auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zinnrvorrv/BJNR215810976.html#BJNR215810976BJNE000400314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen nach seinem Artikel 49 für die Bundesrepublik

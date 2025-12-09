@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000100000)
 
 Auf Grund des § 137 des Markengesetzes vom 25. Oktober 1994 (BGBl. I
 S. 3082) verordnet das Bundesministerium der Justiz im Einvernehmen
@@ -26,6 +27,7 @@ Landwirtschaft und Forsten und für Gesundheit:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000200000)
 
 Der Name Solingen darf im geschäftlichen Verkehr nur für solche
 Schneidwaren benutzt werden, die
@@ -42,12 +44,14 @@ Schneidwaren benutzt werden, die
 
 
 ## § 2 Herkunftsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000300000)
 
 Das Solinger Industriegebiet umfaßt das Gebiet der kreisfreien Stadt
 Solingen und das Gebiet der im Kreis Mettmann gelegenen Stadt Haan.
 
 
 ## § 3 Begriff der Schneidwaren
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000400000)
 
 Schneidwaren im Sinne des § 1 sind insbesondere:
 
@@ -83,11 +87,13 @@ Schneidwaren im Sinne des § 1 sind insbesondere:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/solingenv/BJNR383300994.html#BJNR383300994BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

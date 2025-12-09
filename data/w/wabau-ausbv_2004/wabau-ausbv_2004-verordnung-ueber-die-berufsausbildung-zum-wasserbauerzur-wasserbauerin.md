@@ -24,6 +24,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -35,6 +36,7 @@ Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000200000)
 
 Der Ausbildungsberuf Wasserbauer/Wasserbauerin wird staatlich
 anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes
@@ -43,11 +45,13 @@ stattfindet, ist er ein Ausbildungsberuf des öffentlichen Dienstes. Im
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000400000)
 
 (1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
 (Anlage) wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen
@@ -75,6 +79,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -154,6 +159,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000600000)
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -165,6 +171,7 @@ erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -172,6 +179,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -180,6 +188,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres
@@ -206,6 +215,7 @@ bei der Ausführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -339,6 +349,7 @@ keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE001100000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -347,11 +358,13 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 ## Anlage (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/wabau-ausbv_2004/BJNR107800004.html#BJNR107800004BJNE001300000)
 
 (Fundstelle: BGBl. I 2004, 1081 - 1087)
 

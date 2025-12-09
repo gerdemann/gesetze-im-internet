@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000100000)
 
 Die Wasser- und Schifffahrtsdirektion Mitte verordnet aufgrund
 
@@ -50,6 +51,7 @@ Die Wasser- und Schifffahrtsdirektion Mitte verordnet aufgrund
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000200118)
 
 Diese Verordnung regelt auf der Edertalsperre und der Diemeltalsperre
 
@@ -76,6 +78,7 @@ Diese Verordnung regelt auf der Edertalsperre und der Diemeltalsperre
 
 
 ## § 2 Begriffsbestimmungen und anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000301311)
 
 (1) Soweit diese Verordnung auf bestimmte Rechtsverordnungen verweist,
 bedeuten:
@@ -191,6 +194,7 @@ bestimmt ist. Im Sinne dieser Verordnung sind ferner
 
 
 ## § 3 Zugelassene Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000401305)
 
 (1) Das Befahren der Talsperren ist mit anderen als den in Satz 2
 bezeichneten Fahrzeugen verboten. Das Befahren der Talsperren ist mit
@@ -243,6 +247,7 @@ Wasserskizugboot nach der Wasserskiverordnung erteilt werden.
 
 
 ## § 4 Stillliegen und Sondertransporte auf den Talsperren
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000501305)
 
 (1) Ein zugelassenes Fahrzeug darf über Nacht nur an einem genehmigten
 Steg oder einer genehmigten Boje stillliegen.
@@ -278,6 +283,7 @@ Binnenschifffahrtsstraßen-Ordnung.
 
 
 ## § 5 Befähigung und Eignung von Schiffsführer und Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000602360)
 
 (1) Jedes Fahrzeug muss unter der Führung einer hierfür geeigneten
 Person stehen (Schiffsführer). Der Schiffsführer muss nicht
@@ -328,6 +334,7 @@ vorzunehmen.
 
 
 ## § 6 Kennzeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000701305)
 
 (1) Der Eigentümer eines Fahrzeuges, mit Ausnahme eines
 Segelsurfbretts, muss sein Fahrzeug mit einem Kennzeichen nach Maßgabe
@@ -361,6 +368,7 @@ Fahrzeug.
 
 
 ## § 7 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000800118)
 
 In der Nacht und bei unsichtigem Wetter muss ein Fahrzeug die nach
 Kapitel 3 der Binnenschifffahrtsstraßen-Ordnung vorgeschriebene
@@ -369,6 +377,7 @@ auf Dauerliegeplätzen stillliegt.
 
 
 ## § 8 Abweichungen von der Binnenschiffsuntersuchungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE000901305)
 
 (1) Das von der Generaldirektion Wasserstraßen und Schifffahrt im
 Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und
@@ -382,6 +391,7 @@ Verkehrs sowie strompolizeiliche Belange nicht beeinträchtigt werden.
 
 
 ## § 9 Allgemeines Verhalten
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001001305)
 
 (1) Jeder Verkehrsteilnehmer hat auf den Talsperren alle
 Vorsichtsmaßnahmen zu treffen, die die allgemeine Sorgfaltspflicht und
@@ -429,6 +439,7 @@ oder der Wasserschutzpolizei zu melden.
 
 
 ## § 10 Gesperrte Wasserflächen
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001101305)
 
 (1) Folgende Wasserflächen dürfen nicht befahren werden:
 
@@ -485,6 +496,7 @@ Die Zulassung kann zeitlich und örtlich beschränkt werden.
 
 
 ## § 11 Besondere Verhaltensregeln
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001201305)
 
 (1) Es darf nur bis zu einem Abstand von 20,00 m an die Abgrenzung
 einer öffentlichen Badefläche und eines Sporttaucherbereichs
@@ -522,6 +534,7 @@ es dabei die Fahrgastschiffe nicht behindert.
 
 
 ## § 12 Geschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001300118)
 
 (1) Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für
 ein Fahrzeug mit Maschinenantrieb 15 km/h. Dies gilt nicht für ein
@@ -535,6 +548,7 @@ vermeiden.
 
 
 ## § 13 Fahrregeln
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001401305)
 
 (1) Ein sonstiges Fahrzeug muss einem Dienstfahrzeug der
 Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der
@@ -594,6 +608,7 @@ einzuhalten:
 
 
 ## § 14 Wasserskilaufen und Kitesurfen
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001500118)
 
 (1) Auf den Talsperren ist das Wasserskilaufen nur in dem in § 10
 Absatz 1 Nummer 4 genannten Wasserskigebiet mit einem
@@ -617,6 +632,7 @@ Das Kitesurfen auf den Talsperren ist verboten.
 
 
 ## § 15 Sonstige Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001601305)
 
 (1) Ein Kraftfahrzeug und ein Anhänger darf im Stauraum nicht geparkt
 werden.
@@ -650,6 +666,7 @@ bundeseigenen Ufergrundstücken verboten.
 
 
 ## § 16 Erlaubnis besonderer Veranstaltungen und Taucherarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001701305)
 
 (1) Eine sportliche Veranstaltung, eine Wasserfestlichkeit und jede
 sonstige Veranstaltung, die zu Ansammlungen von Fahrzeugen führen oder
@@ -682,6 +699,7 @@ werden.
 
 
 ## § 17 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001801305)
 
 Ein Fahrzeug des von der Generaldirektion Wasserstraßen und
 Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten
@@ -697,6 +715,7 @@ Technisches Hilfswerk im Rettungseinsatz.
 
 
 ## § 18 Anordnungen vorübergehender Art
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE001901305)
 
 Das von der Generaldirektion Wasserstraßen und Schifffahrt im
 Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und
@@ -707,6 +726,7 @@ Abwehr strompolizeilicher Gefahren erlassen.
 
 
 ## § 19 Mitführen von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002000118)
 
 Urkunden für das jeweilige Fahrzeug, die für das Befahren der
 Talsperren notwendig sind, erforderliche Befähigungszeugnisse sowie
@@ -716,6 +736,7 @@ auszuhändigen.
 
 
 ## § 20 Genehmigungspflichtige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002100118)
 
 (1) Das Ausbringen einer dauerhaft am Grund des Gewässers befestigten
 Reedeboje zum Festmachen eines Fahrzeuges, einer Bojenkette und
@@ -785,6 +806,7 @@ Ufer.
 
 
 ## § 21 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002201305)
 
 Für die Erteilung einer Erlaubnis oder einer Genehmigung nach dieser
 Verordnung ist das von der Generaldirektion Wasserstraßen und
@@ -793,6 +815,7 @@ Wasserstraßen- und Schifffahrtsamt zuständig.
 
 
 ## § 22 Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002300118)
 
 Liegen die Voraussetzungen der §§ 48 oder 49 des
 Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde an
@@ -802,6 +825,7 @@ Auflagen versehen.
 
 
 ## § 23 Pflichten des Schiffsführers, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002400118)
 
 (1) Der Schiffsführer hat sicherzustellen, dass
 
@@ -879,6 +903,7 @@ Binnenschifffahrtsstraßen-Ordnung vorschriftsmäßig besetzt ist.
 
 
 ## § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002502305)
 
 (1) Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1116,6 +1141,7 @@ fahrlässig als Eigentümer oder Ausrüster
 
 
 ## § 25 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002601311)
 
 (1) Die vor dem Inkrafttreten dieser Verordnung erteilten Erlaubnisse,
 Genehmigungen, Ausnahmebewilligungen und Befähigungsnachweise gelten
@@ -1130,6 +1156,7 @@ erreicht ist.
 
 
 ## § 26 Inkrafttreten und Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tspv_2013/BJNR703310013.html#BJNR703310013BJNE002700118)
 
 Diese Verordnung tritt am 1. Mai 2013 in Kraft. Gleichzeitig tritt die
 Talsperrenverordnung vom 3. April 2003 (VkBl 2003 S. 230) außer Kraft.

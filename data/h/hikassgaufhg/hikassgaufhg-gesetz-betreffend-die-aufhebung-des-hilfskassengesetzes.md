@@ -20,16 +20,19 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000100314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000200314)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000300314)
 
 Die Vorschriften der
 Reichs- und Landesgesetze, die sich auf die eingeschriebenen
@@ -40,6 +43,7 @@ diese Mitglieder.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000400314)
 
 (1) Bei den Versicherungsvereinen des § 3 gelten die religiöse oder
 politische Überzeugung, ihre Betätigung außerhalb der Dienstgeschäfte
@@ -60,6 +64,7 @@ werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000500314)
 
 (1) Bei den Vereinen des § 6 muß die Generalversammlung mindestens
 vier Wochen vor ihrem Zusammentreten auf dem in der Satzung
@@ -83,6 +88,7 @@ Klage erhoben hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000600314)
 
 (1) Versicherungsvereine, deren Leistungen in den Grenzen des § 508
 der Reichsversicherungsordnung bleiben, sind jedenfalls dann als
@@ -105,6 +111,7 @@ Versicherungsvereine.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000700314)
 
 (1) Sie können für bestimmte Bezirke örtliche Verwaltungsstellen
 (Abteilungen, Zweigvereine) errichten. Die Satzung des
@@ -117,6 +124,7 @@ und stempelfrei.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000800314)
 
 Versicherungsvereine der in § 6 bezeichneten Art können durch
 übereinstimmende Beschlüsse der Generalversammlungen und auf Grund
@@ -140,16 +148,19 @@ einer besonderen Satzung sich zu einem Verband vereinigen zum Zwecke
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE000900314)
 
 -
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE001001308)
 
 (weggefallen)
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE001100314)
 
 (1) Der Beschluß einer eingeschriebenen Hilfskasse über die Auflösung
 oder die Vereinigung mit einem anderen Unternehmen unterliegt der
@@ -163,6 +174,7 @@ auch die Aufsicht über die Liquidation.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/hikassgaufhg/BJNR009850911.html#BJNR009850911BJNE001200314)
 
 Der § 11 tritt sofort in Kraft. Der Tag, mit dem die übrigen
 Vorschriften dieses Gesetzes in Kraft treten, wird durch Kaiserliche

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000100303)
 
 Die Reichsregierung hat zur Durchführung des zweiten Abkommens zur
 Vereinheitlichung des Luftprivatrechts vom 29. Mai 1933
@@ -29,6 +30,7 @@ das hiermit verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000200303)
 
 Zur Vollziehung eines Arrestes dürfen nicht gepfändet werden:
 
@@ -50,6 +52,7 @@ Zur Vollziehung eines Arrestes dürfen nicht gepfändet werden:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000300303)
 
 (1) Das Verbot des § 1 steht der Pfändung eines Luftfahrzeugs der im §
 1 Nr. 3 bezeichneten Art nicht entgegen, wenn der Arrestanspruch
@@ -64,6 +67,7 @@ erklärt ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000400303)
 
 (1) Durch Hinterlegung einer den Betrag der Schuld und der Kosten
 deckenden Summe wird die Vollziehung des Arrestes in Luftfahrzeuge
@@ -79,6 +83,7 @@ Zivilprozeßordnung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000500303)
 
 (1) Die Vorschriften der §§ 1 bis 3 gelten sinngemäß für einstweilige
 Verfügungen, durch die der Abflug eines Luftfahrzeugs gehindert wird.
@@ -91,6 +96,7 @@ Gesetz nicht beschränkt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000601310)
 
 Die in diesem Gesetz bestimmten Vergünstigungen genießen Luftfahrzeuge
 aus Staaten, für die das Inkrafttreten des Abkommens vom 29. Mai 1933
@@ -100,6 +106,7 @@ gemacht worden ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/lfzpfschg/BJNR003850935.html#BJNR003850935BJNE000701301)
 
 (weggefallen)
 

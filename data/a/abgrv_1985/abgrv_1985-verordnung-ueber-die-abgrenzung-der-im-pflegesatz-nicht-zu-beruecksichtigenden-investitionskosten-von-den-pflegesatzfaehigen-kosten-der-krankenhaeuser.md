@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000100326)
 
 Auf Grund des § 16 Satz 1 des Krankenhausfinanzierungsgesetzes vom 29.
 Juni 1972 (BGBl. I S. 1009), der durch Artikel 1 Nr. 15 des Gesetzes
@@ -29,6 +30,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000200326)
 
 (1) Die nähere Abgrenzung der nach § 17 Abs. 4 Nr. 1 des
 Krankenhausfinanzierungsgesetzes im Pflegesatz nicht zu
@@ -51,6 +53,7 @@ richtet sich nach dieser Verordnung.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000302310)
 
 Im Sinne dieser Verordnung sind
 
@@ -80,6 +83,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Zuordnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000405360)
 
 (1) Pflegesatzfähig sind
 
@@ -138,6 +142,7 @@ anzuschaffen oder herzustellen und in Benutzung zu nehmen.
 
 
 ## § 4 Instandhaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000503360)
 
 (1) Instandhaltungskosten sind die Kosten der Erhaltung oder
 Wiederherstellung von Anlagegütern des Krankenhauses, wenn dadurch das
@@ -166,11 +171,13 @@ des Krankenhausfinanzierungsgesetzes pauschal finanziert.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000601310)
 
 -
 
 
 ## § 6 Inkrafttreten und Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000700326)
 
 (1) Diese Verordnung tritt am 1. Januar 1986 in Kraft.
 
@@ -191,11 +198,13 @@ Nutzungsdauer.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000800326)
 
 Der Bundesminister für Arbeit und Sozialordnung
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/abgrv_1985/BJNR022550985.html#BJNR022550985BJNE000900326)
 
 (Fundstelle: BGBl. I 1985, 2257)
 

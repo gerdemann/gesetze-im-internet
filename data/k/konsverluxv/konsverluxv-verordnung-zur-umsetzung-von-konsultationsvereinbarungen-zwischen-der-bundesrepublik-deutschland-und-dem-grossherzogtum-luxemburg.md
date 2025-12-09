@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -31,9 +32,11 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNG000100000)
 
 
 ### § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und dem Großherzogtum Luxemburg zur
@@ -46,6 +49,7 @@ der jeweils geltenden Fassung.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000300000)
 
 Die einheitliche Anwendung und Auslegung des Abkommens hinsichtlich
 der Besteuerung von
@@ -69,9 +73,11 @@ Abkommens getroffen worden sind, richtet sich nach dieser Verordnung.
 
 
 ## Abschnitt 2 - Grenzpendler
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNG000200000)
 
 
 ### § 3 Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000400000)
 
 (1) Die Aufteilung des Arbeitsentgelts zwischen Ansässigkeits- und
 Tätigkeitsstaat erfolgt auf der Grundlage der vertraglich vereinbarten
@@ -95,6 +101,7 @@ vereinbarten Arbeitstagen zählen, fallen aus der Berechnung heraus.
 
 
 ### § 4 Vergütungen oder Zusatzvergütungen, Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000500000)
 
 (1) Geleistete Überstunden sind bei der Aufteilung des Arbeitsentgelts
 zwischen Ansässigkeits- und Tätigkeitsstaat zu berücksichtigen, soweit
@@ -131,6 +138,7 @@ dieses vorangegangenen Kalenderjahres maßgeblich.
 
 
 ### § 5 Vertraglich vereinbarte Arbeitstage
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000600000)
 
 (1) Vertraglich vereinbarte Arbeitstage sind die Kalendertage pro Jahr
 abzüglich der Tage, an denen der Arbeitnehmer laut Arbeitsvertrag
@@ -157,9 +165,11 @@ Deutschland als Ansässigkeitsstaat freizustellen.
 
 
 ## Abschnitt 3 - Berufskraftfahrer, Lokomotivführer und Begleitpersonal
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNG000300000)
 
 
 ### § 6 Tätigkeit in einem Staat
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000700000)
 
 (1) Arbeitsentgelt, das auf Arbeitstage entfällt, an denen der
 Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine
@@ -174,6 +184,7 @@ Begleitpersonals seinen Wohnsitz hat, wird in diesem Staat besteuert.
 
 
 ### § 7 Tätigkeit in mehreren Staaten
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000801377)
 
 (1) Arbeitsentgelt, das auf Arbeitstage entfällt, an denen der
 Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine
@@ -219,6 +230,7 @@ und 3 aufgeteilt. Das anteilige Besteuerungsrecht wird gemäß § 6 und §
 
 
 ### § 8 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE000900000)
 
 (1) Das Besteuerungsrecht für das Arbeitsentgelt, das auf freie Tage
 des Berufskraftfahrers, des Lokomotivführers oder des Begleitpersonals
@@ -236,6 +248,7 @@ Begleitpersonals ist das Fahrzeug.
 
 
 ### § 9 Betriebsstätte im anderen Staat
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001000000)
 
 Die §§ 6 bis 8 gelten sinngemäß für die Fälle, in denen der
 Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal mit
@@ -245,9 +258,11 @@ des Arbeitgebers entlohnt wird.
 
 
 ## Abschnitt 4 - Sonstige Anwendungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNG000400000)
 
 
 ### § 10 Abfindungen und Entschädigungen an Arbeitnehmer, Arbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001100000)
 
 (1) Ist einer Abfindung Versorgungscharakter beizumessen, ist Artikel
 12 Absatz 1 des Abkommens hierauf anzuwenden.
@@ -282,9 +297,11 @@ Artikel 11 des Abkommens genannten Einkünfte nicht anzuwenden.
 
 
 ## Abschnitt 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNG000500000)
 
 
 ### § 11 Anwendungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001200000)
 
 Diese Verordnung ist erstmals anzuwenden
 
@@ -300,11 +317,13 @@ Diese Verordnung ist erstmals anzuwenden
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverluxv/BJNR148400012.html#BJNR148400012BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

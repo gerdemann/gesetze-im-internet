@@ -25,6 +25,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung
 in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S.
@@ -38,6 +39,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000200000)
 
 Der Ausbildungsberuf Ofen- und Luftheizungsbauer/Ofen- und
 Luftheizungsbauerin wird gemäß § 25 der Handwerksordnung für die
@@ -46,11 +48,13 @@ Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so
@@ -63,6 +67,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -133,6 +138,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000600000)
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -144,12 +150,14 @@ erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000800000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -159,6 +167,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -195,6 +204,7 @@ und mit praxisüblichen Unterlagen dokumentieren kann.
 
 
 ## § 9 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE001000000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -375,6 +385,7 @@ Leistung erbracht worden sein.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -383,6 +394,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Nichtanwenden von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE001200000)
 
 Die fachlichen Vorschriften zur Regelung des Lehrlingswesens im
 Backofenbauerhandwerk vom 28. Januar 1963 sind für neue
@@ -390,12 +402,14 @@ Ausbildungsverhältnisse nicht mehr anzuwenden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum  Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
+[Direktlink](https://www.gesetze-im-internet.de/ofenbausbv/BJNR081800006.html#BJNR081800006BJNE001400000)
 
 (Fundstelle: BGBl. I 2006, 821 - 827)
 

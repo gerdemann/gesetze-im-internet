@@ -22,12 +22,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehefzeugn_bkg/BJNR108620997.html#BJNR108620997BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ehefzeugn_bkg/BJNR108620997.html#BJNR108620997BJNE000200320)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 München vom 5. September 1980 über die Ausstellung von
@@ -36,6 +38,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ehefzeugn_bkg/BJNR108620997.html#BJNR108620997BJNE000302360)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für
@@ -50,6 +53,7 @@ für Verbraucherschutz und mit Zustimmung des Bundesrates.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ehefzeugn_bkg/BJNR108620997.html#BJNR108620997BJNE000400320)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

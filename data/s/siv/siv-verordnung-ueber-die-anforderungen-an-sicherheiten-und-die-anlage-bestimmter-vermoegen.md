@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/siv/BJNR197200022.html#BJNR197200022BJNE000100000)
 
 Auf Grund des § 240a Absatz 1 in Verbindung mit Absatz 2 des
 Bürgerlichen Gesetzbuchs, von denen Absatz 1 durch Artikel 5 Nummer 1
@@ -27,6 +28,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Zur Sicherheitsleistung geeignete Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/siv/BJNR197200022.html#BJNR197200022BJNE000200000)
 
 Zur Sicherheitsleistung geeignet sind Inhaberpapiere und Orderpapiere,
 die mit Blankoindossament versehen sind, wenn sie auf inländische
@@ -75,6 +77,7 @@ Zahlungsmittel lauten und einer der folgenden Gattungen angehören:
 
 
 ## § 2 Eignung von Hypothekenforderungen, Grundschulden und Rentenschulden zur Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/siv/BJNR197200022.html#BJNR197200022BJNE000300000)
 
 (1) Hypothekenforderungen, Grundschulden oder Rentenschulden an
 inländischen Grundstücken sind zur Sicherheitsleistung geeignet, wenn
@@ -117,6 +120,7 @@ ist nur der Fall, wenn die Versicherung mindestens
 
 
 ## § 3 Kapital- oder Geldanlage nach den §§ 1079, 1288 Absatz 1 und § 2119 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/siv/BJNR197200022.html#BJNR197200022BJNE000400000)
 
 Diejenigen, die nach den §§ 1079, 1288 Absatz 1 und § 2119 des
 Bürgerlichen Gesetzbuchs zur Anlage von Kapital oder Geld verpflichtet
@@ -158,6 +162,7 @@ sind, haben dies wie folgt anzulegen:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/siv/BJNR197200022.html#BJNR197200022BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 

@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zweck der Statistik, Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000201116)
 
 Zur Erfüllung der Berichtspflichten der Europäischen Gemeinschaften
 nach der Verordnung (EG) Nr. 808/2004 des Europäischen Parlaments und
@@ -41,6 +43,7 @@ freiberuflicher Tätigkeit Erhebungen als Bundesstatistik durchgeführt.
 
 
 ## § 2 Art der Erhebung, Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000301116)
 
 Die Erhebungen werden bei höchstens 20 000 Unternehmen und
 Einrichtungen zur Ausübung freiberuflicher Tätigkeit im Sinne des
@@ -50,10 +53,12 @@ Verfahren ausgewählt.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000401116)
 
 
 
 ## § 4 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000501116)
 
 Hilfsmerkmale sind:
 
@@ -69,6 +74,7 @@ Hilfsmerkmale sind:
 
 
 ## § 4a Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000502126)
 
 (1) Die Angaben werden vom Statistischen Bundesamt erhoben und
 aufbereitet.
@@ -79,11 +85,13 @@ auf regionaler Ebene.
 
 
 ## § 5 Freiwilligkeit der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000600000)
 
 Die Erteilung der Auskunft ist freiwillig.
 
 
 ## § 6 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000701126)
 
 Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für
 Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen,
@@ -93,6 +101,7 @@ auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/infogesstatg/BJNR368500005.html#BJNR368500005BJNE000800000)
 
 Das Gesetz tritt am Tag nach der Verkündung in Kraft.
 

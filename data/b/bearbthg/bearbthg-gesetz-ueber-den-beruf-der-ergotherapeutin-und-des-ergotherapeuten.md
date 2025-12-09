@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE000601320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## I. Abschnitt - Die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNG000101320)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE000702310)
 
 (1) Wer eine Tätigkeit unter der Berufsbezeichnung "Ergotherapeutin"
 oder "Ergotherapeut" ausüben will, bedarf der Erlaubnis.
@@ -47,6 +50,7 @@ Gemeinschaften eine Gleichstellung ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE000808116)
 
 (1) Eine Erlaubnis nach § 1 wird erteilt, wenn der Antragsteller
 
@@ -210,6 +214,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001800310)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Ergotherapeuten ausgeübt wird oder zuletzt ausgeübt worden ist,
@@ -246,6 +251,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 2b
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE002200116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -343,6 +349,7 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE000902320)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die
 Voraussetzung nach § 2 Abs. 1 Nr. 2 nicht vorgelegen hat, die
@@ -361,6 +368,7 @@ Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001011116)
 
 (1) Die Ausbildung nach diesem Gesetz wird an staatlich anerkannten
 Schulen für Ergotherapeuten durchgeführt.
@@ -398,6 +406,7 @@ einem Jahr anzurechnen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001110116)
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 mit Zustimmung des Bundesrates in einer Ausbildungs- und
@@ -454,6 +463,7 @@ Fristenregelungen vorsehen.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001902116)
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die zur Ausübung des Berufs des Ergotherapeuten in
@@ -560,6 +570,7 @@ Bescheinigungen darüber auszustellen, dass
 
 
 ### § 5b
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE002001116)
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
 berechtigt, für jede Dienstleistungserbringung von den zuständigen
@@ -577,6 +588,7 @@ disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 
 
 ### § 5c
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE002100310)
 
 Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim
 Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die
@@ -587,10 +599,12 @@ dieses Dienstleistungserbringers hierüber zu unterrichten.
 
 
 ## II. Abschnitt - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNG000201320)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001203310)
 
 (1) Die Entscheidungen nach § 2 Abs. 1 trifft die zuständige Behörde
 des Landes, in dem der Antragsteller die Prüfung abgelegt hat.
@@ -616,10 +630,12 @@ des Ergotherapeuten ausübt.
 
 
 ## III. Abschnitt - Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNG000301320)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001302320)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -645,10 +661,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## IV. Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNG000401320)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001401320)
 
 (1) Als Erlaubnis im Sinne des § 1 gelten:
 
@@ -684,6 +702,7 @@ erworbene Berufsbezeichnung weiterzuführen. § 3 gilt entsprechend.
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001701320)
 
 (1) Eine vor dem 1. September 1991 nach der Anordnung über die
 staatliche Erlaubnis zur Ausübung der medizinischen, pharmazeutischen
@@ -700,6 +719,7 @@ der Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des
 
 
 ### § 8b
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE002300360)
 
 (1) Die Länder können bestimmen, dass die Ausbildung abweichend von §
 4 Absatz 1 an Hochschulen durchgeführt wird. Sie legen Ziele, Dauer,
@@ -729,10 +749,12 @@ nicht gefährdet werden.
 
 
 ## V. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNG000501320)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001501320)
 
 (1) Eine vor Inkrafttreten dieses Gesetzes erteilte Erlaubnis als
 "Beschäftigungs- und Arbeitstherapeut" oder als "Beschäftigungs- und
@@ -752,6 +774,7 @@ Berufsbezeichnung "Beschäftigungs- und Arbeitstherapeut" oder
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bearbthg/BJNR012460976.html#BJNR012460976BJNE001604116)
 
 § 4 Absatz 5 bis 7 tritt am 31. Dezember 2024 außer Kraft.
 Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2024 begonnen

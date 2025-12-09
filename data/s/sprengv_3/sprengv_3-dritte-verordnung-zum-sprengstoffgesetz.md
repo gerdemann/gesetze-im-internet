@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000100326)
 
 Auf Grund des § 25 Nr. 1 und 5 in Verbindung mit § 39 Abs. 2 Satz 1
 des Sprengstoffgesetzes vom 13. September 1976 (BGBl. I S. 2737) wird
@@ -36,6 +37,7 @@ mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000201301)
 
 (1) Soll mit explosionsgefährlichen Stoffen gesprengt werden, hat die
 nach § 19 Abs. 1 Nr. 1 oder, im nichtgewerblichen Bereich, die nach §
@@ -116,6 +118,7 @@ Einrichtungen der öffentlichen Versorgung angegeben ist.
 
 
 ## § 2 Änderungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000301301)
 
 Sind nach Erstattung der Anzeige Veränderungen gegenüber dem Inhalt
 der Anzeige oder der Unterlagen eingetreten oder vorgesehen worden,
@@ -129,6 +132,7 @@ Anzeige unter den geänderten Umständen sprengen.
 
 
 ## § 3 Ausnahmen von der Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000400326)
 
 (1) § 1 gilt nicht, wenn in Anlagen gesprengt werden soll, die nach §
 4 des Bundes-Immissionsschutzgesetzes genehmigt sind oder die nach §
@@ -141,6 +145,7 @@ besonderen Gründen gerechtfertigt erscheint.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000500326)
 
 Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Sprengstoffgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -160,11 +165,13 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000600326)
 
 -
 
 
 ## § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000700326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 52 des Sprengstoffgesetzes auch im Land Berlin. Die
@@ -174,6 +181,7 @@ unvereinbar sind.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_3/BJNR007830978.html#BJNR007830978BJNE000800326)
 
 (1) Diese Verordnung tritt am 1. Juli 1978 in Kraft.
 

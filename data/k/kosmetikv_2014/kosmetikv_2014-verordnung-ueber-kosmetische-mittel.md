@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ziel
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000102360)
 
 Diese Verordnung dient der Überwachung des Verkehrs mit kosmetischen
 Mitteln sowie der Durchführung der Verordnung (EG) Nr. 1223/2009 des
@@ -31,6 +32,7 @@ ist.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000200000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -46,6 +48,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 3 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000300000)
 
 Wer im Inland kosmetische Mittel herstellt, hat der für die
 Überwachung zuständigen Behörde vor dem Inverkehrbringen den Ort der
@@ -60,6 +63,7 @@ Einfuhrortes gelten die Sätze 1 bis 3 entsprechend.
 
 
 ## § 4 Sprache
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000400000)
 
 Kosmetische Mittel dürfen nur auf dem Markt bereitgestellt werden,
 wenn die Angaben nach Artikel 19 Absatz 1 Buchstabe b, c, d und f,
@@ -68,6 +72,7 @@ Buchstabe d auch in Verbindung mit Absatz 2, der Verordnung (EG) Nr.
 
 
 ## § 5 Kennzeichnung nicht vorverpackter kosmetischer Mittel
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000500000)
 
 (1) Zusätzlich zu der Anforderung des § 4 dürfen nicht vorverpackte
 kosmetische Mittel und kosmetische Mittel, die an den Verkaufsstellen
@@ -88,6 +93,7 @@ wird, anzubringen.
 
 
 ## § 6 Informations- und Behandlungszentren für Vergiftungen
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000600000)
 
 Die Informations- und Behandlungszentren für Vergiftungen berichten
 dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit auf
@@ -98,6 +104,7 @@ Mittel von allgemeiner Bedeutung sind.
 
 
 ## § 7 Ausnahmen für die Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000700000)
 
 Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der
 Lebensmitteleinfuhr-Verordnung entsprechend mit der Maßgabe, dass an
@@ -110,6 +117,7 @@ die Einhaltung der Sicherheit im Umfang des Artikels 3 der Verordnung
 
 
 ## § 8 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000803360)
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
@@ -227,6 +235,7 @@ Nr. 1223/2009 verstößt, indem er
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kosmetikv_2014/BJNR105410014.html#BJNR105410014BJNE000902360)
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
 des Lebensmittel- und Futtermittelgesetzbuches handelt, wer

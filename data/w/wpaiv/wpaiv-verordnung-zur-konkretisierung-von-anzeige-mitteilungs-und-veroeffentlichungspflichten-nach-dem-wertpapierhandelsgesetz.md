@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000100000)
 
 Auf Grund des § 10 Abs. 4 Satz 1, des § 15 Abs. 7 Satz 1, des § 15a
 Abs. 5 Satz 1 und des § 15b Abs. 2 Satz 1 des
@@ -31,10 +32,12 @@ das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000203360)
 
 Diese Verordnung ist anzuwenden auf:
 
@@ -106,10 +109,12 @@ Diese Verordnung ist anzuwenden auf:
 
 
 ## Abschnitt 2 - Anzeige von Verdachtsfällen
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000200000)
 
 
 
 ### § 2 Inhalt der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000302123)
 
 (1) Eine Anzeige nach § 23 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes an die Bundesanstalt für
@@ -218,6 +223,7 @@ unverzüglich nachzureichen.
 
 
 ### § 3 Art und Form der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000401377)
 
 (1) Die Anzeige ist schriftlich zu übersenden. Im Fall der Übersendung
 einer Anzeige mittels Telefax ist auf Verlangen der Bundesanstalt die
@@ -234,14 +240,17 @@ Verschlüsselungsverfahren angewendet werden.
 
 
 ## Abschnitt 3 - Veröffentlichung von Informationen und Mitteilung über die Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000302123)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000700377)
 
 
 
 #### § 3a Art der Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE001901123)
 
 (1) Die Informationen, auf die dieser Abschnitt Anwendung findet, sind
 zur Veröffentlichung Medien zuzuleiten, einschließlich solcher, bei
@@ -365,6 +374,7 @@ Anforderungen der Absätze 1 bis 3 erfüllen.
 
 
 #### § 3b Sprache der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002003123)
 
 (1) Emittenten, deren Sitz im Ausland ist, oder Emittenten, für die
 die Bundesrepublik Deutschland der Herkunftsstaat nach § 2 Absatz 13
@@ -435,6 +445,7 @@ und der Teilnehmer am Markt für Emissionszertifikate.
 
 
 #### § 3c Mitteilung der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002101123)
 
 Soweit nichts anderes bestimmt ist, muss der Bundesanstalt die
 Veröffentlichung unter Angabe des Textes der Veröffentlichung, der
@@ -445,10 +456,12 @@ nicht für Veröffentlichungen nach Artikel 17 der Verordnung (EU) Nr.
 
 
 ### Unterabschnitt 2 - Veröffentlichung von Insiderinformationen und Mitteilung über die Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000801123)
 
 
 
 #### § 4 Inhalt der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000502123)
 
 (1) In der Veröffentlichung nach Artikel 17 Absatz 1 und 2 der
 Verordnung (EU) Nr. 596/2014 sind anzugeben:
@@ -588,10 +601,12 @@ enthalten:
 
 
 #### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000602123)
 
 
 
 #### § 6 Berechtigte Interessen für eine verzögerte Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000701123)
 
 Berechtigte Interessen, die nach Artikel 17 Absatz 4 der Verordnung
 (EU) Nr. 596/2014 von der Pflicht zur sofortigen Veröffentlichung nach
@@ -623,6 +638,7 @@ kann insbesondere dann der Fall sein, wenn
 
 
 #### § 7 Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung (EU) Nr. 596/2014
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000801123)
 
 Die Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung
 (EU) Nr. 596/2014 hat in Ergänzung zu den Vorschriften der
@@ -641,6 +657,7 @@ Durchführungsverordnung (EU) 2016/1055 folgende Angaben zu enthalten:
 
 
 #### § 8 Inhalt der Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE000903360)
 
 (1) In der Mitteilung nach § 26 Absatz 1 des Wertpapierhandelsgesetzes
 sind anzugeben:
@@ -695,6 +712,7 @@ Veröffentlichung nachgereicht werden.
 
 
 #### § 9 Art und Form der Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE001003360)
 
 (1) Mitteilungen nach § 8 sind schriftlich mittels Telefax zu
 übersenden. Auf Verlangen der Bundesanstalt ist die eigenhändig
@@ -710,10 +728,12 @@ Mitteilungen nach § 7.
 
 
 ### Unterabschnitt 3 - Veröffentlichung von Eigengeschäften und Mitteilung über die Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000402123)
 
 
 
 #### § 10 Art der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE001402123)
 
 Bezüglich der Meldung und Veröffentlichung von Eigengeschäften wird
 auf das Formular im Anhang der Durchführungsverordnung (EU) 2016/523
@@ -728,6 +748,7 @@ Internetseite veröffentlichen.
 
 
 #### § 11 Mitteilung der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002301123)
 
 Für die Mitteilung des Emittenten über die Veröffentlichung an die
 Bundesanstalt nach § 26 Absatz 2 des Wertpapierhandelsgesetzes gilt §
@@ -735,14 +756,17 @@ Bundesanstalt nach § 26 Absatz 2 des Wertpapierhandelsgesetzes gilt §
 
 
 ### Unterabschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000502123)
 
 
 
 ### Unterabschnitt 5 - Veröffentlichung und Mitteilung bei Veränderungen des Stimmrechtsanteils
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000901123)
 
 
 
 #### § 12 Inhalt der Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002404123)
 
 (1) Für eine Mitteilung nach § 33 Absatz 1 und 2, § 38 Absatz 1 und §
 39 Absatz 1 des Wertpapierhandelsgesetzes ist das Formular der Anlage
@@ -764,6 +788,7 @@ deren Aktien an einem organisierten Markt zugelassen sind, zu fördern.
 
 
 #### § 13 Berechnung des Stimmrechtsanteils für die Mitteilung nach § 38 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE003402123)
 
 Nicht einzubeziehen in die Berechnung des Stimmrechtsanteils nach § 38
 Absatz 3 des Wertpapierhandelsgesetzes sind Instrumente im Sinne des §
@@ -774,6 +799,7 @@ Ausgestaltung ermöglichen, solche Aktien zu erwerben.
 
 
 #### § 14 Sprache der Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002504360)
 
 Mitteilungen nach § 33 Absatz 1 Satz 1 und Absatz 2, § 38 Absatz 1
 Satz 1 sowie § 39 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes sind
@@ -782,6 +808,7 @@ Bundesanstalt zu übermitteln.
 
 
 #### § 15 Inhalt und Format der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002602123)
 
 Die Veröffentlichung nach § 40 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes muss die Angaben der Mitteilung an den
@@ -790,6 +817,7 @@ enthalten und in dem dort vorgegebenen Format erfolgen.
 
 
 #### § 16 Art und Sprache der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002701123)
 
 Die Art und Sprache der Veröffentlichung nach § 40 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes erfolgt nach Maßgabe der §§ 3a und 3b;
@@ -799,6 +827,7 @@ englischer Sprache erhalten hat.
 
 
 #### § 17 Mitteilung der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002801123)
 
 Für die Mitteilung des Emittenten über die Veröffentlichung an die
 Bundesanstalt nach § 40 Absatz 2 des Wertpapierhandelsgesetzes gilt §
@@ -806,10 +835,12 @@ Bundesanstalt nach § 40 Absatz 2 des Wertpapierhandelsgesetzes gilt §
 
 
 ### Unterabschnitt 6 - Veröffentlichung und Inhalt von Finanzberichten
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG001001123)
 
 
 
 #### § 18 Art und Sprache der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE002902123)
 
 Für die Art und Sprache der Veröffentlichung der Bekanntmachung nach §
 114 Absatz 1 Satz 2, § 115 Absatz 1 Satz 2 und § 116 Absatz 2 Satz 1
@@ -821,6 +852,7 @@ Konzernzahlungsberichte gemäß § 116 des Wertpapierhandelsgesetzes gilt
 
 
 #### § 19 Mitteilung der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE003001123)
 
 Für die Mitteilung des Unternehmens über die Veröffentlichung der
 Bekanntmachung an die Bundesanstalt nach § 114 Absatz 1 Satz 3, § 115
@@ -829,6 +861,7 @@ Wertpapierhandelsgesetzes gilt § 3c.
 
 
 #### § 20 Verfügbarkeit der Finanzberichte und Zahlungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE003102123)
 
 Die Informationen nach § 114 Absatz 2 und § 115 Absatz 2 des
 Wertpapierhandelsgesetzes sowie die Zahlungs- oder
@@ -839,10 +872,12 @@ zugänglich sein.
 
 
 ### Unterabschnitt 7 - Wahl des Herkunftsstaates
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG001101123)
 
 
 
 #### § 21 Art der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE003202123)
 
 Die Wahl der Bundesrepublik Deutschland als Herkunftsstaat nach den §§
 4 und 5 des Wertpapierhandelsgesetzes ist nach Maßgabe des § 3a zu
@@ -850,10 +885,12 @@ veröffentlichen.
 
 
 ### Unterabschnitt 8 - Veröffentlichung zusätzlicher Angaben
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG001201123)
 
 
 
 #### § 22 Art, Sprache und Mitteilung der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE003301123)
 
 Die Veröffentlichung nach § 50 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes erfolgt nach Maßgabe der §§ 3a und 3b; der
@@ -864,15 +901,18 @@ Wertpapierhandelsgesetzes erfolgt nach § 3c.
 
 
 ## Abschnitt 4 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNG000602123)
 
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE001802123)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage (zu § 12 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/wpaiv/BJNR337600004.html#BJNR337600004BJNE003504360)
 
 (Fundstelle: BGBl I 2018, 1759 - 1761)
 

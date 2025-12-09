@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 96-1-29 v. 17.12.1992 I 2072 (FPKBeauftrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fhkbeauftrv/BJNR012200018.html#BJNR012200018BJNE000100000)
 
 Auf Grund des § 31a des Luftverkehrsgesetzes, der zuletzt durch
 Artikel 567 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S.
@@ -26,6 +27,7 @@ und digitale Infrastruktur:
 
 
 ## § 1 Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/fhkbeauftrv/BJNR012200018.html#BJNR012200018BJNE000200000)
 
 (1) Mit der Wahrnehmung der Flughafenkoordinierung gemäß § 27a Absatz
 1 des Luftverkehrsgesetzes wird die im Handelsregister, Abteilung B
@@ -38,6 +40,7 @@ Infrastruktur.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fhkbeauftrv/BJNR012200018.html#BJNR012200018BJNE000300000)
 
 Diese Verordnung tritt am 1. Februar 2018 in Kraft. Gleichzeitig tritt
 die Verordnung zur Beauftragung des Flughafenkoordinators vom 17.

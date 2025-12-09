@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Krisenfrüherkennung und Krisenmanagement
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000100000)
 
 
 ### § 1 Krisenfrüherkennung und Krisenmanagement bei haftungsbeschränkten Unternehmensträgern
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000202125)
 
 (1) Die Mitglieder des zur Geschäftsführung berufenen Organs einer
 juristischen Person (Geschäftsleiter) wachen fortlaufend über
@@ -44,15 +46,19 @@ bleiben unberührt.
 
 
 ## Teil 2 - Stabilisierungs- und Restrukturierungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000200000)
 
 
 ### Kapitel 1 - Restrukturierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000300000)
 
 
 #### Abschnitt 1 - Gestaltung von Rechtsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000400000)
 
 
 ##### § 2 Gestaltbare Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000301125)
 
 (1) Auf der Grundlage eines Restrukturierungsplans können gestaltet
 werden:
@@ -117,6 +123,7 @@ oder des Antrags der Zeitpunkt der Erstanordnung.
 
 
 ##### § 3 Bedingte und nicht fällige Restrukturierungsforderungen; Forderungen aus gegenseitigen Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000400000)
 
 (1) Restrukturierungsforderungen sind auch dann gestaltbar, wenn sie
 bedingt oder noch nicht fällig sind.
@@ -127,6 +134,7 @@ bereits erbracht ist.
 
 
 ##### § 4 Ausgenommene Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000500000)
 
 Einer Gestaltung durch einen Restrukturierungsplan sind unzugänglich:
 
@@ -148,9 +156,11 @@ unternehmerischer Tätigkeit in keinem Zusammenhang stehen.
 
 
 #### Abschnitt 2 - Anforderungen an den Restrukturierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000500000)
 
 
 ##### § 5 Gliederung des Restrukturierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000600000)
 
 Der Restrukturierungsplan besteht aus einem darstellenden und einem
 gestaltenden Teil. Er enthält mindestens die nach der Anlage zu diesem
@@ -159,6 +169,7 @@ den §§ 14 und 15 erforderlichen Anlagen beizufügen.
 
 
 ##### § 6 Darstellender Teil
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000700000)
 
 (1) Der darstellende Teil beschreibt die Grundlagen und die
 Auswirkungen des Restrukturierungsplans. Der darstellende Teil enthält
@@ -187,6 +198,7 @@ auf dieses Unternehmen einzubeziehen.
 
 
 ##### § 7 Gestaltender Teil
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000800000)
 
 (1) Der gestaltende Teil des Restrukturierungsplans legt fest, wie die
 Rechtsstellung der Inhaber der Restrukturierungsforderungen, der
@@ -219,6 +231,7 @@ anzuwenden.
 
 
 ##### § 8 Auswahl der Planbetroffenen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE000900000)
 
 Die Auswahl der Planbetroffenen hat nach sachgerechten Kriterien zu
 erfolgen, die im darstellenden Teil des Plans anzugeben und zu
@@ -245,6 +258,7 @@ erläutern sind. Die Auswahl ist sachgerecht, wenn
 
 
 ##### § 9 Einteilung der Planbetroffenen in Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001000000)
 
 (1) Bei der Festlegung der Rechte der Planbetroffenen im
 Restrukturierungsplan sind Gruppen zu bilden, soweit Planbetroffene
@@ -283,6 +297,7 @@ bildenden Gruppen zu eigenständigen Gruppen zusammenzufassen.
 
 
 ##### § 10 Gleichbehandlung von Planbetroffenen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001100000)
 
 (1) Innerhalb jeder Gruppe sind allen Planbetroffenen gleiche Rechte
 anzubieten.
@@ -301,6 +316,7 @@ nicht im Plan vorgesehener Vorteil gewährt wird, ist nichtig.
 
 
 ##### § 11 Haftung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001201125)
 
 Ist im Restrukturierungsplan nichts anderes bestimmt, wird der
 Schuldner mit der im gestaltenden Teil vorgesehenen Befriedigung der
@@ -313,6 +329,7 @@ persönliche Haftung der unbeschränkt haftenden Gesellschafter.
 
 
 ##### § 12 Neue Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001300000)
 
 In den Restrukturierungsplan können Regelungen zur Zusage von Darlehen
 oder sonstigen Krediten aufgenommen werden, die zur Finanzierung der
@@ -321,6 +338,7 @@ Finanzierung). Als neue Finanzierung gilt auch deren Besicherung.
 
 
 ##### § 13 Änderung sachenrechtlicher Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001400000)
 
 Sollen Rechte an Gegenständen begründet, geändert, übertragen oder
 aufgehoben werden, so können die erforderlichen Willenserklärungen der
@@ -334,6 +352,7 @@ gilt Satz 2 entsprechend.
 
 
 ##### § 14 Erklärung zur Bestandsfähigkeit; Vermögensübersicht; Ergebnis- und Finanzplan
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001500000)
 
 (1) Dem Restrukturierungsplan ist eine begründete Erklärung zu den
 Aussichten darauf beizufügen, dass die drohende Zahlungsunfähigkeit
@@ -354,6 +373,7 @@ Forderungen zu berücksichtigen.
 
 
 ##### § 15 Weitere beizufügende Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001602125)
 
 (1) Handelt es sich bei dem Schuldner um eine rechtsfähige
 Personengesellschaft oder eine Kommanditgesellschaft auf Aktien, so
@@ -379,6 +399,7 @@ Sicherheit gestellt hat.
 
 
 ##### § 16 Checkliste für Restrukturierungspläne
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001700000)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz macht eine
 Checkliste für Restrukturierungspläne bekannt, welche an die
@@ -387,12 +408,15 @@ Checkliste wird auf der Internetseite www.bmjv.bund.de veröffentlicht.
 
 
 #### Abschnitt 3 - Planabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000600000)
 
 
 ##### Unterabschnitt 1 - Planangebot und Planannahme
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000700000)
 
 
 ###### § 17 Planangebot
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001800000)
 
 (1) Das an die Planbetroffenen gerichtete Angebot des Schuldners, den
 Restrukturierungsplan anzunehmen (Planangebot), hat den deutlichen
@@ -425,6 +449,7 @@ Planannahme der Schriftform.
 
 
 ###### § 18 Auslegung des Planangebots
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE001900000)
 
 Im Zweifel ist anzunehmen, dass das Planangebot unter der Bedingung
 steht, dass sämtliche Planbetroffene zustimmen oder dass der Plan
@@ -432,6 +457,7 @@ gerichtlich bestätigt wird.
 
 
 ###### § 19 Annahmefrist
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002000000)
 
 Für die Annahme des Restrukturierungsplans setzt der Schuldner eine
 Frist. Die Frist beträgt mindestens 14 Tage. Sie kann kürzer sein,
@@ -441,6 +467,7 @@ gemacht ist.
 
 
 ###### § 20 Abstimmung im Rahmen einer Versammlung der Planbetroffenen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002101125)
 
 (1) Der Schuldner kann den Restrukturierungsplan im Rahmen einer
 Versammlung der Planbetroffenen zur Abstimmung stellen. Die
@@ -477,6 +504,7 @@ der Abstimmung möglich.
 
 
 ###### § 21 Erörterung des Restrukturierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002201125)
 
 (1) Findet eine Abstimmung im Rahmen einer Versammlung der
 Planbetroffenen nicht statt, ist unter den Voraussetzungen des § 17
@@ -498,6 +526,7 @@ sich binnen der verlängerten Frist erneut erklärt.
 
 
 ###### § 22 Dokumentation der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002300000)
 
 (1) Der Schuldner dokumentiert den Ablauf des Planannahmeverfahrens
 und hält das Ergebnis der Abstimmung nach Ablauf der Annahmefrist oder
@@ -511,6 +540,7 @@ zu machen.
 
 
 ###### § 23 Gerichtliches Planabstimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002400000)
 
 Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen
 Verfahren zur Abstimmung stellen, welches nach den §§ 45 und 46
@@ -519,9 +549,11 @@ Anwendung.
 
 
 ##### Unterabschnitt 2 - Stimmrecht und erforderliche Mehrheiten
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000800000)
 
 
 ###### § 24 Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002500000)
 
 (1) Das Stimmrecht richtet sich
 
@@ -581,6 +613,7 @@ Stimmrecht streitig ist.
 
 
 ###### § 25 Erforderliche Mehrheiten
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002600000)
 
 (1) Zur Annahme des Restrukturierungsplans ist erforderlich, dass in
 jeder Gruppe auf die dem Plan zustimmenden Gruppenmitglieder
@@ -593,6 +626,7 @@ ein Pfandrecht oder ein Nießbrauch besteht.
 
 
 ###### § 26 Gruppenübergreifende Mehrheitsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002700000)
 
 (1) Wird in einer Gruppe die nach § 25 erforderliche Mehrheit nicht
 erreicht, gilt die Zustimmung dieser Gruppe als erteilt, wenn
@@ -626,6 +660,7 @@ entschädigt.
 
 
 ###### § 27 Absolute Priorität
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002800000)
 
 (1) Eine Gruppe von Gläubigern ist angemessen am Planwert beteiligt,
 wenn
@@ -664,6 +699,7 @@ eine angemessene Beteiligung am Planwert vor, wenn nach dem Plan
 
 
 ###### § 28 Durchbrechung der absoluten Priorität
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE002900000)
 
 (1) Der angemessenen Beteiligung einer Gruppe von planbetroffenen
 Gläubigern am Planwert steht es nicht entgegen, wenn eine von § 27
@@ -699,15 +735,19 @@ Nummer 2 am Unternehmensvermögen beteiligt bleibt, sofern
 
 
 ### Kapitel 2 - Stabilisierungs- und Restrukturierungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG000900000)
 
 
 #### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001000000)
 
 
 ##### Unterabschnitt 1 - Instrumente des Stabilisierungs- und Restrukturierungsrahmens; Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001100000)
 
 
 ###### § 29 Instrumente des Stabilisierungs- und Restrukturierungsrahmens
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003000000)
 
 (1) Zur nachhaltigen Beseitigung einer drohenden Zahlungsunfähigkeit
 im Sinne des § 18 Absatz 2 der Insolvenzordnung können die in Absatz 2
@@ -742,6 +782,7 @@ Anspruch nehmen.
 
 
 ###### § 30 Restrukturierungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003100000)
 
 (1) Die Instrumente des Stabilisierungs- und Restrukturierungsrahmens
 können vorbehaltlich des Absatzes 2 von jedem insolvenzfähigen
@@ -754,6 +795,7 @@ anzuwenden.
 
 
 ###### § 31 Anzeige des Restrukturierungsvorhabens
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003200000)
 
 (1) Voraussetzung für die Inanspruchnahme der Instrumente des
 Stabilisierungs- und Restrukturierungsrahmens ist die Anzeige des
@@ -815,6 +857,7 @@ und Aktenzeichens anzugeben.
 
 
 ###### § 32 Pflichten des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003301125)
 
 (1) Der Schuldner betreibt die Restrukturierungssache mit der Sorgfalt
 eines ordentlichen und gewissenhaften Sanierungsgeschäftsführers und
@@ -855,6 +898,7 @@ erreicht werden können.
 
 
 ###### § 33 Aufhebung der Restrukturierungssache
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003400000)
 
 (1) Das Restrukturierungsgericht hebt die Restrukturierungssache von
 Amts wegen auf, wenn
@@ -933,6 +977,7 @@ bis 3 steht dem Schuldner die sofortige Beschwerde zu.
 
 
 ###### § 34 Restrukturierungsgericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003500000)
 
 (1) Für Entscheidungen in Restrukturierungssachen ist das Amtsgericht,
 in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, als
@@ -963,6 +1008,7 @@ Restrukturierungssachen über die Landesgrenzen hinaus vereinbaren.
 
 
 ###### § 35 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003600000)
 
 Örtlich zuständig ist ausschließlich das Restrukturierungsgericht, in
 dessen Bezirk der Schuldner seinen allgemeinen Gerichtsstand hat.
@@ -972,6 +1018,7 @@ Restrukturierungsgericht zuständig, in dessen Bezirk dieser Ort liegt.
 
 
 ###### § 36 Einheitliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003700000)
 
 Für alle Entscheidungen und Maßnahmen in der Restrukturierungssache
 ist die Abteilung zuständig, die für die erste Entscheidung zuständig
@@ -979,6 +1026,7 @@ war.
 
 
 ###### § 37 Gruppen-Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003800000)
 
 (1) Auf Antrag eines Schuldners, der einer Unternehmensgruppe im Sinne
 des § 3e der Insolvenzordnung angehört (gruppenangehöriger Schuldner),
@@ -1001,6 +1049,7 @@ Insolvenzordnung für zuständig.
 
 
 ###### § 38 Anwendbarkeit der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE003900000)
 
 Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz
 nichts anderes bestimmt, die Vorschriften der Zivilprozessordnung
@@ -1013,6 +1062,7 @@ wahrnehmen können.
 
 
 ###### § 39 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004000000)
 
 (1) Das Restrukturierungsgericht hat von Amts wegen alle Umstände zu
 ermitteln, die für das Verfahren in der Restrukturierungssache von
@@ -1031,6 +1081,7 @@ anzuwenden.
 
 
 ###### § 40 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004100000)
 
 (1) Die Entscheidungen des Restrukturierungsgerichts unterliegen nur
 in den Fällen einem Rechtsmittel, in denen dieses Gesetz die sofortige
@@ -1046,6 +1097,7 @@ der Entscheidung anordnen.
 
 
 ###### § 41 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004202125)
 
 (1) Zustellungen erfolgen von Amts wegen, ohne dass es einer
 Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können
@@ -1065,9 +1117,11 @@ der Zivilprozessordnung bleibt unberührt.
 
 
 ##### Unterabschnitt 2 - Restrukturierungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001200000)
 
 
 ###### § 42 Anzeige von Zahlungsunfähigkeit und Überschuldung; Strafvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004300000)
 
 (1) Während der Rechtshängigkeit der Restrukturierungssache ruht die
 Antragspflicht nach § 15a Absatz 1 bis 3 der Insolvenzordnung und § 42
@@ -1095,6 +1149,7 @@ Antragspflichten wieder auf.
 
 
 ###### § 43 Pflichten und Haftung der Organe
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004401125)
 
 (1) Handelt es sich bei dem Schuldner um eine juristische Person oder
 um eine rechtsfähige Personengesellschaft im Sinne des § 15a Absatz 1
@@ -1121,6 +1176,7 @@ Gesellschaft, verjähren die Ansprüche in zehn Jahren.
 
 
 ###### § 44 Verbot von Lösungsklauseln
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004500000)
 
 (1) Die Rechtshängigkeit der Restrukturierungssache oder die
 Inanspruchnahme von Instrumenten des Stabilisierungs- und
@@ -1154,9 +1210,11 @@ unterliegen.
 
 
 #### Abschnitt 2 - Gerichtliche Planabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001300000)
 
 
 ##### § 45 Erörterungs- und Abstimmungstermin
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004602125)
 
 (1) Auf Antrag des Schuldners bestimmt das Restrukturierungsgericht
 einen Termin, in dem der Restrukturierungsplan und das Stimmrecht der
@@ -1194,6 +1252,7 @@ legt das Gericht das Stimmrecht fest.
 
 
 ##### § 46 Vorprüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004700000)
 
 (1) Auf Antrag des Schuldners bestimmt das Gericht einen gesonderten
 Termin zur Vorprüfung des Restrukturierungsplans vor dem Erörterungs-
@@ -1226,9 +1285,11 @@ bestimmen, wenn dies zweckmäßig ist.
 
 
 #### Abschnitt 3 - Vorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001400000)
 
 
 ##### § 47 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004800000)
 
 Auf Antrag des Schuldners führt das Restrukturierungsgericht auch dann
 eine Vorprüfung durch, wenn der Restrukturierungsplan nicht im
@@ -1241,6 +1302,7 @@ den §§ 17 bis 22 zu stellen sind.
 
 
 ##### § 48 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE004901125)
 
 (1) Die von der Vorprüfungsfrage berührten Planbetroffenen sind
 anzuhören.
@@ -1254,9 +1316,11 @@ entsprechend.
 
 
 #### Abschnitt 4 - Stabilisierung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001500000)
 
 
 ##### § 49 Stabilisierungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005000000)
 
 (1) Soweit dies zur Wahrung der Aussichten auf die Verwirklichung des
 Restrukturierungsziels erforderlich ist, ordnet das
@@ -1288,6 +1352,7 @@ Absatz 4) sperren.
 
 
 ##### § 50 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005100000)
 
 (1) Der Schuldner hat die beantragte Stabilisierungsanordnung nach §
 49 Absatz 1 ihrem Inhalt, dem Adressatenkreis und der Dauer nach zu
@@ -1333,6 +1398,7 @@ welche umfasst:
 
 
 ##### § 51 Voraussetzungen der Stabilisierungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005200000)
 
 (1) Die Stabilisierungsanordnung ergeht, wenn die von dem Schuldner
 vorgelegte Restrukturierungsplanung vollständig und schlüssig ist und
@@ -1403,6 +1469,7 @@ Beschluss die sofortige Beschwerde zu.
 
 
 ##### § 52 Folgeanordnung, Neuanordnung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005300000)
 
 Unter den Voraussetzungen des § 51 Absatz 1 und 2 kann eine
 Stabilisierungsanordnung auf weitere Gläubiger erstreckt, inhaltlich
@@ -1412,6 +1479,7 @@ sofern die Anordnungsdauer bereits überschritten ist, erneuert werden
 
 
 ##### § 53 Anordnungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005400000)
 
 (1) Die Stabilisierungsanordnung kann für eine Dauer von bis zu drei
 Monaten ergehen.
@@ -1447,6 +1515,7 @@ keine öffentlichen Bekanntmachungen nach den §§ 84 bis 86 erfolgen.
 
 
 ##### § 54 Folgen der Verwertungssperre
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005500000)
 
 (1) Ist eine Verwertungssperre ergangen, sind dem Gläubiger die
 geschuldeten Zinsen zu zahlen und der durch die Nutzung eintretende
@@ -1467,6 +1536,7 @@ Vereinbarung.
 
 
 ##### § 55 Vertragsrechtliche Wirkungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005600000)
 
 (1) Ist der Schuldner zum Zeitpunkt der Stabilisierunganordnung einem
 Gläubiger etwas aus einem Vertrag schuldig, so kann der Gläubiger
@@ -1493,6 +1563,7 @@ Bürgerlichen Gesetzbuchs). Satz 2 gilt auch für andere Kreditzusagen.
 
 
 ##### § 56 Finanzsicherheiten, Zahlungs- und Abwicklungssysteme, Liquidationsnetting
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005700000)
 
 (1) Die Stabilisierungsanordnung berührt nicht die Wirksamkeit von
 Verfügungen über Finanzsicherheiten nach § 1 Absatz 17 des
@@ -1519,6 +1590,7 @@ werden.
 
 
 ##### § 57 Haftung der Organe
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005801125)
 
 Handelt es sich bei dem Schuldner um eine juristische Person oder um
 eine rechtsfähige Personengesellschaft im Sinne des § 15a Absatz 1
@@ -1534,6 +1606,7 @@ Ansprüche nach den Sätzen 1 und 3 gilt § 43 Absatz 3 entsprechend.
 
 
 ##### § 58 Insolvenzantrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE005900000)
 
 Das Verfahren über den Antrag eines Gläubigers, das Insolvenzverfahren
 über das Vermögen des Schuldners zu eröffnen, wird für die
@@ -1541,6 +1614,7 @@ Anordnungsdauer ausgesetzt.
 
 
 ##### § 59 Aufhebung und Beendigung der Stabilisierungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006000000)
 
 (1) Das Restrukturierungsgericht hebt die Stabilisierungsanordnung
 auf, wenn
@@ -1595,12 +1669,15 @@ bestätigt ist oder die Planbestätigung versagt wird.
 
 
 #### Abschnitt 5 - Planbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001600000)
 
 
 ##### Unterabschnitt 1 - Bestätigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001700000)
 
 
 ###### § 60 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006101125)
 
 (1) Auf Antrag des Schuldners bestätigt das Gericht den von den
 Planbetroffenen angenommenen Restrukturierungsplan durch Beschluss.
@@ -1636,6 +1713,7 @@ soweit es sich bei den persönlich haftenden Gesellschaftern
 
 
 ###### § 61 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006200000)
 
 Vor der Entscheidung über die Bestätigung des Restrukturierungsplans
 kann das Gericht die Planbetroffenen anhören. Ist die Planabstimmung
@@ -1645,6 +1723,7 @@ Absatz 1 Satz 4 gelten entsprechend.
 
 
 ###### § 62 Bedingter Restrukturierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006300000)
 
 Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung
 bestimmte Leistungen erbracht oder andere Maßnahmen verwirklicht
@@ -1653,6 +1732,7 @@ erfüllt sind und Versagungsgründe nicht vorliegen.
 
 
 ###### § 63 Versagung der Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006401125)
 
 (1) Die Bestätigung des Restrukturierungsplans ist von Amts wegen zu
 versagen, wenn
@@ -1710,6 +1790,7 @@ durch Begünstigung eines Planbetroffenen.
 
 
 ###### § 64 Minderheitenschutz
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006500000)
 
 (1) Auf Antrag eines Planbetroffenen, der gegen den
 Restrukturierungsplan gestimmt hat, ist die Bestätigung des Plans zu
@@ -1752,6 +1833,7 @@ Erörterungs- und Abstimmungstermin hingewiesen wurde.
 
 
 ###### § 65 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006600000)
 
 (1) Wird die Entscheidung über den Antrag auf Bestätigung des
 Restrukturierungsplans nicht im Anhörungstermin oder im Erörterungs-
@@ -1771,6 +1853,7 @@ Inhalts nach Satz 1 kann unterbleiben, wenn der vor der Abstimmung
 
 
 ###### § 66 Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006700000)
 
 (1) Gegen den Beschluss, durch den der Restrukturierungsplan bestätigt
 wird, steht jedem Planbetroffenen die sofortige Beschwerde zu. Dem
@@ -1826,9 +1909,11 @@ zurückgewiesen hat.
 
 
 ##### Unterabschnitt 2 - Wirkungen des bestätigten Plans; Überwachung der Planerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001800000)
 
 
 ###### § 67 Wirkungen des Restrukturierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006801125)
 
 (1) Mit der Bestätigung des Restrukturierungsplans treten die im
 gestaltenden Teil festgelegten Wirkungen ein. Dies gilt auch im
@@ -1868,6 +1953,7 @@ Planangebot und Planannahme als geheilt.
 
 
 ###### § 68 Sonstige Wirkungen des Restrukturierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE006900000)
 
 (1) Wenn Rechte an Gegenständen begründet, geändert, übertragen oder
 aufgehoben oder Geschäftsanteile an einer Gesellschaft mit
@@ -1889,6 +1975,7 @@ Absatz 1 oder Absatz 2 zugrunde liegen.
 
 
 ###### § 69 Wiederaufleben gestundeter oder erlassener Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007000000)
 
 (1) Sind aufgrund des gestaltenden Teils des Restrukturierungsplans
 einbezogene Restrukturierungsforderungen gestundet oder teilweise
@@ -1910,6 +1997,7 @@ Nachteil des Schuldners abgewichen werden.
 
 
 ###### § 70 Streitige Forderungen und Ausfallforderungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007100000)
 
 (1) Streitige Restrukturierungsforderungen unterliegen der auf sie
 anwendbaren Regelung des Restrukturierungsplans in der Höhe, in der
@@ -1943,6 +2031,7 @@ zurückfordern, als dieser auch den nicht fälligen Teil der Forderung
 
 
 ###### § 71 Vollstreckung aus dem Restrukturierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007200000)
 
 (1) Aus dem rechtskräftig bestätigten Restrukturierungsplan können die
 Restrukturierungsgläubiger, deren Forderungen im Bestätigungsbeschluss
@@ -1970,6 +2059,7 @@ dem früheren Titel ist insoweit unzulässig.
 
 
 ###### § 72 Planüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007300000)
 
 (1) Im gestaltenden Teil des Restrukturierungsplans kann vorgesehen
 werden, dass die Erfüllung der den Gläubigern nach dem gestaltenden
@@ -2003,12 +2093,15 @@ gestaltenden Teil des Plans Ansprüche gegen den Schuldner zustehen.
 
 
 ### Kapitel 3 - Restrukturierungsbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG001900000)
 
 
 #### Abschnitt 1 - Bestellung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002000000)
 
 
 ##### § 73 Bestellung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007401125)
 
 (1) Das Restrukturierungsgericht bestellt einen
 Restrukturierungsbeauftragten, wenn
@@ -2066,6 +2159,7 @@ Prüfungen als Sachverständiger vorzunehmen, insbesondere
 
 
 ##### § 74 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007500000)
 
 (1) Zum Restrukturierungsbeauftragten ist ein für den jeweiligen
 Einzelfall geeigneter, in Restrukturierungs- und Insolvenzsachen
@@ -2103,6 +2197,7 @@ nach § 76 Absatz 2 Nummer 1 Halbsatz 1 und 2.
 
 
 ##### § 75 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007600000)
 
 (1) Der Restrukturierungsbeauftragte steht unter der Aufsicht des
 Restrukturierungsgerichts. Das Gericht kann jederzeit einzelne
@@ -2136,6 +2231,7 @@ der Abschluss der Planüberwachung.
 
 
 ##### § 76 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007701125)
 
 (1) Stellt der Restrukturierungsbeauftragte Umstände fest, die eine
 Aufhebung der Restrukturierungssache nach § 33 rechtfertigen, hat er
@@ -2224,9 +2320,11 @@ zu den Gerichtsakten zu reichen.
 
 
 #### Abschnitt 2 - Bestellung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002100000)
 
 
 ##### § 77 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007800000)
 
 (1) Auf Antrag des Schuldners bestellt das Restrukturierungsgericht
 einen Restrukturierungsbeauftragten zur Förderung der Verhandlungen
@@ -2242,6 +2340,7 @@ eine oder mehrere Aufgaben nach § 76 zuzuweisen.
 
 
 ##### § 78 Bestellung und Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE007900000)
 
 (1) Auf die Bestellung des fakultativen Restrukturierungsbeauftragten
 findet § 74 Absatz 1 entsprechende Anwendung.
@@ -2260,6 +2359,7 @@ Restrukturierungsbeauftragten findet § 75 entsprechende Anwendung.
 
 
 ##### § 79 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008000000)
 
 Der fakultative Restrukturierungsbeauftragte unterstützt den Schuldner
 und die Gläubiger bei der Ausarbeitung und Aushandlung des
@@ -2267,9 +2367,11 @@ Restrukturierungskonzepts und des auf ihm basierenden Plans.
 
 
 #### Abschnitt 3 - Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002200000)
 
 
 ##### § 80 Vergütungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008100000)
 
 Der Restrukturierungsbeauftragte hat nach Maßgabe der nachfolgenden
 Bestimmungen Anspruch auf Vergütung (Honorar und Auslagen).
@@ -2279,6 +2381,7 @@ beachtet sind.
 
 
 ##### § 81 Regelvergütung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008200000)
 
 (1) Der Restrukturierungsbeauftragte erhält, soweit er persönlich
 tätig wird, ein Honorar auf der Grundlage angemessener Stundensätze.
@@ -2334,6 +2437,7 @@ und -entschädigungsgesetzes entsprechend.
 
 
 ##### § 82 Festsetzung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008300000)
 
 (1) Auf Antrag des Restrukturierungsbeauftragten setzt das
 Restrukturierungsgericht nach Beendigung des Amtes des
@@ -2364,6 +2468,7 @@ Vergütung für bereits erbrachte Arbeiten einen Betrag von 10 000 Euro
 
 
 ##### § 83 Vergütung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008400000)
 
 (1) In besonderen Fällen können Stundensätze als Grundlage für das
 Honorar festgesetzt werden, welche die Höchstbeträge des § 81 Absatz 3
@@ -2401,9 +2506,11 @@ Vereinbarung nicht zu einer unangemessenen Vergütung führt.
 
 
 ### Kapitel 4 - Öffentliche Restrukturierungssachen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002301000)
 
 
 #### § 84 Antrag und erste Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008502125)
 
 (1) In Verfahren über Restrukturierungssachen erfolgen öffentliche
 Bekanntmachungen nur, wenn der Schuldner dies beantragt. Der Antrag
@@ -2435,6 +2542,7 @@ anzuwenden.
 
 
 #### § 85 Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008601125)
 
 (1) Öffentlich bekannt zu machen sind die in Artikel 24 Absatz 2 der
 Verordnung (EU) 2015/848 genannten Angaben.
@@ -2496,6 +2604,7 @@ Möglichkeit der Einsichtnahme hinzuweisen.
 
 
 #### § 86 Öffentliche Bekanntmachung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008701125)
 
 [^BJNR325610020BJNE008701125_1]
 (1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und
@@ -2527,6 +2636,7 @@ Zustellung vorschreibt.
 [^BJNR325610020BJNE008701125_1]: 
 
 #### § 87 Restrukturierungsforum; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008800000)
 
 (1) Planbetroffene können im Restrukturierungsforum des
 Bundesanzeigers andere Planbetroffene auffordern, das Stimmrecht im
@@ -2572,6 +2682,7 @@ Missbrauchsfällen und zur Einsichtnahme zu regeln.
 
 
 #### § 88 Anwendbarkeit des Artikels 102c des Einführungsgesetzes zur Insolvenzordnung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE008900000)
 
 In öffentlichen Restrukturierungssachen ist Artikel 102c §§ 1, 2, 3
 Absatz 1 und 3, die §§ 6, 15, 25 und 26 des Einführungsgesetzes zur
@@ -2579,9 +2690,11 @@ Insolvenzordnung entsprechend anwendbar.
 
 
 ### Kapitel 5 - Anfechtungs- und Haftungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002400000)
 
 
 #### § 89 Rechtshandlungen, die während der Rechtshängigkeit der Restrukturierungssache vorgenommen werden
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009000000)
 
 (1) Die Annahme eines sittenwidrigen Beitrags zur
 Insolvenzverschleppung oder einer Rechtshandlung, die mit dem Vorsatz
@@ -2610,6 +2723,7 @@ Restrukturierungsvorhabens verbunden sind.
 
 
 #### § 90 Planfolgen und Planvollzug
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009101125)
 
 (1) Die Regelungen eines rechtskräftig bestätigten
 Restrukturierungsplans und Rechtshandlungen, die im Vollzug eines
@@ -2630,6 +2744,7 @@ Planbetroffenen vorrangig aus der dem Wert des Gegenstands der
 
 
 #### § 91 Berechnung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009200000)
 
 In die Fristen der §§ 3 bis 6a des Anfechtungsgesetzes sowie der §§
 88, 130 bis 136 der Insolvenzordnung wird die Zeit der
@@ -2637,9 +2752,11 @@ Rechtshängigkeit der Restrukturierungssache nicht eingerechnet.
 
 
 ### Kapitel 6 - Arbeitnehmerbeteiligung; Gläubigerbeirat
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002500000)
 
 
 #### § 92 Beteiligungsrechte nach dem Betriebsverfassungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009300000)
 
 Die Verpflichtungen des Schuldners gegenüber den
 Arbeitnehmervertretungsorganen und deren Beteiligungsrechte nach dem
@@ -2647,6 +2764,7 @@ Betriebsverfassungsgesetz bleiben von diesem Gesetz unberührt.
 
 
 #### § 93 Gläubigerbeirat
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009400000)
 
 (1) Sollen in einer Restrukturierungssache mit Ausnahme der in § 4
 genannten Forderungen die Forderungen aller Gläubiger durch einen
@@ -2672,9 +2790,11 @@ Vergütungsverordnung.
 
 
 ## Teil 3 - Sanierungsmoderation
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002600000)
 
 
 ### § 94 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009501125)
 
 (1) Auf Antrag eines restrukturierungsfähigen Schuldners bestellt das
 Gericht eine geeignete, insbesondere geschäftskundige und von den
@@ -2708,6 +2828,7 @@ Gericht zu richten.
 
 
 ### § 95 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009600000)
 
 (1) Die Bestellung des Sanierungsmoderators erfolgt für einen Zeitraum
 von bis zu drei Monaten. Auf Antrag des Moderators, welcher der
@@ -2722,6 +2843,7 @@ Vergleichs.
 
 
 ### § 96 Sanierungsmoderation
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009701125)
 
 (1) Der Sanierungsmoderator vermittelt zwischen dem Schuldner und
 seinen Gläubigern bei der Herbeiführung einer Lösung zur Überwindung
@@ -2765,6 +2887,7 @@ Entscheidung ist der Sanierungsmoderator zu hören.
 
 
 ### § 97 Bestätigung eines Sanierungsvergleichs
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009800000)
 
 (1) Ein Sanierungsvergleich, den der Schuldner mit seinen Gläubigern
 schließt und an dem sich auch Dritte beteiligen können, kann auf
@@ -2789,6 +2912,7 @@ den Voraussetzungen des § 90 anfechtbar.
 
 
 ### § 98 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE009900000)
 
 (1) Der Sanierungsmoderator hat Anspruch auf eine angemessene
 Vergütung. Diese bemisst sich nach dem Zeit- und Sachaufwand der mit
@@ -2798,6 +2922,7 @@ der Sanierungsmoderation verbundenen Aufgaben.
 
 
 ### § 99 Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE010000000)
 
 (1) Der Sanierungsmoderator wird abberufen:
 
@@ -2815,6 +2940,7 @@ Gericht auf Antrag des Schuldners einen anderen Moderator.
 
 
 ### § 100 Übergang in den Stabilisierungs- und Restrukturierungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE010100000)
 
 (1) Nimmt der Schuldner Instrumente des Stabilisierungs- und
 Restrukturierungsrahmens in Anspruch, bleibt der Sanierungsmoderator
@@ -2826,9 +2952,11 @@ Restrukturierungsbeauftragten bestellen.
 
 
 ## Teil 4 - Frühwarnsysteme
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNG002700000)
 
 
 ### § 101 Informationen zu Frühwarnsystemen
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE010200000)
 
 Informationen über die Verfügbarkeit der von öffentlichen Stellen
 bereitgestellten Instrumentarien zur frühzeitigen Identifizierung von
@@ -2838,6 +2966,7 @@ bereitgestellt.
 
 
 ### § 102 Hinweis- und Warnpflichten
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE010300000)
 
 Bei der Erstellung eines Jahresabschlusses für einen Mandanten haben
 Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer, vereidigte
@@ -2851,6 +2980,7 @@ Mandanten die mögliche Insolvenzreife nicht bewusst ist.
 (zu § 5 Satz 2)
 
 ### Anlage Notwendige Angaben im Restrukturierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/starug/BJNR325610020.html#BJNR325610020BJNE010400000)
 
 (Fundstelle: BGBl. I 2020, 3280)
 

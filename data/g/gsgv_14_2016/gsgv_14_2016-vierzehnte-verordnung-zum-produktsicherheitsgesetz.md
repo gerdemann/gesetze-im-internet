@@ -28,6 +28,7 @@ Stand: Ersetzt V 8053-4-17 v. 27.9.2002 I 3777, 3806 (GSGV 14)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8.
 November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131) in Verbindung mit
@@ -43,9 +44,11 @@ Produktsicherheit:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000300000)
 
 (1) Diese Verordnung ist auf neue Druckgeräte und Baugruppen mit einem
 maximal zulässigen Druck von über 0,5 bar, die auf dem Markt
@@ -61,6 +64,7 @@ Bereitstellung von Druckgeräten auf dem Markt (ABl. L 189 vom
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -133,6 +137,7 @@ Produktsicherheitsgesetzes anzuwenden.
 
 
 ### § 3 Bereitstellung auf dem Markt und Inbetriebnahme
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000500000)
 
 Druckgeräte und Baugruppen dürfen nur dann auf dem Markt
 bereitgestellt und in Betrieb genommen werden, wenn sie bei
@@ -141,6 +146,7 @@ Betrieb die Anforderungen dieser Verordnung erfüllen.
 
 
 ### § 4 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000600000)
 
 (1) Bei den in Artikel 4 Absatz 1 und 2 der Richtlinie 2014/68/EU
 aufgeführten Druckgeräten und Baugruppen, die harmonisierten Normen
@@ -160,9 +166,11 @@ wesentlichen Sicherheitsanforderungen nach Anhang I der Richtlinie
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNG000200000)
 
 
 ### § 5 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000701119)
 
 (1) Der Hersteller stellt sicher, wenn er die in Artikel 4 Absatz 1
 und 2 der Richtlinie 2014/68/EU aufgeführten Druckgeräte oder
@@ -223,6 +231,7 @@ und die ergriffenen Korrekturmaßnahmen, zu machen.
 
 
 ### § 6 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000801119)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Druckgeräte oder
 Baugruppen beim Inverkehrbringen oder bei der Verwendung für eigene
@@ -277,6 +286,7 @@ Baugruppen verbunden sind, die er in den Verkehr gebracht hat.
 
 
 ### § 7 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE000901119)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -308,6 +318,7 @@ Hersteller nicht auf einen Bevollmächtigten übertragen.
 
 
 ### § 8 Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001001119)
 
 (1) Der Einführer darf nur Druckgeräte oder Baugruppen in den Verkehr
 bringen, die die Anforderungen dieser Verordnung erfüllen.
@@ -375,6 +386,7 @@ Verlangen vorlegen kann.
 
 
 ### § 9 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001100000)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit der
 gebührenden Sorgfalt berücksichtigen, wenn er ein Druckgerät oder eine
@@ -436,6 +448,7 @@ Satz 3 und § 8 Absatz 5 entsprechend anzuwenden.
 
 
 ### § 10 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001200000)
 
 Auf einen Einführer oder einen Händler sind die §§ 5 und 6
 entsprechend anzuwenden, wenn er
@@ -453,6 +466,7 @@ entsprechend anzuwenden, wenn er
 
 
 ### § 11 Angabe der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001300000)
 
 (1) Die Wirtschaftsakteure nennen den Marktüberwachungsbehörden auf
 deren Verlangen die Wirtschaftsakteure,
@@ -472,9 +486,11 @@ können.
 
 
 ## Abschnitt 3 - Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNG000300000)
 
 
 ### § 12 Einstufung von Druckgeräten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001400000)
 
 Die in Artikel 4 Absatz 1 der Richtlinie 2014/68/EU aufgeführten
 Druckgeräte sind vom Hersteller nach zunehmendem Gefahrenpotential in
@@ -483,6 +499,7 @@ Richtlinie 2014/68/EU.
 
 
 ### § 13 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001500000)
 
 (1) Für die in Artikel 4 Absatz 1 der Richtlinie
 2014/68/EU aufgeführten Druckgeräte sind die
@@ -508,6 +525,7 @@ abzufassen.
 
 
 ### § 14 Europäische Werkstoffzulassung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001600000)
 
 Für Werkstoffe, für die eine europäische Werkstoffzulassung gemäß § 2
 Satz 1 Nummer 4 beantragt wird, ist das Verfahren nach Artikel 15 der
@@ -515,6 +533,7 @@ Richtlinie 2014/68/EU anzuwenden.
 
 
 ### § 15 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001700000)
 
 (1) Die CE-Kennzeichnung ist nach § 7 Absatz 1 und 3 bis 5 des
 Produktsicherheitsgesetzes auf dem in Artikel 4 Absatz 1 und 2 der
@@ -543,9 +562,11 @@ Kennzeichnung nach anderen Rechtsvorschriften.
 
 
 ## Abschnitt 4 - Notifizierung von anerkannten unabhängigen Prüfstellen und Betreiberprüfstellen als Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNG000400000)
 
 
 ### § 16 Anerkannte unabhängige Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001800000)
 
 Die Notifizierung von anerkannten unabhängigen Prüfstellen erfolgt
 nach den Vorschriften der §§ 12 bis 19 des Produktsicherheitsgesetzes
@@ -554,6 +575,7 @@ Notifizierung von Konformitätsbewertungsstellen.
 
 
 ### § 17 Betreiberprüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE001900000)
 
 (1) Die Notifizierung von Betreiberprüfstellen erfolgt nach den
 Vorschriften der §§ 12 und 14 bis 19 des Produktsicherheitsgesetzes
@@ -576,9 +598,11 @@ Richtlinie
 
 
 ## Abschnitt 5 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNG000500000)
 
 
 ### § 18 Korrekturmaßnahmen der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002000000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
 Druckgerät oder eine Baugruppe, das oder die unter diese Verordnung
@@ -613,6 +637,7 @@ Union auf dem Markt bereitgestellt hat.
 
 
 ### § 19 Vorläufige Maßnahmen der Marktüberwachungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002100000)
 
 (1) Ergreift der Wirtschaftsakteur innerhalb der in § 18 Absatz 2 Satz
 1 genannten Frist keine geeigneten Korrekturmaßnahmen, so trifft die
@@ -678,6 +703,7 @@ des Druckgeräts oder der Baugruppe.
 
 
 ### § 20 Konforme Druckgeräte oder Baugruppen, die ein Risiko darstellen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002200000)
 
 (1) Stellt die Marktüberwachungsbehörde im Rahmen einer Beurteilung
 nach § 18 Absatz 1 fest, dass ein Druckgerät oder eine Baugruppe ein
@@ -710,6 +736,7 @@ und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 
 ### § 21 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002300000)
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 18 fordert die
 Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf,
@@ -757,9 +784,11 @@ zurückgerufen oder zurückgenommen werden.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNG000601119)
 
 
 ### § 22 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002402126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -819,6 +848,7 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002501119)
 
 (1) Druckgeräte und Baugruppen, die die Anforderungen der Richtlinie
 97/23/EG des Europäischen Parlaments und des Rates vom 29. Mai 1997
@@ -839,6 +869,7 @@ vorliegenden Verordnung gültig.
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002600000)
 
 (1) § 12 tritt am 1. Juni 2015 in Kraft.
 
@@ -849,6 +880,7 @@ Gleichzeitig tritt die Druckgeräteverordnung vom 27. September 2002
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_14_2016/BJNR069200015.html#BJNR069200015BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 

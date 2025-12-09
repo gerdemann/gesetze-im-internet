@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postbankszv/BJNR212100007.html#BJNR212100007BJNE000100000)
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
 September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch Artikel 2
@@ -29,6 +30,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Monatliche Sonderzahlungen für die Jahre 2005 bis 2007
+[Direktlink](https://www.gesetze-im-internet.de/postbankszv/BJNR212100007.html#BJNR212100007BJNE000200000)
 
 (1) Die bei der Deutschen Postbank AG beschäftigten Beamtinnen und
 Beamten mit Dienstbezügen erhalten für die Zeit von Januar 2005 bis
@@ -62,6 +64,7 @@ dieser Verordnung wird die monatliche Sonderzahlung am ersten Tag des
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/postbankszv/BJNR212100007.html#BJNR212100007BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/eso_1959/BJNR210220959.html#BJNR210220959BJNE000101308)
 
 
 *    *   **ABSCHNITT A: ALLGEMEINES**
@@ -876,6 +877,7 @@ Zuletzt geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/eso_1959/BJNR210220959.html#BJNR210220959BJNE000205305)
 
 **ABSCHNITT A: ALLGEMEINES**
 a) Geltungsbereich und Zuständigkeiten
@@ -1500,6 +1502,7 @@ nicht mehr anzuwenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eso_1959/BJNR210220959.html#BJNR210220959BJNE000300308)
 
 Der Bundesminister für Verkehr
 
@@ -1507,6 +1510,7 @@ Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
 (BGBl. II 1990, 889, 1099)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/eso_1959/BJNR210220959.html#BJNR210220959BJNE888800305)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

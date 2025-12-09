@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/strompbganwbek_2023/BJNR0340A0023.html#BJNR0340A0023BJNE000100000)
 
 Nach § 50 Satz 2 des Strompreisbremsegesetzes vom 20. Dezember 2022
 (BGBl. I S. 2512) wird hiermit ergänzend zu der Bekanntmachung vom 28.
@@ -29,6 +30,7 @@ dem 25. Februar 2023 anzuwenden sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/strompbganwbek_2023/BJNR0340A0023.html#BJNR0340A0023BJNE000200000)
 
 Bundesministerium für Digitales und Verkehr
 

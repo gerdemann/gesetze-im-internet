@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rviobeschzg/BJNR127400020.html#BJNR127400020BJNE000100000)
 
 Dieses Gesetz regelt Ansprüche von Personen, die bei einer
 internationalen Organisation mit Sitz in einem Mitgliedstaat der
@@ -43,6 +44,7 @@ Alterssicherung der Landwirte erworben haben
 
 
 ## § 2 Internationale Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/rviobeschzg/BJNR127400020.html#BJNR127400020BJNE000200000)
 
 Internationale Organisationen im Sinne dieses Gesetzes sind
 
@@ -70,6 +72,7 @@ Internationale Organisationen im Sinne dieses Gesetzes sind
 
 
 ## § 3 Beschäftigungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/rviobeschzg/BJNR127400020.html#BJNR127400020BJNE000300000)
 
 (1) Hat eine Person im Sonderversorgungssystem einer internationalen
 Organisation oder in Sonderversorgungssystemen mehrerer
@@ -88,6 +91,7 @@ denen zuvor bereits Leistungen nach diesem Gesetz zugrunde lagen.
 
 
 ## § 4 Zusammenrechnung von Zeiten und Feststellung der Leistungshöhe
+[Direktlink](https://www.gesetze-im-internet.de/rviobeschzg/BJNR127400020.html#BJNR127400020BJNE000400000)
 
 (1) Beschäftigungszeiten werden für die Prüfung des Anspruchs ohne
 Infragestellung ihrer Qualität mit rentenrechtlichen Zeiten und
@@ -114,6 +118,7 @@ vom 7.6.2004, S. 1), die zuletzt durch die Verordnung (EU) 2017/492
 
 
 ## § 5 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rviobeschzg/BJNR127400020.html#BJNR127400020BJNE000500000)
 
 (1) Dieses Gesetz berücksichtigt auch Tatbestände oder Ansprüche vor
 seinem Inkrafttreten.

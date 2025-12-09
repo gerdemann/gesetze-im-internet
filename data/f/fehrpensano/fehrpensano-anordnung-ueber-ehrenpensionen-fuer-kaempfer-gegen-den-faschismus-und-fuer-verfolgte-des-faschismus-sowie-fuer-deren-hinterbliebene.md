@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE000100301)
 
 Unsere sozialistische Gesellschaft und ihr Staat achten und ehren die
 Männer und Frauen, die Jahrzehnte ihres Lebens dem Kampf gegen
@@ -34,16 +35,19 @@ Gewerkschaftsbundes folgendes angeordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE000300301)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE000500301)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE000700301)
 
 (1)
 (2)
@@ -53,11 +57,13 @@ des § 7.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE000900301)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001000301)
 
 (1) Das Pensionsalter wird von Frauen mit Vollendung des 55.
 Lebensjahres und von Männern mit Vollendung des 60. Lebensjahres
@@ -68,6 +74,7 @@ Sozialversicherung.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001100301)
 
 (1) Als arbeitsunfähig gelten:
 
@@ -90,6 +97,7 @@ Hinterbliebenenpension.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001200301)
 
 (1) Als anspruchsberechtigte Voll- oder Halbwaisen von Kämpfern gegen
 den Faschismus oder Verfolgten des Faschismus gelten:
@@ -115,38 +123,45 @@ der Berufsausbildung oder des Studiums weitergezahlt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001400301)
 
 -
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001500301)
 
 Besteht Anspruch auf zwei Pensionen nach dieser Anordnung, wird nur
 die höhere gezahlt.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001700301)
 
 -
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE001900301)
 
 -
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE002100301)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE002200301)
 
 Der Staatssekretär für Arbeit und Löhne
 
 Auszug aus EinigVtr Anlage II Kapitel VIII Sachgebiet H Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 885, 1214)
+[Direktlink](https://www.gesetze-im-internet.de/fehrpensano/DDNR090120976.html#DDNR090120976BJNE888800301)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

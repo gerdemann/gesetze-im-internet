@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000100315)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -27,17 +28,20 @@ verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000200315)
 
 Der Ausbildungsberuf Destillateur/Destillateurin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000300315)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000400315)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -82,6 +86,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000500315)
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -93,12 +98,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000600315)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000700315)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -107,6 +114,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000800315)
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
@@ -187,6 +195,7 @@ unterschritten werden.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE000900315)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -330,6 +339,7 @@ sind.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE001000315)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
@@ -340,28 +350,33 @@ vorbehaltlich des § 10 nicht mehr anzuwenden.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE001100315)
 
 -
 
 
 ## § 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE001200315)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE001300315)
 
 Diese Verordnung tritt am 1. August 1981 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE001400315)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Destillateur/zur Destillateurin
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE001500315)
 
 (Fundstelle: BGBl. I 1981, 112 - 116)
 
@@ -1482,6 +1497,7 @@ Der Bundesminister für Wirtschaft
    Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/destausbv/BJNR001090981.html#BJNR001090981BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

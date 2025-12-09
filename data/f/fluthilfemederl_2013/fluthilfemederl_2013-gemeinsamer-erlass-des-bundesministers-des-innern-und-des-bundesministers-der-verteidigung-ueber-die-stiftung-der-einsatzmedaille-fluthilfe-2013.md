@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 1 Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000100000)
 
 Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei
 der Abwehr von Gefahren und der Beseitigung von Schäden anlässlich der
@@ -33,6 +34,7 @@ Einsatzmedaille „Fluthilfe 2013“.
 
 
 ## Art 2 Gestaltung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000200000)
 
 (1) Das Ehrenzeichen hat die Form einer runden, silberfarbenen
 Medaille. Auf der Vorderseite ist eine stilisierte Flutwelle an halb
@@ -48,6 +50,7 @@ Medaille.
 
 
 ## Art 3 Verleihung und Trageweise
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000300000)
 
 (1) Das Ehrenzeichen verleiht
 
@@ -83,6 +86,7 @@ Dienstsiegel. Für die Verleihungsurkunde gilt das Muster der Anlage.
 
 
 ## Art 4 Vorschlagsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000400000)
 
 (1) Für die Angehörigen der Bundespolizei sind die Präsidenten der dem
 Bundespolizeipräsidium nachgeordneten Bundespolizeibehörden und der
@@ -108,6 +112,7 @@ wohlwollend verfahren werden.
 
 
 ## Art 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000500000)
 
 (1) Die Verleihungsvorschläge sind dem Bundesministerium des Innern
 oder dem Bundesministerium der Verteidigung mit folgenden
@@ -140,12 +145,14 @@ würdiger Form.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000600000)
 
 Der Bundesminister des Innern
 Der Bundesminister der Verteidigung
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/fluthilfemederl_2013/BJNR223300013.html#BJNR223300013BJNE000700000)
 
 (Fundstelle: BGBl. I 2013, 2235)
 

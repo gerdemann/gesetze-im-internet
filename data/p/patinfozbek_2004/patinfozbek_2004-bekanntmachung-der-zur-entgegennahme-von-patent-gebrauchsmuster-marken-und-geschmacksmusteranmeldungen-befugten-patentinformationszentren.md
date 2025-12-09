@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2004/BJNR259900004.html#BJNR259900004BJNE000100000)
 
 Auf Grund des § 34 Abs. 2 Satz 1 und § 35 Abs. 2 Nr. 2 des
 Patentgesetzes, die durch Artikel 2 des Gesetzes vom 16. Juli 1998
@@ -234,6 +235,7 @@ Blatt für Patent-, Muster- und Zeichenwesen weitere Einzelheiten.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2004/BJNR259900004.html#BJNR259900004BJNE000200000)
 
 Bundesministerium der Justiz
 

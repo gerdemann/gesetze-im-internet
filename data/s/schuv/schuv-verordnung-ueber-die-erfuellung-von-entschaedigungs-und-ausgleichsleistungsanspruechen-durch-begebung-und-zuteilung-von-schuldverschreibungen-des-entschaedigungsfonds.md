@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000300305)
 
 Auf Grund des § 9 Abs. 8 des Entschädigungsgesetzes vom 27. September
 1994 (BGBl. I S. 2624) verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Begebung
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNG000100305)
 
 
 
 ### § 1 Begebung, Nennwert, Laufzeit, Tilgung und Verzinsung der Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000402301)
 
 (1) Für die Schuldverschreibungen wird eine Sammelschuldbuchforderung
 für die Deutscher Kassenverein AG mit der Maßgabe der Verfügung durch
@@ -76,6 +79,7 @@ Stelle.
 
 
 ### § 2 Marktpflege
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000500305)
 
 Der Entschädigungsfonds sorgt für die Marktpflege. Hierzu können in
 Höhe bis zu zehn Prozent der umlaufenden Schuldtitel
@@ -86,10 +90,12 @@ nicht zulässig.
 
 
 ## Abschnitt 2 - Zuteilung und Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNG000200305)
 
 
 
 ### § 3 Zuteilung der Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000603301)
 
 (1) Nach § 1 Abs. 1 Satz 2 des Entschädigungsgesetzes wird ein in
 einem bestandskräftigen Bescheid festgestellter Entschädigungs- oder
@@ -157,11 +163,13 @@ den Entschädigungsanspruch und hat befreiende Wirkung.
 
 
 ### § 4 Handelbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000700305)
 
 Die Schuldverschreibungen sind handelbare Wertrechte.
 
 
 ### § 5 Verwaltung der Einzelschuldbuchkonten
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000801301)
 
 (1) Die das Bundesschuldbuch führende Stelle führt
 Einzelschuldbuchkonten für natürliche Personen (ein oder höchstens
@@ -185,12 +193,14 @@ Geschäftsbedingungen einschließlich Gebührentabelle ausführen.
 
 
 ### § 6 Verwaltung durch Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE000900305)
 
 Die Verwaltung und der Verkauf von Schuldverschreibungen durch
 Kreditinstitute richtet sich nach deren Bedingungen.
 
 
 ### § 7 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE001000305)
 
 Die zur Durchführung dieser Verordnung erforderlichen Angaben der
 Berechtigten dürfen nur zu Zwecken der Erfüllung von Entschädigungs-
@@ -198,16 +208,19 @@ und Ausgleichsleistungsansprüchen verarbeitet und genutzt werden.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE001100305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE001200305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage (zu § 3 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/schuv/BJNR084600995.html#BJNR084600995BJNE001301307)
 
 (Inhalt: Nicht darstellbares, maschinenlesbares Formblatt,
 Fundstelle: BGBl. I 1995, S. 848 - 851;

@@ -25,9 +25,11 @@ Stand: Ersetzt V 7110-6-98 v. 25.7.2008 I 1413 (ElektronAusbV 2008)
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000200000)
 
 Der Ausbildungsberuf des Elektronikers und der Elektronikerin wird
 nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach
@@ -36,11 +38,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000300000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -60,6 +64,7 @@ Kontrollieren im eigenen Arbeitsbereich ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -201,6 +206,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000600000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -208,9 +214,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000700000)
 
 (1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
 
@@ -220,6 +228,7 @@ Stelle fest.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000800000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -236,6 +245,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE000900000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich
 Elektrotechnische Anlagen und Betriebsmittel statt.
@@ -280,6 +290,7 @@ schriftliche Bearbeitung der Aufgaben entfallen 120 Minuten.
 
 
 ### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001000000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -301,6 +312,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001100000)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -321,6 +333,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001200000)
 
 (1) Im Prüfungsbereich Kundenauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -384,6 +397,7 @@ das situative Fachgespräch höchstens 20 Minuten.
 
 
 ### § 12 Prüfungsbereich Systementwurf
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001300000)
 
 (1) Im Prüfungsbereich Systementwurf hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -421,6 +435,7 @@ dass er in der Lage ist,
 
 
 ### § 13 Prüfungsbereich Funktions- und Systemanalyse
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001400000)
 
 (1) Im Prüfungsbereich Funktions- und Systemanalyse hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -459,6 +474,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001500000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -472,6 +488,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -550,6 +567,7 @@ Nummer 3 der Handwerksordnung zu fassen.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -591,6 +609,7 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 (zu § 3 Absatz 1 Satz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker und zur Elektronikerin
+[Direktlink](https://www.gesetze-im-internet.de/elekausbv_2021/BJNR069900021.html#BJNR069900021BJNE001800000)
 
 (Fundstelle: BGBl. I 2021, 703 - 713)
 

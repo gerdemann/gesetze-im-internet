@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE001400319)
 
 (1) Dieses Gesetz findet auf rückerstattungsrechtliche Ansprüche gegen
 das Deutsche Reich einschließlich der Sondervermögen Deutsche
@@ -52,6 +54,7 @@ rückerstattungsrechtliche Ansprüche gegen
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE001500319)
 
 Rückerstattungsrechtliche Ansprüche im Sinne dieses Gesetzes sind
 Ansprüche, die nach den Rechtsvorschriften zur Rückerstattung
@@ -62,6 +65,7 @@ Schadensersatz gerichtet sind.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE001600319)
 
 (1) Ein in § 1 genannter Rechtsträger ist im Sinne der in § 11 Nr. 1
 Buchstabe a genannten Rechtsvorschriften in bezug auf einen
@@ -100,6 +104,7 @@ gelangt sind.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE001700319)
 
 Den rückerstattungsrechtlichen Ansprüchen gegen die in § 1 genannten
 Rechtsträger werden rückerstattungsrechtliche Ansprüche
@@ -109,6 +114,7 @@ Bund oder einen anderen öffentlichen Rechtsträger richten könnten.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE001800319)
 
 Hat ein Dritter feststellbare Vermögensgegenstände entzogen, die
 anders als durch ein entgeltliches Rechtsgeschäft auf einen der in § 1
@@ -121,6 +127,7 @@ Vermögensgegenstände (§ 11 Nr. 1) bleiben unberührt.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE001900319)
 
 (1) Sind feststellbare Vermögensgegenstände von einem der in § 1
 genannten Rechtsträger außerhalb des Geltungsbereichs dieses Gesetzes
@@ -145,6 +152,7 @@ Vermögensgegenstände gelangt.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002000319)
 
 Sind feststellbare Vermögensgegenstände, die verlorengegangen sind,
 durch einen der in § 1 genannten Rechtsträger innerhalb der in Artikel
@@ -163,6 +171,7 @@ findet entsprechende Anwendung.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002100319)
 
 Ist vor Inkrafttreten dieses Gesetzes über einen
 rückerstattungsrechtlichen Anspruch (§§ 1, 3) ganz oder teilweise
@@ -172,6 +181,7 @@ in diesem Gesetz vorgesehene Wirkung.
 
 
 ### § 6a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002200319)
 
 In Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) kann
 ein Anspruch ganz oder teilweise durch gerichtliche Entscheidung
@@ -182,12 +192,14 @@ zugelassen hat.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002300319)
 
 Auf Grund rückerstattungsrechtlicher Ansprüche (§§ 1, 3) können
 Leistungen nur nach Maßgabe dieses Gesetzes gefordert werden.
 
 
 ### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002402116)
 
 (1) In Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3)
 soll von der Vorlage eines Erbscheins abgesehen werden, wenn die
@@ -211,12 +223,14 @@ freiwilligen Gerichtsbarkeit.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002500319)
 
 Rückerstattungsrechtliche Ansprüche (§§ 1, 3) können abgetreten,
 verpfändet oder gepfändet werden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002600319)
 
 In Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) werden
 die in § 1 genannten Rechtsträger durch den Bundesminister der
@@ -225,6 +239,7 @@ Bundesfinanzverwaltung vertreten.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002700319)
 
 Soweit in einem Verfahren über rückerstattungsrechtliche Ansprüche (§§
 1, 3) einer der in § 1 genannten Rechtsträger verpflichtet worden ist
@@ -234,6 +249,7 @@ Bund.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002800319)
 
 In diesem Gesetz werden bezeichnet
 
@@ -364,10 +380,12 @@ In diesem Gesetz werden bezeichnet
 
 
 ## Zweiter Abschnitt - Neubegründete rückerstattungsrechtliche Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000200319)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE002900319)
 
 (1) Sind im Geltungsbereich der in § 11 Nr. 1 Buchstabe c genannten
 Verordnung Nr. 120 Vermögensgegenstände, die im Zeitpunkt der
@@ -400,6 +418,7 @@ Absatz 1 besteht gegenüber Nachfolgeorganisationen nicht.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003000319)
 
 (1) Ist Umzugsgut in einem außerhalb des Geltungsbereichs dieses
 Gesetzes gelegenen europäischen Ort vom Deutschen Reich entzogen
@@ -438,10 +457,12 @@ Schadensersatzbetrag anzurechnen.
 
 
 ## Dritter Abschnitt - Behandlung der nach diesem Gesetz zu erfüllenden rückerstattungsrechtlichen Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000300319)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003100319)
 
 (1) Ist vor Inkrafttreten dieses Gesetzes über einen
 rückerstattungsrechtlichen Anspruch (§§ 1, 3) ganz oder teilweise
@@ -465,6 +486,7 @@ die §§ 15 bis 26 keine Anwendung.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003200319)
 
 (1) Rückerstattungsrechtliche Ansprüche auf Zahlung eines
 Reichsmarkbetrages gelten als im Zeitpunkt der Währungsumstellung im
@@ -480,6 +502,7 @@ richten.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003300319)
 
 (1) Rückerstattungsrechtliche Schadensersatzansprüche sind auf
 Ersatzleistung in Deutscher Mark gerichtet, auch wenn sie nach den
@@ -503,6 +526,7 @@ entgangen sind.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003400319)
 
 (1) Läßt sich der Wiederbeschaffungswert des entzogenen
 Vermögensgegenstandes am 1. April 1956 nicht ermitteln oder liegt er
@@ -518,6 +542,7 @@ Nutzungen oder Zinsen oder sonstigen geldwerten Vorteilen errechnet.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003500319)
 
 Ist vor Inkrafttreten dieses Gesetzes die Höhe des
 Schadensersatzbetrages durch rechtskräftige Entscheidung oder gütliche
@@ -534,6 +559,7 @@ genannten Betrag.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003600319)
 
 Bei rückerstattungsrechtlichen Schadensersatzansprüchen auf Zahlung
 einer Rente werden die bis zum 31. März 1956 fällig gewesenen Beträge
@@ -545,6 +571,7 @@ errechnen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003700319)
 
 (1) Bei rückerstattungsrechtlichen Schadensersatzansprüchen wegen der
 Entziehung einer Reichsmarkforderung, die ohne die Entziehung als
@@ -572,6 +599,7 @@ worden wäre.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003800319)
 
 (1) Bei der Bemessung des Schadensersatzbetrags nach § 20 ist diesem
 der Betrag der Entschädigung nach § 5 des Altsparergesetzes
@@ -596,6 +624,7 @@ Abs. 2) entsprechende Anwendung.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE003900319)
 
 Hat der Berechtigte aus demselben Entziehungstatbestand gegen einen
 der in § 1 genannten Rechtsträger sowohl einen
@@ -609,6 +638,7 @@ anrechnen lassen.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004000319)
 
 Steht dem rückerstattungsrechtlichen Anspruch (§§ 1, 3) ein
 Gegenanspruch aus demselben Entziehungstatbestand gegenüber, so
@@ -618,6 +648,7 @@ sinngemäß Anwendung.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004100319)
 
 Steht ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) im Zeitpunkt
 des Inkrafttretens dieses Gesetzes mehreren Personen zur gesamten Hand
@@ -627,6 +658,7 @@ ausgeschlossen. Eine entgegenstehende Vereinbarung ist nichtig.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004200319)
 
 (1) Ein rückerstattungsrechtlicher Anspruch (§§ 1, 3), auf den ein
 Land Leistungen bewirkt, geht bis zur Höhe der Leistungen auf das Land
@@ -646,6 +678,7 @@ Anweisung zur Zahlung entrichtet worden ist.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004300319)
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf
 einen Dritten übergegangen, so kann jeder der Berechtigten den
@@ -657,14 +690,17 @@ entfallenden Teil geltend macht.
 
 
 ## Vierter Abschnitt - Anmeldung von rückerstattungsrechtlichen Ansprüchen und weiteres Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000400319)
 
 
 
 ### Erster Titel - Neubegründete Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000500319)
 
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004400319)
 
 (1) Im Geltungsbereich der in § 11 Nr. 1 Buchstaben a, b und d
 genannten Rechtsvorschriften sind Ansprüche nach § 13 von dem
@@ -685,6 +721,7 @@ Vermögensgegenstände (§ 11 Nr. 1 Buchstaben a, b und d) Anwendung.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004500319)
 
 (1) Im Geltungsbereich der in § 11 Nr. 1 Buchstabe c genannten
 Rechtsvorschriften sind Ansprüche nach §§ 12, 13 von dem Berechtigten
@@ -710,10 +747,12 @@ Rechtsvorschriften zur Bestätigung vorgelegt wird.
 
 
 ### Zweiter Titel - Neueröffnung der Anmeldefristen
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000600319)
 
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004600319)
 
 (1) Im Geltungsbereich der in § 11 Nr. 1 Buchstaben a, b und d
 genannten Rechtsvorschriften kann ein rückerstattungsrechtlicher
@@ -749,6 +788,7 @@ gerichtlichen Entscheidung dem angemeldeten Anspruch nicht entgegen.
 
 
 #### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004700319)
 
 (1) Die Fristen des § 27 Abs. 2, § 28 Abs. 2 und § 29 Abs. 5 gelten
 als gewahrt, wenn der Berechtigte bis zum 1. April 1959 den
@@ -766,6 +806,7 @@ Anwendung.
 
 
 #### § 29b
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004800319)
 
 (1) Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) wegen der
 Entziehung von Hausrat in den ehemals besetzten Westgebieten oder
@@ -800,10 +841,12 @@ gelangt sind.
 
 
 ### Dritter Titel - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000700319)
 
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE004900319)
 
 (1) Ist im Geltungsbereich der in § 11 Nr. 1 Buchstaben a, b und d
 genannten Rechtsvorschriften ein seiner Rechtsnatur nach
@@ -874,6 +917,7 @@ Satz 2 endet in diesem Falle nicht vor dem 31. März 1968.
 
 
 #### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005000319)
 
 (1) Ist ein Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1,
 3) bei einer unzuständigen Wiedergutmachungsbehörde anhängig, so ist
@@ -890,6 +934,7 @@ Wiedergutmachungsgericht 1. Instanz zu verweisen.
 
 
 #### § 30b
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005100319)
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) rechtswirksam
 nach den in § 11 Nr. 1 Buchstaben a, b und d genannten
@@ -901,14 +946,17 @@ Gegenstände, für die Ersatz verlangt wird, nachgeholt worden ist.
 
 
 ## Fünfter Abschnitt - Zahlungspflicht der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000800319)
 
 
 
 ### Erster Titel - Lastentragung und Rangfolge der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG000900319)
 
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005200319)
 
 (1) Die Bundesrepublik Deutschland ist verpflichtet, die
 rückerstattungsrechtlichen Ansprüche (§§ 1, 3) nach Maßgabe der
@@ -919,6 +967,7 @@ trägt der Bund.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005300319)
 
 (1) Die rückerstattungsrechtlichen Ansprüche (§§ 1, 3) werden für den
 einzelnen Berechtigten in einem Bescheid (§ 38) zusammengefaßt und
@@ -955,11 +1004,13 @@ nach den folgenden Vorschriften befriedigt.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005400319)
 
 -
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005500319)
 
 (1) Der für den einzelnen Berechtigten insgesamt im Bescheid (§ 38)
 festgestellte Betrag ist, soweit er am 31. Dezember 1967 noch nicht
@@ -971,6 +1022,7 @@ ausgeschlossen.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005600319)
 
 Die Vorschriften der §§ 32, 34 finden keine Anwendung auf die
 Befriedigung der in § 14 Abs. 3 genannten rückerstattungsrechtlichen
@@ -979,6 +1031,7 @@ Rechtsnachfolger.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005700319)
 
 Vorleistungen werden auf die von der Bundesrepublik Deutschland nach
 §§ 32, 34 zu bewirkenden Leistungen angerechnet. Das gleiche gilt für
@@ -990,6 +1043,7 @@ erhalten, so wird die Anrechnung am Tag der Zahlung wirksam.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005800319)
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) nach § 25
 teilweise auf ein Land übergegangen, so werden die nach §§ 32, 34 zu
@@ -998,10 +1052,12 @@ an das Land bewirkt.
 
 
 ### Zweiter Titel - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG001000319)
 
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE005903310)
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen
 erteilt dem Berechtigten über die nach § 31 von der Bundesrepublik
@@ -1015,6 +1071,7 @@ abgeändert gilt.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006001320)
 
 (1) Der Bescheid soll enthalten
 
@@ -1067,6 +1124,7 @@ die Gründe für die Abänderung oder Ergänzung gemäß § 14 Abs. 1.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006104310)
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen hat
 von Amts wegen alle für den Bescheid nach § 39 Abs. 1 Nr. 5 und 7
@@ -1098,12 +1156,14 @@ Auszügen und Abschriften versagt werden.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006202310)
 
 Der Bescheid ist dem Berechtigten zuzustellen. Zustellungen erfolgen
 nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006300319)
 
 (1) Innerhalb einer Frist von drei Monaten nach Zustellung des
 Bescheids kann der Berechtigte gerichtliche Entscheidung beantragen;
@@ -1139,12 +1199,14 @@ Anwaltszwang besteht nicht.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006400319)
 
 Die Zahlung erfolgt unverzüglich nach Zustellung des Bescheids in Höhe
 der nach diesem Bescheid fälligen Beträge.
 
 
 #### § 43a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006503310)
 
 (1) Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) durch
 rechtskräftige Entscheidung oder rechtsgültige gütliche Einigung
@@ -1175,10 +1237,12 @@ dem 8. Oktober 1964.
 
 
 ## Sechster Abschnitt - Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG001100319)
 
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006602310)
 
 (1) Natürlichen Personen, denen im Geltungsbereich dieses Gesetzes
 feststellbare Vermögensgegenstände durch einen der in § 1 genannten
@@ -1200,6 +1264,7 @@ Dienste und offene Vermögensfragen zu stellen.
 
 
 ### § 44a
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006700319)
 
 (1) Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) wegen der
 Entziehung von Hausrat in den ehemals besetzten Westgebieten oder
@@ -1293,10 +1358,12 @@ Rahmen der im jeweiligen Haushaltsplan ausgebrachten Mittel.
 
 
 ## Siebenter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNG001200319)
 
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006800319)
 
 (1) Ansprüche nach diesem Gesetz werden nicht befriedigt, solange der
 Berechtigte seinen Wohnsitz oder dauernden Aufenthalt in Gebieten hat,
@@ -1310,6 +1377,7 @@ diplomatische Beziehungen unterhalten würden.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE006900319)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -1322,11 +1390,13 @@ Vorschriften.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE007000319)
 
 Dieses Gesetz gilt nicht im Saarland.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/br_g/BJNR007340957.html#BJNR007340957BJNE007100319)
 
 Dieses Gesetz tritt am Tag seiner Verkündung in Kraft.
 

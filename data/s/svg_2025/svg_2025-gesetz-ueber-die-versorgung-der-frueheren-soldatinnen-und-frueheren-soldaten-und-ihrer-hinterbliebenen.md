@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G 53-4 v. 26.7.1957 I 785 (SVG)
 
 ## Teil 1 - Einleitende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000100000)
 
 
 ### § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000201377)
 
 (1) Dieses Gesetz gilt für die früheren Soldatinnen und Soldaten und
 ihre Hinterbliebenen, soweit es im Einzelnen nichts anderes bestimmt.
@@ -37,6 +39,7 @@ Besoldung haben (§ 3 Absatz 2 des Bundesbesoldungsgesetzes).
 
 
 ### § 2 Regelung auf Grund Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000300000)
 
 (1) Die Versorgung der Soldatinnen und Soldaten sowie ihrer
 Hinterbliebenen wird nur auf Grund eines Gesetzes gewährt.
@@ -53,6 +56,7 @@ bestimmt ist.
 
 
 ### § 3 Wehrdienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000401377)
 
 (1) Wehrdienstzeit ist die Zeit vom Tag des tatsächlichen
 Diensteintritts bis zum Ablauf des Tages, an dem das Dienstverhältnis
@@ -81,15 +85,19 @@ in der Nationalen Volksarmee.
 
 
 ## Teil 2 - Berufsförderung und Dienstzeitversorgung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000200000)
 
 
 ### Abschnitt 1 - Berufsförderung und Dienstzeitversorgung der Soldatinnen auf Zeit und Soldaten auf Zeit; Berufsförderung der freiwilligen Wehrdienst nach § 58b des Soldatengesetzes Leistenden
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000300000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000400000)
 
 
 ##### § 4 Zweck und Arten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000500000)
 
 (1) Die Leistungen der Berufsförderung und der befristeten
 Dienstzeitversorgung sollen den Soldatinnen auf Zeit und Soldaten auf
@@ -156,6 +164,7 @@ Zeit umfasst
 
 
 ##### § 5 Berufsberatung der Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000600000)
 
 (1) Die Soldatinnen auf Zeit und Soldaten auf Zeit sind über die
 Bedeutung und die für sie wesentlichen Möglichkeiten ihrer
@@ -176,6 +185,7 @@ teilzunehmen.
 
 
 ##### § 6 Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000701377)
 
 (1) Während der Wehrdienstzeit bieten die Karrierecenter der
 Bundeswehr – Berufsförderungsdienste – interne Maßnahmen der
@@ -209,6 +219,7 @@ der Verteidigung oder die von ihm benannte Stelle.
 
 
 ##### § 7 Förderung der schulischen und beruflichen Bildung der Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000801377)
 
 (1) Soldatinnen auf Zeit und Soldaten auf Zeit, die nicht Inhaberinnen
 oder Inhaber eines Eingliederungsscheins sind, haben Anspruch auf
@@ -496,6 +507,7 @@ notwendigen Umfang in Betracht.
 
 
 ##### § 8 Kosten der schulischen und beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE000900000)
 
 (1) Die notwendigen Kosten der Teilnahme an Maßnahmen der schulischen
 und beruflichen Bildung werden grundsätzlich bis zu den
@@ -516,9 +528,11 @@ Berufsförderungsverordnung nichts anderes bestimmt ist.
 
 
 #### Unterabschnitt 2 - Eingliederung in das spätere Berufsleben
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000500000)
 
 
 ##### § 9 Eingliederungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001001377)
 
 (1) Soldatinnen auf Zeit, Soldaten auf Zeit und freiwilligen
 Wehrdienst nach § 58b des Soldatengesetzes Leistende werden während
@@ -638,6 +652,7 @@ festzustellen. Absatz 7 Satz 2 und § 8 Absatz 3 gelten entsprechend.
 
 
 ##### § 10 Förderung zur Teilhabe am zivilberuflichen Erwerbsleben
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001100000)
 
 (1) Soldatinnen und Soldaten, die
 
@@ -703,6 +718,7 @@ wenn
 
 
 ##### § 11 Anrechnung der Zeit der Förderung der beruflichen Bildung und des Wehrdienstes auf die Berufs- und Betriebszugehörigkeit bei anschließenden Beschäftigungsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001200000)
 
 (1) Die Zeit einer nach § 7 geförderten Maßnahme der beruflichen
 Bildung wird auf die Berufszugehörigkeit angerechnet, wenn die frühere
@@ -753,6 +769,7 @@ verlängert worden ist.
 
 
 ##### § 12 Anrechnung der Zeit der Förderung der beruflichen Bildung und des Wehrdienstes bei nachfolgenden Dienstverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001300000)
 
 (1) Bewirbt sich eine Soldatin auf Zeit oder ein Soldat auf Zeit oder
 eine frühere Soldatin auf Zeit oder ein früherer Soldat auf Zeit bis
@@ -799,6 +816,7 @@ Soldatengesetzes über diesen Zeitraum hinaus verlängert worden ist.
 
 
 ##### § 13 Eingliederungsschein und Zulassungsschein
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001400000)
 
 (1) Soldatinnen auf Zeit und Soldaten auf Zeit, die im unmittelbaren
 Anschluss an ihr Wehrdienstverhältnis Beamtinnen oder Beamte werden
@@ -895,6 +913,7 @@ Gründen gekündigt wird.
 
 
 ##### § 14 Stellenvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001500000)
 
 (1) Den Inhaberinnen und Inhabern eines Eingliederungsscheins oder
 Zulassungsscheins sind vorzubehalten
@@ -969,6 +988,7 @@ Einstellungsbehörde zuständigen Vormerkstelle.
 
 
 ##### § 15 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001601377)
 
 (1) Das Nähere zur Durchführung der Förderung nach den §§ 5 bis 9, 54
 und 55 bestimmt die Bundesregierung durch Rechtsverordnung mit
@@ -994,9 +1014,11 @@ dem Bundesministerium der Finanzen.
 
 
 #### Unterabschnitt 3 - Dienstzeitversorgung der Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000600000)
 
 
 ##### § 16 Übergangsgebührnisse
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001703377)
 
 (1) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer
 Wehrdienstzeit von mindestens vier Jahren erhalten
@@ -1164,6 +1186,7 @@ wird in die Zeiträume nach den Absätzen 2 und 4 nicht eingerechnet.
 
 
 ##### § 17 Ausgleichsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001800000)
 
 (1) Inhaberinnen und Inhaber eines Eingliederungsscheins erhalten nach
 Beendigung des Wehrdienstverhältnisses an Stelle von
@@ -1206,6 +1229,7 @@ anzuwenden.
 
 
 ##### § 18 Beitragszuschüsse zur Kranken- und Pflegeversicherung sowie Beiträge an berufsständische Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE001902377)
 
 (1) In der gesetzlichen Krankenversicherung und in der sozialen
 Pflegeversicherung versicherte Empfängerinnen oder Empfänger von
@@ -1332,6 +1356,7 @@ Einkommens aus weiteren Versicherungsfällen das Arbeitseinkommen nach
 
 
 ##### § 19 Übergangsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002002377)
 
 (1) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer
 Wehrdienstzeit von mehr als sechs Monaten erhalten eine
@@ -1589,9 +1614,11 @@ kein Verlust der Versorgungsbezüge eingetreten ist.
 
 
 #### Unterabschnitt 4 - Berufsförderung und Dienstzeitversorgung der Soldatinnen auf Zeit und Soldaten auf Zeit in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000700000)
 
 
 ##### § 20 Übergangsbeihilfe bei kurzer Wehrdienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002100000)
 
 Übergangsbeihilfe erhalten
 
@@ -1655,6 +1682,7 @@ Soldatengesetzes leistet. § 19 Absatz 8 gilt entsprechend.
 
 
 ##### § 21 Berücksichtigung früherer Dienstverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002201377)
 
 (1) Hat eine Soldatin auf Zeit oder ein Soldat auf Zeit vor ihrer oder
 seiner Berufung in das Dienstverhältnis bereits Wehrdienst geleistet,
@@ -1702,6 +1730,7 @@ Für den Bewilligungszeitraum stehen auch Übergangsgebührnisse zu.
 
 
 ##### § 22 Berufsförderung und Dienstzeitversorgung nach Beurlaubung ohne Dienstbezüge und Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002300000)
 
 (1) Bei Soldatinnen auf Zeit und Soldaten auf Zeit, die ohne
 Dienstbezüge oder während eines vorausgegangenen
@@ -1752,6 +1781,7 @@ wird.
 
 
 ##### § 23 Berücksichtigung von Beurlaubung ohne Dienstbezüge und Teilzeitbeschäftigung bei Dienstzeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002400000)
 
 (1) Bei Soldatinnen auf Zeit und Soldaten auf Zeit, die ohne
 Dienstbezüge oder während eines vorausgegangenen
@@ -1820,6 +1850,7 @@ einer Elternzeit.
 
 
 ##### § 24 Versorgung beim Ruhen der Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002500000)
 
 (1) Auf eine Soldatin auf Zeit oder einen Soldaten auf Zeit, deren
 oder dessen Rechte und Pflichten aus dem Wehrdienstverhältnis nach dem
@@ -1844,6 +1875,7 @@ als die festgesetzte Dienstzeit.
 
 
 ##### § 25 Unterhaltsbeitrag für Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002601377)
 
 Einer früheren Soldatin auf Zeit oder einem früheren Soldaten auf Zeit
 kann nach Beendigung der Zahlung der Übergangsgebührnisse nach § 16
@@ -1880,12 +1912,15 @@ Absatz 2 des Sechsten Buches Sozialgesetzbuch erreicht hat.
 
 
 ### Abschnitt 2 - Dienstzeitversorgung der Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000800000)
 
 
 #### Unterabschnitt 1 - Arten der Dienstzeitversorgung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG000900000)
 
 
 ##### § 26 Arten der Dienstzeitversorgung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002700000)
 
 Die Dienstzeitversorgung der Berufssoldatinnen und Berufssoldaten
 umfasst:
@@ -1924,9 +1959,11 @@ umfasst:
 
 
 #### Unterabschnitt 2 - Ruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001000000)
 
 
 ##### § 27 Entstehen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002800000)
 
 (1) Nach Eintritt oder Versetzung in den Ruhestand besteht Anspruch
 auf Ruhegehalt, im Falle der Versetzung in den einstweiligen Ruhestand
@@ -1947,12 +1984,14 @@ Gebiet zurückgelegt hat.
 
 
 ##### § 28 Berechnung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE002900000)
 
 Das Ruhegehalt wird auf der Grundlage der ruhegehaltfähigen
 Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
 
 
 ##### § 29 Ruhegehaltfähige Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003000000)
 
 (1) Ruhegehaltfähige Dienstbezüge sind
 
@@ -2000,6 +2039,7 @@ dienstgradbezogenen Altersgrenzen.
 
 
 ##### § 30 Zweijahresfrist
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003100000)
 
 (1) Hat eine Berufssoldatin oder ein Berufssoldat die Dienstbezüge
 ihres oder seines letzten Dienstgrades vor dem Eintritt in den
@@ -2034,6 +2074,7 @@ nicht übersteigen.
 
 
 ##### § 31 Regelmäßige ruhegehaltfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003200000)
 
 (1) Ruhegehaltfähig ist die Wehrdienstzeit (§ 3 Absatz 1). Dies gilt
 nicht für die Zeit
@@ -2107,6 +2148,7 @@ Die Absätze 1 und 2 gelten entsprechend.
 
 
 ##### § 32 Zeiten im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003300000)
 
 (1) Zeiten einer hauptberuflichen Tätigkeit, die vor Beginn des
 Ruhestandes im öffentlichen Dienst einer zwischenstaatlichen oder
@@ -2160,6 +2202,7 @@ ab Ruhestandsbeginn.
 
 
 ##### § 33 Erhöhung der ruhegehaltfähigen Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003400000)
 
 Die ruhegehaltfähige Dienstzeit nach § 31 erhöht sich um die Zeit, die
 
@@ -2183,6 +2226,7 @@ Absatz 2 Satz 2 entsprechend.
 
 
 ##### § 34 Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003500000)
 
 Als ruhegehaltfähig sollen auch folgende Zeiten berücksichtigt werden,
 in denen eine Berufssoldatin oder ein Berufssoldat vor der Berufung in
@@ -2217,6 +2261,7 @@ tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
 
 
 ##### § 35 Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003600000)
 
 (1) Bei einer Berufssoldatin oder einem Berufssoldaten kann die
 verbrachte Mindestzeit
@@ -2275,6 +2320,7 @@ Prüfungszeit nicht überschritten ist.
 
 
 ##### § 36 Sonstige Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003700000)
 
 Die Zeit, während der eine Berufssoldatin oder ein Berufssoldat vor
 dem Eintritt in die Bundeswehr
@@ -2294,12 +2340,14 @@ und in der Regel nicht über zehn Jahre hinaus, berücksichtigt werden.
 
 
 ##### § 37 Nicht zu berücksichtigende Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003800000)
 
 Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht
 ruhegehaltfähig.
 
 
 ##### § 38 Zeiten in dem in Artikel 3 des Einigungsvertrags genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE003900000)
 
 (1) Dienstzeiten nach § 92 Absatz 1, Beschäftigungszeiten nach § 34
 und sonstige Zeiten nach den §§ 36 und 94, die die Berufssoldatin oder
@@ -2320,6 +2368,7 @@ bis zu fünf Jahren als ruhegehaltfähig berücksichtigt werden.
 
 
 ##### § 39 Zurechnungszeit und Zeit gesundheitsschädigender Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004001377)
 
 (1) Ist die Berufssoldatin oder der Berufssoldat vor Vollendung des
 60\. Lebensjahres wegen Dienstunfähigkeit in den Ruhestand versetzt
@@ -2360,6 +2409,7 @@ Soldatin oder den Soldaten günstigere Vorschrift Anwendung.
 
 
 ##### § 40 Höhe des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004100000)
 
 (1) Das Ruhegehalt beträgt für jedes Jahr ruhegehaltfähiger Dienstzeit
 1,79375 Prozent, insgesamt jedoch höchstens 71,75 Prozent der
@@ -2460,6 +2510,7 @@ entsprechend.
 
 
 ##### § 41 Vorübergehende Erhöhung des Ruhegehaltssatzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004201377)
 
 (1) Der nach § 40 Absatz 1 bis 4, § 42 Absatz 1 Satz 1 dieses Gesetzes
 in Verbindung mit § 36 Absatz 3 Satz 1 des Beamtenversorgungsgesetzes
@@ -2551,9 +2602,11 @@ Erhöhung vom Beginn des Antragsmonats an ein.
 
 
 #### Unterabschnitt 3 - Unfallruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001100000)
 
 
 ##### § 42 Unfallruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004301377)
 
 (1) Auf eine Berufssoldatin oder einen Berufssoldaten, die oder der
 wegen Dienstunfähigkeit infolge eines als Berufssoldatin oder
@@ -2673,9 +2726,11 @@ Vorschrift gewährt werden.
 
 
 #### Unterabschnitt 4 - Kapitalabfindung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001200000)
 
 
 ##### § 43 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004400000)
 
 (1) Die Soldatin im Ruhestand oder der Soldat im Ruhestand kann auf
 Antrag statt eines Teils des Ruhegehalts eine Kapitalabfindung
@@ -2706,6 +2761,7 @@ Soldatin im Ruhestand oder der Soldat im Ruhestand das 57. Lebensjahr
 
 
 ##### § 44 Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004500000)
 
 (1) Eine Kapitalabfindung soll nur bewilligt werden, wenn die
 bestimmungsgemäße Verwendung des Geldes gewährleistet erscheint.
@@ -2717,6 +2773,7 @@ Arbeitnehmer im öffentlichen Dienst verwendet wird.
 
 
 ##### § 45 Höhe der Kapitalabfindung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004600000)
 
 (1) Der Teilbetrag des Ruhegehalts, an dessen Stelle die
 Kapitalabfindung tritt, darf 50 Prozent des Ruhegehalts und 2 455 Euro
@@ -2729,6 +2786,7 @@ zugrundeliegenden Jahresbetrages gezahlt.
 
 
 ##### § 46 Sicherung bei Grundstückskauf
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004700000)
 
 Die bestimmungsgemäße Verwendung des Kapitals ist durch die Form der
 Auszahlung und in der Regel durch Maßnahmen zur Verhinderung
@@ -2743,6 +2801,7 @@ Ersuchen des Bundesministeriums der Verteidigung.
 
 
 ##### § 47 Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004800000)
 
 (1) Die Kapitalabfindung ist insoweit zurückzuzahlen, als
 
@@ -2777,6 +2836,7 @@ werden, wenn wichtige Gründe vorliegen.
 
 
 ##### § 48 Höhe der Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE004900000)
 
 (1) Die Verpflichtung zur Rückzahlung (§ 47) beschränkt sich nach
 Ablauf des ersten Jahres auf 91 Prozent der Abfindungssumme, des
@@ -2807,6 +2867,7 @@ Absatz 1 Nummer 2 Teilzahlungen zulassen.
 
 
 ##### § 49 Berechnung bei Ruhen des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005000000)
 
 (1) Ruht das Ruhegehalt ganz oder zum Teil, weil die Empfängerin oder
 der Empfänger im Wehrdienst oder im anderen öffentlichen Dienst
@@ -2823,6 +2884,7 @@ Das Bundesministerium der Verteidigung kann Teilzahlungen zulassen.
 
 
 ##### § 50 Kosten der Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005100000)
 
 (1) Alle gerichtlichen und außergerichtlichen Beurkundungen, Urkunden,
 Vollmachten, amtlichen Bescheinigungen, Eintragungen und Löschungen im
@@ -2834,9 +2896,11 @@ hierdurch nicht berührt.
 
 
 #### Unterabschnitt 5 - Unterhaltsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001300000)
 
 
 ##### § 51 Unterhaltsbeitrag für entlassene Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005200000)
 
 Einer Berufssoldatin oder einem Berufssoldaten kann auf Antrag ein
 Unterhaltsbeitrag bis zur Höhe des Ruhegehalts bewilligt werden, wenn
@@ -2848,9 +2912,11 @@ entlassen worden ist.
 
 
 #### Unterabschnitt 6 - Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001400000)
 
 
 ##### § 52 Übergangsgeld für entlassene Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005300000)
 
 (1) Eine Berufssoldatin oder ein Berufssoldat, die oder der
 
@@ -2906,9 +2972,11 @@ Einkünfte.
 
 
 #### Unterabschnitt 7 - Ausgleich bei Altersgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001500000)
 
 
 ##### § 53 Ausgleich bei Altersgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005403377)
 
 (1) Eine Berufssoldatin oder ein Berufssoldat, die oder der vor
 Vollendung des 67. Lebensjahres nach § 44 Absatz 1 oder 2 des
@@ -2949,9 +3017,11 @@ worden. Die Absätze 2 und 3 gelten entsprechend.
 
 
 #### Unterabschnitt 8 - Berufsförderung der Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001600000)
 
 
 ##### § 54 Berufsförderung der Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005500000)
 
 (1) Einer Berufssoldatin oder einem Berufssoldaten, deren oder dessen
 Dienstverhältnis vor Vollendung des 45. Lebensjahres wegen
@@ -3016,6 +3086,7 @@ Bildungsmaßnahme ist anzurechnen.
 
 
 ##### § 55 Eingliederung von Berufssoldatinnen und Berufssoldaten in das Erwerbsleben
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005600000)
 
 Jeder Berufssoldatin und jedem Berufssoldaten, deren oder dessen
 Dienstverhältnis wegen Dienstunfähigkeit endet, wird die Eingliederung
@@ -3026,9 +3097,11 @@ notwendigen Berufsorientierungspraktikum kann im Umfang des § 9 Absatz
 
 
 ### Abschnitt 3 - Versorgung der Hinterbliebenen von Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001700000)
 
 
 #### § 56 Bezüge für den Sterbemonat und Sterbegeld für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005700000)
 
 (1) Stirbt eine Soldatin auf Zeit, ein Soldat auf Zeit, eine Soldatin
 oder ein Soldat, der Wehrdienst nach dem Wehrpflichtgesetz, nach § 58b
@@ -3058,6 +3131,7 @@ aufgerechnet werden kann.
 
 
 #### § 57 Laufende Unterstützung für Hinterbliebene von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, freiwilligen Wehrdienst oder Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005800000)
 
 (1) Ist eine Soldatin auf Zeit oder ein Soldat auf Zeit, die oder der
 in der Bundeswehr mindestens sechs Jahre Wehrdienst geleistet hat,
@@ -3077,6 +3151,7 @@ Ausnahme des Absatzes 1 Satz 2 entsprechend.
 
 
 #### § 58 Versorgung der Hinterbliebenen nach einem Einsatzunfall von Soldatinnen auf Zeit, Soldaten auf Zeit und von Soldatinnen und Soldaten, die Wehrdienst nach dem Wehrpflichtgesetz, nach § 58b oder nach dem Vierten Abschnitt des Soldatengesetzes leisten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE005900000)
 
 (1) Stirbt eine Soldatin auf Zeit, ein Soldat auf Zeit oder eine
 Soldatin oder ein Soldat, die oder der Wehrdienst nach dem
@@ -3120,6 +3195,7 @@ Ruhestand.
 
 
 #### § 59 Hinterbliebene von Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006000000)
 
 (1) Auf die Hinterbliebenen von Berufssoldatinnen und Berufssoldaten
 und Soldatinnen im Ruhestand und Soldaten im Ruhestand sind die §§ 16
@@ -3151,6 +3227,7 @@ Soldatinnen im Ruhestand und Soldaten im Ruhestand finden § 40 Absatz
 
 
 #### § 60 Bezüge bei Verschollenheit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006100000)
 
 (1) Eine Berufssoldatin, eine Soldatin auf Zeit, eine Soldatin im
 Ruhestand oder eine andere Versorgungsempfängerin, welche verschollen
@@ -3204,6 +3281,7 @@ gegangen ist.
 
 
 #### § 61 Hinterbliebene von Soldatinnen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006200000)
 
 Bei Hinterbliebenen von Frauen tritt im Sinne der Vorschriften dieses
 Gesetzes an die Stelle des Witwengeldes das Witwergeld. Dies gilt
@@ -3213,9 +3291,11 @@ das Witwergeld.
 
 
 ### Abschnitt 4 - Gemeinsame Vorschriften für Soldatinnen und Soldaten und ihre Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001800000)
 
 
 #### § 62 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006300000)
 
 (1) Bei der Anwendung der gemeinsamen Vorschriften gelten
 
@@ -3244,6 +3324,7 @@ Ruhestand, als Witwen, Witwer oder Waisen.
 
 
 #### § 63 Festsetzung und Zahlung der Versorgungsbezüge, Versorgungsauskunft
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006401377)
 
 (1) Das Bundesministerium der Verteidigung entscheidet über die
 Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften
@@ -3310,6 +3391,7 @@ zugrundeliegenden Daten.
 
 
 #### § 64 Familienzuschlag und Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006500000)
 
 (1) Auf den Familienzuschlag (§ 16 Absatz 3 Satz 2 und § 29 Absatz 1
 Satz 1 Nummer 2) sind die für Soldatinnen und Soldaten geltenden
@@ -3348,6 +3430,7 @@ Versorgungsbezügen gezahlt.
 
 
 #### § 65 Pfändung, Abtretung und Verpfändung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006600000)
 
 (1) Ansprüche auf Versorgungsbezüge können, wenn bundesgesetzlich
 nichts anderes bestimmt ist, nur insoweit abgetreten oder verpfändet
@@ -3366,6 +3449,7 @@ Sterbegeld angerechnet werden.
 
 
 #### § 66 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006700000)
 
 (1) Wird eine Versorgungsberechtigte oder ein Versorgungsberechtigter
 durch eine gesetzliche Änderung ihrer oder seiner Versorgungsbezüge
@@ -3391,6 +3475,7 @@ entsprechend.
 
 
 #### § 67 Aufrechnung und Zurückbehaltung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006800000)
 
 Ein Aufrechnungs- oder Zurückbehaltungsrecht gegenüber Ansprüchen auf
 Versorgungsbezüge kann nur insoweit geltend gemacht werden, als sie
@@ -3403,6 +3488,7 @@ Schadenersatz wegen vorsätzlicher unerlaubter Handlung besteht.
 
 
 #### § 68 Zusammentreffen von Versorgungsbezügen mit Erwerbs- oder Erwerbsersatzeinkommen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE006903377)
 
 (1) Bezieht eine Soldatin im Ruhestand oder ein Soldat im Ruhestand,
 die oder der wegen Dienstunfähigkeit, die nicht auf einer
@@ -3499,6 +3585,7 @@ Einvernehmen mit dem Bundesministerium des Innern und für Heimat.
 
 
 #### § 69 Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007000000)
 
 Bezieht eine Versorgungsempfängerin oder ein Versorgungsempfänger
 Altersgeld, Witwenaltersgeld oder Waisenaltersgeld nach dem
@@ -3515,6 +3602,7 @@ Witwen- oder Witwergelds gezahlt.
 
 
 #### § 70 Zusammentreffen mehrerer Versorgungsbezüge aus dem öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007100000)
 
 (1) Erhalten aus einer Verwendung im öffentlichen Dienst (§ 68 Absatz
 4) an neuen Versorgungsbezügen
@@ -3617,6 +3705,7 @@ sind, zuzüglich des Unterschiedsbetrages nach § 64 Absatz 1.
 
 
 #### § 71 Zusammentreffen von Versorgungsbezügen und Renten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007202377)
 
 (1) Versorgungsbezüge werden neben Renten nur bis zum Erreichen der in
 Absatz 2 bezeichneten Höchstgrenze gezahlt. Als Renten gelten
@@ -3812,6 +3901,7 @@ des Absatzes 1 Satz 3 entsprechend.
 
 
 #### § 72 Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007300000)
 
 (1) Steht einer Soldatin im Ruhestand oder einem Soldaten im Ruhestand
 auf Grund einer Verwendung im öffentlichen Dienst einer
@@ -3867,6 +3957,7 @@ abzuziehen.
 
 
 #### § 73 Kürzung der Versorgungsbezüge nach der Ehescheidung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007400000)
 
 (1) Sind durch Entscheidung des Familiengerichts
 
@@ -3954,6 +4045,7 @@ bekannt wird.
 
 
 #### § 74 Abwendung der Kürzung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007500000)
 
 (1) Die Kürzung der Versorgungsbezüge nach § 73 kann von der
 Berufssoldatin, dem Berufssoldaten, der Soldatin im Ruhestand oder dem
@@ -3987,6 +4079,7 @@ nach § 73 anteilig errechneten Kürzungsbeträge zurückzuzahlen.
 
 
 #### § 75 Anwendung des Bundesversorgungsteilungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007600000)
 
 Für die Ansprüche von ausgleichsberechtigten Personen und deren
 Hinterbliebenen aus dem Versorgungsausgleich gegenüber dem Träger der
@@ -3997,6 +4090,7 @@ Fassung entsprechend.
 
 
 #### § 76 Abzug für Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007700000)
 
 Die zu zahlenden Versorgungsbezüge vermindern sich um den hälftigen
 Prozentsatz nach § 55 Absatz 1 Satz 1 des Elften Buches
@@ -4023,6 +4117,7 @@ Sozialgesetzbuch errechnet, nicht übersteigen.
 
 
 #### § 76a Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007800000)
 
 (1) Neben einer nach Landesrecht gezahlten ergänzenden
 Versorgungsabfindung wird das Ruhegehalt nur bis zum Erreichen der in
@@ -4040,6 +4135,7 @@ bezeichneten Höchstgrenzen sinngemäß.
 
 
 #### § 77 Erlöschen der Versorgungsbezüge wegen Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE007900000)
 
 Eine frühere Soldatin oder ein früherer Soldat verliert das Recht auf
 Berufsförderung und Dienstzeitversorgung in den Fällen des § 53 Absatz
@@ -4049,6 +4145,7 @@ unberührt.
 
 
 #### § 78 Erlöschen der Versorgungsbezüge bei Ablehnung einer erneuten Berufung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008000000)
 
 Kommt eine Soldatin im Ruhestand oder ein Soldat im Ruhestand entgegen
 den Vorschriften des § 50 Absatz 2 des Soldatengesetzes in Verbindung
@@ -4064,6 +4161,7 @@ nicht ausgeschlossen.
 
 
 #### § 79 Entziehung der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008100000)
 
 (1) Das Bundesministerium der Verteidigung kann früheren Soldatinnen
 oder früheren Soldaten, gegen die ein disziplinargerichtliches
@@ -4081,6 +4179,7 @@ Hinterbliebenenversorgung.
 
 
 #### § 80 Erlöschen und Wiederaufleben der Versorgungsbezüge für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008201377)
 
 (1) Der Anspruch der Witwen, Witwer und Waisen auf Versorgungsbezüge
 erlischt
@@ -4199,6 +4298,7 @@ den Fällen des § 16 Absatz 6 Satz 4 und des § 17 Absatz 2.
 
 
 #### § 81 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008301377)
 
 (1) Die Beschäftigungsstelle hat der die Versorgungsbezüge anweisenden
 Stelle (Regelungsbehörde) jede Verwendung einer oder eines
@@ -4271,6 +4371,7 @@ mitzuteilen.
 
 
 #### § 82 Nichtberücksichtigung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008400000)
 
 Werden Versorgungsberechtigte im öffentlichen Dienst (§ 68 Absatz 4)
 verwendet, so sind ihre Bezüge aus dieser Beschäftigung ohne Rücksicht
@@ -4279,9 +4380,11 @@ Versorgung, die auf Grund der Beschäftigung zu gewähren ist.
 
 
 ### Abschnitt 5 - Umzugskostenvergütung, Unfallentschädigung, Schadensausgleich in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG001900000)
 
 
 #### § 83 Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008500000)
 
 (1) Eine frühere Soldatin auf Zeit oder ein früherer Soldat auf Zeit,
 deren oder dessen Dienstverhältnis wegen Ablaufs der Zeit, für die sie
@@ -4375,6 +4478,7 @@ Beendigung des Umzugs.
 
 
 #### § 84 Einmalige Unfallentschädigung für besonders gefährdete Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008601377)
 
 (1) Eine Soldatin oder ein Soldat, die oder der
 
@@ -4507,6 +4611,7 @@ Unfallentschädigung gewährt.
 
 
 #### § 85 Einmalige Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008700000)
 
 (1) Setzt sich eine Soldatin oder ein Soldat bei Ausübung einer
 Diensthandlung einer damit verbundenen besonderen Lebensgefahr aus und
@@ -4563,6 +4668,7 @@ Absatz 2 mit den dort genannten Folgen erleidet.
 
 
 #### § 85a Kompensationszahlung für bestimmte Statusgruppen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013900377)
 
 (1) Eine Soldatin oder ein Soldat, die oder der keine Berufssoldatin
 oder kein Berufssoldat ist, erhält neben der sonstigen Versorgung nach
@@ -4627,6 +4733,7 @@ berechnet.
 
 
 #### § 86 Schadensausgleich in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008800000)
 
 (1) Schäden, die einer Soldatin oder einem Soldaten während einer
 besonderen Auslandsverwendung im Sinne des § 87 Absatz 1 infolge von
@@ -4693,9 +4800,11 @@ entzogen ist.
 
 
 ### Abschnitt 6 - Versorgung bei besonderen Auslandsverwendungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG002000000)
 
 
 #### § 87 Besondere Auslandsverwendung, dem Einsatz vergleichbare Verwendung, Einsatzunfall, Einsatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE008901377)
 
 (1) Eine besondere Auslandsverwendung ist eine Verwendung auf Grund
 eines Übereinkommens oder einer Vereinbarung mit einer über- oder
@@ -4826,6 +4935,7 @@ Ausschluss für sie oder ihn eine unbillige Härte wäre.
 
 
 #### § 88 Unfallruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009001377)
 
 Einer Berufssoldatin oder einem Berufssoldaten, die oder der als
 Berufssoldatin oder als Berufssoldat oder als Soldatin auf Zeit oder
@@ -4839,6 +4949,7 @@ seiner Erwerbsfähigkeit um mindestens 50 Prozent beschränkt ist.
 
 
 #### § 89 Einmalige Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009100000)
 
 Erleidet eine Soldatin oder ein Soldat einen Einsatzunfall im Sinne
 von § 87 Absatz 2 mit den in § 85 Absatz 1 genannten Folgen, gilt § 85
@@ -4846,6 +4957,7 @@ entsprechend.
 
 
 #### § 90 Ausgleichszahlung für bestimmte Statusgruppen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009201377)
 
 (1) Im Falle eines Einsatzunfalls im Sinne des § 87 Absatz 2 erhält
 eine Soldatin oder ein Soldat, die oder der keinen Anspruch auf
@@ -4921,14 +5033,17 @@ Hinterbliebenenversorgung nach § 58 besteht.
 
 
 #### § 91 Anrechnung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009300000)
 
 § 106 gilt entsprechend.
 
 
 ### Abschnitt 7 - Anrechnung sonstiger Zeiten als ruhegehaltfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG002100000)
 
 
 #### § 92 Zeiten im öffentlichen Dienst und vergleichbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009400000)
 
 (1) Als ruhegehaltfähig gilt die Dienstzeit, in der eine
 Berufssoldatin oder ein Berufssoldat vor ihrem oder seinem Eintritt in
@@ -4964,6 +5079,7 @@ Absatz 1 Satz 1 Nummer 1, 2 und 4 bis 6, für die eine Abfindung aus
 
 
 #### § 93 Krankheits- und Gewahrsamszeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009500000)
 
 Als ruhegehaltfähig gilt die Zeit, während der sich eine
 Berufssoldatin oder ein Berufssoldat vor ihrem oder seinem Eintritt in
@@ -4985,6 +5101,7 @@ befunden hat.
 
 
 #### § 94 Zeiten eines sonstigen hauptberuflichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009600000)
 
 Die Zeit, während der eine Berufssoldatin oder ein Berufssoldat vor
 ihrem oder seinem Eintritt in die Bundeswehr
@@ -5012,6 +5129,7 @@ kann als ruhegehaltfähige Dienstzeit berücksichtigt werden.
 
 
 #### § 95 Sonderregelungen für volksdeutsche Vertriebene und Umsiedler
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009700000)
 
 Dem Dienst bei einem öffentlich-rechtlichen Dienstherrn im Sinne der
 §§ 34, 92 Absatz 1 Nummer 1 steht für volksdeutsche Vertriebene,
@@ -5021,9 +5139,11 @@ entsprechend anzuwenden.
 
 
 ### Abschnitt 8 - Besondere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG002200000)
 
 
 #### § 96 Kindererziehungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009800000)
 
 (1) Das Ruhegehalt erhöht sich für jeden Monat einer der
 Berufssoldatin oder dem Berufssoldaten zuzuordnenden
@@ -5099,6 +5219,7 @@ das Mindestruhegehalt ist die Erhöhung nach Absatz 1 nicht anzuwenden.
 
 
 #### § 97 Kindererziehungsergänzungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE009900000)
 
 (1) Das Ruhegehalt erhöht sich um einen
 Kindererziehungsergänzungszuschlag, wenn
@@ -5158,6 +5279,7 @@ Rentenwerts für jeden Monat des Zusammentreffens der Leistungen tritt.
 
 
 #### § 98 Kinderzuschlag zum Witwengeld
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010000000)
 
 (1) Das Witwengeld nach § 59 dieses Gesetzes in Verbindung mit § 20
 des Beamtenversorgungsgesetzes erhöht sich für jeden Monat einer nach
@@ -5190,6 +5312,7 @@ Rentenwerts.
 
 
 #### § 99 Pflege- und Kinderpflegeergänzungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010100000)
 
 (1) War eine Berufssoldatin oder ein Berufssoldat nach § 3 Satz 1
 Nummer 1a des Sechsten Buches Sozialgesetzbuch versicherungspflichtig,
@@ -5229,6 +5352,7 @@ Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit.
 
 
 #### § 100 Vorübergehende Gewährung von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010201377)
 
 (1) Versorgungsempfängerinnen und Versorgungsempfänger erhalten
 vorübergehend Leistungen entsprechend den §§ 96, 97 und 99, wenn
@@ -5286,9 +5410,11 @@ an gewährt.
 
 
 ## Teil 3 - Fürsorgeleistungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG002301377)
 
 
 ### § 101 Arbeitslosenbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010300000)
 
 (1) Frühere Soldatinnen auf Zeit und frühere Soldaten auf Zeit, die
 nach Beendigung einer Wehrdienstzeit von mindestens zwei Jahren
@@ -5349,6 +5475,7 @@ weggefallen ist.
 
 
 ### § 101a Überbrückungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013600377)
 
 (1) Einer Berufssoldatin oder einem Berufssoldaten, der oder dem
 gegenüber eine vollziehbare Entlassungsverfügung nach § 46 Absatz 2a
@@ -5407,9 +5534,11 @@ Betrag übersteigen.
 
 
 ## Teil 4 - Organisation, Verfahren, Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG002400000)
 
 
 ### § 102 Dienstzeitversorgung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010400000)
 
 (1) Das Bundesministerium der Verteidigung führt die Versorgung nach
 Teil 2 bei Behörden der Bundeswehrverwaltung durch. Einzelne Aufgaben
@@ -5426,6 +5555,7 @@ Wehrbeschwerdeordnung über das verwaltungsgerichtliche Vorverfahren (§
 
 
 ### § 103 Arbeitslosenbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010500000)
 
 Mehraufwendungen, die der Bundesagentur für Arbeit durch die Gewährung
 der Arbeitslosenbeihilfe (§ 101 Absatz 1) entstehen, erstattet der
@@ -5433,9 +5563,11 @@ Bund. Verwaltungskosten werden nicht erstattet.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNG002500000)
 
 
 ### § 104 Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010600000)
 
 Dienstbezüge im Sinne der §§ 16 und 19 sind die Dienstbezüge nach § 1
 Absatz 2 Nummer 1 und 3 des Bundesbesoldungsgesetzes sowie
@@ -5447,6 +5579,7 @@ der Ausgleichsbezüge nach § 17 sind die Dienstbezüge mit dem Faktor
 
 
 ### § 105 Anpassung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010700000)
 
 Auf die Versorgungsbezüge der Berufssoldatinnen und Berufssoldaten,
 der Soldatinnen auf Zeit und Soldaten auf Zeit und ihrer
@@ -5455,6 +5588,7 @@ entsprechend anzuwenden.
 
 
 ### § 106 Anrechnung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010800000)
 
 Auf laufende und einmalige Geldleistungen, die nach diesem Gesetz
 wegen eines Körper-, Sach- oder Vermögensschadens gewährt werden, sind
@@ -5470,6 +5604,7 @@ Soldatenentschädigungsgesetzes.
 
 
 ### § 107 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE010900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 81 Absatz 5 eine Mitteilung nicht, nicht richtig, nicht vollständig
@@ -5483,6 +5618,7 @@ Bundeswehr.
 
 
 ### § 108 Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011000000)
 
 (1) Das Bundesministerium der Verteidigung erlässt die zur
 Durchführung dieses Gesetzes mit Ausnahme des Teils 3 erforderlichen
@@ -5500,6 +5636,7 @@ Zustimmung des Bundesrates erlassen.
 
 
 ### § 109 Übergangsregelungen aus Anlass der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011100000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die bis
 zum 31. Dezember 2009 zu erlassen ist, für die Soldatenversorgung
@@ -5511,6 +5648,7 @@ Ruhensregelungen abweichend von diesem Gesetz.
 
 
 ### § 110 Verteilung der Versorgungslasten bei Übernahme von Berufssoldatinnen und Berufssoldaten in ein öffentlich-rechtliches Dienstverhältnis zu einem anderen Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011200000)
 
 Wird eine Berufssoldatin oder ein Berufssoldat der Bundeswehr in ein
 öffentlich-rechtliches Dienstverhältnis eines anderen Dienstherrn
@@ -5541,6 +5679,7 @@ anzuwenden.
 
 
 ### § 111 Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis eines anderen Dienstherrn in dem in Artikel 3 des Einigungsvertrags genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011300000)
 
 Erwirbt eine Soldatin im Ruhestand oder ein Soldat im Ruhestand auf
 Grund einer zwischen dem 3. Oktober 1990 und dem 31. Dezember 1999
@@ -5553,6 +5692,7 @@ des Beamtenversorgungsgesetzes tritt.
 
 
 ### § 112 Benennung eines Kontos
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011400000)
 
 Die Zahlung von Leistungen nach diesem Gesetz kann davon abhängig
 gemacht werden, dass die Empfängerin oder der Empfänger ein Konto im
@@ -5572,6 +5712,7 @@ zugemutet werden kann.
 
 
 ### § 113 Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfängerinnen und Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011501377)
 
 (1) Die Rechtsverhältnisse der am 1. Januar 1977 vorhandenen
 Empfängerinnen und Empfänger von Versorgungsbezügen regeln sich nach
@@ -5698,6 +5839,7 @@ Prozentsätze entsprechend.
 
 
 ### § 114 Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfängerinnen und Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011601377)
 
 Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen
 Empfängerinnen und Empfänger von Versorgungsbezügen regeln sich,
@@ -5769,6 +5911,7 @@ Maßgaben:
 
 
 ### § 115 Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011700000)
 
 (1) Hat das Dienstverhältnis der Berufssoldatin oder des
 Berufssoldaten, aus dem sie oder er in den Ruhestand tritt, oder ein
@@ -5833,6 +5976,7 @@ Beschäftigungsverhältnis im Sinne des § 5 Absatz 1 Nummer 2 und des §
 
 
 ### § 116 Erneute Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011800000)
 
 Ist eine Soldatin im Ruhestand oder ein Soldat im Ruhestand erneut in
 das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
@@ -5849,6 +5993,7 @@ ruhegehaltfähig. Das höhere Ruhegehalt wird gezahlt.
 
 
 ### § 117 Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE011900000)
 
 Für Versorgungsfälle, die vor dem 1. Juli 1997 eingetreten sind, ist §
 17 Absatz 2, § 23 Absatz 1 Satz 1, § 25 Absatz 1 Satz 1 und § 27 in
@@ -5877,6 +6022,7 @@ erhalten die jeweiligen Beträge entsprechend anteilig.
 
 
 ### § 118 Übergangsregelungen für vor dem 1. Januar 1999 eingetretene Versorgungsfälle und für am 1. Januar 1999 vorhandene Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012000000)
 
 (1) Für Versorgungsfälle, die vor dem 1. Januar 1999 eingetreten sind,
 sind die §§ 18, 21, 26 Absatz 9 und die §§ 63, 63a in der bis zum 31.
@@ -5907,6 +6053,7 @@ der bis zum 31. Dezember 1998 geltenden Fassung.
 
 
 ### § 119 Übergangsregelungen für vor dem 1. Januar 2001 eingetretene Versorgungsfälle und für am 1. Januar 2001 vorhandene Berufssoldatinnen und Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012100000)
 
 (1) Auf Versorgungsfälle, die vor dem 1. Januar 2001 eingetreten sind,
 ist § 25 Absatz 1 Satz 1, § 26 Absatz 10 und § 27 Absatz 1 Satz 1 in
@@ -5999,6 +6146,7 @@ in den Ruhestand versetzt werden, gilt Folgendes:
 
 
 ### § 120 Übergangsregelungen aus Anlass des Versorgungsänderungsgesetzes 2001 sowie des Dienstrechtsneuordnungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012201377)
 
 (1) Die Rechtsverhältnisse der am 1. Januar 2002 vorhandenen
 Soldatinnen im Ruhestand und Soldaten im Ruhestand, Witwen, Witwer,
@@ -6233,6 +6381,7 @@ allgemeinen wirtschaftlichen und finanziellen Verhältnisse zu prüfen.
 
 
 ### § 121 Übergangsregelungen aus Anlass des Berufsförderungsfortentwicklungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012300000)
 
 (1) Die Rechtsverhältnisse der am 1. Juni 2005 vorhandenen
 Versorgungsempfängerinnen und Versorgungsempfänger regeln sich nach
@@ -6260,6 +6409,7 @@ anzuwenden.
 
 
 ### § 122 Übergangsregelung aus Anlass des Wegfalls des Instituts der Anstellung
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012400000)
 
 Auf Bundesbeamtinnen und Bundesbeamte, denen mit der Begründung eines
 Beamtenverhältnisses auf Probe nicht gleichzeitig ein Amt verliehen
@@ -6268,6 +6418,7 @@ wird, ist § 8a Absatz 1, § 9 Absatz 4 und 5 sowie § 11a in der bis zum
 
 
 ### § 123 Übergangsregelungen zur Berücksichtigung von Hochschulausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012500000)
 
 (1) Auf Versorgungsfälle, die vor dem 12. Februar 2009 eingetreten
 sind, ist § 23 Absatz 1 Satz 1 in der bis zum 11. Februar 2009
@@ -6283,6 +6434,7 @@ fünf Tage vermindert.
 
 
 ### § 124 Versorgungsüberleitungsregelungen aus Anlass des Dienstrechtsneuordnungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012600000)
 
 (1) Für Versorgungsfälle, die vor dem 1. Juli 2009 eingetreten sind,
 gilt:
@@ -6365,6 +6517,7 @@ Absatz 2 Nummer 2 um 2,44 Prozent erhöht.
 
 
 ### § 125 Übergangsregelungen aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012700000)
 
 Ist der Anspruch auf eine einmalige Unfallentschädigung nach § 84 oder
 auf eine einmalige Entschädigung nach § 85 in der Zeit vom 1. Dezember
@@ -6405,6 +6558,7 @@ Entschädigung nach § 89 entsprechend.
 
 
 ### § 126 Übergangsregelungen aus Anlass des Bundeswehrreform-Begleitgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012801377)
 
 (1) Für die am 26. Juli 2012 vorhandenen Versorgungsempfängerinnen und
 Versorgungsempfänger sowie für die Soldatinnen und Soldaten, die vor
@@ -6462,6 +6616,7 @@ stehen nicht zu.
 
 
 ### § 127 Übergangsregelungen aus Anlass des Bundeswehr-Attraktivitätssteigerungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE012900000)
 
 (1) § 58 ist auch anzuwenden, wenn der Tod in der Zeit vom 1. Dezember
 2002 bis zum 12. Dezember 2011 eingetreten ist. Ein bereits nach § 56
@@ -6514,6 +6669,7 @@ Die Leistungen werden auf Antrag gewährt.
 
 
 ### § 128 Befristete Ausnahme für Verwendungseinkommen aus einer Beschäftigung in der Flüchtlingshilfe
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013000000)
 
 Für Soldatinnen im Ruhestand und Soldaten im Ruhestand, die ein
 Verwendungseinkommen aus einer Beschäftigung erzielen, die unmittelbar
@@ -6540,6 +6696,7 @@ Bundesbeamtengesetzes erreicht haben.
 
 
 ### § 129 Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013100000)
 
 Für Versorgungsfälle, die vor dem 11. Januar 2017 eingetreten sind,
 sind § 20 Absatz 1 Satz 2 Nummer 1 und § 55a Absatz 2 in der bis zum
@@ -6550,6 +6707,7 @@ Versorgungsempfängers.
 
 
 ### § 130 Übergangsregelung aus Anlass des GKV-Versichertenentlastungsgesetzes sowie des Bundeswehr-Einsatzbereitschaftsstärkungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013200000)
 
 (1) Auf die am 31. Dezember 2018 vorhandenen Empfängerinnen und
 Empfänger von Übergangsgebührnissen ist das Soldatenversorgungsgesetz
@@ -6561,6 +6719,7 @@ Dienstverhältnis ausgeschieden sind.
 
 
 ### § 131 Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013301377)
 
 (1) § 32 ist auf am 30. Juni 2020 vorhandene Soldatinnen und Soldaten
 anzuwenden, wenn eine Verwendung im Sinne des § 32 Absatz 1 vor dem 1.
@@ -6667,6 +6826,7 @@ Hinterbliebene.
 
 
 ### § 132 Übergangsregelung zur Minderung der Förderungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013400000)
 
 § 7 Absatz 7 Satz 2 und 3 gilt nur für Maßnahmen der militärischen
 Ausbildung derjenigen Soldatinnen auf Zeit und Soldaten auf Zeit, die
@@ -6678,6 +6838,7 @@ Absatz 6 Satz 2 in der bis zum 30. September 2021 geltenden Fassung.
 
 
 ### § 133 Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013700377)
 
 (1) Die Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des
 Bundesbesoldungsgesetzes gehören für diejenigen am 31. Dezember 2023
@@ -6713,6 +6874,7 @@ tritt die Änderung zum Beginn des Antragsmonats ein.
 
 
 ### § 134 Übergangsregelung zur Anerkennung einer besonderen Auslandsverwendung als ruhegehaltfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013800377)
 
 Für Versorgungsfälle, die vor dem 13. Dezember 2011 eingetreten sind,
 gilt § 109 des Soldatenversorgungsgesetzes in der bis zum 31. Dezember
@@ -6720,6 +6882,7 @@ gilt § 109 des Soldatenversorgungsgesetzes in der bis zum 31. Dezember
 
 
 ### § 135 Übergangsregelung aus Anlass des Gesetzes zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE014000377)
 
 (1) Für am 1. April 2025 vorhandene Soldatinnen im Ruhestand und
 Soldaten im Ruhestand, die nicht bereits ein Unfallruhegehalt oder ein
@@ -6752,6 +6915,7 @@ oder § 88 erfüllt hätte. Absatz 2 gilt entsprechend.
 
 
 ### Anlage Anlage I Kapitel XIX Sachgebiet B Abschnitt III des Einigungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/svg_2025/BJNR395800021.html#BJNR395800021BJNE013500000)
 
 (Fundstelle: BGBl. I 2021, 4009 - 4010)
 

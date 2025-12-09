@@ -28,6 +28,7 @@ Stand: Ersetzt V 806-21-1-297 v. 18.7.2002 I 2699 (VeranstTechAusbV 2002)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -37,20 +38,24 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000300000)
 
 Der Ausbildungsberuf der Fachkraft für Veranstaltungstechnik wird nach
 § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -68,6 +73,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000601128)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -133,6 +139,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -140,6 +147,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -150,9 +158,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -162,6 +172,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -178,6 +189,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001100000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -192,6 +204,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich Auswählen der Veranstaltungstechnik und Sicherstellen der Stromversorgung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001200000)
 
 (1) Im Prüfungsbereich Auswählen der Veranstaltungstechnik und
 Sicherstellen der Stromversorgung soll der Prüfling nachweisen, dass
@@ -221,6 +234,7 @@ er in der Lage ist,
 
 
 ### § 11 Prüfungsbereich Bereitstellen der Veranstaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001300000)
 
 (1) Im Prüfungsbereich Bereitstellen der Veranstaltungstechnik soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -262,9 +276,11 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNG000300000)
 
 
 ### § 12 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001400000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -274,6 +290,7 @@ durchgeführt werden.
 
 
 ### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001500000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -290,6 +307,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001600000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -312,6 +330,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 15 Prüfungsbereich Realisieren eines veranstaltungstechnischen Projekts
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001701360)
 
 (1) Im Prüfungsbereich Realisieren eines veranstaltungstechnischen
 Projekts soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -352,6 +371,7 @@ eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen.
 
 
 ### § 16 Prüfungsbereich Planen der Veranstaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001800000)
 
 (1) Im Prüfungsbereich Planen der Veranstaltungstechnik soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -387,6 +407,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 17 Prüfungsbereich Planen der Veranstaltungsdurchführung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE001900000)
 
 (1) Im Prüfungsbereich Planen der Veranstaltungsdurchführung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -413,6 +434,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 18 Prüfungsbereich Sicherstellen der Energieversorgung für Veranstaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE002000000)
 
 (1) Im Prüfungsbereich Sicherstellen der Energieversorgung für
 Veranstaltungstechnik soll der Prüfling nachweisen, dass er in der
@@ -447,6 +469,7 @@ Lage ist,
 
 
 ### § 19 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE002100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -460,6 +483,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE002201128)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -556,9 +580,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNG000400000)
 
 
 ### § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE002300000)
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zur Fachkraft für
@@ -567,6 +593,7 @@ Veranstaltungstechnik vom 18. Juli 2002 (BGBl. I S. 2699) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vfausbv/BJNR130700016.html#BJNR130700016BJNE002401128)
 
 (Fundstelle: BGBl. I 2016,1311 - 1317;
 bezüglich der Änderungen vgl. Fußnote)

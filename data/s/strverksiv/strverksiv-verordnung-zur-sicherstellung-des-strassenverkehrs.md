@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000100322)
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 3 und 4, des § 5
 Abs. 1 Satz 1, des § 19 Abs. 8 und des § 29 Nr. 2 des
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Verkehr geschlossener Verbände
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000200322)
 
 Der Verkehr geschlossener militärischer Verbände und geschlossener
 nichtmilitärischer Kraftfahrzeugverbände hat Vorrang vor dem sonstigen
@@ -40,6 +42,7 @@ der Straßenverkehrs-Ordnung unberührt.
 
 
 ## § 2 Beschränkung der Benutzung von Straßen oder Straßenstrecken
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000304119)
 
 (1) Die unteren Straßenverkehrsbehörden können die Benutzung
 bestimmter Straßen oder Straßenstrecken außer aus den in § 45 Abs. 1
@@ -74,12 +77,14 @@ treffen, wenn dies der Sicherstellung des weiträumigen Verkehrs dient.
 
 
 ## § 3 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000400322)
 
 Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis,
 soweit § 4 nichts anderes bestimmt.
 
 
 ## § 4 Erlaubnisfreie Fahrten
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000502308)
 
 (1) Einer Erlaubnis nach § 3 bedürfen nicht Fahrten zu gewerblichen,
 beruflichen, schulischen oder sonstigen der Ausbildung dienenden
@@ -154,6 +159,7 @@ anordnen, die in ihrem Bezirk angetreten werden.
 
 
 ## § 5 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000600322)
 
 (1) Die Erlaubnis nach § 3 wird erteilt, wenn die Benutzung regelmäßig
 verkehrender öffentlicher Verkehrsmittel zur Erreichung des Fahrtziels
@@ -179,6 +185,7 @@ zuständig.
 
 
 ## § 6 Erlaubnis für Fahrten mit Nutzfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000700322)
 
 (1) Die untere Verkehrsbehörde kann mit Zustimmung der höheren
 Verkehrsbehörde zur Sicherstellung des lebenswichtigen Verkehrs
@@ -199,6 +206,7 @@ von der Kraftfahrzeugsteuer befreit sind.
 
 
 ## § 7 Erteilung der Erlaubnis für Fahrten mit Nutzfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000800322)
 
 (1) Die Erlaubnis nach § 6 Abs. 1 wird erteilt, wenn lebenswichtige
 Interessen nicht entgegenstehen.
@@ -221,6 +229,7 @@ Verkehrsbehörde, die die Anordnung nach § 6 Abs. 1 erlassen hat.
 
 
 ## § 8 Betriebs- und Beförderungspflichten im Linienverkehr
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE000901308)
 
 (1) Die höhere Verkehrsbehörde kann in Einzelfällen anordnen, daß
 Betriebs- und Beförderungspflichten nach dem
@@ -271,6 +280,7 @@ anderes ergibt, das Personenbeförderungsgesetz entsprechend.
 
 
 ## § 9 Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE001000322)
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -342,6 +352,7 @@ Nr. 10 die höhere Verkehrsbehörde.
 
 
 ## § 10 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE001101308)
 
 (1) In Ländern, in denen höhere Verkehrsbehörden oder höhere
 Verwaltungsbehörden nicht bestehen, tritt an deren Stelle die oberste
@@ -363,6 +374,7 @@ wahrgenommen werden.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE001203305)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.
@@ -374,6 +386,7 @@ Verkehr und digitale Infrastruktur durch Rechtsverordnung bestimmt.
 
 
 ## Anlage 1 (zu § 5 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE001300322)
 
 (Fundstelle: BGBl. I 1980, 1798)
 Erlaubnis
@@ -403,6 +416,7 @@ der unteren Straßenverkehrsbehörde)
 
 
 ## Anlage 2 (zu § 7 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/strverksiv/BJNR017950980.html#BJNR017950980BJNE001400322)
 
 (Fundstelle: BGBl. I 1980, 1799)
 Erlaubnis

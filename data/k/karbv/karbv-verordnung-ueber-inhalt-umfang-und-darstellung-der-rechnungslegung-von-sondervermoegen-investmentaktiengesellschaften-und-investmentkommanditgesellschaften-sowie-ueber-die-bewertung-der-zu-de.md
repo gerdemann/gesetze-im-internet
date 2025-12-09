@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000100000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet auf
 Grund
@@ -46,9 +47,11 @@ worden ist:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000300000)
 
 Diese Verordnung regelt über die Bestimmungen des
 Kapitalanlagegesetzbuches hinausgehende Einzelheiten
@@ -78,6 +81,7 @@ Kapitalanlagegesetzbuches hinausgehende Einzelheiten
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -112,6 +116,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Inhalt und Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000500000)
 
 (1) Die Berichterstattung durch die Kapitalverwaltungsgesellschaft,
 die Verwahrstelle oder den Liquidator muss vollständig, richtig und
@@ -140,6 +145,7 @@ enthaltenen Bestimmungen.
 
 
 ### § 4 Einreichung bei der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000601123)
 
 (1) Die Berichte nach § 1 Nummer 1 sind von der Geschäftsleitung
 eigenhändig zu unterschreiben. Die Unterschriften sind am Ende des
@@ -157,6 +163,7 @@ Kommunikationsverfahren zu übermitteln.
 
 
 ### § 5 Investmentrechtliche Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000700000)
 
 (1) Auf die investmentrechtliche Rechnungslegung sind die formellen
 Grundsätze ordnungsmäßiger Buchführung anzuwenden, soweit sich aus dem
@@ -172,12 +179,15 @@ sowie eine Nachprüfbarkeit durch sachverständige Dritte ermöglichen.
 
 
 ## Abschnitt 2 - Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000200000)
 
 
 ### Unterabschnitt 1 - Jahresberichte von Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000300000)
 
 
 #### § 6 Verantwortung und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000800000)
 
 (1) Die Aufstellung des Jahresberichts gemäß § 101 des
 Kapitalanlagegesetzbuches (Jahresbericht) einschließlich der der
@@ -202,6 +212,7 @@ liegt in der Verantwortung der Verwahrstelle.
 
 
 #### § 7 Bestandteile des Jahresberichts
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE000900000)
 
 Bestandteile des Jahresberichts sind:
 
@@ -285,6 +296,7 @@ dieser Informationen auf andere Weise vorsehen.
 
 
 #### § 8 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001000000)
 
 (1) Der Tätigkeitsbericht ist ein eigenständiger Teil des
 Jahresberichts. Der Tätigkeitsbericht muss aus sich heraus für den
@@ -331,6 +343,7 @@ Nr. 231/2013.
 
 
 #### § 9 Vermögensübersicht
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001100000)
 
 (1) Der Vermögensaufstellung nach § 10 ist eine Vermögensübersicht
 voranzustellen, die eine zusammengefasste Gliederung der
@@ -519,6 +532,7 @@ C.  Fondsvermögen.
 
 
 #### § 10 Vermögensaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001200000)
 
 (1) Die Vermögensaufstellung im Sinne des § 101 Absatz 1 Satz 3 Nummer
 1 des Kapitalanlagegesetzbuches ist nach Arten von
@@ -575,6 +589,7 @@ erteilen.
 
 
 #### § 11 Ertrags- und Aufwandsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001300000)
 
 (1) Die Ertrags- und Aufwandsrechnung ist wie folgt darzustellen;
 Leerposten können jeweils entfallen:
@@ -780,6 +795,7 @@ nach dem Grundsatz der Einzelzuordnung.
 
 
 #### § 12 Verwendungsrechnung für das Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001400000)
 
 (1) Die Berechnung der Verwendung der Erträge des Sondervermögens ist
 insgesamt und je Anteil wie folgt darzustellen; Leerposten können
@@ -880,6 +896,7 @@ wird, ist dies in der Verwendungsrechnung ergänzend zu erläutern.
 
 
 #### § 13 Entwicklungsrechnung für das Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001500000)
 
 (1) Die Übersicht über die Entwicklung des Sondervermögens ist unter
 Berücksichtigung folgender Posten darzustellen; Leerposten können
@@ -931,6 +948,7 @@ zuzuordnen und mindern diesen.
 
 
 #### § 14 Vergleichende Übersicht über die letzten drei Geschäftsjahre
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001600000)
 
 Über den Inhalt nach § 101 Absatz 1 Satz 3 Nummer 6 des
 Kapitalanlagegesetzbuches hinaus ist bei Sondervermögen mit einer
@@ -941,6 +959,7 @@ Anteilklasse mit der höchsten Gesamtkostenquote darzustellen.
 
 
 #### § 15 Anteilklassen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001700000)
 
 (1) Bei mehreren Anteilklassen ist zu erläutern, unter welchen
 Voraussetzungen Anteile mit unterschiedlichen Ausgestaltungsmerkmalen
@@ -974,6 +993,7 @@ jede einzelne Anteilklasse zu berechnen.
 
 
 #### § 16 Sonstige Angaben
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001800000)
 
 (1) Folgende zusätzliche Angaben sind erforderlich:
 
@@ -1038,9 +1058,11 @@ enthalten sein.
 
 
 ### Unterabschnitt 2 - Sonstige Berichte von Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000400000)
 
 
 #### § 17 Halbjahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE001900000)
 
 Auf den Halbjahresbericht sind die Vorschriften über den Jahresbericht
 entsprechend anzuwenden. Der Halbjahresbericht kann ohne
@@ -1052,6 +1074,7 @@ wenn im jeweiligen Halbjahr eine Zwischenausschüttung erfolgt ist.
 
 
 #### § 18 Zwischenbericht
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002000000)
 
 Auf den Zwischenbericht sind die Vorschriften über den Jahresbericht
 entsprechend anzuwenden. Neben dem Zwischenbericht sind die
@@ -1064,6 +1087,7 @@ Kapitalverwaltungsgesellschaft zur Fortführung der Buchhaltung zu
 
 
 #### § 19 Auflösungs- und Abwicklungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002100000)
 
 (1) Auf den Auflösungsbericht und den Abwicklungsbericht sind die
 Vorschriften für den Jahresbericht entsprechend anzuwenden. Darüber
@@ -1076,9 +1100,11 @@ wurden.
 
 
 ### Unterabschnitt 3 - Investmentgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000500000)
 
 
 #### § 20 Anwendbarkeit auf Investmentgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002200000)
 
 (1) Die für Sondervermögen geltenden Vorschriften dieses Abschnitts
 sind entsprechend für den Jahresabschluss und den Lagebericht sowie
@@ -1104,6 +1130,7 @@ des Anhangs zusammenhängend darzustellen.
 
 
 #### § 21 Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002300000)
 
 (1) In der Bilanz der Investmentaktiengesellschaft (§ 120 Absatz 2
 Satz 1 und § 148 Absatz 1 des Kapitalanlagegesetzbuches) und der
@@ -1313,6 +1340,7 @@ Entwicklungsrechnung gesondert anzugeben.
 
 
 #### § 22 Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002400000)
 
 (1) In der Gewinn- und Verlustrechnung der intern verwalteten
 Investmentaktiengesellschaft und der intern verwalteten
@@ -1435,6 +1463,7 @@ II. Investmenttätigkeit
 
 
 #### § 23 Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002500000)
 
 (1) Die Investmentaktiengesellschaft und die
 Investmentkommanditgesellschaft haben unabhängig von ihrer
@@ -1509,6 +1538,7 @@ entsprechend anzuwenden.
 
 
 #### § 24 Verwendungsrechnung und Entwicklungsrechnung bei der Investmentkommanditgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002600000)
 
 (1) Bei einer Investmentkommanditgesellschaft ist die
 Verwendungsrechnung wie folgt darzustellen; Leerposten können jeweils
@@ -1570,6 +1600,7 @@ Leerposten können jeweils entfallen:
 
 
 #### § 25 Anhang
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002700000)
 
 (1) Investmentaktiengesellschaften mit veränderlichem Kapital, die
 über Teilgesellschaftsvermögen verfügen, und offene
@@ -1934,9 +1965,11 @@ werden, nachrichtlich aufzuführen und besonders zu kennzeichnen.
 
 
 ## Abschnitt 3 - Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000600000)
 
 
 ### § 26 Allgemeine Bewertungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002800000)
 
 (1) Bewertet die Verwahrstelle einen OGAW unter Mitwirkung der
 Kapitalverwaltungsgesellschaft, hat die Kapitalverwaltungsgesellschaft
@@ -1965,6 +1998,7 @@ internen Revision zu überprüfen.
 
 
 ### § 27 Bewertung auf der Grundlage von handelbaren Kursen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE002900000)
 
 (1) Für die Bewertung von Vermögensgegenständen, die zum Handel an
 einer Börse oder an einem anderen organisierten Markt zugelassen oder
@@ -1990,6 +2024,7 @@ Mittelkurs oder zum Geldkurs zu bewerten.
 
 
 ### § 28 Bewertung auf der Grundlage geeigneter Bewertungsmodelle
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003000000)
 
 (1) Für Vermögensgegenstände, die weder zum Handel an einer Börse noch
 an einem anderen organisierten Markt zugelassen oder in den
@@ -2022,6 +2057,7 @@ erfolgen.
 
 
 ### § 29 Besonderheiten bei Investmentanteilen, Bankguthaben und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003100000)
 
 (1) Anteile an Investmentvermögen sind mit ihrem letzten
 festgestellten Rücknahmepreis oder mit einem aktuellen Kurs nach § 27
@@ -2039,6 +2075,7 @@ zum Nennwert zuzüglich Zinsen erfolgt.
 
 
 ### § 30 Besonderheiten bei Anlagen in Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003200000)
 
 (1) Zur Ermittlung des Verkehrswertes einer Immobilie ist in der Regel
 der Ertragswert der Immobilie anhand eines Verfahrens zu ermitteln,
@@ -2112,6 +2149,7 @@ Besonderheiten:
 
 
 ### § 31 Bewertung von Beteiligungen an Immobilien-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003300000)
 
 (1) Die Bewertung einer Beteiligung vor ihrem Erwerb gemäß § 236
 Absatz 1 des Kapitalanlagegesetzbuches dient dazu, die Angemessenheit
@@ -2256,6 +2294,7 @@ gehaltenen Beteiligungen an Immobilien-Gesellschaften anzusetzen.
 
 
 ### § 32 Besonderheiten bei Vermögensgegenständen mit dem Charakter einer unternehmerischen Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003400000)
 
 (1) Für die Zwecke des § 261 Absatz 6 Satz 1 und des § 271 des
 Kapitalanlagegesetzbuches sind Verkehrswerte für
@@ -2293,6 +2332,7 @@ dokumentieren.
 
 
 ### § 33 Besonderheiten bei Anlagen in sonstigen Sachwerten
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003500000)
 
 (1) Sonstige Sachwerte, für die gemäß dieser Verordnung keine
 Sonderregelung gilt, sind mit dem Verkehrswert anzusetzen, der unter
@@ -2441,6 +2481,7 @@ unter Verwendung eines Substanzwertverfahrens zu ermitteln.
 
 
 ### § 34 Besonderheiten bei Anlagen von Spezial-AIF
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003600000)
 
 (1) § 32 gilt entsprechend für offene inländische Spezial-AIF mit
 festen Anlagebedingungen, die in Vermögensgegenständen gemäß § 284
@@ -2461,9 +2502,11 @@ Immobilien-Bewertung zu bewerten sind.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNG000700000)
 
 
 ### § 35 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003700000)
 
 (1) Die Vorschriften der Abschnitte 1 und 2 sind auf
 Investmentvermögen erstmals zu dem Abschlussstichtag anzuwenden, der
@@ -2499,6 +2542,7 @@ Investmentgesetzes anwendbar sind.
 
 
 ### § 36 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/karbv/BJNR248300013.html#BJNR248300013BJNE003800000)
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt
 die Investment-Rechnungslegungs- und Bewertungsverordnung vom 16.

@@ -19,6 +19,7 @@ Stand: Ersetzt V 900-10-4-55 v. 18.5.2018 I 618, 2020 I 135 (PBNUBestV)
 Stand: Die V ist gem. Bek. v. 27.5.2020 I 1208 am 15.5.2020 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbnubestv_2020/BJNR052300020.html#BJNR052300020BJNE000100000)
 
 Auf Grund des § 38 Absatz 2 des Postpersonalrechtsgesetzes, der durch
 Artikel 1 Nummer 21 des Gesetzes vom 28. Mai 2015 (BGBl. I S. 813)
@@ -28,11 +29,13 @@ und der Deutschen Bank AG:
 
 
 ## § 1 Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pbnubestv_2020/BJNR052300020.html#BJNR052300020BJNE000200000)
 
 Die Deutsche Bank AG wird als Postnachfolgeunternehmen bestimmt.
 
 
 ## § 2 Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/pbnubestv_2020/BJNR052300020.html#BJNR052300020BJNE000300000)
 
 (1) Die Beamtinnen und Beamten, die am Tag vor der Eintragung der
 Verschmelzung der DB Privat- und Firmenkundenbank AG auf die Deutsche
@@ -52,6 +55,7 @@ genannten Maßnahmen bleiben im Übrigen unberührt.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbnubestv_2020/BJNR052300020.html#BJNR052300020BJNE000400000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die
 Verschmelzung der DB Privat- und Firmenkundenbank AG auf die Deutsche

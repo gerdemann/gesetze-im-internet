@@ -20,10 +20,12 @@ Geändert durch
 
 
 ## Erster Abschnitt - Aufbau und Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNG000100000)
 
 
 
 ### § 1 Aufbau der Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000200000)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 gliedert sich in Abteilungen, Gruppen und Referate. Die sich hiernach
@@ -32,6 +34,7 @@ Landwirtschaft und Forsten (Bundesministerium) durch Erlaß festgelegt.
 
 
 ### § 2 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000300000)
 
 (1) Der Präsident führt die Geschäfte und verwaltet das Vermögen der
 Bundesanstalt in eigener Verantwortung nach Maßgabe des Gesetzes über
@@ -50,6 +53,7 @@ Bundesministeriums bedarf.
 
 
 ### § 3 Vertretung, Aufgabenübertragung, Zeichnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000400000)
 
 (1) Die Abteilungsleiter unterstützen den Präsidenten bei der Führung
 der Geschäfte und der Verwaltung des Vermögens der Anstalt. Sie führen
@@ -69,10 +73,12 @@ durch die Geschäftsordnung geregelt.
 
 
 ## Zweiter Abschnitt - Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNG000500000)
 
 
 
 ### § 4 Berufung der Mitglieder des Verwaltungsrates und ihrer Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000600000)
 
 (1) Die Vertreter der in § 5 Abs. 1 des Gesetzes genannten
 Wirtschaftsgruppen werden durch folgende Bundesverbände namentlich
@@ -128,6 +134,7 @@ entsprechend.
 
 
 ### § 5 Auskunftsrecht und -pflicht des Verwaltungsrates
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000700000)
 
 (1) Zur Erfüllung der dem Verwaltungsrat nach § 6 des Gesetzes
 obliegenden Aufgaben ist der Verwaltungsrat berechtigt, vom
@@ -141,12 +148,14 @@ sämtliche notwendigen Unterlagen und Aufzeichnungen vorlegt.
 
 
 ### § 6 Vertretung des Verwaltungsrates
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000800000)
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen
 Verhinderung durch seinen Stellvertreter vertreten.
 
 
 ### § 7 Sitzungen des Verwaltungsrates
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE000901308)
 
 (1) Der Verwaltungsrat tritt nach Bedarf zusammen, mindestens einmal
 jährlich. Die Sitzungen sind nicht öffentlich.
@@ -184,16 +193,19 @@ Sitzungsvergütung wird nicht gewährt.
 
 
 ### § 8 Schriftliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001000000)
 
 Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren
 ist zulässig. Das Nähere regelt die Geschäftsordnung.
 
 
 ## Dritter Abschnitt - Fachbeiräte
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNG001100000)
 
 
 
 ### § 9 Einsetzung und Zusammensetzung von Fachbeiräten
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001200000)
 
 (1) Der Verwaltungsrat beschließt über die Einsetzung und
 warenbezogene Aufteilung von Fachbeiräten.
@@ -213,6 +225,7 @@ Mitglieder den Vorsitzenden und dessen Stellvertreter.
 
 
 ### § 10 Aufgaben der Fachbeiräte
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001300000)
 
 (1) Die Fachbeiräte beraten den Präsidenten und den Verwaltungsrat in
 Fragen des jeweiligen Warenbereiches unmittelbar.
@@ -232,6 +245,7 @@ Präsidenten gegenüber unmittelbar abgegeben haben, zu unterrichten.
 
 
 ### § 11 Sitzungen der Fachbeiräte
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001400000)
 
 (1) Die Fachbeiräte treten nach Bedarf zusammen. Ihre Sitzungen sind
 nicht öffentlich.
@@ -255,10 +269,12 @@ Sitzungsvergütung gewährt.
 
 
 ## Vierter Abschnitt - Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNG001500000)
 
 
 
 ### § 12 Verwaltungshaushalt, Haushaltsführung
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001600000)
 
 (1) Das Haushaltsjahr der Anstalt ist das Kalenderjahr.
 
@@ -280,6 +296,7 @@ Entlastung vorzulegen ist.
 
 
 ### § 13 Wirtschaftsplan, Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001700000)
 
 (1) Das Geschäftsjahr der Anstalt ist das Kalenderjahr.
 
@@ -313,6 +330,7 @@ b)  zum 1. Juli die Bilanz, die Gewinn- und Verlustrechnung sowie der
 
 
 ### § 14 Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE001800000)
 
 Das Verfahren der Inanspruchnahme von Krediten durch die Anstalt (§ 10
 Abs. 4 und 5 des Gesetzes) wird durch Erlaß des Bundesministeriums im
@@ -320,10 +338,12 @@ Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 
 
 ## Fünfter Abschnitt - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNG001900000)
 
 
 
 ### § 15 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bles/BJNR278100994.html#BJNR278100994BJNE002000000)
 
 Für die Dauer der Übergangszeit nach § 15 Abs. 1 des Gesetzes nehmen
 der Präsident, der Vizepräsident sowie die ständigen Vertreter die

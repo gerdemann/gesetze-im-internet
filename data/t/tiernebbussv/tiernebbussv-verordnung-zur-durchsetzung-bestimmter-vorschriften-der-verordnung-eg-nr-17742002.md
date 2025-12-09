@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/tiernebbussv/BJNR371210005.html#BJNR371210005BJNE000102377)
 
 Ordnungswidrig im Sinne des § 14 Abs. 1 Nr. 9 des Tierische
 Nebenprodukte-Beseitigungsgesetzes handelt, wer gegen die Verordnung
@@ -160,6 +161,7 @@ oder fahrlässig
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/tiernebbussv/BJNR371210005.html#BJNR371210005BJNE000201377)
 
 Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 6 des Tierische
 Nebenprodukte-Beseitigungsgesetzes handelt, wer gegen die Verordnung

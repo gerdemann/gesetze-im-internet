@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000100314)
 
 Auf Grund des § 5 des Gesetzes über den Beruf des Logopäden vom 7. Mai
 1980 (BGBl. I S. 529) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000201130)
 
 (1) Die dreijährige Ausbildung für Logopäden umfaßt mindestens den in
 Anlage 1 aufgeführten theoretischen und praktischen Unterricht und die
@@ -44,6 +46,7 @@ eine Bescheinigung nach dem Muster der Anlage 3 nachzuweisen.
 
 
 ## § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000300314)
 
 (1) Die staatliche Prüfung umfaßt einen schriftlichen, einen
 mündlichen und einen praktischen Teil.
@@ -59,6 +62,7 @@ Prüfungsausschuß.
 
 
 ## § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000401116)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus
 folgenden Mitgliedern besteht:
@@ -105,6 +109,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ## § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000503310)
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
 Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit
@@ -158,6 +163,7 @@ berücksichtigen.
 
 
 ## § 5 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000601130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächer:
@@ -203,6 +209,7 @@ Prüfung ist bestanden, wenn jede Aufsichtsarbeit mindestens mit
 
 
 ## § 6 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000702130)
 
 (1) Der mündliche Teile der Prüfung erstreckt sich auf folgende
 Fächer:
@@ -248,6 +255,7 @@ zum mündlichen Teil der Prüfung zulassen.
 
 
 ## § 7 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000802130)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die angewandte
 Logopädie. Er umfaßt die folgenden Aufgaben:
@@ -294,6 +302,7 @@ zum praktischen Teil der Prüfung zulassen.
 
 
 ## § 8 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE000900314)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnis der Prüfung und etwa vorkommende
@@ -301,6 +310,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ## § 9 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001001130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -370,6 +380,7 @@ benotet:
 
 
 ## § 10 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001101130)
 
 (1) Die Prüfung ist bestanden, wenn der schriftliche, der mündliche
 und der praktische Teil der Prüfung mit mindestens "ausreichend"
@@ -396,6 +407,7 @@ Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
 
 ## § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001200314)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
 so hat er die Gründe für seinen Rücktritt unverzüglich dem
@@ -412,6 +424,7 @@ unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden.
 
 
 ## § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001300314)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -431,6 +444,7 @@ betreffende Teil der Prüfung als nicht bestanden.
 
 
 ## § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001400314)
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
 ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört
@@ -441,6 +455,7 @@ Prüfung nicht mehr zulässig.
 
 
 ## § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001500314)
 
 Auf Antrag ist dem Prüfungsteilnehmer Einsicht in seine
 Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind
@@ -449,6 +464,7 @@ zehn Jahre aufzubewahren.
 
 
 ## § 15 Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001600314)
 
 Liegen die Voraussetzungen des Gesetzes für die Erteilung der
 Erlaubnis zur Führung der Berufsbezeichnung "Logopäde" vor, so stellt
@@ -457,6 +473,7 @@ die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage
 
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001705116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Logopädengesetzes
 beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs.
@@ -534,6 +551,7 @@ Gleichstellung ergibt.
 
 
 ## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002901130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Gesetzes
 über den Beruf des Logopäden beantragen, haben einen
@@ -604,6 +622,7 @@ abgelegt werden kann.
 
 
 ## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002503130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Gesetzes
 über den Beruf des Logopäden beantragen, haben einen
@@ -700,6 +719,7 @@ dem Muster der Anlage 7 erteilt.
 
 
 ## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002602116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Logopädin oder Logopäde nach § 1 Absatz 1 des Gesetzes
@@ -754,16 +774,19 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001800314)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE001900314)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002000314)
 
 Fundstelle des Originaltextes: BGBl. I 1980, 1895 - 1897
 
@@ -1682,6 +1705,7 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1895 - 1897
 
 
 ## Anlage 2 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002100314)
 
 Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
@@ -1778,18 +1802,21 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
 
 ## Anlage 3 (zu § 1 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002200314)
 
 (Fundstelle: BGBl. I 1980, 1898)
 
 
 
 ## Anlage 4 (zu § 10 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002300314)
 
 (Fundstelle: BGBl. I 1980, 1899)
 
 
 
 ## Anlage 5 (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002400314)
 
 (Fundstelle des Originaltextes: BGBl. I 1980, 1900)
 
@@ -1831,6 +1858,7 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
 
 ## Anlage 5a (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE003000116)
 
 (Fundstelle: BGBl. I 2016, 911)
 
@@ -1869,6 +1897,7 @@ Unterschrift(en) der Einrichtung
 
 
 ## Anlage 5b (zu § 16a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE003100116)
 
 (Fundstelle: BGBl. I 2016, 911)
 
@@ -1927,6 +1956,7 @@ Ort, Datum
 
 
 ## Anlage 6 (zu § 16b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002701116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2023,6 +2053,7 @@ Ort, Datum
 [^F781546_01_BJNR018920980BJNE002701116]: 
 
 ## Anlage 7 (zu § 16b Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/logapro/BJNR018920980.html#BJNR018920980BJNE002801116)
 
 
 *    *   Die/der Vorsitzende

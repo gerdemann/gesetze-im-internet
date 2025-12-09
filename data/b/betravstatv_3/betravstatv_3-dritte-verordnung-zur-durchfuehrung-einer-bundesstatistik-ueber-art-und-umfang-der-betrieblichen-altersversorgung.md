@@ -19,18 +19,21 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000100308)
 
 Auf Grund des § 5 Abs. 2 des Bundesstatistikgesetzes vom 22. Januar
 1987 (BGBl. I S. 462, 565) verordnet die Bundesregierung:
 
 
 ## § 1 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000200308)
 
 Über Art und Umfang der betrieblichen Altersversorgung werden in den
 Jahren 1990 und 1991 zwei Erhebungen als Bundesstatistik durchgeführt.
 
 
 ## § 2 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000300308)
 
 (1) Die Erhebung im Jahr 1990 erstreckt sich auf eine repräsentative
 Auswahl von höchstens 60.000 Unternehmen mit drei oder mehr tätigen
@@ -66,6 +69,7 @@ bestehenden betrieblichen Altersversorgung einbezogen.
 
 
 ## § 3 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000400308)
 
 (1) Erhebungsmerkmale für die Erhebung nach § 2 Abs. 1 sind:
 
@@ -212,6 +216,7 @@ bestehenden betrieblichen Altersversorgung einbezogen.
 
 
 ## § 4 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000500308)
 
 Hilfsmerkmale sind
 
@@ -226,6 +231,7 @@ Hilfsmerkmale sind
 
 
 ## § 5 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000600308)
 
 (1) Für die Statistik über Art und Umfang der betrieblichen
 Altersversorgung besteht Auskunftspflicht. Auskunftspflichtig ist der
@@ -239,6 +245,7 @@ erteilen.
 
 
 ## § 6 Berichtszeitraum/Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000700308)
 
 (1) Die Erhebungen werden, soweit nichts Abweichendes geregelt ist,
 nach dem Stand vom 31. Dezember 1990 durchgeführt.
@@ -250,6 +257,7 @@ Geschäftsjahr als Berichtszeitraum.
 
 
 ## § 7 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000800308)
 
 Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für
 Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen,
@@ -262,17 +270,20 @@ aufweisen.
 
 
 ## § 8 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE000900308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 27 des Bundesstatistikgesetzes auch im Land Berlin.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE001000308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/betravstatv_3/BJNR516800990.html#BJNR516800990BJNE001100308)
 
 Der Bundesrat hat zugestimmt.
 

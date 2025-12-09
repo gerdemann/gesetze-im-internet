@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000100000)
 
 Auf Grund des § 11 Absatz 5 des Bundes-Klimaschutzgesetzes vom 12.
 Dezember 2019 (BGBl. I S. 2513) verordnet die Bundesregierung:
 
 
 ## § 1 Sitz des Expertenrats für Klimafragen
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000200000)
 
 Der Expertenrat für Klimafragen hat seinen Sitz in Berlin.
 
 
 ## § 2 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000300000)
 
 (1) Zur Unterstützung der Arbeiten des Expertenrats für Klimafragen
 wird eine Geschäftsstelle beim Umweltbundesamt eingesetzt. Sitz der
@@ -72,6 +75,7 @@ dem Deutschen Bundestag ab.
 
 
 ## § 3 Unvereinbarkeit von Ämtern und Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000400000)
 
 (1) Die Mitglieder des Expertenrats für Klimafragen dürfen weder der
 Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines
@@ -102,6 +106,7 @@ Beratungsunterlagen des Expertenrats für Klimafragen erhalten.
 
 
 ## § 4 Ausscheiden eines Mitglieds des Expertenrats für Klimafragen
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000500000)
 
 (1) Die Mitglieder des Expertenrats für Klimafragen sind berechtigt,
 ihr Amt durch schriftliche Erklärung gegenüber der Bundesregierung
@@ -116,6 +121,7 @@ durch die Bundesregierung benannt.
 
 
 ## § 5 Beschlussfassung des Expertenrats für Klimafragen
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000600000)
 
 (1) Der Expertenrat für Klimafragen strebt einvernehmliche Beschlüsse
 an. Ist dies nicht erreichbar, bedürfen Beschlüsse der Zustimmung von
@@ -141,6 +147,7 @@ Bundes-Klimaschutzgesetzes fest.
 
 
 ## § 6 Anhörung und Befragung von Behörden oder Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000700000)
 
 Der Expertenrat für Klimafragen hat die Möglichkeit nach § 12 Absatz 4
 Satz 3 des Bundes-Klimaschutzgesetzes zu klimaschutzbezogenen Themen
@@ -152,6 +159,7 @@ Absatz 2 Satz 2 des Bundes-Klimaschutzgesetzes fest.
 
 
 ## § 7 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000800000)
 
 (1) Enthalten Daten, die nach § 12 Absatz 4 des Bundes-
 Klimaschutzgesetzes zur Wahrnehmung der Aufgaben des Expertenrats für
@@ -171,6 +179,7 @@ vertrauliche Informationen im Sinne des § 3 Absatz 3 Satz 2 dar.
 
 
 ## § 8 Aufwandsentschädigung und Reisekostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE000900000)
 
 (1) Die Mitglieder des Expertenrats für Klimafragen sind ehrenamtlich
 tätig.
@@ -193,6 +202,7 @@ teilnehmen.
 
 
 ## § 9 Schiedsrichterliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE001000000)
 
 In der Geschäftsordnung nach § 11 Absatz 2 Satz 2 des Bundes-
 Klimaschutzgesetzes kann mit Zustimmung aller Mitglieder des
@@ -207,6 +217,7 @@ endgültig entschieden werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/expertenratv/BJNR238600020.html#BJNR238600020BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

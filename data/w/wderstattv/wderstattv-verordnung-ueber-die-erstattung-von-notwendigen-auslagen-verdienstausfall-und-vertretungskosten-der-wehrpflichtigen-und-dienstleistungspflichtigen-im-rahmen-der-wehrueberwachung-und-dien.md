@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wderstattv/BJNR162100005.html#BJNR162100005BJNE000100000)
 
 Auf Grund des § 19 Abs. 5 Satz 6 und des § 50 Abs. 1 Nr. 4 des
 Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
@@ -29,6 +30,7 @@ Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 
 
 ## § 1 Fahrtkosten, Wegstreckenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wderstattv/BJNR162100005.html#BJNR162100005BJNE000200000)
 
 (1) Wehrpflichtigen oder Dienstleistungspflichtigen werden auf Antrag
 die notwendigen Fahrtkosten erstattet. Notwendig sind die Fahrtkosten,
@@ -51,12 +53,14 @@ erstattet würde. Parkgebühren werden nicht erstattet.
 
 
 ## § 2 Tagegeld, Übernachtungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/wderstattv/BJNR162100005.html#BJNR162100005BJNE000300000)
 
 Tage- und Übernachtungsgeld wird nach dem Bundesreisekostengesetz
 gewährt.
 
 
 ## § 3 Sonstige notwendige Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/wderstattv/BJNR162100005.html#BJNR162100005BJNE000400000)
 
 (1) Den Wehrpflichtigen oder Dienstleistungspflichtigen werden auf
 Antrag auch die notwendigen Transportkosten für das Übernehmen,
@@ -69,6 +73,7 @@ Dienstleistungspflichtigen aufgegeben wird.
 
 
 ## § 4 Verdienstausfall, Vertretungskosten
+[Direktlink](https://www.gesetze-im-internet.de/wderstattv/BJNR162100005.html#BJNR162100005BJNE000500000)
 
 (1) Soweit Arbeitnehmerinnen oder Arbeitnehmer keinen Anspruch auf
 Weiterzahlung des Arbeitsentgelts nach § 14 Abs. 1 oder Abs. 3 des
@@ -92,6 +97,7 @@ gelagerten Fällen übliche Vergütung.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wderstattv/BJNR162100005.html#BJNR162100005BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

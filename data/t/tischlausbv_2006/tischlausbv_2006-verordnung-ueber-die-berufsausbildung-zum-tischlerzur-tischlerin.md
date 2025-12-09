@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung
 in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S.
@@ -31,6 +32,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000200000)
 
 Der Ausbildungsberuf Tischler/Tischlerin wird nach § 25 der
 Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27,
@@ -38,11 +40,13 @@ Tischler der Anlage A der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so
@@ -56,6 +60,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -117,6 +122,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000600000)
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen
@@ -128,6 +134,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -135,6 +142,7 @@ zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000800000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -144,6 +152,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -174,6 +183,7 @@ seine Vorgehensweise begründen kann.
 
 
 ## § 9 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE001000000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -368,6 +378,7 @@ erbracht worden sein.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -376,12 +387,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Tischler/zur Tischlerin
+[Direktlink](https://www.gesetze-im-internet.de/tischlausbv_2006/BJNR024500006.html#BJNR024500006BJNE001300000)
 
 (Fundstelle: BGBl. I 2006, 248 - 254)
 

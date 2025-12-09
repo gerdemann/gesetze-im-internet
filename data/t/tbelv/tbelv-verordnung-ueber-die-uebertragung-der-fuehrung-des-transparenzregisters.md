@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Die V tritt gem. § 5 Satz 2 dieser V am 31.12.2024 außer Kraft; die Geltung dieser V ist gem. § 5 Satz 2 idF d. Art. 1 Nr. 2 V v. 15.12.2023 I Nr. 377 über den 31.12.2024 hinaus bis zum 31.12.2031 verlängert worden
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tbelv/BJNR193800017.html#BJNR193800017BJNE000101128)
 
 Auf Grund des § 25 Absatz 1 in Verbindung mit Absatz 3 in Verbindung
 mit Absatz 5 Satz 3 des Geldwäschegesetzes vom 23. Juni 2017 (BGBl. I
@@ -28,6 +29,7 @@ S. 1822) verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/tbelv/BJNR193800017.html#BJNR193800017BJNE000201128)
 
 Mit den Aufgaben der registerführenden Stelle, insbesondere mit der
 Führung des Transparenzregisters, und mit den hierfür erforderlichen
@@ -38,6 +40,7 @@ Amtsgericht Köln, HRB 31248. Die Beleihung ist bis zum 31. Dezember
 
 
 ## § 2 Finanzierung des Beliehenen und Übertragung der Vollstreckung an den Beliehenen
+[Direktlink](https://www.gesetze-im-internet.de/tbelv/BJNR193800017.html#BJNR193800017BJNE000302128)
 
 (1) Der Beliehene trägt den ihm durch die Wahrnehmung der in § 1
 genannten Aufgaben, insbesondere durch das Erstellen und Betreiben des
@@ -55,6 +58,7 @@ vorzulegen.
 
 
 ## § 3 Vorzeitige Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/tbelv/BJNR193800017.html#BJNR193800017BJNE000401128)
 
 (1) Das Bundesministerium der Finanzen kann die Beleihung vorzeitig
 beendigen, wenn
@@ -123,6 +127,7 @@ mit dem Inkrafttreten der Verordnung wirksam.
 
 
 ## § 4 Abwicklung bei Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/tbelv/BJNR193800017.html#BJNR193800017BJNE000501128)
 
 (1) An dem Tag, an dem die Beleihung endet, hat der Beliehene dem
 Bundesministerium der Finanzen oder einer von diesem bestimmten Stelle
@@ -146,6 +151,7 @@ gesellschaftsrechtlich verbundenen Unternehmen zustehen.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tbelv/BJNR193800017.html#BJNR193800017BJNE000601128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 am 31. Dezember 2031 außer Kraft.

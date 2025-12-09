@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000100320)
 
 
 
 ### § 1 Versicherte kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE007807126)
 
 (1) Versicherungspflichtig sind
 
@@ -133,6 +135,7 @@ verbunden sind.
 
 
 ### § 1a Geltung für Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023300308)
 
 Die für Ehegatten und ehemalige Ehegatten sowie Witwen und Witwer
 geltenden Vorschriften dieses Gesetzes gelten entsprechend für
@@ -141,6 +144,7 @@ wurde, und hinterbliebene Lebenspartner.
 
 
 ### § 2 Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE007908126)
 
 Versicherungsfrei sind
 
@@ -172,6 +176,7 @@ Versicherungsfrei sind
 
 
 ### § 3 Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008024126)
 
 (1) Landwirte und mitarbeitende Familienangehörige werden auf Antrag
 von der Versicherungspflicht befreit, solange sie
@@ -278,6 +283,7 @@ Sozialgesetzbuch unberücksichtigt.
 
 
 ### § 4 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008102301)
 
 (1) Ehegatten von ehemaligen Landwirten können sich freiwillig
 versichern, wenn
@@ -318,6 +324,7 @@ des Kalendermonats, zu dessen Beginn
 
 
 ### § 5 Freiwillige Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008201301)
 
 (1) Personen, die zuletzt als Landwirt versichert waren und die nicht
 mehr versicherungspflichtig sind, können die Versicherung freiwillig
@@ -350,22 +357,27 @@ Absatzes 1 Nr. 2 bis 4 nicht mehr erfüllt sind.
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008305126)
 
 
 
 ## Zweites Kapitel - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000200320)
 
 
 
 ### Erster Abschnitt - Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000301308)
 
 
 
 #### Erster Unterabschnitt - Voraussetzungen für die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000400320)
 
 
 
 ##### § 7 Aufgabe der Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008404119)
 
 (1) Die Alterssicherung der Landwirte erbringt Leistungen zur
 Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen
@@ -396,6 +408,7 @@ versicherungsrechtlichen Voraussetzungen erfüllt sind.
 
 
 ##### § 8 Persönliche und versicherungsrechtliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008503119)
 
 (1) Die persönlichen Voraussetzungen für Leistungen zur Teilhabe haben
 Versicherte erfüllt, bei denen die Voraussetzungen des § 10 des
@@ -407,16 +420,19 @@ entsprechend; § 17 Abs. 1 Satz 2 ist hierbei nicht anzuwenden.
 
 
 ##### § 9 Ausschluß von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008601119)
 
 Für den Ausschluß von Leistungen zur Teilhabe nach diesem Abschnitt
 gilt § 12 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 
 #### Zweiter Unterabschnitt - Umfang und Ort der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000500320)
 
 
 
 ##### § 10 Umfang und Ort der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008718126)
 
 (1) Für Umfang und Ort der Leistungen zur Teilhabe gelten die §§ 13,
 14 Absatz 1 und 3, § 15 Absatz 1 und 2, § 15a Absatz 1 bis 4, § 17
@@ -510,22 +526,27 @@ entstehenden Kosten steht.
 
 
 ### Zweiter Abschnitt - Laufende Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000600320)
 
 
 
 #### Erster Unterabschnitt - Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000700320)
 
 
 
 ##### Erster Titel - Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000800320)
 
 
 
 ###### Erster Untertitel - Renten wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG000900320)
 
 
 
 ###### § 11 Regelaltersrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008802126)
 
 (1) Landwirte haben Anspruch auf Regelaltersrente, wenn
 
@@ -553,6 +574,7 @@ erreicht.
 
 
 ###### § 12 Vorzeitige Altersrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE008903126)
 
 (1) Landwirte können die Altersrente bis zu zehn Jahre vor Erreichen
 der Regelaltersgrenze vorzeitig in Anspruch nehmen, wenn die
@@ -567,10 +589,12 @@ entsprechend.
 
 
 ###### Zweiter Untertitel - Renten wegen Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001003308)
 
 
 
 ###### § 13 Renten wegen Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009011126)
 
 (1) Landwirte haben Anspruch auf Rente wegen teilweiser
 Erwerbsminderung, wenn
@@ -660,10 +684,12 @@ Satz 2 Pflichtbeiträgen gleich.
 
 
 ###### Dritter Untertitel - Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001100320)
 
 
 
 ###### § 14 Witwenrente und Witwerrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009106126)
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
 dem Tode des Versicherten Anspruch auf Witwenrente oder Witwerrente,
@@ -725,10 +751,12 @@ Familienangehörige.
 
 
 ###### § 14a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022801308)
 
 
 
 ###### § 15 Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009201126)
 
 Kinder haben nach dem Tode eines Elternteils entsprechend § 48 des
 Sechsten Buches Sozialgesetzbuch Anspruch auf Waisenrente. Die
@@ -737,6 +765,7 @@ von fünf Jahren erfüllt hat.
 
 
 ###### § 16 Renten wegen Todes bei Verschollenheit
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009301119)
 
 Sind Ehegatten, geschiedene Ehegatten oder Elternteile verschollen,
 gelten sie als verstorben, wenn die Umstände ihren Tod wahrscheinlich
@@ -751,10 +780,12 @@ eines abweichenden Todesdatums maßgeblich.
 
 
 ###### Vierter Untertitel - Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001200320)
 
 
 
 ###### § 17 Anrechenbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009409308)
 
 (1) Auf die Wartezeit von fünf, 15 und 35 Jahren werden Beitragszeiten
 angerechnet. Ferner werden angerechnet
@@ -804,16 +835,19 @@ entsprechend.
 
 
 ###### Fünfter Untertitel - Rentenrechtliche Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001300320)
 
 
 
 ###### § 18 Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009501308)
 
 Beitragszeiten sind Zeiten, für die Pflichtbeiträge oder freiwillige
 Beiträge zur landwirtschaftlichen Alterskasse gezahlt sind.
 
 
 ###### § 19 Zurechnungszeit
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009607126)
 
 (1) Zurechnungszeit ist die Zeit bis zur Vollendung des 67.
 Lebensjahres, die bei der Berechnung einer Rente wegen
@@ -844,6 +878,7 @@ berücksichtigen.
 
 
 ###### § 20 Schadensersatz bei rentenrechtlichen Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009700320)
 
 Durch die Berücksichtigung von rentenrechtlichen Zeiten wird ein
 Anspruch auf Schadensersatz wegen verminderter Erwerbsfähigkeit nicht
@@ -851,18 +886,22 @@ ausgeschlossen oder gemindert.
 
 
 ###### Sechster Untertitel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001401126)
 
 
 
 ###### (XXXX) §§ 21, 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE009815126)
 
 
 
 ##### Zweiter Titel - Berechnung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001500320)
 
 
 
 ###### § 23 Berechnung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010016126)
 
 (1) Der Monatsbetrag der Rente ergibt sich, wenn
 
@@ -1140,6 +1179,7 @@ genannten Voraussetzungen vorliegen.
 
 
 ###### § 24 Zuschläge oder Abschläge aufgrund eines Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010109126)
 
 (1) Die Übertragung von Anrechten auf Grund einer internen Teilung
 führt zu einem Zuschlag zur Steigerungszahl. Der Übertragung von
@@ -1173,10 +1213,12 @@ allgemeinen Rentenwert beziehungsweise den allgemeinen Rentenwert
 
 
 ##### Dritter Titel - Anpassung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001600320)
 
 
 
 ###### § 25 Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010200320)
 
 Zum 1. Juli eines jeden Jahres werden die Renten angepaßt, indem der
 bisherige allgemeine Rentenwert durch den neuen allgemeinen Rentenwert
@@ -1184,6 +1226,7 @@ ersetzt wird.
 
 
 ###### § 26 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010300320)
 
 Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
 Bundesrates den vom 1. Juli eines jeden Jahres an maßgebenden
@@ -1191,10 +1234,12 @@ allgemeinen Rentenwert zu bestimmen.
 
 
 ##### Vierter Titel - Zusammentreffen von Renten mit Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001700320)
 
 
 
 ###### § 27 Zusammentreffen von Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010404126)
 
 (1) Bestehen für denselben Zeitraum Ansprüche auf Altersrente und
 Rente wegen Erwerbsminderung oder mehrere Ansprüche auf Witwenrente,
@@ -1215,6 +1260,7 @@ Sozialgesetzbuch.
 
 
 ###### § 27a Rente wegen Erwerbsminderung und Hinzuverdienst
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021211126)
 
 (1) Eine Rente wegen Erwerbsminderung wird bis zum Erreichen der
 Regelaltersgrenze in Abhängigkeit vom monatlich erzielten
@@ -1282,10 +1328,12 @@ Sozialgesetzbuch).
 
 
 ###### § 27b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023903126)
 
 
 
 ###### § 28 Einkommensanrechnung auf Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010503119)
 
 Trifft eine Rente wegen Todes mit Einkommen (§§ 18a bis 18e des
 Vierten Buches Sozialgesetzbuch) des Berechtigten zusammen, gilt § 97
@@ -1296,6 +1344,7 @@ Rentenwerts der gesetzlichen Rentenversicherung tritt.
 
 
 ###### § 29 Reihenfolge bei der Anwendung von Berechnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010602308)
 
 Für die Berechnung einer Rente, deren Leistung sich aufgrund eines
 Aufenthalts von Berechtigten im Ausland oder aufgrund eines
@@ -1330,10 +1379,12 @@ berücksichtigt.
 
 
 ##### Fünfter Titel - Beginn, Änderung, Ruhen und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001800320)
 
 
 
 ###### § 30 Beginn, Änderung, Ruhen und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010707126)
 
 Die §§ 99, 100 Absatz 1, 3 und 4 sowie § 102 des Sechsten Buches
 Sozialgesetzbuch gelten für Beginn, Änderung und Ende von Renten
@@ -1343,24 +1394,29 @@ Rahmen des Versorgungsausgleichs stattgefunden hat.
 
 
 ##### Sechster Titel - Ausschluß und Minderung von Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG001900320)
 
 
 
 ###### § 31 Ausschluß und Minderung von Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010800320)
 
 Für den Ausschluß und die Minderung von Renten gelten die §§ 103 bis
 105 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 
 #### Zweiter Unterabschnitt - Beitragszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002001308)
 
 
 
 ##### Erster Titel - Zuschuß zum Beitrag
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007700308)
 
 
 
 ###### § 32 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE010912126)
 
 (1) Versicherungspflichtige Landwirte erhalten einen Zuschuss zu ihrem
 Beitrag und zum Beitrag für mitarbeitende Familienangehörige, wenn das
@@ -1429,6 +1485,7 @@ Vergangenheit berücksichtigt.
 
 
 ###### § 33 Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011004126)
 
 (1) Bei einem jährlichen Einkommen bis zu 30 Prozent der Bezugsgröße
 beträgt der Zuschuss zum Beitrag 60 Prozent des Beitrags. Bei einem
@@ -1449,6 +1506,7 @@ ist. Der Zuschuß zum Beitrag wird auf volle Euro gerundet.
 
 
 ###### § 34 Fälligkeit, Beginn und Änderung von Beitragszuschüssen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011105126)
 
 (1) Der Zuschuß zum Beitrag wird monatlich geleistet und zum selben
 Zeitpunkt wie der Beitrag fällig.
@@ -1485,14 +1543,17 @@ geändert hat und diese Änderung berücksichtigt werden soll.
 
 
 ###### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011206126)
 
 
 
 ##### Zweiter Titel - Zuschuss zum Beitrag zur Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007801308)
 
 
 
 ###### § 35a Zuschuß zum Beitrag zur Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020912126)
 
 (1) Rentenbezieher, die freiwillig in der gesetzlichen
 Krankenversicherung oder bei einem Krankenversicherungsunternehmen,
@@ -1517,10 +1578,12 @@ zu berücksichtigen.
 
 
 ### Dritter Abschnitt - Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002100320)
 
 
 
 #### § 36 Betriebs- und Haushaltshilfe bei Arbeitsunfähigkeit, Schwangerschaft und medizinischen Vorsorge- und Rehabilitationsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011314360)
 
 (1) Betriebshilfe kann bei Arbeitsunfähigkeit des Versicherten
 erbracht werden, wenn die Leistung zur Aufrechterhaltung des
@@ -1575,6 +1638,7 @@ Landwirt versicherungspflichtig ist.
 
 
 #### § 37 Betriebs- und Haushaltshilfe bei Tod des Landwirts
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011407308)
 
 (1) Betriebshilfe kann für den überlebenden Ehegatten eines Landwirts
 erbracht werden, wenn er das Unternehmen des Verstorbenen als
@@ -1610,6 +1674,7 @@ Alterskasse geregelt.
 
 
 #### § 38 Überbrückungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011502126)
 
 (1) Nach dem Tode versicherter Landwirte erhalten Witwen oder Witwer
 Überbrückungsgeld, wenn
@@ -1653,6 +1718,7 @@ Witwerrente bezogen wird.
 
 
 #### § 39 Betriebs- und Haushaltshilfe in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011601308)
 
 (1) Betriebshilfe kann für den versicherten Landwirt erbracht werden,
 wenn
@@ -1690,10 +1756,12 @@ Absatz 1 auch erbracht werden, wenn
 
 
 ### Vierter Abschnitt - Rentenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002200320)
 
 
 
 #### § 40 Rentenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011706124)
 
 (1) Versicherte, die das 55. Lebensjahr vollendet haben, erhalten von
 Amts wegen alle drei Jahre oder bei einem berechtigten Interesse in
@@ -1725,10 +1793,12 @@ Sie sind nicht rechtsverbindlich.
 
 
 ### Fünfter Abschnitt - Leistungen an Berechtigte im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002300320)
 
 
 
 #### § 41 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011800320)
 
 (1) Berechtigte, die sich nur vorübergehend im Ausland aufhalten,
 erhalten für diese Zeit Leistungen wie Berechtigte, die ihren
@@ -1743,6 +1813,7 @@ ist.
 
 
 #### § 42 Leistungen zur Teilhabe, Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE011910377)
 
 (1) Berechtigte erhalten die Leistungen zur Teilhabe nur, wenn für den
 Kalendermonat, in dem der Antrag gestellt ist, ein Beitrag gezahlt
@@ -1759,10 +1830,12 @@ Unternehmens der Landwirtschaft wird nur im Inland erbracht.
 
 
 ### Sechster Abschnitt - Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002400320)
 
 
 
 #### § 43 Interne und externe Teilung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012008126)
 
 (1) Zum Ausgleich der nach diesem Gesetz erworbenen Anrechte findet
 zwischen den geschiedenen Ehegatten die interne Teilung nach dem
@@ -1784,14 +1857,17 @@ Sozialgesetzbuch gilt entsprechend.
 
 
 ### Siebter Abschnitt - Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002500320)
 
 
 
 #### Erster Unterabschnitt - Beginn und Abschluß des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002600320)
 
 
 
 ##### § 44 Beginn und Abschluß
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012109126)
 
 (1) Für den Beginn und den Abschluß des Verfahrens gelten § 115 Abs. 1
 bis 5, § 116 Abs. 2 sowie § 117 des Sechsten Buches Sozialgesetzbuch
@@ -1805,10 +1881,12 @@ können, wenn sie diese beantragen.
 
 
 #### Zweiter Unterabschnitt - Auszahlung und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002700320)
 
 
 
 ##### § 45 Auszahlung und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012206308)
 
 (1) Für die Auszahlung von Renten gelten die §§ 118, 118a und 272a des
 Sechsten Buches Sozialgesetzbuch entsprechend.
@@ -1822,6 +1900,7 @@ Sozialgesetzbuch entsprechend.
 
 
 ##### § 46 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012307119)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
@@ -1834,33 +1913,40 @@ Satz 1 Gebrauch macht.
 
 
 #### Dritter Unterabschnitt - Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002800320)
 
 
 
 ##### § 47 Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012400320)
 
 Die Berechnungsgrundsätze der §§ 121 bis 123 des Sechsten Buches
 Sozialgesetzbuch gelten entsprechend.
 
 
 #### Vierter Unterabschnitt - Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG002900320)
 
 
 
 ##### § 48
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012501308)
 
 (weggefallen)
 
 
 ## Drittes Kapitel - Organisation und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG003000320)
 
 
 
 ### Erster Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG003100320)
 
 
 
 #### § 49 Träger der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012603308)
 
 Träger der Alterssicherung der Landwirte ist die Sozialversicherung
 für Landwirtschaft, Forsten und Gartenbau. In Angelegenheiten der
@@ -1870,6 +1956,7 @@ Alterskasse.
 
 
 #### § 50 Aufgaben der landwirtschaftlichen Alterskasse
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012702308)
 
 (1) Neben den sich aus diesem Gesetz ergebenden Aufgaben nimmt die
 landwirtschaftliche Alterskasse die Funktion als Verbindungsstelle
@@ -1895,14 +1982,17 @@ gehören insbesondere
 
 
 #### (XXXX) §§ 51 bis 58b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE012801308)
 
 
 
 ### Zweiter Abschnitt - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG003600320)
 
 
 
 #### § 59 Mitgliedsnummer
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE013602308)
 
 (1) Die landwirtschaftliche Alterskasse kann für Personen eine
 Mitgliedsnummer vergeben, wenn dies zur personenbezogenen Zuordnung
@@ -1934,6 +2024,7 @@ entsprechend.
 
 
 #### § 60 Datenverarbeitung bei der landwirtschaftlichen Alterskasse
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE013705124)
 
 (1) Die landwirtschaftliche Alterskasse darf Sozialdaten nur
 verarbeiten, soweit dies zur Erfüllung einer ihr durch Gesetz oder
@@ -1977,6 +2068,7 @@ betroffenen Personen beeinträchtigt werden.
 
 
 #### § 61 Versicherungskonto
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE013800320)
 
 Für die Führung und den Inhalt des Versicherungskontos sowie die
 Pflichten der landwirtschaftlichen Alterskasse und der Versicherten
@@ -1990,6 +2082,7 @@ Sozialgesetzbuch findet keine Anwendung.
 
 
 #### § 61a Überprüfung von Beitragszuschüssen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022507124)
 
 (1) Die landwirtschaftliche Alterskasse ist befugt, Personen, die
 einen Beitragszuschuss erhalten, auch regelmäßig im Wege eines
@@ -2075,6 +2168,7 @@ eines Beitragszuschusses bei jeder Bewilligung darauf hinzuweisen.
 
 
 #### § 62 Dateisysteme der landwirtschaftlichen Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE013906126)
 
 Für die Führung und den Inhalt der Dateisysteme der
 landwirtschaftlichen Sozialversicherung gilt § 150 mit Ausnahme des
@@ -2087,6 +2181,7 @@ Mitgliedsnummer erhalten haben.
 
 
 #### § 63 Auskünfte der Deutschen Post AG
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014002301)
 
 Für Auskünfte der Deutschen Post AG an die für Sozialleistungen
 zuständigen Leistungsträger und diesen Gleichgestellte (§ 35 Erstes
@@ -2099,6 +2194,7 @@ erteilen.
 
 
 #### § 64 Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014103126)
 
 (1) Die Landwirtschaftliche Alterskasse darf zur Durchführung der ihr
 nach dem Gesetz zur Zahlung einer Energiepreispauschale für
@@ -2122,6 +2218,7 @@ nach § 79 Absatz 1 des Zehnten Buches Sozialgesetzbuch bedarf.
 
 
 #### § 65 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014207119)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Ernährung und
@@ -2161,14 +2258,17 @@ zu bestimmen.
 
 
 ## Viertes Kapitel - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG003700320)
 
 
 
 ### Erster Abschnitt - Finanzierungsgrundsatz und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG003800320)
 
 
 
 #### § 66 Finanzierungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014300320)
 
 (1) Die Ausgaben eines Kalenderjahres werden durch die Einnahmen des
 gleichen Kalenderjahres gedeckt.
@@ -2178,6 +2278,7 @@ zum Ausgleich von Einnahmen und Ausgaben.
 
 
 #### § 67 Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014401308)
 
 (1) Die Bundesregierung erstellt alle vier Jahre einen Lagebericht.
 Der Bericht enthält auf der Grundlage der letzten Ermittlungen der
@@ -2196,14 +2297,17 @@ gesetzgebenden Körperschaften zuzuleiten.
 
 
 ### Zweiter Abschnitt - Beiträge und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG003900320)
 
 
 
 #### Erster Unterabschnitt - Beitragshöhe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004001301)
 
 
 
 ##### § 68 Beitragshöhe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014504301)
 
 Der monatliche Beitrag für ein Kalenderjahr ergibt sich, indem der
 Beitragssatz in der allgemeinen Rentenversicherung dieses Jahres, das
@@ -2217,15 +2321,18 @@ Landwirts.
 
 
 ##### § 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014603301)
 
 -
 
 
 #### Zweiter Unterabschnitt - Verteilung der Beitragslast und Zahlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004100320)
 
 
 
 ##### § 70 Verteilung der Beitragslast und Zahlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014704308)
 
 (1) Die Beiträge werden getragen
 
@@ -2255,10 +2362,12 @@ Zahlbetrages auf.
 
 
 #### Dritter Unterabschnitt - Fälligkeit und Wirksamkeit von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004200320)
 
 
 
 ##### § 71 Fälligkeit und Wirksamkeit von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014800320)
 
 (1) Der Beitrag ist jeweils am Fünfzehnten eines Kalendermonats
 fällig.
@@ -2270,10 +2379,12 @@ entsprechend.
 
 
 #### Vierter Unterabschnitt - Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004300320)
 
 
 
 ##### § 72 Wiederauffüllung geminderter Anrechte
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE014903126)
 
 (1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt
 werden, um Anrechte, die um einen Abschlag von der Steigerungszahl
@@ -2296,10 +2407,12 @@ Anrechnung gewährter Leistungen zurückzuzahlen.
 
 
 #### Fünfter Unterabschnitt - Auskunfts- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004400320)
 
 
 
 ##### § 73 Auskunfts- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015003126)
 
 (1) Für die Auskunfts- und Mitteilungspflichten von Versicherten gilt
 § 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
@@ -2367,18 +2480,22 @@ Sozialversicherung für Landwirtschaft, Forsten und Gartenbau geregelt.
 
 
 #### Sechster Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004501308)
 
 
 
 ##### § 74 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015101308)
 
 
 
 #### Siebter Unterabschnitt - Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004600320)
 
 
 
 ##### § 75 Erstattungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015201301)
 
 Beiträge werden auf Antrag erstattet
 
@@ -2397,6 +2514,7 @@ Beiträge werden auf Antrag erstattet
 
 
 ##### § 76 Umfang und Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015303308)
 
 (1) Erstattet wird die Hälfte der vom Versicherten getragenen
 Beiträge. Vor Ermittlung des Erstattungsbetrages werden erbrachte
@@ -2428,6 +2546,7 @@ rentenrechtlichen Zeiten bestehen nicht mehr.
 
 
 ##### § 77 Erstattung zu Unrecht entrichteter Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015402308)
 
 Bei der Erstattung zu Unrecht entrichteter Beiträge nach § 26 des
 Vierten Buches Sozialgesetzbuch gilt § 76 Abs. 1 Satz 2 und Abs. 4
@@ -2440,14 +2559,17 @@ keine Anwendung.
 
 
 ### Dritter Abschnitt - Beteiligung des Bundes, Ausgabenbegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004701308)
 
 
 
 #### Erster Unterabschnitt - Beteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004800320)
 
 
 
 ##### § 78 Beteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015500320)
 
 Der Bund trägt den Unterschiedsbetrag zwischen den Einnahmen und den
 Ausgaben der Alterssicherung der Landwirte eines Kalenderjahres; er
@@ -2455,10 +2577,12 @@ stellt hiermit zugleich deren dauernde Leistungsfähigkeit sicher.
 
 
 #### Zweiter Unterabschnitt - Ausgabenbegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG004901308)
 
 
 
 ##### § 79 Reduzierung der Kosten für Verwaltung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015604119)
 
 (1) Die landwirtschaftliche Alterskasse ergreift Maßnahmen, damit die
 jährlichen Verwaltungs- und Verfahrenskosten für die Alterssicherung
@@ -2479,6 +2603,7 @@ Altersrückstellungsvermögen unberücksichtigt.
 
 
 ##### § 80 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015710360)
 
 (1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für
 Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe werden
@@ -2501,26 +2626,32 @@ Bereich der Teilhabe nicht aufwenden.
 
 
 #### Dritter Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005001308)
 
 
 
 ##### § 81 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015801308)
 
 
 
 ## Fünftes Kapitel - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005100320)
 
 
 
 ### Erster Abschnitt - Ergänzungen für Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005200320)
 
 
 
 #### Erster Unterabschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005300320)
 
 
 
 ##### § 82 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE015900320)
 
 Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der
 vorangegangenen Kapitel für Sachverhalte, die von dem Zeitpunkt des
@@ -2529,14 +2660,17 @@ mehr oder nur noch übergangsweise eintreten können.
 
 
 ##### § 83 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016008360)
 
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005400320)
 
 
 
 ##### § 84 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016111126)
 
 (1) Personen, die am 31. Dezember 1994 als Landwirte beitragspflichtig
 waren und die Voraussetzungen des § 1 nicht erfüllen, bleiben
@@ -2618,6 +2752,7 @@ für Lebenspartner (§ 1a).
 
 
 ##### § 85 Versicherungsfreiheit, Versicherungsbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016209126)
 
 (1) Personen, die am 31. Dezember 1994 als Landwirte oder
 mitarbeitende Familienangehörige von der Beitragspflicht in der
@@ -2803,10 +2938,12 @@ abgegeben, besteht Versicherungspflicht ab dem 1. Januar 2025.
 
 
 #### Dritter Unterabschnitt - Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005501308)
 
 
 
 ##### § 86 Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016301308)
 
 Sind die versicherungsrechtlichen Voraussetzungen für Leistungen zur
 medizinischen Rehabilitation nur erfüllt, wenn der Versicherte in den
@@ -2831,10 +2968,12 @@ Rentenversicherung im Beitrittsgebiet gleich, wenn
 
 
 #### Vierter Unterabschnitt - Vorzeitige Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005600320)
 
 
 
 ##### § 87 Vorzeitige Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016401308)
 
 Die Vorschrift über die vorzeitige Wartezeiterfüllung findet nur
 Anwendung, wenn der Arbeitsunfall oder die Berufskrankheit nach dem
@@ -2842,6 +2981,7 @@ Anwendung, wenn der Arbeitsunfall oder die Berufskrankheit nach dem
 
 
 ##### § 87a Regelaltersrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023100301)
 
 Versicherte, die vor 1964 geboren sind, erreichen die
 Regelaltersgrenze abweichend von § 11 Abs. 3 mit Vollendung des
@@ -2987,6 +3127,7 @@ nachstehenden Lebensalters in Jahren und Monaten:
 
 
 ##### § 87b Vorzeitige Altersrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023200301)
 
 Bei Versicherten, die vor 1958 geboren sind, sind für die Ermittlung
 des Zeitpunktes, ab dem eine vorzeitige Altersrente nach § 12 Abs. 1
@@ -3097,6 +3238,7 @@ folgende Regelaltersgrenzen zugrunde zu legen:
 
 
 ##### § 87c Vorzeitige Altersrente für langjährig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023400360)
 
 Versicherte, die vor 1964 geboren sind und insgesamt 45 Jahre Zeiten
 nach § 23 Absatz 8 Satz 2 zweiter Halbsatz zurückgelegt haben, können
@@ -3199,19 +3341,23 @@ Anspruch nehmen:
 
 
 ##### § 87d Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE024500119)
 
 § 304 Absatz 2 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 
 #### Fünfter Unterabschnitt - Anspruchsvoraussetzungen für Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005700320)
 
 
 
 ##### Erster Titel - Renten wegen Alters und Renten wegen  Todes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005801301)
 
 
 
 ###### § 88 Rente an frühere Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016505126)
 
 Anspruch auf Witwen- oder Witwerrente besteht nach dem Tode des
 versicherten Landwirts auch für frühere Ehegatten, deren Ehe mit dem
@@ -3261,10 +3407,12 @@ Landwirts von dessen Witwe oder Witwer weitergeführt wird.
 
 
 ##### Zweiter Titel - Hinzuverdienstgrenze
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG005900320)
 
 
 
 ###### § 89 Hinzuverdienstgrenze
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016601308)
 
 Bestand am 31. Dezember 1994 Anspruch auf ein vorzeitiges Altersgeld,
 das spätestens am 1. Januar 1984 begonnen hat, tritt an die Stelle des
@@ -3273,10 +3421,12 @@ Euro monatlich.
 
 
 ##### Dritter Titel - Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006000320)
 
 
 
 ###### § 90 Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016705126)
 
 (1) Beitragszeiten vor dem 1. Januar 1995 werden auf die Wartezeit für
 eine Rente an Landwirte nur angerechnet, wenn der Versicherte
@@ -3366,6 +3516,7 @@ August 2018 geltenden Fassung erfüllt waren.
 
 
 ###### § 91 Wartezeit für Ehegatten befreiter Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016802301)
 
 Die Wartezeit von 15 Jahren gilt für Versicherte nach § 1 Abs. 3 als
 erfüllt, wenn sie
@@ -3389,10 +3540,12 @@ erfüllt, wenn sie
 
 
 ##### Vierter Titel - Rentenrechtliche Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006100320)
 
 
 
 ###### § 92 Beitragszeiten von Ehegatten und mitarbeitenden Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE016908308)
 
 (1) Für den Ehegatten gelten für die Ehezeit in der Zeit vom 1.
 Oktober 1957 bis 31. Dezember 1994, für die der andere Ehegatte
@@ -3553,6 +3706,7 @@ anzurechnen gewesen sind, festzustellen ist.
 
 
 ###### § 92a Zurechnungszeit
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021305126)
 
 (1) Beginnt eine Rente wegen Erwerbsminderung im Jahr 2018 oder
 verstirbt die versicherte Person bei einer Rente wegen Todes im Jahr
@@ -3694,10 +3848,12 @@ Erwerbsminderung angerechnet wurde.
 
 
 #### Sechster Unterabschnitt - Berechnung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006200320)
 
 
 
 ##### § 93 Berechnung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017002308)
 
 (1) Beiträge von Personen, die unabhängig von einer Tätigkeit als
 Landwirt oder mitarbeitender Familienangehöriger
@@ -3754,6 +3910,7 @@ der Rentenberechnung unberücksichtigt, wenn
 
 
 ##### § 93a Abschlag vom Rentenwert
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021405360)
 
 (1) Bei Beginn einer Rente wegen Erwerbsminderung vor dem 1. Januar
 2004 wird der Abschlag vom allgemeinen Rentenwert nach § 23 Abs. 8 in
@@ -3949,14 +4106,17 @@ Jahre Zeiten nach § 23 Abs. 8 Satz 2 Nr. 1 bis 3 zurückgelegt sind.
 
 
 ### Zweiter Abschnitt - Ausnahmen von der Anwendung neuen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006300320)
 
 
 
 #### Erster Unterabschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006400320)
 
 
 
 ##### § 94 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017105126)
 
 (1) Die Vorschriften dieses Gesetzes sind von dem Zeitpunkt ihres
 Inkrafttretens an auf einen Sachverhalt oder Anspruch auch dann
@@ -4040,10 +4200,12 @@ Vorschriften etwas anderes bestimmt ist.
 
 
 #### Zweiter Unterabschnitt - Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006501308)
 
 
 
 ##### § 95 Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017201308)
 
 Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die
 Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung
@@ -4052,10 +4214,12 @@ Inanspruchnahme galten.
 
 
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006601308)
 
 
 
 ##### § 95a Renten wegen Erwerbsunfähigkeit und wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021502308)
 
 (1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen
 Erwerbsunfähigkeit, besteht der Anspruch weiter, solange
@@ -4073,6 +4237,7 @@ Rentenwert nicht vorzunehmen.
 
 
 ##### § 96 Anspruchsvoraussetzungen für Witwen- oder Witwerrenten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017306301)
 
 (1) Anspruch auf eine Witwen- oder Witwerrente besteht abweichend von
 § 14 Abs. 1 Satz 1 Nr. 2 auch, wenn
@@ -4246,10 +4411,12 @@ Monaten:
 
 
 #### Vierter Unterabschnitt - Rentenhöhe
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006700320)
 
 
 
 ##### § 97 Zuschlag bei Zugangsrenten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017407308)
 
 (1) Beginnt die Rente erstmals in der Zeit vom 1. Juli 1995 bis 30.
 Juni 2009 und sind bereits vor dem 1. Juli 1995 für mindestens fünf
@@ -4383,6 +4550,7 @@ aus eigener Versicherung hat.
 
 
 ##### § 98 Höhe von Bestandsrenten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017510119)
 
 (1) Bestand am 31. Dezember 1994 Anspruch auf eine Rente, wird diese
 aus Anlaß der Rechtsänderung nicht neu bestimmt, soweit nicht
@@ -4502,6 +4670,7 @@ Fassung anzuwenden.
 
 
 ##### § 99 Ermittlung der nach dem am 31. Dezember 1994 geltenden Recht festzustellenden Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017607308)
 
 (1) Eine nach dem am 31. Dezember 1994 geltenden Recht vor Anwendung
 von Ruhens-, Kürzungs- oder Anrechnungsvorschriften festzustellende
@@ -4546,6 +4715,7 @@ bestimmen.
 
 
 ##### § 99a Zuschlag zur Steigerungszahl bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE025000377)
 
 (1) Ein Zuschlag zur Steigerungszahl als Steigerungszahlzuschlag wird
 ab dem 1. Juli 2024 berücksichtigt, wenn am 30. Juni 2024 ein Anspruch
@@ -4613,6 +4783,7 @@ oder 2 nicht zu berücksichtigen sind.
 
 
 ##### § 100 Begrenzung der Steigerungszahl
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017703308)
 
 (1) Die Steigerungszahl wird, soweit sie auf Zeiten nach § 92 Abs. 1
 und sich hieran anschließende Zurechnungszeiten vor dem 1. Januar 1995
@@ -4647,6 +4818,7 @@ gesetzlichen Rentenversicherung im Beitrittsgebiet gezahlt sind.
 
 
 ##### § 101 Auswirkungen eines Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017801308)
 
 Ist ein Versorgungsausgleich durchgeführt worden und wurde bei der
 Berechnung des in den Versorgungsausgleich einzubeziehenden Anrechts
@@ -4660,20 +4832,24 @@ Abs. 3 Satz 3 oder des § 98 Abs. 3 entspricht.
 
 
 ##### § 102 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE017906360)
 
 
 
 ##### § 102a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021901360)
 
 
 
 ##### § 102b Abschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023600119)
 
 Bei der Anwendung des § 23 Absatz 8 Satz 2 Nummer 2 gilt § 244 Absatz
 3 Satz 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 
 ##### § 103 Höhe der Rente wegen Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018004308)
 
 In der Zeit bis zum 31. Dezember 2000 gelten für eine Rente wegen
 Erwerbsminderung die nach den Vorschriften der gesetzlichen
@@ -4707,6 +4883,7 @@ unberücksichtigt.
 
 
 ##### § 104 Höhe der Rente für frühere Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018100320)
 
 Eine Witwen- oder Witwerrente an frühere Ehegatten des Versicherten,
 deren Ehe mit dem verstorbenen Landwirt vor dem 1. Juli 1977
@@ -4723,6 +4900,7 @@ an den früheren Ehegatten zu zahlenden Betrag gekürzt wird.
 
 
 ##### § 104a Rentenartfaktor
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022000308)
 
 Der Rentenartfaktor beträgt bei Witwenrenten und Witwerrenten nach
 Ablauf des dritten Kalendermonats nach Ablauf des Sterbemonats 0,6,
@@ -4733,6 +4911,7 @@ einem Rentenartfaktor 0,6 ermittelt.
 
 
 ##### § 104b Zuschlag bei Witwenrenten und Witwerrenten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022100308)
 
 Für Witwenrenten und Witwerrenten mit einem Rentenartfaktor vor
 mindestens 0,6 wird ein Zuschlag nach § 23 Abs. 5 Satz 3 nicht
@@ -4740,18 +4919,22 @@ ermittelt; dies gilt auch für eine Rente an frühere Ehegatten.
 
 
 ##### § 105 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018201360)
 
 
 
 ##### § 105a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022701126)
 
 
 
 #### Fünfter Unterabschnitt - Zusammentreffen von Renten mit Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006800320)
 
 
 
 ##### § 106 Zusammentreffen von Renten mit Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018329126)
 
 (1) Beginnt in der Zeit vom 1. Januar 1995 bis zum 31. Dezember 1996
 eine Rente wegen Todes und trifft die Rente in dieser Zeit mit
@@ -4919,6 +5102,7 @@ Fassung anzuwenden.
 
 
 ##### § 106a Einkommensanrechnung auf Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022203119)
 
 (1) Ist die Witwenrente oder Witwerrente ab dem vierten Kalendermonat
 nach Ablauf des Sterbemonats mit einem Rentenartfaktor von mindestens
@@ -4934,10 +5118,12 @@ und 2 gelten auch für eine Rente an frühere Ehegatten.
 
 
 #### Sechster Unterabschnitt - Beitragszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG006900320)
 
 
 
 ##### § 107 Beitragszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018401301)
 
 Personen, die am 31. Dezember 1994 unabhängig von einer Tätigkeit als
 Landwirt oder mitarbeitender Familienangehöriger beitragspflichtig
@@ -4948,6 +5134,7 @@ wird, solange noch nicht die Wartezeit von 15 Jahren erfüllt ist.
 
 
 ##### § 107a Ausfertigung von Einkommensteuerbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021101308)
 
 § 32 Absatz 4 und § 34 Absatz 5 in der bis 31. Dezember 2012 geltenden
 Fassung sind weiterhin anzuwenden, wenn der Einkommensteuerbescheid
@@ -4955,6 +5142,7 @@ vor dem 1. Januar 2013 ausgefertigt worden ist.
 
 
 ##### § 107b Neuregelung des Zuschusses zum Beitrag zum 1. April 2021
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE022602126)
 
 § 32 Absatz 1 und § 33 Absatz 1 in der bis zum 31. März 2021 geltenden
 Fassung sind weiterhin anzuwenden, soweit der Anspruch auf Zuschuss
@@ -4962,6 +5150,7 @@ zum Beitrag für Zeiträume vor dem 1. April 2021 festzustellen ist.
 
 
 ##### § 107c Neuregelung der Ermittlung von Arbeitseinkommen aus Land- und Forstwirtschaft zum 1. Januar 2025
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE025200126)
 
 § 32 Absatz 4 Satz 3, Absatz 5 und 6 in der bis zum 31. Dezember 2024
 geltenden Fassung ist weiterhin anzuwenden, soweit der Anspruch auf
@@ -4970,19 +5159,23 @@ festzustellen ist.
 
 
 #### Siebter Unterabschnitt - Rentenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007000320)
 
 
 
 ##### § 108 Anspruch auf Rentenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018500320)
 
 Ein Anspruch auf Rentenauskunft besteht erst ab 1. Januar 1997.
 
 
 #### Achter Unterabschnitt - Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007100320)
 
 
 
 ##### § 109 Betriebs- und Haushaltshilfe sowie sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018601308)
 
 Für die Erbringung von Betriebs- oder Haushaltshilfe zur
 Aufrechterhaltung des Unternehmens der Landwirtschaft sind bis zum
@@ -4992,41 +5185,50 @@ nicht vorausging, der Inanspruchnahme galten.
 
 
 #### Neunter Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007203308)
 
 
 
 ##### § 110 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018701308)
 
 -
 
 
 #### Zehnter Unterabschnitt - Organisation und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007300320)
 
 
 
 ##### § 111 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018801126)
 
 
 
 ##### § 112 Versicherungskonto
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE018901126)
 
 Die landwirtschaftliche Alterskasse ist verpflichtet,
 Versicherungskonten zu führen.
 
 
 #### Elfter Unterabschnitt - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007400320)
 
 
 
 ##### § 113 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019001126)
 
 
 
 ##### § 114 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019106360)
 
 
 
 ##### § 115 Beitragstragung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019200320)
 
 Personen, die unabhängig von einer Tätigkeit als Landwirt oder
 mitarbeitender Familienangehöriger beitragspflichtig sind, tragen ihre
@@ -5034,10 +5236,12 @@ Beiträge selbst.
 
 
 ##### § 116 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019304360)
 
 
 
 ##### § 117 Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019400320)
 
 (1) Personen, die am 31. Dezember 1994
 
@@ -5066,10 +5270,12 @@ Recht eine Erstattung von Beiträgen ausgeschlossen war.
 
 
 ##### § 117a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE023502126)
 
 
 
 ##### § 118 Aufrechnung mit Beitragsentlastungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019500320)
 
 Entlastungen nach dem Sozialversicherungs-Beitragsentlastungsgesetz,
 die für Beiträge für den landwirtschaftlichen Unternehmer gezahlt
@@ -5082,22 +5288,27 @@ Wirkung für die Vergangenheit zurückzunehmen.
 
 
 ##### § 119 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019601126)
 
 
 
 ##### § 119a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021804308)
 
 
 
 ##### § 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019702360)
 
 
 
 ### Dritter Abschnitt - Landabgaberente
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007500320)
 
 
 
 #### § 121 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019802308)
 
 (1) Verstirbt der Empfänger einer Landabgaberente nach dem 31.
 Dezember 1994, erhält die Witwe oder der Witwer Landabgaberente, wenn
@@ -5116,6 +5327,7 @@ Rentenversicherung gezahlt wurde.
 
 
 #### § 122 Leistungshöhe und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE019902308)
 
 (1) Eine am 31. Dezember 2001 geleistete Landabgaberente wird in Euro
 umgerechnet, indem die bisherige Steigerungszahl mit dem neuen
@@ -5147,11 +5359,13 @@ Landabgaberente entsprechend Absatz 2 Satz 1 ermittelt.
 
 
 #### § 123 Leistungen an Berechtigte im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020001377)
 
 Bei Leistungen ins Ausland gilt § 41 entsprechend.
 
 
 #### § 124 Zusammentreffen von Renten mit Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020100320)
 
 Eine Rente, die mit einer Landabgaberente zusammentrifft, wird hierauf
 angerechnet. Eine Rente aus der gesetzlichen Rentenversicherung oder
@@ -5165,6 +5379,7 @@ Landabgaberente vor Vollendung des 65. Lebensjahres zustehen würde.
 
 
 #### § 125 Beginn, Änderung, Ruhen und Ende von Landabgaberenten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020205126)
 
 (1) Für Beginn, Änderung, Ruhen und Ende einer Landabgaberente gelten
 § 99 Abs. 2, § 100 Abs. 1 und 3 sowie § 102 Abs. 5 des Sechsten Buches
@@ -5190,22 +5405,26 @@ ist entsprechend anzuwenden.
 
 
 #### § 126 Durchführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020301308)
 
 Für die Durchführung der Bestimmungen über die Landabgaberente ist die
 landwirtschaftliche Alterskasse zuständig.
 
 
 #### § 127 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020400320)
 
 Die Aufwendungen für die Landabgaberente einschließlich der
 Verwaltungskosten trägt der Bund.
 
 
 ### Vierter Abschnitt - Zuschuß zur Nachzahlung von Beiträgen für Landwirte zur gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNG007600320)
 
 
 
 #### § 128 Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020500320)
 
 Personen, die einen Zuschuß zur Nachzahlung von Beiträgen für
 Landwirte zur gesetzlichen Rentenversicherung erhalten haben und nach
@@ -5215,6 +5434,7 @@ versicherungsfrei.
 
 
 #### § 129 Kürzung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020604308)
 
 (1) Bezieht der Empfänger einer Altersrente, Rente wegen
 Erwerbsminderung oder eine Rente wegen Todes, der einen Zuschuß zur
@@ -5241,15 +5461,18 @@ mitzuteilen, der die Rente festgestellt hat.
 
 
 #### § 130 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE024001126)
 
 
 
 #### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020702301)
 
 (weggefallen)
 
 
 #### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE020801308)
 
 Fundstelle: BGBl. I 1994, 1924 - 1925,
 bzgl. der einzelnen Änderungen vgl. Fußnote.
@@ -6130,6 +6353,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote.
 
 
 #### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/alg/BJNR189100994.html#BJNR189100994BJNE021703360)
 
 (Fundstelle: BGBl. I 2017, 2511)
 

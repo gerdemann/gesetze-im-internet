@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 5. Februar
@@ -30,9 +31,11 @@ verordnet das Bundesministerium der Verteidigung:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000100000)
 
 
 ### § 1 Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000300000)
 
 (1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige
 Verwendung in der Fachrichtung Wehrtechnik des gehobenen technischen
@@ -78,6 +81,7 @@ verpflichtet; das Selbststudium ist zu fördern.
 
 
 ### § 2 Arten des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000400000)
 
 Der Vorbereitungsdienst besteht aus
 
@@ -95,6 +99,7 @@ Der Vorbereitungsdienst besteht aus
 
 
 ### § 3 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000501311)
 
 (1) Der Vorbereitungsdienst nach § 2 Nummer 1 dauert in der Regel
 zwölf Monate.
@@ -104,6 +109,7 @@ Monate.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000601311)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse und Fähigkeiten einschränken, wird im
@@ -141,9 +147,11 @@ inhaltlichen Anforderungen herabgesetzt werden.
 
 
 ## Kapitel 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000201311)
 
 
 ### § 5 Einstellungsbehörde und personalbearbeitende Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000701311)
 
 (1) Einstellungsbehörde und personalbearbeitende Dienststelle ist das
 Bundesamt für das Personalmanagement der Bundeswehr.
@@ -158,6 +166,7 @@ Auswahl und Einstellung zuständig ist, auf eine nachgeordnete Behörde
 
 
 ### § 6 Beschäftigungsdienststelle
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000803311)
 
 Beschäftigungsdienststelle der Anwärterinnen und Anwärter ist das
 Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
@@ -165,6 +174,7 @@ Bundeswehr.
 
 
 ### § 7 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE000901311)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In dem
@@ -190,6 +200,7 @@ vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
 
 ### § 8 Anforderungen im Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001002311)
 
 (1) Die Eignung und Befähigung wird im Auswahlverfahren anhand von
 Eignungsmerkmalen festgestellt.
@@ -218,6 +229,7 @@ Einsatz kann durch Informationstechnologie unterstützt werden.
 
 
 ### § 9 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001101311)
 
 (1) Die Einstellungsbehörde richtet eine Auswahlkommission ein. Bei
 Bedarf können mehrere Auswahlkommissionen eingerichtet werden. Die
@@ -245,6 +257,7 @@ nicht stimmberechtigt.
 
 
 ### § 9a Ergänzende Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004200311)
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -282,6 +295,7 @@ die bei Beginn des Auswahlverfahrens gilt.
 
 
 ### § 9b Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004300311)
 
 Das Auswahlverfahren besteht aus
 
@@ -295,6 +309,7 @@ Das Auswahlverfahren besteht aus
 
 
 ### § 9c Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004400311)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens sind höchstens vier
 der folgenden Auswahlinstrumente einzusetzen:
@@ -321,6 +336,7 @@ einen halben Arbeitstag.
 
 
 ### § 9d Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004500311)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
 den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
@@ -334,6 +350,7 @@ teilgenommen haben.
 
 
 ### § 9e Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004600311)
 
 (1) Im mündlichen Teil des Auswahlverfahrens sind höchstens vier der
 folgenden Auswahlinstrumente einzusetzen:
@@ -380,6 +397,7 @@ auch im mündlichen Teil des Auswahlverfahrens bewertet.
 
 
 ### § 9f Bewertung der Eignungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004700311)
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
 den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
@@ -393,6 +411,7 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
 ### § 9g Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004800311)
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
 Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
@@ -424,6 +443,7 @@ anderen Bewerbers liegende Gründe überwiegen.
 
 
 ### § 9h Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004900311)
 
 (1) In den Vorbereitungsdienst für den gehobenen technischen Dienst in
 der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – kann eingestellt
@@ -475,9 +495,11 @@ Auswahlverfahren.
 
 
 ## Kapitel 3 - Berufspraktische Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000300000)
 
 
 ### § 10 Gliederung der berufspraktischen Studienzeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001201311)
 
 (1) Der Vorbereitungsdienst nach § 2 Nummer 1 gliedert sich in
 Praktika und Lehrveranstaltungen. Im Einzelnen sind folgende
@@ -523,6 +545,7 @@ Ausbildungsabschnitte können durch Exkursionen ergänzt werden.
 
 
 ### § 11 Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001301311)
 
 Im Lehrgang „Aufgaben und Organisation der Bundeswehr und
 Statusfragen“ werden die Anwärterinnen und Anwärter mit den Rechten
@@ -551,6 +574,7 @@ Einzelheiten regelt der Lehrplan.
 
 
 ### § 12 Vorstellung der Verwendungsmöglichkeiten der Fachrichtung Wehrtechnik des gehobenen technischen Verwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001400000)
 
 Die Anwärterinnen und Anwärter werden bei Dienststellen des
 Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung
@@ -560,6 +584,7 @@ Ausbildungsplan.
 
 
 ### § 13 Lehrgänge „Allgemeine Wehrtechnik“, „Wirtschaftlichkeit im Projektmanagement“ und „Technisches Projektmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001501311)
 
 (1) Im Lehrgang „Allgemeine Wehrtechnik“ wird den Anwärterinnen und
 Anwärtern ein Überblick vermittelt über
@@ -600,6 +625,7 @@ regelt der jeweilige Lehrplan.
 
 
 ### § 14 Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001601311)
 
 Im Lehrgang „Fachtechnik einzelner wehrtechnischer Fachgebiete“ wird
 das Wissen, das von den Anwärterinnen und Anwärtern im
@@ -609,6 +635,7 @@ wehrtechnischen Fachgebiete. Einzelheiten regelt der Lehrplan.
 
 
 ### § 15 Lehrgang „Rechtsgrundlagen in der Praxis“
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001700000)
 
 Den Anwärterinnen und Anwärtern werden die für die spätere
 Aufgabenwahrnehmung notwendigen Rechts- und Verwaltungskenntnisse
@@ -616,6 +643,7 @@ vermittelt. Einzelheiten regelt der Lehrplan.
 
 
 ### § 16 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001801311)
 
 (1) In der praktischen Ausbildung sollen die Anwärterinnen und
 Anwärter ihre Kenntnisse, die sie im Hochschulstudium erworben haben,
@@ -657,6 +685,7 @@ den Anwärterinnen und Anwärtern nicht übertragen werden.
 
 
 ### § 17 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE001902311)
 
 (1) Mit der Ausbildung darf nur betraut werden, wer über die
 erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner
@@ -705,9 +734,11 @@ Ausbildungsstand.
 
 
 ## Kapitel 4 - Bachelorstudium
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000400000)
 
 
 ### § 18 Auswahl des Studiengangs, Studienaufbau und Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002000000)
 
 (1) Für Auswahl und Festlegung der Studiengänge ist die
 Einstellungsbehörde zuständig. Die Fachstudien werden an einer mit der
@@ -725,6 +756,7 @@ Hochschuleinrichtung.
 
 
 ### § 19 Credit Points
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002100000)
 
 Für den erfolgreichen Abschluss des Bachelorstudiums müssen
 Studierende eine von der kooperierenden Hochschuleinrichtung
@@ -736,6 +768,7 @@ bestehen.
 
 
 ### § 20 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002201311)
 
 (1) Während der praktischen Ausbildung sollen die Anwärterinnen und
 Anwärter berufliche Kenntnisse und Fertigkeiten erwerben und lernen,
@@ -761,6 +794,7 @@ Rangpunkte nach § 32 erreicht worden sind.
 
 
 ### § 21 Bewertungen während der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002300000)
 
 (1) Die Ausbildungsstellen haben unverzüglich nach Abschluss einer
 Studieneinheit eine Bewertung zu erstellen. Diese muss Angaben
@@ -776,9 +810,11 @@ Hochschuleinrichtung zu berücksichtigen.
 
 
 ## Kapitel 5 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000500000)
 
 
 ### § 22 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002401311)
 
 (1) Das Prüfungsamt beim Bildungszentrum der Bundeswehr führt die
 Laufbahnprüfung durch. Es ist verantwortlich für die Entwicklung und
@@ -796,6 +832,7 @@ berufspraktische Studienzeiten entsprechend § 10 sind.
 
 
 ### § 23 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002501311)
 
 (1) Die Laufbahnprüfung wird vor Prüfungskommissionen des jeweiligen
 Fachgebiets abgelegt. Es können in einem Fachgebiet mehrere
@@ -874,6 +911,7 @@ des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 ### § 24 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002600000)
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
 Anwärter für den gehobenen technischen Verwaltungsdienst der
@@ -911,6 +949,7 @@ führen diese in eigener Zuständigkeit durch.
 
 
 ### § 25 Prüfungsort, Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002700000)
 
 Das Prüfungsamt setzt Ort und Zeit der schriftlichen
 Aufsichtsarbeiten, der Praxisarbeit und der mündlichen Prüfung fest
@@ -919,6 +958,7 @@ rechtzeitig informiert werden.
 
 
 ### § 26 Schriftliche Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002802311)
 
 (1) Die schriftlichen Aufsichtsarbeiten sind während der
 berufspraktischen Studienzeit anzufertigen. Die Aufgaben der
@@ -987,6 +1027,7 @@ schriftlich oder elektronisch bekannt zu geben.
 
 
 ### § 27 Praxisarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE002902311)
 
 (1) Die Praxisarbeit soll erkennen lassen, dass die Anwärterin oder
 der Anwärter zur selbständigen Bearbeitung von und zur Mitarbeit an
@@ -1036,6 +1077,7 @@ geben.
 
 
 ### § 28 Zulassung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003000000)
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
 Prüfung zu, wenn beide Aufsichtsarbeiten und die Praxisarbeit jeweils
@@ -1051,6 +1093,7 @@ rechtzeitig vor der mündlichen Prüfung mit.
 
 
 ### § 29 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003101116)
 
 (1) Die mündliche Prüfung erstreckt sich auf unterschiedliche
 Schwerpunkte der berufspraktischen Studienzeiten. Die
@@ -1077,6 +1120,7 @@ schriftlich oder elektronisch zu dokumentieren.
 
 
 ### § 30 Verhinderung, Rücktritt, Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003200000)
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
 Umstände an der Prüfung oder an Teilen der Prüfung nicht teilnehmen
@@ -1104,6 +1148,7 @@ bestanden erklärt wird.
 
 
 ### § 31 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003300000)
 
 (1) Anwärterinnen oder Anwärtern, die bei den Aufsichtsarbeiten, der
 Praxisarbeit oder in der mündlichen Prüfung täuschen, eine Täuschung
@@ -1142,6 +1187,7 @@ hören
 
 
 ### § 32 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003400000)
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten
 bewertet:
@@ -1304,6 +1350,7 @@ wie folgt zugeordnet:
 
 
 ### § 33 Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003501116)
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
 die Abschlussnote fest. Dabei werden berücksichtigt:
@@ -1338,6 +1385,7 @@ elektronisch zu dokumentieren.
 
 
 ### § 34 Zeugnis, Ende des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003600000)
 
 (1) Das Prüfungsamt stellt den Anwärterinnen und Anwärtern, die die
 Prüfung bestanden haben, ein Prüfungszeugnis aus, das mindestens die
@@ -1375,6 +1423,7 @@ Prüfungszeugnis zurückzugeben.
 
 
 ### § 35 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003701311)
 
 (1) Eine Ausfertigung des Laufbahnprüfungszeugnisses ist mit den
 Aufsichtsarbeiten, der Dokumentation der Praxisarbeit und der
@@ -1390,6 +1439,7 @@ Prüfungsakten nehmen.
 
 
 ### § 36 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003801311)
 
 (1) Wer Prüfungsteile nach § 24 Absatz 2 nicht bestanden hat, kann
 diese innerhalb von drei Monaten nach Mitteilung des Ergebnisses
@@ -1411,9 +1461,11 @@ Prüfungsordnung.
 
 
 ## Kapitel 6 - Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000600000)
 
 
 ### § 37 Aufstiegsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE003902311)
 
 (1) Die Einstellungsbehörde gibt in einer Ausschreibung die
 Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren
@@ -1432,9 +1484,11 @@ nach § 39 Absatz 2 der Bundeslaufbahnverordnung.
 
 
 ## Kapitel 7 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNG000700000)
 
 
 ### § 38 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004002311)
 
 Die Verordnung über die Ausbildung und Prüfung für den gehobenen
 technischen Dienst in der Bundeswehrverwaltung – Fachrichtung
@@ -1454,6 +1508,7 @@ geändert worden ist, ist weiter anzuwenden
 
 
 ### § 39 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gtdbwvaprv/BJNR324000009.html#BJNR324000009BJNE004100000)
 
 Diese Verordnung tritt mit Wirkung vom 14. September 2009 in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000100309)
 
 Auf Grund der §§ 18e Satz 3 und 18a des Wohnungsbindungsgesetzes in
 der Fassung der Bekanntmachung vom 22. Juli 1982 (BGBl. I S. 972)
@@ -26,6 +27,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000200309)
 
 Diese Verordnung ist auf Darlehen anzuwenden, die außerhalb des
 Saarlandes vor dem 1. Januar 1970 für den Bau von Eigenheimen,
@@ -37,6 +39,7 @@ Kohlenbergbau bewilligt worden sind.
 
 
 ## § 2 Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000300309)
 
 (1) Darlehen, die vor dem 1. Januar 1960 bewilligt worden sind, sind
 vorbehaltlich der §§ 3 und 4 auf Verlangen der darlehnsverwaltenden
@@ -53,6 +56,7 @@ Wohnungsbindungsgesetzes nichts anderes ergibt.
 
 
 ## § 3 Begrenzung der Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000400309)
 
 (1) Die Mehrbelastung aus der höheren Verzinsung ist auf Einwendungen
 des Darlehnsschuldners auf den Kappungsbetrag zu begrenzen, der sich
@@ -79,6 +83,7 @@ Rechtsvorschrift geltend gemacht werden.
 
 
 ## § 4 Sonderregelung für gemischte Förderung
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000500309)
 
 Die darlehnsverwaltende Stelle hat bei der Begrenzung der Verzinsung
 den § 18c Abs. 1 des Wohnungsbindungsgesetzes anzuwenden; an die
@@ -86,12 +91,14 @@ Stelle der Durchschnittsmiete tritt die Kappungsgrenze.
 
 
 ## § 5 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000600309)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 33a des Wohnungsbindungsgesetzes auch im Land Berlin.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bergwozerhv/BJNR014000982.html#BJNR014000982BJNE000700309)
 
 Diese Verordnung tritt mit Wirkung vom 10. Oktober 1982 in Kraft.
 

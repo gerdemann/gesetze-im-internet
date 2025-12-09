@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/intelsat_bk_ndg/BJNR174220998.html#BJNR174220998BJNE000100311)
 
 Den in Kopenhagen am 1. September 1995 von der Versammlung der
 Vertragsparteien beschlossenen Änderungen des Übereinkommens über die
@@ -31,6 +32,7 @@ deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/intelsat_bk_ndg/BJNR174220998.html#BJNR174220998BJNE000204305)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit und
@@ -45,6 +47,7 @@ Rechtsverordnung zu regeln.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/intelsat_bk_ndg/BJNR174220998.html#BJNR174220998BJNE000304305)
 
 Das Bundesministerium für Wirtschaft und Energie kann das INTELSAT-
 Übereinkommen in der durch die vereinbarten Änderungen vom 1.
@@ -53,6 +56,7 @@ September 1995 geänderten Fassung mit einer amtlichen deutschen
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/intelsat_bk_ndg/BJNR174220998.html#BJNR174220998BJNE000400311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

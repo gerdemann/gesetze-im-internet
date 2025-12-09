@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE000400326)
 
 Auf Grund des § 180 Abs. 2 der Abgabenordnung vom 16. März 1976 (BGBl.
 I S. 613), der durch Artikel 1 Nr. 31 des Steuerbereinigungsgesetzes
@@ -29,6 +30,7 @@ wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Gegenstand, Umfang und Voraussetzungen der Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE000505377)
 
 (1) Besteuerungsgrundlagen, insbesondere einkommensteuerpflichtige
 oder körperschaftsteuerpflichtige Einkünfte, können ganz oder
@@ -60,6 +62,7 @@ werden.
 
 
 ## § 2 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE000601309)
 
 (1) Für Feststellungen in den Fällen des § 1 Abs. 1 Satz 1 Nr. 1
 richtet sich die örtliche Zuständigkeit nach § 18 Abs. 1 Nr. 2 der
@@ -78,6 +81,7 @@ zuständig ist.
 
 
 ## § 3 Erklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE000702140)
 
 (1) Eine Erklärung zur gesonderten Feststellung der
 Besteuerungsgrundlagen haben nach Aufforderung durch die Finanzbehörde
@@ -118,6 +122,7 @@ Erklärungspflichtige insoweit von der Erklärungspflicht befreit.
 
 
 ## § 4 Einleitung des Feststellungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE000800326)
 
 Die Finanzbehörde entscheidet nach pflichtgemäßem Ermessen, ob und in
 welchem Umfang sie ein Feststellungsverfahren durchführt. Hält sie
@@ -129,6 +134,7 @@ Steuerbescheid.
 
 
 ## § 5 Verfahrensbeteiligte
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE000900326)
 
 Als an dem Feststellungsverfahren Beteiligte gelten neben den
 Beteiligten nach § 78 der Abgabenordnung auch die in § 3 Abs. 1 Nr. 2
@@ -136,6 +142,7 @@ genannten Personen.
 
 
 ## § 6 Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001000326)
 
 (1) Die am Gegenstand der Feststellung beteiligten Personen sollen
 einen gemeinsamen Empfangsbevollmächtigten bestellen, der ermächtigt
@@ -168,6 +175,7 @@ ihn betreffenden Besteuerungsgrundlagen bekanntzugeben.
 
 
 ## § 7 Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001100326)
 
 (1) Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist
 bei jedem Verfahrensbeteiligten zulässig.
@@ -177,6 +185,7 @@ bekanntzugeben, bei dem die Außenprüfung durchgeführt werden soll.
 
 
 ## § 8 Feststellungsgegenstand beim Übergang zur Liebhaberei
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001201123)
 
 Dient ein Betrieb von einem bestimmten Zeitpunkt an nicht mehr der
 Erzielung von Einkünften im Sinne des § 2 Abs. 1 Nr. 1 bis 3 des
@@ -191,6 +200,7 @@ es sich um einen Fall von geringer Bedeutung handelt.
 
 
 ## § 9 Feststellungsgegenstand bei Einsatz von Versicherungen auf den Erlebens- oder Todesfall zu Finanzierungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001303377)
 
 Das für die Besteuerung des Einkommens des Versicherungsnehmers
 zuständige Finanzamt stellt die Steuerpflicht der
@@ -221,16 +231,19 @@ Versicherungsvertrag vor dem 1. Januar 2005 abgeschlossen worden ist.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001601301)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001500326)
 
 Der Bundesminister der Finanzen
 
 
 ## § 11 Inkrafttreten, Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_180abs2v/BJNR026630986.html#BJNR026630986BJNE001403377)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Sie tritt
 mit Wirkung vom 25. Dezember 1985 in Kraft, soweit einheitliche und

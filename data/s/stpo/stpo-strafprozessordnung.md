@@ -26,20 +26,24 @@ Mittelbare änderung durch
 
 
 ## Erstes Buch - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000102311)
 
 
 
 ### Erster Abschnitt - Sachliche Zuständigkeit der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000202311)
 
 
 
 #### § 1 Anwendbarkeit des Gerichtsverfassungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004202311)
 
 Die sachliche Zuständigkeit der Gerichte wird durch das Gesetz über
 die Gerichtsverfassung bestimmt.
 
 
 #### § 2 Verbindung und Trennung von Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004302311)
 
 (1) Zusammenhängende Strafsachen, die einzeln zur Zuständigkeit von
 Gerichten verschiedener Ordnung gehören würden, können verbunden bei
@@ -55,6 +59,7 @@ die Trennung der verbundenen Strafsachen angeordnet werden.
 
 
 #### § 3 Begriff des Zusammenhanges
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004403311)
 
 Ein Zusammenhang ist vorhanden, wenn eine Person mehrerer Straftaten
 beschuldigt wird oder wenn bei einer Tat mehrere Personen als Täter,
@@ -63,6 +68,7 @@ Hehlerei beschuldigt werden.
 
 
 #### § 4 Verbindung und Trennung rechtshängiger Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004502311)
 
 (1) Eine Verbindung zusammenhängender oder eine Trennung verbundener
 Strafsachen kann auch nach Eröffnung des Hauptverfahrens auf Antrag
@@ -75,18 +81,21 @@ Gericht, so entscheidet das gemeinschaftliche obere Gericht.
 
 
 #### § 5 Maßgebendes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004602311)
 
 Für die Dauer der Verbindung ist der Straffall, der zur Zuständigkeit
 des Gerichts höherer Ordnung gehört, für das Verfahren maßgebend.
 
 
 #### § 6 Prüfung der sachlichen Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004702311)
 
 Das Gericht hat seine sachliche Zuständigkeit in jeder Lage des
 Verfahrens von Amts wegen zu prüfen.
 
 
 #### § 6a Zuständigkeit besonderer Strafkammern
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004802311)
 
 Die Zuständigkeit besonderer Strafkammern nach den Vorschriften des
 Gerichtsverfassungsgesetzes (§ 74 Abs. 2, §§ 74a, 74c des
@@ -98,10 +107,12 @@ Hauptverhandlung geltend machen.
 
 
 ### Zweiter Abschnitt - Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000302311)
 
 
 
 #### § 7 Gerichtsstand des Tatortes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE004902311)
 
 (1) Der Gerichtsstand ist bei dem Gericht begründet, in dessen Bezirk
 die Straftat begangen ist.
@@ -117,6 +128,7 @@ Person ihren Wohnsitz oder gewöhnlichen Aufenthalt hat.
 
 
 #### § 8 Gerichtsstand des Wohnsitzes oder Aufenthaltsortes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005002311)
 
 (1) Der Gerichtsstand ist auch bei dem Gericht begründet, in dessen
 Bezirk der Angeschuldigte zur Zeit der Erhebung der Klage seinen
@@ -129,12 +141,14 @@ letzten Wohnsitz bestimmt.
 
 
 #### § 9 Gerichtsstand des Ergreifungsortes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005102311)
 
 Der Gerichtsstand ist auch bei dem Gericht begründet, in dessen Bezirk
 der Beschuldigte ergriffen worden ist.
 
 
 #### § 10 Gerichtsstand bei Auslandstaten auf Schiffen oder in Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005202311)
 
 (1) Ist die Straftat auf einem Schiff, das berechtigt ist, die
 Bundesflagge zu führen, außerhalb des Geltungsbereichs dieses Gesetzes
@@ -148,6 +162,7 @@ führen.
 
 
 #### § 10a Gerichtsstand bei Auslandstaten im Bereich des Meeres
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005303311)
 
 Ist für eine Straftat, die außerhalb des Geltungsbereichs dieses
 Gesetzes im Bereich des Meeres begangen wird, ein Gerichtsstand nicht
@@ -156,6 +171,7 @@ das Amtsgericht Hamburg.
 
 
 #### § 11 Gerichtsstand bei Auslandstaten exterritorialer Deutscher und deutscher Beamter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005402311)
 
 (1) Deutsche, die das Recht der Exterritorialität genießen, sowie die
 im Ausland angestellten Beamten des Bundes oder eines deutschen Landes
@@ -167,6 +183,7 @@ der Sitz der Bundesregierung als ihr Wohnsitz.
 
 
 #### § 11a Gerichtsstand bei Auslandstaten von Soldaten in besonderer Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070301311)
 
 Wird eine Straftat außerhalb des Geltungsbereiches dieses Gesetzes von
 Soldatinnen oder Soldaten der Bundeswehr in besonderer
@@ -176,6 +193,7 @@ Gericht begründet.
 
 
 #### § 12 Zusammentreffen mehrerer Gerichtsstände
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005503311)
 
 (1) Unter mehreren nach den Vorschriften der §§ 7 bis 11a und 13a
 zuständigen Gerichten gebührt dem der Vorzug, das die Untersuchung
@@ -187,6 +205,7 @@ zuständigen Gerichte durch das gemeinschaftliche obere Gericht
 
 
 #### § 13 Gerichtsstand bei zusammenhängenden Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005602311)
 
 (1) Für zusammenhängende Strafsachen, die einzeln nach den
 Vorschriften der §§ 7 bis 11 zur Zuständigkeit verschiedener Gerichte
@@ -206,6 +225,7 @@ die Verbindung einzutreten hat.
 
 
 #### § 13a Zuständigkeitsbestimmung durch den Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005702311)
 
 Fehlt es im Geltungsbereich dieses Bundesgesetzes an einem zuständigen
 Gericht oder ist dieses nicht ermittelt, so bestimmt der
@@ -213,6 +233,7 @@ Bundesgerichtshof das zuständige Gericht.
 
 
 #### § 14 Zuständigkeitsbestimmung durch das gemeinschaftliche obere Gericht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE005902311)
 
 Besteht zwischen mehreren Gerichten Streit über die Zuständigkeit, so
 bestimmt das gemeinschaftliche obere Gericht das Gericht, das sich der
@@ -220,6 +241,7 @@ Untersuchung und Entscheidung zu unterziehen hat.
 
 
 #### § 15 Gerichtsstand kraft Übertragung bei Hinderung des zuständigen Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006002311)
 
 Ist das an sich zuständige Gericht in einem einzelnen Falle an der
 Ausübung des Richteramtes rechtlich oder tatsächlich verhindert oder
@@ -230,6 +252,7 @@ anderen Bezirks zu übertragen.
 
 
 #### § 16 Prüfung der örtlichen Zuständigkeit; Einwand der Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006103125)
 
 (1) Das Gericht prüft seine örtliche Zuständigkeit bis zur Eröffnung
 des Hauptverfahrens von Amts wegen. Danach darf es seine
@@ -248,10 +271,12 @@ Anklage zu erheben. Absatz 1 Satz 3 gilt entsprechend.
 
 
 #### (XXXX) §§ 17 und 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006201309)
 
 
 
 #### § 19 Zuständigkeitsbestimmung bei Zuständigkeitsstreit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006402311)
 
 Haben mehrere Gerichte, von denen eines das zuständige ist, durch
 Entscheidungen, die nicht mehr anfechtbar sind, ihre Unzuständigkeit
@@ -260,12 +285,14 @@ zuständige Gericht.
 
 
 #### § 20 Untersuchungshandlungen eines unzuständigen Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006502311)
 
 Die einzelnen Untersuchungshandlungen eines unzuständigen Gerichts
 sind nicht schon dieser Unzuständigkeit wegen ungültig.
 
 
 #### § 21 Befugnisse bei Gefahr im Verzug
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006602311)
 
 Ein unzuständiges Gericht hat sich den innerhalb seines Bezirks
 vorzunehmenden Untersuchungshandlungen zu unterziehen, bei denen
@@ -273,10 +300,12 @@ Gefahr im Verzug ist.
 
 
 ### Dritter Abschnitt - Ausschließung und Ablehnung der Gerichtspersonen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000402311)
 
 
 
 #### § 22 Ausschließung von der Ausübung des Richteramtes kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006704311)
 
 Ein Richter ist von der Ausübung des Richteramtes kraft Gesetzes
 ausgeschlossen,
@@ -305,6 +334,7 @@ ausgeschlossen,
 
 
 #### § 23 Ausschließung eines Richters wegen Mitwirkung an der angefochtenen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006802311)
 
 (1) Ein Richter, der bei einer durch ein Rechtsmittel angefochtenen
 Entscheidung mitgewirkt hat, ist von der Mitwirkung bei der
@@ -322,6 +352,7 @@ Wiederaufnahmeverfahrens.
 
 
 #### § 24 Ablehnung eines Richters; Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE006902311)
 
 (1) Ein Richter kann sowohl in den Fällen, in denen er von der
 Ausübung des Richteramtes kraft Gesetzes ausgeschlossen ist, als auch
@@ -338,6 +369,7 @@ Gerichtspersonen namhaft zu machen.
 
 
 #### § 25 Ablehnungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007004125)
 
 (1) Die Ablehnung eines erkennenden Richters wegen Besorgnis der
 Befangenheit ist bis zum Beginn der Vernehmung des ersten Angeklagten
@@ -364,6 +396,7 @@ zulässig.
 
 
 #### § 26 Ablehnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007105125)
 
 (1) Das Ablehnungsgesuch ist bei dem Gericht, dem der Richter
 angehört, anzubringen; es kann vor der Geschäftsstelle zu Protokoll
@@ -382,6 +415,7 @@ dienstlich zu äußern.
 
 
 #### § 26a Verwerfung eines unzulässigen Ablehnungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007203360)
 
 (1) Das Gericht verwirft die Ablehnung eines Richters als unzulässig,
 wenn
@@ -410,6 +444,7 @@ Ablehnung als unzulässig zu verwerfen ist.
 
 
 #### § 27 Entscheidung über einen zulässigen Ablehnungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007302311)
 
 (1) Wird die Ablehnung nicht als unzulässig verworfen, so entscheidet
 über das Ablehnungsgesuch das Gericht, dem der Abgelehnte angehört,
@@ -429,6 +464,7 @@ obere Gericht.
 
 
 #### § 28 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007402311)
 
 (1) Der Beschluß, durch den die Ablehnung für begründet erklärt wird,
 ist nicht anfechtbar.
@@ -440,6 +476,7 @@ Richter, so kann sie nur zusammen mit dem Urteil angefochten werden.
 
 
 #### § 29 Verfahren nach Ablehnung eines Richters
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007504125)
 
 (1) Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs
 nur solche Handlungen vorzunehmen, die keinen Aufschub gestatten.
@@ -478,6 +515,7 @@ nicht oder nur mit unzumutbarem Aufwand möglich ist.
 
 
 #### § 30 Ablehnung eines Richters bei Selbstanzeige und von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007602311)
 
 Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat
 auch dann zu entscheiden, wenn ein solches Gesuch nicht angebracht
@@ -488,6 +526,7 @@ ausgeschlossen ist.
 
 
 #### § 31 Schöffen, Urkundsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007702311)
 
 (1) Die Vorschriften dieses Abschnitts gelten für Schöffen sowie für
 Urkundsbeamte der Geschäftsstelle und andere als Protokollführer
@@ -500,10 +539,12 @@ entscheidet dieser über die Ablehnung oder Ausschließung.
 
 
 ### Vierter Abschnitt - Aktenführung und Kommunikation im Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000504311)
 
 
 
 #### § 32 Elektronische Aktenführung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007808131)
 
 (1) Die Akten können elektronisch geführt werden. Die Bundesregierung
 und die Landesregierungen bestimmen jeweils für ihren Bereich durch
@@ -552,6 +593,7 @@ Bundesrates auf die zuständigen Bundesministerien übertragen.
 
 
 #### § 32a Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Gerichten; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074205125)
 
 (1) Elektronische Dokumente können bei Strafverfolgungsbehörden und
 Gerichten nach Maßgabe der folgenden Absätze eingereicht werden.
@@ -636,6 +678,7 @@ Dokument inhaltlich übereinstimmt.
 
 
 #### § 32b Erstellung und Übermittlung strafverfolgungsbehördlicher und gerichtlicher elektronischer Dokumente; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074304125)
 
 (1) Wird ein strafverfolgungsbehördliches oder gerichtliches Dokument
 als elektronisches Dokument erstellt, müssen ihm alle verantwortenden
@@ -684,6 +727,7 @@ ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien
 
 
 #### § 32c Elektronische Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074401125)
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates elektronische Formulare einführen. Die Rechtsverordnung
@@ -701,6 +745,7 @@ auf die zuständigen Bundesministerien übertragen.
 
 
 #### § 32d Pflicht zur elektronischen Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074501311)
 
 Verteidiger und Rechtsanwälte sollen den Strafverfolgungsbehörden und
 Gerichten Schriftsätze und deren Anlagen sowie schriftlich
@@ -716,6 +761,7 @@ elektronisches Dokument nachzureichen.
 
 
 #### § 32e Übertragung von Dokumenten zu Aktenführungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074601125)
 
 (1) Dokumente, die nicht der Form entsprechen, in der die Akte geführt
 wird (Ausgangsdokumente), sind in die entsprechende Form zu
@@ -757,6 +803,7 @@ befugt ist, die Akten einzusehen.
 
 
 #### § 32f Form der Gewährung von Akteneinsicht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074701125)
 
 (1) Einsicht in elektronische Akten wird durch Bereitstellen des
 Inhalts der Akte zum Abruf oder durch Übermittlung des Inhalts der
@@ -809,10 +856,12 @@ Zustimmung des Bundesrates auf die zuständigen Bundesministerien
 
 
 #### Abschnitt 4a - Gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004800311)
 
 
 
 ##### § 33 Gewährung rechtlichen Gehörs vor einer Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE007902311)
 
 (1) Eine Entscheidung des Gerichts, die im Laufe einer
 Hauptverhandlung ergeht, wird nach Anhörung der Beteiligten erlassen.
@@ -834,6 +883,7 @@ nicht berührt.
 
 
 ##### § 33a Wiedereinsetzung in den vorigen Stand bei Nichtgewährung rechtlichen Gehörs
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008003311)
 
 Hat das Gericht in einem Beschluss den Anspruch eines Beteiligten auf
 rechtliches Gehör in entscheidungserheblicher Weise verletzt und steht
@@ -845,12 +895,14 @@ gilt entsprechend.
 
 
 ##### § 34 Begründung anfechtbarer und ablehnender Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008102311)
 
 Die durch ein Rechtsmittel anfechtbaren Entscheidungen sowie die,
 durch welche ein Antrag abgelehnt wird, sind mit Gründen zu versehen.
 
 
 ##### § 34a Eintritt der Rechtskraft bei Verwerfung eines Rechtsmittels durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008202311)
 
 Führt nach rechtzeitiger Einlegung eines Rechtsmittels ein Beschluß
 unmittelbar die Rechtskraft der angefochtenen Entscheidung herbei, so
@@ -859,6 +911,7 @@ eingetreten.
 
 
 ##### § 35 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008303311)
 
 (1) Entscheidungen, die in Anwesenheit der davon betroffenen Person
 ergehen, werden ihr durch Verkündung bekanntgemacht. Auf Verlangen ist
@@ -873,6 +926,7 @@ Schriftstück auf Verlangen vorzulesen.
 
 
 ##### § 35a Rechtsmittelbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008405125)
 
 Bei der Bekanntmachung einer Entscheidung, die durch ein befristetes
 Rechtsmittel angefochten werden kann, ist der Betroffene über die
@@ -887,10 +941,12 @@ ein Rechtsmittel einzulegen.
 
 
 #### Abschnitt 4b - Verfahren bei Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004900311)
 
 
 
 ##### § 36 Zustellung und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008502311)
 
 (1) Die Zustellung von Entscheidungen ordnet der Vorsitzende an. Die
 Geschäftsstelle sorgt dafür, daß die Zustellung bewirkt wird.
@@ -902,6 +958,7 @@ betreffen.
 
 
 ##### § 37 Zustellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008605311)
 
 (1) Für das Verfahren bei Zustellungen gelten die Vorschriften der
 Zivilprozeßordnung entsprechend.
@@ -918,6 +975,7 @@ in diesen Fällen gleichzeitig mit der Zustellung nach Satz 1.
 
 
 ##### § 38 Unmittelbare Ladung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008702311)
 
 Die bei dem Strafverfahren beteiligten Personen, denen die Befugnis
 beigelegt ist, Zeugen und Sachverständige unmittelbar zu laden, haben
@@ -925,10 +983,12 @@ mit der Zustellung der Ladung den Gerichtsvollzieher zu beauftragen.
 
 
 ##### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008801309)
 
 
 
 ##### § 40 Öffentliche Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE008905125)
 
 (1) Kann eine Zustellung an einen Beschuldigten, dem eine Ladung zur
 Hauptverhandlung noch nicht zugestellt war, nicht in der
@@ -950,6 +1010,7 @@ hat.
 
 
 ##### § 41 Zustellungen an die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009003311)
 
 Zustellungen an die Staatsanwaltschaft erfolgen durch elektronische
 Übermittlung (§ 32b Absatz 3) oder durch Vorlegung der Urschrift des
@@ -961,10 +1022,12 @@ Zeitpunkt des Eingangs (§ 32a Absatz 5 Satz 1) aktenkundig sein.
 
 
 ### Fünfter Abschnitt - Fristen und Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000602311)
 
 
 
 #### § 42 Berechnung von Tagesfristen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009102311)
 
 Bei der Berechnung einer Frist, die nach Tagen bestimmt ist, wird der
 Tag nicht mitgerechnet, auf den der Zeitpunkt oder das Ereignis fällt,
@@ -972,6 +1035,7 @@ nach dem der Anfang der Frist sich richten soll.
 
 
 #### § 43 Berechnung von Wochen- und Monatsfristen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009202311)
 
 (1) Eine Frist, die nach Wochen oder Monaten bestimmt ist, endet mit
 Ablauf des Tages der letzten Woche oder des letzten Monats, der durch
@@ -985,6 +1049,7 @@ nächsten Werktages.
 
 
 #### § 44 Wiedereinsetzung in den vorigen Stand bei Fristversäumung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009303311)
 
 War jemand ohne Verschulden verhindert, eine Frist einzuhalten, so ist
 ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Die
@@ -994,6 +1059,7 @@ oder nach § 346 Abs. 2 Satz 3 unterblieben ist.
 
 
 #### § 45 Anforderungen an einen Wiedereinsetzungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009402311)
 
 (1) Der Antrag auf Wiedereinsetzung in den vorigen Stand ist binnen
 einer Woche nach Wegfall des Hindernisses bei dem Gericht zu stellen,
@@ -1009,6 +1075,7 @@ werden.
 
 
 #### § 46 Zuständigkeit; Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009502311)
 
 (1) Über den Antrag entscheidet das Gericht, das bei rechtzeitiger
 Handlung zur Entscheidung in der Sache selbst berufen gewesen wäre.
@@ -1021,6 +1088,7 @@ Beschwerde zulässig.
 
 
 #### § 47 Keine Vollstreckungshemmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009603311)
 
 (1) Durch den Antrag auf Wiedereinsetzung in den vorigen Stand wird
 die Vollstreckung einer gerichtlichen Entscheidung nicht gehemmt.
@@ -1039,10 +1107,12 @@ durchzuführen.
 
 
 ### Sechster Abschnitt - Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000702311)
 
 
 
 #### § 48 Zeugenpflichten; Ladung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009706125)
 
 (1) Zeugen sind verpflichtet, zu dem zu ihrer Vernehmung bestimmten
 Termin vor dem Richter zu erscheinen. Sie haben die Pflicht
@@ -1057,6 +1127,7 @@ gesetzlichen Folgen des Ausbleibens.
 
 
 #### § 48a Besonders schutzbedürftige Zeugen; Beschleunigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075800125)
 
 (1) Ist der Zeuge zugleich der Verletzte, so sind die ihn betreffenden
 Verhandlungen, Vernehmungen und sonstigen Untersuchungshandlungen
@@ -1089,6 +1160,7 @@ zur Vermeidung von Beweisverlusten geboten ist.
 
 
 #### § 49 Vernehmung des Bundespräsidenten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009802311)
 
 Der Bundespräsident ist in seiner Wohnung zu vernehmen. Zur
 Hauptverhandlung wird er nicht geladen. Das Protokoll über seine
@@ -1096,6 +1168,7 @@ gerichtliche Vernehmung ist in der Hauptverhandlung zu verlesen.
 
 
 #### § 50 Vernehmung von Abgeordneten und Mitgliedern einer Regierung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE009902311)
 
 (1) Die Mitglieder des Bundestages, des Bundesrates, eines Landtages
 oder einer zweiten Kammer sind während ihres Aufenthaltes am Sitz der
@@ -1121,6 +1194,7 @@ Vernehmung ist in der Hauptverhandlung zu verlesen.
 
 
 #### § 51 Folgen des Ausbleibens eines Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010002311)
 
 (1) Einem ordnungsgemäß geladenen Zeugen, der nicht erscheint, werden
 die durch das Ausbleiben verursachten Kosten auferlegt. Zugleich wird
@@ -1145,6 +1219,7 @@ Vorverfahren sowie dem beauftragten und ersuchten Richter zu.
 
 
 #### § 52 Zeugnisverweigerungsrecht der Angehörigen des Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010106125)
 
 (1) Zur Verweigerung des Zeugnisses sind berechtigt
 
@@ -1184,6 +1259,7 @@ dieses Recht auch während der Vernehmung widerrufen.
 
 
 #### § 53 Zeugnisverweigerungsrecht der Berufsgeheimnisträger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010217125)
 
 (1) Zur Verweigerung des Zeugnisses sind ferner berechtigt
 
@@ -1279,6 +1355,7 @@ führen würde.
 
 
 #### § 53a Zeugnisverweigerungsrecht der mitwirkenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010305125)
 
 (1) Den Berufsgeheimnisträgern nach § 53 Absatz 1 Satz 1 Nummer 1 bis
 4 stehen die Personen gleich, die im Rahmen
@@ -1305,6 +1382,7 @@ Personen.
 
 
 #### § 54 Aussagegenehmigung für Angehörige des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010403311)
 
 (1) Für die Vernehmung von Richtern, Beamten und anderen Personen des
 öffentlichen Dienstes als Zeugen über Umstände, auf die sich ihre
@@ -1329,6 +1407,7 @@ Mandatszeit zur Kenntnis gelangt sind.
 
 
 #### § 55 Auskunftsverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010502311)
 
 (1) Jeder Zeuge kann die Auskunft auf solche Fragen verweigern, deren
 Beantwortung ihm selbst oder einem der in § 52 Abs. 1 bezeichneten
@@ -1340,6 +1419,7 @@ belehren.
 
 
 #### § 56 Glaubhaftmachung des Verweigerungsgrundes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010602311)
 
 Die Tatsache, auf die der Zeuge die Verweigerung des Zeugnisses in den
 Fällen der §§ 52, 53 und 55 stützt, ist auf Verlangen glaubhaft zu
@@ -1347,6 +1427,7 @@ machen. Es genügt die eidliche Versicherung des Zeugen.
 
 
 #### § 57 Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010704311)
 
 Vor der Vernehmung werden die Zeugen zur Wahrheit ermahnt und über die
 strafrechtlichen Folgen einer unrichtigen oder unvollständigen Aussage
@@ -1357,6 +1438,7 @@ geleistet werden kann.
 
 
 #### § 58 Vernehmung; Gegenüberstellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010806125)
 
 (1) Die Zeugen sind einzeln und in Abwesenheit der später zu hörenden
 Zeugen zu vernehmen.
@@ -1374,6 +1456,7 @@ Absatz 1 beantragen kann.
 
 
 #### § 58a Aufzeichnung der Vernehmung in Bild und Ton
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064108125)
 
 (1) Die Vernehmung eines Zeugen kann in Bild und Ton aufgezeichnet
 werden. Sie soll nach Würdigung der dafür jeweils maßgeblichen
@@ -1420,6 +1503,7 @@ Zeuge ist auf sein Widerspruchsrecht nach Satz 1 hinzuweisen.
 
 
 #### § 58b Vernehmung im Wege der Bild- und Tonübertragung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070401311)
 
 Die Vernehmung eines Zeugen außerhalb der Hauptverhandlung kann in der
 Weise erfolgen, dass dieser sich an einem anderen Ort als die
@@ -1429,6 +1513,7 @@ Vernehmungszimmer übertragen wird.
 
 
 #### § 59 Vereidigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE010903311)
 
 (1) Zeugen werden nur vereidigt, wenn es das Gericht wegen der
 ausschlaggebenden Bedeutung der Aussage oder zur Herbeiführung einer
@@ -1443,6 +1528,7 @@ Hauptverhandlung statt.
 
 
 #### § 60 Vereidigungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011005311)
 
 Von der Vereidigung ist abzusehen
 
@@ -1463,6 +1549,7 @@ Von der Vereidigung ist abzusehen
 
 
 #### § 61 Recht zur Eidesverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011103311)
 
 Die in § 52 Abs. 1 bezeichneten Angehörigen des Beschuldigten haben
 das Recht, die Beeidigung des Zeugnisses zu verweigern; darüber sind
@@ -1470,6 +1557,7 @@ sie zu belehren.
 
 
 #### § 62 Vereidigung im vorbereitenden Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011203311)
 
 Im vorbereitenden Verfahren ist die Vereidigung zulässig, wenn
 
@@ -1485,6 +1573,7 @@ und die Voraussetzungen des § 59 Abs. 1 vorliegen.
 
 
 #### § 63 Vereidigung bei Vernehmung durch den beauftragten oder ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011303311)
 
 Wird ein Zeuge durch einen beauftragten oder ersuchten Richter
 vernommen, muss die Vereidigung, soweit sie zulässig ist, erfolgen,
@@ -1493,6 +1582,7 @@ wird.
 
 
 #### § 64 Eidesformel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011403311)
 
 (1) Der Eid mit religiöser Beteuerung wird in der Weise geleistet,
 dass der Richter an den Zeugen die Worte richtet:
@@ -1533,6 +1623,7 @@ verwenden wolle, so kann er diese dem Eid anfügen.
 
 
 #### § 65 Eidesgleiche Bekräftigung der Wahrheit von Aussagen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011503311)
 
 (1) Gibt ein Zeuge an, dass er aus Glaubens- oder Gewissensgründen
 keinen Eid leisten wolle, so hat er die Wahrheit der Aussage zu
@@ -1559,6 +1650,7 @@ und der Zeuge hierauf spricht:
 
 
 #### § 66 Eidesleistung bei Hör- oder Sprachbehinderung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE011603311)
 
 (1) Eine hör- oder sprachbehinderte Person leistet den Eid nach ihrer
 Wahl mittels Nachsprechens der Eidesformel, mittels Abschreibens und
@@ -1578,6 +1670,7 @@ unverhältnismäßigem Aufwand möglich ist.
 
 
 #### § 67 Berufung auf einen früheren Eid
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012202311)
 
 Wird der Zeuge, nachdem er eidlich vernommen worden ist, in demselben
 Vorverfahren oder in demselben Hauptverfahren nochmals vernommen, so
@@ -1587,6 +1680,7 @@ Eid versichern lassen.
 
 
 #### § 68 Vernehmung zur Person; Beschränkung von Angaben, Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012306125)
 
 (1) Die Vernehmung beginnt damit, dass der Zeuge über Vornamen,
 Nachnamen, Geburtsnamen, Alter, Beruf und vollständige Anschrift
@@ -1642,6 +1736,7 @@ ausgeschlossen erscheint.
 
 
 #### § 68a Beschränkung des Fragerechts aus Gründen des Persönlichkeitsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012405311)
 
 (1) Fragen nach Tatsachen, die dem Zeugen oder einer Person, die im
 Sinne des § 52 Abs. 1 sein Angehöriger ist, zur Unehre gereichen
@@ -1658,6 +1753,7 @@ Glaubwürdigkeit zu beurteilen.
 
 
 #### § 68b Zeugenbeistand
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064206125)
 
 (1) Zeugen können sich eines anwaltlichen Beistands bedienen. Einem
 zur Vernehmung des Zeugen erschienenen anwaltlichen Beistand ist die
@@ -1697,6 +1793,7 @@ Untersuchungszweck nicht gefährdet.
 
 
 #### § 69 Vernehmung zur Sache
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012503311)
 
 (1) Der Zeuge ist zu veranlassen, das, was ihm von dem Gegenstand
 seiner Vernehmung bekannt ist, im Zusammenhang anzugeben. Vor seiner
@@ -1715,6 +1812,7 @@ entsprechend.
 
 
 #### § 70 Folgen unberechtigter Zeugnis- oder Eidesverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012602311)
 
 (1) Wird das Zeugnis oder die Eidesleistung ohne gesetzlichen Grund
 verweigert, so werden dem Zeugen die durch die Weigerung verursachten
@@ -1735,16 +1833,19 @@ wiederholt werden.
 
 
 #### § 71 Zeugenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012703311)
 
 Der Zeuge wird nach dem Justizvergütungs- und -entschädigungsgesetz
 entschädigt.
 
 
 ### Siebter Abschnitt - Sachverständige und Augenschein
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000802311)
 
 
 
 #### § 72 Anwendung der Vorschriften über Zeugen auf Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012802311)
 
 Auf Sachverständige ist der sechste Abschnitt über Zeugen entsprechend
 anzuwenden, soweit nicht in den nachfolgenden Paragraphen abweichende
@@ -1752,6 +1853,7 @@ Vorschriften getroffen sind.
 
 
 #### § 73 Auswahl des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE012902311)
 
 (1) Die Auswahl der zuzuziehenden Sachverständigen und die Bestimmung
 ihrer Anzahl erfolgt durch den Richter. Er soll mit diesen eine
@@ -1764,6 +1866,7 @@ besondere Umstände es fordern.
 
 
 #### § 74 Ablehnung des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013002311)
 
 (1) Ein Sachverständiger kann aus denselben Gründen, die zur Ablehnung
 eines Richters berechtigen, abgelehnt werden. Ein Ablehnungsgrund kann
@@ -1780,6 +1883,7 @@ Mittel der Glaubhaftmachung ausgeschlossen.
 
 
 #### § 75 Pflicht des Sachverständigen zur Erstattung des Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013102311)
 
 (1) Der zum Sachverständigen Ernannte hat der Ernennung Folge zu
 leisten, wenn er zur Erstattung von Gutachten der erforderten Art
@@ -1793,6 +1897,7 @@ sich hierzu vor Gericht bereit erklärt hat.
 
 
 #### § 76 Gutachtenverweigerungsrecht des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013202311)
 
 (1) Dieselben Gründe, die einen Zeugen berechtigen, das Zeugnis zu
 verweigern, berechtigen einen Sachverständigen zur Verweigerung des
@@ -1807,6 +1912,7 @@ Vorschriften.
 
 
 #### § 77 Ausbleiben oder unberechtigte Gutachtenverweigerung des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013302311)
 
 (1) Im Falle des Nichterscheinens oder der Weigerung eines zur
 Erstattung des Gutachtens verpflichteten Sachverständigen wird diesem
@@ -1825,12 +1931,14 @@ Ordnungsgeld noch einmal festgesetzt werden.
 
 
 #### § 78 Richterliche Leitung der Tätigkeit des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013402311)
 
 Der Richter hat, soweit ihm dies erforderlich erscheint, die Tätigkeit
 der Sachverständigen zu leiten.
 
 
 #### § 79 Vereidigung des Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013503311)
 
 (1) Der Sachverständige kann nach dem Ermessen des Gerichts vereidigt
 werden.
@@ -1845,6 +1953,7 @@ den geleisteten Eid.
 
 
 #### § 80 Vorbereitung des Gutachtens durch weitere Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013602311)
 
 (1) Dem Sachverständigen kann auf sein Verlangen zur Vorbereitung des
 Gutachtens durch Vernehmung von Zeugen oder des Beschuldigten weitere
@@ -1856,6 +1965,7 @@ beizuwohnen und an sie unmittelbar Fragen zu stellen.
 
 
 #### § 80a Vorbereitung des Gutachtens im Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE013803311)
 
 Ist damit zu rechnen, daß die Unterbringung des Beschuldigten in einem
 psychiatrischen Krankenhaus, einer Entziehungsanstalt oder in der
@@ -1865,6 +1975,7 @@ in der Hauptverhandlung zu erstattenden Gutachtens gegeben werden.
 
 
 #### § 81 Unterbringung des Beschuldigten zur Vorbereitung eines Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014003311)
 
 (1) Zur Vorbereitung eines Gutachtens über den psychischen Zustand des
 Beschuldigten kann das Gericht nach Anhörung eines Sachverständigen
@@ -1889,6 +2000,7 @@ aufschiebende Wirkung.
 
 
 #### § 81a Körperliche Untersuchung des Beschuldigten; Zulässigkeit körperlicher Eingriffe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014105360)
 
 (1) Eine körperliche Untersuchung des Beschuldigten darf zur
 Feststellung von Tatsachen angeordnet werden, die für das Verfahren
@@ -1915,6 +2027,7 @@ sind.
 
 
 #### § 81b Erkennungsdienstliche Maßnahmen bei dem Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014203125)
 
 (1) Soweit es für die Zwecke der Durchführung des Strafverfahrens oder
 für die Zwecke des Erkennungsdienstes notwendig ist, dürfen
@@ -2005,6 +2118,7 @@ Die übrigen Bestimmungen über die Verarbeitung der nach Absatz 1 oder
 
 
 #### § 81c Untersuchung anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014306311)
 
 (1) Andere Personen als Beschuldigte dürfen, wenn sie als Zeugen in
 Betracht kommen, ohne ihre Einwilligung nur untersucht werden, soweit
@@ -2053,6 +2167,7 @@ beharrt oder daß Gefahr im Verzuge ist.
 
 
 #### § 81d Durchführung körperlicher Untersuchungen durch Personen gleichen Geschlechts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014403311)
 
 (1) Kann die körperliche Untersuchung das Schamgefühl verletzen, so
 wird sie von einer Person gleichen Geschlechts oder von einer Ärztin
@@ -2068,6 +2183,7 @@ Untersuchung einwilligt.
 
 
 #### § 81e Molekulargenetische Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063804125)
 
 (1) An dem durch Maßnahmen nach § 81a Absatz 1 oder § 81c erlangten
 Material dürfen mittels molekulargenetischer Untersuchung das DNA-
@@ -2088,6 +2204,7 @@ gilt § 81f Absatz 1 entsprechend.
 
 
 #### § 81f Verfahren bei der molekulargenetischen Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063905125)
 
 (1) Untersuchungen nach § 81e Abs. 1 dürfen ohne Einwilligung der
 betroffenen Person nur durch das Gericht, bei Gefahr im Verzug auch
@@ -2124,6 +2241,7 @@ sollen.
 
 
 #### § 81g DNA-Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064805125)
 
 (1) Ist der Beschuldigte einer Straftat von erheblicher Bedeutung oder
 einer Straftat gegen die sexuelle Selbstbestimmung verdächtig, dürfen
@@ -2207,6 +2325,7 @@ die gerichtliche Entscheidung beantragen kann.
 
 
 #### § 81h DNA-Reihenuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068303125)
 
 (1) Begründen bestimmte Tatsachen den Verdacht, dass ein Verbrechen
 gegen das Leben, die körperliche Unversehrtheit, die persönliche
@@ -2283,6 +2402,7 @@ hinzuweisen, dass
 
 
 #### § 82 Form der Erstattung eines Gutachtens im Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014502311)
 
 Im Vorverfahren hängt es von der Anordnung des Richters ab, ob die
 Sachverständigen ihr Gutachten schriftlich oder mündlich zu erstatten
@@ -2290,6 +2410,7 @@ haben.
 
 
 #### § 83 Anordnung einer neuen Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014602311)
 
 (1) Der Richter kann eine neue Begutachtung durch dieselben oder durch
 andere Sachverständige anordnen, wenn er das Gutachten für ungenügend
@@ -2304,12 +2425,14 @@ eingeholt werden.
 
 
 #### § 84 Sachverständigenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014703311)
 
 Der Sachverständige erhält eine Vergütung nach dem Justizvergütungs-
 und -entschädigungsgesetz.
 
 
 #### § 85 Sachverständige Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014802311)
 
 Soweit zum Beweis vergangener Tatsachen oder Zustände, zu deren
 Wahrnehmung eine besondere Sachkunde erforderlich war, sachkundige
@@ -2318,6 +2441,7 @@ Zeugenbeweis.
 
 
 #### § 86 Richterlicher Augenschein
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE014902311)
 
 Findet die Einnahme eines richterlichen Augenscheins statt, so ist im
 Protokoll der vorgefundene Sachbestand festzustellen und darüber
@@ -2327,6 +2451,7 @@ gefehlt haben.
 
 
 #### § 87 Leichenschau, Leichenöffnung, Ausgrabung der Leiche
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015003311)
 
 (1) Die Leichenschau wird von der Staatsanwaltschaft, auf Antrag der
 Staatsanwaltschaft auch vom Richter, unter Zuziehung eines Arztes
@@ -2359,6 +2484,7 @@ wird.
 
 
 #### § 88 Identifizierung des Verstorbenen vor Leichenöffnung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015103311)
 
 (1) Vor der Leichenöffnung soll die Identität des Verstorbenen
 festgestellt werden. Zu diesem Zweck können insbesondere Personen, die
@@ -2373,6 +2499,7 @@ Anerkennung vorgezeigt werden.
 
 
 #### § 89 Umfang der Leichenöffnung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015202311)
 
 Die Leichenöffnung muß sich, soweit der Zustand der Leiche dies
 gestattet, stets auf die Öffnung der Kopf-, Brust- und Bauchhöhle
@@ -2380,6 +2507,7 @@ erstrecken.
 
 
 #### § 90 Öffnung der Leiche eines Neugeborenen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015302311)
 
 Bei Öffnung der Leiche eines neugeborenen Kindes ist die Untersuchung
 insbesondere auch darauf zu richten, ob es nach oder während der
@@ -2388,6 +2516,7 @@ das Leben außerhalb des Mutterleibes fortzusetzen.
 
 
 #### § 91 Untersuchung der Leiche bei Verdacht einer Vergiftung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015402311)
 
 (1) Liegt der Verdacht einer Vergiftung vor, so ist die Untersuchung
 der in der Leiche oder sonst gefundenen verdächtigen Stoffe durch
@@ -2399,6 +2528,7 @@ oder Leitung eines Arztes stattzufinden hat.
 
 
 #### § 92 Gutachten bei Verdacht einer Geld- oder Wertzeichenfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015502311)
 
 (1) Liegt der Verdacht einer Geld- oder Wertzeichenfälschung vor, so
 sind das Geld oder die Wertzeichen erforderlichenfalls der Behörde
@@ -2413,6 +2543,7 @@ fremden Währungsgebietes das einer deutschen erfordert werden.
 
 
 #### § 93 Schriftgutachten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015602311)
 
 Zur Ermittlung der Echtheit oder Unechtheit eines Schriftstücks sowie
 zur Ermittlung seines Urhebers kann eine Schriftvergleichung unter
@@ -2420,10 +2551,12 @@ Zuziehung von Sachverständigen vorgenommen werden.
 
 
 ### Achter Abschnitt - Ermittlungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG000904311)
 
 
 
 #### § 94 Sicherstellung und Beschlagnahme von Gegenständen zu Beweiszwecken
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015703311)
 
 (1) Gegenstände, die als Beweismittel für die Untersuchung von
 Bedeutung sein können, sind in Verwahrung zu nehmen oder in anderer
@@ -2441,6 +2574,7 @@ und 111o.
 
 
 #### § 95 Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015802311)
 
 (1) Wer einen Gegenstand der vorbezeichneten Art in seinem Gewahrsam
 hat, ist verpflichtet, ihn auf Erfordern vorzulegen und auszuliefern.
@@ -2451,6 +2585,7 @@ Personen, die zur Verweigerung des Zeugnisses berechtigt sind.
 
 
 #### § 95a Zurückstellung der Benachrichtigung des Beschuldigten; Offenbarungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075900125)
 
 (1) Bei der gerichtlichen Anordnung oder Bestätigung der Beschlagnahme
 eines Gegenstandes, den eine nicht beschuldigte Person im Gewahrsam
@@ -2527,6 +2662,7 @@ gilt § 95 Absatz 2 entsprechend.
 
 
 #### § 96 Amtlich verwahrte Schriftstücke
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE015903311)
 
 Die Vorlegung oder Auslieferung von Akten oder anderen in amtlicher
 Verwahrung befindlichen Schriftstücken durch Behörden und öffentliche
@@ -2542,6 +2678,7 @@ solche Erklärung abgegeben hat.
 
 
 #### § 97 Beschlagnahmeverbot
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016014360)
 
 (1) Der Beschlagnahme unterliegen nicht
 
@@ -2606,6 +2743,7 @@ aussichtslos oder wesentlich erschwert wäre.
 
 
 #### § 98 Verfahren bei der Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016105311)
 
 (1) Beschlagnahmen dürfen nur durch das Gericht, bei Gefahr im Verzug
 auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152
@@ -2642,6 +2780,7 @@ Soldaten bewohnt werden.
 
 
 #### § 98a Rasterfahndung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060202311)
 
 (1) Liegen zureichende tatsächliche Anhaltspunkte dafür vor, daß eine
 Straftat von erheblicher Bedeutung
@@ -2694,6 +2833,7 @@ die Stelle, die den Abgleich durchführt, zu unterstützen.
 
 
 #### § 98b Verfahren bei der Rasterfahndung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070700311)
 
 (1) Der Abgleich und die Übermittlung der Daten dürfen nur durch das
 Gericht, bei Gefahr im Verzug auch durch die Staatsanwaltschaft
@@ -2725,6 +2865,7 @@ unterrichten, die für die Kontrolle der Einhaltung der Vorschriften
 
 
 #### § 98c Maschineller Abgleich mit vorhandenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060403311)
 
 Zur Aufklärung einer Straftat oder zur Ermittlung des Aufenthaltsortes
 einer Person, nach der für Zwecke eines Strafverfahrens gefahndet
@@ -2736,6 +2877,7 @@ landesgesetzliche Verwendungsregelungen bleiben unberührt.
 
 
 #### § 99 Postbeschlagnahme und Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016204125)
 
 (1) Zulässig ist die Beschlagnahme der an den Beschuldigten
 gerichteten Postsendungen und Telegramme, die sich im Gewahrsam von
@@ -2787,6 +2929,7 @@ Gewahrsam befinden.
 
 
 #### § 100 Verfahren bei der Postbeschlagnahme und Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016304125)
 
 (1) Zur Anordnung der Maßnahmen nach § 99 ist nur das Gericht, bei
 Gefahr im Verzug auch die Staatsanwaltschaft befugt.
@@ -2821,6 +2964,7 @@ vorgesehenen Empfänger abschriftlich mitzuteilen.
 
 
 #### § 100a Telekommunikationsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016463125)
 
 (1) Auch ohne Wissen der Betroffenen darf die Telekommunikation
 überwacht und aufgezeichnet werden, wenn
@@ -3169,6 +3313,7 @@ schützen.
 
 
 #### § 100b Online-Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016516125)
 
 (1) Auch ohne Wissen des Betroffenen darf mit technischen Mitteln in
 ein von dem Betroffenen genutztes informationstechnisches System
@@ -3413,6 +3558,7 @@ unvermeidbar betroffen werden.
 
 
 #### § 100c Akustische Wohnraumüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070907360)
 
 (1) Auch ohne Wissen der Betroffenen darf das in einer Wohnung
 nichtöffentlich gesprochene Wort mit technischen Mitteln abgehört und
@@ -3460,6 +3606,7 @@ unvermeidbar betroffen werden.
 
 
 #### § 100d Kernbereich privater Lebensgestaltung; Zeugnisverweigerungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071001360)
 
 (1) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch
 eine Maßnahme nach den §§ 100a bis 100c allein Erkenntnisse aus dem
@@ -3510,6 +3657,7 @@ eines Beschuldigten steht. § 160a Absatz 4 gilt entsprechend.
 
 
 #### § 100e Verfahren bei Maßnahmen nach den §§ 100a bis 100c
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064604360)
 
 (1) Maßnahmen nach § 100a dürfen nur auf Antrag der Staatsanwaltschaft
 durch das Gericht angeordnet werden. Bei Gefahr im Verzug kann die
@@ -3643,6 +3791,7 @@ folgenden Maßgaben verwendet werden:
 
 
 #### § 100f Akustische Überwachung außerhalb von Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064705125)
 
 (1) Auch ohne Wissen der betroffenen Personen darf außerhalb von
 Wohnungen das nichtöffentlich gesprochene Wort mit technischen Mitteln
@@ -3670,6 +3819,7 @@ entsprechend.
 
 
 #### § 100g Erhebung von Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067421360)
 
 (1) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter
 oder Teilnehmer
@@ -3894,6 +4044,7 @@ Kommunikationsvorgangs nach den allgemeinen Vorschriften.
 
 
 #### § 100h Weitere Maßnahmen außerhalb von Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067508125)
 
 (1) Auch ohne Wissen der betroffenen Personen dürfen außerhalb von
 Wohnungen
@@ -3938,6 +4089,7 @@ unvermeidbar mitbetroffen werden.
 
 
 #### § 100i Technische Ermittlungsmaßnahmen bei Mobilfunkendgeräten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067805360)
 
 (1) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter
 oder Teilnehmer eine Straftat von auch im Einzelfall erheblicher
@@ -3973,6 +4125,7 @@ nicht mehr als sechs weitere Monate ist zulässig, soweit die in Absatz
 
 
 #### § 100j Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070514360)
 
 (1) Soweit dies für die Erforschung des Sachverhalts oder die
 Ermittlung des Aufenthaltsortes eines Beschuldigten erforderlich ist,
@@ -4048,6 +4201,7 @@ Auskunftserteilung erforderlichen Daten unverzüglich zu übermitteln. §
 
 
 #### § 100k Erhebung von Nutzungsdaten bei digitalen Diensten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075702360)
 
 (1) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter
 oder Teilnehmer eine Straftat von auch im Einzelfall erheblicher
@@ -4154,6 +4308,7 @@ Vorschriften.
 
 
 #### § 101 Verfahrensregelungen bei verdeckten Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016615125)
 
 (1) Für Maßnahmen nach den §§ 98a, 99, 100a bis 100f, 100h, 100i,
 110a, 163d bis 163g gelten, soweit nichts anderes bestimmt ist, die
@@ -4298,6 +4453,7 @@ einzuschränken.
 
 
 #### § 101a Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei Verkehrs- und Nutzungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016709360)
 
 (1) Bei Erhebungen von Verkehrsdaten nach § 100g gelten § 100a Absatz
 3 und 4 und § 100e entsprechend mit der Maßgabe, dass
@@ -4416,6 +4572,7 @@ von ihr abgesehen, sind die Gründe aktenkundig zu machen.
 
 
 #### § 101b Statistische Erfassung; Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071904125)
 
 (1) Die Länder und der Generalbundesanwalt berichten dem Bundesamt für
 Justiz kalenderjährlich jeweils bis zum 30. Juni des dem Berichtsjahr
@@ -4607,6 +4764,7 @@ unterschieden nach Maßnahmen nach den Absätzen 1 und 2 anzugeben:
 
 
 #### § 102 Durchsuchung bei Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016803311)
 
 Bei dem, welcher als Täter oder Teilnehmer einer Straftat oder der
 Datenhehlerei, Begünstigung, Strafvereitelung oder Hehlerei verdächtig
@@ -4617,6 +4775,7 @@ die Durchsuchung zur Auffindung von Beweismitteln führen werde.
 
 
 #### § 103 Durchsuchung bei anderen Personen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE016905311)
 
 (1) Bei anderen Personen sind Durchsuchungen nur zur Ergreifung des
 Beschuldigten oder zur Verfolgung von Spuren einer Straftat oder zur
@@ -4638,6 +4797,7 @@ Verfolgung betreten hat.
 
 
 #### § 104 Durchsuchung von Räumen zur Nachtzeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017004125)
 
 (1) Zur Nachtzeit dürfen die Wohnung, die Geschäftsräume und das
 befriedete Besitztum nur in folgenden Fällen durchsucht werden:
@@ -4672,6 +4832,7 @@ Waffenhandels oder der Prostitution bekannt sind.
 
 
 #### § 105 Verfahren bei der Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017103311)
 
 (1) Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzug
 auch durch die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152
@@ -4697,6 +4858,7 @@ Soldaten bewohnt werden.
 
 
 #### § 106 Hinzuziehung des Inhabers eines Durchsuchungsobjekts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017202311)
 
 (1) Der Inhaber der zu durchsuchenden Räume oder Gegenstände darf der
 Durchsuchung beiwohnen. Ist er abwesend, so ist, wenn möglich, sein
@@ -4710,6 +4872,7 @@ der in § 104 Abs. 2 bezeichneten Räume.
 
 
 #### § 107 Durchsuchungsbescheinigung; Beschlagnahmeverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017302311)
 
 Dem von der Durchsuchung Betroffenen ist nach deren Beendigung auf
 Verlangen eine schriftliche Mitteilung zu machen, die den Grund der
@@ -4720,6 +4883,7 @@ Verdächtiges gefunden wird, eine Bescheinigung hierüber zu geben.
 
 
 #### § 108 Beschlagnahme anderer Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017404311)
 
 (1) Werden bei Gelegenheit einer Durchsuchung Gegenstände gefunden,
 die zwar in keiner Beziehung zu der Untersuchung stehen, aber auf die
@@ -4745,6 +4909,7 @@ nach § 353b des Strafgesetzbuches handelt.
 
 
 #### § 109 Kenntlichmachung beschlagnahmter Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017502311)
 
 Die in Verwahrung oder in Beschlag genommenen Gegenstände sind genau
 zu verzeichnen und zur Verhütung von Verwechslungen durch amtliche
@@ -4752,6 +4917,7 @@ Siegel oder in sonst geeigneter Weise kenntlich zu machen.
 
 
 #### § 110 Durchsicht von Papieren und elektronischen Speichermedien
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017605125)
 
 (1) Die Durchsicht der Papiere des von der Durchsuchung Betroffenen
 steht der Staatsanwaltschaft und auf deren Anordnung ihren
@@ -4776,6 +4942,7 @@ gesichert, gelten die §§ 95a und 98 Absatz 2 entsprechend.
 
 
 #### § 110a Verdeckter Ermittler
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060703125)
 
 (1) Verdeckte Ermittler dürfen zur Aufklärung von Straftaten
 eingesetzt werden, wenn zureichende tatsächliche Anhaltspunkte dafür
@@ -4816,6 +4983,7 @@ und gebraucht werden.
 
 
 #### § 110b Verfahren beim Einsatz eines Verdeckten Ermittlers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071200311)
 
 (1) Der Einsatz eines Verdeckten Ermittlers ist erst nach Zustimmung
 der Staatsanwaltschaft zulässig. Besteht Gefahr im Verzug und kann die
@@ -4856,6 +5024,7 @@ Verdeckten Ermittlers gefährden würde.
 
 
 #### § 110c Befugnisse des Verdeckten Ermittlers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060903311)
 
 Verdeckte Ermittler dürfen unter Verwendung ihrer Legende eine Wohnung
 mit dem Einverständnis des Berechtigten betreten. Das Einverständnis
@@ -4866,6 +5035,7 @@ Gesetz und anderen Rechtsvorschriften.
 
 
 #### § 110d Besonderes Verfahren bei Einsätzen zur Ermittlung von Straftaten nach den §§ 176e und 184b des Strafgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061007125)
 
 Einsätze, bei denen entsprechend § 176e Absatz 5 oder § 184b Absatz 6
 des Strafgesetzbuches Handlungen im Sinne des § 176e Absatz 1 und 3
@@ -4881,6 +5051,7 @@ Einsatz fortbestehen.
 
 
 #### § 111 Errichtung von Kontrollstellen an öffentlich zugänglichen Orten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017706311)
 
 (1) Begründen bestimmte Tatsachen den Verdacht, daß eine Straftat nach
 § 89a oder § 89c Absatz 1 bis 4 des Strafgesetzbuchs oder nach § 129a,
@@ -4906,6 +5077,7 @@ Absatz 1 gelten § 106 Abs. 2 Satz 1, § 107 Satz 2 erster Halbsatz, die
 
 
 #### § 111a Vorläufige Entziehung der Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017803311)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, daß die
 Fahrerlaubnis entzogen werden wird (§ 69 des Strafgesetzbuches), so
@@ -4951,6 +5123,7 @@ beschlagnahmt werden (§ 94 Abs. 3, § 98).
 
 
 #### § 111b Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE017906311)
 
 (1) Ist die Annahme begründet, dass die Voraussetzungen der Einziehung
 oder Unbrauchbarmachung eines Gegenstandes vorliegen, so kann er zur
@@ -4962,6 +5135,7 @@ werden. § 94 Absatz 3 bleibt unberührt.
 
 
 #### § 111c Vollziehung der Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018003311)
 
 (1) Die Beschlagnahme einer beweglichen Sache wird dadurch vollzogen,
 dass die Sache in Gewahrsam genommen wird. Die Beschlagnahme kann auch
@@ -4996,6 +5170,7 @@ anzuwenden sind, gelten hierbei entsprechend.
 
 
 #### § 111d Wirkung der Vollziehung der Beschlagnahme; Rückgabe beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018104125)
 
 (1) Die Vollziehung der Beschlagnahme eines Gegenstandes hat die
 Wirkung eines Veräußerungsverbotes im Sinne des § 136 des Bürgerlichen
@@ -5019,6 +5194,7 @@ Auszahlungsanspruch tritt an die Stelle des Bargeldes.
 
 
 #### § 111e Vermögensarrest zur Sicherung der Wertersatzeinziehung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018206311)
 
 (1) Ist die Annahme begründet, dass die Voraussetzungen der Einziehung
 von Wertersatz vorliegen, so kann zur Sicherung der Vollstreckung der
@@ -5047,6 +5223,7 @@ steht einer Anordnung nach Absatz 1 nicht entgegen.
 
 
 #### § 111f Vollziehung des Vermögensarrestes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018307311)
 
 (1) Der Vermögensarrest in eine bewegliche Sache, in eine Forderung
 oder ein anderes Vermögensrecht, das nicht der Zwangsvollstreckung in
@@ -5071,6 +5248,7 @@ des Bürgerlichen Gesetzbuchs eingetragen.
 
 
 #### § 111g Aufhebung der Vollziehung des Vermögensarrestes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018404311)
 
 (1) Hinterlegt der Betroffene den nach § 111e Absatz 4 festgesetzten
 Geldbetrag, wird die Vollziehungsmaßnahme aufgehoben.
@@ -5084,6 +5262,7 @@ benötigt.
 
 
 #### § 111h Wirkung der Vollziehung des Vermögensarrestes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018505125)
 
 (1) Die Vollziehung des Vermögensarrestes in einen Gegenstand hat die
 Wirkung eines Veräußerungsverbots im Sinne des § 136 des Bürgerlichen
@@ -5099,6 +5278,7 @@ der Arrestanspruch aus der Straftat erwachsen ist.
 
 
 #### § 111i Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018606125)
 
 (1) Ist jemandem aus der Tat ein Anspruch auf Ersatz des Wertes des
 Erlangten erwachsen und wird das Insolvenzverfahren über das Vermögen
@@ -5128,6 +5308,7 @@ herauszugeben.
 
 
 #### § 111j Verfahren bei der Anordnung der Beschlagnahme und des Vermögensarrestes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072400311)
 
 (1) Beschlagnahme und Vermögensarrest werden durch das Gericht
 angeordnet. Bei Gefahr im Verzug kann die Anordnung auch durch die
@@ -5144,6 +5325,7 @@ Gerichts bestimmt sich nach § 162.
 
 
 #### § 111k Verfahren bei der Vollziehung der Beschlagnahme und des Vermögensarrestes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018706125)
 
 (1) Beschlagnahme und Vermögensarrest werden durch die
 Staatsanwaltschaft vollzogen. Die erforderlichen Eintragungen in das
@@ -5172,6 +5354,7 @@ Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
 
 #### § 111l Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018807125)
 
 (1) Die Staatsanwaltschaft teilt die Vollziehung der Beschlagnahme
 oder des Vermögensarrests demjenigen mit, dem ein Anspruch auf
@@ -5204,6 +5387,7 @@ die Staatsanwaltschaft die Löschung der Bekanntmachung.
 
 
 #### § 111m Verwaltung beschlagnahmter oder gepfändeter Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE018903311)
 
 (1) Die Verwaltung von Gegenständen, die nach § 111c beschlagnahmt
 oder auf Grund eines Vermögensarrestes nach § 111f gepfändet worden
@@ -5219,6 +5403,7 @@ zuständigen Gerichts beantragen.
 
 
 #### § 111n Herausgabe beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019004125)
 
 (1) Wird eine bewegliche Sache, die nach § 94 beschlagnahmt oder auf
 andere Weise sichergestellt oder nach § 111c Absatz 1 beschlagnahmt
@@ -5238,6 +5423,7 @@ sind.
 
 
 #### § 111o Verfahren bei der Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072501125)
 
 (1) Über die Herausgabe entscheidet im vorbereitenden Verfahren und
 nach rechtskräftigem Abschluss des Verfahrens die Staatsanwaltschaft,
@@ -5248,6 +5434,7 @@ die Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
 
 #### § 111p Notveräußerung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072600311)
 
 (1) Ein Gegenstand, der nach § 111c beschlagnahmt oder nach § 111f
 gepfändet worden ist, kann veräußert werden, wenn sein Verderb oder
@@ -5279,6 +5466,7 @@ Veräußerung anordnen.
 
 
 #### § 111q Beschlagnahme von Verkörperungen eines Inhalts und Vorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072701360)
 
 (1) Die Beschlagnahme einer Verkörperung eines Inhalts (§ 11 Absatz 3
 des Strafgesetzbuches) oder einer Vorrichtung im Sinne des § 74d des
@@ -5320,10 +5508,12 @@ beantragt.
 
 
 ### Neunter Abschnitt - Verhaftung und vorläufige Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001002311)
 
 
 
 #### § 112 Voraussetzungen der Untersuchungshaft; Haftgründe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019109125)
 
 (1) Die Untersuchungshaft darf gegen den Beschuldigten angeordnet
 werden, wenn er der Tat dringend verdächtig ist und ein Haftgrund
@@ -5375,6 +5565,7 @@ wenn ein Haftgrund nach Absatz 2 nicht besteht.
 
 
 #### § 112a Haftgrund der Wiederholungsgefahr
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070208125)
 
 (1) Ein Haftgrund besteht auch, wenn der Beschuldigte dringend
 verdächtig ist,
@@ -5417,6 +5608,7 @@ nicht gegeben sind.
 
 
 #### § 113 Untersuchungshaft bei leichteren Taten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019302311)
 
 (1) Ist die Tat nur mit Freiheitsstrafe bis zu sechs Monaten oder mit
 Geldstrafe bis zu einhundertachtzig Tagessätzen bedroht, so darf die
@@ -5440,6 +5632,7 @@ angeordnet werden, wenn der Beschuldigte
 
 
 #### § 114 Haftbefehl
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019402311)
 
 (1) Die Untersuchungshaft wird durch schriftlichen Haftbefehl des
 Richters angeordnet.
@@ -5470,6 +5663,7 @@ anzugeben, daß sie nicht angewandt wurde.
 
 
 #### § 114a Aushändigung des Haftbefehls; Übersetzung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019503311)
 
 Dem Beschuldigten ist bei der Verhaftung eine Abschrift des
 Haftbefehls auszuhändigen; beherrscht er die deutsche Sprache nicht
@@ -5483,6 +5677,7 @@ sowie einer etwaigen Übersetzung unverzüglich nachzuholen.
 
 
 #### § 114b Belehrung des verhafteten Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019610125)
 
 (1) Der verhaftete Beschuldigte ist unverzüglich und schriftlich in
 einer für ihn verständlichen Sprache über seine Rechte zu belehren.
@@ -5572,6 +5767,7 @@ dieser Mitteilungen zukommen lassen kann.
 
 
 #### § 114c Benachrichtigung von Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068502311)
 
 (1) Einem verhafteten Beschuldigten ist unverzüglich Gelegenheit zu
 geben, einen Angehörigen oder eine Person seines Vertrauens zu
@@ -5586,6 +5782,7 @@ Entscheidung über die Fortdauer der Haft.
 
 
 #### § 114d Mitteilungen an die Vollzugsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068602311)
 
 (1) Das Gericht übermittelt der für den Beschuldigten zuständigen
 Vollzugsanstalt mit dem Aufnahmeersuchen eine Abschrift des
@@ -5633,6 +5830,7 @@ zuständigen Gericht die Anklageerhebung mit.
 
 
 #### § 114e Übermittlung von Erkenntnissen durch die Vollzugsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068701311)
 
 Die Vollzugsanstalt übermittelt dem Gericht und der Staatsanwaltschaft
 von Amts wegen beim Vollzug der Untersuchungshaft erlangte
@@ -5644,6 +5842,7 @@ Erkenntnisse mitzuteilen, bleiben unberührt.
 
 
 #### § 115 Vorführung vor den zuständigen Richter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019703311)
 
 (1) Wird der Beschuldigte auf Grund des Haftbefehls ergriffen, so ist
 er unverzüglich dem zuständigen Gericht vorzuführen.
@@ -5665,6 +5864,7 @@ und 5 bleibt unberührt.
 
 
 #### § 115a Vorführung vor den Richter des nächsten Amtsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019803311)
 
 (1) Kann der Beschuldigte nicht spätestens am Tag nach der Ergreifung
 dem zuständigen Gericht vorgeführt werden, so ist er unverzüglich,
@@ -5693,6 +5893,7 @@ gemäß § 115 Abs. 4 zu belehren.
 
 
 #### § 116 Aussetzung des Vollzugs des Haftbefehls
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE019902311)
 
 (1) Der Richter setzt den Vollzug eines Haftbefehls, der lediglich
 wegen Fluchtgefahr gerechtfertigt ist, aus, wenn weniger
@@ -5752,6 +5953,7 @@ des Haftbefehls an, wenn
 
 
 #### § 116a Aussetzung gegen Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020003311)
 
 (1) Die Sicherheit ist durch Hinterlegung in barem Geld, in
 Wertpapieren, durch Pfandbestellung oder durch Bürgschaft geeigneter
@@ -5770,6 +5972,7 @@ bevollmächtigen.
 
 
 #### § 116b Verhältnis von Untersuchungshaft zu anderen freiheitsentziehenden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068801311)
 
 Die Vollstreckung der Untersuchungshaft geht der Vollstreckung der
 Auslieferungshaft, der vorläufigen Auslieferungshaft, der
@@ -5781,6 +5984,7 @@ erfordert.
 
 
 #### § 117 Haftprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020103311)
 
 (1) Solange der Beschuldigte in Untersuchungshaft ist, kann er
 jederzeit die gerichtliche Prüfung beantragen, ob der Haftbefehl
@@ -5802,6 +6006,7 @@ neue Prüfung vornehmen.
 
 
 #### § 118 Verfahren bei der Haftprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020202311)
 
 (1) Bei der Haftprüfung wird auf Antrag des Beschuldigten oder nach
 dem Ermessen des Gerichts von Amts wegen nach mündlicher Verhandlung
@@ -5828,6 +6033,7 @@ Eingang des Antrags anberaumt werden.
 
 
 #### § 118a Mündliche Verhandlung bei der Haftprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020305125)
 
 (1) Von Ort und Zeit der mündlichen Verhandlung sind die
 Staatsanwaltschaft sowie der Beschuldigte und der Verteidiger zu
@@ -5857,6 +6063,7 @@ binnen einer Woche zu erlassen.
 
 
 #### § 118b Anwendung von Rechtsmittelvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020402311)
 
 Für den Antrag auf Haftprüfung (§ 117 Abs. 1) und den Antrag auf
 mündliche Verhandlung gelten die §§ 297 bis 300 und 302 Abs. 2
@@ -5864,6 +6071,7 @@ entsprechend.
 
 
 #### § 119 Haftgrundbezogene Beschränkungen während der Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020504125)
 
 (1) Soweit dies zur Abwehr einer Flucht-, Verdunkelungs- oder
 Wiederholungsgefahr (§§ 112, 112a) erforderlich ist, können einem
@@ -6010,6 +6218,7 @@ Zuständigkeit des Gerichts bestimmt sich auch in diesem Fall nach §
 
 
 #### § 119a Gerichtliche Entscheidung über eine Maßnahme der Vollzugsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068901311)
 
 (1) Gegen eine behördliche Entscheidung oder Maßnahme im
 Untersuchungshaftvollzug kann gerichtliche Entscheidung beantragt
@@ -6026,6 +6235,7 @@ erheben.
 
 
 #### § 120 Aufhebung des Haftbefehls
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020602311)
 
 (1) Der Haftbefehl ist aufzuheben, sobald die Voraussetzungen der
 Untersuchungshaft nicht mehr vorliegen oder sich ergibt, daß die
@@ -6045,6 +6255,7 @@ anordnen.
 
 
 #### § 121 Fortdauer der Untersuchungshaft über sechs Monate
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020703311)
 
 (1) Solange kein Urteil ergangen ist, das auf Freiheitsstrafe oder
 eine freiheitsentziehende Maßregel der Besserung und Sicherung
@@ -6076,6 +6287,7 @@ Bundesgerichtshof.
 
 
 #### § 122 Besondere Haftprüfung durch das Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020802311)
 
 (1) In den Fällen des § 121 legt das zuständige Gericht die Akten
 durch Vermittlung der Staatsanwaltschaft dem Oberlandesgericht zur
@@ -6115,6 +6327,7 @@ dieser an die Stelle des Oberlandesgerichts.
 
 
 #### § 122a Höchstdauer der Untersuchungshaft bei Wiederholungsgefahr
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE020902311)
 
 In den Fällen des § 121 Abs. 1 darf der Vollzug der Haft nicht länger
 als ein Jahr aufrechterhalten werden, wenn sie auf den Haftgrund des §
@@ -6122,6 +6335,7 @@ als ein Jahr aufrechterhalten werden, wenn sie auf den Haftgrund des §
 
 
 #### § 123 Aufhebung der Vollzugsaussetzung dienender Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021002311)
 
 (1) Eine Maßnahme, die der Aussetzung des Haftvollzugs dient (§ 116),
 ist aufzuheben, wenn
@@ -6148,6 +6362,7 @@ verhaftet werden kann.
 
 
 #### § 124 Verfall der geleisteten Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021102311)
 
 (1) Eine noch nicht frei gewordene Sicherheit verfällt der
 Staatskasse, wenn der Beschuldigte sich der Untersuchung oder dem
@@ -6170,6 +6385,7 @@ eines rechtskräftigen Zivilendurteils.
 
 
 #### § 125 Zuständigkeit für den Erlass des Haftbefehls
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021202311)
 
 (1) Vor Erhebung der öffentlichen Klage erläßt der Richter bei dem
 Amtsgericht, in dessen Bezirk ein Gerichtsstand begründet ist oder der
@@ -6184,6 +6400,7 @@ kann auch der Vorsitzende den Haftbefehl erlassen.
 
 
 #### § 126 Zuständigkeit für weitere gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021304125)
 
 (1) Vor Erhebung der öffentlichen Klage ist für die weiteren
 gerichtlichen Entscheidungen und Maßnahmen, die sich auf die
@@ -6226,6 +6443,7 @@ das Verfahren gilt § 121b des Strafvollzugsgesetzes entsprechend.
 
 
 #### § 126a Einstweilige Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021506125)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, daß jemand eine
 rechtswidrige Tat im Zustand der Schuldunfähigkeit oder verminderten
@@ -6255,6 +6473,7 @@ Absatz 1 bis 3 auch diesem bekannt zu geben.
 
 
 #### § 127 Vorläufige Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021603311)
 
 (1) Wird jemand auf frischer Tat betroffen oder verfolgt, so ist, wenn
 er der Flucht verdächtig ist oder seine Identität nicht sofort
@@ -6278,6 +6497,7 @@ Beamten des Polizeidienstes gelten die §§ 114a bis 114c entsprechend.
 
 
 #### § 127a Absehen von der Anordnung oder Aufrechterhaltung der vorläufigen Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021702311)
 
 (1) Hat der Beschuldigte im Geltungsbereich dieses Gesetzes keinen
 festen Wohnsitz oder Aufenthalt und liegen die Voraussetzungen eines
@@ -6299,6 +6519,7 @@ werden, seine Festnahme anzuordnen oder aufrechtzuerhalten, wenn
 
 
 #### § 127b Vorläufige Festnahme und Haftbefehl bei beschleunigtem Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064002311)
 
 (1) Die Staatsanwaltschaft und die Beamten des Polizeidienstes sind
 zur vorläufigen Festnahme eines auf frischer Tat Betroffenen oder
@@ -6326,6 +6547,7 @@ beschleunigten Verfahrens zuständige Richter entscheiden.
 
 
 #### § 128 Vorführung bei vorläufiger Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021802311)
 
 (1) Der Festgenommene ist, sofern er nicht wieder in Freiheit gesetzt
 wird, unverzüglich, spätestens am Tage nach der Festnahme, dem Richter
@@ -6340,6 +6562,7 @@ oder einen Unterbringungsbefehl. § 115 Abs. 4 gilt entsprechend.
 
 
 #### § 129 Vorführung bei vorläufiger Festnahme nach Anklageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE021902311)
 
 Ist gegen den Festgenommenen bereits die öffentliche Klage erhoben, so
 ist er entweder sofort oder auf Verfügung des Richters, dem er
@@ -6350,6 +6573,7 @@ entscheiden.
 
 
 #### § 130 Haftbefehl vor Stellung eines Strafantrags
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022002311)
 
 Wird wegen Verdachts einer Straftat, die nur auf Antrag verfolgbar
 ist, ein Haftbefehl erlassen, bevor der Antrag gestellt ist, so ist
@@ -6364,10 +6588,12 @@ Strafverlangen verfolgbar ist. § 120 Abs. 3 ist anzuwenden.
 
 
 ### Abschnitt 9a - Weitere Maßnahmen zur Sicherstellung der Strafverfolgung und Strafvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001104311)
 
 
 
 #### § 131 Ausschreibung zur Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022104311)
 
 (1) Auf Grund eines Haftbefehls oder eines Unterbringungsbefehls
 können der Richter oder die Staatsanwaltschaft und, wenn Gefahr im
@@ -6407,6 +6633,7 @@ angegeben werden.
 
 
 #### § 131a Ausschreibung zur Aufenthaltsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065101311)
 
 (1) Die Ausschreibung zur Aufenthaltsermittlung eines Beschuldigten
 oder eines Zeugen darf angeordnet werden, wenn sein Aufenthalt nicht
@@ -6437,6 +6664,7 @@ Fahndungshilfsmitteln der Strafverfolgungsbehörden vorgenommen werden.
 
 
 #### § 131b Veröffentlichung von Abbildungen des Beschuldigten oder Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065201311)
 
 (1) Die Veröffentlichung von Abbildungen eines Beschuldigten, der
 einer Straftat von erheblicher Bedeutung verdächtig ist, ist auch
@@ -6456,6 +6684,7 @@ nicht Beschuldigter ist.
 
 
 #### § 131c Anordnung und Bestätigung von Fahndungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065302311)
 
 (1) Fahndungen nach § 131a Abs. 3 und § 131b dürfen nur durch den
 Richter, bei Gefahr im Verzug auch durch die Staatsanwaltschaft und
@@ -6477,6 +6706,7 @@ Woche von der Staatsanwaltschaft bestätigt werden.
 
 
 #### § 132 Sicherheitsleistung, Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022203311)
 
 (1) Hat der Beschuldigte, der einer Straftat dringend verdächtig ist,
 im Geltungsbereich dieses Gesetzes keinen festen Wohnsitz oder
@@ -6506,10 +6736,12 @@ gelten entsprechend.
 
 
 ### Abschnitt 9b - Vorläufiges Berufsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001203311)
 
 
 
 #### § 132a Anordnung und Aufhebung eines vorläufigen Berufsverbots
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022302311)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, daß ein
 Berufsverbot angeordnet werden wird (§ 70 des Strafgesetzbuches), so
@@ -6523,10 +6755,12 @@ anordnet.
 
 
 ### Zehnter Abschnitt - Vernehmung des Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001302311)
 
 
 
 #### § 133 Ladung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022402311)
 
 (1) Der Beschuldigte ist zur Vernehmung schriftlich zu laden.
 
@@ -6535,6 +6769,7 @@ Ausbleibens seine Vorführung erfolgen werde.
 
 
 #### § 134 Vorführung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022502311)
 
 (1) Die sofortige Vorführung des Beschuldigten kann verfügt werden,
 wenn Gründe vorliegen, die den Erlaß eines Haftbefehls rechtfertigen
@@ -6546,6 +6781,7 @@ anzugeben.
 
 
 #### § 135 Sofortige Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022602311)
 
 Der Beschuldigte ist unverzüglich dem Richter vorzuführen und von
 diesem zu vernehmen. Er darf auf Grund des Vorführungsbefehls nicht
@@ -6554,6 +6790,7 @@ der Vorführung folgt.
 
 
 #### § 136 Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022712125)
 
 (1) Bei Beginn der Vernehmung ist dem Beschuldigten zu eröffnen,
 welche Tat ihm zu Last gelegt wird und welche Strafvorschriften in
@@ -6601,6 +6838,7 @@ aufgezeichnet werden. Sie ist aufzuzeichnen, wenn
 
 
 #### § 136a Verbotene Vernehmungsmethoden; Beweisverwertungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022802311)
 
 (1) Die Freiheit der Willensentschließung und der Willensbetätigung
 des Beschuldigten darf nicht beeinträchtigt werden durch Mißhandlung,
@@ -6621,10 +6859,12 @@ werden, wenn der Beschuldigte der Verwertung zustimmt.
 
 
 ### Elfter Abschnitt - Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001402311)
 
 
 
 #### § 137 Recht des Beschuldigten auf Hinzuziehung eines Verteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE022902311)
 
 (1) Der Beschuldigte kann sich in jeder Lage des Verfahrens des
 Beistandes eines Verteidigers bedienen. Die Zahl der gewählten
@@ -6636,6 +6876,7 @@ entsprechend.
 
 
 #### § 138 Wahlverteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023005311)
 
 (1) Zu Verteidigern können Rechtsanwälte sowie die Rechtslehrer an
 deutschen Hochschulen im Sinne des Hochschulrahmengesetzes mit
@@ -6655,6 +6896,7 @@ wählen.
 
 
 #### § 138a Ausschließung des Verteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023104311)
 
 (1) Ein Verteidiger ist von der Mitwirkung in einem Verfahren
 auszuschließen, wenn er dringend oder in einem die Eröffnung des
@@ -6722,6 +6964,7 @@ entsprechend.
 
 
 #### § 138b Ausschließung bei Gefahr für die Sicherheit der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023202311)
 
 Von der Mitwirkung in einem Verfahren, das eine der in § 74a Abs. 1
 Nr. 3 und § 120 Abs. 1 Nr. 3 des Gerichtsverfassungsgesetzes genannten
@@ -6736,6 +6979,7 @@ Nr. 1 gilt entsprechend.
 
 
 #### § 138c Zuständigkeit für die Ausschließungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023305125)
 
 (1) Die Entscheidungen nach den §§ 138a und 138b trifft das
 Oberlandesgericht. Werden im vorbereitenden Verfahren die Ermittlungen
@@ -6791,6 +7035,7 @@ das Gericht, bei dem das Verfahren anhängig ist.
 
 
 #### § 138d Verfahren bei Ausschließung des Verteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023405125)
 
 (1) Über die Ausschließung des Verteidigers wird nach mündlicher
 Verhandlung entschieden.
@@ -6826,6 +7071,7 @@ nicht anfechtbar.
 
 
 #### § 139 Übertragung der Verteidigung auf einen Referendar
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023503311)
 
 Der als Verteidiger gewählte Rechtsanwalt kann mit Zustimmung dessen,
 der ihn gewählt hat, die Verteidigung einem Rechtskundigen, der die
@@ -6834,6 +7080,7 @@ mindestens einem Jahr und drei Monaten beschäftigt ist, übertragen.
 
 
 #### § 140 Notwendige Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023611125)
 
 (1) Ein Fall der notwendigen Verteidigung liegt vor, wenn
 
@@ -6893,6 +7140,7 @@ der Beschuldigte nicht selbst verteidigen kann.
 
 
 #### § 141 Zeitpunkt der Bestellung eines Pflichtverteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023707125)
 
 (1) In den Fällen der notwendigen Verteidigung wird dem Beschuldigten,
 dem der Tatvorwurf eröffnet worden ist und der noch keinen Verteidiger
@@ -6938,6 +7186,7 @@ vorgenommen werden sollen.
 
 
 #### § 141a Vernehmungen und Gegenüberstellungen vor der Bestellung eines Pflichtverteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075400125)
 
 Im Vorverfahren dürfen Vernehmungen des Beschuldigten oder
 Gegenüberstellungen mit dem Beschuldigten vor der Bestellung eines
@@ -6959,6 +7208,7 @@ einen von ihm zu wählenden Verteidiger zu befragen, bleibt unberührt.
 
 
 #### § 142 Zuständigkeit und Bestellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023808125)
 
 (1) Der Antrag des Beschuldigten nach § 141 Absatz 1 Satz 1 ist vor
 Erhebung der Anklage bei den Behörden oder Beamten des Polizeidienstes
@@ -7022,6 +7272,7 @@ Absatz 2 Satz 1 Nummer 1 stellen kann.
 
 
 #### § 143 Dauer und Aufhebung der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE023903125)
 
 (1) Die Bestellung des Pflichtverteidigers endet mit der Einstellung
 oder dem rechtskräftigen Abschluss des Strafverfahrens einschließlich
@@ -7044,6 +7295,7 @@ anfechtbar.
 
 
 #### § 143a Verteidigerwechsel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075500125)
 
 (1) Die Bestellung des Pflichtverteidigers ist aufzuheben, wenn der
 Beschuldigte einen anderen Verteidiger gewählt und dieser die Wahl
@@ -7094,6 +7346,7 @@ Beschwerde anfechtbar.
 
 
 #### § 144 Zusätzliche Pflichtverteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024002125)
 
 (1) In den Fällen der notwendigen Verteidigung können dem
 Beschuldigten zu seinem gewählten oder einem gemäß § 141 bestellten
@@ -7107,6 +7360,7 @@ mehr erforderlich ist. § 142 Absatz 5 bis 7 Satz 1 gilt entsprechend.
 
 
 #### § 145 Ausbleiben oder Weigerung des Pflichtverteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024103125)
 
 (1) Wenn in einem Falle, in dem die Verteidigung notwendig ist, der
 Verteidiger in der Hauptverhandlung ausbleibt, sich unzeitig entfernt
@@ -7128,6 +7382,7 @@ aufzuerlegen.
 
 
 #### § 145a Zustellungen an den Verteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024205125)
 
 (1) Der gewählte Verteidiger, dessen Bevollmächtigung nachgewiesen
 ist, sowie der bestellte Verteidiger gelten als ermächtigt,
@@ -7151,6 +7406,7 @@ dabei erhält er formlos eine Abschrift der Entscheidung.
 
 
 #### § 146 Verbot der Mehrfachverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024303311)
 
 Ein Verteidiger kann nicht gleichzeitig mehrere derselben Tat
 Beschuldigte verteidigen. In einem Verfahren kann er auch nicht
@@ -7158,6 +7414,7 @@ gleichzeitig mehrere verschiedener Taten Beschuldigte verteidigen.
 
 
 #### § 146a Zurückweisung eines Wahlverteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062202311)
 
 (1) Ist jemand als Verteidiger gewählt worden, obwohl die
 Voraussetzungen des § 137 Abs. 1 Satz 2 oder des § 146 vorliegen, so
@@ -7176,6 +7433,7 @@ Abs. 1 Satz 2 oder des § 146 vorlagen.
 
 
 #### § 147 Akteneinsichtsrecht, Besichtigungsrecht; Auskunftsrecht des Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069102311)
 
 (1) Der Verteidiger ist befugt, die Akten, die dem Gericht vorliegen
 oder diesem im Falle der Erhebung der Anklage vorzulegen wären,
@@ -7230,6 +7488,7 @@ sobald das Recht zur Akteneinsicht wieder uneingeschränkt besteht.
 
 
 #### § 148 Kommunikation des Beschuldigten mit dem Verteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024504311)
 
 (1) Dem Beschuldigten ist, auch wenn er sich nicht auf freiem Fuß
 befindet, schriftlicher und mündlicher Verkehr mit dem Verteidiger
@@ -7251,6 +7510,7 @@ anderen Gegenständen ausschließen.
 
 
 #### § 148a Durchführung von Überwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024602311)
 
 (1) Für die Durchführung von Überwachungsmaßnahmen nach § 148 Abs. 2
 ist der Richter bei dem Amtsgericht zuständig, in dessen Bezirk die
@@ -7268,6 +7528,7 @@ unberührt.
 
 
 #### § 149 Zulassung von Beiständen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024703311)
 
 (1) Der Ehegatte oder Lebenspartner eines Angeklagten ist in der
 Hauptverhandlung als Beistand zuzulassen und auf sein Verlangen zu
@@ -7281,24 +7542,29 @@ richterlichen Ermessen.
 
 
 #### § 150 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024801309)
 
 
 
 ## Zweites Buch - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001502311)
 
 
 
 ### Erster Abschnitt - Öffentliche Klage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001602311)
 
 
 
 #### § 151 Anklagegrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE024902311)
 
 Die Eröffnung einer gerichtlichen Untersuchung ist durch die Erhebung
 einer Klage bedingt.
 
 
 #### § 152 Anklagebehörde; Legalitätsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025002311)
 
 (1) Zur Erhebung der öffentlichen Klage ist die Staatsanwaltschaft
 berufen.
@@ -7309,6 +7575,7 @@ sofern zureichende tatsächliche Anhaltspunkte vorliegen.
 
 
 #### § 152a Landesgesetzliche Vorschriften über die Strafverfolgung von Abgeordneten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025102311)
 
 Landesgesetzliche Vorschriften über die Voraussetzungen, unter denen
 gegen Mitglieder eines Organs der Gesetzgebung eine Strafverfolgung
@@ -7317,6 +7584,7 @@ Länder der Bundesrepublik Deutschland und den Bund wirksam.
 
 
 #### § 153 Absehen von der Verfolgung bei Geringfügigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025203311)
 
 (1) Hat das Verfahren ein Vergehen zum Gegenstand, so kann die
 Staatsanwaltschaft mit Zustimmung des für die Eröffnung des
@@ -7338,6 +7606,7 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 
 
 #### § 153a Absehen von der Verfolgung unter Auflagen und Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025311125)
 
 (1) Mit Zustimmung des für die Eröffnung des Hauptverfahrens
 zuständigen Gerichts und des Beschuldigten kann die Staatsanwaltschaft
@@ -7419,6 +7688,7 @@ teilzunehmen.
 
 
 #### § 153b Absehen von der Verfolgung bei möglichem Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025402311)
 
 (1) Liegen die Voraussetzungen vor, unter denen das Gericht von Strafe
 absehen könnte, so kann die Staatsanwaltschaft mit Zustimmung des
@@ -7431,6 +7701,7 @@ Angeschuldigten das Verfahren einstellen.
 
 
 #### § 153c Absehen von der Verfolgung bei Auslandstaten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025505311)
 
 (1) Die Staatsanwaltschaft kann von der Verfolgung von Straftaten
 absehen,
@@ -7486,6 +7757,7 @@ zu.
 
 
 #### § 153d Absehen von der Verfolgung bei Staatsschutzdelikten wegen überwiegender öffentlicher Interessen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025602311)
 
 (1) Der Generalbundesanwalt kann von der Verfolgung von Straftaten der
 in § 74a Abs. 1 Nr. 2 bis 6 und in § 120 Abs. 1 Nr. 2 bis 7 des
@@ -7501,6 +7773,7 @@ Lage des Verfahrens zurücknehmen und das Verfahren einstellen.
 
 
 #### § 153e Absehen von der Verfolgung bei Staatsschutzdelikten wegen tätiger Reue
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025702311)
 
 (1) Hat das Verfahren Straftaten der in § 74a Abs. 1 Nr. 2 bis 4 und
 in § 120 Abs. 1 Nr. 2 bis 7 des Gerichtsverfassungsgesetzes
@@ -7524,6 +7797,7 @@ Zustimmung des Generalbundesanwalts das Verfahren unter den in Absatz
 
 
 #### § 153f Absehen von der Verfolgung bei Straftaten nach dem Völkerstrafgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067602311)
 
 (1) Die Staatsanwaltschaft kann von der Verfolgung einer Tat, die nach
 den §§ 6 bis 15 des Völkerstrafgesetzbuches strafbar ist, in den
@@ -7569,6 +7843,7 @@ Lage des Verfahrens zurücknehmen und das Verfahren einstellen.
 
 
 #### § 154 Teileinstellung bei mehreren Taten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025802311)
 
 (1) Die Staatsanwaltschaft kann von der Verfolgung einer Tat absehen,
 
@@ -7611,6 +7886,7 @@ zur Wiederaufnahme eines Gerichtsbeschlusses.
 
 
 #### § 154a Beschränkung der Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE025902311)
 
 (1) Fallen einzelne abtrennbare Teile einer Tat oder einzelne von
 mehreren Gesetzesverletzungen, die durch dieselbe Tat begangen worden
@@ -7643,6 +7919,7 @@ einbezogen, so ist § 265 Abs. 4 entsprechend anzuwenden.
 
 
 #### § 154b Absehen von der Verfolgung bei Auslieferung und Ausweisung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026004311)
 
 (1) Von der Erhebung der öffentlichen Klage kann abgesehen werden,
 wenn der Beschuldigte wegen der Tat einer ausländischen Regierung
@@ -7668,6 +7945,7 @@ beträgt.
 
 
 #### § 154c Absehen von der Verfolgung des Opfers einer Nötigung oder Erpressung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026104311)
 
 (1) Ist eine Nötigung oder Erpressung (§§ 240, 253 des
 Strafgesetzbuches) durch die Drohung begangen worden, eine Straftat zu
@@ -7684,6 +7962,7 @@ eine Sühne unerlässlich ist.
 
 
 #### § 154d Verfolgung bei zivil- oder verwaltungsrechtlicher Vorfrage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026202311)
 
 Hängt die Erhebung der öffentlichen Klage wegen eines Vergehens von
 der Beurteilung einer Frage ab, die nach bürgerlichem Recht oder nach
@@ -7695,6 +7974,7 @@ die Staatsanwaltschaft das Verfahren einstellen.
 
 
 #### § 154e Absehen von der Verfolgung bei falscher Verdächtigung oder Beleidigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026303311)
 
 (1) Von der Erhebung der öffentlichen Klage wegen einer falschen
 Verdächtigung oder Beleidigung (§§ 164, 185 bis 188 des
@@ -7713,6 +7993,7 @@ Verfolgung der falschen Verdächtigung oder Beleidigung.
 
 
 #### § 154f Einstellung des Verfahrens bei vorübergehenden Hindernissen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069301311)
 
 Steht der Eröffnung oder Durchführung des Hauptverfahrens für längere
 Zeit die Abwesenheit des Beschuldigten oder ein anderes in seiner
@@ -7723,6 +8004,7 @@ und die Beweise so weit wie nötig gesichert hat.
 
 
 #### § 155 Umfang der gerichtlichen Untersuchung und Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026402311)
 
 (1) Die Untersuchung und Entscheidung erstreckt sich nur auf die in
 der Klage bezeichnete Tat und auf die durch die Klage beschuldigten
@@ -7734,6 +8016,7 @@ Anwendung des Strafgesetzes an die gestellten Anträge nicht gebunden.
 
 
 #### § 155a Täter-Opfer-Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064901311)
 
 Die Staatsanwaltschaft und das Gericht sollen in jedem Stadium des
 Verfahrens die Möglichkeiten prüfen, einen Ausgleich zwischen
@@ -7743,6 +8026,7 @@ darf die Eignung nicht angenommen werden.
 
 
 #### § 155b Durchführung des Täter-Opfer-Ausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065004125)
 
 (1) Die Staatsanwaltschaft und das Gericht können zum Zweck des Täter-
 Opfer-Ausgleichs oder der Schadenswiedergutmachung einer von ihnen mit
@@ -7780,12 +8064,14 @@ mit.
 
 
 #### § 156 Anklagerücknahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026502311)
 
 Die öffentliche Klage kann nach Eröffnung des Hauptverfahrens nicht
 zurückgenommen werden.
 
 
 #### § 157 Bezeichnung als Angeschuldigter oder Angeklagter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026602311)
 
 Im Sinne dieses Gesetzes ist
 Angeschuldigter der Beschuldigte, gegen den die öffentliche Klage
@@ -7795,10 +8081,12 @@ Eröffnung des Hauptverfahrens beschlossen ist.
 
 
 ### Zweiter Abschnitt - Vorbereitung der öffentlichen Klage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001702311)
 
 
 
 #### § 158 Strafanzeige; Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026705125)
 
 (1) Die Anzeige einer Straftat und der Strafantrag können bei der
 Staatsanwaltschaft, den Behörden und Beamten des Polizeidienstes und
@@ -7843,6 +8131,7 @@ diesen Fällen auf Antrag in eine ihm verständliche Sprache zu
 
 
 #### § 159 Anzeigepflicht bei Leichenfund und Verdacht auf unnatürlichen Tod
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026802311)
 
 (1) Sind Anhaltspunkte dafür vorhanden, daß jemand eines nicht
 natürlichen Todes gestorben ist, oder wird der Leichnam eines
@@ -7855,6 +8144,7 @@ Staatsanwaltschaft erforderlich.
 
 
 #### § 160 Pflicht zur Sachverhaltsaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE026903311)
 
 (1) Sobald die Staatsanwaltschaft durch eine Anzeige oder auf anderem
 Wege von dem Verdacht einer Straftat Kenntnis erhält, hat sie zu ihrer
@@ -7875,6 +8165,7 @@ entgegenstehen.
 
 
 #### § 160a Maßnahmen bei zeugnisverweigerungsberechtigten Berufsgeheimnisträgern
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068405311)
 
 (1) Eine Ermittlungsmaßnahme, die sich gegen eine in § 53 Absatz 1
 Satz 1 Nummer 1, 2 oder Nummer 4 genannte Person, einen Rechtsanwalt
@@ -7917,6 +8208,7 @@ erteilt ist.
 
 
 #### § 160b Erörterung des Verfahrensstands mit den Verfahrensbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069601311)
 
 Die Staatsanwaltschaft kann den Stand des Verfahrens mit den
 Verfahrensbeteiligten erörtern, soweit dies geeignet erscheint, das
@@ -7925,6 +8217,7 @@ aktenkundig zu machen.
 
 
 #### § 161 Allgemeine Ermittlungsbefugnis der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027006125)
 
 (1) Zu dem in § 160 Abs. 1 bis 3 bezeichneten Zweck ist die
 Staatsanwaltschaft befugt, von allen Behörden Auskunft zu verlangen
@@ -7961,6 +8254,7 @@ nachzuholen.
 
 
 #### § 161a Vernehmung von Zeugen und Sachverständigen durch die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027104311)
 
 (1) Zeugen und Sachverständige sind verpflichtet, auf Ladung vor der
 Staatsanwaltschaft zu erscheinen und zur Sache auszusagen oder ihr
@@ -7992,6 +8286,7 @@ entsprechend.
 
 
 #### § 162 Ermittlungsrichter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027204311)
 
 (1) Erachtet die Staatsanwaltschaft die Vornahme einer gerichtlichen
 Untersuchungshandlung für erforderlich, so stellt sie ihre Anträge vor
@@ -8018,6 +8313,7 @@ Wiederaufnahmeverfahren zuständige Gericht zuständig.
 
 
 #### § 163 Aufgaben der Polizei im Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027307360)
 
 (1) Die Behörden und Beamten des Polizeidienstes haben Straftaten zu
 erforschen und alle keinen Aufschub gestattenden Anordnungen zu
@@ -8081,6 +8377,7 @@ entsprechend.
 
 
 #### § 163a Vernehmung des Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027410125)
 
 (1) Der Beschuldigte ist spätestens vor dem Abschluß der Ermittlungen
 zu vernehmen, es sei denn, daß das Verfahren zur Einstellung führt. In
@@ -8109,6 +8406,7 @@ Gerichtsverfassungsgesetzes gelten entsprechend.
 
 
 #### § 163b Maßnahmen zur Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027502311)
 
 (1) Ist jemand einer Straftat verdächtig, so können die
 Staatsanwaltschaft und die Beamten des Polizeidienstes die zur
@@ -8130,6 +8428,7 @@ gegen den Willen der betroffenen Person getroffen werden.
 
 
 #### § 163c Freiheitsentziehung zur Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027603311)
 
 (1) Eine von einer Maßnahme nach § 163b betroffene Person darf in
 keinem Fall länger als zur Feststellung ihrer Identität unerläßlich
@@ -8150,6 +8449,7 @@ Unterlagen zu vernichten.
 
 
 #### § 163d Speicherung und Abgleich von Daten aus Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061607125)
 
 (1) Begründen bestimmte Tatsachen den Verdacht, daß
 
@@ -8203,6 +8503,7 @@ die Löschung ist die Staatsanwaltschaft zu unterrichten.
 
 
 #### § 163e Ausschreibung zur Beobachtung bei polizeilichen Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071701360)
 
 (1) Die Ausschreibung zur Beobachtung anläßlich von polizeilichen
 Kontrollen, die die Feststellung der Personalien zulassen, kann
@@ -8243,6 +8544,7 @@ ist zulässig, soweit die Voraussetzungen der Anordnung fortbestehen.
 
 
 #### § 163f Längerfristige Observation
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065406125)
 
 (1) Liegen zureichende tatsächliche Anhaltspunkte dafür vor, dass eine
 Straftat von erheblicher Bedeutung begangen worden ist, so darf eine
@@ -8282,6 +8584,7 @@ wenn sie nicht binnen drei Werktagen von dem Gericht bestätigt wird. §
 
 
 #### § 163g Automatische Kennzeichenerfassung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE076000125)
 
 (1) Örtlich begrenzt dürfen im öffentlichen Verkehrsraum ohne das
 Wissen der betroffenen Personen Kennzeichen von Kraftfahrzeugen sowie
@@ -8335,6 +8638,7 @@ der Zweck der Maßnahmen erreicht, sind diese unverzüglich zu beenden.
 
 
 #### § 164 Festnahme von Störern
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027702311)
 
 Bei Amtshandlungen an Ort und Stelle ist der Beamte, der sie leitet,
 befugt, Personen, die seine amtliche Tätigkeit vorsätzlich stören oder
@@ -8345,6 +8649,7 @@ festhalten zu lassen.
 
 
 #### § 165 Richterliche Untersuchungshandlungen bei Gefahr im Verzug
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027802311)
 
 Bei Gefahr im Verzug kann der Richter die erforderlichen
 Untersuchungshandlungen auch ohne Antrag vornehmen, wenn ein
@@ -8352,6 +8657,7 @@ Staatsanwalt nicht erreichbar ist.
 
 
 #### § 166 Beweisanträge des Beschuldigten bei richterlichen Vernehmungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE027902311)
 
 (1) Wird der Beschuldigte von dem Richter vernommen und beantragt er
 bei dieser Vernehmung zu seiner Entlastung einzelne Beweiserhebungen,
@@ -8365,12 +8671,14 @@ ersuchen.
 
 
 #### § 167 Weitere Verfügung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028002311)
 
 In den Fällen der §§ 165 und 166 gebührt der Staatsanwaltschaft die
 weitere Verfügung.
 
 
 #### § 168 Protokoll über richterliche Untersuchungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028103125)
 
 Über jede richterliche Untersuchungshandlung ist ein Protokoll
 aufzunehmen. Für die Protokollführung ist ein Urkundsbeamter der
@@ -8383,6 +8691,7 @@ unterschreiben.
 
 
 #### § 168a Art der Protokollierung; Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028206125)
 
 (1) Das Protokoll muß Ort und Tag der Verhandlung sowie die Namen der
 mitwirkenden und beteiligten Personen angeben und ersehen lassen, ob
@@ -8428,6 +8737,7 @@ Löschung sind aktenkundig zu machen.
 
 
 #### § 168b Protokoll über ermittlungsbehördliche Untersuchungshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028308125)
 
 (1) Das Ergebnis der Untersuchungshandlungen der Ermittlungsbehörden
 ist aktenkundig zu machen.
@@ -8448,6 +8758,7 @@ für das Einverständnis des Beschuldigten gemäß § 141a Satz 1.
 
 
 #### § 168c Anwesenheitsrecht bei richterlichen Vernehmungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028404125)
 
 (1) Bei der richterlichen Vernehmung des Beschuldigten ist der
 Staatsanwaltschaft und dem Verteidiger die Anwesenheit gestattet.
@@ -8483,6 +8794,7 @@ Anwesenheit Berechtigten keinen Anspruch.
 
 
 #### § 168d Anwesenheitsrecht bei Einnahme eines richterlichen Augenscheins
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028502311)
 
 (1) Bei der Einnahme eines richterlichen Augenscheins ist der
 Staatsanwaltschaft, dem Beschuldigten und dem Verteidiger die
@@ -8501,6 +8813,7 @@ wird.
 
 
 #### § 168e Vernehmung von Zeugen getrennt von Anwesenheitsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064301311)
 
 Besteht die dringende Gefahr eines schwerwiegenden Nachteils für das
 Wohl des Zeugen, wenn er in Gegenwart der Anwesenheitsberechtigten
@@ -8514,6 +8827,7 @@ unanfechtbar.
 
 
 #### § 169 Ermittlungsrichter des Oberlandesgerichts und des Bundesgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028603311)
 
 (1) In Sachen, die nach den §§ 120 oder 120b des
 Gerichtsverfassungsgesetzes zur Zuständigkeit des Oberlandesgerichts
@@ -8529,12 +8843,14 @@ wenn sie nicht im Bezirk dieses Gerichts vorzunehmen sind.
 
 
 #### § 169a Vermerk über den Abschluss der Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE028702311)
 
 Erwägt die Staatsanwaltschaft, die öffentliche Klage zu erheben, so
 vermerkt sie den Abschluß der Ermittlungen in den Akten.
 
 
 #### § 170 Entscheidung über eine Anklageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029002311)
 
 (1) Bieten die Ermittlungen genügenden Anlaß zur Erhebung der
 öffentlichen Klage, so erhebt die Staatsanwaltschaft sie durch
@@ -8548,6 +8864,7 @@ besonderes Interesse an der Bekanntgabe ersichtlich ist.
 
 
 #### § 171 Einstellungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029103311)
 
 Gibt die Staatsanwaltschaft einem Antrag auf Erhebung der öffentlichen
 Klage keine Folge oder verfügt sie nach dem Abschluß der Ermittlungen
@@ -8563,6 +8880,7 @@ Klage mit der Nebenklage anzuschließen, soweit sie einen Antrag auf
 
 
 #### § 172 Beschwerde des Verletzten; Klageerzwingungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029204311)
 
 (1) Ist der Antragsteller zugleich der Verletzte, so steht ihm gegen
 den Bescheid nach § 171 binnen zwei Wochen nach der Bekanntmachung die
@@ -8596,6 +8914,7 @@ sinngemäß anzuwenden.
 
 
 #### § 173 Verfahren des Gerichts nach Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029302311)
 
 (1) Auf Verlangen des Gerichts hat ihm die Staatsanwaltschaft die
 bisher von ihr geführten Verhandlungen vorzulegen.
@@ -8609,6 +8928,7 @@ Richter betrauen.
 
 
 #### § 174 Verwerfung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029402311)
 
 (1) Ergibt sich kein genügender Anlaß zur Erhebung der öffentlichen
 Klage, so verwirft das Gericht den Antrag und setzt den Antragsteller,
@@ -8620,6 +8940,7 @@ Grund neuer Tatsachen oder Beweismittel erhoben werden.
 
 
 #### § 175 Anordnung der Anklageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029502311)
 
 Erachtet das Gericht nach Anhörung des Beschuldigten den Antrag für
 begründet, so beschließt es die Erhebung der öffentlichen Klage. Die
@@ -8627,6 +8948,7 @@ Durchführung dieses Beschlusses liegt der Staatsanwaltschaft ob.
 
 
 #### § 176 Sicherheitsleistung durch den Antragsteller
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029603311)
 
 (1) Durch Beschluß des Gerichts kann dem Antragsteller vor der
 Entscheidung über den Antrag die Leistung einer Sicherheit für die
@@ -8645,24 +8967,29 @@ hat das Gericht den Antrag für zurückgenommen zu erklären.
 
 
 #### § 177 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029702311)
 
 Die durch das Verfahren über den Antrag veranlaßten Kosten sind in den
 Fällen der §§ 174 und 176 Abs. 2 dem Antragsteller aufzuerlegen.
 
 
 ### Dritter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001801309)
 
 
 
 ### Vierter Abschnitt - Entscheidung über die Eröffnung des Hauptverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG001902311)
 
 
 
 #### § 198 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE029901309)
 
 
 
 #### § 199 Entscheidung über die Eröffnung des Hauptverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030002311)
 
 (1) Das für die Hauptverhandlung zuständige Gericht entscheidet
 darüber, ob das Hauptverfahren zu eröffnen oder das Verfahren
@@ -8673,6 +9000,7 @@ eröffnen. Mit ihr werden die Akten dem Gericht vorgelegt.
 
 
 #### § 200 Inhalt der Anklageschrift
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030105125)
 
 (1) Die Anklageschrift hat den Angeschuldigten, die Tat, die ihm zur
 Last gelegt wird, Zeit und Ort ihrer Begehung, die gesetzlichen
@@ -8693,6 +9021,7 @@ beim Strafrichter erhoben wird.
 
 
 #### § 201 Übermittlung der Anklageschrift
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030203311)
 
 (1) Der Vorsitzende des Gerichts teilt die Anklageschrift dem
 Angeschuldigten mit und fordert ihn zugleich auf, innerhalb einer zu
@@ -8708,6 +9037,7 @@ Entscheidung ist unanfechtbar.
 
 
 #### § 202 Anordnung ergänzender Beweiserhebungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030302311)
 
 Bevor das Gericht über die Eröffnung des Hauptverfahrens entscheidet,
 kann es zur besseren Aufklärung der Sache einzelne Beweiserhebungen
@@ -8715,6 +9045,7 @@ anordnen. Der Beschluß ist nicht anfechtbar.
 
 
 #### § 202a Erörterung des Verfahrensstands mit den Verfahrensbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069901311)
 
 Erwägt das Gericht die Eröffnung des Hauptverfahrens, kann es den
 Stand des Verfahrens mit den Verfahrensbeteiligten erörtern, soweit
@@ -8723,6 +9054,7 @@ Inhalt dieser Erörterung ist aktenkundig zu machen.
 
 
 #### § 203 Eröffnungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030402311)
 
 Das Gericht beschließt die Eröffnung des Hauptverfahrens, wenn nach
 den Ergebnissen des vorbereitenden Verfahrens der Angeschuldigte einer
@@ -8730,6 +9062,7 @@ Straftat hinreichend verdächtig erscheint.
 
 
 #### § 204 Nichteröffnungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030502311)
 
 (1) Beschließt das Gericht, das Hauptverfahren nicht zu eröffnen, so
 muß aus dem Beschluß hervorgehen, ob er auf tatsächlichen oder auf
@@ -8739,6 +9072,7 @@ Rechtsgründen beruht.
 
 
 #### § 205 Einstellung des Verfahrens bei vorübergehenden Hindernissen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030602311)
 
 Steht der Hauptverhandlung für längere Zeit die Abwesenheit des
 Angeschuldigten oder ein anderes in seiner Person liegendes Hindernis
@@ -8747,12 +9081,14 @@ einstellen. Der Vorsitzende sichert, soweit nötig, die Beweise.
 
 
 #### § 206 Keine Bindung an Anträge
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030702311)
 
 Das Gericht ist bei der Beschlußfassung an die Anträge der
 Staatsanwaltschaft nicht gebunden.
 
 
 #### § 206a Einstellung des Verfahrens bei Verfahrenshindernis
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030802311)
 
 (1) Stellt sich nach Eröffnung des Hauptverfahrens ein
 Verfahrenshindernis heraus, so kann das Gericht außerhalb der
@@ -8762,6 +9098,7 @@ Hauptverhandlung das Verfahren durch Beschluß einstellen.
 
 
 #### § 206b Einstellung des Verfahrens wegen Gesetzesänderung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE030902311)
 
 Wird ein Strafgesetz, das bei Beendigung der Tat gilt, vor der
 Entscheidung geändert und hat ein gerichtlich anhängiges
@@ -8772,6 +9109,7 @@ Beschluß ein. Der Beschluß ist mit sofortiger Beschwerde anfechtbar.
 
 
 #### § 207 Inhalt des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031002311)
 
 (1) In dem Beschluß, durch den das Hauptverfahren eröffnet wird, läßt
 das Gericht die Anklage zur Hauptverhandlung zu und bezeichnet das
@@ -8812,10 +9150,12 @@ Unterbringung.
 
 
 #### § 208 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031101309)
 
 
 
 #### § 209 Eröffnungszuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031202311)
 
 (1) Hält das Gericht, bei dem die Anklage eingereicht ist, die
 Zuständigkeit eines Gerichts niedrigerer Ordnung in seinem Bezirk für
@@ -8828,6 +9168,7 @@ Staatsanwaltschaft diesem zur Entscheidung vor.
 
 
 #### § 209a Besondere funktionelle Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031302311)
 
 Im Sinne des § 4 Abs. 2, des § 209 sowie des § 210 Abs. 2 stehen
 
@@ -8858,6 +9199,7 @@ Gerichten höherer Ordnung gleich.
 
 
 #### § 210 Rechtsmittel gegen den Eröffnungs- oder Ablehnungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031402311)
 
 (1) Der Beschluß, durch den das Hauptverfahren eröffnet worden ist,
 kann von dem Angeklagten nicht angefochten werden.
@@ -8878,6 +9220,7 @@ anderen Senat dieses Gerichts stattzufinden hat.
 
 
 #### § 211 Wiederaufnahme nach Ablehnungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031502311)
 
 Ist die Eröffnung des Hauptverfahrens durch einen nicht mehr
 anfechtbaren Beschluß abgelehnt, so kann die Klage nur auf Grund neuer
@@ -8885,15 +9228,18 @@ Tatsachen oder Beweismittel wieder aufgenommen werden.
 
 
 ### Fünfter Abschnitt - Vorbereitung der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002003311)
 
 
 
 #### § 212 Erörterung des Verfahrensstands mit den Verfahrensbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069701311)
 
 Nach Eröffnung des Hauptverfahrens gilt § 202a entsprechend.
 
 
 #### § 213 Bestimmung eines Termins zur Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE031903360)
 
 (1) Der Termin zur Hauptverhandlung wird von dem Vorsitzenden des
 Gerichts anberaumt.
@@ -8907,6 +9253,7 @@ abstimmen.
 
 
 #### § 214 Ladungen durch den Vorsitzenden; Herbeischaffung der Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032005311)
 
 (1) Die zur Hauptverhandlung erforderlichen Ladungen ordnet der
 Vorsitzende an. Zugleich veranlasst er die nach § 397 Absatz 2 Satz 3,
@@ -8929,6 +9276,7 @@ bewirkt werden.
 
 
 #### § 215 Zustellung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032102311)
 
 Der Beschluß über die Eröffnung des Hauptverfahrens ist dem
 Angeklagten spätestens mit der Ladung zuzustellen. Entsprechendes gilt
@@ -8936,6 +9284,7 @@ in den Fällen des § 207 Abs. 3 für die nachgereichte Anklageschrift.
 
 
 #### § 216 Ladung des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032202311)
 
 (1) Die Ladung eines auf freiem Fuß befindlichen Angeklagten geschieht
 schriftlich unter der Warnung, daß im Falle seines unentschuldigten
@@ -8949,6 +9298,7 @@ seiner Verteidigung für die Hauptverhandlung zu stellen habe.
 
 
 #### § 217 Ladungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032302311)
 
 (1) Zwischen der Zustellung der Ladung (§ 216) und dem Tag der
 Hauptverhandlung muß eine Frist von mindestens einer Woche liegen.
@@ -8961,6 +9311,7 @@ verlangen.
 
 
 #### § 218 Ladung des Verteidigers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032402311)
 
 Neben dem Angeklagten ist der bestellte Verteidiger stets, der
 gewählte Verteidiger dann zu laden, wenn die Wahl dem Gericht
@@ -8968,6 +9319,7 @@ angezeigt worden ist. § 217 gilt entsprechend.
 
 
 #### § 219 Beweisanträge des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032503125)
 
 (1) Beweisanträge hat der Angeklagte bei dem Vorsitzenden des Gerichts
 zu stellen. Die hierauf ergehende Verfügung ist ihm bekanntzumachen.
@@ -8977,6 +9329,7 @@ der Staatsanwaltschaft mitzuteilen.
 
 
 #### § 220 Unmittelbare Ladung durch den Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032602311)
 
 (1) Lehnt der Vorsitzende den Antrag auf Ladung einer Person ab, so
 kann der Angeklagte sie unmittelbar laden lassen. Hierzu ist er auch
@@ -8994,6 +9347,7 @@ Entschädigung aus der Staatskasse zu gewähren ist.
 
 
 #### § 221 Herbeischaffung von Beweismitteln von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032702311)
 
 Der Vorsitzende des Gerichts kann auch von Amts wegen die
 Herbeischaffung weiterer als Beweismittel dienender Gegenstände
@@ -9001,6 +9355,7 @@ anordnen.
 
 
 #### § 222 Namhaftmachung von Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032805125)
 
 (1) Das Gericht hat die geladenen Zeugen und Sachverständigen der
 Staatsanwaltschaft und dem Angeklagten rechtzeitig namhaft zu machen.
@@ -9016,6 +9371,7 @@ vollständige Anschrift anzugeben.
 
 
 #### § 222a Mitteilung der Besetzung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE032903125)
 
 (1) Findet die Hauptverhandlung im ersten Rechtszug vor dem
 Landgericht oder dem Oberlandesgericht statt, so ist spätestens zu
@@ -9042,6 +9398,7 @@ Nebenkläger nur ein Rechtsanwalt Einsicht nehmen.
 
 
 #### § 222b Besetzungseinwand
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033003125)
 
 (1) Ist die Besetzung des Gerichts nach § 222a mitgeteilt worden, so
 kann der Einwand, daß das Gericht vorschriftswidrig besetzt sei, nur
@@ -9069,6 +9426,7 @@ vorschriftsmäßig besetzt ist.
 
 
 #### § 223 Vernehmungen durch beauftragte oder ersuchte Richter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033103311)
 
 (1) Wenn dem Erscheinen eines Zeugen oder Sachverständigen in der
 Hauptverhandlung für eine längere oder ungewisse Zeit Krankheit oder
@@ -9083,6 +9441,7 @@ Erscheinen wegen großer Entfernung nicht zugemutet werden kann.
 
 
 #### § 224 Benachrichtigung der Beteiligten über den Termin
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033202311)
 
 (1) Von den zum Zweck dieser Vernehmung anberaumten Terminen sind die
 Staatsanwaltschaft, der Angeklagte und der Verteidiger vorher zu
@@ -9098,6 +9457,7 @@ er in Haft ist.
 
 
 #### § 225 Einnahme des richterlichen Augenscheins durch beauftragte oder ersuchte Richter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033302311)
 
 Ist zur Vorbereitung der Hauptverhandlung noch ein richterlicher
 Augenschein einzunehmen, so sind die Vorschriften des § 224
@@ -9105,6 +9465,7 @@ anzuwenden.
 
 
 #### § 225a Zuständigkeitsänderung vor der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033402311)
 
 (1) Hält ein Gericht vor Beginn einer Hauptverhandlung die sachliche
 Zuständigkeit eines Gerichts höherer Ordnung für begründet, so legt es
@@ -9136,10 +9497,12 @@ nach § 210.
 
 
 ### Sechster Abschnitt - Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002102311)
 
 
 
 #### § 226 Ununterbrochene Gegenwart
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033503311)
 
 (1) Die Hauptverhandlung erfolgt in ununterbrochener Gegenwart der zur
 Urteilsfindung berufenen Personen sowie der Staatsanwaltschaft und
@@ -9151,6 +9514,7 @@ unanfechtbar.
 
 
 #### § 227 Mehrere Staatsanwälte und Verteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033602311)
 
 Es können mehrere Beamte der Staatsanwaltschaft und mehrere
 Verteidiger in der Hauptverhandlung mitwirken und ihre Verrichtungen
@@ -9158,6 +9522,7 @@ unter sich teilen.
 
 
 #### § 228 Aussetzung und Unterbrechung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033702311)
 
 (1) Über die Aussetzung einer Hauptverhandlung oder deren
 Unterbrechung nach § 229 Abs. 2 entscheidet das Gericht. Kürzere
@@ -9173,6 +9538,7 @@ Verhandlung zu verlangen, bekanntmachen.
 
 
 #### § 229 Höchstdauer einer Unterbrechung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033806125)
 
 (1) Eine Hauptverhandlung darf bis zu drei Wochen unterbrochen werden.
 
@@ -9216,6 +9582,7 @@ unanfechtbaren Beschluss fest.
 
 
 #### § 230 Ausbleiben des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE033902311)
 
 (1) Gegen einen ausgebliebenen Angeklagten findet eine
 Hauptverhandlung nicht statt.
@@ -9226,6 +9593,7 @@ dies zur Durchführung der Hauptverhandlung geboten ist.
 
 
 #### § 231 Anwesenheitspflicht des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034003125)
 
 (1) Der erschienene Angeklagte darf sich aus der Verhandlung nicht
 entfernen. Der Vorsitzende kann die geeigneten Maßregeln treffen, um
@@ -9242,6 +9610,7 @@ Ende geführt werden kann.
 
 
 #### § 231a Herbeiführung der Verhandlungsunfähigkeit durch den Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034102311)
 
 (1) Hat sich der Angeklagte vorsätzlich und schuldhaft in einen seine
 Verhandlungsfähigkeit ausschließenden Zustand versetzt und verhindert
@@ -9275,6 +9644,7 @@ zu bestellen, sobald eine Verhandlung ohne den Angeklagten nach Absatz
 
 
 #### § 231b Fortsetzung nach Entfernung des Angeklagten zur Aufrechterhaltung der Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034202311)
 
 (1) Wird der Angeklagte wegen ordnungswidrigen Benehmens aus dem
 Sitzungszimmer entfernt oder zur Haft abgeführt (§ 177 des
@@ -9290,6 +9660,7 @@ Gelegenheit zu geben, sich zur Anklage zu äußern.
 
 
 #### § 231c Beurlaubung einzelner Angeklagter und ihrer Pflichtverteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034302311)
 
 Findet die Hauptverhandlung gegen mehrere Angeklagte statt, so kann
 durch Gerichtsbeschluß einzelnen Angeklagten, im Falle der notwendigen
@@ -9301,6 +9672,7 @@ Die Erlaubnis kann jederzeit widerrufen werden.
 
 
 #### § 232 Durchführung der Hauptverhandlung trotz Ausbleibens des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034405311)
 
 (1) Die Hauptverhandlung kann ohne den Angeklagten durchgeführt
 werden, wenn er ordnungsgemäß geladen und in der Ladung darauf
@@ -9325,6 +9697,7 @@ nach § 145a Abs. 1 dem Verteidiger zugestellt wird.
 
 
 #### § 233 Entbindung des Angeklagten von der Pflicht zum Erscheinen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034504311)
 
 (1) Der Angeklagte kann auf seinen Antrag von der Verpflichtung zum
 Erscheinen in der Hauptverhandlung entbunden werden, wenn nur
@@ -9355,6 +9728,7 @@ Vernehmung ist in der Hauptverhandlung zu verlesen.
 
 
 #### § 234 Vertretung des abwesenden Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034603311)
 
 Soweit die Hauptverhandlung ohne Anwesenheit des Angeklagten
 stattfinden kann, ist er befugt, sich durch einen Verteidiger mit
@@ -9362,6 +9736,7 @@ nachgewiesener Vertretungsvollmacht vertreten zu lassen.
 
 
 #### § 234a Befugnisse des Verteidigers bei Vertretung des abwesenden Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062303311)
 
 Findet die Hauptverhandlung ohne Anwesenheit des Angeklagten statt, so
 genügt es, wenn die nach § 265 Abs. 1 und 2 erforderlichen Hinweise
@@ -9372,6 +9747,7 @@ teilnimmt.
 
 
 #### § 235 Wiedereinsetzung in den vorigen Stand bei Verhandlung ohne den Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034702311)
 
 Hat die Hauptverhandlung gemäß § 232 ohne den Angeklagten
 stattgefunden, so kann er gegen das Urteil binnen einer Woche nach
@@ -9384,6 +9760,7 @@ Urteils zu belehren.
 
 
 #### § 236 Anordnung des persönlichen Erscheinens des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034802311)
 
 Das Gericht ist stets befugt, das persönliche Erscheinen des
 Angeklagten anzuordnen und durch einen Vorführungsbefehl oder
@@ -9391,6 +9768,7 @@ Haftbefehl zu erzwingen.
 
 
 #### § 237 Verbindung mehrerer Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE034902311)
 
 Das Gericht kann im Falle eines Zusammenhangs zwischen mehreren bei
 ihm anhängigen Strafsachen ihre Verbindung zum Zwecke gleichzeitiger
@@ -9399,6 +9777,7 @@ bezeichnete ist.
 
 
 #### § 238 Verhandlungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035002311)
 
 (1) Die Leitung der Verhandlung, die Vernehmung des Angeklagten und
 die Aufnahme des Beweises erfolgt durch den Vorsitzenden.
@@ -9409,6 +9788,7 @@ unzulässig beanstandet, so entscheidet das Gericht.
 
 
 #### § 239 Kreuzverhör
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035102311)
 
 (1) Die Vernehmung der von der Staatsanwaltschaft und dem Angeklagten
 benannten Zeugen und Sachverständigen ist der Staatsanwaltschaft und
@@ -9424,6 +9804,7 @@ Zeugen und Sachverständigen zu richten.
 
 
 #### § 240 Fragerecht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035202311)
 
 (1) Der Vorsitzende hat den beisitzenden Richtern auf Verlangen zu
 gestatten, Fragen an den Angeklagten, die Zeugen und die
@@ -9436,6 +9817,7 @@ ist unzulässig.
 
 
 #### § 241 Zurückweisung von Fragen durch den Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035302311)
 
 (1) Dem, welcher im Falle des § 239 Abs. 1 die Befugnis der Vernehmung
 mißbraucht, kann sie von dem Vorsitzenden entzogen werden.
@@ -9446,6 +9828,7 @@ zurückweisen.
 
 
 #### § 241a Vernehmung minderjähriger Zeugen durch den Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035403311)
 
 (1) Die Vernehmung von Zeugen unter 18 Jahren wird allein von dem
 Vorsitzenden durchgeführt.
@@ -9460,12 +9843,14 @@ das Wohl der Zeugen nicht zu befürchten ist.
 
 
 #### § 242 Entscheidung über die Zulässigkeit von Fragen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035502311)
 
 Zweifel über die Zulässigkeit einer Frage entscheidet in allen Fällen
 das Gericht.
 
 
 #### § 243 Gang der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035607360)
 
 (1) Die Hauptverhandlung beginnt mit dem Aufruf der Sache. Der
 Vorsitzende stellt fest, ob der Angeklagte und der Verteidiger
@@ -9509,6 +9894,7 @@ werden, bestimmt der Vorsitzende.
 
 
 #### § 244 Beweisaufnahme; Untersuchungsgrundsatz; Ablehnung von Beweisanträgen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035707125)
 
 (1) Nach der Vernehmung des Angeklagten folgt die Beweisaufnahme.
 
@@ -9586,6 +9972,7 @@ glaubhaft zu machen.
 
 
 #### § 245 Umfang der Beweisaufnahme; präsente Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035803125)
 
 (1) Die Beweisaufnahme ist auf alle vom Gericht vorgeladenen und auch
 erschienenen Zeugen und Sachverständigen sowie auf die sonstigen nach
@@ -9607,6 +9994,7 @@ Zusammenhang besteht oder wenn das Beweismittel völlig ungeeignet ist.
 
 
 #### § 246 Ablehnung von Beweisanträgen wegen Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE035902311)
 
 (1) Eine Beweiserhebung darf nicht deshalb abgelehnt werden, weil das
 Beweismittel oder die zu beweisende Tatsache zu spät vorgebracht
@@ -9627,6 +10015,7 @@ Zeugen oder Sachverständigen.
 
 
 #### § 246a Vernehmung eines Sachverständigen vor Entscheidung über eine Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036107125)
 
 (1) Kommt in Betracht, dass die Unterbringung des Angeklagten in einem
 psychiatrischen Krankenhaus oder in der Sicherungsverwahrung
@@ -9654,6 +10043,7 @@ gegeben werden.
 
 
 #### § 247 Entfernung des Angeklagten bei Vernehmung von Mitangeklagten und Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036204311)
 
 Das Gericht kann anordnen, daß sich der Angeklagte während einer
 Vernehmung aus dem Sitzungszimmer entfernt, wenn zu befürchten ist,
@@ -9674,6 +10064,7 @@ verhandelt worden ist.
 
 
 #### § 247a Anordnung einer audiovisuellen Vernehmung von Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064404311)
 
 (1) Besteht die dringende Gefahr eines schwerwiegenden Nachteils für
 das Wohl des Zeugen, wenn er in Gegenwart der in der Hauptverhandlung
@@ -9697,6 +10088,7 @@ des § 246a. Die Entscheidung nach Satz 1 ist unanfechtbar.
 
 
 #### § 248 Entlassung der Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036302311)
 
 Die vernommenen Zeugen und Sachverständigen dürfen sich nur mit
 Genehmigung oder auf Anweisung des Vorsitzenden von der Gerichtsstelle
@@ -9705,6 +10097,7 @@ hören.
 
 
 #### § 249 Führung des Urkundenbeweises durch Verlesung; Selbstleseverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036405311)
 
 (1) Urkunden sind zum Zweck der Beweiserhebung über ihren Inhalt in
 der Hauptverhandlung zu verlesen. Elektronische Dokumente sind
@@ -9722,6 +10115,7 @@ aufzunehmen.
 
 
 #### § 250 Grundsatz der persönlichen Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036503311)
 
 Beruht der Beweis einer Tatsache auf der Wahrnehmung einer Person, so
 ist diese in der Hauptverhandlung zu vernehmen. Die Vernehmung darf
@@ -9730,6 +10124,7 @@ Protokolls oder einer Erklärung ersetzt werden.
 
 
 #### § 251 Urkundenbeweis durch Verlesung von Protokollen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036607360)
 
 (1) Die Vernehmung eines Zeugen, Sachverständigen oder
 Mitbeschuldigten kann durch die Verlesung eines Protokolls über eine
@@ -9791,6 +10186,7 @@ erscheint und noch ausführbar ist.
 
 
 #### § 252 Verbot der Protokollverlesung nach Zeugnisverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036702311)
 
 Die Aussage eines vor der Hauptverhandlung vernommenen Zeugen, der
 erst in der Hauptverhandlung von seinem Recht, das Zeugnis zu
@@ -9798,6 +10194,7 @@ verweigern, Gebrauch macht, darf nicht verlesen werden.
 
 
 #### § 253 Protokollverlesung zur Gedächtnisunterstützung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036802311)
 
 (1) Erklärt ein Zeuge oder Sachverständiger, daß er sich einer
 Tatsache nicht mehr erinnere, so kann der hierauf bezügliche Teil des
@@ -9811,6 +10208,7 @@ behoben werden kann.
 
 
 #### § 254 Verlesung eines richterlichen Protokolls bei Geständnis oder Widersprüchen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE036903360)
 
 (1) Erklärungen des Angeklagten, die in einem richterlichen Protokoll
 oder in einer Bild-Ton-Aufzeichnung einer Vernehmung enthalten sind,
@@ -9824,6 +10222,7 @@ behoben werden kann.
 
 
 #### § 255 Protokollierung der Verlesung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037002311)
 
 In den Fällen der §§ 253 und 254 ist die Verlesung und ihr Grund auf
 Antrag der Staatsanwaltschaft oder des Angeklagten im Protokoll zu
@@ -9831,6 +10230,7 @@ erwähnen.
 
 
 #### § 255a Vorführung einer aufgezeichneten Zeugenvernehmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE064511125)
 
 (1) Für die Vorführung der Bild-Ton-Aufzeichnung einer
 Zeugenvernehmung gelten die Vorschriften zur Verlesung eines
@@ -9860,6 +10260,7 @@ zulässig.
 
 
 #### § 256 Verlesung der Erklärungen von Behörden und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037106360)
 
 (1) Verlesen werden können
 
@@ -9907,6 +10308,7 @@ und dem Gericht zu bezeichnen.
 
 
 #### § 257 Befragung des Angeklagten und Erklärungsrechte nach einer Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037203311)
 
 (1) Nach der Vernehmung eines jeden Mitangeklagten und nach jeder
 einzelnen Beweiserhebung soll der Angeklagte befragt werden, ob er
@@ -9920,6 +10322,7 @@ Gelegenheit zu geben, sich dazu zu erklären.
 
 
 #### § 257a Form von Anträgen und Anregungen zu Verfahrensfragen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062901311)
 
 Das Gericht kann den Verfahrensbeteiligten aufgeben, Anträge und
 Anregungen zu Verfahrensfragen schriftlich zu stellen. Dies gilt nicht
@@ -9928,6 +10331,7 @@ Anwendung.
 
 
 #### § 257b Erörterung des Verfahrensstands mit den Verfahrensbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069801311)
 
 Das Gericht kann in der Hauptverhandlung den Stand des Verfahrens mit
 den Verfahrensbeteiligten erörtern, soweit dies geeignet erscheint,
@@ -9935,6 +10339,7 @@ das Verfahren zu fördern.
 
 
 #### § 257c Verständigung zwischen Gericht und Verfahrensbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070101311)
 
 (1) Das Gericht kann sich in geeigneten Fällen mit den
 Verfahrensbeteiligten nach Maßgabe der folgenden Absätze über den
@@ -9973,6 +10378,7 @@ Absatz 4 zu belehren.
 
 
 #### § 258 Schlussvorträge; Recht des letzten Wortes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037402311)
 
 (1) Nach dem Schluß der Beweisaufnahme erhalten der Staatsanwalt und
 sodann der Angeklagte zu ihren Ausführungen und Anträgen das Wort.
@@ -9986,6 +10392,7 @@ anzuführen habe.
 
 
 #### § 259 Dolmetscher
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037503311)
 
 (1) Einem der Gerichtssprache nicht mächtigen Angeklagten müssen aus
 den Schlußvorträgen mindestens die Anträge des Staatsanwalts und des
@@ -9997,6 +10404,7 @@ Angeklagten.
 
 
 #### § 260 Urteil
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037605311)
 
 (1) Die Hauptverhandlung schließt mit der auf die Beratung folgenden
 Verkündung des Urteils.
@@ -10031,6 +10439,7 @@ Abs. 2 des Bundeszentralregistergesetzes anzuführen.
 
 
 #### § 261 Grundsatz der freien richterlichen Beweiswürdigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037702311)
 
 Über das Ergebnis der Beweisaufnahme entscheidet das Gericht nach
 seiner freien, aus dem Inbegriff der Verhandlung geschöpften
@@ -10038,6 +10447,7 @@ seiner freien, aus dem Inbegriff der Verhandlung geschöpften
 
 
 #### § 262 Entscheidung zivilrechtlicher Vorfragen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037802311)
 
 (1) Hängt die Strafbarkeit einer Handlung von der Beurteilung eines
 bürgerlichen Rechtsverhältnisses ab, so entscheidet das Strafgericht
@@ -10050,6 +10460,7 @@ bestimmen oder das Urteil des Zivilgerichts abzuwarten.
 
 
 #### § 263 Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE037902311)
 
 (1) Zu jeder dem Angeklagten nachteiligen Entscheidung über die
 Schuldfrage und die Rechtsfolgen der Tat ist eine Mehrheit von zwei
@@ -10063,6 +10474,7 @@ oder erhöhen.
 
 
 #### § 264 Gegenstand des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038002311)
 
 (1) Gegenstand der Urteilsfindung ist die in der Anklage bezeichnete
 Tat, wie sie sich nach dem Ergebnis der Verhandlung darstellt.
@@ -10072,6 +10484,7 @@ die Eröffnung des Hauptverfahrens zugrunde liegt, nicht gebunden.
 
 
 #### § 265 Veränderung des rechtlichen Gesichtspunktes oder der Sachlage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038104360)
 
 (1) Der Angeklagte darf nicht auf Grund eines anderen als des in der
 gerichtlich zugelassenen Anklage angeführten Strafgesetzes verurteilt
@@ -10111,6 +10524,7 @@ angemessen erscheint.
 
 
 #### § 265a Befragung des Angeklagten vor Erteilung von Auflagen oder Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038202311)
 
 Kommen Auflagen oder Weisungen (§§ 56b, 56c, 59a Abs. 2 des
 Strafgesetzbuches) in Betracht, so ist der Angeklagte in geeigneten
@@ -10123,6 +10537,7 @@ nehmen, so ist er zu befragen, ob er hierzu seine Einwilligung gibt.
 
 
 #### § 266 Nachtragsanklage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038303311)
 
 (1) Erstreckt der Staatsanwalt in der Hauptverhandlung die Anklage auf
 weitere Straftaten des Angeklagten, so kann das Gericht sie durch
@@ -10142,6 +10557,7 @@ beantragen, wird der Angeklagte hingewiesen.
 
 
 #### § 267 Urteilsgründe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038407311)
 
 (1) Wird der Angeklagte verurteilt, so müssen die Urteilsgründe die
 für erwiesen erachteten Tatsachen angeben, in denen die gesetzlichen
@@ -10214,6 +10630,7 @@ worden ist.
 
 
 #### § 268 Urteilsverkündung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038506125)
 
 (1) Das Urteil ergeht im Namen des Volkes.
 
@@ -10235,6 +10652,7 @@ und Absatz 5 gilt entsprechend.
 
 
 #### § 268a Aussetzung der Vollstreckung von Strafen oder Maßregeln zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038602311)
 
 (1) Wird in dem Urteil die Strafe zur Bewährung ausgesetzt oder der
 Angeklagte mit Strafvorbehalt verwarnt, so trifft das Gericht die in
@@ -10263,6 +10681,7 @@ die Möglichkeit des Widerrufs der Aussetzung absehen.
 
 
 #### § 268b Beschluss über die Fortdauer der Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038702311)
 
 Bei der Urteilsfällung ist zugleich von Amts wegen über die Fortdauer
 der Untersuchungshaft oder einstweiligen Unterbringung zu entscheiden.
@@ -10270,6 +10689,7 @@ Der Beschluß ist mit dem Urteil zu verkünden.
 
 
 #### § 268c Belehrung bei Anordnung eines Fahrverbots
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038803311)
 
 Wird in dem Urteil ein Fahrverbot angeordnet, so belehrt der
 Vorsitzende den Angeklagten über den Beginn der Verbotsfrist (§ 44
@@ -10279,6 +10699,7 @@ Angeklagten, so ist er schriftlich zu belehren.
 
 
 #### § 268d Belehrung bei vorbehaltener Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067902311)
 
 Ist in dem Urteil die Anordnung der Sicherungsverwahrung nach § 66a
 Absatz 1 oder 2 des Strafgesetzbuches vorbehalten, so belehrt der
@@ -10287,12 +10708,14 @@ Vorsitzende den Angeklagten über die Bedeutung des Vorbehalts sowie
 
 
 #### § 269 Verbot der Verweisung bei Zuständigkeit eines Gerichts niederer Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE038902311)
 
 Das Gericht darf sich nicht für unzuständig erklären, weil die Sache
 vor ein Gericht niederer Ordnung gehöre.
 
 
 #### § 270 Verweisung bei Zuständigkeit eines Gerichts höherer Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039002311)
 
 (1) Hält ein Gericht nach Beginn einer Hauptverhandlung die sachliche
 Zuständigkeit eines Gerichts höherer Ordnung für begründet, so
@@ -10316,6 +10739,7 @@ verwiesen worden ist.
 
 
 #### § 271 Hauptverhandlungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039104125)
 
 (1) Über die Hauptverhandlung ist ein Protokoll aufzunehmen und von
 dem Vorsitzenden und dem Urkundsbeamten der Geschäftsstelle, soweit
@@ -10329,6 +10753,7 @@ die Unterschrift des Urkundsbeamten der Geschäftsstelle.
 
 
 #### § 272 Inhalt des Hauptverhandlungsprotokolls
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039203125)
 
 Das Protokoll über die Hauptverhandlung enthält
 
@@ -10357,6 +10782,7 @@ Das Protokoll über die Hauptverhandlung enthält
 
 
 #### § 273 Beurkundung der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039306311)
 
 (1) Das Protokoll muß den Gang und die Ergebnisse der Hauptverhandlung
 im wesentlichen wiedergeben und die Beachtung aller wesentlichen
@@ -10399,6 +10825,7 @@ zugestellt werden.
 
 
 #### § 274 Beweiskraft des Protokolls
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039402311)
 
 Die Beobachtung der für die Hauptverhandlung vorgeschriebenen
 Förmlichkeiten kann nur durch das Protokoll bewiesen werden. Gegen den
@@ -10407,6 +10834,7 @@ Nachweis der Fälschung zulässig.
 
 
 #### § 275 Absetzungsfrist und Form des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039503311)
 
 (1) Ist das Urteil mit den Gründen nicht bereits vollständig in das
 Protokoll aufgenommen worden, so ist es unverzüglich zu den Akten zu
@@ -10438,10 +10866,12 @@ teilgenommen haben, sind in das Urteil aufzunehmen.
 
 
 ### Siebter Abschnitt - Entscheidung über die im Urteil vorbehaltene oder die nachträgliche Anordnung der Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004702311)
 
 
 
 #### § 275a Einleitung des Verfahrens; Hauptverhandlung; Unterbringungsbefehl
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068005311)
 
 (1) Ist im Urteil die Anordnung der Sicherungsverwahrung vorbehalten
 (§ 66a des Strafgesetzbuches), übersendet die Vollstreckungsbehörde
@@ -10499,10 +10929,12 @@ Zeitpunkt die vorbehaltene Sicherungsverwahrung angeordnet hat. Die §§
 
 
 ### Achter Abschnitt - Verfahren gegen Abwesende
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002203311)
 
 
 
 #### § 276 Begriff der Abwesenheit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039602311)
 
 Ein Beschuldigter gilt als abwesend, wenn sein Aufenthalt unbekannt
 ist oder wenn er sich im Ausland aufhält und seine Gestellung vor das
@@ -10510,10 +10942,12 @@ zuständige Gericht nicht ausführbar oder nicht angemessen erscheint.
 
 
 #### (XXXX) §§ 277 bis 284 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039701309)
 
 
 
 #### § 285 Beweissicherungszweck
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039802311)
 
 (1) Gegen einen Abwesenden findet keine Hauptverhandlung statt. Das
 gegen einen Abwesenden eingeleitete Verfahren hat die Aufgabe, für den
@@ -10523,12 +10957,14 @@ Fall seiner künftigen Gestellung die Beweise zu sichern.
 
 
 #### § 286 Vertretung von Abwesenden
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE039904125)
 
 Für den Beschuldigten kann ein Verteidiger auftreten. Auch Angehörige
 des Beschuldigten sind, auch ohne Vollmacht, als Vertreter zuzulassen.
 
 
 #### § 287 Benachrichtigung von Abwesenden
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040002311)
 
 (1) Dem abwesenden Beschuldigten steht ein Anspruch auf
 Benachrichtigung über den Fortgang des Verfahrens nicht zu.
@@ -10538,6 +10974,7 @@ bekannt ist, Benachrichtigungen zugehen zu lassen.
 
 
 #### § 288 Öffentliche Aufforderung zum Erscheinen oder zur Aufenthaltsortsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040102311)
 
 Der Abwesende, dessen Aufenthalt unbekannt ist, kann in einem oder
 mehreren öffentlichen Blättern zum Erscheinen vor Gericht oder zur
@@ -10545,6 +10982,7 @@ Anzeige seines Aufenthaltsortes aufgefordert werden.
 
 
 #### § 289 Beweisaufnahme durch beauftragte oder ersuchte Richter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040202311)
 
 Stellt sich erst nach Eröffnung des Hauptverfahrens die Abwesenheit
 des Angeklagten heraus, so erfolgen die noch erforderlichen
@@ -10552,6 +10990,7 @@ Beweisaufnahmen durch einen beauftragten oder ersuchten Richter.
 
 
 #### § 290 Vermögensbeschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040302311)
 
 (1) Liegen gegen den Abwesenden, gegen den die öffentliche Klage
 erhoben ist, Verdachtsgründe vor, die den Erlaß eines Haftbefehls
@@ -10565,6 +11004,7 @@ findet keine Vermögensbeschlagnahme statt.
 
 
 #### § 291 Bekanntmachung der Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040404311)
 
 Der die Beschlagnahme verhängende Beschluß ist im Bundesanzeiger
 bekanntzumachen und kann nach dem Ermessen des Gerichts auch auf
@@ -10572,6 +11012,7 @@ andere geeignete Weise veröffentlicht werden.
 
 
 #### § 292 Wirkung der Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040504311)
 
 (1) Mit dem Zeitpunkt der ersten Bekanntmachung im Bundesanzeiger
 verliert der Angeschuldigte das Recht, über das in Beschlag genommene
@@ -10583,6 +11024,7 @@ zuständig ist. Diese Behörde hat eine Pflegschaft einzuleiten.
 
 
 #### § 293 Aufhebung der Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040604311)
 
 (1) Die Beschlagnahme ist aufzuheben, wenn ihre Gründe weggefallen
 sind.
@@ -10596,6 +11038,7 @@ löschen.
 
 
 #### § 294 Verfahren nach Anklageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040702311)
 
 (1) Für das nach Erhebung der öffentlichen Klage eintretende Verfahren
 gelten im übrigen die Vorschriften über die Eröffnung des
@@ -10607,6 +11050,7 @@ zu entscheiden.
 
 
 #### § 295 Sicheres Geleit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040802311)
 
 (1) Das Gericht kann einem abwesenden Beschuldigten sicheres Geleit
 erteilen; es kann diese Erteilung an Bedingungen knüpfen.
@@ -10621,14 +11065,17 @@ erteilt worden ist.
 
 
 ## Drittes Buch - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002302311)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002402311)
 
 
 
 #### § 296 Rechtsmittelberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE040902311)
 
 (1) Die zulässigen Rechtsmittel gegen gerichtliche Entscheidungen
 stehen sowohl der Staatsanwaltschaft als dem Beschuldigten zu.
@@ -10638,12 +11085,14 @@ Beschuldigten Gebrauch machen.
 
 
 #### § 297 Einlegung durch den Verteidiger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041002311)
 
 Für den Beschuldigten kann der Verteidiger, jedoch nicht gegen dessen
 ausdrücklichen Willen, Rechtsmittel einlegen.
 
 
 #### § 298 Einlegung durch den gesetzlichen Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041102311)
 
 (1) Der gesetzliche Vertreter eines Beschuldigten kann binnen der für
 den Beschuldigten laufenden Frist selbständig von den zulässigen
@@ -10655,6 +11104,7 @@ anzuwenden.
 
 
 #### § 299 Abgabe von Erklärungen bei Freiheitsentzug
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041202311)
 
 (1) Der nicht auf freiem Fuß befindliche Beschuldigte kann die
 Erklärungen, die sich auf Rechtsmittel beziehen, zu Protokoll der
@@ -10666,12 +11116,14 @@ Protokoll aufgenommen wird.
 
 
 #### § 300 Falschbezeichnung eines zulässigen Rechtsmittels
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041302311)
 
 Ein Irrtum in der Bezeichnung des zulässigen Rechtsmittels ist
 unschädlich.
 
 
 #### § 301 Wirkung eines Rechtsmittels der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041402311)
 
 Jedes von der Staatsanwaltschaft eingelegte Rechtsmittel hat die
 Wirkung, daß die angefochtene Entscheidung auch zugunsten des
@@ -10679,6 +11131,7 @@ Beschuldigten abgeändert oder aufgehoben werden kann.
 
 
 #### § 302 Zurücknahme und Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041503311)
 
 (1) Die Zurücknahme eines Rechtsmittels sowie der Verzicht auf die
 Einlegung eines Rechtsmittels können auch vor Ablauf der Frist zu
@@ -10692,6 +11145,7 @@ Ermächtigung.
 
 
 #### § 303 Zustimmungserfordernis bei Zurücknahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041602311)
 
 Wenn die Entscheidung über das Rechtsmittel auf Grund mündlicher
 Verhandlung stattzufinden hat, so kann die Zurücknahme nach Beginn der
@@ -10701,10 +11155,12 @@ der Zustimmung des Nebenklägers.
 
 
 ### Zweiter Abschnitt - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002502311)
 
 
 
 #### § 304 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041711125)
 
 (1) Die Beschwerde ist gegen alle von den Gerichten im ersten
 Rechtszug oder im Berufungsverfahren erlassenen Beschlüsse und gegen
@@ -10764,6 +11220,7 @@ Maßnahmen betreffen.
 
 
 #### § 305 Nicht der Beschwerde unterliegende Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041802311)
 
 Entscheidungen der erkennenden Gerichte, die der Urteilsfällung
 vorausgehen, unterliegen nicht der Beschwerde. Ausgenommen sind
@@ -10775,6 +11232,7 @@ betroffen werden.
 
 
 #### § 305a Beschwerde gegen Strafaussetzungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE041902311)
 
 (1) Gegen den Beschluß nach § 268a Abs. 1, 2 ist Beschwerde zulässig.
 Sie kann nur darauf gestützt werden, daß eine getroffene Anordnung
@@ -10786,6 +11244,7 @@ Entscheidung über die Beschwerde zuständig.
 
 
 #### § 306 Einlegung; Abhilfeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042003311)
 
 (1) Die Beschwerde wird bei dem Gericht, von dem oder von dessen
 Vorsitzenden die angefochtene Entscheidung erlassen ist, zu Protokoll
@@ -10801,6 +11260,7 @@ im Vorverfahren und des beauftragten oder ersuchten Richters.
 
 
 #### § 307 Keine Vollzugshemmung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042102311)
 
 (1) Durch Einlegung der Beschwerde wird der Vollzug der angefochtenen
 Entscheidung nicht gehemmt.
@@ -10812,6 +11272,7 @@ auszusetzen ist.
 
 
 #### § 308 Befugnisse des Beschwerdegerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042202311)
 
 (1) Das Beschwerdegericht darf die angefochtene Entscheidung nicht zum
 Nachteil des Gegners des Beschwerdeführers ändern, ohne daß diesem die
@@ -10823,6 +11284,7 @@ vornehmen.
 
 
 #### § 309 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042302311)
 
 (1) Die Entscheidung über die Beschwerde ergeht ohne mündliche
 Verhandlung, in geeigneten Fällen nach Anhörung der
@@ -10834,6 +11296,7 @@ Entscheidung.
 
 
 #### § 310 Weitere Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042404311)
 
 (1) Beschlüsse, die von dem Landgericht oder von dem nach § 120 Abs. 3
 des Gerichtsverfassungsgesetzes zuständigen Oberlandesgericht auf die
@@ -10858,6 +11321,7 @@ ergangenen Entscheidungen nicht statt.
 
 
 #### § 311 Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042503311)
 
 (1) Für die Fälle der sofortigen Beschwerde gelten die nachfolgenden
 besonderen Vorschriften.
@@ -10874,6 +11338,7 @@ Beschwerde für begründet erachtet.
 
 
 #### § 311a Nachträgliche Anhörung des Gegners
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042602311)
 
 (1) Hat das Beschwerdegericht einer Beschwerde ohne Anhörung des
 Gegners des Beschwerdeführers stattgegeben und kann seine Entscheidung
@@ -10887,16 +11352,19 @@ entsprechend.
 
 
 ### Dritter Abschnitt - Berufung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002602311)
 
 
 
 #### § 312 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042702311)
 
 Gegen die Urteile des Strafrichters und des Schöffengerichts ist
 Berufung zulässig.
 
 
 #### § 313 Annahmeberufung bei geringen Geldstrafen und Geldbußen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042803311)
 
 (1) Ist der Angeklagte zu einer Geldstrafe von nicht mehr als fünfzehn
 Tagessätzen verurteilt worden, beträgt im Falle einer Verwarnung die
@@ -10920,6 +11388,7 @@ Anwendung.
 
 
 #### § 314 Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE042905311)
 
 (1) Die Berufung muß bei dem Gericht des ersten Rechtszuges binnen
 einer Woche nach Verkündung des Urteils zu Protokoll der
@@ -10934,6 +11403,7 @@ hat.
 
 
 #### § 315 Berufung und Wiedereinsetzungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043002311)
 
 (1) Der Beginn der Frist zur Einlegung der Berufung wird dadurch nicht
 ausgeschlossen, daß gegen ein auf Ausbleiben des Angeklagten
@@ -10953,6 +11423,7 @@ letztere.
 
 
 #### § 316 Hemmung der Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043102311)
 
 (1) Durch rechtzeitige Einlegung der Berufung wird die Rechtskraft des
 Urteils, soweit es angefochten ist, gehemmt.
@@ -10962,6 +11433,7 @@ zugestellt war, ist es nach Einlegung der Berufung sofort zuzustellen.
 
 
 #### § 317 Berufungsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043202311)
 
 Die Berufung kann binnen einer weiteren Woche nach Ablauf der Frist
 zur Einlegung des Rechtsmittels oder, wenn zu dieser Zeit das Urteil
@@ -10971,6 +11443,7 @@ Beschwerdeschrift gerechtfertigt werden.
 
 
 #### § 318 Berufungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043302311)
 
 Die Berufung kann auf bestimmte Beschwerdepunkte beschränkt werden.
 Ist dies nicht geschehen oder eine Rechtfertigung überhaupt nicht
@@ -10978,6 +11451,7 @@ erfolgt, so gilt der ganze Inhalt des Urteils als angefochten.
 
 
 #### § 319 Verspätete Einlegung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043402311)
 
 (1) Ist die Berufung verspätet eingelegt, so hat das Gericht des
 ersten Rechtszuges das Rechtsmittel als unzulässig zu verwerfen.
@@ -10990,6 +11464,7 @@ Vorschrift des § 35a gilt entsprechend.
 
 
 #### § 320 Aktenübermittlung an die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043502311)
 
 Ist die Berufung rechtzeitig eingelegt, so hat nach Ablauf der Frist
 zur Rechtfertigung die Geschäftsstelle ohne Rücksicht darauf, ob eine
@@ -11000,6 +11475,7 @@ Rechtfertigung der Berufung zu.
 
 
 #### § 321 Aktenübermittlung an das Berufungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043602311)
 
 Die Staatsanwaltschaft übersendet die Akten an die Staatsanwaltschaft
 bei dem Berufungsgericht. Diese übergibt die Akten binnen einer Woche
@@ -11007,6 +11483,7 @@ dem Vorsitzenden des Gerichts.
 
 
 #### § 322 Verwerfung ohne Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043703311)
 
 (1) Erachtet das Berufungsgericht die Vorschriften über die Einlegung
 der Berufung nicht für beobachtet, so kann es das Rechtsmittel durch
@@ -11017,6 +11494,7 @@ durch Urteil; § 322a bleibt unberührt.
 
 
 #### § 322a Entscheidung über die Annahme der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062601311)
 
 Über die Annahme einer Berufung (§ 313) entscheidet das
 Berufungsgericht durch Beschluß. Die Entscheidung ist unanfechtbar.
@@ -11025,6 +11503,7 @@ Begründung.
 
 
 #### § 323 Vorbereitung der Berufungshauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043805125)
 
 (1) Für die Vorbereitung der Hauptverhandlung gelten die Vorschriften
 der §§ 214 und 216 bis 225a. In der Ladung ist der Angeklagte auf die
@@ -11050,6 +11529,7 @@ Personen Rücksicht zu nehmen.
 
 
 #### § 324 Gang der Berufungshauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE043902311)
 
 (1) Nachdem die Hauptverhandlung nach Vorschrift des § 243 Abs. 1
 begonnen hat, hält ein Berichterstatter in Abwesenheit der Zeugen
@@ -11064,6 +11544,7 @@ Beweisaufnahme.
 
 
 #### § 325 Verlesung von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044004311)
 
 Bei der Berichterstattung und der Beweisaufnahme können Urkunden
 verlesen werden; Protokolle über Aussagen der in der Hauptverhandlung
@@ -11076,6 +11557,7 @@ beantragt worden war.
 
 
 #### § 326 Schlussvorträge
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044102311)
 
 Nach dem Schluß der Beweisaufnahme werden die Staatsanwaltschaft sowie
 der Angeklagte und sein Verteidiger mit ihren Ausführungen und
@@ -11084,12 +11566,14 @@ Angeklagten gebührt das letzte Wort.
 
 
 #### § 327 Umfang der Urteilsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044202311)
 
 Der Prüfung des Gerichts unterliegt das Urteil nur, soweit es
 angefochten ist.
 
 
 #### § 328 Inhalt des Berufungsurteils
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044303311)
 
 (1) Soweit die Berufung für begründet befunden wird, hat das
 Berufungsgericht unter Aufhebung des Urteils in der Sache selbst zu
@@ -11101,6 +11585,7 @@ des Urteils die Sache an das zuständige Gericht zu verweisen.
 
 
 #### § 329 Ausbleiben des Angeklagten; Vertretung in der Berufungshauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044404125)
 
 (1) Ist bei Beginn eines Hauptverhandlungstermins weder der Angeklagte
 noch ein Verteidiger mit nachgewiesener Vertretungsvollmacht
@@ -11178,6 +11663,7 @@ bei der Zustellung des Urteils zu belehren.
 
 
 #### § 330 Maßnahmen bei Berufung des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044503125)
 
 (1) Ist von dem gesetzlichen Vertreter die Berufung eingelegt worden,
 so hat das Gericht auch den Angeklagten zu der Hauptverhandlung zu
@@ -11193,6 +11679,7 @@ entsprechend.
 
 
 #### § 331 Verbot der Verschlechterung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044703311)
 
 (1) Das Urteil darf in Art und Höhe der Rechtsfolgen der Tat nicht zum
 Nachteil des Angeklagten geändert werden, wenn lediglich der
@@ -11205,16 +11692,19 @@ entgegen.
 
 
 #### § 332 Anwendbarkeit der Vorschriften über die erstinstanzliche Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044802311)
 
 Im übrigen gelten die im sechsten Abschnitt des zweiten Buches über
 die Hauptverhandlung gegebenen Vorschriften.
 
 
 ### Vierter Abschnitt - Revision
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002702311)
 
 
 
 #### § 333 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE044902311)
 
 Gegen die Urteile der Strafkammern und der Schwurgerichte sowie gegen
 die im ersten Rechtszug ergangenen Urteile der Oberlandesgerichte ist
@@ -11222,10 +11712,12 @@ Revision zulässig.
 
 
 #### § 334 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045001309)
 
 
 
 #### § 335 Sprungrevision
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045102311)
 
 (1) Ein Urteil, gegen das Berufung zulässig ist, kann statt mit
 Berufung mit Revision angefochten werden.
@@ -11245,6 +11737,7 @@ allgemein geltenden Vorschriften zulässig.
 
 
 #### § 336 Überprüfung der dem Urteil vorausgegangenen Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045202311)
 
 Der Beurteilung des Revisionsgerichts unterliegen auch die
 Entscheidungen, die dem Urteil vorausgegangen sind, sofern es auf
@@ -11254,6 +11747,7 @@ sind.
 
 
 #### § 337 Revisionsgründe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045302311)
 
 (1) Die Revision kann nur darauf gestützt werden, daß das Urteil auf
 einer Verletzung des Gesetzes beruhe.
@@ -11263,6 +11757,7 @@ richtig angewendet worden ist.
 
 
 #### § 338 Absolute Revisionsgründe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045403125)
 
 Ein Urteil ist stets als auf einer Verletzung des Gesetzes beruhend
 anzusehen,
@@ -11334,6 +11829,7 @@ anzusehen,
 
 
 #### § 339 Rechtsnormen zugunsten des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045502311)
 
 Die Verletzung von Rechtsnormen, die lediglich zugunsten des
 Angeklagten gegeben sind, kann von der Staatsanwaltschaft nicht zu dem
@@ -11342,6 +11838,7 @@ Nachteil des Angeklagten herbeizuführen.
 
 
 #### § 340 Revision gegen Berufungsurteile bei Vertretung des Angeklagten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045602311)
 
 Ist nach § 329 Absatz 2 verfahren worden, kann der Angeklagte die
 Revision gegen das auf seine Berufung hin ergangene Urteil nicht
@@ -11350,6 +11847,7 @@ Berufungshauptverhandlung erforderlich gewesen wäre.
 
 
 #### § 341 Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045704311)
 
 (1) Die Revision muß bei dem Gericht, dessen Urteil angefochten wird,
 binnen einer Woche nach Verkündung des Urteils zu Protokoll der
@@ -11364,6 +11862,7 @@ stattgefunden hat.
 
 
 #### § 342 Revision und Wiedereinsetzungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045802311)
 
 (1) Der Beginn der Frist zur Einlegung der Revision wird dadurch nicht
 ausgeschlossen, daß gegen ein auf Ausbleiben des Angeklagten
@@ -11383,6 +11882,7 @@ letztere.
 
 
 #### § 343 Hemmung der Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE045902311)
 
 (1) Durch rechtzeitige Einlegung der Revision wird die Rechtskraft des
 Urteils, soweit es angefochten ist, gehemmt.
@@ -11392,6 +11892,7 @@ zugestellt war, ist es nach Einlegung der Revision zuzustellen.
 
 
 #### § 344 Revisionsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046002311)
 
 (1) Der Beschwerdeführer hat die Erklärung abzugeben, inwieweit er das
 Urteil anfechte und dessen Aufhebung beantrage (Revisionsanträge), und
@@ -11404,6 +11905,7 @@ Mangel enthaltenden Tatsachen angegeben werden.
 
 
 #### § 345 Revisionsbegründungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046103125)
 
 (1) Die Revisionsanträge und ihre Begründung sind spätestens binnen
 eines Monats nach Ablauf der Frist zur Einlegung des Rechtsmittels bei
@@ -11423,6 +11925,7 @@ Geschäftsstelle geschehen.
 
 
 #### § 346 Verspätete oder formwidrige Einlegung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046202311)
 
 (1) Ist die Revision verspätet eingelegt oder sind die
 Revisionsanträge nicht rechtzeitig oder nicht in der in § 345 Abs. 2
@@ -11438,6 +11941,7 @@ Vorschrift des § 35a gilt entsprechend.
 
 
 #### § 347 Zustellung; Gegenerklärung; Vorlage der Akten an das Revisionsgericht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046303360)
 
 (1) Ist die Revision rechtzeitig eingelegt und sind die
 Revisionsanträge rechtzeitig und in der vorgeschriebenen Form
@@ -11454,6 +11958,7 @@ die Staatsanwaltschaft die Akten an das Revisionsgericht.
 
 
 #### § 348 Unzuständigkeit des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046402311)
 
 (1) Findet das Gericht, an das die Akten gesandt sind, daß die
 Verhandlung und Entscheidung über das Rechtsmittel zur Zuständigkeit
@@ -11468,6 +11973,7 @@ bezeichnete Gericht bindend.
 
 
 #### § 349 Entscheidung ohne Hauptverhandlung durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046502311)
 
 (1) Erachtet das Revisionsgericht die Vorschriften über die Einlegung
 der Revision oder die über die Anbringung der Revisionsanträge nicht
@@ -11492,6 +11998,7 @@ entscheidet es über das Rechtsmittel durch Urteil.
 
 
 #### § 350 Revisionshauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046605125)
 
 (1) Dem Angeklagten, seinem gesetzlichen Vertreter und dem Verteidiger
 sowie dem Nebenkläger und den Personen, die nach § 214 Absatz 1 Satz 2
@@ -11535,6 +12042,7 @@ Tonübertragung hinzuweisen.
 
 
 #### § 351 Gang der Revisionshauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046702311)
 
 (1) Die Hauptverhandlung beginnt mit dem Vortrag eines
 Berichterstatters.
@@ -11546,6 +12054,7 @@ Wort.
 
 
 #### § 352 Umfang der Urteilsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046802311)
 
 (1) Der Prüfung des Revisionsgerichts unterliegen nur die gestellten
 Revisionsanträge und, soweit die Revision auf Mängel des Verfahrens
@@ -11558,6 +12067,7 @@ unschädlich.
 
 
 #### § 353 Aufhebung des Urteils und der Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE046902311)
 
 (1) Soweit die Revision für begründet erachtet wird, ist das
 angefochtene Urteil aufzuheben.
@@ -11568,6 +12078,7 @@ wegen deren das Urteil aufgehoben wird.
 
 
 #### § 354 Eigene Entscheidung in der Sache; Zurückverweisung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047003311)
 
 (1) Erfolgt die Aufhebung des Urteils nur wegen Gesetzesverletzung bei
 Anwendung des Gesetzes auf die dem Urteil zugrunde liegenden
@@ -11605,6 +12116,7 @@ Zuständigkeit gehört.
 
 
 #### § 354a Entscheidung bei Gesetzesänderung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047102311)
 
 Das Revisionsgericht hat auch dann nach § 354 zu verfahren, wenn es
 das Urteil aufhebt, weil zur Zeit der Entscheidung des
@@ -11613,6 +12125,7 @@ der angefochtenen Entscheidung.
 
 
 #### § 355 Verweisung an das zuständige Gericht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047202311)
 
 Wird ein Urteil aufgehoben, weil das Gericht des vorangehenden
 Rechtszuges sich mit Unrecht für zuständig erachtet hat, so verweist
@@ -11620,11 +12133,13 @@ das Revisionsgericht gleichzeitig die Sache an das zuständige Gericht.
 
 
 #### § 356 Urteilsverkündung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047302311)
 
 Die Verkündung des Urteils erfolgt nach Maßgabe des § 268.
 
 
 #### § 356a Verletzung des Anspruchs auf rechtliches Gehör bei einer Revisionsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE068102125)
 
 Hat das Gericht bei einer Revisionsentscheidung den Anspruch eines
 Beteiligten auf rechtliches Gehör in entscheidungserheblicher Weise
@@ -11641,6 +12156,7 @@ entsprechend.
 
 
 #### § 357 Revisionserstreckung auf Mitverurteilte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047403311)
 
 Erfolgt zugunsten eines Angeklagten die Aufhebung des Urteils wegen
 Gesetzesverletzung bei Anwendung des Strafgesetzes und erstreckt sich
@@ -11650,6 +12166,7 @@ gleichfalls Revision eingelegt hätten. § 47 Abs. 3 gilt entsprechend.
 
 
 #### § 358 Bindung des Tatgerichts; Verbot der Schlechterstellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047604311)
 
 (1) Das Gericht, an das die Sache zur anderweiten Verhandlung und
 Entscheidung verwiesen ist, hat die rechtliche Beurteilung, die der
@@ -11668,10 +12185,12 @@ entgegen.
 
 
 ## Viertes Buch - Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002802311)
 
 
 
 ### § 359 Wiederaufnahme zugunsten des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047703311)
 
 Die Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen
 Verfahrens zugunsten des Verurteilten ist zulässig,
@@ -11714,6 +12233,7 @@ Verfahrens zugunsten des Verurteilten ist zulässig,
 
 
 ### § 360 Keine Hemmung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047802311)
 
 (1) Durch den Antrag auf Wiederaufnahme des Verfahrens wird die
 Vollstreckung des Urteils nicht gehemmt.
@@ -11723,6 +12243,7 @@ der Vollstreckung anordnen.
 
 
 ### § 361 Wiederaufnahme nach Vollstreckung oder Tod des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE047903311)
 
 (1) Der Antrag auf Wiederaufnahme des Verfahrens wird weder durch die
 erfolgte Strafvollstreckung noch durch den Tod des Verurteilten
@@ -11734,6 +12255,7 @@ Verstorbenen zu dem Antrag befugt.
 
 
 ### § 362 Wiederaufnahme zuungunsten des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048003125)
 
 Die Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen
 Verfahrens zuungunsten des Angeklagten ist zulässig,
@@ -11771,6 +12293,7 @@ Verfahrens zuungunsten des Angeklagten ist zulässig,
 
 
 ### § 363 Unzulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048102311)
 
 (1) Eine Wiederaufnahme des Verfahrens zu dem Zweck, eine andere
 Strafbemessung auf Grund desselben Strafgesetzes herbeizuführen, ist
@@ -11782,6 +12305,7 @@ Strafgesetzbuches) herbeizuführen, ist gleichfalls ausgeschlossen.
 
 
 ### § 364 Behauptung einer Straftat
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048202311)
 
 Ein Antrag auf Wiederaufnahme des Verfahrens, der auf die Behauptung
 einer Straftat gegründet werden soll, ist nur dann zulässig, wenn
@@ -11792,6 +12316,7 @@ gilt nicht im Falle des § 359 Nr. 5.
 
 
 ### § 364a Bestellung eines Verteidigers für das Wiederaufnahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048302311)
 
 Das für die Entscheidungen im Wiederaufnahmeverfahren zuständige
 Gericht bestellt dem Verurteilten, der keinen Verteidiger hat, auf
@@ -11801,6 +12326,7 @@ Verteidigers geboten erscheint.
 
 
 ### § 364b Bestellung eines Verteidigers für die Vorbereitung des Wiederaufnahmeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048403311)
 
 (1) Das für die Entscheidungen im Wiederaufnahmeverfahren zuständige
 Gericht bestellt dem Verurteilten, der keinen Verteidiger hat, auf
@@ -11833,12 +12359,14 @@ Satz 1, 2 und 4 der Zivilprozeßordnung entsprechend.
 
 
 ### § 365 Geltung der allgemeinen Vorschriften über Rechtsmittel für den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048502311)
 
 Die allgemeinen Vorschriften über Rechtsmittel gelten auch für den
 Antrag auf Wiederaufnahme des Verfahrens.
 
 
 ### § 366 Inhalt und Form des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048602311)
 
 (1) In dem Antrag müssen der gesetzliche Grund der Wiederaufnahme des
 Verfahrens sowie die Beweismittel angegeben werden.
@@ -11850,6 +12378,7 @@ Geschäftsstelle angebracht werden.
 
 
 ### § 367 Zuständigkeit des Gerichts; Entscheidung ohne mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048702311)
 
 (1) Die Zuständigkeit des Gerichts für die Entscheidungen im
 Wiederaufnahmeverfahren und über den Antrag zur Vorbereitung eines
@@ -11865,6 +12394,7 @@ mündliche Verhandlung.
 
 
 ### § 368 Verwerfung wegen Unzulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048802311)
 
 (1) Ist der Antrag nicht in der vorgeschriebenen Form angebracht oder
 ist darin kein gesetzlicher Grund der Wiederaufnahme geltend gemacht
@@ -11876,6 +12406,7 @@ einer Frist zur Erklärung zuzustellen.
 
 
 ### § 369 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE048902311)
 
 (1) Wird der Antrag für zulässig befunden, so beauftragt das Gericht
 mit der Aufnahme der angetretenen Beweise, soweit dies erforderlich
@@ -11899,6 +12430,7 @@ aufzufordern.
 
 
 ### § 370 Entscheidung über die Begründetheit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049002311)
 
 (1) Der Antrag auf Wiederaufnahme des Verfahrens wird ohne mündliche
 Verhandlung als unbegründet verworfen, wenn die darin aufgestellten
@@ -11913,6 +12445,7 @@ und die Erneuerung der Hauptverhandlung an.
 
 
 ### § 371 Freisprechung ohne erneute Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049104311)
 
 (1) Ist der Verurteilte bereits verstorben, so hat ohne Erneuerung der
 Hauptverhandlung das Gericht nach Aufnahme des etwa noch
@@ -11934,6 +12467,7 @@ Gerichts auch auf andere geeignete Weise veröffentlicht werden.
 
 
 ### § 372 Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049202311)
 
 Alle Entscheidungen, die aus Anlaß eines Antrags auf Wiederaufnahme
 des Verfahrens von dem Gericht im ersten Rechtszug erlassen werden,
@@ -11944,6 +12478,7 @@ Staatsanwaltschaft nicht angefochten werden.
 
 
 ### § 373 Urteil nach erneuter Hauptverhandlung; Verbot der Schlechterstellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049403311)
 
 (1) In der erneuten Hauptverhandlung ist entweder das frühere Urteil
 aufrechtzuerhalten oder unter seiner Aufhebung anderweit in der Sache
@@ -11959,6 +12494,7 @@ entgegen.
 
 
 ### § 373a Verfahren bei Strafbefehl
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049503311)
 
 (1) Die Wiederaufnahme eines durch rechtskräftigen Strafbefehl
 abgeschlossenen Verfahrens zuungunsten des Verurteilten ist auch
@@ -11972,14 +12508,17 @@ rechtskräftigen Strafbefehl abgeschlossenen Verfahrens die §§ 359 bis
 
 
 ## Fünftes Buch - Beteiligung des Verletzten am Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG002903125)
 
 
 
 ### Erster Abschnitt - Definition
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG005200125)
 
 
 
 #### § 373b Begriff des Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE076100125)
 
 (1) Im Sinne dieses Gesetzes sind Verletzte diejenigen, die durch die
 Tat, ihre Begehung unterstellt oder rechtskräftig festgestellt, in
@@ -12009,10 +12548,12 @@ unterstellt oder rechtskräftig festgestellt, gewesen ist.
 
 
 ### Zweiter Abschnitt - Privatklage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003003125)
 
 
 
 #### § 374 Zulässigkeit; Privatklageberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049625125)
 
 (1) Im Wege der Privatklage können vom Verletzten verfolgt werden,
 ohne daß es einer vorgängigen Anrufung der Staatsanwaltschaft bedarf,
@@ -12081,6 +12622,7 @@ in bürgerlichen Rechtsstreitigkeiten vertreten werden.
 
 
 #### § 375 Mehrere Privatklageberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049702311)
 
 (1) Sind wegen derselben Straftat mehrere Personen zur Privatklage
 berechtigt, so ist bei Ausübung dieses Rechts ein jeder von dem
@@ -12097,6 +12639,7 @@ welche die Privatklage nicht erhoben haben.
 
 
 #### § 376 Anklageerhebung bei Privatklagedelikten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049802311)
 
 Die öffentliche Klage wird wegen der in § 374 bezeichneten Straftaten
 von der Staatsanwaltschaft nur dann erhoben, wenn dies im öffentlichen
@@ -12104,6 +12647,7 @@ Interesse liegt.
 
 
 #### § 377 Beteiligung der Staatsanwaltschaft; Übernahme der Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE049903311)
 
 (1) Im Privatklageverfahren ist der Staatsanwalt zu einer Mitwirkung
 nicht verpflichtet. Das Gericht legt ihm die Akten vor, wenn es die
@@ -12116,6 +12660,7 @@ Rechtsmittels ist die Übernahme der Verfolgung enthalten.
 
 
 #### § 378 Beistand und Vertreter des Privatklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050003311)
 
 Der Privatkläger kann im Beistand eines Rechtsanwalts erscheinen oder
 sich durch einen Rechtsanwalt mit nachgewiesener Vertretungsvollmacht
@@ -12124,6 +12669,7 @@ Privatkläger mit rechtlicher Wirkung an den Anwalt erfolgen.
 
 
 #### § 379 Sicherheitsleistung; Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050103311)
 
 (1) Der Privatkläger hat für die dem Beschuldigten voraussichtlich
 erwachsenden Kosten unter denselben Voraussetzungen Sicherheit zu
@@ -12142,6 +12688,7 @@ bürgerlichen Rechtsstreitigkeiten.
 
 
 #### § 379a Gebührenvorschuss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050204311)
 
 (1) Zur Zahlung des Gebührenvorschusses nach § 16 Abs. 1 des
 Gerichtskostengesetzes soll, sofern nicht dem Privatkläger die
@@ -12162,6 +12709,7 @@ die Zahlung innerhalb der gesetzten Frist eingegangen ist.
 
 
 #### § 380 Erfolgloser Sühneversuch als Zulässigkeitsvoraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050305311)
 
 (1) Wegen Hausfriedensbruchs, Beleidigung, Verletzung des
 Briefgeheimnisses, Körperverletzung (§§ 223 und 229 des
@@ -12187,6 +12735,7 @@ Sühneversuch abgesehen werden.
 
 
 #### § 381 Erhebung der Privatklage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050403311)
 
 Die Erhebung der Klage geschieht zu Protokoll der Geschäftsstelle oder
 durch Einreichung einer Anklageschrift. Die Klage muß den in § 200
@@ -12197,12 +12746,14 @@ wird.
 
 
 #### § 382 Mitteilung der Privatklage an den Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050502311)
 
 Ist die Klage vorschriftsmäßig erhoben, so teilt das Gericht sie dem
 Beschuldigten unter Bestimmung einer Frist zur Erklärung mit.
 
 
 #### § 383 Eröffnungs- oder Zurückweisungsbeschluss; Einstellung bei geringer Schuld
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050602311)
 
 (1) Nach Eingang der Erklärung des Beschuldigten oder Ablauf der Frist
 entscheidet das Gericht darüber, ob das Hauptverfahren zu eröffnen
@@ -12219,6 +12770,7 @@ angefochten werden.
 
 
 #### § 384 Weiteres Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050702311)
 
 (1) Das weitere Verfahren richtet sich nach den Vorschriften, die für
 das Verfahren auf erhobene öffentliche Klage gegeben sind. Jedoch
@@ -12239,6 +12791,7 @@ verhandelt werden.
 
 
 #### § 385 Stellung des Privatklägers; Ladung; Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050806125)
 
 (1) Soweit in dem Verfahren auf erhobene öffentliche Klage die
 Staatsanwaltschaft zuzuziehen und zu hören ist, wird in dem Verfahren
@@ -12273,6 +12826,7 @@ Abs. 2 nicht erforderlich. § 349 Abs. 3 ist nicht anzuwenden.
 
 
 #### § 386 Ladung von Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE050902311)
 
 (1) Der Vorsitzende des Gerichts bestimmt, welche Personen als Zeugen
 oder Sachverständige zur Hauptverhandlung geladen werden sollen.
@@ -12282,6 +12836,7 @@ unmittelbaren Ladung zu.
 
 
 #### § 387 Vertretung in der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051003311)
 
 (1) In der Hauptverhandlung kann auch der Angeklagte im Beistand eines
 Rechtsanwalts erscheinen oder sich auf Grund einer nachgewiesenen
@@ -12296,6 +12851,7 @@ lassen.
 
 
 #### § 388 Widerklage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051102311)
 
 (1) Hat der Verletzte die Privatklage erhoben, so kann der
 Beschuldigte bis zur Beendigung des letzten Wortes (§ 258 Abs. 2
@@ -12318,6 +12874,7 @@ Widerklage ohne Einfluß.
 
 
 #### § 389 Einstellung durch Urteil bei Verdacht eines Offizialdelikts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051202311)
 
 (1) Findet das Gericht nach verhandelter Sache, daß die für
 festgestellt zu erachtenden Tatsachen eine Straftat darstellen, auf
@@ -12330,6 +12887,7 @@ mitzuteilen.
 
 
 #### § 390 Rechtsmittel des Privatklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051302311)
 
 (1) Dem Privatkläger stehen die Rechtsmittel zu, die in dem Verfahren
 auf erhobene öffentliche Klage der Staatsanwaltschaft zustehen.
@@ -12357,6 +12915,7 @@ ist nicht anfechtbar.
 
 
 #### § 391 Rücknahme der Privatklage; Verwerfung bei Versäumung; Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051402311)
 
 (1) Die Privatklage kann in jeder Lage des Verfahrens zurückgenommen
 werden. Nach Beginn der Vernehmung des Angeklagten zur Sache in der
@@ -12382,11 +12941,13 @@ bezeichneten Voraussetzungen beanspruchen.
 
 
 #### § 392 Wirkung der Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051502311)
 
 Die zurückgenommene Privatklage kann nicht von neuem erhoben werden.
 
 
 #### § 393 Tod des Privatklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051602311)
 
 (1) Der Tod des Privatklägers hat die Einstellung des Verfahrens zur
 Folge.
@@ -12401,6 +12962,7 @@ Gericht zu erklären.
 
 
 #### § 394 Bekanntmachung an den Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051702311)
 
 Die Zurücknahme der Privatklage und der Tod des Privatklägers sowie
 die Fortsetzung der Privatklage sind dem Beschuldigten
@@ -12408,10 +12970,12 @@ bekanntzumachen.
 
 
 ### Dritter Abschnitt - Nebenklage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003103125)
 
 
 
 #### § 395 Befugnis zum Anschluss als Nebenkläger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051822360)
 
 (1) Der erhobenen öffentlichen Klage oder dem Antrag im
 Sicherungsverfahren kann sich mit der Nebenklage anschließen, wer
@@ -12488,6 +13052,7 @@ Nebenklage betrifft.
 
 
 #### § 396 Anschlusserklärung; Entscheidung über die Befugnis zum Anschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE051904311)
 
 (1) Die Anschlußerklärung ist bei dem Gericht schriftlich
 einzureichen. Eine vor Erhebung der öffentlichen Klage bei der
@@ -12509,6 +13074,7 @@ zunächst über die Berechtigung zum Anschluß.
 
 
 #### § 397 Verfahrensrechte des Nebenklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052005311)
 
 (1) Der Nebenkläger ist, auch wenn er als Zeuge vernommen werden soll,
 zur Anwesenheit in der Hauptverhandlung berechtigt. Er ist zur
@@ -12538,6 +13104,7 @@ ist.
 
 
 #### § 397a Bestellung eines Beistands; Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061720360)
 
 (1) Dem Nebenkläger ist auf seinen Antrag ein Rechtsanwalt als
 Beistand zu bestellen, wenn er
@@ -12604,6 +13171,7 @@ des mit der Sache befassten Gerichts.
 
 
 #### § 397b Gemeinschaftliche Nebenklagevertretung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075301360)
 
 (1) Verfolgen mehrere Nebenkläger gleichgelagerte Interessen, so kann
 ihnen das Gericht einen gemeinschaftlichen Rechtsanwalt als Beistand
@@ -12647,6 +13215,7 @@ Absatz 1 Satz 3 selbst auszuüben.
 
 
 #### § 398 Fortgang des Verfahrens bei Anschluss
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052102311)
 
 (1) Der Fortgang des Verfahrens wird durch den Anschluß nicht
 aufgehalten.
@@ -12657,6 +13226,7 @@ Kürze der Zeit nicht mehr geladen oder benachrichtigt werden konnte.
 
 
 #### § 399 Bekanntmachung und Anfechtbarkeit früherer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052202311)
 
 (1) Entscheidungen, die schon vor dem Anschluß ergangen und der
 Staatsanwaltschaft bekanntgemacht waren, bedürfen außer in den Fällen
@@ -12668,6 +13238,7 @@ Anfechtung abgelaufen ist.
 
 
 #### § 400 Rechtsmittelbefugnis des Nebenklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052303311)
 
 (1) Der Nebenkläger kann das Urteil nicht mit dem Ziel anfechten, daß
 eine andere Rechtsfolge der Tat verhängt wird oder daß der Angeklagte
@@ -12683,6 +13254,7 @@ für den Nebenkläger unanfechtbar.
 
 
 #### § 401 Einlegung eines Rechtsmittels durch den Nebenkläger
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052402311)
 
 (1) Der Rechtsmittel kann sich der Nebenkläger unabhängig von der
 Staatsanwaltschaft bedienen. Geschieht der Anschluß nach ergangenem
@@ -12717,16 +13289,19 @@ wiederum der Staatsanwaltschaft ob.
 
 
 #### § 402 Widerruf der Anschlusserklärung; Tod des Nebenklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052502311)
 
 Die Anschlußerklärung verliert durch Widerruf sowie durch den Tod des
 Nebenklägers ihre Wirkung.
 
 
 ### Vierter Abschnitt - Adhäsionsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003203125)
 
 
 
 #### § 403 Geltendmachung eines Anspruchs im Adhäsionsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052605125)
 
 Der Verletzte oder sein Erbe kann gegen den Beschuldigten einen aus
 der Straftat erwachsenen vermögensrechtlichen Anspruch, der zur
@@ -12738,6 +13313,7 @@ einen solchen Anspruch geltend machen.
 
 
 #### § 404 Antrag; Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052707125)
 
 (1) Der Antrag, durch den der Anspruch geltend gemacht wird, kann
 schriftlich oder mündlich zu Protokoll des Urkundsbeamten, in der
@@ -12772,6 +13348,7 @@ Entscheidung ist nicht anfechtbar.
 
 
 #### § 405 Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052804125)
 
 (1) Auf Antrag der nach § 403 zur Geltendmachung eines Anspruchs
 Berechtigten und des Angeklagten nimmt das Gericht einen Vergleich
@@ -12786,6 +13363,7 @@ seinen Sitz hat.
 
 
 #### § 406 Entscheidung über den Antrag im Strafurteil; Absehen von einer Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE052904311)
 
 (1) Das Gericht gibt dem Antrag in dem Urteil statt, mit dem der
 Angeklagte wegen einer Straftat schuldig gesprochen oder gegen ihn
@@ -12831,6 +13409,7 @@ den Antrag ab.
 
 
 #### § 406a Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053003311)
 
 (1) Gegen den Beschluss, mit dem nach § 406 Abs. 5 Satz 2 von einer
 Entscheidung über den Antrag abgesehen wird, ist sofortige Beschwerde
@@ -12856,6 +13435,7 @@ nicht angefochten ist.
 
 
 #### § 406b Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053103311)
 
 Die Vollstreckung richtet sich nach den Vorschriften, die für die
 Vollstreckung von Urteilen und Prozessvergleichen in bürgerlichen
@@ -12871,6 +13451,7 @@ Berufungsrechtszug entstanden sind.
 
 
 #### § 406c Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053202311)
 
 (1) Den Antrag auf Wiederaufnahme des Verfahrens kann der Angeklagte
 darauf beschränken, eine wesentlich andere Entscheidung über den
@@ -12883,10 +13464,12 @@ entsprechend.
 
 
 ### Fünfter Abschnitt - Sonstige Befugnisse des Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004103125)
 
 
 
 #### § 406d Auskunft über den Stand des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053310125)
 
 (1) Dem Verletzten ist, soweit es ihn betrifft, auf Antrag
 mitzuteilen:
@@ -12955,6 +13538,7 @@ beigeordnet worden oder wird er durch einen solchen vertreten, so gilt
 
 
 #### § 406e Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069204125)
 
 (1) Für den Verletzten kann ein Rechtsanwalt die Akten, die dem
 Gericht vorliegen oder diesem im Falle der Erhebung der öffentlichen
@@ -12994,6 +13578,7 @@ deren Offenlegung der Untersuchungszweck gefährdet werden könnte.
 
 
 #### § 406f Verletztenbeistand
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061904311)
 
 (1) Verletzte können sich des Beistands eines Rechtsanwalts bedienen
 oder sich durch einen solchen vertreten lassen. Einem zur Vernehmung
@@ -13009,6 +13594,7 @@ aktenkundig zu machen.
 
 
 #### § 406g Psychosoziale Prozessbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072003360)
 
 (1) Verletzte können sich des Beistands eines psychosozialen
 Prozessbegleiters bedienen. Dem psychosozialen Prozessbegleiter ist es
@@ -13040,6 +13626,7 @@ anfechtbar. Die Gründe einer Ablehnung sind aktenkundig zu machen.
 
 
 #### § 406h Beistand des nebenklageberechtigten Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062009360)
 
 (1) Nach § 395 zum Anschluss mit der Nebenklage Befugte können sich
 auch vor Erhebung der öffentlichen Klage und ohne Erklärung eines
@@ -13099,6 +13686,7 @@ Prozeßkostenhilfe abgelehnt wird.
 
 
 #### § 406i Unterrichtung des Verletzten über seine Befugnisse im Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062107311)
 
 (1) Verletzte sind möglichst frühzeitig, regelmäßig schriftlich und
 soweit möglich in einer für sie verständlichen Sprache über ihre aus
@@ -13156,6 +13744,7 @@ Betracht kommt, sowie auf § 241a.
 
 
 #### § 406j Unterrichtung des Verletzten über seine Befugnisse außerhalb des Strafverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072101125)
 
 Verletzte sind möglichst frühzeitig, regelmäßig schriftlich und soweit
 möglich in einer für sie verständlichen Sprache über folgende
@@ -13204,6 +13793,7 @@ haben:
 
 
 #### § 406k Weitere Informationen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072200311)
 
 (1) Die Informationen nach den §§ 406i und 406j sollen jeweils Angaben
 dazu enthalten,
@@ -13224,6 +13814,7 @@ Anschrift angegeben haben, besteht keine schriftliche Hinweispflicht.
 
 
 #### § 406l Befugnisse von Angehörigen und Erben von Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072300311)
 
 § 406i Absatz 1 sowie die §§ 406j und 406k gelten auch für Angehörige
 und Erben von Verletzten, soweit ihnen die entsprechenden Befugnisse
@@ -13231,14 +13822,17 @@ zustehen.
 
 
 ## Sechstes Buch - Besondere Arten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003302311)
 
 
 
 ### Erster Abschnitt - Verfahren bei Strafbefehlen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003402311)
 
 
 
 #### § 407 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053406311)
 
 (1) Im Verfahren vor dem Strafrichter und im Verfahren, das zur
 Zuständigkeit des Schöffengerichts gehört, können bei Vergehen auf
@@ -13279,6 +13873,7 @@ Bewährung ausgesetzt wird.
 
 
 #### § 408 Richterliche Entscheidung über einen Strafbefehlsantrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053503311)
 
 (1) Hält der Vorsitzende des Schöffengerichts die Zuständigkeit des
 Strafrichters für begründet, so gibt er die Sache durch Vermittlung
@@ -13304,6 +13899,7 @@ Strafbefehlsantrags ohne die beantragte Rechtsfolge mitzuteilen.
 
 
 #### § 408a Strafbefehlsantrag nach Eröffnung des Hauptverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062403311)
 
 (1) Ist das Hauptverfahren bereits eröffnet, so kann im Verfahren vor
 dem Strafrichter und dem Schöffengericht die Staatsanwaltschaft einen
@@ -13323,6 +13919,7 @@ Hauptverfahren fort.
 
 
 #### § 408b Bestellung eines Verteidigers bei beantragter Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062702125)
 
 Erwägt der Richter, dem Antrag der Staatsanwaltschaft auf Erlaß eines
 Strafbefehls mit der in § 407 Abs. 2 Satz 2 genannten Rechtsfolge zu
@@ -13331,6 +13928,7 @@ Verteidiger hat, einen Pflichtverteidiger.
 
 
 #### § 409 Inhalt des Strafbefehls
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053607311)
 
 (1) Der Strafbefehl enthält
 
@@ -13372,6 +13970,7 @@ Angeklagten mitgeteilt.
 
 
 #### § 410 Einspruch; Form und Frist des Einspruchs; Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053703311)
 
 (1) Der Angeklagte kann gegen den Strafbefehl innerhalb von zwei
 Wochen nach Zustellung bei dem Gericht, das den Strafbefehl erlassen
@@ -13387,6 +13986,7 @@ worden ist, steht er einem rechtskräftigen Urteil gleich.
 
 
 #### § 411 Verwerfung wegen Unzulässigkeit; Termin zur Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053806311)
 
 (1) Ist der Einspruch verspätet eingelegt oder sonst unzulässig, so
 wird er ohne Hauptverhandlung durch Beschluß verworfen; gegen den
@@ -13413,6 +14013,7 @@ enthaltenen Ausspruch nicht gebunden, soweit Einspruch eingelegt ist.
 
 
 #### § 412 Ausbleiben des Angeklagten; Einspruchsverwerfung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE053902311)
 
 § 329 Absatz 1, 3, 6 und 7 ist entsprechend anzuwenden. Hat der
 gesetzliche Vertreter Einspruch eingelegt, so ist auch § 330
@@ -13420,10 +14021,12 @@ entsprechend anzuwenden.
 
 
 ### Zweiter Abschnitt - Sicherungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003502311)
 
 
 
 #### § 413 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054003125)
 
 Führt die Staatsanwaltschaft das Strafverfahren wegen
 Schuldunfähigkeit oder Verhandlungsunfähigkeit des Täters nicht durch,
@@ -13434,6 +14037,7 @@ Ermittlungen zu erwarten ist (Sicherungsverfahren).
 
 
 #### § 414 Verfahren; Antragsschrift
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054102311)
 
 (1) Für das Sicherungsverfahren gelten sinngemäß die Vorschriften über
 das Strafverfahren, soweit nichts anderes bestimmt ist.
@@ -13452,6 +14056,7 @@ gegeben werden.
 
 
 #### § 415 Hauptverhandlung ohne Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054202311)
 
 (1) Ist im Sicherungsverfahren das Erscheinen des Beschuldigten vor
 Gericht wegen seines Zustandes unmöglich oder aus Gründen der
@@ -13486,6 +14091,7 @@ Hauptverhandlung Gelegenheit gegeben werden.
 
 
 #### § 416 Übergang in das Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054302311)
 
 (1) Ergibt sich im Sicherungsverfahren nach Eröffnung des
 Hauptverfahrens die Schuldfähigkeit des Beschuldigten und ist das
@@ -13511,10 +14117,12 @@ seiner Verhandlungsunfähigkeit durchgeführt wird.
 
 
 ### Abschnitt 2a - Beschleunigtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004202311)
 
 
 
 #### § 417 Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063001311)
 
 Im Verfahren vor dem Strafrichter und dem Schöffengericht stellt die
 Staatsanwaltschaft schriftlich oder mündlich den Antrag auf
@@ -13524,6 +14132,7 @@ Verhandlung geeignet ist.
 
 
 #### § 418 Durchführung der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063102311)
 
 (1) Stellt die Staatsanwaltschaft den Antrag, so wird die
 Hauptverhandlung sofort oder in kurzer Frist durchgeführt, ohne daß es
@@ -13547,6 +14156,7 @@ beschleunigte Verfahren vor dem Amtsgericht ein Verteidiger bestellt.
 
 
 #### § 419 Entscheidung des Gerichts; Strafmaß
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063201311)
 
 (1) Der Strafrichter oder das Schöffengericht hat dem Antrag zu
 entsprechen, wenn sich die Sache zur Verhandlung in diesem Verfahren
@@ -13568,6 +14178,7 @@ Anklageschrift abgesehen werden.
 
 
 #### § 420 Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063302311)
 
 (1) Die Vernehmung eines Zeugen, Sachverständigen oder
 Mitbeschuldigten darf durch Verlesung von Protokollen über eine
@@ -13588,10 +14199,12 @@ in der Hauptverhandlung anwesend sind.
 
 
 ### Dritter Abschnitt - Verfahren bei Einziehung und Vermögensbeschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003603311)
 
 
 
 #### § 421 Absehen von der Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054404125)
 
 (1) Das Gericht kann mit Zustimmung der Staatsanwaltschaft von der
 Einziehung absehen, wenn
@@ -13621,6 +14234,7 @@ ist aktenkundig zu machen.
 
 
 #### § 422 Abtrennung der Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072800311)
 
 Würde die Herbeiführung einer Entscheidung über die Einziehung nach
 den §§ 73 bis 73c des Strafgesetzbuches die Entscheidung über die
@@ -13631,6 +14245,7 @@ anordnen.
 
 
 #### § 423 Einziehung nach Abtrennung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE072900311)
 
 (1) Trennt das Gericht das Verfahren nach § 422 ab, trifft es die
 Entscheidung über die Einziehung nach der Rechtskraft des Urteils in
@@ -13655,6 +14270,7 @@ Hauptverhandlung entsprechende Anwendung.
 
 
 #### § 424 Einziehungsbeteiligte am Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073001125)
 
 (1) Richtet sich die Einziehung gegen eine Person, die nicht
 Beschuldigter ist, so wird sie auf Anordnung des Gerichts am
@@ -13683,6 +14299,7 @@ nicht aufgehalten.
 
 
 #### § 425 Absehen von der Verfahrensbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073100311)
 
 (1) In den Fällen der §§ 74a und 74b des Strafgesetzbuches kann das
 Gericht von der Anordnung der Verfahrensbeteiligung absehen, wenn
@@ -13710,6 +14327,7 @@ hören, wenn dies ausführbar ist.
 
 
 #### § 426 Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073200311)
 
 (1) Ergeben sich im vorbereitenden Verfahren Anhaltspunkte dafür, dass
 jemand als Einziehungsbeteiligter in Betracht kommt, ist er zu hören.
@@ -13724,6 +14342,7 @@ Verfahrensbeteiligung in Betracht kommt.
 
 
 #### § 427 Befugnisse des Einziehungsbeteiligten im Hauptverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073300311)
 
 (1) Von der Eröffnung des Hauptverfahrens an hat der
 Einziehungsbeteiligte, soweit dieses Gesetz nichts anderes bestimmt,
@@ -13740,6 +14359,7 @@ Zustellung geladen worden ist.
 
 
 #### § 428 Vertretung des Einziehungsbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073401125)
 
 (1) Der Einziehungsbeteiligte kann sich in jeder Lage des Verfahrens
 durch einen Rechtsanwalt mit nachgewiesener Vertretungsvollmacht
@@ -13758,6 +14378,7 @@ Einziehungsbeteiligten ist zu entsprechen.
 
 
 #### § 429 Terminsnachricht an den Einziehungsbeteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073500311)
 
 (1) Dem Einziehungsbeteiligten wird der Termin zur Hauptverhandlung
 durch Zustellung bekanntgemacht; § 40 gilt entsprechend.
@@ -13782,6 +14403,7 @@ Fällen des § 207 Absatz 2 der Eröffnungsbeschluss mitgeteilt.
 
 
 #### § 430 Stellung in der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054504125)
 
 (1) Bleibt der Einziehungsbeteiligte in der Hauptverhandlung trotz
 ordnungsgemäßer Terminsnachricht aus, kann ohne ihn verhandelt werden;
@@ -13812,6 +14434,7 @@ Urteils, welche die Einziehung nicht betreffen, ausgeschieden werden.
 
 
 #### § 431 Rechtsmittelverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054603311)
 
 (1) Im Rechtsmittelverfahren erstreckt sich die Prüfung, ob die
 Einziehung dem Einziehungsbeteiligten gegenüber gerechtfertigt ist,
@@ -13846,6 +14469,7 @@ Widerspruchs hin und gibt ihnen Gelegenheit, sich zu äußern.
 
 
 #### § 432 Einziehung durch Strafbefehl
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054703311)
 
 (1) Wird die Einziehung durch Strafbefehl angeordnet, so wird der
 Strafbefehl auch dem Einziehungsbeteiligten zugestellt, soweit er an
@@ -13857,6 +14481,7 @@ entscheiden, so gilt § 434 Absatz 2 und 3 entsprechend.
 
 
 #### § 433 Nachverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054803311)
 
 (1) Ist die Einziehung rechtskräftig angeordnet worden und macht
 jemand glaubhaft, dass er seine Rechte als Einziehungsbeteiligter ohne
@@ -13894,6 +14519,7 @@ ausgeschlossen.
 
 
 #### § 434 Entscheidung im Nachverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE054904311)
 
 (1)
 Die Entscheidung über die Einziehung im Nachverfahren trifft das
@@ -13913,6 +14539,7 @@ Berufungsurteil nicht mehr Revision einlegen.
 
 
 #### § 435 Selbständiges Einziehungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055004125)
 
 (1) Die Staatsanwaltschaft und der Privatkläger können den Antrag
 stellen, die Einziehung selbständig anzuordnen, wenn dies gesetzlich
@@ -13938,6 +14565,7 @@ Sinne des § 101 Absatz 1 sind nicht zulässig.
 
 
 #### § 436 Entscheidung im selbständigen Einziehungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055103311)
 
 (1) Die Entscheidung über die selbständige Einziehung trifft das
 Gericht, das im Fall der Strafverfolgung einer bestimmten Person
@@ -13950,6 +14578,7 @@ entsprechend.
 
 
 #### § 437 Besondere Regelungen für das selbständige Einziehungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055203311)
 
 Bei der Entscheidung über die selbständige Einziehung nach § 76a
 Absatz 4 des Strafgesetzbuches kann das Gericht seine Überzeugung
@@ -13975,6 +14604,7 @@ berücksichtigen
 
 
 #### § 438 Nebenbetroffene am Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055303311)
 
 (1) Ist über die Einziehung eines Gegenstandes zu entscheiden, ordnet
 das Gericht an, dass eine Person, die weder Angeschuldigte ist noch
@@ -14018,16 +14648,19 @@ wäre.
 
 
 #### § 439 Der Einziehung gleichstehende Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055403311)
 
 Vernichtung, Unbrauchbarmachung und Beseitigung eines gesetzwidrigen
 Zustandes stehen im Sinne der §§ 421 bis 436 der Einziehung gleich.
 
 
 #### (XXXX) §§ 440 bis 442 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055503311)
 
 
 
 #### § 443 Vermögensbeschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055811125)
 
 (1) Das im Geltungsbereich dieses Gesetzes befindliche Vermögen oder
 einzelne Vermögensgegenstände eines Beschuldigten, gegen den wegen
@@ -14088,10 +14721,12 @@ binnen drei Tagen vom Richter bestätigt wird.
 
 
 ### Vierter Abschnitt - Verfahren bei Festsetzung von Geldbußen gegen juristische Personen und Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003702311)
 
 
 
 #### § 444 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE055904311)
 
 (1) Ist im Strafverfahren über die Festsetzung einer Geldbuße gegen
 eine juristische Person oder eine Personenvereinigung zu entscheiden
@@ -14114,24 +14749,29 @@ Personenvereinigung ihren Sitz oder eine Zweigniederlassung hat.
 
 
 #### (XXXX) §§ 445 bis 448 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056001309)
 
 
 
 ## Siebentes Buch - Strafvollstreckung und Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003802311)
 
 
 
 ### Erster Abschnitt - Strafvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG003902311)
 
 
 
 #### § 449 Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056102311)
 
 Strafurteile sind nicht vollstreckbar, bevor sie rechtskräftig
 geworden sind.
 
 
 #### § 450 Anrechnung von Untersuchungshaft und Führerscheinentziehung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056202311)
 
 (1) Auf die zu vollstreckende Freiheitsstrafe ist unverkürzt die
 Untersuchungshaft anzurechnen, die der Angeklagte erlitten hat, seit
@@ -14146,6 +14786,7 @@ des Strafgesetzbuches) anzurechnen.
 
 
 #### § 450a Anrechnung einer im Ausland erlittenen Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056302311)
 
 (1) Auf die zu vollstreckende Freiheitsstrafe ist auch die im Ausland
 erlittene Freiheitsentziehung anzurechnen, die der Verurteilte in
@@ -14169,6 +14810,7 @@ auch in einem anderen Verfahren auf die Strafe nicht angerechnet.
 
 
 #### § 451 Vollstreckungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056403125)
 
 (1) Die Strafvollstreckung erfolgt durch die Staatsanwaltschaft als
 Vollstreckungsbehörde auf Grund einer von dem Urkundsbeamten der
@@ -14187,6 +14829,7 @@ Staatsanwaltschaft am Ort der Strafvollstreckungskammer zustimmt.
 
 
 #### § 452 Begnadigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056502311)
 
 In Sachen, in denen im ersten Rechtszug in Ausübung von
 Gerichtsbarkeit des Bundes entschieden worden ist, steht das
@@ -14195,6 +14838,7 @@ Ländern zu.
 
 
 #### § 453 Nachträgliche Entscheidung über Strafaussetzung zur Bewährung oder Verwarnung mit Strafvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056605311)
 
 (1) Die nachträglichen Entscheidungen, die sich auf eine
 Strafaussetzung zur Bewährung oder eine Verwarnung mit Strafvorbehalt
@@ -14222,6 +14866,7 @@ angefochten werden.
 
 
 #### § 453a Belehrung bei Strafaussetzung oder Verwarnung mit Strafvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056702311)
 
 (1) Ist der Angeklagte nicht nach § 268a Abs. 3 belehrt worden, so
 wird die Belehrung durch das für die Entscheidungen nach § 453
@@ -14236,6 +14881,7 @@ belehrt werden. Absatz 1 gilt entsprechend.
 
 
 #### § 453b Bewährungsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056802311)
 
 (1) Das Gericht überwacht während der Bewährungszeit die Lebensführung
 des Verurteilten, namentlich die Erfüllung von Auflagen und Weisungen
@@ -14246,6 +14892,7 @@ zuständigen Gericht.
 
 
 #### § 453c Vorläufige Maßnahmen vor Widerruf der Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE056903311)
 
 (1) Sind hinreichende Gründe für die Annahme vorhanden, daß die
 Aussetzung widerrufen wird, so kann das Gericht bis zur Rechtskraft
@@ -14261,6 +14908,7 @@ Satz 1 sowie die §§ 114 bis 115a, 119 und 119a gelten entsprechend.
 
 
 #### § 454 Aussetzung des Restes einer Freiheitsstrafe zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057010311)
 
 (1) Die Entscheidung, ob die Vollstreckung des Restes einer
 Freiheitsstrafe zur Bewährung ausgesetzt werden soll (§§ 57 bis 58 des
@@ -14337,6 +14985,7 @@ erteilt werden.
 
 
 #### § 454a Beginn der Bewährungszeit; Aufhebung der Aussetzung des Strafrestes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061406311)
 
 (1) Beschließt das Gericht die Aussetzung der Vollstreckung des Restes
 einer Freiheitsstrafe mindestens drei Monate vor dem Zeitpunkt der
@@ -14353,6 +15002,7 @@ Strafgesetzbuches bleibt unberührt.
 
 
 #### § 454b Vollstreckungsreihenfolge bei Freiheits- und Ersatzfreiheitsstrafen; Unterbrechung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071801360)
 
 (1) Freiheitsstrafen und Ersatzfreiheitsstrafen sollen unmittelbar
 nacheinander vollstreckt werden.
@@ -14397,6 +15047,7 @@ kann.
 
 
 #### § 455 Strafausstand wegen Vollzugsuntauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057103311)
 
 (1) Die Vollstreckung einer Freiheitsstrafe ist aufzuschieben, wenn
 der Verurteilte in Geisteskrankheit verfällt.
@@ -14432,6 +15083,7 @@ unterbrochen werden, wenn überwiegende Gründe, namentlich der
 
 
 #### § 455a Strafausstand aus Gründen der Vollzugsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057202311)
 
 (1) Die Vollstreckungsbehörde kann die Vollstreckung einer
 Freiheitsstrafe oder einer freiheitsentziehenden Maßregel der
@@ -14447,6 +15099,7 @@ vorläufig unterbrechen.
 
 
 #### § 456 Vorübergehender Aufschub
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057302311)
 
 (1) Auf Antrag des Verurteilten kann die Vollstreckung aufgeschoben
 werden, sofern durch die sofortige Vollstreckung dem Verurteilten oder
@@ -14461,6 +15114,7 @@ Bedingungen geknüpft werden.
 
 
 #### § 456a Absehen von Vollstreckung bei Auslieferung, Überstellung oder Ausweisung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057406311)
 
 (1) Die Vollstreckungsbehörde kann von der Vollstreckung einer
 Freiheitsstrafe, einer Ersatzfreiheitsstrafe oder einer Maßregel der
@@ -14483,10 +15137,12 @@ Verurteilte ist zu belehren.
 
 
 #### § 456b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057501309)
 
 
 
 #### § 456c Aufschub und Aussetzung des Berufsverbotes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057602311)
 
 (1) Das Gericht kann bei Erlaß des Urteils auf Antrag oder mit
 Einwilligung des Verurteilten das Wirksamwerden des Berufsverbots
@@ -14509,6 +15165,7 @@ Berufsverbot festgesetzte Frist nicht angerechnet.
 
 
 #### § 457 Ermittlungshandlungen; Vorführungsbefehl, Vollstreckungshaftbefehl
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057703311)
 
 (1) § 161 gilt sinngemäß für die in diesem Abschnitt bezeichneten
 Zwecke.
@@ -14531,6 +15188,7 @@ Rechtszuges.
 
 
 #### § 458 Gerichtliche Entscheidungen bei Strafvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057805360)
 
 (1) Wenn über die Auslegung eines Strafurteils oder über die
 Berechnung der erkannten Strafe Zweifel entstehen oder wenn
@@ -14553,6 +15211,7 @@ Gericht eine einstweilige Anordnung treffen.
 
 
 #### § 459 Vollstreckung der Geldstrafe; Anwendung des Justizbeitreibungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE057903311)
 
 Für die Vollstreckung der Geldstrafe gelten die Vorschriften des
 Justizbeitreibungsgesetzes, soweit dieses Gesetz nichts anderes
@@ -14560,6 +15219,7 @@ bestimmt.
 
 
 #### § 459a Bewilligung von Zahlungserleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058004311)
 
 (1) Nach Rechtskraft des Urteils entscheidet über die Bewilligung von
 Zahlungserleichterungen bei Geldstrafen (§ 42 des Strafgesetzbuches)
@@ -14582,6 +15242,7 @@ Kosten getroffen werden.
 
 
 #### § 459b Anrechnung von Teilbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058102311)
 
 Teilbeträge werden, wenn der Verurteilte bei der Zahlung keine
 Bestimmung trifft, zunächst auf die Geldstrafe, dann auf die etwa
@@ -14590,6 +15251,7 @@ zuletzt auf die Kosten des Verfahrens angerechnet.
 
 
 #### § 459c Beitreibung der Geldstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058202311)
 
 (1) Die Geldstrafe oder der Teilbetrag der Geldstrafe wird vor Ablauf
 von zwei Wochen nach Eintritt der Fälligkeit nur beigetrieben, wenn
@@ -14604,6 +15266,7 @@ vollstreckt werden.
 
 
 #### § 459d Unterbleiben der Vollstreckung einer Geldstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058302311)
 
 (1) Das Gericht kann anordnen, daß die Vollstreckung der Geldstrafe
 ganz oder zum Teil unterbleibt, wenn
@@ -14625,6 +15288,7 @@ der Kosten des Verfahrens treffen.
 
 
 #### § 459e Vollstreckung der Ersatzfreiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058403125)
 
 (1) Die Ersatzfreiheitsstrafe wird auf Anordnung der
 Vollstreckungsbehörde vollstreckt.
@@ -14670,6 +15334,7 @@ nach § 459d unterbleibt. Absatz 3 gilt entsprechend.
 
 
 #### § 459f Unterbleiben der Vollstreckung einer Ersatzfreiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058502311)
 
 Das Gericht ordnet an, daß die Vollstreckung der Ersatzfreiheitsstrafe
 unterbleibt, wenn die Vollstreckung für den Verurteilten eine
@@ -14677,6 +15342,7 @@ unbillige Härte wäre.
 
 
 #### § 459g Vollstreckung von Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058606125)
 
 (1) Die Anordnung der Einziehung oder der Unbrauchbarmachung einer
 Sache wird dadurch vollstreckt, dass die Sache demjenigen, gegen den
@@ -14712,6 +15378,7 @@ Vollstreckung vorliegen, nicht entgegen.
 
 
 #### § 459h Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058704125)
 
 (1) Ein nach den §§ 73 bis 73b des Strafgesetzbuches eingezogener
 Gegenstand wird demjenigen, dem ein Anspruch auf Rückgewähr des
@@ -14735,6 +15402,7 @@ entsprechend.
 
 
 #### § 459i Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061503125)
 
 (1) Der Eintritt der Rechtskraft der Einziehungsanordnung nach den §§
 73 bis 73c und 76a Absatz 1 Satz 1 des Strafgesetzbuches, auch in
@@ -14752,6 +15420,7 @@ Verfahren nach den §§ 459k bis 459m zu verbinden.
 
 
 #### § 459j Verfahren bei Rückübertragung und Herausgabe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073601125)
 
 (1) Der Anspruchsinhaber hat seinen Anspruch auf Rückübertragung oder
 Herausgabe nach § 459h Absatz 1 binnen sechs Monaten nach der
@@ -14785,6 +15454,7 @@ geltend gemachte Anspruch ergibt.
 
 
 #### § 459k Verfahren bei Auskehrung des Verwertungserlöses
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073701125)
 
 (1) Der Anspruchsinhaber hat seinen Anspruch auf Auskehrung des
 Verwertungserlöses nach § 459h Absatz 2 binnen sechs Monaten nach der
@@ -14821,6 +15491,7 @@ Geldforderungen gleich.
 
 
 #### § 459l Ansprüche des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073801125)
 
 (1) Legt derjenige, gegen den sich die Anordnung der Einziehung
 richtet, ein vollstreckbares Endurteil im Sinne des § 704 der
@@ -14846,6 +15517,7 @@ ausführbar erscheint.
 
 
 #### § 459m Entschädigung in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE073901125)
 
 (1) In den Fällen des § 111i Absatz 3 wird der Überschuss an den
 Anspruchsinhaber ausgekehrt, der ein vollstreckbares Endurteil im
@@ -14867,6 +15539,7 @@ gepfändet wird.
 
 
 #### § 459n Zahlungen auf Wertersatzeinziehung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074000311)
 
 Leistet derjenige, gegen den sich die Anordnung richtet, Zahlungen auf
 die Anordnung der Einziehung des Wertersatzes nach den §§ 73c und 76a
@@ -14876,6 +15549,7 @@ Absatz 3 des Strafgesetzbuches, so gelten § 459h Absatz 2 sowie die §§
 
 
 #### § 459o Einwendungen gegen vollstreckungsrechtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074100311)
 
 Über Einwendungen gegen die Entscheidung der Vollstreckungsbehörde
 nach den §§ 459a, 459c, 459e sowie 459g bis 459m entscheidet das
@@ -14883,6 +15557,7 @@ Gericht.
 
 
 #### § 460 Nachträgliche Gesamtstrafenbildung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058804311)
 
 Ist jemand durch verschiedene rechtskräftige Urteile zu Strafen
 verurteilt worden und sind dabei die Vorschriften über die Zuerkennung
@@ -14892,6 +15567,7 @@ gerichtliche Entscheidung auf eine Gesamtstrafe zurückzuführen.
 
 
 #### § 461 Anrechnung des Aufenthalts in einem Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE058902311)
 
 (1) Ist der Verurteilte nach Beginn der Strafvollstreckung wegen
 Krankheit in eine von der Strafanstalt getrennte Krankenanstalt
@@ -14905,6 +15581,7 @@ des Gerichts herbeizuführen.
 
 
 #### § 462 Verfahren bei gerichtlichen Entscheidungen; sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059006125)
 
 (1) Die nach § 450a Abs. 3 Satz 1 und den §§ 458 bis 461 notwendig
 werdenden gerichtlichen Entscheidungen trifft das Gericht ohne
@@ -14929,6 +15606,7 @@ Wirkung.
 
 
 #### § 462a Zuständigkeit der Strafvollstreckungskammer und des erstinstanzlichen Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059104311)
 
 (1) Wird gegen den Verurteilten eine Freiheitsstrafe vollstreckt, so
 ist für die nach den §§ 453, 454, 454a und 462 zu treffenden
@@ -14991,6 +15669,7 @@ Entscheidung getroffen hat.
 
 
 #### § 463 Vollstreckung von Maßregeln der Besserung und Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059312125)
 
 (1) Die Vorschriften über die Strafvollstreckung gelten für die
 Vollstreckung von Maßregeln der Besserung und Sicherung sinngemäß,
@@ -15079,6 +15758,7 @@ aufgehoben wird.
 
 
 #### § 463a Zuständigkeit und Befugnisse der Aufsichtsstellen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059406311)
 
 (1) Die Aufsichtsstellen (§ 68a des Strafgesetzbuches) können zur
 Überwachung des Verhaltens des Verurteilten und der Erfüllung von
@@ -15168,6 +15848,7 @@ gewöhnlichen Aufenthaltsort hatte.
 
 
 #### § 463b Beschlagnahme von Führerscheinen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059505311)
 
 (1) Ist ein Führerschein nach § 44 Abs. 2 Satz 2 und 3 des
 Strafgesetzbuches amtlich zu verwahren und wird er nicht freiwillig
@@ -15186,6 +15867,7 @@ entsprechend.
 
 
 #### § 463c Öffentliche Bekanntmachung der Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059603311)
 
 (1) Ist die öffentliche Bekanntmachung der Verurteilung angeordnet
 worden, so wird die Entscheidung dem Berechtigten zugestellt.
@@ -15209,6 +15891,7 @@ Verpflichtung nicht nachkommt.
 
 
 #### § 463d Gerichtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059704125)
 
 Zur Vorbereitung der nach den §§ 453 bis 461 zu treffenden
 Entscheidungen kann sich das Gericht oder die Vollstreckungsbehörde
@@ -15228,6 +15911,7 @@ vor einer Entscheidung
 
 
 #### § 463e Mündliche Anhörung im Wege der Bild- und Tonübertragung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE076200125)
 
 (1) Wird der Verurteilte vor einer nach diesem Abschnitt zu treffenden
 gerichtlichen Entscheidung mündlich gehört, kann das Gericht
@@ -15249,10 +15933,12 @@ gehört, gilt Absatz 1 Satz 1 und 3 entsprechend.
 
 
 ### Zweiter Abschnitt - Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004002311)
 
 
 
 #### § 464 Kosten- und Auslagenentscheidung; sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059803311)
 
 (1) Jedes Urteil, jeder Strafbefehl und jede eine Untersuchung
 einstellende Entscheidung muß darüber Bestimmung treffen, von wem die
@@ -15276,6 +15962,7 @@ zuständig.
 
 
 #### § 464a Kosten des Verfahrens; notwendige Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE059902311)
 
 (1) Kosten des Verfahrens sind die Gebühren und Auslagen der
 Staatskasse. Zu den Kosten gehören auch die durch die Vorbereitung der
@@ -15300,6 +15987,7 @@ soweit sie durch einen Antrag des Verurteilten verursacht sind.
 
 
 #### § 464b Kostenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060006360)
 
 Die Höhe der Kosten und Auslagen, die ein Beteiligter einem anderen
 Beteiligten zu erstatten hat, wird auf Antrag eines Beteiligten durch
@@ -15315,6 +16003,7 @@ Angabe der vollständigen Anschrift unterbleiben.
 
 
 #### § 464c Kosten bei Bestellung eines Dolmetschers oder Übersetzers für den Angeschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062502311)
 
 Ist für einen Angeschuldigten, der der deutschen Sprache nicht
 mächtig, hör- oder sprachbehindert ist, ein Dolmetscher oder
@@ -15326,12 +16015,14 @@ auszusprechen.
 
 
 #### § 464d Verteilung der Auslagen nach Bruchteilen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE062801311)
 
 Die Auslagen der Staatskasse und die notwendigen Auslagen der
 Beteiligten können nach Bruchteilen verteilt werden.
 
 
 #### § 465 Kostentragungspflicht des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060103311)
 
 (1) Die Kosten des Verfahrens hat der Angeklagte insoweit zu tragen,
 als sie durch das Verfahren wegen einer Tat entstanden sind, wegen
@@ -15359,6 +16050,7 @@ so haftet sein Nachlaß nicht für die Kosten.
 
 
 #### § 466 Haftung Mitverurteilter für Auslagen als Gesamtschuldner
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070600311)
 
 Mitangeklagte, gegen die in bezug auf dieselbe Tat auf Strafe erkannt
 oder eine Maßregel der Besserung und Sicherung angeordnet wird, haften
@@ -15371,6 +16063,7 @@ Mitangeklagten gerichtet waren, entstanden sind.
 
 
 #### § 467 Kosten und notwendige Auslagen bei Freispruch, Nichteröffnung und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060304311)
 
 (1) Soweit der Angeschuldigte freigesprochen, die Eröffnung des
 Hauptverfahrens gegen ihn abgelehnt oder das Verfahren gegen ihn
@@ -15411,6 +16104,7 @@ vorläufiger Einstellung (§ 153a) endgültig eingestellt wird.
 
 
 #### § 467a Auslagen der Staatskasse bei Einstellung nach Anklagerücknahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE070801311)
 
 (1) Nimmt die Staatsanwaltschaft die öffentliche Klage zurück und
 stellt sie das Verfahren ein, so hat das Gericht, bei dem die
@@ -15428,6 +16122,7 @@ einem anderen Beteiligten auferlegen.
 
 
 #### § 468 Kosten bei Straffreierklärung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060517311)
 
 Bei wechselseitigen Beleidigungen wird die Verurteilung eines oder
 beider Teile in die Kosten dadurch nicht ausgeschlossen, daß einer
@@ -15435,6 +16130,7 @@ oder beide für straffrei erklärt werden.
 
 
 #### § 469 Kostentragungspflicht des Anzeigenden bei leichtfertiger oder vorsätzlicher Erstattung einer unwahren Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060606311)
 
 (1) Ist ein, wenn auch nur außergerichtliches Verfahren durch eine
 vorsätzlich oder leichtfertig erstattete unwahre Anzeige veranlaßt
@@ -15452,6 +16148,7 @@ für die Eröffnung des Hauptverfahrens zuständig gewesen wäre.
 
 
 #### § 470 Kosten bei Zurücknahme des Strafantrags
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071101311)
 
 Wird das Verfahren wegen Zurücknahme des Antrags, durch den es bedingt
 war, eingestellt, so hat der Antragsteller die Kosten sowie die dem
@@ -15464,6 +16161,7 @@ belasten.
 
 
 #### § 471 Kosten bei Privatklage
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE060803311)
 
 (1) In einem Verfahren auf erhobene Privatklage hat der Verurteilte
 auch die dem Privatkläger erwachsenen notwendigen Auslagen zu
@@ -15496,6 +16194,7 @@ Privatkläger erwachsenen notwendigen Auslagen.
 
 
 #### § 472 Notwendige Auslagen des Nebenklägers
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071302311)
 
 (1) Die dem Nebenkläger erwachsenen notwendigen Auslagen sind dem
 Angeklagten aufzuerlegen, wenn er wegen einer Tat verurteilt wird, die
@@ -15525,6 +16224,7 @@ Staatsanwaltschaft nach § 377 Abs. 2 die Verfolgung übernommen hat.
 
 
 #### § 472a Kosten und notwendige Auslagen bei Adhäsionsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061005125)
 
 (1) Soweit dem Antrag auf Zuerkennung eines aus der Straftat
 erwachsenen Anspruchs stattgegeben wird, hat der Angeklagte auch die
@@ -15542,6 +16242,7 @@ belasten.
 
 
 #### § 472b Kosten und notwendige Auslagen bei Nebenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE061105311)
 
 (1) Wird die Einziehung, der Vorbehalt der Einziehung, die
 Vernichtung, Unbrauchbarmachung oder Beseitigung eines gesetzwidrigen
@@ -15563,6 +16264,7 @@ einem anderen Beteiligten auferlegt werden.
 
 
 #### § 473 Kosten bei zurückgenommenem oder erfolglosem Rechtsmittel; Kosten der Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE071602311)
 
 (1) Die Kosten eines zurückgenommenen oder erfolglos eingelegten
 Rechtsmittels treffen den, der es eingelegt hat. Hat der Beschuldigte
@@ -15622,6 +16324,7 @@ Widerspruch des Gegners entstanden sind.
 
 
 #### § 473a Kosten und notwendige Auslagen bei gesonderter Entscheidung über die Rechtmäßigkeit einer Ermittlungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE069401311)
 
 Hat das Gericht auf Antrag des Betroffenen in einer gesonderten
 Entscheidung über die Rechtmäßigkeit einer Ermittlungsmaßnahme oder
@@ -15633,14 +16336,17 @@ wird, der Staatskasse, im Übrigen dem Antragsteller aufzuerlegen. §
 
 
 ## Achtes Buch - Schutz und Verwendung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004304311)
 
 
 
 ### Erster Abschnitt - Erteilung von Auskünften und Akteneinsicht, sonstige Verwendung von Daten für verfahrensübergreifende Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004402311)
 
 
 
 #### § 474 Auskünfte und Akteneinsicht für Justizbehörden und andere öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065505125)
 
 (1) Gerichte, Staatsanwaltschaften und andere Justizbehörden erhalten
 Akteneinsicht, wenn dies für Zwecke der Rechtspflege erforderlich ist.
@@ -15688,6 +16394,7 @@ ein Recht auf Akteneinsicht einräumen, bleiben unberührt.
 
 
 #### § 475 Auskünfte und Akteneinsicht für Privatpersonen und sonstige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065603125)
 
 (1) Für eine Privatperson und für sonstige Stellen kann unbeschadet
 des § 57 des Bundesdatenschutzgesetzes ein Rechtsanwalt Auskünfte aus
@@ -15712,6 +16419,7 @@ werden.
 
 
 #### § 476 Auskünfte und Akteneinsicht zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065704125)
 
 (1) Die Übermittlung personenbezogener Daten in Akten an Hochschulen,
 andere Einrichtungen, die wissenschaftliche Forschung betreiben, und
@@ -15783,6 +16491,7 @@ nicht in einem Dateisystem gespeichert sind oder gespeichert werden.
 
 
 #### § 477 Datenübermittlung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE065909125)
 
 (1) Von Amts wegen dürfen personenbezogene Daten aus Strafverfahren
 Strafverfolgungsbehörden und Strafgerichten für Zwecke der
@@ -15812,6 +16521,7 @@ Daten aus der Sicht der übermittelnden Stelle erforderlich ist für
 
 
 #### § 478 Form der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066005125)
 
 Auskünfte nach den §§ 474 bis 476 und Datenübermittlungen von Amts
 wegen nach § 477 können auch durch Überlassung von Kopien aus den
@@ -15819,6 +16529,7 @@ Akten erfolgen.
 
 
 #### § 479 Übermittlungsverbote und Verwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066106125)
 
 (1) Auskünfte nach den §§ 474 bis 476 und Datenübermittlungen von Amts
 wegen nach § 477 sind zu versagen, wenn ihnen Zwecke des
@@ -15900,6 +16611,7 @@ entsprechend:
 
 
 #### § 480 Entscheidung über die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066203125)
 
 (1) Über die Übermittlungen nach den §§ 474 bis 477 entscheidet im
 vorbereitenden Verfahren und nach rechtskräftigem Abschluss des
@@ -15936,6 +16648,7 @@ aktenkundig zu machen.
 
 
 #### § 481 Verwendung personenbezogener Daten für polizeiliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066306125)
 
 (1) Die Polizeibehörden dürfen nach Maßgabe der Polizeigesetze
 personenbezogene Daten aus Strafverfahren verwenden. Zu den dort
@@ -15959,6 +16672,7 @@ personenbezogener Daten nach dieser Bestimmung zulässig ist, gilt §
 
 
 #### § 482 Mitteilung des Aktenzeichens und des Verfahrensausgangs an die Polizei
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066402311)
 
 (1) Die Staatsanwaltschaft teilt der Polizeibehörde, die mit der
 Angelegenheit befasst war, ihr Aktenzeichen mit.
@@ -15980,10 +16694,12 @@ anzugeben, wer Rechtsmittel eingelegt hat.
 
 
 ### Zweiter Abschnitt - Regelungen über die Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004502125)
 
 
 
 #### § 483 Datenverarbeitung für Zwecke des Strafverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066502125)
 
 (1) Gerichte, Strafverfolgungsbehörden einschließlich
 Vollstreckungsbehörden, Bewährungshelfer, Aufsichtsstellen bei
@@ -16030,6 +16746,7 @@ Betroffenen das für die speichernde Stelle geltende Recht maßgeblich.
 
 
 #### § 484 Datenverarbeitung für Zwecke künftiger Strafverfahren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066604125)
 
 (1) Strafverfolgungsbehörden dürfen für Zwecke künftiger
 Strafverfahren
@@ -16085,6 +16802,7 @@ nach den Polizeigesetzen.
 
 
 #### § 485 Datenverarbeitung für Zwecke der Vorgangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066702125)
 
 Gerichte, Strafverfolgungsbehörden einschließlich
 Vollstreckungsbehörden, Bewährungshelfer, Aufsichtsstellen bei
@@ -16098,6 +16816,7 @@ ist entsprechend anwendbar.
 
 
 #### § 486 Gemeinsame Dateisysteme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066803125)
 
 Die personenbezogenen Daten können für die in den §§ 483 bis 485
 genannten Stellen in gemeinsamen Dateisystemen gespeichert werden.
@@ -16106,6 +16825,7 @@ Dies gilt für Fälle des § 483 Absatz 1 Satz 2, auch in Verbindung mit
 
 
 #### § 487 Übermittlung gespeicherter Daten; Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE066904125)
 
 (1) Die nach den §§ 483 bis 485 gespeicherten Daten dürfen den
 zuständigen Stellen übermittelt werden, soweit dies für die in diesen
@@ -16151,6 +16871,7 @@ dürfen.
 
 
 #### § 488 Automatisierte Verfahren für Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067003125)
 
 (1) Die Einrichtung eines automatisierten Abrufverfahrens oder eines
 automatisierten Anfrage- und Auskunftsverfahrens ist für
@@ -16206,6 +16927,7 @@ Auskunftsverfahren entsprechend.
 
 
 #### § 489 Löschung und Einschränkung der Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067103125)
 
 (1) Zu löschen sind, unbeschadet der anderen, in § 75 Absatz 2 des
 Bundesdatenschutzgesetzes genannten Gründe für die Pflicht zur
@@ -16292,6 +17014,7 @@ dies vorsehen.
 
 
 #### § 490 Errichtungsanordnung für automatisierte Dateisysteme
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067202125)
 
 Der Verantwortliche legt für jedes automatisierte Dateisystem in einer
 Errichtungsanordnung mindestens fest:
@@ -16326,6 +17049,7 @@ und Informationssysteme gemäß § 483 Absatz 1 Satz 2.
 
 
 #### § 491 Auskunft an betroffene Personen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE067303125)
 
 (1) Ist die betroffene Person bei einem gemeinsamen Dateisystem nicht
 in der Lage, den Verantwortlichen festzustellen, so kann sie sich zum
@@ -16339,10 +17063,12 @@ Bundesdatenschutzgesetzes.
 
 
 ### Dritter Abschnitt - Länderübergreifendes staatsanwaltschaftliches Verfahrensregister
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG004602311)
 
 
 
 #### § 492 Zentrales staatsanwaltschaftliches Verfahrensregister
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063415125)
 
 (1) Das Bundesamt für Justiz (Registerbehörde) führt ein zentrales
 staatsanwaltschaftliches Verfahrensregister.
@@ -16420,6 +17146,7 @@ Absatzes 4 nur in Strafverfahren verwendet werden.
 
 
 #### § 493 Automatisiertes Verfahren für Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063504125)
 
 (1) Die Übermittlung der Daten erfolgt im Wege eines automatisierten
 Abrufverfahrens oder eines automatisierten Anfrage- und
@@ -16452,6 +17179,7 @@ Auskunftsverfahren entsprechend.
 
 
 #### § 494 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063606125)
 
 (1) In den Fällen des § 58 Absatz 1 und des § 75 Absatz 1 des
 Bundesdatenschutzgesetzes teilt der Verantwortliche insbesondere der
@@ -16502,6 +17230,7 @@ näheren Einzelheiten, insbesondere
 
 
 #### § 495 Auskunft an betroffene Personen
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE063705125)
 
 Der betroffenen Person ist entsprechend § 57 des
 Bundesdatenschutzgesetzes Auskunft aus dem Verfahrensregister zu
@@ -16517,10 +17246,12 @@ in das Verfahrensregister mitgeteilt hat.
 
 
 ### Vierter Abschnitt - Schutz personenbezogener Daten in einer elektronischen Akte; Verwendung personenbezogener Daten aus elektronischen Akten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG005000311)
 
 
 
 #### § 496 Verwendung personenbezogener Daten in einer elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074801125)
 
 (1) Das Verarbeiten und Nutzen personenbezogener Daten in einer
 elektronischen Akte oder in elektronischen Aktenkopien ist zulässig,
@@ -16545,6 +17276,7 @@ Dateisysteme im Sinne des Zweiten Abschnitts.
 
 
 #### § 497 Datenverarbeitung im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE074900311)
 
 (1) Mit der dauerhaften rechtsverbindlichen Speicherung elektronischer
 Akten dürfen nichtöffentliche Stellen nur dann beauftragt werden, wenn
@@ -16568,6 +17300,7 @@ dass die öffentliche Stelle im Einzelfall eingewilligt hat.
 
 
 #### § 498 Verwendung personenbezogener Daten aus elektronischen Akten
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075000311)
 
 (1) Das Verarbeiten und Nutzen personenbezogener Daten aus
 elektronischen Akten oder elektronischen Aktenkopien ist zulässig,
@@ -16581,16 +17314,19 @@ individualisierten Akten oder Aktenkopien.
 
 
 #### § 499 Löschung elektronischer Aktenkopien
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075100311)
 
 Elektronische Aktenkopien sind unverzüglich zu löschen, wenn sie nicht
 mehr erforderlich sind.
 
 
 ### Fünfter Abschnitt - Anwendbarkeit des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNG005100125)
 
 
 
 #### § 500 Entsprechende Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE075200125)
 
 (1) Soweit öffentliche Stellen der Länder im Anwendungsbereich dieses
 Gesetzes personenbezogene Daten verarbeiten, ist Teil 3 des
@@ -16615,6 +17351,7 @@ Abschnitt III
 Abschnitt IV
 
 #### Anhang EV - Sonderregelung für das Land Berlin -
+[Direktlink](https://www.gesetze-im-internet.de/stpo/BJNR006290950.html#BJNR006290950BJNE888805308)
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

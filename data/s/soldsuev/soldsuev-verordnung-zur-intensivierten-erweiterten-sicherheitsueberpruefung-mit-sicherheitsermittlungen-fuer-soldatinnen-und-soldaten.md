@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/solds_v/BJNR08D0A0024.html#BJNR08D0A0024BJNE000100000)
 
 Auf Grund § 93 Absatz 4 des Soldatengesetzes, der durch Artikel 1
 Nummer 3 Buchstabe b des Gesetzes vom 20. August 2021 (BGBl. I S.
@@ -29,6 +30,7 @@ dem Bundesministerium des Innern und für Heimat:
 
 
 ## § 1 Verwendungen mit besonders hohen Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/solds_v/BJNR08D0A0024.html#BJNR08D0A0024BJNE000200000)
 
 Der intensivierten erweiterten Sicherheitsüberprüfung mit
 Sicherheitsermittlungen für Verwendungen mit besonders hohen
@@ -63,6 +65,7 @@ Soldatinnen und Soldaten zu unterziehen, die
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/solds_v/BJNR08D0A0024.html#BJNR08D0A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

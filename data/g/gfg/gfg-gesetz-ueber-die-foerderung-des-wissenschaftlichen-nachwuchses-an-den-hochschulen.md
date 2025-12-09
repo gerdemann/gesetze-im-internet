@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000101306)
 
 (1) Zur Förderung des wissenschaftlichen, vornehmlich des
 Hochschullehrernachwuchses, werden nach Maßgabe dieses Gesetzes
@@ -43,6 +44,7 @@ Gesetzes unberührt.
 
 
 ## § 2 Förderung der Promotion
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000201306)
 
 (1) Wer ein Hochschulstudium abgeschlossen hat, das die Zulassung zur
 Promotion ermöglicht, kann zur Vorbereitung auf die Promotion ein
@@ -64,6 +66,7 @@ vorgeschriebenen Studiendauer.
 
 
 ## § 3 Förderung eines weiteren Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000301306)
 
 Wer ein Hochschulstudium abgeschlossen hat, das die Zulassung zur
 Promotion ermöglicht, kann zur Teilnahme an einem weiteren Studium,
@@ -76,6 +79,7 @@ gelegenen Hochschule eingerichtet worden sein.
 
 
 ## § 4 Auswahl der Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000401306)
 
 (1) Ein Anspruch auf Gewährung eines Stipendiums besteht nicht.
 Übersteigt die Zahl der Bewerber, die die Voraussetzungen für eine
@@ -90,6 +94,7 @@ sind, können vorrangig gefördert werden.
 
 
 ## § 5 Staatsangehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000501306)
 
 Stipendien können erhalten
 
@@ -115,6 +120,7 @@ Stipendien können erhalten
 
 
 ## § 6 Stellung des Stipendiaten zur Hochschule
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000601306)
 
 Der Stipendiat muß Student an einer im Geltungsbereich dieses Gesetzes
 gelegenen Hochschule sein. Er kann seinen für die Promotion zu
@@ -122,6 +128,7 @@ erbringenden wissenschaftlichen Beitrag auch im Ausland leisten.
 
 
 ## § 7 Art der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000701306)
 
 Die Stipendien werden als Darlehen, Zuschläge für Sach- und
 Reisekosten werden als Zuschüsse gewährt. Sie sind Zuwendungen im
@@ -131,6 +138,7 @@ Leistungsnachweise.
 
 
 ## § 7a Darlehensbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000801306)
 
 (1) Das Darlehen ist nicht zu verzinsen.
 
@@ -193,6 +201,7 @@ Vorschriften zu tilgen hat, Absatz 4 Satz 3 bis 5 gilt entsprechend.
 
 
 ## § 7b Rückzahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE000901306)
 
 Haben die Voraussetzungen für die Leistung der Graduiertenförderung an
 keinem Tag des Kalendermonats vorgelegen, für den sie gezahlt worden
@@ -222,6 +231,7 @@ Förderungsbetrag zu erstatten, als
 
 
 ## § 8 Dauer der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001001306)
 
 (1) Das Stipendium wird zunächst für einen Zeitraum bis zu einem Jahr
 gewährt. Vor Ablauf des Bewilligungszeitraums ist festzustellen, ob
@@ -261,6 +271,7 @@ ist.
 
 
 ## § 9 Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001101306)
 
 (1) Übt der Stipendiat neben der Vorbereitung auf die Promotion oder
 der Teilnahme an dem weiteren Studium eine Tätigkeit aus, die seine
@@ -285,6 +296,7 @@ verpflichtet.
 
 
 ## § 10 Pfändungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001201306)
 
 (1) Der Anspruch auf Auszahlung des Stipendienbetrages kann nicht
 gepfändet, verpfändet oder abgetreten werden.
@@ -303,6 +315,7 @@ Zivilprozeßordnung.
 
 
 ## § 11 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001301306)
 
 Die Vergabe der Stipendien und die Verteilung der Förderungsmittel auf
 die Fachbereiche oder Fachrichtungen obliegen als staatliche
@@ -319,6 +332,7 @@ am Vergabeverfahren angemessen beteiligt sind.
 
 
 ## § 12 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001401306)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zu erlassen über
@@ -373,6 +387,7 @@ durch die zuständige oberste Landesbehörde auf die Hochschulen
 
 
 ## § 13 Finanzierung und Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001503310)
 
 (1) In den Jahren 1971 bis 1979 trägt der Bund 75 vom Hundert und
 tragen die Länder 25 vom Hundert, in den Jahren 1980 und 1981 trägt
@@ -401,6 +416,7 @@ vorzubehalten sind.
 
 
 ## § 14 Auftragsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001603310)
 
 (1) Das Gesetz wird von den Ländern im Auftrage des Bundes ausgeführt.
 
@@ -443,12 +459,14 @@ jährliche Mitteilung
 
 
 ## § 14a Darlehensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001701306)
 
 Die nach diesem Gesetz geleisteten Darlehen werden durch das
 Bundesverwaltungsamt verwaltet und eingezogen.
 
 
 ## § 15 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001801306)
 
 Für Stipendien, die vor dem 1. Januar 1976 gewährt worden sind, gilt
 bis zum Ende des Bewilligungszeitraumes dieses Gesetz in der bis zum
@@ -456,6 +474,7 @@ bis zum Ende des Bewilligungszeitraumes dieses Gesetz in der bis zum
 
 
 ## § 16 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE001901306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -465,6 +484,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gfg/BJNR014650971.html#BJNR014650971BJNE002001306)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

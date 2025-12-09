@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000100000)
 
 Dieses Gesetz regelt die Rechtsverhältnisse an Grundstücken, auf denen
 landwirtschaftliche Produktionsgenossenschaften Anpflanzungen
@@ -37,6 +38,7 @@ räumlichen Verhältnis zum Gebäude stehen.
 
 
 ## § 2 Eigentumsübergang
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000200000)
 
 Das an Anpflanzungen im Sinne des § 1 Satz 1 entstandene
 Sondereigentum erlischt am 1. Januar 1995. Die Anpflanzungen werden
@@ -44,6 +46,7 @@ wesentlicher Bestandteil des Grundstücks.
 
 
 ## § 3 Entschädigung für den Rechtsverlust, Wegnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000300000)
 
 (1) Erleidet der Nutzer infolge des Eigentumsübergangs nach § 2 einen
 Rechtsverlust, kann er vom Grundstückseigentümer bei mehrjährigen
@@ -65,6 +68,7 @@ ausgeschlossen.
 
 
 ## § 4 Höhe der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000400000)
 
 Die Entschädigung ist nach dem Wert der Anpflanzung im Zeitpunkt des
 Eigentumsübergangs zu bemessen. Bei mehrjährigen fruchttragenden
@@ -77,6 +81,7 @@ ergebenden Betrag.
 
 
 ## § 5 Abwendungsbefugnis des Grundstückseigentümers
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000500000)
 
 (1) Der Grundstückseigentümer kann den Entschädigungsanspruch des
 Nutzers dadurch abwenden, daß er dem Nutzer den Abschluß eines
@@ -92,6 +97,7 @@ entsprechend anzuwenden.
 
 
 ## § 6 Pachtvertrag bei Angewiesenheit
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000601377)
 
 (1) Der Nutzer kann vom Grundstückseigentümer den Abschluß eines auf
 die Restnutzungsdauer der Kultur, längstens auf 15 Jahre, befristeten
@@ -113,6 +119,7 @@ Bürgerlichen Gesetzbuchs sind nicht anzuwenden.
 
 
 ## § 7 Verhältnis zu anderen Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/anpfleigentg/BJNR254900994.html#BJNR254900994BJNE000700000)
 
 Ansprüche nach diesem Gesetz können nicht geltend gemacht werden,
 soweit ein Verfahren nach dem Flurbereinigungsgesetz oder ein

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE000600326)
 
 Auf Grund des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen
 auf dem Gebiet der Neuordnung des Geldwesens und über die
@@ -28,10 +29,12 @@ von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S.
 
 
 ## Abschnitt I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNG000100326)
 
 
 
 ### § 1 Allgemeine Vorschriften für den Ansatz der Aktiven und der Passiven
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE000700326)
 
 (1) Für die Umstellungsrechnung von Bausparkassen, die eine
 Ausgleichsforderung in Anspruch nehmen, sind die für die Aktiven
@@ -67,6 +70,7 @@ Bausparkassenverordnung beruhen.
 
 
 ### § 2 Rückbezüglichkeit später eintretender Umstände
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE000800326)
 
 Waren die für die Bewertung von Aktiven oder Passiven maßgebenden
 Verhältnisse am 21. Juni 1948 nicht oder nicht zuverlässig übersehbar,
@@ -77,10 +81,12 @@ sind.
 
 
 ## Abschnitt II - Aktiven
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNG000200326)
 
 
 
 ### § 3 Gebietsmäßige Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE000900326)
 
 (1) Hängt die Verpflichtung, einen Vermögensgegenstand in die
 Umstellungsrechnung einzustellen, davon ab, ob dieser am 21. Juni 1948
@@ -103,6 +109,7 @@ in einem anderen Gebiet belegen war, so gilt Absatz 1 sinngemäß.
 
 
 ### § 4 Nichtbewertungsfähige Vermögensgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001000326)
 
 Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist
 er mit dem Betrag anzusetzen, bis zu dem eine zuverlässige Bewertung
@@ -113,6 +120,7 @@ einer Deutschen Mark zusammengefaßt werden.
 
 
 ### § 5 Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001100326)
 
 (1) Ist eine Bausparkasse in der Verfügung über einen
 Vermögensgegenstand in der Weise beschränkt, daß sie über ihn nur mit
@@ -130,6 +138,7 @@ entsprechend.
 
 
 ### § 6 Wertpapiere und unverbriefte Anteilsrechte an Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001200326)
 
 (1) Wertpapiere, für die ein Steuerkurswert auf den 31. Dezember 1948
 festgesetzt worden ist, sind,
@@ -231,6 +240,7 @@ Anteilsrechte ein entsprechender Zuschlag zu machen.
 
 
 ### § 7 Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001300326)
 
 Grundstücke im Bundesgebiet und in Berlin (West) sind mit einer
 Deutschen Mark für je eine Reichsmark des zuletzt vor dem 21. Juni
@@ -241,6 +251,7 @@ werden, die am 21. Juni 1948 bestanden haben.
 
 
 ### § 8 Einrichtungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001400326)
 
 (1) Einrichtungsgegenstände sind
 
@@ -271,6 +282,7 @@ sind, sind sie nach Absatz 1 anzusetzen.
 
 
 ### § 9 Unterverzinsliche Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001500326)
 
 (1) Ist eine befristete Forderung unterverzinslich, so braucht sie nur
 mit einem unter dem Nennbetrage liegenden Wert angesetzt zu werden.
@@ -298,10 +310,12 @@ eines Zinssatzes von 3,5 vom Hundert zu errechnen.
 
 
 ## Abschnitt III - Passiven
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNG000300326)
 
 
 
 ### § 10 Ausstehende Kapitaleinlagen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001600326)
 
 Eine Verpflichtung zur Leistung von ausstehenden Kapitaleinlagen oder
 von Nachschüssen darf nur insoweit berücksichtigt werden, als sie am
@@ -310,6 +324,7 @@ eingezogene Anteile bestand.
 
 
 ### § 11 Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001700326)
 
 (1) Rückstellungen dürfen gebildet werden, soweit der Grund für eine
 Verbindlichkeit, deren Höhe am 21. Juni 1948 noch nicht feststand,
@@ -325,6 +340,7 @@ einzustellen wäre.
 
 
 ### § 12 Pensionsrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001800326)
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung gebildet
 werden, wenn der Begünstigte am 21. Juni 1948 einen Rechtsanspruch auf
@@ -532,6 +548,7 @@ März 1963.
 
 
 ### § 13 Rückstellungen für Verpflichtungen auf Grund des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE001900326)
 
 (1) Für Verpflichtungen
 
@@ -613,6 +630,7 @@ versorgungsberechtigt waren, ergeben, tritt an die Stelle des 1. April
 
 
 ### § 14 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002000326)
 
 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten dürfen erst
 berücksichtigt werden, wenn ihr Umfang durch Entscheidung oder
@@ -620,10 +638,12 @@ Vergleich festgestellt ist.
 
 
 ## Abschnitt IV - Gemeinsame Vorschriften für Aktiven und Passiven
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNG000400326)
 
 
 
 ### § 15 Forderungen und Verbindlichkeiten in ausländischer Währung
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002100326)
 
 (1) Für die Umrechnung des Nennbetrages von Forderungen und
 Verbindlichkeiten in ausländischer Währung in Deutsche Mark gilt die
@@ -637,6 +657,7 @@ lautende Forderung oder Verbindlichkeit gleich.
 
 
 ### § 16 Geldwertschuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002200326)
 
 (1) Für Forderungen und Verbindlichkeiten, die nicht auf einen
 bestimmten Geldbetrag lauten, sondern nach dem Inhalt des
@@ -654,6 +675,7 @@ ein Kilogramm Feingold bestimmten Reichsmarkbetrag ergibt.
 
 
 ### § 17 Durchlaufende Kredite
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002300326)
 
 Durchlaufende Kredite aus Treuhandgeschäften sind auf der Aktivseite
 und auf der Passivseite mit dem gleichen Betrage anzusetzen und bei
@@ -664,6 +686,7 @@ den Verbindlichkeiten abzusetzen.
 
 
 ### § 18 Wertberichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002400326)
 
 Falls eine Forderung mit einem unter dem Nennbetrag liegenden Wert
 eingestellt werden darf, kann dies auch in der Weise geschehen, daß
@@ -672,6 +695,7 @@ Passivseite ein entsprechender Wertberichtigungsposten angesetzt wird.
 
 
 ### § 19 Abgrenzungsposten
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002500326)
 
 (1) Als Abgrenzungsposten sind anzusetzen
 
@@ -731,6 +755,7 @@ angesetzt werden.
 
 
 ### § 20 Berichtigung der Umstellungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002600326)
 
 (1) Die Umstellungsrechnung unterliegt der Berichtigung (§ 3 Abs. 3
 der Bausparkassenverordnung in Verbindung mit § 3 Abs. 6 der
@@ -763,15 +788,18 @@ zur Folge hat.
 
 
 ## Abschnitt V - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNG000500326)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002700326)
 
 -
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002800326)
 
 Diese Verordnung findet sinngemäß Anwendung auf Bausparkassen der in
 der Anordnung über die Bausparkassen mit Sitz außerhalb des
@@ -781,6 +809,7 @@ Art.
 
 
 ### § 23 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE002900326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 9 des
@@ -907,11 +936,13 @@ Maßgaben:
 
 
 ### § 24 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE003000326)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ### Anlage (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/umstbausparkv/BJNR005510959.html#BJNR005510959BJNE003100326)
 
 Fundstelle des Originaltextes: BGBl. I 1959, 559 - 560
 **Umrechnungstabelle**

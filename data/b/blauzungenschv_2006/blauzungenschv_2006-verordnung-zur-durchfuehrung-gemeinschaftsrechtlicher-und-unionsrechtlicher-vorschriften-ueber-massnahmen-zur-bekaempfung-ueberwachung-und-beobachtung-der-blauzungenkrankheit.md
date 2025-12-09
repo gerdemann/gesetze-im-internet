@@ -27,6 +27,7 @@ Die v tritt gem. § 7 abs. 1 satz 2 mit ablauf des 22.2.2007 außer kraft, sowei
 
 
 ## § 1 Verbringungsverbot zum Schutz gegen die Blauzungenkrankheit
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE000220360)
 
 (1) Das Verbringen empfänglicher Tiere aus einer Sperrzone im Sinne
 des Artikels 2 Buchstabe d der Verordnung (EG) Nr. 1266/2007 der
@@ -102,6 +103,7 @@ mit Absatz 6, der Verordnung (EG) Nr. 1266/2007 vorliegen.
 
 
 ## § 2 Überwachungsprogramme, Beobachtungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE000311360)
 
 (1) Die Durchführung der Programme
 
@@ -126,10 +128,12 @@ in Absatz 1 genannten Programme.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE000413360)
 
 
 
 ## § 4 Impfungen
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE000516118)
 
 (1) Empfängliche Tiere dürfen gegen die Blauzungenkrankheit nur mit
 Genehmigung der zuständigen Behörde und nur mit inaktivierten
@@ -171,6 +175,7 @@ erforderlich ist.
 
 
 ## § 4a Wildtieruntersuchung, weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE002103360)
 
 (1) Die zuständige Behörde kann zur Erkennung der Blauzungenkrankheit
 bei empfänglichen Wildwiederkäuern Untersuchungen anordnen. Im Falle
@@ -197,6 +202,7 @@ bleibt unberührt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE000618118)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -227,5 +233,6 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenschv_2006/BJNR604600006.html#BJNR604600006BJNE001003360)
 
 

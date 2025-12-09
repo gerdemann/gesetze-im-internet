@@ -27,10 +27,12 @@ EGB-UNICE-CEEP-Rahmenvereinbarung über befristete Arbeitsverträge
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNG000100305)
 
 
 
 ### § 1 Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE000500305)
 
 Ziel des Gesetzes ist, Teilzeitarbeit zu fördern, die Voraussetzungen
 für die Zulässigkeit befristeter Arbeitsverträge festzulegen und die
@@ -39,6 +41,7 @@ Arbeitnehmern zu verhindern.
 
 
 ### § 2 Begriff des teilzeitbeschäftigten Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE000600305)
 
 (1) Teilzeitbeschäftigt ist ein Arbeitnehmer, dessen regelmäßige
 Wochenarbeitszeit kürzer ist als die eines vergleichbaren
@@ -63,6 +66,7 @@ Sozialgesetzbuch ausübt.
 
 
 ### § 3 Begriff des befristet beschäftigten Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE000700305)
 
 (1) Befristet beschäftigt ist ein Arbeitnehmer mit einem auf bestimmte
 Zeit geschlossenen Arbeitsvertrag. Ein auf bestimmte Zeit
@@ -82,6 +86,7 @@ Arbeitnehmer anzusehen ist.
 
 
 ### § 4 Verbot der Diskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE000800305)
 
 (1) Ein teilzeitbeschäftigter Arbeitnehmer darf wegen der
 Teilzeitarbeit nicht schlechter behandelt werden als ein
@@ -109,22 +114,26 @@ aus sachlichen Gründen gerechtfertigt ist.
 
 
 ### § 5 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE000900305)
 
 Der Arbeitgeber darf einen Arbeitnehmer nicht wegen der
 Inanspruchnahme von Rechten nach diesem Gesetz benachteiligen.
 
 
 ## Zweiter Abschnitt - Teilzeitarbeit
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNG000200305)
 
 
 
 ### § 6 Förderung von Teilzeitarbeit
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001000305)
 
 Der Arbeitgeber hat den Arbeitnehmern, auch in leitenden Positionen,
 Teilzeitarbeit nach Maßgabe dieses Gesetzes zu ermöglichen.
 
 
 ### § 7 Ausschreibung; Erörterung; Information über freie Arbeitsplätze
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001102126)
 
 (1) Der Arbeitgeber hat einen Arbeitsplatz, den er öffentlich oder
 innerhalb des Betriebes ausschreibt, auch als Teilzeitarbeitsplatz
@@ -158,6 +167,7 @@ Betriebsverfassungsgesetzes bleibt unberührt.
 
 
 ### § 8 Zeitlich nicht begrenzte Verringerung der Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001202126)
 
 (1) Ein Arbeitnehmer, dessen Arbeitsverhältnis länger als sechs Monate
 bestanden hat, kann verlangen, dass seine vertraglich vereinbarte
@@ -216,6 +226,7 @@ beschäftigt.
 
 
 ### § 9 Verlängerung der Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001301126)
 
 Der Arbeitgeber hat einen teilzeitbeschäftigten Arbeitnehmer, der ihm
 in Textform den Wunsch nach einer Verlängerung seiner vertraglich
@@ -244,6 +255,7 @@ einen unbesetzten Arbeitsplatz neu zu besetzen.
 
 
 ### § 9a Zeitlich begrenzte Verringerung der Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002800126)
 
 (1) Ein Arbeitnehmer, dessen Arbeitsverhältnis länger als sechs Monate
 bestanden hat, kann verlangen, dass seine vertraglich vereinbarte
@@ -329,6 +341,7 @@ sind Personen in Berufsbildung nicht zu berücksichtigen.
 
 
 ### § 10 Aus- und Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001400305)
 
 Der Arbeitgeber hat Sorge zu tragen, dass auch teilzeitbeschäftigte
 Arbeitnehmer an Aus- und Weiterbildungsmaßnahmen zur Förderung der
@@ -339,6 +352,7 @@ entgegenstehen.
 
 
 ### § 11 Kündigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001500305)
 
 Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines
 Arbeitnehmers, von einem Vollzeit- in ein Teilzeitarbeitsverhältnis
@@ -347,6 +361,7 @@ Arbeitsverhältnisses aus anderen Gründen bleibt unberührt.
 
 
 ### § 12 Arbeit auf Abruf
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001602126)
 
 (1) Arbeitgeber und Arbeitnehmer können vereinbaren, dass der
 Arbeitnehmer seine Arbeitsleistung entsprechend dem Arbeitsanfall zu
@@ -398,6 +413,7 @@ tariflichen Regelungen über die Arbeit auf Abruf vereinbaren.
 
 
 ### § 13 Arbeitsplatzteilung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001700305)
 
 (1) Arbeitgeber und Arbeitnehmer können vereinbaren, dass mehrere
 Arbeitnehmer sich die Arbeitszeit an einem Arbeitsplatz teilen
@@ -429,10 +445,12 @@ Arbeitsplatzteilung vereinbaren.
 
 
 ## Dritter Abschnitt - Befristete Arbeitsverträge
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNG000300305)
 
 
 
 ### § 14 Zulässigkeit der Befristung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001804140)
 
 (1) Die Befristung eines Arbeitsvertrages ist zulässig, wenn sie durch
 einen sachlichen Grund gerechtfertigt ist. Ein sachlicher Grund liegt
@@ -513,6 +531,7 @@ der Schriftform.
 
 
 ### § 15 Ende des befristeten Arbeitsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE001901126)
 
 (1) Ein kalendermäßig befristeter Arbeitsvertrag endet mit Ablauf der
 vereinbarten Zeit.
@@ -543,6 +562,7 @@ Zweckerreichung nicht unverzüglich mitteilt.
 
 
 ### § 16 Folgen unwirksamer Befristung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002001126)
 
 Ist die Befristung rechtsunwirksam, so gilt der befristete
 Arbeitsvertrag als auf unbestimmte Zeit geschlossen; er kann vom
@@ -554,6 +574,7 @@ dem vereinbarten Ende ordentlich gekündigt werden.
 
 
 ### § 17 Anrufung des Arbeitsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002100305)
 
 Will der Arbeitnehmer geltend machen, dass die Befristung eines
 Arbeitsvertrages rechtsunwirksam ist, so muss er innerhalb von drei
@@ -568,6 +589,7 @@ beendet sei.
 
 
 ### § 18 Information über unbefristete Arbeitsplätze
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002201126)
 
 (1) Der Arbeitgeber hat die befristet beschäftigten Arbeitnehmer über
 entsprechende unbefristete Arbeitsplätze zu informieren, die besetzt
@@ -585,6 +607,7 @@ Monaten vor Zugang der Anzeige bereits einmal angezeigt hat.
 
 
 ### § 19 Aus- und Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002300305)
 
 Der Arbeitgeber hat Sorge zu tragen, dass auch befristet beschäftigte
 Arbeitnehmer an angemessenen Aus- und Weiterbildungsmaßnahmen zur
@@ -594,6 +617,7 @@ Weiterbildungswünsche anderer Arbeitnehmer entgegenstehen.
 
 
 ### § 20 Information der Arbeitnehmervertretung
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002400305)
 
 Der Arbeitgeber hat die Arbeitnehmervertretung über die Anzahl der
 befristet beschäftigten Arbeitnehmer und ihren Anteil an der
@@ -601,6 +625,7 @@ Gesamtbelegschaft des Betriebes und des Unternehmens zu informieren.
 
 
 ### § 21 Auflösend bedingte Arbeitsverträge
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002501126)
 
 Wird der Arbeitsvertrag unter einer auflösenden Bedingung geschlossen,
 gelten § 4 Absatz 2, § 5, § 14 Absatz 1 und 4, § 15 Absatz 2, 4 und 6
@@ -608,10 +633,12 @@ sowie die §§ 16 bis 20 entsprechend.
 
 
 ## Vierter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNG000400305)
 
 
 
 ### § 22 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002602126)
 
 (1) Außer in den Fällen des § 9a Absatz 6, § 12 Absatz 6, § 13 Absatz
 4 und § 14 Absatz 2 Satz 3 und 4 kann von den Vorschriften dieses
@@ -629,6 +656,7 @@ ihnen vereinbart ist und die Arbeitgeber die Kosten des Betriebes
 
 
 ### § 23 Besondere gesetzliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/tzbfg/BJNR196610000.html#BJNR196610000BJNE002700305)
 
 Besondere Regelungen über Teilzeitarbeit und über die Befristung von
 Arbeitsverträgen nach anderen gesetzlichen Vorschriften bleiben

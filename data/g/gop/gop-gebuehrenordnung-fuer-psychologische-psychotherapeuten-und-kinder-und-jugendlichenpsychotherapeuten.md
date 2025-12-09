@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gop/BJNR081800000.html#BJNR081800000BJNE000100305)
 
 Auf Grund des § 9 des Psychotherapeutengesetzes vom 16. Juni 1998
 (BGBl. I S. 1311) verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gop/BJNR081800000.html#BJNR081800000BJNE000200305)
 
 (1) Die Vergütungen für die beruflichen Leistungen der Psychologischen
 Psychotherapeuten und der Kinder- und Jugendlichenpsychotherapeuten im
@@ -47,16 +49,19 @@ werden können.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gop/BJNR081800000.html#BJNR081800000BJNE000301320)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gop/BJNR081800000.html#BJNR081800000BJNE000400305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gop/BJNR081800000.html#BJNR081800000BJNE000500305)
 
 Der Bundesrat hat zugestimmt.
 

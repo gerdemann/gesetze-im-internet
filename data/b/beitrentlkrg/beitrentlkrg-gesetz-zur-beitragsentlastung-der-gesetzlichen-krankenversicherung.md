@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Beitragsfestschreibung
+[Direktlink](https://www.gesetze-im-internet.de/beitrentlkrg/BJNR163110996.html#BJNR163110996BJNE000100310)
 
 (1) Bis zum 31. Dezember 1996 sind Beitragssatzanhebungen der
 Krankenkassen (§ 4 des Fünften Buches Sozialgesetzbuch) nur zulässig,
@@ -37,6 +38,7 @@ sind.
 
 
 ## § 2 Beitragsverminderung
+[Direktlink](https://www.gesetze-im-internet.de/beitrentlkrg/BJNR163110996.html#BJNR163110996BJNE000200310)
 
 (1) Die Beitragssätze nach den §§ 241 bis 243 des Fünften Buches
 Sozialgesetzbuch vermindern sich zum 1. Januar 1997 um 0,4

@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000205123)
 
 Im Geltungsbereich dieses Gesetzes werden folgende Statistiken der
 öffentlichen Finanzwirtschaft und des Personals im öffentlichen Dienst
@@ -56,6 +57,7 @@ als Bundesstatistiken durchgeführt:
 
 
 ## § 2 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000310123)
 
 (1) Die Statistiken erstrecken sich auf die Finanzwirtschaft und das
 Personal der in den Absätzen 2 bis 7 genannten Erhebungseinheiten.
@@ -154,6 +156,7 @@ wenn sie in privater Rechtsform betrieben werden und nicht zum
 
 
 ## § 3 Statistik der Ausgaben und Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000409123)
 
 (1) Die Statistik nach § 1 Nr. 1 erfasst bei den Erhebungseinheiten
 nach § 2 Absatz 2 Satz 1 Nummer 1 und 2 folgende Erhebungsmerkmale:
@@ -528,6 +531,7 @@ Hochschulen werden die Merkmale nach Satz 1 nicht erhoben.
 
 
 ## § 4 Statistik des Steueraufkommens, der Hebesätze und der Umlagen
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000505123)
 
 Die Statistik nach § 1 Nr. 2 erfasst
 
@@ -571,6 +575,7 @@ Die Statistik nach § 1 Nr. 2 erfasst
 
 
 ## § 5 Statistik über die Schulden, Sicherheiten für Schulden und Finanzaktiva
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001902123)
 
 Die Statistik nach § 1 Nummer 3 erfasst
 
@@ -719,6 +724,7 @@ Die Statistik nach § 1 Nummer 3 erfasst
 
 
 ## § 6 Statistik über das Personal im öffentlichen Dienst (Personalstandstatistik)
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000708123)
 
 (1) Die Personalstandstatistik erfasst bei den Erhebungseinheiten nach
 § 2 jährlich zum 30. Juni die in einem unmittelbaren öffentlich-
@@ -913,6 +919,7 @@ werden in Form von Summendaten erfasst.
 
 
 ## § 7 Versorgungsempfänger- und Altersgeldstatistik
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000807123)
 
 Die Statistik nach § 1 Nummer 5 erfasst bei den Erhebungseinheiten
 nach § 2 Absatz 2 bis 7 jährlich zum Stichtag 1. Januar die
@@ -973,10 +980,12 @@ Grundsätzen sowie Altersgeldrecht nach folgenden Erhebungsmerkmalen:
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE000904377)
 
 
 
 ## § 9 Zusätzliche Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001006123)
 
 Zusätzliche Erhebungsmerkmale sind
 
@@ -1014,6 +1023,7 @@ Zusätzliche Erhebungsmerkmale sind
 
 
 ## § 9a Datenbank Berichtskreismanagement
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001802123)
 
 (1) Für die Statistiken der öffentlichen Finanzwirtschaft und die
 Personalstatistiken im öffentlichen Dienst nach § 1 dieses Gesetzes
@@ -1138,6 +1148,7 @@ gesonderten Erhebung absehen.
 
 
 ## § 10 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001106123)
 
 Hilfsmerkmale sind
 
@@ -1158,6 +1169,7 @@ Hilfsmerkmale sind
 
 
 ## § 11 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001206123)
 
 (1) Für alle Statistiken nach diesem Gesetz besteht Auskunftspflicht.
 Die Angaben zu den Merkmalen nach § 10 Nummer 2 sind freiwillig.
@@ -1268,6 +1280,7 @@ Die Angaben zu den Merkmalen nach § 10 Nummer 2 sind freiwillig.
 
 
 ## § 12 Durchführung der Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001306123)
 
 (1) Die Statistiken nach den §§ 3 bis 7, mit Ausnahme der Statistik
 nach § 3 Absatz 1 Nummer 3, und die Erhebungen nach § 9a Absatz 5
@@ -1442,6 +1455,7 @@ erhoben und aufbereitet:
 
 
 ## § 13 Zusammenführung
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001406123)
 
 (1) Zur Gewinnung statistischer Ergebnisse auf der Ebene der
 Hochschulen und Berufsakademien dürfen von den statistischen Ämtern
@@ -1461,6 +1475,7 @@ Gesetzes und den Erhebungsmerkmalen nach § 3 Absatz 7 oder § 6 Absatz
 
 
 ## § 14 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001505123)
 
 (1) An oberste Bundes- oder Landesbehörden dürfen für die Verwendung
 gegenüber den gesetzgebenden Körperschaften und für Zwecke der
@@ -1507,6 +1522,7 @@ vom Statistischen Amt der Europäischen Union nicht an andere Stellen
 
 
 ## § 15 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001604123)
 
 (1) Sofern nicht Erhebungseinheiten nach § 2 Absatz 6 Nummer 1 und
 Absatz 7 betroffen sind, dürfen auf der Ebene der Erhebungseinheit
@@ -1549,6 +1565,7 @@ Fassung, veröffentlicht werden.
 
 
 ## § 16 Geschäftsstatistik zur Entwicklungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE001703123)
 
 Das Bundesministerium für wirtschaftliche Zusammenarbeit und
 Entwicklung darf bei öffentlichen und privaten Stellen, die Leistungen
@@ -1575,6 +1592,7 @@ durch.
 
 
 ## § 17 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fpstatg/BJNR021190992.html#BJNR021190992BJNE002000123)
 
 Die Erhebungsmerkmale nach § 3 Absatz 2 Nummer 1 Buchstabe b
 Doppelbuchstabe bb und § 3 Absatz 7 Nummer 2 Buchstabe b werden

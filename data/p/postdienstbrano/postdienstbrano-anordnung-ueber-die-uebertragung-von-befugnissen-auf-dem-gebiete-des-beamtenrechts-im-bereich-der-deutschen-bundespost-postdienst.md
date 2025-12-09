@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/postdienstbrano/BJNR007540990.html#BJNR007540990BJNE000100308)
 
 
 1.  Wir übertragen

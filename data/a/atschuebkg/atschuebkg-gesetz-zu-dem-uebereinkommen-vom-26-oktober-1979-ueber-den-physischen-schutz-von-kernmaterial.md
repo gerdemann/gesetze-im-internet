@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/atsch_bkg/BJNR203260990.html#BJNR203260990BJNE000100308)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/atsch_bkg/BJNR203260990.html#BJNR203260990BJNE000200308)
 
 Dem in Wien am 13. Juni 1980 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen vom 26. Oktober 1979 über den physischen
@@ -34,6 +36,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/atsch_bkg/BJNR203260990.html#BJNR203260990BJNE000302307)
 
 § 311 Abs. 1 und 2 sowie § 328 Abs. 1 Nr. 1 des Strafgesetzbuches
 gelten mit folgender Maßgabe:
@@ -44,17 +47,20 @@ Genehmigung und Untersagung gleich.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/atsch_bkg/BJNR203260990.html#BJNR203260990BJNE000400308)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/atsch_bkg/BJNR203260990.html#BJNR203260990BJNE000500308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/atsch_bkg/BJNR203260990.html#BJNR203260990BJNE000600308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

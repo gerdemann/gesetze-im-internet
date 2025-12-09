@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000103360)
 
 (1) Die Landwirtschaftliche Rentenbank, nachstehend Bank genannt, ist
 eine bundesunmittelbare Anstalt des öffentlichen Rechts.
@@ -32,6 +33,7 @@ Zweigniederlassungen.
 
 
 ## § 1a Haftung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE002301360)
 
 Der Bund haftet für die von der Bank aufgenommenen Darlehen und
 begebenen Schuldverschreibungen, die als Festgeschäfte ausgestalteten
@@ -41,6 +43,7 @@ gewährleistet werden.
 
 
 ## § 2 Kapital
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000204360)
 
 (1) Das Grundkapital der Bank beträgt 135 Millionen Euro.
 
@@ -59,6 +62,7 @@ Schuldverschreibungen nicht überschreiten. Ihr dürfen nicht mehr als
 
 
 ## § 3 Geschäftsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000306118)
 
 (1) Die Bank hat den staatlichen Auftrag, die Landwirtschaft und den
 ländlichen Raum zu fördern, wobei die jeweiligen Zuständigkeiten des
@@ -120,6 +124,7 @@ Finanzierungsinstrumente einsetzen.
 
 
 ## § 4 Sonstige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000408118)
 
 (1) Die Bank kann ferner alle Geschäfte und Dienstleistungen
 betreiben, die mit der Erfüllung ihrer Aufgaben in direktem
@@ -137,6 +142,7 @@ Zusammenhang stehen.
 
 
 ## § 5 Organe
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000503360)
 
 (1) Organe der Bank sind
 
@@ -156,6 +162,7 @@ Gesetz bestimmt sind, die Satzung.
 
 
 ## § 6 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000603360)
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die
 Vorstandsmitglieder werden vom Verwaltungsrat mit einer Mehrheit von
@@ -176,6 +183,7 @@ anzuwenden.
 
 
 ## § 7 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000707118)
 
 (1) Der Verwaltungsrat besteht aus
 
@@ -237,6 +245,7 @@ bedürfen der Genehmigung der Aufsichtsbehörde (§ 11 Absatz 1).
 
 
 ## § 8 Anstaltsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000803360)
 
 (1) Die Anstaltsversammlung ist die Vertretung der Eigentümer und
 Pächter der mit der Rentenbankgrundschuld belasteten Grundstücke.
@@ -259,6 +268,7 @@ allgemeinen agrar- und geschäftspolitischen Fragen. Sie beschließt
 
 
 ## § 9 Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE000904360)
 
 (1) Der Bilanzgewinn darf nur für eine das Allgemeininteresse wahrende
 Förderung der Landwirtschaft und des ländlichen Raumes verwendet
@@ -278,6 +288,7 @@ vom Einkommen und vom Gewerbebetrieb befreit ist.
 
 
 ## § 10 Besondere Pflicht der Organe
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001003360)
 
 Sorgfaltspflicht und Verantwortlichkeit der Mitglieder des Vorstandes
 und des Verwaltungsrates richten sich nach den entsprechenden
@@ -286,6 +297,7 @@ Aktiengesellschaften.
 
 
 ## § 11 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001105118)
 
 (1) Die Bank untersteht der Aufsicht des Bundesministeriums für
 Ernährung und Landwirtschaft (Aufsichtsbehörde), das seine
@@ -314,6 +326,7 @@ selbständig, desgleichen in der Anstellung des Personals.
 
 
 ## § 12 Dienstsiegel und öffentliche Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001204360)
 
 Die Bank ist berechtigt, ein Dienstsiegel zu führen. § 39a des
 Beurkundungsgesetzes ist entsprechend anzuwenden. Ordnungsgemäß
@@ -323,6 +336,7 @@ Urkunden.
 
 
 ## § 13 Gedeckte Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001306128)
 
 (1) Die Bank kann gedeckte Schuldverschreibungen nach Maßgabe der
 Absätze 2 bis 4 ausgeben.
@@ -378,12 +392,14 @@ genannte Aufsichtsbehörde tritt.
 
 
 ## § 13a Mündelsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE002201360)
 
 Die Schuldverschreibungen der Bank, die nicht auf ausländische
 Zahlungsmittel lauten, sind zur Anlegung von Mündelgeldern geeignet.
 
 
 ## § 14 Arreste und Zwangsvollstreckungen
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001405360)
 
 Auf Arreste und Zwangsvollstreckungen in Vermögenswerte, die in das
 Deckungsregister nach § 13 Absatz 3 eingetragen sind, ist § 29 des
@@ -391,6 +407,7 @@ Pfandbriefgesetzes entsprechend anzuwenden.
 
 
 ## § 15 Sondervorschrift für Refinanzierungskredite
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001505360)
 
 Kreditinstitute können sich bei der Gewährung von Darlehen aus
 Mitteln, die sie von der Bank erhalten, die Verzinsung rückständiger
@@ -398,6 +415,7 @@ Zinsen im Voraus versprechen lassen.
 
 
 ## § 16 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001605118)
 
 (1) Das Insolvenzverfahren über das Vermögen der Bank ist unzulässig.
 Die Bank kann nur durch Gesetz aufgelöst werden. Das Gesetz bestimmt
@@ -414,6 +432,7 @@ Gläubigern der Bank zur Verfügung.
 
 
 ## § 17 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001706360)
 
 Die bisherigen Deckungsregister der Bank bleiben nach Inkrafttreten
 des Fünften Gesetzes zur Änderung des Gesetzes über die
@@ -424,10 +443,13 @@ Deckungsregister.
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE001805360)
 
 
 ## § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE002001360)
 
 
 ## § 20 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/lwrentbkg/BJNR700770949.html#BJNR700770949BJNE002101360)
 

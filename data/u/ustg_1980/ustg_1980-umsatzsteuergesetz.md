@@ -26,10 +26,12 @@ Mittelbare änderung durch
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG000904301)
 
 
 
 ### § 1 Steuerbare Umsätze
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE001622123)
 
 (1) Der Umsatzsteuer unterliegen die folgenden Umsätze:
 
@@ -157,6 +159,7 @@ Belegen das Gegenteil glaubhaft macht.
 
 
 ### § 1a Innergemeinschaftlicher Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006710123)
 
 (1) Ein innergemeinschaftlicher Erwerb gegen Entgelt liegt vor, wenn
 die folgenden Voraussetzungen erfüllt sind:
@@ -250,6 +253,7 @@ Getränke sowie Tabakwaren.
 
 
 ### § 1b Innergemeinschaftlicher Erwerb neuer Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006804301)
 
 (1) Der Erwerb eines neuen Fahrzeugs durch einen Erwerber, der nicht
 zu den in § 1a Abs. 1 Nr. 2 genannten Personen gehört, ist unter den
@@ -293,6 +297,7 @@ bezeichneten Fahrzeuge.
 
 
 ### § 1c Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007404123)
 
 (1) Ein innergemeinschaftlicher Erwerb im Sinne des § 1a liegt nicht
 vor, wenn ein Gegenstand bei einer Lieferung aus dem Gebiet eines
@@ -331,6 +336,7 @@ diese Streitkräfte nicht der Besteuerung unterlegen hat.
 
 
 ### § 2 Unternehmer, Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE001713123)
 
 (1) Unternehmer ist, wer eine gewerbliche oder berufliche Tätigkeit
 selbstständig ausübt, unabhängig davon, ob er nach anderen
@@ -364,6 +370,7 @@ ausgeübt,
 
 
 ### § 2a Fahrzeuglieferer
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008203301)
 
 Wer im Inland ein neues Fahrzeug liefert, das bei der Lieferung in das
 übrige Gemeinschaftsgebiet gelangt, wird, wenn er nicht Unternehmer im
@@ -374,6 +381,7 @@ ausführt.
 
 
 ### § 2b Juristische Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE010101123)
 
 (1) Vorbehaltlich des Absatzes 4 gelten juristische Personen des
 öffentlichen Rechts nicht als Unternehmer im Sinne des § 2, soweit sie
@@ -461,6 +469,7 @@ Tätigkeiten stets als Unternehmer:
 
 
 ### § 3 Lieferung, sonstige Leistung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE001822123)
 
 (1) Lieferungen eines Unternehmers sind Leistungen, durch die er oder
 in seinem Auftrag ein Dritter den Abnehmer oder in dessen Auftrag
@@ -752,6 +761,7 @@ unterliegt.
 
 
 ### § 3a Ort der sonstigen Leistung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE001929123)
 
 (1) Eine sonstige Leistung wird vorbehaltlich der Absätze 2 bis 8 und
 der §§ 3b und 3e an dem Ort ausgeführt, von dem aus der Unternehmer
@@ -1045,6 +1055,7 @@ Absatz 3 genannten Gebiete tatsächlich ausgeführt werden.
 
 
 ### § 3b Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006906140)
 
 (1) Eine Beförderung einer Person wird dort ausgeführt, wo die
 Beförderung bewirkt wird. Erstreckt sich eine solche Beförderung nicht
@@ -1090,6 +1101,7 @@ an dem die Beförderung des Gegenstands beginnt.
 
 
 ### § 3c Ort der Lieferung beim Fernverkauf
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005507123)
 
 (1) Als Ort der Lieferung eines innergemeinschaftlichen Fernverkaufs
 gilt der Ort, an dem sich der Gegenstand bei Beendigung der
@@ -1163,6 +1175,7 @@ für Lieferungen an eine in § 1a Absatz 3 Nummer 1 genannte Person.
 
 
 ### § 3d Ort des innergemeinschaftlichen Erwerbs
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005605140)
 
 Der innergemeinschaftliche Erwerb wird in dem Gebiet des
 Mitgliedstaates bewirkt, in dem sich der Gegenstand am Ende der
@@ -1177,6 +1190,7 @@ Nummer 4 nachgekommen ist.
 
 
 ### § 3e Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007204140)
 
 (1) Wird ein Gegenstand an Bord eines Schiffs, in einem Luftfahrzeug
 oder in einer Eisenbahn während einer Beförderung innerhalb des
@@ -1199,10 +1213,12 @@ gelten als gesonderte Beförderungen.
 
 
 ### § 3f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008103123)
 
 
 
 ### § 3g Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009602140)
 
 (1) Bei einer Lieferung von Gas über das Erdgasnetz, von Elektrizität
 oder von Wärme oder Kälte über Wärme- oder Kältenetze an einen
@@ -1230,10 +1246,12 @@ Absatz 2 bestimmt, sind die Vorschriften des § 1a Abs. 2 und § 3 Abs.
 
 
 ## Zweiter Abschnitt - Steuerbefreiungen und Steuervergütungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG001004301)
 
 
 
 ### § 4 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012504123)
 
 Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
@@ -2281,6 +2299,7 @@ Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
 
 ### § 4a Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002111123)
 
 (1) Körperschaften, die ausschließlich und unmittelbar gemeinnützige,
 mildtätige oder kirchliche Zwecke verfolgen (§§ 51 bis 68 der
@@ -2340,6 +2359,7 @@ Bundesrates durch Rechtsverordnung näher bestimmen,
 
 
 ### § 4b Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005706301)
 
 Steuerfrei ist der innergemeinschaftliche Erwerb
 
@@ -2364,6 +2384,7 @@ Steuerfrei ist der innergemeinschaftliche Erwerb
 
 
 ### § 4c Steuervergütung für Leistungsbezüge europäischer Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012400123)
 
 (1) Europäischen Einrichtungen wird
 
@@ -2422,6 +2443,7 @@ innerhalb eines Monats anzuzeigen.
 
 
 ### § 5 Steuerbefreiungen bei der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002219123)
 
 (1) Steuerfrei ist die Einfuhr
 
@@ -2584,6 +2606,7 @@ ganz oder teilweise erstattet oder erlassen wird.
 
 
 ### § 6 Ausfuhrlieferung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002316123)
 
 (1) Eine Ausfuhrlieferung (§ 4 Nr. 1 Buchstabe a) liegt vor, wenn bei
 einer Lieferung
@@ -2680,6 +2703,7 @@ der Unternehmer die Nachweise zu führen hat.
 
 
 ### § 6a Innergemeinschaftliche Lieferung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005806123)
 
 (1) Eine innergemeinschaftliche Lieferung (§ 4 Nummer 1 Buchstabe b)
 liegt vor, wenn bei einer Lieferung die folgenden Voraussetzungen
@@ -2742,6 +2766,7 @@ Steuer.
 
 
 ### § 6b Konsignationslagerregelung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011001123)
 
 (1) Für die Beförderung oder Versendung eines Gegenstandes aus dem
 Gebiet eines Mitgliedstaates in das Gebiet eines anderen
@@ -2867,6 +2892,7 @@ nicht mehr erfüllt.
 
 
 ### § 7 Lohnveredelung an Gegenständen der Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002410301)
 
 (1) Eine Lohnveredelung an einem Gegenstand der Ausfuhr (§ 4 Nr. 1
 Buchstabe a) liegt vor, wenn bei einer Bearbeitung oder Verarbeitung
@@ -2921,6 +2947,7 @@ Sinne des § 3 Abs. 9a Nr. 2.
 
 
 ### § 8 Umsätze für die Seeschiffahrt und für die Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002510140)
 
 (1) Umsätze für die Seeschiffahrt (§ 4 Nr. 2) sind:
 
@@ -2993,6 +3020,7 @@ wie der Unternehmer den Nachweis zu führen hat.
 
 
 ### § 9 Verzicht auf Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002612140)
 
 (1) Der Unternehmer kann einen Umsatz, der nach § 4 Nr. 8 Buchstabe a
 bis g, Nr. 9 Buchstabe a, Nr. 12, 13 oder 19 steuerfrei ist, als
@@ -3019,10 +3047,12 @@ notariell zu beurkundenden Vertrag erklärt werden.
 
 
 ## Dritter Abschnitt - Bemessungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG001104301)
 
 
 
 ### § 10 Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002718123)
 
 (1) Der Umsatz wird bei Lieferungen und sonstigen Leistungen (§ 1 Abs.
 1 Nr. 1 Satz 1) und bei dem innergemeinschaftlichen Erwerb (§ 1 Abs. 1
@@ -3124,6 +3154,7 @@ ohne Anwendung des Durchschnittsbeförderungsentgelts ergeben würde.
 
 
 ### § 11 Bemessungsgrundlage für die Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002816123)
 
 (1) Der Umsatz wird bei der Einfuhr (§ 1 Abs. 1 Nr. 4) nach dem Wert
 des eingeführten Gegenstands nach den jeweiligen Vorschriften über den
@@ -3177,10 +3208,12 @@ Kommission festgelegt sind.
 
 
 ## Vierter Abschnitt - Steuer und Vorsteuer
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG001204301)
 
 
 
 ### § 12 Steuersätze
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE002938123)
 
 (1) Die Steuer beträgt für jeden steuerpflichtigen Umsatz 19 Prozent
 der Bemessungsgrundlage (§§ 10, 11, 25 Abs. 3 und § 25a Abs. 3 und 4).
@@ -3393,6 +3426,7 @@ Umsätze:
 
 
 ### § 13 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003018123)
 
 (1) Die Steuer entsteht
 
@@ -3493,6 +3527,7 @@ Umsätze:
 
 
 ### § 13a Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008403123)
 
 (1) Steuerschuldner ist in den Fällen
 
@@ -3540,6 +3575,7 @@ Umsätze:
 
 
 ### § 13b Leistungsempfänger als Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008530123)
 
 (1) Für nach § 3a Absatz 2 im Inland steuerpflichtige sonstige
 Leistungen eines im übrigen Gemeinschaftsgebiet ansässigen
@@ -3808,6 +3844,7 @@ Voraussetzungen für eine solche Erweiterung sind, dass
 
 
 ### § 13c Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009103123)
 
 (1) Soweit der leistende Unternehmer den Anspruch auf die
 Gegenleistung für einen steuerpflichtigen Umsatz im Sinne des § 1 Abs.
@@ -3850,11 +3887,13 @@ Pfändung der Vollstreckungsgläubiger.
 
 
 ### § 13d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009203301)
 
 -
 
 
 ### § 14 Ausstellung von Rechnungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003125123)
 
 (1) Rechnung ist jedes Dokument, mit dem über eine Lieferung oder
 sonstige Leistung abgerechnet wird, gleichgültig, wie dieses Dokument
@@ -4074,6 +4113,7 @@ Mitgliedstaates, in dem der Unternehmer seine Teilnahme anzeigt.
 
 
 ### § 14a Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005915123)
 
 (1) Hat der Unternehmer seinen Sitz, seine Geschäftsleitung, eine
 Betriebsstätte, von der aus der Umsatz ausgeführt wird, oder in
@@ -4141,6 +4181,7 @@ keine Anwendung.
 
 
 ### § 14b Aufbewahrung von Rechnungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009308123)
 
 (1) Der Unternehmer hat ein Doppel der Rechnung, die er selbst oder
 ein Dritter in seinem Namen und für seine Rechnung ausgestellt hat,
@@ -4220,6 +4261,7 @@ der Abgabenordnung.
 
 
 ### § 14c Unrichtiger oder unberechtigter Steuerausweis
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009402123)
 
 (1) Hat der Unternehmer in einer Rechnung für eine Lieferung oder
 sonstige Leistung einen höheren Steuerbetrag, als er nach diesem
@@ -4259,6 +4301,7 @@ Voraussetzungen des Satzes 4 eingetreten sind.
 
 
 ### § 15 Vorsteuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003223123)
 
 (1) Der Unternehmer kann die folgenden Vorsteuerbeträge abziehen:
 
@@ -4441,6 +4484,7 @@ treffen,
 
 
 ### § 15a Berichtigung des Vorsteuerabzugs
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003314123)
 
 (1) Ändern sich bei einem Wirtschaftsgut, das nicht nur einmalig zur
 Ausführung von Umsätzen verwendet wird, innerhalb von fünf Jahren ab
@@ -4561,10 +4605,12 @@ treffen,
 
 
 ## Fünfter Abschnitt - Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG001304301)
 
 
 
 ### § 16 Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003423123)
 
 (1) Die Steuer ist, soweit nicht § 20 gilt, nach vereinbarten
 Entgelten zu berechnen. Besteuerungszeitraum ist das Kalenderjahr. Bei
@@ -4713,6 +4759,7 @@ festgestellten Umrechnungskursen umzurechnen.
 
 
 ### § 17 Änderung der Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003511123)
 
 (1) Hat sich die Bemessungsgrundlage für einen steuerpflichtigen
 Umsatz im Sinne des § 1 Abs. 1 Nr. 1 geändert, hat der Unternehmer,
@@ -4780,6 +4827,7 @@ unterschiedlich besteuerten Umsätze verteilt.
 
 
 ### § 18 Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE010609123)
 
 (1) Der Unternehmer hat vorbehaltlich des § 18i Absatz 3, des § 18j
 Absatz 4, des § 18k Absatz 4 und des § 19 Absatz 1 Satz 2 bis zum
@@ -5329,6 +5377,7 @@ von Gegenständen (ABl. L 348 vom 29.12.2017, S. 7) teilnimmt.
 
 
 ### § 18a Zusammenfassende Meldung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006020123)
 
 (1) Der Unternehmer im Sinne des § 2 hat bis zum 25. Tag nach Ablauf
 jedes Kalendermonats (Meldezeitraum), in dem er innergemeinschaftliche
@@ -5597,6 +5646,7 @@ niedergelegt ist.
 
 
 ### § 18b Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006109140)
 
 Der Unternehmer im Sinne des § 2 hat für jeden Voranmeldungs- und
 Besteuerungszeitraum in den amtlich vorgeschriebenen Vordrucken (§ 18
@@ -5632,6 +5682,7 @@ Abs. 3 und 4) entsprechend.
 
 
 ### § 18c Meldepflicht bei der Lieferung neuer Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006206301)
 
 Zur Sicherung des Steueraufkommens durch einen Austausch von
 Auskünften mit anderen Mitgliedstaaten kann das Bundesministerium der
@@ -5660,6 +5711,7 @@ Dabei können insbesondere geregelt werden:
 
 
 ### § 18d Vorlage von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006305140)
 
 Die Finanzbehörden sind zur Erfüllung der Auskunftsverpflichtung nach
 der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über
@@ -5673,6 +5725,7 @@ die in Satz 1 bezeichneten Unterlagen vorzulegen.
 
 
 ### § 18e Bestätigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006406123)
 
 Das Bundeszentralamt für Steuern bestätigt auf Anfrage
 
@@ -5697,6 +5750,7 @@ Das Bundeszentralamt für Steuern bestätigt auf Anfrage
 
 
 ### § 18f Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008601301)
 
 Bei Steueranmeldungen im Sinne von § 18 Abs. 1 und 3 kann die
 Zustimmung nach § 168 Satz 2 der Abgabenordnung im Einvernehmen mit
@@ -5706,6 +5760,7 @@ der Abgabenordnung, wenn sie zu einer Erstattung führt.
 
 
 ### § 18g Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009704123)
 
 Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von
 Vorsteuerbeträgen entsprechend der Richtlinie 2008/9/EG des Rates vom
@@ -5727,6 +5782,7 @@ Bescheid schriftlich zu erteilen.
 
 
 ### § 18h Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011702123)
 
 (1) Ein im Inland ansässiger Unternehmer, der vor dem 1. Juli 2021 in
 einem anderen Mitgliedstaat der Europäischen Union Umsätze nach § 3a
@@ -5791,6 +5847,7 @@ Finanzgerichtsordnung anzuwenden.
 
 
 ### § 18i Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011401123)
 
 (1) Ein nicht im Gemeinschaftsgebiet ansässiger Unternehmer, der nach
 dem 30. Juni 2021 als Steuerschuldner sonstige Leistungen an Empfänger
@@ -5891,6 +5948,7 @@ Abgabenordnung sowie die Finanzgerichtsordnung anzuwenden.
 
 
 ### § 18j Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011501123)
 
 (1) Ein Unternehmer, der
 
@@ -6036,6 +6094,7 @@ Finanzgerichtsordnung anzuwenden.
 
 
 ### § 18k Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011601123)
 
 (1) Ein Unternehmer, der nach dem 30. Juni 2021 als Steuerschuldner
 Fernverkäufe nach § 3 Absatz 3a Satz 2 oder § 3c Absatz 2 oder 3 in
@@ -6177,6 +6236,7 @@ Finanzgerichtsordnung anzuwenden.
 
 
 ### § 19 Besteuerung der Kleinunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003720123)
 
 (1) Ein von einem im Inland oder in den in § 1 Absatz 3 bezeichneten
 Gebieten ansässigen Unternehmer bewirkter Umsatz im Sinne des § 1
@@ -6251,6 +6311,7 @@ neuer Fahrzeuge. § 15 Absatz 4a ist entsprechend anzuwenden.
 
 
 ### § 19a Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012800123)
 
 (1) Beabsichtigt ein im Inland oder in den in § 1 Absatz 3
 bezeichneten Gebieten ansässiger Unternehmer, die Steuerbefreiung für
@@ -6310,6 +6371,7 @@ Meldeverfahren.
 
 
 ### § 20 Berechnung der Steuer nach vereinnahmten Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003817123)
 
 Das Finanzamt kann auf Antrag gestatten, dass ein Unternehmer,
 
@@ -6345,6 +6407,7 @@ oder unversteuert bleiben.
 
 
 ### § 21 Besondere Vorschriften für die Einfuhrumsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE003913123)
 
 (1) Die Einfuhrumsatzsteuer ist eine Verbrauchsteuer im Sinne der
 Abgabenordnung.
@@ -6389,6 +6452,7 @@ bestehen.
 
 
 ### § 21a Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011800123)
 
 (1) Bei der Einfuhr von Gegenständen in Sendungen mit einem Sachwert
 von höchstens 150 Euro aus dem Drittlandsgebiet, für die eine
@@ -6506,6 +6570,7 @@ wurde, gilt Satz 3 entsprechend.
 
 
 ### § 22 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004026123)
 
 (1) Der Unternehmer ist verpflichtet, zur Feststellung der Steuer und
 der Grundlagen ihrer Berechnung Aufzeichnungen zu machen. Diese
@@ -6823,6 +6888,7 @@ Bundesrates durch Rechtsverordnung
 
 
 ### § 22a Fiskalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007504301)
 
 (1) Ein Unternehmer, der weder im Inland noch in einem der in § 1 Abs.
 3 genannten Gebiete seinen Wohnsitz, seinen Sitz, seine
@@ -6839,6 +6905,7 @@ Unternehmers.
 
 
 ### § 22b Rechte und Pflichten des Fiskalvertreters
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007603123)
 
 (1) Der Fiskalvertreter hat die Pflichten des im Ausland ansässigen
 Unternehmers nach diesem Gesetz als eigene zu erfüllen. Er hat die
@@ -6863,6 +6930,7 @@ Unternehmer enthalten.
 
 
 ### § 22c Ausstellung von Rechnungen im Falle der Fiskalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007702301)
 
 Die Rechnung hat folgende Angaben zu enthalten:
 
@@ -6880,6 +6948,7 @@ Die Rechnung hat folgende Angaben zu enthalten:
 
 
 ### § 22d Steuernummer und zuständiges Finanzamt
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007802301)
 
 (1) Der Fiskalvertreter erhält für seine Tätigkeit eine gesonderte
 Steuernummer und eine gesonderte Umsatzsteuer-Identifikationsnummer
@@ -6891,6 +6960,7 @@ Umsatzbesteuerung zuständig ist.
 
 
 ### § 22e Untersagung der Fiskalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE007902301)
 
 (1) Die zuständige Finanzbehörde kann die Fiskalvertretung der in §
 22a Abs. 2 mit Ausnahme der in § 3 des Steuerberatungsgesetzes
@@ -6904,6 +6974,7 @@ Finanzgerichtsordnung.
 
 
 ### § 22f Besondere Pflichten für Betreiber einer elektronischen Schnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE010302123)
 
 (1) In den Fällen des § 25e Absatz 1 hat der Betreiber für Lieferungen
 eines Unternehmers, bei denen die Beförderung oder Versendung im
@@ -6975,6 +7046,7 @@ Datenübermittlungsverfahren nach Absatz 4 Satz 1 zu erlassen.
 
 
 ### § 22g Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012601123)
 
 (1) Zahlungsdienstleister haben bei grenzüberschreitenden Zahlungen
 Folgendes aufzuzeichnen:
@@ -7191,13 +7263,16 @@ Daten zu erlassen.
 
 
 ## Sechster Abschnitt - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG001405301)
 
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004106123)
 
 
 ### § 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005108123)
 
 (1) Zur Berechnung der abziehbaren Vorsteuerbeträge (§ 15) wird für
 Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des
@@ -7227,6 +7302,7 @@ zulässig.
 
 
 ### § 24 Durchschnittssätze für land- und forstwirtschaftliche Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE010805123)
 
 (1) Hat der Gesamtumsatz des Unternehmers (§ 19 Absatz 2) im
 vorangegangenen Kalenderjahr nicht mehr als 600 000 Euro betragen,
@@ -7308,6 +7384,7 @@ zum 1. Januar des Folgejahres entsprechend.
 
 
 ### § 25 Besteuerung von Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004311123)
 
 (1) Die nachfolgenden Vorschriften gelten für Reiseleistungen eines
 Unternehmers, soweit der Unternehmer dabei gegenüber dem
@@ -7359,6 +7436,7 @@ den Aufzeichnungen des Unternehmers zu ersehen sein müssen:
 
 
 ### § 25a Differenzbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE005219123)
 
 (1) Für die Lieferungen im Sinne des § 1 Abs. 1 Nr. 1 von beweglichen
 körperlichen Gegenständen gilt eine Besteuerung nach Maßgabe der
@@ -7499,6 +7577,7 @@ entsteht.
 
 
 ### § 25b Innergemeinschaftliche Dreiecksgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008003301)
 
 (1) Ein innergemeinschaftliches Dreiecksgeschäft liegt vor, wenn
 
@@ -7592,6 +7671,7 @@ im Inland endet.
 
 
 ### § 25c Besteuerung von Umsätzen mit Anlagegold
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008302116)
 
 (1) Die Lieferung, die Einfuhr und der innergemeinschaftliche Erwerb
 von Anlagegold, einschließlich Anlagegold in Form von Zertifikaten
@@ -7667,10 +7747,12 @@ und Aufbewahrungspflichten des Geldwäschegesetzes entsprechend.
 
 
 ### § 25d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008703123)
 
 
 
 ### § 25e Haftung beim Handel über eine elektronische Schnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE010501123)
 
 (1) Wer mittels einer elektronischen Schnittstelle die Lieferung eines
 Gegenstandes unterstützt (Betreiber), haftet für die nicht entrichtete
@@ -7766,6 +7848,7 @@ Abkommen über den europäischen Wirtschaftsraum anzuwenden ist, ist §
 
 
 ### § 25f Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE011101123)
 
 (1) Sofern der Unternehmer wusste oder hätte wissen müssen, dass er
 sich mit der von ihm erbrachten Leistung oder seinem Leistungsbezug an
@@ -7796,10 +7879,12 @@ anzuwenden.
 
 
 ## Siebenter Abschnitt - Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNG001505301)
 
 
 
 ### § 26 Durchführung, Erstattung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004413123)
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates durch
 Rechtsverordnung zur Wahrung der Gleichmäßigkeit bei der Besteuerung,
@@ -7909,6 +7994,7 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ### § 26a Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006516123)
 
 (1) Ordnungswidrig handelt, wer entgegen § 18 Absatz 1 Satz 4, Absatz
 4 Satz 1 oder 2, Absatz 4c Satz 2, Absatz 4e Satz 4 oder Absatz 5a
@@ -7978,9 +8064,11 @@ Nummer 5, 6 und 8 bis 10 das Bundeszentralamt für Steuern.
 
 
 ### § 26b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008803123)
 
 
 ### § 26c Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE008902123)
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer in den Fällen des § 26a Absatz 1 gewerbsmäßig oder als
@@ -7989,6 +8077,7 @@ Handlungen verbunden hat, handelt.
 
 
 ### § 27 Allgemeine Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012008123)
 
 (1) Änderungen dieses Gesetzes sind, soweit nichts anderes bestimmt
 ist, auf Umsätze im Sinne des § 1 Abs. 1 Nr. 1 und 5 anzuwenden, die
@@ -8346,6 +8435,7 @@ noch nicht abgelaufen ist.
 
 
 ### § 27a Umsatzsteuer-Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE006614123)
 
 (1) Das Bundeszentralamt für Steuern erteilt Unternehmern im Sinne des
 § 2 auf Antrag eine Umsatzsteuer-Identifikationsnummer. Das
@@ -8403,6 +8493,7 @@ Umsatzsteuerkontrolle benötigen.
 
 
 ### § 27b Umsatzsteuer-Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009003123)
 
 (1) Zur Sicherstellung einer gleichmäßigen Festsetzung und Erhebung
 der Umsatzsteuer können die damit betrauten Amtsträger der
@@ -8443,6 +8534,7 @@ von Bedeutung sein kann.
 
 
 ### § 28 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004631123)
 
 (1) § 12 Absatz 1 ist vom 1. Juli 2020 bis 31. Dezember 2020 mit der
 Maßgabe anzuwenden, dass die Steuer für jeden steuerpflichtigen Umsatz
@@ -8499,6 +8591,7 @@ Lieferung von Wärme über ein Wärmenetz gilt.
 
 
 ### § 29 Umstellung langfristiger Verträge
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004705301)
 
 (1) Beruht die Leistung auf einem Vertrag, der nicht später als vier
 Kalendermonate vor dem Inkrafttreten dieses Gesetzes abgeschlossen
@@ -8515,6 +8608,7 @@ entsprechend anzuwenden.
 
 
 ### § 30 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012700123)
 
 (1) Für nach dem 31. Dezember 2020 ausgeführte Lieferungen und
 innergemeinschaftliche Erwerbe wird das Gebiet Nordirlands wie übriges
@@ -8532,6 +8626,7 @@ individuelle Identifikationsnummer.
 (zu § 4 Nr. 4a)
 
 ### Anlage 1 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009502301)
 
 (Fundstelle: BGBl. I 2006, 2896 - 2897)
 
@@ -8749,6 +8844,7 @@ Einzelhandelsstufe aufgemacht sein.
 (zu § 12 Absatz 2 Nummer 1, 2 und 14)
 
 ### Anlage 2 Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE004922123)
 
 (Fundstelle: BGBl. I 2006, 2897 - 2901;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9782,6 +9878,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13b Absatz 2 Nummer 7)
 
 ### Anlage 3 Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE009801123)
 
 (Fundstelle: BGBl. I 2010, 1787)
 
@@ -9933,6 +10030,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13b Absatz 2 Nummer 11)
 
 ### Anlage 4 Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE010002116)
 
 (Fundstelle: BGBl. I 2014, 2429)
 
@@ -10036,6 +10134,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 24 Absatz 5)
 
 ### Anlage 5 Berechnung des Durchschnittssatzes für Land- und Forstwirte im Sinne des § 24 Absatz 1 Satz 1 Nummer 3
+[Direktlink](https://www.gesetze-im-internet.de/ustg_1980/BJNR119530979.html#BJNR119530979BJNE012900123)
 
 (Fundstelle: BGBl. 2024 I Nr. 387, S. 46)
 

@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wgemrefkivtrg/BJNR207800014.html#BJNR207800014BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wgemrefkivtrg/BJNR207800014.html#BJNR207800014BJNE000200000)
 
 Dem in Hannover und Berlin am 11. und 14. April 2014 unterzeichneten
 Vertrag zwischen der Bundesrepublik Deutschland und der
@@ -32,6 +34,7 @@ Rechts – wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wgemrefkivtrg/BJNR207800014.html#BJNR207800014BJNE000300000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000100000)
 
 Auf Grund des § 8 Absatz 3 Satz 3 des Bundesfernstraßengesetzes in der
 Fassung der Bekanntmachung vom 28. Juni 2007 (BGBl. I S. 1206), der
@@ -27,6 +28,7 @@ für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Sondernutzungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000200000)
 
 Für Sondernutzungen an Bundesfernstraßen werden Gebühren nach dieser
 Verordnung erhoben, soweit dem Bund die Verwaltung dieser Straßen
@@ -34,6 +36,7 @@ zusteht.
 
 
 ## § 2 Bemessungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000300000)
 
 (1) Die Höhe der Gebühren bestimmt sich nach dem anliegenden
 Gebührenverzeichnis. Soweit dieses Rahmensätze vorsieht, ist die
@@ -51,6 +54,7 @@ nur während eines Teils des jeweiligen Zeitraumes ausgeübt wird.
 
 
 ## § 3 Festsetzung und Erhebung der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000400000)
 
 (1) Die Gebühren werden von der Gesellschaft privaten Rechts im Sinne
 des Infrastrukturgesellschaftserrichtungsgesetzes festgesetzt und
@@ -63,6 +67,7 @@ Behörde aufzunehmen.
 
 
 ## § 4 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000500000)
 
 (1) Gebührenschuldner sind
 
@@ -79,6 +84,7 @@ Behörde aufzunehmen.
 
 
 ## § 5 Entstehung der Gebührenschuld, Fälligkeit der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000600000)
 
 (1) Die Gebührenschuld entsteht mit dem Beginn der Sondernutzung. Ist
 der Zeitpunkt des Beginns der Sondernutzung nicht feststellbar,
@@ -106,6 +112,7 @@ Vierteljahres des jeweiligen Kalenderjahres fällig.
 
 
 ## § 6 Gebührenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000700000)
 
 (1) Von den Gebühren sind befreit:
 
@@ -160,12 +167,14 @@ erhebliche wirtschaftliche Vorteile für ihn zu erwarten sind.
 
 
 ## § 7 Stundung, Niederschlagung, Erlass
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000800000)
 
 Stundung, Niederschlagung und Erlass von festgesetzten Gebühren
 richten sich nach § 59 der Bundeshaushaltsordnung.
 
 
 ## § 8 Erstattung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE000900000)
 
 (1) Gebühren werden auf Antrag anteilig erstattet, sofern
 
@@ -191,6 +200,7 @@ Sondernutzung mehr erfolgt, ein Zwölftel der Jahresgebühr.
 
 
 ## § 9 Ablösung
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE001000000)
 
 Auf Antrag kann gestattet werden, dass die wiederkehrende
 Sondernutzungsgebühr durch eine einmalige Zahlung abgelöst wird. Ist
@@ -205,6 +215,7 @@ Härtefall vor.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE001100000)
 
 (1) Auf Sondernutzungen, für die eine Erlaubnis oder Genehmigung vor
 Inkrafttreten dieser Verordnung erteilt worden ist, ist für die
@@ -223,12 +234,14 @@ vor Erlass dieser Verordnung im Sinne des § 9 abgelöst worden ist.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bfstrsongebv/BJNR159500021.html#BJNR159500021BJNE001300000)
 
 (Fundstelle: BGBl. I 2021, 1597 - 1599)
 

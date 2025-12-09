@@ -32,6 +32,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000100000)
 
 Auf Grund des § 14 Absatz 3 Satz 1, 3 und 4 in Verbindung mit § 24
 Absatz 1 Satz 3 des Wertpapierinstitutsgesetzes vom 12. Mai 2021
@@ -46,9 +47,11 @@ Wertpapierinstitute:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNG000100000)
 
 
 ### § 1 Zielunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000200000)
 
 Zielunternehmen im Sinne dieser Verordnung ist das Wertpapierinstitut
 im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, an dem eine
@@ -60,6 +63,7 @@ aufgegeben wurde.
 
 
 ### § 2 Anzeigenexemplare, Einreichungsweg und Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000300000)
 
 (1) Die Anzeigen nach § 24 Absatz 1 bis 3 und 5 des
 Wertpapierinstitutsgesetzes und die Anzeigen und Mitteilungen nach den
@@ -98,6 +102,7 @@ Hauptverwaltung der Deutschen Bundesbank eingegangen ist.
 
 
 ### § 3 Angaben zum Empfangsbevollmächtigten im Inland
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000400000)
 
 Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz
 oder Geschäftsleitung im Inland müssen in den Formularen nach § 5
@@ -109,6 +114,7 @@ nachzuweisen.
 
 
 ### § 4 Kapital- und Stimmrechtsanteile
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000500000)
 
 (1) Bei der Berechnung der Kapital- oder Stimmrechtsanteile nach § 24
 Absatz 1 bis 3 des Wertpapierinstitutsgesetzes und nach Artikel 10 bis
@@ -150,9 +156,11 @@ anzugeben.
 
 
 ## Abschnitt 2 - Anzeige des Erwerbs oder der Erhöhung einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNG000200000)
 
 
 ### § 5 Anzeigeformulare, Vollständigkeit der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000600000)
 
 (1) Für die Anzeigen des beabsichtigten Erwerbs oder der
 beabsichtigten Erhöhung einer bedeutenden Beteiligung nach § 24 Absatz
@@ -207,6 +215,7 @@ der Bundesanstalt vollständig eingegangen ist.
 
 
 ### § 6 Erfüllung unionsrechtlicher Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000700000)
 
 (1) Zum Nachweis der Angaben nach Artikel 3 Absatz 1 Buchstabe a und
 Artikel 6 Buchstabe a der Delegierten Verordnung (EU) 2017/1946 haben
@@ -339,6 +348,7 @@ natürliche Personen entsprechend.
 
 
 ### § 7 Änderung der angezeigten Absicht, des angezeigten Erwerbs und der angezeigten Angaben
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000800000)
 
 (1) Gibt der Anzeigepflichtige die Absicht, eine bedeutende
 Beteiligung zu erwerben oder zu erhöhen, vor dem Erwerb oder der
@@ -376,6 +386,7 @@ nicht richtig.
 
 
 ### § 8 Abweichende Vorlage- und Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE000900000)
 
 (1) Unbeschadet des Artikels 13 der Delegierten Verordnung (EU)
 2017/1946 muss der Anzeigepflichtige Unterlagen und Erklärungen nicht
@@ -409,9 +420,11 @@ bis 8 des Wertpapierinstitutsgesetzes anfordern.
 
 
 ## Abschnitt 3 - Weitere Anzeige- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNG000300000)
 
 
 ### § 9 Anzeige der Aufgabe oder Verringerung einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001000000)
 
 (1) Die Absicht der Aufgabe oder Verringerung einer bedeutenden
 Beteiligung nach § 24 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes
@@ -430,6 +443,7 @@ Angabe nicht möglich, hat er dies in der Anlage zu begründen.
 
 
 ### § 10 Anzeige von Änderungen beim Inhaber einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001100000)
 
 (1) Der Anzeige nach § 24 Absatz 5 des Wertpapierinstitutsgesetzes
 sind für jeden neu bestellten gesetzlichen oder satzungsmäßigen
@@ -501,6 +515,7 @@ Absatz 1 entbehrlich.
 
 
 ### § 11 Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001200000)
 
 Ist der Inhaber einer bedeutenden Beteiligung kein Wertpapierinstitut,
 Kreditinstitut, Finanzdienstleistungsinstitut,
@@ -546,6 +561,7 @@ Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -553,6 +569,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Formular WpI-EENP
 
 ### Anlage 1 Anzeige über Erwerb oder Erhöhung einer bedeutenden Beteiligung durch eine natürliche Person (Anzeige nach § 24 Absatz 1 und 3 des Wertpapierinstitutsgesetzes in Verbindung mit der Delegierten Verordnung (EU) 2017/1946)
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 9, S. 8 - 17)
 
@@ -1853,6 +1870,7 @@ begründen.)
 Formular WpI-EEKNP
 
 ### Anlage 2 Anzeige über Erwerb oder Erhöhung einer bedeutenden Beteiligung durch eine nicht natürliche Person (Anzeige nach § 24 Absatz 1 und 3 des Wertpapierinstitutsgesetzes in Verbindung mit der Delegierten Verordnung (EU) 2017/1946)
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001500000)
 
 (Fundstelle: BGBl. 2024 I Nr. 9, S. 18 - 29)
 
@@ -3420,6 +3438,7 @@ begründen.)
 Formular WpI-Z
 
 ### Anlage 3 
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 9, S. 30 - 32)
 
@@ -3843,6 +3862,7 @@ Nachweis über das Ergebnis der Beurteilung beizufügen.
 Formular WpI-KB
 
 ### Anlage 4 
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001700000)
 
 (Fundstelle: BGBl. 2024 I Nr. 9, S. 33 - 34)
 
@@ -4209,6 +4229,7 @@ zu machen.
 Formular WpI-AV
 
 ### Anlage 5 Anzeige über die Aufgabe oder Verringerung einer bedeutenden Beteiligung (Anzeige nach § 24 Absatz 2 und 3 des Wertpapierinstitutsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/wpi-inhkontrollv/BJNR0090A0024.html#BJNR0090A0024BJNE001800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 9, S. 35 - 40)
 

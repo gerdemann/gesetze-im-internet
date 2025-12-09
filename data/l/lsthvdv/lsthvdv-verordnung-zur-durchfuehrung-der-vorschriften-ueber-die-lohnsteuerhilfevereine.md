@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE000400315)
 
 Auf Grund des § 31 des Steuerberatungsgesetzes vom 16. August 1961
 (Bundesgesetzbl. I S. 1301) in der Fassung des Dritten Gesetzes zur
@@ -29,10 +30,12 @@ verordnet:
 
 
 ## Erster Teil - Anerkennung als Lohnsteuerhilfeverein
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNG000100315)
 
 
 
 ### § 1 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE000502140)
 
 Der Antrag auf Anerkennung als Lohnsteuerhilfeverein ist schriftlich
 bei der zuständigen Aufsichtsbehörde einzureichen, in deren Bezirk der
@@ -40,6 +43,7 @@ Verein seinen Sitz und seine Geschäftsleitung hat.
 
 
 ### § 2 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE000603140)
 
 Dem Antrag auf Anerkennung als Lohnsteuerhilfeverein sind neben der
 öffentlich beglaubigten Abschrift der Satzung (§ 15 Abs. 2 des
@@ -71,6 +75,7 @@ Gesetzes) beizufügen
 
 
 ### § 3 Anerkennungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE000701301)
 
 Die Anerkennungsurkunde (§ 17 des Gesetzes) enthält
 
@@ -96,16 +101,19 @@ Die Anerkennungsurkunde (§ 17 des Gesetzes) enthält
 
 
 ### § 4 Ablehnung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE000801301)
 
 Über eine Ablehnung des Antrags auf Anerkennung als
 Lohnsteuerhilfeverein ist ein schriftlicher Bescheid zu erteilen.
 
 
 ## Zweiter Teil - Beratungsstellen, Beratungsstellenleiter
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNG000400301)
 
 
 
 ### § 4a Eröffnung und Verlegung einer Beratungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001601360)
 
 Die Mitteilung über die Eröffnung oder die Verlegung einer
 Beratungsstelle (§ 23 Absatz 4 Nummer 1 des Gesetzes) muss folgende
@@ -124,6 +132,7 @@ Angaben enthalten:
 
 
 ### § 4b Bestellung eines Beratungsstellenleiters
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001701301)
 
 (1) Die Mitteilung über die Bestellung des Leiters einer
 Beratungsstelle (§ 23 Abs. 4 Nr. 2 des Gesetzes) muß die Anschrift der
@@ -175,10 +184,12 @@ Beratungsstellenleiter enthalten:
 
 
 ## Dritter Teil - Verzeichnis der Lohnsteuerhilfevereine
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNG000201301)
 
 
 
 ### § 5 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE000902140)
 
 In das Verzeichnis der Lohnsteuerhilfevereine sind einzutragen
 
@@ -225,6 +236,7 @@ In das Verzeichnis der Lohnsteuerhilfevereine sind einzutragen
 
 
 ### § 5a Ablehnung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001800301)
 
 Wird die Eintragung einer Beratungsstelle oder eines
 Beratungsstellenleiters in das Verzeichnis der Lohnsteuerhilfevereine
@@ -232,6 +244,7 @@ abgelehnt, gilt § 4 entsprechend.
 
 
 ### § 6 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001003360)
 
 Im Verzeichnis der Lohnsteuerhilfevereine sind zu löschen
 
@@ -259,6 +272,7 @@ Im Verzeichnis der Lohnsteuerhilfevereine sind zu löschen
 
 
 ### § 7 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001102140)
 
 Die Vertretungsberechtigten des Vereins haben der das Verzeichnis
 führenden Aufsichtsbehörde die für die Eintragung oder Löschung nach §
@@ -270,6 +284,7 @@ gleichzeitig als Mitteilungen im Sinne dieser Vorschrift.
 
 
 ### § 8 Mitteilung über Eintragung und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001202140)
 
 (1) Die das Verzeichnis führende Behörde hat dem Verein Eintragungen,
 die für das Tätigwerden einer Beratungsstelle Voraussetzung sind (§ 23
@@ -284,10 +299,12 @@ mitzuteilen.
 
 
 ## Vierter Teil - Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNG000302140)
 
 
 
 ### § 9 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001303140)
 
 (1) Lohnsteuerhilfevereine sind verpflichtet, sich gegen die aus ihrer
 Tätigkeit (§ 4 Nummer 11 des Gesetzes) ergebenden Haftpflichtgefahren
@@ -304,6 +321,7 @@ Versicherungsbedingungen genommen werden.
 
 
 ### § 10 Mindestversicherungssumme
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001401140)
 
 (1) Die Mindestversicherungssumme muss für den einzelnen
 Versicherungsfall 50 000 Euro betragen.
@@ -319,6 +337,7 @@ betragen.
 
 
 ### § 11 Sonstige Inhalte des Versicherungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001900140)
 
 (1) Der Versicherungsvertrag muss vorsehen, dass Versicherungsschutz
 für jede einzelne, während der Geltung des Versicherungsvertrags
@@ -363,6 +382,7 @@ in Frage kommt
 
 
 ### § 12 Ausschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE002000140)
 
 Von der Versicherung kann die Haftung ausgeschlossen werden für
 
@@ -378,6 +398,7 @@ Von der Versicherung kann die Haftung ausgeschlossen werden für
 
 
 ### § 13 Nachweis des Versicherungsabschlusses vor der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE002100140)
 
 Der Lohnsteuerhilfeverein, der die Anerkennung beantragt, muss der
 anerkennenden Aufsichtsbehörde (§ 27 des Gesetzes) den Abschluss einer
@@ -393,6 +414,7 @@ oder eine beglaubigte Abschrift des Versicherungsscheins nachzuweisen.
 
 
 ### § 14 Anzeige von Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE002200140)
 
 (1) Die Beendigung oder Kündigung des Versicherungsvertrags, jede
 Änderung des Versicherungsvertrags, die den nach dieser Verordnung
@@ -407,6 +429,7 @@ Versicherungsvertrags beim Versicherer einzuholen.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/lsthvdv/BJNR019060975.html#BJNR019060975BJNE001501140)
 
 Der Bundesminister der Finanzen
 

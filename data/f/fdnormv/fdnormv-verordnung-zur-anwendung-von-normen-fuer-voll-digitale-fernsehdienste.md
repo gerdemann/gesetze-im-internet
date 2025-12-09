@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fdnormv/BJNR008500999.html#BJNR008500999BJNE000100308)
 
 Auf Grund des § 3 Abs. 1 Satz 2 des Fernsehsignalübertragungs-Gesetzes
 vom 14. November 1997 (BGBl. I S. 2710) in Verbindung mit Artikel 56
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Normen
+[Direktlink](https://www.gesetze-im-internet.de/fdnormv/BJNR008500999.html#BJNR008500999BJNE000200308)
 
 (1) Für Übertragungssysteme für voll digitale Fernsehdienste müssen
 nachstehende Normen des Europäischen Instituts für
@@ -63,6 +65,7 @@ der Normen von DIN ETS nach DIN EN ein.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fdnormv/BJNR008500999.html#BJNR008500999BJNE000300308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

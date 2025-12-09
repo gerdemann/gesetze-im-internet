@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rbbek_2014/BJNR385700013.html#BJNR385700013BJNE000100000)
 
 Nach § 20 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – in der Fassung der Bekanntmachung
@@ -68,6 +69,7 @@ die Zeit ab 1. Januar 2014 anerkannt:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rbbek_2014/BJNR385700013.html#BJNR385700013BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

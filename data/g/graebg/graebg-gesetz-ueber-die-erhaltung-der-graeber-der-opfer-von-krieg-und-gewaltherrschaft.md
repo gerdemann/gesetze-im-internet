@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000207116)
 
 (1) Dieses Gesetz dient dazu, der Opfer von Krieg und Gewaltherrschaft
 in besonderer Weise zu gedenken und für zukünftige Generationen die
@@ -110,6 +111,7 @@ S. 2848) geändert worden ist, in der jeweils geltenden Fassung.
 
 
 ## § 2 Ruherecht
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000304310)
 
 (1) Gräber nach § 1 bleiben dauernd bestehen.
 
@@ -124,6 +126,7 @@ privaten Rechten an dem Grundstück im Rang vor.
 
 
 ## § 3 Ruherechtsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000407310)
 
 (1) Entstehen dem Eigentümer eines Grundstücks oder einem anderen
 Berechtigten durch die öffentliche Last nach § 2 Vermögensnachteile,
@@ -185,6 +188,7 @@ nicht übersteigt.
 
 
 ## § 4 Übernahme eines Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000504310)
 
 (1) Wird dem Eigentümer eines Grundstücks durch die öffentliche Last
 nach § 2 die bisher zulässige Nutzung des Grundstücks unzumutbar
@@ -230,6 +234,7 @@ nach Absatz 1 nicht geltend machen.
 
 
 ## § 5 Feststellung und Erhaltung von Gräbern
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000605310)
 
 (1) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1
 festzustellen, in Listen nachzuweisen und diese Listen auf dem
@@ -244,6 +249,7 @@ Pflege.
 
 
 ## § 6 Verlegung von Gräbern
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000706310)
 
 (1) Gräber nach § 1 Absatz 2 dürfen im Inland nur verlegt werden, wenn
 die zuständige Landesbehörde zugestimmt hat. Die Toten sollen in einem
@@ -259,6 +265,7 @@ Friedhofs.
 
 
 ## § 7 Herausgabe von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000804116)
 
 Wer Unterlagen zur Person oder Nachlassgegenstände der in § 1
 genannten Personen sowie Verlustunterlagen der ehemaligen deutschen
@@ -272,6 +279,7 @@ sie dem Bundesarchiv herauszugeben.
 
 
 ## § 8 Identifizierungen
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE000907116)
 
 Zum Zwecke der Identifizierung namentlich unbekannter Toter kann eine
 Graböffnung angeordnet werden. Eine solche Anordnung soll nur
@@ -281,11 +289,13 @@ Identitätsfeststellung mit hoher Wahrscheinlichkeit zu erwarten steht.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001006310)
 
 -
 
 
 ## § 10 Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001107310)
 
 (1) Der Bund trägt die Aufwendungen, die sich aus §§ 3, 4, 5, 6 und 8
 ergeben.
@@ -385,6 +395,7 @@ Aufwendungen bleiben unberührt.
 
 
 ## § 11 Befreiung von Gebühren, Auslagen und Steuern
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001205116)
 
 (1) Für Amtshandlungen, die bei Durchführung dieses Gesetzes mit
 Ausnahme des § 7 erforderlich werden, werden Gebühren und Auslagen
@@ -397,6 +408,7 @@ Umsatzsteuergesetzes.
 
 
 ## § 12 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001304310)
 
 (1) Aufgaben nach diesem Gesetz nehmen, soweit nichts anderes bestimmt
 ist, die nach Landesrecht zuständigen Stellen wahr.
@@ -408,6 +420,7 @@ Gemeindeverbände als Friedhofsträger übertragen werden.
 
 
 ## § 13 Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001404310)
 
 Entscheidungen über die Festsetzung von Entschädigungsleistungen für
 Minderung des Nutzungswertes durch Belegung eines Grundstücks mit
@@ -416,11 +429,13 @@ sind, gelten als Entscheidungen nach § 3.
 
 
 ## (XXXX) §§ 14 und 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001503310)
 
 (Änderung und Aufhebung anderer Rechtsvorschriften)
 
 
 ## § 16 Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001606310)
 
 Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
 
@@ -446,6 +461,7 @@ Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
 
 
 ## § 17 Anwendung des Gräbergesetzes in den neuen Bundesländern
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001704310)
 
 (1) Abweichend von Anlage I Kapitel X Sachgebiet H Abschnitt III
 Nummer 11 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S.
@@ -460,6 +476,7 @@ zum 31. Dezember 1992.
 
 
 ## § 18 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/gr_bg/BJNR005890965.html#BJNR005890965BJNE001803310)
 
 -
 

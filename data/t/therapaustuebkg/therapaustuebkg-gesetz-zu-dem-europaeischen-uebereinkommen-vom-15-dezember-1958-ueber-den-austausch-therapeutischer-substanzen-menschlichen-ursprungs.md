@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/therapaust_bkg/BJNR214420962.html#BJNR214420962BJNE000100303)
 
 Dem in Paris am 15. Dezember 1958 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen über den Austausch
@@ -29,6 +30,7 @@ therapeutischer Substanzen menschlichen Ursprungs wird zugestimmt. Das
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/therapaust_bkg/BJNR214420962.html#BJNR214420962BJNE000202308)
 
 Therapeutische Substanzen menschlichen Ursprungs in Sendungen, die
 unter die Bestimmungen des Übereinkommens fallen, sind frei von
@@ -43,12 +45,14 @@ nicht der Zustimmung des Bundesrates.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/therapaust_bkg/BJNR214420962.html#BJNR214420962BJNE000300303)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/therapaust_bkg/BJNR214420962.html#BJNR214420962BJNE000400303)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

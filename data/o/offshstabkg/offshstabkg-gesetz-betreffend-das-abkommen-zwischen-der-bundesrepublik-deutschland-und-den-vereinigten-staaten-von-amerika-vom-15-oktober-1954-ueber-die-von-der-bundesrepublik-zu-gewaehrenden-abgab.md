@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000100306)
 
 Dem am 15. Oktober 1954 in Bonn unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
@@ -32,6 +33,7 @@ Verteidigung geleisteten Ausgaben und seinem Anhang wird zugestimmt.
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000200306)
 
 (1) Das Abkommen und der Anhang werden nachstehend mit Gesetzeskraft
 veröffentlicht.
@@ -41,24 +43,29 @@ Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000300306)
 
 Zur Ausführung des Abkommens wird folgendes bestimmt:
 
 
 ### A. - Umsatzsteuerrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000400306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNE000800306)
 
 -
 
 
 ### B. - Zoll-, verbrauchssteuer- und monopolrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000500306)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNE000901140)
 
 (1) Für Waren, die nach den Bestimmungen des Abkommens zur Verwendung
 durch Stellen der Vereinigten Staaten oder Stellen anderer von den
@@ -75,15 +82,18 @@ vereinbarte Dokument.
 
 
 ### (XXXX) §§ 3 bis 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNE001001140)
 
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000601140)
 
 (weggefallen)
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/offshstabkg/BJNR208219955.html#BJNR208219955BJNG000700306)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

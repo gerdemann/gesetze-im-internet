@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in
@@ -29,17 +30,20 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000200000)
 
 Der Ausbildungsberuf Hafenschiffer/Hafenschifferin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -52,6 +56,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -97,6 +102,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000600000)
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen
@@ -108,12 +114,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000800000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -123,6 +131,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -163,6 +172,7 @@ Vorgehensweise begründen kann.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -326,6 +336,7 @@ der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Nichtanwenden von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE001100000)
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
@@ -334,6 +345,7 @@ vorbehaltlich des § 11 nicht mehr anzuwenden.
 
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE001200000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechung der bisher zurückgelegten
@@ -342,12 +354,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
+[Direktlink](https://www.gesetze-im-internet.de/hafenschausbv/BJNR020600006.html#BJNR020600006BJNE001400000)
 
 (Fundstelle: BGBl. I 2006, 209 - 212)
 

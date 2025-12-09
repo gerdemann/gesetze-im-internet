@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000100000)
 
 Auf Grund des § 10 Satz 2 in Verbindung mit Satz 1 des
 Bundesfreiwilligendienstgesetzes vom 28. April 2011 (BGBl. I S. 687)
@@ -26,6 +27,7 @@ Jugend:
 
 
 ## § 1 Wahlbereich
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000200000)
 
 Freiwillige nach § 2 des Bundesfreiwilligendienstgesetzes
 (Freiwillige) wählen auf Bundesebene einmal jährlich sieben
@@ -34,6 +36,7 @@ Stellvertreter.
 
 
 ## § 2 Bestellung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000300000)
 
 Die Präsidentin oder der Präsident des Bundesamtes für Familie und
 zivilgesellschaftliche Aufgaben (Bundesamt) bestellt spätestens einen
@@ -44,6 +47,7 @@ ihnen als Vorsitzende oder Vorsitzenden.
 
 
 ## § 3 Wahlzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000400000)
 
 Der Zeitraum für die Wahl der Sprecherinnen und Sprecher beträgt 15
 Werktage. Der Wahlvorstand legt im Einvernehmen mit der Präsidentin
@@ -53,6 +57,7 @@ sein.
 
 
 ## § 4 Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000500000)
 
 (1) Wählerverzeichnis ist das Verzeichnis der Freiwilligen, die sich
 während des Wahlzeitraums im Dienst befinden und sich registriert
@@ -70,6 +75,7 @@ Wochen vor der Wahl.
 
 
 ## § 5 Wahlbekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000600000)
 
 (1) Der Wahlvorstand veröffentlicht auf einer nur
 für registrierte Wählerinnen und Wähler zugänglichen
@@ -118,6 +124,7 @@ zur Wahlbekanntgabe auf dieser Internetseite unverzüglich zu löschen.
 
 
 ## § 6 Einspruch gegen das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000700000)
 
 (1) Freiwillige können beim Wahlvorstand Einspruch gegen das
 Wählerverzeichnis einlegen. Die Einspruchsfrist endet eine Woche vor
@@ -132,6 +139,7 @@ Wählerverzeichnis.
 
 
 ## § 7 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000800000)
 
 (1) Wählen und gewählt werden kann, wer im Wählerverzeichnis
 registriert ist.
@@ -175,6 +183,7 @@ Verfügung, rückt die oder der Nächstplatzierte nach.
 
 
 ## § 8 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE000900000)
 
 (1) Unverzüglich nach Abschluss der Wahl stellt der Wahlvorstand das
 Wahlergebnis fest.
@@ -187,6 +196,7 @@ Stimmen entfallen sind.
 
 
 ## § 9 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE001000000)
 
 (1) Der Wahlvorstand gibt die Namen der gewählten Sprecherinnen und
 der Sprecher sowie der gewählten Stellvertreterinnen und
@@ -226,6 +236,7 @@ zu löschen.
 
 
 ## § 10 Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE001100000)
 
 (1) Wahlunterlagen sind die Niederschrift über das Wahlergebnis und
 das Wählerverzeichnis.
@@ -244,6 +255,7 @@ Wahlunterlagen vernichtet.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfd-wahlv/BJNR059200013.html#BJNR059200013BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1989g/BJNR207490992.html#BJNR207490992BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1989g/BJNR207490992.html#BJNR207490992BJNE000200305)
 
 Den folgenden in Washington am 14. Dezember 1989 von der
 Bundesrepublik Deutschland unterzeichneten Verträgen des
@@ -56,6 +58,7 @@ Schlußprotokollen werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1989g/BJNR207490992.html#BJNR207490992BJNE000300305)
 
 Der Bundesminister für Post und Telekommunikation wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -67,6 +70,7 @@ setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1989g/BJNR207490992.html#BJNR207490992BJNE000400305)
 
 (1) Die Umrechnung des in den Verträgen des Weltpostvereins genannten
 Sonderziehungsrechts des Internationalen Währungsfonds in Deutsche
@@ -84,6 +88,7 @@ bekanntzugeben.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1989g/BJNR207490992.html#BJNR207490992BJNE000500305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

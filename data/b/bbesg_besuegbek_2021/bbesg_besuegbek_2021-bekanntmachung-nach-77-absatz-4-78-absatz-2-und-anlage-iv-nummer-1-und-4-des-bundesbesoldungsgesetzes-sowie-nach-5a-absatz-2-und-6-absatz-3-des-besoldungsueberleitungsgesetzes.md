@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000100000)
 
 Nach § 77 Absatz 4, § 78 Absatz 2 und Anlage IV Nummer 1 und 4 des
 Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19.
@@ -62,11 +63,13 @@ bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000200000)
 
 Der Bundesminister des Innern, für Bau und Heimat
 
 
 ## Anhang 1 (zu Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000300000)
 
 (Fundstelle: BGBl. I 2021, 3379 - 3380)
 
@@ -685,6 +688,7 @@ Gültig ab 1. April 2021
 [^F817644_02_BJNR337800021BJNE000300000]: 
 
 ## Anhang 2 (zu Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000400000)
 
 (Fundstelle: BGBl. I 2021, 3381 - 3392)
 
@@ -4361,6 +4365,7 @@ zusätzlich gewährt.
 
 
 ## Anhang 3 (zu Nummer 3)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000500000)
 
 (Fundstelle: BGBl. I 2021, 3393 - 3396)
 
@@ -5008,6 +5013,7 @@ Beträge für die weggefallenen Besoldungsgruppen R 1 und R 4
 
 
 ## Anhang 4 (zu Nummer 4)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000600000)
 
 (Fundstelle: BGBl. I 2021, 3397 - 3400)
 
@@ -6387,6 +6393,7 @@ um 10,42 Euro.
 
 
 ## Anhang 5 (zu Nummer 5)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2021/BJNR337800021.html#BJNR337800021BJNE000700000)
 
 (Fundstelle: BGBl. I 2021, 3401 - 3402)
 

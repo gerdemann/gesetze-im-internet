@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE000600326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNG000100326)
 
 
 
 ### § 1 Vereinsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE000700326)
 
 (1) Die Bildung von Vereinen ist frei (Vereinsfreiheit).
 
@@ -39,6 +42,7 @@ dieses Gesetzes eingeschritten werden.
 
 
 ### § 2 Begriff des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE000801320)
 
 (1) Verein im Sinne dieses Gesetzes ist ohne Rücksicht auf die
 Rechtsform jede Vereinigung, zu der sich eine Mehrheit natürlicher
@@ -58,10 +62,12 @@ unterworfen hat.
 
 
 ## Zweiter Abschnitt - Verbot von Vereinen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNG000200326)
 
 
 
 ### § 3 Verbot
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE000905116)
 
 (1) Ein Verein darf erst dann als verboten (Artikel 9 Abs. 2 des
 Grundgesetzes) behandelt werden, wenn durch Verfügung der
@@ -148,6 +154,7 @@ Mitgliedern des Vereins stützen, wenn
 
 
 ### § 4 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001002116)
 
 (1) Die Verbotsbehörde kann für ihre Ermittlungen die Hilfe der für
 die Wahrung der öffentlichen Sicherheit oder Ordnung zuständigen
@@ -185,6 +192,7 @@ anordnen. Die Vorschriften des Absatzes 4 sowie § 98 Abs. 2 Satz 1 und
 
 
 ### § 5 Vollzug des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001102308)
 
 (1) Soweit das Verbot nach diesem Gesetz nicht von der Verbotsbehörde
 selbst oder den von ihr gemäß § 10 Abs. 3 und § 11 Abs. 3 beauftragten
@@ -198,6 +206,7 @@ vollziehen.
 
 
 ### § 6 Anfechtung des Verbotsvollzugs
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001200326)
 
 (1) Wird eine Maßnahme zum Vollzug des Verbots angefochten und kommt
 es für die Entscheidung darauf an, ob das Verbot rechtmäßig ist, so
@@ -211,6 +220,7 @@ Verbots haben keine aufschiebende Wirkung.
 
 
 ### § 7 Unanfechtbarkeit des Verbots, Eintragung in öffentliche Register
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001301307)
 
 (1) Ist das Verbot unanfechtbar geworden, so ist sein verfügender Teil
 nochmals unter Hinweis auf die Unanfechtbarkeit im Bundesanzeiger und
@@ -228,6 +238,7 @@ das Erlöschen des Vereins.
 
 
 ### § 8 Verbot der Bildung von Ersatzorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001400326)
 
 (1) Es ist verboten, Organisationen zu bilden, die verfassungswidrige
 Bestrebungen (Artikel 9 Abs. 2 des Grundgesetzes) eines nach § 3
@@ -249,6 +260,7 @@ binnen zweier Wochen die in Satz 1 bestimmte Verfügung trifft.
 
 
 ### § 9 Kennzeichenverbot
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001503116)
 
 (1) Kennzeichen des verbotenen Vereins dürfen für die Dauer der
 Vollziehbarkeit des Verbots nicht mehr
@@ -285,10 +297,12 @@ Verfügung nach § 8 Abs. 2 Satz 1.
 
 
 ## Dritter Abschnitt - Beschlagnahme und Einziehung des Vermögens verbotener Vereine
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNG000300326)
 
 
 
 ### § 10 Vermögensbeschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001602310)
 
 (1) Die Beschlagnahme (§ 3 Abs. 1 Satz 2) hat die Wirkung eines
 Veräußerungsverbots. Rechtsgeschäfte, die gegen das Veräußerungsverbot
@@ -334,6 +348,7 @@ Kraft.
 
 
 ### § 11 Vermögenseinziehung
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001702116)
 
 (1) Die Einziehung (§ 3 Abs. 1 Satz 2) wird im Fall des § 3 Abs. 2 Nr.
 1 zugunsten des Landes, im Fall des § 3 Abs. 2 Nr. 2 zugunsten des
@@ -369,6 +384,7 @@ gilt sinngemäß für den Anspruch auf den Liquidationserlös.
 
 
 ### § 12 Einziehung von Gegenständen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001803308)
 
 (1) Die Verbotsbehörde oder die Einziehungsbehörde zieht Forderungen
 Dritter gegen den Verein ein, wenn
@@ -413,6 +429,7 @@ war.
 
 
 ### § 13 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE001901307)
 
 (1) Die Gläubiger, die ihre Forderungen innerhalb der von der
 Verbotsbehörde oder Einziehungsbehörde gesetzten Ausschlußfrist
@@ -449,10 +466,12 @@ gemeinnützige Zwecke zu verwenden.
 
 
 ## Vierter Abschnitt - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNG000400326)
 
 
 
 ### § 14 Ausländervereine
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002002320)
 
 (1) Vereine, deren Mitglieder oder Leiter sämtlich oder überwiegend
 Ausländer sind (Ausländervereine), können über die in Artikel 9 Abs. 2
@@ -505,6 +524,7 @@ unberührt.
 
 
 ### § 15 Ausländische Vereine
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002102116)
 
 (1) Für Vereine mit Sitz im Ausland (ausländische Vereine), deren
 Organisation oder Tätigkeit sich auf den räumlichen Geltungsbereich
@@ -519,6 +539,7 @@ verboten oder in ein Verbot einbezogen werden.
 
 
 ### § 16 Arbeitnehmer- und Arbeitgebervereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002202320)
 
 (1) Verbote nach § 3 Abs. 1 oder Verfügungen nach § 8 Abs. 2 Satz 1
 gegen Vereinigungen, die den Schutz des Übereinkommens Nr. 87 der
@@ -551,6 +572,7 @@ Beschlagnahmeanordnungen hat das Gericht entsprechend § 3 Abs. 4 Satz
 
 
 ### § 17 Wirtschaftsvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002301310)
 
 Die Vorschriften dieses Gesetzes sind auf Aktiengesellschaften,
 Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter
@@ -581,6 +603,7 @@ Gegenseitigkeit nur anzuwenden,
 
 
 ### § 18 Räumlicher Geltungsbereich von Vereinsverboten
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002400326)
 
 Verbote von Vereinen, die ihren Sitz außerhalb des räumlichen
 Geltungsbereichs dieses Gesetzes, aber Teilorganisationen innerhalb
@@ -591,10 +614,12 @@ das Verbot (§ 3 Abs. 1) gegen seine Tätigkeit in diesem Bereich.
 
 
 ## Fünfter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNG000500326)
 
 
 
 ### § 19 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002501307)
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates
@@ -627,6 +652,7 @@ Bundesrates
 
 
 ### § 20 Zuwiderhandlungen gegen Verbote
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002606116)
 
 (1) Wer im räumlichen Geltungsbereichs dieses Gesetzes durch eine
 darin ausgeübte Tätigkeit
@@ -684,6 +710,7 @@ bezieht, können eingezogen werden.
 
 
 ### § 21 Zuwiderhandlungen gegen Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002700326)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Vorschrift einer nach § 19 Nr. 4 erlassenen Rechtsverordnung
@@ -695,11 +722,13 @@ Deutsche Mark geahndet werden.
 
 
 ### (XXXX) §§ 22 bis 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002800326)
 
 -
 
 
 ### § 30 Aufhebung und Fortgeltung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE003301116)
 
 (1) (Aufhebungsvorschriften)
 
@@ -730,6 +759,7 @@ Deutsche Mark geahndet werden.
 
 
 ### § 30a Zuständige Stelle zur Ausführung der Verordnung (EU, Euratom) Nr. 1141/2014
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE003401116)
 
 Zuständige Stelle im Sinne der Artikel 16 Absatz 3, Artikel 23 Absatz
 1 und Absatz 5 sowie des Artikels 28 Absatz 1 der Verordnung (EU,
@@ -741,6 +771,7 @@ Bundesministerium des Innern, für Bau und Heimat.
 
 
 ### § 31 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE002900326)
 
 (1) Auf vereinsrechtliche Entscheidungen, die vor Inkrafttreten dieses
 Gesetzes ergangen sind, sind die bisher geltenden Vorschriften
@@ -765,6 +796,7 @@ außergerichtlichen Kosten.
 
 
 ### § 32 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE003000326)
 
 Die Grundrechte des Brief- und Postgeheimnisses (Artikel 10 des
 Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des
@@ -772,6 +804,7 @@ Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 33 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vereinsg/BJNR005930964.html#BJNR005930964BJNE003201308)
 
 Dieses Gesetz tritt einen Monat nach seiner Verkündung in Kraft.
 

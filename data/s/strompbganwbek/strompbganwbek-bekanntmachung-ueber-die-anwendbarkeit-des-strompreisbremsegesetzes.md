@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/strompbganwbek/BJNR289400022.html#BJNR289400022BJNE000100000)
 
 Nach § 50 Satz 2 des Strompreisbremsegesetzes vom 20. Dezember 2022
 (BGBl. I S. 2512) wird hiermit bekannt gemacht, dass das
@@ -33,6 +34,7 @@ durch die Europäische Kommission.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/strompbganwbek/BJNR289400022.html#BJNR289400022BJNE000200000)
 
 Bundesministerium für Wirtschaft und Klimaschutz
 

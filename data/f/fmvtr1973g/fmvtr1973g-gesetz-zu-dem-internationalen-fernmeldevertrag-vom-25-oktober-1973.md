@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fmvtr1973g/BJNR210890976.html#BJNR210890976BJNE000100314)
 
 Dem in Malaga-Torremolinos am 25. Oktober 1973 von der Bundesrepublik
 Deutschland unterzeichneten Internationalen Fernmeldevertrag
@@ -27,6 +28,7 @@ werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/fmvtr1973g/BJNR210890976.html#BJNR210890976BJNE000200314)
 
 Soweit die Vollzugsordnungen zu dem Vertrag durch Rechtsverordnung in
 Kraft gesetzt werden, braucht der Wortlaut der Vollzugsordnungen nicht
@@ -35,12 +37,14 @@ der Vollzugsordnungen bezeichnet wird.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/fmvtr1973g/BJNR210890976.html#BJNR210890976BJNE000300314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/fmvtr1973g/BJNR210890976.html#BJNR210890976BJNE000400314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

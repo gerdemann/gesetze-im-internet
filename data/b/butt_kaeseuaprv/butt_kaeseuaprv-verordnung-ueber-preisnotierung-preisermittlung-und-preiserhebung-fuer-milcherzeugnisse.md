@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000202308)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -61,6 +62,7 @@ Zuletzt geändert durch
 
 
 ## § 2 Bildung von Notierungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000303308)
 
 (1) Zur Feststellung von Preisen und des Marktverlaufes (Notierung)
 können für folgende Gebiete von zu dem jeweiligen Gebiet gehörenden
@@ -99,6 +101,7 @@ Vereinbarung nach den Absätzen 2 und 2a.
 
 
 ## § 3 Zusammensetzung der Notierungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000402308)
 
 (1) Jede Notierungskommission besteht aus einem Vorsitzenden und
 mindestens sechs und höchstens 14 Mitgliedern, von denen je die Hälfte
@@ -133,6 +136,7 @@ Vorschriften sind anzuwenden.
 
 
 ## § 4 Sitzungen, Beschlüsse und Niederschriften
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000506301)
 
 (1) Jede Notierungskommission notiert die Preise nach einer
 Aussprache, die mündlich oder fernmündlich erfolgen kann. Die Preise
@@ -167,6 +171,7 @@ dem jeweiligen Abstimmungsverhältnis enthält.
 
 
 ## § 5 Inhalt und Veröffentlichung der Notierung
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000602308)
 
 (1) Die Notierungskommission hat auf der Grundlage von freiwilligen
 Preismeldungen der Käufer und Verkäufer die Preise und die
@@ -213,6 +218,7 @@ Milcherzeugnis fest
 
 
 ## § 6 Repräsentative Preisermittlung
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001501308)
 
 (1) Die Notierungseinrichtungen haben für die in Anlage II genannten,
 in Deutschland hergestellten Milcherzeugnisse auf der Grundlage von
@@ -240,6 +246,7 @@ liegenden Mengen mitzuteilen.
 
 
 ## § 6a Repräsentative Preiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001601308)
 
 (1) Die Notierungseinrichtungen erheben auf der Grundlage
 repräsentativer und freiwilliger Meldungen der Hersteller die
@@ -257,6 +264,7 @@ den zugrunde liegenden Mengen mitzuteilen.
 
 
 ## § 7 Preisermittlung für das Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000702308)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ermittelt auf der
 Grundlage der ihr nach § 5 Abs. 1 von den Notierungskommissionen und
@@ -265,6 +273,7 @@ mitgeteilten Angaben die Preise für das gesamte Bundesgebiet.
 
 
 ## § 8 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE000904308)
 
 Die Personen, die an der Erarbeitung der Preisnotierung mitwirken,
 sind verpflichtet, über Einrichtungen und Geschäftsverhältnisse, die
@@ -277,6 +286,7 @@ verpflichten.
 
 
 ## § 9 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001001308)
 
 Meldende Unternehmen haben die für die Meldungen nach § 5
 erforderlichen Aufzeichnungen laufend zu machen und drei Jahre
@@ -285,11 +295,13 @@ bleiben unberührt.
 
 
 ## § 10 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001101308)
 
 
 (zu § 4 Absatz 1 Satz 2)
 
 ## Anlage I Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001302308)
 
 (Fundstelle: BGBl. I 2011, 1024)
 
@@ -323,6 +335,7 @@ bleiben unberührt.
 (zu § 6 Absatz 1 Satz 1)
 
 ## Anlage II Liste für repräsentative Preisermittlung der ZMP
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001402308)
 
 (Fundstelle: BGBl. I 2011, 1024)
 
@@ -339,6 +352,7 @@ bleiben unberührt.
 
 
 ## Anlage III (zu § 6a Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/butt_k_seuaprv/BJNR276800997.html#BJNR276800997BJNE001701308)
 
 (Fundstelle: BGBl. I 2011, 1024)
 

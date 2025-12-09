@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Rechtsform, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNG000100305)
 
 
 
 ### § 1 Rechtsform, Aufbau, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE000804123)
 
 (1) Der Deutsche Wetterdienst ist eine teilrechtsfähige Anstalt des
 öffentlichen Rechts im Geschäftsbereich des Bundesministeriums für
@@ -37,6 +39,7 @@ durch den Vorstand in einer Organisationsverfügung bestimmt.
 
 
 ### § 2 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE000904123)
 
 Der Deutsche Wetterdienst untersteht der Dienst- und Fachaufsicht des
 Bundesministeriums für Digitales und Verkehr. Im Rahmen der
@@ -47,6 +50,7 @@ unberührt.
 
 
 ### § 3 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001004123)
 
 (1) Zwischen dem Bundesministerium für Digitales und Verkehr und dem
 Bundesministerium der Verteidigung ist auf dem Gebiet des
@@ -65,10 +69,12 @@ Verkehr.
 
 
 ## 2. Abschnitt - Aufgaben, Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNG000200305)
 
 
 
 ### § 4 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001105123)
 
 (1) Aufgaben des Deutschen Wetterdienstes sind
 
@@ -171,6 +177,7 @@ gehört.
 
 
 ### § 5 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001200305)
 
 (1) Der Deutsche Wetterdienst erbringt seine Dienstleistungen in
 privatrechtlichen Handlungsformen, soweit dem andere Gesetze nicht
@@ -208,6 +215,7 @@ abhängig zu machen.
 
 
 ### § 6 Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001303123)
 
 (1) Der Deutsche Wetterdienst ist so zu führen, daß die nicht durch
 Einnahmen gedeckten Ausgaben so gering wie möglich zu halten sind.
@@ -281,6 +289,7 @@ durch einen unabhängigen Wirtschaftsprüfer nachzuweisen.
 
 
 ### § 7 Quellenschutz
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001401123)
 
 Die Verbreitung meteorologischer Daten, Produkte und
 Spezialdienstleistungen, insbesondere der Warnungen nach § 4 Absatz 1
@@ -292,10 +301,12 @@ geändert durch Artikel 5 des Gesetzes vom 19. Juli 1996 (BGBl. I S.
 
 
 ## 3. Abschnitt - Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNG000300305)
 
 
 
 ### § 8 Geschäftsführendes Organ
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001504123)
 
 (1) Die Geschäftsführung des Deutschen Wetterdienstes obliegt dem
 Vorstand. Dieser leitet den Deutschen Wetterdienst. Die Mitglieder des
@@ -314,10 +325,12 @@ Bundesministerium für Digitales und Verkehr.
 
 
 ## 4. Abschnitt - Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNG000400305)
 
 
 
 ### § 9 Wissenschaftlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001604123)
 
 (1) Der Wissenschaftliche Beirat berät den Vorstand des Deutschen
 Wetterdienstes in wichtigen Angelegenheiten der Forschung, die der
@@ -341,6 +354,7 @@ der Genehmigung des Vorstandes des Deutschen Wetterdienstes bedarf.
 
 
 ### § 10 Bund-Länder-Beirat
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001704123)
 
 (1) Der Bund-Länder-Beirat berät den Vorstand des Deutschen
 Wetterdienstes und das Bundesministerium für Digitales und Verkehr in
@@ -355,10 +369,12 @@ Genehmigung des Bundesministeriums für Digitales und Verkehr bedarf.
 
 
 ## 5. Abschnitt - Personalwesen
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNG000500305)
 
 
 
 ### § 11 Reise- und umzugskostenrechtliche Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001805123)
 
 Das Bundesministerium für Digitales und Verkehr kann im Einvernehmen
 mit den Bundesministerien des Innern und für Heimat und der Finanzen
@@ -369,10 +385,12 @@ Wettbewerb erforderlich ist.
 
 
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNG000600305)
 
 
 
 ### § 12 Übergang von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE001900305)
 
 (1) Bis zum Inkrafttreten neuer Vereinbarungen gemäß § 3 gelten die
 bestehenden Verwaltungsvereinbarungen fort.
@@ -390,6 +408,7 @@ Geschäftsordnung sinngemäß auf den Bund-Länder-Beirat anzuwenden.
 
 
 ### § 13 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE002002123)
 
 Das Bundesministerium für Digitales und Verkehr wird die Anwendung der
 Regelungen in Artikel 1 des Zweiten Gesetzes zur Änderung des DWD-
@@ -399,6 +418,7 @@ den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 
 
 ### § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dwdg/BJNR287100998.html#BJNR287100998BJNE002100305)
 
 Dieses Gesetz tritt am 1. Januar des auf die Verkündung folgenden
 Jahres in Kraft.

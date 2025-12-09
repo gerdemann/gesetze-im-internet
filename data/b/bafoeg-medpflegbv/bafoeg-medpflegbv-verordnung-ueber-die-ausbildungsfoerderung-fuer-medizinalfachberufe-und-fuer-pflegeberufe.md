@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-medpflegbv/BJNR078700022.html#BJNR078700022BJNE000100000)
 
 Auf Grund des § 2 Absatz 3 des Bundesausbildungsförderungsgesetzes in
 der Fassung der Bekanntmachung vom 7. Dezember 2010 (BGBl. I S. 1952;
@@ -26,6 +27,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-medpflegbv/BJNR078700022.html#BJNR078700022BJNE000200000)
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz
 wird nach Maßgabe des Absatzes 2 geleistet für den Besuch von
@@ -138,6 +140,7 @@ Ausbildungsstätte durchgeführt wird.
 
 
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-medpflegbv/BJNR078700022.html#BJNR078700022BJNE000300000)
 
 Die Auszubildenden an den in § 1 Absatz 1 bezeichneten
 Ausbildungsstätten erhalten Ausbildungsförderung wie Auszubildende an
@@ -147,6 +150,7 @@ Berufsfachschulen.
 
 
 ## § 3 Übergangsregelungen; Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-medpflegbv/BJNR078700022.html#BJNR078700022BJNE000400000)
 
 (1) Für Ausbildungen, die vor dem 28. Mai 2022 begonnen worden sind,
 sind die Verordnung über die Ausbildungsförderung für
@@ -171,6 +175,7 @@ der am 27. Mai 2022 jeweils geltenden Fassung weiter anzuwenden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-medpflegbv/BJNR078700022.html#BJNR078700022BJNE000500000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -29,6 +29,7 @@ die Richtlinie 98/76/EG des Rates vom 1. Oktober 1998 (ABl. EG Nr. L
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_ndv_10/BJNR091800000.html#BJNR091800000BJNE000100305)
 
 Auf Grund
 
@@ -51,15 +52,18 @@ der Finanzen und dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_ndv_10/BJNR091800000.html#BJNR091800000BJNE000200305)
 
 -
 
 
 ## (XXXX) Art 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_ndv_10/BJNR091800000.html#BJNR091800000BJNE000300305)
 
 
 
 ## Art 4 In- und Außerkrafttreten, Erlass der neuen Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_ndv_10/BJNR091800000.html#BJNR091800000BJNE000400305)
 
 (1) Artikel 1 §§ 3 bis 8 treten am 1. Januar 2001 in Kraft. Im übrigen
 tritt diese Verordnung am 1. Juli 2000 in Kraft.
@@ -72,6 +76,7 @@ Prüfungsordnung.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_ndv_10/BJNR091800000.html#BJNR091800000BJNE000500305)
 
 Der Bundesrat hat zugestimmt.
 

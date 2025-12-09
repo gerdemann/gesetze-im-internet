@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anspruchsberechtigung und Höhe der Energiepreispauschale
+[Direktlink](https://www.gesetze-im-internet.de/renteppg/BJNR198510022.html#BJNR198510022BJNE000100000)
 
 (1) Rentnerinnen und Rentnern wird eine einmalige
 Energiepreispauschale in Höhe von 300 Euro gewährt.
@@ -55,6 +56,7 @@ der Landwirte gewährt.
 
 
 ## § 2 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/renteppg/BJNR198510022.html#BJNR198510022BJNE000200000)
 
 (1) Die Energiepreispauschale soll bis zum 15. Dezember 2022
 ausgezahlt werden.
@@ -80,6 +82,7 @@ Knappschaft-Bahn-See zuständig.
 
 
 ## § 3 Datenabgleich zur Vermeidung von Doppelleistungen
+[Direktlink](https://www.gesetze-im-internet.de/renteppg/BJNR198510022.html#BJNR198510022BJNE000300000)
 
 Die Deutsche Post AG und die Deutsche Rentenversicherung Knappschaft-
 Bahn-See überprüfen zur Vermeidung von Doppelleistungen vor der
@@ -95,6 +98,7 @@ die Versicherungsnummer der verstorbenen Versicherten.
 
 
 ## § 4 Nichtberücksichtigung als Einkommen bei Sozialleistungen und im Beitragsrecht, Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/renteppg/BJNR198510022.html#BJNR198510022BJNE000400000)
 
 (1) Die Energiepreispauschale ist bei einkommensabhängigen
 Sozialleistungen nicht als Einkommen zu berücksichtigen. Sie ist bei
@@ -106,6 +110,7 @@ werden.
 
 
 ## § 5 Nachträgliche Zahlungen und Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/renteppg/BJNR198510022.html#BJNR198510022BJNE000500000)
 
 (1) Besteht ein Anspruch auf die Energiepreispauschale und wurde diese
 nicht durch die in § 2 Absatz 2 genannten Stellen gewährt, wird die
@@ -137,6 +142,7 @@ nicht.
 
 
 ## § 6 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/renteppg/BJNR198510022.html#BJNR198510022BJNE000600000)
 
 (1) Der Bund trägt die Aufwendungen für die Energiepreispauschale im
 Sinne dieses Gesetzes. Der Bund trägt auch die im Zusammenhang mit der

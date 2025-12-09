@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredfing_1967/BJNR004010967.html#BJNR004010967BJNE000100313)
 
 (1) Der Bundesminister der Finanzen wird ermächtigt, zur Leistung von
 Investitionsausgaben zum Zwecke einer Belebung der
@@ -33,6 +34,7 @@ Darlehensverpflichtungen eingegangen werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredfing_1967/BJNR004010967.html#BJNR004010967BJNE000200313)
 
 (1) Der Bundesminister der Finanzen wird ermächtigt, im Einvernehmen
 mit dem Bundesminister für Wirtschaft mit den nach § 1 beschafften
@@ -94,6 +96,7 @@ für den Bau von Studentenwohnheimen bis zum Betrag von 20.000.000 Deutsche Mark
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kredfing_1967/BJNR004010967.html#BJNR004010967BJNE000300313)
 
 Die Investitionsmaßnahmen nach § 2 sind in den außerordentlichen
 Haushalt des Entwurfs des Haushaltsplans für das Rechnungsjahr 1967 zu
@@ -101,6 +104,7 @@ Haushalt des Entwurfs des Haushaltsplans für das Rechnungsjahr 1967 zu
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kredfing_1967/BJNR004010967.html#BJNR004010967BJNE000400313)
 
 (1) Die Festlegung des Investitionsprogramms bedarf der Zustimmung des
 Haushaltsausschusses des Deutschen Bundestages.
@@ -130,6 +134,7 @@ mit dem Inkrafttreten dieses Gesetzes verfügt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kredfing_1967/BJNR004010967.html#BJNR004010967BJNE000500313)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -137,6 +142,7 @@ S. 1) auch im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kredfing_1967/BJNR004010967.html#BJNR004010967BJNE000600313)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

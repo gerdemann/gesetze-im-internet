@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE000700326)
 
 Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit §
 3 Abs. 1 des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974
@@ -28,10 +29,12 @@ Bundesrates:
 
 
 ## 1. Abschnitt - Versorgungsausgleich zwischen Primäraufkommensträgern
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNG000100326)
 
 
 
 ### § 1 Verpflichtung zum Versorgungsausgleich, Grundsatz und Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE000800326)
 
 (1) Unternehmen, die gewerbsmäßig oder im Rahmen wirtschaftlicher
 Unternehmungen Rohbenzin, Vergaserkraftstoff, Benzinkomponenten,
@@ -59,6 +62,7 @@ Produktgruppenergebnis für die auszugleichende Menge maßgebend.
 
 
 ### § 2 Berechnungsgrundlagen des Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE000902118)
 
 (1) Die am Versorgungsausgleich beteiligten Unternehmen haben dem
 Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach näherer
@@ -125,6 +129,7 @@ oder auf andere Weise angestrebten Einsparziele zu erfolgen.
 
 
 ### § 3 Inhalt der Verpflichtung zum Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001002118)
 
 (1) Ein Versorgungsausgleich findet jeweils für den laufenden und den
 nächsten Monat statt. Der Ausgleich für den laufenden Monat soll
@@ -181,6 +186,7 @@ Versorgung) bedienen.
 
 
 ### § 4 Konditionen für im Versorgungsausgleich abzugebende Mengen
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001100326)
 
 Die Abgabe von Mengen im Versorgungsausgleich erfolgt zu Marktpreisen.
 Die Konditionen der Ausgleichsangebote überversorgter Unternehmen sind
@@ -191,10 +197,12 @@ unterschiedlich behandelt werden.
 
 
 ## 2. Abschnitt - Absicherung traditioneller Lieferbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNG000200326)
 
 
 
 ### § 5 Verpflichtung zur Einhaltung der Vertriebsstruktur
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001202360)
 
 Die in § 1 Abs. 1 genannten Unternehmen sind verpflichtet, ihren
 Abnehmern der nachgelagerten Handelsstufe die jeweils aus dem
@@ -208,10 +216,12 @@ des § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 und § 20 Absatz
 
 
 ## 3. Abschnitt - Administrative Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNG000300326)
 
 
 
 ### § 6 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) beim nationalen Versorgungsausgleich nach den §§ 1 bis 3
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001301301)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ermächtigt, vom fünften Werktag an, nachdem die in § 3 Abs. 1
@@ -276,6 +286,7 @@ Ausgleichsmengen für den laufenden und den folgenden Monat zuweisen.
 
 
 ### § 7 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der Einhaltung der historischen Vertriebsstruktur nach § 5
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001401301)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Belieferung
@@ -290,6 +301,7 @@ ansieht.
 
 
 ### § 8 Inhalt einer Verfügung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001501301)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bestimmt
 in seiner an den Abgabepflichtigen gerichteten Verfügung den
@@ -314,6 +326,7 @@ zugunsten einer Versorgung dieses Unternehmens ergreifen.
 
 
 ### § 9 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) im internationalen Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001601301)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Abgabe von
@@ -351,10 +364,12 @@ erforderlich wird.
 
 
 ## 4. Abschnitt - Beratende Mitwirkung der Koordinierungsgruppe Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNG000400326)
 
 
 
 ### § 10 Beratung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001701301)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird bei
 seiner Tätigkeit nach den §§ 6 bis 9 und bei Auswertungen von Daten
@@ -362,10 +377,12 @@ von der Koordinierungsgruppe Versorgung beraten.
 
 
 ## 5. Abschnitt - Meldepflichten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNG000500326)
 
 
 
 ### § 11 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001801301)
 
 (1) In § 1 Abs. 1 genannte Unternehmen, die bei Inkrafttreten von
 Notstandsmaßnahmen der Internationalen Energieagentur zum
@@ -419,6 +436,7 @@ verwenden.
 
 
 ### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE001900326)
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des
 Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder
@@ -440,10 +458,12 @@ fahrlässig
 
 
 ## 6. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNG000600326)
 
 
 
 ### § 13 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE002000326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 17 des Energiesicherungsgesetzes 1975 auch im Land
@@ -451,6 +471,7 @@ Berlin.
 
 
 ### § 14 Inkrafttreten und Anwendbarkeit der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/min_lav/BJNR022670985.html#BJNR022670985BJNE002100326)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

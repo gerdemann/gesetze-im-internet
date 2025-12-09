@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2023/BJNR04F0A0023.html#BJNR04F0A0023BJNE000100000)
 
 
 1.  Die unpfändbaren Beträge nach § 850c der Zivilprozessordnung erhöhen
@@ -69,11 +70,13 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2023/BJNR04F0A0023.html#BJNR04F0A0023BJNE000200000)
 
 Der Bundesminister der Justiz
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2023/BJNR04F0A0023.html#BJNR04F0A0023BJNE000300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 79, S. 3 - 24)
 

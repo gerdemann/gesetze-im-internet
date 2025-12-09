@@ -20,15 +20,18 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000200000)
 
 Dieses Gesetz gilt für die Beamtinnen und Beamten des Bundes, soweit
 nicht gesetzlich etwas anderes bestimmt ist.
 
 
 ### § 2 Dienstherrnfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000301116)
 
 Das Recht, Beamtinnen und Beamte zu haben, besitzen der Bund sowie
 bundesunmittelbare Körperschaften, Anstalten und Stiftungen des
@@ -38,6 +41,7 @@ aufgrund eines Gesetzes verliehen wird.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000400000)
 
 (1) Oberste Dienstbehörde der Beamtin oder des Beamten ist die oberste
 Behörde eines Dienstherrn, in deren Geschäftsbereich die Beamtin oder
@@ -55,15 +59,18 @@ nach dem Aufbau der Verwaltung.
 
 
 ## Abschnitt 2 - Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000200000)
 
 
 ### § 4 Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000500000)
 
 Beamtinnen und Beamte stehen zu ihrem Dienstherrn in einem öffentlich-
 rechtlichen Dienst- und Treueverhältnis (Beamtenverhältnis).
 
 
 ### § 5 Zulässigkeit des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000600000)
 
 Die Berufung in das Beamtenverhältnis ist nur zulässig zur Wahrnehmung
 
@@ -79,6 +86,7 @@ Die Berufung in das Beamtenverhältnis ist nur zulässig zur Wahrnehmung
 
 
 ### § 6 Arten des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000700000)
 
 (1) Das Beamtenverhältnis auf Lebenszeit dient der dauernden
 Wahrnehmung von Aufgaben nach § 5. Es bildet die Regel.
@@ -117,6 +125,7 @@ umgewandelt werden.
 
 
 ### § 7 Voraussetzungen des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000804311)
 
 (1) In das Beamtenverhältnis darf berufen werden, wer
 
@@ -171,6 +180,7 @@ besteht.
 
 
 ### § 8 Stellenausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE000901116)
 
 (1) Zu besetzende Stellen sind auszuschreiben. Bei der Einstellung von
 Bewerberinnen und Bewerbern muss die Ausschreibung öffentlich sein.
@@ -183,6 +193,7 @@ Befugnis auf unmittelbar nachgeordnete Behörden übertragen.
 
 
 ### § 9 Auswahlkriterien
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001000000)
 
 Die Auswahl der Bewerberinnen und Bewerber richtet sich nach Eignung,
 Befähigung und fachlicher Leistung ohne Rücksicht auf Geschlecht,
@@ -195,6 +206,7 @@ schwerbehinderter Menschen nicht entgegen.
 
 
 ### § 10 Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001100000)
 
 (1) Einer Ernennung bedarf es zur
 
@@ -238,6 +250,7 @@ Lebenszeit und auf Zeit wird gleichzeitig ein Amt verliehen.
 
 
 ### § 11 Voraussetzungen der Ernennung auf Lebenszeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001201311)
 
 (1) Zur Beamtin auf Lebenszeit oder zum Beamten auf Lebenszeit darf
 nur ernannt werden, wer
@@ -275,6 +288,7 @@ Beurlaubung unter Wegfall der Besoldung verlängert.
 
 
 ### § 11a Ableisten eines Vorbereitungsdienstes durch Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015300116)
 
 (1) Eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit kann
 zur Ableistung eines fachspezifischen Vorbereitungsdienstes des Bundes
@@ -301,6 +315,7 @@ Laufbahngruppe bleiben unberührt.
 
 
 ### § 12 Zuständigkeit und Wirksamwerden der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001300000)
 
 (1) Die Bundespräsidentin oder der Bundespräsident oder eine von ihr
 oder ihm bestimmte Stelle ernennt die Beamtinnen und Beamten, soweit
@@ -316,6 +331,7 @@ zum Dienstherrn.
 
 
 ### § 13 Nichtigkeit der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001402311)
 
 (1) Die Ernennung ist nichtig, wenn
 
@@ -363,6 +379,7 @@ zum Dienstherrn.
 
 
 ### § 14 Rücknahme der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001502311)
 
 (1) Die Ernennung ist mit Wirkung auch für die Vergangenheit
 zurückzunehmen, wenn
@@ -402,6 +419,7 @@ den Sätzen 1 und 2 auf unmittelbar nachgeordnete Behörden übertragen.
 
 
 ### § 15 Rechtsfolgen nichtiger oder zurückgenommener Ernennungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001600000)
 
 Ist die erstmalige Ernennung nichtig oder zurückgenommen worden, hat
 die oder der Dienstvorgesetzte jede weitere Wahrnehmung der
@@ -415,9 +433,11 @@ sie ausgeführt hätte. Die gezahlte Besoldung kann belassen werden.
 
 
 ## Abschnitt 3 - Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000300000)
 
 
 ### § 16 Laufbahn
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001700000)
 
 (1) Eine Laufbahn umfasst alle Ämter, die verwandte und gleichwertige
 Vor- und Ausbildungen voraussetzen.
@@ -431,6 +451,7 @@ in den Dienst der aufnehmenden Körperschaft übertritt.
 
 
 ### § 17 Zulassung zu den Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001802116)
 
 (1) Für die Zulassung zu den Laufbahnen werden die Bildungsgänge und
 ihre Abschlüsse den Laufbahnen unter Berücksichtigung der mit der
@@ -575,6 +596,7 @@ Absätzen 2 bis 5 zulassen.
 
 
 ### § 18 Anerkennung der Laufbahnbefähigung aufgrund der Richtlinie 2005/36/EG und aufgrund in Drittstaaten erworbener Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE001912311)
 
 (1) Die Laufbahnbefähigung kann auch aufgrund
 
@@ -612,6 +634,7 @@ des § 12 Absatz 5 Satz 2 und des § 17 keine Anwendung.
 
 
 ### § 19 Andere Bewerberinnen und andere Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002000000)
 
 Der Bundespersonalausschuss oder ein von ihm bestimmter unabhängiger
 Ausschuss stellt fest, wer die Befähigung für eine Laufbahn ohne die
@@ -620,6 +643,7 @@ hat.
 
 
 ### § 20 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002101116)
 
 Die Einstellung in ein höheres Amt als das Eingangsamt der Laufbahn
 ist zulässig bei entsprechenden beruflichen Erfahrungen oder sonstigen
@@ -630,6 +654,7 @@ Bundesregierung durch Rechtsverordnung.
 
 
 ### § 21 Dienstliche Beurteilung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002202311)
 
 (1) Eignung, Befähigung und fachliche Leistung der Beamtinnen und
 Beamten sind regelmäßig, mindestens jedoch alle drei Jahre, zu
@@ -676,6 +701,7 @@ Beurteilungsverfahren zu regeln, insbesondere über
 
 
 ### § 22 Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002302311)
 
 (1) Für Beförderungen gelten die Grundsätze des § 9. Erfolgt die
 Auswahlentscheidung auf der Grundlage dienstlicher Beurteilungen, darf
@@ -713,6 +739,7 @@ regelt.
 
 
 ### § 22a Aufstieg; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015700311)
 
 (1) Vor dem Wechsel in ein Amt einer höheren Laufbahngruppe (Aufstieg)
 ist die erforderliche Qualifikation durch eine Prüfung nachzuweisen.
@@ -745,6 +772,7 @@ zu den Voraussetzungen und zum Verfahren des Aufstiegs, insbesondere
 
 
 ### § 23 Beförderungssperre zwischen zwei Mandaten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002401116)
 
 Legen Beamtinnen oder Beamte, deren Rechte und Pflichten aus dem
 Beamtenverhältnis ruhen oder die ohne Besoldung beurlaubt sind, ihr
@@ -757,6 +785,7 @@ gilt entsprechend für die Zeit zwischen zwei Wahlperioden.
 
 
 ### § 24 Führungsämter auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002502116)
 
 (1) Ein Amt mit leitender Funktion wird zunächst im Beamtenverhältnis
 auf Probe übertragen. Die regelmäßige Probezeit beträgt zwei Jahre.
@@ -829,6 +858,7 @@ Beamtenverhältnis auf Probe nicht weiterführen.
 
 
 ### § 25 Benachteiligungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002600000)
 
 Schwangerschaft, Mutterschutz und Elternzeit dürfen sich bei der
 Einstellung und dem beruflichen Fortkommen nicht nachteilig auswirken.
@@ -837,6 +867,7 @@ Beurlaubung, wenn nicht zwingende sachliche Gründe vorliegen.
 
 
 ### § 26 Ermächtigung zum Erlass von Laufbahn- und Vorbereitungsdienstverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002703311)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach
 Maßgabe der §§ 16 bis 25 allgemeine Vorschriften für die Laufbahnen
@@ -901,9 +932,11 @@ Rechtsverordnung obersten Dienstbehörden übertragen.
 
 
 ## Abschnitt 4 - Abordnung, Versetzung und Zuweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000400000)
 
 
 ### § 27 Abordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002802116)
 
 (1) Eine Abordnung ist die vorübergehende Übertragung einer dem Amt
 der Beamtin oder des Beamten entsprechenden Tätigkeit bei einer
@@ -953,6 +986,7 @@ Dienstherr, zu dem die Abordnung erfolgt ist.
 
 
 ### § 28 Versetzung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE002901116)
 
 (1) Eine Versetzung ist die auf Dauer angelegte Übertragung eines
 anderen Amtes bei einer anderen Dienststelle bei demselben oder einem
@@ -985,6 +1019,7 @@ Das Einverständnis ist schriftlich oder elektronisch zu erklären.
 
 
 ### § 29 Zuweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003000000)
 
 (1) Beamtinnen und Beamten kann mit ihrer Zustimmung vorübergehend
 ganz oder teilweise eine ihrem Amt entsprechende Tätigkeit
@@ -1013,12 +1048,15 @@ erfordern.
 
 
 ## Abschnitt 5 - Beendigung des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000500000)
 
 
 ### Unterabschnitt 1 - Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000600000)
 
 
 #### § 30 Beendigungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003100000)
 
 Das Beamtenverhältnis endet durch
 
@@ -1039,6 +1077,7 @@ Das Beamtenverhältnis endet durch
 
 
 #### § 31 Entlassung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003203311)
 
 (1) Beamtinnen und Beamte sind entlassen, wenn
 
@@ -1085,6 +1124,7 @@ Behörden übertragen.
 
 
 #### § 32 Entlassung aus zwingenden Gründen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003301116)
 
 (1) Beamtinnen und Beamte sind zu entlassen, wenn sie
 
@@ -1112,6 +1152,7 @@ Sinne des Artikels 116 Absatz 1 des Grundgesetzes verlieren.
 
 
 #### § 33 Entlassung auf Verlangen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003400000)
 
 (1) Beamtinnen und Beamte sind zu entlassen, wenn sie gegenüber der
 zuständigen Behörde schriftlich ihre Entlassung verlangen. Die
@@ -1128,6 +1169,7 @@ Monate.
 
 
 #### § 34 Entlassung von Beamtinnen auf Probe und Beamten auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003501311)
 
 (1) Beamtinnen auf Probe und Beamte auf Probe im Sinne des § 6 Absatz
 3 Nummer 1 können außerdem entlassen werden, wenn einer der folgenden
@@ -1179,6 +1221,7 @@ geltende Altersgrenze erreichen.
 
 
 #### § 35 Entlassung von Beamtinnen und Beamten in Führungsämtern auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003600000)
 
 Beamtinnen und Beamte in Ämtern mit leitender Funktion sind
 
@@ -1206,6 +1249,7 @@ aus dem Beamtenverhältnis auf Probe nach § 24 Abs. 1 entlassen. Die §§
 
 
 #### § 36 Entlassung von politischen Beamtinnen auf Probe und politischen Beamten auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003700000)
 
 Politische Beamtinnen und politische Beamte, die sich in einem
 Beamtenverhältnis auf Probe befinden, können jederzeit aus diesem
@@ -1213,6 +1257,7 @@ entlassen werden.
 
 
 #### § 37 Entlassung von Beamtinnen auf Widerruf und Beamten auf Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003800000)
 
 (1) Beamtinnen auf Widerruf und Beamte auf Widerruf können jederzeit
 entlassen werden. Die Entlassung ist ohne Einhaltung einer Frist
@@ -1234,6 +1279,7 @@ bekannt gegeben wird.
 
 
 #### § 38 Verfahren der Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE003900000)
 
 Soweit gesetzlich nichts anderes bestimmt ist, wird die Entlassung von
 der Stelle schriftlich verfügt, die für die Ernennung zuständig wäre.
@@ -1244,6 +1290,7 @@ zugestellt wird.
 
 
 #### § 39 Folgen der Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004001116)
 
 Nach der Entlassung besteht kein Anspruch auf Besoldung und
 Versorgung, soweit gesetzlich nichts anderes bestimmt ist. Die oberste
@@ -1256,6 +1303,7 @@ nach den Sätzen 2 und 3 auf nachgeordnete Behörden übertragen.
 
 
 #### § 40 Ausscheiden bei Wahlen oder Übernahme politischer Ämter
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004101116)
 
 (1) Beamtinnen und Beamte müssen aus ihrem Amt ausscheiden, wenn sie
 die Wahl zum Europäischen Parlament oder zum Deutschen Bundestag
@@ -1293,6 +1341,7 @@ Entlassungsverfügung zugestellt wird.
 
 
 #### § 41 Verlust der Beamtenrechte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004201311)
 
 (1) Werden Beamtinnen oder Beamte im ordentlichen Strafverfahren durch
 das Urteil eines deutschen Gerichts
@@ -1323,6 +1372,7 @@ dem Amt verliehenen Titel dürfen nicht weiter geführt werden.
 
 
 #### § 42 Wirkung eines Wiederaufnahmeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004300000)
 
 (1) Wird eine Entscheidung, die den Verlust der Beamtenrechte bewirkt
 hat, im Wiederaufnahmeverfahren durch eine Entscheidung ersetzt, die
@@ -1354,6 +1404,7 @@ Beamtinnen und Beamten sind hierüber zur Auskunft verpflichtet.
 
 
 #### § 43 Gnadenrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004400000)
 
 Der Bundespräsidentin oder dem Bundespräsidenten oder der von ihr oder
 ihm bestimmten Stelle steht hinsichtlich des Verlustes der
@@ -1363,9 +1414,11 @@ Beamtenrechte in vollem Umfang beseitigt, gilt ab diesem Zeitpunkt §
 
 
 ### Unterabschnitt 2 - Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000700000)
 
 
 #### § 44 Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004501116)
 
 (1) Die Beamtin auf Lebenszeit oder der Beamte auf Lebenszeit ist in
 den Ruhestand zu versetzen, wenn sie oder er wegen des körperlichen
@@ -1417,6 +1470,7 @@ Dienstunfähigkeit bestimmen, bleiben unberührt.
 
 
 #### § 45 Begrenzte Dienstfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004600000)
 
 (1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit ist
 abzusehen, wenn die Beamtin oder der Beamte unter Beibehaltung des
@@ -1437,6 +1491,7 @@ die Vorschriften über die Dienstunfähigkeit entsprechend.
 
 
 #### § 46 Wiederherstellung der Dienstfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004701116)
 
 (1) Beamtinnen und Beamte, die wegen Dienstunfähigkeit in den
 Ruhestand versetzt wurden, sind verpflichtet, einer erneuten Berufung
@@ -1490,6 +1545,7 @@ fortgesetzt.
 
 
 #### § 47 Verfahren bei Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004801116)
 
 (1) Hält die oder der Dienstvorgesetzte die Beamtin oder den Beamten
 aufgrund eines ärztlichen Gutachtens über den Gesundheitszustand für
@@ -1517,6 +1573,7 @@ einbehalten, die das Ruhegehalt übersteigt.
 
 
 #### § 48 Ärztliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE004901311)
 
 (1) In den Fällen der §§ 44 bis 47 kann die zuständige Behörde die
 ärztliche Untersuchung nur einer Amtsärztin oder einem Amtsarzt
@@ -1543,6 +1600,7 @@ Bevollmächtigten ein Doppel der Mitteilung nach Absatz 2.
 
 
 #### § 49 Ruhestand beim Beamtenverhältnis auf Probe wegen Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005000000)
 
 (1) Beamtinnen auf Probe und Beamte auf Probe sind in den Ruhestand zu
 versetzen, wenn sie infolge Krankheit, Verwundung oder sonstiger
@@ -1560,15 +1618,18 @@ anzuwenden.
 
 
 ### Unterabschnitt 3 - Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000800000)
 
 
 #### § 50 Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005100000)
 
 Der Eintritt in den Ruhestand setzt eine versorgungsrechtliche
 Wartezeit voraus, soweit gesetzlich nichts anderes bestimmt ist.
 
 
 #### § 51 Ruhestand wegen Erreichens der Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005200000)
 
 (1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten mit dem
 Ende des Monats in den Ruhestand, in dem sie die für sie jeweils
@@ -1943,6 +2004,7 @@ ernannt werden. Wer trotzdem ernannt worden ist, ist zu entlassen.
 
 
 #### § 52 Ruhestand auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005300000)
 
 (1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit können auf
 ihren Antrag in den Ruhestand versetzt werden, wenn
@@ -2146,6 +2208,7 @@ Lebensjahr vollendet haben.
 
 
 #### § 53 Hinausschieben des Eintritts in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005408311)
 
 (1) Auf Antrag der Beamtin oder des Beamten kann der Eintritt in den
 Ruhestand bis zu drei Jahre hinausgeschoben werden, wenn
@@ -2283,6 +2346,7 @@ bleiben unberührt.
 
 
 #### § 54 Einstweiliger Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005505311)
 
 (1) Die Bundespräsidentin oder der Bundespräsident kann jederzeit die
 nachfolgend genannten politischen Beamtinnen und politischen Beamten
@@ -2357,6 +2421,7 @@ können, bleiben unberührt.
 
 
 #### § 55 Einstweiliger Ruhestand bei organisatorischen Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005600000)
 
 Im Fall der Auflösung oder einer wesentlichen Änderung des Aufbaus
 oder der Aufgaben einer Behörde oder der Verschmelzung von Behörden
@@ -2371,6 +2436,7 @@ vorbehalten werden.
 
 
 #### § 56 Beginn des einstweiligen Ruhestands; Bekenntnis zu der freiheitlichen demokratischen Grundordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005701311)
 
 Wenn nicht im Einzelfall ausdrücklich ein späterer Zeitpunkt
 festgesetzt wird, beginnt der einstweilige Ruhestand mit dem
@@ -2385,6 +2451,7 @@ Grundgesetzes bekennen.
 
 
 #### § 57 Erneute Berufung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005800000)
 
 Die in den einstweiligen Ruhestand versetzten Beamtinnen und Beamten
 sind verpflichtet, einer erneuten Berufung in das Beamtenverhältnis
@@ -2394,6 +2461,7 @@ verliehen werden soll.
 
 
 #### § 58 Ende des einstweiligen Ruhestands
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE005900000)
 
 (1) Der einstweilige Ruhestand endet bei erneuter Berufung in das
 Beamtenverhältnis auf Lebenszeit.
@@ -2404,6 +2472,7 @@ Ruhestand versetzt.
 
 
 #### § 59 Zuständigkeit bei Versetzung in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006000000)
 
 Die Versetzung in den Ruhestand wird von der für die Ernennung
 zuständigen Stelle verfügt, soweit gesetzlich nichts anderes bestimmt
@@ -2413,12 +2482,15 @@ zurückgenommen werden.
 
 
 ## Abschnitt 6 - Rechtliche Stellung im Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG000900000)
 
 
 ### Unterabschnitt 1 - Allgemeine Pflichten und Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001000000)
 
 
 #### § 60 Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006101311)
 
 (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei.
 Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr
@@ -2434,6 +2506,7 @@ ihres Amtes ergeben.
 
 
 #### § 61 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006203311)
 
 (1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz
 ihrem Beruf zu widmen. Sie haben das ihnen übertragene Amt
@@ -2472,6 +2545,7 @@ Kenntnisse und Fähigkeiten teilzunehmen.
 
 
 #### § 62 Folgepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006300000)
 
 (1) Beamtinnen und Beamte haben ihre Vorgesetzten zu beraten und zu
 unterstützen. Sie sind verpflichtet, deren dienstliche Anordnungen
@@ -2485,6 +2559,7 @@ dem Dienstherrn Folge zu leisten.
 
 
 #### § 63 Verantwortung für die Rechtmäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006401311)
 
 (1) Beamtinnen und Beamte tragen für die Rechtmäßigkeit ihrer
 dienstlichen Handlungen die volle persönliche Verantwortung.
@@ -2512,6 +2587,7 @@ Beamte dies unverzüglich nach Ausführung der Anordnung verlangt.
 
 
 #### § 64 Eidespflicht, Eidesformel
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006501311)
 
 (1) Beamtinnen und Beamte haben folgenden Diensteid zu leisten: „Ich
 schwöre, das Grundgesetz und alle in der Bundesrepublik Deutschland
@@ -2534,6 +2610,7 @@ geloben, ihre oder seine Amtspflichten gewissenhaft zu erfüllen.
 
 
 #### § 65 Befreiung von Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006600000)
 
 (1) Beamtinnen und Beamte sind von Amtshandlungen zu befreien, die
 sich gegen sie selbst oder Angehörige richten würden, zu deren Gunsten
@@ -2545,6 +2622,7 @@ einzelnen Amtshandlungen ausgeschlossen sind, bleiben unberührt.
 
 
 #### § 66 Verbot der Führung der Dienstgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006700000)
 
 Die oberste Dienstbehörde oder die von ihr bestimmte Behörde kann
 einer Beamtin oder einem Beamten aus zwingenden dienstlichen Gründen
@@ -2556,6 +2634,7 @@ Verfahren eingeleitet worden ist.
 
 
 #### § 67 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006801377)
 
 (1) Beamtinnen und Beamte haben über die ihnen bei oder bei
 Gelegenheit ihrer amtlichen Tätigkeit bekannt gewordenen dienstlichen
@@ -2606,6 +2685,7 @@ herauszugeben. Entsprechendes gilt für ihre Hinterbliebenen und Erben.
 
 
 #### § 68 Versagung der Aussagegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE006900000)
 
 (1) Die Genehmigung, als Zeugin oder Zeuge auszusagen, darf nur
 versagt werden, wenn die Aussage dem Wohle des Bundes oder eines
@@ -2626,6 +2706,7 @@ Dienstbehörde. Sie kann diese Befugnis auf andere Behörden übertragen.
 
 
 #### § 69 Gutachtenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007000000)
 
 Die Genehmigung, ein Gutachten zu erstatten, kann versagt werden, wenn
 die Erstattung den dienstlichen Interessen Nachteile bereiten würde. §
@@ -2633,11 +2714,13 @@ die Erstattung den dienstlichen Interessen Nachteile bereiten würde. §
 
 
 #### § 70 Auskünfte an die Medien
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007100000)
 
 Die Leitung der Behörde entscheidet, wer den Medien Auskünfte erteilt.
 
 
 #### § 71 Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007201116)
 
 (1) Beamtinnen und Beamte dürfen, auch nach Beendigung des
 Beamtenverhältnisses, keine Belohnungen, Geschenke oder sonstigen
@@ -2659,6 +2742,7 @@ geben.
 
 
 #### § 72 Wahl der Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007300000)
 
 (1) Beamtinnen und Beamte haben ihre Wohnung so zu nehmen, dass die
 ordnungsmäßige Wahrnehmung ihrer Dienstgeschäfte nicht beeinträchtigt
@@ -2671,6 +2755,7 @@ Dienstwohnung zu beziehen ist.
 
 
 #### § 73 Aufenthaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007400000)
 
 Wenn besondere dienstliche Verhältnisse es dringend erfordern, kann
 die Beamtin oder der Beamte angewiesen werden, sich während der
@@ -2678,6 +2763,7 @@ dienstfreien Zeit in erreichbarer Nähe des Dienstortes aufzuhalten.
 
 
 #### § 74 Dienstkleidung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007500000)
 
 Die Bundespräsidentin oder der Bundespräsident oder die von ihr oder
 ihm bestimmte Stelle erlässt die Bestimmungen über Dienstkleidung, die
@@ -2685,6 +2771,7 @@ bei Wahrnehmung des Amtes üblich oder erforderlich ist.
 
 
 #### § 75 Pflicht zum Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007600000)
 
 (1) Beamtinnen und Beamte, die vorsätzlich oder grob fahrlässig die
 ihnen obliegenden Pflichten verletzt haben, haben dem Dienstherrn,
@@ -2705,6 +2792,7 @@ sie oder ihn über.
 
 
 #### § 76 Übergang eines Schadensersatzanspruchs gegen Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007700000)
 
 Werden Beamtinnen, Beamte, Versorgungsberechtigte oder ihre
 Angehörigen körperlich verletzt oder getötet, geht ein gesetzlicher
@@ -2720,6 +2808,7 @@ Hinterbliebenen geltend gemacht werden.
 
 
 #### § 77 Nichterfüllung von Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007803311)
 
 (1) Beamtinnen und Beamte begehen ein Dienstvergehen, wenn sie
 schuldhaft die ihnen obliegenden Pflichten verletzen. Außerhalb des
@@ -2761,6 +2850,7 @@ Bundesdisziplinargesetz.
 
 
 #### § 78 Fürsorgepflicht des Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE007900000)
 
 Der Dienstherr hat im Rahmen des Dienst- und Treueverhältnisses für
 das Wohl der Beamtinnen und Beamten und ihrer Familien, auch für die
@@ -2770,6 +2860,7 @@ Stellung.
 
 
 #### § 78a Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015400116)
 
 (1) Hat eine Beamtin oder ein Beamter wegen einer vorsätzlichen
 Verletzung des Körpers, der Gesundheit, der Freiheit oder der
@@ -2814,6 +2905,7 @@ Zivilprozessordnung festgestellt worden sind.
 
 
 #### § 79 Mutterschutz, Elternzeit und Jugendarbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008003311)
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart
 des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des
@@ -2844,6 +2936,7 @@ Sicherheit erforderlich sind.
 
 
 #### § 80 Beihilfe in Krankheits-, Pflege- und Geburtsfällen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008104311)
 
 (1) Beihilfe erhalten:
 
@@ -2991,6 +3084,7 @@ unter anderem vorgesehen werden:
 
 
 #### § 81 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008202311)
 
 (1) Beamtinnen und Beamte erhalten die notwendigen Kosten einer
 dienstlich veranlassten Reise (Dienstreise) vergütet. Die
@@ -3018,6 +3112,7 @@ Ausland berücksichtigen.
 
 
 #### § 82 Umzugskosten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008302311)
 
 (1) Beamtinnen und Beamte sowie ihre Hinterbliebenen erhalten die
 notwendigen Kosten für einen Umzug vergütet (Umzugskostenvergütung),
@@ -3059,6 +3154,7 @@ erfordern.
 
 
 #### § 83 Trennungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008402311)
 
 (1) Beamtinnen und Beamte, die an einen Ort außerhalb des Dienst- oder
 Wohnortes abgeordnet, versetzt, zugewiesen oder aufgrund einer anderen
@@ -3093,12 +3189,14 @@ Ausland es erfordern.
 
 
 #### § 84 Jubiläumszuwendung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008500000)
 
 Beamtinnen und Beamten wird bei Dienstjubiläen eine Zuwendung gewährt.
 Das Nähere regelt die Bundesregierung durch Rechtsverordnung.
 
 
 #### § 84a Rückforderung zu viel gezahlter Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015100116)
 
 Die Rückforderung zu viel gezahlter Geldleistungen, die der Dienstherr
 auf Grund beamtenrechtlicher Vorschriften geleistet hat, richtet sich
@@ -3112,6 +3210,7 @@ Stelle ganz oder teilweise abgesehen werden.
 
 
 #### § 85 Dienstzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008600000)
 
 Beamtinnen und Beamten wird auf Antrag ein Dienstzeugnis über Art und
 Dauer der von ihnen wahrgenommenen Ämter erteilt, wenn sie daran ein
@@ -3121,6 +3220,7 @@ und die erbrachten Leistungen Auskunft geben.
 
 
 #### § 86 Amtsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008700000)
 
 (1) Die Bundespräsidentin oder der Bundespräsident oder eine von ihr
 oder ihm bestimmte Stelle setzt die Amtsbezeichnungen fest, soweit
@@ -3142,9 +3242,11 @@ früheren Amtes, darf die geänderte Amtsbezeichnung geführt werden.
 
 
 ### Unterabschnitt 2 - Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001100000)
 
 
 #### § 87 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008800000)
 
 (1) Die regelmäßige Arbeitszeit darf wöchentlich im Durchschnitt 44
 Stunden nicht überschreiten.
@@ -3167,6 +3269,7 @@ vorzusehen.
 
 
 #### § 88 Mehrarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE008901311)
 
 Beamtinnen und Beamte sind verpflichtet, ohne Vergütung über die
 regelmäßige wöchentliche Arbeitszeit hinaus Dienst zu tun, wenn
@@ -3185,6 +3288,7 @@ erhalten.
 
 
 #### § 89 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009001116)
 
 Beamtinnen und Beamten steht jährlich ein Erholungsurlaub unter
 Fortgewährung der Besoldung zu. Die Bewilligung, die Dauer und die
@@ -3195,6 +3299,7 @@ regelt das Gesetz über den Auswärtigen Dienst.
 
 
 #### § 90 Urlaub aus anderen Anlässen, Mandatsträgerinnen und Mandatsträger
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009102116)
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung die Bewilligung
 von Urlaub aus anderen Anlässen und bestimmt, inwieweit die Besoldung
@@ -3236,6 +3341,7 @@ eines Gesetzes gebildet worden sind.
 
 
 #### § 91 Teilzeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009200000)
 
 (1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann auf
 Antrag Teilzeitbeschäftigung bis zur Hälfte der regelmäßigen
@@ -3264,6 +3370,7 @@ Belange dem nicht entgegenstehen.
 
 
 #### § 92 Familienbedingte Teilzeit, familienbedingte Beurlaubung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009303116)
 
 (1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, wird auf
 Antrag Teilzeitbeschäftigung oder Urlaub ohne Besoldung bewilligt,
@@ -3346,6 +3453,7 @@ werden.
 
 
 #### § 92a Familienpflegezeit mit Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014901116)
 
 (1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, wird auf
 Antrag für längstens 24 Monate Teilzeitbeschäftigung mit einer
@@ -3387,6 +3495,7 @@ widerrufen, wenn keine dringenden dienstlichen Belange entgegenstehen.
 
 
 #### § 92b Pflegezeit mit Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015500116)
 
 (1) Unter den Voraussetzungen des § 92a Absatz 1 wird auf Antrag für
 längstens sechs Monate Teilzeitbeschäftigung mit einer regelmäßigen
@@ -3401,6 +3510,7 @@ werden.
 
 
 #### § 93 Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009410311)
 
 (1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann auf
 Antrag, der sich auf die Zeit bis zum Beginn des Ruhestands erstrecken
@@ -3519,6 +3629,7 @@ entsprechend.
 
 
 #### § 94 Hinweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009500000)
 
 Wird eine Verkürzung der Arbeitszeit oder eine langfristige
 Beurlaubung beantragt, sind die Beamtinnen und Beamten auf die Folgen
@@ -3529,6 +3640,7 @@ und deren Folgen.
 
 
 #### § 95 Beurlaubung ohne Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009601310)
 
 (1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann in
 Bereichen, in denen wegen der Arbeitsmarktsituation ein
@@ -3584,6 +3696,7 @@ bewilligt worden ist, gilt § 93 Abs. 2 Satz 2 entsprechend.
 
 
 #### § 96 Fernbleiben vom Dienst
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009700000)
 
 (1) Beamtinnen und Beamte dürfen dem Dienst nicht ohne Genehmigung
 ihrer Dienstvorgesetzten fernbleiben. Dienstunfähigkeit infolge von
@@ -3596,9 +3709,11 @@ Disziplinarverfahrens nicht ausgeschlossen.
 
 
 ### Unterabschnitt 3 - Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001200000)
 
 
 #### § 97 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009800000)
 
 (1) Nebentätigkeit ist die Wahrnehmung eines Nebenamtes oder die
 Ausübung einer Nebenbeschäftigung.
@@ -3617,6 +3732,7 @@ Pflegschaft.
 
 
 #### § 98 Nebentätigkeit im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE009900000)
 
 Beamtinnen und Beamte sind verpflichtet, auf Verlangen ihrer
 Dienstbehörde eine Nebentätigkeit im öffentlichen Dienst auszuüben,
@@ -3625,6 +3741,7 @@ entspricht und sie nicht über Gebühr in Anspruch nimmt.
 
 
 #### § 99 Genehmigungspflichtige Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010001116)
 
 (1) Beamtinnen und Beamte bedürfen zur Ausübung jeder entgeltlichen
 Nebentätigkeit, mit Ausnahme der in § 100 Abs. 1 abschließend
@@ -3712,6 +3829,7 @@ schriftlich oder elektronisch anzuzeigen.
 
 
 #### § 100 Nicht genehmigungspflichtige Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010101116)
 
 (1) Nicht genehmigungspflichtig sind
 
@@ -3756,6 +3874,7 @@ Ausübung dienstliche Pflichten verletzt.
 
 
 #### § 101 Ausübung von Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010201116)
 
 (1) Nebentätigkeiten dürfen nur außerhalb der Arbeitszeit ausgeübt
 werden, es sei denn, sie werden auf Verlangen der oder des
@@ -3776,6 +3895,7 @@ Beamtin oder dem Beamten durch die Inanspruchnahme entsteht.
 
 
 #### § 102 Regressanspruch für die Haftung aus angeordneter Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010300000)
 
 Beamtinnen und Beamte, die aus einer auf Verlangen, Vorschlag oder
 Veranlassung der oder des Dienstvorgesetzten ausgeübten Tätigkeit im
@@ -3790,6 +3910,7 @@ gehandelt hat.
 
 
 #### § 103 Erlöschen der mit dem Hauptamt verbundenen Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010400000)
 
 Endet das Beamtenverhältnis, enden, wenn im Einzelfall nichts anderes
 bestimmt wird, auch die Nebenämter und Nebenbeschäftigungen, die im
@@ -3799,6 +3920,7 @@ worden sind.
 
 
 #### § 104 Erlass ausführender Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010500000)
 
 Die zur Ausführung der §§ 97 bis 103 notwendigen weiteren Vorschriften
 zu Nebentätigkeiten von Beamtinnen und Beamten erlässt die
@@ -3833,6 +3955,7 @@ Bundesregierung durch Rechtsverordnung. In ihr kann bestimmt werden,
 
 
 #### § 105 Anzeige- und Genehmigungspflicht nach Beendigung des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010604311)
 
 (1) Ruhestandsbeamtinnen und Ruhestandsbeamte sind verpflichtet, eine
 Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des
@@ -3935,9 +4058,11 @@ ihre Zuständigkeit auf nachgeordnete Behörden übertragen.
 
 
 ### Unterabschnitt 4 - Personalaktenrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001300000)
 
 
 #### § 106 Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010702311)
 
 (1) Für jede Beamtin und jeden Beamten ist eine Personalakte zu
 führen. Sie ist vertraulich zu behandeln und durch technische und
@@ -3991,6 +4116,7 @@ erlaubt.
 
 
 #### § 107 Zugang zur Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010802311)
 
 (1) Zugang zur Personalakte dürfen nur Beschäftigte haben, die im
 Rahmen der Personalverwaltung mit der Bearbeitung von
@@ -4011,6 +4137,7 @@ gewinnen können. Jede Einsichtnahme nach Satz 1 ist zu dokumentieren.
 
 
 #### § 108 Beihilfeakte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE010903311)
 
 (1) Unterlagen über Beihilfen sind als Teilakte zu führen. Diese ist
 von der übrigen Personalakte getrennt aufzubewahren. Sie soll in einer
@@ -4057,6 +4184,7 @@ bis 3 sind für diese Stelle anzuwenden.
 
 
 #### § 109 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011001311)
 
 Beamtinnen und Beamte sind zu Beschwerden, Behauptungen und
 Bewertungen, die für sie ungünstig sind oder ihnen nachteilig werden
@@ -4066,6 +4194,7 @@ Anhörung nicht nach anderen Rechtsvorschriften erfolgt. Ihre
 
 
 #### § 110 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011101311)
 
 (1) Das Recht der Beamtin oder des Beamten auf Auskunft gemäß
 Artikel 15 der Verordnung (EU) 2016/679 umfasst auch das Recht auf
@@ -4101,6 +4230,7 @@ die Einsicht gewährt wird.
 
 
 #### § 111 Übermittlung von Personalaktendaten und Auskünfte an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011202311)
 
 (1) Ohne Einwilligung der Beamtin oder des Beamten ist es zulässig,
 die Personalakte der obersten Dienstbehörde oder einer im Rahmen der
@@ -4134,6 +4264,7 @@ Beamten schriftlich mitzuteilen.
 
 
 #### § 111a Verarbeitung von Personalaktendaten im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015201311)
 
 (1) Die Erteilung eines Auftrags zur Verarbeitung von
 Personalaktendaten einschließlich der Inanspruchnahme einer weiteren
@@ -4169,6 +4300,7 @@ oder den Auftragsverarbeiter regelmäßig zu kontrollieren.
 
 
 #### § 111b Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015600311)
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, darf die
 personalverwaltende Behörde mit Zustimmung der obersten Bundesbehörde
@@ -4202,6 +4334,7 @@ nicht.
 
 
 #### § 112 Entfernung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011300000)
 
 (1) Unterlagen über Beschwerden, Behauptungen und Bewertungen, auf die
 § 16 Abs. 3 und 4 Satz 1 des Bundesdisziplinargesetzes nicht
@@ -4232,6 +4365,7 @@ entfernen und zu vernichten. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 #### § 113 Aufbewahrungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011403116)
 
 (1) Personalakten sind nach ihrem Abschluss von der
 personalaktenführenden Behörde fünf Jahre aufzubewahren. Personalakten
@@ -4285,6 +4419,7 @@ Bundesarchivgesetzes vom Bundesarchiv oder einem Landesarchiv
 
 
 #### § 114 Automatisierte Verarbeitung von Personalaktendaten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011500000)
 
 (1) Personalaktendaten dürfen nur für Zwecke der Personalverwaltung
 oder der Personalwirtschaft automatisiert verarbeitet werden. Ihre
@@ -4316,6 +4451,7 @@ Inhalts automatisierter Datenübermittlung allgemein bekannt zu geben.
 
 
 #### § 115 Übermittlungen in Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011600000)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen und
@@ -4382,9 +4518,11 @@ kennzeichnen.
 
 
 ## Abschnitt 7 - Beamtenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001400000)
 
 
 ### § 116 Mitgliedschaft in Gewerkschaften und Berufsverbänden
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011700000)
 
 (1) Beamtinnen und Beamte haben das Recht, sich in Gewerkschaften oder
 Berufsverbänden zusammenzuschließen. Sie können die für sie
@@ -4397,12 +4535,14 @@ benachteiligt werden.
 
 
 ### § 117 Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011800000)
 
 Die Personalvertretung der Beamtinnen und Beamten ist zu
 gewährleisten. Das Nähere wird durch Gesetz geregelt.
 
 
 ### § 118 Beteiligung der Spitzenorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE011900000)
 
 Die Spitzenorganisationen der zuständigen Gewerkschaften sind bei der
 Vorbereitung allgemeiner Regelungen der beamtenrechtlichen
@@ -4410,9 +4550,11 @@ Verhältnisse zu beteiligen.
 
 
 ## Abschnitt 8 - Bundespersonalausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001500000)
 
 
 ### § 119 Aufgaben; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012001311)
 
 (1) Der Bundespersonalausschuss dient der einheitlichen Handhabung
 beamtenrechtlicher Ausnahmevorschriften. Weitere als die in diesem
@@ -4434,6 +4576,7 @@ eigener Verantwortung aus.
 
 
 ### § 120 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012102311)
 
 (1) Der Bundespersonalausschuss besteht aus acht ordentlichen und acht
 stellvertretenden Mitgliedern.
@@ -4465,6 +4608,7 @@ Heimat unterstützt.
 
 
 ### § 121 Rechtsstellung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012202311)
 
 Die Dienstaufsicht über die Mitglieder des Bundespersonalausschusses
 führt im Auftrag der Bundesregierung die Bundesministerin des Innern
@@ -4502,11 +4646,13 @@ folgenden Maßgaben:
 
 
 ### § 122 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012300000)
 
 Der Bundespersonalausschuss gibt sich eine Geschäftsordnung.
 
 
 ### § 123 Sitzungen und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012400000)
 
 (1) Die Sitzungen des Bundespersonalausschusses sind nicht öffentlich.
 Der Bundespersonalausschuss kann von den Verwaltungen beauftragten
@@ -4534,6 +4680,7 @@ eingeräumt ist, binden seine Beschlüsse die beteiligten Verwaltungen.
 
 
 ### § 124 Beweiserhebung, Auskünfte und Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012500000)
 
 (1) Der Bundespersonalausschuss kann zur Durchführung seiner Aufgaben
 in entsprechender Anwendung der Vorschriften der
@@ -4546,9 +4693,11 @@ haben dem Bundespersonalausschuss unentgeltlich Amtshilfe zu leisten.
 
 
 ## Abschnitt 9 - Beschwerdeweg und Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001600000)
 
 
 ### § 125 Dienstweg bei Anträgen und Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012601377)
 
 (1) Beamtinnen und Beamte können Anträge und Beschwerden vorbringen.
 Hierbei ist der Dienstweg einzuhalten. Der Beschwerdeweg bis zur
@@ -4564,6 +4713,7 @@ Dienstwegs befreit.
 
 
 ### § 126 Verwaltungsrechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012700000)
 
 (1) Für alle Klagen der Beamtinnen, Beamten, Ruhestandsbeamtinnen,
 Ruhestandsbeamten, früheren Beamtinnen, früheren Beamten und der
@@ -4585,6 +4735,7 @@ Versetzung haben keine aufschiebende Wirkung.
 
 
 ### § 127 Vertretung des Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012802311)
 
 (1) Bei Klagen aus dem Beamtenverhältnis wird der Dienstherr durch die
 oberste Dienstbehörde vertreten, der die Beamtin oder der Beamte
@@ -4604,6 +4755,7 @@ Bundesgesetzblatt zu veröffentlichen.
 
 
 ### § 128 Zustellung von Verfügungen und Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE012900000)
 
 Verfügungen und Entscheidungen, die Beamtinnen und Beamten oder
 Versorgungsberechtigten nach den Vorschriften dieses Gesetzes bekannt
@@ -4615,9 +4767,11 @@ Vorschriften des Verwaltungszustellungsgesetzes.
 
 
 ## Abschnitt 10 - Besondere Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001700000)
 
 
 ### § 129 Beamtinnen und Beamte oberster Bundesorgane
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013001116)
 
 Die Beamtinnen und Beamten des Bundestages, des Bundesrates und des
 Bundesverfassungsgerichtes sind Beamtinnen und Beamte des Bundes. Die
@@ -4629,6 +4783,7 @@ jeweils die oberste Dienstbehörde.
 
 
 ### § 130 Wissenschaftliches und leitendes Personal der Hochschulen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013100000)
 
 (1) Die beamteten Leiterinnen und beamteten Leiter, die beamteten
 hauptberuflichen Mitglieder von Leitungsgremien sowie die zum
@@ -4678,6 +4833,7 @@ Kenntnisse erforderlich ist.
 
 
 ### § 131 Einstellungsvoraussetzungen für Hochschullehrerinnen und Hochschullehrer sowie wissenschaftliche Mitarbeiterinnen und wissenschaftliche Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013200000)
 
 (1) Einstellungsvoraussetzungen für Professorinnen und Professoren
 sind neben den allgemeinen dienstrechtlichen Voraussetzungen
@@ -4745,6 +4901,7 @@ Hochschulstudium.
 
 
 ### § 132 Dienstrechtliche Stellung des hauptberuflichen wissenschaftlichen und leitenden Personals der Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013302116)
 
 (1) Professorinnen und Professoren werden, soweit kein
 privatrechtliches Dienstverhältnis begründet wird, bei erstmaliger
@@ -4870,6 +5027,7 @@ Hochschuldozentinnen und Hochschuldozenten entsprechend.
 
 
 ### § 132a Ermächtigungen zum Erlass von Verordnungen zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE015800311)
 
 (1) Das Bundesministerium der Verteidigung wird ermächtigt, zur
 Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals
@@ -4954,6 +5112,7 @@ für Heimat.
 
 
 ### § 133 Ehrenbeamtinnen und Ehrenbeamte
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013401311)
 
 (1) Für Ehrenbeamtinnen und Ehrenbeamte nach § 6 Abs. 5 gelten die
 Vorschriften dieses Gesetzes mit folgenden Maßgaben:
@@ -4980,9 +5139,11 @@ geltenden Vorschriften.
 
 
 ## Abschnitt 11 - Umbildung von Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001800000)
 
 
 ### § 134 Umbildung einer Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013500000)
 
 (1) Beamtinnen und Beamte einer juristischen Person des öffentlichen
 Rechts mit Dienstherrnfähigkeit (Körperschaft), die vollständig in
@@ -5015,6 +5176,7 @@ vollständig oder teilweise auf eine oder mehrere andere Körperschaften
 
 
 ### § 135 Rechtsfolgen der Umbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013600000)
 
 (1) Tritt eine Beamtin oder ein Beamter aufgrund des § 134 Abs. 1
 kraft Gesetzes in den Dienst einer anderen Körperschaft über oder wird
@@ -5038,6 +5200,7 @@ Abs. 4.
 
 
 ### § 136 Rechtsstellung der Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013701116)
 
 (1) Den nach § 134 in den Dienst einer anderen Körperschaft
 übergetretenen oder von ihr übernommenen Beamtinnen und Beamten soll
@@ -5067,6 +5230,7 @@ getreten wären.
 
 
 ### § 137 Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013800000)
 
 (1) Die Vorschriften des § 134 Abs. 1 und 2 und des § 135 gelten
 entsprechend für die zum Zeitpunkt der Umbildung bei der abgebenden
@@ -5082,9 +5246,11 @@ Abs. 4.
 
 
 ## Abschnitt 12 - Spannungs- und Verteidigungsfall, Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG001900000)
 
 
 ### § 138 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE013900000)
 
 Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 139 bis
 142 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes zulässig.
@@ -5093,6 +5259,7 @@ Arbeitssicherstellungsgesetzes nicht anzuwenden.
 
 
 ### § 139 Dienstleistung im Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014000000)
 
 (1) Beamtinnen und Beamte können für Zwecke der Verteidigung auch ohne
 ihre Zustimmung zu einem anderen Dienstherrn abgeordnet oder zur
@@ -5118,6 +5285,7 @@ verpflichtet.
 
 
 ### § 140 Aufschub der Entlassung und des Ruhestands
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014100000)
 
 Die Entlassung der Beamtinnen und Beamten auf ihren Antrag kann für
 Zwecke der Verteidigung hinausgeschoben werden, wenn dies im
@@ -5133,6 +5301,7 @@ Regelaltersgrenze erreicht wird.
 
 
 ### § 141 Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014200000)
 
 Ruhestandsbeamtinnen und Ruhestandsbeamte, die die Regelaltersgrenze
 noch nicht erreicht haben, können für Zwecke der Verteidigung erneut
@@ -5145,6 +5314,7 @@ Regelaltersgrenze erreicht wird.
 
 
 ### § 142 Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014300000)
 
 (1) Wenn dienstliche Gründe es erfordern, können Beamtinnen und Beamte
 für Zwecke der Verteidigung verpflichtet werden, vorübergehend in
@@ -5159,6 +5329,7 @@ Erfordernisse gestatten.
 
 
 ### § 143 Verwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014400000)
 
 (1) Beamtinnen und Beamte, die zur Wahrnehmung des ihnen übertragenen
 Amts im Ausland oder außerhalb des deutschen Hoheitsgebiets auf
@@ -5195,9 +5366,11 @@ Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 
 
 ## Abschnitt 13 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNG002000000)
 
 
 ### § 144 Entscheidungsrecht oberster Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014500000)
 
 (1) Ist eine bundesunmittelbare Körperschaft, Anstalt oder Stiftung
 des öffentlichen Rechts Dienstherr einer Beamtin oder eines Beamten,
@@ -5216,6 +5389,7 @@ zuständige Verwaltungsstelle.
 
 
 ### § 145 Rechtsverordnungen, Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014603311)
 
 (1) Rechtsverordnungen nach diesem Gesetz bedürfen nicht der
 Zustimmung des Bundesrates.
@@ -5227,6 +5401,7 @@ für Heimat, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 146 Öffentlich-rechtliche Religionsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014700000)
 
 Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
 Religionsgesellschaften und ihre Verbände. Diesen bleibt es
@@ -5236,6 +5411,7 @@ oder Vorschriften dieses Gesetzes für anwendbar zu erklären.
 
 
 ### § 147 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bbg_2009/BJNR016010009.html#BJNR016010009BJNE014802116)
 
 (1) Für Beamtinnen und Beamte, die vor Inkrafttreten dieses Gesetzes
 in ein Beamtenverhältnis auf Probe berufen worden sind, sind anstelle

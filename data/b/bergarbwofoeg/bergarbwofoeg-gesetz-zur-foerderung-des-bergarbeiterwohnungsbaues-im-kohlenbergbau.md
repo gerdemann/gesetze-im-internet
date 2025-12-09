@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Aufbringung und Verwendung der Kohlenabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNG000101310)
 
 
 
 ### § 1 Einstellung der Förderung des Bergarbeiterwohnungsbaues
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE000406116)
 
 (1) Die Förderung des Bergarbeiterwohnungsbaues aus dem nach diesem
 Gesetz in der bis zum 31. Dezember 1996 geltenden Fassung gebildeten
@@ -58,11 +60,13 @@ Länder einen Vorabanteil von 20 vom Hundert.
 
 
 ### (XXXX) §§ 2 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE000502310)
 
 -
 
 
 ### § 4 Wohnungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE000908116)
 
 (1) In Wohnungen, für die die Mittel des Treuhandvermögens bis zum 31.
 Dezember 1996 bewilligt worden sind, sind wohnungsberechtigt
@@ -111,6 +115,7 @@ Kohlenbergbauunternehmen tätig ist.
 
 
 ### § 5 Zweckbindung der Bergarbeiterwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE001002310)
 
 (1) Bei Mietwohnungen, für die die Mittel des Treuhandvermögens bis
 zum 31. Dezember 1996 bewilligt worden sind, ist sicherzustellen, daß
@@ -129,6 +134,7 @@ entgegenstehende Vereinbarung ist nichtig.
 
 
 ### § 6 Überlassung von Bergarbeiterwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE001102310)
 
 (1) Der Eigentümer oder sonstige Verfügungsberechtigte einer
 Bergarbeiterwohnung darf diese Wohnung nach Bezugsfertigkeit oder nach
@@ -181,31 +187,37 @@ Nichtwohnungsberechtigten untervermietet oder überläßt.
 
 
 ### (XXXX) §§ 7 bis 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE001202310)
 
 -
 
 
 ### § 9 Einzelne Wohnräume
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE001502310)
 
 Die in den §§ 4 bis 6 für Wohnungen getroffenen Vorschriften gelten
 für einzelne Wohnräume entsprechend.
 
 
 ### § 9a
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE001602310)
 
 (weggefallen)
 
 
 ## Zweiter Teil - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNG000201310)
 
 
 
 ### (XXXX) §§ 10 und 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE003500310)
 
 -
 
 
 ### § 12 Treuhandstellen
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE001906116)
 
 Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen
 wahrgenommen, die das Bundesministerium des Innern, für Bau und Heimat
@@ -216,11 +228,13 @@ Länder, in denen Kohlenbergbau betrieben wird, vorgeschlagen.
 
 
 ### (XXXX) §§ 13 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002002310)
 
 -
 
 
 ### § 16 Aufgaben der Treuhandstelle
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002306116)
 
 (1) Die Treuhandstelle hat das Treuhandvermögen für den Bund im Rahmen
 einer ordnungsgemäßen Geschäftsführung getrennt von anderem Vermögen
@@ -235,6 +249,7 @@ Heimat aus Mitteln des Treuhandvermögens gedeckt werden.
 
 
 ### § 17 Treuhandvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002406116)
 
 (1) Die Treuhandstelle übt die zum Treuhandvermögen gehörenden Rechte
 in eigenem Namen aus. Sie soll hierbei einen das Treuhandverhältnis
@@ -258,6 +273,7 @@ zugestimmt hat.
 
 
 ### § 18 Haftung des Treuhandvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002505116)
 
 (1) Die Treuhandstelle haftet Dritten mit dem Treuhandvermögen nur für
 Verbindlichkeiten, die sich auf das Treuhandvermögen beziehen; für
@@ -289,6 +305,7 @@ Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
 
 ### § 19 Aufsicht über die Treuhandstellen
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002606116)
 
 (1) Die Treuhandstellen unterstehen hinsichtlich des Treuhandvermögens
 der Aufsicht des Bundes.
@@ -301,15 +318,18 @@ der Prüfung durch den Bundesrechnungshof.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002702310)
 
 (weggefallen)
 
 
 ## Dritter Teil - Ergänzungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNG000301310)
 
 
 
 ### § 21 Anwendung des Ersten und des Zweiten Wohnungsbaugesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002802310)
 
 Die Bergarbeiterwohnungen sind öffentlich geförderte Wohnungen im
 Sinne des § 3 Abs. 4 des Ersten Wohnungsbaugesetzes oder des § 5 Abs.
@@ -322,20 +342,24 @@ Wohnungsbaugesetzes sowie die Vorschriften der §§ 19, 20, 23, 25 bis
 
 
 ### (XXXX) §§ 22 und 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE002902310)
 
 -
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE003104116)
 
 
 
 ### (XXXX) §§ 24a und 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE003302310)
 
 -
 
 
 ### § 26 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bergarbwof_g/BJNR008650951.html#BJNR008650951BJNE003401310)
 
 -
 

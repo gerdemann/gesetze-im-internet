@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Art und Zweck der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000201311)
 
 (1) Über die Bevölkerung und den Arbeitsmarkt sowie die Wohnsituation
 der Haushalte werden in den Jahren 2005 bis 2016 Erhebungen auf
@@ -42,6 +44,7 @@ bereitzustellen.
 
 
 ## § 2 Erhebungseinheiten und Stichprobenauswahl
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000300000)
 
 (1) Erhebungseinheiten sind Personen, Haushalte und Wohnungen. Sie
 werden auf der Grundlage von Flächen oder vergleichbaren Bezugsgrößen
@@ -57,6 +60,7 @@ ausgewählten Wohnung einem Haushalt zugeordnet.
 
 
 ## § 3 Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000401310)
 
 Die Erhebung wird gleichmäßig über die Kalenderwochen verteilt
 durchgeführt. In jedem Auswahlbezirk werden die Erhebungseinheiten
@@ -65,6 +69,7 @@ befragt.
 
 
 ## § 4 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000501310)
 
 (1) Folgende Erhebungsmerkmale werden jährlich ab 2005 mit einem
 Auswahlsatz von 1 Prozent der Bevölkerung erfragt:
@@ -265,6 +270,7 @@ von 1 Prozent der Bevölkerung im Abstand von vier Jahren erfragt:
 
 
 ## § 5 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000600000)
 
 (1) Hilfsmerkmale sind:
 
@@ -290,6 +296,7 @@ Zuordnung der Erwerbstätigen zu Wirtschaftszweigen verwendet werden.
 
 
 ## § 6 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000700000)
 
 (1) Für die Erhebungen sollen Erhebungsbeauftragte nach § 14 des
 Bundesstatistikgesetzes eingesetzt werden. Auf Verlangen der
@@ -307,6 +314,7 @@ im Sinne des § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes.
 
 
 ## § 7 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000800000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht, soweit in Absatz 4
 nichts anderes bestimmt ist.
@@ -353,6 +361,7 @@ Abs. 1 Nr. 2 sind freiwillig.
 
 
 ## § 8 Trennung und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE000900000)
 
 (1) Die Hilfsmerkmale nach § 5 sind von den Erhebungsmerkmalen
 unverzüglich jeweils nach Abschluss der Plausibilitätsprüfung zu
@@ -381,11 +390,13 @@ werden.
 
 
 ## § 9 Nichtanwendung der Bußgeldvorschriften des Bundesstatistikgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001000000)
 
 Die §§ 23 und 24 des Bundesstatistikgesetzes finden keine Anwendung.
 
 
 ## § 10 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001100000)
 
 Für die Durchführung der Erhebungen einschließlich ihrer methodischen
 Auswertung übermitteln die Meldebehörden den statistischen Ämtern der
@@ -414,6 +425,7 @@ Auswahlbezirken nach § 2 Abs. 1 wohnen:
 
 
 ## § 11 Zusatzaufbereitungen zur Erwerbsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001200000)
 
 Für Zusatzaufbereitungen zur Erwerbsbeteiligung übermitteln die
 statistischen Ämter der Länder jeweils monatlich die für den Vormonat
@@ -423,6 +435,7 @@ Ergebnisse veröffentlicht.
 
 
 ## § 12 Stichprobenerhebungen über Arbeitskräfte in der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001300000)
 
 Die Erhebungen nach diesem Gesetz und die durch die Verordnung (EG)
 Nr. 577/98 des Rates vom 9. März 1998 zur Durchführung einer
@@ -436,6 +449,7 @@ gemeinsam ausgewertet.
 
 
 ## § 13 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001400000)
 
 Das Bundesministerium des Innern wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -484,6 +498,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ## § 13a Experimentierklausel
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001600116)
 
 (1) Zur Erprobung neuer Erhebungsverfahren ist es zulässig, bei bis zu
 2,5 Prozent der Erhebungseinheiten
@@ -510,6 +525,7 @@ teilnehmen.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mzg_2005/BJNR135000004.html#BJNR135000004BJNE001500000)
 
 Dieses Gesetz tritt am 1. Januar 2005 in Kraft.
 

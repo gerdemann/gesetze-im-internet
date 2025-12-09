@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000100308)
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes vom 2. April
 1968 (BGBl. II S. 173), der durch § 36 Nr. 1 des Gesetzes vom 20.
@@ -29,6 +30,7 @@ Reaktorsicherheit verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000200308)
 
 Zur Sicherung des jeweiligen Schutzzwecks der in § 2 aufgeführten
 Naturschutzgebiete wird das Befahren der darin gelegenen
@@ -36,6 +38,7 @@ Bundeswasserstraßen nach Maßgabe dieser Verordnung geregelt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000304377)
 
 (1) Es ist untersagt, die Bundeswasserstraße Rhein in der Zeit vom 15.
 Oktober bis zum 31. März in folgenden Bereichen zu befahren:
@@ -216,6 +219,7 @@ Insel gelegenen, im Lageplan 19 gekennzeichneten Bereich.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000402305)
 
 Die nach § 2 für das Befahren mit Wasserfahrzeugen gesperrten
 Wasserflächen werden, soweit erforderlich, von dem örtlich zuständigen
@@ -224,6 +228,7 @@ Hinweistafeln gekennzeichnet.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000501305)
 
 Soweit das Befahren der in § 2 genannten Wasserflächen mit
 Wasserfahrzeugen mit Maschinenantrieb zulässig ist, dürfen diese eine
@@ -233,6 +238,7 @@ der Steuerungsfähigkeit eine höhere Geschwindigkeit erforderlich ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000601305)
 
 Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann von den
 Verboten der §§ 2 und 4 allgemein und im Einzelfall, zeitlich begrenzt
@@ -255,6 +261,7 @@ Naturschutzgebiet auszuüben.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000702305)
 
 (1) Bei unmittelbar drohender Gefahr kann von den Vorschriften dieser
 Verordnung abgewichen werden.
@@ -277,10 +284,12 @@ Verordnung abgewichen werden.
 
 
 ## § 6a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE001302305)
 
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE000803126)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -306,16 +315,19 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE001001308)
 
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE001100308)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage Lagepläne 1 bis 20
+[Direktlink](https://www.gesetze-im-internet.de/nsgbefv/BJNR025380987.html#BJNR025380987BJNE001203377)
 
 (Fundstellen:
 Lageplan 1 — BGBl I 1987, 2540,

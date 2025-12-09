@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amgbbehefstv/BJNR10D0A0025.html#BJNR10D0A0025BJNE000100000)
 
 Das Bundesministerium für Gesundheit verordnet aufgrund des § 6 Absatz
 2 und des § 77 Absatz 4 Satz 1 Nummer 3 und Satz 2 des
@@ -28,6 +29,7 @@ ist:
 
 
 ## § 1 Einrichtung einer Koordinierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/amgbbehefstv/BJNR10D0A0025.html#BJNR10D0A0025BJNE000200000)
 
 Zu dem Zweck, Verfahrensabläufe zwischen den in § 77 Absatz 1 des
 Arzneimittelgesetzes genannten Bundesoberbehörden (Bundesoberbehörden)
@@ -39,6 +41,7 @@ Koordinierungsstelle eingerichtet.
 
 
 ## § 2 Aufgaben der Koordinierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/amgbbehefstv/BJNR10D0A0025.html#BJNR10D0A0025BJNE000300000)
 
 Die Koordinierungsstelle nimmt zu dem in § 1 genannten Zweck
 insbesondere folgende Aufgaben wahr:
@@ -104,6 +107,7 @@ insbesondere folgende Aufgaben wahr:
 
 
 ## § 3 Befugnisse der Koordinierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/amgbbehefstv/BJNR10D0A0025.html#BJNR10D0A0025BJNE000400000)
 
 (1) Die Koordinierungsstelle darf zur Erfüllung der ihr nach § 2
 übertragenen Aufgaben Einsicht in die bei den Bundesoberbehörden
@@ -115,6 +119,7 @@ festlegen.
 
 
 ## § 4 Berichts- und Evaluationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/amgbbehefstv/BJNR10D0A0025.html#BJNR10D0A0025BJNE000500000)
 
 Die Koordinierungsstelle evaluiert ihre Tätigkeit alle zwei Jahre und
 berichtet alle zwei Jahre, erstmals zum 1. Januar 2028 gegenüber den
@@ -129,6 +134,7 @@ berichtet hat.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amgbbehefstv/BJNR10D0A0025.html#BJNR10D0A0025BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

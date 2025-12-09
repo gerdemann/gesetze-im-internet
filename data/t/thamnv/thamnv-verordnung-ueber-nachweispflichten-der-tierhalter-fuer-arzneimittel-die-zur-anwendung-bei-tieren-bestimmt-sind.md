@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 2121-51-47 v. 20.12.2006 I 3450, 3453 (ANTHV)
 
 ## § 1 Nachweise über Erwerb und Anwendung durch den Tierhalter
+[Direktlink](https://www.gesetze-im-internet.de/thamnv/BJNR138200015.html#BJNR138200015BJNE000100000)
 
 (1) Jeder, der Tiere hält, die der Gewinnung von Lebensmitteln dienen,
 hat über Erwerb und Anwendung der von ihm bezogenen, zur Anwendung bei
@@ -84,6 +85,7 @@ Verschreibung oder die tierärztliche Rechnung.
 
 
 ## § 2 Führung von Nachweisen über die Anwendung durch den Tierhalter
+[Direktlink](https://www.gesetze-im-internet.de/thamnv/BJNR138200015.html#BJNR138200015BJNE000200000)
 
 Jeder, der Tiere hält, die der Gewinnung von Lebensmitteln dienen, hat
 jede durchgeführte Anwendung von Arzneimitteln, die nicht für den
@@ -122,6 +124,7 @@ Form zu enthalten:
 
 
 ## § 3 Führen von Nachweisen bei sonstigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/thamnv/BJNR138200015.html#BJNR138200015BJNE000300000)
 
 (1) Personen, die Arzneimittel berufs- oder gewerbsmäßig bei Tieren
 anwenden, ohne eine Zulassung zum tierärztlichen Beruf zu besitzen,
@@ -145,6 +148,7 @@ Nachweispflicht nach § 1 Absatz 4 unterliegen.
 
 
 ## § 4 Anlagen für die orale Anwendung von bestimmten Arzneimitteln bei Tieren, die der Gewinnung von Lebensmitteln dienen
+[Direktlink](https://www.gesetze-im-internet.de/thamnv/BJNR138200015.html#BJNR138200015BJNE000400000)
 
 (1) Tierhalter dürfen Fertigarzneimittel, die antimikrobielle Stoffe
 enthalten und die zur oralen Anwendung über das Futter oder das Wasser
@@ -157,6 +161,7 @@ nah wie möglich vor der zu behandelnden Tiergruppe installiert sein.
 
 
 ## § 5 Anwendung von bestimmten Arzneimitteln zur oralen Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen
+[Direktlink](https://www.gesetze-im-internet.de/thamnv/BJNR138200015.html#BJNR138200015BJNE000500000)
 
 (1) Tierhalter haben durch geeignete Maßnahmen sicherzustellen, dass
 die in § 4 Absatz 1 genannten Arzneimittel nur bei den zu behandelnden
@@ -168,6 +173,7 @@ Absatz 1 und 2 erfolgen.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/thamnv/BJNR138200015.html#BJNR138200015BJNE000600000)
 
 Ordnungswidrig im Sinne des § 97 Absatz 2 Nummer 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig

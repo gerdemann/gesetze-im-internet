@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000100000)
 
 Auf Grund des § 222 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
 Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom
@@ -29,6 +30,7 @@ Sicherung im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Zulässigkeit der Wohnungsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000200000)
 
 (1) Maßnahmen der Wohnungsfürsorge sind nur zulässig für die
 Bediensteten eines Trägers der Rentenversicherung, die an
@@ -51,6 +53,7 @@ Voraussetzungen nach Absatz 1 zulässig.
 
 
 ## § 2 Umfang der Wohnungsfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000300000)
 
 (1) Wohnungsfürsorge ist auf angemessenen Wohnraum zu beschränken.
 
@@ -68,12 +71,14 @@ vereinbart werden.
 
 
 ## § 3 Beteiligung der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000400000)
 
 Maßnahmen der Wohnungsfürsorge sind im Einvernehmen mit der
 zuständigen Aufsichtsbehörde vorzunehmen.
 
 
 ## § 4 Befristung
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000500000)
 
 Maßnahmen der Wohnungsfürsorge sind nur zulässig, wenn sie bis zum 31.
 Dezember 2008 eingeleitet werden. Dies gilt nicht für die Errichtung,
@@ -83,6 +88,7 @@ Rehabilitationseinrichtungen.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000600000)
 
 Wohnungsfürsorgemaßnahmen, die bis zum 25. April 2005 eingeleitet
 worden sind, bleiben mit Ausnahme der Regelung in § 2 Abs. 3
@@ -90,11 +96,13 @@ unberührt.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rvbedwohnv/BJNR109800005.html#BJNR109800005BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

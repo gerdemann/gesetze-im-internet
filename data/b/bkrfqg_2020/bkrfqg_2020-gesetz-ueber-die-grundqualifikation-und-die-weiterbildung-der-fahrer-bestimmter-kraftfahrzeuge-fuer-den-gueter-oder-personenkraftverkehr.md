@@ -29,9 +29,11 @@ Führerschein (ABl. L 112 vom 2.5.2018, S. 29).
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000200000)
 
 (1) Dieses Gesetz findet Anwendung auf Fahrer, die
 
@@ -189,9 +191,11 @@ ausdrücklich bestimmt.
 
 
 ## Abschnitt 2 - Qualifikation, Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNG000200000)
 
 
 ### § 2 Erwerb der Grundqualifikation und der beschleunigten Grundqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000300000)
 
 (1) Die Grundqualifikation wird erworben durch
 
@@ -230,6 +234,7 @@ zugelassenen Fahrzeugs genügen.
 
 
 ### § 3 Mindestalter und Qualifikation der Fahrer
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000400000)
 
 (1) Fahrten im Güterkraftverkehr darf
 
@@ -336,6 +341,7 @@ tritt eine Kopie des Ausbildungsvertrages. § 10 Absatz 1 Satz 1 Nummer
 
 
 ### § 4 Besitzstand
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000500000)
 
 Die Regelungen zur Erlangung der Grundqualifikation und der
 beschleunigten Grundqualifikation finden keine Anwendung auf Fahrer,
@@ -357,6 +363,7 @@ Die Pflicht zur Weiterbildung bleibt bestehen.
 
 
 ### § 5 Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000600000)
 
 (1) Die erste Weiterbildung ist fünf Jahre nach dem Erwerb der
 Grundqualifikation oder der beschleunigten Grundqualifikation
@@ -393,6 +400,7 @@ bereits erfolgte Weiterbildung anzurechnen.
 
 
 ### § 6 Ausbildungs- und Prüfungsort
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000700000)
 
 Fahrer, die ihren ordentlichen Wohnsitz im Sinne des § 7 der
 Fahrerlaubnis-Verordnung in der Bundesrepublik Deutschland haben oder
@@ -424,6 +432,7 @@ Aufenthaltsgesetzes), müssen
 
 
 ### § 7 Nachweis der Qualifikation
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000801000)
 
 (1) Die nach Landesrecht zuständige Behörde stellt auf Antrag einen
 Fahrerqualifizierungsnachweis aus über
@@ -481,6 +490,7 @@ Güterkraftverkehrsgesetzes durchgeführt werden.
 
 
 ### § 8 Pflicht zum Mitführen des Nachweises
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE000900000)
 
 Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation
 nach § 7 bei jeder Fahrt mitzuführen und den Kontrollberechtigten auf
@@ -488,9 +498,11 @@ Verlangen zur Prüfung auszuhändigen.
 
 
 ## Abschnitt 3 - Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNG000300000)
 
 
 ### § 9 Anerkennung von Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001000000)
 
 (1) Ausbildungsstätten für die beschleunigte Grundqualifikation und
 die Weiterbildung müssen von der nach Landesrecht zuständigen Behörde
@@ -529,6 +541,7 @@ anbieten noch durchführen.
 
 
 ### § 10 Widerruf der Anerkennung, Untersagung der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001100000)
 
 (1) Die nach Landesrecht zuständige Behörde kann die Anerkennung einer
 Ausbildungsstätte widerrufen, wenn durch Handlungen einer
@@ -570,6 +583,7 @@ Anfechtungsklage keine aufschiebende Wirkung.
 
 
 ### § 11 Überwachung anerkannter Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001200000)
 
 (1) Die Überwachung der Tätigkeit der Ausbildungsstätten obliegt der
 nach Landesrecht zuständigen Behörde. Sie kann zu diesem Zweck alle
@@ -620,9 +634,11 @@ löschen.
 
 
 ## Abschnitt 4 - Berufskraftfahrerqualifikationsregister
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNG000402000)
 
 
 ### § 12 Berufskraftfahrerqualifikationsregister
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001301000)
 
 Das Berufskraftfahrerqualifikationsregister ist ein Register zur
 Speicherung von Daten, die erforderlich sind, um feststellen zu
@@ -662,12 +678,14 @@ können,
 
 
 ### § 13 Registerführende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001400000)
 
 Das Kraftfahrt-Bundesamt führt das
 Berufskraftfahrerqualifikationsregister.
 
 
 ### § 14 Inhalt des Berufskraftfahrerqualifikationsregisters
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001500000)
 
 Das Kraftfahrt-Bundesamt ist befugt, zur Führung des
 Berufskraftfahrerqualifikationsregisters folgende Daten zu erheben, zu
@@ -829,6 +847,7 @@ speichern und zu verwenden:
 
 
 ### § 15 Datenübermittlung an den Hersteller des Fahrerqualifizierungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001600000)
 
 Die nach Landesrecht zuständigen Behörden übermitteln dem Hersteller
 im automatisierten Verfahren
@@ -845,6 +864,7 @@ im automatisierten Verfahren
 
 
 ### § 16 Datenerhebung, -speicherung und -verwendung durch den Hersteller des Fahrerqualifizierungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001700000)
 
 (1) Der Hersteller ist ausschließlich zum Nachweis des Verbleibs des
 Fahrerqualifizierungsnachweises befugt, folgende Daten zu erheben, zu
@@ -874,6 +894,7 @@ löschen.
 
 
 ### § 17 Datenübermittlung an das Kraftfahrt-Bundesamt durch den Hersteller des Fahrerqualifizierungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001800000)
 
 Der Hersteller übermittelt nach der Herstellung des
 Fahrerqualifizierungsnachweises dem Kraftfahrt-Bundesamt im
@@ -885,6 +906,7 @@ Fahrerqualifizierungsnachweises übermittelt worden sind.
 
 
 ### § 18 Datenübermittlung an das Kraftfahrt-Bundesamt durch die nach Landesrecht zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE001900000)
 
 (1) Die nach Landesrecht zuständigen Behörden übermitteln dem
 Kraftfahrt-Bundesamt im automatisierten Verfahren unverzüglich die
@@ -924,6 +946,7 @@ Berufsbildungsgesetzes durchführt.
 
 
 ### § 19 Datenübermittlung an das Kraftfahrt-Bundesamt durch die zuständigen Stellen und die Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002000000)
 
 Die für die Prüfungen zuständigen Industrie- und Handelskammern nach §
 1 Absatz 3 und § 2 Absatz 7 der
@@ -936,6 +959,7 @@ einer Änderung einer Eintragung nach § 14 Nummer 2 bis 4 führen.
 
 
 ### § 20 Überwachungsbefugnis des Kraftfahrt-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002100000)
 
 Das Kraftfahrt-Bundesamt ist befugt, außerhalb des
 Berufskraftfahrerqualifikationsregisters die Kontaktdaten der in den
@@ -945,6 +969,7 @@ erheben, zu speichern und zu verwenden, um die Zulässigkeit der
 
 
 ### § 21 Datenübermittlung an inländische Behörden und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002200000)
 
 Die im Berufskraftfahrerqualifikationsregister gespeicherten Daten
 dürfen durch Abruf im automatisierten Verfahren an die Behörden und
@@ -981,6 +1006,7 @@ Satz 1 genannten Aufgaben erforderlich ist.
 
 
 ### § 22 Datenübermittlung an Behörden in den anderen Mitgliedstaaten der Europäischen Union und an Behörden in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002300000)
 
 (1) Die im Berufskraftfahrerqualifikationsregister nach § 14
 gespeicherten Daten dürfen vom Kraftfahrt-Bundesamt an die zuständigen
@@ -1019,6 +1045,7 @@ Interessen des betroffenen Fahrers beeinträchtigt würden.
 
 
 ### § 23 Ausführungsregeln für das automatisierte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002400000)
 
 Das Kraftfahrt-Bundesamt erstellt nach dem jeweiligen Stand der
 Technik Ausführungsregeln für das automatisierte Verfahren zur
@@ -1028,6 +1055,7 @@ betroffenen Verfahrensbeteiligten in geeigneter Form bekannt.
 
 
 ### § 24 Zulässigkeit der Datenübermittlung im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002500000)
 
 (1) Die Einrichtung von Anlagen für die Datenübermittlung im
 automatisierten Verfahren ist nur zulässig, wenn gewährleistet ist,
@@ -1107,6 +1135,7 @@ Abruf verantwortlichen Personen ermöglichen.
 
 
 ### § 25 Auskunftspflicht gegenüber Fahrern
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002600000)
 
 (1) Das Kraftfahrt-Bundesamt erteilt dem Fahrer auf schriftlichen oder
 elektronischen Antrag über den ihn betreffenden Inhalt des
@@ -1122,6 +1151,7 @@ elektronischen Auskunftserteilung gilt § 24 Absatz 3 entsprechend.
 
 
 ### § 26 Löschung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002700000)
 
 (1) Die Daten zu den Fahrerqualifizierungsnachweisen werden sechs
 Jahre nach Ablauf der Gültigkeit des Fahrerqualifizierungsnachweises
@@ -1139,9 +1169,11 @@ Vollendung des 110. Lebensjahres der betroffenen Person zu löschen.
 
 
 ## Abschnitt 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNG000500000)
 
 
 ### § 27 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002801123)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -1199,6 +1231,7 @@ zuständige oberste Landesbehörde übertragen.
 
 
 ### § 28 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE002901123)
 
 (1) Ordnungswidrig handelt, wer entgegen § 3 Absatz 4 eine Fahrt
 anordnet oder zulässt.
@@ -1258,9 +1291,11 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE003001123)
 
 
 ### § 30 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE003101000)
 
 (1) Die bis zum 2. Dezember 2020 nach § 7 Absatz 1 Nummer 1 bis 4 des
 Berufskraftfahrer-Qualifikations-Gesetzes vom 14. August 2006 (BGBl. I
@@ -1319,6 +1354,7 @@ Verlangen zur Prüfung auszuhändigen.
 (zu § 1 Absatz 3 Nummer 2)
 
 ### Anlage Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum
+[Direktlink](https://www.gesetze-im-internet.de/bkrfqg_2020/BJNR257510020.html#BJNR257510020BJNE003200000)
 
 (Fundstelle: BGBl. I 2020, 2585 - 2595)
 

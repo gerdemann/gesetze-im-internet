@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX) Beschluss des Deutschen Bundestages betreffend die Aufhebung der Immunität von Mitgliedern des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_5_bes/BJNR0FA0G0025.html#BJNR0FA0G0025BJNE000100000)
 
 
 1.  Der Deutsche Bundestag genehmigt bis zum Ablauf dieser Wahlperiode die

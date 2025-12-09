@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die zugehörige V v. 20.2.2024 I Nr. 56 (DachdArbbV 12) tritt gem. § 3 dieser V mit Ablauf des 31.12.2025 außer Kraft
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohndachd_12/BJNR0380B0024.html#BJNR0380B0024BJNE000100000)
 
 
 1.  Räumlicher Geltungsbereich
@@ -71,6 +72,7 @@ Stand: Die zugehörige V v. 20.2.2024 I Nr. 56 (DachdArbbV 12) tritt gem. § 3 d
 
 
 ## § 2 Mindestlöhne
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohndachd_12/BJNR0380B0024.html#BJNR0380B0024BJNE000200000)
 
 
 1.  Die Mindestlöhne betragen
@@ -167,6 +169,7 @@ Stand: Die zugehörige V v. 20.2.2024 I Nr. 56 (DachdArbbV 12) tritt gem. § 3 d
 
 
 ## Anhang Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik (RTV) vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 28. Oktober 2022, in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. März 2024 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohndachd_12/BJNR0380B0024.html#BJNR0380B0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 56, S. 5 - 6)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
 
 ## § 1 Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000101311)
 
 (1) Dieses Gesetz regelt die Einreise und den Aufenthalt von
 
@@ -127,6 +128,7 @@ Stand: Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
 
 
 ## § 2 Recht auf Einreise und Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000206311)
 
 (1) Freizügigkeitsberechtigte Unionsbürger und ihre
 Familienangehörigen haben das Recht auf Einreise und Aufenthalt nach
@@ -213,6 +215,7 @@ verliehen worden ist, entsprechend anzuwenden.
 
 
 ## § 2a Visum, Dokumente, Visumverfahren
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE002500311)
 
 (1) Unionsbürger bedürfen für die Einreise keines Visums und für den
 Aufenthalt keines Aufenthaltstitels. Für ihren Aufenthalt von bis zu
@@ -266,6 +269,7 @@ sie Aufenthaltsrechte nach den §§ 2 und 16 dieses Gesetzes haben.
 
 
 ## § 3 Familienangehörige
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000304311)
 
 (1) Familienangehörige der in § 2 Abs. 2 Nr. 1 bis 5 genannten
 Unionsbürger haben das Recht nach § 2 Abs. 1, wenn sie den
@@ -317,6 +321,7 @@ Nr. 5 erfüllen und wenn
 
 
 ## § 3a Aufenthalt nahestehender Personen
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE002101311)
 
 (1) Einer nahestehenden Person eines Unionsbürgers, die selbst nicht
 als Unionsbürger und nicht nach den §§ 3 oder 4
@@ -371,6 +376,7 @@ Anlass des Aufenthalts erforderlich ist.
 
 
 ## § 4 Nicht erwerbstätige Freizügigkeitsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000402311)
 
 Nicht erwerbstätige Unionsbürger und ihre Familienangehörigen, die den
 Unionsbürger begleiten oder ihm nachziehen, haben das Recht nach § 2
@@ -381,6 +387,7 @@ Lebenspartner und seine Kinder, denen Unterhalt gewährt wird.
 
 
 ## § 4a Daueraufenthaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001503311)
 
 (1) Unionsbürger, die sich seit fünf Jahren ständig rechtmäßig im
 Bundesgebiet aufgehalten haben, haben unabhängig vom weiteren
@@ -491,6 +498,7 @@ führt zum Verlust des Daueraufenthaltsrechts.
 
 
 ## § 5 Aufenthaltskarten, Bescheinigung über das Daueraufenthaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000504311)
 
 (1) Freizügigkeitsberechtigten Familienangehörigen, die nicht
 Unionsbürger sind, wird von Amts wegen innerhalb von sechs Monaten,
@@ -536,6 +544,7 @@ findet entsprechende Anwendung.
 
 
 ## § 5a Vorlage von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001603311)
 
 (1) Die zuständige Behörde darf in den Fällen des § 5 Absatz 2 von
 einem Unionsbürger den gültigen Personalausweis oder Reisepass und im
@@ -615,6 +624,7 @@ Nachweise hinaus
 
 
 ## § 6 Verlust des Rechts auf Einreise und Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000605311)
 
 (1) Der Verlust des Rechts nach § 2 Abs. 1 kann unbeschadet des § 2
 Absatz 4 und des § 5 Absatz 4 nur aus Gründen der öffentlichen
@@ -683,6 +693,7 @@ entsprechende Anwendung.
 
 
 ## § 7 Ausreisepflicht
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000705311)
 
 (1) Unionsbürger oder ihre Familienangehörigen sind ausreisepflichtig,
 wenn die Ausländerbehörde festgestellt hat, dass das Recht auf
@@ -720,6 +731,7 @@ von sechs Monaten zu bescheiden.
 
 
 ## § 8 Ausweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000807311)
 
 (1) Die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1
 durch dieses Gesetz geregelt ist, sind verpflichtet,
@@ -772,6 +784,7 @@ oder der Identität des Inhabers zu löschen.
 
 
 ## § 9 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE000902311)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer unrichtige oder unvollständige Angaben macht oder
@@ -791,6 +804,7 @@ können eingezogen werden.
 
 
 ## § 10 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001005377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -823,6 +837,7 @@ bestimmte Bundespolizeibehörde.
 
 
 ## § 11 Anwendung des allgemeinen Aufenthaltsrechts; Ausnahmen von der Anwendung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE002011311)
 
 (1) Auf die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1
 durch dieses Gesetz geregelt ist, finden § 3 Absatz 2, § 11 Absatz 8,
@@ -979,6 +994,7 @@ Jahren entsprechen dem Besitz einer Niederlassungserlaubnis.
 
 
 ## § 11a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001902311)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten
@@ -994,6 +1010,7 @@ Personalausweisgesetzes festzulegen.
 
 
 ## § 12 Staatsangehörige der EWR-Staaten
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001201311)
 
 Die nach diesem Gesetz für Unionsbürger, Familienangehörige von
 Unionsbürgern und nahestehende Personen von Unionsbürgern geltenden
@@ -1003,6 +1020,7 @@ nahestehenden Personen Anwendung.
 
 
 ## § 12a Unionsrechtliches Aufenthaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE002200311)
 
 Auf Familienangehörige und nahestehende Personen von Deutschen, die
 von ihrem Recht auf Freizügigkeit nach Artikel 21 des Vertrages über
@@ -1013,6 +1031,7 @@ entsprechende Anwendung.
 
 
 ## § 13 Staatsangehörige der Beitrittsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001305116)
 
 Soweit nach Maßgabe des Beitrittsvertrages eines Mitgliedstaates zur
 Europäischen Union abweichende Regelungen anzuwenden sind, findet
@@ -1022,6 +1041,7 @@ Sozialgesetzbuch genehmigt wurde.
 
 
 ## § 14 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001703311)
 
 Von den in § 11 Abs. 1 in Verbindung mit § 87 Absatz 1, 2 Satz 1 und
 2, Absatz 4 Satz 1, 3 und 5, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1 und 2
@@ -1033,12 +1053,14 @@ geregelten Aufenthaltsrechten.
 
 
 ## § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE001800310)
 
 Eine vor dem 28. August 2007 ausgestellte Aufenthaltserlaubnis-EU gilt
 als Aufenthaltskarte für Familienangehörige eines Unionsbürgers fort.
 
 
 ## § 16 Rechtsstellung britischer Staatsangehöriger und ihrer Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE002301311)
 
 (1) Das in Teil Zwei Titel II Kapitel 1 des Austrittsabkommens
 vorgesehene Recht auf Einreise und Aufenthalt im Bundesgebiet kann
@@ -1089,6 +1111,7 @@ auf jeden Fall ihre Gültigkeit.
 
 
 ## § 17 Datenübermittlung zur Durchführung der Verordnung (EU) 2017/2226 und der Verordnung (EU) 2018/1240
+[Direktlink](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/BJNR198600004.html#BJNR198600004BJNE002400311)
 
 (1) Die Behörde, die an eine Person, zu der Daten im
 Einreise-/Ausreisesystem nach der Verordnung (EU) 2017/2226 des

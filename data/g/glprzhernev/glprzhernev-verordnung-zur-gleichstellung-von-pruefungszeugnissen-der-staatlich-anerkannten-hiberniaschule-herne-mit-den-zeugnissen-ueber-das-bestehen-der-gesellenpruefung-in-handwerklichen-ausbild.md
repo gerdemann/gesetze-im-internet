@@ -26,6 +26,7 @@ Die v tritt gem. § 3 abs. 1 idf d. art. 1 nr. 2 v v. 20.6.2012 i 1384 mwv 1.10.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzhernev/BJNR148100007.html#BJNR148100007BJNE000101311)
 
 Auf Grund des § 40 Abs. 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S.
@@ -37,6 +38,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/glprzhernev/BJNR148100007.html#BJNR148100007BJNE000202311)
 
 Die vom 1. Oktober 2006 bis zum 30. September 2026 von der staatlich
 anerkannten Hiberniaschule Herne erteilten Prüfungszeugnisse über
@@ -104,6 +106,7 @@ Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
 
 ## § 2 Fortgeltung von Gleichstellungen
+[Direktlink](https://www.gesetze-im-internet.de/glprzhernev/BJNR148100007.html#BJNR148100007BJNE000301311)
 
 Die Gleichstellungen auf Grund der Verordnung zur Gleichstellung von
 Prüfungszeugnissen der staatlich anerkannten Hiberniaschule Herne mit
@@ -113,6 +116,7 @@ die Verordnung vom 4. August 1998 (BGBl. I S. 2086), gelten fort.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glprzhernev/BJNR148100007.html#BJNR148100007BJNE000402311)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
 und am 1. Oktober 2026 außer Kraft.
@@ -121,6 +125,7 @@ und am 1. Oktober 2026 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzhernev/BJNR148100007.html#BJNR148100007BJNE000501311)
 
 Der Bundesrat hat zugestimmt.
 

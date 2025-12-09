@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwganwbek/BJNR032000015.html#BJNR032000015BJNE000100000)
 
 Nach § 14 Absatz 2 des Seeversicherungsnachweisgesetzes vom 4. Juni
 2013 (BGBl. I S. 1471, 1474) in Verbindung mit § 1 Absatz 2 des
@@ -31,6 +32,7 @@ Nairobi von 2007 über die Beseitigung von Wracks (BGBl. 2014 II S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwganwbek/BJNR032000015.html#BJNR032000015BJNE000200000)
 
 Bundesministerium
 für Verkehr und digitale Infrastruktur

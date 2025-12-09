@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt V 51-3-4 v. 18.3.1997 I 558 (SBGWV)
 
 ## Kapitel 1 - Wahl der Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNG000100000)
 
 
 ### § 1 Wahlbereiche
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000201311)
 
 (1) Soldatinnen und Soldaten, die sich in der Grundausbildung
 befinden, wählen Vertrauenspersonen nach § 4 Absatz 3 Nummer 1 des
@@ -44,6 +46,7 @@ wiederkehrende Fälle allgemeine Regelungen treffen.
 
 
 ### § 2 Zuständige Disziplinarvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000300000)
 
 (1) Die Aufgaben und Befugnisse der oder des Disziplinarvorgesetzten
 nach diesem
@@ -59,6 +62,7 @@ erforderlichen Geschäftsbedarf zur Verfügung.
 
 
 ### § 3 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000400000)
 
 (1) Die oder der Disziplinarvorgesetzte bestellt für den Wahlvorstand
 nach § 3 Absatz 2 Satz 1 des Soldatinnen- und
@@ -85,6 +89,7 @@ dokumentiert.
 
 
 ### § 4 Wahltermin
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000500000)
 
 Der Wahlvorstand legt im Einvernehmen mit der oder dem
 Disziplinarvorgesetzten unverzüglich nach seiner Bestellung Zeitpunkt,
@@ -93,6 +98,7 @@ nach Bestellung des Wahlvorstands stattfinden.
 
 
 ### § 5 Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000600000)
 
 (1) Die oder der Disziplinarvorgesetzte stellt dem Wahlvorstand ein
 Verzeichnis der Wahlberechtigten zur Verfügung. Der Wahlvorstand prüft
@@ -117,6 +123,7 @@ allgemein zugänglichen Stellen zur Einsicht auszulegen.
 
 
 ### § 6 Einspruch gegen das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000700000)
 
 (1) Die Wahlberechtigten können gegen das Wählerverzeichnis innerhalb
 einer Woche nach Auslegung Einspruch einlegen. Der Einspruch ist
@@ -135,6 +142,7 @@ berichtigt der Wahlvorstand das Wählerverzeichnis.
 
 
 ### § 7 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000800000)
 
 (1) Mit Erlass des Wahlausschreibens ist die Wahl eingeleitet.
 Ausfertigungen oder Kopien des Wahlausschreibens werden an allgemein
@@ -222,6 +230,7 @@ Wahlausschreibens hat der Wahlvorstand zu berichtigen.
 
 
 ### § 8 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE000900000)
 
 (1) Wahlvorschläge können innerhalb von zwei Wochen nach Aushang des
 Wahlausschreibens eingereicht werden. Jeder Wahlvorschlag muss von
@@ -300,6 +309,7 @@ einzuleiten.
 
 
 ### § 9 Aufstellung und Bekanntgabe der Bewerberliste
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001000000)
 
 (1) Nach Ablauf der letzten Frist für das Einreichen der
 Wahlvorschläge stellt der Wahlvorstand eine Liste der gültig
@@ -313,6 +323,7 @@ worden ist.
 
 
 ### § 10 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001100000)
 
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die
 Wahlberechtigten haben jeweils drei Stimmen. Sie dürfen für jede
@@ -342,6 +353,7 @@ Stimmabgabe im Wählerverzeichnis.
 
 
 ### § 11 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001200000)
 
 (1) Wahlberechtigte, die am Wahltag verhindert sind, ihre Stimme
 persönlich abzugeben, können mittels Briefwahl an der Wahl teilnehmen.
@@ -391,6 +403,7 @@ Briefwahl im Wählerverzeichnis zu vermerken.
 
 
 ### § 12 Wahlbriefe
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001300000)
 
 (1) Die Wahlberechtigten kennzeichnen den Stimmzettel und legen ihn in
 den Stimmzettelumschlag. Der Stimmzettelumschlag darf nur den
@@ -429,6 +442,7 @@ versehen.
 
 
 ### § 13 Auszählung
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001400000)
 
 (1) Der Wahlvorstand zählt unverzüglich nach Abschluss der Wahl die
 Stimmen öffentlich aus.
@@ -463,6 +477,7 @@ Auszählung von der oder dem Vorsitzenden des Wahlvorstands gezogen.
 
 
 ### § 14 Vereinfachtes Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001500000)
 
 (1) Ein vereinfachtes Wahlverfahren ist durchzuführen
 
@@ -487,6 +502,7 @@ Absatz 1 Nummer 1, 3, 5, 6, 12 bis 14.
 
 
 ### § 15 Ablauf des vereinfachten Wahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001600000)
 
 (1) Die oder der Disziplinarvorgesetzte bestellt den Wahlvorstand auf
 Vorschlag der amtierenden Vertrauensperson. Falls keine
@@ -531,6 +547,7 @@ neues Wahlverfahren einzuleiten.
 
 
 ### § 16 Wahlvorgang im vereinfachten Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001700000)
 
 (1) Die Wahlberechtigten haben jeweils eine Stimme.
 
@@ -555,6 +572,7 @@ Aushang ist mit Datumsstempel und Unterschrift zu dokumentieren.
 
 
 ### § 17 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001800000)
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine
 Wahlniederschrift an. Sie enthält
@@ -594,6 +612,7 @@ nach § 13 Absatz 4 Satz 3, sind zu vermerken.
 
 
 ### § 18 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE001900000)
 
 (1) Der Wahlvorstand gibt das Ergebnis der Wahl unverzüglich durch
 einen zweiwöchigen Aushang der Wahlniederschrift an der Stelle
@@ -608,6 +627,7 @@ die Wahl als angenommen.
 
 
 ### § 19 Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002000000)
 
 (1) Zu den Wahlunterlagen sind zu nehmen:
 
@@ -661,12 +681,15 @@ Amtszeit auf und vernichtet sie sodann.
 
 
 ## Kapitel 2 - Wahl der Vertrauenspersonenausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNG000200000)
 
 
 ### Abschnitt 1 - Wahl des Gesamtvertrauenspersonenausschusses
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNG000300000)
 
 
 #### § 20 Wahlvorstände
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002101311)
 
 (1) Der zentrale Wahlvorstand bildet im Einvernehmen mit den
 militärischen Kommandobereichen und Organisationsbereichen dezentrale
@@ -740,6 +763,7 @@ ihrer Mitglieder.
 
 
 #### § 21 Leitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002200000)
 
 (1) Der zentrale Wahlvorstand leitet die Wahl des
 Gesamtvertrauenspersonenausschusses. Die Durchführung der Wahl in den
@@ -759,6 +783,7 @@ Abschluss der Wahl zugänglich sein.
 
 
 #### § 22 Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002300000)
 
 (1) Das Bundesministerium der Verteidigung, die in § 20 Absatz 1
 bezeichneten Stellen sowie die Vorgesetzten unterstützen die
@@ -775,6 +800,7 @@ Durchführung der Wahl von ihrer dienstlichen Tätigkeit freizustellen.
 
 
 #### § 23 Sitzverteilung
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002401311)
 
 (1) Der zentrale Wahlvorstand stellt für jede Laufbahngruppe die Sitze
 im Gesamtvertrauenspersonenausschuss fest, die
@@ -838,12 +864,14 @@ gemeinsamen Wahl ihrer Vertreterinnen und Vertreter zu.
 
 
 #### § 24 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002500000)
 
 Die Wahl der Mitglieder des Gesamtvertrauenspersonenausschusses findet
 als Briefwahl statt.
 
 
 #### § 25 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002601311)
 
 (1) Der zentrale Wahlvorstand erlässt spätestens vier Monate vor der
 Wahl des Gesamtvertrauenspersonenausschusses ein Wahlausschreiben. Das
@@ -912,6 +940,7 @@ zu geben.
 
 
 #### § 26 Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002700000)
 
 (1) Der dezentrale Wahlvorstand stellt ein nach Laufbahngruppen
 untergliedertes Verzeichnis der wahlberechtigten Vertrauenspersonen
@@ -957,6 +986,7 @@ Geheimhaltungsgrades ermächtigt sind.
 
 
 #### § 27 Einspruch gegen das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002800000)
 
 (1) Die Wahlberechtigten können gegen das Wählerverzeichnis Einspruch
 beim dezentralen Wahlvorstand einlegen. Der Einspruch ist schriftlich
@@ -984,6 +1014,7 @@ diesen Einspruchsgrund ausgeschlossen.
 
 
 #### § 28 Bewerbungen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE002901311)
 
 (1) Jede wahlberechtigte Vertrauensperson eines Wahlbereichs, der für
 mindestens drei Monate gebildet wurde, kann sich beim dezentralen
@@ -1041,6 +1072,7 @@ Aufforderung erfolgt über die dezentralen Wahlvorstände.
 
 
 #### § 29 Aufstellung und Bekanntgabe der Bewerberliste
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003001311)
 
 (1) Nach Ablauf der Bewerbungsfrist stellt jeder dezentrale
 Wahlvorstand eine Liste der gültig vorgeschlagenen Bewerberinnen und
@@ -1075,6 +1107,7 @@ das Wahlausschreiben bekannt.
 
 
 #### § 30 Briefwahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003100000)
 
 (1) Jeder dezentrale Wahlvorstand fordert die erforderliche Anzahl von
 Briefwahlunterlagen beim zentralen Wahlvorstand an. Für die
@@ -1128,6 +1161,7 @@ jeden Wahlberechtigten aus
 
 
 #### § 31 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003200000)
 
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die
 Wahlberechtigten haben jeweils eine Stimme.
@@ -1168,6 +1202,7 @@ versehen.
 
 
 #### § 32 Auszählung, Losentscheid
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003300000)
 
 (1) Am Tag nach Ablauf der Frist, die für den Eingang der Wahlbriefe
 beim dezentralen Wahlvorstand festgesetzt ist, öffnen mindestens zwei
@@ -1199,6 +1234,7 @@ oder dem Vorsitzenden des zentralen Wahlvorstands gezogen.
 
 
 #### § 33 Feststellung des Wahlergebnisses, Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003401311)
 
 (1) Das Wahlergebnis wird durch den dezentralen Wahlvorstand
 festgestellt.
@@ -1244,6 +1280,7 @@ und in der Gesamtwahlniederschrift zu vermerken.
 
 
 #### § 34 Benachrichtigung der gewählten Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003500000)
 
 (1) Der zentrale Wahlvorstand benachrichtigt die Bewerberinnen und
 Bewerber, die zu Mitgliedern des Gesamtvertrauenspersonenausschusses
@@ -1256,6 +1293,7 @@ dass es die Wahl ablehnt, so gilt die Wahl als angenommen.
 
 
 #### § 35 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003601311)
 
 (1) Der zentrale Wahlvorstand gibt dem Bundesministerium der
 Verteidigung sowie den Kommandobereichen und Organisationsbereichen
@@ -1271,6 +1309,7 @@ Wahlvorstand zu vermerken.
 
 
 #### § 36 Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003700000)
 
 (1) Zu den Wahlunterlagen sind zu nehmen:
 
@@ -1324,9 +1363,11 @@ bis zum Ende seiner Amtszeit auf und vernichtet sie sodann.
 
 
 ### Abschnitt 2 - Wahl der Vertrauenspersonenausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNG000401311)
 
 
 #### § 37 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003801311)
 
 (1) Neben dem Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen-
 und Soldatenbeteiligungsgesetzes können im Einvernehmen zwischen dem
@@ -1355,6 +1396,7 @@ seiner Mitglieder.
 
 
 #### § 38 Leitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE003901311)
 
 (1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der
 zentrale Wahlvorstand, leitet die Wahl der
@@ -1370,6 +1412,7 @@ sein.
 
 
 #### § 39 Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004001311)
 
 (1) Das jeweilige Kommando im Sinne des § 39 Absatz 1 des Soldatinnen-
 und Soldatenbeteiligungsgesetzes, die Stellen, bei denen weitere
@@ -1383,6 +1426,7 @@ Schulungsmaßnahmen auf ihre Aufgaben vorzubereiten.
 
 
 #### § 40 Sitzverteilung
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004101311)
 
 (1) Der Wahlvorstand stellt auf der Grundlage von § 39 Absatz 1 des
 Soldatinnen- und Soldatenbeteiligungsgesetzes die auf die
@@ -1402,12 +1446,14 @@ Bestellung des Wahlvorstands.
 
 
 #### § 41 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004200000)
 
 Die Wahl der Mitglieder der Vertrauenspersonenausschüsse findet als
 Briefwahl statt.
 
 
 #### § 42 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004230000)
 
 (1) Der Wahlvorstand gibt spätestens drei Monate vor der Wahl des
 Vertrauenspersonenausschusses ein Wahlausschreiben bekannt. Das
@@ -1469,6 +1515,7 @@ Dienststellen bekannt zu geben.
 
 
 #### § 43 Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004400000)
 
 (1) Der Wahlvorstand stellt ein nach Laufbahngruppen untergliedertes
 Verzeichnis der wahlberechtigten Vertrauenspersonen seines
@@ -1515,6 +1562,7 @@ Geheimhaltungsgrades ermächtigt sind.
 
 
 #### § 44 Einspruch gegen das Wählerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004500000)
 
 (1) Die Wahlberechtigten können gegen das Wählerverzeichnis Einspruch
 beim Wahlvorstand einlegen. Der Einspruch ist schriftlich innerhalb
@@ -1541,6 +1589,7 @@ diesen Einspruchsgrund ausgeschlossen.
 
 
 #### § 45 Bewerbungen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004601311)
 
 (1) Jede wahlberechtigte Vertrauensperson eines Wahlbereichs, der für
 mindestens drei Monate im jeweiligen Kommandobereich im Sinne des § 39
@@ -1595,6 +1644,7 @@ Wochen zu bewerben.
 
 
 #### § 46 Aufstellung und Bekanntgabe der Bewerberliste
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004700000)
 
 (1) Nach Ablauf der Bewerbungsfrist stellt der Wahlvorstand eine Liste
 der gültig vorgeschlagenen Bewerberinnen und Bewerber in
@@ -1617,6 +1667,7 @@ Sitzverteilung auf dieselbe Weise wie das Wahlausschreiben bekannt.
 
 
 #### § 47 Briefwahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004800000)
 
 (1) Der Wahlvorstand erstellt anhand der Bewerberliste die
 Stimmzettel, getrennt nach Wahlgängen. Die Bewerberinnen und Bewerber
@@ -1661,6 +1712,7 @@ Satz 1 aufzuführen.
 
 
 #### § 48 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE004900000)
 
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die
 Wahlberechtigten haben jeweils eine Stimme.
@@ -1702,6 +1754,7 @@ versehen.
 
 
 #### § 49 Auszählung, Losentscheid
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE005000000)
 
 (1) Am Tag nach Ablauf der Frist, die für den Eingang der Wahlbriefe
 beim Wahlvorstand festgesetzt ist, öffnen mindestens zwei Mitglieder
@@ -1733,6 +1786,7 @@ oder dem Vorsitzenden des Wahlvorstands gezogen.
 
 
 #### § 50 Feststellung des Wahlergebnisses, Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE005100000)
 
 (1) Das Wahlergebnis wird durch den Wahlvorstand festgestellt.
 
@@ -1773,6 +1827,7 @@ zu vermerken.
 
 
 #### § 51 Benachrichtigung der gewählten Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE005200000)
 
 (1) Der Wahlvorstand benachrichtigt die Bewerberinnen und Bewerber,
 die zu Mitgliedern des Vertrauenspersonenausschusses gewählt worden
@@ -1785,6 +1840,7 @@ die Wahl ablehnt, gilt die Wahl als angenommen.
 
 
 #### § 52 Bekanntgabe des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE005301311)
 
 (1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der
 zentrale Wahlvorstand, übermittelt dem Kommando im Sinne des § 39
@@ -1802,6 +1858,7 @@ Wahlunterlagen zu vermerken.
 
 
 #### § 53 Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE005400000)
 
 (1) Zu den Wahlunterlagen sind zu nehmen:
 
@@ -1855,9 +1912,11 @@ Ende seiner Amtszeit auf und vernichtet sie sodann.
 
 
 ## Kapitel 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNG000500000)
 
 
 ### § 54 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sbgwv_2017/BJNR150610017.html#BJNR150610017BJNE005500000)
 
 Für Wahlen, zu deren Durchführung der Wahlvorstand vor dem 14. Juni
 2017 bestellt worden ist, ist diese Verordnung in der bis dahin

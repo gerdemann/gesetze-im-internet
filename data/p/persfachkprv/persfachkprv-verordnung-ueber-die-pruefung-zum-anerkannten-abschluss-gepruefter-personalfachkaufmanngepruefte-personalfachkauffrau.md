@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE001000000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 4 der
@@ -33,6 +34,7 @@ und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000101128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften
@@ -60,6 +62,7 @@ Geprüfter Personalfachkaufmann/ Geprüfte Personalfachkauffrau.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000202308)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -100,6 +103,7 @@ hat, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000301128)
 
 (1) Die Prüfung gliedert sich in folgende Handlungsbereiche:
 
@@ -157,6 +161,7 @@ der verbleibenden Zeit ein Prüfungsgespräch.
 
 
 ## § 4 Anforderungen und Inhalte der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000401128)
 
 (1) Im Handlungsbereich "Personalarbeit organisieren und durchführen"
 soll die zu prüfende Person nachweisen, dass sie die Personalarbeit
@@ -299,6 +304,7 @@ personenorientiert einzusetzen versteht.
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000502128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -310,6 +316,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000601128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -322,6 +329,7 @@ bewerten.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE001300128)
 
 (1) Die Prüfung ist bestanden, wenn in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -354,6 +362,7 @@ Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE001400128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -380,6 +389,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000701128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -395,18 +405,21 @@ wiederholen. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000802128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE000901128)
 
 Diese Verordnung tritt am 1. Juni 2002 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE001104128)
 
 (Fundstelle: BGBl. I 2019, 2231 - 2232)
 
@@ -708,6 +721,7 @@ Diese Verordnung tritt am 1. Juni 2002 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/persfachkprv/BJNR093000002.html#BJNR093000002BJNE001204128)
 
 (Fundstelle: BGBl. I 2019, 2233)
 

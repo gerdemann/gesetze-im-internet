@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-01-24/BJNR006500007.html#BJNR006500007BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung des 50.
@@ -49,11 +50,13 @@ Der Entwurf der Münze stammt von Herrn Carsten Mahn, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-01-24/BJNR006500007.html#BJNR006500007BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-01-24/BJNR006500007.html#BJNR006500007BJNE000300000)
 
 (Fundstelle: BGBl. I 2007, 65)
 ![bgbl1_2007_j0065_0010.jpg](bgbl1_2007_j0065_0010.jpg)

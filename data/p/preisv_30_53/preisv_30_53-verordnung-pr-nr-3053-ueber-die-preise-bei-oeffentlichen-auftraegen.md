@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000100325)
 
 Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen
 Auftragswesens verstärkt durchzusetzen, wird auf Grund des § 2 des
@@ -33,6 +34,7 @@ Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar 1952
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000200325)
 
 (1) Für Leistungen auf Grund öffentlicher Aufträge ist bei der
 Vereinbarung von Preisen grundsätzlich Marktpreisen gemäß § 4 vor
@@ -49,6 +51,7 @@ ist.
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000304123)
 
 (1) Öffentliche Aufträge im Sinne dieser Verordnung sind die Aufträge
 des Bundes, der Länder, der Gemeinden und Gemeindeverbände und der
@@ -97,12 +100,14 @@ stellen keine Bauleistungen dar.
 
 
 ## § 3 Geltung der Preisvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000400325)
 
 Öffentliche Aufträge unterliegen den allgemeinen und besonderen
 Preisvorschriften.
 
 
 ## § 4 Preise für marktgängige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000501123)
 
 (1) Für marktgängige Leistungen dürfen die im Verkehr üblichen
 preisrechtlich zulässigen Preise nicht überschritten werden.
@@ -143,6 +148,7 @@ vorliegenden besonderen Verhältnisse kostenmäßig rechtfertigen.
 
 
 ## § 5 Selbstkostenpreise
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000603123)
 
 (1) Selbstkostenpreise müssen auf die angemessenen Kosten des
 Auftragnehmers abgestellt werden, sie dürfen nur ausnahmsweise
@@ -203,6 +209,7 @@ betreffende Leistung Preise gemäß § 4 vereinbart werden können.
 
 
 ## § 6 Selbstkostenfestpreise und Selbstkostenrichtpreise
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000700325)
 
 (1) Selbstkostenpreise sind möglichst als Selbstkostenfestpreise zu
 vereinbaren.
@@ -220,6 +227,7 @@ umzuwandeln.
 
 
 ## § 7 Selbstkostenerstattungspreise
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000800325)
 
 (1) Selbstkostenerstattungspreise dürfen nur vereinbart werden, wenn
 eine andere Preisermittlung nicht möglich ist. Die Höhe der
@@ -232,6 +240,7 @@ daß für einzelne Kalkulationsbereiche feste Sätze gelten.
 
 
 ## § 8 Ermittlung der Selbstkostenpreise
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE000900325)
 
 Werden Selbstkostenpreise (§§ 5 bis 7) vereinbart, so sind die als
 Anlage beigefügten Leitsätze für die Preisermittlung auf Grund von
@@ -239,6 +248,7 @@ Selbstkosten anzuwenden.
 
 
 ## § 9 Prüfung der Preise
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE001001123)
 
 (1) Der Auftragnehmer hat den für die Preisbildung und
 Preisüberwachung zuständigen Behörden das Zustandekommen des Preises
@@ -287,6 +297,7 @@ die betroffenen Kostenpositionen des Auftragnehmers mit Null ansetzen.
 
 
 ## § 10 Feststellung der Angemessenheit von Selbstkostenpreisen durch öffentliche Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE001103123)
 
 (1) Der öffentliche Auftraggeber ist, sofern das Bundesministerium für
 Wirtschaft und Energie ihn hierzu allgemein oder im Einzelfall
@@ -320,6 +331,7 @@ fest.
 
 
 ## § 11 Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE001200325)
 
 Zuwiderhandlungen gegen die Bestimmungen dieser Verordnung werden nach
 den Strafbestimmungen des Gesetzes zur Vereinfachung des
@@ -330,6 +342,7 @@ Wirtschaftsstrafrechts (Wirtschaftsstrafgesetz) vom 26. Juli 1949
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE001302123)
 
 (1) Diese Verordnung tritt am 1. Januar 1954 in Kraft.
 
@@ -343,11 +356,13 @@ anzuwenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE001400325)
 
 Der Bundesminister für Wirtschaft
 
 
 ## Anlage Leitsätze für die Preisermittlung auf Grund von Selbstkosten
+[Direktlink](https://www.gesetze-im-internet.de/preisv_30_53/BJNR524410953.html#BJNR524410953BJNE001500308)
 
 Text siehe: PreisLS
 

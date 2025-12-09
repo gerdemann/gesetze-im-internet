@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv1998dv_2_2018/BJNR631900018.html#BJNR631900018BJNE000100000)
 
 Auf Grund des § 32 Absatz 3 Satz 3 und Absatz 4 Nummer 1 des
 Luftverkehrsgesetzes, von denen Absatz 3 Satz 3 und Absatz 4 Satzteil
@@ -33,6 +34,7 @@ Bundesamt:
 
 
 ## § 1 Lufttüchtigkeitsforderungen (Bauvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv1998dv_2_2018/BJNR631900018.html#BJNR631900018BJNE000204119)
 
 (1) Zur Prüfung der Lufttüchtigkeit nach § 9 Absatz 1 der Verordnung
 zur Prüfung von Luftfahrtgerät sind
@@ -173,12 +175,14 @@ anzuwenden.
 
 
 ## § 1a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv1998dv_2_2018/BJNR631900018.html#BJNR631900018BJNE000401119)
 
 § 1 Absatz 2 Nummer 3 in der bis zum 15. Oktober 2024 geltenden
 Fassung ist bis zum 1. Februar 2025 weiter anzuwenden.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftgerpv1998dv_2_2018/BJNR631900018.html#BJNR631900018BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung im Bundesanzeiger in
 Kraft. Gleichzeitig tritt die Zweite Durchführungsverordnung zur

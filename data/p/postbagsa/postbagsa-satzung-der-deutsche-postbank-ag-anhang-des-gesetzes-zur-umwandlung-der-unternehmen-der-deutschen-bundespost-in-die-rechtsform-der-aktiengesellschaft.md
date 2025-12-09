@@ -19,10 +19,12 @@ Fundstelle
 
 
 ## I. - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG000100000)
 
 
 
 ### § 1 Firma, Sitz und Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE000200000)
 
 (1) Die Aktiengesellschaft - nachstehend "Gesellschaft" genannt -
 führt die Firma Deutsche Postbank AG. (2) Sie hat ihren Sitz in Bonn.
@@ -31,6 +33,7 @@ führt die Firma Deutsche Postbank AG. (2) Sie hat ihren Sitz in Bonn.
 
 
 ### § 2 Gegenstand des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE000300000)
 
 (1) Die Gesellschaft ist ein Kreditinstitut im Sinne des § 1 Abs. 1
 Satz 1 des Gesetzes über das Kreditwesen und kann die damit
@@ -46,6 +49,7 @@ verbundene Unternehmen ausgliedern.
 
 
 ### § 3 Beauftragung der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE000400000)
 
 Die Gesellschaft läßt Angelegenheiten im Sinne des § 3 Abs. 2 des
 Bundesanstalt Post-Gesetzes durch die Bundesanstalt für Post und
@@ -55,16 +59,19 @@ Bundesanstalt.
 
 
 ### § 4 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE000500000)
 
 Die Bekanntmachungen der Gesellschaft werden im Bundesanzeiger
 veröffentlicht.
 
 
 ## II. - Grundkapital und Aktien
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG000600000)
 
 
 
 ### § 5 Höhe und Einteilung des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE000700000)
 
 (1) Das Grundkapital der Gesellschaft beträgt achthundert Millionen
 Deutsche Mark. Es ist eingeteilt in sechzehn Millionen Aktien im
@@ -85,10 +92,12 @@ abweichend von § 60 des Aktiengesetzes bestimmt werden.
 
 
 ## III. - Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG000800000)
 
 
 
 ### § 6 Zusammensetzung und Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE000900000)
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Im übrigen
 bestimmt der Aufsichtsrat die Zahl der Mitglieder des Vorstands.
@@ -111,6 +120,7 @@ Aufsichtsrats bedarf.
 
 
 ### § 7 Vertretung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001000000)
 
 Die Gesellschaft wird gesetzlich vertreten durch zwei Mitglieder des
 Vorstands oder durch ein Mitglied des Vorstands in Gemeinschaft mit
@@ -120,12 +130,14 @@ gleich.
 
 
 ### § 8 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001100000)
 
 Der Vorstand führt die Geschäfte unter Beachtung der Geschäftsordnung
 und des vom Aufsichtsrat gebilligten Geschäftsverteilungsplans.
 
 
 ### § 9 Zustimmungspflichtige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001200000)
 
 (1) Die Geschäftsordnung des Aufsichtsrats bestimmt, welche Geschäfte
 der Vorstand nur mit vorheriger Zustimmung des Aufsichtsrats vornehmen
@@ -139,10 +151,12 @@ erteilen.
 
 
 ## IV. - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG001300000)
 
 
 
 ### § 10 Zusammensetzung, Amtsdauer, Amtsniederlegung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001400000)
 
 (1) Der Aufsichtsrat besteht aus zwanzig Mitgliedern, und zwar zehn
 Aufsichtsratsmitgliedern der Aktionäre und zehn
@@ -178,6 +192,7 @@ Frist von vier Wochen niederlegen.
 
 
 ### § 11 Vorsitzender und Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001500000)
 
 (1) Der Aufsichtsrat wählt nach Maßgabe des § 27 Abs. 1 und 2 des
 Mitbestimmungsgesetzes aus seiner Mitte einen Vorsitzenden und einen
@@ -199,6 +214,7 @@ der Mehrheit der abgegebenen Stimmen gewähltes Mitglied angehören.
 
 
 ### § 12 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001600000)
 
 Im Rahmen der zwingenden gesetzlichen Vorschriften und der
 Bestimmungen dieser Satzung gibt sich der Aufsichtsrat eine
@@ -206,6 +222,7 @@ Geschäftsordnung.
 
 
 ### § 13 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001700000)
 
 (1) Aufsichtsratssitzungen werden vom Vorsitzenden oder im Falle
 seiner Verhinderung von seinem Stellvertreter unter Einhaltung einer
@@ -228,6 +245,7 @@ Mehrheitsentscheidung des Aufsichtsrats.
 
 
 ### § 14 Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001800000)
 
 (1) Beschlüsse des Aufsichtsrats werden in der Regel in Sitzungen
 gefaßt. Der Vorsitzende bestimmt die Reihenfolge, in der die
@@ -283,6 +301,7 @@ Aufsichtsrat entgegenzunehmen.
 
 
 ### § 15 Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE001900000)
 
 (1) Der Aufsichtsrat bestellt aus seiner Mitte - neben dem in § 11
 Abs. 2 bezeichneten Ausschuß - einen Personalausschuß und einen
@@ -301,6 +320,7 @@ durch ein Aufsichtsratsmitglied der Aktionäre geführt.
 
 
 ### § 16 Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002000000)
 
 Die Mitglieder des Aufsichtsrats haben - auch nach dem Ausscheiden aus
 dem Amt - über vertrauliche Angaben und Geheimnisse der Gesellschaft,
@@ -309,6 +329,7 @@ Tätigkeit im Aufsichtsrat bekannt werden, Stillschweigen zu bewahren.
 
 
 ### § 17 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002100000)
 
 (1) Die Mitglieder des Aufsichtsrats erhalten außer dem Ersatz ihrer
 Auslagen eine feste nach Ablauf des Geschäftsjahres zahlbare jährliche
@@ -324,10 +345,12 @@ von der Gesellschaft erstattet.
 
 
 ## V. - Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG002200000)
 
 
 
 ### § 18 Ort und Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002300000)
 
 (1) Die Hauptversammlung findet am Sitz der Gesellschaft oder an einem
 deutschen Börsenplatz statt.
@@ -339,6 +362,7 @@ Hinterlegungstag nicht mitgerechnet.
 
 
 ### § 19 Teilnahmerecht und Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002400000)
 
 (1) Zur Teilnahme an der Hauptversammlung und zur Ausübung des
 Stimmrechts in der Hauptversammlung sind diejenigen Aktionäre
@@ -364,6 +388,7 @@ der Hinterlegungsfrist bei der Gesellschaft einzureichen.
 
 
 ### § 20 Vorsitz in der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002500000)
 
 (1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende des
 Aufsichtsrats oder ein von ihm bestimmtes anderes
@@ -379,6 +404,7 @@ werden, sowie die Art und Reihenfolge der Abstimmungen.
 
 
 ### § 21 Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002600000)
 
 (1) Je fünfzig Deutsche Mark Nennbetrag der Stammaktien gewähren in
 der Hauptversammlung eine Stimme.
@@ -391,10 +417,12 @@ Beschlußfassung vertretenen Grundkapitals gefaßt.
 
 
 ## VI. - Jahresabschluß und Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG002700000)
 
 
 
 ### § 22 Jahresabschluß und ordentliche Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE002800000)
 
 (1) Der Vorstand hat in den ersten drei Monaten des Geschäftsjahres
 den Jahresabschluß und den Lagebericht für das vergangene Jahr
@@ -423,20 +451,24 @@ Hauptversammlung nicht eine andere Verwendung beschließt.
 
 
 ## VII. - Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG002900000)
 
 
 
 ### § 23 Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE003000000)
 
 Der Bundesrechnungshof hat die Befugnisse nach § 54 des
 Haushaltsgrundsätzegesetzes.
 
 
 ## VIII. - Geschäftsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNG003100000)
 
 
 
 ### § 24 Geschäftsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/postbagsa/BJNR234600994.html#BJNR234600994BJNE003200000)
 
 Die Geschäfte der Deutsche Postbank AG werden am 1. Januar 1995
 aufgenommen. Ab diesem Zeitpunkt gelten die Handlungen der Deutschen

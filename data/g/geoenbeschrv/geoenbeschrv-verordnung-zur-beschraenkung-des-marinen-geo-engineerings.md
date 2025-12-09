@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000100000)
 
 Auf Grund des § 9 Satz 1 Nummer 1 in Verbindung mit Satz 3 des Hohe-
 See-Einbringungsgesetzes in Verbindung mit § 1 Absatz 2 des
@@ -33,6 +34,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000200000)
 
 Diese Verordnung regelt das Verfahren zur Erteilung von Erlaubnissen
 nach § 5 Absatz 1 des Hohe-See-Einbringungsgesetzes für das Einbringen
@@ -42,6 +44,7 @@ Erteilung der Erlaubnisse.
 
 
 ## § 2 Frühe Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000300000)
 
 (1) Die zuständige Behörde wirkt darauf hin, dass der Träger von
 Maßnahmen nach § 1 die Öffentlichkeit frühzeitig unterrichtet (frühe
@@ -70,6 +73,7 @@ Antragstellung mit.
 
 
 ## § 3 Form und Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000400000)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis ist schriftlich oder
 elektronisch bei der zuständigen Behörde zu stellen.
@@ -161,6 +165,7 @@ elektronisch bei der zuständigen Behörde zu stellen.
 
 
 ## § 4 Prüfung des Antrags, öffentliche Bekanntmachung und Auslegung
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000500000)
 
 (1) Die zuständige Behörde hat nach Eingang des Antrags unverzüglich
 zu prüfen, ob der Antrag den Anforderungen nach § 3 entspricht.
@@ -179,6 +184,7 @@ Bekanntmachung drei Monate zur Einsicht auszulegen.
 
 
 ## § 5 Beteiligung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000600000)
 
 Die zuständige Behörde fordert die Behörden, deren Zuständigkeit durch
 die geplanten Maßnahmen berührt wird, auf, innerhalb einer Frist von
@@ -188,6 +194,7 @@ Unterlagen nach § 3.
 
 
 ## § 6 Vorhaben mit grenzüberschreitenden Umweltauswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000700000)
 
 (1) Sind von den Maßnahmen nach § 1 nachteilige Umweltauswirkungen auf
 das Hoheitsgebiet eines anderen Staates zu erwarten, so unterrichtet
@@ -244,6 +251,7 @@ betroffenen Staates beifügen.
 
 
 ## § 7 Einwendungen, Erörterungstermin
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000800000)
 
 (1) Innerhalb von drei Monaten nach Ablauf der Auslegungsfrist kann
 die Öffentlichkeit schriftlich oder elektronisch bei der zuständigen
@@ -264,6 +272,7 @@ geändert worden ist, entsprechend.
 
 
 ## § 8 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE000900000)
 
 Die Entscheidung über die Erlaubniserteilung sowie die Gründe für die
 Entscheidung sind von der zuständigen Behörde öffentlich bekannt zu
@@ -271,11 +280,13 @@ machen.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ge_nbeschrv/BJNR146700019.html#BJNR146700019BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

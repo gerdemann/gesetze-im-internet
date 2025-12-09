@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000100000)
 
 Auf Grund des § 68 Absatz 5 des Einkommensteuergesetzes, der durch
 Artikel 9 Nummer 8 Buchstabe b des Gesetzes vom 11. Juli 2019 (BGBl. I
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000200000)
 
 Diese Verordnung gilt für den automatisierten Abruf von Daten durch
 die Stellen der Familienkasse der Bundesagentur für Arbeit, die für
@@ -44,6 +46,7 @@ sind (KiZ-Stellen). Daten nach Satz 1 sind Daten,
 
 
 ## § 2 Abrufberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000300000)
 
 (1) Der automatisierte Abruf von Daten nach § 1 bedarf einer
 Abrufberechtigung. Eine Abrufberechtigung wird Personen erteilt, die
@@ -61,6 +64,7 @@ erforderlich sind.
 
 
 ## § 3 Verfahren des Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000400000)
 
 (1) Beschäftigte, denen eine Abrufberechtigung nach § 2 Absatz 1
 erteilt worden ist, haben für jeden Datenabruf folgende Angaben zu dem
@@ -193,6 +197,7 @@ Technik entsprechen muss.
 
 
 ## § 4 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000500000)
 
 (1) Die am automatisierten Abrufverfahren beteiligte KG-Stelle teilt
 der KiZ-Stelle mit,
@@ -210,6 +215,7 @@ Absatz 2.
 
 
 ## § 5 Prüfungs- und Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000600000)
 
 Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von
 Datenschutz und Datensicherheit beim Abrufverfahren sind § 2 Absatz 1
@@ -218,11 +224,13 @@ anzuwenden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kizdav/BJNR1780A0023.html#BJNR1780A0023BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

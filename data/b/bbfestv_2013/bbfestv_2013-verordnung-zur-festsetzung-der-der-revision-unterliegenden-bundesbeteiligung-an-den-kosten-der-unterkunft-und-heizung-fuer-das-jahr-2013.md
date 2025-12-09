@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2013/BJNR327600013.html#BJNR327600013BJNE000100000)
 
 Auf Grund des § 46 Absatz 7 Satz 1 des Zweiten Buches Sozialgesetzbuch
 – Grundsicherung für Arbeitsuchende – in der Fassung der
@@ -26,6 +27,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung des Wertes nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch bis zum Jahr 2014
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2013/BJNR327600013.html#BJNR327600013BJNE000200000)
 
 Der Wert nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch
 wird rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie für das
@@ -54,11 +56,13 @@ rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie für das Jahr
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2013/BJNR327600013.html#BJNR327600013BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2013/BJNR327600013.html#BJNR327600013BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

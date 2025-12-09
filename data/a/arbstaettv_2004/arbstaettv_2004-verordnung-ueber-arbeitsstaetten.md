@@ -46,6 +46,7 @@ Diese Verordnung dient der Umsetzung
 
 
 ## § 1 Ziel, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000207128)
 
 (1) Diese Verordnung dient der Sicherheit und dem Schutz der
 Gesundheit der Beschäftigten beim Einrichten und Betreiben von
@@ -137,6 +138,7 @@ gewährleistet werden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000302128)
 
 (1) Arbeitsstätten sind:
 
@@ -266,6 +268,7 @@ Teilnahme an Schulungen auf aktuellem Stand zu halten.
 
 
 ## § 3 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE001101118)
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des
 Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob
@@ -296,6 +299,7 @@ Maßnahmen nach Absatz 1 Satz 4 durchgeführt werden müssen.
 
 
 ## § 3a Einrichten und Betreiben von Arbeitsstätten
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000404118)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass Arbeitsstätten so
 eingerichtet und betrieben werden, dass Gefährdungen für die
@@ -345,6 +349,7 @@ Anforderungen dieser Verordnung hinausgehen.
 
 
 ## § 4 Besondere Anforderungen an das Betreiben von Arbeitsstätten
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000501118)
 
 (1) Der Arbeitgeber hat die Arbeitsstätte instand zu halten und dafür
 zu sorgen, dass festgestellte Mängel unverzüglich beseitigt werden.
@@ -380,6 +385,7 @@ Verwendungsfähigkeit prüfen zu lassen.
 
 
 ## § 5 Nichtraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000603123)
 
 (1) Der Arbeitgeber hat die erforderlichen Maßnahmen zu treffen, damit
 die nicht rauchenden Beschäftigten in Arbeitsstätten wirksam vor den
@@ -397,6 +403,7 @@ rauchenden Beschäftigten zu treffen.
 
 
 ## § 6 Unterweisung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000702118)
 
 (1) Der Arbeitgeber hat den Beschäftigten ausreichende und angemessene
 Informationen anhand der Gefährdungsbeurteilung in einer für die
@@ -454,6 +461,7 @@ zusätzlichen Gefährdungen verbunden ist.
 
 
 ## § 7 Ausschuss für Arbeitsstätten
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000805118)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Arbeitsstätten gebildet, in dem fachkundige Vertreter der
@@ -517,6 +525,7 @@ Arbeitsschutz und Arbeitsmedizin.
 
 
 ## § 8 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE000903118)
 
 (1) Soweit für Arbeitsstätten,
 
@@ -557,6 +566,7 @@ Ministerialblatt neu bekannt gemacht worden sind.
 
 
 ## § 9 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE001202128)
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -623,6 +633,7 @@ Nummer 2 des Arbeitsschutzgesetzes strafbar.
 Anforderungen und Maßnahmen für Arbeitsstätten nach § 3 Absatz 1
 
 ## Anhang Inhaltsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/arbst_ttv_2004/BJNR217910004.html#BJNR217910004BJNE001003128)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2182 - 2188;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -21,10 +21,12 @@ Zuletzt geändert durch
 Voraussetzungen der Todeserklärung.
 
 ## Abschnitt I - Lebens- und Todesvermutungen
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNG000100303)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE000700303)
 
 (1) Verschollen ist, wessen Aufenthalt während längerer Zeit unbekannt
 ist, ohne daß Nachrichten darüber vorliegen, ob er in dieser Zeit noch
@@ -36,12 +38,14 @@ zweifelhaft ist.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE000800303)
 
 Ein Verschollener kann unter den Voraussetzungen der §§ 3 bis 7 im
 Aufgebotsverfahren für tot erklärt werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE000900303)
 
 (1) Die Todeserklärung ist zulässig, wenn seit dem Ende des Jahres, in
 dem der Verschollene nach den vorhandenen Nachrichten noch gelebt hat,
@@ -54,6 +58,7 @@ nicht für tot erklärt werden.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001000303)
 
 (1) Wer als Angehöriger einer bewaffneten Macht an einem Kriege oder
 einem kriegsähnlichen Unternehmen teilgenommen hat, während dieser
@@ -73,6 +78,7 @@ ihr aufgehalten hat.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001100303)
 
 (1) Wer bei einer Fahrt auf See, insbesondere infolge Untergangs des
 Schiffes, verschollen ist, kann für tot erklärt werden, wenn seit dem
@@ -91,6 +97,7 @@ Gründen anzunehmen ist, daß das Schiff schon früher untergegangen ist.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001200303)
 
 Wer bei einem Fluge, insbesondere infolge Zerstörung des
 Luftfahrzeugs, verschollen ist, kann für tot erklärt werden, wenn seit
@@ -102,6 +109,7 @@ Monate verstrichen sind.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001300303)
 
 Wer unter anderen als den in den §§ 4 bis 6 bezeichneten Umständen in
 eine Lebensgefahr gekommen und seitdem verschollen ist, kann für tot
@@ -111,12 +119,14 @@ ein Jahr verstrichen ist.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001400303)
 
 Liegen bei einem Verschollenen die Voraussetzungen sowohl des § 4 als
 auch der §§ 5 oder 6 vor, so ist nur der § 4 anzuwenden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001501377)
 
 (1) Die Todeserklärung begründet die Vermutung, daß der Verschollene
 in dem im Beschluß festgestellten Zeitpunkt gestorben ist. Dies gilt
@@ -159,6 +169,7 @@ des Tages als Zeitpunkt des Todes.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001600303)
 
 Solange ein Verschollener nicht für tot erklärt ist, wird vermutet,
 daß er bis zu dem in § 9 Abs. 3, 4 genannten Zeitpunkt weiter lebt
@@ -166,6 +177,7 @@ oder gelebt hat.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001700303)
 
 Kann nicht bewiesen werden, daß von mehreren gestorbenen oder für tot
 erklärten Menschen der eine den anderen überlebt hat, so wird
@@ -173,10 +185,12 @@ vermutet, daß sie gleichzeitig gestorben sind.
 
 
 ## Abschnitt II - Zwischenstaatliches Recht
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNG000200303)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001801309)
 
 (1) Für Todeserklärungen und Verfahren bei Feststellung der Todeszeit
 sind die deutschen Gerichte zuständig, wenn der Verschollene oder der
@@ -200,10 +214,12 @@ ausschließlich.
 
 
 ## Abschnitt III - Verfahren bei Todeserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNG000300303)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE001900303)
 
 (1) Das Aufgebotsverfahren nach § 2 ist eine Angelegenheit der
 freiwilligen Gerichtsbarkeit.
@@ -212,11 +228,13 @@ freiwilligen Gerichtsbarkeit.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002000303)
 
 Für das Aufgebotsverfahren sind die Amtsgerichte sachlich zuständig.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002100303)
 
 (1) Örtlich zuständig ist das Gericht, in dessen Bezirk der
 Verschollene seinen letzten inländischen Wohnsitz oder in Ermangelung
@@ -231,6 +249,7 @@ wichtigem Grund an ein anderes Gericht abgeben.
 
 
 ### § 15a
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002200303)
 
 (1) Ist ein Gerichtsstand nach § 15 nicht begründet oder wird am Sitze
 des nach § 15 zuständigen Gerichts eine deutsche Gerichtsbarkeit nicht
@@ -247,6 +266,7 @@ Inhalts von einem anderen Gericht bei ihm nicht eingegangen ist.
 
 
 ### § 15b
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002300303)
 
 Ist ein Gerichtsstand nach §§ 15, 15a nicht begründet, so ist das
 Amtsgericht Berlin-Schöneberg zuständig. Dieses Gericht kann die Sache
@@ -254,6 +274,7 @@ aus wichtigem Grund an ein anderes Gericht abgeben.
 
 
 ### § 15c
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002400303)
 
 Gibt ein Gericht auf Grund der Vorschriften dieses Gesetzes oder ein
 außerhalb des Geltungsbereichs dieses Gesetzes bestehendes Gericht auf
@@ -262,6 +283,7 @@ Gericht ab, so ist die Abgabeverfügung für das andere Gericht bindend.
 
 
 ### § 15d
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002501301)
 
 Ist anzunehmen, daß mehrere Personen infolge desselben Ereignisses
 verschollen sind, so kann das Bundesministerium der Justiz und für
@@ -271,6 +293,7 @@ gestellt, so ist er an das zuständige Gericht abzugeben.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002603140)
 
 (1) Das Aufgebotsverfahren wird nur auf Antrag eingeleitet.
 
@@ -297,6 +320,7 @@ Genehmigung des Betreuungsgerichts stellen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002700303)
 
 Jeder Antragsberechtigte kann neben dem Antragsteller oder an dessen
 Stelle in das Verfahren eintreten. Durch den Eintritt erlangt er die
@@ -305,12 +329,14 @@ Einlegung eines Rechtsmittels zulässig.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002800303)
 
 Vor der Einleitung des Verfahrens hat der Antragsteller die zur
 Begründung des Antrags erforderlichen Tatsachen glaubhaft zu machen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE002900303)
 
 (1) Ist der Antrag zulässig, so hat das Gericht das Aufgebot zu
 erlassen.
@@ -337,6 +363,7 @@ erlassen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003001307)
 
 (1) Das Aufgebot muß durch eine Tageszeitung öffentlich bekanntgemacht
 werden. Das Gericht kann abweichend anordnen, daß eine einmalige
@@ -349,6 +376,7 @@ Das Aufgebot soll an die Gerichtstafel angeheftet werden.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003101307)
 
 (1) Zwischen dem Tage an dem das Aufgebot zum ersten Mal durch eine
 Tageszeitung oder den Bundesanzeiger öffentlich bekanntgemacht ist,
@@ -363,6 +391,7 @@ Aufgebotsfrist nicht mehr abgekürzt werden.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003200303)
 
 Vor der Bekanntmachung des Aufgebots ist in jedem Falle dem
 Staatsanwalt, vor der Entscheidung dem Antragsteller und dem
@@ -370,6 +399,7 @@ Staatsanwalt Gelegenheit zur Äußerung zu geben.
 
 
 ### § 22a
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003301377)
 
 Ist der Tod des Verschollenen bereits im Sterberegister beurkundet
 worden und wird ein Aufgebotsverfahren zum Zwecke der Todeserklärung
@@ -378,12 +408,14 @@ Verfahren keine Beweiskraft.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003400303)
 
 In dem Beschluß, durch den der Verschollene für tot erklärt wird, ist
 der Zeitpunkt seines Todes nach § 9 Abs. 2, 3 festzustellen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003501307)
 
 (1) Der Beschluß, durch den der Verschollene für tot erklärt wird, ist
 öffentlich bekanntzumachen. § 20 ist entsprechend anzuwenden.
@@ -399,12 +431,14 @@ ist.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003600303)
 
 Der Beschluß, durch den die Todeserklärung abgelehnt wird, ist dem
 Antragsteller und dem Staatsanwalt zuzustellen.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003700303)
 
 (1) Gegen den Beschluß, durch den der Verschollene für tot erklärt
 wird, und gegen den Beschluß, durch den die Todeserklärung abgelehnt
@@ -431,6 +465,7 @@ beträgt einen Monat.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003802140)
 
 Wird der Beschluß, durch den der Verschollene für tot erklärt wird,
 auf sofortige Beschwerde oder Rechtsbeschwerde aufgehoben und die
@@ -440,6 +475,7 @@ anzuwenden.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE003901140)
 
 (1) Beschlüsse, die auf Rechtsbeschwerde ergehen, sind dem
 Beschwerdeführer und dem Staatsanwalt zuzustellen, auch wenn sie nicht
@@ -452,6 +488,7 @@ Todeserklärung bereits vom Amtsgericht oder vom Beschwerdegericht
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004002140)
 
 (1) Beschlüsse des Amtsgerichts, durch welche die Todeserklärung
 ausgesprochen wird, werden mit ihrer Rechtskraft wirksam.
@@ -463,6 +500,7 @@ letzten Zustellung wirksam; § 24 Abs. 3 bleibt unberührt.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004100303)
 
 (1) Hat der Verschollene die Todeserklärung überlebt, so kann er oder
 der Staatsanwalt ihre Aufhebung beantragen.
@@ -473,6 +511,7 @@ abgegeben worden ist.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004200303)
 
 (1) Für das Verfahren gelten die §§ 17 und 18.
 
@@ -481,6 +520,7 @@ Todeserklärung erwirkt hat, Gelegenheit zur Äußerung zu geben.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004300303)
 
 (1) Der Beschluß, durch den die Todeserklärung aufgehoben wird, ist in
 der gleichen Form öffentlich bekanntzumachen, in der die
@@ -492,6 +532,7 @@ wird, ist dem Antragsteller und dem Staatsanwalt zuzustellen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004400303)
 
 (1) Gegen den Beschluß, durch den die Todeserklärung aufgehoben wird,
 findet kein Rechtsmittel statt.
@@ -502,6 +543,7 @@ erheben.
 
 
 ### § 33a
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004500303)
 
 (1) Ist der Verschollene nicht in dem Zeitpunkt verstorben, der als
 Zeitpunkt des Todes festgestellt worden ist, so kann jeder, der ein
@@ -528,6 +570,7 @@ vermerkt werden.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004600303)
 
 (1) Das Gericht kann in seiner Entscheidung einem am Verfahren
 Beteiligten oder vom Verfahren Betroffenen die Kosten des Verfahrens,
@@ -551,6 +594,7 @@ Absatz 2 dem Nachlaß zur Last gelegt sind.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004702140)
 
 (1) Die Kosten, über die nach § 34 entschieden ist, werden auf Antrag
 von dem Urkundsbeamten der Geschäftsstelle des Gerichts erster Instanz
@@ -568,6 +612,7 @@ entsprechend.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004801305)
 
 Die Entscheidungen des Gerichts über die Kosten nach §§ 34 oder 35
 Abs. 3 können selbständig mit der sofortigen Beschwerde angefochten
@@ -576,6 +621,7 @@ werden, sofern der Beschwerdegegenstand den Betrag von 50 Euro
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE004900303)
 
 (1) Ergeht nach der Kostenfestsetzung eine Entscheidung, die den Wert
 des Gegenstandes des Verfahrens festsetzt, so ist, falls diese
@@ -590,6 +636,7 @@ zuviel gezahlten Kosten zu erstatten sind.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005000303)
 
 Aus Kostenfestsetzungsbeschlüssen und aus Entscheidungen gemäß § 37
 Abs. 2 findet die Zwangsvollstreckung nach den Vorschriften der
@@ -597,10 +644,12 @@ Zivilprozeßordnung statt.
 
 
 ## Abschnitt IV - Verfahren bei Feststellung der Todeszeit
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNG000400303)
 
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005101377)
 
 Ist die Todeserklärung mit Rücksicht auf § 1 Abs. 2 unzulässig, eine
 Eintragung im Sterberegister aber nicht erfolgt, so kann beantragt
@@ -611,6 +660,7 @@ nicht entgegen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005200303)
 
 Auf das Verfahren sind § 13 Abs. 1, §§ 14 bis 17, 22, 22a, 24 bis 38
 entsprechend anzuwenden; im übrigen gelten die besonderen Vorschriften
@@ -618,6 +668,7 @@ der §§ 41 bis 44.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005300303)
 
 (1) Vor der Einleitung des Verfahrens hat der Antragsteller
 nachzuweisen, daß der Tod nach den Umständen nicht zweifelhaft ist,
@@ -628,6 +679,7 @@ hat der Antragsteller glaubhaft zu machen.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005400303)
 
 (1) Ist der Antrag zulässig, so soll das Gericht eine öffentliche
 Aufforderung an alle, die über den Zeitpunkt des Todes Angaben machen
@@ -640,6 +692,7 @@ nicht erwartet werden kann.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005501307)
 
 (1) Die öffentliche Aufforderung muß durch eine Tageszeitung
 öffentlich bekanntgemacht werden, sofern das Gericht nicht abweichend
@@ -658,6 +711,7 @@ nicht mehr abgekürzt werden.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005600303)
 
 (1) Der Zeitpunkt des Todes ist den Grundsätzen des § 9 Abs. 2, 3
 entsprechend festzustellen.
@@ -668,6 +722,7 @@ gilt entsprechend.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005700303)
 
 (1) Ergeben die Ermittlungen, die in einem nach § 2 eingeleiteten
 Aufgebotsverfahren angestellt sind, daß der Tod nach den Umständen
@@ -679,10 +734,12 @@ Feststellung des Zeitpunktes des Todes. § 41 ist nicht anzuwenden.
 
 
 ## Abschnitt V - Inkrafttreten, Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNG000500303)
 
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005800303)
 
 (1) Dieses Gesetz tritt am 15. Juli 1939 in Kraft.
 
@@ -690,15 +747,18 @@ Feststellung des Zeitpunktes des Todes. § 41 ist nicht anzuwenden.
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE005900303)
 
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE006000303)
 
 (Überleitungsvorschrift)
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE006100303)
 
 (1) Ist der Eintritt einer Rechtswirkung an den Erlaß des die
 Todeserklärung aussprechenden Urteils geknüpft, so tritt sie, wenn ein
@@ -711,23 +771,28 @@ Gesetzes gleich.
 
 
 ### (XXXX) §§ 50 bis 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE006200303)
 
 
 
 ### (XXXX) §§ 53 und 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE006300303)
 
 
 
 ## Abschnitt VI - 
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNG000600303)
 
 
 
 ### (XXXX) §§ 55 bis 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE006400303)
 
 
 Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 953)
+[Direktlink](https://www.gesetze-im-internet.de/verschg/BJNR011860939.html#BJNR011860939BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

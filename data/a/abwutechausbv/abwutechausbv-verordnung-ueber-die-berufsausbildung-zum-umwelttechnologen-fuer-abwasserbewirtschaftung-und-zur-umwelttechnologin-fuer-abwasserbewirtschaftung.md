@@ -25,9 +25,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000200000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Umwelttechnologen
 für Abwasserbewirtschaftung und der Umwelttechnologin für
@@ -39,11 +41,13 @@ ist er Ausbildungsberuf der gewerblichen Wirtschaft.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -64,6 +68,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -162,6 +167,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000600000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -169,9 +175,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000700000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -187,6 +195,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000800000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -203,6 +212,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE000900000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 „Mechanisches Anpassen eines umwelttechnischen Systems“ statt.
@@ -282,6 +292,7 @@ gewichten:
 
 
 ### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001000000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -303,6 +314,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001100000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -324,6 +336,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich „Beurteilen und Beheben einer elektrotechnischen Betriebsstörung“
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001200000)
 
 (1) Im Prüfungsbereich „Beurteilen und Beheben einer
 elektrotechnischen Betriebsstörung“ hat der Prüfling nachzuweisen,
@@ -367,6 +380,7 @@ höchstens 15 Minuten.
 
 
 ### § 12 Prüfungsbereich „Betreiben und Unterhalten von Entwässerungssystemen und Regenwasserbewirtschaftungssystemen“
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001300000)
 
 (1) Im Prüfungsbereich „Betreiben und Unterhalten von
 Entwässerungssystemen und Regenwasserbewirtschaftungssystemen“ hat der
@@ -403,6 +417,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 13 Prüfungsbereich „Betreiben und Unterhalten von Abwasserbehandlungsanlagen“
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001400000)
 
 (1) Im Prüfungsbereich „Betreiben und Unterhalten von
 Abwasserbehandlungsanlagen“ besteht die Prüfung aus zwei Teilen.
@@ -480,6 +495,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001500000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -493,6 +509,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -574,6 +591,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich für die schriftlich zu
 bearbeitenden Aufgaben eine mündliche Ergänzungsprüfung beantragen.
@@ -627,9 +645,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNG000300000)
 
 
 ### § 17 Befreiung von Teil 1 der Abschlussprüfung und Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001800000)
 
 (1) Bei erfolgreich abgeschlossener Berufsausbildung nach § 15
 Absatz 2 der Wasserversorgungsumwelttechnologen-Ausbildungsverordnung
@@ -677,9 +697,11 @@ Ausbildungsverordnung
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNG000400000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE001900000)
 
 Berufsausbildungsverhältnisse, die am 1. August 2024 bestehen, können
 nach den Vorschriften dieser Verordnung unter Anrechnung der bisher
@@ -696,6 +718,7 @@ absolvierten Ausbildungszeit fortgesetzt werden, wenn
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Umwelttechnologen für Abwasserbewirtschaftung und zur Umwelttechnologin für Abwasserbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/abwutechausbv/BJNR18B0C0023.html#BJNR18B0C0023BJNE002000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 395, S. 23 - 29)
 

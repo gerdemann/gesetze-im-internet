@@ -21,24 +21,29 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001300317)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I - Neufassung des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000100317)
 
 
 
 ## Art II - Änderung des Ersten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000200317)
 
 
 
 ## Art III - Anwendung der Übergangsvorschriften des Art  II des 1. BesVNG auf Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000300317)
 
 
 
 ## § 1 Geltendes Recht für vorhandene Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001400317)
 
 Für die bei Inkrafttreten dieser Vorschrift vorhandenen
 Versorgungsempfänger gilt Artikel II des Ersten Gesetzes zur
@@ -48,6 +53,7 @@ weiter.
 
 
 ## § 2 Mindestversorgung
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001500317)
 
 Für die Bemessung der Mindestversorgungsbezüge und der
 Mindestunfallversorgungsbezüge tritt zu den jeweils ruhegehaltfähigen
@@ -58,6 +64,7 @@ Bund und Ländern.
 
 
 ## § 3 Erhöhte Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001602116)
 
 (1) Sind der Bemessung des Unfallruhegehaltes nach § 37 Abs. 1 Satz 1
 des Beamtenversorgungsgesetzes die ruhegehaltfähigen Dienstbezüge aus
@@ -94,32 +101,39 @@ Besoldungsrechts in Bund und Ländern.
 
 
 ## Art IV - Änderung des Bundesbeamtengesetzes und des Beamtenrechtsrahmengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000400317)
 
 
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001700317)
 
 -
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001801310)
 
 -
 
 
 ## Art V - Änderung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000500317)
 
 
 
 ## Art VI - Neufassung des Gesetzes über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit sowie des Gesetzes über die Gewährung einer jährlichen Sonderzuwendung
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000600317)
 
 
 
 ## Art VII - Anpassung der Versorgungsbezüge in Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000700317)
 
 
 
 ## § 1 Allgemeine Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE001900317)
 
 (1) Werden die Dienstbezüge der Besoldungsberechtigten allgemein
 erhöht oder vermindert, sind von demselben Zeitpunkt an die
@@ -144,6 +158,7 @@ Verminderung der Dienstbezüge.
 
 
 ## § 2 Anpassungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002000317)
 
 (1) Erhöht sich der durchschnittliche Besoldungsaufwand des Bundes und
 der Länder innerhalb des Feststellungszeitraumes durch Veränderungen,
@@ -160,6 +175,7 @@ gewähren ist.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002100317)
 
 (1) Besoldungsaufwand ist die Summe der im Vergleichsmonat gezahlten
 Grundgehälter, Zuschüsse zum Grundgehalt, Ortszuschläge, Zulagen, die
@@ -183,6 +199,7 @@ zum 1. Juli des Feststellungsjahres.
 
 
 ## § 4 Berechnung des Anpassungszuschlages
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002200317)
 
 (1) Sind im Feststellungszeitraum die Dienstbezüge nicht allgemein
 erhöht oder vermindert worden, wird der Unterschiedsbetrag zwischen
@@ -210,6 +227,7 @@ oder 2 zu diesem Versorgungsbezug gewährt.
 
 
 ## § 5 Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002301116)
 
 (1) Die obersten Bundesbehörden oder die von ihnen ermächtigten
 Stellen und die für das Besoldungsrecht zuständigen Minister der
@@ -226,6 +244,7 @@ Jahres im Bundesanzeiger bekannt.
 
 
 ## § 6 Zahlung des Anpassungszuschlages
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002400317)
 
 Der Anpassungszuschlag wird den am 30. Juni des Vorjahres vorhandenen
 Versorgungsempfängern vom 1. Januar des auf das Feststellungsjahr
@@ -234,6 +253,7 @@ Hinterbliebenen.
 
 
 ## § 7 Zusammenfassung von Anpassungszuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002500317)
 
 Bei der zweiten und jeder weiteren Gewährung eines
 Anpassungszuschlages werden die Anpassungszuschläge für
@@ -242,10 +262,12 @@ gemeinsamen Hundertsatz zusammengezählt.
 
 
 ## Art VIII - Besondere Vorschriften für den Bereich der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000800317)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002610116)
 
 (1) Bundesunmittelbare Körperschaften des öffentlichen Rechts im
 Bereich der Sozialversicherung haben bei Aufstellung ihrer
@@ -287,6 +309,7 @@ Buches Sozialgesetzbuch bewertet und eingestuft werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002702310)
 
 (1) Für landesunmittelbare Körperschaften des öffentlichen Rechts im
 Bereich der Sozialversicherung gelten
@@ -311,11 +334,13 @@ aufsichtsführenden Landes anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002801320)
 
 (weggefallen)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE002900317)
 
 Auf die am Tage des Inkrafttretens dieses Gesetzes vorhandenen
 dienstordnungsmäßig Angestellten findet Artikel IX §§ 11 bis 13 dieses
@@ -323,10 +348,12 @@ Gesetzes entsprechend Anwendung.
 
 
 ## Art IX - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG000900317)
 
 
 
 ## § 1 Begriff Dienstbezüge, Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003000317)
 
 (1) Der Begriff der Dienstbezüge in anderen Vorschriften als denen des
 Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes gilt bis zu
@@ -340,6 +367,7 @@ oder neuen Vorschriften.
 
 
 ## § 2 Ersetzung des Begriffs Mehrarbeitsentschädigung durch Mehrarbeitsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003100317)
 
 Soweit in Gesetzen und Verordnung der Begriff
 "Mehrarbeitsentschädigung" verwendet wird, tritt an seine Stelle der
@@ -347,6 +375,7 @@ Begriff "Mehrarbeitsvergütung".
 
 
 ## § 3 Gleichstellung von Beamten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003200317)
 
 (1) In Laufbahnen, in denen für die Befähigung die Abschlußprüfung
 einer Ingenieurschule gefordert wird oder wurde, sind die Beamten, die
@@ -397,6 +426,7 @@ Anstellung erfolgt im bisherigen Eingangsamt der Besoldungsgruppe A
 
 
 ## § 4 Überleitung der Beamten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003302310)
 
 (1) Für die Überleitung der am Tage vor Inkrafttreten und am Tage des
 Inkrafttretens dieses Gesetzes im Amt befindlichen Beamten gelten,
@@ -511,6 +541,7 @@ Amtszulage von 150 DM überzuleiten.
 
 
 ## § 5 Überleitung von Beamten bei Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003400317)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 unter Berücksichtigung der Grundsätze des § 4 die Ämter folgender
@@ -547,6 +578,7 @@ Bereich zu bestimmen:
 
 
 ## § 6 Besoldungsdienstalter der vorhandenen Beamten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003500317)
 
 Die Festsetzung des Besoldungsdienstalters der bei Inkrafttreten
 dieses Gesetzes im Amt befindlichen Beamten bleibt unberührt. Das
@@ -556,6 +588,7 @@ Gesetzes eine Verbesserung ergibt.
 
 
 ## § 7 Überschreitung der zulässigen Zahl von Planstellen für Konrektoren an Grundschulen, Hauptschulen, Grund- und Hauptschulen, Realschulen sowie für Studiendirektoren
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003600317)
 
 Wird bei Inkrafttreten dieses Gesetzes die nach den
 Funktionsbeschreibungen in den maßgebenden Besoldungsgruppen zulässige
@@ -570,6 +603,7 @@ Gesetzes freiwerdende Stellen entsprechend umzuwandeln.
 
 
 ## § 8 Überleitung der Richter und Staatsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003701306)
 
 (1) Für die Überleitung der am Tage vor Inkrafttreten und am Tage des
 Inkrafttretens dieses Gesetzes im Amt befindlichen Richter und
@@ -635,6 +669,7 @@ vergleichbaren Funktionsbezeichnungen der Bundesbesoldungsordnung R.
 
 
 ## § 9 Anwendung des § 38 Abs. 2 BBesG auf vorhandene Richter und Staatsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003800317)
 
 § 38 Abs. 2 des Bundesbesoldungsgesetzes findet auf die am Tage des
 Inkrafttretens dieses Gesetzes im Amt befindlichen Richter und
@@ -651,6 +686,7 @@ Nr. 1 des Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes.
 
 
 ## § 10 Überschreitung der zulässigen Zahl von Planstellen für weitere aufsichtführende Richter an Amtsgerichten, Staatsanwälte als Gruppenleiter und für Oberstaatsanwälte als Abteilungsleiter oder Hauptabteilungsleiter
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE003900317)
 
 Wird bei Inkrafttreten dieses Gesetzes die nach der Fußnote 2 zur
 Besoldungsgruppe R 2 zulässige Zahl der Planstellen für weitere
@@ -666,6 +702,7 @@ Abteilungsleiter oder Hauptabteilungsleiter.
 
 
 ## § 11 Überleitungszulage für Beamte, Richter oder Soldaten bei Änderung der Einstufung eines Amtes und bei Wegfall oder Änderung von ruhegehaltfähigen Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004000317)
 
 (1) Verringern sich durch dieses Gesetz die Dienstbezüge oder
 Amtsbezüge eines Beamten, Richters oder Soldaten, weil
@@ -718,6 +755,7 @@ zum Erlaß der Rechtsverordnung kann auf den zuständigen Minister
 
 
 ## § 12 Ausgleichszulage in anderen Fällen für Beamte, Richter und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004100317)
 
 (1) Verringern sich durch dieses Gesetz die Bezüge eines Beamten,
 Richters oder Soldaten, weil
@@ -787,6 +825,7 @@ Ausgleichszulagen bleiben unberührt.
 
 
 ## § 13 Wegfall der Ruhegehaltfähigkeit bei Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004200317)
 
 Soweit durch dieses Gesetz eine ruhegehaltfähige Zulage durch eine
 nichtruhegehaltfähige Zulage ersetzt und keine ruhegehaltfähige
@@ -798,6 +837,7 @@ Empfänger auch für die neue Zulage.
 
 
 ## § 14 Aufhebung von besoldungsrechtlichen Vorschriften der Länder
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004300317)
 
 (1) Die Rechtsvorschriften der Länder, soweit sie besoldungsrechtliche
 Vorschriften im Sinne des § 1 Abs. 1 bis 3 des
@@ -862,6 +902,7 @@ Gesetzes bleibt unberührt.
 
 
 ## § 15 Aufhebung von bundes- und landesrechtlichen Vorschriften über Unterhaltszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004400317)
 
 Die bundes- und landesrechtlichen Vorschriften über
 Unterhaltszuschüsse und entsprechende Zuwendungen an Beamte auf
@@ -870,6 +911,7 @@ entsprechend.
 
 
 ## § 16 Aufhebung von landesrechtlichen Vorschriften über Sonderzuwendungen und vermögenswirksamen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004500317)
 
 Die landesrechtlichen Vorschriften über Sonderzuwendungen und
 vermögenswirksame Leistungen treten außer Kraft, soweit sie den in
@@ -878,6 +920,7 @@ betreffen.
 
 
 ## § 17 Aufhebung von bundesrechtlichen Vorschriften über Abgelegenheitszulagen und anderen Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004600317)
 
 (1)
 Die bundesrechtlichen Vorschriften über Zulagen, die wegen der
@@ -897,6 +940,7 @@ Wohnsitz an diesem Ort aufrechterhalten.
 
 
 ## § 18 Aufhebung von Vorschriften über Erschwerniszulagen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004700317)
 
 Die bundesrechtlichen Vorschriften über die Gewährung von
 Erschwerniszulagen treten außer Kraft, soweit sie die Gewährung der
@@ -905,6 +949,7 @@ Vollzugsdienst der Berufsfeuerwehr betreffen.
 
 
 ## § 19 Ortszuschlag für Kasernierte
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004800317)
 
 Soweit in Gemeinschaftsunterkünften wohnenden Beamten der Länder ein
 höherer Ortszuschlag gewährt wird als nach § 39 Abs. 2 des
@@ -912,6 +957,7 @@ Bundesbesoldungsgesetzes, verbleibt es dabei.
 
 
 ## § 20 Fortgeltung der Regelungen über künftig wegfallende Ämter des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE004900317)
 
 Die bei Inkrafttreten dieses Gesetzes vorhandenen Regelungen über
 künftig wegfallende Ämter des Bundes bleiben bis zum Inkrafttreten der
@@ -919,6 +965,7 @@ Rechtsverordnung der Bundesregierung nach § 4 Abs. 5 weiter in Kraft.
 
 
 ## § 21 Zulage für Beamte an Theatern
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005000317)
 
 Landesrechtliche Vorschriften über die Gewährung einer Zulage an
 Beamte an Theatern können aufrechterhalten bleiben oder durch
@@ -931,6 +978,7 @@ abgegolten.
 
 
 ## § 22 Fortgeltung von landesrechtlichen Vorschriften über Zulagen an Beamte von öffentlich-rechtlichen Versicherungsanstalten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005100317)
 
 (1) Landesrechtliche Vorschriften, nach denen bisher an Beamte von
 öffentlich-rechtlichen Versicherungsanstalten oder Kreditinstituten
@@ -946,6 +994,7 @@ mit abgegolten.
 
 
 ## § 23 Fortgeltung von Regelungen außerhalb der Landesbesoldungsgesetze
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005200317)
 
 Soweit dieses Gesetz nicht etwas anderes bestimmt, bleiben nicht in
 Landesbesoldungsgesetzen enthaltene Regelungen über die Einstufung und
@@ -959,6 +1008,7 @@ Kraft und dürfen nicht zugunsten der Beamten geändert werden.
 
 
 ## § 24 Aufrechterhaltung von Vorschriften für Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005300317)
 
 (1) § 74 des Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes
 gilt für Versorgungsempfänger mit Wohnsitz in Berlin entsprechend.
@@ -982,6 +1032,7 @@ höherer Ruhegehaltssatz gewahrt.
 
 
 ## § 25 Änderung der Ausgangslage für Artikel VII
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005400317)
 
 Artikel V des Zweiten Bundesbesoldungserhöhungsgesetzes ist mit
 Wirkung vom Inkrafttreten dieses Gesetzes mit der Maßgabe anzuwenden,
@@ -990,6 +1041,7 @@ daß in § 1 Abs. 1 Nr. 4, Abs. 2 und Abs. 4 an die Stelle des 31. März
 
 
 ## § 26 Übergangsvorschriften für Artikel VII
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005501116)
 
 Artikel VII dieses Gesetzes ist erstmalig mit folgenden Maßgaben
 anzuwenden:
@@ -1030,6 +1082,7 @@ anzuwenden:
 
 
 ## § 27 Übergangsregelung für Stufenlehrer
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005600317)
 
 Regelungen über die Besoldung von Lehrern in einem Amt mit
 stufenbezogenem Schwerpunkt dürfen bis zum 30. Juni 1977 nicht
@@ -1037,6 +1090,7 @@ getroffen werden.
 
 
 ## § 28 Übergangsregelung für Sicherheitsdienste
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005700317)
 
 Regelungen über die Gewährung von Zulagen zur pauschalierten Abgeltung
 der Erschwernisse und Aufwendungen bei den Sicherheitsdiensten des
@@ -1047,10 +1101,12 @@ gestaffelte Aufwandsentschädigung bis zu 150 Deutsche Mark gewähren.
 
 
 ## Art X - Überleitung von Beamten an den Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG001000317)
 
 
 
 ## § 1 Übergangsregelung für Hochschullehrer
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005800317)
 
 (1) Bis zum Inkrafttreten der nach § 72 Abs. 1 des
 Hochschulrahmengesetzes zu erlassenden Landesgesetze gelten die für
@@ -1067,6 +1123,7 @@ Begrenzung des Absatzes 1 weiter (künftig wegfallende Ämter).
 
 
 ## § 2 Überführung in die Bundesbesoldungsordnung C
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE005900317)
 
 (1) Für die besoldungsrechtliche Einordnung der in die Rechtsstellung
 von Professoren überzuleitenden oder zu übernehmenden Beamten gelten
@@ -1164,6 +1221,7 @@ c)  nach Maßgabe sachgerechter Bewertung in die Besoldungsgruppe C 2 oder
 
 
 ## § 3 Überführung der wissenschaftlichen und künstlerischen Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE006000317)
 
 Werden Beamte auf Grund des § 75 Abs. 8 des Hochschulrahmengesetzes in
 Ämter als wissenschaftliche oder künstlerische Mitarbeiter
@@ -1174,6 +1232,7 @@ oder Leitenden Akademischen Direktors zu übernehmen.
 
 
 ## § 4 Übergangsvorschriften für die Überführung in die Bundesbesoldungsordnung C
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE006100317)
 
 (1) An landesrechtlich staatlich anerkannten oder genehmigten
 Hochschulen, deren Personal im Dienst des Bundes steht, darf nach dem
@@ -1246,6 +1305,7 @@ mit der Maßgabe anzuwenden, daß an die Stelle der Besoldungsgruppe A
 
 
 ## § 5 Wahrung des Besitzstandes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE006200317)
 
 (1) Für die Wahrung des Besitzstandes der entsprechend den
 Vorschriften des § 2 in die Besoldungsgruppen C 4, C 3 und C 2
@@ -1346,15 +1406,18 @@ genannten Höchstbeträge nicht überschreiten.
 
 
 ## Art XI - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNG001100317)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE006300317)
 
 -
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE006400317)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -1364,6 +1427,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_2/BJNR011739975.html#BJNR011739975BJNE006500317)
 
 (1) Dieses Gesetz tritt am 1. Juli 1975 in Kraft, soweit die Absätze 2
 und 3 nichts anderes bestimmen.

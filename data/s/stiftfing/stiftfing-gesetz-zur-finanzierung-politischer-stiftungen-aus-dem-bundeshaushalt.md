@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Politische Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000100000)
 
 (1) Politische Stiftungen im Sinne dieses Gesetzes sind nur solche,
 die durch die ihr nahestehende Partei im gegenseitigen Einvernehmen
@@ -32,6 +33,7 @@ wahren die gebotene Distanz zu den jeweils nahestehenden Parteien.
 
 
 ## § 2 Voraussetzungen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000200000)
 
 (1) Dem Grunde nach aus dem Bundeshaushalt förderfähig ist eine
 politische Stiftung ausschließlich dann, wenn die zuständige Stelle
@@ -87,6 +89,7 @@ oder als gesichert extremistisch eingestuft wird.
 
 
 ## § 3 Grundsätze der Finanzierung politischer Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000300000)
 
 (1) Die Finanzierung politischer Stiftungen erfolgt auf Antrag nach
 Maßgabe dieses Gesetzes. Die Höhe der jährlich zur Verfügung stehenden
@@ -128,6 +131,7 @@ Verwaltungsvorschriften erlassen.
 
 
 ## § 4 Ende der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000400000)
 
 (1) Die Förderung einer politischen Stiftung ist spätestens mit Ablauf
 des laufenden Haushaltsjahres zu beenden, wenn nach Beginn der
@@ -169,6 +173,7 @@ Beendigungsgrund nach Absatz 1 Nummer 2 bis 5 vorliegt.
 
 
 ## § 5 Anwendung des Verwaltungsverfahrensgesetzes; Minderung
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000500000)
 
 (1) Rücknahme und Widerruf von Bescheiden über Zuwendungen auf Grund
 eines Antrags nach § 3 Absatz 1 Satz 1 richten sich nach den §§ 48 bis
@@ -188,6 +193,7 @@ unberührt.
 
 
 ## § 6 Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000600000)
 
 (1) Politische Stiftungen legen einen öffentlichen Jahresbericht vor,
 der auch die Namen der Mitglieder der satzungsgemäßen Gremien enthält.
@@ -203,6 +209,7 @@ veröffentlichen.
 
 
 ## § 7 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000700000)
 
 (1) Für Anträge auf Fördermittel aus dem Bundeshaushalt nach § 3
 Absatz 1 Satz 1, für die Beendigung der Förderung nach § 4 Absatz 1
@@ -221,6 +228,7 @@ des Innern und für Heimat zuständig.
 
 
 ## § 8 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000800000)
 
 (1) Die nach § 7 Absatz 1 zuständigen obersten Bundesbehörden oder
 nachgeordneten Bundesoberbehörden sowie die nach § 7 Absatz 2
@@ -253,6 +261,7 @@ entsprechend anzuwenden.
 
 
 ## § 9 Anerkennung bereits geförderter Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE000900000)
 
 Als politische Stiftungen nach § 1 Absatz 1 anerkannt gelten zum
 Zeitpunkt des Inkrafttretens dieses Gesetzes die Friedrich-Ebert-
@@ -268,6 +277,7 @@ politische Bildung e. V. für die nahestehende Partei „DIE LINKE“.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stiftfing/BJNR17F0A0023.html#BJNR17F0A0023BJNE001000000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

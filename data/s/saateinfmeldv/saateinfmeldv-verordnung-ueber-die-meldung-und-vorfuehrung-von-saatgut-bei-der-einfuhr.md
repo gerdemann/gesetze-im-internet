@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000100328)
 
 Auf Grund des § 28 Abs. 3 des Saatgutverkehrsgesetzes vom 20. Mai 1968
 (Bundesgesetzbl. I S. 444) in der Fassung der Bekanntmachung vom 23.
@@ -28,6 +29,7 @@ Bundesminister der Finanzen mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Einfuhranzeige
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000202377)
 
 (1) Unter das Saatgutverkehrsgesetz fallendes Saatgut darf nur
 eingeführt werden, wenn der Einführer die Absicht der Einfuhr der
@@ -51,6 +53,7 @@ bekanntgemachten Muster entsprechen.
 
 
 ## § 2 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000301308)
 
 (1) Die Einfuhranzeige ist in dreifacher Ausfertigung einzureichen.
 Die Bundesanstalt versieht eine Ausfertigung mit dem
@@ -73,6 +76,7 @@ Bundesanstalt zurückzugeben.
 
 
 ## § 3 Amtliche Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000402377)
 
 Bei Saatgut, das sich nicht im freien Verkehr innerhalb des Gebiets
 eines anderen Mitgliedstaats der Europäischen Gemeinschaft befindet,
@@ -84,6 +88,7 @@ vorgeschriebenen Anforderungen abhängig machen.
 
 
 ## § 4 Vorführung und Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000501308)
 
 Die Bundesanstalt kann den Bestätigungsvermerk mit der Auflage
 verbinden, das Saatgut bei der für die Durchführung der
@@ -93,11 +98,13 @@ zuständigen Stelle untersuchen zu lassen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000701308)
 
 Diese Verordnung tritt am 1. Juli 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/saateinfmeldv/BJNR014960975.html#BJNR014960975BJNE000800328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

@@ -19,6 +19,7 @@ Zeitlich überholt
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wschzinsbek_38/BJNR008550984.html#BJNR008550984BJNE000100307)
 
 Auf Grund des § 1 des Gesetzes über die Wechsel- und Scheckzinsen in
 der im Bundesgesetzblatt Teil III, Gliederungsnummer 4132-3,

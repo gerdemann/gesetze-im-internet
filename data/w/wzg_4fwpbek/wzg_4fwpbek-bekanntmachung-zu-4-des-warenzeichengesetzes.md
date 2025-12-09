@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4fwpbek/BJNR003230973.html#BJNR003230973BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -31,11 +32,13 @@ ausgeschlossen ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4fwpbek/BJNR003230973.html#BJNR003230973BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Flagge des Weltpostvereins
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4fwpbek/BJNR003230973.html#BJNR003230973BJNE000200303)
 
 Fundstelle: BGBl. I 1973, 323)
 ![bgbl1_1973_j0323_0010.jpg](bgbl1_1973_j0323_0010.jpg)

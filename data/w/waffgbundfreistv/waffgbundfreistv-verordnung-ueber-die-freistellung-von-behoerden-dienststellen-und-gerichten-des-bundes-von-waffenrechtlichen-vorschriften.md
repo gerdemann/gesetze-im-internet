@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/waffgbundfreistv/BJNR261000020.html#BJNR261000020BJNE000100000)
 
 Auf Grund des § 55 Absatz 5 Satz 1 des Waffengesetzes vom 11. Oktober
 2002 (BGBl. I S. 3970, 4592; 2003 I S. 1957) verordnet die
@@ -25,6 +26,7 @@ Bundesregierung:
 
 
 ## § 1 Freigestellte Behörden, Dienststellen und Gerichte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/waffgbundfreistv/BJNR261000020.html#BJNR261000020BJNE000200000)
 
 Die Freistellung von waffenrechtlichen Vorschriften nach dieser
 Verordnung gilt
@@ -91,6 +93,7 @@ Verordnung gilt
 
 
 ## § 2 Nicht anwendbare Vorschriften des Waffenrechts
+[Direktlink](https://www.gesetze-im-internet.de/waffgbundfreistv/BJNR261000020.html#BJNR261000020BJNE000300000)
 
 Keine Anwendung finden auf die Behörden, Dienststellen und Gerichte
 nach § 1 sowie deren Bedienstete, soweit diese dienstlich tätig
@@ -168,6 +171,7 @@ werden:
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/waffgbundfreistv/BJNR261000020.html#BJNR261000020BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Fünfte Verordnung zum Waffengesetz vom 11.

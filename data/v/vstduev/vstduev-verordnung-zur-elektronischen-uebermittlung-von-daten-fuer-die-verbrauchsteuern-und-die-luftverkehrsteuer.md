@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vstd_v/BJNR196100020.html#BJNR196100020BJNE000101123)
 
 (1) Diese Verordnung gilt für die elektronische Übermittlung von
 Erklärungen der besonderen Verbrauchsteuern und der Luftverkehrsteuer
@@ -63,6 +64,7 @@ Beförderung verbrauchsteuerpflichtiger Waren.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vstd_v/BJNR196100020.html#BJNR196100020BJNE000200000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -79,6 +81,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ## § 3 Elektronische Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vstd_v/BJNR196100020.html#BJNR196100020BJNE000300000)
 
 (1) Erklärungen sind nach amtlich vorgeschriebenem Datensatz durch
 Datenfernübertragung an das zuständige Hauptzollamt zu übermitteln
@@ -118,6 +121,7 @@ Internet unter www.zoll.de veröffentlicht.
 
 
 ## § 4 Datenübermittlungen im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/vstd_v/BJNR196100020.html#BJNR196100020BJNE000400000)
 
 (1) Mit der elektronischen Datenübermittlung nach § 3 Absatz 1 können
 Dritte (Auftragnehmer) beauftragt werden.
@@ -145,6 +149,7 @@ auf Vollständigkeit und Richtigkeit zu überprüfen.
 
 
 ## § 5 Schnittstellen
+[Direktlink](https://www.gesetze-im-internet.de/vstd_v/BJNR196100020.html#BJNR196100020BJNE000500000)
 
 (1) Bei der elektronischen Datenübermittlung nach § 3 Absatz 1 hat der
 Datenübermittler die hierfür von der Generalzolldirektion amtlich

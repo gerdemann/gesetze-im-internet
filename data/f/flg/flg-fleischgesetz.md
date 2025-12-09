@@ -28,12 +28,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -70,6 +72,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 2 Klassifizierung
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000301119)
 
 (1) Soweit nach den Vorschriften des Handelsklassenrechts eine
 Klassifizierung von Schlachtkörpern vorgeschrieben oder zulässig ist,
@@ -94,6 +97,7 @@ und damit eine ordnungsgemäße Klassifizierung sicherstellen zu können.
 
 
 ## § 3 Zulassung von Klassifizierungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000402119)
 
 (1) Der Betrieb eines Klassifizierungsunternehmens bedarf der
 Zulassung durch die zuständige Behörde. Die Zulassung wird auf Antrag
@@ -162,6 +166,7 @@ Durchführung der Klassifizierung erforderlich ist.
 
 
 ## § 4 Befähigung und Zulassung von Klassifizierern
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000502119)
 
 (1) Ein Klassifizierer darf Schlachtkörper einer Tierart nur
 klassifizieren, wenn er dazu von der zuständigen Behörde zugelassen
@@ -274,6 +279,7 @@ Tieren (ABl. L 171 vom 4.7.2017, S. 74) entsprechend.
 
 
 ## § 5 Erlöschen der Zulassung eines Klassifizierers, Rückgabe übergebener Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000600000)
 
 (1) Die Zulassung eines Klassifizierers erlischt, wenn der
 Klassifizierer seine Tätigkeit
@@ -296,6 +302,7 @@ und den personenbezogenen Stempel zurückzugeben.
 
 
 ## § 6 Widerruf und Rücknahme der Zulassung von Klassifizierungsunternehmen und Klassifizierern
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000701119)
 
 (1) Die Zulassung eines Klassifizierungsunternehmens ist zu
 widerrufen, wenn die Gewähr für eine ordnungsgemäße Durchführung der
@@ -352,6 +359,7 @@ unberührt.
 
 
 ## § 7 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000800000)
 
 (1) Die Durchführung dieses Gesetzes und die Überwachung der
 Einhaltung der Bestimmungen dieses Gesetzes und der auf Grund dieses
@@ -400,6 +408,7 @@ der für die Entscheidung zuständigen Behörde unverzüglich mit.
 
 
 ## § 8 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE000900000)
 
 (1) Das Klassifizierungsunternehmen ist verpflichtet, zum Zweck der
 Durchführung dieses Gesetzes der Bundesanstalt sowie den für die
@@ -438,6 +447,7 @@ regeln.
 
 
 ## § 9 Preis- und Gewichtsfeststellung, Kennzeichnung von Schlachtkörpern
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001001301)
 
 (1) Zur Förderung der Marktübersicht können nach Maßgabe der folgenden
 Vorschriften von den zuständigen Behörden
@@ -526,6 +536,7 @@ und ihre Bekanntgabe festgelegt werden, insbesondere
 
 
 ## § 10 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001100000)
 
 (1) Ein Klassifizierungsunternehmen ist verpflichtet, dem Lieferanten
 eines Schlachttieres auf Antrag, der innerhalb von drei Monaten nach
@@ -556,6 +567,7 @@ ihrer Erteilung zu regeln.
 
 
 ## § 11 Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001201377)
 
 (1) Die zuständige Behörde kann die zur Beseitigung festgestellter
 Verstöße und die zur Verhütung künftiger Verstöße notwendigen
@@ -632,6 +644,7 @@ würde.
 
 
 ## § 12 Registerführung, Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001302119)
 
 (1) Soweit dies zur Erfüllung von Rechtsakten der Europäischen
 Gemeinschaft oder der Europäischen Union über die Preismeldungen für
@@ -730,6 +743,7 @@ längere Aufbewahrung vorschreiben, bleiben unberührt.
 
 
 ## § 13 Rechtsverordnungen in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001402119)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates nähere Bestimmungen über die für die
@@ -754,10 +768,12 @@ Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 
 
 ## § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001504301)
 
 
 
 ## § 15 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001601377)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 dritter Staaten sowie den Organen der Europäischen Union obliegt dem
@@ -767,6 +783,7 @@ Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
 
 
 ## § 16 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001701119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -804,6 +821,7 @@ Landwirtschaft und Ernährung.
 
 
 ## § 17 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001800000)
 
 Ist eine Ordnungswidrigkeit nach § 16 Abs. 1 begangen worden, so
 können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
@@ -813,6 +831,7 @@ Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## § 18 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE001900000)
 
 (1) Ein Klassifizierungsunternehmen, das zum Zeitpunkt des
 Inkrafttretens dieses Gesetzes bereits tätig ist, ist von dem
@@ -846,16 +865,19 @@ sind.
 
 
 ## § 19 Aufhebung des Vieh- und Fleischgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE002000000)
 
 -
 
 
 ## § 20 Änderung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE002100000)
 
 -
 
 
 ## § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flg/BJNR071400008.html#BJNR071400008BJNE002200000)
 
 Das Gesetz tritt vorbehaltlich des Satzes 2 am 1. November 2008 in
 Kraft. Vorschriften, die zum Erlass von Rechtsverordnungen

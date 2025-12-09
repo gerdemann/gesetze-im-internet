@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto/BJNR019200977.html#BJNR019200977BJNE000100314)
 
 Auf Grund des Artikels 8 Abs. 2 und 3 des Gesetzes vom 10. Februar
 1976 zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
@@ -28,6 +29,7 @@ Auf Grund des Artikels 8 Abs. 2 und 3 des Gesetzes vom 10. Februar
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto/BJNR019200977.html#BJNR019200977BJNE000201377)
 
 (1) Für Amtshandlungen, Prüfungen und Besichtigungen nach dem Gesetz
 zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
@@ -42,10 +44,12 @@ Justizvergütungs- und -entschädigungsgesetz Anwendung.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto/BJNR019200977.html#BJNR019200977BJNE000301377)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto/BJNR019200977.html#BJNR019200977BJNE000400314)
 
 Diese Verordnung tritt hinsichtlich der Kosten für die Zulassung der
 Container mit Wirkung vom 6. September 1977, im übrigen am Tage nach
@@ -53,11 +57,13 @@ der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto/BJNR019200977.html#BJNR019200977BJNE000500314)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage (zu § 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto/BJNR019200977.html#BJNR019200977BJNE000602377)
 
 (Fundstelle: BGBl. II 2013, 1074 - 1075)
 

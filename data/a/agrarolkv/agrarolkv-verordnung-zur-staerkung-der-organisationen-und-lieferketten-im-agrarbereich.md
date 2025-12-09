@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf
 Grund
@@ -52,12 +53,15 @@ Grund
 
 
 ## Teil 1 - Agrarorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000200000)
 
 
 #### § 1 Erzeugnisbereiche
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000302119)
 
 (1) Die Bereiche von Agrarerzeugnissen, für die jeweils
 Agrarorganisationen anerkannt werden können, (Erzeugnisbereiche) sind
@@ -102,6 +106,7 @@ Abweichendes bestimmt ist.
 
 
 #### § 2 Grundsatz der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000400000)
 
 (1) Eine Agrarorganisation ist auf Antrag anzuerkennen, wenn sie
 folgende Voraussetzungen erfüllt:
@@ -144,6 +149,7 @@ Rechtsverkehr bestellt sind.
 
 
 #### § 3 Allgemeine Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000500000)
 
 Eine Agrarorganisation muss
 
@@ -206,6 +212,7 @@ Eine Agrarorganisation muss
 
 
 #### § 4 Anerkennungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000600000)
 
 (1) Die Anerkennung ist bei der zuständigen Stelle zu beantragen. Dem
 Antrag sind beizufügen:
@@ -267,6 +274,7 @@ verkürzen.
 
 
 #### § 5 Rücknahme, Widerruf und Ruhen der Anerkennung; Änderung der Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000701119)
 
 (1) Die Anerkennung ist unbeschadet des § 48 des
 Verwaltungsverfahrensgesetzes zurückzunehmen, wenn eine
@@ -341,6 +349,7 @@ festzustellen und wird mit dieser Feststellung wirksam.
 
 
 #### § 6 Verstoß gegen Kartellrecht
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000800000)
 
 Leitet die zuständige Kartellbehörde ein Verfahren gegen eine
 anerkannte Agrarorganisation wegen Verstoßes gegen eine
@@ -354,6 +363,7 @@ Entscheidung gilt Satz 2 entsprechend.
 
 
 #### § 7 Agrarorganisationenregister
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE000900000)
 
 (1) Zuständige Stelle für die Führung des Agrarorganisationenregisters
 ist abweichend von § 8 Absatz 1 des Agrarorganisationen-und-
@@ -371,9 +381,11 @@ Bundesanzeiger bekannt machen.
 
 
 ### Abschnitt 2 - Erzeugerorganisationen und deren Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000300000)
 
 
 #### § 8 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001000000)
 
 Jede Erzeugerorganisation hat mindestens eines der folgenden Ziele
 ganz oder teilweise zu verfolgen:
@@ -394,6 +406,7 @@ ganz oder teilweise zu verfolgen:
 
 
 #### § 9 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001101119)
 
 (1) Mitglied in einer Erzeugerorganisation kann nur sein, wer
 
@@ -454,6 +467,7 @@ der Übermittlung im Vorjahr hervorgehen.
 
 
 #### § 10 Mindestmitgliederzahl; Andienungspflicht; Reichweite der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001200000)
 
 (1) Eine Erzeugerorganisation muss mindestens fünf aktive Mitglieder
 haben.
@@ -481,6 +495,7 @@ Agrarverarbeitungserzeugnisse im Sinne des § 9 Absatz 1 Satz 1 Nummer
 
 
 #### § 11 Übertragung von Tätigkeiten an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001300000)
 
 Sieht die Satzung einer Erzeugerorganisation vor, dass nach Maßgabe
 des Unionsrechts Tätigkeiten an Dritte übertragen werden dürfen, muss
@@ -492,6 +507,7 @@ Agrarorganisationen-und-Lieferketten-Gesetzes entsprechend.
 
 
 #### § 12 Vereinigungen anerkannter Erzeugerorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001400000)
 
 (1) Jede Vereinigung hat mindestens eines der in § 8 genannten Ziele
 ganz oder teilweise zu verfolgen.
@@ -519,9 +535,11 @@ anzuwenden.
 
 
 ### Abschnitt 3 - Branchenverbände
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000400000)
 
 
 #### § 13 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001500000)
 
 (1) Ein Branchenverband dient dazu, das Verständnis der in einem
 Erzeugnisbereich tätigen Wirtschaftsbeteiligten füreinander zu fördern
@@ -576,6 +594,7 @@ verfolgen.
 
 
 #### § 14 Zusammensetzung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001600000)
 
 (1) Ein Branchenverband für einen Erzeugnisbereich muss Mitglieder
 haben, die tätig sind in
@@ -607,9 +626,11 @@ Nummer 2 auf diesen Teil des Erzeugnisbereichs.
 
 
 ### Abschnitt 4 - Allgemeinverbindlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000500000)
 
 
 #### § 15 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001700000)
 
 Soweit nach dieser Verordnung für einen Erzeugnisbereich die
 Möglichkeit eröffnet ist, Vorschriften einer Agrarorganisation für
@@ -622,6 +643,7 @@ Verarbeitung eines Erzeugnisses in einem räumlichen Bereich ist.
 
 
 #### § 16 Antragsverfahren und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001800000)
 
 (1) Der Antrag einer Agrarorganisation auf Erklärung der
 Allgemeinverbindlichkeit einer Vorschrift muss enthalten:
@@ -671,6 +693,7 @@ entsprechend.
 
 
 #### § 17 Vorzeitige Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE001900000)
 
 (1) Die Agrarorganisation hat dem Bundesministerium oder im Falle des
 § 16 Absatz 3 der zuständigen Behörde des Landes unverzüglich jede für
@@ -701,9 +724,11 @@ Betroffenen erfolgen.
 
 
 ### Abschnitt 5 - Vereinbarungen und Beschlüsse bei schweren Ungleichgewichten auf den Märkten
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000600000)
 
 
 #### § 18 Mitteilungen zu Vereinbarungen und Beschlüssen bei schweren Ungleichgewichten auf den Märkten
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002000000)
 
 (1) Sieht ein Durchführungsrechtsakt der Europäischen Kommission nach
 Artikel 222 Absatz 1, auch in Verbindung mit Absatz 3 Unterabsatz 2,
@@ -755,9 +780,11 @@ und die Absätze 1 bis 5 entsprechend.
 
 
 ### Abschnitt 6 - Doppelmitgliedschaft; Mitteilungen der Kartellbehörde
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000700000)
 
 
 #### § 19 Doppelmitgliedschaft in Erzeugerorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002100000)
 
 (1) Abweichend von Artikel 149 Absatz 2 Buchstabe d und Artikel 152
 Absatz 1a Unterabsatz 2 Buchstabe d der Verordnung (EU) Nr. 1308/2013
@@ -772,6 +799,7 @@ Vereinigungen.
 
 
 #### § 20 Mitteilungen der Kartellbehörde
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002200000)
 
 (1) Leitet die zuständige Kartellbehörde nach Artikel 149 Absatz 6
 oder Artikel 152 Absatz 1c der Verordnung (EU) Nr. 1308/2013 ein
@@ -785,9 +813,11 @@ der Europäischen Kommission in einem Verfahren nach Artikel 149 Absatz
 
 
 ### Abschnitt 7 - Sonderbestimmungen für den Erzeugnisbereich Zucker
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000800000)
 
 
 #### § 21 Branchenvereinbarungen; anerkannte Organisationen; Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002301119)
 
 (1) Ein Zuckerunternehmen hat der zuständigen Stelle des Landes, in
 dem sich der Hauptsitz des Unternehmens befindet, bis zum 28. Februar
@@ -828,9 +858,11 @@ jeweils geltenden Fassung genannt sind.
 
 
 ### Abschnitt 8 - Sonderbestimmungen für den Erzeugnisbereich Milch und Milcherzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG000900000)
 
 
 #### § 22 Einhaltung der Voraussetzungen bei Vertragsverhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002400000)
 
 (1) Benachrichtigt eine anerkannte Erzeugerorganisation im
 Erzeugnisbereich Milch und Milcherzeugnisse die zuständige Stelle im
@@ -856,6 +888,7 @@ Erzeugnisbereich Milch und Milcherzeugnisse entsprechend.
 
 
 #### § 23 Mitteilungen bei Verhandlungen über Rohmilchlieferverträge
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002501119)
 
 (1) Die zuständigen Stellen haben der Bundesanstalt in elektronisch
 verarbeitungsfähiger Form bis zum 1. März eines jeden Jahres die
@@ -877,15 +910,18 @@ nachrichtlich der zuständigen Kartellbehörde.
 
 
 #### § 24 Allgemeinverbindlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002600000)
 
 Abschnitt 4 ist für den Erzeugnisbereich Milch und Milcherzeugnisse
 anzuwenden.
 
 
 ### Abschnitt 9 - Sonderbestimmungen für den Erzeugnisbereich landwirtschaftlicher Ethylalkohol
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG001000000)
 
 
 #### § 25 Anforderungen an die Erzeugung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002700000)
 
 Abweichend von § 10 Absatz 5 dürfen im Erzeugnisbereich
 landwirtschaftlicher Ethylalkohol bei der Herstellung von Rohalkohol
@@ -898,9 +934,11 @@ ihrer Mitglieder.
 
 
 ### Abschnitt 10 - Überwachung; Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG001100000)
 
 
 #### § 26 Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002800000)
 
 Die anerkannte Agrarorganisation hat sämtliche Unterlagen, die mit
 ihrer Tätigkeit verbunden sind, vier Jahre vom Ende des Kalenderjahres
@@ -910,6 +948,7 @@ Vorschriften längere Aufbewahrungspflichten bestehen.
 
 
 #### § 27 Überwachung der Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE002900000)
 
 Die zuständige Stelle hat jährlich auf der Grundlage einer
 Risikoanalyse mindestens drei Prozent der in ihren
@@ -918,6 +957,7 @@ die Einhaltung der Anerkennungsvoraussetzungen zu kontrollieren.
 
 
 #### § 28 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003001119)
 
 (1) Die zuständigen Stellen haben der Bundesanstalt in elektronisch
 verarbeitungsfähiger Form mitzuteilen:
@@ -976,15 +1016,18 @@ Europäischen Union mit.
 
 
 #### § 29 Nicht anerkannte Erzeugerorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003100000)
 
 Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen
 erfasst, gelten die §§ 26 und 32 entsprechend.
 
 
 ## Teil 2 - Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG001201119)
 
 
 ### § 30 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003201119)
 
 (1) Wird nach § 25 des Agrarorganisationen-und-Lieferketten-Gesetzes
 Beschwerde eingelegt, bestätigt die Durchsetzungsbehörde der
@@ -1006,6 +1049,7 @@ Zwischennachricht.
 
 
 ### § 31 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003300000)
 
 (1) Die Durchsetzungsbehörde teilt dem Bundesministerium bis zum 20.
 Februar eines jeden Jahres nach Maßgabe des Artikels 10 Absatz 2 und 3
@@ -1024,9 +1068,11 @@ Absatz 2 Satz 1 der Richtlinie (EU) 2019/633.
 
 
 ## Teil 3 - Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten; Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG001300000)
 
 
 ### § 32 Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003402119)
 
 (1) Von der zuständigen Stelle oder der Durchsetzungsbehörde
 beauftragte Personen und die in ihrer Begleitung befindlichen
@@ -1089,6 +1135,7 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 
 
 ### § 32a Zeugen- und Sachverständigenvernehmung
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE004000119)
 
 (1) Für den Beweis durch Zeugen und Sachverständige gemäß § 32 Absatz
 1 Satz 2 sind die §§ 376 bis 378, 380 bis 387, 390, 395 bis 397, 398
@@ -1118,6 +1165,7 @@ entscheidet das Gericht.
 
 
 ### § 33 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003502119)
 
 (1) Ordnungswidrig im Sinne des § 55 Absatz 1 Nummer 2 Buchstabe a des
 Agrarorganisationen-und-Lieferketten-Gesetzes handelt, wer vorsätzlich
@@ -1184,9 +1232,11 @@ rechtzeitig macht.
 
 
 ## Teil 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNG001400000)
 
 
 ### § 34 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003600000)
 
 (1) Für Sachverhalte, die vor dem 19. Oktober 2021 entstanden sind,
 ist § 23 der Agrarmarktstrukturverordnung vom 15. November 2013 (BGBl.
@@ -1202,6 +1252,7 @@ und Absatz 2 nicht.
 
 
 ### § 35 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Agrarmarktstrukturverordnung vom 15. November
@@ -1210,12 +1261,14 @@ Gleichzeitig tritt die Agrarmarktstrukturverordnung vom 15. November
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 1)
 
 ### Anlage Ergänzungen von Erzeugnisbereichen und weitere Erzeugnisbereiche
+[Direktlink](https://www.gesetze-im-internet.de/agrarolkv/BJNR465500021.html#BJNR465500021BJNE003901119)
 
 (Fundstelle: BGBl. I 2021, 4665 - 4666; bzgl. der einzelnen Änderungen
 vgl. Fußnote)

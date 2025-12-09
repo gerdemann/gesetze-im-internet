@@ -17,18 +17,21 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000200000)
 
 Es wird ein Bundesministerium für Wohnen, Stadtentwicklung und
 Bauwesen gebildet.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000300000)
 
 Es erhalten
 
@@ -57,6 +60,7 @@ Es erhalten
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000400000)
 
 Dem Bundesministerium für Wirtschaft und Klimaschutz wird übertragen
 
@@ -74,6 +78,7 @@ Dem Bundesministerium für Wirtschaft und Klimaschutz wird übertragen
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000500000)
 
 Dem Bundesministerium des Innern und für Heimat werden aus dem
 Geschäftsbereich des Bundeskanzleramtes die Zuständigkeiten für die
@@ -82,6 +87,7 @@ Bundes übertragen.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000600000)
 
 Dem Auswärtigen Amt wird aus dem Geschäftsbereich des
 Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und
@@ -90,6 +96,7 @@ Klimapolitik übertragen.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000700000)
 
 Dem Bundesministerium der Justiz werden aus dem Geschäftsbereich des
 Bundeskanzleramtes die Zuständigkeiten für die Geschäftsstelle für
@@ -98,6 +105,7 @@ Normenkontrollrat übertragen.
 
 
 ## VII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000800000)
 
 Dem Bundesministerium für Digitales und Verkehr werden übertragen
 
@@ -119,6 +127,7 @@ Dem Bundesministerium für Digitales und Verkehr werden übertragen
 
 
 ## VIII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE000900000)
 
 Dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
 Verbraucherschutz werden übertragen
@@ -149,6 +158,7 @@ Verbraucherschutz werden übertragen
 
 
 ## IX.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE001000000)
 
 Dem Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden
 aus dem Geschäftsbereich des Bundesministeriums des Innern und für
@@ -159,6 +169,7 @@ Wohnen sowie für Raumordnung, Regionalpolitik und Landesplanung
 
 
 ## X.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE001100000)
 
 Dem Geschäftsbereich des Bundeskanzleramtes wird aus dem
 Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz
@@ -169,6 +180,7 @@ Bundeskanzler.
 
 
 ## XI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE001200000)
 
 Alle Zuständigkeitsübertragungen schließen deren europäische und
 internationale Bezüge sowie die entsprechenden übergeordneten und
@@ -181,6 +193,7 @@ Bundeskanzleramtes mitgeteilt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2021/BJNR517600021.html#BJNR517600021BJNE001300000)
 
 Der Bundeskanzler
 

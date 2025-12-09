@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000100000)
 
 (1) Diese Verordnung regelt die Anerkennung, den Einsatz und die
 Überwachung der Prüfsachverständigen nach § 4b des Allgemeinen
@@ -42,6 +44,7 @@ Ausnahme der §§ 21 und 22 dieser Verordnung unterworfen.
 
 
 ### § 2 Fachbereiche und Tätigkeiten der Prüfsachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000200000)
 
 (1) Die Fachbereiche nach § 1 gliedern sich in folgende Fachgebiete:
 
@@ -122,15 +125,18 @@ in Verwaltungsvorschriften.
 
 
 ### § 3 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000300000)
 
 Das Eisenbahn-Bundesamt ist die zuständige Behörde für die Anerkennung
 und Überwachung der Prüfsachverständigen gemäß den Teilen 2 und 5.
 
 
 ## Teil 2 - Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNG000200000)
 
 
 ### § 4 Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000400000)
 
 (1) Prüfsachverständige bedürfen vor Aufnahme ihrer Tätigkeit der
 Anerkennung durch die zuständige Behörde.
@@ -178,6 +184,7 @@ Prüfsachverständigen an, wenn diese Person
 [^F813175_01_BJNR207710020BJNE000400000]: 
 
 ### § 5 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000500000)
 
 (1) Die erstmalige Anerkennung als Prüfsachverständiger, die
 Verlängerung der Anerkennung, die Erweiterung einer vorhandenen
@@ -293,6 +300,7 @@ Verwaltungsvorschriften.
 
 
 ### § 6 Anerkennung als Prüfsachverständiger
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000600000)
 
 (1) Der Prüfsachverständige erhält über seine Anerkennung einen
 Bescheid. In dem Bescheid sind festzulegen:
@@ -323,6 +331,7 @@ hat.
 
 
 ### § 7 Erlöschen, Rücknahme und Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000700000)
 
 (1) Die Anerkennung erlischt
 
@@ -370,9 +379,11 @@ zurückgenommen oder widerrufen wird.
 
 
 ## Teil 3 - Beauftragung und Aufgaben der Prüfsachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNG000300000)
 
 
 ### § 8 Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000800000)
 
 (1) Eisenbahnen, Hersteller oder die nach § 5 des Allgemeinen
 Eisenbahngesetzes zuständigen Behörden beauftragen Prüfsachverständige
@@ -384,6 +395,7 @@ der Inhalt der Prüfung festzulegen.
 
 
 ### § 9 Bautechnische Prüfung der Nachweise von Ingenieurbau-, Oberbau- oder Hochbau-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE000900000)
 
 (1) Bei der bautechnischen Prüfung hat der Prüfsachverständige die
 erforderlichen Nachweise von Ingenieurbau-, Oberbau- oder Hochbau-
@@ -407,6 +419,7 @@ Folgendes vor Ort überprüfen:
 
 
 ### § 10 Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001000000)
 
 (1) Bei der Planprüfung von Signal-, Telekommunikations- oder
 elektrotechnischen Anlagen hat der Prüfsachverständige
@@ -420,6 +433,7 @@ sind als Anlage dem Prüfbericht nach § 20 Absatz 2 beizufügen.
 
 
 ### § 11 Abnahmeprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001100000)
 
 (1) Bei der Abnahmeprüfung hat der Prüfsachverständige die neu gebaute
 oder die veränderte Signal-, Telekommunikations- oder
@@ -431,6 +445,7 @@ prüfen, an deren Planprüfung nach § 10 sie nicht beteiligt waren.
 
 
 ### § 12 Zulassungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001200000)
 
 Bei der Zulassungsprüfung von generischen Produkten, von Verfahren,
 Anwendungen, Bauprodukten oder Bauarten hat der Prüfsachverständige
@@ -439,6 +454,7 @@ prüfen und zu bewerten.
 
 
 ### § 13 Prüfung bei festgestellten Abweichungen von nationalen technischen Vorschriften oder behördlichen Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001300000)
 
 Wenn eine Abweichung von den nationalen technischen Vorschriften oder
 den zu beachtenden behördlichen Entscheidungen festgestellt wird,
@@ -469,9 +485,11 @@ Durchführungsverordnung (EU) 2015/1136 (ABl. L 185 vom 14.7.2015, S.
 
 
 ## Teil 4 - Pflichten der Prüfsachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNG000400000)
 
 
 ### § 14 Unabhängigkeit, Weisungsfreiheit und Gewissenhaftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001400000)
 
 (1) Der Prüfsachverständige ist in der Ausübung seiner Tätigkeit
 unabhängig und an Weisungen seines Auftraggebers nicht gebunden. Er
@@ -491,6 +509,7 @@ erforderlichen Sorgfalt zu ermitteln.
 
 
 ### § 15 Persönliche Aufgabenerfüllung und Beschäftigung von Hilfskräften
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001500000)
 
 (1) Der Prüfsachverständige hat die zu erbringenden Leistungen
 grundsätzlich persönlich zu erbringen. Eine zeitweise Vertretung ist
@@ -513,6 +532,7 @@ der Prüfsachverständige persönlich vornehmen.
 
 
 ### § 16 Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001600000)
 
 (1) Der Prüfsachverständige hat eine Haftpflichtversicherung für
 Personen-, Sach- und Vermögensschäden abzuschließen und während der
@@ -528,6 +548,7 @@ eine zweifache Deckung für das gesamte Jahr aufweisen.
 
 
 ### § 17 Berufsgeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001700000)
 
 (1) Dem Prüfsachverständigen ist es untersagt, die bei der Ausübung
 seiner Tätigkeit erlangten Kenntnisse Dritten unbefugt mitzuteilen
@@ -541,6 +562,7 @@ entsprechend.
 
 
 ### § 18 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001800000)
 
 Erkennt der Prüfsachverständige, dass eine Gefahr für die öffentliche
 Sicherheit oder für die ordnungsgemäße Durchführung seiner
@@ -549,6 +571,7 @@ Auftraggeber und der zuständigen Eisenbahnaufsichtsbehörde anzuzeigen.
 
 
 ### § 19 Verantwortung für die eingesetzten Mittel, Einrichtungen und Ausrüstungen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE001900000)
 
 Der Prüfsachverständige ist für die zur Ausübung seiner Tätigkeit
 erforderlichen Mittel, technischen Einrichtungen und Ausrüstungen
@@ -556,6 +579,7 @@ verantwortlich.
 
 
 ### § 20 Aufzeichnungs- und Aufbewahrungspflichten; Prüfbericht
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002000000)
 
 (1) Der Prüfsachverständige hat über jede von ihm durchgeführte
 Prüftätigkeit Aufzeichnungen zu führen. Die Aufzeichnungen hat der
@@ -606,6 +630,7 @@ Einsichtnahme schützen und sicherstellen, dass die Daten
 
 
 ### § 21 Anzeigepflichten zur Person und zur beruflichen oder gewerblichen Tätigkeit des Prüfsachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002100000)
 
 Der Prüfsachverständige hat der zuständigen Behörde unverzüglich
 Folgendes anzuzeigen:
@@ -642,6 +667,7 @@ Folgendes anzuzeigen:
 
 
 ### § 22 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002200000)
 
 Der Prüfsachverständige hat der zuständigen Behörde auf deren
 Verlangen unentgeltlich solche Auskünfte zu erteilen und angeforderte
@@ -650,6 +676,7 @@ Einhaltung seiner Pflichten erforderlich sind.
 
 
 ### § 23 Fortbildung und Erfahrungsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002300000)
 
 Der Prüfsachverständige hat sich in den Fachgebieten, für die er
 anerkannt ist, regelmäßig, mindestens einmal jährlich, fortzubilden
@@ -657,9 +684,11 @@ und den Erfahrungsaustausch zu pflegen.
 
 
 ## Teil 5 - Überwachung der Prüfsachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNG000500000)
 
 
 ### § 24 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002400000)
 
 (1) Die zuständige Behörde überwacht die Prüfsachverständigen
 regelmäßig.
@@ -685,9 +714,11 @@ regelmäßig.
 
 
 ## Teil 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNG000600000)
 
 
 ### § 25 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002500000)
 
 (1) Anerkennungen von Prüfern und Gutachtern, die am 1. Dezember 2020
 Tätigkeiten nach den §§ 9 bis 11 ausüben, gelten fort, wenn die darin
@@ -710,6 +741,7 @@ die bislang keine Anerkennung beim Eisenbahn-Bundesamt haben.
 (§ 4 Absatz 2 Nummer 2)
 
 ### Anlage 1 Fachkunde im Eisenbahnwesen
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002600000)
 
 (Fundstelle: BGBl. I 2020, 2083)
 
@@ -799,6 +831,7 @@ die bislang keine Anerkennung beim Eisenbahn-Bundesamt haben.
 (§ 4 Absatz 2 Nummer 3)
 
 ### Anlage 2 Berufserfahrung
+[Direktlink](https://www.gesetze-im-internet.de/epsv/BJNR207710020.html#BJNR207710020BJNE002700000)
 
 (Fundstelle: BGBl. I 2020, 2084 - 2085)
 

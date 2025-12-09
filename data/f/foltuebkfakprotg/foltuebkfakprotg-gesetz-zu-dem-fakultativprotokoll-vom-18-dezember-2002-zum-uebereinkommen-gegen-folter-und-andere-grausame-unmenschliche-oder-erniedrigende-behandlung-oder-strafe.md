@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/folt_bkfakprotg/BJNR085420008.html#BJNR085420008BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/folt_bkfakprotg/BJNR085420008.html#BJNR085420008BJNE000200160)
 
 Dem in New York am 20. September 2006 von der Bundesrepublik
 Deutschland unterzeichneten Fakultativprotokoll vom 18. Dezember 2002
@@ -34,6 +36,7 @@ mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/folt_bkfakprotg/BJNR085420008.html#BJNR085420008BJNE000300160)
 
 Die Aufgaben des Nationalen Präventionsmechanismus nach Artikel 3 des
 Protokolls werden im Zuständigkeitsbereich der Länder durch eine von
@@ -43,6 +46,7 @@ Bundesstelle wahrgenommen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/folt_bkfakprotg/BJNR085420008.html#BJNR085420008BJNE000400160)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

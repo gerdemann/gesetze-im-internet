@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000100000)
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
 Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I
@@ -30,6 +31,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000201116)
 
 Die Meisterprüfung besteht aus vier selbständigen Prüfungsteilen.
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
@@ -38,6 +40,7 @@ zulassungspflichtigen Behälter- und Apparatebauer-Handwerk.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000300000)
 
 Im Behälter- und Apparatebauer-Handwerk sind zum Zwecke der
 Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der
@@ -131,6 +134,7 @@ beruflichen Handlungskompetenz zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000401116)
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche
@@ -149,6 +153,7 @@ Behälter- und Apparatebauer-Handwerks meisterhaft verrichten kann.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen
@@ -191,6 +196,7 @@ Messprotokollen und Prüfberichten, mit 15 Prozent gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000600000)
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in
 einem Fachgespräch nachzuweisen, dass er befähigt ist,
@@ -211,6 +217,7 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung
@@ -234,6 +241,7 @@ vorgegebenen Auftrag eine der folgenden Arbeiten auszuführen:
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt dauert sieben Arbeitstage. Das
 Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe
@@ -254,6 +262,7 @@ sein darf.
 
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE000901116)
 
 (1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2
 Satz 2 Nummer 1 bis 4 genannten Handlungsfeldern seine berufliche
@@ -481,6 +490,7 @@ auch handlungsfeldübergreifend verknüpft werden können:
 
 
 ## § 9 Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE001000000)
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in
 jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden
@@ -511,6 +521,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -521,6 +532,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE001201116)
 
 Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
 worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
@@ -529,6 +541,7 @@ Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/behappmstrv/BJNR120300013.html#BJNR120300013BJNE001300000)
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über das Berufsbild und über die Prüfungsanforderungen

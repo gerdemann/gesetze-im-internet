@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wassig_13v/BJNR007150986.html#BJNR007150986BJNE000100304)
 
 Auf Grund des § 13 Abs. 2 des Wassersicherstellungsgesetzes vom 24.
 August 1965 (BGBl. I S. 1225), der durch Artikel 2 Abs. 1 des Gesetzes
@@ -27,6 +28,7 @@ Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wassig_13v/BJNR007150986.html#BJNR007150986BJNE000200304)
 
 (1) Die Ermächtigung der Bundesregierung zum Erlaß von
 Rechtsverordnungen nach § 13 Abs. 1 des Wassersicherstellungsgesetzes
@@ -37,6 +39,7 @@ Ermächtigung durch Rechtsverordnung weiter übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wassig_13v/BJNR007150986.html#BJNR007150986BJNE000300304)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -24,6 +24,7 @@ Mittelbare änderung durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000100000)
 
 I. Abschnitt
 ## Prüfungsausschüsse
@@ -179,9 +180,11 @@ III. Abschnitt
 
 
 ## I. Abschnitt - Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNG000100000)
 
 
 ### § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000200000)
 
 Für die Fahrlehrerprüfung (§ 2 Absatz 1 Satz 1 Nummer 9, § 8 des
 Fahrlehrergesetzes) wird bei der nach Landesrecht zuständigen Behörde
@@ -189,6 +192,7 @@ oder Stelle ein Prüfungsausschuss errichtet.
 
 
 ### § 2 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000302124)
 
 (1) Der Prüfungsausschuss besteht aus vier Mitgliedern. Die Mitglieder
 müssen für ihre Prüfungsgebiete sachkundig und als Prüfer geeignet
@@ -240,6 +244,7 @@ Teilnahme von mindestens zwei Mitgliedern des Prüfungsausschusses.
 
 
 ### § 3 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000401124)
 
 (1) Die nach Landesrecht zuständige Behörde oder Stelle beruft die
 Mitglieder des Prüfungsausschusses und bestimmt das vorsitzende
@@ -256,6 +261,7 @@ sie den Bewerber nicht ausgebildet haben.
 
 
 ### § 4 Ausgeschlossene Personen, Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000500000)
 
 (1) Bei Prüfungen oder Lehrproben darf ein Prüfungsausschussmitglied
 nicht mitwirken:
@@ -347,6 +353,7 @@ Prüfungsausschusses ist durch ein anderes Mitglied zu ersetzen.
 
 
 ### § 5 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000600000)
 
 Die Mitglieder des Prüfungsausschusses haben gegenüber Dritten
 Verschwiegenheit zu wahren. Ausnahmen bedürfen der Einwilligung der
@@ -355,6 +362,7 @@ Prüfungsausschusses nach § 1 bestimmten Stelle.
 
 
 ### § 6 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000702124)
 
 Für die Durchführung der Prüfungen ist nach § 50 des
 Fahrlehrergesetzes jeweils der Prüfungsausschuss zuständig, in dessen
@@ -369,6 +377,7 @@ werden.
 
 
 ### § 7 Beschlussfähigkeit und Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000800000)
 
 (1) Der Prüfungsausschuss ist beschlussfähig, wenn die in § 2 jeweils
 genannten Mitglieder mitwirken.
@@ -378,9 +387,11 @@ Stimmengleichheit entscheidet das vorsitzende Mitglied.
 
 
 ## II. Abschnitt - Durchführung der Fahrlehrerprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNG000200000)
 
 
 ### § 8 Zulassung zur Fahrlehrerprüfung (§ 8 des Fahrlehrergesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE000901123)
 
 (1) Die nach Landesrecht zuständige Behörde oder die nach § 44 Absatz
 2 des Fahrlehrergesetzes zuständige Dienststelle lässt den
@@ -441,6 +452,7 @@ Prüfungsausschusses übertragen.
 
 
 ### § 9 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001000000)
 
 Das vorsitzende Mitglied des Prüfungsausschusses bestimmt Ort und Zeit
 der Prüfungen und Lehrproben und lädt den Fahrlehreranwärter oder
@@ -453,6 +465,7 @@ Ausbildungsfahrschule durchgeführt werden.
 
 
 ### § 10 Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001100000)
 
 (1) Der Fahrlehreranwärter oder Bewerber kann vor Beginn der
 jeweiligen Prüfungen und Lehrproben durch schriftliche oder
@@ -472,6 +485,7 @@ vorsitzende Mitglied des Prüfungsausschusses.
 
 
 ### § 11 Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001200000)
 
 Stört der Fahrlehreranwärter oder Bewerber den Ablauf einer Prüfung
 oder einer Lehrprobe erheblich oder begeht er eine Täuschungshandlung,
@@ -484,6 +498,7 @@ Prüfung oder die Lehrprobe als nicht bestanden.
 
 
 ### § 12 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001300000)
 
 Die Prüfungen und Lehrproben sind nicht öffentlich. Beauftragte der
 nach Landesrecht zuständigen Behörden können jedoch jederzeit als
@@ -498,6 +513,7 @@ widerspricht.
 
 
 ### § 13 Gegenstand der Prüfungen und Lehrproben
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001400000)
 
 In den Prüfungen und Lehrproben hat der Fahrlehreranwärter oder der
 Bewerber um die Fahrlehrerlaubnis der Fahrlehrerlaubnisklassen A, CE
@@ -508,6 +524,7 @@ Rahmenplans und die Fähigkeit zu ihrer praktischen Anwendung.
 
 
 ### § 14 Gliederung der Prüfungen und Lehrproben
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001500000)
 
 (1) Die Fahrlehrerprüfung besteht aus einer fahrpraktischen Prüfung,
 einer Fachkundeprüfung mit einem schriftlichen und mündlichen Teil
@@ -522,6 +539,7 @@ beliebiger Reihenfolge vorgesehen werden.
 
 
 ### § 15 Fahrpraktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001600000)
 
 (1) In der fahrpraktischen Prüfung hat der Fahrlehreranwärter oder
 Bewerber nachzuweisen, dass er ein Kraftfahrzeug und eine
@@ -573,6 +591,7 @@ Prüfung nicht gerecht wird.
 
 
 ### § 16 Fachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001701124)
 
 (1) Im schriftlichen Teil der Prüfung hat der Fahrlehreranwärter oder
 Bewerber seine fachlichen sowie pädagogisch-psychologischen und
@@ -620,6 +639,7 @@ Eine gemeinsame Prüfung von bis zu drei Bewerbern ist zulässig.
 
 
 ### § 17 Lehrprobe im theoretischen Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001800000)
 
 (1) Der Fahrlehreranwärter hat in etwa 45 Minuten nachzuweisen, dass
 er in der Lage ist, Fahrschülern theoretischen Unterricht zu erteilen.
@@ -633,6 +653,7 @@ Ausbildungsstand der Fahrschüler durchzuführen.
 
 
 ### § 18 Lehrprobe im fahrpraktischen Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE001900000)
 
 In der Lehrprobe im fahrpraktischen Unterricht hat der
 Fahrlehreranwärter in etwa 45 Minuten nachzuweisen, dass er in der
@@ -642,6 +663,7 @@ Fahrunterricht ist ein Kraftfahrzeug nach § 15 Absatz 1 zu benutzen. §
 
 
 ### § 19 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002000000)
 
 (1) Die Leistungen in den Prüfungen und Lehrproben sind nach folgenden
 Noten zu bewerten:
@@ -682,6 +704,7 @@ ausgeglichen.
 
 
 ### § 20 Entscheidung über die Prüfungen und Lehrproben
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002100000)
 
 (1) Der Prüfungsausschuss entscheidet über die Bewertung der Prüfungen
 und Lehrproben.
@@ -694,6 +717,7 @@ Votum zustande kommt, ist § 19 Absatz 3 anzuwenden.
 
 
 ### § 21 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002200000)
 
 Das vorsitzende Mitglied oder ein Mitglied nach § 2 Absatz 4 gibt dem
 Fahrlehreranwärter oder Bewerber die Bewertung nach jeder einzelnen
@@ -702,6 +726,7 @@ bewertete Prüfungsteile sind zu erläutern und zu begründen.
 
 
 ### § 22 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002300000)
 
 Über den wesentlichen Verlauf und die Ergebnisse der Prüfungen und
 Lehrproben ist eine Niederschrift oder ein elektronisches Dokument zu
@@ -711,6 +736,7 @@ Niederschrift oder dem elektronischen Dokument ersichtlich sein.
 
 
 ### § 23 Nicht bestandene Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002400000)
 
 Bei einer nicht bestandenen Prüfung oder Lehrprobe ist dem
 Fahrlehreranwärter oder Bewerber ein schriftlicher Bescheid mit
@@ -718,12 +744,14 @@ Rechtsbehelfsbelehrung zuzustellen.
 
 
 ### § 24 Wiederholungen der Prüfungen und Lehrproben
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002500000)
 
 Prüfungen und Lehrproben können jeweils höchstens zweimal wiederholt
 werden.
 
 
 ### § 25 Erneute Fahrlehrerprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002600000)
 
 Die Prüfungen und Lehrproben können nach Abschluss der nicht
 bestandenen Prüfung oder Lehrprobe erneut abgelegt werden, wenn der
@@ -732,6 +760,7 @@ die beantragte Klasse unterzogen hat.
 
 
 ### § 26 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002700000)
 
 Dem Fahrlehreranwärter oder Bewerber ist auf Antrag Einsicht in die
 ihn betreffenden Prüfungsunterlagen zu gewähren. Die
@@ -742,9 +771,11 @@ letzten Prüfungsergebnisses.
 
 
 ## III. Abschnitt - Ausnahmebestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNG000300000)
 
 
 ### § 27 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlpr_fv/BJNR004200018.html#BJNR004200018BJNE002800000)
 
 Die §§ 1 bis 6 und 9 gelten nicht für die in § 44 Absatz 2 des
 Fahrlehrergesetzes genannten Behörden.

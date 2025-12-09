@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE000400307)
 
 Aufgrund des § 58a Abs. 1 Satz 2 des Bundes-Immissionsschutzgesetzes
 in der Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880)
@@ -30,10 +31,12 @@ Reaktorsicherheit, jeweils nach Anhörung der beteiligten Kreise:
 
 
 ## Abschnitt 1 - Bestellung von Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNG000100307)
 
 
 
 ### § 1 Pflicht zur Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE000501320)
 
 (1) Betreiber der im Anhang I zu dieser Verordnung bezeichneten
 genehmigungsbedürftigen Anlagen haben einen betriebsangehörigen
@@ -55,6 +58,7 @@ Erfüllung der Aufgaben nicht beeinträchtigt wird.
 
 
 ### § 2 Mehrere Beauftragte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE000600307)
 
 Die zuständige Behörde kann anordnen, daß der Betreiber einer Anlage
 im Sinne des § 1 mehrere Immissionsschutz- oder Störfallbeauftragte zu
@@ -64,6 +68,7 @@ Immissionsschutzgesetzes bezeichneten Aufgaben gewährleistet ist.
 
 
 ### § 3 Gemeinsamer Beauftragter
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE000700307)
 
 Werden von einem Betreiber mehrere Anlagen im Sinne des § 1 betrieben,
 so kann er für diese Anlagen einen gemeinsamen Immissionsschutz- oder
@@ -74,6 +79,7 @@ entsprechend.
 
 
 ### § 4 Beauftragter für Konzerne
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE000800307)
 
 Die zuständige Behörde kann einem Betreiber oder mehreren Betreibern
 von Anlagen im Sinne des § 1, die unter der einheitlichen Leitung
@@ -97,6 +103,7 @@ Störfallbeauftragten für den Konzernbereich gestatten, wenn
 
 
 ### § 5 Nicht betriebsangehörige Beauftragte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE000901320)
 
 (1) Betreibern von Anlagen im Sinne des § 1 Abs. 1 soll die zuständige
 Behörde auf Antrag die Bestellung eines oder mehrerer nicht
@@ -112,6 +119,7 @@ Immissionsschutzgesetzes bezeichneten Aufgaben nicht gefährdet wird.
 
 
 ### § 6 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001000307)
 
 Die zuständige Behörde hat auf Antrag den Betreiber einer Anlage im
 Sinne des § 1 von der Verpflichtung zur Bestellung eines
@@ -122,10 +130,12 @@ nicht erforderlich ist.
 
 
 ## Abschnitt 2 - Fachkunde und Zuverlässigkeit von Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNG000200307)
 
 
 
 ### § 7 Anforderungen an die Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001202320)
 
 Die Fachkunde im Sinne des § 55 Abs. 2 Satz 1 und des § 58c Abs. 1 des
 Bundes-Immissionsschutzgesetzes erfordert
@@ -150,6 +160,7 @@ Bundes-Immissionsschutzgesetzes erfordert
 
 
 ### § 8 Voraussetzung der Fachkunde in Einzelfällen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001300307)
 
 (1) Soweit im Einzelfall eine sachgemäße Erfüllung der gesetzlichen
 Aufgaben der Beauftragten gewährleistet ist, kann die zuständige
@@ -178,6 +189,7 @@ Einzelfall als gleichwertig anzusehen ist.
 
 
 ### § 9 Anforderungen an die Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001400307)
 
 (1) Der Betreiber hat dafür Sorge zu tragen, daß der Beauftragte
 regelmäßig, mindestens alle zwei Jahre, an Fortbildungsmaßnahmen
@@ -192,6 +204,7 @@ nachzuweisen.
 
 
 ### § 10 Anforderungen an die Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001502116)
 
 (1) Die Zuverlässigkeit im Sinne des § 55 Abs. 2 Satz 1 und des § 58c
 Abs. 1 des Bundes-Immissionsschutzgesetzes erfordert, daß der
@@ -262,6 +275,7 @@ wenn der Immissionsschutzbeauftragte oder der Störfallbeauftragte
 
 
 ### § 10a Nachweise nicht betriebsangehöriger Personen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE002100310)
 
 Nachweise nicht betriebsangehöriger Personen aus einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
@@ -286,10 +300,12 @@ Gewerbeordnung entsprechend.
 
 
 ## Abschnitt 3 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNG000300307)
 
 
 
 ### § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001600307)
 
 Die Anforderungen der §§ 7 und 8 gelten nicht für
 Immissionsschutzbeauftragte, die in Übereinstimmung mit den bisher
@@ -297,6 +313,7 @@ geltenden Vorschriften bestellt worden sind.
 
 
 ### § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001700307)
 
 Diese Verordnung tritt am Tage nach der Verkündung, § 7 Nr. 2 am
 ersten Tage des sechsten auf die Verkündung folgenden Kalendermonats
@@ -307,11 +324,13 @@ Verordnung fort.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001800307)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anhang I (zu § 1 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE001902116)
 
 Für genehmigungsbedürftige Anlagen, die in den folgenden Nummern des
 Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen vom 2.
@@ -489,6 +508,7 @@ Immissionsschutzbeauftragter zu bestellen:
 
 
 ### Anhang II
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_5_1993/BJNR143300993.html#BJNR143300993BJNE002001116)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 1439
 

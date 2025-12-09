@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000100000)
 
 Auf Grund
 
@@ -58,6 +59,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000200000)
 
 Diese Verordnung ist in zivil-, arbeits-, verwaltungs-, sozial- und
 finanzgerichtlichen Verfahren sowie in Verfahren in Familiensachen und
@@ -78,6 +80,7 @@ an die Gerichte. Besondere Verordnungen über die Standards für die
 
 
 ## § 2 Übermittlung elektronischer Akten
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000300000)
 
 (1) Elektronische Akten sollen elektronisch übermittelt werden. Ab dem
 1\. Januar 2028 sind sie elektronisch zu übermitteln.
@@ -125,6 +128,7 @@ oder Schemadateien entspricht. Er soll mindestens Folgendes enthalten:
 
 
 ## § 3 Format der Übermittlung; Eignung zur Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000400000)
 
 (1) Die Dokumente der elektronischen Akte müssen im Dateiformat PDF
 und, soweit dies technisch möglich ist, in digital durchsuchbarer Form
@@ -161,6 +165,7 @@ PDF übertragen werden können, sind im ursprünglichen Dateiformat zu
 
 
 ## § 4 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000500000)
 
 (1) Ist die elektronische Übermittlung nach § 2 aus technischen
 Gründen vorübergehend nicht möglich, so ist die Übermittlung der Akte
@@ -193,11 +198,13 @@ bis zum 31. Dezember 2035 in Papierform übermittelt werden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/behakt_bv/BJNR07D0A0025.html#BJNR07D0A0025BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,21 +20,25 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000100000)
 
 Auf Grund des § 15 des Visa-Warndateigesetzes vom 22. Dezember 2011
 (BGBl. I S. 3037) verordnet das Bundesministerium des Innern:
 
 
 ## Abschnitt 1 - Inhalt der Datei
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNG000100000)
 
 
 ### § 1 Inhalt der Datensätze
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000200000)
 
 Die Daten, die nach § 3 des Visa-Warndateigesetzes gespeichert werden
 dürfen, ergeben sich aus Spalte A der Anlage zu dieser Verordnung.
 
 
 ### § 2 Visa-Warndateinummer
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000300000)
 
 (1) Das Bundesverwaltungsamt vergibt die Visa-Warndateinummer als
 Geschäftszeichen, wenn folgende Daten gespeichert werden:
@@ -68,6 +72,7 @@ keine Verarbeitung der Daten erfolgt.
 
 
 ### § 3 Berichtigung eines Datensatzes
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000400000)
 
 (1) Das Bundesverwaltungsamt hat unabhängig von der Verantwortung der
 öffentlichen Stellen nach § 5 Absatz 1 des Visa-Warndateigesetzes
@@ -89,9 +94,11 @@ Datensätze von Organisationen entsprechend.
 
 
 ## Abschnitt 2 - Datenübermittlung an das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNG000200000)
 
 
 ### § 4 Allgemeine Regelungen der Datenübermittlung an das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000500000)
 
 (1) Die Stellen, die nach § 4 des Visa-Warndateigesetzes verpflichtet
 sind, an das Bundesverwaltungsamt Daten zu übermitteln, die in der
@@ -139,6 +146,7 @@ vernichten.
 
 
 ### § 5 Verfahren der Datenübermittlung an das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000600000)
 
 (1) Die Stellen, die zur Datenübermittlung im Wege der Direkteingabe
 berechtigt sind, haben zuvor durch Abruf im automatisierten Verfahren
@@ -207,6 +215,7 @@ Fall ein neuer Datensatz mit den übermittelten Daten angelegt.
 
 
 ### § 6 Speicherung mit Einwilligung einer Person
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000700000)
 
 (1) Die Speicherung von Daten in der Visa-Warndatei nach § 2 Absatz 2
 des Visa-Warndateigesetzes erfolgt auf Antrag der betroffenen Person
@@ -232,9 +241,11 @@ Daten einer Organisation entsprechend.
 
 
 ## Abschnitt 3 - Datenübermittlung durch das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNG000300000)
 
 
 ### § 7 Übermittlungsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000800000)
 
 (1) Jede Stelle, die um Übermittlung von Daten aus der Datei ersucht,
 hat zuvor zu prüfen, ob die Kenntnis dieser Daten zur Erfüllung ihrer
@@ -274,6 +285,7 @@ Satz 1 entsprechend.
 
 
 ### § 8 Allgemeine Regelungen der Datenübermittlung durch das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE000900000)
 
 (1) Der Umfang der Daten, die das Bundesverwaltungsamt nach dem Visa-
 Warndateigesetz an die jeweils ersuchende Stelle übermitteln und
@@ -299,6 +311,7 @@ dieser Verordnung.
 
 
 ### § 9 Zulassung zum Abruf von Daten im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001000000)
 
 (1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren
 nach § 9 Absatz 1 des Visa-Warndateigesetzes ist schriftlich beim
@@ -341,9 +354,11 @@ Ausländerzentralregister im automatisierten Verfahren zugelassen ist.
 
 
 ## Abschnitt 4 - Auskunft an die betroffene Person
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNG000400000)
 
 
 ### § 10 Voraussetzungen und Verfahren der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001100000)
 
 (1) Die betroffene Person kann nach § 12 des Visa-Warndateigesetzes
 jederzeit einen Antrag auf Auskunftserteilung stellen. Der Antrag kann
@@ -374,9 +389,11 @@ beinhaltet auch die Daten der zu ihr gespeicherten Personen.
 
 
 ## Abschnitt 5 - Protokollierung bei Datenübermittlungen, Sperrung und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNG000500000)
 
 
 ### § 11 Protokollierung bei Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001200000)
 
 Das Bundesverwaltungsamt hat sicherzustellen, dass die Protokollierung
 nach § 11 des Visa-Warndateigesetzes bei der Eingabe und beim Abruf
@@ -387,6 +404,7 @@ von der ordnungsgemäßen Funktion dieses Verfahrens zu überzeugen.
 
 
 ### § 12 Sperrung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001300000)
 
 (1) Die für die Richtigkeit und Aktualität der Daten verantwortlichen
 Stellen unterrichten das Bundesverwaltungsamt, wenn durch eine
@@ -412,19 +430,23 @@ Personalien nur der Hinweis auf den Sperrvermerk übermittelt.
 
 
 ## Abschnitt 6 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNG000600000)
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001400000)
 
 Diese Verordnung tritt am 1. Juni 2013 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die in der Datei gespeichert werden, übermittelnde Stellen, Übermittlungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/vwdg-dv/BJNR141400013.html#BJNR141400013BJNE001603311)
 
 (Fundstelle: BGBl. I 2013, 1418 – 1423)
 

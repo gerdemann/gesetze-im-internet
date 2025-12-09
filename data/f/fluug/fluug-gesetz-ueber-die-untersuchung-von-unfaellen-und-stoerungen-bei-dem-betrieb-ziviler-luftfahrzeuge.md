@@ -30,10 +30,12 @@ in Kraft getreten.
 
 
 ## Erster Abschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNG000100305)
 
 
 
 ### § 1 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE000804126)
 
 (1) Dieses Gesetz gilt für die Untersuchung von Unfällen und Störungen
 beim Betrieb ziviler Luftfahrzeuge, die sich im Hoheitsgebiet der
@@ -57,6 +59,7 @@ Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE000900305)
 
 Im Sinne dieses Gesetzes bedeutet:
 Unfall
@@ -199,6 +202,7 @@ ergeben hatten.
 
 
 ### § 3 Zweck und Gegenstand der Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001000305)
 
 (1) Unfälle und Störungen unterliegen einer Untersuchung mit dem
 ausschließlichen Zweck, nach Möglichkeit die Ursachen aufzuklären, mit
@@ -255,10 +259,12 @@ Buchstabe b entsprechend anzuwenden.
 
 
 ## Zweiter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNG000200305)
 
 
 
 ### § 4 Bundesstelle für Flugunfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001104305)
 
 (1) Zur Untersuchung von Unfällen und Störungen in der zivilen
 Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr
@@ -318,6 +324,7 @@ der Entwicklung anzupassen.
 
 
 ### § 5 Zusammenarbeit mit anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001201126)
 
 (1) Wird ein Unfall oder eine Störung eines von diesem Gesetz erfaßten
 Luftfahrzeugs außerhalb des Geltungsbereichs dieses Gesetzes durch
@@ -365,6 +372,7 @@ gewährt. Die Regelung in Absatz 1 Satz 4 gilt entsprechend.
 
 
 ### § 6 Unterrichtung ausländischer Staaten und der Internationalen Zivilluftfahrt-Organisation
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001300305)
 
 (1) Ereignet sich im Geltungsbereich dieses Gesetzes ein Unfall oder
 eine schwere Störung, unterrichtet die Bundesstelle unverzüglich auf
@@ -394,6 +402,7 @@ personenbezogene Daten erstreckt, ist § 26 Abs. 4 anzuwenden.
 
 
 ### § 7 Unterrichtung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001401126)
 
 Begründen im Verlauf der Untersuchung ermittelte Tatsachen die
 Annahme, daß eine strafbare Handlung vorliegt, die im Zusammenhang mit
@@ -405,10 +414,12 @@ diesem Zweck auch personenbezogene Daten übermitteln.
 
 
 ## Dritter Abschnitt - Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNG000300305)
 
 
 
 ### § 8 Untersuchungsstatus
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001500305)
 
 (1) Die Untersuchung durch die Bundesstelle hat grundsätzlich Vorrang
 vor allen anderen fachlich-technischen Untersuchungen für andere als
@@ -422,6 +433,7 @@ Bundesstelle mit anderen beteiligten Behörden zu ordnen.
 
 
 ### § 9 Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001600305)
 
 (1) Das Untersuchungsverfahren umfaßt die gesamte Tätigkeit der
 Bundesstelle, die auf die Ermittlung der ursächlichen Zusammenhänge
@@ -439,6 +451,7 @@ gebunden. Das Verfahren ist einfach und zweckmäßig durchzuführen.
 
 
 ### § 10 Einleitung der Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001700305)
 
 (1) Im Einzelfall bestimmt die Bundesstelle einen Untersuchungsführer,
 der die Untersuchung leitet.
@@ -448,6 +461,7 @@ Untersuchungszwecks notwendigen Maßnahmen.
 
 
 ### § 11 Untersuchungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001800305)
 
 (1) Der Untersuchungsführer, die Untersuchungsfachkräfte und die
 Beauftragten für Unfalluntersuchung sind zur Erfüllung des
@@ -511,6 +525,7 @@ und Untersuchung der Opfer und die Aufzeichnungsanlagen.
 
 
 ### § 12 Unfallstelle
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE001900305)
 
 (1) Die Unfallstelle ist frühestmöglich wirksam gegen den Zutritt
 Dritter abzusperren. Unbefugte dürfen die Unfallstelle nicht betreten.
@@ -541,6 +556,7 @@ Untersuchungsführer unverändert liegen zu lassen.
 
 
 ### § 13 Freigabe der Unfallstelle und des Luftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002000305)
 
 Über die Freigabe der Unfallstelle, des Luftfahrzeugs, des Wracks oder
 seiner Teile, der Ladung und etwaiger Opfer entscheidet der
@@ -549,6 +565,7 @@ Strafverfolgungsbehörde.
 
 
 ### § 14 Teilnehmer am Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002101305)
 
 (1) Am Untersuchungsverfahren nehmen auf ihr Verlangen je ein
 bevollmächtigter Vertreter nicht-deutscher Staaten teil (Teilnehmer),
@@ -632,6 +649,7 @@ personenbezogenen Daten erhalten, gilt § 26 Abs. 4 entsprechend.
 
 
 ### § 15 Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002200305)
 
 Liegt ein Grund vor, der geeignet ist, Mißtrauen gegen die
 unparteiische Ausübung der Tätigkeit einer an der Untersuchung
@@ -647,6 +665,7 @@ trifft die Aufsichtsbehörde die erforderlichen Anordnungen.
 
 
 ### § 16 Nachweismittel
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002300305)
 
 (1) Der Untersuchungsführer und die Untersuchungsfachkräfte bedienen
 sich aller zur Verfügung stehenden Mittel zum Nachweis der
@@ -687,10 +706,12 @@ entschädigen.
 
 
 ## Vierter Abschnitt - Berichte und ihre Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNG000400305)
 
 
 
 ### § 17 Anhörung vor Abschluß eines Untersuchungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002401305)
 
 (1) Vor Abschluß eines Untersuchungsberichts ist nach Lage des Falles
 dem Halter des Luftfahrzeugs, dem Hersteller des Luftfahrzeugs und
@@ -715,6 +736,7 @@ Abs. 4 und 5) abgeschlossen wird.
 
 
 ### § 18 Untersuchungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002503305)
 
 (1) Zu jeder Untersuchung wird ein Bericht der Bundesstelle in einer
 der Art und Schwere des Ereignisses angemessenen Form verfaßt. Dieser
@@ -762,6 +784,7 @@ Unfallhergang.
 
 
 ### § 19 Sicherheitsempfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002600305)
 
 (1) Sicherheitsempfehlungen werden vom Leiter der Bundesstelle
 herausgegeben.
@@ -786,6 +809,7 @@ der Sicherheitsempfehlung.
 
 
 ### § 20 Ausländische Untersuchungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002700305)
 
 (1) In den Fällen des § 5 Abs. 1 dürfen Entwürfe ausländischer
 Untersuchungsberichte, Teile davon und Dokumente, die die Bundesstelle
@@ -801,6 +825,7 @@ Veröffentlichung ist § 18 Abs. 2 Satz 1 entsprechend anzuwenden.
 
 
 ### § 21 Erteilung von Auskünften und Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002801126)
 
 (1) Die Bundesstelle kann den von dem Ereignis betroffenen Personen
 oder deren Rechtsbeiständen Auskünfte aus den Akten des
@@ -844,6 +869,7 @@ Deutschland im Ausland erfolgen.
 
 
 ### § 22 Wiederaufnahme eines Untersuchungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE002900305)
 
 Werden innerhalb von zehn Jahren nach Fertigstellung des
 Untersuchungsberichts wesentliche neue Tatsachen bekannt, nimmt die
@@ -857,10 +883,12 @@ Oberverwaltungsgericht erhoben werden; sein Spruch ist unanfechtbar.
 
 
 ## Fünfter Abschnitt - Untersuchungskammer
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNG000500305)
 
 
 
 ### § 23 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003000305)
 
 (1) Bei Unfällen und Störungen von besonderer Bedeutung und Schwere,
 deren Untersuchung nach Art und Umfang das übliche Maß überschritten
@@ -894,10 +922,12 @@ die Untersuchungskammer auf.
 
 
 ## Sechster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNG000600305)
 
 
 
 ### § 24 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003100305)
 
 (1) Die Untersuchungskosten trägt zunächst der Bund.
 
@@ -923,6 +953,7 @@ vollzogen werden kann.
 
 
 ### § 25 Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003201126)
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach § 11 und die
 Teilnehmer nach § 14 dürfen im Rahmen ihrer Befugnisse nach den §§ 11
@@ -949,6 +980,7 @@ oder in Akten festgehalten.
 
 
 ### § 26 Datenübermittlung an öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003301126)
 
 (1) Die Bundesstelle darf Daten nach § 25 an öffentliche Stellen
 übermitteln, soweit dies für die Sicherheit in der Luftfahrt, für die
@@ -995,6 +1027,7 @@ worden sind.
 
 
 ### § 27 Aufbewahrungs- und Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003402126)
 
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit
 Todesopfern 30 Jahre. Alle anderen Akten werden 20 Jahre aufbewahrt.
@@ -1010,6 +1043,7 @@ Bundesarchivgesetzes sind anzuwenden.
 
 
 ### § 28 Flugsicherheitsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003500305)
 
 (1) Die Bundesstelle leistet Flugsicherheitsarbeit mit dem Ziel der
 Flugunfallverhütung, indem sie Statistiken führt und auswertet,
@@ -1060,6 +1094,7 @@ ordnungsgemäße Erfüllung der Aufgaben nicht beeinträchtigt wird.
 
 
 ### § 29 Beteiligung am Such- und Rettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003600305)
 
 Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie
 notwendige Informationen beschafft, an diesen weitergibt und ihn
@@ -1069,6 +1104,7 @@ Einvernehmen herzustellen.
 
 
 ### § 30 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003700305)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1097,6 +1133,7 @@ Einvernehmen herzustellen.
 
 
 ### Anhang Beispiele für schwere Störungen
+[Direktlink](https://www.gesetze-im-internet.de/fluug/BJNR247010998.html#BJNR247010998BJNE003800305)
 
 Die nachstehend aufgeführten Störungen sind typische Beispiele für
 schwere Störungen. Die Liste ist jedoch nicht erschöpfend und dient

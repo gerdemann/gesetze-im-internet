@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 dieser V mit Ablauf des 30.6.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/malerarbbv_12/BJNR0B30A0025.html#BJNR0B30A0025BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des §
 7 Absatz 1, 2 und 4 des Arbeitnehmer-Entsendegesetzes vom 20. April
@@ -35,6 +36,7 @@ gegeben hat:
 
 
 ## § 1 Zwingende Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/malerarbbv_12/BJNR0B30A0025.html#BJNR0B30A0025BJNE000200000)
 
 Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des
 Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche
@@ -53,17 +55,20 @@ des TV Mindestlohn überwiegend Bauleistungen im Sinne des § 101 Absatz
 
 
 ## § 2 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/malerarbbv_12/BJNR0B30A0025.html#BJNR0B30A0025BJNE000300000)
 
 Diese Verordnung tritt mit Ablauf des 30. Juni 2027 außer Kraft.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/malerarbbv_12/BJNR0B30A0025.html#BJNR0B30A0025BJNE000400000)
 
 Diese Verordnung tritt am 1. August 2025 in Kraft.
 
 (zu § 1)
 
 ## Anlage Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 28. April 2025
+[Direktlink](https://www.gesetze-im-internet.de/malerarbbv_12/BJNR0B30A0025.html#BJNR0B30A0025BJNE000500000)
 
 (Fundstelle: BGBl 2025 I Nr. 179, S. 3 - 7)
 

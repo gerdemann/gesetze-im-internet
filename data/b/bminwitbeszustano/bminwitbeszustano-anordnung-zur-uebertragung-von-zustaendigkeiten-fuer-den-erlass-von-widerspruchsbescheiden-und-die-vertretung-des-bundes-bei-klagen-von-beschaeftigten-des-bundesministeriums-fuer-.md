@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminwitbeszustano/BJNR233300010.html#BJNR233300010BJNE000100000)
 
 Nach § 126 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
 (BGBl. I S. 160) wird der Bundesnetzagentur für Elektrizität, Gas,
@@ -31,6 +32,7 @@ Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminwitbeszustano/BJNR233300010.html#BJNR233300010BJNE000200000)
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
 (BGBl. I S. 160) wird der Bundesnetzagentur für Elektrizität, Gas,
@@ -43,6 +45,7 @@ Prozessvertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminwitbeszustano/BJNR233300010.html#BJNR233300010BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 1. Januar 2011 anzuwenden.
 Gleichzeitig tritt die Anordnung zur Übertragung von Zuständigkeiten
@@ -54,6 +57,7 @@ Amtsbezügen sowie des Kindergeldes vom 29. September 2009 (BGBl. I S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminwitbeszustano/BJNR233300010.html#BJNR233300010BJNE000400000)
 
 Der Bundesminister für Wirtschaft und Technologie
 

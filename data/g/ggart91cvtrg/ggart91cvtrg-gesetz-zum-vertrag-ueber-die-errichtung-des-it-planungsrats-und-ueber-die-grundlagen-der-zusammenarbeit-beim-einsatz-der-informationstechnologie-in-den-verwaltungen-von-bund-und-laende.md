@@ -22,11 +22,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtrg/BJNR066200010.html#BJNR066200010BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtrg/BJNR066200010.html#BJNR066200010BJNE000200000)
 
 (1) Dem „Vertrag über die Errichtung des IT-Planungsrats und über die
 Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie
@@ -44,6 +46,7 @@ Thüringen wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtrg/BJNR066200010.html#BJNR066200010BJNE000300000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

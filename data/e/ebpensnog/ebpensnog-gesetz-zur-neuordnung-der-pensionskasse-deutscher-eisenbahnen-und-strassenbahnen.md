@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Umwandlung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000102118)
 
 (1) Die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen (Kasse),
 Körperschaft des öffentlichen Rechts, wird mit Wirkung zum 1. Januar
@@ -59,6 +60,7 @@ einen Solvabilitätsplan gemäß § 81b Abs. 1 vorgelegt hat.
 
 
 ## § 2 Fortführung von Versorgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000202377)
 
 (1) Die Versicherungsverhältnisse der Abteilungen D, E, F der Kasse
 werden mit Wirkung zum 1. Januar 2006 auf die Deutsche
@@ -91,6 +93,7 @@ fest.
 
 
 ## § 3 Nachweise über die Verwendung der Zuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000302377)
 
 Der Bundesminister der Finanzen bestimmt im Benehmen mit dem
 Bundesrechnungshof, welche Nachweise die Deutschen Rentenversicherung
@@ -99,10 +102,12 @@ hat.
 
 
 ## (XXXX) §§ 4 und 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000401377)
 
 
 
 ## § 6 Neuregelung der Versorgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000603377)
 
 (1) Für die Leistungsempfänger der Abteilung D gelten die bisher in
 der Anlage zu § 33 Abs. 1 der Kasse festgesetzten
@@ -130,6 +135,7 @@ und F jeweils entsprechend neu zu regeln.
 
 
 ## § 6a
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000700328)
 
 Die Vorschriften des Gesetzes zur Regelung von Ansprüchen aus Lebens-
 und Rentenversicherungen
@@ -138,12 +144,14 @@ die Versicherungsverhältnisse der Pensionskasse keine Anwendung.
 
 
 ## (XXXX) §§ 7 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE000801377)
 
 
 Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 995)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/ebpensnog/BJNR001010956.html#BJNR001010956BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

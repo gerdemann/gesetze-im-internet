@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE000600310)
 
 Auf Grund des § 11 Nr. 1 bis 6 und 11 bis 14 des Stromsteuergesetzes
 vom 24. März 1999 (BGBl. I S. 378, 2000 I S. 147), von denen § 11 Nr.
@@ -31,10 +32,12 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## - - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000800140)
 
 
 
 ### § 1 Zuständiges Hauptzollamt
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002901123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -49,10 +52,12 @@ steuerlich in Erscheinung treten.
 
 
 ## - - zu § 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000101140)
 
 
 
 ### § 1a Versorger
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE000807123)
 
 (1) Soweit im Stromsteuergesetz oder in dieser Verordnung nichts
 anderes bestimmt ist, sind Versorger keine Letztverbraucher im Sinn
@@ -164,6 +169,7 @@ vorliegt.
 
 
 ### § 1b Strom aus erneuerbaren Energieträgern
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003002123)
 
 (1) Soweit eine Stromerzeugung aus Deponiegas, Klärgas oder Biomasse
 nur durch eine Zünd- oder Stützfeuerung mit anderen als den
@@ -185,6 +191,7 @@ Biomasseverordnung in der am 31. Dezember 2016 geltenden Fassung.
 
 
 ### § 1c Elektromobilität
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004000360)
 
 (1) Elektromobilität im Sinne des Gesetzes ist die Nutzung von
 
@@ -219,10 +226,12 @@ aufladbar ist.
 
 
 ## - - Zu § 2a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001300360)
 
 
 
 ### § 1d Verfahren bei offenen Rückforderungsanordnungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004102123)
 
 (1) Die unverzügliche Mitteilung nach § 2a Absatz 1 Satz 2 des
 Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei
@@ -275,6 +284,7 @@ Abgabenordnung versehen werden.
 
 
 ### § 1e Verfahren bei Unternehmen in Schwierigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004202123)
 
 (1) Die unverzügliche Mitteilung nach § 2a Absatz 2 Satz 2 des
 Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben. Bei
@@ -300,10 +310,12 @@ Abgabenordnung versehen werden.
 
 
 ## - - zu § 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000200310)
 
 
 
 ### § 2 Antrag auf Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE000904123)
 
 (1) Die Erlaubnis nach § 4 Absatz 1 des Gesetzes ist vor Aufnahme der
 Tätigkeit schriftlich nach amtlich vorgeschriebenem Vordruck beim
@@ -351,6 +363,7 @@ beeinträchtigt werden.
 
 
 ### § 3 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001007123)
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis schriftlich oder
 elektronisch und stellt Versorgern einen Erlaubnisschein als Nachweis
@@ -486,6 +499,7 @@ Eigenerzeuger oder erlaubnispflichtigen Letztverbraucher.
 
 
 ### § 4 Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001105123)
 
 (1) Der Versorger hat ein Belegheft zu führen. Das zuständige
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -581,10 +595,12 @@ werden.
 
 
 ## - - zu § 8 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000300310)
 
 
 
 ### § 5 Anmeldung der Steuer und Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001201123)
 
 (1) Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck
 abzugeben.
@@ -601,6 +617,7 @@ Abgabenordnung entsprechend.
 
 
 ### § 6 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001305123)
 
 (1) Die Festsetzung der Vorauszahlungen erfolgt durch
 Vorauszahlungsbescheid. Ist die Steuer nur in einem Teil des
@@ -657,6 +674,7 @@ wenn die Steuerbelange dadurch nicht beeinträchtigt werden.
 
 
 ### § 7 Mengenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001401301)
 
 Wird die durch Mieter, Pächter oder vergleichbare Vertragsparteien des
 Versorgers entnommene Strommenge nicht ermittelt, ist eine
@@ -666,10 +684,12 @@ ist.
 
 
 ## - - Zu § 9 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000402140)
 
 
 
 ### § 8 Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001505123)
 
 (1) Wer Strom steuerbegünstigt entnehmen will, hat die Erlaubnis nach
 § 9 Absatz 4 des Gesetzes, soweit sie nicht nach § 10 allgemein
@@ -749,6 +769,7 @@ Durchführungsverordnung als genutzt gilt.
 
 
 ### § 9 Erteilung, Überprüfung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001607123)
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis nach § 9 Absatz
 4 des Gesetzes schriftlich oder elektronisch (förmliche
@@ -768,6 +789,7 @@ entsprechend.
 
 
 ### § 10 Allgemeine Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001705123)
 
 (1) Unter Verzicht auf eine förmliche Einzelerlaubnis (§ 9) ist die
 Entnahme von Strom für steuerbegünstigte Zwecke nach § 9 Absatz 3 des
@@ -809,6 +831,7 @@ Entnahme oder die Leistung von Strom für steuerbegünstigte Zwecke nach
 
 
 ### § 11 Pflichten des Erlaubnisinhabers
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001803123)
 
 (1) Der Erlaubnisinhaber hat ein Belegheft zu führen. Das Hauptzollamt
 kann dazu Anordnungen treffen.
@@ -865,6 +888,7 @@ Erlaubnis geforderten Angaben und Unterlagen zur Prüfung vorlegt.
 
 
 ### § 11a Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004800123)
 
 Zur Sicherstellung der Zeitgleichheit zwischen der Erzeugung und der
 Entnahme der steuerfreien Strommenge nach § 9 Absatz 1 Nummer 1 und 3
@@ -875,6 +899,7 @@ erfolgen.
 
 
 ### § 12 Strom zur Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE001902123)
 
 (1) Zur Stromerzeugung entnommen im Sinne des § 9 Absatz 1 Nummer 2
 des Gesetzes wird Strom,
@@ -911,6 +936,7 @@ nur in Form einer Steuerentlastung nach § 12a gewährt.
 
 
 ### § 12a Steuerentlastung für Strom zur Stromerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003103123)
 
 (1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3
 des Gesetzes versteuerten Strom gewährt, der zu dem in § 9 Absatz 1
@@ -977,6 +1003,7 @@ Verwendungszweck des Stroms ergeben müssen.
 
 
 ### § 12b Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002704123)
 
 (1) Mehrere unmittelbar miteinander verbundene
 Stromerzeugungseinheiten an einem Standort gelten als eine Anlage zur
@@ -1037,6 +1064,7 @@ von bis zu 4,5 Kilometern um die jeweilige Stromerzeugungseinheit.
 
 
 ### § 12c Steuerentlastung für Strom aus erneuerbaren Energieträgern
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004901123)
 
 (1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3
 des Gesetzes versteuerten Strom gewährt, der aus erneuerbaren
@@ -1078,6 +1106,7 @@ Verwendungszweck des Stroms ergeben müssen.
 
 
 ### § 12d Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE005001123)
 
 (1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3
 des Gesetzes versteuerten Strom gewährt, der zu dem in § 9 Absatz 1
@@ -1135,6 +1164,7 @@ Verwendungszweck des Stroms ergeben müssen.
 
 
 ### § 13 Verkehr mit Oberleitungsomnibussen oder Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002101140)
 
 Für steuerbegünstigte Zwecke im Sinne von § 9 Absatz 2 des Gesetzes
 entnommen wird Strom, der im Verkehr mit Oberleitungsomnibussen oder
@@ -1145,6 +1175,7 @@ Sicherung der Fahrtrassen und Fahrwege verbraucht wird.
 
 
 ### § 13a Differenzversteuerung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003202123)
 
 (1) Das Hauptzollamt kann auf Antrag zulassen, dass Inhaber von
 Erlaubnissen zur steuerbegünstigten Entnahme von Strom
@@ -1189,6 +1220,7 @@ gelten sinngemäß.
 
 
 ### § 14 Wasserfahrzeuge und Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003301140)
 
 (1) Als Wasserfahrzeuge im Sinn des § 9 Absatz 1 Nummer 5 und Absatz 3
 des Gesetzes gelten alle im Kapitel 89 der Kombinierten Nomenklatur (§
@@ -1281,6 +1313,7 @@ sind, mit Ausnahme
 
 
 ### § 14a Steuerentlastung für die Landstromversorgung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003402123)
 
 (1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3
 des Gesetzes versteuerten Strom gewährt, der zu dem in § 9 Absatz 3
@@ -1318,10 +1351,12 @@ kann einmalig für jeweils ein Kalenderjahr ausgeübt werden.
 
 
 ## - - Zu § 2 Nummer 3 bis 6 und den §§ 9a und 9b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000901123)
 
 
 
 ### § 15 Zuordnung von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002206123)
 
 (1) Das Hauptzollamt ist für die Zuordnung eines Unternehmens nach § 2
 Nummer 3 und 5 des Gesetzes zu einem Abschnitt oder einer Klasse der
@@ -1446,17 +1481,21 @@ zuzuordnen ist.
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002303140)
 
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002402140)
 
 
 ## - - Zu § 9a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000700301)
 
 
 
 ### § 17a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002804123)
 
 (1) Der Erlass, die Erstattung oder die Vergütung der Steuer
 (Steuerentlastung) nach § 9a des Gesetzes ist bei dem für den
@@ -1512,10 +1551,12 @@ Sinn des § 9a Absatz 1 Nummer 1 oder Nummer 4 des Gesetzes.
 
 
 ## - - Zu § 9b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001000140)
 
 
 
 ### § 17b Steuerentlastung für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003504123)
 
 (1) Die Steuerentlastung nach § 9b des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -1636,6 +1677,7 @@ Behältern abgegeben wird.
 
 
 ### § 17c Verwendung von Nutzenergie durch andere Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003601116)
 
 (1) Soweit eine Steuerentlastung für die Erzeugung von Nutzenergie,
 die durch ein anderes Unternehmen des Produzierenden Gewerbes oder der
@@ -1710,10 +1752,12 @@ anderes Unternehmen verwendet, wenn
 
 
 ## - - Zu § 9c des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001600360)
 
 
 
 ### § 17d Steuerentlastung für den Öffentlichen Personennahverkehr, Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004601123)
 
 (1) Die Steuerentlastung nach § 9c des Gesetzes ist bei dem für den
 Antragsteller zuständigen Hauptzollamt mit einer Anmeldung nach
@@ -1754,6 +1798,7 @@ Energiesteuer-Durchführungsverordnung entsprechend.
 
 
 ### § 17e Steuerentlastung für den Öffentlichen Personennahverkehr, Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004700360)
 
 (1) Der erstmalige Antrag auf Steuerentlastung nach § 17d Absatz 1
 muss ergänzend zum amtlich vorgeschriebenen Vordruck die in § 102b
@@ -1776,10 +1821,12 @@ Angaben zu führen.
 
 
 ## - - Zu § 9d des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001700123)
 
 
 
 ### § 17f Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE005101123)
 
 (1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen
 Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem
@@ -1815,10 +1862,12 @@ sein müssen.
 
 
 ## - - Zu § 9e des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001800123)
 
 
 
 ### § 17g Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE005201123)
 
 (1) Die Steuerentlastung ist bei dem für den Antragsteller zuständigen
 Hauptzollamt mit einer Anmeldung nach amtlich vorgeschriebenem
@@ -1862,20 +1911,25 @@ werden, sind nicht als Verteidigungsanstrengungen zu betrachten.
 
 
 ## - - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000501123)
 
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003801123)
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002507123)
 
 
 ## - - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001500360)
 
 
 
 ### § 19a Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE004500360)
 
 (1) Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung
 wird vom zuständigen Hauptzollamt nur abweichend festgesetzt, geändert
@@ -1888,10 +1942,12 @@ programmtechnisch umgesetzt worden ist.
 
 
 ## - - Zu § 381 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG000602140)
 
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE002605123)
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
@@ -1936,10 +1992,12 @@ handelt, wer vorsätzlich oder leichtfertig
 
 
 ## - - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNG001200140)
 
 
 
 ### § 21 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/stromstv/BJNR079400000.html#BJNR079400000BJNE003901360)
 
 (1) Für Anträge auf eine Steuerentlastung nach § 10 des Gesetzes in
 der am 31. Dezember 2012 geltenden Fassung ist § 18 in der zu diesem

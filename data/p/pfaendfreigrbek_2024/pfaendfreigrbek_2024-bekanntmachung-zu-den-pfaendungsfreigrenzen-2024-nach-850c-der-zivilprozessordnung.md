@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2024/BJNR0A00A0024.html#BJNR0A00A0024BJNE000100000)
 
 Auf Grund des § 850c Absatz 4 Satz 1 der Zivilprozessordnung in der
 Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006
@@ -77,11 +78,13 @@ Dezember 2021 (BGBl. I S. 5176) wird bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2024/BJNR0A00A0024.html#BJNR0A00A0024BJNE000200000)
 
 Der Bundesminister der Justiz
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2024/BJNR0A00A0024.html#BJNR0A00A0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 160, S. 11 - 26 u. Nr. 165a, S. 1 - 9)
 

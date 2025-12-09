@@ -19,6 +19,7 @@ Fundstelle
 Stand: Gem. § 6 Satz 2 dieser V tritt § 3 Abs. 5 am 25.5.2018 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000100000)
 
 Auf Grund des § 68 Absatz 4 Satz 2 des Einkommensteuergesetzes, der
 durch Artikel 1 Nummer 1 des Gesetzes vom 8. Dezember 2016 (BGBl. I S.
@@ -27,6 +28,7 @@ Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000200000)
 
 Diese Verordnung gilt für den automatisierten Abruf von Daten, die
 
@@ -44,6 +46,7 @@ Verbindung mit Absatz 6 des Bundesbesoldungsgesetzes).
 
 
 ## § 2 Abrufberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000300000)
 
 (1) Die Erteilung einer Abrufberechtigung kommt in Betracht für
 Personen als Beschäftigte der in § 1 genannten Bezügestellen, sofern
@@ -74,6 +77,7 @@ entsprechenden Vorschriften der Länder.
 
 
 ## § 3 Verfahren des Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000401000)
 
 (1) Personen, denen eine Abrufberechtigung nach § 2 Absatz 1 erteilt
 worden ist, haben sich bei der Familienkasse der Bundesagentur für
@@ -123,6 +127,7 @@ beteiligte Stelle für ihren Bereich bereit.
 
 
 ## § 4 Prüfungs- und Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000500000)
 
 Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von
 Datenschutz und Datensicherheit beim Abrufverfahren sind § 2 Absatz 1,
@@ -133,6 +138,7 @@ jeweils geltenden Fassung entsprechend anzuwenden.
 
 
 ## § 5 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000600000)
 
 Die am automatisierten Abrufverfahren beteiligte Stelle informiert die
 zuständige Familienkasse der Bundesagentur für Arbeit, wenn
@@ -152,6 +158,7 @@ zuständige Familienkasse der Bundesagentur für Arbeit, wenn
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kigabv/BJNR052700018.html#BJNR052700018BJNE000700000)
 
 Diese Verordnung tritt am 1. Mai 2018 in Kraft. § 3 Absatz 5 tritt am
 25\. Mai 2018 außer Kraft.

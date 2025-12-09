@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNG000100000)
 
 
 ### § 1 Versorgungskrise
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000200000)
 
 (1) Eine Versorgungskrise liegt vor, wenn die Bundesregierung
 festgestellt hat, dass
@@ -55,6 +57,7 @@ nicht mehr gegeben sind.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000301119)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -126,6 +129,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ### § 3 Ausführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000400000)
 
 (1) Dieses Gesetz sowie Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, werden von den Ländern als eigene
@@ -153,9 +157,11 @@ angehören.
 
 
 ## Abschnitt 2 - Vorschriften zur Sicherstellung der Grundversorgung in einer Versorgungskrise
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNG000200000)
 
 
 ### § 4 Ermächtigungen zum Erlass von Rechtsverordnungen zur Sicherstellung der Grundversorgung
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000501119)
 
 (1) Soweit es zur Sicherstellung der Grundversorgung in einer
 Versorgungskrise geboten ist, kann das Bundesministerium durch
@@ -235,6 +241,7 @@ verlängert wird.
 
 
 ### § 5 Einzelweisungen
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000600000)
 
 Soweit dieses Gesetz nach § 3 Absatz 1 Satz 1 von den Ländern als
 eigene Angelegenheit ausgeführt wird, kann die Bundesregierung zur
@@ -244,6 +251,7 @@ dringend geboten ist.
 
 
 ### § 6 Anordnungsbefugnis zur einstweiligen Sicherstellung der Grundversorgung
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000701119)
 
 (1) Bis zum Erlass einer Rechtsverordnung nach § 4 Absatz 1 können die
 zuständigen Behörden die notwendigen Maßnahmen treffen, die zur
@@ -307,6 +315,7 @@ Maßnahmen zu treffen sind oder getroffen werden können.
 
 
 ### § 7 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000800000)
 
 Widerspruch und Anfechtungsklage gegen nach § 6 erlassene
 Verwaltungsakte oder gegen auf Grund einer Rechtsverordnung nach § 4
@@ -314,6 +323,7 @@ erlassene Verwaltungsakte haben keine aufschiebende Wirkung.
 
 
 ### § 8 Unterstützende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE000901119)
 
 (1) Soweit dies zur Sicherstellung der Grundversorgung in einer
 Versorgungskrise erforderlich ist, können die zuständigen Behörden
@@ -345,6 +355,7 @@ unterstützende Leistungen nach Absatz 1 anfordern.
 
 
 ### § 9 Datenübermittlung zwischen den Behörden
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001001119)
 
 In einer Versorgungskrise übermitteln alle Behörden des Bundes und der
 Länder den nach diesem Gesetz zuständigen Behörden auf deren
@@ -357,6 +368,7 @@ Kontaktdaten.
 
 
 ### § 10 Aufhebung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001101119)
 
 Bei Beendigung der Versorgungskrise sind sämtliche Maßnahmen, die nach
 einer nach § 4 Absatz 1 erlassenen Rechtsverordnung oder nach § 6
@@ -364,9 +376,11 @@ Absatz 1 getroffen worden sind, unverzüglich aufzuheben.
 
 
 ## Abschnitt 3 - Maßnahmen zur Vorsorge für eine Versorgungskrise
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNG000300000)
 
 
 ### § 11 Ermächtigungen zum Erlass von Rechtsverordnungen zur Vorsorge für eine Versorgungskrise
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001200000)
 
 (1) Soweit es zur Vorsorge für eine Versorgungskrise geboten ist, kann
 das Bundesministerium durch Rechtsverordnung mit Zustimmung des
@@ -421,6 +435,7 @@ Zustimmung des Bundesrates auf das Bundesministerium übertragen.
 
 
 ### § 12 Vollzugsvorkehrungen, Zusammenarbeit zwischen Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001300000)
 
 (1) Die zuständigen Behörden des Bundes und der Länder treffen
 organisatorische, personelle und materielle Vorkehrungen, um die
@@ -437,6 +452,7 @@ ionisierender Strahlung geregelt ist.
 
 
 ### § 13 Datenübermittlung zwischen den Behörden
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001401119)
 
 (1) Soweit es zur Ausführung der in § 12 Absatz 1 genannten
 Vorkehrungen erforderlich ist, sind den zuständigen Behörden auf deren
@@ -496,6 +512,7 @@ Zustimmung des Bundesrates
 
 
 ### § 14 Selbstschutz
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001500000)
 
 (1) Der Bund und die Länder ergreifen Maßnahmen, um den Selbstschutz
 der Bevölkerung vor den Folgen einer Versorgungskrise zu stärken.
@@ -505,9 +522,11 @@ Vorsorgemaßnahmen zur Stärkung des Selbstschutzes.
 
 
 ## Abschnitt 4 - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNG000400000)
 
 
 ### § 15 Auskunftspflicht für Ernährungsunternehmen, Überwachungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001600000)
 
 (1) Ernährungsunternehmen sind verpflichtet, den zuständigen Behörden
 auf deren Verlangen Auskünfte insbesondere über ihre Bestands- und
@@ -546,6 +565,7 @@ Zweck verwenden.
 
 
 ### § 16 Entschädigung, Ermächtigung zum Erlass einer Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001700000)
 
 (1) Stellt eine nach diesem Gesetz erlassene Rechtsverordnung oder
 eine Maßnahme auf Grund dieses Gesetzes oder auf Grund einer nach
@@ -589,6 +609,7 @@ Anforderungsbehörden die in Absatz 4 genannten Behörden.
 
 
 ### § 17 Härtefallausgleich bei Vermögensnachteil, Ermächtigung zum Erlass einer Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001800000)
 
 (1) Wird durch eine nach diesem Gesetz erlassene Rechtsverordnung oder
 durch eine Maßnahme auf Grund einer solchen Rechtsverordnung der
@@ -609,6 +630,7 @@ zu leisten, dessen Behörde die Maßnahme angeordnet hat.
 
 
 ### § 18 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE001900000)
 
 Zustellungen der Verwaltungsbehörden können, soweit es zur
 Sicherstellung der Grundversorgung erforderlich ist, durch
@@ -620,9 +642,11 @@ folgenden Tage als bewirkt.
 
 
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNG000500000)
 
 
 ### § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE002000000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -663,6 +687,7 @@ einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 
 ### § 20 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/esvg/BJNR077210017.html#BJNR077210017BJNE002100000)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 19 Absatz 1 Nummer 1 Buchstabe a oder Nummer 2

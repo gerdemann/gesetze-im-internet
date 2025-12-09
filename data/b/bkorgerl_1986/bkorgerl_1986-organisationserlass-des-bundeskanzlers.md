@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1986/BJNR108640986.html#BJNR108640986BJNE000100333)
 
 
 *   Es wird ein Bundesministerium für Umwelt, Naturschutz und
@@ -28,6 +29,7 @@ Fundstelle
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1986/BJNR108640986.html#BJNR108640986BJNE000200333)
 
 
 *   Dem Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
@@ -62,6 +64,7 @@ Fundstelle
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1986/BJNR108640986.html#BJNR108640986BJNE000300333)
 
 
 *   Das Bundesministerium für Jugend, Familie und Gesundheit wird zum
@@ -77,6 +80,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1986/BJNR108640986.html#BJNR108640986BJNE000400333)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Bundesministern geregelt und dem Chef des Bundeskanzleramtes

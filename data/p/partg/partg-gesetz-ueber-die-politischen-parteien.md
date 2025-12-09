@@ -26,10 +26,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000103307)
 
 
 
 ### § 1 Verfassungsrechtliche Stellung und Aufgaben der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE000904307)
 
 (1) Die Parteien sind ein verfassungsrechtlich notwendiger Bestandteil
 der freiheitlichen demokratischen Grundordnung. Sie erfüllen mit ihrer
@@ -56,6 +58,7 @@ nach dem Grundgesetz und diesem Gesetz obliegenden Aufgaben.
 
 
 ### § 2 Begriff der Partei
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001004377)
 
 (1) Parteien sind Vereinigungen von Bürgern, die dauernd oder für
 längere Zeit für den Bereich des Bundes oder eines Landes auf die
@@ -90,6 +93,7 @@ entsprechend.
 
 
 ### § 3 Aktiv- und Passivlegitimation
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001103307)
 
 Die Partei kann unter ihrem Namen klagen und verklagt werden. Das
 gleiche gilt für ihre Gebietsverbände der jeweils höchsten Stufe,
@@ -97,6 +101,7 @@ sofern die Satzung der Partei nichts anderes bestimmt.
 
 
 ### § 4 Name
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001203307)
 
 (1) Der Name einer Partei muß sich von dem Namen einer bereits
 bestehenden Partei deutlich unterscheiden; das gleiche gilt für
@@ -116,6 +121,7 @@ Entsprechendes gilt für Kurzbezeichnungen.
 
 
 ### § 5 Gleichbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001304307)
 
 (1) Wenn ein Träger öffentlicher Gewalt den Parteien Einrichtungen zur
 Verfügung stellt oder andere öffentliche Leistungen gewährt, sollen
@@ -139,10 +145,12 @@ werden.
 
 
 ## Zweiter Abschnitt - Innere Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000203307)
 
 
 
 ### § 6 Satzung und Programm
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001405307)
 
 (1) Die Partei muß eine schriftliche Satzung und ein schriftliches
 Programm haben. Die Gebietsverbände regeln ihre Angelegenheiten durch
@@ -225,6 +233,7 @@ Partei getroffenen Regelungen für den Landesverband.
 
 
 ### § 7 Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001503307)
 
 (1) Die Parteien gliedern sich in Gebietsverbände. Größe und Umfang
 der Gebietsverbände werden durch die Satzung festgelegt. Die
@@ -243,6 +252,7 @@ Partei folgenden nächstniedrigen Gebietsverbände.
 
 
 ### § 8 Organe
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001603307)
 
 (1) Mitgliederversammlung und Vorstand sind notwendige Organe der
 Partei und der Gebietsverbände. Durch die Satzung kann bestimmt
@@ -262,6 +272,7 @@ der Satzung ausdrücklich als solche zu bezeichnen.
 
 
 ### § 9 Mitglieder- und Vertreterversammlung (Parteitag, Hauptversammlung)
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001704377)
 
 (1) Die Mitglieder- oder Vertreterversammlung (Parteitag,
 Hauptversammlung) ist das oberste Organ des jeweiligen
@@ -319,6 +330,7 @@ Rechnungsprüfer, die von dem Parteitag gewählt werden, zu überprüfen.
 
 
 ### § 10 Rechte der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001803307)
 
 (1) Die zuständigen Organe der Partei entscheiden nach näherer
 Bestimmung der Satzung frei über die Aufnahme von Mitgliedern. Die
@@ -363,6 +375,7 @@ Entscheidung des Schiedsgerichts ausschließen.
 
 
 ### § 11 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE001905160)
 
 (1) Der Vorstand wird mindestens in jedem zweiten Kalenderjahr
 gewählt. Er muß aus mindestens drei Mitgliedern bestehen.
@@ -390,6 +403,7 @@ bestimmt werden.
 
 
 ### § 12 Allgemeine Parteiausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002003307)
 
 (1) Die Mitglieder von allgemeinen Parteiausschüssen und ähnlichen
 Einrichtungen, die nach der Satzung umfassende Zuständigkeiten für die
@@ -409,6 +423,7 @@ dauert höchstens zwei Jahre.
 
 
 ### § 13 Zusammensetzung der Vertreterversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002103307)
 
 Die Zusammensetzung einer Vertreterversammlung oder eines sonstigen
 Organs, das ganz oder zum Teil aus Vertretern von Gebietsverbänden
@@ -424,6 +439,7 @@ abhängig gemacht werden.
 
 
 ### § 14 Parteischiedsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002203307)
 
 (1) Zur Schlichtung und Entscheidung von Streitigkeiten der Partei
 oder eines Gebietsverbandes mit einzelnen Mitgliedern und
@@ -449,6 +465,7 @@ Schiedsgerichts wegen Befangenheit gewährleistet.
 
 
 ### § 15 Willensbildung in den Organen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002304377)
 
 (1) Die Organe fassen ihre Beschlüsse mit einfacher Stimmenmehrheit,
 soweit nicht durch Gesetz oder Satzung erhöhte Stimmenmehrheit
@@ -484,6 +501,7 @@ Beschlüsse anderer Organe unzulässig.
 
 
 ### § 16 Maßnahmen gegen Gebietsverbände
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002403307)
 
 (1) Die Auflösung und der Ausschluß nachgeordneter Gebietsverbände
 sowie die Amtsenthebung ganzer Organe derselben sind nur wegen
@@ -509,10 +527,12 @@ Schiedsgerichts zuzulassen.
 
 
 ## Dritter Abschnitt - Aufstellung von Wahlbewerbern
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000303307)
 
 
 
 ### § 17 Aufstellung von Wahlbewerbern
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002503307)
 
 Die Aufstellung von Bewerbern für Wahlen zu Volksvertretungen muß in
 geheimer Abstimmung erfolgen. Die Aufstellung regeln die Wahlgesetze
@@ -520,10 +540,12 @@ und die Satzungen der Parteien.
 
 
 ## Vierter Abschnitt - Staatliche Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000404307)
 
 
 
 ### § 18 Grundsätze und Umfang der staatlichen Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002617377)
 
 (1) Die Parteien erhalten Mittel als Teilfinanzierung der allgemein
 ihnen nach dem Grundgesetz obliegenden Tätigkeit. Maßstäbe für die
@@ -602,6 +624,7 @@ Entscheidung.
 
 
 ### § 19 Antragstellung für die staatliche Teilfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002707377)
 
 (1) Die Festsetzung und die Auszahlung der staatlichen Mittel für das
 Anspruchsjahr im Sinne des Gesetzes sind von den Parteien schriftlich
@@ -626,6 +649,7 @@ Sätze 5 bis 7 gilt entsprechend.
 
 
 ### § 19a Festsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005402377)
 
 (1) Der Präsident des Deutschen Bundestages setzt jährlich zum 15.
 Februar die Höhe der staatlichen Mittel für jede anspruchsberechtigte
@@ -692,6 +716,7 @@ Bundesverband der Partei, bei Landesparteien an den Landesverband.
 
 
 ### § 20 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002806377)
 
 (1) Den anspruchsberechtigten Parteien sind Abschlagszahlungen auf den
 vom Präsidenten des Deutschen Bundestages festzusetzenden Betrag zu
@@ -715,6 +740,7 @@ Verwaltungsakt fest und verrechnet diesen Betrag unmittelbar.
 
 
 ### § 21 Bereitstellung von Bundesmitteln und Auszahlungsverfahren sowie Prüfung durch den Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE002906377)
 
 (1) Die Mittel nach den §§ 18 und 20 werden im Falle des § 19a Abs. 6
 Satz 1 von den Ländern, im übrigen vom Bund durch den Präsidenten des
@@ -730,16 +756,19 @@ gemäß § 23a.
 
 
 ### § 22 Parteiinterner Finanzausgleich
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003006307)
 
 Die Bundesverbände der Parteien haben für einen angemessenen
 Finanzausgleich für ihre Landesverbände Sorge zu tragen.
 
 
 ## Fünfter Abschnitt - Rechenschaftslegung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000804307)
 
 
 
 ### § 23 Pflicht zur öffentlichen Rechenschaftslegung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003107377)
 
 (1) Der Vorstand der Partei hat über die Herkunft und die Verwendung
 der Mittel sowie über das Vermögen der Partei zum Ende des
@@ -796,6 +825,7 @@ Berichte werden als Bundestagsdrucksache verteilt.
 
 
 ### § 23a Prüfung des Rechenschaftsberichts
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005006377)
 
 (1) Der Präsident des Deutschen Bundestages prüft den vorgelegten
 Rechenschaftsbericht auf formale und inhaltliche Richtigkeit. Er
@@ -854,6 +884,7 @@ Beendigung der Prüfung unverzüglich vernichtet werden.
 
 
 ### § 23b Anzeigepflicht bei Unrichtigkeiten im Rechenschaftsbericht
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005501377)
 
 (1) Erlangt eine Partei Kenntnis von Unrichtigkeiten in ihrem bereits
 frist- und formgerecht beim Präsidenten des Deutschen Bundestages
@@ -876,6 +907,7 @@ Bundestages gesetzten Frist an diesen abzuführen.
 
 
 ### § 24 Rechenschaftsbericht
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003212377)
 
 (1) Der Rechenschaftsbericht besteht aus einer Ergebnisrechnung auf
 der Grundlage einer den Vorschriften dieses Gesetzes entsprechenden
@@ -1182,6 +1214,7 @@ unberücksichtigt.
 
 
 ### § 25 Spenden
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003310377)
 
 (1) Parteien sind berechtigt, Spenden anzunehmen. Bis zu einem Betrag
 von 1 000 Euro kann eine Spende mittels Bargeld erfolgen.
@@ -1280,6 +1313,7 @@ Bundestages weiterzuleiten.
 
 
 ### § 26 Begriff der Einnahme
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003409377)
 
 (1) Einnahme ist, soweit für einzelne Einnahmearten (§ 24 Abs. 4)
 nichts besonderes gilt, jede von der Partei erlangte Geld- oder
@@ -1310,6 +1344,7 @@ verbleiben.
 
 
 ### § 26a Begriff der Ausgabe
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE006000377)
 
 (1) Ausgabe ist, soweit für einzelne Ausgabearten (§ 24 Abs. 5) nichts
 Besonderes gilt, auch jede von der Partei erbrachte Geldleistung oder
@@ -1329,6 +1364,7 @@ werden.
 
 
 ### § 27 Einzelne Einnahmearten
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003509377)
 
 (1) Mitgliedsbeiträge sind nur solche regelmäßigen Geldleistungen, die
 ein Mitglied auf Grund satzungsrechtlicher Vorschriften entrichtet.
@@ -1376,6 +1412,7 @@ verzeichnen, soweit der Gesamtwert 10 000 Euro übersteigt.
 
 
 ### § 27a Werbemaßnahmen anderer
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE006100377)
 
 (1) Personen, die beabsichtigen Werbemaßnahmen im Sinne des § 27
 Absatz 1a zu Gunsten einer Partei durchzuführen, haben der Partei die
@@ -1408,6 +1445,7 @@ höchsten Gliederungsebene der Partei erfolgen.
 
 
 ### § 28 Vermögensbilanz
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003607377)
 
 (1) In der Vermögensbilanz sind Vermögensgegenstände mit einem
 Anschaffungswert von im Einzelfall mehr als 5.000 Euro (inklusive
@@ -1427,6 +1465,7 @@ Rechenschaftsberichte dieser Gliederungen unbeachtet bleiben.
 
 
 ### § 29 Prüfung des Rechenschaftsberichts
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003705377)
 
 (1) Die Prüfung nach § 23 Abs. 2 Satz 1 erstreckt sich auf die
 Bundespartei, ihre Landesverbände sowie nach Wahl des Prüfers auf
@@ -1452,6 +1491,7 @@ des für die Finanzangelegenheiten zuständigen Vorstandsmitgliedes.
 
 
 ### § 30 Prüfungsbericht und Prüfungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003804377)
 
 (1) Das Ergebnis der Prüfung ist in einem schriftlichen
 Prüfungsbericht niederzulegen, der dem Vorstand der Partei und dem
@@ -1473,6 +1513,7 @@ Rechenschaftsbericht anzubringen und in vollem Wortlaut nach § 23 Abs.
 
 
 ### § 31 Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE003906377)
 
 (1) Ein Wirtschaftsprüfer oder vereidigter Buchprüfer darf nicht
 Prüfer sein, wenn er
@@ -1522,10 +1563,12 @@ entsprechend.
 
 
 ## Sechster Abschnitt - Verfahren bei unrichtigen Rechenschaftsberichten sowie Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000901377)
 
 
 
 ### § 31a Rückforderung der staatlichen Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005600377)
 
 (1) Soweit im Rechenschaftsbericht Zuwendungen (§ 18 Abs. 3 Satz 1 Nr.
 3) zu Unrecht ausgewiesen worden sind und dadurch der Betrag der der
@@ -1554,6 +1597,7 @@ diesen nachgeordnete Gebietsverbände verursacht werden.
 
 
 ### § 31b Unrichtigkeit des Rechenschaftsberichts
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005800377)
 
 Stellt der Präsident des Deutschen Bundestages im Rahmen seiner
 Prüfung nach § 23a Unrichtigkeiten im Rechenschaftsbericht fest,
@@ -1568,6 +1612,7 @@ durch Verwaltungsakt fest. § 31a Abs. 2 bis 5 gilt entsprechend.
 
 
 ### § 31c Rechtswidrig erlangte oder nicht veröffentlichte Spenden
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005902377)
 
 Hat eine Partei Spenden unter Verstoß gegen § 25 Abs. 2 angenommen und
 nicht gemäß § 25 Abs. 4 an den Präsidenten des Deutschen Bundestages
@@ -1583,6 +1628,7 @@ gilt entsprechend.
 
 
 ### § 31d Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005700377)
 
 (1) Wer in der Absicht, die Herkunft oder die Verwendung der Mittel
 der Partei oder des Vermögens zu verschleiern oder die öffentliche
@@ -1619,6 +1665,7 @@ zu fünf Jahren oder Geldstrafe.
 
 
 ### § 31e Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE006200377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1641,10 +1688,12 @@ Gesetzes über Ordnungswidrigkeiten ist der Bundestagspräsident.
 
 
 ## Siebter Abschnitt - Vollzug des Verbots verfassungswidriger Parteien
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000506377)
 
 
 
 ### § 32 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004004311)
 
 (1) Wird eine Partei oder eine Teilorganisation einer Partei nach
 Artikel 21 Abs. 2 des Grundgesetzes für verfassungswidrig erklärt, so
@@ -1683,6 +1732,7 @@ Absatzes 2 der Bundesminister des Innern, für Bau und Heimat.
 
 
 ### § 33 Verbot von Ersatzorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004103307)
 
 (1) Es ist verboten, Organisationen zu bilden, die verfassungswidrige
 Bestrebungen einer nach Artikel 21 Abs. 2 des Grundgesetzes in
@@ -1704,31 +1754,37 @@ sind, wird § 8 Abs. 2 des Vereinsgesetzes entsprechend angewandt.
 
 
 ## Achter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNG000606377)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004203307)
 
 (Änderung des Einkommensteuergesetzes)
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005102307)
 
 (Änderung des Körperschaftsteuergesetzes)
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE005202307)
 
 (Anwendung steuerrechtlicher Vorschriften)
 
 
 ### § 37 Nichtanwendbarkeit einer Vorschrift des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004306377)
 
 § 54 Absatz 2 des Bürgerlichen Gesetzbuchs wird bei Parteien nicht
 angewandt.
 
 
 ### § 38 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004405377)
 
 (1) Der Bundeswahlleiter kann den Vorstand der Partei zur Vornahme der
 Handlungen nach § 6 Abs. 3 durch ein Zwangsgeld anhalten. Die
@@ -1747,6 +1803,7 @@ Zwangsgeldes beträgt mindestens 500 Euro und höchstens 10 000 Euro.
 
 
 ### § 39 Abschluss- und Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004509377)
 
 (1) Landesgesetzliche Regelungen auf der Grundlage des bis zum 1.
 Januar 1994 geltenden § 22 Satz 1 dieses Gesetzes haben keine Geltung
@@ -1789,11 +1846,13 @@ zugrunde zu legen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004607377)
 
 (weggefallen)
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/partg/BJNR007730967.html#BJNR007730967BJNE004703307)
 
 (Inkrafttreten)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000201360)
 
 (1) Die subventionierte Förderung der Steinkohle in Deutschland wird
 zum Ende des Jahres 2018 beendet.
@@ -51,6 +52,7 @@ begründet.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000300000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -70,6 +72,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Finanzplafonds
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000401118)
 
 (1) Zur Finanzierung des Absatzes deutscher Steinkohle für den Einsatz
 in Kraftwerken und zur Stahlerzeugung im Hochofenprozess im
@@ -125,6 +128,7 @@ durch Richtlinien.
 
 
 ## § 4 Verpflichtungen der Bergbauunternehmen nach Beendigung des subventionierten Steinkohlenbergbaus
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000501118)
 
 (1) Für die ab dem Zeitpunkt der Beendigung des subventionierten
 Steinkohlenbergbaus weiter bestehenden Verpflichtungen, die nicht von
@@ -153,6 +157,7 @@ Stiftung zur Erfüllung der Verpflichtungen nicht ausreicht.
 
 
 ## § 5 Anpassungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000601118)
 
 (1) Zur sozialverträglichen Beendigung des subventionierten
 Steinkohlenbergbaus kann aus Mitteln des Bundeshaushalts
@@ -175,6 +180,7 @@ Ermächtigungen.
 
 
 ## § 6 Melde-, Aufbewahrungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000700000)
 
 (1) Die Bergbauunternehmer, die Betreiber von Kraftwerken und von
 Anlagen zur Stahlerzeugung im Hochofenprozess sowie die Lieferanten
@@ -221,6 +227,7 @@ erforderliche Festsetzung im Wege der Schätzung treffen.
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -252,6 +259,7 @@ zehntausend Euro geahndet werden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html#BJNR308600007BJNE000900000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

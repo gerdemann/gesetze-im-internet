@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000101116)
 
 (1) Im Geschäftsbereich des Bundesministers des Innern, für Bau und
 Heimat wird eine selbständige Bundesoberbehörde unter der Bezeichnung
@@ -42,6 +43,7 @@ beauftragt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000200315)
 
 (1) Das Bundesverwaltungsamt hat alle Maßnahmen, die der Beratung von
 Auswanderungswilligen, der Vorbereitung der Auswanderung und der
@@ -80,11 +82,13 @@ es sich um Aufgaben handelt, die auswärtige Angelegenheiten berühren.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000300315)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000400315)
 
 Das Bundesverwaltungsamt ist zuständig für die Versorgung der früheren
 Bediensteten jüdischer Gemeinden oder öffentlicher Einrichtungen und
@@ -95,6 +99,7 @@ Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000502310)
 
 Das Bundesverwaltungsamt ist für Staatsangehörigkeitsangelegenheiten
 einer Person zuständig, die ihren gewöhnlichen Aufenthalt im Ausland
@@ -102,11 +107,13 @@ hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000601301)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000700315)
 
 Das Bundesverwaltungsamt ist zuständig für Abrechnung und Leistung der
 nach dem Gesetz über die Erhaltung der Gräber der Opfer von Krieg und
@@ -115,6 +122,7 @@ aufzubringenden Kosten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000801116)
 
 Soweit im Bundesverwaltungsamt auf Grund des § 1 Abs. 2 oder Abs. 3
 Aufgaben aus einem anderen Geschäftsbereich als dem des
@@ -124,16 +132,19 @@ Bundesbehörde zu.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE000900315)
 
 -
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE001000315)
 
 -
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE001100315)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -141,6 +152,7 @@ im Land Berlin.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bvwag/BJNR008290959.html#BJNR008290959BJNE001200315)
 
 Dieses Gesetz tritt vierzehn Tage nach der Verkündung in Kraft.
 

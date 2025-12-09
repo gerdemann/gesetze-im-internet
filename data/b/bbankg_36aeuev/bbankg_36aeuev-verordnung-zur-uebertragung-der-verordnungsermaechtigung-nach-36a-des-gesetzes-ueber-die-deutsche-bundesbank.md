@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbankg_36__v/BJNR150700012.html#BJNR150700012BJNE000100000)
 
 Auf Grund des § 36a Satz 4 des Gesetzes über die Deutsche Bundesbank,
 der durch Artikel 9 Nummer 3 des Gesetzes vom 22. Dezember 2011 (BGBl.
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Übertragung der Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg_36__v/BJNR150700012.html#BJNR150700012BJNE000200000)
 
 Die in § 36a Satz 1 bis 3 des Gesetzes über die Deutsche Bundesbank
 enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
@@ -34,6 +36,7 @@ Einvernehmens mit dem Bundesministerium der Finanzen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbankg_36__v/BJNR150700012.html#BJNR150700012BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agnwv/BJNR364100009.html#BJNR364100009BJNE000100000)
 
 Auf Grund des § 19 Absatz 5 Satz 1 und 3 des
 Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506)
@@ -29,6 +30,7 @@ Deutschen Bundesbank nach Anhörung der Verbände der Zahlungsinstitute:
 
 
 ## § 1 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/agnwv/BJNR364100009.html#BJNR364100009BJNE000201116)
 
 (1) Als Nachweis über die Zuverlässigkeit und die fachliche Eignung
 eines Agenten hat ein Institut für die Zwecke des § § 25 Absatz 2 Satz
@@ -116,6 +118,7 @@ erbringenden Zahlungsdienste.
 
 
 ## § 2 Sicherstellung der dauerhaften Einhaltung der Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/agnwv/BJNR364100009.html#BJNR364100009BJNE000301116)
 
 (1) Um dauerhaft sicherzustellen, dass der Agent zuverlässig und
 fachlich geeignet ist, bei der Erbringung der Zahlungsdienste die
@@ -132,6 +135,7 @@ regelmäßig zu erneuern.
 
 
 ## § 3 Ausnahme für beaufsichtigte Agenten
+[Direktlink](https://www.gesetze-im-internet.de/agnwv/BJNR364100009.html#BJNR364100009BJNE000402128)
 
 Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im
 Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder
@@ -143,6 +147,7 @@ des Wertpapierinstitutsgesetzes ist.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agnwv/BJNR364100009.html#BJNR364100009BJNE000500000)
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 

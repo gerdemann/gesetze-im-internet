@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000100000)
 
 Zur Durchführung von Artikel 3 Abs. 1 der Verordnung (EG) Nr. 718/1999
 des Rates vom 29. März 1999 über kapazitätsbezogene Maßnahmen für die
@@ -30,6 +31,7 @@ Sondervermögens errichtet.
 
 
 ## § 2 Aufgaben des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000200000)
 
 Der Binnenschifffahrtsfonds erfüllt die ihm nach der Verordnung (EG)
 Nr. 718/1999 des Rates in Verbindung mit der Verordnung (EG) Nr.
@@ -41,6 +43,7 @@ Nr. L 102 S. 64) übertragenen Aufgaben.
 
 
 ## § 3 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000300000)
 
 Der Binnenschifffahrtsfonds ist nicht rechtsfähig. Er kann unter
 seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und
@@ -49,6 +52,7 @@ Binnenschifffahrtsfonds ist Münster.
 
 
 ## § 4 Verwaltung und Anlage der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000403119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt verwaltet den
 Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn nach
@@ -75,6 +79,7 @@ hierzu Anlagerichtlinien.
 
 
 ## § 5 Verwendung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000502305)
 
 (1) Die Mittel des Binnenschifffahrtsfonds dürfen nur nach Maßgabe der
 Artikel 3 Abs. 5, Artikel 6 und 8 der Verordnung (EG) Nr. 718/1999
@@ -88,6 +93,7 @@ Binnenschifffahrtsverbände angehört.
 
 
 ## § 6 Vermögenstrennung
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000600000)
 
 Die Mittel des Binnenschifffahrtsfonds sind von dem übrigen Vermögen
 des Bundes getrennt zu halten. Der Bund haftet nicht für die
@@ -95,6 +101,7 @@ Verbindlichkeiten des Fonds.
 
 
 ## § 7 Haushalts- und Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000702305)
 
 (1) Für die Haushalts- und Wirtschaftsführung gilt § 113 der
 Bundeshaushaltsordnung.
@@ -110,6 +117,7 @@ nachzuweisen.
 
 
 ## § 8 Auflösung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000802305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen das
@@ -118,6 +126,7 @@ des restlichen Vermögens für die in § 2 genannten Zwecke zu regeln.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschfondsg/BJNR226600002.html#BJNR226600002BJNE000900000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

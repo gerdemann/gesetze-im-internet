@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung durch Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000100310)
 
 (1) Die Deutsche Siedlungs- und Landesrentenbank, bundesunmittelbare
 Anstalt des öffentlichen Rechts, ist mit Ablauf des 31. Dezember 1999
@@ -45,6 +46,7 @@ anzuwenden.
 
 
 ## § 2 Wirkungen der Umwandlung für die Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000200310)
 
 Die Anteilsinhaber der Deutschen Siedlungs- und Landesrentenbank
 übernehmen das Grundkapital der Aktiengesellschaft in Höhe von
@@ -66,6 +68,7 @@ eine Aktie in Bruchteilsgemeinschaft jeweils zur Hälfte zu.
 
 
 ## § 3 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000300310)
 
 Die Satzung der Aktiengesellschaft wird im Anhang zu diesem Gesetz
 festgestellt. Sie kann nach Maßgabe des Aktiengesetzes geändert
@@ -73,6 +76,7 @@ werden.
 
 
 ## § 4 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000400310)
 
 (1) Die Vorstandsmitglieder der Deutschen Siedlungs- und
 Landesrentenbank gelten bis zum Ablauf der Amtszeit, für die sie
@@ -84,6 +88,7 @@ Vorstandsmitglieder die bisherigen Nachweise der Vertretungsbefugnis.
 
 
 ## § 5 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000500310)
 
 (1) Mitglieder des ersten Aufsichtsrats der Aktiengesellschaft sind
 die Mitglieder des Verwaltungsrats der Deutschen Siedlungs- und
@@ -96,6 +101,7 @@ finden auf den ersten Aufsichtsrat keine Anwendung.
 
 
 ## § 6 Erste Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000600310)
 
 Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31.
 März 2000 ein. Diese Hauptversammlung wählt zehn Mitglieder des
@@ -104,6 +110,7 @@ Vorschriften des Mitbestimmungsgesetzes von den Arbeitnehmern gewählt.
 
 
 ## § 7 Ausgabe gedeckter Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000702128)
 
 (1) Die Aktiengesellschaft kann gedeckte Schuldverschreibungen bis zum
 Fünfzehnfachen des jeweils haftenden Eigenkapitals nach Maßgabe der
@@ -144,6 +151,7 @@ gedeckten Schuldverschreibungen gewähren.
 
 
 ## § 8 Zwangsvollstreckung und Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000802377)
 
 (1) Auf Arreste und Zwangsvollstreckungen in die in das
 Deckungsregister nach § 7 Abs. 4 eingetragenen Werte ist § 29 des
@@ -154,6 +162,7 @@ Pfandbriefgesetzes entsprechend anzuwenden.
 
 
 ## § 9 Anlagesicherheit, Deckungsstockfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE000901377)
 
 (1) Soweit Unternehmen nach Gesetz oder Satzung Geld in mündelsicheren
 Werten anzulegen haben, stehen gedeckte Schuldverschreibungen der
@@ -167,6 +176,7 @@ nach dem Pfandbriefgesetz bilden können.
 
 
 ## § 10 Übergangsregelung für Schuldverschreibungen und Geschäfte der Deutschen Siedlungs- und Landesrentenbank sowie ihr gewährte Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE001000310)
 
 (1) Die von der Deutschen Siedlungs- und Landesrentenbank begebenen
 Pfandbriefe, Kommunalobligationen, Genussscheine, nachrangigen
@@ -194,6 +204,7 @@ Deckungswerte können weiterhin ohne Anrechnung auf die Obergrenze nach
 
 
 ## § 11 Haftung des Bundes für Altverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE001100310)
 
 Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen
 Siedlungs- und Landesrentenbank, soweit diese vor Eintragung der
@@ -204,6 +215,7 @@ befriedigt werden können.
 
 
 ## § 12 Regelungen für betriebliche Interessenvertretungen sowie sonstige Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE001200310)
 
 (1) Die Aufgaben des Betriebsrates in den Betrieben und Betriebsteilen
 der Aktiengesellschaft nimmt der bisherige Personalrat übergangsweise
@@ -236,6 +248,7 @@ Landesrentenbank vor der Umwandlung geltenden Vorschriften anzuwenden.
 
 
 ## § 13 Weiterführung des Förderauftrags und Verwaltung des Zweckvermögens
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE001303118)
 
 (1) Die Aktiengesellschaft hat anstelle der Deutschen Siedlungs- und
 Landesrentenbank im öffentlichen Auftrag gegen angemessenes Entgelt
@@ -266,6 +279,7 @@ handelt.
 
 
 ## § 14 Verschmelzung der Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE001401124)
 
 (1) Für den Fall der Verschmelzung der Aktiengesellschaft gilt für die
 Anwendung des § 67 des Umwandlungsgesetzes die Aktiengesellschaft als
@@ -283,6 +297,7 @@ anzuwenden.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dslbumwg/BJNR244100999.html#BJNR244100999BJNE001500310)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -26,20 +26,24 @@ Mittelbare änderung durch
 
 
 ## Erster Teil - Gerichtsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000101301)
 
 
 
 ### Abschnitt I - Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000201301)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002301301)
 
 Die Finanzgerichtsbarkeit wird durch unabhängige, von den
 Verwaltungsbehörden getrennte, besondere Verwaltungsgerichte ausgeübt.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002401301)
 
 Gerichte der Finanzgerichtsbarkeit sind
 in den Ländern die Finanzgerichte als obere Landesgerichte,
@@ -47,6 +51,7 @@ im Bund der Bundesfinanzhof mit dem Sitz in München.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002501301)
 
 (1) Durch Gesetz werden angeordnet
 
@@ -80,12 +85,14 @@ für einzelne Sachgebiete, vereinbaren.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002601301)
 
 Für die Gerichte der Finanzgerichtsbarkeit gelten die Vorschriften des
 Zweiten Titels des Gerichtsverfassungsgesetzes entsprechend.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002702301)
 
 (1) Das Finanzgericht besteht aus dem Präsidenten, den Vorsitzenden
 Richtern und weiteren Richtern in erforderlicher Anzahl. Von der
@@ -108,6 +115,7 @@ vorsehen. Absatz 3 Satz 2 bleibt unberührt.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020001301)
 
 (1) Der Senat kann den Rechtsstreit einem seiner Mitglieder als
 Einzelrichter zur Entscheidung übertragen, wenn
@@ -138,10 +146,12 @@ unterlassene Übertragung kann die Revision nicht gestützt werden.
 
 
 #### (XXXX) §§ 7 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002802301)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE002901301)
 
 (1) Der Bundesfinanzhof besteht aus dem Präsidenten und aus den
 Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
@@ -156,6 +166,7 @@ der Besetzung von drei Richtern.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003002301)
 
 (1) Bei dem Bundesfinanzhof wird ein Großer Senat gebildet.
 
@@ -195,22 +206,26 @@ vorliegenden Sache für den erkennenden Senat bindend.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003101301)
 
 Bei jedem Gericht wird eine Geschäftsstelle eingerichtet. Sie wird mit
 der erforderlichen Anzahl von Urkundsbeamten besetzt.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003201301)
 
 Alle Gerichte und Verwaltungsbehörden leisten den Gerichten der
 Finanzgerichtsbarkeit Rechts- und Amtshilfe.
 
 
 ### Abschnitt II - Richter
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000301301)
 
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003301301)
 
 (1) Die Richter werden auf Lebenszeit ernannt, soweit nicht in § 15
 Abweichendes bestimmt ist.
@@ -220,22 +235,26 @@ vollendet haben.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003401301)
 
 Bei den Finanzgerichten können Richter auf Probe oder Richter kraft
 Auftrags verwendet werden.
 
 
 ### Abschnitt III - Ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000401301)
 
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003501301)
 
 Der ehrenamtliche Richter wirkt bei der mündlichen Verhandlung und der
 Urteilsfindung mit gleichen Rechten wie der Richter mit.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003602301)
 
 Der ehrenamtliche Richter muss Deutscher sein. Er soll das 25.
 Lebensjahr vollendet und seinen Wohnsitz oder seine gewerbliche oder
@@ -243,6 +262,7 @@ berufliche Niederlassung innerhalb des Gerichtsbezirks haben.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003702301)
 
 (1) Vom Amt des ehrenamtlichen Richters sind ausgeschlossen
 
@@ -270,6 +290,7 @@ ehrenamtlichen Richtern berufen werden.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003803125)
 
 Zum ehrenamtlichen Richter können nicht berufen werden
 
@@ -300,6 +321,7 @@ Zum ehrenamtlichen Richter können nicht berufen werden
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE003903160)
 
 (1) Die Berufung zum Amt des ehrenamtlichen Richters dürfen ablehnen
 
@@ -330,6 +352,7 @@ Zum ehrenamtlichen Richter können nicht berufen werden
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004001301)
 
 (1) Ein ehrenamtlicher Richter ist von seinem Amt zu entbinden, wenn
 er
@@ -373,12 +396,14 @@ freigesprochen worden ist.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004102301)
 
 Die ehrenamtlichen Richter werden für jedes Finanzgericht auf fünf
 Jahre durch einen Wahlausschuss nach Vorschlagslisten (§ 25) gewählt.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004203301)
 
 (1) Bei jedem Finanzgericht wird ein Ausschuss zur Wahl der
 ehrenamtlichen Richter bestellt.
@@ -410,6 +435,7 @@ sind.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004301301)
 
 Die für jedes Finanzgericht erforderliche Anzahl von ehrenamtlichen
 Richtern wird durch den Präsidenten so bestimmt, dass voraussichtlich
@@ -418,6 +444,7 @@ herangezogen wird.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004402301)
 
 Die Vorschlagsliste der ehrenamtlichen Richter wird in jedem fünften
 Jahr durch den Präsidenten des Finanzgerichts aufgestellt. Er soll
@@ -427,6 +454,7 @@ aufgenommen werden.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004501301)
 
 (1) Der Ausschuss wählt aus den Vorschlagslisten mit einer Mehrheit
 von mindestens zwei Dritteln der Stimmen die erforderliche Anzahl von
@@ -437,6 +465,7 @@ Amt.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004601301)
 
 (1) Das Präsidium des Finanzgerichts bestimmt vor Beginn des
 Geschäftsjahrs durch Aufstellung einer Liste die Reihenfolge, in der
@@ -449,17 +478,20 @@ werden, die am Gerichtssitz oder in seiner Nähe wohnen.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004701301)
 
 (weggefallen)
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004802301)
 
 Der ehrenamtliche Richter und der Vertrauensmann (§ 23) erhalten eine
 Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE004901301)
 
 (1) Gegen einen ehrenamtlichen Richter, der sich ohne genügende
 Entschuldigung zu einer Sitzung nicht rechtzeitig einfindet oder der
@@ -472,30 +504,36 @@ nachträglicher Entschuldigung ganz oder zum Teil aufheben.
 
 
 ### Abschnitt IV - Gerichtsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000501301)
 
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005001301)
 
 Der Präsident des Gerichts übt die Dienstaufsicht über die Richter,
 Beamten, Angestellten und Arbeiter aus.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005101301)
 
 Dem Gericht dürfen keine Verwaltungsgeschäfte außerhalb der
 Gerichtsverwaltung übertragen werden.
 
 
 ### Abschnitt V - Finanzrechtsweg und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000601301)
 
 
 
 #### Unterabschnitt 1 - Finanzrechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000701301)
 
 
 
 ##### § 33
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005203301)
 
 (1) Der Finanzrechtsweg ist gegeben
 
@@ -538,21 +576,25 @@ Bußgeldverfahren keine Anwendung.
 
 
 ##### § 34
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005302301)
 
 (weggefallen)
 
 
 #### Unterabschnitt 2 - Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000801301)
 
 
 
 ##### § 35
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005402301)
 
 Das Finanzgericht entscheidet im ersten Rechtszug über alle
 Streitigkeiten, für die der Finanzrechtsweg gegeben ist.
 
 
 ##### § 36
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005502301)
 
 Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
@@ -568,15 +610,18 @@ Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
 
 ##### § 37
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005602301)
 
 (weggefallen)
 
 
 #### Unterabschnitt 3 - Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG000901301)
 
 
 
 ##### § 38
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005703311)
 
 (1) Örtlich zuständig ist das Finanzgericht, in dessen Bezirk die
 Behörde, gegen welche die Klage gerichtet ist, ihren Sitz hat.
@@ -605,6 +650,7 @@ Absatz 1 nach der Lage des Bezirks.
 
 
 ##### § 39
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005801301)
 
 (1) Das zuständige Finanzgericht wird durch den Bundesfinanzhof
 bestimmt,
@@ -637,14 +683,17 @@ ohne mündliche Verhandlung entscheiden.
 
 
 ## Zweiter Teil - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001001301)
 
 
 
 ### Abschnitt I - Klagearten, Klagebefugnis, Klagevoraussetzungen, Klageverzicht
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001101301)
 
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE005901301)
 
 (1) Durch Klage kann die Aufhebung, in den Fällen des § 100 Abs. 2
 auch die Änderung eines Verwaltungsakts (Anfechtungsklage) sowie die
@@ -665,6 +714,7 @@ würde.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006001301)
 
 (1) Durch Klage kann die Feststellung des Bestehens oder
 Nichtbestehens eines Rechtsverhältnisses oder der Nichtigkeit eines
@@ -678,6 +728,7 @@ der Nichtigkeit eines Verwaltungsakts begehrt wird.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006101301)
 
 Auf Grund der Abgabenordnung erlassene Änderungs- und Folgebescheide
 können nicht in weiterem Umfang angegriffen werden, als sie in dem
@@ -685,6 +736,7 @@ außergerichtlichen Vorverfahren angefochten werden können.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006201301)
 
 Mehrere Klagebegehren können vom Kläger in einer Klage zusammen
 verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im
@@ -692,6 +744,7 @@ Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006301301)
 
 (1) In den Fällen, in denen ein außergerichtlicher Rechtsbehelf
 gegeben ist, ist die Klage vorbehaltlich der §§ 45 und 46 nur
@@ -704,6 +757,7 @@ Entscheidung über den außergerichtlichen Rechtsbehelf gefunden hat.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006402301)
 
 (1) Die Klage ist ohne Vorverfahren zulässig, wenn die Behörde, die
 über den außergerichtlichen Rechtsbehelf zu entscheiden hat, innerhalb
@@ -732,6 +786,7 @@ gemacht wird.\*
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006502301)
 
 (1) Ist über einen außergerichtlichen Rechtsbehelf ohne Mitteilung
 eines zureichenden Grundes in angemessener Frist sachlich nicht
@@ -754,6 +809,7 @@ angemessener Frist sachlich nicht entschieden hat.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006604311)
 
 (1) Die Frist für die Erhebung der Anfechtungsklage beträgt einen
 Monat; sie beginnt mit der Bekanntgabe der Entscheidung über den
@@ -778,6 +834,7 @@ wird, die zur Erteilung des Steuerbescheids zuständig ist.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006703125)
 
 (1) Gegen Bescheide über die gesonderte und einheitliche Feststellung
 von Besteuerungsgrundlagen können Klage erheben:
@@ -843,11 +900,13 @@ Empfangsbevollmächtigten belehrt worden sind.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006801301)
 
 (weggefallen)
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE006903311)
 
 (1) Auf die Erhebung der Klage kann nach Erlass des Verwaltungsakts
 verzichtet werden. Der Verzicht kann auch bei Abgabe einer
@@ -869,10 +928,12 @@ gemacht, so gilt § 56 Abs. 3 sinngemäß.
 
 
 ### Abschnitt II - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001201301)
 
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007001301)
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten §§
 41 bis 49 der Zivilprozessordnung sinngemäß. Gerichtspersonen können
@@ -891,6 +952,7 @@ Interessen durch das Verfahren berührt werden.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007102301)
 
 (1) §§ 169, 171b bis 197 des Gerichtsverfassungsgesetzes über die
 Öffentlichkeit, Sitzungspolizei, Gerichtssprache, Beratung und
@@ -906,6 +968,7 @@ Vorsitzende ihre Anwesenheit gestattet.
 
 
 #### § 52a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021209125)
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Beteiligten sowie
@@ -1003,6 +1066,7 @@ gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
 
 
 #### § 52b
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021305125)
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen jeweils für ihren
@@ -1101,6 +1165,7 @@ Behörden und Gerichten geltenden Standards bestimmen.
 
 
 #### § 52c Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021402125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates elektronische
@@ -1117,6 +1182,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 
 
 #### § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021501125)
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1134,6 +1200,7 @@ Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007202301)
 
 (1) Anordnungen und Entscheidungen, durch die eine Frist in Lauf
 gesetzt wird, sowie Terminbestimmungen und Ladungen sind den
@@ -1151,6 +1218,7 @@ sie als unbestellbar zurückkommt.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007301301)
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist,
 mit der Bekanntgabe des Verwaltungsakts oder der Entscheidung oder mit
@@ -1161,6 +1229,7 @@ dem Zeitpunkt, an dem die Bekanntgabe als bewirkt gilt.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007402310)
 
 (1) Die Frist für einen Rechtsbehelf beginnt nur zu laufen, wenn der
 Beteiligte über den Rechtsbehelf, die Behörde oder das Gericht, bei
@@ -1177,6 +1246,7 @@ Fall höherer Gewalt sinngemäß.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007502301)
 
 (1) Wenn jemand ohne Verschulden verhindert war, eine gesetzliche
 Frist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den
@@ -1202,6 +1272,7 @@ höherer Gewalt unmöglich war.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007602301)
 
 Beteiligte am Verfahren sind
 
@@ -1221,6 +1292,7 @@ Beteiligte am Verfahren sind
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007703125)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -1252,12 +1324,14 @@ Rechts als handlungsfähig anerkannt ist.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007801301)
 
 Die Vorschriften der §§ 59 bis 63 der Zivilprozessordnung über die
 Streitgenossenschaft sind sinngemäß anzuwenden.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE007901301)
 
 (1) Das Finanzgericht kann von Amts wegen oder auf Antrag andere
 beiladen, deren rechtliche Interessen nach den Steuergesetzen durch
@@ -1289,6 +1363,7 @@ Beiladung vorliegt.
 
 
 #### § 60a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020103140)
 
 Kommt nach § 60 Abs. 3 die Beiladung von mehr als 50 Personen in
 Betracht, kann das Gericht durch Beschluss anordnen, dass nur solche
@@ -1308,11 +1383,13 @@ besonderem Maße betroffen werden, auch ohne Antrag beiladen.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008002301)
 
 (weggefallen)
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008108125)
 
 (1) Die Beteiligten können vor dem Finanzgericht den Rechtsstreit
 selbst führen.
@@ -1431,15 +1508,18 @@ oder berichtigt wird.
 
 
 #### § 62a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020602301)
 
 -
 
 
 ### Abschnitt III - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001301301)
 
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008202301)
 
 (1) Die Klage ist gegen die Behörde zu richten,
 
@@ -1481,6 +1561,7 @@ zuständige Behörde zu richten.
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008304125)
 
 (1) Die Klage ist bei dem Gericht schriftlich oder zu Protokoll des
 Urkundsbeamten der Geschäftsstelle zu erheben. § 129a Absatz 2 der
@@ -1491,6 +1572,7 @@ werden; § 77 Abs. 2 gilt sinngemäß.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008406125)
 
 (1) Die Klage muss den Kläger, den Beklagten, den Gegenstand des
 Klagebegehrens, bei Anfechtungsklagen auch den Verwaltungsakt und die
@@ -1512,6 +1594,7 @@ vorigen Stand wegen Versäumung der Frist gilt § 56 entsprechend.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008503311)
 
 Durch Erhebung der Klage wird die Streitsache rechtshängig. In
 Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes
@@ -1520,6 +1603,7 @@ mit Zustellung der Klage rechtshängig.
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008601301)
 
 (1) Eine Änderung der Klage ist zulässig, wenn die übrigen Beteiligten
 einwilligen oder das Gericht die Änderung für sachdienlich hält; § 68
@@ -1535,6 +1619,7 @@ zuzulassen ist, ist nicht selbständig anfechtbar.
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008704310)
 
 Wird der angefochtene Verwaltungsakt nach Bekanntgabe der
 Einspruchsentscheidung geändert oder ersetzt, so wird der neue
@@ -1555,6 +1640,7 @@ wenn
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008803301)
 
 (1) Durch Erhebung der Klage wird die Vollziehung des angefochtenen
 Verwaltungsakts vorbehaltlich des Absatzes 5 nicht gehemmt,
@@ -1627,6 +1713,7 @@ Gericht nur nach den Absätzen 3 und 5 Satz 3 angerufen werden.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE008902301)
 
 Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b
 des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend
@@ -1634,6 +1721,7 @@ des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009004125)
 
 (1) Die Klageschrift ist dem Beklagten von Amts wegen zuzustellen.
 Zugleich mit der Zustellung der Klage ist der Beklagte aufzufordern,
@@ -1647,6 +1735,7 @@ Akten nach Empfang der Klageschrift an das Gericht zu übermitteln.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009104301)
 
 (1) Der Kläger kann seine Klage bis zur Rechtskraft des Urteils
 zurücknehmen. Nach Schluss der mündlichen Verhandlung, bei Verzicht
@@ -1670,6 +1759,7 @@ gemacht, so gilt § 56 Abs. 3 sinngemäß.
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009201301)
 
 (1) Das Gericht kann durch Beschluss mehrere bei ihm anhängige
 Verfahren zu gemeinsamer Verhandlung und Entscheidung verbinden und
@@ -1685,6 +1775,7 @@ einheitlicher Entscheidung verbunden werden.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009301301)
 
 Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder
 zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses
@@ -1695,6 +1786,7 @@ bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009401301)
 
 Den Beteiligten sind, soweit es noch nicht geschehen ist, die
 Unterlagen der Besteuerung auf Antrag oder, wenn der Inhalt der
@@ -1702,6 +1794,7 @@ Klageschrift dazu Anlass gibt, von Amts wegen mitzuteilen.
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009504311)
 
 (1) Das Gericht erforscht den Sachverhalt von Amts wegen. Die
 Beteiligten sind dabei heranzuziehen. Sie haben ihre Erklärungen über
@@ -1730,6 +1823,7 @@ finanzgerichtliche Verfahren nicht berührt.
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009606311)
 
 (1) Die Beteiligten sollen zur Vorbereitung der mündlichen Verhandlung
 Schriftsätze einreichen. Hierzu kann der Vorsitzende sie unter
@@ -1745,11 +1839,13 @@ Einsicht bei Gericht zu gewähren.
 
 
 #### § 77a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021001310)
 
 (weggefallen)
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009705125)
 
 (1) Die Beteiligten können die Gerichtsakte und die dem Gericht
 vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten
@@ -1784,6 +1880,7 @@ noch abschriftlich mitgeteilt.
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009804125)
 
 (1) Der Vorsitzende oder der Berichterstatter hat schon vor der
 mündlichen Verhandlung alle Anordnungen zu treffen, die notwendig
@@ -1830,6 +1927,7 @@ würdigen vermag.
 
 
 #### § 79a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020202301)
 
 (1) Der Vorsitzende entscheidet, wenn die Entscheidung im
 vorbereitenden Verfahren ergeht,
@@ -1869,6 +1967,7 @@ des Vorsitzenden.
 
 
 #### § 79b
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020302310)
 
 (1) Der Vorsitzende oder der Berichterstatter kann dem Kläger eine
 Frist setzen zur Angabe der Tatsachen, durch deren Berücksichtigung
@@ -1910,6 +2009,7 @@ den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE009902125)
 
 (1) Das Gericht kann das persönliche Erscheinen eines Beteiligten
 anordnen. § 141 Absatz 1 Satz 2 der Zivilprozessordnung gilt
@@ -1931,6 +2031,7 @@ Rechtslage ausreichend unterrichtet ist.
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010001301)
 
 (1) Das Gericht erhebt Beweis in der mündlichen Verhandlung. Es kann
 insbesondere Augenschein einnehmen, Zeugen, Sachverständige und
@@ -1943,6 +2044,7 @@ Beweisfragen ein anderes Gericht um die Beweisaufnahme ersuchen.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010103125)
 
 Soweit §§ 83 bis 89 nicht abweichende Vorschriften enthalten, sind auf
 die Beweisaufnahme § 284 Absatz 2 und 3 sowie die §§ 358 bis 371, 372
@@ -1951,6 +2053,7 @@ Zivilprozessordnung sinngemäß anzuwenden.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010201301)
 
 Die Beteiligten werden von allen Beweisterminen benachrichtigt und
 können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
@@ -1959,6 +2062,7 @@ beanstandet, so entscheidet das Gericht.
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010301301)
 
 (1) Für das Recht zur Verweigerung des Zeugnisses und die Pflicht zur
 Belehrung über das Zeugnisverweigerungsrecht gelten die §§ 101 bis 103
@@ -1969,6 +2073,7 @@ ist, kann die Ableistung des Eides verweigern.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010403311)
 
 Zeugen, die nicht aus dem Gedächtnis aussagen können, haben Dokumente
 und Geschäftsbücher, die ihnen zur Verfügung stehen, einzusehen und,
@@ -1977,6 +2082,7 @@ soweit nötig, Aufzeichnungen daraus zu entnehmen. Die Vorschriften der
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010503311)
 
 (1) Behörden sind zur Vorlage von Urkunden und Akten, zur Übermittlung
 elektronischer Dokumente und zu Auskünften verpflichtet, soweit nicht
@@ -2020,6 +2126,7 @@ Geheimschutzes.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010601301)
 
 Wenn von Behörden, von Verbänden und Vertretungen von Betriebs- oder
 Berufszweigen, von geschäftlichen oder gewerblichen Unternehmungen,
@@ -2029,6 +2136,7 @@ Vorstand oder an die Geschäfts- oder Betriebsleitung zu richten.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010701301)
 
 Die Beteiligten können Sachverständige auch ablehnen, wenn von deren
 Heranziehung eine Verletzung eines Geschäfts- oder
@@ -2037,6 +2145,7 @@ befürchten ist.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010802310)
 
 Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von
 Urkunden und elektronischen Dokumenten gelten § 380 der
@@ -2044,6 +2153,7 @@ Zivilprozessordnung und § 255 der Abgabenordnung sinngemäß.
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE010902301)
 
 (1) Das Gericht entscheidet, soweit nichts anderes bestimmt ist, auf
 Grund mündlicher Verhandlung. Entscheidungen des Gerichts, die nicht
@@ -2054,6 +2164,7 @@ Verhandlung entscheiden.
 
 
 #### § 90a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020402301)
 
 (1) Das Gericht kann in geeigneten Fällen ohne mündliche Verhandlung
 durch Gerichtsbescheid entscheiden.
@@ -2074,6 +2185,7 @@ Gerichtsbescheides folgt und dies in seiner Entscheidung feststellt.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011002301)
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind
 die Beteiligten mit einer Ladungsfrist von mindestens zwei Wochen,
@@ -2090,6 +2202,7 @@ abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011101301)
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung.
 
@@ -2101,6 +2214,7 @@ stellen und zu begründen.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011201301)
 
 (1) Der Vorsitzende hat die Streitsache mit den Beteiligten
 tatsächlich und rechtlich zu erörtern.
@@ -2115,16 +2229,19 @@ Wiedereröffnung beschließen.
 
 
 #### § 93a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020802311)
 
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011302311)
 
 Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozessordnung
 entsprechend.
 
 
 #### § 94a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020503301)
 
 Das Gericht kann sein Verfahren nach billigem Ermessen bestimmen, wenn
 der Streitwert bei einer Klage, die eine Geldleistung oder einen
@@ -2136,16 +2253,19 @@ Gerichtsbescheid bleiben unberührt.
 
 
 ### Abschnitt IV - Urteile und andere Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001401301)
 
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011401301)
 
 Über die Klage wird, soweit nichts anderes bestimmt ist, durch Urteil
 entschieden.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011501301)
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis
 des Verfahrens gewonnenen Überzeugung; die §§ 158, 160, 162 der
@@ -2159,18 +2279,21 @@ werden, zu denen die Beteiligten sich äußern konnten.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011601301)
 
 Über die Zulässigkeit der Klage kann durch Zwischenurteil vorab
 entschieden werden.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011701301)
 
 Ist nur ein Teil des Streitgegenstands zur Entscheidung reif, so kann
 das Gericht ein Teilurteil erlassen.
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011803301)
 
 (1) Ist bei einer Leistungsklage oder einer Anfechtungsklage gegen
 einen Verwaltungsakt ein Anspruch nach Grund und Betrag strittig, so
@@ -2184,6 +2307,7 @@ widerspricht.
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE011902301)
 
 (1) Soweit ein angefochtener Verwaltungsakt rechtswidrig und der
 Kläger dadurch in seinen Rechten verletzt ist, hebt das Gericht den
@@ -2237,6 +2361,7 @@ zur Leistung zulässig.
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012001301)
 
 Soweit die Ablehnung oder Unterlassung eines Verwaltungsakts
 rechtswidrig und der Kläger dadurch in seinen Rechten verletzt ist,
@@ -2247,6 +2372,7 @@ Beachtung der Rechtsauffassung des Gerichts zu bescheiden.
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012102301)
 
 Soweit die Finanzbehörde ermächtigt ist, nach ihrem Ermessen zu
 handeln oder zu entscheiden, prüft das Gericht auch, ob der
@@ -2260,6 +2386,7 @@ finanzgerichtlichen Verfahrens ergänzen.
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012201301)
 
 Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern
 gefällt werden, die an der dem Urteil zugrunde liegenden Verhandlung
@@ -2267,6 +2394,7 @@ teilgenommen haben.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012303125)
 
 (1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden
 hat, in der Regel in dem Termin, in dem die mündliche Verhandlung
@@ -2286,6 +2414,7 @@ Verkündung durch Zustellung an die Beteiligten ersetzt.
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012403310)
 
 (1) Das Urteil ergeht im Namen des Volkes. Es ist schriftlich
 abzufassen und von den Richtern, die bei der Entscheidung mitgewirkt
@@ -2351,11 +2480,13 @@ festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012502301)
 
 Die §§ 104 und 105 gelten für Gerichtsbescheide sinngemäß.
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012602310)
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
 im Urteil sind jederzeit vom Gericht zu berichtigen.
@@ -2368,6 +2499,7 @@ untrennbar zu verbinden.
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012702310)
 
 (1) Enthält der Tatbestand des Urteils andere Unrichtigkeiten oder
 Unklarheiten, so kann die Berichtigung binnen zwei Wochen nach
@@ -2384,6 +2516,7 @@ untrennbar zu verbinden.
 
 
 #### § 109
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012802125)
 
 (1) Wenn ein nach dem Tatbestand von einem Beteiligten gestellter
 Antrag oder die Kostenfolge bei der Entscheidung ganz oder zum Teil
@@ -2400,6 +2533,7 @@ mündliche Verhandlung erfordert.
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE012903301)
 
 (1) Rechtskräftige Urteile binden, soweit über den Streitgegenstand
 entschieden worden ist,
@@ -2427,10 +2561,12 @@ sich aus Absatz 1 Satz 1 nichts anderes ergibt.
 
 
 #### (XXXX) §§ 111 und 112 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013001301)
 
 
 
 #### § 113
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013103301)
 
 (1) Für Beschlüsse gelten § 96 Abs. 1 Satz 1 und 2, § 105 Abs. 2 Nr.
 6, §§ 107 bis 109 sinngemäß.
@@ -2448,6 +2584,7 @@ angefochtenen Entscheidung als unbegründet zurückweist.
 
 
 #### § 114
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013202301)
 
 (1) Auf Antrag kann das Gericht, auch schon vor Klageerhebung, eine
 einstweilige Anordnung in Bezug auf den Streitgegenstand treffen, wenn
@@ -2475,14 +2612,17 @@ des § 69.
 
 
 ### Abschnitt V - Rechtsmittel und Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001501301)
 
 
 
 #### Unterabschnitt 1 - Revision
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001601301)
 
 
 
 ##### § 115
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013303301)
 
 (1) Gegen das Urteil des Finanzgerichts (§ 36 Nr. 1) steht den
 Beteiligten die Revision an den Bundesfinanzhof zu, wenn das
@@ -2508,6 +2648,7 @@ Bundesfinanzhof sie zugelassen hat.
 
 
 ##### § 116
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013403311)
 
 (1) Die Nichtzulassung der Revision kann durch Beschwerde angefochten
 werden.
@@ -2553,11 +2694,13 @@ hinzuweisen.
 
 
 ##### § 117
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013502301)
 
 (weggefallen)
 
 
 ##### § 118
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013601301)
 
 (1) Die Revision kann nur darauf gestützt werden, dass das
 angefochtene Urteil auf der Verletzung von Bundesrecht beruhe. Soweit
@@ -2579,6 +2722,7 @@ Revisionsgründe nicht gebunden.
 
 
 ##### § 119
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013701301)
 
 Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend
 anzusehen, wenn
@@ -2611,6 +2755,7 @@ anzusehen, wenn
 
 
 ##### § 120
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013803310)
 
 (1) Die Revision ist bei dem Bundesfinanzhof innerhalb eines Monats
 nach Zustellung des vollständigen Urteils schriftlich einzulegen. Die
@@ -2651,6 +2796,7 @@ verlängert werden.
 
 
 ##### § 121
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE013902301)
 
 Für das Revisionsverfahren gelten die Vorschriften über das Verfahren
 im ersten Rechtszug und die Vorschriften über Urteile und andere
@@ -2663,6 +2809,7 @@ Revisionsverfahren ausgeschlossen.
 
 
 ##### § 122
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014002301)
 
 (1) Beteiligter am Verfahren über die Revision ist, wer am Verfahren
 über die Klage beteiligt war.
@@ -2678,6 +2825,7 @@ erlangt die Behörde die Rechtsstellung eines Beteiligten.
 
 
 ##### § 123
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014102301)
 
 (1) Klageänderungen und Beiladungen sind im Revisionsverfahren
 unzulässig. Das gilt nicht für Beiladungen nach § 60 Abs. 3 Satz 1.
@@ -2689,6 +2837,7 @@ Ablauf gestellten Antrag von dem Vorsitzenden verlängert werden.
 
 
 ##### § 124
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014202301)
 
 (1) Der Bundesfinanzhof prüft, ob die Revision statthaft und ob sie in
 der gesetzlichen Form und Frist eingelegt und begründet worden ist.
@@ -2701,6 +2850,7 @@ nicht nach den Vorschriften dieses Gesetzes unanfechtbar sind.
 
 
 ##### § 125
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014302301)
 
 (1) Die Revision kann bis zur Rechtskraft des Urteils zurückgenommen
 werden. Nach Schluss der mündlichen Verhandlung, bei Verzicht auf die
@@ -2711,6 +2861,7 @@ die Rücknahme nur mit Einwilligung des Revisionsbeklagten möglich.
 
 
 ##### § 126
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014402301)
 
 (1) Ist die Revision unzulässig, so verwirft der Bundesfinanzhof sie
 durch Beschluss.
@@ -2748,6 +2899,7 @@ werden, für Rügen, auf denen die Zulassung der Revision beruht.
 
 
 ##### § 126a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE020901301)
 
 Der Bundesfinanzhof kann über die Revision in der Besetzung von fünf
 Richtern durch Beschluss entscheiden, wenn er einstimmig die Revision
@@ -2758,6 +2910,7 @@ Verfahrens festzustellen. § 126 Abs. 6 gilt entsprechend.
 
 
 ##### § 127
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014501301)
 
 Ist während des Revisionsverfahrens ein neuer oder geänderter
 Verwaltungsakt Gegenstand des Verfahrens geworden (§§ 68, 123 Satz 2),
@@ -2767,10 +2920,12 @@ Finanzgericht zurückverweisen.
 
 
 #### Unterabschnitt 2 - Beschwerde, Erinnerung, Anhörungsrüge
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001702301)
 
 
 
 ##### § 128
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014605125)
 
 (1) Gegen die Entscheidungen des Finanzgerichts, des Vorsitzenden oder
 des Berichterstatters, die nicht Urteile oder Gerichtsbescheide sind,
@@ -2799,6 +2954,7 @@ Revision.
 
 
 ##### § 129
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014702311)
 
 (1) Die Beschwerde ist beim Finanzgericht schriftlich oder zu
 Protokoll des Urkundsbeamten der Geschäftsstelle innerhalb von zwei
@@ -2809,6 +2965,7 @@ innerhalb der Frist beim Bundesfinanzhof eingeht.
 
 
 ##### § 130
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014802301)
 
 (1) Hält das Finanzgericht, der Vorsitzende oder der Berichterstatter,
 dessen Entscheidung angefochten wird, die Beschwerde für begründet, so
@@ -2820,6 +2977,7 @@ Beschwerde in Kenntnis setzen.
 
 
 ##### § 131
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE014902301)
 
 (1) Die Beschwerde hat nur dann aufschiebende Wirkung, wenn sie die
 Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat. Das
@@ -2833,11 +2991,13 @@ unberührt.
 
 
 ##### § 132
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015001301)
 
 Über die Beschwerde entscheidet der Bundesfinanzhof durch Beschluss.
 
 
 ##### § 133
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015102311)
 
 (1) Gegen die Entscheidung des beauftragten oder ersuchten Richters
 oder des Urkundsbeamten kann innerhalb von zwei Wochen nach
@@ -2852,6 +3012,7 @@ Urkundsbeamten der Geschäftsstelle sinngemäß.
 
 
 ##### § 133a
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021103125)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -2901,24 +3062,29 @@ anzuwenden.
 
 
 #### Unterabschnitt 3 - Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001801301)
 
 
 
 ##### § 134
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015201301)
 
 Ein rechtskräftig beendetes Verfahren kann nach den Vorschriften des
 Vierten Buchs der Zivilprozessordnung wiederaufgenommen werden.
 
 
 ## Dritter Teil - Kosten und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG001901301)
 
 
 
 ### Abschnitt I - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG002001301)
 
 
 
 #### § 135
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015301301)
 
 (1) Der unterliegende Beteiligte trägt die Kosten des Verfahrens.
 
@@ -2939,6 +3105,7 @@ Maßstab genommen werden.
 
 
 #### § 136
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015402301)
 
 (1) Wenn ein Beteiligter teils obsiegt, teils unterliegt, so sind die
 Kosten gegeneinander aufzuheben oder verhältnismäßig zu teilen. Sind
@@ -2955,6 +3122,7 @@ Stand entstehen, fallen dem Antragsteller zur Last.
 
 
 #### § 137
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015502301)
 
 Einem Beteiligten können die Kosten ganz oder teilweise auch dann
 auferlegt werden, wenn er obsiegt hat, die Entscheidung aber auf
@@ -2968,6 +3136,7 @@ aufzuerlegen.
 
 
 #### § 138
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015603301)
 
 (1) Ist der Rechtsstreit in der Hauptsache erledigt, so entscheidet
 das Gericht nach billigem Ermessen über die Kosten des Verfahrens
@@ -2990,6 +3159,7 @@ hingewiesen worden ist.
 
 
 #### § 139
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015701301)
 
 (1) Kosten sind die Gerichtskosten (Gebühren und Auslagen) und die zur
 zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung
@@ -3018,10 +3188,12 @@ unterliegenden Partei oder der Staatskasse auferlegt.
 
 
 #### (XXXX) §§ 140 und 141 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015801301)
 
 
 
 #### § 142
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE015903311)
 
 (1) Die Vorschriften der Zivilprozessordnung über die
 Prozesskostenhilfe gelten sinngemäß.
@@ -3071,6 +3243,7 @@ für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 #### § 143
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016001301)
 
 (1) Das Gericht hat im Urteil oder, wenn das Verfahren in anderer
 Weise beendet worden ist, durch Beschluss über die Kosten zu
@@ -3082,6 +3255,7 @@ Verfahrens übertragen werden.
 
 
 #### § 144
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016101301)
 
 Ist ein Rechtsbehelf seinem vollen Umfang nach zurückgenommen worden,
 so wird über die Kosten des Verfahrens nur entschieden, wenn ein
@@ -3089,6 +3263,7 @@ Beteiligter Kostenerstattung beantragt.
 
 
 #### § 145
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016202301)
 
 Die Anfechtung der Entscheidung über die Kosten ist unzulässig, wenn
 nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel
@@ -3096,9 +3271,11 @@ eingelegt wird.
 
 
 #### (XXXX) §§ 146 bis 148 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016301301)
 
 
 #### § 149
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016402301)
 
 (1) Die den Beteiligten zu erstattenden Aufwendungen werden auf Antrag
 von dem Urkundsbeamten des Gerichts des ersten Rechtszugs festgesetzt.
@@ -3114,10 +3291,12 @@ dass die Vollstreckung einstweilen auszusetzen ist.
 
 
 ### Abschnitt II - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG002101301)
 
 
 
 #### § 150
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016502310)
 
 Soll zugunsten des Bundes, eines Landes, eines Gemeindeverbands, einer
 Gemeinde oder einer Körperschaft, Anstalt oder Stiftung des
@@ -3129,6 +3308,7 @@ die Vollstreckung gilt § 69 sinngemäß.
 
 
 #### § 151
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016601301)
 
 (1) Soll gegen den Bund, ein Land, einen Gemeindeverband, eine
 Gemeinde, eine Körperschaft, eine Anstalt oder Stiftung des
@@ -3160,6 +3340,7 @@ der Zustellung eines vollständigen Urteils gleichsteht.
 
 
 #### § 152
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016701301)
 
 (1) Soll im Fall des § 151 wegen einer Geldforderung vollstreckt
 werden, so verfügt das Vollstreckungsgericht auf Antrag des Gläubigers
@@ -3191,12 +3372,14 @@ einstweiligen Anordnung handelt.
 
 
 #### § 153
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016801301)
 
 In den Fällen der §§ 150, 152 Abs. 1 bis 3 bedarf es einer
 Vollstreckungsklausel nicht.
 
 
 #### § 154
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE016903301)
 
 Kommt die Finanzbehörde in den Fällen des § 100 Abs. 1 Satz 2 und der
 §§ 101 und 114 der ihr im Urteil oder in der einstweiligen Anordnung
@@ -3208,10 +3391,12 @@ wiederholt angedroht, festgesetzt und vollstreckt werden.
 
 
 ## Vierter Teil - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNG002201301)
 
 
 
 ### § 155
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017006125)
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen
@@ -3228,12 +3413,14 @@ entsprechend anzuwenden.
 
 
 ### § 156
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017103301)
 
 § 6 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
 entsprechend.
 
 
 ### § 157
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017201301)
 
 Hat das Verfassungsgericht eines Landes die Nichtigkeit von
 Landesrecht festgestellt oder Vorschriften des Landesrechts für
@@ -3246,6 +3433,7 @@ gilt sinngemäß.
 
 
 ### § 158
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017301301)
 
 Die eidliche Vernehmung eines Auskunftspflichtigen nach § 94 der
 Abgabenordnung oder die Beeidigung eines Sachverständigen nach § 96
@@ -3256,12 +3444,14 @@ oder der Eidesleistung entscheidet das Finanzgericht durch Beschluss.
 
 
 ### § 159
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017402311)
 
 § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
 entsprechend.
 
 
 ### § 160
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017502301)
 
 Soweit der Finanzrechtsweg auf Grund des § 33 Abs. 1 Nr. 4 eröffnet
 wird, können die Beteiligung am Verfahren und die Beiladung durch
@@ -3270,11 +3460,13 @@ werden.
 
 
 ### § 161
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017601301)
 
 (Aufhebung von Vorschriften)
 
 
 ### § 162
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE021600125)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -3304,10 +3496,12 @@ für die Finanzgerichtsbarkeit zuständigen obersten Landesbehörden
 
 
 ### (XXXX) §§ 163 bis 183 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE017702125)
 
 
 
 ### § 184
+[Direktlink](https://www.gesetze-im-internet.de/fgo/BJNR014770965.html#BJNR014770965BJNE019901301)
 
 (1) (Inkrafttreten)
 

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000101000)
 
 
 ### § 1 Zielsetzung und persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000101000)
 
 (1) Dieses Gesetz regelt den Schutz von natürlichen Personen, die im
 Zusammenhang mit ihrer beruflichen Tätigkeit oder im Vorfeld einer
@@ -36,6 +38,7 @@ Meldung oder Offenlegung betroffen sind.
 
 
 ### § 2 Sachlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000201129)
 
 (1) Dieses Gesetz gilt für die Meldung (§ 3 Absatz 4) und die
 Offenlegung (§ 3 Absatz 5) von Informationen über
@@ -241,6 +244,7 @@ Informationen über
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000300000)
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen der folgenden
 Absätze.
@@ -331,6 +335,7 @@ juristischen Person des öffentlichen Rechts stehen.
 
 
 ### § 4 Verhältnis zu sonstigen Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000400000)
 
 (1) Diesem Gesetz gehen spezifische Regelungen über die Mitteilung von
 Informationen über Verstöße in den folgenden Vorschriften vor:
@@ -419,6 +424,7 @@ dieses Gesetzes nicht berührt.
 
 
 ### § 5 Vorrang von Sicherheitsinteressen sowie Verschwiegenheits- und Geheimhaltungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000500000)
 
 (1) Eine Meldung oder Offenlegung fällt nicht in den Anwendungsbereich
 dieses Gesetzes, wenn sie folgende Informationen beinhaltet:
@@ -487,6 +493,7 @@ Anwendungsbereich dieses Gesetzes, wenn ihr entgegenstehen:
 
 
 ### § 6 Verhältnis zu sonstigen Verschwiegenheits- und Geheimhaltungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000600000)
 
 (1) Beinhaltet eine interne oder eine externe Meldung oder eine
 Offenlegung ein Geschäftsgeheimnis im Sinne des § 2 Nummer 1 des
@@ -554,12 +561,15 @@ besteht.
 
 
 ## Abschnitt 2 - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000201000)
 
 
 ### Unterabschnitt 1 - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000301000)
 
 
 #### § 7 Wahlrecht zwischen interner und externer Meldung
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000701000)
 
 (1) Personen, die beabsichtigen, Informationen über einen Verstoß zu
 melden, können wählen, ob sie sich an eine interne Meldestelle (§ 12)
@@ -586,6 +596,7 @@ hierdurch nicht beschränkt oder erschwert werden.
 
 
 #### § 8 Vertraulichkeitsgebot
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000800000)
 
 (1) Die Meldestellen haben die Vertraulichkeit der Identität der
 folgenden Personen zu wahren:
@@ -613,6 +624,7 @@ ob die Meldestelle für die eingehende Meldung zuständig ist.
 
 
 #### § 9 Ausnahmen vom Vertraulichkeitsgebot
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE000900000)
 
 (1) Die Identität einer hinweisgebenden Person, die vorsätzlich oder
 grob fahrlässig unrichtige Informationen über Verstöße meldet, wird
@@ -720,6 +732,7 @@ Stelle weitergegeben werden
 
 
 #### § 10 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001000000)
 
 Die Meldestellen sind befugt, personenbezogene Daten zu verarbeiten,
 soweit dies zur Erfüllung ihrer in den §§ 13 und 24 bezeichneten
@@ -734,6 +747,7 @@ Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
 
 
 #### § 11 Dokumentation der Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001100000)
 
 (1) Die Personen, die in einer Meldestelle für die Entgegennahme von
 Meldungen zuständig sind, dokumentieren alle eingehenden Meldungen in
@@ -770,9 +784,11 @@ zu erfüllen, solange dies erforderlich und verhältnismäßig ist.
 
 
 ### Unterabschnitt 2 - Interne Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000401000)
 
 
 #### § 12 Pflicht zur Einrichtung interner Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001202130)
 
 (1) Beschäftigungsgeber haben dafür zu sorgen, dass bei ihnen
 mindestens eine Stelle für interne Meldungen eingerichtet ist und
@@ -848,6 +864,7 @@ entsprechend.
 
 
 #### § 13 Aufgaben der internen Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001300000)
 
 (1) Die internen Meldestellen betreiben Meldekanäle nach § 16, führen
 das Verfahren nach § 17 und ergreifen Folgemaßnahmen nach § 18.
@@ -859,6 +876,7 @@ Einrichtungen oder sonstigen Stellen der Europäischen Union bereit.
 
 
 #### § 14 Organisationsformen interner Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001400000)
 
 (1) Eine interne Meldestelle kann eingerichtet werden, indem eine bei
 dem jeweiligen Beschäftigungsgeber oder bei der jeweiligen
@@ -881,6 +899,7 @@ Beschäftigungsgeber.
 
 
 #### § 15 Unabhängige Tätigkeit; notwendige Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001500000)
 
 (1) Die mit den Aufgaben einer internen Meldestelle beauftragten
 Personen sind bei der Ausübung ihrer Tätigkeit unabhängig. Sie dürfen
@@ -896,6 +915,7 @@ entsprechend.
 
 
 #### § 16 Meldekanäle für interne Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001600000)
 
 (1) Nach § 12 zur Einrichtung interner Meldestellen verpflichtete
 Beschäftigungsgeber richten für diese Meldekanäle ein, über die sich
@@ -930,6 +950,7 @@ Tonübertragung erfolgen.
 
 
 #### § 17 Verfahren bei internen Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001700000)
 
 (1) Die interne Meldestelle
 
@@ -969,6 +990,7 @@ genannt werden, nicht beeinträchtigt werden.
 
 
 #### § 18 Folgemaßnahmen der internen Meldestelle
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001800000)
 
 Als Folgemaßnahmen kann die interne Meldestelle insbesondere
 
@@ -1001,9 +1023,11 @@ Als Folgemaßnahmen kann die interne Meldestelle insbesondere
 
 
 ### Unterabschnitt 3 - Externe Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000501000)
 
 
 #### § 19 Errichtung und Zuständigkeit einer externen Meldestelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE001901000)
 
 (1) Der Bund errichtet beim Bundesamt für Justiz eine Stelle für
 externe Meldungen (externe Meldestelle des Bundes). Die externe
@@ -1026,6 +1050,7 @@ eine externe Meldestelle nach den §§ 20 bis 23 zuständig ist.
 
 
 #### § 20 Errichtung und Zuständigkeit externer Meldestellen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002000000)
 
 Jedes Land kann eine eigene externe Meldestelle einrichten für
 Meldungen, die die jeweilige Landesverwaltung und die jeweiligen
@@ -1033,6 +1058,7 @@ Kommunalverwaltungen betreffen.
 
 
 #### § 21 Bundesanstalt für Finanzdienstleistungsaufsicht als externe Meldestelle
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002100000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht ist zuständige
 externe Meldestelle für
@@ -1063,6 +1089,7 @@ Finanzdienstleistungsaufsichtsgesetzes.
 
 
 #### § 22 Bundeskartellamt als externe Meldestelle
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002200000)
 
 (1) Das Bundeskartellamt ist zuständige externe Meldestelle für
 Meldungen von Informationen über Verstöße nach § 2 Absatz 1 Nummer 8
@@ -1076,6 +1103,7 @@ bleiben unberührt.
 
 
 #### § 23 Weitere externe Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002300000)
 
 (1) Der Bund richtet eine weitere externe Meldestelle ein für externe
 Meldungen, die die externe Meldestelle des Bundes nach § 19 betreffen.
@@ -1086,6 +1114,7 @@ Bundes nach § 19.
 
 
 #### § 24 Aufgaben der externen Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002400000)
 
 (1) Die externen Meldestellen errichten und betreiben Meldekanäle nach
 § 27, prüfen die Stichhaltigkeit einer Meldung und führen das
@@ -1143,6 +1172,7 @@ nachzukommen.
 
 
 #### § 25 Unabhängige Tätigkeit; Schulung
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002500000)
 
 (1) Die externen Meldestellen arbeiten im Rahmen ihrer Aufgaben und
 Befugnisse fachlich unabhängig und von den internen Meldestellen
@@ -1157,6 +1187,7 @@ Pflichten nicht zu einem Interessenkonflikt führen.
 
 
 #### § 26 Berichtspflichten der externen Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002600000)
 
 (1) Die externen Meldestellen berichten jährlich in zusammengefasster
 Form über die eingegangenen Meldungen. Der Bericht darf keine
@@ -1190,9 +1221,11 @@ Berichte nach den Absätzen 1 und 2 der Europäischen Kommission.
 
 
 ### Unterabschnitt 4 - Externe Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000601000)
 
 
 #### § 27 Meldekanäle für externe Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002701000)
 
 (1) Für externe Meldestellen werden Meldekanäle eingerichtet, über die
 sich hinweisgebende Personen an die externen Meldestellen wenden
@@ -1219,6 +1252,7 @@ Tonübertragung erfolgen.
 
 
 #### § 28 Verfahren bei externen Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002800000)
 
 (1) Die externen Meldestellen bestätigen den Eingang einer Meldung
 umgehend, spätestens jedoch sieben Tage nach Eingang der Meldung. Eine
@@ -1257,6 +1291,7 @@ bleiben davon unberührt.
 
 
 #### § 29 Folgemaßnahmen der externen Meldestellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE002900000)
 
 (1) Die externen Meldestellen können nach pflichtgemäßem Ermessen
 Auskünfte von den betroffenen natürlichen Personen, von dem
@@ -1293,6 +1328,7 @@ pflichtgemäßem Ermessen
 
 
 #### § 30 Zusammenarbeit mit anderen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003000000)
 
 Die externen Meldestellen sowie die sonstigen öffentlichen Stellen,
 die für die Aufklärung, Verhütung und Verfolgung von Verstößen im
@@ -1303,6 +1339,7 @@ gegenseitig. Spezielle gesetzliche Regelungen zur Zusammenarbeit
 
 
 #### § 31 Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003100000)
 
 (1) Hat eine externe Meldestelle die Stichhaltigkeit einer Meldung
 geprüft und das Verfahren nach § 28 geführt, schließt sie das
@@ -1351,9 +1388,11 @@ einem Vorverfahren.
 
 
 ## Abschnitt 3 - Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000701000)
 
 
 ### § 32 Offenlegen von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003201000)
 
 (1) Personen, die Informationen über Verstöße offenlegen, fallen unter
 die Schutzmaßnahmen dieses Gesetzes, wenn sie
@@ -1399,9 +1438,11 @@ verboten.
 
 
 ## Abschnitt 4 - Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000801000)
 
 
 ### § 33 Voraussetzungen für den Schutz hinweisgebender Personen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003301000)
 
 (1) Die §§ 35 bis 37 sind auf hinweisgebende Personen anwendbar,
 sofern
@@ -1430,6 +1471,7 @@ dieses Gesetzes fallende Verstöße gegen das Unionsrecht melden.
 
 
 ### § 34 Weitere geschützte Personen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003400000)
 
 (1) Die §§ 35 bis 37 gelten entsprechend für natürliche Personen, die
 die hinweisgebende Person bei einer internen oder externen Meldung
@@ -1469,6 +1511,7 @@ bis 37 entsprechend für
 
 
 ### § 35 Ausschluss der Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003500000)
 
 (1) Eine hinweisgebende Person kann nicht für die Beschaffung von oder
 den Zugriff auf Informationen, die sie gemeldet oder offengelegt hat,
@@ -1485,6 +1528,7 @@ um einen Verstoß aufzudecken.
 
 
 ### § 36 Verbot von Repressalien; Beweislastumkehr
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003600000)
 
 (1) Gegen hinweisgebende Personen gerichtete Repressalien sind
 verboten. Das gilt auch für die Androhung und den Versuch,
@@ -1502,6 +1546,7 @@ der Meldung oder Offenlegung beruhte.
 
 
 ### § 37 Schadensersatz nach Repressalien
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003700000)
 
 (1) Bei einem Verstoß gegen das Verbot von Repressalien ist der
 Verursacher verpflichtet, der hinweisgebenden Person den daraus
@@ -1514,6 +1559,7 @@ Vertragsverhältnisses oder auf einen beruflichen Aufstieg.
 
 
 ### § 38 Schadensersatz nach einer Falschmeldung
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003800000)
 
 Die hinweisgebende Person ist zum Ersatz des Schadens verpflichtet,
 der aus einer vorsätzlichen oder grob fahrlässigen Meldung oder
@@ -1521,6 +1567,7 @@ Offenlegung unrichtiger Informationen entstanden ist.
 
 
 ### § 39 Verbot abweichender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE003900000)
 
 Vereinbarungen, die die nach diesem Gesetz bestehenden Rechte
 hinweisgebender Personen oder sonst nach diesem Gesetz geschützter
@@ -1528,9 +1575,11 @@ Personen einschränken, sind unwirksam.
 
 
 ## Abschnitt 5 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG000901000)
 
 
 ### § 40 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE004001000)
 
 (1) Ordnungswidrig handelt, wer wissentlich entgegen § 32 Absatz 2
 eine unrichtige Information offenlegt.
@@ -1570,9 +1619,11 @@ des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNG001001000)
 
 
 ### § 41 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE004100000)
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
@@ -1594,6 +1645,7 @@ Sicherheit und Verbraucherschutz
 
 
 ### § 42 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/hinschg/BJNR08C0B0023.html#BJNR08C0B0023BJNE004201000)
 
 (1) Abweichend von § 12 Absatz 1 müssen private Beschäftigungsgeber
 mit in der Regel 50 bis 249 Beschäftigten ihre internen Meldestellen

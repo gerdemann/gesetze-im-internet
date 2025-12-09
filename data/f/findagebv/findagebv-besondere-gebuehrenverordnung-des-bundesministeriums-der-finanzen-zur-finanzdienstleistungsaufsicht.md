@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S.
@@ -27,6 +28,7 @@ und Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S.
 
 
 ## § 1 Erhebung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000203130)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt)
 erhebt Gebühren für individuell zurechenbare öffentliche Leistungen,
@@ -254,6 +256,7 @@ die aufgrund der folgenden Vorschriften erbracht werden:
 
 
 ## § 2 Höhe der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000300000)
 
 (1) Die Höhe der Gebühren richtet sich nach dem Gebührenverzeichnis in
 der Anlage. Das Gebührenverzeichnis in der Anlage regelt ferner die
@@ -264,6 +267,7 @@ jeweils auch die Kosten für die Festsetzung der Gebühren.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000400000)
 
 Für den Zeitaufwand von Verwaltungsbeschäftigten in der
 Bundesverwaltung gelten die in der Anlage 1 Teil A der Allgemeinen
@@ -272,6 +276,7 @@ Verwaltungsbeschäftigte in der Bundesverwaltung.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000500000)
 
 Für die Erhebung von Gebühren für eine gebührenpflichtige Leistung,
 die vor dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht
@@ -280,6 +285,7 @@ September 2021 geltende Recht weiter anzuwenden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000600000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Oktober
 2021 in Kraft.
@@ -292,6 +298,7 @@ tritt am 1. Januar 2022 in Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/findagebv/BJNR407700021.html#BJNR407700021BJNE000801130)
 
 (Fundstelle: BGBl. I 2021, 4079 - 4109)
 

@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Art. 15 Abs. 1 G v. 20.12.2022 I 2560 iVm Bek. v. 28.12.2022 I 2894 mWv 24.12.2022 in Kraft getreten
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000200000)
 
 (1) Teil 2 Kapitel 1 und 2 dieses Gesetzes ist auf Netzentnahmen von
 leitungsgebundenem Erdgas und die gewerbliche Lieferung von Wärme
@@ -48,6 +50,7 @@ Ablauf des 30. April 2024 verlängern.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000302377)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -267,12 +270,15 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Teil 2 - Entlastung der Letztverbraucher und Kunden
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000200000)
 
 
 ### Kapitel 1 - Entlastung der mit leitungsgebundenem Erdgas belieferten Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000300000)
 
 
 #### § 3 Entlastung der mit leitungsgebundenem Erdgas belieferten Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000401377)
 
 (1) Jeder Erdgaslieferant ist verpflichtet, dem von ihm am ersten Tag
 eines Kalendermonats mit leitungsgebundenem Erdgas belieferten, in
@@ -413,6 +419,7 @@ ausschließlich für den kommerziellen Betrieb dieser Anlage verwenden.
 
 
 #### § 4 Vorgaben zur Gestaltung von Erdgaslieferverträgen; Informationspflichten der Erdgaslieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000501377)
 
 (1) Der Erdgaslieferant darf für eine Entnahmestelle eines von ihm
 belieferten Letztverbrauchers für die Monate, in denen der
@@ -508,6 +515,7 @@ anzuwenden, die vor dem 24. Dezember 2022 geschlossen wurden.
 
 
 #### § 5 Besondere Regelungen zur Entlastungserstreckung auf die Monate Januar und Februar 2023
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000600000)
 
 (1) Für Letztverbraucher nach § 3 Absatz 1 Satz 3, die in den Monaten
 Januar oder Februar 2023 mit leitungsgebundenem Erdgas beliefert
@@ -575,6 +583,7 @@ Energiewirtschaftsgesetzes auszugleichen.
 
 
 #### § 6 Entlastung weiterer, mit leitungsgebundenem Erdgas belieferter Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000701377)
 
 (1) Jeder Erdgaslieferant ist verpflichtet, dem von ihm am ersten Tag
 eines Kalendermonats mit leitungsgebundenem Erdgas belieferten, in
@@ -612,6 +621,7 @@ Satz 5 ausgenommen.
 
 
 #### § 7 Entlastung bei selbstbeschafften Erdgasmengen
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000801377)
 
 (1) Die §§ 3 bis 6 sind nicht anzuwenden auf Lieferungen von
 leitungsgebundenem Erdgas, die ein Letztverbraucher aus einem eigenen
@@ -654,6 +664,7 @@ Arbeitspreise auf die Brutto-Beschaffungskosten abzustellen ist.
 
 
 #### § 8 Ermittlung des Entlastungsbetrags für leitungsgebundenes Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE000900000)
 
 (1) Der monatliche Entlastungsbetrag ergibt sich für jede
 Entnahmestelle als Produkt aus dem Differenzbetrag nach § 9 und dem
@@ -683,6 +694,7 @@ an Kunden liefert.
 
 
 #### § 9 Differenzbetrag
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001001377)
 
 (1) Der Differenzbetrag ist die zentrale Stellgröße, um
 Letztverbraucher vor steigenden Energiekosten zu schützen. Die
@@ -748,6 +760,7 @@ Bestimmungen der Absätze 2 bis 4 anzuwenden.
 
 
 #### § 10 Entlastungskontingent
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001101377)
 
 (1) Der Entlastungsbetrag wird gewährt für ein Entlastungskontingent
 in Kilowattstunden pro Kalenderjahr. Dieses Entlastungskontingent
@@ -861,9 +874,11 @@ Jahresverbrauchsmenge nach Satz 5 bestehen.
 
 
 ### Kapitel 2 - Entlastung der Kunden von Wärmeversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000400000)
 
 
 #### § 11 Entlastung mit Wärme belieferter Kunden
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001200000)
 
 (1) Jedes Wärmeversorgungsunternehmen ist verpflichtet, seinem in Satz
 5 bezeichneten Kunden für die jeweiligen am ersten Tag eines
@@ -953,6 +968,7 @@ Absatz 1 Satz 1 Nummer 3 begrenzt.
 
 
 #### § 12 Vorgaben zur Gestaltung von Wärmelieferverträgen; Informationspflichten der Wärmeversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001301377)
 
 (1) Das Wärmeversorgungsunternehmen darf für eine Entnahmestelle eines
 von ihm belieferten Kunden für die Monate, in denen der Kunde eine
@@ -1044,6 +1060,7 @@ bestehenden Lieferverhältnis zu verrechnen.
 
 
 #### § 13 Besondere Regelungen zur Entlastungserstreckung auf die Monate Januar und Februar 2023
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001400000)
 
 (1) Das Wärmeversorgungsunternehmen ist verpflichtet, Kunden nach § 11
 Absatz 1 Satz 5 zusätzlich zu der Entlastung nach § 11 Absatz 1 für
@@ -1092,6 +1109,7 @@ Februar 2023 unmittelbar und gleichmäßig zu berücksichtigen.
 
 
 #### § 14 Entlastung weiterer mit Wärme belieferter Kunden
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001500000)
 
 (1) Jedes Wärmeversorgungsunternehmen ist verpflichtet, einen von ihm
 am ersten Tag eines Kalendermonats mit Wärme belieferten Kunden,
@@ -1116,6 +1134,7 @@ Wärmeversorgungsunternehmen an andere Kunden liefern.
 
 
 #### § 15 Ermittlung des Entlastungsbetrags für Wärme
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001601377)
 
 (1) Der Entlastungsbetrag ergibt sich für jede Entnahmestelle als
 Produkt aus dem Differenzbetrag nach § 16 und dem
@@ -1141,6 +1160,7 @@ der Vorbehalt einer Rückforderung nach § 29 Absatz 4 fort.
 
 
 #### § 16 Differenzbetrag
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001700000)
 
 (1) Der Differenzbetrag ist die zentrale Stellgröße, um Kunden vor
 steigenden Energiekosten zu schützen. Die Berechnung des
@@ -1182,6 +1202,7 @@ Bestimmungen der Absätze 2 und 3 anzuwenden.
 
 
 #### § 17 Entlastungskontingent
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001800000)
 
 (1) Der Entlastungsbetrag wird gewährt für ein Entlastungskontingent
 in Kilowattstunden pro Kalenderjahr. Dieses Entlastungskontingent
@@ -1211,9 +1232,11 @@ Entlastungsperiode direkt aus Erdgas oder Strom erzeugt worden ist.
 
 
 ### Kapitel 3 - Höchstgrenzen der Entlastungsbeträge und Selbsterklärung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000500000)
 
 
 #### § 18 Höchstgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE001901377)
 
 (1) Wenn der Letztverbraucher oder der Kunde ein Unternehmen ist, darf
 die Entlastungssumme für sämtliche Entnahmestellen des
@@ -1451,6 +1474,7 @@ Kommission zusätzlich zu Beihilfen, die
 
 
 #### § 19 Verfahren der Feststellung der anzuwendenden Höchstgrenze, Einzelnotifizierung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002001377)
 
 (1) Auf Antrag stellt die Prüfbehörde netzentnahmestellenbezogen für
 Strom und entnahmestellenbezogen für leitungsgebundenes Erdgas und
@@ -1716,6 +1740,7 @@ Anordnungen nach dieser Vorschrift haben keine aufschiebende Wirkung.
 
 
 #### § 20 Jahresendabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002101377)
 
 (1) Der Lieferant ist verpflichtet, in seinen Rechnungen für
 Lieferungen an Letztverbraucher oder Kunden unbeschadet sonstiger
@@ -1865,6 +1890,7 @@ Rückforderungen nach Satz 1 haben keine aufschiebende Wirkung.
 
 
 #### § 21 Grundsatz Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002200000)
 
 Der Letztverbraucher oder der Kunde sowie der Lieferant müssen
 
@@ -1884,6 +1910,7 @@ Der Letztverbraucher oder der Kunde sowie der Lieferant müssen
 
 
 #### § 22 Selbsterklärung von Letztverbrauchern oder Kunden
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002301377)
 
 (1) Ein Letztverbraucher oder Kunde, der ein Unternehmen ist und
 dessen Entlastungsbetrag an sämtlichen Entnahmestellen einen Betrag
@@ -2108,6 +2135,7 @@ Prüfbehörde unverzüglich, jedoch nicht vor dem 1. Juli 2023.
 
 
 #### § 23 Mitteilungspflichten des Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002401377)
 
 Ein Lieferant ist verpflichtet, mitzuteilen:
 
@@ -2159,6 +2187,7 @@ Ein Lieferant ist verpflichtet, mitzuteilen:
 
 
 #### § 24 Lieferantenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002500000)
 
 Bei einem Lieferantenwechsel im Kalenderjahr 2023 dürfen dem
 Letztverbraucher oder Kunden von dem neuen Lieferanten
@@ -2170,6 +2199,7 @@ legen, welches dem Letztverbraucher oder Kunden nicht zusteht.
 
 
 #### § 25 Aufbewahrungs- und Berichtspflichten sowie Aufsicht der Prüfbehörde und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002601377)
 
 (1) Die Berichtspflicht der Prüfbehörde nach § 46 Absatz 2 Satz 1 des
 Strompreisbremsegesetzes ist für Entlastungen nach diesem Gesetz
@@ -2212,9 +2242,11 @@ Gesetz gilt § 46 Absatz 4 des Strompreisbremsegesetzes entsprechend.
 
 
 ### Kapitel 4 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000600000)
 
 
 #### § 26 Weitergabe der Entlastung bei Mietverhältnissen, Pachtverhältnissen und Gemeinschaften der Wohnungseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002700000)
 
 (1) Der Vermieter hat die Entlastung, die er nach den §§ 3 und 5 oder
 den §§ 11 und 13 ab dem 1. März 2023 erlangt, in der
@@ -2293,6 +2325,7 @@ die Berechnung der Höchstgrenzen des Vermieters nach § 18 mit ein.
 
 
 #### § 27 Missbrauchsverbot
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002801377)
 
 (1) Lieferanten ist eine Gestaltung ihrer Preissetzung oder eine
 sonstige Verhaltensweise verboten, die eine missbräuchliche Ausnutzung
@@ -2377,6 +2410,7 @@ Kartellbehörden bleiben unberührt.
 
 
 #### § 28 Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE002900000)
 
 Unpfändbar sind
 
@@ -2401,6 +2435,7 @@ zulässig.
 
 
 #### § 29 Arbeitsplatzerhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003002377)
 
 (1) Letztverbraucher oder Kunden, die ein Unternehmen sind und
 Arbeitnehmer beschäftigen, können auf Grundlage dieses Gesetzes und
@@ -2505,6 +2540,7 @@ der Geltendmachung des Zinsanspruchs entsprechend § 49a Absatz 3 Satz
 
 
 #### § 29a Boni- und Dividendenverbot
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003102377)
 
 (1) Ein Unternehmen, das insgesamt eine Entlastungssumme von mehr als
 25 Millionen Euro bezieht, darf Mitgliedern der Geschäftsleitung des
@@ -2619,6 +2655,7 @@ zurückzufordern, soweit die Absätze 1 bis 5 nicht eingehalten wurden.
 
 
 #### § 30 Ausweisung der Entlastung in der Verbrauchsabrechnung und Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003200000)
 
 (1) In der nächstfolgenden Verbrauchsabrechnung hat der Lieferant die
 finanzielle Entlastung nach den §§ 3, 6, 11 und 14 dieses Gesetzes und
@@ -2641,9 +2678,11 @@ Verbrauchsabrechnung.
 
 
 ## Teil 3 - Erstattung der Entlastungen zugunsten der Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000700000)
 
 
 ### § 31 Erstattungsanspruch des Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003300000)
 
 Ein Lieferant, der zu Entlastungen nach den §§ 3, 5, 6, 11, 13 und 14
 verpflichtet ist, hat in Höhe der sich aus diesen Vorschriften
@@ -2654,6 +2693,7 @@ des Letztverbrauchers oder des Kunden.
 
 
 ### § 32 Vorauszahlungsanspruch des Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003401377)
 
 (1) Ein Lieferant hat einen Anspruch auf Vorauszahlung auf den
 Erstattungsanspruch nach § 31 gegen die Bundesrepublik Deutschland für
@@ -2775,6 +2815,7 @@ Viertels.
 
 
 ### § 33 Antragsverfahren für den Vorauszahlungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003501377)
 
 (1) Ein Lieferant, der einen Vorauszahlungsanspruch nach § 32 Absatz 1
 geltend machen will, hat zu dem Vorauszahlungsanspruch in Bezug auf
@@ -2892,6 +2933,7 @@ die Auszahlung frühestens zum 1. Februar 2023 erfolgen soll. Im
 
 
 ### § 34 Endabrechnung des Erstattungsanspruchs und isolierte Beantragung einer Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003600000)
 
 (1) Ein Lieferant, der eine Vorauszahlung nach § 33 Absatz 8 erhalten
 hat, ist verpflichtet, dem Beauftragten spätestens am 31. Mai 2025 auf
@@ -2959,6 +3001,7 @@ Konto zurückzuzahlen.
 
 
 ### § 35 Vorauszahlung und Erstattung für selbstbeschaffte Erdgasmengen
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003700000)
 
 (1) Für die Beantragung des Vorauszahlungsanspruchs nach § 7 Absatz 2
 und die Auszahlung ist § 33 mit der Maßgabe anzuwenden, dass der
@@ -3014,6 +3057,7 @@ umfassende Teilkonzern an die Stelle des Lieferanten.
 
 
 ### § 36 Mitwirkung der Kreditinstitute und der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003800000)
 
 (1) Für die Mitwirkung von Kreditinstituten an den Verfahren nach den
 §§ 33 bis 35 ist § 13 des Erdgas-Wärme-Soforthilfegesetzes
@@ -3025,6 +3069,7 @@ Wärme-Soforthilfegesetzes entsprechend anzuwenden.
 
 
 ### § 37 Prüfungsrecht des Bundesrechnungshofs
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE003900000)
 
 Der Bundesrechnungshof ist
 
@@ -3043,9 +3088,11 @@ Der Bundesrechnungshof ist
 
 
 ## Teil 3a - Entlastung für atypische Minderverbräuche
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000900377)
 
 
 ### § 37a Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004500377)
 
 (1) Ein Letztverbraucher, der im Wege der registrierenden
 Leistungsmessung mit leitungsgebundenem Erdgas beliefert wird, oder
@@ -3228,9 +3275,11 @@ dieser Vorschrift gewährten zusätzlichen Entlastung zurückzuzahlen.
 
 
 ## Teil 4 - Bußgeldvorschriften, Verordnungsermächtigung, Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNG000800000)
 
 
 ### § 38 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004001377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3369,6 +3418,7 @@ Einzelbetrages erfolgen.
 
 
 ### § 39 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004101377)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates den zeitlichen Anwendungsbereich von Teil 2
@@ -3417,6 +3467,7 @@ Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 40 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004200000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert dieses
 Gesetz bis zum 31. Dezember 2025. Unbeschadet von Satz 1 kann es die
@@ -3429,6 +3480,7 @@ den Sätzen 1 und 2.
 (zu § 2 Nummer 6)
 
 ### Anlage 1 Krisenbedingte Energiemehrkosten
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004301377)
 
 (Fundstelle: BGBl. I 2022, 2584)
 
@@ -3567,6 +3619,7 @@ den Sätzen 1 und 2.
 (zu § 18)
 
 ### Anlage 2 Besonders von hohen Energiepreisen betroffene Sektoren und Teilsektoren
+[Direktlink](https://www.gesetze-im-internet.de/ewpbg/BJNR256010022.html#BJNR256010022BJNE004400000)
 
 (Fundstelle: BGBl. I 2022, 2585 - 2586)
 

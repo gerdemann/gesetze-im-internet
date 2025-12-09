@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Die §§ 42 bis 44 treten gem. § 74 Abs. 9 zukünftig außer Kraft. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Außerkrafttretens im Bundesgesetzblatt bekannt.
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000100000)
 
 
 ### § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000200000)
 
 Zweck dieses Gesetzes ist,
 
@@ -48,6 +50,7 @@ Zweck dieses Gesetzes ist,
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000300000)
 
 Ergänzend zu den Begriffsbestimmungen der Artikel 2 und 3 der
 Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des
@@ -210,9 +213,11 @@ Gesetzes folgende Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Durchführung von Pflanzenschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000200000)
 
 
 ### § 3 Gute fachliche Praxis und integrierter Pflanzenschutz
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000402119)
 
 (1) Pflanzenschutz darf nur nach guter fachlicher Praxis durchgeführt
 werden. Die gute fachliche Praxis im Pflanzenschutz umfasst
@@ -285,6 +290,7 @@ regeln, wenn dem insbesondere der Schutz natürlich vorkommender
 
 
 ### § 4 Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000500000)
 
 (1) Die Bundesregierung beschließt einen Aktionsplan zur nachhaltigen
 Anwendung von Pflanzenschutzmitteln im Sinne des Artikels 4 Absatz 1
@@ -314,6 +320,7 @@ Jahre. Die Absätze 1 bis 3 gelten entsprechend.
 
 
 ### § 5 Mitwirkung von Bundesbehörden am Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000600000)
 
 An der Erarbeitung des Aktionsplans im Sinne des § 4 wirken das
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und das
@@ -326,6 +333,7 @@ Verwaltungsaufgaben an der Umsetzung des Aktionsplans mit.
 
 
 ### § 6 Pflanzenschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000703119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zur Erfüllung der in § 1 genannten Zwecke
@@ -506,9 +514,11 @@ zu gefährden.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000802119)
 
 
 ### § 8 Anordnungen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE000901119)
 
 Die zuständige Behörde kann zur Bekämpfung von Schadorganismen oder
 zur Verhütung der Ein- oder Verschleppung sowie der Ansiedlung von
@@ -519,9 +529,11 @@ getroffen ist oder eine durch Rechtsverordnung nach § 6 Absatz 1 oder
 
 
 ## Abschnitt 3 - Allgemeine Anforderungen für Anwender, Händler und Hersteller von Pflanzenschutzmitteln sowie Pflanzenschutzberater
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000300000)
 
 
 ### § 9 Persönliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001002119)
 
 (1) Eine Person darf nur
 
@@ -647,6 +659,7 @@ durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 
 ### § 10 Anzeige bei Beratung und Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001100000)
 
 Wer Pflanzenschutzmittel für andere – außer gelegentlicher
 Nachbarschaftshilfe – anwenden oder zu gewerblichen Zwecken oder im
@@ -660,6 +673,7 @@ Befugnis durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 
 ### § 11 Aufzeichnungs- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001200000)
 
 (1) Die Aufzeichnungen nach Artikel 67 Absatz 1 Satz 1 oder 2 der
 Verordnung (EG) Nr. 1107/2009 können elektronisch oder schriftlich
@@ -680,9 +694,11 @@ die Aufzeichnungen geben.
 
 
 ## Abschnitt 4 - Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000400000)
 
 
 ### § 12 Vorschriften für die Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001301119)
 
 (1) Pflanzenschutzmittel dürfen einzeln oder gemischt mit anderen nur
 angewandt werden, wenn sie zugelassen sind, die Zulassung nicht ruht
@@ -780,6 +796,7 @@ Behörde eine Genehmigung nach § 22 Absatz 2 erteilt hat.
 
 
 ### § 13 Vorschriften für die Einschränkung der Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001400000)
 
 (1) Pflanzenschutzmittel dürfen nicht angewandt werden, soweit der
 Anwender damit rechnen muss, dass ihre Anwendung im Einzelfall
@@ -872,6 +889,7 @@ nicht Artikel 16 Absatz 1 der Richtlinie
 
 
 ### § 14 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001504119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zum Schutz der Gesundheit von Mensch und Tier
@@ -967,6 +985,7 @@ Haushaltsgesetzes gezahlt werden kann.
 
 
 ### § 15 Beseitigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001600000)
 
 Pflanzenschutzmittel,
 
@@ -992,6 +1011,7 @@ beseitigen.
 
 
 ### § 16 Gebrauch von Pflanzenschutzgeräten
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001701301)
 
 (1) Wird ein Pflanzenschutzmittel mit Hilfe eines
 Pflanzenschutzgerätes angewandt, darf dieses Gerät nur so beschaffen
@@ -1058,6 +1078,7 @@ unterstehende Behörden weiter übertragen können.
 
 
 ### § 17 Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001802119)
 
 (1) Zusätzlich zu den Vorschriften nach § 12 darf auf Flächen, die für
 die Allgemeinheit bestimmt sind, nur ein zugelassenes
@@ -1153,6 +1174,7 @@ Lebensmittelsicherheit über die erteilte Genehmigung nach Satz 1.
 
 
 ### § 18 Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE001902119)
 
 (1) Die Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen ohne
 Genehmigung nach Absatz 2 ist verboten.
@@ -1280,6 +1302,7 @@ Verbraucherschutz und Lebensmittelsicherheit
 
 
 ### § 19 Ausbringung oder Verwendung von mit Pflanzenschutzmitteln behandeltem Saatgut, Pflanzgut oder Kultursubstrat
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002001301)
 
 (1) Saatgut, Pflanzgut oder Kultursubstrat, die ein
 Pflanzenschutzmittel enthalten oder denen ein Pflanzenschutzmittel
@@ -1322,6 +1345,7 @@ anhaftet, zu erlassen.
 
 
 ### § 20 Versuchszwecke
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002102119)
 
 (1) Ein nicht zugelassenes Pflanzenschutzmittel darf zu
 Versuchszwecken nur innergemeinschaftlich verbracht, in Verkehr
@@ -1404,6 +1428,7 @@ zu regeln.
 
 
 ### § 21 Erhebung von Daten über die Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002201301)
 
 (1) Das Julius Kühn-Institut ist zuständig für die Erhebung von Daten
 in nicht personenbezogener Form über die Anwendung von
@@ -1430,6 +1455,7 @@ Kommission.
 
 
 ### § 22 Weitergehende Länderbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002300000)
 
 (1) Befugnisse der Länder,
 
@@ -1563,9 +1589,11 @@ Mensch und Tier sowie für den Naturhaushalt.
 
 
 ## Abschnitt 5 - Abgabe, Rückgabe und Ausfuhr von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000500000)
 
 
 ### § 23 Abgabe von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002400000)
 
 (1) Pflanzenschutzmittel, die nur für die berufliche Anwendung
 zugelassen sind, dürfen nur abgegeben werden, wenn der Erwerber über
@@ -1609,6 +1637,7 @@ verstoßen hat.
 
 
 ### § 24 Anzeigepflicht bei der Abgabe von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002501301)
 
 (1) Wer Pflanzenschutzmittel zu gewerblichen Zwecken oder im Rahmen
 sonstiger wirtschaftlicher Unternehmungen in den Verkehr bringen oder
@@ -1641,6 +1670,7 @@ Erfüllung ihrer Aufgaben nach § 59 zur Verfügung.
 
 
 ### § 25 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002602119)
 
 (1) Soweit nicht Regelungen in anderen Rechtsvorschriften getroffen
 worden sind, dürfen Pflanzenschutzmittel zu gewerblichen Zwecken oder
@@ -1722,6 +1752,7 @@ Genehmigung oder Anzeige abhängig zu machen.
 
 
 ### § 26 Getrennte Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002700000)
 
 Verfügungsberechtigte und Besitzer von Lebensmitteln, Futtermitteln,
 Saatgut, Pflanzgut oder Kultursubstrat, die für die Ausfuhr bestimmt
@@ -1734,6 +1765,7 @@ machen.
 
 
 ### § 27 Rückgabe von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002802119)
 
 (1) Nach Beendigung der Zulassung eines Pflanzenschutzmittels ist
 dessen Rückgabe an
@@ -1780,9 +1812,11 @@ Rücknahme oder einen Widerruf vorgelegen hätten.
 
 
 ## Abschnitt 6 - Inverkehrbringen von Pflanzenschutzmitteln, Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000600000)
 
 
 ### § 28 Inverkehrbringen von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE002900000)
 
 (1) Unbeschadet des Artikels 28 der Verordnung (EG) Nr. 1107/2009 gilt
 ein Pflanzenschutzmittel auch als zugelassen, für das eine Genehmigung
@@ -1835,6 +1869,7 @@ entsprechend.
 
 
 ### § 29 Inverkehrbringen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003000000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 kann das Inverkehrbringen, das innergemeinschaftliche Verbringen und
@@ -1877,6 +1912,7 @@ Institut und dem Umweltbundesamt erteilt.
 
 
 ### § 30 Inverkehrbringen von Pflanzenschutzmitteln unter abweichender Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003100000)
 
 (1) Ein Pflanzenschutzmittel, das in Deutschland zugelassen ist, darf
 auch von anderen als dem Zulassungsinhaber auf der Grundlage einer
@@ -1912,6 +1948,7 @@ noch in Verkehr gebracht werden darf.
 
 
 ### § 31 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003202119)
 
 (1) Die Vorschriften der §§ 13 und 14 des Chemikaliengesetzes über die
 Kennzeichnung sind
@@ -2001,6 +2038,7 @@ Erfüllung der in § 1 genannten Zwecke erforderlich ist,
 
 
 ### § 32 Inverkehrbringen von mit Pflanzenschutzmitteln behandeltem Saatgut, Pflanzgut oder Kultursubstrat
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003301301)
 
 (1) Saatgut, Pflanzgut und Kultursubstrate, die Pflanzenschutzmittel
 enthalten oder denen Pflanzenschutzmittel anhaften, dürfen nur
@@ -2064,6 +2102,7 @@ der Verordnung (EG) Nr. 1107/2009 eine Regelung getroffen hat.
 
 
 ### § 33 Zuständigkeit für die Zulassung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003400000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 zuständig für
@@ -2167,6 +2206,7 @@ Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt.
 
 
 ### § 34 Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003500000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 entscheidet über die Zulassung in den Fällen des § 33 Absatz 1 Nummer
@@ -2254,6 +2294,7 @@ Nr. 1107/2009 vorgegebene Frist einzuhalten.
 
 
 ### § 35 Grundlagen für die Verfahren zur Zulassung eines Pflanzenschutzmittels
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003600000)
 
 (1) Bei der Prüfung eines Antrages, auch im Verfahren der
 gegenseitigen Anerkennung, auf Zulassung, Erweiterung oder sonstige
@@ -2269,6 +2310,7 @@ der Verordnung (EG) Nr. 1107/2009 entwickelten Leitlinien zu beachten.
 
 
 ### § 36 Ergänzende Bestimmungen für den Inhalt der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003702119)
 
 (1) In der Zulassung kann das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit ergänzend zu den in Artikel 31 Absatz 2 und 3
@@ -2405,6 +2447,7 @@ Absatz 1 entsprechend anzuwenden.
 
 
 ### § 37 Neue Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003800000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 zuständig für die Prüfung der Meldungen nach Artikel 56 der Verordnung
@@ -2416,6 +2459,7 @@ Erkenntnisse ergeben.
 
 
 ### § 38 Verlängerung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE003900000)
 
 Ist über einen Antrag auf erneute Zulassung nach Artikel 43 der
 Verordnung (EG) Nr. 1107/2009 aus Gründen, die der Zulassungsinhaber
@@ -2427,6 +2471,7 @@ getroffen wird.
 
 
 ### § 39 Widerruf, Rücknahme, Ruhen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004000000)
 
 (1) Eine Zulassung ist zu widerrufen, wenn
 
@@ -2484,6 +2529,7 @@ gilt § 49 Absatz 6 des Verwaltungsverfahrensgesetzes entsprechend.
 
 
 ### § 40 Ergänzende Regeln zu Zulassungs- und Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004102119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
@@ -2526,9 +2572,11 @@ dürfen.
 
 
 ## Abschnitt 7 - Inverkehrbringen von anderen Stoffen, Zulassungs- und Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000700000)
 
 
 ### § 41 Zuständigkeit für die Prüfung von Wirkstoffen, Safenern und Synergisten
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004200000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 zuständig für
@@ -2630,6 +2678,7 @@ Gewährung von Datenschutz nach Artikel 59 der Verordnung (EG) Nr.
 
 
 ### § 42 Zusatzstoffe
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004303119)
 
 (1) Zusatzstoffe im Sinne des Artikels 2 Absatz 3 Buchstabe d der
 Verordnung (EG) Nr. 1107/2009 dürfen in der Formulierung, in der die
@@ -2685,6 +2734,7 @@ dem Antrag einzureichenden Unterlagen zu regeln.
 
 
 ### § 43 Kennzeichnung von Zusatzstoffen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004400000)
 
 Ein Zusatzstoff darf nur in Verkehr gebracht werden, wenn er auf den
 Behältnissen oder abgabefertigen Packungen oder Packungsbeilagen in
@@ -2709,6 +2759,7 @@ folgende Angaben gemacht werden:
 
 
 ### § 44 Überprüfung genehmigter Zusatzstoffe
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004500000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 kann genehmigte Zusatzstoffe daraufhin überprüfen, ob sie den
@@ -2723,6 +2774,7 @@ beauftragten Dritten zulässig.
 
 
 ### § 45 Pflanzenstärkungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004601301)
 
 (1) Ein Pflanzenstärkungsmittel darf nur in Verkehr gebracht werden,
 wenn es bei bestimmungsgemäßer und sachgerechter Anwendung oder als
@@ -2787,9 +2839,11 @@ Kontrollen zu regeln.
 
 
 ## Abschnitt 8 - Parallelhandel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000800000)
 
 
 ### § 46 Genehmigung für den Parallelhandel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004701301)
 
 (1) Ein Pflanzenschutzmittel, das in einem anderen Mitgliedstaat
 zugelassen ist und mit einem in Deutschland zugelassenen
@@ -2836,6 +2890,7 @@ Bundesrates bedarf,
 
 
 ### § 47 Kennzeichnung parallelgehandelter Pflanzenschutzmittel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004800000)
 
 (1) Ein parallelgehandeltes Pflanzenschutzmittel darf nur in Verkehr
 gebracht werden, wenn es nach § 31 Absatz 1 und 2, jeweils auch in
@@ -2851,12 +2906,14 @@ Pflanzenschutzmittel.
 
 
 ### § 48 Ruhen der Genehmigung für den Parallelhandel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE004900000)
 
 Die Genehmigung für den Parallelhandel ruht, wenn das Ruhen der
 Zulassung des Referenzmittels angeordnet ist.
 
 
 ### § 49 Pflichten des Inhabers der Genehmigung für den Parallelhandel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005000000)
 
 (1) Der Inhaber einer Genehmigung nach Artikel 52 der Verordnung (EG)
 Nr. 1107/2009 ist verpflichtet, Rechnungen, Kaufbelege und
@@ -2909,6 +2966,7 @@ Missbrauchs im Sinne des § 50 Absatz 2 Satz 1 Nummer 2 besteht.
 
 
 ### § 50 Rücknahme oder Widerruf der Genehmigung für den Parallelhandel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005100000)
 
 (1) Die Genehmigung für den Parallelhandel ist zurückzunehmen, wenn
 der Inhaber der Genehmigung diese
@@ -2960,6 +3018,7 @@ anordnen.
 
 
 ### § 51 Innergemeinschaftliches Verbringen von Pflanzenschutzmitteln für den Eigenbedarf
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005200000)
 
 (1) Soll das innergemeinschaftliche Verbringen eines
 Pflanzenschutzmittels nach § 46 nur zur Anwendung im eigenen Betrieb
@@ -2982,9 +3041,11 @@ in dem Betrieb angewendet werden, für den die Genehmigung nach Absatz
 
 
 ## Abschnitt 9 - Pflanzenschutzgeräte
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG000900000)
 
 
 ### § 52 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005301301)
 
 (1) Das Julius Kühn-Institut kann auf Antrag des Herstellers oder
 Inverkehrbringers Pflanzenschutzgeräte daraufhin prüfen, ob sie den
@@ -3011,6 +3072,7 @@ regeln.
 
 
 ### § 53 Betriebsanleitung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005401119)
 
 Erfüllt das Pflanzenschutzgerät besondere Anforderungen im Sinne des §
 52 Absatz 1, ist der Hersteller oder Inverkehrbringer verpflichtet, in
@@ -3022,9 +3084,11 @@ einzuhaltenden Betriebsbedingungen hinzuweisen.
 
 
 ## Abschnitt 10 - Entschädigung, Forderungsübergang, Kosten
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG001000000)
 
 
 ### § 54 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005500000)
 
 (1) Soweit auf Grund dieses Gesetzes Pflanzen oder
 Pflanzenerzeugnisse, die weder befallen noch befallsverdächtig sind,
@@ -3049,6 +3113,7 @@ ordentliche Rechtsweg gegeben.
 
 
 ### § 55 Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005601301)
 
 Wird eine Entschädigung nach § 54 Absatz 1 oder 2 geleistet oder ein
 Ausgleich aus Anlass behördlich angeordneter Maßnahmen zur Bekämpfung
@@ -3068,13 +3133,16 @@ Verfahren, können in der Rechtsverordnung nach Satz 1 geregelt werden.
 
 
 ### § 56 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005705301)
 
 
 
 ## Abschnitt 11 - Behörden, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG001100000)
 
 
 ### § 57 Julius Kühn-Institut
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005801301)
 
 (1) Das Julius Kühn-Institut ist eine selbständige Bundesoberbehörde
 im Geschäftsbereich des Bundesministeriums für Ernährung und
@@ -3163,6 +3231,7 @@ bekannt.
 
 
 ### § 58 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE005900000)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 hat, zusätzlich zu den Aufgaben, die ihm durch dieses Gesetz, durch
@@ -3210,6 +3279,7 @@ kann prüfen
 
 
 ### § 59 Durchführung in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006001119)
 
 (1) In den Ländern obliegt die Durchführung dieses Gesetzes
 einschließlich der Überwachung der Einhaltung seiner Vorschriften, der
@@ -3269,6 +3339,7 @@ insbesondere folgende Aufgaben:
 
 
 ### § 60 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006100000)
 
 Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die
 zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße
@@ -3293,6 +3364,7 @@ untersagen:
 
 
 ### § 61 Mitwirkung von Zolldienststellen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006201119)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zolldienststellen wirken bei der Überführung in den freien Verkehr von
@@ -3341,6 +3413,7 @@ Pflanzenschutzmitteln mit.
 
 
 ### § 62 Befugte Zolldienststellen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006302119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft gibt im
 Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger
@@ -3351,9 +3424,11 @@ abgefertigt werden, wenn dies durch Rechtsverordnung nach § 40 Absatz
 
 
 ## Abschnitt 12 - Auskunfts- und Meldepflichten, Übermittlung von Daten, Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG001200000)
 
 
 ### § 63 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006402119)
 
 (1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
@@ -3410,6 +3485,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 64 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006502119)
 
 (1) Jährlich bis zum 31. März haben dem Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit für das vorangegangene
@@ -3457,6 +3533,7 @@ Bundesanzeiger oder im elektronischen Bundesanzeiger.
 
 
 ### § 65 Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006600000)
 
 (1) Unbeschadet des Artikels 59 der Verordnung (EG) Nr. 1107/2009
 dürfen Angaben, die das Bundesamt für Verbraucherschutz und
@@ -3527,6 +3604,7 @@ hat. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 ### § 66 Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006700000)
 
 (1) Das Julius Kühn-Institut und das Bundesamt für Verbraucherschutz
 und Lebensmittelsicherheit können den zuständigen Behörden anderer
@@ -3552,6 +3630,7 @@ Europäischen Kommission mitteilen.
 
 
 ### § 67 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006801301)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 der Europäischen Kommission obliegt dem Bundesministerium für
@@ -3566,9 +3645,11 @@ diese Befugnis durch Rechtsverordnung nach Satz 3 auf andere Behörden
 
 
 ## Abschnitt 13 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG001300000)
 
 
 ### § 68 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE006901119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3793,6 +3874,7 @@ Verbraucherschutz und Lebensmittelsicherheit.
 
 
 ### § 69 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE007000000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -3859,9 +3941,11 @@ werden.
 
 
 ## Abschnitt 14 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNG001400000)
 
 
 ### § 70 Unberührtheitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE007100000)
 
 Unberührt bleiben
 
@@ -3885,6 +3969,7 @@ sowie die auf diese Gesetze gestützten Rechtsverordnungen.
 
 
 ### § 71 Besondere Vorschriften zur Bekämpfung der Reblaus
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE007201301)
 
 Durch Rechtsverordnung des Bundesministeriums für Ernährung und
 Landwirtschaft mit Zustimmung des Bundesrates nach § 6 Absatz 1 wird
@@ -3904,6 +3989,7 @@ erforderlich ist, die Länder
 
 
 ### § 72 Eilverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE007302119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei
 Gefahr im Verzug Rechtsverordnungen nach § 8 Absatz 1, § 14 Absatz 1,
@@ -3919,10 +4005,12 @@ Zustimmung des Bundesrates verlängert werden.
 
 
 ### § 73 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE007401119)
 
 
 
 ### § 74 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflschg_2012/BJNR014810012.html#BJNR014810012BJNE007502119)
 
 (1) Unterlagen, die Anträgen auf Zulassung eines Pflanzenschutzmittels
 vor dem 14. Februar 2012 beigefügt worden sind, dürfen nur zugunsten

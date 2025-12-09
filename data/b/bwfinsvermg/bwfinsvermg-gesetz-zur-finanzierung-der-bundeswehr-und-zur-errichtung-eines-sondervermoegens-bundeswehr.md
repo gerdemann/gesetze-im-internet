@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung eines Sondervermögens und Finanzierung der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000100000)
 
 (1) Es wird ein Sondervermögen des Bundes mit der Bezeichnung
 „Sondervermögen Bundeswehr“ errichtet.
@@ -37,6 +38,7 @@ dann jeweils geltenden NATO-Fähigkeitszielen zu gewährleisten.
 
 
 ## § 1a Weitere Maßnahmen zur Stärkung der Bündnis- und Verteidigungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000200000)
 
 (1) Unabhängig vom Sondervermögen werden zur Stärkung der Bündnis- und
 Verteidigungsfähigkeit Maßnahmen zur Cybersicherheit, zum Zivilschutz
@@ -48,6 +50,7 @@ Sicherheit im Cyber- und Informationsraum vor.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000301123)
 
 Das Sondervermögen hat den Zweck, die Bündnis- und
 Verteidigungsfähigkeit zu stärken und dazu ab dem Jahr 2022 die
@@ -63,6 +66,7 @@ Zugangs zu Schlüsseltechnologie und Logistik für die Bundeswehr.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000400000)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
 Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der
@@ -79,6 +83,7 @@ haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
 
 ## § 4 Kreditermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000501123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung
 der Ausgaben des Sondervermögens Kredite bis zur Höhe von 100
@@ -92,6 +97,7 @@ die Beträge aus getilgten Krediten wieder zu.
 
 
 ## § 5 Wirtschaftsplan, Haushaltsrecht, Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000601123)
 
 (1) Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und
@@ -134,6 +140,7 @@ an den Sitzungen.
 
 
 ## § 6 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000700000)
 
 Das Bundesministerium der Finanzen legt jährlich zum Stichtag 31.
 Dezember Rechnung über die Einnahmen und Ausgaben sowie über das
@@ -142,11 +149,13 @@ Vermögen und die Schulden des Sondervermögens. Die Rechnungen sind als
 
 
 ## § 7 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000800000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 8 Auflösung, Tilgungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE000900000)
 
 (1) Das Sondervermögen gilt am 31. Dezember des Jahres als aufgelöst,
 in dem der Kreditrahmen nach § 4 vollständig ausgeschöpft wurde.
@@ -161,6 +170,7 @@ Zeitraums zurückzuführen.
 (zu § 5 Absatz 1)
 
 ## Anlage Wirtschaftsplan 2022 des „Sondervermögens Bundeswehr“
+[Direktlink](https://www.gesetze-im-internet.de/bwfinsvermg/BJNR103010022.html#BJNR103010022BJNE001000000)
 
 (Fundstelle: BGBl. I 2022, 1032 - 1034)
 

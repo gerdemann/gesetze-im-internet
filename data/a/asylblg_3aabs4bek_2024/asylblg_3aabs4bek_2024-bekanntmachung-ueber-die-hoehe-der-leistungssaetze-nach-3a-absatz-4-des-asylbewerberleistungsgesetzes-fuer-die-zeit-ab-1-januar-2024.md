@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/asylblg_3aabs4bek_2024/BJNR1200A0023.html#BJNR1200A0023BJNE000100000)
 
 Nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes, der durch
 Artikel 1 Nummer 5 des Gesetzes vom 13. August 2019 (BGBl. I S. 1290)
@@ -150,6 +151,7 @@ eingefügt worden ist, wird hiermit Folgendes bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/asylblg_3aabs4bek_2024/BJNR1200A0023.html#BJNR1200A0023BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

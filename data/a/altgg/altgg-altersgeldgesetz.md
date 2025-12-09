@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000201311)
 
 (1) Altersgeld wird gewährt
 
@@ -55,6 +56,7 @@ Soldatenversorgungsgesetzes.
 
 
 ## § 2 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000300000)
 
 (1) Das Altersgeld und das Hinterbliebenenaltersgeld werden durch
 Gesetz geregelt.
@@ -74,6 +76,7 @@ ganz oder teilweise zu erstatten sind, bleiben unberührt.
 
 
 ## § 3 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000402311)
 
 (1) Ein Anspruch auf Altersgeld und auf Hinterbliebenenaltersgeld
 besteht nur, wenn eine altersgeldfähige Dienstzeit nach § 6 Absatz 1
@@ -188,6 +191,7 @@ durchgeführt worden ist.
 
 
 ## § 4 Verlust des Anspruchs auf Altersgeld
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000501116)
 
 (1) Unter den Voraussetzungen des § 59 des Beamtenversorgungsgesetzes
 oder der §§ 5 und 53 Absatz 1 des Soldatengesetzes erlischt der
@@ -205,6 +209,7 @@ Bundesdisziplinargesetzes ist nicht anzuwenden.
 
 
 ## § 5 Altersgeldfähige Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000601311)
 
 (1) Altersgeldfähige Dienstbezüge sind
 
@@ -235,6 +240,7 @@ entsprechend.
 
 
 ## § 6 Altersgeldfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000705311)
 
 (1) Altersgeldfähig ist die Dienstzeit, die der Beamte von der ersten
 Berufung in das Beamtenverhältnis an im Dienst eines öffentlich-
@@ -281,6 +287,7 @@ gelten entsprechend.
 
 
 ## § 7 Höhe des Altersgelds
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000802311)
 
 (1) Die Höhe des Altersgelds beträgt für jedes Jahr altersgeldfähiger
 Dienstzeit 1,79375 Prozent der altersgeldfähigen Dienstbezüge,
@@ -321,6 +328,7 @@ gesetzlichen Rentenversicherung ein.
 
 
 ## § 8 Zuschläge für Kindererziehung und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE000901116)
 
 Die §§ 50a, 50b, 50c Absatz 1 Satz 1 und Absatz 2 bis 4 sowie § 50d
 des Beamtenversorgungsgesetzes gelten entsprechend. An die Stelle des
@@ -333,6 +341,7 @@ Beamtenversorgungsgesetzes tritt das Witwenaltersgeld nach § 9 Absatz
 
 
 ## § 9 Hinterbliebenenaltersgeld
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001001311)
 
 (1) Das Hinterbliebenenaltersgeld umfasst
 
@@ -384,6 +393,7 @@ Beamtenversorgungsgesetzes gelten entsprechend.
 
 
 ## § 10 Festsetzung und Zahlung des Altersgelds und des Hinterbliebenenaltersgelds, Rückforderung, Durchführung, Altersgeldauskunft
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001103116)
 
 (1) Die altersgeldfähigen Dienstbezüge und die altersgeldfähige
 Dienstzeit sind innerhalb von sechs Monaten nach der Entlassung
@@ -427,6 +437,7 @@ Eingang des Antrags bei der zuständigen Behörde erteilt werden.
 
 
 ## § 11 Zusammentreffen von Altersgeld und Witwenaltersgeld mit Erwerbseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001203311)
 
 (1) Bezieht ein Altersgeldberechtigter oder ein Berechtigter nach § 9
 Absatz 3 Erwerbs- oder Erwerbsersatzeinkommen (§ 53 Absatz 7 des
@@ -455,6 +466,7 @@ Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder §
 
 
 ## § 12 Zusammentreffen von Altersgeld mit Mindestruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001300000)
 
 Besteht neben einem Anspruch auf Altersgeld ein Anspruch auf
 Mindestruhegehalt gegenüber dem Bund oder einem der Aufsicht einer
@@ -463,6 +475,7 @@ Altersgeld.
 
 
 ## § 13 Zusammentreffen von Altersgeld und Hinterbliebenenaltersgeld mit Renten
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001402311)
 
 (1) § 55 Absatz 1 bis 5 und 8 des Beamtenversorgungsgesetzes gilt
 entsprechend mit der Maßgabe, dass
@@ -511,6 +524,7 @@ Anspruch auf Versorgung nach dem Beamtenversorgungsgesetz hat.
 
 
 ## § 14 Zusammentreffen von Altersgeld, Witwenaltersgeld und Waisenaltersgeld mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001501311)
 
 (1) Erhält ein Altersgeld-, Witwenaltersgeld- oder
 Waisenaltersgeldberechtigter aus einer Verwendung des
@@ -533,6 +547,7 @@ Anwendung der §§ 11 bis 13 verbleibenden Altersgeld abzuziehen.
 
 
 ## § 15 Kürzung des Altersgelds nach Ehescheidung
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001600000)
 
 (1) Sind durch Entscheidung des Familiengerichts
 
@@ -566,6 +581,7 @@ Kapitalbetrags an den Dienstherrn abgewendet werden. § 58 Absatz 2 bis
 
 
 ## § 16 Verteilung der Altersgeldlasten
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001701311)
 
 § 107b des Beamtenversorgungsgesetzes gilt zwischen Dienstherren, die
 dem Bundesrecht unterliegen, entsprechend mit der Maßgabe, dass
@@ -586,6 +602,7 @@ dem Bundesrecht unterliegen, entsprechend mit der Maßgabe, dass
 
 
 ## § 17 Übergangsregelungen aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/altgg/BJNR338610013.html#BJNR338610013BJNE001802311)
 
 (1) Ruht am 1. Juli 2020 der Anspruch auf Altersgeld nach § 3 Absatz 3
 und hat der Altersgeldberechtigte auf Grund einer Verwendung im

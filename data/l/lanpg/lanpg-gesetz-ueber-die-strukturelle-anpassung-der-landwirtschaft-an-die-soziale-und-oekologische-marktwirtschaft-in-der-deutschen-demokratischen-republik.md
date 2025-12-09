@@ -25,10 +25,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000101308)
 
 
 
 ### § 1 Gewährleistung des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001201308)
 
 Privateigentum an Grund und Boden und die auf ihm beruhende
 Bewirtschaftung werden in der Land- und Forstwirtschaft im vollen
@@ -36,6 +38,7 @@ Umfang wiederhergestellt und gewährleistet.
 
 
 ### § 2 Gleichheit der Eigentumsformen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001301308)
 
 Alle Eigentums- und Wirtschaftsformen, die bäuerlichen
 Familienwirtschaften und freiwillig von den Bauern gebildete
@@ -44,6 +47,7 @@ im Wettbewerb Chancengleichheit.
 
 
 ### § 3 Zielstellung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001401308)
 
 Dieses Gesetz dient der Entwicklung einer vielfältig strukturierten
 Landwirtschaft und der Schaffung von Voraussetzungen für die
@@ -53,6 +57,7 @@ Einkommens- und Wohlstandsentwicklung zu beteiligen.
 
 
 ### § 3a Haftung der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008202307)
 
 Die Vorstandsmitglieder einer landwirtschaftlichen
 Produktionsgenossenschaft haben bei ihrer Geschäftsführung die
@@ -66,6 +71,7 @@ Beweislast.
 
 
 ### § 3b Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008901301)
 
 Ansprüche, die sich nach den Vorschriften der §§ 3a, 28 Abs. 2, § 37
 Abs. 2, § 44 Abs. 1 und § 51a Abs. 1 und 2 ergeben, verjähren in zehn
@@ -76,10 +82,12 @@ Fristen hinaus zehn Jahre aufzubewahren.
 
 
 ## 2. Abschnitt - Teilung und Zusammenschluß von landwirtschaftlichen Produktionsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000201308)
 
 
 
 ### § 4 Zulässigkeit der Teilung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001501308)
 
 (1) Eine landwirtschaftliche Produktionsgenossenschaft (nachfolgend
 LPG genannt) kann als übertragendes Unternehmen unter Auflösung ohne
@@ -101,6 +109,7 @@ ergibt.
 
 
 ### § 5 Teilungsplan
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001601308)
 
 (1) Der Vorstand der LPG hat einen Teilungsplan aufzustellen. Dieser
 muß mindestens folgende Angaben enthalten:
@@ -154,6 +163,7 @@ und Satzungen) beizufügen.
 
 
 ### § 6 Teilungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001702308)
 
 (1) Der Vorstand der LPG hat den Beteiligten einen ausführlichen,
 schriftlichen Bericht vorzulegen, in dem die Teilung, der Teilungsplan
@@ -166,6 +176,7 @@ ist.
 
 
 ### § 7 Teilungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001802308)
 
 (1) Der Teilungsplan wird nur wirksam, wenn die Mitglieder der LPG ihm
 durch Beschluß zustimmen. Der Beschluß kann nur in der Vollversammlung
@@ -188,6 +199,7 @@ haftenden Gesellschafters zugewiesen werden soll.
 
 
 ### § 8 Vorbereitung der Vollversammlung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE001901308)
 
 Von der Einberufung der Vollversammlung an sind in dem Geschäftsraum
 der LPG zur Einsicht der Mitglieder mindestens 14 Tage vorher
@@ -210,6 +222,7 @@ auszulegen:
 
 
 ### § 9 Durchführung der Vollversammlung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002002308)
 
 (1) In der Vollversammlung sind die in § 8 bezeichneten Unterlagen
 auszulegen. Der Vorstand hat den Teilungsplan zu Beginn der
@@ -221,12 +234,14 @@ in der Vollversammlung zu verlesen.
 
 
 ### § 10 Anmeldung und Eintragung der neuen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002101308)
 
 Der Vorstand der LPG hat jedes der neuen Unternehmen zur Eintragung in
 das Register anzumelden.
 
 
 ### § 11 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002201308)
 
 (1) Die Eintragung der Teilung in das Register hat folgende Wirkungen:
 
@@ -259,6 +274,7 @@ Gesamtschuldner.
 
 
 ### § 12 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002301308)
 
 (1) Vor der Entscheidung über die Aufteilung der Kredite auf die neuen
 Unternehmen ist das zuständige Kreditinstitut zur Stellungnahme
@@ -274,11 +290,13 @@ Befriedigung erlangt.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002402308)
 
 -
 
 
 ### § 14 Zusammenschluß
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002501308)
 
 LPG können unter Auflösung ohne Abwicklung zusammengeschlossen werden
 im Wege der Bildung einer neuen LPG (übernehmende LPG), auf die das
@@ -288,6 +306,7 @@ Mitglieder der übertragenden LPG übergeht.
 
 
 ### § 15 Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002601308)
 
 (1) Der Vertrag über den Zusammenschluß ist von den Vorständen der
 beteiligten LPG zu schließen. Er wird nur wirksam, wenn die Mitglieder
@@ -297,6 +316,7 @@ der beteiligten LPG ihm durch Beschluß zustimmen.
 
 
 ### § 16 Inhalt des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002701308)
 
 (1) Der Vertrag muß mindestens folgende Angaben enthalten:
 
@@ -325,18 +345,21 @@ der beteiligten LPG ihm durch Beschluß zustimmen.
 
 
 ### § 17 Berichte der Vorstände
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002801308)
 
 Die Vorstände der am Zusammenschluß beteiligten LPG haben ihren
 Mitgliedern Bericht zu erstatten. Für diesen gilt § 6 entsprechend.
 
 
 ### § 18 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE002902308)
 
 Auf den Zusammenschluß sind im übrigen die §§ 8 und 9 entsprechend
 anzuwenden.
 
 
 ### § 19 Anmeldung des Zusammenschlusses
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003001308)
 
 Die Vorstände der am Zusammenschluß beteiligten LPG haben diesen zur
 Eintragung in das Register des Sitzes ihres Unternehmens anzumelden.
@@ -346,6 +369,7 @@ anzumelden.
 
 
 ### § 20 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003101308)
 
 Die Eintragung des Zusammenschlusses in das Register hat folgende
 Wirkungen:
@@ -367,6 +391,7 @@ Wirkungen:
 
 
 ### § 21 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003201308)
 
 Den Gläubigern der am Zusammenschluß beteiligten LPG ist, wenn sie
 sich binnen sechs Monaten nach der Bekanntmachung der Eintragung in
@@ -378,6 +403,7 @@ Erfüllung ihrer Forderung gefährdet wird.
 
 
 ### § 22 Teilung und Zusammenschluß in einem Zug
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003302308)
 
 (1) Die auf die Bildung von LPG mit Pflanzen- und Tierproduktion
 gerichteten Teilungen und Zusammenschlüsse sind in den
@@ -403,10 +429,12 @@ Länder.
 
 
 ## 3. Abschnitt - Umwandlung von landwirtschaftlichen Produktionsgenossenschaften durch Formwechsel
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000302308)
 
 
 
 ### § 23 Zulässigkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003402308)
 
 (1) Eine LPG kann durch Formwechsel in eine eingetragene
 Genossenschaft, eine Personengesellschaft (Gesellschaft des
@@ -421,6 +449,7 @@ Teilrecht im Nennbetrag von fünf Deutsche Mark entfällt.
 
 
 ### § 23a Maßgeblichkeit des Unternehmensgegenstandes bei Formwechsel in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008301308)
 
 Durch den Formwechsel kann die LPG die Rechtsform einer
 Personenhandelsgesellschaft (offene Handelsgesellschaft,
@@ -431,6 +460,7 @@ Handelsgesetzbuchs) genügt.
 
 
 ### § 24 Umwandlungsbericht, Prüfungsgutachten
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003502308)
 
 (1) Der Vorstand der LPG hat einen ausführlichen schriftlichen Bericht
 zu erstatten, in dem der Formwechsel und insbesondere die künftige
@@ -446,6 +476,7 @@ Abs. 2 beachtet worden ist (Prüfungsgutachten).
 
 
 ### § 25 Umwandlungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003602308)
 
 (1) Für den Formwechsel ist ein Beschluß der Mitglieder der LPG
 (Umwandlungsbeschluß) erforderlich. Der Beschluß kann nur in einer
@@ -455,6 +486,7 @@ Vollversammlung gefaßt werden.
 
 
 ### § 26 Inhalt und Anlagen des Umwandlungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003702308)
 
 (1) In dem Umwandlungsbeschluß müssen mindestens bestimmt werden:
 
@@ -504,6 +536,7 @@ eingezahlt anzusehen sind, beteiligt wird.
 
 
 ### § 27 Vorbereitung und Durchführung der Vollversammlung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003802308)
 
 (1) Der Vorstand der LPG hat allen Mitgliedern spätestens zusammen mit
 der Einberufung der Vollversammlung den Formwechsel als Gegenstand zur
@@ -524,6 +557,7 @@ dieses Prüfungsgutachtens zu erteilen.
 
 
 ### § 28 Ausschluß der Anfechtung eines Umwandlungsbeschlusses, Verbesserung des Beteiligungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE003902308)
 
 (1) Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses kann
 nicht darauf gestützt werden, daß das Umtauschverhältnis der Anteile
@@ -545,6 +579,7 @@ entsprechend anzuwenden.
 
 
 ### § 29 Anzuwendende Gründungsvorschriften, Kapitalschutz
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004002308)
 
 (1) Auf den Formwechsel sind die für die neue Rechtsform geltenden
 Gründungsvorschriften entsprechend anzuwenden, soweit sich aus diesem
@@ -560,6 +595,7 @@ verbleibende Vermögen der LPG nicht übersteigen.
 
 
 ### § 30 Besonderer Inhalt des Umwandlungsbeschlusses und seiner Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004102308)
 
 (1) Beim Formwechsel in eine Kapitalgesellschaft ist in dem
 Umwandlungsbeschluß zu bestimmen, daß an dem Stammkapital oder an dem
@@ -596,6 +632,7 @@ einen Gesellschafter vorgesehen werden.
 
 
 ### § 31 Anmeldung und Eintragung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004202308)
 
 (1) Das Unternehmen neuer Rechtsform ist zur Eintragung in das für die
 neue Rechtsform zuständige Register anzumelden. Die Umwandlung ist von
@@ -626,6 +663,7 @@ solche Klage rechtskräftig abgewiesen oder zurückgenommen worden ist.
 
 
 ### § 32 Verpflichtung zur Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004302308)
 
 (1) Die Anmeldung nach § 31 ist durch alle Mitglieder des künftigen
 Vertretungsorgans sowie, wenn die Gesellschaft nach den für die neue
@@ -647,6 +685,7 @@ Genehmigung bedarf, die Genehmigungsurkunde beizufügen.
 
 
 ### § 33 Bekanntmachung des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004402308)
 
 Das für die Anmeldung der neuen Rechtsform zuständige Gericht hat die
 Eintragung der neuen Rechtsform durch den Bundesanzeiger und durch
@@ -657,6 +696,7 @@ erfolgt.
 
 
 ### § 34 Wirkungen der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004502308)
 
 (1) Die Eintragung der neuen Rechtsform in das Register hat folgende
 Wirkungen:
@@ -684,6 +724,7 @@ neuen Rechtsform in das Register unberührt.
 
 
 ### § 35 Benachrichtigung der Anteilsinhaber, besondere Vorschriften bei Formwechsel in eine Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004602308)
 
 (1) Das Vertretungsorgan des Unternehmens neuer Rechtsform hat jedem
 Anteilsinhaber unverzüglich nach der Bekanntmachung der Eintragung des
@@ -704,6 +745,7 @@ Aktiengesetzes anzuwenden.
 
 
 ### § 36 Angebot der Barabfindung, Annahme des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004702308)
 
 (1) Die LPG hat jedem Mitglied im Umwandlungsbeschluß den Erwerb
 seiner umgewandelten Anteile oder Mitgliedschaftsrechte gegen eine
@@ -728,6 +770,7 @@ berücksichtigen.
 
 
 ### § 37 Ausschluß der Anfechtung eines Umwandlungsbeschlusses, gerichtliche Bestimmung der Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004802308)
 
 (1) Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses kann
 nicht darauf gestützt werden, daß das Angebot nach § 36 zu niedrig
@@ -743,12 +786,14 @@ erhoben oder rechtskräftig abgewiesen oder zurückgenommen worden ist.
 
 
 ### § 38 Abfindung bei Teilungen und Zusammenschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE004902308)
 
 Die §§ 36 und 37 gelten bei Teilungen und Zusammenschlüssen
 entsprechend.
 
 
 ### § 38a Umwandlung eingetragener Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE009101377)
 
 Eine eingetragene Genossenschaft, die durch formwechselnde Umwandlung
 einer LPG entstanden ist, kann durch erneuten Formwechsel in eine
@@ -757,10 +802,12 @@ Umwandlung gelten die Vorschriften dieses Abschnitts entsprechend.
 
 
 ## 4. Abschnitt - Umwandlung von kooperativen Einrichtungen durch Formwechsel
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000402308)
 
 
 
 ### § 39 Zulässigkeit des Formwechsels
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005002308)
 
 (1) Eine kooperative Einrichtung, die juristische Person ist, kann
 durch Formwechsel in eine eingetragene Genossenschaft, eine
@@ -777,6 +824,7 @@ kooperativen Einrichtung.
 
 
 ### § 40 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005102308)
 
 (1) Auf den Formwechsel von kooperativen Einrichtungen sind im übrigen
 die §§ 23 und 24 sowie 26 bis 38 entsprechend anzuwenden. An die
@@ -784,10 +832,12 @@ Stelle des Mitglieds der LPG tritt der Trägerbetrieb.
 
 
 ## 5. Abschnitt - Auflösung einer LPG
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000501308)
 
 
 
 ### § 41 Zulässigkeit der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005202308)
 
 Eine LPG kann durch Beschluß ihrer Mitglieder aufgelöst werden. Der
 Beschluß kann nur in der Vollversammlung gefaßt werden. § 7 Abs. 2
@@ -795,6 +845,7 @@ gilt entsprechend.
 
 
 ### § 42 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005303301)
 
 (1) Im Fall der Auflösung und Abwicklung der LPG erfolgt die
 Vermögensaufteilung unter Beachtung des § 44; im übrigen gelten § 78
@@ -817,10 +868,12 @@ steht im übrigen ein Vorkaufsrecht zu.
 
 
 ## 6. Abschnitt - Ausscheiden aus einer LPG
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000602308)
 
 
 
 ### § 43 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005402308)
 
 (1) Jedes Mitglied einer LPG hat das Recht, seine Mitgliedschaft durch
 Kündigung zu beenden. Ein zwischen der LPG und dem Mitglied
@@ -839,6 +892,7 @@ gleichermaßen.
 
 
 ### § 43a Beendigung des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008401308)
 
 Die zur strukturellen Anpassung erforderlichen Kündigungen werden nach
 Maßgabe des Kündigungsrechts vom Vorstand der LPG ausgesprochen. Die
@@ -847,6 +901,7 @@ beendet.
 
 
 ### § 44 Vermögensauseinandersetzung in der LPG, Milchreferenzmenge, Lieferrechte für Zuckerrüben
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005502308)
 
 (1) Ausscheidenden Mitgliedern steht ein Abfindungsanspruch in Höhe
 des Wertes ihrer Beteiligung an der LPG zu. Der Wert der Beteiligung
@@ -930,6 +985,7 @@ Betrag zu kürzen.
 
 
 ### § 45 Rückgabe von Flächen und Hofstelle
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005602308)
 
 Mit Beendigung der Mitgliedschaft erhält das ausscheidende Mitglied
 grundsätzlich das volle Verfügungsrecht und den unmittelbaren Besitz
@@ -942,6 +998,7 @@ Monat nach Beendigung der Ernte fällig.
 
 
 ### § 46 Eigentumstausch
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005701308)
 
 (1) Ist der LPG die Rückgabe der eingebrachten Flächen aus objektiven
 wirtschaftlichen oder rechtlichen Gründen nicht möglich, so kann das
@@ -959,6 +1016,7 @@ gleichwertige Flächen zur Verfügung zu stellen.
 
 
 ### § 47 Rückgabe von Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005801308)
 
 Die LPG ist verpflichtet, von ihr genutzte Wirtschaftsgebäude des
 ausscheidenden Mitgliedes zurückzugeben oder zurückzuübereignen. Ist
@@ -969,6 +1027,7 @@ Entschädigung zu gewähren.
 
 
 ### § 48 Vorrang beim Abschluss eines Pachtvertrages und beim Kauf
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE005902301)
 
 Beabsichtigt eine LPG, landwirtschaftliche Flächen, an denen sie
 Eigentum besitzt, für die landwirtschaftliche Nutzung zu verpachten
@@ -979,6 +1038,7 @@ haben.
 
 
 ### § 49 Fälligkeit des Abfindungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006002308)
 
 (1) Der einem ausscheidenden Mitglied nach § 44 Abs. 1 Nr. 1
 zustehende Abfindungsanspruch ist einen Monat nach Beendigung der
@@ -1000,6 +1060,7 @@ erfüllt sein.
 
 
 ### § 50 Grundstücksbelastungen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006101308)
 
 Die Bildung bäuerlicher und gärtnerischer Einzelwirtschaften berührt
 nicht die durch das Gesetz vom 17. Februar 1954 über die Entschuldung
@@ -1009,10 +1070,12 @@ Rechtslage hinsichtlich des Fortbestehens der Entschuldung.
 
 
 ## 7. Abschnitt - Rechtsverhältnisse an genossenschaftlich genutztem Boden, der im Eigentum Dritter steht
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000701308)
 
 
 
 ### § 51 Umwandlung der Nutzungsverhältnisse in Pachtverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006201308)
 
 Die bestehenden Rechtsverhältnisse am Boden zwischen LPG und Rat des
 Kreises (nachfolgend zuständige Kreisbehörde genannt) sowie zwischen
@@ -1021,6 +1084,7 @@ dieses Gesetzes aufzulösen.
 
 
 ### § 51a Ansprüche ausgeschiedener Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008501308)
 
 (1) Die Ansprüche nach § 44 stehen auch den ausgeschiedenen
 Mitgliedern zu, die ihre Mitgliedschaft nach dem 15. März 1990 beendet
@@ -1038,6 +1102,7 @@ des Anspruchs maßgeblich.
 
 
 ### § 52 Landpachtverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006302301)
 
 (1) Für alle Pachtrechtsverhältnisse über land- und
 forstwirtschaftliche Nutzflächen gelten die §§ 581 bis 597 des
@@ -1055,10 +1120,12 @@ ausscheidenden Mitgliedern gemäß § 43 zu.
 
 
 ## 8. Abschnitt - Verfahren zur Feststellung und Neuordnung der Eigentumsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000801308)
 
 
 
 ### § 53 Leitlinien zur Neuordnung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006402308)
 
 (1) Auf Grund des Ausscheidens von Mitgliedern aus der LPG oder der
 eingetragenen Genossenschaft, der Bildung einzelbäuerlicher
@@ -1085,6 +1152,7 @@ ausgenommen sind Maßnahmen nach § 55 Abs. 2, § 61 Abs. 1 und 3 und §
 
 
 ### § 54 Freiwilliger Landtausch
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006501308)
 
 (1) Als Verfahren zur Regelung der neuen Eigentumsverhältnisse ist ein
 freiwilliger Landtausch anzustreben.
@@ -1096,6 +1164,7 @@ Durchführung bei der Flurneuordnungsbehörde.
 
 
 ### § 55 Bestätigung und Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006602308)
 
 (1) Der Tauschplan ist mit den Tauschpartnern in einem Anhörungstermin
 zu erörtern. Er ist den Tauschpartnern anschließend vorzulesen und zur
@@ -1111,6 +1180,7 @@ genannten Gesetzes sinngemäß anzuwenden.
 
 
 ### § 56 Bodenordnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006701308)
 
 (1) Kommt ein freiwilliger Landtausch nicht zustande, ist unter
 Leitung der Flurneuordnungsbehörde, in dessen Bereich die
@@ -1125,12 +1195,14 @@ an Grundstücken im Verfahrensgebiet beteiligt.
 
 
 ### § 57 Ermittlung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006801308)
 
 Die Flurneuordnungsbehörde hat die Beteiligten auf der Grundlage der
 Eintragungen im Grundbuch zu ermitteln.
 
 
 ### § 58 Landabfindung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE006901308)
 
 (1) Jeder Teilnehmer muß für die von ihm abzutretenden Grundstücke
 durch Land vom gleichen Wert abgefunden werden. Die Landabfindung soll
@@ -1142,6 +1214,7 @@ Grundstücken entsprechen.
 
 
 ### § 59 Bodenordnungsplan
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007001308)
 
 (1) Die Flurneuordnungsbehörde faßt die Ergebnisse des Verfahrens in
 einem Plan zusammen.
@@ -1154,12 +1227,14 @@ Flureinteilung ist ihnen auf Wunsch an Ort und Stelle zu erläutern.
 
 
 ### § 60 Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007102308)
 
 Für das Rechtsbehelfsverfahren sind die Vorschriften des Zehnten Teils
 des Flurbereinigungsgesetzes sinngemäß anzuwenden.
 
 
 ### § 61 Rechtswirkung eines Bodenordnungsplanes
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007202308)
 
 (1) Ist der Plan unanfechtbar geworden, ordnet die
 Flurneuordnungsbehörde seine Ausführungen an (Ausführungsanordnung).
@@ -1173,6 +1248,7 @@ Ersuchen der Flurneuordnungsbehörde nach dem Plan zu berichtigen.
 
 
 ### § 61a Vorläufige Besitzregelung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008601308)
 
 (1) Um die Bewirtschaftung des Grund und Bodens in der Land- und
 Forstwirtschaft zu gewährleisten, kann den Beteiligten der Besitz
@@ -1200,12 +1276,14 @@ spätestens mit der Ausführung des Bodenordnungsplans.
 
 
 ### § 62 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007301308)
 
 Die Kosten des Verfahrens zur Feststellung der Neuordnung der
 Eigentumsverhältnisse trägt das Land (Staat).
 
 
 ### § 63 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007402308)
 
 (1) Bis zur Bildung der Flurneuordnungsbehörde kann der Vertrag über
 den freiwilligen Landtausch vor jeder Behörde, die nach den
@@ -1224,6 +1302,7 @@ fortgeführt werden, wenn die Voraussetzungen dafür vorliegen.
 
 
 ### § 64 Zusammenführung von Boden und Gebäudeeigentum
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007501308)
 
 Das Eigentum an den Flächen, auf denen auf der Grundlage eines durch
 Rechtsvorschriften geregelten Nutzungsrechts Gebäude und Anlagen
@@ -1235,6 +1314,7 @@ bestehen.
 
 
 ### § 64a Waldflächen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008701308)
 
 (1) Auf den einer LPG zur Nutzung überlassenen Waldflächen geht bisher
 vom Boden unabhängiges Eigentum an den Waldbeständen auf den
@@ -1254,6 +1334,7 @@ Inventarbeiträge für Wald keine Anwendung.
 
 
 ### § 64b Eingebrachte Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE009000301)
 
 (1) Der Anteilsinhaber eines aus einer LPG durch Formwechsel
 hervorgegangenen Unternehmens neuer Rechtsform oder eines durch
@@ -1288,10 +1369,12 @@ nach den Vorschriften dieses Abschnitts geltend gemacht werden.
 
 
 ## 9. Abschnitt - Gerichtliches Verfahren in Landwirtschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG000901308)
 
 
 
 ### § 65 Zuständigkeit, Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007605377)
 
 (1) In Verfahren auf Grund der Vorschriften der §§ 3a, 7, 12 Abs. 1,
 der §§ 15, 25, 28 Abs. 2, des § 37 Abs. 2, der §§ 39, 41 bis 43, 44,
@@ -1318,6 +1401,7 @@ Landwirtschaftssachen entsprechende Anwendung.
 
 
 ### § 66 Ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007702307)
 
 Für Landwirtschaftssachen sollen ehrenamtliche Richter einen
 landwirtschaftlichen Haupt- oder Nebenberuf ausüben oder ausgeübt
@@ -1325,6 +1409,7 @@ haben.
 
 
 ### § 66a Schiedsgericht, Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008802301)
 
 (1) Die Einsetzung eines Schiedsgerichts zur Entscheidung über
 Ansprüche nach § 28 Abs. 2 und 3, § 36 Abs. 1, § 37 Abs. 2, §§ 38, 42
@@ -1342,10 +1427,12 @@ ernannt.
 
 
 ## 10. Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNG001001308)
 
 
 
 ### § 67 Freiheit von Steuern und Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007802307)
 
 (1) Die zur Durchführung dieses Gesetzes vorgenommenen Handlungen,
 einschließlich der Auseinandersetzung nach § 49, sind frei von
@@ -1359,6 +1446,7 @@ Durchführung dieses Gesetzes dient.
 
 
 ### § 68 Anwendung auf andere Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE007901308)
 
 Das vorliegende Gesetz ist auf gärtnerische Genossenschaften sowie
 andere auf der Grundlage des LPG-Gesetzes gebildete Genossenschaften
@@ -1366,6 +1454,7 @@ entsprechend anzuwenden.
 
 
 ### § 69 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008003308)
 
 (1) Mit Wirkung vom 1. Januar 1992 treten außer Kraft: das Gesetz über
 die landwirtschaftlichen Produktionsgenossenschaften - LPG-Gesetz -
@@ -1391,6 +1480,7 @@ gilt § 42.
 
 
 ### § 70 Ausführungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/lanpg/DDNR006420990.html#DDNR006420990BJNE008103308)
 
 (1) Umwandlungen nach diesem Gesetz berühren nicht etwaige Ansprüche
 auf Restitution oder Entschädigung wegen Enteignung oder

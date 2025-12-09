@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung und Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000100308)
 
 Unter dem Namen "Haus der Geschichte der Bundesrepublik Deutschland"
 wird eine rechtsfähige Stiftung des öffentlichen Rechts mit Sitz in
@@ -29,6 +30,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000201301)
 
 (1) Zweck der Stiftung ist es, in einem Ausstellungs-, Dokumentations-
 und Informationszentrum die Geschichte der Bundesrepublik Deutschland
@@ -60,12 +62,14 @@ Kenntnisse hierüber zu vermitteln.
 
 
 ## § 3 Unterstützung durch das Bundesarchiv
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000300308)
 
 Bei der Erfüllung ihrer Aufgaben wird die Stiftung durch das
 Bundesarchiv unterstützt.
 
 
 ## § 4 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000400308)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen die von der
 Bundesrepublik Deutschland für die unselbständige Stiftung "Haus der
@@ -84,12 +88,14 @@ im Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 5 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000501301)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium beschlossen
 wird.
 
 
 ## § 6 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000601116)
 
 Organe der Stiftung sind
 
@@ -109,6 +115,7 @@ Organe der Stiftung sind
 
 
 ## § 7 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000702116)
 
 (1) Das Kuratorium besteht aus zweiunddreißig Mitgliedern.
 
@@ -157,6 +164,7 @@ einladen.
 
 
 ## § 8 Wissenschaftlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000801116)
 
 (1) Dem wissenschaftlichen Beirat gehören bis zu fünfundzwanzig
 Sachverständige an. Sie werden vom Kuratorium für vier Jahre berufen.
@@ -171,6 +179,7 @@ Präsidenten oder die Präsidentin.
 
 
 ## § 9 Arbeitskreis gesellschaftlicher Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE000902116)
 
 (1) Der Arbeitskreis gesellschaftlicher Gruppen besteht aus bis zu
 siebzehn Vertretungen gesellschaftlicher Gruppen, unter anderem aus
@@ -196,6 +205,7 @@ und den Präsidenten oder die Präsidentin.
 
 
 ## § 10 Präsident/Präsidentin
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001001116)
 
 (1) Der Präsident oder die Präsidentin führt die Geschäfte der
 Stiftung. Er oder sie entscheidet in allen Angelegenheiten der
@@ -219,6 +229,7 @@ Probezeit entsprechende Anwendung.
 
 
 ## § 11 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001100308)
 
 Die Mitglieder des Kuratoriums, des wissenschaftlichen Beirates und
 des Arbeitskreises gesellschaftlicher Gruppen üben ihre Tätigkeit
@@ -228,6 +239,7 @@ geltenden Bestimmungen.
 
 
 ## § 12 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001201116)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und
 Medien zuständigen obersten Bundesbehörde.
@@ -240,12 +252,14 @@ Bundesrechnungshof.
 
 
 ## § 13 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001300308)
 
 Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen
 Bericht über ihre bisherige Tätigkeit und ihre Vorhaben vor.
 
 
 ## § 14 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001402116)
 
 (1) Die Stiftung besitzt Dienstherrenfähigkeit im Sinne des § 2 des
 Bundesbeamtengesetzes. Die Beamten und Beamtinnen der Stiftung werden
@@ -262,6 +276,7 @@ Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 
 ## § 15 Freier Eintritt, Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001500308)
 
 (1) Der Eintritt in das Haus der Geschichte der Bundesrepublik
 Deutschland ist frei.
@@ -273,11 +288,13 @@ Stiftungseinrichtungen und für besondere Veranstaltungen erheben.
 
 
 ## § 16 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001600308)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 17 Übergang von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/hdgstiftg/BJNR102940990.html#BJNR102940990BJNE001700308)
 
 Mit dem Inkrafttreten dieses Gesetzes gehen auf die Stiftung sämtliche
 Rechte und Pflichten über, welche die Bundesrepublik Deutschland für

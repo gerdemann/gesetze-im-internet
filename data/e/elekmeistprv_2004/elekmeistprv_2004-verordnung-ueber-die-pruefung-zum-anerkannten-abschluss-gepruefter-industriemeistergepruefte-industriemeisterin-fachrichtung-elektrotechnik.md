@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000100000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
@@ -33,6 +34,7 @@ und Arbeit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch berufliche Fortbildung zum Geprüften Industriemeister/zur
@@ -131,6 +133,7 @@ Elektrotechnik.
 
 
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000300000)
 
 (1) Die Qualifikation zum Geprüften Industriemeister/ zur Geprüften
 Industriemeisterin - Fachrichtung Elektrotechnik umfasst:
@@ -177,6 +180,7 @@ Fachgesprächs gemäß § 5 zu prüfen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000401308)
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende
 Basisqualifikationen" ist zuzulassen, wer Folgendes nachweist:
@@ -223,6 +227,7 @@ zur Prüfung rechtfertigen.
 
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000501128)
 
 (1) Im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen"
 ist in folgenden Prüfungsbereichen zu prüfen:
@@ -448,6 +453,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000601128)
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst
 die Handlungsbereiche "Technik", "Organisation" sowie "Führung und
@@ -907,6 +913,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -920,6 +927,7 @@ situationsbezogenen Fachgespräch nach § 5 Absatz 6 ist nicht zulässig.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -952,6 +960,7 @@ Prüfungsteil das arithmetische Mittel zu berechnen.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -1018,6 +1027,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE001500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -1043,6 +1053,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -1057,6 +1068,7 @@ Leistungen ausgereicht haben.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE001001128)
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 28. Februar 2007
 nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag
@@ -1068,6 +1080,7 @@ beantragt werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE001101128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -1079,6 +1092,7 @@ vom 15. April 1999 (BGBl. I S. 711), außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE001203128)
 
 (Fundstelle: BGBl. I 2019, 2261 – 2262)
 
@@ -1380,6 +1394,7 @@ vom 15. April 1999 (BGBl. I S. 711), außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/elekmeistprv_2004/BJNR313300004.html#BJNR313300004BJNE001303128)
 
 (Fundstelle: BGBl. I 2019, 2263)
 

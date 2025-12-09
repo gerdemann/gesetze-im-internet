@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Finanzierung des Ausbaus der Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNG000100314)
 
 
 
 ### Art 1 Zweckbindung des Aufkommens der Mineralölsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE000702308)
 
 Das Aufkommen an Mineralölsteuer, ausgenommen das Aufkommen aus der
 Besteuerung der Schweröle und Reinigungsextrakte nach § 8 Abs. 2 des
@@ -40,6 +42,7 @@ vom 24. Juni 1991 (BGBl. I S. 1318) ergibt.
 
 
 ### Art 2 Vorfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE000804123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Vorgriff auf
 das zweckgebundene Aufkommen an Mineralölsteuer späterer
@@ -48,6 +51,7 @@ zu bestimmenden Betrag aufzunehmen.
 
 
 ### Art 3 Verwendung der Straßenbaumittel
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE000904123)
 
 (1) Über die Verwendung der Straßenbaumittel für die Bundesstraßen,
 soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, ist ein
@@ -97,14 +101,17 @@ Bundeshaushaltsplans gelten sinngemäß für den Straßenbauplan.
 
 
 ## Abschnitt II - Änderung mineralölsteuerrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNG000200314)
 
 
 
 ### (XXXX) Art 4 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001000314)
 
 
 
 ### Art 9 Betriebsbeihilfe für den Werkfernverkehr im Zonenrandgebiet und in den Frachthilfegebieten
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001103305)
 
 (1) Eine Betriebsbeihilfe für das im Werkfernverkehr im Sinne des
 Güterkraftverkehrsgesetzes bis zum 31. Dezember 1981 verbrauchte Gasöl
@@ -160,24 +167,29 @@ Abrechnungszeitraum übersteigen.
 
 
 ## Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNG000300314)
 
 
 
 ### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001200314)
 
 -
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001300314)
 
 -
 
 
 ## Abschnitt IV - Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNG000400314)
 
 
 
 ### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001400314)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -191,10 +203,12 @@ Groß-Berlin I S. 379) bleibt unberührt.
 
 
 ## Abschnitt V
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNG000500314)
 
 
 
 ### Art 13 Abwicklung von Ausgaberesten
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001500314)
 
 (1) Ausgabereste aus früheren Rechnungsjahren, für die
 Fortsetzungsraten im Straßenbauplan nicht vorgesehen sind, werden
@@ -208,15 +222,18 @@ zweckgebundenen Mitteln zu decken.
 
 
 ## Abschnitt VI - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNG000600314)
 
 
 
 ### Art 14
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001600314)
 
 -
 
 
 ### Art 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strfing/BJNR002010960.html#BJNR002010960BJNE001700314)
 
 (1) Dieses Gesetz tritt ... am 1. April 1960 in Kraft.
 

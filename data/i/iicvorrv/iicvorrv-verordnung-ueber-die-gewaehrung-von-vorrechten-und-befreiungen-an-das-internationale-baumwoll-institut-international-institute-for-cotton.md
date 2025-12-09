@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/iicvorrv/BJNR215250969.html#BJNR215250969BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes über den Beitritt der
 Bundesrepublik Deutschland zum Abkommen über die Vorrechte und
@@ -31,6 +32,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/iicvorrv/BJNR215250969.html#BJNR215250969BJNE000200314)
 
 Das Internationale Baumwoll-Institut (International Institute for
 Cotton), das durch ein in Washington in der Zeit vom 17. Januar bis
@@ -43,6 +45,7 @@ Rechtspersönlichkeit.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/iicvorrv/BJNR215250969.html#BJNR215250969BJNE000300314)
 
 (1) Einkünfte und Vermögen, die dem deutschen Büro des Internationalen
 Baumwoll-Instituts zuzurechnen sind, sind von allen Steuern vom
@@ -57,6 +60,7 @@ deutschen Büros des Internationalen Baumwoll-Instituts.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/iicvorrv/BJNR215250969.html#BJNR215250969BJNE000400314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 4
@@ -69,6 +73,7 @@ vom 28. Februar 1964, auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/iicvorrv/BJNR215250969.html#BJNR215250969BJNE000500314)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

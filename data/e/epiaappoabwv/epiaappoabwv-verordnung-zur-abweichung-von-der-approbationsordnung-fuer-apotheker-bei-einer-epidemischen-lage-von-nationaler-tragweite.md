@@ -21,6 +21,7 @@ V aufgeh. durch
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/epiaappoabwv/BJNR618520020.html#BJNR618520020BJNE000600000)
 
 Für Studierende oder Auszubildende, die zum Zeitpunkt der Aufhebung
 der Feststellung einer epidemischen Lage von nationaler Tragweite die

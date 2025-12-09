@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000100301)
 
 Der Sitz des Schiedsgerichts wird innerhalb des gemeinsamen
 Währungsgebietes vom Schiedsgericht binnen eines Monats nach den
@@ -27,6 +28,7 @@ Ernennungen gemäß Artikel 7 Abs. 3 des Vertrags bestimmt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000200301)
 
 (1) Kann eine Meinungsverschiedenheit über die Auslegung und Anwendung
 des Vertrags nicht durch die Vertragsparteien beigelegt werden, so
@@ -46,12 +48,14 @@ dieser Rechtsvorschrift.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000300301)
 
 Der Präsident beruft das Schiedsgericht innerhalb von zwei Wochen nach
 der Vorlage der Streitigkeit ein.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000400301)
 
 (1) In dringenden Fällen trifft auf Antrag der Regierung einer der
 beiden Vertragsparteien, der innerhalb einer Frist von fünf Tagen nach
@@ -65,6 +69,7 @@ Anrufung des Schiedsgerichts nach § 2.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000500301)
 
 (1) Das Schiedsgericht ist beschlußfähig, wenn der Präsident und alle
 ordentlichen Mitglieder bzw. ihre jeweiligen Stellvertreter anwesend
@@ -75,6 +80,7 @@ getroffen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000600301)
 
 (1) Das Schiedsgericht kann die Parteien auffordern, alle Urkunden
 oder sonstigen Beweismittel vorzulegen.
@@ -86,6 +92,7 @@ Zeugen, Sachverständigen oder in anderer Eigenschaft zu hören.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000700301)
 
 (1) Der Schiedsspruch ist schriftlich zu erlassen und von allen
 Mitgliedern des Schiedsgerichts zu unterzeichnen.
@@ -94,12 +101,14 @@ Mitgliedern des Schiedsgerichts zu unterzeichnen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000800301)
 
 Der Präsident übermittelt den Vertragsparteien beglaubigte Abschriften
 des Schiedsspruchs.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE000900301)
 
 (1) Der Schiedsspruch ist endgültig und bindend. Die Vertragsparteien
 haben ihn unverzüglich zu befolgen.
@@ -110,6 +119,7 @@ einer Vertragspartei auszulegen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE001000301)
 
 Der Präsident und die Mitglieder des Schiedsgerichts sind in dem
 gesamten Währungsgebiet von der gerichtlichen Verfolgung wegen solcher
@@ -117,11 +127,13 @@ Handlungen befreit, die sie in Ausübung ihres Amtes vorgenommen haben.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE001100301)
 
 Das Verfahren ist gebührenfrei.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE001200301)
 
 (1) Der Präsident und die Mitglieder des Schiedsgerichts erhalten eine
 Sitzungsentschädigung, deren Höhe durch einvernehmliche Regelung der
@@ -134,6 +146,7 @@ die Vertragsparteien je zur Hälfte.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE001300301)
 
 Für die Erledigung seiner laufenden Geschäfte, insbesondere auch zur
 Entgegennahme von Anträgen der Vertragsparteien, richtet das
@@ -145,6 +158,7 @@ Anlage.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtranl_viii/BJNR205650990.html#BJNR205650990BJNE001400301)
 
 Im Rahmen der Regelungen in Kapitel I des Vertrags und der
 vorstehenden Bestimmungen legt das Schiedsgericht seine

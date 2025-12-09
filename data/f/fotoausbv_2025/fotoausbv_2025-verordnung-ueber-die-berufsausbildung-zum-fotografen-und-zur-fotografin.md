@@ -25,6 +25,7 @@ Stand: Ersetzt V 7110-6-103 v. 12.5.2009 I 1051 (FotoAusbV 2009)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -35,9 +36,11 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Fotografen und der
 Fotografin wird nach § 25 der Handwerksordnung zur Ausbildung für das
@@ -46,11 +49,13 @@ Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -71,6 +76,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -179,6 +185,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -186,9 +193,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNG000200000)
 
 
 ### § 6 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000800000)
 
 (1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr
 stattfinden.
@@ -197,6 +206,7 @@ stattfinden.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -213,6 +223,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001000000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -227,6 +238,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich „Gestaltungsgrundlagen anwenden, Fotoproduktionen planen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001100000)
 
 (1) Im Prüfungsbereich „Gestaltungsgrundlagen anwenden,
 Fotoproduktionen planen und organisieren“ hat der Prüfling
@@ -268,6 +280,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 10 Prüfungsbereich „Fotografien erstellen und optimieren“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001200000)
 
 (1) Im Prüfungsbereich „Fotografien erstellen und optimieren“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -307,9 +320,11 @@ höchstens 20 Minuten auf das auftragsbezogene Fachgespräch.
 
 
 ## Abschnitt 3 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNG000300000)
 
 
 ### § 11 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001300000)
 
 (1) Die Gesellenprüfung findet am Ende der Berufsausbildung statt.
 
@@ -317,6 +332,7 @@ höchstens 20 Minuten auf das auftragsbezogene Fachgespräch.
 
 
 ### § 12 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001400000)
 
 Die Gesellenprüfung erstreckt sich auf
 
@@ -333,6 +349,7 @@ Die Gesellenprüfung erstreckt sich auf
 
 
 ### § 13 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001500000)
 
 Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -355,6 +372,7 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich „Aufnahmen erstellen und optimieren“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001600000)
 
 (1) Im Prüfungsbereich „Aufnahmen erstellen und optimieren“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -397,6 +415,7 @@ Prüfling 90 Minuten Zeit.
 
 
 ### § 15 Prüfungsbereich „Personenaufnahmen sowie Sachaufnahmen erstellen“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001700000)
 
 (1) Im Prüfungsbereich „Personenaufnahmen sowie Sachaufnahmen
 erstellen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -438,6 +457,7 @@ Umsetzen, Bearbeiten und Ausgeben des Auftrags.
 
 
 ### § 16 Prüfungsbereich „Wahlqualifikation“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001800000)
 
 (1) Im Prüfungsbereich „Wahlqualifikation“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -507,6 +527,7 @@ des auftragsbezogenen Fachgesprächs mit 25 Prozent zu gewichten.
 
 
 ### § 17 Prüfungsbereich „Fotografische Prozesse darstellen und analysieren“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE001900000)
 
 (1) Im Prüfungsbereich „Fotografische Prozesse darstellen und
 analysieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -557,6 +578,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 18 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002000000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -570,6 +592,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -642,6 +665,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 20 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002200000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -679,9 +703,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNG000400000)
 
 
 ### § 21 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002300000)
 
 (1) Als Zusatzqualifikation kann die Ausbildung in einer weiteren
 Wahlqualifikation nach § 4 Absatz 3 vereinbart werden, die nicht im
@@ -692,6 +718,7 @@ Gliederung der Anlage entsprechend anzuwenden.
 
 
 ### § 22 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002400000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des Auszubildenden oder
 der Auszubildenden geprüft, wenn der Auszubildende oder die
@@ -708,9 +735,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNG000500000)
 
 
 ### § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002500000)
 
 Diese Verordnung tritt am 1. August 2025 in Kraft. Gleichzeitig tritt
 die Fotografiergewerbe-Ausbildungsverordnung vom 12. Mai 2009 (BGBl. I
@@ -719,6 +748,7 @@ S. 1051) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fotografen und zur Fotografin
+[Direktlink](https://www.gesetze-im-internet.de/fotoausbv_2025/BJNR01D0A0025.html#BJNR01D0A0025BJNE002600000)
 
 (Fundstelle: BGBl. 2025 I Nr. 29, S. 9 - 16)
 

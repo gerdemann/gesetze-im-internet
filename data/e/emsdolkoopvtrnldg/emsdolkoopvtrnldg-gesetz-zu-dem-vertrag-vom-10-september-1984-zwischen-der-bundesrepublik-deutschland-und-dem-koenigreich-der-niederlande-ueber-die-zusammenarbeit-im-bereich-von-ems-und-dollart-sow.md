@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/emsdolkoopvtrnldg/BJNR205090986.html#BJNR205090986BJNE000100327)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/emsdolkoopvtrnldg/BJNR205090986.html#BJNR205090986BJNE000200327)
 
 (1) Dem in Emden am 10. September 1984 unterzeichneten Vertrag
 zwischen der Bundesrepublik Deutschland und dem Königreich der
@@ -42,6 +44,7 @@ Katasteramt zur Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/emsdolkoopvtrnldg/BJNR205090986.html#BJNR205090986BJNE000300327)
 
 In den Gebietsteilen, die nach Artikel 11 des Vertrages Hoheitsgebiet
 der Bundesrepublik Deutschland sind, gelten mit dem Zeitpunkt des
@@ -52,12 +55,14 @@ waren.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/emsdolkoopvtrnldg/BJNR205090986.html#BJNR205090986BJNE000400327)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/emsdolkoopvtrnldg/BJNR205090986.html#BJNR205090986BJNE000500327)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

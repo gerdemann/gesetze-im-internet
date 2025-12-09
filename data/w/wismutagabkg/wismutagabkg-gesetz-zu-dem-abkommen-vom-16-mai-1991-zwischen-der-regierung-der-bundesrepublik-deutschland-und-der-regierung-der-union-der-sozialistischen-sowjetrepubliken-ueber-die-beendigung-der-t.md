@@ -22,12 +22,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - Zustimmung zum Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000100314)
 
 Dem in Chemnitz am 16. Mai 1991 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung der Union
@@ -37,10 +39,12 @@ Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2 - Umwandlung der Sowjetisch-Deutschen Aktiengesellschaft Wismut
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000200314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001200314)
 
 (1) Mit dem Inkrafttreten dieses Abkommens ist die Sowjetisch-Deutsche
 Aktiengesellschaft Wismut in eine Gesellschaft mit beschränkter
@@ -53,12 +57,14 @@ Haftung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001300314)
 
 Die Gesellschaft führt die Firma "Wismut Gesellschaft mit beschränkter
 Haftung im Aufbau (Wismut GmbH i.A.)". Sie hat ihren Sitz in Chemnitz.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001400314)
 
 (1) Innerhalb eines Monats nach Inkrafttreten des Abkommens sind
 vorläufige Geschäftsführer zu bestellen. Bis zur Bestellung der
@@ -73,17 +79,20 @@ anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001500314)
 
 Bis zur Bestimmung des Stammkapitals in dem Gesellschaftsvertrag
 beträgt das Stammkapital einhunderttausend Deutsche Mark.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001600314)
 
 Das Geschäftsjahr der Wismut GmbH im Aufbau ist das Kalenderjahr.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001700314)
 
 (1) Die Wismut GmbH im Aufbau ist von Amts wegen unter Bezugnahme auf
 dieses Gesetz in das Handelsregister einzutragen.
@@ -102,6 +111,7 @@ Inkrafttreten dieses Gesetzes mitzuteilen:
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001800314)
 
 Unverzüglich nach der Eintragung der Gesellschaft leiten die
 vorläufigen Geschäftsführer die für die Gründung einer Gesellschaft
@@ -110,6 +120,7 @@ Maßnahmen ein.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE001900314)
 
 Die Bundesrepublik Deutschland ist Gründer im Sinne von § 1 des
 Gesetzes betreffend die Gesellschaften mit beschränkter Haftung. Auf
@@ -119,6 +130,7 @@ beschränkter Haftung Anwendung.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002000314)
 
 Die vorläufigen Geschäftsführer haben beim Handelsregister zur
 Eintragung anzumelden, daß die gesetzlichen Voraussetzungen für eine
@@ -126,6 +138,7 @@ Eintragung der Wismut GmbH vorliegen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002100314)
 
 Liegen die gesetzlichen Voraussetzungen für die Eintragung der Wismut
 GmbH vor, löscht das Registergericht den Zusatz "im Aufbau" in der
@@ -138,10 +151,12 @@ Bestätigung des Gesellschaftsvertrages zuständigen Behörde.
 
 
 ## Art 3 - Spaltung der Wismut GmbH im Aufbau oder der Wismut GmbH
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000300314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002200314)
 
 (1) Die Wismut GmbH im Aufbau oder die Wismut GmbH kann ihr Vermögen
 nach Maßgabe der folgenden Bestimmungen spalten. Die Spaltung ist
@@ -171,6 +186,7 @@ Januar 1992 erfolgen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002300314)
 
 Auf die Spaltung finden die §§ 2, 3, 7 bis 11, 13 und 15 des Gesetzes
 über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen
@@ -180,10 +196,12 @@ wird, tritt an ihre Stelle die Bundesrepublik Deutschland.
 
 
 ## Art 4 - Bilanz- und Steuerrecht
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000400314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002400314)
 
 Das D-Markbilanzgesetz in der Fassung der Bekanntmachung vom 18. April
 1991 (BGBl. I S. 971, 1951) findet auf die gemäß Artikel 2 § 1
@@ -198,6 +216,7 @@ Gesellschaft mit beschränkter Haftung verwendet werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002500314)
 
 (1) Vorbehaltlich der Absätze 2 bis 4 gilt das Steuerrecht der
 Bundesrepublik Deutschland für das Unternehmen erstmals für das
@@ -224,10 +243,12 @@ verbraucht worden sind.
 
 
 ## Art 5 - Bergbauberechtigung, Strahlenschutzerlaubnisse und -zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000500314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002600314)
 
 Das Recht, die Suche, Erkundung, Gewinnung und Aufbereitung von
 Uranerzen durchzuführen, das der Sowjetisch-Deutschen
@@ -246,6 +267,7 @@ Berggrundbuch einzutragen, sobald dieses angelegt ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002701307)
 
 (1) Soweit Vereinbarungen zwischen dem Staatlichen Amt für
 Atomsicherheit und Strahlenschutz oder dessen Rechtsvorgänger und der
@@ -284,10 +306,12 @@ atomrechtliche Deckungsvorsorge nachzuweisen.
 
 
 ## Art 6 - Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000600314)
 
 
 
 ## § 1 Zuordnung des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002804377)
 
 (1) Mit dem Inkrafttreten des in Artikel 1 bezeichneten Abkommens geht
 das der Sowjetisch-Deutschen Aktiengesellschaft Wismut bis zum 30.
@@ -331,6 +355,7 @@ tritt.
 
 
 ## § 1a Kommunale Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE002901307)
 
 (1) Auf Antrag überträgt der Präsident der Oberfinanzdirektion (§ 1
 Abs. 3) Kommunen durch Zuordnungsbescheid Einrichtungen, Grundstücke
@@ -359,6 +384,7 @@ Geschäftsanteile der Wismut GmbH über die Vorschriften des Abschnitts
 
 
 ## § 2 Enteignetes Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNE003100314)
 
 Soweit Vermögensgegenstände der in § 1 bezeichneten Art Gegenstand von
 Maßnahmen im Sinne von § 1 des Vermögensgesetzes waren, unterliegen
@@ -367,6 +393,7 @@ Investitionsvorranggesetz ist anzuwenden.
 
 
 ## Art 7 - Übergabe von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000700314)
 
 (1) Die Behörden, die Aufgaben oder Unterlagen der ehemaligen
 Abteilungen für Wismutangelegenheiten übernommen haben, übergeben ihre
@@ -404,12 +431,14 @@ Wismut GmbH im Aufbau oder ihren Rechtsnachfolgern einsehen.
 
 
 ## Art 8 - Befreiung von Kosten und Steuern
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000800314)
 
 Für den Vollzug der Artikel 1 bis 6 dieses Gesetzes werden keine
 Kosten oder mit Ausnahme der Umsatzsteuer keine Steuern erhoben.
 
 
 ## Art 9 - Prüfung durch Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG000900314)
 
 In den Fällen des § 53 Haushaltsgrundsätzegesetz kann sich der
 Bundesrechnungshof zur Klärung von Fragen, die bei der Prüfung nach §
@@ -419,6 +448,7 @@ Unternehmens einsehen.
 
 
 ## Art 10 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wismutagabkg/BJNR211389991.html#BJNR211389991BJNG001000314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

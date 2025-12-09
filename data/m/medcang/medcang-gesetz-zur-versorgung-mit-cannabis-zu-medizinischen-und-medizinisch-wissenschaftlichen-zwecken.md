@@ -21,9 +21,11 @@ Geändert durch
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000200000)
 
 Dieses Gesetz ist anzuwenden auf Cannabis zu medizinischen Zwecken und
 Cannabis zu medizinisch-wissenschaftlichen Zwecken im Sinne des § 2
@@ -31,6 +33,7 @@ Nummer 1 und 2.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000300000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -118,9 +121,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Kapitel 2 - Verschreibung und Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000200000)
 
 
 ### § 3 Abgabe und Verschreibung von Cannabis zu medizinischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000400000)
 
 (1) Cannabis zu medizinischen Zwecken darf nur von Ärztinnen und
 Ärzten verschrieben oder im Rahmen einer ärztlichen Behandlung
@@ -145,12 +150,15 @@ Verbrauch berechtigt.
 
 
 ## Kapitel 3 - Erlaubnis und Genehmigung; Binnenhandel
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000300000)
 
 
 ### Abschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000400000)
 
 
 #### § 4 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000500000)
 
 (1) Wer Cannabis zu medizinischen Zwecken oder Cannabis zu
 medizinisch-wissenschaftlichen Zwecken anbauen, herstellen, mit ihm
@@ -165,6 +173,7 @@ anderen im öffentlichen Interesse liegenden Zwecken erteilen.
 
 
 #### § 5 Ausnahmen von der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000600000)
 
 (1) Einer Erlaubnis nach § 4 bedarf nicht, wer
 
@@ -244,6 +253,7 @@ Behörden oder Einrichtungen.
 
 
 #### § 6 Inhalt der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000700000)
 
 Die Erlaubnis nach § 4 muss insbesondere regeln:
 
@@ -266,6 +276,7 @@ Die Erlaubnis nach § 4 muss insbesondere regeln:
 
 
 #### § 7 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000800000)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis nach § 4 ist beim
 Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen.
@@ -351,6 +362,7 @@ nach § 4.
 
 
 #### § 8 Änderung von Angaben im Antrag
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE000900000)
 
 (1) Personen, denen eine Erlaubnis nach § 4 erteilt ist, haben jede
 Änderung der in § 7 Absatz 2 genannten Angaben und Nachweise dem
@@ -366,6 +378,7 @@ unverzüglich über diese Änderung.
 
 
 #### § 9 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001000000)
 
 (1) Die Erlaubnis nach § 4 ist zu versagen, wenn
 
@@ -433,6 +446,7 @@ unverzüglich über diese Änderung.
 
 
 #### § 10 Befristung der Erlaubnis; Auflagen und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001100000)
 
 Wenn eine Erlaubnis den Regelungen der internationalen
 Suchtstoffübereinkommen oder den Beschlüssen, Anordnungen oder
@@ -454,6 +468,7 @@ wissenschaftlichen Zwecken erforderlich ist, kann die Erlaubnis
 
 
 #### § 11 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001200000)
 
 (1) Die Erlaubnis kann auch widerrufen werden, wenn von ihr innerhalb
 eines Zeitraumes von zwei Kalenderjahren kein Gebrauch gemacht worden
@@ -466,9 +481,11 @@ unverzüglich die zuständige oberste Landesbehörde.
 
 
 ### Abschnitt 2 - Genehmigung zur Einfuhr und Ausfuhr; Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000500000)
 
 
 #### § 12 Genehmigung zur Einfuhr und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001300000)
 
 Wer Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-
 wissenschaftlichen Zwecken im Einzelfall in den Geltungsbereich dieses
@@ -478,6 +495,7 @@ Genehmigung des Bundesinstituts für Arzneimittel und Medizinprodukte.
 
 
 #### § 13 Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001400000)
 
 Die Durchfuhr von Cannabis zu medizinischen Zwecken oder von Cannabis
 zu medizinisch-wissenschaftlichen Zwecken durch den Geltungsbereich
@@ -502,6 +520,7 @@ Verpackung oder die Markierungen zu verändern.
 
 
 #### § 14 Geltung der Betäubungsmittel-Außenhandelsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001500000)
 
 Auf das Verfahren über die Erteilung einer Genehmigung nach § 12 und
 die Einfuhr, Ausfuhr und Durchfuhr von Cannabis zu medizinischen
@@ -516,9 +535,11 @@ findet.
 
 
 ### Abschnitt 3 - Abgabe und Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000600000)
 
 
 #### § 15 Abgabe und Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001600000)
 
 Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-
 wissenschaftlichen Zwecken darf nur von befugten Teilnehmerinnen und
@@ -528,9 +549,11 @@ erworben werden.
 
 
 ### Abschnitt 4 - Aufzeichnungen und Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000700000)
 
 
 #### § 16 Aufzeichnungen und Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001700000)
 
 (1) Personen, denen eine Erlaubnis nach § 4 erteilt ist, sind
 verpflichtet, fortlaufend Aufzeichnungen zu führen, getrennt für jede
@@ -605,12 +628,15 @@ Absatz 3 anzugebenden Mengen sind
 
 
 ## Kapitel 4 - Überwachung; Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000800000)
 
 
 ### Abschnitt 1 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG000900000)
 
 
 #### § 17 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001800000)
 
 (1) Der Verkehr mit Cannabis zu medizinischen Zwecken oder mit
 Cannabis zu medizinisch-wissenschaftlichen Zwecken unterliegt der
@@ -630,6 +656,7 @@ Absatz 1 des Einheits-Übereinkommens von 1961 über Suchtstoffe wahr.
 
 
 #### § 18 Überwachung des Verkehrs mit Cannabis zu medizinischen Zwecken oder Cannabis zu medizinisch-wissenschaftlichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE001900000)
 
 (1) Die zuständige Behörde und die von dieser mit der Überwachung
 beauftragten Personen sind befugt,
@@ -690,6 +717,7 @@ für Arzneimittel und Medizinprodukte.
 
 
 #### § 19 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002000000)
 
 (1) Soweit es zur Erfüllung der Anforderungen dieses Gesetzes über den
 Verkehr mit Cannabis zu medizinischen Zwecken oder mit Cannabis zu
@@ -714,6 +742,7 @@ leisten, sofern nicht ausdrücklich darauf verzichtet wird.
 
 
 #### § 20 Duldungs- und Mitwirkungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002100000)
 
 (1) Teilnehmerinnen und Teilnehmer am Verkehr mit Cannabis zu
 medizinischen Zwecken oder mit Cannabis zu medizinisch-
@@ -736,6 +765,7 @@ Recht zur Auskunftsverweigerung zu belehren.
 
 
 #### § 21 Sicherungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002200000)
 
 (1) Cannabis zu medizinischen Zwecken und Cannabis zu medizinisch-
 wissenschaftlichen Zwecken ist durch geeignete Maßnahmen und
@@ -754,6 +784,7 @@ Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist.
 
 
 #### § 22 Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002300000)
 
 (1) Dieses Gesetz findet mit Ausnahme der Vorschriften über die
 Erlaubnis nach § 4 entsprechend Anwendung auf
@@ -788,9 +819,11 @@ und soweit zwingende Gründe der Verteidigung dies erfordern.
 
 
 ### Abschnitt 2 - Jahresbericht an die Vereinten Nationen
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001000000)
 
 
 #### § 23 Jahresbericht an die Vereinten Nationen
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002400000)
 
 Die zuständigen Behörden der Länder wirken bei der Erstellung des
 Jahresberichtes der Bundesregierung über die Durchführung der
@@ -803,9 +836,11 @@ ermittelt werden können, sind sie zu schätzen.
 
 
 ## Kapitel 5 - Kinder- und Jugendschutz
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001100000)
 
 
 ### § 24 Kinder- und Jugendschutz im öffentlichen Raum
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002500000)
 
 § 5 Absatz 2 des Konsumcannabisgesetzes gilt entsprechend für den
 öffentlichen Konsum von Cannabis zu medizinischen Zwecken mittels
@@ -813,12 +848,15 @@ Inhalation.
 
 
 ## Kapitel 6 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001200000)
 
 
 ### Abschnitt 1 - Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001300000)
 
 
 #### § 25 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002601130)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -989,6 +1027,7 @@ Jahr oder Geldstrafe.
 
 
 #### § 26 Strafmilderung und Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002700000)
 
 Das Gericht kann die Strafe nach § 49 Absatz 1 des Strafgesetzbuches
 mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei
@@ -1013,6 +1052,7 @@ entsprechend.
 
 
 #### § 26a Absehen von Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002800000)
 
 (1) Hat das Verfahren ein Vergehen nach § 25 Absatz 1, 3 oder Absatz 6
 zum Gegenstand, so kann die Staatsanwaltschaft von der Verfolgung
@@ -1035,9 +1075,11 @@ Beschluss. Der Beschluss ist nicht anfechtbar.
 
 
 ### Abschnitt 2 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001400000)
 
 
 #### § 27 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE002900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1109,9 +1151,11 @@ Euro geahndet werden.
 
 
 ## Kapitel 7 - Einziehung und Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001500000)
 
 
 ### § 28 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE003000000)
 
 Gegenstände, auf die sich eine Straftat nach § 25 oder eine
 Ordnungswidrigkeit nach § 27 bezieht, können eingezogen werden. § 74a
@@ -1120,24 +1164,29 @@ sind anzuwenden.
 
 
 ### § 29 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE003100000)
 
 In den Fällen des § 25 Absatz 5 kann das Gericht Führungsaufsicht nach
 § 68 Absatz 1 des Strafgesetzbuches anordnen.
 
 
 ## Kapitel 8 - Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001600000)
 
 
 ### § 30 Besondere Regelungen bei Vorliegen einer cannabisbezogenen Abhängigkeitserkrankung
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE003200000)
 
 Die §§ 35 bis 38 des Betäubungsmittelgesetzes finden auch bei
 cannabisbezogener Abhängigkeitserkrankung Anwendung.
 
 
 ## Kapitel 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNG001700000)
 
 
 ### § 31 Übergangsregelung aus Anlass des Cannabisgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/medcang/BJNR06D0C0024.html#BJNR06D0C0024BJNE003300000)
 
 Genehmigungen nach § 12 können, soweit eine Erlaubnis nach § 4 noch
 nicht erteilt wurde, bis zum 1. April 2025 auf der Grundlage einer

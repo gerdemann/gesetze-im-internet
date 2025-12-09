@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE000600307)
 
 Auf Grund des § 81 Abs. 1 Nr. 1, 3 und 4 sowie der Absätze 2 und 3 des
 Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50
@@ -27,6 +28,7 @@ zur Einführung des Gesetzes vom 20. Juli 1990 über die Bauordnung
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE000700307)
 
 
 *    *   Teil I
@@ -193,10 +195,12 @@ zur Einführung des Gesetzes vom 20. Juli 1990 über die Bauordnung
 
 
 ## Teil I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNG000100307)
 
 
 
 ### § 1 Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE000800307)
 
 (1) Offene Garagen sind Garagen, die unmittelbar ins Freie führende
 unverschließbare Öffnungen in einer Größe von insgesamt mindestens
@@ -243,10 +247,12 @@ anderes bestimmt ist.
 
 
 ## Teil II - Bauvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNG000200307)
 
 
 
 ### § 2 Zu- und Abfahrten
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE000900307)
 
 (1) Zwischen Garagen und öffentlichen Verkehrsflächen müssen Zu- und
 Abfahrten von mindestens 3 m Länge vorhanden sein. Ausnahmen können
@@ -281,6 +287,7 @@ sinngemäß.
 
 
 ### § 3 Rampen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001000307)
 
 (1) Rampen von Mittel- und Großgaragen dürfen nicht mehr als 15 v.H.
 geneigt sein. Die Breite der Fahrbahnen auf diesen Rampen muß
@@ -303,6 +310,7 @@ hinzuweisen.
 
 
 ### § 4 Einstellplätze und Verkehrsflächen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001100307)
 
 (1) Ein Einstellplatz muß mindestens 5 m lang sein. Die Breite eines
 Einstellplatzes muß mindestens betragen
@@ -384,6 +392,7 @@ Fahrgasse von mindestens 2,75 m erhalten bleibt.
 
 
 ### § 5 Lichte Höhe
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001200307)
 
 Mittel- und Großgaragen müssen in zum Begehen bestimmten Bereichen,
 auch unter Unterzügen, Lüftungsleitungen und sonstigen Bauteilen eine
@@ -391,6 +400,7 @@ lichte Höhe von mindestens 2 m haben.
 
 
 ### § 6 Tragende Wände, Decken, Dächer
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001300307)
 
 (1) Tragende Wände von Garagen sowie Decken über und unter Garagen und
 zwischen Garagengeschossen müssen feuerbeständig sein.
@@ -457,6 +467,7 @@ Garagen müssen
 
 
 ### § 7 Außenwände
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001400307)
 
 (1) Außenwände von Mittel- und Großgaragen müssen aus nichtbrennbaren
 Baustoffen bestehen oder feuerbeständig sein.
@@ -479,6 +490,7 @@ keine Anwendung.
 
 
 ### § 8 Trennwände
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001500307)
 
 (1) Trennwände und Tore im Innern von Mittel- und Großgaragen müssen
 aus nichtbrennbaren Baustoffen bestehen oder feuerbeständig sein.
@@ -510,6 +522,7 @@ soweit sich aus § 28 BauO keine weitergehenden Anforderungen ergeben.
 
 
 ### § 9 Brandwände
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001600307)
 
 (1) Anstelle von Brandwänden nach § 29 Abs. 1 Nr. 1 BauO genügen
 
@@ -531,11 +544,13 @@ Kleingaragen.
 
 
 ### § 10 Pfeiler und Stützen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001700307)
 
 Für Pfeiler und Stützen gelten die §§ 6 bis 9 sinngemäß.
 
 
 ### § 11 Rauchabschnitte
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001800307)
 
 (1) Geschlossene Garagen müssen durch mindestens feuerhemmende, aus
 nichtbrennbaren Baustoffen bestehende Wände in Rauchabschnitte
@@ -564,6 +579,7 @@ von Hand geschlossen werden können.
 
 
 ### § 12 Verbindungen zu Garagen und zwischen Garagengeschossen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE001900307)
 
 (1) Flure, Treppenräume und Aufzüge, die nicht nur den Benutzern der
 Garage dienen, dürfen
@@ -603,6 +619,7 @@ nichtbrennbaren Baustoffen sein.
 
 
 ### § 13 Rettungswege
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002000307)
 
 (1) Jede Mittel- und Großgarage muß in jedem Geschoß mindestens zwei
 voneinander unabhängige Rettungswege nach § 17 Abs. 4 BauO haben. Der
@@ -638,6 +655,7 @@ sowie an den Wänden durch beleuchtete Hinweise gekennzeichnet sein.
 
 
 ### § 14 Beleuchtung
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002100307)
 
 (1) In Mittel- und Großgaragen muß eine allgemeine elektrische
 Beleuchtung vorhanden sein. Sie muß so beschaffen und mindestens in
@@ -657,6 +675,7 @@ betragen.
 
 
 ### § 15 Lüftung
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002200307)
 
 (1) Geschlossene Mittel- und Großgaragen müssen maschinelle
 Abluftanlagen und so große und so verteilte Zuluftöffnungen haben, daß
@@ -745,6 +764,7 @@ angeschlossen sein.
 
 
 ### § 16 Feuerlöschanlagen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002300307)
 
 (1) Mittel- und Großgaragen müssen in Geschossen, deren Fußboden im
 Mittel mehr als 4 m unter der Geländeoberfläche liegt, Wandhydranten
@@ -760,6 +780,7 @@ Verbindung steht.
 
 
 ### § 17 Brandmeldeanlagen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002400307)
 
 Geschlossene Mittel- und Großgaragen müssen Brandmeldeanlagen haben,
 wenn sie in Verbindung stehen mit baulichen Anlagen oder Räumen, für
@@ -767,10 +788,12 @@ die Brandmeldeanlagen erforderlich sind.
 
 
 ## Teil III - Betriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNG000300307)
 
 
 
 ### § 18 Betriebsvorschriften für Garagen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002500307)
 
 (1) In Mittel- und Großgaragen muß die allgemeine elektrische
 Beleuchtung nach § 14 Absatz 1 während der Benutzungszeit ständig mit
@@ -790,6 +813,7 @@ bruchsicheren Behältern aufbewahrt werden.
 
 
 ### § 19 Abstellen von Kraftfahrzeugen in anderen Räumen als Garagen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002600307)
 
 (1) Kraftfahrzeuge dürfen in Treppenräumen, Fluren und Kellergängen
 nicht abgestellt werden.
@@ -817,10 +841,12 @@ nur abgestellt werden, wenn
 
 
 ## Teil IV - Zusätzliche Bauvorlagen, Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNG000400307)
 
 
 
 ### § 20 Zusätzliche Bauvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002700307)
 
 Die Bauvorlagen müssen zusätzliche Angaben enthalten über:
 
@@ -844,6 +870,7 @@ Die Bauvorlagen müssen zusätzliche Angaben enthalten über:
 
 
 ### § 21 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002800307)
 
 (1) Folgende Anlagen müssen vor der ersten Inbetriebnahme der Garage,
 nach einer wesentlichen Änderung sowie mindestens alle 3 Jahre durch
@@ -875,10 +902,12 @@ vorzulegen.
 
 
 ## Teil V - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNG000500307)
 
 
 
 ### § 22 Ausnahmen und weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE002900307)
 
 (1) Für Garagen ohne Fahrverkehr, in denen die Kraftfahrzeuge mit
 mechanischen Förderanlagen von der Garagenzufahrt zu den
@@ -894,6 +923,7 @@ und deren Breite mehr als 2 m beträgt.
 
 
 ### § 23 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE003000307)
 
 Ordnungswidrig nach § 81 Abs. 1 BauO handelt, wer vorsätzlich oder
 fahrlässig
@@ -914,6 +944,7 @@ fahrlässig
 
 
 ### § 24 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE003100307)
 
 Auf die zum Zeitpunkt des Inkrafttretens dieser Anordnung bestehenden
 Garagen sind die Betriebsvorschriften (§ 18) sowie die Vorschriften
@@ -921,11 +952,13 @@ Garagen sind die Betriebsvorschriften (§ 18) sowie die Vorschriften
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE003200307)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/garbbano/DDNR016110990.html#DDNR016110990BJNE003300307)
 
 **Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft**
 

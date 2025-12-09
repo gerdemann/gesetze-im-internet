@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2011/BJNR207900011.html#BJNR207900011BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung am 30. November 2010 beschlossen,
@@ -60,11 +61,13 @@ Der Münzrand wird geriffelt ausgeführt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2011/BJNR207900011.html#BJNR207900011BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2011/BJNR207900011.html#BJNR207900011BJNE000300000)
 
 (Fundstelle: BGBl. I 2011, 2079)
 

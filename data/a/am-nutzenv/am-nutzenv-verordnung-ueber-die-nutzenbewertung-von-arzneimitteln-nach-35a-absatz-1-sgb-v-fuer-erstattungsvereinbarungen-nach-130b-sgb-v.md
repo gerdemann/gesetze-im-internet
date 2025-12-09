@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000100000)
 
 Auf Grund des § 35a Absatz 1 Satz 6 und 7 des Fünften Buches
 Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch
@@ -30,6 +31,7 @@ Gesundheit:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000200000)
 
 Die Verordnung regelt das Nähere zur Nutzenbewertung von
 erstattungsfähigen Arzneimitteln mit neuen Wirkstoffen nach § 35a des
@@ -39,6 +41,7 @@ eines Monats nach Inkrafttreten der Rechtsverordnung.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000301311)
 
 (1) Arzneimittel mit neuen Wirkstoffen im Sinne dieser Verordnung sind
 Arzneimittel, die Wirkstoffe enthalten, deren Wirkungen bei der
@@ -114,6 +117,7 @@ Daten, Analysen und sonstigen Nachweise.
 
 
 ## § 3 Anwendungsbereich der Nutzenbewertung nach § 35a SGB V
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000402119)
 
 (1) Die Nutzenbewertung nach § 35a Absatz 1 des Fünften Buches
 Sozialgesetzbuch wird durchgeführt für erstattungsfähige Arzneimittel
@@ -152,6 +156,7 @@ sind, wenn der Gemeinsame Bundesausschuss eine Nutzenbewertung nach §
 
 
 ## § 4 Dossier des pharmazeutischen Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000505311)
 
 (1) Das Dossier enthält Angaben über:
 
@@ -305,6 +310,7 @@ Krankenkassen tatsächlich entstehenden Kosten zu berücksichtigen.
 
 
 ## § 5 Zusatznutzen
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000603311)
 
 (1) Der Zusatznutzen ist vom pharmazeutischen Unternehmer im Dossier
 nach § 4 nachzuweisen. Der Gemeinsame Bundesausschuss hat keine
@@ -484,6 +490,7 @@ der bestverfügbaren Evidenzstufe einzureichen.
 
 
 ## § 6 Zweckmäßige Vergleichstherapie
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000703126)
 
 (1) Die zweckmäßige Vergleichstherapie ist regelhaft zu bestimmen nach
 Maßstäben, die sich aus den internationalen Standards der
@@ -539,6 +546,7 @@ gewährleisten.
 
 
 ## § 7 Nutzenbewertung
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000802311)
 
 (1) Der Gemeinsame Bundesausschuss führt die Nutzenbewertung durch.
 Grundlage dafür sind das Dossier des pharmazeutischen Unternehmers
@@ -623,6 +631,7 @@ Sozialgesetzbuch.
 
 
 ## § 8 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE000902119)
 
 (1) Der Gemeinsame Bundesausschuss berät den pharmazeutischen
 Unternehmer aufgrund dessen Anforderung auf der Grundlage der
@@ -657,6 +666,7 @@ Einreichung des Dossiers.
 
 
 ## § 9 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE001001311)
 
 (1) Das Dossier wird gleichzeitig mit der Nutzenbewertung nach § 7
 Absatz 2 auf der Internetseite des Gemeinsamen Bundesausschusses
@@ -698,6 +708,7 @@ das Nähere durch Vereinbarung regeln.
 
 
 ## § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE001100000)
 
 (1) Für bis zum 31. Juli 2011 einzureichende Dossiers berät der
 Gemeinsame Bundesausschuss den pharmazeutischen Unternehmer abweichend
@@ -717,6 +728,7 @@ Nutzenbewertung nach § 7 Absatz 3 maßgeblich.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/am-nutzenv/BJNR232400010.html#BJNR232400010BJNE001200000)
 
 Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 

@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -34,6 +35,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000200000)
 
 Der Ausbildungsberuf des Orthopädietechnik-Mechanikers und der
 Orthopädietechnik-Mechanikerin wird nach § 25 der Handwerksordnung zur
@@ -42,11 +44,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einem der Schwerpunkte
@@ -64,6 +68,7 @@ und die Ausbildung in einem der Schwerpunkte
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000500000)
 
 (1) Gegenstand der Berufsbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -178,6 +183,7 @@ Orthopädietechnik-Mechanikerin gliedert sich in
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -199,6 +205,7 @@ durchzusehen.
 
 
 ## § 6 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000700000)
 
 Die Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
@@ -216,6 +223,7 @@ erforderlich ist.
 
 
 ## § 7 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000800000)
 
 (1) Teil 1 der Gesellenprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -325,6 +333,7 @@ folgende Vorgaben:
 
 
 ## § 8 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE000900000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -452,6 +461,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE001000000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -524,6 +534,7 @@ mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -533,6 +544,7 @@ Zwischenprüfung abgelegt wurde.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Orthopädiemechaniker und
@@ -543,6 +555,7 @@ August 1998 (BGBl. I S. 2576) geändert worden ist, außer Kraft.
 (zu § 4 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Othopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/orthausbvo/BJNR135800013.html#BJNR135800013BJNE001300000)
 
 (Fundstelle: BGBl. I 2013, 1362 - 1368)
 

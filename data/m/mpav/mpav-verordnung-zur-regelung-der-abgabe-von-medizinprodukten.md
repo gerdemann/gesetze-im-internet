@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE001200128)
 
 Diese Rechtsverordnung gilt für Produkte nach § 3 Nummer 1 des
 Medizinprodukterecht-Durchführungsgesetzes.
 
 
 ## § 2 Verschreibungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000104128)
 
 (1) Produkte, die nach der Zweckbestimmung zur Anwendung durch Laien
 vorgesehen sind und
@@ -132,6 +134,7 @@ enthalten:
 
 
 ## § 3 Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000202128)
 
 Produkte
 
@@ -154,6 +157,7 @@ Produkte).
 
 
 ## § 4 Sonstige Abgabebeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000317128)
 
 (1) Die Abgabestelle muss die betrieblichen Voraussetzungen für eine
 sachgerechte Lagerung der vorrätig gehaltenen Produkte erfüllen. Eine
@@ -199,6 +203,7 @@ erfassten Gruppen von Produkten vorausgesetzt.
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000404128)
 
 (1) Nach § 93 Absatz 1 Nummer 5 des Medizinprodukterecht-
 Durchführungsgesetzes wird bestraft, wer entgegen § 2 Absatz 1 Satz 1
@@ -222,6 +227,7 @@ oder fahrlässig
 
 
 ## Anlage 1 (zu § 2 Absatz 1 Satz 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000601128)
 
 (Fundstelle: BGBl. I 2014, 1228, bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -236,6 +242,7 @@ Fußnote)
 
 
 ## Anlage 2 (zu § 3 Nummer 3)
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000701128)
 
 (Fundstelle: BGBl. I 2014, 1228, bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -248,5 +255,6 @@ Fußnote)
 
 
 ## Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpav/BJNR122710014.html#BJNR122710014BJNE000808128)
 
 

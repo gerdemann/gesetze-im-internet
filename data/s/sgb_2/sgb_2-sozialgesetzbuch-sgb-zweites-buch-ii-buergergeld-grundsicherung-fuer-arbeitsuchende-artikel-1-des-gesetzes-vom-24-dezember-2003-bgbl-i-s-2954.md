@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Fördern und Fordern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000101308)
 
 
 
 ### § 1 Aufgabe und Ziel der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000205126)
 
 (1) Die Grundsicherung für Arbeitsuchende soll es
 Leistungsberechtigten ermöglichen, ein Leben zu führen, das der Würde
@@ -86,6 +88,7 @@ dass
 
 
 ### § 2 Grundsatz des Forderns
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000303126)
 
 (1) Erwerbsfähige Leistungsberechtigte und die mit ihnen in einer
 Bedarfsgemeinschaft lebenden Personen müssen alle Möglichkeiten zur
@@ -107,6 +110,7 @@ einsetzen.
 
 
 ### § 3 Leistungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000411126)
 
 (1) Leistungen zur Eingliederung in Arbeit können erbracht werden,
 soweit sie zur Vermeidung oder Beseitigung, Verkürzung oder
@@ -185,6 +189,7 @@ einer Bedarfsgemeinschaft lebenden Personen.
 
 
 ### § 4 Leistungsformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000503308)
 
 (1) Die Leistungen der Grundsicherung für Arbeitsuchende werden
 erbracht in Form von
@@ -216,6 +221,7 @@ Bildung und Teilhabe möglichst in Anspruch nehmen.
 
 
 ### § 5 Verhältnis zu anderen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000610126)
 
 (1) Auf Rechtsvorschriften beruhende Leistungen Anderer, insbesondere
 der Träger anderer Sozialleistungen, werden durch dieses Buch nicht
@@ -261,6 +267,7 @@ anzuwenden.
 
 
 ### § 6 Träger der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000708126)
 
 (1) Träger der Leistungen nach diesem Buch sind:
 
@@ -298,6 +305,7 @@ ihrer Länder anzupassen.
 
 
 ### § 6a Zugelassene kommunale Träger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000806308)
 
 (1) Die Zulassungen der aufgrund der Kommunalträger-
 Zulassungsverordnung vom 24. September 2004 (BGBl. I S. 2349) anstelle
@@ -394,6 +402,7 @@ Wirkung zum 1. Januar des folgenden Kalenderjahres gestellt werden.
 
 
 ### § 6b Rechtsstellung der zugelassenen kommunalen Träger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007108119)
 
 (1) Die zugelassenen kommunalen Träger sind anstelle der Bundesagentur
 im Rahmen ihrer örtlichen Zuständigkeit Träger der Aufgaben nach § 6
@@ -439,6 +448,7 @@ Basiszinssatz.
 
 
 ### § 6c Personalübergang bei Zulassung weiterer kommunaler Träger und bei Beendigung der Trägerschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007205119)
 
 (1) Die Beamtinnen und Beamten, Arbeitnehmerinnen und Arbeitnehmer der
 Bundesagentur, die am Tag vor der Zulassung eines weiteren kommunalen
@@ -524,16 +534,19 @@ zahlen.
 
 
 ### § 6d Jobcenter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010801308)
 
 Die gemeinsamen Einrichtungen nach § 44b und die zugelassenen
 kommunalen Träger nach § 6a führen die Bezeichnung Jobcenter.
 
 
 ## Kapitel 2 - Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000201308)
 
 
 
 ### § 7 Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE000926126)
 
 (1) Leistungen nach diesem Buch erhalten Personen, die
 
@@ -728,6 +741,7 @@ Auszubildende, deren Bedarf sich nach § 61 Absatz 2, § 62 Absatz 3, §
 
 
 ### § 7a Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009102308)
 
 Personen, die vor dem 1. Januar 1947 geboren sind, erreichen die
 Altersgrenze mit Ablauf des Monats, in dem sie das 65. Lebensjahr
@@ -876,6 +890,7 @@ wird die Altersgrenze wie folgt angehoben:
 
 
 ### § 7b Erreichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016400126)
 
 (1) Erwerbsfähige Leistungsberechtigte erhalten Leistungen, wenn sie
 erreichbar sind. Erreichbar sind erwerbsfähige Leistungsberechtigte,
@@ -929,6 +944,7 @@ Satz 1 zu erteilen.
 
 
 ### § 8 Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001002308)
 
 (1) Erwerbsfähig ist, wer nicht wegen Krankheit oder Behinderung auf
 absehbare Zeit außerstande ist, unter den üblichen Bedingungen des
@@ -943,6 +959,7 @@ Aufenthaltsgesetzes aufzunehmen, ist ausreichend.
 
 
 ### § 9 Hilfebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001105308)
 
 (1) Hilfebedürftig ist, wer seinen Lebensunterhalt nicht oder nicht
 ausreichend aus dem zu berücksichtigenden Einkommen oder Vermögen
@@ -981,6 +998,7 @@ werden kann.
 
 
 ### § 10 Zumutbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001204308)
 
 (1) Einer erwerbsfähigen leistungsberechtigten Person ist jede Arbeit
 zumutbar, es sei denn, dass
@@ -1046,6 +1064,7 @@ Eingliederung in Arbeit entsprechend.
 
 
 ### § 11 Zu berücksichtigendes Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001311126)
 
 (1) Als Einkommen zu berücksichtigen sind Einnahmen in Geld abzüglich
 der nach § 11b abzusetzenden Beträge mit Ausnahme der in § 11a
@@ -1076,6 +1095,7 @@ monatlichen Teilbetrag zu berücksichtigen.
 
 
 ### § 11a Nicht zu berücksichtigendes Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012813126)
 
 (1) Nicht als Einkommen zu berücksichtigen sind
 
@@ -1186,6 +1206,7 @@ Anspruch hat.
 
 
 ### § 11b Absetzbeträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012910126)
 
 (1) Vom Einkommen abzusetzen sind
 
@@ -1322,6 +1343,7 @@ des Absatzes 2b ist Satz 2 Nummer 1 nicht anzuwenden.
 
 
 ### § 12 Zu berücksichtigendes Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001409126)
 
 (1) Alle verwertbaren Vermögensgegenstände sind vorbehaltlich des
 Satzes 2 als Vermögen zu berücksichtigen. Nicht zu berücksichtigen
@@ -1421,6 +1443,7 @@ entsprechend.
 
 
 ### § 12a Vorrangige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009603126)
 
 Leistungsberechtigte sind verpflichtet, Sozialleistungen anderer
 Träger in Anspruch zu nehmen und die dafür erforderlichen Anträge zu
@@ -1447,6 +1470,7 @@ vorzeitig in Anspruch zu nehmen.
 
 
 ### § 13 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001506126)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung
@@ -1489,14 +1513,17 @@ haben können, ohne erreichbar zu sein.
 
 
 ## Kapitel 3 - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000301308)
 
 
 
 ### Abschnitt 1 - Leistungen zur Eingliederung in Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000401308)
 
 
 
 #### § 14 Grundsatz des Förderns
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001605126)
 
 (1) Die Träger der Leistungen nach diesem Buch unterstützen
 erwerbsfähige Leistungsberechtigte umfassend und nachhaltig mit dem
@@ -1535,6 +1562,7 @@ Leistungen.
 
 
 #### § 15 Potenzialanalyse und Kooperationsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001707126)
 
 (1) Die Agentur für Arbeit soll unverzüglich zusammen mit jeder
 erwerbsfähigen leistungsberechtigten Person die für die Eingliederung
@@ -1624,6 +1652,7 @@ Mitwirkungshandlungen mit Rechtsfolgenbelehrung.
 
 
 #### § 15a Schlichtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008503126)
 
 (1) Ist die Erstellung oder die Fortschreibung eines Kooperationsplans
 aufgrund von Meinungsverschiedenheiten zwischen Agentur für Arbeit
@@ -1648,6 +1677,7 @@ spätestens mit Ablauf von vier Wochen ab Beginn.
 
 
 #### § 16 Leistungen zur Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001830126)
 
 (1) Zur Eingliederung in Arbeit erbringt die Agentur für Arbeit
 Leistungen nach § 35 des Dritten Buches. Sie kann folgende Leistungen
@@ -1708,6 +1738,7 @@ Auftrags nach Satz 1 festzulegen.
 
 
 #### § 16a Kommunale Eingliederungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009304377)
 
 Zur Verwirklichung einer ganzheitlichen und umfassenden Betreuung und
 Unterstützung bei der Eingliederung in Arbeit können die folgenden
@@ -1732,6 +1763,7 @@ werden:
 
 
 #### § 16b Einstiegsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009903119)
 
 (1) Zur Überwindung von Hilfebedürftigkeit kann erwerbsfähigen
 Leistungsberechtigten bei Aufnahme einer
@@ -1758,6 +1790,7 @@ jeweils maßgebenden Regelbedarf herzustellen.
 
 
 #### § 16c Leistungen zur Eingliederung von Selbständigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010003140)
 
 (1) Erwerbsfähige Leistungsberechtigte, die eine selbständige,
 hauptberufliche Tätigkeit aufnehmen oder ausüben, können Darlehen und
@@ -1784,6 +1817,7 @@ fachkundigen Stelle verlangen.
 
 
 #### § 16d Arbeitsgelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010105126)
 
 (1) Erwerbsfähige Leistungsberechtigte können zur Erhaltung oder
 Wiedererlangung ihrer Beschäftigungsfähigkeit, die für eine
@@ -1848,6 +1882,7 @@ oder eine sozialpädagogische Betreuung notwendig ist.
 
 
 #### § 16e Eingliederung von Langzeitarbeitslosen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009806126)
 
 (1) Arbeitgeber können für die nicht nur geringfügige Beschäftigung
 von erwerbsfähigen Leistungsberechtigten, die trotz vermittlerischer
@@ -1889,6 +1924,7 @@ Satz 1 unter Fortzahlung des Arbeitsentgelts freizustellen.
 
 
 #### § 16f Freie Förderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010202140)
 
 (1) Die Agentur für Arbeit kann die Möglichkeiten der gesetzlich
 geregelten Eingliederungsleistungen durch freie Leistungen zur
@@ -1920,6 +1956,7 @@ längerfristig angelegten Förderungen ist der Erfolg regelmäßig zu
 
 
 #### § 16g Förderung bei Wegfall der Hilfebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010306126)
 
 (1) Entfällt die Hilfebedürftigkeit der oder des Erwerbsfähigen
 während einer Maßnahme zur Eingliederung, kann sie weiter gefördert
@@ -1942,6 +1979,7 @@ die Hilfebedürftigkeit entfällt.
 
 
 #### § 16h Förderung schwer zu erreichender junger Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014500119)
 
 (1) Für Leistungsberechtigte, die das 25. Lebensjahr noch nicht
 vollendet haben, kann die Agentur für Arbeit Leistungen erbringen mit
@@ -1982,6 +2020,7 @@ Bundeshaushaltsordnung zulässig.
 
 
 #### § 16i Teilhabe am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE015002126)
 
 (1) Zur Förderung von Teilhabe am Arbeitsmarkt können Arbeitgeber für
 die Beschäftigung von zugewiesenen erwerbsfähigen
@@ -2133,10 +2172,12 @@ angerechnet.
 
 
 #### § 16j (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016501126)
 
 
 
 #### § 16k Ganzheitliche Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016601126)
 
 (1) Zum Aufbau der Beschäftigungsfähigkeit von erwerbsfähigen
 Leistungsberechtigten kann die Agentur für Arbeit oder ein durch diese
@@ -2164,6 +2205,7 @@ oder durchführen zu lassen.
 
 
 #### § 17 Einrichtungen und Dienste für Leistungen zur Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE001902308)
 
 (1) Zur Erbringung von Leistungen zur Eingliederung in Arbeit sollen
 die zuständigen Träger der Leistungen nach diesem Buch eigene
@@ -2196,6 +2238,7 @@ Wirtschaftlichkeit, Sparsamkeit und Leistungsfähigkeit entsprechen.
 
 
 #### § 18 Örtliche Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002010126)
 
 (1) Die zuständigen Träger der Leistungen arbeiten im Rahmen ihrer
 Aufgaben und Befugnisse mit den Gemeinden, Kreisen und Bezirken sowie
@@ -2276,6 +2319,7 @@ genügen muss.
 
 
 #### § 18a Zusammenarbeit mit den für die Arbeitsförderung zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008604140)
 
 Beziehen erwerbsfähige Leistungsberechtigte auch Leistungen der
 Arbeitsförderung, so sind die Agenturen für Arbeit, die zugelassenen
@@ -2298,6 +2342,7 @@ Arbeitsförderung erforderlichen Tatsachen, insbesondere über
 
 
 #### § 18b Kooperationsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010902308)
 
 (1) Die zuständige oberste Landesbehörde und das Bundesministerium für
 Arbeit und Soziales bilden einen Kooperationsausschuss. Der
@@ -2341,6 +2386,7 @@ Kooperationsausschuss gibt sich eine Geschäftsordnung.
 
 
 #### § 18c Bund-Länder-Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011002308)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für die Grundsicherung für Arbeitsuchende gebildet. Er beobachtet und
@@ -2367,6 +2413,7 @@ sachdienlich ist.
 
 
 #### § 18d Örtlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011103119)
 
 Bei jeder gemeinsamen Einrichtung nach § 44b wird ein Beirat gebildet.
 Der Beirat berät die Einrichtung bei der Auswahl und Gestaltung der
@@ -2387,6 +2434,7 @@ erfolgt.
 
 
 #### § 18e Beauftragte für Chancengleichheit am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011202308)
 
 (1) Die Trägerversammlungen bei den gemeinsamen Einrichtungen
 bestellen Beauftragte für Chancengleichheit am Arbeitsmarkt aus dem
@@ -2431,14 +2479,17 @@ kommunalen Träger.
 
 
 ### Abschnitt 2 - Leistungen zur Sicherung des Lebensunterhalts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000502308)
 
 
 
 #### Unterabschnitt 1 - Leistungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000604308)
 
 
 
 ##### § 19 Bürgergeld und Leistungen für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002104126)
 
 (1) Erwerbsfähige Leistungsberechtigte erhalten Bürgergeld.
 Nichterwerbsfähige Leistungsberechtigte, die mit erwerbsfähigen
@@ -2466,10 +2517,12 @@ der Reihenfolge der Absätze 2 bis 7 nach § 28.
 
 
 #### Unterabschnitt 2 - Bürgergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000703126)
 
 
 
 ##### § 20 Regelbedarf zur Sicherung des Lebensunterhalts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002208360)
 
 (1) Der Regelbedarf zur Sicherung des Lebensunterhalts umfasst
 insbesondere Ernährung, Kleidung, Körperpflege, Hausrat,
@@ -2527,6 +2580,7 @@ Betrag in Höhe der Regelbedarfsstufe 2 anzuerkennen.
 
 
 ##### § 21 Mehrbedarfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002309126)
 
 (1) Mehrbedarfe umfassen Bedarfe nach den Absätzen 2 bis 7, die nicht
 durch den Regelbedarf abgedeckt sind.
@@ -2617,6 +2671,7 @@ maßgebenden Regelbedarfs nicht übersteigen.
 
 
 ##### § 22 Bedarfe für Unterkunft und Heizung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002413126)
 
 (1) Bedarfe für Unterkunft und Heizung werden in Höhe der
 tatsächlichen Aufwendungen anerkannt, soweit diese angemessen sind.
@@ -2822,6 +2877,7 @@ für die dort genannten Zwecke nicht mehr erforderlich sind.
 
 
 ##### § 22a Satzungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013001308)
 
 (1) Die Länder können die Kreise und kreisfreien Städte durch Gesetz
 ermächtigen oder verpflichten, durch Satzung zu bestimmen, in welcher
@@ -2863,6 +2919,7 @@ Heizung soll die Verhältnisse des einfachen Standards auf dem
 
 
 ##### § 22b Inhalt der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013101308)
 
 (1) In der Satzung ist zu bestimmen,
 
@@ -2905,6 +2962,7 @@ insbesondere für Personen, die einen erhöhten Raumbedarf haben wegen
 
 
 ##### § 22c Datenerhebung, -auswertung und -überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013201308)
 
 (1) Zur Bestimmung der angemessenen Aufwendungen für Unterkunft und
 Heizung sollen die Kreise und kreisfreien Städte insbesondere
@@ -2930,6 +2988,7 @@ durch Satzung bestimmten Werte für die Heizung mindestens jährlich
 
 
 ##### § 23 Besonderheiten beim Bürgergeld für nicht erwerbsfähige Leistungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002509126)
 
 Beim Bürgergeld nach § 19 Absatz 1 Satz 2 gelten ergänzend folgende
 Maßgaben:
@@ -2964,10 +3023,12 @@ Maßgaben:
 
 
 #### Unterabschnitt 3 - Abweichende Leistungserbringung und weitere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000802308)
 
 
 
 ##### § 24 Abweichende Erbringung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002609126)
 
 (1) Kann im Einzelfall ein vom Regelbedarf zur Sicherung des
 Lebensunterhalts umfasster und nach den Umständen unabweisbarer Bedarf
@@ -3035,6 +3096,7 @@ konnte.
 
 
 ##### § 25 Leistungen bei medizinischer Rehabilitation der Rentenversicherung und bei Anspruch auf Verletztengeld aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002707126)
 
 Haben Leistungsberechtigte dem Grunde nach Anspruch auf Verletztengeld
 der gesetzlichen Unfallversicherung, erbringen die Träger der
@@ -3048,6 +3110,7 @@ entsprechend.
 
 
 ##### § 26 Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002816126)
 
 (1) Für Bezieherinnen und Bezieher von Bürgergeld, die gegen das
 Risiko Krankheit bei einem privaten Krankenversicherungsunternehmen im
@@ -3132,6 +3195,7 @@ wird.
 
 
 ##### § 27 Leistungen für Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE002907126)
 
 (1) Auszubildende im Sinne des § 7 Absatz 5 erhalten Leistungen zur
 Sicherung des Lebensunterhalts nach Maßgabe der folgenden Absätze. Die
@@ -3162,10 +3226,12 @@ nach Absatz 2 nachrangig.
 
 
 #### Unterabschnitt 4 - Leistungen für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG000902308)
 
 
 
 ##### § 28 Bedarfe für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003010126)
 
 (1) Bedarfe für Bildung und Teilhabe am sozialen und kulturellen Leben
 in der Gemeinschaft werden bei Kindern, Jugendlichen und jungen
@@ -3258,6 +3324,7 @@ dem Regelbedarf zu bestreiten.
 
 
 ##### § 29 Erbringung der Leistungen für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003108126)
 
 (1) Leistungen zur Deckung der Bedarfe nach § 28 Absatz 2 und 5 bis 7
 werden erbracht durch
@@ -3330,6 +3397,7 @@ oder schulhalbjährliche Abschlagszahlungen geleistet werden.
 
 
 ##### § 30 Berechtigte Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003204377)
 
 Geht die leistungsberechtigte Person durch Zahlung an Anbieter in
 Vorleistung, ist der kommunale Träger zur Übernahme der
@@ -3352,10 +3420,12 @@ gestellt.
 
 
 #### Unterabschnitt 5 - Leistungsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG002002126)
 
 
 
 ##### § 31 Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003313126)
 
 (1) Erwerbsfähige Leistungsberechtigte verletzen ihre Pflichten, wenn
 sie trotz schriftlicher Belehrung über die Rechtsfolgen oder deren
@@ -3406,6 +3476,7 @@ ist auch anzunehmen, wenn
 
 
 ##### § 31a Rechtsfolgen bei Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013303126)
 
 (1) Bei einer Pflichtverletzung nach § 31 mindert sich das Bürgergeld
 um 10 Prozent des nach § 20 jeweils maßgebenden Regelbedarfs. Bei
@@ -3461,6 +3532,7 @@ Absätze 2 und 3 sowie § 31 Absatz 1 Satz 2 finden Anwendung.
 
 
 ##### § 31b Beginn und Dauer der Minderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013403126)
 
 (1) Der Auszahlungsanspruch mindert sich mit Beginn des
 Kalendermonats, der auf das Wirksamwerden des Verwaltungsaktes folgt,
@@ -3500,6 +3572,7 @@ Vorschriften des Zwölften Buches.
 
 
 ##### § 32 Meldeversäumnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003405126)
 
 (1) Kommen Leistungsberechtigte trotz schriftlicher Belehrung über die
 Rechtsfolgen oder deren Kenntnis einer Aufforderung des zuständigen
@@ -3514,10 +3587,12 @@ Der Minderungszeitraum beträgt einen Monat.
 
 
 #### Unterabschnitt 6 - Verpflichtungen Anderer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG002101308)
 
 
 
 ##### § 33 Übergang von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003506119)
 
 (1) Haben Personen, die Leistungen zur Sicherung des Lebensunterhalts
 beziehen, für die Zeit, für die Leistungen erbracht werden, einen
@@ -3598,6 +3673,7 @@ Absatzes 1 vor.
 
 
 ##### § 34 Ersatzansprüche bei sozialwidrigem Verhalten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003603119)
 
 (1) Wer nach Vollendung des 18. Lebensjahres vorsätzlich oder grob
 fahrlässig die Voraussetzungen für die Gewährung von Leistungen nach
@@ -3624,6 +3700,7 @@ Erhebung der Klage steht der Erlass eines Leistungsbescheides gleich.
 
 
 ##### § 34a Ersatzansprüche für rechtswidrig erbrachte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008703119)
 
 (1) Zum Ersatz rechtswidrig erbrachter Geld- und Sachleistungen nach
 diesem Buch ist verpflichtet, wer diese durch vorsätzliches oder grob
@@ -3651,6 +3728,7 @@ Buches Verpflichtete haften als Gesamtschuldner.
 
 
 ##### § 34b Erstattungsanspruch bei Doppelleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014600119)
 
 (1) Hat ein vorrangig verpflichteter Leistungsträger in Unkenntnis der
 Leistung durch Träger nach diesem Buch an eine leistungsberechtigte
@@ -3670,6 +3748,7 @@ Leistung erbracht hat.
 
 
 ##### § 34c Ersatzansprüche nach sonstigen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013502119)
 
 Bestimmt sich das Recht des Trägers nach diesem Buch, Ersatz seiner
 Aufwendungen von einem anderen zu verlangen, gegen den die
@@ -3681,18 +3760,22 @@ einer Bedarfsgemeinschaft lebenden Personen erbracht wurden.
 
 
 ##### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003703119)
 
 
 
 ## Kapitel 4 - Gemeinsame Vorschriften für Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001001308)
 
 
 
 ### Abschnitt 1 - Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001102308)
 
 
 
 #### § 36 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003807126)
 
 (1) Für die Leistungen nach § 6 Absatz 1 Satz 1 Nummer 1 ist die
 Agentur für Arbeit zuständig, in deren Bezirk die erwerbsfähige
@@ -3729,6 +3812,7 @@ Absätzen 1 oder 2 zuständig ist oder wäre.
 
 
 #### § 36a Kostenerstattung bei Aufenthalt im Frauenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008204126)
 
 (1) Sucht eine Person in einem Frauenhaus Zuflucht, ist der kommunale
 Träger am bisherigen gewöhnlichen Aufenthaltsort verpflichtet, dem
@@ -3742,6 +3826,7 @@ kommunalen Trägern erstattungsfähig.
 
 
 #### § 37 Antragserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE003906126)
 
 (1) Leistungen nach diesem Buch werden auf Antrag erbracht. Leistungen
 nach § 24 Absatz 1 und 3 und Leistungen für die Bedarfe nach § 28
@@ -3761,6 +3846,7 @@ Dezember 2023 gestellt werden.
 
 
 #### § 38 Vertretung der Bedarfsgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004002308)
 
 (1) Soweit Anhaltspunkte dem nicht entgegenstehen, wird vermutet, dass
 die oder der erwerbsfähige Leistungsberechtigte bevollmächtigt ist,
@@ -3777,6 +3863,7 @@ angehört.
 
 
 #### § 39 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004104119)
 
 Keine aufschiebende Wirkung haben Widerspruch und Anfechtungsklage
 gegen einen Verwaltungsakt,
@@ -3800,6 +3887,7 @@ gegen einen Verwaltungsakt,
 
 
 #### § 40 Anwendung von Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004212126)
 
 (1) Für das Verfahren nach diesem Buch gilt das Zehnte Buch.
 Abweichend von Satz 1 gilt § 44 des Zehnten Buches mit der Maßgabe,
@@ -3927,6 +4015,7 @@ eintritt.
 
 
 #### § 40a Erstattungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014100377)
 
 Wird einer leistungsberechtigten Person für denselben Zeitraum, für
 den ein Träger der Grundsicherung für Arbeitsuchende Leistungen nach
@@ -3942,6 +4031,7 @@ Zehnten Buches gelten entsprechend. § 44a Absatz 3 bleibt unberührt.
 
 
 #### § 41 Berechnung der Leistungen und Bewilligungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004306126)
 
 (1) Anspruch auf Leistungen zur Sicherung des Lebensunterhalts besteht
 für jeden Kalendertag. Der Monat wird mit 30 Tagen berechnet. Stehen
@@ -3978,6 +4068,7 @@ Entscheidung über Leistungen zur Deckung der Bedarfe nach § 28 Absatz
 
 
 #### § 41a Vorläufige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014702126)
 
 (1) Über die Erbringung von Geld- und Sachleistungen ist vorläufig zu
 entscheiden, wenn
@@ -4087,6 +4178,7 @@ entsprechend.
 
 
 #### § 42 Fälligkeit, Auszahlung und Unpfändbarkeit der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004405124)
 
 (1) Leistungen sollen monatlich im Voraus erbracht werden.
 
@@ -4123,6 +4215,7 @@ bleibt unberührt.
 
 
 #### § 42a Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013604126)
 
 (1) Darlehen werden nur erbracht, wenn ein Bedarf weder durch Vermögen
 nach § 12 Absatz 2 und 4 Satz 1 noch auf andere Weise gedeckt werden
@@ -4166,6 +4259,7 @@ ausreichen, zunächst auf das zuerst erbrachte Darlehen angerechnet.
 
 
 #### § 43 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004506119)
 
 (1) Die Jobcenter können gegen Ansprüche von leistungsberechtigten
 Personen auf Geldleistungen zur Sicherung des Lebensunterhalts
@@ -4209,6 +4303,7 @@ vollziehbar ist, verlängern den Aufrechnungszeitraum entsprechend.
 
 
 #### § 43a Verteilung von Teilzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013701308)
 
 Teilzahlungen auf Ersatz- und Erstattungsansprüche der Träger nach
 diesem Buch gegen Leistungsberechtigte oder Dritte mindern die
@@ -4217,16 +4312,19 @@ Anteils an der Forderung zueinander.
 
 
 #### § 44 Veränderung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004602308)
 
 Die Träger von Leistungen nach diesem Buch dürfen Ansprüche erlassen,
 wenn deren Einziehung nach Lage des einzelnen Falles unbillig wäre.
 
 
 ### Abschnitt 2 - Einheitliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001201308)
 
 
 
 #### § 44a Feststellung von Erwerbsfähigkeit und Hilfebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004710126)
 
 (1) Die Agentur für Arbeit stellt fest, ob die oder der Arbeitsuchende
 erwerbsfähig ist. Der Entscheidung können widersprechen:
@@ -4305,6 +4403,7 @@ Entscheidung an die Feststellung der Agentur für Arbeit gebunden.
 
 
 #### § 44b Gemeinsame Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004806119)
 
 (1) Zur einheitlichen Durchführung der Grundsicherung für
 Arbeitsuchende bilden die Träger im Gebiet jedes kommunalen Trägers
@@ -4352,6 +4451,7 @@ Leistungen erforderlich sind.
 
 
 #### § 44c Trägerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011304311)
 
 (1) Die gemeinsame Einrichtung hat eine Trägerversammlung. In der
 Trägerversammlung sind Vertreterinnen und Vertreter der Agentur für
@@ -4453,6 +4553,7 @@ Beachtung von Zielvorgaben der Träger abgestimmt.
 
 
 #### § 44d Geschäftsführerin, Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011402308)
 
 (1) Die Geschäftsführerin oder der Geschäftsführer führt hauptamtlich
 die Geschäfte der gemeinsamen Einrichtung, soweit durch Gesetz nichts
@@ -4519,6 +4620,7 @@ nicht übersteigen.
 
 
 #### § 44e Verfahren bei Meinungsverschiedenheit über die Weisungszuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011503311)
 
 (1) Zur Beilegung einer Meinungsverschiedenheit über die Zuständigkeit
 nach § 44b Absatz 3 und § 44c Absatz 2 können die Träger oder die
@@ -4546,6 +4648,7 @@ durch die Anrufung des Kooperationsausschusses nicht ausgeschlossen.
 
 
 #### § 44f Bewirtschaftung von Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011602308)
 
 (1) Die Bundesagentur überträgt der gemeinsamen Einrichtung die
 Bewirtschaftung von Haushaltsmitteln des Bundes, die sie im Rahmen von
@@ -4576,6 +4679,7 @@ Haushaltsmitteln beauftragen.
 
 
 #### § 44g Zuweisung von Tätigkeiten bei der gemeinsamen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011704126)
 
 (1) Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmern
 der Träger und der nach § 6 Absatz 2 Satz 1 herangezogenen Gemeinden
@@ -4617,6 +4721,7 @@ widersprechen.
 
 
 #### § 44h Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011802308)
 
 (1) In den gemeinsamen Einrichtungen wird eine Personalvertretung
 gebildet. Die Regelungen des Bundespersonalvertretungsgesetzes gelten
@@ -4655,12 +4760,14 @@ bei den Trägern verbleiben.
 
 
 #### § 44i Schwerbehindertenvertretung; Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE011901308)
 
 Auf die Schwerbehindertenvertretung und Jugend- und
 Auszubildendenvertretung ist § 44h entsprechend anzuwenden.
 
 
 #### § 44j Gleichstellungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012001308)
 
 In der gemeinsamen Einrichtung wird eine Gleichstellungsbeauftragte
 bestellt. Das Bundesgleichstellungsgesetz gilt entsprechend. Der
@@ -4670,6 +4777,7 @@ Trägerversammlung und die Geschäftsführer entscheidungsbefugt sind.
 
 
 #### § 44k Stellenbewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012203126)
 
 (1) Mit der Zuweisung von Tätigkeiten nach § 44g Absatz 1 übertragen
 die Träger der gemeinsamen Einrichtung die entsprechenden Planstellen
@@ -4684,14 +4792,17 @@ Träger.
 
 
 #### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE004904308)
 
 
 
 ## Kapitel 5 - Finanzierung und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001301308)
 
 
 
 ### § 46 Finanzierung aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005031126)
 
 (1) Der Bund trägt die Aufwendungen der Grundsicherung für
 Arbeitsuchende einschließlich der Verwaltungskosten, soweit die
@@ -4876,6 +4987,7 @@ und Sparsamkeit entsprechen.
 
 
 ### § 47 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005104308)
 
 (1) Das Bundesministerium für Arbeit und Soziales führt die Rechts-
 und Fachaufsicht über die Bundesagentur, soweit dieser nach § 44b
@@ -4909,6 +5021,7 @@ Aufgaben bei den gemeinsamen Einrichtungen zu prüfen.
 
 
 ### § 48 Aufsicht über die zugelassenen kommunalen Träger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005204308)
 
 (1) Die Aufsicht über die zugelassenen kommunalen Träger obliegt den
 zuständigen Landesbehörden.
@@ -4928,6 +5041,7 @@ der Aufwendungen der Grundsicherung für Arbeitsuchende erlassen.
 
 
 ### § 48a Vergleich der Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012301308)
 
 (1) Zur Feststellung und Förderung der Leistungsfähigkeit der
 örtlichen Aufgabenwahrnehmung der Träger der Grundsicherung für
@@ -4944,6 +5058,7 @@ festzulegen.
 
 
 ### § 48b Zielvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012402308)
 
 (1) Zur Erreichung der Ziele nach diesem Buch schließen
 
@@ -5001,6 +5116,7 @@ Absatz 2 maßgeblich.
 
 
 ### § 49 Innenrevision
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005303308)
 
 (1) Die Bundesagentur stellt durch organisatorische Maßnahmen sicher,
 dass in allen Dienststellen und gemeinsamen Einrichtungen durch
@@ -5019,10 +5135,12 @@ Bundesministerium für Arbeit und Soziales vor.
 
 
 ## Kapitel 6 - Datenverarbeitung und datenschutzrechtliche Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001404126)
 
 
 
 ### § 50 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005407126)
 
 (1) Die Bundesagentur, die kommunalen Träger, die zugelassenen
 kommunalen Träger, gemeinsame Einrichtungen, die für die Bekämpfung
@@ -5070,6 +5188,7 @@ Informationsfreiheit.
 
 
 ### § 50a Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014801126)
 
 Gemeinsame Einrichtungen und zugelassene kommunale Träger dürfen die
 ihnen nach § 282b Absatz 4 des Dritten Buches von der Bundesagentur
@@ -5093,6 +5212,7 @@ Kalenderjahres zu löschen.
 
 
 ### § 51 Verarbeitung von Sozialdaten durch nicht-öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005504126)
 
 Die Träger der Leistungen nach diesem Buch dürfen abweichend von § 80
 Absatz 3 des Zehnten Buches zur Erfüllung ihrer Aufgaben nach diesem
@@ -5102,6 +5222,7 @@ Stellen mit der Verarbeitung von Sozialdaten beauftragen.
 
 
 ### § 51a Kundennummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007303308)
 
 Jeder Person, die Leistungen nach diesem Gesetz bezieht, wird einmalig
 eine eindeutige, von der Bundesagentur oder im Auftrag der
@@ -5123,6 +5244,7 @@ Träger eine eindeutige, von der Bundesagentur vergebene Trägernummer.
 
 
 ### § 51b Verarbeitung von Daten durch die Träger der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007409126)
 
 (1) Die zuständigen Träger der Grundsicherung für Arbeitsuchende
 erheben laufend die für die Durchführung der Grundsicherung für
@@ -5177,10 +5299,12 @@ Bedarfsgemeinschaftsnummern nach § 51a.
 
 
 ### § 51c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007503308)
 
 
 
 ### § 52 Automatisierter Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005607126)
 
 (1) Die Bundesagentur und die zugelassenen kommunalen Träger
 überprüfen Personen, die Leistungen nach diesem Buch beziehen, zum 1.
@@ -5273,6 +5397,7 @@ eines Bundeslandes umfasst.
 
 
 ### § 52a Überprüfung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008805126)
 
 (1) Die Agentur für Arbeit darf zur Sicherstellung einer
 ordnungsgemäßen Leistungserbringung bei Personen, die Leistungen nach
@@ -5305,10 +5430,12 @@ unverzüglich zu löschen.
 
 
 ## Kapitel 7 - Statistik und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001501308)
 
 
 
 ### § 53 Statistik und Übermittlung statistischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005704308)
 
 (1) Die Bundesagentur erstellt aus den bei der Durchführung der
 Grundsicherung für Arbeitsuchende von ihr nach § 51b erhaltenen und
@@ -5366,6 +5493,7 @@ Bundesstatistikgesetzes gegeben sind.
 
 
 ### § 53a Arbeitslose
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009703126)
 
 (1) Arbeitslose im Sinne dieses Gesetzes sind erwerbsfähige
 Leistungsberechtigte, die die Voraussetzungen des § 16 des Dritten
@@ -5375,10 +5503,12 @@ Buches in sinngemäßer Anwendung erfüllen.
 
 
 ### § 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005805126)
 
 
 
 ### § 55 Wirkungsforschung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE005904308)
 
 (1) Die Wirkungen der Leistungen zur Eingliederung und der Leistungen
 zur Sicherung des Lebensunterhalts sind regelmäßig und zeitnah zu
@@ -5394,10 +5524,12 @@ Träger der Leistungen nach diesem Buch.
 
 
 ## Kapitel 8 - Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001601308)
 
 
 
 ### § 56 Anzeige- und Bescheinigungspflicht bei Arbeitsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006008126)
 
 (1) Erwerbsfähige Leistungsberechtigte, die Leistungen zur Sicherung
 des Lebensunterhalts beantragt haben oder beziehen, sind verpflichtet,
@@ -5443,6 +5575,7 @@ geregelt werden.
 
 
 ### § 57 Auskunftspflicht von Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006101308)
 
 Arbeitgeber haben der Agentur für Arbeit auf deren Verlangen Auskunft
 über solche Tatsachen zu geben, die für die Entscheidung über einen
@@ -5454,6 +5587,7 @@ Beschäftigungsverhältnisses.
 
 
 ### § 58 Einkommensbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006203308)
 
 (1) Wer jemanden, der laufende Geldleistungen nach diesem Buch
 beantragt hat oder bezieht, gegen Arbeitsentgelt beschäftigt, ist
@@ -5472,6 +5606,7 @@ vorgeschriebenen Vordruck unverzüglich vorzulegen.
 
 
 ### § 59 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006301308)
 
 Die Vorschriften über die allgemeine Meldepflicht, § 309 des Dritten
 Buches, und über die Meldepflicht bei Wechsel der Zuständigkeit, § 310
@@ -5479,6 +5614,7 @@ des Dritten Buches, sind entsprechend anzuwenden.
 
 
 ### § 60 Auskunftspflicht und Mitwirkungspflicht Dritter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006404119)
 
 (1) Wer jemandem, der Leistungen nach diesem Buch beantragt hat oder
 bezieht, Leistungen erbringt, die geeignet sind, diese Leistungen nach
@@ -5536,6 +5672,7 @@ Durchführung der Aufgaben nach diesem Buch erforderlich ist.
 
 
 ### § 61 Auskunftspflichten bei Leistungen zur Eingliederung in Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006503126)
 
 (1) Träger, die eine Leistung zur Eingliederung in Arbeit erbracht
 haben oder erbringen, haben der Agentur für Arbeit unverzüglich
@@ -5575,6 +5712,7 @@ Verfahren und Formate zu nutzen.
 
 
 ### § 62 Schadenersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006601308)
 
 Wer vorsätzlich oder fahrlässig
 
@@ -5591,10 +5729,12 @@ ist zum Ersatz des daraus entstehenden Schadens verpflichtet.
 
 
 ## Kapitel 9 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001702377)
 
 
 
 ### § 63 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006702119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5644,18 +5784,22 @@ Fällen mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
 
 
 ### § 63a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014201126)
 
 
 
 ### § 63b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014301126)
 
 
 
 ## Kapitel 10 - Bekämpfung von Leistungsmissbrauch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001801308)
 
 
 
 ### § 64 Zuständigkeit und Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006806124)
 
 (1) Für die Bekämpfung von Leistungsmissbrauch gilt § 319 des Dritten
 Buches entsprechend.
@@ -5696,10 +5840,12 @@ Ordnungswidrigkeiten.
 
 
 ## Kapitel 11 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNG001901308)
 
 
 
 ### § 65 Übergangsregelungen aus Anlass des Zwölften Gesetzes zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE006910126)
 
 (1) § 3 Absatz 2a in der bis zum 31. Dezember 2022 geltenden Fassung
 findet bis zur erstmaligen Erstellung eines Kooperationsplans nach §
@@ -5752,18 +5898,22 @@ für den Begriff Bürgergeld auch der Begriff „Arbeitslosengeld II“ oder
 
 
 ### § 65a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007602308)
 
 
 
 ### § 65b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007702308)
 
 
 
 ### § 65c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007803308)
 
 
 
 ### § 65d Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007901308)
 
 (1) Der Träger der Sozialhilfe und die Agentur für Arbeit machen dem
 zuständigen Leistungsträger auf Verlangen die bei ihnen vorhandenen
@@ -5778,6 +5928,7 @@ entstehen; eine Pauschalierung ist zulässig.
 
 
 ### § 65e Übergangsregelung zur Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008003308)
 
 Der zuständige Träger der Leistungen nach diesem Buch kann mit
 Zustimmung des Trägers der Sozialhilfe dessen Ansprüche gegen den
@@ -5789,6 +5940,7 @@ beschränkt.
 
 
 ### § 66 Rechtsänderungen bei Leistungen zur Eingliederung in Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE007003308)
 
 (1) Wird dieses Gesetzbuch geändert, so sind, soweit nichts
 Abweichendes bestimmt ist, auf Leistungen zur Eingliederung in Arbeit
@@ -5814,6 +5966,7 @@ Entscheidung über die Verlängerung geltenden Vorschriften.
 
 
 ### § 66a Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016700126)
 
 § 66 findet entsprechende Anwendung beim Übergang der Förderung der
 beruflichen Weiterbildung und der beruflichen Rehabilitation von den
@@ -5821,6 +5974,7 @@ Jobcentern auf die Agenturen für Arbeit zum 1. Januar 2025.
 
 
 ### § 67 Vereinfachtes Verfahren für den Zugang zu sozialer Sicherung aus Anlass der COVID-19-Pandemie; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE015604126)
 
 (1) Leistungen für Bewilligungszeiträume, die in der Zeit vom 1. März
 2020 bis zum 31. März 2022 beginnen, werden nach Maßgabe der Absätze 2
@@ -5858,6 +6012,7 @@ längstens bis zum 31. Dezember 2022 zu verlängern.
 
 
 ### § 68 Abweichende Leistungserbringung in Gemeinschaftsunterkünften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE015804126)
 
 Ist eine leistungsberechtigte Person in einer Gemeinschaftsunterkunft
 ohne Selbstversorgungsmöglichkeit untergebracht, kann der Anspruch auf
@@ -5897,6 +6052,7 @@ benannten Beträge zu erstatten.
 
 
 ### § 69 Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE015900126)
 
 Über die Erbringung der Leistungen zur Sicherung des Lebensunterhalts
 ist ohne Berücksichtigung eines möglichen Freibetrages nach § 11b
@@ -5908,6 +6064,7 @@ die Einräumung des Freibetrages vorliegen.
 
 
 ### § 70 Einmalzahlung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE008306126)
 
 Leistungsberechtigte, die für den Monat Mai 2021 Anspruch auf
 Arbeitslosengeld II oder Sozialgeld haben und deren Bedarf sich nach
@@ -5921,6 +6078,7 @@ wird.
 
 
 ### § 71 Kinderfreizeitbonus und weitere Regelung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009404311)
 
 (1) Abweichend von § 37 Absatz 1 Satz 2 gilt der Antrag auf Leistungen
 nach § 28 Absatz 5 in der Zeit vom 1. Juli 2021 bis zum Ablauf des 31.
@@ -5944,6 +6102,7 @@ leistungsberechtigte Person berücksichtigt wird.
 
 
 ### § 72 Sofortzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE009507126)
 
 (1) Kinder, Jugendliche und junge Erwachsene, die Anspruch auf
 Bürgergeld haben, dem ein Regelbedarf nach den Regelbedarfsstufen 3,
@@ -5974,6 +6133,7 @@ ergibt.
 
 
 ### § 73 Einmalzahlung für den Monat Juli 2022
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016200126)
 
 Leistungsberechtigte, die für den Monat Juli 2022 Anspruch auf
 Arbeitslosengeld II oder Sozialgeld haben und deren Bedarf sich nach
@@ -5983,6 +6143,7 @@ Mehraufwendungen eine Einmalzahlung in Höhe von 200 Euro.
 
 
 ### § 74 Ansprüche von Ausländerinnen und Ausländern mit einer Fiktionsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE010703126)
 
 (1) Abweichend von § 7 Absatz 1 Satz 2 Nummer 1 und 2 erhalten
 Leistungen nach diesem Buch auch Personen, die gemäß § 49 des
@@ -6034,10 +6195,12 @@ des Zehnten Buches zu.
 
 
 ### § 75 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012503119)
 
 
 
 ### § 76 Gesetz zur Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE012603119)
 
 (1) Nimmt im Gebiet eines kommunalen Trägers nach § 6 Absatz 1 Satz 1
 Nummer 2 mehr als eine Arbeitsgemeinschaft nach § 44b in der bis zum
@@ -6056,14 +6219,17 @@ standardisierter Form übermitteln.
 
 
 ### § 77 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE013901126)
 
 
 
 ### § 78 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014001126)
 
 
 
 ### § 79 Achtes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch – Ergänzung personalrechtlicher Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014401377)
 
 (1) Hat ein nach § 40a zur Erstattung verpflichteter
 Sozialleistungsträger in der Zeit vom 31. Oktober 2012 bis zum 5. Juni
@@ -6077,14 +6243,17 @@ Einrichtungen, die nach § 44g Absatz 2 in der bis zum 31. Dezember
 
 
 ### § 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE014903126)
 
 
 
 ### § 81 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE015101126)
 
 
 
 ### § 82 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE015700126)
 
 Für Maßnahmen der ausbildungsbegleitenden Hilfen, die bis zum 28.
 Februar 2021 beginnen und bis zum 30. September 2021, im Fall des § 75
@@ -6097,6 +6266,7 @@ Satz 1 des Dritten Buches.
 
 
 ### § 83 Übergangsregelung aus Anlass des Gesetzes zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016000126)
 
 (1) § 21 Absatz 4 Satz 1 in der bis zum 31. Dezember 2019 geltenden
 Fassung ist für erwerbsfähige Leistungsberechtigte mit Behinderungen,
@@ -6120,10 +6290,12 @@ allem einer Einarbeitungszeit, anerkannt werden.
 
 
 ### § 84 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016106126)
 
 
 
 ### § 85 Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016300126)
 
 Abweichend von § 12a Satz 1 sind Leistungsberechtigte für am 31.
 Dezember 2022 laufende Bewilligungszeiträume oder
@@ -6133,6 +6305,7 @@ Anspruch zu nehmen.
 
 
 ### § 86 Zweites Haushaltsfinanzierungsgesetz 2024
+[Direktlink](https://www.gesetze-im-internet.de/sgb_2/BJNR295500003.html#BJNR295500003BJNE016800126)
 
 § 31a Absatz 7 und § 31b Absatz 3 werden mit Ablauf des 27. März 2026
 aufgehoben.

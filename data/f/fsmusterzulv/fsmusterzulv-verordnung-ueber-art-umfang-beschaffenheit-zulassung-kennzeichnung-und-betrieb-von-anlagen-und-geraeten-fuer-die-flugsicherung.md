@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000000000)
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 2 und Satz 2 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März
@@ -33,6 +34,7 @@ für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000100000)
 
 Diese Verordnung bestimmt die Anforderungen für die Musterzulassung
 von Anlagen und Geräten für die Flugsicherung und legt das Verfahren
@@ -41,6 +43,7 @@ und Anlagen fest.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000200000)
 
 
 1.  "Anlagen und Geräte für die Flugsicherung" und "Produkt" im Sinne
@@ -93,6 +96,7 @@ und Anlagen fest.
 
 
 ## § 3 Voraussetzungen für den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000301305)
 
 Es ist verboten, Anlagen und Geräte für die Flugsicherung zu betreiben
 oder betreiben zu lassen, wenn sie nicht baugleich zu dem vom
@@ -106,6 +110,7 @@ verfügen.
 
 
 ## § 4 Anforderungen an Anlagen und Geräte für die Flugsicherung
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000401305)
 
 Die Anforderungen an Anlagen und Geräte für die Flugsicherung werden
 vom Bundesaufsichtsamt für Flugsicherung festgelegt und in den
@@ -113,6 +118,7 @@ Nachrichten für Luftfahrer bekannt gemacht.
 
 
 ## § 5 Grundsätze des Zulassungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000501305)
 
 (1) Der Hersteller hat die Zulassung bei dem Bundesaufsichtsamt für
 Flugsicherung zu beantragen. Dabei ist der Nachweis zu führen, dass
@@ -159,6 +165,7 @@ vollständigen Antragsunterlagen.
 
 
 ## § 6 Musterzulassung
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000601305)
 
 (1) Das Bundesaufsichtsamt für Flugsicherung erteilt die Zulassung für
 das Baumuster einer Anlage oder eines Gerätes für die Flugsicherung,
@@ -173,6 +180,7 @@ Nachrichten für Luftfahrer bekannt.
 
 
 ## § 7 Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000701305)
 
 Die Zulassung kann widerrufen werden, wenn ein zugelassenes Gerät oder
 eine zugelassene Anlage nicht mehr den Anforderungen gemäß § 4
@@ -184,6 +192,7 @@ Nebenbestimmung der Zulassung nicht nachkommt.
 
 
 ## § 8 Produktkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000801305)
 
 Zum Zwecke der Überprüfung der fortlaufenden Übereinstimmung einer
 nach § 5 zugelassenen Anlage oder eines zugelassenen Gerätes mit den
@@ -193,6 +202,7 @@ Abständen Produktkontrollen durch.
 
 
 ## § 9 Verpflichtungen des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE000901305)
 
 (1) Der Hersteller ist verpflichtet, jede Firmen- oder Adressänderung
 dem Bundesaufsichtsamt für Flugsicherung unverzüglich mitzuteilen.
@@ -212,6 +222,7 @@ Jahre nach Herstellung des letzten Produkts aufzubewahren.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE001000000)
 
 Ordnungswidrig im Sinne von § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -220,6 +231,7 @@ betreiben lässt.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE001101305)
 
 Anlagen und Geräte für die Flugsicherung, die vor dem Inkrafttreten
 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen
@@ -231,12 +243,14 @@ zugelassen im Sinne dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE001200000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 6 Abs. 1)
 
 ## Anlage (Muster)
+[Direktlink](https://www.gesetze-im-internet.de/fsmusterzulv/BJNR002700002.html#BJNR002700002BJNE001302305)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 29
 (Muster)                                (Seite 1)

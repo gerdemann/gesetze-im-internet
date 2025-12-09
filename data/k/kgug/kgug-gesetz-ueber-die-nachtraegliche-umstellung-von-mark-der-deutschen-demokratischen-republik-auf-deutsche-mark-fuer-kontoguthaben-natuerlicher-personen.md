@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kgug/BJNR113890992.html#BJNR113890992BJNE000100314)
 
 Ist für ein Guthaben einer natürlichen Person ein Umstellungsantrag
 nach Artikel 5 Abs. 2 bis 4 der Anlage I des Vertrages vom 18. Mai
@@ -35,6 +36,7 @@ Umstellungssätzen; Artikel 6 Abs. 1 findet keine Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kgug/BJNR113890992.html#BJNR113890992BJNE000200314)
 
 Die aus der Umstellung gemäß § 1 entstehenden Ausgleichsforderungen
 werden ab dem ersten Kalendertag des auf die Umstellung folgenden

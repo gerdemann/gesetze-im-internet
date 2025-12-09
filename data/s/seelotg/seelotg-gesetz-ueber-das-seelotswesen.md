@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000100414)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE001401125)
 
 Seelotsin oder Seelotse ist, wer nach behördlicher Zulassung
 berufsmäßig auf Seeschiffahrtstraßen außerhalb der Häfen oder über See
@@ -36,11 +38,13 @@ gehören nicht zur Schiffsbesatzung.
 
 
 ### § 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE006401311)
 
 -
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE001500414)
 
 Seelotsreviere sind Fahrtstrecken und Seegebiete, für die zur
 Sicherheit der Schiffahrt die Bereitstellung einheitlicher, ständiger
@@ -48,6 +52,7 @@ Lotsendienste angeordnet ist.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE001605119)
 
 (1) Die Einrichtung und Unterhaltung des Seelotswesens sowie die
 Aufsicht über das Seelotswesen sind Aufgaben des Bundes.
@@ -62,6 +67,7 @@ Schifffahrtsverwaltung des Bundes als Aufsichtsbehörden zu bestimmen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE001707125)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung
@@ -122,14 +128,17 @@ ermächtigt, durch Rechtsverordnung
 
 
 ## Zweiter Abschnitt - Seelotswesen der Seelotsreviere
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000200414)
 
 
 
 ### 1. - Ordnung der Seelotsreviere
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000300414)
 
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE001805125)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, nach Anhörung der Küstenländer und der Bundeslotsenkammer
@@ -164,6 +173,7 @@ Aufsichtsbehörden übertragen.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE001901305)
 
 (1) Die zur Wahrnehmung der Lotsendienste erforderlichen
 Lotseinrichtungen (feste und schwimmende Lotsenstationen, Versetz- und
@@ -186,16 +196,19 @@ beauftragte natürliche oder juristische Personen.
 
 
 ### 2. - Bestallung der Seelotsinnen und Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000401125)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002001125)
 
 Wer den Beruf einer Seelotsin oder eines Seelotsen in einem
 Seelotsrevier ausüben will, bedarf einer Bestallung.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002102125)
 
 (1) Anträge auf Zulassung als Seelotsenanwärterin oder
 Seelotsenanwärter sind an die Aufsichtsbehörden zu richten.
@@ -207,6 +220,7 @@ Seelotsenanwärterinnen und Seelotsenanwärtern zu.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002206125)
 
 (1) Als Seelotsenanwärterin oder Seelotsenanwärter darf nur zugelassen
 werden, wer für den Beruf der Seelotsin oder des Seelotsen auf Grund
@@ -315,6 +329,7 @@ Bewerbungseingang nicht länger als drei Jahre zurückliegen.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002301125)
 
 Die Seelotsenanwärterin oder der Seelotsenanwärter hat sich der für
 das Seelotsrevier vorgeschriebenen Ausbildung und den Prüfungen nach
@@ -323,6 +338,7 @@ Rechtsverordnung zu unterziehen.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002403125)
 
 (1) Eignung und Zuverlässigkeit nach § 9 Absatz 1 Satz 1 müssen
 während der gesamten Dauer der Bestallung vorliegen. Nach bestandener
@@ -345,6 +361,7 @@ verhindern.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002501125)
 
 Die Lotsverordnung kann vorsehen, daß die Seelotsin oder der Seelotse
 nach ihrer oder seiner Bestallung für eine Übergangszeit nur Schiffe
@@ -352,6 +369,7 @@ bestimmter Art und Größe lotsen darf.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002602125)
 
 (1) Ein Seelotseignungszeugnis darf nur nach einer ärztlichen
 Untersuchung über die gesundheitliche Eignung
@@ -454,6 +472,7 @@ und 5 haben keine aufschiebende Wirkung.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002702125)
 
 (1) Die Bestallung ist nach Anhörung der Bundeslotsenkammer zu
 widerrufen, wenn
@@ -480,6 +499,7 @@ Zulassung nach § 9 Absatz 1 tritt.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002801125)
 
 Bestehen dringende Gründe für die Annahme, daß die Bestallung
 zurückgenommen oder widerrufen werden wird, so kann der Seelotsin oder
@@ -488,6 +508,7 @@ die Sicherheit der Schiffahrt erfordert.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE002904119)
 
 (1) Wird ein in § 9 Absatz 2 Nummer 1 oder Absatz 4 Nummer 1 oder 2
 genanntes Befähigungszeugnis von der zuständigen Behörde für eine
@@ -507,6 +528,7 @@ Seelotseignungszeugnis nachgewiesen ist.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003001125)
 
 Im Falle des Widerrufs der Bestallung nach § 14 kann die
 Aufsichtsbehörde, jedoch frühestens nach Ablauf eines Jahres, eine
@@ -516,6 +538,7 @@ seines Berufes genügen wird.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003101125)
 
 Die Bestallung erlischt, wenn die Seelotsin oder der Seelotse
 Altersruhegeld erhält, spätestens mit Ende des Monats, in dem die
@@ -524,6 +547,7 @@ vollendet.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003200414)
 
 (1) Wird ein Seelotsrevier aufgehoben, so sind die für dieses
 Seelotsrevier geltenden Bestallungen zu widerrufen und dafür auf
@@ -535,6 +559,7 @@ das neue Seelotsrevier.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003302125)
 
 (1) Die Seelotsin oder der Seelotse kann auf die Rechte aus der
 Bestallung verzichten.
@@ -565,10 +590,12 @@ naher Angehöriger, erklärt wird.
 
 
 ### 3. - Rechtsstellung und Pflichten der Seelotsinnen und Seelotsen
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000501125)
 
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003401125)
 
 (1) Die für ein Seelotsrevier bestallten Seelotsinnen und Seelotsen
 üben ihre Tätigkeit als freien, nicht gewerblichen Beruf aus.
@@ -590,6 +617,7 @@ Vorsatz oder grobe Fahrlässigkeit zur Last fällt.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003501125)
 
 Seelotsinnen und Seelotsen haben sich durch ihr Verhalten innerhalb
 und außerhalb des Dienstes der Achtung und des Vertrauens würdig zu
@@ -597,6 +625,7 @@ erweisen, die ihr Beruf erfordert.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003602125)
 
 (1) Die Seelotsin und der Seelotse haben die Kapitänin oder den
 Kapitän bei der Führung des Schiffes zu beraten. Die Beratung kann
@@ -626,6 +655,7 @@ stehen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003701125)
 
 (1) Seelotsinnen und Seelotsen haben ihre Lotstätigkeit so lange
 auszuüben, bis sie abgelöst oder von der Kapitänin oder dem Kapitän
@@ -644,6 +674,7 @@ oder des Kapitäns berechtigt.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003801125)
 
 (1) Die Seelotsin oder der Seelotse hat die für ihre oder seine
 Tätigkeit notwendigen Kenntnisse laufend zu ergänzen.
@@ -662,6 +693,7 @@ Schiffsführerin oder der Schiffsführer dies zulässt.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE003902125)
 
 (1) Die Seelotsin oder der Seelotse hat der von der Aufsichtsbehörde
 bestimmten Stelle und der Lotsenbrüderschaft unverzüglich auf
@@ -700,10 +732,12 @@ können.
 
 
 ### 4. - Lotsenbrüderschaften
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000600414)
 
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004001125)
 
 (1) Die für ein Seelotsrevier bestallten Seelotsinnen und Seelotsen
 bilden eine Lotsenbrüderschaft. Die Lotsenbrüderschaft ist eine
@@ -719,6 +753,7 @@ anteilmäßig getragen.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004104125)
 
 (1) Der Lotsenbrüderschaft obliegt es insbesondere,
 
@@ -807,6 +842,7 @@ Bundeslotsenkammer übertragen, soweit diese zustimmt.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004200414)
 
 (1) Der Sitz und die Verfassung der Lotsenbrüderschaft werden im
 Rahmen der folgenden Vorschriften durch die Satzung bestimmt.
@@ -823,6 +859,7 @@ vorläufige Satzung in Kraft setzen.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004300414)
 
 (1) Organe der Lotsenbrüderschaft sind der Ältermann und die
 Mitgliederversammlung.
@@ -832,6 +869,7 @@ Aufgabengebiete besondere Beauftragte zu bestellen sind.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004405125)
 
 (1) Der Ältermann vertritt die Lotsenbrüderschaft gerichtlich und
 außergerichtlich. Der Umfang seiner Vertretungsmacht kann durch die
@@ -857,6 +895,7 @@ digitale Infrastruktur nach Anhörung der Bundeslotsenkammer.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004500414)
 
 Die Angelegenheiten der Lotsenbrüderschaft werden, soweit sie nicht
 vom Ältermann oder einem anderen satzungsmäßig berufenen Vertreter zu
@@ -864,6 +903,7 @@ besorgen sind, durch Beschluß der Mitglieder geordnet.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004600414)
 
 Ein Mitglied ist nicht stimmberechtigt, wenn der Beschluß die Vornahme
 eines Rechtsgeschäftes mit ihm oder die Einleitung oder Erledigung
@@ -871,10 +911,12 @@ eines Rechtsstreites zwischen ihm und der Lotsenbrüderschaft betrifft.
 
 
 ### 5. - Bundeslotsenkammer
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000700414)
 
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004705305)
 
 (1) Die Lotsenbrüderschaften bilden die Bundeslotsenkammer. Die
 Bundeslotsenkammer ist eine Körperschaft des öffentlichen Rechts;
@@ -886,6 +928,7 @@ Aufsichtsbehörden nach § 6 Abs. 3 bleibt unberührt.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004802125)
 
 (1) Die Bundeslotsenkammer hat die ihr durch Gesetz oder Verordnung
 übertragenen Aufgaben zu erfüllen.
@@ -933,6 +976,7 @@ Aufsichtsbehörden nach § 6 Abs. 3 bleibt unberührt.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE004900414)
 
 Die Verfassung der Bundeslotsenkammer wird im Rahmen der folgenden
 Vorschriften durch die Satzung bestimmt. Die Vorschriften des § 29
@@ -940,6 +984,7 @@ Abs. 2 und 3 sind entsprechend anzuwenden.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005001414)
 
 (1) Organe der Bundeslotsenkammer sind der Vorsitzende und die
 Mitgliederversammlung.
@@ -955,6 +1000,7 @@ bestimmte Angelegenheiten besondere Beauftragte zu bestellen sind.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005105125)
 
 (1) Der Vorsitzende und sein Stellvertreter werden aus der Reihe der
 Seelotsinnen und Seelotsen von der Mitgliederversammlung auf die Dauer
@@ -973,6 +1019,7 @@ digitale Infrastruktur tritt.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005200414)
 
 (1) Die Angelegenheiten der Bundeslotsenkammer werden, soweit sie
 nicht vom Vorsitzenden oder einem anderen satzungsgemäß berufenen
@@ -986,6 +1033,7 @@ Bundeslotsenkammer sinngemäß anzuwenden.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005300414)
 
 Die Mitgliederversammlung stellt den Betrag fest, der zur Deckung des
 persönlichen und sachlichen Bedarfs erforderlich ist. Die
@@ -994,10 +1042,12 @@ hierfür erforderlichen Beiträge zu leisten.
 
 
 ### 6. - Aufsichtsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000800414)
 
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005400414)
 
 (1) Die Aufsichtsbehörde kann die Lotsenbrüderschaft zur Erfüllung
 ihrer Aufgaben unter Fristsetzung anhalten. Nach fruchtlosem Ablauf
@@ -1012,10 +1062,12 @@ und 2 entsprechend.
 
 
 ## Dritter Abschnitt - Seelotswesen außerhalb der Seelotsreviere
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG000900414)
 
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005501125)
 
 (1) Wer außerhalb eines Seelotsreviers die Tätigkeit einer Seelotsin
 oder eines Seelotsen ausüben will, bedarf einer Erlaubnis.
@@ -1057,6 +1109,7 @@ erteilt worden ist, Seelotsrevier oder Teil eines Seelotsreviers wird.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005605125)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung
@@ -1097,6 +1150,7 @@ ermächtigt, durch Rechtsverordnung
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005701125)
 
 Vereinbarungen von Seelotsinnen und Seelotsen, durch die das
 Seelotswesen eines bestimmten Fahrtgebietes geordnet wird, bedürfen
@@ -1104,10 +1158,12 @@ der Genehmigung der Aufsichtsbehörde.
 
 
 ## Vierter Abschnitt - Lotstarife
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG001000414)
 
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005805125)
 
 (1) Für die Bereitstellung der Lotseinrichtungen werden für ein
 Schiff, das ein Seelotsrevier befährt, Abgaben (Lotsabgaben) erhoben.
@@ -1173,17 +1229,21 @@ lassen oder annehmen.
 
 
 ## Fünfter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG001104123)
 
 
 
 ### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE005907123)
 
 
 ## Sechster Abschnitt - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG001200414)
 
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE006004125)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1240,10 +1300,12 @@ Euro geahndet werden.
 
 
 ## Siebter Abschnitt - Örtliche Zuständigkeit im gerichtlichen Verfahren; Seelotseignungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG001301125)
 
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE006102125)
 
 Für Streitigkeiten nach diesem Gesetz, für die der
 Verwaltungsrechtsweg gegeben ist, ist abweichend von § 52 der
@@ -1252,6 +1314,7 @@ zuständig.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE006201125)
 
 (1) Die Berufsgenossenschaft führt ein Verzeichnis über alle
 durchgeführten Seelotseignungsuntersuchungen
@@ -1401,10 +1464,12 @@ Identitätsnachweis beizufügen.
 
 
 ## Achter Abschnitt - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNG001400125)
 
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE006302125)
 
 Ist eine Ausbildung zur Seelotsin oder zum Seelotsen vor dem 1.
 Dezember 2022 begonnen worden, so wird sie nach der bis zum 30.
@@ -1415,6 +1480,7 @@ November 2022 geltenden Fassung dieses Gesetzes.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE006500125)
 
 Eine Genehmigung zur Ausübung des Seelotsenberufes in der bis zum 30.
 November 2022 geltenden Fassung dieses Gesetzes gilt für
@@ -1426,6 +1492,7 @@ fort.
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1108)
+[Direktlink](https://www.gesetze-im-internet.de/seelotg/BJNR210350954.html#BJNR210350954BJNE888800414)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

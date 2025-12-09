@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000100328)
 
 Auf Grund des § 27 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
@@ -27,6 +28,7 @@ Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
 
 
 ## § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000201360)
 
 (1) Soweit Wasserversorgungsunternehmen für den Anschluß an die
 öffentliche Wasserversorgung und für die öffentliche Versorgung mit
@@ -56,6 +58,7 @@ Preislisten in geeigneter Weise öffentlich bekanntzugeben.
 
 
 ## § 2 Vertragsabschluß
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000300328)
 
 (1) Der Vertrag soll schriftlich abgeschlossen werden. Ist er auf
 andere Weise zustande gekommen, so hat das
@@ -79,6 +82,7 @@ unentgeltlich auszuhändigen.
 
 
 ## § 3 Bedarfsdeckung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000400328)
 
 (1) Das Wasserversorgungsunternehmen hat dem Kunden im Rahmen des
 wirtschaftlich Zumutbaren die Möglichkeit einzuräumen, den Bezug auf
@@ -94,6 +98,7 @@ Rückwirkungen in das öffentliche Wasserversorgungsnetz möglich sind.
 
 
 ## § 4 Art der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000500328)
 
 (1) Das Wasserversorgungsunternehmen stellt zu den jeweiligen
 allgemeinen Versorgungsbedingungen einschließlich der dazugehörenden
@@ -122,6 +127,7 @@ obliegt es ihm selbst, die erforderlichen Vorkehrungen zu treffen.
 
 
 ## § 5 Umfang der Versorgung, Benachrichtigung bei Versorgungsunterbrechungen
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000600328)
 
 (1) Das Wasserversorgungsunternehmen ist verpflichtet, Wasser im
 vereinbarten Umfang jederzeit am Ende der Anschlußleitung zur
@@ -160,6 +166,7 @@ Benachrichtigung entfällt, wenn die Unterrichtung
 
 
 ## § 6 Haftung bei Versorgungsstörungen
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000701377)
 
 (1) Für Schäden, die ein Kunde durch Unterbrechung der
 Wasserversorgung oder durch Unregelmäßigkeiten in der Belieferung
@@ -220,11 +227,13 @@ Verpflichtung auch dem Dritten aufzuerlegen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000801377)
 
 (weggefallen)
 
 
 ## § 8 Grundstücksbenutzung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE000900328)
 
 (1) Kunden und Anschlußnehmer, die Grundstückseigentümer sind, haben
 für Zwecke der örtlichen Versorgung das Anbringen und Verlegen von
@@ -265,6 +274,7 @@ sind.
 
 
 ## § 9 Baukostenzuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001000328)
 
 (1) Das Wasserversorgungsunternehmen ist berechtigt, von den
 Anschlußnehmern einen angemessenen Baukostenzuschuß zur teilweisen
@@ -314,6 +324,7 @@ aufgegliedert auszuweisen.
 
 
 ## § 10 Hausanschluß
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001101360)
 
 (1) Der Hausanschluß besteht aus der Verbindung des Verteilungsnetzes
 mit der Kundenanlage. Er beginnt an der Abzweigstelle des
@@ -381,6 +392,7 @@ Verpflichtungen beizubringen.
 
 
 ## § 11 Meßeinrichtungen an der Grundstücksgrenze
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001200328)
 
 (1) Das Wasserversorgungsunternehmen kann verlangen, daß der
 Anschlußnehmer auf eigene Kosten nach seiner Wahl an der
@@ -413,6 +425,7 @@ einwandfreien Messung möglich ist.
 
 
 ## § 12 Kundenanlage
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001302118)
 
 (1) Für die ordnungsgemäße Errichtung, Erweiterung, Änderung und
 Unterhaltung der Anlage hinter dem Hausanschluß, mit Ausnahme der
@@ -444,6 +457,7 @@ ist, sind Bestandteile der Kundenanlage.
 
 
 ## § 13 Inbetriebsetzung der Kundenanlage
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001400328)
 
 (1) Das Wasserversorgungsunternehmen oder dessen Beauftragte schließen
 die Kundenanlage an das Verteilungsnetz an und setzen sie in Betrieb.
@@ -458,6 +472,7 @@ berechnet werden.
 
 
 ## § 14 Überprüfung der Kundenanlage
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001500328)
 
 (1) Das Wasserversorgungsunternehmen ist berechtigt, die Kundenanlage
 vor und nach ihrer Inbetriebsetzung zu überprüfen. Es hat den Kunden
@@ -478,6 +493,7 @@ festgestellt hat, die eine Gefahr für Leib oder Leben darstellen.
 
 
 ## § 15 Betrieb, Erweiterung und Änderung von Kundenanlage und Verbrauchseinrichtungen, Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001600328)
 
 (1) Anlage und Verbrauchseinrichtungen sind so zu betreiben, daß
 Störungen anderer Kunden, störende Rückwirkungen auf Einrichtungen des
@@ -492,6 +508,7 @@ Leistung wesentlich erhöht.
 
 
 ## § 16 Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001700328)
 
 Der Kunde hat dem mit einem Ausweis versehenen Beauftragten des
 Wasserversorgungsunternehmens den Zutritt zu seinen Räumen und zu den
@@ -503,6 +520,7 @@ erforderlich und vereinbart ist.
 
 
 ## § 17 Technische Anschlußbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001800328)
 
 (1) Das Wasserversorgungsunternehmen ist berechtigt, weitere
 technische Anforderungen an den Hausanschluß und andere Anlagenteile
@@ -522,6 +540,7 @@ vereinbaren sind.
 
 
 ## § 18 Messung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE001900328)
 
 (1) Das Wasserversorgungsunternehmen stellt die vom Kunden verbrauchte
 Wassermenge durch Meßeinrichtungen fest, die den eichrechtlichen
@@ -551,6 +570,7 @@ Frost zu schützen.
 
 
 ## § 19 Nachprüfung von Meßeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002002118)
 
 (1) Der Kunde kann jederzeit die Nachprüfung der Messeinrichtung nach
 § 39 des Mess- und Eichgesetzes verlangen. Stellt der Kunde den Antrag
@@ -563,6 +583,7 @@ dem Kunden.
 
 
 ## § 20 Ablesung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002100328)
 
 (1) Die Meßeinrichtungen werden vom Beauftragten des
 Wasserversorgungsunternehmens möglichst in gleichen Zeitabständen oder
@@ -577,6 +598,7 @@ tatsächlichen Verhältnisse sind angemessen zu berücksichtigen.
 
 
 ## § 21 Berechnungsfehler
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002200328)
 
 (1) Ergibt eine Prüfung der Meßeinrichtungen eine Überschreitung der
 Verkehrsfehlergrenzen oder werden Fehler in der Ermittlung des
@@ -597,6 +619,7 @@ diesem Fall ist der Anspruch auf längstens zwei Jahre beschränkt.
 
 
 ## § 22 Verwendung des Wassers
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002300328)
 
 (1) Das Wasser wird nur für die eigenen Zwecke des Kunden, seiner
 Mieter und ähnlich berechtigter Personen zur Verfügung gestellt. Die
@@ -626,6 +649,7 @@ Wasserzählern zu benutzen.
 
 
 ## § 23 Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002400328)
 
 (1) Entnimmt der Kunde Wasser unter Umgehung, Beeinflussung oder vor
 Anbringung der Meßeinrichtungen oder nach Einstellung der Versorgung,
@@ -652,6 +676,7 @@ hinaus für längstens ein Jahr erhoben werden.
 
 
 ## § 24 Abrechnung, Preisänderungsklauseln
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002500328)
 
 (1) Das Entgelt wird nach Wahl des Wasserversorgungsunternehmens
 monatlich oder in anderen Zeitabschnitten, die jedoch zwölf Monate
@@ -672,6 +697,7 @@ verständlicher Form ausgewiesen werden.
 
 
 ## § 25 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002600328)
 
 (1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann das
 Wasserversorgungsunternehmen für die nach der letzten Abrechnung
@@ -695,6 +721,7 @@ gezahlte Abschläge unverzüglich zu erstatten.
 
 
 ## § 26 Vordrucke für Rechnungen und Abschläge
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002700328)
 
 Vordrucke für Rechnungen und Abschläge müssen verständlich sein. Die
 für die Forderung maßgeblichen Berechnungsfaktoren sind vollständig
@@ -702,6 +729,7 @@ und in allgemein verständlicher Form auszuweisen.
 
 
 ## § 27 Zahlung, Verzug
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002800328)
 
 (1) Rechnungen und Abschläge werden zu dem vom
 Wasserversorgungsunternehmen angegebenen Zeitpunkt, frühestens jedoch
@@ -714,6 +742,7 @@ entstandenen Kosten auch pauschal berechnen.
 
 
 ## § 28 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE002900328)
 
 (1) Das Wasserversorgungsunternehmen ist berechtigt, für den
 Wasserverbrauch eines Abrechnungszeitraums Vorauszahlung zu verlangen,
@@ -738,6 +767,7 @@ Vorauszahlung verlangen.
 
 
 ## § 29 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003001377)
 
 (1) Ist der Kunde oder Anschlußnehmer zur Vorauszahlung nicht in der
 Lage, so kann das Wasserversorgungsunternehmen in angemessener Höhe
@@ -759,6 +789,7 @@ weggefallen sind.
 
 
 ## § 30 Zahlungsverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003100328)
 
 Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen zum
 Zahlungsaufschub oder zur Zahlungsverweigerung nur,
@@ -776,6 +807,7 @@ Zahlungsaufschub oder zur Zahlungsverweigerung nur,
 
 
 ## § 31 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003200328)
 
 Gegen Ansprüche des Wasserversorgungsunternehmens kann nur mit
 unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen
@@ -783,6 +815,7 @@ aufgerechnet werden.
 
 
 ## § 32 Laufzeit des Versorgungsvertrages, Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003300328)
 
 (1) Das Vertragsverhältnis läuft solange ununterbrochen weiter, bis es
 von einer der beiden Seiten mit einer Frist von einem Monat auf das
@@ -816,6 +849,7 @@ verlangen, ohne damit das Vertragsverhältnis zu lösen.
 
 
 ## § 33 Einstellung der Versorgung, fristlose Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003400328)
 
 (1) Das Wasserversorgungsunternehmen ist berechtigt, die Versorgung
 fristlos einzustellen, wenn der Kunde den allgemeinen
@@ -862,6 +896,7 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 ## § 34 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003501360)
 
 (1) Der Gerichtsstand für Kaufleute, juristische Personen des
 öffentlichen Rechts und öffentlich-rechtliche Sondervermögen ist am
@@ -883,6 +918,7 @@ Wasserversorgungsunternehmens.
 
 
 ## § 35 Öffentlich-rechtliche Versorgung mit Wasser
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003600328)
 
 (1) Rechtsvorschriften, die das Versorgungsverhältnis öffentlich-
 rechtlich regeln, sind den Bestimmungen dieser Verordnung entsprechend
@@ -896,10 +932,12 @@ zum 1. Januar 1982 anzupassen.
 
 
 ## § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003701360)
 
 
 
 ## § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003800328)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. April 1980 in Kraft.
 
@@ -915,6 +953,7 @@ Abrechnungszeiträume, die nach dem 31. Dezember 1980 beginnen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/avbwasserv/BJNR007500980.html#BJNR007500980BJNE003900328)
 
 Der Bundesminister für Wirtschaft
 

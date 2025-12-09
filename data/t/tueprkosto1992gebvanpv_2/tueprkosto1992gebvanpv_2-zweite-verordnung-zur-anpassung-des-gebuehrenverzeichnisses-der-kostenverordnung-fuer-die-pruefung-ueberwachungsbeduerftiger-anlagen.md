@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000100000)
 
 Auf Grund des § 19 Abs. 6 Satz 4 des Gerätesicherheitsgesetzes in der
 Fassung der Bekanntmachung vom 11. Mai 2001 (BGBl. I S. 866) in
@@ -30,6 +31,7 @@ Wirtschaft und Arbeit nach Anhörung der beteiligten Kreise:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000201377)
 
 Abweichend von § 1 der Kostenverordnung für die Prüfung
 überwachungsbedürftiger Anlagen vom 23. November 1992 (BGBl. I S.
@@ -44,16 +46,19 @@ dieser Verordnung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anhang I Gebühren für die Prüfung von Dampfkesselanlagen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000500000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2106 - 2110
 
@@ -638,6 +643,7 @@ wobei t die Teilung der Rohre in der Rohrwand bedeutet.
 
 
 ## Anhang II Gebühren für die Prüfung von Druckbehälteranlagen, Füllanlagen und Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000600000)
 
 (Fundstelle: BGBl. I 2003, 2111 - 2113)
 
@@ -1099,6 +1105,7 @@ Rohrleitungen werden folgende Gebühren erhoben:
 
 
 ## Anhang III Gebühren für die Prüfung von Aufzugsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000700000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2114 - 2116
 
@@ -1476,6 +1483,7 @@ Für die Prüfung von Aufzugsanlagen werden folgende Gebühren erhoben:
 
 
 ## Anhang IV Gebühren für die Prüfung von Lageranlagen, Füllstellen, Tankstellen, Flugfeldbetankungsanlagen und Entleerstellen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000800000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2117 - 2121
 
@@ -2199,6 +2207,7 @@ durchgeführt wird                                            0,20.
 
 
 ## Anhang V Gebühren für die Prüfung von Anlagen in explosionsgefährdeten Bereichen
+[Direktlink](https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv_2/BJNR210500003.html#BJNR210500003BJNE000900000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2122
 

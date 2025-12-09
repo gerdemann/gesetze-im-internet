@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/intkonnbek_1990/BJNR104390990.html#BJNR104390990BJNE000100308)
 
 Die nach Artikel 6 Abs. 3 des Einführungsgesetzes zum
 Handelsgesetzbuch durch Bekanntmachung vom 25. Juli 1986 (BGBl. I S.

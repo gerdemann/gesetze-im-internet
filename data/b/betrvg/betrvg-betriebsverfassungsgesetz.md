@@ -33,10 +33,12 @@ in Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000102308)
 
 
 
 ### § 1 Errichtung von Betriebsräten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003303308)
 
 (1) In Betrieben mit in der Regel mindestens fünf ständigen
 wahlberechtigten Arbeitnehmern, von denen drei wählbar sind, werden
@@ -59,6 +61,7 @@ Unternehmen.
 
 
 ### § 2 Stellung der Gewerkschaften und Vereinigungen der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003402308)
 
 (1) Arbeitgeber und Betriebsrat arbeiten unter Beachtung der geltenden
 Tarifverträge vertrauensvoll und im Zusammenwirken mit den im Betrieb
@@ -79,6 +82,7 @@ Mitglieder, werden durch dieses Gesetz nicht berührt.
 
 
 ### § 3 Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003503308)
 
 (1) Durch Tarifvertrag können bestimmt werden:
 
@@ -153,6 +157,7 @@ Rechtsstellung seiner Mitglieder Anwendung.
 
 
 ### § 4 Betriebsteile, Kleinstbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003603308)
 
 (1) Betriebsteile gelten als selbständige Betriebe, wenn sie die
 Voraussetzungen des § 1 Abs. 1 Satz 1 erfüllen und
@@ -178,6 +183,7 @@ erfüllen, sind dem Hauptbetrieb zuzuordnen.
 
 
 ### § 5 Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003707308)
 
 (1) Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) im Sinne dieses
 Gesetzes sind Arbeiter und Angestellte einschließlich der zu ihrer
@@ -272,19 +278,23 @@ Sätze 1 und 2 entsprechend.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003804308)
 
 (weggefallen)
 
 
 ## Zweiter Teil - Betriebsrat, Betriebsversammlung, Gesamt- und Konzernbetriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000202308)
 
 
 
 ### Erster Abschnitt - Zusammensetzung und Wahl des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000302308)
 
 
 
 #### § 7 Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE003904311)
 
 Wahlberechtigt sind alle Arbeitnehmer des Betriebs, die das 16.
 Lebensjahr vollendet haben. Werden Arbeitnehmer eines anderen
@@ -294,6 +304,7 @@ werden.
 
 
 #### § 8 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004003311)
 
 (1) Wählbar sind alle Wahlberechtigten, die das 18. Lebensjahr
 vollendet haben und sechs Monate dem Betrieb angehören oder als in
@@ -313,6 +324,7 @@ Einleitung der Betriebsratswahl im Betrieb beschäftigt sind und die
 
 
 #### § 9 Zahl der Betriebsratsmitglieder \*)
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004104308)
 
 Der Betriebsrat besteht in Betrieben mit in der Regel
 5 bis 20 wahlberechtigten Arbeitnehmern aus einer Person,
@@ -350,11 +362,13 @@ Arbeitnehmer um 2 Mitglieder.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004203308)
 
 (weggefallen)
 
 
 #### § 11 Ermäßigte Zahl der Betriebsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004302308)
 
 Hat ein Betrieb nicht die ausreichende Zahl von wählbaren
 Arbeitnehmern, so ist die Zahl der Betriebsratsmitglieder der
@@ -362,11 +376,13 @@ nächstniedrigeren Betriebsgröße zugrunde zu legen.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004403308)
 
 (weggefallen)
 
 
 #### § 13 Zeitpunkt der Betriebsratswahlen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004503308)
 
 (1) Die regelmäßigen Betriebsratswahlen finden alle vier Jahre in der
 Zeit vom 1. März bis 31. Mai statt. Sie sind zeitgleich mit den
@@ -412,6 +428,7 @@ Betriebsratswahlen neu zu wählen.
 
 
 #### § 14 Wahlvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004605311)
 
 (1) Der Betriebsrat wird in geheimer und unmittelbarer Wahl gewählt.
 
@@ -437,6 +454,7 @@ unterzeichnet sein.
 
 
 #### § 14a Vereinfachtes Wahlverfahren für Kleinbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017102311)
 
 (1) In Betrieben mit in der Regel fünf bis 100 wahlberechtigten
 Arbeitnehmern wird der Betriebsrat in einem zweistufigen Verfahren
@@ -471,6 +489,7 @@ Anwendung des vereinfachten Wahlverfahrens vereinbaren.
 
 
 #### § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter \*)
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004703308)
 
 (1) Der Betriebsrat soll sich möglichst aus Arbeitnehmern der
 einzelnen Organisationsbereiche und der verschiedenen
@@ -493,6 +512,7 @@ vertreten sein, wenn dieser aus mindestens drei Mitgliedern besteht.
 
 
 #### § 16 Bestellung des Wahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004805308)
 
 (1) Spätestens zehn Wochen vor Ablauf seiner Amtszeit bestellt der
 Betriebsrat einen aus drei Wahlberechtigten bestehenden Wahlvorstand
@@ -526,6 +546,7 @@ Absatz 1 gilt entsprechend.
 
 
 #### § 17 Bestellung des Wahlvorstands in Betrieben ohne Betriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE004903308)
 
 (1) Besteht in einem Betrieb, der die Voraussetzungen des § 1 Abs. 1
 Satz 1 erfüllt, kein Betriebsrat, so bestellt der Gesamtbetriebsrat
@@ -551,6 +572,7 @@ Abs. 2 gilt entsprechend.
 
 
 #### § 17a Bestellung des Wahlvorstands im vereinfachten Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017201308)
 
 Im Fall des § 14a finden die §§ 16 und 17 mit folgender Maßgabe
 Anwendung:
@@ -577,6 +599,7 @@ Anwendung:
 
 
 #### § 18 Vorbereitung und Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005003308)
 
 (1) Der Wahlvorstand hat die Wahl unverzüglich einzuleiten, sie
 durchzuführen und das Wahlergebnis festzustellen. Kommt der
@@ -598,6 +621,7 @@ ist eine Abschrift der Wahlniederschrift zu übersenden.
 
 
 #### § 18a Zuordnung der leitenden Angestellten bei Wahlen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016602308)
 
 (1) Sind die Wahlen nach § 13 Abs. 1 und nach § 5 Abs. 1 des
 Sprecherausschussgesetzes zeitgleich einzuleiten, so haben sich die
@@ -645,6 +669,7 @@ die Zuordnung offensichtlich fehlerhaft ist.
 
 
 #### § 19 Wahlanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005103311)
 
 (1) Die Wahl kann beim Arbeitsgericht angefochten werden, wenn gegen
 wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das
@@ -668,6 +693,7 @@ unrichtig ist und wenn diese Unrichtigkeit auf seinen Angaben beruht.
 
 
 #### § 20 Wahlschutz und Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005203308)
 
 (1) Niemand darf die Wahl des Betriebsrats behindern. Insbesondere
 darf kein Arbeitnehmer in der Ausübung des aktiven und passiven
@@ -685,10 +711,12 @@ Arbeitsentgelts.
 
 
 ### Zweiter Abschnitt - Amtszeit des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000402308)
 
 
 
 #### § 21 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005303308)
 
 Die regelmäßige Amtszeit des Betriebsrats beträgt vier Jahre. Die
 Amtszeit beginnt mit der Bekanntgabe des Wahlergebnisses oder, wenn zu
@@ -702,6 +730,7 @@ Bekanntgabe des Wahlergebnisses des neu gewählten Betriebsrats.
 
 
 #### § 21a Übergangsmandat \*)
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017301308)
 
 (1) Wird ein Betrieb gespalten, so bleibt dessen Betriebsrat im Amt
 und führt die Geschäfte für die ihm bislang zugeordneten Betriebsteile
@@ -737,6 +766,7 @@ Umwandlungsgesetz erfolgt.
 
 
 #### § 21b Restmandat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017401308)
 
 Geht ein Betrieb durch Stilllegung, Spaltung oder Zusammenlegung
 unter, so bleibt dessen Betriebsrat so lange im Amt, wie dies zur
@@ -745,6 +775,7 @@ Mitbestimmungsrechte erforderlich ist.
 
 
 #### § 22 Weiterführung der Geschäfte des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005402308)
 
 In den Fällen des § 13 Abs. 2 Nr. 1 bis 3 führt der Betriebsrat die
 Geschäfte weiter, bis der neue Betriebsrat gewählt und das
@@ -752,6 +783,7 @@ Wahlergebnis bekanntgegeben ist.
 
 
 #### § 23 Verletzung gesetzlicher Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005504308)
 
 (1) Mindestens ein Viertel der wahlberechtigten Arbeitnehmer, der
 Arbeitgeber oder eine im Betrieb vertretene Gewerkschaft können beim
@@ -783,6 +815,7 @@ Zwangsgeldes beträgt 10.000 Euro.
 
 
 #### § 24 Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005603308)
 
 Die Mitgliedschaft im Betriebsrat erlischt durch
 
@@ -811,6 +844,7 @@ Die Mitgliedschaft im Betriebsrat erlischt durch
 
 
 #### § 25 Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005804308)
 
 (1) Scheidet ein Mitglied des Betriebsrats aus, so rückt ein
 Ersatzmitglied nach. Dies gilt entsprechend für die Stellvertretung
@@ -829,10 +863,12 @@ der erreichten Stimmenzahlen.
 
 
 ### Dritter Abschnitt - Geschäftsführung des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000502308)
 
 
 
 #### § 26 Vorsitzender
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE005904308)
 
 (1) Der Betriebsrat wählt aus seiner Mitte den Vorsitzenden und dessen
 Stellvertreter.
@@ -846,6 +882,7 @@ berechtigt.
 
 
 #### § 27 Betriebsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006004308)
 
 (1) Hat ein Betriebsrat neun oder mehr Mitglieder, so bildet er einen
 Betriebsausschuss. Der Betriebsausschuss besteht aus dem Vorsitzenden
@@ -907,6 +944,7 @@ Betriebsratsmitglieder übertragen.
 
 
 #### § 28 Übertragung von Aufgaben auf Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006104308)
 
 (1) Der Betriebsrat kann in Betrieben mit mehr als 100 Arbeitnehmern
 Ausschüsse bilden und ihnen bestimmte Aufgaben übertragen. Für die
@@ -922,6 +960,7 @@ benannt werden.
 
 
 #### § 28a Übertragung von Aufgaben auf Arbeitsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017501308)
 
 (1) In Betrieben mit mehr als 100 Arbeitnehmern kann der Betriebsrat
 mit der Mehrheit der Stimmen seiner Mitglieder bestimmte Aufgaben auf
@@ -940,6 +979,7 @@ einigen, nimmt der Betriebsrat das Beteiligungsrecht wahr.
 
 
 #### § 29 Einberufung der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006205308)
 
 (1) Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand die
 Mitglieder des Betriebsrats zu der nach § 26 Abs. 1 vorgeschriebenen
@@ -972,6 +1012,7 @@ Arbeitgeber, der er angehört, hinzuziehen.
 
 
 #### § 30 Betriebsratssitzungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006303311)
 
 (1) Die Sitzungen des Betriebsrats finden in der Regel während der
 Arbeitszeit statt. Der Betriebsrat hat bei der Ansetzung von
@@ -1005,6 +1046,7 @@ Teilnahme vor Ort als erforderlich.
 
 
 #### § 31 Teilnahme der Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006403308)
 
 Auf Antrag von einem Viertel der Mitglieder des Betriebsrats kann ein
 Beauftragter einer im Betriebsrat vertretenen Gewerkschaft an den
@@ -1013,6 +1055,7 @@ Sitzung und die Tagesordnung der Gewerkschaft rechtzeitig mitzuteilen.
 
 
 #### § 32 Teilnahme der Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006506119)
 
 Die Schwerbehindertenvertretung (§ 177 des Neunten Buches
 Sozialgesetzbuch) kann an allen Sitzungen des Betriebsrats beratend
@@ -1020,6 +1063,7 @@ teilnehmen.
 
 
 #### § 33 Beschlüsse des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006604311)
 
 (1) Die Beschlüsse des Betriebsrats werden, soweit in diesem Gesetz
 nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der
@@ -1038,6 +1082,7 @@ mitgezählt.
 
 
 #### § 34 Sitzungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006703311)
 
 (1) Über jede Verhandlung des Betriebsrats ist eine Niederschrift
 aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die
@@ -1061,6 +1106,7 @@ des Betriebsrats und seiner Ausschüsse jederzeit einzusehen.
 
 
 #### § 35 Aussetzung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006805308)
 
 (1) Erachtet die Mehrheit der Jugend- und Auszubildendenvertretung
 oder die Schwerbehindertenvertretung einen Beschluss des Betriebsrats
@@ -1078,6 +1124,7 @@ Beschluss nur unerheblich geändert wird.
 
 
 #### § 36 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE006902308)
 
 Sonstige Bestimmungen über die Geschäftsführung sollen in einer
 schriftlichen Geschäftsordnung getroffen werden, die der Betriebsrat
@@ -1085,6 +1132,7 @@ mit der Mehrheit der Stimmen seiner Mitglieder beschließt.
 
 
 #### § 37 Ehrenamtliche Tätigkeit, Arbeitsversäumnis
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007005126)
 
 (1) Die Mitglieder des Betriebsrats führen ihr Amt unentgeltlich als
 Ehrenamt.
@@ -1159,6 +1207,7 @@ waren, auf vier Wochen. Absatz 6 Satz 2 bis 6 findet Anwendung.
 
 
 #### § 38 Freistellungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007104308)
 
 (1) Von ihrer beruflichen Tätigkeit sind mindestens freizustellen in
 Betrieben mit in der Regel
@@ -1268,6 +1317,7 @@ auf zwei Jahre.
 
 
 #### § 39 Sprechstunden
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007203308)
 
 (1) Der Betriebsrat kann während der Arbeitszeit Sprechstunden
 einrichten. Zeit und Ort sind mit dem Arbeitgeber zu vereinbaren.
@@ -1287,6 +1337,7 @@ Arbeitnehmers.
 
 
 #### § 40 Kosten und Sachaufwand des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007303308)
 
 (1) Die durch die Tätigkeit des Betriebsrats entstehenden Kosten trägt
 der Arbeitgeber.
@@ -1298,16 +1349,19 @@ Büropersonal zur Verfügung zu stellen.
 
 
 #### § 41 Umlageverbot
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007402308)
 
 Die Erhebung und Leistung von Beiträgen der Arbeitnehmer für Zwecke
 des Betriebsrats ist unzulässig.
 
 
 ### Vierter Abschnitt - Betriebsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000602308)
 
 
 
 #### § 42 Zusammensetzung, Teilversammlung, Abteilungsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007502308)
 
 (1) Die Betriebsversammlung besteht aus den Arbeitnehmern des
 Betriebs; sie wird von dem Vorsitzenden des Betriebsrats geleitet. Sie
@@ -1325,6 +1379,7 @@ und 3 gilt entsprechend.
 
 
 #### § 43 Regelmäßige Betriebs- und Abteilungsversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007603308)
 
 (1) Der Betriebsrat hat einmal in jedem Kalendervierteljahr eine
 Betriebsversammlung einzuberufen und in ihr einen Tätigkeitsbericht zu
@@ -1363,6 +1418,7 @@ Abteilungsversammlungen durchgeführt worden sind.
 
 
 #### § 44 Zeitpunkt und Verdienstausfall
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007703308)
 
 (1) Die in den §§ 14a, 17 und 43 Abs. 1 bezeichneten und die auf
 Wunsch des Arbeitgebers einberufenen Versammlungen finden während der
@@ -1383,6 +1439,7 @@ Arbeitgeber nicht, das Arbeitsentgelt der Arbeitnehmer zu mindern.
 
 
 #### § 45 Themen der Betriebs- und Abteilungsversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007804308)
 
 Die Betriebs- und Abteilungsversammlungen können Angelegenheiten
 einschließlich solcher tarifpolitischer, sozialpolitischer,
@@ -1397,6 +1454,7 @@ Stellung nehmen.
 
 
 #### § 46 Beauftragte der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE007902308)
 
 (1) An den Betriebs- oder Abteilungsversammlungen können Beauftragte
 der im Betrieb vertretenen Gewerkschaften beratend teilnehmen. Nimmt
@@ -1410,10 +1468,12 @@ Gewerkschaften rechtzeitig schriftlich mitzuteilen.
 
 
 ### Fünfter Abschnitt - Gesamtbetriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000702308)
 
 
 
 #### § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht \*)
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008004308)
 
 (1) Bestehen in einem Unternehmen mehrere Betriebsräte, so ist ein
 Gesamtbetriebsrat zu errichten.
@@ -1473,6 +1533,7 @@ abweichende Regelungen getroffen werden.
 
 
 #### § 48 Ausschluss von Gesamtbetriebsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008102308)
 
 Mindestens ein Viertel der wahlberechtigten Arbeitnehmer des
 Unternehmens, der Arbeitgeber, der Gesamtbetriebsrat oder eine im
@@ -1482,6 +1543,7 @@ Verletzung seiner gesetzlichen Pflichten beantragen.
 
 
 #### § 49 Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008202308)
 
 Die Mitgliedschaft im Gesamtbetriebsrat endet mit dem Erlöschen der
 Mitgliedschaft im Betriebsrat, durch Amtsniederlegung, durch
@@ -1490,6 +1552,7 @@ Entscheidung oder Abberufung durch den Betriebsrat.
 
 
 #### § 50 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008303308)
 
 (1) Der Gesamtbetriebsrat ist zuständig für die Behandlung von
 Angelegenheiten, die das Gesamtunternehmen oder mehrere Betriebe
@@ -1506,6 +1569,7 @@ entsprechend.
 
 
 #### § 51 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008405311)
 
 (1) Für den Gesamtbetriebsrat gelten § 25 Abs. 1, die §§ 26, 27 Abs. 2
 und 3, § 28 Abs. 1 Satz 1 und 3, Abs. 2, die §§ 30, 31, 34, 35, 36, 37
@@ -1579,6 +1643,7 @@ keine besonderen Vorschriften enthält.
 
 
 #### § 52 Teilnahme der Gesamtschwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008506119)
 
 Die Gesamtschwerbehindertenvertretung (§ 180 Absatz 1 des Neunten
 Buches Sozialgesetzbuch) kann an allen Sitzungen des
@@ -1586,6 +1651,7 @@ Gesamtbetriebsrats beratend teilnehmen.
 
 
 #### § 53 Betriebsräteversammlung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008604308)
 
 (1) Mindestens einmal in jedem Kalenderjahr hat der Gesamtbetriebsrat
 die Vorsitzenden und die stellvertretenden Vorsitzenden der
@@ -1619,10 +1685,12 @@ und 46 entsprechend.
 
 
 ### Sechster Abschnitt - Konzernbetriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000802308)
 
 
 
 #### § 54 Errichtung des Konzernbetriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008703308)
 
 (1) Für einen Konzern (§ 18 Abs. 1 des Aktiengesetzes) kann durch
 Beschlüsse der einzelnen Gesamtbetriebsräte ein Konzernbetriebsrat
@@ -1637,6 +1705,7 @@ dieses Abschnitts wahr.
 
 
 #### § 55 Zusammensetzung des Konzernbetriebsrats, Stimmengewicht
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008804308)
 
 (1) In den Konzernbetriebsrat entsendet jeder Gesamtbetriebsrat zwei
 seiner Mitglieder. Die Geschlechter sollen angemessen berücksichtigt
@@ -1655,6 +1724,7 @@ geregelt werden. § 47 Abs. 5 bis 9 gilt entsprechend.
 
 
 #### § 56 Ausschluss von Konzernbetriebsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE008902308)
 
 Mindestens ein Viertel der wahlberechtigten Arbeitnehmer der
 Konzernunternehmen, der Arbeitgeber, der Konzernbetriebsrat oder eine
@@ -1664,6 +1734,7 @@ Verletzung seiner gesetzlichen Pflichten beantragen.
 
 
 #### § 57 Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009002308)
 
 Die Mitgliedschaft im Konzernbetriebsrat endet mit dem Erlöschen der
 Mitgliedschaft im Gesamtbetriebsrat, durch Amtsniederlegung, durch
@@ -1672,6 +1743,7 @@ Entscheidung oder Abberufung durch den Gesamtbetriebsrat.
 
 
 #### § 58 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009103308)
 
 (1) Der Konzernbetriebsrat ist zuständig für die Behandlung von
 Angelegenheiten, die den Konzern oder mehrere Konzernunternehmen
@@ -1690,6 +1762,7 @@ entsprechend.
 
 
 #### § 59 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009204308)
 
 (1) Für den Konzernbetriebsrat gelten § 25 Abs. 1, die §§ 26, 27 Abs.
 2 und 3, § 28 Abs. 1 Satz 1 und 3, Abs. 2, die §§ 30, 31, 34, 35, 36,
@@ -1708,6 +1781,7 @@ bestellt hat. § 29 Abs. 2 bis 4 gilt entsprechend.
 
 
 #### § 59a Teilnahme der Konzernschwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017602119)
 
 Die Konzernschwerbehindertenvertretung (§ 180 Absatz 2 des Neunten
 Buches Sozialgesetzbuch) kann an allen Sitzungen des
@@ -1715,14 +1789,17 @@ Konzernbetriebsrats beratend teilnehmen.
 
 
 ## Dritter Teil - Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG000903308)
 
 
 
 ### Erster Abschnitt - Betriebliche Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001003308)
 
 
 
 #### § 60 Errichtung und Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009304311)
 
 (1) In Betrieben mit in der Regel mindestens fünf Arbeitnehmern, die
 das 18. Lebensjahr noch nicht vollendet haben (jugendliche
@@ -1735,6 +1812,7 @@ genannten Arbeitnehmer wahr.
 
 
 #### § 61 Wahlberechtigung und Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009404311)
 
 (1) Wahlberechtigt sind alle in § 60 Abs. 1 genannten Arbeitnehmer des
 Betriebs.
@@ -1747,6 +1825,7 @@ Auszubildendenvertretern gewählt werden.
 
 
 #### § 62 Zahl der Jugend- und Auszubildendenvertreter, Zusammensetzung der Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009504308)
 
 (1) Die Jugend- und Auszubildendenvertretung besteht in Betrieben mit
 in der Regel
@@ -1778,6 +1857,7 @@ drei Mitgliedern besteht.
 
 
 #### § 63 Wahlvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009607311)
 
 (1) Die Jugend- und Auszubildendenvertretung wird in geheimer und
 unmittelbarer Wahl gewählt.
@@ -1808,6 +1888,7 @@ genannten Arbeitnehmer gilt § 14a Abs. 5 entsprechend.
 
 
 #### § 64 Zeitpunkt der Wahlen und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009704311)
 
 (1) Die regelmäßigen Wahlen der Jugend- und Auszubildendenvertretung
 finden alle zwei Jahre in der Zeit vom 1. Oktober bis 30. November
@@ -1833,6 +1914,7 @@ Mitglied der Jugend- und Auszubildendenvertretung.
 
 
 #### § 65 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009804308)
 
 (1) Für die Jugend- und Auszubildendenvertretung gelten § 23 Abs. 1,
 die §§ 24, 25, 26, 28 Abs. 1 Satz 1 und 2, die §§ 30, 31, 33 Abs. 1
@@ -1845,6 +1927,7 @@ Betriebsratsmitglied teilnehmen.
 
 
 #### § 66 Aussetzung von Beschlüssen des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE009903308)
 
 (1) Erachtet die Mehrheit der Jugend- und Auszubildendenvertreter
 einen Beschluss des Betriebsrats als eine erhebliche Beeinträchtigung
@@ -1860,6 +1943,7 @@ Beschluss nur unerheblich geändert wird.
 
 
 #### § 67 Teilnahme an Betriebsratssitzungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010003308)
 
 (1) Die Jugend- und Auszubildendenvertretung kann zu allen
 Betriebsratssitzungen einen Vertreter entsenden. Werden
@@ -1880,6 +1964,7 @@ Jugend- und Auszubildendenvertretung zur Beratung zuleiten.
 
 
 #### § 68 Teilnahme an gemeinsamen Besprechungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010103308)
 
 Der Betriebsrat hat die Jugend- und Auszubildendenvertretung zu
 Besprechungen zwischen Arbeitgeber und Betriebsrat beizuziehen, wenn
@@ -1888,6 +1973,7 @@ genannten Arbeitnehmer betreffen.
 
 
 #### § 69 Sprechstunden
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010203308)
 
 In Betrieben, die in der Regel mehr als fünfzig der in § 60 Abs. 1
 genannten Arbeitnehmer beschäftigen, kann die Jugend- und
@@ -1900,6 +1986,7 @@ beratend teilnehmen.
 
 
 #### § 70 Allgemeine Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010304308)
 
 (1) Die Jugend- und Auszubildendenvertretung hat folgende allgemeine
 Aufgaben:
@@ -1944,6 +2031,7 @@ Aufgaben erforderlichen Unterlagen zur Verfügung stellt.
 
 
 #### § 71 Jugend- und Auszubildendenversammlung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010403308)
 
 Die Jugend- und Auszubildendenvertretung kann vor oder nach jeder
 Betriebsversammlung im Einvernehmen mit dem Betriebsrat eine
@@ -1955,10 +2043,12 @@ Abs. 2 Satz 2 gelten entsprechend.
 
 
 ### Zweiter Abschnitt - Gesamt-Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001103308)
 
 
 
 #### § 72 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010504308)
 
 (1) Bestehen in einem Unternehmen mehrere Jugend- und
 Auszubildendenvertretungen, so ist eine Gesamt-Jugend- und
@@ -2009,6 +2099,7 @@ abweichende Regelungen getroffen werden.
 
 
 #### § 73 Geschäftsführung und Geltung sonstiger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010604308)
 
 (1) Die Gesamt-Jugend- und Auszubildendenvertretung kann nach
 Verständigung des Gesamtbetriebsrats Sitzungen abhalten. An den
@@ -2022,10 +2113,12 @@ bis 3, die §§ 40, 41, 48, 49, 50, 51 Abs. 2 bis 5 sowie die §§ 66 bis
 
 
 ### Dritter Abschnitt - Konzern-Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG003101308)
 
 
 
 #### § 73a Voraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017701308)
 
 (1) Bestehen in einem Konzern (§ 18 Abs. 1 des Aktiengesetzes) mehrere
 Gesamt-Jugend- und Auszubildendenvertretungen, kann durch Beschlüsse
@@ -2052,6 +2145,7 @@ Jugend- und Auszubildendenvertretung insgesamt Stimmen haben.
 
 
 #### § 73b Geschäftsführung und Geltung sonstiger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017801308)
 
 (1) Die Konzern-Jugend- und Auszubildendenvertretung kann nach
 Verständigung des Konzernbetriebsrats Sitzungen abhalten. An den
@@ -2065,14 +2159,17 @@ und die §§ 66 bis 68 entsprechend.
 
 
 ## Vierter Teil - Mitwirkung und Mitbestimmung der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001202308)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001302308)
 
 
 
 #### § 74 Grundsätze für die Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010703308)
 
 (1) Arbeitgeber und Betriebsrat sollen mindestens einmal im Monat zu
 einer Besprechung zusammentreten. Sie haben über strittige Fragen mit
@@ -2095,6 +2192,7 @@ Betrieb nicht beschränkt.
 
 
 #### § 75 Grundsätze für die Behandlung der Betriebsangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010804308)
 
 (1) Arbeitgeber und Betriebsrat haben darüber zu wachen, dass alle im
 Betrieb tätigen Personen nach den Grundsätzen von Recht und Billigkeit
@@ -2112,6 +2210,7 @@ Arbeitnehmer und Arbeitsgruppen zu fördern.
 
 
 #### § 76 Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE010904311)
 
 (1) Zur Beilegung von Meinungsverschiedenheiten zwischen Arbeitgeber
 und Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat ist bei
@@ -2168,6 +2267,7 @@ Schlichtungsstelle tritt.
 
 
 #### § 76a Kosten der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016704308)
 
 (1) Die Kosten der Einigungsstelle trägt der Arbeitgeber.
 
@@ -2202,6 +2302,7 @@ werden.
 
 
 #### § 77 Durchführung gemeinsamer Beschlüsse, Betriebsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011003311)
 
 (1) Vereinbarungen zwischen Betriebsrat und Arbeitgeber, auch soweit
 sie auf einem Spruch der Einigungsstelle beruhen, führt der
@@ -2243,6 +2344,7 @@ durch eine andere Abmachung ersetzt werden.
 
 
 #### § 78 Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011106126)
 
 Die Mitglieder des Betriebsrats, des Gesamtbetriebsrats, des
 Konzernbetriebsrats, der Jugend- und Auszubildendenvertretung, der
@@ -2264,6 +2366,7 @@ erfolgt.
 
 
 #### § 78a Schutz Auszubildender in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011203308)
 
 (1) Beabsichtigt der Arbeitgeber, einen Auszubildenden, der Mitglied
 der Jugend- und Auszubildendenvertretung, des Betriebsrats, der
@@ -2311,6 +2414,7 @@ Arbeitgeber seiner Mitteilungspflicht nach Absatz 1 nachgekommen ist.
 
 
 #### § 79 Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011304308)
 
 (1) Die Mitglieder und Ersatzmitglieder des Betriebsrats sind
 verpflichtet, Betriebs- oder Geschäftsgeheimnisse, die ihnen wegen
@@ -2338,6 +2442,7 @@ oder von Arbeitgebervereinigungen.
 
 
 #### § 79a Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE018200311)
 
 Bei der Verarbeitung personenbezogener Daten hat der Betriebsrat die
 Vorschriften über den Datenschutz einzuhalten. Soweit der Betriebsrat
@@ -2355,6 +2460,7 @@ der oder des Datenschutzbeauftragten zum Arbeitgeber.
 
 
 #### § 80 Allgemeine Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011409311)
 
 (1) Der Betriebsrat hat folgende allgemeine Aufgaben:
 
@@ -2445,10 +2551,12 @@ Sachverständigen gilt § 79 entsprechend.
 
 
 ### Zweiter Abschnitt - Mitwirkungs- und Beschwerderecht des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001402308)
 
 
 
 #### § 81 Unterrichtungs- und Erörterungspflicht des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011504308)
 
 (1) Der Arbeitgeber hat den Arbeitnehmer über dessen Aufgabe und
 Verantwortung sowie über die Art seiner Tätigkeit und ihre Einordnung
@@ -2482,6 +2590,7 @@ des Betriebsrats hinzuziehen.
 
 
 #### § 82 Anhörungs- und Erörterungsrecht des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011602308)
 
 (1) Der Arbeitnehmer hat das Recht, in betrieblichen Angelegenheiten,
 die seine Person betreffen, von den nach Maßgabe des organisatorischen
@@ -2501,6 +2610,7 @@ Verpflichtung entbunden wird.
 
 
 #### § 83 Einsicht in die Personalakten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011702308)
 
 (1) Der Arbeitnehmer hat das Recht, in die über ihn geführten
 Personalakten Einsicht zu nehmen. Er kann hierzu ein Mitglied des
@@ -2514,6 +2624,7 @@ dieser auf sein Verlangen beizufügen.
 
 
 #### § 84 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011802308)
 
 (1) Jeder Arbeitnehmer hat das Recht, sich bei den zuständigen Stellen
 des Betriebs zu beschweren, wenn er sich vom Arbeitgeber oder von
@@ -2530,6 +2641,7 @@ Nachteile entstehen.
 
 
 #### § 85 Behandlung von Beschwerden durch den Betriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE011902308)
 
 (1) Der Betriebsrat hat Beschwerden von Arbeitnehmern entgegenzunehmen
 und, falls er sie für berechtigt erachtet, beim Arbeitgeber auf
@@ -2547,6 +2659,7 @@ Beschwerde zu unterrichten. § 84 Abs. 2 bleibt unberührt.
 
 
 #### § 86 Ergänzende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012002308)
 
 Durch Tarifvertrag oder Betriebsvereinbarung können die Einzelheiten
 des Beschwerdeverfahrens geregelt werden. Hierbei kann bestimmt
@@ -2555,6 +2668,7 @@ Einigungsstelle eine betriebliche Beschwerdestelle tritt.
 
 
 #### § 86a Vorschlagsrecht der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017901308)
 
 Jeder Arbeitnehmer hat das Recht, dem Betriebsrat Themen zur Beratung
 vorzuschlagen. Wird ein Vorschlag von mindestens 5 vom Hundert der
@@ -2564,10 +2678,12 @@ Betriebsratssitzung zu setzen.
 
 
 ### Dritter Abschnitt - Soziale Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001502308)
 
 
 
 #### § 87 Mitbestimmungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012104311)
 
 (1) Der Betriebsrat hat, soweit eine gesetzliche oder tarifliche
 Regelung nicht besteht, in folgenden Angelegenheiten mitzubestimmen:
@@ -2644,6 +2760,7 @@ Betriebsrat.
 
 
 #### § 88 Freiwillige Betriebsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012204119)
 
 Durch Betriebsvereinbarung können insbesondere geregelt werden
 
@@ -2672,6 +2789,7 @@ Durch Betriebsvereinbarung können insbesondere geregelt werden
 
 
 #### § 89 Arbeits- und betrieblicher Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012304308)
 
 (1) Der Betriebsrat hat sich dafür einzusetzen, dass die Vorschriften
 über den Arbeitsschutz und die Unfallverhütung im Betrieb sowie über
@@ -2712,10 +2830,12 @@ unterschreibenden Unfallanzeige auszuhändigen.
 
 
 ### Vierter Abschnitt - Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001602308)
 
 
 
 #### § 90 Unterrichtungs- und Beratungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012404311)
 
 (1) Der Arbeitgeber hat den Betriebsrat über die Planung
 
@@ -2748,6 +2868,7 @@ Gestaltung der Arbeit berücksichtigen.
 
 
 #### § 91 Mitbestimmungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012502308)
 
 Werden die Arbeitnehmer durch Änderungen der Arbeitsplätze, des
 Arbeitsablaufs oder der Arbeitsumgebung, die den gesicherten
@@ -2761,14 +2882,17 @@ und Betriebsrat.
 
 
 ### Fünfter Abschnitt - Personelle Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001702308)
 
 
 
 #### Erster Unterabschnitt - Allgemeine personelle Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001802308)
 
 
 
 ##### § 92 Personalplanung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012606119)
 
 (1) Der Arbeitgeber hat den Betriebsrat über die Personalplanung,
 insbesondere über den gegenwärtigen und künftigen Personalbedarf sowie
@@ -2791,6 +2915,7 @@ Menschen nach § 80 Absatz 1 Nummer 4.
 
 
 ##### § 92a Beschäftigungssicherung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE018002308)
 
 (1) Der Betriebsrat kann dem Arbeitgeber Vorschläge zur Sicherung und
 Förderung der Beschäftigung machen. Diese können insbesondere eine
@@ -2810,6 +2935,7 @@ Arbeit hinzuziehen.
 
 
 ##### § 93 Ausschreibung von Arbeitsplätzen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012704308)
 
 Der Betriebsrat kann verlangen, dass Arbeitsplätze, die besetzt werden
 sollen, allgemein oder für bestimmte Arten von Tätigkeiten vor ihrer
@@ -2817,6 +2943,7 @@ Besetzung innerhalb des Betriebs ausgeschrieben werden.
 
 
 ##### § 94 Personalfragebogen, Beurteilungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012802308)
 
 (1) Personalfragebogen bedürfen der Zustimmung des Betriebsrats. Kommt
 eine Einigung über ihren Inhalt nicht zustande, so entscheidet die
@@ -2830,6 +2957,7 @@ Beurteilungsgrundsätze.
 
 
 ##### § 95 Auswahlrichtlinien
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE012904311)
 
 (1) Richtlinien über die personelle Auswahl bei Einstellungen,
 Versetzungen, Umgruppierungen und Kündigungen bedürfen der Zustimmung
@@ -2861,10 +2989,12 @@ nicht als Versetzung.
 
 
 #### Zweiter Unterabschnitt - Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG001902308)
 
 
 
 ##### § 96 Förderung der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013005311)
 
 (1) Arbeitgeber und Betriebsrat haben im Rahmen der betrieblichen
 Personalplanung und in Zusammenarbeit mit den für die Berufsbildung
@@ -2888,6 +3018,7 @@ Familienpflichten zu berücksichtigen.
 
 
 ##### § 97 Einrichtungen und Maßnahmen der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013103308)
 
 (1) Der Arbeitgeber hat mit dem Betriebsrat über die Errichtung und
 Ausstattung betrieblicher Einrichtungen zur Berufsbildung, die
@@ -2905,6 +3036,7 @@ zwischen Arbeitgeber und Betriebsrat.
 
 
 ##### § 98 Durchführung betrieblicher Bildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013204308)
 
 (1) Der Betriebsrat hat bei der Durchführung von Maßnahmen der
 betrieblichen Berufsbildung mitzubestimmen.
@@ -2950,10 +3082,12 @@ sonstige Bildungsmaßnahmen im Betrieb durchführt.
 
 
 #### Dritter Unterabschnitt - Personelle Einzelmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002002308)
 
 
 
 ##### § 99 Mitbestimmung bei personellen Einzelmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013303308)
 
 (1) In Unternehmen mit in der Regel mehr als zwanzig wahlberechtigten
 Arbeitnehmern hat der Arbeitgeber den Betriebsrat vor jeder
@@ -3023,6 +3157,7 @@ ersetzen.
 
 
 ##### § 100 Vorläufige personelle Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013402308)
 
 (1) Der Arbeitgeber kann, wenn dies aus sachlichen Gründen dringend
 erforderlich ist, die personelle Maßnahme im Sinne des § 99 Abs. 1
@@ -3050,6 +3185,7 @@ werden.
 
 
 ##### § 101 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013504308)
 
 Führt der Arbeitgeber eine personelle Maßnahme im Sinne des § 99 Abs.
 1 Satz 1 ohne Zustimmung des Betriebsrats durch oder hält er eine
@@ -3064,6 +3200,7 @@ des Zwangsgeldes beträgt für jeden Tag der Zuwiderhandlung 250 Euro.
 
 
 ##### § 102 Mitbestimmung bei Kündigungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013603308)
 
 (1) Der Betriebsrat ist vor jeder Kündigung zu hören. Der Arbeitgeber
 hat ihm die Gründe für die Kündigung mitzuteilen. Eine ohne Anhörung
@@ -3145,6 +3282,7 @@ Kündigungsschutzgesetz bleiben unberührt.
 
 
 ##### § 103 Außerordentliche Kündigung und Versetzung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013705311)
 
 (1) Die außerordentliche Kündigung von Mitgliedern des Betriebsrats,
 der Jugend- und Auszubildendenvertretung, der Bordvertretung und des
@@ -3172,6 +3310,7 @@ notwendig ist.
 
 
 ##### § 104 Entfernung betriebsstörender Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013806308)
 
 Hat ein Arbeitnehmer durch gesetzwidriges Verhalten oder durch grobe
 Verletzung der in § 75 Abs. 1 enthaltenen Grundsätze, insbesondere
@@ -3189,6 +3328,7 @@ Höchstmaß des Zwangsgeldes beträgt für jeden Tag der Zuwiderhandlung
 
 
 ##### § 105 Leitende Angestellte
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE013902308)
 
 Eine beabsichtigte Einstellung oder personelle Veränderung eines in §
 5 Abs. 3 genannten leitenden Angestellten ist dem Betriebsrat
@@ -3196,14 +3336,17 @@ rechtzeitig mitzuteilen.
 
 
 ### Sechster Abschnitt - Wirtschaftliche Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002102308)
 
 
 
 #### Erster Unterabschnitt - Unterrichtung in wirtschaftlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002202308)
 
 
 
 ##### § 106 Wirtschaftsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014006126)
 
 (1) In allen Unternehmen mit in der Regel mehr als einhundert ständig
 beschäftigten Arbeitnehmern ist ein Wirtschaftsausschuss zu bilden.
@@ -3275,6 +3418,7 @@ gehören insbesondere
 
 
 ##### § 107 Bestellung und Zusammensetzung des Wirtschaftsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014102308)
 
 (1) Der Wirtschaftsausschuss besteht aus mindestens drei und höchstens
 sieben Mitgliedern, die dem Unternehmen angehören müssen, darunter
@@ -3312,6 +3456,7 @@ Wirtschaftsausschusses; die Sätze 1 bis 5 gelten entsprechend.
 
 
 ##### § 108 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014203308)
 
 (1) Der Wirtschaftsausschuss soll monatlich einmal zusammentreten.
 
@@ -3336,6 +3481,7 @@ gelten die Absätze 1 bis 5 entsprechend.
 
 
 ##### § 109 Beilegung von Meinungsverschiedenheiten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014303308)
 
 Wird eine Auskunft über wirtschaftliche Angelegenheiten des
 Unternehmens im Sinn des § 106 entgegen dem Verlangen des
@@ -3351,6 +3497,7 @@ beschlossen, so gilt Satz 1 entsprechend.
 
 
 ##### § 109a Unternehmensübernahme
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE018100308)
 
 In Unternehmen, in denen kein Wirtschaftsausschuss besteht, ist im
 Fall des § 106 Abs. 3 Nr. 9a der Betriebsrat entsprechend § 106 Abs. 1
@@ -3358,6 +3505,7 @@ und 2 zu beteiligen; § 109 gilt entsprechend.
 
 
 ##### § 110 Unterrichtung der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014402308)
 
 (1) In Unternehmen mit in der Regel mehr als 1.000 ständig
 beschäftigten Arbeitnehmern hat der Unternehmer mindestens einmal in
@@ -3375,10 +3523,12 @@ die Unterrichtung nach vorheriger Abstimmung mit dem Betriebsrat.
 
 
 #### Zweiter Unterabschnitt - Betriebsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002302308)
 
 
 
 ##### § 111 Betriebsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014504308)
 
 In Unternehmen mit in der Regel mehr als zwanzig wahlberechtigten
 Arbeitnehmern hat der Unternehmer den Betriebsrat über geplante
@@ -3411,6 +3561,7 @@ Abs. 3 unberührt. Als Betriebsänderungen im Sinne des Satzes 1 gelten
 
 
 ##### § 112 Interessenausgleich über die Betriebsänderung, Sozialplan
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014606311)
 
 (1) Kommt zwischen Unternehmer und Betriebsrat ein Interessenausgleich
 über die geplante Betriebsänderung zustande, so ist dieser schriftlich
@@ -3485,6 +3636,7 @@ folgenden Grundsätzen leiten zu lassen:
 
 
 ##### § 112a Erzwingbarer Sozialplan bei Personalabbau, Neugründungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016503308)
 
 (1) Besteht eine geplante Betriebsänderung im Sinne des § 111 Satz 3
 Nr. 1 allein in der Entlassung von Arbeitnehmern, so findet § 112 Abs.
@@ -3525,6 +3677,7 @@ nach § 138 der Abgabenordnung dem Finanzamt mitzuteilen ist.
 
 
 ##### § 113 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014704308)
 
 (1) Weicht der Unternehmer von einem Interessenausgleich über die
 geplante Betriebsänderung ohne zwingenden Grund ab, so können
@@ -3545,14 +3698,17 @@ Nachteile erleiden.
 
 
 ## Fünfter Teil - Besondere Vorschriften für einzelne Betriebsarten
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002402308)
 
 
 
 ### Erster Abschnitt - Seeschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002502308)
 
 
 
 #### § 114 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014805377)
 
 (1) Auf Seeschifffahrtsunternehmen und ihre Betriebe ist dieses Gesetz
 anzuwenden, soweit sich aus den Vorschriften dieses Abschnitts nichts
@@ -3589,6 +3745,7 @@ Personen mit Ausnahme des Kapitäns. Leitende Angestellte im Sinne des
 
 
 #### § 115 Bordvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE014904308)
 
 (1) Auf Schiffen, die mit in der Regel mindestens fünf
 wahlberechtigten Besatzungsmitgliedern besetzt sind, von denen drei
@@ -3784,6 +3941,7 @@ Anwendung:
 
 
 #### § 116 Seebetriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015004308)
 
 (1) In Seebetrieben werden Seebetriebsräte gewählt. Auf die
 Seebetriebsräte finden, soweit sich aus diesem Gesetz oder aus anderen
@@ -3980,10 +4138,12 @@ Anwendung:
 
 
 ### Zweiter Abschnitt - Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002602308)
 
 
 
 #### § 117 Geltung für die Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015104126)
 
 (1) Auf Landbetriebe von Luftfahrtunternehmen ist dieses Gesetz
 anzuwenden. Auf im Flugbetrieb beschäftigte Arbeitnehmer von
@@ -4000,10 +4160,12 @@ Sätzen 1 und 2 ist § 4 Absatz 5 des Tarifvertragsgesetzes anzuwenden.
 
 
 ### Dritter Abschnitt - Tendenzbetriebe und Religionsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002702308)
 
 
 
 #### § 118 Geltung für Tendenzbetriebe und Religionsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015202308)
 
 (1) Auf Unternehmen und Betriebe, die unmittelbar und überwiegend
 
@@ -4030,10 +4192,12 @@ deren Rechtsform.
 
 
 ## Sechster Teil - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002802308)
 
 
 
 ### § 119 Straftaten gegen Betriebsverfassungsorgane und ihre Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015306119)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -4079,6 +4243,7 @@ Betrieb vertretenen Gewerkschaft verfolgt.
 
 
 ### § 120 Verletzung von Geheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015404119)
 
 (1) Wer unbefugt ein fremdes Betriebs- oder Geschäftsgeheimnis
 offenbart, das ihm in seiner Eigenschaft als
@@ -4138,6 +4303,7 @@ Tode des Betroffenen, so gilt Satz 2 sinngemäß.
 
 
 ### § 121 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015507308)
 
 (1) Ordnungswidrig handelt, wer eine der in § 90 Abs. 1, 2 Satz 1, §
 92 Abs. 1 Satz 1 auch in Verbindung mit Absatz 3, § 99 Abs. 1, § 106
@@ -4150,32 +4316,38 @@ Euro geahndet werden.
 
 
 ## Siebenter Teil - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG002902308)
 
 
 
 ### § 122
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016801308)
 
 (Änderung des Bürgerlichen Gesetzbuchs)
 (gegenstandslos)
 
 
 ### § 123
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016901308)
 
 (Änderung des Kündigungsschutzgesetzes)
 (gegenstandslos)
 
 
 ### § 124
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE017001308)
 
 (Änderung des Arbeitsgerichtsgesetzes)
 (gegenstandslos)
 
 
 ## Achter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNG003002308)
 
 
 
 ### § 125 Erstmalige Wahlen nach diesem Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015705308)
 
 (1) Die erstmaligen Betriebsratswahlen nach § 13 Abs. 1 finden im
 Jahre 1972 statt.
@@ -4274,6 +4446,7 @@ zu deren Änderung mit folgenden Maßgaben entsprechende Anwendung:
 
 
 ### § 126 Ermächtigung zum Erlass von Wahlordnungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015805308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, mit
 Zustimmung des Bundesrates Rechtsverordnungen zu erlassen zur Regelung
@@ -4314,6 +4487,7 @@ der in den §§ 7 bis 20, 60 bis 63, 115 und 116 bezeichneten Wahlen
 
 
 ### § 127 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE015902308)
 
 Soweit in anderen Vorschriften auf Vorschriften verwiesen wird oder
 Bezeichnungen verwendet werden, die durch dieses Gesetz aufgehoben
@@ -4322,6 +4496,7 @@ Vorschriften oder Bezeichnungen dieses Gesetzes.
 
 
 ### § 128 Bestehende abweichende Tarifverträge
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016002308)
 
 Die im Zeitpunkt des Inkrafttretens dieses Gesetzes nach § 20 Abs. 3
 des Betriebsverfassungsgesetzes vom 11. Oktober 1952 geltenden
@@ -4332,6 +4507,7 @@ werden durch dieses Gesetz nicht berührt.
 
 
 ### § 129 Sonderregelungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016109126)
 
 (1) Versammlungen nach den §§ 42, 53 und 71 können bis zum Ablauf des
 7\. April 2023 auch mittels audiovisueller Einrichtungen durchgeführt
@@ -4351,6 +4527,7 @@ Vorsitzenden der Einigungsstelle in Textform.
 
 
 ### § 130 Öffentlicher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016202308)
 
 Dieses Gesetz findet keine Anwendung auf Verwaltungen und Betriebe des
 Bundes, der Länder, der Gemeinden und sonstiger Körperschaften,
@@ -4358,11 +4535,13 @@ Anstalten und Stiftungen des öffentlichen Rechts.
 
 
 ### § 131 (Berlin-Klausel)
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016302308)
 
 (gegenstandslos)
 
 
 ### § 132
+[Direktlink](https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html#BJNR000130972BJNE016402308)
 
 (Inkrafttreten)
 

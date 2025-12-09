@@ -20,6 +20,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000100000)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet aufgrund
 des § 3 Nummer 2 der Verordnung zur Einführung der
@@ -29,6 +30,7 @@ S. 2, 1717), die zuletzt durch Artikel 1 der Verordnung vom 23. Juli
 
 
 ## § 1 Abweichende Regelung zur Binnenschifffahrtsstraßen-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000200000)
 
 Die Binnenschifffahrtsstraßen-Ordnung ist mit den Maßgaben anzuwenden,
 die sich aus dem im Anhang aufgeführten vorübergehenden Regelungen
@@ -36,6 +38,7 @@ ergeben.
 
 
 ## § 2 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000300000)
 
 Der Schiffsführer oder die Schiffsführerin darf einen automatischen
 Spurführungsassistenten (TGAIN) nur einsetzen, wenn er oder sie dafür
@@ -90,6 +93,7 @@ und 6 verantwortlich.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000400000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -106,17 +110,20 @@ einen automatischen Spurführungsassistenten einsetzt.
 
 
 ## § 4 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000500000)
 
 Diese Verordnung tritt mit Ablauf des 31. Oktober 2028 außer Kraft.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000600000)
 
 Diese Verordnung tritt am 1. November 2025 in Kraft.
 
 (zu § 1)
 
 ## Anhang Abweichungen zur Binnenschifffahrtsstraßen-Ordnung (BinSchStrO)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_8/BJNR0ED0A0025.html#BJNR0ED0A0025BJNE000700000)
 
 (Fundstelle: BGBl. 2025 I Nr. 237, S. 3)
 

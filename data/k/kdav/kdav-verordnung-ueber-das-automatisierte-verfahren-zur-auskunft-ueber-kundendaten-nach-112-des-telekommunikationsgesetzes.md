@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000100000)
 
 Auf Grund des § 112 Absatz 3 des Telekommunikationsgesetzes vom 22.
 Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 1 des Gesetzes
@@ -42,6 +43,7 @@ Bundesministerium der Verteidigung:
 
 
 ## § 1 Anwendungsbereich, Verpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000200000)
 
 Diese Verordnung gilt für diejenigen Erbringer von öffentlich
 zugänglichen Telekommunikationsdiensten, die dabei Rufnummern vergeben
@@ -49,6 +51,7 @@ und mehr als 10 000 Teilnehmer haben (Verpflichtete).
 
 
 ## § 2 Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000301119)
 
 (1) Ein Ersuchen, das der Bundesnetzagentur im automatisierten
 Auskunftsverfahren von einer ersuchenden Stelle nach § 173 Absatz 4
@@ -82,6 +85,7 @@ System erzeugt werden.
 
 
 ## § 3 Personenbasiertes Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000400000)
 
 (1) Ein personenbasiertes Ersuchen muss neben den Angaben nach § 2
 Absatz 1 in der Regel folgende Angaben enthalten:
@@ -191,6 +195,7 @@ Ersuchen nicht gleichzeitig verwendet werden.
 
 
 ## § 4 Nummernbasiertes Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000500000)
 
 Ein nummernbasiertes Ersuchen muss neben den Angaben nach § 2 Absatz 1
 die vollständige Rufnummer enthalten. Die Rufnummer muss mit
@@ -202,6 +207,7 @@ enthalten.
 
 
 ## § 5 Anschriftenbasiertes Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000600000)
 
 Wenn es zur Ermittlung von Rufnummern zu einer bestimmten Anschrift
 erforderlich ist, kann auch ein anschriftenbasiertes Ersuchen
@@ -224,6 +230,7 @@ ermittlungsrelevanten Zeitraums enthalten.
 
 
 ## § 6 Abfrage der Daten
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000700000)
 
 (1) Die Bundesnetzagentur übernimmt aus dem Ersuchen die Daten ohne
 die Angaben nach § 2 Absatz 1 und leitet die Daten unverzüglich an die
@@ -237,6 +244,7 @@ Telekommunikationsanschlusses.
 
 
 ## § 7 Datenübermittlung durch den Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000801119)
 
 (1) Auf Grund einer Abfrage hat der Verpflichtete unverzüglich die
 Gesamtheit der aktuellen Kundendaten zum ermittlungsrelevanten
@@ -272,6 +280,7 @@ ausschließlich die Anzahl der gefundenen Datensätze mit.
 
 
 ## § 8 Datenübermittlung durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE000900000)
 
 Die Bundesnetzagentur leitet die erhaltenen Antworten als Ergebnis an
 die ersuchende Stelle weiter. Die ersuchende Stelle soll ihre
@@ -279,6 +288,7 @@ Empfangseinrichtungen jederzeit zum Empfang von Daten bereithalten.
 
 
 ## § 9 Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE001001119)
 
 (1) Die zu übermittelnden Daten sowie die Übertragungswege zwischen
 den am automatisierten Auskunftsverfahren Beteiligten sind mit
@@ -298,6 +308,7 @@ Datensätze verfügbar zu halten.
 
 
 ## § 10 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE001100000)
 
 (1) Die Anwendung der Vorschriften dieser Verordnung ist vom
 Bundesministerium für Wirtschaft und Energie unter Einbeziehung der
@@ -324,11 +335,13 @@ berücksichtigen.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kdav/BJNR166700017.html#BJNR166700017BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

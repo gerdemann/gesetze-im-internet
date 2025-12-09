@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000200314)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem am 13. Februar 1946
 von der Generalversammlung der Vereinten Nationen angenommenen
@@ -34,6 +36,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000300314)
 
 Die in Abschnitt 19 des Übereinkommens vorgesehenen Vorrechte und
 Immunitäten gelten auch für den Vertreter des Hohen
@@ -43,6 +46,7 @@ Kinder.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000400314)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates den Vereinten Nationen, den Vertretern
@@ -80,11 +84,13 @@ ansässig sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000500314)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000600314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -93,6 +99,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/unoimm_bkg/BJNR209410980.html#BJNR209410980BJNE000700314)
 
 (1) Dieses Gesetz tritt mit Ausnahme des Artikels 4 Abs. 2 am Tage
 nach seiner Verkündung in Kraft. Artikel 4 Abs. 2 tritt an dem Tage in

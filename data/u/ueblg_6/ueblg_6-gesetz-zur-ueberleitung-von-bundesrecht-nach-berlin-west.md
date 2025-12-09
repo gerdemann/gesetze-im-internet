@@ -21,12 +21,14 @@ Zuletzt geändert durch
 Stand: G in Kraft gem. § 5 iVm Bek. v. 3.10.1990 I 2153 mWv 3.10.1990
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_blg_6/BJNR021060990.html#BJNR021060990BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/_blg_6/BJNR021060990.html#BJNR021060990BJNE000200308)
 
 Bundesrecht, das in Berlin (West) auf Grund alliierter
 Vorbehaltsrechte bisher nicht oder nicht in vollem Umfang gilt, gilt
@@ -38,6 +40,7 @@ Inkrafttretens an.
 
 
 ## § 2 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_6/BJNR021060990.html#BJNR021060990BJNE000303377)
 
 (1) Das Gesetz über die Erweiterung des Katastrophenschutzes in der
 Fassung der Bekanntmachung vom 14. Februar 1990 (BGBl. I S. 229) tritt
@@ -120,6 +123,7 @@ worden ist, treten in Berlin (West) mit folgenden Maßgaben in Kraft:
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/_blg_6/BJNR021060990.html#BJNR021060990BJNE000400308)
 
 Folgendes Bundesrecht findet in Berlin (West) weiterhin keine
 Anwendung:
@@ -261,6 +265,7 @@ Anwendung:
 
 
 ## § 4 Außerkrafttretende Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_blg_6/BJNR021060990.html#BJNR021060990BJNE000500308)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft:
 1\.
@@ -321,6 +326,7 @@ räumlichen Geltungsbereich hiervon erfaßt worden wären.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_blg_6/BJNR021060990.html#BJNR021060990BJNE000601377)
 
 (1) Dieses Gesetz tritt in dem Zeitpunkt in Kraft, in dem die
 alliierten Vorbehaltsrechte in bezug auf Berlin fortfallen oder

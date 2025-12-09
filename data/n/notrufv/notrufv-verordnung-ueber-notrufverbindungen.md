@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000100000)
 
 Auf Grund des § 108 Abs. 2 des Telekommunikationsgesetzes vom 22. Juni
 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 2 Nr. 23 des
@@ -30,10 +31,12 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000201308)
 
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000303119)
 
 Im Sinne dieser Verordnung ist
 
@@ -129,6 +132,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Einzugsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000402119)
 
 (1) Die nach Landesrecht zuständigen Behörden legen die
 Notrufabfragestellen mit ihren Einzugsgebieten und
@@ -188,6 +192,7 @@ entsprechend.
 
 
 ## § 4 Notrufverbindungen
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000504119)
 
 (1) Die Forderung aus § 164 Absatz 1 Satz 1 des
 Telekommunikationsgesetzes nach unentgeltlicher Bereitstellung von
@@ -368,6 +373,7 @@ Notrufabfragestelle gesendet werden.
 
 
 ## § 5 Anforderungen an Notrufanschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000601308)
 
 Wer Notrufanschlüsse bereitstellt, hat
 
@@ -414,6 +420,7 @@ Absatz 4 Satz 1 und Absatz 8 Nummer 3 Satz 2 oder 4 zu übermitteln.
 
 
 ## § 6 Technische Richtlinie
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000703119)
 
 Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und
 Absatz 2, zu § 4 Absatz 2, 4, 5, 7 und 8 Nummer 3 und 6 sowie zu § 5
@@ -428,6 +435,7 @@ jeweiligen Stand der Technik anzupassen.
 
 
 ## § 7 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000803119)
 
 (1) (weggefallen)
 
@@ -492,11 +500,13 @@ Notrufkategoriewert 6 oder 7 zu verzichten.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/notrufv/BJNR048100009.html#BJNR048100009BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

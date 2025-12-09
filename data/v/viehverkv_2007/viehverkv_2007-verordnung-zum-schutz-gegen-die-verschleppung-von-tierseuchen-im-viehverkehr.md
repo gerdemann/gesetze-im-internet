@@ -51,10 +51,12 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 
 ## Abschnitt 1 - Viehtransportfahrzeuge, Viehladestellen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000102119)
 
 
 
 ### § 1 Viehtransportfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000302119)
 
 (1) Fahrzeuge und Anhänger, die zur Beförderung lebenden Viehs benutzt
 werden (Viehtransportfahrzeuge), sowie für eine solche Beförderung
@@ -93,6 +95,7 @@ haben zu sorgen:
 
 
 ### § 2 Viehladestellen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000402119)
 
 (1) Wer eine Einrichtung betreiben will, in der wiederkehrend Vieh
 verschiedener Besitzer verladen, entladen, umgeladen oder verwogen
@@ -182,10 +185,12 @@ geschaffen werden.
 
 
 ## Abschnitt 2 - Viehausstellungen, Viehmärkte, Schlachtstätten
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000202119)
 
 
 
 ### § 3 Viehausstellungen, Viehmärkte
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000503119)
 
 (1) Orte, an denen Viehausstellungen oder Viehmärkte abgehalten oder
 eingerichtet werden, müssen folgende Anforderungen erfüllen:
@@ -259,6 +264,7 @@ nicht entgegenstehen.
 
 
 ### § 4 Anzeige, Beschränkung und Verbot
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000603119)
 
 (1) Folgende Veranstaltungen sind der zuständigen Behörde vom
 Veranstalter mindestens vier Wochen vor der jeweiligen Veranstaltung
@@ -289,6 +295,7 @@ Tierseuchenbekämpfung erforderlich ist.
 
 
 ### § 5 Auftrieb
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000704119)
 
 Auf Viehausstellungen, Viehmärkten oder Veranstaltungen ähnlicher Art
 dürfen Tiere, für die eine Kennzeichnung nach dieser Verordnung oder
@@ -303,6 +310,7 @@ Auftrieb auf bestimmte Stunden beschränken.
 
 
 ### § 6 Amtstierärztliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000802119)
 
 (1) Die Tiere sind beim Auftrieb auf Viehmärkte amtstierärztlich zu
 untersuchen. Die zuständige Behörde kann Ausnahmen genehmigen, soweit
@@ -318,6 +326,7 @@ Untersuchung der Tiere beim Auftrieb auf Schlachtstätten anordnen.
 
 
 ### § 7 Abtrieb von Schlachtviehmärkten und Schlachtstätten
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE000902119)
 
 Der Abtrieb des Viehs von einem Schlachtviehmarkt oder einer
 Schlachtstätte bedarf der Genehmigung der zuständigen Behörde. Die
@@ -340,10 +349,12 @@ Schlachtviehmarkt oder in eine Schlachtstätte verbracht werden.
 
 
 ## Abschnitt 3 - Gastställe
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000302119)
 
 
 
 ### § 8 Gastställe
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001002119)
 
 Gastställe müssen folgende Anforderungen erfüllen:
 
@@ -363,10 +374,12 @@ Gastställe müssen folgende Anforderungen erfüllen:
 
 
 ## Abschnitt 4 - Viehkastrierer
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000402119)
 
 
 
 ### § 9 Viehkastrierer
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001102119)
 
 Personen, die gewerbsmäßig Vieh kastrieren, ohne Tierarzt zu sein,
 dürfen Tiere nicht kastrieren, die an einer anzeigepflichtigen
@@ -375,10 +388,12 @@ Tierseuche vorliegt.
 
 
 ## Abschnitt 5 - Wanderschafherden
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000502119)
 
 
 
 ### § 10 Wanderschafherden
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001202119)
 
 (1) Wer Wanderschafherden über das Gebiet mehrerer Kreise oder
 kreisfreier Städte treiben will, bedarf, vorbehaltlich des Satzes 2,
@@ -414,10 +429,12 @@ vorzulegen.
 
 
 ## Abschnitt 6 - Viehhandelsunternehmen, Transportunternehmen, Sammelstellen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000602119)
 
 
 
 ### § 11 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001302119)
 
 Wer gewerbsmäßig mit Vieh handeln oder gewerbsmäßig oder im Rahmen der
 arbeitsteiligen Tierproduktion Vieh transportieren oder eine
@@ -428,6 +445,7 @@ Sammelstelle, anzuzeigen. Änderungen sind unverzüglich anzuzeigen.
 
 
 ### § 12 Viehhandelsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001402119)
 
 (1) Ein Betrieb, der darauf gerichtet ist, Rinder, Schweine, Schafe,
 Ziegen, Pferde oder Geflügel gewerbsmäßig unmittelbar oder über Dritte
@@ -455,6 +473,7 @@ bestimmter Arten beschränkt werden.
 
 
 ### § 13 Transportunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001503119)
 
 (1) Ein Betrieb, der darauf gerichtet ist, Rinder, Schweine, Schafe,
 Ziegen, Pferde oder Geflügel gewerbsmäßig oder im Rahmen der
@@ -480,6 +499,7 @@ bestimmter Arten beschränkt werden.
 
 
 ### § 14 Sammelstellen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001603119)
 
 (1) Eine Einrichtung, in der Rinder, Schweine, Schafe, Ziegen, Pferde
 oder Geflügel aus verschiedenen Betrieben für den Handel
@@ -508,6 +528,7 @@ oder bestimmter Arten beschränkt werden.
 
 
 ### § 15 Registrierung und Bekanntmachung der Zulassung, Anerkennung von Zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001704119)
 
 (1) Die zuständige Behörde erfasst die nach den §§ 12 bis 14
 zugelassenen Viehhandelsunternehmen, Transportunternehmen und
@@ -540,6 +561,7 @@ Bundesanzeiger bekannt.
 
 
 ### § 16 Ruhen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001802119)
 
 Stellt die zuständige Behörde bei einem zugelassenen
 Viehhandelsunternehmen, Transportunternehmen oder einer zugelassenen
@@ -551,10 +573,12 @@ Ruhen der Zulassung nach den in § 15 Absatz 2 genannten Vorschriften.
 
 
 ## Abschnitt 7 - Reinigung und Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000702119)
 
 
 
 ### § 17 Transportmittel
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE001903119)
 
 (1) Viehtransportfahrzeuge sowie alle bei der Beförderung lebenden
 Viehs benutzten Behältnisse und Gerätschaften sind nach jedem
@@ -624,6 +648,7 @@ anordnen, dass
 
 
 ### § 18 Flächen, Räume und Gerätschaften
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002002119)
 
 (1) Viehladestellen, Laderampen, Räume für die vorübergehende
 Unterkunft und die Vermarktung von Rindern, Schweinen, Schafen,
@@ -662,6 +687,7 @@ soweit dies zur Tierseuchenbekämpfung erforderlich ist.
 
 
 ### § 19 Dung, Streumaterial und Futterreste
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002102119)
 
 Der für die Reinigung und Desinfektion nach den §§ 17 und 18 jeweils
 Verantwortliche hat anfallenden Dung, anfallendes Streumaterial und
@@ -671,10 +697,12 @@ Tierseuchenerreger abgetötet werden.
 
 
 ## Abschnitt 8 - Zeugnisse, Kontrollbücher
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000802119)
 
 
 
 ### § 20 Ursprungszeugnisse, Gesundheitszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002202119)
 
 Auf Anordnung der zuständigen Behörde beizubringende
 Ursprungszeugnisse gelten 30 Tage, Gesundheitszeugnisse, soweit in der
@@ -685,6 +713,7 @@ ausgestellt sein.
 
 
 ### § 21 Viehhandels- und Transportkontrollbücher
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002302119)
 
 (1) Ein Viehhandelskontrollbuch über die im Besitz befindlichen und
 die gehandelten, transportierten oder vermittelten Rinder, Schweine,
@@ -766,6 +795,7 @@ Viehtransportfahrzeugen zu einer Schlachtstätte transportiert wird.
 
 
 ### § 22 Desinfektionskontrollbuch
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002403119)
 
 (1) Der Fahrer eines Viehtransportfahrzeuges, für das nach § 17 Absatz
 1 bis 3 eine Reinigung und Desinfektion vorgeschrieben ist, hat für
@@ -793,6 +823,7 @@ machen.
 
 
 ### § 23 Kastrations- und Klauenpflegekontrollbuch
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002502119)
 
 Personen, die gewerbsmäßig Vieh kastrieren, ohne Tierarzt zu sein,
 haben ein Kastrationskontrollbuch zu führen, aus dem hervorgeht, wann
@@ -803,6 +834,7 @@ entsprechend, dass sie ein Klauenpflegekontrollbuch zu führen haben.
 
 
 ### § 24 Deckregister
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002602119)
 
 Tierhalter, die einen Hengst, einen Bullen, einen Eber oder einen Bock
 zum Decken fremder Tiere verwenden, haben ein Deckregister zu führen,
@@ -829,6 +861,7 @@ das folgende Angaben enthalten muss:
 
 
 ### § 25 Form, Aufbewahrung und Vorlage der Kontrollbücher und des Deckregisters
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002703119)
 
 (1) Die Kontrollbücher und das Deckregister müssen gebunden,
 chronologisch aufgebaut und mit fortlaufenden Seitenzahlen versehen
@@ -862,10 +895,12 @@ zuständigen Behörde einen Ausdruck auf seine Kosten vorzulegen.
 
 
 ## Abschnitt 9 - Tierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG000902119)
 
 
 
 ### § 26 Anzeige und Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002802119)
 
 (1) Wer Rinder, Schweine, Schafe, Ziegen, Einhufer, Hühner, Enten,
 Gänse, Fasane, Perlhühner, Rebhühner, Tauben, Truthühner, Wachteln
@@ -922,10 +957,12 @@ verwenden.
 
 
 ## Abschnitt 10 - Kennzeichnung und Registrierung von Rindern nach der Verordnung (EG) Nr. 1760/2000
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG001002119)
 
 
 
 ### § 27 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE002905119)
 
 (1) Die Kennzeichnung nach Artikel 4 der Verordnung (EG) Nr. 1760/2000
 des Europäischen Parlaments und des Rates vom 17. Juli 2000 zur
@@ -1020,6 +1057,7 @@ Rindes.
 [^F811033_02_BJNR127400007BJNE002905119]: 
 
 ### § 28 Anzeige der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003002119)
 
 Die Kennzeichnung eines Rindes hat der Tierhalter unverzüglich unter
 Angabe seines Namens, seiner Anschrift, der Registriernummer seines
@@ -1042,6 +1080,7 @@ anzuzeigen.
 
 
 ### § 29 Anzeige von Bestandsveränderungen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003102119)
 
 (1) Der Tierhalter hat der zuständigen Behörde oder einer von dieser
 beauftragten Stelle jede Veränderung seines Rinderbestandes innerhalb
@@ -1107,6 +1146,7 @@ Betrieb unverzüglich in das von ihm geführte Bestandsregister ein.
 
 
 ### § 30 Rinderpass
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003202119)
 
 (1) Rinder dürfen in einen Mitgliedstaat nur verbracht oder in ein
 Drittland nur ausgeführt werden, wenn sie von einem Rinderpass
@@ -1133,6 +1173,7 @@ Begleitpapiere für Rinder ausgestellt worden sind, die im Zeitraum vom
 
 
 ### § 31 Stammdatenblatt
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003302119)
 
 Die zuständige Behörde oder eine von dieser beauftragte Stelle stellt
 für jedes Rind nach Eingang der Geburtsanzeige ein Stammdatenblatt
@@ -1145,6 +1186,7 @@ enthält.
 
 
 ### § 32 Bestandsregister
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003402119)
 
 (1) Das Bestandsregister nach Artikel 7 Absatz 1 der Verordnung (EG)
 Nr. 1760/2000 muss zusätzlich zu den Angaben nach Artikel 8 der
@@ -1185,6 +1227,7 @@ Verpflichtung zu dessen Vorlage nach Artikel 7 Absatz 4 der Verordnung
 
 
 ### § 33 Verbot der Übernahme, Inverkehrbringen von Ohrmarken
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003502119)
 
 (1) Ein Tierhalter darf ein Rind in seinen Bestand nur übernehmen,
 soweit es nach Artikel 4 Absatz 1 oder 3 der Verordnung (EG) Nr.
@@ -1198,10 +1241,12 @@ Genehmigung der zuständigen Behörde in den Verkehr zu bringen.
 
 
 ## Abschnitt 11 - Kennzeichnung und Registrierung von Schafen und Ziegen nach der Verordnung (EG) Nr. 21/2004
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG001102119)
 
 
 
 ### § 34 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003604119)
 
 (1) Die Kennzeichnung nach Artikel 4 der Verordnung (EG) Nr. 21/2004
 des Rates vom 17. Dezember 2003 zur Einführung eines Systems zur
@@ -1407,6 +1452,7 @@ der Schlachtung eines Schafes oder einer Ziege.
 
 
 ### § 35 Anzeige von Bestandsveränderungen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003703119)
 
 Wer Schafe oder Ziegen in seinen Bestand übernimmt, hat dies der
 zuständigen Behörde oder einer von dieser beauftragten Stelle
@@ -1432,6 +1478,7 @@ unter Angabe
 
 
 ### § 36 Begleitpapier
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003803119)
 
 (1) Das Begleitpapier für Schafe oder das Begleitpapier für Ziegen
 nach Artikel 6 Absatz 1 in Verbindung mit Abschnitt C des Anhangs der
@@ -1446,6 +1493,7 @@ für einen Zeitraum von mindestens drei Jahren aufzubewahren.
 
 
 ### § 37 Bestandsregister
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE003903119)
 
 (1) Das Bestandsregister nach Artikel 5 Absatz 1 der Verordnung (EG)
 Nr. 21/2004 muss zusätzlich zu den Angaben nach Abschnitt B Nummer 1
@@ -1460,6 +1508,7 @@ Anlage 11 entsprechen.
 
 
 ### § 38 Verbot der Übernahme, Inverkehrbringen von Ohrmarken
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004003119)
 
 (1) Ein Tierhalter darf ein nach dem 31. Dezember 2009 geborenes Schaf
 oder eine nach dem 31. Dezember 2009 geborene Ziege in seinen Bestand
@@ -1473,10 +1522,12 @@ Genehmigung der zuständigen Behörde in den Verkehr zu bringen.
 
 
 ## Abschnitt 12 - Kennzeichnung und Registrierung von Schweinen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG001202119)
 
 
 
 ### § 39 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004102119)
 
 (1) Schweine sind vom Tierhalter im Ursprungsbetrieb spätestens mit
 dem Absetzen nach Maßgabe des Absatzes 3 mit einer ihm von der
@@ -1552,6 +1603,7 @@ Schlachtung eines Schweines.
 
 
 ### § 40 Anzeige der Übernahme
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004202119)
 
 Wer Schweine in seinen Betrieb übernimmt, hat dies der zuständigen
 Behörde oder einer von dieser beauftragten Stelle innerhalb von sieben
@@ -1588,6 +1640,7 @@ betreffende Mitgliedstaat oder das betreffende Drittland anzuzeigen.
 
 
 ### § 41 Begleitpapier
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004302119)
 
 (1) Schweine dürfen auf einen Viehmarkt oder zu einer Sammelstelle
 oder von einem Viehmarkt oder von einer Sammelstelle nur verbracht
@@ -1618,6 +1671,7 @@ aufzubewahren.
 
 
 ### § 42 Bestandsregister
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004402119)
 
 (1) Der Tierhalter hat über seinen Schweinebestand ein Register nach
 dem Muster der Anlage 12 zu führen. In das Bestandsregister sind die
@@ -1656,6 +1710,7 @@ dass
 
 
 ### § 43 Verbot der Übernahme, Inverkehrbringen von Ohrmarken
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004502119)
 
 (1) Ein Tierhalter darf ein Schwein in seinen Bestand nur übernehmen,
 soweit es nach § 39 Absatz 1 oder 4 bis 6 gekennzeichnet ist. Dies
@@ -1667,10 +1722,12 @@ zuständigen Behörde in den Verkehr zu bringen.
 
 
 ## Abschnitt 13 - Kennzeichnung von Einhufern nach der Durchführungsverordnung (EU) 2015/262
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG001304119)
 
 
 
 ### § 44 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004604119)
 
 (1) Die Durchführung der Kennzeichnung von Einhufern nach Artikel 18
 der Durchführungsverordnung (EU) 2015/262 der Kommission vom 17.
@@ -1731,6 +1788,7 @@ Behörde in den Verkehr zu bringen.
 [^F811033_04_BJNR127400007BJNE004604119]: 
 
 ### § 44a Equidenpass
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006505119)
 
 (1) Die Ausstellung eines Dokumentes zur Identifizierung von Einhufern
 (Equidenpass) nach Artikel 7 der Durchführungsverordnung (EU) 2015/262
@@ -1778,6 +1836,7 @@ für Ernährung und Landwirtschaft.
 
 
 ### § 44b Rückgabe und Ungültigmachen des Equidenpasses
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006603119)
 
 (1) Im Fall des Todes eines Einhufers gilt, vorbehaltlich der Absätze
 2 und 3, Artikel 35 Absatz 1 der Durchführungsverordnung (EU) 2015/262
@@ -1897,6 +1956,7 @@ hat.
 
 
 ### § 44c Verbot der Übernahme
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006703119)
 
 Ein Tierhalter darf einen Einhufer in seinen Bestand nur übernehmen,
 wenn der Einhufer
@@ -1920,6 +1980,7 @@ durch Transportunternehmen entsprechend.
 
 
 ### § 44d Anzeige der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006801119)
 
 Der Tierhalter hat die Kennzeichnung eines Einhufers unverzüglich
 unter Angabe der in Artikel 38 Absatz 1 der Durchführungsverordnung
@@ -1928,10 +1989,12 @@ ihr beauftragten Stelle anzuzeigen.
 
 
 ## Abschnitt 14 - Sonstige Tierhaltungen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG001402119)
 
 
 
 ### § 45 Tierhaltung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004702119)
 
 (1) Die Halter von Gehegewild, Kameliden und nicht in § 26 Absatz 1
 aufgeführten Klauentieren haben ihren Betrieb entsprechend § 26 Absatz
@@ -1959,10 +2022,12 @@ deren jederzeitige Ablesbarkeit gewährleistet ist.
 
 
 ## Abschnitt 15 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNG001502119)
 
 
 
 ### § 46 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004805119)
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2166,6 +2231,7 @@ indem er vorsätzlich oder fahrlässig
 
 
 ### § 47 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE004903119)
 
 (1) Wer am 13. Juli 2007 eine Viehladestelle betreibt, hat dies der
 zuständigen Behörde abweichend von § 2 Absatz 1 bis zum 31. Oktober
@@ -2219,11 +2285,13 @@ anzuwenden.
 
 
 ### § 48 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005103119)
 
 
 (zu § 12 Absatz 2, § 13 Absatz 2, § 14 Absatz 2 und § 17 Absatz 3)
 
 ### Anlage 1 Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005303119)
 
 (Fundstelle: BGBl. I 2020, 1188)
 
@@ -2303,6 +2371,7 @@ anzuwenden.
 (zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2)
 
 ### Anlage 2 Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005403119)
 
 (Fundstelle: BGBl. I 2020, 1189)
 
@@ -2340,6 +2409,7 @@ anzuwenden.
 (zu § 25 Absatz 1)
 
 ### Anlage 3 Muster für Kontrollbücher
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005503119)
 
 (Fundstelle: BGBl. I 2020, 1190)
 
@@ -2583,6 +2653,7 @@ anzuwenden.
    (zu § 27 Absatz 3 und 4)
 
 ### Anlage 4 Ohrmarken zur Rinderkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005602119)
 
 (Fundstelle: BGBl. I 2020, 1191 – 1192)
 
@@ -2692,6 +2763,7 @@ anzuwenden.
 (zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2)
 
 ### Anlage 5 Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005702119)
 
 (Fundstelle: BGBl. I 2020, 1193 – 1194)
 
@@ -3136,6 +3208,7 @@ aufzubauen:
 (zu § 28 und § 32 Absatz 1 Satz 1 Nummer 1)
 
 ### Anlage 6 Rasseschlüssel
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005805119)
 
 (Fundstelle: BGBl. I 2020, 1195 – 1197)
 
@@ -3633,6 +3706,7 @@ aufzubauen:
 
 
 ### Anlage 7 (zu § 30 Absatz 1 und § 31)
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE005902119)
 
 (Fundstelle: BGBl. I 2020, 1198)
 
@@ -3739,6 +3813,7 @@ aufzubauen:
 (zu § 32 Absatz 1)
 
 ### Anlage 8 Bestandsregister für Rinderhaltungen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006002119)
 
 (Fundstelle: BGBl. I 2020, 1199)
 
@@ -3895,6 +3970,7 @@ Seite: …
 (zu § 34 Absatz 3 und 4)
 
 ### Anlage 9 Ohrmarken zur Kennzeichnung von Schafen und Ziegen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006103119)
 
 (Fundstelle: BGBl. I 2020, 1200 – 1201)
 
@@ -4090,6 +4166,7 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 (zu § 36 Absatz 1)
 
 ### Anlage 10 Begleitpapier
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006202119)
 
 (Fundstelle: BGBl. I 2020, 1202)
 
@@ -4203,6 +4280,7 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 (zu § 37 Absatz 1)
 
 ### Anlage 11 Bestandsregister
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006303119)
 
 (Fundstelle: BGBl. I 2020, 1203 – 1204)
 
@@ -4400,6 +4478,7 @@ der zuständigen Behörde
 (zu § 42 Absatz 1)
 
 ### Anlage 12 Bestandsregister für Schweinehaltungen
+[Direktlink](https://www.gesetze-im-internet.de/viehverkv_2007/BJNR127400007.html#BJNR127400007BJNE006402119)
 
 (Fundstelle: BGBl. I 2020, 1205)
 

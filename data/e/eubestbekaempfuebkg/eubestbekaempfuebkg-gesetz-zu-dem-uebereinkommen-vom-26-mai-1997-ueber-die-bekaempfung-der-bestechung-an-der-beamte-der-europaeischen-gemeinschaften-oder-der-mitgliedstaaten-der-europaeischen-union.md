@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eubestbek_mpf_bkg/BJNR272720002.html#BJNR272720002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eubestbek_mpf_bkg/BJNR272720002.html#BJNR272720002BJNE000200000)
 
 (1) Dem in Brüssel am 26. Mai 1997 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen aufgrund von Artikel K.3 Absatz 2
@@ -41,6 +43,7 @@ Ratifikationsurkunde eine Erklärung nach Artikel 13 Abs. 4 des
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eubestbek_mpf_bkg/BJNR272720002.html#BJNR272720002BJNE000300000)
 
 (1) Jedes Gericht kann dem Gerichtshof der Europäischen Gemeinschaften
 eine Frage zur Vorabentscheidung vorlegen, die sich ihm in einem
@@ -63,6 +66,7 @@ hält.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eubestbek_mpf_bkg/BJNR272720002.html#BJNR272720002BJNE000400000)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach seiner
 Verkündung in Kraft. Artikel 2 tritt an dem Tag in Kraft, an dem das

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000100000)
 
 Teil I
 
@@ -161,12 +162,15 @@ Kapitel 5
 
 
 ## Teil I - Wasserstraßen der Zone 3
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000100000)
 
 
 ### Kapitel 1 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 3
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000200000)
 
 
 #### § 1.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000200000)
 
 Auf Wasserstraßen der Zone 3, ausgenommen der Bundeswasserstraße
 Rhein, ist ES-TRIN mit den sich aus den nachfolgenden Vorschriften
@@ -174,12 +178,14 @@ ergebenden Maßgaben anzuwenden.
 
 
 #### § 1.02 Ankerausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000300000)
 
 Für Anker genügen zwei Drittel des nach Artikel 13.01 ES-TRIN
 errechneten Gesamtgewichts.
 
 
 #### § 1.03 Geschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000400000)
 
 
 1.  Fahrzeuge und Verbände müssen eine Geschwindigkeit gegen Wasser von
@@ -195,9 +201,11 @@ errechneten Gesamtgewichts.
 
 
 ### Kapitel 2 - Sonderbestimmungen für Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000300000)
 
 
 #### § 2.01 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000500000)
 
 Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch
 Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung
@@ -205,23 +213,28 @@ mit Nummer 7 bis 9 dieses Artikels ersetzt werden.
 
 
 #### § 2.02 2-Abteilungsstatus
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000600000)
 
 (ohne Inhalt)
 
 
 ## Teil II - Wasserstraßen der Zone 4
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000400000)
 
 
 ### Kapitel 3 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 4
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000500000)
 
 
 #### § 3.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000700000)
 
 Auf Wasserstraßen der Zone 4 ist ES-TRIN mit den sich aus den
 nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
 
 #### § 3.02 Sicherheitsabstand
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000800000)
 
 Der Sicherheitsabstand für Türen und andere Öffnungen als die Luken
 der Laderäume kann,
@@ -239,18 +252,21 @@ verringert werden.
 
 
 #### § 3.03 Freibord
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE000900000)
 
 Der Freibord muss mindestens 0,00 m betragen, sofern der
 Sicherheitsabstand nach § 3.02 eingehalten wird.
 
 
 #### § 3.04 Ankerausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001000000)
 
 Für Anker genügen zwei Drittel des nach Artikel 13.01 ES-TRIN
 errechneten Gesamtgewichts.
 
 
 #### § 3.05 Geschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001100000)
 
 
 1.  Fahrzeuge und Verbände müssen eine Geschwindigkeit gegen Wasser von
@@ -266,15 +282,18 @@ errechneten Gesamtgewichts.
 
 
 ### Kapitel 4 - Sonderbestimmungen für Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000600000)
 
 
 #### § 4.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001200000)
 
 Für die Fahrt von Fahrgastschiffen auf Wasserstraßen der Zone 4 gelten
 die Bestimmungen der §§ 3.02 und 3.03 nicht.
 
 
 #### § 4.02 Rettungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001300000)
 
 Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch
 Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung
@@ -282,24 +301,29 @@ mit Nummer 7 bis 9 dieses Artikels ersetzt werden.
 
 
 #### § 4.03 2-Abteilungsstatus
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001400000)
 
 Fahrgastschiffe müssen auf Wasserstraßen der Zone 4 den
 2-Abteilungsstatus nicht einhalten.
 
 
 #### § 4.04 Zweites unabhängiges Antriebssystem
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001500000)
 
 Fahrgastschiffe müssen auf Wasserstraßen der Zone 4 nicht mit einem
 zweiten unabhängigen Antriebssystem ausgerüstet sein.
 
 
 ## Teil III - 
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000700000)
 
 
 ### Kapitel 5 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNG000800000)
 
 
 #### § 5.01 Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001600000)
 
 
 1.  Die nachstehenden Bestimmungen gelten für Fahrzeuge, für die ein
@@ -318,6 +342,7 @@ zweiten unabhängigen Antriebssystem ausgerüstet sein.
 
 
 #### § 5.02 Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_iv/BJNR147200018.html#BJNR147200018BJNE001700000)
 
 
 1.  Fahrzeuge, die den Vorschriften dieses Anhangs nicht vollständig

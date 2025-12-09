@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/blutzv/BJNR161410994.html#BJNR161410994BJNE000100307)
 
 Die Vorschriften über die staatliche Chargenprüfung werden auf
 Blutzubereitungen ausgedehnt, die aus Mischungen von humanem
@@ -29,6 +30,7 @@ wirksame Bestandteile enthalten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/blutzv/BJNR161410994.html#BJNR161410994BJNE000200307)
 
 Die zuständige Bundesoberbehörde hat eine Entscheidung über die
 Freigabe der Charge innerhalb einer Frist von zwei Monaten nach
@@ -37,6 +39,7 @@ Arzneimittelgesetzes findet entsprechende Anwendung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/blutzv/BJNR161410994.html#BJNR161410994BJNE000300307)
 
 Die zuständige Bundesoberbehörde hat die Charge auch dann freizugeben,
 wenn die zuständige Behörde eines anderen Mitgliedstaates der
@@ -50,6 +53,7 @@ aufweist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/blutzv/BJNR161410994.html#BJNR161410994BJNE000401308)
 
 (1) Für die Blutzubereitungen nach dieser Verordnung, die nicht
 Blutgerinnungsfaktor IX oder Prothrombinkomplex-Präparate sind, findet

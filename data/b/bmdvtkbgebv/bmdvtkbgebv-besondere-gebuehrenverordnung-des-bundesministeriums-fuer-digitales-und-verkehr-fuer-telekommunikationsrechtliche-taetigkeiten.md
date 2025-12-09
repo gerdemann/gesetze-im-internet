@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Die Anlage zu § 2 Absatz 1, Abschnitte 3 und 4 ist gem. § 6 Abs. 2 dieser V am 1.2.2024 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -29,6 +30,7 @@ verordnet das Bundesministerium für Digitales und Verkehr:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000202129)
 
 (1) Die Bundesnetzagentur, das Bundesamt für Sicherheit in der
 Informationstechnik und die oder der Bundesbeauftragte für den
@@ -100,6 +102,7 @@ ausgeschlossen.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis der Anlage.
@@ -110,6 +113,7 @@ Festsetzung der Gebühren und Auslagen.
 
 
 ## § 3 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000400000)
 
 (1) Neben den in § 12 Absatz 1 Satz 1 des Bundesgebührengesetzes
 genannten Auslagen werden nur die Auslagen nach § 12 Absatz 2 Nummer 2
@@ -127,6 +131,7 @@ Umfang der eingeräumten Gebührenermäßigung entspricht.
 
 
 ## § 4 Gebührenbefreiung und -ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000500000)
 
 (1) Behörden und Organisationen mit Sicherheitsaufgaben sowie
 vergleichbare Organisationen sind, soweit nicht bereits nach § 8
@@ -161,6 +166,7 @@ das Bundesministerium für Wirtschaft und Klimaschutz sicher.
 
 
 ## § 5 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000601129)
 
 Für den Zeitaufwand von Verwaltungsbeschäftigten der
 Bundesnetzagentur, des Bundesamtes für Sicherheit in der
@@ -174,6 +180,7 @@ in der jeweils geltenden Fassung.
 
 
 ## § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000900130)
 
 Abschnitt 1 Unterabschnitt 5 Nummer 5.8 bis 5.10 der Anlage ist auf
 alle dort genannten gebührenfähigen Leistungen anzuwenden, die ab dem
@@ -181,6 +188,7 @@ alle dort genannten gebührenfähigen Leistungen anzuwenden, die ab dem
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000701130)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Dezember 2021 in Kraft.
 Die Gebührentatbestände der Anlage zu § 2 Absatz 1 Abschnitt 1
@@ -195,6 +203,7 @@ Februar 2024 in Kraft.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmdvtkbgebv/BJNR0010A0024.html#BJNR0010A0024BJNE000806129)
 
 (Fundstelle: BGBl. 2024 I Nr. 1, S. 4 - 12; bzgl. der einzelnen
 Änderungen vgl. Fußnote)

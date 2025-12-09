@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000100000)
 
 Auf Grund des § 30 Abs. 6 Satz 2 und 3 der Abgabenordnung in der
 Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003
@@ -28,6 +29,7 @@ I S. 61) verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000201360)
 
 (1) Diese Verordnung regelt den automatisierten Abruf von nach § 30
 der Abgabenordnung geschützten Daten (Abrufverfahren), die für eines
@@ -42,6 +44,7 @@ der Abgabenordnung.
 
 
 ## § 2 Maßnahmen zur Wahrung des Steuergeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000300000)
 
 (1) Es sind angemessene organisatorische und dem jeweiligen Stand der
 Technik entsprechende technische Vorkehrungen zur Wahrung des
@@ -77,6 +80,7 @@ der schutzwürdigen Interessen der Betroffenen angemessen ist.
 
 
 ## § 3 Erteilung der Abrufbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000401360)
 
 Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
@@ -122,6 +126,7 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
 
 ## § 4 Umfang der Abrufbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000500000)
 
 (1) Die Abrufbefugnis ist auf die Daten oder die Arten von Daten zu
 beschränken, die zur Erledigung der jeweiligen Aufgabe erforderlich
@@ -136,6 +141,7 @@ Anlass für ihre Erteilung weggefallen ist.
 
 
 ## § 5 Prüfung der Abrufbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000600000)
 
 (1) Die Abrufbefugnis ist automatisiert zu prüfen
 
@@ -166,6 +172,7 @@ verwendet.
 
 
 ## § 6 Aufzeichnung der Abrufe
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000700000)
 
 (1) Abrufe und Abrufversuche sind zur Prüfung der Zulässigkeit der
 Abrufe automatisiert aufzuzeichnen. Die Aufzeichnungen umfassen
@@ -187,6 +194,7 @@ unverzüglich zu löschen.
 
 
 ## § 7 Prüfung der Zulässigkeit der Abrufe
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000800000)
 
 Anhand der Aufzeichnungen ist zeitnah und in angemessenem Umfang zu
 prüfen, ob der Abruf nach § 30 Abs. 6 Satz 1 der Abgabenordnung und
@@ -195,6 +203,7 @@ aufgezeichnete Abrufe anlassbezogen geprüft werden.
 
 
 ## § 8 Ergänzende Regelungen und Verfahrensdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE000900000)
 
 Bei Einrichtung eines Abrufverfahrens sind von den beteiligten Stellen
 zu regeln und in einer für sachverständige Dritte verständlichen Weise
@@ -259,6 +268,7 @@ aufzubewahren.
 
 
 ## § 9 Abrufe durch den Steuerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE001001360)
 
 Für Verfahren, die dem Steuerpflichtigen (§ 33 der Abgabenordnung) den
 Abruf ihn betreffender personenbezogener Daten ermöglichen, gelten die
@@ -269,15 +279,18 @@ Abrufberechtigung erteilt wird.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE001101360)
 
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stdav/BJNR302100005.html#BJNR302100005BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

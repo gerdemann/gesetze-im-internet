@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmas_berlbeslvvov/BJNR0C20A0025.html#BJNR0C20A0025BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des §
 132a Absatz 3 Satz 1, Absatz 4 und 5 Satz 1 des Bundesbeamtengesetzes
@@ -28,6 +29,7 @@ ist:
 
 
 ## § 1 Übertragung der Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bmas_berlbeslvvov/BJNR0C20A0025.html#BJNR0C20A0025BJNE000200000)
 
 Das Bundesministerium für Arbeit und Soziales überträgt seine
 Befugnisse zum Erlass einer besonderen Lehrverpflichtungsverordnung
@@ -53,6 +55,7 @@ Lehrverpflichtungsverordnung gemeinsam zuständig.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmas_berlbeslvvov/BJNR0C20A0025.html#BJNR0C20A0025BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

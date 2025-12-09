@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sklhg/BJNR004250895.html#BJNR004250895BJNE000101360)
 
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sklhg/BJNR004250895.html#BJNR004250895BJNE000200303)
 
 Wer Sklavenhandel betreibt oder bei der diesem Handel dienenden
 Beförderung von Sklaven vorsätzlich mitwirkt, wird mit Freiheitsstrafe
@@ -32,5 +34,6 @@ Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 
 ## (XXXX) §§ 3 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/sklhg/BJNR004250895.html#BJNR004250895BJNE000300303)
 
 

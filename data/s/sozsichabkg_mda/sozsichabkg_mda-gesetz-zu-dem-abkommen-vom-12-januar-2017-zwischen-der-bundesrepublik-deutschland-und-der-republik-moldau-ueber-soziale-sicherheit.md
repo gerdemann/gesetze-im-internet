@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_mda/BJNR110620017.html#BJNR110620017BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_mda/BJNR110620017.html#BJNR110620017BJNE000200000)
 
 Dem in Chișinău am 12. Januar 2017 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Moldau über Soziale
@@ -32,6 +34,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_mda/BJNR110620017.html#BJNR110620017BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die zur Durchführung des Abkommens
@@ -57,6 +60,7 @@ folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_mda/BJNR110620017.html#BJNR110620017BJNE000400000)
 
 
 *   (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

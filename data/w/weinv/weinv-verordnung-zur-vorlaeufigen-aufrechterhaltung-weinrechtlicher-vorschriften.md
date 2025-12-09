@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## (XXXX) §§ 1 bis 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv/BJNR009260971.html#BJNR009260971BJNE000102308)
 
 -
 
 Mischgetränke
 
 ## § 22 (zu § 53 Abs. 3 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv/BJNR009260971.html#BJNR009260971BJNE002302314)
 
 Durch Vermischen von Wein, Schaumwein und Schaumwein mit zugesetzter
 Kohlensäure, Perlwein oder Perlwein mit zugesetzter Kohlensäure mit
@@ -41,16 +43,19 @@ Getränkekarten und bei Preisangeboten unter Zusatz des Wortes
 
 
 ## (XXXX) §§ 23 und 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv/BJNR009260971.html#BJNR009260971BJNE002402308)
 
 -
 
 
 ## § 25
+[Direktlink](https://www.gesetze-im-internet.de/weinv/BJNR009260971.html#BJNR009260971BJNE002602314)
 
 (weggefallen)
 
 
 ## § 26 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/weinv/BJNR009260971.html#BJNR009260971BJNE002704308)
 
 Nach § 67 Abs. 2 bis 4 des Weingesetzes wird bestraft, wer vorsätzlich
 oder fahrlässig entgegen § 22 Mischgetränke ohne die vorgeschriebene
@@ -58,6 +63,7 @@ Kenntlichmachung in den Verkehr bringt.
 
 
 ## (XXXX) §§ 27 und 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv/BJNR009260971.html#BJNR009260971BJNE002807308)
 
 -
 

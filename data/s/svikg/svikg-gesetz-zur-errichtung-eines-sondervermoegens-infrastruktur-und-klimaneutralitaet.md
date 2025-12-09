@@ -17,17 +17,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Errichtung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000200000)
 
 Es wird ein Sondervermögen des Bundes mit der Bezeichnung
 „Sondervermögen Infrastruktur und Klimaneutralität“ errichtet.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000300000)
 
 Aus dem Sondervermögen werden zusätzliche Investitionen von bis zu 500
 Milliarden Euro in die Infrastruktur und zur Erreichung der
@@ -35,6 +38,7 @@ Klimaneutralität bis zum Jahr 2045 finanziert.
 
 
 ## § 3 Investitionen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000400000)
 
 Den Ländern stehen aus dem Sondervermögen bis zu 100 Milliarden Euro
 für Investitionen in ihre Infrastruktur nach Maßgabe des Gesetzes
@@ -42,6 +46,7 @@ gemäß Artikel 143h Absatz 2 Satz 4 des Grundgesetzes zur Verfügung.
 
 
 ## § 4 Investitionen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000500000)
 
 (1) Aus dem Sondervermögen werden in den folgenden Bereichen
 zusätzliche Investitionen des Bundes in die Infrastruktur innerhalb
@@ -96,6 +101,7 @@ ausgabenseitige finanzielle Transaktionen bereinigt.
 
 
 ## § 5 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000600000)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
 Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der
@@ -113,6 +119,7 @@ die sonstigen Verbindlichkeiten des Bundes.
 
 
 ## § 6 Kreditermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000700000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung
 der Ausgaben des Sondervermögens Kredite bis zur Höhe von 500
@@ -125,6 +132,7 @@ die Beträge aus getilgten Krediten wieder zu.
 
 
 ## § 7 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000800000)
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und
@@ -134,6 +142,7 @@ festgestellt.
 
 
 ## § 8 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE000900000)
 
 Das Bundesministerium der Finanzen legt jährlich zum Stichtag 31.
 Dezember Rechnung über die Einnahmen und Ausgaben sowie über das
@@ -142,12 +151,14 @@ Vermögen und die Schulden des Sondervermögens. Die Rechnungen sind den
 
 
 ## § 9 Verwaltungskosten und Kosten der Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE001000000)
 
 Die Kosten für die Verwaltung des Sondervermögens sowie die Kosten der
 Kreditaufnahme trägt der Bundeshaushalt.
 
 
 ## § 10 Erfolgskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE001100000)
 
 (1) Für neue finanzwirksame Maßnahmen des Bundes gemäß § 4 Absatz 1,
 die mit Mitteln des Sondervermögens umgesetzt werden sollen, sind
@@ -179,6 +190,7 @@ Sondervermögens.
 
 
 ## § 11 Laufzeit, Auflösung und Tilgungsplan
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE001200000)
 
 (1) Aus dem Sondervermögen dürfen nur Investitionen finanziert werden,
 die bis zum Ablauf des 31. Dezember 2036 bewilligt werden.
@@ -194,6 +206,7 @@ Zeitraums zurückzuführen.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html#BJNR0E60A0025BJNE001300000)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 

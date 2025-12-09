@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000100328)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 13 des Luftverkehrsgesetzes in
 der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61) in
@@ -30,6 +31,7 @@ Bundesrates verordnet:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000204305)
 
 (1) Die Luftfahrtbehörden und die vom Bundesministerium für Verkehr,
 Bau- und Wohnungswesen Beauftragten nach den §§ 31b und 31c des
@@ -43,6 +45,7 @@ bestimmt ist.
 
 
 ## § 2 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000307311)
 
 (1) Die gebührenpflichtigen Amtshandlungen und die Gebührensätze
 ergeben sich aus dem anliegenden Gebührenverzeichnis, soweit nichts
@@ -76,6 +79,7 @@ Einzelgebühren.
 
 
 ## § 3 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000407305)
 
 (1) Auslagen sind nach § 10 Abs. 1 Nr. 1 bis 8 des
 Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
@@ -117,6 +121,7 @@ vom 19.3.2008, S. 1) in der jeweils geltenden Fassung.
 
 
 ## § 4 Kosten der für die Flugsicherung und für die Luftsportgeräteverwaltung zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000506305)
 
 (1) Gebühren und Auslagen, die der beauftragten
 Flugsicherungsorganisation aus Anlass der in Abschnitt VII Nummer 6
@@ -136,6 +141,7 @@ Umsatzsteuer hinzuzurechnen.
 
 
 ## § 5 Kostenermäßigung und Kostenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000600328)
 
 Soweit wegen der besonderen Lage eines Einzelfalls die für eine
 Amtshandlung nach dem Gebührenverzeichnis festzusetzende Gebühr
@@ -145,6 +151,7 @@ Gebührenbefreiung gewährt werden. Dies gilt auch für Auslagen.
 
 
 ## § 6 Kosten in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000701305)
 
 Eine nach Abschnitt III des Gebührenverzeichnisses für eine Prüfung
 oder Überprüfung festgesetzte Gebühr kann bis zur Hälfte ermäßigt
@@ -155,6 +162,7 @@ befreit wird.
 
 
 ## § 7 Zurückbehaltung von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000800328)
 
 Urkunden (zum Beispiel Zulassungsscheine, Genehmigungen, Erlaubnisse,
 Ausweise), die im Zusammenhang mit der kostenpflichtigen Amtshandlung
@@ -164,6 +172,7 @@ werden.
 
 
 ## § 8 Stundung und Erlaß
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE000900328)
 
 Die Forderungen auf Zahlung von Gebühren können auch gestundet oder
 ganz oder teilweise erlassen werden, wenn das öffentliche Interesse es
@@ -171,6 +180,7 @@ verlangt.
 
 
 ## § 8a Zuschläge für Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE001400308)
 
 Für Amtshandlungen, deren Bearbeitungszeitraum die Dauer eines Jahres
 überschreitet, sind die Zuschläge je angefangene Arbeitsstunde
@@ -179,6 +189,7 @@ Gebührenverzeichnisses.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE001103305)
 
 Bei Änderung des Gebührenverzeichnisses vor Beendigung einer
 Amtshandlung bemisst sich die Gebühr nach dem bei Beendigung der
@@ -189,12 +200,14 @@ mehr als ein Zehntel überschreiten.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE001200328)
 
 Der Bundesminister für Verkehr
 
 Gebührenverzeichnis
 
 ## Anlage (zu § 2 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/luftkostv/BJNR003460984.html#BJNR003460984BJNE001339119)
 
 (Fundstelle: BGBl. I 2010, 1225 - 1242;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

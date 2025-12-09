@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000100303)
 
 Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des §
 76 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August
@@ -26,6 +27,7 @@ Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des §
 
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000200303)
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
@@ -42,6 +44,7 @@ für ihn nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter.
 
 
 ## § 2 Hinterlegung der Bonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000300303)
 
 Eine Hinterlegung von Sterlingbonds nach § 23 Abs. 2 des Gesetzes ist
 im Vereinigten Königreich von Großbritannien und Nordirland nur bei
@@ -49,6 +52,7 @@ den für die Anleihe zuständigen Zahlungsagenten zulässig.
 
 
 ## § 3 Beweisführung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000400303)
 
 (1) Durch die Bescheinigung einer Autorisierten Depotstelle (Absatz
 2), daß der angemeldete Sterlingbond nach § 15 Abs. 2 des Exchange
@@ -66,6 +70,7 @@ handeln berechtigt sind.
 
 
 ## § 4 Gesetzliche Schiedsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000500303)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen des
 Auslandsbevollmächtigten wird nach § 35 des Gesetzes für das
@@ -118,6 +123,7 @@ Ermessen.
 
 
 ## § 5 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000600303)
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können im
 Vereinigten Königreich von Großbritannien und Nordirland gemäß § 70
@@ -126,6 +132,7 @@ bewirkt werden.
 
 
 ## § 6 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000700303)
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
@@ -134,6 +141,7 @@ diese Rechtsverordnung auch im Land Berlin.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_3/BJNR513400953.html#BJNR513400953BJNE000800303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

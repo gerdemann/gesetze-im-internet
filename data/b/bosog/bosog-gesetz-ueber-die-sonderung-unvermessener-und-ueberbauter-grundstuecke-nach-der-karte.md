@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Sonderung von Grundstücken und dinglichen Nutzungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNG000100303)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE000500303)
 
 Durch einen mit Sonderungsbescheid festgestellten Sonderungsplan kann
 bei Grundstücken in dem in Artikel 3 des Einigungsvertrages genannten
@@ -65,6 +67,7 @@ Gebiet bestimmt werden,
 
 
 ### § 2 Unvermessenes Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE000600303)
 
 (1) Die Reichweite unvermessenen Eigentums bestimmt sich nach dem
 Ergebnis einer Einigung der betroffenen Grundeigentümer. Die Einigung
@@ -101,6 +104,7 @@ zu bringen ist.
 
 
 ### § 3 Unvermessene Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE000700303)
 
 (1) Bei unvermessenen dinglichen Nutzungsrechten bestimmt sich der
 räumliche Umfang der Befugnis zur Ausübung des Rechtes nach dem Inhalt
@@ -127,12 +131,14 @@ nachgewiesen wird. § 2 Abs. 3 gilt sinngemäß.
 
 
 ### § 4 Vollzug des Sachenrechtsbereinigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE000800303)
 
 In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden
 dinglichen Rechtsverhältnisse nach dem Sachenrechtsbereinigungsgesetz.
 
 
 ### § 5 Bodenneuordnung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE000900303)
 
 (1) Durch Bodenneuordnung können aus Grundstücken, die nicht der
 Vermögenszuordnung unterliegen, oder Teilen hiervon neue Grundstücke
@@ -191,10 +197,12 @@ Zuordnungsbescheid ergangen ist.
 
 
 ## Abschnitt 2 - Durchführung der Sonderung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNG000200303)
 
 
 
 ### § 6 Ablauf des Sonderungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001000303)
 
 (1) Die Sonderungsbehörde (§ 10) legt unvermessenes Eigentum,
 unvermessene Nutzungsrechte, den räumlichen Umfang von Ansprüchen nach
@@ -241,6 +249,7 @@ Zustimmungsvorbehalt nur auf Ersuchen der Sonderungsbehörde ein.
 
 
 ### § 7 Inhalt des Sonderungsbescheids und des Sonderungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001101377)
 
 (1) Der Sonderungsbescheid stellt den Sonderungsplan verbindlich fest.
 Der Sonderungsplan ist Bestandteil des Bescheids. § 3a des
@@ -255,6 +264,7 @@ die Stelle eines vorhandenen Ersatzes für das amtliche Verzeichnis.
 
 
 ### § 8 Aufstellung des Sonderungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001201301)
 
 (1) Die Sonderungsbehörde erstellt für das von ihr festgelegte
 Plangebiet einen Entwurf des Sonderungsplans. Sie kann die
@@ -333,6 +343,7 @@ bestehenden Vorschriften festzulegen.
 
 
 ### § 9 Erlaß des Sonderungsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001300303)
 
 (1) Nach Ablauf der in § 8 Abs. 4 und 5 genannten Frist stellt die
 Sonderungsbehörde den Sonderungsplan durch einen Bescheid verbindlich
@@ -369,6 +380,7 @@ Sonderungsbescheid nicht.
 
 
 ### § 10 Sonderungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001400303)
 
 Sonderungsbehörde ist in den Fällen des § 1 Nr. 3 und 4 die Gemeinde,
 im übrigen die für die Führung des Liegenschaftskatasters zuständige
@@ -382,6 +394,7 @@ werden.
 
 
 ### § 11 Besonderheiten bei der ergänzenden Bodenneuordnung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001500303)
 
 Ist bei Einleitung des Sonderungsverfahrens nach § 5 Abs. 2 ein
 Zuordnungsbescheid nach § 2 Abs. 2b des Vermögenszuordnungsgesetzes
@@ -396,6 +409,7 @@ Zuordnungsplans oder des einheitlichen Plans zu beschränken.
 
 
 ### § 12 Aussetzung von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001600303)
 
 Die Sonderungsbehörde kann ein Verfahren nach diesem Gesetz aussetzen,
 soweit im Plangebiet ein Verfahren nach dem 8. Abschnitt des
@@ -408,10 +422,12 @@ Behörden über die Einleitung eines Sonderungsverfahrens.
 
 
 ## Abschnitt 3 - Wirkungen der Sonderung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNG000300303)
 
 
 
 ### § 13 Umfang der Grundstücksrechte im Sonderungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001700303)
 
 (1) Mit Bestandskraft des Sonderungsbescheids haben die Grundstücke
 den in dem Sonderplan bezeichneten Umfang. Zu diesem Zeitpunkt werden
@@ -455,6 +471,7 @@ den neu gebildeten Grundstücken fort. Dies gilt nicht, wenn
 
 
 ### § 14 Bereicherungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001800303)
 
 In den Fällen des § 1 Nr. 1 kann, soweit der festgestellte Umfang des
 Grundstücks oder der Befugnis zur Ausübung des dinglichen
@@ -472,6 +489,7 @@ erforderlich.
 
 
 ### § 15 Ausgleich für Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE001900303)
 
 (1) Demjenigen, der durch die Bodenneuordnung (§ 5) ein dingliches
 Recht an einem Grundstück oder ein selbständiges Gebäudeeigentum
@@ -516,6 +534,7 @@ Vorschrift kann ganz oder teilweise gesondert entschieden werden.
 
 
 ### § 16 Einrede der Sonderung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002000303)
 
 Soweit ein Sonderungsverfahren nach diesem Gesetz anhängig und nicht
 ausgesetzt ist, kann Ansprüchen aus § 919 oder § 920 des Bürgerlichen
@@ -524,6 +543,7 @@ Sonderung entgegengehalten werden.
 
 
 ### § 17 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002100303)
 
 Die Kosten des Verwaltungsverfahrens tragen, soweit nichts Besonderes
 bestimmt ist, die Eigentümer der in den Sonderungsplan aufgenommenen
@@ -537,10 +557,12 @@ Berichtigung des Grundbuchs ist kostenfrei. Im übrigen gilt § 108 Abs.
 
 
 ## Abschnitt 4 - Rechtsschutz, Verhältnis zu anderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNG000400303)
 
 
 
 ### § 18 Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002201301)
 
 (1) Sonderungsbescheide sowie sonstige Bescheide nach diesem Gesetz
 können von Planbetroffenen nur durch Antrag auf gerichtliche
@@ -599,6 +621,7 @@ Anwendung.
 
 
 ### § 19 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002302377)
 
 (1) Gegen die Entscheidung des Landgerichts ist das Rechtsmittel der
 Beschwerde zulässig, wenn die Entscheidung auf einer Verletzung des
@@ -621,6 +644,7 @@ des Oberlandesgerichts.
 
 
 ### § 20 Unterrichtung anderer Stellen, Fortschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002400303)
 
 (1) Soweit die Sonderungsbehörde nicht für die Führung des
 Liegenschaftskatasters zuständig ist, übersendet sie dieser Behörde
@@ -648,6 +672,7 @@ zuständigen Stelle.
 
 
 ### § 21 Verhältnis zu anderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002500303)
 
 Verfahren nach diesem Gesetz stehen Verfahren nach dem Baugesetzbuch,
 dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes, dem
@@ -655,6 +680,7 @@ Flurbereinigungsgesetz oder den Zuordnungsvorschriften nicht entgegen.
 
 
 ### § 22 Überleitungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002600303)
 
 (1) Bis zum Erlaß des Sachenrechtsbereinigungsgesetzes behält sich die
 Sonderungsbehörde eine endgültige Entscheidung über Ansprüche nach §
@@ -667,6 +693,7 @@ werden, auf welchen Grundstücken sich Gebäudeeigentum nach Artikel 233
 
 
 ### § 23 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bosog/BJNR221500993.html#BJNR221500993BJNE002701301)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die

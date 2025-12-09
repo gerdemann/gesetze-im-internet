@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000105311)
 
 (1) Dieses Gesetz dient der Gewährleistung eines sicheren Betriebs der
 Eisenbahn und eines attraktiven Verkehrsangebotes auf der Schiene
@@ -59,6 +60,7 @@ Aufgabenteilung ermöglicht wird.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000214119)
 
 (1) Eisenbahnen sind öffentliche Einrichtungen oder privatrechtlich
 organisierte Unternehmen, die Eisenbahnverkehrsdienste erbringen
@@ -220,6 +222,7 @@ Fassung.
 
 
 ## § 2a Feststellung der Eisenbahneigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007402311)
 
 Die für Eisenbahnverkehr zuständige oberste Landesbehörde stellt auf
 Antrag, soweit es sich nicht um Schienenbahnen des Bundes handelt, im
@@ -248,6 +251,7 @@ Benehmen mit dem Bundesministerium für Digitales und Verkehr fest,
 
 
 ## § 2b Übergeordnetes Netz
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009700124)
 
 (1) Das übergeordnete Netz als Teil des einheitlichen europäischen
 Eisenbahnraums ist das regelspurige Eisenbahnnetz, ausgenommen
@@ -300,6 +304,7 @@ funktional getrennten Netz übergehen. Das schließt nicht aus, dass
 
 
 ## § 2c Zuordnung zum übergeordneten Netz
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009800124)
 
 (1) Öffentliche Betreiber der Schienenwege haben der nach § 5 Absatz
 1a zuständigen Behörde auf Verlangen die für die Zuordnung zum
@@ -338,6 +343,7 @@ Internetseite bereit.
 
 
 ## § 3 Öffentlicher Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000303123)
 
 (1) Eisenbahnen dienen dem öffentlichen Verkehr (öffentliche
 Eisenbahnen), wenn sie als
@@ -364,6 +370,7 @@ nichtöffentliche Eisenbahnen.
 
 
 ## § 4 Sicherheitspflichten und Notfallpläne, Zuständigkeiten des Eisenbahn-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000409311)
 
 (1) Eisenbahninfrastrukturen und Fahrzeuge müssen den Anforderungen
 der öffentlichen Sicherheit
@@ -460,6 +467,7 @@ betrieben werden.
 
 
 ## § 4a Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006801124)
 
 (1) Die Eisenbahnen und Halter von Eisenbahnfahrzeugen sind für die
 Instandhaltung jedes ihrer Eisenbahnfahrzeuge zuständig (für die
@@ -520,6 +528,7 @@ aufzubewahren.
 [^F810551_02_BJNR239600993BJNE006801124]: 
 
 ## § 4b Prüfsachverständige
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007103119)
 
 (1) Prüfsachverständige prüfen im Auftrag der Eisenbahnen, der
 Hersteller, der Sicherheitsbehörde oder der Eisenbahnaufsichtsbehörden
@@ -565,6 +574,7 @@ als deren Verwaltungshelfer tätig.
 
 
 ## § 5 Eisenbahnaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000522311)
 
 (1) Durch die Eisenbahnaufsicht wird die Beachtung
 
@@ -896,6 +906,7 @@ Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 
 
 ## § 5a Aufgaben und Befugnisse der Eisenbahnaufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003115311)
 
 (1) Die Eisenbahnaufsichtsbehörden haben die Aufgabe, die Einhaltung
 der in § 5 Abs. 1 genannten Vorschriften zu überwachen, soweit in
@@ -1025,6 +1036,7 @@ durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
 
 
 ## § 5b Eisenbahn-Unfalluntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008902119)
 
 (1) Die Bundesstelle für Eisenbahnunfalluntersuchung untersucht
 Unfälle und Störungen im Sinne des Kapitels V der Richtlinie (EU)
@@ -1132,6 +1144,7 @@ regeln.
 
 
 ## § 5c Erhebung, Verarbeitung und Nutzung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009000301)
 
 (1) Eine Stelle für Eisenbahn-Unfalluntersuchung darf im Rahmen ihrer
 Befugnisse nach § 5b Absatz 3 personenbezogene Daten aller an dem
@@ -1182,6 +1195,7 @@ oder nicht automatisiert in Akten gespeichert.
 
 
 ## § 5d Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009100301)
 
 (1) Eine Stelle für Eisenbahn-Unfalluntersuchung darf vorbehaltlich
 des § 5e die nachstehenden Informationen und Daten zu keinem anderen
@@ -1226,6 +1240,7 @@ Abschnitt dürfen nicht zu Lasten des Aussagenden verwertet werden.
 
 
 ## § 5e Übermittlung an öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009201119)
 
 (1) Eine Übermittlung der in § 5d Absatz 1 bezeichneten Informationen
 und Daten an öffentliche Stellen ist zulässig, soweit im öffentlichen
@@ -1291,6 +1306,7 @@ worden sind.
 
 
 ## § 5f Aufbewahrungs- und Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009300301)
 
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit
 tödlichem Ausgang 30 Jahre. Alle anderen Akten werden 20 Jahre
@@ -1307,6 +1323,7 @@ Absatz 1 bis 6, 8 und 9 des Bundesarchivgesetzes sind anzuwenden.
 
 
 ## § 6 Erteilen und Versagen der Unternehmensgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000606119)
 
 (1) Ohne Unternehmensgenehmigung darf niemand
 
@@ -1362,6 +1379,7 @@ Eisenbahninfrastruktur.
 
 
 ## § 6a Bedingungen für den Erhalt einer Unternehmensgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007500123)
 
 Wer einen Antrag auf Erteilung einer Unternehmensgenehmigung stellt,
 muss der zuständigen Genehmigungsbehörde vor Aufnahme seiner Tätigkeit
@@ -1372,6 +1390,7 @@ erforderlichen Angaben zu machen und zu belegen.
 
 
 ## § 6b Anforderungen an die Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007601124)
 
 (1) Die für die Führung der Geschäfte bestellten Personen und das
 Unternehmen müssen zuverlässig sein.
@@ -1429,6 +1448,7 @@ bestandskräftig festgesetzt wurde.
 
 
 ## § 6c Anforderungen an die finanzielle Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007700123)
 
 (1) Die Anforderungen an die finanzielle Leistungsfähigkeit sind
 erfüllt, wenn der Antragsteller nachweist, dass er seine tatsächlichen
@@ -1457,6 +1477,7 @@ enthalten.
 
 
 ## § 6d Anforderungen an die fachliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007800123)
 
 (1) Die Anforderungen an die fachliche Eignung sind erfüllt, wenn der
 Antragsteller nachweist, dass er über eine Betriebsorganisation
@@ -1476,6 +1497,7 @@ zugelassen wurde.
 
 
 ## § 6e Nachweis der Zuverlässigkeit und der finanziellen Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007900123)
 
 Ist der Antragsteller
 
@@ -1503,6 +1525,7 @@ Vertragsstaaten.
 
 
 ## § 6f Gültigkeit der Unternehmensgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008000123)
 
 (1) Wem nach dem Recht eines anderen Mitgliedstaates der Europäischen
 Union oder eines Vertragsstaates des Abkommens vom 2. Mai 1992 über
@@ -1522,6 +1545,7 @@ ist. Die Frist für die Überprüfung beträgt höchstens fünf Jahre.
 
 
 ## § 6g Widerruf, befristete Unternehmensgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008100123)
 
 (1) Die Genehmigungsbehörde kann bei begründetem Zweifel daran, dass
 ein Unternehmen, dem sie eine Unternehmensgenehmigung erteilt hat, die
@@ -1587,6 +1611,7 @@ unberührt.
 
 
 ## § 6h Unterrichtung der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008200123)
 
 Wenn eine Genehmigungsbehörde einem Eisenbahnverkehrsunternehmen eine
 Unternehmensgenehmigung erteilt, widerruft oder ändert, unterrichtet
@@ -1597,6 +1622,7 @@ Eisenbahn-Bundesamt.
 
 
 ## § 6i Durchführungsrechtsakte der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008300123)
 
 Die Vorschriften der §§ 6 bis 6h sind insoweit nicht anzuwenden, als
 ein auf der Grundlage des Artikels 17 Absatz 5 der Richtlinie
@@ -1607,10 +1633,12 @@ eine inhaltsgleiche oder entgegenstehende Regelung trifft.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000703123)
 
 
 
 ## § 7a Sicherheitsbescheinigung für Eisenbahnverkehrsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003205124)
 
 (1) Eisenbahnverkehrsunternehmen dürfen ohne
 
@@ -1661,16 +1689,19 @@ gilt auch umgekehrt.
 
 
 ## § 7b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006001124)
 
 
 
 ## § 7c Sicherheitsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006103124)
 
 Ohne Sicherheitsgenehmigung dürfen Betreiber der Schienenwege keine
 Eisenbahninfrastruktur im übergeordneten Netz betreiben.
 
 
 ## § 7d Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006202124)
 
 Wer
 
@@ -1705,6 +1736,7 @@ worden ist.
 
 
 ## § 7e Zugang zu Schulungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006302124)
 
 (1) Eisenbahninfrastrukturunternehmen sind verpflichtet, dem Fahr- und
 Begleitpersonal der Eisenbahnverkehrsunternehmen die erforderlichen
@@ -1747,6 +1779,7 @@ zu bescheinigen.
 
 
 ## § 7f Aufnahme des Betriebes
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006401119)
 
 (1) Eine Eisenbahn, die keiner Sicherheitsbescheinigung oder
 -genehmigung bedarf, bedarf für
@@ -1779,6 +1812,7 @@ anzuzeigen.
 
 
 ## § 7g Bescheinigungen betreffend die Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006902124)
 
 (1) Wer als für die Instandhaltung zuständige Stelle
 
@@ -1837,6 +1871,7 @@ internationalen Eisenbahnverkehr – COTIF – (BGBl. 2002 II S. 2140).
 
 
 ## § 7h Zurücknahme oder Einschränkung des Antrags bei Einsatz von Verwaltungshelfern
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE007004123)
 
 Im Falle des Einsatzes von Verwaltungshelfern nach § 5a Absatz 8a wird
 dem Antragsteller die voraussichtliche Höhe der Gebühren und Auslagen
@@ -1845,22 +1880,27 @@ zurückzunehmen oder einzuschränken.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000802123)
 
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE000903123)
 
 
 
 ## § 9a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003701123)
 
 
 
 ## § 9b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003801123)
 
 
 
 ## § 10 Beförderungspflicht; Mitnahme von Fahrrädern
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001001311)
 
 (1) Öffentliche Eisenbahnverkehrsunternehmen, die dem Personenverkehr
 dienen, sind zur Beförderung von Personen und Reisegepäck
@@ -1887,6 +1927,7 @@ neuesten Stand zu halten.
 
 
 ## § 10a Zentrale Anlaufstelle für Personen mit Behinderungen und Personen mit eingeschränkter Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010200311)
 
 (1) Eisenbahnverkehrsunternehmen, die Verkehrsdienste zur Beförderung
 von Personen im Geltungsbereich dieses Gesetzes betreiben, sowie die
@@ -1940,6 +1981,7 @@ des Bundesdatenschutzgesetzes gilt entsprechend.
 
 
 ## § 11 Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen, Betriebspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001104119)
 
 (1) Betreiber von Eisenbahnanlagen und Betreiber von
 Serviceeinrichtungen sind zum Betrieb ihrer Eisenbahninfrastruktur
@@ -2020,6 +2062,7 @@ erteilt.
 
 
 ## § 11a Anlagen zur Erzeugung erneuerbarer Energien
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010700311)
 
 Bei dem Bau oder der Änderung von Eisenbahnanlagen sollen zur
 Förderung der Klimaziele des Bundes diese Anlagen für die Erzeugung
@@ -2028,6 +2071,7 @@ Leichtigkeit des Verkehrs hierdurch nicht beeinträchtigt wird.
 
 
 ## § 12 Tarife
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001212119)
 
 (1) Tarife sind Beförderungsentgelte und Beförderungsbedingungen der
 Eisenbahnverkehrsunternehmen. Die Beförderungsbedingungen umfassen
@@ -2120,6 +2164,7 @@ Genehmigungsbehörde.
 
 
 ## § 12a Fahrgastinformationen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008402311)
 
 (1) Der Betreiber der Schienenwege hat den
 Eisenbahnverkehrsunternehmen und den
@@ -2145,6 +2190,7 @@ erforderlichen Daten zur Verfügung gestellt haben.
 
 
 ## § 12b Elektronische Kommunikation bei Erstattungs- und Entschädigungsanträgen nach der Verordnung (EU) 2021/782
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010300311)
 
 Die Eisenbahnverkehrsunternehmen haben den Fahrgästen zum Einreichen
 von Anträgen, die Erstattungen oder Entschädigungen nach den Artikeln
@@ -2156,6 +2202,7 @@ Juni 2025 nach der Barrierefreie-Informationstechnik-Verordnung.
 
 
 ## § 12c Nachweis der Behinderung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010400311)
 
 Steht den Fahrgästen nach Artikel 11 Absatz 4 Satz 1 der Verordnung
 (EU) 2021/782 wegen einer Behinderung das Recht zu, einen Fahrausweis
@@ -2169,6 +2216,7 @@ Satz 1 gewesen zu sein.
 
 
 ## § 13 Anschluß an andere Eisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001303119)
 
 (1) Jede Eisenbahn hat angrenzenden Eisenbahnen mit Sitz in der
 Bundesrepublik Deutschland den Anschluß an ihre Eisenbahninfrastruktur
@@ -2214,6 +2262,7 @@ diese Eisenbahninfrastruktur Anschluss begehren.
 
 
 ## § 14 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001409123)
 
 (1) Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen
 sind verpflichtet, eine Haftpflichtversicherung zur Deckung der durch
@@ -2233,6 +2282,7 @@ Mai 1992 über den Europäischen Wirtschaftsraum.
 
 
 ## § 14a Ausnahmen von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003903119)
 
 (1) Eine Versicherungspflicht nach § 14 Absatz 1 besteht nicht für
 
@@ -2307,6 +2357,7 @@ bezeichneten Eisenbahnen durch Landesrecht abgewichen werden.
 
 
 ## § 14b Deckungssumme
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004002123)
 
 Die Mindesthöhe der Versicherungssumme beträgt insgesamt 20 Millionen
 Euro je Schadensereignis und muss für jede Versicherungsperiode
@@ -2314,6 +2365,7 @@ mindestens zweimal zur Verfügung stehen.
 
 
 ## § 14c Nachweis- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004103119)
 
 (1) Das Bestehen einer Versicherung nach § 14 ist von
 Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen vor
@@ -2343,6 +2395,7 @@ Versicherungsvertragsgesetzes.
 
 
 ## § 14d Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004201123)
 
 Eisenbahnverkehrsunternehmen müssen auf Verlangen des
 Eisenbahninfrastrukturunternehmens, dessen Infrastruktur sie benutzen,
@@ -2351,6 +2404,7 @@ Bestätigung über das Bestehen einer Versicherung nach § 14 vorlegen.
 
 
 ## § 15 Gemeinwirtschaftliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001501119)
 
 Für die Vereinbarung oder Auferlegung gemeinwirtschaftlicher
 Leistungen ist die Verordnung (EG) Nr. 1370/2007 in der jeweils
@@ -2361,6 +2415,7 @@ des Bundes.
 
 
 ## § 16 Ausgleich betriebsfremder Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001602124)
 
 (1) Unbeschadet des § 15 sind den nichtbundeseigenen öffentlichen
 Eisenbahnen Belastungen und Nachteile auszugleichen, die sich aus
@@ -2419,6 +2474,7 @@ dem jeweiligen Land erbracht wird.
 
 
 ## § 17 Vorarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001702311)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
 der Planung und der Baudurchführung eines Vorhabens oder von
@@ -2448,6 +2504,7 @@ fest. Vor der Entscheidung sind die Beteiligten zu hören.
 
 
 ## § 17a Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009400124)
 
 Die Anhörungsbehörde kann einen Dritten mit der Vorbereitung und
 Durchführung von Verfahrensschritten, insbesondere
@@ -2482,6 +2539,7 @@ verbleibt bei der zuständigen Behörde.
 
 
 ## § 18 Erfordernis der Planfeststellung und vorläufige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004906311)
 
 (1) Betriebsanlagen einer Eisenbahn einschließlich der
 Bahnfernstromleitungen dürfen nur gebaut oder geändert werden, wenn
@@ -2596,6 +2654,7 @@ oder Plangenehmigung.
 
 
 ## § 18a Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005007311)
 
 (1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten §
 73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des
@@ -2669,6 +2728,7 @@ unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
 
 
 ## § 18b Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005104311)
 
 (1) Für den Planfeststellungsbeschluss und die Plangenehmigung gelten
 § 74 des Verwaltungsverfahrensgesetzes und § 27 des Gesetzes über die
@@ -2710,6 +2770,7 @@ Information im Internet veröffentlicht werden.
 
 
 ## § 18c Rechtswirkungen der Planfeststellung und der Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005204311)
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -2743,6 +2804,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 
 
 ## § 18d Planänderung vor Fertigstellung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005302377)
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
@@ -2756,6 +2818,7 @@ dieses Gesetzes.
 
 
 ## § 18e Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005406311)
 
 (1) § 50 Abs. 1 Nr. 6 der Verwaltungsgerichtsordnung gilt für Vorhaben
 im Sinne des § 18 Absatz 1 Satz 1, soweit die Vorhaben Schienenwege
@@ -2815,6 +2878,7 @@ Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte.
 
 
 ## § 18f Veröffentlichung im Internet
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009501311)
 
 Wird der Plan nicht nach § 18a Absatz 3 Satz 1, § 27a Absatz 1 des
 Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die
@@ -2827,6 +2891,7 @@ der Veröffentlichung hinzuweisen.
 
 
 ## § 18g Prognostizierte Verkehrsentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009601311)
 
 (1) Ist dem gemäß § 73 Absatz 1 des Verwaltungsverfahrensgesetzes
 einzureichenden Plan eine Berechnung des Beurteilungspegels für vom
@@ -2867,6 +2932,7 @@ Umwelteinwirkungen durch Verkehrslärm bestimmt sich nach den §§ 41 bis
 
 
 ## § 19 Veränderungssperre, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE001901311)
 
 (1) Vom Beginn der Veröffentlichung im Internet oder der Auslegung der
 Pläne im Planfeststellungsverfahren oder von dem Zeitpunkt an, zu dem
@@ -2891,6 +2957,7 @@ an den betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 ## § 20 Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002002311)
 
 (1) Wird ein Planfeststellungsverfahren oder ein
 Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
@@ -2938,6 +3005,7 @@ Planfeststellungsbehörde eingereicht wurde.
 
 
 ## § 20a Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010800311)
 
 (1) Bei grenzüberschreitenden Vorhaben nach § 20 Absatz 1 Satz 1
 sollen die zuständigen Behörden zusammenarbeiten, erforderliche
@@ -2961,6 +3029,7 @@ unterrichten.
 
 
 ## § 20b Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010900311)
 
 Zur Vorbereitung der Berichterstattung an die Europäische Kommission
 hat die Planfeststellungsbehörde dem Bundesministerium für Digitales
@@ -2994,6 +3063,7 @@ mitzuteilen:
 
 
 ## § 21 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002102311)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für den Bau oder die
@@ -3080,6 +3150,7 @@ oder Plangenehmigung. Über die vorzeitige Besitzeinweisung nach Absatz
 
 
 ## § 22 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002202119)
 
 (1) Für Zwecke des Baus und des Ausbaus von Betriebsanlagen der
 Eisenbahn sowie für deren Unterhaltung ist die Enteignung zulässig.
@@ -3104,6 +3175,7 @@ werden.
 
 
 ## § 22a Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005501124)
 
 Soweit der Vorhabenträger nach § 18 Absatz 2 oder auf Grund eines
 Planfeststellungsbeschlusses oder einer Plangenehmigung verpflichtet
@@ -3116,6 +3188,7 @@ entsprechend.
 
 
 ## § 22b Duldungspflichten bei Unterhaltung von Betriebsanlagen einer Eisenbahn
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE009901119)
 
 (1) Soweit es zur Unterhaltung einer Betriebsanlage einer Eisenbahn
 erforderlich ist, haben Eigentümer und sonstige Nutzungsberechtigte zu
@@ -3130,6 +3203,7 @@ Geschädigte Anspruch auf Schadensersatz.
 
 
 ## § 23 Freistellung von Bahnbetriebszwecken
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002306119)
 
 (1) Der Bahnbetriebszweck eines Grundstücks, das Betriebsanlage einer
 Eisenbahn ist oder auf dem sich eine Betriebsanlage einer Eisenbahn
@@ -3231,6 +3305,7 @@ Entscheidung zu unterrichten.
 
 
 ## § 24 Verkehrssicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002403119)
 
 Wer die Verfügungsgewalt über ein Grundstück besitzt, ist
 verpflichtet, auf dem Grundstück innerhalb eines 50 Meter breiten
@@ -3256,6 +3331,7 @@ Eisenbahnkreuzungsgesetzes bleibt unberührt.
 
 
 ## § 24a Befugnisse der Schienenwege betreibenden Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010100119)
 
 (1) Zur Gewährleistung einer betriebssicheren Eisenbahninfrastruktur
 im Sinne des § 4 Absatz 3 sind Schienenwege betreibende Unternehmen,
@@ -3347,6 +3423,7 @@ Forstwirtschaft sind zu berücksichtigen.
 
 
 ## § 25 Besetzungszeiten von Arbeitsplätzen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002501123)
 
 Öffentliche Eisenbahnen entscheiden allein darüber, zu welchen Zeiten
 Arbeitsplätze für das Erbringen von Eisenbahnverkehrsdiensten sowie
@@ -3359,6 +3436,7 @@ nach Satz 1 festgelegten Besetzungszeiten bleibt unberührt.
 
 
 ## § 26 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002632311)
 
 (1) Zur Gewährleistung der Sicherheit und der Ordnung im
 Eisenbahnwesen, des Umweltschutzes oder zum Schutz von Leben und
@@ -3735,6 +3813,7 @@ Absatz 3 Satz 1 und 5 nicht anzuwenden.
 
 
 ## § 27 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002706311)
 
 Das Bundesministerium für Digitales und Verkehr kann im Einvernehmen
 mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des
@@ -3745,6 +3824,7 @@ insbesondere über die Ahndung einer Ordnungswidrigkeit nach § 28 Abs.
 
 
 ## § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002809119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3837,6 +3917,7 @@ dies zur Durchführung der betreffenden Verordnung erforderlich ist.
 
 
 ## § 29 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE002904119)
 
 (1) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Eisenbahn-Bundesamt
@@ -3869,9 +3950,11 @@ Absatz 1 entsprechend anzuwenden.
 
 
 ## § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003002119)
 
 
 ## § 31 Teilnahme am Eisenbahnbetrieb durch Fahrzeughalter
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003303123)
 
 Für Fahrzeughalter gelten, wenn nichts anderes bestimmt ist, die
 Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen
@@ -3879,6 +3962,7 @@ entsprechend.
 
 
 ## § 32 Teilnahme am Eisenbahnbetrieb durch Wagenhalter
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003408124)
 
 Für Wagenhalter gelten, wenn nichts anderes bestimmt ist, die
 Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen
@@ -3886,10 +3970,12 @@ entsprechend, soweit sie die Eisenbahnaufsicht betreffen.
 
 
 ## § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003501308)
 
 
 
 ## § 34 Netzbeirat
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004501123)
 
 Soweit es zur Entwicklung, zum Ausbau oder zum Erhalt von
 Schienenwegen erforderlich ist, ist ein Betreiber der Schienenwege auf
@@ -3907,9 +3993,11 @@ Netzbeirat soll nicht mehr als 15 Mitglieder haben.
 
 
 ## § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004601119)
 
 
 ## § 35a Eisenbahnsicherheitsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006501124)
 
 (1) Der Eisenbahnsicherheitsbeirat hat die Aufgabe, das Eisenbahn-
 Bundesamt bei der Wahrnehmung seiner Aufgaben als Sicherheitsbehörde
@@ -3937,14 +4025,17 @@ Eisenbahn-Bundesamt ist insoweit auskunftspflichtig.
 
 
 ## § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004701123)
 
 
 
 ## § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE004801123)
 
 
 
 ## § 38 Weitere Übergangsvorschriften, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE003615119)
 
 (1) Berührt die Eisenbahninfrastruktur eines nichtbundeseigenen
 Eisenbahninfrastrukturunternehmens, dessen Genehmigungen bis zum 1.
@@ -4074,6 +4165,7 @@ Dezember 2023 geltenden Fassung weitergeführt.
 
 
 ## § 39 Übergangsregelung für Planungen
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005600308)
 
 (1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
 oder Plangenehmigungsverfahren werden nach den Vorschriften dieses
@@ -4087,6 +4179,7 @@ soweit der Plan noch nicht außer Kraft getreten ist.
 
 
 ## § 40 Evaluierung der zentralen Anlaufstelle für Personen mit Behinderungen und Personen mit eingeschränkter Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE006702311)
 
 Die Bundesregierung evaluiert die zentrale Anlaufstelle für Personen
 mit Behinderungen und Personen mit eingeschränkter Mobilität nach §
@@ -4095,6 +4188,7 @@ mit Behinderungen und Personen mit eingeschränkter Mobilität nach §
 (zu § 18e Absatz 1)
 
 ## Anlage 1 Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE005703124)
 
 (Fundstelle: BGBl. I 2018, 2240,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4341,6 +4435,7 @@ verbunden sind.
 (zu § 6c)
 
 ## Anlage 2 Finanzielle Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE008500123)
 
 (Fundstelle: BGBl. I 2016, 2128)
 
@@ -4371,6 +4466,7 @@ f)  Steuern und Sozialversicherungsbeiträge.
 
 
 ## Anlage 3 (zu § 20 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010500311)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 20)
 
@@ -4472,6 +4568,7 @@ f)  Steuern und Sozialversicherungsbeiträge.
 
 
 ## Anlage 4 (zu § 20 Absatz 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/_g_1994/BJNR239600993.html#BJNR239600993BJNE010600311)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 20 - 22)
 

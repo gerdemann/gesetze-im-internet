@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/uiggebv/BJNR373200994.html#BJNR373200994BJNE000204116)
 
 (1) Für individuell zurechenbare öffentliche Leistungen der
 informationspflichtigen Stellen auf Grund des
@@ -45,6 +46,7 @@ Auslagen nicht die Höhe von 5 Euro, werden sie nicht erhoben.
 
 
 ## § 2 Befreiung und Ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/uiggebv/BJNR373200994.html#BJNR373200994BJNE000303116)
 
 Von der Erhebung von Gebühren und Auslagen kann ganz oder teilweise
 abgesehen werden, wenn dies im Einzelfall aus Gründen des öffentlichen
@@ -52,6 +54,7 @@ Interesses oder der Billigkeit geboten ist.
 
 
 ## § 3 Rücknahme von Anträgen
+[Direktlink](https://www.gesetze-im-internet.de/uiggebv/BJNR373200994.html#BJNR373200994BJNE000404116)
 
 Wird ein Antrag auf Erbringung einer individuell zurechenbaren
 öffentlichen Leistung zurückgenommen oder wird ein Antrag abgelehnt
@@ -60,12 +63,14 @@ keine Gebühren und Auslagen erhoben.
 
 
 ## § 4 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/uiggebv/BJNR373200994.html#BJNR373200994BJNE000502377)
 
 -
 
 (zu § 1 Abs. 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/uiggebv/BJNR373200994.html#BJNR373200994BJNE000604116)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 3709)
 

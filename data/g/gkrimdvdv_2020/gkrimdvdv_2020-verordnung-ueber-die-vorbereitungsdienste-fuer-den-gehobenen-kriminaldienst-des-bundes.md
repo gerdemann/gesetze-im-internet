@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-6-31 v. 2.2.2015 I 98, 100 (GKrimDVDV)
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000200000)
 
 Vorbereitungsdienste für die Laufbahn des gehobenen Kriminaldienstes
 des Bundes sind
@@ -48,6 +50,7 @@ Verwaltung (Hochschule) durchgeführt.
 
 
 ### § 2 Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000300000)
 
 (1) Die Studierenden sind Beamtinnen und Beamte des
 Bundeskriminalamts.
@@ -65,6 +68,7 @@ Bundeskriminalamts.
 
 
 ### § 3 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000400000)
 
 (1) Die Studierenden unterstehen der Dienstaufsicht der Präsidentin
 oder des Präsidenten des Bundeskriminalamts
@@ -112,11 +116,13 @@ Kriminalpolizeidienststellen der Länder.
 
 
 ### § 4 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000500000)
 
 Die Zeiten des Erholungsurlaubs werden von der Hochschule bestimmt.
 
 
 ### § 5 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000601311)
 
 (1) Die in den Prüfungen des Vorbereitungsdienstes erbrachten
 Leistungen werden wie folgt bewertet:
@@ -301,12 +307,15 @@ zusammengefasst, so wird als Bewertung eine Rangpunktzahl berechnet.
 
 
 ## Teil 2 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000200000)
 
 
 ### Abschnitt 1 - Auswahlverfahren für das Studium
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000300000)
 
 
 #### § 6 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000704311)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen
@@ -335,6 +344,7 @@ endgültig zu löschen.
 
 
 #### § 6a Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012900311)
 
 Das Auswahlverfahren besteht aus den folgenden Teilen:
 
@@ -351,6 +361,7 @@ Das Auswahlverfahren besteht aus den folgenden Teilen:
 
 
 #### § 6b Festlegungen der Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013000311)
 
 (1) Die Dienstbehörde legt fest:
 
@@ -387,6 +398,7 @@ Tauglichkeit ist variabel.
 
 
 #### § 6c Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013100311)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 kognitive Fähigkeiten und die Fähigkeit, einen Text sicher zu
@@ -410,6 +422,7 @@ zwei weitere Auswahlinstrumente ergänzt werden.
 
 
 #### § 6d Zulassung zum mündlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013200311)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil bestanden hat. Findet der mündliche Teil nach der
@@ -423,6 +436,7 @@ mitzuteilen und zu begründen.
 
 
 #### § 6e Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013300311)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der
 Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich
@@ -451,6 +465,7 @@ ergänzt werden.
 
 
 #### § 6f Zulassung zur Prüfung der körperlichen Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013400311)
 
 (1) Zur Prüfung der körperlichen Tauglichkeit wird zugelassen, wer den
 mündlichen Teil bestanden hat. Findet die Prüfung der körperlichen
@@ -463,6 +478,7 @@ Nichtzulassung ist ihr elektronisch mitzuteilen und zu begründen.
 
 
 #### § 6g Prüfung der körperlichen Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013500311)
 
 (1) Die Prüfung der körperlichen Tauglichkeit besteht aus
 
@@ -488,6 +504,7 @@ Nichtzulassung ist ihr elektronisch mitzuteilen und zu begründen.
 
 
 #### § 6h Gesamtergebnis und Wiederholungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013600311)
 
 (1) Für jede Bewerberin und jeden Bewerber, die oder der alle drei
 Teile des Auswahlverfahrens bestanden hat, ermittelt die
@@ -510,6 +527,7 @@ endgültig zu löschen.
 
 
 #### § 6i Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013700311)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
 einem Täuschungsversuch hilft, wird vom Auswahlverfahren
@@ -519,6 +537,7 @@ ausgeschlossen.
 
 
 #### § 7 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000801311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das
 Bundeskriminalamt eine Auswahlkommission ein. Bei Bedarf können
@@ -553,6 +572,7 @@ der Auswahlkommission.
 
 
 #### § 8 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE000901311)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -582,12 +602,15 @@ der Auswahlkommission.
 
 
 ### Abschnitt 2 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000400000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000500000)
 
 
 ##### § 9 Ziel des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001000000)
 
 Das Studium hat insbesondere zum Ziel,
 
@@ -614,6 +637,7 @@ Das Studium hat insbesondere zum Ziel,
 
 
 ##### § 10 Dauer des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001100000)
 
 (1) Das Studium dauert nach § 13 Absatz 1 Satz 1 der
 Bundeslaufbahnverordnung in der Regel sechs Semester.
@@ -624,6 +648,7 @@ Semester 30 Leistungspunkte nach dem Europäischen System zur
 
 
 ##### § 11 Gliederung des Studiums und Teilnahmepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001202311)
 
 (1) Das Studium gliedert sich in
 
@@ -816,9 +841,11 @@ verpflichtend.
 
 
 #### Unterabschnitt 2 - Module
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000600000)
 
 
 ##### § 12 Verteilung und Inhalt der Module
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001304311)
 
 (1) Die Einzelheiten der Inhalte und des Verlaufs der Module werden
 von der Hochschule im Modulhandbuch „Kriminalvollzugsdienst im
@@ -828,6 +855,7 @@ Bundeskriminalamt“ nach § 11 Absatz 3 festgelegt.
 
 
 ##### § 13 Durchführungsort
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001405311)
 
 (1) Die Module der Fachstudien I werden als Grundlagenstudium am
 Zentralen Lehrbereich der Hochschule in Brühl durchgeführt. Die Module
@@ -844,12 +872,14 @@ werden.
 
 
 ##### § 14 Gestaltung und Organisation der Module der praxisintegrierenden Studien
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001501311)
 
 Die Hochschule bestimmt und überwacht die Gestaltung und die
 Organisation der Module der praxisintegrierenden Studien I und II.
 
 
 ##### § 15 Ausbildungsplan für die Module der praxisintegrierenden Studien
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001601311)
 
 Für die Module der praxisintegrierenden Studien I und II erstellt die
 Hochschule für jede Studierende und jeden Studierenden einen
@@ -857,6 +887,7 @@ Ausbildungsplan und gibt ihn der oder dem Studierenden bekannt.
 
 
 ##### § 16 Ausbildungsverantwortliche für die Module der praxisintegrierenden Studien
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001701311)
 
 (1) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule
 
@@ -877,9 +908,11 @@ sie die Studierenden und die Ausbildenden.
 
 
 #### Unterabschnitt 3 - Modulbegleitende Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000701311)
 
 
 ##### § 17 Durchführung und Inhalte der modulbegleitenden Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001801311)
 
 (1) Zusätzlich zu den Modulen werden in den Fachstudien
 modulbegleitende Veranstaltungen durchgeführt.
@@ -905,6 +938,7 @@ Veranstaltungen richten sich nach dem Modulhandbuch
 
 
 ##### § 18 Prüfungen in den modulbegleitenden Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE001901311)
 
 (1) Im Polizeitraining ist eine Prüfung vorgeschrieben. Die Prüfung
 muss vor den praxisintegrierenden Studien I durchgeführt werden.
@@ -932,6 +966,7 @@ bestanden hat, darf an den praxisintegrierenden Studien I teilnehmen.
 
 
 ##### § 18a Prüfung im Polizeitraining
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013800311)
 
 (1) Im Polizeitraining ist eine praktische Prüfung abzulegen.
 
@@ -965,6 +1000,7 @@ ist
 
 
 ##### § 18b Wiederholung von Prüfungen in den modulbegleitenden Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE013901311)
 
 (1) Wer eine Prüfung in den modulbegleitenden Veranstaltungen nicht
 bestanden hat, kann sie jeweils einmal wiederholen.
@@ -978,12 +1014,15 @@ das Studium „Kriminalvollzugsdienst im Bundeskriminalamt“ beendet.
 
 
 ### Abschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000800000)
 
 
 #### Unterabschnitt 1 - Allgemeines und Organisatorisches
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG000900000)
 
 
 ##### § 19 Zweck der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002000000)
 
 Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder
 des Studierenden für den gehobenen Kriminaldienst des Bundes
@@ -991,6 +1030,7 @@ festzustellen.
 
 
 ##### § 20 Bestandteile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002100000)
 
 (1) Die Bachelorprüfung ist die Laufbahnprüfung.
 
@@ -1006,6 +1046,7 @@ festzustellen.
 
 
 ##### § 21 Prüfungsamt der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002201311)
 
 (1) Für die Organisation und Durchführung der Modulprüfungen in den
 Modulen 1 bis 4 ist das Prüfungsamt für das Grundstudium am
@@ -1025,9 +1066,11 @@ durchgeführt werden.
 
 
 #### Unterabschnitt 2 - Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001000000)
 
 
 ##### § 22 Module mit Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002301311)
 
 (1) In jedem der Module 1 bis 13 hat die oder der Studierende eine
 Modulprüfung abzulegen.
@@ -1037,6 +1080,7 @@ Verteidigung der Thesis abgeschlossen sein.
 
 
 ##### § 23 Modulprüfungen in den fachtheoretischen Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002405311)
 
 (1) In den Modulen 1 bis 6, 8 bis 11 und 13 besteht die Modulprüfung
 mindestens aus einem schriftlichen Teil. Der schriftliche Teil kann
@@ -1077,6 +1121,7 @@ Bundeskriminalamt“.
 
 
 ##### § 24 Zwischenprüfung und Bescheinigung über die Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002500000)
 
 (1) Die Modulprüfungen in den Modulen 1 bis 4 entsprechen der
 Zwischenprüfung des gemeinsamen fachbereichsübergreifenden
@@ -1090,6 +1135,7 @@ Modulprüfungen in den Modulen 1 bis 4 erreicht hat.
 
 
 ##### § 25 Modulprüfungen in den praxisintegrierenden Studien
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002601311)
 
 (1) Im Modul 7 ist die Modulprüfung mindestens die dienstliche
 Bewertung. Darüber hinaus können weitere Formen festgelegt werden,
@@ -1108,6 +1154,7 @@ Bundeskriminalamt“.
 
 
 ##### § 26 Prüfende für die Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002701311)
 
 (1) Für die Bewertung der in den Modulprüfungen erbrachten Leistungen
 bestellt das zuständige Prüfungsamt Prüfende.
@@ -1136,12 +1183,14 @@ nicht weisungsgebunden.
 
 
 ##### § 27 Bestehen einer Modulprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002800000)
 
 Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf
 Rangpunkten bewertet worden ist.
 
 
 ##### § 28 Wiederholung von Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE002902311)
 
 (1) Wer eine Modulprüfung in einem der Module 1 bis 6 und 8 bis 11
 oder im Modul 13 nicht bestanden hat, kann sie zunächst einmal
@@ -1168,9 +1217,11 @@ Studium beendet.
 
 
 #### Unterabschnitt 3 - Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001100000)
 
 
 ##### § 29 Bestandteile der Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003000000)
 
 Die Bachelorarbeit besteht aus
 
@@ -1184,6 +1235,7 @@ Die Bachelorarbeit besteht aus
 
 
 ##### § 30 Zweck der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003100000)
 
 In der Thesis soll die oder der Studierende nachweisen, dass sie oder
 er fähig ist, innerhalb einer vorgegebenen Bearbeitungszeit eine für
@@ -1192,6 +1244,7 @@ Methoden und wissenschaftlichen Standards selbständig zu bearbeiten.
 
 
 ##### § 31 Thema der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003201311)
 
 (1) Bereits im fünften Semester hat die oder der Studierende einen
 Themenvorschlag und ein Exposé für die Thesis bei der Hochschule
@@ -1215,6 +1268,7 @@ Zustimmung des Prüfungsamts beim Bundeskriminalamt geändert werden.
 
 
 ##### § 32 Bearbeitungszeit und Abgabetermin für die Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003301311)
 
 (1) Die Bearbeitungszeit für die Thesis beträgt acht Wochen.
 
@@ -1226,6 +1280,7 @@ Bundeskriminalamt“ nach § 11 Absatz 3.
 
 
 ##### § 33 Prüfende für die Thesis und Bewertung der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003401311)
 
 (1) Sobald das Thema der Thesis festgelegt worden ist, bestellt das
 Prüfungsamt beim Bundeskriminalamt eine Erstprüfende oder einen
@@ -1289,6 +1344,7 @@ unabhängig und nicht weisungsgebunden.
 
 
 ##### § 34 Betreuung bei Anfertigung der Thesis und Durchführungsort
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003501311)
 
 (1) Die oder der Studierende hat Anspruch darauf, bei der Anfertigung
 der Thesis von den beiden Prüfenden betreut zu werden.
@@ -1297,6 +1353,7 @@ der Thesis von den beiden Prüfenden betreut zu werden.
 
 
 ##### § 35 Freistellung vom Dienst
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003601311)
 
 Während der Bearbeitungszeit für die Thesis ist die oder der
 Studierende von den sonstigen dienstlichen Verpflichtungen
@@ -1304,12 +1361,14 @@ freigestellt.
 
 
 ##### § 36 Vorgaben für die Form der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003700000)
 
 Die Vorgaben für die Form der Thesis legt das Prüfungsamt beim
 Bundeskriminalamt fest.
 
 
 ##### § 37 Abgabe der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003801311)
 
 (1) Die Thesis ist im Prüfungsamt beim Bundeskriminalamt abzugeben.
 Die Abgabe muss spätestens am festgelegten Abgabetermin erfolgen.
@@ -1335,12 +1394,14 @@ wird sie mit null Rangpunkten bewertet.
 
 
 ##### § 38 Bestehen der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE003900000)
 
 Die Thesis ist bestanden, wenn sie mit mindestens fünf Rangpunkten
 bewertet worden ist.
 
 
 ##### § 39 Wiederholung der Thesis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004001311)
 
 (1) Wer die Thesis nicht bestanden hat, kann sie einmal wiederholen.
 
@@ -1355,6 +1416,7 @@ bestanden hat, ist das Studium beendet.
 
 
 ##### § 40 Zulassung zur Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004101311)
 
 Zur Verteidigung der Thesis wird zugelassen, wer
 
@@ -1368,6 +1430,7 @@ Zur Verteidigung der Thesis wird zugelassen, wer
 
 
 ##### § 41 Termin für die Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004200000)
 
 (1) Der Termin für die Verteidigung wird vom Prüfungsamt beim
 Bundeskriminalamt festgelegt.
@@ -1377,6 +1440,7 @@ sein.
 
 
 ##### § 42 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004301311)
 
 (1) Für die Verteidigung richtet das Prüfungsamt beim
 Bundeskriminalamt eine Prüfungskommission ein.
@@ -1411,6 +1475,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ##### § 43 Durchführung und Bestandteile der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004405311)
 
 (1) Die Verteidigung wird als Einzelprüfung durchgeführt.
 
@@ -1450,6 +1515,7 @@ dauern.
 
 
 ##### § 44 Zuhörerinnen und Zuhörer bei der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004501311)
 
 (1) Die Verteidigung ist hochschulöffentlich, es sei denn, die oder
 der Studierende, die oder der die Verteidigung absolviert,
@@ -1461,6 +1527,7 @@ Vorsitzende der Prüfungskommission.
 
 
 ##### § 45 Protokoll über die Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004600000)
 
 (1) Zu jeder Verteidigung ist ein Protokoll anzufertigen.
 
@@ -1472,6 +1539,7 @@ Prüfungskommission zu bestätigen.
 
 
 ##### § 46 Bewertung der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004700000)
 
 (1) Die Prüfungskommission bewertet die in der Präsentation der
 Bachelorarbeit erbrachten Leistungen und die im Prüfungsgespräch
@@ -1489,12 +1557,14 @@ erbrachten Leistungen einzeln.
 
 
 ##### § 47 Bestehen der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004800000)
 
 Die Verteidigung der Thesis ist bestanden, wenn sie mindestens mit
 fünf Rangpunkten bewertet worden ist.
 
 
 ##### § 48 Wiederholung der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE004900000)
 
 (1) Wer die Verteidigung der Thesis nicht bestanden hat, kann sie
 einmal wiederholen.
@@ -1511,6 +1581,7 @@ nicht bestanden hat, ist das Studium beendet.
 
 
 ##### § 49 Rangpunktzahl und Note der Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005000000)
 
 (1) Für die Studierende oder den Studierenden, die oder der die Thesis
 und ihre Verteidigung bestanden hat, wird die Rangpunktzahl der
@@ -1533,21 +1604,25 @@ festgesetzt.
 
 
 #### Unterabschnitt 4 - Weitere Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001200000)
 
 
 ##### § 50 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005100000)
 
 Die Laufbahnprüfung hat bestanden, wer die Modulprüfungen sowie die
 Thesis und die Verteidigung der Thesis bestanden hat.
 
 
 ##### § 51 Akademischer Grad
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005200000)
 
 Der Person, die die Laufbahnprüfung bestanden hat, wird zugleich der
 akademische Grad „Bachelor of Arts“ (B. A.) verliehen.
 
 
 ##### § 52 Rangpunktzahl der Laufbahnprüfung und Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005301311)
 
 (1) Für jede Person, die die Laufbahnprüfung bestanden hat, berechnet
 das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der
@@ -1589,6 +1664,7 @@ zugeordnet und als Gesamtnote festgesetzt.
 
 
 ##### § 53 Bescheinigung über die erbrachten Studienleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005400000)
 
 (1) Jeder Person, die studiert oder studiert hat, stellt das
 Prüfungsamt beim Bundeskriminalamt eine Bescheinigung über die
@@ -1621,6 +1697,7 @@ deutscher und englischer Sprache ausgestellt.
 
 
 ##### § 54 Abschlusszeugnis und Diploma Supplement
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005501311)
 
 (1) Jeder Person, die die Laufbahnprüfung bestanden hat, stellt das
 Prüfungsamt beim Bundeskriminalamt ein Abschlusszeugnis und ein
@@ -1676,6 +1753,7 @@ ausgestellt.
 
 
 ##### § 55 Bescheid bei Nichtbestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005600000)
 
 Jeder Person, die die Laufbahnprüfung nicht bestanden hat, stellt das
 Prüfungsamt beim Bundeskriminalamt einen Bescheid über die nicht
@@ -1683,6 +1761,7 @@ bestandene Laufbahnprüfung aus.
 
 
 ##### § 56 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005700000)
 
 (1) Zu jeder und jedem Studierenden führt das Prüfungsamt beim
 Bundeskriminalamt eine Prüfungsakte.
@@ -1709,9 +1788,11 @@ Einsicht in ihre Prüfungsakte nehmen.
 
 
 ### Abschnitt 4 - Anerkennung anderer Studien- und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001300000)
 
 
 #### § 57 Voraussetzungen für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005801311)
 
 (1) Auf Antrag der oder des Studierenden werden folgende Studien- und
 Prüfungsleistungen anerkannt:
@@ -1808,12 +1889,15 @@ Berechnung der entsprechenden Rangpunktzahlen einzubeziehen.
 
 
 ## Teil 3 - Kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001400000)
 
 
 ### Abschnitt 1 - Auswahlverfahren für die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001500000)
 
 
 #### § 58 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE005904311)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen
@@ -1842,6 +1926,7 @@ geeignet ist.
 
 
 #### § 58a Ausgestaltung des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE014000311)
 
 (1) Für das Auswahlverfahren gelten die §§ 6a bis 7 entsprechend mit
 der Maßgabe, dass im mündlichen Teil des Auswahlverfahrens das
@@ -1855,6 +1940,7 @@ Rangfolge ist für die Einstellung maßgeblich.
 
 
 #### § 59 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006001311)
 
 (1) Für die Teilnahme am Vorbereitungsdienst, der als
 Qualifizierungsmaßnahme „Cyberkriminalistik“ durchgeführt wird, kann
@@ -1886,9 +1972,11 @@ zugelassen werden, wer
 
 
 ### Abschnitt 2 - Inhalt der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001600000)
 
 
 #### § 60 Ziel der kriminalpolizeifachlichen Qualifizierung und Dauer
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006100000)
 
 (1) Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im
 Bereich „Cyberkriminalität“ hat das Ziel, dass bei den Personen, die
@@ -1901,6 +1989,7 @@ berücksichtigen.
 
 
 #### § 61 Pflichtlehrveranstaltungen und Freistellung vom Dienst
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006201311)
 
 (1) Alle Lehrveranstaltungen der kriminalpolizeifachlichen
 Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ sind
@@ -1913,6 +2002,7 @@ Dienstpflichten freizustellen.
 
 
 #### § 62 Gliederung der kriminalpolizeifachlichen Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006301311)
 
 Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im
 Bereich „Cyberkriminalität“ gliedert sich in
@@ -1927,6 +2017,7 @@ Bereich „Cyberkriminalität“ gliedert sich in
 
 
 #### § 63 Verteilung und Inhalt der Module
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006405311)
 
 (1) Die kriminalpolizeifachliche Qualifizierung wird in folgenden
 Modulen durchgeführt:
@@ -2022,6 +2113,7 @@ die bei Beginn der kriminalpolizeifachlichen Qualifizierung gilt.
 
 
 #### § 64 Durchführungsort
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006501311)
 
 (1) Die Module 1 bis 3 und 5 bis 8 werden an der Hochschule am
 Fachbereich Kriminalpolizei in Wiesbaden durchgeführt.
@@ -2030,6 +2122,7 @@ Fachbereich Kriminalpolizei in Wiesbaden durchgeführt.
 
 
 #### § 65 Dienstliche Beurteilung für das Modul 4
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006601311)
 
 (1) Das Modul 4 wird in mehreren Phasen durchgeführt.
 
@@ -2038,6 +2131,7 @@ Beurteilung der Teilnehmerin oder des Teilnehmers.
 
 
 #### § 66 Durchführung und Inhalt der modulbegleitenden Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006702311)
 
 (1) Zusätzlich zu den Modulen werden modulbegleitende Veranstaltungen
 durchgeführt.
@@ -2063,6 +2157,7 @@ nach dem Modulhandbuch „Cyberkriminalität“ nach § 63 Absatz 3.
 
 
 #### § 67 Prüfung im Polizeitraining
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006802311)
 
 (1) Im Polizeitraining ist eine praktische Prüfung abzulegen.
 
@@ -2107,6 +2202,7 @@ Teilnahme am Polizeitraining und das Bestehen der Prüfung bescheinigt.
 
 
 #### § 67a Wiederholung der Prüfung im Polizeitraining
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE014101311)
 
 (1) Wer die Prüfung im Polizeitraining nicht bestanden hat, kann sie
 einmal wiederholen.
@@ -2120,9 +2216,11 @@ Bereich „Cyberkriminalität“ beendet.
 
 
 ### Abschnitt 3 - Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001700000)
 
 
 #### § 68 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE006900000)
 
 (1) Prüfungsamt für die Modulprüfungen ist das Prüfungsamt beim
 Bundeskriminalamt.
@@ -2135,6 +2233,7 @@ durchgeführt werden.
 
 
 #### § 69 Module mit Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007001311)
 
 In jedem der Module 1 bis 3 und 5 bis 8 hat die Teilnehmerin oder der
 Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine
@@ -2142,6 +2241,7 @@ Verwendung im Bereich „Cyberkriminalität“ eine Modulprüfung abzulegen.
 
 
 #### § 70 Zeitpunkt der Modulprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007100000)
 
 (1) Die Modulprüfung findet am Ende des Moduls statt.
 
@@ -2149,6 +2249,7 @@ Verwendung im Bereich „Cyberkriminalität“ eine Modulprüfung abzulegen.
 
 
 #### § 71 Klausur
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007203311)
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
@@ -2159,6 +2260,7 @@ durchgeführt werden.
 
 
 #### § 72 Kennzeichnung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007300000)
 
 (1) Jede Klausur ist anstelle des Namens mit einer Kennziffer zu
 versehen.
@@ -2174,6 +2276,7 @@ geheim zu halten.
 
 
 #### § 73 Prüfende für die Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007400000)
 
 (1) Für die Bewertung der Klausuren bestellt das Prüfungsamt Prüfende.
 Bestellt werden dürfen nur hauptamtliche Lehrkräfte der Hochschule.
@@ -2185,12 +2288,14 @@ weisungsgebunden.
 
 
 #### § 74 Bestehen einer Modulprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007500000)
 
 Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf
 Rangpunkten bewertet worden ist.
 
 
 #### § 75 Wiederholung von Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007600000)
 
 (1) Wer eine Modulprüfung nicht bestanden hat, kann sie einmal
 wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist
@@ -2206,9 +2311,11 @@ Verwendung im Bereich „Cyberkriminalität“ beendet.
 
 
 ### Abschnitt 4 - Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001800000)
 
 
 #### § 76 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007700000)
 
 (1) Prüfungsamt für die mündliche Abschlussprüfung ist das Prüfungsamt
 beim Bundeskriminalamt.
@@ -2221,12 +2328,14 @@ rechtmäßig durchgeführt wird.
 
 
 #### § 77 Zulassung zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007801311)
 
 Zur mündlichen Abschlussprüfung wird zugelassen, wer alle
 Modulprüfungen und die Prüfung im Polizeitraining bestanden hat.
 
 
 #### § 78 Zeitpunkt der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE007901311)
 
 (1) Die mündliche Abschlussprüfung wird nach Abschluss der
 kriminalpolizeifachlichen Qualifizierung durchgeführt.
@@ -2235,6 +2344,7 @@ kriminalpolizeifachlichen Qualifizierung durchgeführt.
 
 
 #### § 79 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008000000)
 
 (1) Für die mündliche Abschlussprüfung wird eine Prüfungskommission
 vom Prüfungsamt beim Bundeskriminalamt bestellt.
@@ -2260,6 +2370,7 @@ Vorsitzenden der Prüfungskommission.
 
 
 #### § 80 Inhalt der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008101311)
 
 (1) Die mündliche Abschlussprüfung wird als interdisziplinäres
 Prüfungsgespräch durchgeführt.
@@ -2269,6 +2380,7 @@ Module 1 bis 3 und 5 bis 8.
 
 
 #### § 81 Durchführung und Dauer der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008203311)
 
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder
 Gruppenprüfung durchgeführt.
@@ -2281,24 +2393,28 @@ Einrichtungen zur Verfügung stehen.
 
 
 #### § 82 Protokoll zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008300000)
 
 Über die mündliche Abschlussprüfung ist zu jedem Prüfling ein
 Protokoll anzufertigen.
 
 
 #### § 83 Bewertung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008400000)
 
 Die in der mündlichen Abschlussprüfung erbrachten Leistungen werden
 von der Prüfungskommission bewertet.
 
 
 #### § 84 Bestehen der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008500000)
 
 Die mündliche Abschlussprüfung ist bestanden, wenn sie mit mindestens
 fünf Rangpunkten bewertet worden ist.
 
 
 #### § 85 Wiederholung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008600000)
 
 (1) Wer die mündliche Abschlussprüfung nicht bestanden hat, kann sie
 einmal wiederholen.
@@ -2309,9 +2425,11 @@ eine Verwendung im Bereich „Cyberkriminalität“ beendet.
 
 
 ### Abschnitt 5 - Abschluss der kriminalpolizeifachlichen Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG001900000)
 
 
 #### § 86 Erfolgreiche Teilnahme an der kriminalpolizeifachlichen Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008700000)
 
 An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im
 Bereich „Cyberkriminalität“ hat erfolgreich teilgenommen, wer die
@@ -2319,6 +2437,7 @@ mündliche Abschlussprüfung bestanden hat.
 
 
 #### § 87 Rangpunktzahl der kriminalpolizei- fachlichen Qualifizierung und Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008801311)
 
 (1) Für jede Person, die erfolgreich an der kriminalpolizeifachlichen
 Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
@@ -2346,6 +2465,7 @@ wird die entsprechende Note zugeordnet und als Gesamtnote festgesetzt.
 
 
 #### § 88 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE008900000)
 
 (1) Jeder Person, die erfolgreich an der kriminalpolizeifachlichen
 Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“
@@ -2373,6 +2493,7 @@ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
 
 
 #### § 89 Bescheid bei endgültigem Nichtbestehen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009001311)
 
 (1) Jeder Person, die eine Modulprüfung, die Prüfung im
 Polizeitraining oder die mündliche Abschlussprüfung endgültig nicht
@@ -2397,6 +2518,7 @@ anzugeben:
 
 
 #### § 90 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009100000)
 
 (1) Zu jeder Teilnehmerin und jedem Teilnehmer der
 kriminalpolizeifachlichen Qualifizierung für eine Verwendung im
@@ -2426,12 +2548,15 @@ Bereich „Cyberkriminalität“ Einsicht in ihre Prüfungsakte nehmen.
 
 
 ## Teil 4 - Qualifizierungsmaßnahme „Ausbildungsverkürzung“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002000000)
 
 
 ### Abschnitt 1 - Auswahlverfahren für die Qualifizierungsmaßnahme „Ausbildungsverkürzung“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002100000)
 
 
 #### § 91 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009204311)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen
@@ -2460,6 +2585,7 @@ geeignet ist.
 
 
 #### § 92 Ausgestaltung des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009301311)
 
 (1) Für das Auswahlverfahren gelten die §§ 6a bis 7 entsprechend.
 
@@ -2470,6 +2596,7 @@ Rangfolge ist für die Einstellung maßgeblich.
 
 
 #### § 93 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009401311)
 
 (1) In den Vorbereitungsdienst, der als Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“ durchgeführt wird, kann eingestellt werden,
@@ -2501,9 +2628,11 @@ wer
 
 
 ### Abschnitt 2 - Inhalt der Qualifizierungsmaßnahme „Ausbildungsverkürzung“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002200000)
 
 
 #### § 94 Ziel der Qualifizierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009501311)
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat das Ziel,
 Personen, die bereits einen an einer Hochschule erworbenen Bachelor-
@@ -2516,11 +2645,13 @@ Abschluss Berücksichtigung finden.
 
 
 #### § 95 Dauer der Qualifizierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009600000)
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ dauert 24 Monate.
 
 
 #### § 96 Pflichtlehrveranstaltungen und Freistellung vom Dienst
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009701311)
 
 (1) Alle Lehrveranstaltungen der Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“ sind Pflichtlehrveranstaltungen.
@@ -2532,6 +2663,7 @@ Dienstpflichten freizustellen.
 
 
 #### § 97 Gliederung der Qualifizierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009801311)
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
@@ -2545,6 +2677,7 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
 
 #### § 98 Verteilung und Inhalt der Module
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE009905311)
 
 (1) Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ wird in
 folgenden Modulen durchgeführt:
@@ -2648,6 +2781,7 @@ Fähigkeiten und Kenntnisse vermittelt.
 
 
 #### § 99 Durchführungsort
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010001311)
 
 (1) Die Module 1 bis 3 und 5 bis 8 werden an der Hochschule am
 Fachbereich Kriminalpolizei in Wiesbaden durchgeführt.
@@ -2658,6 +2792,7 @@ durchgeführt.
 
 
 #### § 100 Durchführung und Inhalt der modulbegleitenden Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010102311)
 
 (1) Zusätzlich zu den Modulen werden modulbegleitende Veranstaltungen
 durchgeführt.
@@ -2683,6 +2818,7 @@ nach § 98 Absatz 3.
 
 
 #### § 101 Prüfung im Polizeitraining
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010201311)
 
 (1) Im Polizeitraining ist eine praktische Prüfung abzulegen.
 
@@ -2728,6 +2864,7 @@ Teilnahme am Polizeitraining und das Bestehen der Prüfung bescheinigt.
 
 
 #### § 101a Wiederholung der Prüfung im Polizeitraining
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE014201311)
 
 (1) Wer die Prüfung im Polizeitraining nicht bestanden hat, kann sie
 einmal wiederholen.
@@ -2741,15 +2878,18 @@ die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ beendet.
 
 
 #### § 101b Dienstliche Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE014300311)
 
 Für die Module 4 und 9 erstellen die Vorgesetzten eine dienstliche
 Beurteilung der Teilnehmerin oder des Teilnehmers.
 
 
 ### Abschnitt 3 - Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002300000)
 
 
 #### § 102 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010300000)
 
 (1) Prüfungsamt für die Modulprüfungen ist das Prüfungsamt beim
 Bundeskriminalamt.
@@ -2762,6 +2902,7 @@ durchgeführt werden.
 
 
 #### § 103 Module mit Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010401311)
 
 In jedem der Module 1 bis 3 und 5 bis 8 hat die Teilnehmerin oder der
 Teilnehmer der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ eine
@@ -2769,6 +2910,7 @@ Modulprüfung abzulegen.
 
 
 #### § 104 Zeitpunkt der Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010500000)
 
 (1) Die Modulprüfung findet am Ende des Moduls statt.
 
@@ -2776,6 +2918,7 @@ Modulprüfung abzulegen.
 
 
 #### § 105 Klausur
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010603311)
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
@@ -2786,6 +2929,7 @@ durchgeführt werden.
 
 
 #### § 106 Kennzeichnung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010700000)
 
 (1) Jede Klausur ist anstelle des Namens mit einer Kennziffer zu
 versehen.
@@ -2801,6 +2945,7 @@ geheim zu halten.
 
 
 #### § 107 Prüfende für die Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010800000)
 
 (1) Für die Bewertung der Klausuren bestellt das Prüfungsamt Prüfende.
 Bestellt werden dürfen nur hauptamtliche Lehrkräfte der Hochschule.
@@ -2812,12 +2957,14 @@ weisungsgebunden.
 
 
 #### § 108 Bestehen einer Modulprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE010900000)
 
 Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf
 Rangpunkten bewertet worden ist.
 
 
 #### § 109 Wiederholung von Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011000000)
 
 (1) Wer eine Modulprüfung nicht bestanden hat, kann sie einmal
 wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist
@@ -2832,9 +2979,11 @@ hat, ist die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ beendet.
 
 
 ### Abschnitt 4 - Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002400000)
 
 
 #### § 110 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011100000)
 
 (1) Prüfungsamt für die mündliche Abschlussprüfung ist das Prüfungsamt
 beim Bundeskriminalamt.
@@ -2847,12 +2996,14 @@ rechtmäßig durchgeführt wird.
 
 
 #### § 111 Zulassung zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011201311)
 
 Zur mündlichen Abschlussprüfung wird nur zugelassen, wer alle
 Modulprüfungen und die Prüfung im Polizeitraining bestanden hat.
 
 
 #### § 112 Zeitpunkt der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011300000)
 
 (1) Die mündliche Abschlussprüfung wird nach Abschluss des Moduls 9
 durchgeführt.
@@ -2861,6 +3012,7 @@ durchgeführt.
 
 
 #### § 113 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011400000)
 
 (1) Für die mündliche Abschlussprüfung wird eine Prüfungskommission
 bestellt.
@@ -2886,6 +3038,7 @@ Vorsitzenden der Prüfungskommission.
 
 
 #### § 114 Inhalt der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011501311)
 
 (1) Die mündliche Abschlussprüfung ist interdisziplinär.
 
@@ -2894,6 +3047,7 @@ Module 1 bis 3 und 5 bis 8.
 
 
 #### § 115 Durchführung und Dauer der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011603311)
 
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder
 Gruppenprüfung durchgeführt.
@@ -2906,24 +3060,28 @@ Einrichtungen zur Verfügung stehen.
 
 
 #### § 116 Protokoll zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011700000)
 
 Über die mündliche Abschlussprüfung ist zu jedem Prüfling ein
 Protokoll anzufertigen.
 
 
 #### § 117 Bewertung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011800000)
 
 Die in der mündlichen Abschlussprüfung erbrachten Leistungen werden
 von der Prüfungskommission bewertet.
 
 
 #### § 118 Bestehen der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE011900000)
 
 Die mündliche Abschlussprüfung ist bestanden, wenn sie mit mindestens
 fünf Rangpunkten bewertet worden ist.
 
 
 #### § 119 Wiederholung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012000000)
 
 (1) Wer die mündliche Abschlussprüfung nicht bestanden hat, kann sie
 einmal wiederholen.
@@ -2934,15 +3092,18 @@ beendet.
 
 
 ### Abschnitt 5 - Abschluss der Qualifizierungsmaßnahme „Ausbildungsverkürzung“
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002500000)
 
 
 #### § 120 Erfolgreiche Teilnahme an der Qualifizierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012100000)
 
 An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich
 teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
 
 
 #### § 121 Rangpunktzahl der Qualifizierungsmaßnahme und Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012201311)
 
 (1) Für jede Person, die erfolgreich an der Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“ teilgenommen hat, berechnet das Prüfungsamt
@@ -2972,6 +3133,7 @@ entsprechende Note zugeordnet und als Gesamtnote festgesetzt.
 
 
 #### § 122 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012300000)
 
 (1) Jeder Person, die erfolgreich an der Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“ teilgenommen hat, stellt das Prüfungsamt ein
@@ -2999,6 +3161,7 @@ Abschlusszeugnis aus.
 
 
 #### § 123 Bescheid bei endgültigem Nichtbestehen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012400000)
 
 (1) Jeder Person, die in der Qualifizierungsmaßnahme
 „Ausbildungsverkürzung“ eine Modulprüfung, eine Prüfung im
@@ -3024,6 +3187,7 @@ anzugeben:
 
 
 #### § 124 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012500000)
 
 (1) Zu jeder Teilnehmerin und jedem Teilnehmer der
 kriminalpolizeilichen Qualifizierung „Ausbildungsverkürzung“ führt das
@@ -3051,9 +3215,11 @@ mindestens fünf Jahre und höchstens zehn Jahre aufzubewahren.
 
 
 ## Teil 5 - Verhinderung und Ordnungsverstöße bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002600000)
 
 
 ### § 125 Verhinderung bei einer Prüfung oder einem Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012600000)
 
 (1) Tritt eine Person von einer Prüfung oder einem Prüfungsteil ohne
 Genehmigung zurück oder bleibt dieser ohne Genehmigung fern, so gilt
@@ -3078,6 +3244,7 @@ ist, vorzulegen.
 
 
 ### § 126 Ordnungsverstöße bei einer Prüfung oder einem Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE012700000)
 
 (1) Wenn eine den Vorbereitungsdienst absolvierende Person bei einer
 Prüfung oder einem Prüfungsteil täuscht, eine Täuschung versucht, an
@@ -3172,9 +3339,11 @@ bis 5 anzuhören.
 
 
 ## Teil 6 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNG002700311)
 
 
 ### § 127 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gkrimdvdv_2020/BJNR288310020.html#BJNR288310020BJNE014400311)
 
 Für Studierende, die vor Ablauf des 31. März 2022 mit dem Studium
 „Kriminalvollzugsdienst im Bundeskriminalamt“, mit der

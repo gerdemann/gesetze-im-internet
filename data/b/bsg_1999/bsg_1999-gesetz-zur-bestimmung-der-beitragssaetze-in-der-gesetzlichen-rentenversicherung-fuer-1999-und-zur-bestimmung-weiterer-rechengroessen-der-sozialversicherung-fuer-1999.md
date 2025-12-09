@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_1999/BJNR384800998.html#BJNR384800998BJNE000100305)
 
 Der Beitragssatz beträgt für die Zeit vom 1. April 1999 bis zum 31.
 Dezember 1999 in der Rentenversicherung der Arbeiter und der
@@ -27,6 +28,7 @@ Rentenversicherung 25,9 vom Hundert.
 
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bsg_1999/BJNR384800998.html#BJNR384800998BJNE000200305)
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für die
 Zeit vom 1. April 1999 bis zum 31. Dezember 1999 monatlich 327
@@ -38,6 +40,7 @@ Beitrittsgebiet für die Zeit vom 1. April 1999 bis zum 31. Dezember
 
 
 ## § 3 Beitragszuschuß in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bsg_1999/BJNR384800998.html#BJNR384800998BJNE000300305)
 
 (1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
 wird der monatliche Zuschußbetrag für die Zeit vom 1. April 1999 bis
@@ -313,6 +316,7 @@ vom 1. April 1999 bis zum 31. Dezember 1999 wie folgt festgesetzt:
 
 
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_1999/BJNR384800998.html#BJNR384800998BJNE000400305)
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
 Beitragssatzes berechneten Faktoren betragen für die Zeit vom 1. April

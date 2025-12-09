@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000100000)
 
 Auf Grund des § 50 des Bundesbesoldungsgesetzes, der durch Artikel 2
 Nummer 3 des Gesetzes vom 13. Mai 2015 (BGBl. I S. 706) eingefügt
@@ -29,6 +30,7 @@ der Finanzen:
 
 
 ## § 1 Voraussetzungen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000202130)
 
 (1) Soldatinnen und Soldaten in Besoldungsgruppen der
 Bundesbesoldungsordnung A, für die eine regelmäßige wöchentliche
@@ -77,6 +79,7 @@ Kalendermonat zuzurechnen.
 
 
 ## § 2 Ermittlung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000300000)
 
 (1) Als eine Stunde Mehrarbeit gilt die volle Zeitstunde. Bei einem
 Bruchteil von mindestens 30 Minuten wird aufgerundet, ansonsten
@@ -90,6 +93,7 @@ angemessen anzurechnen.
 
 
 ## § 3 Höhe des Anspruchs bei Vollzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000408360)
 
 Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 
@@ -125,6 +129,7 @@ Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 
 
 ## § 4 Höhe des Anspruchs bei Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000500000)
 
 (1) Teilzeitbeschäftigte erhalten je Stunde Mehrarbeit bis zum
 Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine
@@ -143,6 +148,7 @@ Vollzeitbeschäftigten hinausgeht, wird nach § 3 vergütet.
 
 
 ## § 5 Ausschluss des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000603130)
 
 (1) Die Vergütung wird nicht gewährt neben
 
@@ -178,6 +184,7 @@ Dienstbefreiung aus den folgenden Gründen nicht möglich ist:
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/smvergv/BJNR246500015.html#BJNR246500015BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000100000)
 
 Auf Grund des § 15 Absatz 3a des Arbeitszeitgesetzes, der durch
 Artikel 15 des Gesetzes vom 25. Juli 2012 (BGBl. I S. 1583) eingefügt
@@ -27,6 +28,7 @@ Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000200000)
 
 (1) Diese Verordnung gilt für die Arbeitnehmerinnen und Arbeitnehmer
 bei den Streitkräften als Besatzung von Schiffen und Booten während
@@ -40,6 +42,7 @@ Verpflichtung und endet mit dem Ende der Unterstellung.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000300000)
 
 (1) Mandatierte Einsätze sind Verwendungen, an denen die Streitkräfte
 außerhalb des Geltungsbereichs des Grundgesetzes nach Zustimmung des
@@ -63,6 +66,7 @@ Feiertage des Heimathafens.
 
 
 ## § 3 Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000400000)
 
 (1) Die tägliche Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer
 darf, abweichend von den §§ 3, 6 Absatz 2 und § 11 Absatz 2 des
@@ -88,6 +92,7 @@ auszugleichen.
 
 
 ## § 4 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000500000)
 
 (1) Abweichend von § 4 des Arbeitszeitgesetzes muss die Arbeitszeit
 spätestens nach sechs Stunden durch eine Ruhepause unterbrochen
@@ -108,6 +113,7 @@ aufgeteilt werden.
 
 
 ## § 5 Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000600000)
 
 (1) Abweichend von § 5 des Arbeitszeitgesetzes beträgt die tägliche
 Ruhezeit grundsätzlich elf zusammenhängende Stunden. Sie darf in
@@ -133,6 +139,7 @@ nicht dieser Verordnung unterfällt, gewährt werden.
 
 
 ## § 6 Arbeitszeitverlängerung zur Abwendung von Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000700000)
 
 (1) Der Kapitän des Schiffes und des Bootes hat das Recht, abweichend
 von den §§ 3 bis 5 die Arbeitsstunden anzuordnen, die für die
@@ -150,6 +157,7 @@ der Dauer der Ruhezeitunterbrechung entsprechen.
 
 
 ## § 7 Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000800000)
 
 Das Bundesministerium der Verteidigung ist verpflichtet, durch
 besondere Maßnahmen sicherzustellen, dass die Gesundheit der
@@ -157,12 +165,14 @@ Arbeitnehmerinnen und Arbeitnehmer nicht gefährdet wird.
 
 
 ## § 8 Sonn- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE000900000)
 
 Abweichend von § 9 des Arbeitszeitgesetzes dürfen Arbeitnehmerinnen
 und Arbeitnehmer an Sonn- und Feiertagen beschäftigt werden.
 
 
 ## § 9 Ausgleich für Sonn- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE001000000)
 
 (1) Werden Arbeitnehmerinnen und Arbeitnehmer an Sonn- oder Feiertagen
 beschäftigt, müssen sie einen Ersatzruhetag erhalten, der möglichst
@@ -182,11 +192,13 @@ Arbeitszeitgesetzes mit acht Stunden zu berücksichtigen.
 
 
 ## § 10 Geltung des Arbeitszeitgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE001100000)
 
 Im Übrigen gelten die Bestimmungen des Arbeitszeitgesetzes.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seeazv/BJNR080300013.html#BJNR080300013BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -20,15 +20,18 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNG000100000)
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000200000)
 
 Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen
 und Männer bei gleicher oder gleichwertiger Arbeit durchzusetzen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000300000)
 
 (1) Dieses Gesetz gilt für das Entgelt von Beschäftigten nach § 5
 Absatz 2, die bei Arbeitgebern nach § 5 Absatz 3 beschäftigt sind,
@@ -41,6 +44,7 @@ Schutz oder der Förderung bestimmter Personengruppen dienen.
 
 
 ### § 3 Verbot der unmittelbaren und mittelbaren Entgeltbenachteiligung wegen des Geschlechts
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000400000)
 
 (1) Bei gleicher oder gleichwertiger Arbeit ist eine unmittelbare oder
 mittelbare Benachteiligung wegen des Geschlechts im Hinblick auf
@@ -71,6 +75,7 @@ unberührt.
 
 
 ### § 4 Feststellung von gleicher oder gleichwertiger Arbeit, benachteiligungsfreie Entgeltsysteme
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000500000)
 
 (1) Weibliche und männliche Beschäftigte üben eine gleiche Arbeit aus,
 wenn sie an verschiedenen Arbeitsplätzen oder nacheinander an
@@ -127,6 +132,7 @@ anzuwenden.
 
 
 ### § 5 Allgemeine Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000600000)
 
 (1) Entgelt im Sinne dieses Gesetzes sind alle Grund- oder
 Mindestarbeitsentgelte sowie alle sonstigen Vergütungen, die
@@ -183,6 +189,7 @@ angewendet werden.
 
 
 ### § 6 Aufgaben von Arbeitgebern, Tarifvertragsparteien und betrieblichen Interessenvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000700000)
 
 (1) Arbeitgeber, Tarifvertragsparteien und die betrieblichen
 Interessenvertretungen sind aufgefordert, im Rahmen ihrer Aufgaben und
@@ -199,6 +206,7 @@ umfasst auch vorbeugende Maßnahmen.
 
 
 ### § 7 Entgeltgleichheitsgebot
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000800000)
 
 Bei Beschäftigungsverhältnissen darf für gleiche oder für
 gleichwertige Arbeit nicht wegen des Geschlechts der oder des
@@ -207,6 +215,7 @@ als bei einer oder einem Beschäftigten des anderen Geschlechts.
 
 
 ### § 8 Unwirksamkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE000900000)
 
 (1) Bestimmungen in Vereinbarungen, die gegen § 3 oder § 7 verstoßen,
 sind unwirksam.
@@ -219,6 +228,7 @@ nicht umfasst.
 
 
 ### § 9 Maßregelungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001000000)
 
 Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von
 Rechten nach diesem Gesetz benachteiligen. Gleiches gilt für Personen,
@@ -228,9 +238,11 @@ unberührt.
 
 
 ## Abschnitt 2 - Individuelle Verfahren zur Überprüfung von Entgeltgleichheit
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNG000200000)
 
 
 ### § 10 Individueller Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001100000)
 
 (1) Zur Überprüfung der Einhaltung des Entgeltgleichheitsgebots im
 Sinne dieses Gesetzes haben Beschäftigte einen Auskunftsanspruch nach
@@ -252,6 +264,7 @@ bis 16 erfüllt.
 
 
 ### § 11 Angabe zu Vergleichstätigkeit und Vergleichsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001200000)
 
 (1) Die Auskunftsverpflichtung erstreckt sich auf die Angabe zu den
 Kriterien und Verfahren der Entgeltfindung nach Absatz 2 und auf die
@@ -296,6 +309,7 @@ Absatz 3 Nummer 1 entsprechend anzuwenden.
 
 
 ### § 12 Reichweite
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001300000)
 
 (1) Der Anspruch nach § 10 besteht für Beschäftigte nach § 5 Absatz 2
 in Betrieben mit in der Regel mehr als 200 Beschäftigten bei demselben
@@ -328,6 +342,7 @@ notwendigen Daten erlangen.
 
 
 ### § 13 Aufgaben und Rechte des Betriebsrates
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001400000)
 
 (1) Im Rahmen seiner Aufgabe nach § 80 Absatz 1 Nummer 2a des
 Betriebsverfassungsgesetzes fördert der Betriebsrat die Durchsetzung
@@ -369,6 +384,7 @@ unberührt.
 
 
 ### § 14 Verfahren bei tarifgebundenen und tarifanwendenden Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001500000)
 
 (1) Beschäftigte tarifgebundener und tarifanwendender Arbeitgeber
 wenden sich für ihr Auskunftsverlangen nach § 10 an den Betriebsrat.
@@ -409,6 +425,7 @@ Verschwiegenheitspflicht.
 
 
 ### § 15 Verfahren bei nicht tarifgebundenen und nicht tarifanwendenden Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001600000)
 
 (1) Beschäftigte nicht tarifgebundener und nicht tarifanwendender
 Arbeitgeber wenden sich für ihr Auskunftsverlangen nach § 10 an den
@@ -445,6 +462,7 @@ vertreten hat, die Auskunft nicht erteilen konnte.
 
 
 ### § 16 Öffentlicher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001700000)
 
 Der Anspruch nach § 10 besteht auch für Beschäftigte des öffentlichen
 Dienstes nach § 5 Absatz 2 Nummer 1 bis 5 in Dienststellen mit in der
@@ -453,9 +471,11 @@ anzuwenden.
 
 
 ## Abschnitt 3 - Betriebliche Verfahren zur Überprüfung und Herstellung von Entgeltgleichheit
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNG000300000)
 
 
 ### § 17 Betriebliche Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001800000)
 
 (1) Private Arbeitgeber mit in der Regel mehr als 500 Beschäftigten
 sind aufgefordert, mithilfe betrieblicher Prüfverfahren ihre
@@ -474,6 +494,7 @@ erfolgen.
 
 
 ### § 18 Durchführung betrieblicher Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE001900000)
 
 (1) In das betriebliche Prüfverfahren sind die Tätigkeiten
 einzubeziehen, die demselben Entgeltsystem unterliegen, unabhängig
@@ -506,6 +527,7 @@ zusammengefasst und können betriebsintern veröffentlicht werden.
 
 
 ### § 19 Beseitigung von Entgeltbenachteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002000000)
 
 Ergeben sich aus einem betrieblichen Prüfverfahren Benachteiligungen
 wegen des Geschlechts in Bezug auf das Entgelt, ergreift der
@@ -514,6 +536,7 @@ Benachteiligung.
 
 
 ### § 20 Mitwirkung und Information
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002100000)
 
 (1) Der Arbeitgeber hat den Betriebsrat über die Planung des
 betrieblichen Prüfverfahrens rechtzeitig unter Vorlage der
@@ -525,9 +548,11 @@ Betriebsverfassungsgesetzes sind zu beachten.
 
 
 ## Abschnitt 4 - Berichtspflichten für Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNG000400000)
 
 
 ### § 21 Bericht zur Gleichstellung und Entgeltgleichheit
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002200000)
 
 (1) Arbeitgeber mit in der Regel mehr als 500 Beschäftigten, die zur
 Erstellung eines Lageberichts nach den §§ 264 und 289 des
@@ -560,6 +585,7 @@ Angaben
 
 
 ### § 22 Berichtszeitraum und Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002301126)
 
 (1) Arbeitgeber nach § 21 Absatz 1, die tarifgebunden nach § 5 Absatz
 4 sind oder die tarifanwendend nach § 5 Absatz 5 sind und die gemäß §
@@ -582,9 +608,11 @@ Anlage beizufügen und im Unternehmensregister offenzulegen.
 
 
 ## Abschnitt 5 - Evaluation, Aufgabe der Gleichstellungsbeauftragten, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNG000500000)
 
 
 ### § 23 Evaluation und Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002400000)
 
 (1) Die Bundesregierung evaluiert nach Inkrafttreten dieses Gesetzes
 laufend die Wirksamkeit dieses Gesetzes und informiert alle vier
@@ -606,6 +634,7 @@ miteinzubeziehen.
 
 
 ### § 24 Aufgabe der Gleichstellungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002500000)
 
 Die Gleichstellungsbeauftragten in der Bundesverwaltung und in den
 Unternehmen und den Gerichten des Bundes sowie die Beauftragten, die
@@ -616,6 +645,7 @@ gleichwertiger Arbeit für Frauen und Männer zu fördern.
 
 
 ### § 25 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/entgtranspg/BJNR215210017.html#BJNR215210017BJNE002601126)
 
 (1) Der Auskunftsanspruch nach § 10 kann erstmals sechs Kalendermonate
 nach dem 6. Juli 2017 geltend gemacht werden. Soweit der

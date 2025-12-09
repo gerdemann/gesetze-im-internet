@@ -21,11 +21,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gno/BJNR015730965.html#BJNR015730965BJNE000100303)
 
 Auf Grund des Artikels 60 Abs. 2 und 3 des Grundgesetzes ordne ich an:
 
 
 ## Art 1 Vorbehaltene Gnadenentschließungen
+[Direktlink](https://www.gesetze-im-internet.de/gno/BJNR015730965.html#BJNR015730965BJNE000200303)
 
 Ich behalte mir vor, in rechtskräftig abgeschlossenen Strafsachen,
 Disziplinarsachen oder Ehrengerichtssachen, in denen das
@@ -66,6 +68,7 @@ erteilen:
 
 
 ## Art 2 Übertragung von Gnadenbefugnissen
+[Direktlink](https://www.gesetze-im-internet.de/gno/BJNR015730965.html#BJNR015730965BJNE000300303)
 
 (1) Soweit ich mir die Ausübung des Begnadigungsrechts des Bundes
 nicht vorbehalten habe, übertrage ich sie
@@ -141,6 +144,7 @@ Bedeutung; in diesen behalte ich mir vor, selbst zu entscheiden.
 
 
 ## Art 3 Weiterübertragung von Gnadenbefugnissen
+[Direktlink](https://www.gesetze-im-internet.de/gno/BJNR015730965.html#BJNR015730965BJNE000400303)
 
 Ich ermächtige die Bundesminister, denen ich die Ausübung des
 Begnadigungsrechts des Bundes übertragen habe, ihre Befugnisse
@@ -148,6 +152,7 @@ allgemein oder im Einzelfall auf nachgeordnete Stellen zu übertragen.
 
 
 ## Art 4 Verfahren in Gnadensachen
+[Direktlink](https://www.gesetze-im-internet.de/gno/BJNR015730965.html#BJNR015730965BJNE000500303)
 
 Die Bundesminister und die in Artikel 2 Abs. 1 Nr. 1 bezeichneten
 obersten Dienstbehörden bereiten die mir vorbehaltenen Entscheidungen
@@ -157,6 +162,7 @@ so obliegt die Vorbereitung dem Bundesminister des Innern.
 
 
 ## Art 5 Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gno/BJNR015730965.html#BJNR015730965BJNE000600303)
 
 Diese Anordnung tritt am Tage ihrer Verkündung in Kraft. Gleichzeitig
 wird die Anordnung über die Ausübung des Begnadigungsrechts des Bundes

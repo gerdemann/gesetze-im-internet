@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrsn_th2bek/BJNR285400994.html#BJNR285400994BJNE000100305)
 
 Zwischen dem Freistaat Sachsen und dem Freistaat Thüringen wurde am
 31\. Mai 1994 der Zweite Staatsvertrag über die Änderung der

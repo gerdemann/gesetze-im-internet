@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000100000)
 
 Auf Grund des § 5 Satz 1 des Onlinezugangsgesetzes vom 14. August 2017
 (BGBl. I S. 3122, 3138), der zuletzt durch Artikel 77 der Verordnung
@@ -29,6 +30,7 @@ für Heimat:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000200000)
 
 (1) Soweit in dieser Verordnung Begriffe Verwendung finden, die in § 2
 des Onlinezugangsgesetzes definiert werden, finden die dortigen
@@ -62,6 +64,7 @@ Verordnung sind
 
 
 ## § 2 Portalverbund und unmittelbar angebundene IT-Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000300000)
 
 (1) Für den Portalverbund und für IT-Komponenten nach § 1 Absatz 4
 Nummer 1 sind zur Gewährleistung der IT-Sicherheit Maßnahmen nach dem
@@ -171,6 +174,7 @@ Verfahren zur Abgabe der Erklärungen fest.
 
 
 ## § 3 Mittelbar angebundene IT-Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000400000)
 
 Stellen nach § 1 Absatz 4 Nummer 2 sind auf der Grundlage angemessener
 Nutzungsbedingungen anzubinden. Sie erstellen und setzen für die zum
@@ -184,6 +188,7 @@ Standard 200-2.
 
 
 ## § 4 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000500000)
 
 (1) Für IT-Komponenten im Portalverbund und für IT-Komponenten zur
 unmittelbaren Anbindung an den Portalverbund nach § 1 Absatz 4 Nummer
@@ -205,11 +210,13 @@ sind oder bis zum 30. Juni 2022 in Betrieb genommen werden,
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 2 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/itsiv-pv/BJNR001800022.html#BJNR001800022BJNE000700000)
 
 (Fundstelle: BGBl. I 2022, 20)
 

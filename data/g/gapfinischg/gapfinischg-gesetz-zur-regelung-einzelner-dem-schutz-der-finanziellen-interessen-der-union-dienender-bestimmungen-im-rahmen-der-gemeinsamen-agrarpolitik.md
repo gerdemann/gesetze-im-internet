@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapfinischg/BJNR0CC0B0023.html#BJNR0CC0B0023BJNE000100000)
 
 (1) Dieses Gesetz dient der Durchführung des Titels IV Kapitel I der
 Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates
@@ -41,6 +42,7 @@ Interessen der Union enthalten.
 
 
 ## § 2 Verbot der Umgehung rechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapfinischg/BJNR0CC0B0023.html#BJNR0CC0B0023BJNE000200000)
 
 (1) Wird zum Erlangen eines Vorteiles eine Vorschrift des EU-Rechts
 oder eine zu ihrer Durchführung erlassene nationale Vorschrift
@@ -138,6 +140,7 @@ Marktorganisationsgesetzes anzuwenden.
 
 
 ## § 3 Angaben zur Identifizierung
+[Direktlink](https://www.gesetze-im-internet.de/gapfinischg/BJNR0CC0B0023.html#BJNR0CC0B0023BJNE000300000)
 
 (1) Wer einen Antrag auf Gewährung eines Vorteiles stellt, hat zum
 Zweck der Identifizierung in jedem Antrag folgende zum
@@ -213,6 +216,7 @@ Satz 2 zu belehren.
 
 
 ## § 4 Erhebung, Speicherung und Verwendung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/gapfinischg/BJNR0CC0B0023.html#BJNR0CC0B0023BJNE000400000)
 
 Die zuständige Behörde ist befugt, in ihrem jeweiligen
 Zuständigkeitsbereich die Daten im Sinne des § 3 zum Zwecke der

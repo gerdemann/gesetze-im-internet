@@ -30,15 +30,18 @@ Stand: Ersetzt V 2124-18-1 v. 25.4.1994 I 922 (MTA-APrV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000100000)
 
 Auf Grund des § 69 Absatz 1 des MT-Berufe-Gesetzes vom 24. Februar
 2021 (BGBl. I S. 274) verordnet das Bundesministerium für Gesundheit:
 
 
 ## Teil 1 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000100000)
 
 
 ### § 1 Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000300000)
 
 In der Ausbildung zur Medizinischen Technologin und zum Medizinischen
 Technologen sind der auszubildenden Person die in den Anlagen 1 bis 4
@@ -46,6 +49,7 @@ für den jeweiligen Beruf genannten Kompetenzen zu vermitteln.
 
 
 ### § 2 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000400000)
 
 (1) Die Ausbildung erfolgt im Wechsel von Abschnitten des
 theoretischen und praktischen Unterrichts und der praktischen
@@ -56,6 +60,7 @@ Ausbildung sind aufeinander abzustimmen.
 
 
 ### § 3 Theoretischer und praktischer Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000500000)
 
 (1) Während des theoretischen und praktischen Unterrichts sind für den
 jeweiligen Beruf die Kompetenzen zu vermitteln, die zur Erreichung der
@@ -76,6 +81,7 @@ regeln die Länder.
 
 
 ### § 4 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000600000)
 
 (1) Während der praktischen Ausbildung sind für den jeweiligen Beruf
 die Kompetenzen zu vermitteln, die zur Erreichung der Ausbildungsziele
@@ -97,6 +103,7 @@ beim Träger der praktischen Ausbildung durchzuführen.
 
 
 ### § 5 Interprofessionelles Praktikum
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000700000)
 
 (1) Teil der praktischen Ausbildung ist ein in Anlage 6 genanntes
 Interprofessionelles Praktikum.
@@ -116,6 +123,7 @@ Interprofessionellen Praktikum mit einer Teilnahmebescheinigung.
 
 
 ### § 6 Leistungseinschätzungen für praktische Einsätze
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000800000)
 
 (1) Jede an der Ausbildung beteiligte Einrichtung hat die Leistung,
 die die auszubildende Person im Rahmen des bei ihr durchgeführten
@@ -140,6 +148,7 @@ nach § 5 keine Leistungseinschätzung vorzunehmen.
 
 
 ### § 7 Jahreszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE000900000)
 
 (1) Für jedes Ausbildungsjahr muss die Schule der auszubildenden
 Person ein Jahreszeugnis ausstellen.
@@ -173,6 +182,7 @@ ist im Benehmen mit dem Träger der praktischen Ausbildung festzulegen.
 
 
 ### § 8 Qualifikation der Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001000000)
 
 (1) Zur Praxisanleitung geeignet ist eine Person, die
 
@@ -229,6 +239,7 @@ Strahlenschutzverordnung vom 29. November 2018 (BGBl. I S. 2034,
 
 
 ### § 9 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001100000)
 
 Für die praktische Ausbildung hat die Schule nach
 § 22 Nummer 5 und § 23 Absatz 1 des MT-Berufe-
@@ -239,6 +250,7 @@ in den Einrichtungen der praktischen Ausbildung erfolgen.
 
 
 ### § 10 Inhalt der Kooperationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001200000)
 
 (1) In den Kooperationsvereinbarungen zwischen der Schule und dem
 Träger der praktischen Ausbildung ist die enge Zusammenarbeit
@@ -267,12 +279,15 @@ enthalten
 
 
 ## Teil 2 - Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeines und Organisatorisches
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000300000)
 
 
 #### § 11 Teile der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001300000)
 
 Die staatliche Prüfung besteht aus
 
@@ -289,6 +304,7 @@ Die staatliche Prüfung besteht aus
 
 
 #### § 12 Bildung und Zuständigkeit des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001400000)
 
 (1) An jeder Schule, die die Ausbildung durchführt, wird ein
 Prüfungsausschuss gebildet.
@@ -298,6 +314,7 @@ staatlichen Prüfung zuständig.
 
 
 #### § 13 Zusammensetzung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001500000)
 
 (1) Der Prüfungsausschuss besteht aus den folgenden Mitgliedern:
 
@@ -355,6 +372,7 @@ vor.
 
 
 #### § 14 Bestimmung der einzelnen Fachprüferinnen und Fachprüfer für die einzelnen Prüfungsteile der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001600000)
 
 Die dem Prüfungsausschuss vorsitzende Person bestimmt auf Vorschlag
 der Schulleiterin oder des Schulleiters für jede Aufsichtsarbeit des
@@ -371,6 +389,7 @@ Prüfungsteil des praktischen Teils der staatlichen Prüfung jeweils
 
 
 #### § 15 Teilnahme der dem Prüfungsausschuss vorsitzenden Person an Teilen der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001700000)
 
 Die dem Prüfungsausschuss vorsitzende Person hat das Recht, an den
 einzelnen Teilen der staatlichen Prüfung teilzunehmen, ohne dass ihr
@@ -379,6 +398,7 @@ nicht.
 
 
 #### § 16 Teilnahme von Sachverständigen sowie von Beobachterinnen und Beobachtern an der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001800000)
 
 (1) Die zuständige Behörde kann Sachverständige sowie Beobachterinnen
 und Beobachter zur Teilnahme an einzelnen oder allen Teilen der
@@ -391,6 +411,7 @@ zuvor darin eingewilligt haben.
 
 
 #### § 17 Zulassung zur staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE001900000)
 
 (1) Auf Antrag der auszubildenden Person entscheidet die dem
 Prüfungsausschuss vorsitzende Person, ob die auszubildende Person zur
@@ -448,6 +469,7 @@ oder elektronisch.
 
 
 #### § 18 Prüfungstermine für die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002000000)
 
 (1) Für die zu prüfende Person muss die dem Prüfungsausschuss
 vorsitzende Person die Prüfungstermine im Benehmen mit der
@@ -466,6 +488,7 @@ Die Mitteilung erfolgt schriftlich oder elektronisch.
 
 
 #### § 19 Prüfungsort der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002100000)
 
 (1) Den schriftlichen und den mündlichen Teil der staatlichen Prüfung
 legt die zu prüfende Person in der Schule ab, an der sie die
@@ -484,6 +507,7 @@ entsprechend.
 
 
 #### § 20 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002200000)
 
 (1) Einer zu prüfenden Person mit Behinderung oder Beeinträchtigung
 wird bei der Durchführung der staatlichen Prüfung auf Antrag ein
@@ -519,6 +543,7 @@ geeigneter Weise der zu prüfenden Person bekannt.
 
 
 #### § 21 Rücktritt von der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002300000)
 
 (1) Eine zu prüfende Person kann nach ihrer Zulassung aber vor Beginn
 der Prüfungshandlung zurücktreten
@@ -555,6 +580,7 @@ Nummer 1 bis 3 nicht bestanden.
 
 
 #### § 22 Versäumnisse
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002400000)
 
 Versäumt eine zu prüfende Person einen Bestandteil der staatlichen
 Prüfung nach § 21 Absatz 1 Nummer 1 bis 3, ist § 21 entsprechend
@@ -563,6 +589,7 @@ nach Beginn der Prüfungshandlung gilt als Versäumnis.
 
 
 #### § 23 Störung der staatlichen Prüfung und Täuschungsversuch
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002500000)
 
 (1) Hat eine zu prüfende Person die ordnungsgemäße Durchführung der
 staatlichen Prüfung in erheblichem Maß gestört oder eine Täuschung
@@ -580,6 +607,7 @@ zulässig.
 
 
 #### § 24 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002600000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung sowie etwa vorkommende
@@ -588,6 +616,7 @@ schriftlicher oder elektronischer Form erfolgen.
 
 
 #### § 25 Vornoten
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002700000)
 
 (1) Vor Beginn der staatlichen Prüfung setzt die dem Prüfungsausschuss
 vorsitzende Person auf Vorschlag der Schule jeweils eine Vornote für
@@ -617,6 +646,7 @@ vor Beginn der staatlichen Prüfung mitzuteilen.
 
 
 #### § 26 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002800000)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -687,9 +717,11 @@ benotet:
 
 
 ### Abschnitt 2 - Schriftlicher Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000400000)
 
 
 #### § 27 Inhalt des schriftlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Laboratoriumsanalytik oder zum Medizinischen Technologen für Laboratoriumsanalytik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE002900000)
 
 (1) Im Fall der Ausbildung in der Laboratoriumsanalytik besteht der
 schriftliche Teil der staatlichen Prüfung aus zwei Aufsichtsarbeiten
@@ -719,6 +751,7 @@ der Anlage 1 Berücksichtigung finden.
 
 
 #### § 28 Inhalt des schriftlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Radiologie oder zum Medizinischen Technologen für Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003000000)
 
 (1) Im Fall der Ausbildung in der Radiologie besteht der schriftliche
 Teil der staatlichen Prüfung aus zwei Aufsichtsarbeiten und erstreckt
@@ -758,6 +791,7 @@ Anlage 2.
 
 
 #### § 29 Inhalt des schriftlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Funktionsdiagnostik oder zum Medizinischen Technologen für Funktionsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003100000)
 
 (1) Im Fall der Ausbildung in der Funktionsdiagnostik besteht der
 schriftliche Teil der staatlichen Prüfung aus zwei Aufsichtsarbeiten
@@ -800,6 +834,7 @@ Kompetenzbereich I.
 
 
 #### § 30 Inhalt des schriftlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Veterinärmedizin oder zum Medizinischen Technologen für Veterinärmedizin
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003200000)
 
 (1) Im Fall der Ausbildung in der Veterinärmedizin besteht der
 schriftliche Teil der staatlichen Prüfung aus zwei Aufsichtsarbeiten
@@ -829,6 +864,7 @@ der Anlage 4 Berücksichtigung finden.
 
 
 #### § 31 Durchführung des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003300000)
 
 (1) Die Aufgaben für die Aufsichtsarbeiten werden von der zuständigen
 Behörde auf Vorschlag der Schule ausgewählt.
@@ -845,6 +881,7 @@ innerhalb einer Woche durchzuführen.
 
 
 #### § 32 Benotung und Note einer Aufsichtsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003400000)
 
 (1) Jede Aufsichtsarbeit wird von zwei Fachprüferinnen oder
 Fachprüfern benotet.
@@ -856,6 +893,7 @@ Fachprüferinnen und Fachprüfer.
 
 
 #### § 33 Bestehen des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003500000)
 
 (1) Eine Aufsichtsarbeit ist bestanden, wenn sie von beiden
 Fachprüferinnen und Fachprüfern jeweils mit mindestens „ausreichend“
@@ -866,6 +904,7 @@ alle Aufsichtsarbeiten bestanden sind.
 
 
 #### § 34 Wiederholung von Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003600000)
 
 (1) Wer eine Aufsichtsarbeit des schriftlichen Teils der staatlichen
 Prüfung nicht bestanden hat, kann sie einmal wiederholen.
@@ -879,6 +918,7 @@ Behörde in begründeten Fällen zulassen.
 
 
 #### § 35 Note für den schriftlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003700000)
 
 (1) Für jede zu prüfende Person, die den schriftlichen Teil der
 staatlichen Prüfung bestanden hat, ermittelt die dem Prüfungsausschuss
@@ -904,9 +944,11 @@ zuzuordnen.
 
 
 ### Abschnitt 3 - Mündlicher Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000500000)
 
 
 #### § 36 Inhalt des mündlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Laboratoriumsanalytik oder zum Medizinischen Technologen für Laboratoriumsanalytik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003800000)
 
 (1) Im Fall der Ausbildung in der Laboratoriumsanalytik besteht der
 mündliche Teil der staatlichen Prüfung aus einer komplexen
@@ -928,6 +970,7 @@ Kompetenzbereichen der Anlage 1:
 
 
 #### § 37 Inhalt des mündlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Radiologie oder zum Medizinischen Technologen für Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE003900000)
 
 (1) Im Fall der Ausbildung in der Radiologie besteht der mündliche
 Teil der staatlichen Prüfung aus einer komplexen Aufgabenstellung in
@@ -948,6 +991,7 @@ herzustellen.
 
 
 #### § 38 Inhalt des mündlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Funktionsdiagnostik oder zum Medizinischen Technologen für Funktionsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004000000)
 
 (1) Im Fall der Ausbildung in der Funktionsdiagnostik besteht der
 mündliche Teil der staatlichen Prüfung aus einer komplexen
@@ -968,6 +1012,7 @@ herzustellen.
 
 
 #### § 39 Inhalt des mündlichen Teils der staatlichen Prüfung zur Medizinischen Technologin für Veterinärmedizin oder zum Medizinischen Technologen für Veterinärmedizin
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004100000)
 
 (1) Im Fall der Ausbildung in der Veterinärmedizin besteht der
 mündliche Teil der staatlichen Prüfung aus einer komplexen
@@ -989,6 +1034,7 @@ Kompetenzbereichen der Anlage 4:
 
 
 #### § 40 Durchführung des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004200000)
 
 (1) Im mündlichen Teil der staatlichen Prüfung sind die zu prüfenden
 Personen einzeln oder zu zweit zu prüfen.
@@ -1022,6 +1068,7 @@ von Zuhörerinnen und Zuhörern gestatten, wenn
 
 
 #### § 41 Benotung und Note für die im mündlichen Teil erbrachte Leistung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004300000)
 
 (1) Die im mündlichen Teil der staatlichen Prüfung erbrachte Leistung
 wird von den Fachprüferinnen und Fachprüfern benotet, von denen der
@@ -1051,6 +1098,7 @@ zuzuordnen.
 
 
 #### § 42 Bestehen des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004400000)
 
 Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn alle
 Fachprüferinnen und Fachprüfer die in der mündlichen Prüfung erbrachte
@@ -1058,6 +1106,7 @@ Prüfungsleistung mit mindestens „ausreichend“ bewerten.
 
 
 #### § 43 Wiederholung des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004500000)
 
 (1) Wer den mündlichen Teil der staatlichen Prüfung nicht bestanden
 hat, kann ihn einmal wiederholen.
@@ -1071,9 +1120,11 @@ Behörde in begründeten Fällen zulassen.
 
 
 ### Abschnitt 4 - Praktischer Teil der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000600000)
 
 
 #### § 44 Inhalt und Ablauf des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Laboratoriumsanalytik oder zum Medizinischen Technologen für Laboratoriumsanalytik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004600000)
 
 (1) Im Fall der Ausbildung in der Laboratoriumsanalytik sind Inhalt
 des praktischen Teils der staatlichen Prüfung Kompetenzen in allen
@@ -1130,6 +1181,7 @@ Prüfungsaufgaben insgesamt höchstens 60 Minuten.
 
 
 #### § 45 Inhalt und Ablauf des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Radiologie oder zum Medizinischen Technologen für Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004700000)
 
 (1) Im Fall der Ausbildung in der Radiologie sind Inhalt des
 praktischen Teils der staatlichen Prüfung Kompetenzen in allen
@@ -1169,6 +1221,7 @@ vierten Prüfungsteil jeweils höchstens 10 Minuten.
 
 
 #### § 46 Inhalt und Ablauf des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Funktionsdiagnostik oder zum Medizinischen Technologen für Funktionsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004800000)
 
 (1) Im Fall der Ausbildung in der Funktionsdiagnostik sind Inhalt des
 praktischen Teils der staatlichen Prüfung Kompetenzen in allen
@@ -1207,6 +1260,7 @@ einer Dauer von jeweils höchstens 15 Minuten.
 
 
 #### § 47 Inhalt und Ablauf des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Veterinärmedizin oder zum Medizinischen Technologen für Veterinärmedizin
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE004900000)
 
 (1) Im Fall der Ausbildung in der Veterinärmedizin sind Inhalt des
 praktischen Teils der staatlichen Prüfung Kompetenzen in allen
@@ -1264,6 +1318,7 @@ Prüfungsaufgaben insgesamt höchstens 60 Minuten.
 
 
 #### § 48 Durchführung des praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005000000)
 
 (1) Die Prüfungsaufgaben des praktischen Teils werden auf Vorschlag
 der Schule durch die Fachprüferinnen und Fachprüfer bestimmt. Wenn die
@@ -1294,6 +1349,7 @@ werden.
 
 
 #### § 49 Benotung, Note und Bestehen des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Laboratoriumsanalytik oder zum Medizinischen Technologen für Laboratoriumsanalytik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005100000)
 
 (1) Die im jeweiligen Prüfungsteil des praktischen Teils der
 staatlichen Prüfung erbrachte Leistung wird von den Fachprüferinnen
@@ -1328,6 +1384,7 @@ bewerten.
 
 
 #### § 50 Benotung, Note und Bestehen des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Radiologie oder zum Medizinischen Technologen für Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005200000)
 
 (1) Die im jeweiligen Prüfungsteil des praktischen Teils der
 staatlichen Prüfung erbrachte Leistung wird von den Fachprüferinnen
@@ -1364,6 +1421,7 @@ bewerten.
 
 
 #### § 51 Benotung, Note und Bestehen des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Funktionsdiagnostik oder zum Medizinischen Technologen für Funktionsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005300000)
 
 (1) Die im jeweiligen Prüfungsteil des praktischen Teils der
 staatlichen Prüfung erbrachte Leistung wird von den Fachprüferinnen
@@ -1399,6 +1457,7 @@ bewerten.
 
 
 #### § 52 Benotung, Note und Bestehen des praktischen Teils der staatlichen Prüfung zur Medizinischen Technologin für Veterinärmedizin oder zum Medizinischen Technologen für Veterinärmedizin
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005400000)
 
 (1) Die im jeweiligen Prüfungsteil des praktischen Teils der
 staatlichen Prüfung erbrachte Leistung wird von den Fachprüferinnen
@@ -1433,6 +1492,7 @@ bewerten.
 
 
 #### § 53 Wiederholung und zusätzlicher Praxiseinsatz
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005500000)
 
 (1) Wer einen Prüfungsteil des praktischen Teils der staatlichen
 Prüfung nicht bestanden hat, kann ihn einmal wiederholen.
@@ -1455,9 +1515,11 @@ Behörde in begründeten Fällen zulassen.
 
 
 ### Abschnitt 5 - Abschluss des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000700000)
 
 
 #### § 54 Bestehen und Gesamtnote der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005600000)
 
 (1) Die staatliche Prüfung hat bestanden, wer alle drei Teile der
 staatlichen Prüfung bestanden hat.
@@ -1476,6 +1538,7 @@ Prüfung.
 
 
 #### § 55 Zeugnis über die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005700000)
 
 (1) Wer die staatliche Prüfung bestanden hat, erhält ein Zeugnis nach
 dem Muster der Anlage 8.
@@ -1499,6 +1562,7 @@ dem Muster der Anlage 8.
 
 
 #### § 56 Mitteilung bei Nichtbestehen der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005800000)
 
 Wer die staatliche Prüfung nicht bestanden hat, erhält von der dem
 Prüfungsausschuss vorsitzenden Person eine schriftliche oder
@@ -1507,6 +1571,7 @@ Prüfung angegeben sind.
 
 
 #### § 57 Aufbewahrung der Prüfungsunterlagen und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE005900000)
 
 (1) Die Aufsichtsarbeiten sind drei Jahre aufzubewahren. Die übrigen
 Prüfungsunterlagen, einschließlich der Niederschrift nach § 24, sind
@@ -1518,9 +1583,11 @@ gewähren.
 
 
 ## Teil 3 - Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000800000)
 
 
 ### § 58 Ausstellung der Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006000000)
 
 (1) Bei der Erteilung der Erlaubnis zum Führen der Berufsbezeichnung
 nach § 1 Absatz 1 des MT-Berufe-Gesetzes stellt die zuständige Behörde
@@ -1530,12 +1597,15 @@ eine Erlaubnisurkunde aus.
 
 
 ## Teil 4 - Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG000900000)
 
 
 ### Abschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001000000)
 
 
 #### § 59 Frist der Behörde für die Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006100000)
 
 Beantragt eine Person, die ihre Berufsqualifikation außerhalb des
 Geltungsbereichs des MT-Berufe-
@@ -1548,6 +1618,7 @@ nachzuweisen.
 
 
 #### § 60 Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006201360)
 
 (1) Personen, die die Erlaubnis zum Führen einer der
 Berufsbezeichnungen nach § 1 Absatz 1 des MT-Berufe-Gesetzes aufgrund
@@ -1644,6 +1715,7 @@ Gründe gegen eine entsprechende Absicht sprechen.
 
 
 #### § 61 Frist der Behörde für die Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006300000)
 
 (1) Die zuständige Behörde entscheidet kurzfristig über den Antrag,
 spätestens jedoch drei Monate nach Vorlage der vollständigen
@@ -1654,6 +1726,7 @@ innerhalb von zwei Monaten erfolgen.
 
 
 #### § 62 Bescheide bei Feststellung wesentlicher Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006400000)
 
 (1) Stellt die Behörde hinsichtlich der Gleichwertigkeit der im
 Ausland erworbenen Berufsqualifikation wesentliche Unterschiede fest,
@@ -1701,12 +1774,15 @@ Bescheid.
 
 
 ### Abschnitt 2 - Anpassungsmaßnahmen nach § 50 des MT-Berufe-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001100000)
 
 
 #### Unterabschnitt 1 - Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001200000)
 
 
 ##### § 63 Zweck der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006500000)
 
 In der Eignungsprüfung hat die zu prüfende Person nachzuweisen, dass
 sie über Kenntnisse, Fähigkeiten und Kompetenzen verfügt, die zum
@@ -1715,6 +1791,7 @@ Unterschiede erforderlich sind.
 
 
 ##### § 64 Eignungsprüfung als staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006600000)
 
 (1) Die Eignungsprüfung wird als staatliche Prüfung durchgeführt.
 
@@ -1732,6 +1809,7 @@ entsprechend.
 
 
 ##### § 65 Inhalt der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006700000)
 
 (1) Die Eignungsprüfung ist eine praktische Prüfung, die mit
 Prüfungsgesprächen verbunden ist.
@@ -1760,6 +1838,7 @@ oder 4 gemäß den festgestellten wesentlichen Unterschieden fest.
 
 
 ##### § 66 Prüfungsort der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006800000)
 
 (1) Die zuständige Behörde legt den jeweiligen Prüfungsort für die
 einzelnen Aufgabenstellungen der Eignungsprüfung fest.
@@ -1769,6 +1848,7 @@ Berufe-Gesetzes geeignet ist.
 
 
 ##### § 67 Durchführung der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE006900000)
 
 (1) Die Eignungsprüfung wird von zwei Fachprüferinnen oder Fachprüfern
 abgenommen, von denen eine Person schulische Fachprüferin oder
@@ -1781,6 +1861,7 @@ der zu prüfenden Person beziehen.
 
 
 ##### § 68 Bewertung und Bestehen der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007000000)
 
 (1) Die in der Eignungsprüfung erbrachte Leistung ist von den beiden
 Fachprüferinnen und Fachprüfern zu bewerten, die die Eignungsprüfung
@@ -1799,6 +1880,7 @@ Fachprüfer jede Aufgabenstellung mit „bestanden“ bewerten.
 
 
 ##### § 69 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007100000)
 
 (1) Wer eine Aufgabenstellung der Eignungsprüfung nicht bestanden hat,
 darf sie einmal wiederholen.
@@ -1808,6 +1890,7 @@ der dem Prüfungsausschuss vorsitzenden Person erforderlich.
 
 
 ##### § 70 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007200000)
 
 (1) Die dem Prüfungsausschuss vorsitzende Person hat der Person, die
 die Eignungsprüfung bestanden hat, eine Bescheinigung auszustellen.
@@ -1816,9 +1899,11 @@ die Eignungsprüfung bestanden hat, eine Bescheinigung auszustellen.
 
 
 #### Unterabschnitt 2 - Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001300000)
 
 
 ##### § 71 Ziel und Inhalt des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007300000)
 
 (1) Ziel des Anpassungslehrgangs ist es, die von der zuständigen
 Behörde festgestellten wesentlichen Unterschiede auszugleichen
@@ -1830,6 +1915,7 @@ kann.
 
 
 ##### § 72 Durchführung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007400000)
 
 (1) Im Anpassungslehrgang wird der jeweilige Beruf unter der
 Verantwortung einer Person, die über die Erlaubnis zum Führen der
@@ -1862,6 +1948,7 @@ Umfang beteiligt werden.
 
 
 ##### § 73 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007500000)
 
 (1) Die Einrichtung, die den Anpassungslehrgang durchgeführt hat, hat
 der Person, die ihn absolviert hat, eine Bescheinigung auszustellen.
@@ -1870,12 +1957,15 @@ der Person, die ihn absolviert hat, eine Bescheinigung auszustellen.
 
 
 ### Abschnitt 3 - Anpassungsmaßnahmen nach § 51 des MT-Berufe-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001400000)
 
 
 #### Unterabschnitt 1 - Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001500000)
 
 
 ##### § 74 Zweck der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007600000)
 
 Die Kenntnisprüfung dient der Feststellung, dass die zu prüfende
 Person über die Kenntnisse, Fähigkeiten und Kompetenzen verfügt, die
@@ -1883,6 +1973,7 @@ zur Ausübung des jeweiligen Berufs erforderlich sind.
 
 
 ##### § 75 Kenntnisprüfung als staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007700000)
 
 (1) Die Kenntnisprüfung wird als staatliche Prüfung durchgeführt.
 
@@ -1900,6 +1991,7 @@ entsprechend.
 
 
 ##### § 76 Teile der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007800000)
 
 Die Kenntnisprüfung besteht aus
 
@@ -1913,6 +2005,7 @@ Die Kenntnisprüfung besteht aus
 
 
 ##### § 77 Inhalt des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE007900000)
 
 (1) Im Fall einer Person, die die Erlaubnis zum Führen der
 Berufsbezeichnung Medizinische Technologin für Laboratoriumsanalytik
@@ -1943,6 +2036,7 @@ Person mindestens 45 Minuten und höchstens 60 Minuten dauern.
 
 
 ##### § 78 Prüfungsort des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008000000)
 
 (1) Die zuständige Behörde legt den Prüfungsort des mündlichen Teils
 der Kenntnisprüfung fest.
@@ -1952,12 +2046,14 @@ Berufe-Gesetzes geeignet ist.
 
 
 ##### § 79 Durchführung des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008100000)
 
 Der mündliche Teil der Kenntnisprüfung wird von zwei schulischen
 Fachprüferinnen oder Fachprüfern abgenommen.
 
 
 ##### § 80 Bewertung und Bestehen des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008200000)
 
 (1) Die im mündlichen Teil der Kenntnisprüfung erbrachte Leistung ist
 von den Fachprüferinnen und Fachprüfern zu bewerten, von denen der
@@ -1974,6 +2070,7 @@ bewerten.
 
 
 ##### § 81 Wiederholung des mündlichen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008300000)
 
 (1) Wer den mündlichen Teil der Kenntnisprüfung nicht bestanden hat,
 darf ihn einmal wiederholen.
@@ -1983,6 +2080,7 @@ der dem Prüfungsausschuss vorsitzenden Person erforderlich.
 
 
 ##### § 82 Inhalt des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008400000)
 
 (1) Der praktische Teil der Kenntnisprüfung besteht aus mindestens
 zwei und höchstens vier Aufgabenstellungen aus dem jeweiligen Beruf.
@@ -2008,6 +2106,7 @@ unberührt.
 
 
 ##### § 83 Prüfungsort des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008500000)
 
 (1) Die zuständige Behörde legt die Prüfungsorte für die einzelnen
 Aufgabenstellungen des praktischen Teils der Kenntnisprüfung fest.
@@ -2017,6 +2116,7 @@ Berufe-Gesetzes geeignet ist.
 
 
 ##### § 84 Durchführung des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008600000)
 
 (1) Der praktische Teil der Kenntnisprüfung wird von zwei
 Fachprüferinnen oder Fachprüfern abgenommen, von denen eine Person
@@ -2029,6 +2129,7 @@ praktische Vorgehen der zu prüfenden Person beziehen.
 
 
 ##### § 85 Bewertung und Bestehen des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008700000)
 
 (1) Die im praktischen Teil der Kenntnisprüfung erbrachte Leistung ist
 von den beiden Fachprüferinnen und Fachprüfern zu bewerten, die den
@@ -2048,6 +2149,7 @@ bewerten.
 
 
 ##### § 86 Wiederholung des praktischen Teils der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008800000)
 
 (1) Wer eine Aufgabenstellung des praktischen Teils der
 Kenntnisprüfung nicht bestanden hat, darf sie einmal wiederholen.
@@ -2057,12 +2159,14 @@ der dem Prüfungsausschuss vorsitzenden Person erforderlich.
 
 
 ##### § 87 Bestehen der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE008900000)
 
 Die Kenntnisprüfung hat bestanden, wer den mündlichen und den
 praktischen Teil der Kenntnisprüfung bestanden hat.
 
 
 ##### § 88 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009000000)
 
 (1) Die dem Prüfungsausschuss vorsitzende Person hat der Person, die
 die Kenntnisprüfung bestanden hat, eine Bescheinigung auszustellen.
@@ -2071,9 +2175,11 @@ die Kenntnisprüfung bestanden hat, eine Bescheinigung auszustellen.
 
 
 #### Unterabschnitt 2 - Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001600000)
 
 
 ##### § 89 Ziel und Inhalt des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009100000)
 
 (1) Ziel des Anpassungslehrgangs ist, dass die antragstellende Person
 die Kenntnisse, Fähigkeiten und Kompetenzen erwirbt, die zur Ausübung
@@ -2085,6 +2191,7 @@ kann.
 
 
 ##### § 90 Durchführung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009200000)
 
 (1) Im Anpassungslehrgang wird der jeweilige Beruf unter der
 Verantwortung einer Person, die über die Erlaubnis zum Führen der
@@ -2124,6 +2231,7 @@ entsprechend.
 
 
 ##### § 91 Ziel und Inhalt des Abschlussgesprächs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009300000)
 
 (1) Mit dem Abschlussgespräch wird überprüft, ob die antragstellende
 Person das Lehrgangsziel des Anpassungslehrgangs erreicht hat.
@@ -2133,6 +2241,7 @@ vermittelten Kenntnisse, Fähigkeiten und Kompetenzen.
 
 
 ##### § 92 Durchführung des Abschlussgesprächs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009400000)
 
 (1) Das Abschlussgespräch wird von zwei Fachprüferinnen oder
 Fachprüfern abgenommen, von denen eine Person schulische Fachprüferin
@@ -2144,6 +2253,7 @@ Fachprüfern Nachfragen gestattet.
 
 
 ##### § 93 Bewertung und erfolgreiches Absolvieren des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009500000)
 
 (1) Die im Abschlussgespräch erbrachte Leistung ist von den
 Fachprüferinnen und Fachprüfern zu bewerten.
@@ -2159,6 +2269,7 @@ Fachprüfern mit „bestanden“ bewertet worden ist.
 
 
 ##### § 94 Verlängerung und Wiederholung des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009600000)
 
 (1) Hat eine Person den Anpassungslehrgang nicht erfolgreich
 absolviert, entscheiden die Fachprüferinnen und Fachprüfer über eine
@@ -2173,6 +2284,7 @@ Anpassungslehrgang einmal wiederholen.
 
 
 ##### § 95 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009700000)
 
 (1) Die Einrichtung, die den Anpassungslehrgang durchgeführt hat, hat
 der Person, die ihn absolviert hat, eine Bescheinigung auszustellen.
@@ -2181,9 +2293,11 @@ der Person, die ihn absolviert hat, eine Bescheinigung auszustellen.
 
 
 ### Abschnitt 4 - Nachweise der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Berufsqualifikationen aus einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001700000)
 
 
 #### § 96 Nachweise der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009800000)
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen
 Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
@@ -2250,6 +2364,7 @@ antragstellende Person sie ersetzen durch Vorlage einer Bescheinigung
 
 
 #### § 97 Nachweise der gesundheitlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE009900000)
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen
 Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
@@ -2267,6 +2382,7 @@ erfüllt ist.
 
 
 #### § 98 Aktualität von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010000000)
 
 Die Nachweise nach den §§ 96 und 97 dürfen von der zuständigen Behörde
 der Beurteilung nur zugrunde gelegt werden, wenn zum Zeitpunkt der
@@ -2275,9 +2391,11 @@ sind, höchstens drei Kalendermonate zurückliegt.
 
 
 ### Abschnitt 5 - Verfahren bei der Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Berufsqualifikationen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001800000)
 
 
 #### § 99 Verfahren bei der Erbringung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010100000)
 
 (1) Die zuständige Behörde prüft die Berufsqualifikation der meldenden
 Person nach § 58 des MT-Berufe-Gesetzes und teilt der meldenden Person
@@ -2300,9 +2418,11 @@ genannten Fristen aus, darf die Dienstleistung erbracht werden.
 
 
 ### Abschnitt 6 - Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 53 des MT-Berufe-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG002100360)
 
 
 #### § 99a Frist der Behörde für die Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011800360)
 
 Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung
 nach § 53 des MT-Berufe-Gesetzes, so bestätigt die zuständige Behörde
@@ -2312,6 +2432,7 @@ erforderlichen Voraussetzungen nachzuweisen.
 
 
 #### § 99b Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011900360)
 
 (1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach §
 53 des MT-Berufe-Gesetzes aufgrund einer außerhalb des
@@ -2410,6 +2531,7 @@ Gründe gegen eine entsprechende Absicht sprechen.
 
 
 #### § 99c Frist der Behörde für die Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE012000360)
 
 Die zuständige Behörde entscheidet kurzfristig über den Antrag,
 spätestens jedoch drei Monate nach Vorlage der vollständigen
@@ -2417,15 +2539,18 @@ Unterlagen durch die antragstellende Person.
 
 
 #### § 99d Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE012100360)
 
 Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach §
 53 des MT-Berufe-Gesetzes ist das Muster nach Anlage 14 zu verwenden.
 
 
 ### Abschnitt 7 - Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG002200360)
 
 
 #### § 99e Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE012200360)
 
 (1) Personen, die eine Genehmigung nach § 59a des MT-Berufe-Gesetzes
 aufgrund einer außerhalb des Geltungsbereichs des MT-Berufe-Gesetzes
@@ -2495,9 +2620,11 @@ Form für die vorzulegenden Dokumente zulassen. Sie kann auf die
 
 
 ## Teil 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNG001900000)
 
 
 ### § 100 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010201130)
 
 (1) Für Ausbildungen in den Berufen der technischen Assistenz in der
 Medizin, die vor dem 31. Dezember 2022 begonnen worden sind, ist bis
@@ -2561,6 +2688,7 @@ ein Fragerecht zu.
 
 
 ### § 101 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010300000)
 
 (1) Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 
@@ -2571,12 +2699,14 @@ worden ist, tritt am 31. Dezember 2022 außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010400000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ### Anlage 1 Kompetenzen für die Ausbildung zur Medizinischen Technologin für Laboratoriumsanalytik und zum Medizinischen Technologen für Laboratoriumsanalytik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010500000)
 
 (Fundstelle: BGBl. I 2021, 4487 - 4490)
 
@@ -3031,6 +3161,7 @@ IV. Ausrichtung, Begründung und Reflexion des eigenen Handelns und
 (zu § 1)
 
 ### Anlage 2 Kompetenzen für die Ausbildung zur Medizinischen Technologin für Radiologie und zum Medizinischen Technologen für Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010600000)
 
 (Fundstelle: BGBl. I 2021, 4491 - 4495)
 
@@ -3587,6 +3718,7 @@ V.  Ausrichtung, Begründung und Reflexion des eigenen Handelns und
 (zu § 1)
 
 ### Anlage 3 Kompetenzen für die Ausbildung zur Medizinischen Technologin für Funktionsdiagnostik und zum Medizinischen Technologen für Funktionsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010700000)
 
 (Fundstelle: BGBl. I 2021, 4496 - 4499)
 
@@ -4056,6 +4188,7 @@ IV. Ausrichtung, Begründung und Reflexion des eigenen Handelns und
 (zu § 1)
 
 ### Anlage 4 Kompetenzen für die Ausbildung zur Medizinischen Technologin für Veterinärmedizin und zum Medizinischen Technologen für Veterinärmedizin
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010800000)
 
 (Fundstelle: BGBl. I 2021, 4500 - 4503)
 
@@ -4508,6 +4641,7 @@ IV. Ausrichtung, Begründung und Reflexion des eigenen Handelns und
 (zu § 3 Absatz 2)
 
 ### Anlage 5 Stundenverteilung im Rahmen des theoretischen und praktischen Unterrichts der Ausbildung zur Medizinischen Technologin und zum Medizinischen Technologen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE010900000)
 
 (Fundstelle: BGBl. I 2021, 4504 - 4505)
 
@@ -4789,6 +4923,7 @@ Medizinische Technologen für Veterinärmedizin
 (zu § 4 Absatz 2 und 3 und § 5 Absatz 1)
 
 ### Anlage 6 Stundenverteilung im Rahmen der praktischen Ausbildung zur Medizinischen Technologin und zum Medizinischen Technologen
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011000000)
 
 (Fundstelle: BGBl. I 2021, 4506 - 4507)
 
@@ -5017,6 +5152,7 @@ Medizinische Technologen für Veterinärmedizin
 (zu § 17 Absatz 2 Nummer 1 Buchstabe b)
 
 ### Anlage 7 Bescheinigung über die Teilnahme am theoretischen und praktischen Unterricht und an der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011100000)
 
 (Fundstelle: BGBl. I 2021, 4508)
 
@@ -5131,6 +5267,7 @@ unterbrochen worden.
 [^F818588_S1_BJNR446700021BJNE011100000]: 
 
 ### Anlage 8 (zu § 55 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011200000)
 
 (Fundstelle: BGBl. I 2021, 4509)
 
@@ -5276,6 +5413,7 @@ Zeugnis
 (zu § 58 Absatz 2)
 
 ### Anlage 9 Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011300000)
 
 (Fundstelle: BGBl. I 2021, 4510)
 
@@ -5360,6 +5498,7 @@ Zeugnis
 [^F818588_S3_BJNR446700021BJNE011300000]: 
 
 ### Anlage 10 (zu § 70 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011400000)
 
 (Fundstelle: BGBl. I 2021, 4511)
 
@@ -5443,6 +5582,7 @@ bestanden/nicht bestanden
 [^F818588_S4_BJNR446700021BJNE011400000]: 
 
 ### Anlage 11 (zu § 73 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011500000)
 
 (Fundstelle: BGBl. I 2021, 4512)
 
@@ -5518,6 +5658,7 @@ wurde.
 
 
 ### Anlage 12 (zu § 88 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011600000)
 
    (Fundstelle: BGBl. I 2021, 4513)
 
@@ -5601,6 +5742,7 @@ bestanden/nicht bestanden
 [^F818588_S5_BJNR446700021BJNE011600000]: 
 
 ### Anlage 13 (zu § 95 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE011700000)
 
 (Fundstelle: BGBl. I 2021, 4514)
 
@@ -5684,6 +5826,7 @@ Das Abschlussgespräch hat er/sie bestanden/nicht bestanden
 (zu § 99d)
 
 ### Anlage 14 Urkunde über die Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/mtaprv/BJNR446700021.html#BJNR446700021BJNE012300360)
 
 (Fundstelle: BGBl 2023 I Nr. 359, S. 51)
 

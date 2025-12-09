@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000202130)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Abfallverbrennungs- und Abfallmitverbrennungsanlagen,
@@ -125,6 +127,7 @@ Abfallmitverbrennungsanlagen,
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000302130)
 
 (1) „Abfall“ im Sinne dieser Verordnung sind Stoffe oder Gegenstände,
 die gemäß den Bestimmungen des Kreislaufwirtschaftsgesetzes vom 24.
@@ -360,9 +363,11 @@ Prozentsatz.
 
 
 ## Abschnitt 2 - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNG000200000)
 
 
 ### § 3 Anforderungen an die Anlieferung, die Annahme und die Zwischenlagerung der Einsatzstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000401130)
 
 (1) Der Betreiber einer Abfallverbrennungs- oder
 -mitverbrennungsanlage hat alle erforderlichen Vorsichtsmaßnahmen
@@ -499,6 +504,7 @@ eine Abgasreinigung, angewandt werden.
 
 
 ### § 4 Errichtung und Beschaffenheit der Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000501130)
 
 (1) Abfallverbrennungs- oder -mitverbrennungsanlagen sind so
 auszulegen, zu errichten und zu betreiben, dass ein unerlaubtes und
@@ -611,6 +617,7 @@ Fassung ergeben, bleiben unberührt.
 
 
 ### § 5 Betriebsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000601130)
 
 (1) Eine Abfallverbrennungsanlage ist zur Verbesserung der gesamten
 Umweltleistung und zur Reduzierung der Emissionen in die Luft durch
@@ -655,6 +662,7 @@ Kesseln, Heizflächen, Kesselspeisewasser-Vorwärmern und Abgaszügen.
 
 
 ### § 6 Verbrennungsbedingungen für Abfallverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000700000)
 
 (1) Abfallverbrennungsanlagen sind so zu errichten und zu betreiben,
 dass für die Verbrennungsgase, die bei der Verbrennung von Abfällen
@@ -742,6 +750,7 @@ Verbrennungsbedingungen eingesetzt werden.
 
 
 ### § 7 Verbrennungsbedingungen für Abfallmitverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000800000)
 
 (1) Abfallmitverbrennungsanlagen sind so zu errichten und zu
 betreiben, dass für die Verbrennungsgase, die bei der
@@ -787,6 +796,7 @@ Weiterleitung an die Europäische Kommission vorzulegen.
 
 
 ### § 8 Emissionsgrenzwerte für Abfallverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE000901130)
 
 (1) Abfallverbrennungsanlagen sind so zu errichten und zu betreiben,
 dass
@@ -1078,6 +1088,7 @@ eingesetzt werden, beträgt der Bezugssauerstoffgehalt 3 Prozent.
 
 
 ### § 9 Emissionsgrenzwerte für Abfallmitverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001002130)
 
 (1) Abfallmitverbrennungsanlagen sind so zu errichten und zu
 betreiben, dass folgende Emissionsgrenzwerte in den Abgasen
@@ -1168,6 +1179,7 @@ in einer nachträglichen Anordnung festzusetzen.
 
 
 ### § 10 Im Jahresmittel einzuhaltende Emissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001102130)
 
 (1) Abfallverbrennungsanlagen sind so zu errichten und zu betreiben,
 dass kein Jahresmittelwert folgende Emissionsgrenzwerte überschreitet:
@@ -1210,6 +1222,7 @@ Megawatt oder weniger nicht anzuwenden.
 
 
 ### § 11 Ableitungsbedingungen für Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001200000)
 
 Die Abgase sind in kontrollierter Weise so abzuleiten, dass ein
 ungestörter Abtransport mit der freien Luftströmung ermöglicht wird.
@@ -1219,6 +1232,7 @@ näheren Bestimmungen sind in der Genehmigung festzulegen.
 
 
 ### § 12 Behandlung der bei der Abfallverbrennung und Abfallmitverbrennung entstehenden Rückstände
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001300000)
 
 (1) Rückstände, wie Schlacken, Rostaschen, Filter- und Kesselstäube
 sowie Reaktionsprodukte und sonstige Abfälle der Abgasbehandlung, sind
@@ -1257,6 +1271,7 @@ Schwermetalle im löslichen und unlöslichen Teil durchzuführen.
 
 
 ### § 13 Energieeffizienz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001401130)
 
 (1) Wärme, die in Abfallverbrennungs- oder -mitverbrennungsanlagen
 entsteht und die nicht an Dritte abgegeben wird, ist in Anlagen des
@@ -1299,9 +1314,11 @@ sind.
 
 
 ## Abschnitt 3 - Messung und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNG000300000)
 
 
 ### § 14 Messplätze
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001500000)
 
 Der Betreiber hat vor Inbetriebnahme einer Anlage für die Messungen
 zur Feststellung der Emissionen oder der Verbrennungsbedingungen sowie
@@ -1313,6 +1330,7 @@ Näheres bestimmt die zuständige Behörde.
 
 
 ### § 15 Messverfahren und Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001602130)
 
 (1) Der Betreiber hat sicherzustellen, dass für Messungen die dem
 Stand der Messtechnik entsprechenden Messverfahren angewendet und
@@ -1365,6 +1383,7 @@ innerhalb von zwölf Wochen nach Kalibrierung und Prüfung vorzulegen.
 
 
 ### § 16 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001702130)
 
 (1) Der Betreiber hat unter Berücksichtigung der Anforderungen gemäß
 Anlage 4 folgende Parameter kontinuierlich zu ermitteln, zu
@@ -1475,6 +1494,7 @@ Emissionsgrenzwerte.
 
 
 ### § 17 Auswertung und Beurteilung von kontinuierlichen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001802130)
 
 (1) Während des Betriebs der Abfallverbrennungs- oder
 -mitverbrennungsanlagen ist aus den nach § 16 ermittelten Messwerten
@@ -1577,6 +1597,7 @@ der im Jahr erhaltenen Messwerte den vorgeschriebenen Grenzwert nicht
 
 
 ### § 18 Periodische Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE001902130)
 
 (1) Der Betreiber hat nach Errichtung oder wesentlicher Änderung einer
 Abfallverbrennungs- oder -mitverbrennungsanlage bei der Inbetriebnahme
@@ -1690,6 +1711,7 @@ jeweiligen Monats durchzuführen.
 
 
 ### § 19 Berichte und Beurteilung von periodischen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002002130)
 
 (1) Der Betreiber hat über die Ergebnisse der periodischen Messungen
 nach § 18 einen Messbericht zu erstellen und diesen der zuständigen
@@ -1717,6 +1739,7 @@ gemäß Anlage 3 überschreitet.
 
 
 ### § 20 Besondere Überwachung der Emissionen an Schwermetallen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002101116)
 
 (1) Soweit auf Grund der Zusammensetzung der Abfälle oder Stoffe nach
 § 1 Absatz 1 oder anderer Erkenntnisse, insbesondere auf Grund der
@@ -1734,6 +1757,7 @@ Emissionsbegrenzungen nicht überschritten werden.
 
 
 ### § 20a Besondere Überwachung während Betriebszuständen außerhalb des Normalbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003500130)
 
 (1) Die Emissionen von Gesamtstaub und von organischen Stoffen,
 angegeben als Gesamtkohlenstoff, sowie von PCDD/F-Emissionen nach
@@ -1756,6 +1780,7 @@ gesondert zu bewerten.
 
 
 ### § 21 Störungen des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002202130)
 
 (1) Ergibt sich aus Messungen, dass Anforderungen an den Betrieb einer
 Abfallverbrennungs- oder -mitverbrennungsanlage oder zur Begrenzung
@@ -1814,6 +1839,7 @@ Absatz 8 und 9, § 8 Absatz 5 sowie § 9 Absatz 4 gelten entsprechend.
 
 
 ### § 22 Jährliche Berichte über Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002302130)
 
 (1) Der Betreiber einer abfallmitverbrennenden Großfeuerungsanlage hat
 der zuständigen Behörde jährlich jeweils bis zum Ablauf des 30. April
@@ -1913,9 +1939,11 @@ Angaben zu Feuerungsanlagen in Raffinerien gesondert aufzuführen sind.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNG000400000)
 
 
 ### § 23 Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002401130)
 
 (1) Der Betreiber einer Abfallverbrennungs- oder
 -mitverbrennungsanlage hat nach erstmaliger Kalibrierung der
@@ -1950,6 +1978,7 @@ Umweltbundesamt diese Liste in geeigneter elektronischer Form zu
 
 
 ### § 24 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002501130)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
 von Vorschriften dieser Verordnung zulassen, soweit unter
@@ -2034,6 +2063,7 @@ zuzuleiten.
 
 
 ### § 25 Weitergehende Anforderungen und wesentliche Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002600000)
 
 (1) Die Befugnis der zuständigen Behörde, andere oder weitergehende
 Anforderungen, insbesondere zur Vermeidung schädlicher
@@ -2061,9 +2091,11 @@ bietet.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNG000500000)
 
 
 ### § 26 Zugänglichkeit und Gleichwertigkeit von Normen und Arbeitsblättern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002702130)
 
 (1) Die in § 2 Absatz 24 genannten DIN-Normen sind bei der Beuth
 Verlag GmbH, Berlin, zu beziehen. Die in § 2 Absatz 17 genannten DVGW-
@@ -2084,6 +2116,7 @@ stellen, gleich.
 
 
 ### § 27 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002802130)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2200,6 +2233,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 28 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE002902130)
 
 (1) Für bestehende Anlagen, ausgenommen bestehende
 abfallmitverbrennende Großfeuerungsanlagen und bestehende
@@ -2267,6 +2301,7 @@ Anforderungen enthält, gehen die Anforderungen der Genehmigung vor.
 (zu § 8 Absatz 1, § 18 Absatz 5 und 6 und § 20 Absatz 1)
 
 ### Anlage 1 Emissionsgrenzwerte für Schwermetalle und krebserzeugende Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003002130)
 
 (Fundstelle: BGBl. I 2013, 1057;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2554,6 +2589,7 @@ e)  Dioxine, Furane und polychlorierte Biphenyle gemäß Anlage 2
 (zu Anlage 1 Buchstabe d und e)
 
 ### Anlage 2 Äquivalenzfaktoren – polychlorierte Dibenzodioxine, Dibenzofurane und dl-PCB
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003101130)
 
 (Fundstelle: BGBl. I 2013, 1058;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2772,6 +2808,7 @@ summieren.
 (zu § 18 Absatz 3)
 
 ### Anlage 2a Zu ermittelnde polybromierte Dibenzo-p-dioxine und Furane
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003600130)
 
 (Fundstelle: BGBl. 2024 I Nr. 43, S. 10)
 
@@ -2831,6 +2868,7 @@ genannten Dioxine und Furane im Abgas zu ermitteln.
 Absatz 2, § 19 Absatz 2, § 21 Absatz 3 und § 22 Absatz 1)
 
 ### Anlage 3 Emissionsgrenzwerte für die Mitverbrennung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003202130)
 
 (Fundstelle: BGBl. I 2013, 1059 - 1065;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3428,6 +3466,7 @@ Ausnahmen.
 (zu § 15 Absatz 1, § 16 Absatz 1 und § 17 Absatz 5)
 
 ### Anlage 4 Anforderungen an die kontinuierlichen Messeinrichtungen und die Validierung der Messergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003302130)
 
 (Fundstelle: BGBl. I 2013, 1066;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3549,6 +3588,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Absatz 12)
 
 ### Anlage 5 Umrechnungsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003401116)
 
 (Fundstelle: BGBl. I 2013, 1067;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3579,6 +3619,7 @@ M=  gemessener Sauerstoffgehalt
 (zu § 4 Absatz 1)
 
 ### Anlage 6 Umweltmanagementsysteme
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003700130)
 
 (Fundstelle: BGBl. 2024 I Nr. 43, S. 10 - 11)
 
@@ -3776,6 +3817,7 @@ Umweltleistungen gelten als erfüllt, wenn
 (zu § 13 Absatz 3)
 
 ### Anlage 7 Energieeffizienz von Abfallverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_17_2013/BJNR104400013.html#BJNR104400013BJNE003800130)
 
 (Fundstelle: BGBl. 2024 I Nr. 43, S. 12)
 

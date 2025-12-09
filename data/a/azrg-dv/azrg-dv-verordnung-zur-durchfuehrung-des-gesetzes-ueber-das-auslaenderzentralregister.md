@@ -23,16 +23,19 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000100000)
 
 Auf Grund des § 40 Abs. 1 des AZR-Gesetzes vom 2. September 1994
 (BGBl. I S. 2265) verordnet das Bundesministerium des Innern:
 
 
 ## Abschnitt 1 - Inhalt des Registers
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNG000200000)
 
 
 
 ### § 1 Inhalt der Datensätze
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000302311)
 
 Die Daten, die im Ausländerzentralregister gespeichert werden dürfen,
 ergeben sich aus Spalte A der Abschnitte I und II der Anlage zu dieser
@@ -47,6 +50,7 @@ sich die betroffene Person nicht mehr im Bundesgebiet aufhält.
 
 
 ### § 2 AZR-Nummer
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000402311)
 
 (1) Die Registerbehörde vergibt die AZR-Nummer als Geschäftszeichen
 bei der erstmaligen Speicherung von Daten eines Ausländers im
@@ -61,6 +65,7 @@ erkannt werden und keine Verarbeitung der Daten erfolgt.
 
 
 ### § 3 Berichtigung eines Datensatzes
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000503311)
 
 (1) Die Registerbehörde hat unabhängig von der Verantwortung der
 öffentlichen Stellen nach § 8 Absatz 1 des AZR-Gesetzes Hinweise auf
@@ -107,10 +112,12 @@ verantwortlich.
 
 
 ## Abschnitt 2 - Datenübermittlung an die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNG000600000)
 
 
 
 ### § 4 Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000708311)
 
 (1) Die öffentlichen Stellen, die nach dem AZR-Gesetz verpflichtet
 oder berechtigt sind, an die Registerbehörde Daten zu übermitteln, die
@@ -175,6 +182,7 @@ Möglichkeiten zur sicheren Verschlüsselung und Signatur sind bei der
 
 
 ### § 5 Verfahren der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000807311)
 
 (1) Die öffentlichen Stellen, die Daten direkt eingeben dürfen, haben
 zuvor durch Abruf im automatisierten Verfahren festzustellen, ob im
@@ -211,6 +219,7 @@ dieser Daten als neuer Datensatz ausgeschlossen ist.
 
 
 ### § 6 Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE000904311)
 
 Aus Abschnitt III der Anlage zu dieser Verordnung ergeben sich
 
@@ -230,6 +239,7 @@ Die Dokumente sind unverzüglich zu übermitteln.
 
 
 ### § 7 Übermittlungssperren
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001007311)
 
 (1) Jeder Ausländer, dessen Daten im allgemeinen Datenbestand des
 Registers gespeichert sind, kann eine Übermittlungssperre nach § 4 des
@@ -304,10 +314,12 @@ Entscheidung zu vernichten.
 
 
 ## Abschnitt 3 - Datenübermittlung durch die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNG001100000)
 
 
 
 ### § 8 Übermittlungsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001225311)
 
 (1) Jede öffentliche Stelle, die um Übermittlung von Daten aus dem
 Register ersucht, hat vor dem Übermittlungsersuchen zu prüfen, ob die
@@ -488,6 +500,7 @@ Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 
 ### § 9 Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001304311)
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz
 an die jeweils ersuchende Stelle übermitteln und weitergeben darf,
@@ -519,6 +532,7 @@ Registerbehörde an öffentliche Stellen entsprechend.
 
 
 ### § 10 Zulassung zum Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001404311)
 
 (1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren
 nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der
@@ -547,6 +561,7 @@ die Unterlagen gegen den Zugriff durch Unbefugte zu sichern.
 
 
 ### § 11 Gruppenauskünfte an öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001502116)
 
 (1) Das Ersuchen um Gruppenauskunft muß die Merkmale bezeichnen, nach
 denen die Gruppenauskunft erfolgen soll. Gruppenmerkmale können sein
@@ -592,6 +607,7 @@ Gründen die Gruppenauskunft erfolgt ist.
 
 
 ### § 12 Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001600000)
 
 (1) Nichtöffentliche Stellen, die nach § 25 des AZR-Gesetzes um
 Übermittlung von Daten ersuchen, haben gegenüber der Registerbehörde
@@ -611,6 +627,7 @@ Auskunft nicht möglich ist.
 
 
 ### § 13 Datenübermittlung an Behörden anderer Staaten und an zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001703311)
 
 (1) Behörden anderer Staaten richten ihre Übermittlungsersuchen,
 soweit es sich bei der betroffenen Person um einen Angehörigen ihres
@@ -642,6 +659,7 @@ Absatz 1 Satz 4 und 5 gilt entsprechend.
 
 
 ### § 14 Datenübermittlung an sonstige nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE001800000)
 
 (1) Sonstige nichtöffentliche Stellen im Sinne des § 27 des AZR-
 Gesetzes haben gegenüber der Registerbehörde nachzuweisen, daß die
@@ -653,10 +671,12 @@ Meldebehörde zu erbringen, die nicht älter als vier Wochen sein soll.
 
 
 ## Abschnitt 4 - Auskunft an die betroffene Person
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNG001901311)
 
 
 
 ### § 15 Voraussetzungen und Verfahren der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002001311)
 
 (1) Die betroffene Person kann nach Artikel 15 der Verordnung (EU)
 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016
@@ -686,10 +706,12 @@ eingeleitetes Kontrollverfahren benötigt wird.
 
 
 ## Abschnitt 5 - Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNG002101311)
 
 
 
 ### § 16 Aufzeichnungen bei Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002201311)
 
 (1) Die Registerbehörde hat sicherzustellen, daß die Aufzeichnungen
 nach den §§ 9, 13 und 31 Abs. 3 des AZR-Gesetzes bei der Eingabe und
@@ -714,6 +736,7 @@ Kontrollverfahren benötigt werden.
 
 
 ### § 17 Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002301311)
 
 (1) Das Bestreiten der Richtigkeit gespeicherter Daten hat schriftlich
 gegenüber der Registerbehörde zu erfolgen. Die betroffene Person soll
@@ -735,6 +758,7 @@ Gesetzes nur der Hinweis auf die Einschränkung der Verarbeitung
 
 
 ### § 18 Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002410311)
 
 (1) Im allgemeinen Datenbestand des Registers ist der Datensatz eines
 Ausländers, der das Inland verlassen hat, spätestens zehn Jahre nach
@@ -857,6 +881,7 @@ Angaben zum aufenthaltsrechtlichen Status nicht gelöscht.
 
 
 ### § 19 Löschung von Daten, Löschungsfristen in der Visadatei
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002501320)
 
 In der Visadatei des Registers ist der Datensatz eines Ausländers
 spätestens nach fünf Jahren zu löschen, wenn Daten nach § 29 Abs. 1
@@ -867,10 +892,12 @@ in dem letztmals Daten übermittelt worden sind.
 
 
 ## Abschnitt 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNG002601116)
 
 
 
 ### § 19a Auswirkungen späterer Rechtsänderungen auf den Registerbestand
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003301116)
 
 (1) Bis zum Inkrafttreten einer Rechtsänderung gespeicherte Angaben
 zum aufenthaltsrechtlichen Status im Sinne des § 2 Absatz 2 Nummer 3
@@ -889,6 +916,7 @@ ihrer Art nach vergleichbare Daten.
 
 
 ### § 19b Auswirkungen eines späteren Wechsels des Personenkreises auf den Datensatz zu einer Person
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003401116)
 
 (1) Daten zu einem Unionsbürger, die vor dem Erwerb der
 Unionsbürgerschaft gespeichert wurden, dürfen weiter gespeichert
@@ -905,6 +933,7 @@ ihrer Art nach vergleichbare Daten.
 
 
 ### § 20 Übergangsregelung aus Anlass des Inkrafttretens des Zuwanderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002706311)
 
 (1) Bis zum 31. Dezember 2004 gespeicherte Angaben zum
 aufenthaltsrechtlichen Status im Sinne des § 2 Abs. 2 Nr. 3 in
@@ -951,6 +980,7 @@ Verordnung zur Durchführung des Ausländergesetzes.
 
 
 ### § 21 Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002802310)
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthaltsrechtlicher
 Richtlinien der Europäischen Union und zur Anpassung nationaler
@@ -964,11 +994,13 @@ nachzuholen.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE002900000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
+[Direktlink](https://www.gesetze-im-internet.de/azrg-dv/BJNR069500995.html#BJNR069500995BJNE003667311)
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

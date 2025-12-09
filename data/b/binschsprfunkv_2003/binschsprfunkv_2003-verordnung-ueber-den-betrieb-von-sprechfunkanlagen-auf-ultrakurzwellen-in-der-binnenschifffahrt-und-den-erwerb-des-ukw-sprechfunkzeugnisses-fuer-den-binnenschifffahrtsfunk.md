@@ -26,6 +26,7 @@ gegenseitige Anerkennung ihrer Konformität (ABl. EG Nr. L 91 S. 10).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000000000)
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet
 auf Grund
@@ -45,10 +46,12 @@ auf Grund
 
 
 ## 1. Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNG000100000)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000100000)
 
 Diese Verordnung regelt
 
@@ -65,6 +68,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000205119)
 
 Im Sinne dieser Verordnung sind
 
@@ -142,10 +146,12 @@ Im Sinne dieser Verordnung sind
 
 
 ## 2. Abschnitt - Betriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNG000200000)
 
 
 
 ### § 3 Grundregeln
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000300000)
 
 (1) Der Funkdienst bei einer Schiffsfunkstelle darf nur nach Maßgabe
 der Regionalen Vereinbarung und des Handbuchs für den
@@ -165,6 +171,7 @@ Automatisches Senderidentifizierungssystem in der Binnenschifffahrt
 
 
 ### § 4 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000401305)
 
 (1) Wer auf Wasserstraßen der Zonen 1 bis 4 eine Schiffsfunkstelle
 bedienen oder beaufsichtigen will, bedarf einer Erlaubnis der
@@ -198,6 +205,7 @@ bekanntgemachte Stelle.
 
 
 ### § 5 Besondere Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000501305)
 
 In den Verkehrskreisen Schiff - Schiff, Nautische Information und
 Schiff - Hafenbehörde dürfen nur Nachrichten übermittelt werden, die
@@ -206,10 +214,12 @@ Sicherheit von Fahrzeugen beziehen.
 
 
 ## 3. Abschnitt - Erwerb der Erlaubnis; Funkzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNG000300000)
 
 
 
 ### § 6 Anforderungen für den Erwerb der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000600000)
 
 Der Bewerber muss für die Erteilung der Erlaubnis das 15. Lebensjahr
 vollendet und die erforderliche Befähigung in einer Prüfung
@@ -217,6 +227,7 @@ nachgewiesen haben.
 
 
 ### § 7 Prüfungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000700000)
 
 (1) Der Bewerber hat den Antrag auf Zulassung zur Prüfung und
 Erteilung der Erlaubnis mit folgenden Angaben an die zuständige
@@ -263,6 +274,7 @@ Monate vor Erreichen des Mindestalters zugelassen werden.
 
 
 ### § 8 Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000800000)
 
 (1) Die zuständige Behörde richtet Prüfungsausschüsse ein und bestellt
 deren Vorsitzende, Stellvertreter und Prüfer nach Bedarf. Sie macht
@@ -279,6 +291,7 @@ Hamburg.
 
 
 ### § 9 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE000901308)
 
 (1) Der Bewerber hat in einer Prüfung nach Maßgabe des
 Prüfungsprogramms (Anlage 3) nachzuweisen, dass er
@@ -342,6 +355,7 @@ haben.
 
 
 ### § 10 Erteilung ohne Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001000000)
 
 Gegen Vorlage eines der in § 4 Abs. 3 Nr. 3 und 4 genannten Zeugnisse
 oder einer von der zuständigen Behörde anerkannten Bescheinigung über
@@ -352,6 +366,7 @@ Sprechfunkzeugnis (UBI) aus.
 
 
 ### § 11 Ersatzausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001100000)
 
 Ist ein UKW-Sprechfunkzeugnis (UBI) oder ein Funkzeugnis nach § 4 Abs.
 3 Nr. 4 unbrauchbar geworden, verloren gegangen oder sonst abhanden
@@ -362,6 +377,7 @@ zuständigen Behörde abzuliefern.
 
 
 ### § 12 Entziehung
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001200000)
 
 (1) Die zuständige Behörde muss eine Erlaubnis entziehen, wenn der
 Inhaber nachweislich
@@ -425,6 +441,7 @@ Zeugnis ausgestellt hat, unverzüglich mit.
 
 
 ### § 13 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001301305)
 
 Die zuständige Behörde darf die gespeicherten personenbezogenen Daten
 aus dem durch sie geführten Verzeichnis über die erteilten
@@ -453,6 +470,7 @@ Erlaubnisse, soweit dies erforderlich ist, zum Zwecke der
 
 
 ### § 14 Amtlich anerkanntes UKW-Sprechfunkzeugnis (UBI)
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001400000)
 
 Das amtlich anerkannte UKW-Sprechfunkzeugnis (UBI) wird nach dem
 Muster der Anlage 2 von Prüfungsausschüssen des Deutschen
@@ -468,10 +486,12 @@ verstoßen haben.
 
 
 ## 4. Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNG000400000)
 
 
 
 ### § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001501305)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -500,22 +520,26 @@ fahrlässig
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001600000)
 
 -
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001700000)
 
 -
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001800000)
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 (zu § 4 Abs. 2, § 9 Abs. 4)
 
 ### Anlage 1 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE001900000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4575
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
@@ -523,6 +547,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4575
 (zu § 4 Abs. 3 Nr. 1, § 14)
 
 ### Anlage 2 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE002000000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4576
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
@@ -530,6 +555,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4576
 (zu § 9 Abs. 1)
 
 ### Anlage 3 Prüfungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE002100000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
 
@@ -1047,6 +1073,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
    (zu § 9 Abs. 3)
 
 ### Anlage 4 Vorschriften für den Prüfungsverlauf
+[Direktlink](https://www.gesetze-im-internet.de/binschsprfunkv_2003/BJNR456900002.html#BJNR456900002BJNE002200000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4579
 

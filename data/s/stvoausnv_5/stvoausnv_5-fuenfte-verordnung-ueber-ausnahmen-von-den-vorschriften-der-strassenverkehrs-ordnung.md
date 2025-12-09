@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_5/BJNR062300994.html#BJNR062300994BJNE000100307)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1,
@@ -31,6 +32,7 @@ Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_5/BJNR062300994.html#BJNR062300994BJNE000200307)
 
 Abweichend von § 21 Abs. 1a der Straßenverkehrs-Ordnung vom 16.
 November 1970 (BGBl. I S. 1565, 1971 I S. 38), die zuletzt durch
@@ -44,6 +46,7 @@ von Kindern zugelassen worden sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvoausnv_5/BJNR062300994.html#BJNR062300994BJNE000300307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

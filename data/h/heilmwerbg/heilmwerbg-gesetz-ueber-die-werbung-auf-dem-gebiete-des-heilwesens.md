@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE000617116)
 
 (1) Dieses Gesetz findet Anwendung auf die Werbung für
 
@@ -115,6 +116,7 @@ dieser Informationen im Internet.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE000703320)
 
 Fachkreise im Sinne dieses Gesetzes sind Angehörige der Heilberufe
 oder des Heilgewerbes, Einrichtungen, die der Gesundheit von Mensch
@@ -125,6 +127,7 @@ Ausübung ihres Berufes anwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE000810126)
 
 Unzulässig ist eine irreführende Werbung. Eine Irreführung liegt
 insbesondere dann vor,
@@ -169,6 +172,7 @@ insbesondere dann vor,
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002403310)
 
 Unzulässig ist eine Werbung für Arzneimittel, die der Pflicht zur
 Zulassung unterliegen und die nicht nach den arzneimittelrechtlichen
@@ -178,6 +182,7 @@ Darreichungsformen bezieht, die nicht von der Zulassung erfasst sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE000911130)
 
 (1) Jede Werbung für Arzneimittel muß folgende Angaben enthalten:
 
@@ -257,6 +262,7 @@ oder dem Hinweis: "Wirkstoff:"geworben wird.
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002503310)
 
 (1) Unzulässig ist es, in der Packungsbeilage eines Arzneimittels für
 andere Arzneimittel oder andere Mittel zu werben.
@@ -267,6 +273,7 @@ eines Arzneimittels zu werben.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001002320)
 
 Für homöopathische Arzneimittel, die nach dem Arzneimittelgesetz
 registriert oder von der Registrierung freigestellt sind, darf mit der
@@ -274,6 +281,7 @@ Angabe von Anwendungsgebieten nicht geworben werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001104310)
 
 Unzulässig ist eine Werbung, wenn
 
@@ -301,6 +309,7 @@ Unzulässig ist eine Werbung, wenn
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001212116)
 
 (1) Es ist unzulässig, Zuwendungen und sonstige Werbegaben (Waren oder
 Leistungen) anzubieten, anzukündigen oder zu gewähren oder als
@@ -377,6 +386,7 @@ werben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001307116)
 
 Das Teleshopping im Sinne des § 1 Absatz 3a sowie die Werbung für das
 Teleshopping sind unzulässig. Die Werbung für das Beziehen bestimmter
@@ -392,6 +402,7 @@ und den Preis dieses Arzneimittels enthalten.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001403116)
 
 Unzulässig ist eine Werbung für die Erkennung oder Behandlung von
 Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden, die
@@ -404,6 +415,7 @@ behandelnden Menschen nicht erforderlich ist.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001504116)
 
 (1) Für verschreibungspflichtige Arzneimittel darf nur bei Ärzten,
 Zahnärzten, Tierärzten, Apothekern und Personen, die mit diesen
@@ -418,6 +430,7 @@ Notfallkontrazeption zugelassen sind.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001611116)
 
 (1) Außerhalb der Fachkreise darf für Arzneimittel, Verfahren,
 Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
@@ -514,6 +527,7 @@ oder überlegen ist.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001707116)
 
 (1) Außerhalb der Fachkreise darf sich
 
@@ -550,6 +564,7 @@ für Verfahren oder Behandlungen
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001804360)
 
 Die Werbung eines Unternehmens mit Sitz außerhalb des Geltungsbereichs
 dieses Gesetzes ist unzulässig, wenn nicht ein Unternehmen mit Sitz
@@ -563,12 +578,14 @@ damit betraut ist, die sich aus diesem Gesetz ergebenden Pflichten zu
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE001902320)
 
 Wer dem Verbot der irreführenden Werbung (§ 3) zuwiderhandelt, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002010116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -625,6 +642,7 @@ Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002103310)
 
 Werbematerial und sonstige Gegenstände, auf die sich eine Straftat
 nach § 14 oder eine Ordnungswidrigkeit nach § 15 bezieht, können
@@ -633,17 +651,20 @@ eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002203320)
 
 Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002604360)
 
 (weggefallen)
 
 (zu § 12)
 
 ## Anlage Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
+[Direktlink](https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html#BJNR006049965BJNE002303310)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2599
 

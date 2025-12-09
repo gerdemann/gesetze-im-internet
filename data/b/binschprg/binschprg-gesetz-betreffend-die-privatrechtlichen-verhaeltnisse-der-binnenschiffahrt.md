@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Schiffseigner
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001100319)
 
 Schiffseigner im Sinne dieses Gesetzes ist der Eigentümer eines zur
 Schiffahrt auf Flüssen oder sonstigen Binnengewässern bestimmten und
@@ -31,6 +33,7 @@ hierzu von ihm verwendeten Schiffes.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001200319)
 
 (1) Wer ein ihm nicht gehöriges Schiff zur Binnenschiffahrt verwendet
 und es entweder selbst führt oder die Führung einem Schiffer
@@ -45,6 +48,7 @@ und der Gläubiger nicht in gutem Glauben war.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001300319)
 
 (1) Der Schiffseigner ist für den Schaden verantwortlich, den eine
 Person der Schiffsbesatzung oder ein an Bord tätiger Lotse einem
@@ -55,6 +59,7 @@ Dritten in Ausführung von Dienstverrichtungen schuldhaft zufügt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014102123)
 
 (1) Der Schiffseigner kann seine Haftung für Ansprüche wegen Personen-
 und Sachschäden, die an Bord oder in unmittelbarem Zusammenhang mit
@@ -111,6 +116,7 @@ anzusehen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014203123)
 
 Der Haftungsbeschränkung nach § 4 unterliegen nicht
 
@@ -142,6 +148,7 @@ Der Haftungsbeschränkung nach § 4 unterliegen nicht
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014300307)
 
 Hat der Schiffseigner gegen den Gläubiger eines in § 4 aufgeführten
 Anspruchs einen Gegenanspruch, der aus demselben Ereignis entstanden
@@ -151,6 +158,7 @@ Gegenanspruchs verbleibt.
 
 
 ### § 5b
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014401360)
 
 (1) Der Schiffseigner kann seine Haftung nach den Vorschriften dieses
 Abschnitts nicht beschränken, wenn der Schaden auf eine Handlung oder
@@ -168,6 +176,7 @@ Vertretung berechtigten Gesellschafters zurückzuführen ist.
 
 
 ### § 5c
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014503360)
 
 (1) Bei der Anwendung der Vorschriften über die Haftungsbeschränkung
 stehen dem Schiffseigner gleich:
@@ -203,6 +212,7 @@ Umfang wie der Versicherte berufen.
 
 
 ### § 5d
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014601123)
 
 (1) Die Haftung kann auf die in den §§ 5e bis 5k bezeichneten
 Haftungshöchstbeträge beschränkt werden.
@@ -224,6 +234,7 @@ Zivilprozeßordnung bleibt unberührt.
 
 
 ### § 5e
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014703360)
 
 (1) Der Haftungshöchstbetrag, auf den die Haftung für die Gesamtheit
 der aus demselben Ereignis entstandenen Ansprüche wegen
@@ -287,6 +298,7 @@ zum Umladen in Häfen verwendet werden.
 
 
 ### § 5f
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014801123)
 
 (1) Der Haftungshöchstbetrag, auf den die Haftung für die Gesamtheit
 der aus demselben Ereignis entstandenen Ansprüche wegen Sachschäden
@@ -301,6 +313,7 @@ und Navigationshilfen den Vorrang.
 
 
 ### § 5g
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE014900307)
 
 Reicht der nach § 5e maßgebende Haftungshöchstbetrag für Ansprüche
 wegen Personenschäden zur vollen Befriedigung dieser Ansprüche nicht
@@ -312,6 +325,7 @@ anzuwenden.
 
 
 ### § 5h
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015004360)
 
 (1) Für die Gesamtheit der aus demselben Ereignis entstandenen
 Ansprüche wegen Schäden, die direkt oder indirekt durch die
@@ -360,6 +374,7 @@ Absatz 3 ist insoweit nicht anzuwenden.
 
 
 ### § 5i
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015103360)
 
 Abweichend von den §§ 5e, 5f Abs. 1 und § 5h kann ein Berger im Sinne
 von § 5c Abs. 1 Nr. 2 oder ein an Bord tätiger Lotse seine Haftung für
@@ -371,6 +386,7 @@ beschränken. § 5f Abs. 2 und § 5g gelten entsprechend.
 
 
 ### § 5j
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015200307)
 
 Für die Gesamtheit der aus demselben Ereignis entstandenen Ansprüche
 aus Wrackbeseitigung gilt ein gesonderter Haftungshöchstbetrag. Dieser
@@ -380,6 +396,7 @@ Ansprüche aus Wrackbeseitigung zur Verfügung.
 
 
 ### § 5k
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015303360)
 
 (1) Für die Gesamtheit der aus demselben Ereignis entstandenen
 Ansprüche wegen der Tötung oder Verletzung von Personen, die
@@ -413,6 +430,7 @@ Lotsen 2,252 Millionen Rechnungseinheiten.
 
 
 ### § 5l
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015402123)
 
 (1) Die in diesem Abschnitt genannte Rechnungseinheit ist das
 Sonderziehungsrecht des Internationalen Währungsfonds. Die nach den §§
@@ -436,6 +454,7 @@ Haftung in der Binnenschifffahrt (CLNI 2012) als angenommen gelten, zu
 
 
 ### § 5m
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015502123)
 
 Die §§ 4 bis 5l sind ohne Rücksicht auf das nach Internationalen
 Privatrecht anzuwendende Recht anzuwenden, wenn im Zeitpunkt des
@@ -463,6 +482,7 @@ haftungsbegründenden Ereignisses
 
 
 ### § 5n
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015700123)
 
 (1) Die §§ 4 bis 5m in der durch das Zweite Gesetz zur Änderung der
 Haftungsbeschränkung in der Binnenschifffahrt vom 5. Juli 2016 (BGBl.
@@ -478,6 +498,7 @@ geltenden Bestimmungen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001601307)
 
 (1) Das Gericht des Ortes, von dem aus die Schiffahrt mit dem Schiffe
 betrieben wird (Heimatort), ist, vorbehaltlich des § 3 Abs. 1 des
@@ -497,10 +518,12 @@ veranlagt wird.
 
 
 ## Zweiter Abschnitt - Schiffer
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000200319)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001701307)
 
 (1) Der Führer des Schiffes (Schiffer) ist verpflichtet, bei allen
 Dienstverrichtungen, namentlich bei der Erfüllung der von ihm
@@ -522,6 +545,7 @@ unterrichtet war.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001801307)
 
 (1) Der Schiffer hat vor Antritt der Reise darauf zu sehen, daß das
 Schiff in fahrtüchtigem Zustande, gehörig eingerichtet und
@@ -541,6 +565,7 @@ so hat er den daraus entstehenden Schaden zu ersetzen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE001900319)
 
 (1) Wenn der Schiffer durch Krankheit oder andere Ursachen verhindert
 ist, das Schiff zu führen, so darf er den Antritt oder die Fortsetzung
@@ -554,6 +579,7 @@ ihm bei der Wahl desselben ein Verschulden zur Last fällt.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002000319)
 
 (1) Der Schiffer ist verpflichtet, von Beschädigungen des Schiffes
 oder der Ladung, von eingegangenen Geschäften sowie von der Einsetzung
@@ -575,6 +601,7 @@ Maßregeln schleunigst in Kenntnis gesetzt werden.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002100319)
 
 (1) Wird das Schiff oder die Ladung von einem Unfall betroffen, so ist
 der Schiffer berechtigt und auf Verlangen des Schiffseigners oder
@@ -596,6 +623,7 @@ sich ereignet hat.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002200319)
 
 Zur Aufnahme des Beweises bestimmt das Gericht einen tunlichst nahen
 Termin, zu welchem der Schiffer und die sonst bezeichneten Zeugen zu
@@ -606,6 +634,7 @@ Verzögerung des Verfahrens geschehen kann. Die Mitteilung kann durch
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002300319)
 
 (1) Die Aufnahme des Beweises erfolgt nach den Vorschriften der
 Zivilprozeßordnung.
@@ -624,6 +653,7 @@ erforderlich erscheint.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002400319)
 
 (1)
 
@@ -638,6 +668,7 @@ Anwendung.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002500319)
 
 (1) Befindet sich das Schiff weder am Heimatorte, noch an einem Orte,
 an welchem der Schiffseigner eine Geschäftsniederlassung hat, so ist
@@ -653,6 +684,7 @@ des Schiffseigners berechtigt.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002600319)
 
 (1) Rechtsgeschäfte, welche der Schiffer eingeht, während das Schiff
 sich an einem der in § 15 Abs. 1 bezeichneten Orte befindet, sind für
@@ -665,6 +697,7 @@ des Ortes befugt.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002700319)
 
 Der Schiffseigner, welcher die gesetzlichen Befugnisse des Schiffers
 beschränkt hat, kann einem Dritten die Nichteinhaltung dieser
@@ -673,6 +706,7 @@ Dritten bekannt waren.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002800319)
 
 Dem Schiffseigner gegenüber sind für den Umfang der Befugnisse des
 Schiffers die Bestimmungen der §§ 15 und 16 ebenfalls maßgebend,
@@ -680,6 +714,7 @@ soweit nicht der Schiffseigner diese Befugnisse beschränkt hat.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE002901307)
 
 (1) Durch ein Rechtsgeschäft, welches der Schiffer in seiner
 Eigenschaft als Führer des Schiffes, sei es mit, sei es ohne
@@ -693,6 +728,7 @@ oder seine Befugnisse überschritten hat.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003001307)
 
 (1) Der Schiffer untersteht, soweit nicht in diesem Gesetz ein anderes
 bestimmt ist, den Vorschriften, welche für die technischen
@@ -720,10 +756,12 @@ Dienstverhältnisses oder bis zum Ablauf der Kündigungsfrist.
 
 
 ## Dritter Abschnitt - Schiffsmannschaft
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000300319)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003100319)
 
 (1) Zur Schiffsmannschaft gehören mit Ausnahme des Schiffers die zum
 Schiffahrtsdienste auf dem Schiffe angestellten Personen der
@@ -734,6 +772,7 @@ Schiffsknechte, Schiffsjungen, Maschinisten und Heizer.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003200319)
 
 Die Verpflichtung des Schiffsmannes zum Dienstantritte beginnt, wenn
 nichts anderes verabredet ist, mit dem Abschlusse des Dienstvertrages.
@@ -743,6 +782,7 @@ Schiffseigners auf Schadensersatz wird hierdurch nicht berührt.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003300319)
 
 (1) Der Schiffsmann ist verpflichtet, in Ansehung des Schiffsdiensts
 den Anordnungen des Schiffers Folge zu leisten und jederzeit alle für
@@ -757,6 +797,7 @@ nach besten Kräften zu sorgen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003400319)
 
 Wenn über die Zeit der Lohnzahlung nichts anderes vereinbart ist, so
 kann der Schiffsmann am Schlusse jeder zweiten Woche die Auszahlung
@@ -764,6 +805,7 @@ des verdienten Lohnes verlangen.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003500319)
 
 (1)
 
@@ -787,10 +829,12 @@ Dienstverhältnisses oder bis zum Ablaufe der Kündigungsfrist.
 
 
 ## Vierter Abschnitt - Frachtgeschäft. Schiffsüberlassungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000401377)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003601307)
 
 Auf das Frachtgeschäft zur Beförderung von Gütern auf Binnengewässern
 finden die Vorschriften des Vierten Abschnitts des Vierten Buchs des
@@ -798,6 +842,7 @@ Handelsgesetzbuchs Anwendung.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE015600377)
 
 (1) Auf den Vertrag über die Vermietung eines Binnenschiffs sind die
 §§ 553 bis 556 des Handelsgesetzbuchs entsprechend anzuwenden.
@@ -810,14 +855,17 @@ Handelsgesetzbuchs entsprechend anzuwenden.
 
 
 ### (XXXX) §§ 28 bis 76 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE003702377)
 
 
 
 ## Fünfter Abschnitt - Beförderung von Reisenden und ihrem Gepäck
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG001100309)
 
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE008703377)
 
 Auf die Beförderung von Fahrgästen und ihrem Gepäck auf Flüssen und
 sonstigen Binnengewässern sind die §§ 536 bis 552 des
@@ -825,10 +873,12 @@ Handelsgesetzbuchs entsprechend anzuwenden.
 
 
 ## Sechster Abschnitt - Große Haverei
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000502377)
 
 
 
 ### § 78
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE008801377)
 
 (1) Werden das Schiff, der Treibstoff, die Ladung oder mehrere dieser
 Sachen zur Errettung aus einer gemeinsamen Gefahr auf Anordnung des
@@ -852,14 +902,17 @@ Beteiligten nach Absatz 1 Satz 2 zuzurechnen sind.
 
 
 ### (XXXX) §§ 79 bis 91 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE008902377)
 
 
 
 ## Siebter Abschnitt - Zusammenstoß von Schiffen. Bergung
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000602308)
 
 
 
 ### § 92
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010200319)
 
 (1) Die Schadensersatzpflicht beim Zusammenstoß von Binnenschiffen
 bestimmt sich nach den Vorschriften der §§ 92a bis 92f.
@@ -876,6 +929,7 @@ gleich.
 
 
 ### § 92a
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010300319)
 
 Im Falle eines Zusammenstoßes von Schiffen besteht kein Anspruch auf
 Ersatz des Schadens, der den Schiffen oder den an Bord befindlichen
@@ -884,6 +938,7 @@ ist oder dessen Ursachen ungewiß sind.
 
 
 ### § 92b
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010400319)
 
 Ist der Schaden durch Verschulden der Besatzung eines der Schiffe
 herbeigeführt, so ist der Eigner dieses Schiffes zum Ersatz des
@@ -891,6 +946,7 @@ Schadens verpflichtet.
 
 
 ### § 92c
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010500319)
 
 (1) Ist der Schaden durch gemeinsames Verschulden der Besatzungen der
 beteiligten Schiffe herbeigeführt, so sind die Eigner dieser Schiffe
@@ -910,6 +966,7 @@ auch für einen solchen Schaden die Vorschriften des Absatzes 1.
 
 
 ### § 92d
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010600319)
 
 Bei der Anwendung der §§ 92b, 92c steht das Verschulden eines an Bord
 tätigen Lotsen dem Verschulden eines Mitglieds der Schiffsbesatzung
@@ -917,12 +974,14 @@ gleich.
 
 
 ### § 92e
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010700319)
 
 Die §§ 92 bis 92d gelten auch, wenn die beteiligten Schiffe zu
 demselben Schleppverband gehören.
 
 
 ### § 92f
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010800319)
 
 (1) Die §§ 92 bis 92e gelten auch für die Haftung der Personen der
 Schiffsbesatzung und der Lotsen.
@@ -933,6 +992,7 @@ Haftung aus Verträgen bleiben unberührt.
 
 
 ### § 93 Bergung
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE010903377)
 
 (1) Auf die Rechte und Pflichten des nicht von einem Seeschiff aus
 tätigen Bergers, der einem in Binnengewässern in Gefahr befindlichen
@@ -949,14 +1009,17 @@ die Rechte eines Schiffsgläubigers an dem geborgenen Schiff.
 
 
 ### (XXXX) §§ 94 bis 101 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE011001308)
 
 
 
 ## Achter Abschnitt - Schiffsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000701309)
 
 
 
 ### § 102
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE011803308)
 
 Die nachstehenden Forderungen gewähren die Rechte eines
 Schiffsgläubigers:
@@ -995,6 +1058,7 @@ Schiffsgläubigers:
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE011900319)
 
 (1) Die Schiffsgläubiger haben an dem Schiffe nebst Zubehör ein
 Pfandrecht.
@@ -1008,6 +1072,7 @@ Zwangsvollstreckung.
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012001307)
 
 Sind mehrere Schiffe in einem Schleppzug, einem Schubverband oder
 einem Verband von fest gekoppelten Schiffen mit eigener Antriebskraft
@@ -1016,17 +1081,20 @@ auf dasjenige Schiff, welches den Schaden verursacht hat.
 
 
 ### § 105
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012100319)
 
 Das einem Schiffsgläubiger zustehende Pfandrecht gilt in gleichem Maße
 für Kapital, Zinsen und Kosten.
 
 
 ### § 106
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012201307)
 
 (weggefallen)
 
 
 ### § 107
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012301307)
 
 Die Rangordnung der Pfandrechte der Schiffsgläubiger bestimmt sich
 nach der Reihenfolge der Nummern, unter denen die Forderungen in § 102
@@ -1034,6 +1102,7 @@ aufgeführt sind.
 
 
 ### § 108
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012401307)
 
 (1) Die Pfandrechte für die unter derselben Nummer genannten
 Forderungen haben, soweit sich aus den Absätzen 2 und 3 nicht ein
@@ -1053,6 +1122,7 @@ aufgeführten Forderungen wegen Sachschäden vor.
 
 
 ### § 109
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012501307)
 
 (1) Das Pfandrecht des Schiffsgläubigers hat den Vorrang vor den
 sonstigen Pfandrechten am Schiff, für die in § 102 unter Nummer 4 bis
@@ -1072,6 +1142,7 @@ Höhe dieses Ausfalles persönlich verpflichtet.
 
 
 ### § 110
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012600319)
 
 Wird außer dem Falle der Zwangsversteigerung das Schiff veräußert, so
 ist der Erwerber berechtigt, die Ausschließung der unbekannten
@@ -1080,6 +1151,7 @@ Aufgebotsverfahrens zu beantragen.
 
 
 ### § 111
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012700319)
 
 Die Vorschrift des § 110 findet keine Anwendung, wenn nur der Anteil
 eines Miteigentümers des Schiffes den Gegenstand der Veräußerung
@@ -1087,11 +1159,13 @@ bildet.
 
 
 ### § 112
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012801307)
 
 (weggefallen)
 
 
 ### § 113
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE012901307)
 
 Soweit der Schiffseigner bei der Zwangsversteigerung oder bei einer
 sonstigen Veräußerung des Schiffes den Erlös eingezogen hat, haftet er
@@ -1103,6 +1177,7 @@ nach der gesetzlichen Rangordnung ergibt.
 
 
 ### § 114
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013001307)
 
 (1) Sendet der Schiffseigner, nachdem er von der Forderung eines
 Schiffsgläubigers, für welche er nur mit dem Schiff haftet, Kenntnis
@@ -1119,6 +1194,7 @@ würde.
 
 
 ### § 115
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013101307)
 
 (1) Das Pfandrecht erstreckt sich auch auf einen Ersatzanspruch, der
 dem Schiffseigner wegen des Verlustes oder der Beschädigung des
@@ -1135,6 +1211,7 @@ eines Erlöses (§ 113).
 
 
 ### § 116
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013202377)
 
 (1) Die wegen der Beiträge zur großen Haverei auf den Ladungsgütern
 haftenden Pfandrechte gehen den in § 442 des Handelsgesetzbuchs
@@ -1150,10 +1227,12 @@ des § 115 entsprechende Anwendung.
 
 
 ## Neunter Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG000801309)
 
 
 
 ### § 117
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013302308)
 
 (1) Mit dem Ablauf eines Jahres verjähren:
 
@@ -1191,6 +1270,7 @@ Forderung fällig geworden ist.
 
 
 ### § 118
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013400319)
 
 (1) Ersatzansprüche aus dem Zusammenstoß von Schiffen (§§ 92 bis 92f)
 verjähren mit Ablauf von zwei Jahren seit dem Ereignis.
@@ -1210,14 +1290,17 @@ erlangt.
 
 
 ### (XXXX) §§ 119 bis 129
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013500319)
 
 
 
 ## Zehnter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNG001000319)
 
 
 
 ### § 130
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013600319)
 
 In bürgerlichen Rechtsstreitigkeiten, in welchen durch Klage oder
 Widerklage ein Anspruch auf Grund dieses Gesetzes geltend gemacht ist,
@@ -1227,6 +1310,7 @@ Bundesgerichtshof zugewiesen.
 
 
 ### § 131
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013704123)
 
 (1) Bei Schiffen, welche nur zu Fahrten innerhalb desselben Ortes
 bestimmt sind, sind die §§ 15 bis 19 auf das Rechtsverhältnis des
@@ -1247,11 +1331,13 @@ nicht der Betrieb mittels frei schwimmender Schiffe stattfindet.
 
 
 ### § 132
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013800319)
 
 -
 
 
 ### § 133
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE013901377)
 
 (weggefallen)
 
@@ -1259,6 +1345,7 @@ Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 (BGBl. II 1990, 889, 960)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/binschprg/BJNR003010895.html#BJNR003010895BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

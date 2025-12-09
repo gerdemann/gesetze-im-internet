@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000100000)
 
 Auf Grund
 
@@ -41,6 +42,7 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
 
 ## § 1 Zweck, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000301377)
 
 Diese Verordnung regelt
 
@@ -76,6 +78,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000402128)
 
 (1) Im Sinne dieser Verordnung ist
 
@@ -146,6 +149,7 @@ Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 
 
 ## § 3 Alternative Systeme zur Verbesserung der Energieeffizienz für kleine und mittlere Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000500000)
 
 Als alternative Systeme zur Verbesserung der Energieeffizienz für
 kleine und mittlere Unternehmen (§ 55 Absatz 4 Satz 2 des
@@ -164,6 +168,7 @@ Stromsteuergesetzes) gelten folgende Systeme:
 
 
 ## § 4 Nachweisführung im Regelverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000601377)
 
 (1) Voraussetzung für die Nachweisführung über den Betrieb eines
 Energiemanagementsystems nach § 55 Absatz 4 Satz 1 Nummer 1 Buchstabe
@@ -317,10 +322,12 @@ entsprechenden Akkreditierungsurkunde vorgelegt wird.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000702128)
 
 
 
 ## § 6 Überwachung und Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000800000)
 
 (1) Die Tätigkeit der Umweltgutachter und
 Umweltgutachterorganisationen oder der Konformitätsbewertungsstellen
@@ -385,6 +392,7 @@ Verordnungen bleiben unberührt.
 
 
 ## § 7 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE000900000)
 
 (1) Soweit dies für die Kontrolle und Überwachung der im Bereich der
 Durchführung dieser Verordnung tätigen Umweltgutachter und
@@ -426,6 +434,7 @@ Festsetzungsfrist nach § 169 der Abgabenordnung.
 
 
 ## § 8 Berichtspflicht der zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001002123)
 
 Die zuständige Stelle legt dem Bundesministerium für Wirtschaft und
 Energie, dem Bundesministerium für Umwelt, Naturschutz und nukleare
@@ -451,6 +460,7 @@ Umweltauditgesetzes bleiben unberührt.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001101377)
 
 Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig entgegen § 4 Absatz 6 Satz
@@ -459,12 +469,14 @@ ausstellt oder nicht richtig bestätigt.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 3 Nummer 1)
 
 ## Anlage 1 Inhaltliche Anforderungen an einen Energieaudit-Bericht entsprechend DIN EN 16247-1
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001301377)
 
 (Fundstelle: BGBl. I 2013, 2863)
 
@@ -569,6 +581,7 @@ Der Bericht des Energieaudits muss enthalten:
 (zu § 3 Nummer 2)
 
 ## Anlage 2 Alternatives System
+[Direktlink](https://www.gesetze-im-internet.de/sp_fv/BJNR285800013.html#BJNR285800013BJNE001401377)
 
 (Fundstelle: BGBl. I 2013, 2864)
 

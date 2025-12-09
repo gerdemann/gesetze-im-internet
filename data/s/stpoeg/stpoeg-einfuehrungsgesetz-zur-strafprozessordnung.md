@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000100312)
 
 Wir ...
 verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des
@@ -27,16 +28,19 @@ Bundesrats und des Reichstags, was folgt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000201301)
 
 (weggefallen)
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000300312)
 
 -
 
 
 ## § 3 Anwendungsbereich der Strafprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000401311)
 
 (1) Die Strafprozeßordnung findet auf alle Strafsachen Anwendung,
 welche vor die ordentlichen Gerichte gehören.
@@ -52,16 +56,19 @@ Zuziehung von Schöffen verhandelt und entschieden werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000500312)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000601301)
 
 (weggefallen)
 
 
 ## § 6 Verhältnis zu landesgesetzlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000701311)
 
 (1) Die prozeßrechtlichen Vorschriften der Landesgesetze treten für
 alle Strafsachen, über die gemäß § 3 nach den Vorschriften der
@@ -86,12 +93,14 @@ polizeilicher Strafverfügungen.
 
 
 ## § 7 Begriff des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000801311)
 
 Gesetz im Sinne der Strafprozeßordnung und dieses Gesetzes ist jede
 Rechtsnorm.
 
 
 ## § 8 Mitteilungen in Strafsachen gegen Mandatsträger
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001002311)
 
 (1) In Strafsachen gegen Mitglieder der gesetzgebenden Körperschaften
 des Bundes oder eines Landes oder gegen Mitglieder des Europäischen
@@ -113,6 +122,7 @@ darauf verzichtet hat.
 
 
 ## § 9 Vorwarnmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001102125)
 
 (1) Das Gericht unterrichtet die zuständigen Behörden der anderen
 Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten
@@ -296,10 +306,12 @@ Mitteilung.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE000912125)
 
 
 
 ## § 11 Übergangsregelung zum Gesetz zur Novellierung der forensischen DNA-Analyse
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001202311)
 
 Für die nach dem DNA-Identitätsfeststellungsgesetz vom 7. September
 1998 (BGBl. I S. 2646), das zuletzt durch Artikel 4 des Gesetzes vom
@@ -309,6 +321,7 @@ Strafprozessordnung Anwendung.
 
 
 ## § 12 Übergangsregelung zum Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001400311)
 
 (1) Nach § 96 Absatz 1 Satz 1 Nummer 1 des Telekommunikationsgesetzes
 gespeicherte Standortdaten dürfen erhoben werden bis zum 29. Juli 2017
@@ -327,6 +340,7 @@ Verkehrsdaten geltenden Fassung anzuwenden.
 
 
 ## § 13 Übergangsvorschrift zum Gesetz zur Novellierung des Rechts der Unterbringung in einem psychiatrischen Krankenhaus gemäß § 63 des Strafgesetzbuches und zur Änderung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001303311)
 
 Auf am 1. August 2016 bereits anhängige Vollstreckungsverfahren ist §
 463 Absatz 4 Satz 2 und 8 der Strafprozessordnung in der seit dem 1.
@@ -345,6 +359,7 @@ der jeweils am 31. Juli 2016 geltenden Fassung weiter anzuwenden.
 
 
 ## § 14 Übergangsregelung zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001500311)
 
 Das Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung vom
 13\. April 2017 (BGBl. I S. 872) gilt nicht für Verfahren, in denen bis
@@ -355,6 +370,7 @@ Strafgesetzbuches entgegenstehen.
 
 
 ## § 15 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001601125)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -385,6 +401,7 @@ oder Landesministerien übertragen werden.
 
 
 ## § 16 Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001700360)
 
 Die Übersichten nach § 101b der Strafprozessordnung sind erstmalig für
 das Berichtsjahr 2019 zu erstellen. Für die vorangehenden
@@ -394,6 +411,7 @@ Fassung weiter anzuwenden.
 
 
 ## § 17 Übergangsregelung zum Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 und zu § 76 des Bundesdatenschutzgesetzes vom 30. Juni 2017
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001800125)
 
 (1) Für vor dem 6. Mai 2016 eingerichtete automatisierte
 Verarbeitungssysteme sind die durch das Gesetz zur Umsetzung der
@@ -417,6 +435,7 @@ an die Stelle des 5. Mai 2023 in Absatz 1 Satz 2 der 5. Mai 2026.
 
 
 ## § 18 Übergangsregelung zum Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität
+[Direktlink](https://www.gesetze-im-internet.de/stp_g/BJNR003460877.html#BJNR003460877BJNE001902125)
 
 Die Übersichten nach § 101b Absatz 5 und 6 der Strafprozessordnung in
 der vom 2. April 2021 an geltenden Fassung sind erstmalig für das auf

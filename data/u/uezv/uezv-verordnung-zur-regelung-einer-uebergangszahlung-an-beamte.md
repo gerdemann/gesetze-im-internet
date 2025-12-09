@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000100319)
 
 Auf Grund des § 75 des Bundesbesoldungsgesetzes in der Fassung des
 Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
@@ -28,6 +29,7 @@ I S. 1173) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000203320)
 
 (1) Diese Verordnung regelt die Gewährung einer Übergangszahlung an
 Beamte des einfachen und mittleren Dienstes, die im Dienst eines
@@ -106,6 +108,7 @@ Beamtenverhältnis mit Dienstbezügen erfolgt.
 
 
 ## § 2 Höhe der Übergangszahlung
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000301320)
 
 (1) Die Übergangszahlung wird in Höhe des Dreizehnfachen des
 Unterschiedsbetrages gewährt, um den die monatlichen Nettobezüge im
@@ -117,6 +120,7 @@ wird eine Übergangszahlung nicht gewährt.
 
 
 ## § 3 Vergleichsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000403310)
 
 (1) Der Unterschiedsbetrag wird ermittelt, indem die Nettobezüge
 einander gegenübergestellt werden. Zur Ermittlung der Nettobezüge sind
@@ -227,6 +231,7 @@ Hundert des Betrages aus Grundgehalt, Ortszuschlag der Stufe 2 und
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000500319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel I §
@@ -236,11 +241,13 @@ I S. 1173) auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000600319)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/_zv/BJNR019820975.html#BJNR019820975BJNE000700319)
 
 Der Bundesminister des Innern
 

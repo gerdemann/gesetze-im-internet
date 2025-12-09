@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg_28abs2bek/BJNR1060A0023.html#BJNR1060A0023BJNE000100000)
 
 Nach § 28 Absatz 2 des Energiesteuergesetzes vom 15. Juli 2006 (BGBl.
 I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 1 des
@@ -28,6 +29,7 @@ des 30. September 2023 ausläuft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/energiestg_28abs2bek/BJNR1060A0023.html#BJNR1060A0023BJNE000200000)
 
 Bundesministerium der Finanzen
 

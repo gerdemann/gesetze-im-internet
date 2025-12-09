@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000100000)
 
 Auf Grund des § 7 Abs. 2 Satz 6 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der
@@ -31,6 +32,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000200000)
 
 Die Verordnung regelt die Eintragung in die Handwerksrolle für den
 nach § 7 Abs. 2 Satz 1 der Handwerksordnung erfassten Personenkreis,
@@ -42,6 +44,7 @@ abgelegt worden sind.
 
 
 ## § 2 Abschlussprüfungen an Hochschulen und an solchen Bildungseinrichtungen, die nach Landesrecht dem tertiären Bereich zugeordnet sind
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000300000)
 
 Abschlussprüfungen in Studiengängen mit technischer Ausrichtung, die
 an Hochschulen im Sinne des Hochschulrahmengesetzes, insbesondere an
@@ -78,6 +81,7 @@ insbesondere von Hochschulen ausgestellte Zeugnisse.
 
 
 ## § 3 Abschlussprüfungen an staatlichen oder staatlich anerkannten Fachschulen
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000400000)
 
 (1) Abschlussprüfungen, die an staatlichen oder staatlich anerkannten
 deutschen Fachschulen in den Fachbereichen Technik oder Gestaltung
@@ -114,12 +118,14 @@ insbesondere von Fachschulen ausgestellte Zeugnisse.
 
 
 ## § 4 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000501118)
 
 Die Eintragung in die Handwerksrolle ist bei der Handwerkskammer zu
 beantragen.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000600000)
 
 Prüfungen, die auf Grund der Verordnung über die Anerkennung von
 Prüfungen bei der Eintragung in die Handwerksrolle und bei Ablegung
@@ -128,11 +134,13 @@ anerkannt sind, gelten weiterhin als anerkannt.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hwreintrv/BJNR193510005.html#BJNR193510005BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

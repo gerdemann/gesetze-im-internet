@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/babefugv_2008/BJNR003400008.html#BJNR003400008BJNE000100000)
 
 Auf Grund des § 366a Abs. 4 Satz 5 in Verbindung mit Satz 3 des
 Dritten Buches Sozialgesetzbuch – Arbeitsförderung – (Artikel 1 des
@@ -28,6 +29,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/babefugv_2008/BJNR003400008.html#BJNR003400008BJNE000200000)
 
 Die in § 366a Abs. 4 Satz 3 des Dritten Buches Sozialgesetzbuch
 enthaltene Ermächtigung wird auf den Vorstand der Bundesagentur für
@@ -37,6 +39,7 @@ für Arbeit und Soziales und dem Bundesministerium der Finanzen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/babefugv_2008/BJNR003400008.html#BJNR003400008BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

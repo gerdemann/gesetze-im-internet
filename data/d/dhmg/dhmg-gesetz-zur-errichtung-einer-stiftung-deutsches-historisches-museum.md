@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Stiftung „Deutsches Historisches Museum“
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNG000100000)
 
 
 ### § 1 Name, Sitz, Rechtsform und Trägerschaft der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000100000)
 
 (1) Unter dem Namen „Deutsches Historisches Museum“ wird eine
 rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts mit
@@ -34,6 +36,7 @@ Flucht, Vertreibung, Versöhnung“ (§ 15).
 
 
 ### § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000200000)
 
 (1) Zweck der Stiftung ist es, die gesamte deutsche Geschichte in
 ihrem europäischen Zusammenhang darzustellen.
@@ -66,6 +69,7 @@ ihrem europäischen Zusammenhang darzustellen.
 
 
 ### § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000300000)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes geht das Vermögen der
 Deutsches Historisches Museum-GmbH einschließlich der
@@ -95,6 +99,7 @@ verwenden.
 
 
 ### § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000400000)
 
 Die Stiftung gibt sich eine Satzung, die von ihrem Kuratorium
 beschlossen wird und der Genehmigung durch die Rechtsaufsicht bedarf.
@@ -102,6 +107,7 @@ Das Gleiche gilt für Änderungen der Satzung.
 
 
 ### § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -118,6 +124,7 @@ Organe der Stiftung sind
 
 
 ### § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000600000)
 
 (1) Das Kuratorium besteht aus 15 Mitgliedern, die für jeweils fünf
 Jahre entsandt werden.
@@ -185,6 +192,7 @@ anderes beschließt.
 
 
 ### § 7 Präsidentin oder Präsident
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000701116)
 
 (1) Die Präsidentin oder der Präsident wird vom Kuratorium nach
 Anhörung des wissenschaftlichen Beirates berufen. Erster Präsident der
@@ -209,6 +217,7 @@ Kuratoriums.
 
 
 ### § 8 Wissenschaftlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000800000)
 
 (1) Dem wissenschaftlichen Beirat gehören mindestens zwölf und
 höchstens 25 Sachverständige an. Sie werden vom Kuratorium für fünf
@@ -221,6 +230,7 @@ Präsidentin oder den Präsidenten.
 
 
 ### § 9 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE000900000)
 
 Die Mitglieder des Kuratoriums und des wissenschaftlichen Beirates
 üben ihre Tätigkeit ehrenamtlich aus. Die Erstattung von Reisekosten
@@ -229,6 +239,7 @@ Bundesverwaltung geltenden Bestimmungen.
 
 
 ### § 10 Aufsicht; Jahresabschluss; Wirtschaftsplan; Haushalts- und Wirtschaftsführung; Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001000000)
 
 (1) Die Stiftung einschließlich der unselbständigen Stiftung
 untersteht der Rechtsaufsicht der oder des Beauftragten der
@@ -252,12 +263,14 @@ Prüfung durch eine in der Satzung bestimmte Stelle.
 
 
 ### § 11 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001100000)
 
 Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen
 Bericht über ihre Tätigkeit und ihre Vorhaben vor.
 
 
 ### § 12 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001200000)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch
 Arbeitnehmerinnen und Arbeitnehmer wahrgenommen. Auf die
@@ -284,6 +297,7 @@ ist das Kuratorium. § 187 des Bundesbeamtengesetzes bleibt unberührt.
 
 
 ### § 13 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001300000)
 
 (1) Für die Benutzung der Einrichtungen der Stiftung sowie für den
 Zutritt zu besonderen Veranstaltungen werden Gebühren und Auslagen
@@ -299,15 +313,18 @@ der Billigkeit oder des öffentlichen Interesses zugelassen werden.
 
 
 ### § 14 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001400000)
 
 Die Stiftung führt als Dienstsiegel das kleine Bundessiegel mit der
 Umschrift „Stiftung Deutsches Historisches Museum“.
 
 
 ## Abschnitt 2 - Unselbständige Stiftung „Stiftung Flucht, Vertreibung, Versöhnung“
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNG000200000)
 
 
 ### § 15 Name, Sitz und Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001500000)
 
 Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit
 Inkrafttreten dieses Gesetzes in Trägerschaft der Stiftung „Deutsches
@@ -316,6 +333,7 @@ Rechts in Berlin errichtet.
 
 
 ### § 16 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001600000)
 
 (1) Zweck der unselbständigen Stiftung ist es, im Geiste der
 Versöhnung die Erinnerung und das Gedenken an Flucht und Vertreibung
@@ -351,6 +369,7 @@ ihrer Folgen wachzuhalten.
 
 
 ### § 17 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001700000)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen alle von der
 Bundesrepublik Deutschland für die zu errichtende unselbständige
@@ -389,6 +408,7 @@ Stiftungsaktivitäten.
 
 
 ### § 18 Gremien und Leitung der unselbständigen Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001800000)
 
 (1) Bei der unselbständigen Stiftung werden gebildet
 
@@ -407,6 +427,7 @@ Direktor.
 
 
 ### § 19 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE001902311)
 
 (1) Der Stiftungsrat besteht aus 21 Mitgliedern.
 
@@ -492,6 +513,7 @@ Stiftungsratsmitgliedes gefasst werden.
 
 
 ### § 20 Wissenschaftlicher Beraterkreis
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE002001310)
 
 (1) Der Stiftungsrat richtet einen wissenschaftlichen Beraterkreis mit
 bis zu 15 Mitgliedern ein. Die Mitglieder werden für fünf Jahre
@@ -517,6 +539,7 @@ Rederecht teil.
 
 
 ### § 21 Direktorin oder Direktor
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE002100000)
 
 (1) Die Direktorin oder der Direktor leitet die unselbständige
 Stiftung, führt die Beschlüsse des Stiftungsrates aus und bereitet
@@ -532,6 +555,7 @@ ist.
 
 
 ### § 22 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/dhmg/BJNR289110008.html#BJNR289110008BJNE002200310)
 
 Bis zur erstmaligen Konstituierung des Stiftungsrates und des
 wissenschaftlichen Beraterkreises nach diesem Gesetz in der Fassung

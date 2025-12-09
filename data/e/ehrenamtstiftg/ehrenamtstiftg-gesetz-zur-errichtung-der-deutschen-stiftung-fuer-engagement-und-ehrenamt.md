@@ -17,11 +17,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000200000)
 
 (1) Unter dem Namen „Deutsche Stiftung für Engagement und Ehrenamt“
 wird eine rechtsfähige Stiftung öffentlichen Rechts errichtet. Die
@@ -31,6 +33,7 @@ Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000300000)
 
 (1) Stiftungszweck ist die Stärkung und Förderung des
 bürgerschaftlichen Engagements und des Ehrenamts insbesondere in
@@ -54,6 +57,7 @@ des Bundes.
 
 
 ## § 3 Erfüllung des Stiftungszwecks
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000400000)
 
 (1) Der Stiftungszweck wird erfüllt durch
 
@@ -96,6 +100,7 @@ Förderung erfüllt werden.
 
 
 ## § 4 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000500000)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -113,6 +118,7 @@ Einnahmen sind nur zur Erfüllung des Stiftungszwecks zu verwenden.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000600000)
 
 (1) Organe der Stiftung sind der Stiftungsrat und der Vorstand. Zur
 Beratung bei der Erfüllung der Aufgaben der Stiftung kann der
@@ -133,6 +139,7 @@ entsprechend für ehemalige ehrenamtliche Organmitglieder.
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000700000)
 
 (1) Der Stiftungsrat beaufsichtigt die Stiftung und entscheidet in
 allen Angelegenheiten, die für die Stiftung und ihre Entwicklung von
@@ -264,6 +271,7 @@ unmittelbare Bundesverwaltung geltenden Bestimmungen.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000800000)
 
 (1) Der Vorstand führt die Beschlüsse des Stiftungsrats aus und führt
 die laufenden Geschäfte der Stiftung. Er vertritt die Stiftung
@@ -292,6 +300,7 @@ Vorstandsmitglied ist zuvor Gelegenheit zur Stellungnahme zu geben.
 
 
 ## § 8 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE000900000)
 
 (1) Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit
 einer Mehrheit von zwei Dritteln der Stimmen beschlossen wird.
@@ -302,6 +311,7 @@ dieses Gesetzes sind, mit einer Mehrheit von zwei Dritteln der Stimmen
 
 
 ## § 9 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE001000000)
 
 Auf die Arbeitsverhältnisse der Arbeitnehmerinnen und Arbeitnehmer der
 Stiftung sind die für Arbeitnehmerinnen und Arbeitnehmer des Bundes
@@ -309,6 +319,7 @@ jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 
 ## § 10 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE001100000)
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung gelten die für die Bundesverwaltung
@@ -325,18 +336,21 @@ der Prüfung durch den Bundesrechnungshof.
 
 
 ## § 11 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE001200000)
 
 Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend.
 
 
 ## § 12 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE001300000)
 
 Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der
 Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.
 
 
 ## § 13 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE001400000)
 
 Die Bundesregierung berichtet dem Deutschen Bundestag innerhalb von
 fünf Jahren nach Inkrafttreten dieses Gesetzes über die durch das
@@ -352,6 +366,7 @@ Lösungen durch die Arbeit der Stiftung aufzeigen.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehrenamtstiftg/BJNR071200020.html#BJNR071200020BJNE001500000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

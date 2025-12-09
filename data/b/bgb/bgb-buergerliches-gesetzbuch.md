@@ -101,33 +101,40 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 
 ## Buch 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000102377)
 
 
 
 ### Abschnitt 1 - Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000202377)
 
 
 
 #### Titel 1 - Natürliche Personen, Verbraucher, Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000302377)
 
 
 
 ##### § 1 Beginn der Rechtsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000102377)
 
 Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der
 Geburt.
 
 
 ##### § 2 Eintritt der Volljährigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000202377)
 
 Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.
 
 
 ##### (XXXX) §§ 3 bis 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000301377)
 
 
 
 ##### § 7 Wohnsitz; Begründung und Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000502377)
 
 (1) Wer sich an einem Orte ständig niederlässt, begründet an diesem
 Orte seinen Wohnsitz.
@@ -139,6 +146,7 @@ Willen aufgehoben wird, sie aufzugeben.
 
 
 ##### § 8 Wohnsitz nicht voll Geschäftsfähiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000603123)
 
 Wer geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist,
 kann ohne den Willen seines gesetzlichen Vertreters einen Wohnsitz
@@ -146,6 +154,7 @@ weder begründen noch aufheben.
 
 
 ##### § 9 Wohnsitz eines Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000702377)
 
 (1) Ein Soldat hat seinen Wohnsitz am Standort. Als Wohnsitz eines
 Soldaten, der im Inland keinen Standort hat, gilt der letzte
@@ -157,10 +166,12 @@ selbständig einen Wohnsitz begründen können.
 
 
 ##### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000801377)
 
 
 
 ##### § 11 Wohnsitz des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE000902377)
 
 Ein minderjähriges Kind teilt den Wohnsitz der Eltern; es teilt nicht
 den Wohnsitz eines Elternteils, dem das Recht fehlt, für die Person
@@ -171,6 +182,7 @@ bis es ihn rechtsgültig aufhebt.
 
 
 ##### § 12 Namensrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001002377)
 
 Wird das Recht zum Gebrauch eines Namens dem Berechtigten von einem
 anderen bestritten oder wird das Interesse des Berechtigten dadurch
@@ -181,6 +193,7 @@ Unterlassung klagen.
 
 
 ##### § 13 Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE244602360)
 
 Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu
 Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch
@@ -188,6 +201,7 @@ ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.
 
 
 ##### § 14 Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE244701377)
 
 [^BJNR001950896BJNE244701377]
 
@@ -205,22 +219,27 @@ zu erwerben und Verbindlichkeiten einzugehen.
 
 
 ##### (XXXX) §§ 15 bis 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001102377)
 
 
 
 #### Titel 2 - Juristische Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000402377)
 
 
 
 ##### Untertitel 1 - Vereine
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000502377)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000602377)
 
 
 
 ###### § 21 Nicht wirtschaftlicher Verein
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001202377)
 
 Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen
 Geschäftsbetrieb gerichtet ist, erlangt Rechtsfähigkeit durch
@@ -228,6 +247,7 @@ Eintragung in das Vereinsregister des zuständigen Amtsgerichts.
 
 
 ###### § 22 Wirtschaftlicher Verein
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001303140)
 
 Ein Verein, dessen Zweck auf einen wirtschaftlichen Geschäftsbetrieb
 gerichtet ist, erlangt in Ermangelung besonderer bundesgesetzlicher
@@ -237,17 +257,20 @@ hat.
 
 
 ###### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001403140)
 
 -
 
 
 ###### § 24 Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001502377)
 
 Als Sitz eines Vereins gilt, wenn nicht ein anderes bestimmt ist, der
 Ort, an welchem die Verwaltung geführt wird.
 
 
 ###### § 25 Verfassung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001602377)
 
 Die Verfassung eines rechtsfähigen Vereins wird, soweit sie nicht auf
 den nachfolgenden Vorschriften beruht, durch die Vereinssatzung
@@ -255,6 +278,7 @@ bestimmt.
 
 
 ###### § 26 Vorstand und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001703140)
 
 (1) Der Verein muss einen Vorstand haben. Der Vorstand vertritt den
 Verein gerichtlich und außergerichtlich; er hat die Stellung eines
@@ -268,6 +292,7 @@ Abgabe gegenüber einem Mitglied des Vorstands.
 
 
 ###### § 27 Bestellung und Geschäftsführung des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001803308)
 
 (1) Die Bestellung des Vorstands erfolgt durch Beschluss der
 Mitgliederversammlung.
@@ -285,6 +310,7 @@ Mitglieder des Vorstands sind unentgeltlich tätig.
 
 
 ###### § 28 Beschlussfassung des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE001903140)
 
 Bei einem Vorstand, der aus mehreren Personen besteht, erfolgt die
 Beschlussfassung nach den für die Beschlüsse der Mitglieder des
@@ -292,6 +318,7 @@ Vereins geltenden Vorschriften der §§ 32 und 34.
 
 
 ###### § 29 Notbestellung durch Amtsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002002377)
 
 Soweit die erforderlichen Mitglieder des Vorstands fehlen, sind sie in
 dringenden Fällen für die Zeit bis zur Behebung des Mangels auf Antrag
@@ -300,6 +327,7 @@ Bezirk, in dem der Verein seinen Sitz hat, das Vereinsregister führt.
 
 
 ###### § 30 Besondere Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002102377)
 
 Durch die Satzung kann bestimmt werden, dass neben dem Vorstand für
 gewisse Geschäfte besondere Vertreter zu bestellen sind. Die
@@ -309,6 +337,7 @@ gewöhnlich mit sich bringt.
 
 
 ###### § 31 Haftung des Vereins für Organe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002202377)
 
 Der Verein ist für den Schaden verantwortlich, den der Vorstand, ein
 Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener
@@ -318,6 +347,7 @@ zufügt.
 
 
 ###### § 31a Haftung von Organmitgliedern und besonderen Vertretern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE270402360)
 
 (1) Sind Organmitglieder oder besondere Vertreter unentgeltlich tätig
 oder erhalten sie für ihre Tätigkeit eine Vergütung, die 840 Euro
@@ -338,6 +368,7 @@ wurde.
 
 
 ###### § 31b Haftung von Vereinsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272901360)
 
 (1) Sind Vereinsmitglieder unentgeltlich für den Verein tätig oder
 erhalten sie für ihre Tätigkeit eine Vergütung, die 840 Euro jährlich
@@ -355,6 +386,7 @@ vorsätzlich oder grob fahrlässig verursacht haben.
 
 
 ###### § 32 Mitgliederversammlung; Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002305125)
 
 (1) Die Angelegenheiten des Vereins werden, soweit sie nicht von dem
 Vorstand oder einem anderen Vereinsorgan zu besorgen sind, durch
@@ -381,6 +413,7 @@ erklären.
 
 
 ###### § 33 Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002404125)
 
 (1) Zu einem Beschluss, der eine Änderung der Satzung enthält, ist
 eine Mehrheit von drei Vierteln der abgegebenen Stimmen erforderlich.
@@ -394,6 +427,7 @@ erforderlich.
 
 
 ###### § 34 Ausschluss vom Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002502377)
 
 Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die
 Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder
@@ -401,12 +435,14 @@ Erledigung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
 
 
 ###### § 35 Sonderrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002602377)
 
 Sonderrechte eines Mitglieds können nicht ohne dessen Zustimmung durch
 Beschluss der Mitgliederversammlung beeinträchtigt werden.
 
 
 ###### § 36 Berufung der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002702377)
 
 Die Mitgliederversammlung ist in den durch die Satzung bestimmten
 Fällen sowie dann zu berufen, wenn das Interesse des Vereins es
@@ -414,6 +450,7 @@ erfordert.
 
 
 ###### § 37 Berufung auf Verlangen einer Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002802377)
 
 (1) Die Mitgliederversammlung ist zu berufen, wenn der durch die
 Satzung bestimmte Teil oder in Ermangelung einer Bestimmung der zehnte
@@ -430,6 +467,7 @@ Versammlung Bezug genommen werden.
 
 
 ###### § 38 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE002902377)
 
 Die Mitgliedschaft ist nicht übertragbar und nicht vererblich. Die
 Ausübung der Mitgliedschaftsrechte kann nicht einem anderen überlassen
@@ -437,6 +475,7 @@ werden.
 
 
 ###### § 39 Austritt aus dem Verein
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003002377)
 
 (1) Die Mitglieder sind zum Austritt aus dem Verein berechtigt.
 
@@ -447,6 +486,7 @@ Jahre betragen.
 
 
 ###### § 40 Nachgiebige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003104140)
 
 Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3,
 der §§ 28, 31a Abs. 1 Satz 2 sowie der §§ 32, 33 und 38 finden
@@ -456,6 +496,7 @@ nicht abgewichen werden.
 
 
 ###### § 41 Auflösung des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003203140)
 
 Der Verein kann durch Beschluss der Mitgliederversammlung aufgelöst
 werden. Zu dem Beschluss ist eine Mehrheit von drei Vierteln der
@@ -464,6 +505,7 @@ bestimmt.
 
 
 ###### § 42 Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003304140)
 
 (1) Der Verein wird durch die Eröffnung des Insolvenzverfahrens und
 mit Rechtskraft des Beschlusses, durch den die Eröffnung des
@@ -486,6 +528,7 @@ haften als Gesamtschuldner.
 
 
 ###### § 43 Entziehung der Rechtsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003403140)
 
 Einem Verein, dessen Rechtsfähigkeit auf Verleihung beruht, kann die
 Rechtsfähigkeit entzogen werden, wenn er einen anderen als den in der
@@ -493,6 +536,7 @@ Satzung bestimmten Zweck verfolgt.
 
 
 ###### § 44 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003503140)
 
 Die Zuständigkeit und das Verfahren für die Entziehung der
 Rechtsfähigkeit nach § 43 bestimmen sich nach dem Recht des Landes, in
@@ -500,6 +544,7 @@ dem der Verein seinen Sitz hat.
 
 
 ###### § 45 Anfall des Vereinsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003603140)
 
 (1) Mit der Auflösung des Vereins oder der Entziehung der
 Rechtsfähigkeit fällt das Vermögen an die in der Satzung bestimmten
@@ -521,6 +566,7 @@ Gebiet der Verein seinen Sitz hatte.
 
 
 ###### § 46 Anfall an den Fiskus
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003702377)
 
 Fällt das Vereinsvermögen an den Fiskus, so finden die Vorschriften
 über eine dem Fiskus als gesetzlichem Erben anfallende Erbschaft
@@ -529,6 +575,7 @@ einer den Zwecken des Vereins entsprechenden Weise zu verwenden.
 
 
 ###### § 47 Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003803377)
 
 Fällt das Vereinsvermögen nicht an den Fiskus, so muss eine
 Liquidation stattfinden, sofern nicht über das Vermögen des Vereins
@@ -536,6 +583,7 @@ das Insolvenzverfahren eröffnet ist.
 
 
 ###### § 48 Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE003903140)
 
 (1) Die Liquidation erfolgt durch den Vorstand. Zu Liquidatoren können
 auch andere Personen bestellt werden; für die Bestellung sind die für
@@ -550,6 +598,7 @@ einstimmig fassen, sofern nicht ein anderes bestimmt ist.
 
 
 ###### § 49 Aufgaben der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004002377)
 
 (1) Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die
 Forderungen einzuziehen, das übrige Vermögen in Geld umzusetzen, die
@@ -566,6 +615,7 @@ fortbestehend, soweit der Zweck der Liquidation es erfordert.
 
 
 ###### § 50 Bekanntmachung des Vereins in Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004103377)
 
 (1) Die Auflösung des Vereins oder die Entziehung der Rechtsfähigkeit
 ist durch die Liquidatoren öffentlich bekannt zu machen. In der
@@ -580,6 +630,7 @@ aufzufordern.
 
 
 ###### § 50a Bekanntmachungsblatt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263700377)
 
 Hat ein Verein in der Satzung kein Blatt für Bekanntmachungen bestimmt
 oder hat das bestimmte Bekanntmachungsblatt sein Erscheinen
@@ -589,6 +640,7 @@ bestimmt ist, in dessen Bezirk der Verein seinen Sitz hat.
 
 
 ###### § 51 Sperrjahr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004202377)
 
 Das Vermögen darf den Anfallberechtigten nicht vor dem Ablauf eines
 Jahres nach der Bekanntmachung der Auflösung des Vereins oder der
@@ -596,6 +648,7 @@ Entziehung der Rechtsfähigkeit ausgeantwortet werden.
 
 
 ###### § 52 Sicherung für Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004302377)
 
 (1) Meldet sich ein bekannter Gläubiger nicht, so ist der geschuldete
 Betrag, wenn die Berechtigung zur Hinterlegung vorhanden ist, für den
@@ -608,6 +661,7 @@ Gläubiger Sicherheit geleistet ist.
 
 
 ###### § 53 Schadensersatzpflicht der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004403377)
 
 Liquidatoren, welche die ihnen nach dem § 42 Abs. 2 und den §§ 50, 51
 und 52 obliegenden Verpflichtungen verletzen oder vor der Befriedigung
@@ -617,6 +671,7 @@ entstehenden Schaden verantwortlich; sie haften als Gesamtschuldner.
 
 
 ###### § 54 Vereine ohne Rechtspersönlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004503360)
 
 (1) Für Vereine, deren Zweck nicht auf einen wirtschaftlichen
 Geschäftsbetrieb gerichtet ist und die nicht durch Eintragung in das
@@ -634,10 +689,12 @@ Gesamtschuldner.
 
 
 ###### Kapitel 2 - Eingetragene Vereine
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000702377)
 
 
 
 ###### § 55 Zuständigkeit für die Registereintragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004604140)
 
 Die Eintragung eines Vereins der in § 21 bezeichneten Art in das
 Vereinsregister hat bei dem Amtsgericht zu geschehen, in dessen Bezirk
@@ -645,6 +702,7 @@ der Verein seinen Sitz hat.
 
 
 ###### § 55a Elektronisches Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE238405360)
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen,
 dass und in welchem Umfang das Vereinsregister in maschineller Form
@@ -687,12 +745,14 @@ Eintragung soll den Tag angeben, an dem sie wirksam geworden ist.
 
 
 ###### § 56 Mindestmitgliederzahl des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004702377)
 
 Die Eintragung soll nur erfolgen, wenn die Zahl der Mitglieder
 mindestens sieben beträgt.
 
 
 ###### § 57 Mindesterfordernisse an die Vereinssatzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004802377)
 
 (1) Die Satzung muss den Zweck, den Namen und den Sitz des Vereins
 enthalten und ergeben, dass der Verein eingetragen werden soll.
@@ -703,6 +763,7 @@ unterscheiden.
 
 
 ###### § 58 Sollinhalt der Vereinssatzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE004902377)
 
 Die Satzung soll Bestimmungen enthalten:
 
@@ -724,6 +785,7 @@ Die Satzung soll Bestimmungen enthalten:
 
 
 ###### § 59 Anmeldung zur Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005003140)
 
 (1) Der Vorstand hat den Verein zur Eintragung anzumelden.
 
@@ -735,6 +797,7 @@ sein und die Angabe des Tages der Errichtung enthalten.
 
 
 ###### § 60 Zurückweisung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005103140)
 
 Die Anmeldung ist, wenn den Erfordernissen der §§ 56 bis 59 nicht
 genügt ist, von dem Amtsgericht unter Angabe der Gründe
@@ -742,10 +805,12 @@ zurückzuweisen.
 
 
 ###### (XXXX) §§ 61 bis 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005202377)
 
 
 
 ###### § 64 Inhalt der Vereinsregistereintragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005504377)
 
 Bei der Eintragung sind der Name und der Sitz des Vereins, der Tag der
 Errichtung der Satzung, die Mitglieder des Vorstands und ihre
@@ -753,18 +818,21 @@ Vertretungsmacht anzugeben.
 
 
 ###### § 65 Namenszusatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005602377)
 
 Mit der Eintragung erhält der Name des Vereins den Zusatz
 "eingetragener Verein".
 
 
 ###### § 66 Aufbewahrung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005704360)
 
 Die mit einer Anmeldung eingereichten Dokumente werden vom Amtsgericht
 aufbewahrt.
 
 
 ###### § 67 Änderung des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005802377)
 
 (1) Jede Änderung des Vorstands ist von dem Vorstand zur Eintragung
 anzumelden. Der Anmeldung ist eine Abschrift der Urkunde über die
@@ -775,6 +843,7 @@ von Amts wegen.
 
 
 ###### § 68 Vertrauensschutz durch Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE005902377)
 
 Wird zwischen den bisherigen Mitgliedern des Vorstands und einem
 Dritten ein Rechtsgeschäft vorgenommen, so kann die Änderung des
@@ -786,6 +855,7 @@ seine Unkenntnis auch nicht auf Fahrlässigkeit beruht.
 
 
 ###### § 69 Nachweis des Vereinsvorstands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006002377)
 
 Der Nachweis, dass der Vorstand aus den im Register eingetragenen
 Personen besteht, wird Behörden gegenüber durch ein Zeugnis des
@@ -793,6 +863,7 @@ Amtsgerichts über die Eintragung geführt.
 
 
 ###### § 70 Vertrauensschutz bei Eintragungen zur Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006103140)
 
 Die Vorschriften des § 68 gelten auch für Bestimmungen, die den Umfang
 der Vertretungsmacht des Vorstands beschränken oder die
@@ -801,6 +872,7 @@ Absatz 2 Satz 1 regeln.
 
 
 ###### § 71 Änderungen der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006205360)
 
 (1) Änderungen der Satzung bedürfen zu ihrer Wirksamkeit der
 Eintragung in das Vereinsregister. Die Änderung ist von dem Vorstand
@@ -818,6 +890,7 @@ Anwendung.
 
 
 ###### § 72 Bescheinigung der Mitgliederzahl
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006303140)
 
 Der Vorstand hat dem Amtsgericht auf dessen Verlangen jederzeit eine
 schriftliche Bescheinigung über die Zahl der Vereinsmitglieder
@@ -825,6 +898,7 @@ einzureichen.
 
 
 ###### § 73 Unterschreiten der Mindestmitgliederzahl
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006403140)
 
 Sinkt die Zahl der Vereinsmitglieder unter drei herab, so hat das
 Amtsgericht auf Antrag des Vorstands und, wenn der Antrag nicht binnen
@@ -833,6 +907,7 @@ dem Verein die Rechtsfähigkeit zu entziehen.
 
 
 ###### § 74 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006504140)
 
 (1) Die Auflösung des Vereins sowie die Entziehung der Rechtsfähigkeit
 ist in das Vereinsregister einzutragen.
@@ -847,6 +922,7 @@ Auflösungsbeschlusses beizufügen.
 
 
 ###### § 75 Eintragungen bei Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006605140)
 
 (1) Die Eröffnung des Insolvenzverfahrens und der Beschluss, durch den
 die Eröffnung des Insolvenzverfahrens mangels Masse rechtskräftig
@@ -885,6 +961,7 @@ Beschlusses beizufügen.
 
 
 ###### § 76 Eintragungen bei Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006705140)
 
 (1) Bei der Liquidation des Vereins sind die Liquidatoren und ihre
 Vertretungsmacht in das Vereinsregister einzutragen. Das Gleiche gilt
@@ -905,6 +982,7 @@ Amts wegen.
 
 
 ###### § 77 Anmeldepflichtige und Form der Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006804360)
 
 (1) Die Anmeldungen zum Vereinsregister sind von Mitgliedern des
 Vorstands sowie von den Liquidatoren, die insoweit zur Vertretung des
@@ -917,6 +995,7 @@ beglaubigter Abschrift beim Gericht eingereicht werden.
 
 
 ###### § 78 Festsetzung von Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE006903140)
 
 (1) Das Amtsgericht kann die Mitglieder des Vorstands zur Befolgung
 der Vorschriften des § 67 Abs. 1, des § 71 Abs. 1, des § 72, des § 74
@@ -928,6 +1007,7 @@ Vorschriften des § 76 angehalten werden.
 
 
 ###### § 79 Einsicht in das Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007007140)
 
 (1) Die Einsicht des Vereinsregisters sowie der von dem Verein bei dem
 Amtsgericht eingereichten Dokumente ist jedem gestattet. Von den
@@ -976,6 +1056,7 @@ Stelle eines anderen Landes vereinbaren.
 
 
 ###### § 79a Anwendung der Verordnung (EU) 2016/679 im Registerverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280500360)
 
 (1) Die Rechte nach Artikel 15 der Verordnung (EU) 2016/679 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
@@ -1005,10 +1086,12 @@ Registerakten gespeichert sind, nicht anzuwenden.
 
 
 ##### Untertitel 2 - Rechtsfähige Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000803360)
 
 
 
 ###### § 80 Ausgestaltung und Entstehung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007105360)
 
 (1) Die Stiftung ist eine mit einem Vermögen zur dauernden und
 nachhaltigen Erfüllung eines vom Stifter vorgegebenen Zwecks
@@ -1025,6 +1108,7 @@ Zuwendungen des Stifters als schon vor dessen Tod entstanden.
 
 
 ###### § 81 Stiftungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007205360)
 
 (1) Im Stiftungsgeschäft muss der Stifter
 
@@ -1084,6 +1168,7 @@ Sitz am letzten Wohnsitz des Stifters im Inland sein soll.
 
 
 ###### § 81a Widerruf des Stiftungsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286600360)
 
 Bis zur Anerkennung der Stiftung ist der Stifter zum Widerruf des
 Stiftungsgeschäfts berechtigt. Ist die Anerkennung bei der zuständigen
@@ -1096,6 +1181,7 @@ Stiftungsgeschäfts den Notar mit der Antragstellung betraut hat.
 
 
 ###### § 82 Anerkennung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007304360)
 
 Die Stiftung ist anzuerkennen, wenn das Stiftungsgeschäft den
 Anforderungen des § 81 Absatz 1 bis 3 genügt und die dauernde und
@@ -1107,6 +1193,7 @@ bestimmte Zeit mindestens zehn Jahre umfasst.
 
 
 ###### § 82a Übertragung und Übergang des gewidmeten Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286700360)
 
 Ist die Stiftung anerkannt, so ist der Stifter verpflichtet, das
 gewidmete Vermögen auf die Stiftung zu übertragen. Rechte, zu deren
@@ -1116,6 +1203,7 @@ Wille des Stifters ergibt.
 
 
 ###### § 83 Stiftungsverfassung und Stifterwille
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007404360)
 
 (1) Die Verfassung der Stiftung wird, soweit sie nicht auf Bundes-
 oder Landesgesetz beruht, durch das Stiftungsgeschäft und insbesondere
@@ -1128,11 +1216,13 @@ hilfsweise den mutmaßlichen Willen des Stifters zu beachten.
 
 
 ###### § 83a Verwaltungssitz der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286800360)
 
 Die Verwaltung der Stiftung ist im Inland zu führen.
 
 
 ###### § 83b Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286900360)
 
 (1) Bei einer Stiftung, die auf unbestimmte Zeit errichtet wurde,
 besteht das Stiftungsvermögen aus dem Grundstockvermögen und ihrem
@@ -1165,6 +1255,7 @@ erfüllt werden.
 
 
 ###### § 83c Verwaltung des Grundstockvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287000360)
 
 (1) Das Grundstockvermögen ist ungeschmälert zu erhalten. Der
 Stiftungszweck ist mit den Nutzungen des Grundstockvermögens zu
@@ -1188,6 +1279,7 @@ beeinträchtigt wird.
 
 
 ###### § 84 Stiftungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007504360)
 
 (1) Die Stiftung muss einen Vorstand haben. Der Vorstand führt die
 Geschäfte der Stiftung.
@@ -1212,6 +1304,7 @@ enthalten sein.
 
 
 ###### § 84a Rechte und Pflichten der Organmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287100360)
 
 (1) Auf die Tätigkeit eines Organmitglieds für die Stiftung sind die
 §§ 664 bis 670 entsprechend anzuwenden. Organmitglieder sind
@@ -1232,6 +1325,7 @@ Anwendbarkeit des § 31a beschränkt oder ausgeschlossen werden.
 
 
 ###### § 84b Beschlussfassung der Organe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287200360)
 
 Besteht ein Organ aus mehreren Mitgliedern, erfolgt die
 Beschlussfassung entsprechend § 32, wenn in der Satzung nichts
@@ -1242,6 +1336,7 @@ Rechtsstreits zwischen ihm und der Stiftung betrifft.
 
 
 ###### § 84c Notmaßnahmen bei fehlenden Organmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287300360)
 
 (1) Wenn der Vorstand oder ein anderes Organ der Stiftung seine
 Aufgaben nicht wahrnehmen kann, weil Mitglieder des Organs fehlen, hat
@@ -1263,6 +1358,7 @@ oder aufheben.
 
 
 ###### § 85 Voraussetzungen für Satzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007604360)
 
 (1) Durch Satzungsänderung kann der Stiftung ein anderer Zweck gegeben
 oder der Zweck der Stiftung kann erheblich beschränkt werden, wenn
@@ -1310,6 +1406,7 @@ nach Satz 2 sind nur wirksam, wenn der Stifter Inhalt und Ausmaß der
 
 
 ###### § 85a Verfahren bei Satzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287400360)
 
 (1) Die Satzung kann durch den Vorstand oder ein anderes durch die
 Satzung dazu bestimmtes Stiftungsorgan geändert werden. Die
@@ -1328,6 +1425,7 @@ Zuständigkeitsbereich der neue Sitz begründet werden soll.
 
 
 ###### § 86 Voraussetzungen für die Zulegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007706360)
 
 Durch Übertragung ihres Stiftungsvermögens als Ganzes kann die
 übertragende Stiftung einer übernehmenden Stiftung zugelegt werden,
@@ -1359,6 +1457,7 @@ wenn
 
 
 ###### § 86a Voraussetzungen für die Zusammenlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287500360)
 
 Mindestens zwei übertragende Stiftungen können durch Errichtung einer
 neuen Stiftung und Übertragung ihres jeweiligen Stiftungsvermögens als
@@ -1386,6 +1485,7 @@ Ganzes auf die neue übernehmende Stiftung zusammengelegt werden, wenn
 
 
 ###### § 86b Verfahren der Zulegung und der Zusammenlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287600360)
 
 (1) Stiftungen können durch Vertrag zugelegt oder zusammengelegt
 werden. Der Zulegungsvertrag oder der Zusammenlegungsvertrag bedarf
@@ -1406,6 +1506,7 @@ zuständigen Behörden.
 
 
 ###### § 86c Zulegungsvertrag und Zusammenlegungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287700360)
 
 (1) Ein Zulegungsvertrag muss mindestens enthalten:
 
@@ -1438,6 +1539,7 @@ zuzuleiten, in deren Satzung die Ansprüche begründet sind.
 
 
 ###### § 86d Form des Zulegungsvertrags und des Zusammenlegungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287800360)
 
 Zulegungsverträge und Zusammenlegungsverträge bedürfen nur der
 schriftlichen Form, insbesondere § 311b Absatz 1 bis 3 ist nicht
@@ -1445,6 +1547,7 @@ anzuwenden.
 
 
 ###### § 86e Behördliche Zulegungsentscheidung und Zusammenlegungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE287900360)
 
 (1) Auf den Inhalt der Entscheidungen über die Zulegung oder
 Zusammenlegung von Stiftungen durch die nach Landesrecht zuständige
@@ -1458,6 +1561,7 @@ hinzuweisen.
 
 
 ###### § 86f Wirkungen der Zulegung und der Zusammenlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE288000360)
 
 (1) Mit der Unanfechtbarkeit der Genehmigung des Zulegungsvertrags
 oder der Unanfechtbarkeit der Entscheidung über die Zulegung durch die
@@ -1476,6 +1580,7 @@ lassen die Wirkungen der behördlichen Genehmigung unberührt.
 
 
 ###### § 86g Bekanntmachung der Zulegung und der Zusammenlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE288100360)
 
 Die übernehmende Stiftung hat die Zulegung oder die Zusammenlegung
 innerhalb eines Monats nach dem Zeitpunkt, zu dem die Wirkungen der
@@ -1488,6 +1593,7 @@ nach der Veröffentlichung im Bundesanzeiger als bewirkt.
 
 
 ###### § 86h Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE288200360)
 
 Die übernehmende Stiftung hat einem Gläubiger nach § 86g Satz 2 für
 einen Anspruch, der vor dem Zeitpunkt entstanden ist, zu dem die
@@ -1508,6 +1614,7 @@ werden kann, Sicherheit zu leisten, wenn der Gläubiger
 
 
 ###### § 87 Auflösung der Stiftung durch die Stiftungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007804360)
 
 (1) Der Vorstand soll die Stiftung auflösen, wenn die Stiftung ihren
 Zweck endgültig nicht mehr dauernd und nachhaltig erfüllen kann. Die
@@ -1525,6 +1632,7 @@ Landesrecht zuständigen Behörde.
 
 
 ###### § 87a Aufhebung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE288300360)
 
 (1) Die nach Landesrecht zuständige Behörde soll eine Stiftung
 aufheben, wenn die Voraussetzungen des § 87 Absatz 1 Satz 1 vorliegen
@@ -1552,6 +1660,7 @@ aufzuheben, wenn
 
 
 ###### § 87b Auflösung der Stiftung bei Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE288400360)
 
 Die Stiftung wird durch die Eröffnung des Insolvenzverfahrens und mit
 der Rechtskraft des Beschlusses, durch den die Eröffnung des
@@ -1559,6 +1668,7 @@ Insolvenzverfahrens mangels Masse abgewiesen worden ist, aufgelöst.
 
 
 ###### § 87c Vermögensanfall und Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE288500360)
 
 (1) Mit der Auflösung oder Aufhebung der Stiftung fällt das
 Stiftungsvermögen an die in der Satzung bestimmten Anfallberechtigten.
@@ -1578,6 +1688,7 @@ das Stiftungsvermögen bei anderen Anfallberechtigten an, sind die
 
 
 ###### § 88 Kirchliche Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE007904360)
 
 Die Vorschriften der Landesgesetze über die kirchlichen Stiftungen
 bleiben unberührt, insbesondere die Vorschriften zur Beteiligung,
@@ -1587,10 +1698,12 @@ Stiftungen gleichgestellt sind.
 
 
 ##### Untertitel 3 - Juristische Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG000902377)
 
 
 
 ###### § 89 Haftung für Organe; Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008003377)
 
 (1) Die Vorschrift des § 31 findet auf den Fiskus sowie auf die
 Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts
@@ -1602,15 +1715,18 @@ von der Vorschrift des § 42 Abs. 2.
 
 
 ### Abschnitt 2 - Sachen und Tiere
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001003377)
 
 
 
 #### § 90 Begriff der Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008102377)
 
 Sachen im Sinne des Gesetzes sind nur körperliche Gegenstände.
 
 
 #### § 90a Tiere
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236602377)
 
 Tiere sind keine Sachen. Sie werden durch besondere Gesetze geschützt.
 Auf sie sind die für Sachen geltenden Vorschriften entsprechend
@@ -1618,12 +1734,14 @@ anzuwenden, soweit nicht etwas anderes bestimmt ist.
 
 
 #### § 91 Vertretbare Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008202377)
 
 Vertretbare Sachen im Sinne des Gesetzes sind bewegliche Sachen, die
 im Verkehr nach Zahl, Maß oder Gewicht bestimmt zu werden pflegen.
 
 
 #### § 92 Verbrauchbare Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008302377)
 
 (1) Verbrauchbare Sachen im Sinne des Gesetzes sind bewegliche Sachen,
 deren bestimmungsmäßiger Gebrauch in dem Verbrauch oder in der
@@ -1636,6 +1754,7 @@ besteht.
 
 
 #### § 93 Wesentliche Bestandteile einer Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008402377)
 
 Bestandteile einer Sache, die voneinander nicht getrennt werden
 können, ohne dass der eine oder der andere zerstört oder in seinem
@@ -1644,6 +1763,7 @@ Gegenstand besonderer Rechte sein.
 
 
 #### § 94 Wesentliche Bestandteile eines Grundstücks oder Gebäudes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008502377)
 
 (1) Zu den wesentlichen Bestandteilen eines Grundstücks gehören die
 mit dem Grund und Boden fest verbundenen Sachen, insbesondere Gebäude,
@@ -1656,6 +1776,7 @@ Herstellung des Gebäudes eingefügten Sachen.
 
 
 #### § 95 Nur vorübergehender Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008602377)
 
 (1) Zu den Bestandteilen eines Grundstücks gehören solche Sachen
 nicht, die nur zu einem vorübergehenden Zweck mit dem Grund und Boden
@@ -1668,12 +1789,14 @@ eingefügt sind, gehören nicht zu den Bestandteilen des Gebäudes.
 
 
 #### § 96 Rechte als Bestandteile eines Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008702377)
 
 Rechte, die mit dem Eigentum an einem Grundstück verbunden sind,
 gelten als Bestandteile des Grundstücks.
 
 
 #### § 97 Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008802377)
 
 (1) Zubehör sind bewegliche Sachen, die, ohne Bestandteile der
 Hauptsache zu sein, dem wirtschaftlichen Zwecke der Hauptsache zu
@@ -1688,6 +1811,7 @@ die Zubehöreigenschaft nicht auf.
 
 
 #### § 98 Gewerbliches und landwirtschaftliches Inventar
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE008902377)
 
 Dem wirtschaftlichen Zwecke der Hauptsache sind zu dienen bestimmt:
 
@@ -1708,6 +1832,7 @@ Dem wirtschaftlichen Zwecke der Hauptsache sind zu dienen bestimmt:
 
 
 #### § 99 Früchte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009002377)
 
 (1) Früchte einer Sache sind die Erzeugnisse der Sache und die
 sonstige Ausbeute, welche aus der Sache ihrer Bestimmung gemäß
@@ -1722,12 +1847,14 @@ vermöge eines Rechtsverhältnisses gewährt.
 
 
 #### § 100 Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009102377)
 
 Nutzungen sind die Früchte einer Sache oder eines Rechts sowie die
 Vorteile, welche der Gebrauch der Sache oder des Rechts gewährt.
 
 
 #### § 101 Verteilung der Früchte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009202377)
 
 Ist jemand berechtigt, die Früchte einer Sache oder eines Rechts bis
 zu einer bestimmten Zeit oder von einer bestimmten Zeit an zu
@@ -1750,6 +1877,7 @@ beziehen, so gebühren ihm, sofern nicht ein anderes bestimmt ist:
 
 
 #### § 102 Ersatz der Gewinnungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009302377)
 
 Wer zur Herausgabe von Früchten verpflichtet ist, kann Ersatz der auf
 die Gewinnung der Früchte verwendeten Kosten insoweit verlangen, als
@@ -1758,6 +1886,7 @@ Früchte nicht übersteigen.
 
 
 #### § 103 Verteilung der Lasten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009402377)
 
 Wer verpflichtet ist, die Lasten einer Sache oder eines Rechts bis zu
 einer bestimmten Zeit oder von einer bestimmten Zeit an zu tragen,
@@ -1768,14 +1897,17 @@ Dauer seiner Verpflichtung zu entrichten sind.
 
 
 ### Abschnitt 3 - Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001102377)
 
 
 
 #### Titel 1 - Geschäftsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001202377)
 
 
 
 ##### § 104 Geschäftsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009503377)
 
 Geschäftsunfähig ist:
 
@@ -1791,6 +1923,7 @@ Geschäftsunfähig ist:
 
 
 ##### § 105 Nichtigkeit der Willenserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009602377)
 
 (1) Die Willenserklärung eines Geschäftsunfähigen ist nichtig.
 
@@ -1800,6 +1933,7 @@ abgegeben wird.
 
 
 ##### § 105a Geschäfte des täglichen Lebens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263500377)
 
 Tätigt ein volljähriger Geschäftsunfähiger ein Geschäft des täglichen
 Lebens, das mit geringwertigen Mitteln bewirkt werden kann, so gilt
@@ -1810,12 +1944,14 @@ Gefahr für die Person oder das Vermögen des Geschäftsunfähigen.
 
 
 ##### § 106 Beschränkte Geschäftsfähigkeit Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009702377)
 
 Ein Minderjähriger, der das siebente Lebensjahr vollendet hat, ist
 nach Maßgabe der §§ 107 bis 113 in der Geschäftsfähigkeit beschränkt.
 
 
 ##### § 107 Einwilligung des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009802377)
 
 Der Minderjährige bedarf zu einer Willenserklärung, durch die er nicht
 lediglich einen rechtlichen Vorteil erlangt, der Einwilligung seines
@@ -1823,6 +1959,7 @@ gesetzlichen Vertreters.
 
 
 ##### § 108 Vertragsschluss ohne Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE009902377)
 
 (1) Schließt der Minderjährige einen Vertrag ohne die erforderliche
 Einwilligung des gesetzlichen Vertreters, so hängt die Wirksamkeit des
@@ -1841,6 +1978,7 @@ tritt seine Genehmigung an die Stelle der Genehmigung des Vertreters.
 
 
 ##### § 109 Widerrufsrecht des anderen Teils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010002377)
 
 (1) Bis zur Genehmigung des Vertrags ist der andere Teil zum Widerruf
 berechtigt. Der Widerruf kann auch dem Minderjährigen gegenüber
@@ -1854,6 +1992,7 @@ Abschluss des Vertrags bekannt war.
 
 
 ##### § 110 Bewirken der Leistung mit eigenen Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010102377)
 
 Ein von dem Minderjährigen ohne Zustimmung des gesetzlichen Vertreters
 geschlossener Vertrag gilt als von Anfang an wirksam, wenn der
@@ -1863,6 +2002,7 @@ dessen Zustimmung von einem Dritten überlassen worden sind.
 
 
 ##### § 111 Einseitige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010202377)
 
 Ein einseitiges Rechtsgeschäft, das der Minderjährige ohne die
 erforderliche Einwilligung des gesetzlichen Vertreters vornimmt, ist
@@ -1876,6 +2016,7 @@ Kenntnis gesetzt hatte.
 
 
 ##### § 112 Selbständiger Betrieb eines Erwerbsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010303140)
 
 (1) Ermächtigt der gesetzliche Vertreter mit Genehmigung des
 Familiengerichts den Minderjährigen zum selbständigen Betrieb eines
@@ -1889,6 +2030,7 @@ Familiengerichts zurückgenommen werden.
 
 
 ##### § 113 Dienst- oder Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010403140)
 
 (1) Ermächtigt der gesetzliche Vertreter den Minderjährigen, in Dienst
 oder in Arbeit zu treten, so ist der Minderjährige für solche
@@ -1913,14 +2055,17 @@ Art.
 
 
 ##### (XXXX) §§ 114 und 115 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010502377)
 
 
 
 #### Titel 2 - Willenserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001302377)
 
 
 
 ##### § 116 Geheimer Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010702377)
 
 Eine Willenserklärung ist nicht deshalb nichtig, weil sich der
 Erklärende insgeheim vorbehält, das Erklärte nicht zu wollen. Die
@@ -1929,6 +2074,7 @@ und dieser den Vorbehalt kennt.
 
 
 ##### § 117 Scheingeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010802377)
 
 (1) Wird eine Willenserklärung, die einem anderen gegenüber abzugeben
 ist, mit dessen Einverständnis nur zum Schein abgegeben, so ist sie
@@ -1940,6 +2086,7 @@ Anwendung.
 
 
 ##### § 118 Mangel der Ernstlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE010902377)
 
 Eine nicht ernstlich gemeinte Willenserklärung, die in der Erwartung
 abgegeben wird, der Mangel der Ernstlichkeit werde nicht verkannt
@@ -1947,6 +2094,7 @@ werden, ist nichtig.
 
 
 ##### § 119 Anfechtbarkeit wegen Irrtums
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011002377)
 
 (1) Wer bei der Abgabe einer Willenserklärung über deren Inhalt im
 Irrtum war oder eine Erklärung dieses Inhalts überhaupt nicht abgeben
@@ -1960,6 +2108,7 @@ wesentlich angesehen werden.
 
 
 ##### § 120 Anfechtbarkeit wegen falscher Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011103377)
 
 Eine Willenserklärung, welche durch die zur Übermittlung verwendete
 Person oder Einrichtung unrichtig übermittelt worden ist, kann unter
@@ -1968,6 +2117,7 @@ irrtümlich abgegebene Willenserklärung.
 
 
 ##### § 121 Anfechtungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011202377)
 
 (1) Die Anfechtung muss in den Fällen der §§ 119, 120 ohne
 schuldhaftes Zögern (unverzüglich) erfolgen, nachdem der
@@ -1981,6 +2131,7 @@ Willenserklärung zehn Jahre verstrichen sind.
 
 
 ##### § 122 Schadensersatzpflicht des Anfechtenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011302377)
 
 (1) Ist eine Willenserklärung nach § 118 nichtig oder auf Grund der §§
 119, 120 angefochten, so hat der Erklärende, wenn die Erklärung einem
@@ -1996,6 +2147,7 @@ von Fahrlässigkeit nicht kannte (kennen musste).
 
 
 ##### § 123 Anfechtbarkeit wegen Täuschung oder Drohung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011402377)
 
 (1) Wer zur Abgabe einer Willenserklärung durch arglistige Täuschung
 oder widerrechtlich durch Drohung bestimmt worden ist, kann die
@@ -2010,6 +2162,7 @@ gegenüber anfechtbar, wenn er die Täuschung kannte oder kennen musste.
 
 
 ##### § 124 Anfechtungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011502377)
 
 (1) Die Anfechtung einer nach § 123 anfechtbaren Willenserklärung kann
 nur binnen Jahresfrist erfolgen.
@@ -2026,6 +2179,7 @@ Willenserklärung zehn Jahre verstrichen sind.
 
 
 ##### § 125 Nichtigkeit wegen Formmangels
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011602377)
 
 Ein Rechtsgeschäft, welches der durch Gesetz vorgeschriebenen Form
 ermangelt, ist nichtig. Der Mangel der durch Rechtsgeschäft bestimmten
@@ -2033,6 +2187,7 @@ Form hat im Zweifel gleichfalls Nichtigkeit zur Folge.
 
 
 ##### § 126 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011703377)
 
 (1) Ist durch Gesetz schriftliche Form vorgeschrieben, so muss die
 Urkunde von dem Aussteller eigenhändig durch Namensunterschrift oder
@@ -2051,6 +2206,7 @@ ersetzt.
 
 
 ##### § 126a Elektronische Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE249305360)
 
 (1) Soll die gesetzlich vorgeschriebene schriftliche Form durch die
 elektronische Form ersetzt werden, so muss der Aussteller der
@@ -2062,6 +2218,7 @@ Dokument in der in Absatz 1 bezeichneten Weise elektronisch signieren.
 
 
 ##### § 126b Textform
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE249403360)
 
 Ist durch Gesetz Textform vorgeschrieben, so muss eine lesbare
 Erklärung, in der die Person des Erklärenden genannt ist, auf einem
@@ -2081,6 +2238,7 @@ ist jedes Medium, das
 
 
 ##### § 127 Vereinbarte Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011803377)
 
 (1) Die Vorschriften des § 126, des § 126a oder des § 126b gelten im
 Zweifel auch für die durch Rechtsgeschäft bestimmte Form.
@@ -2103,6 +2261,7 @@ verlangt werden.
 
 
 ##### § 127a Gerichtlicher Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE011902377)
 
 Die notarielle Beurkundung wird bei einem gerichtlichen Vergleich
 durch die Aufnahme der Erklärungen in ein nach den Vorschriften der
@@ -2110,6 +2269,7 @@ Zivilprozessordnung errichtetes Protokoll ersetzt.
 
 
 ##### § 128 Notarielle Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012002377)
 
 Ist durch Gesetz notarielle Beurkundung eines Vertrags vorgeschrieben,
 so genügt es, wenn zunächst der Antrag und sodann die Annahme des
@@ -2117,6 +2277,7 @@ Antrags von einem Notar beurkundet wird.
 
 
 ##### § 129 Öffentliche Beglaubigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012103360)
 
 (1) Ist für eine Erklärung durch Gesetz öffentliche Beglaubigung
 vorgeschrieben, so muss die Erklärung
@@ -2143,6 +2304,7 @@ ersetzt.
 
 
 ##### § 130 Wirksamwerden der Willenserklärung gegenüber Abwesenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012202377)
 
 (1) Eine Willenserklärung, die einem anderen gegenüber abzugeben ist,
 wird, wenn sie in dessen Abwesenheit abgegeben wird, in dem Zeitpunkt
@@ -2157,6 +2319,7 @@ Willenserklärung einer Behörde gegenüber abzugeben ist.
 
 
 ##### § 131 Wirksamwerden gegenüber nicht voll Geschäftsfähigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012302377)
 
 (1) Wird die Willenserklärung einem Geschäftsunfähigen gegenüber
 abgegeben, so wird sie nicht wirksam, bevor sie dem gesetzlichen
@@ -2171,6 +2334,7 @@ Zeitpunkt wirksam, in welchem sie ihr zugeht.
 
 
 ##### § 132 Ersatz des Zugehens durch Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012404360)
 
 (1) Eine Willenserklärung gilt auch dann als zugegangen, wenn sie
 durch Vermittlung eines Gerichtsvollziehers zugestellt worden ist. Die
@@ -2190,6 +2354,7 @@ inländischen Wohnsitzes den letzten Aufenthalt hatte.
 
 
 ##### § 133 Auslegung einer Willenserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012502377)
 
 Bei der Auslegung einer Willenserklärung ist der wirkliche Wille zu
 erforschen und nicht an dem buchstäblichen Sinne des Ausdrucks zu
@@ -2197,12 +2362,14 @@ haften.
 
 
 ##### § 134 Gesetzliches Verbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012602377)
 
 Ein Rechtsgeschäft, das gegen ein gesetzliches Verbot verstößt, ist
 nichtig, wenn sich nicht aus dem Gesetz ein anderes ergibt.
 
 
 ##### § 135 Gesetzliches Veräußerungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012702377)
 
 (1) Verstößt die Verfügung über einen Gegenstand gegen ein
 gesetzliches Veräußerungsverbot, das nur den Schutz bestimmter
@@ -2215,6 +2382,7 @@ Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
 
 ##### § 136 Behördliches Veräußerungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012802377)
 
 Ein Veräußerungsverbot, das von einem Gericht oder von einer anderen
 Behörde innerhalb ihrer Zuständigkeit erlassen wird, steht einem
@@ -2222,6 +2390,7 @@ gesetzlichen Veräußerungsverbot der in § 135 bezeichneten Art gleich.
 
 
 ##### § 137 Rechtsgeschäftliches Verfügungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE012902377)
 
 Die Befugnis zur Verfügung über ein veräußerliches Recht kann nicht
 durch Rechtsgeschäft ausgeschlossen oder beschränkt werden. Die
@@ -2230,6 +2399,7 @@ verfügen, wird durch diese Vorschrift nicht berührt.
 
 
 ##### § 138 Sittenwidriges Rechtsgeschäft; Wucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013002377)
 
 (1) Ein Rechtsgeschäft, das gegen die guten Sitten verstößt, ist
 nichtig.
@@ -2243,6 +2413,7 @@ Missverhältnis zu der Leistung stehen.
 
 
 ##### § 139 Teilnichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013102377)
 
 Ist ein Teil eines Rechtsgeschäfts nichtig, so ist das ganze
 Rechtsgeschäft nichtig, wenn nicht anzunehmen ist, dass es auch ohne
@@ -2250,6 +2421,7 @@ den nichtigen Teil vorgenommen sein würde.
 
 
 ##### § 140 Umdeutung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013202377)
 
 Entspricht ein nichtiges Rechtsgeschäft den Erfordernissen eines
 anderen Rechtsgeschäfts, so gilt das letztere, wenn anzunehmen ist,
@@ -2257,6 +2429,7 @@ dass dessen Geltung bei Kenntnis der Nichtigkeit gewollt sein würde.
 
 
 ##### § 141 Bestätigung des nichtigen Rechtsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013302377)
 
 (1) Wird ein nichtiges Rechtsgeschäft von demjenigen, welcher es
 vorgenommen hat, bestätigt, so ist die Bestätigung als erneute
@@ -2268,6 +2441,7 @@ würden, wenn der Vertrag von Anfang an gültig gewesen wäre.
 
 
 ##### § 142 Wirkung der Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013402377)
 
 (1) Wird ein anfechtbares Rechtsgeschäft angefochten, so ist es als
 von Anfang an nichtig anzusehen.
@@ -2278,6 +2452,7 @@ Rechtsgeschäfts gekannt hätte oder hätte kennen müssen.
 
 
 ##### § 143 Anfechtungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013502377)
 
 (1) Die Anfechtung erfolgt durch Erklärung gegenüber dem
 Anfechtungsgegner.
@@ -2302,6 +2477,7 @@ unmittelbar betroffen worden ist.
 
 
 ##### § 144 Bestätigung des anfechtbaren Rechtsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013602377)
 
 (1) Die Anfechtung ist ausgeschlossen, wenn das anfechtbare
 Rechtsgeschäft von dem Anfechtungsberechtigten bestätigt wird.
@@ -2311,10 +2487,12 @@ Form.
 
 
 #### Titel 3 - Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001402377)
 
 
 
 ##### § 145 Bindung an den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013702377)
 
 Wer einem anderen die Schließung eines Vertrags anträgt, ist an den
 Antrag gebunden, es sei denn, dass er die Gebundenheit ausgeschlossen
@@ -2322,6 +2500,7 @@ hat.
 
 
 ##### § 146 Erlöschen des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013802377)
 
 Der Antrag erlischt, wenn er dem Antragenden gegenüber abgelehnt oder
 wenn er nicht diesem gegenüber nach den §§ 147 bis 149 rechtzeitig
@@ -2329,6 +2508,7 @@ angenommen wird.
 
 
 ##### § 147 Annahmefrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE013903377)
 
 (1) Der einem Anwesenden gemachte Antrag kann nur sofort angenommen
 werden. Dies gilt auch von einem mittels Fernsprechers oder einer
@@ -2341,12 +2521,14 @@ unter regelmäßigen Umständen erwarten darf.
 
 
 ##### § 148 Bestimmung einer Annahmefrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014002377)
 
 Hat der Antragende für die Annahme des Antrags eine Frist bestimmt, so
 kann die Annahme nur innerhalb der Frist erfolgen.
 
 
 ##### § 149 Verspätet zugegangene Annahmeerklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014102377)
 
 Ist eine dem Antragenden verspätet zugegangene Annahmeerklärung
 dergestalt abgesendet worden, dass sie bei regelmäßiger Beförderung
@@ -2358,6 +2540,7 @@ Annahme als nicht verspätet.
 
 
 ##### § 150 Verspätete und abändernde Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014202377)
 
 (1) Die verspätete Annahme eines Antrags gilt als neuer Antrag.
 
@@ -2366,6 +2549,7 @@ Annahme als nicht verspätet.
 
 
 ##### § 151 Annahme ohne Erklärung gegenüber dem Antragenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014302377)
 
 Der Vertrag kommt durch die Annahme des Antrags zustande, ohne dass
 die Annahme dem Antragenden gegenüber erklärt zu werden braucht, wenn
@@ -2376,6 +2560,7 @@ Umständen zu entnehmenden Willen des Antragenden.
 
 
 ##### § 152 Annahme bei notarieller Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014402377)
 
 Wird ein Vertrag notariell beurkundet, ohne dass beide Teile
 gleichzeitig anwesend sind, so kommt der Vertrag mit der nach § 128
@@ -2384,6 +2569,7 @@ bestimmt ist. Die Vorschrift des § 151 Satz 2 findet Anwendung.
 
 
 ##### § 153 Tod oder Geschäftsunfähigkeit des Antragenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014502377)
 
 Das Zustandekommen des Vertrags wird nicht dadurch gehindert, dass der
 Antragende vor der Annahme stirbt oder geschäftsunfähig wird, es sei
@@ -2391,6 +2577,7 @@ denn, dass ein anderer Wille des Antragenden anzunehmen ist.
 
 
 ##### § 154 Offener Einigungsmangel; fehlende Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014602377)
 
 (1) Solange nicht die Parteien sich über alle Punkte eines Vertrags
 geeinigt haben, über die nach der Erklärung auch nur einer Partei eine
@@ -2404,6 +2591,7 @@ Beurkundung erfolgt ist.
 
 
 ##### § 155 Versteckter Einigungsmangel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014702377)
 
 Haben sich die Parteien bei einem Vertrag, den sie als geschlossen
 ansehen, über einen Punkt, über den eine Vereinbarung getroffen werden
@@ -2413,6 +2601,7 @@ diesen Punkt geschlossen sein würde.
 
 
 ##### § 156 Vertragsschluss bei Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014802377)
 
 Bei einer Versteigerung kommt der Vertrag erst durch den Zuschlag
 zustande. Ein Gebot erlischt, wenn ein Übergebot abgegeben oder die
@@ -2420,16 +2609,19 @@ Versteigerung ohne Erteilung des Zuschlags geschlossen wird.
 
 
 ##### § 157 Auslegung von Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE014902377)
 
 Verträge sind so auszulegen, wie Treu und Glauben mit Rücksicht auf
 die Verkehrssitte es erfordern.
 
 
 #### Titel 4 - Bedingung und Zeitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001502377)
 
 
 
 ##### § 158 Aufschiebende und auflösende Bedingung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015002377)
 
 (1) Wird ein Rechtsgeschäft unter einer aufschiebenden Bedingung
 vorgenommen, so tritt die von der Bedingung abhängig gemachte Wirkung
@@ -2442,6 +2634,7 @@ wieder ein.
 
 
 ##### § 159 Rückbeziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015102377)
 
 Sollen nach dem Inhalt des Rechtsgeschäfts die an den Eintritt der
 Bedingung geknüpften Folgen auf einen früheren Zeitpunkt zurückbezogen
@@ -2451,6 +2644,7 @@ Folgen in dem früheren Zeitpunkt eingetreten wären.
 
 
 ##### § 160 Haftung während der Schwebezeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015202377)
 
 (1) Wer unter einer aufschiebenden Bedingung berechtigt ist, kann im
 Falle des Eintritts der Bedingung Schadensersatz von dem anderen Teil
@@ -2464,6 +2658,7 @@ eintritt.
 
 
 ##### § 161 Unwirksamkeit von Verfügungen während der Schwebezeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015303377)
 
 (1) Hat jemand unter einer aufschiebenden Bedingung über einen
 Gegenstand verfügt, so ist jede weitere Verfügung, die er während der
@@ -2482,6 +2677,7 @@ Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
 
 ##### § 162 Verhinderung oder Herbeiführung des Bedingungseintritts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015402377)
 
 (1) Wird der Eintritt der Bedingung von der Partei, zu deren Nachteil
 er gereichen würde, wider Treu und Glauben verhindert, so gilt die
@@ -2493,6 +2689,7 @@ Eintritt als nicht erfolgt.
 
 
 ##### § 163 Zeitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015502377)
 
 Ist für die Wirkung eines Rechtsgeschäfts bei dessen Vornahme ein
 Anfangs- oder ein Endtermin bestimmt worden, so finden im ersteren
@@ -2502,10 +2699,12 @@ entsprechende Anwendung.
 
 
 #### Titel 5 - Vertretung und Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001602377)
 
 
 
 ##### § 164 Wirkung der Erklärung des Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015602377)
 
 (1) Eine Willenserklärung, die jemand innerhalb der ihm zustehenden
 Vertretungsmacht im Namen des Vertretenen abgibt, wirkt unmittelbar
@@ -2523,6 +2722,7 @@ Vertreter gegenüber erfolgt.
 
 
 ##### § 165 Beschränkt geschäftsfähiger Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015702377)
 
 Die Wirksamkeit einer von oder gegenüber einem Vertreter abgegebenen
 Willenserklärung wird nicht dadurch beeinträchtigt, dass der Vertreter
@@ -2530,6 +2730,7 @@ in der Geschäftsfähigkeit beschränkt ist.
 
 
 ##### § 166 Willensmängel; Wissenszurechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015802377)
 
 (1) Soweit die rechtlichen Folgen einer Willenserklärung durch
 Willensmängel oder durch die Kenntnis oder das Kennenmüssen gewisser
@@ -2546,6 +2747,7 @@ gleichsteht.
 
 
 ##### § 167 Erteilung der Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE015902377)
 
 (1) Die Erteilung der Vollmacht erfolgt durch Erklärung gegenüber dem
 zu Bevollmächtigenden oder dem Dritten, dem gegenüber die Vertretung
@@ -2556,6 +2758,7 @@ bestimmt ist, auf das sich die Vollmacht bezieht.
 
 
 ##### § 168 Erlöschen der Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016002377)
 
 Das Erlöschen der Vollmacht bestimmt sich nach dem ihrer Erteilung
 zugrunde liegenden Rechtsverhältnis. Die Vollmacht ist auch bei dem
@@ -2565,6 +2768,7 @@ die Vorschrift des § 167 Abs. 1 entsprechende Anwendung.
 
 
 ##### § 169 Vollmacht des Beauftragten und des geschäftsführenden Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016102377)
 
 Soweit nach den §§ 674, 729 die erloschene Vollmacht eines
 Beauftragten oder eines geschäftsführenden Gesellschafters als
@@ -2574,6 +2778,7 @@ muss.
 
 
 ##### § 170 Wirkungsdauer der Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016202377)
 
 Wird die Vollmacht durch Erklärung gegenüber einem Dritten erteilt, so
 bleibt sie diesem gegenüber in Kraft, bis ihm das Erlöschen von dem
@@ -2581,6 +2786,7 @@ Vollmachtgeber angezeigt wird.
 
 
 ##### § 171 Wirkungsdauer bei Kundgebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016302377)
 
 (1) Hat jemand durch besondere Mitteilung an einen Dritten oder durch
 öffentliche Bekanntmachung kundgegeben, dass er einen anderen
@@ -2593,6 +2799,7 @@ derselben Weise, wie sie erfolgt ist, widerrufen wird.
 
 
 ##### § 172 Vollmachtsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016402377)
 
 (1) Der besonderen Mitteilung einer Bevollmächtigung durch den
 Vollmachtgeber steht es gleich, wenn dieser dem Vertreter eine
@@ -2604,6 +2811,7 @@ dem Vollmachtgeber zurückgegeben oder für kraftlos erklärt wird.
 
 
 ##### § 173 Wirkungsdauer bei Kenntnis und fahrlässiger Unkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016502377)
 
 Die Vorschriften des § 170, des § 171 Abs. 2 und des § 172 Abs. 2
 finden keine Anwendung, wenn der Dritte das Erlöschen der
@@ -2612,6 +2820,7 @@ kennen muss.
 
 
 ##### § 174 Einseitiges Rechtsgeschäft eines Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016602377)
 
 Ein einseitiges Rechtsgeschäft, das ein Bevollmächtigter einem anderen
 gegenüber vornimmt, ist unwirksam, wenn der Bevollmächtigte eine
@@ -2622,6 +2831,7 @@ Bevollmächtigung in Kenntnis gesetzt hatte.
 
 
 ##### § 175 Rückgabe der Vollmachtsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016702377)
 
 Nach dem Erlöschen der Vollmacht hat der Bevollmächtigte die
 Vollmachtsurkunde dem Vollmachtgeber zurückzugeben; ein
@@ -2629,6 +2839,7 @@ Zurückbehaltungsrecht steht ihm nicht zu.
 
 
 ##### § 176 Kraftloserklärung der Vollmachtsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016802377)
 
 (1) Der Vollmachtgeber kann die Vollmachtsurkunde durch eine
 öffentliche Bekanntmachung für kraftlos erklären; die
@@ -2648,6 +2859,7 @@ Vollmacht nicht widerrufen kann.
 
 
 ##### § 177 Vertragsschluss durch Vertreter ohne Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE016902377)
 
 (1) Schließt jemand ohne Vertretungsmacht im Namen eines anderen einen
 Vertrag, so hängt die Wirksamkeit des Vertrags für und gegen den
@@ -2662,6 +2874,7 @@ erklärt werden; wird sie nicht erklärt, so gilt sie als verweigert.
 
 
 ##### § 178 Widerrufsrecht des anderen Teils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017002377)
 
 Bis zur Genehmigung des Vertrags ist der andere Teil zum Widerruf
 berechtigt, es sei denn, dass er den Mangel der Vertretungsmacht bei
@@ -2670,6 +2883,7 @@ Vertreter gegenüber erklärt werden.
 
 
 ##### § 179 Haftung des Vertreters ohne Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017102377)
 
 (1) Wer als Vertreter einen Vertrag geschlossen hat, ist, sofern er
 nicht seine Vertretungsmacht nachweist, dem anderen Teil nach dessen
@@ -2690,6 +2904,7 @@ hat.
 
 
 ##### § 180 Einseitiges Rechtsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017202377)
 
 Bei einem einseitigen Rechtsgeschäft ist Vertretung ohne
 Vertretungsmacht unzulässig. Hat jedoch derjenige, welchem gegenüber
@@ -2703,6 +2918,7 @@ Vertretungsmacht mit dessen Einverständnis vorgenommen wird.
 
 
 ##### § 181 Insichgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017302377)
 
 Ein Vertreter kann, soweit nicht ein anderes ihm gestattet ist, im
 Namen des Vertretenen mit sich im eigenen Namen oder als Vertreter
@@ -2712,10 +2928,12 @@ Verbindlichkeit besteht.
 
 
 #### Titel 6 - Einwilligung und Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001702377)
 
 
 
 ##### § 182 Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017402377)
 
 (1) Hängt die Wirksamkeit eines Vertrags oder eines einseitigen
 Rechtsgeschäfts, das einem anderen gegenüber vorzunehmen ist, von der
@@ -2733,6 +2951,7 @@ entsprechende Anwendung.
 
 
 ##### § 183 Widerruflichkeit der Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017502377)
 
 Die vorherige Zustimmung (Einwilligung) ist bis zur Vornahme des
 Rechtsgeschäfts widerruflich, soweit nicht aus dem ihrer Erteilung
@@ -2742,6 +2961,7 @@ werden.
 
 
 ##### § 184 Rückwirkung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017603377)
 
 (1) Die nachträgliche Zustimmung (Genehmigung) wirkt auf den Zeitpunkt
 der Vornahme des Rechtsgeschäfts zurück, soweit nicht ein anderes
@@ -2755,6 +2975,7 @@ sind.
 
 
 ##### § 185 Verfügung eines Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017702377)
 
 (1) Eine Verfügung, die ein Nichtberechtigter über einen Gegenstand
 trifft, ist wirksam, wenn sie mit Einwilligung des Berechtigten
@@ -2769,10 +2990,12 @@ Verfügungen getroffen worden sind, nur die frühere Verfügung wirksam.
 
 
 ### Abschnitt 4 - Fristen, Termine
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001802377)
 
 
 
 #### § 186 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017802377)
 
 Für die in Gesetzen, gerichtlichen Verfügungen und Rechtsgeschäften
 enthaltenen Frist- und Terminsbestimmungen gelten die
@@ -2780,6 +3003,7 @@ Auslegungsvorschriften der §§ 187 bis 193.
 
 
 #### § 187 Fristbeginn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE017902377)
 
 (1) Ist für den Anfang einer Frist ein Ereignis oder ein in den Lauf
 eines Tages fallender Zeitpunkt maßgebend, so wird bei der Berechnung
@@ -2793,6 +3017,7 @@ Berechnung des Lebensalters.
 
 
 #### § 188 Fristende
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018002377)
 
 (1) Eine nach Tagen bestimmte Frist endigt mit dem Ablauf des letzten
 Tages der Frist.
@@ -2813,6 +3038,7 @@ Ablauf des letzten Tages dieses Monats.
 
 
 #### § 189 Berechnung einzelner Fristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018102377)
 
 (1) Unter einem halben Jahr wird eine Frist von sechs Monaten, unter
 einem Vierteljahr eine Frist von drei Monaten, unter einem halben
@@ -2823,12 +3049,14 @@ halben Monat gestellt, so sind die 15 Tage zuletzt zu zählen.
 
 
 #### § 190 Fristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018202377)
 
 Im Falle der Verlängerung einer Frist wird die neue Frist von dem
 Ablauf der vorigen Frist an berechnet.
 
 
 #### § 191 Berechnung von Zeiträumen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018302377)
 
 Ist ein Zeitraum nach Monaten oder nach Jahren in dem Sinne bestimmt,
 dass er nicht zusammenhängend zu verlaufen braucht, so wird der Monat
@@ -2836,12 +3064,14 @@ zu 30, das Jahr zu 365 Tagen gerechnet.
 
 
 #### § 192 Anfang, Mitte, Ende des Monats
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018402377)
 
 Unter Anfang des Monats wird der erste, unter Mitte des Monats der
 15\., unter Ende des Monats der letzte Tag des Monats verstanden.
 
 
 #### § 193 Sonn- und Feiertag; Sonnabend
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018502377)
 
 Ist an einem bestimmten Tage oder innerhalb einer Frist eine
 Willenserklärung abzugeben oder eine Leistung zu bewirken und fällt
@@ -2852,14 +3082,17 @@ eines solchen Tages der nächste Werktag.
 
 
 ### Abschnitt 5 - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG001902377)
 
 
 
 #### Titel 1 - Gegenstand und Dauer der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023101377)
 
 
 
 ##### § 194 Gegenstand der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018604116)
 
 (1) Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen
 (Anspruch), unterliegt der Verjährung.
@@ -2879,11 +3112,13 @@ eines solchen Tages der nächste Werktag.
 
 
 ##### § 195 Regelmäßige Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018702377)
 
 Die regelmäßige Verjährungsfrist beträgt drei Jahre.
 
 
 ##### § 196 Verjährungsfrist bei Rechten an einem Grundstück
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018804377)
 
 Ansprüche auf Übertragung des Eigentums an einem Grundstück sowie auf
 Begründung, Übertragung oder Aufhebung eines Rechts an einem
@@ -2892,6 +3127,7 @@ die Ansprüche auf die Gegenleistung verjähren in zehn Jahren.
 
 
 ##### § 197 Dreißigjährige Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE018906360)
 
 (1) In 30 Jahren verjähren, soweit nicht ein anderes bestimmt ist,
 
@@ -2928,6 +3164,7 @@ Verjährungsfrist.
 
 
 ##### § 198 Verjährung bei Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019002377)
 
 Gelangt eine Sache, hinsichtlich derer ein dinglicher Anspruch
 besteht, durch Rechtsnachfolge in den Besitz eines Dritten, so kommt
@@ -2936,6 +3173,7 @@ Verjährungszeit dem Rechtsnachfolger zugute.
 
 
 ##### § 199 Beginn der regelmäßigen Verjährungsfrist und Verjährungshöchstfristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019103140)
 
 (1) Die regelmäßige Verjährungsfrist beginnt, soweit nicht ein anderer
 Verjährungsbeginn bestimmt ist, mit dem Schluss des Jahres, in dem
@@ -2987,6 +3225,7 @@ Entstehung die Zuwiderhandlung.
 
 
 ##### § 200 Beginn anderer Verjährungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019202377)
 
 Die Verjährungsfrist von Ansprüchen, die nicht der regelmäßigen
 Verjährungsfrist unterliegen, beginnt mit der Entstehung des
@@ -2995,6 +3234,7 @@ Anspruchs, soweit nicht ein anderer Verjährungsbeginn bestimmt ist. §
 
 
 ##### § 201 Beginn der Verjährungsfrist von festgestellten Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019303377)
 
 Die Verjährung von Ansprüchen der in § 197 Abs. 1 Nr. 3 bis 6
 bezeichneten Art beginnt mit der Rechtskraft der Entscheidung, der
@@ -3004,6 +3244,7 @@ Insolvenzverfahren, nicht jedoch vor der Entstehung des Anspruchs. §
 
 
 ##### § 202 Unzulässigkeit von Vereinbarungen über die Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019402377)
 
 (1) Die Verjährung kann bei Haftung wegen Vorsatzes nicht im Voraus
 durch Rechtsgeschäft erleichtert werden.
@@ -3014,10 +3255,12 @@ hinaus erschwert werden.
 
 
 #### Titel 2 - Hemmung, Ablaufhemmung und Neubeginn der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023201377)
 
 
 
 ##### § 203 Hemmung der Verjährung bei Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019502377)
 
 Schweben zwischen dem Schuldner und dem Gläubiger Verhandlungen über
 den Anspruch oder die den Anspruch begründenden Umstände, so ist die
@@ -3027,6 +3270,7 @@ Monate nach dem Ende der Hemmung ein.
 
 
 ##### § 204 Hemmung der Verjährung durch Rechtsverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019613360)
 
 (1) Die Verjährung wird gehemmt durch
 
@@ -3141,6 +3385,7 @@ betreibt.
 
 
 ##### § 204a Hemmung der Verjährung von Ansprüchen von Verbrauchern durch Klagen von qualifizierten Verbraucherverbänden oder qualifizierten Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292100360)
 
 (1) Die Verjährung von Ansprüchen von Verbrauchern gegen Unternehmer
 wird auch gehemmt durch:
@@ -3258,6 +3503,7 @@ werden.
 
 
 ##### § 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019702377)
 
 Die Verjährung ist gehemmt, solange der Schuldner auf Grund einer
 Vereinbarung mit dem Gläubiger vorübergehend zur Verweigerung der
@@ -3265,6 +3511,7 @@ Leistung berechtigt ist.
 
 
 ##### § 206 Hemmung der Verjährung bei höherer Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019802377)
 
 Die Verjährung ist gehemmt, solange der Gläubiger innerhalb der
 letzten sechs Monate der Verjährungsfrist durch höhere Gewalt an der
@@ -3272,6 +3519,7 @@ Rechtsverfolgung gehindert ist.
 
 
 ##### § 207 Hemmung der Verjährung aus familiären und ähnlichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE019904140)
 
 (1) Die Verjährung von Ansprüchen zwischen Ehegatten ist gehemmt,
 solange die Ehe besteht. Das Gleiche gilt für Ansprüche zwischen
@@ -3310,6 +3558,7 @@ während der Dauer der Beistandschaft gehemmt.
 
 
 ##### § 208 Hemmung der Verjährung bei Ansprüchen wegen Verletzung der sexuellen Selbstbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020002377)
 
 Die Verjährung von Ansprüchen wegen Verletzung der sexuellen
 Selbstbestimmung ist bis zur Vollendung des 21. Lebensjahrs des
@@ -3320,12 +3569,14 @@ zur Beendigung der häuslichen Gemeinschaft gehemmt.
 
 
 ##### § 209 Wirkung der Hemmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020108377)
 
 Der Zeitraum, während dessen die Verjährung gehemmt ist, wird in die
 Verjährungsfrist nicht eingerechnet.
 
 
 ##### § 210 Ablaufhemmung bei nicht voll Geschäftsfähigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020202377)
 
 (1) Ist eine geschäftsunfähige oder in der Geschäftsfähigkeit
 beschränkte Person ohne gesetzlichen Vertreter, so tritt eine für oder
@@ -3340,6 +3591,7 @@ Geschäftsfähigkeit beschränkte Person prozessfähig ist.
 
 
 ##### § 211 Ablaufhemmung in Nachlassfällen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020302377)
 
 Die Verjährung eines Anspruchs, der zu einem Nachlass gehört oder sich
 gegen einen Nachlass richtet, tritt nicht vor dem Ablauf von sechs
@@ -3352,6 +3604,7 @@ Stelle der sechs Monate.
 
 
 ##### § 212 Neubeginn der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020402377)
 
 (1) Die Verjährung beginnt erneut, wenn
 
@@ -3379,6 +3632,7 @@ Vollstreckungshandlung nach Absatz 2 aufgehoben wird.
 
 
 ##### § 213 Hemmung, Ablaufhemmung und erneuter Beginn der Verjährung bei anderen Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020602377)
 
 Die Hemmung, die Ablaufhemmung und der erneute Beginn der Verjährung
 gelten auch für Ansprüche, die aus demselben Grunde wahlweise neben
@@ -3386,10 +3640,12 @@ dem Anspruch oder an seiner Stelle gegeben sind.
 
 
 #### Titel 3 - Rechtsfolgen der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023301377)
 
 
 
 ##### § 214 Wirkung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020706377)
 
 (1) Nach Eintritt der Verjährung ist der Schuldner berechtigt, die
 Leistung zu verweigern.
@@ -3401,6 +3657,7 @@ Anerkenntnis sowie einer Sicherheitsleistung des Schuldners.
 
 
 ##### § 215 Aufrechnung und Zurückbehaltungsrecht nach Eintritt der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020802377)
 
 Die Verjährung schließt die Aufrechnung und die Geltendmachung eines
 Zurückbehaltungsrechts nicht aus, wenn der Anspruch in dem Zeitpunkt
@@ -3409,6 +3666,7 @@ Leistung verweigert werden konnte.
 
 
 ##### § 216 Wirkung der Verjährung bei gesicherten Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE020902377)
 
 (1) Die Verjährung eines Anspruchs, für den eine Hypothek, eine
 Schiffshypothek oder ein Pfandrecht besteht, hindert den Gläubiger
@@ -3424,6 +3682,7 @@ Ansprüchen auf Zinsen und andere wiederkehrende Leistungen.
 
 
 ##### § 217 Verjährung von Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE021002377)
 
 Mit dem Hauptanspruch verjährt der Anspruch auf die von ihm
 abhängenden Nebenleistungen, auch wenn die für diesen Anspruch
@@ -3431,6 +3690,7 @@ geltende besondere Verjährung noch nicht eingetreten ist.
 
 
 ##### § 218 Unwirksamkeit des Rücktritts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE021104123)
 
 (1) Der Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter
 Leistung ist unwirksam, wenn der Anspruch auf die Leistung oder der
@@ -3444,20 +3704,24 @@ wäre. § 216 Abs. 2 Satz 2 bleibt unberührt.
 
 
 ##### (XXXX) §§ 219 bis 225 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE021202377)
 
 
 
 ### Abschnitt 6 - Ausübung der Rechte, Selbstverteidigung, Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002002377)
 
 
 
 #### § 226 Schikaneverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE021902377)
 
 Die Ausübung eines Rechts ist unzulässig, wenn sie nur den Zweck haben
 kann, einem anderen Schaden zuzufügen.
 
 
 #### § 227 Notwehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022002377)
 
 (1) Eine durch Notwehr gebotene Handlung ist nicht widerrechtlich.
 
@@ -3467,6 +3731,7 @@ abzuwenden.
 
 
 #### § 228 Notstand
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022102377)
 
 Wer eine fremde Sache beschädigt oder zerstört, um eine durch sie
 drohende Gefahr von sich oder einem anderen abzuwenden, handelt nicht
@@ -3477,6 +3742,7 @@ verschuldet, so ist er zum Schadensersatz verpflichtet.
 
 
 #### § 229 Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022202377)
 
 Wer zum Zwecke der Selbsthilfe eine Sache wegnimmt, zerstört oder
 beschädigt oder wer zum Zwecke der Selbsthilfe einen Verpflichteten,
@@ -3489,6 +3755,7 @@ oder wesentlich erschwert werde.
 
 
 #### § 230 Grenzen der Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022302377)
 
 (1) Die Selbsthilfe darf nicht weiter gehen, als zur Abwendung der
 Gefahr erforderlich ist.
@@ -3507,6 +3774,7 @@ Festgenommenen unverzüglich zu erfolgen.
 
 
 #### § 231 Irrtümliche Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022402377)
 
 Wer eine der im § 229 bezeichneten Handlungen in der irrigen Annahme
 vornimmt, dass die für den Ausschluss der Widerrechtlichkeit
@@ -3516,10 +3784,12 @@ Fahrlässigkeit beruht.
 
 
 ### Abschnitt 7 - Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002102377)
 
 
 
 #### § 232 Arten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022503377)
 
 (1) Wer Sicherheit zu leisten hat, kann dies bewirken
 durch Hinterlegung von Geld oder Wertpapieren,
@@ -3539,6 +3809,7 @@ die Stellung eines tauglichen Bürgen zulässig.
 
 
 #### § 233 Wirkung der Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022602377)
 
 Mit der Hinterlegung erwirbt der Berechtigte ein Pfandrecht an dem
 hinterlegten Geld oder an den hinterlegten Wertpapieren und, wenn das
@@ -3548,6 +3819,7 @@ der Forderung auf Rückerstattung.
 
 
 #### § 234 Geeignete Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022703360)
 
 (1) Zur Sicherheitsleistung geeignete Wertpapiere sind Inhaberpapiere
 und Orderpapiere, die mit Blankoindossament versehen sind, wenn sie
@@ -3562,6 +3834,7 @@ Kurswerts geleistet werden.
 
 
 #### § 235 Umtauschrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022802377)
 
 Wer durch Hinterlegung von Geld oder von Wertpapieren Sicherheit
 geleistet hat, ist berechtigt, das hinterlegte Geld gegen geeignete
@@ -3570,6 +3843,7 @@ Wertpapiere oder gegen Geld umzutauschen.
 
 
 #### § 236 Buchforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE022903377)
 
 Mit einer Schuldbuchforderung gegen den Bund oder gegen ein Land kann
 Sicherheit nur in Höhe von drei Vierteln des Kurswerts der Wertpapiere
@@ -3578,6 +3852,7 @@ seiner Forderung verlangen kann.
 
 
 #### § 237 Bewegliche Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023002377)
 
 Mit einer beweglichen Sache kann Sicherheit nur in Höhe von zwei
 Dritteln des Schätzungswerts geleistet werden. Sachen, deren Verderb
@@ -3586,6 +3861,7 @@ verbunden ist, können zurückgewiesen werden.
 
 
 #### § 238 Hypotheken, Grund- und Rentenschulden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023103360)
 
 (1) Eine Hypothekenforderung, eine Grundschuld oder eine Rentenschuld
 ist zur Sicherheitsleistung nur geeignet, wenn sie den in der
@@ -3596,6 +3872,7 @@ Sicherheitsleistung nicht geeignet.
 
 
 #### § 239 Bürge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023202377)
 
 (1) Ein Bürge ist tauglich, wenn er ein der Höhe der zu leistenden
 Sicherheit angemessenes Vermögen besitzt und seinen allgemeinen
@@ -3606,6 +3883,7 @@ Vorausklage enthalten.
 
 
 #### § 240 Ergänzungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023302377)
 
 Wird die geleistete Sicherheit ohne Verschulden des Berechtigten
 unzureichend, so ist sie zu ergänzen oder anderweitige Sicherheit zu
@@ -3613,6 +3891,7 @@ leisten.
 
 
 #### § 240a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292000360)
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -3638,18 +3917,22 @@ der Grund- und Rentenschulden begleichen kann.
 
 
 ## Buch 2 - Recht der Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002202377)
 
 
 
 ### Abschnitt 1 - Inhalt der Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002302377)
 
 
 
 #### Titel 1 - Verpflichtung zur Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002402377)
 
 
 
 ##### § 241 Pflichten aus dem Schuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023402377)
 
 (1) Kraft des Schuldverhältnisses ist der Gläubiger berechtigt, von
 dem Schuldner eine Leistung zu fordern. Die Leistung kann auch in
@@ -3661,6 +3944,7 @@ verpflichten.
 
 
 ##### § 241a Unbestellte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE244803360)
 
 [^BJNR001950896BJNE244802377_BJNR001950896BJNE244803360]
 
@@ -3688,12 +3972,14 @@ wenn sie durch anderweitige Gestaltungen umgangen werden.
 
 
 ##### § 242 Leistung nach Treu und Glauben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023502377)
 
 Der Schuldner ist verpflichtet, die Leistung so zu bewirken, wie Treu
 und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.
 
 
 ##### § 243 Gattungsschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023602377)
 
 (1) Wer eine nur der Gattung nach bestimmte Sache schuldet, hat eine
 Sache von mittlerer Art und Güte zu leisten.
@@ -3704,6 +3990,7 @@ Sache.
 
 
 ##### § 244 Fremdwährungsschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023702377)
 
 (1) Ist eine in einer anderen Währung als Euro ausgedrückte Geldschuld
 im Inland zu zahlen, so kann die Zahlung in Euro erfolgen, es sei
@@ -3714,6 +4001,7 @@ für den Zahlungsort maßgebend ist.
 
 
 ##### § 245 Geldsortenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023802377)
 
 Ist eine Geldschuld in einer bestimmten Münzsorte zu zahlen, die sich
 zur Zeit der Zahlung nicht mehr im Umlauf befindet, so ist die Zahlung
@@ -3721,6 +4009,7 @@ so zu leisten, wie wenn die Münzsorte nicht bestimmt wäre.
 
 
 ##### § 246 Gesetzlicher Zinssatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE023902377)
 
 Ist eine Schuld nach Gesetz oder Rechtsgeschäft zu verzinsen, so sind
 vier vom Hundert für das Jahr zu entrichten, sofern nicht ein anderes
@@ -3728,6 +4017,7 @@ bestimmt ist.
 
 
 ##### § 247 Basiszinssatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024003377)
 
 [^BJNR001950896BJNE024003377]
 
@@ -3749,6 +4039,7 @@ Bundesanzeiger bekannt.
 
 
 ##### § 248 Zinseszinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024102377)
 
 (1) Eine im Voraus getroffene Vereinbarung, dass fällige Zinsen wieder
 Zinsen tragen sollen, ist nichtig.
@@ -3763,6 +4054,7 @@ Voraus versprechen lassen.
 
 
 ##### § 249 Art und Umfang des Schadensersatzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024203301)
 
 (1) Wer zum Schadensersatz verpflichtet ist, hat den Zustand
 herzustellen, der bestehen würde, wenn der zum Ersatz verpflichtende
@@ -3777,6 +4069,7 @@ tatsächlich angefallen ist.
 
 
 ##### § 250 Schadensersatz in Geld nach Fristsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024302377)
 
 Der Gläubiger kann dem Ersatzpflichtigen zur Herstellung eine
 angemessene Frist mit der Erklärung bestimmen, dass er die Herstellung
@@ -3787,6 +4080,7 @@ ausgeschlossen.
 
 
 ##### § 251 Schadensersatz in Geld ohne Fristsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024403377)
 
 (1) Soweit die Herstellung nicht möglich oder zur Entschädigung des
 Gläubigers nicht genügend ist, hat der Ersatzpflichtige den Gläubiger
@@ -3800,6 +4094,7 @@ dessen Wert erheblich übersteigen.
 
 
 ##### § 252 Entgangener Gewinn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024502377)
 
 Der zu ersetzende Schaden umfasst auch den entgangenen Gewinn. Als
 entgangen gilt der Gewinn, welcher nach dem gewöhnlichen Lauf der
@@ -3809,6 +4104,7 @@ erwartet werden konnte.
 
 
 ##### § 253 Immaterieller Schaden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024603301)
 
 (1) Wegen eines Schadens, der nicht Vermögensschaden ist, kann
 Entschädigung in Geld nur in den durch das Gesetz bestimmten Fällen
@@ -3821,6 +4117,7 @@ eine billige Entschädigung in Geld gefordert werden.
 
 
 ##### § 254 Mitverschulden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024702377)
 
 (1) Hat bei der Entstehung des Schadens ein Verschulden des
 Beschädigten mitgewirkt, so hängt die Verpflichtung zum Ersatz sowie
@@ -3837,6 +4134,7 @@ findet entsprechende Anwendung.
 
 
 ##### § 255 Abtretung der Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024802377)
 
 Wer für den Verlust einer Sache oder eines Rechts Schadensersatz zu
 leisten hat, ist zum Ersatz nur gegen Abtretung der Ansprüche
@@ -3845,6 +4143,7 @@ der Sache oder auf Grund des Rechts gegen Dritte zustehen.
 
 
 ##### § 256 Verzinsung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE024902377)
 
 Wer zum Ersatz von Aufwendungen verpflichtet ist, hat den
 aufgewendeten Betrag oder, wenn andere Gegenstände als Geld
@@ -3857,6 +4156,7 @@ Vergütung verbleiben, nicht zu entrichten.
 
 
 ##### § 257 Befreiungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025002377)
 
 Wer berechtigt ist, Ersatz für Aufwendungen zu verlangen, die er für
 einen bestimmten Zweck macht, kann, wenn er für diesen Zweck eine
@@ -3866,6 +4166,7 @@ Ersatzpflichtige, statt ihn zu befreien, Sicherheit leisten.
 
 
 ##### § 258 Wegnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025102377)
 
 Wer berechtigt ist, von einer Sache, die er einem anderen
 herauszugeben hat, eine Einrichtung wegzunehmen, hat im Falle der
@@ -3877,6 +4178,7 @@ Sicherheit geleistet wird.
 
 
 ##### § 259 Umfang der Rechenschaftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025202377)
 
 (1) Wer verpflichtet ist, über eine mit Einnahmen oder Ausgaben
 verbundene Verwaltung Rechenschaft abzulegen, hat dem Berechtigten
@@ -3895,6 +4197,7 @@ Verpflichtung zur Abgabe der eidesstattlichen Versicherung nicht.
 
 
 ##### § 260 Pflichten bei Herausgabe oder Auskunft über Inbegriff von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025302377)
 
 (1) Wer verpflichtet ist, einen Inbegriff von Gegenständen
 herauszugeben oder über den Bestand eines solchen Inbegriffs Auskunft
@@ -3911,6 +4214,7 @@ als er dazu imstande sei.
 
 
 ##### § 261 Änderung der eidesstattlichen Versicherung; Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025403140)
 
 (1) Das Gericht kann eine den Umständen entsprechende Änderung der
 eidesstattlichen Versicherung beschließen.
@@ -3920,6 +4224,7 @@ derjenige zu tragen, welcher die Abgabe der Versicherung verlangt.
 
 
 ##### § 262 Wahlschuld; Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025502377)
 
 Werden mehrere Leistungen in der Weise geschuldet, dass nur die eine
 oder die andere zu bewirken ist, so steht das Wahlrecht im Zweifel dem
@@ -3927,6 +4232,7 @@ Schuldner zu.
 
 
 ##### § 263 Ausübung des Wahlrechts; Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025602377)
 
 (1) Die Wahl erfolgt durch Erklärung gegenüber dem anderen Teil.
 
@@ -3935,6 +4241,7 @@ geschuldete.
 
 
 ##### § 264 Verzug des Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025702377)
 
 (1) Nimmt der wahlberechtigte Schuldner die Wahl nicht vor dem Beginn
 der Zwangsvollstreckung vor, so kann der Gläubiger die
@@ -3951,6 +4258,7 @@ vornimmt.
 
 
 ##### § 265 Unmöglichkeit bei Wahlschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025802377)
 
 Ist eine der Leistungen von Anfang an unmöglich oder wird sie später
 unmöglich, so beschränkt sich das Schuldverhältnis auf die übrigen
@@ -3960,11 +4268,13 @@ Teil zu vertreten hat.
 
 
 ##### § 266 Teilleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE025902377)
 
 Der Schuldner ist zu Teilleistungen nicht berechtigt.
 
 
 ##### § 267 Leistung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026002377)
 
 (1) Hat der Schuldner nicht in Person zu leisten, so kann auch ein
 Dritter die Leistung bewirken. Die Einwilligung des Schuldners ist
@@ -3975,6 +4285,7 @@ widerspricht.
 
 
 ##### § 268 Ablösungsrecht des Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026102377)
 
 (1) Betreibt der Gläubiger die Zwangsvollstreckung in einen dem
 Schuldner gehörenden Gegenstand, so ist jeder, der Gefahr läuft, durch
@@ -3992,6 +4303,7 @@ gemacht werden.
 
 
 ##### § 269 Leistungsort
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026202377)
 
 (1) Ist ein Ort für die Leistung weder bestimmt noch aus den
 Umständen, insbesondere aus der Natur des Schuldverhältnisses, zu
@@ -4010,6 +4322,7 @@ welchem die Versendung zu erfolgen hat, der Leistungsort sein soll.
 
 
 ##### § 270 Zahlungsort
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026302377)
 
 (1) Geld hat der Schuldner im Zweifel auf seine Gefahr und seine
 Kosten dem Gläubiger an dessen Wohnsitz zu übermitteln.
@@ -4029,6 +4342,7 @@ Mehrkosten, im letzteren Falle die Gefahr zu tragen.
 
 
 ##### § 270a Vereinbarungen über Entgelte für die Nutzung bargeldloser Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278900123)
 
 Eine Vereinbarung, durch die der Schuldner verpflichtet wird, ein
 Entgelt für die Nutzung einer SEPA-Basislastschrift, einer SEPA-
@@ -4042,6 +4356,7 @@ anwendbar ist.
 
 
 ##### § 271 Leistungszeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026402377)
 
 (1) Ist eine Zeit für die Leistung weder bestimmt noch aus den
 Umständen zu entnehmen, so kann der Gläubiger die Leistung sofort
@@ -4053,6 +4368,7 @@ aber sie vorher bewirken kann.
 
 
 ##### § 271a Vereinbarungen über Zahlungs-, Überprüfungs- oder Abnahmefristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274001123)
 
 (1) Eine Vereinbarung, nach der der Gläubiger die Erfüllung einer
 Entgeltforderung erst nach mehr als 60 Tagen nach Empfang der
@@ -4115,12 +4431,14 @@ Abnahmefristen ergeben, unberührt.
 
 
 ##### § 272 Zwischenzinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026502377)
 
 Bezahlt der Schuldner eine unverzinsliche Schuld vor der Fälligkeit,
 so ist er zu einem Abzug wegen der Zwischenzinsen nicht berechtigt.
 
 
 ##### § 273 Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026602377)
 
 (1) Hat der Schuldner aus demselben rechtlichen Verhältnis, auf dem
 seine Verpflichtung beruht, einen fälligen Anspruch gegen den
@@ -4140,6 +4458,7 @@ ausgeschlossen.
 
 
 ##### § 274 Wirkungen des Zurückbehaltungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026702377)
 
 (1) Gegenüber der Klage des Gläubigers hat die Geltendmachung des
 Zurückbehaltungsrechts nur die Wirkung, dass der Schuldner zur
@@ -4153,6 +4472,7 @@ Annahme ist.
 
 
 ##### § 275 Ausschluss der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026802377)
 
 [^BJNR001950896BJNE026802377]
 
@@ -4182,6 +4502,7 @@ Leistungsinteresse des Gläubigers nicht zugemutet werden kann.
 
 
 ##### § 276 Verantwortlichkeit des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE026902377)
 
 (1) Der Schuldner hat Vorsatz und Fahrlässigkeit zu vertreten, wenn
 eine strengere oder mildere Haftung weder bestimmt noch aus dem
@@ -4198,6 +4519,7 @@ erlassen werden.
 
 
 ##### § 277 Sorgfalt in eigenen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027002377)
 
 Wer nur für diejenige Sorgfalt einzustehen hat, welche er in eigenen
 Angelegenheiten anzuwenden pflegt, ist von der Haftung wegen grober
@@ -4205,6 +4527,7 @@ Fahrlässigkeit nicht befreit.
 
 
 ##### § 278 Verantwortlichkeit des Schuldners für Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027102377)
 
 Der Schuldner hat ein Verschulden seines gesetzlichen Vertreters und
 der Personen, deren er sich zur Erfüllung seiner Verbindlichkeit
@@ -4213,11 +4536,13 @@ Vorschrift des § 276 Abs. 3 findet keine Anwendung.
 
 
 ##### § 279
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027202377)
 
 (weggefallen)
 
 
 ##### § 280 Schadensersatz wegen Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027302377)
 
 (1) Verletzt der Schuldner eine Pflicht aus dem Schuldverhältnis, so
 kann der Gläubiger Ersatz des hierdurch entstehenden Schadens
@@ -4233,6 +4558,7 @@ verlangen.
 
 
 ##### § 281 Schadensersatz statt der Leistung wegen nicht oder nicht wie geschuldet erbrachter Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027402377)
 
 (1) Soweit der Schuldner die fällige Leistung nicht oder nicht wie
 geschuldet erbringt, kann der Gläubiger unter den Voraussetzungen des
@@ -4262,6 +4588,7 @@ bis 348 berechtigt.
 
 
 ##### § 282 Schadensersatz statt der Leistung wegen Verletzung einer Pflicht nach § 241 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027502377)
 
 Verletzt der Schuldner eine Pflicht nach § 241 Abs. 2, kann der
 Gläubiger unter den Voraussetzungen des § 280 Abs. 1 Schadensersatz
@@ -4270,6 +4597,7 @@ Schuldner nicht mehr zuzumuten ist.
 
 
 ##### § 283 Schadensersatz statt der Leistung bei Ausschluss der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027602377)
 
 Braucht der Schuldner nach § 275 Abs. 1 bis 3 nicht zu leisten, kann
 der Gläubiger unter den Voraussetzungen des § 280 Abs. 1
@@ -4278,6 +4606,7 @@ und Abs. 5 findet entsprechende Anwendung.
 
 
 ##### § 284 Ersatz vergeblicher Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027703377)
 
 Anstelle des Schadensersatzes statt der Leistung kann der Gläubiger
 Ersatz der Aufwendungen verlangen, die er im Vertrauen auf den Erhalt
@@ -4287,6 +4616,7 @@ erreicht worden.
 
 
 ##### § 285 Herausgabe des Ersatzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027802377)
 
 (1) Erlangt der Schuldner infolge des Umstands, auf Grund dessen er
 die Leistung nach § 275 Abs. 1 bis 3 nicht zu erbringen braucht, für
@@ -4301,6 +4631,7 @@ Ersatzanspruchs.
 
 
 ##### § 286 Verzug des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE027903360)
 
 [^BJNR001950896BJNE027902377_BJNR001950896BJNE027903360]
 
@@ -4352,6 +4683,7 @@ den Eintritt des Verzugs gilt § 271a Absatz 1 bis 5 entsprechend.
 
 
 ##### § 287 Verantwortlichkeit während des Verzugs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028002377)
 
 Der Schuldner hat während des Verzugs jede Fahrlässigkeit zu
 vertreten. Er haftet wegen der Leistung auch für Zufall, es sei denn,
@@ -4360,6 +4692,7 @@ würde.
 
 
 ##### § 288 Verzugszinsen und sonstiger Verzugsschaden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028104360)
 
 [^BJNR001950896BJNE028103377_BJNR001950896BJNE028104360]
 
@@ -4405,6 +4738,7 @@ Anspruch gegen einen Verbraucher richtet.
 
 
 ##### § 289 Zinseszinsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028202377)
 
 Von Zinsen sind Verzugszinsen nicht zu entrichten. Das Recht des
 Gläubigers auf Ersatz des durch den Verzug entstehenden Schadens
@@ -4412,6 +4746,7 @@ bleibt unberührt.
 
 
 ##### § 290 Verzinsung des Wertersatzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028302377)
 
 Ist der Schuldner zum Ersatz des Wertes eines Gegenstands
 verpflichtet, der während des Verzugs untergegangen ist oder aus einem
@@ -4424,6 +4759,7 @@ Gegenstands verpflichtet ist.
 
 
 ##### § 291 Prozesszinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028402377)
 
 Eine Geldschuld hat der Schuldner von dem Eintritt der
 Rechtshängigkeit an zu verzinsen, auch wenn er nicht im Verzug ist;
@@ -4433,6 +4769,7 @@ und des § 289 Satz 1 finden entsprechende Anwendung.
 
 
 ##### § 292 Haftung bei Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028502377)
 
 (1) Hat der Schuldner einen bestimmten Gegenstand herauszugeben, so
 bestimmt sich von dem Eintritt der Rechtshängigkeit an der Anspruch
@@ -4450,22 +4787,26 @@ Ersatz von Verwendungen.
 
 
 #### Titel 2 - Verzug des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002502377)
 
 
 
 ##### § 293 Annahmeverzug
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028602377)
 
 Der Gläubiger kommt in Verzug, wenn er die ihm angebotene Leistung
 nicht annimmt.
 
 
 ##### § 294 Tatsächliches Angebot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028702377)
 
 Die Leistung muss dem Gläubiger so, wie sie zu bewirken ist,
 tatsächlich angeboten werden.
 
 
 ##### § 295 Wörtliches Angebot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028802377)
 
 Ein wörtliches Angebot des Schuldners genügt, wenn der Gläubiger ihm
 erklärt hat, dass er die Leistung nicht annehmen werde, oder wenn zur
@@ -4476,6 +4817,7 @@ gleich, die erforderliche Handlung vorzunehmen.
 
 
 ##### § 296 Entbehrlichkeit des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE028902377)
 
 Ist für die von dem Gläubiger vorzunehmende Handlung eine Zeit nach
 dem Kalender bestimmt, so bedarf es des Angebots nur, wenn der
@@ -4486,6 +4828,7 @@ Ereignis an nach dem Kalender berechnen lässt.
 
 
 ##### § 297 Unvermögen des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029002377)
 
 Der Gläubiger kommt nicht in Verzug, wenn der Schuldner zur Zeit des
 Angebots oder im Falle des § 296 zu der für die Handlung des
@@ -4493,6 +4836,7 @@ Gläubigers bestimmten Zeit außerstande ist, die Leistung zu bewirken.
 
 
 ##### § 298 Zug-um-Zug-Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029102377)
 
 Ist der Schuldner nur gegen eine Leistung des Gläubigers zu leisten
 verpflichtet, so kommt der Gläubiger in Verzug, wenn er zwar die
@@ -4501,6 +4845,7 @@ aber nicht anbietet.
 
 
 ##### § 299 Vorübergehende Annahmeverhinderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029202377)
 
 Ist die Leistungszeit nicht bestimmt oder ist der Schuldner
 berechtigt, vor der bestimmten Zeit zu leisten, so kommt der Gläubiger
@@ -4510,6 +4855,7 @@ ihm die Leistung eine angemessene Zeit vorher angekündigt hat.
 
 
 ##### § 300 Wirkungen des Gläubigerverzugs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029302377)
 
 (1) Der Schuldner hat während des Verzugs des Gläubigers nur Vorsatz
 und grobe Fahrlässigkeit zu vertreten.
@@ -4520,12 +4866,14 @@ dadurch in Verzug kommt, dass er die angebotene Sache nicht annimmt.
 
 
 ##### § 301 Wegfall der Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029402377)
 
 Von einer verzinslichen Geldschuld hat der Schuldner während des
 Verzugs des Gläubigers Zinsen nicht zu entrichten.
 
 
 ##### § 302 Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029502377)
 
 Hat der Schuldner die Nutzungen eines Gegenstands herauszugeben oder
 zu ersetzen, so beschränkt sich seine Verpflichtung während des
@@ -4533,6 +4881,7 @@ Verzugs des Gläubigers auf die Nutzungen, welche er zieht.
 
 
 ##### § 303 Recht zur Besitzaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029602377)
 
 Ist der Schuldner zur Herausgabe eines Grundstücks oder eines
 eingetragenen Schiffs oder Schiffsbauwerks verpflichtet, so kann er
@@ -4542,6 +4891,7 @@ die Androhung untunlich ist.
 
 
 ##### § 304 Ersatz von Mehraufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE029702377)
 
 Der Schuldner kann im Falle des Verzugs des Gläubigers Ersatz der
 Mehraufwendungen verlangen, die er für das erfolglose Angebot sowie
@@ -4550,6 +4900,7 @@ musste.
 
 
 ### Abschnitt 2 - Gestaltung rechtsgeschäftlicher Schuldverhältnisse durch Allgemeine Geschäftsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023401377)
 
 [^BJNR001950896BJNG023401377_001]:     **Amtlicher Hinweis:** Dieser Abschnitt dient auch der Umsetzung der
     Richtlinie 93/13/EWG des Rates vom 5. April 1993 über missbräuchliche
@@ -4557,6 +4908,7 @@ musste.
 
 
 #### § 305 Einbeziehung Allgemeiner Geschäftsbedingungen in den Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259501377)
 
 (1) Allgemeine Geschäftsbedingungen sind alle für eine Vielzahl von
 Verträgen vorformulierten Vertragsbedingungen, die eine Vertragspartei
@@ -4595,6 +4947,7 @@ Erfordernisse im Voraus vereinbaren.
 
 
 #### § 305a Einbeziehung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259602377)
 
 Auch ohne Einhaltung der in § 305 Abs. 2 Nr. 1 und 2 bezeichneten
 Erfordernisse werden einbezogen, wenn die andere Vertragspartei mit
@@ -4633,12 +4986,14 @@ ihrer Geltung einverstanden ist,
 
 
 #### § 305b Vorrang der Individualabrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259701377)
 
 Individuelle Vertragsabreden haben Vorrang vor Allgemeinen
 Geschäftsbedingungen.
 
 
 #### § 305c Überraschende und mehrdeutige Klauseln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259801377)
 
 (1) Bestimmungen in Allgemeinen Geschäftsbedingungen, die nach den
 Umständen, insbesondere nach dem äußeren Erscheinungsbild des
@@ -4651,6 +5006,7 @@ zu Lasten des Verwenders.
 
 
 #### § 306 Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE259901377)
 
 (1) Sind Allgemeine Geschäftsbedingungen ganz oder teilweise nicht
 Vertragsbestandteil geworden oder unwirksam, so bleibt der Vertrag im
@@ -4666,12 +5022,14 @@ unzumutbare Härte für eine Vertragspartei darstellen würde.
 
 
 #### § 306a Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260001377)
 
 Die Vorschriften dieses Abschnitts finden auch Anwendung, wenn sie
 durch anderweitige Gestaltungen umgangen werden.
 
 
 #### § 307 Inhaltskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260101377)
 
 (1) Bestimmungen in Allgemeinen Geschäftsbedingungen sind unwirksam,
 wenn sie den Vertragspartner des Verwenders entgegen den Geboten von
@@ -4701,6 +5059,7 @@ Verbindung mit Absatz 1 Satz 1 unwirksam sein.
 
 
 #### § 308 Klauselverbote mit Wertungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260206360)
 
 In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam
 
@@ -4849,6 +5208,7 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam
 
 
 #### § 309 Klauselverbote ohne Wertungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260310360)
 
 Auch soweit eine Abweichung von den gesetzlichen Vorschriften zulässig
 ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
@@ -5150,6 +5510,7 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
 
 
 #### § 310 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260406360)
 
 (1) § 305 Absatz 2 und 3, § 308 Nummer 1, 2 bis 9 und § 309 finden
 keine Anwendung auf Allgemeine Geschäftsbedingungen, die gegenüber
@@ -5298,18 +5659,22 @@ Rechtsvorschriften im Sinne von § 307 Abs. 3 gleich.
 
 
 ### Abschnitt 3 - Schuldverhältnisse aus Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002602377)
 
 
 
 #### Titel 1 - Begründung, Inhalt und Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002702377)
 
 
 
 ##### Untertitel 1 - Begründung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023501377)
 
 
 
 ###### § 311 Rechtsgeschäftliche und rechtsgeschäftsähnliche Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260501377)
 
 (1) Zur Begründung eines Schuldverhältnisses durch Rechtsgeschäft
 sowie zur Änderung des Inhalts eines Schuldverhältnisses ist ein
@@ -5341,6 +5706,7 @@ Vertragsverhandlungen oder den Vertragsschluss erheblich beeinflusst.
 
 
 ###### § 311a Leistungshindernis bei Vertragsschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260601377)
 
 (1) Der Wirksamkeit eines Vertrags steht es nicht entgegen, dass der
 Schuldner nach § 275 Abs. 1 bis 3 nicht zu leisten braucht und das
@@ -5355,6 +5721,7 @@ Abs. 5 findet entsprechende Anwendung.
 
 
 ###### § 311b Verträge über Grundstücke, das Vermögen und den Nachlass
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260701377)
 
 (1) Ein Vertrag, durch den sich der eine Teil verpflichtet, das
 Eigentum an einem Grundstück zu übertragen oder zu erwerben, bedarf
@@ -5382,6 +5749,7 @@ notariellen Beurkundung.
 
 
 ###### § 311c Erstreckung auf Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260801377)
 
 Verpflichtet sich jemand zur Veräußerung oder Belastung einer Sache,
 so erstreckt sich diese Verpflichtung im Zweifel auch auf das Zubehör
@@ -5389,12 +5757,15 @@ der Sache.
 
 
 ##### Untertitel 2 - Grundsätze bei Verbraucherverträgen und besondere Vertriebsformen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023602360)
 
 
 ###### Kapitel 1 - Anwendungsbereich und Grundsätze bei Verbraucherverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027100360)
 
 
 ###### § 312 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE260908360)
 
 (1) Die Vorschriften der Kapitel 1 und 2 dieses Untertitels sind auf
 Verbraucherverträge anzuwenden, bei denen sich der Verbraucher zu der
@@ -5558,6 +5929,7 @@ Vorschriften der Kapitel 1 und 2 dieses Untertitels nur § 312a Absatz
 
 
 ###### § 312a Allgemeine Pflichten und Grundsätze bei Verbraucherverträgen; Grenzen der Vereinbarung von Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261005360)
 
 (1) Ruft der Unternehmer oder eine Person, die in seinem Namen oder
 Auftrag handelt, den Verbraucher an, um mit diesem einen Vertrag zu
@@ -5618,9 +5990,11 @@ Vertrag im Übrigen wirksam.
 
 
 ###### Kapitel 2 - Außerhalb von Geschäftsräumen geschlossene Verträge und Fernabsatzverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027200360)
 
 
 ###### § 312b Außerhalb von Geschäftsräumen geschlossene Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261104360)
 
 (1) Außerhalb von Geschäftsräumen geschlossene Verträge sind Verträge,
 
@@ -5660,6 +6034,7 @@ gleich.
 
 
 ###### § 312c Fernabsatzverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261205360)
 
 (1) Fernabsatzverträge sind Verträge, bei denen der Unternehmer oder
 eine in seinem Namen oder Auftrag handelnde Person und der Verbraucher
@@ -5678,6 +6053,7 @@ versendete Nachrichten (SMS) sowie Rundfunk und digitale Dienste nach
 
 
 ###### § 312d Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261309360)
 
 (1) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei
 Fernabsatzverträgen ist der Unternehmer verpflichtet, den Verbraucher
@@ -5695,6 +6071,7 @@ informieren.
 
 
 ###### § 312e Verletzung von Informationspflichten über Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271002360)
 
 Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder
 Versandkosten und sonstige Kosten nur verlangen, soweit er den
@@ -5705,6 +6082,7 @@ informiert hat.
 
 
 ###### § 312f Abschriften und Bestätigungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271102360)
 
 (1) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen ist der
 Unternehmer verpflichtet, dem Verbraucher alsbald auf Papier zur
@@ -5762,6 +6140,7 @@ Finanzdienstleistungen.
 
 
 ###### § 312g Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261407123)
 
 (1) Dem Verbraucher steht bei außerhalb von Geschäftsräumen
 geschlossenen Verträgen und bei Fernabsatzverträgen ein Widerrufsrecht
@@ -5865,6 +6244,7 @@ Widerrufsrecht zusteht.
 
 
 ###### § 312h Kündigung und Vollmacht zur Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268602360)
 
 Wird zwischen einem Unternehmer und einem Verbraucher nach diesem
 Untertitel ein Dauerschuldverhältnis begründet, das ein zwischen dem
@@ -5889,9 +6269,11 @@ der Textform.
 
 
 ###### Kapitel 3 - Verträge im elektronischen Geschäftsverkehr; Online-Marktplätze
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027301360)
 
 
 ###### § 312i Allgemeine Pflichten im elektronischen Geschäftsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261505360)
 
 (1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines
 Vertrags über die Lieferung von Waren oder über die Erbringung von
@@ -5934,6 +6316,7 @@ bleiben unberührt.
 
 
 ###### § 312j Besondere Pflichten im elektronischen Geschäftsverkehr gegenüber Verbrauchern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273201360)
 
 (1) Auf Webseiten für den elektronischen Geschäftsverkehr mit
 Verbrauchern hat der Unternehmer zusätzlich zu den Angaben nach § 312i
@@ -5969,6 +6352,7 @@ Finanzdienstleistungen.
 
 
 ###### § 312k Kündigung von Verbraucherverträgen im elektronischen Geschäftsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE289500360)
 
 (1) Wird Verbrauchern über eine Webseite ermöglicht, einen Vertrag im
 elektronischen Geschäftsverkehr zu schließen, der auf die Begründung
@@ -6055,6 +6439,7 @@ Verbrauchers zur außerordentlichen Kündigung bleibt hiervon unberührt.
 
 
 ###### § 312l Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE289301360)
 
 (1) Der Betreiber eines Online-Marktplatzes ist verpflichtet, den
 Verbraucher nach Maßgabe des Artikels 246d des Einführungsgesetzes zum
@@ -6074,9 +6459,11 @@ Online-Marktplatz für Verbraucher zur Verfügung stellt.
 
 
 ###### Kapitel 4 - Abweichende Vereinbarungen und Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027402360)
 
 
 ###### § 312m Abweichende Vereinbarungen und Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273302360)
 
 (1) Von den Vorschriften dieses Untertitels darf, soweit nichts
 anderes bestimmt ist, nicht zum Nachteil des Verbrauchers oder Kunden
@@ -6090,10 +6477,12 @@ Informationspflichten.
 
 
 ##### Untertitel 3 - Anpassung und Beendigung von Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023701377)
 
 
 
 ###### § 313 Störung der Geschäftsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261601377)
 
 (1) Haben sich Umstände, die zur Grundlage des Vertrags geworden sind,
 nach Vertragsschluss schwerwiegend verändert und hätten die Parteien
@@ -6115,6 +6504,7 @@ Dauerschuldverhältnisse das Recht zur Kündigung.
 
 
 ###### § 314 Kündigung von Dauerschuldverhältnissen aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261702360)
 
 (1) Dauerschuldverhältnisse kann jeder Vertragsteil aus wichtigem
 Grund ohne Einhaltung einer Kündigungsfrist kündigen. Ein wichtiger
@@ -6142,10 +6532,12 @@ Kündigung nicht ausgeschlossen.
 
 
 ##### Untertitel 4 - Einseitige Leistungsbestimmungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023801377)
 
 
 
 ###### § 315 Bestimmung der Leistung durch eine Partei
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE030802377)
 
 (1) Soll die Leistung durch einen der Vertragschließenden bestimmt
 werden, so ist im Zweifel anzunehmen, dass die Bestimmung nach
@@ -6161,6 +6553,7 @@ Bestimmung verzögert wird.
 
 
 ###### § 316 Bestimmung der Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE030902377)
 
 Ist der Umfang der für eine Leistung versprochenen Gegenleistung nicht
 bestimmt, so steht die Bestimmung im Zweifel demjenigen Teil zu,
@@ -6168,6 +6561,7 @@ welcher die Gegenleistung zu fordern hat.
 
 
 ###### § 317 Bestimmung der Leistung durch einen Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031002377)
 
 (1) Ist die Bestimmung der Leistung einem Dritten überlassen, so ist
 im Zweifel anzunehmen, dass sie nach billigem Ermessen zu treffen ist.
@@ -6179,6 +6573,7 @@ die Durchschnittssumme maßgebend.
 
 
 ###### § 318 Anfechtung der Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031102377)
 
 (1) Die einem Dritten überlassene Bestimmung der Leistung erfolgt
 durch Erklärung gegenüber einem der Vertragschließenden.
@@ -6192,6 +6587,7 @@ Jahre verstrichen sind, nachdem die Bestimmung getroffen worden ist.
 
 
 ###### § 319 Unwirksamkeit der Bestimmung; Ersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031202377)
 
 (1) Soll der Dritte die Leistung nach billigem Ermessen bestimmen, so
 ist die getroffene Bestimmung für die Vertragschließenden nicht
@@ -6205,10 +6601,12 @@ treffen kann oder will oder wenn er sie verzögert.
 
 
 #### Titel 2 - Gegenseitiger Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002802377)
 
 
 
 ##### § 320 Einrede des nicht erfüllten Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031302377)
 
 (1) Wer aus einem gegenseitigen Vertrag verpflichtet ist, kann die ihm
 obliegende Leistung bis zur Bewirkung der Gegenleistung verweigern, es
@@ -6225,6 +6623,7 @@ verstoßen würde.
 
 
 ##### § 321 Unsicherheitseinrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031402377)
 
 (1) Wer aus einem gegenseitigen Vertrag vorzuleisten verpflichtet ist,
 kann die ihm obliegende Leistung verweigern, wenn nach Abschluss des
@@ -6241,6 +6640,7 @@ Vertrag zurücktreten. § 323 findet entsprechende Anwendung.
 
 
 ##### § 322 Verurteilung zur Leistung Zug-um-Zug
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031502377)
 
 (1) Erhebt aus einem gegenseitigen Vertrag der eine Teil Klage auf die
 ihm geschuldete Leistung, so hat die Geltendmachung des dem anderen
@@ -6257,6 +6657,7 @@ Anwendung.
 
 
 ##### § 323 Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031603360)
 
 [^BJNR001950896BJNE031602377_BJNR001950896BJNE031603360]
 
@@ -6311,6 +6712,7 @@ im Verzug der Annahme ist.
 
 
 ##### § 324 Rücktritt wegen Verletzung einer Pflicht nach § 241 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031702377)
 
 Verletzt der Schuldner bei einem gegenseitigen Vertrag eine Pflicht
 nach § 241 Abs. 2, so kann der Gläubiger zurücktreten, wenn ihm ein
@@ -6318,12 +6720,14 @@ Festhalten am Vertrag nicht mehr zuzumuten ist.
 
 
 ##### § 325 Schadensersatz und Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031802377)
 
 Das Recht, bei einem gegenseitigen Vertrag Schadensersatz zu
 verlangen, wird durch den Rücktritt nicht ausgeschlossen.
 
 
 ##### § 326 Befreiung von der Gegenleistung und Rücktritt beim Ausschluss der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE031902377)
 
 [^BJNR001950896BJNE031902377]
 
@@ -6366,14 +6770,17 @@ ist.
 
 
 #### Titel 2a - Verträge über digitale Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031100360)
 
 
 
 ##### Untertitel 1 - Verbraucherverträge über digitale Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031200360)
 
 
 
 ###### § 327 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032003360)
 
 (1) Die Vorschriften dieses Untertitels sind auf Verbraucherverträge
 anzuwenden, welche die Bereitstellung digitaler Inhalte oder digitaler
@@ -6465,6 +6872,7 @@ Träger digitaler Inhalte dienen, zum Gegenstand haben.
 
 
 ###### § 327a Anwendung auf Paketverträge und Verträge über Sachen mit digitalen Elementen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283600360)
 
 (1) Die Vorschriften dieses Untertitels sind auch auf
 Verbraucherverträge anzuwenden, die in einem Vertrag zwischen
@@ -6492,6 +6900,7 @@ Dienstleistungen umfasst.
 
 
 ###### § 327b Bereitstellung digitaler Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283700360)
 
 (1) Ist der Unternehmer durch einen Verbrauchervertrag gemäß § 327
 oder § 327a dazu verpflichtet, dem Verbraucher ein digitales Produkt
@@ -6523,6 +6932,7 @@ Bereitstellung trifft abweichend von § 363 den Unternehmer.
 
 
 ###### § 327c Rechte bei unterbliebener Bereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283800360)
 
 (1) Kommt der Unternehmer seiner fälligen Verpflichtung zur
 Bereitstellung des digitalen Produkts auf Aufforderung des
@@ -6586,6 +6996,7 @@ gewöhnlichen Verwendung eignet.
 
 
 ###### § 327d Vertragsmäßigkeit digitaler Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283900360)
 
 Ist der Unternehmer durch einen Verbrauchervertrag gemäß § 327 oder §
 327a zur Bereitstellung eines digitalen Produkts verpflichtet, so hat
@@ -6594,6 +7005,7 @@ der §§ 327e bis 327g bereitzustellen.
 
 
 ###### § 327e Produktmangel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284000360)
 
 (1) Das digitale Produkt ist frei von Produktmängeln, wenn es zur
 maßgeblichen Zeit nach den Vorschriften dieses Untertitels den
@@ -6708,6 +7120,7 @@ Produkt bereitstellt.
 
 
 ###### § 327f Aktualisierungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284100360)
 
 (1) Der Unternehmer hat sicherzustellen, dass dem Verbraucher während
 des maßgeblichen Zeitraums Aktualisierungen, die für den Erhalt der
@@ -6747,6 +7160,7 @@ zurückzuführen ist, sofern
 
 
 ###### § 327g Rechtsmangel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284200360)
 
 Das digitale Produkt ist frei von Rechtsmängeln, wenn der Verbraucher
 es gemäß den subjektiven oder objektiven Anforderungen nach § 327e
@@ -6754,6 +7168,7 @@ Absatz 2 und 3 nutzen kann, ohne Rechte Dritter zu verletzen.
 
 
 ###### § 327h Abweichende Vereinbarungen über Produktmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284300360)
 
 Von den objektiven Anforderungen nach § 327e Absatz 3 Satz 1 Nummer 1
 bis 5 und Satz 2, § 327f Absatz 1 und § 327g kann nur abgewichen
@@ -6765,6 +7180,7 @@ wurde.
 
 
 ###### § 327i Rechte des Verbrauchers bei Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284400360)
 
 Ist das digitale Produkt mangelhaft, kann der Verbraucher, wenn die
 Voraussetzungen der folgenden Vorschriften vorliegen,
@@ -6784,6 +7200,7 @@ Voraussetzungen der folgenden Vorschriften vorliegen,
 
 
 ###### § 327j Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284500360)
 
 (1) Die in § 327i Nummer 1 und 3 bezeichneten Ansprüche verjähren in
 zwei Jahren. Die Verjährung beginnt mit der Bereitstellung.
@@ -6805,6 +7222,7 @@ entsprechend.
 
 
 ###### § 327k Beweislastumkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284600360)
 
 (1) Zeigt sich bei einem digitalen Produkt innerhalb eines Jahres seit
 seiner Bereitstellung ein von den Anforderungen nach § 327e oder §
@@ -6848,6 +7266,7 @@ vor Vertragsschluss klar und verständlich informiert hat über
 
 
 ###### § 327l Nacherfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284700360)
 
 (1) Verlangt der Verbraucher vom Unternehmer Nacherfüllung, so hat
 dieser den vertragsgemäßen Zustand herzustellen und die zum Zwecke der
@@ -6866,6 +7285,7 @@ keine Anwendung.
 
 
 ###### § 327m Vertragsbeendigung und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284800360)
 
 (1) Ist das digitale Produkt mangelhaft, so kann der Verbraucher den
 Vertrag gemäß § 327o beenden, wenn
@@ -6923,6 +7343,7 @@ eignet.
 
 
 ###### § 327n Minderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE284900360)
 
 (1) Statt den Vertrag nach § 327m Absatz 1 zu beenden, kann der
 Verbraucher den Preis durch Erklärung gegenüber dem Unternehmer
@@ -6954,6 +7375,7 @@ Erstattung des Mehrbetrags entstehen.
 
 
 ###### § 327o Erklärung und Rechtsfolgen der Vertragsbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285000360)
 
 (1) Die Beendigung des Vertrags erfolgt durch Erklärung gegenüber dem
 Unternehmer, in welcher der Entschluss des Verbrauchers zur Beendigung
@@ -6984,6 +7406,7 @@ Rücksendung. § 348 ist entsprechend anzuwenden.
 
 
 ###### § 327p Weitere Nutzung nach Vertragsbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285100360)
 
 (1) Der Verbraucher darf das digitale Produkt nach Vertragsbeendigung
 weder weiter nutzen noch Dritten zur Verfügung stellen. Der
@@ -7023,6 +7446,7 @@ maschinenlesbaren Format bereitgestellt werden.
 
 
 ###### § 327q Vertragsrechtliche Folgen datenschutzrechtlicher Erklärungen des Verbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285200360)
 
 (1) Die Ausübung von datenschutzrechtlichen Betroffenenrechten und die
 Abgabe datenschutzrechtlicher Erklärungen des Verbrauchers nach
@@ -7047,6 +7471,7 @@ zulässigen Datenverarbeitung sind ausgeschlossen.
 
 
 ###### § 327r Änderungen an digitalen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285300360)
 
 (1) Bei einer dauerhaften Bereitstellung darf der Unternehmer
 Änderungen des digitalen Produkts, die über das zur Aufrechterhaltung
@@ -7119,6 +7544,7 @@ Telekommunikationsgesetzes zum Gegenstand hat, nicht anzuwenden.
 
 
 ###### § 327s Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285400360)
 
 (1) Auf eine Vereinbarung mit dem Verbraucher, die zum Nachteil des
 Verbrauchers von den Vorschriften dieses Untertitels abweicht, kann
@@ -7144,10 +7570,12 @@ Beschränkung des Anspruchs auf Schadensersatz.
 
 
 ##### Untertitel 2 - Besondere Bestimmungen für Verträge über digitale Produkte zwischen Unternehmern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031300360)
 
 
 
 ###### § 327t Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285500360)
 
 Auf Verträge zwischen Unternehmern, die der Bereitstellung digitaler
 Produkte gemäß der nach den §§ 327 und 327a vom Anwendungsbereich des
@@ -7156,6 +7584,7 @@ Vorschriften dieses Untertitels anzuwenden.
 
 
 ###### § 327u Rückgriff des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285600360)
 
 (1) Der Unternehmer kann von dem Unternehmer, der sich ihm gegenüber
 zur Bereitstellung eines digitalen Produkts verpflichtet hat
@@ -7205,10 +7634,12 @@ Unternehmer sind.
 
 
 #### Titel 3 - Versprechen der Leistung an einen Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG002902377)
 
 
 
 ##### § 328 Vertrag zugunsten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032102377)
 
 (1) Durch Vertrag kann eine Leistung an einen Dritten mit der Wirkung
 bedungen werden, dass der Dritte unmittelbar das Recht erwirbt, die
@@ -7223,6 +7654,7 @@ Zustimmung aufzuheben oder zu ändern.
 
 
 ##### § 329 Auslegungsregel bei Erfüllungsübernahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032202377)
 
 Verpflichtet sich in einem Vertrag der eine Teil zur Befriedigung
 eines Gläubigers des anderen Teils, ohne die Schuld zu übernehmen, so
@@ -7231,6 +7663,7 @@ Recht erwerben soll, die Befriedigung von ihm zu fordern.
 
 
 ##### § 330 Auslegungsregel bei Leibrentenvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032303377)
 
 Wird in einem Leibrentenvertrag die Zahlung der Leibrente an einen
 Dritten vereinbart, ist im Zweifel anzunehmen, dass der Dritte
@@ -7242,6 +7675,7 @@ zum Zwecke der Abfindung versprochen wird.
 
 
 ##### § 331 Leistung nach Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032402377)
 
 (1) Soll die Leistung an den Dritten nach dem Tode desjenigen
 erfolgen, welchem sie versprochen wird, so erwirbt der Dritte das
@@ -7255,6 +7689,7 @@ worden ist.
 
 
 ##### § 332 Änderung durch Verfügung von Todes wegen bei Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032502377)
 
 Hat sich der Versprechensempfänger die Befugnis vorbehalten, ohne
 Zustimmung des Versprechenden an die Stelle des in dem Vertrag
@@ -7263,18 +7698,21 @@ auch in einer Verfügung von Todes wegen geschehen.
 
 
 ##### § 333 Zurückweisung des Rechts durch den Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032602377)
 
 Weist der Dritte das aus dem Vertrag erworbene Recht dem
 Versprechenden gegenüber zurück, so gilt das Recht als nicht erworben.
 
 
 ##### § 334 Einwendungen des Schuldners gegenüber dem Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032702377)
 
 Einwendungen aus dem Vertrag stehen dem Versprechenden auch gegenüber
 dem Dritten zu.
 
 
 ##### § 335 Forderungsrecht des Versprechensempfängers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032802377)
 
 Der Versprechensempfänger kann, sofern nicht ein anderer Wille der
 Vertragschließenden anzunehmen ist, die Leistung an den Dritten auch
@@ -7282,10 +7720,12 @@ dann fordern, wenn diesem das Recht auf die Leistung zusteht.
 
 
 #### Titel 4 - Draufgabe, Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003002377)
 
 
 
 ##### § 336 Auslegung der Draufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE032902377)
 
 (1) Wird bei der Eingehung eines Vertrags etwas als Draufgabe gegeben,
 so gilt dies als Zeichen des Abschlusses des Vertrags.
@@ -7294,6 +7734,7 @@ so gilt dies als Zeichen des Abschlusses des Vertrags.
 
 
 ##### § 337 Anrechnung oder Rückgabe der Draufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033002377)
 
 (1) Die Draufgabe ist im Zweifel auf die von dem Geber geschuldete
 Leistung anzurechnen oder, wenn dies nicht geschehen kann, bei der
@@ -7304,6 +7745,7 @@ zurückzugeben.
 
 
 ##### § 338 Draufgabe bei zu vertretender Unmöglichkeit der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033102377)
 
 Wird die von dem Geber geschuldete Leistung infolge eines Umstands,
 den er zu vertreten hat, unmöglich oder verschuldet der Geber die
@@ -7315,6 +7757,7 @@ zurückzugeben.
 
 
 ##### § 339 Verwirkung der Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033202377)
 
 Verspricht der Schuldner dem Gläubiger für den Fall, dass er seine
 Verbindlichkeit nicht oder nicht in gehöriger Weise erfüllt, die
@@ -7324,6 +7767,7 @@ Unterlassen, so tritt die Verwirkung mit der Zuwiderhandlung ein.
 
 
 ##### § 340 Strafversprechen für Nichterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033302377)
 
 (1) Hat der Schuldner die Strafe für den Fall versprochen, dass er
 seine Verbindlichkeit nicht erfüllt, so kann der Gläubiger die
@@ -7338,6 +7782,7 @@ nicht ausgeschlossen.
 
 
 ##### § 341 Strafversprechen für nicht gehörige Erfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033402377)
 
 (1) Hat der Schuldner die Strafe für den Fall versprochen, dass er
 seine Verbindlichkeit nicht in gehöriger Weise, insbesondere nicht zu
@@ -7353,6 +7798,7 @@ verlangen, wenn er sich das Recht dazu bei der Annahme vorbehält.
 
 
 ##### § 342 Andere als Geldstrafe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033502377)
 
 Wird als Strafe eine andere Leistung als die Zahlung einer Geldsumme
 versprochen, so finden die Vorschriften der §§ 339 bis 341 Anwendung;
@@ -7361,6 +7807,7 @@ die Strafe verlangt.
 
 
 ##### § 343 Herabsetzung der Strafe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033602377)
 
 (1) Ist eine verwirkte Strafe unverhältnismäßig hoch, so kann sie auf
 Antrag des Schuldners durch Urteil auf den angemessenen Betrag
@@ -7375,6 +7822,7 @@ vornimmt oder unterlässt.
 
 
 ##### § 344 Unwirksames Strafversprechen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033702377)
 
 Erklärt das Gesetz das Versprechen einer Leistung für unwirksam, so
 ist auch die für den Fall der Nichterfüllung des Versprechens
@@ -7383,6 +7831,7 @@ Parteien die Unwirksamkeit des Versprechens gekannt haben.
 
 
 ##### § 345 Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033802377)
 
 Bestreitet der Schuldner die Verwirkung der Strafe, weil er seine
 Verbindlichkeit erfüllt habe, so hat er die Erfüllung zu beweisen,
@@ -7390,10 +7839,12 @@ sofern nicht die geschuldete Leistung in einem Unterlassen besteht.
 
 
 #### Titel 5 - Rücktritt; Widerrufsrecht bei Verbraucherverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003103360)
 
 
 
 ##### Untertitel 1 - Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023901377)
 
 [^BJNR001950896BJNG023901377]
 
@@ -7404,6 +7855,7 @@ sofern nicht die geschuldete Leistung in einem Unterlassen besteht.
 
 
 ###### § 346 Wirkungen des Rücktritts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE033903377)
 
 (1) Hat sich eine Vertragspartei vertraglich den Rücktritt vorbehalten
 oder steht ihr ein gesetzliches Rücktrittsrecht zu, so sind im Falle
@@ -7456,6 +7908,7 @@ nach Maßgabe der §§ 280 bis 283 Schadensersatz verlangen.
 
 
 ###### § 347 Nutzungen und Verwendungen nach Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE034002377)
 
 (1) Zieht der Schuldner Nutzungen entgegen den Regeln einer
 ordnungsmäßigen Wirtschaft nicht, obwohl ihm das möglich gewesen wäre,
@@ -7472,6 +7925,7 @@ bereichert wird.
 
 
 ###### § 348 Erfüllung Zug-um-Zug
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE034102377)
 
 Die sich aus dem Rücktritt ergebenden Verpflichtungen der Parteien
 sind Zug um Zug zu erfüllen. Die Vorschriften der §§ 320, 322 finden
@@ -7479,11 +7933,13 @@ entsprechende Anwendung.
 
 
 ###### § 349 Erklärung des Rücktritts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE034202377)
 
 Der Rücktritt erfolgt durch Erklärung gegenüber dem anderen Teil.
 
 
 ###### § 350 Erlöschen des Rücktrittsrechts nach Fristsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE034802377)
 
 Ist für die Ausübung des vertraglichen Rücktrittsrechts eine Frist
 nicht vereinbart, so kann dem Berechtigten von dem anderen Teil für
@@ -7493,6 +7949,7 @@ Frist erklärt wird.
 
 
 ###### § 351 Unteilbarkeit des Rücktrittsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE034902377)
 
 Sind bei einem Vertrag auf der einen oder der anderen Seite mehrere
 beteiligt, so kann das Rücktrittsrecht nur von allen und gegen alle
@@ -7501,6 +7958,7 @@ Berechtigten, so erlischt es auch für die übrigen.
 
 
 ###### § 352 Aufrechnung nach Nichterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035002377)
 
 Der Rücktritt wegen Nichterfüllung einer Verbindlichkeit wird
 unwirksam, wenn der Schuldner sich von der Verbindlichkeit durch
@@ -7509,6 +7967,7 @@ Aufrechnung erklärt.
 
 
 ###### § 353 Rücktritt gegen Reugeld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035202377)
 
 Ist der Rücktritt gegen Zahlung eines Reugelds vorbehalten, so ist der
 Rücktritt unwirksam, wenn das Reugeld nicht vor oder bei der Erklärung
@@ -7518,6 +7977,7 @@ Reugeld unverzüglich nach der Zurückweisung entrichtet wird.
 
 
 ###### § 354 Verwirkungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035302377)
 
 Ist ein Vertrag mit dem Vorbehalt geschlossen, dass der Schuldner
 seiner Rechte aus dem Vertrag verlustig sein soll, wenn er seine
@@ -7526,9 +7986,11 @@ dieses Falles zum Rücktritt von dem Vertrag berechtigt.
 
 
 ##### Untertitel 2 - Widerrufsrecht bei Verbraucherverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024002360)
 
 
 ###### § 355 Widerrufsrecht bei Verbraucherverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261805360)
 
 (1) Wird einem Verbraucher durch Gesetz ein Widerrufsrecht nach dieser
 Vorschrift eingeräumt, so sind der Verbraucher und der Unternehmer an
@@ -7553,6 +8015,7 @@ der Waren.
 
 
 ###### § 356 Widerrufsrecht bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE261906360)
 
 (1) Der Unternehmer kann dem Verbraucher die Möglichkeit einräumen,
 das Muster-Widerrufsformular nach Anlage 2 zu Artikel 246a § 1 Absatz
@@ -7688,6 +8151,7 @@ Inhalten auch unter folgenden Voraussetzungen:
 
 
 ###### § 356a Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273401123)
 
 (1) Der Widerruf ist in Textform zu erklären.
 
@@ -7726,6 +8190,7 @@ entsprechend.
 
 
 ###### § 356b Widerrufsrecht bei Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273501123)
 
 (1) Die Widerrufsfrist beginnt auch nicht, bevor der Darlehensgeber
 dem Darlehensnehmer eine für diesen bestimmte Vertragsurkunde, den
@@ -7753,6 +8218,7 @@ die dort bezeichnete Abschrift des Vertrags erhalten hat.
 
 
 ###### § 356c Widerrufsrecht bei Ratenlieferungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273600360)
 
 (1) Bei einem Ratenlieferungsvertrag, der weder im Fernabsatz noch
 außerhalb von Geschäftsräumen geschlossenen wird, beginnt die
@@ -7766,6 +8232,7 @@ genannten Zeitpunkt.
 
 
 ###### § 356d Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274600123)
 
 Bei einem Vertrag, durch den ein Unternehmer einem Verbraucher ein
 unentgeltliches Darlehen oder eine unentgeltliche Finanzierungshilfe
@@ -7778,6 +8245,7 @@ Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
 
 
 ###### § 356e Widerrufsrecht bei Verbraucherbauverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275700123)
 
 Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die
 Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß
@@ -7788,6 +8256,7 @@ genannten Zeitpunkt.
 
 
 ###### § 357 Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262006360)
 
 (1) Die empfangenen Leistungen sind spätestens nach 14 Tagen
 zurückzugewähren.
@@ -7828,6 +8297,7 @@ Bereitstellung digitaler Produkte gilt ferner § 327p entsprechend.
 
 
 ###### § 357a Wertersatz als Rechtsfolge des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE289400360)
 
 (1) Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu
 leisten, wenn
@@ -7876,6 +8346,7 @@ Inhalten, so hat er keinen Wertersatz zu leisten.
 
 
 ###### § 357b Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273702360)
 
 (1) Die empfangenen Leistungen sind spätestens nach 30 Tagen
 zurückzugewähren.
@@ -7937,6 +8408,7 @@ nicht zurückverlangen kann.
 
 
 ###### § 357c Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273801360)
 
 (1) Der Verbraucher hat im Falle des Widerrufs keine Kosten zu tragen.
 Die Kosten des Vertrags, seiner Durchführung und seiner Rückabwicklung
@@ -7950,6 +8422,7 @@ nicht bestimmungsgemäßen Nutzung der Unterkunft beruht.
 
 
 ###### § 357d Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273901360)
 
 Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis
 4 und 6 entsprechend. Der Verbraucher trägt die unmittelbaren Kosten
@@ -7963,6 +8436,7 @@ Gesetzbuche tritt.
 
 
 ###### § 357e Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275801360)
 
 Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer
 Natur nach ausgeschlossen, schuldet der Verbraucher dem Unternehmer
@@ -7973,6 +8447,7 @@ Marktwertes der erbrachten Leistung zu berechnen.
 
 
 ###### § 358 Mit dem widerrufenen Vertrag verbundener Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262107360)
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags über
 die Lieferung einer Ware oder die Erbringung einer anderen Leistung
@@ -8034,6 +8509,7 @@ die der Finanzierung des Erwerbs von Finanzinstrumenten dienen.
 
 
 ###### § 359 Einwendungen bei verbundenen Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262204123)
 
 (1) Der Verbraucher kann die Rückzahlung des Darlehens verweigern,
 soweit Einwendungen aus dem verbundenen Vertrag ihn gegenüber dem
@@ -8051,6 +8527,7 @@ finanzierte Entgelt weniger als 200 Euro beträgt.
 
 
 ###### § 360 Zusammenhängende Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262305360)
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags
 gerichtete Willenserklärung wirksam widerrufen und liegen die
@@ -8075,6 +8552,7 @@ dem widerrufenen Vertrag in dem Darlehensvertrag genau angegeben ist.
 
 
 ###### § 361 Weitere Ansprüche, abweichende Vereinbarungen und Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264601360)
 
 (1) Über die Vorschriften dieses Untertitels hinaus bestehen keine
 weiteren Ansprüche gegen den Verbraucher infolge des Widerrufs.
@@ -8090,14 +8568,17 @@ Beweislast den Unternehmer.
 
 
 ### Abschnitt 4 - Erlöschen der Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003202377)
 
 
 
 #### Titel 1 - Erfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003302377)
 
 
 
 ##### § 362 Erlöschen durch Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035502377)
 
 (1) Das Schuldverhältnis erlischt, wenn die geschuldete Leistung an
 den Gläubiger bewirkt wird.
@@ -8107,6 +8588,7 @@ findet die Vorschrift des § 185 Anwendung.
 
 
 ##### § 363 Beweislast bei Annahme als Erfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035602377)
 
 Hat der Gläubiger eine ihm als Erfüllung angebotene Leistung als
 Erfüllung angenommen, so trifft ihn die Beweislast, wenn er die
@@ -8116,6 +8598,7 @@ gewesen sei.
 
 
 ##### § 364 Annahme an Erfüllungs statt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035702377)
 
 (1) Das Schuldverhältnis erlischt, wenn der Gläubiger eine andere als
 die geschuldete Leistung an Erfüllungs statt annimmt.
@@ -8126,6 +8609,7 @@ anzunehmen, dass er die Verbindlichkeit an Erfüllungs statt übernimmt.
 
 
 ##### § 365 Gewährleistung bei Hingabe an Erfüllungs statt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035802377)
 
 Wird eine Sache, eine Forderung gegen einen Dritten oder ein anderes
 Recht an Erfüllungs statt gegeben, so hat der Schuldner wegen eines
@@ -8134,6 +8618,7 @@ wie ein Verkäufer Gewähr zu leisten.
 
 
 ##### § 366 Anrechnung der Leistung auf mehrere Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE035902377)
 
 (1) Ist der Schuldner dem Gläubiger aus mehreren Schuldverhältnissen
 zu gleichartigen Leistungen verpflichtet und reicht das von ihm
@@ -8148,6 +8633,7 @@ Schuld und bei gleichem Alter jede Schuld verhältnismäßig getilgt.
 
 
 ##### § 367 Anrechnung auf Zinsen und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036002377)
 
 (1) Hat der Schuldner außer der Hauptleistung Zinsen und Kosten zu
 entrichten, so wird eine zur Tilgung der ganzen Schuld nicht
@@ -8159,6 +8645,7 @@ Gläubiger die Annahme der Leistung ablehnen.
 
 
 ##### § 368 Quittung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036102377)
 
 Der Gläubiger hat gegen Empfang der Leistung auf Verlangen ein
 schriftliches Empfangsbekenntnis (Quittung) zu erteilen. Hat der
@@ -8167,6 +8654,7 @@ erteilt wird, so kann er die Erteilung in dieser Form verlangen.
 
 
 ##### § 369 Kosten der Quittung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036202377)
 
 (1) Die Kosten der Quittung hat der Schuldner zu tragen und
 vorzuschießen, sofern nicht aus dem zwischen ihm und dem Gläubiger
@@ -8178,6 +8666,7 @@ Gläubiger, so fallen die Mehrkosten den Gläubigern zur Last.
 
 
 ##### § 370 Leistung an den Überbringer der Quittung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036302377)
 
 Der Überbringer einer Quittung gilt als ermächtigt, die Leistung zu
 empfangen, sofern nicht die dem Leistenden bekannten Umstände der
@@ -8185,6 +8674,7 @@ Annahme einer solchen Ermächtigung entgegenstehen.
 
 
 ##### § 371 Rückgabe des Schuldscheins
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036402377)
 
 Ist über die Forderung ein Schuldschein ausgestellt worden, so kann
 der Schuldner neben der Quittung Rückgabe des Schuldscheins verlangen.
@@ -8194,10 +8684,12 @@ Schuld erloschen sei.
 
 
 #### Titel 2 - Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003402377)
 
 
 
 ##### § 372 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036502377)
 
 Geld, Wertpapiere und sonstige Urkunden sowie Kostbarkeiten kann der
 Schuldner bei einer dazu bestimmten öffentlichen Stelle für den
@@ -8209,6 +8701,7 @@ seine Verbindlichkeit nicht oder nicht mit Sicherheit erfüllen kann.
 
 
 ##### § 373 Zug-um-Zug-Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036602377)
 
 Ist der Schuldner nur gegen eine Leistung des Gläubigers zu leisten
 verpflichtet, so kann er das Recht des Gläubigers zum Empfang der
@@ -8217,6 +8710,7 @@ machen.
 
 
 ##### § 374 Hinterlegungsort; Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036702377)
 
 (1) Die Hinterlegung hat bei der Hinterlegungsstelle des Leistungsorts
 zu erfolgen; hinterlegt der Schuldner bei einer anderen Stelle, so hat
@@ -8228,6 +8722,7 @@ verpflichtet. Die Anzeige darf unterbleiben, wenn sie untunlich ist.
 
 
 ##### § 375 Rückwirkung bei Postübersendung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036802377)
 
 Ist die hinterlegte Sache der Hinterlegungsstelle durch die Post
 übersendet worden, so wirkt die Hinterlegung auf die Zeit der Aufgabe
@@ -8235,6 +8730,7 @@ der Sache zur Post zurück.
 
 
 ##### § 376 Rücknahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE036902377)
 
 (1) Der Schuldner hat das Recht, die hinterlegte Sache zurückzunehmen.
 
@@ -8256,6 +8752,7 @@ der Sache zur Post zurück.
 
 
 ##### § 377 Unpfändbarkeit des Rücknahmerechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037003377)
 
 (1) Das Recht zur Rücknahme ist der Pfändung nicht unterworfen.
 
@@ -8265,6 +8762,7 @@ Rücknahme auch nicht von dem Schuldner ausgeübt werden.
 
 
 ##### § 378 Wirkung der Hinterlegung bei ausgeschlossener Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037102377)
 
 Ist die Rücknahme der hinterlegten Sache ausgeschlossen, so wird der
 Schuldner durch die Hinterlegung von seiner Verbindlichkeit in
@@ -8273,6 +8771,7 @@ Gläubiger geleistet hätte.
 
 
 ##### § 379 Wirkung der Hinterlegung bei nicht ausgeschlossener Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037202377)
 
 (1) Ist die Rücknahme der hinterlegten Sache nicht ausgeschlossen, so
 kann der Schuldner den Gläubiger auf die hinterlegte Sache verweisen.
@@ -8286,6 +8785,7 @@ Hinterlegung als nicht erfolgt.
 
 
 ##### § 380 Nachweis der Empfangsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037302377)
 
 Soweit nach den für die Hinterlegungsstelle geltenden Bestimmungen zum
 Nachweis der Empfangsberechtigung des Gläubigers eine diese
@@ -8297,12 +8797,14 @@ nicht erfolgt wäre.
 
 
 ##### § 381 Kosten der Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037402377)
 
 Die Kosten der Hinterlegung fallen dem Gläubiger zur Last, sofern
 nicht der Schuldner die hinterlegte Sache zurücknimmt.
 
 
 ##### § 382 Erlöschen des Gläubigerrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037502377)
 
 Das Recht des Gläubigers auf den hinterlegten Betrag erlischt mit dem
 Ablauf von 30 Jahren nach dem Empfang der Anzeige von der
@@ -8312,6 +8814,7 @@ berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
 
 
 ##### § 383 Versteigerung hinterlegungsunfähiger Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037603125)
 
 (1) Ist die geschuldete bewegliche Sache zur Hinterlegung nicht
 geeignet, so kann der Schuldner sie im Falle des Verzugs des
@@ -8364,6 +8867,7 @@ Schiffe und Schiffsbauwerke.
 
 
 ##### § 384 Androhung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037702377)
 
 (1) Die Versteigerung ist erst zulässig, nachdem sie dem Gläubiger
 angedroht worden ist; die Androhung darf unterbleiben, wenn die Sache
@@ -8379,6 +8883,7 @@ sie untunlich sind.
 
 
 ##### § 385 Freihändiger Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037803360)
 
 Hat die Sache einen Börsen- oder Marktpreis, so kann der Schuldner den
 Verkauf aus freier Hand durch einen zu solchen Verkäufen öffentlich
@@ -8387,6 +8892,7 @@ Versteigerung befugte Person zum laufenden Preis bewirken.
 
 
 ##### § 386 Kosten der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE037902377)
 
 Die Kosten der Versteigerung oder des nach § 385 erfolgten Verkaufs
 fallen dem Gläubiger zur Last, sofern nicht der Schuldner den
@@ -8394,10 +8900,12 @@ hinterlegten Erlös zurücknimmt.
 
 
 #### Titel 3 - Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003502377)
 
 
 
 ##### § 387 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038002377)
 
 Schulden zwei Personen einander Leistungen, die ihrem Gegenstand nach
 gleichartig sind, so kann jeder Teil seine Forderung gegen die
@@ -8406,6 +8914,7 @@ Leistung fordern und die ihm obliegende Leistung bewirken kann.
 
 
 ##### § 388 Erklärung der Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038102377)
 
 Die Aufrechnung erfolgt durch Erklärung gegenüber dem anderen Teil.
 Die Erklärung ist unwirksam, wenn sie unter einer Bedingung oder einer
@@ -8413,6 +8922,7 @@ Zeitbestimmung abgegeben wird.
 
 
 ##### § 389 Wirkung der Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038202377)
 
 Die Aufrechnung bewirkt, dass die Forderungen, soweit sie sich decken,
 als in dem Zeitpunkt erloschen gelten, in welchem sie zur Aufrechnung
@@ -8420,12 +8930,14 @@ geeignet einander gegenübergetreten sind.
 
 
 ##### § 390 Keine Aufrechnung mit einredebehafteter Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038302377)
 
 Eine Forderung, der eine Einrede entgegensteht, kann nicht
 aufgerechnet werden.
 
 
 ##### § 391 Aufrechnung bei Verschiedenheit der Leistungsorte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038402377)
 
 (1) Die Aufrechnung wird nicht dadurch ausgeschlossen, dass für die
 Forderungen verschiedene Leistungs- oder Ablieferungsorte bestehen.
@@ -8440,6 +8952,7 @@ besteht, ausgeschlossen sein soll.
 
 
 ##### § 392 Aufrechnung gegen beschlagnahmte Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038502377)
 
 Durch die Beschlagnahme einer Forderung wird die Aufrechnung einer dem
 Schuldner gegen den Gläubiger zustehenden Forderung nur dann
@@ -8450,12 +8963,14 @@ fällig geworden ist.
 
 
 ##### § 393 Keine Aufrechnung gegen Forderung aus unerlaubter Handlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038602377)
 
 Gegen eine Forderung aus einer vorsätzlich begangenen unerlaubten
 Handlung ist die Aufrechnung nicht zulässig.
 
 
 ##### § 394 Keine Aufrechnung gegen unpfändbare Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038702377)
 
 Soweit eine Forderung der Pfändung nicht unterworfen ist, findet die
 Aufrechnung gegen die Forderung nicht statt. Gegen die aus Kranken-,
@@ -8465,6 +8980,7 @@ geschuldete Beiträge aufgerechnet werden.
 
 
 ##### § 395 Aufrechnung gegen Forderungen öffentlich-rechtlicher Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038803377)
 
 Gegen eine Forderung des Bundes oder eines Landes sowie gegen eine
 Forderung einer Gemeinde oder eines anderen Kommunalverbands ist die
@@ -8474,6 +8990,7 @@ ist.
 
 
 ##### § 396 Mehrheit von Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE038902377)
 
 (1) Hat der eine oder der andere Teil mehrere zur Aufrechnung
 geeignete Forderungen, so kann der aufrechnende Teil die Forderungen
@@ -8488,10 +9005,12 @@ entsprechende Anwendung.
 
 
 #### Titel 4 - Erlass
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003602377)
 
 
 
 ##### § 397 Erlassvertrag, negatives Schuldanerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039002377)
 
 (1) Das Schuldverhältnis erlischt, wenn der Gläubiger dem Schuldner
 durch Vertrag die Schuld erlässt.
@@ -8501,10 +9020,12 @@ Schuldner anerkennt, dass das Schuldverhältnis nicht bestehe.
 
 
 ### Abschnitt 5 - Übertragung einer Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003702377)
 
 
 
 #### § 398 Abtretung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039102377)
 
 Eine Forderung kann von dem Gläubiger durch Vertrag mit einem anderen
 auf diesen übertragen werden (Abtretung). Mit dem Abschluss des
@@ -8513,6 +9034,7 @@ Gläubigers.
 
 
 #### § 399 Ausschluss der Abtretung bei Inhaltsänderung oder Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039202377)
 
 Eine Forderung kann nicht abgetreten werden, wenn die Leistung an
 einen anderen als den ursprünglichen Gläubiger nicht ohne Veränderung
@@ -8521,12 +9043,14 @@ mit dem Schuldner ausgeschlossen ist.
 
 
 #### § 400 Ausschluss bei unpfändbaren Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039302377)
 
 Eine Forderung kann nicht abgetreten werden, soweit sie der Pfändung
 nicht unterworfen ist.
 
 
 #### § 401 Übergang der Neben- und Vorzugsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039403377)
 
 (1) Mit der abgetretenen Forderung gehen die Hypotheken,
 Schiffshypotheken oder Pfandrechte, die für sie bestehen, sowie die
@@ -8539,6 +9063,7 @@ Gläubiger geltend machen.
 
 
 #### § 402 Auskunftspflicht; Urkundenauslieferung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039502377)
 
 Der bisherige Gläubiger ist verpflichtet, dem neuen Gläubiger die zur
 Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die
@@ -8547,6 +9072,7 @@ Besitz befinden, auszuliefern.
 
 
 #### § 403 Pflicht zur Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039602377)
 
 Der bisherige Gläubiger hat dem neuen Gläubiger auf Verlangen eine
 öffentlich beglaubigte Urkunde über die Abtretung auszustellen. Die
@@ -8554,6 +9080,7 @@ Kosten hat der neue Gläubiger zu tragen und vorzuschießen.
 
 
 #### § 404 Einwendungen des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039702377)
 
 Der Schuldner kann dem neuen Gläubiger die Einwendungen
 entgegensetzen, die zur Zeit der Abtretung der Forderung gegen den
@@ -8561,6 +9088,7 @@ bisherigen Gläubiger begründet waren.
 
 
 #### § 405 Abtretung unter Urkundenvorlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039802377)
 
 Hat der Schuldner eine Urkunde über die Schuld ausgestellt, so kann er
 sich, wenn die Forderung unter Vorlegung der Urkunde abgetreten wird,
@@ -8572,6 +9100,7 @@ Abtretung den Sachverhalt kannte oder kennen musste.
 
 
 #### § 406 Aufrechnung gegenüber dem neuen Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE039902377)
 
 Der Schuldner kann eine ihm gegen den bisherigen Gläubiger zustehende
 Forderung auch dem neuen Gläubiger gegenüber aufrechnen, es sei denn,
@@ -8581,6 +9110,7 @@ später als die abgetretene Forderung fällig geworden ist.
 
 
 #### § 407 Rechtshandlungen gegenüber dem bisherigen Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040002377)
 
 (1) Der neue Gläubiger muss eine Leistung, die der Schuldner nach der
 Abtretung an den bisherigen Gläubiger bewirkt, sowie jedes
@@ -8598,6 +9128,7 @@ hat.
 
 
 #### § 408 Mehrfache Abtretung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040102377)
 
 (1) Wird eine abgetretene Forderung von dem bisherigen Gläubiger
 nochmals an einen Dritten abgetreten, so findet, wenn der Schuldner an
@@ -8613,6 +9144,7 @@ abgetretene Forderung kraft Gesetzes auf den Dritten übergegangen sei.
 
 
 #### § 409 Abtretungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040202377)
 
 (1) Zeigt der Gläubiger dem Schuldner an, dass er die Forderung
 abgetreten habe, so muss er dem Schuldner gegenüber die angezeigte
@@ -8626,6 +9158,7 @@ werden, welcher als der neue Gläubiger bezeichnet worden ist.
 
 
 #### § 410 Aushändigung der Abtretungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040302377)
 
 (1) Der Schuldner ist dem neuen Gläubiger gegenüber zur Leistung nur
 gegen Aushändigung einer von dem bisherigen Gläubiger über die
@@ -8639,6 +9172,7 @@ Gläubiger dem Schuldner die Abtretung schriftlich angezeigt hat.
 
 
 #### § 411 Gehaltsabtretung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040402377)
 
 Tritt eine Militärperson, ein Beamter, ein Geistlicher oder ein Lehrer
 an einer öffentlichen Unterrichtsanstalt den übertragbaren Teil des
@@ -8650,12 +9184,14 @@ die Abtretung als der Kasse nicht bekannt.
 
 
 #### § 412 Gesetzlicher Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040502377)
 
 Auf die Übertragung einer Forderung kraft Gesetzes finden die
 Vorschriften der §§ 399 bis 404, 406 bis 410 entsprechende Anwendung.
 
 
 #### § 413 Übertragung anderer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040602377)
 
 Die Vorschriften über die Übertragung von Forderungen finden auf die
 Übertragung anderer Rechte entsprechende Anwendung, soweit nicht das
@@ -8663,10 +9199,12 @@ Gesetz ein anderes vorschreibt.
 
 
 ### Abschnitt 6 - Schuldübernahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003802377)
 
 
 
 #### § 414 Vertrag zwischen Gläubiger und Übernehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040702377)
 
 Eine Schuld kann von einem Dritten durch Vertrag mit dem Gläubiger in
 der Weise übernommen werden, dass der Dritte an die Stelle des
@@ -8674,6 +9212,7 @@ bisherigen Schuldners tritt.
 
 
 #### § 415 Vertrag zwischen Schuldner und Übernehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040802377)
 
 (1) Wird die Schuldübernahme von dem Dritten mit dem Schuldner
 vereinbart, so hängt ihre Wirksamkeit von der Genehmigung des
@@ -8694,6 +9233,7 @@ Gläubiger die Genehmigung verweigert.
 
 
 #### § 416 Übernahme einer Hypothekenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE040903125)
 
 (1) Übernimmt der Erwerber eines Grundstücks durch Vertrag mit dem
 Veräußerer eine Schuld des Veräußerers, für die eine Hypothek an dem
@@ -8717,6 +9257,7 @@ benachrichtigen.
 
 
 #### § 417 Einwendungen des Übernehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041002377)
 
 (1) Der Übernehmer kann dem Gläubiger die Einwendungen entgegensetzen,
 welche sich aus dem Rechtsverhältnis zwischen dem Gläubiger und dem
@@ -8729,6 +9270,7 @@ zwischen dem Übernehmer und dem bisherigen Schuldner kann der
 
 
 #### § 418 Erlöschen von Sicherungs- und Vorzugsrechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041103377)
 
 (1) Infolge der Schuldübernahme erlöschen die für die Forderung
 bestellten Bürgschaften und Pfandrechte. Besteht für die Forderung
@@ -8744,15 +9286,18 @@ Vermögen des Übernehmers geltend gemacht werden.
 
 
 #### § 419
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041202377)
 
 (weggefallen)
 
 
 ### Abschnitt 7 - Mehrheit von Schuldnern und Gläubigern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG003902377)
 
 
 
 #### § 420 Teilbare Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041302377)
 
 Schulden mehrere eine teilbare Leistung oder haben mehrere eine
 teilbare Leistung zu fordern, so ist im Zweifel jeder Schuldner nur zu
@@ -8761,6 +9306,7 @@ gleichen Anteil berechtigt.
 
 
 #### § 421 Gesamtschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041402377)
 
 Schulden mehrere eine Leistung in der Weise, dass jeder die ganze
 Leistung zu bewirken verpflichtet, der Gläubiger aber die Leistung nur
@@ -8771,6 +9317,7 @@ bleiben sämtliche Schuldner verpflichtet.
 
 
 #### § 422 Wirkung der Erfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041502377)
 
 (1) Die Erfüllung durch einen Gesamtschuldner wirkt auch für die
 übrigen Schuldner. Das Gleiche gilt von der Leistung an Erfüllungs
@@ -8781,6 +9328,7 @@ den übrigen Schuldnern aufgerechnet werden.
 
 
 #### § 423 Wirkung des Erlasses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041602377)
 
 Ein zwischen dem Gläubiger und einem Gesamtschuldner vereinbarter
 Erlass wirkt auch für die übrigen Schuldner, wenn die
@@ -8788,12 +9336,14 @@ Vertragschließenden das ganze Schuldverhältnis aufheben wollten.
 
 
 #### § 424 Wirkung des Gläubigerverzugs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041702377)
 
 Der Verzug des Gläubigers gegenüber einem Gesamtschuldner wirkt auch
 für die übrigen Schuldner.
 
 
 #### § 425 Wirkung anderer Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041802377)
 
 (1) Andere als die in den §§ 422 bis 424 bezeichneten Tatsachen
 wirken, soweit sich nicht aus dem Schuldverhältnis ein anderes ergibt,
@@ -8807,6 +9357,7 @@ von dem rechtskräftigen Urteil.
 
 
 #### § 426 Ausgleichungspflicht, Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE041902377)
 
 (1) Die Gesamtschuldner sind im Verhältnis zueinander zu gleichen
 Anteilen verpflichtet, soweit nicht ein anderes bestimmt ist. Kann von
@@ -8821,12 +9372,14 @@ nicht zum Nachteil des Gläubigers geltend gemacht werden.
 
 
 #### § 427 Gemeinschaftliche vertragliche Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042002377)
 
 Verpflichten sich mehrere durch Vertrag gemeinschaftlich zu einer
 teilbaren Leistung, so haften sie im Zweifel als Gesamtschuldner.
 
 
 #### § 428 Gesamtgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042102377)
 
 Sind mehrere eine Leistung in der Weise zu fordern berechtigt, dass
 jeder die ganze Leistung fordern kann, der Schuldner aber die Leistung
@@ -8837,6 +9390,7 @@ Leistung erhoben hat.
 
 
 #### § 429 Wirkung von Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042202377)
 
 (1) Der Verzug eines Gesamtgläubigers wirkt auch gegen die übrigen
 Gläubiger.
@@ -8852,18 +9406,21 @@ Rechte der übrigen Gläubiger unberührt.
 
 
 #### § 430 Ausgleichungspflicht der Gesamtgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042302377)
 
 Die Gesamtgläubiger sind im Verhältnis zueinander zu gleichen Anteilen
 berechtigt, soweit nicht ein anderes bestimmt ist.
 
 
 #### § 431 Mehrere Schuldner einer unteilbaren Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042402377)
 
 Schulden mehrere eine unteilbare Leistung, so haften sie als
 Gesamtschuldner.
 
 
 #### § 432 Mehrere Gläubiger einer unteilbaren Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042502377)
 
 (1) Haben mehrere eine unteilbare Leistung zu fordern, so kann, sofern
 sie nicht Gesamtgläubiger sind, der Schuldner nur an alle
@@ -8878,10 +9435,12 @@ Gläubiger eintritt, nicht für und gegen die übrigen Gläubiger.
 
 
 ### Abschnitt 8 - Einzelne Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG004002377)
 
 
 
 #### Titel 1 - Kauf, Tausch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG004102377)
 
 [^BJNR001950896BJNG004102377]
 
@@ -8892,10 +9451,12 @@ Gläubiger eintritt, nicht für und gegen die übrigen Gläubiger.
 
 
 ##### Untertitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024101377)
 
 
 
 ###### § 433 Vertragstypische Pflichten beim Kaufvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042602377)
 
 (1) Durch den Kaufvertrag wird der Verkäufer einer Sache verpflichtet,
 dem Käufer die Sache zu übergeben und das Eigentum an der Sache zu
@@ -8907,6 +9468,7 @@ Kaufpreis zu zahlen und die gekaufte Sache abzunehmen.
 
 
 ###### § 434 Sachmangel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042703360)
 
 (1) Die Sache ist frei von Sachmängeln, wenn sie bei Gefahrübergang
 den subjektiven Anforderungen, den objektiven Anforderungen und den
@@ -8989,6 +9551,7 @@ Sache als die vertraglich geschuldete Sache liefert.
 
 
 ###### § 435 Rechtsmangel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042802377)
 
 Die Sache ist frei von Rechtsmängeln, wenn Dritte in Bezug auf die
 Sache keine oder nur die im Kaufvertrag übernommenen Rechte gegen den
@@ -8997,6 +9560,7 @@ im Grundbuch ein Recht eingetragen ist, das nicht besteht.
 
 
 ###### § 436 Öffentliche Lasten von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE042902377)
 
 (1) Soweit nicht anders vereinbart, ist der Verkäufer eines
 Grundstücks verpflichtet, Erschließungsbeiträge und sonstige
@@ -9011,6 +9575,7 @@ geeignet sind.
 
 
 ###### § 437 Rechte des Käufers bei Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043002377)
 
 Ist die Sache mangelhaft, kann der Käufer, wenn die Voraussetzungen
 der folgenden Vorschriften vorliegen und soweit nicht ein anderes
@@ -9031,6 +9596,7 @@ bestimmt ist,
 
 
 ###### § 438 Verjährung der Mängelansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043102377)
 
 (1) Die in § 437 Nr. 1 und 3 bezeichneten Ansprüche verjähren
 
@@ -9085,6 +9651,7 @@ Absatz 4 Satz 2 entsprechende Anwendung.
 
 
 ###### § 439 Nacherfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043204360)
 
 (1) Der Käufer kann als Nacherfüllung nach seiner Wahl die Beseitigung
 des Mangels oder die Lieferung einer mangelfreien Sache verlangen.
@@ -9122,6 +9689,7 @@ ersetzte Sache auf seine Kosten zurückzunehmen.
 
 
 ###### § 440 Besondere Bestimmungen für Rücktritt und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043303123)
 
 Außer in den Fällen des § 281 Absatz 2 und des § 323 Absatz 2 bedarf
 es der Fristsetzung auch dann nicht, wenn der Verkäufer beide Arten
@@ -9134,6 +9702,7 @@ ergibt.
 
 
 ###### § 441 Minderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043402377)
 
 (1) Statt zurückzutreten, kann der Käufer den Kaufpreis durch
 Erklärung gegenüber dem Verkäufer mindern. Der Ausschlussgrund des §
@@ -9155,6 +9724,7 @@ der Mehrbetrag vom Verkäufer zu erstatten. § 346 Abs. 1 und § 347 Abs.
 
 
 ###### § 442 Kenntnis des Käufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043502377)
 
 (1) Die Rechte des Käufers wegen eines Mangels sind ausgeschlossen,
 wenn er bei Vertragsschluss den Mangel kennt. Ist dem Käufer ein
@@ -9168,6 +9738,7 @@ beseitigen, auch wenn es der Käufer kennt.
 
 
 ###### § 443 Garantie
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043603360)
 
 (1) Geht der Verkäufer, der Hersteller oder ein sonstiger Dritter in
 einer Erklärung oder einschlägigen Werbung, die vor oder bei Abschluss
@@ -9190,6 +9761,7 @@ begründet.
 
 
 ###### § 444 Haftungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043703377)
 
 Auf eine Vereinbarung, durch welche die Rechte des Käufers wegen eines
 Mangels ausgeschlossen oder beschränkt werden, kann sich der Verkäufer
@@ -9198,6 +9770,7 @@ Garantie für die Beschaffenheit der Sache übernommen hat.
 
 
 ###### § 445 Haftungsbegrenzung bei öffentlichen Versteigerungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043802377)
 
 Wird eine Sache auf Grund eines Pfandrechts in einer öffentlichen
 Versteigerung unter der Bezeichnung als Pfand verkauft, so stehen dem
@@ -9207,6 +9780,7 @@ Beschaffenheit der Sache übernommen hat.
 
 
 ###### § 445a Rückgriff des Verkäufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275901360)
 
 (1) Der Verkäufer kann beim Verkauf einer neu hergestellten Sache von
 dem Verkäufer, der ihm die Sache verkauft hatte (Lieferant), Ersatz
@@ -9230,6 +9804,7 @@ entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
 
 
 ###### § 445b Verjährung von Rückgriffsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276001360)
 
 (1) Die in § 445a Absatz 1 bestimmten Aufwendungsersatzansprüche
 verjähren in zwei Jahren ab Ablieferung der Sache.
@@ -9246,6 +9821,7 @@ entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
 
 
 ###### § 445c Rückgriff bei Verträgen über digitale Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285700360)
 
 Ist der letzte Vertrag in der Lieferkette ein Verbrauchervertrag über
 die Bereitstellung digitaler Produkte nach den §§ 327 und 327a, so
@@ -9255,6 +9831,7 @@ des Abschnitts 3 Titel 2a Untertitel 2.
 
 
 ###### § 446 Gefahr- und Lastenübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE043902377)
 
 Mit der Übergabe der verkauften Sache geht die Gefahr des zufälligen
 Untergangs und der zufälligen Verschlechterung auf den Käufer über.
@@ -9264,6 +9841,7 @@ Verzug der Annahme ist.
 
 
 ###### § 447 Gefahrübergang beim Versendungskauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044002377)
 
 (1) Versendet der Verkäufer auf Verlangen des Käufers die verkaufte
 Sache nach einem anderen Ort als dem Erfüllungsort, so geht die Gefahr
@@ -9278,6 +9856,7 @@ entstehenden Schaden verantwortlich.
 
 
 ###### § 448 Kosten der Übergabe und vergleichbare Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044102377)
 
 (1) Der Verkäufer trägt die Kosten der Übergabe der Sache, der Käufer
 die Kosten der Abnahme und der Versendung der Sache nach einem anderen
@@ -9289,6 +9868,7 @@ zu der Eintragung erforderlichen Erklärungen.
 
 
 ###### § 449 Eigentumsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044202377)
 
 (1) Hat sich der Verkäufer einer beweglichen Sache das Eigentum bis
 zur Zahlung des Kaufpreises vorbehalten, so ist im Zweifel anzunehmen,
@@ -9305,6 +9885,7 @@ verbundenen Unternehmens, erfüllt.
 
 
 ###### § 450 Ausgeschlossene Käufer bei bestimmten Verkäufen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044302377)
 
 (1) Bei einem Verkauf im Wege der Zwangsvollstreckung dürfen der mit
 der Vornahme oder Leitung des Verkaufs Beauftragte und die von ihm
@@ -9322,6 +9903,7 @@ Insolvenzmasse.
 
 
 ###### § 451 Kauf durch ausgeschlossenen Käufer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044402377)
 
 (1) Die Wirksamkeit eines dem § 450 zuwider erfolgten Kaufs und der
 Übertragung des gekauften Gegenstandes hängt von der Zustimmung der
@@ -9335,6 +9917,7 @@ Verkaufs sowie für einen Mindererlös aufzukommen.
 
 
 ###### § 452 Schiffskauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044502377)
 
 Die Vorschriften dieses Untertitels über den Kauf von Grundstücken
 finden auf den Kauf von eingetragenen Schiffen und Schiffsbauwerken
@@ -9342,6 +9925,7 @@ entsprechende Anwendung.
 
 
 ###### § 453 Rechtskauf; Verbrauchervertrag über den Kauf digitaler Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044603360)
 
 (1) Die Vorschriften über den Kauf von Sachen finden auf den Kauf von
 Rechten und sonstigen Gegenständen entsprechende Anwendung. Auf einen
@@ -9369,14 +9953,17 @@ und Rechtsmängeln zu übergeben.
 
 
 ##### Untertitel 2 - Besondere Arten des Kaufs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024201377)
 
 
 
 ###### Kapitel 1 - Kauf auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024301377)
 
 
 
 ###### § 454 Zustandekommen des Kaufvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044702377)
 
 (1) Bei einem Kauf auf Probe oder auf Besichtigung steht die Billigung
 des gekauften Gegenstandes im Belieben des Käufers. Der Kauf ist im
@@ -9387,6 +9974,7 @@ Gegenstandes zu gestatten.
 
 
 ###### § 455 Billigungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044803377)
 
 Die Billigung eines auf Probe oder auf Besichtigung gekauften
 Gegenstandes kann nur innerhalb der vereinbarten Frist und in
@@ -9397,10 +9985,12 @@ gilt sein Schweigen als Billigung.
 
 
 ###### Kapitel 2 - Wiederkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024401377)
 
 
 
 ###### § 456 Zustandekommen des Wiederkaufs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE044902377)
 
 (1) Hat sich der Verkäufer in dem Kaufvertrag das Recht des
 Wiederkaufs vorbehalten, so kommt der Wiederkauf mit der Erklärung des
@@ -9413,6 +10003,7 @@ für den Wiederkauf.
 
 
 ###### § 457 Haftung des Wiederverkäufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045003377)
 
 (1) Der Wiederverkäufer ist verpflichtet, dem Wiederkäufer den
 gekauften Gegenstand nebst Zubehör herauszugeben.
@@ -9428,6 +10019,7 @@ Kaufpreises nicht verlangen.
 
 
 ###### § 458 Beseitigung von Rechten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045102377)
 
 Hat der Wiederverkäufer vor der Ausübung des Wiederkaufsrechts über
 den gekauften Gegenstand verfügt, so ist er verpflichtet, die dadurch
@@ -9438,6 +10030,7 @@ Insolvenzverwalter erfolgt.
 
 
 ###### § 459 Ersatz von Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045202377)
 
 Der Wiederverkäufer kann für Verwendungen, die er auf den gekauften
 Gegenstand vor dem Wiederkauf gemacht hat, insoweit Ersatz verlangen,
@@ -9447,6 +10040,7 @@ er wegnehmen.
 
 
 ###### § 460 Wiederkauf zum Schätzungswert
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045302377)
 
 Ist als Wiederkaufpreis der Schätzungswert vereinbart, den der
 gekaufte Gegenstand zur Zeit des Wiederkaufs hat, so ist der
@@ -9457,6 +10051,7 @@ Verwendungen nicht verpflichtet.
 
 
 ###### § 461 Mehrere Wiederkaufsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045402377)
 
 Steht das Wiederkaufsrecht mehreren gemeinschaftlich zu, so kann es
 nur im Ganzen ausgeübt werden. Ist es für einen der Berechtigten
@@ -9465,6 +10060,7 @@ erloschen oder übt einer von ihnen sein Recht nicht aus, so sind die
 
 
 ###### § 462 Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045502377)
 
 Das Wiederkaufsrecht kann bei Grundstücken nur bis zum Ablauf von 30,
 bei anderen Gegenständen nur bis zum Ablauf von drei Jahren nach der
@@ -9473,10 +10069,12 @@ Frist bestimmt, so tritt diese an die Stelle der gesetzlichen Frist.
 
 
 ###### Kapitel 3 - Vorkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024501377)
 
 
 
 ###### § 463 Voraussetzungen der Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045602377)
 
 Wer in Ansehung eines Gegenstandes zum Vorkauf berechtigt ist, kann
 das Vorkaufsrecht ausüben, sobald der Verpflichtete mit einem Dritten
@@ -9484,6 +10082,7 @@ einen Kaufvertrag über den Gegenstand geschlossen hat.
 
 
 ###### § 464 Ausübung des Vorkaufsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045702377)
 
 (1) Die Ausübung des Vorkaufsrechts erfolgt durch Erklärung gegenüber
 dem Verpflichteten. Die Erklärung bedarf nicht der für den Kaufvertrag
@@ -9495,6 +10094,7 @@ welche der Verpflichtete mit dem Dritten vereinbart hat.
 
 
 ###### § 465 Unwirksame Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045802377)
 
 Eine Vereinbarung des Verpflichteten mit dem Dritten, durch welche der
 Kauf von der Nichtausübung des Vorkaufsrechts abhängig gemacht oder
@@ -9504,6 +10104,7 @@ unwirksam.
 
 
 ###### § 466 Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE045902377)
 
 Hat sich der Dritte in dem Vertrag zu einer Nebenleistung
 verpflichtet, die der Vorkaufsberechtigte zu bewirken außerstande ist,
@@ -9515,6 +10116,7 @@ dem Dritten auch ohne sie geschlossen sein würde.
 
 
 ###### § 467 Gesamtpreis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046002377)
 
 Hat der Dritte den Gegenstand, auf den sich das Vorkaufsrecht bezieht,
 mit anderen Gegenständen zu einem Gesamtpreis gekauft, so hat der
@@ -9525,6 +10127,7 @@ werden können.
 
 
 ###### § 468 Stundung des Kaufpreises
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046102377)
 
 (1) Ist dem Dritten in dem Vertrag der Kaufpreis gestundet worden, so
 kann der Vorkaufsberechtigte die Stundung nur in Anspruch nehmen, wenn
@@ -9540,6 +10143,7 @@ ist.
 
 
 ###### § 469 Mitteilungspflicht, Ausübungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046202377)
 
 (1) Der Verpflichtete hat dem Vorkaufsberechtigten den Inhalt des mit
 dem Dritten geschlossenen Vertrags unverzüglich mitzuteilen. Die
@@ -9554,6 +10158,7 @@ Frist.
 
 
 ###### § 470 Verkauf an gesetzlichen Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046302377)
 
 Das Vorkaufsrecht erstreckt sich im Zweifel nicht auf einen Verkauf,
 der mit Rücksicht auf ein künftiges Erbrecht an einen gesetzlichen
@@ -9561,12 +10166,14 @@ Erben erfolgt.
 
 
 ###### § 471 Verkauf bei Zwangsvollstreckung oder Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046402377)
 
 Das Vorkaufsrecht ist ausgeschlossen, wenn der Verkauf im Wege der
 Zwangsvollstreckung oder aus einer Insolvenzmasse erfolgt.
 
 
 ###### § 472 Mehrere Vorkaufsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046502377)
 
 Steht das Vorkaufsrecht mehreren gemeinschaftlich zu, so kann es nur
 im Ganzen ausgeübt werden. Ist es für einen der Berechtigten erloschen
@@ -9575,6 +10182,7 @@ berechtigt, das Vorkaufsrecht im Ganzen auszuüben.
 
 
 ###### § 473 Unübertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046602377)
 
 Das Vorkaufsrecht ist nicht übertragbar und geht nicht auf die Erben
 des Berechtigten über, sofern nicht ein anderes bestimmt ist. Ist das
@@ -9583,10 +10191,12 @@ vererblich.
 
 
 ##### Untertitel 3 - Verbrauchsgüterkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024601377)
 
 
 
 ###### § 474 Verbrauchsgüterkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046706360)
 
 (1) Verbrauchsgüterkäufe sind Verträge, durch die ein Verbraucher von
 einem Unternehmer eine Ware (§ 241a Absatz 1) kauft. Um einen
@@ -9603,6 +10213,7 @@ Untertitels nicht gelten, leicht verfügbar gemacht wurden.
 
 
 ###### § 475 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276101360)
 
 (1) Ist eine Zeit für die nach § 433 zu erbringenden Leistungen weder
 bestimmt noch aus den Umständen zu entnehmen, so kann der Gläubiger
@@ -9640,6 +10251,7 @@ Verbrauchers über die Rücksendung der Rückgewähr der Ware gleichsteht.
 
 
 ###### § 475a Verbrauchsgüterkaufvertrag über digitale Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285800360)
 
 (1) Auf einen Verbrauchsgüterkaufvertrag, welcher einen körperlichen
 Datenträger zum Gegenstand hat, der ausschließlich als Träger
@@ -9671,6 +10283,7 @@ die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
 
 
 ###### § 475b Sachmangel einer Ware mit digitalen Elementen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286200360)
 
 (1) Für den Kauf einer Ware mit digitalen Elementen (§ 327a Absatz 3
 Satz 1), bei dem sich der Unternehmer verpflichtet, dass er oder ein
@@ -9758,6 +10371,7 @@ entspricht eine Ware mit digitalen Elementen
 
 
 ###### § 475c Sachmangel einer Ware mit digitalen Elementen bei dauerhafter Bereitstellung der digitalen Elemente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286300360)
 
 (1) Ist beim Kauf einer Ware mit digitalen Elementen eine dauerhafte
 Bereitstellung für die digitalen Elemente vereinbart, so gelten
@@ -9772,6 +10386,7 @@ der Ware, den Anforderungen des § 475b Absatz 2 entsprechen.
 
 
 ###### § 475d Sonderbestimmungen für Rücktritt und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286400360)
 
 (1) Für einen Rücktritt wegen eines Mangels der Ware bedarf es der in
 § 323 Absatz 1 bestimmten Fristsetzung zur Nacherfüllung abweichend
@@ -9808,6 +10423,7 @@ anzuwenden.
 
 
 ###### § 475e Sonderbestimmungen für die Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286500360)
 
 (1) Im Fall der dauerhaften Bereitstellung digitaler Elemente nach §
 475c Absatz 1 Satz 1 verjähren Ansprüche wegen eines Mangels an den
@@ -9831,6 +10447,7 @@ nachgebesserte oder ersetzte Ware dem Verbraucher übergeben wurde.
 
 
 ###### § 476 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046804360)
 
 (1) Auf eine vor Mitteilung eines Mangels an den Unternehmer
 getroffene Vereinbarung, die zum Nachteil des Verbrauchers von den §§
@@ -9877,6 +10494,7 @@ durch anderweitige Gestaltungen umgangen werden.
 
 
 ###### § 477 Beweislastumkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE046904360)
 
 (1) Zeigt sich innerhalb eines Jahres seit Gefahrübergang ein von den
 Anforderungen nach § 434 oder § 475b abweichender Zustand der Ware, so
@@ -9896,6 +10514,7 @@ der bisherigen Dauer der Bereitstellung mangelhaft waren.
 
 
 ###### § 478 Sonderbestimmungen für den Rückgriff des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047205360)
 
 (1) Ist der letzte Vertrag in der Lieferkette ein Verbrauchsgüterkauf
 (§ 474), findet § 477 in den Fällen des § 445a Absatz 1 und 2 mit der
@@ -9918,6 +10537,7 @@ entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
 
 
 ###### § 479 Sonderbestimmungen für Garantien
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047304360)
 
 (1) Eine Garantieerklärung (§ 443) muss einfach und verständlich
 abgefasst sein. Sie muss Folgendes enthalten:
@@ -9959,19 +10579,23 @@ berührt, dass eine der vorstehenden Anforderungen nicht erfüllt wird.
 
 
 ##### Untertitel 4 - Tausch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024701377)
 
 
 
 ###### § 480 Tausch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047402377)
 
 Auf den Tausch finden die Vorschriften über den Kauf entsprechende
 Anwendung.
 
 
 #### Titel 2 - Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte, Vermittlungsverträge und Tauschsystemverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024802140)
 
 
 ##### § 481 Teilzeit-Wohnrechtevertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047503140)
 
 (1) Ein Teilzeit-Wohnrechtevertrag ist ein Vertrag, durch den ein
 Unternehmer einem Verbraucher gegen Zahlung eines Gesamtpreises das
@@ -9993,6 +10617,7 @@ Teil derselben.
 
 
 ##### § 481a Vertrag über ein langfristiges Urlaubsprodukt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE270500140)
 
 Ein Vertrag über ein langfristiges Urlaubsprodukt ist ein Vertrag für
 die Dauer von mehr als einem Jahr, durch den ein Unternehmer einem
@@ -10003,6 +10628,7 @@ Vergünstigungen in Bezug auf eine Unterkunft zu erwerben. § 481 Absatz
 
 
 ##### § 481b Vermittlungsvertrag, Tauschsystemvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE270600140)
 
 (1) Ein Vermittlungsvertrag ist ein Vertrag, durch den sich ein
 Unternehmer von einem Verbraucher ein Entgelt versprechen lässt für
@@ -10021,6 +10647,7 @@ oder veräußert werden sollen.
 
 
 ##### § 482 Vorvertragliche Informationen, Werbung und Verbot des Verkaufs als Geldanlage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047603140)
 
 (1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von
 dessen Vertragserklärung zum Abschluss eines Teilzeit-
@@ -10044,6 +10671,7 @@ verkauft werden.
 
 
 ##### § 482a Widerrufsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE270700140)
 
 Der Unternehmer muss den Verbraucher vor Vertragsschluss in Textform
 auf das Widerrufsrecht einschließlich der Widerrufsfrist sowie auf das
@@ -10054,6 +10682,7 @@ Bürgerlichen Gesetzbuche geregelt.
 
 
 ##### § 483 Sprache des Vertrags und der vorvertraglichen Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047704140)
 
 (1) Der Teilzeit-Wohnrechtevertrag, der Vertrag über ein langfristiges
 Urlaubsprodukt, der Vermittlungsvertrag oder der Tauschsystemvertrag
@@ -10077,6 +10706,7 @@ entsprechen, sind nichtig.
 
 
 ##### § 484 Form und Inhalt des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047804140)
 
 (1) Der Teilzeit-Wohnrechtevertrag, der Vertrag über ein langfristiges
 Urlaubsprodukt, der Vermittlungsvertrag oder der Tauschsystemvertrag
@@ -10121,6 +10751,7 @@ Staaten befinden.
 
 
 ##### § 485 Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE047907360)
 
 Dem Verbraucher steht bei einem Teilzeit-Wohnrechtevertrag, einem
 Vertrag über ein langfristiges Urlaubsprodukt, einem
@@ -10129,6 +10760,7 @@ nach § 355 zu.
 
 
 ##### § 486 Anzahlungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048003140)
 
 (1) Der Unternehmer darf Zahlungen des Verbrauchers vor Ablauf der
 Widerrufsfrist nicht fordern oder annehmen.
@@ -10140,6 +10772,7 @@ oder diese Vertragsbeziehung beendet ist.
 
 
 ##### § 486a Besondere Vorschriften für Verträge über langfristige Urlaubsprodukte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE270900140)
 
 (1) Bei einem Vertrag über ein langfristiges Urlaubsprodukt enthält
 das in Artikel 242 § 1 Absatz 2 des Einführungsgesetzes zum
@@ -10159,6 +10792,7 @@ Fälligkeitstermin gemäß Absatz 1 kündigen.
 
 
 ##### § 487 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048103377)
 
 Von den Vorschriften dieses Titels darf nicht zum Nachteil des
 Verbrauchers abgewichen werden. Die Vorschriften dieses Titels finden,
@@ -10167,6 +10801,7 @@ anderweitige Gestaltungen umgangen werden.
 
 
 #### Titel 3 - Darlehensvertrag; Finanzierungshilfen und Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG024902140)
 
 [^BJNR001950896BJNG024902140]
 
@@ -10181,14 +10816,17 @@ anderweitige Gestaltungen umgangen werden.
 
 
 ##### Untertitel 1 - Darlehensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025002140)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025800140)
 
 
 
 ###### § 488 Vertragstypische Pflichten beim Darlehensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048203140)
 
 (1) Durch den Darlehensvertrag wird der Darlehensgeber verpflichtet,
 dem Darlehensnehmer einen Geldbetrag in der vereinbarten Höhe zur
@@ -10209,6 +10847,7 @@ Kündigung zur Rückzahlung berechtigt.
 
 
 ###### § 489 Ordentliches Kündigungsrecht des Darlehensnehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048303140)
 
 (1) Der Darlehensnehmer kann einen Darlehensvertrag mit gebundenem
 Sollzinssatz ganz oder teilweise kündigen,
@@ -10257,6 +10896,7 @@ die er durch eine feste Prozentzahl bestimmt ist.
 
 
 ###### § 490 Außerordentliches Kündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048403140)
 
 (1) Wenn in den Vermögensverhältnissen des Darlehensnehmers oder in
 der Werthaltigkeit einer für das Darlehen gestellten Sicherheit eine
@@ -10282,10 +10922,12 @@ Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht
 
 
 ###### Kapitel 2 - Besondere Vorschriften für Verbraucherdarlehensverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025900140)
 
 
 
 ###### § 491 Verbraucherdarlehensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048508360)
 
 (1) Die Vorschriften dieses Kapitels gelten für
 Verbraucherdarlehensverträge, soweit nichts anderes bestimmt ist.
@@ -10375,6 +11017,7 @@ angepasst werden können.
 
 
 ###### § 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264801123)
 
 (1) Der Darlehensgeber ist verpflichtet, den Darlehensnehmer nach
 Maßgabe des Artikels 247 des Einführungsgesetzes zum Bürgerlichen
@@ -10415,6 +11058,7 @@ zum Bürgerlichen Gesetzbuche findet Anwendung.
 
 
 ###### § 492 Schriftform, Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048608123)
 
 (1) Verbraucherdarlehensverträge sind, soweit nicht eine strengere
 Form vorgeschrieben ist, schriftlich abzuschließen. Der Schriftform
@@ -10464,6 +11108,7 @@ Darlehensgeber und Darlehensnehmer verfügbar und überprüfbar ist.
 
 
 ###### § 492a Kopplungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274701360)
 
 (1) Der Darlehensgeber darf den Abschluss eines Immobiliar-
 Verbraucherdarlehenvertrags unbeschadet des § 492b nicht davon
@@ -10494,6 +11139,7 @@ Verbraucherdarlehensvertrags bleibt davon unberührt.
 
 
 ###### § 492b Zulässige Kopplungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275501123)
 
 (1) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den
 Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig
@@ -10558,6 +11204,7 @@ Kreditwesengesetzes genehmigt hat.
 
 
 ###### § 493 Informationen während des Vertragsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048705360)
 
 (1) Ist in einem Verbraucherdarlehensvertrag der Sollzinssatz gebunden
 und endet die Sollzinsbindung vor der für die Rückzahlung bestimmten
@@ -10682,6 +11329,7 @@ folgenden Informationen:
 
 
 ###### § 494 Rechtsfolgen von Formmängeln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048807123)
 
 (1) Der Verbraucherdarlehensvertrag und die auf Abschluss eines
 solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn
@@ -10726,6 +11374,7 @@ sind, die sich aus den Absätzen 2 bis 6 ergeben.
 
 
 ###### § 495 Widerrufsrecht; Bedenkzeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE048907123)
 
 (1) Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag
 ein Widerrufsrecht nach § 355 zu.
@@ -10758,6 +11407,7 @@ Darlehensnehmer.
 
 
 ###### § 496 Einwendungsverzicht, Wechsel- und Scheckverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049006123)
 
 (1) Eine Vereinbarung, durch die der Darlehensnehmer auf das Recht
 verzichtet, Einwendungen, die ihm gegenüber dem Darlehensgeber
@@ -10790,6 +11440,7 @@ entsteht.
 
 
 ###### § 497 Verzug des Darlehensnehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049105123)
 
 (1) Soweit der Darlehensnehmer mit Zahlungen, die er auf Grund des
 Verbraucherdarlehensvertrags schuldet, in Verzug kommt, hat er den
@@ -10824,6 +11475,7 @@ auf Immobiliar-Verbraucherdarlehensverträge nicht anzuwenden.
 
 
 ###### § 498 Gesamtfälligstellung bei Teilzahlungsdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049206123)
 
 (1) Der Darlehensgeber kann den Verbraucherdarlehensvertrag bei einem
 Darlehen, das in Teilzahlungen zu tilgen ist, wegen Zahlungsverzugs
@@ -10861,6 +11513,7 @@ sein.
 
 
 ###### § 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264901123)
 
 (1) In einem Allgemein-Verbraucherdarlehensvertrag ist eine
 Vereinbarung über ein Kündigungsrecht des Darlehensgebers unwirksam,
@@ -10889,6 +11542,7 @@ vorenthalten oder diese gefälscht hat.
 
 
 ###### § 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265001123)
 
 (1) Der Darlehensnehmer kann einen Allgemein-
 Verbraucherdarlehensvertrag, bei dem eine Zeit für die Rückzahlung
@@ -10906,6 +11560,7 @@ hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
 
 
 ###### § 501 Kostenermäßigung bei vorzeitiger Rückzahlung und bei Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265101360)
 
 (1) Soweit der Darlehensnehmer seine Verbindlichkeiten aus einem
 Verbraucherdarlehensvertrag nach § 500 Absatz 2 vorzeitig erfüllt,
@@ -10920,6 +11575,7 @@ Zeit nach der Fälligkeit entfallen.
 
 
 ###### § 502 Vorfälligkeitsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265202123)
 
 (1) Der Darlehensgeber kann im Fall der vorzeitigen Rückzahlung eine
 angemessene Vorfälligkeitsentschädigung für den unmittelbar mit der
@@ -10963,6 +11619,7 @@ Vorfälligkeitsentschädigung folgende Beträge jeweils nicht
 
 
 ###### § 503 Umwandlung bei Immobiliar-Verbraucherdarlehen in Fremdwährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265301123)
 
 (1) Bei einem nicht auf die Währung des Mitgliedstaats der
 Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss
@@ -10988,6 +11645,7 @@ anderes vereinbart wurde.
 
 
 ###### § 504 Eingeräumte Überziehungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265403360)
 
 (1) Ist ein Verbraucherdarlehen in der Weise gewährt, dass der
 Darlehensgeber in einem Vertragsverhältnis über ein laufendes Konto
@@ -11015,6 +11673,7 @@ Datenträger mitteilt.
 
 
 ###### § 504a Beratungspflicht bei Inanspruchnahme der Überziehungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274800123)
 
 (1) Der Darlehensgeber hat dem Darlehensnehmer eine Beratung gemäß
 Absatz 2 anzubieten, wenn der Darlehensnehmer eine ihm eingeräumte
@@ -11047,6 +11706,7 @@ entsprechenden Beratungsangebote erhalten zu wollen.
 
 
 ###### § 505 Geduldete Überziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265502123)
 
 (1) Vereinbart ein Unternehmer in einem Vertrag mit einem Verbraucher
 über ein laufendes Konto ohne eingeräumte Überziehungsmöglichkeit ein
@@ -11085,6 +11745,7 @@ Voraussetzungen zustande kommen, nicht anzuwenden.
 
 
 ###### § 505a Pflicht zur Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274901123)
 
 (1) Der Darlehensgeber hat vor dem Abschluss eines
 Verbraucherdarlehensvertrags die Kreditwürdigkeit des Darlehensnehmers
@@ -11128,6 +11789,7 @@ entsprechend.
 
 
 ###### § 505b Grundlage der Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275001123)
 
 (1) Bei Allgemein-Verbraucherdarlehensverträgen können Grundlage für
 die Kreditwürdigkeitsprüfung Auskünfte des Darlehensnehmers und
@@ -11168,6 +11830,7 @@ unberührt.
 
 
 ###### § 505c Weitere Pflichten bei grundpfandrechtlich oder durch Reallast besicherten Immobiliar-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275100123)
 
 Darlehensgeber, die grundpfandrechtlich oder durch Reallast besicherte
 Immobiliar-Verbraucherdarlehen vergeben, haben
@@ -11191,6 +11854,7 @@ Immobiliar-Verbraucherdarlehen vergeben, haben
 
 
 ###### § 505d Verstoß gegen die Pflicht zur Kreditwürdigkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275200123)
 
 (1) Hat der Darlehensgeber gegen die Pflicht zur
 Kreditwürdigkeitsprüfung verstoßen, so ermäßigt sich
@@ -11233,6 +11897,7 @@ des § 505b Absatz 1 bis 3 unrichtig erteilt oder vorenthalten hat.
 
 
 ###### § 505e Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278600123)
 
 Das Bundesministerium der Finanzen und das Bundesministerium der
 Justiz und für Verbraucherschutz werden ermächtigt, durch gemeinsame
@@ -11255,10 +11920,12 @@ festgelegt werden
 
 
 ##### Untertitel 2 - Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025102140)
 
 
 
 ###### § 506 Zahlungsaufschub, sonstige Finanzierungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049308360)
 
 (1) Die für Allgemein-Verbraucherdarlehensverträge geltenden
 Vorschriften der §§ 358 bis 360 und 491a bis 502 sowie 505a bis 505e
@@ -11313,6 +11980,7 @@ für den Verbraucher erworben hat, der Anschaffungspreis.
 
 
 ###### § 507 Teilzahlungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049605123)
 
 (1) § 494 Abs. 1 bis 3 und 6 Satz 2 zweiter Halbsatz ist auf
 Teilzahlungsgeschäfte nicht anzuwenden. Gibt der Verbraucher sein
@@ -11350,6 +12018,7 @@ Ein Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen.
 
 
 ###### § 508 Rücktritt bei Teilzahlungsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049706123)
 
 Der Unternehmer kann von einem Teilzahlungsgeschäft wegen
 Zahlungsverzugs des Verbrauchers nur unter den in § 498 Absatz 1 Satz
@@ -11371,13 +12040,16 @@ zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und
 
 
 ###### § 509 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265601123)
 
 
 ##### Untertitel 3 - Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025202140)
 
 
 
 ###### § 510 Ratenlieferungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE049905123)
 
 (1) Der Vertrag zwischen einem Verbraucher und einem Unternehmer
 bedarf der schriftlichen Form, wenn der Vertrag
@@ -11415,10 +12087,12 @@ Teilzahlungen.
 
 
 ##### Untertitel 4 - Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027600123)
 
 
 
 ###### § 511 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275300123)
 
 (1) Bevor der Darlehensgeber dem Darlehensnehmer individuelle
 Empfehlungen zu einem oder mehreren Geschäften erteilt, die im
@@ -11446,10 +12120,12 @@ einem dauerhaften Datenträger zur Verfügung zu stellen.
 
 
 ##### Untertitel 5 - Unabdingbarkeit, Anwendung auf Existenzgründer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025303123)
 
 
 
 ###### § 512 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE050007123)
 
 Von den Vorschriften der §§ 491 bis 511, 514 und 515 darf, soweit
 nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers
@@ -11458,6 +12134,7 @@ durch anderweitige Gestaltungen umgangen werden.
 
 
 ###### § 513 Anwendung auf Existenzgründer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE050105360)
 
 Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein
 Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe
@@ -11473,10 +12150,12 @@ Verordnung (EU) 2017/1129 und der Richtlinie (EU) 2019/1937 (ABl. L
 
 
 ##### Untertitel 6 - Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027700123)
 
 
 
 ###### § 514 Unentgeltliche Darlehensverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE050205123)
 
 (1) § 497 Absatz 1 und 3 sowie § 498 und die §§ 505a bis 505c sowie
 505d Absatz 2 und 3 sowie § 505e sind entsprechend auf Verträge
@@ -11498,6 +12177,7 @@ ordnungsgemäß ausgefüllt in Textform übermittelt.
 
 
 ###### § 515 Unentgeltliche Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275400123)
 
 § 514 sowie die §§ 358 bis 360 gelten entsprechend, wenn ein
 Unternehmer einem Verbraucher einen unentgeltlichen Zahlungsaufschub
@@ -11505,10 +12185,12 @@ oder eine sonstige unentgeltliche Finanzierungshilfe gewährt.
 
 
 #### Titel 4 - Schenkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG004902377)
 
 
 
 ##### § 516 Begriff der Schenkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051002377)
 
 (1) Eine Zuwendung, durch die jemand aus seinem Vermögen einen anderen
 bereichert, ist Schenkung, wenn beide Teile darüber einig sind, dass
@@ -11524,6 +12206,7 @@ Bereicherung gefordert werden.
 
 
 ##### § 516a Verbrauchervertrag über die Schenkung digitaler Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE285900360)
 
 (1) Auf einen Verbrauchervertrag, bei dem der Unternehmer dem
 Verbraucher
@@ -11551,6 +12234,7 @@ die digitalen Produkte betreffen.
 
 
 ##### § 517 Unterlassen eines Vermögenserwerbs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051102377)
 
 Eine Schenkung liegt nicht vor, wenn jemand zum Vorteil eines anderen
 einen Vermögenserwerb unterlässt oder auf ein angefallenes, noch nicht
@@ -11559,6 +12243,7 @@ Vermächtnis ausschlägt.
 
 
 ##### § 518 Form des Schenkungsversprechens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051202377)
 
 (1) Zur Gültigkeit eines Vertrags, durch den eine Leistung schenkweise
 versprochen wird, ist die notarielle Beurkundung des Versprechens
@@ -11571,6 +12256,7 @@ Leistung geheilt.
 
 
 ##### § 519 Einrede des Notbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051302377)
 
 (1) Der Schenker ist berechtigt, die Erfüllung eines schenkweise
 erteilten Versprechens zu verweigern, soweit er bei Berücksichtigung
@@ -11583,6 +12269,7 @@ früher entstandene Anspruch vor.
 
 
 ##### § 520 Erlöschen eines Rentenversprechens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051402377)
 
 Verspricht der Schenker eine in wiederkehrenden Leistungen bestehende
 Unterstützung, so erlischt die Verbindlichkeit mit seinem Tode, sofern
@@ -11590,16 +12277,19 @@ nicht aus dem Versprechen sich ein anderes ergibt.
 
 
 ##### § 521 Haftung des Schenkers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051502377)
 
 Der Schenker hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
 
 
 ##### § 522 Keine Verzugszinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051602377)
 
 Zur Entrichtung von Verzugszinsen ist der Schenker nicht verpflichtet.
 
 
 ##### § 523 Haftung für Rechtsmängel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051702377)
 
 (1) Verschweigt der Schenker arglistig einen Mangel im Recht, so ist
 er verpflichtet, dem Beschenkten den daraus entstehenden Schaden zu
@@ -11616,6 +12306,7 @@ Anwendung.
 
 
 ##### § 524 Haftung für Sachmängel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051802377)
 
 (1) Verschweigt der Schenker arglistig einen Fehler der verschenkten
 Sache, so ist er verpflichtet, dem Beschenkten den daraus entstehenden
@@ -11635,6 +12326,7 @@ Vorschriften entsprechende Anwendung.
 
 
 ##### § 525 Schenkung unter Auflage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE051902377)
 
 (1) Wer eine Schenkung unter einer Auflage macht, kann die Vollziehung
 der Auflage verlangen, wenn er seinerseits geleistet hat.
@@ -11645,6 +12337,7 @@ Vollziehung verlangen.
 
 
 ##### § 526 Verweigerung der Vollziehung der Auflage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052002377)
 
 Soweit infolge eines Mangels im Recht oder eines Mangels der
 verschenkten Sache der Wert der Zuwendung die Höhe der zur Vollziehung
@@ -11658,6 +12351,7 @@ der Zuwendung übersteigen.
 
 
 ##### § 527 Nichtvollziehung der Auflage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052102377)
 
 (1) Unterbleibt die Vollziehung der Auflage, so kann der Schenker die
 Herausgabe des Geschenkes unter den für das Rücktrittsrecht bei
@@ -11671,6 +12365,7 @@ die Vollziehung der Auflage zu verlangen.
 
 
 ##### § 528 Rückforderung wegen Verarmung des Schenkers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052203377)
 
 (1) Soweit der Schenker nach der Vollziehung der Schenkung außerstande
 ist, seinen angemessenen Unterhalt zu bestreiten und die ihm seinen
@@ -11690,6 +12385,7 @@ insoweit, als der später Beschenkte nicht verpflichtet ist.
 
 
 ##### § 529 Ausschluss des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052302377)
 
 (1) Der Anspruch auf Herausgabe des Geschenkes ist ausgeschlossen,
 wenn der Schenker seine Bedürftigkeit vorsätzlich oder durch grobe
@@ -11705,6 +12401,7 @@ gefährdet wird.
 
 
 ##### § 530 Widerruf der Schenkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052402377)
 
 (1) Eine Schenkung kann widerrufen werden, wenn sich der Beschenkte
 durch eine schwere Verfehlung gegen den Schenker oder einen nahen
@@ -11716,6 +12413,7 @@ oder am Widerruf gehindert hat.
 
 
 ##### § 531 Widerrufserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052502377)
 
 (1) Der Widerruf erfolgt durch Erklärung gegenüber dem Beschenkten.
 
@@ -11725,6 +12423,7 @@ Bereicherung gefordert werden.
 
 
 ##### § 532 Ausschluss des Widerrufs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052602377)
 
 Der Widerruf ist ausgeschlossen, wenn der Schenker dem Beschenkten
 verziehen hat oder wenn seit dem Zeitpunkt, in welchem der
@@ -11734,12 +12433,14 @@ des Beschenkten ist der Widerruf nicht mehr zulässig.
 
 
 ##### § 533 Verzicht auf Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052702377)
 
 Auf das Widerrufsrecht kann erst verzichtet werden, wenn der Undank
 dem Widerrufsberechtigten bekannt geworden ist.
 
 
 ##### § 534 Pflicht- und Anstandsschenkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052802377)
 
 Schenkungen, durch die einer sittlichen Pflicht oder einer auf den
 Anstand zu nehmenden Rücksicht entsprochen wird, unterliegen nicht der
@@ -11747,14 +12448,17 @@ Rückforderung und dem Widerruf.
 
 
 #### Titel 5 - Mietvertrag, Pachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005003377)
 
 
 
 ##### Untertitel 1 - Allgemeine Vorschriften für Mietverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005103377)
 
 
 
 ###### § 535 Inhalt und Hauptpflichten des Mietvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE052902377)
 
 (1) Durch den Mietvertrag wird der Vermieter verpflichtet, dem Mieter
 den Gebrauch der Mietsache während der Mietzeit zu gewähren. Der
@@ -11768,6 +12472,7 @@ zu entrichten.
 
 
 ###### § 536 Mietminderung bei Sach- und Rechtsmängeln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053004377)
 
 (1) Hat die Mietsache zur Zeit der Überlassung an den Mieter einen
 Mangel, der ihre Tauglichkeit zum vertragsgemäßen Gebrauch aufhebt,
@@ -11795,6 +12500,7 @@ Mieters abweichende Vereinbarung unwirksam.
 
 
 ###### § 536a Schadens- und Aufwendungsersatzanspruch des Mieters wegen eines Mangels
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245502377)
 
 (1) Ist ein Mangel im Sinne des § 536 bei Vertragsschluss vorhanden
 oder entsteht ein solcher Mangel später wegen eines Umstands, den der
@@ -11816,6 +12522,7 @@ erforderlichen Aufwendungen verlangen, wenn
 
 
 ###### § 536b Kenntnis des Mieters vom Mangel bei Vertragsschluss oder Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245601377)
 
 Kennt der Mieter bei Vertragsschluss den Mangel der Mietsache, so
 stehen ihm die Rechte aus den §§ 536 und 536a nicht zu. Ist ihm der
@@ -11827,6 +12534,7 @@ geltend machen, wenn er sich seine Rechte bei der Annahme vorbehält.
 
 
 ###### § 536c Während der Mietzeit auftretende Mängel; Mängelanzeige durch den Mieter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245702377)
 
 (1) Zeigt sich im Laufe der Mietzeit ein Mangel der Mietsache oder
 wird eine Maßnahme zum Schutz der Mietsache gegen eine nicht
@@ -11853,6 +12561,7 @@ konnte, ist der Mieter nicht berechtigt,
 
 
 ###### § 536d Vertraglicher Ausschluss von Rechten des Mieters wegen eines Mangels
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245801377)
 
 Auf eine Vereinbarung, durch die die Rechte des Mieters wegen eines
 Mangels der Mietsache ausgeschlossen oder beschränkt werden, kann sich
@@ -11861,6 +12570,7 @@ hat.
 
 
 ###### § 537 Entrichtung der Miete bei persönlicher Verhinderung des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053102377)
 
 (1) Der Mieter wird von der Entrichtung der Miete nicht dadurch
 befreit, dass er durch einen in seiner Person liegenden Grund an der
@@ -11875,6 +12585,7 @@ ist der Mieter zur Entrichtung der Miete nicht verpflichtet.
 
 
 ###### § 538 Abnutzung der Mietsache durch vertragsgemäßen Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053202377)
 
 Veränderungen oder Verschlechterungen der Mietsache, die durch den
 vertragsgemäßen Gebrauch herbeigeführt werden, hat der Mieter nicht zu
@@ -11882,6 +12593,7 @@ vertreten.
 
 
 ###### § 539 Ersatz sonstiger Aufwendungen und Wegnahmerecht des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053302377)
 
 (1) Der Mieter kann vom Vermieter Aufwendungen auf die Mietsache, die
 der Vermieter ihm nicht nach § 536a Abs. 2 zu ersetzen hat, nach den
@@ -11892,6 +12604,7 @@ er die Mietsache versehen hat.
 
 
 ###### § 540 Gebrauchsüberlassung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053402377)
 
 (1) Der Mieter ist ohne die Erlaubnis des Vermieters nicht berechtigt,
 den Gebrauch der Mietsache einem Dritten zu überlassen, insbesondere
@@ -11906,6 +12619,7 @@ auch wenn der Vermieter die Erlaubnis zur Überlassung erteilt hat.
 
 
 ###### § 541 Unterlassungsklage bei vertragswidrigem Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053502377)
 
 Setzt der Mieter einen vertragswidrigen Gebrauch der Mietsache trotz
 einer Abmahnung des Vermieters fort, so kann dieser auf Unterlassung
@@ -11913,6 +12627,7 @@ klagen.
 
 
 ###### § 542 Ende des Mietverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053702377)
 
 (1) Ist die Mietzeit nicht bestimmt, so kann jede Vertragspartei das
 Mietverhältnis nach den gesetzlichen Vorschriften kündigen.
@@ -11930,6 +12645,7 @@ mit dem Ablauf dieser Zeit, sofern es nicht
 
 
 ###### § 543 Außerordentliche fristlose Kündigung aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053803377)
 
 (1) Jede Vertragspartei kann das Mietverhältnis aus wichtigem Grund
 außerordentlich fristlos kündigen. Ein wichtiger Grund liegt vor, wenn
@@ -11998,6 +12714,7 @@ ihn die Beweislast.
 
 
 ###### § 544 Vertrag über mehr als 30 Jahre
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE053902377)
 
 Wird ein Mietvertrag für eine längere Zeit als 30 Jahre geschlossen,
 so kann jede Vertragspartei nach Ablauf von 30 Jahren nach Überlassung
@@ -12007,6 +12724,7 @@ Lebenszeit des Vermieters oder des Mieters geschlossen worden ist.
 
 
 ###### § 545 Stillschweigende Verlängerung des Mietverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054002377)
 
 Setzt der Mieter nach Ablauf der Mietzeit den Gebrauch der Mietsache
 fort, so verlängert sich das Mietverhältnis auf unbestimmte Zeit,
@@ -12024,6 +12742,7 @@ innerhalb von zwei Wochen dem anderen Teil erklärt. Die Frist beginnt
 
 
 ###### § 546 Rückgabepflicht des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054102377)
 
 (1) Der Mieter ist verpflichtet, die Mietsache nach Beendigung des
 Mietverhältnisses zurückzugeben.
@@ -12034,6 +12753,7 @@ Mietverhältnisses auch von dem Dritten zurückfordern.
 
 
 ###### § 546a Entschädigung des Vermieters bei verspäteter Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245901377)
 
 (1) Gibt der Mieter die Mietsache nach Beendigung des
 Mietverhältnisses nicht zurück, so kann der Vermieter für die Dauer
@@ -12045,6 +12765,7 @@ ausgeschlossen.
 
 
 ###### § 547 Erstattung von im Voraus entrichteter Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054202377)
 
 (1) Ist die Miete für die Zeit nach Beendigung des Mietverhältnisses
 im Voraus entrichtet worden, so hat der Vermieter sie
@@ -12058,6 +12779,7 @@ Mieters abweichende Vereinbarung unwirksam.
 
 
 ###### § 548 Verjährung der Ersatzansprüche und des Wegnahmerechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054403377)
 
 (1) Die Ersatzansprüche des Vermieters wegen Veränderungen oder
 Verschlechterungen der Mietsache verjähren in sechs Monaten. Die
@@ -12073,20 +12795,24 @@ nach der Beendigung des Mietverhältnisses.
 
 
 ###### § 548a Miete digitaler Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286000360)
 
 Die Vorschriften über die Miete von Sachen sind auf die Miete
 digitaler Produkte entsprechend anzuwenden.
 
 
 ##### Untertitel 2 - Mietverhältnisse über Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG021702377)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG021802377)
 
 
 
 ###### § 549 Auf Wohnraummietverhältnisse anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054503360)
 
 (1) Für Mietverhältnisse über Wohnraum gelten die §§ 535 bis 548,
 soweit sich nicht aus den §§ 549 bis 577a etwas anderes ergibt.
@@ -12123,6 +12849,7 @@ Abs. 2, §§ 573, 573a, 573d Abs. 1, §§ 574 bis 575, 575a Abs. 1 und §§
 
 
 ###### § 550 Form des Mietvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054602377)
 
 Wird der Mietvertrag für längere Zeit als ein Jahr nicht in
 schriftlicher Form geschlossen, so gilt er für unbestimmte Zeit. Die
@@ -12131,6 +12858,7 @@ Kündigung ist jedoch frühestens zum Ablauf eines Jahres nach
 
 
 ###### § 551 Begrenzung und Anlage von Mietsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054803377)
 
 (1) Hat der Mieter dem Vermieter für die Erfüllung seiner Pflichten
 Sicherheit zu leisten, so darf diese vorbehaltlich des Absatzes 3 Satz
@@ -12158,6 +12886,7 @@ unwirksam.
 
 
 ###### § 552 Abwendung des Wegnahmerechts des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE054902377)
 
 (1) Der Vermieter kann die Ausübung des Wegnahmerechts (§ 539 Abs. 2)
 durch Zahlung einer angemessenen Entschädigung abwenden, wenn nicht
@@ -12168,6 +12897,7 @@ wird, ist nur wirksam, wenn ein angemessener Ausgleich vorgesehen ist.
 
 
 ###### § 553 Gestattung der Gebrauchsüberlassung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE055102377)
 
 (1) Entsteht für den Mieter nach Abschluss des Mietvertrags ein
 berechtigtes Interesse, einen Teil des Wohnraums einem Dritten zum
@@ -12187,6 +12917,7 @@ unwirksam.
 
 
 ###### § 554 Barrierereduzierung, E-Mobilität, Einbruchsschutz und Steckersolargeräte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE055205125)
 
 (1) Der Mieter kann verlangen, dass ihm der Vermieter bauliche
 Veränderungen der Mietsache erlaubt, die dem Gebrauch durch Menschen
@@ -12203,16 +12934,19 @@ unwirksam.
 
 
 ###### § 555 Unwirksamkeit einer Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE055502377)
 
 Eine Vereinbarung, durch die sich der Vermieter eine Vertragsstrafe
 vom Mieter versprechen lässt, ist unwirksam.
 
 
 ###### Kapitel 1a - Erhaltungs- und Modernisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027000377)
 
 
 
 ###### § 555a Erhaltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272200377)
 
 (1) Der Mieter hat Maßnahmen zu dulden, die zur Instandhaltung oder
 Instandsetzung der Mietsache erforderlich sind (Erhaltungsmaßnahmen).
@@ -12231,6 +12965,7 @@ Vereinbarung ist unwirksam.
 
 
 ###### § 555b Modernisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272302360)
 
 Modernisierungsmaßnahmen sind bauliche Veränderungen,
 
@@ -12275,6 +13010,7 @@ Modernisierungsmaßnahmen sind bauliche Veränderungen,
 
 
 ###### § 555c Ankündigung von Modernisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272401360)
 
 (1) Der Vermieter hat dem Mieter eine Modernisierungsmaßnahme
 spätestens drei Monate vor ihrem Beginn in Textform anzukündigen
@@ -12314,6 +13050,7 @@ unwirksam.
 
 
 ###### § 555d Duldung von Modernisierungsmaßnahmen, Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272500377)
 
 (1) Der Mieter hat eine Modernisierungsmaßnahme zu dulden.
 
@@ -12355,6 +13092,7 @@ unwirksam.
 
 
 ###### § 555e Sonderkündigungsrecht des Mieters bei Modernisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272600377)
 
 (1) Nach Zugang der Modernisierungsankündigung kann der Mieter das
 Mietverhältnis außerordentlich zum Ablauf des übernächsten Monats
@@ -12368,6 +13106,7 @@ unwirksam.
 
 
 ###### § 555f Vereinbarungen über Erhaltungs- oder Modernisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272700377)
 
 Die Vertragsparteien können nach Abschluss des Mietvertrags aus Anlass
 von Erhaltungs- oder Modernisierungsmaßnahmen Vereinbarungen treffen,
@@ -12386,14 +13125,17 @@ insbesondere über die
 
 
 ###### Kapitel 2 - Die Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG021902377)
 
 
 
 ###### Unterkapitel 1 - Vereinbarungen über die Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022002377)
 
 
 
 ###### § 556 Vereinbarungen über Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE055606125)
 
 (1) Die Vertragsparteien können vereinbaren, dass der Mieter
 Betriebskosten trägt. Betriebskosten sind die Kosten, die dem
@@ -12442,6 +13184,7 @@ Absatz 3 oder Absatz 3a abweichende Vereinbarung ist unwirksam.
 
 
 ###### § 556a Abrechnungsmaßstab für Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE055704360)
 
 (1) Haben die Vertragsparteien nichts anderes vereinbart, sind die
 Betriebskosten vorbehaltlich anderweitiger Vorschriften nach dem
@@ -12471,6 +13214,7 @@ Vereinbarung ist unwirksam.
 
 
 ###### § 556b Fälligkeit der Miete, Aufrechnungs- und Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE055802377)
 
 (1) Die Miete ist zu Beginn, spätestens bis zum dritten Werktag der
 einzelnen Zeitabschnitte zu entrichten, nach denen sie bemessen ist.
@@ -12486,6 +13230,7 @@ ist unwirksam.
 
 
 ###### § 556c Kosten der Wärmelieferung als Betriebskosten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272801377)
 
 (1) Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu
 tragen und stellt der Vermieter die Versorgung von der Eigenversorgung
@@ -12523,10 +13268,12 @@ unwirksam.
 
 
 ###### Unterkapitel 1a - Vereinbarungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027500360)
 
 
 
 ###### § 556d Zulässige Miethöhe bei Mietbeginn; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274202129)
 
 (1) Wird ein Mietvertrag über Wohnraum abgeschlossen, der in einem
 durch Rechtsverordnung nach Absatz 2 bestimmten Gebiet mit einem
@@ -12566,6 +13313,7 @@ bestimmten Gebiet und Zeitraum ergreifen wird, um Abhilfe zu schaffen.
 
 
 ###### § 556e Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274301360)
 
 (1) Ist die Miete, die der vorherige Mieter zuletzt schuldete
 (Vormiete), höher als die nach § 556d Absatz 1 zulässige Miete, so
@@ -12586,6 +13334,7 @@ Berücksichtigung der Modernisierung anzusetzen wäre.
 
 
 ###### § 556f Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274400360)
 
 § 556d ist nicht anzuwenden auf eine Wohnung, die nach dem 1. Oktober
 2014 erstmals genutzt und vermietet wird. Die §§ 556d und 556e sind
@@ -12594,6 +13343,7 @@ Modernisierung.
 
 
 ###### § 556g Rechtsfolgen; Auskunft über die Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE274502360)
 
 (1) Eine zum Nachteil des Mieters von den Vorschriften dieses
 Unterkapitels abweichende Vereinbarung ist unwirksam. Für
@@ -12656,10 +13406,12 @@ Textform.
 
 
 ###### Unterkapitel 2 - Regelungen über die Miethöhe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG023002377)
 
 
 
 ###### § 557 Mieterhöhungen nach Vereinbarung oder Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056002377)
 
 (1) Während des Mietverhältnisses können die Parteien eine Erhöhung
 der Miete vereinbaren.
@@ -12677,6 +13429,7 @@ unwirksam.
 
 
 ###### § 557a Staffelmiete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056103360)
 
 (1) Die Miete kann für bestimmte Zeiträume in unterschiedlicher Höhe
 schriftlich vereinbart werden; in der Vereinbarung ist die jeweilige
@@ -12703,6 +13456,7 @@ unwirksam.
 
 
 ###### § 557b Indexmiete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246003360)
 
 (1) Die Vertragsparteien können schriftlich vereinbaren, dass die
 Miete durch den vom Statistischen Bundesamt ermittelten Preisindex für
@@ -12731,6 +13485,7 @@ unwirksam.
 
 
 ###### § 558 Mieterhöhung bis zur ortsüblichen Vergleichsmiete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056206360)
 
 (1) Der Vermieter kann die Zustimmung zu einer Erhöhung der Miete bis
 zur ortsüblichen Vergleichsmiete verlangen, wenn die Miete in dem
@@ -12788,6 +13543,7 @@ unwirksam.
 
 
 ###### § 558a Form und Begründung der Mieterhöhung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246101377)
 
 (1) Das Mieterhöhungsverlangen nach § 558 ist dem Mieter in Textform
 zu erklären und zu begründen.
@@ -12829,6 +13585,7 @@ unwirksam.
 
 
 ###### § 558b Zustimmung zur Mieterhöhung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246201377)
 
 (1) Soweit der Mieter der Mieterhöhung zustimmt, schuldet er die
 erhöhte Miete mit Beginn des dritten Kalendermonats nach dem Zugang
@@ -12850,6 +13607,7 @@ unwirksam.
 
 
 ###### § 558c Mietspiegel; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246303360)
 
 (1) Ein Mietspiegel ist eine Übersicht über die ortsübliche
 Vergleichsmiete, soweit die Übersicht von der nach Landesrecht
@@ -12875,6 +13633,7 @@ Anpassung einschließlich Dokumentation und Veröffentlichung.
 
 
 ###### § 558d Qualifizierter Mietspiegel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246402360)
 
 (1) Ein qualifizierter Mietspiegel ist ein Mietspiegel, der nach
 anerkannten wissenschaftlichen Grundsätzen erstellt und von der nach
@@ -12904,6 +13663,7 @@ ortsübliche Vergleichsmiete wiedergeben.
 
 
 ###### § 558e Mietdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246501377)
 
 Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen
 Vergleichsmiete fortlaufend geführte Sammlung von Mieten, die von der
@@ -12914,6 +13674,7 @@ Vergleichsmiete zulassen.
 
 
 ###### § 559 Mieterhöhung nach Modernisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056306360)
 
 (1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b
 Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete
@@ -12981,6 +13742,7 @@ unwirksam.
 
 
 ###### § 559a Anrechnung von Drittmitteln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246602377)
 
 (1) Kosten, die vom Mieter oder für diesen von einem Dritten
 übernommen oder die mit Zuschüssen aus öffentlichen Haushalten gedeckt
@@ -13014,6 +13776,7 @@ unwirksam.
 
 
 ###### § 559b Geltendmachung der Erhöhung, Wirkung der Erhöhungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246702377)
 
 (1) Die Mieterhöhung nach § 559 ist dem Mieter in Textform zu
 erklären. Die Erklärung ist nur wirksam, wenn in ihr die Erhöhung auf
@@ -13040,6 +13803,7 @@ unwirksam.
 
 
 ###### § 559c Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280301360)
 
 (1) Übersteigen die für die Modernisierungsmaßnahme geltend gemachten
 Kosten für die Wohnung vor Abzug der Pauschale nach Satz 2 10 000 Euro
@@ -13099,6 +13863,7 @@ dass
 
 
 ###### § 559d Pflichtverletzungen bei Ankündigung oder Durchführung einer baulichen Veränderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280400360)
 
 Es wird vermutet, dass der Vermieter seine Pflichten aus dem
 Schuldverhältnis verletzt hat, wenn
@@ -13130,6 +13895,7 @@ vorliegt.
 
 
 ###### § 559e Mieterhöhung nach Einbau oder Aufstellung einer Heizungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292200360)
 
 (1) Hat der Vermieter Modernisierungsmaßnahmen nach § 555b Nummer 1a
 durchgeführt, welche die Voraussetzungen für Zuschüsse aus
@@ -13161,6 +13927,7 @@ unwirksam.
 
 
 ###### § 560 Veränderungen von Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056402377)
 
 (1) Bei einer Betriebskostenpauschale ist der Vermieter berechtigt,
 Erhöhungen der Betriebskosten durch Erklärung in Textform anteilig auf
@@ -13193,6 +13960,7 @@ unwirksam.
 
 
 ###### § 561 Sonderkündigungsrecht des Mieters nach Mieterhöhung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056502377)
 
 (1) Macht der Vermieter eine Mieterhöhung nach § 558 oder § 559
 geltend, so kann der Mieter bis zum Ablauf des zweiten Monats nach dem
@@ -13205,10 +13973,12 @@ unwirksam.
 
 
 ###### Kapitel 3 - Pfandrecht des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022102377)
 
 
 
 ###### § 562 Umfang des Vermieterpfandrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056602377)
 
 (1) Der Vermieter hat für seine Forderungen aus dem Mietverhältnis ein
 Pfandrecht an den eingebrachten Sachen des Mieters. Es erstreckt sich
@@ -13220,6 +13990,7 @@ Pfandrecht nicht geltend gemacht werden.
 
 
 ###### § 562a Erlöschen des Vermieterpfandrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246801377)
 
 Das Pfandrecht des Vermieters erlischt mit der Entfernung der Sachen
 von dem Grundstück, außer wenn diese ohne Wissen oder unter
@@ -13230,6 +14001,7 @@ Vermieters offenbar ausreichen.
 
 
 ###### § 562b Selbsthilferecht, Herausgabeanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE246901377)
 
 (1) Der Vermieter darf die Entfernung der Sachen, die seinem
 Pfandrecht unterliegen, auch ohne Anrufen des Gerichts verhindern,
@@ -13247,6 +14019,7 @@ gerichtlich geltend gemacht hat.
 
 
 ###### § 562c Abwendung des Pfandrechts durch Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247001377)
 
 Der Mieter kann die Geltendmachung des Pfandrechts des Vermieters
 durch Sicherheitsleistung abwenden. Er kann jede einzelne Sache
@@ -13255,6 +14028,7 @@ Sicherheit leistet.
 
 
 ###### § 562d Pfändung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247101377)
 
 Wird eine Sache, die dem Pfandrecht des Vermieters unterliegt, für
 einen anderen Gläubiger gepfändet, so kann diesem gegenüber das
@@ -13263,10 +14037,12 @@ Jahr vor der Pfändung geltend gemacht werden.
 
 
 ###### Kapitel 4 - Wechsel der Vertragsparteien
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022202377)
 
 
 
 ###### § 563 Eintrittsrecht bei Tod des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056704308)
 
 (1) Der Ehegatte oder Lebenspartner, der mit dem Mieter einen
 gemeinsamen Haushalt führt, tritt mit dem Tod des Mieters in das
@@ -13299,6 +14075,7 @@ ist unwirksam.
 
 
 ###### § 563a Fortsetzung mit überlebenden Mietern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247201377)
 
 (1) Sind mehrere Personen im Sinne des § 563 gemeinsam Mieter, so wird
 das Mietverhältnis beim Tod eines Mieters mit den überlebenden Mietern
@@ -13313,6 +14090,7 @@ unwirksam.
 
 
 ###### § 563b Haftung bei Eintritt oder Fortsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247301377)
 
 (1) Die Personen, die nach § 563 in das Mietverhältnis eingetreten
 sind oder mit denen es nach § 563a fortgesetzt wird, haften neben dem
@@ -13333,6 +14111,7 @@ Maßgabe des § 551 eine Sicherheitsleistung verlangen.
 
 
 ###### § 564 Fortsetzung des Mietverhältnisses mit dem Erben, außerordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE056802377)
 
 Treten beim Tod des Mieters keine Personen im Sinne des § 563 in das
 Mietverhältnis ein oder wird es nicht mit ihnen nach § 563a
@@ -13345,6 +14124,7 @@ nicht erfolgt sind.
 
 
 ###### § 565 Gewerbliche Weitervermietung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE057103377)
 
 (1) Soll der Mieter nach dem Mietvertrag den gemieteten Wohnraum
 gewerblich einem Dritten zu Wohnzwecken weitervermieten, so tritt der
@@ -13362,6 +14142,7 @@ unwirksam.
 
 
 ###### § 566 Kauf bricht nicht Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE057702377)
 
 (1) Wird der vermietete Wohnraum nach der Überlassung an den Mieter
 von dem Vermieter an einen Dritten veräußert, so tritt der Erwerber
@@ -13378,6 +14159,7 @@ zulässig ist.
 
 
 ###### § 566a Mietsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247401377)
 
 Hat der Mieter des veräußerten Wohnraums dem Vermieter für die
 Erfüllung seiner Pflichten Sicherheit geleistet, so tritt der Erwerber
@@ -13388,6 +14170,7 @@ verpflichtet.
 
 
 ###### § 566b Vorausverfügung über die Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247501377)
 
 (1) Hat der Vermieter vor dem Übergang des Eigentums über die Miete
 verfügt, die auf die Zeit der Berechtigung des Erwerbers entfällt, so
@@ -13403,6 +14186,7 @@ des Eigentums kennt.
 
 
 ###### § 566c Vereinbarung zwischen Mieter und Vermieter über die Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247601377)
 
 Ein Rechtsgeschäft, das zwischen dem Mieter und dem Vermieter über die
 Mietforderung vorgenommen wird, insbesondere die Entrichtung der
@@ -13418,6 +14202,7 @@ Eigentums Kenntnis hat.
 
 
 ###### § 566d Aufrechnung durch den Mieter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247701377)
 
 Soweit die Entrichtung der Miete an den Vermieter nach § 566c dem
 Erwerber gegenüber wirksam ist, kann der Mieter gegen die
@@ -13430,6 +14215,7 @@ geworden ist.
 
 
 ###### § 566e Mitteilung des Eigentumsübergangs durch den Vermieter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247801377)
 
 (1) Teilt der Vermieter dem Mieter mit, dass er das Eigentum an dem
 vermieteten Wohnraum auf einen Dritten übertragen hat, so muss er in
@@ -13442,6 +14228,7 @@ werden, der als der neue Eigentümer bezeichnet worden ist.
 
 
 ###### § 567 Belastung des Wohnraums durch den Vermieter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE057802377)
 
 Wird der vermietete Wohnraum nach der Überlassung an den Mieter von
 dem Vermieter mit dem Recht eines Dritten belastet, so sind die §§ 566
@@ -13454,6 +14241,7 @@ beeinträchtigen würde.
 
 
 ###### § 567a Veräußerung oder Belastung vor der Überlassung des Wohnraums
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE247901377)
 
 Hat vor der Überlassung des vermieteten Wohnraums an den Mieter der
 Vermieter den Wohnraum an einen Dritten veräußert oder mit einem Recht
@@ -13465,6 +14253,7 @@ Pflichten übernommen hat.
 
 
 ###### § 567b Weiterveräußerung oder Belastung durch Erwerber
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248001377)
 
 Wird der vermietete Wohnraum von dem Erwerber weiterveräußert oder
 belastet, so sind § 566 Abs. 1 und die §§ 566a bis 567a entsprechend
@@ -13474,14 +14263,17 @@ ergebenden Pflichten nicht, so haftet der Vermieter dem Mieter nach §
 
 
 ###### Kapitel 5 - Beendigung des Mietverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022302377)
 
 
 
 ###### Unterkapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022402377)
 
 
 
 ###### § 568 Form und Inhalt der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE057902377)
 
 (1) Die Kündigung des Mietverhältnisses bedarf der schriftlichen Form.
 
@@ -13491,6 +14283,7 @@ hinweisen.
 
 
 ###### § 569 Außerordentliche fristlose Kündigung aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058004377)
 
 (1) Ein wichtiger Grund im Sinne des § 543 Abs. 1 liegt für den Mieter
 auch vor, wenn der gemietete Wohnraum so beschaffen ist, dass seine
@@ -13556,12 +14349,14 @@ außerordentlich fristlos zu kündigen.
 
 
 ###### § 570 Ausschluss des Zurückbehaltungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058302377)
 
 Dem Mieter steht kein Zurückbehaltungsrecht gegen den Rückgabeanspruch
 des Vermieters zu.
 
 
 ###### § 571 Weiterer Schadensersatz bei verspäteter Rückgabe von Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058502377)
 
 (1) Gibt der Mieter den gemieteten Wohnraum nach Beendigung des
 Mietverhältnisses nicht zurück, so kann der Vermieter einen weiteren
@@ -13581,6 +14376,7 @@ unwirksam.
 
 
 ###### § 572 Vereinbartes Rücktrittsrecht; Mietverhältnis unter auflösender Bedingung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058602377)
 
 (1) Auf eine Vereinbarung, nach der der Vermieter berechtigt sein
 soll, nach Überlassung des Wohnraums an den Mieter vom Vertrag
@@ -13592,10 +14388,12 @@ auflösend bedingt ist.
 
 
 ###### Unterkapitel 2 - Mietverhältnisse auf unbestimmte Zeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022502377)
 
 
 
 ###### § 573 Ordentliche Kündigung des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058702377)
 
 (1) Der Vermieter kann nur kündigen, wenn er ein berechtigtes
 Interesse an der Beendigung des Mietverhältnisses hat. Die Kündigung
@@ -13633,6 +14431,7 @@ unwirksam.
 
 
 ###### § 573a Erleichterte Kündigung des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248101377)
 
 (1) Ein Mietverhältnis über eine Wohnung in einem vom Vermieter selbst
 bewohnten Gebäude mit nicht mehr als zwei Wohnungen kann der Vermieter
@@ -13652,6 +14451,7 @@ unwirksam.
 
 
 ###### § 573b Teilkündigung des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248201377)
 
 (1) Der Vermieter kann nicht zum Wohnen bestimmte Nebenräume oder
 Teile eines Grundstücks ohne ein berechtigtes Interesse im Sinne des §
@@ -13681,6 +14481,7 @@ unwirksam.
 
 
 ###### § 573c Fristen der ordentlichen Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248301377)
 
 (1) Die Kündigung ist spätestens am dritten Werktag eines
 Kalendermonats zum Ablauf des übernächsten Monats zulässig. Die
@@ -13698,6 +14499,7 @@ Vereinbarung ist unwirksam.
 
 
 ###### § 573d Außerordentliche Kündigung mit gesetzlicher Frist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248401377)
 
 (1) Kann ein Mietverhältnis außerordentlich mit der gesetzlichen Frist
 gekündigt werden, so gelten mit Ausnahme der Kündigung gegenüber Erben
@@ -13714,6 +14516,7 @@ unwirksam.
 
 
 ###### § 574 Widerspruch des Mieters gegen die Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058802377)
 
 (1) Der Mieter kann der Kündigung des Vermieters widersprechen und von
 ihm die Fortsetzung des Mietverhältnisses verlangen, wenn die
@@ -13737,6 +14540,7 @@ unwirksam.
 
 
 ###### § 574a Fortsetzung des Mietverhältnisses nach Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248501377)
 
 (1) Im Falle des § 574 kann der Mieter verlangen, dass das
 Mietverhältnis so lange fortgesetzt wird, wie dies unter
@@ -13758,6 +14562,7 @@ unwirksam.
 
 
 ###### § 574b Form und Frist des Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248602125)
 
 (1) Der Widerspruch des Mieters gegen die Kündigung ist in Textform zu
 erklären. Auf Verlangen des Vermieters soll der Mieter über die Gründe
@@ -13776,6 +14581,7 @@ unwirksam.
 
 
 ###### § 574c Weitere Fortsetzung des Mietverhältnisses bei unvorhergesehenen Umständen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248701377)
 
 (1) Ist auf Grund der §§ 574 bis 574b durch Einigung oder Urteil
 bestimmt worden, dass das Mietverhältnis auf bestimmte Zeit
@@ -13798,10 +14604,12 @@ unwirksam.
 
 
 ###### Unterkapitel 3 - Mietverhältnisse auf bestimmte Zeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022602377)
 
 
 
 ###### § 575 Zeitmietvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE058902377)
 
 (1) Ein Mietverhältnis kann auf bestimmte Zeit eingegangen werden,
 wenn der Vermieter nach Ablauf der Mietzeit
@@ -13841,6 +14649,7 @@ unwirksam.
 
 
 ###### § 575a Außerordentliche Kündigung mit gesetzlicher Frist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248801377)
 
 (1) Kann ein Mietverhältnis, das auf bestimmte Zeit eingegangen ist,
 außerordentlich mit der gesetzlichen Frist gekündigt werden, so gelten
@@ -13862,10 +14671,12 @@ unwirksam.
 
 
 ###### Unterkapitel 4 - Werkwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022702377)
 
 
 
 ###### § 576 Fristen der ordentlichen Kündigung bei Werkmietwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059002377)
 
 (1) Ist Wohnraum mit Rücksicht auf das Bestehen eines
 Dienstverhältnisses vermietet, so kann der Vermieter nach Beendigung
@@ -13892,6 +14703,7 @@ unwirksam.
 
 
 ###### § 576a Besonderheiten des Widerspruchsrechts bei Werkmietwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE248901377)
 
 (1) Bei der Anwendung der §§ 574 bis 574c auf Werkmietwohnungen sind
 auch die Belange des Dienstberechtigten zu berücksichtigen.
@@ -13914,6 +14726,7 @@ unwirksam.
 
 
 ###### § 576b Entsprechende Geltung des Mietrechts bei Werkdienstwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE249001377)
 
 (1) Ist Wohnraum im Rahmen eines Dienstverhältnisses überlassen, so
 gelten für die Beendigung des Rechtsverhältnisses hinsichtlich des
@@ -13928,10 +14741,12 @@ unwirksam.
 
 
 ###### Kapitel 6 - Besonderheiten bei der Bildung von Wohnungseigentum an vermieteten Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022802377)
 
 
 
 ###### § 577 Vorkaufsrecht des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059102377)
 
 (1) Werden vermietete Wohnräume, an denen nach der Überlassung an den
 Mieter Wohnungseigentum begründet worden ist oder begründet werden
@@ -13957,6 +14772,7 @@ unwirksam.
 
 
 ###### § 577a Kündigungsbeschränkung bei Wohnungsumwandlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE249102377)
 
 (1) Ist an vermieteten Wohnräumen nach der Überlassung an den Mieter
 Wohnungseigentum begründet und das Wohnungseigentum veräußert worden,
@@ -14000,10 +14816,12 @@ unwirksam.
 
 
 ##### Untertitel 3 - Mietverhältnisse über andere Sachen und digitale Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG022903360)
 
 
 
 ###### § 578 Mietverhältnisse über Grundstücke und Räume
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059206125)
 
 (1) Auf Mietverhältnisse über Grundstücke sind die Vorschriften der §§
 554, 562 bis 562d, 566 bis 567b sowie 570 entsprechend anzuwenden. §
@@ -14035,6 +14853,7 @@ obliegende oder ihm übertragene öffentliche Aufgaben nutzen will.
 
 
 ###### § 578a Mietverhältnisse über eingetragene Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE249201377)
 
 (1) Die Vorschriften der §§ 566, 566a, 566e bis 567b gelten im Falle
 der Veräußerung oder Belastung eines im Schiffsregister eingetragenen
@@ -14052,6 +14871,7 @@ hat. § 566d gilt entsprechend.
 
 
 ###### § 578b Verträge über die Miete digitaler Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE286100360)
 
 (1) Auf einen Verbrauchervertrag, bei dem der Unternehmer sich
 verpflichtet, dem Verbraucher digitale Produkte zu vermieten, sind die
@@ -14097,6 +14917,7 @@ Absatz 2 treten die Vorschriften des Abschnitts 3 Titel 2a Untertitel
 
 
 ###### § 579 Fälligkeit der Miete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059303377)
 
 (1) Die Miete für ein Grundstück und für bewegliche Sachen ist am Ende
 der Mietzeit zu entrichten. Ist die Miete nach Zeitabschnitten
@@ -14110,6 +14931,7 @@ entrichten.
 
 
 ###### § 580 Außerordentliche Kündigung bei Tod des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059402377)
 
 Stirbt der Mieter, so ist sowohl der Erbe als auch der Vermieter
 berechtigt, das Mietverhältnis innerhalb eines Monats, nachdem sie vom
@@ -14118,6 +14940,7 @@ gesetzlichen Frist zu kündigen.
 
 
 ###### § 580a Kündigungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059504360)
 
 (1) Bei einem Mietverhältnis über Grundstücke, über Räume, die keine
 Geschäftsräume sind, ist die ordentliche Kündigung zulässig,
@@ -14165,10 +14988,12 @@ gekündigt werden kann.
 
 
 ##### Untertitel 4 - Pachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005203377)
 
 
 
 ###### § 581 Vertragstypische Pflichten beim Pachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059604377)
 
 (1) Durch den Pachtvertrag wird der Verpächter verpflichtet, dem
 Pächter den Gebrauch des verpachteten Gegenstands und den Genuss der
@@ -14183,6 +15008,7 @@ Vorschriften über den Mietvertrag entsprechend anzuwenden.
 
 
 ###### § 582 Erhaltung des Inventars
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059703377)
 
 (1) Wird ein Grundstück mit Inventar verpachtet, so obliegt dem
 Pächter die Erhaltung der einzelnen Inventarstücke.
@@ -14195,6 +15021,7 @@ ordnungsmäßigen Wirtschaft entspricht.
 
 
 ###### § 582a Inventarübernahme zum Schätzwert
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234203377)
 
 (1) Übernimmt der Pächter eines Grundstücks das Inventar zum
 Schätzwert mit der Verpflichtung, es bei Beendigung des
@@ -14221,6 +15048,7 @@ Zeitpunkt der Beendigung des Pachtverhältnisses zugrunde zu legen.
 
 
 ###### § 583 Pächterpfandrecht am Inventar
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059803377)
 
 (1) Dem Pächter eines Grundstücks steht für die Forderungen gegen den
 Verpächter, die sich auf das mitgepachtete Inventar beziehen, ein
@@ -14233,6 +15061,7 @@ Wertes Sicherheit leistet.
 
 
 ###### § 583a Verfügungsbeschränkungen bei Inventar
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234302377)
 
 Vertragsbestimmungen, die den Pächter eines Betriebs verpflichten,
 nicht oder nicht ohne Einwilligung des Verpächters über Inventarstücke
@@ -14242,6 +15071,7 @@ Beendigung des Pachtverhältnisses zum Schätzwert zu erwerben.
 
 
 ###### § 584 Kündigungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE059904377)
 
 (1) Ist bei dem Pachtverhältnis über ein Grundstück oder ein Recht die
 Pachtzeit nicht bestimmt, so ist die Kündigung nur für den Schluss
@@ -14253,6 +15083,7 @@ gesetzlichen Frist gekündigt werden kann.
 
 
 ###### § 584a Ausschluss bestimmter mietrechtlicher Kündigungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234403377)
 
 (1) Dem Pächter steht das in § 540 Abs. 1 bestimmte Kündigungsrecht
 nicht zu.
@@ -14262,6 +15093,7 @@ nicht zu.
 
 
 ###### § 584b Verspätete Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234503377)
 
 Gibt der Pächter den gepachteten Gegenstand nach der Beendigung des
 Pachtverhältnisses nicht zurück, so kann der Verpächter für die Dauer
@@ -14273,10 +15105,12 @@ ist nicht ausgeschlossen.
 
 
 ##### Untertitel 5 - Landpachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020203377)
 
 
 
 ###### § 585 Begriff des Landpachtvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060004377)
 
 (1) Durch den Landpachtvertrag wird ein Grundstück mit den seiner
 Bewirtschaftung dienenden Wohn- oder Wirtschaftsgebäuden (Betrieb)
@@ -14295,12 +15129,14 @@ Betrieb verpachtet werden.
 
 
 ###### § 585a Form des Landpachtvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234603125)
 
 Wird der Landpachtvertrag für längere Zeit als zwei Jahre nicht in
 Textform geschlossen, so gilt er für unbestimmte Zeit.
 
 
 ###### § 585b Beschreibung der Pachtsache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234702377)
 
 (1) Der Verpächter und der Pächter sollen bei Beginn des
 Pachtverhältnisses gemeinsam eine Beschreibung der Pachtsache
@@ -14327,6 +15163,7 @@ ist.
 
 
 ###### § 586 Vertragstypische Pflichten beim Landpachtvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060104377)
 
 (1) Der Verpächter hat die Pachtsache dem Pächter in einem zu der
 vertragsmäßigen Nutzung geeigneten Zustand zu überlassen und sie
@@ -14343,11 +15180,13 @@ solcher Mängel gelten die Vorschriften des § 536 Abs. 1 bis 3 und der
 
 
 ###### § 586a Lasten der Pachtsache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234802377)
 
 Der Verpächter hat die auf der Pachtsache ruhenden Lasten zu tragen.
 
 
 ###### § 587 Fälligkeit der Pacht; Entrichtung der Pacht bei persönlicher Verhinderung des Pächters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060203377)
 
 (1) Die Pacht ist am Ende der Pachtzeit zu entrichten. Ist die Pacht
 nach Zeitabschnitten bemessen, so ist sie am ersten Werktag nach dem
@@ -14360,6 +15199,7 @@ Ausübung des ihm zustehenden Nutzungsrechts verhindert ist. § 537 Abs.
 
 
 ###### § 588 Maßnahmen zur Erhaltung oder Verbesserung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060304377)
 
 (1) Der Pächter hat Einwirkungen auf die Pachtsache zu dulden, die zu
 ihrer Erhaltung erforderlich sind.
@@ -14386,6 +15226,7 @@ Landwirtschaftsgericht auf Antrag des Verpächters ersetzen.
 
 
 ###### § 589 Nutzungsüberlassung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060403377)
 
 (1) Der Pächter ist ohne Erlaubnis des Verpächters nicht berechtigt,
 
@@ -14406,6 +15247,7 @@ fällt, zu vertreten, auch wenn der Verpächter die Erlaubnis zur
 
 
 ###### § 590 Änderung der landwirtschaftlichen Bestimmung oder der bisherigen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060503377)
 
 (1) Der Pächter darf die landwirtschaftliche Bestimmung der Pachtsache
 nur mit vorheriger Erlaubnis des Verpächters ändern.
@@ -14439,6 +15281,7 @@ worden ist.
 
 
 ###### § 590a Vertragswidriger Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE234902377)
 
 Macht der Pächter von der Pachtsache einen vertragswidrigen Gebrauch
 und setzt er den Gebrauch ungeachtet einer Abmahnung des Verpächters
@@ -14446,12 +15289,14 @@ fort, so kann der Verpächter auf Unterlassung klagen.
 
 
 ###### § 590b Notwendige Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235002377)
 
 Der Verpächter ist verpflichtet, dem Pächter die notwendigen
 Verwendungen auf die Pachtsache zu ersetzen.
 
 
 ###### § 591 Wertverbessernde Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060603377)
 
 (1) Andere als notwendige Verwendungen, denen der Verpächter
 zugestimmt hat, hat er dem Pächter bei Beendigung des
@@ -14482,6 +15327,7 @@ Pachtverhältnisses.
 
 
 ###### § 591a Wegnahme von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235102377)
 
 Der Pächter ist berechtigt, eine Einrichtung, mit der er die Sache
 versehen hat, wegzunehmen. Der Verpächter kann die Ausübung des
@@ -14493,6 +15339,7 @@ Ausgleich vorgesehen ist.
 
 
 ###### § 591b Verjährung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235202377)
 
 (1) Die Ersatzansprüche des Verpächters wegen Veränderung oder
 Verschlechterung der verpachteten Sache sowie die Ansprüche des
@@ -14509,6 +15356,7 @@ Sache verjähren auch die Ersatzansprüche des Verpächters.
 
 
 ###### § 592 Verpächterpfandrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060706125)
 
 Der Verpächter hat für seine Forderungen aus dem Pachtverhältnis ein
 Pfandrecht an den eingebrachten Sachen des Pächters sowie an den
@@ -14522,6 +15370,7 @@ Vorschriften der §§ 562a bis 562c gelten entsprechend.
 
 
 ###### § 593 Änderung von Landpachtverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060804377)
 
 (1) Haben sich nach Abschluss des Pachtvertrags die Verhältnisse, die
 für die Festsetzung der Vertragsleistungen maßgebend waren, nachhaltig
@@ -14554,6 +15403,7 @@ ist unwirksam.
 
 
 ###### § 593a Betriebsübergabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235303377)
 
 Wird bei der Übergabe eines Betriebs im Wege der vorweggenommenen
 Erbfolge ein zugepachtetes Grundstück, das der Landwirtschaft dient,
@@ -14566,12 +15416,14 @@ außerordentlich mit der gesetzlichen Frist zu kündigen.
 
 
 ###### § 593b Veräußerung oder Belastung des verpachteten Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235403377)
 
 Wird das verpachtete Grundstück veräußert oder mit dem Recht eines
 Dritten belastet, so gelten die §§ 566 bis 567b entsprechend.
 
 
 ###### § 594 Ende und Verlängerung des Pachtverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE060903377)
 
 Das Pachtverhältnis endet mit dem Ablauf der Zeit, für die es
 eingegangen ist. Es verlängert sich bei Pachtverträgen, die auf
@@ -14586,6 +15438,7 @@ drittletzten Pachtjahrs gestellt wird.
 
 
 ###### § 594a Kündigungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235504125)
 
 (1) Ist die Pachtzeit nicht bestimmt, so kann jeder Vertragsteil das
 Pachtverhältnis spätestens am dritten Werktag eines Pachtjahrs für den
@@ -14601,6 +15454,7 @@ dessen Ablauf die Pacht enden soll.
 
 
 ###### § 594b Vertrag über mehr als 30 Jahre
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235602377)
 
 Wird ein Pachtvertrag für eine längere Zeit als 30 Jahre geschlossen,
 so kann nach 30 Jahren jeder Vertragsteil das Pachtverhältnis
@@ -14611,6 +15465,7 @@ geschlossen ist.
 
 
 ###### § 594c Kündigung bei Berufsunfähigkeit des Pächters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235703377)
 
 Ist der Pächter berufsunfähig im Sinne der Vorschriften der
 gesetzlichen Rentenversicherung geworden, so kann er das
@@ -14621,6 +15476,7 @@ widerspricht. Eine abweichende Vereinbarung ist unwirksam.
 
 
 ###### § 594d Tod des Pächters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235804125)
 
 (1) Stirbt der Pächter, so sind sowohl seine Erben als auch der
 Verpächter innerhalb eines Monats, nachdem sie vom Tod des Pächters
@@ -14645,6 +15501,7 @@ Fortsetzungsverlangen des Erben nach § 595 ausgeschlossen.
 
 
 ###### § 594e Außerordentliche fristlose Kündigung aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE235902377)
 
 (1) Die außerordentliche fristlose Kündigung des Pachtverhältnisses
 ist in entsprechender Anwendung der §§ 543, 569 Abs. 1 und 2 zulässig.
@@ -14660,11 +15517,13 @@ in Verzug ist.
 
 
 ###### § 594f Schriftform der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236002377)
 
 Die Kündigung bedarf der schriftlichen Form.
 
 
 ###### § 595 Fortsetzung des Pachtverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061005125)
 
 (1) Der Pächter kann vom Verpächter die Fortsetzung des
 Pachtverhältnisses verlangen, wenn
@@ -14758,6 +15617,7 @@ Absätzen 1 bis 7 ausübt oder nicht ausübt, ist unwirksam.
 
 
 ###### § 595a Vorzeitige Kündigung von Landpachtverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236103377)
 
 (1) Soweit die Vertragsteile zur außerordentlichen Kündigung eines
 Landpachtverhältnisses mit der gesetzlichen Frist berechtigt sind,
@@ -14777,6 +15637,7 @@ Landwirtschaftsgericht.
 
 
 ###### § 596 Rückgabe der Pachtsache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061103377)
 
 (1) Der Pächter ist verpflichtet, die Pachtsache nach Beendigung des
 Pachtverhältnisses in dem Zustand zurückzugeben, der einer bis zur
@@ -14791,6 +15652,7 @@ Pachtverhältnisses auch von dem Dritten zurückfordern.
 
 
 ###### § 596a Ersatzpflicht bei vorzeitigem Pachtende
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236202377)
 
 (1) Endet das Pachtverhältnis im Laufe eines Pachtjahrs, so hat der
 Verpächter dem Pächter den Wert der noch nicht getrennten, jedoch nach
@@ -14811,6 +15673,7 @@ Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
 
 ###### § 596b Rücklassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236303377)
 
 (1) Der Pächter eines Betriebs hat von den bei Beendigung des
 Pachtverhältnisses vorhandenen landwirtschaftlichen Erzeugnissen so
@@ -14825,6 +15688,7 @@ Verpächter Ersatz des Wertes verlangen.
 
 
 ###### § 597 Verspätete Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061204377)
 
 Gibt der Pächter die Pachtsache nach Beendigung des Pachtverhältnisses
 nicht zurück, so kann der Verpächter für die Dauer der Vorenthaltung
@@ -14833,21 +15697,25 @@ eines weiteren Schadens ist nicht ausgeschlossen.
 
 
 #### Titel 6 - Leihe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005302377)
 
 
 
 ##### § 598 Vertragstypische Pflichten bei der Leihe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061302377)
 
 Durch den Leihvertrag wird der Verleiher einer Sache verpflichtet, dem
 Entleiher den Gebrauch der Sache unentgeltlich zu gestatten.
 
 
 ##### § 599 Haftung des Verleihers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061402377)
 
 Der Verleiher hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
 
 
 ##### § 600 Mängelhaftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061502377)
 
 Verschweigt der Verleiher arglistig einen Mangel im Recht oder einen
 Fehler der verliehenen Sache, so ist er verpflichtet, dem Entleiher
@@ -14855,6 +15723,7 @@ den daraus entstehenden Schaden zu ersetzen.
 
 
 ##### § 601 Verwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061602377)
 
 (1) Der Entleiher hat die gewöhnlichen Kosten der Erhaltung der
 geliehenen Sache, bei der Leihe eines Tieres insbesondere die
@@ -14867,6 +15736,7 @@ die Sache versehen hat, wegzunehmen.
 
 
 ##### § 602 Abnutzung der Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061702377)
 
 Veränderungen oder Verschlechterungen der geliehenen Sache, die durch
 den vertragsmäßigen Gebrauch herbeigeführt werden, hat der Entleiher
@@ -14874,6 +15744,7 @@ nicht zu vertreten.
 
 
 ##### § 603 Vertragsmäßiger Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061802377)
 
 Der Entleiher darf von der geliehenen Sache keinen anderen als den
 vertragsmäßigen Gebrauch machen. Er ist ohne die Erlaubnis des
@@ -14882,6 +15753,7 @@ Verleihers nicht berechtigt, den Gebrauch der Sache einem Dritten zu
 
 
 ##### § 604 Rückgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE061902377)
 
 (1) Der Entleiher ist verpflichtet, die geliehene Sache nach dem
 Ablauf der für die Leihe bestimmten Zeit zurückzugeben.
@@ -14904,6 +15776,7 @@ der Beendigung der Leihe.
 
 
 ##### § 605 Kündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062002377)
 
 Der Verleiher kann die Leihe kündigen:
 
@@ -14924,6 +15797,7 @@ Der Verleiher kann die Leihe kündigen:
 
 
 ##### § 606 Kurze Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062103377)
 
 Die Ersatzansprüche des Verleihers wegen Veränderungen oder
 Verschlechterungen der verliehenen Sache sowie die Ansprüche des
@@ -14934,10 +15808,12 @@ entsprechende Anwendung.
 
 
 #### Titel 7 - Sachdarlehensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005402377)
 
 
 
 ##### § 607 Vertragstypische Pflichten beim Sachdarlehensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062202377)
 
 (1) Durch den Sachdarlehensvertrag wird der Darlehensgeber
 verpflichtet, dem Darlehensnehmer eine vereinbarte vertretbare Sache
@@ -14950,6 +15826,7 @@ gleicher Art, Güte und Menge verpflichtet.
 
 
 ##### § 608 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062302377)
 
 (1) Ist für die Rückerstattung der überlassenen Sache eine Zeit nicht
 bestimmt, hängt die Fälligkeit davon ab, dass der Darlehensgeber oder
@@ -14962,17 +15839,20 @@ werden.
 
 
 ##### § 609 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062403377)
 
 Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der
 überlassenen Sache zu bezahlen.
 
 
 ##### § 610
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062502377)
 
 (weggefallen)
 
 
 #### Titel 8 - Dienstvertrag und ähnliche Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005503377)
 
 [^BJNR001950896BJNG005502377_BJNR001950896BJNG005503377]
 
@@ -14994,9 +15874,11 @@ Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der
 
 
 ##### Untertitel 1 - Dienstvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026800377)
 
 
 ###### § 611 Vertragstypische Pflichten beim Dienstvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062602377)
 
 (1) Durch den Dienstvertrag wird derjenige, welcher Dienste zusagt,
 zur Leistung der versprochenen Dienste, der andere Teil zur Gewährung
@@ -15006,6 +15888,7 @@ der vereinbarten Vergütung verpflichtet.
 
 
 ###### § 611a Arbeitsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE275600123)
 
 (1) Durch den Arbeitsvertrag wird der Arbeitnehmer im Dienste eines
 anderen zur Leistung weisungsgebundener, fremdbestimmter Arbeit in
@@ -15025,9 +15908,11 @@ verpflichtet.
 
 
 ###### § 611b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233406123)
 
 
 ###### § 612 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233603377)
 
 (1) Eine Vergütung gilt als stillschweigend vereinbart, wenn die
 Dienstleistung den Umständen nach nur gegen eine Vergütung zu erwarten
@@ -15041,6 +15926,7 @@ einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die
 
 
 ###### § 612a Maßregelungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233702377)
 
 Der Arbeitgeber darf einen Arbeitnehmer bei einer Vereinbarung oder
 einer Maßnahme nicht benachteiligen, weil der Arbeitnehmer in
@@ -15048,6 +15934,7 @@ zulässiger Weise seine Rechte ausübt.
 
 
 ###### § 613 Unübertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE062802377)
 
 Der zur Dienstleistung Verpflichtete hat die Dienste im Zweifel in
 Person zu leisten. Der Anspruch auf die Dienste ist im Zweifel nicht
@@ -15055,6 +15942,7 @@ Person zu leisten. Der Anspruch auf die Dienste ist im Zweifel nicht
 
 
 ###### § 613a Rechte und Pflichten bei Betriebsübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233805377)
 
 (1) Geht ein Betrieb oder Betriebsteil durch Rechtsgeschäft auf einen
 anderen Inhaber über, so tritt dieser in die Rechte und Pflichten aus
@@ -15117,6 +16005,7 @@ bisherigen Arbeitgeber oder dem neuen Inhaber erklärt werden.
 
 
 ###### § 614 Fälligkeit der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063002377)
 
 Die Vergütung ist nach der Leistung der Dienste zu entrichten. Ist die
 Vergütung nach Zeitabschnitten bemessen, so ist sie nach dem Ablauf
@@ -15124,6 +16013,7 @@ der einzelnen Zeitabschnitte zu entrichten.
 
 
 ###### § 615 Vergütung bei Annahmeverzug und bei Betriebsrisiko
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063102377)
 
 Kommt der Dienstberechtigte mit der Annahme der Dienste in Verzug, so
 kann der Verpflichtete für die infolge des Verzugs nicht geleisteten
@@ -15137,6 +16027,7 @@ Arbeitsausfalls trägt.
 
 
 ###### § 616 Vorübergehende Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063204377)
 
 Der zur Dienstleistung Verpflichtete wird des Anspruchs auf die
 Vergütung nicht dadurch verlustig, dass er für eine verhältnismäßig
@@ -15148,6 +16039,7 @@ bestehenden Kranken- oder Unfallversicherung zukommt.
 
 
 ###### § 617 Pflicht zur Krankenfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063302377)
 
 (1) Ist bei einem dauernden Dienstverhältnis, welches die
 Erwerbstätigkeit des Verpflichteten vollständig oder hauptsächlich in
@@ -15172,6 +16064,7 @@ getroffen ist.
 
 
 ###### § 618 Pflicht zu Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063402377)
 
 (1) Der Dienstberechtigte hat Räume, Vorrichtungen oder Gerätschaften,
 die er zur Verrichtung der Dienste zu beschaffen hat, so einzurichten
@@ -15195,6 +16088,7 @@ entsprechende Anwendung.
 
 
 ###### § 619 Unabdingbarkeit der Fürsorgepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063502377)
 
 Die dem Dienstberechtigten nach den §§ 617, 618 obliegenden
 Verpflichtungen können nicht im Voraus durch Vertrag aufgehoben oder
@@ -15202,6 +16096,7 @@ beschränkt werden.
 
 
 ###### § 619a Beweislast bei Haftung des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262401377)
 
 Abweichend von § 280 Abs. 1 hat der Arbeitnehmer dem Arbeitgeber
 Ersatz für den aus der Verletzung einer Pflicht aus dem
@@ -15210,6 +16105,7 @@ Pflichtverletzung zu vertreten hat.
 
 
 ###### § 620 Beendigung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063604360)
 
 (1) Das Dienstverhältnis endigt mit dem Ablauf der Zeit, für die es
 eingegangen ist.
@@ -15226,6 +16122,7 @@ nach Maßgabe der §§ 327c, 327m und 327r Absatz 3 und 4 beendet werden.
 
 
 ###### § 621 Kündigungsfristen bei Dienstverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063702377)
 
 Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des §
 622 ist, ist die Kündigung zulässig,
@@ -15257,6 +16154,7 @@ Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des §
 
 
 ###### § 622 Kündigungsfristen bei Arbeitsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063807360)
 
 (1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten
 (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten
@@ -15326,6 +16224,7 @@ den Arbeitgeber.
 
 
 ###### § 623 Schriftform der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE063905377)
 
 Die Beendigung von Arbeitsverhältnissen durch Kündigung oder
 Auflösungsvertrag bedürfen zu ihrer Wirksamkeit der Schriftform; die
@@ -15333,6 +16232,7 @@ elektronische Form ist ausgeschlossen.
 
 
 ###### § 624 Kündigungsfrist bei Verträgen über mehr als fünf Jahre
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064002377)
 
 Ist das Dienstverhältnis für die Lebenszeit einer Person oder für
 längere Zeit als fünf Jahre eingegangen, so kann es von dem
@@ -15341,6 +16241,7 @@ Kündigungsfrist beträgt sechs Monate.
 
 
 ###### § 625 Stillschweigende Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064102377)
 
 Wird das Dienstverhältnis nach dem Ablauf der Dienstzeit von dem
 Verpflichteten mit Wissen des anderen Teiles fortgesetzt, so gilt es
@@ -15349,6 +16250,7 @@ unverzüglich widerspricht.
 
 
 ###### § 626 Fristlose Kündigung aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064202377)
 
 (1) Das Dienstverhältnis kann von jedem Vertragsteil aus wichtigem
 Grund ohne Einhaltung einer Kündigungsfrist gekündigt werden, wenn
@@ -15367,6 +16269,7 @@ unverzüglich schriftlich mitteilen.
 
 
 ###### § 627 Fristlose Kündigung bei Vertrauensstellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064302377)
 
 (1) Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne
 des § 622 ist, ist die Kündigung auch ohne die in § 626 bezeichnete
@@ -15383,6 +16286,7 @@ daraus entstehenden Schaden zu ersetzen.
 
 
 ###### § 628 Teilvergütung und Schadensersatz bei fristloser Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064403377)
 
 (1) Wird nach dem Beginn der Dienstleistung das Dienstverhältnis auf
 Grund des § 626 oder des § 627 gekündigt, so kann der Verpflichtete
@@ -15404,6 +16308,7 @@ des Dienstverhältnisses entstehenden Schadens verpflichtet.
 
 
 ###### § 629 Freizeit zur Stellungssuche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064502377)
 
 Nach der Kündigung eines dauernden Dienstverhältnisses hat der
 Dienstberechtigte dem Verpflichteten auf Verlangen angemessene Zeit
@@ -15411,6 +16316,7 @@ zum Aufsuchen eines anderen Dienstverhältnisses zu gewähren.
 
 
 ###### § 630 Pflicht zur Zeugniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064605125)
 
 Bei der Beendigung eines dauernden Dienstverhältnisses kann der
 Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das
@@ -15422,9 +16328,11 @@ findet § 109 der Gewerbeordnung Anwendung.
 
 
 ##### Untertitel 2 - Behandlungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026900377)
 
 
 ###### § 630a Vertragstypische Pflichten beim Behandlungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271400377)
 
 (1) Durch den Behandlungsvertrag wird derjenige, welcher die
 medizinische Behandlung eines Patienten zusagt (Behandelnder), zur
@@ -15438,6 +16346,7 @@ soweit nicht etwas anderes vereinbart ist.
 
 
 ###### § 630b Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271500377)
 
 Auf das Behandlungsverhältnis sind die Vorschriften über das
 Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des § 622 ist,
@@ -15446,6 +16355,7 @@ ist.
 
 
 ###### § 630c Mitwirkung der Vertragsparteien; Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271600377)
 
 (1) Behandelnder und Patient sollen zur Durchführung der Behandlung
 zusammenwirken.
@@ -15479,6 +16389,7 @@ auf die Information ausdrücklich verzichtet hat.
 
 
 ###### § 630d Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271701360)
 
 (1) Vor Durchführung einer medizinischen Maßnahme, insbesondere eines
 Eingriffs in den Körper oder die Gesundheit, ist der Behandelnde
@@ -15502,6 +16413,7 @@ formlos widerrufen werden.
 
 
 ###### § 630e Aufklärungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271800377)
 
 (1) Der Behandelnde ist verpflichtet, den Patienten über sämtliche für
 die Einwilligung wesentlichen Umstände aufzuklären. Dazu gehören
@@ -15550,6 +16462,7 @@ gilt entsprechend.
 
 
 ###### § 630f Dokumentation der Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271900377)
 
 (1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in
 unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine
@@ -15573,6 +16486,7 @@ anderen Vorschriften andere Aufbewahrungsfristen bestehen.
 
 
 ###### § 630g Einsichtnahme in die Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272000377)
 
 (1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die
 vollständige, ihn betreffende Patientenakte zu gewähren, soweit der
@@ -15593,6 +16507,7 @@ mutmaßliche Wille des Patienten entgegensteht.
 
 
 ###### § 630h Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE272100377)
 
 (1) Ein Fehler des Behandelnden wird vermutet, wenn sich ein
 allgemeines Behandlungsrisiko verwirklicht hat, das für den
@@ -15630,18 +16545,22 @@ gewesen wäre.
 
 
 #### Titel 9 - Werkvertrag und ähnliche Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005602377)
 
 
 
 ##### Untertitel 1 - Werkvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005702377)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027800123)
 
 
 
 ###### § 631 Vertragstypische Pflichten beim Werkvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064702377)
 
 (1) Durch den Werkvertrag wird der Unternehmer zur Herstellung des
 versprochenen Werkes, der Besteller zur Entrichtung der vereinbarten
@@ -15653,6 +16572,7 @@ Dienstleistung herbeizuführender Erfolg sein.
 
 
 ###### § 632 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064802377)
 
 (1) Eine Vergütung gilt als stillschweigend vereinbart, wenn die
 Herstellung des Werkes den Umständen nach nur gegen eine Vergütung zu
@@ -15666,6 +16586,7 @@ einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die
 
 
 ###### § 632a Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE244304123)
 
 (1) Der Unternehmer kann von dem Besteller eine Abschlagszahlung in
 Höhe des Wertes der von ihm erbrachten und nach dem Vertrag
@@ -15688,6 +16609,7 @@ Kreditversicherers geleistet werden.
 
 
 ###### § 633 Sach- und Rechtsmangel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE064902377)
 
 (1) Der Unternehmer hat dem Besteller das Werk frei von Sach- und
 Rechtsmängeln zu verschaffen.
@@ -15714,6 +16636,7 @@ Besteller geltend machen können.
 
 
 ###### § 634 Rechte des Bestellers bei Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065002377)
 
 Ist das Werk mangelhaft, kann der Besteller, wenn die Voraussetzungen
 der folgenden Vorschriften vorliegen und soweit nicht ein anderes
@@ -15738,6 +16661,7 @@ bestimmt ist,
 
 
 ###### § 634a Verjährung der Mängelansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262501377)
 
 (1) Die in § 634 Nr. 1, 2 und 4 bezeichneten Ansprüche verjähren
 
@@ -15777,6 +16701,7 @@ Absatz 4 Satz 2 entsprechende Anwendung.
 
 
 ###### § 635 Nacherfüllung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065102377)
 
 (1) Verlangt der Besteller Nacherfüllung, so kann der Unternehmer nach
 seiner Wahl den Mangel beseitigen oder ein neues Werk herstellen.
@@ -15795,6 +16720,7 @@ bis 348 verlangen.
 
 
 ###### § 636 Besondere Bestimmungen für Rücktritt und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065202377)
 
 Außer in den Fällen der §§ 281 Abs. 2 und 323 Abs. 2 bedarf es der
 Fristsetzung auch dann nicht, wenn der Unternehmer die Nacherfüllung
@@ -15803,6 +16729,7 @@ fehlgeschlagen oder dem Besteller unzumutbar ist.
 
 
 ###### § 637 Selbstvornahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065302377)
 
 (1) Der Besteller kann wegen eines Mangels des Werkes nach erfolglosem
 Ablauf einer von ihm zur Nacherfüllung bestimmten angemessenen Frist
@@ -15819,6 +16746,7 @@ Mangels erforderlichen Aufwendungen Vorschuss verlangen.
 
 
 ###### § 638 Minderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065402377)
 
 (1) Statt zurückzutreten, kann der Besteller die Vergütung durch
 Erklärung gegenüber dem Unternehmer mindern. Der Ausschlussgrund des §
@@ -15840,6 +16768,7 @@ ist der Mehrbetrag vom Unternehmer zu erstatten. § 346 Abs. 1 und §
 
 
 ###### § 639 Haftungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065503377)
 
 Auf eine Vereinbarung, durch welche die Rechte des Bestellers wegen
 eines Mangels ausgeschlossen oder beschränkt werden, kann sich der
@@ -15848,6 +16777,7 @@ oder eine Garantie für die Beschaffenheit des Werkes übernommen hat.
 
 
 ###### § 640 Abnahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065604123)
 
 (1) Der Besteller ist verpflichtet, das vertragsmäßig hergestellte
 Werk abzunehmen, sofern nicht nach der Beschaffenheit des Werkes die
@@ -15871,6 +16801,7 @@ Mangels bei der Abnahme vorbehält.
 
 
 ###### § 641 Fälligkeit der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065704140)
 
 (1) Die Vergütung ist bei der Abnahme des Werkes zu entrichten. Ist
 das Werk in Teilen abzunehmen und die Vergütung für die einzelnen
@@ -15909,11 +16840,13 @@ gestundet ist.
 
 
 ###### § 641a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE244403140)
 
 -
 
 
 ###### § 642 Mitwirkung des Bestellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065802377)
 
 (1) Ist bei der Herstellung des Werkes eine Handlung des Bestellers
 erforderlich, so kann der Unternehmer, wenn der Besteller durch das
@@ -15928,6 +16861,7 @@ erwerben kann.
 
 
 ###### § 643 Kündigung bei unterlassener Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE065902377)
 
 Der Unternehmer ist im Falle des § 642 berechtigt, dem Besteller zur
 Nachholung der Handlung eine angemessene Frist mit der Erklärung zu
@@ -15938,6 +16872,7 @@ erfolgt.
 
 
 ###### § 644 Gefahrtragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066002377)
 
 (1) Der Unternehmer trägt die Gefahr bis zur Abnahme des Werkes. Kommt
 der Besteller in Verzug der Annahme, so geht die Gefahr auf ihn über.
@@ -15951,6 +16886,7 @@ Kauf geltende Vorschrift des § 447 entsprechende Anwendung.
 
 
 ###### § 645 Verantwortlichkeit des Bestellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066102377)
 
 (1) Ist das Werk vor der Abnahme infolge eines Mangels des von dem
 Besteller gelieferten Stoffes oder infolge einer von dem Besteller für
@@ -15966,6 +16902,7 @@ bleibt unberührt.
 
 
 ###### § 646 Vollendung statt Abnahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066202377)
 
 Ist nach der Beschaffenheit des Werkes die Abnahme ausgeschlossen, so
 tritt in den Fällen des § 634a Abs. 2 und der §§ 641, 644 und 645 an
@@ -15973,6 +16910,7 @@ die Stelle der Abnahme die Vollendung des Werkes.
 
 
 ###### § 647 Unternehmerpfandrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066302377)
 
 Der Unternehmer hat für seine Forderungen aus dem Vertrag ein
 Pfandrecht an den von ihm hergestellten oder ausgebesserten
@@ -15981,6 +16919,7 @@ zum Zwecke der Ausbesserung in seinen Besitz gelangt sind.
 
 
 ###### § 647a Sicherungshypothek des Inhabers einer Schiffswerft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276200123)
 
 Der Inhaber einer Schiffswerft kann für seine Forderungen aus dem Bau
 oder der Ausbesserung eines Schiffes die Einräumung einer
@@ -15992,6 +16931,7 @@ inbegriffenen Auslagen verlangen. § 647 findet keine Anwendung.
 
 
 ###### § 648 Kündigungsrecht des Bestellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066504123)
 
 Der Besteller kann bis zur Vollendung des Werkes jederzeit den Vertrag
 kündigen. Kündigt der Besteller, so ist der Unternehmer berechtigt,
@@ -16005,6 +16945,7 @@ Vergütung zustehen.
 
 
 ###### § 648a Kündigung aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276300123)
 
 (1) Beide Vertragsparteien können den Vertrag aus wichtigem Grund ohne
 Einhaltung einer Kündigungsfrist kündigen. Ein wichtiger Grund liegt
@@ -16038,6 +16979,7 @@ Kündigung nicht ausgeschlossen.
 
 
 ###### § 649 Kostenanschlag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066603123)
 
 (1) Ist dem Vertrag ein Kostenanschlag zugrunde gelegt worden, ohne
 dass der Unternehmer die Gewähr für die Richtigkeit des Anschlags
@@ -16051,6 +16993,7 @@ der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
 
 
 ###### § 650 Werklieferungsvertrag; Verbrauchervertrag über die Herstellung digitaler Produkte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066705360)
 
 (1) Auf einen Vertrag, der die Lieferung herzustellender oder zu
 erzeugender beweglicher Sachen zum Gegenstand hat, finden die
@@ -16105,9 +17048,11 @@ Bestandteile des Vertrags, welche die digitalen Produkte betreffen.
 
 
 ###### Kapitel 2 - Bauvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG027900123)
 
 
 ###### § 650a Bauvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276400123)
 
 (1) Ein Bauvertrag ist ein Vertrag über die Herstellung, die
 Wiederherstellung, die Beseitigung oder den Umbau eines Bauwerks,
@@ -16120,6 +17065,7 @@ bestimmungsgemäßen Gebrauch von wesentlicher Bedeutung ist.
 
 
 ###### § 650b Änderung des Vertrags; Anordnungsrecht des Bestellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276500123)
 
 (1) Begehrt der Besteller
 
@@ -16158,6 +17104,7 @@ Ausführung zumutbar ist. Absatz 1 Satz 3 gilt entsprechend.
 
 
 ###### § 650c Vergütungsanpassung bei Anordnungen nach § 650b Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276600123)
 
 (1) Die Höhe des Vergütungsanspruchs für den infolge einer Anordnung
 des Bestellers nach § 650b Absatz 2 vermehrten oder verminderten
@@ -16188,6 +17135,7 @@ entsprechend.
 
 
 ###### § 650d Einstweilige Verfügung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276700123)
 
 Zum Erlass einer einstweiligen Verfügung in Streitigkeiten über das
 Anordnungsrecht gemäß § 650b oder die Vergütungsanpassung gemäß § 650c
@@ -16196,6 +17144,7 @@ Verfügungsgrund glaubhaft gemacht wird.
 
 
 ###### § 650e Sicherungshypothek des Bauunternehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276800123)
 
 Der Unternehmer kann für seine Forderungen aus dem Vertrag die
 Einräumung einer Sicherungshypothek an dem Baugrundstück des
@@ -16206,6 +17155,7 @@ inbegriffenen Auslagen verlangen.
 
 
 ###### § 650f Bauhandwerkersicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE276900123)
 
 (1) Der Unternehmer kann vom Besteller Sicherheit für die auch in
 Zusatzaufträgen vereinbarte und noch nicht gezahlte Vergütung
@@ -16278,6 +17228,7 @@ unwirksam.
 
 
 ###### § 650g Zustandsfeststellung bei Verweigerung der Abnahme; Schlussrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277000123)
 
 (1) Verweigert der Besteller die Abnahme unter Angabe von Mängeln, hat
 er auf Verlangen des Unternehmers an einer gemeinsamen Feststellung
@@ -16322,14 +17273,17 @@ Einwendungen gegen ihre Prüffähigkeit erhoben hat.
 
 
 ###### § 650h Schriftform der Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277100123)
 
 Die Kündigung des Bauvertrags bedarf der schriftlichen Form.
 
 
 ###### Kapitel 3 - Verbraucherbauvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028000123)
 
 
 ###### § 650i Verbraucherbauvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277200123)
 
 (1) Verbraucherbauverträge sind Verträge, durch die der Unternehmer
 von einem Verbraucher zum Bau eines neuen Gebäudes oder zu erheblichen
@@ -16342,6 +17296,7 @@ Vorschriften dieses Kapitels.
 
 
 ###### § 650j Baubeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277300123)
 
 Der Unternehmer hat den Verbraucher über die sich aus Artikel 249 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden
@@ -16351,6 +17306,7 @@ wesentlichen Planungsvorgaben.
 
 
 ###### § 650k Inhalt des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277400123)
 
 (1) Die Angaben der vorvertraglich zur Verfügung gestellten
 Baubeschreibung in Bezug auf die Bauausführung werden Inhalt des
@@ -16374,6 +17330,7 @@ Bauausführung Inhalt des Vertrags.
 
 
 ###### § 650l Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277500123)
 
 Dem Verbraucher steht ein Widerrufsrecht gemäß § 355 zu, es sei denn,
 der Vertrag wurde notariell beurkundet. Der Unternehmer ist
@@ -16383,6 +17340,7 @@ Widerrufsrecht zu belehren.
 
 
 ###### § 650m Abschlagszahlungen; Absicherung des Vergütungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277600123)
 
 (1) Verlangt der Unternehmer Abschlagszahlungen nach § 632a, darf der
 Gesamtbetrag der Abschlagszahlungen 90 Prozent der vereinbarten
@@ -16416,6 +17374,7 @@ Abschlagszahlungen vereinbart haben.
 
 
 ###### § 650n Erstellung und Herausgabe von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277700123)
 
 (1) Rechtzeitig vor Beginn der Ausführung einer geschuldeten Leistung
 hat der Unternehmer diejenigen Planungsunterlagen zu erstellen und dem
@@ -16438,9 +17397,11 @@ Erwartung des Verbrauchers geweckt hat, diese Bedingungen einzuhalten.
 
 
 ###### Kapitel 4 - Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028100123)
 
 
 ###### § 650o Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277800123)
 
 Von § 640 Absatz 2 Satz 2, den §§ 650i bis 650l und 650n kann nicht
 zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften
@@ -16449,9 +17410,11 @@ umgangen werden.
 
 
 ##### Untertitel 2 - Architektenvertrag und Ingenieurvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028200123)
 
 
 ###### § 650p Vertragstypische Pflichten aus Architekten- und Ingenieurverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE277900123)
 
 (1) Durch einen Architekten- oder Ingenieurvertrag wird der
 Unternehmer verpflichtet, die Leistungen zu erbringen, die nach dem
@@ -16467,6 +17430,7 @@ Vorhaben zur Zustimmung vor.
 
 
 ###### § 650q Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278001360)
 
 (1) Für Architekten- und Ingenieurverträge gelten die Vorschriften des
 Kapitels 1 des Untertitels 1 sowie die §§ 650b, 650e bis 650h
@@ -16481,6 +17445,7 @@ Anwendungsbereich der Honorarordnung erfasst werden. Im Übrigen gilt §
 
 
 ###### § 650r Sonderkündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278100123)
 
 (1) Nach Vorlage von Unterlagen gemäß § 650p Absatz 2 kann der
 Besteller den Vertrag kündigen. Das Kündigungsrecht erlischt zwei
@@ -16500,6 +17465,7 @@ bis zur Kündigung erbrachten Leistungen entfällt.
 
 
 ###### § 650s Teilabnahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278200123)
 
 Der Unternehmer kann ab der Abnahme der letzten Leistung des
 bauausführenden Unternehmers oder der bauausführenden Unternehmer eine
@@ -16507,6 +17473,7 @@ Teilabnahme der von ihm bis dahin erbrachten Leistungen verlangen.
 
 
 ###### § 650t Gesamtschuldnerische Haftung mit dem bauausführenden Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278300123)
 
 Nimmt der Besteller den Unternehmer wegen eines Überwachungsfehlers in
 Anspruch, der zu einem Mangel an dem Bauwerk oder an der Außenanlage
@@ -16517,9 +17484,11 @@ Frist zur Nacherfüllung bestimmt hat.
 
 
 ##### Untertitel 3 - Bauträgervertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028300123)
 
 
 ###### § 650u Bauträgervertrag; anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278400123)
 
 (1) Ein Bauträgervertrag ist ein Vertrag, der die Errichtung oder den
 Umbau eines Hauses oder eines vergleichbaren Bauwerks zum Gegenstand
@@ -16537,6 +17506,7 @@ Absatz 1 sowie die §§ 650l und 650m Absatz 1.
 
 
 ###### § 650v Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE278500123)
 
 Der Unternehmer kann von dem Besteller Abschlagszahlungen nur
 verlangen, soweit sie gemäß einer Verordnung auf Grund von Artikel 244
@@ -16544,9 +17514,11 @@ des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vereinbart sind.
 
 
 ##### Untertitel 4 - Pauschalreisevertrag, Reisevermittlung und Vermittlung verbundener Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005804123)
 
 
 ###### § 651a Vertragstypische Pflichten beim Pauschalreisevertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066807123)
 
 (1) Durch den Pauschalreisevertrag wird der Unternehmer
 (Reiseveranstalter) verpflichtet, dem Reisenden eine Pauschalreise zu
@@ -16640,6 +17612,7 @@ Verträge über Reisen, die
 
 
 ###### § 651b Abgrenzung zur Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE066904123)
 
 (1) Unbeschadet der §§ 651v und 651w gelten für die Vermittlung von
 Reiseleistungen die allgemeinen Vorschriften. Ein Unternehmer kann
@@ -16688,6 +17661,7 @@ begründet, handelt es sich um eine Vertriebsstelle.
 
 
 ###### § 651c Verbundene Online-Buchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067003123)
 
 (1) Ein Unternehmer, der mittels eines Online-Buchungsverfahrens mit
 dem Reisenden einen Vertrag über eine Reiseleistung geschlossen hat
@@ -16721,6 +17695,7 @@ Reisepreises anzuwenden.
 
 
 ###### § 651d Informationspflichten; Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067103123)
 
 (1) Der Reiseveranstalter ist verpflichtet, den Reisenden, bevor
 dieser seine Vertragserklärung abgibt, nach Maßgabe des Artikels 250
@@ -16757,6 +17732,7 @@ die vorstehenden Absätze unberührt.
 
 
 ###### § 651e Vertragsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067203123)
 
 (1) Der Reisende kann innerhalb einer angemessenen Frist vor
 Reisebeginn auf einem dauerhaften Datenträger erklären, dass statt
@@ -16780,6 +17756,7 @@ entstanden sind.
 
 
 ###### § 651f Änderungsvorbehalte; Preissenkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067304123)
 
 (1) Der Reiseveranstalter kann den Reisepreis einseitig nur erhöhen,
 wenn
@@ -16842,6 +17819,7 @@ welcher Höhe Verwaltungsausgaben entstanden sind.
 
 
 ###### § 651g Erhebliche Vertragsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067405123)
 
 (1) Übersteigt die im Vertrag nach § 651f Absatz 1 vorbehaltene
 Preiserhöhung 8 Prozent des Reisepreises, kann der Reiseveranstalter
@@ -16889,6 +17867,7 @@ den Unterschiedsbetrag § 651m Absatz 2 entsprechend anzuwenden.
 
 
 ###### § 651h Rücktritt vor Reisebeginn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067505123)
 
 (1) Vor Reisebeginn kann der Reisende jederzeit vom Vertrag
 zurücktreten. Tritt der Reisende vom Vertrag zurück, verliert der
@@ -16967,6 +17946,7 @@ leisten.
 
 
 ###### § 651i Rechte des Reisenden bei Reisemängeln
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067603123)
 
 (1) Der Reiseveranstalter hat dem Reisenden die Pauschalreise frei von
 Reisemängeln zu verschaffen.
@@ -17023,6 +18003,7 @@ anderes bestimmt ist,
 
 
 ###### § 651j Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067704123)
 
 Die in § 651i Absatz 3 bezeichneten Ansprüche des Reisenden verjähren
 in zwei Jahren. Die Verjährungsfrist beginnt mit dem Tag, an dem die
@@ -17030,6 +18011,7 @@ Pauschalreise dem Vertrag nach enden sollte.
 
 
 ###### § 651k Abhilfe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE238507123)
 
 (1) Verlangt der Reisende Abhilfe, hat der Reiseveranstalter den
 Reisemangel zu beseitigen. Er kann die Abhilfe nur verweigern, wenn
@@ -17115,6 +18097,7 @@ berufen:
 
 
 ###### § 651l Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE249303123)
 
 (1) Wird die Pauschalreise durch den Reisemangel erheblich
 beeinträchtigt, kann der Reisende den Vertrag kündigen. Die Kündigung
@@ -17142,6 +18125,7 @@ zur Last.
 
 
 ###### § 651m Minderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067805123)
 
 (1) Für die Dauer des Reisemangels mindert sich der Reisepreis. Bei
 der Minderung ist der Reisepreis in dem Verhältnis herabzusetzen, in
@@ -17155,6 +18139,7 @@ und § 347 Absatz 1 finden entsprechende Anwendung.
 
 
 ###### § 651n Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279000123)
 
 (1) Der Reisende kann unbeschadet der Minderung oder der Kündigung
 Schadensersatz verlangen, es sei denn, der Reisemangel
@@ -17183,6 +18168,7 @@ hat er unverzüglich zu leisten.
 
 
 ###### § 651o Mängelanzeige durch den Reisenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279100123)
 
 (1) Der Reisende hat dem Reiseveranstalter einen Reisemangel
 unverzüglich anzuzeigen.
@@ -17201,6 +18187,7 @@ ist der Reisende nicht berechtigt,
 
 
 ###### § 651p Zulässige Haftungsbeschränkung; Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279201125)
 
 (1) Der Reiseveranstalter kann durch Vereinbarung mit dem Reisenden
 seine Haftung für solche Schäden auf den dreifachen Reisepreis
@@ -17272,6 +18259,7 @@ Verordnungen geschuldet ist.
 
 
 ###### § 651q Beistandspflicht des Reiseveranstalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279300123)
 
 (1) Befindet sich der Reisende im Fall des § 651k Absatz 4 oder aus
 anderen Gründen in Schwierigkeiten, hat der Reiseveranstalter ihm
@@ -17299,6 +18287,7 @@ tatsächlich entstanden sind.
 
 
 ###### § 651r Insolvenzsicherung; Sicherungsschein
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279401360)
 
 (1) Der Reiseveranstalter hat sicherzustellen, dass dem Reisenden der
 gezahlte Reisepreis erstattet wird, soweit im Fall der
@@ -17373,6 +18362,7 @@ befriedigt.
 
 
 ###### § 651s Insolvenzsicherung der im Europäischen Wirtschaftsraum niedergelassenen Reiseveranstalter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279500123)
 
 Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine
 Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung in einem
@@ -17390,6 +18380,7 @@ Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom
 
 
 ###### § 651t Rückbeförderung; Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279601360)
 
 Der Reiseveranstalter darf eine Rückbeförderung des Reisenden nur
 vereinbaren und Zahlungen des Reisenden auf den Reisepreis vor
@@ -17410,6 +18401,7 @@ Beendigung der Pauschalreise nur fordern oder annehmen, wenn
 
 
 ###### § 651u Gastschulaufenthalte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279700123)
 
 (1) Für einen Vertrag, der einen mindestens drei Monate andauernden
 und mit dem geregelten Besuch einer Schule verbundenen Aufenthalt des
@@ -17464,6 +18456,7 @@ zur Last. Die vorstehenden Sätze gelten nicht, wenn der Reisende nach
 
 
 ###### § 651v Reisevermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279800123)
 
 (1) Ein Unternehmer, der einem Reisenden einen Pauschalreisevertrag
 vermittelt (Reisevermittler), ist verpflichtet, den Reisenden nach
@@ -17501,6 +18494,7 @@ Reisenden in Kenntnis zu setzen.
 
 
 ###### § 651w Vermittlung verbundener Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE279900123)
 
 (1) Ein Unternehmer ist Vermittler verbundener Reiseleistungen, wenn
 er für den Zweck derselben Reise, die keine Pauschalreise ist,
@@ -17581,6 +18575,7 @@ anderen Unternehmers geschlossen hat.
 
 
 ###### § 651x Haftung für Buchungsfehler
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280000123)
 
 Der Reisende hat Anspruch auf Ersatz des Schadens,
 
@@ -17601,6 +18596,7 @@ Der Reisende hat Anspruch auf Ersatz des Schadens,
 
 
 ###### § 651y Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280100123)
 
 Von den Vorschriften dieses Untertitels darf, soweit nichts anderes
 bestimmt ist, nicht zum Nachteil des Reisenden abgewichen werden. Die
@@ -17610,14 +18606,17 @@ werden.
 
 
 #### Titel 10 - Maklervertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG005903360)
 
 
 
 ##### Untertitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025401377)
 
 
 
 ###### § 652 Entstehung des Lohnanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE067903360)
 
 (1) Wer für den Nachweis der Gelegenheit zum Abschluss eines Vertrags
 oder für die Vermittlung eines Vertrags einen Maklerlohn verspricht,
@@ -17632,6 +18631,7 @@ ist. Dies gilt auch dann, wenn ein Vertrag nicht zustande kommt.
 
 
 ###### § 653 Maklerlohn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068003360)
 
 (1) Ein Maklerlohn gilt als stillschweigend vereinbart, wenn die dem
 Makler übertragene Leistung den Umständen nach nur gegen eine
@@ -17643,6 +18643,7 @@ Lohn als vereinbart anzusehen.
 
 
 ###### § 654 Verwirkung des Lohnanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068103360)
 
 Der Anspruch auf den Maklerlohn und den Ersatz von Aufwendungen ist
 ausgeschlossen, wenn der Makler dem Inhalt des Vertrags zuwider auch
@@ -17650,6 +18651,7 @@ für den anderen Teil tätig gewesen ist.
 
 
 ###### § 655 Herabsetzung des Maklerlohns
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068203360)
 
 Ist für den Nachweis der Gelegenheit zum Abschluss eines
 Dienstvertrags oder für die Vermittlung eines solchen Vertrags ein
@@ -17660,10 +18662,12 @@ Herabsetzung ausgeschlossen.
 
 
 ##### Untertitel 2 - Vermittlung von Verbraucherdarlehensverträgen und entgeltlichen Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025503123)
 
 
 
 ###### § 655a Darlehensvermittlungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262704123)
 
 (1) Für einen Vertrag, nach dem es ein Unternehmer unternimmt, einem
 Verbraucher
@@ -17713,6 +18717,7 @@ der Produktpalette dieser Darlehensgeber zu berücksichtigen.
 
 
 ###### § 655b Schriftform bei einem Vertrag mit einem Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262804123)
 
 (1) Der Darlehensvermittlungsvertrag mit einem Verbraucher bedarf der
 schriftlichen Form. Der Vertrag darf nicht mit dem Antrag auf Hingabe
@@ -17727,6 +18732,7 @@ erfüllt worden sind, ist nichtig.
 
 
 ###### § 655c Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE262903123)
 
 Der Verbraucher ist zur Zahlung der Vergütung für die Tätigkeiten nach
 § 655a Absatz 1 nur verpflichtet, wenn infolge der Vermittlung, des
@@ -17742,6 +18748,7 @@ Vermittlungskosten außer Betracht.
 
 
 ###### § 655d Nebenentgelte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263004123)
 
 Der Darlehensvermittler darf für Leistungen, die mit der Vermittlung
 des Verbraucherdarlehensvertrags oder dem Nachweis der Gelegenheit zum
@@ -17757,6 +18764,7 @@ Einführungsgesetzes zum Bürgerlichen Gesetzbuche mitgeteilt hat, nicht
 
 
 ###### § 655e Abweichende Vereinbarungen, Anwendung auf Existenzgründer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263104123)
 
 (1) Von den Vorschriften dieses Untertitels darf nicht zum Nachteil
 des Verbrauchers abgewichen werden. Die Vorschriften dieses
@@ -17768,10 +18776,12 @@ Untertitel gleich.
 
 
 ##### Untertitel 3 - Ehevermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025601377)
 
 
 
 ###### § 656 Heiratsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068303360)
 
 (1) Durch das Versprechen eines Lohnes für den Nachweis der
 Gelegenheit zur Eingehung einer Ehe oder für die Vermittlung des
@@ -17786,10 +18796,12 @@ Schuldanerkenntnis.
 
 
 ##### Untertitel 4 - Vermittlung von Kaufverträgen über Wohnungen und Einfamilienhäuser
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028400360)
 
 
 
 ###### § 656a Textform
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280700360)
 
 Ein Maklervertrag, der den Nachweis der Gelegenheit zum Abschluss
 eines Kaufvertrags über eine Wohnung oder ein Einfamilienhaus oder die
@@ -17798,11 +18810,13 @@ Textform.
 
 
 ###### § 656b Persönlicher Anwendungsbereich der §§ 656c und 656d
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280800360)
 
 Die §§ 656c und 656d gelten nur, wenn der Käufer ein Verbraucher ist.
 
 
 ###### § 656c Lohnanspruch bei Tätigkeit für beide Parteien
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280900360)
 
 (1) Lässt sich der Makler von beiden Parteien des Kaufvertrags über
 eine Wohnung oder ein Einfamilienhaus einen Maklerlohn versprechen, so
@@ -17818,6 +18832,7 @@ unwirksam. § 654 bleibt unberührt.
 
 
 ###### § 656d Vereinbarungen über die Maklerkosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281000360)
 
 (1) Hat nur eine Partei des Kaufvertrags über eine Wohnung oder ein
 Einfamilienhaus einen Maklervertrag abgeschlossen, ist eine
@@ -17834,10 +18849,12 @@ hierüber erbringt.
 
 
 #### Titel 11 - Auslobung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006002377)
 
 
 
 ##### § 657 Bindendes Versprechen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068402377)
 
 Wer durch öffentliche Bekanntmachung eine Belohnung für die Vornahme
 einer Handlung, insbesondere für die Herbeiführung eines Erfolges,
@@ -17847,6 +18864,7 @@ Rücksicht auf die Auslobung gehandelt hat.
 
 
 ##### § 658 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068502377)
 
 (1) Die Auslobung kann bis zur Vornahme der Handlung widerrufen
 werden. Der Widerruf ist nur wirksam, wenn er in derselben Weise wie
@@ -17859,6 +18877,7 @@ Vornahme der Handlung.
 
 
 ##### § 659 Mehrfache Vornahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068602377)
 
 (1) Ist die Handlung, für welche die Belohnung ausgesetzt ist,
 mehrmals vorgenommen worden, so gebührt die Belohnung demjenigen,
@@ -17872,6 +18891,7 @@ das Los.
 
 
 ##### § 660 Mitwirkung mehrerer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068702377)
 
 (1) Haben mehrere zu dem Erfolg mitgewirkt, für den die Belohnung
 ausgesetzt ist, so hat der Auslobende die Belohnung unter
@@ -17890,6 +18910,7 @@ verlangen, dass die Belohnung für alle hinterlegt wird.
 
 
 ##### § 661 Preisausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068802377)
 
 (1) Eine Auslobung, die eine Preisbewerbung zum Gegenstand hat, ist
 nur gültig, wenn in der Bekanntmachung eine Frist für die Bewerbung
@@ -17910,6 +18931,7 @@ erfolgen soll.
 
 
 ##### § 661a Gewinnzusagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245101377)
 
 Ein Unternehmer, der Gewinnzusagen oder vergleichbare Mitteilungen an
 Verbraucher sendet und durch die Gestaltung dieser Zusendungen den
@@ -17918,14 +18940,17 @@ dem Verbraucher diesen Preis zu leisten.
 
 
 #### Titel 12 - Auftrag, Geschäftsbesorgungsvertrag und Zahlungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006104140)
 
 
 
 ##### Untertitel 1 - Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG021102377)
 
 
 
 ###### § 662 Vertragstypische Pflichten beim Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE068902377)
 
 Durch die Annahme eines Auftrags verpflichtet sich der Beauftragte,
 ein ihm von dem Auftraggeber übertragenes Geschäft für diesen
@@ -17933,6 +18958,7 @@ unentgeltlich zu besorgen.
 
 
 ###### § 663 Anzeigepflicht bei Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069002377)
 
 Wer zur Besorgung gewisser Geschäfte öffentlich bestellt ist oder sich
 öffentlich erboten hat, ist, wenn er einen auf solche Geschäfte
@@ -17943,6 +18969,7 @@ erboten hat.
 
 
 ###### § 664 Unübertragbarkeit; Haftung für Gehilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069102377)
 
 (1) Der Beauftragte darf im Zweifel die Ausführung des Auftrags nicht
 einem Dritten übertragen. Ist die Übertragung gestattet, so hat er nur
@@ -17955,6 +18982,7 @@ verantwortlich.
 
 
 ###### § 665 Abweichung von Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069202377)
 
 Der Beauftragte ist berechtigt, von den Weisungen des Auftraggebers
 abzuweichen, wenn er den Umständen nach annehmen darf, dass der
@@ -17965,6 +18993,7 @@ Aufschub Gefahr verbunden ist.
 
 
 ###### § 666 Auskunfts- und Rechenschaftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069302377)
 
 Der Beauftragte ist verpflichtet, dem Auftraggeber die erforderlichen
 Nachrichten zu geben, auf Verlangen über den Stand des Geschäfts
@@ -17973,6 +19002,7 @@ abzulegen.
 
 
 ###### § 667 Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069402377)
 
 Der Beauftragte ist verpflichtet, dem Auftraggeber alles, was er zur
 Ausführung des Auftrags erhält und was er aus der Geschäftsbesorgung
@@ -17980,6 +19010,7 @@ erlangt, herauszugeben.
 
 
 ###### § 668 Verzinsung des verwendeten Geldes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069502377)
 
 Verwendet der Beauftragte Geld für sich, das er dem Auftraggeber
 herauszugeben oder für ihn zu verwenden hat, so ist er verpflichtet,
@@ -17987,12 +19018,14 @@ es von der Zeit der Verwendung an zu verzinsen.
 
 
 ###### § 669 Vorschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069602377)
 
 Für die zur Ausführung des Auftrags erforderlichen Aufwendungen hat
 der Auftraggeber dem Beauftragten auf Verlangen Vorschuss zu leisten.
 
 
 ###### § 670 Ersatz von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069702377)
 
 Macht der Beauftragte zum Zwecke der Ausführung des Auftrags
 Aufwendungen, die er den Umständen nach für erforderlich halten darf,
@@ -18000,6 +19033,7 @@ so ist der Auftraggeber zum Ersatz verpflichtet.
 
 
 ###### § 671 Widerruf; Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069802377)
 
 (1) Der Auftrag kann von dem Auftraggeber jederzeit widerrufen, von
 dem Beauftragten jederzeit gekündigt werden.
@@ -18016,6 +19050,7 @@ verzichtet hat.
 
 
 ###### § 672 Tod oder Geschäftsunfähigkeit des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE069902377)
 
 Der Auftrag erlischt im Zweifel nicht durch den Tod oder den Eintritt
 der Geschäftsunfähigkeit des Auftraggebers. Erlischt der Auftrag, so
@@ -18026,6 +19061,7 @@ kann; der Auftrag gilt insoweit als fortbestehend.
 
 
 ###### § 673 Tod des Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070002377)
 
 Der Auftrag erlischt im Zweifel durch den Tod des Beauftragten.
 Erlischt der Auftrag, so hat der Erbe des Beauftragten den Tod dem
@@ -18036,6 +19072,7 @@ insoweit als fortbestehend.
 
 
 ###### § 674 Fiktion des Fortbestehens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070102377)
 
 Erlischt der Auftrag in anderer Weise als durch Widerruf, so gilt er
 zugunsten des Beauftragten gleichwohl als fortbestehend, bis der
@@ -18044,6 +19081,7 @@ kennen muss.
 
 
 ##### Untertitel 2 - Geschäftsbesorgungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG021202377)
 
 [^BJNR001950896BJNG021202377]
 
@@ -18063,6 +19101,7 @@ kennen muss.
 
 
 ###### § 675 Entgeltliche Geschäftsbesorgung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070204360)
 
 (1) Auf einen Dienstvertrag oder einen Werkvertrag, der eine
 Geschäftsbesorgung zum Gegenstand hat, finden, soweit in diesem
@@ -18084,6 +19123,7 @@ bedarf der Textform.
 
 
 ###### § 675a Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE243504123)
 
 Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich
 dazu öffentlich erboten hat, stellt für regelmäßig anfallende
@@ -18095,6 +19135,7 @@ sind.
 
 
 ###### § 675b Aufträge zur Übertragung von Wertpapieren in Systemen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265700140)
 
 Der Teilnehmer an Wertpapierlieferungs- und Abrechnungssystemen kann
 einen Auftrag, der die Übertragung von Wertpapieren oder Ansprüchen
@@ -18104,14 +19145,17 @@ bestimmten Zeitpunkt an nicht mehr widerrufen.
 
 
 ##### Untertitel 3 - Zahlungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026000140)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026100140)
 
 
 
 ###### § 675c Zahlungsdienste und E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265801123)
 
 (1) Auf einen Geschäftsbesorgungsvertrag, der die Erbringung von
 Zahlungsdiensten zum Gegenstand hat, sind die §§ 663, 665 bis 670 und
@@ -18130,6 +19174,7 @@ Erbringung von Kontoinformationsdiensten anzuwenden.
 
 
 ###### § 675d Unterrichtung bei Zahlungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE265902360)
 
 (1) Zahlungsdienstleister haben Zahlungsdienstnutzer bei der
 Erbringung von Zahlungsdiensten über die in Artikel 248 §§ 1 bis 12,
@@ -18220,6 +19265,7 @@ des Einführungsgesetzes zum Bürgerlichen Gesetzbuche.
 
 
 ###### § 675e Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266001123)
 
 (1) Soweit nichts anderes bestimmt ist, darf von den Vorschriften
 dieses Untertitels nicht zum Nachteil des Zahlungsdienstnutzers
@@ -18251,10 +19297,12 @@ Fristen vereinbaren.
 
 
 ###### Kapitel 2 - Zahlungsdienstevertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026200140)
 
 
 
 ###### § 675f Zahlungsdienstevertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266101123)
 
 (1) Durch einen Einzelzahlungsvertrag wird der Zahlungsdienstleister
 verpflichtet, für die Person, die einen Zahlungsdienst als Zahler,
@@ -18303,6 +19351,7 @@ anzubieten, nicht ausgeschlossen werden.
 
 
 ###### § 675g Änderung des Zahlungsdiensterahmenvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266200140)
 
 (1) Eine Änderung des Zahlungsdiensterahmenvertrags auf Veranlassung
 des Zahlungsdienstleisters setzt voraus, dass dieser die beabsichtigte
@@ -18341,6 +19390,7 @@ nach Absatz 3 nicht benachteiligt werden.
 
 
 ###### § 675h Ordentliche Kündigung eines Zahlungsdiensterahmenvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266301123)
 
 (1) Der Zahlungsdienstnutzer kann den Zahlungsdiensterahmenvertrag,
 auch wenn dieser für einen bestimmten Zeitraum geschlossen ist,
@@ -18366,6 +19416,7 @@ vereinbaren.
 
 
 ###### § 675i Ausnahmen für Kleinbetragsinstrumente und E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266401123)
 
 (1) Ein Zahlungsdienstevertrag kann die Überlassung eines
 Kleinbetragsinstruments an den Zahlungsdienstnutzer vorsehen. Ein
@@ -18431,14 +19482,17 @@ einem Wert von höchstens 200 Euro.
 
 
 ###### Kapitel 3 - Erbringung und Nutzung von Zahlungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026300140)
 
 
 
 ###### Unterkapitel 1 - Autorisierung von Zahlungsvorgängen; Zahlungsinstrumente; Verweigerung des Zugangs zum Zahlungskonto
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026401123)
 
 
 
 ###### § 675j Zustimmung und Widerruf der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266501123)
 
 (1) Ein Zahlungsvorgang ist gegenüber dem Zahler nur wirksam, wenn er
 diesem zugestimmt hat (Autorisierung). Die Zustimmung kann entweder
@@ -18458,6 +19512,7 @@ ist.
 
 
 ###### § 675k Begrenzung der Nutzung eines Zahlungsinstruments; Verweigerung des Zugangs zum Zahlungskonto
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266601123)
 
 (1) In Fällen, in denen die Zustimmung mittels eines
 Zahlungsinstruments erteilt wird, können der Zahler und der
@@ -18506,6 +19561,7 @@ gegen gesetzliche Verpflichtungen verstoßen würde.
 
 
 ###### § 675l Pflichten des Zahlungsdienstnutzers in Bezug auf Zahlungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266701123)
 
 (1) Der Zahlungsdienstnutzer ist verpflichtet, unmittelbar nach Erhalt
 eines Zahlungsinstruments alle zumutbaren Vorkehrungen zu treffen, um
@@ -18529,6 +19585,7 @@ nicht benachteiligend sind.
 
 
 ###### § 675m Pflichten des Zahlungsdienstleisters in Bezug auf Zahlungsinstrumente; Risiko der Versendung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266801123)
 
 (1) Der Zahlungsdienstleister, der ein Zahlungsinstrument ausgibt, ist
 verpflichtet,
@@ -18583,10 +19640,12 @@ Antwort mitzuteilen.
 
 
 ###### Unterkapitel 2 - Ausführung von Zahlungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026500140)
 
 
 
 ###### § 675n Zugang von Zahlungsaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE266900140)
 
 (1) Ein Zahlungsauftrag wird wirksam, wenn er dem
 Zahlungsdienstleister des Zahlers zugeht. Fällt der Zeitpunkt des
@@ -18614,6 +19673,7 @@ Geschäftstag als Zeitpunkt des Zugangs.
 
 
 ###### § 675o Ablehnung von Zahlungsaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267001123)
 
 (1) Lehnt der Zahlungsdienstleister die Ausführung oder Auslösung
 eines Zahlungsauftrags ab, ist er verpflichtet, den
@@ -18640,6 +19700,7 @@ als nicht zugegangen.
 
 
 ###### § 675p Unwiderruflichkeit eines Zahlungsauftrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267101123)
 
 (1) Der Zahlungsdienstnutzer kann einen Zahlungsauftrag vorbehaltlich
 der Absätze 2 bis 4 nach dessen Zugang beim Zahlungsdienstleister des
@@ -18675,6 +19736,7 @@ bestimmten Zeitpunkt an nicht mehr widerrufen.
 
 
 ###### § 675q Entgelte bei Zahlungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267201123)
 
 (1) Der Zahlungsdienstleister des Zahlers sowie sämtliche an dem
 Zahlungsvorgang beteiligte zwischengeschaltete Stellen sind
@@ -18712,6 +19774,7 @@ belegen ist.
 
 
 ###### § 675r Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267301123)
 
 (1) Die beteiligten Zahlungsdienstleister sind berechtigt, einen
 Zahlungsvorgang ausschließlich anhand der von dem Zahlungsdienstnutzer
@@ -18735,6 +19798,7 @@ den Zahlungsbetrag wieder herauszugeben.
 
 
 ###### § 675s Ausführungsfrist für Zahlungsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267401123)
 
 (1) Der Zahlungsdienstleister des Zahlers ist verpflichtet
 sicherzustellen, dass der Zahlungsbetrag spätestens am Ende des auf
@@ -18775,6 +19839,7 @@ Buchstabe a vorliegt,
 
 
 ###### § 675t Wertstellungsdatum und Verfügbarkeit von Geldbeträgen; Sperrung eines verfügbaren Geldbetrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267501123)
 
 (1) Der Zahlungsdienstleister des Zahlungsempfängers ist verpflichtet,
 dem Zahlungsempfänger den Zahlungsbetrag unverzüglich verfügbar zu
@@ -18852,10 +19917,12 @@ vorliegt,
 
 
 ###### Unterkapitel 3 - Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026600140)
 
 
 
 ###### § 675u Haftung des Zahlungsdienstleisters für nicht autorisierte Zahlungsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267601123)
 
 Im Fall eines nicht autorisierten Zahlungsvorgangs hat der
 Zahlungsdienstleister des Zahlers gegen diesen keinen Anspruch auf
@@ -18879,6 +19946,7 @@ Zahlungsdienstleister.
 
 
 ###### § 675v Haftung des Zahlers bei missbräuchlicher Nutzung eines Zahlungsinstruments
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267701123)
 
 (1) Beruhen nicht autorisierte Zahlungsvorgänge auf der Nutzung eines
 verloren gegangenen, gestohlenen oder sonst abhandengekommenen
@@ -18957,6 +20025,7 @@ Absicht gehandelt hat.
 
 
 ###### § 675w Nachweis der Authentifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267801123)
 
 Ist die Autorisierung eines ausgeführten Zahlungsvorgangs streitig,
 hat der Zahlungsdienstleister nachzuweisen, dass eine
@@ -18992,6 +20061,7 @@ Zahlungsdienstnutzers nachzuweisen.
 
 
 ###### § 675x Erstattungsanspruch bei einem vom oder über den Zahlungsempfänger ausgelösten autorisierten Zahlungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE267901123)
 
 (1) Der Zahler hat gegen seinen Zahlungsdienstleister einen Anspruch
 auf Erstattung eines belasteten Zahlungsbetrags, der auf einem
@@ -19064,6 +20134,7 @@ vorliegt,
 
 
 ###### § 675y Haftung der Zahlungsdienstleister bei nicht erfolgter, fehlerhafter oder verspäteter Ausführung eines Zahlungsauftrags; Nachforschungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268001123)
 
 (1) Wird ein Zahlungsvorgang vom Zahler ausgelöst, kann dieser von
 seinem Zahlungsdienstleister im Fall einer nicht erfolgten oder
@@ -19169,6 +20240,7 @@ anzuwenden.
 
 
 ###### § 675z Sonstige Ansprüche bei nicht erfolgter, fehlerhafter oder verspäteter Ausführung eines Zahlungsauftrags oder bei einem nicht autorisierten Zahlungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268101123)
 
 Die §§ 675u und 675y sind hinsichtlich der dort geregelten Ansprüche
 eines Zahlungsdienstnutzers abschließend. Die Haftung eines
@@ -19193,6 +20265,7 @@ Bestandteile des Zahlungsvorgangs nicht anzuwenden.
 
 
 ###### § 676 Nachweis der Ausführung von Zahlungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268200140)
 
 Ist zwischen dem Zahlungsdienstnutzer und seinem Zahlungsdienstleister
 streitig, ob der Zahlungsvorgang ordnungsgemäß ausgeführt wurde, muss
@@ -19202,6 +20275,7 @@ Störung beeinträchtigt wurde.
 
 
 ###### § 676a Ausgleichsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268301123)
 
 (1) Liegt die Ursache für die Haftung eines Zahlungsdienstleisters
 gemäß den §§ 675u, 675y und 675z im Verantwortungsbereich eines
@@ -19238,6 +20312,7 @@ Zahlungsauslösedienstleister nachweisen, dass
 
 
 ###### § 676b Anzeige nicht autorisierter oder fehlerhaft ausgeführter Zahlungsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268401123)
 
 (1) Der Zahlungsdienstnutzer hat seinen Zahlungsdienstleister
 unverzüglich nach Feststellung eines nicht autorisierten oder
@@ -19295,6 +20370,7 @@ Zahlungsvorgangs gilt Absatz 4 mit der Maßgabe, dass
 
 
 ###### § 676c Haftungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE268500140)
 
 Ansprüche nach diesem Kapitel sind ausgeschlossen, wenn die einen
 Anspruch begründenden Umstände
@@ -19313,10 +20389,12 @@ Anspruch begründenden Umstände
 
 
 #### Titel 13 - Geschäftsführung ohne Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006202377)
 
 
 
 ##### § 677 Pflichten des Geschäftsführers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070402377)
 
 Wer ein Geschäft für einen anderen besorgt, ohne von ihm beauftragt
 oder ihm gegenüber sonst dazu berechtigt zu sein, hat das Geschäft so
@@ -19325,6 +20403,7 @@ dessen wirklichen oder mutmaßlichen Willen es erfordert.
 
 
 ##### § 678 Geschäftsführung gegen den Willen des Geschäftsherrn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070502377)
 
 Steht die Übernahme der Geschäftsführung mit dem wirklichen oder dem
 mutmaßlichen Willen des Geschäftsherrn in Widerspruch und musste der
@@ -19334,6 +20413,7 @@ verpflichtet, wenn ihm ein sonstiges Verschulden nicht zur Last fällt.
 
 
 ##### § 679 Unbeachtlichkeit des entgegenstehenden Willens des Geschäftsherrn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070602377)
 
 Ein der Geschäftsführung entgegenstehender Wille des Geschäftsherrn
 kommt nicht in Betracht, wenn ohne die Geschäftsführung eine Pflicht
@@ -19343,6 +20423,7 @@ rechtzeitig erfüllt werden würde.
 
 
 ##### § 680 Geschäftsführung zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070702377)
 
 Bezweckt die Geschäftsführung die Abwendung einer dem Geschäftsherrn
 drohenden dringenden Gefahr, so hat der Geschäftsführer nur Vorsatz
@@ -19350,6 +20431,7 @@ und grobe Fahrlässigkeit zu vertreten.
 
 
 ##### § 681 Nebenpflichten des Geschäftsführers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070802377)
 
 Der Geschäftsführer hat die Übernahme der Geschäftsführung, sobald es
 tunlich ist, dem Geschäftsherrn anzuzeigen und, wenn nicht mit dem
@@ -19360,6 +20442,7 @@ entsprechende Anwendung.
 
 
 ##### § 682 Fehlende Geschäftsfähigkeit des Geschäftsführers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE070902377)
 
 Ist der Geschäftsführer geschäftsunfähig oder in der
 Geschäftsfähigkeit beschränkt, so ist er nur nach den Vorschriften
@@ -19368,6 +20451,7 @@ Herausgabe einer ungerechtfertigten Bereicherung verantwortlich.
 
 
 ##### § 683 Ersatz von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071002377)
 
 Entspricht die Übernahme der Geschäftsführung dem Interesse und dem
 wirklichen oder dem mutmaßlichen Willen des Geschäftsherrn, so kann
@@ -19378,6 +20462,7 @@ dem Willen des Geschäftsherrn in Widerspruch steht.
 
 
 ##### § 684 Herausgabe der Bereicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071102377)
 
 Liegen die Voraussetzungen des § 683 nicht vor, so ist der
 Geschäftsherr verpflichtet, dem Geschäftsführer alles, was er durch
@@ -19388,6 +20473,7 @@ Geschäftsführer der in § 683 bestimmte Anspruch zu.
 
 
 ##### § 685 Schenkungsabsicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071202377)
 
 (1) Dem Geschäftsführer steht ein Anspruch nicht zu, wenn er nicht die
 Absicht hatte, von dem Geschäftsherrn Ersatz zu verlangen.
@@ -19398,6 +20484,7 @@ dem Empfänger Ersatz zu verlangen.
 
 
 ##### § 686 Irrtum über die Person des Geschäftsherrn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071302377)
 
 Ist der Geschäftsführer über die Person des Geschäftsherrn im Irrtum,
 so wird der wirkliche Geschäftsherr aus der Geschäftsführung
@@ -19405,6 +20492,7 @@ berechtigt und verpflichtet.
 
 
 ##### § 687 Unechte Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071402377)
 
 (1) Die Vorschriften der §§ 677 bis 686 finden keine Anwendung, wenn
 jemand ein fremdes Geschäft in der Meinung besorgt, dass es sein
@@ -19418,16 +20506,19 @@ Satz 1 verpflichtet.
 
 
 #### Titel 14 - Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006302377)
 
 
 
 ##### § 688 Vertragstypische Pflichten bei der Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071502377)
 
 Durch den Verwahrungsvertrag wird der Verwahrer verpflichtet, eine ihm
 von dem Hinterleger übergebene bewegliche Sache aufzubewahren.
 
 
 ##### § 689 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071602377)
 
 Eine Vergütung für die Aufbewahrung gilt als stillschweigend
 vereinbart, wenn die Aufbewahrung den Umständen nach nur gegen eine
@@ -19435,6 +20526,7 @@ Vergütung zu erwarten ist.
 
 
 ##### § 690 Haftung bei unentgeltlicher Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071702377)
 
 Wird die Aufbewahrung unentgeltlich übernommen, so hat der Verwahrer
 nur für diejenige Sorgfalt einzustehen, welche er in eigenen
@@ -19442,6 +20534,7 @@ Angelegenheiten anzuwenden pflegt.
 
 
 ##### § 691 Hinterlegung bei Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071802377)
 
 Der Verwahrer ist im Zweifel nicht berechtigt, die hinterlegte Sache
 bei einem Dritten zu hinterlegen. Ist die Hinterlegung bei einem
@@ -19451,6 +20544,7 @@ Verschulden eines Gehilfen ist er nach § 278 verantwortlich.
 
 
 ##### § 692 Änderung der Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE071902377)
 
 Der Verwahrer ist berechtigt, die vereinbarte Art der Aufbewahrung zu
 ändern, wenn er den Umständen nach annehmen darf, dass der Hinterleger
@@ -19461,6 +20555,7 @@ ist.
 
 
 ##### § 693 Ersatz von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072002377)
 
 Macht der Verwahrer zum Zwecke der Aufbewahrung Aufwendungen, die er
 den Umständen nach für erforderlich halten darf, so ist der
@@ -19468,6 +20563,7 @@ Hinterleger zum Ersatz verpflichtet.
 
 
 ##### § 694 Schadensersatzpflicht des Hinterlegers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072102377)
 
 Der Hinterleger hat den durch die Beschaffenheit der hinterlegten
 Sache dem Verwahrer entstehenden Schaden zu ersetzen, es sei denn,
@@ -19477,6 +20573,7 @@ Verwahrer angezeigt oder dieser sie ohne Anzeige gekannt hat.
 
 
 ##### § 695 Rückforderungsrecht des Hinterlegers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072202377)
 
 Der Hinterleger kann die hinterlegte Sache jederzeit zurückfordern,
 auch wenn für die Aufbewahrung eine Zeit bestimmt ist. Die Verjährung
@@ -19484,6 +20581,7 @@ des Anspruchs auf Rückgabe der Sache beginnt mit der Rückforderung.
 
 
 ##### § 696 Rücknahmeanspruch des Verwahrers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072302377)
 
 Der Verwahrer kann, wenn eine Zeit für die Aufbewahrung nicht bestimmt
 ist, jederzeit die Rücknahme der hinterlegten Sache verlangen. Ist
@@ -19493,6 +20591,7 @@ beginnt mit dem Verlangen auf Rücknahme.
 
 
 ##### § 697 Rückgabeort
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072402377)
 
 Die Rückgabe der hinterlegten Sache hat an dem Ort zu erfolgen, an
 welchem die Sache aufzubewahren war; der Verwahrer ist nicht
@@ -19500,12 +20599,14 @@ verpflichtet, die Sache dem Hinterleger zu bringen.
 
 
 ##### § 698 Verzinsung des verwendeten Geldes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072502377)
 
 Verwendet der Verwahrer hinterlegtes Geld für sich, so ist er
 verpflichtet, es von der Zeit der Verwendung an zu verzinsen.
 
 
 ##### § 699 Fälligkeit der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072602377)
 
 (1) Der Hinterleger hat die vereinbarte Vergütung bei der Beendigung
 der Aufbewahrung zu entrichten. Ist die Vergütung nach Zeitabschnitten
@@ -19519,6 +20620,7 @@ Vereinbarung über die Vergütung sich ein anderes ergibt.
 
 
 ##### § 700 Unregelmäßiger Verwahrungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072702377)
 
 (1) Werden vertretbare Sachen in der Art hinterlegt, dass das Eigentum
 auf den Verwahrer übergehen und dieser verpflichtet sein soll, Sachen
@@ -19539,10 +20641,12 @@ wird.
 
 
 #### Titel 15 - Einbringung von Sachen bei Gastwirten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006402377)
 
 
 
 ##### § 701 Haftung des Gastwirts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072802377)
 
 (1) Ein Gastwirt, der gewerbsmäßig Fremde zur Beherbergung aufnimmt,
 hat den Schaden zu ersetzen, der durch den Verlust, die Zerstörung
@@ -19580,6 +20684,7 @@ die in einem Fahrzeug belassen worden sind, und auf lebende Tiere.
 
 
 ##### § 702 Beschränkung der Haftung; Wertsachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE072903377)
 
 (1) Der Gastwirt haftet auf Grund des § 701 nur bis zu einem Betrag,
 der dem Hundertfachen des Beherbergungspreises für einen Tag
@@ -19610,6 +20715,7 @@ Behältnis übergeben werden.
 
 
 ##### § 702a Erlass der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073002377)
 
 (1) Die Haftung des Gastwirts kann im Voraus nur erlassen werden,
 soweit sie den nach § 702 Abs. 1 maßgeblichen Höchstbetrag übersteigt.
@@ -19626,6 +20732,7 @@ enthält.
 
 
 ##### § 703 Erlöschen des Schadensersatzanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073102377)
 
 Der dem Gast auf Grund der §§ 701, 702 zustehende Anspruch erlischt,
 wenn nicht der Gast unverzüglich, nachdem er von dem Verlust, der
@@ -19636,6 +20743,7 @@ oder die Beschädigung von ihm oder seinen Leuten verschuldet ist.
 
 
 ##### § 704 Pfandrecht des Gastwirts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073203377)
 
 Der Gastwirt hat für seine Forderungen für Wohnung und andere dem Gast
 zur Befriedigung seiner Bedürfnisse gewährte Leistungen, mit
@@ -19646,14 +20754,17 @@ entsprechende Anwendung.
 
 
 #### Titel 16 - Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006503360)
 
 
 
 ##### Untertitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031400360)
 
 
 
 ###### § 705 Rechtsnatur der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073303360)
 
 (1) Die Gesellschaft wird durch den Abschluss des
 Gesellschaftsvertrags errichtet, in dem sich die Gesellschafter
@@ -19674,14 +20785,17 @@ Rechtsverkehr teilnimmt.
 
 
 ##### Untertitel 2 - Rechtsfähige Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031500360)
 
 
 
 ###### Kapitel 1 - Sitz; Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031600360)
 
 
 
 ###### § 706 Sitz der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073403360)
 
 Sitz der Gesellschaft ist der Ort, an dem deren Geschäfte tatsächlich
 geführt werden (Verwaltungssitz). Ist die Gesellschaft im
@@ -19691,6 +20805,7 @@ von Satz 1 dieser Ort Sitz der Gesellschaft.
 
 
 ###### § 707 Anmeldung zum Gesellschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073503360)
 
 (1) Die Gesellschafter können die Gesellschaft bei dem Gericht, in
 dessen Bezirk sie ihren Sitz hat, zur Eintragung in das
@@ -19754,6 +20869,7 @@ Gesellschaft zu bewirken.
 
 
 ###### § 707a Inhalt und Wirkungen der Eintragung im Gesellschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290000360)
 
 (1) Die Eintragung im Gesellschaftsregister hat die in § 707 Absatz 2
 Nummer 1 bis 3 genannten Angaben zu enthalten. Eine Gesellschaft soll
@@ -19779,6 +20895,7 @@ Gesellschaft nur nach den allgemeinen Vorschriften statt.
 
 
 ###### § 707b Entsprechend anwendbare Vorschriften des Handelsgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290100360)
 
 Folgende Vorschriften des Handelsgesetzbuchs sind auf eingetragene
 Gesellschaften entsprechend anzuwenden:
@@ -19801,6 +20918,7 @@ Gesellschaften entsprechend anzuwenden:
 
 
 ###### § 707c Statuswechsel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290200360)
 
 (1) Die Anmeldung zur Eintragung einer bereits in einem Register
 eingetragenen Gesellschaft unter einer anderen Rechtsform einer
@@ -19860,6 +20978,7 @@ wird. Seine Haftung als Kommanditist bleibt unberührt.
 
 
 ###### § 707d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290301360)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 nähere Bestimmungen über die elektronische Führung des
@@ -19890,10 +21009,12 @@ Unternehmensregister vereinbaren.
 
 
 ###### Kapitel 2 - Rechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031700360)
 
 
 
 ###### § 708 Gestaltungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073603360)
 
 Von den Vorschriften dieses Kapitels kann durch den
 Gesellschaftsvertrag abgewichen werden, soweit im Gesetz nichts
@@ -19901,6 +21022,7 @@ anderes bestimmt ist.
 
 
 ###### § 709 Beiträge; Stimmkraft; Anteil an Gewinn und Verlust
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073703360)
 
 (1) Der Beitrag eines Gesellschafters kann in jeder Förderung des
 gemeinsamen Zwecks, auch in der Leistung von Diensten, bestehen.
@@ -19918,12 +21040,14 @@ einen gleichen Anteil am Gewinn und Verlust.
 
 
 ###### § 710 Mehrbelastungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073803360)
 
 Zur Erhöhung seines Beitrags kann ein Gesellschafter nicht ohne seine
 Zustimmung verpflichtet werden. Die §§ 728a und 737 bleiben unberührt.
 
 
 ###### § 711 Übertragung und Übergang von Gesellschaftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE073903360)
 
 (1) Die Übertragung eines Gesellschaftsanteils bedarf der Zustimmung
 der anderen Gesellschafter. Die Gesellschaft kann eigene Anteile nicht
@@ -19938,6 +21062,7 @@ Erbengemeinschaft finden insoweit keine Anwendung.
 
 
 ###### § 711a Übertragbarkeit von Gesellschafterrechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290400360)
 
 Die Rechte der Gesellschafter aus dem Gesellschaftsverhältnis sind
 nicht übertragbar. Hiervon ausgenommen sind Ansprüche, die einem
@@ -19949,6 +21074,7 @@ zukommt.
 
 
 ###### § 712 Ausscheiden eines Gesellschafters; Eintritt eines neuen Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074003360)
 
 (1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so wächst
 sein Anteil an der Gesellschaft den übrigen Gesellschaftern im Zweifel
@@ -19961,6 +21087,7 @@ und in dem Verhältnis ihrer bisherigen Anteile.
 
 
 ###### § 712a Ausscheiden des vorletzten Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290500360)
 
 (1) Verbleibt nur noch ein Gesellschafter, so erlischt die
 Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht zum
@@ -19973,6 +21100,7 @@ Gesellschafters sind anlässlich seines Ausscheidens die §§ 728 bis
 
 
 ###### § 713 Gesellschaftsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074103360)
 
 Die Beiträge der Gesellschafter sowie die für oder durch die
 Gesellschaft erworbenen Rechte und die gegen sie begründeten
@@ -19980,12 +21108,14 @@ Verbindlichkeiten sind Vermögen der Gesellschaft.
 
 
 ###### § 714 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074203360)
 
 Gesellschafterbeschlüsse bedürfen der Zustimmung aller
 stimmberechtigten Gesellschafter.
 
 
 ###### § 715 Geschäftsführungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074303360)
 
 (1) Zur Führung der Geschäfte der Gesellschaft sind alle
 Gesellschafter berechtigt und verpflichtet.
@@ -20020,6 +21150,7 @@ und 3 ist entsprechend anzuwenden.
 
 
 ###### § 715a Notgeschäftsführungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290601360)
 
 Sind alle geschäftsführungsbefugten Gesellschafter verhindert, nach
 Maßgabe von § 715 Absatz 3 bei einem Geschäft mitzuwirken, kann jeder
@@ -20030,6 +21161,7 @@ ausschließt, ist unwirksam.
 
 
 ###### § 715b Gesellschafterklage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290700360)
 
 (1) Jeder Gesellschafter ist befugt, einen auf dem
 Gesellschaftsverhältnis beruhenden Anspruch der Gesellschaft gegen
@@ -20053,6 +21185,7 @@ worden ist, wirkt die Entscheidung für und gegen die Gesellschaft.
 
 
 ###### § 716 Ersatz von Aufwendungen und Verlusten; Vorschusspflicht; Herausgabepflicht; Verzinsungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074403360)
 
 (1) Macht ein Gesellschafter zum Zwecke der Geschäftsbesorgung für die
 Gesellschaft Aufwendungen, die er den Umständen nach für erforderlich
@@ -20074,6 +21207,7 @@ Aufwendungen oder Verluste.
 
 
 ###### § 717 Informationsrechte und -pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074503360)
 
 (1) Jeder Gesellschafter hat gegenüber der Gesellschaft das Recht, die
 Unterlagen der Gesellschaft einzusehen und sich aus ihnen Auszüge
@@ -20094,16 +21228,19 @@ Verpflichtungen ausschließt, ist unwirksam.
 
 
 ###### § 718 Rechnungsabschluss und Gewinnverteilung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074603360)
 
 Der Rechnungsabschluss und die Gewinnverteilung haben im Zweifel zum
 Schluss jedes Kalenderjahrs zu erfolgen.
 
 
 ###### Kapitel 3 - Rechtsverhältnis der Gesellschaft zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031800360)
 
 
 
 ###### § 719 Entstehung der Gesellschaft im Verhältnis zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074703360)
 
 (1) Im Verhältnis zu Dritten entsteht die Gesellschaft, sobald sie mit
 Zustimmung sämtlicher Gesellschafter am Rechtsverkehr teilnimmt,
@@ -20114,6 +21251,7 @@ Zeitpunkt entstehen soll, ist Dritten gegenüber unwirksam.
 
 
 ###### § 720 Vertretung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074803360)
 
 (1) Zur Vertretung der Gesellschaft sind alle Gesellschafter gemeinsam
 befugt, es sei denn, der Gesellschaftsvertrag bestimmt etwas anderes.
@@ -20139,6 +21277,7 @@ genügt die Abgabe gegenüber einem vertretungsbefugten Gesellschafter.
 
 
 ###### § 721 Persönliche Haftung der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE074903360)
 
 Die Gesellschafter haften für die Verbindlichkeiten der Gesellschaft
 den Gläubigern als Gesamtschuldner persönlich. Eine entgegenstehende
@@ -20146,6 +21285,7 @@ Vereinbarung ist Dritten gegenüber unwirksam.
 
 
 ###### § 721a Haftung des eintretenden Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290800360)
 
 Wer in eine bestehende Gesellschaft eintritt, haftet gleich den
 anderen Gesellschaftern nach Maßgabe der §§ 721 und 721b für die vor
@@ -20154,6 +21294,7 @@ entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
 
 ###### § 721b Einwendungen und Einreden des Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE290900360)
 
 (1) Wird ein Gesellschafter wegen einer Verbindlichkeit der
 Gesellschaft in Anspruch genommen, kann er Einwendungen und Einreden,
@@ -20168,6 +21309,7 @@ Leistungsverweigerung berechtigen würde, zusteht.
 
 
 ###### § 722 Zwangsvollstreckung gegen die Gesellschaft oder gegen ihre Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075003360)
 
 (1) Zur Zwangsvollstreckung in das Vermögen der Gesellschaft ist ein
 gegen die Gesellschaft gerichteter Vollstreckungstitel erforderlich.
@@ -20177,10 +21319,12 @@ findet die Zwangsvollstreckung gegen die Gesellschafter nicht statt.
 
 
 ###### Kapitel 4 - Ausscheiden eines Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031900360)
 
 
 
 ###### § 723 Gründe für das Ausscheiden; Zeitpunkt des Ausscheidens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075104360)
 
 (1) Folgende Gründe führen zum Ausscheiden eines Gesellschafters aus
 der Gesellschaft, sofern der Gesellschaftsvertrag für diese Fälle
@@ -20216,6 +21360,7 @@ den auszuschließenden Gesellschafter.
 
 
 ###### § 724 Fortsetzung mit dem Erben; Ausscheiden des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075203360)
 
 (1) Geht der Anteil eines verstorbenen Gesellschafters auf seine Erben
 über und erfüllt die Gesellschaft die Voraussetzungen nach § 107
@@ -20248,6 +21393,7 @@ betreffen.
 
 
 ###### § 725 Kündigung der Mitgliedschaft durch den Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075303360)
 
 (1) Ist das Gesellschaftsverhältnis auf unbestimmte Zeit eingegangen,
 kann ein Gesellschafter seine Mitgliedschaft unter Einhaltung einer
@@ -20289,6 +21435,7 @@ Vorschriften zuwider beschränkt, ist unwirksam.
 
 
 ###### § 726 Kündigung der Mitgliedschaft durch einen Privatgläubiger des Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075403360)
 
 Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der
 letzten sechs Monate eine Zwangsvollstreckung in das bewegliche
@@ -20300,6 +21447,7 @@ einer Frist von drei Monaten zum Ablauf des Kalenderjahrs kündigen.
 
 
 ###### § 727 Ausschließung aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075503360)
 
 Tritt in der Person eines Gesellschafters ein wichtiger Grund ein,
 kann er durch Beschluss der anderen Gesellschafter aus der
@@ -20313,6 +21461,7 @@ verbleibt.
 
 
 ###### § 728 Ansprüche des ausgeschiedenen Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075604360)
 
 (1) Sofern im Gesellschaftsvertrag nichts anderes vereinbart ist, ist
 die Gesellschaft verpflichtet, den ausgeschiedenen Gesellschafter von
@@ -20327,6 +21476,7 @@ Wege der Schätzung zu ermitteln.
 
 
 ###### § 728a Haftung des ausgeschiedenen Gesellschafters für Fehlbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291000360)
 
 Reicht der Wert des Gesellschaftsvermögens zur Deckung der
 Verbindlichkeiten der Gesellschaft nicht aus, hat der ausgeschiedene
@@ -20335,6 +21485,7 @@ seines Anteils am Gewinn und Verlust aufzukommen.
 
 
 ###### § 728b Nachhaftung des ausgeschiedenen Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291100360)
 
 (1) Scheidet ein Gesellschafter aus der Gesellschaft aus, so haftet er
 für deren bis dahin begründete Verbindlichkeiten, wenn sie vor Ablauf
@@ -20366,10 +21517,12 @@ Anspruch schriftlich anerkannt hat.
 
 
 ###### Kapitel 5 - Auflösung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG032000360)
 
 
 
 ###### § 729 Auflösungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075704360)
 
 (1) Die Gesellschaft wird aufgelöst durch:
 
@@ -20413,6 +21566,7 @@ werden.
 
 
 ###### § 730 Auflösung bei Tod oder Insolvenz eines Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075804360)
 
 (1) Ist im Gesellschaftsvertrag vereinbart, dass die Gesellschaft
 durch den Tod eines Gesellschafters aufgelöst wird, hat der Erbe des
@@ -20435,6 +21589,7 @@ wird.
 
 
 ###### § 731 Kündigung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE075903360)
 
 (1) Ein Gesellschafter kann die Gesellschaft jederzeit aus wichtigem
 Grund ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die
@@ -20450,6 +21605,7 @@ ist unwirksam.
 
 
 ###### § 732 Auflösungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076003360)
 
 Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu
 entscheiden, muss ein Beschluss, der die Auflösung der Gesellschaft
@@ -20458,6 +21614,7 @@ abgegebenen Stimmen gefasst werden.
 
 
 ###### § 733 Anmeldung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076103360)
 
 (1) Ist die Gesellschaft im Gesellschaftsregister eingetragen, ist
 ihre Auflösung von sämtlichen Gesellschaftern zur Eintragung in das
@@ -20476,6 +21633,7 @@ entgegenstehen.
 
 
 ###### § 734 Fortsetzung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076203360)
 
 (1) Die Gesellschafter können nach Auflösung der Gesellschaft deren
 Fortsetzung beschließen, sobald der Auflösungsgrund beseitigt ist.
@@ -20491,10 +21649,12 @@ Eintragung in das Gesellschaftsregister anzumelden.
 
 
 ###### Kapitel 6 - Liquidation der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG032100360)
 
 
 
 ###### § 735 Notwendigkeit der Liquidation; anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076303360)
 
 (1) Nach Auflösung der Gesellschaft findet die Liquidation statt,
 sofern nicht über das Vermögen der Gesellschaft das Insolvenzverfahren
@@ -20519,6 +21679,7 @@ ergibt.
 
 
 ###### § 736 Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076405360)
 
 (1) Zur Liquidation sind alle Gesellschafter berufen.
 
@@ -20540,6 +21701,7 @@ Abberufung eines Liquidators.
 
 
 ###### § 736a Gerichtliche Berufung und Abberufung von Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291200360)
 
 (1) Ist die Gesellschaft im Gesellschaftsregister eingetragen, kann
 auf Antrag eines Beteiligten ein Liquidator aus wichtigem Grund durch
@@ -20577,6 +21739,7 @@ Zivilprozessordnung statt.
 
 
 ###### § 736b Geschäftsführungs- und Vertretungsbefugnis der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291300360)
 
 (1) Mit der Auflösung der Gesellschaft erlischt die einem
 Gesellschafter im Gesellschaftsvertrag übertragene Befugnis zur
@@ -20591,6 +21754,7 @@ erlangt hat oder die Auflösung kennen muss.
 
 
 ###### § 736c Anmeldung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291400360)
 
 (1) Ist die Gesellschaft im Gesellschaftsregister eingetragen, sind
 die Liquidatoren und ihre Vertretungsbefugnis von sämtlichen
@@ -20608,6 +21772,7 @@ Amts wegen.
 
 
 ###### § 736d Rechtstellung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291500360)
 
 (1) Die Liquidatoren haben, auch wenn sie vom Gericht berufen sind,
 den Weisungen Folge zu leisten, welche die Beteiligten in Bezug auf
@@ -20644,6 +21809,7 @@ Verlust zu verteilen.
 
 
 ###### § 737 Haftung der Gesellschafter für Fehlbetrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076503360)
 
 Reicht das Gesellschaftsvermögen zur Berichtigung der
 Verbindlichkeiten und zur Rückerstattung der Beiträge nicht aus, haben
@@ -20655,6 +21821,7 @@ Verhältnis zu tragen.
 
 
 ###### § 738 Anmeldung des Erlöschens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076603360)
 
 Ist die Gesellschaft im Gesellschaftsregister eingetragen, ist das
 Erlöschen der Gesellschaft von sämtlichen Liquidatoren zur Eintragung
@@ -20663,6 +21830,7 @@ beendigt ist.
 
 
 ###### § 739 Verjährung von Ansprüchen aus der Gesellschafterhaftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076703360)
 
 (1) Ist die Gesellschaft durch Liquidation oder auf andere Weise
 erloschen, verjähren Ansprüche gegen einen Gesellschafter aus
@@ -20682,10 +21850,12 @@ haben.
 
 
 ##### Untertitel 3 - Nicht rechtsfähige Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG032200360)
 
 
 
 ###### § 740 Fehlende Vermögensfähigkeit; anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076803360)
 
 (1) Eine nicht rechtsfähige Gesellschaft hat kein Vermögen.
 
@@ -20695,6 +21865,7 @@ Absatz 1 sowie § 718 entsprechend anzuwenden.
 
 
 ###### § 740a Beendigung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291600360)
 
 (1) Die nicht rechtsfähige Gesellschaft endet durch:
 
@@ -20728,6 +21899,7 @@ und 734 Absatz 1 und 2 entsprechend anzuwenden.
 
 
 ###### § 740b Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291700360)
 
 (1) Nach der Beendigung der nicht rechtsfähigen Gesellschaft findet
 die Auseinandersetzung unter den Gesellschaftern statt.
@@ -20737,6 +21909,7 @@ die Auseinandersetzung unter den Gesellschaftern statt.
 
 
 ###### § 740c Ausscheiden eines Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE291800360)
 
 (1) Ist im Gesellschaftsvertrag vereinbart, dass abweichend von den in
 § 740a Absatz 1 Nummer 3 bis 6 genannten Beendigungsgründen die
@@ -20750,10 +21923,12 @@ Ausscheidensgrund eintritt.
 
 
 #### Titel 17 - Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006602377)
 
 
 
 ##### § 741 Gemeinschaft nach Bruchteilen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE076902377)
 
 Steht ein Recht mehreren gemeinschaftlich zu, so finden, sofern sich
 nicht aus dem Gesetz ein anderes ergibt, die Vorschriften der §§ 742
@@ -20761,12 +21936,14 @@ bis 758 Anwendung (Gemeinschaft nach Bruchteilen).
 
 
 ##### § 742 Gleiche Anteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077002377)
 
 Im Zweifel ist anzunehmen, dass den Teilhabern gleiche Anteile
 zustehen.
 
 
 ##### § 743 Früchteanteil; Gebrauchsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077102377)
 
 (1) Jedem Teilhaber gebührt ein seinem Anteil entsprechender Bruchteil
 der Früchte.
@@ -20777,6 +21954,7 @@ Teilhaber beeinträchtigt wird.
 
 
 ##### § 744 Gemeinschaftliche Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077202377)
 
 (1) Die Verwaltung des gemeinschaftlichen Gegenstands steht den
 Teilhabern gemeinschaftlich zu.
@@ -20788,6 +21966,7 @@ solchen Maßregel im Voraus erteilen.
 
 
 ##### § 745 Verwaltung und Benutzung durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077302377)
 
 (1) Durch Stimmenmehrheit kann eine der Beschaffenheit des
 gemeinschaftlichen Gegenstands entsprechende ordnungsmäßige Verwaltung
@@ -20806,6 +21985,7 @@ nicht ohne seine Zustimmung beeinträchtigt werden.
 
 
 ##### § 746 Wirkung gegen Sondernachfolger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077402377)
 
 Haben die Teilhaber die Verwaltung und Benutzung des
 gemeinschaftlichen Gegenstands geregelt, so wirkt die getroffene
@@ -20813,6 +21993,7 @@ Bestimmung auch für und gegen die Sondernachfolger.
 
 
 ##### § 747 Verfügung über Anteil und gemeinschaftliche Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077502377)
 
 Jeder Teilhaber kann über seinen Anteil verfügen. Über den
 gemeinschaftlichen Gegenstand im Ganzen können die Teilhaber nur
@@ -20820,6 +22001,7 @@ gemeinschaftlich verfügen.
 
 
 ##### § 748 Lasten- und Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077602377)
 
 Jeder Teilhaber ist den anderen Teilhabern gegenüber verpflichtet, die
 Lasten des gemeinschaftlichen Gegenstands sowie die Kosten der
@@ -20828,6 +22010,7 @@ dem Verhältnis seines Anteils zu tragen.
 
 
 ##### § 749 Aufhebungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077702377)
 
 (1) Jeder Teilhaber kann jederzeit die Aufhebung der Gemeinschaft
 verlangen.
@@ -20844,6 +22027,7 @@ wird, ist nichtig.
 
 
 ##### § 750 Ausschluss der Aufhebung im Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077802377)
 
 Haben die Teilhaber das Recht, die Aufhebung der Gemeinschaft zu
 verlangen, auf Zeit ausgeschlossen, so tritt die Vereinbarung im
@@ -20851,6 +22035,7 @@ Zweifel mit dem Tode eines Teilhabers außer Kraft.
 
 
 ##### § 751 Ausschluss der Aufhebung und Sondernachfolger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE077902377)
 
 Haben die Teilhaber das Recht, die Aufhebung der Gemeinschaft zu
 verlangen, für immer oder auf Zeit ausgeschlossen oder eine
@@ -20862,6 +22047,7 @@ bloß vorläufig vollstreckbar ist.
 
 
 ##### § 752 Teilung in Natur
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078002377)
 
 Die Aufhebung der Gemeinschaft erfolgt durch Teilung in Natur, wenn
 der gemeinschaftliche Gegenstand oder, falls mehrere Gegenstände
@@ -20872,6 +22058,7 @@ durch das Los.
 
 
 ##### § 753 Teilung durch Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078102377)
 
 (1) Ist die Teilung in Natur ausgeschlossen, so erfolgt die Aufhebung
 der Gemeinschaft durch Verkauf des gemeinschaftlichen Gegenstands nach
@@ -20886,6 +22073,7 @@ Kosten zu tragen, wenn der wiederholte Versuch misslingt.
 
 
 ##### § 754 Verkauf gemeinschaftlicher Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078202377)
 
 Der Verkauf einer gemeinschaftlichen Forderung ist nur zulässig, wenn
 sie noch nicht eingezogen werden kann. Ist die Einziehung möglich, so
@@ -20893,6 +22081,7 @@ kann jeder Teilhaber gemeinschaftliche Einziehung verlangen.
 
 
 ##### § 755 Berichtigung einer Gesamtschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078302377)
 
 (1) Haften die Teilhaber als Gesamtschuldner für eine Verbindlichkeit,
 die sie in Gemäßheit des § 748 nach dem Verhältnis ihrer Anteile zu
@@ -20910,6 +22099,7 @@ gemeinschaftlichen Gegenstands erforderlich ist, hat der Verkauf nach
 
 
 ##### § 756 Berichtigung einer Teilhaberschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078402377)
 
 Hat ein Teilhaber gegen einen anderen Teilhaber eine Forderung, die
 sich auf die Gemeinschaft gründet, so kann er bei der Aufhebung der
@@ -20919,6 +22109,7 @@ verlangen. Die Vorschrift des § 755 Abs. 2, 3 findet Anwendung.
 
 
 ##### § 757 Gewährleistung bei Zuteilung an einen Teilhaber
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078502377)
 
 Wird bei der Aufhebung der Gemeinschaft ein gemeinschaftlicher
 Gegenstand einem der Teilhaber zugeteilt, so hat wegen eines Mangels
@@ -20928,16 +22119,19 @@ zu leisten.
 
 
 ##### § 758 Unverjährbarkeit des Aufhebungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078602377)
 
 Der Anspruch auf Aufhebung der Gemeinschaft unterliegt nicht der
 Verjährung.
 
 
 #### Titel 18 - Leibrente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006702377)
 
 
 
 ##### § 759 Dauer und Betrag der Rente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078702377)
 
 (1) Wer zur Gewährung einer Leibrente verpflichtet ist, hat die Rente
 im Zweifel für die Lebensdauer des Gläubigers zu entrichten.
@@ -20947,6 +22141,7 @@ der Rente.
 
 
 ##### § 760 Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078802377)
 
 (1) Die Leibrente ist im Voraus zu entrichten.
 
@@ -20960,6 +22155,7 @@ den Zeitabschnitt entfallende Betrag.
 
 
 ##### § 761 Form des Leibrentenversprechens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE078903377)
 
 Zur Gültigkeit eines Vertrags, durch den eine Leibrente versprochen
 wird, ist, soweit nicht eine andere Form vorgeschrieben ist,
@@ -20970,10 +22166,12 @@ dient.
 
 
 #### Titel 19 - Unvollkommene Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006802377)
 
 
 
 ##### § 762 Spiel, Wette
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079002377)
 
 (1) Durch Spiel oder durch Wette wird eine Verbindlichkeit nicht
 begründet. Das auf Grund des Spieles oder der Wette Geleistete kann
@@ -20987,6 +22185,7 @@ eingeht, insbesondere für ein Schuldanerkenntnis.
 
 
 ##### § 763 Lotterie- und Ausspielvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079102377)
 
 Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die
 Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls
@@ -20994,15 +22193,18 @@ findet die Vorschrift des § 762 Anwendung.
 
 
 ##### § 764
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079203377)
 
 (weggefallen)
 
 
 #### Titel 20 - Bürgschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG006902377)
 
 
 
 ##### § 765 Vertragstypische Pflichten bei der Bürgschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079302377)
 
 (1) Durch den Bürgschaftsvertrag verpflichtet sich der Bürge gegenüber
 dem Gläubiger eines Dritten, für die Erfüllung der Verbindlichkeit des
@@ -21013,6 +22215,7 @@ Verbindlichkeit übernommen werden.
 
 
 ##### § 766 Schriftform der Bürgschaftserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079403377)
 
 Zur Gültigkeit des Bürgschaftsvertrags ist schriftliche Erteilung der
 Bürgschaftserklärung erforderlich. Die Erteilung der
@@ -21022,6 +22225,7 @@ geheilt.
 
 
 ##### § 767 Umfang der Bürgschaftsschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079502377)
 
 (1) Für die Verpflichtung des Bürgen ist der jeweilige Bestand der
 Hauptverbindlichkeit maßgebend. Dies gilt insbesondere auch, wenn die
@@ -21035,6 +22239,7 @@ ersetzenden Kosten der Kündigung und der Rechtsverfolgung.
 
 
 ##### § 768 Einreden des Bürgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079602377)
 
 (1) Der Bürge kann die dem Hauptschuldner zustehenden Einreden geltend
 machen. Stirbt der Hauptschuldner, so kann sich der Bürge nicht darauf
@@ -21045,6 +22250,7 @@ Hauptschuldner auf sie verzichtet.
 
 
 ##### § 769 Mitbürgschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079702377)
 
 Verbürgen sich mehrere für dieselbe Verbindlichkeit, so haften sie als
 Gesamtschuldner, auch wenn sie die Bürgschaft nicht gemeinschaftlich
@@ -21052,6 +22258,7 @@ Gesamtschuldner, auch wenn sie die Bürgschaft nicht gemeinschaftlich
 
 
 ##### § 770 Einreden der Anfechtbarkeit und der Aufrechenbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079802377)
 
 (1) Der Bürge kann die Befriedigung des Gläubigers verweigern, solange
 dem Hauptschuldner das Recht zusteht, das seiner Verbindlichkeit
@@ -21063,6 +22270,7 @@ befriedigen kann.
 
 
 ##### § 771 Einrede der Vorausklage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE079902377)
 
 Der Bürge kann die Befriedigung des Gläubigers verweigern, solange
 nicht der Gläubiger eine Zwangsvollstreckung gegen den Hauptschuldner
@@ -21073,6 +22281,7 @@ Zwangsvollstreckung gegen den Hauptschuldner ohne Erfolg versucht hat.
 
 
 ##### § 772 Vollstreckungs- und Verwertungspflicht des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080002377)
 
 (1) Besteht die Bürgschaft für eine Geldforderung, so muss die
 Zwangsvollstreckung in die beweglichen Sachen des Hauptschuldners an
@@ -21089,6 +22298,7 @@ nur, wenn beide Forderungen durch den Wert der Sache gedeckt werden.
 
 
 ##### § 773 Ausschluss der Einrede der Vorausklage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080103377)
 
 (1) Die Einrede der Vorausklage ist ausgeschlossen:
 
@@ -21120,6 +22330,7 @@ findet Anwendung.
 
 
 ##### § 774 Gesetzlicher Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080202377)
 
 (1) Soweit der Bürge den Gläubiger befriedigt, geht die Forderung des
 Gläubigers gegen den Hauptschuldner auf ihn über. Der Übergang kann
@@ -21131,6 +22342,7 @@ Rechtsverhältnis bleiben unberührt.
 
 
 ##### § 775 Anspruch des Bürgen auf Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080302377)
 
 (1) Hat sich der Bürge im Auftrag des Hauptschuldners verbürgt oder
 stehen ihm nach den Vorschriften über die Geschäftsführung ohne
@@ -21163,6 +22375,7 @@ Hauptschuldner dem Bürgen, statt ihn zu befreien, Sicherheit leisten.
 
 
 ##### § 776 Aufgabe einer Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080402377)
 
 Gibt der Gläubiger ein mit der Forderung verbundenes Vorzugsrecht,
 eine für sie bestehende Hypothek oder Schiffshypothek, ein für sie
@@ -21174,6 +22387,7 @@ ist.
 
 
 ##### § 777 Bürgschaft auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080502377)
 
 (1) Hat sich der Bürge für eine bestehende Verbindlichkeit auf
 bestimmte Zeit verbürgt, so wird er nach dem Ablauf der bestimmten
@@ -21193,6 +22407,7 @@ Hauptverbindlichkeit bei dem Ablauf der bestimmten Zeit hat.
 
 
 ##### § 778 Kreditauftrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080602377)
 
 Wer einen anderen beauftragt, im eigenen Namen und auf eigene Rechnung
 einem Dritten ein Darlehen oder eine Finanzierungshilfe zu gewähren,
@@ -21201,10 +22416,12 @@ Finanzierungshilfe entstehende Verbindlichkeit des Dritten als Bürge.
 
 
 #### Titel 21 - Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007002377)
 
 
 
 ##### § 779 Begriff des Vergleichs, Irrtum über die Vergleichsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080702377)
 
 (1) Ein Vertrag, durch den der Streit oder die Ungewissheit der
 Parteien über ein Rechtsverhältnis im Wege gegenseitigen Nachgebens
@@ -21218,10 +22435,12 @@ die Verwirklichung eines Anspruchs unsicher ist.
 
 
 #### Titel 22 - Schuldversprechen, Schuldanerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007102377)
 
 
 
 ##### § 780 Schuldversprechen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080803377)
 
 Zur Gültigkeit eines Vertrags, durch den eine Leistung in der Weise
 versprochen wird, dass das Versprechen die Verpflichtung selbständig
@@ -21232,6 +22451,7 @@ ist ausgeschlossen.
 
 
 ##### § 781 Schuldanerkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE080903377)
 
 Zur Gültigkeit eines Vertrags, durch den das Bestehen eines
 Schuldverhältnisses anerkannt wird (Schuldanerkenntnis), ist
@@ -21243,6 +22463,7 @@ der Anerkennungsvertrag dieser Form.
 
 
 ##### § 782 Formfreiheit bei Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081002377)
 
 Wird ein Schuldversprechen oder ein Schuldanerkenntnis auf Grund einer
 Abrechnung oder im Wege des Vergleichs erteilt, so ist die Beobachtung
@@ -21251,10 +22472,12 @@ erforderlich.
 
 
 #### Titel 23 - Anweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007202377)
 
 
 
 ##### § 783 Rechte aus der Anweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081102377)
 
 Händigt jemand eine Urkunde, in der er einen anderen anweist, Geld,
 Wertpapiere oder andere vertretbare Sachen an einen Dritten zu
@@ -21265,6 +22488,7 @@ leisten.
 
 
 ##### § 784 Annahme der Anweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081202377)
 
 (1) Nimmt der Angewiesene die Anweisung an, so ist er dem
 Anweisungsempfänger gegenüber zur Leistung verpflichtet; er kann ihm
@@ -21280,17 +22504,20 @@ gegenüber erst mit der Aushändigung wirksam.
 
 
 ##### § 785 Aushändigung der Anweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081302377)
 
 Der Angewiesene ist nur gegen Aushändigung der Anweisung zur Leistung
 verpflichtet.
 
 
 ##### § 786
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081402377)
 
 (weggefallen)
 
 
 ##### § 787 Anweisung auf Schuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081502377)
 
 (1) Im Falle einer Anweisung auf Schuld wird der Angewiesene durch die
 Leistung in deren Höhe von der Schuld befreit.
@@ -21302,6 +22529,7 @@ ist.
 
 
 ##### § 788 Valutaverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081602377)
 
 Erteilt der Anweisende die Anweisung zu dem Zwecke, um seinerseits
 eine Leistung an den Anweisungsempfänger zu bewirken, so wird die
@@ -21310,6 +22538,7 @@ der Leistung des Angewiesenen an den Anweisungsempfänger bewirkt.
 
 
 ##### § 789 Anzeigepflicht des Anweisungsempfängers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081702377)
 
 Verweigert der Angewiesene vor dem Eintritt der Leistungszeit die
 Annahme der Anweisung oder verweigert er die Leistung, so hat der
@@ -21319,6 +22548,7 @@ geltend machen kann oder will.
 
 
 ##### § 790 Widerruf der Anweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081802377)
 
 Der Anweisende kann die Anweisung dem Angewiesenen gegenüber
 widerrufen, solange nicht der Angewiesene sie dem Anweisungsempfänger
@@ -21328,12 +22558,14 @@ Anweisungsempfänger obliegenden Verpflichtung zuwiderhandelt.
 
 
 ##### § 791 Tod oder Geschäftsunfähigkeit eines Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE081902377)
 
 Die Anweisung erlischt nicht durch den Tod oder den Eintritt der
 Geschäftsunfähigkeit eines der Beteiligten.
 
 
 ##### § 792 Übertragung der Anweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082002377)
 
 (1) Der Anweisungsempfänger kann die Anweisung durch Vertrag mit einem
 Dritten auf diesen übertragen, auch wenn sie noch nicht angenommen
@@ -21355,10 +22587,12 @@ geltenden Vorschriften entsprechende Anwendung.
 
 
 #### Titel 24 - Schuldverschreibung auf den Inhaber
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007302377)
 
 
 
 ##### § 793 Rechte aus der Schuldverschreibung auf den Inhaber
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082102377)
 
 (1) Hat jemand eine Urkunde ausgestellt, in der er dem Inhaber der
 Urkunde eine Leistung verspricht (Schuldverschreibung auf den
@@ -21375,6 +22609,7 @@ mechanischen Vervielfältigung hergestellte Namensunterschrift.
 
 
 ##### § 794 Haftung des Ausstellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082202377)
 
 (1) Der Aussteller wird aus einer Schuldverschreibung auf den Inhaber
 auch dann verpflichtet, wenn sie ihm gestohlen worden oder verloren
@@ -21387,11 +22622,13 @@ Aussteller gestorben oder geschäftsunfähig geworden ist.
 
 
 ##### § 795
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082302377)
 
 (weggefallen)
 
 
 ##### § 796 Einwendungen des Ausstellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082402377)
 
 Der Aussteller kann dem Inhaber der Schuldverschreibung nur solche
 Einwendungen entgegensetzen, welche die Gültigkeit der Ausstellung
@@ -21400,6 +22637,7 @@ unmittelbar gegen den Inhaber zustehen.
 
 
 ##### § 797 Leistungspflicht nur gegen Aushändigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082502377)
 
 Der Aussteller ist nur gegen Aushändigung der Schuldverschreibung zur
 Leistung verpflichtet. Mit der Aushändigung erwirbt er das Eigentum an
@@ -21408,6 +22646,7 @@ berechtigt ist.
 
 
 ##### § 798 Ersatzurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082602377)
 
 Ist eine Schuldverschreibung auf den Inhaber infolge einer
 Beschädigung oder einer Verunstaltung zum Umlauf nicht mehr geeignet,
@@ -21419,6 +22658,7 @@ verlangen. Die Kosten hat er zu tragen und vorzuschießen.
 
 
 ##### § 799 Kraftloserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082702377)
 
 (1) Eine abhanden gekommene oder vernichtete Schuldverschreibung auf
 den Inhaber kann, wenn nicht in der Urkunde das Gegenteil bestimmt
@@ -21434,6 +22674,7 @@ tragen und vorzuschießen.
 
 
 ##### § 800 Wirkung der Kraftloserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082803140)
 
 Ist eine Schuldverschreibung auf den Inhaber für kraftlos erklärt, so
 kann derjenige, welcher den Ausschließungsbeschluss erwirkt hat, von
@@ -21444,6 +22685,7 @@ hat er zu tragen und vorzuschießen.
 
 
 ##### § 801 Erlöschen; Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE082902377)
 
 (1) Der Anspruch aus einer Schuldverschreibung auf den Inhaber
 erlischt mit dem Ablauf von 30 Jahren nach dem Eintritt der für die
@@ -21462,6 +22704,7 @@ Aussteller in der Urkunde anders bestimmt werden.
 
 
 ##### § 802 Zahlungssperre
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083002377)
 
 Der Beginn und der Lauf der Vorlegungsfrist sowie der Verjährung
 werden durch die Zahlungssperre zugunsten des Antragstellers gehemmt.
@@ -21475,6 +22718,7 @@ Vorschriften der §§ 206, 210, 211 entsprechende Anwendung.
 
 
 ##### § 803 Zinsscheine
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083102377)
 
 (1) Werden für eine Schuldverschreibung auf den Inhaber Zinsscheine
 ausgegeben, so bleiben die Scheine, sofern sie nicht eine gegenteilige
@@ -21488,6 +22732,7 @@ Scheine zu zahlen verpflichtet ist.
 
 
 ##### § 804 Verlust von Zins- oder ähnlichen Scheinen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083202377)
 
 (1) Ist ein Zins-, Renten- oder Gewinnanteilschein abhanden gekommen
 oder vernichtet und hat der bisherige Inhaber den Verlust dem
@@ -21505,6 +22750,7 @@ bestimmte Anspruch ausgeschlossen werden.
 
 
 ##### § 805 Neue Zins- und Rentenscheine
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083302377)
 
 Neue Zins- oder Rentenscheine für eine Schuldverschreibung auf den
 Inhaber dürfen an den Inhaber der zum Empfang der Scheine
@@ -21516,6 +22762,7 @@ vorlegt.
 
 
 ##### § 806 Umschreibung auf den Namen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083402377)
 
 Die Umschreibung einer auf den Inhaber lautenden Schuldverschreibung
 auf den Namen eines bestimmten Berechtigten kann nur durch den
@@ -21524,6 +22771,7 @@ verpflichtet.
 
 
 ##### § 807 Inhaberkarten und -marken
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083502377)
 
 Werden Karten, Marken oder ähnliche Urkunden, in denen ein Gläubiger
 nicht bezeichnet ist, von dem Aussteller unter Umständen ausgegeben,
@@ -21533,6 +22781,7 @@ und der §§ 794, 796, 797 entsprechende Anwendung.
 
 
 ##### § 808 Namenspapiere mit Inhaberklausel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083602377)
 
 (1) Wird eine Urkunde, in welcher der Gläubiger benannt ist, mit der
 Bestimmung ausgegeben, dass die in der Urkunde versprochene Leistung
@@ -21548,10 +22797,12 @@ Verjährung gegebenen Vorschriften finden Anwendung.
 
 
 #### Titel 25 - Vorlegung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007402377)
 
 
 
 ##### § 809 Besichtigung einer Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083802377)
 
 Wer gegen den Besitzer einer Sache einen Anspruch in Ansehung der
 Sache hat oder sich Gewissheit verschaffen will, ob ihm ein solcher
@@ -21561,6 +22812,7 @@ Sache zur Besichtigung vorlegt oder die Besichtigung gestattet.
 
 
 ##### § 810 Einsicht in Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE083902377)
 
 Wer ein rechtliches Interesse daran hat, eine in fremdem Besitz
 befindliche Urkunde einzusehen, kann von dem Besitzer die Gestattung
@@ -21573,6 +22825,7 @@ gepflogen worden sind.
 
 
 ##### § 811 Vorlegungsort, Gefahr und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084002377)
 
 (1) Die Vorlegung hat in den Fällen der §§ 809, 810 an dem Orte zu
 erfolgen, an welchem sich die vorzulegende Sache befindet. Jeder Teil
@@ -21586,10 +22839,12 @@ Sicherheit leistet.
 
 
 #### Titel 26 - Ungerechtfertigte Bereicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007502377)
 
 
 
 ##### § 812 Herausgabeanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084102377)
 
 (1) Wer durch die Leistung eines anderen oder in sonstiger Weise auf
 dessen Kosten etwas ohne rechtlichen Grund erlangt, ist ihm zur
@@ -21602,6 +22857,7 @@ Bestehens oder des Nichtbestehens eines Schuldverhältnisses.
 
 
 ##### § 813 Erfüllung trotz Einrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084202377)
 
 (1) Das zum Zwecke der Erfüllung einer Verbindlichkeit Geleistete kann
 auch dann zurückgefordert werden, wenn dem Anspruch eine Einrede
@@ -21615,6 +22871,7 @@ nicht verlangt werden.
 
 
 ##### § 814 Kenntnis der Nichtschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084302377)
 
 Das zum Zwecke der Erfüllung einer Verbindlichkeit Geleistete kann
 nicht zurückgefordert werden, wenn der Leistende gewusst hat, dass er
@@ -21624,6 +22881,7 @@ entsprach.
 
 
 ##### § 815 Nichteintritt des Erfolgs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084402377)
 
 Die Rückforderung wegen Nichteintritts des mit einer Leistung
 bezweckten Erfolgs ist ausgeschlossen, wenn der Eintritt des Erfolgs
@@ -21633,6 +22891,7 @@ verhindert hat.
 
 
 ##### § 816 Verfügung eines Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084502377)
 
 (1) Trifft ein Nichtberechtigter über einen Gegenstand eine Verfügung,
 die dem Berechtigten gegenüber wirksam ist, so ist er dem Berechtigten
@@ -21647,6 +22906,7 @@ Berechtigten zur Herausgabe des Geleisteten verpflichtet.
 
 
 ##### § 817 Verstoß gegen Gesetz oder gute Sitten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084602377)
 
 War der Zweck einer Leistung in der Art bestimmt, dass der Empfänger
 durch die Annahme gegen ein gesetzliches Verbot oder gegen die guten
@@ -21659,6 +22919,7 @@ kann nicht zurückgefordert werden.
 
 
 ##### § 818 Umfang des Bereicherungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084702377)
 
 (1) Die Verpflichtung zur Herausgabe erstreckt sich auf die gezogenen
 Nutzungen sowie auf dasjenige, was der Empfänger auf Grund eines
@@ -21677,6 +22938,7 @@ den allgemeinen Vorschriften.
 
 
 ##### § 819 Verschärfte Haftung bei Kenntnis und bei Gesetzes- oder Sittenverstoß
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084802377)
 
 (1) Kennt der Empfänger den Mangel des rechtlichen Grundes bei dem
 Empfang oder erfährt er ihn später, so ist er von dem Empfang oder der
@@ -21689,6 +22951,7 @@ Empfang der Leistung an in der gleichen Weise verpflichtet.
 
 
 ##### § 820 Verschärfte Haftung bei ungewissem Erfolgseintritt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE084902377)
 
 (1) War mit der Leistung ein Erfolg bezweckt, dessen Eintritt nach dem
 Inhalt des Rechtsgeschäfts als ungewiss angesehen wurde, so ist der
@@ -21707,6 +22970,7 @@ bereichert ist.
 
 
 ##### § 821 Einrede der Bereicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085002377)
 
 Wer ohne rechtlichen Grund eine Verbindlichkeit eingeht, kann die
 Erfüllung auch dann verweigern, wenn der Anspruch auf Befreiung von
@@ -21714,6 +22978,7 @@ der Verbindlichkeit verjährt ist.
 
 
 ##### § 822 Herausgabepflicht Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085102377)
 
 Wendet der Empfänger das Erlangte unentgeltlich einem Dritten zu, so
 ist, soweit infolgedessen die Verpflichtung des Empfängers zur
@@ -21723,10 +22988,12 @@ ohne rechtlichen Grund erhalten hätte.
 
 
 #### Titel 27 - Unerlaubte Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007602377)
 
 
 
 ##### § 823 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085202377)
 
 (1) Wer vorsätzlich oder fahrlässig das Leben, den Körper, die
 Gesundheit, die Freiheit, das Eigentum oder ein sonstiges Recht eines
@@ -21740,6 +23007,7 @@ so tritt die Ersatzpflicht nur im Falle des Verschuldens ein.
 
 
 ##### § 824 Kreditgefährdung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085302377)
 
 (1) Wer der Wahrheit zuwider eine Tatsache behauptet oder verbreitet,
 die geeignet ist, den Kredit eines anderen zu gefährden oder sonstige
@@ -21753,6 +23021,7 @@ der Empfänger der Mitteilung an ihr ein berechtigtes Interesse hat.
 
 
 ##### § 825 Bestimmung zu sexuellen Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085403301)
 
 Wer einen anderen durch Hinterlist, Drohung oder Missbrauch eines
 Abhängigkeitsverhältnisses zur Vornahme oder Duldung sexueller
@@ -21761,6 +23030,7 @@ Schadens verpflichtet.
 
 
 ##### § 826 Sittenwidrige vorsätzliche Schädigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085502377)
 
 Wer in einer gegen die guten Sitten verstoßenden Weise einem anderen
 vorsätzlich Schaden zufügt, ist dem anderen zum Ersatz des Schadens
@@ -21768,6 +23038,7 @@ verpflichtet.
 
 
 ##### § 827 Ausschluss und Minderung der Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085602377)
 
 Wer im Zustand der Bewusstlosigkeit oder in einem die freie
 Willensbestimmung ausschließenden Zustand krankhafter Störung der
@@ -21781,6 +23052,7 @@ wenn er ohne Verschulden in den Zustand geraten ist.
 
 
 ##### § 828 Minderjährige
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085704377)
 
 (1) Wer nicht das siebente Lebensjahr vollendet hat, ist für einen
 Schaden, den er einem anderen zufügt, nicht verantwortlich.
@@ -21799,6 +23071,7 @@ der Verantwortlichkeit erforderliche Einsicht hat.
 
 
 ##### § 829 Ersatzpflicht aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085802377)
 
 Wer in einem der in den §§ 823 bis 826 bezeichneten Fälle für einen
 von ihm verursachten Schaden auf Grund der §§ 827, 828 nicht
@@ -21812,6 +23085,7 @@ gesetzlichen Unterhaltspflichten bedarf.
 
 
 ##### § 830 Mittäter und Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE085902377)
 
 (1) Haben mehrere durch eine gemeinschaftlich begangene unerlaubte
 Handlung einen Schaden verursacht, so ist jeder für den Schaden
@@ -21823,6 +23097,7 @@ hat.
 
 
 ##### § 831 Haftung für den Verrichtungsgehilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086002377)
 
 (1) Wer einen anderen zu einer Verrichtung bestellt, ist zum Ersatz
 des Schadens verpflichtet, den der andere in Ausführung der
@@ -21840,6 +23115,7 @@ Geschäfte durch Vertrag übernimmt.
 
 
 ##### § 832 Haftung des Aufsichtspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086102377)
 
 (1) Wer kraft Gesetzes zur Führung der Aufsicht über eine Person
 verpflichtet ist, die wegen Minderjährigkeit oder wegen ihres
@@ -21854,6 +23130,7 @@ Führung der Aufsicht durch Vertrag übernimmt.
 
 
 ##### § 833 Haftung des Tierhalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086202377)
 
 Wird durch ein Tier ein Mensch getötet oder der Körper oder die
 Gesundheit eines Menschen verletzt oder eine Sache beschädigt, so ist
@@ -21868,6 +23145,7 @@ entstanden sein würde.
 
 
 ##### § 834 Haftung des Tieraufsehers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086302377)
 
 Wer für denjenigen, welcher ein Tier hält, die Führung der Aufsicht
 über das Tier durch Vertrag übernimmt, ist für den Schaden
@@ -21879,11 +23157,13 @@ Sorgfalt entstanden sein würde.
 
 
 ##### § 835
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086401377)
 
 (weggefallen)
 
 
 ##### § 836 Haftung des Grundstücksbesitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086502377)
 
 (1) Wird durch den Einsturz eines Gebäudes oder eines anderen mit
 einem Grundstück verbundenen Werkes oder durch die Ablösung von Teilen
@@ -21907,6 +23187,7 @@ Sorgfalt die Gefahr hätte abwenden können.
 
 
 ##### § 837 Haftung des Gebäudebesitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086602377)
 
 Besitzt jemand auf einem fremden Grundstück in Ausübung eines Rechts
 ein Gebäude oder ein anderes Werk, so trifft ihn anstelle des
@@ -21914,6 +23195,7 @@ Besitzers des Grundstücks die im § 836 bestimmte Verantwortlichkeit.
 
 
 ##### § 838 Haftung des Gebäudeunterhaltungspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086702377)
 
 Wer die Unterhaltung eines Gebäudes oder eines mit einem Grundstück
 verbundenen Werkes für den Besitzer übernimmt oder das Gebäude oder
@@ -21924,6 +23206,7 @@ Besitzer.
 
 
 ##### § 839 Haftung bei Amtspflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086802377)
 
 (1) Verletzt ein Beamter vorsätzlich oder fahrlässig die ihm einem
 Dritten gegenüber obliegende Amtspflicht, so hat er dem Dritten den
@@ -21944,6 +23227,7 @@ Rechtsmittels abzuwenden.
 
 
 ##### § 839a Haftung des gerichtlichen Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263400301)
 
 (1) Erstattet ein vom Gericht ernannter Sachverständiger vorsätzlich
 oder grob fahrlässig ein unrichtiges Gutachten, so ist er zum Ersatz
@@ -21954,6 +23238,7 @@ gerichtliche Entscheidung entsteht, die auf diesem Gutachten beruht.
 
 
 ##### § 840 Haftung mehrerer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE086902377)
 
 (1) Sind für den aus einer unerlaubten Handlung entstehenden Schaden
 mehrere nebeneinander verantwortlich, so haften sie als
@@ -21972,6 +23257,7 @@ allein verpflichtet.
 
 
 ##### § 841 Ausgleichung bei Beamtenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087002377)
 
 Ist ein Beamter, der vermöge seiner Amtspflicht einen anderen zur
 Geschäftsführung für einen Dritten zu bestellen oder eine solche
@@ -21983,6 +23269,7 @@ allein verpflichtet.
 
 
 ##### § 842 Umfang der Ersatzpflicht bei Verletzung einer Person
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087102377)
 
 Die Verpflichtung zum Schadensersatz wegen einer gegen die Person
 gerichteten unerlaubten Handlung erstreckt sich auf die Nachteile,
@@ -21991,6 +23278,7 @@ herbeiführt.
 
 
 ##### § 843 Geldrente oder Kapitalabfindung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087202377)
 
 (1) Wird infolge einer Verletzung des Körpers oder der Gesundheit die
 Erwerbsfähigkeit des Verletzten aufgehoben oder gemindert oder tritt
@@ -22009,6 +23297,7 @@ dem Verletzten Unterhalt zu gewähren hat.
 
 
 ##### § 844 Ersatzansprüche Dritter bei Tötung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087304123)
 
 (1) Im Falle der Tötung hat der Ersatzpflichtige die Kosten der
 Beerdigung demjenigen zu ersetzen, welchem die Verpflichtung obliegt,
@@ -22036,6 +23325,7 @@ Getöteten war.
 
 
 ##### § 845 Ersatzansprüche wegen entgangener Dienste
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087402377)
 
 Im Falle der Tötung, der Verletzung des Körpers oder der Gesundheit
 sowie im Falle der Freiheitsentziehung hat der Ersatzpflichtige, wenn
@@ -22047,6 +23337,7 @@ Anwendung.
 
 
 ##### § 846 Mitverschulden des Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087502377)
 
 Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den
 der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so
@@ -22055,11 +23346,13 @@ Anwendung.
 
 
 ##### § 847
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087604301)
 
 (weggefallen)
 
 
 ##### § 848 Haftung für Zufall bei Entziehung einer Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087702377)
 
 Wer zur Rückgabe einer Sache verpflichtet ist, die er einem anderen
 durch eine unerlaubte Handlung entzogen hat, ist auch für den
@@ -22071,6 +23364,7 @@ Verschlechterung auch ohne die Entziehung eingetreten sein würde.
 
 
 ##### § 849 Verzinsung der Ersatzsumme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087802377)
 
 Ist wegen der Entziehung einer Sache der Wert oder wegen der
 Beschädigung einer Sache die Wertminderung zu ersetzen, so kann der
@@ -22079,6 +23373,7 @@ verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird.
 
 
 ##### § 850 Ersatz von Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE087902377)
 
 Macht der zur Herausgabe einer entzogenen Sache Verpflichtete
 Verwendungen auf die Sache, so stehen ihm dem Verletzten gegenüber die
@@ -22087,6 +23382,7 @@ Verwendungen hat.
 
 
 ##### § 851 Ersatzleistung an Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088002377)
 
 Leistet der wegen der Entziehung oder Beschädigung einer beweglichen
 Sache zum Schadensersatz Verpflichtete den Ersatz an denjenigen, in
@@ -22098,6 +23394,7 @@ bekannt oder infolge grober Fahrlässigkeit unbekannt ist.
 
 
 ##### § 852 Herausgabeanspruch nach Eintritt der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088102377)
 
 Hat der Ersatzpflichtige durch eine unerlaubte Handlung auf Kosten des
 Verletzten etwas erlangt, so ist er auch nach Eintritt der Verjährung
@@ -22111,6 +23408,7 @@ Ereignis an.
 
 
 ##### § 853 Arglisteinrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088202377)
 
 Erlangt jemand durch eine von ihm begangene unerlaubte Handlung eine
 Forderung gegen den Verletzten, so kann der Verletzte die Erfüllung
@@ -22119,14 +23417,17 @@ verjährt ist.
 
 
 ## Buch 3 - Sachenrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007702377)
 
 
 
 ### Abschnitt 1 - Besitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007802377)
 
 
 
 #### § 854 Erwerb des Besitzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088302377)
 
 (1) Der Besitz einer Sache wird durch die Erlangung der tatsächlichen
 Gewalt über die Sache erworben.
@@ -22137,6 +23438,7 @@ auszuüben.
 
 
 #### § 855 Besitzdiener
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088402377)
 
 Übt jemand die tatsächliche Gewalt über eine Sache für einen anderen
 in dessen Haushalt oder Erwerbsgeschäft oder in einem ähnlichen
@@ -22146,6 +23448,7 @@ Besitzer.
 
 
 #### § 856 Beendigung des Besitzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088502377)
 
 (1) Der Besitz wird dadurch beendigt, dass der Besitzer die
 tatsächliche Gewalt über die Sache aufgibt oder in anderer Weise
@@ -22156,11 +23459,13 @@ Ausübung der Gewalt wird der Besitz nicht beendigt.
 
 
 #### § 857 Vererblichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088602377)
 
 Der Besitz geht auf den Erben über.
 
 
 #### § 858 Verbotene Eigenmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088702377)
 
 (1) Wer dem Besitzer ohne dessen Willen den Besitz entzieht oder ihn
 im Besitz stört, handelt, sofern nicht das Gesetz die Entziehung oder
@@ -22173,6 +23478,7 @@ Besitzes seines Vorgängers bei dem Erwerb kennt.
 
 
 #### § 859 Selbsthilfe des Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088802377)
 
 (1) Der Besitzer darf sich verbotener Eigenmacht mit Gewalt erwehren.
 
@@ -22190,6 +23496,7 @@ gelten lassen muss.
 
 
 #### § 860 Selbsthilfe des Besitzdieners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE088902377)
 
 Zur Ausübung der dem Besitzer nach § 859 zustehenden Rechte ist auch
 derjenige befugt, welcher die tatsächliche Gewalt nach § 855 für den
@@ -22197,6 +23504,7 @@ Besitzer ausübt.
 
 
 #### § 861 Anspruch wegen Besitzentziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089002377)
 
 (1) Wird der Besitz durch verbotene Eigenmacht dem Besitzer entzogen,
 so kann dieser die Wiedereinräumung des Besitzes von demjenigen
@@ -22209,6 +23517,7 @@ worden ist.
 
 
 #### § 862 Anspruch wegen Besitzstörung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089102377)
 
 (1) Wird der Besitzer durch verbotene Eigenmacht im Besitz gestört, so
 kann er von dem Störer die Beseitigung der Störung verlangen. Sind
@@ -22221,6 +23530,7 @@ dem letzten Jahre vor der Störung erlangt worden ist.
 
 
 #### § 863 Einwendungen des Entziehers oder Störers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089202377)
 
 Gegenüber den in den §§ 861, 862 bestimmten Ansprüchen kann ein Recht
 zum Besitz oder zur Vornahme der störenden Handlung nur zur Begründung
@@ -22229,6 +23539,7 @@ Störung des Besitzes nicht verbotene Eigenmacht sei.
 
 
 #### § 864 Erlöschen der Besitzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089302377)
 
 (1) Ein nach den §§ 861, 862 begründeter Anspruch erlischt mit dem
 Ablauf eines Jahres nach der Verübung der verbotenen Eigenmacht, wenn
@@ -22242,6 +23553,7 @@ verlangen kann.
 
 
 #### § 865 Teilbesitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089402377)
 
 Die Vorschriften der §§ 858 bis 864 gelten auch zugunsten desjenigen,
 welcher nur einen Teil einer Sache, insbesondere abgesonderte
@@ -22249,6 +23561,7 @@ Wohnräume oder andere Räume, besitzt.
 
 
 #### § 866 Mitbesitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089502377)
 
 Besitzen mehrere eine Sache gemeinschaftlich, so findet in ihrem
 Verhältnis zueinander ein Besitzschutz insoweit nicht statt, als es
@@ -22256,6 +23569,7 @@ sich um die Grenzen des den einzelnen zustehenden Gebrauchs handelt.
 
 
 #### § 867 Verfolgungsrecht des Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089602377)
 
 Ist eine Sache aus der Gewalt des Besitzers auf ein im Besitz eines
 anderen befindliches Grundstück gelangt, so hat ihm der Besitzer des
@@ -22269,6 +23583,7 @@ wenn mit dem Aufschub Gefahr verbunden ist.
 
 
 #### § 868 Mittelbarer Besitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089702377)
 
 Besitzt jemand eine Sache als Nießbraucher, Pfandgläubiger, Pächter,
 Mieter, Verwahrer oder in einem ähnlichen Verhältnis, vermöge dessen
@@ -22278,6 +23593,7 @@ Besitz).
 
 
 #### § 869 Ansprüche des mittelbaren Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089802377)
 
 Wird gegen den Besitzer verbotene Eigenmacht verübt, so stehen die in
 den §§ 861, 862 bestimmten Ansprüche auch dem mittelbaren Besitzer zu.
@@ -22291,6 +23607,7 @@ der Sache gestattet wird.
 
 
 #### § 870 Übertragung des mittelbaren Besitzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE089902377)
 
 Der mittelbare Besitz kann dadurch auf einen anderen übertragen
 werden, dass diesem der Anspruch auf Herausgabe der Sache abgetreten
@@ -22298,6 +23615,7 @@ wird.
 
 
 #### § 871 Mehrstufiger mittelbarer Besitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090002377)
 
 Steht der mittelbare Besitzer zu einem Dritten in einem Verhältnis der
 in § 868 bezeichneten Art, so ist auch der Dritte mittelbarer
@@ -22305,15 +23623,18 @@ Besitzer.
 
 
 #### § 872 Eigenbesitz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090102377)
 
 Wer eine Sache als ihm gehörend besitzt, ist Eigenbesitzer.
 
 
 ### Abschnitt 2 - Allgemeine Vorschriften über Rechte an Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG007902377)
 
 
 
 #### § 873 Erwerb durch Einigung und Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090202377)
 
 (1) Zur Übertragung des Eigentums an einem Grundstück, zur Belastung
 eines Grundstücks mit einem Recht sowie zur Übertragung oder Belastung
@@ -22331,6 +23652,7 @@ hat.
 
 
 #### § 874 Bezugnahme auf die Eintragungsbewilligung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090303360)
 
 Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird,
 kann zur näheren Bezeichnung des Inhalts des Rechts auf die
@@ -22341,6 +23663,7 @@ Eintragung nach § 44 Absatz 3 Satz 2 der Grundbuchordnung gleich.
 
 
 #### § 875 Aufhebung eines Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090402377)
 
 (1) Zur Aufhebung eines Rechts an einem Grundstück ist, soweit nicht
 das Gesetz ein anderes vorschreibt, die Erklärung des Berechtigten,
@@ -22355,6 +23678,7 @@ Grundbuchordnung entsprechende Löschungsbewilligung ausgehändigt hat.
 
 
 #### § 876 Aufhebung eines belasteten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090502377)
 
 Ist ein Recht an einem Grundstück mit dem Recht eines Dritten
 belastet, so ist zur Aufhebung des belasteten Rechts die Zustimmung
@@ -22368,12 +23692,14 @@ ist unwiderruflich.
 
 
 #### § 877 Rechtsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090602377)
 
 Die Vorschriften der §§ 873, 874, 876 finden auch auf Änderungen des
 Inhalts eines Rechts an einem Grundstück Anwendung.
 
 
 #### § 878 Nachträgliche Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090702377)
 
 Eine von dem Berechtigten in Gemäßheit der §§ 873, 875, 877 abgegebene
 Erklärung wird nicht dadurch unwirksam, dass der Berechtigte in der
@@ -22383,6 +23709,7 @@ worden ist.
 
 
 #### § 879 Rangverhältnis mehrerer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090802377)
 
 (1) Das Rangverhältnis unter mehreren Rechten, mit denen ein
 Grundstück belastet ist, bestimmt sich, wenn die Rechte in derselben
@@ -22401,6 +23728,7 @@ Eintragung in das Grundbuch.
 
 
 #### § 880 Rangänderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE090902377)
 
 (1) Das Rangverhältnis kann nachträglich geändert werden.
 
@@ -22424,6 +23752,7 @@ vortretenden Recht haben, werden durch die Rangänderung nicht berührt.
 
 
 #### § 881 Rangvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091002377)
 
 (1) Der Eigentümer kann sich bei der Belastung des Grundstücks mit
 einem Recht die Befugnis vorbehalten, ein anderes, dem Umfang nach
@@ -22444,6 +23773,7 @@ Beeinträchtigung erleiden würde.
 
 
 #### § 882 Höchstbetrag des Wertersatzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091102377)
 
 Wird ein Grundstück mit einem Recht belastet, für welches nach den für
 die Zwangsversteigerung geltenden Vorschriften dem Berechtigten im
@@ -22453,6 +23783,7 @@ Die Bestimmung bedarf der Eintragung in das Grundbuch.
 
 
 #### § 883 Voraussetzungen und Wirkung der Vormerkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091203377)
 
 (1) Zur Sicherung des Anspruchs auf Einräumung oder Aufhebung eines
 Rechts an einem Grundstück oder an einem das Grundstück belastenden
@@ -22472,6 +23803,7 @@ ist, bestimmt sich nach der Eintragung der Vormerkung.
 
 
 #### § 884 Wirkung gegenüber Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091302377)
 
 Soweit der Anspruch durch die Vormerkung gesichert ist, kann sich der
 Erbe des Verpflichteten nicht auf die Beschränkung seiner Haftung
@@ -22479,6 +23811,7 @@ berufen.
 
 
 #### § 885 Voraussetzung für die Eintragung der Vormerkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091402377)
 
 (1) Die Eintragung einer Vormerkung erfolgt auf Grund einer
 einstweiligen Verfügung oder auf Grund der Bewilligung desjenigen,
@@ -22492,6 +23825,7 @@ Eintragungsbewilligung Bezug genommen werden.
 
 
 #### § 886 Beseitigungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091502377)
 
 Steht demjenigen, dessen Grundstück oder dessen Recht von der
 Vormerkung betroffen wird, eine Einrede zu, durch welche die
@@ -22501,6 +23835,7 @@ Vormerkung verlangen.
 
 
 #### § 887 Aufgebot des Vormerkungsgläubigers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091603140)
 
 Ist der Gläubiger, dessen Anspruch durch die Vormerkung gesichert ist,
 unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht
@@ -22511,6 +23846,7 @@ Vormerkung.
 
 
 #### § 888 Anspruch des Vormerkungsberechtigten auf Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091702377)
 
 (1) Soweit der Erwerb eines eingetragenen Rechts oder eines Rechts an
 einem solchen Recht gegenüber demjenigen, zu dessen Gunsten die
@@ -22524,6 +23860,7 @@ gesichert ist.
 
 
 #### § 889 Ausschluss der Konsolidation bei dinglichen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091802377)
 
 Ein Recht an einem fremden Grundstück erlischt nicht dadurch, dass der
 Eigentümer des Grundstücks das Recht oder der Berechtigte das Eigentum
@@ -22531,6 +23868,7 @@ an dem Grundstück erwirbt.
 
 
 #### § 890 Vereinigung von Grundstücken; Zuschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE091902377)
 
 (1) Mehrere Grundstücke können dadurch zu einem Grundstück vereinigt
 werden, dass der Eigentümer sie als ein Grundstück in das Grundbuch
@@ -22542,6 +23880,7 @@ zuschreiben lässt.
 
 
 #### § 891 Gesetzliche Vermutung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092002377)
 
 (1) Ist im Grundbuch für jemand ein Recht eingetragen, so wird
 vermutet, dass ihm das Recht zustehe.
@@ -22551,6 +23890,7 @@ vermutet, dass das Recht nicht bestehe.
 
 
 #### § 892 Öffentlicher Glaube des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092102377)
 
 (1) Zugunsten desjenigen, welcher ein Recht an einem Grundstück oder
 ein Recht an einem solchen Recht durch Rechtsgeschäft erwirbt, gilt
@@ -22569,6 +23909,7 @@ später zustande kommt, die Zeit der Einigung maßgebend.
 
 
 #### § 893 Rechtsgeschäft mit dem Eingetragenen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092202377)
 
 Die Vorschrift des § 892 findet entsprechende Anwendung, wenn an
 denjenigen, für welchen ein Recht im Grundbuch eingetragen ist, auf
@@ -22579,6 +23920,7 @@ Verfügung über das Recht enthält.
 
 
 #### § 894 Berichtigung des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092302377)
 
 Steht der Inhalt des Grundbuchs in Ansehung eines Rechts an dem
 Grundstück, eines Rechts an einem solchen Recht oder einer
@@ -22591,6 +23933,7 @@ verlangen, dessen Recht durch die Berichtigung betroffen wird.
 
 
 #### § 895 Voreintragung des Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092402377)
 
 Kann die Berichtigung des Grundbuchs erst erfolgen, nachdem das Recht
 des nach § 894 Verpflichteten eingetragen worden ist, so hat dieser
@@ -22598,6 +23941,7 @@ auf Verlangen sein Recht eintragen zu lassen.
 
 
 #### § 896 Vorlegung des Briefes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092502377)
 
 Ist zur Berichtigung des Grundbuchs die Vorlegung eines Hypotheken-,
 Grundschuld- oder Rentenschuldbriefs erforderlich, so kann derjenige,
@@ -22606,6 +23950,7 @@ Briefes verlangen, dass der Brief dem Grundbuchamt vorgelegt wird.
 
 
 #### § 897 Kosten der Berichtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092602377)
 
 Die Kosten der Berichtigung des Grundbuchs und der dazu erforderlichen
 Erklärungen hat derjenige zu tragen, welcher die Berichtigung
@@ -22614,12 +23959,14 @@ bestehenden Rechtsverhältnis sich ein anderes ergibt.
 
 
 #### § 898 Unverjährbarkeit der Berichtigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092702377)
 
 Die in den §§ 894 bis 896 bestimmten Ansprüche unterliegen nicht der
 Verjährung.
 
 
 #### § 899 Eintragung eines Widerspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092802377)
 
 (1) In den Fällen des § 894 kann ein Widerspruch gegen die Richtigkeit
 des Grundbuchs eingetragen werden.
@@ -22632,6 +23979,7 @@ des Rechts des Widersprechenden glaubhaft gemacht wird.
 
 
 #### § 900 Buchersitzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE092902377)
 
 (1) Wer als Eigentümer eines Grundstücks im Grundbuch eingetragen ist,
 ohne dass er das Eigentum erlangt hat, erwirbt das Eigentum, wenn die
@@ -22650,6 +23998,7 @@ des Rechts ist die Eintragung maßgebend.
 
 
 #### § 901 Erlöschen nicht eingetragener Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093002377)
 
 Ist ein Recht an einem fremden Grundstück im Grundbuch mit Unrecht
 gelöscht, so erlischt es, wenn der Anspruch des Berechtigten gegen den
@@ -22659,6 +24008,7 @@ eingetragen worden ist.
 
 
 #### § 902 Unverjährbarkeit eingetragener Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093102377)
 
 (1) Die Ansprüche aus eingetragenen Rechten unterliegen nicht der
 Verjährung. Dies gilt nicht für Ansprüche, die auf Rückstände
@@ -22669,14 +24019,17 @@ Grundbuchs eingetragen ist, steht einem eingetragenen Recht gleich.
 
 
 ### Abschnitt 3 - Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008002377)
 
 
 
 #### Titel 1 - Inhalt des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008102377)
 
 
 
 ##### § 903 Befugnisse des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093203377)
 
 Der Eigentümer einer Sache kann, soweit nicht das Gesetz oder Rechte
 Dritter entgegenstehen, mit der Sache nach Belieben verfahren und
@@ -22686,6 +24039,7 @@ Schutz der Tiere zu beachten.
 
 
 ##### § 904 Notstand
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093302377)
 
 Der Eigentümer einer Sache ist nicht berechtigt, die Einwirkung eines
 anderen auf die Sache zu verbieten, wenn die Einwirkung zur Abwendung
@@ -22696,6 +24050,7 @@ entstehenden Schadens verlangen.
 
 
 ##### § 905 Begrenzung des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093402377)
 
 Das Recht des Eigentümers eines Grundstücks erstreckt sich auf den
 Raum über der Oberfläche und auf den Erdkörper unter der Oberfläche.
@@ -22705,6 +24060,7 @@ Ausschließung kein Interesse hat.
 
 
 ##### § 906 Zuführung unwägbarer Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093503377)
 
 (1) Der Eigentümer eines Grundstücks kann die Zuführung von Gasen,
 Dämpfen, Gerüchen, Rauch, Ruß, Wärme, Geräusch, Erschütterungen und
@@ -22732,6 +24088,7 @@ Ertrag über das zumutbare Maß hinaus beeinträchtigt.
 
 
 ##### § 907 Gefahr drohende Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093602377)
 
 (1) Der Eigentümer eines Grundstücks kann verlangen, dass auf den
 Nachbargrundstücken nicht Anlagen hergestellt oder gehalten werden,
@@ -22747,6 +24104,7 @@ Vorschriften.
 
 
 ##### § 908 Drohender Gebäudeeinsturz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093702377)
 
 Droht einem Grundstück die Gefahr, dass es durch den Einsturz eines
 Gebäudes oder eines anderen Werkes, das mit einem Nachbargrundstück
@@ -22758,6 +24116,7 @@ zur Abwendung der Gefahr erforderliche Vorkehrung trifft.
 
 
 ##### § 909 Vertiefung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093802377)
 
 Ein Grundstück darf nicht in der Weise vertieft werden, dass der Boden
 des Nachbargrundstücks die erforderliche Stütze verliert, es sei denn,
@@ -22765,6 +24124,7 @@ dass für eine genügende anderweitige Befestigung gesorgt ist.
 
 
 ##### § 910 Überhang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE093902377)
 
 (1) Der Eigentümer eines Grundstücks kann Wurzeln eines Baumes oder
 eines Strauches, die von einem Nachbargrundstück eingedrungen sind,
@@ -22778,6 +24138,7 @@ die Zweige die Benutzung des Grundstücks nicht beeinträchtigen.
 
 
 ##### § 911 Überfall
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094002377)
 
 Früchte, die von einem Baume oder einem Strauche auf ein
 Nachbargrundstück hinüberfallen, gelten als Früchte dieses
@@ -22786,6 +24147,7 @@ Nachbargrundstück dem öffentlichen Gebrauch dient.
 
 
 ##### § 912 Überbau; Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094102377)
 
 (1) Hat der Eigentümer eines Grundstücks bei der Errichtung eines
 Gebäudes über die Grenze gebaut, ohne dass ihm Vorsatz oder grobe
@@ -22798,6 +24160,7 @@ der Rente ist die Zeit der Grenzüberschreitung maßgebend.
 
 
 ##### § 913 Zahlung der Überbaurente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094202377)
 
 (1) Die Rente für den Überbau ist dem jeweiligen Eigentümer des
 Nachbargrundstücks von dem jeweiligen Eigentümer des anderen
@@ -22807,6 +24170,7 @@ Grundstücks zu entrichten.
 
 
 ##### § 914 Rang, Eintragung und Erlöschen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094302377)
 
 (1) Das Recht auf die Rente geht allen Rechten an dem belasteten
 Grundstück, auch den älteren, vor. Es erlischt mit der Beseitigung des
@@ -22822,6 +24186,7 @@ Reallast gelten.
 
 
 ##### § 915 Abkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094402377)
 
 (1) Der Rentenberechtigte kann jederzeit verlangen, dass der
 Rentenpflichtige ihm gegen Übertragung des Eigentums an dem überbauten
@@ -22835,6 +24200,7 @@ fortzuentrichten.
 
 
 ##### § 916 Beeinträchtigung von Erbbaurecht oder Dienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094502377)
 
 Wird durch den Überbau ein Erbbaurecht oder eine Dienstbarkeit an dem
 Nachbargrundstück beeinträchtigt, so finden zugunsten des Berechtigten
@@ -22842,6 +24208,7 @@ die Vorschriften der §§ 912 bis 914 entsprechende Anwendung.
 
 
 ##### § 917 Notweg
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094602377)
 
 (1) Fehlt einem Grundstück die zur ordnungsmäßigen Benutzung
 notwendige Verbindung mit einem öffentlichen Wege, so kann der
@@ -22857,6 +24224,7 @@ eine Geldrente zu entschädigen. Die Vorschriften des § 912 Abs. 2 Satz
 
 
 ##### § 918 Ausschluss des Notwegrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094702377)
 
 (1) Die Verpflichtung zur Duldung des Notwegs tritt nicht ein, wenn
 die bisherige Verbindung des Grundstücks mit dem öffentlichen Wege
@@ -22872,6 +24240,7 @@ gleich.
 
 
 ##### § 919 Grenzabmarkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094802377)
 
 (1) Der Eigentümer eines Grundstücks kann von dem Eigentümer eines
 Nachbargrundstücks verlangen, dass dieser zur Errichtung fester
@@ -22888,6 +24257,7 @@ Rechtsverhältnis sich ein anderes ergibt.
 
 
 ##### § 920 Grenzverwirrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE094902377)
 
 (1) Lässt sich im Falle einer Grenzverwirrung die richtige Grenze
 nicht ermitteln, so ist für die Abgrenzung der Besitzstand maßgebend.
@@ -22902,6 +24272,7 @@ Berücksichtigung dieser Umstände der Billigkeit entspricht.
 
 
 ##### § 921 Gemeinschaftliche Benutzung von Grenzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095002377)
 
 Werden zwei Grundstücke durch einen Zwischenraum, Rain, Winkel, einen
 Graben, eine Mauer, Hecke, Planke oder eine andere Einrichtung, die
@@ -22913,6 +24284,7 @@ allein gehört.
 
 
 ##### § 922 Art der Benutzung und Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095102377)
 
 Sind die Nachbarn zur Benutzung einer der in § 921 bezeichneten
 Einrichtungen gemeinschaftlich berechtigt, so kann jeder sie zu dem
@@ -22926,6 +24298,7 @@ zwischen den Nachbarn nach den Vorschriften über die Gemeinschaft.
 
 
 ##### § 923 Grenzbaum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095202377)
 
 (1) Steht auf der Grenze ein Baum, so gebühren die Früchte und, wenn
 der Baum gefällt wird, auch der Baum den Nachbarn zu gleichen Teilen.
@@ -22944,6 +24317,7 @@ Strauch.
 
 
 ##### § 924 Unverjährbarkeit nachbarrechtlicher Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095302377)
 
 Die Ansprüche, die sich aus den §§ 907 bis 909, 915, dem § 917 Abs. 1,
 dem § 918 Abs. 2, den §§ 919, 920 und dem § 923 Abs. 2 ergeben,
@@ -22951,10 +24325,12 @@ unterliegen nicht der Verjährung.
 
 
 #### Titel 2 - Erwerb und Verlust des Eigentums an Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008202377)
 
 
 
 ##### § 925 Auflassung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095404360)
 
 (1) Die zur Übertragung des Eigentums an einem Grundstück nach § 873
 erforderliche Einigung des Veräußerers und des Erwerbers (Auflassung)
@@ -22970,6 +24346,7 @@ Zeitbestimmung erfolgt, ist unwirksam.
 
 
 ##### § 925a Urkunde über Grundgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095503377)
 
 Die Erklärung einer Auflassung soll nur entgegengenommen werden, wenn
 die nach § 311b Abs. 1 Satz 1 erforderliche Urkunde über den Vertrag
@@ -22977,6 +24354,7 @@ vorgelegt oder gleichzeitig errichtet wird.
 
 
 ##### § 926 Zubehör des Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095602377)
 
 (1) Sind der Veräußerer und der Erwerber darüber einig, dass sich die
 Veräußerung auf das Zubehör des Grundstücks erstrecken soll, so
@@ -22993,6 +24371,7 @@ Erlangung des Besitzes maßgebend.
 
 
 ##### § 927 Aufgebotsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095703140)
 
 (1) Der Eigentümer eines Grundstücks kann, wenn das Grundstück seit 30
 Jahren im Eigenbesitz eines anderen ist, im Wege des
@@ -23015,6 +24394,7 @@ Ausschließungsbeschluss nicht gegen den Dritten.
 
 
 ##### § 928 Aufgabe des Eigentums, Aneignung des Fiskus
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095803377)
 
 (1) Das Eigentum an einem Grundstück kann dadurch aufgegeben werden,
 dass der Eigentümer den Verzicht dem Grundbuchamt gegenüber erklärt
@@ -23027,14 +24407,17 @@ eintragen lässt.
 
 
 #### Titel 3 - Erwerb und Verlust des Eigentums an beweglichen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008302377)
 
 
 
 ##### Untertitel 1 - Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008402377)
 
 
 
 ###### § 929 Einigung und Übergabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE095902377)
 
 Zur Übertragung des Eigentums an einer beweglichen Sache ist
 erforderlich, dass der Eigentümer die Sache dem Erwerber übergibt und
@@ -23044,6 +24427,7 @@ des Eigentums.
 
 
 ###### § 929a Einigung bei nicht eingetragenem Seeschiff
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096002377)
 
 (1) Zur Übertragung des Eigentums an einem Seeschiff, das nicht im
 Schiffsregister eingetragen ist, oder an einem Anteil an einem solchen
@@ -23056,6 +24440,7 @@ soll.
 
 
 ###### § 930 Besitzkonstitut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096102377)
 
 Ist der Eigentümer im Besitz der Sache, so kann die Übergabe dadurch
 ersetzt werden, dass zwischen ihm und dem Erwerber ein
@@ -23064,6 +24449,7 @@ mittelbaren Besitz erlangt.
 
 
 ###### § 931 Abtretung des Herausgabeanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096202377)
 
 Ist ein Dritter im Besitz der Sache, so kann die Übergabe dadurch
 ersetzt werden, dass der Eigentümer dem Erwerber den Anspruch auf
@@ -23071,6 +24457,7 @@ Herausgabe der Sache abtritt.
 
 
 ###### § 932 Gutgläubiger Erwerb vom Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096302377)
 
 (1) Durch eine nach § 929 erfolgte Veräußerung wird der Erwerber auch
 dann Eigentümer, wenn die Sache nicht dem Veräußerer gehört, es sei
@@ -23085,6 +24472,7 @@ Veräußerer gehört.
 
 
 ###### § 932a Gutgläubiger Erwerb nicht eingetragener Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096402377)
 
 Gehört ein nach § 929a veräußertes Schiff nicht dem Veräußerer, so
 wird der Erwerber Eigentümer, wenn ihm das Schiff vom Veräußerer
@@ -23095,6 +24483,7 @@ Mitbesitzes an dem Schiff.
 
 
 ###### § 933 Gutgläubiger Erwerb bei Besitzkonstitut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096502377)
 
 Gehört eine nach § 930 veräußerte Sache nicht dem Veräußerer, so wird
 der Erwerber Eigentümer, wenn ihm die Sache von dem Veräußerer
@@ -23103,6 +24492,7 @@ Glauben ist.
 
 
 ###### § 934 Gutgläubiger Erwerb bei Abtretung des Herausgabeanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096602377)
 
 Gehört eine nach § 931 veräußerte Sache nicht dem Veräußerer, so wird
 der Erwerber, wenn der Veräußerer mittelbarer Besitzer der Sache ist,
@@ -23112,6 +24502,7 @@ Zeit der Abtretung oder des Besitzerwerbs nicht in gutem Glauben ist.
 
 
 ###### § 935 Kein gutgläubiger Erwerb von abhanden gekommenen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096703140)
 
 (1) Der Erwerb des Eigentums auf Grund der §§ 932 bis 934 tritt nicht
 ein, wenn die Sache dem Eigentümer gestohlen worden, verloren gegangen
@@ -23126,6 +24517,7 @@ veräußert werden.
 
 
 ###### § 936 Erlöschen von Rechten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096802377)
 
 (1) Ist eine veräußerte Sache mit dem Recht eines Dritten belastet, so
 erlischt das Recht mit dem Erwerb des Eigentums. In dem Falle des §
@@ -23145,10 +24537,12 @@ erlischt es auch dem gutgläubigen Erwerber gegenüber nicht.
 
 
 ##### Untertitel 2 - Ersitzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008502377)
 
 
 
 ###### § 937 Voraussetzungen, Ausschluss bei Kenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE096902377)
 
 (1) Wer eine bewegliche Sache zehn Jahre im Eigenbesitz hat, erwirbt
 das Eigentum (Ersitzung).
@@ -23159,6 +24553,7 @@ erfährt, dass ihm das Eigentum nicht zusteht.
 
 
 ###### § 938 Vermutung des Eigenbesitzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097002377)
 
 Hat jemand eine Sache am Anfang und am Ende eines Zeitraums im
 Eigenbesitz gehabt, so wird vermutet, dass sein Eigenbesitz auch in
@@ -23166,6 +24561,7 @@ der Zwischenzeit bestanden habe.
 
 
 ###### § 939 Hemmung der Ersitzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097102377)
 
 (1) Die Ersitzung ist gehemmt, wenn der Herausgabeanspruch gegen den
 Eigenbesitzer oder im Falle eines mittelbaren Eigenbesitzes gegen den
@@ -23180,6 +24576,7 @@ Herausgabeanspruchs nach den §§ 205 bis 207 oder ihr Ablauf nach den
 
 
 ###### § 940 Unterbrechung durch Besitzverlust
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097202377)
 
 (1) Die Ersitzung wird durch den Verlust des Eigenbesitzes
 unterbrochen.
@@ -23191,6 +24588,7 @@ wiedererlangt hat.
 
 
 ###### § 941 Unterbrechung durch Vollstreckungshandlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097302377)
 
 Die Ersitzung wird durch Vornahme oder Beantragung einer gerichtlichen
 oder behördlichen Vollstreckungshandlung unterbrochen. § 212 Abs. 2
@@ -23198,6 +24596,7 @@ und 3 gilt entsprechend.
 
 
 ###### § 942 Wirkung der Unterbrechung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097402377)
 
 Wird die Ersitzung unterbrochen, so kommt die bis zur Unterbrechung
 verstrichene Zeit nicht in Betracht; eine neue Ersitzung kann erst
@@ -23205,6 +24604,7 @@ nach der Beendigung der Unterbrechung beginnen.
 
 
 ###### § 943 Ersitzung bei Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097502377)
 
 Gelangt die Sache durch Rechtsnachfolge in den Eigenbesitz eines
 Dritten, so kommt die während des Besitzes des Rechtsvorgängers
@@ -23212,12 +24612,14 @@ verstrichene Ersitzungszeit dem Dritten zugute.
 
 
 ###### § 944 Erbschaftsbesitzer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097602377)
 
 Die Ersitzungszeit, die zugunsten eines Erbschaftsbesitzers
 verstrichen ist, kommt dem Erben zustatten.
 
 
 ###### § 945 Erlöschen von Rechten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097702377)
 
 Mit dem Erwerb des Eigentums durch Ersitzung erlöschen die an der
 Sache vor dem Erwerb des Eigenbesitzes begründeten Rechte Dritter, es
@@ -23229,10 +24631,12 @@ finden entsprechende Anwendung.
 
 
 ##### Untertitel 3 - Verbindung, Vermischung, Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008602377)
 
 
 
 ###### § 946 Verbindung mit einem Grundstück
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097802377)
 
 Wird eine bewegliche Sache mit einem Grundstück dergestalt verbunden,
 dass sie wesentlicher Bestandteil des Grundstücks wird, so erstreckt
@@ -23240,6 +24644,7 @@ sich das Eigentum an dem Grundstück auf diese Sache.
 
 
 ###### § 947 Verbindung mit beweglichen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE097902377)
 
 (1) Werden bewegliche Sachen miteinander dergestalt verbunden, dass
 sie wesentliche Bestandteile einer einheitlichen Sache werden, so
@@ -23252,6 +24657,7 @@ Eigentümer das Alleineigentum.
 
 
 ###### § 948 Vermischung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098002377)
 
 (1) Werden bewegliche Sachen miteinander untrennbar vermischt oder
 vermengt, so finden die Vorschriften des § 947 entsprechende
@@ -23263,6 +24669,7 @@ verbunden sein würde.
 
 
 ###### § 949 Erlöschen von Rechten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098102377)
 
 Erlischt nach den §§ 946 bis 948 das Eigentum an einer Sache, so
 erlöschen auch die sonstigen an der Sache bestehenden Rechte. Erwirbt
@@ -23273,6 +24680,7 @@ die Rechte auf die hinzutretende Sache.
 
 
 ###### § 950 Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098202377)
 
 (1) Wer durch Verarbeitung oder Umbildung eines oder mehrerer Stoffe
 eine neue bewegliche Sache herstellt, erwirbt das Eigentum an der
@@ -23286,6 +24694,7 @@ dem Stoffe bestehenden Rechte.
 
 
 ###### § 951 Entschädigung für Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098302377)
 
 (1) Wer infolge der Vorschriften der §§ 946 bis 950 einen
 Rechtsverlust erleidet, kann von demjenigen, zu dessen Gunsten die
@@ -23303,6 +24712,7 @@ Besitzer der Hauptsache bewirkt worden ist.
 
 
 ###### § 952 Eigentum an Schuldurkunden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098402377)
 
 (1) Das Eigentum an dem über eine Forderung ausgestellten Schuldschein
 steht dem Gläubiger zu. Das Recht eines Dritten an der Forderung
@@ -23314,10 +24724,12 @@ Grundschuld- und Rentenschuldbriefe.
 
 
 ##### Untertitel 4 - Erwerb von Erzeugnissen und sonstigen Bestandteilen einer Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008702377)
 
 
 
 ###### § 953 Eigentum an getrennten Erzeugnissen und Bestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098502377)
 
 Erzeugnisse und sonstige Bestandteile einer Sache gehören auch nach
 der Trennung dem Eigentümer der Sache, soweit sich nicht aus den §§
@@ -23325,6 +24737,7 @@ der Trennung dem Eigentümer der Sache, soweit sich nicht aus den §§
 
 
 ###### § 954 Erwerb durch dinglich Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098602377)
 
 Wer vermöge eines Rechts an einer fremden Sache befugt ist, sich
 Erzeugnisse oder sonstige Bestandteile der Sache anzueignen, erwirbt
@@ -23333,6 +24746,7 @@ das Eigentum an ihnen, unbeschadet der Vorschriften der §§ 955 bis
 
 
 ###### § 955 Erwerb durch gutgläubigen Eigenbesitzer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098702377)
 
 (1) Wer eine Sache im Eigenbesitz hat, erwirbt das Eigentum an den
 Erzeugnissen und sonstigen zu den Früchten der Sache gehörenden
@@ -23351,6 +24765,7 @@ Vorschrift des § 940 Abs. 2 entsprechende Anwendung.
 
 
 ###### § 956 Erwerb durch persönlich Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098802377)
 
 (1) Gestattet der Eigentümer einem anderen, sich Erzeugnisse oder
 sonstige Bestandteile der Sache anzueignen, so erwirbt dieser das
@@ -23366,6 +24781,7 @@ Bestandteile einer Sache nach der Trennung gehören.
 
 
 ###### § 957 Gestattung durch den Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE098902377)
 
 Die Vorschrift des § 956 findet auch dann Anwendung, wenn derjenige,
 welcher die Aneignung einem anderen gestattet, hierzu nicht berechtigt
@@ -23376,10 +24792,12 @@ gutem Glauben ist oder vor der Trennung den Rechtsmangel erfährt.
 
 
 ##### Untertitel 5 - Aneignung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008802377)
 
 
 
 ###### § 958 Eigentumserwerb an beweglichen herrenlosen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099002377)
 
 (1) Wer eine herrenlose bewegliche Sache in Eigenbesitz nimmt, erwirbt
 das Eigentum an der Sache.
@@ -23390,12 +24808,14 @@ eines anderen verletzt wird.
 
 
 ###### § 959 Aufgabe des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099102377)
 
 Eine bewegliche Sache wird herrenlos, wenn der Eigentümer in der
 Absicht, auf das Eigentum zu verzichten, den Besitz der Sache aufgibt.
 
 
 ###### § 960 Wilde Tiere
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099202377)
 
 (1) Wilde Tiere sind herrenlos, solange sie sich in der Freiheit
 befinden. Wilde Tiere in Tiergärten und Fische in Teichen oder anderen
@@ -23410,6 +24830,7 @@ an den ihm bestimmten Ort zurückzukehren.
 
 
 ###### § 961 Eigentumsverlust bei Bienenschwärmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099302377)
 
 Zieht ein Bienenschwarm aus, so wird er herrenlos, wenn nicht der
 Eigentümer ihn unverzüglich verfolgt oder wenn der Eigentümer die
@@ -23417,6 +24838,7 @@ Verfolgung aufgibt.
 
 
 ###### § 962 Verfolgungsrecht des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099402377)
 
 Der Eigentümer des Bienenschwarms darf bei der Verfolgung fremde
 Grundstücke betreten. Ist der Schwarm in eine fremde nicht besetzte
@@ -23426,6 +24848,7 @@ oder herausbrechen. Er hat den entstehenden Schaden zu ersetzen.
 
 
 ###### § 963 Vereinigung von Bienenschwärmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099502377)
 
 Vereinigen sich ausgezogene Bienenschwärme mehrerer Eigentümer, so
 werden die Eigentümer, welche ihre Schwärme verfolgt haben,
@@ -23434,6 +24857,7 @@ sich nach der Zahl der verfolgten Schwärme.
 
 
 ###### § 964 Vermischung von Bienenschwärmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099602377)
 
 Ist ein Bienenschwarm in eine fremde besetzte Bienenwohnung
 eingezogen, so erstrecken sich das Eigentum und die sonstigen Rechte
@@ -23443,10 +24867,12 @@ Schwarme erlöschen.
 
 
 ##### Untertitel 6 - Fund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG008902377)
 
 
 
 ###### § 965 Anzeigepflicht des Finders
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099703377)
 
 (1) Wer eine verlorene Sache findet und an sich nimmt, hat dem
 Verlierer oder dem Eigentümer oder einem sonstigen
@@ -23460,6 +24886,7 @@ mehr als zehn Euro wert, so bedarf es der Anzeige nicht.
 
 
 ###### § 966 Verwahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099802377)
 
 (1) Der Finder ist zur Verwahrung der Sache verpflichtet.
 
@@ -23471,6 +24898,7 @@ der Sache.
 
 
 ###### § 967 Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE099902377)
 
 Der Finder ist berechtigt und auf Anordnung der zuständigen Behörde
 verpflichtet, die Sache oder den Versteigerungserlös an die zuständige
@@ -23478,17 +24906,20 @@ Behörde abzuliefern.
 
 
 ###### § 968 Umfang der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100002377)
 
 Der Finder hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
 
 
 ###### § 969 Herausgabe an den Verlierer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100102377)
 
 Der Finder wird durch die Herausgabe der Sache an den Verlierer auch
 den sonstigen Empfangsberechtigten gegenüber befreit.
 
 
 ###### § 970 Ersatz von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100202377)
 
 Macht der Finder zum Zwecke der Verwahrung oder Erhaltung der Sache
 oder zum Zwecke der Ermittlung eines Empfangsberechtigten
@@ -23497,6 +24928,7 @@ so kann er von dem Empfangsberechtigten Ersatz verlangen.
 
 
 ###### § 971 Finderlohn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100303377)
 
 (1) Der Finder kann von dem Empfangsberechtigten einen Finderlohn
 verlangen. Der Finderlohn beträgt von dem Werte der Sache bis zu 500
@@ -23509,6 +24941,7 @@ Anzeigepflicht verletzt oder den Fund auf Nachfrage verheimlicht.
 
 
 ###### § 972 Zurückbehaltungsrecht des Finders
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100402377)
 
 Auf die in den §§ 970, 971 bestimmten Ansprüche finden die für die
 Ansprüche des Besitzers gegen den Eigentümer wegen Verwendungen
@@ -23516,6 +24949,7 @@ geltenden Vorschriften der §§ 1000 bis 1002 entsprechende Anwendung.
 
 
 ###### § 973 Eigentumserwerb des Finders
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100503377)
 
 (1) Mit dem Ablauf von sechs Monaten nach der Anzeige des Fundes bei
 der zuständigen Behörde erwirbt der Finder das Eigentum an der Sache,
@@ -23532,6 +24966,7 @@ Eigentums nicht entgegen.
 
 
 ###### § 974 Eigentumserwerb nach Verschweigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100603377)
 
 Sind vor dem Ablauf der sechsmonatigen Frist Empfangsberechtigte dem
 Finder bekannt geworden oder haben sie bei einer Sache, die mehr als
@@ -23546,6 +24981,7 @@ Ansprüche bereit erklären.
 
 
 ###### § 975 Rechte des Finders nach Ablieferung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100702377)
 
 Durch die Ablieferung der Sache oder des Versteigerungserlöses an die
 zuständige Behörde werden die Rechte des Finders nicht berührt. Lässt
@@ -23556,6 +24992,7 @@ herausgeben.
 
 
 ###### § 976 Eigentumserwerb der Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100802377)
 
 (1) Verzichtet der Finder der zuständigen Behörde gegenüber auf das
 Recht zum Erwerb des Eigentums an der Sache, so geht sein Recht auf
@@ -23570,6 +25007,7 @@ verlangt.
 
 
 ###### § 977 Bereicherungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE100902377)
 
 Wer infolge der Vorschriften der §§ 973, 974, 976 einen Rechtsverlust
 erleidet, kann in den Fällen der §§ 973, 974 von dem Finder, in den
@@ -23582,6 +25020,7 @@ gerichtliche Geltendmachung vorher erfolgt.
 
 
 ###### § 978 Fund in öffentlicher Behörde oder Verkehrsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101003377)
 
 (1) Wer eine Sache in den Geschäftsräumen oder den Beförderungsmitteln
 einer öffentlichen Behörde oder einer dem öffentlichen Verkehr
@@ -23610,6 +25049,7 @@ bezeichneten Berechtigten.
 
 
 ###### § 979 Verwertung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101104125)
 
 (1) Die Behörde oder die Verkehrsanstalt kann die an sie abgelieferte
 Sache öffentlich versteigern lassen. Die öffentlichen Behörden und die
@@ -23638,6 +25078,7 @@ zuständige Stelle eines anderen Landes vereinbaren.
 
 
 ###### § 980 Öffentliche Bekanntmachung des Fundes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101202377)
 
 (1) Die Versteigerung ist erst zulässig, nachdem die
 Empfangsberechtigten in einer öffentlichen Bekanntmachung des Fundes
@@ -23651,6 +25092,7 @@ verbunden ist.
 
 
 ###### § 981 Empfang des Versteigerungserlöses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101302377)
 
 (1) Sind seit dem Ablauf der in der öffentlichen Bekanntmachung
 bestimmten Frist drei Jahre verstrichen, so fällt der
@@ -23673,6 +25115,7 @@ wenn gefundenes Geld abgeliefert worden ist.
 
 
 ###### § 982 Ausführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101402377)
 
 Die in den §§ 980, 981 vorgeschriebene Bekanntmachung erfolgt bei
 Reichsbehörden und
@@ -23682,6 +25125,7 @@ Bundesstaats erlassenen Vorschriften.
 
 
 ###### § 983 Unanbringbare Sachen bei Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101502377)
 
 Ist eine öffentliche Behörde im Besitz einer Sache, zu deren
 Herausgabe sie verpflichtet ist, ohne dass die Verpflichtung auf
@@ -23691,6 +25135,7 @@ oder dessen Aufenthalt unbekannt ist, die Vorschriften der §§ 979 bis
 
 
 ###### § 984 Schatzfund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101602377)
 
 Wird eine Sache, die so lange verborgen gelegen hat, dass der
 Eigentümer nicht mehr zu ermitteln ist (Schatz), entdeckt und infolge
@@ -23700,16 +25145,19 @@ welcher der Schatz verborgen war.
 
 
 #### Titel 4 - Ansprüche aus dem Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009002377)
 
 
 
 ##### § 985 Herausgabeanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101702377)
 
 Der Eigentümer kann von dem Besitzer die Herausgabe der Sache
 verlangen.
 
 
 ##### § 986 Einwendungen des Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101802377)
 
 (1) Der Besitzer kann die Herausgabe der Sache verweigern, wenn er
 oder der mittelbare Besitzer, von dem er sein Recht zum Besitz
@@ -23727,6 +25175,7 @@ abgetretenen Anspruch zustehen.
 
 
 ##### § 987 Nutzungen nach Rechtshängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE101902377)
 
 (1) Der Besitzer hat dem Eigentümer die Nutzungen herauszugeben, die
 er nach dem Eintritt der Rechtshängigkeit zieht.
@@ -23738,6 +25187,7 @@ verpflichtet, soweit ihm ein Verschulden zur Last fällt.
 
 
 ##### § 988 Nutzungen des unentgeltlichen Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102002377)
 
 Hat ein Besitzer, der die Sache als ihm gehörig oder zum Zwecke der
 Ausübung eines ihm in Wirklichkeit nicht zustehenden Nutzungsrechts an
@@ -23748,6 +25198,7 @@ Herausgabe einer ungerechtfertigten Bereicherung verpflichtet.
 
 
 ##### § 989 Schadensersatz nach Rechtshängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102102377)
 
 Der Besitzer ist von dem Eintritt der Rechtshängigkeit an dem
 Eigentümer für den Schaden verantwortlich, der dadurch entsteht, dass
@@ -23756,6 +25207,7 @@ oder aus einem anderen Grunde von ihm nicht herausgegeben werden kann.
 
 
 ##### § 990 Haftung des Besitzers bei Kenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102202377)
 
 (1) War der Besitzer bei dem Erwerb des Besitzes nicht in gutem
 Glauben, so haftet er dem Eigentümer von der Zeit des Erwerbs an nach
@@ -23768,6 +25220,7 @@ unberührt.
 
 
 ##### § 991 Haftung des Besitzmittlers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102302377)
 
 (1) Leitet der Besitzer das Recht zum Besitz von einem mittelbaren
 Besitzer ab, so findet die Vorschrift des § 990 in Ansehung der
@@ -23782,6 +25235,7 @@ Besitzer verantwortlich ist.
 
 
 ##### § 992 Haftung des deliktischen Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102402377)
 
 Hat sich der Besitzer durch verbotene Eigenmacht oder durch eine
 Straftat den Besitz verschafft, so haftet er dem Eigentümer nach den
@@ -23789,6 +25243,7 @@ Vorschriften über den Schadensersatz wegen unerlaubter Handlungen.
 
 
 ##### § 993 Haftung des redlichen Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102502377)
 
 (1) Liegen die in den §§ 987 bis 992 bezeichneten Voraussetzungen
 nicht vor, so hat der Besitzer die gezogenen Früchte, soweit sie nach
@@ -23802,6 +25257,7 @@ findet auf ihn die Vorschrift des § 101 Anwendung.
 
 
 ##### § 994 Notwendige Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102602377)
 
 (1) Der Besitzer kann für die auf die Sache gemachten notwendigen
 Verwendungen von dem Eigentümer Ersatz verlangen. Die gewöhnlichen
@@ -23815,6 +25271,7 @@ den Vorschriften über die Geschäftsführung ohne Auftrag.
 
 
 ##### § 995 Lasten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102702377)
 
 Zu den notwendigen Verwendungen im Sinne des § 994 gehören auch die
 Aufwendungen, die der Besitzer zur Bestreitung von Lasten der Sache
@@ -23824,6 +25281,7 @@ ersetzen, die als auf den Stammwert der Sache gelegt anzusehen sind.
 
 
 ##### § 996 Nützliche Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102802377)
 
 Für andere als notwendige Verwendungen kann der Besitzer Ersatz nur
 insoweit verlangen, als sie vor dem Eintritt der Rechtshängigkeit und
@@ -23833,6 +25291,7 @@ Eigentümer die Sache wiedererlangt.
 
 
 ##### § 997 Wegnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE102902377)
 
 (1) Hat der Besitzer mit der Sache eine andere Sache als wesentlichen
 Bestandteil verbunden, so kann er sie abtrennen und sich aneignen. Die
@@ -23846,6 +25305,7 @@ haben würde.
 
 
 ##### § 998 Bestellungskosten bei landwirtschaftlichem Grundstück
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103002377)
 
 Ist ein landwirtschaftliches Grundstück herauszugeben, so hat der
 Eigentümer die Kosten, die der Besitzer auf die noch nicht getrennten,
@@ -23856,6 +25316,7 @@ Wert dieser Früchte nicht übersteigen.
 
 
 ##### § 999 Ersatz von Verwendungen des Rechtsvorgängers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103102377)
 
 (1) Der Besitzer kann für die Verwendungen eines Vorbesitzers, dessen
 Rechtsnachfolger er geworden ist, in demselben Umfang Ersatz
@@ -23868,6 +25329,7 @@ bevor er das Eigentum erworben hat.
 
 
 ##### § 1000 Zurückbehaltungsrecht des Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103202377)
 
 Der Besitzer kann die Herausgabe der Sache verweigern, bis er wegen
 der ihm zu ersetzenden Verwendungen befriedigt wird. Das
@@ -23876,6 +25338,7 @@ vorsätzlich begangene unerlaubte Handlung erlangt hat.
 
 
 ##### § 1001 Klage auf Verwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103302377)
 
 Der Besitzer kann den Anspruch auf den Ersatz der Verwendungen nur
 geltend machen, wenn der Eigentümer die Sache wiedererlangt oder die
@@ -23887,6 +25350,7 @@ Anspruchs angebotene Sache annimmt.
 
 
 ##### § 1002 Erlöschen des Verwendungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103402377)
 
 (1) Gibt der Besitzer die Sache dem Eigentümer heraus, so erlischt der
 Anspruch auf den Ersatz der Verwendungen mit dem Ablauf eines Monats,
@@ -23899,6 +25363,7 @@ Vorschriften der §§ 206, 210, 211 entsprechende Anwendung.
 
 
 ##### § 1003 Befriedigungsrecht des Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103502377)
 
 (1) Der Besitzer kann den Eigentümer unter Angabe des als Ersatz
 verlangten Betrags auffordern, sich innerhalb einer von ihm bestimmten
@@ -23919,6 +25384,7 @@ rechtzeitig erfolgt.
 
 
 ##### § 1004 Beseitigungs- und Unterlassungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103602377)
 
 (1) Wird das Eigentum in anderer Weise als durch Entziehung oder
 Vorenthaltung des Besitzes beeinträchtigt, so kann der Eigentümer von
@@ -23931,6 +25397,7 @@ verpflichtet ist.
 
 
 ##### § 1005 Verfolgungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103702377)
 
 Befindet sich eine Sache auf einem Grundstück, das ein anderer als der
 Eigentümer der Sache besitzt, so steht diesem gegen den Besitzer des
@@ -23938,6 +25405,7 @@ Grundstücks der in § 867 bestimmte Anspruch zu.
 
 
 ##### § 1006 Eigentumsvermutung für Besitzer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103802377)
 
 (1) Zugunsten des Besitzers einer beweglichen Sache wird vermutet,
 dass er Eigentümer der Sache sei. Dies gilt jedoch nicht einem
@@ -23953,6 +25421,7 @@ mittelbaren Besitzer.
 
 
 ##### § 1007 Ansprüche des früheren Besitzers, Ausschluss bei Kenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE103902377)
 
 (1) Wer eine bewegliche Sache im Besitz gehabt hat, kann von dem
 Besitzer die Herausgabe der Sache verlangen, wenn dieser bei dem
@@ -23972,16 +25441,19 @@ entsprechende Anwendung.
 
 
 #### Titel 5 - Miteigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009102377)
 
 
 
 ##### § 1008 Miteigentum nach Bruchteilen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE104002377)
 
 Steht das Eigentum an einer Sache mehreren nach Bruchteilen zu, so
 gelten die Vorschriften der §§ 1009 bis 1011.
 
 
 ##### § 1009 Belastung zugunsten eines Miteigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE104102377)
 
 (1) Die gemeinschaftliche Sache kann auch zugunsten eines
 Miteigentümers belastet werden.
@@ -23995,6 +25467,7 @@ Grundstücks gehört.
 
 
 ##### § 1010 Sondernachfolger eines Miteigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE104202377)
 
 (1) Haben die Miteigentümer eines Grundstücks die Verwaltung und
 Benutzung geregelt oder das Recht, die Aufhebung der Gemeinschaft zu
@@ -24009,6 +25482,7 @@ sie im Grundbuch eingetragen sind.
 
 
 ##### § 1011 Ansprüche aus dem Miteigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE104302377)
 
 Jeder Miteigentümer kann die Ansprüche aus dem Eigentum Dritten
 gegenüber in Ansehung der ganzen Sache geltend machen, den Anspruch
@@ -24016,18 +25490,22 @@ auf Herausgabe jedoch nur in Gemäßheit des § 432.
 
 
 ##### (XXXX) §§ 1012 bis 1017 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE104402377)
 
 
 
 ### Abschnitt 4 - Dienstbarkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009302377)
 
 
 
 #### Titel 1 - Grunddienstbarkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009402377)
 
 
 
 ##### § 1018 Gesetzlicher Inhalt der Grunddienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105002377)
 
 Ein Grundstück kann zugunsten des jeweiligen Eigentümers eines anderen
 Grundstücks in der Weise belastet werden, dass dieser das Grundstück
@@ -24039,6 +25517,7 @@ dem belasteten Grundstück dem anderen Grundstück gegenüber ergibt
 
 
 ##### § 1019 Vorteil des herrschenden Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105102377)
 
 Eine Grunddienstbarkeit kann nur in einer Belastung bestehen, die für
 die Benutzung des Grundstücks des Berechtigten Vorteil bietet. Über
@@ -24047,6 +25526,7 @@ Dienstbarkeit nicht erstreckt werden.
 
 
 ##### § 1020 Schonende Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105202377)
 
 Bei der Ausübung einer Grunddienstbarkeit hat der Berechtigte das
 Interesse des Eigentümers des belasteten Grundstücks tunlichst zu
@@ -24056,6 +25536,7 @@ erhalten, soweit das Interesse des Eigentümers es erfordert.
 
 
 ##### § 1021 Vereinbarte Unterhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105302377)
 
 (1) Gehört zur Ausübung einer Grunddienstbarkeit eine Anlage auf dem
 belasteten Grundstück, so kann bestimmt werden, dass der Eigentümer
@@ -24070,6 +25551,7 @@ die Reallasten entsprechende Anwendung.
 
 
 ##### § 1022 Anlagen auf baulichen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105402377)
 
 Besteht die Grunddienstbarkeit in dem Recht, auf einer baulichen
 Anlage des belasteten Grundstücks eine bauliche Anlage zu halten, so
@@ -24080,6 +25562,7 @@ Abs. 2 gilt auch für diese Unterhaltungspflicht.
 
 
 ##### § 1023 Verlegung der Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105502377)
 
 (1) Beschränkt sich die jeweilige Ausübung einer Grunddienstbarkeit
 auf einen Teil des belasteten Grundstücks, so kann der Eigentümer die
@@ -24095,6 +25578,7 @@ ausgeschlossen oder beschränkt werden.
 
 
 ##### § 1024 Zusammentreffen mehrerer Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105602377)
 
 Trifft eine Grunddienstbarkeit mit einer anderen Grunddienstbarkeit
 oder einem sonstigen Nutzungsrecht an dem Grundstück dergestalt
@@ -24105,6 +25589,7 @@ Ermessen entsprechende Regelung der Ausübung verlangen.
 
 
 ##### § 1025 Teilung des herrschenden Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105702377)
 
 Wird das Grundstück des Berechtigten geteilt, so besteht die
 Grunddienstbarkeit für die einzelnen Teile fort; die Ausübung ist
@@ -24115,6 +25600,7 @@ erlischt sie für die übrigen Teile.
 
 
 ##### § 1026 Teilung des dienenden Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105802377)
 
 Wird das belastete Grundstück geteilt, so werden, wenn die Ausübung
 der Grunddienstbarkeit auf einen bestimmten Teil des belasteten
@@ -24123,12 +25609,14 @@ der Ausübung liegen, von der Dienstbarkeit frei.
 
 
 ##### § 1027 Beeinträchtigung der Grunddienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE105902377)
 
 Wird eine Grunddienstbarkeit beeinträchtigt, so stehen dem
 Berechtigten die in § 1004 bestimmten Rechte zu.
 
 
 ##### § 1028 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106002377)
 
 (1) Ist auf dem belasteten Grundstück eine Anlage, durch welche die
 Grunddienstbarkeit beeinträchtigt wird, errichtet worden, so
@@ -24142,6 +25630,7 @@ Widerspruch steht.
 
 
 ##### § 1029 Besitzschutz des Rechtsbesitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106102377)
 
 Wird der Besitzer eines Grundstücks in der Ausübung einer für den
 Eigentümer im Grundbuch eingetragenen Grunddienstbarkeit gestört, so
@@ -24151,14 +25640,17 @@ Störung, sei es auch nur einmal, ausgeübt worden ist.
 
 
 #### Titel 2 - Nießbrauch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009502377)
 
 
 
 ##### Untertitel 1 - Nießbrauch an Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009602377)
 
 
 
 ###### § 1030 Gesetzlicher Inhalt des Nießbrauchs an Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106202377)
 
 (1) Eine Sache kann in der Weise belastet werden, dass derjenige, zu
 dessen Gunsten die Belastung erfolgt, berechtigt ist, die Nutzungen
@@ -24169,6 +25661,7 @@ beschränkt werden.
 
 
 ###### § 1031 Erstreckung auf Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106302377)
 
 Mit dem Nießbrauch an einem Grundstück erlangt der Nießbraucher den
 Nießbrauch an dem Zubehör nach der für den Erwerb des Eigentums
@@ -24176,6 +25669,7 @@ geltenden Vorschrift des § 926.
 
 
 ###### § 1032 Bestellung an beweglichen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106402377)
 
 Zur Bestellung des Nießbrauchs an einer beweglichen Sache ist
 erforderlich, dass der Eigentümer die Sache dem Erwerber übergibt und
@@ -24187,6 +25681,7 @@ vorgeht.
 
 
 ###### § 1033 Erwerb durch Ersitzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106502377)
 
 Der Nießbrauch an einer beweglichen Sache kann durch Ersitzung
 erworben werden. Die für den Erwerb des Eigentums durch Ersitzung
@@ -24194,6 +25689,7 @@ geltenden Vorschriften finden entsprechende Anwendung.
 
 
 ###### § 1034 Feststellung des Zustands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106602377)
 
 Der Nießbraucher kann den Zustand der Sache auf seine Kosten durch
 Sachverständige feststellen lassen. Das gleiche Recht steht dem
@@ -24201,6 +25697,7 @@ Eigentümer zu.
 
 
 ###### § 1035 Nießbrauch an Inbegriff von Sachen; Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106702377)
 
 Bei dem Nießbrauch an einem Inbegriff von Sachen sind der Nießbraucher
 und der Eigentümer einander verpflichtet, zur Aufnahme eines
@@ -24215,6 +25712,7 @@ verlangt.
 
 
 ###### § 1036 Besitzrecht; Ausübung des Nießbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106802377)
 
 (1) Der Nießbraucher ist zum Besitz der Sache berechtigt.
 
@@ -24224,6 +25722,7 @@ Regeln einer ordnungsmäßigen Wirtschaft zu verfahren.
 
 
 ###### § 1037 Umgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE106902377)
 
 (1) Der Nießbraucher ist nicht berechtigt, die Sache umzugestalten
 oder wesentlich zu verändern.
@@ -24235,6 +25734,7 @@ Bestimmung des Grundstücks dadurch wesentlich verändert wird.
 
 
 ###### § 1038 Wirtschaftsplan für Wald und Bergwerk
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107002377)
 
 (1) Ist ein Wald Gegenstand des Nießbrauchs, so kann sowohl der
 Eigentümer als der Nießbraucher verlangen, dass das Maß der Nutzung
@@ -24250,6 +25750,7 @@ ist.
 
 
 ###### § 1039 Übermäßige Fruchtziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107102377)
 
 (1) Der Nießbraucher erwirbt das Eigentum auch an solchen Früchten,
 die er den Regeln einer ordnungsmäßigen Wirtschaft zuwider oder die er
@@ -24269,12 +25770,14 @@ gebührenden Nutzungen beeinträchtigt werden.
 
 
 ###### § 1040 Schatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107202377)
 
 Das Recht des Nießbrauchers erstreckt sich nicht auf den Anteil des
 Eigentümers an einem Schatze, der in der Sache gefunden wird.
 
 
 ###### § 1041 Erhaltung der Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107302377)
 
 Der Nießbraucher hat für die Erhaltung der Sache in ihrem
 wirtschaftlichen Bestand zu sorgen. Ausbesserungen und Erneuerungen
@@ -24283,6 +25786,7 @@ der Sache gehören.
 
 
 ###### § 1042 Anzeigepflicht des Nießbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107402377)
 
 Wird die Sache zerstört oder beschädigt oder wird eine
 außergewöhnliche Ausbesserung oder Erneuerung der Sache oder eine
@@ -24293,6 +25797,7 @@ Dritter ein Recht an der Sache anmaßt.
 
 
 ###### § 1043 Ausbesserung oder Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107502377)
 
 Nimmt der Nießbraucher eines Grundstücks eine erforderlich gewordene
 außergewöhnliche Ausbesserung oder Erneuerung selbst vor, so darf er
@@ -24302,6 +25807,7 @@ den ihm gebührenden Früchten gehören.
 
 
 ###### § 1044 Duldung von Ausbesserungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107602377)
 
 Nimmt der Nießbraucher eine erforderlich gewordene Ausbesserung oder
 Erneuerung der Sache nicht selbst vor, so hat er dem Eigentümer die
@@ -24311,6 +25817,7 @@ gestatten.
 
 
 ###### § 1045 Versicherungspflicht des Nießbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107702377)
 
 (1) Der Nießbraucher hat die Sache für die Dauer des Nießbrauchs gegen
 Brandschaden und sonstige Unfälle auf seine Kosten unter Versicherung
@@ -24325,6 +25832,7 @@ würde.
 
 
 ###### § 1046 Nießbrauch an der Versicherungsforderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107802377)
 
 (1) An der Forderung gegen den Versicherer steht dem Nießbraucher der
 Nießbrauch nach den Vorschriften zu, die für den Nießbrauch an einer
@@ -24339,6 +25847,7 @@ Verwendung selbst besorgen oder dem Nießbraucher überlassen.
 
 
 ###### § 1047 Lastentragung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE107902377)
 
 Der Nießbraucher ist dem Eigentümer gegenüber verpflichtet, für die
 Dauer des Nießbrauchs die auf der Sache ruhenden öffentlichen Lasten
@@ -24351,6 +25860,7 @@ Rentenschuld zu entrichtenden Leistungen.
 
 
 ###### § 1048 Nießbrauch an Grundstück mit Inventar
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108003377)
 
 (1) Ist ein Grundstück samt Inventar Gegenstand des Nießbrauchs, so
 kann der Nießbraucher über die einzelnen Stücke des Inventars
@@ -24367,6 +25877,7 @@ Anwendung.
 
 
 ###### § 1049 Ersatz von Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108102377)
 
 (1) Macht der Nießbraucher Verwendungen auf die Sache, zu denen er
 nicht verpflichtet ist, so bestimmt sich die Ersatzpflicht des
@@ -24378,6 +25889,7 @@ Sache versehen hat, wegzunehmen.
 
 
 ###### § 1050 Abnutzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108202377)
 
 Veränderungen oder Verschlechterungen der Sache, welche durch die
 ordnungsmäßige Ausübung des Nießbrauchs herbeigeführt werden, hat der
@@ -24385,6 +25897,7 @@ Nießbraucher nicht zu vertreten.
 
 
 ###### § 1051 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108302377)
 
 Wird durch das Verhalten des Nießbrauchers die Besorgnis einer
 erheblichen Verletzung der Rechte des Eigentümers begründet, so kann
@@ -24392,6 +25905,7 @@ der Eigentümer Sicherheitsleistung verlangen.
 
 
 ###### § 1052 Gerichtliche Verwaltung mangels Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108402377)
 
 (1) Ist der Nießbraucher zur Sicherheitsleistung rechtskräftig
 verurteilt, so kann der Eigentümer statt der Sicherheitsleistung
@@ -24412,6 +25926,7 @@ geleistet wird.
 
 
 ###### § 1053 Unterlassungsklage bei unbefugtem Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108502377)
 
 Macht der Nießbraucher einen Gebrauch von der Sache, zu dem er nicht
 befugt ist, und setzt er den Gebrauch ungeachtet einer Abmahnung des
@@ -24419,6 +25934,7 @@ Eigentümers fort, so kann der Eigentümer auf Unterlassung klagen.
 
 
 ###### § 1054 Gerichtliche Verwaltung wegen Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108602377)
 
 Verletzt der Nießbraucher die Rechte des Eigentümers in erheblichem
 Maße und setzt er das verletzende Verhalten ungeachtet einer Abmahnung
@@ -24427,6 +25943,7 @@ Verwaltung nach § 1052 verlangen.
 
 
 ###### § 1055 Rückgabepflicht des Nießbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108703377)
 
 (1) Der Nießbraucher ist verpflichtet, die Sache nach der Beendigung
 des Nießbrauchs dem Eigentümer zurückzugeben.
@@ -24438,6 +25955,7 @@ an einem Landgut finden die Vorschriften des § 596 Abs. 1 und der §§
 
 
 ###### § 1056 Miet- und Pachtverhältnisse bei Beendigung des Nießbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108803377)
 
 (1) Hat der Nießbraucher ein Grundstück über die Dauer des Nießbrauchs
 hinaus vermietet oder verpachtet, so finden nach der Beendigung des
@@ -24458,6 +25976,7 @@ Kündigung kann nur bis zum Ablauf der Frist erfolgen.
 
 
 ###### § 1057 Verjährung der Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE108903377)
 
 Die Ersatzansprüche des Eigentümers wegen Veränderungen oder
 Verschlechterungen der Sache sowie die Ansprüche des Nießbrauchers auf
@@ -24467,6 +25986,7 @@ Einrichtung verjähren in sechs Monaten. Die Vorschrift des § 548 Abs.
 
 
 ###### § 1058 Besteller als Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109002377)
 
 Im Verhältnis zwischen dem Nießbraucher und dem Eigentümer gilt
 zugunsten des Nießbrauchers der Besteller als Eigentümer, es sei denn,
@@ -24474,12 +25994,14 @@ dass der Nießbraucher weiß, dass der Besteller nicht Eigentümer ist.
 
 
 ###### § 1059 Unübertragbarkeit; Überlassung der Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109102377)
 
 Der Nießbrauch ist nicht übertragbar. Die Ausübung des Nießbrauchs
 kann einem anderen überlassen werden.
 
 
 ###### § 1059a Übertragbarkeit bei juristischer Person oder rechtsfähiger Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109205377)
 
 (1) Steht ein Nießbrauch einer juristischen Person zu, so ist er nach
 Maßgabe der folgenden Vorschriften übertragbar:
@@ -24509,12 +26031,14 @@ Personengesellschaft gleich.
 
 
 ###### § 1059b Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109302377)
 
 Ein Nießbrauch kann auf Grund der Vorschrift des § 1059a weder
 gepfändet noch verpfändet noch mit einem Nießbrauch belastet werden.
 
 
 ###### § 1059c Übergang oder Übertragung des Nießbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109402377)
 
 (1) Im Falle des Übergangs oder der Übertragung des Nießbrauchs tritt
 der Erwerber anstelle des bisherigen Berechtigten in die mit dem
@@ -24529,6 +26053,7 @@ dinglich Berechtigte begründet.
 
 
 ###### § 1059d Miet- und Pachtverhältnisse bei Übertragung des Nießbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109503377)
 
 Hat der bisherige Berechtigte das mit dem Nießbrauch belastete
 Grundstück über die Dauer des Nießbrauchs hinaus vermietet oder
@@ -24538,6 +26063,7 @@ der §§ 566 bis 566e, 567a und 567b entsprechend anzuwenden.
 
 
 ###### § 1059e Anspruch auf Einräumung des Nießbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109603377)
 
 Steht ein Anspruch auf Einräumung eines Nießbrauchs einer juristischen
 Person oder einer rechtsfähigen Personengesellschaft zu, so gelten die
@@ -24545,6 +26071,7 @@ Vorschriften der §§ 1059a bis 1059d entsprechend.
 
 
 ###### § 1060 Zusammentreffen mehrerer Nutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109702377)
 
 Trifft ein Nießbrauch mit einem anderen Nießbrauch oder mit einem
 sonstigen Nutzungsrecht an der Sache dergestalt zusammen, dass die
@@ -24554,6 +26081,7 @@ des § 1024 Anwendung.
 
 
 ###### § 1061 Tod des Nießbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109803377)
 
 Der Nießbrauch erlischt mit dem Tode des Nießbrauchers. Steht der
 Nießbrauch einer juristischen Person oder einer rechtsfähigen
@@ -24561,6 +26089,7 @@ Personengesellschaft zu, so erlischt er mit dieser.
 
 
 ###### § 1062 Erstreckung der Aufhebung auf das Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE109902377)
 
 Wird der Nießbrauch an einem Grundstück durch Rechtsgeschäft
 aufgehoben, so erstreckt sich die Aufhebung im Zweifel auf den
@@ -24568,6 +26097,7 @@ Nießbrauch an dem Zubehör.
 
 
 ###### § 1063 Zusammentreffen mit dem Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110002377)
 
 (1) Der Nießbrauch an einer beweglichen Sache erlischt, wenn er mit
 dem Eigentum in derselben Person zusammentrifft.
@@ -24577,6 +26107,7 @@ rechtliches Interesse an dem Fortbestehen des Nießbrauchs hat.
 
 
 ###### § 1064 Aufhebung des Nießbrauchs an beweglichen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110102377)
 
 Zur Aufhebung des Nießbrauchs an einer beweglichen Sache durch
 Rechtsgeschäft genügt die Erklärung des Nießbrauchers gegenüber dem
@@ -24584,6 +26115,7 @@ Eigentümer oder dem Besteller, dass er den Nießbrauch aufgebe.
 
 
 ###### § 1065 Beeinträchtigung des Nießbrauchsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110202377)
 
 Wird das Recht des Nießbrauchers beeinträchtigt, so finden auf die
 Ansprüche des Nießbrauchers die für die Ansprüche aus dem Eigentum
@@ -24591,6 +26123,7 @@ geltenden Vorschriften entsprechende Anwendung.
 
 
 ###### § 1066 Nießbrauch am Anteil eines Miteigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110302377)
 
 (1) Besteht ein Nießbrauch an dem Anteil eines Miteigentümers, so übt
 der Nießbraucher die Rechte aus, die sich aus der Gemeinschaft der
@@ -24606,6 +26139,7 @@ treten.
 
 
 ###### § 1067 Nießbrauch an verbrauchbaren Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110402377)
 
 (1) Sind verbrauchbare Sachen Gegenstand des Nießbrauchs, so wird der
 Nießbraucher Eigentümer der Sachen; nach der Beendigung des
@@ -24619,10 +26153,12 @@ Anspruch auf Ersatz des Wertes gefährdet ist.
 
 
 ##### Untertitel 2 - Nießbrauch an Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009702377)
 
 
 
 ###### § 1068 Gesetzlicher Inhalt des Nießbrauchs an Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110502377)
 
 (1) Gegenstand des Nießbrauchs kann auch ein Recht sein.
 
@@ -24632,6 +26168,7 @@ den §§ 1069 bis 1084 ein anderes ergibt.
 
 
 ###### § 1069 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110602377)
 
 (1) Die Bestellung des Nießbrauchs an einem Recht erfolgt nach den für
 die Übertragung des Rechts geltenden Vorschriften.
@@ -24641,6 +26178,7 @@ nicht bestellt werden.
 
 
 ###### § 1070 Nießbrauch an Recht auf Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110702377)
 
 (1) Ist ein Recht, kraft dessen eine Leistung gefordert werden kann,
 Gegenstand des Nießbrauchs, so finden auf das Rechtsverhältnis
@@ -24657,6 +26195,7 @@ Gleiche gilt von der Aufhebung der Verwaltung.
 
 
 ###### § 1071 Aufhebung oder Änderung des belasteten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110802377)
 
 (1) Ein dem Nießbrauch unterliegendes Recht kann durch Rechtsgeschäft
 nur mit Zustimmung des Nießbrauchers aufgehoben werden. Die Zustimmung
@@ -24669,6 +26208,7 @@ den Nießbrauch beeinträchtigt.
 
 
 ###### § 1072 Beendigung des Nießbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE110902377)
 
 Die Beendigung des Nießbrauchs tritt nach den Vorschriften der §§
 1063, 1064 auch dann ein, wenn das dem Nießbrauch unterliegende Recht
@@ -24676,6 +26216,7 @@ nicht ein Recht an einer beweglichen Sache ist.
 
 
 ###### § 1073 Nießbrauch an einer Leibrente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111002377)
 
 Dem Nießbraucher einer Leibrente, eines Auszugs oder eines ähnlichen
 Rechts gebühren die einzelnen Leistungen, die auf Grund des Rechts
@@ -24683,6 +26224,7 @@ gefordert werden können.
 
 
 ###### § 1074 Nießbrauch an einer Forderung; Kündigung und Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111102377)
 
 Der Nießbraucher einer Forderung ist zur Einziehung der Forderung und,
 wenn die Fälligkeit von einer Kündigung des Gläubigers abhängt, zur
@@ -24692,6 +26234,7 @@ berechtigt.
 
 
 ###### § 1075 Wirkung der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111202377)
 
 (1) Mit der Leistung des Schuldners an den Nießbraucher erwirbt der
 Gläubiger den geleisteten Gegenstand und der Nießbraucher den
@@ -24703,12 +26246,14 @@ Anwendung.
 
 
 ###### § 1076 Nießbrauch an verzinslicher Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111302377)
 
 Ist eine auf Zinsen ausstehende Forderung Gegenstand des Nießbrauchs,
 so gelten die Vorschriften der §§ 1077 bis 1079.
 
 
 ###### § 1077 Kündigung und Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111402377)
 
 (1) Der Schuldner kann das Kapital nur an den Nießbraucher und den
 Gläubiger gemeinschaftlich zahlen. Jeder von beiden kann verlangen,
@@ -24721,6 +26266,7 @@ Nießbraucher und dem Gläubiger erklärt wird.
 
 
 ###### § 1078 Mitwirkung zur Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111502377)
 
 Ist die Forderung fällig, so sind der Nießbraucher und der Gläubiger
 einander verpflichtet, zur Einziehung mitzuwirken. Hängt die
@@ -24731,6 +26277,7 @@ ordnungsmäßigen Vermögensverwaltung geboten ist.
 
 
 ###### § 1079 Anlegung des Kapitals
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111603360)
 
 Der Nießbraucher und der Gläubiger sind einander verpflichtet, dazu
 mitzuwirken, dass das eingezogene Kapital der Rechtsverordnung nach §
@@ -24740,12 +26287,14 @@ Nießbraucher.
 
 
 ###### § 1080 Nießbrauch an Grund- oder Rentenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111702377)
 
 Die Vorschriften über den Nießbrauch an einer Forderung gelten auch
 für den Nießbrauch an einer Grundschuld und an einer Rentenschuld.
 
 
 ###### § 1081 Nießbrauch an Inhaber- oder Orderpapieren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111802377)
 
 (1) Ist ein Inhaberpapier oder ein Orderpapier, das mit
 Blankoindossament versehen ist, Gegenstand des Nießbrauchs, so steht
@@ -24759,6 +26308,7 @@ Papiers die Einräumung des Mitbesitzes.
 
 
 ###### § 1082 Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE111903140)
 
 Das Papier ist nebst dem Erneuerungsschein auf Verlangen des
 Nießbrauchers oder des Eigentümers bei einer Hinterlegungsstelle mit
@@ -24767,6 +26317,7 @@ Nießbraucher und dem Eigentümer gemeinschaftlich verlangt werden kann.
 
 
 ###### § 1083 Mitwirkung zur Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112002377)
 
 (1) Der Nießbraucher und der Eigentümer des Papiers sind einander
 verpflichtet, zur Einziehung des fälligen Kapitals, zur Beschaffung
@@ -24780,6 +26331,7 @@ des Kapitals.
 
 
 ###### § 1084 Verbrauchbare Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112102377)
 
 Gehört ein Inhaberpapier oder ein Orderpapier, das mit
 Blankoindossament versehen ist, nach § 92 zu den verbrauchbaren
@@ -24787,10 +26339,12 @@ Sachen, so bewendet es bei der Vorschrift des § 1067.
 
 
 ##### Untertitel 3 - Nießbrauch an einem Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009802377)
 
 
 
 ###### § 1085 Bestellung des Nießbrauchs an einem Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112202377)
 
 Der Nießbrauch an dem Vermögen einer Person kann nur in der Weise
 bestellt werden, dass der Nießbraucher den Nießbrauch an den einzelnen
@@ -24799,6 +26353,7 @@ bestellt ist, gelten die Vorschriften der §§ 1086 bis 1088.
 
 
 ###### § 1086 Rechte der Gläubiger des Bestellers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112302377)
 
 Die Gläubiger des Bestellers können, soweit ihre Forderungen vor der
 Bestellung entstanden sind, ohne Rücksicht auf den Nießbrauch
@@ -24810,6 +26365,7 @@ zum sofortigen Ersatz verpflichtet.
 
 
 ###### § 1087 Verhältnis zwischen Nießbraucher und Besteller
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112402377)
 
 (1) Der Besteller kann, wenn eine vor der Bestellung entstandene
 Forderung fällig ist, von dem Nießbraucher Rückgabe der zur
@@ -24831,6 +26387,7 @@ ist, darf er eine Veräußerung nicht vornehmen.
 
 
 ###### § 1088 Haftung des Nießbrauchers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112502377)
 
 (1) Die Gläubiger des Bestellers, deren Forderungen schon zur Zeit der
 Bestellung verzinslich waren, können die Zinsen für die Dauer des
@@ -24850,16 +26407,19 @@ dieser Verbindlichkeit in Verzug kommt.
 
 
 ###### § 1089 Nießbrauch an einer Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112602377)
 
 Die Vorschriften der §§ 1085 bis 1088 finden auf den Nießbrauch an
 einer Erbschaft entsprechende Anwendung.
 
 
 #### Titel 3 - Beschränkte persönliche Dienstbarkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG009902377)
 
 
 
 ##### § 1090 Gesetzlicher Inhalt der beschränkten persönlichen Dienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112702377)
 
 (1) Ein Grundstück kann in der Weise belastet werden, dass derjenige,
 zu dessen Gunsten die Belastung erfolgt, berechtigt ist, das
@@ -24872,12 +26432,14 @@ entsprechende Anwendung.
 
 
 ##### § 1091 Umfang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112802377)
 
 Der Umfang einer beschränkten persönlichen Dienstbarkeit bestimmt sich
 im Zweifel nach dem persönlichen Bedürfnis des Berechtigten.
 
 
 ##### § 1092 Unübertragbarkeit; Überlassung der Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE112905125)
 
 (1) Eine beschränkte persönliche Dienstbarkeit ist nicht übertragbar.
 Die Ausübung der Dienstbarkeit kann einem anderen nur überlassen
@@ -24925,6 +26487,7 @@ Vorschriften der §§ 1059b bis 1059d gelten entsprechend.
 
 
 ##### § 1093 Wohnungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113002377)
 
 (1) Als beschränkte persönliche Dienstbarkeit kann auch das Recht
 bestellt werden, ein Gebäude oder einen Teil eines Gebäudes unter
@@ -24943,10 +26506,12 @@ bestimmten Anlagen und Einrichtungen mitbenutzen.
 
 
 ### Abschnitt 5 - Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010002377)
 
 
 
 #### § 1094 Gesetzlicher Inhalt des dinglichen Vorkaufsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113102377)
 
 (1) Ein Grundstück kann in der Weise belastet werden, dass derjenige,
 zu dessen Gunsten die Belastung erfolgt, dem Eigentümer gegenüber zum
@@ -24957,12 +26522,14 @@ eines anderen Grundstücks bestellt werden.
 
 
 #### § 1095 Belastung eines Bruchteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113202377)
 
 Ein Bruchteil eines Grundstücks kann mit dem Vorkaufsrecht nur
 belastet werden, wenn er in dem Anteil eines Miteigentümers besteht.
 
 
 #### § 1096 Erstreckung auf Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113302377)
 
 Das Vorkaufsrecht kann auf das Zubehör erstreckt werden, das mit dem
 Grundstück verkauft wird. Im Zweifel ist anzunehmen, dass sich das
@@ -24970,6 +26537,7 @@ Vorkaufsrecht auf dieses Zubehör erstrecken soll.
 
 
 #### § 1097 Bestellung für einen oder mehrere Verkaufsfälle
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113402377)
 
 Das Vorkaufsrecht beschränkt sich auf den Fall des Verkaufs durch den
 Eigentümer, welchem das Grundstück zur Zeit der Bestellung gehört,
@@ -24978,6 +26546,7 @@ Verkaufsfälle bestellt werden.
 
 
 #### § 1098 Wirkung des Vorkaufsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113505377)
 
 (1) Das Rechtsverhältnis zwischen dem Berechtigten und dem
 Verpflichteten bestimmt sich nach den Vorschriften der §§ 463 bis 473.
@@ -24996,6 +26565,7 @@ entsprechend.
 
 
 #### § 1099 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113603377)
 
 (1) Gelangt das Grundstück in das Eigentum eines Dritten, so kann
 dieser in gleicher Weise wie der Verpflichtete dem Berechtigten den
@@ -25008,6 +26578,7 @@ ist.
 
 
 #### § 1100 Rechte des Käufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113702377)
 
 Der neue Eigentümer kann, wenn er der Käufer oder ein Rechtsnachfolger
 des Käufers ist, die Zustimmung zur Eintragung des Berechtigten als
@@ -25020,6 +26591,7 @@ Grundstücks fordern.
 
 
 #### § 1101 Befreiung des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113802377)
 
 Soweit der Berechtigte nach § 1100 dem Käufer oder dessen
 Rechtsnachfolger den Kaufpreis zu erstatten hat, wird er von der
@@ -25028,6 +26600,7 @@ frei.
 
 
 #### § 1102 Befreiung des Käufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE113902377)
 
 Verliert der Käufer oder sein Rechtsnachfolger infolge der
 Geltendmachung des Vorkaufsrechts das Eigentum, so wird der Käufer,
@@ -25037,6 +26610,7 @@ nicht zurückfordern.
 
 
 #### § 1103 Subjektiv-dingliches und subjektiv-persönliches Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114002377)
 
 (1) Ein zugunsten des jeweiligen Eigentümers eines Grundstücks
 bestehendes Vorkaufsrecht kann nicht von dem Eigentum an diesem
@@ -25047,6 +26621,7 @@ kann nicht mit dem Eigentum an einem Grundstück verbunden werden.
 
 
 #### § 1104 Ausschluss unbekannter Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114103140)
 
 (1) Ist der Berechtigte unbekannt, so kann er im Wege des
 Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn die
@@ -25059,10 +26634,12 @@ eines Grundstücks besteht, finden diese Vorschriften keine Anwendung.
 
 
 ### Abschnitt 6 - Reallasten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010102377)
 
 
 
 #### § 1105 Gesetzlicher Inhalt der Reallast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114203377)
 
 (1) Ein Grundstück kann in der Weise belastet werden, dass an
 denjenigen, zu dessen Gunsten die Belastung erfolgt, wiederkehrende
@@ -25078,18 +26655,21 @@ anderen Grundstücks bestellt werden.
 
 
 #### § 1106 Belastung eines Bruchteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114302377)
 
 Ein Bruchteil eines Grundstücks kann mit einer Reallast nur belastet
 werden, wenn er in dem Anteil eines Miteigentümers besteht.
 
 
 #### § 1107 Einzelleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114402377)
 
 Auf die einzelnen Leistungen finden die für die Zinsen einer
 Hypothekenforderung geltenden Vorschriften entsprechende Anwendung.
 
 
 #### § 1108 Persönliche Haftung des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114502377)
 
 (1) Der Eigentümer haftet für die während der Dauer seines Eigentums
 fällig werdenden Leistungen auch persönlich, soweit nicht ein anderes
@@ -25100,6 +26680,7 @@ einzelnen Teile als Gesamtschuldner.
 
 
 #### § 1109 Teilung des herrschenden Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114602377)
 
 (1) Wird das Grundstück des Berechtigten geteilt, so besteht die
 Reallast für die einzelnen Teile fort. Ist die Leistung teilbar, so
@@ -25122,6 +26703,7 @@ sie mit diesem Teil allein verbunden.
 
 
 #### § 1110 Subjektiv-dingliche Reallast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114702377)
 
 Eine zugunsten des jeweiligen Eigentümers eines Grundstücks bestehende
 Reallast kann nicht von dem Eigentum an diesem Grundstück getrennt
@@ -25129,6 +26711,7 @@ werden.
 
 
 #### § 1111 Subjektiv-persönliche Reallast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114802377)
 
 (1) Eine zugunsten einer bestimmten Person bestehende Reallast kann
 nicht mit dem Eigentum an einem Grundstück verbunden werden.
@@ -25138,20 +26721,24 @@ kann das Recht nicht veräußert oder belastet werden.
 
 
 #### § 1112 Ausschluss unbekannter Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE114902377)
 
 Ist der Berechtigte unbekannt, so findet auf die Ausschließung seines
 Rechts die Vorschrift des § 1104 entsprechende Anwendung.
 
 
 ### Abschnitt 7 - Hypothek, Grundschuld, Rentenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010202377)
 
 
 
 #### Titel 1 - Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010302377)
 
 
 
 ##### § 1113 Gesetzlicher Inhalt der Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115002377)
 
 (1) Ein Grundstück kann in der Weise belastet werden, dass an
 denjenigen, zu dessen Gunsten die Belastung erfolgt, eine bestimmte
@@ -25163,6 +26750,7 @@ Forderung bestellt werden.
 
 
 ##### § 1114 Belastung eines Bruchteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115103377)
 
 Ein Bruchteil eines Grundstücks kann außer in den in § 3 Abs. 6 der
 Grundbuchordnung bezeichneten Fällen mit einer Hypothek nur belastet
@@ -25170,6 +26758,7 @@ werden, wenn er in dem Anteil eines Miteigentümers besteht.
 
 
 ##### § 1115 Eintragung der Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115202377)
 
 (1) Bei der Eintragung der Hypothek müssen der Gläubiger, der
 Geldbetrag der Forderung und, wenn die Forderung verzinslich ist, der
@@ -25186,6 +26775,7 @@ auf die Satzung.
 
 
 ##### § 1116 Brief- und Buchhypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115302377)
 
 (1) Über die Hypothek wird ein Hypothekenbrief erteilt.
 
@@ -25200,6 +26790,7 @@ werden; die Aufhebung erfolgt in gleicher Weise wie die Ausschließung.
 
 
 ##### § 1117 Erwerb der Briefhypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115402377)
 
 (1) Der Gläubiger erwirbt, sofern nicht die Erteilung des
 Hypothekenbriefs ausgeschlossen ist, die Hypothek erst, wenn ihm der
@@ -25216,6 +26807,7 @@ die Übergabe erfolgt sei.
 
 
 ##### § 1118 Haftung für Nebenforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115502377)
 
 Kraft der Hypothek haftet das Grundstück auch für die gesetzlichen
 Zinsen der Forderung sowie für die Kosten der Kündigung und der die
@@ -25223,6 +26815,7 @@ Befriedigung aus dem Grundstück bezweckenden Rechtsverfolgung.
 
 
 ##### § 1119 Erweiterung der Haftung für Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115602377)
 
 (1) Ist die Forderung unverzinslich oder ist der Zinssatz niedriger
 als fünf vom Hundert, so kann die Hypothek ohne Zustimmung der im
@@ -25234,6 +26827,7 @@ Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.
 
 
 ##### § 1120 Erstreckung auf Erzeugnisse, Bestandteile und Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115702377)
 
 Die Hypothek erstreckt sich auf die von dem Grundstück getrennten
 Erzeugnisse und sonstigen Bestandteile, soweit sie nicht mit der
@@ -25245,6 +26839,7 @@ sind.
 
 
 ##### § 1121 Enthaftung durch Veräußerung und Entfernung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115802377)
 
 (1) Erzeugnisse und sonstige Bestandteile des Grundstücks sowie
 Zubehörstücke werden von der Haftung frei, wenn sie veräußert und von
@@ -25260,6 +26855,7 @@ Entfernung in Ansehung der Beschlagnahme nicht in gutem Glauben ist.
 
 
 ##### § 1122 Enthaftung ohne Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE115902377)
 
 (1) Sind die Erzeugnisse oder Bestandteile innerhalb der Grenzen einer
 ordnungsmäßigen Wirtschaft von dem Grundstück getrennt worden, so
@@ -25273,6 +26869,7 @@ Wirtschaft vor der Beschlagnahme aufgehoben wird.
 
 
 ##### § 1123 Erstreckung auf Miet- oder Pachtforderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116003377)
 
 (1) Ist das Grundstück vermietet oder verpachtet, so erstreckt sich
 die Hypothek auf die Miet- oder Pachtforderung.
@@ -25289,6 +26886,7 @@ den folgenden Kalendermonat.
 
 
 ##### § 1124 Vorausverfügung über Miete oder Pacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116103377)
 
 (1) Wird die Miete oder Pacht eingezogen, bevor sie zugunsten des
 Hypothekengläubigers in Beschlag genommen worden ist, oder wird vor
@@ -25310,6 +26908,7 @@ wenn das Grundstück ohne die Forderung veräußert wird.
 
 
 ##### § 1125 Aufrechnung gegen Miete oder Pacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116203377)
 
 Soweit die Einziehung der Miete oder Pacht dem Hypothekengläubiger
 gegenüber unwirksam ist, kann der Mieter oder der Pächter nicht eine
@@ -25318,6 +26917,7 @@ den Hypothekengläubiger aufrechnen.
 
 
 ##### § 1126 Erstreckung auf wiederkehrende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116302377)
 
 Ist mit dem Eigentum an dem Grundstück ein Recht auf wiederkehrende
 Leistungen verbunden, so erstreckt sich die Hypothek auf die Ansprüche
@@ -25329,6 +26929,7 @@ dem Hypothekengläubiger gegenüber unwirksam.
 
 
 ##### § 1127 Erstreckung auf die Versicherungsforderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116402377)
 
 (1) Sind Gegenstände, die der Hypothek unterliegen, für den Eigentümer
 oder den Eigenbesitzer des Grundstücks unter Versicherung gebracht, so
@@ -25340,6 +26941,7 @@ ist.
 
 
 ##### § 1128 Gebäudeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116502377)
 
 (1) Ist ein Gebäude versichert, so kann der Versicherer die
 Versicherungssumme mit Wirkung gegen den Hypothekengläubiger an den
@@ -25363,6 +26965,7 @@ gekannt habe.
 
 
 ##### § 1129 Sonstige Schadensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116602377)
 
 Ist ein anderer Gegenstand als ein Gebäude versichert, so bestimmt
 sich die Haftung der Forderung gegen den Versicherer nach den
@@ -25370,6 +26973,7 @@ Vorschriften des § 1123 Abs. 2 Satz 1 und des § 1124 Abs. 1, 3.
 
 
 ##### § 1130 Wiederherstellungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116702377)
 
 Ist der Versicherer nach den Versicherungsbestimmungen nur
 verpflichtet, die Versicherungssumme zur Wiederherstellung des
@@ -25379,6 +26983,7 @@ gegenüber wirksam.
 
 
 ##### § 1131 Zuschreibung eines Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116802377)
 
 Wird ein Grundstück nach § 890 Abs. 2 einem anderen Grundstück im
 Grundbuch zugeschrieben, so erstrecken sich die an diesem Grundstück
@@ -25388,6 +26993,7 @@ Hypotheken im Range vor.
 
 
 ##### § 1132 Gesamthypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE116902377)
 
 (1) Besteht für die Forderung eine Hypothek an mehreren Grundstücken
 (Gesamthypothek), so haftet jedes Grundstück für die ganze Forderung.
@@ -25401,6 +27007,7 @@ Vorschriften der §§ 875, 876, 878 entsprechende Anwendung.
 
 
 ##### § 1133 Gefährdung der Sicherheit der Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117002377)
 
 Ist infolge einer Verschlechterung des Grundstücks die Sicherheit der
 Hypothek gefährdet, so kann der Gläubiger dem Eigentümer eine
@@ -25415,6 +27022,7 @@ dem Betrag der Forderung gleichkommt.
 
 
 ##### § 1134 Unterlassungsklage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117102377)
 
 (1) Wirkt der Eigentümer oder ein Dritter auf das Grundstück in
 solcher Weise ein, dass eine die Sicherheit der Hypothek gefährdende
@@ -25430,6 +27038,7 @@ Beschädigungen unterlässt.
 
 
 ##### § 1135 Verschlechterung des Zubehörs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117202377)
 
 Einer Verschlechterung des Grundstücks im Sinne der §§ 1133, 1134
 steht es gleich, wenn Zubehörstücke, auf die sich die Hypothek
@@ -25438,6 +27047,7 @@ Wirtschaft zuwider von dem Grundstück entfernt werden.
 
 
 ##### § 1136 Rechtsgeschäftliche Verfügungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117302377)
 
 Eine Vereinbarung, durch die sich der Eigentümer dem Gläubiger
 gegenüber verpflichtet, das Grundstück nicht zu veräußern oder nicht
@@ -25445,6 +27055,7 @@ weiter zu belasten, ist nichtig.
 
 
 ##### § 1137 Einreden des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117402377)
 
 (1) Der Eigentümer kann gegen die Hypothek die dem persönlichen
 Schuldner gegen die Forderung sowie die nach § 770 einem Bürgen
@@ -25457,6 +27068,7 @@ eine Einrede nicht dadurch, dass dieser auf sie verzichtet.
 
 
 ##### § 1138 Öffentlicher Glaube des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117502377)
 
 Die Vorschriften der §§ 891 bis 899 gelten für die Hypothek auch in
 Ansehung der Forderung und der dem Eigentümer nach § 1137 zustehenden
@@ -25464,6 +27076,7 @@ Einreden.
 
 
 ##### § 1139 Widerspruch bei Darlehensbuchhypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117602377)
 
 Ist bei der Bestellung einer Hypothek für ein Darlehen die Erteilung
 des Hypothekenbriefs ausgeschlossen worden, so genügt zur Eintragung
@@ -25477,6 +27090,7 @@ wäre.
 
 
 ##### § 1140 Hypothekenbrief und Unrichtigkeit des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117702377)
 
 Soweit die Unrichtigkeit des Grundbuchs aus dem Hypothekenbrief oder
 einem Vermerk auf dem Brief hervorgeht, ist die Berufung auf die
@@ -25487,6 +27101,7 @@ Widerspruch gleich.
 
 
 ##### § 1141 Kündigung der Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117802377)
 
 (1) Hängt die Fälligkeit der Forderung von einer Kündigung ab, so ist
 die Kündigung für die Hypothek nur wirksam, wenn sie von dem Gläubiger
@@ -25502,6 +27117,7 @@ Gläubigers erfolgen kann.
 
 
 ##### § 1142 Befriedigungsrecht des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE117902377)
 
 (1) Der Eigentümer ist berechtigt, den Gläubiger zu befriedigen, wenn
 die Forderung ihm gegenüber fällig geworden oder wenn der persönliche
@@ -25512,6 +27128,7 @@ Aufrechnung erfolgen.
 
 
 ##### § 1143 Übergang der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118002377)
 
 (1) Ist der Eigentümer nicht der persönliche Schuldner, so geht,
 soweit er den Gläubiger befriedigt, die Forderung auf ihn über. Die
@@ -25523,6 +27140,7 @@ die Vorschrift des § 1173.
 
 
 ##### § 1144 Aushändigung der Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118102377)
 
 Der Eigentümer kann gegen Befriedigung des Gläubigers die Aushändigung
 des Hypothekenbriefs und der sonstigen Urkunden verlangen, die zur
@@ -25531,6 +27149,7 @@ erforderlich sind.
 
 
 ##### § 1145 Teilweise Befriedigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118202377)
 
 (1) Befriedigt der Eigentümer den Gläubiger nur teilweise, so kann er
 die Aushändigung des Hypothekenbriefs nicht verlangen. Der Gläubiger
@@ -25548,6 +27167,7 @@ Vierteljahr fällig werden. Auf Kosten, für die das Grundstück nach §
 
 
 ##### § 1146 Verzugszinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118302377)
 
 Liegen dem Eigentümer gegenüber die Voraussetzungen vor, unter denen
 ein Schuldner in Verzug kommt, so gebühren dem Gläubiger Verzugszinsen
@@ -25555,6 +27175,7 @@ aus dem Grundstück.
 
 
 ##### § 1147 Befriedigung durch Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118402377)
 
 Die Befriedigung des Gläubigers aus dem Grundstück und den
 Gegenständen, auf die sich die Hypothek erstreckt, erfolgt im Wege der
@@ -25562,6 +27183,7 @@ Zwangsvollstreckung.
 
 
 ##### § 1148 Eigentumsfiktion
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118502377)
 
 Bei der Verfolgung des Rechts aus der Hypothek gilt zugunsten des
 Gläubigers derjenige, welcher im Grundbuch als Eigentümer eingetragen
@@ -25571,6 +27193,7 @@ geltend zu machen, bleibt unberührt.
 
 
 ##### § 1149 Unzulässige Befriedigungsabreden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118602377)
 
 Der Eigentümer kann, solange nicht die Forderung ihm gegenüber fällig
 geworden ist, dem Gläubiger nicht das Recht einräumen, zum Zwecke der
@@ -25580,12 +27203,14 @@ Wege der Zwangsvollstreckung zu bewirken.
 
 
 ##### § 1150 Ablösungsrecht Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118702377)
 
 Verlangt der Gläubiger Befriedigung aus dem Grundstück, so finden die
 Vorschriften der §§ 268, 1144, 1145 entsprechende Anwendung.
 
 
 ##### § 1151 Rangänderung bei Teilhypotheken
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118802377)
 
 Wird die Forderung geteilt, so ist zur Änderung des Rangverhältnisses
 der Teilhypotheken untereinander die Zustimmung des Eigentümers nicht
@@ -25593,6 +27218,7 @@ erforderlich.
 
 
 ##### § 1152 Teilhypothekenbrief
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE118902377)
 
 Im Falle einer Teilung der Forderung kann, sofern nicht die Erteilung
 des Hypothekenbriefs ausgeschlossen ist, für jeden Teil ein
@@ -25603,6 +27229,7 @@ Briefes.
 
 
 ##### § 1153 Übertragung von Hypothek und Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119002377)
 
 (1) Mit der Übertragung der Forderung geht die Hypothek auf den neuen
 Gläubiger über.
@@ -25612,6 +27239,7 @@ nicht ohne die Forderung übertragen werden.
 
 
 ##### § 1154 Abtretung der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119102377)
 
 (1) Zur Abtretung der Forderung ist Erteilung der Abtretungserklärung
 in schriftlicher Form und Übergabe des Hypothekenbriefs erforderlich;
@@ -25628,6 +27256,7 @@ entsprechende Anwendung.
 
 
 ##### § 1155 Öffentlicher Glaube beglaubigter Abtretungserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119202377)
 
 Ergibt sich das Gläubigerrecht des Besitzers des Hypothekenbriefs aus
 einer zusammenhängenden, auf einen eingetragenen Gläubiger
@@ -25641,6 +27270,7 @@ einer kraft Gesetzes erfolgten Übertragung der Forderung.
 
 
 ##### § 1156 Rechtsverhältnis zwischen Eigentümer und neuem Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119302377)
 
 Die für die Übertragung der Forderung geltenden Vorschriften der §§
 406 bis 408 finden auf das Rechtsverhältnis zwischen dem Eigentümer
@@ -25652,6 +27282,7 @@ bekannt oder im Grundbuch eingetragen ist.
 
 
 ##### § 1157 Fortbestehen der Einreden gegen die Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119402377)
 
 Eine Einrede, die dem Eigentümer auf Grund eines zwischen ihm und dem
 bisherigen Gläubiger bestehenden Rechtsverhältnisses gegen die
@@ -25661,6 +27292,7 @@ diese Einrede.
 
 
 ##### § 1158 Künftige Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119502377)
 
 Soweit die Forderung auf Zinsen oder andere Nebenleistungen gerichtet
 ist, die nicht später als in dem Kalendervierteljahr, in welchem der
@@ -25673,6 +27305,7 @@ nicht auf die Vorschriften des § 892 berufen.
 
 
 ##### § 1159 Rückständige Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119602377)
 
 (1) Soweit die Forderung auf Rückstände von Zinsen oder anderen
 Nebenleistungen gerichtet ist, bestimmt sich die Übertragung sowie das
@@ -25686,6 +27319,7 @@ Ansprüche keine Anwendung.
 
 
 ##### § 1160 Geltendmachung der Briefhypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119702377)
 
 (1) Der Geltendmachung der Hypothek kann, sofern nicht die Erteilung
 des Hypothekenbriefs ausgeschlossen ist, widersprochen werden, wenn
@@ -25703,18 +27337,21 @@ Ansprüche.
 
 
 ##### § 1161 Geltendmachung der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119802377)
 
 Ist der Eigentümer der persönliche Schuldner, so findet die Vorschrift
 des § 1160 auch auf die Geltendmachung der Forderung Anwendung.
 
 
 ##### § 1162 Aufgebot des Hypothekenbriefs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE119902377)
 
 Ist der Hypothekenbrief abhanden gekommen oder vernichtet, so kann er
 im Wege des Aufgebotsverfahrens für kraftlos erklärt werden.
 
 
 ##### § 1163 Eigentümerhypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120002377)
 
 (1) Ist die Forderung, für welche die Hypothek bestellt ist, nicht zur
 Entstehung gelangt, so steht die Hypothek dem Eigentümer zu. Erlischt
@@ -25726,6 +27363,7 @@ Gläubiger dem Eigentümer zu.
 
 
 ##### § 1164 Übergang der Hypothek auf den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120102377)
 
 (1) Befriedigt der persönliche Schuldner den Gläubiger, so geht die
 Hypothek insoweit auf ihn über, als er von dem Eigentümer oder einem
@@ -25739,6 +27377,7 @@ Forderung und Schuld in einer Person vereinigen.
 
 
 ##### § 1165 Freiwerden des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120202377)
 
 Verzichtet der Gläubiger auf die Hypothek oder hebt er sie nach § 1183
 auf oder räumt er einem anderen Recht den Vorrang ein, so wird der
@@ -25747,6 +27386,7 @@ persönliche Schuldner insoweit frei, als er ohne diese Verfügung nach
 
 
 ##### § 1166 Benachrichtigung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120302377)
 
 Ist der persönliche Schuldner berechtigt, von dem Eigentümer Ersatz zu
 verlangen, falls er den Gläubiger befriedigt, so kann er, wenn der
@@ -25758,6 +27398,7 @@ Die Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
 
 ##### § 1167 Aushändigung der Berichtigungsurkunden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120402377)
 
 Erwirbt der persönliche Schuldner, falls er den Gläubiger befriedigt,
 die Hypothek oder hat er im Falle der Befriedigung ein sonstiges
@@ -25766,6 +27407,7 @@ ihm die in den §§ 1144, 1145 bestimmten Rechte zu.
 
 
 ##### § 1168 Verzicht auf die Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120502377)
 
 (1) Verzichtet der Gläubiger auf die Hypothek, so erwirbt sie der
 Eigentümer.
@@ -25779,6 +27421,7 @@ Hypothek, so stehen dem Eigentümer die im § 1145 bestimmten Rechte zu.
 
 
 ##### § 1169 Rechtszerstörende Einrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120602377)
 
 Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung
 der Hypothek dauernd ausgeschlossen wird, so kann er verlangen, dass
@@ -25786,6 +27429,7 @@ der Gläubiger auf die Hypothek verzichtet.
 
 
 ##### § 1170 Ausschluss unbekannter Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120703140)
 
 (1) Ist der Gläubiger unbekannt, so kann er im Wege des
 Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit
@@ -25803,6 +27447,7 @@ wird kraftlos.
 
 
 ##### § 1171 Ausschluss durch Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120803140)
 
 (1) Der unbekannte Gläubiger kann im Wege des Aufgebotsverfahrens mit
 seinem Recht auch dann ausgeschlossen werden, wenn der Eigentümer zur
@@ -25826,6 +27471,7 @@ berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
 
 
 ##### § 1172 Eigentümergesamthypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE120902377)
 
 (1) Eine Gesamthypothek steht in den Fällen des § 1163 den Eigentümern
 der belasteten Grundstücke gemeinschaftlich zu.
@@ -25839,6 +27485,7 @@ der Belastungen berechnet, die der Gesamthypothek im Range vorgehen.
 
 
 ##### § 1173 Befriedigung durch einen der Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121002377)
 
 (1) Befriedigt der Eigentümer eines der mit einer Gesamthypothek
 belasteten Grundstücke den Gläubiger, so erwirbt er die Hypothek an
@@ -25856,6 +27503,7 @@ Gesamthypothek.
 
 
 ##### § 1174 Befriedigung durch den persönlichen Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121102377)
 
 (1) Befriedigt der persönliche Schuldner den Gläubiger, dem eine
 Gesamthypothek zusteht, oder vereinigen sich bei einer Gesamthypothek
@@ -25872,6 +27520,7 @@ Eigentümer diesen Betrag auf den ihm nach § 1172 gebührenden Teil des
 
 
 ##### § 1175 Verzicht auf die Gesamthypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121202377)
 
 (1) Verzichtet der Gläubiger auf die Gesamthypothek, so fällt sie den
 Eigentümern der belasteten Grundstücke gemeinschaftlich zu; die
@@ -25884,6 +27533,7 @@ ausgeschlossen wird.
 
 
 ##### § 1176 Eigentümerteilhypothek; Kollisionsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121302377)
 
 Liegen die Voraussetzungen der §§ 1163, 1164, 1168, 1172 bis 1175 nur
 in Ansehung eines Teilbetrags der Hypothek vor, so kann die auf Grund
@@ -25893,6 +27543,7 @@ Gläubiger verbleibenden Hypothek geltend gemacht werden.
 
 
 ##### § 1177 Eigentümergrundschuld, Eigentümerhypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121402377)
 
 (1) Vereinigt sich die Hypothek mit dem Eigentum in einer Person, ohne
 dass dem Eigentümer auch die Forderung zusteht, so verwandelt sich die
@@ -25906,6 +27557,7 @@ den für eine Grundschuld des Eigentümers geltenden Vorschriften.
 
 
 ##### § 1178 Hypothek für Nebenleistungen und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121502377)
 
 (1) Die Hypothek für Rückstände von Zinsen und anderen Nebenleistungen
 sowie für Kosten, die dem Gläubiger zu erstatten sind, erlischt, wenn
@@ -25922,6 +27574,7 @@ sie erfolgt; sie ist unwiderruflich.
 
 
 ##### § 1179 Löschungsvormerkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121602377)
 
 Verpflichtet sich der Eigentümer einem anderen gegenüber, die Hypothek
 löschen zu lassen, wenn sie sich mit dem Eigentum in einer Person
@@ -25942,6 +27595,7 @@ dessen Gunsten die Eintragung vorgenommen werden soll,
 
 
 ##### § 1179a Löschungsanspruch bei fremden Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121702377)
 
 (1) Der Gläubiger einer Hypothek kann von dem Eigentümer verlangen,
 dass dieser eine vorrangige oder gleichrangige Hypothek löschen lässt,
@@ -25989,6 +27643,7 @@ Vereinigungen, die nur vor dieser Aufhebung bestanden haben.
 
 
 ##### § 1179b Löschungsanspruch bei eigenem Recht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121802377)
 
 (1) Wer als Gläubiger einer Hypothek im Grundbuch eingetragen oder
 nach Maßgabe des § 1155 als Gläubiger ausgewiesen ist, kann von dem
@@ -26000,6 +27655,7 @@ ist oder eine solche Vereinigung später eintritt.
 
 
 ##### § 1180 Auswechslung der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE121902377)
 
 (1) An die Stelle der Forderung, für welche die Hypothek besteht, kann
 eine andere Forderung gesetzt werden. Zu der Änderung ist die Einigung
@@ -26016,6 +27672,7 @@ Anwendung.
 
 
 ##### § 1181 Erlöschen durch Befriedigung aus dem Grundstück
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122002377)
 
 (1) Wird der Gläubiger aus dem Grundstück befriedigt, so erlischt die
 Hypothek.
@@ -26029,6 +27686,7 @@ Gegenständen gleich, auf die sich die Hypothek erstreckt.
 
 
 ##### § 1182 Übergang bei Befriedigung aus der Gesamthypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122102377)
 
 Soweit im Falle einer Gesamthypothek der Eigentümer des Grundstücks,
 aus dem der Gläubiger befriedigt wird, von dem Eigentümer eines der
@@ -26042,6 +27700,7 @@ dieses Rechts geltend gemacht werden.
 
 
 ##### § 1183 Aufhebung der Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122202377)
 
 Zur Aufhebung der Hypothek durch Rechtsgeschäft ist die Zustimmung des
 Eigentümers erforderlich. Die Zustimmung ist dem Grundbuchamt oder dem
@@ -26049,6 +27708,7 @@ Gläubiger gegenüber zu erklären; sie ist unwiderruflich.
 
 
 ##### § 1184 Sicherungshypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122302377)
 
 (1) Eine Hypothek kann in der Weise bestellt werden, dass das Recht
 des Gläubigers aus der Hypothek sich nur nach der Forderung bestimmt
@@ -26060,6 +27720,7 @@ werden.
 
 
 ##### § 1185 Buchhypothek; unanwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122402377)
 
 (1) Bei der Sicherungshypothek ist die Erteilung des Hypothekenbriefs
 ausgeschlossen.
@@ -26069,6 +27730,7 @@ Anwendung.
 
 
 ##### § 1186 Zulässige Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122502377)
 
 Eine Sicherungshypothek kann in eine gewöhnliche Hypothek, eine
 gewöhnliche Hypothek kann in eine Sicherungshypothek umgewandelt
@@ -26077,6 +27739,7 @@ Berechtigten ist nicht erforderlich.
 
 
 ##### § 1187 Sicherungshypothek für Inhaber- und Orderpapiere
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122602377)
 
 Für die Forderung aus einer Schuldverschreibung auf den Inhaber, aus
 einem Wechsel oder aus einem anderen Papier, das durch Indossament
@@ -26088,6 +27751,7 @@ nach den §§ 1179a, 1179b besteht nicht.
 
 
 ##### § 1188 Sondervorschrift für Schuldverschreibungen auf den Inhaber
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122702377)
 
 (1) Zur Bestellung einer Hypothek für die Forderung aus einer
 Schuldverschreibung auf den Inhaber genügt die Erklärung des
@@ -26104,6 +27768,7 @@ Verjährung eingetreten ist.
 
 
 ##### § 1189 Bestellung eines Grundbuchvertreters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122802377)
 
 (1) Bei einer Hypothek der im § 1187 bezeichneten Art kann für den
 jeweiligen Gläubiger ein Vertreter mit der Befugnis bestellt werden,
@@ -26118,6 +27783,7 @@ Vornahme der Verfügung von dem Vertreter verlangen.
 
 
 ##### § 1190 Höchstbetragshypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE122902377)
 
 (1) Eine Hypothek kann in der Weise bestellt werden, dass nur der
 Höchstbetrag, bis zu dem das Grundstück haften soll, bestimmt, im
@@ -26137,14 +27803,17 @@ ausgeschlossen.
 
 
 #### Titel 2 - Grundschuld, Rentenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010402377)
 
 
 
 ##### Untertitel 1 - Grundschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010502377)
 
 
 
 ###### § 1191 Gesetzlicher Inhalt der Grundschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123002377)
 
 (1) Ein Grundstück kann in der Weise belastet werden, dass an
 denjenigen, zu dessen Gunsten die Belastung erfolgt, eine bestimmte
@@ -26156,6 +27825,7 @@ entrichten sind.
 
 
 ###### § 1192 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123103140)
 
 (1) Auf die Grundschuld finden die Vorschriften über die Hypothek
 entsprechende Anwendung, soweit sich nicht daraus ein anderes ergibt,
@@ -26174,6 +27844,7 @@ einer Hypothekenforderung.
 
 
 ###### § 1193 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123203140)
 
 (1) Das Kapital der Grundschuld wird erst nach vorgängiger Kündigung
 fällig. Die Kündigung steht sowohl dem Eigentümer als dem Gläubiger
@@ -26185,6 +27856,7 @@ Bestimmung nicht zulässig.
 
 
 ###### § 1194 Zahlungsort
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123302377)
 
 Die Zahlung des Kapitals sowie der Zinsen und anderen Nebenleistungen
 hat, soweit nicht ein anderes bestimmt ist, an dem Orte zu erfolgen,
@@ -26192,6 +27864,7 @@ an dem das Grundbuchamt seinen Sitz hat.
 
 
 ###### § 1195 Inhabergrundschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123402377)
 
 Eine Grundschuld kann in der Weise bestellt werden, dass der
 Grundschuldbrief auf den Inhaber ausgestellt wird. Auf einen solchen
@@ -26200,6 +27873,7 @@ Inhaber entsprechende Anwendung.
 
 
 ###### § 1196 Eigentümergrundschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123502377)
 
 (1) Eine Grundschuld kann auch für den Eigentümer bestellt werden.
 
@@ -26215,6 +27889,7 @@ anderen als dem Eigentümer zugestanden hat.
 
 
 ###### § 1197 Abweichungen von der Fremdgrundschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123602377)
 
 (1) Ist der Eigentümer der Gläubiger, so kann er nicht die
 Zwangsvollstreckung zum Zwecke seiner Befriedigung betreiben.
@@ -26225,6 +27900,7 @@ ist, und nur für die Dauer der Zwangsverwaltung.
 
 
 ###### § 1198 Zulässige Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123702377)
 
 Eine Hypothek kann in eine Grundschuld, eine Grundschuld kann in eine
 Hypothek umgewandelt werden. Die Zustimmung der im Range gleich- oder
@@ -26232,10 +27908,12 @@ nachstehenden Berechtigten ist nicht erforderlich.
 
 
 ##### Untertitel 2 - Rentenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010602377)
 
 
 
 ###### § 1199 Gesetzlicher Inhalt der Rentenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123802377)
 
 (1) Eine Grundschuld kann in der Weise bestellt werden, dass in
 regelmäßig wiederkehrenden Terminen eine bestimmte Geldsumme aus dem
@@ -26247,6 +27925,7 @@ Die Ablösungssumme muss im Grundbuch angegeben werden.
 
 
 ###### § 1200 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE123902377)
 
 (1) Auf die einzelnen Leistungen finden die für Hypothekenzinsen, auf
 die Ablösungssumme finden die für ein Grundschuldkapital geltenden
@@ -26257,6 +27936,7 @@ Wirkung wie die Zahlung des Kapitals einer Grundschuld.
 
 
 ###### § 1201 Ablösungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124002377)
 
 (1) Das Recht zur Ablösung steht dem Eigentümer zu.
 
@@ -26267,6 +27947,7 @@ verlangen.
 
 
 ###### § 1202 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124102377)
 
 (1) Der Eigentümer kann das Ablösungsrecht erst nach vorgängiger
 Kündigung ausüben. Die Kündigungsfrist beträgt sechs Monate, wenn
@@ -26282,6 +27963,7 @@ Grundstück verlangen.
 
 
 ###### § 1203 Zulässige Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124202377)
 
 Eine Rentenschuld kann in eine gewöhnliche Grundschuld, eine
 gewöhnliche Grundschuld kann in eine Rentenschuld umgewandelt werden.
@@ -26290,14 +27972,17 @@ ist nicht erforderlich.
 
 
 ### Abschnitt 8 - Pfandrecht an beweglichen Sachen und an Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010702377)
 
 
 
 #### Titel 1 - Pfandrecht an beweglichen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010802377)
 
 
 
 ##### § 1204 Gesetzlicher Inhalt des Pfandrechts an beweglichen Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124302377)
 
 (1) Eine bewegliche Sache kann zur Sicherung einer Forderung in der
 Weise belastet werden, dass der Gläubiger berechtigt ist, Befriedigung
@@ -26308,6 +27993,7 @@ Forderung bestellt werden.
 
 
 ##### § 1205 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124402377)
 
 (1) Zur Bestellung des Pfandrechts ist erforderlich, dass der
 Eigentümer die Sache dem Gläubiger übergibt und beide darüber einig
@@ -26322,6 +28008,7 @@ Verpfändung dem Besitzer anzeigt.
 
 
 ##### § 1206 Übergabeersatz durch Einräumung des Mitbesitzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124502377)
 
 Anstelle der Übergabe der Sache genügt die Einräumung des Mitbesitzes,
 wenn sich die Sache unter dem Mitverschluss des Gläubigers befindet
@@ -26330,6 +28017,7 @@ Eigentümer und den Gläubiger gemeinschaftlich erfolgen kann.
 
 
 ##### § 1207 Verpfändung durch Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124602377)
 
 Gehört die Sache nicht dem Verpfänder, so finden auf die Verpfändung
 die für den Erwerb des Eigentums geltenden Vorschriften der §§ 932,
@@ -26337,6 +28025,7 @@ die für den Erwerb des Eigentums geltenden Vorschriften der §§ 932,
 
 
 ##### § 1208 Gutgläubiger Erwerb des Vorrangs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124702377)
 
 Ist die Sache mit dem Recht eines Dritten belastet, so geht das
 Pfandrecht dem Recht vor, es sei denn, dass der Pfandgläubiger zur
@@ -26346,6 +28035,7 @@ des § 936 Abs. 3 finden entsprechende Anwendung.
 
 
 ##### § 1209 Rang des Pfandrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124802377)
 
 Für den Rang des Pfandrechts ist die Zeit der Bestellung auch dann
 maßgebend, wenn es für eine künftige oder eine bedingte Forderung
@@ -26353,6 +28043,7 @@ bestellt ist.
 
 
 ##### § 1210 Umfang der Haftung des Pfandes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE124902377)
 
 (1) Das Pfand haftet für die Forderung in deren jeweiligem Bestand,
 insbesondere auch für Zinsen und Vertragsstrafen. Ist der persönliche
@@ -26367,6 +28058,7 @@ Pfandverkaufs.
 
 
 ##### § 1211 Einreden des Verpfänders
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125002377)
 
 (1) Der Verpfänder kann dem Pfandgläubiger gegenüber die dem
 persönlichen Schuldner gegen die Forderung sowie die nach § 770 einem
@@ -26379,12 +28071,14 @@ eine Einrede nicht dadurch, dass dieser auf sie verzichtet.
 
 
 ##### § 1212 Erstreckung auf getrennte Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125102377)
 
 Das Pfandrecht erstreckt sich auf die Erzeugnisse, die von dem Pfande
 getrennt werden.
 
 
 ##### § 1213 Nutzungspfand
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125202377)
 
 (1) Das Pfandrecht kann in der Weise bestellt werden, dass der
 Pfandgläubiger berechtigt ist, die Nutzungen des Pfandes zu ziehen.
@@ -26395,6 +28089,7 @@ Pfandgläubiger zum Fruchtbezug berechtigt sein soll.
 
 
 ##### § 1214 Pflichten des nutzungsberechtigten Pfandgläubigers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125302377)
 
 (1) Steht dem Pfandgläubiger das Recht zu, die Nutzungen zu ziehen, so
 ist er verpflichtet, für die Gewinnung der Nutzungen zu sorgen und
@@ -26408,11 +28103,13 @@ angerechnet.
 
 
 ##### § 1215 Verwahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125402377)
 
 Der Pfandgläubiger ist zur Verwahrung des Pfandes verpflichtet.
 
 
 ##### § 1216 Ersatz von Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125502377)
 
 Macht der Pfandgläubiger Verwendungen auf das Pfand, so bestimmt sich
 die Ersatzpflicht des Verpfänders nach den Vorschriften über die
@@ -26421,6 +28118,7 @@ Einrichtung, mit der er das Pfand versehen hat, wegzunehmen.
 
 
 ##### § 1217 Rechtsverletzung durch den Pfandgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125602377)
 
 (1) Verletzt der Pfandgläubiger die Rechte des Verpfänders in
 erheblichem Maße und setzt er das verletzende Verhalten ungeachtet
@@ -26438,6 +28136,7 @@ Zahlung bis zur Fälligkeit dem Betrag der Forderung gleichkommt.
 
 
 ##### § 1218 Rechte des Verpfänders bei drohendem Verderb
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125702377)
 
 (1) Ist der Verderb des Pfandes oder eine wesentliche Minderung des
 Wertes zu besorgen, so kann der Verpfänder die Rückgabe des Pfandes
@@ -26450,6 +28149,7 @@ ist.
 
 
 ##### § 1219 Rechte des Pfandgläubigers bei drohendem Verderb
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125802377)
 
 (1) Wird durch den drohenden Verderb des Pfandes oder durch eine zu
 besorgende wesentliche Minderung des Wertes die Sicherheit des
@@ -26461,6 +28161,7 @@ Verpfänders ist der Erlös zu hinterlegen.
 
 
 ##### § 1220 Androhung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE125902377)
 
 (1) Die Versteigerung des Pfandes ist erst zulässig, nachdem sie dem
 Verpfänder angedroht worden ist; die Androhung darf unterbleiben, wenn
@@ -26479,6 +28180,7 @@ unterbleiben, wenn sie untunlich sind.
 
 
 ##### § 1221 Freihändiger Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126003360)
 
 Hat das Pfand einen Börsen- oder Marktpreis, so kann der
 Pfandgläubiger den Verkauf aus freier Hand durch einen zu solchen
@@ -26488,12 +28190,14 @@ bewirken.
 
 
 ##### § 1222 Pfandrecht an mehreren Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126102377)
 
 Besteht das Pfandrecht an mehreren Sachen, so haftet jede für die
 ganze Forderung.
 
 
 ##### § 1223 Rückgabepflicht; Einlösungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126202377)
 
 (1) Der Pfandgläubiger ist verpflichtet, das Pfand nach dem Erlöschen
 des Pfandrechts dem Verpfänder zurückzugeben.
@@ -26504,12 +28208,14 @@ berechtigt ist.
 
 
 ##### § 1224 Befriedigung durch Hinterlegung oder Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126302377)
 
 Die Befriedigung des Pfandgläubigers durch den Verpfänder kann auch
 durch Hinterlegung oder durch Aufrechnung erfolgen.
 
 
 ##### § 1225 Forderungsübergang auf den Verpfänder
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126402377)
 
 Ist der Verpfänder nicht der persönliche Schuldner, so geht, soweit er
 den Pfandgläubiger befriedigt, die Forderung auf ihn über. Die für
@@ -26518,6 +28224,7 @@ Anwendung.
 
 
 ##### § 1226 Verjährung der Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126503377)
 
 Die Ersatzansprüche des Verpfänders wegen Veränderungen oder
 Verschlechterungen des Pfandes sowie die Ansprüche des Pfandgläubigers
@@ -26527,6 +28234,7 @@ Einrichtung verjähren in sechs Monaten. Die Vorschrift des § 548 Abs.
 
 
 ##### § 1227 Schutz des Pfandrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126602377)
 
 Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf die
 Ansprüche des Pfandgläubigers die für die Ansprüche aus dem Eigentum
@@ -26534,6 +28242,7 @@ geltenden Vorschriften entsprechende Anwendung.
 
 
 ##### § 1228 Befriedigung durch Pfandverkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126702377)
 
 (1) Die Befriedigung des Pfandgläubigers aus dem Pfande erfolgt durch
 Verkauf.
@@ -26545,6 +28254,7 @@ Forderung in eine Geldforderung übergegangen ist.
 
 
 ##### § 1229 Verbot der Verfallvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126802377)
 
 Eine vor dem Eintritt der Verkaufsberechtigung getroffene
 Vereinbarung, nach welcher dem Pfandgläubiger, falls er nicht oder
@@ -26553,6 +28263,7 @@ oder übertragen werden soll, ist nichtig.
 
 
 ##### § 1230 Auswahl unter mehreren Pfändern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE126902377)
 
 Unter mehreren Pfändern kann der Pfandgläubiger, soweit nicht ein
 anderes bestimmt ist, diejenigen auswählen, welche verkauft werden
@@ -26561,6 +28272,7 @@ seiner Befriedigung erforderlich sind.
 
 
 ##### § 1231 Herausgabe des Pfandes zum Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127002377)
 
 Ist der Pfandgläubiger nicht im Alleinbesitz des Pfandes, so kann er
 nach dem Eintritt der Verkaufsberechtigung die Herausgabe des Pfandes
@@ -26571,6 +28283,7 @@ verpflichten, das Pfand zum Verkauf bereitzustellen.
 
 
 ##### § 1232 Nachstehende Pfandgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127102377)
 
 Der Pfandgläubiger ist nicht verpflichtet, einem ihm im Range
 nachstehenden Pfandgläubiger das Pfand zum Zwecke des Verkaufs
@@ -26580,6 +28293,7 @@ nachstehenden Pfandgläubiger nicht widersprechen.
 
 
 ##### § 1233 Ausführung des Verkaufs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127202377)
 
 (1) Der Verkauf des Pfandes ist nach den Vorschriften der §§ 1234 bis
 1240 zu bewirken.
@@ -26591,6 +28305,7 @@ geltenden Vorschriften bewirken lassen.
 
 
 ##### § 1234 Verkaufsandrohung; Wartefrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127302377)
 
 (1) Der Pfandgläubiger hat dem Eigentümer den Verkauf vorher
 anzudrohen und dabei den Geldbetrag zu bezeichnen, wegen dessen der
@@ -26604,6 +28319,7 @@ dem Eintritt der Verkaufsberechtigung an berechnet.
 
 
 ##### § 1235 Öffentliche Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127402377)
 
 (1) Der Verkauf des Pfandes ist im Wege öffentlicher Versteigerung zu
 bewirken.
@@ -26613,12 +28329,14 @@ Vorschrift des § 1221 Anwendung.
 
 
 ##### § 1236 Durchführung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127503125)
 
 Für die Durchführung der Versteigerung ist § 383 Absatz 2 Satz 2 und 3
 anzuwenden.
 
 
 ##### § 1237 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127603125)
 
 Für die öffentliche Bekanntmachung der Versteigerung ist § 383 Absatz
 3 anzuwenden. Der Eigentümer und Dritte, denen Rechte an dem Pfande
@@ -26627,6 +28345,7 @@ unterbleiben, wenn sie untunlich ist.
 
 
 ##### § 1238 Verkaufsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127703125)
 
 (1) Das Pfand darf nur mit der Bestimmung verkauft werden, dass der
 Käufer den Kaufpreis sofort zu entrichten hat und seiner Rechte
@@ -26641,6 +28360,7 @@ Rechtsverwirkung Gebrauch gemacht wird.
 
 
 ##### § 1239 Mitbieten durch Gläubiger und Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127803125)
 
 (1) Der Pfandgläubiger und der Eigentümer können bei der Versteigerung
 mitbieten. Erhält der Pfandgläubiger den Zuschlag, so ist der
@@ -26653,6 +28373,7 @@ haftet.
 
 
 ##### § 1240 Gold- und Silbersachen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE127902377)
 
 (1) Gold- und Silbersachen dürfen nicht unter dem Gold- oder
 Silberwert zugeschlagen werden.
@@ -26663,6 +28384,7 @@ Hand zu einem den Gold- oder Silberwert erreichenden Preis erfolgen.
 
 
 ##### § 1241 Benachrichtigung des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128002377)
 
 Der Pfandgläubiger hat den Eigentümer von dem Verkauf des Pfandes und
 dem Ergebnis unverzüglich zu benachrichtigen, sofern nicht die
@@ -26670,6 +28392,7 @@ Benachrichtigung untunlich ist.
 
 
 ##### § 1242 Wirkungen der rechtmäßigen Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128102377)
 
 (1) Durch die rechtmäßige Veräußerung des Pfandes erlangt der Erwerber
 die gleichen Rechte, wie wenn er die Sache von dem Eigentümer erworben
@@ -26682,6 +28405,7 @@ dass er allen Pfandrechten im Range vorgeht.
 
 
 ##### § 1243 Rechtswidrige Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128202377)
 
 (1) Die Veräußerung des Pfandes ist nicht rechtmäßig, wenn gegen die
 Vorschriften des § 1228 Abs. 2, des § 1230 Satz 2, des § 1235, des §
@@ -26693,6 +28417,7 @@ Verschulden zur Last fällt.
 
 
 ##### § 1244 Gutgläubiger Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128302377)
 
 Wird eine Sache als Pfand veräußert, ohne dass dem Veräußerer ein
 Pfandrecht zusteht oder den Erfordernissen genügt wird, von denen die
@@ -26703,6 +28428,7 @@ Rechtmäßigkeit der Veräußerung abhängt, so finden die Vorschriften der
 
 
 ##### § 1245 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128402377)
 
 (1) Der Eigentümer und der Pfandgläubiger können eine von den
 Vorschriften der §§ 1234 bis 1240 abweichende Art des Pfandverkaufs
@@ -26717,6 +28443,7 @@ verzichtet werden.
 
 
 ##### § 1246 Abweichung aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128502377)
 
 (1) Entspricht eine von den Vorschriften der §§ 1235 bis 1240
 abweichende Art des Pfandverkaufs nach billigem Ermessen den
@@ -26727,6 +28454,7 @@ der Verkauf in dieser Art erfolgt.
 
 
 ##### § 1247 Erlös aus dem Pfande
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128602377)
 
 Soweit der Erlös aus dem Pfande dem Pfandgläubiger zu seiner
 Befriedigung gebührt, gilt die Forderung als von dem Eigentümer
@@ -26734,6 +28462,7 @@ berichtigt. Im Übrigen tritt der Erlös an die Stelle des Pfandes.
 
 
 ##### § 1248 Eigentumsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128702377)
 
 Bei dem Verkauf des Pfandes gilt zugunsten des Pfandgläubigers der
 Verpfänder als der Eigentümer, es sei denn, dass der Pfandgläubiger
@@ -26741,6 +28470,7 @@ weiß, dass der Verpfänder nicht der Eigentümer ist.
 
 
 ##### § 1249 Ablösungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128802377)
 
 Wer durch die Veräußerung des Pfandes ein Recht an dem Pfande
 verlieren würde, kann den Pfandgläubiger befriedigen, sobald der
@@ -26749,6 +28479,7 @@ Schuldner zur Leistung berechtigt ist. Die Vorschrift des § 268 Abs.
 
 
 ##### § 1250 Übertragung der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE128902377)
 
 (1) Mit der Übertragung der Forderung geht das Pfandrecht auf den
 neuen Gläubiger über. Das Pfandrecht kann nicht ohne die Forderung
@@ -26759,6 +28490,7 @@ Pfandrechts ausgeschlossen, so erlischt das Pfandrecht.
 
 
 ##### § 1251 Wirkung des Pfandrechtsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129002377)
 
 (1) Der neue Pfandgläubiger kann von dem bisherigen Pfandgläubiger die
 Herausgabe des Pfandes verlangen.
@@ -26775,11 +28507,13 @@ gesetzlichen Verpflichtung abgetreten wird.
 
 
 ##### § 1252 Erlöschen mit der Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129102377)
 
 Das Pfandrecht erlischt mit der Forderung, für die es besteht.
 
 
 ##### § 1253 Erlöschen durch Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129202377)
 
 (1) Das Pfandrecht erlischt, wenn der Pfandgläubiger das Pfand dem
 Verpfänder oder dem Eigentümer zurückgibt. Der Vorbehalt der Fortdauer
@@ -26793,6 +28527,7 @@ Pfandrechts von dem Verpfänder oder dem Eigentümer erlangt hat.
 
 
 ##### § 1254 Anspruch auf Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129302377)
 
 Steht dem Pfandrecht eine Einrede entgegen, durch welche die
 Geltendmachung des Pfandrechts dauernd ausgeschlossen wird, so kann
@@ -26801,6 +28536,7 @@ hat der Eigentümer.
 
 
 ##### § 1255 Aufhebung des Pfandrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129402377)
 
 (1) Zur Aufhebung des Pfandrechts durch Rechtsgeschäft genügt die
 Erklärung des Pfandgläubigers gegenüber dem Verpfänder oder dem
@@ -26813,6 +28549,7 @@ unwiderruflich.
 
 
 ##### § 1256 Zusammentreffen von Pfandrecht und Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129502377)
 
 (1) Das Pfandrecht erlischt, wenn es mit dem Eigentum in derselben
 Person zusammentrifft. Das Erlöschen tritt nicht ein, solange die
@@ -26824,6 +28561,7 @@ rechtliches Interesse an dem Fortbestehen des Pfandrechts hat.
 
 
 ##### § 1257 Gesetzliches Pfandrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129602377)
 
 Die Vorschriften über das durch Rechtsgeschäft bestellte Pfandrecht
 finden auf ein kraft Gesetzes entstandenes Pfandrecht entsprechende
@@ -26831,6 +28569,7 @@ Anwendung.
 
 
 ##### § 1258 Pfandrecht am Anteil eines Miteigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129702377)
 
 (1) Besteht ein Pfandrecht an dem Anteil eines Miteigentümers, so übt
 der Pfandgläubiger die Rechte aus, die sich aus der Gemeinschaft der
@@ -26856,6 +28595,7 @@ unberührt.
 
 
 ##### § 1259 Verwertung des gewerblichen Pfandes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263600377)
 
 Sind Eigentümer und Pfandgläubiger Unternehmer, juristische Personen
 des öffentlichen Rechts oder öffentlich-rechtliche Sondervermögen,
@@ -26870,13 +28610,16 @@ Börsen- oder Marktpreises als von dem Eigentümer berichtigt. Die §§
 
 
 ##### (XXXX) §§ 1260 bis 1272 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129802377)
 
 
 
 #### Titel 2 - Pfandrecht an Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG010902377)
 
 
 ##### § 1273 Gesetzlicher Inhalt des Pfandrechts an Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE129902377)
 
 (1) Gegenstand des Pfandrechts kann auch ein Recht sein.
 
@@ -26887,6 +28630,7 @@ Vorschriften des § 1208 und des § 1213 Abs. 2 ist ausgeschlossen.
 
 
 ##### § 1274 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130002377)
 
 (1) Die Bestellung des Pfandrechts an einem Recht erfolgt nach den für
 die Übertragung des Rechts geltenden Vorschriften. Ist zur Übertragung
@@ -26898,6 +28642,7 @@ Recht nicht bestellt werden.
 
 
 ##### § 1275 Pfandrecht an Recht auf Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130102377)
 
 Ist ein Recht, kraft dessen eine Leistung gefordert werden kann,
 Gegenstand des Pfandrechts, so finden auf das Rechtsverhältnis
@@ -26909,6 +28654,7 @@ Vorschrift des § 1070 Abs. 2 entsprechende Anwendung.
 
 
 ##### § 1276 Aufhebung oder Änderung des verpfändeten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130202377)
 
 (1) Ein verpfändetes Recht kann durch Rechtsgeschäft nur mit
 Zustimmung des Pfandgläubigers aufgehoben werden. Die Zustimmung ist
@@ -26920,6 +28666,7 @@ das Pfandrecht beeinträchtigt.
 
 
 ##### § 1277 Befriedigung durch Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130302377)
 
 Der Pfandgläubiger kann seine Befriedigung aus dem Recht nur auf Grund
 eines vollstreckbaren Titels nach den für die Zwangsvollstreckung
@@ -26928,6 +28675,7 @@ Die Vorschriften des § 1229 und des § 1245 Abs. 2 bleiben unberührt.
 
 
 ##### § 1278 Erlöschen durch Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130402377)
 
 Ist ein Recht, zu dessen Verpfändung die Übergabe einer Sache
 erforderlich ist, Gegenstand des Pfandrechts, so findet auf das
@@ -26936,6 +28684,7 @@ des § 1253 entsprechende Anwendung.
 
 
 ##### § 1279 Pfandrecht an einer Forderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130503377)
 
 Für das Pfandrecht an einer Forderung gelten die besonderen
 Vorschriften der §§ 1280 bis 1290. Soweit eine Forderung einen Börsen-
@@ -26943,6 +28692,7 @@ oder Marktpreis hat, findet § 1259 entsprechende Anwendung.
 
 
 ##### § 1280 Anzeige an den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130602377)
 
 Die Verpfändung einer Forderung, zu deren Übertragung der
 Abtretungsvertrag genügt, ist nur wirksam, wenn der Gläubiger sie dem
@@ -26950,6 +28700,7 @@ Schuldner anzeigt.
 
 
 ##### § 1281 Leistung vor Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130702377)
 
 Der Schuldner kann nur an den Pfandgläubiger und den Gläubiger
 gemeinschaftlich leisten. Jeder von beiden kann verlangen, dass an sie
@@ -26960,6 +28711,7 @@ bestellenden Verwahrer abgeliefert wird.
 
 
 ##### § 1282 Leistung nach Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130802377)
 
 (1) Sind die Voraussetzungen des § 1228 Abs. 2 eingetreten, so ist der
 Pfandgläubiger zur Einziehung der Forderung berechtigt und kann der
@@ -26975,6 +28727,7 @@ nicht berechtigt; das Recht, die Befriedigung aus der Forderung nach §
 
 
 ##### § 1283 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE130902377)
 
 (1) Hängt die Fälligkeit der verpfändeten Forderung von einer
 Kündigung ab, so bedarf der Gläubiger zur Kündigung der Zustimmung des
@@ -26990,12 +28743,14 @@ des Schuldners genügt die Erklärung gegenüber dem Pfandgläubiger.
 
 
 ##### § 1284 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131002377)
 
 Die Vorschriften der §§ 1281 bis 1283 finden keine Anwendung, soweit
 der Pfandgläubiger und der Gläubiger ein anderes vereinbaren.
 
 
 ##### § 1285 Mitwirkung zur Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131102377)
 
 (1) Hat die Leistung an den Pfandgläubiger und den Gläubiger
 gemeinschaftlich zu erfolgen, so sind beide einander verpflichtet, zur
@@ -27009,6 +28764,7 @@ untunlich ist.
 
 
 ##### § 1286 Kündigungspflicht bei Gefährdung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131202377)
 
 Hängt die Fälligkeit der verpfändeten Forderung von einer Kündigung
 ab, so kann der Pfandgläubiger, sofern nicht das Kündigungsrecht ihm
@@ -27021,6 +28777,7 @@ erforderlich ist.
 
 
 ##### § 1287 Wirkung der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131302377)
 
 Leistet der Schuldner in Gemäßheit der §§ 1281, 1282, so erwirbt mit
 der Leistung der Gläubiger den geleisteten Gegenstand und der
@@ -27032,6 +28789,7 @@ erwirbt der Pfandgläubiger eine Schiffshypothek.
 
 
 ##### § 1288 Anlegung eingezogenen Geldes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131403360)
 
 (1) Wird eine Geldforderung in Gemäßheit des § 1281 eingezogen, so
 sind der Pfandgläubiger und der Gläubiger einander verpflichtet, dazu
@@ -27047,6 +28805,7 @@ seiner Befriedigung gebührt, als von dem Gläubiger berichtigt.
 
 
 ##### § 1289 Erstreckung auf die Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131502377)
 
 Das Pfandrecht an einer Forderung erstreckt sich auf die Zinsen der
 Forderung. Die Vorschriften des § 1123 Abs. 2 und der §§ 1124, 1125
@@ -27056,6 +28815,7 @@ Einziehungsrecht Gebrauch mache.
 
 
 ##### § 1290 Einziehung bei mehrfacher Verpfändung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131602377)
 
 Bestehen mehrere Pfandrechte an einer Forderung, so ist zur Einziehung
 nur derjenige Pfandgläubiger berechtigt, dessen Pfandrecht den übrigen
@@ -27063,12 +28823,14 @@ Pfandrechten vorgeht.
 
 
 ##### § 1291 Pfandrecht an Grund- oder Rentenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131702377)
 
 Die Vorschriften über das Pfandrecht an einer Forderung gelten auch
 für das Pfandrecht an einer Grundschuld und an einer Rentenschuld.
 
 
 ##### § 1292 Verpfändung von Orderpapieren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131802377)
 
 Zur Verpfändung eines Wechsels oder eines anderen Papiers, das durch
 Indossament übertragen werden kann, genügt die Einigung des Gläubigers
@@ -27076,12 +28838,14 @@ und des Pfandgläubigers und die Übergabe des indossierten Papiers.
 
 
 ##### § 1293 Pfandrecht an Inhaberpapieren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE131902377)
 
 Für das Pfandrecht an einem Inhaberpapier gelten die Vorschriften über
 das Pfandrecht an beweglichen Sachen.
 
 
 ##### § 1294 Einziehung und Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132002377)
 
 Ist ein Wechsel, ein anderes Papier, das durch Indossament übertragen
 werden kann, oder ein Inhaberpapier Gegenstand des Pfandrechts, so
@@ -27092,6 +28856,7 @@ Schuldner nur an ihn leisten.
 
 
 ##### § 1295 Freihändiger Verkauf von Orderpapieren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132103377)
 
 Hat ein verpfändetes Papier, das durch Indossament übertragen werden
 kann, einen Börsen- oder Marktpreis, so ist der Gläubiger nach dem
@@ -27101,6 +28866,7 @@ Anwendung.
 
 
 ##### § 1296 Erstreckung auf Zinsscheine
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132202377)
 
 Das Pfandrecht an einem Wertpapier erstreckt sich auf die zu dem
 Papier gehörenden Zins-, Renten- oder Gewinnanteilscheine nur dann,
@@ -27111,18 +28877,22 @@ Abs. 2 fällig werden.
 
 
 ## Buch 4 - Familienrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011002377)
 
 
 
 ### Abschnitt 1 - Bürgerliche Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011102377)
 
 
 
 #### Titel 1 - Verlöbnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011202377)
 
 
 
 ##### § 1297 Kein Antrag auf Eingehung der Ehe, Nichtigkeit eines Strafversprechens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132303308)
 
 (1) Aus einem Verlöbnis kann kein Antrag auf Eingehung der Ehe
 gestellt werden.
@@ -27132,6 +28902,7 @@ Ehe unterbleibt, ist nichtig.
 
 
 ##### § 1298 Ersatzpflicht bei Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132402377)
 
 (1) Tritt ein Verlobter von dem Verlöbnis zurück, so hat er dem
 anderen Verlobten und dessen Eltern sowie dritten Personen, welche
@@ -27151,6 +28922,7 @@ den Rücktritt vorliegt.
 
 
 ##### § 1299 Rücktritt aus Verschulden des anderen Teils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132502377)
 
 Veranlasst ein Verlobter den Rücktritt des anderen durch ein
 Verschulden, das einen wichtigen Grund für den Rücktritt bildet, so
@@ -27159,11 +28931,13 @@ verpflichtet.
 
 
 ##### § 1300
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132602377)
 
 (weggefallen)
 
 
 ##### § 1301 Rückgabe der Geschenke
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132702377)
 
 Unterbleibt die Eheschließung, so kann jeder Verlobte von dem anderen
 die Herausgabe desjenigen, was er ihm geschenkt oder zum Zeichen des
@@ -27174,20 +28948,24 @@ Verlöbnis durch den Tod eines der Verlobten aufgelöst wird.
 
 
 ##### § 1302 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE132803140)
 
 Die Verjährungsfrist der in den §§ 1298 bis 1301 bestimmten Ansprüche
 beginnt mit der Auflösung des Verlöbnisses.
 
 
 #### Titel 2 - Eingehung der Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020402377)
 
 
 
 ##### Untertitel 1 - Ehefähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020502377)
 
 
 
 ###### § 1303 Ehemündigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241003123)
 
 Eine Ehe darf nicht vor Eintritt der Volljährigkeit eingegangen
 werden. Mit einer Person, die das 16. Lebensjahr nicht vollendet hat,
@@ -27195,11 +28973,13 @@ kann eine Ehe nicht wirksam eingegangen werden.
 
 
 ###### § 1304 Geschäftsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241102377)
 
 Wer geschäftsunfähig ist, kann eine Ehe nicht eingehen.
 
 
 ###### § 1305 Folgen und Heilung unwirksamer Minderjährigenehen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241202360)
 
 (1) Auf eine im Ausland geschlossene und nach § 1303 Satz 2 oder
 Artikel 13 Absatz 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen
@@ -27272,10 +29052,12 @@ Grund unwirksam ist.
 
 
 ##### Untertitel 2 - Eheverbote
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020602377)
 
 
 
 ###### § 1306 Bestehende Ehe oder Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241303377)
 
 Eine Ehe darf nicht geschlossen werden, wenn zwischen einer der
 Personen, die die Ehe miteinander eingehen wollen, und einer dritten
@@ -27283,6 +29065,7 @@ Person eine Ehe oder eine Lebenspartnerschaft besteht.
 
 
 ###### § 1307 Verwandtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241402377)
 
 Eine Ehe darf nicht geschlossen werden zwischen Verwandten in gerader
 Linie sowie zwischen vollbürtigen und halbbürtigen Geschwistern. Dies
@@ -27291,6 +29074,7 @@ erloschen ist.
 
 
 ###### § 1308 Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241502377)
 
 (1) Eine Ehe soll nicht geschlossen werden zwischen Personen, deren
 Verwandtschaft im Sinne des § 1307 durch Annahme als Kind begründet
@@ -27305,10 +29089,12 @@ werden, wenn wichtige Gründe der Eingehung der Ehe entgegenstehen.
 
 
 ##### Untertitel 3 - Ehefähigkeitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020702377)
 
 
 
 ###### § 1309 Ehefähigkeitszeugnis für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241606360)
 
 (1) Wer hinsichtlich der Voraussetzungen der Eheschließung
 vorbehaltlich des Artikels 13 Abs. 2 des Einführungsgesetzes zum
@@ -27343,10 +29129,12 @@ Monaten.
 
 
 ##### Untertitel 4 - Eheschließung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020802377)
 
 
 
 ###### § 1310 Zuständigkeit des Standesbeamten, Heilung fehlerhafter Ehen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241704123)
 
 (1) Die Ehe wird nur dadurch geschlossen, dass die Eheschließenden vor
 dem Standesbeamten erklären, die Ehe miteinander eingehen zu wollen.
@@ -27393,6 +29181,7 @@ gelebt haben.
 
 
 ###### § 1311 Persönliche Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241802377)
 
 Die Eheschließenden müssen die Erklärungen nach § 1310 Abs. 1
 persönlich und bei gleichzeitiger Anwesenheit abgeben. Die Erklärungen
@@ -27401,6 +29190,7 @@ werden.
 
 
 ###### § 1312 Trauung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE241903377)
 
 Der Standesbeamte soll bei der Eheschließung die Eheschließenden
 einzeln befragen, ob sie die Ehe miteinander eingehen wollen, und,
@@ -27411,10 +29201,12 @@ erfolgen, sofern die Eheschließenden dies wünschen.
 
 
 #### Titel 3 - Aufhebung der Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020902377)
 
 
 
 ##### § 1313 Aufhebung durch richterliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242003140)
 
 Eine Ehe kann nur durch richterliche Entscheidung auf Antrag
 aufgehoben werden. Die Ehe ist mit der Rechtskraft der Entscheidung
@@ -27423,6 +29215,7 @@ werden kann, ergeben sich aus den folgenden Vorschriften.
 
 
 ##### § 1314 Aufhebungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242103123)
 
 (1) Eine Ehe kann aufgehoben werden, wenn sie
 
@@ -27467,6 +29260,7 @@ werden kann, ergeben sich aus den folgenden Vorschriften.
 
 
 ##### § 1315 Ausschluss der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242204123)
 
 (1) Eine Aufhebung der Ehe ist ausgeschlossen
 
@@ -27527,6 +29321,7 @@ Die Bestätigung eines Geschäftsunfähigen ist unwirksam.
 
 
 ##### § 1316 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242303123)
 
 (1) Antragsberechtigt
 
@@ -27563,6 +29358,7 @@ gegeben, dass er die Ehe fortsetzen will.
 
 
 ##### § 1317 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242404123)
 
 (1) Der Antrag kann in den Fällen des § 1314 Absatz 2 Nummer 2 und 3
 nur binnen eines Jahres, im Falle des § 1314 Absatz 2 Nummer 4 nur
@@ -27584,6 +29380,7 @@ gestellt werden.
 
 
 ##### § 1318 Folgen der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242504160)
 
 (1) Die Folgen der Aufhebung einer Ehe bestimmen sich nur in den
 nachfolgend genannten Fällen nach den Vorschriften über die Scheidung.
@@ -27626,10 +29423,12 @@ Anwendung.
 
 
 #### Titel 4 - Wiederverheiratung nach Todeserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG021002377)
 
 
 
 ##### § 1319 Aufhebung der bisherigen Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242602377)
 
 (1) Geht ein Ehegatte, nachdem der andere Ehegatte für tot erklärt
 worden ist, eine neue Ehe ein, so kann, wenn der für tot erklärte
@@ -27646,6 +29445,7 @@ Todeserklärung aufgehoben wird.
 
 
 ##### § 1320 Aufhebung der neuen Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE242702377)
 
 (1) Lebt der für tot erklärte Ehegatte noch, so kann unbeschadet des §
 1319 sein früherer Ehegatte die Aufhebung der neuen Ehe begehren, es
@@ -27660,14 +29460,17 @@ lebt. § 1317 Abs. 1 Satz 3, Abs. 2 gilt entsprechend.
 
 
 ##### (XXXX) §§ 1321 bis 1352 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133001377)
 
 
 
 #### Titel 5 - Wirkungen der Ehe im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011602377)
 
 
 
 ##### § 1353 Eheliche Lebensgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133204123)
 
 (1) Die Ehe wird von zwei Personen verschiedenen oder gleichen
 Geschlechts auf Lebenszeit geschlossen. Die Ehegatten sind einander
@@ -27681,11 +29484,13 @@ die Ehe gescheitert ist.
 
 
 ##### § 1354
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133301377)
 
 (weggefallen)
 
 
 ##### § 1355 Ehename
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133409360)
 
 (1) Die Ehegatten können einen gemeinsamen Familiennamen (Ehenamen)
 bestimmen. Die Ehegatten führen den von ihnen bestimmten Ehenamen.
@@ -27755,6 +29560,7 @@ ist.
 
 
 ##### § 1355a Begleitname
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292300360)
 
 (1) Der Ehegatte, dessen Name nicht Ehename wird, kann durch Erklärung
 gegenüber dem Standesamt dem Ehenamen einen Begleitnamen voranstellen
@@ -27785,6 +29591,7 @@ nicht zulässig.
 
 
 ##### § 1355b Geschlechtsangepasste Form des Ehenamens nach sorbischer Tradition und ausländischen Rechtsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292400360)
 
 (1) Jeder Ehegatte kann durch Erklärung gegenüber dem Standesamt
 bestimmen, dass er den Ehenamen in einer seinem Geschlecht angepassten
@@ -27814,6 +29621,7 @@ zulässig.
 
 
 ##### § 1356 Haushaltsführung, Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133502377)
 
 (1) Die Ehegatten regeln die Haushaltsführung im gegenseitigen
 Einvernehmen. Ist die Haushaltsführung einem der Ehegatten überlassen,
@@ -27825,6 +29633,7 @@ anderen Ehegatten und der Familie die gebotene Rücksicht zu nehmen.
 
 
 ##### § 1357 Geschäfte zur Deckung des Lebensbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133603140)
 
 (1) Jeder Ehegatte ist berechtigt, Geschäfte zur angemessenen Deckung
 des Lebensbedarfs der Familie mit Wirkung auch für den anderen
@@ -27843,6 +29652,7 @@ Ausschließung nur nach Maßgabe des § 1412.
 
 
 ##### § 1358 Gegenseitige Vertretung von Ehegatten in Angelegenheiten der Gesundheitssorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133702360)
 
 (1) Kann ein Ehegatte aufgrund von Bewusstlosigkeit oder Krankheit
 seine Angelegenheiten der Gesundheitssorge rechtlich nicht besorgen
@@ -27950,6 +29760,7 @@ Absatz 2 gelten entsprechend.
 
 
 ##### § 1359 Umfang der Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133802377)
 
 Die Ehegatten haben bei der Erfüllung der sich aus dem ehelichen
 Verhältnis ergebenden Verpflichtungen einander nur für diejenige
@@ -27958,6 +29769,7 @@ pflegen.
 
 
 ##### § 1360 Verpflichtung zum Familienunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE133902377)
 
 Die Ehegatten sind einander verpflichtet, durch ihre Arbeit und mit
 ihrem Vermögen die Familie angemessen zu unterhalten. Ist einem
@@ -27967,6 +29779,7 @@ der Regel durch die Führung des Haushalts.
 
 
 ##### § 1360a Umfang der Unterhaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134002377)
 
 (1) Der angemessene Unterhalt der Familie umfasst alles, was nach den
 Verhältnissen der Ehegatten erforderlich ist, um die Kosten des
@@ -27992,6 +29805,7 @@ gerichtet ist.
 
 
 ##### § 1360b Zuvielleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134102377)
 
 Leistet ein Ehegatte zum Unterhalt der Familie einen höheren Beitrag
 als ihm obliegt, so ist im Zweifel anzunehmen, dass er nicht
@@ -27999,6 +29813,7 @@ beabsichtigt, von dem anderen Ehegatten Ersatz zu verlangen.
 
 
 ##### § 1361 Unterhalt bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134206377)
 
 (1) Leben die Ehegatten getrennt, so kann ein Ehegatte von dem anderen
 den nach den Lebensverhältnissen und den Erwerbs- und
@@ -28029,6 +29844,7 @@ Berechtigte im Laufe des Monats stirbt. § 1360a Abs. 3, 4 und die §§
 
 
 ##### § 1361a Verteilung der Haushaltsgegenstände bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134303160)
 
 (1) Leben die Ehegatten getrennt, so kann jeder von ihnen die ihm
 gehörenden Haushaltsgegenstände von dem anderen Ehegatten
@@ -28049,6 +29865,7 @@ nichts anderes vereinbaren.
 
 
 ##### § 1361b Ehewohnung bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236404360)
 
 (1) Leben die Ehegatten voneinander getrennt oder will einer von ihnen
 getrennt leben, so kann ein Ehegatte verlangen, dass ihm der andere
@@ -28089,6 +29906,7 @@ Nutzungsrecht überlassen hat.
 
 
 ##### § 1362 Eigentumsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134403360)
 
 (1) Zugunsten der Gläubiger eines der Ehegatten wird vermutet, dass
 die im Besitz eines oder beider Ehegatten befindlichen beweglichen
@@ -28105,14 +29923,17 @@ Gebrauch sie bestimmt sind.
 
 
 #### Titel 6 - Eheliches Güterrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011702377)
 
 
 
 ##### Untertitel 1 - Gesetzliches Güterrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011802377)
 
 
 
 ###### § 1363 Zugewinngemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134503360)
 
 (1) Die Ehegatten leben im Güterstand der Zugewinngemeinschaft, wenn
 sie nicht durch Ehevertrag etwas anderes vereinbaren.
@@ -28125,6 +29946,7 @@ Zugewinngemeinschaft endet.
 
 
 ###### § 1364 Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134602377)
 
 Jeder Ehegatte verwaltet sein Vermögen selbständig; er ist jedoch in
 der Verwaltung seines Vermögens nach Maßgabe der folgenden
@@ -28132,6 +29954,7 @@ Vorschriften beschränkt.
 
 
 ###### § 1365 Verfügung über Vermögen im Ganzen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134703140)
 
 (1) Ein Ehegatte kann sich nur mit Einwilligung des anderen Ehegatten
 verpflichten, über sein Vermögen im Ganzen zu verfügen. Hat er sich
@@ -28147,6 +29970,7 @@ Aufschub Gefahr verbunden ist.
 
 
 ###### § 1366 Genehmigung von Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134804360)
 
 (1) Ein Vertrag, den ein Ehegatte ohne die erforderliche Einwilligung
 des anderen Ehegatten schließt, ist wirksam, wenn dieser ihn
@@ -28174,12 +29998,14 @@ gilt die Genehmigung als verweigert.
 
 
 ###### § 1367 Einseitige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE134902377)
 
 Ein einseitiges Rechtsgeschäft, das ohne die erforderliche
 Einwilligung vorgenommen wird, ist unwirksam.
 
 
 ###### § 1368 Geltendmachung der Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135002377)
 
 Verfügt ein Ehegatte ohne die erforderliche Zustimmung des anderen
 Ehegatten über sein Vermögen, so ist auch der andere Ehegatte
@@ -28188,6 +30014,7 @@ Rechte gegen den Dritten gerichtlich geltend zu machen.
 
 
 ###### § 1369 Verfügungen über Haushaltsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135103140)
 
 (1) Ein Ehegatte kann über ihm gehörende Gegenstände des ehelichen
 Haushalts nur verfügen und sich zu einer solchen Verfügung auch nur
@@ -28202,11 +30029,13 @@ eine Erklärung abzugeben.
 
 
 ###### § 1370 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135203160)
 
 -
 
 
 ###### § 1371 Zugewinnausgleich im Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135303377)
 
 (1) Wird der Güterstand durch den Tod eines Ehegatten beendet, so wird
 der Ausgleich des Zugewinns dadurch verwirklicht, dass sich der
@@ -28236,6 +30065,7 @@ Viertel zu gewähren.
 
 
 ###### § 1372 Zugewinnausgleich in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135402377)
 
 Wird der Güterstand auf andere Weise als durch den Tod eines Ehegatten
 beendet, so wird der Zugewinn nach den Vorschriften der §§ 1373 bis
@@ -28243,12 +30073,14 @@ beendet, so wird der Zugewinn nach den Vorschriften der §§ 1373 bis
 
 
 ###### § 1373 Zugewinn
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135502377)
 
 Zugewinn ist der Betrag, um den das Endvermögen eines Ehegatten das
 Anfangsvermögen übersteigt.
 
 
 ###### § 1374 Anfangsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135603160)
 
 (1) Anfangsvermögen ist das Vermögen, das einem Ehegatten nach Abzug
 der Verbindlichkeiten beim Eintritt des Güterstands gehört.
@@ -28264,6 +30096,7 @@ abzuziehen.
 
 
 ###### § 1375 Endvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135703160)
 
 (1) Endvermögen ist das Vermögen, das einem Ehegatten nach Abzug der
 Verbindlichkeiten bei der Beendigung des Güterstands gehört.
@@ -28300,6 +30133,7 @@ ist.
 
 
 ###### § 1376 Wertermittlung des Anfangs- und Endvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135803377)
 
 (1) Der Berechnung des Anfangsvermögens wird der Wert zugrunde gelegt,
 den das beim Eintritt des Güterstands vorhandene Vermögen in diesem
@@ -28324,6 +30158,7 @@ Abs. 2 ist anzuwenden.
 
 
 ###### § 1377 Verzeichnis des Anfangsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE135902377)
 
 (1) Haben die Ehegatten den Bestand und den Wert des einem Ehegatten
 gehörenden Anfangsvermögens und der diesem Vermögen hinzuzurechnenden
@@ -28343,6 +30178,7 @@ Endvermögen eines Ehegatten seinen Zugewinn darstellt.
 
 
 ###### § 1378 Ausgleichsforderung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136004140)
 
 (1) Übersteigt der Zugewinn des einen Ehegatten den Zugewinn des
 anderen, so steht die Hälfte des Überschusses dem anderen Ehegatten
@@ -28369,6 +30205,7 @@ zu verfügen.
 
 
 ###### § 1379 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136104160)
 
 (1) Ist der Güterstand beendet oder hat ein Ehegatte die Scheidung,
 die Aufhebung der Ehe, den vorzeitigen Ausgleich des Zugewinns bei
@@ -28397,6 +30234,7 @@ verlangen. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
 
 ###### § 1380 Anrechnung von Vorausempfängen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136202377)
 
 (1) Auf die Ausgleichsforderung eines Ehegatten wird angerechnet, was
 ihm von dem anderen Ehegatten durch Rechtsgeschäft unter Lebenden mit
@@ -28413,6 +30251,7 @@ Zuwendung.
 
 
 ###### § 1381 Leistungsverweigerung wegen grober Unbilligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136302377)
 
 (1) Der Schuldner kann die Erfüllung der Ausgleichsforderung
 verweigern, soweit der Ausgleich des Zugewinns nach den Umständen des
@@ -28425,6 +30264,7 @@ ehelichen Verhältnis ergeben, schuldhaft nicht erfüllt hat.
 
 
 ###### § 1382 Stundung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136403377)
 
 (1) Das Familiengericht stundet auf Antrag eine Ausgleichsforderung,
 soweit sie vom Schuldner nicht bestritten wird, wenn die sofortige
@@ -28453,6 +30293,7 @@ Entscheidung wesentlich geändert haben.
 
 
 ###### § 1383 Übertragung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136502377)
 
 (1) Das Familiengericht kann auf Antrag des Gläubigers anordnen, dass
 der Schuldner bestimmte Gegenstände seines Vermögens dem Gläubiger
@@ -28469,6 +30310,7 @@ in dem Antrag bezeichnen.
 
 
 ###### § 1384 Berechnungszeitpunkt des Zugewinns und Höhe der Ausgleichsforderung bei Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136603160)
 
 Wird die Ehe geschieden, so tritt für die Berechnung des Zugewinns und
 für die Höhe der Ausgleichsforderung an die Stelle der Beendigung des
@@ -28476,6 +30318,7 @@ Güterstandes der Zeitpunkt der Rechtshängigkeit des Scheidungsantrags.
 
 
 ###### § 1385 Vorzeitiger Zugewinnausgleich des ausgleichsberechtigten Ehegatten bei vorzeitiger Aufhebung der Zugewinngemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136704308)
 
 Der ausgleichsberechtigte Ehegatte kann vorzeitigen Ausgleich des
 Zugewinns bei vorzeitiger Aufhebung der Zugewinngemeinschaft
@@ -28505,12 +30348,14 @@ verlangen, wenn
 
 
 ###### § 1386 Vorzeitige Aufhebung der Zugewinngemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136803160)
 
 Jeder Ehegatte kann unter entsprechender Anwendung des § 1385 die
 vorzeitige Aufhebung der Zugewinngemeinschaft verlangen.
 
 
 ###### § 1387 Berechnungszeitpunkt des Zugewinns und Höhe der Ausgleichsforderung bei vorzeitigem Ausgleich oder vorzeitiger Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE136904308)
 
 In den Fällen der §§ 1385 und 1386 tritt für die Berechnung des
 Zugewinns und für die Höhe der Ausgleichsforderung an die Stelle der
@@ -28519,17 +30364,20 @@ Anträge gestellt sind.
 
 
 ###### § 1388 Eintritt der Gütertrennung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137003160)
 
 Mit der Rechtskraft der Entscheidung, die die Zugewinngemeinschaft
 vorzeitig aufhebt, tritt Gütertrennung ein.
 
 
 ###### § 1389 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137104160)
 
 -
 
 
 ###### § 1390 Ansprüche des Ausgleichsberechtigten gegen Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137205140)
 
 (1) Der ausgleichsberechtigte Ehegatte kann von einem Dritten Ersatz
 des Wertes einer unentgeltlichen Zuwendung des ausgleichspflichtigen
@@ -28565,18 +30413,22 @@ Vermächtnis ausgeschlagen hat.
 
 
 ###### (XXXX) §§ 1391 bis 1407 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137301377)
 
 
 
 ##### Untertitel 2 - Vertragliches Güterrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG011902377)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012002377)
 
 
 
 ###### § 1408 Ehevertrag, Vertragsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137403140)
 
 (1) Die Ehegatten können ihre güterrechtlichen Verhältnisse durch
 Vertrag (Ehevertrag) regeln, insbesondere auch nach der Eingehung der
@@ -28588,18 +30440,21 @@ Versorgungsausgleichsgesetzes anzuwenden.
 
 
 ###### § 1409 Beschränkung der Vertragsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137503377)
 
 Der Güterstand kann nicht durch Verweisung auf nicht mehr geltendes
 oder ausländisches Recht bestimmt werden.
 
 
 ###### § 1410 Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137602377)
 
 Der Ehevertrag muss bei gleichzeitiger Anwesenheit beider Teile zur
 Niederschrift eines Notars geschlossen werden.
 
 
 ###### § 1411 Eheverträge Betreuter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137705123)
 
 (1) Ein Betreuter kann einen Ehevertrag nur mit Zustimmung seines
 Betreuers schließen, soweit für diese Angelegenheit ein
@@ -28617,6 +30472,7 @@ Betreuungsgerichts schließen.
 
 
 ###### § 1412 Wirkungen gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137803125)
 
 Haben die Ehegatten den gesetzlichen Güterstand ausgeschlossen oder
 geändert oder haben sie eine Vereinbarung über den Güterstand
@@ -28641,6 +30497,7 @@ gegenüber Einwendungen
 
 
 ###### § 1413 Widerruf der Überlassung der Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE137902377)
 
 Überlässt ein Ehegatte sein Vermögen der Verwaltung des anderen
 Ehegatten, so kann das Recht, die Überlassung jederzeit zu widerrufen,
@@ -28649,10 +30506,12 @@ Widerruf aus wichtigem Grunde bleibt gleichwohl zulässig.
 
 
 ###### Kapitel 2 - Gütertrennung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012102377)
 
 
 
 ###### § 1414 Eintritt der Gütertrennung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138003140)
 
 Schließen die Ehegatten den gesetzlichen Güterstand aus oder heben sie
 ihn auf, so tritt Gütertrennung ein, falls sich nicht aus dem
@@ -28662,20 +30521,24 @@ wird.
 
 
 ###### Kapitel 3 - Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012202377)
 
 
 
 ###### Unterkapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012302377)
 
 
 
 ###### § 1415 Vereinbarung durch Ehevertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138102377)
 
 Vereinbaren die Ehegatten durch Ehevertrag Gütergemeinschaft, so
 gelten die nachstehenden Vorschriften.
 
 
 ###### § 1416 Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138203360)
 
 (1) Das jeweilige Vermögen der Ehegatten wird durch die
 Gütergemeinschaft gemeinschaftliches Vermögen beider Ehegatten
@@ -28693,6 +30556,7 @@ das im Schiffsregister oder im Schiffsbauregister eingetragen ist.
 
 
 ###### § 1417 Sondergut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138302377)
 
 (1) Vom Gesamtgut ist das Sondergut ausgeschlossen.
 
@@ -28704,6 +30568,7 @@ es für Rechnung des Gesamtguts.
 
 
 ###### § 1418 Vorbehaltsgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138402377)
 
 (1) Vom Gesamtgut ist das Vorbehaltsgut ausgeschlossen.
 
@@ -28734,6 +30599,7 @@ Dritten gegenüber nur nach Maßgabe des § 1412 wirksam.
 
 
 ###### § 1419 Gesamthandsgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138502377)
 
 (1) Ein Ehegatte kann nicht über seinen Anteil am Gesamtgut und an den
 einzelnen Gegenständen verfügen, die zum Gesamtgut gehören; er ist
@@ -28745,6 +30611,7 @@ Gesamtgut verlangen kann.
 
 
 ###### § 1420 Verwendung zum Unterhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138602377)
 
 Die Einkünfte, die in das Gesamtgut fallen, sind vor den Einkünften,
 die in das Vorbehaltsgut fallen, der Stamm des Gesamtguts ist vor dem
@@ -28753,6 +30620,7 @@ Familie zu verwenden.
 
 
 ###### § 1421 Verwaltung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138703360)
 
 Die Ehegatten sollen in dem Ehevertrag, durch den sie die
 Gütergemeinschaft vereinbaren, bestimmen, welcher der Ehegatten das
@@ -28762,10 +30630,12 @@ die Ehegatten das Gesamtgut gemeinschaftlich.
 
 
 ###### Unterkapitel 2 - Verwaltung des Gesamtguts durch einen Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012403360)
 
 
 
 ###### § 1422 Inhalt des Verwaltungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138802377)
 
 Der Ehegatte, der das Gesamtgut verwaltet, ist insbesondere
 berechtigt, die zum Gesamtgut gehörenden Sachen in Besitz zu nehmen
@@ -28775,6 +30645,7 @@ wird durch die Verwaltungshandlungen nicht persönlich verpflichtet.
 
 
 ###### § 1423 Verfügung über das Gesamtgut im Ganzen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE138902377)
 
 Der Ehegatte, der das Gesamtgut verwaltet, kann sich nur mit
 Einwilligung des anderen Ehegatten verpflichten, über das Gesamtgut im
@@ -28784,6 +30655,7 @@ andere Ehegatte einwilligt.
 
 
 ###### § 1424 Verfügung über Grundstücke, Schiffe oder Schiffsbauwerke
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139002377)
 
 Der Ehegatte, der das Gesamtgut verwaltet, kann nur mit Einwilligung
 des anderen Ehegatten über ein zum Gesamtgut gehörendes Grundstück
@@ -28793,6 +30665,7 @@ eingetragenes Schiff oder Schiffsbauwerk zum Gesamtgut gehört.
 
 
 ###### § 1425 Schenkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139102377)
 
 (1) Der Ehegatte, der das Gesamtgut verwaltet, kann nur mit
 Einwilligung des anderen Ehegatten Gegenstände aus dem Gesamtgut
@@ -28807,6 +30680,7 @@ oder einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
 
 
 ###### § 1426 Ersetzung der Zustimmung des anderen Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139203140)
 
 Ist ein Rechtsgeschäft, das nach den §§ 1423, 1424 nur mit
 Einwilligung des anderen Ehegatten vorgenommen werden kann, zur
@@ -28818,6 +30692,7 @@ verhindert und mit dem Aufschub Gefahr verbunden ist.
 
 
 ###### § 1427 Rechtsfolgen fehlender Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139302377)
 
 (1) Nimmt der Ehegatte, der das Gesamtgut verwaltet, ein
 Rechtsgeschäft ohne die erforderliche Einwilligung des anderen
@@ -28833,6 +30708,7 @@ andere Ehegatte nicht eingewilligt hatte.
 
 
 ###### § 1428 Verfügungen ohne Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139402377)
 
 Verfügt der Ehegatte, der das Gesamtgut verwaltet, ohne die
 erforderliche Zustimmung des anderen Ehegatten über ein zum Gesamtgut
@@ -28842,6 +30718,7 @@ hierzu nicht mitzuwirken.
 
 
 ###### § 1429 Notverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139502377)
 
 Ist der Ehegatte, der das Gesamtgut verwaltet, durch Krankheit oder
 durch Abwesenheit verhindert, ein Rechtsgeschäft vorzunehmen, das sich
@@ -28853,6 +30730,7 @@ Rechtsstreits, der sich auf das Gesamtgut bezieht.
 
 
 ###### § 1430 Ersetzung der Zustimmung des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139603140)
 
 Verweigert der Ehegatte, der das Gesamtgut verwaltet, ohne
 ausreichenden Grund die Zustimmung zu einem Rechtsgeschäft, das der
@@ -28863,6 +30741,7 @@ die Zustimmung auf Antrag ersetzen.
 
 
 ###### § 1431 Selbständiges Erwerbsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139702377)
 
 (1) Hat der Ehegatte, der das Gesamtgut verwaltet, darin eingewilligt,
 dass der andere Ehegatte selbständig ein Erwerbsgeschäft betreibt, so
@@ -28881,6 +30760,7 @@ Einwilligung nur nach Maßgabe des § 1412 wirksam.
 
 
 ###### § 1432 Annahme einer Erbschaft; Ablehnung von Vertragsantrag oder Schenkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139802377)
 
 (1) Ist dem Ehegatten, der das Gesamtgut nicht verwaltet, eine
 Erbschaft oder ein Vermächtnis angefallen, so ist nur er berechtigt,
@@ -28896,6 +30776,7 @@ Ehegatten errichten.
 
 
 ###### § 1433 Fortsetzung eines Rechtsstreits
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE139902377)
 
 Der Ehegatte, der das Gesamtgut nicht verwaltet, kann ohne Zustimmung
 des anderen Ehegatten einen Rechtsstreit fortsetzen, der beim Eintritt
@@ -28903,6 +30784,7 @@ der Gütergemeinschaft anhängig war.
 
 
 ###### § 1434 Ungerechtfertigte Bereicherung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140002377)
 
 Wird durch ein Rechtsgeschäft, das ein Ehegatte ohne die erforderliche
 Zustimmung des anderen Ehegatten vornimmt, das Gesamtgut bereichert,
@@ -28911,6 +30793,7 @@ ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.
 
 
 ###### § 1435 Pflichten des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140102377)
 
 Der Ehegatte hat das Gesamtgut ordnungsmäßig zu verwalten. Er hat den
 anderen Ehegatten über die Verwaltung zu unterrichten und ihm auf
@@ -28922,6 +30805,7 @@ vorgenommen hat.
 
 
 ###### § 1436 Verwaltung durch einen Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140205360)
 
 Fällt die Verwaltung des Gesamtguts in den Aufgabenkreis des Betreuers
 eines Ehegatten, so hat der Betreuer diesen in den Rechten und
@@ -28931,6 +30815,7 @@ bestellt ist.
 
 
 ###### § 1437 Gesamtgutsverbindlichkeiten; persönliche Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140302377)
 
 (1) Aus dem Gesamtgut können die Gläubiger des Ehegatten, der das
 Gesamtgut verwaltet, und, soweit sich aus den §§ 1438 bis 1440 nichts
@@ -28946,6 +30831,7 @@ anderen Ehegatten zur Last fallen.
 
 
 ###### § 1438 Haftung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140402377)
 
 (1) Das Gesamtgut haftet für eine Verbindlichkeit aus einem
 Rechtsgeschäft, das während der Gütergemeinschaft vorgenommen wird,
@@ -28958,6 +30844,7 @@ wenn das Urteil dem Gesamtgut gegenüber nicht wirksam ist.
 
 
 ###### § 1439 Keine Haftung bei Erwerb einer Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140502377)
 
 Das Gesamtgut haftet nicht für Verbindlichkeiten, die durch den Erwerb
 einer Erbschaft entstehen, wenn der Ehegatte, der Erbe ist, das
@@ -28967,6 +30854,7 @@ Gleiche gilt beim Erwerb eines Vermächtnisses.
 
 
 ###### § 1440 Haftung für Vorbehalts- oder Sondergut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140602377)
 
 Das Gesamtgut haftet nicht für eine Verbindlichkeit, die während der
 Gütergemeinschaft infolge eines zum Vorbehaltsgut oder Sondergut
@@ -28980,6 +30868,7 @@ werden pflegen.
 
 
 ###### § 1441 Haftung im Innenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140702377)
 
 Im Verhältnis der Ehegatten zueinander fallen folgende
 Gesamtgutsverbindlichkeiten dem Ehegatten zur Last, in dessen Person
@@ -29004,6 +30893,7 @@ sie entstehen:
 
 
 ###### § 1442 Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140802377)
 
 Die Vorschrift des § 1441 Nr. 2, 3 gilt nicht, wenn die
 Verbindlichkeiten zu den Lasten des Sonderguts gehören, die aus den
@@ -29015,6 +30905,7 @@ gehörenden Sache entstehen.
 
 
 ###### § 1443 Prozesskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE140902377)
 
 (1) Im Verhältnis der Ehegatten zueinander fallen die Kosten eines
 Rechtsstreits, den die Ehegatten miteinander führen, dem Ehegatten zur
@@ -29031,6 +30922,7 @@ geboten ist; § 1441 Nr. 3 und § 1442 bleiben unberührt.
 
 
 ###### § 1444 Kosten der Ausstattung eines Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141002377)
 
 (1) Verspricht oder gewährt der Ehegatte, der das Gesamtgut verwaltet,
 einem gemeinschaftlichen Kind aus dem Gesamtgut eine Ausstattung, so
@@ -29047,6 +30939,7 @@ entspricht.
 
 
 ###### § 1445 Ausgleichung zwischen Vorbehalts-, Sonder- und Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141102377)
 
 (1) Verwendet der Ehegatte, der das Gesamtgut verwaltet, Gesamtgut in
 sein Vorbehaltsgut oder in sein Sondergut, so hat er den Wert des
@@ -29057,6 +30950,7 @@ kann er Ersatz aus dem Gesamtgut verlangen.
 
 
 ###### § 1446 Fälligkeit des Ausgleichsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141202377)
 
 (1) Was der Ehegatte, der das Gesamtgut verwaltet, zum Gesamtgut
 schuldet, braucht er erst nach der Beendigung der Gütergemeinschaft zu
@@ -29071,6 +30965,7 @@ sein Vorbehaltsgut und sein Sondergut hierzu ausreichen.
 
 
 ###### § 1447 Aufhebungsantrag des nicht verwaltenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141304308)
 
 Der Ehegatte, der das Gesamtgut nicht verwaltet, kann die Aufhebung
 der Gütergemeinschaft beantragen,
@@ -29099,6 +30994,7 @@ der Gütergemeinschaft beantragen,
 
 
 ###### § 1448 Aufhebungsantrag des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141403308)
 
 Der Ehegatte, der das Gesamtgut verwaltet, kann die Aufhebung der
 Gütergemeinschaft beantragen, wenn das Gesamtgut infolge von
@@ -29108,6 +31004,7 @@ ist, dass ein späterer Erwerb erheblich gefährdet wird.
 
 
 ###### § 1449 Wirkung der richterlichen Aufhebungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141504140)
 
 (1) Mit der Rechtskraft der richterlichen Entscheidung ist die
 Gütergemeinschaft aufgehoben; für die Zukunft gilt Gütertrennung.
@@ -29117,10 +31014,12 @@ Maßgabe des § 1412 wirksam.
 
 
 ###### Unterkapitel 3 - Gemeinschaftliche Verwaltung des Gesamtguts durch die Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012502377)
 
 
 
 ###### § 1450 Gemeinschaftliche Verwaltung durch die Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141602377)
 
 (1) Wird das Gesamtgut von den Ehegatten gemeinschaftlich verwaltet,
 so sind die Ehegatten insbesondere nur gemeinschaftlich berechtigt,
@@ -29133,6 +31032,7 @@ genügt die Abgabe gegenüber einem Ehegatten.
 
 
 ###### § 1451 Mitwirkungspflicht beider Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141702377)
 
 Jeder Ehegatte ist dem anderen gegenüber verpflichtet, zu Maßregeln
 mitzuwirken, die zur ordnungsmäßigen Verwaltung des Gesamtguts
@@ -29140,6 +31040,7 @@ erforderlich sind.
 
 
 ###### § 1452 Ersetzung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141803140)
 
 (1) Ist zur ordnungsmäßigen Verwaltung des Gesamtguts die Vornahme
 eines Rechtsgeschäfts oder die Führung eines Rechtsstreits
@@ -29154,6 +31055,7 @@ Gesamtgut nicht ohne Zustimmung des anderen Ehegatten vornehmen kann.
 
 
 ###### § 1453 Verfügung ohne Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE141902377)
 
 (1) Verfügt ein Ehegatte ohne die erforderliche Einwilligung des
 anderen Ehegatten über das Gesamtgut, so gelten die Vorschriften des §
@@ -29168,6 +31070,7 @@ andere Ehegatte nicht eingewilligt hatte.
 
 
 ###### § 1454 Notverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142002377)
 
 Ist ein Ehegatte durch Krankheit oder Abwesenheit verhindert, bei
 einem Rechtsgeschäft mitzuwirken, das sich auf das Gesamtgut bezieht,
@@ -29178,6 +31081,7 @@ eines Rechtsstreits, der sich auf das Gesamtgut bezieht.
 
 
 ###### § 1455 Verwaltungshandlungen ohne Mitwirkung des anderen Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142102377)
 
 Jeder Ehegatte kann ohne Mitwirkung des anderen Ehegatten
 
@@ -29227,6 +31131,7 @@ Jeder Ehegatte kann ohne Mitwirkung des anderen Ehegatten
 
 
 ###### § 1456 Selbständiges Erwerbsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142202377)
 
 (1) Hat ein Ehegatte darin eingewilligt, dass der andere Ehegatte
 selbständig ein Erwerbsgeschäft betreibt, so ist seine Zustimmung zu
@@ -29244,6 +31149,7 @@ Einwilligung nur nach Maßgabe des § 1412 wirksam.
 
 
 ###### § 1457 Ungerechtfertigte Bereicherung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142302377)
 
 Wird durch ein Rechtsgeschäft, das ein Ehegatte ohne die erforderliche
 Zustimmung des anderen Ehegatten vornimmt, das Gesamtgut bereichert,
@@ -29252,10 +31158,12 @@ ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.
 
 
 ###### § 1458 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142403123)
 
 
 
 ###### § 1459 Gesamtgutsverbindlichkeiten; persönliche Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142503360)
 
 (1) Die Gläubiger eines Ehegatten können, soweit sich aus den §§ 1460
 bis 1462 nichts anderes ergibt, aus dem Gesamtgut Befriedigung
@@ -29269,6 +31177,7 @@ der Gütergemeinschaft.
 
 
 ###### § 1460 Haftung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142602377)
 
 (1) Das Gesamtgut haftet für eine Verbindlichkeit aus einem
 Rechtsgeschäft, das ein Ehegatte während der Gütergemeinschaft
@@ -29281,6 +31190,7 @@ wenn das Urteil dem Gesamtgut gegenüber nicht wirksam ist.
 
 
 ###### § 1461 Keine Haftung bei Erwerb einer Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142702377)
 
 Das Gesamtgut haftet nicht für Verbindlichkeiten eines Ehegatten, die
 durch den Erwerb einer Erbschaft oder eines Vermächtnisses entstehen,
@@ -29289,6 +31199,7 @@ Gütergemeinschaft als Vorbehaltsgut oder als Sondergut erwirbt.
 
 
 ###### § 1462 Haftung für Vorbehalts- oder Sondergut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142802377)
 
 Das Gesamtgut haftet nicht für eine Verbindlichkeit eines Ehegatten,
 die während der Gütergemeinschaft infolge eines zum Vorbehaltsgut oder
@@ -29301,6 +31212,7 @@ Einkünften beglichen zu werden pflegen.
 
 
 ###### § 1463 Haftung im Innenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE142902377)
 
 Im Verhältnis der Ehegatten zueinander fallen folgende
 Gesamtgutsverbindlichkeiten dem Ehegatten zur Last, in dessen Person
@@ -29325,6 +31237,7 @@ sie entstehen:
 
 
 ###### § 1464 Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143002377)
 
 Die Vorschrift des § 1463 Nr. 2, 3 gilt nicht, wenn die
 Verbindlichkeiten zu den Lasten des Sonderguts gehören, die aus den
@@ -29336,6 +31249,7 @@ gehörenden Sache entstehen.
 
 
 ###### § 1465 Prozesskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143102377)
 
 (1) Im Verhältnis der Ehegatten zueinander fallen die Kosten eines
 Rechtsstreits, den die Ehegatten miteinander führen, dem Ehegatten zur
@@ -29352,6 +31266,7 @@ Aufwendung der Kosten den Umständen nach geboten ist; § 1463 Nr. 3 und
 
 
 ###### § 1466 Kosten der Ausstattung eines nicht gemeinschaftlichen Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143202377)
 
 Im Verhältnis der Ehegatten zueinander fallen die Kosten der
 Ausstattung eines nicht gemeinschaftlichen Kindes dem Vater oder der
@@ -29359,6 +31274,7 @@ Mutter des Kindes zur Last.
 
 
 ###### § 1467 Ausgleichung zwischen Vorbehalts-, Sonder- und Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143302377)
 
 (1) Verwendet ein Ehegatte Gesamtgut in sein Vorbehaltsgut oder in
 sein Sondergut, so hat er den Wert des Verwendeten zum Gesamtgut zu
@@ -29369,6 +31285,7 @@ Gesamtgut, so kann er Ersatz aus dem Gesamtgut verlangen.
 
 
 ###### § 1468 Fälligkeit des Ausgleichsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143402377)
 
 Was ein Ehegatte zum Gesamtgut oder was er zum Vorbehaltsgut oder
 Sondergut des anderen Ehegatten schuldet, braucht er erst nach
@@ -29378,6 +31295,7 @@ Schuld schon vorher zu berichtigen.
 
 
 ###### § 1469 Aufhebungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143504308)
 
 Jeder Ehegatte kann die Aufhebung der Gütergemeinschaft beantragen,
 
@@ -29411,6 +31329,7 @@ Jeder Ehegatte kann die Aufhebung der Gütergemeinschaft beantragen,
 
 
 ###### § 1470 Wirkung der richterlichen Aufhebungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143603140)
 
 (1) Mit der Rechtskraft der richterlichen Entscheidung ist die
 Gütergemeinschaft aufgehoben; für die Zukunft gilt Gütertrennung.
@@ -29420,10 +31339,12 @@ Maßgabe des § 1412 wirksam.
 
 
 ###### Unterkapitel 4 - Auseinandersetzung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012602377)
 
 
 
 ###### § 1471 Beginn der Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143702377)
 
 (1) Nach der Beendigung der Gütergemeinschaft setzen sich die
 Ehegatten über das Gesamtgut auseinander.
@@ -29433,6 +31354,7 @@ des § 1419.
 
 
 ###### § 1472 Gemeinschaftliche Verwaltung des Gesamtguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143802377)
 
 (1) Bis zur Auseinandersetzung verwalten die Ehegatten das Gesamtgut
 gemeinschaftlich.
@@ -29457,6 +31379,7 @@ das Gesamtgut allein verwaltet hat.
 
 
 ###### § 1473 Unmittelbare Ersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE143902377)
 
 (1) Was auf Grund eines zum Gesamtgut gehörenden Rechts oder als
 Ersatz für die Zerstörung, Beschädigung oder Entziehung eines zum
@@ -29470,12 +31393,14 @@ die Vorschriften der §§ 406 bis 408 sind entsprechend anzuwenden.
 
 
 ###### § 1474 Durchführung der Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144002377)
 
 Die Ehegatten setzen sich, soweit sie nichts anderes vereinbaren, nach
 den §§ 1475 bis 1481 auseinander.
 
 
 ###### § 1475 Berichtigung der Gesamtgutsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144102377)
 
 (1) Die Ehegatten haben zunächst die Gesamtgutsverbindlichkeiten zu
 berichtigen. Ist eine Verbindlichkeit noch nicht fällig oder ist sie
@@ -29491,6 +31416,7 @@ ist, um die Gesamtgutsverbindlichkeiten zu berichtigen.
 
 
 ###### § 1476 Teilung des Überschusses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144202377)
 
 (1) Der Überschuss, der nach der Berichtigung der
 Gesamtgutsverbindlichkeiten verbleibt, gebührt den Ehegatten zu
@@ -29502,6 +31428,7 @@ diese Weise leistet, bleibt er dem anderen Ehegatten verpflichtet.
 
 
 ###### § 1477 Durchführung der Teilung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144302377)
 
 (1) Der Überschuss wird nach den Vorschriften über die Gemeinschaft
 geteilt.
@@ -29516,6 +31443,7 @@ Schenkung oder als Ausstattung erworben hat.
 
 
 ###### § 1478 Auseinandersetzung nach Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144402377)
 
 (1) Ist die Ehe geschieden, bevor die Auseinandersetzung beendet ist,
 so ist auf Verlangen eines Ehegatten jedem von ihnen der Wert dessen
@@ -29547,6 +31475,7 @@ Einbringung.
 
 
 ###### § 1479 Auseinandersetzung nach richterlicher Aufhebungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144504308)
 
 Wird die Gütergemeinschaft auf Grund der §§ 1447, 1448 oder des § 1469
 durch richterliche Entscheidung aufgehoben, so kann der Ehegatte, der
@@ -29557,6 +31486,7 @@ der Antrag auf Aufhebung der Gütergemeinschaft gestellt ist.
 
 
 ###### § 1480 Haftung nach der Teilung gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144602377)
 
 Wird das Gesamtgut geteilt, bevor eine Gesamtgutsverbindlichkeit
 berichtigt ist, so haftet dem Gläubiger auch der Ehegatte persönlich
@@ -29567,6 +31497,7 @@ Gegenstände; die für die Haftung des Erben geltenden Vorschriften der
 
 
 ###### § 1481 Haftung der Ehegatten untereinander
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144702377)
 
 (1) Wird das Gesamtgut geteilt, bevor eine Gesamtgutsverbindlichkeit
 berichtigt ist, die im Verhältnis der Ehegatten zueinander dem
@@ -29588,6 +31519,7 @@ Anspruch genommen wird.
 
 
 ###### § 1482 Eheauflösung durch Tod
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144802377)
 
 Wird die Ehe durch den Tod eines Ehegatten aufgelöst, so gehört der
 Anteil des verstorbenen Ehegatten am Gesamtgut zum Nachlass. Der
@@ -29595,10 +31527,12 @@ verstorbene Ehegatte wird nach den allgemeinen Vorschriften beerbt.
 
 
 ###### Unterkapitel 5 - Fortgesetzte Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012702377)
 
 
 
 ###### § 1483 Eintritt der fortgesetzten Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE144902377)
 
 (1) Die Ehegatten können durch Ehevertrag vereinbaren, dass die
 Gütergemeinschaft nach dem Tod eines Ehegatten zwischen dem
@@ -29616,6 +31550,7 @@ wenn fortgesetzte Gütergemeinschaft nicht eingetreten wäre.
 
 
 ###### § 1484 Ablehnung der fortgesetzten Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145005123)
 
 (1) Der überlebende Ehegatte kann die Fortsetzung der
 Gütergemeinschaft ablehnen.
@@ -29631,6 +31566,7 @@ gilt das Gleiche wie im Falle des § 1482.
 
 
 ###### § 1485 Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145103377)
 
 (1) Das Gesamtgut der fortgesetzten Gütergemeinschaft besteht aus dem
 ehelichen Gesamtgut, soweit es nicht nach § 1483 Abs. 2 einem nicht
@@ -29647,6 +31583,7 @@ geltende Vorschrift des § 1416 Abs. 2 und 3 entsprechende Anwendung.
 
 
 ###### § 1486 Vorbehaltsgut; Sondergut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145202377)
 
 (1) Vorbehaltsgut des überlebenden Ehegatten ist, was er bisher als
 Vorbehaltsgut gehabt hat oder was er nach § 1418 Abs. 2 Nr. 2, 3 als
@@ -29657,6 +31594,7 @@ Sondergut gehabt hat oder was er als Sondergut erwirbt.
 
 
 ###### § 1487 Rechtsstellung des Ehegatten und der Abkömmlinge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145302377)
 
 (1) Die Rechte und Verbindlichkeiten des überlebenden Ehegatten sowie
 der anteilsberechtigten Abkömmlinge in Ansehung des Gesamtguts der
@@ -29673,6 +31611,7 @@ fortgesetzten Gütergemeinschaft zu leisten.
 
 
 ###### § 1488 Gesamtgutsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145402377)
 
 Gesamtgutsverbindlichkeiten der fortgesetzten Gütergemeinschaft sind
 die Verbindlichkeiten des überlebenden Ehegatten sowie solche
@@ -29681,6 +31620,7 @@ Gesamtgutsverbindlichkeiten der ehelichen Gütergemeinschaft waren.
 
 
 ###### § 1489 Persönliche Haftung für die Gesamtgutsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145502377)
 
 (1) Für die Gesamtgutsverbindlichkeiten der fortgesetzten
 Gütergemeinschaft haftet der überlebende Ehegatte persönlich.
@@ -29698,6 +31638,7 @@ wird durch die fortgesetzte Gütergemeinschaft nicht begründet.
 
 
 ###### § 1490 Tod eines Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145602377)
 
 Stirbt ein anteilsberechtigter Abkömmling, so gehört sein Anteil an
 dem Gesamtgut nicht zu seinem Nachlass. Hinterlässt er Abkömmlinge,
@@ -29709,6 +31650,7 @@ vorhanden sind, dem überlebenden Ehegatten an.
 
 
 ###### § 1491 Verzicht eines Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145704140)
 
 (1) Ein anteilsberechtigter Abkömmling kann auf seinen Anteil an dem
 Gesamtgut verzichten. Der Verzicht erfolgt durch Erklärung gegenüber
@@ -29733,6 +31675,7 @@ wäre.
 
 
 ###### § 1492 Aufhebung durch den überlebenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145805123)
 
 (1) Der überlebende Ehegatte kann die fortgesetzte Gütergemeinschaft
 jederzeit aufheben. Die Aufhebung erfolgt durch Erklärung gegenüber
@@ -29752,6 +31695,7 @@ ist die Genehmigung des Betreuungsgerichts erforderlich.
 
 
 ###### § 1493 Wiederverheiratung oder Begründung einer Lebenspartnerschaft des überlebenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE145907140)
 
 (1) Die fortgesetzte Gütergemeinschaft endet, wenn der überlebende
 Ehegatte wieder heiratet oder eine Lebenspartnerschaft begründet.
@@ -29773,6 +31717,7 @@ teilt dem Familiengericht die Anmeldung mit.
 
 
 ###### § 1494 Tod des überlebenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146002377)
 
 (1) Die fortgesetzte Gütergemeinschaft endet mit dem Tode des
 überlebenden Ehegatten.
@@ -29784,6 +31729,7 @@ Zeitpunkt, der als Zeitpunkt des Todes gilt.
 
 
 ###### § 1495 Aufhebungsantrag eines Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146104308)
 
 Ein anteilsberechtigter Abkömmling kann gegen den überlebenden
 Ehegatten die Aufhebung der fortgesetzten Gütergemeinschaft
@@ -29812,6 +31758,7 @@ beantragen,
 
 
 ###### § 1496 Wirkung der richterlichen Aufhebungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146204308)
 
 Die Aufhebung der fortgesetzten Gütergemeinschaft tritt in den Fällen
 des § 1495 mit der Rechtskraft der richterlichen Entscheidung ein. Sie
@@ -29820,6 +31767,7 @@ Entscheidung auf den Antrag eines der Abkömmlinge ergangen ist.
 
 
 ###### § 1497 Rechtsverhältnis bis zur Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146302377)
 
 (1) Nach der Beendigung der fortgesetzten Gütergemeinschaft setzen
 sich der überlebende Ehegatte und die Abkömmlinge über das Gesamtgut
@@ -29830,6 +31778,7 @@ Gesamtgut nach den §§ 1419, 1472, 1473.
 
 
 ###### § 1498 Durchführung der Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146402377)
 
 Auf die Auseinandersetzung sind die Vorschriften der §§ 1475, 1476,
 des § 1477 Abs. 1, der §§ 1479, 1480 und des § 1481 Abs. 1, 3
@@ -29841,6 +31790,7 @@ anderen Ehegatten treten die anteilsberechtigten Abkömmlinge. Die in §
 
 
 ###### § 1499 Verbindlichkeiten zu Lasten des überlebenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146502377)
 
 Bei der Auseinandersetzung fallen dem überlebenden Ehegatten zur Last:
 
@@ -29865,6 +31815,7 @@ Bei der Auseinandersetzung fallen dem überlebenden Ehegatten zur Last:
 
 
 ###### § 1500 Verbindlichkeiten zu Lasten der Abkömmlinge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146602377)
 
 (1) Die anteilsberechtigten Abkömmlinge müssen sich Verbindlichkeiten
 des verstorbenen Ehegatten, die diesem im Verhältnis der Ehegatten
@@ -29878,6 +31829,7 @@ ersetzen hatte.
 
 
 ###### § 1501 Anrechnung von Abfindungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146702377)
 
 (1) Ist einem anteilsberechtigten Abkömmling für den Verzicht auf
 seinen Anteil eine Abfindung aus dem Gesamtgut gewährt worden, so wird
@@ -29893,6 +31845,7 @@ fortgesetzte Gütergemeinschaft eintreten.
 
 
 ###### § 1502 Übernahmerecht des überlebenden Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146802377)
 
 (1) Der überlebende Ehegatte ist berechtigt, das Gesamtgut oder
 einzelne dazu gehörende Gegenstände gegen Ersatz des Wertes zu
@@ -29908,6 +31861,7 @@ gemeinschaftlich ausgeübt werden.
 
 
 ###### § 1503 Teilung unter den Abkömmlingen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE146902377)
 
 (1) Mehrere anteilsberechtigte Abkömmlinge teilen die ihnen zufallende
 Hälfte des Gesamtguts nach dem Verhältnis der Anteile, zu denen sie im
@@ -29926,6 +31880,7 @@ Abkömmlingen zur Last, denen der Verzicht zustatten kommt.
 
 
 ###### § 1504 Haftungsausgleich unter Abkömmlingen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147002377)
 
 Soweit die anteilsberechtigten Abkömmlinge nach § 1480 den
 Gesamtgutsgläubigern haften, sind sie im Verhältnis zueinander nach
@@ -29936,6 +31891,7 @@ finden entsprechende Anwendung.
 
 
 ###### § 1505 Ergänzung des Anteils des Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147102377)
 
 Die Vorschriften über das Recht auf Ergänzung des Pflichtteils finden
 zugunsten eines anteilsberechtigten Abkömmlings entsprechende
@@ -29946,6 +31902,7 @@ als Pflichtteil gilt die Hälfte des Wertes dieses Anteils.
 
 
 ###### § 1506 Anteilsunwürdigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147202377)
 
 Ist ein gemeinschaftlicher Abkömmling erbunwürdig, so ist er auch des
 Anteils an dem Gesamtgut unwürdig. Die Vorschriften über die
@@ -29953,6 +31910,7 @@ Erbunwürdigkeit finden entsprechende Anwendung.
 
 
 ###### § 1507 Zeugnis über Fortsetzung der Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147302377)
 
 Das Nachlassgericht hat dem überlebenden Ehegatten auf Antrag ein
 Zeugnis über die Fortsetzung der Gütergemeinschaft zu erteilen. Die
@@ -29960,11 +31918,13 @@ Vorschriften über den Erbschein finden entsprechende Anwendung.
 
 
 ###### § 1508
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147401377)
 
 (weggefallen)
 
 
 ###### § 1509 Ausschließung der fortgesetzten Gütergemeinschaft durch letztwillige Verfügung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147504308)
 
 Jeder Ehegatte kann für den Fall, dass die Ehe durch seinen Tod
 aufgelöst wird, die Fortsetzung der Gütergemeinschaft durch
@@ -29977,12 +31937,14 @@ Entziehung des Pflichtteils entsprechende Anwendung.
 
 
 ###### § 1510 Wirkung der Ausschließung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147602377)
 
 Wird die Fortsetzung der Gütergemeinschaft ausgeschlossen, so gilt das
 Gleiche wie im Falle des § 1482.
 
 
 ###### § 1511 Ausschließung eines Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147703377)
 
 (1) Jeder Ehegatte kann für den Fall, dass die Ehe durch seinen Tod
 aufgelöst wird, einen gemeinschaftlichen Abkömmling von der
@@ -30004,6 +31966,7 @@ er den Abkömmlingen zur Last, denen die Ausschließung zustatten kommt.
 
 
 ###### § 1512 Herabsetzung des Anteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147802377)
 
 Jeder Ehegatte kann für den Fall, dass mit seinem Tode die
 fortgesetzte Gütergemeinschaft eintritt, den einem anteilsberechtigten
@@ -30013,6 +31976,7 @@ auf die Hälfte herabsetzen.
 
 
 ###### § 1513 Entziehung des Anteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE147903140)
 
 (1) Jeder Ehegatte kann für den Fall, dass mit seinem Tode die
 fortgesetzte Gütergemeinschaft eintritt, einem anteilsberechtigten
@@ -30029,6 +31993,7 @@ unterwerfen.
 
 
 ###### § 1514 Zuwendung des entzogenen Betrags
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148002377)
 
 Jeder Ehegatte kann den Betrag, den er nach § 1512 oder nach § 1513
 Abs. 1 einem Abkömmling entzieht, auch einem Dritten durch
@@ -30036,6 +32001,7 @@ letztwillige Verfügung zuwenden.
 
 
 ###### § 1515 Übernahmerecht eines Abkömmlings und des Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148102377)
 
 (1) Jeder Ehegatte kann für den Fall, dass mit seinem Tode die
 fortgesetzte Gütergemeinschaft eintritt, durch letztwillige Verfügung
@@ -30054,6 +32020,7 @@ werden.
 
 
 ###### § 1516 Zustimmung des anderen Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148203123)
 
 (1) Zur Wirksamkeit der in den §§ 1511 bis 1515 bezeichneten
 Verfügungen eines Ehegatten ist die Zustimmung des anderen Ehegatten
@@ -30068,6 +32035,7 @@ Verfügungen auch in einem gemeinschaftlichen Testament treffen.
 
 
 ###### § 1517 Verzicht eines Abkömmlings auf seinen Anteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148303125)
 
 (1) Zur Wirksamkeit eines Vertrags, durch den ein gemeinschaftlicher
 Abkömmling einem der Ehegatten gegenüber für den Fall, dass die Ehe
@@ -30082,6 +32050,7 @@ entsprechende Anwendung.
 
 
 ###### § 1518 Zwingendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148402377)
 
 Anordnungen, die mit den Vorschriften der §§ 1483 bis 1517 in
 Widerspruch stehen, können von den Ehegatten weder durch letztwillige
@@ -30092,10 +32061,12 @@ bleibt unberührt.
 
 
 ###### Kapitel 4 - Wahl-Zugewinngemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG026700140)
 
 
 
 ###### § 1519 Vereinbarung durch Ehevertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271200140)
 
 Vereinbaren die Ehegatten durch Ehevertrag den Güterstand der Wahl-
 Zugewinngemeinschaft, so gelten die Vorschriften des Abkommens vom 4.
@@ -30106,26 +32077,32 @@ anzuwenden.
 
 
 ###### (XXXX) §§ 1520 bis 1557 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148502140)
 
 
 
 ##### Untertitel 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012803125)
 
 
 
 ###### (XXXX) §§ 1558 bis 1563 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE148605125)
 
 
 
 #### Titel 7 - Scheidung der Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG012902377)
 
 
 
 ##### Untertitel 1 - Scheidungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013002377)
 
 
 
 ###### § 1564 Scheidung durch richterliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149203140)
 
 Eine Ehe kann nur durch richterliche Entscheidung auf Antrag eines
 oder beider Ehegatten geschieden werden. Die Ehe ist mit der
@@ -30135,6 +32112,7 @@ folgenden Vorschriften.
 
 
 ###### § 1565 Scheitern der Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149302377)
 
 (1) Eine Ehe kann geschieden werden, wenn sie gescheitert ist. Die Ehe
 ist gescheitert, wenn die Lebensgemeinschaft der Ehegatten nicht mehr
@@ -30148,6 +32126,7 @@ liegen, eine unzumutbare Härte darstellen würde.
 
 
 ###### § 1566 Vermutung für das Scheitern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149402377)
 
 (1) Es wird unwiderlegbar vermutet, dass die Ehe gescheitert ist, wenn
 die Ehegatten seit einem Jahr getrennt leben und beide Ehegatten die
@@ -30158,6 +32137,7 @@ die Ehegatten seit drei Jahren getrennt leben.
 
 
 ###### § 1567 Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149502377)
 
 (1) Die Ehegatten leben getrennt, wenn zwischen ihnen keine häusliche
 Gemeinschaft besteht und ein Ehegatte sie erkennbar nicht herstellen
@@ -30171,6 +32151,7 @@ Fristen nicht.
 
 
 ###### § 1568 Härteklausel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149603377)
 
 (1) Die Ehe soll nicht geschieden werden, obwohl sie gescheitert ist,
 wenn und solange die Aufrechterhaltung der Ehe im Interesse der aus
@@ -30185,10 +32166,12 @@ Antragstellers ausnahmsweise geboten erscheint.
 
 
 ##### Untertitel 1a - Behandlung der Ehewohnung und der Haushaltsgegenstände anlässlich der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG025701160)
 
 
 
 ###### § 1568a Ehewohnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264201160)
 
 (1) Ein Ehegatte kann verlangen, dass ihm der andere Ehegatte
 anlässlich der Scheidung die Ehewohnung überlässt, wenn er auf deren
@@ -30245,6 +32228,7 @@ vorher rechtshängig gemacht worden ist.
 
 
 ###### § 1568b Haushaltsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264301160)
 
 (1) Jeder Ehegatte kann verlangen, dass ihm der andere Ehegatte
 anlässlich der Scheidung die im gemeinsamen Eigentum stehenden
@@ -30264,14 +32248,17 @@ angemessene Ausgleichszahlung verlangen.
 
 
 ##### Untertitel 2 - Unterhalt des geschiedenen Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013102377)
 
 
 
 ###### Kapitel 1 - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013202377)
 
 
 
 ###### § 1569 Grundsatz der Eigenverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149703377)
 
 Nach der Scheidung obliegt es jedem Ehegatten, selbst für seinen
 Unterhalt zu sorgen. Ist er dazu außerstande, hat er gegen den anderen
@@ -30280,10 +32267,12 @@ Vorschriften.
 
 
 ###### Kapitel 2 - Unterhaltsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013302377)
 
 
 
 ###### § 1570 Unterhalt wegen Betreuung eines Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149803377)
 
 (1) Ein geschiedener Ehegatte kann von dem anderen wegen der Pflege
 oder Erziehung eines gemeinschaftlichen Kindes für mindestens drei
@@ -30299,6 +32288,7 @@ entspricht.
 
 
 ###### § 1571 Unterhalt wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE149902377)
 
 Ein geschiedener Ehegatte kann von dem anderen Unterhalt verlangen,
 soweit von ihm im Zeitpunkt
@@ -30320,6 +32310,7 @@ kann.
 
 
 ###### § 1572 Unterhalt wegen Krankheit oder Gebrechen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150002377)
 
 Ein geschiedener Ehegatte kann von dem anderen Unterhalt verlangen,
 solange und soweit von ihm vom Zeitpunkt
@@ -30345,6 +32336,7 @@ erwartet werden kann.
 
 
 ###### § 1573 Unterhalt wegen Erwerbslosigkeit und Aufstockungsunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150104377)
 
 (1) Soweit ein geschiedener Ehegatte keinen Unterhaltsanspruch nach
 den §§ 1570 bis 1572 hat, kann er gleichwohl Unterhalt verlangen,
@@ -30373,6 +32365,7 @@ vollen Unterhalt verlangen.
 
 
 ###### § 1574 Angemessene Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150203377)
 
 (1) Dem geschiedenen Ehegatten obliegt es, eine angemessene
 Erwerbstätigkeit auszuüben.
@@ -30392,6 +32385,7 @@ Abschluss der Ausbildung zu erwarten ist.
 
 
 ###### § 1575 Ausbildung, Fortbildung oder Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150302377)
 
 (1) Ein geschiedener Ehegatte, der in Erwartung der Ehe oder während
 der Ehe eine Schul- oder Berufsausbildung nicht aufgenommen oder
@@ -30415,6 +32409,7 @@ erreichte höhere Ausbildungsstand außer Betracht.
 
 
 ###### § 1576 Unterhalt aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150402377)
 
 Ein geschiedener Ehegatte kann von dem anderen Unterhalt verlangen,
 soweit und solange von ihm aus sonstigen schwerwiegenden Gründen eine
@@ -30425,6 +32420,7 @@ berücksichtigt werden, weil sie zum Scheitern der Ehe geführt haben.
 
 
 ###### § 1577 Bedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150503377)
 
 (1) Der geschiedene Ehegatte kann den Unterhalt nach den §§ 1570 bis
 1573, 1575 und 1576 nicht verlangen, solange und soweit er sich aus
@@ -30451,6 +32447,7 @@ kann.
 
 
 ###### § 1578 Maß des Unterhalts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150605377)
 
 (1) Das Maß des Unterhalts bestimmt sich nach den ehelichen
 Lebensverhältnissen. Der Unterhalt umfasst den gesamten Lebensbedarf.
@@ -30467,12 +32464,14 @@ verminderten Erwerbsfähigkeit.
 
 
 ###### § 1578a Deckungsvermutung bei schadensbedingten Mehraufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE237802377)
 
 Für Aufwendungen infolge eines Körper- oder Gesundheitsschadens gilt §
 1610a.
 
 
 ###### § 1578b Herabsetzung und zeitliche Begrenzung des Unterhalts wegen Unbilligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263801377)
 
 (1) Der Unterhaltsanspruch des geschiedenen Ehegatten ist auf den
 angemessenen Lebensbedarf herabzusetzen, wenn eine an den ehelichen
@@ -30498,6 +32497,7 @@ können miteinander verbunden werden.
 
 
 ###### § 1579 Beschränkung oder Versagung des Unterhalts wegen grober Unbilligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150704377)
 
 Ein Unterhaltsanspruch ist zu versagen, herabzusetzen oder zeitlich zu
 begrenzen, soweit die Inanspruchnahme des Verpflichteten auch unter
@@ -30540,6 +32540,7 @@ anvertrauten gemeinschaftlichen Kindes grob unbillig wäre, weil
 
 
 ###### § 1580 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150802377)
 
 Die geschiedenen Ehegatten sind einander verpflichtet, auf Verlangen
 über ihre Einkünfte und ihr Vermögen Auskunft zu erteilen. § 1605 ist
@@ -30547,10 +32548,12 @@ entsprechend anzuwenden.
 
 
 ###### Kapitel 3 - Leistungsfähigkeit und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013402377)
 
 
 
 ###### § 1581 Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE150902377)
 
 Ist der Verpflichtete nach seinen Erwerbs- und Vermögensverhältnissen
 unter Berücksichtigung seiner sonstigen Verpflichtungen außerstande,
@@ -30564,12 +32567,14 @@ beiderseitigen wirtschaftlichen Verhältnisse unbillig wäre.
 
 
 ###### § 1582 Rang des geschiedenen Ehegatten bei mehreren Unterhaltsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151003377)
 
 Sind mehrere Unterhaltsberechtigte vorhanden, richtet sich der Rang
 des geschiedenen Ehegatten nach § 1609.
 
 
 ###### § 1583 Einfluss des Güterstands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151102377)
 
 Lebt der Verpflichtete im Falle der Wiederheirat mit seinem neuen
 Ehegatten im Güterstand der Gütergemeinschaft, so ist § 1604
@@ -30577,6 +32582,7 @@ entsprechend anzuwenden.
 
 
 ###### § 1584 Rangverhältnisse mehrerer Unterhaltsverpflichteter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151203377)
 
 Der unterhaltspflichtige geschiedene Ehegatte haftet vor den
 Verwandten des Berechtigten. Soweit jedoch der Verpflichtete nicht
@@ -30585,10 +32591,12 @@ Ehegatten. § 1607 Abs. 2 und 4 gilt entsprechend.
 
 
 ###### Kapitel 4 - Gestaltung des Unterhaltsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013502377)
 
 
 
 ###### § 1585 Art der Unterhaltsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151302377)
 
 (1) Der laufende Unterhalt ist durch Zahlung einer Geldrente zu
 gewähren. Die Rente ist monatlich im Voraus zu entrichten. Der
@@ -30602,6 +32610,7 @@ dadurch nicht unbillig belastet wird.
 
 
 ###### § 1585a Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151402377)
 
 (1) Der Verpflichtete hat auf Verlangen Sicherheit zu leisten. Die
 Verpflichtung, Sicherheit zu leisten, entfällt, wenn kein Grund zu der
@@ -30617,6 +32626,7 @@ die Beschränkung des § 232 gilt nicht.
 
 
 ###### § 1585b Unterhalt für die Vergangenheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151503377)
 
 (1) Wegen eines Sonderbedarfs (§ 1613 Abs. 2) kann der Berechtigte
 Unterhalt für die Vergangenheit verlangen.
@@ -30632,6 +32642,7 @@ absichtlich entzogen hat.
 
 
 ###### § 1585c Vereinbarungen über den Unterhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151603377)
 
 Die Ehegatten können über die Unterhaltspflicht für die Zeit nach der
 Scheidung Vereinbarungen treffen. Eine Vereinbarung, die vor der
@@ -30642,10 +32653,12 @@ wird.
 
 
 ###### Kapitel 5 - Ende des Unterhaltsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013602377)
 
 
 
 ###### § 1586 Wiederverheiratung, Begründung einer Lebenspartnerschaft oder Tod des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151703377)
 
 (1) Der Unterhaltsanspruch erlischt mit der Wiederheirat, der
 Begründung einer Lebenspartnerschaft oder dem Tode des Berechtigten.
@@ -30657,6 +32670,7 @@ Lebenspartnerschaft oder des Todes fälligen Monatsbetrag.
 
 
 ###### § 1586a Wiederaufleben des Unterhaltsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151804377)
 
 (1) Geht ein geschiedener Ehegatte eine neue Ehe oder
 Lebenspartnerschaft ein und wird die Ehe oder Lebenspartnerschaft
@@ -30670,6 +32684,7 @@ entsprechende Anwendung.
 
 
 ###### § 1586b Kein Erlöschen bei Tod des Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE151902377)
 
 (1) Mit dem Tode des Verpflichteten geht die Unterhaltspflicht auf den
 Erben als Nachlassverbindlichkeit über. Die Beschränkungen nach § 1581
@@ -30683,10 +32698,12 @@ außer Betracht.
 
 
 ##### Untertitel 3 - Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG013703140)
 
 
 
 ###### § 1587 Verweis auf das Versorgungsausgleichsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE152004140)
 
 Nach Maßgabe des Versorgungsausgleichsgesetzes findet zwischen den
 geschiedenen Ehegatten ein Ausgleich von im In- oder Ausland
@@ -30698,24 +32715,29 @@ Invaliditätsvorsorge.
 
 
 #### Titel 8 - Kirchliche Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG014302377)
 
 
 
 ##### § 1588 (keine Überschrift)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE153601377)
 
 Die kirchlichen Verpflichtungen in Ansehung der Ehe werden durch die
 Vorschriften dieses Abschnitts nicht berührt.
 
 
 ### Abschnitt 2 - Verwandtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG014402377)
 
 
 
 #### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG014502377)
 
 
 
 ##### § 1589 Verwandtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE153702377)
 
 (1) Personen, deren eine von der anderen abstammt, sind in gerader
 Linie verwandt. Personen, die nicht in gerader Linie verwandt sind,
@@ -30727,6 +32749,7 @@ sie vermittelnden Geburten.
 
 
 ##### § 1590 Schwägerschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE153802377)
 
 (1) Die Verwandten eines Ehegatten sind mit dem anderen Ehegatten
 verschwägert. Die Linie und der Grad der Schwägerschaft bestimmen sich
@@ -30737,15 +32760,18 @@ begründet wurde, aufgelöst ist.
 
 
 #### Titel 2 - Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG014603377)
 
 
 
 ##### § 1591 Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE153903377)
 
 Mutter eines Kindes ist die Frau, die es geboren hat.
 
 
 ##### § 1592 Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154005140)
 
 Vater eines Kindes ist der Mann,
 
@@ -30765,6 +32791,7 @@ Vater eines Kindes ist der Mann,
 
 
 ##### § 1593 Vaterschaft bei Auflösung der Ehe durch Tod
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154104377)
 
 § 1592 Nr. 1 gilt entsprechend, wenn die Ehe durch Tod aufgelöst wurde
 und innerhalb von 300 Tagen nach der Auflösung ein Kind geboren wird.
@@ -30779,6 +32806,7 @@ Kindes ist, so ist es Kind des früheren Ehemanns.
 
 
 ##### § 1594 Anerkennung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154203377)
 
 (1) Die Rechtswirkungen der Anerkennung können, soweit sich nicht aus
 dem Gesetz anderes ergibt, erst von dem Zeitpunkt an geltend gemacht
@@ -30794,6 +32822,7 @@ unwirksam.
 
 
 ##### § 1595 Zustimmungsbedürftigkeit der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154303377)
 
 (1) Die Anerkennung bedarf der Zustimmung der Mutter.
 
@@ -30804,6 +32833,7 @@ Mutter insoweit die elterliche Sorge nicht zusteht.
 
 
 ##### § 1596 Anerkennung und Zustimmung bei fehlender oder beschränkter Geschäftsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154506360)
 
 (1) Wer in der Geschäftsfähigkeit beschränkt ist, kann nur selbst
 anerkennen. Die Zustimmung des gesetzlichen Vertreters ist
@@ -30827,6 +32857,7 @@ Bevollmächtigten erklärt werden.
 
 
 ##### § 1597 Formerfordernisse; Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154604377)
 
 (1) Anerkennung und Zustimmung müssen öffentlich beurkundet werden.
 
@@ -30841,6 +32872,7 @@ und 4 entsprechend.
 
 
 ##### § 1597a Verbot der missbräuchlichen Anerkennung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280200123)
 
 (1) Die Vaterschaft darf nicht gezielt gerade zu dem Zweck anerkannt
 werden, die rechtlichen Voraussetzungen für die erlaubte Einreise oder
@@ -30906,6 +32938,7 @@ ist.
 
 
 ##### § 1598 Unwirksamkeit von Anerkennung, Zustimmung und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154705123)
 
 (1) Anerkennung, Zustimmung und Widerruf sind nur unwirksam, wenn sie
 den Erfordernissen nach § 1594 Absatz 2 bis 4 und der §§ 1595 bis 1597
@@ -30919,6 +32952,7 @@ den Erfordernissen der vorstehenden Vorschriften nicht genügt.
 
 
 ##### § 1598a Anspruch auf Einwilligung in eine genetische Untersuchung zur Klärung der leiblichen Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE264000140)
 
 (1) Zur Klärung der leiblichen Abstammung des Kindes können
 
@@ -30956,6 +32990,7 @@ entscheidet das Familiengericht.
 
 
 ##### § 1599 Nichtbestehen der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154804308)
 
 (1) § 1592 Nr. 1 und 2 und § 1593 gelten nicht, wenn auf Grund einer
 Anfechtung rechtskräftig festgestellt ist, dass der Mann nicht der
@@ -30975,6 +33010,7 @@ des dem Scheidungsantrag stattgebenden Beschlusses wirksam.
 
 
 ##### § 1600 Anfechtungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE154907123)
 
 (1) Berechtigt, die Vaterschaft anzufechten, sind:
 
@@ -31013,6 +33049,7 @@ Mutter ausgeschlossen.
 
 
 ##### § 1600a Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE155004377)
 
 (1) Die Anfechtung kann nicht durch einen Bevollmächtigten erfolgen.
 
@@ -31033,6 +33070,7 @@ anfechten.
 
 
 ##### § 1600b Anfechtungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE263902123)
 
 (1) Die Vaterschaft kann binnen zwei Jahren gerichtlich angefochten
 werden. Die Frist beginnt mit dem Zeitpunkt, in dem der Berechtigte
@@ -31073,6 +33111,7 @@ Kind mit diesem Zeitpunkt die Frist des Absatzes 1 Satz 1 erneut.
 
 
 ##### § 1600c Vaterschaftsvermutung im Anfechtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE155204377)
 
 (1) In dem Verfahren auf Anfechtung der Vaterschaft wird vermutet,
 dass das Kind von dem Mann abstammt, dessen Vaterschaft nach § 1592
@@ -31085,6 +33124,7 @@ in diesem Falle ist § 1600d Abs. 2 und 3 entsprechend anzuwenden.
 
 
 ##### § 1600d Gerichtliche Feststellung der Vaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE155305123)
 
 (1) Besteht keine Vaterschaft nach § 1592 Nr. 1 und 2, § 1593, so ist
 die Vaterschaft gerichtlich festzustellen.
@@ -31114,20 +33154,24 @@ geltend gemacht werden.
 
 
 #### Titel 3 - Unterhaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG014902377)
 
 
 
 ##### Untertitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG015002377)
 
 
 
 ###### § 1601 Unterhaltsverpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE156402377)
 
 Verwandte in gerader Linie sind verpflichtet, einander Unterhalt zu
 gewähren.
 
 
 ###### § 1602 Bedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE156503123)
 
 (1) Unterhaltsberechtigt ist nur, wer außerstande ist, sich selbst zu
 unterhalten.
@@ -31139,6 +33183,7 @@ nicht ausreichen.
 
 
 ###### § 1603 Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE156604123)
 
 (1) Unterhaltspflichtig ist nicht, wer bei Berücksichtigung seiner
 sonstigen Verpflichtungen außerstande ist, ohne Gefährdung seines
@@ -31157,6 +33202,7 @@ seines Vermögens bestritten werden kann.
 
 
 ###### § 1604 Einfluss des Güterstands
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE156703377)
 
 Lebt der Unterhaltspflichtige in Gütergemeinschaft, bestimmt sich
 seine Unterhaltspflicht Verwandten gegenüber so, als ob das Gesamtgut
@@ -31168,6 +33214,7 @@ des Verpflichteten beruht.
 
 
 ###### § 1605 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE156802377)
 
 (1) Verwandte in gerader Linie sind einander verpflichtet, auf
 Verlangen über ihre Einkünfte und ihr Vermögen Auskunft zu erteilen,
@@ -31184,6 +33231,7 @@ Vermögen erworben hat.
 
 
 ###### § 1606 Rangverhältnisse mehrerer Pflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE156904123)
 
 (1) Die Abkömmlinge sind vor den Verwandten der aufsteigenden Linie
 unterhaltspflichtig.
@@ -31199,6 +33247,7 @@ Kindes.
 
 
 ###### § 1607 Ersatzhaftung und gesetzlicher Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157003377)
 
 (1) Soweit ein Verwandter auf Grund des § 1603 nicht
 unterhaltspflichtig ist, hat der nach ihm haftende Verwandte den
@@ -31221,6 +33270,7 @@ Unterhaltsberechtigten geltend gemacht werden.
 
 
 ###### § 1608 Haftung des Ehegatten oder Lebenspartners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157104377)
 
 (1) Der Ehegatte des Bedürftigen haftet vor dessen Verwandten. Soweit
 jedoch der Ehegatte bei Berücksichtigung seiner sonstigen
@@ -31233,6 +33283,7 @@ des Bedürftigen haftet in gleicher Weise wie ein Ehegatte.
 
 
 ###### § 1609 Rangfolge mehrerer Unterhaltsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157205123)
 
 Sind mehrere Unterhaltsberechtigte vorhanden und ist der
 Unterhaltspflichtige außerstande, allen Unterhalt zu gewähren, gilt
@@ -31268,6 +33319,7 @@ folgende Rangfolge:
 
 
 ###### § 1610 Maß des Unterhalts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157305377)
 
 (1) Das Maß des zu gewährenden Unterhalts bestimmt sich nach der
 Lebensstellung des Bedürftigen (angemessener Unterhalt).
@@ -31278,6 +33330,7 @@ Erziehung bedürftigen Person auch die Kosten der Erziehung.
 
 
 ###### § 1610a Deckungsvermutung bei schadensbedingten Mehraufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE237902377)
 
 Werden für Aufwendungen infolge eines Körper- oder Gesundheitsschadens
 Sozialleistungen in Anspruch genommen, wird bei der Feststellung eines
@@ -31286,6 +33339,7 @@ geringer sind als die Höhe dieser Sozialleistungen.
 
 
 ###### § 1611 Beschränkung oder Wegfall der Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157403123)
 
 (1) Ist der Unterhaltsberechtigte durch sein sittliches Verschulden
 bedürftig geworden, hat er seine eigene Unterhaltspflicht gegenüber
@@ -31306,6 +33360,7 @@ Unterhaltspflichtige in Anspruch nehmen.
 
 
 ###### § 1612 Art der Unterhaltsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157505377)
 
 (1) Der Unterhalt ist durch Entrichtung einer Geldrente zu gewähren.
 Der Verpflichtete kann verlangen, dass ihm die Gewährung des
@@ -31326,6 +33381,7 @@ Berechtigte im Laufe des Monats stirbt.
 
 
 ###### § 1612a Mindestunterhalt minderjähriger Kinder; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157611308)
 
 (1) Ein minderjähriges Kind kann von einem Elternteil, mit dem es
 nicht in einem Haushalt lebt, den Unterhalt als Prozentsatz des
@@ -31367,6 +33423,7 @@ bedarf, festzulegen.
 
 
 ###### § 1612b Deckung des Barbedarfs durch Kindergeld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240804377)
 
 (1) Das auf das Kind entfallende Kindergeld ist zur Deckung seines
 Barbedarfs zu verwenden:
@@ -31387,12 +33444,14 @@ bedarfsmindernd zu berücksichtigen.
 
 
 ###### § 1612c Anrechnung anderer kindbezogener Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240902377)
 
 § 1612b gilt entsprechend für regelmäßig wiederkehrende kindbezogene
 Leistungen, soweit sie den Anspruch auf Kindergeld ausschließen.
 
 
 ###### § 1613 Unterhalt für die Vergangenheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157703377)
 
 (1) Für die Vergangenheit kann der Berechtigte Erfüllung oder
 Schadensersatz wegen Nichterfüllung nur von dem Zeitpunkt an fordern,
@@ -31439,6 +33498,7 @@ Verpflichteten Unterhalt gewährt hat.
 
 
 ###### § 1614 Verzicht auf den Unterhaltsanspruch; Vorausleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157802377)
 
 (1) Für die Zukunft kann auf den Unterhalt nicht verzichtet werden.
 
@@ -31450,6 +33510,7 @@ befreit.
 
 
 ###### § 1615 Erlöschen des Unterhaltsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE157902377)
 
 (1) Der Unterhaltsanspruch erlischt mit dem Tode des Berechtigten oder
 des Verpflichteten, soweit er nicht auf Erfüllung oder Schadensersatz
@@ -31463,10 +33524,12 @@ Erben zu erlangen ist.
 
 
 ##### Untertitel 2 - Besondere Vorschriften für das Kind und seine nicht miteinander verheirateten Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG015103377)
 
 
 
 ###### § 1615a Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE158003377)
 
 Besteht für ein Kind keine Vaterschaft nach § 1592 Nr. 1, § 1593 und
 haben die Eltern das Kind auch nicht während ihrer Ehe gezeugt oder
@@ -31476,9 +33539,11 @@ Vorschriften ergibt.
 
 
 ###### (XXXX) §§ 1615b bis 1615k (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE158102377)
 
 
 ###### § 1615l Unterhaltsanspruch von Mutter und Vater aus Anlass der Geburt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159006377)
 
 (1) Der Vater hat der Mutter für die Dauer von sechs Wochen vor und
 acht Wochen nach der Geburt des Kindes Unterhalt zu gewähren. Dies
@@ -31508,6 +33573,7 @@ entsprechend.
 
 
 ###### § 1615m Beerdigungskosten für die Mutter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159102377)
 
 Stirbt die Mutter infolge der Schwangerschaft oder der Entbindung, so
 hat der Vater die Kosten der Beerdigung zu tragen, soweit ihre
@@ -31515,6 +33581,7 @@ Bezahlung nicht von dem Erben der Mutter zu erlangen ist.
 
 
 ###### § 1615n Kein Erlöschen bei Tod des Vaters oder Totgeburt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159203377)
 
 Die Ansprüche nach den §§ 1615l, 1615m bestehen auch dann, wenn der
 Vater vor der Geburt des Kindes gestorben oder wenn das Kind tot
@@ -31523,15 +33590,18 @@ geboren ist. Bei einer Fehlgeburt gelten die Vorschriften der §§
 
 
 #### Titel 4 - Rechtsverhältnis zwischen den Eltern und dem Kind im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG015202377)
 
 
 
 ##### § 1616 Geburtsname bei Eltern mit Ehenamen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159404377)
 
 Das Kind erhält den Ehenamen seiner Eltern als Geburtsnamen.
 
 
 ##### § 1617 Geburtsname bei Eltern ohne Ehenamen und gemeinsamer Sorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159507360)
 
 (1) Führen die Eltern keinen Ehenamen und steht ihnen die elterliche
 Sorge gemeinsam zu, so bestimmen sie durch Erklärung gegenüber dem
@@ -31591,6 +33661,7 @@ gilt auch für ihre weiteren gemeinsamen Kinder.
 
 
 ##### § 1617a Geburtsname bei Eltern ohne Ehenamen und Alleinsorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239205360)
 
 (1) Führen die Eltern keinen Ehenamen und steht die elterliche Sorge
 nur einem Elternteil zu, so erhält das Kind den Familiennamen, den
@@ -31621,6 +33692,7 @@ Satz 2 entsprechend.
 
 
 ##### § 1617b Name bei nachträglicher gemeinsamer Sorge oder Scheinvaterschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239304360)
 
 (1) Wird eine gemeinsame Sorge der Eltern erst begründet, wenn das
 Kind bereits einen Geburtsnamen führt, so kann dieser neu bestimmt
@@ -31645,6 +33717,7 @@ Name aus mehreren Namen besteht.
 
 
 ##### § 1617c Name bei Namensänderung der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239406360)
 
 (1) Bestimmen die Eltern einen Ehenamen, nachdem das Kind das fünfte
 Lebensjahr vollendet hat, so erstreckt sich der Ehename auf den
@@ -31674,6 +33747,7 @@ anschließt; Absatz 1 Satz 3 gilt entsprechend.
 
 
 ##### § 1617d Name nach Scheidung der Eltern oder Tod eines Elternteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292600360)
 
 (1) Derjenige Elternteil, dessen Name nicht Ehename geworden ist, dem
 die elterliche Sorge für ein Kind nach der Scheidung der Eltern allein
@@ -31724,6 +33798,7 @@ Elternteils. § 1617c Absatz 3 gilt entsprechend.
 
 
 ##### § 1617e Einbenennung, Rückbenennung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292700360)
 
 (1) Der Elternteil, dem die elterliche Sorge für ein Kind allein oder
 gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der
@@ -31776,6 +33851,7 @@ Absatz 1 Satz 2 und Absatz 3 gilt entsprechend.
 
 
 ##### § 1617f Geschlechtsangepasste Form des Geburtsnamens nach sorbischer Tradition und ausländischen Rechtsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292800360)
 
 (1) Der Geburtsname eines Kindes kann durch Erklärung gegenüber dem
 Standesamt seinem Geschlecht angepasst werden, wenn
@@ -31826,6 +33902,7 @@ zulässig.
 
 
 ##### § 1617g Geburtsname nach friesischer Tradition
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE292900360)
 
 (1) Abweichend von § 1616 und ergänzend zu den in den §§ 1617 bis
 1617b genannten Möglichkeiten kann zum Geburtsnamen eines
@@ -31867,6 +33944,7 @@ Geburtsnamens des Kindes gilt § 1617f entsprechend.
 
 
 ##### § 1617h Geburtsname nach dänischer Tradition
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE293000360)
 
 (1) Abweichend von § 1616 und ergänzend zu den in den §§ 1617 bis
 1617b genannten Möglichkeiten kann zum Geburtsnamen eines
@@ -31898,6 +33976,7 @@ zu erklären; sie muss öffentlich beglaubigt werden.
 
 
 ##### § 1617i Neubestimmung des Familiennamens durch volljährige Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE293100360)
 
 (1) Jede volljährige Person kann den Geburtsnamen, den sie als
 Minderjährige erworben hat, einmalig wie folgt neu bestimmen:
@@ -31960,11 +34039,13 @@ Standesamt abzugeben und öffentlich zu beglaubigen.
 
 
 ##### § 1618 Pflicht zu Beistand und Rücksicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159703360)
 
 Eltern und Kinder sind einander Beistand und Rücksicht schuldig.
 
 
 ##### § 1619 Dienstleistungen in Haus und Geschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159802377)
 
 Das Kind ist, solange es dem elterlichen Hausstand angehört und von
 den Eltern erzogen oder unterhalten wird, verpflichtet, in einer
@@ -31973,6 +34054,7 @@ Eltern in ihrem Hauswesen und Geschäft Dienste zu leisten.
 
 
 ##### § 1620 Aufwendungen des Kindes für den elterlichen Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE159902377)
 
 Macht ein dem elterlichen Hausstand angehörendes volljähriges Kind zur
 Bestreitung der Kosten des Haushalts aus seinem Vermögen eine
@@ -31982,10 +34064,12 @@ Ersatz zu verlangen.
 
 
 ##### (XXXX) §§ 1621 bis 1623 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160001377)
 
 
 
 ##### § 1624 Ausstattung aus dem Elternvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160103308)
 
 (1) Was einem Kind mit Rücksicht auf seine Verheiratung, auf seine
 Begründung einer Lebenspartnerschaft oder auf die Erlangung einer
@@ -32003,6 +34087,7 @@ Gewährleistungspflicht des Schenkers geltenden Vorschriften.
 
 
 ##### § 1625 Ausstattung aus dem Kindesvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160203377)
 
 Gewährt der Vater einem Kind, dessen Vermögen kraft elterlicher Sorge,
 Vormundschaft oder Betreuung seiner Verwaltung unterliegt, eine
@@ -32012,10 +34097,12 @@ Anwendung.
 
 
 #### Titel 5 - Elterliche Sorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG015303377)
 
 
 
 ##### § 1626 Elterliche Sorge, Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160303377)
 
 (1) Die Eltern haben die Pflicht und das Recht, für das minderjährige
 Kind zu sorgen (elterliche Sorge). Die elterliche Sorge umfasst die
@@ -32035,6 +34122,7 @@ seine Entwicklung förderlich ist.
 
 
 ##### § 1626a Elterliche Sorge nicht miteinander verheirateter Eltern; Sorgeerklärungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239504377)
 
 (1) Sind die Eltern bei der Geburt des Kindes nicht miteinander
 verheiratet, so steht ihnen die elterliche Sorge gemeinsam zu,
@@ -32065,6 +34153,7 @@ widerspricht.
 
 
 ##### § 1626b Besondere Wirksamkeitsvoraussetzungen der Sorgeerklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239603377)
 
 (1) Eine Sorgeerklärung unter einer Bedingung oder einer
 Zeitbestimmung ist unwirksam.
@@ -32079,6 +34168,7 @@ Nummer 3 oder § 1671 getroffen oder eine solche Entscheidung nach §
 
 
 ##### § 1626c Persönliche Abgabe; beschränkt geschäftsfähiger Elternteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239702377)
 
 (1) Die Eltern können die Sorgeerklärungen nur selbst abgeben.
 
@@ -32091,6 +34181,7 @@ Sorgeerklärung dem Wohl dieses Elternteils nicht widerspricht.
 
 
 ##### § 1626d Form; Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239805360)
 
 (1) Sorgeerklärungen und Zustimmungen müssen öffentlich beurkundet
 werden.
@@ -32104,12 +34195,14 @@ Buches Sozialgesetzbuch genannten Zwecken unverzüglich mit.
 
 
 ##### § 1626e Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239902377)
 
 Sorgeerklärungen und Zustimmungen sind nur unwirksam, wenn sie den
 Erfordernissen der vorstehenden Vorschriften nicht genügen.
 
 
 ##### § 1627 Ausübung der elterlichen Sorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160402377)
 
 Die Eltern haben die elterliche Sorge in eigener Verantwortung und in
 gegenseitigem Einvernehmen zum Wohl des Kindes auszuüben. Bei
@@ -32117,6 +34210,7 @@ Meinungsverschiedenheiten müssen sie versuchen, sich zu einigen.
 
 
 ##### § 1628 Gerichtliche Entscheidung bei Meinungsverschiedenheiten der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160503377)
 
 Können sich die Eltern in einer einzelnen Angelegenheit oder in einer
 bestimmten Art von Angelegenheiten der elterlichen Sorge, deren
@@ -32127,6 +34221,7 @@ oder mit Auflagen verbunden werden.
 
 
 ##### § 1629 Vertretung des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160608360)
 
 (1) Die elterliche Sorge umfasst die Vertretung des Kindes. Die Eltern
 vertreten das Kind gemeinschaftlich; ist eine Willenserklärung
@@ -32171,6 +34266,7 @@ für und gegen das Kind.
 
 
 ##### § 1629a Beschränkung der Minderjährigenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE243403140)
 
 (1) Die Haftung für Verbindlichkeiten, die die Eltern im Rahmen ihrer
 gesetzlichen Vertretungsmacht oder sonstige vertretungsberechtigte
@@ -32211,6 +34307,7 @@ Eintritt der Volljährigkeit vorhanden war.
 
 
 ##### § 1630 Elterliche Sorge bei Pflegerbestellung oder Familienpflege
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160703377)
 
 (1) Die elterliche Sorge erstreckt sich nicht auf Angelegenheiten des
 Kindes, für die ein Pfleger bestellt ist.
@@ -32229,6 +34326,7 @@ die Rechte und Pflichten eines Pflegers.
 
 
 ##### § 1631 Inhalt und Grenzen der Personensorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160805360)
 
 (1) Die Personensorge umfasst insbesondere die Pflicht und das Recht,
 das Kind zu pflegen, zu erziehen, zu beaufsichtigen und seinen
@@ -32243,6 +34341,7 @@ Personensorge in geeigneten Fällen zu unterstützen.
 
 
 ##### § 1631a Ausbildung und Beruf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE160903377)
 
 In Angelegenheiten der Ausbildung und des Berufs nehmen die Eltern
 insbesondere auf Eignung und Neigung des Kindes Rücksicht. Bestehen
@@ -32251,6 +34350,7 @@ Person eingeholt werden.
 
 
 ##### § 1631b Freiheitsentziehende Unterbringung und freiheitsentziehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161006123)
 
 (1) Eine Unterbringung des Kindes, die mit Freiheitsentziehung
 verbunden ist, bedarf der Genehmigung des Familiengerichts. Die
@@ -32271,6 +34371,7 @@ soll. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 ##### § 1631c Verbot der Sterilisation
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE236503360)
 
 Die Eltern können nicht in eine Sterilisation des Kindes einwilligen.
 Auch das Kind selbst kann nicht in die Sterilisation einwilligen. §
@@ -32278,6 +34379,7 @@ Auch das Kind selbst kann nicht in die Sterilisation einwilligen. §
 
 
 ##### § 1631d Beschneidung des männlichen Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE271300377)
 
 (1) Die Personensorge umfasst auch das Recht, in eine medizinisch
 nicht erforderliche Beschneidung des nicht einsichts- und
@@ -32294,6 +34396,7 @@ Beschneidung vergleichbar befähigt sind.
 
 
 ##### § 1631e Behandlung von Kindern mit Varianten der Geschlechtsentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281102360)
 
 (1) Die Personensorge umfasst nicht das Recht, in eine Behandlung
 eines nicht einwilligungsfähigen Kindes mit einer Variante der
@@ -32407,6 +34510,7 @@ Person ihr 48. Lebensjahr vollendet.
 
 
 ##### § 1632 Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161104360)
 
 (1) Die Personensorge umfasst das Recht, die Herausgabe des Kindes von
 jedem zu verlangen, der es den Eltern oder einem Elternteil
@@ -32442,14 +34546,17 @@ Pflegeperson auf Dauer ist, wenn
 
 
 ##### § 1633 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161203123)
 
 
 
 ##### (XXXX) §§ 1634 bis 1637 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161401377)
 
 
 
 ##### § 1638 Beschränkung der Vermögenssorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161503360)
 
 (1) Die Vermögenssorge erstreckt sich nicht auf das Vermögen, welches
 das Kind von Todes wegen, durch unentgeltliche Zuwendung auf den
@@ -32469,6 +34576,7 @@ der andere Elternteil. Insoweit vertritt dieser das Kind.
 
 
 ##### § 1639 Anordnungen des Erblassers oder Zuwendenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161604360)
 
 (1) Was das Kind von Todes wegen, durch unentgeltliche Zuwendung auf
 den Todesfall oder unter Lebenden erwirbt, haben die Eltern nach den
@@ -32479,6 +34587,7 @@ der Zuwendung getroffen worden sind.
 
 
 ##### § 1640 Vermögensverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161704377)
 
 (1) Die Eltern haben das ihrer Verwaltung unterliegende Vermögen,
 welches das Kind von Todes wegen erwirbt, zu verzeichnen, das
@@ -32507,6 +34616,7 @@ Behörde oder einen zuständigen Beamten oder Notar aufgenommen wird.
 
 
 ##### § 1641 Schenkungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161802377)
 
 Die Eltern können nicht in Vertretung des Kindes Schenkungen machen.
 Ausgenommen sind Schenkungen, durch die einer sittlichen Pflicht oder
@@ -32514,6 +34624,7 @@ einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
 
 
 ##### § 1642 Anlegung von Geld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE161902377)
 
 Die Eltern haben das ihrer Verwaltung unterliegende Geld des Kindes
 nach den Grundsätzen einer wirtschaftlichen Vermögensverwaltung
@@ -32522,6 +34633,7 @@ ist.
 
 
 ##### § 1643 Genehmigungsbedürftige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162004360)
 
 (1) Die Eltern bedürfen der Genehmigung des Familiengerichts in den
 Fällen, in denen ein Betreuer nach den §§ 1850 bis 1854 der
@@ -32564,6 +34676,7 @@ Genehmigung ist nicht erforderlich, wenn
 
 
 ##### § 1644 Ergänzende Vorschriften für genehmigungsbedürftige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162104360)
 
 (1) Das Familiengericht erteilt die Genehmigung, wenn das
 Rechtsgeschäft dem Wohl des Kindes unter Berücksichtigung der
@@ -32579,12 +34692,14 @@ Genehmigung des Familiengerichts.
 
 
 ##### § 1645 Anzeigepflicht für Erwerbsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162204360)
 
 Die Eltern haben Beginn, Art und Umfang eines neuen Erwerbsgeschäfts
 im Namen des Kindes beim Familiengericht anzuzeigen.
 
 
 ##### § 1646 Erwerb mit Mitteln des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162302377)
 
 (1) Erwerben die Eltern mit Mitteln des Kindes bewegliche Sachen, so
 geht mit dem Erwerb das Eigentum auf das Kind über, es sei denn, dass
@@ -32599,11 +34714,13 @@ Abtretungsvertrag genügt.
 
 
 ##### § 1647
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162401377)
 
 (weggefallen)
 
 
 ##### § 1648 Ersatz von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162502377)
 
 Machen die Eltern bei der Ausübung der Personensorge oder der
 Vermögenssorge Aufwendungen, die sie den Umständen nach für
@@ -32612,6 +34729,7 @@ verlangen, sofern nicht die Aufwendungen ihnen selbst zur Last fallen.
 
 
 ##### § 1649 Verwendung der Einkünfte des Kindesvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162603123)
 
 (1) Die Einkünfte des Kindesvermögens, die zur ordnungsmäßigen
 Verwaltung des Vermögens nicht benötigt werden, sind für den Unterhalt
@@ -32629,10 +34747,12 @@ Beteiligten der Billigkeit entspricht.
 
 
 ##### (XXXX) §§ 1650 bis 1663 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162701377)
 
 
 
 ##### § 1664 Beschränkte Haftung der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162802377)
 
 (1) Die Eltern haben bei der Ausübung der elterlichen Sorge dem Kind
 gegenüber nur für die Sorgfalt einzustehen, die sie in eigenen
@@ -32643,11 +34763,13 @@ als Gesamtschuldner.
 
 
 ##### § 1665
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE162901377)
 
 (weggefallen)
 
 
 ##### § 1666 Gerichtliche Maßnahmen bei Gefährdung des Kindeswohls
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163004140)
 
 (1) Wird das körperliche, geistige oder seelische Wohl des Kindes oder
 sein Vermögen gefährdet und sind die Eltern nicht gewillt oder nicht
@@ -32692,6 +34814,7 @@ Maßnahmen mit Wirkung gegen einen Dritten treffen.
 
 
 ##### § 1666a Grundsatz der Verhältnismäßigkeit; Vorrang öffentlicher Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163103377)
 
 (1) Maßnahmen, mit denen eine Trennung des Kindes von der elterlichen
 Familie verbunden ist, sind nur zulässig, wenn der Gefahr nicht auf
@@ -32712,6 +34835,7 @@ zur Abwendung der Gefahr nicht ausreichen.
 
 
 ##### § 1667 Gerichtliche Maßnahmen bei Gefährdung des Kindesvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163205360)
 
 (1) Das Familiengericht kann anordnen, dass die Eltern ein Verzeichnis
 des Vermögens des Kindes einreichen und über die Verwaltung Rechnung
@@ -32743,10 +34867,12 @@ sie veranlasst hat.
 
 
 ##### (XXXX) §§ 1668 bis 1670 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163302377)
 
 
 
 ##### § 1671 Übertragung der Alleinsorge bei Getrenntleben der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163604377)
 
 (1) Leben Eltern nicht nur vorübergehend getrennt und steht ihnen die
 elterliche Sorge gemeinsam zu, so kann jeder Elternteil beantragen,
@@ -32795,10 +34921,12 @@ geregelt werden muss.
 
 
 ##### § 1672 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163704377)
 
 
 
 ##### § 1673 Ruhen der elterlichen Sorge bei rechtlichem Hindernis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163803377)
 
 (1) Die elterliche Sorge eines Elternteils ruht, wenn er
 geschäftsunfähig ist.
@@ -32813,6 +34941,7 @@ und § 1628.
 
 
 ##### § 1674 Ruhen der elterlichen Sorge bei tatsächlichem Hindernis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE163903377)
 
 (1) Die elterliche Sorge eines Elternteils ruht, wenn das
 Familiengericht feststellt, dass er auf längere Zeit die elterliche
@@ -32823,6 +34952,7 @@ feststellt, dass der Grund des Ruhens nicht mehr besteht.
 
 
 ##### § 1674a Ruhen der elterlichen Sorge für ein vertraulich geborenes Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273101360)
 
 Die elterliche Sorge der Eltern für ein nach § 25 Absatz 1 des
 Schwangerschaftskonfliktgesetzes vertraulich geborenes Kind ruht. Die
@@ -32832,17 +34962,20 @@ Kindes erforderlichen Angaben gemacht hat.
 
 
 ##### § 1675 Wirkung des Ruhens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164002377)
 
 Solange die elterliche Sorge ruht, ist ein Elternteil nicht
 berechtigt, sie auszuüben.
 
 
 ##### § 1676
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164101377)
 
 (weggefallen)
 
 
 ##### § 1677 Beendigung der Sorge durch Todeserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164202377)
 
 Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt
 oder seine Todeszeit nach den Vorschriften des
@@ -32851,6 +34984,7 @@ Zeitpunkt des Todes gilt.
 
 
 ##### § 1678 Folgen der tatsächlichen Verhinderung oder des Ruhens für den anderen Elternteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164304377)
 
 (1) Ist ein Elternteil tatsächlich verhindert, die elterliche Sorge
 auszuüben, oder ruht seine elterliche Sorge, so übt der andere Teil
@@ -32865,11 +34999,13 @@ Wohl des Kindes nicht widerspricht.
 
 
 ##### § 1679
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164401377)
 
 (weggefallen)
 
 
 ##### § 1680 Tod eines Elternteils oder Entziehung des Sorgerechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164505377)
 
 (1) Stand die elterliche Sorge den Eltern gemeinsam zu und ist ein
 Elternteil gestorben, so steht die elterliche Sorge dem überlebenden
@@ -32885,6 +35021,7 @@ die elterliche Sorge entzogen wird.
 
 
 ##### § 1681 Todeserklärung eines Elternteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164603377)
 
 (1) § 1680 Abs. 1 und 2 gilt entsprechend, wenn die elterliche Sorge
 eines Elternteils endet, weil er für tot erklärt oder seine Todeszeit
@@ -32898,6 +35035,7 @@ Wohl des Kindes nicht widerspricht.
 
 
 ##### § 1682 Verbleibensanordnung zugunsten von Bezugspersonen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164704377)
 
 Hat das Kind seit längerer Zeit in einem Haushalt mit einem Elternteil
 und dessen Ehegatten gelebt und will der andere Elternteil, der nach
@@ -32912,11 +35050,13 @@ einem Elternteil und dessen Lebenspartner oder einer nach § 1685 Abs.
 
 
 ##### § 1683 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE164805140)
 
 -
 
 
 ##### § 1684 Umgang des Kindes mit den Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240003140)
 
 (1) Das Kind hat das Recht auf Umgang mit jedem Elternteil; jeder
 Elternteil ist zum Umgang mit dem Kind verpflichtet und berechtigt.
@@ -32954,6 +35094,7 @@ wahrnimmt.
 
 
 ##### § 1685 Umgang des Kindes mit anderen Bezugspersonen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240105140)
 
 (1) Großeltern und Geschwister haben ein Recht auf Umgang mit dem
 Kind, wenn dieser dem Wohl des Kindes dient.
@@ -32970,6 +35111,7 @@ wenn die Voraussetzungen des § 1666 Abs. 1 erfüllt sind.
 
 
 ##### § 1686 Auskunft über die persönlichen Verhältnisse des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240203360)
 
 Jeder Elternteil kann vom anderen Elternteil bei berechtigtem
 Interesse Auskunft über die persönlichen Verhältnisse des Kindes
@@ -32977,6 +35119,7 @@ verlangen, soweit dies dem Wohl des Kindes nicht widerspricht.
 
 
 ##### § 1686a Rechte des leiblichen, nicht rechtlichen Vaters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE273000360)
 
 (1) Solange die Vaterschaft eines anderen Mannes besteht, hat der
 leibliche Vater, der ernsthaftes Interesse an dem Kind gezeigt hat,
@@ -33000,6 +35143,7 @@ Absatz 1 erfüllt sind.
 
 
 ##### § 1687 Ausübung der gemeinsamen Sorge bei Getrenntleben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240302377)
 
 (1) Leben Eltern, denen die elterliche Sorge gemeinsam zusteht, nicht
 nur vorübergehend getrennt, so ist bei Entscheidungen in
@@ -33023,6 +35167,7 @@ erforderlich ist.
 
 
 ##### § 1687a Entscheidungsbefugnisse des nicht sorgeberechtigten Elternteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240402377)
 
 Für jeden Elternteil, der nicht Inhaber der elterlichen Sorge ist und
 bei dem sich das Kind mit Einwilligung des anderen Elternteils oder
@@ -33032,6 +35177,7 @@ entsprechend.
 
 
 ##### § 1687b Sorgerechtliche Befugnisse des Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE245402377)
 
 (1) Der Ehegatte eines allein sorgeberechtigten Elternteils, der nicht
 Elternteil des Kindes ist, hat im Einvernehmen mit dem
@@ -33051,6 +35197,7 @@ nicht nur vorübergehend getrennt leben.
 
 
 ##### § 1688 Entscheidungsbefugnisse der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240503360)
 
 (1) Lebt ein Kind für längere Zeit in Familienpflege, so ist die
 Pflegeperson berechtigt, in Angelegenheiten des täglichen Lebens zu
@@ -33078,10 +35225,12 @@ kann.
 
 
 ##### (XXXX) §§ 1689 bis 1692 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE165402377)
 
 
 
 ##### § 1693 Gerichtliche Maßnahmen bei Verhinderung der Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE165803377)
 
 Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das
 Familiengericht die im Interesse des Kindes erforderlichen Maßregeln
@@ -33089,10 +35238,12 @@ zu treffen.
 
 
 ##### (XXXX) §§ 1694 und 1695 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE165901377)
 
 
 
 ##### § 1696 Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE166107360)
 
 (1) Eine Entscheidung zum Sorge- oder Umgangsrecht oder ein
 gerichtlich gebilligter Vergleich ist zu ändern, wenn dies aus
@@ -33115,11 +35266,13 @@ Kindeswohl nicht gefährdet.
 
 
 ##### § 1697 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240603140)
 
 -
 
 
 ##### § 1697a Kindeswohlprinzip
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE240703360)
 
 (1) Soweit nichts anderes bestimmt ist, trifft das Gericht in
 Verfahren über die in diesem Titel geregelten Angelegenheiten
@@ -33142,6 +35295,7 @@ Buches Sozialgesetzbuch erzogen und betreut wird.
 
 
 ##### § 1698 Herausgabe des Kindesvermögens; Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE166302377)
 
 (1) Endet oder ruht die elterliche Sorge der Eltern oder hört aus
 einem anderen Grunde ihre Vermögenssorge auf, so haben sie dem Kind
@@ -33155,6 +35309,7 @@ haben.
 
 
 ##### § 1698a Fortführung der Geschäfte in Unkenntnis der Beendigung der elterlichen Sorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE166402377)
 
 (1) Die Eltern dürfen die mit der Personensorge und mit der
 Vermögenssorge für das Kind verbundenen Geschäfte fortführen, bis sie
@@ -33168,6 +35323,7 @@ elterliche Sorge ruht.
 
 
 ##### § 1698b Fortführung dringender Geschäfte nach Tod des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE166502377)
 
 Endet die elterliche Sorge durch den Tod des Kindes, so haben die
 Eltern die Geschäfte, die nicht ohne Gefahr aufgeschoben werden
@@ -33175,14 +35331,17 @@ können, zu besorgen, bis der Erbe anderweit Fürsorge treffen kann.
 
 
 ##### (XXXX) §§ 1699 bis 1711 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE166601377)
 
 
 
 #### Titel 6 - Beistandschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020302377)
 
 
 
 ##### § 1712 Beistandschaft des Jugendamts; Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE238603140)
 
 (1) Auf schriftlichen Antrag eines Elternteils wird das Jugendamt
 Beistand des Kindes für folgende Aufgaben:
@@ -33203,6 +35362,7 @@ beschränkt werden.
 
 
 ##### § 1713 Antragsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE238704360)
 
 (1) Den Antrag kann ein Elternteil stellen, dem für den Aufgabenkreis
 der beantragten Beistandschaft die alleinige elterliche Sorge zusteht
@@ -33224,6 +35384,7 @@ gesetzlicher Vertreter den Antrag stellen.
 
 
 ##### § 1714 Eintritt der Beistandschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE238802377)
 
 Die Beistandschaft tritt ein, sobald der Antrag dem Jugendamt zugeht.
 Dies gilt auch, wenn der Antrag vor der Geburt des Kindes gestellt
@@ -33231,6 +35392,7 @@ wird.
 
 
 ##### § 1715 Beendigung der Beistandschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE238902377)
 
 (1) Die Beistandschaft endet, wenn der Antragsteller dies schriftlich
 verlangt. § 1712 Abs. 2 und § 1714 gelten entsprechend.
@@ -33240,6 +35402,7 @@ in § 1713 genannten Voraussetzungen mehr erfüllt.
 
 
 ##### § 1716 Wirkungen der Beistandschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239004360)
 
 Durch die Beistandschaft wird die elterliche Sorge nicht
 eingeschränkt. Im Übrigen gelten die Vorschriften über die Pflegschaft
@@ -33248,6 +35411,7 @@ Familiengerichts und die Rechnungslegung sinngemäß.
 
 
 ##### § 1717 Erfordernis des gewöhnlichen Aufenthalts im Inland
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE239102377)
 
 Die Beistandschaft tritt nur ein, wenn das Kind seinen gewöhnlichen
 Aufenthalt im Inland hat; sie endet, wenn das Kind seinen gewöhnlichen
@@ -33256,18 +35420,22 @@ der Geburt des Kindes entsprechend.
 
 
 ##### (XXXX) §§ 1718 bis 1740 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE167602377)
 
 
 
 #### Titel 7 - Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG015903377)
 
 
 
 ##### Untertitel 1 - Annahme Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG016003377)
 
 
 
 ###### § 1741 Zulässigkeit der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE170603377)
 
 (1) Die Annahme als Kind ist zulässig, wenn sie dem Wohl des Kindes
 dient und zu erwarten ist, dass zwischen dem Annehmenden und dem Kind
@@ -33286,6 +35454,7 @@ vollendet hat.
 
 
 ###### § 1742 Annahme nur als gemeinschaftliches Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE170702377)
 
 Ein angenommenes Kind kann, solange das Annahmeverhältnis besteht, bei
 Lebzeiten eines Annehmenden nur von dessen Ehegatten angenommen
@@ -33293,6 +35462,7 @@ werden.
 
 
 ###### § 1743 Mindestalter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE170803377)
 
 Der Annehmende muss das 25., in den Fällen des § 1741 Abs. 2 Satz 3
 das 21. Lebensjahr vollendet haben. In den Fällen des § 1741 Abs. 2
@@ -33301,12 +35471,14 @@ Satz 2 muss ein Ehegatte das 25. Lebensjahr, der andere Ehegatte das
 
 
 ###### § 1744 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE170902377)
 
 Die Annahme soll in der Regel erst ausgesprochen werden, wenn der
 Annehmende das Kind eine angemessene Zeit in Pflege gehabt hat.
 
 
 ###### § 1745 Verbot der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171002377)
 
 Die Annahme darf nicht ausgesprochen werden, wenn ihr überwiegende
 Interessen der Kinder des Annehmenden oder des Anzunehmenden
@@ -33316,6 +35488,7 @@ Vermögensrechtliche Interessen sollen nicht ausschlaggebend sein.
 
 
 ###### § 1746 Einwilligung des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171106360)
 
 (1) Zur Annahme ist die Einwilligung des Kindes erforderlich. Für ein
 Kind, das geschäftsunfähig oder noch nicht 14 Jahre alt ist, kann nur
@@ -33338,6 +35511,7 @@ das Familiengericht ersetzt worden ist.
 
 
 ###### § 1747 Einwilligung der Eltern des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171205360)
 
 (1) Zur Annahme eines Kindes ist die Einwilligung der Eltern
 erforderlich. Sofern kein anderer Mann nach § 1592 als Vater anzusehen
@@ -33378,6 +35552,7 @@ Angaben macht.
 
 
 ###### § 1748 Ersetzung der Einwilligung eines Elternteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171307377)
 
 (1) Das Familiengericht hat auf Antrag des Kindes die Einwilligung
 eines Elternteils zu ersetzen, wenn dieser seine Pflichten gegenüber
@@ -33417,6 +35592,7 @@ dem Kind zu unverhältnismäßigem Nachteil gereichen würde.
 
 
 ###### § 1749 Einwilligung des Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171404123)
 
 (1) Zur Annahme eines Kindes durch einen Ehegatten allein ist die
 Einwilligung des anderen Ehegatten erforderlich. Das Familiengericht
@@ -33430,6 +35606,7 @@ unbekannt ist.
 
 
 ###### § 1750 Einwilligungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171503140)
 
 (1) Die Einwilligung nach §§ 1746, 1747 und 1749 ist dem
 Familiengericht gegenüber zu erklären. Die Erklärung bedarf der
@@ -33454,6 +35631,7 @@ wird.
 
 
 ###### § 1751 Wirkung der elterlichen Einwilligung, Verpflichtung zum Unterhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171605377)
 
 (1) Mit der Einwilligung eines Elternteils in die Annahme ruht die
 elterliche Sorge dieses Elternteils; die Befugnis zum persönlichen
@@ -33482,6 +35660,7 @@ aufgenommen ist.
 
 
 ###### § 1752 Beschluss des Familiengerichts, Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171703140)
 
 (1) Die Annahme als Kind wird auf Antrag des Annehmenden vom
 Familiengericht ausgesprochen.
@@ -33492,6 +35671,7 @@ der notariellen Beurkundung.
 
 
 ###### § 1753 Annahme nach dem Tode
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171803140)
 
 (1) Der Ausspruch der Annahme kann nicht nach dem Tode des Kindes
 erfolgen.
@@ -33506,6 +35686,7 @@ hat sie die gleiche Wirkung, wie wenn sie vor dem Tode erfolgt wäre.
 
 
 ###### § 1754 Wirkung der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE171903377)
 
 (1) Nimmt ein Ehepaar ein Kind an oder nimmt ein Ehegatte ein Kind des
 anderen Ehegatten an, so erlangt das Kind die rechtliche Stellung
@@ -33519,6 +35700,7 @@ Ehegatten gemeinsam, in den Fällen des Absatzes 2 dem Annehmenden zu.
 
 
 ###### § 1755 Erlöschen von Verwandtschaftsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172003377)
 
 (1) Mit der Annahme erlöschen das Verwandtschaftsverhältnis des Kindes
 und seiner Abkömmlinge zu den bisherigen Verwandten und die sich aus
@@ -33533,6 +35715,7 @@ Verwandten ein.
 
 
 ###### § 1756 Bestehenbleiben von Verwandtschaftsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172103377)
 
 (1) Sind die Annehmenden mit dem Kind im zweiten oder dritten Grad
 verwandt oder verschwägert, so erlöschen nur das
@@ -33547,6 +35730,7 @@ verstorben ist.
 
 
 ###### § 1757 Name des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172209360)
 
 (1) Das Kind erhält als Geburtsnamen den Familiennamen des
 Annehmenden. § 1617a Absatz 2 und 4 gilt entsprechend, wobei die
@@ -33582,6 +35766,7 @@ anzuwenden.
 
 
 ###### § 1758 Offenbarungs- und Ausforschungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172303140)
 
 (1) Tatsachen, die geeignet sind, die Annahme und ihre Umstände
 aufzudecken, dürfen ohne Zustimmung des Annehmenden und des Kindes
@@ -33595,12 +35780,14 @@ Einwilligung eines Elternteils gestellt worden ist.
 
 
 ###### § 1759 Aufhebung des Annahmeverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172402377)
 
 Das Annahmeverhältnis kann nur in den Fällen der §§ 1760, 1763
 aufgehoben werden.
 
 
 ###### § 1760 Aufhebung wegen fehlender Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172504140)
 
 (1) Das Annahmeverhältnis kann auf Antrag vom Familiengericht
 aufgehoben werden, wenn es ohne Antrag des Annehmenden, ohne die
@@ -33663,6 +35850,7 @@ anzuwenden.
 
 
 ###### § 1761 Aufhebungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172602377)
 
 (1) Das Annahmeverhältnis kann nicht aufgehoben werden, weil eine
 erforderliche Einwilligung nicht eingeholt worden oder nach § 1760
@@ -33678,6 +35866,7 @@ das Wohl des Kindes erheblich gefährdet würde, es sei denn, dass
 
 
 ###### § 1762 Antragsberechtigung; Antragsfrist, Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172703377)
 
 (1) Antragsberechtigt ist nur derjenige, ohne dessen Antrag oder
 Einwilligung das Kind angenommen worden ist. Für ein Kind, das
@@ -33724,6 +35913,7 @@ entsprechend anzuwenden.
 
 
 ###### § 1763 Aufhebung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172803140)
 
 (1) Während der Minderjährigkeit des Kindes kann das Familiengericht
 das Annahmeverhältnis von Amts wegen aufheben, wenn dies aus
@@ -33748,6 +35938,7 @@ b)  wenn die Aufhebung eine erneute Annahme des Kindes ermöglichen soll.
 
 
 ###### § 1764 Wirkung der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE172903140)
 
 (1) Die Aufhebung wirkt nur für die Zukunft. Hebt das Familiengericht
 das Annahmeverhältnis nach dem Tode des Annehmenden auf dessen Antrag
@@ -33777,6 +35968,7 @@ Absatzes 3 treten nicht ein.
 
 
 ###### § 1765 Name des Kindes nach der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173006360)
 
 (1) Mit der Aufhebung der Annahme als Kind verliert das Kind das
 Recht, den Familiennamen des Annehmenden als Geburtsnamen zu führen.
@@ -33799,6 +35991,7 @@ führen, den das Kind vor der Annahme geführt hat.
 
 
 ###### § 1766 Ehe zwischen Annehmendem und Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173103377)
 
 Schließt ein Annehmender mit dem Angenommenen oder einem seiner
 Abkömmlinge den eherechtlichen Vorschriften zuwider die Ehe, so wird
@@ -33807,6 +36000,7 @@ Rechtsverhältnis aufgehoben. §§ 1764, 1765 sind nicht anzuwenden.
 
 
 ###### § 1766a Annahme von Kindern des nichtehelichen Partners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE280600360)
 
 (1) Für zwei Personen, die in einer verfestigten Lebensgemeinschaft in
 einem gemeinsamen Haushalt leben, gelten die Vorschriften dieses
@@ -33833,10 +36027,12 @@ Absatz 2 gilt entsprechend.
 
 
 ##### Untertitel 2 - Annahme Volljähriger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG016103377)
 
 
 
 ###### § 1767 Zulässigkeit der Annahme, anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173206360)
 
 (1) Ein Volljähriger kann als Kind angenommen werden, wenn die Annahme
 sittlich gerechtfertigt ist; dies ist insbesondere anzunehmen, wenn
@@ -33873,6 +36069,7 @@ Familiengericht abgegeben werden.
 
 
 ###### § 1768 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173305140)
 
 (1) Die Annahme eines Volljährigen wird auf Antrag des Annehmenden und
 des Anzunehmenden vom Familiengericht ausgesprochen. §§ 1742, 1744,
@@ -33883,6 +36080,7 @@ nur von seinem gesetzlichen Vertreter gestellt werden.
 
 
 ###### § 1769 Verbot der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173402377)
 
 Die Annahme eines Volljährigen darf nicht ausgesprochen werden, wenn
 ihr überwiegende Interessen der Kinder des Annehmenden oder des
@@ -33890,6 +36088,7 @@ Anzunehmenden entgegenstehen.
 
 
 ###### § 1770 Wirkung der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173503377)
 
 (1) Die Wirkungen der Annahme eines Volljährigen erstrecken sich nicht
 auf die Verwandten des Annehmenden. Der Ehegatte oder Lebenspartner
@@ -33907,6 +36106,7 @@ Unterhalts verpflichtet.
 
 
 ###### § 1771 Aufhebung des Annahmeverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173603140)
 
 Das Familiengericht kann das Annahmeverhältnis, das zu einem
 Volljährigen begründet worden ist, auf Antrag des Annehmenden und des
@@ -33917,6 +36117,7 @@ Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
 
 
 ###### § 1772 Annahme mit den Wirkungen der Minderjährigenannahme
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173705140)
 
 (1) Das Familiengericht kann beim Ausspruch der Annahme eines
 Volljährigen auf Antrag des Annehmenden und des Anzunehmenden
@@ -33951,26 +36152,32 @@ Antrag des Anzunehmenden.
 
 
 ### Abschnitt 3 - Vormundschaft, Pflegschaft für Minderjährige, rechtliche Betreuung, sonstige Pflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG016204360)
 
 
 
 #### Titel 1 - Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG016304360)
 
 
 
 ##### Untertitel 1 - Begründung der Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG016403360)
 
 
 
 ###### Kapitel 1 - Bestellte Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028500360)
 
 
 
 ###### Unterkapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028600360)
 
 
 
 ###### § 1773 Voraussetzungen der Vormundschaft; Bestellung des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173803360)
 
 (1) Das Familiengericht hat die Vormundschaft für einen Minderjährigen
 anzuordnen und ihm einen Vormund zu bestellen, wenn
@@ -33994,6 +36201,7 @@ der Geburt des Kindes wirksam.
 
 
 ###### § 1774 Vormund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE173904360)
 
 (1) Zum Vormund kann bestellt werden:
 
@@ -34028,6 +36236,7 @@ der Geburt des Kindes wirksam.
 
 
 ###### § 1775 Mehrere Vormünder
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174005360)
 
 (1) Ehegatten können gemeinschaftlich zu Vormündern bestellt werden.
 
@@ -34037,6 +36246,7 @@ Geschwister zu bestellen.
 
 
 ###### § 1776 Zusätzlicher Pfleger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174103360)
 
 (1) Das Familiengericht kann bei Bestellung eines ehrenamtlichen
 Vormunds mit dessen Einverständnis einzelne Sorgeangelegenheiten oder
@@ -34069,6 +36279,7 @@ Minderjährige entsprechend. Neben einem Pfleger nach § 1809 oder
 
 
 ###### § 1777 Übertragung von Sorgeangelegenheiten auf die Pflegeperson als Pfleger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174203360)
 
 (1) Das Familiengericht überträgt auf Antrag des Vormunds oder der
 Pflegeperson einzelne Sorgeangelegenheiten oder eine bestimmte Art von
@@ -34105,10 +36316,12 @@ nicht zum Pfleger bestellt werden.
 
 
 ###### Unterkapitel 2 - Auswahl des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028700360)
 
 
 
 ###### § 1778 Auswahl des Vormunds durch das Familiengericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174305360)
 
 (1) Ist die Vormundschaft nicht einem nach § 1782 Benannten zu
 übertragen, hat das Familiengericht den Vormund auszuwählen, der am
@@ -34132,6 +36345,7 @@ sorgen.
 
 
 ###### § 1779 Eignung der Person; Vorrang des ehrenamtlichen Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174406360)
 
 (1) Eine natürliche Person muss nach
 
@@ -34160,6 +36374,7 @@ Eignung ist auch dann auszugehen, wenn ein zusätzlicher Pfleger nach §
 
 
 ###### § 1780 Berücksichtigung der beruflichen Belastung des Berufs- und Vereinsvormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174504360)
 
 Soll ein Berufsvormund oder ein Vereinsvormund bestellt werden, ist
 seine berufliche Arbeitsbelastung, insbesondere die Anzahl und der
@@ -34169,6 +36384,7 @@ verpflichtet.
 
 
 ###### § 1781 Bestellung eines vorläufigen Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174605360)
 
 (1) Sind die erforderlichen Ermittlungen zur Auswahl des geeigneten
 Vormunds insbesondere im persönlichen Umfeld des Mündels im Zeitpunkt
@@ -34200,6 +36416,7 @@ Vormunds.
 
 
 ###### § 1782 Benennung und Ausschluss als Vormund durch die Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174703360)
 
 (1) Die Eltern können durch letztwillige Verfügung eine natürliche
 Person als Vormund oder Ehegatten als gemeinschaftliche Vormünder
@@ -34216,6 +36433,7 @@ Verfügung durch den zuletzt verstorbenen Elternteil.
 
 
 ###### § 1783 Übergehen der benannten Person
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174802360)
 
 (1) Die benannte Person darf als Vormund ohne ihre Zustimmung nur
 übergangen werden, wenn
@@ -34260,6 +36478,7 @@ anstelle des bisherigen Vormunds zum Vormund zu bestellen, wenn
 
 
 ###### § 1784 Ausschlussgründe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE174903360)
 
 (1) Nicht zum Vormund bestellt werden kann, wer geschäftsunfähig ist.
 
@@ -34284,6 +36503,7 @@ anstelle des bisherigen Vormunds zum Vormund zu bestellen, wenn
 
 
 ###### § 1785 Übernahmepflicht; weitere Bestellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175004360)
 
 (1) Die vom Familiengericht ausgewählte Person ist verpflichtet, die
 Vormundschaft zu übernehmen, wenn ihr die Übernahme unter
@@ -34298,10 +36518,12 @@ Einwilligung des Vereins bestellt werden.
 
 
 ###### Kapitel 2 - Gesetzliche Amtsvormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028800360)
 
 
 
 ###### § 1786 Amtsvormundschaft bei Fehlen eines sorgeberechtigten Elternteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175105360)
 
 Mit der Geburt eines Kindes, dessen Eltern nicht miteinander
 verheiratet sind und das eines Vormunds bedarf, wird das Jugendamt
@@ -34314,6 +36536,7 @@ rechtskräftig wird.
 
 
 ###### § 1787 Amtsvormundschaft bei vertraulicher Geburt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175204360)
 
 Wird ein Kind vertraulich geboren (§ 25 Absatz 1 Satz 2 des
 Schwangerschaftskonfliktgesetzes), wird das Jugendamt mit der Geburt
@@ -34321,14 +36544,17 @@ des Kindes Vormund.
 
 
 ##### Untertitel 2 - Führung der Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG028900360)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029000360)
 
 
 
 ###### § 1788 Rechte des Mündels
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175304360)
 
 Der Mündel hat insbesondere das Recht auf
 
@@ -34356,6 +36582,7 @@ Der Mündel hat insbesondere das Recht auf
 
 
 ###### § 1789 Sorge des Vormunds; Vertretung und Haftung des Mündels
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175404360)
 
 (1) Der Vormund hat die Pflicht und das Recht, für die Person und das
 Vermögen des Mündels zu sorgen. Ausgenommen sind Angelegenheiten, für
@@ -34375,6 +36602,7 @@ entsprechend § 1629a.
 
 
 ###### § 1790 Amtsführung des Vormunds; Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175503360)
 
 (1) Der Vormund ist unabhängig und hat die Vormundschaft im Interesse
 des Mündels zu dessen Wohl zu führen.
@@ -34407,6 +36635,7 @@ gilt nicht für den Vereinsvormund und den Vormundschaftsverein.
 
 
 ###### § 1791 Aufnahme des Mündels in den Haushalt des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE175603360)
 
 Der Vormund kann den Mündel zur Pflege und Erziehung in seinen
 Haushalt aufnehmen. In diesem Fall sind Vormund und Mündel einander
@@ -34414,6 +36643,7 @@ Beistand und Rücksicht schuldig; § 1619 gilt entsprechend.
 
 
 ###### § 1792 Gemeinschaftliche Führung der Vormundschaft, Zusammenarbeit von Vormund und Pfleger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176003360)
 
 (1) Ehegatten führen die ihnen übertragene Vormundschaft
 gemeinschaftlich.
@@ -34433,6 +36663,7 @@ gegenseitigem Einvernehmen.
 
 
 ###### § 1793 Entscheidung bei Meinungsverschiedenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176106360)
 
 (1) Das Familiengericht entscheidet auf Antrag über die hinsichtlich
 einer Sorgeangelegenheit bestehenden Meinungsverschiedenheiten
@@ -34455,6 +36686,7 @@ der das 14. Lebensjahr vollendet hat.
 
 
 ###### § 1794 Haftung des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176203360)
 
 (1) Der Vormund ist dem Mündel für den aus einer Pflichtverletzung
 entstehenden Schaden verantwortlich. Dies gilt nicht, wenn der Vormund
@@ -34467,10 +36699,12 @@ Vormunds, der die Vormundschaft ehrenamtlich führt, aufgenommen, gilt
 
 
 ###### Kapitel 2 - Personensorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029100360)
 
 
 
 ###### § 1795 Gegenstand der Personensorge; Genehmigungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176306360)
 
 (1) Die Personensorge umfasst insbesondere die Bestimmung des
 Aufenthalts sowie die Pflege, Erziehung und Beaufsichtigung des
@@ -34508,6 +36742,7 @@ Genehmigung des Familiengerichts.
 
 
 ###### § 1796 Verhältnis zwischen Vormund und Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176404360)
 
 (1) Der Vormund hat auf die Belange der Pflegeperson Rücksicht zu
 nehmen. Bei Entscheidungen der Personensorge soll er die Auffassung
@@ -34537,6 +36772,7 @@ Absatz 2 entsprechend.
 
 
 ###### § 1797 Entscheidungsbefugnis der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176504360)
 
 (1) Lebt der Mündel für längere Zeit bei der Pflegeperson, ist diese
 berechtigt, in Angelegenheiten des täglichen Lebens zu entscheiden und
@@ -34552,10 +36788,12 @@ wenn dies zum Wohl des Mündels erforderlich ist.
 
 
 ###### Kapitel 3 - Vermögenssorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029200360)
 
 
 
 ###### § 1798 Grundsätze und Pflichten des Vormunds in der Vermögenssorge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176604360)
 
 (1) Der Vormund hat die Vermögenssorge zum Wohl des Mündels unter
 Berücksichtigung der Grundsätze einer wirtschaftlichen
@@ -34579,6 +36817,7 @@ wird.
 
 
 ###### § 1799 Genehmigungsbedürftige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176704360)
 
 (1) Der Vormund bedarf der Genehmigung des Familiengerichts in den
 Fällen, in denen ein Betreuer nach den §§ 1848 bis 1854 Nummer 1 bis 7
@@ -34605,6 +36844,7 @@ erforderlich, wenn
 
 
 ###### § 1800 Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176805360)
 
 (1) Das Familiengericht erteilt die Genehmigung, wenn das
 Rechtgeschäft den Grundsätzen nach § 1798 Absatz 1 nicht widerspricht.
@@ -34616,6 +36856,7 @@ Genehmigung des Familiengerichts.
 
 
 ###### § 1801 Befreite Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE176904360)
 
 (1) Für das Jugendamt, den Vereinsvormund und den Vormundschaftsverein
 als Vormund gilt § 1859 Absatz 1 entsprechend.
@@ -34636,10 +36877,12 @@ Gefährdung des Mündelvermögens zu besorgen wäre.
 
 
 ##### Untertitel 3 - Beratung und Aufsicht durch das Familiengericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029300360)
 
 
 
 ###### § 1802 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177004360)
 
 (1) Das Familiengericht unterstützt den Vormund und berät ihn über
 seine Rechte und Pflichten bei der Wahrnehmung seiner Aufgaben. § 1861
@@ -34656,6 +36899,7 @@ Schäden, die er dem Mündel zufügen kann, einzugehen.
 
 
 ###### § 1803 Persönliche Anhörung; Besprechung mit dem Mündel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177104360)
 
 In geeigneten Fällen und soweit es nach dem Entwicklungsstand des
 Mündels angezeigt ist,
@@ -34678,10 +36922,12 @@ Mündels angezeigt ist,
 
 
 ##### Untertitel 4 - Beendigung der Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029400360)
 
 
 
 ###### § 1804 Entlassung des Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177203360)
 
 (1) Das Familiengericht hat den Vormund zu entlassen, wenn
 
@@ -34745,6 +36991,7 @@ ehrenamtlichen Vormunds sind zu berücksichtigen. Den Antrag nach Satz
 
 
 ###### § 1805 Bestellung eines neuen Vormunds
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177303360)
 
 (1) Wird der Vormund entlassen oder verstirbt er, hat das
 Familiengericht unverzüglich einen neuen Vormund zu bestellen. Die
@@ -34757,12 +37004,14 @@ als Privatperson weiterführt, wenn dies dem Wohl des Mündels dient.
 
 
 ###### § 1806 Ende der Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177403360)
 
 Die Vormundschaft endet, wenn die Voraussetzungen für ihre Begründung
 gemäß § 1773 nicht mehr gegeben sind.
 
 
 ###### § 1807 Vermögensherausgabe, Schlussrechnungslegung und Fortführung der Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177506360)
 
 Bei Beendigung der Vormundschaft finden die §§ 1872 bis 1874 mit der
 Maßgabe entsprechende Anwendung, dass § 1872 Absatz 5 für Vormünder
@@ -34771,10 +37020,12 @@ befreit waren.
 
 
 ##### Untertitel 5 - Vergütung und Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029500360)
 
 
 
 ###### § 1808 Vergütung und Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177603360)
 
 (1) Die Vormundschaft wird grundsätzlich unentgeltlich geführt.
 
@@ -34792,10 +37043,12 @@ bestimmen sich nach dem Vormünder- und Betreuervergütungsgesetz.
 
 
 #### Titel 2 - Pflegschaft für Minderjährige
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029600360)
 
 
 
 ##### § 1809 Ergänzungspflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177705360)
 
 (1) Wer unter elterlicher Sorge oder unter Vormundschaft steht, erhält
 für Angelegenheiten, an deren Besorgung die Eltern oder der Vormund
@@ -34808,6 +37061,7 @@ Vormund dies dem Familiengericht unverzüglich anzuzeigen.
 
 
 ##### § 1810 Pflegschaft für ein ungeborenes Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177805360)
 
 Für ein bereits gezeugtes Kind kann zur Wahrung seiner künftigen
 Rechte ein Pfleger bestellt werden, sofern die Eltern an der Ausübung
@@ -34816,6 +37070,7 @@ wäre. Mit der Geburt des Kindes endet die Pflegschaft.
 
 
 ##### § 1811 Zuwendungspflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE177905360)
 
 (1) Der Minderjährige erhält einen Zuwendungspfleger, wenn
 
@@ -34863,6 +37118,7 @@ entsprechend.
 
 
 ##### § 1812 Aufhebung und Ende der Pflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178004360)
 
 (1) Die Pflegschaft ist aufzuheben, wenn der Grund für die Anordnung
 der Pflegschaft weggefallen ist.
@@ -34873,6 +37129,7 @@ einzelnen Angelegenheit mit deren Erledigung.
 
 
 ##### § 1813 Anwendung des Vormundschaftsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178106360)
 
 (1) Auf die Pflegschaften nach diesem Titel finden die für die
 Vormundschaft geltenden Vorschriften entsprechende Anwendung, soweit
@@ -34883,14 +37140,17 @@ und 1783 nicht.
 
 
 #### Titel 3 - Rechtliche Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029700360)
 
 
 
 ##### Untertitel 1 - Betreuerbestellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029800360)
 
 
 
 ###### § 1814 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178205360)
 
 (1) Kann ein Volljähriger seine Angelegenheiten ganz oder teilweise
 rechtlich nicht besorgen und beruht dies auf einer Krankheit oder
@@ -34930,6 +37190,7 @@ Eintritt der Volljährigkeit wirksam.
 
 
 ###### § 1815 Umfang der Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178305360)
 
 (1) Der Aufgabenkreis eines Betreuers besteht aus einem oder mehreren
 Aufgabenbereichen. Diese sind vom Betreuungsgericht im Einzelnen
@@ -34973,6 +37234,7 @@ Betreuten gegenüber Dritten übertragen werden (Kontrollbetreuer).
 
 
 ###### § 1816 Eignung und Auswahl des Betreuers; Berücksichtigung der Wünsche des Volljährigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178405360)
 
 (1) Das Betreuungsgericht bestellt einen Betreuer, der geeignet ist,
 in dem gerichtlich angeordneten Aufgabenkreis die Angelegenheiten des
@@ -35027,6 +37289,7 @@ besteht.
 
 
 ###### § 1817 Mehrere Betreuer; Verhinderungsbetreuer; Ergänzungsbetreuer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178507360)
 
 (1) Das Betreuungsgericht kann mehrere Betreuer bestellen, wenn die
 Angelegenheiten des Betreuten hierdurch besser besorgt werden können.
@@ -35056,6 +37319,7 @@ Betreuungsgericht hierfür einen Ergänzungsbetreuer zu bestellen.
 
 
 ###### § 1818 Betreuung durch Betreuungsverein oder Betreuungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178604360)
 
 (1) Das Betreuungsgericht bestellt einen anerkannten Betreuungsverein
 zum Betreuer, wenn der Volljährige dies wünscht, oder wenn er durch
@@ -35087,6 +37351,7 @@ werden.
 
 
 ###### § 1819 Übernahmepflicht; weitere Bestellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178704360)
 
 (1) Die vom Betreuungsgericht ausgewählte Person ist verpflichtet, die
 Betreuung zu übernehmen, wenn ihr die Übernahme unter Berücksichtigung
@@ -35104,6 +37369,7 @@ Betreuungsbehörde, der als Betreuer bestellt wird (Behördenbetreuer).
 
 
 ###### § 1820 Vorsorgevollmacht und Kontrollbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178805360)
 
 (1) Wer von der Einleitung eines Verfahrens über die Bestellung eines
 Betreuers für einen Volljährigen Kenntnis erlangt und ein Dokument
@@ -35180,14 +37446,17 @@ Betreuer anordnen.
 
 
 ##### Untertitel 2 - Führung der Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG029900360)
 
 
 
 ###### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030000360)
 
 
 
 ###### § 1821 Pflichten des Betreuers; Wünsche des Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE178905360)
 
 (1) Der Betreuer nimmt alle Tätigkeiten vor, die erforderlich sind, um
 die Angelegenheiten des Betreuten rechtlich zu besorgen. Er
@@ -35239,6 +37508,7 @@ wiederherzustellen oder zu verbessern.
 
 
 ###### § 1822 Auskunftspflicht gegenüber nahestehenden Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179006360)
 
 Der Betreuer hat nahestehenden Angehörigen und sonstigen
 Vertrauenspersonen des Betreuten auf Verlangen Auskunft über dessen
@@ -35248,12 +37518,14 @@ Betreuten entspricht und dem Betreuer zuzumuten ist.
 
 
 ###### § 1823 Vertretungsmacht des Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179104360)
 
 In seinem Aufgabenkreis kann der Betreuer den Betreuten gerichtlich
 und außergerichtlich vertreten.
 
 
 ###### § 1824 Ausschluss der Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179204360)
 
 (1) Der Betreuer kann den Betreuten nicht vertreten:
 
@@ -35282,6 +37554,7 @@ und außergerichtlich vertreten.
 
 
 ###### § 1825 Einwilligungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179304360)
 
 (1) Soweit dies zur Abwendung einer erheblichen Gefahr für die Person
 oder das Vermögen des Betreuten erforderlich ist, ordnet das
@@ -35326,6 +37599,7 @@ erforderlich wird.
 
 
 ###### § 1826 Haftung des Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179404360)
 
 (1) Der Betreuer ist dem Betreuten für den aus einer Pflichtverletzung
 entstehenden Schaden verantwortlich. Dies gilt nicht, wenn der
@@ -35341,10 +37615,12 @@ verfassungsmäßig berufenen Vertreters.
 
 
 ###### Kapitel 2 - Personenangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030100360)
 
 
 
 ###### § 1827 Patientenverfügung; Behandlungswünsche oder mutmaßlicher Wille des Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179502360)
 
 (1) Hat ein einwilligungsfähiger Volljähriger für den Fall seiner
 Einwilligungsunfähigkeit schriftlich festgelegt, ob er in bestimmte,
@@ -35383,6 +37659,7 @@ nicht zur Bedingung eines Vertragsschlusses gemacht werden.
 
 
 ###### § 1828 Gespräch zur Feststellung des Patientenwillens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179604360)
 
 (1) Der behandelnde Arzt prüft, welche ärztliche Maßnahme im Hinblick
 auf den Gesamtzustand und die Prognose des Patienten indiziert ist. Er
@@ -35400,6 +37677,7 @@ erhebliche Verzögerung möglich ist.
 
 
 ###### § 1829 Genehmigung des Betreuungsgerichts bei ärztlichen Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179704360)
 
 (1) Die Einwilligung des Betreuers in eine Untersuchung des
 Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen
@@ -35432,6 +37710,7 @@ entspricht.
 
 
 ###### § 1830 Sterilisation
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179804360)
 
 (1) Die Einwilligung eines Sterilisationsbetreuers in eine
 Sterilisation des Betreuten, in die dieser nicht selbst einwilligen
@@ -35466,6 +37745,7 @@ Methode der Vorzug zu geben, die eine Refertilisierung zulässt.
 
 
 ###### § 1831 Freiheitsentziehende Unterbringung und freiheitsentziehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE179904360)
 
 (1) Eine Unterbringung des Betreuten durch den Betreuer, die mit
 Freiheitsentziehung verbunden ist, ist nur zulässig, solange sie
@@ -35507,6 +37787,7 @@ entzogen werden soll.
 
 
 ###### § 1832 Ärztliche Zwangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180004360)
 
 (1) Widerspricht eine Untersuchung des Gesundheitszustands, eine
 Heilbehandlung oder ein ärztlicher Eingriff dem natürlichen Willen des
@@ -35566,6 +37847,7 @@ Absatz 2 und 3 Satz 1 entsprechend.
 
 
 ###### § 1833 Aufgabe von Wohnraum des Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180103360)
 
 (1) Eine Aufgabe von Wohnraum, der vom Betreuten selbst genutzt wird,
 durch den Betreuer ist nur nach Maßgabe des § 1821 Absatz 2 bis 4
@@ -35606,6 +37888,7 @@ Die §§ 1855 bis 1858 gelten entsprechend.
 
 
 ###### § 1834 Bestimmung des Umgangs und des Aufenthalts des Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180203360)
 
 (1) Den Umgang des Betreuten mit anderen Personen darf der Betreuer
 mit Wirkung für und gegen Dritte nur bestimmen, wenn der Betreute dies
@@ -35621,14 +37904,17 @@ betreffen, entscheidet das Betreuungsgericht auf Antrag.
 
 
 ###### Kapitel 3 - Vermögensangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030200360)
 
 
 
 ###### Unterkapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030300360)
 
 
 
 ###### § 1835 Vermögensverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180308360)
 
 (1) Soweit die Verwaltung des Vermögens des Betreuten zum
 Aufgabenkreis des Betreuers gehört, hat er zum Zeitpunkt seiner
@@ -35677,6 +37963,7 @@ der Lage, das Vermögensverzeichnis zur Kenntnis zu nehmen.
 
 
 ###### § 1836 Trennungsgebot; Verwendung des Vermögens für den Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180407360)
 
 (1) Der Betreuer hat das Vermögen des Betreuten getrennt von seinem
 eigenen Vermögen zu halten. Dies gilt nicht für das bei Bestellung des
@@ -35698,6 +37985,7 @@ entspricht.
 
 
 ###### § 1837 Vermögensverwaltung durch den Betreuer bei Erbschaft und Schenkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180507360)
 
 (1) Der Betreuer hat das Vermögen des Betreuten, das dieser von Todes
 wegen erwirbt, das ihm unentgeltlich durch Zuwendung auf den Todesfall
@@ -35718,10 +38006,12 @@ ersetzen.
 
 
 ###### Unterkapitel 2 - Verwaltung von Geld, Wertpapieren und Wertgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG016604360)
 
 
 
 ###### § 1838 Pflichten des Betreuers in Vermögensangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180603360)
 
 (1) Der Betreuer hat die Vermögensangelegenheiten des Betreuten nach
 Maßgabe des § 1821 wahrzunehmen. Es wird vermutet, dass eine
@@ -35740,6 +38030,7 @@ Gefährdung im Sinne des § 1821 Absatz 3 Nummer 1 zu besorgen wäre.
 
 
 ###### § 1839 Bereithaltung von Verfügungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180704360)
 
 (1) Geld des Betreuten, das der Betreuer für dessen Ausgaben benötigt
 (Verfügungsgeld), hat er auf einem Girokonto des Betreuten bei einem
@@ -35752,6 +38043,7 @@ Sinne von § 1841 Absatz 2 nicht entgegen.
 
 
 ###### § 1840 Bargeldloser Zahlungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180806360)
 
 (1) Der Betreuer hat den Zahlungsverkehr für den Betreuten bargeldlos
 unter Verwendung des gemäß § 1839 Absatz 1 Satz 1 zu unterhaltenden
@@ -35769,6 +38061,7 @@ Girokontos durchzuführen.
 
 
 ###### § 1841 Anlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE180905360)
 
 (1) Geld des Betreuten, das nicht für Ausgaben nach § 1839 benötigt
 wird, hat der Betreuer anzulegen (Anlagegeld).
@@ -35779,6 +38072,7 @@ Anlage geeigneten Konto des Betreuten bei einem Kreditinstitut
 
 
 ###### § 1842 Voraussetzungen für das Kreditinstitut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181003360)
 
 Das Kreditinstitut muss bei Anlagen nach den §§ 1839 und 1841 Absatz 2
 einer für die jeweilige Anlage ausreichenden Sicherungseinrichtung
@@ -35786,6 +38080,7 @@ angehören.
 
 
 ###### § 1843 Depotverwahrung und Hinterlegung von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181104360)
 
 (1) Der Betreuer hat Wertpapiere des Betreuten im Sinne des § 1 Absatz
 1 und 2 des Depotgesetzes bei einem Kreditinstitut in Einzel- oder
@@ -35801,6 +38096,7 @@ des Betreuten nicht geboten ist.
 
 
 ###### § 1844 Hinterlegung von Wertgegenständen auf Anordnung des Betreuungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181203360)
 
 Das Betreuungsgericht kann anordnen, dass der Betreuer Wertgegenstände
 des Betreuten bei einer Hinterlegungsstelle oder einer anderen
@@ -35809,6 +38105,7 @@ des Betreuten geboten ist.
 
 
 ###### § 1845 Sperrvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181304360)
 
 (1) Für Geldanlagen des Betreuten im Sinne von § 1841 Absatz 2 hat der
 Betreuer mit dem Kreditinstitut zu vereinbaren, dass er über die
@@ -35831,10 +38128,12 @@ Betreuungsgericht die Sperrvereinbarung anzuzeigen.
 
 
 ###### Unterkapitel 3 - Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030400360)
 
 
 
 ###### § 1846 Anzeigepflichten bei der Geld- und Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181405360)
 
 (1) Der Betreuer hat dem Betreuungsgericht unverzüglich anzuzeigen,
 wenn er
@@ -35880,6 +38179,7 @@ wenn er
 
 
 ###### § 1847 Anzeigepflicht für Erwerbsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181504360)
 
 Der Betreuer hat Beginn, Art und Umfang eines neuen Erwerbsgeschäfts
 im Namen des Betreuten und die Aufgabe eines bestehenden
@@ -35887,10 +38187,12 @@ Erwerbsgeschäfts des Betreuten beim Betreuungsgericht anzuzeigen.
 
 
 ###### Unterkapitel 4 - Genehmigungsbedürftige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030500360)
 
 
 
 ###### § 1848 Genehmigung einer anderen Anlegung von Geld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181602360)
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts, wenn er
 Anlagegeld anders als auf einem Anlagekonto gemäß § 1841 Absatz 2
@@ -35898,6 +38200,7 @@ anlegt.
 
 
 ###### § 1849 Genehmigung bei Verfügung über Rechte und Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181703360)
 
 (1) Der Betreuer bedarf der Genehmigung des Betreuungsgerichts zu
 einer Verfügung über
@@ -35975,6 +38278,7 @@ Leistung.
 
 
 ###### § 1850 Genehmigung für Rechtsgeschäfte über Grundstücke und Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281200360)
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
@@ -36016,6 +38320,7 @@ Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
 
 ###### § 1851 Genehmigung für erbrechtliche Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE181905360)
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
@@ -36069,6 +38374,7 @@ Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
 
 ###### § 1852 Genehmigung für handels- und gesellschaftsrechtliche Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182104360)
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
@@ -36098,6 +38404,7 @@ Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
 
 ###### § 1853 Genehmigung bei Verträgen über wiederkehrende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182204360)
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
@@ -36117,6 +38424,7 @@ ohne eigene Nachteile vorzeitig kündigen kann.
 
 
 ###### § 1854 Genehmigung für sonstige Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182304360)
 
 Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
@@ -36163,16 +38471,19 @@ Der Betreuer bedarf der Genehmigung des Betreuungsgerichts
 
 
 ###### Unterkapitel 5 - Genehmigungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030600360)
 
 
 
 ###### § 1855 Erklärung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182403360)
 
 Das Betreuungsgericht kann die Genehmigung zu einem Rechtsgeschäft nur
 dem Betreuer gegenüber erklären.
 
 
 ###### § 1856 Nachträgliche Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182503360)
 
 (1) Schließt der Betreuer einen Vertrag ohne die erforderliche
 Genehmigung des Betreuungsgerichts, so hängt die Wirksamkeit des
@@ -36193,6 +38504,7 @@ Betreuungsgerichts.
 
 
 ###### § 1857 Widerrufsrecht des Vertragspartners
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182604360)
 
 Hat der Betreuer dem anderen Teil gegenüber wahrheitswidrig die
 Genehmigung des Betreuungsgerichts behauptet, so ist der andere Teil
@@ -36202,6 +38514,7 @@ Fehlen der Genehmigung bei dem Abschluss des Vertrags bekannt war.
 
 
 ###### § 1858 Einseitiges Rechtsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182802360)
 
 (1) Ein einseitiges Rechtsgeschäft, das der Betreuer ohne die
 erforderliche Genehmigung des Betreuungsgerichts vornimmt, ist
@@ -36226,10 +38539,12 @@ die Erteilung oder Versagung der Genehmigung mit.
 
 
 ###### Unterkapitel 6 - Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030700360)
 
 
 
 ###### § 1859 Gesetzliche Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281300360)
 
 (1) Befreite Betreuer sind entbunden
 
@@ -36280,6 +38595,7 @@ ihrer Fortgeltung eine Gefährdung im Sinne des § 1821 Absatz 3 Nummer
 
 
 ###### § 1860 Befreiungen auf Anordnung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281400360)
 
 (1) Das Betreuungsgericht kann den Betreuer auf dessen Antrag von den
 Beschränkungen nach den §§ 1841, 1845, 1848 und 1849 Absatz 1 Satz 1
@@ -36308,10 +38624,12 @@ Voraussetzungen nicht mehr vorliegen.
 
 
 ##### Untertitel 3 - Beratung und Aufsicht durch das Betreuungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017003360)
 
 
 
 ###### § 1861 Beratung; Verpflichtung des Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281500360)
 
 (1) Das Betreuungsgericht berät den Betreuer über dessen Rechte und
 Pflichten bei der Wahrnehmung seiner Aufgaben.
@@ -36324,6 +38642,7 @@ oder in den letzten zwei Jahren geführt haben.
 
 
 ###### § 1862 Aufsicht durch das Betreuungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281601360)
 
 (1) Das Betreuungsgericht führt über die gesamte Tätigkeit des
 Betreuers die Aufsicht. Es hat dabei auf die Einhaltung der Pflichten
@@ -36352,6 +38671,7 @@ betreffen, gegenüber der Betreuungsbehörde außer Anwendung bleiben.
 
 
 ###### § 1863 Berichte über die persönlichen Verhältnisse des Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281700360)
 
 (1) Mit Übernahme der Betreuung hat der Betreuer einen Bericht über
 die persönlichen Verhältnisse (Anfangsbericht) zu erstellen. Der
@@ -36427,6 +38747,7 @@ aller im Rahmen der Betreuung erlangten Unterlagen zu enthalten.
 
 
 ###### § 1864 Auskunfts- und Mitteilungspflichten des Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281800360)
 
 (1) Der Betreuer hat dem Betreuungsgericht auf dessen Verlangen
 jederzeit über die Führung der Betreuung und über die persönlichen und
@@ -36460,6 +38781,7 @@ unverzüglich mitzuteilen. Dies gilt auch für solche Umstände,
 
 
 ###### § 1865 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE281900360)
 
 (1) Der Betreuer hat dem Betreuungsgericht über die
 Vermögensverwaltung Rechnung zu legen, soweit sein Aufgabenkreis die
@@ -36487,6 +38809,7 @@ Bücher und sonstigen Belege verlangen.
 
 
 ###### § 1866 Prüfung der Rechnung durch das Betreuungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282000360)
 
 (1) Das Betreuungsgericht hat die Rechnung sachlich und rechnerisch zu
 prüfen und, soweit erforderlich, ihre Berichtigung und Ergänzung durch
@@ -36499,6 +38822,7 @@ gemacht werden.
 
 
 ###### § 1867 Einstweilige Maßnahmen des Betreuungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282100360)
 
 Bestehen dringende Gründe für die Annahme, dass die Voraussetzungen
 für die Bestellung eines Betreuers gegeben sind, und konnte ein
@@ -36508,10 +38832,12 @@ dringend erforderlichen Maßnahmen zu treffen.
 
 
 ##### Untertitel 4 - Beendigung, Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030800360)
 
 
 
 ###### § 1868 Entlassung des Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282200360)
 
 (1) Das Betreuungsgericht hat den Betreuer zu entlassen, wenn dessen
 Eignung, die Angelegenheiten des Betreuten zu besorgen, nicht oder
@@ -36554,18 +38880,21 @@ entgegensteht.
 
 
 ###### § 1869 Bestellung eines neuen Betreuers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282300360)
 
 Mit der Entlassung des Betreuers oder nach dessen Tod ist ein neuer
 Betreuer zu bestellen.
 
 
 ###### § 1870 Ende der Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282400360)
 
 Die Betreuung endet mit der Aufhebung der Betreuung durch das
 Betreuungsgericht oder mit dem Tod des Betreuten.
 
 
 ###### § 1871 Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282500360)
 
 (1) Die Betreuung ist aufzuheben, wenn ihre Voraussetzungen wegfallen.
 Fallen die Voraussetzungen nur für einen Teil der Aufgabenbereiche des
@@ -36586,6 +38915,7 @@ entsprechend.
 
 
 ###### § 1872 Herausgabe von Vermögen und Unterlagen; Schlussrechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282600360)
 
 (1) Endet die Betreuung, hat der Betreuer das seiner Verwaltung
 unterliegende Vermögen und alle im Rahmen der Betreuung erlangten
@@ -36622,6 +38952,7 @@ statt zu versichern.
 
 
 ###### § 1873 Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282700360)
 
 (1) Der Betreuer hat eine nach § 1872 von ihm zu erstellende
 Schlussrechnung oder Vermögensübersicht beim Betreuungsgericht
@@ -36645,6 +38976,7 @@ werden.
 
 
 ###### § 1874 Besorgung der Angelegenheiten des Betreuten nach Beendigung der Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282800360)
 
 (1) Der Betreuer darf die Besorgung der Angelegenheiten des Betreuten
 fortführen, bis er von der Beendigung der Betreuung Kenntnis erlangt
@@ -36659,10 +38991,12 @@ diese besorgen kann.
 
 
 ##### Untertitel 5 - Vergütung und Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG030900360)
 
 
 
 ###### § 1875 Vergütung und Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE282900360)
 
 (1) Vergütung und Aufwendungsersatz des ehrenamtlichen Betreuers
 bestimmen sich nach den Vorschriften dieses Untertitels.
@@ -36673,6 +39007,7 @@ bestimmen sich nach dem Vormünder- und Betreuervergütungsgesetz.
 
 
 ###### § 1876 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283000360)
 
 Dem ehrenamtlichen Betreuer steht grundsätzlich kein Anspruch auf
 Vergütung zu. Das Betreuungsgericht kann ihm abweichend von Satz 1
@@ -36689,6 +39024,7 @@ eine angemessene Vergütung bewilligen, wenn
 
 
 ###### § 1877 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283100360)
 
 (1) Macht der Betreuer zur Führung der Betreuung Aufwendungen, so kann
 er nach den für den Auftrag geltenden Vorschriften der §§ 669 und 670
@@ -36730,6 +39066,7 @@ zu beziffern.
 
 
 ###### § 1878 Aufwandspauschale
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283200360)
 
 (1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der
 Betreuer für die Führung jeder Betreuung, für die er keine Vergütung
@@ -36763,6 +39100,7 @@ auf eine weitere Geltendmachung.
 
 
 ###### § 1879 Zahlung aus der Staatskasse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283300360)
 
 Gilt der Betreute als mittellos im Sinne von § 1880, so kann der
 Betreuer den Vorschuss, den Aufwendungsersatz nach § 1877 oder die
@@ -36770,6 +39108,7 @@ Aufwandspauschale nach § 1878 aus der Staatskasse verlangen.
 
 
 ###### § 1880 Mittellosigkeit des Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283400360)
 
 (1) Der Betreute gilt als mittellos, wenn er den Vorschuss, den
 Aufwendungsersatz oder die Aufwandspauschale aus seinem einzusetzenden
@@ -36780,6 +39119,7 @@ Buches Sozialgesetzbuch einzusetzen.
 
 
 ###### § 1881 Gesetzlicher Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE283500360)
 
 Soweit die Staatskasse den Betreuer befriedigt, gehen Ansprüche des
 Betreuers gegen den Betreuten auf die Staatskasse über. Nach dem Tode
@@ -36790,10 +39130,12 @@ Erben nicht anzuwenden.
 
 
 #### Titel 4 - Sonstige Pflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG031000360)
 
 
 
 ##### § 1882 Pflegschaft für unbekannte Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE182903360)
 
 Ist unbekannt oder ungewiss, wer bei einer Angelegenheit der
 Beteiligte ist, so kann dem Beteiligten für diese Angelegenheit,
@@ -36805,6 +39147,7 @@ werden.
 
 
 ##### § 1883 Pflegschaft für gesammeltes Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183003360)
 
 Ist durch öffentliche Sammlung Vermögen für einen vorübergehenden
 Zweck zusammengebracht worden, so kann zum Zwecke der Verwaltung und
@@ -36813,6 +39156,7 @@ Verwaltung und Verwendung berufenen Personen weggefallen sind.
 
 
 ##### § 1884 Abwesenheitspflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183104360)
 
 (1) Ein abwesender Volljähriger, dessen Aufenthalt unbekannt ist,
 erhält für seine Vermögensangelegenheiten, soweit sie der Fürsorge
@@ -36828,6 +39172,7 @@ Vermögensangelegenheiten verhindert ist.
 
 
 ##### § 1885 Bestellung des sonstigen Pflegers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183203360)
 
 Das Betreuungsgericht oder im Falle der Nachlasspflegschaft das
 Nachlassgericht ordnet die Pflegschaft an, wählt einen geeigneten
@@ -36836,6 +39181,7 @@ bereit erklärt hat.
 
 
 ##### § 1886 Aufhebung der Pflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183304360)
 
 (1) Die Pflegschaft für einen Abwesenden ist aufzuheben,
 
@@ -36853,6 +39199,7 @@ ihre Anordnung weggefallen ist.
 
 
 ##### § 1887 Ende der Pflegschaft kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183404360)
 
 (1) Wird der Abwesende für tot erklärt oder wird seine Todeszeit nach
 den Vorschriften des Verschollenheitsgesetzes festgestellt, so endet
@@ -36864,6 +39211,7 @@ Angelegenheit mit deren Erledigung.
 
 
 ##### § 1888 Anwendung des Betreuungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183504360)
 
 (1) Die Vorschriften des Betreuungsrechts sind auf sonstige
 Pflegschaften entsprechend anwendbar, soweit sich nicht aus dem Gesetz
@@ -36879,18 +39227,22 @@ Pflegschaftsgeschäfte.
 
 
 ##### (XXXX) §§ 1889 bis 1921 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE183604360)
 
 
 
 ## Buch 5 - Erbrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017302377)
 
 
 
 ### Abschnitt 1 - Erbfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017402377)
 
 
 
 #### § 1922 Gesamtrechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE186902377)
 
 (1) Mit dem Tode einer Person (Erbfall) geht deren Vermögen
 (Erbschaft) als Ganzes auf eine oder mehrere andere Personen (Erben)
@@ -36901,6 +39253,7 @@ Erbschaft beziehenden Vorschriften Anwendung.
 
 
 #### § 1923 Erbfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187003301)
 
 (1) Erbe kann nur werden, wer zur Zeit des Erbfalls lebt.
 
@@ -36909,6 +39262,7 @@ war, gilt als vor dem Erbfall geboren.
 
 
 #### § 1924 Gesetzliche Erben erster Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187102377)
 
 (1) Gesetzliche Erben der ersten Ordnung sind die Abkömmlinge des
 Erblassers.
@@ -36924,6 +39278,7 @@ Abkömmlinge (Erbfolge nach Stämmen).
 
 
 #### § 1925 Gesetzliche Erben zweiter Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187202377)
 
 (1) Gesetzliche Erben der zweiten Ordnung sind die Eltern des
 Erblassers und deren Abkömmlinge.
@@ -36942,6 +39297,7 @@ Kindes im Verhältnis zueinander nicht Erben der zweiten Ordnung.
 
 
 #### § 1926 Gesetzliche Erben dritter Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187302377)
 
 (1) Gesetzliche Erben der dritten Ordnung sind die Großeltern des
 Erblassers und deren Abkömmlinge.
@@ -36965,6 +39321,7 @@ Vorschriften Anwendung.
 
 
 #### § 1927 Mehrere Erbteile bei mehrfacher Verwandtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187402377)
 
 Wer in der ersten, der zweiten oder der dritten Ordnung verschiedenen
 Stämmen angehört, erhält den in jedem dieser Stämme ihm zufallenden
@@ -36972,6 +39329,7 @@ Anteil. Jeder Anteil gilt als besonderer Erbteil.
 
 
 #### § 1928 Gesetzliche Erben vierter Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187502377)
 
 (1) Gesetzliche Erben der vierten Ordnung sind die Urgroßeltern des
 Erblassers und deren Abkömmlinge.
@@ -36987,6 +39345,7 @@ gleichen Teilen.
 
 
 #### § 1929 Fernere Ordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187602377)
 
 (1) Gesetzliche Erben der fünften Ordnung und der ferneren Ordnungen
 sind die entfernteren Voreltern des Erblassers und deren Abkömmlinge.
@@ -36996,12 +39355,14 @@ Anwendung.
 
 
 #### § 1930 Rangfolge der Ordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187703377)
 
 Ein Verwandter ist nicht zur Erbfolge berufen, solange ein Verwandter
 einer vorhergehenden Ordnung vorhanden ist.
 
 
 #### § 1931 Gesetzliches Erbrecht des Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187802377)
 
 (1) Der überlebende Ehegatte des Erblassers ist neben Verwandten der
 ersten Ordnung zu einem Viertel, neben Verwandten der zweiten Ordnung
@@ -37023,6 +39384,7 @@ Teilen; § 1924 Abs. 3 gilt auch in diesem Falle.
 
 
 #### § 1932 Voraus des Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE187902377)
 
 (1) Ist der überlebende Ehegatte neben Verwandten der zweiten Ordnung
 oder neben Großeltern gesetzlicher Erbe, so gebühren ihm außer dem
@@ -37037,6 +39399,7 @@ anzuwenden.
 
 
 #### § 1933 Ausschluss des Ehegattenerbrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE188003377)
 
 Das Erbrecht des überlebenden Ehegatten sowie das Recht auf den Voraus
 ist ausgeschlossen, wenn zur Zeit des Todes des Erblassers die
@@ -37048,6 +39411,7 @@ Ehegatte nach Maßgabe der §§ 1569 bis 1586b unterhaltsberechtigt.
 
 
 #### § 1934 Erbrecht des verwandten Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE188102377)
 
 Gehört der überlebende Ehegatte zu den erbberechtigten Verwandten, so
 erbt er zugleich als Verwandter. Der Erbteil, der ihm auf Grund der
@@ -37055,6 +39419,7 @@ Verwandtschaft zufällt, gilt als besonderer Erbteil.
 
 
 #### § 1935 Folgen der Erbteilserhöhung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE188702377)
 
 Fällt ein gesetzlicher Erbe vor oder nach dem Erbfall weg und erhöht
 sich infolgedessen der Erbteil eines anderen gesetzlichen Erben, so
@@ -37065,6 +39430,7 @@ besonderer Erbteil.
 
 
 #### § 1936 Gesetzliches Erbrecht des Staates
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE188804140)
 
 Ist zur Zeit des Erbfalls kein Verwandter, Ehegatte oder Lebenspartner
 des Erblassers vorhanden, erbt das Land, in dem der Erblasser zur Zeit
@@ -37074,12 +39440,14 @@ erbt der Bund.
 
 
 #### § 1937 Erbeinsetzung durch letztwillige Verfügung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE188902377)
 
 Der Erblasser kann durch einseitige Verfügung von Todes wegen
 (Testament, letztwillige Verfügung) den Erben bestimmen.
 
 
 #### § 1938 Enterbung ohne Erbeinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189003377)
 
 Der Erblasser kann durch Testament einen Verwandten, den Ehegatten
 oder den Lebenspartner von der gesetzlichen Erbfolge ausschließen,
@@ -37087,12 +39455,14 @@ ohne einen Erben einzusetzen.
 
 
 #### § 1939 Vermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189102377)
 
 Der Erblasser kann durch Testament einem anderen, ohne ihn als Erben
 einzusetzen, einen Vermögensvorteil zuwenden (Vermächtnis).
 
 
 #### § 1940 Auflage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189202377)
 
 Der Erblasser kann durch Testament den Erben oder einen
 Vermächtnisnehmer zu einer Leistung verpflichten, ohne einem anderen
@@ -37100,6 +39470,7 @@ ein Recht auf die Leistung zuzuwenden (Auflage).
 
 
 #### § 1941 Erbvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189303360)
 
 (1) Der Erblasser kann durch Vertrag einen Erben einsetzen,
 Vermächtnisse und Auflagen anordnen sowie das anzuwendende Erbrecht
@@ -37110,14 +39481,17 @@ andere Vertragschließende als ein Dritter bedacht werden.
 
 
 ### Abschnitt 2 - Rechtliche Stellung des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017502377)
 
 
 
 #### Titel 1 - Annahme und Ausschlagung der Erbschaft, Fürsorge des Nachlassgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017602377)
 
 
 
 ##### § 1942 Anfall und Ausschlagung der Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189402377)
 
 (1) Die Erbschaft geht auf den berufenen Erben unbeschadet des Rechts
 über, sie auszuschlagen (Anfall der Erbschaft).
@@ -37127,6 +39501,7 @@ Erbschaft nicht ausschlagen.
 
 
 ##### § 1943 Annahme und Ausschlagung der Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189502377)
 
 Der Erbe kann die Erbschaft nicht mehr ausschlagen, wenn er sie
 angenommen hat oder wenn die für die Ausschlagung vorgeschriebene
@@ -37135,6 +39510,7 @@ angenommen.
 
 
 ##### § 1944 Ausschlagungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189603140)
 
 (1) Die Ausschlagung kann nur binnen sechs Wochen erfolgen.
 
@@ -37151,6 +39527,7 @@ Beginn der Frist im Ausland aufhält.
 
 
 ##### § 1945 Form der Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189702377)
 
 (1) Die Ausschlagung erfolgt durch Erklärung gegenüber dem
 Nachlassgericht; die Erklärung ist zur Niederschrift des
@@ -37165,18 +39542,21 @@ der Ausschlagungsfrist nachgebracht werden.
 
 
 ##### § 1946 Zeitpunkt für Annahme oder Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189802377)
 
 Der Erbe kann die Erbschaft annehmen oder ausschlagen, sobald der
 Erbfall eingetreten ist.
 
 
 ##### § 1947 Bedingung und Zeitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE189902377)
 
 Die Annahme und die Ausschlagung können nicht unter einer Bedingung
 oder einer Zeitbestimmung erfolgen.
 
 
 ##### § 1948 Mehrere Berufungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190002377)
 
 (1) Wer durch Verfügung von Todes wegen als Erbe berufen ist, kann,
 wenn er ohne die Verfügung als gesetzlicher Erbe berufen sein würde,
@@ -37189,6 +39569,7 @@ anderen ausschlagen.
 
 
 ##### § 1949 Irrtum über den Berufungsgrund
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190102377)
 
 (1) Die Annahme gilt als nicht erfolgt, wenn der Erbe über den
 Berufungsgrund im Irrtum war.
@@ -37198,6 +39579,7 @@ Berufungsgründe, die dem Erben zur Zeit der Erklärung bekannt sind.
 
 
 ##### § 1950 Teilannahme; Teilausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190202377)
 
 Die Annahme und die Ausschlagung können nicht auf einen Teil der
 Erbschaft beschränkt werden. Die Annahme oder Ausschlagung eines Teils
@@ -37205,6 +39587,7 @@ ist unwirksam.
 
 
 ##### § 1951 Mehrere Erbteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190302377)
 
 (1) Wer zu mehreren Erbteilen berufen ist, kann, wenn die Berufung auf
 verschiedenen Gründen beruht, den einen Erbteil annehmen und den
@@ -37223,6 +39606,7 @@ anzunehmen und den anderen auszuschlagen.
 
 
 ##### § 1952 Vererblichkeit des Ausschlagungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190402377)
 
 (1) Das Recht des Erben, die Erbschaft auszuschlagen, ist vererblich.
 
@@ -37235,6 +39619,7 @@ entsprechenden Teil der Erbschaft ausschlagen.
 
 
 ##### § 1953 Wirkung der Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190502377)
 
 (1) Wird die Erbschaft ausgeschlagen, so gilt der Anfall an den
 Ausschlagenden als nicht erfolgt.
@@ -37250,6 +39635,7 @@ Interesse glaubhaft macht.
 
 
 ##### § 1954 Anfechtungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190602377)
 
 (1) Ist die Annahme oder die Ausschlagung anfechtbar, so kann die
 Anfechtung nur binnen sechs Wochen erfolgen.
@@ -37270,6 +39656,7 @@ Ausschlagung 30 Jahre verstrichen sind.
 
 
 ##### § 1955 Form der Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190702377)
 
 Die Anfechtung der Annahme oder der Ausschlagung erfolgt durch
 Erklärung gegenüber dem Nachlassgericht. Für die Erklärung gelten die
@@ -37277,12 +39664,14 @@ Vorschriften des § 1945.
 
 
 ##### § 1956 Anfechtung der Fristversäumung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190802377)
 
 Die Versäumung der Ausschlagungsfrist kann in gleicher Weise wie die
 Annahme angefochten werden.
 
 
 ##### § 1957 Wirkung der Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE190902377)
 
 (1) Die Anfechtung der Annahme gilt als Ausschlagung, die Anfechtung
 der Ausschlagung gilt als Annahme.
@@ -37294,6 +39683,7 @@ Anwendung.
 
 
 ##### § 1958 Gerichtliche Geltendmachung von Ansprüchen gegen den Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191002377)
 
 Vor der Annahme der Erbschaft kann ein Anspruch, der sich gegen den
 Nachlass richtet, nicht gegen den Erben gerichtlich geltend gemacht
@@ -37301,6 +39691,7 @@ werden.
 
 
 ##### § 1959 Geschäftsführung vor der Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191102377)
 
 (1) Besorgt der Erbe vor der Ausschlagung erbschaftliche Geschäfte, so
 ist er demjenigen gegenüber, welcher Erbe wird, wie ein
@@ -37318,6 +39709,7 @@ wirksam.
 
 
 ##### § 1960 Sicherung des Nachlasses; Nachlasspfleger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191202377)
 
 (1) Bis zur Annahme der Erbschaft hat das Nachlassgericht für die
 Sicherung des Nachlasses zu sorgen, soweit ein Bedürfnis besteht. Das
@@ -37334,6 +39726,7 @@ Anwendung.
 
 
 ##### § 1961 Nachlasspflegschaft auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191302377)
 
 Das Nachlassgericht hat in den Fällen des § 1960 Abs. 1 einen
 Nachlasspfleger zu bestellen, wenn die Bestellung zum Zwecke der
@@ -37342,12 +39735,14 @@ Nachlass richtet, von dem Berechtigten beantragt wird.
 
 
 ##### § 1962 Zuständigkeit des Nachlassgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191403140)
 
 Für die Nachlasspflegschaft tritt an die Stelle des Familiengerichts
 oder Betreuungsgerichts das Nachlassgericht.
 
 
 ##### § 1963 Unterhalt der werdenden Mutter eines Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191502377)
 
 Ist zur Zeit des Erbfalls die Geburt eines Erben zu erwarten, so kann
 die Mutter, falls sie außerstande ist, sich selbst zu unterhalten, bis
@@ -37358,6 +39753,7 @@ Kind geboren wird.
 
 
 ##### § 1964 Erbvermutung für den Fiskus durch Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191602377)
 
 (1) Wird der Erbe nicht innerhalb einer den Umständen entsprechenden
 Frist ermittelt, so hat das Nachlassgericht festzustellen, dass ein
@@ -37368,6 +39764,7 @@ gesetzlicher Erbe sei.
 
 
 ##### § 1965 Öffentliche Aufforderung zur Anmeldung der Erbrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191702377)
 
 (1) Der Feststellung hat eine öffentliche Aufforderung zur Anmeldung
 der Erbrechte unter Bestimmung einer Anmeldungsfrist vorauszugehen;
@@ -37386,6 +39783,7 @@ Erhebung der Klage nachzuweisen.
 
 
 ##### § 1966 Rechtsstellung des Fiskus vor Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191802377)
 
 Von dem Fiskus als gesetzlichem Erben und gegen den Fiskus als
 gesetzlichen Erben kann ein Recht erst geltend gemacht werden, nachdem
@@ -37394,14 +39792,17 @@ nicht vorhanden ist.
 
 
 #### Titel 2 - Haftung des Erben für die Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017702377)
 
 
 
 ##### Untertitel 1 - Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017802377)
 
 
 
 ###### § 1967 Erbenhaftung, Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE191902377)
 
 (1) Der Erbe haftet für die Nachlassverbindlichkeiten.
 
@@ -37412,11 +39813,13 @@ Pflichtteilsrechten, Vermächtnissen und Auflagen.
 
 
 ###### § 1968 Beerdigungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192003377)
 
 Der Erbe trägt die Kosten der Beerdigung des Erblassers.
 
 
 ###### § 1969 Dreißigster
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192102377)
 
 (1) Der Erbe ist verpflichtet, Familienangehörigen des Erblassers, die
 zur Zeit des Todes des Erblassers zu dessen Hausstand gehören und von
@@ -37431,16 +39834,19 @@ Anwendung.
 
 
 ##### Untertitel 2 - Aufgebot der Nachlassgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG017902377)
 
 
 
 ###### § 1970 Anmeldung der Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192202377)
 
 Die Nachlassgläubiger können im Wege des Aufgebotsverfahrens zur
 Anmeldung ihrer Forderungen aufgefordert werden.
 
 
 ###### § 1971 Nicht betroffene Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192303377)
 
 Pfandgläubiger und Gläubiger, die im Insolvenzverfahren den
 Pfandgläubigern gleichstehen, sowie Gläubiger, die bei der
@@ -37454,12 +39860,14 @@ Gegenstands ihres Rechts.
 
 
 ###### § 1972 Nicht betroffene Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192402377)
 
 Pflichtteilsrechte, Vermächtnisse und Auflagen werden durch das
 Aufgebot nicht betroffen, unbeschadet der Vorschrift des § 2060 Nr. 1.
 
 
 ###### § 1973 Ausschluss von Nachlassgläubigern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192502377)
 
 (1) Der Erbe kann die Befriedigung eines im Aufgebotsverfahren
 ausgeschlossenen Nachlassgläubigers insoweit verweigern, als der
@@ -37480,6 +39888,7 @@ Gläubiger gegenüber wie die Befriedigung.
 
 
 ###### § 1974 Verschweigungseinrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192603377)
 
 (1) Ein Nachlassgläubiger, der seine Forderung später als fünf Jahre
 nach dem Erbfall dem Erben gegenüber geltend macht, steht einem
@@ -37502,10 +39911,12 @@ wird, finden die Vorschriften des Absatzes 1 auf ihn keine Anwendung.
 
 
 ##### Untertitel 3 - Beschränkung der Haftung des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018002377)
 
 
 
 ###### § 1975 Nachlassverwaltung; Nachlassinsolvenz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192703377)
 
 Die Haftung des Erben für die Nachlassverbindlichkeiten beschränkt
 sich auf den Nachlass, wenn eine Nachlasspflegschaft zum Zwecke der
@@ -37514,6 +39925,7 @@ oder das Nachlassinsolvenzverfahren eröffnet ist.
 
 
 ###### § 1976 Wirkung auf durch Vereinigung erloschene Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192803377)
 
 Ist die Nachlassverwaltung angeordnet oder das
 Nachlassinsolvenzverfahren eröffnet, so gelten die infolge des
@@ -37523,6 +39935,7 @@ erloschen.
 
 
 ###### § 1977 Wirkung auf eine Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE192903377)
 
 (1) Hat ein Nachlassgläubiger vor der Anordnung der Nachlassverwaltung
 oder vor der Eröffnung des Nachlassinsolvenzverfahrens seine Forderung
@@ -37537,6 +39950,7 @@ Nachlass gehörende Forderung aufgerechnet hat.
 
 
 ###### § 1978 Verantwortlichkeit des Erben für bisherige Verwaltung, Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193003377)
 
 (1) Ist die Nachlassverwaltung angeordnet oder das
 Nachlassinsolvenzverfahren eröffnet, so ist der Erbe den
@@ -37556,6 +39970,7 @@ Geschäftsführung ohne Auftrag Ersatz verlangen könnte.
 
 
 ###### § 1979 Berichtigung von Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193102377)
 
 Die Berichtigung einer Nachlassverbindlichkeit durch den Erben müssen
 die Nachlassgläubiger als für Rechnung des Nachlasses erfolgt gelten
@@ -37564,6 +39979,7 @@ Nachlass zur Berichtigung aller Nachlassverbindlichkeiten ausreiche.
 
 
 ###### § 1980 Antrag auf Eröffnung des Nachlassinsolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193203377)
 
 (1) Hat der Erbe von der Zahlungsunfähigkeit oder der Überschuldung
 des Nachlasses Kenntnis erlangt, so hat er unverzüglich die Eröffnung
@@ -37583,6 +39999,7 @@ Nachlasses gegenüber unverhältnismäßig groß sind.
 
 
 ###### § 1981 Anordnung der Nachlassverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193303360)
 
 (1) Die Nachlassverwaltung ist von dem Nachlassgericht anzuordnen,
 wenn der Erbe die Anordnung beantragt.
@@ -37598,18 +40015,21 @@ verstrichen sind.
 
 
 ###### § 1982 Ablehnung der Anordnung der Nachlassverwaltung mangels Masse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193402377)
 
 Die Anordnung der Nachlassverwaltung kann abgelehnt werden, wenn eine
 den Kosten entsprechende Masse nicht vorhanden ist.
 
 
 ###### § 1983 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193502377)
 
 Das Nachlassgericht hat die Anordnung der Nachlassverwaltung durch das
 für seine Bekanntmachungen bestimmte Blatt zu veröffentlichen.
 
 
 ###### § 1984 Wirkung der Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193603377)
 
 (1) Mit der Anordnung der Nachlassverwaltung verliert der Erbe die
 Befugnis, den Nachlass zu verwalten und über ihn zu verfügen. Die
@@ -37622,6 +40042,7 @@ Gläubigers, der nicht Nachlassgläubiger ist, sind ausgeschlossen.
 
 
 ###### § 1985 Pflichten und Haftung des Nachlassverwalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193702377)
 
 (1) Der Nachlassverwalter hat den Nachlass zu verwalten und die
 Nachlassverbindlichkeiten aus dem Nachlass zu berichtigen.
@@ -37632,6 +40053,7 @@ Abs. 2 und der §§ 1979, 1980 finden entsprechende Anwendung.
 
 
 ###### § 1986 Herausgabe des Nachlasses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193802377)
 
 (1) Der Nachlassverwalter darf den Nachlass dem Erben erst
 ausantworten, wenn die bekannten Nachlassverbindlichkeiten berichtigt
@@ -37647,12 +40069,14 @@ einen gegenwärtigen Vermögenswert nicht hat.
 
 
 ###### § 1987 Vergütung des Nachlassverwalters
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE193902377)
 
 Der Nachlassverwalter kann für die Führung seines Amts eine
 angemessene Vergütung verlangen.
 
 
 ###### § 1988 Ende und Aufhebung der Nachlassverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194003377)
 
 (1) Die Nachlassverwaltung endigt mit der Eröffnung des
 Nachlassinsolvenzverfahrens.
@@ -37662,6 +40086,7 @@ dass eine den Kosten entsprechende Masse nicht vorhanden ist.
 
 
 ###### § 1989 Erschöpfungseinrede des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194103377)
 
 Ist das Nachlassinsolvenzverfahren durch Verteilung der Masse oder
 durch einen Insolvenzplan beendet, so findet auf die Haftung des Erben
@@ -37669,6 +40094,7 @@ die Vorschrift des § 1973 entsprechende Anwendung.
 
 
 ###### § 1990 Dürftigkeitseinrede des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194203377)
 
 (1) Ist die Anordnung der Nachlassverwaltung oder die Eröffnung des
 Nachlassinsolvenzverfahrens wegen Mangels einer den Kosten
@@ -37687,6 +40113,7 @@ erlangt hat.
 
 
 ###### § 1991 Folgen der Dürftigkeitseinrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194303377)
 
 (1) Macht der Erbe von dem ihm nach § 1990 zustehenden Recht Gebrauch,
 so finden auf seine Verantwortlichkeit und den Ersatz seiner
@@ -37707,6 +40134,7 @@ Insolvenzverfahrens zur Berichtigung kommen würden.
 
 
 ###### § 1992 Überschuldung durch Vermächtnisse und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194402377)
 
 Beruht die Überschuldung des Nachlasses auf Vermächtnissen und
 Auflagen, so ist der Erbe, auch wenn die Voraussetzungen des § 1990
@@ -37717,16 +40145,19 @@ Wertes abwenden.
 
 
 ##### Untertitel 4 - Inventarerrichtung, unbeschränkte Haftung des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018102377)
 
 
 
 ###### § 1993 Inventarerrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194502377)
 
 Der Erbe ist berechtigt, ein Verzeichnis des Nachlasses (Inventar) bei
 dem Nachlassgericht einzureichen (Inventarerrichtung).
 
 
 ###### § 1994 Inventarfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194602377)
 
 (1) Das Nachlassgericht hat dem Erben auf Antrag eines
 Nachlassgläubigers zur Errichtung des Inventars eine Frist
@@ -37740,6 +40171,7 @@ Forderung nicht besteht.
 
 
 ###### § 1995 Dauer der Frist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194702377)
 
 (1) Die Inventarfrist soll mindestens einen Monat, höchstens drei
 Monate betragen. Sie beginnt mit der Zustellung des Beschlusses, durch
@@ -37753,6 +40185,7 @@ seinem Ermessen verlängern.
 
 
 ###### § 1996 Bestimmung einer neuen Frist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194803377)
 
 (1) War der Erbe ohne sein Verschulden verhindert, das Inventar
 rechtzeitig zu errichten, die nach den Umständen gerechtfertigte
@@ -37769,6 +40202,7 @@ die erste Frist bestimmt worden ist, wenn tunlich gehört werden.
 
 
 ###### § 1997 Hemmung des Fristablaufs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE194903377)
 
 Auf den Lauf der Inventarfrist und der im § 1996 Abs. 2 bestimmten
 Frist von zwei Wochen finden die für die Verjährung geltenden
@@ -37776,6 +40210,7 @@ Vorschriften des § 210 entsprechende Anwendung.
 
 
 ###### § 1998 Tod des Erben vor Fristablauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195002377)
 
 Stirbt der Erbe vor dem Ablauf der Inventarfrist oder der in § 1996
 Abs. 2 bestimmten Frist von zwei Wochen, so endigt die Frist nicht vor
@@ -37784,6 +40219,7 @@ Ausschlagungsfrist.
 
 
 ###### § 1999 Mitteilung an das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195104140)
 
 Steht der Erbe unter elterlicher Sorge oder unter Vormundschaft, so
 soll das Nachlassgericht dem Familiengericht von der Bestimmung der
@@ -37793,6 +40229,7 @@ Familiengerichts das Betreuungsgericht.
 
 
 ###### § 2000 Unwirksamkeit der Fristbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195203377)
 
 Die Bestimmung einer Inventarfrist wird unwirksam, wenn eine
 Nachlassverwaltung angeordnet oder das Nachlassinsolvenzverfahren
@@ -37804,6 +40241,7 @@ unbeschränkten Haftung der Inventarerrichtung nicht.
 
 
 ###### § 2001 Inhalt des Inventars
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195302377)
 
 (1) In dem Inventar sollen die bei dem Eintritt des Erbfalls
 vorhandenen Nachlassgegenstände und die Nachlassverbindlichkeiten
@@ -37815,12 +40253,14 @@ erforderlich ist, und die Angabe des Wertes enthalten.
 
 
 ###### § 2002 Aufnahme des Inventars durch den Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195402377)
 
 Der Erbe muss zu der Aufnahme des Inventars eine zuständige Behörde
 oder einen zuständigen Beamten oder Notar zuziehen.
 
 
 ###### § 2003 Amtliche Aufnahme des Inventars
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195504360)
 
 (1) Die amtliche Aufnahme des Inventars erfolgt auf Antrag des Erben
 durch einen vom Nachlassgericht beauftragten Notar. Durch die Stellung
@@ -37834,6 +40274,7 @@ einzureichen.
 
 
 ###### § 2004 Bezugnahme auf ein vorhandenes Inventar
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195602377)
 
 Befindet sich bei dem Nachlassgericht schon ein den Vorschriften der
 §§ 2002, 2003 entsprechendes Inventar, so genügt es, wenn der Erbe vor
@@ -37842,6 +40283,7 @@ dass das Inventar als von ihm eingereicht gelten soll.
 
 
 ###### § 2005 Unbeschränkte Haftung des Erben bei Unrichtigkeit des Inventars
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195702377)
 
 (1) Führt der Erbe absichtlich eine erhebliche Unvollständigkeit der
 im Inventar enthaltenen Angabe der Nachlassgegenstände herbei oder
@@ -37857,6 +40299,7 @@ neue Inventarfrist bestimmt werden.
 
 
 ###### § 2006 Eidesstattliche Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195802377)
 
 (1) Der Erbe hat auf Verlangen eines Nachlassgläubigers zu Protokoll
 des Nachlassgerichts an Eides statt zu versichern,
@@ -37885,6 +40328,7 @@ geworden sind.
 
 
 ###### § 2007 Haftung bei mehreren Erbteilen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE195902377)
 
 Ist ein Erbe zu mehreren Erbteilen berufen, so bestimmt sich seine
 Haftung für die Nachlassverbindlichkeiten in Ansehung eines jeden der
@@ -37894,6 +40338,7 @@ Erbteile verschieden beschwert sind.
 
 
 ###### § 2008 Inventar für eine zum Gesamtgut gehörende Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196002377)
 
 (1) Ist ein in Gütergemeinschaft lebender Ehegatte Erbe und gehört die
 Erbschaft zum Gesamtgut, so ist die Bestimmung der Inventarfrist nur
@@ -37909,6 +40354,7 @@ der Gütergemeinschaft.
 
 
 ###### § 2009 Wirkung der Inventarerrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196102377)
 
 Ist das Inventar rechtzeitig errichtet worden, so wird im Verhältnis
 zwischen dem Erben und den Nachlassgläubigern vermutet, dass zur Zeit
@@ -37917,12 +40363,14 @@ vorhanden gewesen seien.
 
 
 ###### § 2010 Einsicht des Inventars
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196202377)
 
 Das Nachlassgericht hat die Einsicht des Inventars jedem zu gestatten,
 der ein rechtliches Interesse glaubhaft macht.
 
 
 ###### § 2011 Keine Inventarfrist für den Fiskus als Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196302377)
 
 Dem Fiskus als gesetzlichem Erben kann eine Inventarfrist nicht
 bestimmt werden. Der Fiskus ist den Nachlassgläubigern gegenüber
@@ -37930,6 +40378,7 @@ verpflichtet, über den Bestand des Nachlasses Auskunft zu erteilen.
 
 
 ###### § 2012 Keine Inventarfrist für den Nachlasspfleger und Nachlassverwalter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196402377)
 
 (1) Einem nach den §§ 1960, 1961 bestellten Nachlasspfleger kann eine
 Inventarfrist nicht bestimmt werden. Der Nachlasspfleger ist den
@@ -37941,6 +40390,7 @@ die Beschränkung der Haftung des Erben verzichten.
 
 
 ###### § 2013 Folgen der unbeschränkten Haftung des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196502377)
 
 (1) Haftet der Erbe für die Nachlassverbindlichkeiten unbeschränkt, so
 finden die Vorschriften der §§ 1973 bis 1975, 1977 bis 1980, 1989 bis
@@ -37957,10 +40407,12 @@ unbeschränkt haftet.
 
 
 ##### Untertitel 5 - Aufschiebende Einreden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018202377)
 
 
 
 ###### § 2014 Dreimonatseinrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196602377)
 
 Der Erbe ist berechtigt, die Berichtigung einer
 Nachlassverbindlichkeit bis zum Ablauf der ersten drei Monate nach der
@@ -37969,6 +40421,7 @@ hinaus, zu verweigern.
 
 
 ###### § 2015 Einrede des Aufgebotsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196703140)
 
 (1) Hat der Erbe den Antrag auf Einleitung des Aufgebotsverfahrens der
 Nachlassgläubiger innerhalb eines Jahres nach der Annahme der
@@ -37985,6 +40438,7 @@ rechtskräftig ist.
 
 
 ###### § 2016 Ausschluss der Einreden bei unbeschränkter Erbenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196802377)
 
 (1) Die Vorschriften der §§ 2014, 2015 finden keine Anwendung, wenn
 der Erbe unbeschränkt haftet.
@@ -37998,6 +40452,7 @@ erlangte Vormerkung außer Betracht bleibt.
 
 
 ###### § 2017 Fristbeginn bei Nachlasspflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE196902377)
 
 Wird vor der Annahme der Erbschaft zur Verwaltung des Nachlasses ein
 Nachlasspfleger bestellt, so beginnen die in § 2014 und in § 2015 Abs.
@@ -38005,10 +40460,12 @@ Nachlasspfleger bestellt, so beginnen die in § 2014 und in § 2015 Abs.
 
 
 #### Titel 3 - Erbschaftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018302377)
 
 
 
 ##### § 2018 Herausgabepflicht des Erbschaftsbesitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197002377)
 
 Der Erbe kann von jedem, der auf Grund eines ihm in Wirklichkeit nicht
 zustehenden Erbrechts etwas aus der Erbschaft erlangt hat
@@ -38016,6 +40473,7 @@ zustehenden Erbrechts etwas aus der Erbschaft erlangt hat
 
 
 ##### § 2019 Unmittelbare Ersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197102377)
 
 (1) Als aus der Erbschaft erlangt gilt auch, was der
 Erbschaftsbesitzer durch Rechtsgeschäft mit Mitteln der Erbschaft
@@ -38028,6 +40486,7 @@ wenn er von der Zugehörigkeit Kenntnis erlangt; die Vorschriften der
 
 
 ##### § 2020 Nutzungen und Früchte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197202377)
 
 Der Erbschaftsbesitzer hat dem Erben die gezogenen Nutzungen
 herauszugeben; die Verpflichtung zur Herausgabe erstreckt sich auch
@@ -38035,6 +40494,7 @@ auf Früchte, an denen er das Eigentum erworben hat.
 
 
 ##### § 2021 Herausgabepflicht nach Bereicherungsgrundsätzen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197302377)
 
 Soweit der Erbschaftsbesitzer zur Herausgabe außerstande ist, bestimmt
 sich seine Verpflichtung nach den Vorschriften über die Herausgabe
@@ -38042,6 +40502,7 @@ einer ungerechtfertigten Bereicherung.
 
 
 ##### § 2022 Ersatz von Verwendungen und Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197402377)
 
 (1) Der Erbschaftsbesitzer ist zur Herausgabe der zur Erbschaft
 gehörenden Sachen nur gegen Ersatz aller Verwendungen verpflichtet,
@@ -38062,6 +40523,7 @@ unberührt.
 
 
 ##### § 2023 Haftung bei Rechtshängigkeit, Nutzungen und Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197502377)
 
 (1) Hat der Erbschaftsbesitzer zur Erbschaft gehörende Sachen
 herauszugeben, so bestimmt sich von dem Eintritt der Rechtshängigkeit
@@ -38077,6 +40539,7 @@ auf Ersatz von Verwendungen.
 
 
 ##### § 2024 Haftung bei Kenntnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197602377)
 
 Ist der Erbschaftsbesitzer bei dem Beginn des Erbschaftsbesitzes nicht
 in gutem Glauben, so haftet er so, wie wenn der Anspruch des Erben zu
@@ -38087,6 +40550,7 @@ bleibt unberührt.
 
 
 ##### § 2025 Haftung bei unerlaubter Handlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197702377)
 
 Hat der Erbschaftsbesitzer einen Erbschaftsgegenstand durch eine
 Straftat oder eine zur Erbschaft gehörende Sache durch verbotene
@@ -38098,6 +40562,7 @@ tatsächlich ergriffen hatte.
 
 
 ##### § 2026 Keine Berufung auf Ersitzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197802377)
 
 Der Erbschaftsbesitzer kann sich dem Erben gegenüber, solange nicht
 der Erbschaftsanspruch verjährt ist, nicht auf die Ersitzung einer
@@ -38105,6 +40570,7 @@ Sache berufen, die er als zur Erbschaft gehörend im Besitz hat.
 
 
 ##### § 2027 Auskunftspflicht des Erbschaftsbesitzers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE197902377)
 
 (1) Der Erbschaftsbesitzer ist verpflichtet, dem Erben über den
 Bestand der Erbschaft und über den Verbleib der Erbschaftsgegenstände
@@ -38116,6 +40582,7 @@ Besitz tatsächlich ergriffen hat.
 
 
 ##### § 2028 Auskunftspflicht des Hausgenossen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198002377)
 
 (1) Wer sich zur Zeit des Erbfalls mit dem Erblasser in häuslicher
 Gemeinschaft befunden hat, ist verpflichtet, dem Erben auf Verlangen
@@ -38133,6 +40600,7 @@ als er dazu imstande sei.
 
 
 ##### § 2029 Haftung bei Einzelansprüchen des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198102377)
 
 Die Haftung des Erbschaftsbesitzers bestimmt sich auch gegenüber den
 Ansprüchen, die dem Erben in Ansehung der einzelnen
@@ -38141,12 +40609,14 @@ Erbschaftsanspruch.
 
 
 ##### § 2030 Rechtsstellung des Erbschaftserwerbers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198202377)
 
 Wer die Erbschaft durch Vertrag von einem Erbschaftsbesitzer erwirbt,
 steht im Verhältnis zu dem Erben einem Erbschaftsbesitzer gleich.
 
 
 ##### § 2031 Herausgabeanspruch des für tot Erklärten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198302377)
 
 (1) Überlebt eine Person, die für tot erklärt oder deren Todeszeit
 nach den Vorschriften des Verschollenheitsgesetzes festgestellt ist,
@@ -38162,14 +40632,17 @@ oder Feststellung der Todeszeit mit Unrecht angenommen worden ist.
 
 
 #### Titel 4 - Mehrheit von Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018402377)
 
 
 
 ##### Untertitel 1 - Rechtsverhältnis der Erben untereinander
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018502377)
 
 
 
 ###### § 2032 Erbengemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198402377)
 
 (1) Hinterlässt der Erblasser mehrere Erben, so wird der Nachlass
 gemeinschaftliches Vermögen der Erben.
@@ -38179,6 +40652,7 @@ gemeinschaftliches Vermögen der Erben.
 
 
 ###### § 2033 Verfügungsrecht des Miterben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198502377)
 
 (1) Jeder Miterbe kann über seinen Anteil an dem Nachlass verfügen.
 Der Vertrag, durch den ein Miterbe über seinen Anteil verfügt, bedarf
@@ -38189,6 +40663,7 @@ Miterbe nicht verfügen.
 
 
 ###### § 2034 Vorkaufsrecht gegenüber dem Verkäufer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198602377)
 
 (1) Verkauft ein Miterbe seinen Anteil an einen Dritten, so sind die
 übrigen Miterben zum Vorkauf berechtigt.
@@ -38198,6 +40673,7 @@ Das Vorkaufsrecht ist vererblich.
 
 
 ###### § 2035 Vorkaufsrecht gegenüber dem Käufer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198702377)
 
 (1) Ist der verkaufte Anteil auf den Käufer übertragen, so können die
 Miterben das ihnen nach § 2034 dem Verkäufer gegenüber zustehende
@@ -38209,6 +40685,7 @@ benachrichtigen.
 
 
 ###### § 2036 Haftung des Erbteilkäufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198802377)
 
 Mit der Übertragung des Anteils auf die Miterben wird der Käufer von
 der Haftung für die Nachlassverbindlichkeiten frei. Seine Haftung
@@ -38218,12 +40695,14 @@ finden entsprechende Anwendung.
 
 
 ###### § 2037 Weiterveräußerung des Erbteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE198902377)
 
 Überträgt der Käufer den Anteil auf einen anderen, so finden die
 Vorschriften der §§ 2033, 2035, 2036 entsprechende Anwendung.
 
 
 ###### § 2038 Gemeinschaftliche Verwaltung des Nachlasses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199002377)
 
 (1) Die Verwaltung des Nachlasses steht den Erben gemeinschaftlich zu.
 Jeder Miterbe ist den anderen gegenüber verpflichtet, zu Maßregeln
@@ -38239,6 +40718,7 @@ verlangen.
 
 
 ###### § 2039 Nachlassforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199102377)
 
 Gehört ein Anspruch zum Nachlass, so kann der Verpflichtete nur an
 alle Erben gemeinschaftlich leisten und jeder Miterbe nur die Leistung
@@ -38249,6 +40729,7 @@ bestellenden Verwahrer abliefert.
 
 
 ###### § 2040 Verfügung über Nachlassgegenstände, Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199202377)
 
 (1) Die Erben können über einen Nachlassgegenstand nur
 gemeinschaftlich verfügen.
@@ -38259,6 +40740,7 @@ aufrechnen.
 
 
 ###### § 2041 Unmittelbare Ersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199302377)
 
 Was auf Grund eines zum Nachlass gehörenden Rechts oder als Ersatz für
 die Zerstörung, Beschädigung oder Entziehung eines Nachlassgegenstands
@@ -38269,6 +40751,7 @@ Abs. 2 Anwendung.
 
 
 ###### § 2042 Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199402377)
 
 (1) Jeder Miterbe kann jederzeit die Auseinandersetzung verlangen,
 soweit sich nicht aus den §§ 2043 bis 2045 ein anderes ergibt.
@@ -38278,6 +40761,7 @@ Anwendung.
 
 
 ###### § 2043 Aufschub der Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199504320)
 
 (1) Soweit die Erbteile wegen der zu erwartenden Geburt eines Miterben
 noch unbestimmt sind, ist die Auseinandersetzung bis zur Hebung der
@@ -38291,6 +40775,7 @@ aussteht.
 
 
 ###### § 2044 Ausschluss der Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199602377)
 
 (1) Der Erblasser kann durch letztwillige Verfügung die
 Auseinandersetzung in Ansehung des Nachlasses oder einzelner
@@ -38309,6 +40794,7 @@ bewendet es bei der dreißigjährigen Frist.
 
 
 ###### § 2045 Aufschub der Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199703140)
 
 Jeder Miterbe kann verlangen, dass die Auseinandersetzung bis zur
 Beendigung des nach § 1970 zulässigen Aufgebotsverfahrens oder bis zum
@@ -38320,6 +40806,7 @@ gestellt oder die Aufforderung erlassen wird.
 
 
 ###### § 2046 Berichtigung der Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199802377)
 
 (1) Aus dem Nachlass sind zunächst die Nachlassverbindlichkeiten zu
 berichtigen. Ist eine Nachlassverbindlichkeit noch nicht fällig oder
@@ -38335,6 +40822,7 @@ umzusetzen.
 
 
 ###### § 2047 Verteilung des Überschusses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE199902377)
 
 (1) Der nach der Berichtigung der Nachlassverbindlichkeiten
 verbleibende Überschuss gebührt den Erben nach dem Verhältnis der
@@ -38346,6 +40834,7 @@ bleiben gemeinschaftlich.
 
 
 ###### § 2048 Teilungsanordnungen des Erblassers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200002377)
 
 Der Erblasser kann durch letztwillige Verfügung Anordnungen für die
 Auseinandersetzung treffen. Er kann insbesondere anordnen, dass die
@@ -38356,6 +40845,7 @@ unbillig ist; die Bestimmung erfolgt in diesem Falle durch Urteil.
 
 
 ###### § 2049 Übernahme eines Landguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200102377)
 
 (1) Hat der Erblasser angeordnet, dass einer der Miterben das Recht
 haben soll, ein zum Nachlass gehörendes Landgut zu übernehmen, so ist
@@ -38368,6 +40858,7 @@ Bewirtschaftung nachhaltig gewähren kann.
 
 
 ###### § 2050 Ausgleichungspflicht für Abkömmlinge als gesetzliche Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200202377)
 
 (1) Abkömmlinge, die als gesetzliche Erben zur Erbfolge gelangen, sind
 verpflichtet, dasjenige, was sie von dem Erblasser bei dessen
@@ -38387,6 +40878,7 @@ angeordnet hat.
 
 
 ###### § 2051 Ausgleichungspflicht bei Wegfall eines Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200302377)
 
 (1) Fällt ein Abkömmling, der als Erbe zur Ausgleichung verpflichtet
 sein würde, vor oder nach dem Erbfall weg, so ist wegen der ihm
@@ -38400,6 +40892,7 @@ der Ausgleichungspflicht erhalten würde.
 
 
 ###### § 2052 Ausgleichungspflicht für Abkömmlinge als gewillkürte Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200402377)
 
 Hat der Erblasser die Abkömmlinge auf dasjenige als Erben eingesetzt,
 was sie als gesetzliche Erben erhalten würden, oder hat er ihre
@@ -38410,6 +40903,7 @@ verpflichtet sein sollen.
 
 
 ###### § 2053 Zuwendung an entfernteren oder angenommenen Abkömmling
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200502377)
 
 (1) Eine Zuwendung, die ein entfernterer Abkömmling vor dem Wegfall
 des ihn von der Erbfolge ausschließenden näheren Abkömmlings oder ein
@@ -38424,6 +40918,7 @@ erhalten hat.
 
 
 ###### § 2054 Zuwendung aus dem Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200602377)
 
 (1) Eine Zuwendung, die aus dem Gesamtgut der Gütergemeinschaft
 erfolgt, gilt als von jedem der Ehegatten zur Hälfte gemacht. Die
@@ -38437,6 +40932,7 @@ fortgesetzten Gütergemeinschaft entsprechend anzuwenden.
 
 
 ###### § 2055 Durchführung der Ausgleichung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200702377)
 
 (1) Bei der Auseinandersetzung wird jedem Miterben der Wert der
 Zuwendung, die er zur Ausgleichung zu bringen hat, auf seinen Erbteil
@@ -38449,6 +40945,7 @@ ist.
 
 
 ###### § 2056 Mehrempfang
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200802377)
 
 Hat ein Miterbe durch die Zuwendung mehr erhalten, als ihm bei der
 Auseinandersetzung zukommen würde, so ist er zur Herauszahlung des
@@ -38458,6 +40955,7 @@ Zuwendung und der Erbteil des Miterben außer Ansatz bleiben.
 
 
 ###### § 2057 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE200902377)
 
 Jeder Miterbe ist verpflichtet, den übrigen Erben auf Verlangen
 Auskunft über die Zuwendungen zu erteilen, die er nach den §§ 2050 bis
@@ -38467,6 +40965,7 @@ finden entsprechende Anwendung.
 
 
 ###### § 2057a Ausgleichungspflicht bei besonderen Leistungen eines Abkömmlings
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201003140)
 
 (1) Ein Abkömmling, der durch Mitarbeit im Haushalt, Beruf oder
 Geschäft des Erblassers während längerer Zeit, durch erhebliche
@@ -38497,16 +40996,19 @@ Ausgleichung stattfindet.
 
 
 ##### Untertitel 2 - Rechtsverhältnis zwischen den Erben und den Nachlassgläubigern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018602377)
 
 
 
 ###### § 2058 Gesamtschuldnerische Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201102377)
 
 Die Erben haften für die gemeinschaftlichen Nachlassverbindlichkeiten
 als Gesamtschuldner.
 
 
 ###### § 2059 Haftung bis zur Teilung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201202377)
 
 (1) Bis zur Teilung des Nachlasses kann jeder Miterbe die Berichtigung
 der Nachlassverbindlichkeiten aus dem Vermögen, das er außer seinem
@@ -38521,6 +41023,7 @@ unberührt.
 
 
 ###### § 2060 Haftung nach der Teilung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201303377)
 
 Nach der Teilung des Nachlasses haftet jeder Miterbe nur für den
 seinem Erbteil entsprechenden Teil einer Nachlassverbindlichkeit:
@@ -38547,6 +41050,7 @@ seinem Erbteil entsprechenden Teil einer Nachlassverbindlichkeit:
 
 
 ###### § 2061 Aufgebot der Nachlassgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201402377)
 
 (1) Jeder Miterbe kann die Nachlassgläubiger öffentlich auffordern,
 ihre Forderungen binnen sechs Monaten bei ihm oder bei dem
@@ -38563,6 +41067,7 @@ Kosten fallen dem Erben zur Last, der die Aufforderung erlässt.
 
 
 ###### § 2062 Antrag auf Nachlassverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201502377)
 
 Die Anordnung einer Nachlassverwaltung kann von den Erben nur
 gemeinschaftlich beantragt werden; sie ist ausgeschlossen, wenn der
@@ -38570,6 +41075,7 @@ Nachlass geteilt ist.
 
 
 ###### § 2063 Errichtung eines Inventars, Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201602377)
 
 (1) Die Errichtung des Inventars durch einen Miterben kommt auch den
 übrigen Erben zustatten, soweit nicht ihre Haftung für die
@@ -38581,19 +41087,23 @@ Nachlassgläubigern gegenüber unbeschränkt haftet.
 
 
 ### Abschnitt 3 - Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018702377)
 
 
 
 #### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018802377)
 
 
 
 ##### § 2064 Persönliche Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201702377)
 
 Der Erblasser kann ein Testament nur persönlich errichten.
 
 
 ##### § 2065 Bestimmung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201802377)
 
 (1) Der Erblasser kann eine letztwillige Verfügung nicht in der Weise
 treffen, dass ein anderer zu bestimmen hat, ob sie gelten oder nicht
@@ -38605,6 +41115,7 @@ nicht einem anderen überlassen.
 
 
 ##### § 2066 Gesetzliche Erben des Erblassers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE201902377)
 
 Hat der Erblasser seine gesetzlichen Erben ohne nähere Bestimmung
 bedacht, so sind diejenigen, welche zur Zeit des Erbfalls seine
@@ -38618,6 +41129,7 @@ Bedingung oder des Termins gestorben wäre.
 
 
 ##### § 2067 Verwandte des Erblassers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202002377)
 
 Hat der Erblasser seine Verwandten oder seine nächsten Verwandten ohne
 nähere Bestimmung bedacht, so sind im Zweifel diejenigen Verwandten,
@@ -38627,6 +41139,7 @@ Vorschrift des § 2066 Satz 2 findet Anwendung.
 
 
 ##### § 2068 Kinder des Erblassers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202102377)
 
 Hat der Erblasser seine Kinder ohne nähere Bestimmung bedacht und ist
 ein Kind vor der Errichtung des Testaments mit Hinterlassung von
@@ -38636,6 +41149,7 @@ Erbfolge an die Stelle des Kindes treten würden.
 
 
 ##### § 2069 Abkömmlinge des Erblassers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202202377)
 
 Hat der Erblasser einen seiner Abkömmlinge bedacht und fällt dieser
 nach der Errichtung des Testaments weg, so ist im Zweifel anzunehmen,
@@ -38644,6 +41158,7 @@ gesetzlichen Erbfolge an dessen Stelle treten würden.
 
 
 ##### § 2070 Abkömmlinge eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202303301)
 
 Hat der Erblasser die Abkömmlinge eines Dritten ohne nähere Bestimmung
 bedacht, so ist im Zweifel anzunehmen, dass diejenigen Abkömmlinge
@@ -38655,6 +41170,7 @@ oder des Termins noch nicht gezeugt sind.
 
 
 ##### § 2071 Personengruppe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202402377)
 
 Hat der Erblasser ohne nähere Bestimmung eine Klasse von Personen oder
 Personen bedacht, die zu ihm in einem Dienst- oder Geschäftsverhältnis
@@ -38664,6 +41180,7 @@ dem bezeichneten Verhältnis stehen.
 
 
 ##### § 2072 Die Armen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202502377)
 
 Hat der Erblasser die Armen ohne nähere Bestimmung bedacht, so ist im
 Zweifel anzunehmen, dass die öffentliche Armenkasse der Gemeinde, in
@@ -38672,6 +41189,7 @@ bedacht ist, das Zugewendete unter Arme zu verteilen.
 
 
 ##### § 2073 Mehrdeutige Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202602377)
 
 Hat der Erblasser den Bedachten in einer Weise bezeichnet, die auf
 mehrere Personen passt, und lässt sich nicht ermitteln, wer von ihnen
@@ -38679,6 +41197,7 @@ bedacht werden sollte, so gelten sie als zu gleichen Teilen bedacht.
 
 
 ##### § 2074 Aufschiebende Bedingung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202702377)
 
 Hat der Erblasser eine letztwillige Zuwendung unter einer
 aufschiebenden Bedingung gemacht, so ist im Zweifel anzunehmen, dass
@@ -38687,6 +41206,7 @@ Bedingung erlebt.
 
 
 ##### § 2075 Auflösende Bedingung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202802377)
 
 Hat der Erblasser eine letztwillige Zuwendung unter der Bedingung
 gemacht, dass der Bedachte während eines Zeitraums von unbestimmter
@@ -38698,6 +41218,7 @@ oder das Tun unterlässt.
 
 
 ##### § 2076 Bedingung zum Vorteil eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE202902377)
 
 Bezweckt die Bedingung, unter der eine letztwillige Zuwendung gemacht
 ist, den Vorteil eines Dritten, so gilt sie im Zweifel als
@@ -38706,6 +41227,7 @@ erforderliche Mitwirkung verweigert.
 
 
 ##### § 2077 Unwirksamkeit letztwilliger Verfügungen bei Auflösung der Ehe oder Verlobung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203003377)
 
 (1) Eine letztwillige Verfügung, durch die der Erblasser seinen
 Ehegatten bedacht hat, ist unwirksam, wenn die Ehe vor dem Tode des
@@ -38725,6 +41247,7 @@ Erblasser sie auch für einen solchen Fall getroffen haben würde.
 
 
 ##### § 2078 Anfechtung wegen Irrtums oder Drohung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203102377)
 
 (1) Eine letztwillige Verfügung kann angefochten werden, soweit der
 Erblasser über den Inhalt seiner Erklärung im Irrtum war oder eine
@@ -38740,6 +41263,7 @@ Umstands oder widerrechtlich durch Drohung bestimmt worden ist.
 
 
 ##### § 2079 Anfechtung wegen Übergehung eines Pflichtteilsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203202377)
 
 Eine letztwillige Verfügung kann angefochten werden, wenn der
 Erblasser einen zur Zeit des Erbfalls vorhandenen
@@ -38752,6 +41276,7 @@ würde.
 
 
 ##### § 2080 Anfechtungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203302377)
 
 (1) Zur Anfechtung ist derjenige berechtigt, welchem die Aufhebung der
 letztwilligen Verfügung unmittelbar zustatten kommen würde.
@@ -38766,6 +41291,7 @@ Pflichtteilsberechtigten zu.
 
 
 ##### § 2081 Anfechtungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203402377)
 
 (1) Die Anfechtung einer letztwilligen Verfügung, durch die ein Erbe
 eingesetzt, ein gesetzlicher Erbe von der Erbfolge ausgeschlossen, ein
@@ -38784,6 +41310,7 @@ begründet wird, insbesondere für die Anfechtung einer Auflage.
 
 
 ##### § 2082 Anfechtungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203502377)
 
 (1) Die Anfechtung kann nur binnen Jahresfrist erfolgen.
 
@@ -38797,6 +41324,7 @@ verstrichen sind.
 
 
 ##### § 2083 Anfechtbarkeitseinrede
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203602377)
 
 Ist eine letztwillige Verfügung, durch die eine Verpflichtung zu einer
 Leistung begründet wird, anfechtbar, so kann der Beschwerte die
@@ -38805,6 +41333,7 @@ ausgeschlossen ist.
 
 
 ##### § 2084 Auslegung zugunsten der Wirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203702377)
 
 Lässt der Inhalt einer letztwilligen Verfügung verschiedene
 Auslegungen zu, so ist im Zweifel diejenige Auslegung vorzuziehen, bei
@@ -38812,6 +41341,7 @@ welcher die Verfügung Erfolg haben kann.
 
 
 ##### § 2085 Teilweise Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203802377)
 
 Die Unwirksamkeit einer von mehreren in einem Testament enthaltenen
 Verfügungen hat die Unwirksamkeit der übrigen Verfügungen nur zur
@@ -38820,6 +41350,7 @@ unwirksame Verfügung nicht getroffen haben würde.
 
 
 ##### § 2086 Ergänzungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE203902377)
 
 Ist einer letztwilligen Verfügung der Vorbehalt einer Ergänzung
 beigefügt, die Ergänzung aber unterblieben, so ist die Verfügung
@@ -38828,10 +41359,12 @@ Ergänzung abhängig sein sollte.
 
 
 #### Titel 2 - Erbeinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG018902377)
 
 
 
 ##### § 2087 Zuwendung des Vermögens, eines Bruchteils oder einzelner Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204002377)
 
 (1) Hat der Erblasser sein Vermögen oder einen Bruchteil seines
 Vermögens dem Bedachten zugewendet, so ist die Verfügung als
@@ -38844,6 +41377,7 @@ Erbe bezeichnet ist.
 
 
 ##### § 2088 Einsetzung auf Bruchteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204102377)
 
 (1) Hat der Erblasser nur einen Erben eingesetzt und die Einsetzung
 auf einen Bruchteil der Erbschaft beschränkt, so tritt in Ansehung des
@@ -38855,6 +41389,7 @@ Bruchteile das Ganze nicht erschöpfen.
 
 
 ##### § 2089 Erhöhung der Bruchteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204202377)
 
 Sollen die eingesetzten Erben nach dem Willen des Erblassers die
 alleinigen Erben sein, so tritt, wenn jeder von ihnen auf einen
@@ -38863,6 +41398,7 @@ nicht erschöpfen, eine verhältnismäßige Erhöhung der Bruchteile ein.
 
 
 ##### § 2090 Minderung der Bruchteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204302377)
 
 Ist jeder der eingesetzten Erben auf einen Bruchteil der Erbschaft
 eingesetzt und übersteigen die Bruchteile das Ganze, so tritt eine
@@ -38870,6 +41406,7 @@ verhältnismäßige Minderung der Bruchteile ein.
 
 
 ##### § 2091 Unbestimmte Bruchteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204402377)
 
 Sind mehrere Erben eingesetzt, ohne dass die Erbteile bestimmt sind,
 so sind sie zu gleichen Teilen eingesetzt, soweit sich nicht aus den
@@ -38877,6 +41414,7 @@ so sind sie zu gleichen Teilen eingesetzt, soweit sich nicht aus den
 
 
 ##### § 2092 Teilweise Einsetzung auf Bruchteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204502377)
 
 (1) Sind von mehreren Erben die einen auf Bruchteile, die anderen ohne
 Bruchteile eingesetzt, so erhalten die letzteren den freigebliebenen
@@ -38889,6 +41427,7 @@ geringsten Bruchteil bedachte Erbe.
 
 
 ##### § 2093 Gemeinschaftlicher Erbteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204602377)
 
 Sind einige von mehreren Erben auf einen und denselben Bruchteil der
 Erbschaft eingesetzt (gemeinschaftlicher Erbteil), so finden in
@@ -38897,6 +41436,7 @@ bis 2092 entsprechende Anwendung.
 
 
 ##### § 2094 Anwachsung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204702377)
 
 (1) Sind mehrere Erben in der Weise eingesetzt, dass sie die
 gesetzliche Erbfolge ausschließen, und fällt einer der Erben vor oder
@@ -38915,6 +41455,7 @@ sind.
 
 
 ##### § 2095 Angewachsener Erbteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204802377)
 
 Der durch Anwachsung einem Erben anfallende Erbteil gilt in Ansehung
 der Vermächtnisse und Auflagen, mit denen dieser Erbe oder der
@@ -38923,6 +41464,7 @@ Ausgleichungspflicht als besonderer Erbteil.
 
 
 ##### § 2096 Ersatzerbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE204902377)
 
 Der Erblasser kann für den Fall, dass ein Erbe vor oder nach dem
 Eintritt des Erbfalls wegfällt, einen anderen als Erben einsetzen
@@ -38930,6 +41472,7 @@ Eintritt des Erbfalls wegfällt, einen anderen als Erben einsetzen
 
 
 ##### § 2097 Auslegungsregel bei Ersatzerben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205002377)
 
 Ist jemand für den Fall, dass der zunächst berufene Erbe nicht Erbe
 sein kann, oder für den Fall, dass er nicht Erbe sein will, als
@@ -38938,6 +41481,7 @@ Fälle eingesetzt ist.
 
 
 ##### § 2098 Wechselseitige Einsetzung als Ersatzerben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205102377)
 
 (1) Sind die Erben gegenseitig oder sind für einen von ihnen die
 übrigen als Ersatzerben eingesetzt, so ist im Zweifel anzunehmen, dass
@@ -38950,15 +41494,18 @@ Zweifel als Ersatzerben für diesen Erbteil den anderen vor.
 
 
 ##### § 2099 Ersatzerbe und Anwachsung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205202377)
 
 Das Recht des Ersatzerben geht dem Anwachsungsrecht vor.
 
 
 #### Titel 3 - Einsetzung eines Nacherben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019002377)
 
 
 
 ##### § 2100 Nacherbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205302377)
 
 Der Erblasser kann einen Erben in der Weise einsetzen, dass dieser
 erst Erbe wird, nachdem zunächst ein anderer Erbe geworden ist
@@ -38966,6 +41513,7 @@ erst Erbe wird, nachdem zunächst ein anderer Erbe geworden ist
 
 
 ##### § 2101 Noch nicht gezeugter Nacherbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205405360)
 
 (1) Ist eine zur Zeit des Erbfalls noch nicht gezeugte Person als Erbe
 eingesetzt, so ist im Zweifel anzunehmen, dass sie als Nacherbe
@@ -38978,6 +41526,7 @@ Absatz 2 Satz 2 bleibt unberührt.
 
 
 ##### § 2102 Nacherbe und Ersatzerbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205502377)
 
 (1) Die Einsetzung als Nacherbe enthält im Zweifel auch die Einsetzung
 als Ersatzerbe.
@@ -38987,6 +41536,7 @@ eingesetzt ist, so gilt er als Ersatzerbe.
 
 
 ##### § 2103 Anordnung der Herausgabe der Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205602377)
 
 Hat der Erblasser angeordnet, dass der Erbe mit dem Eintritt eines
 bestimmten Zeitpunkts oder Ereignisses die Erbschaft einem anderen
@@ -38995,6 +41545,7 @@ eingesetzt ist.
 
 
 ##### § 2104 Gesetzliche Erben als Nacherben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205702377)
 
 Hat der Erblasser angeordnet, dass der Erbe nur bis zu dem Eintritt
 eines bestimmten Zeitpunkts oder Ereignisses Erbe sein soll, ohne zu
@@ -39006,6 +41557,7 @@ nicht zu den gesetzlichen Erben im Sinne dieser Vorschrift.
 
 
 ##### § 2105 Gesetzliche Erben als Vorerben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205803301)
 
 (1) Hat der Erblasser angeordnet, dass der eingesetzte Erbe die
 Erbschaft erst mit dem Eintritt eines bestimmten Zeitpunkts oder
@@ -39020,6 +41572,7 @@ als Erbe nach § 2101 als Nacherbeinsetzung anzusehen ist.
 
 
 ##### § 2106 Eintritt der Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE205903301)
 
 (1) Hat der Erblasser einen Nacherben eingesetzt, ohne den Zeitpunkt
 oder das Ereignis zu bestimmen, mit dem die Nacherbfolge eintreten
@@ -39033,6 +41586,7 @@ der Anfall mit der Entstehung der juristischen Person ein.
 
 
 ##### § 2107 Kinderloser Vorerbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206002377)
 
 Hat der Erblasser einem Abkömmling, der zur Zeit der Errichtung der
 letztwilligen Verfügung keinen Abkömmling hat oder von dem der
@@ -39043,6 +41597,7 @@ ohne Nachkommenschaft stirbt.
 
 
 ##### § 2108 Erbfähigkeit; Vererblichkeit des Nacherbrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206102377)
 
 (1) Die Vorschrift des § 1923 findet auf die Nacherbfolge
 entsprechende Anwendung.
@@ -39055,6 +41610,7 @@ eingesetzt, so bewendet es bei der Vorschrift des § 2074.
 
 
 ##### § 2109 Unwirksamwerden der Nacherbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206202377)
 
 (1) Die Einsetzung eines Nacherben wird mit dem Ablauf von 30 Jahren
 nach dem Erbfall unwirksam, wenn nicht vorher der Fall der
@@ -39080,6 +41636,7 @@ dreißigjährigen Frist.
 
 
 ##### § 2110 Umfang des Nacherbrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206302377)
 
 (1) Das Recht des Nacherben erstreckt sich im Zweifel auf einen
 Erbteil, der dem Vorerben infolge des Wegfalls eines Miterben anfällt.
@@ -39089,6 +41646,7 @@ dem Vorerben zugewendetes Vorausvermächtnis.
 
 
 ##### § 2111 Unmittelbare Ersetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206402377)
 
 (1) Zur Erbschaft gehört, was der Vorerbe auf Grund eines zur
 Erbschaft gehörenden Rechts oder als Ersatz für die Zerstörung,
@@ -39105,6 +41663,7 @@ erbschaftlichen Grundstücks einverleibt.
 
 
 ##### § 2112 Verfügungsrecht des Vorerben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206502377)
 
 Der Vorerbe kann über die zur Erbschaft gehörenden Gegenstände
 verfügen, soweit sich nicht aus den Vorschriften der §§ 2113 bis 2115
@@ -39112,6 +41671,7 @@ ein anderes ergibt.
 
 
 ##### § 2113 Verfügungen über Grundstücke, Schiffe und Schiffsbauwerke; Schenkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206602377)
 
 (1) Die Verfügung des Vorerben über ein zur Erbschaft gehörendes
 Grundstück oder Recht an einem Grundstück oder über ein zur Erbschaft
@@ -39130,6 +41690,7 @@ Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
 
 ##### § 2114 Verfügungen über Hypothekenforderungen, Grund- und Rentenschulden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206702377)
 
 Gehört zur Erbschaft eine Hypothekenforderung, eine Grundschuld, eine
 Rentenschuld oder eine Schiffshypothekenforderung, so steht die
@@ -39142,6 +41703,7 @@ Schiffshypothekenforderung findet die Vorschrift des § 2113 Anwendung.
 
 
 ##### § 2115 Zwangsvollstreckungsverfügungen gegen Vorerben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206803377)
 
 Eine Verfügung über einen Erbschaftsgegenstand, die im Wege der
 Zwangsvollstreckung oder der Arrestvollziehung oder durch den
@@ -39155,6 +41717,7 @@ ist.
 
 
 ##### § 2116 Hinterlegung von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE206903140)
 
 (1) Der Vorerbe hat auf Verlangen des Nacherben die zur Erbschaft
 gehörenden Inhaberpapiere nebst den Erneuerungsscheinen bei einer
@@ -39170,6 +41733,7 @@ des Nacherben verfügen.
 
 
 ##### § 2117 Umschreibung; Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207003377)
 
 Der Vorerbe kann die Inhaberpapiere, statt sie nach § 2116 zu
 hinterlegen, auf seinen Namen mit der Bestimmung umschreiben lassen,
@@ -39180,6 +41744,7 @@ Land umwandeln lassen.
 
 
 ##### § 2118 Sperrvermerk im Schuldbuch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207103377)
 
 Gehören zur Erbschaft Buchforderungen gegen den Bund oder ein Land, so
 ist der Vorerbe auf Verlangen des Nacherben verpflichtet, in das
@@ -39188,6 +41753,7 @@ Forderungen nur mit Zustimmung des Nacherben verfügen kann.
 
 
 ##### § 2119 Anlegung von Geld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207203360)
 
 Geld, das nach den Regeln einer ordnungsmäßigen Wirtschaft dauernd
 anzulegen ist, darf der Vorerbe nur der Rechtsverordnung nach § 240a
@@ -39195,6 +41761,7 @@ entsprechend anlegen.
 
 
 ##### § 2120 Einwilligungspflicht des Nacherben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207302377)
 
 Ist zur ordnungsmäßigen Verwaltung, insbesondere zur Berichtigung von
 Nachlassverbindlichkeiten, eine Verfügung erforderlich, die der
@@ -39206,6 +41773,7 @@ fallen dem Vorerben zur Last.
 
 
 ##### § 2121 Verzeichnis der Erbschaftsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207402377)
 
 (1) Der Vorerbe hat dem Nacherben auf Verlangen ein Verzeichnis der
 zur Erbschaft gehörenden Gegenstände mitzuteilen. Das Verzeichnis ist
@@ -39225,6 +41793,7 @@ zur Last.
 
 
 ##### § 2122 Feststellung des Zustands der Erbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207502377)
 
 Der Vorerbe kann den Zustand der zur Erbschaft gehörenden Sachen auf
 seine Kosten durch Sachverständige feststellen lassen. Das gleiche
@@ -39232,6 +41801,7 @@ Recht steht dem Nacherben zu.
 
 
 ##### § 2123 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207602377)
 
 (1) Gehört ein Wald zur Erbschaft, so kann sowohl der Vorerbe als der
 Nacherbe verlangen, dass das Maß der Nutzung und die Art der
@@ -39245,6 +41815,7 @@ von Bodenbestandteilen gerichtete Anlage zur Erbschaft gehört.
 
 
 ##### § 2124 Erhaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207702377)
 
 (1) Der Vorerbe trägt dem Nacherben gegenüber die gewöhnlichen
 Erhaltungskosten.
@@ -39257,6 +41828,7 @@ Nacherbfolge zum Ersatz verpflichtet.
 
 
 ##### § 2125 Verwendungen; Wegnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207802377)
 
 (1) Macht der Vorerbe Verwendungen auf die Erbschaft, die nicht unter
 die Vorschrift des § 2124 fallen, so ist der Nacherbe im Falle des
@@ -39268,6 +41840,7 @@ Erbschaft gehörende Sache versehen hat, wegzunehmen.
 
 
 ##### § 2126 Außerordentliche Lasten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE207902377)
 
 Der Vorerbe hat im Verhältnis zu dem Nacherben nicht die
 außerordentlichen Lasten zu tragen, die als auf den Stammwert der
@@ -39276,6 +41849,7 @@ die Vorschrift des § 2124 Abs. 2 Anwendung.
 
 
 ##### § 2127 Auskunftsrecht des Nacherben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208002377)
 
 Der Nacherbe ist berechtigt, von dem Vorerben Auskunft über den
 Bestand der Erbschaft zu verlangen, wenn Grund zu der Annahme besteht,
@@ -39284,6 +41858,7 @@ erheblich verletzt.
 
 
 ##### § 2128 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208102377)
 
 (1) Wird durch das Verhalten des Vorerben oder durch seine ungünstige
 Vermögenslage die Besorgnis einer erheblichen Verletzung der Rechte
@@ -39296,6 +41871,7 @@ entsprechende Anwendung.
 
 
 ##### § 2129 Wirkung einer Entziehung der Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208202377)
 
 (1) Wird dem Vorerben die Verwaltung nach der Vorschrift des § 1052
 entzogen, so verliert er das Recht, über Erbschaftsgegenstände zu
@@ -39311,6 +41887,7 @@ Entziehung.
 
 
 ##### § 2130 Herausgabepflicht nach dem Eintritt der Nacherbfolge, Rechenschaftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208303377)
 
 (1) Der Vorerbe ist nach dem Eintritt der Nacherbfolge verpflichtet,
 dem Nacherben die Erbschaft in dem Zustand herauszugeben, der sich bei
@@ -39323,6 +41900,7 @@ finden die Vorschriften der §§ 596a, 596b entsprechende Anwendung.
 
 
 ##### § 2131 Umfang der Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208402377)
 
 Der Vorerbe hat dem Nacherben gegenüber in Ansehung der Verwaltung nur
 für diejenige Sorgfalt einzustehen, welche er in eigenen
@@ -39330,6 +41908,7 @@ Angelegenheiten anzuwenden pflegt.
 
 
 ##### § 2132 Keine Haftung für gewöhnliche Abnutzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208502377)
 
 Veränderungen oder Verschlechterungen von Erbschaftssachen, die durch
 ordnungsmäßige Benutzung herbeigeführt werden, hat der Vorerbe nicht
@@ -39337,6 +41916,7 @@ zu vertreten.
 
 
 ##### § 2133 Ordnungswidrige oder übermäßige Fruchtziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208602377)
 
 Zieht der Vorerbe Früchte den Regeln einer ordnungsmäßigen Wirtschaft
 zuwider oder zieht er Früchte deshalb im Übermaß, weil dies infolge
@@ -39349,6 +41929,7 @@ verwenden ist.
 
 
 ##### § 2134 Eigennützige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208702377)
 
 Hat der Vorerbe einen Erbschaftsgegenstand für sich verwendet, so ist
 er nach dem Eintritt der Nacherbfolge dem Nacherben gegenüber zum
@@ -39357,6 +41938,7 @@ Verschuldens bleibt unberührt.
 
 
 ##### § 2135 Miet- und Pachtverhältnis bei der Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208802377)
 
 Hat der Vorerbe ein zur Erbschaft gehörendes Grundstück oder
 eingetragenes Schiff vermietet oder verpachtet, so findet, wenn das
@@ -39365,6 +41947,7 @@ besteht, die Vorschrift des § 1056 entsprechende Anwendung.
 
 
 ##### § 2136 Befreiung des Vorerben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE208902377)
 
 Der Erblasser kann den Vorerben von den Beschränkungen und
 Verpflichtungen des § 2113 Abs. 1 und der §§ 2114, 2116 bis 2119,
@@ -39372,6 +41955,7 @@ Verpflichtungen des § 2113 Abs. 1 und der §§ 2114, 2116 bis 2119,
 
 
 ##### § 2137 Auslegungsregel für die Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209002377)
 
 (1) Hat der Erblasser den Nacherben auf dasjenige eingesetzt, was von
 der Erbschaft bei dem Eintritt der Nacherbfolge übrig sein wird, so
@@ -39384,6 +41968,7 @@ berechtigt sein soll.
 
 
 ##### § 2138 Beschränkte Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209102377)
 
 (1) Die Herausgabepflicht des Vorerben beschränkt sich in den Fällen
 des § 2137 auf die bei ihm noch vorhandenen Erbschaftsgegenstände. Für
@@ -39397,12 +41982,14 @@ Nacherben zum Schadensersatz verpflichtet.
 
 
 ##### § 2139 Wirkung des Eintritts der Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209202377)
 
 Mit dem Eintritt des Falles der Nacherbfolge hört der Vorerbe auf,
 Erbe zu sein, und fällt die Erbschaft dem Nacherben an.
 
 
 ##### § 2140 Verfügungen des Vorerben nach Eintritt der Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209302377)
 
 Der Vorerbe ist auch nach dem Eintritt des Falles der Nacherbfolge zur
 Verfügung über Nachlassgegenstände in dem gleichen Umfang wie vorher
@@ -39413,6 +42000,7 @@ kennen muss.
 
 
 ##### § 2141 Unterhalt der werdenden Mutter eines Nacherben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209402377)
 
 Ist bei dem Eintritt des Falles der Nacherbfolge die Geburt eines
 Nacherben zu erwarten, so findet auf den Unterhaltsanspruch der Mutter
@@ -39420,6 +42008,7 @@ die Vorschrift des § 1963 entsprechende Anwendung.
 
 
 ##### § 2142 Ausschlagung der Nacherbschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209502377)
 
 (1) Der Nacherbe kann die Erbschaft ausschlagen, sobald der Erbfall
 eingetreten ist.
@@ -39429,6 +42018,7 @@ Vorerben, soweit nicht der Erblasser ein anderes bestimmt hat.
 
 
 ##### § 2143 Wiederaufleben erloschener Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209602377)
 
 Tritt die Nacherbfolge ein, so gelten die infolge des Erbfalls durch
 Vereinigung von Recht und Verbindlichkeit oder von Recht und Belastung
@@ -39436,6 +42026,7 @@ erloschenen Rechtsverhältnisse als nicht erloschen.
 
 
 ##### § 2144 Haftung des Nacherben für Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209702377)
 
 (1) Die Vorschriften über die Beschränkung der Haftung des Erben für
 die Nachlassverbindlichkeiten gelten auch für den Nacherben; an die
@@ -39452,6 +42043,7 @@ Nachlassgläubigern gegenüber unbeschränkt haftet.
 
 
 ##### § 2145 Haftung des Vorerben für Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209802377)
 
 (1) Der Vorerbe haftet nach dem Eintritt der Nacherbfolge für die
 Nachlassverbindlichkeiten noch insoweit, als der Nacherbe nicht
@@ -39467,6 +42059,7 @@ finden entsprechende Anwendung.
 
 
 ##### § 2146 Anzeigepflicht des Vorerben gegenüber Nachlassgläubigern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE209902377)
 
 (1) Der Vorerbe ist den Nachlassgläubigern gegenüber verpflichtet, den
 Eintritt der Nacherbfolge unverzüglich dem Nachlassgericht anzuzeigen.
@@ -39477,10 +42070,12 @@ gestatten, der ein rechtliches Interesse glaubhaft macht.
 
 
 #### Titel 4 - Vermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019102377)
 
 
 
 ##### § 2147 Beschwerter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210002377)
 
 Mit einem Vermächtnis kann der Erbe oder ein Vermächtnisnehmer
 beschwert werden. Soweit nicht der Erblasser ein anderes bestimmt hat,
@@ -39488,6 +42083,7 @@ ist der Erbe beschwert.
 
 
 ##### § 2148 Mehrere Beschwerte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210102377)
 
 Sind mehrere Erben oder mehrere Vermächtnisnehmer mit demselben
 Vermächtnis beschwert, so sind im Zweifel die Erben nach dem
@@ -39496,6 +42092,7 @@ Wertes der Vermächtnisse beschwert.
 
 
 ##### § 2149 Vermächtnis an die gesetzlichen Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210202377)
 
 Hat der Erblasser bestimmt, dass dem eingesetzten Erben ein
 Erbschaftsgegenstand nicht zufallen soll, so gilt der Gegenstand als
@@ -39504,12 +42101,14 @@ gesetzlichen Erben im Sinne dieser Vorschrift.
 
 
 ##### § 2150 Vorausvermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210302377)
 
 Das einem Erben zugewendete Vermächtnis (Vorausvermächtnis) gilt als
 Vermächtnis auch insoweit, als der Erbe selbst beschwert ist.
 
 
 ##### § 2151 Bestimmungsrecht des Beschwerten oder eines Dritten bei mehreren Bedachten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210402377)
 
 (1) Der Erblasser kann mehrere mit einem Vermächtnis in der Weise
 bedenken, dass der Beschwerte oder ein Dritter zu bestimmen hat, wer
@@ -39529,6 +42128,7 @@ verpflichtet.
 
 
 ##### § 2152 Wahlweise Bedachte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210502377)
 
 Hat der Erblasser mehrere mit einem Vermächtnis in der Weise bedacht,
 dass nur der eine oder der andere das Vermächtnis erhalten soll, so
@@ -39537,6 +42137,7 @@ Vermächtnis erhält.
 
 
 ##### § 2153 Bestimmung der Anteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210602377)
 
 (1) Der Erblasser kann mehrere mit einem Vermächtnis in der Weise
 bedenken, dass der Beschwerte oder ein Dritter zu bestimmen hat, was
@@ -39549,6 +42150,7 @@ des § 2151 Abs. 3 Satz 2 findet entsprechende Anwendung.
 
 
 ##### § 2154 Wahlvermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210702377)
 
 (1) Der Erblasser kann ein Vermächtnis in der Art anordnen, dass der
 Bedachte von mehreren Gegenständen nur den einen oder den anderen
@@ -39561,6 +42163,7 @@ entsprechende Anwendung.
 
 
 ##### § 2155 Gattungsvermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210802377)
 
 (1) Hat der Erblasser die vermachte Sache nur der Gattung nach
 bestimmt, so ist eine den Verhältnissen des Bedachten entsprechende
@@ -39577,6 +42180,7 @@ der Sache keine Anordnung getroffen hätte.
 
 
 ##### § 2156 Zweckvermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE210902377)
 
 Der Erblasser kann bei der Anordnung eines Vermächtnisses, dessen
 Zweck er bestimmt hat, die Bestimmung der Leistung dem billigen
@@ -39586,12 +42190,14 @@ entsprechende Anwendung.
 
 
 ##### § 2157 Gemeinschaftliches Vermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211002377)
 
 Ist mehreren derselbe Gegenstand vermacht, so finden die Vorschriften
 der §§ 2089 bis 2093 entsprechende Anwendung.
 
 
 ##### § 2158 Anwachsung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211102377)
 
 (1) Ist mehreren derselbe Gegenstand vermacht, so wächst, wenn einer
 von ihnen vor oder nach dem Erbfall wegfällt, dessen Anteil den
@@ -39604,6 +42210,7 @@ Anwachsung zunächst unter ihnen ein.
 
 
 ##### § 2159 Selbständigkeit der Anwachsung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211202377)
 
 Der durch Anwachsung einem Vermächtnisnehmer anfallende Anteil gilt in
 Ansehung der Vermächtnisse und Auflagen, mit denen dieser oder der
@@ -39612,12 +42219,14 @@ Vermächtnis.
 
 
 ##### § 2160 Vorversterben des Bedachten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211302377)
 
 Ein Vermächtnis ist unwirksam, wenn der Bedachte zur Zeit des Erbfalls
 nicht mehr lebt.
 
 
 ##### § 2161 Wegfall des Beschwerten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211402377)
 
 Ein Vermächtnis bleibt, sofern nicht ein anderer Wille des Erblassers
 anzunehmen ist, wirksam, wenn der Beschwerte nicht Erbe oder
@@ -39627,6 +42236,7 @@ kommt.
 
 
 ##### § 2162 Dreißigjährige Frist für aufgeschobenes Vermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211503301)
 
 (1) Ein Vermächtnis, das unter einer aufschiebenden Bedingung oder
 unter Bestimmung eines Anfangstermins angeordnet ist, wird mit dem
@@ -39642,6 +42252,7 @@ Persönlichkeit bestimmt wird.
 
 
 ##### § 2163 Ausnahmen von der dreißigjährigen Frist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211602377)
 
 (1) Das Vermächtnis bleibt in den Fällen des § 2162 auch nach dem
 Ablauf von 30 Jahren wirksam:
@@ -39665,6 +42276,7 @@ der dreißigjährigen Frist.
 
 
 ##### § 2164 Erstreckung auf Zubehör und Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211702377)
 
 (1) Das Vermächtnis einer Sache erstreckt sich im Zweifel auf das zur
 Zeit des Erbfalls vorhandene Zubehör.
@@ -39676,6 +42288,7 @@ Vermächtnis auf diesen Anspruch.
 
 
 ##### § 2165 Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211802377)
 
 (1) Ist ein zur Erbschaft gehörender Gegenstand vermacht, so kann der
 Vermächtnisnehmer im Zweifel nicht die Beseitigung der Rechte
@@ -39690,6 +42303,7 @@ als mitvermacht zu gelten hat.
 
 
 ##### § 2166 Belastung mit einer Hypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE211902377)
 
 (1) Ist ein vermachtes Grundstück, das zur Erbschaft gehört, mit einer
 Hypothek für eine Schuld des Erblassers oder für eine Schuld belastet,
@@ -39711,6 +42325,7 @@ Vorschriften keine Anwendung.
 
 
 ##### § 2167 Belastung mit einer Gesamthypothek
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212002377)
 
 Sind neben dem vermachten Grundstück andere zur Erbschaft gehörende
 Grundstücke mit der Hypothek belastet, so beschränkt sich die in §
@@ -39721,6 +42336,7 @@ Wert wird nach § 2166 Abs. 1 Satz 2 berechnet.
 
 
 ##### § 2168 Belastung mit einer Gesamtgrundschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212102377)
 
 (1) Besteht an mehreren zur Erbschaft gehörenden Grundstücken eine
 Gesamtgrundschuld oder eine Gesamtrentenschuld und ist eines dieser
@@ -39741,12 +42357,14 @@ entsprechende Anwendung.
 
 
 ##### § 2168a Anwendung auf Schiffe, Schiffsbauwerke und Schiffshypotheken
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212202377)
 
 § 2165 Abs. 2, §§ 2166, 2167 gelten sinngemäß für eingetragene Schiffe
 und Schiffsbauwerke und für Schiffshypotheken.
 
 
 ##### § 2169 Vermächtnis fremder Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212302377)
 
 (1) Das Vermächtnis eines bestimmten Gegenstands ist unwirksam, soweit
 der Gegenstand zur Zeit des Erbfalls nicht zur Erbschaft gehört, es
@@ -39768,6 +42386,7 @@ wenn der Erblasser zu dessen Veräußerung verpflichtet ist.
 
 
 ##### § 2170 Verschaffungsvermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212402377)
 
 (1) Ist das Vermächtnis eines Gegenstands, der zur Zeit des Erbfalls
 nicht zur Erbschaft gehört, nach § 2169 Abs. 1 wirksam, so hat der
@@ -39780,6 +42399,7 @@ des Wertes befreien.
 
 
 ##### § 2171 Unmöglichkeit, gesetzliches Verbot
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212502377)
 
 (1) Ein Vermächtnis, das auf eine zur Zeit des Erbfalls für jedermann
 unmögliche Leistung gerichtet ist oder gegen ein zu dieser Zeit
@@ -39798,6 +42418,7 @@ Termins behoben wird.
 
 
 ##### § 2172 Verbindung, Vermischung, Vermengung der vermachten Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212602377)
 
 (1) Die Leistung einer vermachten Sache gilt auch dann als unmöglich,
 wenn die Sache mit einer anderen Sache in solcher Weise verbunden,
@@ -39817,6 +42438,7 @@ bewendet es bei der Vorschrift des § 2169 Abs. 3.
 
 
 ##### § 2173 Forderungsvermächtnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212702377)
 
 Hat der Erblasser eine ihm zustehende Forderung vermacht, so ist, wenn
 vor dem Erbfall die Leistung erfolgt und der geleistete Gegenstand
@@ -39828,12 +42450,14 @@ der Erbschaft nicht vorfindet.
 
 
 ##### § 2174 Vermächtnisanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212802377)
 
 Durch das Vermächtnis wird für den Bedachten das Recht begründet, von
 dem Beschwerten die Leistung des vermachten Gegenstands zu fordern.
 
 
 ##### § 2175 Wiederaufleben erloschener Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE212902377)
 
 Hat der Erblasser eine ihm gegen den Erben zustehende Forderung oder
 hat er ein Recht vermacht, mit dem eine Sache oder ein Recht des Erben
@@ -39843,6 +42467,7 @@ Rechtsverhältnisse in Ansehung des Vermächtnisses als nicht erloschen.
 
 
 ##### § 2176 Anfall des Vermächtnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213002377)
 
 Die Forderung des Vermächtnisnehmers kommt, unbeschadet des Rechts,
 das Vermächtnis auszuschlagen, zur Entstehung (Anfall des
@@ -39850,6 +42475,7 @@ Vermächtnisses) mit dem Erbfall.
 
 
 ##### § 2177 Anfall bei einer Bedingung oder Befristung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213102377)
 
 Ist das Vermächtnis unter einer aufschiebenden Bedingung oder unter
 Bestimmung eines Anfangstermins angeordnet und tritt die Bedingung
@@ -39858,6 +42484,7 @@ Vermächtnisses mit dem Eintritt der Bedingung oder des Termins.
 
 
 ##### § 2178 Anfall bei einem noch nicht erzeugten oder bestimmten Bedachten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213203301)
 
 Ist der Bedachte zur Zeit des Erbfalls noch nicht gezeugt oder wird
 seine Persönlichkeit durch ein erst nach dem Erbfall eintretendes
@@ -39867,6 +42494,7 @@ Ereignisses.
 
 
 ##### § 2179 Schwebezeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213302377)
 
 Für die Zeit zwischen dem Erbfall und dem Anfall des Vermächtnisses
 finden in den Fällen der §§ 2177, 2178 die Vorschriften Anwendung, die
@@ -39875,6 +42503,7 @@ Bedingung geschuldet wird.
 
 
 ##### § 2180 Annahme und Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213402377)
 
 (1) Der Vermächtnisnehmer kann das Vermächtnis nicht mehr ausschlagen,
 wenn er es angenommen hat.
@@ -39891,6 +42520,7 @@ finden entsprechende Anwendung.
 
 
 ##### § 2181 Fälligkeit bei Beliebigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213502377)
 
 Ist die Zeit der Erfüllung eines Vermächtnisses dem freien Belieben
 des Beschwerten überlassen, so wird die Leistung im Zweifel mit dem
@@ -39898,6 +42528,7 @@ Tode des Beschwerten fällig.
 
 
 ##### § 2182 Haftung für Rechtsmängel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213603140)
 
 (1) Ist ein nur der Gattung nach bestimmter Gegenstand vermacht, so
 hat der Beschwerte die gleichen Verpflichtungen wie ein Verkäufer nach
@@ -39916,6 +42547,7 @@ Reallasten.
 
 
 ##### § 2183 Haftung für Sachmängel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213703140)
 
 Ist eine nur der Gattung nach bestimmte Sache vermacht, so kann der
 Vermächtnisnehmer, wenn die geleistete Sache mangelhaft ist,
@@ -39929,6 +42561,7 @@ geltenden Vorschriften entsprechende Anwendung.
 
 
 ##### § 2184 Früchte; Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213802377)
 
 Ist ein bestimmter zur Erbschaft gehörender Gegenstand vermacht, so
 hat der Beschwerte dem Vermächtnisnehmer auch die seit dem Anfall des
@@ -39938,6 +42571,7 @@ den Früchten gehören, hat der Beschwerte nicht Ersatz zu leisten.
 
 
 ##### § 2185 Ersatz von Verwendungen und Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE213902377)
 
 Ist eine bestimmte zur Erbschaft gehörende Sache vermacht, so kann der
 Beschwerte für die nach dem Erbfall auf die Sache gemachten
@@ -39948,6 +42582,7 @@ und dem Eigentümer gelten.
 
 
 ##### § 2186 Fälligkeit eines Untervermächtnisses oder einer Auflage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214002377)
 
 Ist ein Vermächtnisnehmer mit einem Vermächtnis oder einer Auflage
 beschwert, so ist er zur Erfüllung erst dann verpflichtet, wenn er die
@@ -39956,6 +42591,7 @@ ist.
 
 
 ##### § 2187 Haftung des Hauptvermächtnisnehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214102377)
 
 (1) Ein Vermächtnisnehmer, der mit einem Vermächtnis oder einer
 Auflage beschwert ist, kann die Erfüllung auch nach der Annahme des
@@ -39971,6 +42607,7 @@ finden entsprechende Anwendung.
 
 
 ##### § 2188 Kürzung der Beschwerungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214202377)
 
 Wird die einem Vermächtnisnehmer gebührende Leistung auf Grund der
 Beschränkung der Haftung des Erben, wegen eines Pflichtteilsanspruchs
@@ -39980,6 +42617,7 @@ auferlegten Beschwerungen verhältnismäßig kürzen.
 
 
 ##### § 2189 Anordnung eines Vorrangs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214302377)
 
 Der Erblasser kann für den Fall, dass die dem Erben oder einem
 Vermächtnisnehmer auferlegten Vermächtnisse und Auflagen auf Grund der
@@ -39990,6 +42628,7 @@ Vorrang vor den übrigen Beschwerungen haben soll.
 
 
 ##### § 2190 Ersatzvermächtnisnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214402377)
 
 Hat der Erblasser für den Fall, dass der zunächst Bedachte das
 Vermächtnis nicht erwirbt, den Gegenstand des Vermächtnisses einem
@@ -39998,6 +42637,7 @@ geltenden Vorschriften der §§ 2097 bis 2099 entsprechende Anwendung.
 
 
 ##### § 2191 Nachvermächtnisnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214502377)
 
 (1) Hat der Erblasser den vermachten Gegenstand von einem nach dem
 Anfall des Vermächtnisses eintretenden bestimmten Zeitpunkt oder
@@ -40010,10 +42650,12 @@ des § 2110 Abs. 1 entsprechende Anwendung.
 
 
 #### Titel 5 - Auflage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019202377)
 
 
 
 ##### § 2192 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214602377)
 
 Auf eine Auflage finden die für letztwillige Zuwendungen geltenden
 Vorschriften der §§ 2065, 2147, 2148, 2154 bis 2156, 2161, 2171, 2181
@@ -40021,6 +42663,7 @@ entsprechende Anwendung.
 
 
 ##### § 2193 Bestimmung des Begünstigten, Vollziehungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214702377)
 
 (1) Der Erblasser kann bei der Anordnung einer Auflage, deren Zweck er
 bestimmt hat, die Bestimmung der Person, an welche die Leistung
@@ -40042,6 +42685,7 @@ verlangen berechtigt sind.
 
 
 ##### § 2194 Anspruch auf Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214802377)
 
 Die Vollziehung einer Auflage können der Erbe, der Miterbe und
 derjenige verlangen, welchem der Wegfall des mit der Auflage zunächst
@@ -40051,6 +42695,7 @@ Vollziehung verlangen.
 
 
 ##### § 2195 Verhältnis von Auflage und Zuwendung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE214902377)
 
 Die Unwirksamkeit einer Auflage hat die Unwirksamkeit der unter der
 Auflage gemachten Zuwendung nur zur Folge, wenn anzunehmen ist, dass
@@ -40059,6 +42704,7 @@ würde.
 
 
 ##### § 2196 Unmöglichkeit der Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215002377)
 
 (1) Wird die Vollziehung einer Auflage infolge eines von dem
 Beschwerten zu vertretenden Umstands unmöglich, so kann derjenige,
@@ -40075,10 +42721,12 @@ gegen ihn angewendet worden sind.
 
 
 #### Titel 6 - Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019302377)
 
 
 
 ##### § 2197 Ernennung des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215102377)
 
 (1) Der Erblasser kann durch Testament einen oder mehrere
 Testamentsvollstrecker ernennen.
@@ -40089,6 +42737,7 @@ einen anderen Testamentsvollstrecker ernennen.
 
 
 ##### § 2198 Bestimmung des Testamentsvollstreckers durch einen Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215202377)
 
 (1) Der Erblasser kann die Bestimmung der Person des
 Testamentsvollstreckers einem Dritten überlassen. Die Bestimmung
@@ -40101,6 +42750,7 @@ Frist.
 
 
 ##### § 2199 Ernennung eines Mitvollstreckers oder Nachfolgers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215302377)
 
 (1) Der Erblasser kann den Testamentsvollstrecker ermächtigen, einen
 oder mehrere Mitvollstrecker zu ernennen.
@@ -40112,6 +42762,7 @@ Nachfolger zu ernennen.
 
 
 ##### § 2200 Ernennung durch das Nachlassgericht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215402377)
 
 (1) Hat der Erblasser in dem Testament das Nachlassgericht ersucht,
 einen Testamentsvollstrecker zu ernennen, so kann das Nachlassgericht
@@ -40123,6 +42774,7 @@ geschehen kann.
 
 
 ##### § 2201 Unwirksamkeit der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215504360)
 
 Die Ernennung des Testamentsvollstreckers ist unwirksam, wenn er zu
 der Zeit, zu welcher er das Amt anzutreten hat, geschäftsunfähig oder
@@ -40131,6 +42783,7 @@ Besorgung seiner Vermögensangelegenheiten einen Betreuer erhalten hat.
 
 
 ##### § 2202 Annahme und Ablehnung des Amts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215602377)
 
 (1) Das Amt des Testamentsvollstreckers beginnt mit dem Zeitpunkt, in
 welchem der Ernannte das Amt annimmt.
@@ -40147,12 +42800,14 @@ Annahme vorher erklärt wird.
 
 
 ##### § 2203 Aufgabe des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215702377)
 
 Der Testamentsvollstrecker hat die letztwilligen Verfügungen des
 Erblassers zur Ausführung zu bringen.
 
 
 ##### § 2204 Auseinandersetzung unter Miterben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215803140)
 
 (1) Der Testamentsvollstrecker hat, wenn mehrere Erben vorhanden sind,
 die Auseinandersetzung unter ihnen nach Maßgabe der §§ 2042 bis 2057a
@@ -40163,6 +42818,7 @@ Auseinandersetzungsplan vor der Ausführung zu hören.
 
 
 ##### § 2205 Verwaltung des Nachlasses, Verfügungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE215902377)
 
 Der Testamentsvollstrecker hat den Nachlass zu verwalten. Er ist
 insbesondere berechtigt, den Nachlass in Besitz zu nehmen und über die
@@ -40172,6 +42828,7 @@ Anstand zu nehmenden Rücksicht entsprechen.
 
 
 ##### § 2206 Eingehung von Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216002377)
 
 (1) Der Testamentsvollstrecker ist berechtigt, Verbindlichkeiten für
 den Nachlass einzugehen, soweit die Eingehung zur ordnungsmäßigen
@@ -40186,6 +42843,7 @@ zu machen.
 
 
 ##### § 2207 Erweiterte Verpflichtungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216102377)
 
 Der Erblasser kann anordnen, dass der Testamentsvollstrecker in der
 Eingehung von Verbindlichkeiten für den Nachlass nicht beschränkt sein
@@ -40195,6 +42853,7 @@ berechtigt.
 
 
 ##### § 2208 Beschränkung der Rechte des Testamentsvollstreckers, Ausführung durch den Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216202377)
 
 (1) Der Testamentsvollstrecker hat die in den §§ 2203 bis 2206
 bestimmten Rechte nicht, soweit anzunehmen ist, dass sie ihm nach dem
@@ -40210,6 +42869,7 @@ anzunehmen ist.
 
 
 ##### § 2209 Dauervollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216302377)
 
 Der Erblasser kann einem Testamentsvollstrecker die Verwaltung des
 Nachlasses übertragen, ohne ihm andere Aufgaben als die Verwaltung
@@ -40221,6 +42881,7 @@ ist.
 
 
 ##### § 2210 Dreißigjährige Frist für die Dauervollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216402377)
 
 Eine nach § 2209 getroffene Anordnung wird unwirksam, wenn seit dem
 Erbfall 30 Jahre verstrichen sind. Der Erblasser kann jedoch anordnen,
@@ -40231,6 +42892,7 @@ Die Vorschrift des § 2163 Abs. 2 findet entsprechende Anwendung.
 
 
 ##### § 2211 Verfügungsbeschränkung des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216502377)
 
 (1) Über einen der Verwaltung des Testamentsvollstreckers
 unterliegenden Nachlassgegenstand kann der Erbe nicht verfügen.
@@ -40240,6 +42902,7 @@ Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
 
 ##### § 2212 Gerichtliche Geltendmachung von der Testamentsvollstreckung unterliegenden Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216602377)
 
 Ein der Verwaltung des Testamentsvollstreckers unterliegendes Recht
 kann nur von dem Testamentsvollstrecker gerichtlich geltend gemacht
@@ -40247,6 +42910,7 @@ werden.
 
 
 ##### § 2213 Gerichtliche Geltendmachung von Ansprüchen gegen den Nachlass
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216702377)
 
 (1) Ein Anspruch, der sich gegen den Nachlass richtet, kann sowohl
 gegen den Erben als gegen den Testamentsvollstrecker gerichtlich
@@ -40266,6 +42930,7 @@ Verwaltung unterliegenden Nachlassgegenstände dulde.
 
 
 ##### § 2214 Gläubiger des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216802377)
 
 Gläubiger des Erben, die nicht zu den Nachlassgläubigern gehören,
 können sich nicht an die der Verwaltung des Testamentsvollstreckers
@@ -40273,6 +42938,7 @@ unterliegenden Nachlassgegenstände halten.
 
 
 ##### § 2215 Nachlassverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE216902377)
 
 (1) Der Testamentsvollstrecker hat dem Erben unverzüglich nach der
 Annahme des Amts ein Verzeichnis der seiner Verwaltung unterliegenden
@@ -40297,6 +42963,7 @@ zur Last.
 
 
 ##### § 2216 Ordnungsmäßige Verwaltung des Nachlasses, Befolgung von Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217002377)
 
 (1) Der Testamentsvollstrecker ist zur ordnungsmäßigen Verwaltung des
 Nachlasses verpflichtet.
@@ -40311,6 +42978,7 @@ Entscheidung, soweit tunlich, die Beteiligten hören.
 
 
 ##### § 2217 Überlassung von Nachlassgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217102377)
 
 (1) Der Testamentsvollstrecker hat Nachlassgegenstände, deren er zur
 Erfüllung seiner Obliegenheiten offenbar nicht bedarf, dem Erben auf
@@ -40326,6 +42994,7 @@ Vermächtnisse oder Auflagen Sicherheit leistet.
 
 
 ##### § 2218 Rechtsverhältnis zum Erben; Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217202377)
 
 (1) Auf das Rechtsverhältnis zwischen dem Testamentsvollstrecker und
 dem Erben finden die für den Auftrag geltenden Vorschriften der §§
@@ -40337,6 +43006,7 @@ Rechnungslegung verlangen.
 
 
 ##### § 2219 Haftung des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217302377)
 
 (1) Verletzt der Testamentsvollstrecker die ihm obliegenden
 Verpflichtungen, so ist er, wenn ihm ein Verschulden zur Last fällt,
@@ -40349,12 +43019,14 @@ fällt, haften als Gesamtschuldner.
 
 
 ##### § 2220 Zwingendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217402377)
 
 Der Erblasser kann den Testamentsvollstrecker nicht von den ihm nach
 den §§ 2215, 2216, 2218, 2219 obliegenden Verpflichtungen befreien.
 
 
 ##### § 2221 Vergütung des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217502377)
 
 Der Testamentsvollstrecker kann für die Führung seines Amts eine
 angemessene Vergütung verlangen, sofern nicht der Erblasser ein
@@ -40362,6 +43034,7 @@ anderes bestimmt hat.
 
 
 ##### § 2222 Nacherbenvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217602377)
 
 Der Erblasser kann einen Testamentsvollstrecker auch zu dem Zwecke
 ernennen, dass dieser bis zu dem Eintritt einer angeordneten
@@ -40370,6 +43043,7 @@ erfüllt.
 
 
 ##### § 2223 Vermächtnisvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217702377)
 
 Der Erblasser kann einen Testamentsvollstrecker auch zu dem Zwecke
 ernennen, dass dieser für die Ausführung der einem Vermächtnisnehmer
@@ -40377,6 +43051,7 @@ auferlegten Beschwerungen sorgt.
 
 
 ##### § 2224 Mehrere Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217802377)
 
 (1) Mehrere Testamentsvollstrecker führen das Amt gemeinschaftlich;
 bei einer Meinungsverschiedenheit entscheidet das Nachlassgericht.
@@ -40390,6 +43065,7 @@ Nachlassgegenstands notwendig sind.
 
 
 ##### § 2225 Erlöschen des Amts des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE217902377)
 
 Das Amt des Testamentsvollstreckers erlischt, wenn er stirbt oder wenn
 ein Fall eintritt, in welchem die Ernennung nach § 2201 unwirksam sein
@@ -40397,6 +43073,7 @@ würde.
 
 
 ##### § 2226 Kündigung durch den Testamentsvollstrecker
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218002377)
 
 Der Testamentsvollstrecker kann das Amt jederzeit kündigen. Die
 Kündigung erfolgt durch Erklärung gegenüber dem Nachlassgericht. Die
@@ -40404,6 +43081,7 @@ Vorschrift des § 671 Abs. 2, 3 findet entsprechende Anwendung.
 
 
 ##### § 2227 Entlassung des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218103140)
 
 Das Nachlassgericht kann den Testamentsvollstrecker auf Antrag eines
 der Beteiligten entlassen, wenn ein wichtiger Grund vorliegt; ein
@@ -40412,6 +43090,7 @@ Unfähigkeit zur ordnungsmäßigen Geschäftsführung.
 
 
 ##### § 2228 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218202377)
 
 Das Nachlassgericht hat die Einsicht der nach § 2198 Abs. 1 Satz 2, §
 2199 Abs. 3, § 2202 Abs. 2, § 2226 Satz 2 abgegebenen Erklärungen
@@ -40419,10 +43098,12 @@ jedem zu gestatten, der ein rechtliches Interesse glaubhaft macht.
 
 
 #### Titel 7 - Errichtung und Aufhebung eines Testaments
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019402377)
 
 
 
 ##### § 2229 Testierfähigkeit Minderjähriger, Testierunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218303377)
 
 (1) Ein Minderjähriger kann ein Testament erst errichten, wenn er das
 16\. Lebensjahr vollendet hat.
@@ -40440,11 +43121,13 @@ errichten.
 
 
 ##### § 2230
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218402377)
 
 (weggefallen)
 
 
 ##### § 2231 Ordentliche Testamente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218502377)
 
 Ein Testament kann in ordentlicher Form errichtet werden
 
@@ -40458,6 +43141,7 @@ Ein Testament kann in ordentlicher Form errichtet werden
 
 
 ##### § 2232 Öffentliches Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218603377)
 
 Zur Niederschrift eines Notars wird ein Testament errichtet, indem der
 Erblasser dem Notar seinen letzten Willen erklärt oder ihm eine
@@ -40467,6 +43151,7 @@ verschlossen übergeben; sie braucht nicht von ihm geschrieben zu sein.
 
 
 ##### § 2233 Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218703377)
 
 (1) Ist der Erblasser minderjährig, so kann er das Testament nur durch
 eine Erklärung gegenüber dem Notar oder durch Übergabe einer offenen
@@ -40478,10 +43163,12 @@ Testament nur durch eine Erklärung gegenüber dem Notar errichten.
 
 
 ##### (XXXX) §§ 2234 bis 2246 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218801377)
 
 
 
 ##### § 2247 Eigenhändiges Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE218902377)
 
 (1) Der Erblasser kann ein Testament durch eine eigenhändig
 geschriebene und unterschriebene Erklärung errichten.
@@ -40507,12 +43194,14 @@ Testament, das keine Angabe über den Ort der Errichtung enthält.
 
 
 ##### § 2248 Verwahrung des eigenhändigen Testaments
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219004140)
 
 Ein nach § 2247 errichtetes Testament ist auf Verlangen des Erblassers
 in besondere amtliche Verwahrung zu nehmen.
 
 
 ##### § 2249 Nottestament vor dem Bürgermeister
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219104377)
 
 (1) Ist zu besorgen, dass der Erblasser früher sterben werde, als die
 Errichtung eines Testaments vor einem Notar möglich ist, so kann er
@@ -40558,6 +43247,7 @@ nicht entgegen.
 
 
 ##### § 2250 Nottestament vor drei Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219202377)
 
 (1) Wer sich an einem Orte aufhält, der infolge außerordentlicher
 Umstände dergestalt abgesperrt ist, dass die Errichtung eines
@@ -40585,6 +43275,7 @@ einer anderen als der deutschen Sprache aufgenommen wird.
 
 
 ##### § 2251 Nottestament auf See
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219302377)
 
 Wer sich während einer Seereise an Bord eines deutschen Schiffes
 außerhalb eines inländischen Hafens befindet, kann ein Testament durch
@@ -40592,6 +43283,7 @@ mündliche Erklärung vor drei Zeugen nach § 2250 Abs. 3 errichten.
 
 
 ##### § 2252 Gültigkeitsdauer der Nottestamente
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219402377)
 
 (1) Ein nach § 2249, § 2250 oder § 2251 errichtetes Testament gilt als
 nicht errichtet, wenn seit der Errichtung drei Monate verstrichen sind
@@ -40613,17 +43305,20 @@ vorhandenen Nachrichten noch gelebt hat, noch nicht verstrichen war.
 
 
 ##### § 2253 Widerruf eines Testaments
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219503377)
 
 Der Erblasser kann ein Testament sowie eine einzelne in einem
 Testament enthaltene Verfügung jederzeit widerrufen.
 
 
 ##### § 2254 Widerruf durch Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219602377)
 
 Der Widerruf erfolgt durch Testament.
 
 
 ##### § 2255 Widerruf durch Vernichtung oder Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219702377)
 
 Ein Testament kann auch dadurch widerrufen werden, dass der Erblasser
 in der Absicht, es aufzuheben, die Testamentsurkunde vernichtet oder
@@ -40635,6 +43330,7 @@ Testaments beabsichtigt habe.
 
 
 ##### § 2256 Widerruf durch Rücknahme des Testaments aus der amtlichen Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219802377)
 
 (1) Ein vor einem Notar oder nach § 2249 errichtetes Testament gilt
 als widerrufen, wenn die in amtliche Verwahrung genommene Urkunde dem
@@ -40652,6 +43348,7 @@ Testaments ohne Einfluss.
 
 
 ##### § 2257 Widerruf des Widerrufs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE219902377)
 
 Wird der durch Testament erfolgte Widerruf einer letztwilligen
 Verfügung widerrufen, so ist im Zweifel die Verfügung wirksam, wie
@@ -40659,6 +43356,7 @@ wenn sie nicht widerrufen worden wäre.
 
 
 ##### § 2258 Widerruf durch ein späteres Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220002377)
 
 (1) Durch die Errichtung eines Testaments wird ein früheres Testament
 insoweit aufgehoben, als das spätere Testament mit dem früheren in
@@ -40670,9 +43368,11 @@ aufgehoben worden wäre.
 
 
 ##### (XXXX) §§ 2258a und 2258b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220103377)
 
 
 ##### § 2259 Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220302377)
 
 (1) Wer ein Testament, das nicht in besondere amtliche Verwahrung
 gebracht ist, im Besitz hat, ist verpflichtet, es unverzüglich,
@@ -40687,42 +43387,50 @@ veranlassen.
 
 
 ##### § 2260 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220403140)
 
 -
 
 
 ##### § 2261 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220503140)
 
 -
 
 
 ##### § 2262 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220603140)
 
 -
 
 
 ##### § 2263 Nichtigkeit eines Eröffnungsverbots
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220702377)
 
 Eine Anordnung des Erblassers, durch die er verbietet, das Testament
 alsbald nach seinem Tode zu eröffnen, ist nichtig.
 
 
 ##### § 2264 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE220903140)
 
 -
 
 
 #### Titel 8 - Gemeinschaftliches Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019502377)
 
 
 
 ##### § 2265 Errichtung durch Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221002377)
 
 Ein gemeinschaftliches Testament kann nur von Ehegatten errichtet
 werden.
 
 
 ##### § 2266 Gemeinschaftliches Nottestament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221102377)
 
 Ein gemeinschaftliches Testament kann nach den §§ 2249, 2250 auch dann
 errichtet werden, wenn die dort vorgesehenen Voraussetzungen nur bei
@@ -40730,6 +43438,7 @@ einem der Ehegatten vorliegen.
 
 
 ##### § 2267 Gemeinschaftliches eigenhändiges Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221202377)
 
 Zur Errichtung eines gemeinschaftlichen Testaments nach § 2247 genügt
 es, wenn einer der Ehegatten das Testament in der dort
@@ -40741,6 +43450,7 @@ beigefügt hat.
 
 
 ##### § 2268 Wirkung der Ehenichtigkeit oder -auflösung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221302377)
 
 (1) Ein gemeinschaftliches Testament ist in den Fällen des § 2077
 seinem ganzen Inhalt nach unwirksam.
@@ -40752,6 +43462,7 @@ auch für diesen Fall getroffen sein würden.
 
 
 ##### § 2269 Gegenseitige Einsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221402377)
 
 (1) Haben die Ehegatten in einem gemeinschaftlichen Testament, durch
 das sie sich gegenseitig als Erben einsetzen, bestimmt, dass nach dem
@@ -40767,6 +43478,7 @@ dem Tode des Überlebenden anfallen soll.
 
 
 ##### § 2270 Wechselbezügliche Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221503360)
 
 (1) Haben die Ehegatten in einem gemeinschaftlichen Testament
 Verfügungen getroffen, von denen anzunehmen ist, dass die Verfügung
@@ -40787,6 +43499,7 @@ keine Anwendung.
 
 
 ##### § 2271 Widerruf wechselbezüglicher Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221602377)
 
 (1) Der Widerruf einer Verfügung, die mit einer Verfügung des anderen
 Ehegatten in dem in § 2270 bezeichneten Verhältnis steht, erfolgt bei
@@ -40807,32 +43520,38 @@ eines der Ehegatten bedacht, so findet die Vorschrift des § 2289 Abs.
 
 
 ##### § 2272 Rücknahme aus amtlicher Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221702377)
 
 Ein gemeinschaftliches Testament kann nach § 2256 nur von beiden
 Ehegatten zurückgenommen werden.
 
 
 ##### § 2273 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221803140)
 
 -
 
 
 ### Abschnitt 4 - Erbvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019602377)
 
 
 
 #### § 2274 Persönlicher Abschluss
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE221902377)
 
 Der Erblasser kann einen Erbvertrag nur persönlich schließen.
 
 
 #### § 2275 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222005123)
 
 Einen Erbvertrag kann als Erblasser nur schließen, wer unbeschränkt
 geschäftsfähig ist.
 
 
 #### § 2276 Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222102377)
 
 (1) Ein Erbvertrag kann nur zur Niederschrift eines Notars bei
 gleichzeitiger Anwesenheit beider Teile geschlossen werden. Die
@@ -40846,11 +43565,13 @@ die für den Ehevertrag vorgeschriebene Form.
 
 
 #### § 2277 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222203377)
 
 -
 
 
 #### § 2278 Zulässige vertragsmäßige Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222303360)
 
 (1) In einem Erbvertrag kann jeder der Vertragschließenden
 vertragsmäßige Verfügungen von Todes wegen treffen.
@@ -40861,6 +43582,7 @@ getroffen werden.
 
 
 #### § 2279 Vertragsmäßige Zuwendungen und Auflagen; Anwendung von § 2077
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222405360)
 
 (1) Auf vertragsmäßige Zuwendungen und Auflagen finden die für
 letztwillige Zuwendungen und Auflagen geltenden Vorschriften
@@ -40872,6 +43594,7 @@ Dritter bedacht ist.
 
 
 #### § 2280 Anwendung von § 2269
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222503377)
 
 Haben Ehegatten oder Lebenspartner in einem Erbvertrag, durch den sie
 sich gegenseitig als Erben einsetzen, bestimmt, dass nach dem Tode des
@@ -40882,6 +43605,7 @@ Anwendung.
 
 
 #### § 2281 Anfechtung durch den Erblasser
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222602377)
 
 (1) Der Erbvertrag kann auf Grund der §§ 2078, 2079 auch von dem
 Erblasser angefochten werden; zur Anfechtung auf Grund des § 2079 ist
@@ -40896,6 +43620,7 @@ mitteilen.
 
 
 #### § 2282 Vertretung, Form der Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222705360)
 
 (1) Die Anfechtung kann nicht durch einen Vertreter des Erblassers
 erfolgen.
@@ -40907,6 +43632,7 @@ Erbvertrag anfechten.
 
 
 #### § 2283 Anfechtungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222802377)
 
 (1) Die Anfechtung durch den Erblasser kann nur binnen Jahresfrist
 erfolgen.
@@ -40925,12 +43651,14 @@ Weise anfechten, wie wenn er ohne gesetzlichen Vertreter gewesen wäre.
 
 
 #### § 2284 Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE222903123)
 
 Die Bestätigung eines anfechtbaren Erbvertrags kann nur durch den
 Erblasser persönlich erfolgen.
 
 
 #### § 2285 Anfechtung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223002377)
 
 Die in § 2080 bezeichneten Personen können den Erbvertrag auf Grund
 der §§ 2078, 2079 nicht mehr anfechten, wenn das Anfechtungsrecht des
@@ -40938,12 +43666,14 @@ Erblassers zur Zeit des Erbfalls erloschen ist.
 
 
 #### § 2286 Verfügungen unter Lebenden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223102377)
 
 Durch den Erbvertrag wird das Recht des Erblassers, über sein Vermögen
 durch Rechtsgeschäft unter Lebenden zu verfügen, nicht beschränkt.
 
 
 #### § 2287 Den Vertragserben beeinträchtigende Schenkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223203140)
 
 (1) Hat der Erblasser in der Absicht, den Vertragserben zu
 beeinträchtigen, eine Schenkung gemacht, so kann der Vertragserbe,
@@ -40955,6 +43685,7 @@ einer ungerechtfertigten Bereicherung fordern.
 
 
 #### § 2288 Beeinträchtigung des Vermächtnisnehmers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223302377)
 
 (1) Hat der Erblasser den Gegenstand eines vertragsmäßig angeordneten
 Vermächtnisses in der Absicht, den Bedachten zu beeinträchtigen,
@@ -40973,6 +43704,7 @@ Anspruch gegen den Beschenkten zu.
 
 
 #### § 2289 Wirkung des Erbvertrags auf letztwillige Verfügungen; Anwendung von § 2338
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223402377)
 
 (1) Durch den Erbvertrag wird eine frühere letztwillige Verfügung des
 Erblassers aufgehoben, soweit sie das Recht des vertragsmäßig
@@ -40986,6 +43718,7 @@ Verfügung die nach § 2338 zulässigen Anordnungen treffen.
 
 
 #### § 2290 Aufhebung durch Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223507360)
 
 (1) Ein Erbvertrag sowie eine einzelne vertragsmäßige Verfügung kann
 durch Vertrag von den Personen aufgehoben werden, die den Erbvertrag
@@ -40999,6 +43732,7 @@ vorgeschriebenen Form.
 
 
 #### § 2291 Aufhebung durch Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223604360)
 
 (1) Eine vertragsmäßige Verfügung, durch die ein Vermächtnis oder eine
 Auflage angeordnet sowie eine Rechtswahl getroffen ist, kann von dem
@@ -41011,6 +43745,7 @@ Zustimmung ist unwiderruflich.
 
 
 #### § 2292 Aufhebung durch gemeinschaftliches Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223704360)
 
 Ein zwischen Ehegatten oder Lebenspartnern geschlossener Erbvertrag
 kann auch durch ein gemeinschaftliches Testament der Ehegatten oder
@@ -41018,12 +43753,14 @@ Lebenspartner aufgehoben werden.
 
 
 #### § 2293 Rücktritt bei Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223802377)
 
 Der Erblasser kann von dem Erbvertrag zurücktreten, wenn er sich den
 Rücktritt im Vertrag vorbehalten hat.
 
 
 #### § 2294 Rücktritt bei Verfehlungen des Bedachten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE223902377)
 
 Der Erblasser kann von einer vertragsmäßigen Verfügung zurücktreten,
 wenn sich der Bedachte einer Verfehlung schuldig macht, die den
@@ -41034,6 +43771,7 @@ Erblassers wäre.
 
 
 #### § 2295 Rücktritt bei Aufhebung der Gegenverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224002377)
 
 Der Erblasser kann von einer vertragsmäßigen Verfügung zurücktreten,
 wenn die Verfügung mit Rücksicht auf eine rechtsgeschäftliche
@@ -41044,6 +43782,7 @@ Erblassers aufgehoben wird.
 
 
 #### § 2296 Vertretung, Form des Rücktritts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224103123)
 
 (1) Der Rücktritt kann nicht durch einen Vertreter erfolgen.
 
@@ -41052,6 +43791,7 @@ Vertragschließenden. Die Erklärung bedarf der notariellen Beurkundung.
 
 
 #### § 2297 Rücktritt durch Testament
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224203140)
 
 Soweit der Erblasser zum Rücktritt berechtigt ist, kann er nach dem
 Tode des anderen Vertragschließenden die vertragsmäßige Verfügung
@@ -41060,6 +43800,7 @@ Vorschrift des § 2336 Abs. 2 und 3 entsprechende Anwendung.
 
 
 #### § 2298 Gegenseitiger Erbvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224302377)
 
 (1) Sind in einem Erbvertrag von beiden Teilen vertragsmäßige
 Verfügungen getroffen, so hat die Nichtigkeit einer dieser Verfügungen
@@ -41078,6 +43819,7 @@ anzunehmen ist.
 
 
 #### § 2299 Einseitige Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224402377)
 
 (1) Jeder der Vertragschließenden kann in dem Erbvertrag einseitig
 jede Verfügung treffen, die durch Testament getroffen werden kann.
@@ -41093,6 +43835,7 @@ ein anderer Wille des Erblassers anzunehmen ist.
 
 
 #### § 2300 Anwendung der §§ 2259 und 2263; Rücknahme aus der amtlichen oder notariellen Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224506360)
 
 (1) Die §§ 2259 und 2263 sind auf den Erbvertrag entsprechend
 anzuwenden.
@@ -41106,6 +43849,7 @@ Sätzen 1 und 2 zurückgenommen, gilt § 2256 Abs. 1 entsprechend.
 
 
 #### § 2301 Schenkungsversprechen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224702377)
 
 (1) Auf ein Schenkungsversprechen, welches unter der Bedingung erteilt
 wird, dass der Beschenkte den Schenker überlebt, finden die
@@ -41120,6 +43864,7 @@ unter Lebenden Anwendung.
 
 
 #### § 2302 Unbeschränkbare Testierfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224802377)
 
 Ein Vertrag, durch den sich jemand verpflichtet, eine Verfügung von
 Todes wegen zu errichten oder nicht zu errichten, aufzuheben oder
@@ -41127,10 +43872,12 @@ nicht aufzuheben, ist nichtig.
 
 
 ### Abschnitt 5 - Pflichtteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019702377)
 
 
 
 #### § 2303 Pflichtteilsberechtigte; Höhe des Pflichtteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE224902377)
 
 (1) Ist ein Abkömmling des Erblassers durch Verfügung von Todes wegen
 von der Erbfolge ausgeschlossen, so kann er von dem Erben den
@@ -41144,12 +43891,14 @@ unberührt.
 
 
 #### § 2304 Auslegungsregel
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225002377)
 
 Die Zuwendung des Pflichtteils ist im Zweifel nicht als Erbeinsetzung
 anzusehen.
 
 
 #### § 2305 Zusatzpflichtteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225103140)
 
 Ist einem Pflichtteilsberechtigten ein Erbteil hinterlassen, der
 geringer ist als die Hälfte des gesetzlichen Erbteils, so kann der
@@ -41160,6 +43909,7 @@ Art außer Betracht.
 
 
 #### § 2306 Beschränkungen und Beschwerungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225203140)
 
 (1) Ist ein als Erbe berufener Pflichtteilsberechtigter durch die
 Einsetzung eines Nacherben, die Ernennung eines
@@ -41174,6 +43924,7 @@ Pflichtteilsberechtigte als Nacherbe eingesetzt ist.
 
 
 #### § 2307 Zuwendung eines Vermächtnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225302377)
 
 (1) Ist ein Pflichtteilsberechtigter mit einem Vermächtnis bedacht, so
 kann er den Pflichtteil verlangen, wenn er das Vermächtnis ausschlägt.
@@ -41190,6 +43941,7 @@ vorher die Annahme erklärt wird.
 
 
 #### § 2308 Anfechtung der Ausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225402377)
 
 (1) Hat ein Pflichtteilsberechtigter, der als Erbe oder als
 Vermächtnisnehmer in der in § 2306 bezeichneten Art beschränkt oder
@@ -41205,6 +43957,7 @@ Erklärung gegenüber dem Beschwerten.
 
 
 #### § 2309 Pflichtteilsrecht der Eltern und entfernteren Abkömmlinge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225502377)
 
 Entferntere Abkömmlinge und die Eltern des Erblassers sind insoweit
 nicht pflichtteilsberechtigt, als ein Abkömmling, der sie im Falle der
@@ -41213,6 +43966,7 @@ kann oder das ihm Hinterlassene annimmt.
 
 
 #### § 2310 Feststellung des Erbteils für die Berechnung des Pflichtteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225602377)
 
 Bei der Feststellung des für die Berechnung des Pflichtteils
 maßgebenden Erbteils werden diejenigen mitgezählt, welche durch
@@ -41223,6 +43977,7 @@ wird nicht mitgezählt.
 
 
 #### § 2311 Wert des Nachlasses
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225702377)
 
 (1) Der Berechnung des Pflichtteils wird der Bestand und der Wert des
 Nachlasses zur Zeit des Erbfalls zugrunde gelegt. Bei der Berechnung
@@ -41234,6 +43989,7 @@ Eine vom Erblasser getroffene Wertbestimmung ist nicht maßgebend.
 
 
 #### § 2312 Wert eines Landguts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225802377)
 
 (1) Hat der Erblasser angeordnet oder ist nach § 2049 anzunehmen, dass
 einer von mehreren Erben das Recht haben soll, ein zum Nachlass
@@ -41253,6 +44009,7 @@ pflichtteilsberechtigten Personen gehört.
 
 
 #### § 2313 Ansatz bedingter, ungewisser oder unsicherer Rechte; Feststellungspflicht des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE225902377)
 
 (1) Bei der Feststellung des Wertes des Nachlasses bleiben Rechte und
 Verbindlichkeiten, die von einer aufschiebenden Bedingung abhängig
@@ -41271,6 +44028,7 @@ ordnungsmäßigen Verwaltung entspricht.
 
 
 #### § 2314 Auskunftspflicht des Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226002377)
 
 (1) Ist der Pflichtteilsberechtigte nicht Erbe, so hat ihm der Erbe
 auf Verlangen über den Bestand des Nachlasses Auskunft zu erteilen.
@@ -41285,6 +44043,7 @@ Beamten oder Notar aufgenommen wird.
 
 
 #### § 2315 Anrechnung von Zuwendungen auf den Pflichtteil
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226102377)
 
 (1) Der Pflichtteilsberechtigte hat sich auf den Pflichtteil anrechnen
 zu lassen, was ihm von dem Erblasser durch Rechtsgeschäft unter
@@ -41300,6 +44059,7 @@ findet die Vorschrift des § 2051 Abs. 1 entsprechende Anwendung.
 
 
 #### § 2316 Ausgleichungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226202377)
 
 (1) Der Pflichtteil eines Abkömmlings bestimmt sich, wenn mehrere
 Abkömmlinge vorhanden sind und unter ihnen im Falle der gesetzlichen
@@ -41326,6 +44086,7 @@ nur mit der Hälfte des Wertes zur Anrechnung.
 
 
 #### § 2317 Entstehung und Übertragbarkeit des Pflichtteilsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226302377)
 
 (1) Der Anspruch auf den Pflichtteil entsteht mit dem Erbfall.
 
@@ -41333,6 +44094,7 @@ nur mit der Hälfte des Wertes zur Anrechnung.
 
 
 #### § 2318 Pflichtteilslast bei Vermächtnissen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226402377)
 
 (1) Der Erbe kann die Erfüllung eines ihm auferlegten Vermächtnisses
 soweit verweigern, dass die Pflichtteilslast von ihm und dem
@@ -41348,6 +44110,7 @@ ihm sein eigener Pflichtteil verbleibt.
 
 
 #### § 2319 Pflichtteilsberechtigter Miterbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226502377)
 
 Ist einer von mehreren Erben selbst pflichtteilsberechtigt, so kann er
 nach der Teilung die Befriedigung eines anderen
@@ -41356,6 +44119,7 @@ Pflichtteil verbleibt. Für den Ausfall haften die übrigen Erben.
 
 
 #### § 2320 Pflichtteilslast des an die Stelle des Pflichtteilsberechtigten getretenen Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226602377)
 
 (1) Wer anstelle des Pflichtteilsberechtigten gesetzlicher Erbe wird,
 hat im Verhältnis zu Miterben die Pflichtteilslast und, wenn der
@@ -41368,6 +44132,7 @@ wegen zugewendet hat.
 
 
 #### § 2321 Pflichtteilslast bei Vermächtnisausschlagung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226702377)
 
 Schlägt der Pflichtteilsberechtigte ein ihm zugewendetes Vermächtnis
 aus, so hat im Verhältnis der Erben und der Vermächtnisnehmer
@@ -41376,6 +44141,7 @@ Pflichtteilslast in Höhe des erlangten Vorteils zu tragen.
 
 
 #### § 2322 Kürzung von Vermächtnissen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226802377)
 
 Ist eine von dem Pflichtteilsberechtigten ausgeschlagene Erbschaft
 oder ein von ihm ausgeschlagenes Vermächtnis mit einem Vermächtnis
@@ -41386,6 +44152,7 @@ Betrag verbleibt.
 
 
 #### § 2323 Nicht pflichtteilsbelasteter Erbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE226902377)
 
 Der Erbe kann die Erfüllung eines Vermächtnisses oder einer Auflage
 auf Grund des § 2318 Abs. 1 insoweit nicht verweigern, als er die
@@ -41393,6 +44160,7 @@ Pflichtteilslast nach den §§ 2320 bis 2322 nicht zu tragen hat.
 
 
 #### § 2324 Abweichende Anordnungen des Erblassers hinsichtlich der Pflichtteilslast
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227002377)
 
 Der Erblasser kann durch Verfügung von Todes wegen die
 Pflichtteilslast im Verhältnis der Erben zueinander einzelnen Erben
@@ -41401,6 +44169,7 @@ bis 2323 abweichende Anordnungen treffen.
 
 
 #### § 2325 Pflichtteilsergänzungsanspruch bei Schenkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227103140)
 
 (1) Hat der Erblasser einem Dritten eine Schenkung gemacht, so kann
 der Pflichtteilsberechtigte als Ergänzung des Pflichtteils den Betrag
@@ -41422,6 +44191,7 @@ erfolgt, so beginnt die Frist nicht vor der Auflösung der Ehe.
 
 
 #### § 2326 Ergänzung über die Hälfte des gesetzlichen Erbteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227202377)
 
 Der Pflichtteilsberechtigte kann die Ergänzung des Pflichtteils auch
 dann verlangen, wenn ihm die Hälfte des gesetzlichen Erbteils
@@ -41431,6 +44201,7 @@ mehr Hinterlassenen reicht.
 
 
 #### § 2327 Beschenkter Pflichtteilsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227302377)
 
 (1) Hat der Pflichtteilsberechtigte selbst ein Geschenk von dem
 Erblasser erhalten, so ist das Geschenk in gleicher Weise wie das dem
@@ -41444,6 +44215,7 @@ findet die Vorschrift des § 2051 Abs. 1 entsprechende Anwendung.
 
 
 #### § 2328 Selbst pflichtteilsberechtigter Erbe
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227402377)
 
 Ist der Erbe selbst pflichtteilsberechtigt, so kann er die Ergänzung
 des Pflichtteils soweit verweigern, dass ihm sein eigener Pflichtteil
@@ -41452,6 +44224,7 @@ Pflichtteils gebühren würde.
 
 
 #### § 2329 Anspruch gegen den Beschenkten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227502377)
 
 (1) Soweit der Erbe zur Ergänzung des Pflichtteils nicht verpflichtet
 ist, kann der Pflichtteilsberechtigte von dem Beschenkten die
@@ -41469,6 +44242,7 @@ insoweit, als der später Beschenkte nicht verpflichtet ist.
 
 
 #### § 2330 Anstandsschenkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227602377)
 
 Die Vorschriften der §§ 2325 bis 2329 finden keine Anwendung auf
 Schenkungen, durch die einer sittlichen Pflicht oder einer auf den
@@ -41476,6 +44250,7 @@ Anstand zu nehmenden Rücksicht entsprochen wird.
 
 
 #### § 2331 Zuwendungen aus dem Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227702377)
 
 (1) Eine Zuwendung, die aus dem Gesamtgut der Gütergemeinschaft
 erfolgt, gilt als von jedem der Ehegatten zur Hälfte gemacht. Die
@@ -41490,6 +44265,7 @@ fortgesetzten Gütergemeinschaft entsprechend anzuwenden.
 
 
 #### § 2331a Stundung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227803140)
 
 (1) Der Erbe kann Stundung des Pflichtteils verlangen, wenn die
 sofortige Erfüllung des gesamten Anspruchs für den Erben wegen der Art
@@ -41506,6 +44282,7 @@ Nachlassgericht.
 
 
 #### § 2332 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE227903140)
 
 (1) Die Verjährungsfrist des dem Pflichtteilsberechtigten nach § 2329
 gegen den Beschenkten zustehenden Anspruchs beginnt mit dem Erbfall.
@@ -41517,6 +44294,7 @@ werden können.
 
 
 #### § 2333 Entziehung des Pflichtteils
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228003140)
 
 (1) Der Erblasser kann einem Abkömmling den Pflichtteil entziehen,
 wenn der Abkömmling
@@ -41550,16 +44328,19 @@ Ehegattenpflichtteils.
 
 
 #### § 2334 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228103140)
 
 -
 
 
 #### § 2335 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228203140)
 
 -
 
 
 #### § 2336 Form, Beweislast, Unwirksamwerden
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228303140)
 
 (1) Die Entziehung des Pflichtteils erfolgt durch letztwillige
 Verfügung.
@@ -41577,6 +44358,7 @@ geltend macht.
 
 
 #### § 2337 Verzeihung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228402377)
 
 Das Recht zur Entziehung des Pflichtteils erlischt durch Verzeihung.
 Eine Verfügung, durch die der Erblasser die Entziehung angeordnet hat,
@@ -41584,6 +44366,7 @@ wird durch die Verzeihung unwirksam.
 
 
 #### § 2338 Pflichtteilsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228502377)
 
 (1) Hat sich ein Abkömmling in solchem Maße der Verschwendung ergeben
 oder ist er in solchem Maße überschuldet, dass sein späterer Erwerb
@@ -41605,10 +44388,12 @@ Anordnung bildende Überschuldung nicht mehr besteht.
 
 
 ### Abschnitt 6 - Erbunwürdigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019802377)
 
 
 
 #### § 2339 Gründe für Erbunwürdigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228702377)
 
 (1) Erbunwürdig ist:
 
@@ -41642,6 +44427,7 @@ deren Aufhebung er bestimmt worden ist, unwirksam geworden sein würde.
 
 
 #### § 2340 Geltendmachung der Erbunwürdigkeit durch Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228802377)
 
 (1) Die Erbunwürdigkeit wird durch Anfechtung des Erbschaftserwerbs
 geltend gemacht.
@@ -41655,12 +44441,14 @@ erfolgen.
 
 
 #### § 2341 Anfechtungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE228902377)
 
 Anfechtungsberechtigt ist jeder, dem der Wegfall des Erbunwürdigen,
 sei es auch nur bei dem Wegfall eines anderen, zustatten kommt.
 
 
 #### § 2342 Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229002377)
 
 (1) Die Anfechtung erfolgt durch Erhebung der Anfechtungsklage. Die
 Klage ist darauf zu richten, dass der Erbe für erbunwürdig erklärt
@@ -41671,12 +44459,14 @@ Urteils ein.
 
 
 #### § 2343 Verzeihung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229102377)
 
 Die Anfechtung ist ausgeschlossen, wenn der Erblasser dem
 Erbunwürdigen verziehen hat.
 
 
 #### § 2344 Wirkung der Erbunwürdigerklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229202377)
 
 (1) Ist ein Erbe für erbunwürdig erklärt, so gilt der Anfall an ihn
 als nicht erfolgt.
@@ -41687,6 +44477,7 @@ Anfall gilt als mit dem Eintritt des Erbfalls erfolgt.
 
 
 #### § 2345 Vermächtnisunwürdigkeit; Pflichtteilsunwürdigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229302377)
 
 (1) Hat sich ein Vermächtnisnehmer einer der in § 2339 Abs. 1
 bezeichneten Verfehlungen schuldig gemacht, so ist der Anspruch aus
@@ -41699,10 +44490,12 @@ hat.
 
 
 ### Abschnitt 7 - Erbverzicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG019902377)
 
 
 
 #### § 2346 Wirkung des Erbverzichts, Beschränkungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229402377)
 
 (1) Verwandte sowie der Ehegatte des Erblassers können durch Vertrag
 mit dem Erblasser auf ihr gesetzliches Erbrecht verzichten. Der
@@ -41714,6 +44507,7 @@ Pflichtteilsrecht.
 
 
 #### § 2347 Persönliche Anforderungen, Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229506360)
 
 Der Erblasser kann den Vertrag nach § 2346 nur persönlich schließen;
 ist er in der Geschäftsfähigkeit beschränkt, so bedarf er nicht der
@@ -41723,11 +44517,13 @@ geschlossen werden.
 
 
 #### § 2348 Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229603360)
 
 Der Vertrag nach § 2346 bedarf der notariellen Beurkundung.
 
 
 #### § 2349 Erstreckung auf Abkömmlinge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229702377)
 
 Verzichtet ein Abkömmling oder ein Seitenverwandter des Erblassers auf
 das gesetzliche Erbrecht, so erstreckt sich die Wirkung des Verzichts
@@ -41735,6 +44531,7 @@ auf seine Abkömmlinge, sofern nicht ein anderes bestimmt wird.
 
 
 #### § 2350 Verzicht zugunsten eines anderen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229803308)
 
 (1) Verzichtet jemand zugunsten eines anderen auf das gesetzliche
 Erbrecht, so ist im Zweifel anzunehmen, dass der Verzicht nur für den
@@ -41747,6 +44544,7 @@ Lebenspartners des Erblassers gelten soll.
 
 
 #### § 2351 Aufhebung des Erbverzichts
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE229904360)
 
 Auf einen Vertrag, durch den ein Erbverzicht aufgehoben wird, findet
 die Vorschrift des § 2348 und in Ansehung des Erblassers auch die
@@ -41754,6 +44552,7 @@ Vorschrift des § 2347 Satz 1 erster Halbsatz, Satz 2 Anwendung.
 
 
 #### § 2352 Verzicht auf Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE230003140)
 
 Wer durch Testament als Erbe eingesetzt oder mit einem Vermächtnis
 bedacht ist, kann durch Vertrag mit dem Erblasser auf die Zuwendung
@@ -41763,10 +44562,12 @@ Erbvertrag einem Dritten gemacht ist. Die Vorschriften der §§ 2347 bis
 
 
 ### Abschnitt 8 - Erbschein
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020002377)
 
 
 
 #### § 2353 Zuständigkeit des Nachlassgerichts, Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE230102377)
 
 Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein
 Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist,
@@ -41774,16 +44575,19 @@ Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist,
 
 
 #### (XXXX)§§ 2354 bis 2359 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE230203360)
 
 (weggefallen)
 
 
 #### § 2360 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE230803140)
 
 -
 
 
 #### § 2361 Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE230903360)
 
 Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn das
 Nachlassgericht einzuziehen. Mit der Einziehung wird der Erbschein
@@ -41791,6 +44595,7 @@ kraftlos.
 
 
 #### § 2362 Herausgabe- und Auskunftsanspruch des wirklichen Erben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231002377)
 
 (1) Der wirkliche Erbe kann von dem Besitzer eines unrichtigen
 Erbscheins die Herausgabe an das Nachlassgericht verlangen.
@@ -41801,16 +44606,19 @@ Verbleib der Erbschaftsgegenstände Auskunft zu erteilen.
 
 
 #### § 2363 Herausgabeanspruch des Nacherben und des Testamentsvollstreckers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231103360)
 
 Dem Nacherben sowie dem Testamentsvollstrecker steht das in § 2362
 Absatz 1 bestimmte Recht zu.
 
 
 #### § 2364 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231203360)
 
 
 
 #### § 2365 Vermutung der Richtigkeit des Erbscheins
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231302377)
 
 Es wird vermutet, dass demjenigen, welcher in dem Erbschein als Erbe
 bezeichnet ist, das in dem Erbschein angegebene Erbrecht zustehe und
@@ -41819,6 +44627,7 @@ sei.
 
 
 #### § 2366 Öffentlicher Glaube des Erbscheins
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231402377)
 
 Erwirbt jemand von demjenigen, welcher in einem Erbschein als Erbe
 bezeichnet ist, durch Rechtsgeschäft einen Erbschaftsgegenstand, ein
@@ -41831,6 +44640,7 @@ verlangt hat.
 
 
 #### § 2367 Leistung an Erbscheinserben
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231502377)
 
 Die Vorschrift des § 2366 findet entsprechende Anwendung, wenn an
 denjenigen, welcher in einem Erbschein als Erbe bezeichnet ist, auf
@@ -41841,6 +44651,7 @@ vorgenommen wird, das eine Verfügung über das Recht enthält.
 
 
 #### § 2368 Testamentsvollstreckerzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231604360)
 
 Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein
 Zeugnis über die Ernennung zu erteilen. Die Vorschriften über den
@@ -41850,10 +44661,12 @@ kraftlos.
 
 
 #### § 2369 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231704360)
 
 
 
 #### § 2370 Öffentlicher Glaube bei Todeserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231802377)
 
 (1) Hat eine Person, die für tot erklärt oder deren Todeszeit nach den
 Vorschriften des Verschollenheitsgesetzes festgestellt ist, den
@@ -41875,16 +44688,19 @@ angenommen worden ist.
 
 
 ### Abschnitt 9 - Erbschaftskauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNG020102377)
 
 
 
 #### § 2371 Form
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE231902377)
 
 Ein Vertrag, durch den der Erbe die ihm angefallene Erbschaft
 verkauft, bedarf der notariellen Beurkundung.
 
 
 #### § 2372 Dem Käufer zustehende Vorteile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232002377)
 
 Die Vorteile, welche sich aus dem Wegfall eines Vermächtnisses oder
 einer Auflage oder aus der Ausgleichungspflicht eines Miterben
@@ -41892,6 +44708,7 @@ ergeben, gebühren dem Käufer.
 
 
 #### § 2373 Dem Verkäufer verbleibende Teile
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232102377)
 
 Ein Erbteil, der dem Verkäufer nach dem Abschluss des Kaufs durch
 Nacherbfolge oder infolge des Wegfalls eines Miterben anfällt, sowie
@@ -41901,6 +44718,7 @@ Familienbildern.
 
 
 #### § 2374 Herausgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232202377)
 
 Der Verkäufer ist verpflichtet, dem Käufer die zur Zeit des Verkaufs
 vorhandenen Erbschaftsgegenstände mit Einschluss dessen herauszugeben,
@@ -41911,6 +44729,7 @@ sich auf die Erbschaft bezog.
 
 
 #### § 2375 Ersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232302377)
 
 (1) Hat der Verkäufer vor dem Verkauf einen Erbschaftsgegenstand
 verbraucht, unentgeltlich veräußert oder unentgeltlich belastet, so
@@ -41926,6 +44745,7 @@ Herausgabe eines Erbschaftsgegenstands nicht Ersatz verlangen.
 
 
 #### § 2376 Haftung des Verkäufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232403140)
 
 (1) Die Haftung des Verkäufers für Rechtsmängel beschränkt sich
 darauf, dass ihm das Erbrecht zusteht, dass es nicht durch das Recht
@@ -41942,6 +44762,7 @@ verschwiegen oder eine Garantie für die Beschaffenheit des Gegenstands
 
 
 #### § 2377 Wiederaufleben erloschener Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232502377)
 
 Die infolge des Erbfalls durch Vereinigung von Recht und
 Verbindlichkeit oder von Recht und Belastung erloschenen
@@ -41951,6 +44772,7 @@ Rechtsverhältnis wiederherzustellen.
 
 
 #### § 2378 Nachlassverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232602377)
 
 (1) Der Käufer ist dem Verkäufer gegenüber verpflichtet, die
 Nachlassverbindlichkeiten zu erfüllen, soweit nicht der Verkäufer nach
@@ -41961,6 +44783,7 @@ erfüllt, so kann er von dem Käufer Ersatz verlangen.
 
 
 #### § 2379 Nutzungen und Lasten vor Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232702377)
 
 Dem Verkäufer verbleiben die auf die Zeit vor dem Verkauf fallenden
 Nutzungen. Er trägt für diese Zeit die Lasten, mit Einschluss der
@@ -41971,6 +44794,7 @@ anzusehen sind.
 
 
 #### § 2380 Gefahrübergang, Nutzungen und Lasten nach Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232802377)
 
 Der Käufer trägt von dem Abschluss des Kaufs an die Gefahr des
 zufälligen Untergangs und einer zufälligen Verschlechterung der
@@ -41979,6 +44803,7 @@ Nutzungen und trägt er die Lasten.
 
 
 #### § 2381 Ersatz von Verwendungen und Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE232902377)
 
 (1) Der Käufer hat dem Verkäufer die notwendigen Verwendungen zu
 ersetzen, die der Verkäufer vor dem Verkauf auf die Erbschaft gemacht
@@ -41990,6 +44815,7 @@ Zeit des Verkaufs erhöht ist.
 
 
 #### § 2382 Haftung des Käufers gegenüber Nachlassgläubigern
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233002377)
 
 (1) Der Käufer haftet von dem Abschluss des Kaufs an den
 Nachlassgläubigern, unbeschadet der Fortdauer der Haftung des
@@ -42003,6 +44829,7 @@ beschränkt werden.
 
 
 #### § 2383 Umfang der Haftung des Käufers
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233102377)
 
 (1) Für die Haftung des Käufers gelten die Vorschriften über die
 Beschränkung der Haftung des Erben. Er haftet unbeschränkt, soweit der
@@ -42016,6 +44843,7 @@ unbeschränkt haftet.
 
 
 #### § 2384 Anzeigepflicht des Verkäufers gegenüber Nachlassgläubigern, Einsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233202377)
 
 (1) Der Verkäufer ist den Nachlassgläubigern gegenüber verpflichtet,
 den Verkauf der Erbschaft und den Namen des Käufers unverzüglich dem
@@ -42027,6 +44855,7 @@ gestatten, der ein rechtliches Interesse glaubhaft macht.
 
 
 #### § 2385 Anwendung auf ähnliche Verträge
+[Direktlink](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html#BJNR001950896BJNE233302377)
 
 (1) Die Vorschriften über den Erbschaftskauf finden entsprechende
 Anwendung auf den Kauf einer von dem Verkäufer durch Vertrag

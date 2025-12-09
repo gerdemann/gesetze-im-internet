@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtrg/BJNR225710018.html#BJNR225710018BJNE000100000)
 
 Dem Staatsvertrag vom 30. Mai/12. Oktober 2018 über den Übergang der
 Aufgaben der Deutschen Dienststelle für die Benachrichtigung der
@@ -27,17 +28,20 @@ nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtrg/BJNR225710018.html#BJNR225710018BJNE000200000)
 
 Der Staatsvertrag wird als Anlage zu diesem Gesetz veröffentlicht.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtrg/BJNR225710018.html#BJNR225710018BJNE000300000)
 
 Der Tag, an dem der Staatsvertrag nach seinem Artikel 5 in Kraft
 tritt, ist im Bundesgesetzblatt zu veröffentlichen.
 
 
 ## Anlage Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht
+[Direktlink](https://www.gesetze-im-internet.de/wasta_stvtrg/BJNR225710018.html#BJNR225710018BJNE000400000)
 
 (Fundstelle: BGBl. I 2018, 2258 - 2259)
 (Text der Anlage siehe: WAStAÜStVtr)

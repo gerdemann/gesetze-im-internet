@@ -25,9 +25,11 @@ Stand: Das G ist gem. Art. 12 Abs. 1 G v. 20.12.2022 I 2512 am 24.12.2022 in Kra
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000200000)
 
 Zweck dieses Gesetzes ist die Entlastung der von stark steigenden
 Stromkosten betroffenen Letztverbraucher. Diese Entlastung soll
@@ -65,6 +67,7 @@ Zweck regelt dieses Gesetz
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000302377)
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -319,9 +322,11 @@ Im Sinn dieses Gesetzes ist oder sind
 
 
 ## Teil 2 - Entlastung der Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000200000)
 
 
 ### § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000400000)
 
 (1) Die Regelungen dieses Teils sind vorbehaltlich einer
 Rechtsverordnung aufgrund des § 47 Absatz 1 Nummer 1 auf Netzentnahmen
@@ -337,6 +342,7 @@ ohne Netzentnahme verbraucht wird.
 
 
 ### § 4 Entlastung von Letztverbrauchern
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000500000)
 
 (1) Elektrizitätsversorgungsunternehmen, die am ersten Tag eines
 Kalendermonats Strom an einen Letztverbraucher über eine
@@ -418,6 +424,7 @@ Kostenabrechnungen mit dem Entlastungsanspruch ist zulässig.
 
 
 ### § 5 Differenzbetrag
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000601377)
 
 (1) Der Differenzbetrag ist die zentrale Stellgröße zur Absicherung
 der Letztverbraucher gegen steigende Energiekosten. Die Berechnung des
@@ -538,6 +545,7 @@ Absatz 1 dieses Gesetzes gewährt.
 
 
 ### § 6 Entlastungskontingent
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000701377)
 
 Der Differenzbetrag nach § 5 wird gewährt für ein
 Entlastungskontingent. Dieses beträgt pro Kalendermonat für
@@ -633,6 +641,7 @@ Wirkung für den verbleibenden Entlastungszeitraum vereinbaren.
 
 
 ### § 7 Entlastungsbetrag von sonstigen Letztverbrauchern
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000801377)
 
 (1) Soweit Letztverbraucher Strom verbrauchen, der einer
 Netzentnahmestelle ohne Lieferung eines
@@ -704,6 +713,7 @@ für die jeweilige Netzentnahmestelle regelzonenverantwortlichen
 
 
 ### § 8 Lieferantenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE000901377)
 
 Bei einem Wechsel des eine Netzentnahmestelle beliefernden
 Elektrizitätsversorgungsunternehmens im Kalenderjahr 2023
@@ -734,6 +744,7 @@ Elektrizitätsversorgungsunternehmens im Kalenderjahr 2023
 
 
 ### § 9 Höchstgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001001377)
 
 (1) Wenn der Letztverbraucher ein Unternehmen ist, darf die
 Entlastungssumme für sämtliche Netzentnahmestellen des
@@ -966,6 +977,7 @@ Kommission zusätzlich zu Beihilfen, die
 
 
 ### § 10 Höchstgrenzen bei Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001101377)
 
 Für Schienenbahnen ist § 9 nicht anzuwenden. Der Entlastungsbetrag für
 Schienenbahnen darf höchstens 90 Prozent der krisenbedingten
@@ -994,6 +1006,7 @@ Mitteilung nach § 30a Absatz 2 abgegeben hat.
 
 
 ### § 11 Verfahren der Feststellung der anzuwendenden Höchstgrenzen, Einzelnotifizierung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001201377)
 
 (1) Auf Antrag des Letztverbrauchers stellt die Prüfbehörde
 netzentnahmestellenbezogen für Strom und entnahmestellenbezogen für
@@ -1264,6 +1277,7 @@ Anordnungen nach dieser Vorschrift haben keine aufschiebende Wirkung.
 
 
 ### § 11a Verfahren der Feststellung der anzuwendenden Höchstgrenzen bei Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006200377)
 
 (1) Auf Antrag einer Schienenbahn stellt die Prüfbehörde
 netzentnahmestellenbezogen die für die Schienenbahn anzuwendende
@@ -1355,6 +1369,7 @@ Anordnungen nach dieser Vorschrift haben keine aufschiebende Wirkung.
 
 
 ### § 12 Vorgaben zur Vertragsgestaltung, Abrechnung und Endabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001301377)
 
 (1) Ein Elektrizitätsversorgungsunternehmen darf im Zusammenhang mit
 einem Vertrag über die Belieferung eines Letztverbrauchers mit Strom,
@@ -1537,6 +1552,7 @@ Rückforderungen nach Satz 1 haben keine aufschiebende Wirkung.
 
 
 ### § 12a Weitergabe der Entlastung bei Mietverhältnissen, Pachtverhältnissen und Gemeinschaften der Wohnungseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001401377)
 
 (1) Der Vermieter hat die Entlastung, die er nach § 4, § 5 Absatz 3
 Satz 2 und § 49 ab dem 1. März 2023 erlangt, in der Abrechnung für die
@@ -1634,9 +1650,11 @@ Satz 1 unterliegen denselben Aufbewahrungsfristen wie die Abrechnung.
 
 
 ## Teil 2a - Entlastung für atypische Minderverbräuche
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG001100377)
 
 
 ### § 12b Zusätzlicher Entlastungsbetrag zum Ausgleich atypischer Minderverbräuche; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006300377)
 
 (1) Ein Letztverbraucher, der über eine Netzentnahmestelle, an der die
 Netzentnahme nicht über ein standardisiertes Lastprofil bilanziert
@@ -1811,9 +1829,11 @@ dieser Vorschrift gewährten zusätzlichen Entlastung zurückzuzahlen.
 
 
 ## Teil 3 - Abschöpfung von Überschusserlösen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000300000)
 
 
 ### § 13 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001501377)
 
 (1) Dieser Teil ist anzuwenden auf
 
@@ -1909,6 +1929,7 @@ Netzeinspeisung zwischengespeichert worden ist.
 
 
 ### § 14 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001601377)
 
 (1) Betreiber von Stromerzeugungsanlagen müssen an den Netzbetreiber,
 an dessen Netz ihre Stromerzeugungsanlage unmittelbar angeschlossen
@@ -1962,6 +1983,7 @@ entsprechenden Kalenderjahres nach Ablauf der Frist gemäß § 29 Absatz
 
 
 ### § 15 Haftung und Zurechnung von Überschusserlösen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001700000)
 
 (1) Für die Erfüllung des Anspruchs nach § 14 haften neben dem
 Betreiber der Stromerzeugungsanlage als Gesamtschuldner im Sinn des §
@@ -1986,6 +2008,7 @@ zugerechnet.
 
 
 ### § 16 Überschusserlöse
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001800000)
 
 (1) Überschusserlöse werden vorbehaltlich der §§ 17 und 18
 unwiderleglich vermutet, wenn die Spotmarkterlöse in einem
@@ -2143,6 +2166,7 @@ ist.
 
 
 ### § 17 Ergebnis aus Absicherungsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE001900000)
 
 Der nach § 16 ermittelte Überschusserlös jeder Stromerzeugungsanlage
 wird um das Ergebnis aus Absicherungsgeschäften für die
@@ -2186,6 +2210,7 @@ Stromerzeugungsanlage im Abrechnungszeitraum korrigiert
 
 
 ### § 18 Überschusserlöse bei anlagenbezogener Vermarktung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002000000)
 
 (1) Soweit im Abrechnungszeitraum erzeugter Strom Gegenstand eines von
 dem Betreiber der Stromerzeugungsanlage vor dem 1. November 2022
@@ -2230,6 +2255,7 @@ Doppelbuchstabe hh gemeldet hat.
 
 
 ### § 19 Auslegung und Anpassung bestehender Verträge
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002100000)
 
 (1) Wenn in Verträgen, die vor dem 24. Dezember 2022 geschlossen
 worden sind und die Nutzung oder Vermittlung von Flächen für die
@@ -2255,9 +2281,11 @@ Festhalten am unveränderten Vertrag nicht zugemutet werden kann.
 
 
 ## Teil 4 - Ausgleich durch Abschöpfung von Überrenditen und weiterer Ausgleichsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000400000)
 
 
 ### § 20 Ausgleich zwischen Elektrizitätsversorgungsunternehmen und Übertragungsnetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002200000)
 
 Elektrizitätsversorgungsunternehmen haben einen finanziellen Anspruch
 auf Erstattung der nach § 4 Absatz 1 geleisteten Entlastungsbeträge
@@ -2266,6 +2294,7 @@ regelzonenverantwortlichen Übertragungsnetzbetreiber.
 
 
 ### § 21 Ausgleich zwischen Übertragungsnetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002300000)
 
 Die Übertragungsnetzbetreiber haben untereinander einen finanziellen
 Anspruch auf Belastungsausgleich, wenn sie jeweils bezogen auf die im
@@ -2275,6 +2304,7 @@ Durchschnitt aller Übertragungsnetzbetreiber entspricht.
 
 
 ### § 22 Ausgleich zwischen Übertragungsnetzbetreibern und Verteilernetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002400000)
 
 (1) Die Übertragungsnetzbetreiber haben einen finanziellen Anspruch
 auf Belastungsausgleich gegen die ihnen unmittelbar oder mittelbar
@@ -2306,6 +2336,7 @@ marktüblicher Kosten für vergleichbare Dienstleistungen.
 
 
 ### § 22a Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002501377)
 
 (1) Elektrizitätsversorgungsunternehmen haben einen Anspruch auf
 Vorauszahlung auf den Erstattungsanspruch nach § 20 gegen den
@@ -2403,6 +2434,7 @@ Auskünfte zu erteilen.
 
 
 ### § 23 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002600000)
 
 (1) Auf die Zahlungen nach diesem Teil mit Ausnahme der Zahlungen nach
 § 20 können monatlich Abschläge in angemessenem Umfang verlangt
@@ -2417,6 +2449,7 @@ entsprechend anzuwenden.
 
 
 ### § 24 Ausgleichsanspruch gegen den Bund
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002700000)
 
 (1) Die Übertragungsnetzbetreiber haben nach dem Ablauf des zeitlichen
 Anwendungsbereichs des Teils 2 und des Teils 3 gegen die
@@ -2450,6 +2483,7 @@ gegenüber allen Übertragungsnetzbetreibern Zahlungen an einen
 
 
 ### § 25 Anspruch auf Zwischenfinanzierung, öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002800000)
 
 Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik
 Deutschland einen Anspruch auf Zwischenfinanzierung der Ausgaben nach
@@ -2464,12 +2498,15 @@ dem Bundesministerium der Finanzen.
 
 
 ## Teil 5 - Kontoführungs-, Mitteilungs- und sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000500000)
 
 
 ### Abschnitt 1 - Kontoführung und Einnahmenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000600000)
 
 
 #### § 26 Kontoführung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE002901377)
 
 (1) Die Übertragungsnetzbetreiber müssen jeweils ein separates
 Bankkonto für die Aufgaben nach diesem Gesetz führen. Sämtliche
@@ -2485,6 +2522,7 @@ anzuwenden.
 
 
 #### § 27 Buchführung, Verwendung von Einnahmen, Vereinbarung mit anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003001377)
 
 (1) Die Einnahmen und Ausgaben nach diesem Gesetz sind von den
 Einnahmen und Ausgaben der sonstigen Tätigkeitsbereiche der
@@ -2519,9 +2557,11 @@ Verordnung nach § 48 Absatz 1 Nummer 4 zu verwenden.
 
 
 ### Abschnitt 2 - Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000700000)
 
 
 #### § 28 Umfang der Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003100000)
 
 Betreiber von Stromerzeugungsanlagen, Netzbetreiber, Letztverbraucher,
 die Unternehmen sind, und Elektrizitätsversorgungsunternehmen müssen
@@ -2542,6 +2582,7 @@ die Unternehmen sind, und Elektrizitätsversorgungsunternehmen müssen
 
 
 #### § 29 Betreiber von Stromerzeugungsanlagen und verbundene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003201377)
 
 (1) Betreiber von Stromerzeugungsanlagen im Anwendungsbereich des
 Teils 3 müssen dem regelzonenverantwortlichen
@@ -2702,6 +2743,7 @@ des Gesetzes gegen Wettbewerbsbeschränkungen zu beachten.
 
 
 #### § 30 Selbsterklärung von Letztverbrauchern
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003301377)
 
 (1) Letztverbraucher, die Unternehmen sind und deren
 Entlastungsbeträge an sämtlichen Netzentnahmestellen einen Betrag von
@@ -2944,6 +2986,7 @@ der Prüfbehörde zu übermitteln.
 
 
 #### § 30a Selbsterklärung von Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006400377)
 
 (1) Eine Schienenbahn muss ihrem Elektrizitätsversorgungsunternehmen
 bis zum Ablauf des 31. August 2023 mitteilen,
@@ -2996,6 +3039,7 @@ mitteilen:
 
 
 #### § 31 Elektrizitätsversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003401377)
 
 (1) Elektrizitätsversorgungsunternehmen sind verpflichtet mitzuteilen
 
@@ -3158,6 +3202,7 @@ Anwendungsbereichs dieses Gesetzes nach Teil 2 nicht anzuwenden.
 
 
 #### § 32 Verteilernetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003501377)
 
 (1) Verteilernetzbetreiber müssen der Bundesnetzagentur
 
@@ -3240,6 +3285,7 @@ unverzüglich nachzumelden.
 
 
 #### § 33 Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003601377)
 
 (1) Die Übertragungsnetzbetreiber übermitteln der Bundesnetzagentur
 
@@ -3290,6 +3336,7 @@ Europäischen Kommission.
 
 
 #### § 34 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003700000)
 
 Die zusammengefassten Endabrechnungen der
 Elektrizitätsversorgungsunternehmen nach § 31 Absatz 1 Nummer 1
@@ -3318,6 +3365,7 @@ Genossenschaftsgesetzes entsprechend anzuwenden.
 
 
 #### § 35 Formularvorgaben und digitale Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003801377)
 
 (1) Netzbetreiber stellen für die nach diesem Teil ihnen
 mitzuteilenden Angaben Formularvorlagen rechtzeitig vor Ablauf der für
@@ -3367,6 +3415,7 @@ Absatz 4 entstehen, ist ausgeschlossen; dies gilt nicht für Vorsatz.
 
 
 #### § 36 Länder
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE003900000)
 
 Die Länder müssen dem Bundesministerium für Wirtschaft und Klimaschutz
 unverzüglich Maßnahmen des jeweiligen Landes oder der Kommunen
@@ -3386,9 +3435,11 @@ Bundesanzeiger bekannt.
 
 
 ### Abschnitt 3 - Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000800000)
 
 
 #### § 37 Arbeitsplatzerhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004002377)
 
 (1) Letztverbraucher, die Unternehmen sind und Arbeitnehmer
 beschäftigen, können auf Grundlage dieses Gesetzes und des Erdgas-
@@ -3491,6 +3542,7 @@ der Geltendmachung des Zinsanspruchs entsprechend § 49a Absatz 3 Satz
 
 
 #### § 37a Boni- und Dividendenverbot
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004102377)
 
 (1) Ein Unternehmen, das insgesamt eine Entlastungssumme von mehr als
 25 Millionen Euro bezieht, darf Mitgliedern der Geschäftsleitung des
@@ -3606,6 +3658,7 @@ nicht eingehalten wurden.
 
 
 #### § 38 Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004200000)
 
 Letztverbraucher, die Unternehmen sind,
 Elektrizitätsversorgungsunternehmen und Übertragungsnetzbetreiber
@@ -3616,9 +3669,11 @@ Voraussetzungen belegen, für zehn Jahre nach der Endabrechnung nach §
 
 
 ## Teil 6 - Behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG000900000)
 
 
 ### § 39 Missbrauchsverbot
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004301377)
 
 (1) Elektrizitätsversorgungsunternehmen ist eine Gestaltung ihrer
 Preissetzung oder eine sonstige Verhaltensweise verboten, die eine
@@ -3703,6 +3758,7 @@ Kartellbehörden bleiben unberührt.
 
 
 ### § 40 Aufsicht der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004400000)
 
 (1) Die Bundesnetzagentur hat vorbehaltlich weiterer Aufgaben, die ihr
 durch Rechtsverordnung aufgrund dieses Gesetzes übertragen werden, die
@@ -3767,6 +3823,7 @@ keine Unternehmen sind, entsprechend anzuwenden.
 
 
 ### § 41 Festsetzungen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004500000)
 
 (1) Sofern und soweit ein Betreiber von Stromerzeugungsanlagen seinen
 Mitteilungs- oder Zahlungspflichten nach § 14 Absatz 1 und § 29 nicht,
@@ -3846,6 +3903,7 @@ festgesetzten Höhe auf dem Rechtsweg durchzusetzen.
 
 
 ### § 42 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004600000)
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind für
 Rechtsbehelfe, die sich gegen Entscheidungen der Bundesnetzagentur
@@ -3861,6 +3919,7 @@ Beschluss das nach Absatz 1 zuständige Oberlandesgericht.
 
 
 ### § 43 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004701377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4033,6 +4092,7 @@ Einzelbetrages erfolgen.
 
 
 ### § 44 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004800000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 43 Absatz 1 Nummer 5 bezeichnete vorsätzliche
@@ -4049,6 +4109,7 @@ vorlegt.
 
 
 ### § 45 Haftung der Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE004900000)
 
 Die gesetzlichen Vertreter juristischer Personen sowie von nicht
 rechtsfähigen Personenvereinigungen und die Verwalter von
@@ -4059,6 +4120,7 @@ Nummer 1.
 
 
 ### § 46 Weitere Aufgaben und Aufsicht der Prüfbehörde
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005000000)
 
 (1) Die Prüfbehörde stellt unverzüglich eine Mustervorlage für die
 Berechnung des EBITDA auf ihrer Internetseite zur Verfügung.
@@ -4115,9 +4177,11 @@ keine Unternehmen sind, entsprechend.
 
 
 ## Teil 7 - Verordnungsermächtigungen, Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNG001000000)
 
 
 ### § 47 Verordnungsermächtigung zum Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005100000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates
@@ -4176,6 +4240,7 @@ Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 48 Weitere Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005201377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
@@ -4319,6 +4384,7 @@ Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 48a Beleihung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006100377)
 
 (1) Abweichend von § 48 Absatz 1 Nummer 1 kann das Bundesministerium
 für Wirtschaft und Klimaschutz im Einvernehmen mit dem
@@ -4360,6 +4426,7 @@ für die Abgrenzung der Beliehenen untereinander.
 
 
 ### § 48b Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005301377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert
 dieses Gesetz bis zum 31. Dezember 2025. Unbeschadet von Satz 1 kann
@@ -4374,6 +4441,7 @@ Evaluierungen nach Absatz 1 unberührt.
 
 
 ### § 49 Auszahlung und Höhe Entlastungsbetrag Januar oder Februar 2023
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005400000)
 
 (1) Die Entlastungsbeträge für die Monate Januar oder Februar 2023
 werden
@@ -4452,6 +4520,7 @@ nach den §§ 40 bis 40c des Energiewirtschaftsgesetzes auszugleichen.
 
 
 ### § 50 Beihilferechtlicher Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005500000)
 
 Dieses Gesetz darf erst nach der beihilferechtlichen Genehmigung durch
 die Europäische Kommission angewandt werden. Das Bundesministerium für
@@ -4461,6 +4530,7 @@ Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
 (zu § 2 Nummer 11)
 
 ### Anlage 1 Krisenbedingte Energiemehrkosten
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005601377)
 
 (Fundstelle: BGBl. I 2022, 2541)
 
@@ -4595,6 +4665,7 @@ Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
 (zu § 9)
 
 ### Anlage 2 Besonders von hohen Energiepreisen betroffene Sektoren und Teilsektoren
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005700000)
 
 (Fundstelle: BGBl. I 2022, 2542 - 2543)
 
@@ -5069,6 +5140,7 @@ Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
 (zu § 16 Absatz 1 Nummer 5)
 
 ### Anlage 3 Kohlendioxid-Kosten Braunkohle
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005800000)
 
 (Fundstelle: BGBl. I 2022, 2544)
 
@@ -5143,6 +5215,7 @@ Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
 (zu § 17 Nummer 1)
 
 ### Anlage 4 Absicherungsgeschäfte, die vor dem 1. November 2022 abgeschlossen worden sind
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE005900000)
 
 (Fundstelle: BGBl. I 2022, 2545 - 2546)
 
@@ -5442,6 +5515,7 @@ Satz 1 anzuwenden ist, im Bundesgesetzblatt bekannt.
    (zu § 17 Nummer 2)
 
 ### Anlage 5 Absicherungsgeschäfte, die nach dem 31. Oktober 2022 abgeschlossen worden sind
+[Direktlink](https://www.gesetze-im-internet.de/strompbg/BJNR251210022.html#BJNR251210022BJNE006001377)
 
 (Fundstelle: BGBl. I 2022, 2547 - 2549)
 

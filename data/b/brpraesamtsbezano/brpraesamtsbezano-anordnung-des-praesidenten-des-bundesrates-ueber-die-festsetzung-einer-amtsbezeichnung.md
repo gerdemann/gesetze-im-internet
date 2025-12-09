@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/brpr_samtsbezano/BJNR107610968.html#BJNR107610968BJNE000100303)
 
 Auf Grund der mir am 29. März 1968 übertragenen Befugnis
 (Bundesgesetzbl. I S. 252) setze ich folgende Amtsbezeichnung fest:

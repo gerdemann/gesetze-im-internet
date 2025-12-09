@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000100000)
 
 Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/821 des
 Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung
@@ -31,6 +32,7 @@ erlassenen Ergänzungs- und Durchführungsbestimmungen.
 
 
 ## § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000200000)
 
 Zuständige Behörde im Sinne des Artikels 10 der Verordnung (EU)
 2017/821 ist die Bundesanstalt für Geowissenschaften und Rohstoffe
@@ -38,6 +40,7 @@ Zuständige Behörde im Sinne des Artikels 10 der Verordnung (EU)
 
 
 ## § 3 Aufgaben, Eingriffsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000300000)
 
 (1) Der Bundesanstalt obliegt die Durchführung der Verordnung (EU)
 2017/821, dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen
@@ -146,6 +149,7 @@ vorzulegen und auf der Webseite der Bundesanstalt zu veröffentlichen.
 [^F811401_01_BJNR086410020BJNE000300000]: 
 
 ## § 4 Datenübermittlung durch die Zollbehörden an die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000400000)
 
 Die Zollbehörden übermitteln der Bundesanstalt auf deren Ersuchen die
 für die Erfüllung der Aufgaben der Bundesanstalt nach Artikel 13
@@ -156,6 +160,7 @@ erlangt haben.
 
 
 ## § 5 Datenübermittlung durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000500000)
 
 (1) Die Bundesanstalt übermittelt der Europäischen Kommission sowie
 den zuständigen Behörden anderer Mitgliedstaaten alle nach den
@@ -171,6 +176,7 @@ Bundesanstalt elektronische Systeme einsetzen.
 
 
 ## § 6 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000600000)
 
 (1) Unionseinführer und nach § 3 Absatz 3 Nummer 2 geladene Personen
 sind verpflichtet, der Bundesanstalt auf Verlangen die Auskünfte zu
@@ -233,6 +239,7 @@ gesetzliche Verschwiegenheitspflichten bleiben unberührt.
 
 
 ## § 7 Betretensrechte, Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000700000)
 
 (1) Zur Durchführung der Aufgaben der Bundesanstalt dürfen die mit der
 Überwachung beauftragten Personen der Bundesanstalt sowie Personen und
@@ -258,6 +265,7 @@ unterstützen.
 
 
 ## § 8 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000800000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates, im
@@ -293,12 +301,14 @@ Entwicklung,
 
 
 ## § 9 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE000900000)
 
 Die Höhe des Zwangsgelds im Verwaltungszwangsverfahren der
 Bundesanstalt beträgt bis zu 50 000 Euro.
 
 
 ## § 10 Zeitliche Geltung
+[Direktlink](https://www.gesetze-im-internet.de/minrohsorgg/BJNR086410020.html#BJNR086410020BJNE001000000)
 
 Die §§ 3, 6, 7 und 9 sind erst ab dem 1. Januar 2021 anzuwenden.
 

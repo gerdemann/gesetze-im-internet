@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2006-11/BJNR266700006.html#BJNR266700006BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
@@ -63,11 +64,13 @@ Heinz Hoyer aus Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2006-11/BJNR266700006.html#BJNR266700006BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2006-11/BJNR266700006.html#BJNR266700006BJNE000300000)
 
 (Fundstelle: BGBl. I 2006, 2667)
 ![bgbl1_2006_j2667_0010.jpg](bgbl1_2006_j2667_0010.jpg)

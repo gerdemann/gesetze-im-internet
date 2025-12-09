@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE000800325)
 
 Auf Grund des § 57 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes in
 der im Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1,
@@ -29,10 +30,12 @@ wird verordnet:
 
 
 ## Erster Abschnitt - Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNG000100325)
 
 
 
 ### § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE000900325)
 
 (1) Für die Prüfung der fachlichen Befähigung zum Betriebsleiter eines
 Straßenbahnunternehmens wird bei der zuständigen obersten
@@ -44,6 +47,7 @@ gemeinsamer Prüfungsausschuß errichtet werden.
 
 
 ### § 2 Zusammensetzung und Berufung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001001308)
 
 (1) Die zuständige oberste Landesbehörde oder die von ihr bestimmte
 Behörde beruft aus dem Kreis von
@@ -82,6 +86,7 @@ mitwirken.
 
 
 ### § 3 Ausschluß und Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001100325)
 
 (1) Bei der Prüfung darf nicht mitwirken, wer Vorgesetzter eines
 Prüfungsbewerbers oder Bediensteter im gleichen Verkehrsunternehmen
@@ -94,6 +99,7 @@ Wiederholung der Prüfung entscheidet der Prüfungsausschuß.
 
 
 ### § 4 Beschlußfähigkeit und Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001201308)
 
 (1) Der Prüfungsausschuß ist beschlußfähig, wenn einschließlich des
 Vorsitzenden oder seines Stellvertreters mindestens mitwirken
@@ -118,6 +124,7 @@ Ausschlag.
 
 
 ### § 5 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001300325)
 
 Die berufende Behörde regelt im Einvernehmen mit dem Prüfungsausschuß
 dessen Geschäftsführung, insbesondere Einladungen, Protokollführung
@@ -125,6 +132,7 @@ und Einzelheiten über die Durchführung der Prüfungen.
 
 
 ### § 6 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001400325)
 
 Die Mitglieder des Prüfungsausschusses haben über alle
 Prüfungsvorgänge gegenüber Dritten Verschwiegenheit zu wahren.
@@ -132,10 +140,12 @@ Ausnahmen bedürfen der Einwilligung der berufenden Behörde.
 
 
 ## Zweiter Abschnitt - Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNG000200325)
 
 
 
 ### § 7 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001501308)
 
 Zur Prüfung wird auf Antrag einmalig zugelassen, wer
 
@@ -168,6 +178,7 @@ Zur Prüfung wird auf Antrag einmalig zugelassen, wer
 
 
 ### § 8 Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001600325)
 
 (1) Der Antrag auf Zulassung zur Prüfung ist vom Bewerber an die
 zuständige Technische Aufsichtsbehörde zu richten. Maßgebend für die
@@ -191,6 +202,7 @@ maßgebend.
 
 
 ### § 9 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001700325)
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet die
 zuständige Technische Aufsichtsbehörde. Sie kann in begründeten Fällen
@@ -202,10 +214,12 @@ Rechtsbehelfsbelehrung zu versehen.
 
 
 ## Dritter Abschnitt - Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNG000300325)
 
 
 
 ### § 10 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001800325)
 
 (1) Prüfungen sollen jährlich einmal durchgeführt werden. Weitere
 Prüfungen können vom Prüfungsausschuß nach Bedarf angesetzt werden.
@@ -219,12 +233,14 @@ den Prüfungsablauf, über die jeweils zur Verfügung stehende Zeit sowie
 
 
 ### § 11 Prüfungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE001900325)
 
 In der Prüfung hat der Kandidat seine fachliche Befähigung zum
 Betriebsleiter nachzuweisen.
 
 
 ### § 12 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002000325)
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen
 Teil und ist in dieser Reihenfolge durchzuführen.
@@ -374,6 +390,7 @@ tätigkeitsbezogene Fragen über
 
 
 ### § 13 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002100325)
 
 (1) Im schriftlichen Teil der Prüfung hat der Kandidat nachzuweisen,
 daß er Aufgaben aus dem Bereich der Betriebsleitertätigkeit rasch und
@@ -395,6 +412,7 @@ Bewertung entscheidet der Vorsitzende des Prüfungsausschusses.
 
 
 ### § 14 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002200325)
 
 (1) Im mündlichen Teil der Prüfung hat der Kandidat den Nachweis eines
 umfassenden Fachwissens in den vier Fächern nach § 12 Abs. 4 zu
@@ -408,6 +426,7 @@ zu bewerten.
 
 
 ### § 15 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002300325)
 
 Die Prüfung ist nicht öffentlich. Vertreter der berufenden Behörde und
 der für die Zulassung des Kandidaten zuständigen Technischen
@@ -417,6 +436,7 @@ teilnehmen.
 
 
 ### § 16 Ausweispflicht und Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002400325)
 
 Die Kandidaten haben sich auf Verlangen des Vorsitzenden des
 Prüfungsausschusses oder des Aufsichtführenden über ihre Person
@@ -427,6 +447,7 @@ Täuschungshandlungen und Ordnungsverstößen zu belehren.
 
 
 ### § 17 Täuschungshandlungen und Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002500325)
 
 (1) Kandidaten, die eine Täuschungshandlung begehen oder versuchen
 oder den Prüfungsablauf erheblich stören, können von der weiteren
@@ -441,6 +462,7 @@ bestanden erklärt werden.
 
 
 ### § 18 Rücktritt und Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002600325)
 
 (1) Der Kandidat kann vor Bekanntgabe der ersten schriftlichen
 Prüfungsaufgabe von der Prüfung durch schriftliche Erklärung oder
@@ -460,10 +482,12 @@ Prüfungsausschuß.
 
 
 ## Vierter Abschnitt - Bewertung und Feststellung der Prüfungsergebnisse sowie Prüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNG000400325)
 
 
 
 ### § 19 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002700325)
 
 (1) Die einzelnen schriftlichen Arbeiten und die Leistungen in jedem
 Fach des mündlichen Teils der Prüfung sind wie folgt zu bewerten:
@@ -514,6 +538,7 @@ auch Form und Ausdrucksweise zu berücksichtigen.
 
 
 ### § 20 Feststellung und Bekanntgabe des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002801308)
 
 (1) Der Prüfungsausschuß stellt aufgrund der Bewertung der einzelnen
 Prüfungsleistungen nach § 19 das Prüfungsergebnis fest.
@@ -536,6 +561,7 @@ unterzeichnen.
 
 
 ### § 21 Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE002900325)
 
 Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das vom
 Vorsitzenden des Prüfungsausschusses zu unterschreiben ist. In dem
@@ -545,6 +571,7 @@ Bestehens der Prüfung anzugeben.
 
 
 ### § 22 Nichtbestandene Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE003001305)
 
 (1) Der Vorsitzende des Prüfungsausschusses erteilt bei
 nichtbestandener Prüfung dem Kandidaten einen schriftlichen oder
@@ -558,10 +585,12 @@ versehen.
 
 
 ## Fünfter Abschnitt - Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNG000500325)
 
 
 
 ### § 23 Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE003100325)
 
 (1) Eine nichtbestandene Prüfung darf zweimal wiederholt werden,
 jedoch frühestens sechs Monate nach Beendigung der vorangegangenen
@@ -579,10 +608,12 @@ nichtbestandenen Prüfung zur Wiederholungsprüfung anmeldet.
 
 
 ## Sechster Abschnitt - Schluß- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNG000600325)
 
 
 
 ### § 24 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE003200325)
 
 (1) Auf Antrag ist dem Kandidaten nach Beendigung der Prüfung Einsicht
 in seine Prüfungsunterlagen zu gewähren.
@@ -592,11 +623,13 @@ Prüfungsergebnisses aufzubewahren.
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE003301308)
 
 -
 
 
 ### § 26 Inkrafttreten und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE003400325)
 
 (1) Diese Verordnung tritt neun Monate nach der Verkündung in Kraft.
 
@@ -618,6 +651,7 @@ dieser Verordnung zulässig.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/strabblpv/BJNR015540988.html#BJNR015540988BJNE003500325)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Verkehr

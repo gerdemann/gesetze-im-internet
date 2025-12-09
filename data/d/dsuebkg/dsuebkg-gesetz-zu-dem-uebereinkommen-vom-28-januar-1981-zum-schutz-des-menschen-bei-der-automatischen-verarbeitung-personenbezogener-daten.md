@@ -22,17 +22,20 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ds_bkg/BJNR205380985.html#BJNR205380985BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ds_bkg/BJNR205380985.html#BJNR205380985BJNE000200308)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ds_bkg/BJNR205380985.html#BJNR205380985BJNE000301116)
 
 Die Aufgaben der von jeder Vertragspartei zum Zwecke der gegenseitigen
 Hilfeleistung nach Artikel 13 Abs. 2 Buchstabe a des Übereinkommens zu
@@ -42,12 +45,14 @@ Länder die von den Landesregierungen bezeichneten Stellen wahr.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ds_bkg/BJNR205380985.html#BJNR205380985BJNE000400308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ds_bkg/BJNR205380985.html#BJNR205380985BJNE000500308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

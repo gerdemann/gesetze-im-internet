@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000101360)
 
 Auf Grund des § 9a Abs. 1 des Handelsgesetzbuchs, der durch Artikel 1
 Nr. 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) neu gefasst
@@ -31,6 +32,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Übertragung der Führung des Unternehmensregisters
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000201360)
 
 Der Bundesanzeiger Verlag GmbH (Beliehene), eingetragen im
 Handelsregister beim Amtsgericht Köln, HRB 31248, wird die Führung des
@@ -38,6 +40,7 @@ Unternehmensregisters übertragen.
 
 
 ## § 2 Führung eines Dienstsiegels
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000301360)
 
 Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es
 wird vom Bundesministerium der Justiz und für Verbraucherschutz zur
@@ -47,6 +50,7 @@ werden.
 
 
 ## § 3 Kündigungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000401360)
 
 (1) Das durch die Übertragung der Führung des Unternehmensregisters
 begründete Auftragsverhältnis kann vor Ablauf des Zeitpunkts des
@@ -96,11 +100,13 @@ Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
 
 
 ## § 4 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000502360)
 
 Diese Verordnung tritt am 31. Dezember 2026 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ebanzv/BJNR320200006.html#BJNR320200006BJNE000701360)
 
 Der Bundesrat hat zugestimmt.
 

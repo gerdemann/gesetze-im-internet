@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 7102-47-11 v. 29.6.1998 I 1762 (MPBetreibV)
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000100000)
 
 (1) Diese Rechtsverordnung gilt für das Betreiben und Benutzen von
 Produkten nach § 3 Nummer 1 des Medizinprodukterecht-
@@ -49,6 +50,7 @@ Unfallverhütungsvorschriften bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000200000)
 
 (1) Tätigkeiten im Zusammenhang mit dem Betreiben und Benutzen von
 Produkten sind insbesondere
@@ -98,6 +100,7 @@ bereitzustellen hat.
 
 
 ## § 3 Pflichten eines Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000300000)
 
 (1) Der Betreiber hat die ihm nach dieser Verordnung obliegenden
 Pflichten wahrzunehmen, um ein sicheres und ordnungsgemäßes Betreiben
@@ -129,6 +132,7 @@ und benutzt werden.
 
 
 ## § 4 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000401128)
 
 (1) Produkte dürfen nur ihrer Zweckbestimmung entsprechend und nach
 den Vorschriften dieser Verordnung sowie den allgemein anerkannten
@@ -212,6 +216,7 @@ Fehlergrenzen einhalten.
 
 
 ## § 5 Besondere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000501128)
 
 Sofern für eine Tätigkeit nach dieser Verordnung besondere
 Anforderungen vorausgesetzt werden, darf diese Tätigkeit nur
@@ -235,6 +240,7 @@ durchführen, wer
 
 
 ## § 6 Beauftragter für Medizinproduktesicherheit
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000600000)
 
 (1) Gesundheitseinrichtungen mit regelmäßig mehr als 20 Beschäftigten
 haben sicherzustellen, dass eine sachkundige und zuverlässige Person
@@ -278,6 +284,7 @@ gemacht ist.
 
 
 ## § 7 Instandhaltung von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000701128)
 
 (1) Der Betreiber hat Produkte sowie mit Produkten verbundene
 Gegenstände instand zu halten oder instand halten zu lassen. In den
@@ -313,6 +320,7 @@ beeinträchtigt werden können.
 
 
 ## § 8 Aufbereitung von Produkten, mit Ausnahme von Einmalprodukten
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000801128)
 
 (1) Die Aufbereitung von bestimmungsgemäß keimarm oder steril zur
 Benutzung kommenden Produkten, mit Ausnahme von Einmalprodukten im
@@ -363,6 +371,7 @@ beauftragten Stelle zu kontrollieren.
 
 
 ## § 9 Aufbereitung und Weiterverwendung von Einmalprodukten
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE000901128)
 
 (1) Die Aufbereitung und Weiterverwendung von Einmalprodukten im Sinne
 des Artikels 2 Nummer 8 der Verordnung (EU) 2017/745 durch
@@ -457,6 +466,7 @@ Betreiber nach Satz 1 beauftragten Stelle zu kontrollieren.
 
 
 ## § 10 Qualitätssicherungssystem für medizinische Laboratorien
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001000000)
 
 (1) Wer laboratoriumsmedizinische Untersuchungen durchführt, hat vor
 Aufnahme dieser Tätigkeit ein Qualitätssicherungssystem nach dem Stand
@@ -477,6 +487,7 @@ ist.
 
 
 ## § 11 Betreiben und Benutzen von ausgewählten aktiven Produkten
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001101128)
 
 (1) Der Betreiber darf ein in der Anlage 1 aufgeführtes Produkt nur
 betreiben lassen und benutzen lassen, wenn zuvor der Hersteller oder
@@ -517,6 +528,7 @@ anderen Vorschriften bleiben unberührt.
 
 
 ## § 12 Sicherheitstechnische Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001201128)
 
 (1) Der Betreiber hat für Produkte nach Anlage 1 nach Maßgabe der
 Sätze 2 und 3 sicherheitstechnische Kontrollen nach den allgemein
@@ -581,6 +593,7 @@ sicherheitstechnischen Kontrollen des jeweiligen Produktes erfüllen.
 
 
 ## § 13 Medizinproduktebuch
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001300000)
 
 (1) Für die in den Anlagen 1 und 2 aufgeführten Produkte hat der
 Betreiber ein Medizinproduktebuch nach Absatz 2 zu führen. Satz 1 gilt
@@ -624,6 +637,7 @@ aufzubewahren.
 
 
 ## § 14 Bestandsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001401128)
 
 (1) Der Betreiber hat für alle aktiven nichtimplantierbaren Produkte
 der jeweiligen Betriebsstätte ein Bestandsverzeichnis zu führen. Die
@@ -658,6 +672,7 @@ gemacht werden können.
 
 
 ## § 15 Messtechnische Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001501128)
 
 (1) Der Betreiber hat für die in der Anlage 2 aufgeführten Produkte
 nach den allgemein anerkannten Regeln der Technik messtechnische
@@ -749,6 +764,7 @@ Kontrollen aufzubewahren.
 
 
 ## § 16 Besondere Pflichten bei implantierbaren Produkten
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001601128)
 
 (1) Die für die Implantation verantwortliche Gesundheitseinrichtung
 ist verpflichtet, unverzüglich nach Abschluss der Implantation eines
@@ -801,6 +817,7 @@ erforderlichen Daten des Patienten von seiner Krankenkasse verlangen.
 
 
 ## § 17 Besondere Pflichten bei bestimmter Software
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001701128)
 
 (1) Der Betreiber darf Software als Medizinprodukt der Klassen IIb und
 III nach Artikel 51 Absatz 1 in Verbindung mit Anhang VIII der
@@ -857,6 +874,7 @@ erfüllen.
 
 
 ## § 18 Produkte der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001800000)
 
 (1) Für Produkte im Bereich der Bundeswehr steht die Aufsicht über die
 Ausführung dieser Verordnung dem Bundesministerium der Verteidigung
@@ -891,6 +909,7 @@ gewährleistet ist und
 
 
 ## § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE001901128)
 
 Ordnungswidrig im Sinne des § 94 Absatz 2 Nummer 10 des
 Medizinprodukterecht-Durchführungsgesetzes handelt, wer vorsätzlich
@@ -964,6 +983,7 @@ oder fahrlässig
 
 
 ## § 20 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE002000000)
 
 (1) Sofern ein Betreiber vor dem 1. Januar 2017 ein
 Medizinproduktebuch nach § 7 in der am 31. Dezember 2016 geltenden
@@ -979,6 +999,7 @@ Verordnung ab dem 1. August 2025 anzuwenden.
 
 
 ## § 21 Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE002100000)
 
 (1) Für Geräte, die nach den Vorschriften der Medizingeräteverordnung
 in der bis zum 31. Dezember 2001 geltenden Fassung in Verkehr gebracht
@@ -1053,6 +1074,7 @@ und Medizinproduktebuch entsprechend den §§ 13 und 14.
 
 
 ## Anlage 1 (zu § 11 Absatz 1 und 2, § 12 Absatz 1 und § 13 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE002200000)
 
 (Fundstelle: BGBl. 2025 I Nr. 38, S. 12)
 
@@ -1109,6 +1131,7 @@ und
 
 
 ## Anlage 2 (zu § 4 Absatz 8, § 13 Absatz 1 und § 15 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE002302119)
 
 (Fundstelle: BGBl. 2025 I Nr. 263, S. 1 – 2)
 
@@ -1284,6 +1307,7 @@ und
 
 
 ## Anlage 3 (zu § 16 Absatz 1 und 2)
+[Direktlink](https://www.gesetze-im-internet.de/mpbetreibv_2025/BJNR0260B0025.html#BJNR0260B0025BJNE002400000)
 
    (Fundstelle: BGBl. 2025 I Nr. 38, S. 14)
 

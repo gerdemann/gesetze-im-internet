@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000200308)
 
 Dem am 8. Dezember 1990 in Warschau unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Polen über Soziale
@@ -35,16 +37,19 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000300308)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000401308)
 
 (weggefallen)
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000500308)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -78,11 +83,13 @@ Regelungen getroffen werden:
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000600308)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkpolg/BJNR207410991.html#BJNR207410991BJNE000700308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

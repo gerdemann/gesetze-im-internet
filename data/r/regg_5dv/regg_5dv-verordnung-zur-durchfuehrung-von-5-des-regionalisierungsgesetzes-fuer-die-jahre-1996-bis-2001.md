@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/regg_5dv/BJNR208700995.html#BJNR208700995BJNE000100000)
 
 Auf Grund des § 5 Abs. 3 des Regionalisierungsgesetzes vom 27.
 Dezember 1993 (BGBl. I S. 2378, 2395) verordnet das Bundesministerium
@@ -26,6 +27,7 @@ der Finanzen:
 
 
 ## § 1 Berechnung der den Ländern in den Jahren 1996 und 1997 zustehenden Beträge
+[Direktlink](https://www.gesetze-im-internet.de/regg_5dv/BJNR208700995.html#BJNR208700995BJNE000200000)
 
 Von den dem Land Berlin nach § 8 Abs. 1 Satz 1 des Gesetzes
 zustehenden Beträgen von 474,80 Millionen Deutsche Mark für 1996 und
@@ -36,6 +38,7 @@ auf 1.057,69 und für 1997 auf 4.300,91 Millionen Deutsche Mark.
 
 
 ## § 2 Berechnung der den Ländern in den Jahren 1998 bis 2001 zustehenden Beträge
+[Direktlink](https://www.gesetze-im-internet.de/regg_5dv/BJNR208700995.html#BJNR208700995BJNE000300000)
 
 Der den Ländern ab dem Jahr 1997 für den öffentlichen
 Personennahverkehr jährlich zustehende Betrag von zunächst 12
@@ -51,6 +54,7 @@ voraussichtlich ohne Änderung der Steuersätze ergeben hätte.
 
 
 ## § 3 Überweisung der an die Länder zu leistenden Beträge durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/regg_5dv/BJNR208700995.html#BJNR208700995BJNE000400000)
 
 (1) Die den Ländern nach § 5 in Verbindung mit § 8 des Gesetzes
 zustehenden Jahresbeträge werden mit je einem Zwölftel zum 15. eines
@@ -61,11 +65,13 @@ Abrechnung des Jahresbetrages erfolgt zum 15. Februar des Folgejahres.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/regg_5dv/BJNR208700995.html#BJNR208700995BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/regg_5dv/BJNR208700995.html#BJNR208700995BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

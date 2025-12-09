@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000100310)
 
 Auf Grund
 
@@ -55,12 +56,14 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwertes (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000200310)
 
 Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1996 an 37,92
 Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000300310)
 
 Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
 Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
@@ -70,6 +73,7 @@ Anpassungsfaktor beträgt 1,0434.
 
 
 ## § 3 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000400310)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
 Januar 1996 an für Arbeitsunfälle, für die § 1151 der
@@ -78,12 +82,14 @@ und 1.713 Deutsche Mark monatlich.
 
 
 ## § 4 Anpassung des allgemeinen Rentenwertes (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000500310)
 
 Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte
 beträgt vom 1. Januar 1996 an 17,51 Deutsche Mark.
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000600310)
 
 Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach
 dem 31. Dezember 1995 ergehen, sind die Angleichungsfaktoren zur
@@ -155,11 +161,13 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000700310)
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_11/BJNR158200995.html#BJNR158200995BJNE000800310)
 
 Der Bundesrat hat zugestimmt.
 

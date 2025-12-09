@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_3/BJNR100100972.html#BJNR100100972BJNE000100327)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (Bundesgesetzbl. I S. 1112) in der Fassung des Änderungsgesetzes
@@ -32,11 +33,13 @@ für Arbeit gehörenden Dienststellen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_3/BJNR100100972.html#BJNR100100972BJNE000200327)
 
 Diese Anordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_3/BJNR100100972.html#BJNR100100972BJNE000300327)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

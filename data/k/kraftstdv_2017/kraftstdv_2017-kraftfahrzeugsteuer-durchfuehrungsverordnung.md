@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000100000)
 
 Auf Grund des § 15 Absatz 1 des Kraftfahrzeugsteuergesetzes, der
 zuletzt durch Artikel 1 Nummer 11 Buchstabe a des Gesetzes vom 8. Juni
@@ -31,9 +32,11 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNG000100000)
 
 
 ### § 1 Zuständiges Hauptzollamt
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000301123)
 
 Örtlich zuständig ist
 
@@ -66,6 +69,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ### § 2 Mitwirkung des Bundesamtes für Logistik und Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000401123)
 
 Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der
 kraftfahrzeugsteuerrechtlichen Vorschriften nach § 11 Absatz 2 Nummer
@@ -73,9 +77,11 @@ kraftfahrzeugsteuerrechtlichen Vorschriften nach § 11 Absatz 2 Nummer
 
 
 ## Abschnitt 2 - Inländische Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNG000200000)
 
 
 ### § 3 Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000500000)
 
 (1) Der Halter eines inländischen Fahrzeugs hat eine Steuererklärung
 nach amtlich vorgeschriebenem Vordruck bei der Zulassungsbehörde
@@ -105,6 +111,7 @@ Abgabenordnung elektronisch übermittelt werden.
 
 
 ### § 4 Anhängerzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000600000)
 
 (1) Der Antrag auf Erhöhung der Steuer um den Anhängerzuschlag nach §
 10 Absatz 2 des Gesetzes kann bei der Zulassungsbehörde zugleich mit
@@ -120,6 +127,7 @@ Antrag, den Anhängerzuschlag nicht mehr in Anspruch nehmen zu wollen.
 
 
 ### § 5 Mitwirkung der Zulassungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000701123)
 
 (1) Die Zulassungsbehörden und die von ihnen mit der Vorbereitung und
 Durchführung der Zulassung beauftragten Stellen sind verpflichtet, bei
@@ -227,6 +235,7 @@ Datenübermittlung sichergestellt ist.
 
 
 ### § 6 Prüfung durch das Hauptzollamt
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000800000)
 
 Zur Aufklärung von Zweifeln oder Unstimmigkeiten kann sich das
 zuständige Hauptzollamt das Fahrzeug vorführen und die
@@ -235,6 +244,7 @@ Fahrzeugbrief) sowie den Steuerbescheid vorlegen lassen.
 
 
 ### § 7 Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE000901123)
 
 (1) Beabsichtigt ein Steuerpflichtiger, seinen Anspruch auf
 Steuerbefreiung, auf Steuerermäßigung oder auf Nichterhebung der
@@ -269,21 +279,25 @@ zulässig wäre.
 
 
 ### § 8 Besondere Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001000000)
 
 Für besondere Kennzeichen nach § 1 Absatz 1 Nummer 4 des Gesetzes sind
 die §§ 3 bis 7 sinngemäß anzuwenden.
 
 
 ## Abschnitt 3 - Ausländische Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNG000300000)
 
 
 ### § 9 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001100000)
 
 Für ausländische Fahrzeuge gelten, soweit in den §§ 10 bis 14 nichts
 anderes bestimmt ist, die §§ 3 bis 7 entsprechend.
 
 
 ### § 10 Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001200000)
 
 Der Steuerschuldner hat eine Steuererklärung nach amtlich
 vorgeschriebenem Vordruck abzugeben
@@ -304,6 +318,7 @@ Steuererklärung zu entrichten.
 
 
 ### § 11 Steuerfestsetzung, Steuerkarte
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001300000)
 
 (1) Die zuständige Zollstelle setzt die Steuer fest und gibt dem
 Steuerschuldner den Steuerbetrag bekannt. Die Steuer ist sofort
@@ -317,6 +332,7 @@ Ablauf eines Jahres ab dem Tag ihrer Ausstellung.
 
 
 ### § 12 Weiterversteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001400000)
 
 (1) Soll der Aufenthalt eines ausländischen Fahrzeugs im Inland über
 die Zeit, für die die Steuer entrichtet worden ist, hinaus andauern,
@@ -330,6 +346,7 @@ Kraftfahrzeugsteuer befasst ist.
 
 
 ### § 13 Mitführ- und Auskunftspflichten des Steuerschuldners
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001501123)
 
 (1) Der Steuerschuldner hat die Steuerkarte mitzuführen und auf
 Verlangen den Bediensteten der Zollverwaltung, der Polizei oder des
@@ -341,6 +358,7 @@ genannten Behörden auf Verlangen Auskunft zu erteilen.
 
 
 ### § 14 Steuererstattung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001600000)
 
 (1) Ansprüche auf Erstattung der Steuer, die sich auf Grund des § 12
 Absatz 2 Nummer 3 des Gesetzes ergeben, sind unter Rückgabe der
@@ -353,9 +371,11 @@ Gesetzes gilt sinngemäß.
 
 
 ## Abschnitt 4 - Widerrechtliche Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNG000400000)
 
 
 ### § 15 Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001700000)
 
 (1) Bei widerrechtlicher Benutzung nach § 2 Absatz 5 des Gesetzes hat
 die Person, die das Fahrzeug im Inland benutzt, unverzüglich eine
@@ -369,6 +389,7 @@ durch das Hauptzollamt festzulegenden Frist verlangen.
 
 
 ### § 16 Steuerfestsetzung, Steuererhebung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001800000)
 
 (1) Stellt eine Zollstelle fest, dass ein Fahrzeug widerrechtlich
 benutzt wird, so setzt sie die Steuer für die Dauer der
@@ -380,9 +401,11 @@ der Steuer nach den §§ 11 bis 14 erfolgen.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNG000500000)
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kraftstdv_2017/BJNR237400017.html#BJNR237400017BJNE001900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Kraftfahrzeugsteuer-Durchführungsverordnung in

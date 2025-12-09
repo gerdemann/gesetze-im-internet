@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000101309)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE001510118)
 
 (1) Die §§ 7 bis 13, 20 und 21, 22 Abs. 1 und 2 und § 23 des
 Sprengstoffgesetzes sind nicht anzuwenden auf den Erwerb, die
@@ -106,6 +108,7 @@ vom Zeitpunkt der Einfuhr an gerechnet wieder ausgeführt werden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE001605118)
 
 (1) Die §§ 5, 5f, 7 bis 16, 20, 21, 22 Abs. 1 und 2, die §§ 23, 27
 sowie § 28 des Sprengstoffgesetzes, soweit er sich auf § 16 Abs. 1 und
@@ -190,15 +193,18 @@ oder Dritter auf andere Weise gewährleistet ist.
 
 
 ### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE001709118)
 
 
 
 ### § 3a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007002377)
 
 -
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE001806118)
 
 (1) Die §§ 7 bis 13, 20, 21, 22 Absatz 1 und 2, die §§ 23, 27 sowie §
 28 des Gesetzes, soweit er sich auf § 22 Absatz 1 und 2 und § 23
@@ -238,14 +244,17 @@ nicht anzuwenden.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE001908118)
 
 
 
 ## Abschnitt II - Anforderungen an Explosivstoffe und pyrotechnische Gegenstände sowie sonstige explosionsgefährliche Stoffe und Sprengzubehör
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000206118)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002008118)
 
 (1) Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1
 und 2 des Sprengstoffgesetzes und Sprengzubehör müssen in ihrer
@@ -287,6 +296,7 @@ Gegenstand vorgesehenen Zeichen und einer fortlaufenden Kennnummer.
 
 
 ### § 6a
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007104118)
 
 (1) Die in der Anlage 5 Nummer 1 bezeichneten Sprengstoffe sind
 darüber hinaus nach Anlage 5 Nummer 2 zu markieren. Dies gilt auch für
@@ -321,6 +331,7 @@ die in geringen Mengen
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002105118)
 
 (1) Explosivstoffe, pyrotechnische Gegenstände sowie sonstige
 explosionsgefährliche Gegenstände nach § 1 Absatz 4 Nummer 1 und 2 des
@@ -345,14 +356,17 @@ aufweisen.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002207118)
 
 
 
 ## Abschnitt III - Verfahren bei der Zulassung von sonstigen explosionsgefährlichen Stoffen oder von Sprengzubehör; Führen von Listen durch die Bundesanstalt für Materialforschung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000305118)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002306118)
 
 (1) Zusammensetzung und Beschaffenheit von sonstigen
 explosionsgefährlichen Stoffen und Sprengzubehör sind an einer Probe
@@ -385,6 +399,7 @@ entsprechende Anwendung.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002405118)
 
 (1) Der Antragsteller hat in dem Antrag auf Zulassung anzugeben
 
@@ -431,11 +446,13 @@ Beschäftigter oder Dritter gewährleistet ist.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002502308)
 
 (weggefallen)
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002605118)
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung hat die
 Entscheidung über den Antrag auf Zulassung eines sonstigen
@@ -476,18 +493,22 @@ sind.
 
 
 ### § 12a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007203118)
 
 
 
 ### § 12b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007302118)
 
 
 
 ### § 12c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007402118)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002707118)
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung hat folgende
 Listen zu führen:
@@ -604,10 +625,12 @@ erhalten auf Verlangen und gegen Kostenerstattung Kopien der Listen.
 [^F797946_03_BJNR021410977BJNE002707118]: 
 
 ## Abschnitt IV - Allgemeine Vorschriften über die Kennzeichnung, die Verpackung und das Überlassen an andere
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000402308)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002808118)
 
 (1) Wer explosionsgefährliche Stoffe herstellt, einführt oder
 verbringt, darf diese anderen Personen nur überlassen, wenn
@@ -685,6 +708,7 @@ ausschließlich zum Schnüren oder zum Kessel- und Lassensprengen
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE002906118)
 
 (1) Wer explosionsgefährliche Stoffe herstellt, einführt oder
 verbringt und selbst aufbewahren oder anderen überlassen will, hat auf
@@ -730,6 +754,7 @@ die
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003004118)
 
 (1) Auf dem Explosivstoff oder dem pyrotechnischen Gegenstand dürfen
 keine Zeichen angebracht werden, die mit der CE-Kennzeichnung nach
@@ -771,6 +796,7 @@ Kennzeichnungsvorschriften dieses Abschnitts gekennzeichnet sein.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003105118)
 
 (1) Wer Explosivstoffe auf dem Markt bereitstellt, für die gemäß
 Artikel 15 der Richtlinie 2014/28/EU, auch in Verbindung mit der
@@ -889,6 +915,7 @@ den beigefügten Unterlagen angebracht werden:
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003205118)
 
 (1) Wer pyrotechnische Gegenstände auf dem Markt bereitstellt, darf
 diese anderen Personen nur überlassen, wenn diese pyrotechnischen
@@ -996,10 +1023,12 @@ aufzunehmen.
 
 
 ### § 18a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE008700118)
 
 
 
 ### § 18b
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE008800118)
 
 Wer sonstige explosionsgefährliche Stoffe herstellt, einführt oder
 verbringt, darf diese anderen Personen nur überlassen, wenn auf den
@@ -1030,6 +1059,7 @@ sind:
 
 
 ### § 18c
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE008900118)
 
 Sprengzubehör darf nur verwendet werden, wenn es mit den folgenden
 Angaben gekennzeichnet ist:
@@ -1098,6 +1128,7 @@ oder ihr überlassen werden, auf dem Markt bereitgestellt wurde.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003304118)
 
 (1) Die Bundesanstalt kann auf Antrag des Herstellers, seines in einem
 Mitgliedstaat ansässigen Bevollmächtigten oder des Einführers
@@ -1116,10 +1147,12 @@ Dritter in anderer Weise gewährleistet ist.
 
 
 ## Abschnitt V - Vertrieb, Überlassen und Verwenden pyrotechnischer Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000501309)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003406118)
 
 (1) Der Umgang und Verkehr mit pyrotechnischen Gegenständen der
 einzelnen Kategorien ist Personen nur dann gestattet, wenn sie das
@@ -1216,6 +1249,7 @@ Sprengstoffgesetzes.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003505377)
 
 (1) Soweit sich die nach § 14 Absatz 1 Satz 1 erforderliche Anleitung
 auf einzelnen Gegenständen nicht anbringen lässt, genügt die
@@ -1253,6 +1287,7 @@ angebracht ist.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003606119)
 
 (1) Pyrotechnische Gegenstände der Kategorie 2 dürfen dem Verbraucher
 im Jahr 2021 nicht und in anderen Jahren nur in der Zeit vom 29. bis
@@ -1273,6 +1308,7 @@ und mit diesen Gegenständen umgehen dürfen.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003707118)
 
 (1) Das Abbrennen pyrotechnischer Gegenstände in unmittelbarer Nähe
 von Kirchen, Krankenhäusern, Kinder- und Altersheimen sowie besonders
@@ -1355,6 +1391,7 @@ Schutzabstände entsprechend der Anlage 6 zu ermitteln und einzuhalten.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003803118)
 
 (1) Die zuständige Behörde kann allgemein oder im Einzelfall von den
 Verboten des § 20 Absatz 1, des § 22 Absatz 1 und des § 23 Absatz 1
@@ -1379,10 +1416,12 @@ Eine allgemeine Anordnung ist öffentlich bekanntzugeben.
 
 
 ## Abschnitt VI - Sonstige Vorschriften über explosionsgefährliche Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000601309)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE003907118)
 
 (1) Explosivstoffe, pyrotechnische Gegenstände und sonstige
 explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 des
@@ -1429,10 +1468,12 @@ Sprengstoffgesetzes auf Aufforderung nachgewiesen werden kann.
 
 
 ### § 25a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007505118)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004003377)
 
 (1) Bei der nichtgewerblichen Herstellung von Patronen sind
 Ladearbeiten und der sonstige Umgang mit Treibladungspulver und
@@ -1456,6 +1497,7 @@ höchstzulässigen Gasdruck nicht überschreiten.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004103377)
 
 (1) Brückenzünder Klasse I und Brückenanzünder A dürfen zum Sprengen
 nicht verwendet werden.
@@ -1466,6 +1508,7 @@ werden, dürfen keinen unterschiedlichen Widerstandsgruppen angehören.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004202309)
 
 (1) Explosionsgefährliche Stoffe dürfen nicht vertrieben, anderen
 überlassen oder verwendet werden, wenn sie ganz oder teilweise stammen
@@ -1505,10 +1548,12 @@ explosionsgefährliche Stoffe verpflichtet haben.
 
 
 ## Abschnitt VII - Fachkunde und Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000701309)
 
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004303308)
 
 (1) Die in der Prüfung nach § 9 Abs. 1 Nr. 2 und in der Prüfung nach §
 9 Abs. 1 Nr. 2 in Verbindung mit § 27 Abs. 3 Satz 3 des Gesetzes
@@ -1548,6 +1593,7 @@ rechtmäßig nicht oder überwiegend nicht ausgeübt hat.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004402308)
 
 (1) Die Prüfung nach § 9 Abs. 1 Nr. 2 des Gesetzes ist vor einem
 Vertreter der zuständigen Behörde in Anwesenheit einer anderen
@@ -1564,6 +1610,7 @@ Behörde allein abgelegt werden.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004502377)
 
 (1) Die Prüfung ist mündlich abzulegen; es können zusätzlich
 schriftliche Prüfungsfragen gestellt werden. Zum Nachweis der
@@ -1589,10 +1636,12 @@ bestimmten Frist wiederholt werden darf.
 
 
 ## Abschnitt VIII - Staatlich anerkannte Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000801309)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004605377)
 
 (1) Von der zuständigen Behörde werden Lehrgänge zur Vermittlung der
 Fachkunde für den Umgang und Verkehr mit explosionsgefährlichen
@@ -1719,6 +1768,7 @@ laufen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004703377)
 
 (1) Grundlehrgänge dürfen nur anerkannt werden, wenn
 
@@ -1783,6 +1833,7 @@ Wiederholungslehrgänge entsprechend anzuwenden.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004803377)
 
 (1) Der Antragsteller ist zu einem Lehrgang zuzulassen, wenn bei ihm
 Versagungsgründe nach § 8 Abs. 1 Nr. 1 und 2 Buchstabe b und c des
@@ -1816,6 +1867,7 @@ entsprechende Anwendung.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE004903308)
 
 (1) Zu einem Grund- oder Sonderlehrgang zur Durchführung von
 Sprengarbeiten oder zum Abbrennen von Großfeuerwerken ist der
@@ -1897,6 +1949,7 @@ festgesetzt werden.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005002309)
 
 (1) Der Grundlehrgang ist mit einer theoretischen und einer
 praktischen Prüfung abzuschließen. Die Prüfung kann ganz oder
@@ -1936,6 +1989,7 @@ Lehrgang gilt § 29 Abs. 2 entsprechend.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005103377)
 
 Die §§ 32 und 33 sowie 34 Absatz 3 und 4, §§ 35 bis 36 gelten nicht
 für Lehrgänge für Personen aus Betrieben, die der Bergaufsicht
@@ -1947,10 +2001,12 @@ erbracht.
 
 
 ## Abschnitt IX - Beseitigung von Zugangsbeschränkungen, Nachweis der Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG000903360)
 
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005202308)
 
 (1) Auf Ausländer, die Staatsangehörige eines Mitgliedstaates der
 Europäischen Union (EU) sind, ist § 8 Abs. 2 Nr. 1 des Gesetzes nicht
@@ -2000,6 +2056,7 @@ Sicherheit oder Ordnung im Einzelfall erforderlich ist.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005304360)
 
 (1) Der Nachweis der Fachkunde im Sinne des § 9 des Gesetzes ist für
 die den Antrag stellende Person als erbracht anzusehen
@@ -2115,6 +2172,7 @@ ausgeübt wird.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005405118)
 
 (1) Als Nachweis einer erforderlichen Vermittlung der Fachkunde im
 Sinne des § 9 Absatz 1 des Gesetzes werden solche im Ausland
@@ -2172,6 +2230,7 @@ Berufsqualifikationsfeststellungsgesetzes anzuwenden.
 
 
 ### § 40a
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007602360)
 
 (1) Vor der erstmaligen Erbringung einer nur vorübergehenden und
 gelegentlichen Dienstleistung im Inland, welche den Zugang zu dem
@@ -2199,10 +2258,12 @@ werden im Bundesanzeiger bekannt gemacht.
 
 
 ## Abschnitt X - Führung, Inhalt, Aufbewahrung und Vorlage des Verzeichnisses nach § 16 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG001001309)
 
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005505118)
 
 (1) Das Verzeichnis nach § 16 des Gesetzes ist unterteilt nach der Art
 der explosionsgefährlichen Stoffe und der Zündmittel zu führen.
@@ -2261,6 +2322,7 @@ Abschluss des Verzeichnisses nicht mehr verändert werden können.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005602377)
 
 (1) Das Verzeichnis muß mindestens enthalten:
 
@@ -2332,6 +2394,7 @@ vermerken.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005702360)
 
 Auf die Führung des Verzeichnisses nach § 28 in Verbindung mit § 16
 des Gesetzes sind die §§ 41 und 42 Abs. 1 und 2 mit folgender Maßgabe
@@ -2352,6 +2415,7 @@ entsprechend anzuwenden:
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005802377)
 
 (1) Die zuständige Behörde kann im Einzelfall von den Vorschriften
 über Führung, Inhalt, Aufbewahrung und Vorlage des Verzeichnisses nach
@@ -2374,10 +2438,12 @@ Kennzeichnung nach § 14 Absatz 1 Nummer 5 erfasst wird.
 
 
 ## Abschnitt XI - Sachverständigenausschuß
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG001101309)
 
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE005909128)
 
 (1) Beim Bundesministerium des Innern, für Bau und Heimat wird ein
 Sachverständigenausschuß für explosionsgefährliche Stoffe gebildet.
@@ -2470,10 +2536,12 @@ aus.
 
 
 ## Abschnitt XII - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG001201309)
 
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006008118)
 
 Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Sprengstoffgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -2561,6 +2629,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006105118)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 41 Absatz 1 Nummer 1 bis 1b, 2, 2a und 3
@@ -2569,10 +2638,12 @@ Materialforschung und -prüfung übertragen.
 
 
 ## Abschnitt XIII - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNG001301309)
 
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006202309)
 
 Lehrgangsträgern, denen die Anerkennung für Lehrgänge zur Vermittlung
 der Fachkunde für den Umgang und Verkehr mit explosionsgefährlichen
@@ -2583,6 +2654,7 @@ Zuverlässigkeit nicht mehr besitzen.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007703118)
 
 (1) § 17 Absatz 1 bis 3 ist ab dem 5. April 2013 anzuwenden; § 41
 Absatz 5a und § 42 Absatz 1 Nummer 5 sind ab dem 5. April 2015
@@ -2609,12 +2681,14 @@ Gebrauchsanleitung aufgenommen werden.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006401309)
 
 (Inkrafttreten, Außerkrafttreten)
 
 (zu § 6 Absatz 1)
 
 ### Anlage 1 Anforderungen an die Zusammensetzung und die Beschaffenheit von sonstigen explosionsgefährlichen Stoffen und von Sprengzubehör
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006507118)
 
 (Fundstelle: BGBl. I 2009, 2079 - 2084;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3270,6 +3344,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6 Absatz 3 und § 17 Absatz 5)
 
 ### Anlage 2 Anforderungen an die Zusammensetzung und Beschaffenheit von elektrischen Brückenzündern der Typen A, U und HU, an die Kategorisierung pyrotechnischer Sätze sowie an die Klassifizierung von Wettersprengstoffen und Wettersprengschnüren
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007804118)
 
 (Fundstelle: BGBl. I 2017, 1625 — 1626)
 
@@ -3443,10 +3518,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006708118)
 
 
 
 ### Anlage 4 Zeichen für Sprengzubehör nach § 6 Absatz 4 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE006604118)
 
 (Fundstelle: BGBl. I 1998, 1565 - 1566;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3574,6 +3651,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 5 Markierung von Sprengstoffen nach § 6a Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE007902377)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1575;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3650,6 +3728,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 18 Absatz 7 und § 23 Absatz 8)
 
 ### Anlage 6 Schutzabstände für das Verwenden von pyrotechnischen Gegenständen der Kategorien F4 (Feuerwerkskörper) und T2 (pyrotechnische Gegenstände für Bühne und Theater)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_1/BJNR021410977.html#BJNR021410977BJNE008502118)
 
 (Fundstelle: BGBl. I 2017, 1627 — 1631)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der
@@ -29,9 +30,11 @@ verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNG000100000)
 
 
 ### § 1 Diplomstudium
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000300000)
 
 Das Diplomstudium „Wetterdienst“ an der Fachhochschule des Bundes für
 öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst
@@ -39,6 +42,7 @@ für den gehobenen Wetterdienst des Bundes.
 
 
 ### § 2 Studienziele
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000400000)
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
 sowohl die wissenschaftlichen Kenntnisse und Methoden als auch die
@@ -53,6 +57,7 @@ Bundesverwaltung gerecht werden zu können.
 
 
 ### § 3 Dienstbehörden, Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000500000)
 
 (1) Der Deutsche Wetterdienst ist Einstellungsbehörde für Studierende,
 die nach Beendigung der Ausbildung ihren Dienst beim Deutschen
@@ -85,6 +90,7 @@ unterstehen sie der Dienstaufsicht der Leitungen dieser Behörden.
 
 
 ### § 4 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000600000)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer neben den
 allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
@@ -114,6 +120,7 @@ allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
 
 
 ### § 5 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000700000)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen
@@ -171,6 +178,7 @@ gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
 
 ### § 6 Schwerbehinderte und diesen gleichgestellte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000800000)
 
 (1) Schwerbehinderten und diesen gleichgestellten Menschen werden in
 den Auswahl- und Prüfungsverfahren sowie zum Erbringen von
@@ -186,11 +194,13 @@ Prüfungsamt.
 
 
 ### § 7 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE000900000)
 
 Die Fachhochschule bestimmt die Zeiten des Erholungsurlaubs.
 
 
 ### § 8 Dauer des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001000000)
 
 (1) Der Vorbereitungsdienst dauert drei Jahre.
 
@@ -204,6 +214,7 @@ der zielgerichteten Gestaltung des Vorbereitungsdienstes entsprechen.
 
 
 ### § 9 Ausbildungsakten
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001100000)
 
 Für die Studierenden werden beim Deutschen Wetterdienst
 Ausbildungsakten geführt, in die der Ausbildungsplan, alle
@@ -212,9 +223,11 @@ sind.
 
 
 ## Teil 2 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNG000200000)
 
 
 ### § 10 Aufbau des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001200000)
 
 (1) Die im Studium zu vermittelnden Kenntnisse und Fähigkeiten
 orientieren sich an den Anforderungen des gehobenen Wetterdienstes.
@@ -290,6 +303,7 @@ die Art der Leistungsnachweise.
 
 
 ### § 11 Fachhochschule
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001300000)
 
 Die Dienstbehörden weisen die Aufstiegsbeamtinnen und Aufstiegsbeamten
 dem Zentralbereich der Fachhochschule zum Grundstudium und dem
@@ -299,6 +313,7 @@ Aufgabe.
 
 
 ### § 12 Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001400000)
 
 (1) Studieninhalte des Grundstudiums, die sich an allgemeinen Aufgaben
 des gehobenen Dienstes ausrichten, sind:
@@ -369,6 +384,7 @@ die folgenden Studieninhalte ergänzt, erweitert und vertieft:
 
 
 ### § 13 Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001500000)
 
 (1) Während der Praktika, die auch praxisbezogene Lehrveranstaltungen
 umfassen, erwerben die Studierenden Fachkenntnisse und Fähigkeiten als
@@ -398,6 +414,7 @@ Beurteilungen sind mit den Studierenden zu besprechen.
 
 
 ### § 14 Ausbildungsstelle, Ausbildungsleitung, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001600000)
 
 (1) Jede Behörde oder Dienststelle, der Studierende zur Ausbildung
 zugewiesen werden (Ausbildungsstelle), bestellt eine
@@ -418,6 +435,7 @@ die Ausbildungsleitung regelmäßig über den Ausbildungsstand.
 
 
 ### § 15 Leistungsnachweise während des Grundstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001700000)
 
 Während des Grundstudiums sind vier schriftliche Aufsichtsarbeiten
 anzufertigen, deren Aufgabenschwerpunkte jeweils einem der
@@ -426,6 +444,7 @@ Inhalte nach § 12 Absatz 1 Nummer 6 können berücksichtigt werden.
 
 
 ### § 16 Leistungsnachweise während des Hauptstudiums und der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001800000)
 
 (1) Während des Hauptstudiums sind mindestens zwölf Leistungsnachweise
 zu erbringen, die mindestens eine Woche im Voraus angekündigt werden,
@@ -486,9 +505,11 @@ Einzelbewertungen.
 
 
 ## Teil 3 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNG000300000)
 
 
 ### § 17 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE001900000)
 
 (1) Um das Grundstudium abzuschließen, haben die Studierenden in einer
 Zwischenprüfung nachzuweisen, dass sie den Wissens- und Kenntnisstand
@@ -524,6 +545,7 @@ worden sind und wie viele Rangpunkte erzielt worden sind.
 
 
 ### § 18 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002000000)
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der
 Zwischenprüfung, den Leistungsnachweisen im Hauptstudium, den
@@ -534,6 +556,7 @@ naturwissenschaftlichen Dienstes des Bundes festzustellen.
 
 
 ### § 19 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002101116)
 
 Für die Organisation und Durchführung der Diplomarbeit und der
 schriftlichen und mündlichen Diplomprüfung richtet der Deutsche
@@ -543,6 +566,7 @@ ganz oder teilweise auf andere Behörden übertragen.
 
 
 ### § 20 Prüfende, Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002200000)
 
 (1) Das Prüfungsamt bestellt Prüfende für die Bewertung der
 Diplomarbeit, richtet für die schriftliche und die mündliche
@@ -601,6 +625,7 @@ Kenntnis von der Bewertung durch die Erstprüfenden haben.
 
 
 ### § 21 Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002301116)
 
 (1) In der Diplomarbeit sollen die Studierenden nachweisen, dass sie
 fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -638,6 +663,7 @@ Studierenden ein Zeugnis aus.
 
 
 ### § 22 Schriftliche Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002400000)
 
 (1) Die schriftliche Diplomprüfung besteht aus sechs schriftlichen
 Aufsichtsarbeiten. Zugelassen wird, wer mit Erfolg die Zwischenprüfung
@@ -695,6 +721,7 @@ bewertet worden sind.
 
 
 ### § 23 Mündliche Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002502116)
 
 (1) Wer die schriftliche Diplomprüfung bestanden hat, wird vom
 Prüfungsamt zur mündlichen Diplomprüfung zugelassen. Das Prüfungsamt
@@ -746,6 +773,7 @@ Durchschnittsrangpunktzahl 5 erreicht worden ist.
 
 
 ### § 24 Bewertung von Prüfungsleistungen und Leistungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002600000)
 
 (1) Die Prüfungsleistungen und Leistungsnachweise werden mit
 Rangpunkten und der sich daraus ergebenden Note bewertet. Die
@@ -892,6 +920,7 @@ Mittel der Rangpunkte, die in den Einzelprüfungen erzielt wurden.
 
 
 ### § 25 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002701116)
 
 (1) Bei Fernbleiben oder Rücktritt von der Diplomarbeit, der
 schriftlichen oder mündlichen Diplomprüfung oder eines ihrer Teile
@@ -917,6 +946,7 @@ Diplomarbeit als nicht begonnen.
 
 
 ### § 26 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002800000)
 
 (1) Studierenden, die bei der Diplomprüfung oder bei einem ihrer Teile
 eine Täuschung versuchen oder daran mitwirken oder sonst gegen die
@@ -953,6 +983,7 @@ erklären.
 
 
 ### § 27 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE002900000)
 
 (1) Wer die Zwischenprüfung nicht bestanden hat, kann sie frühestens
 einen Monat nach Bekanntgabe des Gesamtergebnisses der Zwischenprüfung
@@ -995,6 +1026,7 @@ entsprechend.
 
 
 ### § 28 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE003000000)
 
 (1) Im Anschluss an die mündliche Prüfung errechnet die
 Prüfungskommission die Rangpunktzahl der Laufbahnprüfung. Dabei werden
@@ -1038,6 +1070,7 @@ Wunsch kurz.
 
 
 ### § 29 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE003101116)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
 und eine Urkunde über die Verleihung des Diplomgrades. Auf Antrag
@@ -1068,6 +1101,7 @@ wurden.
 
 
 ### § 30 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE003200000)
 
 (1) Die schriftlichen Prüfungsleistungen nach § 17 Absatz 2 Satz 1 und
 § 22 Absatz 1 Satz 2, die Diplomarbeit, eine Ausfertigung des
@@ -1084,9 +1118,11 @@ Einsicht in ihre Prüfungsakten nehmen.
 
 
 ## Teil 4 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNG000400000)
 
 
 ### § 31 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE003300000)
 
 Für Studierende, die bis zum Inkrafttreten dieser Verordnung mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über die
@@ -1098,6 +1134,7 @@ die zuletzt durch Artikel 3 Absatz 17 der Verordnung vom 12. Februar
 
 
 ### § 32 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE003400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und
@@ -1109,6 +1146,7 @@ Artikel 3 Absatz 17 der Verordnung vom 12. Februar 2009 (BGBl. I S.
 
 
 ### Anlage (zu § 29 Absatz 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/gwdaprv/BJNR102500011.html#BJNR102500011BJNE003500000)
 
 (Fundstelle: BGBl. I 2011, 1034)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2006-12/BJNR282700006.html#BJNR282700006BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. November 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
@@ -56,11 +57,13 @@ entstanden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2006-12/BJNR282700006.html#BJNR282700006BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2006-12/BJNR282700006.html#BJNR282700006BJNE000300000)
 
 (Fundstelle: BGBl. I 2006, 2827)
 ![bgbl1_2006_j2827_0010.jpg](bgbl1_2006_j2827_0010.jpg)

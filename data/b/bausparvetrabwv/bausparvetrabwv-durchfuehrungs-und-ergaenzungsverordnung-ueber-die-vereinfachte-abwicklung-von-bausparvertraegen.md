@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000100328)
 
 Auf Grund des § 7 des - nachstehend Notverordnung genannten - Kapitels
 V des Ersten Teils der Verordnung des Reichspräsidenten über Maßnahmen
@@ -28,11 +29,13 @@ Reichsarbeitsminister verordnet:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000200328)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000300328)
 
 Von der Zahlung weiterer Beiträge befreit (§ 1 Abs. 2 Satz 1 der
 Notverordnung) sind die Bausparer auch, soweit Sparbeiträge bei
@@ -44,6 +47,7 @@ entfallen, der vor der Anordnung der vereinfachten Abwicklung liegt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000400328)
 
 Bei der vorranglosen Befriedigung aller Bausparer (§ 1 Abs. 2 Satz 4
 der Notverordnung) bewendet es auch, wenn ein Bausparvertrag
@@ -55,6 +59,7 @@ nicht aufrechnen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000500328)
 
 Rechte, die ein Bausparer zur Sicherung der aus dem Bausparvertrag
 sich ergebenden Leistungs-, Schadenersatz- oder Bereicherungsansprüche
@@ -63,6 +68,7 @@ Abwicklung.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000600328)
 
 Ordnet das
 Reichsaufsichtsamt die vereinfachte Abwicklung an, nachdem eine
@@ -71,6 +77,7 @@ es bestimmen, daß seine Anordnung wie ein Auflösungsbeschluß wirkt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000700328)
 
 Diese Verordnung tritt mit Wirkung vom 16. Juni 1932 in Kraft.
 Unberührt bleiben Anerkenntnisse, Vergleiche und rechtskräftige
@@ -85,6 +92,7 @@ unverhältnismäßige Mühewaltung verursachen würde.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bausparvetrabwv/BJNR003720933.html#BJNR003720933BJNE000800328)
 
 Der Reichswirtschaftsminister
 

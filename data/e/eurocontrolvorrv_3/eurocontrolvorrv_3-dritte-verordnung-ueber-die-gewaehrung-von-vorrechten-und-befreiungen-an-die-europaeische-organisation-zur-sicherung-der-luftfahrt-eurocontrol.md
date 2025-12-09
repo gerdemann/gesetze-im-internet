@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_3/BJNR214460980.html#BJNR214460980BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_3/BJNR214460980.html#BJNR214460980BJNE000200314)
 
 Die Gehälter und sonstigen Bezüge des Generaldirektors der Agentur und
 der Mitglieder des Personals der Europäischen Organisation zur
@@ -44,6 +46,7 @@ veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_3/BJNR214460980.html#BJNR214460980BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über den
@@ -56,6 +59,7 @@ auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_3/BJNR214460980.html#BJNR214460980BJNE000400314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Protokoll
 nach seinem Artikel 3 Abs. 3 für die Bundesrepublik Deutschland in

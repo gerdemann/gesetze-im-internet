@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE000600311)
 
 Auf Grund des § 78 des Vierten Buches Sozialgesetzbuch (Artikel I des
 Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845) sowie, jeweils in
@@ -48,10 +49,12 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Erster Abschnitt - Aufstellung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNG000100311)
 
 
 
 ### § 1 Veranschlagung und Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE000700311)
 
 (1) Im Haushaltsplan sind die Einnahmen nach dem Entstehungsgrund, die
 Ausgaben und die Verpflichtungsermächtigungen nach Zwecken getrennt zu
@@ -78,6 +81,7 @@ abweichend vom Kontenrahmen in einer Haushaltsstelle
 
 
 ### § 2 Abgrenzung nach Haushaltsjahren
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE000800311)
 
 Die Einnahmen und Ausgaben sind für das Haushaltsjahr zu
 veranschlagen, für das sie nach den für die einzelnen
@@ -86,6 +90,7 @@ Verwaltungsvorschriften über das Rechnungswesen zu buchen sind.
 
 
 ### § 3 Grundsatz der Gesamtdeckung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE000901308)
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die
 Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden,
@@ -94,6 +99,7 @@ zugelassen ist.
 
 
 ### § 4 Vorbemerkung, Übersichten zum Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001000311)
 
 (1) In einer Vorbemerkung zum Haushaltsplan sollen Einnahmen und
 Ausgaben nach wichtigen Bereichen dargelegt werden.
@@ -121,6 +127,7 @@ Haushaltsplan insbesondere folgende Anlagen beizufügen:
 
 
 ### § 5 Bruttoveranschlagung, Vollständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001102308)
 
 (1) Die Einnahmen und Ausgaben sind in voller Höhe und getrennt
 voneinander zu veranschlagen. Dies gilt nicht, soweit Ausnahmen in den
@@ -161,6 +168,7 @@ Veränderungen enthalten.
 
 
 ### § 6 Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001200311)
 
 (1) Verpflichtungsermächtigungen sind zu veranschlagen, wenn die
 Ermächtigung zum Eingehen von Verpflichtungen, die zu Ausgaben in
@@ -192,6 +200,7 @@ insbesondere nicht
 
 
 ### § 7 Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001301308)
 
 (1) Einnahmen, Ausgaben und Verpflichtungsermächtigungen sind, soweit
 erforderlich, zu erläutern. Erläuterungen können ausnahmsweise für
@@ -216,6 +225,7 @@ Besoldungsgruppen oder eine betragsmäßige Ausweisung erfolgen.
 
 
 ### § 8 Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001401308)
 
 Ausgaben für Investitionen und Ausgaben aus zweckgebundenen Einnahmen
 sind übertragbar. Andere Ausgaben können im Haushaltsplan für
@@ -224,6 +234,7 @@ sparsame Verwendung fördert.
 
 
 ### § 9 Deckungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001501308)
 
 (1) Deckungsfähig sind
 
@@ -250,6 +261,7 @@ Verwendung gefördert wird.
 
 
 ### § 10 Sperrvermerk
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001601308)
 
 (1) Ausgaben, die aus besonderen Gründen zunächst noch nicht geleistet
 oder zu deren Lasten noch keine Verpflichtungen eingegangen werden
@@ -266,6 +278,7 @@ dieser an die Stelle der Vertreterversammlung.
 
 
 ### § 11 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001701308)
 
 (1) Ausgaben und Verpflichtungsermächtigungen für Baumaßnahmen mit
 Ausnahme der Planungskosten dürfen erst veranschlagt werden, wenn
@@ -291,6 +304,7 @@ noch nicht vorliegen, sind gesperrt.
 
 
 ### § 12 Wirtschaftspläne der Eigenbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001801308)
 
 Eigenbetriebe des Versicherungsträgers haben einen Wirtschaftsplan
 aufzustellen, wenn ein Wirtschaften nach Einnahmen und Ausgaben des
@@ -310,10 +324,12 @@ Besoldungsgruppen oder eine betragsmäßige Ausweisung erfolgen.
 
 
 ## Zweiter Abschnitt - Ausführung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNG000200311)
 
 
 
 ### § 13 Bruttonachweis, Einzelnachweis
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE001900311)
 
 (1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei der
 hierfür vorgesehenen Haushaltsstelle zu buchen, soweit sich aus § 5
@@ -326,6 +342,7 @@ Verpflichtungsermächtigungen.
 
 
 ### § 14 Aufhebung der Sperre
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002001308)
 
 Nur mit vorheriger Zustimmung des Vorstands dürfen Ausgaben, die im
 Haushaltsplan als gesperrt bezeichnet sind, geleistet sowie
@@ -339,6 +356,7 @@ besteht, tritt dieser an die Stelle der Vertreterversammlung.
 
 
 ### § 15 Überplanmäßige und außerplanmäßige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002100311)
 
 (1) Überplanmäßige Ausgaben bei gesetzlich oder satzungsmäßig
 vorgesehenen Leistungsausgaben können unabhängig von ihrer Höhe durch
@@ -352,6 +370,7 @@ kann Ausnahmen zulassen.
 
 
 ### § 16 Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002200311)
 
 Die Inanspruchnahme von Verpflichtungsermächtigungen bedarf der
 Einwilligung des Vorstands. Er kann auf seine Befugnis insbesondere
@@ -360,6 +379,7 @@ einer Überschreitung der Jahresbeträge (§ 6 Abs. 2 Satz 2) führt.
 
 
 ### § 17 Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002300311)
 
 Leistungen an Stellen außerhalb des Versicherungsträgers zur Erfüllung
 bestimmter Zwecke (Zuwendungen) dürfen nur im Rahmen der gesetzlich
@@ -371,6 +391,7 @@ Beauftragten festzulegen.
 
 
 ### § 18 Sachliche und zeitliche Bindung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002400311)
 
 (1) Die Ausgaben und Verpflichtungsermächtigungen dürfen nur zu dem im
 Haushaltsplan bezeichneten Zweck, soweit und solange er fortdauert,
@@ -396,6 +417,7 @@ bewilligte Maßnahmen noch im nächsten Haushaltsjahr zu leisten sind.
 
 
 ### § 19 Deckungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002500311)
 
 Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach
 Maßgabe des § 9 Abs. 1 oder des Deckungsvermerks zugunsten einer
@@ -403,6 +425,7 @@ anderen Ausgabe verwendet werden.
 
 
 ### § 20 Einweisung in eine Planstelle für Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002601126)
 
 (1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare
 Planstelle für Beamtinnen und Beamte verliehen werden.
@@ -422,6 +445,7 @@ Vorschriften unzulässig ist.
 
 
 ### § 21 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002701308)
 
 (1) Baumaßnahmen, die nach § 85 Abs. 2 des Vierten Buches
 Sozialgesetzbuch genehmigungspflichtig sind, dürfen nur begonnen
@@ -437,6 +461,7 @@ ausreichende Unterlagen zugrunde zu legen.
 
 
 ### § 22 Öffentliche Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002802126)
 
 (1) Bei der Vergabe öffentlicher Aufträge und dem Abschluss von
 Rahmenvereinbarungen unterhalb der jeweiligen EU-Schwellenwerte ist zu
@@ -460,12 +485,14 @@ Versicherungsträger und ihre Verbände sind zu beachten.
 
 
 ### § 23 Vorleistungen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE002900311)
 
 Vorleistungen dürfen nur vereinbart oder bewirkt werden, wenn dies
 allgemein üblich oder durch besondere Umstände gerechtfertigt ist.
 
 
 ### § 24 Veräußerung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003000311)
 
 (1) Vermögensgegenstände dürfen nur veräußert werden, wenn sie zur
 Erfüllung der Aufgaben des Versicherungsträgers in absehbarer Zeit
@@ -483,6 +510,7 @@ die Absätze 1 bis 3 entsprechend.
 
 
 ### § 25 Beteiligung an privatrechtlichen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003101308)
 
 (1) Der Versicherungsträger soll sich an der Gründung eines
 Unternehmens in einer Rechtsform des privaten Rechts oder an einem
@@ -539,10 +567,12 @@ Versicherungsträgers berücksichtigen.
 
 
 ## Dritter Abschnitt - Zahlungen, Buchführung, Rechnungslegung, interne Rechnungsprüfung und Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNG000300311)
 
 
 
 ### § 26 Weitergelten von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003200311)
 
 Soweit durch Gesetz oder in dieser Verordnung nichts Abweichendes oder
 Gleichlautendes bestimmt ist, sind hinsichtlich der Zahlungen,
@@ -553,12 +583,14 @@ anzuwenden.
 
 
 ### § 26a Buchführung der Eigenbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE004400308)
 
 Eigenbetriebe, die nach § 12 einen Wirtschaftsplan aufstellen, haben
 nach den Regeln der kaufmännischen doppelten Buchführung zu buchen.
 
 
 ### § 27 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003301308)
 
 (1) Die Jahresrechnung umfaßt die Haushaltsrechnung (§ 28) und die
 Vermögensrechnung (§ 29).
@@ -570,6 +602,7 @@ einen Lagebericht in entsprechender Anwendung der Vorschriften des §
 
 
 ### § 28 Gliederung der Haushaltsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003400311)
 
 (1) In der Haushaltsrechnung sind Einnahmen und Ausgaben in der
 Gliederung des von den Versicherungsträgern jeweils angewandten
@@ -582,6 +615,7 @@ erforderlich, zu erläutern.
 
 
 ### § 29 Vermögensrechnung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003500311)
 
 (1) In der Vermögensrechnung sind der Bestand des Vermögens und der
 Schulden zu Beginn des Haushaltsjahrs, die wesentlichen Veränderungen
@@ -596,6 +630,7 @@ erheblichen verwaltungsmäßigen Mehraufwand erfordert.
 Anhang zur
 
 ### § 29a Jahresrechnung der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE004501308)
 
 (1) Die Krankenversicherungsträger und ihre Verbände haben als Teil
 der Jahresrechnung einen Anhang zu erstellen.
@@ -708,12 +743,14 @@ Landwirtschaft, Forsten und Gartenbau.
 
 
 ### § 30 Übersichten zur Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003600311)
 
 Der Jahresrechnung sind Übersichten über die überplanmäßigen und
 außerplanmäßigen Ausgaben einschließlich der Vorgriffe beizufügen.
 
 
 ### § 31 Interne Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003701308)
 
 Die Jahresrechnung ist durch die für den Versicherungsträger
 eingerichteten Prüfstellen oder, wenn ständige Prüfstellen nicht
@@ -725,6 +762,7 @@ Prüfers nach Satz 1 durch den Verwaltungsrat.
 
 
 ### § 32 Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003801308)
 
 Der Vorstand hat die geprüfte Jahresrechnung zusammen mit dem
 Prüfbericht und einer Stellungnahme zu den Feststellungen des
@@ -735,10 +773,12 @@ Vertreterversammlung.
 
 
 ## Vierter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNG000400311)
 
 
 
 ### § 33 Beauftragter für den Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE003900311)
 
 (1) Bei jedem Versicherungsträger hat der Geschäftsführer einen
 Beauftragten für den Haushalt zu bestellen, soweit er diese Aufgaben
@@ -753,10 +793,12 @@ Haushaltsplans übertragen.
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNG000500311)
 
 
 
 ### § 34 Verbände, Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE004000311)
 
 Für die Verbände und die sonstigen Vereinigungen auf dem Gebiet der
 Sozialversicherung, die Körperschaften des öffentlichen Rechts sind,
@@ -764,6 +806,7 @@ gelten die Vorschriften dieser Verordnung entsprechend.
 
 
 ### § 35 Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE004101308)
 
 Die Vorschriften dieser Verordnung über Veranschlagung und
 Bewirtschaftung der Personalausgaben gelten nicht für die
@@ -772,12 +815,14 @@ Personal bestellt.
 
 
 ### § 36 Anwendungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE004202308)
 
 § 29a ist erstmals auf die Jahresrechnung für das Geschäftsjahr 2010
 anzuwenden.
 
 
 ### § 37 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svhv/BJNR031470977.html#BJNR031470977BJNE004300311)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie ist
 erstmals für die Aufstellung des Haushaltsplans 1979 anzuwenden.

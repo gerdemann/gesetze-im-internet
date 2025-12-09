@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000100328)
 
 Auf Grund des § 43 Abs. 1 Satz 1 Nr. 1 des
 Bundesimmissionsschutzgesetzes vom 15. März 1974 (BGBl. I S. 721,
@@ -28,6 +29,7 @@ Kreise:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000200328)
 
 (1) Die Verordnung gilt für den Bau oder die wesentliche Änderung von
 öffentlichen Straßen sowie von Schienenwegen der Eisenbahnen und
@@ -55,6 +57,7 @@ Gewerbegebieten.
 
 
 ## § 2 Immissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000302125)
 
 (1) Zum Schutz der Nachbarschaft vor schädlichen Umwelteinwirkungen
 durch Verkehrsgeräusche ist bei dem Bau oder der wesentlichen Änderung
@@ -140,6 +143,7 @@ erforderlich sind.
 
 
 ## § 3 Berechnung des Beurteilungspegels für Straßen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000402125)
 
 (1) Der Beurteilungspegel für Straßen ist nach Abschnitt 3 in
 Verbindung mit Abschnitt 1 der Richtlinien für den Lärmschutz an
@@ -172,6 +176,7 @@ Straßendeckschichtkorrektur in die Berechnung eingestellt wird.
 
 
 ## § 3a Festlegung der Straßendeckschichtkorrektur
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE001000125)
 
 (1) Für eine Bauweise, die keinem Straßendeckschichttyp entspricht,
 der aufgeführt ist in der jeweils jüngsten veröffentlichten Fassung
@@ -225,6 +230,7 @@ Maßgabe der Absätze 1 und 2 festgelegt und bekanntgemacht wird.
 
 
 ## § 4 Berechnung des Beurteilungspegels für Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000502116)
 
 (1) Der Beurteilungspegel für Schienenwege ist nach Anlage 2 zu
 berechnen. Die Berechnung hat getrennt für den Beurteilungszeitraum
@@ -263,6 +269,7 @@ Dezember 2014 geltenden Fassung weiter anzuwenden. § 43 Absatz 1 Satz
 
 
 ## § 5 Festlegung akustischer Kennwerte für abweichende Bahntechnik und schalltechnische Innovationen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000601116)
 
 (1) Abweichende Bahntechnik oder schalltechnische Innovationen dürfen
 bei der Berechnung des Beurteilungspegels nach § 4 Absatz 1 Satz 1 nur
@@ -346,6 +353,7 @@ zudem eine Festlegung akustischer Kennwerte nach Absatz 2 Satz 1
 
 
 ## § 6 Übergangsregelung für die Berechnung des Beurteilungspegels für Straßen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE001100125)
 
 Der Beurteilungspegel für den jeweiligen Abschnitt eines
 Straßenbauvorhabens berechnet sich nach den Vorschriften dieser
@@ -366,16 +374,19 @@ Fassung, wenn vor dem Ablauf des 1. März 2021
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000701125)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000802125)
 
 
 (zu § 4)
 
 ## Anlage 2 Berechnung des Beurteilungspegels für Schienenwege (Schall 03)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_16/BJNR010360990.html#BJNR010360990BJNE000901116)
 
 (Fundstelle: BGBl. I 2014 S. 2271 – 2313)
 

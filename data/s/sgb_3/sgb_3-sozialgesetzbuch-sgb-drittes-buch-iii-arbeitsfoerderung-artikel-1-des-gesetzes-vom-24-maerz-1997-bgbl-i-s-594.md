@@ -21,14 +21,17 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG000200000)
 
 
 
 ### Erster Abschnitt - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG000300000)
 
 
 
 #### § 1 Ziele der Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE013704308)
 
 (1) Die Arbeitsförderung soll dem Entstehen von Arbeitslosigkeit
 entgegenwirken, die Dauer der Arbeitslosigkeit verkürzen und den
@@ -74,6 +77,7 @@ spätestens zu Beginn einer Legislaturperiode überprüft.
 
 
 #### § 2 Zusammenwirken mit den Agenturen für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE013806308)
 
 (1) Die Agenturen für Arbeit erbringen insbesondere Dienstleistungen
 für Arbeitgeber, Arbeitnehmerinnen und Arbeitnehmer, indem sie
@@ -172,6 +176,7 @@ zur Beendigung von Arbeitslosigkeit insbesondere
 
 
 #### § 3 Leistungen der Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE013926311)
 
 (1) Leistungen der Arbeitsförderung sind Leistungen nach Maßgabe des
 Dritten und Vierten Kapitels dieses Buches.
@@ -242,6 +247,7 @@ mit Ausnahme
 
 
 #### § 4 Vorrang der Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014002311)
 
 (1) Die Vermittlung in Ausbildung und Arbeit hat Vorrang vor den
 Leistungen zum Ersatz des Arbeitsentgelts bei Arbeitslosigkeit.
@@ -258,6 +264,7 @@ Existenzgründungen mit einem Gründungszuschuss nach § 93.
 
 
 #### § 5 Vorrang der aktiven Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014101308)
 
 Die Leistungen der aktiven Arbeitsförderung sind entsprechend ihrer
 jeweiligen Zielbestimmung und den Ergebnissen der Beratungs- und
@@ -268,11 +275,13 @@ Langzeitarbeitslosigkeit vorzubeugen.
 
 
 #### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014203308)
 
 -
 
 
 #### § 7 Auswahl von Leistungen der aktiven Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014303308)
 
 Bei der Auswahl von Ermessensleistungen der aktiven Arbeitsförderung
 hat die Agentur für Arbeit unter Beachtung des Grundsatzes der
@@ -295,6 +304,7 @@ abzustellen.
 
 
 #### § 8 Vereinbarkeit von Familie und Beruf
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014404301)
 
 (1) Die Leistungen der aktiven Arbeitsförderung sollen in ihrer
 zeitlichen, inhaltlichen und organisatorischen Ausgestaltung die
@@ -311,6 +321,7 @@ beruflichen Weiterbildung durch Übernahme der Weiterbildungskosten.
 
 
 #### § 9 Ortsnahe Leistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014507126)
 
 (1) Die Leistungen der Arbeitsförderung sollen vorrangig durch die
 örtlichen Agenturen für Arbeit erbracht werden. Dabei haben die
@@ -378,6 +389,7 @@ von Maßnahmen der Arbeitsförderung erörtern.
 
 
 #### § 9a Zusammenarbeit mit den für die Wahrnehmung der Aufgaben der Grundsicherung für Arbeitsuchende zuständigen gemeinsamen Einrichtungen und zugelassenen kommunalen Trägern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE066303126)
 
 Beziehen erwerbsfähige Leistungsberechtigte nach dem Zweiten Buch auch
 Leistungen der Arbeitsförderung, so sind die Agenturen für Arbeit
@@ -403,30 +415,36 @@ erforderlichen Tatsachen, insbesondere über
 
 
 #### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014604308)
 
 -
 
 
 #### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014709311)
 
 
 ### Zweiter Abschnitt - Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG000700000)
 
 
 
 #### § 12 Geltung der Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014800000)
 
 Die in diesem Abschnitt enthaltenen Begriffsbestimmungen sind nur für
 dieses Buch maßgeblich.
 
 
 #### § 13 Heimarbeiterinnen und Heimarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE014901308)
 
 Arbeitnehmerinnen und Arbeitnehmer im Sinne dieses Buches sind auch
 Heimarbeiterinnen und Heimarbeiter (§ 12 Abs. 2 des Vierten Buches).
 
 
 #### § 14 Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015002308)
 
 Auszubildende sind die zur Berufsausbildung Beschäftigten und
 Teilnehmende an nach diesem Buch förderungsfähigen
@@ -435,6 +453,7 @@ Einstiegsqualifizierung.
 
 
 #### § 15 Ausbildung- und Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015101308)
 
 Ausbildungsuchende sind Personen, die eine Berufsausbildung suchen.
 Arbeitsuchende sind Personen, die eine Beschäftigung als
@@ -443,6 +462,7 @@ bereits eine Beschäftigung oder eine selbständige Tätigkeit ausüben.
 
 
 #### § 16 Arbeitslose
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015202308)
 
 (1) Arbeitslose sind Personen, die wie beim Anspruch auf
 Arbeitslosengeld
@@ -464,6 +484,7 @@ als nicht arbeitslos.
 
 
 #### § 17 Drohende Arbeitslosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015301308)
 
 Von Arbeitslosigkeit bedroht sind Personen, die
 
@@ -480,6 +501,7 @@ Von Arbeitslosigkeit bedroht sind Personen, die
 
 
 #### § 18 Langzeitarbeitslose
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015405119)
 
 (1) Langzeitarbeitslose sind Arbeitslose, die ein Jahr und länger
 arbeitslos sind. Die Teilnahme an einer Maßnahme nach § 45 sowie
@@ -529,6 +551,7 @@ reicht Glaubhaftmachung aus.
 
 
 #### § 19 Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015502311)
 
 (1) Menschen mit Behinderungen im Sinne dieses Buches sind Menschen,
 deren Aussichten, am Arbeitsleben teilzuhaben oder weiter teilzuhaben,
@@ -542,6 +565,7 @@ Behinderung mit den in Absatz 1 genannten Folgen droht.
 
 
 #### § 20 Berufsrückkehrende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015603301)
 
 Berufsrückkehrende sind Frauen und Männer, die
 
@@ -559,6 +583,7 @@ Berufsrückkehrende sind Frauen und Männer, die
 
 
 #### § 21 Träger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015702311)
 
 Träger sind natürliche oder juristische Personen oder rechtsfähige
 Personengesellschaften, die Maßnahmen der Arbeitsförderung selbst
@@ -566,10 +591,12 @@ durchführen oder durch Dritte durchführen lassen.
 
 
 ### Dritter Abschnitt - Verhältnis der Leistungen aktiver Arbeitsförderung zu anderen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG000800000)
 
 
 
 #### § 22 Verhältnis zu anderen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015827311)
 
 (1) Leistungen der aktiven Arbeitsförderung dürfen nur erbracht
 werden, wenn nicht andere Leistungsträger oder andere öffentlich-
@@ -655,6 +682,7 @@ auf Arbeitslosengeld oder Teilarbeitslosengeld haben; die Sätze 2 bis
 
 
 #### § 23 Vorleistungspflicht der Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE015902308)
 
 (1) Solange und soweit eine vorrangige Stelle Leistungen nicht
 gewährt, sind Leistungen der aktiven Arbeitsförderung so zu erbringen,
@@ -669,14 +697,17 @@ entsprechend.
 
 
 ## Zweites Kapitel - Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG016001308)
 
 
 
 ### Erster Abschnitt - Beschäftigte, Sonstige Versicherungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056100308)
 
 
 
 #### § 24 Versicherungspflichtverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016103311)
 
 (1) In einem Versicherungspflichtverhältnis stehen Personen, die als
 Beschäftigte oder aus sonstigen Gründen versicherungspflichtig sind.
@@ -701,6 +732,7 @@ die Versicherungspflicht letztmals erfüllt waren.
 
 
 #### § 25 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016209360)
 
 (1) Versicherungspflichtig sind Personen, die gegen Arbeitsentgelt
 oder zu ihrer Berufsausbildung beschäftigt (versicherungspflichtige
@@ -737,6 +769,7 @@ haben.
 
 
 #### § 26 Sonstige Versicherungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016325311)
 
 (1) Versicherungspflichtig sind
 
@@ -890,6 +923,7 @@ Versicherungspflicht nach Absatz 2a vor.
 
 
 #### § 27 Versicherungsfreie Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016414311)
 
 (1) Versicherungsfrei sind Personen in einer Beschäftigung als
 
@@ -1027,6 +1061,7 @@ ein Anspruch auf Teilarbeitslosengeld besteht, ausgeübt werden.
 
 
 #### § 28 Sonstige versicherungsfreie Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016507308)
 
 (1) Versicherungsfrei sind Personen,
 
@@ -1063,10 +1098,12 @@ der Schweiz haben.
 
 
 ### Zweiter Abschnitt - Versicherungspflichtverhältnis auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056201308)
 
 
 
 #### § 28a Versicherungspflichtverhältnis auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE064010126)
 
 (1) Ein Versicherungspflichtverhältnis auf Antrag können Personen
 begründen, die
@@ -1177,18 +1214,22 @@ Versicherungspflicht nach Absatz 1.
 
 
 ## Drittes Kapitel - Aktive Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG016601308)
 
 
 
 ### Erster Abschnitt - Beratung und Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG000901308)
 
 
 
 #### Erster Unterabschnitt - Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056600308)
 
 
 
 ##### § 29 Beratungsangebot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016704126)
 
 (1) Die Agentur für Arbeit hat jungen Menschen und Erwachsenen, die am
 Arbeitsleben teilnehmen oder teilnehmen wollen, Berufsberatung,
@@ -1213,6 +1254,7 @@ Staaten nutzen.
 
 
 ##### § 30 Berufsberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016803126)
 
 Die Berufsberatung umfasst die Erteilung von Auskunft und Rat
 
@@ -1242,6 +1284,7 @@ Die Berufsberatung umfasst die Erteilung von Auskunft und Rat
 
 
 ##### § 31 Grundsätze der Berufsberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE016903126)
 
 Bei der Berufsberatung sind Neigung, Eignung, berufliche Fähigkeiten
 und Leistungsfähigkeit der Ratsuchenden sowie aktuelle und zu
@@ -1251,6 +1294,7 @@ angeboten werden.
 
 
 ##### § 31a Informationen an junge Menschen ohne Anschlussperspektive; erforderliche Datenerhebung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078400360)
 
 (1) Die Agentur für Arbeit hat junge Menschen, die nach ihrer Kenntnis
 bei Beendigung der Schule oder einer vergleichbaren Ersatzmaßnahme
@@ -1317,6 +1361,7 @@ Monate nach Erhebung.
 
 
 ##### § 32 Eignungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017002308)
 
 Die Agentur für Arbeit soll Ratsuchende mit deren Einverständnis
 ärztlich und psychologisch untersuchen und begutachten, soweit dies
@@ -1325,6 +1370,7 @@ erforderlich ist.
 
 
 ##### § 33 Berufsorientierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017103308)
 
 Die Agentur für Arbeit hat Berufsorientierung durchzuführen
 
@@ -1345,6 +1391,7 @@ auf dem Arbeitsmarkt.
 
 
 ##### § 34 Arbeitsmarktberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017204126)
 
 (1) Die Arbeitsmarktberatung der Agentur für Arbeit soll die
 Arbeitgeber bei der Besetzung von Ausbildungs- und Arbeitsstellen
@@ -1382,10 +1429,12 @@ sich aus Kontakt zu den Arbeitgebern aufnehmen und unterhalten.
 
 
 #### Zweiter Unterabschnitt - Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG058200308)
 
 
 
 ##### § 35 Vermittlungsangebot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017305308)
 
 (1) Die Agentur für Arbeit hat Ausbildungsuchenden, Arbeitsuchenden
 und Arbeitgebern Ausbildungsvermittlung und Arbeitsvermittlung
@@ -1414,6 +1463,7 @@ die Daten aus den Selbstinformationseinrichtungen nutzen und
 
 
 ##### § 36 Grundsätze der Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017405308)
 
 (1) Die Agentur für Arbeit darf nicht vermitteln, wenn ein
 Ausbildungs- oder Arbeitsverhältnis begründet werden soll, das gegen
@@ -1457,6 +1507,7 @@ Tätigkeit hinweisen; Absatz 1 gilt entsprechend.
 
 
 ##### § 37 Potenzialanalyse und Eingliederungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017505308)
 
 (1) Die Agentur für Arbeit hat unverzüglich nach der
 Ausbildungsuchendmeldung oder Arbeitsuchendmeldung zusammen mit der
@@ -1505,20 +1556,24 @@ werden.
 
 
 ##### § 37a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE060602308)
 
 
 
 ##### § 37b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE062905308)
 
 -
 
 
 ##### § 37c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE063003308)
 
 -
 
 
 ##### § 38 Rechte und Pflichten der Ausbildung- und Arbeitsuchenden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017612360)
 
 (1) Personen, deren Ausbildungs- oder Arbeitsverhältnis endet, sind
 verpflichtet, sich spätestens drei Monate vor dessen Beendigung bei
@@ -1592,6 +1647,7 @@ Absatz 4 Satz 2 gilt entsprechend.
 
 
 ##### § 39 Rechte und Pflichten der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017704308)
 
 (1) Arbeitgeber, die Dienstleistungen der Bundesagentur in Anspruch
 nehmen, haben die für eine Vermittlung erforderlichen Auskünfte zu
@@ -1634,6 +1690,7 @@ Der Arbeitgeber kann die Vermittlung erneut in Anspruch nehmen.
 
 
 ##### § 39a Frühzeitige Förderung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076500124)
 
 Für Ausländerinnen und Ausländer, die eine Aufenthaltsgestattung nach
 dem Asylgesetz besitzen und auf Grund des § 61 des Asylgesetzes keine
@@ -1645,10 +1702,12 @@ rechtmäßiger und dauerhafter Aufenthalt nicht zu erwarten ist.
 
 
 #### Dritter Unterabschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056800308)
 
 
 
 ##### § 40 Allgemeine Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017805126)
 
 (1) Die Agentur für Arbeit soll Ausbildung- und Arbeitsuchenden sowie
 Arbeitgebern in geeigneter Weise Gelegenheit geben, sich über freie
@@ -1676,6 +1735,7 @@ Personen.
 
 
 ##### § 41 Einschränkung des Fragerechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE017906126)
 
 (1) Die Agentur für Arbeit darf von Ausbildung- und Arbeitsuchenden
 keine Daten erheben, die ein Arbeitgeber vor Begründung eines
@@ -1715,6 +1775,7 @@ nutzen, wenn
 
 
 ##### § 42 Grundsatz der Unentgeltlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018003126)
 
 (1) Die Agentur für Arbeit übt die Beratung und Vermittlung
 unentgeltlich aus.
@@ -1747,6 +1808,7 @@ erstatten lassen.
 
 
 ##### § 43 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018103308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung die
 gebührenpflichtigen Tatbestände für die Vermittlungsgebühr zu
@@ -1760,10 +1822,12 @@ berücksichtigt werden.
 
 
 ### Zweiter Abschnitt - Aktivierung und berufliche Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG001001308)
 
 
 
 #### § 44 Förderung aus dem Vermittlungsbudget
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018203124)
 
 (1) Ausbildungsuchende, von Arbeitslosigkeit bedrohte Arbeitsuchende
 und Arbeitslose können aus dem Vermittlungsbudget der Agentur für
@@ -1792,6 +1856,7 @@ Personen.
 
 
 #### § 45 Maßnahmen zur Aktivierung und beruflichen Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018408126)
 
 (1) Ausbildungsuchende, von Arbeitslosigkeit bedrohte Arbeitsuchende
 und Arbeitslose können bei Teilnahme an Maßnahmen gefördert werden,
@@ -1926,6 +1991,7 @@ Personen.
 
 
 #### § 46 Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018507311)
 
 (1) Arbeitgebern können die Kosten für eine befristete
 Probebeschäftigung von Menschen mit Behinderungen sowie
@@ -1943,6 +2009,7 @@ Arbeitgebers nach dem Teil 3 des Neunten Buches nicht besteht.
 
 
 #### § 47 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018603308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das
@@ -1951,14 +2018,17 @@ Förderung nach den §§ 44 und 45 zu bestimmen.
 
 
 ### Dritter Abschnitt - Berufswahl und Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG001101308)
 
 
 
 #### Erster Unterabschnitt - Übergang von der Schule in die Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056900308)
 
 
 
 ##### § 48 Berufsorientierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE018707308)
 
 (1) Die Agentur für Arbeit kann Schülerinnen und Schüler
 allgemeinbildender Schulen durch vertiefte Berufsorientierung und
@@ -1975,6 +2045,7 @@ berücksichtigt werden.
 
 
 ##### § 48a Berufsorientierungspraktikum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079800311)
 
 (1) Die Agentur für Arbeit kann junge Menschen, die ihre Berufswahl
 noch nicht abschließend getroffen haben, durch ein
@@ -2025,6 +2096,7 @@ und 3 entsprechend.
 
 
 ##### § 49 Berufseinstiegsbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070400308)
 
 (1) Die Agentur für Arbeit kann förderungsbedürftige junge Menschen
 durch Maßnahmen der Berufseinstiegsbegleitung fördern, um sie beim
@@ -2065,16 +2137,19 @@ Berufseinstiegsbegleiter erstattet.
 
 
 ##### § 50 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070500308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über
 Voraussetzungen, Art, Umfang und Verfahren der Förderung zu bestimmen.
 
 
 #### Zweiter Unterabschnitt - Berufsvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057000308)
 
 
 
 ##### § 51 Berufsvorbereitende Bildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070601124)
 
 (1) Die Agentur für Arbeit kann förderungsberechtigte junge Menschen
 durch berufsvorbereitende Bildungsmaßnahmen fördern, um sie auf die
@@ -2111,6 +2186,7 @@ Förderbedarf in angemessenem Umfang vorgesehen werden.
 
 
 ##### § 52 Förderungsberechtigte junge Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070701124)
 
 (1) Förderungsberechtigt sind junge Menschen,
 
@@ -2160,6 +2236,7 @@ Abschiebung seit mindestens drei Monaten ausgesetzt sein.
 
 
 ##### § 53 Vorbereitung auf einen Hauptschulabschluss im Rahmen einer berufsvorbereitenden Bildungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070801124)
 
 Förderungsberechtigte junge Menschen ohne Schulabschluss haben einen
 Anspruch, im Rahmen einer berufsvorbereitenden Bildungsmaßnahme auf
@@ -2173,6 +2250,7 @@ der Leistung bleiben anrechnungsfrei.
 
 
 ##### § 54 Maßnahmekosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070900308)
 
 Bei einer berufsvorbereitenden Bildungsmaßnahme werden dem Träger als
 Maßnahmekosten erstattet:
@@ -2195,6 +2273,7 @@ Maßnahmekosten erstattet:
 
 
 ##### § 54a Einstiegsqualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071010125)
 
 (1) Arbeitgeber, die eine betriebliche Einstiegsqualifizierung
 durchführen, können durch Zuschüsse in Höhe der von ihnen mit der oder
@@ -2275,6 +2354,7 @@ entsprechend.
 
 
 ##### § 55 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071100308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere zu
 bestimmen
@@ -2296,10 +2376,12 @@ bestimmen
 
 
 #### Dritter Unterabschnitt - Berufsausbildungsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057100308)
 
 
 
 ##### § 56 Berufsausbildungsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE019509126)
 
 (1) Auszubildende haben Anspruch auf Berufsausbildungsbeihilfe während
 einer Berufsausbildung, wenn
@@ -2328,6 +2410,7 @@ Berufsausbildungsbeihilfe berechtigt.
 
 
 ##### § 57 Förderungsfähige Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070303126)
 
 (1) Eine Berufsausbildung ist förderungsfähig, wenn sie in einem nach
 dem Berufsbildungsgesetz, der Handwerksordnung oder dem
@@ -2349,6 +2432,7 @@ Grund bestand.
 
 
 ##### § 58 Förderung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE019705119)
 
 (1) Eine Berufsausbildung, die teilweise im Ausland durchgeführt wird,
 ist auch für den im Ausland durchgeführten Teil förderungsfähig, wenn
@@ -2372,10 +2456,12 @@ Europäischen Union durchgeführt wird, ist förderungsfähig, wenn
 
 
 ##### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE019806124)
 
 
 
 ##### § 60 Förderungsberechtigter Personenkreis bei Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE019904124)
 
 (1) Die oder der Auszubildende ist bei einer Berufsausbildung
 förderungsberechtigt, wenn sie oder er
@@ -2417,6 +2503,7 @@ oder geduldet im Bundesgebiet aufhalten.
 
 
 ##### § 61 Bedarf für den Lebensunterhalt bei Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020015125)
 
 (1) Ist die oder der Auszubildende während der Berufsausbildung
 außerhalb des Haushalts der Eltern oder eines Elternteils
@@ -2441,6 +2528,7 @@ erfüllen, vorrangig nach § 13 Absatz 3 des Achten Buches erbracht.
 
 
 ##### § 62 Bedarf für den Lebensunterhalt bei berufsvorbereitenden Bildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020107125)
 
 (1) Ist die oder der Auszubildende während einer berufsvorbereitenden
 Bildungsmaßnahme im Haushalt der Eltern oder eines Elternteils
@@ -2464,6 +2552,7 @@ soweit diese nicht von Dritten erstattet werden.
 
 
 ##### § 63 Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020207308)
 
 (1) Als Bedarf für Fahrkosten werden folgende Kosten der oder des
 Auszubildenden zugrunde gelegt:
@@ -2511,6 +2600,7 @@ gelegt, der nach § 86 insgesamt erbracht werden kann.
 
 
 ##### § 64 Sonstige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020309125)
 
 (1) Bei einer Berufsausbildung wird als Bedarf für sonstige
 Aufwendungen eine Pauschale für Kosten der Arbeitskleidung in Höhe von
@@ -2547,6 +2637,7 @@ Darüber hinaus können sonstige Kosten anerkannt werden,
 
 
 ##### § 65 Besonderheiten beim Besuch des Berufsschulunterrichts in Blockform
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020410308)
 
 (1) Für die Zeit des Berufsschulunterrichts in Blockform wird ein
 Bedarf zugrunde gelegt, der für Zeiten ohne Berufsschulunterricht
@@ -2557,12 +2648,14 @@ Blockform ist ausgeschlossen.
 
 
 ##### § 66 Anpassung der Bedarfssätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020508308)
 
 Für die Anpassung der Bedarfssätze gilt § 35 Satz 1 und 2 des
 Bundesausbildungsförderungsgesetzes entsprechend.
 
 
 ##### § 67 Einkommensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020611125)
 
 (1) Auf den Gesamtbedarf sind die Einkommen der folgenden Personen in
 der Reihenfolge ihrer Nennung anzurechnen:
@@ -2633,6 +2726,7 @@ oder dieser verwirkt ist.
 
 
 ##### § 68 Vorausleistung von Berufsausbildungsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020707125)
 
 (1) Macht die oder der Auszubildende glaubhaft, dass ihre oder seine
 Eltern den nach den Vorschriften dieses Buches angerechneten
@@ -2690,6 +2784,7 @@ Unterhaltsberechtigte dadurch selbst belastet wird, sind zu
 
 
 ##### § 69 Dauer der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020807360)
 
 (1) Anspruch auf Berufsausbildungsbeihilfe besteht für die Dauer der
 Berufsausbildung oder die Dauer der berufsvorbereitenden
@@ -2738,6 +2833,7 @@ Berufsausbildungsbeihilfe:
 
 
 ##### § 70 Berufsausbildungsbeihilfe für Arbeitslose
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE020902308)
 
 Arbeitslose, die zu Beginn der berufsvorbereitenden Bildungsmaßnahme
 anderenfalls Anspruch auf Arbeitslosengeld gehabt hätten, der höher
@@ -2750,6 +2846,7 @@ angerechnet wie bei der Leistung von Arbeitslosengeld.
 
 
 ##### § 71 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021009308)
 
 Monatliche Förderungsbeträge der Berufsausbildungsbeihilfe, die nicht
 volle Euro ergeben, sind bei Restbeträgen unter 0,50 Euro abzurunden
@@ -2758,16 +2855,19 @@ Förderungsbeträge unter 10 Euro.
 
 
 ##### § 72 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021105308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über
 Voraussetzungen, Umfang und Verfahren der Förderung zu bestimmen.
 
 
 #### Vierter Unterabschnitt - Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057200308)
 
 
 
 ##### § 73 Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen und schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021205311)
 
 (1) Arbeitgeber können für die betriebliche Aus- oder Weiterbildung
 von Menschen mit Behinderungen und schwerbehinderten Menschen im Sinne
@@ -2795,6 +2895,7 @@ erbracht wurden.
 
 
 ##### § 73a Mobilitätszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079900311)
 
 (1) Die Agentur für Arbeit kann junge Menschen während des ersten
 Ausbildungsjahres einer nach § 57 Absatz 1 förderungsfähigen
@@ -2820,6 +2921,7 @@ Neunten Buches bleiben unberührt.
 
 
 ##### § 74 Assistierte Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021306126)
 
 (1) Die Agentur für Arbeit kann
 förderungsberechtigte junge Menschen und deren Ausbildungsbetriebe
@@ -2895,6 +2997,7 @@ nach Absatz 5 förderungsfähiger Berufsausbildungen.
 
 
 ##### § 75 Begleitende Phase der Assistierten Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021404126)
 
 (1) In der begleitenden Phase sind auch junge Menschen
 förderungsberechtigt, die zusätzlich zu der in § 74 Absatz 3 Satz 1
@@ -2955,6 +3058,7 @@ unterstützt werden.
 
 
 ##### § 75a Vorphase der Assistierten Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE077700126)
 
 (1) In der Vorphase sind junge Menschen förderungsberechtigt, wenn sie
 zusätzlich zu der in § 74 Absatz 3 Satz 1 Nummer 1 genannten
@@ -3000,6 +3104,7 @@ Sinne von § 75 Absatz 7 unterstützt werden.
 
 
 ##### § 76 Außerbetriebliche Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021507311)
 
 (1) Die Agentur für Arbeit fördert förderungsberechtigte junge
 Menschen durch eine nach § 57 Absatz 1 förderungsfähige
@@ -3123,32 +3228,39 @@ Anwendung des Vergaberechts.
 
 
 ##### § 76a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE060301308)
 
 
 
 ##### § 77 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021608126)
 
 
 
 ##### § 78 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021706124)
 
 
 
 ##### § 79 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021805126)
 
 
 
 ##### § 80 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE021904308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über
 Voraussetzungen, Art, Umfang und Verfahren der Förderung zu bestimmen.
 
 
 #### Fünfter Unterabschnitt - Jugendwohnheime
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057300308)
 
 
 
 ##### § 80a Förderung von Jugendwohnheimen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071200308)
 
 Träger von Jugendwohnheimen können durch Darlehen und Zuschüsse
 gefördert werden, wenn dies zum Ausgleich auf dem Ausbildungsmarkt und
@@ -3159,16 +3271,19 @@ Umbau und die Ausstattung von Jugendwohnheimen.
 
 
 ##### § 80b Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071300308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über
 Voraussetzungen, Art, Umfang und Verfahren der Förderung zu bestimmen.
 
 
 ### Vierter Abschnitt - Berufliche Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057400308)
 
 
 
 #### § 81 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022012311)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer können bei beruflicher
 Weiterbildung durch Übernahme der Weiterbildungskosten gefördert
@@ -3287,6 +3402,7 @@ beschäftigten Arbeitnehmerinnen und Arbeitnehmern verzichten, wenn
 
 
 #### § 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022112125)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer können abweichend von § 81 bei
 beruflicher Weiterbildung im Rahmen eines bestehenden
@@ -3444,6 +3560,7 @@ Maßnahme entstehen, werden übernommen.
 
 
 #### § 82a Qualifizierungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE080000311)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer können bei beruflicher
 Weiterbildung für die Dauer der Maßnahme ein Qualifizierungsgeld von
@@ -3567,6 +3684,7 @@ Anwendung.
 
 
 #### § 82b Höhe und Bemessung des Qualifizierungsgeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE080100311)
 
 (1) Das Qualifizierungsgeld beträgt
 
@@ -3644,6 +3762,7 @@ entsprechend.
 
 
 #### § 82c Anrechnung von Nebeneinkommen und sonstigen Zahlungen des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE080200311)
 
 (1) Ist eine Arbeitnehmerin oder ein Arbeitnehmer während einer Zeit
 erwerbstätig, für die ihr oder ihm Qualifizierungsgeld zusteht, ist
@@ -3679,6 +3798,7 @@ zusammen mit dem Qualifizierungsgeld das Soll-Entgelt nicht
 
 
 #### § 83 Weiterbildungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022202308)
 
 (1) Weiterbildungskosten sind die durch die Weiterbildung unmittelbar
 entstehenden
@@ -3705,6 +3825,7 @@ ausschließlich von dem Träger zu erstatten.
 
 
 #### § 84 Lehrgangskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022306311)
 
 (1) Lehrgangskosten sind Lehrgangsgebühren einschließlich
 
@@ -3741,12 +3862,14 @@ Maßnahme übernommen werden, wenn
 
 
 #### § 85 Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022406308)
 
 Für Übernahme und Höhe der Fahrkosten gilt § 63 Absatz 1 und 3
 entsprechend.
 
 
 #### § 86 Kosten für auswärtige Unterbringung und für Verpflegung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022508124)
 
 Ist eine auswärtige Unterbringung erforderlich, so kann
 
@@ -3762,6 +3885,7 @@ Ist eine auswärtige Unterbringung erforderlich, so kann
 
 
 #### § 87 Kinderbetreuungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE011109311)
 
 Kosten für die Betreuung der aufsichtsbedürftigen Kinder der
 Arbeitnehmerin oder des Arbeitnehmers können pauschal in Höhe von 160
@@ -3769,6 +3893,7 @@ Euro monatlich je Kind übernommen werden.
 
 
 #### § 87a Weiterbildungsprämie und Weiterbildungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079501311)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer erhalten folgende Prämien, wenn
 sie an einer nach § 81 geförderten beruflichen Weiterbildung
@@ -3801,14 +3926,17 @@ festgelegt ist.
 
 
 ### Fünfter Abschnitt - Aufnahme einer Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057500308)
 
 
 
 #### Erster Unterabschnitt - Sozialversicherungspflichtige Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057600308)
 
 
 
 ##### § 88 Eingliederungszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE022603308)
 
 Arbeitgeber können zur Eingliederung von Arbeitnehmerinnen und
 Arbeitnehmern, deren Vermittlung wegen in ihrer Person liegender
@@ -3817,6 +3945,7 @@ einer Minderleistung erhalten (Eingliederungszuschuss).
 
 
 ##### § 89 Höhe und Dauer der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071403311)
 
 Die Förderhöhe und die Förderdauer richten sich nach dem Umfang der
 Einschränkung der Arbeitsleistung der Arbeitnehmerin oder des
@@ -3830,6 +3959,7 @@ hat.
 
 
 ##### § 90 Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071502311)
 
 (1) Für Menschen mit Behinderungen und schwerbehinderte Menschen kann
 der Eingliederungszuschuss bis zu 70 Prozent des zu berücksichtigenden
@@ -3860,6 +3990,7 @@ vermindern.
 
 
 ##### § 91 Zu berücksichtigendes Arbeitsentgelt und Auszahlung des Zuschusses
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071600308)
 
 (1) Für den Eingliederungszuschuss ist zu berücksichtigen
 
@@ -3884,6 +4015,7 @@ berücksichtigende Arbeitsentgelt verringert.
 
 
 ##### § 92 Förderungsausschluss und Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071700308)
 
 (1) Eine Förderung ist ausgeschlossen, wenn
 
@@ -3938,10 +4070,12 @@ Förderdauer; sie beträgt längstens zwölf Monate.
 
 
 #### Zweiter Unterabschnitt - Selbständige Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057700308)
 
 
 
 ##### § 93 Gründungszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071800308)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer, die durch Aufnahme einer
 selbständigen, hauptberuflichen Tätigkeit die Arbeitslosigkeit
@@ -3989,6 +4123,7 @@ Beginn des folgenden Monats an keinen Gründungszuschuss erhalten.
 
 
 ##### § 94 Dauer und Höhe der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE071900308)
 
 (1) Als Gründungszuschuss wird für die Dauer von sechs Monaten der
 Betrag geleistet, den die Arbeitnehmerin oder der Arbeitnehmer als
@@ -4003,18 +4138,22 @@ fachkundigen Stelle vorgelegt wird.
 
 
 ### Sechster Abschnitt - Verbleib in Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG001802308)
 
 
 
 #### Erster Unterabschnitt - Kurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056600666)
 
 
 
 ##### Erster Titel - Regelvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056700308)
 
 
 
 ###### § 95 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072000308)
 
 Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf
 Kurzarbeitergeld, wenn
@@ -4038,6 +4177,7 @@ in Form des Saison-Kurzarbeitergeldes.
 
 
 ###### § 96 Erheblicher Arbeitsausfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072100308)
 
 (1) Ein Arbeitsausfall ist erheblich, wenn
 
@@ -4128,6 +4268,7 @@ vermeidbar.
 
 
 ###### § 97 Betriebliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE023602308)
 
 Die betrieblichen Voraussetzungen sind erfüllt, wenn in dem Betrieb
 mindestens eine Arbeitnehmerin oder ein Arbeitnehmer beschäftigt ist.
@@ -4136,6 +4277,7 @@ eine Betriebsabteilung.
 
 
 ###### § 98 Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE023705311)
 
 (1) Die persönlichen Voraussetzungen sind erfüllt, wenn
 
@@ -4214,6 +4356,7 @@ die Sperrzeit beim Arbeitslosengeld entsprechend anzuwenden.
 
 
 ###### § 99 Anzeige des Arbeitsausfalls
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE023803311)
 
 (1) Der Arbeitsausfall ist bei der Agentur für Arbeit, in deren Bezirk
 der Betrieb seinen Sitz hat, schriftlich oder elektronisch anzuzeigen.
@@ -4238,6 +4381,7 @@ sind.
 
 
 ###### § 100 Kurzarbeitergeld bei Arbeitskämpfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE023905308)
 
 (1) § 160 über das Ruhen des Anspruchs auf Arbeitslosengeld bei
 Arbeitskämpfen gilt entsprechend für den Anspruch auf Kurzarbeitergeld
@@ -4269,10 +4413,12 @@ der Empfänger des Kurzarbeitergeldes dieses insoweit zu erstatten.
 
 
 ##### Zweiter Titel - Sonderformen des Kurzarbeitergeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056800666)
 
 
 
 ###### § 101 Saison-Kurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024016119)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer haben in der Zeit vom 1.
 Dezember bis zum 31. März (Schlechtwetterzeit) Anspruch auf Saison-
@@ -4350,6 +4496,7 @@ Ausnahme der Anzeige des Arbeitsausfalls nach § 99 anzuwenden.
 
 
 ###### § 102 Ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024103308)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf Wintergeld
 als Zuschuss-Wintergeld und Mehraufwands-Wintergeld und Arbeitgeber
@@ -4382,6 +4529,7 @@ werden kann.
 Kurzarbeitergeld für
 
 ###### § 103 Heimarbeiterinnen und Heimarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024204308)
 
 (1) Anspruch auf Kurzarbeitergeld haben auch Heimarbeiterinnen und
 Heimarbeiter, wenn sie ihren Lebensunterhalt ausschließlich oder
@@ -4418,10 +4566,12 @@ solange
 
 
 ##### Dritter Titel - Leistungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056900666)
 
 
 
 ###### § 104 Dauer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024304119)
 
 (1) Kurzarbeitergeld wird für den Arbeitsausfall für eine Dauer von
 längstens zwölf Monaten von der Agentur für Arbeit geleistet. Die
@@ -4448,6 +4598,7 @@ Unterbrechung im Sinne des Absatzes 3.
 
 
 ###### § 105 Höhe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024413308)
 
 Das Kurzarbeitergeld beträgt
 
@@ -4464,6 +4615,7 @@ der Nettoentgeltdifferenz im Anspruchszeitraum.
 
 
 ###### § 106 Nettoentgeltdifferenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024516126)
 
 (1) Die Nettoentgeltdifferenz entspricht der Differenz zwischen
 
@@ -4531,6 +4683,7 @@ Arbeitsentgelt maßgebend.
 
 
 ###### § 106a Erstattungen bei beruflicher Weiterbildung während Kurzarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE077902311)
 
 (1) Dem Arbeitgeber werden von der Agentur für Arbeit auf Antrag für
 den jeweiligen Kalendermonat 50 Prozent der von ihm allein zu
@@ -4581,10 +4734,12 @@ Grund bundes- oder landesrechtlicher Regelungen verpflichtet ist.
 
 
 ##### Vierter Titel - Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057000666)
 
 
 
 ###### § 107 Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024611124)
 
 (1) § 159 Absatz 1 Satz 2 Nummer 8 über das Ruhen des Anspruchs auf
 Arbeitslosengeld wegen Sperrzeiten bei Meldeversäumnis gilt für den
@@ -4597,10 +4752,12 @@ als Vollrente zuerkannt ist.
 
 
 ##### Fünfter Titel - Verfügung über das Kurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057100666)
 
 
 
 ###### § 108 Verfügung über das Kurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024712308)
 
 (1) § 48 des Ersten Buches zur Auszahlung von Leistungen bei
 Verletzung der Unterhaltspflicht ist nicht anzuwenden.
@@ -4626,10 +4783,12 @@ Beträge als Insolvenzgläubigerin zurückverlangen.
 
 
 ##### Sechster Titel - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057200666)
 
 
 
 ###### § 109 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024809311)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -4717,10 +4876,12 @@ des 30. Juni 2023 außer Kraft.
 
 
 #### Zweiter Unterabschnitt - Transferleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057300666)
 
 
 
 ##### § 110 Transfermaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE024903126)
 
 (1) Nehmen Arbeitnehmerinnen und Arbeitnehmer, die auf Grund einer
 Betriebsänderung oder im Anschluss an die Beendigung eines
@@ -4777,6 +4938,7 @@ ausgeschlossen.
 
 
 ##### § 111 Transferkurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025010126)
 
 (1) Um Entlassungen von Arbeitnehmerinnen und Arbeitnehmern zu
 vermeiden und ihre Vermittlungsaussichten zu verbessern, haben diese
@@ -4926,6 +5088,7 @@ anzuwenden, mit Ausnahme der ersten beiden Titel und des § 109.
 
 
 ##### § 111a Förderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE075201126)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer, die einen Anspruch auf
 Transferkurzarbeitergeld nach § 111 haben, können bei Teilnahme an
@@ -4976,14 +5139,17 @@ des Arbeitgebers an den Lehrgangskosten festlegen.
 
 
 ### Siebter Abschnitt - Teilhabe von Menschen mit Behinderungen am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG002403311)
 
 
 
 #### Erster Unterabschnitt - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG002501308)
 
 
 
 ##### § 112 Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025105311)
 
 (1) Für Menschen mit Behinderungen können Leistungen zur Förderung der
 Teilhabe am Arbeitsleben erbracht werden, um ihre Erwerbsfähigkeit zu
@@ -4998,6 +5164,7 @@ abzuklären oder eine Arbeitserprobung durchzuführen.
 
 
 ##### § 113 Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072201311)
 
 (1) Für Menschen mit Behinderungen können erbracht werden
 
@@ -5016,6 +5183,7 @@ Teilhabe am Arbeitsleben erreicht werden kann.
 
 
 ##### § 114 Leistungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070304311)
 
 (1) Die allgemeinen und besonderen Leistungen richten sich nach den
 Vorschriften des Zweiten bis Fünften Abschnitts, soweit nachfolgend
@@ -5027,10 +5195,12 @@ Arbeitsleben werden auf Antrag durch ein Persönliches Budget erbracht;
 
 
 #### Zweiter Unterabschnitt - Allgemeine Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG002601308)
 
 
 
 ##### § 115 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025405311)
 
 Die allgemeinen Leistungen umfassen
 
@@ -5053,6 +5223,7 @@ Die allgemeinen Leistungen umfassen
 
 
 ##### § 116 Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025511311)
 
 (1) Leistungen zur Aktivierung und beruflichen Eingliederung können
 auch erbracht werden, wenn Menschen mit Behinderungen nicht arbeitslos
@@ -5111,14 +5282,17 @@ Anspruch auf Arbeitslosengeld hat.
 
 
 #### Dritter Unterabschnitt - Besondere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG002701308)
 
 
 
 ##### Erster Titel - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG002801308)
 
 
 
 ###### § 117 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025606311)
 
 (1) Die besonderen Leistungen sind anstelle der allgemeinen Leistungen
 insbesondere zur Förderung der beruflichen Aus- und Weiterbildung,
@@ -5159,6 +5333,7 @@ erbracht.
 
 
 ###### § 118 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025705311)
 
 Die besonderen Leistungen umfassen
 
@@ -5175,10 +5350,12 @@ Die besonderen Leistungen umfassen
 
 
 ##### Zweiter Titel - Übergangsgeld und Ausbildungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG002901308)
 
 
 
 ###### § 119 Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025806311)
 
 Menschen mit Behinderungen haben Anspruch auf Übergangsgeld, wenn
 
@@ -5209,6 +5386,7 @@ an einer Maßnahme, für die die besonderen Leistungen erbracht werden,
 
 
 ###### § 120 Vorbeschäftigungszeit für das Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE025908126)
 
 (1) Die Voraussetzung der Vorbeschäftigungszeit für das Übergangsgeld
 ist erfüllt, wenn der Mensch mit Behinderungen innerhalb der letzten
@@ -5238,6 +5416,7 @@ maßgebliche Zeitpunkt für den Beginn der Teilnahme nach Absatz 1.
 
 
 ###### § 121 Übergangsgeld ohne Vorbeschäftigungszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026004311)
 
 Ein Mensch mit Behinderungen kann auch dann Übergangsgeld erhalten,
 wenn die Voraussetzung der Vorbeschäftigungszeit nicht erfüllt ist,
@@ -5263,6 +5442,7 @@ der Agentur für Arbeit arbeitslos gemeldet war.
 
 
 ###### § 122 Ausbildungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026107311)
 
 (1) Menschen mit Behinderungen haben Anspruch auf Ausbildungsgeld
 während
@@ -5289,6 +5469,7 @@ Abweichendes bestimmt ist.
 
 
 ###### § 123 Ausbildungsgeld bei Berufsausbildung und Unterstützter Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026214125)
 
 Bei einer Berufsausbildung und bei einer individuellen betrieblichen
 Qualifizierung im Rahmen der Unterstützten Beschäftigung wird
@@ -5330,6 +5511,7 @@ Ausgleichsbetrag gezahlt.
 
 
 ###### § 124 Ausbildungsgeld bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026314125)
 
 Bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung
 wird folgender Bedarf zugrunde gelegt:
@@ -5356,6 +5538,7 @@ wird folgender Bedarf zugrunde gelegt:
 
 
 ###### § 125 Ausbildungsgeld bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen und bei Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026413125)
 
 Bei Maßnahmen im Eingangsverfahren und Berufsbildungsbereich
 anerkannter Werkstätten für behinderte Menschen und bei vergleichbaren
@@ -5364,6 +5547,7 @@ ein Ausbildungsgeld in Höhe von 133 Euro monatlich gezahlt.
 
 
 ###### § 126 Einkommensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026511125)
 
 (1) Das Einkommen, das ein Mensch mit Behinderungen während einer
 Maßnahme in einer anerkannten Werkstatt für behinderte Menschen oder
@@ -5391,10 +5575,12 @@ Einkommen
 
 
 ##### Dritter Titel - Teilnahmekosten für Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG003001308)
 
 
 
 ###### § 127 Teilnahmekosten für Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026609124)
 
 (1) Teilnahmekosten bestimmen sich nach den §§ 49, 64, 73 und 74 des
 Neunten Buches. Sie beinhalten auch weitere Aufwendungen, die wegen
@@ -5408,6 +5594,7 @@ Anschluss an die Maßnahme einschließen.
 
 
 ###### § 128 Kosten für Unterkunft und Verpflegung bei anderweitiger auswärtiger Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026709311)
 
 Sind Menschen mit Behinderungen auswärtig untergebracht, aber nicht in
 einem Wohnheim, einem Internat oder einer besonderen Einrichtung für
@@ -5417,10 +5604,12 @@ erbracht.
 
 
 ##### Vierter Titel - Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG003101308)
 
 
 
 ###### § 129 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026803308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere über
 Voraussetzungen, Art, Umfang und Ausführung der Leistungen in
@@ -5429,17 +5618,21 @@ Teilhabe am Arbeitsleben geltenden Regelungen zu bestimmen.
 
 
 ### Achter Abschnitt - Befristete Leistungen und innovative Ansätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG003302119)
 
 
 
 #### § 130 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE026916126)
 
 
 #### § 131 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE027012124)
 
 
 
 #### § 131a Sonderregelungen zur beruflichen Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072305311)
 
 (1) (weggefallen)
 
@@ -5471,6 +5664,7 @@ Absatz 2 Satz 2 findet keine Anwendung.
 
 
 #### § 131b Weiterbildungsförderung in der Altenpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE074102360)
 
 Abweichend von § 180 Absatz 4 Satz 1 ist die Dauer einer
 Vollzeitmaßnahme der beruflichen Weiterbildung in der Altenpflege, die
@@ -5481,10 +5675,12 @@ mindestens ein Drittel verkürzt werden kann. Insoweit ist § 180 Absatz
 
 
 #### § 132 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE027111124)
 
 
 
 #### § 133 Saison-Kurzarbeitergeld und ergänzende Leistungen im Gerüstbauerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE027213360)
 
 (1) In Betrieben des Gerüstbauerhandwerks (§ 1 Absatz 3 Nummer 1 der
 Baubetriebe-Verordnung) werden bis zum 31. März 2021 Leistungen nach
@@ -5511,10 +5707,12 @@ witterungsbedingten Arbeitsausfall erzielte Arbeitsentgelt.
 
 
 #### § 134 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE027310119)
 
 
 
 #### § 135 Erprobung innovativer Ansätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE027409119)
 
 (1) Die Zentrale der Bundesagentur kann bis zu einem Prozent der im
 Eingliederungstitel enthaltenen Mittel einsetzen, um innovative
@@ -5530,18 +5728,22 @@ die laufenden Projekte.
 
 
 ## Viertes Kapitel - Arbeitslosengeld und Insolvenzgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG018301308)
 
 
 
 ### Erster Abschnitt - Arbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG001202308)
 
 
 
 #### Erster Unterabschnitt - Regelvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057400666)
 
 
 
 ##### § 136 Anspruch auf Arbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072400308)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf
 Arbeitslosengeld
@@ -5560,6 +5762,7 @@ Monats an keinen Anspruch auf Arbeitslosengeld.
 
 
 ##### § 137 Anspruchsvoraussetzungen bei Arbeitslosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072500308)
 
 (1) Anspruch auf Arbeitslosengeld bei Arbeitslosigkeit hat, wer
 
@@ -5580,6 +5783,7 @@ Zeitpunkt entstehen soll.
 
 
 ##### § 138 Arbeitslosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072600308)
 
 (1) Arbeitslos ist, wer Arbeitnehmerin oder Arbeitnehmer ist und
 
@@ -5652,6 +5856,7 @@ Verfügung, wer
 
 
 ##### § 139 Sonderfälle der Verfügbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072701124)
 
 (1) Nimmt eine leistungsberechtigte Person an einer Maßnahme nach § 45
 oder an einer Berufsfindung oder Arbeitserprobung im Sinne des Rechts
@@ -5712,6 +5917,7 @@ auszuüben.
 
 
 ##### § 140 Zumutbare Beschäftigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE027906308)
 
 (1) Einer arbeitslosen Person sind alle ihrer Arbeitsfähigkeit
 entsprechenden Beschäftigungen zumutbar, soweit allgemeine oder
@@ -5764,6 +5970,7 @@ er bisher ausgeübt hat.
 
 
 ##### § 141 Arbeitslosmeldung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028009311)
 
 (1) Die oder der Arbeitslose hat sich elektronisch im Fachportal der
 Bundesagentur oder persönlich bei der zuständigen Agentur für Arbeit
@@ -5803,6 +6010,7 @@ geführt worden ist.
 
 
 ##### § 142 Anwartschaftszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028117311)
 
 (1) Die Anwartschaftszeit hat erfüllt, wer in der Rahmenfrist (§ 143)
 mindestens zwölf Monate in einem Versicherungspflichtverhältnis
@@ -5831,6 +6039,7 @@ bleibt unberührt.
 
 
 ##### § 143 Rahmenfrist
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028202126)
 
 (1) Die Rahmenfrist beträgt 30 Monate und beginnt mit dem Tag vor der
 Erfüllung aller sonstigen Voraussetzungen für den Anspruch auf
@@ -5847,6 +6056,7 @@ endet die Rahmenfrist spätestens fünf Jahre nach ihrem Beginn.
 
 
 ##### § 144 Anspruchsvoraussetzungen bei beruflicher Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028312126)
 
 (1) Anspruch auf Arbeitslosengeld hat auch, wer die Voraussetzungen
 für einen Anspruch auf Arbeitslosengeld bei Arbeitslosigkeit allein
@@ -5873,10 +6083,12 @@ Arbeitslosigkeit als erfüllt, wenn sie oder er
 
 
 #### Zweiter Unterabschnitt - Sonderformen des Arbeitslosengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057500666)
 
 
 
 ##### § 145 Minderung der Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028402308)
 
 (1) Anspruch auf Arbeitslosengeld hat auch eine Person, die allein
 deshalb nicht arbeitslos ist, weil sie wegen einer mehr als
@@ -5924,6 +6136,7 @@ insoweit zu erstatten.
 
 
 ##### § 146 Leistungsfortzahlung bei Arbeitsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028502308)
 
 (1) Wer während des Bezugs von Arbeitslosengeld infolge Krankheit
 unverschuldet arbeitsunfähig oder während des Bezugs von
@@ -5961,10 +6174,12 @@ sind, gelten entsprechend.
 
 
 #### Dritter Unterabschnitt - Anspruchsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057600666)
 
 
 
 ##### § 147 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028604126)
 
 (1) Die Dauer des Anspruchs auf Arbeitslosengeld richtet sich nach
 
@@ -6076,6 +6291,7 @@ oder des Arbeitslosen zugeordneten Höchstdauer.
 
 
 ##### § 148 Minderung und Verlängerung der Anspruchsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028706311)
 
 (1) Die Dauer des Anspruchs auf Arbeitslosengeld mindert sich um
 
@@ -6153,10 +6369,12 @@ Tagen sind auf volle Tage aufzurunden.
 
 
 #### Vierter Unterabschnitt - Höhe des Arbeitslosengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057700666)
 
 
 
 ##### § 149 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028803308)
 
 Das Arbeitslosengeld beträgt
 
@@ -6179,6 +6397,7 @@ Bemessungszeitraum erzielt hat (Bemessungsentgelt).
 
 
 ##### § 150 Bemessungszeitraum und Bemessungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE028903308)
 
 (1) Der Bemessungszeitraum umfasst die beim Ausscheiden aus dem
 jeweiligen Beschäftigungsverhältnis abgerechneten
@@ -6252,6 +6471,7 @@ verlangt und die zur Bemessung erforderlichen Unterlagen vorlegt.
 
 
 ##### § 151 Bemessungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE029020311)
 
 (1) Bemessungsentgelt ist das durchschnittlich auf den Tag entfallende
 beitragspflichtige Arbeitsentgelt, das die oder der Arbeitslose im
@@ -6341,6 +6561,7 @@ maßgebend, die bei Entstehung des Anspruchs für Angestellte im
 
 
 ##### § 152 Fiktive Bemessung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE029104311)
 
 (1) Kann ein Bemessungszeitraum von mindestens 150 Tagen mit Anspruch
 auf Arbeitsentgelt innerhalb des auf zwei Jahre erweiterten
@@ -6388,6 +6609,7 @@ Dabei ist zugrunde zu legen für Beschäftigungen, die
 
 
 ##### § 153 Leistungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE029213311)
 
 (1) Leistungsentgelt ist das um pauschalierte Abzüge verminderte
 Bemessungsentgelt. Abzüge sind
@@ -6478,6 +6700,7 @@ entsprechend zu berücksichtigen.
 
 
 ##### § 154 Berechnung und Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072800308)
 
 Das Arbeitslosengeld wird für Kalendertage berechnet und geleistet.
 Ist es für einen vollen Kalendermonat zu zahlen, ist dieser mit 30
@@ -6485,10 +6708,12 @@ Tagen anzusetzen.
 
 
 #### Fünfter Unterabschnitt - Minderung des Arbeitslosengeldes, Zusammentreffen des Anspruchs mit sonstigem Einkommen und Ruhen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057800308)
 
 
 
 ##### § 155 Anrechnung von Nebeneinkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE072900308)
 
 (1) Übt die oder der Arbeitslose während einer Zeit, für die ihr oder
 ihm Arbeitslosengeld zusteht, eine Erwerbstätigkeit im Sinne des § 138
@@ -6529,6 +6754,7 @@ angerechnet.
 
 
 ##### § 156 Ruhen des Anspruchs bei anderen Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073005311)
 
 (1) Der Anspruch auf Arbeitslosengeld ruht während der Zeit, für die
 ein Anspruch auf eine der folgenden Leistungen zuerkannt ist:
@@ -6605,6 +6831,7 @@ Bemessungsentgelts bezieht.
 
 
 ##### § 157 Ruhen des Anspruchs bei Arbeitsentgelt und Urlaubsabgeltung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073100308)
 
 (1) Der Anspruch auf Arbeitslosengeld ruht während der Zeit, für die
 die oder der Arbeitslose Arbeitsentgelt erhält oder zu beanspruchen
@@ -6627,6 +6854,7 @@ oder der Bezieher des Arbeitslosengeldes dieses insoweit zu erstatten.
 
 
 ##### § 158 Ruhen des Anspruchs bei Entlassungsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073202119)
 
 (1) Hat die oder der Arbeitslose wegen der Beendigung des
 Arbeitsverhältnisses eine Abfindung, Entschädigung oder ähnliche
@@ -6712,6 +6940,7 @@ Arbeitslosengeldes dieses insoweit zu erstatten.
 
 
 ##### § 159 Ruhen bei Sperrzeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073302124)
 
 (1) Hat die Arbeitnehmerin oder der Arbeitnehmer sich
 versicherungswidrig verhalten, ohne dafür einen wichtigen Grund zu
@@ -6848,6 +7077,7 @@ Arbeitsuchendmeldung beträgt eine Woche.
 
 
 ##### § 160 Ruhen bei Arbeitskämpfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE029906308)
 
 (1) Durch die Leistung von Arbeitslosengeld darf nicht in
 Arbeitskämpfe eingegriffen werden. Ein Eingriff in den Arbeitskampf
@@ -6920,10 +7150,12 @@ Anordnung erlassen.
 
 
 #### Sechster Unterabschnitt - Erlöschen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG057900308)
 
 
 
 ##### § 161 Erlöschen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE030002308)
 
 (1) Der Anspruch auf Arbeitslosengeld erlischt
 
@@ -6947,10 +7179,12 @@ werden, wenn nach seiner Entstehung vier Jahre verstrichen sind.
 
 
 #### Siebter Unterabschnitt - Teilarbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG058000308)
 
 
 
 ##### § 162 Teilarbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE030105308)
 
 (1) Anspruch auf Teilarbeitslosengeld hat, wer als Arbeitnehmerin oder
 Arbeitnehmer
@@ -7015,10 +7249,12 @@ folgenden Maßgaben:
 
 
 #### Achter Unterabschnitt - Verordnungsermächtigung und Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG058100308)
 
 
 
 ##### § 163 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE030204308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -7040,6 +7276,7 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 
 ##### § 164 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073400308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung Näheres zu
 bestimmen
@@ -7061,10 +7298,12 @@ bestimmen
 
 
 ### Zweiter Abschnitt - Insolvenzgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056700777)
 
 
 
 #### § 165 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073500308)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf
 Insolvenzgeld, wenn sie im Inland beschäftigt waren und bei einem
@@ -7121,6 +7360,7 @@ unverzüglich bekannt zu geben.
 
 
 #### § 166 Anspruchsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073600308)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer haben keinen Anspruch auf
 Insolvenzgeld für Ansprüche auf Arbeitsentgelt, die
@@ -7145,6 +7385,7 @@ ausgeschlossen ist, ist es zu erstatten.
 
 
 #### § 167 Höhe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073700308)
 
 (1) Insolvenzgeld wird in Höhe des Nettoarbeitsentgelts gezahlt, das
 sich ergibt, wenn das auf die monatliche Beitragsbemessungsgrenze (§
@@ -7169,6 +7410,7 @@ erhoben würden.
 
 
 #### § 168 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE073800308)
 
 Die Agentur für Arbeit kann einen Vorschuss auf das Insolvenzgeld
 leisten, wenn
@@ -7200,6 +7442,7 @@ anzurechnen. Er ist zu erstatten,
 
 
 #### § 169 Anspruchsübergang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE030803308)
 
 Ansprüche auf Arbeitsentgelt, die einen Anspruch auf Insolvenzgeld
 begründen, gehen mit dem Antrag auf Insolvenzgeld auf die
@@ -7209,6 +7452,7 @@ der Insolvenzordnung findet gegen die Bundesagentur statt.
 
 
 #### § 170 Verfügungen über das Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE030906308)
 
 (1) Soweit die Arbeitnehmerin oder der Arbeitnehmer vor Antragstellung
 auf Insolvenzgeld Ansprüche auf Arbeitsentgelt einem Dritten
@@ -7233,6 +7477,7 @@ Arbeitsstellen erhalten bleibt.
 
 
 #### § 171 Verfügungen über das Insolvenzgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031002308)
 
 Nachdem das Insolvenzgeld beantragt worden ist, kann der Anspruch auf
 Insolvenzgeld wie Arbeitseinkommen gepfändet, verpfändet oder
@@ -7241,6 +7486,7 @@ wird erst mit dem Antrag wirksam.
 
 
 #### § 172 Datenaustausch und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031105308)
 
 (1) Ist der insolvente Arbeitgeber auch in einem anderen Mitgliedstaat
 der Europäischen Union tätig, teilt die Bundesagentur dem zuständigen
@@ -7260,10 +7506,12 @@ Finanzverwaltung zu übermitteln.
 
 
 ### Dritter Abschnitt - Ergänzende Regelungen zur Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG056600777)
 
 
 
 #### § 173 Übernahme und Erstattung von Beiträgen bei Befreiung von der Versicherungspflicht in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031202308)
 
 (1) Wer Arbeitslosengeld oder Übergangsgeld bezieht und von der
 Versicherungspflicht in der gesetzlichen Rentenversicherung befreit
@@ -7313,6 +7561,7 @@ hat.
 
 
 #### § 174 Übernahme von Beiträgen bei Befreiung von der Versicherungspflicht in der Kranken- und Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031304126)
 
 (1) Bezieherinnen und Bezieher von Arbeitslosengeld, die
 
@@ -7372,6 +7621,7 @@ Satz 1 und 2 Nummer 2 entsprechend.
 
 
 #### § 175 Zahlung von Pflichtbeiträgen bei Insolvenzereignis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031406308)
 
 (1) Den Gesamtsozialversicherungsbeitrag nach § 28d des Vierten
 Buches, der auf Arbeitsentgelte für die letzten dem Insolvenzereignis
@@ -7394,10 +7644,12 @@ Satz 1 gezahlten Beiträge zu erstatten.
 
 
 ## Fünftes Kapitel - Zulassung von Trägern und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG035601308)
 
 
 
 ### § 176 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031502308)
 
 (1) Träger bedürfen der Zulassung durch eine fachkundige Stelle, um
 Maßnahmen der Arbeitsförderung selbst durchzuführen oder durchführen
@@ -7412,6 +7664,7 @@ nach den §§ 179 und 180.
 
 
 ### § 177 Fachkundige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031604308)
 
 (1) Fachkundige Stellen im Sinne des § 176 sind die von der
 Akkreditierungsstelle für die Zulassung nach dem Recht der
@@ -7494,6 +7747,7 @@ Einzelfall gefördert werden soll.
 
 
 ### § 178 Trägerzulassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031701308)
 
 Ein Träger ist von einer fachkundigen Stelle zuzulassen, wenn
 
@@ -7521,6 +7775,7 @@ Ein Träger ist von einer fachkundigen Stelle zuzulassen, wenn
 
 
 ### § 179 Maßnahmezulassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031808126)
 
 (1) Eine Maßnahme ist von der fachkundigen Stelle zuzulassen, wenn sie
 
@@ -7561,6 +7816,7 @@ des Maßnahmeziels besonders dienlich ist.
 
 
 ### § 180 Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE031907311)
 
 (1) Für eine Maßnahme der beruflichen Weiterbildung nach den §§ 81 und
 82 gelten für die Zulassung durch die fachkundige Stelle ergänzend die
@@ -7631,6 +7887,7 @@ berufliche Weiterbildung im Sinne dieses Buches.
 
 
 ### § 181 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE032004126)
 
 (1) Die Zulassung ist unter Beifügung der erforderlichen Unterlagen
 bei einer fachkundigen Stelle zu beantragen. Der Antrag muss alle
@@ -7727,6 +7984,7 @@ genannten Untergliederung zu veröffentlichen.
 
 
 ### § 182 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE032104308)
 
 (1) Bei der Bundesagentur wird ein Beirat eingerichtet, der
 Empfehlungen für die Zulassung von Trägern und Maßnahmen aussprechen
@@ -7808,6 +8066,7 @@ Bundesministerium für Bildung und Forschung berufen.
 
 
 ### § 183 Qualitätsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE032204308)
 
 (1) Die Agentur für Arbeit kann die Durchführung einer Maßnahme nach §
 176 Absatz 2 prüfen und deren Erfolg beobachten. Sie kann insbesondere
@@ -7862,6 +8121,7 @@ Erkenntnisse mit.
 
 
 ### § 184 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE032301308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
@@ -7871,10 +8131,12 @@ Verfahren zu regeln.
 
 
 ## Sechstes Kapitel - Ergänzende vergabespezifische Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG038002360)
 
 
 
 ### § 185 Vergabespezifisches Mindestentgelt für Aus- und Weiterbildungsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE075700360)
 
 (1) Träger haben bei der Ausführung eines öffentlichen Auftrags über
 Aus- und Weiterbildungsdienstleistungen nach diesem Buch im Gebiet der
@@ -7913,22 +8175,27 @@ der Vergabeverordnung sind anzuwenden.
 
 
 ### (XXXX) §§ 186 bis 239 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE032403360)
 
 
 
 ### (XXXX) §§ 240 bis 279a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE038106308)
 
 
 
 ## Siebtes Kapitel - Weitere Aufgaben der Bundesagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG042101308)
 
 
 
 ### Erster Abschnitt - Statistiken, Arbeitsmarkt- und Berufsforschung, Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG008500000)
 
 
 
 #### § 280 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE042201308)
 
 Die Bundesagentur hat Lage und Entwicklung der Beschäftigung und des
 Arbeitsmarktes im allgemeinen und nach Berufen, Wirtschaftszweigen und
@@ -7950,6 +8217,7 @@ beobachten, zu untersuchen und auszuwerten, indem sie
 
 
 #### § 281 Arbeitsmarktstatistiken, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076801360)
 
 (1) Die Bundesagentur erstellt amtliche Statistiken über
 
@@ -8036,6 +8304,7 @@ Daten.
 
 
 #### § 282 Arbeitsmarkt- und Berufsforschung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE042409360)
 
 (1) Die Bundesagentur hat bei der Festlegung von Inhalt, Art und
 Umfang der Arbeitsmarkt- und Berufsforschung ihren eigenen
@@ -8113,6 +8382,7 @@ gilt entsprechend. Für Sozialdaten gilt § 75 des Zehnten Buches.
 
 
 #### § 282a Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058415360)
 
 (1) Die Bundesagentur ist berechtigt, dem Statistischen Bundesamt und
 den statistischen Ämtern der Länder Tabellen mit statistischen
@@ -8188,6 +8458,7 @@ kann.
 
 
 #### § 282b Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung oder Löschung von Daten für die Ausbildungsvermittlung durch die Bundesagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE065702126)
 
 (1) Die Bundesagentur darf die ihr von den Auskunftsstellen
 übermittelten Daten über eintragungsfähige oder eingetragene
@@ -8223,6 +8494,7 @@ nach § 6a des Zweiten Buches.
 
 
 #### § 283 Arbeitsmarktberichterstattung, Weisungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE042502308)
 
 (1) Die Bundesagentur hat die Arbeitsmarktstatistiken und die
 Ergebnisse der Arbeitsmarkt- und Berufsforschung dem Bundesministerium
@@ -8239,14 +8511,17 @@ entsprechende fachliche Weisungen erteilen.
 
 
 ### Zweiter Abschnitt - Erteilung von Genehmigungen und Erlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG008600000)
 
 
 
 #### Erster Unterabschnitt - Beschäftigung von Ausländerinnen und Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG008701308)
 
 
 
 ##### § 284 Arbeitsgenehmigung-EU für Staatsangehörige der neuen EU-Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE042612119)
 
 (1) Soweit nach Maßgabe des Beitrittsvertrages eines Mitgliedstaates
 zur Europäischen Union abweichende Regelungen als Übergangsregelungen
@@ -8299,10 +8574,12 @@ Arbeitsberechtigung-EU fort.
 
 
 ##### (XXXX) §§ 285 u. 286 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE042704308)
 
 
 
 ##### § 287 Gebühren für die Durchführung der Vereinbarungen über Werkvertragsarbeitnehmerinnen und Werkvertragsarbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE042911126)
 
 (1) Für die Aufwendungen, die der Bundesagentur und den Behörden der
 Zollverwaltung bei der Durchführung der zwischenstaatlichen
@@ -8358,6 +8635,7 @@ Fassung anzuwenden.
 
 
 ##### § 288 Verordnungsermächtigung und Weisungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043004308)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung
@@ -8408,14 +8686,17 @@ Arbeitnehmerinnen und Arbeitnehmern Weisungen erteilen.
 
 
 #### Zweiter Unterabschnitt - Beratung und Vermittlung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG008801308)
 
 
 
 ##### Erster Titel - Berufsberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG008901308)
 
 
 
 ###### § 288a Untersagung der Berufsberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058503311)
 
 (1) Die Agentur für Arbeit hat einer natürlichen oder juristischen
 Person oder rechtsfähigen Personengesellschaft, die Berufsberatung
@@ -8457,6 +8738,7 @@ des Verwaltungs-Vollstreckungsgesetzes zu verhindern.
 
 
 ###### § 289 Offenbarungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043101308)
 
 Berufsberatende, die die Interessen eines Arbeitgebers oder einer
 Einrichtung wahrnehmen, sind verpflichtet, Ratsuchenden die Identität
@@ -8469,6 +8751,7 @@ Beratung von Bedeutung sein kann.
 
 
 ###### § 290 Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043201308)
 
 Für eine Berufsberatung dürfen Vergütungen von Ratsuchenden nur dann
 verlangt oder entgegengenommen werden, wenn die oder der
@@ -8479,14 +8762,17 @@ geschlossene Vereinbarungen sind unwirksam.
 
 
 ##### Zweiter Titel - Ausbildungsvermittlung und Arbeitsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009000000)
 
 
 
 ###### § 291 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043303308)
 
 
 
 ###### § 292 Auslandsvermittlung, Anwerbung aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043404308)
 
 Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung bestimmen, dass die Vermittlung für eine
@@ -8499,10 +8785,12 @@ durchgeführt werden dürfen.
 
 
 ###### (XXXX) §§ 293 bis 295 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043501308)
 
 
 
 ###### § 296 Vermittlungsvertrag zwischen Vermittlern und Arbeitsuchenden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043807126)
 
 (1) Ein Vertrag, nach dem sich ein Vermittler verpflichtet, einer oder
 einem Arbeitsuchenden eine Arbeitsstelle zu vermitteln, bedarf der
@@ -8542,6 +8830,7 @@ von § 45 Absatz 6 gezahlt hat.
 
 
 ###### § 296a Vergütungen bei Ausbildungsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE062201308)
 
 Für die Leistungen zur Ausbildungsvermittlung dürfen nur vom
 Arbeitgeber Vergütungen verlangt oder entgegengenommen werden. Zu den
@@ -8553,6 +8842,7 @@ verbundene Berufsberatung.
 
 
 ###### § 297 Unwirksamkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE043905126)
 
 Unwirksam sind
 
@@ -8589,6 +8879,7 @@ Unwirksam sind
 
 
 ###### § 298 Behandlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044004126)
 
 (1) Vermittler dürfen Daten über zu besetzende Ausbildungs- und
 Arbeitsplätze und über Ausbildungsuchende sowie Arbeitnehmerinnen und
@@ -8616,6 +8907,7 @@ und 4 gestatten; die Gestattung bedarf der Schriftform.
 
 
 ###### § 299 Informationspflicht bei grenzüberschreitender Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044104311)
 
 Bei einer grenzüberschreitenden Vermittlung hat der Vermittler die
 Arbeitsuchende oder den Arbeitsuchenden vor Abschluss des
@@ -8667,14 +8959,17 @@ die die oder der Arbeitsuchende versteht, zu informieren über:
 
 
 ###### § 300 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078700126)
 
 
 
 ##### Dritter Titel - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009101308)
 
 
 
 ###### § 301 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044305308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung zu bestimmen, dass für bestimmte Berufe oder
@@ -8684,30 +8979,37 @@ Arbeitsentgelt bemessen.
 
 
 ###### (XXXX) §§ 302 u. 303 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044401308)
 
 
 
 ### Dritter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009301308)
 
 
 
 #### (XXXX) §§ 304 bis 308 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE044612308)
 
 
 
 ## Achtes Kapitel - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG045100000)
 
 
 
 ### Erster Abschnitt - Pflichten im Leistungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009400000)
 
 
 
 #### Erster Unterabschnitt - Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009500000)
 
 
 
 ##### § 309 Allgemeine Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045203308)
 
 (1) Arbeitslose haben sich während der Zeit, für die sie einen
 Anspruch auf Arbeitslosengeld erheben, bei der Agentur für Arbeit oder
@@ -8756,6 +9058,7 @@ anderen Vorschriften oder auf Grund anderer Vorschriften dieses Buches
 
 
 ##### § 310 Meldepflicht bei Wechsel der Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045302308)
 
 Wird für die Arbeitslose oder den Arbeitslosen nach der
 Arbeitslosmeldung eine andere Agentur für Arbeit zuständig, hat sie
@@ -8764,10 +9067,12 @@ unverzüglich zu melden.
 
 
 #### Zweiter Unterabschnitt - Anzeige-, Nachweis- und Bescheinigungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009601360)
 
 
 
 ##### § 311 Anzeige- und Nachweispflichten bei Arbeitsunfähigkeit und stationärer Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045406125)
 
 (1) Wer Anspruch auf Arbeitslosengeld erhebt, ist verpflichtet,
 
@@ -8817,6 +9122,7 @@ beschäftigt sind.
 
 
 ##### § 312 Arbeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045510311)
 
 (1) Der Arbeitgeber hat auf Verlangen der Arbeitnehmerin oder des
 Arbeitnehmers oder auf Verlangen der Bundesagentur alle Tatsachen zu
@@ -8863,6 +9169,7 @@ nach § 313a Absatz 2.
 
 
 ##### § 312a Arbeitsbescheinigung für Zwecke des über- und zwischenstaatlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070102360)
 
 (1) Der Bescheinigungspflichtige nach § 312 Absatz 1 hat auf Verlangen
 der Bundesagentur alle Tatsachen zu bescheinigen, deren Kenntnis für
@@ -8885,6 +9192,7 @@ Arbeitgeber nach deutschen Rechtsvorschriften verpflichtet ist.
 
 
 ##### § 313 Nebeneinkommensbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045607311)
 
 (1) Wer eine Person, die Berufsausbildungsbeihilfe, Ausbildungsgeld,
 Arbeitslosengeld oder Übergangsgeld (laufende Geldleistungen)
@@ -8908,6 +9216,7 @@ Qualifizierungsgeld beantragt worden ist, entsprechend.
 
 
 ##### § 313a Bescheinigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE074303360)
 
 (1) Die Bescheinigungen nach § 312 Absatz 1, § 312a Absatz 1 und § 313
 sind von dem Bescheinigungspflichtigen der Bundesagentur elektronisch
@@ -8935,6 +9244,7 @@ Ausstellung verlangt hat.
 
 
 ##### § 314 Insolvenzgeldbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045706311)
 
 (1) Die Insolvenzverwalterin oder der Insolvenzverwalter hat auf
 Verlangen der Agentur für Arbeit für jede Arbeitnehmerin und jeden
@@ -8975,10 +9285,12 @@ Insolvenzordnung angeordnet worden ist.
 
 
 #### Dritter Unterabschnitt - Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009700000)
 
 
 
 ##### § 315 Allgemeine Auskunftspflicht Dritter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045805308)
 
 (1) Wer einer Person, die eine laufende Geldleistung beantragt hat
 oder bezieht, Leistungen erbringt, die geeignet sind, die laufende
@@ -9031,6 +9343,7 @@ entsprechend.
 
 
 ##### § 316 Auskunftspflicht bei Leistung von Insolvenzgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE045902308)
 
 (1) Der Arbeitgeber, die Insolvenzverwalterin oder der
 Insolvenzverwalter, die Arbeitnehmerinnen oder Arbeitnehmer sowie
@@ -9047,6 +9360,7 @@ Insolvenzgeldbescheinigung nach § 314 benötigt.
 
 
 ##### § 317 Auskunftspflicht bei Kurzarbeitergeld und Wintergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046002308)
 
 Wer Kurzarbeitergeld oder Wintergeld bezieht oder für wen diese
 Leistungen beantragt worden sind, hat dem zur Errechnung und
@@ -9055,6 +9369,7 @@ erforderlichen Auskünfte zu erteilen.
 
 
 ##### § 318 Auskunftspflicht bei Maßnahmen der beruflichen Aus- oder Weiterbildung, Leistungen zur Teilhabe am Arbeitsleben, zur Aktivierung und beruflichen Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046108360)
 
 (1) Arbeitgeber und Träger, bei denen eine Maßnahme der beruflichen
 Aus- und Weiterbildung, eine Leistung zur Teilhabe am Arbeitsleben
@@ -9099,6 +9414,7 @@ Träger sind verpflichtet,
 
 
 ##### § 319 Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046204126)
 
 (1) Wer eine Leistung der Arbeitsförderung beantragt, bezogen hat oder
 bezieht oder wer jemanden, bei dem dies der Fall ist oder für den eine
@@ -9130,10 +9446,12 @@ des Arbeitgebers zurückzugeben.
 
 
 #### Vierter Unterabschnitt - Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009800000)
 
 
 
 ##### § 320 Berechnungs-, Auszahlungs-, Aufzeichnungs- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046306311)
 
 (1) Der Arbeitgeber hat der Agentur für Arbeit auf Verlangen die
 Voraussetzungen für die Erbringung von Kurzarbeitergeld und Wintergeld
@@ -9188,10 +9506,12 @@ durch Arbeitseinstellung ausgefallenen Arbeitstage enthalten.
 
 
 ### Zweiter Abschnitt - Schadensersatz bei Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG009900000)
 
 
 
 #### § 321 Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046407311)
 
 Wer vorsätzlich oder fahrlässig
 
@@ -9235,10 +9555,12 @@ verpflichtet.
 
 
 ### Dritter Abschnitt - Verordnungsermächtigung und Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010001308)
 
 
 
 #### § 321a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058602308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über Art
@@ -9249,6 +9571,7 @@ Fristen zu bestimmen.
 
 
 #### § 322 Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046502308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung Näheres über die
 Meldepflicht der Arbeitslosen zu bestimmen. Sie kann auch bestimmen,
@@ -9257,14 +9580,17 @@ zur Entgegennahme der Meldung zuzulassen sind.
 
 
 ## Neuntes Kapitel - Gemeinsame Vorschriften für Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG046600000)
 
 
 
 ### Erster Abschnitt - Antrag und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010100000)
 
 
 
 #### § 323 Antragserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046714311)
 
 (1) Leistungen der Arbeitsförderung werden auf Antrag erbracht.
 Arbeitslosengeld gilt mit der Arbeitslosmeldung als beantragt, wenn
@@ -9311,6 +9637,7 @@ Jahre vergangen, ist kein erneuter Nachweis hierüber erforderlich.
 
 
 #### § 324 Antrag vor Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046809311)
 
 (1) Leistungen der Arbeitsförderung werden nur erbracht, wenn sie vor
 Eintritt des leistungsbegründenden Ereignisses beantragt worden sind.
@@ -9334,6 +9661,7 @@ Sorgfalt um die Durchsetzung ihrer Ansprüche bemüht haben.
 
 
 #### § 325 Wirkung des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE046913125)
 
 (1) Berufsausbildungsbeihilfe und Ausbildungsgeld werden rückwirkend
 längstens vom Beginn des Monats an geleistet, in dem die Leistungen
@@ -9361,6 +9689,7 @@ Maßnahme zu beantragen.
 
 
 #### § 326 Ausschlußfrist für Gesamtabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047001308)
 
 (1) Für Leistungen an Träger hat der Träger der Maßnahme der Agentur
 für Arbeit innerhalb einer Ausschlußfrist von sechs Monaten die
@@ -9376,10 +9705,12 @@ sind.
 
 
 ### Zweiter Abschnitt - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010200000)
 
 
 
 #### § 327 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047108311)
 
 (1) Für Leistungen an Arbeitnehmerinnen und Arbeitnehmer, mit Ausnahme
 des Kurzarbeitergeldes, des Wintergeldes, des Insolvenzgeldes, der
@@ -9424,10 +9755,12 @@ Absätzen 1 bis 5 auf andere Dienststellen übertragen.
 
 
 ### Dritter Abschnitt - Leistungsverfahren in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010300000)
 
 
 
 #### § 328 Vorläufige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047205308)
 
 (1) Über die Erbringung von Geldleistungen kann vorläufig entschieden
 werden, wenn
@@ -9473,6 +9806,7 @@ Sozialversicherung entsprechend anwendbar.
 
 
 #### § 329 Einkommensberechnung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047304308)
 
 Die Agentur für Arbeit kann das zu berücksichtigende Einkommen nach
 Anhörung der oder des Leistungsberechtigten schätzen, soweit Einkommen
@@ -9480,6 +9814,7 @@ nur für kurze Zeit zu berücksichtigen ist.
 
 
 #### § 330 Sonderregelungen für die Aufhebung von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047408308)
 
 (1) Liegen die in § 44 Abs. 1 Satz 1 des Zehnten Buches genannten
 Voraussetzungen für die Rücknahme eines rechtswidrigen nicht
@@ -9515,6 +9850,7 @@ mit Wirkung für die Vergangenheit zurückzunehmen.
 
 
 #### § 331 Vorläufige Zahlungseinstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047504308)
 
 (1) Die Agentur für Arbeit kann die Zahlung einer laufenden Leistung
 ohne Erteilung eines Bescheides vorläufig einstellen, wenn sie
@@ -9533,6 +9869,7 @@ Zahlung nicht mit Wirkung für die Vergangenheit aufgehoben ist.
 
 
 #### § 332 Übergang von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047605311)
 
 (1) Die Agentur für Arbeit kann durch schriftliche Anzeige an die
 leistungspflichtige Person bewirken, daß Ansprüche einer
@@ -9603,6 +9940,7 @@ Anspruch nicht übertragen, verpfändet oder gepfändet werden kann.
 
 
 #### § 333 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047709311)
 
 (1) Wurde eine Entgeltersatzleistung zu Unrecht bezogen, weil der
 Anspruch wegen der Anrechnung von Nebeneinkommen gemindert war oder
@@ -9633,6 +9971,7 @@ als anspruchsberechtigt.
 
 
 #### § 334 Pfändung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047802308)
 
 Bei Pfändung eines Geldleistungs- oder Erstattungsanspruchs gilt die
 Agentur für Arbeit, die über den Anspruch entschieden oder zu
@@ -9641,6 +9980,7 @@ Zivilprozeßordnung.
 
 
 #### § 335 Erstattung von Beiträgen zur Kranken-, Renten- und Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE047912311)
 
 (1) Wurden von der Bundesagentur für eine Bezieherin oder für einen
 Bezieher von Arbeitslosengeld Beiträge zur gesetzlichen
@@ -9725,10 +10065,12 @@ Elften Buches sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
 
 #### § 336 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048005126)
 
 
 
 #### § 336a Wirkung von Widerspruch und Klage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE060407308)
 
 Die aufschiebende Wirkung von Widerspruch und Klage entfällt
 
@@ -9749,10 +10091,12 @@ Abs. 2 Nr. 2).
 
 
 ### Vierter Abschnitt - Auszahlung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010400000)
 
 
 
 #### § 337 Auszahlung im Regelfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048104360)
 
 (1) (weggefallen)
 
@@ -9772,10 +10116,12 @@ Abschlagszahlungen geleistet werden.
 
 
 ### Fünfter Abschnitt - Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010500000)
 
 
 
 #### § 338 Allgemeine Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048202308)
 
 (1) Berechnungen werden auf zwei Dezimalstellen durchgeführt, wenn
 nichts Abweichendes bestimmt ist.
@@ -9791,6 +10137,7 @@ durchgeführt.
 
 
 #### § 339 Berechnung von Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048304308)
 
 Für die Berechnung von Leistungen wird ein Monat mit 30 Tagen und eine
 Woche mit sieben Tagen berechnet. Bei der Anwendung der Vorschriften
@@ -9805,14 +10152,17 @@ an eine abgeschlossene Leistung zur Teilhabe am Arbeitsleben.
 
 
 ## Zehntes Kapitel - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG048400000)
 
 
 
 ### Erster Abschnitt - Finanzierungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010600000)
 
 
 
 #### § 340 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048501308)
 
 Die Leistungen der Arbeitsförderung und die sonstigen Ausgaben der
 Bundesagentur werden durch Beiträge der Versicherungspflichtigen, der
@@ -9821,14 +10171,17 @@ Mittel des Bundes und sonstige Einnahmen finanziert.
 
 
 ### Zweiter Abschnitt - Beiträge und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010700000)
 
 
 
 #### Erster Unterabschnitt - Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010800000)
 
 
 
 ##### § 341 Beitragssatz und Beitragsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048608126)
 
 (1) Die Beiträge werden nach einem Prozentsatz (Beitragssatz) von der
 Beitragsbemessungsgrundlage erhoben.
@@ -9850,6 +10203,7 @@ allgemeinen Rentenversicherung.
 
 
 ##### § 342 Beitragspflichtige Einnahmen Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048700000)
 
 Beitragspflichtige Einnahme ist bei Personen, die beschäftigt sind,
 das Arbeitsentgelt, bei Personen, die zur Berufsausbildung beschäftigt
@@ -9858,10 +10212,12 @@ der Bezugsgröße.
 
 
 ##### § 343 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048801308)
 
 
 
 ##### § 344 Sonderregelungen für beitragspflichtige Einnahmen Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE048913311)
 
 (1) Für Seeleute gilt als beitragspflichtige Einnahme der Betrag, der
 nach dem Recht der gesetzlichen Unfallversicherung für die
@@ -9890,6 +10246,7 @@ Satz 1 des Vierten Buches entsprechend.
 
 
 ##### § 345 Beitragspflichtige Einnahmen sonstiger Versicherungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049017311)
 
 Als beitragspflichtige Einnahme gilt bei Personen,
 
@@ -9982,6 +10339,7 @@ Als beitragspflichtige Einnahme gilt bei Personen,
 
 
 ##### § 345a Pauschalierung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE061505308)
 
 Für die Personen, die als Bezieherinnen oder Bezieher einer Rente
 wegen voller Erwerbsminderung versicherungspflichtig sind (§ 26 Abs. 2
@@ -10047,6 +10405,7 @@ Juli desselben Jahres im Bundesanzeiger bekannt.
 
 
 ##### § 345b Beitragspflichtige Einnahmen bei einem Versicherungspflichtverhältnis auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE064705360)
 
 Für Personen, die ein Versicherungspflichtverhältnis auf Antrag
 begründen, gilt als beitragspflichtige Einnahme
@@ -10070,10 +10429,12 @@ ein Arbeitsentgelt in Höhe von 50 Prozent der monatlichen Bezugsgröße.
 
 
 #### Zweiter Unterabschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG010900000)
 
 
 
 ##### § 346 Beitragstragung bei Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049118311)
 
 (1) Die Beiträge werden von den versicherungspflichtig Beschäftigten
 und den Arbeitgebern je zur Hälfte getragen. Arbeitgeber im Sinne der
@@ -10117,6 +10478,7 @@ Dezember 2021 nicht anzuwenden.
 
 
 ##### § 347 Beitragstragung bei sonstigen Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049223311)
 
 Die Beiträge werden getragen
 
@@ -10245,6 +10607,7 @@ Die Beiträge werden getragen
 
 
 ##### § 348 Beitragszahlung für Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049301308)
 
 (1) Die Beiträge sind, soweit nichts Abweichendes bestimmt ist, von
 der- oder demjenigen zu zahlen, die oder der sie zu tragen hat.
@@ -10255,6 +10618,7 @@ Vierten Buches über den Gesamtsozialversicherungsbeitrag.
 
 
 ##### § 349 Beitragszahlung für sonstige Versicherungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049415311)
 
 (1) Für die Zahlung der Beiträge für Personen, die in Einrichtungen
 der beruflichen Rehabilitation Leistungen erhalten, die ihnen eine
@@ -10313,6 +10677,7 @@ berechtigt.
 
 
 ##### § 349a Beitragstragung und Beitragszahlung bei einem Versicherungspflichtverhältnis auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE064801308)
 
 Personen, die ein Versicherungspflichtverhältnis auf Antrag begründen,
 tragen die Beiträge allein. Die Beiträge sind an die Bundesagentur zu
@@ -10320,6 +10685,7 @@ zahlen. § 24 des Vierten Buches findet keine Anwendung.
 
 
 ##### § 350 Meldungen der Sozialversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049501308)
 
 (1) Die Einzugsstellen (§ 28i Viertes Buch) haben monatlich der
 Bundesagentur die Zahl der nach diesem Buch versicherungspflichtigen
@@ -10334,6 +10700,7 @@ erforderlich ist.
 
 
 ##### § 351 Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049604119)
 
 (1) Für die Erstattung zu Unrecht gezahlter Beiträge gilt abweichend
 von § 26 Abs. 2 des Vierten Buches, daß sich der zu erstattende Betrag
@@ -10356,10 +10723,12 @@ Vierten Buches gilt nicht.
 
 
 #### Dritter Unterabschnitt - Verordnungsermächtigung, Anordnungsermächtigung und Ermächtigung zum Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011001308)
 
 
 
 ##### § 352 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049703308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach
 Maßgabe der Finanzlage der Bundesagentur sowie unter Berücksichtigung
@@ -10398,6 +10767,7 @@ Zahlungsweise zu regeln.
 
 
 ##### § 352a Anordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE064901308)
 
 Die Bundesagentur wird ermächtigt, durch Anordnung das Nähere zum
 Antragsverfahren, zur Kündigung, zur Fälligkeit, Zahlung und
@@ -10406,6 +10776,7 @@ Antrag (§ 28a) zu bestimmen.
 
 
 ##### § 353 Ermächtigung zum Erlaß von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049801308)
 
 Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung des
 Bundesrates zur Durchführung der Meldungen der
@@ -10413,14 +10784,17 @@ Sozialversicherungsträger Verwaltungsvorschriften erlassen.
 
 
 ### Dritter Abschnitt - Umlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011100000)
 
 
 
 #### Erster Unterabschnitt - Winterbeschäftigungs-Umlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011202308)
 
 
 
 ##### § 354 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE049905311)
 
 Die Mittel für die ergänzenden Leistungen nach § 102 werden
 einschließlich der Verwaltungskosten und der sonstigen Kosten, die mit
@@ -10434,6 +10808,7 @@ Baugewerbes und weiteren Wirtschaftszweigen abgerechnet.
 
 
 ##### § 355 Höhe der Umlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050003308)
 
 Die Umlage ist in den einzelnen Zweigen des Baugewerbes und in
 weiteren Wirtschaftszweigen, die von saisonbedingtem Arbeitsausfall
@@ -10446,6 +10821,7 @@ Anteile an den Ausgaben berücksichtigt werden.
 
 
 ##### § 356 Umlageabführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050103308)
 
 (1) Die Arbeitgeber führen die Umlagebeträge über die gemeinsame
 Einrichtung ihres Wirtschaftszweiges oder über eine Ausgleichskasse
@@ -10466,6 +10842,7 @@ pauschal zu erstatten.
 
 
 ##### § 357 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050205308)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung
@@ -10510,10 +10887,12 @@ Bundesagentur für die Aufwendungen nach § 354 Satz 1 zu decken.
 
 
 #### Zweiter Unterabschnitt - Umlage für das Insolvenzgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011301308)
 
 
 
 ##### § 358 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050305311)
 
 (1) Die Mittel für die Zahlung des Insolvenzgeldes werden durch eine
 monatliche Umlage von den Arbeitgebern aufgebracht. Der Bund, die
@@ -10553,6 +10932,7 @@ werden pauschaliert.
 
 
 ##### § 359 Einzug und Weiterleitung der Umlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050404308)
 
 (1) Die Umlage ist zusammen mit dem Gesamtsozialversicherungsbeitrag
 an die Einzugsstelle zu zahlen. Die für den
@@ -10565,11 +10945,13 @@ Säumniszuschläge arbeitstäglich an die Bundesagentur weiter.
 
 
 ##### § 360 Umlagesatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050506311)
 
 Der Umlagesatz beträgt 0,15 Prozent.
 
 
 ##### § 361 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050607119)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -10598,14 +10980,17 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ##### § 362 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050704308)
 
 
 
 ### Vierter Abschnitt - Beteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011400000)
 
 
 
 #### § 363 Finanzierung aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050808308)
 
 (1) Der Bund trägt die Ausgaben für die Aufgaben, deren Durchführung
 die Bundesregierung auf Grund dieses Buches der Bundesagentur
@@ -10619,6 +11004,7 @@ jeweiligen Gesetz nichts Abweichendes bestimmt ist.
 
 
 #### § 364 Liquiditätshilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE050902308)
 
 (1) Der Bund leistet die zur Aufrechterhaltung einer ordnungsgemäßen
 Kassenwirtschaft notwendigen Liquiditätshilfen als zinslose Darlehen,
@@ -10630,6 +11016,7 @@ Tages die Einnahmen die Ausgaben übersteigen.
 
 
 #### § 365 Stundung von Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051003310)
 
 Kann die Bundesagentur als Liquiditätshilfen geleistete Darlehen des
 Bundes bis zum Schluss des Haushaltsjahres nicht zurückzahlen, gilt
@@ -10638,10 +11025,12 @@ gestundet.
 
 
 ### Fünfter Abschnitt - Rücklage und Versorgungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011501308)
 
 
 
 #### § 366 Bildung und Anlage der Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051103308)
 
 (1) Die Bundesagentur hat aus den Überschüssen der Einnahmen über die
 Ausgaben eine Rücklage zu bilden.
@@ -10660,6 +11049,7 @@ Verwaltungsvorschriften über die Anlage der Rücklage erlassen.
 
 
 #### § 366a Versorgungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE067402126)
 
 (1) Zur Finanzierung der Versorgungsausgaben (Versorgungsaufwendungen
 und Beihilfen) für
@@ -10751,14 +11141,17 @@ Versorgungsausgaben der Bundesagentur aus diesem geleistet.
 
 
 ## Elftes Kapitel - Organisation und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG051201308)
 
 
 
 ### Erster Abschnitt - Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011601308)
 
 
 
 #### § 367 Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051302308)
 
 (1) Die Bundesagentur für Arbeit (Bundesagentur) ist eine rechtsfähige
 bundesunmittelbare Körperschaft des öffentlichen Rechts mit
@@ -10780,6 +11173,7 @@ zusammen.
 
 
 #### § 368 Aufgaben der Bundesagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051408311)
 
 (1) Die Bundesagentur ist der für die Durchführung der Aufgaben nach
 diesem Buch zuständige Verwaltungsträger. Sie darf ihre Mittel nur für
@@ -10840,11 +11234,13 @@ Gemeinden in Verwaltungsvereinbarungen regeln.
 
 
 #### § 368a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE065001308)
 
 (weggefallen)
 
 
 #### § 369 Besonderheiten zum Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051501308)
 
 Hat eine Klage gegen die Bundesagentur Bezug auf den Aufgabenbereich
 einer Regionaldirektion oder einer Agentur für Arbeit, und ist der
@@ -10855,6 +11251,7 @@ Sitz hat.
 
 
 #### § 370 Beteiligung an Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051602308)
 
 Die Bundesagentur kann die Mitgliedschaft in Vereinen erwerben und mit
 Zustimmung des Bundesministeriums für Arbeit und Soziales sowie des
@@ -10864,14 +11261,17 @@ diesem Buch zweckmäßig ist.
 
 
 ### Zweiter Abschnitt - Selbstverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011701308)
 
 
 
 #### Erster Unterabschnitt - Verfassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011801308)
 
 
 
 ##### § 371 Selbstverwaltungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051706308)
 
 (1) Als Selbstverwaltungsorgane der Bundesagentur werden der
 Verwaltungsrat und die Verwaltungsausschüsse bei den Agenturen für
@@ -10907,6 +11307,7 @@ Mitglieder vertreten, die Rechte und Pflichten eines Mitglieds.
 
 
 ##### § 372 Satzung und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051802308)
 
 (1) Die Bundesagentur gibt sich eine Satzung.
 
@@ -10927,6 +11328,7 @@ Verhältnissen anpasst.
 
 
 ##### § 373 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE051906308)
 
 (1) Der Verwaltungsrat überwacht den Vorstand und die Verwaltung. Er
 kann vom Vorstand die Durchführung von Prüfungen durch die
@@ -10965,6 +11367,7 @@ stellvertretendes Mitglied benennen.
 
 
 ##### § 374 Verwaltungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052005308)
 
 (1) Bei jeder Agentur für Arbeit besteht ein Verwaltungsausschuss.
 
@@ -10982,10 +11385,12 @@ Jede Gruppe kann bis zu zwei stellvertretende Mitglieder benennen.
 
 
 ##### § 374a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE065102308)
 
 
 
 ##### § 375 Amtsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052103308)
 
 (1) Die Amtsdauer der Mitglieder der Selbstverwaltungsorgane beträgt
 sechs Jahre.
@@ -11001,6 +11406,7 @@ Amtsdauer der Mitglieder der Selbstverwaltungsorgane.
 
 
 ##### § 376 Entschädigung der ehrenamtlich Tätigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052205308)
 
 Die Bundesagentur erstattet den Mitgliedern und den stellvertretenden
 Mitgliedern der Selbstverwaltungsorgane ihre baren Auslagen und
@@ -11009,10 +11415,12 @@ beschließen.
 
 
 #### Zweiter Unterabschnitt - Berufung und Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG011901308)
 
 
 
 ##### § 377 Berufung und Abberufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052309126)
 
 (1) Die Mitglieder und die stellvertretenden Mitglieder der
 Selbstverwaltung werden berufen.
@@ -11055,6 +11463,7 @@ dies beantragt.
 
 
 ##### § 378 Berufungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052404308)
 
 (1) Als Mitglieder der Selbstverwaltungsorgane können nur Deutsche,
 die das passive Wahlrecht zum Deutschen Bundestag besitzen, sowie
@@ -11069,6 +11478,7 @@ Bundesagentur sein.
 
 
 ##### § 379 Vorschlagsberechtigte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052510119)
 
 (1) Vorschlagsberechtigt sind für die Mitglieder der Gruppen
 
@@ -11128,10 +11538,12 @@ die bei diesen hauptamtlich oder ehrenamtlich tätig sind.
 
 
 #### Dritter Unterabschnitt - Neutralitätsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012001308)
 
 
 
 ##### § 380 Neutralitätsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052603308)
 
 (1) Der Neutralitätsausschuss, der Feststellungen über bestimmte
 Voraussetzungen über das Ruhen des Arbeitslosengeldes bei
@@ -11161,10 +11573,12 @@ nicht entgegenstehen.
 
 
 ### Dritter Abschnitt - Vorstand und Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012102308)
 
 
 
 #### § 381 Vorstand der Bundesagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052703311)
 
 (1) Der Vorstand leitet die Bundesagentur und führt deren Geschäfte.
 Er vertritt die Bundesagentur gerichtlich und außergerichtlich.
@@ -11199,6 +11613,7 @@ Geschäftsführung der Bundesagentur zu erteilen.
 
 
 #### § 382 Rechtsstellung der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052804308)
 
 (1) Die oder der Vorsitzende und die übrigen Mitglieder des Vorstands
 werden auf Vorschlag des Verwaltungsrats von der Bundesregierung
@@ -11277,6 +11692,7 @@ noch nicht die gesetzliche Altersgrenze erreicht haben.
 
 
 #### § 383 Geschäftsführung der Agenturen für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE052903308)
 
 (1) Die Agenturen für Arbeit werden von einer Geschäftsführerin, einem
 Geschäftsführer oder einer Geschäftsführung geleitet. Eine
@@ -11300,6 +11716,7 @@ wichtigem Anlass zu berichten und ihm auf Verlangen jederzeit Auskunft
 
 
 #### § 384 Geschäftsführung der Regionaldirektionen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053004308)
 
 (1) Die Regionaldirektionen werden von einer Geschäftsführung
 geleitet. Die Geschäftsführung besteht aus einer oder einem
@@ -11311,6 +11728,7 @@ Verwaltungsrat und die beteiligten Landesregierungen anzuhören.
 
 
 #### § 385 Beauftragte für Chancengleichheit am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053103308)
 
 (1) Bei den Agenturen für Arbeit, bei den Regionaldirektionen und bei
 der Zentrale sind hauptamtliche Beauftragte für Chancengleichheit am
@@ -11343,6 +11761,7 @@ Verwaltungsausschuss.
 
 
 #### § 386 Innenrevision
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053202308)
 
 (1) Die Bundesagentur stellt durch organisatorische Maßnahmen sicher,
 dass in allen Dienststellen durch eigenes nicht der Dienststelle
@@ -11363,6 +11782,7 @@ das Wort ergreifen.
 
 
 #### § 387 Personal der Bundesagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053307377)
 
 (1) Das Personal der Bundesagentur besteht vorrangig aus
 Arbeitnehmerinnen und Arbeitnehmern. Die Beamtinnen und Beamten der
@@ -11443,6 +11863,7 @@ höchstens jedoch der dritten folgenden Besoldungsgruppe.
 
 
 #### § 388 Ernennung der Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053403308)
 
 (1) Der Vorstand ernennt die Beamtinnen und Beamten.
 
@@ -11452,6 +11873,7 @@ Ernennungsbefugnisse übertragen werden.
 
 
 #### § 389 Anstellungsverhältnisse oberster Führungskräfte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053504308)
 
 (1) Folgende Funktionen werden vorrangig in einem befristeten
 außertariflichen Arbeitsverhältnis oberster Führungskräfte
@@ -11502,6 +11924,7 @@ Arbeitsverhältnis.
 
 
 #### § 390 Außertarifliche Arbeitsbedingungen und Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053604308)
 
 (1) Der Vorstand regelt mit Zustimmung des Verwaltungsrats und im
 Benehmen mit dem Bundesministerium für Arbeit und Soziales und dem
@@ -11577,11 +12000,13 @@ Einzelfälle sind folgende Angaben auszuweisen:
 
 
 #### § 391 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053703308)
 
 -
 
 
 #### § 392 Obergrenzen für Beförderungsämter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053805126)
 
 Bei der Bundesagentur können die nach § 17a Absatz 1 der
 Bundeshaushaltsordnung zulässigen Obergrenzen für Beförderungsämter
@@ -11591,10 +12016,12 @@ infolge einer Verminderung von Planstellen erforderlich ist.
 
 
 ### Vierter Abschnitt - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012201308)
 
 
 
 #### § 393 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE053903308)
 
 (1) Die Aufsicht über die Bundesagentur führt das Bundesministerium
 für Arbeit und Soziales. Sie erstreckt sich darauf, dass Gesetze und
@@ -11606,10 +12033,12 @@ Verwaltungsrat zu genehmigen ist.
 
 
 ### Fünfter Abschnitt - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012301308)
 
 
 
 #### § 394 Verarbeitung von Sozialdaten durch die Bundesagentur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE054008126)
 
 (1) Die Bundesagentur darf Sozialdaten nur verarbeiten, soweit dies
 zur Erfüllung ihrer gesetzlich vorgeschriebenen oder zugelassenen
@@ -11661,6 +12090,7 @@ Sozialgesetzbuches angeordnet oder erlaubt ist.
 
 
 #### § 395 Datenübermittlung an Dritte; Verarbeitung von Sozialdaten durch nicht-öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE054102126)
 
 (1) Die Bundesagentur darf Dritten, die mit der Erfüllung von Aufgaben
 nach diesem Buch beauftragt sind, Sozialdaten übermitteln, soweit dies
@@ -11672,6 +12102,7 @@ Stellen mit der Verarbeitung von Sozialdaten beauftragen.
 
 
 #### § 396 Kennzeichnungs- und Maßregelungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE054202308)
 
 Die Bundesagentur und von ihr beauftragte Dritte dürfen Berechtigte
 und Arbeitgeber bei der Speicherung oder Übermittlung von Daten nicht
@@ -11682,6 +12113,7 @@ entsprechenden Maßnahmen gegen Arbeitgeber nicht mitwirken.
 
 
 #### § 397 Automatisierter Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE066405311)
 
 (1) Soweit für die Erbringung oder die Erstattung von Leistungen nach
 diesem Buch erforderlich, darf die Bundesagentur Angaben zu Personen,
@@ -11769,6 +12201,7 @@ Bezug von Leistungen stehen, verarbeitet werden.
 
 
 #### § 398 Datenübermittlung durch beauftragte Dritte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE054402119)
 
 Hat die Bundesagentur eine externe Gutachterin oder einen externen
 Gutachter beauftragt, eine ärztliche oder psychologische Untersuchung
@@ -11779,18 +12212,22 @@ erforderlich ist.
 
 
 #### (XXXX) §§ 399 bis 403 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE054304119)
 
 
 
 ## Zwölftes Kapitel - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG055001308)
 
 
 
 ### Erster Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012400000)
 
 
 
 #### § 404 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076908125)
 
 (1) Ordnungswidrig handelt, wer als Unternehmerin oder Unternehmer
 Dienst- oder Werkleistungen in erheblichem Umfang ausführen lässt,
@@ -11960,6 +12397,7 @@ mit einer Geldbuße bis zu zweitausend Euro geahndet werden.
 
 
 #### § 405 Zuständigkeit, Vollstreckung und Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE055217360)
 
 (1) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten sind in den Fällen
@@ -12016,61 +12454,76 @@ sind.
 
 
 ### Zweiter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012501308)
 
 
 
 #### (XXXX) §§ 406 und 407 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE055309308)
 
 
 
 ## Dreizehntes Kapitel - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG055500000)
 
 
 
 ### Erster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012601360)
 
 
 
 #### § 408 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE055601360)
 
 
 #### (XXXX) §§ 409 u. 410 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE055701308)
 
 
 
 #### § 411 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE055905308)
 
 
 
 #### § 412 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE056001308)
 
 
 
 #### § 413 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE056103308)
 
 
 
 #### § 414 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE056205308)
 
 
 
 #### § 415 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE056306308)
 
 
 
 #### § 416 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE056405308)
 
 -
 
 
 #### § 416a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE059303308)
 
 
 ### Zweiter Abschnitt - Ergänzungen für übergangsweise mögliche Leistungen und zeitweilige Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012701308)
 
 
 
 #### § 417 Sonderregelung zum Bundesprogramm „Ausbildungsplätze sichern“
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE063309125)
 
 Soweit die Bundesregierung die Umsetzung des Bundesprogramms
 „Ausbildungsplätze sichern“ der Bundesagentur überträgt, erstattet der
@@ -12079,6 +12532,7 @@ die Umsetzung entstehenden Verwaltungskosten.
 
 
 #### § 418 Tragung der Beiträge zur Arbeitsförderung bei Beschäftigung älterer Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE063402308)
 
 (1) Arbeitgeber, die ein Beschäftigungsverhältnis mit einer zuvor
 arbeitslosen Person, die das 55. Lebensjahr vollendet hat, erstmalig
@@ -12092,10 +12546,12 @@ begründet worden sind.
 
 
 #### § 419 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE068906126)
 
 
 
 #### § 420 Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE069603119)
 
 Versicherungsfrei sind Personen in einer Beschäftigung, die im Rahmen
 des Bundesprogramms „Soziale Teilhabe am Arbeitsmarkt“ durch
@@ -12103,6 +12559,7 @@ Zuwendungen des Bundes gefördert wird.
 
 
 #### § 421 Förderung der Teilnahme an Sprachkursen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE056908119)
 
 (1) Die Agentur für Arbeit kann die Teilnahme von Ausländerinnen und
 Ausländern, die eine Aufenthaltsgestattung besitzen und bei denen ein
@@ -12146,6 +12603,7 @@ Arbeitsförderung im Sinne des § 3 Absatz 1 und 2.
 
 
 #### § 421a Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058703308)
 
 Arbeiten in Maßnahmen, die durch das Arbeitsmarktprogramm
 Flüchtlingsintegrationsmaßnahmen bereitgestellt werden, begründen kein
@@ -12159,6 +12617,7 @@ Arbeitnehmer.
 
 
 #### § 421b Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076705311)
 
 Die Bundesagentur berät im Rahmen eines Modellvorhabens Personen, die
 sich nicht nur vorübergehend im Ausland aufhalten, zu den
@@ -12170,6 +12629,7 @@ Satz 2 findet keine Anwendung.
 
 
 #### § 421c Vorübergehende Sonderregelung im Zusammenhang mit Kurzarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE077607311)
 
 Vorläufige Entscheidungen nach § 328 Absatz 1 Nummer 3 über die
 Zahlung von Kurzarbeitergeld für die Monate März 2020 bis Juni 2022
@@ -12185,6 +12645,7 @@ Betriebsvertretung die Durchführung der Abschlussprüfungen verlangen.
 
 
 #### § 421d Vorübergehende Sonderregelungen zum Arbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078307311)
 
 (1) Für Personen, deren Anspruch auf Arbeitslosengeld sich in der Zeit
 vom 1. Mai 2020 bis zum 31. Dezember 2020 auf einen Tag gemindert hat,
@@ -12239,6 +12700,7 @@ einschließlich der Verwaltungskosten für die Einmalzahlung.
 
 
 #### § 421e Vorübergehende Sonderregelungen im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE061705311)
 
 (1) Die Mitteilungspflicht der Bundesagentur für Arbeit nach § 172
 Absatz 1 ist entsprechend für insolvente Arbeitgeber anzuwenden, die
@@ -12274,6 +12736,7 @@ Großbritannien und Nordirland haben.
 
 
 #### § 421f Übermittlung von Daten zum Bezug von Kurzarbeitergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE061807311)
 
 (1) Die Bundesagentur für Arbeit ist bis zum 31. Dezember 2025
 berechtigt, Daten über die Höhe des dem Arbeitgeber für seine
@@ -12289,10 +12752,12 @@ automatisierten Abruf aus ihrem Datenbestand bereitstellt.
 
 
 ### Dritter Abschnitt - Grundsätze bei Rechtsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012800000)
 
 
 
 #### § 422 Leistungen der aktiven Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057000000)
 
 (1) Wird dieses Gesetzbuch geändert, so sind, soweit nichts
 Abweichendes bestimmt ist, auf Leistungen der aktiven Arbeitsförderung
@@ -12318,20 +12783,24 @@ Entscheidung über die Verlängerung geltenden Vorschriften.
 
 
 #### § 423
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057101308)
 
 (weggefallen)
 
 
 #### § 424
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057201308)
 
 (weggefallen)
 
 
 ### Vierter Abschnitt - Sonderregelungen im Zusammenhang mit der Einordnung des Arbeitsförderungsrechts in das Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG012900000)
 
 
 
 #### § 425 Übergang von der Beitrags- zur Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057300000)
 
 Zeiten einer die Beitragspflicht begründenden Beschäftigung sowie
 sonstige Zeiten der Beitragspflicht nach dem Arbeitsförderungsgesetz
@@ -12340,13 +12809,16 @@ Versicherungspflichtverhältnisses.
 
 
 #### § 426 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057403308)
 
 
 #### § 427 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057505308)
 
 
 
 #### § 427a Gleichstellung von Mutterschaftszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE066600301)
 
 (1) Für Personen, die in der Zeit vom 1. Januar 1998 bis zum 31.
 Dezember 2002 Sonderunterstützung nach dem Mutterschutzgesetz oder
@@ -12382,16 +12854,19 @@ Fassung entsprechend.
 
 
 #### § 428 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057607311)
 
 
 
 
 #### § 429
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057701308)
 
 (weggefallen)
 
 
 #### § 430 Sonstige Entgeltersatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057802308)
 
 (1) Bei der Anwendung der Regelungen über die für Leistungen zur
 Förderung der beruflichen Weiterbildung und für Leistungen zur
@@ -12431,23 +12906,28 @@ einer betriebsorganisatorisch eigenständigen Einheit.
 
 
 #### § 431 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE057903308)
 
 
 
 #### § 432 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058001308)
 
 
 
 #### § 433
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058101308)
 
 (weggefallen)
 
 
 ### Fünfter Abschnitt - Übergangsregelungen auf Grund von Änderungsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNG055802308)
 
 
 
 #### § 434 Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE058907308)
 
 (1) Bei der Anwendung des § 26 Abs. 2 Nr. 3 und des § 345a gilt die
 Rente wegen Erwerbsunfähigkeit, deren Beginn vor dem 1. Januar 2001
@@ -12500,6 +12980,7 @@ der Maßgabe anzuwenden, dass
 
 
 #### § 435 Gesetz zur Vereinfachung der Wahl der Arbeitnehmervertreter in den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE062602308)
 
 Zum 27. März 2002 treten der Präsident der Bundesanstalt für Arbeit
 und der Vizepräsident der Bundesanstalt für Arbeit in den Ruhestand.
@@ -12513,6 +12994,7 @@ geltenden Fassung genannten Zeitpunkt gleichsteht.
 
 
 #### § 436 Zweites Gesetz für moderne Dienstleistungen am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE063801308)
 
 Personen, die am 31. März 2003 in einer mehr als geringfügigen
 Beschäftigung versicherungspflichtig waren, die die Merkmale einer
@@ -12524,6 +13006,7 @@ an. Sie ist auf diese Beschäftigung beschränkt.
 
 
 #### § 437 Drittes Gesetz für moderne Dienstleistungen am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE065405311)
 
 (1) Die Beamtinnen und Beamten der Bundesanstalt, die vor dem 2. Juli
 2003 ganz oder überwiegend Aufgaben der Arbeitsmarktinspektion
@@ -12599,11 +13082,13 @@ Beamten sowie Angestellten entsprechend.
 
 
 #### § 438 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE066205119)
 
 
 Siebtes Gesetz zur Änderung des Dritten Buches
 
 #### § 439 Sozialgesetzbuch und anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE067502308)
 
 Ist ein Anspruch auf Arbeitslosengeld mit einer dem Lebensalter der
 oder des Arbeitslosen entsprechenden Höchstanspruchsdauer nach § 127
@@ -12615,6 +13100,7 @@ das 58. Lebensjahr vollendet haben, auf 24 Monate.
 
 
 #### § 440 Gesetz zur Neuausrichtung der arbeitsmarktpolitischen Instrumente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE068403308)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer, die am 31. Dezember 2008 in
 einer Arbeitsgelegenheit in der Entgeltvariante versicherungspflichtig
@@ -12646,6 +13132,7 @@ beruflichen Rehabilitation.
 
 
 #### § 441 Bürgerentlastungsgesetz Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE069101308)
 
 Ist der Anspruch auf Arbeitslosengeld vor dem 1. Januar 2010
 entstanden, ist § 133 Absatz 1 in der bis zum 31. Dezember 2009
@@ -12653,6 +13140,7 @@ geltenden Fassung anzuwenden.
 
 
 #### § 442 Beschäftigungschancengesetz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE069701308)
 
 (1) Personen, die als Selbständige oder Auslandsbeschäftigte vor dem
 1\. Januar 2011 ein Versicherungspflichtverhältnis auf Antrag nach §
@@ -12673,6 +13161,7 @@ Fassung ist insoweit nicht anzuwenden.
 
 
 #### § 443 Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE070201308)
 
 (1) Für Arbeitsbeschaffungsmaßnahmen nach § 260 und
 Arbeitsgelegenheiten nach § 16d des Zweiten Buches in der vor dem 1.
@@ -12741,6 +13230,7 @@ Vertragslaufzeit; § 422 Absatz 1 Nummer 3 gilt insoweit nicht.
 
 
 #### § 444 Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE074000308)
 
 (1) Personen, die am 31. Dezember 2012 in einer mehr als geringfügigen
 Beschäftigung nach § 8 Absatz 1 Nummer 1 oder § 8a in Verbindung mit §
@@ -12762,6 +13252,7 @@ Sechsten Buches entsprechend.
 
 
 #### § 444a Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE075300119)
 
 (1) § 28a Absatz 1 Satz 1 Nummer 4 und 5 in der Fassung vom 1. August
 2016 gilt mit der Maßgabe, dass ein Antrag unberührt von § 28a Absatz
@@ -12779,12 +13270,14 @@ für Ansprüche auf Arbeitslosengeld anzuwenden, die nach dem 31. Juli
 
 
 #### § 445 Fünfundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE074400119)
 
 Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 116 und 123 bis
 126 ab dem 1. August 2016 anzuwenden.
 
 
 #### § 445a Gesetz zur Anpassung der Berufsausbildungsbeihilfe und des Ausbildungsgeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076300124)
 
 Abweichend von § 422 sind
 
@@ -12806,6 +13299,7 @@ anzuwenden.
 
 
 #### § 446 Zweites Gesetz zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE074600301)
 
 (1) Für Personen, die am 31. Dezember 2016 nach § 26 Absatz 2b in der
 am 31. Dezember 2016 geltenden Fassung versicherungspflichtig waren,
@@ -12822,6 +13316,7 @@ Absatz 3 Satz 5 und 6 bleibt unberührt.
 
 
 #### § 447 Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076201125)
 
 (1) Für Personen, die nach dem 31. Dezember 2019 nicht in einem
 Versicherungspflichtverhältnis gestanden haben, finden die §§ 142, 143
@@ -12835,6 +13330,7 @@ Arbeitslose (§ 70).
 
 
 #### § 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE076400124)
 
 Für Fälle des § 132 Absatz 1 Satz 1 Nummer 2 in der bis zum 31. Juli
 2019 geltenden Fassung sind abweichend von § 60 Absatz 3 und
@@ -12850,6 +13346,7 @@ Zeitpunkt der ersten Antragstellung abzustellen.
 
 
 #### § 449 Gesetz zur Modernisierung und Stärkung der beruflichen Bildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE077201126)
 
 § 346 Absatz 1b in der bis zum 31. Dezember 2019 geltenden Fassung ist
 weiterhin anzuwenden, wenn die Berufsausbildung in einer
@@ -12857,6 +13354,7 @@ außerbetrieblichen Einrichtung vor dem 1. Januar 2020 begonnen wurde.
 
 
 #### § 450 Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078200126)
 
 (1) Für die Teilnahme an Maßnahmen zur Aktivierung und beruflichen
 Eingliederung, die vor dem 1. Januar 2021 nach § 45 Absatz 1 Satz 1
@@ -12893,6 +13391,7 @@ Ausbildungsbetrieb aber in Deutschland liegt.
 
 
 #### § 451 Siebtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078501360)
 
 (1) § 25 Absatz 1 Satz 2 Nummer 3 findet grundsätzlich nur Anwendung
 auf Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde
@@ -12916,6 +13415,7 @@ Nebenerwerbstätigkeit vor dem 1. Januar 2023 geendet hat.
 
 
 #### § 452 Gesetz zur Regelung des Sozialen Entschädigungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078900311)
 
 (1) Bei der Anwendung von § 26 Absatz 2 Nummer 1, § 156 Absatz 1 Satz
 1 Nummer 2, § 345 Nummer 5 und § 347 Nummer 5 Buchstabe a gilt das
@@ -12930,6 +13430,7 @@ Fassung weiter.
 
 
 #### § 453 Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE078800126)
 
 § 336 in der bis zum 31. März 2022 geltenden Fassung ist weiter
 anzuwenden, wenn die Deutsche Rentenversicherung Bund im Verfahren
@@ -12939,6 +13440,7 @@ Verwaltungsakt festgestellt hat.
 
 
 #### § 454 Gesetz zur Erhöhung des Schutzes durch den gesetzlichen Mindestlohn und zu Änderungen im Bereich der geringfügigen Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079002311)
 
 (1) § 76 Absatz 7 Satz 2 in der ab dem 1. Juli 2022 geltenden Fassung
 findet bei vor diesem Tag vereinbarten Ausbildungsvergütungen keine
@@ -12964,18 +13466,21 @@ ist. Die Befreiung gilt nur für die in Satz 1 genannte Beschäftigung.
 
 
 #### § 455 Siebenundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079400119)
 
 Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67 und 123 bis 126
 ab dem 1. August 2022 anzuwenden.
 
 
 #### § 455a Neunundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE080500125)
 
 Abweichend von § 422 sind die §§ 54a, 61, 62, 64, 67, 68 und die §§
 123 bis 126 ab dem 1. August 2024 anzuwenden.
 
 
 #### § 456 Zwölftes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze – Einführung eines Bürgergeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079600311)
 
 (1) § 87a Absatz 2 ist auch anzuwenden, wenn die berufliche
 Weiterbildung vor dem 1. Juli 2023 begonnen und nach dem 30. Juni 2023
@@ -12992,6 +13497,7 @@ beendet worden ist.
 
 
 #### § 457 Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE079700311)
 
 § 349 Absatz 5 Satz 2 und 3 in der bis zum 31. Dezember 2023 geltenden
 Fassung gilt für Zeiten eines Versicherungspflichtverhältnisses nach §
@@ -12999,12 +13505,14 @@ Fassung gilt für Zeiten eines Versicherungspflichtverhältnisses nach §
 
 
 #### § 458 Gesetz zur Stärkung der Aus- und Weiterbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE080300311)
 
 § 73a findet keine Anwendung auf Berufsausbildungen, die vor dem 1.
 April 2024 begonnen haben.
 
 
 #### § 459 Übergangsregelung aus Anlass des Haushaltsfinanzierungsgesetzes 2024
+[Direktlink](https://www.gesetze-im-internet.de/sgb_3/BJNR059500997.html#BJNR059500997BJNE080400311)
 
 Die Bundesagentur trägt ab dem 1. Januar 2025 die Aufwendungen, die
 sich aus der Anwendung des § 66a des Zweiten Buches ergeben. Eine

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wgsbek/BJNR012590984.html#BJNR012590984BJNE000100308)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29)
@@ -29,11 +30,13 @@ die in der Republik Österreich für Wein eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wgsbek/BJNR012590984.html#BJNR012590984BJNE000900308)
 
 Der Bundesminister der Justiz
 
 
 ## (XXXX) Prüf- und Gewährzeichen der Republik Österreich für Wein
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wgsbek/BJNR012590984.html#BJNR012590984BJNE000200308)
 
 (Inhalt: Nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1984, 1259)

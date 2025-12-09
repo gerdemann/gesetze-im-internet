@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Unterschutzstellung, Ausnahmen und Verbote
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000100000)
 
 
 
 ### § 1 Besonders geschützte und streng geschützte Tier- und Pflanzenarten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000100000)
 
 Die in Anlage 1 Spalte 2 mit einem Kreuz (+) bezeichneten Tier- und
 Pflanzenarten werden unter besonderen Schutz gestellt. Die in Anlage 1
@@ -32,6 +34,7 @@ werden unter strengen Schutz gestellt.
 
 
 ### § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000202377)
 
 (1) Die Verbote des § 44 Absatz 1 Nummer 4 und Absatz 2 Satz 1 Nummer
 1 des Bundesnaturschutzgesetzes gelten nicht für Pilze der nachstehend
@@ -80,6 +83,7 @@ Absatz 1 Nummer 1 und 3 des Bundesnaturschutzgesetzes ausgenommen.
 
 
 ### § 3 Verbote für nicht besonders geschützte Tierarten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000301377)
 
 (1) Die Besitz- und Vermarktungsverbote des § 44 Absatz 2 Satz 1 des
 Bundesnaturschutzgesetzes gelten nach § 44 Absatz 3 Nummer 2 des
@@ -126,6 +130,7 @@ des öffentlichen Rechts gehören.
 
 
 ### § 4 Verbotene Handlungen, Verfahren und Geräte
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000402377)
 
 (1) Es ist verboten, in folgender Weise wild lebenden Tieren der
 besonders geschützten Arten und der nicht besonders geschützten
@@ -217,10 +222,12 @@ unberührt.
 
 
 ## Abschnitt 2 - Teile und Erzeugnisse, Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000200000)
 
 
 
 ### § 5 Teile und Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000501377)
 
 Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne
 weiteres erkennbar aus ihnen gewonnene Erzeugnisse im Sinne des § 7
@@ -246,6 +253,7 @@ des Bundesnaturschutzgesetzes sind
 
 
 ### § 6 Aufnahme- und Auslieferungsbuch
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000601377)
 
 (1) Wer gewerbsmäßig Tiere oder Pflanzen der besonders geschützten
 Arten erwirbt, be- oder verarbeitet oder in den Verkehr bringt, hat
@@ -339,14 +347,17 @@ unberührt.
 
 
 ## Abschnitt 3 - Haltung und Zucht, Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000300000)
 
 
 
 ### Unterabschnitt 1 - Haltung und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000400000)
 
 
 
 #### § 7 Haltung von Wirbeltieren
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000700000)
 
 (1) Wirbeltiere der besonders geschützten und der in § 3 Abs. 1 Satz 1
 genannten Arten dürfen nur gehalten werden, wenn sie keinem
@@ -386,10 +397,12 @@ des Artenschutzes nicht entgegenstehen.
 
 
 ### Unterabschnitt 2 - Zucht und Haltung von Greifvogelhybriden
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000500000)
 
 
 
 #### § 8 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000800000)
 
 Greifvogelhybriden im Sinne dieser Verordnung sind Greifvögel, die
 genetische Anteile von mindestens einer heimischen sowie einer
@@ -397,6 +410,7 @@ weiteren Greifvogelart enthalten.
 
 
 #### § 9 Zuchtverbot
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE000900000)
 
 (1) Es ist verboten, Greifvogelhybriden zu züchten.
 
@@ -406,6 +420,7 @@ Greifvogelhybriden begonnen haben.
 
 
 #### § 10 Haltungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001000000)
 
 Es ist verboten, Greifvogelhybriden zu halten. Ausgenommen von dem
 Verbot sind Tiere, die vor dem 25. Februar 2005 in Übereinstimmung mit
@@ -415,6 +430,7 @@ Sitz im Ausland.
 
 
 #### § 11 Flugverbot, Entweichen
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001100000)
 
 (1) Es ist verboten, Greifvogelhybriden in den Flug zu entlassen.
 
@@ -438,10 +454,12 @@ entwichen ist, gilt Absatz 3 entsprechend.
 
 
 ## Abschnitt 4 - Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000600000)
 
 
 
 ### § 12 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001201377)
 
 Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1
 aufgeführten Arten hält, hat diese unverzüglich zu kennzeichnen. Die
@@ -459,6 +477,7 @@ zu erfolgen.
 
 
 ### § 13 Kennzeichnungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001300000)
 
 (1) Für die Kennzeichnung sind die Kennzeichnungsmethoden zu
 verwenden, die in Anlage 6 Spalte 2 bis 6 mit einem Kreuz (+) bei den
@@ -532,6 +551,7 @@ auf Verlangen vorzulegen.
 
 
 ### § 14 Ausnahmen von der Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001400000)
 
 (1) Die Kennzeichnungspflicht nach § 12 entfällt, wenn ein verletztes,
 hilfloses oder krankes Wirbeltier aufgenommen wird, um es gesund zu
@@ -553,6 +573,7 @@ sichergestellt ist.
 
 
 ### § 15 Ausgabe von Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001501377)
 
 (1) Für die Kennzeichnung nach dieser Verordnung sind nur Ringe und
 Transponder zu verwenden, die von den nachstehenden Vereinen
@@ -611,10 +632,12 @@ Angaben zu machen.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000700000)
 
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001601377)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 3 Nummer 27 Buchstabe b
 des Bundesnaturschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -676,10 +699,12 @@ des Bundesnaturschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 6 - Ländervorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNG000800000)
 
 
 
 ### § 17 Ländervorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001700000)
 
 Die nach Landesrecht zuständigen Behörden können nach § 2 Abs. 1 Satz
 2 und Abs. 2, § 4 Abs. 3, § 6 Abs. 1 Satz 4, § 7 Abs. 3 Satz 2 und §
@@ -690,6 +715,7 @@ auch allgemein zulassen.
 Schutzstatus wild lebender Tier- und Pflanzenarten \*)
 
 ### Anlage 1 Erläuterungen zur Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001801377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 264 - 285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7454,6 +7480,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Abs. 3 Nr. 2)
 
 ### Anlage 2 Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE001901377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8080,6 +8107,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Nr. 2)
 
 ### Anlage 3 Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE002000000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -8130,6 +8158,7 @@ gelten:
 Muster für das Aufnahme- und Auslieferungsbuch
 
 ### Anlage 4 nach § 6 Abs. 1 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE002100000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -8155,6 +8184,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 (zu § 7 Abs. 2)
 
 ### Anlage 5 Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE002200000)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 290 - 291)
 
@@ -8592,6 +8622,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 (zu § 12 Satz 1 und
 
 ### Anlage 6 § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE002300000)
 
 (Fundstelle: BGBl. I 2005, 292 - 316)
 
@@ -20413,6 +20444,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 (zu § 15 Abs. 3 Satz 1)
 
 ### Anlage 7 Anforderungen an die Beschriftung von Ringen
+[Direktlink](https://www.gesetze-im-internet.de/bartschv_2005/BJNR025810005.html#BJNR025810005BJNE002400000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 317
 

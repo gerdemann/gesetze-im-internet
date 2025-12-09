@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtritag/BJNR201110982.html#BJNR201110982BJNE000100312)
 
 Dem in Rom am 24. Oktober 1979 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Italienischen Republik über die
@@ -32,11 +33,13 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtritag/BJNR201110982.html#BJNR201110982BJNE000200312)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtritag/BJNR201110982.html#BJNR201110982BJNE000301309)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels VI des Vertrags
@@ -44,6 +47,7 @@ eingeschränkt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtritag/BJNR201110982.html#BJNR201110982BJNE000401309)
 
 Polizeibehörden sind zur Stellung und Beantwortung von Ersuchen im
 Sinne des Artikels IX Abs. 3 des Vertrags nur insoweit befugt, als sie
@@ -52,12 +56,14 @@ treffen können.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtritag/BJNR201110982.html#BJNR201110982BJNE000500312)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkvtritag/BJNR201110982.html#BJNR201110982BJNE000600312)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 3 bis 4 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 3 bis 4 treten zusammen mit

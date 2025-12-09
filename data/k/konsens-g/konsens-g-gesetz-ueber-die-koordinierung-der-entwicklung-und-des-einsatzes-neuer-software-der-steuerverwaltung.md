@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000200000)
 
 (1) Zur erheblichen Verbesserung oder Erleichterung des gleichmäßigen
 Vollzugs der von den Ländern im Auftrag des Bundes verwalteten Steuern
@@ -35,6 +37,7 @@ einheitlichen IT-Verfahren und der einheitlichen Software.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000300000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -67,9 +70,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Abschnitt 2 - Grundsätze des Zusammenwirkens
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000200000)
 
 
 ### § 3 Allgemeine Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000400000)
 
 (1) IT-Standards im Gesamtvorhaben KONSENS müssen offene Standards
 sein, die den Grundsätzen der Interoperabilität und der
@@ -84,6 +89,7 @@ werden können.
 
 
 ### § 4 Entwicklung von IT-Verfahren und Software
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000500000)
 
 (1) IT-Verfahren und Software für den einheitlichen Einsatz werden
 gemeinsam für Bund und Länder beschafft oder arbeitsteilig in der Art
@@ -106,6 +112,7 @@ Eigenentwicklung, so ist ihr der Vorrang einzuräumen.
 
 
 ### § 5 Einsatz der IT-Verfahren und der Software
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000600000)
 
 (1) Der flächendeckende Einsatz einheitlicher IT-Verfahren oder
 einheitlicher Software erfolgt entsprechend eines verbindlich
@@ -128,6 +135,7 @@ einheitlichen IT-Verfahren und die einheitliche Software anzupassen.
 
 
 ### § 6 Pflege und Wartung der IT-Verfahren und der Software
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000700000)
 
 (1) Die Aufgabe der Pflege umfasst sämtliche Maßnahmen zur Erhaltung
 der Lauffähigkeit von eingesetzten IT-Verfahren und Software, soweit
@@ -158,6 +166,7 @@ der IT-Infrastruktur.
 
 
 ### § 7 Produktiver Betrieb der IT-Verfahren und der Software
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000800000)
 
 (1) Der produktive Betrieb ist vorbehaltlich abweichender Regelungen
 in diesem Gesetz je eigene Angelegenheit von Bund und Ländern. Dabei
@@ -178,12 +187,15 @@ und Servicestelle eingesetzt und administriert werden.
 
 
 ## Abschnitt 3 - Organisationsstruktur des Gesamtvorhabens KONSENS
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000300000)
 
 
 ### Unterabschnitt 1 - Verantwortung und Kompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000400000)
 
 
 #### § 8 Auftraggeber-Gremium
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE000900000)
 
 (1) Es wird ein Auftraggeber-Gremium eingerichtet, dem je ein
 Vertreter des Bundes sowie der Länder angehören. Den Vorsitz hat der
@@ -236,6 +248,7 @@ Finanzministern bis zum 31. Oktober eines Jahres vorzulegen.
 
 
 #### § 9 Steuerungsgruppe Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001000000)
 
 (1) Es wird eine Steuerungsgruppe Informationstechnik eingerichtet,
 der je ein Vertreter des Bundes sowie der Länder Baden-Württemberg,
@@ -377,6 +390,7 @@ die Einhaltung des Kriteriums (Nachweis über den produktiven Einsatz).
 
 
 #### § 10 Geschäftsstelle Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001100000)
 
 Die Geschäftsstelle Informationstechnik ist im Geschäftsbereich des
 Bundesministeriums der Finanzen angesiedelt. Sie unterstützt die
@@ -391,6 +405,7 @@ Steuerungsgruppe Informationstechnik.
 
 
 #### § 11 Auftrag nehmendes Land
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001200000)
 
 (1) Auftrag nehmendes Land ist das für eine Aufgabe (Entwicklung,
 Pflege oder Wartung bestimmter IT-Verfahren oder bestimmter Software)
@@ -448,6 +463,7 @@ gilt nicht in den Fällen des § 9 Absatz 6.
 
 
 #### § 12 Übernehmendes Land
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001300000)
 
 Die Länder sind verpflichtet, die durch die Auftrag nehmenden Länder
 entwickelten IT-Verfahren oder die entwickelte Software einheitlich
@@ -456,6 +472,7 @@ eigenen Land einzusetzen (übernehmendes Land).
 
 
 #### § 13 Gesamtleitung
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001400000)
 
 (1) Die operative Steuerung des Gesamtvorhabens KONSENS erfolgt durch
 die Gesamtleitung.
@@ -529,9 +546,11 @@ Projektbüro eingerichtet.
 
 
 ### Unterabschnitt 2 - Zentrale Organisationseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000500000)
 
 
 #### § 14 Zentrale Organisationseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001500000)
 
 Die Gesamtleitung wird durch zentrale Organisationseinheiten
 unterstützt. Diese sind als Stabsstellen bei der Gesamtleitung
@@ -563,6 +582,7 @@ Zentrale Organisationseinheiten sind insbesondere:
 
 
 #### § 15 Vorhabensmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001600000)
 
 (1) Das Vorhabensmanagement unterstützt die Gesamtleitung beim
 übergreifenden strategischen und operativen IT-Controlling des
@@ -660,6 +680,7 @@ Entwicklung, der Pflege, der Wartung und des Betriebs.
 
 
 #### § 16 Architekturmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001700000)
 
 (1) Zur Steuerung der Entwicklung und Pflege von IT-Verfahren und
 Software werden Anforderungen und IT-Standards im Soll-Bebauungsplan
@@ -714,6 +735,7 @@ Architekturmanagement delegiert hat.
 
 
 #### § 17 Release- und Einsatzmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001800000)
 
 (1) Das Release- und Einsatzmanagement unterstützt die Gesamtleitung
 insbesondere hinsichtlich der Durchführung von Tests und des
@@ -760,6 +782,7 @@ Umsetzung.
 
 
 #### § 18 Qualitätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE001900000)
 
 Das Qualitätsmanagement unterstützt die Gesamtleitung bei der
 Erstellung und Pflege der Qualitätsmanagement-Dokumentation sowie bei
@@ -768,6 +791,7 @@ Qualitätsmanagement-Systems.
 
 
 #### § 19 Anforderungsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002000000)
 
 (1) Das Anforderungsmanagement ist ein systematischer Ansatz zur
 Definition, Erfassung, Analyse und Bewertung, Abstimmung und
@@ -815,9 +839,11 @@ Organisationseinheit sind insbesondere
 
 
 ### Unterabschnitt 3 - Projektstrukturen
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000600000)
 
 
 #### § 20 Allgemeine Festlegungen zum Projektmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002100000)
 
 (1) Es wird ein einheitliches Projektmanagement für alle
 Entwicklungsprogramme und -projekte im Gesamtvorhaben KONSENS
@@ -914,6 +940,7 @@ Lenkungsausschuss zu befassen.
 
 
 #### § 21 Multiprojektmanagement
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002200000)
 
 (1) Das Multiprojektmanagement unterstützt die Gesamtleitung beim
 operativen IT-Controlling der Entwicklungsprogramme und -projekte.
@@ -938,6 +965,7 @@ Projektbüro unterstützt.
 
 
 #### § 22 Entwicklungsprogramme und -projekte
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002300000)
 
 (1) Jeder Entwicklungsauftrag, ausgenommen Aufträge zur Pflege von
 Software, wird im Rahmen eines Projektes nach Maßgabe der festgelegten
@@ -990,9 +1018,11 @@ Projektbüro eingerichtet.
 
 
 ## Abschnitt 4 - Budget und Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000700000)
 
 
 ### § 23 Umlagefähige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002400000)
 
 (1) Nach diesem Gesetz umzulegende Aufwendungen sind:
 
@@ -1024,6 +1054,7 @@ festgelegt.
 
 
 ### § 24 Verteilung der umlagefähigen Aufwendungen, Bundeszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002500000)
 
 (1) Zum Zweck der Transparenz sind die umlagefähigen Aufwendungen in
 folgende Aufwandsarten aufzuteilen:
@@ -1064,6 +1095,7 @@ Zahlung des Zuschusses ein.
 
 
 ### § 25 Budget
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002600000)
 
 (1) Bund und Länder stellen bis zum 1. Februar eines Jahres auf der
 Basis des Vorhabensplans eine Planung der voraussichtlich auf den Bund
@@ -1083,15 +1115,18 @@ mit.
 
 
 ### § 26 Zahlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002700000)
 
 Zahlungsverpflichtungen und die umzulegenden Aufwendungen nach § 24
 sind zu verrechnen.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNG000800000)
 
 
 ### § 27 Nutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002800000)
 
 (1) Bund und Länder schließen eine Verwaltungsvereinbarung, wonach
 ihnen an den im Rahmen des Zusammenwirkens nach diesem Gesetz
@@ -1154,6 +1189,7 @@ Entscheidung der Steuerungsgruppe Informationstechnik einzuholen.
 
 
 ### § 28 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE002900000)
 
 (1) Schadensersatzansprüche Dritter gehen zu Lasten derjenigen
 Gebietskörperschaft, die gegenüber dem Dritten aufgetreten ist.
@@ -1174,6 +1210,7 @@ Haftungsklausel zu verwenden.
 
 
 ### § 29 Anwendungs- und Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsens-g/BJNR312900017.html#BJNR312900017BJNE003000000)
 
 (1) Die Regelungen dieses Gesetzes sind ab dem 1. Januar 2019
 anzuwenden. Gleichzeitig sind die in den Anwendungsbereich dieses

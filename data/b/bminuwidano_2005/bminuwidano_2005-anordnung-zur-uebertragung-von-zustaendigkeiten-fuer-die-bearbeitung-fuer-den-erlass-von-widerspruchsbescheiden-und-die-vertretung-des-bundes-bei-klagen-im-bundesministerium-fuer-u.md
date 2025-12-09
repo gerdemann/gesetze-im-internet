@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2005/BJNR338800005.html#BJNR338800005BJNE000100000)
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
 dem Bundesamt für Finanzen die Bearbeitung der Angelegenheiten von
@@ -32,6 +33,7 @@ Bundesbeamtengesetzes.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2005/BJNR338800005.html#BJNR338800005BJNE000200000)
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
 dem Bundesamt für Finanzen die Befugnis, über Widersprüche von
@@ -43,6 +45,7 @@ Empfängerinnen und Empfängern von Amtsbezügen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2005/BJNR338800005.html#BJNR338800005BJNE000300000)
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
 dem Bundesamt für Finanzen die Vertretung des Bundes bei Klagen von
@@ -53,6 +56,7 @@ Empfängerinnen und Empfängern von Amtsbezügen.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2005/BJNR338800005.html#BJNR338800005BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Dezember 2005 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -61,6 +65,7 @@ sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2005/BJNR338800005.html#BJNR338800005BJNE000500000)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

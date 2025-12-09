@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005/BJNR019700005.html#BJNR019700005BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine deutsche Euro-
@@ -47,11 +48,13 @@ Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005/BJNR019700005.html#BJNR019700005BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005/BJNR019700005.html#BJNR019700005BJNE000300000)
 
 (Fundstelle: BGBl. I 2005, 197)
 ![bgbl1_2005_j0197_0010.jpg](bgbl1_2005_j0197_0010.jpg)

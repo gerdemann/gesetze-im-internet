@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004800000)
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 10 und 11 und des § 12b Abs. 2 in
 Verbindung mit Abs. 1, jeweils in Verbindung mit § 54 Abs. 1 Satz 1
@@ -35,6 +36,7 @@ Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830) eingefügt und § 54 Abs.
 
 
 ## § 1 Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE003703118)
 
 (1) Die Überprüfung der Zuverlässigkeit einer Person erfolgt nach
 Maßgabe des § 12b des Atomgesetzes in Verbindung mit dieser
@@ -112,6 +114,7 @@ Zweifel an der Zuverlässigkeit bestanden.
 
 
 ## § 2 Kategorien der Zuverlässigkeitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE003800000)
 
 Dem Umfang der Zugangsberechtigung oder der Verantwortung entsprechend
 wird nach Maßgabe des § 5
@@ -130,6 +133,7 @@ durchgeführt.
 
 
 ## § 3 Zuverlässigkeitsüberprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE003903311)
 
 (1)
 1Eine umfassende Zuverlässigkeitsüberprüfung ist bei folgenden
@@ -205,10 +209,12 @@ Transportmittel zu berücksichtigen.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004002310)
 
 
 
 ## § 5 Maßnahmen bei den einzelnen Überprüfungsarten
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004105116)
 
 (1) Bei der umfassenden Zuverlässigkeitsüberprüfung nach § 3 Absatz 1
 trifft die zuständige Behörde folgende Maßnahmen:
@@ -338,6 +344,7 @@ Maßnahmen nach § 12b Absatz 4 des Atomgesetzes durchführen.
 
 
 ## § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004206128)
 
 (1)
 1Die Zuverlässigkeit des Betroffenen ist vor der Aufnahme der
@@ -429,6 +436,7 @@ Betroffenen als elektronische Formulare zur Verfügung.
 
 
 ## § 7 Abschluß der Zuverlässigkeitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004309118)
 
 (1)
 1Die zuständige Behörde bewertet die übermittelten Erkenntnisse auf
@@ -569,6 +577,7 @@ Atomgesetzes zum Nachbericht verpflichteten Behörden.
 
 
 ## § 8 Geltungsdauer; Wiederholungsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004401310)
 
 (1)
 1Entscheidet die zuständige Behörde gemäß § 7 Abs. 4, so gilt die
@@ -593,6 +602,7 @@ ist.
 
 
 ## § 9 Zutrittsregelung; Tätigkeitsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004501310)
 
 (1) Sofern sich aus den Absätzen 2 bis 5 nichts anderes ergibt, darf
 der Antragsberechtigte dem Betroffenen die Aufnahme der vorgesehenen
@@ -654,14 +664,17 @@ zuständige Behörde.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004602118)
 
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004701310)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/atz_v/BJNR152500999.html#BJNR152500999BJNE004900000)
 
 Der Bundesrat hat zugestimmt.
 

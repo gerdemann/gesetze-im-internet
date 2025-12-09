@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/nsopferbpr_sprok/BJNR001700996.html#BJNR001700996BJNE000100310)
 
 1995 jährte sich zum 50. Mal das Ende des Zweiten Weltkrieges und der
 nationalsozialistischen Gewaltherrschaft. In diesem Jahr haben wir uns

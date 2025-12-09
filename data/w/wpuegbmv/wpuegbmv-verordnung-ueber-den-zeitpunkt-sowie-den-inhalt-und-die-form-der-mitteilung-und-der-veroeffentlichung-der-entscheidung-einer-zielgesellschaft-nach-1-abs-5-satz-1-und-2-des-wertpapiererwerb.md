@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wp_gbmv/BJNR226600006.html#BJNR226600006BJNE000100000)
 
 Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des
 Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001 (BGBl.
@@ -37,6 +38,7 @@ Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/wp_gbmv/BJNR226600006.html#BJNR226600006BJNE000200000)
 
 (1) Die Zielgesellschaft hat ihre Entscheidung nach § 1 Abs. 5 Satz 1
 des Wertpapiererwerbs- und Übernahmegesetzes der Bundesanstalt für
@@ -73,6 +75,7 @@ Inland mitzuteilen.
 
 
 ## § 2 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/wp_gbmv/BJNR226600006.html#BJNR226600006BJNE000301360)
 
 (1) Die Zielgesellschaft hat ihre Entscheidung nach § 1 Abs. 5 Satz 1
 des Wertpapiererwerbs- und Übernahmegesetzes mit dem in § 2 Abs. 2
@@ -100,6 +103,7 @@ werden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wp_gbmv/BJNR226600006.html#BJNR226600006BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

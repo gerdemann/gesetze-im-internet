@@ -23,9 +23,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000101311)
 
 
 ### § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000203311)
 
 Einsatzgeschädigte im Sinne dieses Gesetzes sind
 
@@ -53,6 +55,7 @@ Einsatzunfall im Sinne von § 87 des Soldatenversorgungsgesetzes oder §
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000303311)
 
 (1) Dieses Gesetz gilt entsprechend für Einsatzgeschädigte, die zur
 Ausübung einer Tätigkeit, die öffentlichen Belangen oder dienstlichen
@@ -73,6 +76,7 @@ des Beamtenversorgungsgesetzes gelten entsprechend.
 
 
 ### § 3 Berufliche Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000401311)
 
 (1) Einsatzgeschädigte haben einen Anspruch gegen den Bund auf die
 erforderlichen Leistungen zur beruflichen Qualifizierung, um ihre
@@ -128,6 +132,7 @@ genannten Aufgaben einer ihr nachgeordneten Behörde übertragen.
 
 
 ### § 4 Schutzzeit
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000504311)
 
 (1) Schutzzeit im Sinne dieses Gesetzes ist die Zeit, in der
 Einsatzgeschädigte
@@ -189,6 +194,7 @@ Feststellung die Bundesanstalt Technisches Hilfswerk.
 
 
 ### § 5 Einbeziehung in Personalauswahlentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000602311)
 
 (1) Der Bezug von Leistungen nach § 4 Absatz 1 Satz 1 darf nicht zur
 Beeinträchtigung des Werdegangs der Einsatzgeschädigten nach § 1
@@ -200,9 +206,11 @@ auch für deren zivilberuflichen Werdegang beim Bund.
 
 
 ## Abschnitt 2 - Regelungen für Soldatinnen und Soldaten sowie frühere Soldatinnen und frühere Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000201311)
 
 
 ### § 6 Wehrdienstverhältnis besonderer Art
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000706311)
 
 (1) Endet das Wehrdienstverhältnis Einsatzgeschädigter nach § 1 Nummer
 1, die nicht in einem auf Lebenszeit begründeten Wehrdienstverhältnis
@@ -318,6 +326,7 @@ gestellt werden.
 
 
 ### § 7 Weiterverwendung als Berufssoldatin oder Berufssoldat
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000803116)
 
 (1) Einsatzgeschädigte nach § 1 Nummer 1, deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
@@ -353,6 +362,7 @@ des Soldatengesetzes die Vollendung des 54. Lebensjahres.
 
 
 ### § 8 Weiterverwendung als Beamtin, Beamter, Arbeitnehmerin oder Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE000905116)
 
 (1) Einsatzgeschädigte nach § 1 Nummer 1, die nicht in einem auf
 Lebenszeit begründeten Wehrdienstverhältnis stehen und deren
@@ -410,6 +420,7 @@ können.
 
 
 ### § 9 Versorgung der Soldatinnen und Soldaten und ihrer Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001003311)
 
 (1) Im Falle einer Weiterverwendung nach § 7 oder § 8 entfallen die
 Ansprüche auf Berufsförderung und Dienstzeitversorgung nach Teil 2
@@ -474,9 +485,11 @@ dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
 
 
 ## Abschnitt 3 - Regelungen für Beamtinnen, Beamte, Richterinnen und Richter sowie für frühere Beamtinnen, Beamte, Richterinnen und Richter
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000301311)
 
 
 ### § 10 Verlängerung des Dienstverhältnisses, erneute Berufung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001106311)
 
 (1) Ein Beamtenverhältnis auf Zeit, das während der Schutzzeit durch
 Zeitablauf endet, verlängert sich um die Dauer der restlichen
@@ -549,6 +562,7 @@ wenn
 
 
 ### § 11 Weiterverwendung nach der Schutzzeit
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001205116)
 
 (1) Einsatzgeschädigte nach § 1 Nummer 2, die sich in einem
 Beamtenverhältnis auf Zeit befinden und deren Erwerbsfähigkeit infolge
@@ -629,9 +643,11 @@ gelten entsprechend.
 
 
 ## Abschnitt 4 - Regelungen für Arbeitnehmerinnen und Arbeitnehmer sowie frühere Arbeitnehmerinnen und frühere Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000401311)
 
 
 ### § 12 Verlängerung von Arbeitsverhältnissen, erneute Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001305311)
 
 (1) Befristete Arbeitsverhältnisse Einsatzgeschädigter nach § 1 Nummer
 4 werden bis zum Ende der Schutzzeit verlängert. Leistungen nach § 4
@@ -673,6 +689,7 @@ entsprechend. Satz 1 gilt nicht, wenn
 
 
 ### § 13 Ausgleichsbetrag während der Schutzzeit
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001403311)
 
 (1) Soweit während der Schutzzeit nach § 4 das Entgelt im
 Krankheitsfall einschließlich Entgeltersatzleistungen nach dem Siebten
@@ -716,6 +733,7 @@ Beschäftigung im Ausland gezahlt werden, bleiben außer Ansatz.
 
 
 ### § 14 Weiterbeschäftigung einsatzgeschädigter Arbeitnehmerinnen und einsatzgeschädigter Arbeitnehmer nach der Schutzzeit
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001502311)
 
 Einsatzgeschädigte nach § 1 Nummer 4, deren Erwerbsfähigkeit infolge
 eines Einsatzunfalls am Ende der Schutzzeit um mindestens 30 Prozent
@@ -731,6 +749,7 @@ bisherigen und der neuen Entgeltgruppe als persönliche Zulage gezahlt.
 
 
 ### § 15 Befristete Arbeitsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001602311)
 
 Einsatzgeschädigte nach § 1 Nummer 4, deren Erwerbsfähigkeit infolge
 des Einsatzunfalls am Ende der Schutzzeit um mindestens 30 Prozent
@@ -741,9 +760,11 @@ gilt § 14 Satz 3 entsprechend.
 
 
 ## Abschnitt 5 - Regelungen für Helferinnen und Helfer des Technischen Hilfswerks
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000501311)
 
 
 ### § 16 Beschäftigungsanspruch für einsatzgeschädigte Helferinnen und Helfer des Technischen Hilfswerks
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001703116)
 
 (1) Einsatzgeschädigte nach § 1 Nummer 5, die in keinem
 Beschäftigungsverhältnis stehen oder deren Beschäftigungsverhältnis
@@ -780,6 +801,7 @@ Absatz 6 und § 10 Absatz 2 gelten entsprechend.
 
 
 ### § 17 Erstattungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001801311)
 
 Soweit ein Dienstherr oder Arbeitgeber das Beschäftigungsverhältnis
 mit einer oder einem Einsatzgeschädigten nach § 1 Nummer 5 nach
@@ -790,6 +812,7 @@ Mehraufwendungen durch die Bundesanstalt Technisches Hilfswerk.
 
 
 ### § 18 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE001903311)
 
 (1) Einsatzgeschädigte nach § 1 Nummer 5 erhalten von der
 Bundesanstalt Technisches Hilfswerk auf Antrag für die Dauer der
@@ -820,9 +843,11 @@ Bundesanstalt Technisches Hilfswerk.
 
 
 ## Abschnitt 6 - Besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000601311)
 
 
 ### § 19 Vorübergehend im Auswärtigen Dienst verwendete Beschäftigte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE002002311)
 
 (1) Für Einsatzgeschädigte, die den Einsatzunfall während einer
 zeitlich befristeten Verwendung im Auswärtigen Dienst nach § 13 Absatz
@@ -839,6 +864,7 @@ haben.
 
 
 ### § 20 Zum Bund abgeordnete Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE002103311)
 
 (1) Beamtinnen und Beamte anderer Dienstherren, Richterinnen und
 Richter der Länder sowie Arbeitnehmerinnen und Arbeitnehmer anderer
@@ -886,6 +912,7 @@ Beamtenversorgungsgesetzes gewährt.
 
 
 ### § 20a Bezugspersonen
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE002600311)
 
 (1) Bezugspersonen, deren Einbeziehung in die Therapie
 Einsatzgeschädigter medizinisch indiziert ist, haben Anspruch auf
@@ -929,9 +956,11 @@ dreiwöchiger Dauer erstattet.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNG000701311)
 
 
 ### § 21 Umzüge aus gesundheitlichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE002201311)
 
 Wird die Zusage der Umzugskostenvergütung nach § 4 Absatz 2 Nummer 3
 des Bundesumzugskostengesetzes wegen des Gesundheitszustandes infolge
@@ -940,6 +969,7 @@ entsprechend anzuwenden.
 
 
 ### § 22 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE002304377)
 
 (1) Für gesundheitliche Schädigungen, die bei einem Einsatzunfall
 erlittenen Schädigungen vergleichbar sind und in der Zeit vom 1.
@@ -1020,6 +1050,7 @@ oder Absatz 5 sind anzurechnen.
 
 
 ### § 23 Zuständiger Geschäftsbereich
+[Direktlink](https://www.gesetze-im-internet.de/einsatzwvg/BJNR286100007.html#BJNR286100007BJNE002403311)
 
 Die Weiterverwendung nach diesem Gesetz erfolgt
 

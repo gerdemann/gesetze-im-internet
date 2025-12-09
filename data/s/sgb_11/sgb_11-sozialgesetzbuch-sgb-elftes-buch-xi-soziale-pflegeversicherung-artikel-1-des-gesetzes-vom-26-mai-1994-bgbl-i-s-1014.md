@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000100307)
 
 
 
 ### § 1 Soziale Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004304126)
 
 (1) Zur sozialen Absicherung des Risikos der Pflegebedürftigkeit wird
 als neuer eigenständiger Zweig der Sozialversicherung eine soziale
@@ -65,6 +67,7 @@ Lebenspartners, sofern nicht ausdrücklich etwas anderes bestimmt ist.
 
 
 ### § 2 Selbstbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004402301)
 
 (1) Die Leistungen der Pflegeversicherung sollen den Pflegebedürftigen
 helfen, trotz ihres Hilfebedarfs ein möglichst selbständiges und
@@ -90,6 +93,7 @@ Bekenntnisses betreut werden können.
 
 
 ### § 3 Vorrang der häuslichen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004500307)
 
 Die Pflegeversicherung soll mit ihren Leistungen vorrangig die
 häusliche Pflege und die Pflegebereitschaft der Angehörigen und
@@ -100,6 +104,7 @@ vollstationären Pflege vor.
 
 
 ### § 4 Art und Umfang der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004602301)
 
 (1) Die Leistungen der Pflegeversicherung sind Dienst-, Sach- und
 Geldleistungen für den Bedarf an körperbezogenen Pflegemaßnahmen,
@@ -123,6 +128,7 @@ erbracht und nur im notwendigen Umfang in Anspruch genommen werden.
 
 
 ### § 5 Prävention in Pflegeeinrichtungen, Vorrang von Prävention und medizinischer Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004704126)
 
 (1) Die Pflegekassen sollen Leistungen zur Prävention in stationären
 Pflegeeinrichtungen nach § 71 Absatz 2 für in der sozialen
@@ -185,6 +191,7 @@ Spitzenverband Bund der Pflegekassen zur Verfügung zu stellen.
 
 
 ### § 6 Eigenverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004801308)
 
 (1) Die Versicherten sollen durch gesundheitsbewußte Lebensführung,
 durch frühzeitige Beteiligung an Vorsorgemaßnahmen und durch aktive
@@ -198,6 +205,7 @@ mindern oder eine Verschlimmerung zu verhindern.
 
 
 ### § 7 Aufklärung, Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE004910126)
 
 (1) Die Pflegekassen haben die Eigenverantwortung der Versicherten
 durch Aufklärung und Auskunft über eine gesunde, der
@@ -295,6 +303,7 @@ Empfehlungen bedürfen der Zustimmung der Länder.
 
 
 ### § 7a Pflegeberatung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019011126)
 
 (1) Personen, die Leistungen nach diesem Buch erhalten, haben Anspruch
 auf individuelle Beratung und Hilfestellung durch einen Pflegeberater
@@ -508,6 +517,7 @@ Er kann hierfür Mittel nach § 8 Absatz 3 einsetzen.
 
 
 ### § 7b Pflicht zum Beratungsangebot und Beratungsgutscheine
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020105311)
 
 (1) Die Pflegekasse hat dem Versicherten unmittelbar nach Eingang
 eines erstmaligen Antrags auf Leistungen nach diesem Buch oder des
@@ -588,6 +598,7 @@ die die private Pflege-Pflichtversicherung durchführen, entsprechend.
 
 
 ### § 7c Pflegestützpunkte, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022804126)
 
 (1) Zur wohnortnahen Beratung, Versorgung und Betreuung der
 Versicherten richten die Pflegekassen und Krankenkassen
@@ -804,6 +815,7 @@ vereinbaren.
 
 
 ### § 8 Gemeinsame Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005022311)
 
 (1) Die pflegerische Versorgung der Bevölkerung ist eine
 gesamtgesellschaftliche Aufgabe.
@@ -1175,6 +1187,7 @@ durchführen, nach Absatz 9 Satz 1 und 2 durch Vereinbarung.
 
 
 ### § 8a Gemeinsame Empfehlungen zur pflegerischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022901360)
 
 (1) Für jedes Land oder für Teile des Landes wird zur Beratung über
 Fragen der Pflegeversicherung ein Landespflegeausschuss gebildet. Der
@@ -1228,6 +1241,7 @@ der Vergütungsverträge einbezogen werden.
 
 
 ### § 9 Aufgaben der Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005101308)
 
 Die Länder sind verantwortlich für die Vorhaltung einer
 leistungsfähigen, zahlenmäßig ausreichenden und wirtschaftlichen
@@ -1255,6 +1269,7 @@ Einführung der Pflegeversicherung entstehen.
 
 
 ### § 10 Berichtspflichten des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005211126)
 
 (1) Die Bundesregierung berichtet den gesetzgebenden Körperschaften
 des Bundes ab 2016 im Abstand von vier Jahren über die Entwicklung der
@@ -1269,6 +1284,7 @@ für die Pflegebedürftigen.
 
 
 ### § 11 Rechte und Pflichten der Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005301308)
 
 (1) Die Pflegeeinrichtungen pflegen, versorgen und betreuen die
 Pflegebedürftigen, die ihre Leistungen in Anspruch nehmen,
@@ -1291,6 +1307,7 @@ unberührt.
 
 
 ### § 12 Aufgaben der Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005404301)
 
 (1) Die Pflegekassen sind für die Sicherstellung der pflegerischen
 Versorgung ihrer Versicherten verantwortlich. Sie arbeiten dabei mit
@@ -1321,6 +1338,7 @@ Fünften Buches anwenden.
 
 
 ### § 13 Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005514126)
 
 (1) Den Leistungen der Pflegeversicherung gehen folgende
 Entschädigungsleistungen wegen Pflegebedürftigkeit vor:
@@ -1462,10 +1480,12 @@ Pflegeperson unberücksichtigt. Dies gilt nicht
 
 
 ## Zweites Kapitel - Leistungsberechtigter Personenkreis, Verfahren zur Feststellung der Pflegebedürftigkeit und Berichtspflichten, Begriff der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000201126)
 
 
 
 ### § 14 Begriff der Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005601301)
 
 (1) Pflegebedürftig im Sinne dieses Buches sind Personen, die
 gesundheitlich bedingte Beeinträchtigungen der Selbständigkeit oder
@@ -1563,6 +1583,7 @@ Bereiche berücksichtigt.
 
 
 ### § 15 Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005705126)
 
 (1) Pflegebedürftige erhalten nach der Schwere der Beeinträchtigungen
 der Selbständigkeit oder der Fähigkeiten einen Grad der
@@ -1708,6 +1729,7 @@ abweichend von den Absätzen 3, 4 und 6 Satz 2 wie folgt eingestuft:
 
 
 ### § 16 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005807126)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium für Familien, Senioren, Frauen und Jugend
@@ -1721,6 +1743,7 @@ lassen.
 
 
 ### § 17 Richtlinien des Medizinischen Dienstes Bund; Richtlinien der Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE005916126)
 
 (1) Der Medizinische Dienst Bund erlässt mit dem Ziel, eine
 einheitliche Rechtsanwendung zu fördern, im Benehmen mit dem
@@ -1829,9 +1852,11 @@ Frist zu beheben.
 
 
 ### § 17a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022702301)
 
 
 ### § 18 Beauftragung der Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006017126)
 
 (1) Die Pflegekassen beauftragen den Medizinischen Dienst oder andere
 unabhängige Gutachterinnen und Gutachter mit der Prüfung, ob bei der
@@ -1900,6 +1925,7 @@ gilt § 276 Absatz 1 Satz 2 und 3 des Fünften Buches entsprechend.
 
 
 ### § 18a Begutachtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020206126)
 
 (1) Im Rahmen der Prüfung nach § 18 Absatz 1 Satz 1 haben der
 Medizinische Dienst oder die von der Pflegekasse beauftragten
@@ -2095,6 +2121,7 @@ zuzuordnen, gilt § 23 Absatz 6 Nummer 1.
 
 
 ### § 18b Inhalt und Übermittlung des Gutachtens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020302126)
 
 (1) Das Gutachten des Medizinischen Dienstes oder der von der
 Pflegekasse beauftragten Gutachterinnen oder Gutachter beinhaltet
@@ -2177,6 +2204,7 @@ November 2023 zulässig.
 
 
 ### § 18c Entscheidung über den Antrag, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023002126)
 
 (1) Ihre Entscheidung über einen Antrag nach § 33 Absatz 1 Satz 1 hat
 die zuständige Pflegekasse dem Antragsteller spätestens 25 Arbeitstage
@@ -2276,6 +2304,7 @@ Aufforderung zur Einreichung der noch fehlenden Unterlagen zugeht.
 
 
 ### § 18d Berichtspflichten und Statistik zum Verfahren zur Feststellung der Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE028600126)
 
 (1) Die Pflegekassen berichten dem Spitzenverband Bund der
 Pflegekassen jährlich über die Anwendung eines bundeseinheitlichen,
@@ -2410,6 +2439,7 @@ folgenden Jahres eine Statistik über die Einhaltung der Fristen nach §
 
 
 ### § 18e Weiterentwicklung des Verfahrens zur Pflegebegutachtung durch Modellvorhaben, Studien und wissenschaftliche Expertisen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE028700126)
 
 (1) Der Medizinische Dienst Bund und die Medizinischen Dienste können
 Modellvorhaben, Studien und wissenschaftliche Expertisen zur
@@ -2453,6 +2483,7 @@ der Studienbericht sind dem Bundesministerium für Gesundheit bis zum
 
 
 ### § 19 Begriff der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006104126)
 
 Pflegepersonen im Sinne dieses Buches sind Personen, die nicht
 erwerbsmäßig einen Pflegebedürftigen im Sinne des § 14 in seiner
@@ -2463,10 +2494,12 @@ verteilt auf regelmäßig mindestens zwei Tage in der Woche, pflegt.
 
 
 ## Drittes Kapitel - Versicherungspflichtiger Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000300307)
 
 
 
 ### § 20 Versicherungspflicht in der sozialen Pflegeversicherung für Mitglieder der gesetzlichen Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006230311)
 
 (1) Versicherungspflichtig in der sozialen Pflegeversicherung sind die
 versicherungspflichtigen Mitglieder der gesetzlichen
@@ -2592,6 +2625,7 @@ Familienangehörigen oder Lebenspartnern.
 
 
 ### § 21 Versicherungspflicht in der sozialen Pflegeversicherung für sonstige Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006304311)
 
 Versicherungspflicht in der sozialen Pflegeversicherung besteht auch
 für Personen mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland, die
@@ -2635,6 +2669,7 @@ Krankenversicherungsunternehmen versichert sind.
 
 
 ### § 21a Versicherungspflicht in der sozialen Pflegeversicherung bei Mitgliedern von Solidargemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026600311)
 
 (1) Versicherungspflicht in der sozialen Pflegeversicherung besteht
 für Mitglieder von Solidargemeinschaften, deren Mitgliedschaft gemäß
@@ -2662,6 +2697,7 @@ darüber innerhalb von sechs Wochen vorzulegen.
 
 
 ### § 22 Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006401301)
 
 (1) Personen, die nach § 20 Abs. 3 in der sozialen Pflegeversicherung
 versicherungspflichtig sind, können auf Antrag von der
@@ -2685,6 +2721,7 @@ folgt. Die Befreiung kann nicht widerrufen werden.
 
 
 ### § 23 Versicherungspflicht für Versicherte der privaten Krankenversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006511311)
 
 (1) Personen, die gegen das Risiko Krankheit bei einem privaten
 Krankenversicherungsunternehmen mit Anspruch auf allgemeine
@@ -2783,6 +2820,7 @@ verpflichtet,
 
 
 ### § 24 Versicherungspflicht der Abgeordneten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006600307)
 
 Mitglieder des Bundestages, des Europäischen Parlaments und der
 Parlamente der Länder (Abgeordnete) sind unbeschadet einer bereits
@@ -2795,6 +2833,7 @@ Bundes und der Länder.
 
 
 ### § 25 Familienversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006724311)
 
 (1) Versichert sind der Ehegatte, der Lebenspartner und die Kinder von
 Mitgliedern sowie die Kinder von familienversicherten Kindern, wenn
@@ -2896,6 +2935,7 @@ nach § 6 des Einsatz-Weiterverwendungsgesetzes.
 
 
 ### § 26 Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006802311)
 
 (1) Personen, die aus der Versicherungspflicht nach § 20, § 21 oder §
 21a Absatz 1 ausgeschieden sind und in den letzten fünf Jahren vor dem
@@ -2925,6 +2965,7 @@ seinen Wohnsitz oder gewöhnlichen Aufenthalt ins Ausland verlegt.
 
 
 ### § 26a Beitrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018001308)
 
 (1) Personen mit Wohnsitz im Inland, die nicht pflegeversichert sind,
 weil sie zum Zeitpunkt der Einführung der Pflegeversicherung am 1.
@@ -2982,6 +3023,7 @@ aufgeführten Ausschlussgründe vorliegen.
 
 
 ### § 27 Kündigung eines privaten Pflegeversicherungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE006904311)
 
 Personen, die nach den § 20, § 21 oder § 21a Absatz 1
 versicherungspflichtig werden und bei einem privaten
@@ -2994,14 +3036,17 @@ Buches gilt entsprechend.
 
 
 ## Viertes Kapitel - Leistungen der Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000400307)
 
 
 
 ### Erster Abschnitt - Übersicht über die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000500307)
 
 
 
 #### § 28 Leistungsarten, Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007017311)
 
 (1) Die Pflegeversicherung gewährt folgende Leistungen:
 
@@ -3095,6 +3140,7 @@ Sozialleistungsträger bleiben unberührt.
 
 
 #### § 28a Leistungen bei Pflegegrad 1
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023605311)
 
 Bei Vorliegen des Pflegegrades 1 gewährt die Pflegeversicherung
 folgende Leistungen:
@@ -3153,10 +3199,12 @@ folgende Leistungen:
 
 
 ### Zweiter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000600307)
 
 
 
 #### § 29 Wirtschaftlichkeitsgebot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007100307)
 
 (1) Die Leistungen müssen wirksam und wirtschaftlich sein; sie dürfen
 das Maß des Notwendigen nicht übersteigen. Leistungen, die diese
@@ -3171,6 +3219,7 @@ Verträge abgeschlossen haben.
 
 
 #### § 30 Dynamisierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007206126)
 
 (1) Die im Vierten Kapitel dieses Buches benannten, ab 1. Januar 2024
 geltenden Beträge für die Leistungen der Pflegeversicherung steigen
@@ -3187,6 +3236,7 @@ gemacht.
 
 
 #### § 31 Vorrang der Rehabilitation vor Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007305126)
 
 (1) Die Pflegekassen prüfen im Einzelfall, welche Leistungen zur
 medizinischen Rehabilitation und ergänzenden Leistungen geeignet und
@@ -3225,6 +3275,7 @@ Absatz 1 zu erbringen.
 
 
 #### § 32 Vorläufige Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007401308)
 
 (1) Die Pflegekasse erbringt vorläufige Leistungen zur medizinischen
 Rehabilitation, wenn eine sofortige Leistungserbringung erforderlich
@@ -3241,6 +3292,7 @@ vorläufig.
 
 
 #### § 33 Leistungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007506126)
 
 (1) Versicherte erhalten die Leistungen der Pflegeversicherung auf
 Antrag. Die Leistungen werden ab Antragstellung gewährt, frühestens
@@ -3282,6 +3334,7 @@ Vorversicherungszeit nach Absatz 2 anzurechnen.
 
 
 #### § 33a Leistungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018800308)
 
 Auf Leistungen besteht kein Anspruch, wenn sich Personen in den
 Geltungsbereich dieses Gesetzbuchs begeben, um in einer Versicherung
@@ -3292,6 +3345,7 @@ Satzung.
 
 
 #### § 34 Ruhen der Leistungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007612311)
 
 (1) Der Anspruch auf Leistungen ruht:
 
@@ -3347,6 +3401,7 @@ zur medizinischen Rehabilitation.
 
 
 #### § 35 Erlöschen der Leistungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007702377)
 
 Der Anspruch auf Leistungen erlischt mit dem Ende der Mitgliedschaft,
 soweit in diesem Buch nichts Abweichendes bestimmt ist. § 19 Absatz 1a
@@ -3357,6 +3412,7 @@ zwölf Monaten nach dem Tod des Berechtigten geltend gemacht werden.
 
 
 #### § 35a Teilnahme an einem Persönlichen Budget nach § 29 des Neunten Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018701119)
 
 Pflegebedürftigen werden auf Antrag die Leistungen nach den §§ 36, 37
 Abs. 1, §§ 38, 40 Abs. 2 und § 41 durch ein Persönliches Budget nach §
@@ -3375,14 +3431,17 @@ dieses Buches unberührt.
 
 
 ### Dritter Abschnitt - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000700307)
 
 
 
 #### Erster Titel - Leistungen bei häuslicher Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000800307)
 
 
 
 ##### § 36 Pflegesachleistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE007909311)
 
 (1) Pflegebedürftige der Pflegegrade 2 bis 5 haben bei häuslicher
 Pflege Anspruch auf körperbezogene Pflegemaßnahmen und pflegerische
@@ -3453,6 +3512,7 @@ häusliche Pflegehilfe gemeinsam in Anspruch nehmen.
 
 
 ##### § 37 Pflegegeld für selbst beschaffte Pflegehilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029800125)
 
 (1) Pflegebedürftige der Pflegegrade 2 bis 5 können anstelle der
 häuslichen Pflegehilfe ein Pflegegeld beantragen. Der Anspruch setzt
@@ -3643,6 +3703,7 @@ Sinne des § 71 Absatz 1a nicht durchgeführt werden.
 
 
 ##### § 38 Kombination von Geldleistung und Sachleistung (Kombinationsleistung)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008105311)
 
 Nimmt der Pflegebedürftige die ihm nach § 36 Absatz 3 zustehende
 Sachleistung nur teilweise in Anspruch, erhält er daneben ein
@@ -3661,6 +3722,7 @@ an denen sie sich in häuslicher Pflege befinden.
 
 
 ##### § 38a Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020406126)
 
 (1) Pflegebedürftige haben Anspruch auf einen pauschalen Zuschlag in
 Höhe von 214 Euro monatlich, wenn
@@ -3731,6 +3793,7 @@ verarbeiten und folgende Unterlagen anzufordern:
 
 
 ##### § 39 Verhinderungspflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008209311)
 
 (1) Ist eine Pflegeperson, die einen Pflegebedürftigen mit mindestens
 Pflegegrad 2 in seiner häuslichen Umgebung pflegt, wegen
@@ -3770,6 +3833,7 @@ im Kalenderjahr den Gemeinsamen Jahresbetrag nach § 42a nicht
 
 
 ##### § 39a Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026701126)
 
 Pflegebedürftige haben bei der Nutzung digitaler Pflegeanwendungen im
 Sinne des § 40a Anspruch auf ergänzende Unterstützungsleistungen,
@@ -3779,6 +3843,7 @@ nach diesem Buch zugelassene ambulante Pflegeeinrichtungen.
 
 
 ##### § 40 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008314377)
 
 (1) Pflegebedürftige haben Anspruch auf Versorgung mit
 Pflegehilfsmitteln, die zur Erleichterung der Pflege oder zur
@@ -3921,6 +3986,7 @@ gilt die Leistung nach Ablauf der Frist als genehmigt.
 
 
 ##### § 40a Digitale Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026803126)
 
 (1) Pflegebedürftige haben Anspruch auf Versorgung mit Anwendungen,
 die wesentlich auf digitalen Technologien beruhen und von den
@@ -3982,6 +4048,7 @@ oder über digitale Vertriebsplattformen zur Verfügung.
 
 
 ##### § 40b Leistungsanspruch beim Einsatz digitaler Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026902126)
 
 (1) Bewilligt die Pflegekasse die Versorgung mit einer digitalen
 Pflegeanwendung, hat die pflegebedürftige Person Anspruch auf die
@@ -3998,10 +4065,12 @@ von ihm für ergänzende Unterstützungsleistungen selbst zu tragen sind.
 
 
 #### Zweiter Titel - Teilstationäre Pflege und Kurzzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG000900307)
 
 
 
 ##### § 41 Tagespflege und Nachtpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008411301)
 
 (1) Pflegebedürftige der Pflegegrade 2 bis 5 haben Anspruch auf
 teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege,
@@ -4045,6 +4114,7 @@ ohne dass eine Anrechnung auf diese Ansprüche erfolgt.
 
 
 ##### § 42 Kurzzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008518311)
 
 (1) Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht
 im erforderlichen Umfang erbracht werden und reicht auch
@@ -4086,10 +4156,12 @@ davon abweichende pauschale Abschläge vornehmen.
 
 
 #### Dritter Titel - Gemeinsamer Jahresbetrag für Verhinderungspflege und Kurzzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG006200311)
 
 
 
 ##### § 42a Gemeinsamer Jahresbetrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029200311)
 
 (1) Pflegebedürftige mit mindestens Pflegegrad 2 haben Anspruch auf
 Leistungen der Verhinderungspflege nach Maßgabe des § 39 sowie
@@ -4128,10 +4200,12 @@ Kurzzeitpflege entsprechende Anwendung.
 
 
 #### Vierter Titel - Pflegerische Versorgung bei Vorsorge- oder Rehabilitationsmaßnahmen der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG006101311)
 
 
 
 ##### § 42b Versorgung Pflegebedürftiger bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029103311)
 
 (1) Pflegebedürftige haben ab dem 1. Juli 2024 Anspruch auf Versorgung
 in zugelassenen Vorsorge- oder Rehabilitationseinrichtungen, wenn dort
@@ -4264,10 +4338,12 @@ Pflegebedürftige und die Pflegeperson in die Übermittlung einwilligen.
 
 
 #### Fünfter Titel - Vollstationäre Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001002311)
 
 
 
 ##### § 43 Inhalt der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008711360)
 
 (1) Pflegebedürftige der Pflegegrade 2 bis 5 haben Anspruch auf Pflege
 in vollstationären Einrichtungen.
@@ -4305,10 +4381,12 @@ solange die Voraussetzungen des § 87a Abs. 1 Satz 5 und 6 vorliegen.
 
 
 #### Sechster Titel - Pauschalleistung für die Pflege von Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004104311)
 
 
 
 ##### § 43a Inhalt der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016207360)
 
 Für Pflegebedürftige der Pflegegrade 2 bis 5 in einer vollstationären
 Einrichtung im Sinne des § 71 Absatz 4 Nummer 1, in der die Teilhabe
@@ -4329,10 +4407,12 @@ häuslichen Pflege.
 
 
 #### Siebter Titel - Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005102311)
 
 
 
 ##### § 43b Inhalt der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023700301)
 
 Pflegebedürftige in stationären Pflegeeinrichtungen haben nach Maßgabe
 von § 84 Absatz 8 und § 85 Absatz 8 Anspruch auf zusätzliche Betreuung
@@ -4341,10 +4421,12 @@ Pflegebedürftigkeit notwendige Versorgung hinausgeht.
 
 
 #### Achter Titel - Pflegebedingter Eigenanteil bei vollstationärer Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005802311)
 
 
 
 ##### § 43c Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027301311)
 
 Pflegebedürftige der Pflegegrade 2 bis 5, die bis einschließlich zwölf
 Monate Leistungen nach § 43 beziehen, erhalten einen Leistungszuschlag
@@ -4373,10 +4455,12 @@ bisherige Dauer des Bezugs von Leistungen nach § 43.
 
 
 ### Vierter Abschnitt - Leistungen für Pflegepersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001100307)
 
 
 
 #### § 44 Leistungen zur sozialen Sicherung der Pflegepersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE008917311)
 
 (1) Zur Verbesserung der sozialen Sicherung der Pflegepersonen im
 Sinne des § 19, die einen Pflegebedürftigen mit mindestens Pflegegrad
@@ -4529,6 +4613,7 @@ verarbeiten.
 
 
 #### § 44a Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019107311)
 
 (1) Beschäftigte, die nach § 3 des Pflegezeitgesetzes von der
 Arbeitsleistung vollständig freigestellt wurden oder deren
@@ -4694,6 +4779,7 @@ folgende Angaben zum Leistungsbezieher mitzuteilen:
 
 
 #### § 45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009005311)
 
 (1) Die Pflegekassen haben für Angehörige und sonstige an einer
 ehrenamtlichen Pflegetätigkeit interessierte Personen unentgeltlich
@@ -4720,10 +4806,12 @@ die Pflegekurse durchführen.
 
 
 ### Fünfter Abschnitt - Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004403301)
 
 
 
 #### § 45a Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten Sachleistungsbetrags (Umwandlungsanspruch), Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018207377)
 
 (1) Angebote zur Unterstützung im Alltag tragen dazu bei,
 Pflegepersonen zu entlasten, und helfen Pflegebedürftigen, möglichst
@@ -4836,6 +4924,7 @@ voneinander.
 
 
 #### § 45b Entlastungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018306311)
 
 (1) Pflegebedürftige in häuslicher Pflege haben Anspruch auf einen
 Entlastungsbetrag in Höhe von bis zu 125 Euro monatlich. Der Betrag
@@ -4907,6 +4996,7 @@ Rechtsverordnung nach § 45a Absatz 3 bestimmen.
 
 
 #### § 45c Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018411377)
 
 (1) Zur Weiterentwicklung der Versorgungsstrukturen und
 Versorgungskonzepte und zur Förderung ehrenamtlicher Strukturen
@@ -5092,6 +5182,7 @@ Netzwerke betreffen, sind bis zum 31. Dezember 2021 zu aktualisieren.
 
 
 #### § 45d Förderung der Selbsthilfe, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019205311)
 
 Je Kalenderjahr werden 0,15 Euro je Versicherten verwendet zur
 Förderung und zum Auf- und Ausbau von Selbsthilfegruppen,
@@ -5163,10 +5254,12 @@ nach dem Stand der Technik gewährleisten.
 
 
 ### Sechster Abschnitt - Initiativprogramm zur Förderung neuer Wohnformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004600308)
 
 
 
 #### § 45e Anschubfinanzierung zur Gründung von ambulant betreuten Wohngruppen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020502126)
 
 (1) Zur Förderung der Gründung von ambulant betreuten Wohngruppen wird
 Pflegebedürftigen, die Anspruch auf Leistungen nach § 38a haben und
@@ -5194,6 +5287,7 @@ der privaten Krankenversicherung e. V.
 
 
 #### § 45f Weiterentwicklung neuer Wohnformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020600308)
 
 (1) Zur wissenschaftlich gestützten Weiterentwicklung und Förderung
 neuer Wohnformen werden zusätzlich 10 Millionen Euro zur Verfügung
@@ -5209,14 +5303,17 @@ entsprechend.
 
 
 ## Fünftes Kapitel - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001200307)
 
 
 
 ### Erster Abschnitt - Träger der Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001300307)
 
 
 
 #### § 46 Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009221311)
 
 (1) Träger der Pflegeversicherung sind die Pflegekassen. Bei jeder
 Krankenkasse (§ 4 Abs. 2 des Fünften Buches) wird eine Pflegekasse
@@ -5299,6 +5396,7 @@ Daten elektronisch und in einer bestimmten Form zur Verfügung stellen.
 
 
 #### § 47 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009303308)
 
 (1) Die Satzung muß Bestimmungen enthalten über:
 
@@ -5341,6 +5439,7 @@ die Pflegekasse errichtet ist, zuständig ist.
 
 
 #### § 47a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018604126)
 
 (1) § 197a des Fünften Buches gilt entsprechend; § 197a Absatz 3 des
 Fünften Buches gilt mit der Maßgabe, auch mit den nach Landesrecht
@@ -5427,10 +5526,12 @@ Absatz 1 Satz 2 nur zu dem Zweck verarbeitet werden, zu dem sie ihnen
 
 
 ### Zweiter Abschnitt - Zuständigkeit, Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001400307)
 
 
 
 #### § 48 Zuständigkeit für Versicherte einer Krankenkasse und sonstige Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009501311)
 
 (1) Für die Durchführung der Pflegeversicherung ist jeweils die
 Pflegekasse zuständig, die bei der Krankenkasse errichtet ist, bei der
@@ -5470,6 +5571,7 @@ versicherungspflichtig sind.
 
 
 #### § 49 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009604311)
 
 (1) Die Mitgliedschaft bei einer Pflegekasse beginnt mit dem Tag, an
 dem die Voraussetzungen des § 20, des § 21 oder des § 21a vorliegen.
@@ -5498,10 +5600,12 @@ endet:
 
 
 ### Dritter Abschnitt - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001500307)
 
 
 
 #### § 50 Melde- und Auskunftspflichten bei Mitgliedern der sozialen Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009703311)
 
 (1) Alle nach § 20 versicherungspflichtigen Mitglieder haben sich
 selbst unverzüglich bei der für sie zuständigen Pflegekasse
@@ -5584,6 +5688,7 @@ Rentenversicherungsträger gilt § 201 des Fünften Buches entsprechend.
 
 
 #### § 51 Meldungen bei Mitgliedern der privaten Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009802126)
 
 (1) Das private Versicherungsunternehmen hat Personen, die bei ihm
 gegen Krankheit versichert sind und trotz Aufforderung innerhalb von
@@ -5615,10 +5720,12 @@ nachgewiesen wird.
 
 
 ### Vierter Abschnitt - Wahrnehmung der Verbandsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001600307)
 
 
 
 #### § 52 Aufgaben auf Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE009906308)
 
 (1) Die Landesverbände der Ortskrankenkassen, der
 Betriebskrankenkassen und der Innungskrankenkassen, die Deutsche
@@ -5641,6 +5748,7 @@ wahrnehmen, handeln die in Absatz 1 aufgeführten Stellen.
 
 
 #### § 53 Aufgaben auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010004308)
 
 Der Spitzenverband Bund der Krankenkassen nimmt die Aufgaben des
 Spitzenverbandes Bund der Pflegekassen wahr. Die §§ 217b, 217d und
@@ -5648,6 +5756,7 @@ Spitzenverbandes Bund der Pflegekassen wahr. Die §§ 217b, 217d und
 
 
 #### § 53a Beauftragung von anderen unabhängigen Gutachtern durch die Pflegekassen im Verfahren zur Feststellung der Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020702126)
 
 (1) Der Spitzenverband Bund der Pflegekassen erlässt bis zum 31. März
 2013 mit dem Ziel einer einheitlichen Rechtsanwendung Richtlinien zur
@@ -5683,6 +5792,7 @@ Gesundheit.
 
 
 #### § 53b Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023801126)
 
 Der Spitzenverband Bund der Pflegekassen hat für die zusätzlich
 einzusetzenden Betreuungskräfte für die Leistungen nach § 43b
@@ -5698,10 +5808,12 @@ das Bundesministerium für Gesundheit wirksam. § 17 Absatz 2 Satz 2 und
 
 
 ### Fünfter Abschnitt - Medizinische Dienste, Medizinischer Dienst Bund
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005600126)
 
 
 
 #### § 53c Medizinische Dienste, Medizinischer Dienst Bund, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025402311)
 
 (1) Die Medizinischen Dienste gemäß § 278 des Fünften Buches haben die
 ihnen nach diesem Buch zugewiesenen Aufgaben zu erfüllen. Die
@@ -5732,6 +5844,7 @@ Bund gemäß § 53d Absatz 2 und 3 fort.
 
 
 #### § 53d Aufgaben des Medizinischen Dienstes Bund
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025502126)
 
 (1) Der Medizinische Dienst Bund koordiniert und fördert die
 Durchführung der Aufgaben und die Zusammenarbeit der Medizinischen
@@ -5836,14 +5949,17 @@ Nummer 7 ist für die Medizinischen Dienste verbindlich.
 
 
 ## Sechstes Kapitel - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001700307)
 
 
 
 ### Erster Abschnitt - Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001800307)
 
 
 
 #### § 54 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010200307)
 
 (1) Die Mittel für die Pflegeversicherung werden durch Beiträge sowie
 sonstige Einnahmen gedeckt.
@@ -5860,6 +5976,7 @@ entsprechend.
 
 
 #### § 55 Beitragssatz, Beitragsbemessungsgrenze, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010315311)
 
 (1) Der Beitragssatz beträgt, vorbehaltlich des Satzes 2,
 bundeseinheitlich 3,4 Prozent der beitragspflichtigen Einnahmen der
@@ -5988,6 +6105,7 @@ Familienangehörige.
 
 
 #### § 55a Automatisiertes Übermittlungsverfahren zur Erhebung und zum Nachweis der Elterneigenschaft sowie der Anzahl der berücksichtigungsfähigen Kinder für die Beitragssatzermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029600125)
 
 (1) Die beitragsabführenden Stellen, die zur Berücksichtigung von Zu-
 oder Abschlägen verpflichtet sind, und die Pflegekassen rufen beim
@@ -6106,6 +6224,7 @@ Datenübermittlung nach § 55a Absatz 1 bis 6 zulässig.
 
 
 #### § 55b Meldung der Pflegekasse im Verfahren nach § 55a bei Selbstzahlern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029700125)
 
 (1) Die Pflegekasse hat ab dem 1. Juli 2025 für Selbstzahler bei
 Beginn einer Mitgliedschaft eine Meldung im Sinne des § 55a Absatz 3
@@ -6154,6 +6273,7 @@ erstreckt sich die Meldung auf den gesamten genannten Zeitraum."
 
 
 #### § 56 Beitragsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010411311)
 
 (1) Familienangehörige sind für die Dauer der Familienversicherung
 nach § 25 beitragsfrei.
@@ -6211,6 +6331,7 @@ die in Satz 1 genannten Leistungen.
 
 
 #### § 57 Beitragspflichtige Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010541311)
 
 (1) Bei Mitgliedern der Pflegekasse, die in der gesetzlichen
 Krankenversicherung pflichtversichert sind, gelten für die
@@ -6290,6 +6411,7 @@ monatlichen Bezugsgröße nach § 18 des Vierten Buches zugrunde gelegt.
 
 
 #### § 58 Tragung der Beiträge bei versicherungspflichtig Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010613311)
 
 (1) Die nach § 20 Abs. 1 Satz 2 Nr. 1 und 12 versicherungspflichtig
 Beschäftigten, die in der gesetzlichen Krankenversicherung
@@ -6333,6 +6455,7 @@ Beitragssatzes der Pflegeversicherung Anwendung findet.
 
 
 #### § 59 Beitragstragung bei anderen Mitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010727311)
 
 (1) Für die nach § 20 Abs. 1 Satz 2 Nr. 2 bis 12 versicherten
 Mitglieder der sozialen Pflegeversicherung, die in der gesetzlichen
@@ -6398,6 +6521,7 @@ trägt das Mitglied.
 
 
 #### § 59a Berücksichtigung des Beitragsabschlags für Eltern bei der Beitragstragung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE028800126)
 
 Der Abschlag nach § 55 Absatz 3 Satz 4 und 5 reduziert die vom
 Mitglied zu tragenden Beiträge. Soweit die Beiträge von Dritten
@@ -6406,6 +6530,7 @@ keine Berücksichtigung.
 
 
 #### § 60 Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010819125)
 
 (1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. § 252 Abs. 1
@@ -6500,10 +6625,12 @@ Buches gilt entsprechend.
 
 
 ### Zweiter Abschnitt - Beitragszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG001900307)
 
 
 
 #### § 61 Beitragszuschüsse für freiwillige Mitglieder der gesetzlichen Krankenversicherung und Privatversicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE010913311)
 
 (1) Beschäftigte, die in der gesetzlichen Krankenversicherung
 freiwillig versichert sind, erhalten unter den Voraussetzungen des §
@@ -6613,10 +6740,12 @@ jeweiligen Abgeordnetengesetzen verwiesen.
 
 
 ### Dritter Abschnitt - Bundesmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005900377)
 
 
 
 #### § 61a Beteiligung des Bundes an Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027402311)
 
 (1) Der Bund leistet zur pauschalen Beteiligung an den Aufwendungen
 der sozialen Pflegeversicherung ab dem Jahr 2022 jährlich 1 Milliarde
@@ -6633,16 +6762,19 @@ zurückzuzahlen.
 
 
 ### Vierter Abschnitt - Verwendung und Verwaltung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002001377)
 
 
 
 #### § 62 Mittel der Pflegekasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011000307)
 
 Die Mittel der Pflegekasse umfassen die Betriebsmittel und die
 Rücklage.
 
 
 #### § 63 Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011100307)
 
 (1) Die Betriebsmittel dürfen nur verwendet werden:
 
@@ -6669,6 +6801,7 @@ Zweck verfügbar sind.
 
 
 #### § 64 Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011200307)
 
 (1) Die Pflegekasse hat zur Sicherstellung ihrer Leistungsfähigkeit
 eine Rücklage zu bilden.
@@ -6693,10 +6826,12 @@ von der Pflegekasse verwaltet.
 
 
 ### Fünfter Abschnitt - Ausgleichsfonds, Finanzausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002101377)
 
 
 
 #### § 65 Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011304311)
 
 (1) Das Bundesamt für Soziale Sicherung verwaltet als Sondervermögen
 (Ausgleichsfonds) die eingehenden Beträge aus:
@@ -6740,6 +6875,7 @@ mindestens jährlich, zu überprüfen.
 
 
 #### § 66 Finanzausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011403126)
 
 (1) Die Leistungsaufwendungen sowie die Verwaltungskosten der
 Pflegekassen werden von allen Pflegekassen nach dem Verhältnis ihrer
@@ -6756,6 +6892,7 @@ Rentenversicherung Bund treffen.
 
 
 #### § 67 Monatlicher Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011502126)
 
 (1) Jede Pflegekasse ermittelt bis zum 10. des Monats
 
@@ -6789,6 +6926,7 @@ notwendigen Berechnungsgrundlagen mitzuteilen.
 
 
 #### § 68 Jahresausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011605126)
 
 (1) Nach Ablauf des Kalenderjahres wird zwischen den Pflegekassen ein
 Jahresausgleich durchgeführt. Nach Vorliegen der Geschäfts- und
@@ -6822,14 +6960,17 @@ regeln.
 
 
 ## Siebtes Kapitel - Beziehungen der Pflegekassen zu den Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002200307)
 
 
 
 ### Erster Abschnitt - Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002300307)
 
 
 
 #### § 69 Sicherstellungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011702308)
 
 Die Pflegekassen haben im Rahmen ihrer Leistungsverpflichtung eine
 bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand
@@ -6844,6 +6985,7 @@ Aufgaben zu achten.
 
 
 #### § 70 Beitragssatzstabilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011800307)
 
 (1) Die Pflegekassen stellen in den Verträgen mit den
 Leistungserbringern über Art, Umfang und Vergütung der Leistungen
@@ -6855,10 +6997,12 @@ der Beitragssatzstabilität widersprechen, sind unwirksam.
 
 
 ### Zweiter Abschnitt - Beziehungen zu den Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002400307)
 
 
 
 #### § 71 Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE011913377)
 
 (1) Ambulante Pflegeeinrichtungen (Pflegedienste) im Sinne dieses
 Buches sind selbständig wirtschaftende Einrichtungen, die unter
@@ -6992,6 +7136,7 @@ werden.
 
 
 #### § 72 Zulassung zur Pflege durch Versorgungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012017126)
 
 (1) Die Pflegekassen dürfen ambulante und stationäre Pflege nur durch
 Pflegeeinrichtungen gewähren, mit denen ein Versorgungsvertrag besteht
@@ -7269,6 +7414,7 @@ zu vergüten.
 
 
 #### § 73 Abschluß von Versorgungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012101308)
 
 (1) Der Versorgungsvertrag ist schriftlich abzuschließen.
 
@@ -7303,6 +7449,7 @@ Satz 2 der 30. Juni 1996 ist.
 
 
 #### § 74 Kündigung von Versorgungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012202377)
 
 (1) Der Versorgungsvertrag kann von jeder Vertragspartei mit einer
 Frist von einem Jahr ganz oder teilweise gekündigt werden, von den
@@ -7352,6 +7499,7 @@ Kündigung gilt § 73 Abs. 2 entsprechend.
 
 
 #### § 75 Rahmenverträge, Bundesempfehlungen und -vereinbarungen über die pflegerische Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012313126)
 
 (1) Die Landesverbände der Pflegekassen schließen unter Beteiligung
 des Medizinischen Dienstes sowie des Verbandes der privaten
@@ -7517,6 +7665,7 @@ verbindlich.
 
 
 #### § 76 Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012401308)
 
 (1) Die Landesverbände der Pflegekassen und die Vereinigungen der
 Träger der Pflegeeinrichtungen im Land bilden gemeinsam für jedes Land
@@ -7573,10 +7722,12 @@ Abs. 6 gilt entsprechend.
 
 
 ### Dritter Abschnitt - Beziehungen zu sonstigen Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002500307)
 
 
 
 #### § 77 Häusliche Pflege durch Einzelpersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012504301)
 
 (1) Zur Sicherstellung der körperbezogenen Pflege, der pflegerischen
 Betreuung sowie der Haushaltsführung im Sinne des § 36 soll die
@@ -7620,6 +7771,7 @@ diesem Buch gelten.
 
 
 #### § 78 Verträge über Pflegehilfsmittel, Pflegehilfsmittelverzeichnis und Empfehlungen zu wohnumfeldverbessernden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012610311)
 
 (1) Der Spitzenverband Bund der Pflegekassen schließt mit den
 Leistungserbringern oder deren Verbänden Verträge über die Versorgung
@@ -7679,6 +7831,7 @@ Zustimmung des Bundesrates zu bestimmen; § 40 Abs. 5 bleibt unberührt.
 
 
 #### § 78a Verträge über digitale Pflegeanwendungen und Verzeichnis für digitale Pflegeanwendungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027003125)
 
 (1) Der Spitzenverband Bund der Pflegekassen vereinbart im
 Einvernehmen mit der Bundesarbeitsgemeinschaft der überörtlichen
@@ -7896,10 +8049,12 @@ Berichts in der Verordnung nach Absatz 6 festlegen.
 
 
 ### Vierter Abschnitt - Wirtschaftlichkeitsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002601119)
 
 
 
 #### § 79 Wirtschaftlichkeits- und Abrechnungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012702360)
 
 (1) Die Landesverbände der Pflegekassen können die Wirtschaftlichkeit
 und Wirksamkeit der ambulanten, teilstationären und vollstationären
@@ -7941,16 +8096,19 @@ Absätze 2 und 3 entsprechend anzuwenden.
 
 
 #### § 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012805308)
 
 -
 
 
 #### § 80a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016602308)
 
 -
 
 
 #### § 81 Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE012904308)
 
 (1) Die Landesverbände der Pflegekassen (§ 52) erfüllen die ihnen nach
 dem Siebten und Achten Kapitel zugewiesenen Aufgaben gemeinsam. Kommt
@@ -7987,14 +8145,17 @@ einvernehmlich auszuwählen ist.
 
 
 ## Achtes Kapitel - Pflegevergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002700307)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002800307)
 
 
 
 #### § 82 Finanzierung der Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013008311)
 
 (1) Zugelassene Pflegeheime und Pflegedienste erhalten nach Maßgabe
 dieses Kapitels
@@ -8083,6 +8244,7 @@ Pflegekasse als Partei der Pflegevergütungsvereinbarung unaufgefordert
 
 
 #### § 82a Ausbildungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016503119)
 
 (1) Die Ausbildungsvergütung im Sinne dieser Vorschrift umfasst die
 Vergütung, die aufgrund von Rechtsvorschriften, Tarifverträgen,
@@ -8175,6 +8337,7 @@ Abs. 6 gilt entsprechend.
 
 
 #### § 82b Ehrenamtliche Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019601308)
 
 (1) Soweit und solange einer nach diesem Gesetz zugelassenen
 Pflegeeinrichtung, insbesondere
@@ -8206,6 +8369,7 @@ entsprechend.
 
 
 #### § 82c Wirtschaftlichkeit von Personalaufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027504311)
 
 (1) Ab dem 1. September 2022 kann bei tarifgebundenen oder an
 kirchliche Arbeitsrechtsregelungen gebundenen Pflegeeinrichtungen eine
@@ -8473,6 +8637,7 @@ Aufbereitung und Auswertung der angeforderten Informationen.
 
 
 #### § 83 Verordnung zur Regelung der Pflegevergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013101308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zu erlassen über
@@ -8513,10 +8678,12 @@ Regelungsbereichen nicht mehr zulässig.
 
 
 ### Zweiter Abschnitt - Vergütung der stationären Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG002900307)
 
 
 
 #### § 84 Bemessungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013217126)
 
 (1) Pflegesätze sind die Entgelte der Heimbewohner oder ihrer
 Kostenträger für die teil- oder vollstationären Pflegeleistungen des
@@ -8627,6 +8794,7 @@ Vergütungszuschlägen weder ganz noch teilweise belastet werden.
 
 
 #### § 85 Pflegesatzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013309311)
 
 (1) Art, Höhe und Laufzeit der Pflegesätze werden zwischen dem Träger
 des Pflegeheimes und den Leistungsträgern nach Absatz 2 vereinbart.
@@ -8885,6 +9053,7 @@ Satz 3 und 4 und Absatz 7 nachzuweisen.
 
 
 #### § 86 Pflegesatzkommission
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013401308)
 
 (1) Die Landesverbände der Pflegekassen, der Verband der privaten
 Krankenversicherung e.V., die überörtlichen oder ein nach Landesrecht
@@ -8912,6 +9081,7 @@ sind.
 
 
 #### § 87 Unterkunft und Verpflegung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013501308)
 
 Die als Pflegesatzparteien betroffenen Leistungsträger (§ 85 Abs. 2)
 vereinbaren mit dem Träger des Pflegeheimes die von den
@@ -8922,6 +9092,7 @@ und die §§ 85 und 86 gelten entsprechend; § 88 bleibt unberührt.
 
 
 #### § 87a Berechnung und Zahlung des Heimentgelts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016706377)
 
 (1) Die Pflegesätze, die Entgelte für Unterkunft und Verpflegung sowie
 die gesondert berechenbaren Investitionskosten (Gesamtheimentgelt)
@@ -8985,9 +9156,11 @@ eingestuft wird.
 
 
 #### § 87b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019704301)
 
 
 #### § 88 Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013600307)
 
 (1) Neben den Pflegesätzen nach § 85 und den Entgelten nach § 87 darf
 das Pflegeheim mit den Pflegebedürftigen über die im
@@ -9027,6 +9200,7 @@ zulässig, wenn:
 
 
 #### § 88a Wirtschaftlich tragfähige Vergütung für Kurzzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027600377)
 
 (1) Zur Sicherstellung einer wirtschaftlich tragfähigen Vergütung in
 der Kurzzeitpflege sind Empfehlungen nach dem Verfahren gemäß § 75
@@ -9055,10 +9229,12 @@ Bestellung fest.
 
 
 ### Dritter Abschnitt - Vergütung der ambulanten Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003000307)
 
 
 
 #### § 89 Grundsätze für die Vergütungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013710311)
 
 (1) Die Vergütung der ambulanten Leistungen der häuslichen Pflegehilfe
 und der ergänzenden Unterstützungsleistungen bei der Nutzung von
@@ -9116,6 +9292,7 @@ Absatz 3 bis 7 und § 86 gelten entsprechend.
 
 
 #### § 90 Gebührenordnung für ambulante Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013805301)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen
@@ -9139,10 +9316,12 @@ Ansprüche an die Pflegebedürftigen oder deren Kostenträger zu stellen.
 
 
 ### Vierter Abschnitt - Kostenerstattung, Pflegeheimvergleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003102301)
 
 
 
 #### § 91 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE013900307)
 
 (1) Zugelassene Pflegeeinrichtungen, die auf eine vertragliche
 Regelung der Pflegevergütung nach den §§ 85 und 89 verzichten oder mit
@@ -9169,10 +9348,12 @@ der Absätze 2 und 3 hinzuweisen.
 
 
 #### § 92 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014002301)
 
 
 
 #### § 92a Pflegeheimvergleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016803126)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates einen Pflegeheimvergleich anzuordnen,
@@ -9286,10 +9467,12 @@ Anwendung der vorstehenden Absätze anzuordnen.
 
 
 ### Fünfter Abschnitt - Integrierte Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004502301)
 
 
 
 #### § 92b Integrierte Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018901119)
 
 (1) Die Pflegekassen können mit zugelassenen Pflegeeinrichtungen und
 den weiteren Vertragspartnern nach § 140a Absatz 3 Satz 1 des Fünften
@@ -9318,22 +9501,27 @@ Pflegeversicherten an den integrierten Versorgungsformen entsprechend.
 
 
 ### Sechster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005000301)
 
 
 
 ## Neuntes Kapitel - Datenschutz, Statistik und Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003201125)
 
 
 
 ### Erster Abschnitt - Informationsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003300307)
 
 
 
 #### Erster Titel - Grundsätze der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003401126)
 
 
 
 ##### § 93 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014101126)
 
 Für den Schutz personenbezogener Daten bei der Verarbeitung in der
 Pflegeversicherung gelten § 35 des Ersten Buches, die §§ 67 bis 84 und
@@ -9341,6 +9529,7 @@ Pflegeversicherung gelten § 35 des Ersten Buches, die §§ 67 bis 84 und
 
 
 ##### § 94 Personenbezogene Daten bei den Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014215125)
 
 (1) Die Pflegekassen dürfen personenbezogene Daten für Zwecke der
 Pflegeversicherung nur verarbeiten, soweit dies für:
@@ -9423,6 +9612,7 @@ offenbart werden.
 
 
 ##### § 95 Personenbezogene Daten bei den Verbänden der Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014305126)
 
 (1) Die Verbände der Pflegekassen dürfen personenbezogene Daten für
 Zwecke der Pflegeversicherung nur verarbeiten, soweit diese für:
@@ -9455,6 +9645,7 @@ erforderlich sind.
 
 
 ##### § 96 Gemeinsame Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014402126)
 
 (1) Die Pflegekassen und die Krankenkassen dürfen erhobene
 personenbezogene Daten, die zur Erfüllung gesetzlicher Aufgaben jeder
@@ -9469,6 +9660,7 @@ Pflege- und Krankenkassen.
 
 
 ##### § 97 Personenbezogene Daten beim Medizinischen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014507126)
 
 (1) Der Medizinische Dienst darf personenbezogene Daten für Zwecke der
 Pflegeversicherung nur verarbeiten, soweit dies für die Prüfungen,
@@ -9501,6 +9693,7 @@ Buches entsprechend.
 
 
 ##### § 97a Qualitätssicherung durch Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016903126)
 
 (1) Von den Landesverbänden der Pflegekassen bestellte sonstige
 Sachverständige (§ 114 Abs. 1 Satz 1) sind berechtigt, für Zwecke der
@@ -9516,6 +9709,7 @@ vertraulich zu behandeln.
 
 
 ##### § 97b Personenbezogene Daten bei den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden und den Trägern der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017003126)
 
 Die nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden
 und die zuständigen Träger der Sozialhilfe sind berechtigt, die für
@@ -9526,6 +9720,7 @@ entsprechende Anwendung.
 
 
 ##### § 97c Qualitätssicherung durch den Prüfdienst des Verbandes der privaten Krankenversicherung e. V.
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019900308)
 
 Bei Wahrnehmung der Aufgaben auf dem Gebiet der Qualitätssicherung und
 Qualitätsprüfung im Sinne dieses Buches durch den Prüfdienst des
@@ -9535,6 +9730,7 @@ als Stelle im Sinne des § 35 Absatz 1 Satz 1 des Ersten Buches. Die §§
 
 
 ##### § 97d Begutachtung durch unabhängige Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020803126)
 
 (1) Von den Pflegekassen gemäß § 18 Absatz 1 Satz 1 beauftragte
 unabhängige Gutachter sind berechtigt, personenbezogene Daten des
@@ -9561,6 +9757,7 @@ benötigen.
 
 
 ##### § 98 Forschungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014600307)
 
 (1) Die Pflegekassen dürfen mit der Erlaubnis der Aufsichtsbehörde die
 Datenbestände leistungserbringer- und fallbeziehbar für zeitlich
@@ -9572,10 +9769,12 @@ ergebenden Fristen hinaus aufbewahren.
 
 
 #### Zweiter Titel - Informationsgrundlagen der Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003500307)
 
 
 
 ##### § 99 Versichertenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014700307)
 
 Die Pflegekasse hat ein Versichertenverzeichnis zu führen. Sie hat in
 das Versichertenverzeichnis alle Angaben einzutragen, die zur
@@ -9586,6 +9785,7 @@ sind.
 
 
 ##### § 100 Nachweispflicht bei Familienversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014800307)
 
 Die Pflegekasse kann die für den Nachweis einer Familienversicherung
 (§ 25) erforderlichen Daten vom Angehörigen oder mit dessen Zustimmung
@@ -9593,6 +9793,7 @@ vom Mitglied erheben.
 
 
 ##### § 101 Pflegeversichertennummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE014900307)
 
 Die Pflegekasse verwendet für jeden Versicherten eine
 Versichertennummer, die mit der Krankenversichertennummer ganz oder
@@ -9602,6 +9803,7 @@ Angehörigen, der Mitglied ist, hergestellt werden kann.
 
 
 ##### § 102 Angaben über Leistungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015001126)
 
 Die Pflegekasse hat Angaben über Leistungen, die zur Prüfung der
 Voraussetzungen späterer Leistungsgewährung erforderlich sind, zu
@@ -9611,6 +9813,7 @@ Zuschüssen.
 
 
 ##### § 103 Kennzeichen für Leistungsträger und Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015100307)
 
 (1) Die Pflegekassen, die anderen Träger der Sozialversicherung und
 die Vertragspartner der Pflegekassen einschließlich deren Mitglieder
@@ -9621,6 +9824,7 @@ bundeseinheitliche Kennzeichen.
 
 
 ##### § 103a IT-Sicherheit der Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029401126)
 
 (1) Pflegekassen sind verpflichtet, nach dem Stand der Technik
 angemessene organisatorische und technische Vorkehrungen zur
@@ -9707,10 +9911,12 @@ Einzelnen ergriffen wurden.
 
 
 ### Zweiter Abschnitt - Übermittlung von Leistungsdaten, Nutzung der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003601311)
 
 
 
 #### § 104 Pflichten der Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015204126)
 
 (1) Die Leistungserbringer sind berechtigt und verpflichtet:
 
@@ -9751,6 +9957,7 @@ der Qualitätssicherung nach diesem Buch erforderlich ist.
 
 
 #### § 105 Abrechnung pflegerischer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015304311)
 
 (1) Die an der Pflegeversorgung teilnehmenden Leistungserbringer sind
 verpflichtet,
@@ -9832,6 +10039,7 @@ von Abrechnungsunterlagen erforderlichen Angaben an die Pflegekasse
 
 
 #### § 106 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015400307)
 
 Die Landesverbände der Pflegekassen (§ 52) können mit den
 Leistungserbringern oder ihren Verbänden vereinbaren, daß
@@ -9849,6 +10057,7 @@ der gesetzlichen Aufgaben der Pflegekassen nicht gefährdet werden.
 
 
 #### § 106a Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016407126)
 
 Zugelassene Pflegedienste, anerkannte Beratungsstellen, beauftragte
 Pflegefachkräfte sowie Beratungspersonen der kommunalen
@@ -9872,6 +10081,7 @@ zuständigen privaten Versicherungsunternehmen.
 
 
 #### § 106b Finanzierung der Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025303125)
 
 (1) Zum Ausgleich
 
@@ -9956,6 +10166,7 @@ gilt die jeweils bestehende Vereinbarung nach Absatz 2 fort.
 
 
 #### § 106c Einbindung der Medizinischen Dienste in die Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027100311)
 
 Bei der Erfüllung der ihnen nach diesem Buch zugewiesenen Aufgaben
 haben die Medizinischen Dienste gemäß § 278 des Fünften Buches und die
@@ -9968,10 +10179,12 @@ die Telematikinfrastruktur angebunden sind.
 
 
 ### Dritter Abschnitt - Datenlöschung, Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003700307)
 
 
 
 #### § 107 Löschen von Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015503126)
 
 (1) Für das Löschen der für Aufgaben der Pflegekassen und ihrer
 Verbände gespeicherten personenbezogenen Daten gilt, daß
@@ -10000,6 +10213,7 @@ Pflegekasse mitzuteilen.
 
 
 #### § 108 Auskünfte an Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015604311)
 
 (1) Die Pflegekassen unterrichten die Versicherten, indem sie den
 Versicherten auf Anforderung
@@ -10047,10 +10261,12 @@ anzuwenden.
 
 
 ### Vierter Abschnitt - Statistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003800307)
 
 
 
 #### § 109 Pflegestatistiken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015805360)
 
 (1) Die Bundesregierung wird ermächtigt, für Zwecke dieses Buches
 durch Rechtsverordnung mit Zustimmung des Bundesrates jährliche
@@ -10152,10 +10368,12 @@ Jahr 1998 für das Jahr 1997.
 
 
 ### Fünfter Abschnitt - Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG006300125)
 
 
 
 #### § 109a Recht auf Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029500125)
 
 (1) Den Versicherten sind auf Verlangen ihre personenbezogenen
 Gesundheitsdaten unverzüglich und kostenfrei von dem
@@ -10195,10 +10413,12 @@ Absatz 1 Nummer 10a verarbeitet werden.
 
 
 ## Zehntes Kapitel - Private Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG003900307)
 
 
 
 ### § 110 Regelungen für die private Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE015909126)
 
 (1) Um sicherzustellen, daß die Belange der Personen, die nach § 23
 zum Abschluß eines Pflegeversicherungsvertrages bei einem privaten
@@ -10331,6 +10551,7 @@ entsprechend.
 
 
 ### § 110a Befristeter Zuschlag zu privaten Pflege-Pflichtversicherungsverträgen zur Finanzierung pandemiebedingter Mehrausgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027700377)
 
 (1) Für den Zeitraum vom 1. Juli 2021 bis zum 31. Dezember 2022 können
 private Versicherungsunternehmen, die die private Pflege-
@@ -10391,6 +10612,7 @@ zweiten Monats wirksam, der auf die Mitteilung nach Satz 1 folgt. §
 
 
 ### § 111 Risikoausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016004126)
 
 (1) Die Versicherungsunternehmen, die eine private Pflegeversicherung
 im Sinne dieses Buches betreiben, müssen sich zur dauerhaften
@@ -10414,10 +10636,12 @@ für Finanzdienstleistungsaufsicht.
 
 
 ## Elftes Kapitel - Qualitätssicherung, Sonstige Regelungen zum Schutz der Pflegebedürftigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004200308)
 
 
 
 ### § 112 Qualitätsverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017105126)
 
 (1) Die Träger der Pflegeeinrichtungen bleiben, unbeschadet des
 Sicherstellungsauftrags der Pflegekassen (§ 69), für die Qualität der
@@ -10450,6 +10674,7 @@ diese Maßnahmen im Internet bekannt zu machen.
 
 
 ### § 112a Übergangsregelung zur Qualitätssicherung bei Betreuungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025202377)
 
 (1) Bis zur Einführung des neuen Qualitätssystems nach § 113b Absatz 4
 Satz 2 Nummer 3 gelten für die Betreuungsdienste die Vorschriften des
@@ -10494,6 +10719,7 @@ sind unverzüglich im Anschluss an den Richtlinienbeschluss nach Absatz
 
 
 ### § 113 Maßstäbe und Grundsätze zur Sicherung und Weiterentwicklung der Pflegequalität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017210126)
 
 (1) Der Spitzenverband Bund der Pflegekassen, die
 Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe,
@@ -10596,10 +10822,12 @@ Vereinbarungen nach Absatz 1 fort.
 
 
 ### § 113a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019305126)
 
 
 
 ### § 113b Qualitätsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019410126)
 
 (1) Die von den Vertragsparteien nach § 113 im Jahr 2008 eingerichtete
 Schiedsstelle Qualitätssicherung entscheidet als Qualitätsausschuss
@@ -10894,6 +11122,7 @@ Klage hat keine aufschiebende Wirkung.
 
 
 ### § 113c Personalbemessung in vollstationären Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023406311)
 
 (1) Ab dem 1. Juli 2023 kann in den Pflegesatzvereinbarungen nach § 84
 Absatz 5 Satz 2 Nummer 2 für vollstationäre Pflegeeinrichtungen
@@ -11203,6 +11432,7 @@ für Gesundheit.
 
 
 ### § 114 Qualitätsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017319126)
 
 (1) Zur Durchführung einer Qualitätsprüfung erteilen die
 Landesverbände der Pflegekassen dem Medizinischen Dienst, dem
@@ -11346,6 +11576,7 @@ angeordneten Maßnahmen beseitigt worden sind.
 
 
 ### § 114a Durchführung der Qualitätsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE019510126)
 
 (1) Der Medizinische Dienst, der Prüfdienst des Verbandes der privaten
 Krankenversicherung e. V. und die von den Landesverbänden der
@@ -11559,6 +11790,7 @@ des Verbandes der privaten Krankenversicherung e. V. verbindlich.
 
 
 ### § 114b Erhebung und Übermittlung von indikatorenbezogenen Daten zur vergleichenden Messung und Darstellung von Ergebnisqualität in vollstationären Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025002311)
 
 (1) Die zugelassenen vollstationären Pflegeeinrichtungen sind
 verpflichtet, ab dem 1. Oktober 2019 bis zum 31. Dezember 2021 einmal
@@ -11603,6 +11835,7 @@ durchführen, durch Vereinbarung.
 
 
 ### § 114c Richtlinien zur Verlängerung des Prüfrhythmus in vollstationären Einrichtungen bei guter Qualität und zur Veranlassung unangemeldeter Prüfungen; Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025104126)
 
 (1) Abweichend von § 114 Absatz 2 soll eine Prüfung in einer
 zugelassenen vollstationären Pflegeeinrichtung ab dem 1. Januar 2023
@@ -11678,6 +11911,7 @@ Qualitätsprüfungen.
 
 
 ### § 115 Ergebnisse von Qualitätsprüfungen, Qualitätsdarstellung, Vergütungskürzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017414311)
 
 (1) Die Medizinischen Dienste, der Prüfdienst des Verbandes der
 privaten Krankenversicherung e. V. sowie die von den Landesverbänden
@@ -11877,6 +12111,7 @@ vertreten hat. Absatz 3 Satz 7 bleibt unberührt.
 
 
 ### § 115a Übergangsregelung für Pflege-Transparenzvereinbarungen und Qualitätsprüfungs-Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023501126)
 
 (1) Die Vertragsparteien nach § 113 passen unter Beteiligung des
 Medizinischen Dienstes Bund, des Verbandes der privaten
@@ -11950,6 +12185,7 @@ Kraft.
 
 
 ### § 116 Kostenregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017501308)
 
 (1) Die Prüfkosten bei Wirksamkeits- und Wirtschaftlichkeitsprüfungen
 nach § 79 sind als Aufwand in der nächstmöglichen
@@ -11974,6 +12210,7 @@ zu tragen.
 
 
 ### § 117 Zusammenarbeit mit den nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017607126)
 
 (1) Die Landesverbände der Pflegekassen sowie der Medizinische Dienst
 und der Prüfdienst des Verbandes der privaten Krankenversicherung
@@ -12059,6 +12296,7 @@ aufschiebende Wirkung.
 
 
 ### § 118 Beteiligung von Interessenvertretungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017712126)
 
 (1) Bei Erarbeitung oder Änderung
 
@@ -12116,6 +12354,7 @@ festzulegen für
 
 
 ### § 119 Verträge mit Pflegeheimen außerhalb des Anwendungsbereichs des Wohn- und Betreuungsvertragsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017801308)
 
 Für den Vertrag zwischen dem Träger einer zugelassenen stationären
 Pflegeeinrichtung, auf die das Wohn- und Betreuungsvertragsgesetz
@@ -12125,6 +12364,7 @@ Betreuungsvertragsgesetz entsprechend.
 
 
 ### § 120 Pflegevertrag bei häuslicher Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE017907311)
 
 (1) Bei häuslicher Pflege übernimmt der zugelassene Pflegedienst
 spätestens mit Beginn des ersten Pflegeeinsatzes auch gegenüber dem
@@ -12165,10 +12405,12 @@ höhere als die nach § 89 vereinbarte Vergütung berechnen.
 
 
 ## Zwölftes Kapitel - Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004001308)
 
 
 
 ### § 121 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE016107126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -12232,13 +12474,16 @@ durch Rechtsvorschrift besonders vorgesehen ist.
 
 
 ### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE018503301)
 
 
 ## Dreizehntes Kapitel - Befristete Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005500360)
 
 
 
 ### § 123 Gemeinsame Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE020907126)
 
 (1) Im Zeitraum von 2025 bis 2028 fördert der Spitzenverband Bund der
 Pflegekassen mit bis zu 30 Millionen Euro je Kalenderjahr aus dem
@@ -12369,6 +12614,7 @@ Krankenversicherung e. V. durch Vereinbarung.
 
 
 ### § 124 Wissenschaftliche Begleitung und Auswertung der gemeinsamen Modellvorhaben für Unterstützungsmaßnahmen und -strukturen vor Ort und im Quartier
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021005126)
 
 (1) Für jedes Modellvorhaben nach § 123 haben Modellträger eine
 wissenschaftliche Begleitung und Auswertung vorzusehen. Die Auswertung
@@ -12411,6 +12657,7 @@ werden als Teil der Modellvorhaben entsprechend § 123 gefördert.
 
 
 ### § 125 Modellvorhaben zur Einbindung der Pflegeeinrichtungen in die Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021104311)
 
 Für eine wissenschaftlich gestützte Erprobung der Einbindung der
 Pflegeeinrichtungen in die Telematikinfrastruktur werden aus Mitteln
@@ -12422,6 +12669,7 @@ Kassenärztlichen Bundesvereinigung zu planen und durchzuführen sind.
 
 
 ### § 125a Modellvorhaben zur Erprobung von Telepflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027201126)
 
 Für eine wissenschaftlich gestützte Erprobung von Telepflege zur
 Verbesserung der pflegerischen Versorgung von Pflegebedürftigen werden
@@ -12434,6 +12682,7 @@ Digitalwirtschaft sowie der Gesellschaft für Telematik erfolgt.
 
 
 ### § 125b Kompetenzzentrum Digitalisierung und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE028900126)
 
 (1) Beim Spitzenverband Bund der Pflegekassen wird ein
 Kompetenzzentrum Digitalisierung und Pflege eingerichtet. Die Aufgaben
@@ -12544,10 +12793,12 @@ einer eigens dafür eingerichteten barrierefreien Internetseite.
 
 
 ## Vierzehntes Kapitel - Zulagenförderung der privaten Pflegevorsorge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004701360)
 
 
 
 ### § 126 Zulageberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021201301)
 
 Personen, die nach dem Dritten Kapitel in der sozialen oder privaten
 Pflegeversicherung versichert sind (zulageberechtigte Personen), haben
@@ -12562,6 +12813,7 @@ Pflege-Pflichtversicherung beziehen oder bezogen haben.
 
 
 ### § 127 Pflegevorsorgezulage; Fördervoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021303126)
 
 (1) Leistet die zulageberechtigte Person mindestens einen Beitrag von
 monatlich 10 Euro im jeweiligen Beitragsjahr zugunsten einer auf ihren
@@ -12648,6 +12900,7 @@ Zusatzversicherung gemäß § 127 Absatz 1 geleistet worden sind
 
 
 ### § 128 Verfahren; Haftung des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021402377)
 
 (1) Die Zulage gemäß § 127 Absatz 1 wird auf Antrag gewährt. Die
 zulageberechtigte Person bevollmächtigt das Versicherungsunternehmen
@@ -12756,6 +13009,7 @@ Buches dem Bundesministerium für Gesundheit.
 
 
 ### § 129 Wartezeit bei förderfähigen Pflege-Zusatzversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021500308)
 
 Soweit im Vertrag über eine gemäß § 127 Absatz 2 förderfähige private
 Pflege-Zusatzversicherung eine Wartezeit vereinbart wird, darf diese
@@ -12764,6 +13018,7 @@ Jahre nicht überschreiten.
 
 
 ### § 130 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021600308)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium der Finanzen und dem Bundesministerium für
@@ -12790,16 +13045,19 @@ Bundesrates Vorschriften zu erlassen, die Näheres regeln über
 
 
 ## Fünfzehntes Kapitel - Bildung eines Pflegevorsorgefonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG004801360)
 
 
 
 ### § 131 Pflegevorsorgefonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021800119)
 
 In der sozialen Pflegeversicherung wird ein Sondervermögen unter dem
 Namen „Vorsorgefonds der sozialen Pflegeversicherung“ errichtet.
 
 
 ### § 132 Zweck des Vorsorgefonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE021900119)
 
 Das Sondervermögen dient der langfristigen Stabilisierung der
 Beitragsentwicklung in der sozialen Pflegeversicherung. Es darf nach
@@ -12808,6 +13066,7 @@ sozialen Pflegeversicherung verwendet werden.
 
 
 ### § 133 Rechtsform und Vertretung in gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022001126)
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
@@ -12830,6 +13089,7 @@ Gesundheit.
 
 
 ### § 134 Verwaltung und Anlage der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022102126)
 
 (1) Die Verwaltung und die Anlage der Mittel des Sondervermögens
 werden der Deutschen Bundesbank übertragen. Für die Verwaltung des
@@ -12857,6 +13117,7 @@ unterliegt.
 
 
 ### § 135 Zuführung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022205311)
 
 (1) Das Bundesamt für Soziale Sicherung führt dem Sondervermögen
 monatlich zum 20. des Monats zu Lasten des Ausgleichsfonds einen
@@ -12882,6 +13143,7 @@ aufgenommen.
 
 
 ### § 136 Verwendung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022301126)
 
 Ab dem Jahr 2035 kann das Sondervermögen zur Sicherung der
 Beitragssatzstabilität der sozialen Pflegeversicherung verwendet
@@ -12901,6 +13163,7 @@ Leistungsverbesserungen beruht.
 
 
 ### § 137 Vermögenstrennung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022400119)
 
 Das Vermögen ist von dem übrigen Vermögen der sozialen
 Pflegeversicherung sowie von seinen Rechten und Verbindlichkeiten
@@ -12908,6 +13171,7 @@ getrennt zu halten.
 
 
 ### § 138 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022500119)
 
 Die Deutsche Bundesbank legt dem Bundesministerium für Gesundheit
 jährlich einen Bericht über die Verwaltung der Mittel des
@@ -12917,20 +13181,24 @@ Einnahmen und Ausgaben auszuweisen.
 
 
 ### § 139 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE022600119)
 
 Das Sondervermögen gilt nach Auszahlung seines Vermögens als
 aufgelöst.
 
 
 ## Sechzehntes Kapitel - Überleitungs- und Übergangsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005201360)
 
 
 
 ### Erster Abschnitt - Regelungen zur Rechtsanwendung im Übergangszeitraum, zur Überleitung in die Pflegegrade, zum Besitzstandsschutz für Leistungen der Pflegeversicherung sowie Übergangsregelungen im Begutachtungsverfahren im Rahmen der Einführung des neuen Pflegebedürftigkeitsbegriffs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005301360)
 
 
 
 #### § 140 Anzuwendendes Recht und Überleitung in die Pflegegrade
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE023900301)
 
 (1) Die Feststellung des Vorliegens von Pflegebedürftigkeit oder einer
 erheblich eingeschränkten Alltagskompetenz nach § 45a in der am 31.
@@ -13043,6 +13311,7 @@ Pflegeversicherungsunternehmen.
 
 
 #### § 141 Besitzstandsschutz und Übergangsrecht zur sozialen Sicherung von Pflegepersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024002377)
 
 (1) Versicherte der sozialen Pflegeversicherung und der privaten
 Pflege-Pflichtversicherung sowie Pflegepersonen, die am 31. Dezember
@@ -13158,6 +13427,7 @@ Pflichtversicherung.
 
 
 #### § 142 Übergangsregelungen im Begutachtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024101126)
 
 Bei Versicherten, die nach § 140 von einer Pflegestufe in einen
 Pflegegrad übergeleitet wurden, werden bis zum 1. Januar 2019 keine
@@ -13173,6 +13443,7 @@ ist.
 
 
 #### § 142a Übergangsregelung für eine telefonische Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE029001125)
 
 (1) Um die Feststellung von Pflegebedürftigkeit und Einstufung in
 einen Pflegegrad aufgrund eines strukturierten telefonischen
@@ -13277,6 +13548,7 @@ ist dem Bundesministerium für Gesundheit unverzüglich vorzulegen.
 
 
 #### § 143 Sonderanpassungsrecht für die Allgemeinen Versicherungsbedingungen und die technischen Berechnungsgrundlagen privater Pflegeversicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024201377)
 
 (1) Bei einer Pflegeversicherung, bei der die Prämie nach Art der
 Lebensversicherung berechnet wird und bei der das ordentliche
@@ -13306,10 +13578,12 @@ Versicherungsnehmers bleiben hiervon unberührt.
 
 
 ### Zweiter Abschnitt - Sonstige Überleitungs-, Übergangs- und Besitzstandsschutzregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005401360)
 
 
 
 #### § 144 Überleitungs- und Übergangsregelungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024304311)
 
 (1) Für Personen, die am 31. Dezember 2014 einen Anspruch auf einen
 Wohngruppenzuschlag nach § 38a in der am 31. Dezember 2014 geltenden
@@ -13375,6 +13649,7 @@ Jahresbetrags nach § 42a für das Kalenderjahr 2025 angerechnet.
 
 
 #### § 145 Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024600360)
 
 Für pflegebedürftige Menschen mit Behinderungen, die am 1. Januar 2017
 Anspruch auf Leistungen der Pflegeversicherung bei häuslicher Pflege
@@ -13389,6 +13664,7 @@ solchen Wohnform gelebt hätten.
 
 
 #### § 146 Übergangs- und Überleitungsregelung zur Beratung nach § 37 Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024900126)
 
 (1) Für die jeweilige beratende Stelle gelten die Vergütungssätze nach
 § 37 Absatz 3 Satz 5 und 6 in der am 31. Dezember 2018 geltenden
@@ -13403,10 +13679,12 @@ Januar 2019 als nach § 37 Absatz 7 anerkannte Beratungsstellen.
 
 
 ### Dritter Abschnitt - Maßnahmen zur Aufrechterhaltung der pflegerischen Versorgung während der durch das neuartige Coronavirus SARS-CoV-2 verursachten Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG005700126)
 
 
 
 #### § 147 Verfahren zur Feststellung der Pflegebedürftigkeit nach § 18
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025603311)
 
 (1) Abweichend von § 18 Absatz 2 Satz 1 kann die Begutachtung bis
 einschließlich 31. März 2022 ohne Untersuchung des Versicherten in
@@ -13464,6 +13742,7 @@ September 2020 keine Anwendung.
 
 
 #### § 148 Beratungsbesuche nach § 37
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025704126)
 
 Abweichend von § 37 Absatz 3 Satz 1 erfolgt die von den
 Pflegebedürftigen abzurufende Beratung bis einschließlich 31. März
@@ -13479,6 +13758,7 @@ Form zur Kenntnis zu bringen.
 
 
 #### § 149 Einrichtungen zur Inanspruchnahme von Kurzzeitpflege und anderweitige vollstationäre pflegerische Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025802126)
 
 (1) Bis einschließlich 30. September 2020 besteht der Anspruch auf
 Kurzzeitpflege in Einrichtungen, die stationäre Leistungen zur
@@ -13526,6 +13806,7 @@ Abrechnungsverfahrens abgeben.
 
 
 #### § 150 Sicherstellung der pflegerischen Versorgung, Kostenerstattung für Pflegeeinrichtungen und Pflegebedürftige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE025909377)
 
 (1) Im Fall einer wesentlichen Beeinträchtigung der
 Leistungserbringung infolge des neuartigen Coronavirus SARS-CoV-2 ist
@@ -13679,6 +13960,7 @@ April 2023.
 
 
 #### § 150a Pflegebonus zur Anerkennung der besonderen Leistungen in der Coronavirus-SARS-CoV-2-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026302377)
 
 (1) Die zugelassenen Pflegeeinrichtungen sind verpflichtet, jeder und
 jedem ihrer Beschäftigten im Jahr 2022 eine einmalige Sonderleistung
@@ -13904,6 +14186,7 @@ vorzusehen.
 
 
 #### § 150b Nichtanrechnung von Arbeitstagen mit Bezug von Pflegeunterstützungsgeld, Betriebshilfe oder Kostenerstattung gemäß § 150 Absatz 5d
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026401311)
 
 Die Arbeitstage, für die Pflegeunterstützungsgeld im Geltungszeitraum
 von § 150 Absatz 5d Satz 1, Betriebshilfe im Geltungszeitraum von §
@@ -13916,6 +14199,7 @@ angerechnet.
 
 
 #### § 150c Sonderleistungen für zugelassene voll- und teilstationäre Pflegeeinrichtungen zur Anerkennung und Umsetzung zusätzlicher Aufgaben nach § 35 Absatz 1 des Infektionsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027801311)
 
 (1) Die zugelassenen voll- und teilstationären Pflegeeinrichtungen
 sind verpflichtet, im Zeitraum vom 1. Oktober 2022 bis zum 30. April
@@ -13983,12 +14267,14 @@ entsprechend Anwendung.
 
 
 #### § 151 Qualitätsprüfungen nach § 114
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026000126)
 
 Abweichend von § 114 Absatz 2 Satz 1 und 2 finden bis einschließlich
 30\. September 2020 keine Regelprüfungen statt.
 
 
 #### § 152 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026100126)
 
 Das Bundesministerium für Gesundheit kann nach einer erneuten
 Risikobeurteilung bei Fortbestehen oder erneutem Risiko für ein
@@ -13999,6 +14285,7 @@ einem halben Jahr verlängern.
 
 
 #### § 153 Erstattung pandemiebedingter Kosten durch den Bund; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE026502311)
 
 Wenn der Mittelbestand der sozialen Pflegeversicherung aufgrund
 pandemiebedingter Mehrausgaben absehbar das gesetzliche
@@ -14012,10 +14299,12 @@ des Bundesrates zu bestimmen.
 
 
 ### Vierter Abschnitt - Maßnahmen zum Ausgleich außergewöhnlicher Kostenentwicklungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNG006001311)
 
 
 
 #### § 154 Ergänzungshilfen für stationäre Pflegeeinrichtungen zum Ausgleich steigender Preise für Erdgas, Wärme und Strom
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE027904311)
 
 (1) Zugelassene voll- und teilstationäre Pflegeeinrichtungen erhalten
 von den Pflegekassen für den Zeitraum Oktober 2022 bis einschließlich
@@ -14157,6 +14446,7 @@ einen entsprechenden Bericht vor.
 (zu § 15)
 
 #### Anlage 1 Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024401360)
 
 **Modul 1: Einzelpunkte im Bereich der Mobilität**
 
@@ -15541,6 +15831,7 @@ Kategorien mit den nachstehenden Punkten gewertet werden:
 Bewertungssystematik (Summe der Punkte und gewichtete Punkte)
 
 #### Anlage 2 Schweregrad der Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten im Modul
+[Direktlink](https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html#BJNR101500994BJNE024500301)
 
 
 *    *

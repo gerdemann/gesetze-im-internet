@@ -21,9 +21,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000200000)
 
 Dieses Gesetz regelt den Aufbau eines Anschriften- und
 Gebäuderegisters zur Vorbereitung einer Volks-, Gebäude- und
@@ -34,9 +36,11 @@ durchgeführt werden soll.
 
 
 ## Abschnitt 2 - Aufbau des Anschriften- und Gebäuderegisters sowie eines Verzeichnisses zum Geburtsort und Geburtsstaat
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNG000200000)
 
 
 ### § 2 Anschriften- und Gebäuderegister
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000300000)
 
 (1) Das Statistische Bundesamt erstellt und führt zur Vorbereitung des
 Zensus ein Anschriften- und Gebäuderegister. Die nach Landesrecht für
@@ -185,6 +189,7 @@ Zensus spätestens ab dem 31. Dezember 2010 nutzbar sein.
 
 
 ### § 3 Ortsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000400000)
 
 (1) Das Statistische Bundesamt erstellt und führt ein von dem Register
 nach § 2 getrenntes Verzeichnis der Geburtsorte und Geburtsstaaten
@@ -209,6 +214,7 @@ der Länder für die Durchführung des Zensus genutzt.
 
 
 ### § 4 Übermittlung von Daten durch die Vermessungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000500000)
 
 (1) Die nach Landesrecht für das Vermessungswesen zuständigen Stellen
 (Landesvermessungsbehörden) übermitteln dem Bundesamt für Kartographie
@@ -264,6 +270,7 @@ Bundesamt.
 
 
 ### § 5 Übermittlung von Daten durch die Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000600000)
 
 (1) Für den Aufbau des Anschriften- und Gebäuderegisters nach § 2 und
 des Ortsverzeichnisses nach § 3 übermitteln die nach Landesrecht für
@@ -340,6 +347,7 @@ Hochrechnungsverfahren verwendet.
 
 
 ### § 6 Übermittlung von Daten durch die Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000700000)
 
 Die Bundesagentur für Arbeit übermittelt für die am 30. September 2007
 sozialversicherungspflichtig Beschäftigten und für die am 13. März
@@ -363,6 +371,7 @@ Merkmalen:
 
 
 ### § 7 Zusammenführung der Angaben
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000800000)
 
 (1) Die nach § 5 Abs. 1 Satz 1 Nr. 1 bis 11 und Abs. 2 übermittelten
 Angaben werden mit denen nach den §§ 4 und 6 zur Standardisierung von
@@ -385,6 +394,7 @@ statistischen Ämtern der Länder an das Statistische Bundesamt
 
 
 ### § 8 Ordnungsnummern
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE000900000)
 
 (1) Für jede Anschrift, jedes Gebäude und jede Wohnung wird eine
 Ordnungsnummer vergeben. Die Ordnungsnummern werden mit gemeinde- und
@@ -399,6 +409,7 @@ verwendet.
 
 
 ### § 9 Sondergebäude
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001000000)
 
 (1) Zur Vorbereitung der Erhebung von Personen in Sondergebäuden
 ergänzen die statistischen Ämter der Länder das Anschriften- und
@@ -428,9 +439,11 @@ sind.
 
 
 ## Abschnitt 3 - Übermittlung von Daten zur Vorbereitung einer Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNG000300000)
 
 
 ### § 10 Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001100000)
 
 (1) Für die Durchführung der Gebäude- und Wohnungszählung ergänzen die
 statistischen Ämter der Länder das Anschriften- und Gebäuderegister um
@@ -464,15 +477,18 @@ April 2009 eingetreten sind.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNG000400000)
 
 
 ### § 11 Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001200000)
 
 Für die Geheimhaltung der Einzelangaben über persönliche und sachliche
 Verhältnisse gilt § 16 des Bundesstatistikgesetzes.
 
 
 ### § 12 Nutzung allgemein zugänglicher Quellen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001300000)
 
 Für Zwecke dieses Gesetzes können die statistischen Ämter des Bundes
 und der Länder auch Angaben aus allgemein zugänglichen Quellen
@@ -480,6 +496,7 @@ verwenden.
 
 
 ### § 13 Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001400000)
 
 (1) Die im vorliegenden Gesetz geregelten Datenübermittlungen haben
 jeweils aus den vorhandenen Unterlagen zu erfolgen.
@@ -492,12 +509,14 @@ verändert oder entfernt werden können.
 
 
 ### § 14 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001500000)
 
 Eine Erstattung der Kosten von Datenübermittlungen an das Statistische
 Bundesamt erfolgt nicht.
 
 
 ### § 15 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001600000)
 
 (1) Der Familienname nach § 5 Abs. 1 Nr. 6 wird gelöscht, nachdem im
 Zuge der in § 7 geregelten Zusammenführungen und Auswertungen für jede
@@ -515,6 +534,7 @@ die darin gespeicherten Daten gelöscht.
 
 
 ### § 16 Umwelt- und wohnungsstatistische Stichprobenerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/zensvorbg_2011/BJNR280800007.html#BJNR280800007BJNE001701310)
 
 (1) Die Angaben nach § 2 Absatz 3 Nummer 1 bis 20, 26 und 29 dürfen in
 Verbindung mit den Angaben nach § 6 Absatz 2 Nummer 1 Buchstabe b bis

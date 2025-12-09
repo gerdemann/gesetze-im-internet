@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000203377)
 
 (1) Diese Verordnung gilt für die Führung von Nachweisen und Registern
 über die Entsorgung von gefährlichen und nicht gefährlichen Abfällen
@@ -62,10 +64,12 @@ vorläufigen Verwertung oder Beseitigung im Bundesgebiet verbunden ist.
 
 
 ## Teil 2 - Nachweisführung über die Entsorgung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000200000)
 
 
 
 ### § 2 Kreis der Nachweispflichtigen und Form der Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000301310)
 
 (1) Zur Nachweisführung nach diesem Teil verpflichtet sind
 Abfallerzeuger, Abfallbeförderer und Abfallentsorger, soweit eine
@@ -96,10 +100,12 @@ ist.
 
 
 ### Abschnitt 1 - Nachweis über die Zulässigkeit  der vorgesehenen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000300000)
 
 
 
 #### § 3 Entsorgungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000400000)
 
 (1) Wer nachweispflichtige Abfälle zur Entsorgung in eine
 Abfallentsorgungsanlage bringen oder solche Abfälle dort annehmen
@@ -167,6 +173,7 @@ auch der bevollmächtigte Vertreter anzugeben.
 
 
 #### § 4 Eingangsbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000500000)
 
 Die für den Abfallentsorger zuständige Behörde hat dem Abfallerzeuger
 und dem Abfallentsorger innerhalb von zwölf Kalendertagen den Eingang
@@ -186,6 +193,7 @@ finden im Weiteren die Sätze 1 bis 3 entsprechende Anwendung.
 
 
 #### § 5 Bestätigung des Entsorgungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000601310)
 
 (1) Die für die Entsorgungsanlage zuständige Behörde bestätigt
 innerhalb von 30 Kalendertagen nach Eingang der Nachweiserklärungen
@@ -242,6 +250,7 @@ beantragte Bestätigung, so gilt die Bestätigung als erteilt.
 
 
 #### § 6 Handhabung nach Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000701310)
 
 (1) Die für die Entsorgungsanlage zuständige Behörde übersendet das
 Original des bestätigten Entsorgungsnachweises dem Abfallerzeuger
@@ -280,6 +289,7 @@ Abfallerzeuger zuständige Behörde und den Abfallentsorger.
 
 
 #### § 7 Freistellung und Privilegierung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000802116)
 
 (1) Die Pflicht zur Erteilung einer Eingangsbestätigung nach § 4 und
 zur Einholung einer Bestätigung nach § 5 entfällt, soweit der
@@ -359,6 +369,7 @@ Abfallentsorger auch der für ihn zuständigen Behörde mitzuteilen.
 
 
 #### § 8 Anordnung, Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE000900000)
 
 (1) Die zuständige Behörde kann anordnen, dass der Abfallerzeuger und
 der nach § 7 Abs. 1 freigestellte Abfallentsorger abweichend von § 7
@@ -400,6 +411,7 @@ widerlegt.
 
 
 #### § 9 Sammelentsorgungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001000000)
 
 (1) Abweichend von § 3 kann der Nachweis über die Zulässigkeit der
 vorgesehenen Entsorgung vom Einsammler durch einen
@@ -475,10 +487,12 @@ Entsorgung auch dann einen Sammelentsorgungsnachweis nach den Absätzen
 
 
 ### Abschnitt 2 - Nachweisführung über die durchgeführte  Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000400000)
 
 
 
 #### § 10 Begleitschein
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001101377)
 
 (1) Der Nachweis über die durchgeführte Entsorgung nachweispflichtiger
 Abfälle wird mit Hilfe der Begleitscheine unter Verwendung der hierfür
@@ -521,6 +535,7 @@ bestimmt.
 
 
 #### § 11 Ausfüllen und Handhabung der Begleitscheine
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001201377)
 
 (1) Die Begleitscheine sind nach Maßgabe der für die jeweilige Person
 bestimmten Aufdrucke auf den Ausfertigungen auszufüllen und zu
@@ -600,6 +615,7 @@ Behörden und den übrigen am Begleitscheinverfahren Beteiligten
 
 
 #### § 12 Übernahmeschein bei Sammelentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001302116)
 
 (1) Bei der Verwendung eines Sammelentsorgungsnachweises oder der
 Nachweiserklärungen bei Entfallen der Bestätigungspflicht nach § 9
@@ -642,6 +658,7 @@ Anwendung.
 
 
 #### § 13 Handhabung des Begleitscheins bei Sammelentsorgung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001400000)
 
 (1) Der Einsammler hat mit Beginn der Einsammlung nach Maßgabe des §
 11 Abs. 1 die Begleitscheine auszufüllen und sich dabei als
@@ -666,10 +683,12 @@ Land, in dem gesammelt wurde, zuständigen Behörde zuzuleiten.
 
 
 ### Abschnitt 3, Sonderfälle - 
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000500000)
 
 
 
 #### § 14 Entsorgung durch Dritte, Verbände und Selbstverwaltungskörperschaften
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001501310)
 
 Soweit Erzeuger- und Besitzerpflichten gemäß § 16 Absatz 2, § 17
 Absatz 3 oder § 18 Absatz 2 des Kreislaufwirtschafts- und
@@ -684,6 +703,7 @@ durch öffentlich-rechtliche Entsorgungsträger erfolgt.
 
 
 #### § 15 Verwertung außerhalb einer Entsorgungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001600000)
 
 Wird eine Verwertung außerhalb einer Entsorgungsanlage durchgeführt,
 so sind in entsprechender Anwendung der Bestimmungen der Abschnitte 1
@@ -701,6 +721,7 @@ und 2 sowie dieses Abschnitts
 
 
 #### § 16 Kleinmengen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001700000)
 
 Den Nachweis über die ordnungsgemäße Entsorgung von Kleinmengen
 gefährlicher Abfälle im Sinne des § 2 Abs. 2 hat der Abfallerzeuger
@@ -709,6 +730,7 @@ entsprechend den Bestimmungen des § 12 zu führen.
 
 
 #### § 16a Vorlage von Belegen auf Verlangen eines früheren Besitzers
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003600377)
 
 (1) Sofern keine Nachweispflichten nach § 2 Absatz 1 und Absatz 2 Satz
 2 bestehen, sind dem Erzeuger oder früheren Besitzer von gefährlichen
@@ -741,6 +763,7 @@ enthalten. Absatz 3 findet entsprechende Anwendung.
 
 
 #### § 16b Mitführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003700377)
 
 Bei der Beförderung nicht nachweispflichtiger gefährlicher Abfälle hat
 der Abfallbeförderer Unterlagen mit folgenden Angaben mitzuführen und
@@ -776,10 +799,12 @@ auf Verlangen den zur Überwachung und Kontrolle Befugten vorzulegen:
 
 
 ### Abschnitt 4 - Elektronische Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000601000)
 
 
 
 #### § 17 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001802116)
 
 (1) Abweichend von den Bestimmungen der Abschnitte 1 bis 3 haben die
 zur Führung von Nachweisen über die Entsorgung gefährlicher Abfälle
@@ -801,6 +826,7 @@ elektronische Nachweisführung zugelassen oder angeordnet ist.
 
 
 #### § 18 Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE001902116)
 
 (1) Die zur Führung der Nachweise Verpflichteten sowie die zuständigen
 Behörden haben die zur Nachweisführung erforderlichen Erklärungen,
@@ -830,6 +856,7 @@ elektronisch zu führenden Nachweise zur Verfügung stellt.
 
 
 #### § 19 Signatur, Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002001377)
 
 (1) Die zur Nachweisführung Verpflichteten sowie die zuständigen
 Behörden haben die zu übermittelnden elektronischen Dokumente mit
@@ -906,6 +933,7 @@ organisatorische Sicherungsmaßnahmen zu ergreifen.
 
 
 #### § 20 Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002101377)
 
 (1) Die Länder stellen sicher, insbesondere durch den
 gemeinschaftlichen Betrieb informationstechnischer Systeme und durch
@@ -947,6 +975,7 @@ des Absatzes 2 nutzen, sind § 17 Absatz 1, § 18 Absatz 1 sowie die §§
 
 
 #### § 21 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002201377)
 
 Abweichend von § 17 darf die Führung der Übernahmescheine nach den §§
 12 und 16 auch unter Verwendung der hierfür vorgesehenen Formblätter
@@ -956,6 +985,7 @@ für die Vorlage von Belegen nach § 16a.
 
 
 #### § 22 Störung des Kommunikationssystems
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002301377)
 
 (1) Soweit infolge einer Störung des Kommunikationssystems oder aus
 anderen Gründen die elektronische Nachweisführung nicht
@@ -1033,10 +1063,12 @@ Hinderungsgründe weggefallen sind, haben die Nachweispflichtigen
 
 
 ## Teil 3 - Registerführung über die Entsorgung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000700000)
 
 
 
 ### § 23 Kreis der Registerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002402377)
 
 Zur Führung von Registern nach den Bestimmungen dieses Teils
 verpflichtet sind Erzeuger, Einsammler, Beförderer, Händler, Makler
@@ -1055,6 +1087,7 @@ besteht.
 
 
 ### § 24 Führung der Register
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002504125)
 
 (1) Die Register bestehen aus einer den Anforderungen des § 49 Absatz
 1 und 2 des Kreislaufwirtschaftsgesetzes sowie dieser Verordnung
@@ -1237,6 +1270,7 @@ Absatz 6 Satz 2 bis 4 gilt entsprechend.
 
 
 ### § 25 Dauer der Registrierung, elektronische Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002603377)
 
 (1) Die zur Einrichtung und Führung der Register Verpflichteten haben
 die nach § 24 Abs. 2 bis 4, Abs. 5 Satz 1, Abs. 6 oder 7 in die
@@ -1265,6 +1299,7 @@ vorgesehenen Formblätter der Anlage 1 geführt wird.
 
 
 ### § 25a Registerführung durch Händler und Makler
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003800377)
 
 (1) Die Händler registrieren die von ihnen erworbenen Abfälle, indem
 sie für jede Abfallart ein eigenes Verzeichnis erstellen, in welchem
@@ -1332,10 +1367,12 @@ Absatz 2 Satz 2 keine Anwendung.
 
 
 ## Teil 4 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000800000)
 
 
 
 ### § 26 Befreiung, Anordnung von Nachweis- und Registerpflichten
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002701310)
 
 (1) Die zuständige Behörde kann einen nach § 49 oder § 50 des
 Kreislaufwirtschaftsgesetzes Verpflichteten auf Antrag oder von Amts
@@ -1352,6 +1389,7 @@ weiterer Angaben anordnen.
 
 
 ### § 27 Nachweisführung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002801377)
 
 (1) Wer Abfälle, für die er Nachweise führen muss, von einem anderen
 übernimmt, der hinsichtlich dieser Abfälle nicht zur Führung von
@@ -1372,6 +1410,7 @@ Entscheidung nach Satz 1 im Einvernehmen.
 
 
 ### § 28 Vergabe von Kennnummern
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE002902377)
 
 (1) Die zur Führung von Nachweisen und Registern erforderlichen
 Identifikations-, Erzeuger-, Beförderer-, Sammler-, Händler-, Makler-
@@ -1470,6 +1509,7 @@ S   Sachsen.
 
 
 ### § 29 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003002377)
 
 Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1517,10 +1557,12 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNG000900000)
 
 
 
 ### § 30 Übergangsbestimmungen für geltende Freistellungen
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003101377)
 
 Eine Freistellung von der Bestätigungspflicht auf Antrag des
 Abfallentsorgers, die bei dem nach Artikel 8 Abs. 1 der Verordnung zur
@@ -1534,9 +1576,11 @@ fort.
 
 
 ### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003201377)
 
 
 ### Anlage 1 Formblätter zu Teil 2 Abschnitt 1 und 2 sowie § 24 Abs. 4
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003301310)
 
 Diese Anlage enthält Formblätter \*), die in den von der Verordnung
 geregelten Fällen der Führung von Nachweisen, der Erstattung von
@@ -1664,6 +1708,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2 Abfälle nach § 9 Abs. 1 Satz 2 und § 9 Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003400000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2327 - 2328
 
@@ -1883,6 +1928,7 @@ b)  **Verzeichnis der Abfälle nach § 9 Abs. 3 Satz 2**
 
 
 ### Anlage 3 Vorgaben für strukturierte Nachrichten/Schnittstellen nach § 18 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/nachwv_2007/BJNR229810006.html#BJNR229810006BJNE003501377)
 
 (Fundstelle: BGBl. I 2006, 2329 - 2330)
 

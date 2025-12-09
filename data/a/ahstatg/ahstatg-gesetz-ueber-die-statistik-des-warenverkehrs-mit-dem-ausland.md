@@ -21,12 +21,14 @@ Geändert durch
 Stand: Ersetzt G 7402-1 v. 1.5.1957 I 413 (AHStatGes)
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000101000)
 
 Über den Warenverkehr mit dem Ausland wird eine Bundesstatistik
 durchgeführt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000201128)
 
 (1) „Außenhandelsstatistik“ ist die Statistik des Warenverkehrs mit
 dem Ausland.
@@ -229,6 +231,7 @@ Durchführungsverordnungen in der jeweils geltenden Fassung.
 
 
 ## § 3 Erhebungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000300000)
 
 Erhebungsgebiet für die Außenhandelsstatistik sind
 
@@ -245,6 +248,7 @@ Erhebungsgebiet für die Außenhandelsstatistik sind
 
 
 ## § 4 Inhalt, Zweck
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000400000)
 
 (1) Die Außenhandelsstatistik umfasst die Erhebungen
 
@@ -277,12 +281,14 @@ Erhebungsgebiet für die Außenhandelsstatistik sind
 
 
 ## § 5 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000500000)
 
 Die Außenhandelsstatistik wird vom Statistischen Bundesamt erhoben und
 aufbereitet.
 
 
 ## § 6 Anzumeldende Warenverkehre
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000601128)
 
 (1) Warenverkehre und besondere Waren sind nach Maßgabe von Absatz 2
 bis 6 von den Auskunftspflichtigen nach § 9 anzumelden.
@@ -350,6 +356,7 @@ der Anmeldung zugelassen werden.
 
 
 ## § 7 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000701128)
 
 (1) Die Erhebungsmerkmale der Außenhandelsstatistik sind
 
@@ -454,6 +461,7 @@ folgenden Erhebungsmerkmalen erhoben:
 
 
 ## § 8 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000801128)
 
 Hilfsmerkmale sind
 
@@ -510,6 +518,7 @@ Hilfsmerkmale sind
 
 
 ## § 9 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE000901128)
 
 (1) Für die Außenhandelsstatistik besteht Auskunftspflicht, die auch
 die Anmeldung nach § 6 umfasst. Die Auskunftserteilung zu den Angaben
@@ -583,6 +592,7 @@ Erhebungsgebiet heraus auskunftspflichtig.
 
 
 ## § 10 Anmeldestellen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001001128)
 
 (1) Die Warenverkehre zur Intrahandelsstatistik sind beim
 Statistischen Bundesamt anzumelden, sofern keine Zollanmeldung bei
@@ -640,6 +650,7 @@ ist.
 
 
 ## § 11 Bezugszeitraum, Meldefrist und Erhebungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001101128)
 
 (1) Der Bezugszeitraum für Warenverkehre ist der Monat, in dem der
 Warenverkehr stattfindet. Bei Lieferung einer Ware, die aufgrund der
@@ -663,6 +674,7 @@ Außenhandelsstatistik relevanten Unterlagen aufzubewahren.
 
 
 ## § 12 Übermittlung von Daten und Informationen durch Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001201128)
 
 (1) Im Rahmen der Umsatzsteuer-Voranmeldung unterrichten die
 Finanzverwaltungen die Steuerpflichtigen über die Auskunftspflicht zur
@@ -694,6 +706,7 @@ Angaben bei ihnen vorhanden sind.
 
 
 ## § 13 Verzeichnis aller am Außenhandel beteiligten Personen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001301128)
 
 (1) Für die Außenhandelsstatistik führt das Statistische Bundesamt ein
 Verzeichnis über die Auskunftspflichtigen.
@@ -807,6 +820,7 @@ beteiligten Personen aufgenommen werden.
 
 
 ## § 14 Abdeckungsgrad der Intrahandelsstatistik und Befreiungen von der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001401128)
 
 (1) Der Abdeckungsgrad bezeichnet den Anteil des Wertes des
 Warenverkehrs einer bestimmten Verkehrsrichtung, der durch die
@@ -839,6 +853,7 @@ wurde, für die jeweilige Verkehrsrichtung anmeldepflichtig.
 
 
 ## § 15 Datenübermittlungen durch das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001500000)
 
 (1) Das Statistische Bundesamt übermittelt den zuständigen nationalen
 statistischen Stellen der Mitgliedstaaten der Europäischen Union
@@ -888,6 +903,7 @@ Angaben, welche nach Artikel 11 der Verordnung (EU) 2019/2152
 
 
 ## § 16 Datenaustausch mit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001600000)
 
 (1) Der Austausch von Einzelangaben zu grenzüberschreitenden
 Veredelungsverkehren zwischen dem Statistischen Bundesamt und der
@@ -919,6 +935,7 @@ sein.
 
 
 ## § 17 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001700000)
 
 Artikel 19 der Verordnung (EU) 2019/2152 findet auch Anwendung auf die
 Veröffentlichung statistischer Ergebnisse der Außenhandelsstatistik,
@@ -927,6 +944,7 @@ Unionsrecht vorgegeben sind.
 
 
 ## § 18 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001802128)
 
 Das Bundesministerium der Finanzen und das Bundesministerium für
 Wirtschaft und Klimaschutz werden ermächtigt, durch gemeinsame
@@ -1005,6 +1023,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln:
 
 
 ## § 19 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ahstatg/BJNR175110021.html#BJNR175110021BJNE001900000)
 
 Ordnungswidriges Handeln nach § 23 Absatz 1 und 2 des
 Bundesstatistikgesetzes kann mit einer Geldbuße bis zu fünfzigtausend

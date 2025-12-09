@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2009/BJNR130800009.html#BJNR130800009BJNE000100000)
 
 Nach § 126 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 5. Februar 2009 (BGBl. I S. 160) wird
@@ -51,6 +52,7 @@ Technologie vorbehalten.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2009/BJNR130800009.html#BJNR130800009BJNE000200000)
 
 Nach § 127 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 5. Februar 2009 (BGBl. I S. 160) wird den unter I.
@@ -63,6 +65,7 @@ Bundesministerium für Wirtschaft und Technologie vorbehalten.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2009/BJNR130800009.html#BJNR130800009BJNE000300000)
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
 diesem Zeitpunkt an ist die Anordnung zur Übertragung von
@@ -73,6 +76,7 @@ Geschäftsbereich des Bundesministeriums für Wirtschaft und Arbeit vom
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2009/BJNR130800009.html#BJNR130800009BJNE000400000)
 
 Bundesministerium für Wirtschaft und Technologie
 

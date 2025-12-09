@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -39,6 +40,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000200000)
 
 Der Ausbildungsberuf des Weintechnologen und der Weintechnologin wird
 staatlich anerkannt
@@ -54,11 +56,13 @@ staatlich anerkannt
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -139,6 +143,7 @@ gliedert sich in:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -159,6 +164,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres
@@ -252,6 +258,7 @@ bestehen folgende Vorgaben:
 
 
 ## § 6 Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000701377)
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat. Der
@@ -472,6 +479,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000800000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Weinküfer-Ausbildungsverordnung vom 7. Dezember 1982 (BGBl. I S.
@@ -481,6 +489,7 @@ die Weinküfer-Ausbildungsverordnung vom 7. Dezember 1982 (BGBl. I S.
 Ausbildungsrahmenplan
 
 ## Anlage für die Berufsausbildung zum Weintechnologen und zur Weintechnologin
+[Direktlink](https://www.gesetze-im-internet.de/weintechausbv/BJNR136900013.html#BJNR136900013BJNE000900000)
 
 (Fundstelle: BGBl. I 2013, 1372 – 1375)
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_4/BJNR605720021.html#BJNR605720021BJNE000100000)
 
 Auf Grund des § 6 Absatz 1 Nummer 3 erster Halbsatz und Buchstabe d in
 Verbindung mit Absatz 2a und in Verbindung mit Absatz 3 des
@@ -31,6 +32,7 @@ zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_4/BJNR605720021.html#BJNR605720021BJNE000200000)
 
 (1) Der Inhaber einer Reisegewerbekarte nach § 55 Absatz 1 Nummer 2
 der Gewerbeordnung darf Lastkraftwagen mit einer zulässigen
@@ -65,6 +67,7 @@ tritt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_4/BJNR605720021.html#BJNR605720021BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

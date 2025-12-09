@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000100305)
 
 Durch dieses Gesetz werden verurteilende strafgerichtliche
 Entscheidungen, die unter Verstoß gegen elementare Gedanken der
@@ -31,6 +32,7 @@ Entscheidungen zugrunde liegenden Verfahren werden eingestellt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000200305)
 
 Entscheidungen im Sinne des § 1 sind insbesondere
 
@@ -50,6 +52,7 @@ Entscheidungen im Sinne des § 1 sind insbesondere
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000300305)
 
 (1) Ist eine Entscheidung auf die Verletzung mehrerer
 Strafvorschriften gestützt und liegen die Voraussetzungen des § 1 Satz
@@ -65,6 +68,7 @@ zugrunde zu legen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000400305)
 
 (1) Ist die Entscheidung in Fällen des § 3 nicht vollständig
 aufgehoben, so wird auf Antrag der Teil der Entscheidung aufgehoben,
@@ -76,6 +80,7 @@ Beschluß.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000500305)
 
 Weitergehende Vorschriften, die zur Wiedergutmachung oder Beseitigung
 nationalsozialistischen Unrechts in der Strafrechtspflege erlassen
@@ -83,6 +88,7 @@ wurden, bleiben unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000600305)
 
 (1) Auf Antrag stellt die Staatsanwaltschaft fest, ob ein Urteil
 aufgehoben ist; hierüber erteilt sie eine Bescheinigung.
@@ -111,18 +117,21 @@ sinngemäß.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000700305)
 
 Die Aufhebung des Urteils umfaßt auch alle Nebenstrafen und
 Nebenfolgen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000800305)
 
 Eintragungen im Bundeszentralregister über Urteile, deren Aufhebung
 gemäß § 6 festgestellt worden ist, sind zu tilgen.
 
 
 ## Anlage (zu Artikel 1 § 2 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/ns-aufhg/BJNR250110998.html#BJNR250110998BJNE000902140)
 
 
 1.  Gesetz zur Behebung der Not von Volk und Reich vom 24. März 1933

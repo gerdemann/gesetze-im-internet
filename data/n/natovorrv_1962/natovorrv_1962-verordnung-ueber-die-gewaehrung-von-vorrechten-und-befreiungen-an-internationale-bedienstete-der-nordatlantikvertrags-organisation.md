@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv_1962/BJNR201130962.html#BJNR201130962BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -35,6 +36,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv_1962/BJNR201130962.html#BJNR201130962BJNE000200314)
 
 (1) Für die Gewährung von Vorrechten und Befreiungen an Bedienstete
 der Nordatlantikvertrags-Organisation ist die auf Grund des Artikels
@@ -52,6 +54,7 @@ vorgesehenen Vorrechte und Befreiungen werden bereits mit Wirkung vom
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv_1962/BJNR201130962.html#BJNR201130962BJNE000300314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die
 Vereinbarung vom 30. November 1961 in Kraft tritt.
@@ -64,6 +67,7 @@ bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv_1962/BJNR201130962.html#BJNR201130962BJNE000400314)
 
 Der Stellvertreter des Bundeskanzlers
 Der Bundesminister der Verteidigung

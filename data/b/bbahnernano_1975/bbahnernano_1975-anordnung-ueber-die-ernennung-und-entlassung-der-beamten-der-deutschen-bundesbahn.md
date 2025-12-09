@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbahnernano_1975/BJNR124790975.html#BJNR124790975BJNE000100328)
 
 Auf Grund der Anordnung des Bundespräsidenten über die Ernennung und
 Entlassung der Bundesbeamten und Richter im Bundesdienst vom 14. Juli
@@ -53,17 +54,20 @@ Anstellung - je für ihren Geschäftsbereich - auf
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbahnernano_1975/BJNR124790975.html#BJNR124790975BJNE000200328)
 
 Wir behalten uns im Einzelfall die Ernennung und Entlassung der in
 Abschnitt I genannten Bundesbahnbeamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bbahnernano_1975/BJNR124790975.html#BJNR124790975BJNE000300328)
 
 Die Anordnung tritt mit Wirkung vom 1. September 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbahnernano_1975/BJNR124790975.html#BJNR124790975BJNE000400328)
 
 Deutsche Bundesbahn
 

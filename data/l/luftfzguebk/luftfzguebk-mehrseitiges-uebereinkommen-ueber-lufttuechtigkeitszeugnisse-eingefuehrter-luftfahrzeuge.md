@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000100328)
 
 DIE UNTERZEICHNERSTAATEN DIESES ÜBEREINKOMMENS -
 IN DER ERWÄGUNG, daß das in Chicago am 7. Dezember 1944 unterzeichnete
@@ -33,6 +34,7 @@ HABEN FOLGENDES VEREINBART:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000200328)
 
 Dieses Übereinkommen findet nur auf zivile Luftfahrzeuge Anwendung,
 die im Hoheitsgebiet eines Vertragsstaates hergestellt worden sind und
@@ -60,6 +62,7 @@ d)  allen sonstigen besonderen Bedingungen genügen, die nach Maßgabe des
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000300328)
 
 (1) Erhält ein Vertragsstaat einen Antrag auf Ausstellung eines
 Lufttüchtigkeitszeugnisses für ein Luftfahrzeug, das in sein
@@ -85,6 +88,7 @@ kürzere Zeitraum zu berücksichtigen ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000400328)
 
 Jedem Antrag auf Ausstellung oder Gültigkeitserklärung eines
 Lufttüchtigkeitszeugnisses gemäß Artikel 2 sind die in der Liste zu
@@ -92,6 +96,7 @@ diesem Übereinkommen aufgeführten Unterlagen beizufügen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000500328)
 
 Ein Vertragsstaat, dem ein Antrag nach Artikel 2 zugeht, kann die
 Gültigkeitserklärung des Lufttüchtigkeitszeugnisses von der Erfüllung
@@ -112,6 +117,7 @@ b)  auf Ersuchen dieses Staates auch mit dem Staat, in dessen
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000600328)
 
 (1) Jeder Vertragsstaat behält sich das Recht vor, die Ausstellung
 oder Gültigkeitserklärung eines Lufttüchtigkeitszeugnisses für ein
@@ -148,6 +154,7 @@ hergestellt wurde, konsultiert hat.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000700328)
 
 Ein Vertragsstaat, der ein Lufttüchtigkeitszeugnis gemäß Artikel 2 als
 gültig anerkennt, muß bei Ablauf der Gültigkeit entweder die
@@ -161,6 +168,7 @@ das Luftfahrzeug früher eingetragen war.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000800328)
 
 Jeder Vertragsstaat unterrichtet, soweit irgend möglich, die anderen
 Vertragsstaaten vollständig und fortlaufend über seine Gesetze und
@@ -175,6 +183,7 @@ anerkannt hat.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE000900328)
 
 Ein Vertragsstaat, in dessen Hoheitsgebiet ein Luftfahrzeug
 hergestellt und aus dem es in einen anderen Vertragsstaat ausgeführt
@@ -206,6 +215,7 @@ b)  übermittelt auf Ersuchen eines Vertragsstaates nach Möglichkeit
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001000328)
 
 Das bei der Anwendung dieses Übereinkommens zu befolgende Verfahren
 kann Gegenstand einer unmittelbaren Fühlungnahme zwischen den in jedem
@@ -218,6 +228,7 @@ betreffenden Rechtsvorschriften ist für die Zwecke dieses
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001100328)
 
 (1) Dieses Übereinkommen liegt für die Mitgliedstaaten der
 Europäischen Zivilluftfahrt-Konferenz zur Unterzeichnung auf.
@@ -230,6 +241,7 @@ Zivilluftfahrt-Organisation hinterlegt.
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001200328)
 
 (1) Sobald zwei Unterzeichnerstaaten ihre Ratifikationsurkunden zu
 diesem Übereinkommen hinterlegt haben, tritt es am dreißigsten Tag
@@ -244,6 +256,7 @@ bei den Vereinten Nationen registriert.
 
 
 ## Art 12
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001300328)
 
 (1) Dieses Übereinkommen liegt nach seinem Inkrafttreten sechs Monate
 lang zur Unterzeichnung auf. Danach liegt es für jeden
@@ -261,6 +274,7 @@ wirksam.
 
 
 ## Art 13
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001400328)
 
 (1) Jeder Vertragsstaat kann dieses Übereinkommen durch eine an den
 Präsidenten der Europäischen Zivilluftfahrt-Konferenz und an die
@@ -289,6 +303,7 @@ b)  daß die Artikel 1 bis 7 und 9 nach dem Wirksamwerden der Kündigung
 
 
 ## Art 14
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001500328)
 
 (1) Der Generalsekretär der Internationalen Zivilluftfahrt-
 Organisation macht dem Präsidenten und allen Mitgliedstaaten der
@@ -311,6 +326,7 @@ Inkrafttretens des Übereinkommens gemäß Artikel 11 Absatz 1.
 
 
 ## Art 15
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001600328)
 
 (1) Ein Antrag auf Einberufung einer Tagung der Vertragsstaaten zur
 Prüfung etwaiger Änderungen dieses Übereinkommens kann frühestens
@@ -334,6 +350,7 @@ gegebenenfalls auf der Tagung festgesetzten Zeitpunkt in Kraft.
 
 
 ## Art 16
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001700328)
 
 Dieses Übereinkommen findet auf alle mutterländischen Hoheitsgebiete
 der Vertragsstaaten Anwendung. Jeder Vertragsstaat kann bei der
@@ -344,6 +361,7 @@ sein Mutterland im Sinne dieses Übereinkommens zu betrachten sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001800328)
 
 ZU URKUND DESSEN haben die hierzu gehörig befugten Unterzeichneten
 dieses Übereinkommen unterschrieben.
@@ -357,6 +375,7 @@ Organisation hinterlegt; der Generalsekretär der Organisation
 des Übereinkommens
 
 ## Anhang Liste der Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bk/BJNR200250962.html#BJNR200250962BJNE001900328)
 
 Die Unterlagen, die in Übereinstimmung mit Artikel 3 des
 Übereinkommens, dem diese Liste beigefügt ist, vorgelegt werden

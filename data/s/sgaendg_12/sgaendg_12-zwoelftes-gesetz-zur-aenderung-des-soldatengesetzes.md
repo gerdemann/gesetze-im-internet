@@ -18,14 +18,17 @@ Fundstelle
 
 
 ## Art 1 und 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_12/BJNR031149977.html#BJNR031149977BJNG000100315)
 
 
 
 ## Art 3 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_12/BJNR031149977.html#BJNR031149977BJNG000200315)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_12/BJNR031149977.html#BJNR031149977BJNE000300315)
 
 Auf Soldaten, die vor Inkrafttreten dieses Gesetzes zum Berufssoldaten
 ernannt worden sind und die ein Studium oder eine Fachausbildung bis
@@ -34,6 +37,7 @@ Vorschriften anzuwenden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_12/BJNR031149977.html#BJNR031149977BJNE000400315)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

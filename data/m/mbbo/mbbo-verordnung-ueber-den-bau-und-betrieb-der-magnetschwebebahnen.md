@@ -21,6 +21,7 @@ Vorschriften notifiziert worden.
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE000700305)
 
 
 *    *
@@ -275,16 +276,19 @@ Vorschriften notifiziert worden.
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG000100305)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE000800305)
 
 Diese Verordnung gilt für den Bau und den Betrieb von
 Magnetschwebebahnen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE000900305)
 
 (1) Betrieb ist die Gesamtheit aller Maßnahmen, die der Beförderung
 von Personen und Gütern dienen.
@@ -323,6 +327,7 @@ Führen, Antreiben und Bremsen, aufzunehmen.
 
 
 ### § 3 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001000305)
 
 (1) Betriebsanlagen und Fahrzeuge müssen so beschaffen sein, daß sie
 den Anforderungen der Sicherheit und Ordnung genügen. Diese
@@ -346,6 +351,7 @@ Kinder, gewährleistet ist.
 
 
 ### § 4 Betriebserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001100305)
 
 (1) Der Unternehmer darf den Fahrbetrieb auf einer Strecke erst
 aufnehmen, wenn er für diese Strecke eine Betriebserlaubnis besitzt.
@@ -359,6 +365,7 @@ ist.
 
 
 ### § 5 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001200305)
 
 (1) Das Eisenbahn-Bundesamt darf
 
@@ -380,6 +387,7 @@ erforderlich sind.
 
 
 ### § 6 Abnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001300305)
 
 (1) Neue und geänderte Betriebsanlagen und Fahrzeuge dürfen erst in
 Betrieb genommen werden, wenn das Eisenbahn-Bundesamt sie abgenommen
@@ -410,6 +418,7 @@ Eisenbahn-Bundesamt.
 
 
 ### § 7 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001400305)
 
 (1) Das Eisenbahn-Bundesamt kann zur Abwehr von Gefahren für die
 Sicherheit des Magnetschwebebahnbetriebs sowie zur Abwehr von der
@@ -432,6 +441,7 @@ Entscheidungen Sachverständiger und sachverständiger Stellen bedienen.
 
 
 ### § 8 Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001500305)
 
 (1) Der Unternehmer hat zur Aufrechterhaltung der Sicherheit
 Betriebsanlagen und Fahrzeuge planmäßig instand zu halten. Art, Umfang
@@ -457,10 +467,12 @@ Instandhaltung sind dem Eisenbahn-Bundesamt auf Verlangen vorzulegen.
 
 
 ## Zweiter Abschnitt - Bauordnung
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG000200305)
 
 
 
 ### § 9 Bauaufsichtliche Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001600305)
 
 (1) Die Errichtung, die Änderung, der Abbruch oder die Veränderung der
 Nutzung baulicher Anlagen bedürfen einer bauaufsichtlichen Genehmigung
@@ -489,6 +501,7 @@ begonnen oder wenn die Bauausführung ein Jahr unterbrochen worden ist.
 
 
 ### § 10 Baubeginn
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001700305)
 
 Mit der Ausführung genehmigter Baumaßnahmen darf erst begonnen werden,
 wenn
@@ -504,6 +517,7 @@ wenn
 
 
 ### § 11 Bauaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001800305)
 
 (1) Das Eisenbahn-Bundesamt hat bei der Errichtung, der Änderung, dem
 Abbruch, der Nutzung, der Nutzungsänderung sowie der Instandhaltung
@@ -533,10 +547,12 @@ Baustelle anordnen.
 
 
 ## Dritter Abschnitt - Betriebsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG000300305)
 
 
 
 ### § 12 Fahrweg
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE001900305)
 
 (1) Der Fahrweg muß so beschaffen sein, daß er den von außerhalb
 anzunehmenden und den aus dem System auftretenden Einwirkungen
@@ -557,6 +573,7 @@ mit Einrichtungen versehen sein, die sicher melden,
 
 
 ### § 13 Linienführung
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002000305)
 
 (1) Die Linienführung des Fahrwegs soll fahrdynamisch günstig sein und
 hohe Geschwindigkeiten zulassen.
@@ -593,6 +610,7 @@ Abstellanlagen.
 
 
 ### § 14 Lichtraum
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002100305)
 
 Der in der Anlage dargestellte Lichtraum ist freizuhalten. Dies gilt
 nicht für betriebsnotwendige Einrichtungen außerhalb des Teils des
@@ -605,6 +623,7 @@ hineinragen.
 
 
 ### § 15 Bahnsteige
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002200305)
 
 (1) Die Ein- und Ausstiegsbereiche am Bahnsteig und Fahrzeug sind so
 zu gestalten, daß ein sicherer Fahrgastwechsel gewährleistet ist. Der
@@ -634,6 +653,7 @@ die Belange Behinderter angemessen Rücksicht zu nehmen.
 
 
 ### § 16 Überwachen der Betriebsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002300305)
 
 Der Unternehmer hat die Betriebsanlagen und deren Umfeld so zu
 überwachen, daß Veränderungen, die zu Betriebsgefährdungen führen
@@ -642,10 +662,12 @@ können.
 
 
 ## Vierter Abschnitt - Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG000400305)
 
 
 
 ### § 17 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002400305)
 
 (1) Fahrzeuge zur Personenbeförderung müssen so gebaut sein, daß auch
 für Personen mit Nutzungsschwierigkeiten die sichere und leichte
@@ -693,6 +715,7 @@ müssen
 
 
 ### § 18 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002500305)
 
 (1) Scheiben für Fenster, Türen, Wände und Spiegel müssen den
 Anforderungen ann Sicherheitsglas genügen. & (2) Die Fahrzeuge zur
@@ -720,12 +743,14 @@ ausreichend Flucht- und Zugangsmöglichkeiten bieten.
 
 
 ### § 19 Trag- und Führsystem
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002600305)
 
 Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so
 ausgelegt sein, daß eine sichere Spurführung gewährleistet wird.
 
 
 ### § 20 Bremsen, Kupplung
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002700305)
 
 (1) Die Fahrzeuge müssen mit Bremsen ausgerüstet sein, die das
 Fahrzeug sicher zum Halten bringen und im Stand festhalten können.
@@ -736,6 +761,7 @@ unbeabsichtigte Trennung nicht möglich ist.
 
 
 ### § 21 Überwachungsbedürftige Anlagen der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002800305)
 
 (1) Druckbehälter und sonstige überwachungsbedürftige Anlagen im Sinne
 des Gerätesicherheitsgesetzes, die mit dem Fahrzeug fest verbunden
@@ -754,10 +780,12 @@ dem Eisenbahn-Bundesamt auf Verlangen vorzulegen.
 
 
 ## Fünfter Abschnitt - Fahrbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG004200305)
 
 
 
 ### § 22 Fahrtvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE002900305)
 
 (1) Fahrten sind nur zulässig, wenn
 
@@ -803,6 +831,7 @@ Kommunikationsverbindung bestehen.
 
 
 ### § 23 Sicherheitskonzept
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003000305)
 
 (1) Der Unternehmer hat ein Sicherheitskonzept aufzustellen und dem
 Eisenbahn-Bundesamt zur Genehmigung vorzulegen.
@@ -814,6 +843,7 @@ betrieblichen und organisatorischen Sicherheitsmaßnahmen festlegen.
 
 
 ### § 24 Betriebshandbuch
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003100305)
 
 (1) Der Unternehmer hat für die sichere Durchführung und Überwachung
 des Fahrbetriebs ein Betriebshandbuch zu führen, das sowohl den
@@ -826,6 +856,7 @@ Bundesamt kann Änderungen und Ergänzungen verlangen.
 
 
 ### § 25 Störungen im Magnetschwebebahnbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003200305)
 
 (1) Der Unternehmer hat Unfälle und sonstige gefährliche Ereignisse
 unverzüglich dem Eisenbahn-Bundesamt gemäß Satz 2 zu melden. Dabei hat
@@ -843,10 +874,12 @@ diesem auf Verlangen vorzulegen.
 
 
 ## Sechster Abschnitt - Personal
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG000500305)
 
 
 
 ### § 26 Betriebsbedienstete
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003300305)
 
 (1) Der Unternehmer darf nur geeignete Betriebsbedienstete einsetzen.
 Ihre fachliche Eignung und körperliche Tauglichkeit hat er mindestens
@@ -876,6 +909,7 @@ tätig ist.
 
 
 ### § 27 Bestellung des Betriebsleiters
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003400305)
 
 (1) Der Unternehmer hat zur Wahrnehmung der ihm nach dieser Verordnung
 obliegenden Aufgaben unbeschadet seiner eigenen Verantwortlichkeit
@@ -903,16 +937,19 @@ einer anderen Hochschule nachweisen kann.
 
 
 ### § 28 Stellung des Betriebsleiters
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003500305)
 
 Der Betriebsleiter ist neben dem Unternehmer für die sichere
 Durchführung des Betriebs verantwortlich.
 
 
 ## Siebter Abschnitt - Öffentliche Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNG000600305)
 
 
 
 ### § 29 Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003600305)
 
 Betriebsanlagen und Fahrzeuge dürfen nur zum allgemeinen
 Verkehrsgebrauch betreten und benutzt werden. Dies gilt nicht für
@@ -920,6 +957,7 @@ Personen, denen der Unternehmer ein Betretungsrecht eingeräumt hat.
 
 
 ### § 30 Betriebsgefährdende Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003700305)
 
 Es ist verboten, Sicherheitseinrichtungen mißbräuchlich zu betätigen,
 ein Fahrthindernis zu bereiten oder andere betriebsstörende oder
@@ -927,6 +965,7 @@ betriebsgefährdende Handlungen vorzunehmen.
 
 
 ### § 31 Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003800305)
 
 Betriebsbediensteten, die infolge des Einflusses alkoholischer
 Getränke oder anderer berauschender Mittel oder infolge geistiger oder
@@ -936,6 +975,7 @@ werden.
 
 
 ### § 32 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE003900305)
 
 Ordnungswidrig im Sinne des § 12 Abs. 1 Nr. 4 des Allgemeinen
 Magnetschwebebahngesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -986,6 +1026,7 @@ Magnetschwebebahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### Anlage (zu § 14)
+[Direktlink](https://www.gesetze-im-internet.de/mbbo/BJNR232910997.html#BJNR232910997BJNE004000305)
 
 (Fundstelle: BGBl. I 1997, 2329 - 2337)
 

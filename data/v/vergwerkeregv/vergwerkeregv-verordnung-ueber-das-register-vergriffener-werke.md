@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vergwerkeregv/BJNR034600014.html#BJNR034600014BJNE000100000)
 
 Auf Grund des § 13e Absatz 5 des Urheberrechtswahrnehmungsgesetzes,
 der durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3728)
@@ -31,6 +32,7 @@ Verbraucherschutz:
 
 
 ## § 1 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/vergwerkeregv/BJNR034600014.html#BJNR034600014BJNE000201123)
 
 (1) Der Antrag auf Eintragung von Werken in das Register vergriffener
 Werke nach § 51 Absatz 1 Nummer 4 des
@@ -43,6 +45,7 @@ Schnittstelle ein.
 
 
 ## § 2 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vergwerkeregv/BJNR034600014.html#BJNR034600014BJNE000301123)
 
 (1) Für jede Eintragung in das Register wird eine Gebühr in Höhe von 1
 Euro erhoben.
@@ -72,6 +75,7 @@ entsprechend anzuwenden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vergwerkeregv/BJNR034600014.html#BJNR034600014BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

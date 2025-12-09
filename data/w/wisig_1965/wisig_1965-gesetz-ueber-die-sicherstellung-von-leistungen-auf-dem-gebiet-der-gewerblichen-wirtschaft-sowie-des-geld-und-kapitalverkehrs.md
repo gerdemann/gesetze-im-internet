@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Maßnahmen zur Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000100314)
 
 (1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des
 Bedarfs der Zivilbevölkerung und der Streitkräfte erforderliche
@@ -98,6 +99,7 @@ Rechtsverordnung Vorschriften erlassen werden über
 
 
 ## § 2 Voraussetzungen und Grenzen der Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000200314)
 
 (1) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels
 80a des Grundgesetzes angewandt werden.
@@ -121,6 +123,7 @@ beeinträchtigt wird.
 
 
 ## § 3 Buchführungs- und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000300314)
 
 Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken
 Buchführungs- und Meldepflichten hinsichtlich der Güter und
@@ -130,6 +133,7 @@ gewerblichen Wirtschaft begründet werden.
 
 
 ## § 4 Vorratshaltung
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000400314)
 
 (1) Durch Rechtsverordnung können für Betriebe der gewerblichen
 Wirtschaft Vorschriften über die Lagerung und Vorratshaltung der in §
@@ -169,6 +173,7 @@ Bewertungsabschlag, anzusetzen.
 
 
 ## § 5 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000505118)
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die
 Bundesregierung. Die Bundesregierung kann diese Befugnis durch
@@ -199,6 +204,7 @@ Befugnis, übertragen.
 
 
 ## § 6 Zustimmungsbedürftigkeit der Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000604118)
 
 (1) Rechtsverordnungen der Bundesregierung, des Bundesministeriums für
 Wirtschaft und Energie und des Bundesministeriums der Finanzen nach §
@@ -212,6 +218,7 @@ Bundesrates.
 
 
 ## § 7 Geltungsdauer der Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000705118)
 
 (1) Befristete Rechtsverordnungen nach den §§ 1, 3 und 4, die bei
 Eintritt der Voraussetzung des § 2 Abs. 1 in Kraft sind, gelten
@@ -231,6 +238,7 @@ Rechtsverordnung außer Kraft.
 
 
 ## § 8 Ausführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000804118)
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 werden von den Ländern
 einschließlich der Gemeinden und Gemeindeverbände im Auftrag des
@@ -285,6 +293,7 @@ Verordnungen besondere Stellen einzurichten sind.
 
 
 ## § 9 Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE000904118)
 
 Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für
 Wirtschaft und Energie und des Bundesministeriums der Finanzen können
@@ -298,6 +307,7 @@ Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
 
 
 ## § 10 Mitwirkung von Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001000314)
 
 (1) In Rechtsverordnungen nach den §§ 1, 3 und 4 kann bestimmt werden,
 daß
@@ -330,6 +340,7 @@ insoweit auch deren Aufsicht.
 
 
 ## § 11 Vorbereitung des Vollzugs
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001100314)
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 personellen, organisatorischen und materiellen Voraussetzungen zur
@@ -338,6 +349,7 @@ bezeichneten Zwecke erforderlich sind.
 
 
 ## § 12 Rechtsmittelbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001200314)
 
 In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem
 Gesetz oder einer auf diesem Gesetz beruhenden Rechtsverordnung sind
@@ -349,6 +361,7 @@ des § 2 Abs. 1 verkündet oder zugestellt worden ist.
 
 
 ## § 13 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001300314)
 
 (1) Der Bund trägt die Kosten der Maßnahmen, die den Ländern,
 Gemeinden und Gemeindeverbänden durch dieses Gesetz, durch die auf
@@ -375,6 +388,7 @@ Gemeindebehörden angewendet werden.
 
 
 ## § 14 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001400314)
 
 (1) Zur Durchführung der Rechtsverordnungen auf Grund dieses Gesetzes
 haben alle natürlichen und juristischen Personen und
@@ -406,6 +420,7 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 
 
 ## § 15 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001500314)
 
 (1) Stellt eine Maßnahme auf Grund dieses Gesetzes oder einer nach
 diesem Gesetz erlassenen Rechtsverordnung eine Enteignung dar, ist
@@ -436,6 +451,7 @@ Sinne des Absatzes 1 angeordnet haben.
 
 
 ## § 16 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001600314)
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach
 diesem Gesetz erlassenen Rechtsverordnung dem Betroffenen ein
@@ -450,6 +466,7 @@ verpflichtet.
 
 
 ## § 17 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001701377)
 
 Für Zustellungen durch die Verwaltungsbehörde gelten die Vorschriften
 des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
@@ -475,6 +492,7 @@ des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
 
 
 ## § 18 Zuwiderhandlung gegen Sicherstellungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001800314)
 
 Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund
 der §§ 1, 3 oder 4 erlassenen Rechtsverordnung oder gegen eine auf
@@ -485,6 +503,7 @@ bestimmten Tatbestand auf diese Vorschrift verweist.
 
 
 ## § 19 Verletzung der Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE001900314)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 14
@@ -504,11 +523,13 @@ zwanzigtausend Deutsche Mark geahndet werden.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE002000314)
 
 -
 
 
 ## § 21 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE002104118)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist
@@ -550,17 +571,20 @@ Ordnungswidrigkeiten ist
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE002200314)
 
 -
 
 
 ## § 23 Einschränkung der Grundrechte
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE002300314)
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ## § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wisig_1965/BJNR009200965.html#BJNR009200965BJNE002400314)
 
 Dieses Gesetz tritt am 1. Juli 1965 in Kraft.
 

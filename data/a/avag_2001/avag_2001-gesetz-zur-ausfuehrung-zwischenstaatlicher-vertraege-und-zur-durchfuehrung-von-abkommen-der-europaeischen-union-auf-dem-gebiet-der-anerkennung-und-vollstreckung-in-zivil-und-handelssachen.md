@@ -25,14 +25,17 @@ Geändert durch
 
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000202311)
 
 
 
 ### Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000302311)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE005510125)
 
 (1) Diesem Gesetz unterliegen
 
@@ -121,6 +124,7 @@ für die Regelungen über
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000206311)
 
 Im Sinne dieses Gesetzes ist
 
@@ -143,10 +147,12 @@ Im Sinne dieses Gesetzes ist
 
 
 ### Abschnitt 2 - Zulassung der Zwangsvollstreckung aus ausländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000402311)
 
 
 
 #### § 3 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000302311)
 
 (1) Für die Vollstreckbarerklärung von Titeln aus einem anderen Staat
 ist das Landgericht ausschließlich zuständig.
@@ -162,6 +168,7 @@ entscheidet der Vorsitzende einer Zivilkammer.
 
 
 #### § 4 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000402311)
 
 (1) Der in einem anderen Staat vollstreckbare Titel wird dadurch zur
 Zwangsvollstreckung zugelassen, dass er auf Antrag mit der
@@ -193,6 +200,7 @@ vorgelegt wird, sollen zwei Abschriften beigefügt werden.
 
 
 #### § 5 Zustellungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000505311)
 
 (1) Hat die antragstellende Person in dem Antrag keinen
 Zustellungsbevollmächtigten im Sinn des § 184 Absatz 1 Satz 1 der
@@ -206,6 +214,7 @@ Inland zugestellt werden kann.
 
 
 #### § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000602311)
 
 (1) Das Gericht entscheidet ohne Anhörung des Verpflichteten.
 
@@ -220,6 +229,7 @@ nicht erforderlich.
 
 
 #### § 7 Vollstreckbarkeit ausländischer Titel in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000702311)
 
 (1) Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer
 dem Berechtigten obliegenden Sicherheitsleistung, dem Ablauf einer
@@ -240,6 +250,7 @@ Verhandlung anordnen.
 
 
 #### § 8 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000804311)
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
@@ -257,6 +268,7 @@ dem Antragsteller aufzuerlegen.
 
 
 #### § 9 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE000903311)
 
 (1) Auf Grund des Beschlusses nach § 8 Absatz 1 erteilt der
 Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
@@ -297,6 +309,7 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 
 #### § 10 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001002311)
 
 (1) Im Falle des § 8 Absatz 1 sind dem Verpflichteten eine beglaubigte
 Abschrift des Beschlusses, eine beglaubigte Abschrift des mit der
@@ -323,10 +336,12 @@ vermerken.
 
 
 ### Abschnitt 3 - Beschwerde, Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000503311)
 
 
 
 #### § 11 Einlegung der Beschwerde; Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001102311)
 
 (1) Die Beschwerde gegen die im ersten Rechtszug ergangene
 Entscheidung über den Antrag auf Erteilung der Vollstreckungsklausel
@@ -352,6 +367,7 @@ zuzustellen.
 
 
 #### § 12 Einwendungen gegen den zu vollstreckenden Anspruch im Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001202311)
 
 (1) Der Verpflichtete kann mit der Beschwerde, die sich gegen die
 Zulassung der Zwangsvollstreckung aus einer Entscheidung richtet, auch
@@ -367,6 +383,7 @@ Beschränkung geltend machen.
 
 
 #### § 13 Verfahren und Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001302311)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss, der mit Gründen
 zu versehen ist und ohne mündliche Verhandlung ergehen kann. Der
@@ -394,6 +411,7 @@ nach dem Inhalt der Anordnung.
 
 
 #### § 14 Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001404311)
 
 (1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
 der Verpflichtete Einwendungen gegen den Anspruch selbst in einem
@@ -421,10 +439,12 @@ freiwilligen Gerichtsbarkeit für Unterhaltssachen.
 
 
 ### Abschnitt 4 - Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000602311)
 
 
 
 #### § 15 Statthaftigkeit und Frist
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001503311)
 
 (1) Gegen den Beschluss des Beschwerdegerichts findet die
 Rechtsbeschwerde nach Maßgabe des § 574 Absatz 1 Nummer 1, Absatz 2
@@ -437,6 +457,7 @@ Zustellung des Beschlusses (§ 13 Absatz 3).
 
 
 #### § 16 Einlegung und Begründung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001604311)
 
 (1) Die Rechtsbeschwerde wird durch Einreichen der Beschwerdeschrift
 bei dem Bundesgerichtshof eingelegt.
@@ -454,6 +475,7 @@ richtet, vorgelegt werden.
 
 
 #### § 17 Verfahren und Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001704311)
 
 (1) Der Bundesgerichtshof kann nur überprüfen, ob der Beschluss auf
 einer Verletzung des Rechts der Europäischen Union, eines
@@ -476,10 +498,12 @@ Ein Zusatz über die Beschränkung der Zwangsvollstreckung entfällt.
 
 
 ### Abschnitt 5 - Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000702311)
 
 
 
 #### § 18 Beschränkung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001802311)
 
 Die Zwangsvollstreckung ist auf Sicherungsmaßregeln beschränkt,
 solange die Frist zur Einlegung der Beschwerde noch läuft und solange
@@ -487,6 +511,7 @@ solange die Frist zur Einlegung der Beschwerde noch läuft und solange
 
 
 #### § 19 Prüfung der Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE001903311)
 
 Einwendungen des Verpflichteten, dass bei der Zwangsvollstreckung die
 Beschränkung auf Sicherungsmaßregeln nach dem auszuführenden
@@ -500,6 +525,7 @@ Zivilprozessordnung) geltend zu machen.
 
 
 #### § 20 Sicherheitsleistung durch den Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002002311)
 
 (1) Solange die Zwangsvollstreckung aus einem Titel, der auf Leistung
 von Geld lautet, nicht über Maßregeln der Sicherung hinausgehen darf,
@@ -514,6 +540,7 @@ erforderliche Sicherheitsleistung nachweist.
 
 
 #### § 21 Versteigerung beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002102311)
 
 Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
 nicht über Maßregeln zur Sicherung hinausgehen, so kann das
@@ -524,6 +551,7 @@ Aufbewahrung unverhältnismäßige Kosten verursachen würde.
 
 
 #### § 22 Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002202311)
 
 (1) Weist das Beschwerdegericht die Beschwerde des Verpflichteten
 gegen die Zulassung der Zwangsvollstreckung zurück oder lässt es auf
@@ -548,6 +576,7 @@ erlassene Anordnung des Beschwerdegerichts abändern oder aufheben.
 
 
 #### § 23 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002302311)
 
 (1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte der
 Geschäftsstelle des Gerichts des ersten Rechtszuges mit der
@@ -584,6 +613,7 @@ ist.
 
 
 #### § 24 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002402311)
 
 (1) Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte
 der Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel
@@ -613,10 +643,12 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 
 
 ### Abschnitt 6 - Feststellung der Anerkennung einer ausländischen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000802311)
 
 
 
 #### § 25 Verfahren und Entscheidung in der Hauptsache
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002503311)
 
 (1) Auf das Verfahren, das die Feststellung zum Gegenstand hat, ob
 eine Entscheidung aus einem anderen Staat anzuerkennen ist, sind die
@@ -628,6 +660,7 @@ Gericht, dass die Entscheidung anzuerkennen ist.
 
 
 #### § 26 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002602311)
 
 In den Fällen des § 25 Absatz 2 sind die Kosten dem Antragsgegner
 aufzuerlegen. Dieser kann die Beschwerde (§ 11) auf die Entscheidung
@@ -637,10 +670,12 @@ Verhalten zu dem Antrag auf Feststellung Veranlassung gegeben hat.
 
 
 ### Abschnitt 7 - Aufhebung oder Änderung der Beschlüsse über die Zulassung der Zwangsvollstreckung oder die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG000902311)
 
 
 
 #### § 27 Verfahren nach Aufhebung oder Änderung des für vollstreckbar erklärten ausländischen Titels im Ursprungsstaat
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002703311)
 
 (1) Wird der Titel in dem Staat, in dem er errichtet worden ist,
 aufgehoben oder geändert und kann der Verpflichtete diese Tatsache in
@@ -669,6 +704,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 28 Schadensersatz wegen ungerechtfertigter Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002802311)
 
 (1) Wird die Zulassung der Zwangsvollstreckung auf die Beschwerde (§
 11) oder die Rechtsbeschwerde (§ 15) aufgehoben oder abgeändert, so
@@ -687,6 +723,7 @@ Titel mit der Vollstreckungsklausel zu versehen, entschieden hat.
 
 
 #### § 29 Aufhebung oder Änderung ausländischer Entscheidungen, deren Anerkennung festgestellt ist
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE002902311)
 
 Wird die Entscheidung in dem Staat, in dem sie ergangen ist,
 aufgehoben oder abgeändert und kann die davon begünstigte Partei diese
@@ -696,10 +733,12 @@ entsprechend anzuwenden.
 
 
 ### Abschnitt 8 - Vorschriften für Entscheidungen deutscher Gerichte und für das Mahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001002311)
 
 
 
 #### § 30 Vervollständigung inländischer Entscheidungen zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003002311)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozessordnung in verkürzter Form abgefasst worden
@@ -729,6 +768,7 @@ Begründung versehen sind.
 
 
 #### § 31 Vollstreckungsklausel zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003104311)
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen
 oder einstweilige Anordnungen, deren Zwangsvollstreckung in einem
@@ -742,6 +782,7 @@ wäre.
 
 
 #### § 32 Mahnverfahren mit Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003203311)
 
 (1) Das Mahnverfahren findet auch statt, wenn die Zustellung des
 Mahnbescheids in einem anderen Vertrags- oder Mitgliedstaat erfolgen
@@ -757,14 +798,17 @@ Zivilprozessordnung) beträgt einen Monat.
 
 
 ### Abschnitt 9 - Verhältnis zu besonderen Anerkennungsverfahren; Konzentrationsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001102311)
 
 
 
 #### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003304311)
 
 
 
 #### § 34 Konzentrationsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003407311)
 
 (1) Die Landesregierungen werden für die Durchführung dieses Gesetzes
 ermächtigt, durch Rechtsverordnung die Entscheidung über Anträge auf
@@ -784,14 +828,17 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ## Teil 2 - Besonderes
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001202311)
 
 
 
 ### Abschnitt 1 - Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen vom 27. September 1968 und vom 16. September 1988
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001302311)
 
 
 
 #### § 35 Sonderregelungen über die Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003503311)
 
 Die Frist für die Beschwerde des Verpflichteten gegen die Entscheidung
 über die Zulassung der Zwangsvollstreckung beträgt zwei Monate und
@@ -805,6 +852,7 @@ diesen Fällen keine Anwendung.
 
 
 #### § 36 Aussetzung des Beschwerdeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003602311)
 
 (1) Das Oberlandesgericht kann auf Antrag des Verpflichteten seine
 Entscheidung über die Beschwerde gegen die Zulassung der
@@ -820,18 +868,22 @@ Entscheidung (§§ 25 und 26) entsprechend anzuwenden.
 
 
 ### Abschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001403311)
 
 
 
 #### (XXXX) §§ 37 bis 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE003703311)
 
 
 
 ### Abschnitt 3 - Vertrag vom 17. Juni 1977 zwischen der Bundesrepublik Deutschland und dem Königreich Norwegen über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001502311)
 
 
 
 #### § 40 Abweichungen von § 22
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004002311)
 
 (1) Weist das Oberlandesgericht die Beschwerde des Verpflichteten
 gegen die Zulassung der Zwangsvollstreckung zurück oder lässt es auf
@@ -860,6 +912,7 @@ fortgesetzt werden kann:
 
 
 #### § 41 Abweichungen von § 23
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004102311)
 
 (1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte der
 Geschäftsstelle des Landgerichts mit der Vollstreckungsklausel
@@ -892,6 +945,7 @@ Beschwerdeschrift eingereicht hat und wenn
 
 
 #### § 42 Abweichungen von § 24
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004202311)
 
 Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte der
 Geschäftsstelle des Oberlandesgerichts die Vollstreckungsklausel
@@ -902,6 +956,7 @@ Urkundsbeamten der Geschäftsstelle bedarf es nicht.
 
 
 #### § 43 Folgeregelungen für das Rechtsbeschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004303311)
 
 (1) Auf das Verfahren über die Rechtsbeschwerde sind neben den in § 17
 Absatz 2 Satz 2 aufgeführten Vorschriften auch die §§ 40 und 42
@@ -916,6 +971,7 @@ Anordnung.
 
 
 #### § 44 Weitere Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004402311)
 
 (1) Hat der Verpflichtete keinen Wohnsitz im Inland, so ist für die
 Vollstreckbarerklärung von Entscheidungen und gerichtlichen
@@ -940,10 +996,12 @@ Anwendung.
 
 
 ### Abschnitt 4 - Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001602311)
 
 
 
 #### § 45 Abweichungen von § 22
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004502311)
 
 (1) Weist das Oberlandesgericht die Beschwerde des Verpflichteten
 gegen die Zulassung der Zwangsvollstreckung zurück oder lässt es auf
@@ -972,6 +1030,7 @@ fortgesetzt werden kann:
 
 
 #### § 46 Abweichungen von § 23
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004602311)
 
 (1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte der
 Geschäftsstelle des Landgerichts mit der Vollstreckungsklausel
@@ -1004,6 +1063,7 @@ Beschwerdeschrift eingereicht hat und wenn
 
 
 #### § 47 Abweichungen von § 24
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004702311)
 
 Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte der
 Geschäftsstelle des Oberlandesgerichts die Vollstreckungsklausel
@@ -1014,6 +1074,7 @@ Urkundsbeamten der Geschäftsstelle bedarf es nicht.
 
 
 #### § 48 Folgeregelungen für das Rechtsbeschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004803311)
 
 (1) Auf das Verfahren über die Rechtsbeschwerde sind neben den in § 17
 Absatz 2 Satz 2 aufgeführten Vorschriften auch die §§ 45 und 47
@@ -1028,6 +1089,7 @@ Anordnung.
 
 
 #### § 49 Weitere Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE004902311)
 
 (1) Hat der Verpflichtete keinen Wohnsitz im Inland, so ist für die
 Vollstreckbarerklärung von Entscheidungen und gerichtlichen
@@ -1042,18 +1104,22 @@ richtet, sinngemäß.
 
 
 ### Abschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001703311)
 
 
 
 #### (XXXX) §§ 50 bis 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE005005311)
 
 
 
 ### Abschnitt 6 - Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001805311)
 
 
 
 #### § 55 Abweichungen von Vorschriften des Allgemeinen Teils; ergänzende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE005605311)
 
 (1) Die §§ 3, 6 Absatz 1, § 7 Absatz 1 Satz 2 und Absatz 2, § 10
 Absatz 2 und 3 Satz 2, § 11 Absatz 1 Satz 2 und Absatz 3 Satz 1 und 2
@@ -1084,6 +1150,7 @@ sinngemäß.
 
 
 #### § 56 Sonderregelungen für die Vollstreckungsabwehrklage
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE005801311)
 
 (1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
 der Verpflichtete Einwendungen gegen den Anspruch selbst in einem
@@ -1109,6 +1176,7 @@ Unterhaltssachen.
 
 
 #### § 57 Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE005705311)
 
 Die Bescheinigungen nach den Artikeln 54, 57 und 58 des Übereinkommens
 vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die
@@ -1127,10 +1195,12 @@ die Erteilung der Vollstreckungsklausel sinngemäß.
 
 
 ### Abschnitt 7 - Haager Übereinkommen vom 30. Juni 2005 über Gerichtsstandsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG001901311)
 
 
 
 #### § 58 Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE005902125)
 
 (1) Bescheinigungen nach Artikel 13 Absatz 1 Buchstabe e und Absatz 3
 des Haager Übereinkommens vom 30. Juni 2005 über
@@ -1146,10 +1216,12 @@ sinngemäß.
 
 
 ### Abschnitt 8 - Haager Übereinkommen vom 2. Juli 2019 über die Anerkennung und Vollstreckung ausländischer Entscheidungen in Zivil- und Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNG002000125)
 
 
 
 #### § 59 Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/avag_2001/BJNR028810001.html#BJNR028810001BJNE006000125)
 
 (1) Bescheinigungen nach Artikel 12 Absatz 1 Buchstabe d und Absatz 3
 des Haager Übereinkommens vom 2. Juli 2019 über die Anerkennung und

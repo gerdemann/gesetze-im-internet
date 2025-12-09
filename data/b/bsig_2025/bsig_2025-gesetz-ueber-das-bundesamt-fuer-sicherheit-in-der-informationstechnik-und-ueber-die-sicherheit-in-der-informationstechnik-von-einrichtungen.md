@@ -19,9 +19,11 @@ Fundstelle
 Stand: Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000100000)
 
 
 ### § 1 Bundesamt für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000200000)
 
 Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt)
 ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums
@@ -31,6 +33,7 @@ wissenschaftlich-technischer Erkenntnisse durch.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000300000)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -405,12 +408,15 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ## Teil 2 - Das Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000200000)
 
 
 ### Kapitel 1 - Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000300000)
 
 
 #### § 3 Aufgaben des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000400000)
 
 (1) Das Bundesamt fördert die Sicherheit in der Informationstechnik.
 Hierzu nimmt es folgende wichtige im öffentlichen Interesse liegende
@@ -629,6 +635,7 @@ verweisen.
 
 
 #### § 4 Zentrale Meldestelle für die Sicherheit in der Informationstechnik des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000500000)
 
 (1) Das Bundesamt ist die zentrale Meldestelle für die Zusammenarbeit
 der Einrichtungen der Bundesverwaltung in Angelegenheiten der
@@ -663,6 +670,7 @@ der gesetzlich geregelten Unabhängigkeit einzelner Stellen stünde.
 
 
 #### § 5 Allgemeine Meldestelle für die Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000600000)
 
 (1) Zur Wahrnehmung der Aufgaben nach § 3 nimmt das Bundesamt als
 zentrale Stelle für Meldungen von Dritten Informationen über
@@ -747,6 +755,7 @@ Verfahrensbeschreibung zur Durchführung der Absätze 1 bis 3.
 
 
 #### § 6 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000700000)
 
 (1) Das Bundesamt betreibt eine Online-Plattform zum
 Informationsaustausch mit wichtigen Einrichtungen, besonders wichtigen
@@ -763,6 +772,7 @@ Teilnehmenden vor.
 
 
 #### § 7 Kontrolle der Kommunikationstechnik des Bundes, Betretensrechte
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000800000)
 
 (1) Das Bundesamt ist befugt, die Sicherheit der Kommunikationstechnik
 des Bundes und ihrer Komponenten, einschließlich technischer
@@ -864,6 +874,7 @@ Berichtsjahr folgenden Jahres über die Anwendung dieser Vorschrift.
 
 
 #### § 8 Abwehr von Schadprogrammen und Gefahren für die Kommunikationstechnik des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE000900000)
 
 (1) Das Bundesamt darf zur Abwehr von Gefahren für die
 Kommunikationstechnik des Bundes
@@ -1132,6 +1143,7 @@ Deutschen Bundestages über die Anwendung dieser Vorschrift.
 
 
 #### § 9 Verarbeitung von Protokollierungsdaten der Kommunikationstechnik des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001000000)
 
 (1) Das Bundesamt darf zur Abwehr von Gefahren für die
 Kommunikationstechnik des Bundes und ihrer Komponenten, einschließlich
@@ -1154,6 +1166,7 @@ Verpflichtung nach Satz 1 entsprechend.
 
 
 #### § 10 Anordnungen von Maßnahmen zur Abwendung oder Behebung von Sicherheitsvorfällen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001100000)
 
 Das Bundesamt kann im Einzelfall gegenüber Einrichtungen der
 Bundesverwaltung Maßnahmen anordnen, die zur Abwendung oder Behebung
@@ -1170,6 +1183,7 @@ entsprechend.
 
 
 #### § 11 Wiederherstellung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme in herausgehobenen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001200000)
 
 (1) Handelt es sich bei einer Beeinträchtigung der Sicherheit oder
 Funktionsfähigkeit eines informationstechnischen Systems einer
@@ -1248,6 +1262,7 @@ Atomgesetzes Vorrang.
 
 
 #### § 12 Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001300000)
 
 (1) Das Bundesamt darf zur Erfüllung seiner gesetzlichen Aufgabe nach
 § 3 Absatz 1 Satz 1 Nummer 1, 2, 20, 24 oder 25 von demjenigen, der
@@ -1321,6 +1336,7 @@ finden entsprechende Anwendung.
 
 
 #### § 13 Warnungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001400000)
 
 (1) Zur Erfüllung seiner Aufgaben nach § 3 Absatz 1 Satz 2 Nummer 20
 und 21 kann das Bundesamt
@@ -1407,6 +1423,7 @@ Satz 3 nicht entfernt, so ist diese Entscheidung regelmäßig zu
 
 
 #### § 14 Untersuchung der Sicherheit in der Informationstechnik, Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001500000)
 
 (1) Das Bundesamt kann zur Erfüllung seiner Aufgaben nach § 3 Absatz 1
 Satz 2 Nummer 1, 20, 21, 24 oder 25 auf dem Markt bereitgestellte oder
@@ -1454,6 +1471,7 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 
 #### § 15 Detektion von Angriffsmethoden und von Sicherheitsrisiken für die Netz- und IT-Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001600000)
 
 (1) Das Bundesamt kann im Rahmen seiner Aufgaben nach § 3 Absatz 1
 Satz 2 Nummer 1 zur Detektion von bekannten Schwachstellen und anderen
@@ -1517,6 +1535,7 @@ Angriffsmethoden erforderlichen Daten verarbeiten.
 
 
 #### § 16 Anordnungen von Maßnahmen des Bundesamtes gegenüber Anbietern von Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001700000)
 
 (1) Zur Abwehr erheblicher Gefahren für die in Absatz 3 genannten
 Schutzgüter kann das Bundesamt anordnen, dass ein Anbieter von
@@ -1591,6 +1610,7 @@ Gesamtzahl der angeordneten Datenumleitungen.
 
 
 #### § 17 Anordnungen von Maßnahmen des Bundesamtes gegenüber Anbietern von digitalen Diensten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001800000)
 
 Das Bundesamt kann in Einzelfällen zur Abwehr erheblicher Gefahren für
 informationstechnische Systeme einer Vielzahl von Nutzern, die von
@@ -1620,6 +1640,7 @@ unberührt.
 
 
 #### § 18 Anordnungen von Maßnahmen des Bundesamtes gegenüber Herstellern von IKT-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE001900000)
 
 Soweit erforderlich, kann das Bundesamt von einem Hersteller, dessen
 IKT-Produkte von erheblichen Sicherheitsvorfällen betroffen sind, die
@@ -1629,6 +1650,7 @@ wichtigen Einrichtungen verlangen.
 
 
 #### § 19 Bereitstellung von IT-Sicherheitsprodukten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002000000)
 
 Die Bereitstellung von IT-Sicherheitsprodukten durch das Bundesamt
 nach § 3 Absatz 1 Satz 2 Nummer 15 erfolgt durch Eigenentwicklung oder
@@ -1643,9 +1665,11 @@ Bundesamt abrufen.
 
 
 ### Kapitel 2 - Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000400000)
 
 
 #### § 20 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002100000)
 
 (1) Die Verarbeitung personenbezogener Daten durch das Bundesamt ist
 zulässig, wenn die Verarbeitung zur Erfüllung seiner im öffentlichen
@@ -1704,6 +1728,7 @@ Wahrung der Interessen der betroffenen Person gemäß § 22 Absatz 2 Satz
 
 
 #### § 21 Beschränkungen der Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002200000)
 
 Für die Rechte der betroffenen Person gegenüber dem Bundesamt gelten
 ergänzend zu den in der Verordnung (EU) 2016/679 enthaltenen Ausnahmen
@@ -1714,6 +1739,7 @@ Bundesdatenschutzgesetzes ergänzend.
 
 
 #### § 22 Informationspflicht bei Erhebung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002300000)
 
 (1) Die Pflicht zur Information gemäß den Artikeln 13 und 14 der
 Verordnung (EU) 2016/679 besteht ergänzend zu den in Artikel 13 Absatz
@@ -1746,6 +1772,7 @@ der betroffenen Person abgesehen hat.
 
 
 #### § 23 Auskunftsrecht der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002400000)
 
 (1) Das Recht auf Auskunft gemäß Artikel 15 Absatz 1 und 2 der
 Verordnung (EU) 2016/679 besteht nicht, wenn und soweit
@@ -1780,6 +1807,7 @@ entsprechend.
 
 
 #### § 24 Recht auf Berichtigung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002500000)
 
 (1) Das Recht der betroffenen Person auf Berichtigung und
 Vervollständigung gemäß Artikel 16 der Verordnung (EU) 2016/679
@@ -1796,6 +1824,7 @@ transparente Verarbeitung erforderlich ist.
 
 
 #### § 25 Recht auf Löschung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002600000)
 
 (1) Im Fall der nicht automatisierten Verarbeitung besteht die Pflicht
 des Bundesamtes zur Löschung personenbezogener Daten gemäß Artikel 17
@@ -1824,6 +1853,7 @@ einzuschränken. § 8 Absatz 8 bleibt unberührt.
 
 
 #### § 26 Recht auf Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002700000)
 
 Die Pflicht des Bundesamtes zur Einschränkung der Verarbeitung gemäß
 Artikel 18 Absatz 1 Buchstabe a der Verordnung (EU) 2016/679 besteht
@@ -1842,6 +1872,7 @@ Daten nicht, wenn
 
 
 #### § 27 Widerspruchsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002800000)
 
 Das Recht der betroffenen Person auf Widerspruch gemäß Artikel 21
 Absatz 1 der Verordnung (EU) 2016/679 besteht nicht, wenn
@@ -1862,12 +1893,15 @@ Interessen, Rechte und Freiheiten der betroffenen Person überwiegen.
 
 
 ## Teil 3 - Sicherheit in der Informationstechnik von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000500000)
 
 
 ### Kapitel 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000600000)
 
 
 #### § 28 Besonders wichtige Einrichtungen und wichtige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE002900000)
 
 (1) Als besonders wichtige Einrichtung gelten
 
@@ -2041,6 +2075,7 @@ Gebietskörperschaften, ausgenommen der Bund, beteiligt sind, wenn sie
 
 
 #### § 29 Einrichtungen der Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003000000)
 
 (1) Einrichtungen der Bundesverwaltung im Sinne dieses Gesetzes sind,
 mit Ausnahme der Institutionen der Sozialen Sicherung und der
@@ -2078,9 +2113,11 @@ Maßnahmen umzusetzen.
 
 
 ### Kapitel 2 - Risikomanagement, Melde-, Registrierungs-, Nachweis- und Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000700000)
 
 
 #### § 30 Risikomanagementmaßnahmen besonders wichtiger Einrichtungen und wichtiger Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003100000)
 
 (1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sind
 verpflichtet, geeignete, verhältnismäßige und wirksame technische und
@@ -2225,6 +2262,7 @@ entsprechend.
 
 
 #### § 31 Besondere Anforderungen an die Risikomanagementmaßnahmen von Betreibern kritischer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003200000)
 
 (1) Für Betreiber kritischer Anlagen gelten für die
 informationstechnischen Systeme, Komponenten und Prozesse, die für die
@@ -2252,6 +2290,7 @@ einer Beeinträchtigung der betroffenen kritischen Anlage stehen.
 
 
 #### § 32 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003300000)
 
 (1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sind
 verpflichtet, folgende Informationen an eine vom Bundesamt und dem
@@ -2336,6 +2375,7 @@ Sicherheitsvorfalls machen.
 
 
 #### § 33 Registrierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003400000)
 
 (1) Besonders wichtige Einrichtungen und wichtige Einrichtungen sowie
 Domain-Name-Registry-Diensteanbieter sind verpflichtet, spätestens
@@ -2408,6 +2448,7 @@ des Bundesamtes.
 
 
 #### § 34 Besondere Registrierungspflicht für bestimmte Einrichtungsarten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003500000)
 
 (1) Eine Einrichtung der in § 60 Absatz 1 Satz 1 genannten
 Einrichtungsart ist verpflichtet, spätestens drei Monate, nachdem sie
@@ -2456,6 +2497,7 @@ Absätzen 1 und 2 einen geeigneten Meldeweg vorsehen.
 
 
 #### § 35 Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003600000)
 
 (1) Im Fall eines erheblichen Sicherheitsvorfalls kann das Bundesamt
 besonders wichtigen Einrichtungen und wichtigen Einrichtungen
@@ -2481,6 +2523,7 @@ des Empfängers die Interessen des Empfängers überwiegen.
 
 
 #### § 36 Rückmeldungen des Bundesamtes gegenüber meldenden Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003700000)
 
 (1) Im Fall einer Meldung einer Einrichtung gemäß § 32 übermittelt das
 Bundesamt dieser unverzüglich und nach Möglichkeit innerhalb von 24
@@ -2502,6 +2545,7 @@ gilt für die Information der Öffentlichkeit § 4 Absatz 3 entsprechend.
 
 
 #### § 37 Ausnahmebescheid
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003800000)
 
 (1) Das Bundesministerium des Innern kann auf Vorschlag des
 Bundeskanzleramtes, des Bundesministeriums der Justiz und für
@@ -2552,6 +2596,7 @@ Falle eines vorübergehenden Wegfalls der Voraussetzungen des Absatzes
 
 
 #### § 38 Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen besonders wichtiger Einrichtungen und wichtiger Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE003900000)
 
 (1) Geschäftsleitungen besonders wichtiger Einrichtungen und wichtiger
 Einrichtungen sind verpflichtet, die von diesen Einrichtungen nach §
@@ -2575,6 +2620,7 @@ der Einrichtung erbrachten Dienste beurteilen zu können.
 
 
 #### § 39 Nachweispflichten für Betreiber kritischer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004000000)
 
 (1) Betreiber kritischer Anlagen haben die Umsetzung der Maßnahmen in
 Bezug auf kritische Anlagen nach § 30 Absatz 1 Satz 1 in Verbindung
@@ -2635,6 +2681,7 @@ bisher geltenden Vorgaben erbringen.
 
 
 #### § 40 Nationale Verbindungsstelle sowie zentrale Melde- und Anlaufstelle für besonders wichtige und wichtige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004100000)
 
 (1) Das Bundesamt ist die nationale Verbindungsstelle sowie die
 zentrale Melde- und Anlaufstelle für die Aufsicht für besonders
@@ -2757,6 +2804,7 @@ Satz 3 bis 9 ist entsprechend anzuwenden.
 
 
 #### § 41 Untersagung des Einsatzes kritischer Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004200000)
 
 (1) Das Bundesministerium des Innern kann gegenüber dem Betreiber
 kritischer Anlagen den Einsatz von kritischen Komponenten eines
@@ -2839,6 +2887,7 @@ anzugeben.
 
 
 #### § 42 Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004300000)
 
 Zugang zu den Informationen und Akten in Angelegenheiten nach Teil 2
 §§ 4 bis 10 und Teil 3 dieses Gesetzes wird nicht gewährt. Die
@@ -2846,9 +2895,11 @@ Akteneinsichtsrechte von Verfahrensbeteiligten bleiben unberührt.
 
 
 ### Kapitel 3 - Informationssicherheit der Einrichtungen der Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000800000)
 
 
 #### § 43 Informationssicherheitsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004400000)
 
 (1) Die Leitung der Einrichtung der Bundesverwaltung ist dafür
 verantwortlich, unter Berücksichtigung der Belange des IT-Betriebs die
@@ -2903,6 +2954,7 @@ Absatzes 5.
 
 
 #### § 44 Vorgaben des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004500000)
 
 (1) Die Einrichtungen der Bundesverwaltung müssen Mindestanforderungen
 zum Schutz der in der Bundesverwaltung verarbeiteten Informationen
@@ -2960,6 +3012,7 @@ Gerichte und Verfassungsorgane sowie die Auslandsinformations- und
 
 
 #### § 45 Informationssicherheitsbeauftragte der Einrichtungen der Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004600000)
 
 (1) Jede Leitung einer Einrichtung der Bundesverwaltung bestellt für
 ihre Einrichtung eine Informationssicherheitsbeauftragte oder einen
@@ -3002,6 +3055,7 @@ Aufgaben nicht abberufen oder benachteiligt werden.
 
 
 #### § 46 Informationssicherheitsbeauftragte der Ressorts
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004700000)
 
 (1) Die Leitungen der einzelnen Ressorts sowie die Leitungen weiterer
 oberster Bundesbehörden bestellen jeweils eine
@@ -3058,6 +3112,7 @@ seiner oder ihrer Aufgaben nicht abberufen oder benachteiligt werden.
 
 
 #### § 47 Wesentliche Digitalisierungsvorhaben und Kommunikationsinfrastrukturen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004800000)
 
 (1) Für die Planung und Umsetzung von wesentlichen
 Digitalisierungsvorhaben und Kommunikationsinfrastrukturen des Bundes
@@ -3092,6 +3147,7 @@ dem Bundesamt Gelegenheit zur Stellungnahme geben.
 
 
 #### § 48 Amt des Koordinators für Informationssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE004900000)
 
 (1) Die Leitung des Bundesamtes für Sicherheit in der
 Informationstechnik nimmt die Aufgaben der Koordinatorin oder des
@@ -3130,9 +3186,11 @@ Fragen der Informationssicherheit berühren.
 
 
 ## Teil 4 - Datenbanken der Domain-Name-Registrierungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG000900000)
 
 
 ### § 49 Pflicht zum Führen einer Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005000000)
 
 (1) Um einen Beitrag zur Sicherheit, Stabilität und Resilienz des
 Domain Name Systems zu leisten, haben Top Level Domain Name Registries
@@ -3177,6 +3235,7 @@ Namens die nicht personenbezogenen Domain-Namen-Registrierungsdaten
 
 
 ### § 50 Verpflichtung zur Zugangsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005100000)
 
 (1) Top Level Domain Name Registries und Domain-Name-Registry-
 Dienstleister haben einem berechtigten Zugangsnachfrager auf
@@ -3201,6 +3260,7 @@ unberührt.
 
 
 ### § 51 Kooperationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005200000)
 
 Top Level Domain Name Registries und Domain-Name-Registry-
 Dienstleister sind zur Kooperation verpflichtet, um die in den §§ 49
@@ -3210,9 +3270,11 @@ Domaininhaber auszuschließen.
 
 
 ## Teil 5 - Zertifizierung, Konformitätserklärung und Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG001000000)
 
 
 ### § 52 Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005300000)
 
 (1) Das Bundesamt ist nationale Zertifizierungsstelle der
 Bundesverwaltung für IT-Sicherheit.
@@ -3286,6 +3348,7 @@ Bundesamt festgestellt worden ist.
 
 
 ### § 53 Konformitätsbewertung und Konformitätserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005400000)
 
 (1) Das Bundesamt kann für die vom Bundesamt in einer Technischen
 Richtlinie festgelegten Anforderungen und Vorgaben zulassen, dass ein
@@ -3390,6 +3453,7 @@ Technischen Richtlinie oder dieses Paragraphen begründeten.
 
 
 ### § 54 Nationale Behörde für die Cybersicherheitszertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005500000)
 
 (1) Das Bundesamt ist die nationale Behörde für die
 Cybersicherheitszertifizierung nach Artikel 58 Absatz 1 der Verordnung
@@ -3485,6 +3549,7 @@ widerrufen,
 
 
 ### § 55 Freiwilliges IT-Sicherheitskennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005600000)
 
 (1) Das Bundesamt führt zur Information von Verbrauchern über die IT-
 Sicherheit von Produkten bestimmter vom Bundesamt festgelegter
@@ -3606,9 +3671,11 @@ Befugnis des Bundesamtes zur Warnung nach § 13 bleibt davon unberührt.
 
 
 ## Teil 6 - Verordnungsermächtigungen, Grundrechtseinschränkungen und Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG001100000)
 
 
 ### § 56 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005700000)
 
 (1) Das Bundesministerium des Innern bestimmt nach Anhörung der
 betroffenen Wirtschaftsverbände im Einvernehmen mit dem
@@ -3737,12 +3804,14 @@ jeweilige Bundesministerium in § 41 Absatz 1 genannt wird.
 
 
 ### § 57 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005800000)
 
 Das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird durch die
 §§ 7, 8, 9, 11, 12, 15 und 16 eingeschränkt.
 
 
 ### § 58 Berichtspflichten des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE005900000)
 
 (1) Das Bundesamt unterrichtet das Bundesministerium des Innern über
 seine Tätigkeit.
@@ -3788,9 +3857,11 @@ zwei Jahre
 
 
 ## Teil 7 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG001200000)
 
 
 ### § 59 Zuständigkeit des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006000000)
 
 Das Bundesamt ist die zuständige Aufsichtsbehörde für die Einhaltung
 der Vorschriften in Teil 3
@@ -3810,6 +3881,7 @@ der Vorschriften in Teil 3
 
 
 ### § 60 Zentrale Zuständigkeit in der Europäischen Union für bestimmte Einrichtungsarten
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006100000)
 
 (1) Abweichend von § 59 ist das Bundesamt für DNS-Diensteanbieter, Top
 Level Domain Name Registries, Domain-Name-Registry-Dienstleister,
@@ -3870,6 +3942,7 @@ Komponente oder einen informationstechnischen Prozess betreibt.
 
 
 ### § 61 Aufsichts- und Durchsetzungsmaßnahmen für besonders wichtige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006200000)
 
 (1) Das Bundesamt kann gegenüber einzelnen besonders wichtigen
 Einrichtungen anordnen, Audits, Prüfungen oder Zertifizierungen von
@@ -4006,6 +4079,7 @@ Maßnahmen nach den Absätzen 1 bis 11 ergreifen.
 
 
 ### § 62 Aufsichts- und Durchsetzungsmaßnahmen für wichtige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006300000)
 
 Rechtfertigen Tatsachen die Annahme, dass eine wichtige Einrichtung
 Verpflichtungen nach § 30 Absatz 1 Satz 1, § 32 Absatz 1 bis 3 und §
@@ -4014,6 +4088,7 @@ deren Einhaltung überprüfen und Maßnahmen nach § 61 treffen.
 
 
 ### § 63 Verwaltungszwang
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006400000)
 
 Sofern das Bundesamt Zwangsgelder verhängt, beträgt deren Höhe
 abweichend von § 11 Absatz 3 des Verwaltungsvollstreckungsgesetzes bis
@@ -4021,6 +4096,7 @@ zu 100 000 Euro.
 
 
 ### § 64 Zuwiderhandlungen durch Institutionen der sozialen Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006500000)
 
 Bei Zuwiderhandlungen gegen eine in § 65 Absatz 1 bis 4 genannte
 Vorschrift, die von Institutionen der Sozialen Sicherung begangen
@@ -4038,9 +4114,11 @@ Durchsetzung.
 
 
 ## Teil 8 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNG001300000)
 
 
 ### § 65 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006600000)
 
 (1) Ordnungswidrig handelt, wer entgegen § 39 Absatz 1 Satz 1 in
 Verbindung mit einer Rechtsverordnung nach § 56 Absatz 4 Satz 1 einen
@@ -4254,6 +4332,7 @@ werden.
 
 
 ### Anlage 1 Sektoren besonders wichtiger und wichtiger Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006700000)
 
 (Fundstelle: BGBl. 2025 I Nr. 301, S. 43 - 46)
 
@@ -4834,6 +4913,7 @@ werden.
 
 
 ### Anlage 2 Sektoren wichtiger Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bsig_2025/BJNR12D0B0025.html#BJNR12D0B0025BJNE006800000)
 
 (Fundstelle: BGBl. 2025 I Nr. 301, S. 47 - 48)
 

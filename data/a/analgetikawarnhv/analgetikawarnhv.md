@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/analgetikawarnhv/BJNR086400018.html#BJNR086400018BJNE000100000)
 
 Auf Grund des § 12 Absatz 1 Nummer 3 Buchstabe a des
 Arzneimittelgesetzes, der durch Artikel 52 Nummer 3 Buchstabe a der
@@ -36,6 +37,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/analgetikawarnhv/BJNR086400018.html#BJNR086400018BJNE000201125)
 
 (1) Diese Verordnung ist anzuwenden auf zur Anwendung bei Menschen
 bestimmte, oral oder rektal anzuwendende, nicht der
@@ -79,6 +81,7 @@ enthaltende
 
 
 ## § 2 Warnhinweis auf äußeren Umhüllungen und Behältnissen
+[Direktlink](https://www.gesetze-im-internet.de/analgetikawarnhv/BJNR086400018.html#BJNR086400018BJNE000301125)
 
 (1) Arzneimittel nach § 1 Absatz 1 Nummer 1 und 2, die ausschließlich
 zur Behandlung von leichten bis mäßig starken Schmerzen oder Fieber
@@ -105,6 +108,7 @@ sofern nur ein Behältnis vorhanden ist, auf dem Behältnis anzubringen.
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/analgetikawarnhv/BJNR086400018.html#BJNR086400018BJNE000401125)
 
 (1) Arzneimittel nach § 1 Absatz 1 Nummer 1 und 2, auf die diese
 Verordnung in ihrer bis zum 31. Oktober 2022 geltenden Fassung noch
@@ -123,12 +127,14 @@ den Verkehr gebracht werden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/analgetikawarnhv/BJNR086400018.html#BJNR086400018BJNE000500000)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Monats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/analgetikawarnhv/BJNR086400018.html#BJNR086400018BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

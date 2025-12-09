@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anordnung als Bundesstatistik, Erhebungsart
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000200307)
 
 Über Gebäude und Wohnungen sowie die Wohnsituation der Haushalte
 werden nach Maßgabe dieses Gesetzes folgende Bundesstatistiken
@@ -42,6 +44,7 @@ durchgeführt:
 
 
 ## § 2 Erhebungseinheiten und Stichprobenauswahl
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000300307)
 
 (1) Erhebungseinheiten für die Erhebung nach § 1 Nr. 1 sind Gebäude
 mit Wohnraum und bewohnte Unterkünfte sowie Wohnungen.
@@ -61,6 +64,7 @@ erfaßt.
 
 
 ## § 3 Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000400307)
 
 (1) Die Erhebung nach § 1 Nr. 1 wird nach dem Stand vom 30. September
 1995 durchgeführt. Mit der Erhebung kann bis zu sechs Monaten vor dem
@@ -71,6 +75,7 @@ Erhebungsstichtag begonnen werden.
 
 
 ## § 4 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000500307)
 
 (1) Erhebungsmerkmale der Erhebung nach § 1 Nr. 1 sind
 
@@ -219,6 +224,7 @@ Erhebungsstichtag begonnen werden.
 
 
 ## § 5 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000600307)
 
 Hilfsmerkmale sind:
 
@@ -239,6 +245,7 @@ Hilfsmerkmale sind:
 
 
 ## § 6 Erhebungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000700307)
 
 (1) Zur Durchführung der Erhebung nach § 1 Nr. 1 werden
 Erhebungsstellen eingerichtet. Sie sind räumlich, organisatorisch und
@@ -271,6 +278,7 @@ nutzen.
 
 
 ## § 7 Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000800307)
 
 (1) Für die Erhebungen nach § 1 können ehrenamtliche
 Erhebungsbeauftragte eingesetzt werden. Sie sind von den
@@ -312,6 +320,7 @@ gelten entsprechend.
 
 
 ## § 8 Datenübermittlung an die Erhebungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE000900307)
 
 (1) Die für die Grundsteuer zuständigen Stellen der Gemeinden oder die
 für die Gebäudebrandversicherung zuständigen juristischen Personen des
@@ -341,6 +350,7 @@ löschen.
 
 
 ## § 9 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE001000307)
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht.
 
@@ -385,6 +395,7 @@ freiwillig durch einen Mieter erteilt werden.
 
 
 ## § 10 Art der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE001100307)
 
 (1) Die in den Erhebungsvordrucken enthaltenen Fragen können mündlich
 gegenüber dem Erhebungsbeauftragten oder schriftlich beantwortet
@@ -409,6 +420,7 @@ Umschlag anzugeben.
 
 
 ## § 11 Verwendung von Merkmalen
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE001200307)
 
 (1) Für ausschließlich statistische Zwecke dürfen den zur Durchführung
 statistischer Aufgaben zuständigen Stellen der Gemeinden und
@@ -439,6 +451,7 @@ Jahre nach dem in § 3 Abs. 1 genannten Zeitpunkt, zu löschen.
 
 
 ## § 12 Zusatz- oder Sonderaufbereitungen
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE001300307)
 
 Zusatz- oder Sonderaufbereitungen für Bundeszwecke werden in den
 Fällen vom Statistischen Bundesamt durchgeführt, in denen sie nicht
@@ -447,6 +460,7 @@ Frist selbst vorgenommen werden können.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wostatg/BJNR033700993.html#BJNR033700993BJNE001400307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Verfahrensbeteiligte und zentrale Stelle
+[Direktlink](https://www.gesetze-im-internet.de/pauschav/BJNR064410004.html#BJNR064410004BJNE000101126)
 
 (1) Krankenkassen und Spitzenverbände der Krankenkassen im Sinne
 dieser Verordnung sind die in § 4 Abs. 2 und § 213 Abs. 1 des Fünften
@@ -33,6 +34,7 @@ Abs. 1 Satz 2 des Fünften Buches Sozialgesetzbuch ist, erfolgt bis zum
 
 
 ## § 2 Zu berücksichtigende Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/pauschav/BJNR064410004.html#BJNR064410004BJNE000200000)
 
 (1) Als Ausgaben für versicherungsfremde Leistungen im Sinne dieser
 Verordnung sind die in der Anlage aufgeführten Ausgaben zu
@@ -50,6 +52,7 @@ Summe für die Berechnung der Verteilung auf die Krankenkassen.
 
 
 ## § 3 Verteilungsquote
+[Direktlink](https://www.gesetze-im-internet.de/pauschav/BJNR064410004.html#BJNR064410004BJNE000301126)
 
 (1) Das Bundesamt für Soziale Sicherung legt die Verteilungsquote für
 die nach § 221 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch vom
@@ -83,6 +86,7 @@ macht die Verteilungsquote im Bundesanzeiger bekannt.
 
 
 ## § 4 Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pauschav/BJNR064410004.html#BJNR064410004BJNE000401126)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt für jede
 Krankenkasse die Höhe des Jahresabgeltungsbetrages, indem die in § 2
@@ -124,6 +128,7 @@ vereinfachen.
 
 
 ## § 5 Korrekturverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pauschav/BJNR064410004.html#BJNR064410004BJNE000501126)
 
 Werden nach Abschluss der Ermittlung der Werte nach § 4 Abs. 1
 sachliche oder rechnerische Fehler in den Berechnungsgrundlagen
@@ -134,6 +139,7 @@ Krankenkassen.
 
 
 ## Anlage (zu § 2 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/pauschav/BJNR064410004.html#BJNR064410004BJNE000600000)
 
 (Fundstelle: BGBl. I 2004, 645)
 

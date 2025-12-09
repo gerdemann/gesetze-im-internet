@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000000000)
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), die
@@ -35,6 +36,7 @@ Justiz:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000101128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Rechtsfachwirt/zur
@@ -76,6 +78,7 @@ folgende Aufgaben wahrnehmen:
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000200000)
 
 (1) Zur schriftlichen Prüfung gemäß § 3 Abs. 2 ist zuzulassen, wer
 
@@ -106,6 +109,7 @@ Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000301128)
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche:
 
@@ -157,6 +161,7 @@ gewähren.
 
 
 ## § 4 Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000404128)
 
 (1) Im Handlungsbereich "Büroorganisation und Verwaltung" soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist, ein Anwaltsbüro
@@ -383,6 +388,7 @@ können geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000501128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -394,6 +400,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000601128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -406,6 +413,7 @@ nach § 3 Absatz 3 zu bewerten.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE001300128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -438,6 +446,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE001400128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -464,6 +473,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000701128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -479,6 +489,7 @@ zu berücksichtigen.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000801128)
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende
@@ -490,6 +501,7 @@ findet insoweit keine Anwendung.
 
 
 ## § 11 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE000901128)
 
 Wer die Prüfung zum Geprüften Rechtsfachwirt/zur Geprüften
 Rechtsfachwirtin nach dieser Verordnung bestanden hat, ist vom
@@ -499,12 +511,14 @@ befreit.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE001001128)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE001102128)
 
 (Fundstelle: BGBl. I 2019, 2221 - 2222)
 
@@ -806,6 +820,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/rechtsfachwprv/BJNR225000001.html#BJNR225000001BJNE001202128)
 
 (Fundstelle: BGBl. I 2019, 2222 - 2223)
 

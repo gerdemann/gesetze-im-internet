@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbschichtzulerhv/BJNR233700015.html#BJNR233700015BJNE000100000)
 
 Auf Grund des § 47 Absatz 1 und 2 Nummer 1 des
 Bundesbesoldungsgesetzes in Verbindung mit § 24 Absatz 2 Satz 1 und 2
@@ -45,6 +46,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Schichtzulage
+[Direktlink](https://www.gesetze-im-internet.de/dbschichtzulerhv/BJNR233700015.html#BJNR233700015BJNE000200000)
 
 (1) Die Zulage nach § 20 Absatz 5 Satz 1 der
 Erschwerniszulagenverordnung in der bis zum 30. September 2013
@@ -158,6 +160,7 @@ Fassung betragen ab dem 1. Januar 2015:
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbschichtzulerhv/BJNR233700015.html#BJNR233700015BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2015 in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE001500314)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres 1949
@@ -34,6 +35,7 @@ Bundesgesetzblatt veröffentlicht:
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE001601305)
 
 Im Bewußtsein seiner Verantwortung vor Gott und den Menschen,
 von dem Willen beseelt, als gleichberechtigtes Glied in einem
@@ -50,10 +52,12 @@ Volk.
 
 
 ## I. - Die Grundrechte
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000100314)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE001700314)
 
 (1) Die Würde des Menschen ist unantastbar. Sie zu achten und zu
 schützen ist Verpflichtung aller staatlichen Gewalt.
@@ -67,6 +71,7 @@ Gewalt und Rechtsprechung als unmittelbar geltendes Recht.
 
 
 ### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE001800314)
 
 (1) Jeder hat das Recht auf die freie Entfaltung seiner
 Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht
@@ -78,6 +83,7 @@ Grund eines Gesetzes eingegriffen werden.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE001901307)
 
 (1) Alle Menschen sind vor dem Gesetz gleich.
 
@@ -93,6 +99,7 @@ werden.
 
 
 ### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002000314)
 
 (1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des
 religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
@@ -104,6 +111,7 @@ gezwungen werden. Das Nähere regelt ein Bundesgesetz.
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002100314)
 
 (1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei
 zu äußern und zu verbreiten und sich aus allgemein zugänglichen
@@ -120,6 +128,7 @@ Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002200314)
 
 (1) Ehe und Familie stehen unter dem besonderen Schutze der
 staatlichen Ordnung.
@@ -142,6 +151,7 @@ Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002300314)
 
 (1) Das gesamte Schulwesen steht unter der Aufsicht des Staates.
 
@@ -177,6 +187,7 @@ der Gemeinde nicht besteht.
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002400314)
 
 (1) Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis
 friedlich und ohne Waffen zu versammeln.
@@ -186,6 +197,7 @@ Gesetz oder auf Grund eines Gesetzes beschränkt werden.
 
 
 ### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002500314)
 
 (1) Alle Deutschen haben das Recht, Vereine und Gesellschaften zu
 bilden.
@@ -206,6 +218,7 @@ werden.
 
 
 ### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002600314)
 
 (1) Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind
 unverletzlich.
@@ -220,6 +233,7 @@ Organe und Hilfsorgane tritt.
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002700314)
 
 (1) Alle Deutschen genießen Freizügigkeit im ganzen Bundesgebiet.
 
@@ -235,6 +249,7 @@ strafbaren Handlungen vorzubeugen, erforderlich ist.
 
 
 ### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002800314)
 
 (1) Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und
 Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz
@@ -249,6 +264,7 @@ Freiheitsentziehung zulässig.
 
 
 ### Art 12a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE002901311)
 
 (1) Männer können vom vollendeten achtzehnten Lebensjahr an zum Dienst
 in den Streitkräften, im Bundesgrenzschutz oder in einem
@@ -303,6 +319,7 @@ Eintritt des Verteidigungsfalles gilt Absatz 5 Satz 1 entsprechend.
 
 
 ### Art 13
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003001301)
 
 (1) Die Wohnung ist unverletzlich.
 
@@ -355,6 +372,7 @@ Jugendlicher vorgenommen werden.
 
 
 ### Art 14
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003100314)
 
 (1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und
 Schranken werden durch die Gesetze bestimmt.
@@ -371,6 +389,7 @@ Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen.
 
 
 ### Art 15
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003200314)
 
 Grund und Boden, Naturschätze und Produktionsmittel können zum Zwecke
 der Vergesellschaftung durch ein Gesetz, das Art und Ausmaß der
@@ -380,6 +399,7 @@ Gemeinwirtschaft überführt werden. Für die Entschädigung gilt Artikel
 
 
 ### Art 16
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003302301)
 
 (1) Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Der
 Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und
@@ -394,6 +414,7 @@ gewahrt sind.
 
 
 ### Art 16a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019500305)
 
 (1) Politisch Verfolgte genießen Asylrecht.
 
@@ -438,6 +459,7 @@ treffen.
 
 
 ### Art 17
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003400314)
 
 Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit anderen
 schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und
@@ -445,6 +467,7 @@ an die Volksvertretung zu wenden.
 
 
 ### Art 17a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003500314)
 
 (1) Gesetze über Wehrdienst und Ersatzdienst können bestimmen, daß für
 die Angehörigen der Streitkräfte und des Ersatzdienstes während der
@@ -462,6 +485,7 @@ Freizügigkeit (Artikel 11) und der Unverletzlichkeit der Wohnung
 
 
 ### Art 18
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003601305)
 
 Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit
 (Artikel 5 Abs. 1), die Lehrfreiheit (Artikel 5 Abs. 3), die
@@ -474,6 +498,7 @@ das Bundesverfassungsgericht ausgesprochen.
 
 
 ### Art 19
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003700314)
 
 (1) Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder
 auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz
@@ -493,10 +518,12 @@ gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.
 
 
 ## II. - Der Bund und die Länder
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000200314)
 
 
 
 ### Art 20
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003800314)
 
 (1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer
 Bundesstaat.
@@ -515,6 +542,7 @@ möglich ist.
 
 
 ### Art 20a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020101377)
 
 Der Staat schützt auch in Verantwortung für die künftigen Generationen
 die natürlichen Lebensgrundlagen und die Tiere im Rahmen der
@@ -523,6 +551,7 @@ Gesetz und Recht durch die vollziehende Gewalt und die Rechtsprechung.
 
 
 ### Art 21
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE003902311)
 
 (1) Die Parteien wirken bei der politischen Willensbildung des Volkes
 mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen
@@ -550,6 +579,7 @@ das Bundesverfassungsgericht.
 
 
 ### Art 22
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004001377)
 
 (1) Die Hauptstadt der Bundesrepublik Deutschland ist Berlin. Die
 Repräsentation des Gesamtstaates in der Hauptstadt ist Aufgabe des
@@ -559,6 +589,7 @@ Bundes. Das Nähere wird durch Bundesgesetz geregelt.
 
 
 ### Art 23
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004104160)
 
 (1) Zur Verwirklichung eines vereinten Europas wirkt die
 Bundesrepublik Deutschland bei der Entwicklung der Europäischen Union
@@ -625,6 +656,7 @@ Zustimmung des Bundesrates bedarf.
 
 
 ### Art 24
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004201333)
 
 (1) Der Bund kann durch Gesetz Hoheitsrechte auf zwischenstaatliche
 Einrichtungen übertragen.
@@ -646,6 +678,7 @@ internationale Schiedsgerichtsbarkeit beitreten.
 
 
 ### Art 25
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004300314)
 
 Die allgemeinen Regeln des Völkerrechtes sind Bestandteil des
 Bundesrechtes. Sie gehen den Gesetzen vor und erzeugen Rechte und
@@ -653,6 +686,7 @@ Pflichten unmittelbar für die Bewohner des Bundesgebietes.
 
 
 ### Art 26
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004400314)
 
 (1) Handlungen, die geeignet sind und in der Absicht vorgenommen
 werden, das friedliche Zusammenleben der Völker zu stören,
@@ -665,12 +699,14 @@ Das Nähere regelt ein Bundesgesetz.
 
 
 ### Art 27
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004500314)
 
 Alle deutschen Kauffahrteischiffe bilden eine einheitliche
 Handelsflotte.
 
 
 ### Art 28
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004603307)
 
 (1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen
 des republikanischen, demokratischen und sozialen Rechtsstaates im
@@ -698,6 +734,7 @@ entspricht.
 
 
 ### Art 29
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004701307)
 
 (1) Das Bundesgebiet kann neu gegliedert werden, um zu gewährleisten,
 daß die Länder nach Größe und Leistungsfähigkeit die ihnen obliegenden
@@ -781,6 +818,7 @@ Bundestages.
 
 
 ### Art 30
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004800314)
 
 Die Ausübung der staatlichen Befugnisse und die Erfüllung der
 staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz
@@ -788,11 +826,13 @@ keine andere Regelung trifft oder zuläßt.
 
 
 ### Art 31
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE004900314)
 
 Bundesrecht bricht Landesrecht.
 
 
 ### Art 32
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005000314)
 
 (1) Die Pflege der Beziehungen zu auswärtigen Staaten ist Sache des
 Bundes.
@@ -806,6 +846,7 @@ abschließen.
 
 
 ### Art 33
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005101377)
 
 (1) Jeder Deutsche hat in jedem Lande die gleichen staatsbürgerlichen
 Rechte und Pflichten.
@@ -830,6 +871,7 @@ fortzuentwickeln.
 
 
 ### Art 34
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005200314)
 
 Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes
 die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die
@@ -841,6 +883,7 @@ werden.
 
 
 ### Art 35
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005300314)
 
 (1) Alle Behörden des Bundes und der Länder leisten sich gegenseitig
 Rechts- und Amtshilfe.
@@ -868,6 +911,7 @@ aufzuheben.
 
 
 ### Art 36
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005400314)
 
 (1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern in
 angemessenem Verhältnis zu verwenden. Die bei den übrigen
@@ -879,6 +923,7 @@ ihre besonderen landsmannschaftlichen Verhältnisse zu berücksichtigen.
 
 
 ### Art 37
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005500314)
 
 (1) Wenn ein Land die ihm nach dem Grundgesetze oder einem anderen
 Bundesgesetze obliegenden Bundespflichten nicht erfüllt, kann die
@@ -892,10 +937,12 @@ Behörden.
 
 
 ## III. - Der Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000300314)
 
 
 
 ### Art 38
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005600314)
 
 (1) Die Abgeordneten des Deutschen Bundestages werden in allgemeiner,
 unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind
@@ -910,6 +957,7 @@ eintritt.
 
 
 ### Art 39
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005701307)
 
 (1) Der Bundestag wird vorbehaltlich der nachfolgenden Bestimmungen
 auf vier Jahre gewählt. Seine Wahlperiode endet mit dem Zusammentritt
@@ -928,6 +976,7 @@ Bundespräsident oder der Bundeskanzler es verlangen.
 
 
 ### Art 40
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005800314)
 
 (1) Der Bundestag wählt seinen Präsidenten, dessen Stellvertreter und
 die Schriftführer. Er gibt sich eine Geschäftsordnung.
@@ -938,6 +987,7 @@ Bundestages keine Durchsuchung oder Beschlagnahme stattfinden.
 
 
 ### Art 41
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE005900314)
 
 (1) Die Wahlprüfung ist Sache des Bundestages. Er entscheidet auch, ob
 ein Abgeordneter des Bundestages die Mitgliedschaft verloren hat.
@@ -949,6 +999,7 @@ Bundesverfassungsgericht zulässig.
 
 
 ### Art 42
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006000314)
 
 (1) Der Bundestag verhandelt öffentlich. Auf Antrag eines Zehntels
 seiner Mitglieder oder auf Antrag der Bundesregierung kann mit
@@ -966,6 +1017,7 @@ frei.
 
 
 ### Art 43
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006100314)
 
 (1) Der Bundestag und seine Ausschüsse können die Anwesenheit jedes
 Mitgliedes der Bundesregierung verlangen.
@@ -976,6 +1028,7 @@ Ausschüsse Zutritt. Sie müssen jederzeit gehört werden.
 
 
 ### Art 44
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006200314)
 
 (1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner
 Mitglieder die Pflicht, einen Untersuchungsausschuß einzusetzen, der
@@ -995,6 +1048,7 @@ Untersuchung zugrunde liegenden Sachverhaltes sind die Gerichte frei.
 
 
 ### Art 45
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006302160)
 
 Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der
 Europäischen Union. Er kann ihn ermächtigen, die Rechte des
@@ -1005,6 +1059,7 @@ Union eingeräumt sind.
 
 
 ### Art 45a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006400314)
 
 (1) Der Bundestag bestellt einen Ausschuß für auswärtige
 Angelegenheiten und einen Ausschuß für Verteidigung.
@@ -1019,6 +1074,7 @@ Anwendung.
 
 
 ### Art 45b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006500314)
 
 Zum Schutz der Grundrechte und als Hilfsorgan des Bundestages bei der
 Ausübung der parlamentarischen Kontrolle wird ein Wehrbeauftragter des
@@ -1026,6 +1082,7 @@ Bundestages berufen. Das Nähere regelt ein Bundesgesetz.
 
 
 ### Art 45c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006600314)
 
 (1) Der Bundestag bestellt einen Petitionsausschuß, dem die Behandlung
 der nach Artikel 17 an den Bundestag gerichteten Bitten und
@@ -1036,6 +1093,7 @@ regelt ein Bundesgesetz.
 
 
 ### Art 45d Parlamentarisches Kontrollgremium
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020800160)
 
 (1) Der Bundestag bestellt ein Gremium zur Kontrolle der
 nachrichtendienstlichen Tätigkeit des Bundes.
@@ -1044,6 +1102,7 @@ nachrichtendienstlichen Tätigkeit des Bundes.
 
 
 ### Art 46
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006700314)
 
 (1) Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung oder
 wegen einer Äußerung, die er im Bundestage oder in einem seiner
@@ -1067,6 +1126,7 @@ persönlichen Freiheit sind auf Verlangen des Bundestages auszusetzen.
 
 
 ### Art 47
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006800314)
 
 Die Abgeordneten sind berechtigt, über Personen, die ihnen in ihrer
 Eigenschaft als Abgeordnete oder denen sie in dieser Eigenschaft
@@ -1076,6 +1136,7 @@ ist die Beschlagnahme von Schriftstücken unzulässig.
 
 
 ### Art 48
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE006900314)
 
 (1) Wer sich um einen Sitz im Bundestage bewirbt, hat Anspruch auf den
 zur Vorbereitung seiner Wahl erforderlichen Urlaub.
@@ -1091,14 +1152,17 @@ Bundesgesetz.
 
 
 ### Art 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007000314)
 
 
 
 ## IV. - Der Bundesrat
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000400314)
 
 
 
 ### Art 50
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007101333)
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und
 Verwaltung des Bundes und in Angelegenheiten der Europäischen Union
@@ -1106,6 +1170,7 @@ mit.
 
 
 ### Art 51
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007201305)
 
 (1) Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder,
 die sie bestellen und abberufen. Sie können durch andere Mitglieder
@@ -1122,6 +1187,7 @@ anwesende Mitglieder oder deren Vertreter abgegeben werden.
 
 
 ### Art 52
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007302377)
 
 (1) Der Bundesrat wählt seinen Präsidenten auf ein Jahr.
 
@@ -1143,6 +1209,7 @@ Beauftragte der Regierungen der Länder angehören.
 
 
 ### Art 53
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007400314)
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen
 die Pflicht, an den Verhandlungen des Bundesrates und seiner
@@ -1152,10 +1219,12 @@ auf dem laufenden zu halten.
 
 
 ## IV a. - Gemeinsamer Ausschuß
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000500314)
 
 
 
 ### Art 53a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007500314)
 
 (1) Der Gemeinsame Ausschuß besteht zu zwei Dritteln aus Abgeordneten
 des Bundestages, zu einem Drittel aus Mitgliedern des Bundesrates. Die
@@ -1174,10 +1243,12 @@ unberührt.
 
 
 ## V. - Der Bundespräsident
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000600314)
 
 
 
 ### Art 54
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007600314)
 
 (1) Der Bundespräsident wird ohne Aussprache von der Bundesversammlung
 gewählt. Wählbar ist jeder Deutsche, der das Wahlrecht zum Bundestage
@@ -1208,6 +1279,7 @@ Wahlgang die meisten Stimmen auf sich vereinigt.
 
 
 ### Art 55
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007700314)
 
 (1) Der Bundespräsident darf weder der Regierung noch einer
 gesetzgebenden Körperschaft des Bundes oder eines Landes angehören.
@@ -1218,6 +1290,7 @@ eines auf Erwerb gerichteten Unternehmens angehören.
 
 
 ### Art 56
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007800314)
 
 Der Bundespräsident leistet bei seinem Amtsantritt vor den
 versammelten Mitgliedern des Bundestages und des Bundesrates folgenden
@@ -1235,6 +1308,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 
 ### Art 57
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE007900314)
 
 Die Befugnisse des Bundespräsidenten werden im Falle seiner
 Verhinderung oder bei vorzeitiger Erledigung des Amtes durch den
@@ -1242,6 +1316,7 @@ Präsidenten des Bundesrates wahrgenommen.
 
 
 ### Art 58
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008000314)
 
 Anordnungen und Verfügungen des Bundespräsidenten bedürfen zu ihrer
 Gültigkeit der Gegenzeichnung durch den Bundeskanzler oder durch den
@@ -1251,6 +1326,7 @@ Artikel 63 und das Ersuchen gemäß Artikel 69 Abs. 3.
 
 
 ### Art 59
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008100314)
 
 (1) Der Bundespräsident vertritt den Bund völkerrechtlich. Er schließt
 im Namen des Bundes die Verträge mit auswärtigen Staaten. Er
@@ -1265,10 +1341,12 @@ die Bundesverwaltung entsprechend.
 
 
 ### Art 59a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008200314)
 
 
 
 ### Art 60
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008300314)
 
 (1) Der Bundespräsident ernennt und entläßt die Bundesrichter, die
 Bundesbeamten, die Offiziere und Unteroffiziere, soweit gesetzlich
@@ -1283,6 +1361,7 @@ Bundespräsidenten entsprechende Anwendung.
 
 
 ### Art 61
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008400314)
 
 (1) Der Bundestag oder der Bundesrat können den Bundespräsidenten
 wegen vorsätzlicher Verletzung des Grundgesetzes oder eines anderen
@@ -1302,16 +1381,19 @@ Anklage bestimmen, daß er an der Ausübung seines Amtes verhindert ist.
 
 
 ## VI. - Die Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000700314)
 
 
 
 ### Art 62
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008500314)
 
 Die Bundesregierung besteht aus dem Bundeskanzler und aus den
 Bundesministern.
 
 
 ### Art 63
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008600314)
 
 (1) Der Bundeskanzler wird auf Vorschlag des Bundespräsidenten vom
 Bundestage ohne Aussprache gewählt.
@@ -1335,6 +1417,7 @@ aufzulösen.
 
 
 ### Art 64
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008700314)
 
 (1) Die Bundesminister werden auf Vorschlag des Bundeskanzlers vom
 Bundespräsidenten ernannt und entlassen.
@@ -1344,6 +1427,7 @@ Amtsübernahme vor dem Bundestage den in Artikel 56 vorgesehenen Eid.
 
 
 ### Art 65
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008800314)
 
 Der Bundeskanzler bestimmt die Richtlinien der Politik und trägt dafür
 die Verantwortung. Innerhalb dieser Richtlinien leitet jeder
@@ -1355,6 +1439,7 @@ und vom Bundespräsidenten genehmigten Geschäftsordnung.
 
 
 ### Art 65a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019300314)
 
 (1) Der Bundesminister für Verteidigung hat die Befehls- und
 Kommandogewalt über die Streitkräfte.
@@ -1363,6 +1448,7 @@ Kommandogewalt über die Streitkräfte.
 
 
 ### Art 66
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE008900314)
 
 Der Bundeskanzler und die Bundesminister dürfen kein anderes
 besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der
@@ -1371,6 +1457,7 @@ auf Erwerb gerichteten Unternehmens angehören.
 
 
 ### Art 67
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009000314)
 
 (1) Der Bundestag kann dem Bundeskanzler das Mißtrauen nur dadurch
 aussprechen, daß er mit der Mehrheit seiner Mitglieder einen
@@ -1383,6 +1470,7 @@ liegen.
 
 
 ### Art 68
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009100314)
 
 (1) Findet ein Antrag des Bundeskanzlers, ihm das Vertrauen
 auszusprechen, nicht die Zustimmung der Mehrheit der Mitglieder des
@@ -1396,6 +1484,7 @@ Stunden liegen.
 
 
 ### Art 69
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009200314)
 
 (1) Der Bundeskanzler ernennt einen Bundesminister zu seinem
 Stellvertreter.
@@ -1412,10 +1501,12 @@ Nachfolgers weiterzuführen.
 
 
 ## VII. - Die Gesetzgebung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000800314)
 
 
 
 ### Art 70
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009300314)
 
 (1) Die Länder haben das Recht der Gesetzgebung, soweit dieses
 Grundgesetz nicht dem Bunde Gesetzgebungsbefugnisse verleiht.
@@ -1426,6 +1517,7 @@ ausschließliche und die konkurrierende Gesetzgebung.
 
 
 ### Art 71
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009400314)
 
 Im Bereiche der ausschließlichen Gesetzgebung des Bundes haben die
 Länder die Befugnis zur Gesetzgebung nur, wenn und soweit sie hierzu
@@ -1433,6 +1525,7 @@ in einem Bundesgesetze ausdrücklich ermächtigt werden.
 
 
 ### Art 72
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009503377)
 
 (1) Im Bereich der konkurrierenden Gesetzgebung haben die Länder die
 Befugnis zur Gesetzgebung, solange und soweit der Bund von seiner
@@ -1483,6 +1576,7 @@ Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
 
 
 ### Art 73
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009603377)
 
 (1) Der Bund hat die ausschließliche Gesetzgebung über:
 
@@ -1584,6 +1678,7 @@ Bundesrates.
 
 
 ### Art 74
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009703377)
 
 (1) Die konkurrierende Gesetzgebung erstreckt sich auf folgende
 Gebiete:
@@ -1736,10 +1831,12 @@ Bundesrates.
 
 
 ### (XXXX) Art 74a und 75 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE009801377)
 
 
 
 ### Art 76
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010001307)
 
 (1) Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung,
 aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
@@ -1775,6 +1872,7 @@ Vorlagen in angemessener Frist zu beraten und Beschluß zu fassen.
 
 
 ### Art 77
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010101307)
 
 (1) Die Bundesgesetze werden vom Bundestage beschlossen. Sie sind nach
 ihrer Annahme durch den Präsidenten des Bundestages unverzüglich dem
@@ -1818,6 +1916,7 @@ Bundestages.
 
 
 ### Art 78
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010200314)
 
 Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der
 Bundesrat zustimmt, den Antrag gemäß Artikel 77 Abs. 2 nicht stellt,
@@ -1827,6 +1926,7 @@ wird.
 
 
 ### Art 79
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010300314)
 
 (1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den
 Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt. Bei
@@ -1850,6 +1950,7 @@ Grundsätze berührt werden, ist unzulässig.
 
 
 ### Art 80
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010403307)
 
 (1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder
 die Landesregierungen ermächtigt werden, Rechtsverordnungen zu
@@ -1879,6 +1980,7 @@ sind die Länder zu einer Regelung auch durch Gesetz befugt.
 
 
 ### Art 80a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010500314)
 
 (1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über die
 Verteidigung einschließlich des Schutzes der Zivilbevölkerung
@@ -1903,6 +2005,7 @@ mit der Mehrheit seiner Mitglieder verlangt.
 
 
 ### Art 81
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010600314)
 
 (1) Wird im Falle des Artikels 68 der Bundestag nicht aufgelöst, so
 kann der Bundespräsident auf Antrag der Bundesregierung mit Zustimmung
@@ -1932,6 +2035,7 @@ Anwendung gesetzt werden.
 
 
 ### Art 82
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010701377)
 
 (1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen
 Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt
@@ -1948,16 +2052,19 @@ Bundesgesetzblatt ausgegeben worden ist.
 
 
 ## VIII. - Die Ausführung der Bundesgesetze und die Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG000900314)
 
 
 
 ### Art 83
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010800314)
 
 Die Länder führen die Bundesgesetze als eigene Angelegenheit aus,
 soweit dieses Grundgesetz nichts anderes bestimmt oder zuläßt.
 
 
 ### Art 84
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE010901377)
 
 (1) Führen die Länder die Bundesgesetze als eigene Angelegenheit aus,
 so regeln sie die Einrichtung der Behörden und das
@@ -1999,6 +2106,7 @@ an die obersten Landesbehörden zu richten.
 
 
 ### Art 85
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011001377)
 
 (1) Führen die Länder die Bundesgesetze im Auftrage des Bundes aus, so
 bleibt die Einrichtung der Behörden Angelegenheit der Länder, soweit
@@ -2024,6 +2132,7 @@ allen Behörden entsenden.
 
 
 ### Art 86
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011100314)
 
 Führt der Bund die Gesetze durch bundeseigene Verwaltung oder durch
 bundesunmittelbare Körperschaften oder Anstalten des öffentlichen
@@ -2034,6 +2143,7 @@ Behörden.
 
 
 ### Art 87
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011203307)
 
 (1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden
 geführt der Auswärtige Dienst, die Bundesfinanzverwaltung und nach
@@ -2067,6 +2177,7 @@ Bundestages errichtet werden.
 
 
 ### Art 87a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011301377)
 
 (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre
 zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich
@@ -2103,6 +2214,7 @@ Bundestag oder der Bundesrat es verlangen.
 
 
 ### Art 87b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011400314)
 
 (1) Die Bundeswehrverwaltung wird in bundeseigener Verwaltung mit
 eigenem Verwaltungsunterbau geführt. Sie dient den Aufgaben des
@@ -2130,6 +2242,7 @@ Zustimmung des Bundesrates bedürfen.
 
 
 ### Art 87c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011501377)
 
 Gesetze, die auf Grund des Artikels 73 Abs. 1 Nr. 14 ergehen, können
 mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im
@@ -2137,6 +2250,7 @@ Auftrage des Bundes ausgeführt werden.
 
 
 ### Art 87d
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011602160)
 
 (1) Die Luftverkehrsverwaltung wird in Bundesverwaltung geführt.
 Aufgaben der Flugsicherung können auch durch ausländische
@@ -2150,6 +2264,7 @@ Auftragsverwaltung übertragen werden.
 
 
 ### Art 87e
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019600307)
 
 (1) Die Eisenbahnverkehrsverwaltung für Eisenbahnen des Bundes wird in
 bundeseigener Verwaltung geführt. Durch Bundesgesetz können Aufgaben
@@ -2186,6 +2301,7 @@ den Schienenpersonennahverkehr haben.
 
 
 ### Art 87f
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019900307)
 
 (1) Nach Maßgabe eines Bundesgesetzes, das der Zustimmung des
 Bundesrates bedarf, gewährleistet der Bund im Bereich des Postwesens
@@ -2206,6 +2322,7 @@ hervorgegangenen Unternehmen nach Maßgabe eines Bundesgesetzes aus.
 
 
 ### Art 88
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011701333)
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank. Ihre
 Aufgaben und Befugnisse können im Rahmen der Europäischen Union der
@@ -2214,6 +2331,7 @@ vorrangigen Ziel der Sicherung der Preisstabilität verpflichtet.
 
 
 ### Art 89
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011800314)
 
 (1) Der Bund ist Eigentümer der bisherigen Reichswasserstraßen.
 
@@ -2232,6 +2350,7 @@ Einvernehmen mit den Ländern zu wahren.
 
 
 ### Art 90
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE011901311)
 
 (1) Der Bund bleibt Eigentümer der Bundesautobahnen und sonstigen
 Bundesstraßen des Fernverkehrs. Das Eigentum ist unveräußerlich.
@@ -2257,6 +2376,7 @@ Bundesverwaltung übernehmen.
 
 
 ### Art 91
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012000314)
 
 (1) Zur Abwehr einer drohenden Gefahr für den Bestand oder die
 freiheitliche demokratische Grundordnung des Bundes oder eines Landes
@@ -2277,10 +2397,12 @@ unberührt.
 
 
 ## VIIIa. - Gemeinschaftsaufgaben, Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG001001160)
 
 
 
 ### Art 91a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012101377)
 
 (1) Der Bund wirkt auf folgenden Gebieten bei der Erfüllung von
 Aufgaben der Länder mit, wenn diese Aufgaben für die Gesamtheit
@@ -2308,6 +2430,7 @@ Haushaltsplänen des Bundes und der Länder vorbehalten.
 
 
 ### Art 91b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012202377)
 
 (1) Bund und Länder können auf Grund von Vereinbarungen in Fällen
 überregionaler Bedeutung bei der Förderung von Wissenschaft, Forschung
@@ -2325,6 +2448,7 @@ Empfehlungen zusammenwirken.
 
 
 ### Art 91c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020901311)
 
 (1) Bund und Länder können bei der Planung, der Errichtung und dem
 Betrieb der für ihre Aufgabenerfüllung benötigten
@@ -2357,6 +2481,7 @@ Zustimmung des Bundesrates geregelt.
 
 
 ### Art 91d
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021000160)
 
 Bund und Länder können zur Feststellung und Förderung der
 Leistungsfähigkeit ihrer Verwaltungen Vergleichsstudien durchführen
@@ -2364,6 +2489,7 @@ und die Ergebnisse veröffentlichen.
 
 
 ### Art 91e
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021300140)
 
 (1) Bei der Ausführung von Bundesgesetzen auf dem Gebiet der
 Grundsicherung für Arbeitsuchende wirken Bund und Länder oder die nach
@@ -2382,10 +2508,12 @@ Bundesrates bedarf.
 
 
 ## IX. - Die Rechtsprechung
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG001100314)
 
 
 
 ### Art 92
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012300314)
 
 Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch
 das Bundesverfassungsgericht, durch die in diesem Grundgesetze
@@ -2394,6 +2522,7 @@ ausgeübt.
 
 
 ### Art 93
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012405377)
 
 (1) Das Bundesverfassungsgericht ist ein allen übrigen
 Verfassungsorganen gegenüber selbständiger und unabhängiger
@@ -2426,6 +2555,7 @@ besonderes Annahmeverfahren vorsehen.
 
 
 ### Art 94
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012501377)
 
 (1) Das Bundesverfassungsgericht entscheidet:
 
@@ -2503,6 +2633,7 @@ Entscheidungen Gesetzeskraft haben.
 
 
 ### Art 95
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012600314)
 
 (1) Für die Gebiete der ordentlichen, der Verwaltungs-, der Finanz-,
 der Arbeits- und der Sozialgerichtsbarkeit errichtet der Bund als
@@ -2522,6 +2653,7 @@ Nähere regelt ein Bundesgesetz.
 
 
 ### Art 96
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012701377)
 
 (1) Der Bund kann für Angelegenheiten des gewerblichen Rechtsschutzes
 ein Bundesgericht errichten.
@@ -2566,6 +2698,7 @@ der Länder Gerichtsbarkeit des Bundes ausüben:
 
 
 ### Art 97
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012800314)
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 
@@ -2582,6 +2715,7 @@ Amte entfernt werden, jedoch nur unter Belassung des vollen Gehaltes.
 
 
 ### Art 98
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE012901377)
 
 (1) Die Rechtsstellung der Bundesrichter ist durch besonderes
 Bundesgesetz zu regeln.
@@ -2609,6 +2743,7 @@ Bundesverfassungsgericht zu.
 
 
 ### Art 99
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013000314)
 
 Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung
 von Verfassungsstreitigkeiten innerhalb eines Landes, den in Artikel
@@ -2618,6 +2753,7 @@ sich um die Anwendung von Landesrecht handelt.
 
 
 ### Art 100
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013100314)
 
 (1) Hält ein Gericht ein Gesetz, auf dessen Gültigkeit es bei der
 Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren
@@ -2643,6 +2779,7 @@ einzuholen.
 
 
 ### Art 101
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013200314)
 
 (1) Ausnahmegerichte sind unzulässig. Niemand darf seinem gesetzlichen
 Richter entzogen werden.
@@ -2652,11 +2789,13 @@ errichtet werden.
 
 
 ### Art 102
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013300314)
 
 Die Todesstrafe ist abgeschafft.
 
 
 ### Art 103
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013400314)
 
 (1) Vor Gericht hat jedermann Anspruch auf rechtliches Gehör.
 
@@ -2668,6 +2807,7 @@ Strafgesetze mehrmals bestraft werden.
 
 
 ### Art 104
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013500314)
 
 (1) Die Freiheit der Person kann nur auf Grund eines förmlichen
 Gesetzes und nur unter Beachtung der darin vorgeschriebenen Formen
@@ -2696,10 +2836,12 @@ benachrichtigen.
 
 
 ## X. - Das Finanzwesen
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG001200314)
 
 
 
 ### Art 104a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013602377)
 
 (1) Der Bund und die Länder tragen gesondert die Ausgaben, die sich
 aus der Wahrnehmung ihrer Aufgaben ergeben, soweit dieses Grundgesetz
@@ -2742,6 +2884,7 @@ regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.
 
 
 ### Art 104b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020403311)
 
 (1) Der Bund kann, soweit dieses Grundgesetz ihm
 Gesetzgebungsbefugnisse verleiht, den Ländern Finanzhilfen für
@@ -2787,6 +2930,7 @@ unterrichten.
 
 
 ### Art 104c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021401311)
 
 Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame
 Investitionen sowie besondere, mit diesen unmittelbar verbundene,
@@ -2799,6 +2943,7 @@ die Vorlage von Akten verlangen.
 
 
 ### Art 104d
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021800311)
 
 Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame
 Investitionen der Länder und Gemeinden (Gemeindeverbände) im Bereich
@@ -2807,6 +2952,7 @@ sowie Absatz 3 gilt entsprechend.
 
 
 ### Art 105
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013702377)
 
 (1) Der Bund hat die ausschließliche Gesetzgebung über die Zölle und
 Finanzmonopole.
@@ -2827,6 +2973,7 @@ der Zustimmung des Bundesrates.
 
 
 ### Art 106
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013803160)
 
 (1) Der Ertrag der Finanzmonopole und das Aufkommen der folgenden
 Steuern stehen dem Bund zu:
@@ -2972,6 +3119,7 @@ gelten auch die Einnahmen und Ausgaben der Gemeinden
 
 
 ### Art 106a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019700307)
 
 Den Ländern steht ab 1. Januar 1996 für den öffentlichen
 Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes zu.
@@ -2981,6 +3129,7 @@ Finanzkraft nach Artikel 107 Abs. 2 unberücksichtigt.
 
 
 ### Art 106b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020801160)
 
 Den Ländern steht ab dem 1. Juli 2009 infolge der Übertragung der
 Kraftfahrzeugsteuer auf den Bund ein Betrag aus dem Steueraufkommen
@@ -2989,6 +3138,7 @@ des Bundesrates bedarf.
 
 
 ### Art 107
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE013903311)
 
 (1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen
 der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen
@@ -3027,6 +3177,7 @@ Artikel 91b ihre Einwohneranteile unterschreiten.
 
 
 ### Art 108
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014003311)
 
 (1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten
 Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer, die
@@ -3087,6 +3238,7 @@ obliegt.
 
 
 ### Art 109
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014103126)
 
 (1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und
 voneinander unabhängig.
@@ -3143,6 +3295,7 @@ Zustimmung des Bundesrates bedarf.
 
 
 ### Art 109a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021101311)
 
 (1) Zur Vermeidung von Haushaltsnotlagen regelt ein Bundesgesetz, das
 der Zustimmung des Bundesrates bedarf,
@@ -3172,6 +3325,7 @@ Beratungsunterlagen sind zu veröffentlichen.
 
 
 ### Art 110
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014200314)
 
 (1) Alle Einnahmen und Ausgaben des Bundes sind in den Haushaltsplan
 einzustellen; bei Bundesbetrieben und bei Sondervermögen brauchen nur
@@ -3200,6 +3354,7 @@ Artikel 115 zu einem späteren Zeitpunkt außer Kraft treten.
 
 
 ### Art 111
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014300314)
 
 (1) Ist bis zum Schluß eines Rechnungsjahres der Haushaltsplan für das
 folgende Jahr nicht durch Gesetz festgestellt, so ist bis zu seinem
@@ -3229,6 +3384,7 @@ Wege des Kredits flüssig machen.
 
 
 ### Art 112
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014400314)
 
 Überplanmäßige und außerplanmäßige Ausgaben bedürfen der Zustimmung
 des Bundesministers der Finanzen. Sie darf nur im Falle eines
@@ -3237,6 +3393,7 @@ Näheres kann durch Bundesgesetz bestimmt werden.
 
 
 ### Art 113
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014500314)
 
 (1) Gesetze, welche die von der Bundesregierung vorgeschlagenen
 Ausgaben des Haushaltsplanes erhöhen oder neue Ausgaben in sich
@@ -3260,6 +3417,7 @@ die Zustimmung als erteilt.
 
 
 ### Art 114
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014601311)
 
 (1) Der Bundesminister der Finanzen hat dem Bundestage und dem
 Bundesrate über alle Einnahmen und Ausgaben sowie über das Vermögen
@@ -3280,6 +3438,7 @@ geregelt.
 
 
 ### Art 115
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014702126)
 
 (1) Die Aufnahme von Krediten sowie die Übernahme von Bürgschaften,
 Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in
@@ -3325,10 +3484,12 @@ erfolgen.
 
 
 ## X a. - Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG001300314)
 
 
 
 ### Art 115a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014800314)
 
 (1) Die Feststellung, daß das Bundesgebiet mit Waffengewalt
 angegriffen wird oder ein solcher Angriff unmittelbar droht
@@ -3365,12 +3526,14 @@ Gemeinsame Ausschuß.
 
 
 ### Art 115b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE014900314)
 
 Mit der Verkündung des Verteidigungsfalles geht die Befehls- und
 Kommandogewalt über die Streitkräfte auf den Bundeskanzler über.
 
 
 ### Art 115c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015000314)
 
 (1) Der Bund hat für den Verteidigungsfall das Recht der
 konkurrierenden Gesetzgebung auch auf den Sachgebieten, die zur
@@ -3406,6 +3569,7 @@ Verteidigungsfalles angewandt werden.
 
 
 ### Art 115d
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015100314)
 
 (1) Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle
 abweichend von Artikel 76 Abs. 2, Artikel 77 Abs. 1 Satz 2 und Abs. 2
@@ -3426,6 +3590,7 @@ entsprechend.
 
 
 ### Art 115e
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015201333)
 
 (1) Stellt der Gemeinsame Ausschuß im Verteidigungsfalle mit einer
 Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens mit der
@@ -3443,6 +3608,7 @@ Ausschuß nicht befugt.
 
 
 ### Art 115f
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015300314)
 
 (1) Die Bundesregierung kann im Verteidigungsfalle, soweit es die
 Verhältnisse erfordern,
@@ -3463,6 +3629,7 @@ von den nach Absatz 1 getroffenen Maßnahmen zu unterrichten.
 
 
 ### Art 115g
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015400314)
 
 Die verfassungsmäßige Stellung und die Erfüllung der
 verfassungsmäßigen Aufgaben des Bundesverfassungsgerichtes und seiner
@@ -3478,6 +3645,7 @@ mit der Mehrheit der anwesenden Richter.
 
 
 ### Art 115h
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015500314)
 
 (1) Während des Verteidigungsfalles ablaufende Wahlperioden des
 Bundestages oder der Volksvertretungen der Länder enden sechs Monate
@@ -3501,6 +3669,7 @@ Bundestages ausgeschlossen.
 
 
 ### Art 115i
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015600314)
 
 (1) Sind die zuständigen Bundesorgane außerstande, die notwendigen
 Maßnahmen zur Abwehr der Gefahr zu treffen, und erfordert die Lage
@@ -3516,6 +3685,7 @@ durch die Ministerpräsidenten der Länder, jederzeit aufgehoben werden.
 
 
 ### Art 115k
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015700314)
 
 (1) Für die Dauer ihrer Anwendbarkeit setzen Gesetze nach den Artikeln
 115c, 115e und 115g und Rechtsverordnungen, die auf Grund solcher
@@ -3538,6 +3708,7 @@ geändert werden, um zu der Regelung gemäß den Abschnitten VIIIa und X
 
 
 ### Art 115l
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015800314)
 
 (1) Der Bundestag kann jederzeit mit Zustimmung des Bundesrates
 Gesetze des Gemeinsamen Ausschusses aufheben. Der Bundesrat kann
@@ -3557,10 +3728,12 @@ seine Feststellung nicht mehr gegeben sind.
 
 
 ## XI. - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNG001400314)
 
 
 
 ### Art 116
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE015900314)
 
 (1) Deutscher im Sinne dieses Grundgesetzes ist vorbehaltlich
 anderweitiger gesetzlicher Regelung, wer die deutsche
@@ -3579,6 +3752,7 @@ zum Ausdruck gebracht haben.
 
 
 ### Art 117
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016000314)
 
 (1) Das dem Artikel 3 Abs. 2 entgegenstehende Recht bleibt bis zu
 seiner Anpassung an diese Bestimmung des Grundgesetzes in Kraft,
@@ -3590,6 +3764,7 @@ durch Bundesgesetz in Kraft.
 
 
 ### Art 118
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016100314)
 
 Die Neugliederung in dem die Länder Baden, Württemberg-Baden und
 Württemberg-Hohenzollern umfassenden Gebiete kann abweichend von den
@@ -3600,6 +3775,7 @@ vorsehen muß.
 
 
 ### Art 118a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020200307)
 
 Die Neugliederung in dem die Länder Berlin und Brandenburg umfassenden
 Gebiet kann abweichend von den Vorschriften des Artikels 29 unter
@@ -3608,6 +3784,7 @@ erfolgen.
 
 
 ### Art 119
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016200314)
 
 In Angelegenheiten der Flüchtlinge und Vertriebenen, insbesondere zu
 ihrer Verteilung auf die Länder, kann bis zu einer bundesgesetzlichen
@@ -3619,6 +3796,7 @@ obersten Landesbehörden zu richten.
 
 
 ### Art 120
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016300314)
 
 (1) Der Bund trägt die Aufwendungen für Besatzungskosten und die
 sonstigen inneren und äußeren Kriegsfolgelasten nach näherer
@@ -3642,6 +3820,7 @@ dem der Bund die Ausgaben übernimmt.
 
 
 ### Art 120a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016400314)
 
 (1) Die Gesetze, die der Durchführung des Lastenausgleichs dienen,
 können mit Zustimmung des Bundesrates bestimmen, daß sie auf dem
@@ -3659,6 +3838,7 @@ zu richten.
 
 
 ### Art 121
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016500314)
 
 Mehrheit der Mitglieder des Bundestages und der Bundesversammlung im
 Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen
@@ -3666,6 +3846,7 @@ Mitgliederzahl.
 
 
 ### Art 122
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016600314)
 
 (1) Vom Zusammentritt des Bundestages an werden die Gesetze
 ausschließlich von den in diesem Grundgesetze anerkannten
@@ -3677,6 +3858,7 @@ diesem Zeitpunkt aufgelöst.
 
 
 ### Art 123
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016700314)
 
 (1) Recht aus der Zeit vor dem Zusammentritt des Bundestages gilt
 fort, soweit es dem Grundgesetze nicht widerspricht.
@@ -3692,12 +3874,14 @@ enthaltenen Bestimmungen anderweitig erfolgt.
 
 
 ### Art 124
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016800314)
 
 Recht, das Gegenstände der ausschließlichen Gesetzgebung des Bundes
 betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht.
 
 
 ### Art 125
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE016900314)
 
 Recht, das Gegenstände der konkurrierenden Gesetzgebung des Bundes
 betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht,
@@ -3714,6 +3898,7 @@ betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht,
 
 
 ### Art 125a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020301377)
 
 (1) Recht, das als Bundesrecht erlassen worden ist, aber wegen der
 Änderung des Artikels 74 Abs. 1, der Einfügung des Artikels 84 Abs. 1
@@ -3735,6 +3920,7 @@ werden.
 
 
 ### Art 125b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020501377)
 
 (1) Recht, das auf Grund des Artikels 75 in der bis zum 1. September
 2006 geltenden Fassung erlassen worden ist und das auch nach diesem
@@ -3761,6 +3947,7 @@ Zeiträume ab dem 1. Januar 2025 zugrunde gelegt werden.
 
 
 ### Art 125c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020602311)
 
 (1) Recht, das auf Grund des Artikels 91a Abs. 2 in Verbindung mit
 Abs. 1 Nr. 1 in der bis zum 1. September 2006 geltenden Fassung
@@ -3790,12 +3977,14 @@ Dezember 2019 in Kraft getretene Regelungen anzuwenden.
 
 
 ### Art 126
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017000314)
 
 Meinungsverschiedenheiten über das Fortgelten von Recht als
 Bundesrecht entscheidet das Bundesverfassungsgericht.
 
 
 ### Art 127
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017100314)
 
 Die Bundesregierung kann mit Zustimmung der Regierungen der
 beteiligten Länder Recht der Verwaltung des Vereinigten
@@ -3806,6 +3995,7 @@ Württemberg-Hohenzollern in Kraft setzen.
 
 
 ### Art 128
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017200314)
 
 Soweit fortgeltendes Recht Weisungsrechte im Sinne des Artikels 84
 Abs. 5 vorsieht, bleiben sie bis zu einer anderweitigen gesetzlichen
@@ -3813,6 +4003,7 @@ Regelung bestehen.
 
 
 ### Art 129
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017300314)
 
 (1) Soweit in Rechtsvorschriften, die als Bundesrecht fortgelten, eine
 Ermächtigung zum Erlasse von Rechtsverordnungen oder allgemeinen
@@ -3836,6 +4027,7 @@ mehr bestehende Einrichtungen verwiesen ist.
 
 
 ### Art 130
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017400314)
 
 (1) Verwaltungsorgane und sonstige der öffentlichen Verwaltung oder
 Rechtspflege dienende Einrichtungen, die nicht auf Landesrecht oder
@@ -3855,6 +4047,7 @@ Bundesbehörde.
 
 
 ### Art 131
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017500314)
 
 Die Rechtsverhältnisse von Personen einschließlich der Flüchtlinge und
 Vertriebenen, die am 8. Mai 1945 im öffentlichen Dienste standen, aus
@@ -3870,6 +4063,7 @@ Rechtsansprüche nicht geltend gemacht werden.
 
 
 ### Art 132
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017600314)
 
 (1) Beamte und Richter, die im Zeitpunkte des Inkrafttretens dieses
 Grundgesetzes auf Lebenszeit angestellt sind, können binnen sechs
@@ -3895,12 +4089,14 @@ Zustimmung des Bundesrates bedarf.
 
 
 ### Art 133
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017700314)
 
 Der Bund tritt in die Rechte und Pflichten der Verwaltung des
 Vereinigten Wirtschaftsgebietes ein.
 
 
 ### Art 134
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017800314)
 
 (1) Das Vermögen des Reiches wird grundsätzlich Bundesvermögen.
 
@@ -3923,6 +4119,7 @@ Bundesrates bedarf.
 
 
 ### Art 135
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE017900314)
 
 (1) Hat sich nach dem 8. Mai 1945 bis zum Inkrafttreten dieses
 Grundgesetzes die Landeszugehörigkeit eines Gebietes geändert, so
@@ -3965,6 +4162,7 @@ der Verfügung erfolgt.
 
 
 ### Art 135a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018001305)
 
 (1) Durch die in Artikel 134 Abs. 4 und Artikel 135 Abs. 5
 vorbehaltene Gesetzgebung des Bundes kann auch bestimmt werden, daß
@@ -4002,6 +4200,7 @@ Deutschen Demokratischen Republik oder ihrer Rechtsträger beruhen.
 
 
 ### Art 136
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018100314)
 
 (1) Der Bundesrat tritt erstmalig am Tage des ersten Zusammentrittes
 des Bundestages zusammen.
@@ -4012,6 +4211,7 @@ des Bundestages steht ihm nicht zu.
 
 
 ### Art 137
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018200314)
 
 (1) Die Wählbarkeit von Beamten, Angestellten des öffentlichen
 Dienstes, Berufssoldaten, freiwilligen Soldaten auf Zeit und Richtern
@@ -4029,6 +4229,7 @@ nach Maßgabe seiner Verfahrensordnung entscheidet.
 
 
 ### Art 138
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018300314)
 
 Änderungen der Einrichtungen des jetzt bestehenden Notariats in den
 Ländern Baden, Bayern, Württemberg-Baden und Württemberg-Hohenzollern
@@ -4036,6 +4237,7 @@ bedürfen der Zustimmung der Regierungen dieser Länder.
 
 
 ### Art 139
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018400314)
 
 Die zur "Befreiung des deutschen Volkes vom Nationalsozialismus und
 Militarismus" erlassenen Rechtsvorschriften werden von den
@@ -4043,18 +4245,21 @@ Bestimmungen dieses Grundgesetzes nicht berührt.
 
 
 ### Art 140
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018500314)
 
 Die Bestimmungen der Artikel 136, 137, 138, 139 und 141 der deutschen
 Verfassung vom 11. August 1919 sind Bestandteil dieses Grundgesetzes.
 
 
 ### Art 141
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018600314)
 
 Artikel 7 Abs. 3 Satz 1 findet keine Anwendung in einem Lande, in dem
 am 1. Januar 1949 eine andere landesrechtliche Regelung bestand.
 
 
 ### Art 142
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018700314)
 
 Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der
 Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung
@@ -4063,10 +4268,12 @@ gewährleisten.
 
 
 ### Art 142a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018800314)
 
 
 
 ### Art 143
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE018901305)
 
 (1) Recht in dem in Artikel 3 des Einigungsvertrags genannten Gebiet
 kann längstens bis zum 31. Dezember 1992 von Bestimmungen dieses
@@ -4087,6 +4294,7 @@ gemacht werden.
 
 
 ### Art 143a
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019800307)
 
 (1) Der Bund hat die ausschließliche Gesetzgebung über alle
 Angelegenheiten, die sich aus der Umwandlung der in bundeseigener
@@ -4108,6 +4316,7 @@ bedarf.
 
 
 ### Art 143b
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020000307)
 
 (1) Das Sondervermögen Deutsche Bundespost wird nach Maßgabe eines
 Bundesgesetzes in Unternehmen privater Rechtsform umgewandelt. Der
@@ -4129,6 +4338,7 @@ Dienstherrn bei den privaten Unternehmen beschäftigt. Die Unternehmen
 
 
 ### Art 143c
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE020700377)
 
 (1) Den Ländern stehen ab dem 1. Januar 2007 bis zum 31. Dezember 2019
 für den durch die Abschaffung der Gemeinschaftsaufgaben Ausbau und
@@ -4168,6 +4378,7 @@ Bundesrates bedarf.
 
 
 ### Art 143d
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021201311)
 
 (1) Artikel 109 und 115 in der bis zum 31. Juli 2009 geltenden Fassung
 sind letztmals auf das Haushaltsjahr 2010 anzuwenden. Artikel 109 und
@@ -4223,6 +4434,7 @@ Grund einer extremen Haushaltsnotlage ist ausgeschlossen.
 
 
 ### Art 143e
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021501311)
 
 (1) Die Bundesautobahnen werden abweichend von Artikel 90 Absatz 2
 längstens bis zum 31. Dezember 2020 in Auftragsverwaltung durch die
@@ -4246,6 +4458,7 @@ Voraussetzungen eine Rückübertragung erfolgen kann.
 
 
 ### Art 143f
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021600311)
 
 Artikel 143d, das Gesetz über den Finanzausgleich zwischen Bund und
 Ländern sowie sonstige auf der Grundlage von Artikel 107 Absatz 2 in
@@ -4262,6 +4475,7 @@ geben.
 
 
 ### Art 143g
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021700311)
 
 Für die Regelung der Steuerertragsverteilung, des
 Länderfinanzausgleichs und der Bundesergänzungszuweisungen bis zum 31.
@@ -4271,6 +4485,7 @@ Fassung weiter anzuwenden.
 
 
 ### Art 143h
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE021902126)
 
 (1) Der Bund kann ein Sondervermögen mit eigener Kreditermächtigung
 für zusätzliche Investitionen in die Infrastruktur und für zusätzliche
@@ -4294,6 +4509,7 @@ Bundesgesetz mit Zustimmung des Bundesrates.
 
 
 ### Art 144
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019000314)
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen
 in zwei Dritteln der deutschen Länder, in denen es zunächst gelten
@@ -4307,6 +4523,7 @@ Recht, gemäß Artikel 38 Vertreter in den Bundestag und gemäß Artikel
 
 
 ### Art 145
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019100314)
 
 (1) Der Parlamentarische Rat stellt in öffentlicher Sitzung unter
 Mitwirkung der Abgeordneten Groß-Berlins die Annahme dieses
@@ -4319,6 +4536,7 @@ Kraft.
 
 
 ### Art 146
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019201305)
 
 Dieses Grundgesetz, das nach Vollendung der Einheit und Freiheit
 Deutschlands für das gesamte deutsche Volk gilt, verliert seine
@@ -4327,6 +4545,7 @@ dem deutschen Volke in freier Entscheidung beschlossen worden ist.
 
 
 ### Anhang EV
+[Direktlink](https://www.gesetze-im-internet.de/gg/BJNR000010949.html#BJNR000010949BJNE019400305)
 
 - EinigVtr v. 31.8.1990 II 889, 890 - 892, -
 sieht folgende Maßgaben vor:

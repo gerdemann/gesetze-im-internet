@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000100310)
 
 Auf Grund des § 4 Abs. 1 und 2 des Gesetzes zum Schutz gegen Fluglärm
 vom 30. März 1971 (BGBl. I S. 282), von denen Abs. 1 durch Artikel 3
@@ -29,6 +30,7 @@ Verteidigung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000200310)
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
 erheblichen Belästigungen durch Fluglärm in der Umgebung des
@@ -37,6 +39,7 @@ Lärmschutzbereich festgesetzt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000300310)
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird nach Anlage 1
 bestimmt durch die interpolierten Verbindungslinien zwischen den
@@ -45,6 +48,7 @@ verlaufen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000400310)
 
 (1) Liegt eine bauliche Anlage zu einem Teil im Lärmschutzbereich, so
 gilt sie als ganz im Lärmschutzbereich gelegen. Liegt eine bauliche
@@ -56,6 +60,7 @@ entsprechend anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000500310)
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen
 Karte im Maßstab 1:50.000 und in Karten im Maßstab 1:5.000
@@ -67,16 +72,19 @@ archivmäßig gesichert niedergelegt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000600310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000700310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Spangdahlem vom 16. Februar 2000)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000800310)
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 129 - 136)
 
@@ -7075,6 +7083,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Spangdahlem vom 16. Februar 2000)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmspangv/BJNR012800000.html#BJNR012800000BJNE000900310)
 
    (Fundstelle: BGBl I 2000, 137 - 138)
 

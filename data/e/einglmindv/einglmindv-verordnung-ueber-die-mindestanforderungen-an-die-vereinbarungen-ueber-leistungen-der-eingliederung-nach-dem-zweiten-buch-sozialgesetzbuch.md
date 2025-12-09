@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000100000)
 
 Auf Grund des § 18 Abs. 4 in Verbindung mit § 18 Abs. 3 des Zweiten
 Buches Sozialgesetzbuch - Grundsicherung für Arbeitsuchende - (Artikel
@@ -29,6 +30,7 @@ für Wirtschaft und Arbeit:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000200000)
 
 Die Agenturen für Arbeit sollen mit Gemeinden, Kreisen und Bezirken
 ohne Vergabeverfahren auf deren Verlangen zur Durchführung der
@@ -39,6 +41,7 @@ die Vereinbarungen den Mindestanforderungen des § 2 entsprechen.
 
 
 ## § 2 Mindestanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000300000)
 
 Eine Vereinbarung über das Erbringen von Eingliederungsleistungen muss
 mindestens
@@ -62,6 +65,7 @@ beinhalten.
 
 
 ## § 3 Leistungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000400000)
 
 Die Leistungsvereinbarung muss die wesentlichen Leistungsmerkmale
 festlegen. Dies sind mindestens
@@ -86,6 +90,7 @@ festlegen. Dies sind mindestens
 
 
 ## § 4 Vergütungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000500000)
 
 Die Vergütungsvereinbarung muss den Grundsätzen der Wirtschaftlichkeit
 und Sparsamkeit entsprechen. Die Gemeinde, der Kreis oder der Bezirk
@@ -94,6 +99,7 @@ erbrachten Leistungen abzurechnen.
 
 
 ## § 5 Prüfungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000600000)
 
 Die Prüfungsvereinbarung muss mindestens das Recht der Agentur für
 Arbeit beinhalten, die Wirtschaftlichkeit und die Qualität der
@@ -116,6 +122,7 @@ zur Prüfung der Leistungen umfassen.
 
 
 ## § 6 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000700000)
 
 Eine Vereinbarung über das Erbringen von Eingliederungsleistungen muss
 mindestens die Verpflichtung der Gemeinde, des Kreises oder des
@@ -126,6 +133,7 @@ sind.
 
 
 ## § 7 Befristung
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000800000)
 
 Die Befristung darf fünf Jahre nicht übersteigen. Eine neue
 Vereinbarung darf nur abgeschlossen werden, wenn
@@ -146,6 +154,7 @@ Vereinbarung darf nur abgeschlossen werden, wenn
 
 
 ## § 8 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE000900000)
 
 Eine Vereinbarung über das Erbringen von Eingliederungsleistungen muss
 vorsehen, dass die Vereinbarung
@@ -163,6 +172,7 @@ gekündigt werden kann.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/einglmindv/BJNR276800004.html#BJNR276800004BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_6av/BJNR005510962.html#BJNR005510962BJNE000100308)
 
 Auf Grund des § 6a Abs. 1 Nr. 3 des Güterkraftverkehrsgesetzes (GüKG)
 vom 17. Oktober 1952 (Bundesgesetzbl. I S. 697) in der Fassung des
@@ -26,6 +27,7 @@ Vierten Änderungsgesetzes vom 1. August 1961 (Bundesgesetzbl. I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_6av/BJNR005510962.html#BJNR005510962BJNE000200308)
 
 Als wirtschaftlich schwach und verkehrsmäßig ungünstig gelegen werden
 anerkannt:
@@ -180,6 +182,7 @@ anerkannt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_6av/BJNR005510962.html#BJNR005510962BJNE000300308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 105 des
@@ -187,6 +190,7 @@ Güterkraftverkehrsgesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_6av/BJNR005510962.html#BJNR005510962BJNE000400308)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

@@ -33,11 +33,13 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## (XXXX) Art 1 bis Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gewebeg/BJNR157400007.html#BJNR157400007BJNE000100000)
 
 -
 
 
 ## Art 7 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/gewebeg/BJNR157400007.html#BJNR157400007BJNE000200000)
 
 Das Bundesministerium für Gesundheit kann den Wortlaut des
 Transplantationsgesetzes und des Transfusionsgesetzes in der vom 1.
@@ -45,6 +47,7 @@ August 2007 an geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gewebeg/BJNR157400007.html#BJNR157400007BJNE000400000)
 
 Dieses Gesetz tritt am ersten Tag des auf die Verkündung folgenden
 Monats in Kraft.

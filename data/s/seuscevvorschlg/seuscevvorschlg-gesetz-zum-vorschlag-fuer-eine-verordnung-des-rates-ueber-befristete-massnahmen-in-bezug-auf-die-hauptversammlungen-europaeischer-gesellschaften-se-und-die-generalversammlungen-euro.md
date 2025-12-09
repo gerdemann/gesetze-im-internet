@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/seuscevvorschlg/BJNR094810020.html#BJNR094810020BJNE000100000)
 
 Der deutsche Vertreter im Rat darf dem Vorschlag vom 29. April 2020
 für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf

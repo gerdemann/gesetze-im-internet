@@ -20,45 +20,55 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNE002200319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I - Viertes Buch (IV) Gemeinsame Vorschriften für die Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNG000101308)
 
 
 
 ## Art II - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNG001800319)
 
 
 
 ### Erster Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNG001901308)
 
 
 
 ### (XXXX) §§ 1 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNE012101308)
 
 
 
 ### Zweiter Abschnitt - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNG002001308)
 
 
 
 ### (XXXX) §§ 14 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNE012201308)
 
 
 
 ### Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNG002100319)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNE012801308)
 
 (weggefallen)
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNE012900319)
 
 (1) Dieses Gesetz tritt am ersten Tag des siebenten auf seine
 Verkündung folgenden Kalendermonats in Kraft.
@@ -96,6 +106,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 (BGBl. II 1990, 889, 1047)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/sgbsvvs/BJNR038459976.html#BJNR038459976BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

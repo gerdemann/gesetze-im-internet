@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt Anordnung 900-10-4-49 v. 27.9.2013 I 3752, 3899 (DPAGBefugAnO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dpagbefugano_2016/BJNR200600015.html#BJNR200600015BJNE000100000)
 
 Nach § 3 Absatz 1 Satz 1 und § 3 Absatz 2 Satz 4 des
 Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325,
@@ -32,6 +33,7 @@ Post AG an:
 
 
 ## § 1 Befugnisse von Dienstbehörden
+[Direktlink](https://www.gesetze-im-internet.de/dpagbefugano_2016/BJNR200600015.html#BJNR200600015BJNE000200000)
 
 Die Befugnisse einer Dienstbehörde unterhalb des Vorstands der
 Deutschen Post AG nehmen wahr
@@ -49,6 +51,7 @@ Deutschen Post AG nehmen wahr
 
 
 ## § 2 Befugnisse von Dienstvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/dpagbefugano_2016/BJNR200600015.html#BJNR200600015BJNE000300000)
 
 Die Befugnisse einer Dienstvorgesetzten oder eines Dienstvorgesetzten
 unterhalb des Vorstands der Deutschen Post AG nehmen wahr
@@ -66,6 +69,7 @@ unterhalb des Vorstands der Deutschen Post AG nehmen wahr
 
 
 ## § 3 Ernennungs- und Entlassungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/dpagbefugano_2016/BJNR200600015.html#BJNR200600015BJNE000400000)
 
 (1) Das Bundesministerium der Finanzen überträgt seine Befugnis zur
 Ernennung und Entlassung der bei der Deutschen Post AG beschäftigten
@@ -86,6 +90,7 @@ im Einzelfall selbst auszuüben.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dpagbefugano_2016/BJNR200600015.html#BJNR200600015BJNE000500000)
 
 Diese Anordnung tritt am 1. Januar 2016 in Kraft. Gleichzeitig tritt
 die Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich

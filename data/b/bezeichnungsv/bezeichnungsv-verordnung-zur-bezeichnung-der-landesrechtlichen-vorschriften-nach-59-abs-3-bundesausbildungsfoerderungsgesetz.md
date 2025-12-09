@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000100327)
 
 Auf Grund des § 59 Abs. 3 Satz 2 des
 Bundesausbildungsförderungsgesetzes vom 26. August 1971
@@ -30,6 +31,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000200327)
 
 Ausbildungsförderung wird nach Maßgabe des § 59 Abs. 3 des Gesetzes in
 Höhe des Förderungsbetrages geleistet, der durch einen am 30.
@@ -38,6 +40,7 @@ bezeichneten landesrechtlichen Vorschriften bewilligt worden ist.
 
 
 ## § 2 Baden-Württemberg
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000301310)
 
 Für das Land Baden-Württemberg werden folgende Vorschriften
 bezeichnet:
@@ -93,6 +96,7 @@ bezeichnet:
 
 
 ## § 3 Bayern
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000400327)
 
 Für das Land Bayern werden folgende Vorschriften bezeichnet:
 Im Vollzug der Artikel 2 Abs. 1, 8, 9 und 10 Abs. 4 des Bayerischen
@@ -150,6 +154,7 @@ Förderung der Studierenden an
 
 
 ## § 4 Berlin
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000500327)
 
 Für das Land Berlin werden folgende Vorschriften bezeichnet:
 
@@ -170,6 +175,7 @@ Für das Land Berlin werden folgende Vorschriften bezeichnet:
 
 
 ## § 5 Bremen
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000600327)
 
 Für das Land Bremen werden folgende Vorschriften bezeichnet:
 Richtlinien für die Förderung der Studenten der Pädagogischen
@@ -181,6 +187,7 @@ Richtlinien vom 1. März 1971 (Bremer Schulblatt 860/3).
 
 
 ## § 6 Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000700327)
 
 Für das Land Hamburg wird folgende Vorschrift bezeichnet:
 Richtlinien der Behörde für Wissenschaft und Kunst für die Förderung
@@ -189,6 +196,7 @@ von Studenten an den Hamburger Hochschulen vom 23. Dezember 1970
 
 
 ## § 7 Hessen
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000800327)
 
 Für das Land Hessen werden folgende Vorschriften bezeichnet:
 
@@ -222,6 +230,7 @@ Für das Land Hessen werden folgende Vorschriften bezeichnet:
 
 
 ## § 8 Niedersachsen
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE000900327)
 
 Für das Land Niedersachsen werden folgende Vorschriften bezeichnet:
 
@@ -264,6 +273,7 @@ Für das Land Niedersachsen werden folgende Vorschriften bezeichnet:
 
 
 ## § 9 Nordrhein-Westfalen
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001000327)
 
 Für das Land Nordrhein-Westfalen werden folgende Vorschriften
 bezeichnet:
@@ -317,6 +327,7 @@ bezeichnet:
 
 
 ## § 10 Rheinland-Pfalz
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001100327)
 
 Für das Land Rheinland-Pfalz werden folgende Vorschriften bezeichnet:
 
@@ -350,6 +361,7 @@ Für das Land Rheinland-Pfalz werden folgende Vorschriften bezeichnet:
 
 
 ## § 11 Saarland
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001200327)
 
 Für das Saarland werden folgende Vorschriften bezeichnet:
 
@@ -395,6 +407,7 @@ Für das Saarland werden folgende Vorschriften bezeichnet:
 
 
 ## § 12 Schleswig-Holstein
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001300327)
 
 Für das Land Schleswig-Holstein werden folgende Vorschriften
 bezeichnet:
@@ -423,6 +436,7 @@ bezeichnet:
 
 
 ## § 13 Ausländervorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001400327)
 
 Soweit die in den §§ 2 bis 12 bezeichneten Rechts- und
 Verwaltungsvorschriften Förderungsleistungen vorsehen für Personen,
@@ -451,6 +465,7 @@ wissenschaftlichen Hochschulen vorsehen.
 
 
 ## § 14 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001500327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 67 des
@@ -458,6 +473,7 @@ Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bezeichnungsv/BJNR018220971.html#BJNR018220971BJNE001600327)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1971 in Kraft.
 

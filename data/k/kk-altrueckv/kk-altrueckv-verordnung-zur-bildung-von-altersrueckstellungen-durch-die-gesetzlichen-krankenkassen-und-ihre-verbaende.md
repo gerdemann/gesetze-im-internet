@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000101126)
 
 Auf Grund des § 171e Absatz 3 Satz 1 und 2 in Verbindung mit § 171f
 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung
@@ -34,6 +35,7 @@ worden sind, verordnet das Bundesamt für Soziale Sicherung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000201308)
 
 Die Vorschriften dieser Verordnung sind auf die Krankenkassen und die
 Verbände der Krankenkassen mit Ausnahme der landwirtschaftlichen
@@ -41,6 +43,7 @@ Krankenkasse anzuwenden.
 
 
 ## § 2 Abgrenzung der Altersversorgungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000301126)
 
 Altersrückstellungen und Deckungskapital für
 Altersversorgungsverpflichtungen nach § 170 Absatz 1 Satz 1 und 2 des
@@ -51,6 +54,7 @@ durchgeführt wird, sowie für Beihilfeverpflichtungen zu bilden.
 
 
 ## § 3 Versicherungsmathematische Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000400000)
 
 (1) Die Berechnung der Barwerte hat den anerkannten Regeln der
 Versicherungsmathematik zum jeweiligen Berechnungszeitpunkt zu folgen.
@@ -81,6 +85,7 @@ altersabhängigen Kostenentwicklung gesondert zu berechnen.
 
 
 ## § 4 Höhe, Überprüfung und Anpassung der Zuweisungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000501126)
 
 (1) Erforderlich ist ein Zuweisungsbetrag, der in jährlich
 gleichbleibender Höhe zum Aufbau des benötigten Deckungskapitals
@@ -142,20 +147,24 @@ des zum 31. Dezember 2049 aufzubauenden Deckungskapitals verändert.
 
 
 ## § 5 Zahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000600000)
 
 Die jährlichen Zuweisungsbeträge sind dem Deckungskapital bis zum 31.
 Dezember des für die Zuführung maßgeblichen Kalenderjahres zuzuführen.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000701119)
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kk-altr_ckv/BJNR139600011.html#BJNR139600011BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

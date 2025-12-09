@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Kapitel 1 - Finanzhilfen zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums in den Braunkohlerevieren nach Artikel 104b des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNG000100000)
 
 
 ### § 1 Förderziele, Fördervolumen und Leitbilder
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000101125)
 
 (1) Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung
 des wirtschaftlichen Wachstums unterstützt der Bund die Länder
@@ -54,6 +56,7 @@ Maßnahmen der Kapitel 3 und 4 maßgebend.
 
 
 ### § 2 Fördergebiete
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000200000)
 
 Fördergebiete sind das Lausitzer Revier, das Rheinische Revier und das
 Mitteldeutsche Revier, die sich jeweils aus den folgenden Gemeinden
@@ -94,6 +97,7 @@ und Gemeindeverbänden zusammensetzen:
 
 
 ### § 3 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000300000)
 
 (1) Der in § 1 Absatz 1 festgelegte Betrag verteilt sich wie folgt:
 
@@ -142,6 +146,7 @@ und Gemeindeverbänden zusammensetzen:
 
 
 ### § 4 Förderbereiche
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000400000)
 
 (1) Die Finanzhilfen nach Artikel 104b des Grundgesetzes werden den
 Ländern trägerneutral für Investitionen zur Verbesserung der
@@ -216,6 +221,7 @@ muss vorhabenbezogen gegeben sein.
 
 
 ### § 5 Doppelförderung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000500000)
 
 (1) Für Investitionen, die nach anderen Gesetzen und
 Verwaltungsvereinbarungen als Anteilsfinanzierung nach den Artikeln
@@ -228,6 +234,7 @@ sie im Zusammenhang mit Hauptmaßnahmen nach § 4 stehen.
 
 
 ### § 6 Förderperioden, Förderbedingung und Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000601125)
 
 (1) Die Finanzhilfen werden im Zeitraum von 2020 bis einschließlich
 2038 gewährt. Der Zeitraum nach Satz 1 wird in die folgenden drei
@@ -285,6 +292,7 @@ rechtsverbindlich vereinbart worden sind.
 
 
 ### § 7 Förderquote und Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000701125)
 
 (1) Der Bund beteiligt sich mit bis zu 90 Prozent, die Länder
 einschließlich der Gemeinden und Gemeindeverbände beteiligen sich mit
@@ -323,6 +331,7 @@ geförderte Vorhaben gekennzeichnet werden.
 
 
 ### § 8 Prüfung der Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000801125)
 
 (1) Die zuständigen obersten Landesbehörden sind verpflichtet, dem
 Bundesministerium für Wirtschaft und Klimaschutz die zur Durchführung
@@ -345,6 +354,7 @@ zur Erreichung der in § 1 genannten Förderziele und der in § 4 Absatz
 
 
 ### § 9 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE000900000)
 
 (1) Der Bund kann von den Ländern die zugewiesenen Finanzhilfen
 zurückfordern, wenn geförderte einzelne Maßnahmen nicht die
@@ -370,6 +380,7 @@ Bundesrechnungshofes bleiben unberührt.
 
 
 ### § 10 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001000000)
 
 Die Einzelheiten des Verfahrens zur Gewährung der Finanzhilfen nach
 diesem Kapitel werden durch eine Verwaltungsvereinbarung geregelt, die
@@ -380,9 +391,11 @@ der Verwaltungsvereinbarung gebunden.
 
 
 ## Kapitel 2 - Strukturhilfen für strukturschwache Standorte von Steinkohlekraftwerken und das ehemalige Braunkohlerevier Helmstedt
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNG000200000)
 
 
 ### § 11 Förderziel und Fördervolumen
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001100000)
 
 (1) Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung
 wirtschaftlichen Wachstums unterstützt der Bund im Rahmen seiner
@@ -426,6 +439,7 @@ Altenburger Land.
 
 
 ### § 12 Förderfähige Gemeinden und Gemeindeverbände
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001200000)
 
 (1) In folgenden Gemeinden und Gemeindeverbänden als strukturschwache
 Standorte von Steinkohlekraftwerken, an denen der Steinkohlesektor
@@ -470,6 +484,7 @@ Gemeindeverbänden durchgeführt werden.
 
 
 ### § 13 Verwaltungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001300000)
 
 Die Einzelheiten zur Gewährung der Strukturhilfen nach diesem Kapitel
 werden durch Verwaltungsvereinbarungen geregelt, die der zustimmenden
@@ -480,9 +495,11 @@ Verwaltungsvereinbarungen gebunden.
 
 
 ## Kapitel 3 - Weitere Maßnahmen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNG000300000)
 
 
 ### § 14 Förderung von Wissenschaft, Forschung, Lehre und Bildung in den Fördergebieten nach § 2
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001400000)
 
 Der Bund fördert zweckgebunden Wissenschaft, Forschung, Lehre und
 Bildung in den Fördergebieten nach § 2 mit der Finanzierung von
@@ -492,6 +509,7 @@ jeweils geltenden Bestimmungen bleiben unberührt.
 
 
 ### § 15 Bundesförderprogramm
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001501125)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird unter
 Einhaltung des europäischen Beihilfenrechts ein Bundesförderprogramm
@@ -513,6 +531,7 @@ werden.
 
 
 ### § 16 Maßnahmen zur Unterstützung der Energiewende und des Klimaschutzes
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001600000)
 
 (1) Zur Unterstützung der Wärmewende, insbesondere in der
 leitungsgebundenen Wärmeversorgung, wird in einem der Fördergebiete
@@ -552,6 +571,7 @@ eingerichtet:
 
 
 ### § 17 Erweiterung und Einrichtung von Programmen und Initiativen des Bundes zur Förderung der Gebiete nach § 2
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001701125)
 
 Der Bund wird unter Einhaltung des europäischen Beihilfenrechts und
 vorrangig zur Stärkung des wirtschaftlichen Wachstums und zur
@@ -728,6 +748,7 @@ können beendet werden.
 
 
 ### § 18 Ansiedlung von Einrichtungen des Bundes in den Revieren
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001800000)
 
 (1) Die Bundesregierung wird innerhalb eines Zeitraums von zehn Jahren
 bis zum 31. Dezember 2028 mindestens 5 000 neue, zusätzliche
@@ -742,6 +763,7 @@ jedes Reviers anzustreben.
 
 
 ### § 19 Einrichtung einer Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE001901125)
 
 (1) Beim Bundesministerium des Innern und für Heimat wird eine
 Beratungs- und Koordinierungsstelle zur Dezentralisierung von
@@ -773,9 +795,11 @@ Erreichung des Ziels nach § 18 folgende Aufgaben wahr:
 
 
 ## Kapitel 4 - Zusätzliche Investitionen in die Bundesfernstraßen und Bundesschienenwege zur Förderung der Gebiete nach § 2
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNG000400000)
 
 
 ### § 20 Zusätzliche Investitionen in die Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002000000)
 
 Zur Förderung der Gebiete nach § 2 wird ergänzend zu den Vorhaben der
 Anlage des Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung
@@ -786,6 +810,7 @@ enthaltenen Bau- und Ausbauvorhaben zusätzlich ausgebaut.
 
 
 ### § 21 Zusätzliche Investitionen in die Bundesschienenwege
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002100000)
 
 (1) Zur Förderung der Gebiete nach § 2 werden ergänzend zu den
 Vorhaben der Anlage des Bundesschienenwegeausbaugesetzes vom 15.
@@ -802,6 +827,7 @@ Bundesschienenwegeausbaugesetzes sind sinngemäß anzuwenden.
 
 
 ### § 22 Finanzierung weiterer Bedarfsplanmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002200000)
 
 (1) Zur Förderung der Gebiete nach § 2 werden die in Anlage 5
 Abschnitt 1 enthaltenen Bau- und Ausbauvorhaben nach Maßgabe des § 27
@@ -830,6 +856,7 @@ dieser Mittel erforderlich.
 
 
 ### § 23 Sofortvollzug
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002301125)
 
 Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die
 Bestimmungen des § 17e des Bundesfernstraßengesetzes und des § 18e des
@@ -837,6 +864,7 @@ Allgemeinen Eisenbahngesetzes entsprechend anzuwenden.
 
 
 ### § 24 Transparenz zur Sicherstellung ausreichender Planungskapazitäten
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002401125)
 
 (1) Vor Beginn der Planung und Umsetzung einer der in Kapitel 4
 genannten Maßnahmen, die nicht Bestandteil des
@@ -874,9 +902,11 @@ notwendigen Informationen einholen.
 
 
 ## Kapitel 5 - Gemeinsame Vorschriften und Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNG000500000)
 
 
 ### § 25 Bund-Länder-Koordinierungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002501125)
 
 (1) Die Bundesregierung und die Regierungen der Länder Brandenburg,
 Nordrhein-Westfalen, Freistaat Sachsen und Sachsen-Anhalt bilden ein
@@ -914,6 +944,7 @@ Länder.
 
 
 ### § 26 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002601125)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz evaluiert die
 Anwendung der Vorschriften dieses Gesetzes und ihre Auswirkung auf die
@@ -952,6 +983,7 @@ dieser Regelungen in den Gebieten gemäß § 2 ab 2022.
 
 
 ### § 27 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002700000)
 
 (1) Die Maßnahmen nach den Kapiteln 1 bis 4 werden im jeweiligen
 Haushaltsverfahren bedarfsgerecht veranschlagt. Dabei wird die
@@ -965,6 +997,7 @@ entsprechend anzuwenden.
 (zu § 1 Absatz 3)
 
 ### Anlage 1 Leitbild zum Lausitzer Revier (Freistaat Sachsen/Land Brandenburg) vom 14. März 2019
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002800000)
 
 (Fundstelle: BGBl. I 2020, 1803 - 1804)
 
@@ -1157,6 +1190,7 @@ Weiterentwicklung im Dialog mit den Regionen.
 (zu § 1 Absatz 3)
 
 ### Anlage 2 Leitbild zum Mitteldeutschen Revier (Freistaat Sachsen/Land Sachsen-Anhalt) vom 14. März 2019
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE002900000)
 
 (Fundstelle: BGBl. I 2020, 1805 - 1807)
 
@@ -1416,6 +1450,7 @@ sind:
 (zu § 1 Absatz 3)
 
 ### Anlage 3 Leitbild zum Rheinischen Revier (Land Nordrhein-Westfalen) vom 14. März 2019
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE003000000)
 
 (Fundstelle: BGBl. I 2020, 1808)
 
@@ -1492,6 +1527,7 @@ Sozialpartnern und Verbänden und der Zivilgesellschaft.
 (zu den §§ 20 und 21)
 
 ### Anlage 4 Verkehrsvorhaben nach den §§ 20 und 21
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE003100000)
 
 (Fundstelle: BGBl. I 2020, 1809 - 1811)
 
@@ -1965,6 +2001,7 @@ Begriffsbestimmungen anzuwenden:
 (zu § 22)
 
 ### Anlage 5 Verkehrsvorhaben nach § 22
+[Direktlink](https://www.gesetze-im-internet.de/invkg/BJNR179510020.html#BJNR179510020BJNE003200000)
 
 (Fundstelle: BGBl. I 2020, 1812 - 1814)
 

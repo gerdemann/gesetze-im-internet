@@ -32,6 +32,7 @@ Stand: Ersetzt V 791-8-3 v, 15.9.2005 I 2782 (NatSGÖDeuBuchtV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000100000)
 
 Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56
 Absatz 1, § 32 Absatz 2 und 3, § 20 Absatz 2, § 22 Absatz 1 sowie § 23
@@ -43,6 +44,7 @@ Bau und Reaktorsicherheit:
 
 
 ## § 1 Erklärung zum Naturschutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000201377)
 
 Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen
 ausschließlichen Wirtschaftszone und des Festlandsockels wird zum
@@ -78,6 +80,7 @@ und vereint die Gebiete
 
 
 ## § 2 Schutzgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000301377)
 
 (1) Das Naturschutzgebiet „Sylter Außenriff – Östliche Deutsche Bucht“
 hat eine Fläche von 5 603 Quadratkilometern und liegt in der südlichen
@@ -149,6 +152,7 @@ der Darstellung in der Übersichtskarte nach Anlage 2.
 
 
 ## § 3 Schutzzweck
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000400000)
 
 (1) Die Unterschutzstellung des Meeresgebietes als Naturschutzgebiet
 dient der Verwirklichung der Erhaltungsziele der Natura 2000-Gebiete
@@ -192,6 +196,7 @@ Werte und Funktionen des Gebietes, insbesondere
 
 
 ## § 4 Schutzzweck des Bereiches I
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000500000)
 
 (1) Zu den im Bereich I des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -279,6 +284,7 @@ Wiederherstellung
 
 
 ## § 5 Schutzzweck des Bereiches II
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000600000)
 
 (1) Zu den im Bereich II des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -391,6 +397,7 @@ Wiederherstellung
 
 
 ## § 5a Schutzzweck des Bereiches III
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE001500377)
 
 (1) Zu den im Bereich III des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -421,6 +428,7 @@ Funktionen gilt § 5 Absatz 2 entsprechend.
 
 
 ## § 6 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000701377)
 
 (1) Vorbehaltlich des § 7 sind verboten
 
@@ -493,6 +501,7 @@ insbesondere
 
 
 ## § 7 Zulässigkeit von bestimmten Projekten und Plänen
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000801377)
 
 (1) Projekte
 
@@ -567,6 +576,7 @@ zuständigen Behörde.
 
 
 ## § 8 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE000901377)
 
 (1) Von den Verboten des § 6 Absatz 1 und 2 kann das Bundesamt für
 Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit
@@ -580,6 +590,7 @@ Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
 
 ## § 9 Bewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE001001377)
 
 (1) Die zur Erreichung des Schutzzwecks nach den §§ 4 bis 5a
 notwendigen Maßnahmen einschließlich der erforderlichen
@@ -612,6 +623,7 @@ dargestellten Maßnahmen durch.
 
 
 ## § 10 Weitergehende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE001100000)
 
 Weitergehende Vorschriften bleiben von dieser Verordnung unberührt.
 Hierzu zählen insbesondere
@@ -644,6 +656,7 @@ Hierzu zählen insbesondere
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Festsetzung des
@@ -654,6 +667,7 @@ Kraft.
 
 
 ## Anlage 1 (zu § 2 Absatz 2, 4 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE001301377)
 
 (Fundstelle: BGBl. I 2017, 3428;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -992,6 +1006,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2 (zu § 2 Absatz 6) Übersichtskarte des Naturschutzgebietes "Sylter Außenriff - Östliche Deutsche Bucht"
+[Direktlink](https://www.gesetze-im-internet.de/nsgsylv/BJNR342300017.html#BJNR342300017BJNE001401377)
 
 (Fundstelle: BGBl. 2024 I 397 S. 5)
 

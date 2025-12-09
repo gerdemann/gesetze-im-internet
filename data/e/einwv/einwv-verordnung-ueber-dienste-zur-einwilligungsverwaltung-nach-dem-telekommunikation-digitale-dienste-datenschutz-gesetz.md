@@ -23,9 +23,11 @@ Fundstelle
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000200000)
 
 (1) Diese Rechtsverordnung regelt
 
@@ -62,6 +64,7 @@ Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000300000)
 
 (1) Im Sinne dieser Rechtsverordnung ist oder sind
 
@@ -98,9 +101,11 @@ Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes.
 
 
 ## Teil 2 - Anforderungen an anerkannte Dienste zur Einwilligungsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNG000200000)
 
 
 ### § 3 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000400000)
 
 (1) Der anerkannte Dienst zur Einwilligungsverwaltung speichert bei
 der erstmaligen Inanspruchnahme eines digitalen Dienstes durch den
@@ -159,6 +164,7 @@ Endnutzer leicht zugänglichen Weise dokumentiert werden.
 
 
 ### § 4 Anforderungen an ein nutzerfreundliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000500000)
 
 (1) Ein Verfahren zur Einwilligungsverwaltung ist nutzerfreundlich,
 wenn
@@ -189,6 +195,7 @@ Informationen in gängige Dateiformate zu exportieren.
 
 
 ### § 5 Wechsel zu einem anderen anerkannten Dienst zur Einwilligungsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000600000)
 
 (1) Der Endnutzer hat das Recht, jederzeit einfach
 
@@ -211,6 +218,7 @@ Dienst zur Einwilligungsverwaltung verlangt.
 
 
 ### § 6 Anforderungen an ein wettbewerbskonformes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000700000)
 
 Ein Verfahren zur Einwilligungsverwaltung ist wettbewerbskonform, wenn
 
@@ -250,6 +258,7 @@ Ein Verfahren zur Einwilligungsverwaltung ist wettbewerbskonform, wenn
 
 
 ### § 7 Anforderungen an Technologien und Konfigurationen für das Zusammenwirken mit Anbietern von digitalen Diensten und mit Abruf- und Darstellungssoftware
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000800000)
 
 Der anerkannte Dienst zur Einwilligungsverwaltung verwendet
 Technologien und Konfigurationen, die es ermöglichen, dass
@@ -275,9 +284,11 @@ Technologien und Konfigurationen, die es ermöglichen, dass
 
 
 ## Teil 3 - Anerkennung von Diensten zur Einwilligungsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNG000300000)
 
 
 ### § 8 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE000900000)
 
 Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit ist die unabhängige Stelle, die für die
@@ -285,6 +296,7 @@ Anerkennung von Diensten zur Einwilligungsverwaltung zuständig ist.
 
 
 ### § 9 Informationsaustausch mit zuständigen Aufsichtsbehörden der Länder
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001000000)
 
 (1) Die zuständige Stelle informiert die zuständigen Aufsichtsbehörden
 der Länder nach § 40 Absatz 1 des Bundesdatenschutzgesetzes
@@ -303,6 +315,7 @@ alle zweckdienlichen Informationen aus.
 
 
 ### § 10 Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001100000)
 
 Ein Dienst zur Einwilligungsverwaltung wird auf Antrag anerkannt, wenn
 er
@@ -317,6 +330,7 @@ er
 
 
 ### § 11 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001200000)
 
 (1) Der Antrag auf Anerkennung eines Dienstes zur
 Einwilligungsverwaltung ist elektronisch bei der zuständigen Stelle zu
@@ -402,6 +416,7 @@ zur Verfügung zu stellen.
 
 
 ### § 12 Sicherheitskonzept
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001300000)
 
 Das nach § 26 Absatz 1 Nummer 4 des Telekommunikation-Digitale-
 Dienste-Datenschutz-Gesetzes erforderliche Sicherheitskonzept muss
@@ -444,12 +459,14 @@ Angaben enthalten
 
 
 ### § 13 Register der anerkannten Dienste zur Einwilligungsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001400000)
 
 Die zuständige Stelle führt ein öffentliches Register der anerkannten
 Dienste zur Einwilligungsverwaltung.
 
 
 ### § 14 Anzeige von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001500000)
 
 (1) Der Anbieter eines anerkannten Dienstes zur
 Einwilligungsverwaltung hat jährlich zu prüfen, ob die Anforderungen
@@ -467,6 +484,7 @@ unverzüglich elektronisch anzuzeigen.
 
 
 ### § 15 Meldung von Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001600000)
 
 (1) Dritte können der zuständigen Stelle Hinweise auf und Beschwerden
 über mögliche Verstöße des anerkannten Dienstes zur
@@ -478,6 +496,7 @@ einrichten.
 
 
 ### § 16 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001700000)
 
 Die zuständige Stelle hat die Anerkennung eines anerkannten Dienstes
 zur Einwilligungsverwaltung zu widerrufen, wenn sie Kenntnis von
@@ -488,9 +507,11 @@ Einwilligungsverwaltung anzuhören.
 
 
 ## Teil 4 - Technische und organisatorische Maßnahmen durch Anbieter von digitalen Diensten und Hersteller und Anbieter von Abruf- und Darstellungssoftware
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNG000400000)
 
 
 ### § 17 Maßnahmen durch Hersteller und Anbieter von Abruf- und Darstellungssoftware
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001800000)
 
 Im Rahmen der technischen Möglichkeiten sollen Hersteller und Anbieter
 von Abruf- und Darstellungssoftware durch technische und
@@ -511,6 +532,7 @@ organisatorische Maßnahmen dafür Sorge tragen, dass
 
 
 ### § 18 Maßnahmen durch Anbieter von digitalen Diensten zur Einbindung von anerkannten Diensten zur Einwilligungsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE001900000)
 
 (1) Die Einbindung von anerkannten Diensten zur
 Einwilligungsverwaltung durch Anbieter von digitalen Diensten erfolgt
@@ -564,6 +586,7 @@ Einwilligungsverwaltung einbinden, sollen
 
 
 ### § 19 Maßnahmen durch Anbieter von digitalen Diensten zur Berücksichtigung der Einstellungen der Endnutzer
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE002000000)
 
 (1) Anbieter von digitalen Diensten, die einen anerkannten Dienst zur
 Einwilligungsverwaltung einbinden, berücksichtigen die Einstellungen
@@ -583,6 +606,7 @@ Endnutzer zu übermitteln.
 
 
 ### § 20 Maßnahmen zur Neutralität
+[Direktlink](https://www.gesetze-im-internet.de/einwv/BJNR0200B0025.html#BJNR0200B0025BJNE002100000)
 
 Anbieter von digitalen Diensten sowie Hersteller und Anbieter von
 Abruf- und Darstellungssoftware, die einen anerkannten Dienst zur

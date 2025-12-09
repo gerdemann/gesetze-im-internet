@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000100000)
 
 Auf Grund des § 41a Absatz 6 Satz 1 des Bundeswaldgesetzes, der
 zuletzt durch Artikel 413 der Verordnung vom 31. August 2015 (BGBl. I
@@ -25,6 +26,7 @@ Ernährung und Landwirtschaft:
 
 
 ## § 1 Erhebung der Grunddaten
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000200000)
 
 (1) Nachstehende Grunddaten zur Nährstoffversorgung und
 Schadstoffbelastung der Waldböden sind zu erheben:
@@ -69,6 +71,7 @@ müssen am 31. Dezember 2024 abgeschlossen sein.
 
 
 ## § 2 Stichprobenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000300000)
 
 (1) Die Grunddaten werden in einem terrestrischen Stichprobenverfahren
 mit systematischer Stichprobenverteilung über das gesamte Gebiet der
@@ -83,6 +86,7 @@ vornehmen, soweit sie dies für erforderlich hält.
 
 
 ## § 3 Erhebungsstandards
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000400000)
 
 (1) Die zuständigen Stellen des Bundes und der Länder erarbeiten
 gemeinsam eine Arbeitsanleitung für die Erhebung der Grunddaten. Es
@@ -107,6 +111,7 @@ haben.
 
 
 ## § 4 Maßnahmen auf militärischen Liegenschaften
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000500000)
 
 Auf den aktiv durch die Bundeswehr militärisch genutzten
 Liegenschaften ist vor Beginn von Maßnahmen die Zustimmung der
@@ -120,12 +125,14 @@ Belange können zudem die Anpassung von Maßnahmen erforderlich machen.
 
 
 ## § 5 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000600000)
 
 Die Länder übermitteln dem Bund die Grunddaten in dem dafür
 bundeseinheitlich festgelegten Format.
 
 
 ## § 6 Bundesprobenbank
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000700000)
 
 Der Bund unterhält eine Bundesprobenbank zur langfristigen Lagerung
 von Referenzproben von allen Aufnahmeflächen der
@@ -134,11 +141,13 @@ jeder Probennahme entsprechendes Probenmaterial zur Verfügung.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bzev/BJNR160000020.html#BJNR160000020BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

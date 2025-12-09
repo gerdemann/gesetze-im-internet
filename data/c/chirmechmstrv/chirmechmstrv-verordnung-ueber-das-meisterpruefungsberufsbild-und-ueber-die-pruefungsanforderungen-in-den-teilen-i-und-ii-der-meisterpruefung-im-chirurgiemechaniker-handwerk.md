@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000100000)
 
 Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
@@ -34,6 +35,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000200000)
 
 Die Meisterprüfung im zulassungspflichtigen Chirurgiemechaniker-
 Handwerk umfasst folgende selbständige Prüfungsteile:
@@ -57,6 +59,7 @@ Handwerk umfasst folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000300000)
 
 (1) Durch die Meisterprüfung wird festgestellt, dass der Prüfling
 befähigt ist, einen Betrieb selbständig zu führen, technische,
@@ -135,6 +138,7 @@ zu berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -148,6 +152,7 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Vorschläge des Prüflings für den
@@ -174,6 +179,7 @@ Dokumentationsunterlagen mit 10 vom Hundert gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000600000)
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das
 Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er
@@ -185,6 +191,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Qualifikationsnachweis für die Meisterprüfung im
@@ -205,6 +212,7 @@ arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000800000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 fünf Arbeitstage, das Fachgespräch nicht länger als 30 Minuten und die
@@ -224,6 +232,7 @@ worden sein darf.
 
 
 ## § 8 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE000901360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 genannten Handlungsfeldern seine Handlungskompetenz dadurch
@@ -429,6 +438,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE001002128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -439,6 +449,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE001101360)
 
 Die Regelungen des § 8 Absatz 6 und 7 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -446,6 +457,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/chirmechmstrv/BJNR173100006.html#BJNR173100006BJNE001200000)
 
 Diese Verordnung tritt am 1. November 2006 in Kraft.
 

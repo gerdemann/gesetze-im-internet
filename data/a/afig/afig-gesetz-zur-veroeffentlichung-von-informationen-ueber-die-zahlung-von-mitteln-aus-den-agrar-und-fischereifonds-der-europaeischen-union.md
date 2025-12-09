@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000203119)
 
 Dieses Gesetz dient der Durchführung
 
@@ -61,6 +63,7 @@ Dieses Gesetz dient der Durchführung
 
 
 ## § 2 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000303119)
 
 (1) Die für das Zahlen von Mitteln aus dem Europäischen Garantiefonds
 für die Landwirtschaft und dem Europäischen Landwirtschaftsfonds für
@@ -130,6 +133,7 @@ gelöscht.
 
 
 ## § 3 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000702119)
 
 (1) Wer die in § 2 Absatz 1 und 2 bezeichneten Informationen von den
 Internetseiten der Bundesanstalt erhebt und speichert, darf diese
@@ -166,6 +170,7 @@ auf den ersten Tag der Veröffentlichung hingewiesen.
 
 
 ## § 4 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000403119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft trifft im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -208,6 +213,7 @@ der Informationen im Internet, insbesondere über
 
 
 ## § 5 Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000503119)
 
 Dieses Gesetz gilt auch für die Veröffentlichung von Informationen
 über die Zahlung von Mitteln aus den Agrarfonds der Agrar-
@@ -226,6 +232,7 @@ Rechtsvorschrift.
 
 
 ## § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/afig/BJNR233000008.html#BJNR233000008BJNE000601119)
 
 Für die Veröffentlichung von Informationen über die Zahlung von
 Mitteln aus den Agrarfonds der Agrar-Haushaltsjahre bis 2022 sowie aus

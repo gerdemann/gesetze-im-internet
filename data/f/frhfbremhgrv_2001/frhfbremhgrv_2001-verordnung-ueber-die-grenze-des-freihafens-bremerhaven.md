@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frhfbremhgrv_2001/BJNR120100001.html#BJNR120100001BJNE000100305)
 
 Auf Grund des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember
 1992 (BGBl. I S. 2125, 1993 I S. 2493), der durch Artikel 1 Nr. 14
@@ -28,17 +29,20 @@ geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Grenze des Freihafens
+[Direktlink](https://www.gesetze-im-internet.de/frhfbremhgrv_2001/BJNR120100001.html#BJNR120100001BJNE000200305)
 
 Die Grenze des Freihafens Bremerhaven wird geändert. Ihr neuer Verlauf
 ergibt sich aus der Anlage.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/frhfbremhgrv_2001/BJNR120100001.html#BJNR120100001BJNE000300305)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/frhfbremhgrv_2001/BJNR120100001.html#BJNR120100001BJNE000406118)
 
 (Fundstelle: BGBl. I 2014, 442 - 443)
 

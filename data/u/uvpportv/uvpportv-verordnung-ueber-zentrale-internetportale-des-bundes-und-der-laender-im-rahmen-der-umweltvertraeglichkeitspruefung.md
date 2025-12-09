@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uvpportv/BJNR242810020.html#BJNR242810020BJNE000100000)
 
 (1) Diese Verordnung gilt
 
@@ -38,6 +39,7 @@ Fundstelle
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpportv/BJNR242810020.html#BJNR242810020BJNE000200000)
 
 (1) Daten im Sinne dieser Verordnung sind
 
@@ -110,6 +112,7 @@ Fundstelle
 
 
 ## § 3 Funktionen der zentralen Internetportale
+[Direktlink](https://www.gesetze-im-internet.de/uvpportv/BJNR242810020.html#BJNR242810020BJNE000301000)
 
 (1) Zur Ermöglichung eines einfachen Zugangs zu den Daten werden die
 zentralen Internetportale von der portalbetreibenden Behörde so
@@ -167,6 +170,7 @@ erleichtern.
 
 
 ## § 4 Art und Weise der Zugänglichmachung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/uvpportv/BJNR242810020.html#BJNR242810020BJNE000400000)
 
 (1) Die im Sinne des § 20 Absatz 2 Satz 1 des Gesetzes über die
 Umweltverträglichkeitsprüfung zuständige Behörde stellt sicher, dass
@@ -184,6 +188,7 @@ ihre Verpflichtung nach Absatz 1 erfüllen kann.
 
 
 ## § 5 Dauer der Zugänglichkeit der Daten
+[Direktlink](https://www.gesetze-im-internet.de/uvpportv/BJNR242810020.html#BJNR242810020BJNE000500000)
 
 (1) Die Daten gemäß § 2 Absatz 1 Nummer 1 Buchstabe a und c sowie
 Nummer 2 bis 4 sind von der im Sinne des § 20 Absatz 2 Satz 1 des
@@ -208,6 +213,7 @@ Erledigung zugänglich zu halten.
 
 
 ## § 6 Speicherung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/uvpportv/BJNR242810020.html#BJNR242810020BJNE000600000)
 
 Die portalbetreibende Behörde kann die Daten so lange speichern,
 

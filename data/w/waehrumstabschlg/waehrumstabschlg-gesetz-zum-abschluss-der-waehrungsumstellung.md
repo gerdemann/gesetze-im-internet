@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## Abschnitt I - Alte Ansprüche gegen Geldinstitute
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNG000100325)
 
 
 
 ### § 1 Geldinstitute
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE000400325)
 
 Geldinstitute im Sinne dieses Gesetzes sind
 
@@ -51,6 +53,7 @@ Geldinstitute im Sinne dieses Gesetzes sind
 
 
 ### § 2 Ansprüche aus Reichsmarkguthaben
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE000500325)
 
 (1) Mit Ablauf des 30. Juni 1976 erlöschen die Ansprüche aus folgenden
 Reichsmarkguthaben, soweit sie weder in Deutsche Mark umgewandelt
@@ -86,6 +89,7 @@ dem 30. Juni 1976 bei der Altbank angemeldet werden.
 
 
 ### § 3 Verjährung von Ansprüchen gegen Geldinstitute
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE000600325)
 
 (1) Vor dem 9. Mai 1945 begründete Ansprüche gegen Geldinstitute, die
 bis zum 30. Juni 1976 weder erfüllt noch verjährt oder erloschen sind,
@@ -141,6 +145,7 @@ Gesetzes haben, aus diesen Guthaben mit Ablauf des Jahres 1978.
 
 
 ### § 4 Erlöschen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE000700325)
 
 Ansprüche gegen Geldinstitute, die vor dem 9. Mai 1945 im
 Geschäftsbetrieb einer Niederlassung begründet worden sind, die sich
@@ -151,6 +156,7 @@ Ablauf des 30. Juni 1976.
 
 
 ### § 5 Auslandsschulden
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE000800325)
 
 (1) § 3 Abs. 1 findet keine Anwendung, soweit sich aus dem Abkommen
 über deutsche Auslandsschulden vom 27. Februar 1953 (Bundesgesetzbl.
@@ -173,6 +179,7 @@ als Erfüllung ihrer Forderungen annehmen.
 
 
 ### § 6 Leistungen aus öffentlichen Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE000900325)
 
 (1) Ansprüche gegen Geldinstitute, die erloschen oder verjährt sind,
 werden bei der Gewährung von Ausgleichsforderungen nicht
@@ -203,10 +210,12 @@ findet Anwendung.
 
 
 ## Abschnitt II - Alte Ansprüche gegen Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNG000200325)
 
 
 
 ### § 7 Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001000325)
 
 § 3 Abs. 1, 2 und 5, § 5 Abs. 1 und § 6 sind auf Ansprüche gegen
 Versicherungsunternehmen, die eine Umstellungsrechnung aufgestellt
@@ -220,10 +229,12 @@ Lebens- und Rentenversicherungen in der Fassung der Bekanntmachung vom
 
 
 ## Abschnitt III - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNG000300325)
 
 
 
 ### § 8 Auflösung und Abwicklung öffentlich-rechtlicher Geldinstitute
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001100325)
 
 (1) Öffentlich-rechtliche Geldinstitute, die unter § 1 Nr. 2 fallen
 und ihren Geschäftsbetrieb nicht fortführen, sind aufgelöst. Bis zur
@@ -284,6 +295,7 @@ dem Verhältnis der Nennbeträge der Stammanteile verteilt worden wäre.
 
 
 ### § 9 Beendigung der Abwicklung von Geldinstituten
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001200325)
 
 (1) Die Abwicklung eines aufgelösten Geldinstituts ist beendet, wenn
 seine weder erloschenen noch verjährten Verbindlichkeiten sowie seine
@@ -297,6 +309,7 @@ Leistungen nur in dem Umfang verpflichtet wie der bisherige Schuldner.
 
 
 ### § 10 Tote Depots
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001300325)
 
 (1) Verwahrt oder verwaltet ein Geldinstitut bei Ablauf des Jahres
 1975 vor dem 9. Mai 1945 begebene Wertpapiere oder
@@ -340,6 +353,7 @@ Verpflichtung aus früheren Verwahrungsverträgen auch für die in Absatz
 
 
 ### § 11 Entschädigung nach dem Wertpapierbereinigungsschlußgesetz
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001400325)
 
 (1) Anträge auf Entschädigung nach dem Dritten Abschnitt des
 Wertpapierbereinigungsschlußgesetzes können nach Ablauf des 30. Juni
@@ -354,6 +368,7 @@ Monaten nach Zugang der Mitteilung einzureichen.
 
 
 ### § 12 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001500325)
 
 Aufgehoben werden
 
@@ -385,6 +400,7 @@ Aufgehoben werden
 
 
 ### § 13 Sonderregelung für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001600325)
 
 Im Land Berlin gelten die vorstehenden Bestimmungen mit folgender
 Maßgabe:
@@ -433,6 +449,7 @@ Maßgabe:
 
 
 ### § 14 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001700325)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -440,6 +457,7 @@ im Land Berlin.
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/w_hrumstabschlg/BJNR031230975.html#BJNR031230975BJNE001800325)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft,
 soweit in Absatz 2 nicht anderes bestimmt ist.

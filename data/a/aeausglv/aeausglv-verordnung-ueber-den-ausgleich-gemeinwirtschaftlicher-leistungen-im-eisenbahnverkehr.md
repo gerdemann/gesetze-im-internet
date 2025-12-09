@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000100325)
 
 Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2441)
 eingefügten § 6e Abs. 1 des Allgemeinen Eisenbahngesetzes in der im
@@ -28,6 +29,7 @@ bereinigten Fassung wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Ausbildungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000203308)
 
 (1) Ausbildungsverkehr im Sinne des § 6a Abs. 1 des Allgemeinen
 Eisenbahngesetzes ist die Beförderung
@@ -112,6 +114,7 @@ Bescheinigung gilt längstens ein Jahr.
 
 
 ## § 2 Kostenbestandteile für die Festlegung der Kostensätze
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000300325)
 
 Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung
 nach § 6a Abs. 2 des Gesetzes gelten die in der Anlage aufgeführten
@@ -125,6 +128,7 @@ ausdrücklich aufgeführt sind, außer Ansatz.
 
 
 ## § 3 Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000402308)
 
 (1) Personen-Kilometer werden durch Multiplikation der
 Beförderungsfälle mit der mittleren Reiseweite ermittelt.
@@ -181,6 +185,7 @@ nachzuweisen
 
 
 ## § 4 Ermittlung der Erträge
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000500325)
 
 Als Erträge im Sinne von § 6a Abs. 1 und 2 des Gesetzes sind die
 Fahrgeldeinnahmen aus dem Verkauf von Zeitfahrausweisen im
@@ -189,6 +194,7 @@ anzusetzen.
 
 
 ## § 5 Sonderregelung bei Einnahmeaufteilungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000600325)
 
 (1) Werden bei einem von einer Eisenbahn mit Unternehmern des
 Straßenpersonenverkehrs oder von mehreren Eisenbahnen gebildeten
@@ -211,6 +217,7 @@ Zustimmung der obersten Landesverkehrsbehörde.
 
 
 ## § 6 Länderüberschreitender Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000700325)
 
 (1) Erstreckt sich die Beförderung von Auszubildenden mit
 Zeitfahrausweisen auf das Gebiet mehrerer Länder, sind deren Anteilen
@@ -224,6 +231,7 @@ geeigneten Schlüsselung aufteilen.
 
 
 ## § 7 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000800325)
 
 (1) Der Antrag auf Gewährung eines Ausgleichs ist von der Eisenbahn
 bis zum 31. Mai jeden Jahres für das vorangegangene Kalenderjahr bei
@@ -249,6 +257,7 @@ Nachweise verlangen.
 
 
 ## § 8 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE000900325)
 
 Die Entscheidung ist schriftlich zu erlassen und dem Antragsteller
 zuzustellen. Wird dem Antrag nicht in vollem Umfang entsprochen, ist
@@ -257,6 +266,7 @@ Rechtsbehelfsbelehrung zu versehen.
 
 
 ## § 9 Änderung der Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE001000325)
 
 Jede Änderung der Tatsachen, die der Berechnung des Ausgleichs
 zugrunde liegen, ist unverzüglich der obersten Landesverkehrsbehörde
@@ -264,6 +274,7 @@ anzuzeigen.
 
 
 ## § 10 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE001102308)
 
 (1) Die Eisenbahn erhält auf den Ausgleichsbetrag auf Antrag für das
 laufende Kalenderjahr Vorauszahlungen in Höhe von insgesamt 80 vom
@@ -275,16 +286,19 @@ geleistet.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE001200325)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE001300325)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE001401311)
 
 Fundstelle: BGBl. I 1977, 1468 - 1469;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -503,6 +517,7 @@ Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
 (BGBl. II 1990, 889, 1099)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/_ausglv/BJNR014650977.html#BJNR014650977BJNE888800305)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

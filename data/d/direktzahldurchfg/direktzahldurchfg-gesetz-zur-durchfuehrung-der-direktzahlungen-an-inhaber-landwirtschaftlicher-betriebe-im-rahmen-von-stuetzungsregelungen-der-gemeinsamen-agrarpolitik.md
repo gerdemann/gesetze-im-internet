@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine und gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000100000)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr.
 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember
@@ -64,6 +66,7 @@ Europäischen Union.
 
 
 ### § 2 Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000200000)
 
 Als Dauergrünland im Sinne des Artikels 4 Absatz 1 Buchstabe h der
 Verordnung (EU) Nr. 1307/2013 gelten auch Flächen, die abgeweidet
@@ -73,6 +76,7 @@ in Weidegebieten vorherrschen.
 
 
 ### § 3 Überschreitung der Nettoobergrenze
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000300000)
 
 (1) Wenn der unbeschadet der Anwendung des Artikels 8 der Verordnung
 (EU) Nr. 1307/2013 zu gewährende Gesamtbetrag der Direktzahlungen die
@@ -92,12 +96,14 @@ Direktzahlungen mit.
 
 
 ### § 4 Nichtanwendung von Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000400000)
 
 Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht
 angewendet.
 
 
 ### § 5 Umschichtung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000503119)
 
 (1) 4,5 Prozent der für die Kalenderjahre 2015 bis 2019 für
 Deutschland festgesetzten jährlichen nationalen Obergrenzen nach
@@ -130,12 +136,15 @@ ELER finanzierte Förderung bereitgestellt.
 
 
 ## Abschnitt 2 - Regelungen für die einzelnen Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000200000)
 
 
 ### Unterabschnitt 1 - Basisprämienregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000300000)
 
 
 #### § 6 Aufstockung der nationalen Obergrenze für die Basisprämienregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000600000)
 
 (1) Die nationale Obergrenze für die Basisprämienregelung wird ab dem
 Jahr 2015 für jedes Jahr um einen Betrag in Höhe von 0,5 Prozent des
@@ -156,6 +165,7 @@ in Absatz 1 genannten Prozentsatz für die Jahre ab 2016 anzupassen, um
 
 
 #### § 7 Nationale Reserve
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000700000)
 
 (1) Zur Einrichtung der nationalen Reserve wird die für das Jahr 2015
 geltende nationale Obergrenze für die Basisprämienregelung um einen
@@ -182,6 +192,7 @@ Prozentsatz nach Absatz 1 im Bundesanzeiger bekannt.
 
 
 #### § 8 Anwendung der Basisprämienregelung für die Jahre 2015 bis 2018
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000800000)
 
 (1) Die Basisprämienregelung wird für die Jahre 2015 bis 2018 auf
 regionaler Ebene angewendet.
@@ -194,6 +205,7 @@ Hamburg jeweils eine Region.
 
 
 #### § 9 Regionale Aufteilung der jährlichen nationalen Obergrenze
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE000901118)
 
 (1) Die jährliche nationale Obergrenze für die Basisprämienregelung
 wird für die Jahre 2015 bis 2018 auf die Regionen nach Maßgabe der
@@ -278,12 +290,14 @@ Basisprämienregelung im Bundesanzeiger bekannt.
 
 
 #### § 10 Ende der regionalen Anwendung der Basisprämienregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001000000)
 
 Mit Wirkung ab dem 1. Januar 2019 wird die regionale Anwendung der
 Basisprämienregelung beendet.
 
 
 #### § 11 Erstzuweisung der Zahlungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001100000)
 
 Zahlungsansprüche werden Betriebsinhabern auch zugewiesen bei
 Vorliegen der Voraussetzungen nach Artikel 24 Absatz 1 Unterabsatz 3
@@ -293,6 +307,7 @@ genannten Fällen.
 
 
 #### § 12 Wert der Zahlungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001200000)
 
 (1) Die Unterrichtung nach Artikel 25 Absatz 10 der Verordnung (EU)
 Nr. 1307/2013 über den Wert der Zahlungsansprüche erfolgt durch
@@ -328,9 +343,11 @@ Dezember des jeweiligen Jahres im Bundesanzeiger bekannt.
 
 
 ### Unterabschnitt 2 - Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000400000)
 
 
 #### § 13 Zahlungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001300000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft macht den
 bundeseinheitlichen Zahlungsbetrag je Hektar für die Zahlung für dem
@@ -346,12 +363,14 @@ dieses Jahr angemeldet worden sind, für jede Region mit.
 
 
 #### § 14 Ausschluss gleichwertiger Methoden
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001400000)
 
 Ein Betriebsinhaber kann gleichwertige Methoden nach Maßgabe des
 Artikels 43 Absatz 3 der Verordnung (EU) Nr. 1307/2013 nicht anwenden.
 
 
 #### § 15 Dauergrünland in bestimmten Gebieten
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001502119)
 
 (1) Das am 1. Januar 2015 bestehende Dauergrünland, das in den in
 Artikel 45 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 1307/2013
@@ -483,6 +502,7 @@ erlassen.
 
 
 #### § 16 Beibehaltung des Dauergrünlandanteils
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001605119)
 
 (1) Die Beibehaltung des Anteils des Dauergrünlands an der gesamten
 landwirtschaftlichen Fläche (Dauergrünlandanteil) nach Artikel 45
@@ -617,6 +637,7 @@ Vorschriften über das Verfahren im Fall des Absatzes 6 zu erlassen.
 
 
 #### § 16a Bagatellregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE003100119)
 
 (1) Abweichend von § 16 Absatz 3 bedarf die Umwandlung von bis zu 500
 Quadratmeter Dauergrünland je Betriebsinhaber und Jahr nicht der
@@ -681,6 +702,7 @@ Rechtsverordnungen nach Satz 1 können insbesondere umfassen:
 
 
 #### § 17 Ermächtigungen zur Beibehaltung des Dauergrünlandanteils
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001703119)
 
 (1) § 16 Absatz 3 und 5, § 16a und die folgenden Absätze gelten nicht
 für Dauergrünland, das der Verpflichtung nach Artikel 45 Absatz 1
@@ -778,6 +800,7 @@ Diese Vorschriften können insbesondere umfassen:
 
 
 #### § 18 Flächennutzung im Umweltinteresse
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001801119)
 
 (1) Im Umweltinteresse genutzte Flächen sind vorbehaltlich der Absätze
 2 bis 4 und einer Rechtsverordnung auf Grund des Absatzes 5 Satz 1
@@ -853,9 +876,11 @@ Startdüngung und Pflanzenschutz nach guter fachlicher Praxis zulassen.
 
 
 ### Unterabschnitt 3 - Zahlung für Junglandwirte
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000500000)
 
 
 #### § 19 Betrag und Höchstgrenze
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE001900000)
 
 (1) Der Betrag für die jährliche Zahlung für Junglandwirte wird
 bundeseinheitlich nach Maßgabe des Artikels 50 Absatz 6 Buchstabe b
@@ -875,6 +900,7 @@ Betrag der Zahlung für Junglandwirte im Bundesanzeiger bekannt.
 
 
 #### § 20 Zu verwendender Prozentsatz der nationalen Obergrenze
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002000000)
 
 (1) Für die Zahlung für Junglandwirte werden 1 Prozent der für
 Deutschland festgesetzten jährlichen nationalen Obergrenzen nach
@@ -916,9 +942,11 @@ Grundlage statistischer Daten geschätzten künftigen Bedarf zu ändern.
 
 
 ### Unterabschnitt 4 - Umverteilungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000600000)
 
 
 #### § 21 Umverteilungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002100000)
 
 (1) Ein Betriebsinhaber erhält jährlich auf Antrag eine Zahlung nach
 Artikel 41 Absatz 1 der Verordnung (EU) Nr. 1307/2013
@@ -943,6 +971,7 @@ Artikel 41 Absatz 1 der Verordnung (EU) Nr. 1307/2013
 
 
 #### § 22 Finanzvolumen und Beträge
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002200000)
 
 (1) Für die Festlegung des Betrages je Zahlungsanspruch der Gruppe 1
 und des Betrages je Zahlungsanspruch der Gruppe 2 wird ein
@@ -966,6 +995,7 @@ je Zahlungsanspruch der Gruppe 2 im Bundesanzeiger bekannt.
 
 
 #### § 23 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002300000)
 
 Die zuständigen Behörden der Länder teilen dem Bundesministerium für
 Ernährung und Landwirtschaft bis zum 1. November jedes Jahres die
@@ -976,6 +1006,7 @@ berücksichtigt.
 
 
 #### § 24 Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002400000)
 
 Die Gewährung einer Umverteilungsprämie ist ausgeschlossen, wenn ein
 Betriebsinhaber seinen Betrieb nach dem 18. Oktober 2011 nachweislich
@@ -986,9 +1017,11 @@ hervorgegangen ist.
 
 
 ### Unterabschnitt 5 - Kleinerzeugerregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000700000)
 
 
 #### § 25 Anwendung der Kleinerzeugerregelung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002500000)
 
 Die Kleinerzeugerregelung nach Titel V der Verordnung (EU) Nr.
 1307/2013 wird angewendet mit der Zahlungsmodalität nach Artikel 63
@@ -998,9 +1031,11 @@ für jedes Jahr höchstens 1 250 Euro.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNG000800000)
 
 
 ### § 26 Weitere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002600000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1021,6 +1056,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 27 Bundesanstalt für Landwirtschaft und Ernährung
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002700000)
 
 In Rechtsverordnungen auf Grund der in § 1 Absatz 2 Satz 1 Nummer 1
 bezeichneten Vorschriften oder auf Grund dieses Gesetzes kann als für
@@ -1029,15 +1065,18 @@ Landwirtschaft und Ernährung bestimmt werden.
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002801119)
 
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE002900000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage (zu § 9 Absatz 2, 4 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/direktzahldurchfg/BJNR089700014.html#BJNR089700014BJNE003000000)
 
 (Fundstelle: BGBl. I 2014, 905)
 

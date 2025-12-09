@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Art und Gegenstand der Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000200000)
 
 Ab dem Jahr 2022 werden Erhebungen über die Verwendung von Zeit durch
 natürliche Personen auf repräsentativer Grundlage als Bundesstatistik
@@ -24,6 +25,7 @@ durchgeführt.
 
 
 ## § 2 Zweck der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000300000)
 
 Zweck der Erhebung ist es, statistische Angaben zur Beschreibung und
 Analyse gesellschaftlicher Entwicklungen bereitzustellen, insbesondere
@@ -33,6 +35,7 @@ Mitgliedstaaten der Europäischen Union.
 
 
 ## § 3 Erhebungseinheiten und Stichprobe
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000400000)
 
 (1) Erhebungseinheiten sind Personen und Haushalte.
 
@@ -44,6 +47,7 @@ eigenen Haushalt.
 
 
 ## § 4 Freiwilligkeit, Einwilligung, Aufwandsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000500000)
 
 (1) Die Erteilung der Auskunft nach den Vorschriften dieses Gesetzes
 ist freiwillig.
@@ -61,6 +65,7 @@ nicht als Einkommen zu berücksichtigen.
 
 
 ## § 5 Periodizität und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000600000)
 
 (1) Die Erhebungen nach § 1 werden im Laufe von zwölf
 aufeinanderfolgenden Monaten durchgeführt und sind in zehnjährigem
@@ -71,6 +76,7 @@ oder einen zurückliegenden Zeitraum erhoben.
 
 
 ## § 6 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000700000)
 
 (1) Die Erhebungen erstrecken sich auf folgende Erhebungsmerkmale in
 den Haushalten für alle Haushaltsmitglieder:
@@ -171,6 +177,7 @@ Personen ab zehn Jahren einzeln erhoben:
 
 
 ## § 7 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000800000)
 
 (1) Hilfsmerkmale sind:
 
@@ -190,6 +197,7 @@ Hilfsmerkmale nach Absatz 1 keine Anwendung.
 
 
 ## § 8 Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE000900000)
 
 (1) Die Aufbereitung der Erhebungen nach § 1 obliegt dem Statistischen
 Bundesamt.
@@ -200,6 +208,7 @@ für die Durchführung von Sonderaufbereitungen erforderlich ist.
 
 
 ## § 9 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE001000000)
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -225,6 +234,7 @@ anderen Zeitpunkten benötigt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zveg/BJNR129300021.html#BJNR129300021BJNE001100000)
 
 Dieses Gesetz tritt am 1. Juli 2021 in Kraft.
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zuständigkeit, Einrichtung des Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG000300308)
 
 
 
 ### § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE000402160)
 
 (1) Jedes Amtsgericht führt für seinen Bezirk ein Vereinsregister,
 soweit nicht die Landesjustizverwaltung gemäß § 23d des
@@ -47,6 +49,7 @@ ist.
 
 
 ### § 2 Aufbau des Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE000502160)
 
 (1) Das Vereinsregister wird in Karteiform geführt. Es enthält für
 jeden dort einzutragenden Verein ein Registerblatt, das aus einem oder
@@ -70,6 +73,7 @@ maschinelle Führung als automatisierte Datei angeordnet wird.
 
 
 ### § 3 Gestaltung und Benutzung des Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE000601160)
 
 Das Registerblatt hat fünf Spalten. Die Einzelheiten ergeben sich aus
 dem Muster in der Anlage 1 zu dieser Verordnung. Es sind einzutragen:
@@ -145,6 +149,7 @@ unterschreiben.
 
 
 ### § 4 Schließung des Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE000701160)
 
 (1) Ist das Registerblatt zu schließen, so sind sämtliche Seiten des
 Registerblatts rot zu durchkreuzen.
@@ -179,6 +184,7 @@ werden, wenn sie elektronisch auch beim Registergericht abrufbar sind.
 
 
 ### § 5 Neufassung des Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE000800308)
 
 (1) Ist ein Registerblatt unübersichtlich geworden, so sind die noch
 gültigen Eintragungen unter Beibehaltung der bisherigen Blattnummer
@@ -201,6 +207,7 @@ Neufassung, so sind die Beteiligten vorher zu hören.
 
 
 ### § 6 Sitzverlegung und Umwandlung von Vereinen
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE000900308)
 
 (1) Wird der Sitz eines Vereins aus dem Bezirk des Registergerichts
 des bisherigen Sitzes verlegt, so hat dieses unverzüglich von Amts
@@ -244,6 +251,7 @@ andere Rechtsträger entstehen sollen.
 
 
 ### § 7 Registerakten, Handblatt
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001002160)
 
 (1) Für jedes Registerblatt wird eine Registerakte geführt. Die zum
 Vereinsregister eingereichten Dokumente können für jedes Registerblatt
@@ -265,6 +273,7 @@ in einen Umschlag zu heften, wenn ein Bedürfnis hierfür besteht.
 
 
 ### § 8 Führung des Namensverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001101160)
 
 Das Namensverzeichnis kann elektronisch geführt werden. Im Übrigen
 richtet sich die Führung des Namensverzeichnisses nach den
@@ -272,10 +281,12 @@ Vorschriften über die Aktenführung.
 
 
 ## Abschnitt 2 - Führung des Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG001200308)
 
 
 
 ### § 9 Eintragungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001302160)
 
 (1) Die Eintragung erfolgt auf Grund einer Eintragungsverfügung, die
 den Wortlaut der Eintragung feststellt.
@@ -296,6 +307,7 @@ darum gebeten hat.
 
 
 ### § 10 Form der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001402160)
 
 (1) Die Eintragungen sind deutlich und in der Regel ohne Abkürzung
 herzustellen. In dem Register darf nichts radiert oder unleserlich
@@ -330,6 +342,7 @@ Bürgerlichen Gesetzbuchs vorgesehenen Vermerke.
 
 
 ### § 11 Änderung und Löschung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001500308)
 
 (1) Änderungen des Inhalts einer Eintragung sowie Löschungen sind
 unter einer neuen laufenden Nummer einzutragen. Eine Eintragung, die
@@ -353,6 +366,7 @@ die Löschung durch Eintragung des Vermerks "Von Amts wegen gelöscht".
 
 
 ### § 12 Berichtigung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001600308)
 
 (1) Bei noch nicht unterschriebenen Eintragungen können Schreibfehler,
 die den Sinn der Eintragung nicht verändern, dadurch berichtigt
@@ -379,6 +393,7 @@ durchkreuzt wird.
 
 
 ### § 13 Bekanntgabe gegenüber den Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001701160)
 
 (1) Für die Bekanntgabe der Eintragung an die Beteiligten sollen
 Vordrucke verwendet werden. Die Benachrichtigungen zur Bekanntgabe der
@@ -393,10 +408,12 @@ ohne Unterschrift wirksam" anzubringen.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001802125)
 
 
 
 ### § 15 Erreichbarkeit des Vereins
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE001900308)
 
 Bei der Benachrichtigung über die erstmalige Eintragung in das
 Register, bei der Eintragung nach § 6 Abs. 1 und in anderen Fällen, in
@@ -406,6 +423,7 @@ sicherzustellen, kann das Registergericht den Verein auffordern, die
 
 
 ### § 16 Einsicht in das Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002001160)
 
 Das Register, die von dem Verein zum Register eingereichten Dokumente
 und das Namensverzeichnis sind in der Geschäftsstelle des
@@ -417,6 +435,7 @@ ein elektronisch geführtes Namensverzeichnis.
 
 
 ### § 17 Abschriften, Bescheinigungen und Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002101160)
 
 (1) Einfache Abschriften sind mit dem Vermerk: "Gefertigt am ..."
 abzuschließen. Der Vermerk ist nicht zu unterzeichnen. Die
@@ -447,14 +466,17 @@ Stempel zu versehen.
 
 
 ## Abschnitt 3 - Besondere Vorschriften für das maschinell geführte Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG002200308)
 
 
 
 ### Unterabschnitt 1 - Einrichtung des maschinell geführten Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG002300308)
 
 
 
 #### § 18 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002300308)
 
 Wird das Vereinsregister auf Grund einer Bestimmung nach § 55a Abs. 1
 des Bürgerlichen Gesetzbuchs in maschineller Form als automatisierte
@@ -464,6 +486,7 @@ ist.
 
 
 #### § 19 Begriff des maschinell geführten Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002400308)
 
 Bei dem maschinell geführten Vereinsregister ist der in den dafür
 bestimmten Datenspeicher aufgenommene und auf Dauer unverändert in
@@ -478,6 +501,7 @@ werden.
 
 
 #### § 20 Anforderungen an Anlagen und Programme, Sicherung der Anlagen, Programme und Daten
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002500308)
 
 (1) Hinsichtlich der Anforderungen an die für das maschinell geführte
 Vereinsregister verwendeten Anlagen und Programme, deren Sicherung
@@ -490,6 +514,7 @@ eingesetzten Systemen verbunden werden können.
 
 
 #### § 21 Gestaltung des maschinell geführten Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002600308)
 
 Der Inhalt des maschinell geführten Vereinsregisters muß auf dem
 Bildschirm und in Ausdrucken entsprechend § 3 und dem Muster der
@@ -504,15 +529,18 @@ Verordnung sichtbar gemacht werden.
 
 
 ### Unterabschnitt 2 - Anlegung des maschinell geführten Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG002700308)
 
 
 
 #### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002701310)
 
 -
 
 
 #### § 23 Anlegung des maschinell geführten Registerblattes durch Umschreibung
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002801310)
 
 Ein bisher in Papierform geführtes Registerblatt ist für die
 maschinelle Führung umzuschreiben. Die Landesjustizverwaltung kann
@@ -526,11 +554,13 @@ zu vermerken.
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE002901310)
 
 -
 
 
 #### § 25 Freigabe des maschinell geführten Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003001310)
 
 (1) Das nach § 23 angelegte maschinell geführte Registerblatt tritt
 mit seiner Freigabe an die Stelle des in Papierform geführten
@@ -552,10 +582,12 @@ Geschäftsstelle übertragen werden.
 
 
 ### Unterabschnitt 3 - Maschinelle Führung des Vereinsregisters
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG003100308)
 
 
 
 #### § 26 Registerakten, Namensverzeichnis und Handblatt
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003102160)
 
 (1) Nach Anlegung des maschinell geführten Vereinsregisters werden die
 Registerakten nach § 7 Absatz 1 und 2 weitergeführt. Ein
@@ -571,6 +603,7 @@ kennzeichnen.
 
 
 #### § 27 Eintragung in das maschinell geführte Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003201160)
 
 (1) Einer Eintragungsverfügung bedarf es nicht, wenn die Eintragungen
 in das maschinell geführte Vereinsregister von dem Rechtspfleger
@@ -583,6 +616,7 @@ Eintragungsverfügung durchgesehen werden.
 
 
 #### § 28 Elektronische Registersignatur
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003300308)
 
 Bei dem maschinell geführten Vereinsregister soll eine Eintragung nur
 möglich sein, wenn die für die Eintragung zuständige Person der
@@ -591,6 +625,7 @@ signiert. Im übrigen gilt § 75 der Grundbuchverfügung entsprechend.
 
 
 #### § 29 Rötungen
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003400308)
 
 Bei dem maschinell geführten Vereinsregister können Eintragungen oder
 Vermerke, die rot zu unterstreichen oder rot zu durchkreuzen sind,
@@ -602,6 +637,7 @@ vermerken.
 
 
 #### § 30 Behandlung der nach Neufassung geschlossenen Registerblätter
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003501160)
 
 Wird ein maschinell geführtes Registerblatt nach einer Neufassung
 entsprechend den §§ 4 und 5 geschlossen, soll es, als geschlossen
@@ -610,10 +646,12 @@ wiedergabefähig bleiben.
 
 
 ### Unterabschnitt 4 - Einsicht in das maschinell geführte Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG003600308)
 
 
 
 #### § 31 Einsicht in das maschinell geführte Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003601160)
 
 Die Einsicht in das maschinell geführte Vereinsregister ist über ein
 Datensichtgerät oder durch Einsicht in einen aktuellen oder
@@ -628,6 +666,7 @@ geschlossene Registerblätter gilt Satz 1 entsprechend.
 
 
 #### § 32 Ausdrucke
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003702160)
 
 (1) Ausdrucke aus dem maschinell geführten Vereinsregister sind mit
 der Aufschrift "Ausdruck" oder "Amtlicher Ausdruck", dem Datum der
@@ -656,10 +695,12 @@ elektronisch übermittelt werden.
 
 
 ### Unterabschnitt 5 - Automatisierter Abruf von Daten
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG003800308)
 
 
 
 #### § 33 Umfang des automatisierten Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003802160)
 
 Umfang und Voraussetzungen des Abrufs im automatisierten Verfahren
 richten sich nach § 79 Abs. 1 bis 4 des Bürgerlichen Gesetzbuchs. Die
@@ -668,16 +709,19 @@ Fertigung von Abdrucken ist zulässig. Abdrucke stehen den Ausdrucken
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE003901310)
 
 (weggefallen)
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004001310)
 
 (weggefallen)
 
 
 #### § 36 Abrufprotokollierung
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004101310)
 
 (1) Die Rechtmäßigkeit der Abrufe durch einzelne Nutzer prüft das
 Gericht nur, wenn es dazu nach den konkreten Umständen Anlaß hat. Für
@@ -705,10 +749,12 @@ für weitere bereits eingeleitete Prüfungen benötigt werden.
 
 
 ### Unterabschnitt 6 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNG004200308)
 
 
 
 #### § 37 Datenverarbeitung im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004201160)
 
 (1) Die Vorschriften der Unterabschnitte 1 bis 5 gelten für die
 Verarbeitung von Vereinsregisterdaten im Auftrag des zuständigen
@@ -727,6 +773,7 @@ der Anlage keinen Zugang zu den Daten hat.
 
 
 #### § 38 Ersatzregister
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004300308)
 
 (1) Ist die Vornahme von Eintragungen in das maschinell geführte
 Vereinsregister vorübergehend nicht möglich, so können auf Anordnung
@@ -754,6 +801,7 @@ Absatz 2 gelten die Bestimmungen der Abschnitte 1 und 2.
 
 
 #### § 39 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004401310)
 
 Für das in Papierform geführte Vereinsregister können die bisher
 zulässigen Muster weiterverwendet werden. Wird ein Registerblatt neu
@@ -763,6 +811,7 @@ diesem Falle erhalten die Beteiligten eine Eintragungsnachricht.
 
 
 #### Anlage 1 (zu § 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004500308)
 
 
 *    *   < Fundstelle des Originaltextes: BGBl. I 1999, 154 >
@@ -830,6 +879,7 @@ diesem Falle erhalten die Beteiligten eine Eintragungsnachricht.
 
 
 #### Anlage 2 (zu § 21 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/vrv/BJNR014710999.html#BJNR014710999BJNE004601310)
 
    (Fundstelle des Originaltextes: BGBl. I 1999, 154;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

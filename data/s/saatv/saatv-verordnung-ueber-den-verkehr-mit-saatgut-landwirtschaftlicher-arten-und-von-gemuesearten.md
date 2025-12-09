@@ -53,10 +53,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000102377)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001002377)
 
 Die Vorschriften dieser Verordnung gelten für Saatgut
 landwirtschaftlicher Arten außer Kartoffel und Rebe und für Saatgut
@@ -64,6 +66,7 @@ von Gemüsearten.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001109119)
 
 Im Sinne dieser Verordnung sind
 
@@ -224,6 +227,7 @@ Im Sinne dieser Verordnung sind
 
 
 ### § 2a Zertifiziertes Saatgut zweiter und dritter Generation
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007108377)
 
 Bei Nackthafer, Hafer, Rauhafer, Gerste, Triticale, Weichweizen,
 Hartweizen, Spelz, Weißer Lupine, Blauer Lupine, Schmalblättriger
@@ -235,10 +239,12 @@ anerkannt werden.
 
 
 ## Abschnitt 2 - Anerkennung von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000202377)
 
 
 
 ### § 3 Anerkennungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001203377)
 
 (1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu
 stellen, in deren Bereich der Betrieb liegt, in dem das Saatgut
@@ -259,6 +265,7 @@ in deren Bereich das Saatgut lagert.
 
 
 ### § 4 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001307360)
 
 (1) Der Antrag auf Anerkennung ist bis zu dem in Anlage 1 jeweils
 genannten Termin zu stellen. Die Anerkennungsstelle kann hiervon
@@ -355,6 +362,7 @@ ist, ist diese Genehmigung mit dem Antrag nach Absatz 1 zu beantragen.
 
 
 ### § 5 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001406118)
 
 (1) Saatgut wird nur anerkannt, wenn
 
@@ -464,6 +472,7 @@ getrennt zu lagern sind.
 
 
 ### § 6 Anforderungen an den Feldbestand und an die Beschaffenheit des Saatgutes
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001502377)
 
 Die Anforderungen an den Feldbestand ergeben sich aus Anlage 2. Die
 Anforderungen an die Beschaffenheit des Saatgutes ergeben sich aus
@@ -472,6 +481,7 @@ Basissaatgut entsprechend.
 
 
 ### § 6a Besondere Anforderungen bei landwirtschaftlichen Arten hinsichtlich des Befalls mit RNQPs
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007400119)
 
 (1) Ergänzend zu den in Anlage 2 Nummer 3.2, 4.2, 5.3 sowie in Anlage
 3 Nummer 3.2 und 5.2 vorgeschriebenen Anforderungen gelten für die
@@ -523,6 +533,7 @@ Arten müssen außerdem im Einklang stehen mit
 
 
 ### § 7 Feldbestandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001613119)
 
 (1) Jede Vermehrungsfläche ist im Jahr der Saatguterzeugung mindestens
 einmal vor der Ernte des Saatgutes durch Feldbesichtigung auf das
@@ -642,6 +653,7 @@ durchzuführen.
 
 
 ### § 8 Mängel des Feldbestandes
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001702377)
 
 (1) Soweit Mängel des Feldbestandes behoben werden können, wird auf
 einen spätestens drei Werktage nach Mitteilung der Mängel vom
@@ -667,6 +679,7 @@ und Voraussetzungen hierfür festsetzen, wenn
 
 
 ### § 9 Mitteilung des Ergebnisses der Feldbestandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001804124)
 
 Die Anerkennungsstelle teilt dem Antragsteller und dem Vermehrer das
 Ergebnis der Feldbestandsprüfung sowie das Ergebnis der Prüfung des
@@ -676,6 +689,7 @@ erst nach der letzten Besichtigung.
 
 
 ### § 10 Wiederholungsbesichtigung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE001902377)
 
 (1) Der Antragsteller oder Vermehrer kann innerhalb von drei Werktagen
 nach Zugang der Mitteilung nach § 9 eine Wiederholung der Besichtigung
@@ -693,6 +707,7 @@ werden. § 9 gilt entsprechend.
 
 
 ### § 11 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002011360)
 
 (1) Der von der zuständigen Behörde Beauftragte (Probenehmer) entnimmt
 dem für das Inverkehrbringen zu gewerblichen Zwecken aufbereiteten und
@@ -800,6 +815,7 @@ entsprechenden landesrechtlichen Vorschriften unberührt.
 
 
 ### § 12 Beschaffenheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002110118)
 
 (1) Die Beschaffenheit wird anhand der dafür entnommenen Probe
 geprüft. Auf Antrag wird bei Getreide zusätzlich geprüft, ob die
@@ -879,6 +895,7 @@ landesrechtlichen Vorschriften unberührt.
 
 
 ### § 13 Mitteilung des Ergebnisses der Beschaffenheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002205124)
 
 Die Anerkennungsstelle teilt das Ergebnis der Beschaffenheitsprüfung
 dem Antragsteller, dem Vermehrer und demjenigen, in dessen Betrieb die
@@ -890,6 +907,7 @@ Bescheinigung auch die Anerkennungsnummer der Partie angegeben.
 
 
 ### § 14 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002305360)
 
 (1) In dem Bescheid über den Antrag auf Anerkennung sind anzugeben:
 
@@ -954,6 +972,7 @@ Heterogenität großer Saatgutpartien von Gräsern.
 
 
 ### § 15 Erneute Beschaffenheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002403124)
 
 (1) Ist Saatgut von Mais nach der Anerkennung kalibriert worden, so
 wird es erneut auf die Einhaltung der Anforderungen an die
@@ -977,6 +996,7 @@ schriftlich oder elektronisch mitgeteilt.
 
 
 ### § 16 Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002512119)
 
 (1) Bei der Nachprüfung wird Saatgut anhand der dafür entnommenen
 Probe daraufhin geprüft, ob es oder sein Aufwuchs ausreichend
@@ -1356,6 +1376,7 @@ und Spelzweizen gelten bis zum Ablauf des 31. August 2029.
 
 
 ### § 17 Verfahren für die Nachprüfung durch Anbau
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002602377)
 
 Die Nachprüfung durch Anbau soll in der der Probenahme folgenden
 Vegetationsperiode durchgeführt werden. Die Proben für die Nachprüfung
@@ -1363,6 +1384,7 @@ durch Anbau sind zusammen mit Vergleichsproben anzubauen.
 
 
 ### § 17a Anwendung biochemischer oder molekularer Techniken
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007900119)
 
 Bestehen nach der Feldbesichtigung und der gegebenenfalls
 durchgeführten Nachprüfung durch Anbau noch Zweifel an der
@@ -1374,6 +1396,7 @@ für die Nachprüfung auf Sortenechtheit anwenden.
 
 
 ### § 18 Rücknahme der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002702377)
 
 Wird auf Grund des Ergebnisses der Nachprüfung die Anerkennung
 zurückgenommen und ist der Antragsteller nicht mehr im Besitz des
@@ -1387,10 +1410,12 @@ Rücknahme zu unterrichten.
 
 
 ## Abschnitt 3 - Standardsaatgut von Gemüse
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000302377)
 
 
 
 ### § 19 Gestattung des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002804360)
 
 Standardsaatgut von Gemüsearten darf zu gewerblichen Zwecken in den
 Verkehr gebracht werden. Das Saatgut muss ausreichend sortenecht und
@@ -1398,6 +1423,7 @@ sortenrein sein.
 
 
 ### § 20 Anforderungen an die Sortenreinheit und Beschaffenheit, Höchstgewicht einer Partie
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE002903360)
 
 (1) Die Anforderungen an die Sortenreinheit des Standardsaatgutes
 ergeben sich aus Anlage 2 Nummer 7.1.
@@ -1409,6 +1435,7 @@ ergeben sich aus Anlage 3 Nummer 7.
 
 
 ### § 20a Besondere Anforderungen bei Gemüsearten hinsichtlich des Befalls mit RNQPs
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007500119)
 
 (1) Ergänzend zu den in Anlage 2 Nummer 7.2 und in Anlage 3 Nummer 7.2
 vorgeschriebenen Anforderungen gelten für die Vermehrungsflächen,
@@ -1465,6 +1492,7 @@ Arten müssen außerdem im Einklang stehen mit
 
 
 ### § 21 Nachkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003002377)
 
 (1) Die Nachkontrolle von Standardsaatgut wird stichprobenweise
 durchgeführt. Die Nachkontrollstelle zieht die erforderlichen Proben
@@ -1498,10 +1526,12 @@ die Nachkontrollstelle dies demjenigen mit, der nach § 12 Abs. 2 oder
 
 
 ## Abschnitt 4 - Handelssaatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000402377)
 
 
 
 ### § 22 Gestattung des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003103377)
 
 Handelssaatgut folgender Arten darf nach Zulassung zu gewerblichen
 Zwecken in den Verkehr gebracht werden:
@@ -1522,12 +1552,14 @@ Zwecken in den Verkehr gebracht werden:
 
 
 ### § 23 Anforderungen an die Beschaffenheit
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003202377)
 
 Die Anforderungen an die Beschaffenheit des Saatgutes ergeben sich aus
 Anlage 3.
 
 
 ### § 24 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003302377)
 
 (1) Der Antrag auf Zulassung ist bei der Anerkennungsstelle zu
 stellen, in deren Bereich das Saatgut lagert.
@@ -1553,6 +1585,7 @@ Vorschriften entsprechend:
 
 
 ### § 25 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003402377)
 
 (1) In dem Bescheid über den Antrag auf Zulassung sind anzugeben:
 
@@ -1581,10 +1614,12 @@ Vorschriften entsprechend:
 
 
 ## Abschnitt 5 - Saatgutmischungen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000502377)
 
 
 
 ### § 26 Gestattung des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003508118)
 
 (1) Saatgutmischungen dürfen, soweit sich aus den Absätzen 2 bis 5
 keine Einschränkungen ergeben, zu gewerblichen Zwecken in den Verkehr
@@ -1670,6 +1705,7 @@ nicht zu gewerblichen Zwecken in den Verkehr gebracht werden.
 
 
 ### § 27 Antrag, Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003606377)
 
 (1) Wer eine Saatgutmischung herstellen will, hat für jede Partie der
 Mischung eine Mischungsnummer bei der Anerkennungsstelle zu
@@ -1755,6 +1791,7 @@ Probe ergibt sich aus Anlage 4.
 
 
 ### § 28 Rücknahme der Erteilung der Mischungsnummer oder Kennnummer
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003702377)
 
 Wird auf Grund des Ergebnisses der Untersuchung der nach § 27 Abs. 5
 entnommenen Probe die Erteilung der Mischungsnummer oder Kennnummer (§
@@ -1769,10 +1806,12 @@ Mischungsnummer oder Kennnummer von der Rücknahme zu unterrichten.
 
 
 ## Abschnitt 5a - Inverkehrbringen von Saatgut nicht zugelassener Sorten
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000900377)
 
 
 
 ### § 28a Genehmigung durch das Bundessortenamt
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007300377)
 
 Das Bundessortenamt verbindet die Genehmigung nach § 3 Absatz 2 des
 Saatgutverkehrsgesetzes mit der Auflage, dass derjenige, der dieses
@@ -1783,10 +1822,12 @@ Bundessortenamtes nach § 43 Absatz 1a Nummer 1 vorzulegen hat.
 
 
 ## Abschnitt 6 - Kennzeichnung, Verschließung, Schließung und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000602377)
 
 
 
 ### § 29 Etikett
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003812118)
 
 (1) Vor oder bei der Probenahme nach § 11 Abs. 1, § 24 Abs. 3 Nr. 1
 und § 27 Abs. 5 ist jede Packung oder jedes Behältnis des Saatgutes
@@ -1912,6 +1953,7 @@ aufgedruckt ist.
 
 
 ### § 30 Aufdrucketikett
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE003904118)
 
 Bei anerkanntem Saatgut von Getreide, Futterpflanzen oder Öl- und
 Faserpflanzen kann anstelle des Etikettes ein unverwischbarer Aufdruck
@@ -1924,6 +1966,7 @@ Aufsicht anzubringen.
 
 
 ### § 30a Pflanzenpass
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007600119)
 
 (1) Für Saatgut, für das in dieser Verordnung besondere Anforderungen
 hinsichtlich des Befalls mit RNQPs vorgeschrieben sind, bleiben die
@@ -1975,6 +2018,7 @@ einem gemeinsamen Träger aufgedruckt werden können.
 
 
 ### § 31 Einleger
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004002377)
 
 Jede Packung oder jedes Behältnis ist mit einem Einleger in der
 jeweiligen Kennfarbe zu versehen, der als Aufdruck die Bezeichnung
@@ -2003,6 +2047,7 @@ unverwischbar aufgedruckt sind.
 
 
 ### § 32 Angabe einer Saatgutbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004103377)
 
 (1) Ist Saatgut einer chemischen, besonderen physikalischen oder in
 ihrer Wirkung vergleichbaren Behandlung unterzogen worden, so ist dies
@@ -2038,6 +2083,7 @@ Begleitpapier anzugeben.
 
 
 ### § 33 Angaben in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004208118)
 
 (1) Die Packungen oder Behältnisse mit anerkanntem Saatgut müssen auf
 dem Etikett, im Falle der Nummer 2 auf dem Etikett oder einem
@@ -2176,6 +2222,7 @@ darf nicht hingewiesen werden.
 
 
 ### § 34 Verschließung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004304308)
 
 (1) Im Anschluss an die Kennzeichnung nach § 29 Abs. 1 wird jede
 Packung oder jedes Behältnis durch den Probenehmer oder unter seiner
@@ -2282,6 +2329,7 @@ es
 
 
 ### § 35 Ablieferung ungültiger Etiketten, Einleger und Verschlusssicherungen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004402377)
 
 Die Etiketten, Einleger und Verschlusssicherungen der Packungen oder
 Behältnisse sowie die Packungen mit Aufdrucketikett sind nach näherer
@@ -2306,6 +2354,7 @@ machen, wenn
 
 
 ### § 36 Verpacken nach Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004502377)
 
 Ist eine Probe nach § 11 Abs. 3 entnommen worden, so darf das Saatgut
 nur unter Aufsicht eines Probenehmers verpackt werden. Beim Verpacken
@@ -2316,6 +2365,7 @@ Verschlusssicherungen gelten die §§ 29 bis 35 entsprechend.
 
 
 ### § 37 Wiederverschließung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004602377)
 
 (1) Auf Antrag findet eine Wiederverschließung statt. In dem Antrag
 sind die Einwirkungen und Behandlungen anzugeben, denen das Saatgut
@@ -2344,6 +2394,7 @@ Vernichtung abzuliefern.
 
 
 ### § 38 Schließung bei Standardsaatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004702377)
 
 (1) Packungen oder Behältnisse von Standardsaatgut sind von demjenigen
 zu schließen und mit einer Sicherung zu versehen, der sie
@@ -2355,6 +2406,7 @@ Saatgutes verwechselbar sein.
 
 
 ### § 39 Kennzeichnung bei erneuter Beschaffenheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004802377)
 
 Ergibt die erneute Beschaffenheitsprüfung nach § 15, dass die
 Anforderungen an die Beschaffenheit noch erfüllt sind, so kann hierauf
@@ -2363,6 +2415,7 @@ durch den zusätzlichen Vermerk auf dem Etikett hingewiesen werden:
 
 
 ### § 40 Kleinpackungen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE004905118)
 
 (1) Kleinpackungen im Sinne dieser Verordnung sind Packungen von
 Zertifiziertem Saatgut, Standardsaatgut, Handelssaatgut und
@@ -2440,6 +2493,7 @@ amtlicher Aufsicht erneut geschlossen werden.
 
 
 ### § 41 Antrag für eine Kennnummer
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005002377)
 
 Der Antrag auf Zuteilung einer Kennnummer muss sich jeweils auf eine
 Partie von Kleinpackungen beziehen und folgende Angaben enthalten:
@@ -2481,6 +2535,7 @@ Partie von Kleinpackungen beziehen und folgende Angaben enthalten:
 
 
 ### § 42 Abgabe an Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005108124)
 
 (1) Zertifiziertes Saatgut, Standardsaatgut, Handelssaatgut und
 Saatgutmischungen dürfen aus vorschriftsmäßig gekennzeichneten und
@@ -2605,6 +2660,7 @@ dass
 
 
 ### § 43 Kennzeichnung von nicht anerkanntem Saatgut in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005208118)
 
 (1) Wird Saatgut, das nicht anerkannt ist, in den Fällen des § 3 Abs.
 1 Nr. 5, 6 und 8 und Abs. 2 des Saatgutverkehrsgesetzes zu
@@ -2730,10 +2786,12 @@ Etiketten und Einlegern zu machen.
 
 
 ## Abschnitt 7 - Kennzeichnung, Verschließung und Schließung im Rahmen eines OECD-Systems
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000702377)
 
 
 
 ### § 44 Grundvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005307119)
 
 (1) Das Bundessortenamt macht bekannt, welche Arten den jeweiligen
 OECD-Systemen unterliegen.
@@ -2778,6 +2836,7 @@ Sorghum hinzugefügt werden.
 
 
 ### § 45 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005403377)
 
 (1) An die Stelle des Bescheides über die Anerkennung nach § 14 Abs. 1
 tritt ein Zertifikat nach dem jeweiligen Muster der Anlage 7. Bei
@@ -2801,6 +2860,7 @@ Zertifikats nach Absatz 1 anzugeben.
 
 
 ### § 46 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005503124)
 
 (1) An die Stelle der Etiketten nach § 29 und der Einleger nach § 31
 treten Etiketten, die in Form, Größe und Farbe denen des § 29 Abs. 3
@@ -2824,6 +2884,7 @@ werden, soweit die Angaben gut lesbar sind.
 
 
 ### § 47 Kennzeichnung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005602377)
 
 (1) Packungen oder Behältnisse von
 
@@ -2860,6 +2921,7 @@ angebracht werden.
 
 
 ### § 48 Verschließung, Wiederverschließung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE005704119)
 
 (1) Im Anschluss an die Kennzeichnung sind die Packungen oder
 Behältnisse zu verschließen. § 34 gilt entsprechend. Für Packungen
@@ -2896,10 +2958,12 @@ oder § 47 mit der Maßgabe zu verwenden, dass
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNG000803377)
 
 
 
 ### § 48a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007208118)
 
 Etiketten, die am 17. Juni 2017 bereits hergestellt waren, dürfen noch
 bis zum Ablauf des 30. Juni 2019 für die Kennzeichnung von Packungen
@@ -2908,12 +2972,14 @@ sollen, verwendet werden.
 
 
 ### § 49 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006003377)
 
 -
 
 (zu § 4 Abs. 1 Satz 1)
 
 ### Anlage 1 Termin für den Antrag auf Anerkennung von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006209124)
 
 (Fundstelle: BGBl. I 2006, 361;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3030,6 +3096,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6 Satz 1, § 20 Absatz 1)
 
 ### Anlage 2 Anforderungen an den Feldbestand
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006321119)
 
 (Fundstelle: BGBl. I 2006, 362 - 371;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5374,6 +5441,7 @@ Sortengruppen von Roter Rübe:
 (zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 2, §§ 23, 26 Abs. 3 Satz 2)
 
 ### Anlage 3 Anforderungen an die Beschaffenheit des Saatgutes
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006523119)
 
 (Fundstelle: BGBl. I 2006, 372 - 384;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11975,6 +12043,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6a Absatz 1 und 2)
 
 ### Anlage 3a Besondere Anforderungen an den Gesundheitszustand bei landwirtschaftlichen Arten hinsichtlich des Befalls mit RNQPs
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007701119)
 
 (Fundstelle: BGBl. I 2020, 2545 - 2546;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12155,6 +12224,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 20a)
 
 ### Anlage 3b Besondere Anforderungen bei Gemüsearten hinsichtlich des Befalls mit RNQPs
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007801119)
 
 (Fundstelle: BGBl. I 2020, 2546 - 2547;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12365,6 +12435,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 11 Abs. 2, § 20 Abs. 3, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5)
 
 ### Anlage 4 Größe der Partien und Proben
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006617119)
 
 (Fundstelle: BGBl. I 2006, 385 - 386;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12928,6 +12999,7 @@ worden ist, sowie bei Saatgutträgern 7 500 Körner oder Knäuel.
 und 2)
 
 ### Anlage 5 Angaben auf dem Etikett und dem Einleger
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006717119)
 
 (Fundstelle: BGBl. I 2006, 387 - 388;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13193,6 +13265,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu §§ 40 und 42 Abs. 1)
 
 ### Anlage 6 Kleinpackungen Höchstmengen und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006810119)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 389 - 390;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13598,6 +13671,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 7 (zu § 45 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE006907119)
 
 (Fundstelle: BGBl. I 2006, 391 - 392;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13857,6 +13931,7 @@ commerce international**
 (zu §§ 46, 47 und 48 Abs. 3 Nr. 3)
 
 ### Anlage 8 Etiketten und Einleger
+[Direktlink](https://www.gesetze-im-internet.de/saatv/BJNR001460986.html#BJNR001460986BJNE007009119)
 
 (Fundstelle: BGBl. I 2006, 393 - 395
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Teil 1 - Ziel der Prüfung; Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNG000100000)
 
 
 ### § 1 Ziel der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000100000)
 
 In der Prüfung zum Prüfsachverständigen im Eisenbahnbereich nach § 5
 Absatz 4 der Eisenbahn-Prüfsachverständigenverordnung ist
@@ -29,6 +31,7 @@ Prüfsachverständiger erforderliche Sachkunde nach § 4 Absatz 2 Nummer
 
 
 ### § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000200000)
 
 Zur Prüfung ist zuzulassen, wer die Anerkennungsvoraussetzungen nach §
 4 der Eisenbahn-Prüfsachverständigenverordnung mit Ausnahme der
@@ -37,9 +40,11 @@ Eisenbahn-Prüfsachverständigenverordnung hinreichend belegen kann.
 
 
 ## Teil 2 - Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNG000200000)
 
 
 ### § 3 Berufung der Mitglieder; Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000300000)
 
 (1) Das Eisenbahn-Bundesamt beruft die Mitglieder der
 Prüfungskommission für die Abnahme der Prüfungen. Die Mitglieder der
@@ -74,6 +79,7 @@ absehen.
 
 
 ### § 4 Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000400000)
 
 Wer Vorgesetzter eines Prüflings ist oder in demselben Unternehmen wie
 der Prüfling tätig ist, darf nicht Mitglied der Prüfungskommission
@@ -81,6 +87,7 @@ sein.
 
 
 ### § 5 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000500000)
 
 Die Mitglieder der Prüfungskommission und der Schriftführer haben über
 den Verlauf und das Ergebnis der Prüfungen gegenüber Dritten
@@ -89,6 +96,7 @@ zuständigen Behörde.
 
 
 ### § 6 Unabhängigkeit; Unparteilichkeit
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000600000)
 
 Die Mitglieder der Prüfungskommission sind in ihrer Entscheidung
 unabhängig und bei ihrer Beurteilung an Weisungen der zuständigen
@@ -96,9 +104,11 @@ Behörde nicht gebunden. Sie sind zur Unparteilichkeit verpflichtet.
 
 
 ## Teil 3 - Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNG000300000)
 
 
 ### § 7 Prüfungstermine und Prüfungsorte
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000700000)
 
 (1) Prüfungen sollen mindestens einmal im Jahr durchgeführt werden.
 
@@ -110,6 +120,7 @@ Dabei unterrichtet er die Prüflinge auch über den Ablauf der Prüfung.
 
 
 ### § 8 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000800000)
 
 (1) Die Prüfung besteht aus mündlichen Teilprüfungen der Fächer
 
@@ -145,6 +156,7 @@ unterzeichnen.
 
 
 ### § 9 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE000900000)
 
 (1) Die Prüfung ist nicht öffentlich. Es können Vertreter der
 Eisenbahnaufsichtsbehörden anwesend sein.
@@ -155,12 +167,14 @@ Prüfungskommission und der Schriftführer teilnehmen.
 
 
 ### § 10 Ausweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001000000)
 
 Die Prüflinge haben sich auf Verlangen des Leiters der
 Prüfungskommission auszuweisen.
 
 
 ### § 11 Täuschungshandlungen und Ordnungsverstöße; Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001100000)
 
 (1) Die Prüflinge sind vor Beginn der Prüfung über die Folgen von
 Täuschungshandlungen und Ordnungsverstößen zu belehren.
@@ -175,6 +189,7 @@ vorbereiteten Täuschungshandlungen, kann die Prüfung insgesamt für
 
 
 ### § 12 Rücktritt und Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001200000)
 
 (1) Der Prüfling kann vor der Bekanntgabe der ersten Prüfungsaufgabe
 von der Prüfung zurücktreten, indem er eine schriftliche Erklärung
@@ -193,9 +208,11 @@ der Prüfungskommission.
 
 
 ## Teil 4 - Prüfungsergebnis und Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNG000400000)
 
 
 ### § 13 Feststellen des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001300000)
 
 (1) Die Prüfungskommission stellt das Bestehen oder Nichtbestehen der
 Prüfung fest. Sie bewertet die Prüfungsleistung in jedem Fach mit
@@ -213,6 +230,7 @@ bestanden“ zu bewerten.
 
 
 ### § 14 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001400000)
 
 Wer die Prüfung besteht, erhält vom Eisenbahn-Bundesamt einen
 Anerkennungsbescheid nach § 6 Absatz 1 und 2 der Eisenbahn-
@@ -220,6 +238,7 @@ Prüfsachverständigenverordnung.
 
 
 ### § 15 Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001500000)
 
 Hat der Prüfling die Prüfung nicht bestanden, so erteilt das
 Eisenbahn-Bundesamt dem Prüfling über das Nichtbestehen einen
@@ -230,6 +249,7 @@ Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 
 ### § 16 Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001600000)
 
 (1) Eine nicht bestandene Prüfung darf zweimal wiederholt werden,
 jedoch jeweils frühestens sechs Monate nach Beendigung der
@@ -259,9 +279,11 @@ Prüfungsleistungen ist ausgeschlossen.
 
 
 ## Teil 5 - Einsicht in die Prüfungsunterlagen und Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNG000500000)
 
 
 ### § 17 Einsicht in die Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001700000)
 
 (1) Auf Antrag ist dem Prüfling nach Beendigung der Prüfung Einsicht
 in seine Prüfungsunterlagen zu gewähren.
@@ -272,6 +294,7 @@ werden.
 
 
 ### § 18 Aufbewahrung der Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001800000)
 
 Die Prüfungsunterlagen sind nach Bekanntgabe des Prüfungsergebnisses
 zehn Jahre aufzubewahren und nach Ablauf der Aufbewahrungsfrist
@@ -280,9 +303,11 @@ automatisiert, zu löschen.
 
 
 ## Teil 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNG000600000)
 
 
 ### § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE001900000)
 
 (1) Wer vor dem 1. Dezember 2020 eine Prüfung zum Prüfsachverständigen
 insgesamt nicht bestanden hat, jedoch einzelne Teilprüfungen bestanden
@@ -301,6 +326,7 @@ Regelungen dieser Verordnung.
 (§ 8 Absatz 4)
 
 ### Anlage Prüfungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/epspv/BJNR208600020.html#BJNR208600020BJNE002000000)
 
 (Fundstelle: BGBl. I 2020, 2089)
 

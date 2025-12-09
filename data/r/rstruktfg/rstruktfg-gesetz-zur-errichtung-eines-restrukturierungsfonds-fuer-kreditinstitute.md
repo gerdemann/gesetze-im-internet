@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000203123)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Anstalt)
 verwaltet das durch Artikel 3 des Gesetzes zur Restrukturierung und
@@ -33,6 +34,7 @@ Artikels 110 Absatz 1 des Grundgesetzes unter der Bezeichnung
 
 
 ## § 2 Beitragspflichtige Institute
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000304123)
 
 Beitragspflichtige Institute sind alle vom Anwendungsbereich gemäß § 1
 des Sanierungs- und Abwicklungsgesetzes erfassten
@@ -68,6 +70,7 @@ des Instituts erlischt oder aufgehoben wird.
 
 
 ## § 2a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001803123)
 
 (1) Wertpapierinstitut unter Einzelaufsicht ist ein Wertpapierinstitut
 im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes, das
@@ -143,6 +146,7 @@ des Sanierungs- und Abwicklungsgesetzes:
 
 
 ## § 3 Aufgaben und Verwendungszwecke des Restrukturierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000406123)
 
 (1) Der Restrukturierungsfonds dient der Stabilisierung des
 Finanzmarktes. Er wird nach Maßgabe der in § 67 des Sanierungs- und
@@ -172,6 +176,7 @@ Schlussergebnisses des Finanzmarktstabilisierungsfonds herangezogen.
 
 
 ## § 3a Maßnahmen des Restrukturierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001902123)
 
 (1) Im Rahmen der Anwendung der Abwicklungsinstrumente auf
 Wertpapierinstitute unter Einzelaufsicht und Unionszweigstellen kann
@@ -243,6 +248,7 @@ des § 7a zulässig.
 
 
 ## § 3b Maßnahmen aus den Altmitteln des Restrukturierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002001116)
 
 Die Mittel des Restrukturierungsfonds aus den Beitragsjahren 2011,
 2012, 2013 und 2014 können nach Maßgabe von § 12j Absatz 1 und 1a und
@@ -250,6 +256,7 @@ Die Mittel des Restrukturierungsfonds aus den Beitragsjahren 2011,
 
 
 ## § 4 Entscheidung über Restrukturierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000504301)
 
 (1) Über die Maßnahmen des Restrukturierungsfonds nach den §§ 6 bis 8,
 12h bis 12j entscheidet die Abwicklungsbehörde nach pflichtgemäßem
@@ -330,9 +337,11 @@ Rechtsträger gewährt werden.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000601116)
 
 
 ## § 6 Garantien für Verbindlichkeiten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000704123)
 
 (1) Der Restrukturierungsfonds kann Garantien zur Besicherung von
 Verbindlichkeiten eines in Abwicklung befindlichen Wertpapierinstituts
@@ -397,6 +406,7 @@ die Abwicklungsbehörde übertragen.
 
 
 ## § 6a Besicherung und Erwerb von Vermögenswerten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002103123)
 
 (1) Der Restrukturierungsfonds kann Vermögenswerte eines in Abwicklung
 befindlichen Wertpapierinstituts unter Einzelaufsicht, ihrer
@@ -452,6 +462,7 @@ die Abwicklungsbehörde übertragen.
 
 
 ## § 6b Darlehen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002203123)
 
 (1) Der Restrukturierungsfonds kann Darlehen an ein in Abwicklung
 befindliches Wertpapierinstitut unter Einzelaufsicht, ihre
@@ -484,6 +495,7 @@ die Abwicklungsbehörde übertragen.
 
 
 ## § 7 Rekapitalisierung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000805123)
 
 (1) Der Restrukturierungsfonds kann sich im Rahmen einer Übertragung
 nach § 107 Absatz 1 Nummer 1 Buchstabe b oder Nummer 2 des Sanierungs-
@@ -536,6 +548,7 @@ entsprechend anzuwenden.
 
 
 ## § 7a Ausgleichsbeitrag im Rahmen des Instruments der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002303123)
 
 (1) Schließt die Abwicklungsbehörde gemäß § 92 Absatz 1 des
 Sanierungs- und Abwicklungsgesetzes eine bail-in-fähige
@@ -597,6 +610,7 @@ Sanierungs- und Abwicklungsgesetzes erfüllt sind.
 
 
 ## § 8 Entschädigungszahlungen an Anteilsinhaber und Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE000903123)
 
 Der Restrukturierungsfonds kann im Zusammenhang mit
 Abwicklungsmaßnahmen in Bezug auf ein Wertpapierinstitut unter
@@ -606,6 +620,7 @@ oder Entschädigungseinrichtungen zahlen.
 
 
 ## § 9 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001001301)
 
 Der Restrukturierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt
@@ -616,6 +631,7 @@ Gerichtsstand des Restrukturierungsfonds ist Frankfurt am Main.
 
 
 ## § 10 Vermögenstrennung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001102116)
 
 Der Restrukturierungsfonds ist von dem übrigen Vermögen des Bundes,
 seinen Rechten und Verbindlichkeiten zu trennen. § 3 Absatz 4 bleibt
@@ -625,10 +641,12 @@ Verbindlichkeiten des Bundes.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001203301)
 
 
 
 ## § 11a Übertragung von Beiträgen auf den einheitlichen Abwicklungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003502123)
 
 (1) Die Abwicklungsbehörde überträgt ab Anwendbarkeit des
 Übereinkommens vom 21. Mai 2014 über die Übertragung von Beiträgen auf
@@ -684,6 +702,7 @@ einheitlichen Abwicklungsfonds zu übertragen.
 
 
 ## § 11b Pflichten bei vorübergehender Übertragung von Finanzmitteln auf die deutsche Kammer
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003601301)
 
 (1) Wurden nach Artikel 7 Absatz 1 des Übereinkommens vorübergehend
 Finanzmittel auf die deutsche Kammer übertragen, so überträgt die
@@ -701,6 +720,7 @@ den einheitlichen Abwicklungsfonds.
 
 
 ## § 11c Zuständigkeit für die Ausübung der Befugnisse aus dem Übereinkommen; Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003701301)
 
 (1) Zu den Aufgaben der Abwicklungsbehörde zählen
 
@@ -752,6 +772,7 @@ Bundesministerium der Finanzen unverzüglich über
 
 
 ## § 12 Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001310123)
 
 (1) Die Mittel des Restrukturierungsfonds werden durch Beiträge der
 gemäß § 2 Satz 1 beitragspflichtigen Institute erbracht.
@@ -843,6 +864,7 @@ an die Sicherheiten nach den Sätzen 4 und 5 Einzelheiten festlegen.
 
 
 ## § 12a Zielausstattung des Restrukturierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002404123)
 
 Zielausstattung ist die Summe der Jahresbeiträge, die von
 Wertpapierinstituten unter Einzelaufsicht und Unionszweigstellen nach
@@ -852,6 +874,7 @@ sind.
 
 
 ## § 12b Jahresbeiträge der Wertpapierinstitute unter Einzelaufsicht und der Unionszweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002503123)
 
 (1) Soweit die Delegierte Verordnung (EU) 2015/63 keine Regelung
 enthält, regelt die Bundesregierung das Nähere über die von
@@ -872,6 +895,7 @@ Zielausstattung erreicht ist.
 
 
 ## § 12c Sonderbeiträge der Wertpapierinstitute unter Einzelaufsicht und der Unionszweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002603123)
 
 (1) Entscheidet die Abwicklungsbehörde über die in § 3a genannten
 Maßnahmen, hat sie unverzüglich den damit verbundenen Mittelbedarf
@@ -915,10 +939,12 @@ die sie erhoben worden sind, verbleiben im Restrukturierungsfonds.
 
 
 ## § 12d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002701116)
 
 
 
 ## § 12e Einnahmen im Zusammenhang mit Maßnahmen gemäß § 3a
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002801116)
 
 Die von einer in Abwicklung befindlichen CRR-Wertpapierfirma unter
 Einzelaufsicht oder Unionszweigstelle oder einem Brückeninstitut im
@@ -928,6 +954,7 @@ können dem Restrukturierungsfonds zugeführt werden.
 
 
 ## § 12f Informationspflichten; Fälligkeit der Beiträge; Säumniszuschläge; Beitreibung; Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE002903123)
 
 (1) Wertpapierinstitute unter Einzelaufsicht, die Wertpapierinstitute
 im Sinne von Artikel 96 Absatz 1 Buchstabe a oder Buchstabe b der
@@ -987,6 +1014,7 @@ Festsetzungsfrist beträgt vier Jahre.
 
 
 ## § 12g Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003001116)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der
 Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen
@@ -1011,6 +1039,7 @@ Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen
 
 
 ## § 12h Kreditaufnahme zwischen Finanzierungsmechanismen der EU-Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003102123)
 
 (1) Der Restrukturierungsfonds kann bei allen Finanzierungsmechanismen
 der anderen Mitgliedstaaten der Europäischen Union Kredite aufnehmen,
@@ -1084,6 +1113,7 @@ herangezogen.
 
 
 ## § 12i Gegenseitige Unterstützung der Finanzierungsmechanismen bei einer Gruppenabwicklung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003203123)
 
 (1) Sind Wertpapierinstitute unter Einzelaufsicht oder
 Unionszweigstellen Teil einer Gruppenabwicklung im Sinne der §§ 161
@@ -1197,6 +1227,7 @@ der Finanzierung der Abwicklung zugute.
 
 
 ## § 12j Brückenfinanzierung der deutschen Kammer durch Mittel des Restrukturierungsfonds; vorübergehende Finanzierung von Maßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003302301)
 
 (1) Während des Übergangszeitraums nach Artikel 1 Absatz 1 Buchstabe b
 des Übereinkommens kann der Restrukturierungsfonds zur Finanzierung
@@ -1253,6 +1284,7 @@ Absatz 2 unverzüglich zu unterrichten.
 
 
 ## § 13 Wirtschaftsführung und Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001407123)
 
 (1) Die Anstalt stellt für den Restrukturierungsfonds am Ende eines
 jeden Rechnungsjahres die Rechnung über die Einnahmen und Ausgaben
@@ -1283,6 +1315,7 @@ nicht der Zustimmung des Bundesrates bedarf, zu bestimmen.
 
 
 ## § 14 Informations- und Verschwiegenheitspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001503301)
 
 (1) Die Informations- und Verschwiegenheitspflichten gemäß den §§ 4
 bis 10 des Sanierungs- und Abwicklungsgesetzes gelten entsprechend für
@@ -1310,6 +1343,7 @@ Verschwiegenheitspflicht befreit.
 
 
 ## § 15 Steuern
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001600000)
 
 (1) Der Restrukturierungsfonds unterliegt nicht der Gewerbesteuer oder
 der Körperschaftsteuer.
@@ -1323,6 +1357,7 @@ Kapitalertragsteuerabzug.
 
 
 ## § 16 Parlamentarische Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE001703123)
 
 (1) Die parlamentarische Kontrolle des Restrukturierungsfonds und
 seiner Verwaltung wird durch das Gremium nach § 3 des
@@ -1334,6 +1369,7 @@ Gremium unverzüglich über den jeweiligen Sachverhalt unterrichtet.
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfg/BJNR192100010.html#BJNR192100010BJNE003403123)
 
 (1) (weggefallen)
 

@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strzusgubenabkpolg/BJNR084320996.html#BJNR084320996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/strzusgubenabkpolg/BJNR084320996.html#BJNR084320996BJNE000200310)
 
 Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Polen über den
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/strzusgubenabkpolg/BJNR084320996.html#BJNR084320996BJNE000300310)
 
 (1) Auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze
 findet polnisches Waren- und Dienstleistungssteuerrecht Anwendung. Für
@@ -52,6 +55,7 @@ Bestimmungen sind mit Wirkung vom 21. März 1995 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/strzusgubenabkpolg/BJNR084320996.html#BJNR084320996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

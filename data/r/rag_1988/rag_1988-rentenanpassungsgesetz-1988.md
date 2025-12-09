@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE000400328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNG000100328)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE000500328)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1987 auf das Jahr 1988 werden die Renten der gesetzlichen
@@ -36,6 +39,7 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 ### § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE000600328)
 
 (1) Renten, die
 
@@ -62,6 +66,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE000700328)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1988 ergebende
@@ -69,6 +74,7 @@ anpassungsfähige Rentenbetrag um 3 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE000800328)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -87,6 +93,7 @@ zulässig.
 
 
 ### § 5 Allgemeine Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE000900328)
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1988 beträgt
 
@@ -108,26 +115,31 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1988 beträgt
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNG000200328)
 
 
 
 ### § 6 Anpassungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE001000328)
 
 Der Anpassungsfaktor für die vom 1. Juli 1988 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,03.
 
 
 ### § 7 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE001100328)
 
 Das Pflegegeld beträgt vom 1. Juli 1988 an zwischen 426 Deutsche Mark
 und 1.706 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNG000300328)
 
 
 
 ### § 8 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1988/BJNR105810988.html#BJNR105810988BJNE001200328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

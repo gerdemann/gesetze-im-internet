@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkisrg/BJNR029820996.html#BJNR029820996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkisrg/BJNR029820996.html#BJNR029820996BJNE000200310)
 
 Dem in Jerusalem am 12. Februar 1995 unterzeichneten Zusatzabkommen
 zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik
@@ -35,6 +37,7 @@ wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkisrg/BJNR029820996.html#BJNR029820996BJNE000300310)
 
 Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz
 beruhenden Leistungen sind Ausgaben der Rentenversicherung für das
@@ -42,6 +45,7 @@ Beitrittsgebiet.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkzusabkisrg/BJNR029820996.html#BJNR029820996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage seiner Verkündung in Kraft.
 

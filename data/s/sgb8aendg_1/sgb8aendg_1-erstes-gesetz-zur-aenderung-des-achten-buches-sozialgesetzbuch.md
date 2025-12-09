@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb8_ndg_1/BJNR023900993.html#BJNR023900993BJNE000100333)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 4 (Änderungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/sgb8_ndg_1/BJNR023900993.html#BJNR023900993BJNE000200333)
 
 
 
 ## Art 5 Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb8_ndg_1/BJNR023900993.html#BJNR023900993BJNE000300333)
 
 Beurkundungen und Beglaubigungen nach § 59 Abs. 1 des Achten Buches
 Sozialgesetzbuch, die nach Inkrafttreten des Kinder- und
@@ -38,6 +41,7 @@ Verwaltungsdienst besessen haben.
 
 
 ## Art 6 Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb8_ndg_1/BJNR023900993.html#BJNR023900993BJNE000400333)
 
 (1) Die auf Artikel 4 Abs. 5 beruhenden Teile der Verordnung zur
 Durchführung des § 72 des Bundessozialhilfegesetzes können auf Grund
@@ -50,6 +54,7 @@ Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb8_ndg_1/BJNR023900993.html#BJNR023900993BJNE000500333)
 
 (1) Artikel 2 Nr. 2 dieses Gesetzes tritt mit Wirkung vom 1. Januar
 1991 in Kraft. Im übrigen tritt dieses Gesetz am 1. April 1993 in

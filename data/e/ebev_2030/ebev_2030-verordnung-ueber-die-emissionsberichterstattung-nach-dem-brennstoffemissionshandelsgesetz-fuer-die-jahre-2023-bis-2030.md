@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000100000)
 
 Auf Grund des § 6 Absatz 5 und des § 7 Absatz 4 und Absatz 5 Satz 2
 des Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I
@@ -27,9 +28,11 @@ sind, verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000300000)
 
 Diese Verordnung ist innerhalb des Anwendungsbereichs des
 Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I S.
@@ -41,6 +44,7 @@ des Brennstoffemissionshandelsgesetzes für die Periode von 2023 bis
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000400000)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des
 Brennstoffemissionshandelsgesetzes und der
@@ -192,9 +196,11 @@ Brennstoffemissionshandelsverordnung vom 17. Dezember 2020 (BGBl. I S.
 
 
 ## Abschnitt 2 - Überwachungsplan (zu § 6 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNG000200000)
 
 
 ### § 3 Inhalt des Überwachungsplans und des vereinfachten Überwachungsplans; Frist zur Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000500000)
 
 (1) Der nach § 6 Absatz 1 des Brennstoffemissionshandelsgesetzes von
 dem Verantwortlichen einzureichende Überwachungsplan für die
@@ -248,9 +254,11 @@ mindestens die Angaben nach Anlage 1 Teil 2 enthält. Die Absätze 2 und
 
 
 ## Abschnitt 3 - Überwachung und Ermittlung der Brennstoffemissionen; Emissionsbericht (zu den §§ 6 und 7 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNG000300000)
 
 
 ### § 4 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000600000)
 
 (1) Für die Überwachung, Ermittlung und Berichterstattung der
 Brennstoffemissionen gelten die in den Absätzen 2 bis 4 näher
@@ -284,6 +292,7 @@ der Emissionsdaten des Verantwortlichen enthalten.
 
 
 ### § 5 Methoden zur Ermittlung von Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000700000)
 
 (1) Der Verantwortliche hat die Brennstoffemissionen der in jedem
 Kalenderjahr in Verkehr gebrachten Brennstoffe nach den Vorschriften
@@ -348,6 +357,7 @@ jeweiligen Brennstoffs folgenden Jahres mitteilt.
 
 
 ### § 6 Brennstoffmengen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000800000)
 
 (1) Soweit in dieser Verordnung nicht anders bestimmt, ist bei der
 rechnerischen Ermittlung der Brennstoffemissionen eines Kalenderjahres
@@ -415,6 +425,7 @@ Lageranfangsbestand des Folgejahres der Anlage entsprechen.
 
 
 ### § 7 Berechnungsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE000900000)
 
 (1) Soweit in dieser Verordnung nicht anders bestimmt, sind bei der
 rechnerischen Ermittlung der Brennstoffemissionen eines Kalenderjahres
@@ -459,6 +470,7 @@ begründen.
 
 
 ### § 8 Berücksichtigung des Biomasseanteils bei der Ermittlung der Brennstoffemissionen in den Fällen des § 2 Absatz 2 des Brennstoffemissionshandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001000000)
 
 (1) Für den Biomasseanteil eines flüssigen Biobrennstoffs oder eines
 Biokraftstoffs kann der Verantwortliche bei der Ermittlung der
@@ -575,6 +587,7 @@ Zertifizierungssystems belegen.
 
 
 ### § 9 Berücksichtigung des Biomasseanteils bei der Ermittlung der Brennstoffemissionen in den Fällen des § 2 Absatz 2a des Brennstoffemissionshandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001100000)
 
 (1) Abweichend von § 8 sind bei der Ermittlung der
 Brennstoffemissionen aus Brennstoffen nach Anlage 2 Teil 5 für die
@@ -618,6 +631,7 @@ für Trocknungsprozesse nutzen, muss kein Nachweis erbracht werden.
 
 
 ### § 10 Berücksichtigung des Anteils flüssiger oder gasförmiger erneuerbarer Brennstoffe nicht-biogenen Ursprungs bei der Ermittlung der Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001200000)
 
 (1) Bei der Ermittlung der Brennstoffemissionen kann der
 Verantwortliche für den Anteil eines Brennstoffs, der aus flüssigen
@@ -648,6 +662,7 @@ Brennstoffemissionen ist Anlage 2 Teil 2 anzuwenden.
 
 
 ### § 11 Berücksichtigung dauerhaft eingebundener oder gespeicherter Brennstoffemissionen bei der Ermittlung der Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001300000)
 
 Bei der Ermittlung der Brennstoffemissionen kann der Verantwortliche
 in den Fällen des § 2 Absatz 2a des Brennstoffemissionshandelsgesetzes
@@ -662,6 +677,7 @@ anzuwenden.
 
 
 ### § 12 Kontinuierliche Emissionsmessung
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001400000)
 
 (1) Die zur Ermittlung der Brennstoffemissionen durch direkte
 kontinuierliche Messung der Kohlendioxid-Konzentration und des
@@ -758,6 +774,7 @@ Brennstoffen gemäß Anlage 2 Teil 5 zu ermitteln und zu berichten.
 
 
 ### § 13 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001500000)
 
 (1) Der nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes zu
 erstellende Emissionsbericht hat Folgendes zu umfassen:
@@ -788,6 +805,7 @@ berichtigen, in dem der Ablesezeitraum endet.
 
 
 ### § 14 Berichterstattungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001600000)
 
 Der Verantwortliche ist nicht zur Berichterstattung nach § 7 Absatz 1
 des Brennstoffemissionshandelsgesetzes verpflichtet, wenn er im Laufe
@@ -797,6 +815,7 @@ weniger als 1 Tonne Kohlendioxid führen können.
 
 
 ### § 15 Verifizierung
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001700000)
 
 (1) Gegenstand der Verifizierung durch die Prüfstelle sind der
 Emissionsbericht nach § 7 Absatz 1 des
@@ -914,6 +933,7 @@ S. 1853), die zuletzt durch Artikel 15 des Gesetzes vom 20. Juli 2022
 
 
 ### § 16 Vermeidung von Doppelerfassungen nach § 7 Absatz 4 Nummer 5 des Brennstoffemissionshandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001800000)
 
 (1) Verantwortliche können eine entsprechende Menge an
 Brennstoffemissionen von den nach § 7 Absatz 1 des
@@ -1035,6 +1055,7 @@ Verantwortlichen zur Geltendmachung zur Verfügung gestellt wurde.
 
 
 ### § 17 Vermeidung von Doppelbelastungen nach § 7 Absatz 5 des Brennstoffemissionshandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE001900000)
 
 (1) Der Verantwortliche kann eine Menge an Brennstoffemissionen von
 den nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes zu
@@ -1114,9 +1135,11 @@ einer dem EU-Emissionshandel unterliegenden Anlage geliefert wurden.
 
 
 ## Abschnitt 4 - Datenverwaltung und Datenkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNG000400000)
 
 
 ### § 18 Datenverwaltung und Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002000000)
 
 (1) Der Verantwortliche ist verpflichtet, Verfahrensanweisungen für
 die Datenverwaltung zur Überwachung von Brennstoffemissionen und für
@@ -1140,6 +1163,7 @@ durchgeführten Prüfung der jährlichen Emissionsberichte.
 
 
 ### § 19 Aufbewahrung von Unterlagen und Daten
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002100000)
 
 (1) Verantwortliche müssen alle Unterlagen und Daten, auf deren Basis
 ein Emissionsbericht nach § 7 Absatz 1 des
@@ -1171,15 +1195,18 @@ zu löschen.
 
 
 ## Abschnitt 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNG000500000)
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 3 Absatz 1 und 4)
 
 ### Anlage 1 Mindestinhalt des Überwachungsplans und des vereinfachten Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002300000)
 
 (Fundstelle: BGBl. I 2022, 2879 - 2880)
 
@@ -1396,6 +1423,7 @@ Nachweise enthalten.
 Absatz 6, § 16 Absatz 1 und 2, § 17 Absatz 1)
 
 ### Anlage 2 Ermittlung der Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002400000)
 
 (Fundstelle: BGBl. I 2022, 2881 - 2886)
 
@@ -2903,6 +2931,7 @@ Gewichtsprozent ist mit 1 GJ/t anzusetzen.
 (zu § 13 Absatz 1)
 
 ### Anlage 3 Mindestinhalt des jährlichen Emissionsberichts
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002500000)
 
 (Fundstelle: BGBl. I 2022, 2887 - 2888)
 
@@ -3129,6 +3158,7 @@ Nachweise enthalten:
 (zu § 5 Absatz 4, § 7 Absatz 3 und 4, § 15 Absatz 1)
 
 ### Anlage 4 Methoden zur Ermittlung der Berechnungsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002600000)
 
 (Fundstelle: BGBl. I 2022, 2889)
 
@@ -3249,6 +3279,7 @@ jährlichen Mittelwerts der Analysen kleiner als 1,5 % ist.
 (zu § 17)
 
 ### Anlage 5 Erforderliche Erklärungen, Angaben und Nachweise des belieferten Unternehmens im Zusammenhang mit dem Abzug von Brennstoffemissionsmengen bei der Lieferung von Brennstoffen zum Einsatz in einer dem EU-Emissionshandel unterliegenden Anlage
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002700000)
 
 (Fundstelle: BGBl. I 2022, 2890)
 
@@ -3329,6 +3360,7 @@ Emissionsbericht nach § 5 des Treibhausgas-Emissionshandelsgesetzes
 (zu § 18)
 
 ### Anlage 6 Mindestinhalt der Verfahrensanweisungen zur Datenverwaltung im Zusammenhang mit Kontrollaktivitäten
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2030/BJNR286800022.html#BJNR286800022BJNE002800000)
 
 (Fundstelle: BGBl. I 2022, 2891)
 

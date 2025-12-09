@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1 Zustimmung zu dem Übereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/satellit_bkg/BJNR201130979.html#BJNR201130979BJNE000100303)
 
 Dem in Brüssel am 21. Mai 1974 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Verbreitung der durch
@@ -27,6 +28,7 @@ Satelliten übertragenen programmtragenden Signale wird zugestimmt. Das
 
 
 ## Art 2 Ausschließliches Recht zur Weitersendung
+[Direktlink](https://www.gesetze-im-internet.de/satellit_bkg/BJNR201130979.html#BJNR201130979BJNE000200303)
 
 (1) Sendeunternehmen mit Sitz in einem Vertragsstaat des
 Übereinkommens haben das ausschließliche Recht, Sendungen, die zur
@@ -71,12 +73,14 @@ die Übertragung über Satelliten vor dem Inkrafttreten des
 
 
 ## Art 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/satellit_bkg/BJNR201130979.html#BJNR201130979BJNE000300303)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/satellit_bkg/BJNR201130979.html#BJNR201130979BJNE000400303)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Sachkundenachweis
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNG000100000)
 
 
 ### § 1 Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000203116)
 
 (1) Gegenstand der Sachkundeprüfung nach § 34f Absatz 2 Nummer 4 auch
 in Verbindung mit § 34h Absatz 1 Satz 4 der Gewerbeordnung sind die
@@ -75,6 +77,7 @@ Sachkundeprüfung bestimmen sich nach der Anlage 1.
 
 
 ### § 2 Zuständige Stelle und Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000302116)
 
 (1) Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer
 abgelegt werden, die diese anbietet.
@@ -94,6 +97,7 @@ Prüfungsausschuss, schließen.
 
 
 ### § 3 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000405128)
 
 (1) Die Sachkundeprüfung besteht aus einem schriftlichen und einem
 praktischen Teil. Die Teilnahme am praktischen Teil der Prüfung setzt
@@ -253,6 +257,7 @@ durch Satzung.
 
 
 ### § 4 Gleichstellung anderer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000503128)
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger
 sind der Sachkundeprüfung gleichgestellt:
@@ -334,6 +339,7 @@ oder Anlagevermittlung nachgewiesen wird.
 
 
 ### § 5 Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000602128)
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten
 Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich
@@ -351,9 +357,11 @@ Wirtschaftraum erworbenen Abschluss.
 
 
 ## Abschnitt 2 - Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNG000200000)
 
 
 ### § 6 Angaben zur Speicherung im Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000702116)
 
 Im Register nach § 11a der Gewerbeordnung werden folgende Angaben zu
 den Eintragungspflichtigen gespeichert:
@@ -403,6 +411,7 @@ Vermittlertätigkeiten zuständig sind.
 
 
 ### § 7 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000801118)
 
 (1) Der Eintragungspflichtige hat der zuständigen Erlaubnisbehörde
 unverzüglich nach Aufnahme seiner Tätigkeit die Angaben nach § 6 Satz
@@ -426,6 +435,7 @@ nach § 11a Absatz 3a Satz 3 der Gewerbeordnung.
 
 
 ### § 8 Zugang
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE000902116)
 
 Die Angaben nach § 6 Satz 1 Nummer 2 und 9 dürfen nicht automatisiert
 abgerufen werden. Die Registerbehörde darf zu diesen Angaben nur den
@@ -434,9 +444,11 @@ geben.
 
 
 ## Abschnitt 3 - Anforderungen an die Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNG000300000)
 
 
 ### § 9 Umfang der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001003116)
 
 (1) Die Versicherung gemäß § 34f Absatz 2 Nummer 3, auch in Verbindung
 mit § 34h Absatz 1 Satz 4, der Gewerbeordnung muss bei einem im Inland
@@ -476,6 +488,7 @@ dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
 
 ### § 10 Anzeigepflicht des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001102116)
 
 (1) Die vom Versicherungsunternehmen nach § 113 Absatz 2 des
 Versicherungsvertragsgesetzes erteilte Versicherungsbestätigung darf
@@ -509,9 +522,11 @@ Behörde.
 
 
 ## Abschnitt 4 - Informations-, Beratungs- und Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNG000400000)
 
 
 ### § 11 Allgemeine Verhaltenspflicht
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001201116)
 
 Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der
 erforderlichen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit im
@@ -519,6 +534,7 @@ bestmöglichen Interesse des Anlegers auszuüben.
 
 
 ### § 11a Vermeidung, Regelung und Offenlegung von Interessenkonflikten, Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE003201128)
 
 (1) Der Gewerbetreibende muss angemessene Maßnahmen treffen, um
 Interessenkonflikte zu erkennen und zu vermeiden, die zwischen ihm und
@@ -561,6 +577,7 @@ entsprechend.
 
 
 ### § 12 Statusbezogene Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001303116)
 
 (1) Der Gewerbetreibende hat dem Anleger vor der ersten Anlageberatung
 oder -vermittlung folgende Angaben klar und verständlich in Textform
@@ -622,6 +639,7 @@ Gewerbetreibenden bleiben unberührt.
 
 
 ### § 12a Information des Anlegers über Vergütungen und Zuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE003000116)
 
 Der Gewerbetreibende ist verpflichtet, den Anleger vor Beginn der
 Anlageberatung oder -vermittlung und vor Abschluss des
@@ -640,6 +658,7 @@ darüber zu informieren,
 
 
 ### § 13 Information des Anlegers über Risiken, Kosten und Nebenkosten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001403116)
 
 (1) Der Gewerbetreibende ist verpflichtet, dem Anleger rechtzeitig vor
 Abschluss eines Geschäfts und in verständlicher Form angemessene
@@ -782,6 +801,7 @@ Recht hinzuweisen.
 
 
 ### § 14 Redliche, eindeutige und nicht irreführende Informationen und Werbung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001502116)
 
 (1) Alle Informationen einschließlich Werbemitteilungen, die der
 Gewerbetreibende dem Anleger zugänglich macht, müssen redlich,
@@ -816,6 +836,7 @@ Kommission entsprechend anzuwenden.
 
 
 ### § 15 Bereitstellung des Informationsblatts
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001601360)
 
 Im Fall einer Anlageberatung über Vermögensanlagen im Sinne des § 1
 Absatz 2 des Vermögensanlagengesetzes hat der Gewerbetreibende dem
@@ -826,6 +847,7 @@ Vermögensanlagengesetzes zu erstellen ist, zur Verfügung zu stellen.
 
 
 ### § 16 Einholung von Informationen über den Anleger; Pflicht zur Empfehlung geeigneter Finanzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001705128)
 
 (1) Der Gewerbetreibende hat im Rahmen der Anlageberatung vom Anleger
 alle Informationen
@@ -982,6 +1004,7 @@ Gewerbetreibende
 
 
 ### § 17 Offenlegung von Zuwendungen durch Gewerbetreibende nach § 34f der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001802116)
 
 (1) Der Gewerbetreibende nach § 34f der Gewerbeordnung darf im
 Zusammenhang mit der Vermittlung von und Beratung über Finanzanlagen
@@ -1019,6 +1042,7 @@ vom Verbot nach Absatz 1 ausgenommen.
 
 
 ### § 17a Offenlegung und Auskehr von Zuwendungen durch Gewerbetreibende nach § 34h der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE003100116)
 
 (1) Der Gewerbetreibende nach § 34h der Gewerbeordnung hat im Fall des
 § 34h Absatz 3 Satz 2 und 3 der Gewerbeordnung Existenz, Art und
@@ -1040,6 +1064,7 @@ unverzüglich und ungemindert an den Kunden auszukehren.
 
 
 ### § 18 Anfertigung einer Geeignetheitserklärung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE001901116)
 
 (1) Der Gewerbetreibende muss dem Anleger, der Privatkunde im Sinne
 des § 67 Absatz 3 des Wertpapierhandelsgesetzes ist, auf einem
@@ -1071,6 +1096,7 @@ Anlagezielen und den sonstigen Merkmalen des Anlegers entspricht.
 
 
 ### § 18a Aufzeichnung telefonischer Vermittlungs- und Beratungsgespräche und sonstiger elektronischer Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE003300116)
 
 (1) Der Gewerbetreibende ist verpflichtet, zum Zwecke der
 Beweissicherung die Inhalte von Telefongesprächen und sonstiger
@@ -1157,6 +1183,7 @@ der Kommission entsprechend anzuwenden.
 
 
 ### § 19 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002001116)
 
 Der Gewerbetreibende hat sicherzustellen, dass auch seine
 Beschäftigten die Pflichten nach den §§ 11 bis 18a erfüllen. Führt ein
@@ -1166,9 +1193,11 @@ zur Verfügung zu stellen.
 
 
 ## Abschnitt 5 - Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNG000500000)
 
 
 ### § 20 Unzulässigkeit der Annahme von Geldern und Anteilen von Anlegern
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002101116)
 
 Der Gewerbetreibende ist nicht befugt, sich im Zusammenhang mit der
 Finanzanlagenberatung oder -vermittlung nach § 34f Absatz 1 Satz 1 der
@@ -1178,10 +1207,12 @@ oder Anteilen von Anlegern zu verschaffen.
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002202128)
 
 
 
 ### § 22 Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002303116)
 
 (1) Der Gewerbetreibende hat von der Annahme des Auftrags an nach
 Maßgabe der Absätze 2 und 3 Aufzeichnungen zu machen sowie Unterlagen
@@ -1255,6 +1286,7 @@ Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
 
 ### § 23 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002401116)
 
 Die Aufzeichnungen nach § 18a Absatz 1 Satz 1 und Absatz 4 sowie die
 in § 22 genannten Unterlagen sind zehn Jahre auf einem dauerhaften
@@ -1266,6 +1298,7 @@ ist.
 
 
 ### § 24 Prüfungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002503128)
 
 (1) Der Gewerbetreibende hat
 
@@ -1353,6 +1386,7 @@ der Befangenheit besteht.
 
 
 ### § 25 Rechte und Pflichten der an der Prüfung Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002600000)
 
 (1) Der Gewerbetreibende hat dem Prüfer jederzeit Einsicht in die
 Bücher, Aufzeichnungen und Unterlagen zu gestatten. Er hat ihm alle
@@ -1369,9 +1403,11 @@ Gesamtschuldner.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNG000600000)
 
 
 ### § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002705128)
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
@@ -1484,6 +1520,7 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz
 (zu § 1 Absatz 2)
 
 ### Anlage 1 Inhaltliche Anforderungen an die Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002804128)
 
 (Fundstelle: BGBl. I 2012, 1015 - 1017; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -2153,6 +2190,7 @@ vgl. Fußnote)
 (zu § 3 Absatz 8)
 
 ### Anlage 2 Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (offene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (geschlossene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/finvermv/BJNR100610012.html#BJNR100610012BJNE002903116)
 
 (Fundstelle: BGBl. I 2012, 1018)
 

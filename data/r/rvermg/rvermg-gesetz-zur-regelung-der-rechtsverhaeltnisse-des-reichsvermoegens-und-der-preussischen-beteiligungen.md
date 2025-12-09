@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Bundesvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000200314)
 
 (1) Eigentum und sonstige Vermögensrechte, die dem Deutschen Reich am
 oder nach dem 8. Mai 1945 zustanden, sind Vermögen des Bundes. Das
@@ -39,6 +40,7 @@ soweit sie nach diesem Gesetz nicht dem Land zustehen.
 
 
 ## § 2 Den Aufgabennachfolgern zustehendes Reichsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000300314)
 
 Vermögensrechte des Deutschen Reichs (§ 1), die am 8. Mai 1945
 überwiegend und nicht nur vorübergehend für einen Sachbereich einer
@@ -48,6 +50,7 @@ zuständig ist, stehen diesem Rechtsträger zu.
 
 
 ## § 3 Für Aufgaben eines Landes benutztes Reichsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000400314)
 
 Vermögensrechte des Deutschen Reichs (§ 1), auf welche die
 Voraussetzungen des § 2 nicht zutreffen und die bei Inkrafttreten
@@ -57,6 +60,7 @@ stehen dem Land zu, dem diese Verwaltungsaufgabe obliegt.
 
 
 ## § 4 Oberfinanzdirektionen
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000500314)
 
 Das Eigentum des Deutschen Reichs (§ 1) an Grundstücken, die bei
 Inkrafttreten dieses Gesetzes überwiegend und nicht nur vorübergehend
@@ -68,6 +72,7 @@ anzuwenden.
 
 
 ## § 5 Rückfallvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000600314)
 
 (1) Vermögensrechte des Deutschen Reichs (§ 1), die ein Land oder eine
 Gemeinde (Gemeindeverband) unmittelbar oder durch einen Dritten dem
@@ -129,6 +134,7 @@ zugefallen ist.
 
 
 ## § 6 Sonderregelung bei vereinbarter Verwaltungszuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000700314)
 
 (1) Ist nach dem 31. Juli 1951 und vor Inkrafttreten dieses Gesetzes
 im Rahmen von Verhandlungen, welche zwischen dem Bund und einem Land
@@ -162,6 +168,7 @@ privaten Rechts.
 
 
 ## § 7 Übertragung der Rechte
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000800314)
 
 Vermögensrechte des Deutschen Reichs (§ 1), die nach den §§ 2 bis 6
 dieses Gesetzes einem Land, einer Gemeinde (Gemeindeverband) oder
@@ -170,6 +177,7 @@ von diesem zu übernehmen.
 
 
 ## § 8 Unübertragbare Vermögensrechte
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE000900314)
 
 Unter die §§ 1 bis 6 fallen auch Vermögensrechte, die durch Gesetz für
 unübertragbar oder nur auf Grund besonderer Vereinbarung für
@@ -177,6 +185,7 @@ unübertragbar oder nur auf Grund besonderer Vereinbarung für
 
 
 ## § 9 Feststellung der vom Bund auf andere Rechtsträger zu übertragenden Rechte an Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001000314)
 
 (1) Die Länder übergeben dem Bund innerhalb von sechs Monaten nach
 Inkrafttreten dieses Gesetzes Verzeichnisse der Grundstücke, der
@@ -195,6 +204,7 @@ seinen Anspruch entschieden ist.
 
 
 ## § 10 Formvorschriften für die Übertragung von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001100314)
 
 Für die Übertragung (§ 1 Abs. 3, § 7) des Eigentums oder eines anderen
 Rechts an einem Grundstück gilt folgendes:
@@ -214,6 +224,7 @@ Rechts an einem Grundstück gilt folgendes:
 
 
 ## § 11 Formvorschriften für eine Berichtigung des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001200314)
 
 Ist als Eigentümer eines Grundstücks oder als Berechtigter eines
 sonstigen Rechts an einem Grundstück ein nicht mehr bestehender
@@ -225,6 +236,7 @@ Eigentümer oder sonstiger Berechtigter der Bund ist.
 
 
 ## § 12 Übergang von Beteiligungsrechten auf die Länder
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001300314)
 
 (1) Die Beteiligungen, die dem Deutschen Reich oder dem ehemaligen
 Land Preußen am oder nach dem 8. Mai 1945 an den in der Anlage
@@ -241,6 +253,7 @@ Rheinland-Pfalz über.
 
 
 ## § 13 Übertragung von Beteiligungsrechten auf die Länder
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001400314)
 
 (1) Soweit die Beteiligungen des Deutschen Reichs an der
 
@@ -281,6 +294,7 @@ Gesellschaften gelten als erteilt.
 
 
 ## § 14 Ausgleich zwischen Bund, Ländern und sonstigen Verwaltungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001500314)
 
 (1) Soweit nichts anderes vereinbart ist, gehen im Zusammenhang mit
 der Verwaltung von Vermögensrechten (§ 1) bis zum Inkrafttreten dieses
@@ -323,6 +337,7 @@ werden.
 
 
 ## § 15 Bundesgesetzliche Vorabregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001600314)
 
 (1) Dieses Gesetz gilt nicht für Vermögensrechte (§ 1), die unter die
 Vorschriften
@@ -375,6 +390,7 @@ den §§ 2, 3, 5 oder 6 einem Land zustehen.
 
 
 ## § 16 Besatzungs- und Stationierungsschäden
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001700314)
 
 (1) Besatzungsschäden, die nach dem 31. März 1950 an Sachen verursacht
 worden sind, die nach diesem Gesetz einem Land, einer Gemeinde
@@ -401,6 +417,7 @@ beginnt mit dem Tag der Übertragung der in § 7 bezeichneten Rechte.
 
 
 ## § 17 Kosten anhängiger Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001800314)
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
@@ -408,6 +425,7 @@ gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
 
 
 ## § 18 Kosten der Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE001900314)
 
 (1) Gerichtsgebühren sowie Abgaben, für die der Bund nach Artikel 105
 des Grundgesetzes die Gesetzgebung hat, die aus Anlaß und in
@@ -420,6 +438,7 @@ Auslagen bleiben außer Ansatz.
 
 
 ## § 19 Sondervorschriften für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE002000314)
 
 (1) § 5 gilt nicht im Land Berlin. Eine besondere Regelung bleibt
 insoweit vorbehalten.
@@ -432,6 +451,7 @@ geregelt sind.
 
 
 ## § 20 Sondervorschriften für das Saarland
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE002100314)
 
 (1) Dieses Gesetz gilt nicht für im Saarland belegene Vermögensrechte
 (§ 1), soweit die Rechtsverhältnisse derartiger Vermögensrechte im
@@ -456,6 +476,7 @@ geregelt sind.
 
 
 ## § 21 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE002200314)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -463,6 +484,7 @@ S. 1) auch im Land Berlin.
 
 
 ## § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE002300314)
 
 (1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung
 folgenden dritten Kalendermonats in Kraft.
@@ -472,6 +494,7 @@ Verkündung folgenden zwölften Kalendermonats in Kraft.
 
 
 ## Anlage (zu § 12 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rvermg/BJNR005970961.html#BJNR005970961BJNE002400314)
 
 Fundstelle des Originaltextes: BGBl. I 1961, 602
 

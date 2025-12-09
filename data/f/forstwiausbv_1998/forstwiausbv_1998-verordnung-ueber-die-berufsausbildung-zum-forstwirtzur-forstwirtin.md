@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten
@@ -29,11 +30,13 @@ Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000200310)
 
 Der Ausbildungsberuf Forstwirt/Forstwirtin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000300310)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -45,6 +48,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000400310)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -61,6 +65,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000500310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -150,6 +155,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000600310)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den
 Anlagen I und II für die berufliche Grundbildung und für die
@@ -163,12 +169,14 @@ die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -177,6 +185,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -254,6 +263,7 @@ insbesondere aus folgenden Bereichen zu bearbeiten:
 
 
 ## § 9 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE001000310)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -430,6 +440,7 @@ schriftlichen Prüfung mit ungenügend bewertet worden ist.
 
 
 ## § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE001100310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -438,6 +449,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE001200310)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
@@ -446,6 +458,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur
 Forstwirtin
 
 ## Anlage I - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE001300310)
 
 (Fundstelle: BGBl. I 1998, S. 209 - 215)
 
@@ -1563,6 +1576,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur
 Forstwirtin
 
 ## Anlage II - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/forstwiausbv_1998/BJNR020600998.html#BJNR020600998BJNE001400310)
 
 (Fundstelle: BGBl. I 1998, S. 216 - 218)
 

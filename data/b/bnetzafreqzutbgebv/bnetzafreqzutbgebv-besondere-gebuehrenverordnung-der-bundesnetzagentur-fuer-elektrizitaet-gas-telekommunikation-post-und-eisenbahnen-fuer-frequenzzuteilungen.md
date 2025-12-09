@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 in Verbindung mit Absatz 1 Satz 2 des
 Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) sowie in
@@ -38,6 +39,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Erhebung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000200000)
 
 Die Bundesnetzagentur erhebt Gebühren nach Maßgabe dieser Verordnung
 für Entscheidungen über die Zuteilung von Frequenzen nach § 55 des
@@ -48,12 +50,14 @@ Telekommunikationsgesetzes.
 
 
 ## § 2 Höhe der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000300000)
 
 Die gebührenpflichtigen Tatbestände und die Höhe der festzusetzenden
 Gebühren bestimmen sich nach dem Gebührenverzeichnis in der Anlage.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000400000)
 
 (1) Sofern im Gebührenverzeichnis eine Zeitgebühr vorgesehen ist,
 gelten für den Zeitaufwand von Verwaltungsbeschäftigten der
@@ -101,6 +105,7 @@ werden, gelten für die aufgewendete Zeit die folgenden Stundensätze:
 
 
 ## § 4 Gebührenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000500000)
 
 (1) Im Rahmen des bestimmungsgemäßen Gebrauchs der Frequenzen sind von
 den Gebühren befreit:
@@ -143,12 +148,14 @@ sind.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000600000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 2)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bnetzafreqzutbgebv/BJNR451500021.html#BJNR451500021BJNE000700000)
 
 (Fundstelle: BGBl. I 2021, 4517 - 4527)
 

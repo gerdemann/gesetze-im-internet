@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000100000)
 
 Das Land Brandenburg und das Land Sachsen-Anhalt schließen auf der
 Grundlage des Artikels 29 Absatz 7 des Grundgesetzes und des Gesetzes
@@ -29,6 +30,7 @@ und Gemeindeverbände nachstehenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000200000)
 
 (1) Die Flurstücke 28/1, 28/2 und 29 der Flur 6 der Gemarkung 1706
 Magdeburgerforth 01, Gemeinde Buckautal, Landkreis Potsdam-Mittelmark,
@@ -84,6 +86,7 @@ dieses Staatsvertrages.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000300000)
 
 Durch die Änderung der Grenze zwischen den vertragschließenden Ländern
 wird die Zuständigkeit eines Gerichts für die bei ihm anhängigen
@@ -96,6 +99,7 @@ Vollstreckungsgegenklage, Entscheidungen über die Strafvollstreckung).
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000400000)
 
 Das in den nach Artikel 1 abzutretenden Gebietsteilen jeweils belegene
 Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht
@@ -106,6 +110,7 @@ vertragschließenden Land zuständige entsprechende Körperschaft des
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000500000)
 
 (1) Die vertragschließenden Länder sowie die jeweils betroffenen
 kommunalen Körperschaften sind verpflichtet, innerhalb von drei
@@ -138,6 +143,7 @@ die Grundbücher und sonstigen gerichtlichen Geschäfte werden
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000600000)
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden werden unverzüglich ausgetauscht.
@@ -148,6 +154,7 @@ Ratifikationsurkunden folgt, in Kraft.
 (zu Artikel 1 Absatz 9 Satz 1)
 
 ## Anlage Verlauf der Landesgrenze zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt auf dem Gebiet der Gemeinden Buckautal und Stadt Möckern
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/BJNR0130B0025.html#BJNR0130B0025BJNE000700000)
 
 (Fundstelle: BGBl. 2025 I Nr. 19, S. 5 - 14)
 

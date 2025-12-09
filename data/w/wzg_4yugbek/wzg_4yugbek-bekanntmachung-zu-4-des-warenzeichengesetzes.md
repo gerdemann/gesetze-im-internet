@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4yugbek/BJNR009750968.html#BJNR009750968BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29) werden in der
@@ -29,11 +30,13 @@ Sozialistischen Föderativen Republik Jugoslawien eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4yugbek/BJNR009750968.html#BJNR009750968BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4yugbek/BJNR009750968.html#BJNR009750968BJNE000200303)
 
 (Fundstelle: BGBl. I 1968, 976 - 979)
 ![bgbl1_1968_j0976_0010.jpg](bgbl1_1968_j0976_0010.jpg)![bgbl1_1968_j0977_0010.jpg](bgbl1_1968_j0977_0010.jpg)![bgbl1_1968_j0978_0010.jpg](bgbl1_1968_j0978_0010.jpg)![bgbl1_1968_j0979_0010.jpg](bgbl1_1968_j0979_0010.jpg)

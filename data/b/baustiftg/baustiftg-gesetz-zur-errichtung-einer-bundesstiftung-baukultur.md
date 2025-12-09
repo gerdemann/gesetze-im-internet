@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Name, Rechtsform und Sitz der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000100000)
 
 Unter dem Namen "Bundesstiftung Baukultur" wird eine rechtsfähige
 Stiftung des öffentlichen Rechts mit Sitz in Potsdam errichtet.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000200000)
 
 Zweck der Stiftung ist es, die Qualität, Nachhaltigkeit und
 Leistungsfähigkeit des Planungs- und Bauwesens in Deutschland national
@@ -42,6 +44,7 @@ hiervon unberührt.
 
 
 ## § 3 Konvent der Baukultur
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000300000)
 
 (1) Die Stiftung veranstaltet regelmäßig einen öffentlichen Konvent
 der Baukultur.
@@ -66,6 +69,7 @@ der Stiftung mitwirken.
 
 
 ## § 4 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000400000)
 
 (1) Der Bund stellt der Stiftung ein Stiftungskapital in Höhe von
 250\.000 Euro zur Verfügung.
@@ -87,6 +91,7 @@ Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -103,6 +108,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000600000)
 
 (1) Der Vorstand besteht aus der Vorsitzenden oder dem Vorsitzenden
 und einer Stellvertreterin oder einem Stellvertreter.
@@ -120,6 +126,7 @@ und vertritt die Stiftung gerichtlich und außergerichtlich.
 
 
 ## § 7 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000702311)
 
 (1) Der Stiftungsrat besteht aus 13 Mitgliedern:
 
@@ -168,6 +175,7 @@ Bundesreisekostengesetzes.
 
 
 ## § 8 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000800000)
 
 (1) Der Beirat besteht aus 20 Mitgliedern unterschiedlicher
 Fachrichtungen, die sich auf dem Gebiet der Baukultur hervorgetan
@@ -201,6 +209,7 @@ Bundesreisekostengesetzes.
 
 
 ## § 9 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE000900000)
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit der
 Mehrheit seiner Mitglieder beschlossen wird. Satzungsänderungen
@@ -208,6 +217,7 @@ bedürfen ebenfalls der Mehrheit der Mitglieder des Stiftungsrats.
 
 
 ## § 10 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE001002311)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
 des Innern, für Bau und Heimat.
@@ -224,6 +234,7 @@ Prüfung durch den Bundesrechnungshof.
 
 
 ## § 11 Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE001100000)
 
 (1) Die Geschäfte der Stiftung werden durch Arbeitnehmerinnen und
 Arbeitnehmer wahrgenommen.
@@ -235,6 +246,7 @@ anzuwenden.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE001200000)
 
 Um die Stiftung in die Lage zu versetzen, den ersten Konvent der
 Baukultur nach § 3 vorzubereiten und durchzuführen, konstituiert sich
@@ -248,6 +260,7 @@ Satzung. Die §§ 7 und 9 gelten entsprechend.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baustiftg/BJNR317700006.html#BJNR317700006BJNE001300000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

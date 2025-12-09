@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000102377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE001402377)
 
 (1) Bienenvolk im Sinne der Verordnung sind die in einer Bienenwohnung
 lebenden Bienen mit ihrer Brut und ihren Waben.
@@ -37,10 +39,12 @@ worden sind.
 
 
 ## II. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000202377)
 
 
 
 ### § 1a
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003702377)
 
 Wer Bienen halten will, hat dies spätestens bei Beginn der Tätigkeit
 der zuständigen Behörde unter Angabe der Anzahl der Bienenvölker und
@@ -54,6 +58,7 @@ Betriebsnummer gebildet.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE001504301)
 
 (1) Betriebe, in denen
 
@@ -108,6 +113,7 @@ Verhütung der Verschleppung der Amerikanischen Faulbrut notwendig ist.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE001704377)
 
 Ist zu befürchten, dass sich die Amerikanische Faulbrut, die Acariose
 (Milbenseuche), die Varroatose, der Kleine Beutenkäfer oder die
@@ -117,6 +123,7 @@ Bienenstände des verdächtigen Gebietes anordnen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE001802377)
 
 Der Besitzer von Bienenvölkern und Bienenständen oder sein Vertreter
 ist verpflichtet, zur Durchführung von Untersuchungen die
@@ -124,6 +131,7 @@ erforderliche Hilfe zu leisten.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE001904377)
 
 (1) Der Besitzer oder die mit der Beaufsichtigung, Wartung und Pflege
 der Bienenvölker betrauten Personen haben für Bienenvölker, die an
@@ -153,6 +161,7 @@ zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002002377)
 
 Der Besitzer von Bienenvölkern, die nur vorübergehend an einen anderen
 Ort verbracht werden, hat an dem Bienenstand ein Schild mit seinem
@@ -165,6 +174,7 @@ der Seuchenbekämpfung erforderlich ist.
 
 
 ### § 5b
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002103377)
 
 Die zuständige Behörde kann anordnen, dass in einem Sperrbezirk, in
 einem nach § 3 verdächtigen Gebiet oder einem nach § 14 Abs. 2
@@ -173,24 +183,29 @@ des Standortes der Bienenstände anzuzeigen haben.
 
 
 ## III. - Schutzmaßregeln gegen die Amerikanische Faulbrut
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000303377)
 
 
 
 ### 1. - Verschluss von Bienenwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000402377)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002203301)
 
 Von Bienen nicht mehr besetzte Bienenwohnungen sind vom Besitzer der
 Bienen stets bienendicht verschlossen zu halten.
 
 
 ### 2. - Schutzmaßregeln vor amtlicher Feststellung der Amerikanischen Faulbrut oder des Seuchenverdachts
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000503377)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002305377)
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der
 Amerikanischen Faulbrut dürfen vor der amtlichen Feststellung an dem
@@ -216,10 +231,12 @@ amtlichen Auftrag betreten werden.
 
 
 ### 3. - Schutzmaßregeln nach amtlicher Feststellung der Amerikanischen Faulbrut
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000603377)
 
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002404377)
 
 (1) Ist der Ausbruch der Amerikanischen Faulbrut amtlich festgestellt,
 unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der
@@ -295,6 +312,7 @@ Sperre:
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002505377)
 
 (1) Die zuständige Behörde ordnet die Tötung der seuchenkranken
 Bienenvölker an. Sie kann hiervon absehen und die Behandlung durch ein
@@ -316,6 +334,7 @@ Anhaltspunkte für die Amerikanische Faulbrut ergeben.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002603377)
 
 (1) Ist die Amerikanische Faulbrut in einem Bienenstand amtlich
 festgestellt, erklärt die zuständige Behörde das Gebiet in einem
@@ -333,6 +352,7 @@ Gebiet gemäß Absatz 1 zum Sperrbezirk zu erklären.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002704377)
 
 (1) Für den Sperrbezirk gilt folgendes:
 
@@ -381,10 +401,12 @@ befürchten ist.
 
 
 ### 4. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000702377)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002803377)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die
 Amerikanische Faulbrut erloschen ist.
@@ -424,15 +446,18 @@ nach § 11 Abs. 1 Nr. 1 einen negativen Befund ergeben haben.
 
 
 ## IV. - Schutzmaßregeln gegen die Milbenseuche
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG000802377)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE002902377)
 
 (weggefallen)
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003003377)
 
 (1) Ist ein Bienenstand von der Milbenseuche befallen, so hat der
 Besitzer alle Bienenvölker des Bienenstandes zu behandeln, soweit
@@ -446,10 +471,12 @@ die Art der Behandlung bestimmen.
 
 
 ## V. - Schutzmaßregeln gegen die Varroatose
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001103377)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003303377)
 
 (1) Ist ein Bienenstand mit Varroamilben befallen, so hat der Besitzer
 alle Bienenvölker des Bienenstandes jährlich gegen Varroatose zu
@@ -464,14 +491,17 @@ Art der Behandlung bestimmen.
 
 
 ## VI. - Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001404377)
 
 
 
 ### 1. - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001501377)
 
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003901377)
 
 Der Besitzer von Bienenvölkern hat Honig, Waben, Wabenteile,
 Wabenabfälle, Wachs und Futtervorräte so aufzubewahren sowie
@@ -480,15 +510,18 @@ Beutenkäfer nicht zugänglich sind.
 
 
 #### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003802377)
 
 (weggefallen)
 
 
 ### 2. - Schutzmaßregeln vor amtlicher Feststellung des Befalls mit dem Kleinen Beutenkäfer oder des Verdachts des Befalls
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001601377)
 
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004001377)
 
 (1) Im Falle des Befalls oder des Verdachts des Befalls mit dem
 Kleinen Beutenkäfer dürfen vor der amtlichen Feststellung an dem
@@ -518,10 +551,12 @@ und von Personen im amtlichen Auftrag betreten werden.
 
 
 ### 3. - Schutzmaßregeln nach amtlicher Feststellung des Befalls mit dem Kleinen Beutenkäfer
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001701377)
 
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004101377)
 
 (1) Ist der Befall mit dem Kleinen Beutenkäfer amtlich festgestellt,
 unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der
@@ -570,6 +605,7 @@ Bienenstand auf den Befall mit dem Kleinen Beutenkäfer.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004201377)
 
 (1) Die zuständige Behörde führt unverzüglich epidemiologische
 Untersuchungen durch, um
@@ -634,16 +670,19 @@ dass der festgestellte Befall zurückzuführen ist auf
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004301377)
 
 Die zuständige Behörde macht den Befall mit dem Kleinen Beutenkäfer
 öffentlich bekannt.
 
 
 ### 4. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001801377)
 
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004401377)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Bienenstände
 und Futtervorratslager frei vom Befall mit dem Kleinen Beutenkäfer
@@ -685,14 +724,17 @@ sind.
 
 
 ## VII. - Schutzmaßregeln gegen den Befall mit Tropilaelaps-Milben
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001904377)
 
 
 
 ### 1. - Schutzmaßregeln vor amtlicher Feststellung des Befalls mit der Tropilaelaps-Milbe oder des Verdachts des Befalls
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG002001377)
 
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004501377)
 
 (1) Im Falle des Befalls oder des Verdachts des Befalls mit der
 Tropilaelaps-Milbe dürfen vor der amtlichen Feststellung an dem
@@ -720,10 +762,12 @@ amtlichen Auftrag betreten werden.
 
 
 ### 2. - Schutzmaßregeln nach amtlicher Feststellung des Befalls mit der Tropilaelaps-Milbe
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG002101377)
 
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004601377)
 
 (1) Ist der Befall mit der Tropilaelaps-Milbe amtlich festgestellt,
 unterliegt der Bienenstand nach Maßgabe folgender Vorschriften der
@@ -769,6 +813,7 @@ Bienenstandes anordnen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004701377)
 
 (1) Ist der Befall mit der Tropilaelaps-Milbe in einem Bienenstand
 amtlich festgestellt, erklärt die zuständige Behörde das Gebiet in
@@ -803,10 +848,12 @@ Befallssituation anordnen, dass
 
 
 ### 3. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG002201377)
 
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE004801377)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Bienenstände
 frei von Befall mit der Tropilaelaps-Milbe sind.
@@ -860,10 +907,12 @@ Absatzes 2 erfüllt sind und,
 
 
 ## VIII. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001204377)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003407301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -950,10 +999,12 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## IX. - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNG001305377)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/bienseuchv/BJNR005940972.html#BJNR005940972BJNE003605377)
 
 (Inkrafttreten)
 

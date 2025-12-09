@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/szag/BJNR210400006.html#BJNR210400006BJNE000102131)
 
 Dieses Gesetz regelt die innerstaatliche Aufteilung von Einlagen sowie
 Geldbußen (Sanktionszahlungen) gemäß den Artikeln 121, 126 und 136 des
@@ -44,6 +45,7 @@ Sanktionszahlungen an die Bundesrepublik Deutschland.
 
 
 ## § 2 Aufteilung
+[Direktlink](https://www.gesetze-im-internet.de/szag/BJNR210400006.html#BJNR210400006BJNE000202131)
 
 (1) Der Anteil des Bundes an Sanktionszahlungen beträgt 65 Prozent,
 der Anteil der Länder 35 Prozent. 35 Prozent des Länderanteils tragen
@@ -78,6 +80,7 @@ dem Refinanzierungszins des Bundes zu verzinsen.
 
 
 ## § 3 Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/szag/BJNR210400006.html#BJNR210400006BJNE000300000)
 
 (1) Für die Berechnung des Länderanteils an Sanktionszahlungen gemäß §
 2 Abs. 1 Satz 2 sind die Einwohnerzahlen maßgebend, die das
@@ -94,6 +97,7 @@ den öffentlichen Haushalten zum 31. Dezember des Anlastungsjahres.
 
 
 ## § 4 Rückerstattungen; Einlagen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/szag/BJNR210400006.html#BJNR210400006BJNE000401377)
 
 (1) Werden Einlagen vollständig an die Bundesrepublik Deutschland
 zurückerstattet, erhalten Bund und Länder ihre gemäß § 2 geleisteten
@@ -113,6 +117,7 @@ festgestellt hat.
 
 
 ## § 5 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/szag/BJNR210400006.html#BJNR210400006BJNE000500000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Höhe der Anteile

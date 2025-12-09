@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nz1bek/BJNR008870972.html#BJNR008870972BJNE000100313)
 
 (1) Die Olympiamünze zu 10 Deutschen Mark mit dem 1. Motiv
 (Strahlenspirale), deren Ausprägung im Bundesgesetzblatt vom 14.
@@ -42,11 +43,13 @@ Motiv) überein.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nz1bek/BJNR008870972.html#BJNR008870972BJNE000900313)
 
 Der Bundesminister für Wirtschaft und Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nz1bek/BJNR008870972.html#BJNR008870972BJNE000200313)
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1972, 887)

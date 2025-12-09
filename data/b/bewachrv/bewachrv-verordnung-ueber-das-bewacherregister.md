@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Datensatz
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000100000)
 
 Die Registerbehörde speichert die Daten nach § 11b Absatz 2 und 3 der
 Gewerbeordnung im Bewacherregister. Der dem Datenmodell
@@ -25,6 +26,7 @@ Ausfuhrkontrolle elektronisch bezogen werden.
 
 
 ## § 2 Übermittlung und Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000200000)
 
 (1) Die Datenübermittlung der für den Vollzug des § 34a der
 Gewerbeordnung zuständigen Behörden an die Registerbehörde nach § 4
@@ -43,6 +45,7 @@ Verschlüsselung erfolgt nach dem jeweiligen Stand der Technik.
 
 
 ## § 3 Portalanwendung
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000300000)
 
 (1) Die Registerbehörde errichtet und betreibt eine Portalanwendung
 als zentralen Zugangsbereich mit Nutzerselbstverwaltung. Die
@@ -57,6 +60,7 @@ Straße, Postleitzahl, Ort, E-Mail und Telefonnummer angegeben werden.
 
 
 ## § 4 Verfahren der Datenübermittlung an die Registerbehörde durch die für den Vollzug des § 34a der Gewerbeordnung zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000400000)
 
 (1) Besteht zu einem Gewerbetreibenden oder einem Gewerbebetrieb noch
 kein Datensatz im Bewacherregister, legt die für den Vollzug des § 34a
@@ -83,6 +87,7 @@ Portalanwendung an das Bewacherregister.
 
 
 ## § 5 Verfahren der Datenübermittlung an die Registerbehörde durch die Gewerbetreibenden
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000500000)
 
 (1) Besteht zu einer Wachperson oder einer mit der Leitung des
 Betriebs oder einer Zweigniederlassung beauftragten Person noch kein
@@ -101,6 +106,7 @@ der Identifikationsnummer zugeordnet.
 
 
 ## § 6 Meldungen durch die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000600000)
 
 (1) Die Registerbehörde informiert die für den Vollzug des § 34a der
 Gewerbeordnung zuständige Behörde über den Eingang von
@@ -114,6 +120,7 @@ Behörden mit.
 
 
 ## § 7 Verwendung von Schnittstellen
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000700000)
 
 (1) Die Registerbehörde stellt Schnittstellen des Bewacherregisters
 nach Maßgabe der Absätze 2 bis 4 bereit. Die Pflege und
@@ -140,6 +147,7 @@ kann.
 
 
 ## § 8 Verantwortung für die Datenübermittlung und die Datenrichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000800000)
 
 (1) Die für den Vollzug des § 34a der Gewerbeordnung zuständigen
 Behörden sind gegenüber der Registerbehörde für die Zulässigkeit der
@@ -166,6 +174,7 @@ haben, zu einem Datensatz zusammenführen.
 
 
 ## § 9 Automatisiertes Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE000900000)
 
 (1) Der Abruf aus dem Bewacherregister erfolgt im automatisierten
 Abrufverfahren. Die Zulassung zum Datenabruf im automatisierten
@@ -217,6 +226,7 @@ Stelle nicht zweifelsfrei festgestellt werden kann.
 
 
 ## § 10 Umfang des Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE001000000)
 
 (1) Nach § 9 Absatz 1 Satz 3 Nummer 1 und 2 zugelassene Behörden
 dürfen nur Daten aus dem Register abrufen im Rahmen der
@@ -267,6 +277,7 @@ Zweigniederlassung beauftragter Personen zu begrenzen.
 
 
 ## § 11 Abrufvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE001100000)
 
 Enthält das Abrufersuchen der nach § 9 Absatz 1 Satz 3 zugelassenen
 Behörden oder Gewerbetreibenden nicht die nach § 11b Absatz 2 der
@@ -293,6 +304,7 @@ das Abrufersuchen mindestens folgende Daten enthalten:
 
 
 ## § 12 Datenübermittlung für statistische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE001200000)
 
 (1) Die Registerbehörde kann den für den Vollzug des § 34a der
 Gewerbeordnung zuständigen Behörden, den für das Bewachungsrecht
@@ -308,6 +320,7 @@ Gesamtzahlen im Bundesgebiet übermittelt werden.
 
 
 ## § 13 Schutz personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE001300000)
 
 (1) Die Registerbehörde ist ab dem Zeitpunkt der Datenübermittlung
 durch die für den Vollzug des § 34a der Gewerbeordnung zuständigen
@@ -338,6 +351,7 @@ es für die Aufgabenerfüllung erforderlich ist.
 
 
 ## § 14 Protokollierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bewachrv/BJNR088210019.html#BJNR088210019BJNE001400000)
 
 (1) Die Registerbehörde als speichernde Stelle erstellt bei Abrufen
 nach den §§ 4 bis 12 Protokolle, aus denen Folgendes hervorgeht:

@@ -35,6 +35,7 @@ Stand: Ersetzt V 7110-1-7 v. 20.12.2007 I 3075 (EU/EWRHwV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000100000)
 
 Auf Grund des § 9 Absatz 1 Satz 1 Nummer 1 und 2 der Handwerksordnung
 in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S.
@@ -44,9 +45,11 @@ das Bundesministerium für Wirtschaft und Energie:
 
 
 ## Abschnitt 1 - Eintragung in die Handwerksrolle
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNG000100000)
 
 
 ### § 1 Ausnahmebewilligung zur Eintragung in die Handwerksrolle
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000200000)
 
 Staatsangehörigen eines Mitgliedstaates der Europäischen Union, eines
 anderen Vertragsstaates des Abkommens über den Europäischen
@@ -65,6 +68,7 @@ Handwerksordnung bleibt unberührt.
 
 
 ### § 2 Anerkennung von Berufserfahrung
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000300000)
 
 (1) Eine Ausnahmebewilligung erhält, wer in dem betreffenden Gewerbe
 die notwendige Berufserfahrung im Sinne der Absätze 2 und 3 besitzt.
@@ -130,6 +134,7 @@ folgender Position tätig sind:
 
 
 ### § 3 Anerkennung von Ausbildungs- und Befähigungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000400000)
 
 (1) Die Ausnahmebewilligung wird vorbehaltlich der Anordnung von
 Ausgleichsmaßnahmen nach § 5 auch erteilt, wenn die Antragstellerin
@@ -219,6 +224,7 @@ genannten beruflichen Qualifikationen gleichgestellt, wenn
 
 
 ### § 4 Gemeinsame Ausbildungsrahmen und Ausbildungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000500000)
 
 (1) Die Ausnahmebewilligung wird auch erteilt, wenn die
 Antragstellerin oder der Antragsteller in einem anderen Herkunftsstaat
@@ -248,6 +254,7 @@ Berufsqualifikation vorbehalten ist.
 
 
 ### § 5 Ausgleichsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000601119)
 
 (1) Die zuständige Behörde kann von der Antragstellerin oder dem
 Antragsteller vor der Erteilung einer Ausnahmebewilligung als
@@ -302,6 +309,7 @@ Ausgleichsmaßnahme wählen.
 
 
 ### § 6 Anerkennungsverfahren, Mitteilungspflichten und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000701119)
 
 (1) Die zuständige Behörde kann von der Antragstellerin oder dem
 Antragsteller insbesondere folgende Unterlagen und Bescheinigungen
@@ -424,6 +432,7 @@ ermöglicht und abgelegt werden.
 
 
 ### § 7 Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000800000)
 
 (1) In der Eignungsprüfung werden die beruflichen Kenntnisse,
 Fähigkeiten und Kompetenzen der Antragstellerinnen oder Antragsteller
@@ -453,9 +462,11 @@ Eignungsprüfung beauftragen.
 
 
 ## Abschnitt 2 - Grenzüberschreitende Erbringung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNG000200000)
 
 
 ### § 8 Voraussetzungen der Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE000900000)
 
 (1) Staatsangehörigen eines Herkunftsstaates, die im Inland keine
 gewerbliche Niederlassung unterhalten, ist die vorübergehende und
@@ -485,6 +496,7 @@ Dienstleistungsempfängerinnen bestünde.
 
 
 ### § 9 Anzeige vor Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE001000000)
 
 (1) Die Dienstleistungserbringerin oder der Dienstleistungserbringer
 muss der zuständigen Behörde die beabsichtigte Erbringung einer
@@ -521,6 +533,7 @@ beabsichtigt ist.
 
 
 ### § 10 Nachprüfung der Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE001100000)
 
 (1) Wird die Berufsqualifikation nach § 8 Absatz 2 geprüft, ist § 6
 Absatz 3 entsprechend anzuwenden. Die Dienstleistungserbringerin oder
@@ -562,9 +575,11 @@ Nummer 12 oder Nummer 33 bis 37 der Handwerksordnung gehören.
 
 
 ## Abschnitt 3 - Ordnungswidrigkeiten, Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNG000300000)
 
 
 ### § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE001200000)
 
 Ordnungswidrig im Sinne des § 118 Absatz 1 Nummer 7 der
 Handwerksordnung handelt, wer entgegen § 9 Absatz 1 Satz 1 eine
@@ -573,6 +588,7 @@ vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
 
 
 ### § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die EU/EWR-Handwerk-Verordnung vom 20. Dezember
@@ -580,6 +596,7 @@ Gleichzeitig tritt die EU/EWR-Handwerk-Verordnung vom 20. Dezember
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/eu_ewrhwv_2016/BJNR050900016.html#BJNR050900016BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

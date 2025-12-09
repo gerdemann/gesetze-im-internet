@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek_2010/BJNR082010010.html#BJNR082010010BJNE000100000)
 
 Nach § 20 Absatz 4 Satz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24.
@@ -32,6 +33,7 @@ Partner minderjährig ist, 359 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek_2010/BJNR082010010.html#BJNR082010010BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

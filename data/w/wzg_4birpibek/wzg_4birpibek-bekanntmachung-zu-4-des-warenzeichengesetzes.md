@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4birpibek/BJNR004850964.html#BJNR004850964BJNE000100303)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird
@@ -28,11 +29,13 @@ sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4birpibek/BJNR004850964.html#BJNR004850964BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Bezeichnungen der Vereinigten Internationalen Büros für den Schutz des geistigen Eigentums (BIRPI)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4birpibek/BJNR004850964.html#BJNR004850964BJNE000200303)
 
 1\. Kennzeichen und Siegel:
 (Inhalt: Nicht darstellbares Kennzeichen und Siegel,

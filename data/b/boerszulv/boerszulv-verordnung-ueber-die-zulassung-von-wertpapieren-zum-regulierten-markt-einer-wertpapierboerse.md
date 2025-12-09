@@ -24,14 +24,17 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG000103377)
 
 
 
 ### Erster Abschnitt - Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG000202307)
 
 
 
 #### § 1 Rechtsgrundlage des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE001802307)
 
 Die Gründung sowie die Satzung oder der Gesellschaftsvertrag des
 Emittenten müssen dem Recht des Staates entsprechen, in dem der
@@ -39,6 +42,7 @@ Emittent seinen Sitz hat.
 
 
 #### § 2 Mindestbetrag der Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE001906360)
 
 (1) Der voraussichtliche Kurswert der zuzulassenden Aktien oder, falls
 seine Schätzung nicht möglich ist, das Eigenkapital der Gesellschaft
@@ -60,6 +64,7 @@ bilden wird.
 
 
 #### § 3 Dauer des Bestehens des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002003377)
 
 (1) Der Emittent zuzulassender Aktien muß mindestens drei Jahre als
 Unternehmen bestanden und seine Jahresabschlüsse für die drei dem
@@ -71,6 +76,7 @@ wenn dies im Interesse des Emittenten und des Publikums liegt.
 
 
 #### § 4 Rechtsgrundlage der Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002102307)
 
 Die Wertpapiere müssen in Übereinstimmung mit dem für den Emittenten
 geltenden Recht ausgegeben werden und den für das Wertpapier geltenden
@@ -78,6 +84,7 @@ Vorschriften entsprechen.
 
 
 #### § 5 Handelbarkeit der Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002204377)
 
 (1) Die Wertpapiere müssen frei handelbar sein.
 
@@ -99,6 +106,7 @@ Vorschriften entsprechen.
 
 
 #### § 6 Stückelung der Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002302307)
 
 Die Stückelung der Wertpapiere, insbesondere die kleinste Stückelung
 und die Anzahl der in dieser Stückelung ausgegebenen Wertpapiere,
@@ -107,6 +115,7 @@ tragen.
 
 
 #### § 7 Zulassung von Wertpapieren einer Gattung oder einer Emission
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002403377)
 
 (1) Der Antrag auf Zulassung von Aktien muß sich auf alle Aktien
 derselben Gattung beziehen. Er kann jedoch insoweit beschränkt werden,
@@ -125,6 +134,7 @@ sich auf alle Wertpapiere derselben Emission beziehen.
 
 
 #### § 8 Druckausstattung der Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002505377)
 
 (1) Die Druckausstattung der Wertpapiere in ausgedruckten
 Einzelurkunden muß einen ausreichenden Schutz vor Fälschung bieten und
@@ -142,6 +152,7 @@ geeignete Weise zu unterrichten.
 
 
 #### § 9 Streuung der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002605377)
 
 (1) Die zuzulassenden Aktien müssen im Publikum eines Mitgliedstaats
 oder mehrerer Mitgliedstaaten der Europäischen Union oder eines
@@ -181,6 +192,7 @@ niedrigeren Vomhundertsatz gewährleistet ist.
 
 
 #### § 10 Emittenten aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE009207123)
 
 Aktien eines Emittenten mit Sitz in einem Staat außerhalb der
 Europäischen Gemeinschaft oder außerhalb der anderen Vertragsstaaten
@@ -194,6 +206,7 @@ Schutzes des Publikums unterblieben ist.
 
 
 #### § 11 Zulassung von Wertpapieren mit Umtausch- oder Bezugsrecht
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002705377)
 
 (1) Wertpapiere, die den Gläubigern ein Umtausch- oder Bezugsrecht auf
 andere Wertpapiere einräumen, können nur zugelassen werden, wenn die
@@ -211,6 +224,7 @@ Handel in diesen Wertpapieren bilden.
 
 
 #### § 12 Zulassung von Zertifikaten, die Aktien vertreten
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002808377)
 
 (1) Zertifikate, die Aktien vertreten, können zugelassen werden, wenn
 
@@ -242,14 +256,17 @@ des Publikums unterblieben ist.
 
 
 #### (XXXX) §§ 13 bis 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE002905377)
 
 
 
 ### Dritter Abschnitt - Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG000802307)
 
 
 
 #### § 48 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006410360)
 
 (1) Der Zulassungsantrag ist elektronisch zu stellen (elektronischer
 Antrag), es sei denn, in der Börsenordnung ist die schriftliche
@@ -338,6 +355,7 @@ Verlangen insbesondere vorzulegen
 
 
 #### § 48a Veröffentlichung eines Basisprospekts
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE009402360)
 
 Schuldverschreibungen, die gleichzeitig mit ihrer öffentlichen ersten
 Ausgabe zugelassen werden sollen und für die ein nach der Verordnung
@@ -357,11 +375,13 @@ Verordnung (EU) 2017/1129 veröffentlicht werden.
 
 
 #### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006504377)
 
 -
 
 
 #### § 50 Zeitpunkt der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006603377)
 
 Die Zulassung darf frühestens an dem auf das Datum der Einreichung des
 Zulassungsantrags bei der Geschäftsführung folgenden Handelstag
@@ -369,12 +389,14 @@ erfolgen.
 
 
 #### § 51 Veröffentlichung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006706360)
 
 Die Zulassung wird von der Geschäftsführung auf Kosten der
 Antragsteller im Bundesanzeiger veröffentlicht.
 
 
 #### § 52 Einführung
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006805377)
 
 Die Einführung der Wertpapiere darf frühestens an dem auf die erste
 Veröffentlichung des Prospekts oder, wenn kein Prospekt zu
@@ -383,31 +405,38 @@ folgenden Werktag erfolgen.
 
 
 ## Zweites Kapitel - Pflichten des Emittenten zugelassener Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG000902307)
 
 
 
 ### Erster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG001003377)
 
 
 
 #### (XXXX) §§ 53 bis 62 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE006903377)
 
 
 
 ### Zweiter Abschnitt - Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG001402307)
 
 
 
 #### (XXXX) §§ 63 bis 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE007905377)
 
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE008404377)
 
 (weggefallen)
 
 
 #### § 69 Zulassung später ausgegebener Aktien
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE008506360)
 
 (1) Der Emittent zugelassener Aktien ist verpflichtet, für später
 öffentlich ausgegebene Aktien derselben Gattung wie der bereits
@@ -427,20 +456,24 @@ stellen.
 
 
 #### § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE008605377)
 
 -
 
 
 ## Drittes Kapitel - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNG001503377)
 
 
 
 ### § 71 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE008706377)
 
 -
 
 
 ### § 72 Allgemeine Bestimmungen über Jahresabschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE008803377)
 
 (1) Jahresabschlüsse im Sinne dieser Verordnung sind:
 
@@ -477,6 +510,7 @@ Bestätigungsvermerk dazu.
 
 
 ### § 72a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE009505360)
 
 (1) Für Schuldverschreibungen, für die ein Prospekt nach § 44 dieser
 Verordnung vor dem 1. Juli 2005 veröffentlicht worden ist, findet
@@ -497,11 +531,13 @@ hat.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE008902307)
 
 (Inkrafttreten)
 
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rszulv/BJNR012340987.html#BJNR012340987BJNE009004377)
 
 -
 

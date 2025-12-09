@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4tunbek/BJNR011590984.html#BJNR011590984BJNE000100319)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29)
@@ -30,11 +31,13 @@ eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4tunbek/BJNR011590984.html#BJNR011590984BJNE000900319)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Prüf- und Gewährzeichen der Tunesischen Republik für landwirtschaftliche Produkte
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4tunbek/BJNR011590984.html#BJNR011590984BJNE000200319)
 
 (Inhalt: Nicht darstellbare Muster,
 Fundstelle BGBl. I 1984, 1159)

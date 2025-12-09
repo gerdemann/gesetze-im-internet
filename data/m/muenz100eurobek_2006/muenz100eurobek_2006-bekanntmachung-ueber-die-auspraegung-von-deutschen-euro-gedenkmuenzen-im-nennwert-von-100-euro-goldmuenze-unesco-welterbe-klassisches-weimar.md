@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2006/BJNR211800006.html#BJNR211800006BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema "UNESCO
@@ -52,11 +53,13 @@ Der Entwurf der Münze stammt von Herrn Dietrich Dorfstecher, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2006/BJNR211800006.html#BJNR211800006BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2006/BJNR211800006.html#BJNR211800006BJNE000300000)
 
 (Fundstelle: BGBl. I 2006, 2118)
 ![bgbl1_2006_j2118_0010.jpg](bgbl1_2006_j2118_0010.jpg)

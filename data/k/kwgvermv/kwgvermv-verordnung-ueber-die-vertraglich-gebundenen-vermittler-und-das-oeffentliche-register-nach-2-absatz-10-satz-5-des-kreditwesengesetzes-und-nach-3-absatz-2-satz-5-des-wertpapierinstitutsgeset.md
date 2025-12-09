@@ -32,6 +32,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000100000)
 
 Auf Grund des § 24 Abs. 4 Satz 1 und 3 in Verbindung mit § 2 Abs. 10
 Satz 4 und 7 des Kreditwesengesetzes in der Fassung der Bekanntmachung
@@ -50,6 +51,7 @@ Bundesbank:
 
 
 ## § 1 Einreichung der Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000201130)
 
 Die Anzeigen nach § 2 Absatz 10 Satz 1 und 3 des Kreditwesengesetzes
 sowie die Anzeigen nach § 3 Absatz 2 Satz 1 und 3 des
@@ -67,6 +69,7 @@ Unternehmen eine Bestätigung.
 
 
 ## § 2 Inhalt der Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000301130)
 
 Die Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder
 nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes muss
@@ -100,6 +103,7 @@ der Tag der Beendigung der Tätigkeit anzuzeigen.
 
 
 ## § 3 Bestätigung der fachlichen Eignung und Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000401130)
 
 In der Anzeige nach § 2 Absatz 10 Satz 1 des Kreditwesengesetzes oder
 nach § 3 Absatz 2 Satz 1 des Wertpapierinstitutsgesetzes hat das
@@ -109,6 +113,7 @@ geeignet und zuverlässig ist.
 
 
 ## § 4 Inhalt des Registers
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000502130)
 
 (1) Von den Angaben nach § 2 werden die folgenden Angaben
 automatisiert in das öffentliche Register nach § 2 Absatz 10 Satz 5
@@ -169,6 +174,7 @@ Wertpapierinstitutsgesetzes eingestellt:
 
 
 ## § 5 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000600000)
 
 Das haftende Unternehmen trägt die Verantwortung für die
 Vollständigkeit, die Richtigkeit und die Aktualität der im Register
@@ -179,6 +185,7 @@ Anzeigeverfahrens vorzunehmen.
 
 
 ## § 6 Einsichtnahme in das Register
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000702130)
 
 Die Einsichtnahme in das öffentliche Register nach § 2 Absatz 10 Satz
 5 des Kreditwesengesetzes oder nach § 3 Absatz 2 Satz 5 des
@@ -187,6 +194,7 @@ Abrufverfahren.
 
 
 ## § 7 Dauer der Einsehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000800000)
 
 Die Angaben zu dem vertraglich gebundenen Vermittler sind nach Ablauf
 des Jahres, in das die angezeigte Beendigung seiner Tätigkeit für das
@@ -195,10 +203,12 @@ einsehbar.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE000901130)
 
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kwgvermv/BJNR278500007.html#BJNR278500007BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000100000)
 
 (1) Nach Kapitel III der Verordnung (EU) 2022/1854 des Rates vom 6.
 Oktober 2022 über Notfallmaßnahmen als Reaktion auf die hohen
@@ -37,6 +38,7 @@ EU-Energiekrisenbeitrag ist eine Steuer im Sinne der Abgabenordnung.
 
 
 ## § 2 Schuldner des EU-Energiekrisenbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000200000)
 
 (1) Schuldner des EU-Energiekrisenbeitrags ist jedes Unternehmen, das
 im Besteuerungszeitraum nach § 3 Absatz 2 mindestens 75 Prozent seines
@@ -63,6 +65,7 @@ Fassung.
 
 
 ## § 3 Entstehung des EU-Energiekrisenbeitrags, Besteuerungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000300000)
 
 (1) Der EU-Energiekrisenbeitrag entsteht mit Ablauf des
 Besteuerungszeitraums.
@@ -75,6 +78,7 @@ von zwölf Monaten.
 
 
 ## § 4 Bemessungsgrundlage und Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000400000)
 
 (1) Bemessungsgrundlage für den EU-Energiekrisenbeitrag ist der Betrag
 in Höhe der positiven Differenz, um den der nach einkommen- oder
@@ -113,6 +117,7 @@ Bemessungsgrundlage nach Absatz 1 Satz 1.
 
 
 ## § 5 Umwandlungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000500000)
 
 Weist das Unternehmen nach, dass der Betrag nach § 4 Absatz 1 Satz 1
 ganz oder zum Teil Folge einer Umwandlung ist, ist die
@@ -125,12 +130,14 @@ Umwandlung nicht erfolgt.
 
 
 ## § 6 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000600000)
 
 Für die Verwaltung des EU-Energiekrisenbeitrags ist das
 Bundeszentralamt für Steuern zuständig.
 
 
 ## § 7 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/eu-energiekbg/BJNR232500022.html#BJNR232500022BJNE000700000)
 
 (1) Das Unternehmen hat für das betroffene Wirtschaftsjahr des
 Besteuerungszeitraums nach § 3 eine Steuererklärung nach amtlichem

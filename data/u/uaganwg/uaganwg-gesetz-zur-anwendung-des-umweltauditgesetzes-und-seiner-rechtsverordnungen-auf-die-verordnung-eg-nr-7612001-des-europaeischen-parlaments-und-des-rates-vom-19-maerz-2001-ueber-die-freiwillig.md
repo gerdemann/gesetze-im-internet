@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/uaganwg/BJNR233600001.html#BJNR233600001BJNE000100305)
 
 Zur Durchführung der Verordnung (EG) Nr. 761/2001 des Europäischen
 Parlaments und des Rates vom 19. März 2001 über die freiwillige

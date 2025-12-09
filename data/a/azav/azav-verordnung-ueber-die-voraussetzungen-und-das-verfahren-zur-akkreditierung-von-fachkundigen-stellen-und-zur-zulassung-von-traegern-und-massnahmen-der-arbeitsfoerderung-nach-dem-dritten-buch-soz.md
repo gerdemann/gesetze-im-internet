@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000100000)
 
 Auf Grund des § 184 des Dritten Buches Sozialgesetzbuch –
 Arbeitsförderung –, der durch Artikel 2 Nummer 18 des Gesetzes vom 20.
@@ -30,6 +31,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Akkreditierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000200000)
 
 Bei der Prüfung nach § 177 Absatz 2 Satz 1 Nummer 2 des Dritten Buches
 Sozialgesetzbuch berücksichtigt die Akkreditierungsstelle
@@ -41,6 +43,7 @@ Dritten Buches Sozialgesetzbuch haben.
 
 
 ## § 2 Trägerzulassung
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000301126)
 
 (1) Ein Träger ist nach § 178 Nummer 1 des Dritten Buches
 Sozialgesetzbuch leistungsfähig und zuverlässig, wenn insbesondere
@@ -205,6 +208,7 @@ erfüllt werden wird.
 
 
 ## § 3 Maßnahmezulassung
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000401119)
 
 (1) Eine Maßnahme lässt nach § 179 Absatz 1 Nummer 1 des Dritten
 Buches Sozialgesetzbuch eine erfolgreiche Teilnahme erwarten, wenn
@@ -283,6 +287,7 @@ Sozialgesetzbuch erfüllt.
 
 
 ## § 4 Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000502119)
 
 Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82
 des Dritten Buches Sozialgesetzbuch zugelassen werden sollen, die auf
@@ -294,6 +299,7 @@ vorzulegen.
 
 
 ## § 5 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000601119)
 
 (1) Im Rahmen der Trägerzulassung prüft die fachkundige Stelle das
 Vorliegen der Anforderungen des § 2 Absatz 1 bis 6 ortsbezogen und
@@ -378,6 +384,7 @@ Zulassung haben.
 
 
 ## § 6 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000700000)
 
 (1) Die Akkreditierungsstelle, die fachkundigen Stellen und die
 Bundesagentur für Arbeit arbeiten in allen Fragen der Zulassung von
@@ -390,6 +397,7 @@ des Dritten Buches Sozialgesetzbuch zu beachten.
 
 
 ## § 7 Sonderregelung
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000801119)
 
 Für das Jahr 2020 werden die durchschnittlichen Kostensätze für
 Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 und nach den §§ 81 und 82
@@ -401,6 +409,7 @@ angehoben.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/azav/BJNR050400012.html#BJNR050400012BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Anerkennungs- und Zulassungsverordnung –

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv/BJNR040700998.html#BJNR040700998BJNE000100310)
 
 Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August
 1971 (BGBl. I S. 1426, 1427) verordnet das Bundesministerium der
@@ -28,6 +29,7 @@ obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv/BJNR040700998.html#BJNR040700998BJNE000200310)
 
 Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 4 des
 Finanzverwaltungsgesetzes (Zoll- und Verbrauchsteuerabteilung) werden
@@ -102,6 +104,7 @@ wie folgt übertragen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv/BJNR040700998.html#BJNR040700998BJNE000300310)
 
 Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 5 des
 Finanzverwaltungsgesetzes (Bundesvermögensabteilung) werden wie folgt
@@ -151,6 +154,7 @@ Finanzverwaltungsgesetzes (Bundesvermögensabteilung) werden wie folgt
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv/BJNR040700998.html#BJNR040700998BJNE000400310)
 
 Die Zuständigkeit der Oberfinanzpräsidenten nach § 1 Abs. 1 Nr. 2,
 Abs. 2 bis 4 des Vermögenszuordnungsgesetzes in der Fassung der
@@ -158,6 +162,7 @@ Bekanntmachung vom 29. März 1994 (BGBl. I S. 709) bleibt unberührt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ofdaufg_bertrv/BJNR040700998.html#BJNR040700998BJNE000500310)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 

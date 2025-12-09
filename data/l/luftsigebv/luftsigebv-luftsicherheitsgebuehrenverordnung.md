@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000100000)
 
 Auf Grund des § 17 Abs. 2 des Luftsicherheitsgesetzes vom 11. Januar
 2005 (BGBl. I S. 78), der zuletzt durch Artikel 337 der Verordnung vom
@@ -33,6 +34,7 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000201360)
 
 (1) Die im Gebühren- und Auslagenverzeichnis in der Anlage 1
 bestimmten Gebühren und Auslagen werden erhoben für individuell
@@ -65,6 +67,7 @@ Festsetzung der Gebühren und Auslagen.
 
 
 ## § 2 Pflichten der Luftfahrtunternehmer und Luftfahrzeughalter
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000301360)
 
 Im Falle von individuell zurechenbare öffentliche Leistungen nach
 Nummer 2 des Gebührenverzeichnisses sind Luftfahrtunternehmer und
@@ -77,6 +80,7 @@ Auslagenschuldnern gemäß § 3 bekannt gegeben.
 
 
 ## § 3 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000402360)
 
 Gebührenschuldner für Gebühren nach
 
@@ -117,6 +121,7 @@ Gebührenschuldner für Gebühren nach
 
 
 ## § 4 Prüfungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE001101360)
 
 Für individuell zurechenbare öffentliche Leistungen nach den Nummern 5
 des Gebühren- und Auslagenverzeichnisses sind die Gebühren spätestens
@@ -125,6 +130,7 @@ entrichten.
 
 
 ## § 5 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000503360)
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
 ist, gelten
@@ -154,6 +160,7 @@ ist, gelten
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000602360)
 
 Für die Erhebung von Gebühren und Auslagen für eine individuell
 zurechenbare öffentliche Leistung im Sinne von § 1, die vor dem 1.
@@ -163,21 +170,25 @@ gebührenrechtlichen Regelungen weiter anzuwenden.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000702360)
 
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE000801305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage 1 Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE001002360)
 
 (Fundstelle: BGBl. 2024 I Nr. 49, S. 2 – 16)
 
@@ -2147,6 +2158,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
    (zu § 5 Nummer 3)
 
 ## Anlage 2 Stundensätze der Bundesländer zur Abrechnung von Zeitgebühren in Euro
+[Direktlink](https://www.gesetze-im-internet.de/luftsigebv/BJNR094400007.html#BJNR094400007BJNE001200360)
 
 (Fundstelle: BGBl. 2024 I Nr. 49, S. 16 – 17)
 

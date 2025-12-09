@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -35,6 +36,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000200000)
 
 Der Ausbildungsberuf des Süßwarentechnologen und der
 Süßwarentechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -42,11 +44,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -58,6 +62,7 @@ Besonderheiten die Abweichung erfordern.
 
 
 ## § 4 Struktur und Inhalte der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -138,6 +143,7 @@ Ausbildungsbetrieb mit Abschluss des Ausbildungsvertrages festgelegt.
 
 
 ## § 5 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -158,6 +164,7 @@ regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -226,6 +233,7 @@ Grundmassen, Teigen oder Halbfabrikaten statt.
 
 
 ## § 7 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -404,6 +412,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -470,6 +479,7 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zur Fachkraft für
@@ -480,6 +490,7 @@ geändert worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin
+[Direktlink](https://www.gesetze-im-internet.de/s_sswausbv/BJNR044400014.html#BJNR044400014BJNE001100000)
 
 (Fundstelle: BGBl. I 2014, 447 - 449)
 

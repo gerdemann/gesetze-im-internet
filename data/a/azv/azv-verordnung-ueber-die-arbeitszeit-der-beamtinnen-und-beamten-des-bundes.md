@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000100000)
 
 Diese Verordnung gilt für alle Beamtinnen und Beamten des Bundes,
 soweit nicht besondere Arbeitszeitregelungen gelten. Sie gilt nicht
@@ -29,6 +30,7 @@ Vorschriften dieser Verordnung anzuwenden sind.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000203126)
 
 Im Sinne dieser Verordnung ist
 
@@ -140,6 +142,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Regelmäßige wöchentliche Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000303129)
 
 (1) Die regelmäßige wöchentliche Arbeitszeit beträgt 41 Stunden.
 Schwerbehinderte Beamtinnen und schwerbehinderte Beamte können eine
@@ -202,6 +205,7 @@ hierbei 48 Stunden im Siebentageszeitraum nicht überschreiten.
 
 
 ## § 4 Regelmäßige tägliche Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000401116)
 
 Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind
 festzulegen. Hierbei dürfen 13 Stunden einschließlich der Pausen nicht
@@ -210,6 +214,7 @@ tägliche Arbeitszeit individuell festzulegen.
 
 
 ## § 5 Ruhepausen und Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000502116)
 
 (1) Die Arbeit ist spätestens nach 6 Stunden durch eine Ruhepause von
 mindestens 30 Minuten zu unterbrechen. Nach mehr als 9 Stunden beträgt
@@ -247,6 +252,7 @@ bestimmte Aspekte der Arbeitszeitgestaltung (ABl. L 299 vom
 
 
 ## § 6 Dienstfreie Tage
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000601126)
 
 (1) Sonnabend, Heiligabend und Silvester sind grundsätzlich
 dienstfrei. Soweit dienstliche Gründe es erfordern, kann an diesen
@@ -259,6 +265,7 @@ sonnabends Dienst leisten.
 
 
 ## § 7 Gleitzeit
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000701126)
 
 (1) Soweit dienstliche Gründe nicht entgegenstehen, kann die oberste
 Dienstbehörde Gleitzeit ermöglichen. Die zur Erfüllung der Aufgaben
@@ -317,6 +324,7 @@ Verhaltens der Beamtinnen und Beamten verwendet werden.
 
 
 ## § 7a Langzeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001704129)
 
 (1) Die obersten Dienstbehörden können für die bei ihnen beschäftigten
 Beamtinnen und Beamten Langzeitkonten führen und den Behörden ihres
@@ -417,6 +425,7 @@ werden in Dienstvereinbarungen festgelegt.
 
 
 ## § 7b Zeitausgleich bei Langzeitkonten
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE002000126)
 
 (1) Für das Zeitguthaben der Langzeitkonten wird der Beamtin oder dem
 Beamten auf Antrag Zeitausgleich gewährt. Sie oder er wird unter
@@ -455,6 +464,7 @@ entstehen, werden nach den Bestimmungen des Reisekostenrechts ersetzt.
 
 
 ## § 7c Abordnung; Zuweisung; Versetzung; Beendigung des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE002101129)
 
 (1) In den Fällen der Abordnung, Zuweisung oder einer anderen
 vorübergehenden Abwesenheit kann bis zur Rückkehr in die Dienststelle
@@ -484,6 +494,7 @@ besteht nicht.
 
 
 ## § 8 Schichtdienst
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000801126)
 
 Sind die Dienststunden so festgelegt, dass die regelmäßige tägliche
 Arbeitszeit von Beamtinnen oder Beamten überschritten wird, sind sie
@@ -493,6 +504,7 @@ werden kann.
 
 
 ## § 9 Zusammenfassung der Freistellung von der Arbeit bei Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE000900000)
 
 (1) Wenn dienstliche Gründe nicht entgegenstehen, kann bei
 Teilzeitbeschäftigung die Zeit einer Freistellung bis zu drei Monaten
@@ -507,6 +519,7 @@ gelegt wird und zwingende dienstliche Gründe nicht entgegenstehen.
 
 
 ## § 10 Arbeitsplatz
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001000000)
 
 Bei mobilem Arbeiten kann von der Dienstleistungspflicht am
 Arbeitsplatz abgewichen werden, soweit dienstliche Gründe nicht
@@ -514,6 +527,7 @@ entgegenstehen.
 
 
 ## § 11 Dienstreisen
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001102126)
 
 (1) Bei Dienstreisen ist die Zeit zur Erledigung von Dienstgeschäften
 außerhalb der Dienststätte Arbeitszeit. Bei ganz- oder mehrtägigen
@@ -556,6 +570,7 @@ Satz 1 gewährt.
 
 
 ## § 12 Rufbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001201126)
 
 Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Beamtin
 oder der Beamte jedoch über die Arbeitszeit hinaus mehr als zehn
@@ -567,6 +582,7 @@ dienstliche Gründe entgegenstehen.
 
 
 ## § 13 Bereitschaftsdienst
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001804126)
 
 (1) Bei Bereitschaftsdienst kann die regelmäßige tägliche Arbeitszeit
 und die regelmäßige wöchentliche Arbeitszeit entsprechend den
@@ -595,6 +611,7 @@ Listen zu vernichten.
 
 
 ## § 14 Nachtdienst
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001400000)
 
 (1) Die Gestaltung von Nachtdienst muss der besonderen Beanspruchung
 der Arbeitskraft Rechnung tragen. Dabei darf die Arbeitszeit in einem
@@ -608,6 +625,7 @@ Arbeitszeit nicht mehr als acht Stunden betragen.
 
 
 ## § 15 Ausnahmen bei spezifischen Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001500000)
 
 Soweit Besonderheiten bestimmter spezifischer Tätigkeiten, die dem
 Schutz der Bevölkerung oder des Allgemeinwohls zur Abwehr
@@ -623,6 +641,7 @@ Gesundheitsschutz der Beamtinnen und Beamten gewährleistet ist.
 
 
 ## § 16 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/azv/BJNR042710006.html#BJNR042710006BJNE001600000)
 
 Zuständige Behörde im Sinne dieser Verordnung ist die oberste
 Dienstbehörde, soweit nichts Abweichendes bestimmt ist. Die oberste

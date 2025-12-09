@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 dieser V am 1.10.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzweilburgv/BJNR092700019.html#BJNR092700019BJNE000100000)
 
 Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I
@@ -33,6 +34,7 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/glprzweilburgv/BJNR092700019.html#BJNR092700019BJNE000200000)
 
 Die vom 1. Januar 2017 bis zum Ablauf des 30. September 2026 von der
 Staatlichen Fachschule Weilburg-Hadamar Standort: Staatliche
@@ -91,12 +93,14 @@ nach Maßgabe der nachstehenden Auflistung gleichgestellt:
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glprzweilburgv/BJNR092700019.html#BJNR092700019BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am
 1\. Oktober 2026 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzweilburgv/BJNR092700019.html#BJNR092700019BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

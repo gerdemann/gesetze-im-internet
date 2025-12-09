@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000100000)
 
 Auf Grund
 
@@ -47,6 +48,7 @@ verordnet das Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Kehr- oder überprüfungspflichtige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000203128)
 
 (1) Kehr- oder überprüfungspflichtig sind folgende Anlagen:
 
@@ -217,6 +219,7 @@ eingehalten sind.
 
 
 ## § 2 Besondere Kehrarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000302128)
 
 (1) Eine kehrpflichtige Anlage ist auszubrennen, auszuschlagen oder
 chemisch zu reinigen, wenn die Verbrennungsrückstände mit den üblichen
@@ -241,6 +244,7 @@ geändert worden ist), durchzuführen.
 
 
 ## § 3 Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000404128)
 
 (1) Die bevollmächtigte Bezirksschornsteinfegerin oder der
 bevollmächtigte Bezirksschornsteinfeger hat den Termin der
@@ -271,6 +275,7 @@ Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
 
 ## § 4 Durchführung der Kehr- oder Überprüfungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000500000)
 
 (1) Die Anlagen sind nach den anerkannten Regeln der Technik zu kehren
 oder zu überprüfen. Wird bei der Überprüfung festgestellt, dass eine
@@ -290,6 +295,7 @@ auszustellen.
 
 
 ## § 5 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE001500360)
 
 Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-
 Handwerksgesetzes und die Bescheinigung nach § 4 Absatz 3 ist ein
@@ -302,6 +308,7 @@ Monat zusammen.
 
 
 ## § 6 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000705128)
 
 (1) Gebühren sind für folgende Tätigkeiten zu entrichten:
 
@@ -345,12 +352,14 @@ gesetzlichen Umsatzsteuer.
 
 
 ## § 7 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000800000)
 
 Bei der Anwendung dieser Verordnung sind die in Anlage 4 aufgeführten
 Begriffsbestimmungen zugrunde zu legen.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE000901128)
 
 § 5 und § 6 in Verbindung mit Anlage 3 Nummer 5.8 dieser Verordnung
 treten am Tag nach der Verkündung in Kraft. Im Übrigen tritt diese
@@ -358,12 +367,14 @@ Verordnung am 1. Januar 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 4)
 
 ## Anlage 1 Anzahl der Kehrungen und Überprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE001102128)
 
 (Fundstelle: BGBl. I 2009, 1295 - 1296; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -634,6 +645,7 @@ vgl. Fußnote)
 
 
 ## Anlage 2 (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE001205128)
 
 (Fundstelle: BGBl. I 2013, 762 - 772;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -2092,6 +2104,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 6)
 
 ## Anlage 3 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE001307128)
 
 (Fundstelle: BGBl. I 2013, 773 - 774;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -2555,6 +2568,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 7)
 
 ## Anlage 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/k_o/BJNR129200009.html#BJNR129200009BJNE001402360)
 
 (Fundstelle: BGBl. I 2009, 1305 - 1306; bzgl. einzelner Änderungen
 vgl. Fußnote)

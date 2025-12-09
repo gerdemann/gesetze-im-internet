@@ -40,6 +40,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000100000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur
 verordnet, jeweils in Verbindung mit § 1 Absatz 2 des
@@ -67,12 +68,15 @@ und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310),
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000100000)
 
 
 ### Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen, Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -94,6 +98,7 @@ ist.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000402119)
 
 (1) „STCW-Übereinkommen“ bedeutet das Internationale Übereinkommen vom
 7\. Juli 1978 über Normen für die Ausbildung, die Erteilung von
@@ -304,6 +309,7 @@ genannten Abkürzungen verwendet.
 
 
 #### § 3 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000502119)
 
 (1) Das Bundesamt ist im Rahmen dieser Verordnung zuständig
 
@@ -395,6 +401,7 @@ Bundesamtes.
 
 
 #### § 4 Muster für Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000600000)
 
 Die Muster der nach dieser Verordnung vorgeschriebenen
 Befähigungszeugnisse, Befähigungsnachweise, Anerkennungsvermerke und
@@ -404,9 +411,11 @@ Verkehrsblatt bekannt gemacht.
 
 
 ### Abschnitt 2 - Erwerb und Erteilung von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000300000)
 
 
 #### § 5 Allgemeine Voraussetzungen für den Erwerb von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000701125)
 
 (1) Wer ein Befähigungszeugnis, einen Befähigungsnachweis oder einen
 Qualifikationsnachweis erwerben will, hat
@@ -482,6 +491,7 @@ Absatz 1 Satz 1 Nummer 1 entsprechend anzuwenden.
 
 
 #### § 6 Mindestalter
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000802123)
 
 (1) Unbeschadet der Vorschriften des Seearbeitsgesetzes beträgt das
 Mindestalter von Bewerbern um ein Befähigungszeugnis oder einen
@@ -528,6 +538,7 @@ erst zu dem in Absatz 2 genannten Zeitpunkt erteilt werden.
 
 
 #### § 7 Persönliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE000901125)
 
 (1) Die persönliche Eignung für den Erwerb oder die
 Gültigkeitsverlängerung eines Befähigungszeugnisses oder
@@ -611,6 +622,7 @@ Seeärztlichen Dienst der Berufsgenossenschaft informieren.
 
 
 #### § 8 Befristungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001001125)
 
 (1) Befristet erteilt und in der Gültigkeitsdauer verlängert werden
 
@@ -662,6 +674,7 @@ Bescheinigung maßgeblich.
 
 
 #### § 9 Einschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001102123)
 
 (1) Das Bundesamt erteilt ein Befähigungszeugnis und verlängert dieses
 in seiner Gültigkeitsdauer mit den sich aus § 13 Absatz 1 des
@@ -684,12 +697,15 @@ Befähigungszeugnis ausschließlich für die nationale Fahrt.
 
 
 ### Abschnitt 3 - Berufseingangsprüfungen, berufsrechtliche Akkreditierung und Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000401125)
 
 
 #### Unterabschnitt 1 - Berufseingangsprüfungen für Kapitäne und Schiffsoffiziere
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000500000)
 
 
 ##### § 10 Berufseingangsprüfungen und berufsrechtliche Akkreditierung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001201125)
 
 (1) Bewerber um ein Befähigungszeugnis
 
@@ -771,6 +787,7 @@ berufsrechtliche Akkreditierung weiterhin vorliegen.
 
 
 ##### § 11 Qualitätsnormen für Ausbildung und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001302119)
 
 (1) Die jeweiligen Anforderungen zur Gewährleistung des Schutzes des
 menschlichen Lebens auf See und der Meeresumwelt hinsichtlich der
@@ -827,6 +844,7 @@ wenn sie mit dem Bundesamt abgestimmt sind.
 
 
 ##### § 12 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001401125)
 
 (1) Zusätzlich zu den Anforderungen nach § 11 stellen die nach
 Landesrecht eingerichteten Ausbildungsstätten sicher, dass in Bezug
@@ -867,10 +885,12 @@ berücksichtigen.
 
 
 ##### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001501125)
 
 
 
 ##### § 14 Aufhebung der Anerkennung als Berufseingangsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001602119)
 
 Liegen dem Bundesministerium für Verkehr und digitale Infrastruktur
 oder dem Bundesamt begründete Beanstandungen darüber vor oder wird die
@@ -883,9 +903,11 @@ entsprechend.
 
 
 #### Unterabschnitt 2 - Zulassung von Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000600000)
 
 
 ##### § 15 Anforderungen an Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001701125)
 
 Lehrgänge im Sinne des § 5 Absatz 1 Satz 1 Nummer 3 Buchstabe b
 bedürfen der Zulassung. Die Lehrgänge einschließlich vorgeschriebener
@@ -895,6 +917,7 @@ Erwerb nachzuweisen.
 
 
 ##### § 16 Zulassung von Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001801125)
 
 (1) Die Zulassung eines Lehrgangs ist schriftlich oder elektronisch
 bei der jeweils zuständigen Behörde zu beantragen. Der Antrag muss
@@ -1010,6 +1033,7 @@ Akkreditierung.
 
 
 ##### § 17 Teilnehmerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE001901125)
 
 (1) Der Anbieter hat ein Verzeichnis der Teilnehmer zu führen, die
 einen Lehrgang innerhalb der letzten sechs Jahre erfolgreich
@@ -1040,9 +1064,11 @@ löschen.
 
 
 #### Unterabschnitt 3 - Seefahrtzeiten und Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000700000)
 
 
 ##### § 18 Seefahrtzeiten und Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002000000)
 
 Seefahrtzeiten müssen geeignet sein, die für die jeweilige Befähigung
 erforderlichen Kenntnisse, das Verständnis und die Fachkunde zu
@@ -1052,6 +1078,7 @@ fallen, oder auf Fischereifahrzeugen abzuleisten.
 
 
 ##### § 19 Zugelassene Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002100000)
 
 Tätigkeiten, die als geeignet für den Fortbestand der Befähigung im
 Sinne des § 53 zugelassen werden sollen, müssen Kenntnisse,
@@ -1061,9 +1088,11 @@ Liste der zugelassenen Tätigkeiten.
 
 
 ### Abschnitt 4 - Ausländische Zeugnisse und Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000800000)
 
 
 #### § 20 Befähigungszeugnisse und Befähigungsnachweise anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002202123)
 
 (1) Ein Befähigungszeugnis im Sinne des Artikels 4 der Richtlinie (EU)
 2022/993 des Europäischen Parlaments und des Rates vom 8. Juni 2022
@@ -1108,6 +1137,7 @@ Einzelfall verlangt werden.
 
 
 #### § 21 Befähigungszeugnisse und Befähigungsnachweise aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002301125)
 
 Ein Befähigungszeugnis aus anderen als den in § 20 bezeichneten
 Staaten kann auf Antrag anerkannt werden, soweit dies mit dem
@@ -1119,6 +1149,7 @@ A-V/1-1 und A-V/1-2 des STCW-Codes.
 
 
 #### § 22 Ausländische Befähigungsnachweise, Qualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002401125)
 
 Ein Befähigungsnachweis oder ein Qualifikationsnachweis einer
 Vertragspartei des STCW-Übereinkommens gilt als der entsprechende
@@ -1130,9 +1161,11 @@ A-V/1-2 des STCW-Codes.
 
 
 ### Abschnitt 5 - Sonstige allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG000900000)
 
 
 #### § 23 Täuschungen und sonstige rechtswidrige Praktiken im Zusammenhang mit Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002501123)
 
 Das Bundesamt wird im Rahmen der Führung des Seeleute-Befähigungs-
 Verzeichnisses nach § 9f des Seeaufgabengesetzes als zuständige Stelle
@@ -1147,6 +1180,7 @@ Absatz 4 und 5 des Seeaufgabengesetzes.
 
 
 #### § 24 Genehmigungen bei Abweichungen vom Ausbildungsgang und dem Erwerb von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002602125)
 
 (1) Das Bundesamt kann Abweichungen von den Vorschriften im Hinblick
 auf den Erwerb von Befähigungszeugnissen und Befähigungsnachweisen auf
@@ -1171,6 +1205,7 @@ Institutionen fallen.
 
 
 #### § 25 Ausnahmegenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002701123)
 
 Das Bundesamt kann, wenn Personen, Sachwerte und die Umwelt nicht
 gefährdet werden, auf Antrag eine Ausnahme nach Maßgabe des Artikels
@@ -1186,6 +1221,7 @@ kurze Zeit.
 
 
 #### § 26 Mitführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002801125)
 
 Inhaber von Bescheinigungen sind verpflichtet, diese in Urschrift oder
 als ein in der Beweiskraft dieser Urschrift gleichgestelltes
@@ -1194,6 +1230,7 @@ Bescheinigungen für die zugewiesenen Aufgaben maßgeblich sind.
 
 
 #### § 27 Ersatzausstellungen, inhaltsgleiche Bescheinigungen und Umtausch
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE002901125)
 
 (1) Wer den Verlust oder die Unbrauchbarkeit einer ihm nach dieser
 Verordnung erteilten Bescheinigung oder eine Namensänderung glaubhaft
@@ -1226,12 +1263,15 @@ Schiffsmaschinisten TSM nach dieser Verordnung umgetauscht werden.
 
 
 ## Teil 2 - Befähigungen für den Decksbereich
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001000000)
 
 
 ### Abschnitt 1 - Nautischer Schiffsdienst ausgenommen Fischereifahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001100000)
 
 
 #### § 28 Anforderungen an Seefahrtzeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003001125)
 
 (1) Seefahrtzeiten sind für den Erwerb der Befähigungszeugnisse nach §
 29 Absatz 1 auf Kauffahrteischiffen mit einer Bruttoraumzahl von 500
@@ -1256,6 +1296,7 @@ beruflichen Befähigung nach § 53 entsprechend.
 
 
 #### § 29 Befähigungszeugnisse und Befähigungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003101125)
 
 (1) Für den nautischen Schiffsdienst werden auf Antrag
 Befähigungszeugnisse erteilt über die Befähigung zum
@@ -1318,6 +1359,7 @@ werden auf Antrag Befähigungsnachweise erteilt für die
 
 
 #### § 30 Voraussetzungen für den Erwerb der Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003201125)
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Nautischen
 Wachoffizier NWO hat der Bewerber
@@ -1442,6 +1484,7 @@ nachzuweisen.
 
 
 #### § 31 Voraussetzungen für den Erwerb der Befähigungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003301125)
 
 (1) Für den Erwerb des Befähigungsnachweises Wachbefähigung Brücke NWB
 hat der Bewerber nachzuweisen
@@ -1495,9 +1538,11 @@ Decksbereich NVM hat der Bewerber nachzuweisen
 
 
 ### Abschnitt 2 - Nautischer Schiffsdienst auf Fischereifahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001200000)
 
 
 #### § 32 Anforderungen an Seefahrtzeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003400000)
 
 Seefahrtzeiten im Sinne dieses Abschnittes müssen auf
 Fischereifahrzeugen von mindestens zwölf Metern Länge abgeleistet
@@ -1506,6 +1551,7 @@ Kapitän BKü.
 
 
 #### § 33 Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003501125)
 
 (1) Für den nautischen Schiffsdienst auf Fischereifahrzeugen von 24
 oder mehr Metern Länge werden auf Antrag erteilt
@@ -1574,6 +1620,7 @@ Fischereifahrzeugen in der Küstenfischerei“.
 
 
 #### § 34 Voraussetzungen für den Erwerb der Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003601125)
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Nautischen
 Wachoffizier BGW hat der Bewerber nachzuweisen
@@ -1628,9 +1675,11 @@ Hochseefischerei nachzuweisen.
 
 
 ### Abschnitt 3 - Seefunkdienst
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001300000)
 
 
 #### § 35 Befähigungszeugnisse zum GMDSS-Funker
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003701125)
 
 Für die Ausübung des Seefunkdienstes bei Seefunkstellen auf
 Kauffahrteischiffen, die am Weltweiten Seenot- und
@@ -1652,6 +1701,7 @@ Abschnittes A-IV/2 des STCW-Codes auf Antrag als Befähigungszeugnisse
 
 
 #### § 36 Voraussetzungen für den Erwerb der Befähigungszeugnisse zum GMDSS-Funker
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003801125)
 
 Für den Erwerb des Befähigungszeugnisses zum GMDSS-Funker hat der
 Bewerber den Abschluss eines nautischen Ausbildungsganges nach Maßgabe
@@ -1663,9 +1713,11 @@ nachgewiesen werden.
 
 
 ## Teil 3 - Befähigungen für den technischen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001400000)
 
 
 ### § 37 Anforderungen an Seefahrtzeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE003901125)
 
 (1) Seefahrtzeiten im Sinne dieses Teils sind auf Kauffahrteischiffen
 mit einer Antriebsleistung von 750 Kilowatt oder mehr abzuleisten.
@@ -1678,9 +1730,11 @@ nach § 53 entsprechend.
 
 
 ### Abschnitt 1 - Technischer Schiffsdienst
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001500000)
 
 
 #### § 38 Befähigungszeugnisse und Befähigungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004001125)
 
 (1) Für den technischen Schiffsdienst in einem besetzten Maschinenraum
 oder im Bereitschaftsdienst in zeitweise unbesetzten Maschinenräumen
@@ -1725,6 +1779,7 @@ die
 
 
 #### § 39 Voraussetzungen für den Erwerb der Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004103119)
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum Technischen
 Wachoffizier TWO hat der Bewerber
@@ -1842,6 +1897,7 @@ Schiffsmaschinisten TSM hat der Bewerber nachzuweisen
 
 
 #### § 40 Voraussetzungen für den Erwerb der Befähigungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004201125)
 
 (1) Für den Erwerb des Befähigungsnachweises Wachbefähigung Maschine
 TWB hat der Bewerber nachzuweisen
@@ -1901,9 +1957,11 @@ Maschinenbereich TVM hat der Bewerber nachzuweisen
 
 
 ### Abschnitt 2 - Elektrotechnischer Schiffsdienst
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001600000)
 
 
 #### § 41 Befähigungszeugnis und Befähigungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004301125)
 
 Für den elektrotechnischen Schiffsdienst auf Schiffen mit einer
 Antriebsleistung von 750 Kilowatt oder mehr werden auf Antrag das
@@ -1913,6 +1971,7 @@ zum Schiffselektriker ESE erteilt.
 
 
 #### § 42 Voraussetzungen für den Erwerb des Befähigungszeugnisses und Befähigungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004401125)
 
 (1) Für den Erwerb des Zeugnisses über die Befähigung zum
 Elektrotechnischen Schiffsoffizier ETO hat der Bewerber
@@ -2022,9 +2081,11 @@ Schiffselektriker ESE hat der Bewerber nachzuweisen
 
 
 ## Teil 4 - Befähigungen im Gesamtschiffsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001700000)
 
 
 ### § 43 Befähigungsnachweis zum Schiffsmechaniker
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004501125)
 
 (1) Für den Schiffsdienst auf der Unterstützungsebene im
 Gesamtschiffsbetrieb wird nach Maßgabe des Abschnittes A-VII/2 in
@@ -2063,9 +2124,11 @@ Schiffsmechaniker GSM hat der Bewerber nachzuweisen
 
 
 ## Teil 5 - Befähigungen im Schiffssicherheitsdienst und in der Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001800000)
 
 
 ### § 44 Befähigungsnachweis hinsichtlich der grundlegenden Anforderungen an die Sicherheit an Bord (Sicherheitsgrundausbildung)
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004601125)
 
 (1) Für Seeleute, die in irgendeiner Funktion an Bord des Schiffes als
 Teil der Schiffsbesatzung im Rahmen der Betriebsführung des Schiffes
@@ -2108,6 +2171,7 @@ Absatz 1 ohne Bezugnahme auf die Regel VI/1 der Anlage zum STCW-
 
 
 ### § 45 Befähigungsnachweise zum Führen von Überlebensfahrzeugen und Bereitschaftsbooten sowie schnellen Bereitschaftsbooten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004702123)
 
 (1) Für den Schiffsdienst auf Überlebensfahrzeugen und
 Bereitschaftsbooten wird auf Antrag der Befähigungsnachweis über die
@@ -2146,6 +2210,7 @@ Bewerber nachzuweisen
 
 
 ### § 46 Befähigungsnachweis zur Leitung von Brandbekämpfungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004801125)
 
 (1) Auf Antrag wird der Befähigungsnachweis zur Leitung von
 Brandbekämpfungsmaßnahmen SLB erteilt.
@@ -2158,6 +2223,7 @@ bei der Durchführung von Brandbekämpfungsmaßnahmen nachzuweisen.
 
 
 ### § 47 Befähigungsnachweis von Beauftragten für die Gefahrenabwehr auf dem Schiff (Gefahrenabwehrbeauftragter)
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE004901125)
 
 Für den Dienst als Beauftragter für die Gefahrenabwehr auf dem Schiff
 wird auf Antrag der Befähigungsnachweis Gefahrenabwehrbeauftragter SSO
@@ -2181,6 +2247,7 @@ Bewerber nachzuweisen
 
 
 ### § 48 Befähigungsnachweise für Besatzungsmitglieder in der Gefahrenabwehr auf dem Schiff (Grundausbildung in der Gefahrenabwehr)
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005002123)
 
 (1) Für Seeleute wird auf Antrag der Befähigungsnachweis über eine
 Grundausbildung in der Gefahrenabwehr auf dem Schiff SRT erteilt.
@@ -2220,12 +2287,15 @@ der Bewerber den Abschluss eines zugelassenen Lehrgangs nachweisen
 
 
 ## Teil 6 - Zusätzliche Befähigungen für den Schiffsdienst auf besonderen Schiffstypen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG001900000)
 
 
 ### Abschnitt 1 - Befähigungen für den Schiffsdienst auf Tankschiffen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002000000)
 
 
 #### § 49 Befähigungsnachweise für den Schiffsdienst auf Öltankschiffen und Chemikalientankschiffen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005101125)
 
 (1) Für Schiffsoffiziere und andere Besatzungsmitglieder, denen
 spezifische Aufgaben und Verantwortlichkeiten im Zusammenhang mit der
@@ -2324,6 +2394,7 @@ Bewerber nachzuweisen
 
 
 #### § 50 Befähigungsnachweise für den Schiffsdienst auf Flüssiggastankschiffen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005201125)
 
 (1) Für Schiffsoffiziere und andere Besatzungsmitglieder, denen
 spezifische Aufgaben und Verantwortlichkeiten im Zusammenhang mit der
@@ -2387,9 +2458,11 @@ Bewerber nachzuweisen
 
 
 ### Abschnitt 2 - Befähigungen für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002700125)
 
 
 #### § 50a Befähigungsnachweise für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007700125)
 
 (1) Für Kapitäne, Schiffsoffiziere und jedes weitere
 Besatzungsmitglied, die für spezifische Sicherheitsaufgaben im
@@ -2474,9 +2547,11 @@ nachzuweisen.
 
 
 ### Abschnitt 3 - Befähigungen für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002800125)
 
 
 #### § 50b Befähigungsnachweise für den Schiffsdienst auf Schiffen, die in Polargewässern verkehren
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007800125)
 
 (1) Für Kapitäne und nautische Schiffsoffiziere, die im Wachdienst auf
 Schiffen, die in Polargewässern verkehren, eingesetzt sind, wird auf
@@ -2513,9 +2588,11 @@ nachzuweisen.
 
 
 ### Abschnitt 4 - Befähigungen für den Schiffsdienst auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002101125)
 
 
 #### § 51 Qualifikationsnachweise für den Schiffsdienst auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005301125)
 
 (1) Für jedes Besatzungsmitglied eines Fahrgastschiffes, das
 Fahrgästen in Fahrgasträumen unmittelbare Dienste leistet, wird der
@@ -2571,9 +2648,11 @@ zu bestätigen.
 
 
 ## Teil 7 - Aufrechterhaltung der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002201125)
 
 
 ### § 52 Allgemeine Voraussetzungen für die Gültigkeitsverlängerung von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005401125)
 
 (1) Die Gültigkeitsdauer einer befristeten Bescheinigung kann auf
 Antrag verlängert werden. Zur Verlängerung der Gültigkeitsdauer wird
@@ -2601,6 +2680,7 @@ Polargewässern verkehren.
 
 
 ### § 53 Gültigkeitsverlängerung von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005501125)
 
 (1) Ein Kapitän oder ein Schiffsoffizier muss zur Verlängerung der
 Gültigkeitsdauer seines Befähigungszeugnisses den Fortbestand der
@@ -2718,6 +2798,7 @@ erteilen.
 
 
 ### § 54 Gültigkeitsverlängerung von Befähigungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005601125)
 
 (1) Inhaber eines Befähigungsnachweises für den
 Schiffssicherheitsdienst müssen zur Aufrechterhaltung der jeweiligen
@@ -2796,13 +2877,16 @@ Verlängerung der Gültigkeitsdauer des Befähigungsnachweises nachweisen
 
 
 ### § 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005701125)
 
 
 
 ## Teil 8 - Entzug, Ruhen und Sicherstellung von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002300000)
 
 
 ### § 56 Entzug von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005801125)
 
 (1) Ein Befähigungszeugnis ist zu entziehen, wenn der Inhaber
 unzuverlässig im Sinne des § 7 oder seedienstuntauglich ist.
@@ -2838,6 +2922,7 @@ Vermerken über die Anerkennung ausländischer Befähigungszeugnisse.
 
 
 ### § 57 Ruhen von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE005900000)
 
 (1) Das Bundesamt kann für eine bestimmte Zeit das Ruhen eines
 Befähigungszeugnisses anordnen, wenn bei dem Inhaber die
@@ -2876,6 +2961,7 @@ entsprechend anwendbar.
 
 
 ### § 58 Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006000000)
 
 Das Bundesamt kann auf Antrag des Zeugnisinhabers einen späteren
 Beginn des Entzugs oder des Ruhens anordnen. Der spätere Zeitpunkt
@@ -2884,6 +2970,7 @@ Zeitpunkt abweichen.
 
 
 ### § 59 Vorläufige Sicherstellung von Befähigungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006100000)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass ein
 Befähigungszeugnis entzogen oder sein Ruhen angeordnet wird, so kann
@@ -2907,6 +2994,7 @@ entsprechend anzuwenden.
 
 
 ### § 60 Vollzugshilfe
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006200000)
 
 Das Bundesamt bedient sich der Hilfe der Landespolizei, einschließlich
 der Wasserschutzpolizei, sowie der Bundespolizei und der
@@ -2920,6 +3008,7 @@ Seeschifffahrtsaufgaben-Übertragungsverordnung vom 23. Juni 1982
 
 
 ### § 61 Verhältnis zu anderen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006301119)
 
 Zuständigkeiten und Befugnisse nach Maßgabe des Seefischereigesetzes
 und anderen Rechtsvorschriften zur Entziehung von Berechtigungen,
@@ -2928,9 +3017,11 @@ der entsprechenden Urkunden bleiben durch die §§ 56 bis 59 unberührt.
 
 
 ## Teil 9 - Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002400000)
 
 
 ### § 62 Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt (Seeleute-Ausweis)
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006402119)
 
 (1) Seeleute können auf Antrag nach Maßgabe der Absätze 2 und 3 einen
 Nachweis einer beruflichen Tätigkeit in der Seeschifffahrt mit der
@@ -2997,9 +3088,11 @@ verwendet werden.
 
 
 ## Teil 10 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002500000)
 
 
 ### § 63 Umgang mit personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006501125)
 
 (1) Die nach dieser Verordnung zuständigen Verwaltungsbehörden sind im
 Rahmen ihrer jeweiligen Zuständigkeit befugt, zum Zweck der Prüfung
@@ -3029,9 +3122,11 @@ Aufbewahrungsfristen bestehen.
 
 
 ## Teil 11 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNG002600000)
 
 
 ### § 64 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006601125)
 
 (1) Berufe der Metall- oder Elektroindustrie, die vor dem 1. Juni 2014
 zugelassen waren, erfüllen die Anforderungen an die Ausbildung in der
@@ -3057,10 +3152,12 @@ Jahre nach Ausstellung gültig.
 
 
 ### § 65 Änderung der Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006700000)
 
 
 
 ### § 66 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE006800000)
 
 (1) Diese Verordnung tritt am 1. Juni 2014 in Kraft.
 
@@ -3082,6 +3179,7 @@ Jahre nach Ausstellung gültig.
 (zu § 2)
 
 ### Anlage 1 Abkürzungen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007002123)
 
 (Fundstelle: BGBl. I 2014, 482;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -3371,6 +3469,7 @@ werden die nachfolgenden Abkürzungen verwendet:
 (zu § 5)
 
 ### Anlage 2 Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007101125)
 
 (Fundstelle: BGBl. I 2014, 483;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -3450,6 +3549,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 30)
 
 ### Anlage 3 Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Kapitän NK 100
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007201125)
 
 (Fundstelle: BGBl. I 2021, 3253 - 3256)
 
@@ -3807,6 +3907,7 @@ erwerbenden notwendigen Kompetenzen zu erstrecken.
 (zu den §§ 31, 40 und 53)
 
 ### Anlage 4 Prüfungsordnung des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007301125)
 
 (Fundstelle: BGBl. I 2021, 3257 - 3258)
 
@@ -4046,6 +4147,7 @@ erwerbenden notwendigen Kompetenzen zu erstrecken.
 (zu § 34)
 
 ### Anlage 5 Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb der Befähigungszeugnisse für den nautischen Schiffsdienst auf Fischereifahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007401125)
 
 (Fundstelle: BGBl. I 2014, 488-493)
 
@@ -5251,6 +5353,7 @@ und Fertigkeiten auf den in Nummer 3 genannten Gebieten zu erstrecken.
 (zu den §§ 39, 40)
 
 ### Anlage 6 Anforderungen an die Ausbildung in der Metallbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007501125)
 
 (Fundstelle: BGBl. I 2021, 3264 - 3267)
 
@@ -5735,6 +5838,7 @@ Ausbildungsstätte
 (zu § 42)
 
 ### Anlage 6a Anforderungen an die Ausbildung in der Elektrofertigung und Metallbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007901123)
 
 (Fundstelle: BGBl. I 2021, 3268 - 3270;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -6050,6 +6154,7 @@ Ausbildungsstätte
 (zu § 39)
 
 ### Anlage 7 Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb des Befähigungszeugnisses zum Schiffsmaschinisten
+[Direktlink](https://www.gesetze-im-internet.de/see-bv/BJNR046000014.html#BJNR046000014BJNE007600000)
 
 (Fundstelle: BGBl. I 2014, 495)
 

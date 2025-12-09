@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/afvfinv/BJNR000200017.html#BJNR000200017BJNE000100000)
 
 Auf Grund des § 65 Absatz 4 des Elften Buches Sozialgesetzbuch, der
 durch Artikel 2 Nummer 33 des Gesetzes vom 21. Dezember 2015 (BGBl. I
@@ -27,6 +28,7 @@ dem Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Finanzierung der Verwaltung des Ausgleichsfonds der sozialen Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/afvfinv/BJNR000200017.html#BJNR000200017BJNE000200000)
 
 (1) Die dem Bundesversicherungsamt durch die Verwaltung des
 Ausgleichsfonds nach § 65 des Elften Buches Sozialgesetzbuch
@@ -51,6 +53,7 @@ bei der kalenderjährlichen Endabrechnung auszugleichen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/afvfinv/BJNR000200017.html#BJNR000200017BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2017 in Kraft.
 

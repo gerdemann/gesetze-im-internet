@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE000600310)
 
 Auf Grund des § 4 Abs. 3 des Ausgleichsleistungsgesetzes vom 27.
 September 1994 (BGBl. I S. 2624, 2628) verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Inhalt und Umfang der Berechtigung
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNG000100310)
 
 
 
 ### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE000704160)
 
 (1) Berechtigter ist, wer auf Grund des § 3 des
 Ausgleichsleistungsgesetzes oder des § 1 Abs. 1 Satz 6 des
@@ -104,6 +107,7 @@ ist.
 
 
 ### § 2 Erwerbsmöglichkeit des Pächters landwirtschaftlicher Flächen
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE000802160)
 
 (1) Ein Pachtverhältnis im Sinne des § 3 Abs. 1 des
 Ausgleichsleistungsgesetzes liegt vor, wenn zum Zeitpunkt des
@@ -190,6 +194,7 @@ Umwandlung ermittelt.
 
 
 ### § 3 Erwerb landwirtschaftlicher Flächen durch den nicht selbstbewirtschaftenden früheren Eigentümer
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE000900310)
 
 Ein Berechtigter nach § 3 Abs. 5 Satz 1 des
 Ausgleichsleistungsgesetzes kann landwirtschaftliche Flächen nach § 3
@@ -202,6 +207,7 @@ Flächen ausgeschlossen.
 
 
 ### § 4 Erwerbsmöglichkeit von Waldflächen
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001003377)
 
 (1) Berechtigte nach § 3 Abs. 8 Satz 1 des Ausgleichsleistungsgesetzes
 sind natürliche Personen, die land- und forstwirtschaftliches Vermögen
@@ -263,6 +269,7 @@ verlangt werden.
 
 
 ### § 5 Kaufpreis für landwirtschaftliche Flächen
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001103377)
 
 (1) Der Verkehrswert für landwirtschaftliche Flächen nach § 3 Abs. 7
 Satz 1, Satz 6 und § 3a Abs. 2 des Ausgleichsleistungsgesetzes wird
@@ -291,6 +298,7 @@ verwertet werden können.
 
 
 ### § 6 Kaufpreis für Waldflächen
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001202160)
 
 (1) Der Kaufpreis für Waldflächen, mit einem Anteil hiebsreifer
 Bestände von weniger als zehn vom Hundert ist auf der Grundlage der
@@ -330,10 +338,12 @@ Jahre, für Laubhölzer mit niedrigem Umtrieb 80 Jahre.
 
 
 ## Abschnitt 2 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNG000200310)
 
 
 
 ### § 7 Inhalt des Kaufantrages
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001301160)
 
 Kaufanträge sind schriftlich bei der von der Bundesanstalt für
 vereinigungsbedingte Sonderaufgaben beauftragten Stelle für die
@@ -347,6 +357,7 @@ entsprechender aktueller Finanzierungsnachweis vorzulegen.
 
 
 ### § 8 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001401308)
 
 Kaufanträge nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes sind
 bis spätestens 31. August 2001 einzureichen (Ausschlußfrist), soweit
@@ -359,6 +370,7 @@ Beschluss des langfristigen Pachtvertrages stellen.
 
 
 ### § 9 Vorbereitung des Flächenerwerbs
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001501160)
 
 (1) Die Privatisierungsstelle überprüft die Berechtigung des
 Kaufbewerbers und den Umfang seiner Berechtigung. Sie schlägt die zu
@@ -382,6 +394,7 @@ Monaten hierzu äußern.
 
 
 ### § 10 Verkaufsangebot
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001602160)
 
 (1) Die Privatisierungsstelle übermittelt nach Prüfung der
 Erwerbsvoraussetzungen dem allein oder vorrangig zu berücksichtigenden
@@ -413,10 +426,12 @@ Termin für den Vertragsabschluß.
 
 
 ## Abschnitt 3 - Kaufvertragliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNG000300310)
 
 
 
 ### § 11 Abschluß des Kaufvertrages
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001701160)
 
 Für den Abschluss des Vertrages gelten die Vorschriften des
 Bürgerlichen Rechts. Der Erwerber soll zur Übernahme der
@@ -426,6 +441,7 @@ Zusage nach § 3 Abs. 1 Satz 3 des Ausgleichsleistungsgesetzes.
 
 
 ### § 12 Sicherung der Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001803160)
 
 (1) Die Privatisierungsstelle soll in dem Vertrag vereinbaren, daß der
 Veräußerer von dem Vertrag zurücktreten kann, wenn
@@ -588,6 +604,7 @@ Gesetzbuchs haben.
 
 
 ### § 13 Grundbuchvollzug
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE001902160)
 
 (1) Im Kaufvertrag soll auch festgestellt werden, daß die erworbenen
 Flächen dem in § 3 Abs. 10 Satz 1 des Ausgleichsleistungsgesetzes
@@ -652,6 +669,7 @@ und Grundbuchkosten.
 
 
 ### § 14 Privatisierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002002160)
 
 Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder im
 Falle ihrer Auflösung ihr Rechtsnachfolger bestimmt die
@@ -660,10 +678,12 @@ von ihrer Zustimmung abhängig machen.
 
 
 ## Abschnitt 4 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNG000401160)
 
 
 
 ### § 15 Verkauf an Nichtberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002301160)
 
 (1) Bis zum Abschluß des Flächenerwerbs nach § 3 Abs. 9 des
 Ausgleichsleistungsgesetzes sollen langfristig verpachtete
@@ -692,16 +712,19 @@ werden auf den in Satz 1 genannten Höchstbetrag nicht angerechnet.
 
 
 ### § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002401160)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002500310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002603377)
 
 **Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4
 des Ausgleichsleistungsgesetzes durch natürliche Personen**
@@ -775,6 +798,7 @@ des Ausgleichsleistungsgesetzes durch natürliche Personen**
 
 
 ### Anlage 2 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002702160)
 
 **Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4
 des Ausgleichsleistungsgesetzes durch juristische Personen des
@@ -831,6 +855,7 @@ Privatrechts**
 
 
 ### Anlage 3 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002802160)
 
 **Erwerb landwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des
 Ausgleichsleistungsgesetzes durch Gesellschafter juristischer Personen
@@ -898,6 +923,7 @@ des Privatrechts**
 
 
 ### Anlage 4 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE002903160)
 
 **Erwerb land- und forstwirtschaftlicher Flächen durch frühere
 Eigentümer (§ 3 Abs. 5 des Ausgleichsleistungsgesetzes)**
@@ -963,6 +989,7 @@ Eigentümer (§ 3 Abs. 5 des Ausgleichsleistungsgesetzes)**
 
 
 ### Anlage 5 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/flerwv/BJNR207200995.html#BJNR207200995BJNE003003377)
 
 **Erwerb forstwirtschaftlicher Flächen nach § 3 Abs. 8 des
 Ausgleichsleistungsgesetzes durch frühere Eigentümer**

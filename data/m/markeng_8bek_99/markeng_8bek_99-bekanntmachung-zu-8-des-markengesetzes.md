@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99/BJNR076700999.html#BJNR076700999BJNE000100305)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082, 1995 I S. 156), zuletzt geändert durch Artikel 5 des
@@ -44,6 +45,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage Zertifikationszeichen der Republik Kuba
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99/BJNR076700999.html#BJNR076700999BJNE000200305)
 
 Fundstelle: BGBl. I 1999, 767)
 ![bgbl1_1999_j0767_0010.jpg](bgbl1_1999_j0767_0010.jpg)

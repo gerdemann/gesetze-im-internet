@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eurhgausnahmv/BJNR604100010.html#BJNR604100010BJNE000100000)
 
 Auf Grund des § 9 Absatz 2 Nummer 2 Buchstabe b und des § 21 Absatz 3
 Satz 4 Nummer 2, jeweils in Verbindung mit § 70 Absatz 10 Satz 1, des
@@ -30,6 +31,7 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhgausnahmv/BJNR604100010.html#BJNR604100010BJNE000200000)
 
 Ein Erzeugnis, das zu einer in Spalte 3 der Anlage aufgeführten
 Erzeugnisgruppe gehört, darf
@@ -53,11 +55,13 @@ festgesetzten Rückstandhöchstgehalt nicht überschreitet.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhgausnahmv/BJNR604100010.html#BJNR604100010BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündigung in Kraft.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/eurhgausnahmv/BJNR604100010.html#BJNR604100010BJNE000405125)
 
 (Fundstelle: BAnz AT 28.08.2020 V2)
 

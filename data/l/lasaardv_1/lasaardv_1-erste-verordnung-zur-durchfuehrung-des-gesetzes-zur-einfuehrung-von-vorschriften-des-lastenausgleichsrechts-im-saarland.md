@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000100326)
 
 Auf Grund des § 8 Abs. 1 und des § 37 Abs. 1 des Gesetzes zur
 Einführung von Vorschriften des Lastenausgleichsrechts im Saarland vom
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Sonderwert
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000200326)
 
 Für die Schadensberechnung bei land- und forstwirtschaftlichen
 Betrieben sowie bei bebauten Grundstücken tritt an die Stelle des für
@@ -39,6 +41,7 @@ als der geltende Einheitswert ist.
 
 
 ## § 2 Berechnung des Sonderwerts
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000300326)
 
 (1) Der Sonderwert wird berechnet
 
@@ -89,6 +92,7 @@ Grundstücken ist § 3 zu beachten.
 
 
 ## § 3 Bezugsfläche bei bebauten Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000400326)
 
 (1) Bei der Ermittlung der Wertanteile für den Grund und Boden der
 bebauten Grundstücke ist die Größe der regelmäßig zu den Gebäuden
@@ -152,6 +156,7 @@ Eintritt des Kriegssachschadens mitberücksichtigt war.
 
 
 ## § 4 Wertanteile für teilzerstörte Wirtschaftsgüter
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000500326)
 
 Für die Wirtschaftsgüter, insbesondere Gebäude, die durch
 Kriegseinwirkung nur zum Teil zerstört worden sind, ist der
@@ -167,6 +172,7 @@ Jahresrohmiete vor Eintritt des Kriegssachschadens auszugehen.
 
 
 ## § 5 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000600326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (BGBl. I S. 1) in Verbindung mit § 39 des Gesetzes zur
@@ -175,11 +181,13 @@ auch im Land Berlin.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000700326)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Anlage A (zu § 2 Abs. 2 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000800326)
 
 Fundstelle des Originaltextes: BGBl. I 1961, 1648 - 1649
 
@@ -718,6 +726,7 @@ angewandten Bewertungsrichtlinien zu ermitteln.
 
 
 ## Anlage B (zu § 2 Abs. 2 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE000900326)
 
 Fundstelle des Originaltextes: BGBl. I 1961, 1649
 
@@ -887,6 +896,7 @@ Grundstücks
 (zu § 2 Abs. 3 Nr. 2)
 
 ## Anlage C Verzeichnis der Hauptgeschäftsstraßen und der Geschäftsstraßen mit Angabe der maßgebenden Anzahl der Gebäudegeschosse
+[Direktlink](https://www.gesetze-im-internet.de/lasaardv_1/BJNR016460961.html#BJNR016460961BJNE001000326)
 
 Fundstelle des Originaltextes: BGBl. I 1961, 1650
 

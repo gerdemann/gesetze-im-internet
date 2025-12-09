@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_jersey_2015/BJNR132620015.html#BJNR132620015BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_jersey_2015/BJNR132620015.html#BJNR132620015BJNE000200000)
 
 Dem in London am 7. Mai 2015 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung von Jersey
@@ -34,6 +36,7 @@ Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_jersey_2015/BJNR132620015.html#BJNR132620015BJNE000300000)
 
 Soweit das Abkommen auf Grund seines Artikels 10 Absatz 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -48,6 +51,7 @@ nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_jersey_2015/BJNR132620015.html#BJNR132620015BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

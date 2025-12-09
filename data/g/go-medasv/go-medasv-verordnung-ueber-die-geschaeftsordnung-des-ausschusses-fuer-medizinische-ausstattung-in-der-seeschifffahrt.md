@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/go-medasv/BJNR257800013.html#BJNR257800013BJNE000100000)
 
 Auf Grund des § 113 Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit
 Satz 3, des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868)
@@ -28,18 +29,21 @@ Gesundheit:
 
 
 ## § 1 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/go-medasv/BJNR257800013.html#BJNR257800013BJNE000200000)
 
 Der Ausschuss für medizinische Ausstattung in der Seeschifffahrt
 erhält die aus der Anlage ersichtliche Geschäftsordnung.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/go-medasv/BJNR257800013.html#BJNR257800013BJNE000300000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 (zu § 1)
 
 ## Anlage Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/go-medasv/BJNR257800013.html#BJNR257800013BJNE000400000)
 
 (Fundstelle: BGBl. I 2013, 2579 - 2580)
 

@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNG000100000)
 
 
 
 ### § 1 Geltungsbereich und Anspruchsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000203125)
 
 (1) Dieses Gesetz regelt
 
@@ -84,6 +86,7 @@ Verfahren geltenden Verfahrensvorschriften vor.
 
 
 ### § 2 Geltendmachung und Erlöschen des Anspruchs, Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000303125)
 
 (1) Der Anspruch auf Vergütung oder Entschädigung erlischt, wenn er
 nicht binnen drei Monaten bei der Stelle, die den Berechtigten
@@ -167,6 +170,7 @@ machen.
 
 
 ### § 3 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000401125)
 
 Auf Antrag ist ein angemessener Vorschuss zu bewilligen, wenn dem
 Berechtigten erhebliche Fahrtkosten oder sonstige Aufwendungen
@@ -176,6 +180,7 @@ von 1 000 Euro übersteigt.
 
 
 ### § 4 Gerichtliche Festsetzung und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000504125)
 
 (1) Die Festsetzung der Vergütung, der Entschädigung oder des
 Vorschusses erfolgt durch gerichtlichen Beschluss, wenn der
@@ -272,6 +277,7 @@ Lasten des Kostenschuldners.
 
 
 ### § 4a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002805125)
 
 (1) Auf die Rüge eines durch die Entscheidung nach diesem Gesetz
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -314,6 +320,7 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 
 ### § 4b Elektronische Akte, elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002901311)
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen
 Vorschriften über die elektronische Akte und über das elektronische
@@ -322,6 +329,7 @@ Anspruchsberechtigte herangezogen worden ist.
 
 
 ### § 4c Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE003000308)
 
 Jede anfechtbare Entscheidung hat eine Belehrung über den statthaften
 Rechtsbehelf sowie über die Stelle, bei der dieser Rechtsbehelf
@@ -330,10 +338,12 @@ enthalten.
 
 
 ## Abschnitt 2 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNG000200000)
 
 
 
 ### § 5 Fahrtkostenersatz
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000601125)
 
 (1) Bei Benutzung von öffentlichen, regelmäßig verkehrenden
 Beförderungsmitteln werden die tatsächlich entstandenen Auslagen bis
@@ -385,6 +395,7 @@ Fahrten durch besondere Umstände genötigt war.
 
 
 ### § 6 Entschädigung für Aufwand
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000701311)
 
 (1) Wer innerhalb der Gemeinde, in der der Termin stattfindet, weder
 wohnt noch berufstätig ist, erhält für die Zeit, während der er aus
@@ -400,6 +411,7 @@ gewährt.
 
 
 ### § 7 Ersatz für sonstige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000804125)
 
 (1) Auch die in den §§ 5, 6 und 12 nicht besonders genannten baren
 Auslagen werden ersetzt, soweit sie notwendig sind. Dies gilt
@@ -441,10 +453,12 @@ werden höchstens 5 Euro ersetzt.
 
 
 ## Abschnitt 3 - Vergütung von Sachverständigen, Dolmetschern und Übersetzern
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNG000300000)
 
 
 
 ### § 8 Grundsatz der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE000900000)
 
 (1) Sachverständige, Dolmetscher und Übersetzer erhalten als Vergütung
 
@@ -481,6 +495,7 @@ Absatz 1 bestimmte Vergütung gewährt werden.
 
 
 ### § 8a Wegfall oder Beschränkung des Vergütungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE003103125)
 
 (1) Der Anspruch auf Vergütung entfällt, wenn der Berechtigte es
 unterlässt, der heranziehenden Stelle unverzüglich solche Umstände
@@ -534,6 +549,7 @@ hat.
 
 
 ### § 9 Honorare für Sachverständige und für Dolmetscher
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001004125)
 
 (1) Das Honorar des Sachverständigen bemisst sich nach der Anlage 1.
 Die Zuordnung der Leistung zu einem Sachgebiet bestimmt sich nach der
@@ -599,6 +615,7 @@ Protokollperson erhält eine Vergütung wie ein Dolmetscher.
 
 
 ### § 10 Honorar für besondere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001103125)
 
 (1) Soweit ein Sachverständiger oder ein sachverständiger Zeuge
 Leistungen erbringt, die in der Anlage 2 bezeichnet sind, bemisst sich
@@ -622,6 +639,7 @@ Stunde der zusätzlichen Zeit 87 Euro.
 
 
 ### § 11 Honorar für Übersetzer
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001203125)
 
 (1) Das Honorar für eine Übersetzung beträgt 1,95 Euro für jeweils
 angefangene 55 Anschläge des schriftlichen Textes, wenn der Text dem
@@ -664,6 +682,7 @@ mindestens 20 Euro.
 
 
 ### § 12 Ersatz für besondere Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001303125)
 
 (1) Soweit in diesem Gesetz nichts anderes bestimmt ist, sind mit der
 Vergütung nach den §§ 9 bis 11 auch die üblichen Gemeinkosten sowie
@@ -709,6 +728,7 @@ keine oder nur unwesentlich erhöhte Gemeinkosten veranlasst.
 
 
 ### § 13 Besondere Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001409125)
 
 (1) Haben sich die Parteien oder Beteiligten dem Gericht gegenüber mit
 einer bestimmten oder einer von der gesetzlichen Regelung abweichenden
@@ -789,6 +809,7 @@ einzureichen.
 
 
 ### § 14 Vereinbarung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001501310)
 
 Mit Sachverständigen, Dolmetschern und Übersetzern, die häufiger
 herangezogen werden, kann die oberste Landesbehörde, für die Gerichte
@@ -799,10 +820,12 @@ Vergütung nicht überschreiten darf.
 
 
 ## Abschnitt 4 - Entschädigung von ehrenamtlichen Richtern
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNG000400000)
 
 
 
 ### § 15 Grundsatz der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001601125)
 
 (1) Ehrenamtliche Richter erhalten als Entschädigung
 
@@ -851,11 +874,13 @@ voll gerechnet.
 
 
 ### § 16 Entschädigung für Zeitversäumnis
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001702125)
 
 Die Entschädigung für Zeitversäumnis beträgt 7 Euro je Stunde.
 
 
 ### § 17 Entschädigung für Nachteile bei der Haushaltsführung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001802125)
 
 Ehrenamtliche Richter, die einen eigenen Haushalt für mehrere Personen
 führen, erhalten neben der Entschädigung nach § 16 eine zusätzliche
@@ -872,6 +897,7 @@ gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 
 
 ### § 18 Entschädigung für Verdienstausfall
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE001902125)
 
 Für den Verdienstausfall wird neben der Entschädigung nach § 16 eine
 zusätzliche Entschädigung gewährt, die sich nach dem regelmäßigen
@@ -886,10 +912,12 @@ demselben Verfahren an mehr als 50 Tagen herangezogen werden.
 
 
 ## Abschnitt 5 - Entschädigung von Zeugen und Dritten
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNG000500000)
 
 
 
 ### § 19 Grundsatz der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002002125)
 
 (1) Zeugen erhalten als Entschädigung
 
@@ -937,6 +965,7 @@ Entschädigung gewährt werden.
 
 
 ### § 20 Entschädigung für Zeitversäumnis
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002102125)
 
 Die Entschädigung für Zeitversäumnis beträgt 4 Euro je Stunde, soweit
 weder für einen Verdienstausfall noch für Nachteile bei der
@@ -946,6 +975,7 @@ entstanden.
 
 
 ### § 21 Entschädigung für Nachteile bei der Haushaltsführung
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002202125)
 
 Zeugen, die einen eigenen Haushalt für mehrere Personen führen,
 erhalten eine Entschädigung für Nachteile bei der Haushaltsführung von
@@ -961,6 +991,7 @@ Vertretung erstattet werden.
 
 
 ### § 22 Entschädigung für Verdienstausfall
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002302125)
 
 Zeugen, denen ein Verdienstausfall entsteht, erhalten eine
 Entschädigung, die sich nach dem regelmäßigen Bruttoverdienst
@@ -972,6 +1003,7 @@ entgangenen Zuwendung der Vollzugsbehörde.
 
 
 ### § 23 Entschädigung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002404125)
 
 (1) Soweit von denjenigen, die Telekommunikationsdienste erbringen
 oder daran mitwirken (Telekommunikationsunternehmen), Anordnungen zur
@@ -1042,10 +1074,12 @@ direkt zurechenbaren Kosten (§ 7) nicht sicher feststellbar sind.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNG000600000)
 
 
 
 ### § 24 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002500000)
 
 Die Vergütung und die Entschädigung sind nach bisherigem Recht zu
 berechnen, wenn der Auftrag an den Sachverständigen, Dolmetscher oder
@@ -1056,6 +1090,7 @@ verweist.
 
 
 ### § 25 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002600000)
 
 Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der
 Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1753),
@@ -1073,6 +1108,7 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
 
 ### Anlage 1 (zu § 9 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002708125)
 
 (Fundstelle: BGBl. I 2020, 3241 - 3244; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -1833,6 +1869,7 @@ vgl. Fußnote)
 
 
 ### Anlage 2 (zu § 10 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE002804125)
 
    (Fundstelle: BGBl. I 2020, 3244 - 3247)
 
@@ -2342,6 +2379,7 @@ vgl. Fußnote)
 
 
 ### Anlage 3 (zu § 23 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/jveg/BJNR077600004.html#BJNR077600004BJNE003005125)
 
 (Fundstelle: BGBl. 2025 I Nr. 109, S. 22 – 24)
 

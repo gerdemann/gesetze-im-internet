@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000200000)
 
 Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit erhält die Bezeichnung Bundesministerium für Umwelt,
@@ -30,12 +32,14 @@ Naturschutz und nukleare Sicherheit.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000300000)
 
 Das Bundesministerium des Innern erhält die Bezeichnung
 Bundesministerium des Innern, für Bau und Heimat.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000400000)
 
 Dem Bundesministerium des Innern, für Bau und Heimat werden übertragen
 
@@ -62,6 +66,7 @@ ein.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000500000)
 
 Dem Bundeskanzleramt werden aus dem Geschäftsbereich des
 Bundesministeriums des Innern, für Bau und Heimat die Zuständigkeiten
@@ -71,10 +76,12 @@ Gemeinsame IT des Bundes übertragen.
 
 
 ## V. 
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000600000)
 
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000700000)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
@@ -89,6 +96,7 @@ Dezember 2013.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2018/BJNR037400018.html#BJNR037400018BJNE000800000)
 
 Die Bundeskanzlerin
 

@@ -20,10 +20,12 @@ Neugefasst durch
 
 
 ## A. - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNG000102123)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE000505123)
 
 (1) Versicherer im Sinne des § 1 Absatz 2 des Gesetzes, der im Gebiet
 eines Mitgliedstaats der Europäischen Union oder eines anderen
@@ -132,6 +134,7 @@ Europäischen Wirtschaftsraum.
 
 
 ### § 2 Anzeigepflichten für Versicherer
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE000604123)
 
 (1) Ein EWR-Versicherer hat die Aufnahme des Versicherungsgeschäfts im
 Geltungsbereich des Gesetzes binnen zwei Wochen gegenüber dem
@@ -160,6 +163,7 @@ Geltungsbereich des Gesetzes übertragen ist.
 
 
 ### § 3 Anzeigepflicht für Versicherungsnehmer und Vermittler
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE000704123)
 
 Nimmt ein Versicherungsnehmer eine Versicherung bei einem
 Drittlandversicherer, der keinen zur Entgegennahme des
@@ -173,6 +177,7 @@ Versicherung vermittelt hat.
 
 
 ### § 4 Informationsanspruch des Steuerentrichtungsschuldners
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE000809123)
 
 Zur Gewährleistung eines ordnungsgemäßen Besteuerungsverfahrens ist
 der Steuerentrichtungsschuldner berechtigt, von allen an der
@@ -204,6 +209,7 @@ Tatsachen zu verlangen. Hierzu gehören insbesondere
 
 
 ### § 5 Ausnahme von der Besteuerung bei Viehversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE000903123)
 
 Sind bei einer Viehversicherung statt einer Versicherungssumme feste
 Entschädigungsbeträge für jedes Stück Vieh vereinbart, so gilt die
@@ -214,14 +220,17 @@ Versicherungsnehmer im Zeitpunkt der Zahlung des Versicherungsentgelts
 
 
 ## B. - Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNG000202123)
 
 
 
 ### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNG000303123)
 
 
 
 #### § 6 Empfangsbevollmächtigter in den Fällen des § 2 Absatz 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE001004123)
 
 (1) Für Zusammenschlüsse von Personen und Personenvereinigungen, die
 eine Vereinbarung im Sinne des § 2 Absatz 1 des Gesetzes treffen, ist
@@ -249,6 +258,7 @@ Beteiligten.
 
 
 #### § 7 Steuerberechnung bei Werten in fremder Währung
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE001701123)
 
 Werte in fremder Währung sind zur Berechnung der Steuer in Euro
 umzurechnen. Hierfür ist der Umsatzsteuer-Umrechnungskurs anzuwenden,
@@ -261,10 +271,12 @@ gestattet werden.
 
 
 ### II. - Erstattung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNG000501123)
 
 
 
 #### § 8 Steuererstattung bei Rückzahlung von unverdientem Versicherungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE001801123)
 
 (1) In den Fällen des § 9 Absatz 1 des Gesetzes erfolgt die
 Steuererstattung im Rahmen der Steueranmeldung für den
@@ -284,6 +296,7 @@ den Zeitpunkt der Rückzahlung beizufügen.
 
 
 #### § 9 Steuererstattung bei nachträglichem Eintritt der Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE001901123)
 
 Die Steuererstattung nach § 9 Absatz 2 des Gesetzes bezieht sich auf
 den Steuerbetrag, der auf den Anteil des gezahlten
@@ -296,6 +309,7 @@ Umständen Kenntnis erlangt.
 
 
 #### § 10 Steuererstattung bei nachträglichem Entfallen der Steuerbarkeit bei der Versicherung von Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE002001123)
 
 Die Steuererstattung nach § 9 Absatz 3 des Gesetzes bezieht sich auf
 den Steuerbetrag, der auf den Anteil des gezahlten
@@ -309,6 +323,7 @@ Entfallen der Steuerbarkeit geführt haben.
 
 
 #### § 11 Steuererstattung bei nicht vereinnahmtem Versicherungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE002101123)
 
 Eine Steuererstattung nach § 9 Absatz 4 des Gesetzes erfolgt im Rahmen
 der Steueranmeldung für den Anmeldungszeitraum, in dem der Versicherer
@@ -319,10 +334,12 @@ anzumeldenden Steuer abzuziehen.
 
 
 ### III. - Nachentrichtung der Steuer und Entrichtung im Pauschverfahren
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNG000601123)
 
 
 
 #### § 12 Nachentrichtung
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE002201123)
 
 Die Nachentrichtung der Steuer in den Fällen des § 9 Absatz 5 und 6
 des Gesetzes hat im Rahmen der Steueranmeldung für den
@@ -332,6 +349,7 @@ die Steuerpflicht begründen.
 
 
 #### § 13 Berechnung und Entrichtung der Steuer im Pauschverfahren
+[Direktlink](https://www.gesetze-im-internet.de/versstgdb/BJNR007970937.html#BJNR007970937BJNE001405123)
 
 Das Bundeszentralamt für Steuern kann in Fällen, in denen die
 Feststellung der Unterlagen für die Steuerfestsetzung

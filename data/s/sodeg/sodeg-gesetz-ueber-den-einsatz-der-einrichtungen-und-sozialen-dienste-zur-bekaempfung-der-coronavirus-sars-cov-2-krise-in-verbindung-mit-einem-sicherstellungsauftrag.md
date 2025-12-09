@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Einsatz sozialer Dienstleister zur Krisenbewältigung
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000100000)
 
 Die Gewährung von Zuschüssen nach diesem Gesetz ist davon abhängig,
 dass der soziale Dienstleister mit der Antragstellung erklärt, alle
@@ -35,6 +36,7 @@ Einsatzfähigkeit glaubhaft zu machen.
 
 
 ## § 2 Sicherstellungsauftrag der Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000202116)
 
 Die Leistungsträger nach § 12 des Ersten Buches Sozialgesetzbuch, mit
 Ausnahme der Leistungsträger nach dem Fünften und Elften Buch
@@ -62,6 +64,7 @@ Frühförderungsverordnung erbringen.
 
 
 ## § 3 Umsetzung des Sicherstellungsauftrages
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000302116)
 
 Die Leistungsträger erfüllen den besonderen Sicherstellungsauftrag
 nach § 2 durch Auszahlung von monatlichen Zuschüssen an die einzelnen
@@ -87,6 +90,7 @@ unverzüglich mitzuteilen.
 
 
 ## § 4 Erstattungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000403116)
 
 Die Leistungsträger haben einen nachträglichen Erstattungsanspruch
 gegenüber sozialen Dienstleistern, soweit den sozialen Dienstleistern
@@ -159,6 +163,7 @@ mitzuteilen.
 
 
 ## § 5 Zuständigkeit und Geltungsdauer; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000504116)
 
 Die Länder bestimmen die zuständigen Behörden für die
 Aufgabenwahrnehmung nach diesem Gesetz, soweit sich auch die
@@ -177,6 +182,7 @@ zum 23. September 2022 zu verlängern
 
 
 ## § 6 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000600116)
 
 (1) Die Leistungsträger sind befugt, personenbezogene Daten, die die
 sozialen Dienstleister ihnen zusammen mit den Informationen zu den
@@ -213,6 +219,7 @@ können sie sich die insoweit erforderlichen Daten gegenseitig
 
 
 ## § 7 Verwaltungsverfahren und Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000701116)
 
 (1) Für das Verwaltungsverfahren nach diesem Gesetz ist das Zehnte
 Buch Sozialgesetzbuch anzuwenden, soweit das zwischen dem sozialen
@@ -239,6 +246,7 @@ Verfahren, die sich in der Hauptsache erledigt haben.
 
 
 ## § 8 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000800116)
 
 Das Bundesministerium für Arbeit und Soziales kann die Ausführung
 dieses Gesetzes untersuchen. Für den Fall, dass eine Untersuchung
@@ -249,6 +257,7 @@ Landesbehörden, soweit die Länder dieses Gesetz ausführen.
 
 
 ## § 9 Ergänzende Bestimmungen für soziale Dienstleister im Bereich der interdisziplinären Früherkennung und Frühförderung
+[Direktlink](https://www.gesetze-im-internet.de/sodeg/BJNR057800020.html#BJNR057800020BJNE000900116)
 
 (1) Die Umsetzung des Sicherstellungsauftrags nach § 3 durch
 Leistungsträger nach § 2 Satz 4 erfolgt durch von den Landesverbänden

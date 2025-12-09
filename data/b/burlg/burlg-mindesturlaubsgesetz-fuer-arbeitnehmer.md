@@ -20,18 +20,21 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Urlaubsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000200314)
 
 Jeder Arbeitnehmer hat in jedem Kalenderjahr Anspruch auf bezahlten
 Erholungsurlaub.
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000300314)
 
 Arbeitnehmer im Sinne des Gesetzes sind Arbeiter und Angestellte sowie
 die zu ihrer Berufsausbildung Beschäftigten. Als Arbeitnehmer gelten
@@ -41,6 +44,7 @@ Heimarbeit gilt § 12.
 
 
 ## § 3 Dauer des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000401308)
 
 (1) Der Urlaub beträgt jährlich mindestens 24 Werktage.
 
@@ -49,12 +53,14 @@ gesetzliche Feiertage sind.
 
 
 ## § 4 Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000500314)
 
 Der volle Urlaubsanspruch wird erstmalig nach sechsmonatigem Bestehen
 des Arbeitsverhältnisses erworben.
 
 
 ## § 5 Teilurlaub
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000600314)
 
 (1) Anspruch auf ein Zwölftel des Jahresurlaubs für jeden vollen Monat
 des Bestehens des Arbeitsverhältnisses hat der Arbeitnehmer
@@ -82,6 +88,7 @@ dafür gezahlte Urlaubsentgelt nicht zurückgefordert werden.
 
 
 ## § 6 Ausschluß von Doppelansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000700314)
 
 (1) Der Anspruch auf Urlaub besteht nicht, soweit dem Arbeitnehmer für
 das laufende Kalenderjahr bereits von einem früheren Arbeitgeber
@@ -94,6 +101,7 @@ auszuhändigen.
 
 
 ## § 7 Zeitpunkt, Übertragbarkeit und Abgeltung des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000801308)
 
 (1) Bei der zeitlichen Festlegung des Urlaubs sind die Urlaubswünsche
 des Arbeitnehmers zu berücksichtigen, es sei denn, daß ihrer
@@ -125,12 +133,14 @@ oder teilweise nicht mehr gewährt werden, so ist er abzugelten.
 
 
 ## § 8 Erwerbstätigkeit während des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE000900314)
 
 Während des Urlaubs darf der Arbeitnehmer keine dem Urlaubszweck
 widersprechende Erwerbstätigkeit leisten.
 
 
 ## § 9 Erkrankung während des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001000314)
 
 Erkrankt ein Arbeitnehmer während des Urlaubs, so werden die durch
 ärztliches Zeugnis nachgewiesenen Tage der Arbeitsunfähigkeit auf den
@@ -138,6 +148,7 @@ Jahresurlaub nicht angerechnet.
 
 
 ## § 10 Maßnahmen der medizinischen Vorsorge oder Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001103308)
 
 Maßnahmen der medizinischen Vorsorge oder Rehabilitation dürfen nicht
 auf den Urlaub angerechnet werden, soweit ein Anspruch auf Fortzahlung
@@ -146,6 +157,7 @@ Entgeltfortzahlung im Krankheitsfall besteht.
 
 
 ## § 11 Urlaubsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001201308)
 
 (1) Das Urlaubsentgelt bemißt sich nach dem durchschnittlichen
 Arbeitsverdienst, das der Arbeitnehmer in den letzten dreizehn Wochen
@@ -164,6 +176,7 @@ abzugelten.
 
 
 ## § 12 Urlaub im Bereich der Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001301308)
 
 Für die in Heimarbeit Beschäftigten und die ihnen nach § 1 Abs. 2
 Buchstaben a bis c des Heimarbeitsgesetzes Gleichgestellten, für die
@@ -236,6 +249,7 @@ Bestimmungen:
 
 
 ## § 13 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001402308)
 
 (1) Von den vorstehenden Vorschriften mit Ausnahme der §§ 1, 2 und 3
 Abs. 1 kann in Tarifverträgen abgewichen werden. Die abweichenden
@@ -263,6 +277,7 @@ Urlaubsjahr (§ 1) in Tarifverträgen abgewichen werden.
 
 
 ## § 14 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001500314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -270,6 +285,7 @@ im Land Berlin.
 
 
 ## § 15 Änderung und Aufhebung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001602377)
 
 (1) Unberührt bleiben die urlaubsrechtlichen Bestimmungen des
 Arbeitsplatzschutzgesetzes vom 30. März 1957 (Bundesgesetzbl. I S.
@@ -289,6 +305,7 @@ körperlich in ihrer Erwerbsfähigkeit behindert sind.
 
 
 ## § 15a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001801308)
 
 Befindet sich der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998
 bis zum 1. Januar 1999 oder darüber hinaus in einer Maßnahme der
@@ -298,6 +315,7 @@ denn, daß diese für den Arbeitnehmer ungünstiger sind.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/burlg/BJNR000020963.html#BJNR000020963BJNE001700314)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft.
 

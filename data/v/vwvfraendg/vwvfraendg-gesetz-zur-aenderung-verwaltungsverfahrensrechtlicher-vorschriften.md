@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vwvfr_ndg/BJNR065600996.html#BJNR065600996BJNE000100310)
 
 Der Bundestag hat mit zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vwvfr_ndg/BJNR065600996.html#BJNR065600996BJNE000200310)
 
 -
 
 
 ## Art 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfr_ndg/BJNR065600996.html#BJNR065600996BJNE000300310)
 
 (1) Dieses Gesetz tritt am 21. Mai 1996 in Kraft.
 

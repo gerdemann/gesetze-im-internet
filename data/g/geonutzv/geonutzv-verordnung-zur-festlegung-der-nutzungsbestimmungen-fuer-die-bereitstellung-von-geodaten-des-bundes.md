@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html#BJNR054700013BJNE000600000)
 
 Auf Grund des § 14 Nummer 2 in Verbindung mit § 11 Absatz 3 des
 Geodatenzugangsgesetzes, von denen § 14 Nummer 2 durch Artikel 1
@@ -27,6 +28,7 @@ die Bundesregierung:
 
 
 ## § 1 Ziel und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html#BJNR054700013BJNE000100000)
 
 Diese Verordnung regelt die Voraussetzungen, unter denen Geodaten und
 Geodatendienste, einschließlich zugehöriger Metadaten, nach § 11
@@ -36,6 +38,7 @@ Geodatenzugangsgesetzes zur Verfügung gestellt werden.
 
 
 ## § 2 Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html#BJNR054700013BJNE000200000)
 
 (1) Geodaten und Geodatendienste, einschließlich zugehöriger
 Metadaten, werden für alle derzeit bekannten sowie für alle zukünftig
@@ -75,6 +78,7 @@ gesetzliche Rechte Dritter dem nicht entgegenstehen.
 
 
 ## § 3 Quellenvermerke
+[Direktlink](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html#BJNR054700013BJNE000300000)
 
 Die Nutzer haben sicherzustellen, dass
 
@@ -93,6 +97,7 @@ Die Nutzer haben sicherzustellen, dass
 
 
 ## § 4 Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html#BJNR054700013BJNE000400000)
 
 Verletzt die geodatenhaltende Stelle eine ihr gegenüber dem Nutzer
 obliegende öffentlich-rechtliche Pflicht, so haftet ihr Träger dem
@@ -103,6 +108,7 @@ Gesundheit.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html#BJNR054700013BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

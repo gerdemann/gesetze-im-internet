@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNG000101360)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE000501360)
 
 Diese Verordnung gilt für alle Betriebe, die Schweine zu Zucht- oder
 Mastzwecken halten.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE000603360)
 
 Im Sinne dieser Verordnung sind
 
@@ -125,10 +128,12 @@ getötet, ist das Schwein im Sinne des Satzes 1 Nummer 12 verendet.
 
 
 ## Abschnitt 2 - Anforderungen an die Schweinehaltung
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNG000201360)
 
 
 
 ### § 3 Anforderungen an die Stallhaltung und an die Auslaufhaltung
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE000702360)
 
 (1) Tierhalter haben die Schweine nach den Anforderungen der Anlage 1
 zu halten, soweit die Schweine nicht in Freilandhaltung gehalten
@@ -181,6 +186,7 @@ nicht bereits nach anderen Vorschriften zum Schutz vor Tierseuchen
 
 
 ### § 4 Anforderungen an die Freilandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE000803360)
 
 (1) Tierhalter in Freilandhaltungen haben die Schweine nach den
 Anforderungen der Anlage 4 zu halten.
@@ -249,12 +255,14 @@ nicht entgegenstehen.
 
 
 ### § 5 Beförderung von Schweinen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE000901360)
 
 Zucht- oder Nutzschweine dürfen nicht gemeinsam mit Schlachtschweinen
 aus einem anderen Betrieb befördert werden.
 
 
 ### § 6 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001002360)
 
 Wer Zucht- oder Nutzschweine hält, hat über die nach § 4 Absatz 1 Satz
 1 Nummer 2 der Tierschutz-Nutztierhaltungsverordnung vorgesehene
@@ -265,6 +273,7 @@ Ausstallung und stellt eine tierärztliche Bestandsbetreuung sicher.
 
 
 ### § 7 Tierärztliche Bestandsbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001103124)
 
 (1) Jeder Tierhalter hat im Rahmen der betriebseigenen Kontrollen
 seinen Bestand durch einen Tierarzt betreuen zu lassen. Die
@@ -334,6 +343,7 @@ des Tierarztes versehen sein.
 
 
 ### § 8 Besondere Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001203360)
 
 (1) Bei
 
@@ -370,6 +380,7 @@ liegen vor, wenn die Kriterien der Anlage 6 erfüllt werden.
 
 
 ### § 9 Zusätzliche Anforderungen an Zuchtbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001304360)
 
 (1) Der Tierhalter eines Zuchtbetriebes mit mehr als drei Sauenplätzen
 hat für jede Sau unverzüglich
@@ -418,12 +429,14 @@ veranlassen. § 8 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 10 Amtliche Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001401360)
 
 Jeder Betrieb unterliegt der Beaufsichtigung durch den beamteten
 Tierarzt.
 
 
 ### § 11 Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001502360)
 
 Die zuständige Behörde kann
 
@@ -457,10 +470,12 @@ Die zuständige Behörde kann
 
 
 ## Abschnitt 3 - Ordnungswidrigkeiten und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNG000301360)
 
 
 
 ### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002600301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -500,6 +515,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 13 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001703360)
 
 Wer das Halten von Schweinen nicht nach § 3 Absatz 4 angezeigt hat,
 hat dies abweichend von § 3 Absatz 4 bis zum 31. Dezember 2014
@@ -509,11 +525,13 @@ nicht bereits nach anderen Vorschriften zum Schutz vor Tierseuchen
 
 
 ### § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE001801360)
 
 
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Allgemeine Anforderungen an Schweinehaltungen gemäß § 3 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002002360)
 
 (Fundstelle: BGBl. I 2014, S. 331)
 
@@ -587,6 +605,7 @@ nicht bereits nach anderen Vorschriften zum Schutz vor Tierseuchen
 (zu § 3 Absatz 2)
 
 ### Anlage 2 Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002103360)
 
 (Fundstelle: BGBl. I 2014, S. 332 - 333)
 
@@ -772,6 +791,7 @@ Der Tierhalter hat sicherzustellen, dass
 (zu § 3 Absatz 3)
 
 ### Anlage 3 Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002202360)
 
 (Fundstelle: BGBl. I 2014, S. 334 - 335)
 
@@ -959,6 +979,7 @@ Der Tierhalter hat sicherzustellen, dass
 (zu § 4 Absatz 1)
 
 ### Anlage 4 Allgemeine Anforderungen an Freilandhaltungen gemäß § 4 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002303360)
 
 (Fundstelle: BGBl. I 2014, S. 336 - 337)
 
@@ -1113,6 +1134,7 @@ Der Tierhalter hat sicherzustellen, dass
 (zu § 4 Absatz 2)
 
 ### Anlage 5 Zusätzliche Anforderungen an Freilandhaltungen mit Betriebsgrößen nach § 4 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002402360)
 
 (Fundstelle: BGBl. I 2014, S. 338)
 
@@ -1228,6 +1250,7 @@ Der Tierhalter hat sicherzustellen, dass
 (zu § 8 Absatz 2)
 
 ### Anlage 6 Grenzwerte für besondere Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/schhalthygv/BJNR125200999.html#BJNR125200999BJNE002503360)
 
 (Fundstelle: BGBl. I 2014, 339)
 

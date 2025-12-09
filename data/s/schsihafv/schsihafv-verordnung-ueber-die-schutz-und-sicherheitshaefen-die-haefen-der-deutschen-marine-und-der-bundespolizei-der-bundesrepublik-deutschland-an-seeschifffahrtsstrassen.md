@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000100000)
 
 Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes in
 der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008
@@ -35,12 +36,15 @@ Wasserstraßen und Schifffahrt:
 
 
 ## Teil 1 - Schutz- und Sicherheitshäfen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000200000)
 
 
 #### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000200000)
 
 (1) Dieser Teil gilt für den Bereich der Schutz- und Sicherheitshäfen
 mit ihren Wasserflächen und Hafenanlagen, die in Abschnitt 7
@@ -52,6 +56,7 @@ Seegang, Hochwasser oder Eis, als Zuflucht zu dienen.
 
 
 #### § 2 Verantwortung der Fahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000300000)
 
 (1) Die Fahrzeugführer oder ihre Vertreter haben sicherzustellen, dass
 diese Verordnung auf ihren Fahrzeugen befolgt wird.
@@ -65,6 +70,7 @@ Seeschifffahrtsstraßen-Ordnung bleibt unberührt.
 
 
 #### § 3 Anweisungen und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000400000)
 
 (1) Die schifffahrtspolizeilichen Anweisungen der zuständigen
 Hafenbehörde und der Vollzugsorgane sind zu befolgen.
@@ -75,6 +81,7 @@ Sicherheitshafen die erforderlichen Anordnungen treffen.
 
 
 #### § 4 Betreten der Fahrzeuge durch Personen in dienstlichem Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000500000)
 
 (1) Die Bediensteten der Hafenbehörden und der Vollzugsorgane sind
 befugt,
@@ -104,15 +111,18 @@ zur Verfügung zu stellen.
 
 
 #### § 5 Verhalten im Hafengebiet
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000600000)
 
 Niemand darf im Hafengebiet einen anderen gefährden, schädigen oder
 mehr als nach den Umständen unvermeidbar behindern oder belästigen.
 
 
 ### Abschnitt 2 - Einlaufen, An- und Abmeldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000300000)
 
 
 #### § 6 Erlaubnis zum Einlaufen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000700000)
 
 (1) Im Falle eines Fahrzeugs, das
 
@@ -148,6 +158,7 @@ ohne Erlaubnis in den Hafen eingelaufen ist.
 
 
 #### § 7 An- und Abmeldung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000800000)
 
 (1) Der Fahrzeugführer hat sein Fahrzeug nach der Ankunft unverzüglich
 bei der Hafenbehörde anzumelden und rechtzeitig vor Verlassen des
@@ -159,6 +170,7 @@ verkehren.
 
 
 #### § 8 Loswerfen bei Gefahr im Verzuge
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE000900000)
 
 Wird bei Gefahr im Verzuge ein Fahrzeug ohne Zustimmung des
 Fahrzeugführers losgeworfen oder verholt, so hat derjenige, der für
@@ -168,9 +180,11 @@ ist, zu unterrichten.
 
 
 ### Abschnitt 3 - Benutzung der Liegeplätze
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000400000)
 
 
 #### § 9 Anweisung der Liegeplätze
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001000000)
 
 (1) Liegeplätze werden von der Hafenbehörde zugewiesen. Es besteht
 kein Anspruch auf Zuweisung eines bestimmten Liegeplatzes für ein
@@ -186,6 +200,7 @@ ohne besondere Zuweisung benutzt werden.
 
 
 #### § 10 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001100000)
 
 Das Ankern in einem Schutz- und Sicherheitshafen ist verboten. Satz 1
 gilt nicht, soweit das Ankern durch die zuständige Hafenbehörde
@@ -193,11 +208,13 @@ erlaubt ist, oder im Fall einer unmittelbar drohenden Gefahr.
 
 
 #### § 11 Auflegen von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001200000)
 
 Es ist verboten, ein Fahrzeug im Hafenbereich aufzulegen.
 
 
 #### § 12 Festmachen von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001300000)
 
 (1) Der Fahrzeugführer darf sein Fahrzeug nur nach Maßgabe der Absätze
 2 und 3 festmachen.
@@ -210,6 +227,7 @@ Fahrzeuge nicht behindert wird.
 
 
 #### § 13 Maschinenprobe
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001400000)
 
 (1) Der Fahrzeugführer darf auf seinem festgemachten Fahrzeug die
 Schiffsschraube nur in Gang setzen
@@ -234,6 +252,7 @@ Schiffsschraube nur in Gang setzen
 
 
 #### § 14 Vorsichtsmaßnahmen auf Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001500000)
 
 (1) Der Fahrzeugführer hat dafür zu sorgen, dass
 
@@ -253,6 +272,7 @@ auszuschalten.
 
 
 #### § 15 Reinhaltung des Hafens
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001600000)
 
 (1) Der Fahrzeugführer hat dafür zu sorgen, dass der Hafen nach
 Maßgabe der Sätze 2 bis 5 reingehalten wird. Die Verunreinigung des
@@ -277,6 +297,7 @@ entfernen.
 
 
 #### § 16 Verkehrsstörende Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001700000)
 
 Der Fahrzeugführer darf keine Lichtquellen, Werbeanlagen, große Tafeln
 oder Schilder sowie sonstige Einrichtungen, die den Hafenbetrieb, den
@@ -285,6 +306,7 @@ seinem Fahrzeug anbringen oder anbringen lassen.
 
 
 #### § 17 Landgänge
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001800000)
 
 (1) Der Fahrzeugführer hat Landgänge nach Maßgabe der Absätze 2 bis 4
 zu betreiben.
@@ -302,9 +324,11 @@ Verwechslungen oder Blendungen gestört werden kann.
 
 
 ### Abschnitt 4 - Benutzung von Hafenanlage
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000500000)
 
 
 #### § 18 Laden und Löschen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE001900000)
 
 Das Laden und Löschen sowie das Anlanden von Personen im Hafen ist
 verboten. Satz 1 gilt nicht für die Versorgung der Besatzung eines
@@ -314,6 +338,7 @@ Fahrzeugs erforderlich ist und die Hafenbehörde zugestimmt hat.
 
 
 #### § 19 Benutzung von Anlegebrücken
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002000000)
 
 (1) Anlegebrücken dürfen nur nach Maßgabe der Absätze 2 und 3 benutzt
 werden.
@@ -327,6 +352,7 @@ Anlegebrücke zu entfernen oder entfernen zu lassen.
 
 
 #### § 20 Verhalten von Landfahrzeugen im Hafen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002100000)
 
 (1) Landfahrzeuge aller Art dürfen im Hafengebiet nur mit Erlaubnis
 der Hafenbehörde und nur nach Maßgabe des Absatzes 2 abgestellt
@@ -338,15 +364,18 @@ zwei Metern zu halten.
 
 
 #### § 21 Benutzung der Rettungsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002200000)
 
 Für die Öffentlichkeit bestimmte Rettungsgeräte dürfen nicht entfernt
 oder missbräuchlich benutzt werden.
 
 
 ### Abschnitt 5 - Schiffsverkehr im Hafen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000600000)
 
 
 #### § 22 Bemannung und Bewachung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002300000)
 
 (1) Der Fahrzeugführer darf einen Liegeplatz nur dann wechseln, wenn
 das Fahrzeug so ausreichend bemannt ist, dass es manövrierfähig ist.
@@ -378,9 +407,11 @@ zu hinterlegen.
 
 
 ### Abschnitt 6 - Sicherheitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000700000)
 
 
 #### § 23 Sicherheitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002400000)
 
 (1) An allen Plätzen, wo Explosivstoffe und Gegenstände mit
 Explosivstoffen, brennbare Gase, entzündbare Flüssigkeiten,
@@ -405,6 +436,7 @@ Gefahrgutverordnung See in der jeweils geltenden Fassung anzuwenden.
 
 
 #### § 24 Sondervorschriften für Fahrzeuge mit feuergefährlicher Ladung
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002500000)
 
 (1) Ein Fahrzeug, das mit in § 23 bezeichneten Gütern beladen ist,
 soll so festgemacht werden, dass der Bug in Richtung zur Ausfahrt
@@ -427,6 +459,7 @@ dieses ständig verholbereit zu halten.
 
 
 #### § 25 Übernahme flüssiger Treibstoffe
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002600000)
 
 (1) Der Fahrzeugführer darf flüssige Treibstoffe nur nach Maßgabe der
 Absätze 2 bis 9 übernehmen oder abgeben.
@@ -472,35 +505,44 @@ fließenden Gewässern in Längsrichtung mindestens 10 m betragen.
 
 
 ### Abschnitt 7 - Besondere Vorschriften für die einzelnen Häfen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000800000)
 
 
 #### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002701124)
 
 
 
 #### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002801124)
 
 
 
 #### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE002901124)
 
 
 
 #### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003001124)
 
 
 
 #### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003101124)
 
 
 
 ## Teil 2 - Häfen der Deutschen Marine und der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG000900000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG001000000)
 
 
 #### § 31 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003200000)
 
 Dieser Teil gilt für die Häfen der Deutschen Marine und der
 Bundespolizei mit ihren Wasserflächen und Hafenanlagen, die in den
@@ -508,9 +550,11 @@ nachstehenden Vorschriften benannt sind.
 
 
 ### Abschnitt 2 - Vorschriften für einzelne Häfen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG001100000)
 
 
 #### § 32 Häfen Eckernförde, Kiel, Flensburg-Mürwik, Neustadt, Warnemünde, Parow, Bremerhaven
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003300000)
 
 (1) Die Häfen Eckernförde, Kiel, Flensburg-Mürwik, Neustadt,
 Warnemünde, Parow und Bremerhaven der Deutschen Marine und der Hafen
@@ -672,9 +716,11 @@ DHJ82 empfangsbereit. Er ist auch unter der Telefonnummer
 
 
 ### Abschnitt 3 - Besondere Vorschriften für den Hafen Wilhelmshaven
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG001200000)
 
 
 #### § 33 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003400000)
 
 (1) Das Hafengebiet umfasst den gesamten Neuen Vorhafen, die
 Seeschleuse und erstreckt sich weiter in südliche Richtung bis an die
@@ -712,6 +758,7 @@ des Wasserstraßen- und Schifffahrtsamtes Wilhelmshaven durchgeführt.
 
 
 #### § 34 Benutzungsbestimmungen für den Neuen Vorhafen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003500000)
 
 (1) Das Befahren des Neuen Vorhafens außerhalb eines Korridors bis 100
 m beiderseits der Richtfeuerlinie von der Hafeneinfahrt bis zu den
@@ -759,6 +806,7 @@ die Fahrzeuge nicht verlassen werden.
 
 
 #### § 35 Benutzerbestimmungen für die Seeschleuse
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003600000)
 
 (1) Die Schleusenbetriebszeiten werden vom Wasserstraßen- und
 Schifffahrtsamt Wilhelmshaven öffentlich bekannt gegeben.
@@ -787,6 +835,7 @@ hierzu auffordern.
 
 
 #### § 36 Signale
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003700000)
 
 (1) Als Vorhafensperrsignal werden zwei feste rote Lichter
 übereinander verwendet. Das Vorhafensperrsignal wird auf dem
@@ -813,6 +862,7 @@ und auf den Schleusenhäuptern gezeigt:
 
 
 #### § 37 Verbote im Hafenbereich
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003800000)
 
 (1) Im Hafenbereich verboten sind
 
@@ -836,9 +886,11 @@ Hafenbehörde zulässig.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNG001300000)
 
 
 ### § 38 Gültigkeit anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE003900000)
 
 Soweit diese Verordnung nichts Abweichendes bestimmt, bleibt die
 Geltung anderer Rechtsvorschriften,
@@ -865,6 +917,7 @@ in den jeweils geltenden Fassungen, unberührt.
 
 
 ### § 39 Ausnahmen für den öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE004000000)
 
 Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen
 Dienstes befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben
@@ -873,6 +926,7 @@ Ordnung dringend geboten ist.
 
 
 ### § 40 Ausnahmen für die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE004100000)
 
 Die Fahrzeuge der „Deutschen Gesellschaft zur Rettung Schiffbrüchiger“
 sind von den Verboten dieser Verordnung ausgenommen, soweit dies zur
@@ -880,12 +934,14 @@ Wahrnehmung ihrer Rettungsaufgaben im Einzelfall unumgänglich ist.
 
 
 ### § 41 Ausnahmen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE004200000)
 
 Die zuständigen Hafenbehörden können Ausnahmen von den Vorschriften
 dieser Verordnung zulassen.
 
 
 ### § 42 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE004300000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1049,6 +1105,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 43 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schsihafv/BJNR601700017.html#BJNR601700017BJNE004400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten die Schutz- und Sicherheitshafenverordnung vom 28.

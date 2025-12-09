@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv_5/BJNR005310957.html#BJNR005310957BJNE000100325)
 
 Auf Grund des § 171 Abs. 2 des Bundesgesetzes zur Entschädigung für
 Opfer der nationalsozialistischen Verfolgung
@@ -27,6 +28,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/begdv_5/BJNR005310957.html#BJNR005310957BJNE000200325)
 
 Folgende Versorgungseinrichtungen sind als durch
 nationalsozialistische Gewaltmaßnahmen aufgelöst anzusehen:
@@ -113,6 +115,7 @@ nationalsozialistische Gewaltmaßnahmen aufgelöst anzusehen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/begdv_5/BJNR005310957.html#BJNR005310957BJNE000300325)
 
 Diese Rechtsverordnung gilt nach § 14 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240
@@ -121,6 +124,7 @@ sie gilt nicht im Saarland.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/begdv_5/BJNR005310957.html#BJNR005310957BJNE000400325)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1956 in Kraft.
 

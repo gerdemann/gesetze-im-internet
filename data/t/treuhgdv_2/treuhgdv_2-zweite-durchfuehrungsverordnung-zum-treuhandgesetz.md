@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000100307)
 
 Auf der Grundlage der §§ 1 Abs. 2 und 24 Abs. 4 des Treuhandgesetzes
 vom 17. Juni 1990 (GBl. I Nr. 33 S. 300) wird folgendes verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000200307)
 
 (1) Diese Durchführungsverordnung regelt die Privatisierung von
 ausgesonderten Grundstücken, Gebäuden und baulichen Anlagen, die sich
@@ -37,6 +39,7 @@ anderer Rechtsvorschriften nicht berührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000300307)
 
 (1) Das Ministerium für Abrüstung und Verteidigung hat bis zum Tag des
 Beitritts der Deutschen Demokratischen Republik zur Bundesrepublik
@@ -55,6 +58,7 @@ auch nach dem im Absatz 1 festgelegten Zeitpunkt vorzunehmen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000400307)
 
 (1) Die Treuhandanstalt hat das ihr übertragene ausgesonderte
 Militärvermögen zu privatisieren und zu verwerten.
@@ -67,6 +71,7 @@ Verkauf, Vernichtung oder deren Umstellung auf eine zivile Nutzung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000500307)
 
 (1) Die Erträge aus der Privatisierung und Verwertung des
 ausgesonderten Militärvermögens sind vorrangig für die personelle und
@@ -79,6 +84,7 @@ Treuhandgesetzes.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000600307)
 
 Die Treuhandanstalt hat die für die Privatisierung und Verwertung des
 ausgesonderten Militärvermögens erforderlichen Strukturen zu schaffen
@@ -87,12 +93,14 @@ zweckmäßige Organisationsformen zu sichern.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000700307)
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_2/DDNR112600990.html#DDNR112600990BJNE000800307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000104310)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002105310)
 
 Diese Verordnung regelt die Gewährung von Zulagen zur Abgeltung
 besonderer, bei der Bewertung des Amtes oder bei der Regelung der
@@ -37,6 +39,7 @@ der Erschwernis verbundener Aufwand mit abgegolten.
 
 
 ### § 2 Ausschluss einer Erschwerniszulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002207311)
 
 Ist die Gewährung einer Erschwerniszulage neben einer anderen Zulage
 ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach
@@ -45,6 +48,7 @@ noch nicht bis zur Hälfte aufgezehrt ist.
 
 
 ### § 2a Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007500311)
 
 Bei Teilzeitbeschäftigung verringern sich die in § 3 Absatz 1 und 3
 Satz 2 sowie die in § 17a Satz 1 Nummer 2 genannten
@@ -55,14 +59,17 @@ nach Abschnitt 4 gilt § 6 Absatz 1 des Bundesbesoldungsgesetzes.
 
 
 ## Abschnitt 2 - Einzeln abzugeltende Erschwernisse
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000205310)
 
 
 
 ### Titel 1 - Zulage für Dienst zu ungünstigen Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000304310)
 
 
 
 #### § 3 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002307116)
 
 (1) Empfänger von Dienstbezügen in Besoldungsgruppen mit aufsteigenden
 Gehältern und Empfänger von Anwärterbezügen erhalten eine Zulage für
@@ -104,6 +111,7 @@ Gemeinschaftsunterkunft.
 
 
 #### § 4 Höhe und Berechnung der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002430360)
 
 (1) Die Zulage beträgt für Dienst
 
@@ -132,6 +140,7 @@ gewährt.
 
 
 #### § 4a Weitergewährung bei vorübergehender Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007303116)
 
 (1) Die Zulage wird weitergewährt
 
@@ -174,6 +183,7 @@ maßgeblich.
 
 
 #### § 5 Ausschluss der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002518360)
 
 Die Zulage wird nicht gewährt
 
@@ -191,18 +201,22 @@ Die Zulage wird nicht gewährt
 
 
 #### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002605311)
 
 
 
 #### § 6a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007001320)
 
 
 
 ### Titel 2 - Zulage für Tauchertätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000404310)
 
 
 
 #### § 7 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002708116)
 
 (1) Beamte und Soldaten erhalten eine Zulage für Tauchertätigkeiten.
 
@@ -224,6 +238,7 @@ Pressluft (Druckkammern).
 
 
 #### § 8 Höhe der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002816360)
 
 (1) Die Zulage für Tauchertätigkeit nach § 7 Absatz 2 Satz 1 Nummer 1
 beträgt je Stunde 4,35 Euro.
@@ -298,6 +313,7 @@ Stunde ein Drittel der Sätze nach Absatz 2.
 
 
 #### § 9 Berechnung der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE002903310)
 
 (1) Die Zulage wird nach Stunden berechnet. Die Zeiten sind für jeden
 Kalendertag zu ermitteln, und das Ergebnis ist zu runden. Dabei
@@ -321,10 +337,12 @@ als dreißig Minuten auf eine volle Stunde aufgerundet.
 
 
 ### Titel 3 - Zulagen für den Umgang mit Munition und Sprengstoffen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000505311)
 
 
 
 #### § 10 Zulage für das Räumen und Vernichten von Munition sowie für das Erproben besonders gefährlicher Munition
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003009377)
 
 (1) Soldaten mit Berechtigungsschein zum Vernichten von Munition oder
 mit abgeschlossener Ausbildung als Feuerwerker und Beamte mit
@@ -348,6 +366,7 @@ gewährt.
 
 
 #### § 11 Zulage für Sprengstoffentschärfer und Sprengstoffermittler
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003109377)
 
 (1) Beamte und Soldaten mit gültigem Nachweis über eine erfolgreich
 abgeschlossene Ausbildung zum Sprengstoffentschärfer, deren ständige
@@ -391,10 +410,12 @@ Minentaucherzulage nach § 23e gewährt.
 
 
 ### Titel 4 - Zulage für Tätigkeiten an Antennen und Antennenträgern; Zulage für Tätigkeiten an Geräten und Geräteträgern des Wetterdienstes und des Vermessungsdienstes sowie an Windmasten des lufthygienischen Überwachungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000605311)
 
 
 
 #### § 12 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003203310)
 
 (1) Beamte und Soldaten erhalten eine Zulage für Tätigkeiten an
 Antennen oder Antennenträgern, wenn diese Tätigkeiten zu ihren
@@ -416,6 +437,7 @@ regelmäßigen Aufgaben gehören.
 
 
 #### § 13 Höhe der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003307377)
 
 (1) Die Zulage für eine Tätigkeit nach § 12 Abs. 2 Nr. 1 beträgt für
 jeden Tag bei Überwindung eines Höhenunterschiedes
@@ -513,6 +535,7 @@ bis März durchgeführt werden, um jeweils 25 Prozent.
 
 
 #### § 14 Berechnung der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003403310)
 
 Die Zulagen nach § 12 Abs. 2 Nr. 1 und 2 werden nebeneinander gewährt;
 jede Zulage wird für jeden Tag nur einmal, und zwar nach dem höchsten
@@ -520,6 +543,7 @@ zustehenden Satz gewährt.
 
 
 #### § 15 Zulage für Tätigkeiten an Geräten und Geräteträgern des Wetterdienstes und des Vermessungsdienstes sowie an Windmasten des lufthygienischen Überwachungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003504311)
 
 Die §§ 12 bis 14 gelten entsprechend für Tätigkeiten an Geräten und
 Geräteträgern des Wetterdienstes und an trigonometrischen
@@ -528,10 +552,12 @@ des lufthygienischen Überwachungsdienstes.
 
 
 ### Titel 5 - Sonstige einzeln abzugeltende Erschwernisse
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG000706116)
 
 
 
 #### § 16 Zulage für Klimaerprobung
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE003607377)
 
 Beamte und Soldaten, die an einer Klimaerprobung im Freien bei
 extremen Kälte- oder Hitzeeinwirkungen teilnehmen, erhalten eine
@@ -545,6 +571,7 @@ Grad C um 0,71 Euro täglich.
 
 
 #### § 16a Zulage für Unterdruckkammerdienst
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005404116)
 
 (1) Soldaten im Unterdruckkammerdienst beim Flugmedizinischen Institut
 der Luftwaffe, die in einer simulierten Höhe von mindestens 5 000 m
@@ -558,6 +585,7 @@ dem Ausschleusen.
 
 
 #### § 16b Zulage für Ausbildungstätigkeiten im Feuerwehrdienst der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008201360)
 
 (1) Beamte und Soldaten des Feuerwehrdienstes erhalten für die
 praktische Ausbildung in Feuerwehrübungshäusern oder vergleichbaren
@@ -575,6 +603,7 @@ Bundesbesoldungsgesetzes gewährt.
 
 
 #### § 16c Zulage für die Begleitung von Rückführungen auf dem Luftweg
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008400360)
 
 (1) Beamte mit Anspruch auf die Stellenzulage nach Nummer 9 der
 Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des
@@ -613,6 +642,7 @@ Nummer 1 zu.
 
 
 #### § 17 Zulage für Tätigkeiten mit kontaminierten Personen oder Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005119360)
 
 (1) Beamte, die im Rahmen ihrer dienstlichen Prüfungs-, Kontroll- oder
 Ermittlungstätigkeit Fäkalien oder mit Fäkalien oder
@@ -652,10 +682,12 @@ nach Absatz 1 ausgeübt wird, höchstens jedoch 111 Euro monatlich.
 
 
 ## Abschnitt 3 - Zulage für Dienst zu wechselnden Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG002300311)
 
 
 
 ### § 17a Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007600311)
 
 Beamte und Soldaten erhalten eine monatliche Zulage, wenn sie
 
@@ -674,6 +706,7 @@ Bereitschaftsdienst gilt nicht als Dienst im Sinne dieser Vorschrift.
 
 
 ### § 17b Höhe der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007700311)
 
 (1) Die Zulage setzt sich zusammen aus
 
@@ -704,6 +737,7 @@ nicht vorliegen.
 
 
 ### § 17c Ausschluss der Zulage
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007802360)
 
 Die Zulage wird nicht gewährt
 
@@ -748,6 +782,7 @@ des Bundeskriminalamtes.
 
 
 ### § 17d Weitergewährung bei vorübergehender Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007901116)
 
 (1) Die Zulage wird weitergewährt
 
@@ -790,10 +825,12 @@ maßgeblich.
 
 
 ## Abschnitt 4 - Zulagen in festen Monatsbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG001105311)
 
 
 
 ### § 18 Entstehen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005502311)
 
 (1) Der Anspruch auf die Zulage entsteht mit der tatsächlichen
 Aufnahme der zulageberechtigenden Tätigkeit und erlischt mit deren
@@ -807,6 +844,7 @@ Anspruchszeitraum entfällt.
 
 
 ### § 19 Weitergewährung bei Unterbrechung der zulageberechtigenden Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005605116)
 
 (1) Bei einer Unterbrechung der zulageberechtigenden Tätigkeit wird
 die Zulage weitergewährt im Falle
@@ -872,10 +910,12 @@ sechsten Monats, der auf den Eintritt der Unterbrechung folgt.
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE004220311)
 
 
 
 ### § 21 Zulage für allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE004315116)
 
 (1) Beamte und Soldaten, die in der Gesundheits- und Krankenpflege
 verwendet werden, erhalten eine Zulage von monatlich 120 Euro.
@@ -929,6 +969,7 @@ erfüllt sind, wird nur die höhere Zulage gewährt.
 
 
 ### § 21a Zulage für die Behandlung und Pflege bei schweren Infektionskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008801116)
 
 (1) Beamte des einfachen und mittleren Dienstes und entsprechende
 Soldaten, die in der Gesundheits- und Krankenpflege verwendet werden,
@@ -945,6 +986,7 @@ höhere Zulage gewährt.
 
 
 ### § 22 Zulage für besondere Einsätze
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE004416360)
 
 (1) Beamte und Soldaten mit Anspruch auf die Stellenzulage nach den
 Nummern 8 oder 9 der Vorbemerkungen zu den Bundesbesoldungsordnungen A
@@ -1105,6 +1147,7 @@ die höchste Zulage gewährt.
 
 
 ### § 22a Zulage für Polizeivollzugsbeamte als fliegendes Personal
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005707360)
 
 (1) Polizeivollzugsbeamte, die als Luftfahrzeugführer oder
 Flugtechniker in fliegenden Verbänden, fliegerischen
@@ -1180,6 +1223,7 @@ gewährt.
 
 
 ### § 23 Zulage für die Beseitigung von Munition aus den Weltkriegen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE004614360)
 
 (1) Beamte und Soldaten erhalten, wenn sie als Räumgruppenleiter bei
 besonderen Entgiftungsarbeiten eingesetzt werden, eine Zulage. Die
@@ -1211,6 +1255,7 @@ einen Betrag bis zu 255,65 Euro erhöht werden.
 
 
 ### § 23a Zulage für Tätigkeiten im Seuchenbetrieb des Friedrich-Loeffler-Instituts
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005209116)
 
 (1) Beamte des Friedrich-Loeffler-Instituts, Bundesforschungsinstitut
 für Tiergesundheit, die ständig im Seuchenbetrieb tätig sind, erhalten
@@ -1232,9 +1277,11 @@ erfüllt sind, wird nur die höhere Zulage gewährt.
 
 
 ### (XXXX)§§ 23b und 23c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006910360)
 
 
 ### § 23d Zulage für Tätigkeiten im Maschinenraum seegehender Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE005907360)
 
 (1) Beamte und Soldaten, die im Maschinenraum eines seegehenden
 Schiffes verwendet werden, erhalten eine monatliche Zulage
@@ -1276,6 +1323,7 @@ gewährt.
 
 
 ### § 23e Zulage für Minentaucher
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006008360)
 
 (1) Soldaten, die als Minentaucher verwendet werden oder sich in der
 Ausbildung zum Minentaucher befinden, erhalten eine Zulage
@@ -1317,6 +1365,7 @@ gewährt.
 
 
 ### § 23f Zulage für fliegendes Personal der Bundeswehr und anderer Einrichtungen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006107360)
 
 (1) Beamte und Soldaten, die als Luftfahrzeugführer,
 Waffensystemoffiziere, Luftfahrzeugoperationsoffiziere oder als
@@ -1478,6 +1527,7 @@ des Absatzes 1 Satz 2 für
 
 
 ### § 23g Zulage für technische Luftfahrzeugführer im Erprobungs- und Güteprüfdienst
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006203377)
 
 (1) Beamte und Soldaten als Luftfahrzeugführer im Erprobungs- oder
 Güteprüfdienst, die im Besitz der erforderlichen Flugerlaubnis und
@@ -1531,6 +1581,7 @@ die höhere Zulage zu gewähren.
 
 
 ### § 23h Zulage für Fallschirmspringer
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006307116)
 
 (1) Beamte und Soldaten, die nach erfolgreich abgeschlossener
 Fallschirmsprungausbildung mit der Erlaubnis zum Fallschirmspringen in
@@ -1575,6 +1626,7 @@ gewährt.
 
 
 ### § 23i Zulage für Verwendungen im militärischen Flugsicherungsbetriebsdienst und im Einsatzführungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006407116)
 
 (1) Beamte und Soldaten im militärischen Flugsicherungsbetriebsdienst
 oder im Einsatzführungsdienst erhalten eine Zulage.
@@ -1669,6 +1721,7 @@ soweit sie diese übersteigt.
 
 
 ### § 23j Zulage für Verwendungen in verbunkerten Anlagen im Geschäftsbereich des Bundesministeriums der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006506116)
 
 (1) Wer ständig innerhalb einer verbunkerten Anlage verwendet wird,
 erhält eine Zulage (Bunkerzulage) in Höhe von 30 Euro monatlich.
@@ -1699,6 +1752,7 @@ nach Absatz 2 erfüllen.
 
 
 ### § 23k Zulage für Ausbilder bei Einzelkämpferlehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006603377)
 
 (1) Soldaten, die überwiegend als Ausbilder bei
 Einzelkämpferlehrgängen verwendet werden, erhalten eine Zulage in Höhe
@@ -1713,6 +1767,7 @@ gewährt; sie entfällt neben einer Fallschirmspringerzulage in Höhe von
 
 
 ### § 23l Zulage für Bergführer
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE006707116)
 
 (1) Beamte und Soldaten mit gültigem Nachweis über eine erfolgreich
 abgeschlossene Ausbildung zum Bergführer erhalten bei Verwendung als
@@ -1743,6 +1798,7 @@ gewährt.
 
 
 ### § 23m Zulage für Spezialkräfte der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007106360)
 
 (1) Eine monatliche Zulage erhält, wer
 
@@ -1822,6 +1878,7 @@ nicht übersteigt.
 
 
 ### § 23n Zulage für besondere Erprobungs- und Versuchsarbeiten im Geschäftsbereich des Bundesministeriums der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE007202377)
 
 (1) Beamte und Soldaten im Geschäftsbereich des Bundesministeriums der
 Verteidigung, die
@@ -1863,6 +1920,7 @@ eine Lehr- oder Verwaltungstätigkeit ausüben, erhalten keine Zulage.
 
 
 ### § 23o Zulage für spezialisierte Kräfte der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008301360)
 
 (1) Soldaten erhalten eine Zulage in Höhe von 500 Euro monatlich, wenn
 sie für die folgenden Einsatzaufgaben ausgebildet sind und
@@ -1927,6 +1985,7 @@ Gesamtbetrag die Zulage nach § 23m Absatz 2 Nummer 1 nicht übersteigt.
 
 
 ### § 23p Zulage für besonders befähigte Unterstützungskräfte der Spezialkräfte der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008501125)
 
 (1) Soldaten des Kommandos Spezialkräfte sowie Soldaten, die in der
 Stabs- und Führungsunterstützungskompanie Special Operations Component
@@ -1995,6 +2054,7 @@ Gesamtbetrag die Zulage nach § 23m Absatz 2 Nummer 3 nicht übersteigt.
 
 
 ### § 23q Zulage für Tätigkeiten im protokollarischen Dienst des Wachbataillons beim Bundesministerium der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008600360)
 
 (1) Soldaten, die im protokollarischen Dienst des Wachbataillons beim
 Bundesministerium der Verteidigung verwendet oder für eine solche
@@ -2007,6 +2067,7 @@ des Bundesbesoldungsgesetzes gewährt.
 
 
 ### § 23r Zulage für Tätigkeiten mit Biostoffen in Laboratorien
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008700360)
 
 (1) Beamte und Soldaten, die in einem Laboratorium eine Tätigkeit
 ausüben, die nach § 5 der Biostoffverordnung vom 15. Juli 2013 (BGBl.
@@ -2024,10 +2085,12 @@ wird neben einer Zulage nach § 23a nur gewährt, soweit sie diese
 
 
 ## Abschnitt 5 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNG002400311)
 
 
 
 ### § 24 Übergangsregelung für Beamte des Bundeseisenbahnvermögens und der Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ezulv_1976/BJNR011010976.html#BJNR011010976BJNE008002360)
 
 (1) Abweichend von Abschnitt 3 gelten § 19 Absatz 1 und § 20 Absatz 5
 in der bis zum 30. September 2013 geltenden Fassung fort

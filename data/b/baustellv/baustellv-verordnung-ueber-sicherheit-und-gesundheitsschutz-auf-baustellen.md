@@ -28,12 +28,14 @@ Richtlinie 89/391/EWG) (ABl. EG Nr. L 245 S. 6).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000100320)
 
 Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl.
 I S. 1246) verordnet die Bundesregierung:
 
 
 ## § 1 Ziele, Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000200320)
 
 (1) Diese Verordnung dient der wesentlichen Verbesserung von
 Sicherheit und Gesundheitsschutz der Beschäftigten auf Baustellen.
@@ -48,6 +50,7 @@ abzubrechen.
 
 
 ## § 2 Planung der Ausführung des Bauvorhabens
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000301126)
 
 (1) Bei der Planung der Ausführung eines Bauvorhabens, insbesondere
 bei der Einteilung der Arbeiten, die gleichzeitig oder nacheinander
@@ -97,6 +100,7 @@ einzubeziehen wären.
 
 
 ## § 3 Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000402126)
 
 (1) Für Baustellen, auf denen Beschäftigte mehrerer Arbeitgeber tätig
 werden, hat der nach § 4 Verantwortliche einen oder mehrere geeignete
@@ -151,6 +155,7 @@ Koordinator
 
 
 ## § 4 Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000500320)
 
 Die Maßnahmen nach § 2 und § 3 Abs. 1 Satz 1 hat der Bauherr zu
 treffen, es sei denn, er beauftragt einen Dritten, diese Maßnahmen in
@@ -158,6 +163,7 @@ eigener Verantwortung zu treffen.
 
 
 ## § 5 Pflichten der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000601126)
 
 (1) Die Arbeitgeber haben bei der Ausführung der Arbeiten die
 erforderlichen Maßnahmen des Arbeitsschutzes insbesondere in bezug auf
@@ -201,6 +207,7 @@ nicht berührt.
 
 
 ## § 6 Pflichten sonstiger Personen
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000700320)
 
 Zur Gewährleistung von Sicherheit und Gesundheitsschutz der
 Beschäftigten haben auch die auf einer Baustelle tätigen Unternehmer
@@ -212,6 +219,7 @@ selbst auf der Baustelle tätig sind.
 
 
 ## § 6a Beratung durch den Ausschuss für Arbeitsstätten
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE001300126)
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der
 Sicherheit und des Gesundheitsschutzes der Beschäftigten auf
@@ -221,6 +229,7 @@ gilt entsprechend.
 
 
 ## § 7 Ordnungswidrigkeiten und Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000801126)
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -242,6 +251,7 @@ Arbeitsschutzgesetzes strafbar.
 
 
 ## § 8 Inkrafttreten und Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE000901126)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.
@@ -252,11 +262,13 @@ maßgebend.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE001000320)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anhang I
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE001100320)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 1285
 
@@ -293,6 +305,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 1285
 
 
 ## Anhang II
+[Direktlink](https://www.gesetze-im-internet.de/baustellv/BJNR128300998.html#BJNR128300998BJNE001203126)
 
 (Fundstelle: BGBl. I 1998, 1285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

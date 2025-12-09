@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-7-39 v. 29.6.1993 I 1114 (FAgrPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3
 Nummer 1 und mit § 53a Absatz 1 Nummer 2 und mit § 53c des
@@ -31,9 +32,11 @@ Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000100000)
 
 
 ### § 1 Ziel der Prüfung, Fortbildungsstufe und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Fachagrarwirt Baumpflege – Bachelor
@@ -52,6 +55,7 @@ vorangestellt.
 
 
 ### § 2 Qualifizierungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000400000)
 
 (1) Durch die Prüfung ist festzustellen, ob der Prüfling in der Lage
 ist, die den Qualifizierungsbereichen
@@ -252,6 +256,7 @@ Verbindung mit den Anforderungen und Prüfungsinhalten der §§ 6, 11 und
 
 
 ### § 3 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000500000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -286,6 +291,7 @@ rechtfertigt.
 
 
 ### § 4 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000600000)
 
 Die Prüfung umfasst die folgenden Prüfungsteile:
 
@@ -302,15 +308,18 @@ Die Prüfung umfasst die folgenden Prüfungsteile:
 
 
 ### § 5 Bewerten der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000700000)
 
 Für die Bewertung der Leistungen in der Prüfung ist der in Anlage 1
 dargestellte sechsstufige Bewertungsmaßstab anzuwenden.
 
 
 ## Abschnitt 2 - Prüfungsteil Baumdiagnose und Baumpflegemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000200000)
 
 
 ### § 6 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000800000)
 
 (1) Im Prüfungsteil Baumdiagnose und Baumpflegemaßnahmen hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -432,6 +441,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 ### § 7 Prüfungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE000900000)
 
 Die Prüfung besteht aus
 
@@ -448,6 +458,7 @@ Die Prüfung besteht aus
 
 
 ### § 8 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001000000)
 
 (1) Mit der Durchführung des Arbeitsprojektes hat der Prüfling
 nachzuweisen, dass er in der Lage ist, ausgehend von einer konkreten
@@ -474,6 +485,7 @@ länger als 60 Minuten dauern.
 
 
 ### § 9 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001100000)
 
 (1) In der Arbeitsprobe hat der Prüfling nachzuweisen, dass er in der
 Lage ist, eine Baumschadensdiagnose durchzuführen und das Ergebnis in
@@ -484,6 +496,7 @@ Fachgesprächs stehen 60 Minuten zur Verfügung.
 
 
 ### § 10 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001200000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -494,9 +507,11 @@ Minuten.
 
 
 ## Abschnitt 3 - Prüfungsteil Betriebs- und Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000300000)
 
 
 ### § 11 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001300000)
 
 (1) Im Prüfungsteil Betriebs- und Unternehmensführung hat der Prüfling
 nachzuweisen, dass er wirtschaftliche, rechtliche und soziale
@@ -560,6 +575,7 @@ Entwicklungsmöglichkeiten aufzeigen kann.
 
 
 ### § 12 Prüfungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001400000)
 
 Die Prüfung besteht aus
 
@@ -573,6 +589,7 @@ Die Prüfung besteht aus
 
 
 ### § 13 Fallstudie
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001500000)
 
 (1) In der Fallstudie hat der Prüfling eine betriebswirtschaftlich
 relevante unternehmerische Entscheidungssituation zu bearbeiten. Die
@@ -588,6 +605,7 @@ Das Fachgespräch soll nicht länger als 45 Minuten dauern.
 
 
 ### § 14 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001600000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -598,9 +616,11 @@ Minuten.
 
 
 ## Abschnitt 4 - Prüfungsteil Mitarbeiterführung und Personalmanagement
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000400000)
 
 
 ### § 15 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001700000)
 
 (1) Im Prüfungsteil Mitarbeiterführung und Personalmanagement hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -700,6 +720,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 ### § 16 Prüfungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001800000)
 
 Die Prüfung besteht aus
 
@@ -713,6 +734,7 @@ Die Prüfung besteht aus
 
 
 ### § 17 Fallstudie
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE001900000)
 
 (1) In der Fallstudie hat der Prüfling eine Situation der
 Mitarbeiterführung zu bearbeiten. Die Situation wird vom
@@ -729,6 +751,7 @@ Minuten dauern.
 
 
 ### § 18 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002000000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen fallbezogenen Aufgaben aus den
@@ -739,9 +762,11 @@ Minuten.
 
 
 ## Abschnitt 5 - Bewertungen in den Prüfungen, Befreiung von Prüfungsbestandteilen, Bestehens- und Zeugnisregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000500000)
 
 
 ### § 19 Bewertungen in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002100000)
 
 (1) Jede Leistung in den sieben Prüfungsbestandteilen nach § 7 Nummer
 1 bis 3, § 12 Nummer 1 und 2 sowie § 16 Nummer 1 und 2 ist gesondert
@@ -770,6 +795,7 @@ nach folgender Formel:
 ![bgbl1_2020_j2643-1_0040.jpg](bgbl1_2020_j2643-1_0040.jpg)
 
 ### § 20 Befreiung von Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002200000)
 
 (1) Für die Befreiung von einzelnen Prüfungsbestandteilen nach
 
@@ -806,6 +832,7 @@ des Prüfungsausschusses zu Grunde zu legen.
 
 
 ### § 21 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002300000)
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil
 nach § 4 mindestens die Note „ausreichend“ nach Anlage 1 erzielt hat.
@@ -825,6 +852,7 @@ nach § 4 mindestens die Note „ausreichend“ nach Anlage 1 erzielt hat.
 
 
 ### § 22 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002400000)
 
 (1) Wer die Prüfung bestanden hat, erhält von der zuständigen Stelle
 zwei Zeugnisse nach Maßgabe der Anlage 2.
@@ -862,9 +890,11 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## Abschnitt 6 - Ergänzungs- und Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000600000)
 
 
 ### § 23 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002500000)
 
 (1) Wurde eine oder wurden zwei der schriftlichen Prüfungen nach den
 §§ 10, 14 und 18 schlechter als mit „ausreichend“ nach Anlage 1
@@ -881,6 +911,7 @@ der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### § 24 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002600000)
 
 (1) Eine Prüfung, die nicht bestanden wurde, kann zweimal wiederholt
 werden.
@@ -902,9 +933,11 @@ nach den §§ 7, 12 und 16 zu befreien, wenn
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNG000700000)
 
 
 ### § 25 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002700000)
 
 (1) Die bis zum Ablauf des 31. Dezember 2020 begonnenen
 Prüfungsverfahren sind nach den Vorschriften der Verordnung über die
@@ -922,6 +955,7 @@ Baumsanierung vom 29. Juni 1993 (BGBl. I S. 1114) ab.
 
 
 ### § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002800000)
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -931,6 +965,7 @@ vom 29. Juni 1993 (BGBl. I S. 1114) außer Kraft.
 (zu § 5)
 
 ### Anlage 1 Bewertungsmaßstab für die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE002900000)
 
 (Fundstelle: BGBl. I 2020, 2650)
 
@@ -1002,6 +1037,7 @@ anzuwenden.
 (zu § 22)
 
 ### Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/fabaumpflprv/BJNR264300020.html#BJNR264300020BJNE003000000)
 
 (Fundstelle: BGBl. I 2020, 2651)
 

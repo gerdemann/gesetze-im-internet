@@ -33,6 +33,7 @@ L 142 S. 22).
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pcbabfallv/BJNR093210000.html#BJNR093210000BJNE000101320)
 
 (1) Die Verordnung gilt für nachfolgend definierte "PCB", die als
 Abfälle entsorgt werden oder entsorgt werden müssen.
@@ -93,6 +94,7 @@ Abfälle entsorgt werden oder entsorgt werden müssen.
 
 
 ## § 2 Pflichten zur Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/pcbabfallv/BJNR093210000.html#BJNR093210000BJNE000201310)
 
 (1) Der Besitzer hat PCB unverzüglich zu beseitigen. Dies gilt nicht,
 soweit PCB im Sinne von § 1 Abs. 2 Nr. 3 nach Absatz 2 verwertet
@@ -145,6 +147,7 @@ nicht zumutbar ist.
 
 
 ## § 3 Brand- und Explosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/pcbabfallv/BJNR093210000.html#BJNR093210000BJNE000300305)
 
 Nach Maßgabe der einschlägigen Vorschriften sind beim Bereitstellen,
 Überlassen, Einsammeln und innerbetrieblichen Befördern von PCB nach §
@@ -154,6 +157,7 @@ Nr. 2 durch Brände und Explosionen zu vermeiden.
 
 
 ## § 4 Nachweis- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pcbabfallv/BJNR093210000.html#BJNR093210000BJNE000402310)
 
 (1) Unternehmen und Betreiber von Beseitigungsanlagen, die eines der
 in § 2 Abs. 5 genannten Verfahren zur Beseitigung von PCB durchführen
@@ -201,6 +205,7 @@ findet entsprechende Anwendung.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pcbabfallv/BJNR093210000.html#BJNR093210000BJNE000502310)
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig

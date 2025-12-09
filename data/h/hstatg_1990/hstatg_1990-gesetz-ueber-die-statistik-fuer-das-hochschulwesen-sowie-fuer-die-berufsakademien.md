@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000201301)
 
 (1) Für Zwecke der Gesetzgebung und Planung im Hochschulbereich und
 bei den Berufsakademien sowie zur Erfüllung der
@@ -56,6 +58,7 @@ Zuständigkeiten Verwendung finden können.
 
 
 ## § 2 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000303301)
 
 Die Erhebungen erstrecken sich auf:
 
@@ -75,6 +78,7 @@ Die Erhebungen erstrecken sich auf:
 
 
 ## § 3 Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000404301)
 
 (1) Bei den in § 2 Nummer 1 genannten Einrichtungen werden für die
 Studierenden, die Prüfungsteilnehmenden sowie die Exmatrikulierten
@@ -315,6 +319,7 @@ Zweckbestimmung.
 
 
 ## § 4 Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 und 2 (Hochschulen, Hochschulkliniken sowie staatliche und kirchliche Prüfungsämter)
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE001100301)
 
 Bei den in § 2 Nummer 1 und 2 genannten Einrichtungen werden für die
 Prüfungsteilnehmenden, soweit die Merkmale nicht bereits nach § 3
@@ -371,6 +376,7 @@ Abschluss des Prüfungsverfahrens erfasst:
 
 
 ## § 5 Erhebungsmerkmale für Promovierende bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE001200301)
 
 (1) Als Promovierende gelten Personen, die von einer zur Promotion
 berechtigten Einrichtung eine schriftliche Bestätigung über die
@@ -444,6 +450,7 @@ erfasst:
 
 
 ## § 6 Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 3 (Berufsakademien)
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE001300301)
 
 (1) Bei den in § 2 Nummer 3 genannten Einrichtungen werden für alle
 Studierenden und Prüfungsteilnehmenden jährlich jeweils nach Ablauf
@@ -535,6 +542,7 @@ Weiteren wird die Bezeichnung der Berufsakademie erfasst:
 
 
 ## § 7 Studienverlaufsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE001400301)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 führen eine Studienverlaufsstatistik mit den folgenden nach § 3 Absatz
@@ -679,6 +687,7 @@ des Promotionsverfahrens gelöscht.
 
 
 ## § 8 Auswertungsdatenbank Hochschulstatistik
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE001500301)
 
 Die Einzelangaben nach § 3 Absatz 1, 3 bis 5 und 7, den §§ 4 und 5
 dieses Gesetzes sowie nach § 3 Absatz 1 Nummer 1 Buchstabe d und
@@ -693,6 +702,7 @@ Zuständigkeitsbereich nutzen.
 
 
 ## § 9 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000504116)
 
 (1) Hilfsmerkmale sind:
 
@@ -717,6 +727,7 @@ Hilfsmerkmale nach Absatz 1 Nummer 2 keine Anwendung.
 
 
 ## § 10 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000603301)
 
 (1) Für die Erhebungen nach den §§ 3 bis 6 besteht Auskunftspflicht.
 
@@ -749,6 +760,7 @@ der in § 2 Nummer 1 bis 3 genannten Einrichtungen zu erteilen.
 
 
 ## § 11 Veröffentlichung und Übermittlung von Tabellen
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000702301)
 
 (1) Ergebnisse der Hochschulstatistik dürfen auf die einzelne
 Hochschule und einzelne Hochschulstandorte bezogen veröffentlicht
@@ -764,6 +776,7 @@ ausweisen.
 
 
 ## § 12 Ausschuß für die Hochschulstatistik
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000804301)
 
 (1) Beim Statistischen Bundesamt wird ein Ausschuß für die
 Hochschulstatistik gebildet.
@@ -824,6 +837,7 @@ vorschlagsberechtigten Einrichtungen.
 
 
 ## § 13 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hstatg_1990/BJNR024140990.html#BJNR024140990BJNE000902301)
 
 (1) Die Erhebungen zu Studierenden und Prüfungen nach § 3 Absatz 1
 sowie § 4 werden erstmals im Sommersemester 2017 durchgeführt. Die

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbankge_v/BJNR081300009.html#BJNR081300009BJNE000100000)
 
 Auf Grund des § 31 Absatz 4 Satz 3 und Absatz 6 Satz 3 des Gesetzes
 über die Deutsche Bundesbank in der Fassung der Bekanntmachung vom 22.
@@ -30,6 +31,7 @@ eingefügt worden sind, verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bbankge_v/BJNR081300009.html#BJNR081300009BJNE000200000)
 
 Die in § 31 Absatz 4 Satz 1 des Gesetzes über die Deutsche Bundesbank
 enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
@@ -37,6 +39,7 @@ enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bbankge_v/BJNR081300009.html#BJNR081300009BJNE000300000)
 
 Die in § 31 Absatz 6 Satz 1 des Gesetzes über die Deutsche Bundesbank
 enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
@@ -44,6 +47,7 @@ enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bbankge_v/BJNR081300009.html#BJNR081300009BJNE000500128)
 
 Die in § 31 Absatz 7 Satz 1 des Gesetzes über die Deutsche Bundesbank
 enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
@@ -51,6 +55,7 @@ enthaltene Ermächtigung wird auf den Vorstand der Deutschen Bundesbank
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bbankge_v/BJNR081300009.html#BJNR081300009BJNE000401128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

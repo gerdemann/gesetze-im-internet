@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000101119)
 
 Auf Grund des § 34 Absatz 8 Satz 1 und 2 des Postgesetzes vom 15. Juli
 2024 (BGBl. 2024 I Nr. 236) in Verbindung mit § 1 der PostG-
@@ -31,9 +32,11 @@ und Eisenbahnen:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000201119)
 
 (1) Gegenstand der außergerichtlichen Streitbeilegung (Schlichtung)
 sind Streitigkeiten eines Kunden mit einem Anbieter von
@@ -45,6 +48,7 @@ Postsendungen im Sinne des § 34 Absatz 1 Satz 2 des Postgesetzes.
 
 
 ### § 2 Schlichtungsstelle und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000300000)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen (Bundesnetzagentur) stellt für die Durchführung
@@ -75,6 +79,7 @@ entsprechend.
 
 
 ### § 3 Parteien
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000400000)
 
 Parteien des Schlichtungsverfahrens sind der Kunde im Sinne des § 1
 Absatz 2 als Antragsteller und der Postdienstleister als
@@ -82,6 +87,7 @@ Antragsgegner.
 
 
 ### § 4 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000500000)
 
 (1) Das Schlichtungsverfahren hat zum Ziel, im Interesse beider
 Parteien eine möglichst kostengünstige und schnelle gütliche Einigung
@@ -131,9 +137,11 @@ sind.
 
 
 ## Zweiter Abschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNG000200000)
 
 
 ### § 5 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000601119)
 
 (1) Der Antrag auf Durchführung eines Schlichtungsverfahrens hat in
 Textform zu erfolgen. Die Schlichtungsstelle stellt eine Möglichkeit
@@ -185,6 +193,7 @@ nicht durchgeführt.
 
 
 ### § 6 Antragserwiderung
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000700000)
 
 (1) Die Schlichtungsstelle übermittelt dem Antragsgegner außer in den
 Fällen des § 7 Absatz 1 den zulässigen und vollständigen Antrag und
@@ -208,6 +217,7 @@ Anwendung.
 
 
 ### § 7 Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000801119)
 
 (1) Die Schlichtungsstelle lehnt den Antrag auf Durchführung eines
 Schlichtungsverfahrens ab, wenn
@@ -305,6 +315,7 @@ fort.
 
 
 ### § 8 Eröffnung des Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE000900000)
 
 Die Schlichtungsstelle eröffnet das Schlichtungsverfahren, wenn
 
@@ -320,6 +331,7 @@ Die Schlichtungsstelle eröffnet das Schlichtungsverfahren, wenn
 
 
 ### § 9 Stellungnahmen und Eingang der vollständigen Beschwerdeakte
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001000000)
 
 (1) Die Schlichtungsstelle gibt dem Antragsteller Gelegenheit,
 innerhalb einer angemessenen Frist zur Antragserwiderung Stellung zu
@@ -342,6 +354,7 @@ Zeitpunkt gilt als Eingang der vollständigen Beschwerdeakte.
 
 
 ### § 10 Termin zur mündlichen Erörterung
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001100000)
 
 (1) Findet unter den Voraussetzungen des § 4 Absatz 7 Satz 2 eine
 mündliche Erörterung statt, setzt die Schlichtungsstelle die Parteien
@@ -370,6 +383,7 @@ Absatz 7 Satz 2 vereinbarten mündlichen Erörterung teil, so gilt dies
 
 
 ### § 11 Durchführung der mündlichen Erörterung
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001200000)
 
 (1) Die mündliche Erörterung ist nicht öffentlich.
 
@@ -380,6 +394,7 @@ nicht statt.
 
 
 ### § 12 Schlichtungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001300000)
 
 (1) Die Schlichtungsstelle übermittelt den Parteien den
 Schlichtungsvorschlag oder, sofern kein Schlichtungsvorschlag zu
@@ -412,6 +427,7 @@ Verlängerung der Frist ist die andere Partei zu informieren.
 
 
 ### § 13 Beendigung des Schlichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001400000)
 
 (1) Nehmen die Parteien den Schlichtungsvorschlag an oder einigen sie
 sich in anderer Weise vor Beendigung des Schlichtungsverfahrens,
@@ -449,6 +465,7 @@ Zivilprozeßordnung bezeichnet.
 
 
 ### § 14 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001500000)
 
 (1) Die Schlichtungsstelle kann dem Antragsgegner mit der Übermittlung
 des Antrags nach § 6 Absatz 1 Satz 1 einen Schlichtungsvorschlag
@@ -466,14 +483,17 @@ Verfahrens sind die Parteien zu unterrichten.
 
 
 ### § 15 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001600000)
 
 Eine Wiederaufnahme des Verfahrens ist nicht möglich.
 
 
 ## Dritter Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNG000300000)
 
 
 ### § 16 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001700000)
 
 Für die Durchführung des Schlichtungsverfahrens werden Gebühren und
 Auslagen nicht erhoben. Jede Partei trägt die ihr durch die Teilnahme
@@ -481,9 +501,11 @@ am Verfahren entstehenden Kosten selbst.
 
 
 ## Vierter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNG000400000)
 
 
 ### § 17 Zugangsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001801119)
 
 Schriftstücke, die auf Veranlassung der Schlichtungsstelle durch einen
 Postdienstleister im Inland an eine Partei übermittelt werden, gelten
@@ -491,6 +513,7 @@ mit dem vierten Tage nach der Aufgabe zur Post als zugegangen.
 
 
 ### § 18 Anwendbare Vorschriften der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE001900000)
 
 Soweit die Vorschriften dieser Verordnung und die nach § 28 des
 Verbraucherstreitbeilegungsgesetzes sinngemäß anzuwendenden
@@ -502,6 +525,7 @@ Sinne des Schlichtungsverfahrens entsprechend anzuwenden.
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/postschliv/BJNR098000022.html#BJNR098000022BJNE002000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt G 7133-5 v. 25.6.2012 I 1366 (NWRG)
 
 ## Abschnitt 1 - Zweck des Waffenregisters, Registerbehörde, Fachliche Leitstelle Nationales Waffenregister
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000100000)
 
 
 ### § 1 Zweck des Waffenregisters
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000200000)
 
 (1) Das Nationale Waffenregister dient insbesondere dem Schutz der
 öffentlichen Sicherheit und Ordnung. Den Waffenbehörden und den um
@@ -48,6 +50,7 @@ zugeordnet:
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000300000)
 
 (1) Waffenregister im Sinne dieses Gesetzes ist das Nationale
 Waffenregister.
@@ -162,6 +165,7 @@ Behörden.
 
 
 ### § 3 Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000400000)
 
 (1) Das Waffenregister wird von der Registerbehörde geführt.
 
@@ -172,6 +176,7 @@ Behörden.
 
 
 ### § 4 Fachliche Leitstelle Nationales Waffenregister
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000500000)
 
 (1) Wenn die nach diesem Gesetz zur Datenverarbeitung berechtigten
 Stellen bei der Erfüllung ihrer Aufgaben durch eine zu diesem Zweck
@@ -199,9 +204,11 @@ erforderlich ist.
 
 
 ## Abschnitt 2 - Datenbestand des Waffenregisters
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000200000)
 
 
 ### § 5 Anlass für die Verarbeitung im Waffenregister
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000600000)
 
 Die Verarbeitung von Daten im Waffenregister setzt voraus, dass
 
@@ -307,6 +314,7 @@ Die Verarbeitung von Daten im Waffenregister setzt voraus, dass
 
 
 ### § 6 Grunddaten des Waffenregisters
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000700000)
 
 (1) Im Waffenregister werden die folgenden Grunddaten gespeichert:
 
@@ -451,6 +459,7 @@ gespeichert
 
 
 ### § 7 Vergabe und Verarbeitung von Ordnungsnummern
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000800000)
 
 (1) Die Registerbehörde vergibt jeweils Ordnungsnummern für die im
 Waffenregister gespeicherten Daten. Die Registerbehörde vergibt
@@ -491,9 +500,11 @@ genannten Ordnungsnummern zu verarbeiten.
 
 
 ## Abschnitt 3 - Datenübermittlungen an die Registerbehörde und die Waffenbehörden
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000300000)
 
 
 ### § 8 Datenübermittlung der Waffenbehörden an die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE000900000)
 
 (1) Tritt ein in § 5 benannter Anlass ein, übermitteln die
 Waffenbehörden der Registerbehörde unverzüglich die Daten, die zu
@@ -542,6 +553,7 @@ Ordnungsnummern zu übermitteln.
 
 
 ### § 9 Datenübermittlung der gewerblichen Waffenhersteller und Waffenhändler an die Waffenbehörden
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001000000)
 
 (1) Die Inhaber einer Erlaubnis nach § 21 Absatz 1 Satz 1 des
 Waffengesetzes haben zur Erfüllung ihrer elektronischen
@@ -576,6 +588,7 @@ vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) bleiben unberührt.
 
 
 ### § 10 Zuständigkeit für Richtigkeit und Vollständigkeit der Daten
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001100000)
 
 (1) Die Waffenbehörden sind für die Richtigkeit und Vollständigkeit
 der Daten verantwortlich, die diese nach den §§ 8 und 9 an die
@@ -594,6 +607,7 @@ den Waffenbehörden zu einem Datensatz zusammenführen.
 
 
 ### § 11 Unterrichtung der Waffenbehörden durch die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001200000)
 
 Verändert eine Waffenbehörde durch eine Datenübermittlung an die
 Registerbehörde Daten, die im Waffenregister gespeichert sind,
@@ -602,6 +616,7 @@ für diese Daten verantwortlich sind.
 
 
 ### § 12 Protokollierungspflicht bei der Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001300000)
 
 (1) Die Registerbehörde erstellt zu jeder Datenübermittlung nach den
 §§ 8 und 9 Protokolle. Das Protokoll muss folgende Daten enthalten:
@@ -646,9 +661,11 @@ ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
 
 ## Abschnitt 4 - Datenübermittlung der Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000400000)
 
 
 ### § 13 Öffentliche Stellen, die zum Ersuchen berechtigt sind
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001400000)
 
 Richten folgende öffentliche Stellen zu den genannten
 Datenverarbeitungszwecken ein Übermittlungsersuchen an die
@@ -701,12 +718,14 @@ Ordnungsnummern:
 
 
 ### § 14 Form des Übermittlungsersuchens
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001500000)
 
 Ein Übermittlungsersuchen an die Registerbehörde ist schriftlich oder
 elektronisch zu stellen.
 
 
 ### § 15 Inhalt des Übermittlungsersuchens
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001600000)
 
 (1) In dem Übermittlungsersuchen sind anzugeben:
 
@@ -776,6 +795,7 @@ Grunddaten des wesentlichen Teils verknüpft werden.
 
 
 ### § 16 Datenübermittlung der Registerbehörde an die ersuchende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001700000)
 
 (1) Voraussetzung der Datenübermittlung von der Registerbehörde an die
 ersuchende Stelle ist, dass
@@ -867,6 +887,7 @@ elektronisch an die ersuchende Stelle.
 
 
 ### § 17 Übermittlungsersuchen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001800000)
 
 (1) Die Angabe der Anschrift in einem Übermittlungsersuchen ist
 ausreichend bei einem Ersuchen
@@ -934,6 +955,7 @@ Personenvereinigungen.
 
 
 ### § 18 Zulässigkeit der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE001900000)
 
 Die ersuchende Stelle trägt die Verantwortung für die Zulässigkeit des
 Übermittlungsersuchens. Sie hat den Grund ihres Übermittlungsersuchens
@@ -941,6 +963,7 @@ aktenkundig zu machen.
 
 
 ### § 19 Gruppenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002000000)
 
 In einem Übermittlungsersuchen kann um die Übermittlung mehrerer Daten
 ersucht werden, die nicht mit jeweils allen nach § 15 Absatz 2
@@ -1002,6 +1025,7 @@ erforderlichen Angaben bezeichnet sind (Gruppenauskunft), wenn
 
 
 ### § 20 Datenabruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002100000)
 
 (1) Die zum Ersuchen berechtigten Stellen werden von der
 Registerbehörde auf Antrag zum Datenabruf im automatisierten Verfahren
@@ -1051,6 +1075,7 @@ Schutz personenbezogener Daten zuständige Stelle dieses Landes.
 
 
 ### § 21 Gruppenauskunft auf Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002200000)
 
 (1) Eine Gruppenauskunft auf Abruf im automatisierten Verfahren ist
 nur zulässig, wenn eine gegenwärtige Gefahr für Leib, Leben oder
@@ -1062,6 +1087,7 @@ zwölf Monate aufzubewahren.
 
 
 ### § 22 Datenübermittlung an die Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002300000)
 
 Auf Aufsichtsbehörden der Waffenbehörden sind die für die
 beaufsichtigten Behörden jeweils geltenden Vorschriften dieses
@@ -1070,6 +1096,7 @@ Aufsichtsfunktion erforderlich ist.
 
 
 ### § 23 Unterrichtungspflicht bei Unrichtigkeit der übermittelten Daten
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002400000)
 
 Die Stellen, die berechtigt sind, ein Übermittlungsersuchen an die
 Registerbehörde zu stellen, haben die Waffenbehörde unverzüglich zu
@@ -1078,6 +1105,7 @@ der ihnen übermittelten Daten vorliegen.
 
 
 ### § 24 Datenübermittlung für statistische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002500000)
 
 (1) Die Registerbehörde übermittelt auf Antrag anonymisierte
 Geschäftsstatistiken an folgende Stellen:
@@ -1111,6 +1139,7 @@ entsprechend.
 
 
 ### § 25 Protokollierungspflicht bei der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002600000)
 
 (1) Die Registerbehörde erstellt bei Datenübermittlungen an die
 ersuchenden Stellen Protokolle, aus denen Folgendes hervorgeht:
@@ -1147,6 +1176,7 @@ protokollieren.
 
 
 ### § 26 Zweckänderung bei der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002700000)
 
 Die Verarbeitung personenbezogener Daten durch die ersuchende oder
 abrufende Stelle zu einem anderen Zweck als zu demjenigen, zu dem die
@@ -1156,9 +1186,11 @@ ist entsprechend anzuwenden.
 
 
 ## Abschnitt 5 - Löschung und Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000500000)
 
 
 ### § 27 Speicherfristen
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002800000)
 
 (1) Die Grunddaten einer Waffe sowie die Daten, die mit diesen
 Grunddaten verknüpft sind, sind spätestens 30 Jahre nach Vernichtung
@@ -1218,6 +1250,7 @@ der folgenden Fristen zu löschen:
 
 
 ### § 28 Verantwortlichkeiten für die Löschung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE002900000)
 
 Die zuständige Waffenbehörde ist für die Löschung der im
 Waffenregister verarbeiteten Daten verantwortlich. Die Registerbehörde
@@ -1227,6 +1260,7 @@ Benehmen mit der zuständigen Waffenbehörde unverzüglich zu löschen.
 
 
 ### § 29 Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE003000000)
 
 Die Verarbeitung von Daten, die nach § 27 Absatz 1 Satz 1 spätestens
 nach Ablauf von 30 Jahren zu löschen sind, wird für eine in § 13
@@ -1235,9 +1269,11 @@ eingeschränkt.
 
 
 ## Abschnitt 6 - Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000600000)
 
 
 ### § 30 Auskunftsrecht der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE003100000)
 
 (1) Die betroffene Person hat bei Geltendmachung des Auskunftsrechts
 nach Artikel 15 der Verordnung (EU) 2016/679 ihre Identität durch
@@ -1258,6 +1294,7 @@ unterrichten.
 
 
 ### § 31 Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE003200000)
 
 Die Pflicht des Verantwortlichen zur Unterrichtung der betroffenen
 Person nach Artikel 19 Satz 2 der Verordnung (EU) 2016/679 besteht
@@ -1266,9 +1303,11 @@ ist.
 
 
 ## Abschnitt 7 - Verordnungsermächtigung und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNG000700000)
 
 
 ### § 32 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE003300000)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
@@ -1316,6 +1355,7 @@ Rechtsverordnung hinzuweisen.
 
 
 ### § 33 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE003400000)
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann nicht durch Landesrecht
@@ -1323,6 +1363,7 @@ abgewichen werden.
 
 
 ### § 34 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/waffrg/BJNR018400020.html#BJNR018400020BJNE003500000)
 
 § 25 Absatz 3 ist ab dem 1. Dezember 2020 anzuwenden.
 

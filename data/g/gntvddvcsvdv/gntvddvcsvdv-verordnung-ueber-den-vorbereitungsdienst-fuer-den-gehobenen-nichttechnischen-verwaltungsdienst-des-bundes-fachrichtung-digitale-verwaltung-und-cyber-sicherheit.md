@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes – Absatz 1 Nummer 2 geändert durch Artikel 1
@@ -35,9 +36,11 @@ ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000100000)
 
 
 ### § 1 Studium
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000300000)
 
 (1) Als fachspezifischer Vorbereitungsdienst für den gehobenen
 nichttechnischen Verwaltungsdienst des Bundes wird der
@@ -53,6 +56,7 @@ Verwaltung und Cyber-Sicherheit“.
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000400000)
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
 die wissenschaftlichen Methoden und Kenntnisse sowie die
@@ -66,6 +70,7 @@ befähigen.
 
 
 ### § 3 Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000500000)
 
 (1) Dienstbehörde ist die Hochschule. Für die zur Verwendung beim
 Bundesnachrichtendienst vorgesehenen Studierenden ist der
@@ -80,6 +85,7 @@ anderen Behörden übertragen werden.
 
 
 ### § 4 Ausbildungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000600000)
 
 (1) Ausbildungsbehörden sind die Bundesbehörden, die von der
 Hochschule als Ausbildungsbehörden bestimmt worden sind.
@@ -93,6 +99,7 @@ Ausbildungsbehörde. § 30 Absatz 4 bleibt unberührt.
 
 
 ### § 5 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000700000)
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die
 Leiterin oder der Leiter der Dienstbehörde.
@@ -126,6 +133,7 @@ Leiterin oder der Leiter der Dienstbehörde.
 
 
 ### § 6 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000800000)
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -139,6 +147,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE000901311)
 
 (1) Auf Antrag sind Menschen mit Beeinträchtigungen, die die Umsetzung
 der nachzuweisenden Kenntnisse einschränken, im Auswahlverfahren (§
@@ -167,6 +176,7 @@ Gutachten trägt der Bund.
 
 
 ### § 8 Mitwirkungspflichten der Studierenden
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001000000)
 
 (1) Die Studierenden sind verpflichtet, der Hochschule Änderungen
 ihres Namens oder ihrer Anschrift unverzüglich anzuzeigen.
@@ -180,6 +190,7 @@ ob sie neue elektronische Mitteilungen der Hochschule erhalten haben.
 
 
 ### § 9 Bewertung der Leistungen im Studium und in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001101311)
 
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen
 werden wie folgt bewertet:
@@ -371,9 +382,11 @@ Rangpunktzahl von mindestens 5,00 erreicht wird.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000200000)
 
 
 ### § 10 Zweck und Durchführung des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001201311)
 
 (1) Auf der Grundlage eines Auswahlverfahrens entscheidet die
 Dienstbehörde
@@ -419,6 +432,7 @@ wird festgestellt, ob sie verfügen über
 
 
 ### § 11 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001301311)
 
 (1) Die Dienstbehörde lässt zum Auswahlverfahren zu, wer nach den
 eingereichten Unterlagen die in der Ausschreibung bestimmten
@@ -448,6 +462,7 @@ endgültig zu löschen.
 
 
 ### § 12 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001403311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Behörde,
 die das Auswahlverfahren durchführt, eine Auswahlkommission ein. Bei
@@ -490,12 +505,14 @@ zusammengeführt.
 
 
 ### § 13 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001500000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 14 Festlegungen der Hochschule
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001600000)
 
 (1) Die Behörde, die das Auswahlverfahren durchführt, legt fest:
 
@@ -524,6 +541,7 @@ vor jedem Teil des Auswahlverfahrens.
 
 
 ### § 15 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001701311)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 kognitive Fähigkeiten und das Vorhandensein eines
@@ -557,6 +575,7 @@ gleichgestellte behinderte Bewerberinnen und Bewerber.
 
 
 ### § 16 Bestehen des schriftlichen Teils und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001800000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in
 dem Leistungstest nach § 15 Absatz 2 und im Fall der Ergänzung durch
@@ -568,6 +587,7 @@ Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
 
 ### § 17 Zulassung zum mündlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE001900000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil bestanden hat.
@@ -587,6 +607,7 @@ Teil teilgenommen, so werden sie immer zum mündlichen Teil zugelassen.
 
 
 ### § 18 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002003311)
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere
 geprüft:
@@ -633,6 +654,7 @@ Einrichtungen zur Verfügung stehen.
 
 
 ### § 19 Bestehen des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002101311)
 
 (1) Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im
 halbstrukturierten Interview und im Fall der Anwendung weiterer
@@ -646,6 +668,7 @@ Auswahlverfahrens.
 
 
 ### § 20 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002201311)
 
 (1) Die Behörde, die das Auswahlverfahren durchführt, ermittelt für
 jede Bewerberin und jeden Bewerber, die oder der am mündlichen Teil
@@ -665,6 +688,7 @@ endgültig zu löschen.
 
 
 ### § 21 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002300000)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
 einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
@@ -674,12 +698,15 @@ Auswahlverfahren ausgeschlossen.
 
 
 ## Abschnitt 3 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000300000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000400000)
 
 
 #### § 22 Dauer und Gliederung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002403311)
 
 (1) Das Studium dauert in der Regel drei Jahre.
 
@@ -769,6 +796,7 @@ Lehrformate genutzt werden.
 
 
 #### § 23 Vertiefungsrichtung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002500000)
 
 In der berufspraktischen Studienzeit II sowie im Hauptstudium II ist
 entweder die Vertiefungsrichtung „Digital Administration“ oder die
@@ -778,11 +806,13 @@ Hochschule mit der Einstellungszusage bekannt.
 
 
 #### § 24 Module
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002600000)
 
 Die Studieninhalte werden in Modulen vermittelt.
 
 
 #### § 25 Modulhandbuch
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002700000)
 
 (1) Für das Studium erstellt die Hochschule ein Modulhandbuch.
 
@@ -824,9 +854,11 @@ Die Studieninhalte werden in Modulen vermittelt.
 
 
 ### Unterabschnitt 2 - Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000500000)
 
 
 #### § 26 Module des Grundstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002800000)
 
 (1) Im Grundstudium sind Module aus folgenden Fachgebieten zu
 absolvieren:
@@ -859,6 +891,7 @@ Bundes für öffentliche Verwaltung.
 
 
 #### § 27 Module des Hauptstudiums I
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE002900000)
 
 Im Hauptstudium I sind Module aus folgenden Fachgebieten zu
 absolvieren:
@@ -879,6 +912,7 @@ absolvieren:
 
 
 #### § 28 Module des Hauptstudiums II
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003001311)
 
 Im Hauptstudium II sind Module aus folgenden Fachgebieten zu
 absolvieren:
@@ -915,6 +949,7 @@ absolvieren:
 
 
 #### § 29 Qualitätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003100000)
 
 Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines
 Qualitätsmanagements nach § 3 Absatz 7 der Grundordnung der Hochschule
@@ -922,9 +957,11 @@ des Bundes für öffentliche Verwaltung regelt eine Evaluationsordnung.
 
 
 ### Unterabschnitt 3 - Berufspraktische Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000600000)
 
 
 #### § 30 Gliederung, Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003200000)
 
 (1) Die berufspraktischen Studienzeiten bestehen aus
 
@@ -954,6 +991,7 @@ Studierenden sind zu berücksichtigen.
 
 
 #### § 31 Spezialmodule
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003301311)
 
 (1) Als Spezialmodule sind Fortbildungsveranstaltungen oder andere
 Bildungsmaßnahmen zu absolvieren.
@@ -968,6 +1006,7 @@ Praktikums übertragen sind.
 
 
 #### § 32 Ausbildungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003400000)
 
 (1) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule
 eine Beamtin oder einen Beamten des gehobenen oder höheren Dienstes
@@ -991,6 +1030,7 @@ fest, welche Spezialmodule zu absolvieren sind.
 
 
 #### § 33 Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003500000)
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktischen
 Studienzeiten Ausbildende.
@@ -1008,6 +1048,7 @@ werden sie von anderen Dienstgeschäften entlastet.
 
 
 #### § 34 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003600000)
 
 (1) Die Ausbildungsbehörde stellt im Einvernehmen mit der Hochschule
 für jede Studierende und jeden Studierenden einen Ausbildungsplan auf.
@@ -1021,6 +1062,7 @@ gegeben.
 
 
 #### § 35 Bewertung der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003701311)
 
 (1) Ein Praktikum ist bestanden, wenn darin mindestens eine
 Rangpunktzahl von 5,00 erreicht wird.
@@ -1038,21 +1080,26 @@ Studiums gilt.
 
 
 #### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003801311)
 
 
 
 ## Abschnitt 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000700000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000800000)
 
 
 #### § 37 Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE003900000)
 
 Die Diplomprüfung ist die Laufbahnprüfung.
 
 
 #### § 38 Bestandteile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004000000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -1069,12 +1116,14 @@ Die Laufbahnprüfung besteht aus
 
 
 #### § 39 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004101311)
 
 Für die Organisation und Durchführung der Laufbahnprüfung ist das
 Prüfungsamt in der Zentralen Hochschulverwaltung zuständig.
 
 
 #### § 40 Durchführung der Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004201311)
 
 (1) Modulprüfungen werden durchgeführt insbesondere in Form
 
@@ -1115,6 +1164,7 @@ den Studierenden zugeordnet werden können.
 
 
 #### § 41 Durchführung der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004300000)
 
 (1) Die Bearbeitungszeit für eine Klausur beträgt mindestens 120 und
 höchstens 240 Minuten.
@@ -1129,6 +1179,7 @@ ist geheim zu halten.
 
 
 #### § 42 Multiple-Choice-Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004400000)
 
 (1) Multiple-Choice-Aufgaben können entweder als Einfach-
 Auswahlaufgaben (1 aus n) oder als Mehrfach-Auswahlaufgaben (x aus n)
@@ -1324,6 +1375,7 @@ automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
 
 #### § 43 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004500000)
 
 (1) Die Prüfenden müssen mindestens einen Bachelorabschluss oder eine
 gleichwertige Qualifikation besitzen.
@@ -1338,15 +1390,18 @@ Bewertung der oder des Erstprüfenden haben.
 
 
 #### § 44 Abweichende Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004600000)
 
 Wird eine Prüfung oder ein Prüfungsteil von zwei Prüfenden bewertet,
 wird das arithmetische Mittel der beiden Bewertungen gebildet.
 
 
 ### Unterabschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG000900000)
 
 
 #### § 45 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004703311)
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
@@ -1358,6 +1413,7 @@ erfolgreiches weiteres Studium erwarten lässt.
 
 
 #### § 46 Gegenstände der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004800000)
 
 (1) Die Zwischenprüfung besteht aus acht Modulprüfungen, von denen je
 vier im ersten und im zweiten Semester abgelegt werden.
@@ -1377,6 +1433,7 @@ vier im ersten und im zweiten Semester abgelegt werden.
 
 
 #### § 47 Prüfende für die Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE004900000)
 
 (1) Jede abgelegte Modulprüfung der Zwischenprüfung wird von einer
 oder einem Prüfenden bewertet.
@@ -1387,9 +1444,11 @@ Lehrkräfte der Hochschule sein.
 
 
 #### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005001311)
 
 
 #### § 49 Rangpunktzahl für die Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005100000)
 
 Aus den Bewertungen der Modulprüfungen der Zwischenprüfung wird eine
 Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen
@@ -1397,6 +1456,7 @@ der einzelnen Modulprüfungen ist.
 
 
 #### § 50 Bestehen der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005201311)
 
 Die Zwischenprüfung hat bestanden,
 
@@ -1412,6 +1472,7 @@ Die Zwischenprüfung hat bestanden,
 
 
 #### § 51 Zwischenprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005300000)
 
 Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein
 Zwischenprüfungszeugnis mit Angabe
@@ -1426,6 +1487,7 @@ Zwischenprüfungszeugnis mit Angabe
 
 
 #### § 52 Bescheid über die nicht bestandene Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005400000)
 
 Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt
 einen Bescheid über die nicht bestandene Zwischenprüfung. Aus dem
@@ -1434,6 +1496,7 @@ Module hervorgehen.
 
 
 #### § 53 Wiederholung der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005502311)
 
 (1) Wird die Zwischenprüfung wiederholt, so werden die nicht
 bestandenen Modulprüfungen wiederholt.
@@ -1461,9 +1524,11 @@ die Zeit, in der die Studierenden abwesend waren.
 
 
 ### Unterabschnitt 3 - Modulprüfungen des Hauptstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG001000000)
 
 
 #### § 54 Gegenstand der Modulprüfungen des Hauptstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005600000)
 
 (1) In jedem Modul des Hauptstudiums ist eine Prüfung abzulegen. In
 Spezialmodulen sind keine Prüfungen abzulegen.
@@ -1473,6 +1538,7 @@ einer Prüfung zusammengefasst werden.
 
 
 #### § 55 Prüfende für die Modulprüfungen des Hauptstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005700000)
 
 (1) Jede Modulprüfung wird von einer oder einem Prüfenden bewertet.
 
@@ -1482,9 +1548,11 @@ Lehrkräfte der Hochschule sein.
 
 
 #### § 56 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005801311)
 
 
 #### § 57 Rangpunktzahl der Modulprüfungen des Hauptstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE005900000)
 
 Aus den Bewertungen der Modulprüfungen wird eine Rangpunktzahl
 berechnet, die das arithmetische Mittel der Bewertungen der einzelnen
@@ -1492,6 +1560,7 @@ Modulprüfungen ist.
 
 
 #### § 58 Wiederholung einer Modulprüfung des Hauptstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006001311)
 
 (1) Wird eine Modulprüfung des Hauptstudiums wiederholt, so wird die
 Wiederholungsprüfung in derselben Form durchgeführt wie die nicht
@@ -1513,9 +1582,11 @@ Studium beendet.
 
 
 ### Unterabschnitt 4 - Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG001100000)
 
 
 #### § 59 Zweck der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006100000)
 
 Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie
 fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -1524,6 +1595,7 @@ selbständig zu bearbeiten.
 
 
 #### § 60 Bestandteile der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006200000)
 
 Die Diplomarbeit besteht aus
 
@@ -1540,6 +1612,7 @@ Die Diplomarbeit besteht aus
 
 
 #### § 61 Thema und Bearbeitungszeit der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006301311)
 
 (1) Das Thema der Diplomarbeit wird vom Prüfungsamt ausgegeben. Eine
 hauptamtliche Lehrkraft der Hochschule schlägt dem Prüfungsamt ein
@@ -1565,12 +1638,14 @@ aktenkundig zu machen.
 
 
 #### § 62 Formale Anforderungen an die schriftliche Ausarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006400000)
 
 Die formalen Anforderungen an die schriftliche Ausarbeitung legt das
 Prüfungsamt fest.
 
 
 #### § 63 Prüfende für die Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006500000)
 
 (1) Für die Bewertung der Diplomarbeit bestellt das Prüfungsamt eine
 Erstprüfende oder einen Erstprüfenden sowie eine Zweitprüfende oder
@@ -1593,6 +1668,7 @@ werden.
 
 
 #### § 64 Betreuung und Freistellung bei der schriftlichen Ausarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006601311)
 
 (1) Bei der schriftlichen Ausarbeitung wird die oder der Studierende
 von der oder dem Erstprüfenden betreut.
@@ -1616,6 +1692,7 @@ berufspraktischen Studienzeit II sicherstellen, dass in Fällen
 
 
 #### § 65 Abgabe der schriftlichen Ausarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006700000)
 
 (1) Der Termin für die Abgabe wird vom Prüfungsamt festgelegt.
 
@@ -1640,6 +1717,7 @@ abgegeben, so gilt sie als mit null Rangpunkten bewertet.
 
 
 #### § 66 Zulassung zu Präsentation und Disputation
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006800000)
 
 Zu Präsentation und Disputation wird zugelassen, wer in der
 schriftlichen Ausarbeitung eine Rangpunktzahl von mindestens 5,00
@@ -1647,6 +1725,7 @@ erreicht hat.
 
 
 #### § 67 Zweck der Präsentation und der Disputation
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE006900000)
 
 Durch die Präsentation und die Disputation sollen die Studierenden
 nachweisen, dass sie fundiertes Wissen auf dem bearbeiteten
@@ -1665,6 +1744,7 @@ Themengebiet besitzen und dass sie fähig sind,
 
 
 #### § 68 Durchführung der Präsentation und der Disputation
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007000000)
 
 (1) Die Präsentation und die Disputation werden als Einzelprüfungen
 durchgeführt.
@@ -1677,6 +1757,7 @@ dauern.
 
 
 #### § 69 Zuhörerinnen und Zuhörer bei der Präsentation und der Disputation
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007100000)
 
 (1) Die Präsentation und die Disputation sind hochschulöffentlich,
 wenn die oder der Studierende oder ihre oder seine Ausbildungsbehörde
@@ -1695,6 +1776,7 @@ sein.
 
 
 #### § 70 Bewertung, Rangpunktzahl und Note der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007200000)
 
 (1) Die Bestandteile der Diplomarbeit werden einzeln bewertet.
 
@@ -1718,6 +1800,7 @@ Note der Diplomarbeit festgesetzt.
 
 
 #### § 71 Protokoll zu Präsentation und Disputation
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007300000)
 
 (1) Über die Präsentation und Disputation ist ein Protokoll
 anzufertigen.
@@ -1729,12 +1812,14 @@ Präsentation und Disputation hervorgehen.
 
 
 #### § 72 Bestehen der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007400000)
 
 Die Diplomarbeit hat bestanden, wer in jedem Bestandteil der
 Diplomarbeit eine Rangpunktzahl von mindestens 5,00 erreicht hat.
 
 
 #### § 73 Wiederholung der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007501311)
 
 (1) Studierende, die die Diplomarbeit nicht bestanden haben, können
 sie einmal wiederholen.
@@ -1760,9 +1845,11 @@ werden, ersetzen die zuvor erreichten.
 
 
 ### Unterabschnitt 5 - Bestehen der Laufbahnprüfung, Abschlusszeugnis, Bescheid über die nicht bestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG001200000)
 
 
 #### § 74 Bestehen der Laufbahnprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007601311)
 
 (1) Das Prüfungsamt errechnet die Rangpunktzahl der Laufbahnprüfung
 und setzt die Abschlussnote fest.
@@ -1811,6 +1898,7 @@ als Abschlussnote festgesetzt.
 
 
 #### § 75 Abschlusszeugnis und Diplomurkunde
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007700000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
@@ -1852,6 +1940,7 @@ als Abschlussnote festgesetzt.
 
 
 #### § 76 Bescheid über die nicht bestandene Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007800000)
 
 Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
@@ -1867,9 +1956,11 @@ absolvierten Module und deren Bewertung hervorgehen.
 
 
 ### Unterabschnitt 6 - Weitere Prüfungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG001300000)
 
 
 #### § 77 Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE007900000)
 
 (1) Sind Studierende an der Erbringung einer Prüfungsleistung ganz
 oder teilweise gehindert, so können sie beim Prüfungsamt beantragen,
@@ -1901,6 +1992,7 @@ Rangpunkten bewertet.
 
 
 #### § 78 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE008000000)
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil
 täuschen, zu täuschen versuchen oder an einer Täuschung oder einem
@@ -1941,6 +2033,7 @@ bis 4 anzuhören.
 
 
 #### § 79 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE008100000)
 
 (1) Zu jeder und jedem Studierenden wird eine Prüfungsakte geführt.
 
@@ -1981,9 +2074,11 @@ Prüfungsakte ist aktenkundig zu machen.
 
 
 ## Abschnitt 5 - Anerkennung anderer Studienleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG001400000)
 
 
 ### § 80 Anerkennung von Studienleistungen und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE008201311)
 
 (1) Auf Antrag der oder des Studierenden können folgende Leistungen
 anerkannt werden:
@@ -2023,9 +2118,11 @@ Bewertung, regelt die Hochschule in einer Richtlinie.
 
 
 ## Abschnitt 6 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNG001500000)
 
 
 ### § 81 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gntvddvcsvdv/BJNR202100020.html#BJNR202100020BJNE008301311)
 
 Auf Studierende, die das Studium vor dem 1. Januar 2025 begonnen
 haben, sind die §§ 35 und 50 Nummer 1 sowie § 74 dieser Verordnung in

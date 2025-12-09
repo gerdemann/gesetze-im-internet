@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Höhengleiche Kreuzungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrkrv/BJNR029850975.html#BJNR029850975BJNE000100314)
 
 (1) Zur Kreuzungsanlage im Sinne des § 13 Abs. 1 FStrG, die der
 Baulastträger der Bundesfernstraße zu unterhalten hat, gehören
@@ -57,6 +58,7 @@ kreuzenden Straße abzurunden beginnt.
 
 
 ## § 2 Über- und Unterführungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrkrv/BJNR029850975.html#BJNR029850975BJNE000200314)
 
 (1) Zum Kreuzungsbauwerk im Sinne des § 13 Abs. 2 des
 Bundesfernstraßengesetzes gehören
@@ -91,6 +93,7 @@ Bundesfernstraße.
 
 
 ## § 3 Sonstige Teile der Kreuzungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/fstrkrv/BJNR029850975.html#BJNR029850975BJNE000300314)
 
 Die in den §§ 1 und 2 nicht erfaßten Teile der Bundesfernstraße und
 der kreuzenden Straße gehören zu der Straße, der sie unmittelbar
@@ -98,6 +101,7 @@ dienen.
 
 
 ## § 4 Kreuzungen zwischen Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fstrkrv/BJNR029850975.html#BJNR029850975BJNE000400314)
 
 Auf Kreuzungen zwischen Bundesfernstraßen, von denen die eine vom
 Bund, die andere von einem Dritten unterhalten wird, ist diese
@@ -106,12 +110,14 @@ unterhaltene Bundesfernstraße als kreuzende Straße gilt.
 
 
 ## § 5 Einmündungen
+[Direktlink](https://www.gesetze-im-internet.de/fstrkrv/BJNR029850975.html#BJNR029850975BJNE000500314)
 
 Die vorstehenden Vorschriften gelten auch für Einmündungen
 öffentlicher Straßen in Bundesfernstraßen.
 
 
 ## § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/fstrkrv/BJNR029850975.html#BJNR029850975BJNE000600314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 26 des

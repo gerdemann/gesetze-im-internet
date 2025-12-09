@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 Satz 2 des Bundespolizeibeamtengesetzes vom
 3\. Juni 1976 (BGBl. I S. 1357), der durch Artikel 4 des Gesetzes vom
@@ -29,9 +30,11 @@ Bundesministerium des Innern:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNG000100000)
 
 
 ### § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000301311)
 
 Diese Verordnung regelt die Auswahl, die Ausbildung und das
 Prüfungsgespräch für den verkürzten Aufstieg von
@@ -42,6 +45,7 @@ Laufbahnverordnung.
 
 
 ### § 2 Ziele der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000400000)
 
 (1) Die Ausbildung vermittelt den Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten das erforderliche Fach- und Methodenwissen, das
@@ -62,6 +66,7 @@ soziale Kompetenz wird ausgebaut.
 
 
 ### § 3 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000501311)
 
 (1) Über die Zulassung zum verkürzten Aufstieg entscheidet das
 Bundespolizeipräsidium auf Grundlage der Ergebnisse eines
@@ -109,9 +114,11 @@ Eine Stimmenthaltung ist nicht zulässig.
 
 
 ## Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNG000200000)
 
 
 ### § 4 Dauer und Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000601311)
 
 (1) Die Ausbildung dauert sechs Monate. Sie umfasst eine theoretische
 und eine praktische Ausbildung.
@@ -123,6 +130,7 @@ genommen werden.
 
 
 ### § 5 Ausbildungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000700000)
 
 (1) Die Ausbildungsinhalte werden in drei Ausbildungsgebieten
 vermittelt.
@@ -165,6 +173,7 @@ vermittelt.
 
 
 ### § 6 Dienstaufsicht und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000801311)
 
 (1) Die Bundespolizeiakademie führt die Dienstaufsicht über die an der
 Ausbildung teilnehmenden Polizeivollzugsbeamtinnen und
@@ -179,6 +188,7 @@ Bundespolizei durchgeführt.
 
 
 ### § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE000900000)
 
 In einem Ausbildungsplan regelt die Bundespolizeiakademie
 
@@ -192,15 +202,18 @@ In einem Ausbildungsplan regelt die Bundespolizeiakademie
 
 
 ## Abschnitt 3 - Prüfungsgespräch
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNG000300000)
 
 
 ### § 8 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001000000)
 
 Für die Organisation und Durchführung des Prüfungsgespräches ist das
 Prüfungsamt der Bundespolizeiakademie zuständig.
 
 
 ### § 9 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001101311)
 
 (1) Das Prüfungsamt der Bundespolizeiakademie richtet für die
 Durchführung des Prüfungsgespräches eine Prüfungskommission ein. Bei
@@ -236,6 +249,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ### § 10 Inhalt und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001202311)
 
 (1) Gegenstand des Prüfungsgespräches sind die in § 5 aufgeführten
 Ausbildungsgebiete. Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer
@@ -269,6 +283,7 @@ Protokollführerin oder der Protokollführer anwesend sein.
 
 
 ### § 11 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001300000)
 
 (1) Die Leistungen im Prüfungsgespräch werden wie folgt bewertet:
 
@@ -405,12 +420,14 @@ Prüfungsergebnis mündlich.
 
 
 ### § 12 Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001400000)
 
 Das Prüfungsgespräch hat bestanden, wer mindestens fünf Rangpunkte
 erreicht hat.
 
 
 ### § 13 Fernbleiben und Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001500000)
 
 (1) Bei Fernbleiben oder Rücktritt vom Prüfungsgespräch ohne
 Genehmigung des Prüfungsamtes gilt das Prüfungsgespräch als nicht
@@ -424,6 +441,7 @@ Genehmigung in der Regel nur erteilt werden, wenn unverzüglich ein
 
 
 ### § 14 Täuschung und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001600000)
 
 (1) Prüfungsteilnehmerinnen oder Prüfungsteilnehmern, die beim
 Prüfungsgespräch täuschen, eine Täuschung versuchen oder daran
@@ -457,6 +475,7 @@ oder 4 anzuhören.
 
 
 ### § 15 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001702311)
 
 (1) Prüfungsteilnehmerinnen und Prüfungsteilnehmer, die das
 Prüfungsgespräch nicht bestanden haben, können es einmal wiederholen.
@@ -479,6 +498,7 @@ Prüfungsgespräch endgültig nicht bestanden.
 
 
 ### § 16 Abschlusszeugnis und Bescheid über das nicht bestandene Prüfungsgespräch
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001801311)
 
 (1) Wer das Prüfungsgespräch bestanden hat, erhält ein
 Abschlusszeugnis. Das Abschlusszeugnis enthält mindestens die
@@ -499,6 +519,7 @@ erklärt, ist das Abschlusszeugnis zurückzugeben.
 
 
 ### § 17 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE001900000)
 
 (1) Zu jeder Prüfungsteilnehmerin und jedem Prüfungsteilnehmer führt
 das Prüfungsamt eine Prüfungsakte.
@@ -525,6 +546,7 @@ wird in den Prüfungsakten vermerkt.
 
 
 ### § 18 Zuständigkeit für die Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE002000000)
 
 Über Widersprüche gegen Entscheidungen im Prüfungsverfahren, die auf
 Grund dieser Verordnung getroffen werden, entscheidet das Prüfungsamt
@@ -532,9 +554,11 @@ der Bundespolizeiakademie.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNG000400000)
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdaufstv/BJNR051400017.html#BJNR051400017BJNE002100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

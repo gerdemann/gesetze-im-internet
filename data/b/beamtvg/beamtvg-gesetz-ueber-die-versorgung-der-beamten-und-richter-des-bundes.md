@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000106311)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE001606310)
 
 (1) Dieses Gesetz regelt die Versorgung der Beamten des Bundes.
 
@@ -38,6 +40,7 @@ Religionsgesellschaften und ihre Verbände.
 
 
 ### § 1a Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017100310)
 
 Von den Vorschriften dieses Gesetzes gelten entsprechend:
 
@@ -72,6 +75,7 @@ Von den Vorschriften dieses Gesetzes gelten entsprechend:
 
 
 ### § 2 Arten der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE001719311)
 
 Versorgungsbezüge sind
 
@@ -115,6 +119,7 @@ Versorgungsbezüge sind
 
 
 ### § 3 Regelung durch Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE001805310)
 
 (1) Die Versorgung der Beamten und ihrer Hinterbliebenen wird durch
 Gesetz geregelt.
@@ -129,10 +134,12 @@ teilweise verzichtet werden.
 
 
 ## Abschnitt 2 - Ruhegehalt, Unterhaltsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000206311)
 
 
 
 ### § 4 Entstehen und Berechnung des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE001909116)
 
 (1) Ein Ruhegehalt wird nur gewährt, wenn der Beamte
 
@@ -164,6 +171,7 @@ Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
 
 
 ### § 5 Ruhegehaltfähige Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017202311)
 
 (1) Ruhegehaltfähige Dienstbezüge sind
 
@@ -244,6 +252,7 @@ Satz 2 und 3 gilt entsprechend.
 
 
 ### § 6 Regelmäßige ruhegehaltfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017304311)
 
 (1) Ruhegehaltfähig ist die Dienstzeit, die der Beamte vom Tage seiner
 ersten Berufung in das Beamtenverhältnis an im Dienst eines
@@ -357,6 +366,7 @@ Die oberste Dienstbehörde kann Ausnahmen zulassen.
 
 
 ### § 6a Zeiten im öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018600311)
 
 (1) Zeiten einer hauptberuflichen Tätigkeit, die vor Beginn des
 Ruhestandes im öffentlichen Dienst einer zwischenstaatlichen oder
@@ -410,6 +420,7 @@ ab Ruhestandsbeginn.
 
 
 ### § 7 Erhöhung der ruhegehaltfähigen Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE002209311)
 
 Die ruhegehaltfähige Dienstzeit nach § 6 erhöht sich um die Zeit, die
 
@@ -430,6 +441,7 @@ Anwendung des Satzes 1 Nr. 1 außerdem § 6 Abs. 1 Satz 2 Nr. 7.
 
 
 ### § 8 Berufsmäßiger Wehrdienst und vergleichbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE002310116)
 
 (1) Als ruhegehaltfähig gilt die Dienstzeit, in der ein Beamter vor
 der Berufung in das Beamtenverhältnis berufsmäßig im Dienst der
@@ -442,6 +454,7 @@ entsprechend.
 
 
 ### § 9 Nichtberufsmäßiger Wehrdienst und vergleichbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE002409116)
 
 (1) Als ruhegehaltfähig gilt die Zeit, während der ein Beamter vor der
 Berufung in das Beamtenverhältnis
@@ -468,6 +481,7 @@ Berufung in das Beamtenverhältnis
 
 
 ### § 10 Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE002508116)
 
 Als ruhegehaltfähig sollen auch folgende Zeiten berücksichtigt werden,
 in denen ein Beamter vor der Berufung in das Beamtenverhältnis im
@@ -496,6 +510,7 @@ tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
 
 
 ### § 11 Sonstige Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE002608311)
 
 Die Zeit, während der ein Beamter vor der Berufung in das
 Beamtenverhältnis
@@ -548,6 +563,7 @@ und in der Regel nicht über zehn Jahre hinaus.
 
 
 ### § 12 Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017403311)
 
 (1) Die verbrachte Mindestzeit
 
@@ -612,12 +628,14 @@ mindestens vorgeschrieben werden müssen.
 
 
 ### § 12a Nicht zu berücksichtigende Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012504310)
 
 Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht
 ruhegehaltfähig.
 
 
 ### § 12b Zeiten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017800310)
 
 (1) Wehrdienstzeiten und vergleichbare Zeiten nach den §§ 8 und 9,
 Beschäftigungszeiten nach § 10 und sonstige Zeiten nach den §§ 11 und
@@ -638,6 +656,7 @@ bis zu fünf Jahren als ruhegehaltfähig berücksichtigt werden.
 
 
 ### § 13 Zurechnungszeit und Zeit gesundheitsschädigender Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017503126)
 
 (1) Ist der Beamte vor Vollendung des sechzigsten Lebensjahres wegen
 Dienstunfähigkeit in den Ruhestand versetzt worden, wird die Zeit vom
@@ -681,6 +700,7 @@ Beamten günstigere Vorschrift Anwendung.
 
 
 ### § 14 Höhe des Ruhegehalts
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE002927311)
 
 (1) Das Ruhegehalt beträgt für jedes Jahr ruhegehaltfähiger Dienstzeit
 1,79375 Prozent, insgesamt jedoch höchstens 71,75 Prozent, der
@@ -784,6 +804,7 @@ werden.
 
 
 ### § 14a Vorübergehende Erhöhung des Ruhegehaltssatzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE011319311)
 
 (1) Der nach § 14 Abs. 1, § 36 Abs. 3 Satz 1, § 66 Abs. 2 und § 85
 Abs. 4 berechnete Ruhegehaltssatz erhöht sich vorübergehend, wenn der
@@ -863,6 +884,7 @@ an ein.
 
 
 ### § 15 Unterhaltsbeitrag für entlassene Beamte auf Lebenszeit und auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003008311)
 
 (1) Einem Beamten auf Lebenszeit, der vor Ableistung einer Dienstzeit
 von fünf Jahren (§ 4 Absatz 1 Satz 1 Nummer 1) wegen Dienstunfähigkeit
@@ -876,6 +898,7 @@ Dienstunfähigkeit oder wegen Erreichens der Altersgrenze entlassen ist
 
 
 ### § 15a Beamte auf Zeit und auf Probe in leitender Funktion
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013105311)
 
 (1) § 15 ist auf Beamtenverhältnisse auf Zeit und auf Probe in
 leitender Funktion nicht anzuwenden.
@@ -906,10 +929,12 @@ entsprechend.
 
 
 ## Abschnitt 3 - Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000306311)
 
 
 
 ### § 16 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003105310)
 
 Die Hinterbliebenenversorgung (§§ 17 bis 28) umfasst
 
@@ -938,6 +963,7 @@ Die Hinterbliebenenversorgung (§§ 17 bis 28) umfasst
 
 
 ### § 17 Bezüge für den Sterbemonat
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003205310)
 
 (1) Den Erben eines verstorbenen Beamten, Ruhestandsbeamten oder
 entlassenen Beamten verbleiben für den Sterbemonat die Bezüge des
@@ -950,6 +976,7 @@ bezeichneten Hinterbliebenen gezahlt werden.
 
 
 ### § 18 Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015301310)
 
 (1) Beim Tode eines Beamten mit Dienstbezügen oder eines Beamten auf
 Widerruf im Vorbereitungsdienst erhalten der hinterbliebene Ehegatte
@@ -997,6 +1024,7 @@ werden.
 
 
 ### § 19 Witwengeld
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003407310)
 
 (1) Die Witwe eines Beamten auf Lebenszeit, der die Voraussetzungen
 des § 4 Abs. 1 erfüllt hat, oder eines Ruhestandsbeamten erhält
@@ -1023,6 +1051,7 @@ Bundesbeamtengesetzes) verstorben ist oder dem die Entscheidung nach §
 
 
 ### § 20 Höhe des Witwengeldes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003512311)
 
 (1) Das Witwengeld beträgt 55 Prozent des Ruhegehalts, das der
 Verstorbene erhalten hat oder hätte erhalten können, wenn er am
@@ -1048,6 +1077,7 @@ Anwendung des § 25 auszugehen.
 
 
 ### § 21 Witwenabfindung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE016301311)
 
 (1) Eine Witwe, die Anspruch auf Witwengeld oder auf einen
 Unterhaltsbeitrag hat, erhält im Falle einer Heirat eine
@@ -1068,6 +1098,7 @@ Teilbeträgen einzubehalten.
 
 
 ### § 22 Unterhaltsbeitrag für nicht witwengeldberechtigte Witwen und frühere Ehefrauen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015401311)
 
 (1) In den Fällen des § 19 Abs. 1 Satz 2 Nr. 2 ist, sofern die
 besonderen Umstände des Falles keine volle oder teilweise Versagung
@@ -1111,6 +1142,7 @@ aufgehoben oder für nichtig erklärt war.
 
 
 ### § 23 Waisengeld
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003808310)
 
 (1) Die Kinder eines verstorbenen Beamten auf Lebenszeit, eines
 verstorbenen Ruhestandsbeamten oder eines verstorbenen Beamten auf
@@ -1129,6 +1161,7 @@ ein Unterhaltsbeitrag bis zur Höhe des Waisengeldes bewilligt werden.
 
 
 ### § 24 Höhe des Waisengeldes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE003911311)
 
 (1) Das Waisengeld beträgt für die Halbwaise zwölf Prozent und für die
 Vollwaise zwanzig Prozent des Ruhegehalts, das der Verstorbene
@@ -1150,6 +1183,7 @@ Waisengeld gezahlt.
 
 
 ### § 25 Zusammentreffen von Witwengeld, Waisengeld und Unterhaltsbeiträgen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004008310)
 
 (1) Witwen- und Waisengeld dürfen weder einzeln noch zusammen den
 Betrag des ihrer Berechnung zugrunde zu legenden Ruhegehalts
@@ -1174,6 +1208,7 @@ Höchstgrenze nicht übersteigen.
 
 
 ### § 26 Unterhaltsbeitrag für Hinterbliebene von Beamten auf Lebenszeit und auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004108116)
 
 (1) Der Witwe, der geschiedenen Ehefrau (§ 22 Abs. 2, 3) und den
 Kindern eines Beamten, dem nach § 15 ein Unterhaltsbeitrag bewilligt
@@ -1185,6 +1220,7 @@ bezeichneten Höhe als Unterhaltsbeitrag bewilligt werden.
 
 
 ### § 27 Beginn der Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004207310)
 
 (1) Die Zahlung des Witwen- und Waisengeldes sowie eines
 Unterhaltsbeitrages nach § 22 Abs. 1 oder § 23 Abs. 2 beginnt mit dem
@@ -1201,6 +1237,7 @@ Unterhaltsbeitrages nach § 26.
 
 
 ### § 28 Witwerversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004307310)
 
 Die §§ 19 bis 27 gelten entsprechend für den Witwer oder den
 geschiedenen Ehemann (§ 22 Abs. 2, 3) einer verstorbenen Beamtin oder
@@ -1210,10 +1247,12 @@ Witwe der Witwer.
 
 
 ## Abschnitt 4 - Bezüge bei Verschollenheit
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000406311)
 
 
 
 ### § 29 Zahlung der Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004405310)
 
 (1) Ein verschollener Beamter, Ruhestandsbeamter oder sonstiger
 Versorgungsempfänger erhält die ihm zustehenden Bezüge bis zum Ablauf
@@ -1246,10 +1285,12 @@ Berücksichtigung des festgestellten Todeszeitpunktes neu festzusetzen.
 
 
 ## Abschnitt 5 - Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000506311)
 
 
 
 ### § 30 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004509116)
 
 (1) Wird ein Beamter durch einen Dienstunfall verletzt, so wird ihm
 und seinen Hinterbliebenen Unfallfürsorge gewährt. Unfallfürsorge wird
@@ -1293,6 +1334,7 @@ Leistungen nach den Nummern 2 und 3 sowie nach § 38a.
 
 
 ### § 31 Dienstunfall
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004615311)
 
 (1) Dienstunfall ist ein auf äußerer Einwirkung beruhendes,
 plötzliches, örtlich und zeitlich bestimmbares, einen Körperschaden
@@ -1388,6 +1430,7 @@ erleidet.
 
 
 ### § 31a Einsatzversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012608311)
 
 (1) Unfallfürsorge wie bei einem Dienstunfall wird auch dann gewährt,
 wenn ein Beamter auf Grund eines in Ausübung des Dienstes
@@ -1461,6 +1504,7 @@ Ausschluss für ihn eine unbillige Härte wäre.
 
 
 ### § 32 Erstattung von Sachschäden und besonderen Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004708311)
 
 Sind bei einem Dienstunfall Kleidungsstücke oder sonstige Gegenstände,
 die der Beamte zur Dienstausübung oder während der Dienstzeit benötigt
@@ -1473,6 +1517,7 @@ Beamten der nachweisbar notwendige Aufwand zu ersetzen.
 
 
 ### § 33 Heilverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004811311)
 
 (1) Das Heilverfahren umfasst
 
@@ -1535,6 +1580,7 @@ durch Rechtsverordnung.
 
 
 ### § 34 Pflegekosten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE004907311)
 
 Ist der Verletzte infolge des Dienstunfalles so hilflos, dass er nicht
 ohne fremde Hilfe und Pflege auskommen kann, so sind ihm die Kosten
@@ -1543,6 +1589,7 @@ Dienstbehörde kann jedoch selbst für die Pflege Sorge tragen.
 
 
 ### § 35 Unfallausgleich
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017605311)
 
 (1) Ist der Verletzte infolge des Dienstunfalles in seiner
 Erwerbsfähigkeit länger als sechs Monate um mindestens 30 Prozent
@@ -1614,6 +1661,7 @@ Dienstbezüge gewährt.
 
 
 ### § 36 Unfallruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005115311)
 
 (1) Ist der Beamte infolge des Dienstunfalles dienstunfähig geworden
 und deswegen in den Ruhestand versetzt worden, so erhält er
@@ -1634,6 +1682,7 @@ entsprechend.
 
 
 ### § 37 Erhöhtes Unfallruhegehalt
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005215311)
 
 (1) Setzt sich ein Beamter bei Ausübung einer Diensthandlung einer
 damit verbundenen besonderen Lebensgefahr aus und erleidet er infolge
@@ -1679,6 +1728,7 @@ beschränkt ist.
 
 
 ### § 38 Unterhaltsbeitrag für frühere Beamte und frühere Ruhestandsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005315311)
 
 (1) Ein durch Dienstunfall verletzter früherer Beamter, dessen
 Beamtenverhältnis nicht durch Eintritt oder Versetzung in den
@@ -1742,6 +1792,7 @@ worden ist.
 
 
 ### § 38a Unterhaltsbeitrag bei Schädigung eines ungeborenen Kindes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013708311)
 
 (1) Der Unterhaltsbeitrag wird im Fall des § 30 Abs. 1 Satz 2 und 3
 für die Dauer der durch einen Dienstunfall der Mutter verursachten
@@ -1777,6 +1828,7 @@ nach diesem Gesetz, wird nur der höhere Versorgungsbezug gezahlt.
 
 
 ### § 39 Unfall-Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005406311)
 
 (1) Ist ein Beamter, der Unfallruhegehalt erhalten hätte, oder ein
 Ruhestandsbeamter, der Unfallruhegehalt bezog, an den Folgen des
@@ -1803,6 +1855,7 @@ Zugrundelegung des Unfallruhegehalts zu berechnen.
 
 
 ### § 40 Unterhaltsbeitrag für Verwandte der aufsteigenden Linie
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005506311)
 
 Verwandten der aufsteigenden Linie, deren Unterhalt zur Zeit des
 Dienstunfalles ganz oder überwiegend durch den Verstorbenen (§ 39 Abs.
@@ -1815,6 +1868,7 @@ die Stelle eines verstorbenen Elternteiles treten dessen Eltern.
 
 
 ### § 41 Unterhaltsbeitrag für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005605310)
 
 (1) Ist in den Fällen des § 38 der frühere Beamte oder der frühere
 Ruhestandsbeamte an den Folgen des Dienstunfalles verstorben, so
@@ -1838,6 +1892,7 @@ Hinterbliebenenversorgung nach § 39 zusteht.
 
 
 ### § 42 Höchstgrenzen der Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005708311)
 
 Die Unfallversorgung der Hinterbliebenen (§§ 39 bis 41) darf insgesamt
 die Bezüge (Unfallruhegehalt oder Unterhaltsbeitrag) nicht
@@ -1853,6 +1908,7 @@ vergleichenden Berechnung nach § 25 außer Betracht.
 
 
 ### § 43 Einmalige Unfallentschädigung und einmalige Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005820311)
 
 (1) Ein Beamter des Bundes, der einen Dienstunfall der in § 37
 bezeichneten Art erleidet, erhält eine einmalige Unfallentschädigung
@@ -1941,6 +1997,7 @@ Absatz 5 oder 6, wird nur die einmalige Entschädigung gewährt.
 
 
 ### § 43a Schadensausgleich in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012707311)
 
 (1) Schäden, die einem Beamten oder anderen Angehörigen des
 öffentlichen Dienstes während einer Verwendung im Sinne des § 31a Abs.
@@ -2001,6 +2058,7 @@ entsprechend.
 
 
 ### § 44 Nichtgewährung von Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE005907310)
 
 (1) Unfallfürsorge wird nicht gewährt, wenn der Verletzte den
 Dienstunfall vorsätzlich herbeigeführt hat.
@@ -2017,6 +2075,7 @@ im Falle des § 22 Abs. 1 nicht gewährt.
 
 
 ### § 45 Meldung und Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006008311)
 
 (1) Unfälle, aus denen Unfallfürsorgeansprüche nach diesem Gesetz
 entstehen können, sind innerhalb einer Ausschlussfrist von zwei Jahren
@@ -2061,6 +2120,7 @@ Antrag weggefallen ist, innerhalb von drei Monaten gestellt werden.
 
 
 ### § 46 Begrenzung der Unfallfürsorgeansprüche
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE017702311)
 
 (1) Der verletzte Beamte und seine Hinterbliebenen haben aus Anlass
 eines Dienstunfalles gegen den Dienstherrn nur die in den §§ 30 bis
@@ -2108,15 +2168,18 @@ dies gilt nicht in den Fällen des § 32.
 
 
 ### § 46a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013004310)
 
 -
 
 
 ## Abschnitt 6 - Übergangsgeld, Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000606311)
 
 
 
 ### § 47 Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006208310)
 
 (1) Ein Beamter mit Dienstbezügen, der nicht auf eigenen Antrag
 entlassen wird, erhält als Übergangsgeld nach vollendeter einjähriger
@@ -2172,6 +2235,7 @@ Betrag dieser Einkünfte.
 
 
 ### § 47a Übergangsgeld für entlassene politische Beamte
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013305311)
 
 (1) Ein Beamter, der aus einem Amt im Sinne des § 54 des
 Bundesbeamtengesetzes nicht auf eigenen Antrag entlassen wird, erhält
@@ -2195,6 +2259,7 @@ findet keine Anwendung.
 
 
 ### § 48 Ausgleich bei besonderen Altersgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006313311)
 
 (1) Beamte des Vollzugsdienstes, Beamte des Einsatzdienstes der
 Feuerwehr und Beamte im Flugverkehrskontrolldienst, die vor Vollendung
@@ -2224,10 +2289,12 @@ Bundesbeamtengesetzes nicht gewährt.
 
 
 ## Abschnitt 7 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000706311)
 
 
 
 ### § 49 Festsetzung und Zahlung der Versorgungsbezüge, Versorgungsauskunft
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006415311)
 
 (1) Die oberste Dienstbehörde setzt die Versorgungsbezüge fest,
 bestimmt die Person des Zahlungsempfängers und entscheidet über die
@@ -2299,6 +2366,7 @@ Vollständigkeit der zugrunde liegenden Daten.
 
 
 ### § 50 Familienzuschlag und Ausgleichsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006514311)
 
 (1) Auf den Familienzuschlag finden die für die Beamten geltenden
 Vorschriften des Besoldungsrechts Anwendung. Der Unterschiedsbetrag
@@ -2340,6 +2408,7 @@ Anwendung der §§ 53 und 54 nicht als Versorgungsbezug. Im Falle des §
 
 
 ### § 50a Kindererziehungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013804311)
 
 (1) Das Ruhegehalt erhöht sich für jeden Monat einer dem Beamten
 zuzuordnenden Kindererziehungszeit um einen Kindererziehungszuschlag.
@@ -2415,6 +2484,7 @@ das Mindestruhegehalt ist die Erhöhung nach Absatz 1 nicht anzuwenden.
 
 
 ### § 50b Kindererziehungsergänzungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013901310)
 
 (1) Das Ruhegehalt erhöht sich um einen
 Kindererziehungsergänzungszuschlag, wenn
@@ -2473,6 +2543,7 @@ Sozialgesetzbuch bestimmte Bruchteil des aktuellen Rentenwerts tritt.
 
 
 ### § 50c Kinderzuschlag zum Witwengeld
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE014003311)
 
 (1) Das Witwengeld nach § 20 Abs. 1 erhöht sich für jeden Monat einer
 nach § 50a Abs. 3 zuzuordnenden Kindererziehungszeit bis zum Ablauf
@@ -2503,6 +2574,7 @@ Rentenwerts.
 
 
 ### § 50d Pflege- und Kinderpflegeergänzungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE014101310)
 
 (1) War ein Beamter nach § 3 Satz 1 Nr. 1a des Sechsten Buches
 Sozialgesetzbuch versicherungspflichtig, weil er einen
@@ -2537,6 +2609,7 @@ Sozialgesetzbuch bestimmte Bruchteil des aktuellen Rentenwerts tritt.
 
 
 ### § 50e Vorübergehende Gewährung von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE014206311)
 
 (1) Versorgungsempfänger, die vor Erreichen der Regelaltersgrenze nach
 § 51 Abs. 1 und 2 des Bundesbeamtengesetzes in den Ruhestand treten,
@@ -2587,6 +2660,7 @@ Leistung vom Beginn des Antragsmonats an gewährt.
 
 
 ### § 50f Abzug für Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE014804311)
 
 Die zu zahlenden Versorgungsbezüge vermindern sich um den hälftigen
 Prozentsatz nach § 55 Abs. 1 Satz 1 des Elften Buches
@@ -2613,6 +2687,7 @@ errechnet, nicht übersteigen.
 
 
 ### § 51 Abtretung, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006607310)
 
 (1) Ansprüche auf Versorgungsbezüge können, wenn gesetzlich nichts
 anderes bestimmt ist, nur insoweit abgetreten oder verpfändet werden,
@@ -2635,6 +2710,7 @@ Sterbegeld angerechnet werden.
 
 
 ### § 52 Rückforderung von Versorgungsbezügen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006709310)
 
 (1) Wird ein Versorgungsberechtigter durch eine gesetzliche Änderung
 seiner Versorgungsbezüge mit rückwirkender Kraft schlechter gestellt,
@@ -2661,6 +2737,7 @@ entsprechend.
 
 
 ### § 53 Zusammentreffen von Versorgungsbezügen mit Erwerbs- und Erwerbsersatzeinkommen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006829311)
 
 (1) Bezieht ein Versorgungsberechtigter Erwerbs- oder
 Erwerbsersatzeinkommen (Absatz 7), erhält er daneben seine
@@ -2792,6 +2869,7 @@ Betrages, um den sie und das Einkommen die Höchstgrenze übersteigen.
 
 
 ### § 53a Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE011811311)
 
 Bezieht ein Versorgungsempfänger Altersgeld, Witwenaltersgeld oder
 Waisenaltersgeld nach dem Altersgeldgesetz vom 28. August 2013 (BGBl.
@@ -2807,6 +2885,7 @@ Altersgelds zuzüglich 20 Prozent des Witwen- oder Witwergelds gezahlt.
 
 
 ### § 54 Zusammentreffen mehrerer Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE006915311)
 
 (1) Erhalten aus einer Verwendung im öffentlichen Dienst (§ 53 Abs. 8)
 an neuen Versorgungsbezügen
@@ -2899,6 +2978,7 @@ anzuwenden.
 
 
 ### § 55 Zusammentreffen von Versorgungsbezügen mit Renten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015814311)
 
 (1) Versorgungsbezüge werden neben Renten nur bis zum Erreichen der in
 Absatz 2 bezeichneten Höchstgrenze gezahlt. Als Renten gelten
@@ -3083,6 +3163,7 @@ des Absatzes 1 Satz 3 entsprechend.
 
 
 ### § 55a Zusammentreffen von Versorgungsbezügen mit Versorgungsabfindungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE019000311)
 
 (1) Neben einer nach Landesrecht gezahlten ergänzenden
 Versorgungsabfindung wird das Ruhegehalt nur bis zum Erreichen der in
@@ -3099,6 +3180,7 @@ bezeichneten Höchstgrenzen sinngemäß.
 
 
 ### § 56 Zusammentreffen von Versorgungsbezügen mit einer laufenden Alterssicherungsleistung aus zwischenstaatlicher oder überstaatlicher Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE007114311)
 
 (1) Steht einem Ruhestandsbeamten auf Grund einer Verwendung im
 öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen
@@ -3150,6 +3232,7 @@ abzuziehen.
 
 
 ### § 57 Kürzung der Versorgungsbezüge nach der Ehescheidung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015501311)
 
 (1) Sind durch Entscheidung des Familiengerichts
 
@@ -3214,6 +3297,7 @@ dem Vorbehalt der Rückforderung.
 
 
 ### § 58 Abwendung der Kürzung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015602311)
 
 (1) Die Kürzung der Versorgungsbezüge nach § 57 kann von dem Beamten
 oder Ruhestandsbeamten ganz oder teilweise durch Zahlung eines
@@ -3243,6 +3327,7 @@ nach § 57 anteilig errechneten Kürzungsbeträge zurückzuzahlen.
 
 
 ### § 59 Erlöschen der Versorgungsbezüge wegen Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE007407311)
 
 (1) Ein Ruhestandsbeamter,
 
@@ -3283,6 +3368,7 @@ anzuwenden.
 
 
 ### § 60 Erlöschen der Versorgungsbezüge bei Ablehnung einer erneuten Berufung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE007507310)
 
 Kommt ein Ruhestandsbeamter entgegen den Vorschriften des § 46 Abs. 1
 und des § 57 des Bundesbeamtengesetzes einer erneuten Berufung in das
@@ -3294,6 +3380,7 @@ disziplinarrechtliche Verfolgung wird dadurch nicht ausgeschlossen.
 
 
 ### § 61 Erlöschen der Witwen- und Waisenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE016603311)
 
 (1) Der Anspruch der Witwen und Waisen auf Versorgungsbezüge erlischt
 
@@ -3395,6 +3482,7 @@ Ehe steht die Nichtigerklärung gleich.
 
 
 ### § 62 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE016704311)
 
 (1) Die Beschäftigungsstelle hat der die Versorgungsbezüge anweisenden
 Stelle (Regelungsbehörde) jede Verwendung eines
@@ -3456,6 +3544,7 @@ Versorgungsbezüge vorübergehend ausgesetzt werden.
 
 
 ### § 62a Versorgungsbericht, Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013504311)
 
 (1) Die Bundesregierung soll dem Deutschen Bundestag in jeder
 Wahlperiode einen Bericht über die jeweils im Vorjahr erbrachten
@@ -3485,6 +3574,7 @@ Versetzung in den Ruhestand erhoben werden.
 
 
 ### § 63 Gleichstellungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE007813311)
 
 Für die Anwendung dieses Abschnitts gelten
 
@@ -3536,10 +3626,12 @@ Witwen oder Waisen.
 
 
 ## Abschnitt 8 - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000806311)
 
 
 
 ### § 64 Entzug von Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE007906310)
 
 (1) Die oberste Dienstbehörde kann Empfängern von
 Hinterbliebenenversorgung die Versorgungsbezüge auf Zeit teilweise
@@ -3554,6 +3646,7 @@ Versorgungsberechtigte zu hören ist.
 
 
 ### § 65 Nichtberücksichtigung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE008006310)
 
 Werden Versorgungsberechtigte im öffentlichen Dienst (§ 53 Abs. 8)
 verwendet, so sind ihre Bezüge aus dieser Beschäftigung ohne Rücksicht
@@ -3562,10 +3655,12 @@ Grund der Beschäftigung zu gewährende Versorgung.
 
 
 ## Abschnitt 9 - Versorgung besonderer Beamtengruppen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG000906311)
 
 
 
 ### § 66 Beamte auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE008115311)
 
 (1) Für die Versorgung der Beamten auf Zeit und ihrer Hinterbliebenen
 gelten die Vorschriften für die Versorgung der Beamten auf Lebenszeit
@@ -3604,6 +3699,7 @@ gelten die §§ 15 und 26 entsprechend.
 
 
 ### § 67 Professoren an Hochschulen, Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftliche und Künstlerische Assistenten mit Bezügen nach § 77 Abs. 2 des Bundesbesoldungsgesetzes sowie Professoren und hauptberufliche Leiter und Mitglieder von Leitungsgremien an Hochschulen mit Bezügen nach der Bundesbesoldungsordnung W
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE008212311)
 
 (1) Für die Versorgung der zu Beamten ernannten Professoren an
 Hochschulen, Hochschuldozenten, Oberassistenten, Oberingenieure,
@@ -3655,6 +3751,7 @@ letzten Monats.
 
 
 ### § 68 Ehrenbeamte
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE008308311)
 
 Erleidet der Ehrenbeamte einen Dienstunfall (§ 31), so hat er Anspruch
 auf ein Heilverfahren (§ 33). Außerdem kann ihm Ersatz von Sachschäden
@@ -3666,10 +3763,12 @@ Hinterbliebenen.
 
 
 ## Abschnitt 10 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG001006311)
 
 
 
 ### § 69 Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE008419311)
 
 (1) Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen
 Ruhestandsbeamten, entpflichteten Hochschullehrer, Witwen, Waisen und
@@ -3809,6 +3908,7 @@ Prozentsätze entsprechend.
 
 
 ### § 69a Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE011913311)
 
 Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen
 Ruhestandsbeamten, entpflichteten Hochschullehrer, Witwen, Waisen und
@@ -3879,6 +3979,7 @@ Recht mit folgenden Maßgaben:
 
 
 ### § 69b Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013206310)
 
 Für Versorgungsfälle, die vor dem 1. Juli 1997 eingetreten sind,
 finden § 5 Abs. 2, § 12 Abs. 1 Satz 1, § 13 Abs. 1 Satz 1, § 36 Abs. 2
@@ -3901,6 +4002,7 @@ jeweiligen Beträge entsprechend anteilig.
 
 
 ### § 69c Übergangsregelungen für vor dem 1. Januar 1999 eingetretene Versorgungsfälle und für am 1. Januar 1999 vorhandene Beamte
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013411311)
 
 (1) Für Versorgungsfälle, die vor dem 1. Januar 1999 eingetreten sind,
 finden § 4 Abs. 1 Satz 1 Nr. 3, § 5 Abs. 3 bis 5, die §§ 7, 14 Abs. 6
@@ -3938,6 +4040,7 @@ Fassung.
 
 
 ### § 69d Übergangsregelungen für vor dem 1. Januar 2001 eingetretene Versorgungsfälle und für am 1. Januar 2001 vorhandene Beamte und Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE013606311)
 
 (1) Auf Versorgungsfälle, die vor dem 1. Januar 2001 eingetreten sind,
 sind § 13 Absatz 1 Satz 1, § 14 Absatz 3 und § 36 Absatz 2 in der bis
@@ -4046,6 +4149,7 @@ werden, ist § 14 Absatz 3 nicht anzuwenden.
 
 
 ### § 69e Übergangsregelungen aus Anlass des Versorgungsänderungsgesetzes 2001 sowie des Dienstrechtsneuordnungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018001310)
 
 (1) Die Rechtsverhältnisse der am 1. Januar 2002 vorhandenen
 Ruhestandsbeamten, entpflichteten Hochschullehrer, Witwen, Waisen und
@@ -4198,6 +4302,7 @@ allgemeinen wirtschaftlichen und finanziellen Verhältnisse zu prüfen.
 
 
 ### § 69f Übergangsregelungen zur Berücksichtigung von Hochschulausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015001310)
 
 (1) Auf Versorgungsfälle, die vor dem 12. Februar 2009 eingetreten
 sind, ist § 12 Abs. 1 Satz 1 in der bis zum 11. Februar 2009 geltenden
@@ -4213,6 +4318,7 @@ Tage vermindert.
 
 
 ### § 69g Versorgungsüberleitungsregelungen aus Anlass des Dienstrechtsneuordnungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015106311)
 
 (1) Für Versorgungsfälle, die vor dem 1. Juli 2009 eingetreten sind,
 gilt Folgendes:
@@ -4294,6 +4400,7 @@ sowie nach Absatz 2 Nummer 2 in Verbindung mit Absatz 1 Nummer 2 um
 
 
 ### § 69h Übergangsregelungen zur Anhebung des Ruhestandseintrittsalters
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015202310)
 
 (1) Für Beamte, die nach dem 11. Februar 2009 nach § 52 Abs. 1 und 2
 des Bundesbeamtengesetzes in den Ruhestand versetzt werden, ist § 14
@@ -4662,6 +4769,7 @@ werden, ist § 14 Abs. 3 mit folgenden Maßgaben anzuwenden:
 
 
 ### § 69i Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes und des Bundeswehr-Attraktivitätssteigerungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018101377)
 
 Ist der Anspruch nach § 43 in der Zeit vom 1. November 1991 bis zum
 12\. Dezember 2011 entstanden, beträgt die Unfallentschädigung
@@ -4711,6 +4819,7 @@ anzurechnen.
 
 
 ### § 69j Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018200118)
 
 Die ruhegehaltfähigen Dienstbezüge nach § 5 Absatz 1 Satz 1 Nummer 1
 und 4 der Professoren sowie der hauptberuflichen Leiter von
@@ -4725,6 +4834,7 @@ Für Hinterbliebene gelten die Sätze 1 bis 3 entsprechend.
 
 
 ### § 69k Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018401116)
 
 Für Versorgungsfälle, die vor dem 11. Januar 2017 eingetreten sind,
 sind § 6 Absatz 1 Satz 2 Nummer 1, § 8 Absatz 1, § 9 Absatz 1, § 10
@@ -4736,6 +4846,7 @@ gilt entsprechend für künftige Hinterbliebene eines vor dem 11. Januar
 
 
 ### § 69l Übergangsregelung zu § 55
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018500116)
 
 § 55 Absatz 1 Satz 2 Nummer 1a gilt nicht für Versorgungsfälle, die am
 14\. Juni 2017 vorhanden waren. Für Versorgungsfälle, die nach dem 14.
@@ -4747,6 +4858,7 @@ beruht, die bis zum 14. Juni 2017 zurückgelegt worden sind.
 
 
 ### § 69m Übergangsregelung aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018705311)
 
 (1) § 6a findet auf am 30. Juni 2020 vorhandene Beamte Anwendung, wenn
 eine Verwendung im Sinne des § 6a Absatz 1 vor dem 1. Juli 2020
@@ -4848,6 +4960,7 @@ dem 1. September 2020 vorhandene Hinterbliebene.
 
 
 ### § 69n Übergangsregelung aus Anlass der Einführung der Ruhegehaltfähigkeit von Stellenzulagen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE019300311)
 
 (1) Die Stellenzulagen nach Anlage I Vorbemerkung Nummer 8 und 9 des
 Bundesbesoldungsgesetzes gehören für diejenigen am 31. Dezember 2023
@@ -4882,6 +4995,7 @@ tritt die Änderung zum Beginn des Antragsmonats ein.
 
 
 ### § 69o Übergangsregelungen zu Unfallfürsorgeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE019203126)
 
 (1) Personen, die im Dezember 2024 einen Unfallausgleich nach § 35 in
 der bis zum 31. Dezember 2024 geltenden Fassung erhalten haben, wird
@@ -4901,10 +5015,12 @@ eingetreten ist.
 
 
 ## Abschnitt 11 - Anpassung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG001106311)
 
 
 
 ### § 70 Allgemeine Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE008506310)
 
 (1) Werden die Dienstbezüge der Besoldungsberechtigten allgemein
 erhöht oder vermindert, sind von demselben Zeitpunkt an die
@@ -4917,6 +5033,7 @@ Erhöhung oder Verminderung der Dienstbezüge um feste Beträge.
 
 
 ### § 71 Erhöhung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE014426311)
 
 (1) Bei Versorgungsempfängern gilt die Erhöhung nach § 14 Absatz 2
 Nummer 1 des Bundesbesoldungsgesetzes entsprechend für die
@@ -4988,6 +5105,7 @@ Satz 1 gilt entsprechend für
 
 
 ### § 72 Sonderzahlung zur Abmilderung der Folgen gestiegener Verbraucherpreise im Jahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE014703311)
 
 (1) Zur Abmilderung der Folgen der gestiegenen Verbraucherpreise wird
 den am 1. Mai 2023 vorhandenen Versorgungsempfängern für den Monat
@@ -5070,19 +5188,23 @@ gleich.
 
 
 ### (XXXX) §§ 73 bis 76 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012903310)
 
 -
 
 
 ## Abschnitt 12 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG001207311)
 
 
 
 ## Abschnitt 13 - Übergangsvorschriften alten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG001306311)
 
 
 
 ### § 84 Ruhegehaltfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE009908311)
 
 Für am 1. Januar 1977 vorhandene Beamte können zum Ausgleich von
 Härten Zeiten, die nach dem bis zum 31. Dezember 1976 geltenden Recht
@@ -5095,6 +5217,7 @@ Bau und Heimat.
 
 
 ### § 85 Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Beamte
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010023126)
 
 (1) Hat das Beamtenverhältnis, aus dem der Beamte in den Ruhestand
 tritt, oder ein unmittelbar vorangehendes anderes öffentlich-
@@ -5220,6 +5343,7 @@ gilt § 69e Abs. 4 entsprechend.
 
 
 ### § 85a Erneute Berufung in das Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012007310)
 
 Bei einem nach § 46 oder § 57 des Bundesbeamtengesetzes erneut in das
 Beamtenverhältnis berufenen Beamten bleibt der am Tag vor der erneuten
@@ -5234,6 +5358,7 @@ Das höhere Ruhegehalt wird gezahlt.
 
 
 ### § 86 Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE015700310)
 
 (1) Die Gewährung von Unterhaltsbeiträgen an geschiedene Ehegatten
 richtet sich nach den bis zum 31. Dezember 1976 geltenden
@@ -5264,6 +5389,7 @@ haben.
 
 
 ### § 87 Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010207311)
 
 (1) Für die am 1. Januar 1977 vorhandenen Beamten steht ein vor diesem
 Zeitpunkt erlittener Dienstunfall im Sinne des bisherigen Bundes- oder
@@ -5277,6 +5403,7 @@ nach § 43 Abs. 3 anzurechnen.
 
 
 ### § 88 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010306310)
 
 (1) Bei der Entlassung einer verheirateten Beamtin bis zum 31. August
 1977 finden die bisherigen Vorschriften über die Abfindung nach § 152
@@ -5307,11 +5434,13 @@ zugesicherte aber noch nicht gezahlte Abfindungsrente verzichtet.
 
 
 ### § 89 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010406310)
 
 -
 
 
 ### § 90 Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010507311)
 
 (1) Bei der Anwendung des § 56 Abs. 1 bleibt die Zeit, die ein Beamter
 oder Ruhestandsbeamter vor dem 1. Juli 1968 im Dienst einer
@@ -5331,6 +5460,7 @@ anzuwenden.
 
 
 ### § 91 Hochschullehrer, Wissenschaftliche Assistenten und Lektoren
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010607310)
 
 (1) Auf die Versorgung der Hochschullehrer, Wissenschaftlichen
 Assistenten und Lektoren im Sinne des Kapitels I, Abschnitt V, 3.
@@ -5396,14 +5526,17 @@ ist.
 
 
 ### (XXXX) §§ 92 bis 104 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018800311)
 
 
 
 ## Abschnitt 14 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNG001407311)
 
 
 
 ### § 105 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010807310)
 
 Soweit Rechtsvorschriften den Vorschriften dieses Gesetzes entsprechen
 oder widersprechen, treten sie mit dem Inkrafttreten dieses Gesetzes
@@ -5437,6 +5570,7 @@ beim Inkrafttreten dieses Gesetzes geltenden Fassung:
 
 
 ### § 106 Verweisung auf aufgehobene Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE010905310)
 
 Soweit in Gesetzen und Verordnungen auf Vorschriften oder
 Bezeichnungen verwiesen wird, die durch dieses Gesetz außer Kraft
@@ -5445,6 +5579,7 @@ entsprechenden Vorschriften oder die Bezeichnungen dieses Gesetzes.
 
 
 ### § 107 Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE011009311)
 
 Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung
 des Bundesrates. Die zur Durchführung dieses Gesetzes erforderlichen
@@ -5454,6 +5589,7 @@ der Finanzen.
 
 
 ### § 107a Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012113310)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die bis
 zum 31. Dezember 2009 zu erlassen ist, für die Beamtenversorgung
@@ -5465,6 +5601,7 @@ Ruhensregelungen abweichend von diesem Gesetz.
 
 
 ### § 107b Verteilung der Versorgungslasten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012312311)
 
 (1) Wird ein Beamter oder Richter im Einvernehmen mit seinem
 Dienstherrn in den Dienst eines anderen Dienstherrn übernommen, so
@@ -5533,6 +5670,7 @@ Versorgungslastenteilungs-Staatsvertrages gelten entsprechend.
 
 
 ### § 107c Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012407310)
 
 Erwirbt ein Ruhestandsbeamter oder Richter im Ruhestand eines
 Dienstherrn im Gebiet der Bundesrepublik Deutschland nach dem Stand
@@ -5550,6 +5688,7 @@ Lebensjahr vollendet hatte.
 
 
 ### § 107d Befristete Ausnahme für Verwendungseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE018302311)
 
 Für Ruhestandsbeamte, die ein Verwendungseinkommen aus einer
 Beschäftigung erzielen, die unmittelbar oder mittelbar
@@ -5575,6 +5714,7 @@ Bundesbeamtengesetzes erreicht haben.
 
 
 ### § 107e Sonderregelungen zur Bewältigung der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE019103311)
 
 (1) Für Ruhestandsbeamte, die ein Erwerbseinkommen aus einer
 Beschäftigung erzielen, die in unmittelbarem Zusammenhang mit der
@@ -5619,6 +5759,7 @@ einem Betrag von 3 000 Euro nicht als Erwerbseinkommen.
 
 
 ### § 108 Anwendungsbereich in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE011107310)
 
 (1) Für die Beamten der Länder, der Gemeinden, der Gemeindeverbände
 sowie der sonstigen der Aufsicht eines Landes unterstehenden
@@ -5633,12 +5774,14 @@ anderes bestimmt ist.
 
 
 ### § 109
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE011205310)
 
 (Inkrafttreten)
 
 Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1142)
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg/BJNR024850976.html#BJNR024850976BJNE012200307)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

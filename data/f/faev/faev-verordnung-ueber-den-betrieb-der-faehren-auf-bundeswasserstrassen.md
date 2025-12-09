@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000100000)
 
 Auf Grund
 
@@ -45,6 +46,7 @@ Auf Grund
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000202305)
 
 Im Sinne dieser Verordnung ist
 
@@ -96,6 +98,7 @@ sein.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000303124)
 
 Diese Verordnung regelt
 
@@ -113,6 +116,7 @@ Diese Verordnung regelt
 
 
 ## § 3 Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000402305)
 
 Diese Verordnung ist nicht anzuwenden auf Fähren
 
@@ -141,6 +145,7 @@ Diese Verordnung ist nicht anzuwenden auf Fähren
 
 
 ## § 4 Überwachung der für den Betrieb der Fähre erforderlichen landseitigen Anlagen und ihr Zusammenwirken mit der Fähre
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000501305)
 
 (1) Die Aufsichtsbehörde überwacht den sicheren Zustand der für den
 Betrieb der Fähre erforderlichen landseitigen Anlagen aus
@@ -162,6 +167,7 @@ durchzuführen oder solche zu dulden.
 
 
 ## § 5 Fahrpläne
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000600000)
 
 (1) Fährinhaber, deren Fähren nach einem festen Fahrplan verkehren,
 haben diesen vor Eröffnung des Fährbetriebes der Aufsichtsbehörde
@@ -173,6 +179,7 @@ Anlegestellen und auf der Fähre bekanntmachen.
 
 
 ## § 6 Anlegestellen
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000700000)
 
 Der Fährinhaber und der Fährführer dürfen den Fährbetrieb nur von
 Anlegestellen aus durchführen oder durchführen lassen, die von der
@@ -181,6 +188,7 @@ zugelassen gelten.
 
 
 ## § 7 Sicherheit und Ordnung an Bord
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000801124)
 
 (1) Der Fährführer hat dafür zu sorgen, daß die Tragfähigkeit der
 Fähre und die höchstzulässige Personenzahl nicht überschritten werden.
@@ -241,6 +249,7 @@ Betanken der Fähre durch Straßenfahrzeuge stattfindet.
 
 
 ## § 8 Betreten, Befahren und Verlassen der Fähre
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE000901305)
 
 Der Fährführer darf das Betreten, Befahren oder Verlassen der Fähre
 erst zulassen, nachdem die Fähre ordnungsgemäß an der Anlegestelle
@@ -255,6 +264,7 @@ Betreten, Befahren oder Verlassen der Fähre sichergestellt wurde.
 
 
 ## § 9 Verhalten der Fährbenutzer
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001000000)
 
 (1) Die Fährbenutzer müssen sich so verhalten, daß sie den Fährbetrieb
 nicht gefährden und daß andere Personen nicht geschädigt, behindert
@@ -289,6 +299,7 @@ Befahren der Fähre anzeigen.
 
 
 ## § 10 Beförderung gefährlicher Güter
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001101305)
 
 (1) Für die Beförderung gefährlicher Güter gelten auch auf Fähren die
 dafür erlassenen besonderen Vorschriften.
@@ -299,6 +310,7 @@ Fähre anzuzeigen und seine Beförderungspapiere vorzulegen.
 
 
 ## § 11 Ausschluß von Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001200000)
 
 Der Fährführer kann Personen, Tiere oder Gegenstände, von denen eine
 Gefährdung des Fährbetriebs oder eine erhebliche Belästigung der
@@ -310,6 +322,7 @@ Bestimmung eines Sicherheitsbereiches um das Fahrzeug.
 
 
 ## § 12 Einsatz der Fähre und Einstellung des Fährverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001302305)
 
 (1) Der Fährführer darf die Kahnfähre nicht in der Nacht zum
 Fährverkehr einsetzen.
@@ -321,12 +334,14 @@ gegeben, wenn der Wasserstand, die Eislage oder Sturm ein sicheres
 
 
 ## § 13 Sicherung der Fähre
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001400000)
 
 Entfernt sich der Fährführer von der Fähre, so hat er diese am
 Liegeplatz gegen unbefugte Benutzung zu sichern.
 
 
 ## § 14 Aushang von Vorschriften und Anbringen von Hinweistafeln
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001500000)
 
 (1) Der Fährinhaber hat dafür zu sorgen, daß der Wortlaut der §§ 1 bis
 15 auf Hinweistafeln für jedermann gut lesbar und zugänglich im
@@ -342,6 +357,7 @@ Hinweistafeln nicht entfernen, verändern oder unkenntlich machen.
 
 
 ## § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE002000305)
 
 Nach § 4 Absatz 1 Satz 4 dieser Verordnung in der am 31. Dezember 2012
 geltenden Fassung ausgestellte Fährprüfungsbücher gelten bis zum
@@ -356,6 +372,7 @@ mitzuführen.
 
 
 ## § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001603124)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -424,6 +441,7 @@ fahrlässig
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001800000)
 
 (1) Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
@@ -462,5 +480,6 @@ tretenden Vorschrift dürfen aufgebraucht werden.
 
 
 ## Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/f_v/BJNR075200995.html#BJNR075200995BJNE001901305)
 
 

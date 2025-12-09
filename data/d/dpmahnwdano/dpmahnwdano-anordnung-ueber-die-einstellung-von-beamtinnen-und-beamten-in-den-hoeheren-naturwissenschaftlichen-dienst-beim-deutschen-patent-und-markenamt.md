@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dpmahnwdano/BJNR062010010.html#BJNR062010010BJNE000100000)
 
 Auf Grund des Artikels 1 Absatz 1 Satz 2 der Anordnung des
 Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen,
@@ -30,17 +31,20 @@ naturwissenschaftlichen Dienst beim Deutschen Patent- und Markenamt
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dpmahnwdano/BJNR062010010.html#BJNR062010010BJNE000200000)
 
 Für besondere Fälle behalte ich mir die Einstellung der unter I.
 genannten Beamtinnen und Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/dpmahnwdano/BJNR062010010.html#BJNR062010010BJNE000300000)
 
 Diese Anordnung tritt am 1. Juni 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmahnwdano/BJNR062010010.html#BJNR062010010BJNE000400000)
 
 Die Bundesministerin der Justiz
 

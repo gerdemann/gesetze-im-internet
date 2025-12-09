@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000000000)
 
 Auf Grund des § 126 des Betriebsverfassungsgesetzes in der Fassung der
 Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518) verordnet das
@@ -28,14 +29,17 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## Erster Teil - Wahl der Bordvertretung
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000100000)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000200000)
 
 
 
 #### § 1 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000100000)
 
 (1) Die Leitung der Wahl der Bordvertretung obliegt dem Wahlvorstand.
 Dieser hat bei der Durchführung der Wahl auf die Erfordernisse des
@@ -58,6 +62,7 @@ stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
 
 
 #### § 2 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000201126)
 
 (1) Der Wahlvorstand hat für jede Wahl der Bordvertretung eine Liste
 der Wahlberechtigten (Wählerliste), getrennt nach den Geschlechtern,
@@ -93,6 +98,7 @@ und über die Stimmabgabe in geeigneter Weise unterrichtet werden.
 
 
 #### § 3 Einsprüche gegen die Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000301126)
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können mit
 Wirksamkeit für die Wahl der Bordvertretung nur vor Ablauf von 48
@@ -113,6 +119,7 @@ berichtigt werden; § 2 Abs. 1 Satz 3 bleibt unberührt.
 
 
 #### § 4 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000400000)
 
 (1) Der Wahlvorstand stellt fest, welches Geschlecht von seinem
 zahlenmäßigen Verhältnis an Bord in der Minderheit ist. Sodann
@@ -137,6 +144,7 @@ welchem Geschlecht dieser Sitz zufällt.
 
 
 #### § 5 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000501126)
 
 (1) Unverzüglich, jedoch nicht vor Ablauf von 24 Stunden seit seiner
 Bestellung, erlässt der Wahlvorstand ein Wahlausschreiben, das von der
@@ -226,6 +234,7 @@ entsprechend.
 
 
 #### § 6 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000600000)
 
 (1) Zur Wahl der Bordvertretung können die Wahlberechtigten vor Ablauf
 von 48 Stunden seit Erlass des Wahlausschreibens Wahlvorschläge
@@ -249,6 +258,7 @@ oder der an erster Stelle steht.
 
 
 #### § 7 Wahlvorschläge der Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000700000)
 
 (1) Für den Wahlvorschlag einer an Bord vertretenen Gewerkschaft (§ 14
 Abs. 3 des Gesetzes) gelten § 6 sowie die §§ 8 bis 31 entsprechend.
@@ -264,6 +274,7 @@ Listenvertreter benennen.
 
 
 #### § 8 Behandlung der Wahlvorschläge durch den Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000800000)
 
 (1) Der Wahlvorstand hat bei Überbringen des Wahlvorschlags oder,
 falls dieser auf andere Weise eingereicht wird, der Listenvertreterin
@@ -299,6 +310,7 @@ Vorschlagslisten zu streichen.
 
 
 #### § 9 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE000900000)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -337,6 +349,7 @@ sechs Stunden beseitigt werden.
 
 
 #### § 10 Nachfrist für die Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001000000)
 
 (1) Ist vor Ablauf der in § 6 Abs. 1 und § 9 Abs. 2 genannten Fristen
 kein gültiger Wahlvorschlag eingereicht worden, so hat dies der
@@ -354,6 +367,7 @@ machen.
 
 
 #### § 11 Bekanntmachungen zur Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001100000)
 
 (1) Unverzüglich nach Ordnung der Wahlvorschläge (§§ 20, 28 Abs. 2)
 hat der Wahlvorstand
@@ -385,6 +399,7 @@ Bordvertretung zu wählen sind.
 
 
 #### § 12 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001201126)
 
 (1) Das Wahlrecht wird durch Abgabe eines Stimmzettels ausgeübt. Die
 Stimmzettel müssen alle dieselbe Größe, Farbe, Beschaffenheit und
@@ -398,6 +413,7 @@ einzelnen Bewerberinnen oder Bewerber abzugeben.
 
 
 #### § 13 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001301126)
 
 (1) Der Wahlvorstand hat Vorkehrungen zu treffen, dass die Wählerin
 oder der Wähler den Stimmzettel im Wahlraum unbeobachtet kennzeichnen
@@ -437,6 +453,7 @@ versiegeln. Dasselbe gilt im Fall der Unterbrechung der Stimmabgabe.
 
 
 #### § 14 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001400000)
 
 Unverzüglich nach Abschluss der Stimmabgabe nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor und gibt das Wahlergebnis
@@ -444,6 +461,7 @@ bekannt.
 
 
 #### § 15 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001501126)
 
 (1) Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand den
 Wahlumschlägen die Stimmzettel und prüft ihre Gültigkeit.
@@ -477,6 +495,7 @@ entfallenen gültigen Stimmen zusammen.
 
 
 #### § 16 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001600000)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in
 einer Niederschrift festzustellen
@@ -516,6 +535,7 @@ unverzüglich zu übermitteln.
 
 
 #### § 17 Benachrichtigung der Bekanntmachung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001700000)
 
 (1) Der Wahlvorstand hat die Gewählten unverzüglich schriftlich von
 ihrer Wahl zu benachrichtigen. Erklärt die gewählte Person nicht
@@ -529,20 +549,24 @@ Wahlausschreiben.
 
 
 #### § 18 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001800000)
 
 Die Bordvertretung hat die Wahlakten mindestens bis zur Beendigung
 ihrer Amtszeit aufzubewahren.
 
 
 ### Zweiter Abschnitt - Besondere Vorschriften für die Wahl mehrerer Mitglieder der Bordvertretung
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000400000)
 
 
 
 #### Erster Unterabschnitt - Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000500000)
 
 
 
 ##### § 19 Zusätzliche Erfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE001900000)
 
 (1) Sind mehrere Mitglieder der Bordvertretung zu wählen, so soll
 jeder Wahlvorschlag mindestens doppelt so viele Bewerberinnen oder
@@ -561,6 +585,7 @@ Vorschlagsliste vorgeschlagen werden.
 
 
 ##### § 20 Ordnung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002000000)
 
 Unverzüglich nach Ablauf der in § 6 Abs. 1, § 9 Abs. 2 und § 10 Abs. 1
 genannten Fristen ermittelt der Wahlvorstand durch Los die Reihenfolge
@@ -570,10 +595,12 @@ Listenvertreter sind zu der Losentscheidung rechtzeitig einzuladen.
 
 
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten (Verhältniswahl)
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000600000)
 
 
 
 ##### § 21 Stimmzettel, Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002100000)
 
 (1) Nach den Grundsätzen der Verhältniswahl (Listenwahl) ist zu
 wählen, wenn mehrere gültige Vorschlagslisten eingegangen sind.
@@ -590,6 +617,7 @@ will. Die Stimme kann nur für eine Vorschlagsliste abgegeben werden.
 
 
 ##### § 22 Verteilung der Sitze auf die Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002200000)
 
 (1) Die Sitze werden auf die Vorschlagslisten verteilt. Dazu werden
 die den einzelnen Vorschlagslisten zugefallenen Stimmenzahlen in einer
@@ -656,6 +684,7 @@ Folgendes:
 
 
 ##### § 23 Ablehnung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002300000)
 
 Lehnt eine gewählte Person die Wahl ab, so tritt an ihre Stelle die in
 derselben Vorschlagsliste in der Reihenfolge nach ihr benannte, nicht
@@ -668,10 +697,12 @@ Mindestsitze erhält. § 22 Abs. 5 Nr. 2 bis 5 gilt entsprechend.
 
 
 #### Dritter Unterabschnitt - Wahlverfahren bei nur einer Vorschlagsliste (Mehrheitswahl)
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000700000)
 
 
 
 ##### § 24 Stimmzettel, Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002400000)
 
 (1) Nach den Grundsätzen der Mehrheitswahl ist zu wählen, wenn nur
 eine gültige Vorschlagsliste eingegangen ist.
@@ -690,6 +721,7 @@ Bordvertretung zu wählen sind.
 
 
 ##### § 25 Ermittlung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002500000)
 
 (1) Zunächst werden die dem Geschlecht in der Minderheit zustehenden
 Mindestsitze (§ 15 Abs. 2 des Gesetzes) verteilt. Dazu werden die dem
@@ -716,6 +748,7 @@ Satz 2 zu berücksichtigen.
 
 
 ##### § 26 Ablehnung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002600000)
 
 Lehnt eine gewählte Person die Wahl ab, so tritt an ihre Stelle die
 nicht gewählte Person mit der nächsthöchsten Stimmenzahl. Gehört die
@@ -730,16 +763,19 @@ Stimmenzahl über.
 
 
 ### Dritter Abschnitt - Besondere Vorschriften für die Wahl nur eines Mitglieds der Bordvertretung (Mehrheitswahl)
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000800000)
 
 
 
 #### § 27 Grundsatz für die Wahl des Mitglieds der Bordvertretung
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002700000)
 
 Ist nur ein Mitglied der Bordvertretung zu wählen, erfolgt die Wahl
 nach den Grundsätzen der Mehrheitswahl (§ 14 Abs. 2 des Gesetzes).
 
 
 #### § 28 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002801126)
 
 (1) Wahlvorschläge für die Wahl des Mitglieds der Bordvertretung
 bedürfen keiner Unterzeichnung.
@@ -750,6 +786,7 @@ anerkannten Wahlvorschläge in alphabetischer Reihenfolge.
 
 
 #### § 29 Stimmzettel, Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE002900000)
 
 (1) Die Bewerberinnen oder Bewerber sind auf dem Stimmzettel in
 alphabetischer Reihenfolge unter Angabe von Familienname, Vorname und
@@ -763,6 +800,7 @@ ist.
 
 
 #### § 30 Wahlergebnis
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003000000)
 
 (1) Als Mitglied der Bordvertretung ist gewählt, wer die meisten
 Stimmen erhalten hat. Bei gleicher Stimmenzahl entscheidet das Los.
@@ -772,10 +810,12 @@ nicht gewählte Person mit der nächsthöchsten Stimmenzahl.
 
 
 ### Vierter Abschnitt - Verkürztes Wahlverfahren gemäß § 115 Abs. 2 Nr. 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG000900000)
 
 
 
 #### § 31 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003100000)
 
 Liegt ein Beschluss nach § 115 Abs. 2 Nr. 6 des Gesetzes vor, so
 gelten die Vorschriften der §§ 1 bis 30 mit folgender Maßgabe:
@@ -818,14 +858,17 @@ gelten die Vorschriften der §§ 1 bis 30 mit folgender Maßgabe:
 
 
 ## Zweiter Teil - Wahl des Seebetriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG001000000)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG001100000)
 
 
 
 #### § 32 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003201126)
 
 (1) Die Leitung der Wahl des Seebetriebsrats obliegt dem Wahlvorstand.
 Der Arbeitgeber hat dem Wahlvorstand die für eine ordnungsgemäße
@@ -876,6 +919,7 @@ auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 33 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003300000)
 
 (1) Der Wahlvorstand hat für jede Wahl des Seebetriebsrats eine Liste
 der Wahlberechtigten (Wählerliste), geordnet nach den zum Seebetrieb
@@ -895,6 +939,7 @@ Wählerliste eingetragen sind.
 
 
 #### § 34 Wählbarkeitsliste
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003400000)
 
 (1) Sind zum Seebetriebsrat lediglich im Landbetrieb des
 Seeschifffahrtsunternehmens beschäftigte Arbeitnehmerinnen und
@@ -910,6 +955,7 @@ Wählbarkeitsliste eingetragen sind.
 
 
 #### § 35 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003500000)
 
 (1) Je ein Abdruck der Wählerliste, der Wählbarkeitsliste und dieser
 Verordnung sind jedem zum Seebetrieb gehörigen Schiff zusammen mit dem
@@ -941,6 +987,7 @@ die Stimmabgabe in geeigneter Weise unterrichtet werden.
 
 
 #### § 36 Einsprüche gegen die Wählerliste oder die Wählbarkeitsliste
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003600000)
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste oder der
 Wählbarkeitsliste können mit Wirksamkeit für die Wahl des
@@ -961,6 +1008,7 @@ Stimmabgabe berichtigt werden; § 33 Abs. 2 bleibt unberührt.
 
 
 #### § 37 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003700000)
 
 (1) Der Wahlvorstand stellt fest, welches Geschlecht von seinem
 zahlenmäßigen Verhältnis im Seebetrieb in der Minderheit ist. Sodann
@@ -985,6 +1033,7 @@ welchem Geschlecht dieser Sitz zufällt.
 
 
 #### § 38 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003801126)
 
 (1) Unverzüglich nach seiner Bestellung erlässt der Wahlvorstand ein
 Wahlausschreiben, das von der oder dem Vorsitzenden und von mindestens
@@ -1132,6 +1181,7 @@ ist in der Wählerliste zu vermerken.
 
 
 #### § 39 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE003900000)
 
 (1) Zur Wahl des Seebetriebsrats können die Wahlberechtigten
 Wahlvorschläge einreichen.
@@ -1150,6 +1200,7 @@ oder der an erster Stelle steht.
 
 
 #### § 40 Einreichungsfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004000000)
 
 (1) Die Wahlvorschläge müssen vor Ablauf von fünf Wochen nach
 Versendung des Wahlausschreibens an die Schiffe (§ 38 Abs. 3) beim
@@ -1171,6 +1222,7 @@ machen.
 
 
 #### § 41 Zustimmungserklärung der Bewerberinnen und Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004100000)
 
 (1) Zu jedem Wahlvorschlag muss vor Ablauf der für die Einreichung von
 Wahlvorschlägen festgesetzten Frist eine mit Datum versehene
@@ -1195,6 +1247,7 @@ Datum.
 
 
 #### § 42 Wahlvorschläge der Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004200000)
 
 (1) Für den Wahlvorschlag einer unter den Besatzungsmitgliedern des
 Seeschifffahrtsunternehmens vertretenen Gewerkschaft (§ 14 Abs. 3 des
@@ -1211,6 +1264,7 @@ Seeschifffahrtsunternehmens, die oder der ihr angehört, benennen.
 
 
 #### § 43 Behandlung der Wahlvorschläge durch den Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004300000)
 
 (1) Der Wahlvorstand hat den Zeitpunkt des Eingangs eines
 Wahlvorschlags unverzüglich in einer Niederschrift zu vermerken und
@@ -1226,6 +1280,7 @@ unter Angabe der Gründe zu unterrichten.
 
 
 #### § 44 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004400000)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -1260,6 +1315,7 @@ unter Angabe der Gründe zu unterrichten.
 
 
 #### § 45 Nichteinreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004500000)
 
 Wird vor Ablauf der für die Einreichung von Wahlvorschlägen
 festgesetzten Frist kein gültiger Wahlvorschlag eingereicht, so findet
@@ -1268,11 +1324,13 @@ gleicher Weise wie das Wahlausschreiben bekannt zu machen.
 
 
 #### § 46 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004600000)
 
 Die Mitglieder des Seebetriebsrats werden durch Briefwahl gewählt.
 
 
 #### § 47 Vorbereitung der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004700000)
 
 Der Wahlvorstand hat unverzüglich nach Ordnung der Wahlvorschläge (§§
 20, 28 Abs. 2, §§ 57, 58) folgende, zur Stimmabgabe erforderliche
@@ -1296,6 +1354,7 @@ Beschriftung haben; dasselbe gilt für die Wahlumschläge.
 
 
 #### § 48 Bekanntmachungen zur Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004800000)
 
 (1) Der Wahlvorstand hat unverzüglich in gleicher Weise wie das
 Wahlausschreiben bis zum Abschluss der Stimmabgabe bekannt zu machen:
@@ -1363,6 +1422,7 @@ auszuhändigen.
 
 
 #### § 49 Frist für die Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE004900000)
 
 (1) Die Wahlbriefe müssen vor Ablauf von fünf Wochen nach ihrer
 Versendung an die Schiffe (§ 48 Abs. 2) beim Wahlvorstand eingehen.
@@ -1382,6 +1442,7 @@ machen.
 
 
 #### § 50 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005000000)
 
 (1) Ist der Seebetriebsrat nach den Grundsätzen der Verhältniswahl zu
 wählen (§§ 21 bis 23, 57), so kann der Wahlberechtigte seine Stimme
@@ -1410,6 +1471,7 @@ möglichst gleichzeitig abgesandt werden.
 
 
 #### § 51 Behandlung der Wahlbriefe durch den Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005100000)
 
 (1) Der Wahlvorstand hat unverzüglich nach Eingang eines Wahlbriefs
 
@@ -1468,6 +1530,7 @@ Wahlurnen zu versiegeln.
 
 
 #### § 52 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005200000)
 
 Unverzüglich nach Einwurf der Wahlumschläge in die Wahlurnen (§ 51
 Abs. 2) nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen
@@ -1475,6 +1538,7 @@ vor und gibt das Wahlergebnis bekannt.
 
 
 #### § 53 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005300000)
 
 (1) Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand den
 Wahlumschlägen die Stimmzettel und prüft ihre Gültigkeit.
@@ -1512,6 +1576,7 @@ entfallenen gültigen Stimmen zusammen.
 
 
 #### § 54 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005400000)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in
 einer Niederschrift festzustellen
@@ -1554,6 +1619,7 @@ Gewerkschaften unverzüglich zu übersenden.
 
 
 #### § 55 Benachrichtigung und Bekanntmachung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005500000)
 
 (1) Der Wahlvorstand hat die Gewählten unverzüglich schriftlich von
 ihrer Wahl zu benachrichtigen.
@@ -1564,16 +1630,19 @@ Wahlausschreiben.
 
 
 #### § 56 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005600000)
 
 Der Seebetriebsrat hat die Wahlakten mindestens bis zur Beendigung
 seiner Amtszeit aufzubewahren.
 
 
 ### Zweiter Abschnitt - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG001300000)
 
 
 
 #### § 57 Wahl mehrerer Mitglieder des Seebetriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005700000)
 
 Die Vorschriften der §§ 19 bis 26 gelten für die Wahl der Mitglieder
 des Seebetriebsrats mit folgender Maßgabe entsprechend:
@@ -1594,6 +1663,7 @@ des Seebetriebsrats mit folgender Maßgabe entsprechend:
 
 
 #### § 58 Wahl nur eines Mitglieds des Seebetriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005801126)
 
 Die Vorschriften der §§ 27 und 28 Absatz 2 sowie der §§ 29 bis 30
 gelten für die Wahl nur eines Mitglieds des Seebetriebsrats
@@ -1605,10 +1675,12 @@ rechtswirksam nur einen Wahlvorschlag unterstützen.
 
 
 ## Dritter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNG001400000)
 
 
 
 ### § 59 Berechnung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE005900000)
 
 Soweit nach dieser Verordnung eine Frist nach Stunden bemessen ist,
 beginnt sie mit der nächsten vollen Stunde, die auf das maßgebende
@@ -1618,11 +1690,13 @@ Gesetzbuchs.
 
 
 ### § 60 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE006000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wos_2002/BJNR059400002.html#BJNR059400002BJNE006100000)
 
 Der Bundesrat hat zugestimmt.
 

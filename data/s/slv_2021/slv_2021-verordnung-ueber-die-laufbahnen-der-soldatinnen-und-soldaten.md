@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 
 ## Kapitel 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000100000)
 
 
 ### § 1 Persönlicher Geltungsbereich, Dienstgradbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000200000)
 
 (1) Diese Verordnung gilt für
 
@@ -70,6 +72,7 @@ umfasst.
 
 
 ### § 2 Dienstliche Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000301377)
 
 (1) In der dienstlichen Beurteilung sind die Leistungen der Soldatin
 oder des Soldaten nachvollziehbar darzustellen sowie die Eignung und
@@ -95,6 +98,7 @@ entsprechend.
 
 
 ### § 3 Beurteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000402377)
 
 (1) Die dienstliche Beurteilung wird von der oder dem nächsten
 Disziplinarvorgesetzten als Erstbeurteilerin oder Erstbeurteiler sowie
@@ -194,6 +198,7 @@ Stellungnahmen gelten als Gesamturteil im Sinne des Absatzes 1 Satz 2.
 
 
 ### § 3a Referenzgruppen
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE005501377)
 
 (1) Für die in § 27b Absatz 1 des Soldatengesetzes genannten
 Soldatinnen und Soldaten hat das Bundesamt für das Personalmanagement
@@ -233,6 +238,7 @@ Erhalt der notwendigen Referenzgruppengröße vorzunehmen.
 
 
 ### § 4 Ordnung der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000500000)
 
 Die Laufbahnen der Soldatinnen und Soldaten sind den Laufbahngruppen
 der Mannschaften, der Unteroffizierinnen und Unteroffiziere sowie der
@@ -241,6 +247,7 @@ zu den Laufbahngruppen ergibt sich aus Anlage 1.
 
 
 ### § 5 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000600000)
 
 (1) Einstellung ist die Begründung eines Wehrdienstverhältnisses.
 Eingestellt werden darf nur, wer das 17. Lebensjahr vollendet hat.
@@ -269,6 +276,7 @@ verliehen werden.
 
 
 ### § 6 Zusicherung der Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000701377)
 
 (1) Mit der Berufung in das Dienstverhältnis einer Soldatin auf Zeit
 oder eines Soldaten auf Zeit kann zugesichert werden, dieses
@@ -367,6 +375,7 @@ Berufssoldaten berufen werden.
 
 
 ### § 7 Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000800000)
 
 (1) Beförderung ist die Verleihung eines höheren Dienstgrades.
 
@@ -413,6 +422,7 @@ der dienstlichen Veranstaltung verliehen werden.
 
 
 ### § 8 Dienstzeiterfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE000900000)
 
 Dienstzeit im Sinne dieser Verordnung ist die Wehrdienstzeit. Bei
 einer Einstellung mit einem höheren als dem niedrigsten Dienstgrad der
@@ -422,6 +432,7 @@ die Soldatin oder der Soldat eingestellt worden ist, erforderlich ist.
 
 
 ### § 9 Laufbahnbefähigung und Laufbahnwechsel
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001001377)
 
 (1) Die Laufbahnbefähigung besitzt, wer die Laufbahnprüfung bestanden
 hat. Die Laufbahnbefähigung für die Laufbahn der Offizierinnen und
@@ -531,9 +542,11 @@ Laufbahnzuordnung erfordert.
 
 
 ## Kapitel 2 - Laufbahngruppe der Mannschaften
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000200000)
 
 
 ### § 10 Einstellung in eine Laufbahn der Mannschaften
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001100000)
 
 (1) In eine Laufbahn der Mannschaften kann eingestellt werden, wer die
 Vollzeitschulpflicht erfüllt hat. Die Einstellung in die Laufbahn der
@@ -546,6 +559,7 @@ Zeit.
 
 
 ### § 11 Beförderung der Mannschaften
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001200000)
 
 Die Beförderung der Mannschaften ist nach folgenden Dienstzeiten
 zulässig:
@@ -575,6 +589,7 @@ zulässig:
 
 
 ### § 12 Sonstige Soldatinnen und sonstige Soldaten (§ 1 Absatz 1 Nummer 2 bis 7)
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001300000)
 
 (1) Die in § 1 Absatz 1 Nummer 2 und 3 genannten Soldatinnen und
 Soldaten werden nach den Vorschriften über die Einstellung und
@@ -595,15 +610,19 @@ Beorderungsverhältnis entsprechen.
 
 
 ## Kapitel 3 - Laufbahngruppe der Unteroffizierinnen und Unteroffiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000300000)
 
 
 ### Abschnitt 1 - Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000400000)
 
 
 #### Unterabschnitt 1 - Fachunteroffizierinnen und Fachunteroffiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000500000)
 
 
 ##### § 13 Einstellung als Unteroffizieranwärterin oder Unteroffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001400000)
 
 (1) Als Anwärterin oder Anwärter für eine Laufbahn der
 Fachunteroffizierinnen und Fachunteroffiziere des Sanitätsdienstes,
@@ -627,6 +646,7 @@ Zusatz „(Unteroffizieranwärterin)“, „(Unteroffizieranwärter)“ oder
 
 
 ##### § 14 Beförderung der Unteroffizieranwärterinnen und Unteroffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001500000)
 
 (1) Die Beförderung der Unteroffizieranwärterinnen und
 Unteroffizieranwärter ist zu folgenden Dienstgraden und nach folgenden
@@ -659,6 +679,7 @@ Fachunteroffizierprüfung kann dieser Teil einmal wiederholt werden.
 
 
 ##### § 15 Einstellung mit einem höheren Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001601377)
 
 (1) In das Dienstverhältnis einer Soldatin auf Zeit oder eines
 Soldaten auf Zeit kann eingestellt werden
@@ -714,6 +735,7 @@ einem Wehrdienst verpflichten.
 
 
 ##### § 16 Aufstieg in eine Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001701377)
 
 (1) Mannschaften aller Laufbahnen können in eine Laufbahn der
 Fachunteroffizierinnen und Fachunteroffiziere aufsteigen, wenn sie
@@ -752,9 +774,11 @@ Einführung einmal wiederholt werden kann.
 
 
 #### Unterabschnitt 2 - Feldwebel
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000600000)
 
 
 ##### § 17 Einstellung als Feldwebelanwärterin oder Feldwebelanwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001800000)
 
 (1) Als Anwärterin oder Anwärter für eine Laufbahn der Feldwebel des
 Truppendienstes, des Sanitätsdienstes, des Militärmusikdienstes, des
@@ -794,6 +818,7 @@ Zusatz „(Feldwebelanwärterin)“, „(Feldwebelanwärter)“ oder „(FA)“.
 
 
 ##### § 18 Beförderung der Feldwebelanwärterinnen und Feldwebelanwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE001900000)
 
 (1) Die Beförderung der Feldwebelanwärterinnen und Feldwebelanwärter
 ist zu folgenden Dienstgraden und nach folgenden Dienstzeiten
@@ -831,6 +856,7 @@ kann dieser Teil einmal wiederholt werden.
 
 
 ##### § 19 Einstellung mit einem höheren Dienstgrad
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002001377)
 
 (1) In das Dienstverhältnis einer Soldatin auf Zeit oder eines
 Soldaten auf Zeit kann als Feldwebelanwärterin oder Feldwebelanwärter
@@ -972,6 +998,7 @@ den Absätzen 2 und 3 besteht.
 
 
 ##### § 20 Beförderung der Feldwebel
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002100000)
 
 (1) Die Beförderung zum Hauptfeldwebel ist nach einer Dienstzeit von
 mindestens acht Jahren zulässig. Abweichend von Satz 1 ist die
@@ -1015,6 +1042,7 @@ Dienstzeit
 
 
 ##### § 21 Aufstieg in eine Laufbahn der Feldwebel
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002201377)
 
 (1) Wenn die Voraussetzungen des § 17 Absatz 1 Satz 1 und für die
 Laufbahn der Feldwebel des Militärmusikdienstes auch die
@@ -1042,9 +1070,11 @@ Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz
 
 
 ### Abschnitt 2 - Sonstige Soldatinnen und sonstige Soldaten (§ 1 Absatz 1 Nummer 2 bis 7)
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000700000)
 
 
 #### § 22 Einstellung, Beförderung, Aufstieg und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002300000)
 
 (1) Die in § 1 Absatz 1 Nummer 2 und 3 genannten Soldatinnen und
 Soldaten werden nach den Vorschriften des Kapitels drei über die
@@ -1114,15 +1144,19 @@ entsprechend.
 
 
 ## Kapitel 4 - Laufbahngruppe der Offizierinnen und Offiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000800000)
 
 
 ### Abschnitt 1 - Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG000900000)
 
 
 #### Unterabschnitt 1 - Truppendienst
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001000000)
 
 
 ##### § 23 Einstellung als Offizieranwärterin oder Offizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002400000)
 
 (1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
 und Offiziere des Truppendienstes (Offizieranwärterin oder
@@ -1146,6 +1180,7 @@ abgeschlossen hat.
 
 
 ##### § 24 Beförderung der Offizieranwärterinnen und Offizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002500000)
 
 (1) Die Laufbahnausbildung zur Offizierin oder zum Offizier dauert
 mindestens drei Jahre, in den Fällen des § 23 Absatz 4 mindestens
@@ -1181,6 +1216,7 @@ zugelassen werden.
 
 
 ##### § 25 Offizierinnen und Offiziere mit Hochschulausbildung
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002600000)
 
 (1) Für militärfachliche Verwendungen, die eine Hochschulausbildung
 erfordern, müssen für die Einstellung als Offizierin oder Offizier in
@@ -1273,6 +1309,7 @@ Satz 2 gilt entsprechend.
 
 
 ##### § 26 Beförderung der Offizierinnen und Offiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002700000)
 
 (1) Die Beförderung der Offizierinnen und Offiziere ist nach folgenden
 Dienstzeiten seit der Ernennung zum Leutnant zulässig:
@@ -1307,6 +1344,7 @@ nach folgenden Dienstzeiten seit der Ernennung zum Leutnant zulässig:
 
 
 ##### § 27 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Truppendienstes
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002800000)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 Truppendienstes können aufsteigen
@@ -1360,9 +1398,11 @@ zu Leutnanten ernannt.
 
 
 #### Unterabschnitt 2 - Sanitätsdienst
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001100000)
 
 
 ##### § 28 Einstellung als Sanitätsoffizieranwärterin oder Sanitätsoffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE002900000)
 
 (1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
 und Offiziere des Sanitätsdienstes (Sanitätsoffizieranwärterin oder
@@ -1393,6 +1433,7 @@ und sich für mindestens 15 Jahre zu einem Wehrdienst verpflichtet hat.
 
 
 ##### § 29 Beförderung der Sanitätsoffizieranwärterinnen und Sanitätsoffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003000000)
 
 (1) Die Beförderung der Anwärterinnen und Anwärter ist nur zu
 folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
@@ -1430,6 +1471,7 @@ Lebensmittelchemiker bestanden hat. § 7 Absatz 2 ist nicht anzuwenden.
 
 
 ##### § 30 Einstellung als Sanitätsoffizierin oder Sanitätsoffizier
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003100000)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 Sanitätsdienstes kann eingestellt werden, wer
@@ -1496,6 +1538,7 @@ Einzelfalls dies rechtfertigen.
 
 
 ##### § 31 Beförderung der Sanitätsoffizierinnen und Sanitätsoffiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003200000)
 
 (1) Beförderungen sind nach folgenden Dienstzeiten seit der Ernennung
 zum Stabsarzt, Stabsveterinär oder Stabsapotheker zulässig:
@@ -1515,6 +1558,7 @@ Oberfeldveterinär oder Oberfeldapotheker befördert werden, wer die in
 
 
 ##### § 32 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Sanitätsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003300000)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 Sanitätsdienstes können aufsteigen, wenn sie die Voraussetzungen des §
@@ -1563,9 +1607,11 @@ führen im Schriftverkehr
 
 
 #### Unterabschnitt 3 - Militärmusikdienst
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001200000)
 
 
 ##### § 33 Einstellung als Militärmusikoffizieranwärterin oder Militärmusikoffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003400000)
 
 (1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
 und Offiziere des Militärmusikdienstes (Militärmusikoffizieranwärterin
@@ -1594,6 +1640,7 @@ Dienstgradbezeichnung mit dem Zusatz
 
 
 ##### § 34 Beförderung der Militärmusikoffizieranwärterinnen und Militärmusikoffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003500000)
 
 (1) Die Beförderung der Anwärterinnen und Anwärter ist nur zu
 folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
@@ -1627,6 +1674,7 @@ Kapellmeisterexamen bestanden hat.
 
 
 ##### § 35 Einstellung als Militärmusikoffizierin oder Militärmusikoffizier
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003600000)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 Militärmusikdienstes kann auch eingestellt werden, wer
@@ -1646,6 +1694,7 @@ Laufbahn beginnt mit dem Einstellungsdienstgrad.
 
 
 ##### § 36 Beförderung der Militärmusikoffizierinnen und Militärmusikoffiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003700000)
 
 Beförderungen sind nach folgenden Dienstzeiten seit Ernennung zum
 Hauptmann zulässig:
@@ -1660,6 +1709,7 @@ Hauptmann zulässig:
 
 
 ##### § 37 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Militärmusikdienstes
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003800000)
 
 (1) Wenn die Voraussetzungen des § 33 Absatz 1 erfüllt sind, können in
 die Laufbahn der Offizierinnen und Offiziere des Militärmusikdienstes
@@ -1706,9 +1756,11 @@ Satz 1 führen im Schriftverkehr
 
 
 #### Unterabschnitt 4 - Geoinformationsdienst der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001300000)
 
 
 ##### § 38 Einstellung als Geoinformationsoffizieranwärterin oder Geoinformationsoffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE003900000)
 
 (1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
 und Offiziere des Geoinformationsdienstes der Bundeswehr
@@ -1735,6 +1787,7 @@ Dienstgradbezeichnung mit dem Zusatz
 
 
 ##### § 39 Beförderung der Geoinformationsoffizieranwärterinnen und Geoinformationsoffizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004000000)
 
 (1) Die Beförderung der Anwärterinnen und Anwärter ist nur zu
 folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
@@ -1768,6 +1821,7 @@ geowissenschaftlichen Hochschulstudiums voraus.
 
 
 ##### § 40 Einstellung als Geoinformationsoffizierin oder Geoinformationsoffizier
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004100000)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 Geoinformationsdienstes der Bundeswehr kann in das Dienstverhältnis
@@ -1779,6 +1833,7 @@ hat.
 
 
 ##### § 41 Beförderung der Geoinformationsoffizierinnen und Geoinformationsoffiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004200000)
 
 Beförderungen sind nach folgenden Dienstzeiten seit Ernennung zum
 Oberleutnant zulässig:
@@ -1796,6 +1851,7 @@ Oberleutnant zulässig:
 
 
 ##### § 42 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Geoinformationsdienstes der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004300000)
 
 (1) Wenn die Voraussetzungen des § 38 Absatz 1 erfüllt sind, können in
 die Laufbahn der Offizierinnen und Offiziere des
@@ -1843,9 +1899,11 @@ Schriftverkehr
 
 
 #### Unterabschnitt 5 - Militärfachlicher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001400000)
 
 
 ##### § 43 Einstellung als Offizieranwärterin oder Offizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004400000)
 
 (1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
 und Offiziere des militärfachlichen Dienstes (Offizieranwärterin oder
@@ -1862,6 +1920,7 @@ Zusatz „(Offizieranwärterin)“, „(Offizieranwärter)“ oder „(OA)“.
 
 
 ##### § 44 Beförderung der Offizieranwärterinnen und Offizieranwärter
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004500000)
 
 (1) Die Ausbildung zum Offizier dauert mindestens drei Jahre. Die
 Beförderung der Anwärterinnen und Anwärter ist nur zu folgenden
@@ -1893,6 +1952,7 @@ durchlaufen werden.
 
 
 ##### § 45 Einstellung als Offizierin oder Offizier des militärfachlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004601377)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 militärfachlichen Dienstes kann eingestellt werden, wer sich für
@@ -1980,6 +2040,7 @@ hauptberufliche Tätigkeit von mindestens zwei Jahren erworben hat.
 
 
 ##### § 46 Beförderung der Offizierinnen und Offiziere des militärfachlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004700000)
 
 (1) Die Beförderung zum Hauptmann ist nach einer Dienstzeit von fünf
 Jahren seit der Ernennung zum Leutnant zulässig. Die Beförderung der
@@ -2015,6 +2076,7 @@ Dienstzeit von
 
 
 ##### § 47 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des militärfachlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004800000)
 
 (1) In die Laufbahn der Offizierinnen und Offiziere des
 militärfachlichen Dienstes im Dienstverhältnis einer Berufssoldatin
@@ -2069,9 +2131,11 @@ ernannt.
 
 
 ### Abschnitt 2 - Sonstige Soldatinnen und Soldaten (§ 1 Absatz 1 Nummer 2 bis 7)
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001500000)
 
 
 #### § 48 Einstellung, Beförderung, Aufstieg und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE004901377)
 
 (1) Die in § 1 Absatz 1 Nummer 2 und 3 genannten Soldatinnen und
 Soldaten werden nach den Vorschriften über die Beförderung von
@@ -2138,9 +2202,11 @@ Satz 4 gilt entsprechend.
 
 
 ## Kapitel 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNG001600000)
 
 
 ### § 49 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE005000000)
 
 Das Bundesministerium der Verteidigung kann für bestimmte Laufbahnen,
 Truppengattungen und Dienstzweige für die Einstellung, die Ausbildung
@@ -2151,6 +2217,7 @@ erfordern.
 
 
 ### § 50 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE005100000)
 
 (1) Der Bundespersonalausschuss kann auf Antrag des Bundesministeriums
 der Verteidigung für einzelne Fälle oder für Gruppen von Fällen
@@ -2171,6 +2238,7 @@ Ausnahmen nach Absatz 1.
 
 
 ### § 51 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE005200000)
 
 (1) Bis zum 30. Juli 2021 ist für die dienstlichen Beurteilungen der
 Soldatinnen und Soldaten § 2 der Soldatenlaufbahnverordnung in der
@@ -2189,6 +2257,7 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 (zu § 4)
 
 ### Anlage 1 Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffizierinnen und Unteroffiziere sowie der Offizierinnen und Offiziere
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE005300000)
 
 (Fundstelle: BGBl. I 2021, 1244)
 
@@ -2335,6 +2404,7 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 (zu § 7 Absatz 3)
 
 ### Anlage 2 Zuordnung der Dienstgrade zu den Laufbahnen der Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/slv_2021/BJNR122810021.html#BJNR122810021BJNE005401377)
 
 (Fundstelle: BGBl. I 2021, 1245 - 1249;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

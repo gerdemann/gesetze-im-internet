@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE001000000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -28,16 +29,19 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000100000)
 
 Der Ausbildungsberuf Bodenleger/Bodenlegerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000300000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -100,6 +104,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000400000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -117,12 +122,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000500000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000600000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -131,6 +138,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -156,6 +164,7 @@ und den Gesundheitsschutz bei der Arbeit beachten kann.
 
 
 ## § 8 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000800000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -315,12 +324,14 @@ ungenügend bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bodenleger/zur Bodenlegerin
+[Direktlink](https://www.gesetze-im-internet.de/bodenlausbv/BJNR186100002.html#BJNR186100002BJNE001100000)
 
 (Fundstelle: BGBl. I 2002, 1864 - 1868)
 

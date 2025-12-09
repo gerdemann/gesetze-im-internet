@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek/BJNR009500016.html#BJNR009500016BJNE000100000)
 
 Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der
 Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden die für
@@ -27,12 +28,14 @@ bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek/BJNR009500016.html#BJNR009500016BJNE000200000)
 
 Der Bundesminister des Innern
 
 (Anlage V des BBesG)
 
 ## (XXXX) Gültig ab 1. Januar 2016 für Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek/BJNR009500016.html#BJNR009500016BJNE000300000)
 
 (Fundstelle: BGBl. I 2016, 96)
 
@@ -87,6 +90,7 @@ zusätzlich gewährt.
 (Anlage IX des BBesG)
 
 ## (XXXX) Gültig ab 1. Januar 2016 für Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_78abs2bek/BJNR009500016.html#BJNR009500016BJNE000400000)
 
 (Fundstelle: BGBl. I 2016, 97 - 99)
 

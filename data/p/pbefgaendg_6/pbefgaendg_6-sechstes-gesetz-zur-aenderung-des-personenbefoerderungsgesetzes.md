@@ -20,22 +20,26 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_ndg_6/BJNR015470989.html#BJNR015470989BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_ndg_6/BJNR015470989.html#BJNR015470989BJNE000201305)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_ndg_6/BJNR015470989.html#BJNR015470989BJNE000301307)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_ndg_6/BJNR015470989.html#BJNR015470989BJNE000401307)
 
 Die Länder können Regelungen über die Beförderung mit
 Krankenkraftwagen im Sinne des § 1 Abs. 2 Nr. 2 des
@@ -46,12 +50,14 @@ anzuwenden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_ndg_6/BJNR015470989.html#BJNR015470989BJNE000500328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_ndg_6/BJNR015470989.html#BJNR015470989BJNE000600328)
 
 (1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft.
 

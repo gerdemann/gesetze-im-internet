@@ -21,14 +21,17 @@ Zuletzt geändert durch
 
 
 ## Art I - 
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000100309)
 
 
 
 ## Art II - Überleitungsvorschriften und Neubekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000200309)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001000309)
 
 Auf Familienheime, die bis zum 31. Dezember 1961 bezugsfertig geworden
 sind, findet § 45 des Zweiten Wohnungsbaugesetzes in der bisherigen
@@ -36,19 +39,23 @@ Fassung weiterhin Anwendung.
 
 
 ## (XXXX) §§ 2 und 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001100309)
 
 -
 
 
 ## Art III bis V - 
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000300309)
 
 
 
 ## Art VI - Rückerstattung verlorener Zuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000400309)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001200309)
 
 Hat ein Mieter oder für ihn ein Dritter dem Vermieter mit Rücksicht
 auf die Vermietung einer Wohnung auf Grund vertraglicher Verpflichtung
@@ -64,6 +71,7 @@ Bereicherung zurückzuerstatten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001300309)
 
 Beruht der Zuschuß auf einer nach dem Inkrafttreten dieses Gesetzes
 getroffenen Vereinbarung, so gilt ein Betrag in Höhe einer Jahresmiete
@@ -75,6 +83,7 @@ erreichen, bleiben außer Betracht.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001401320)
 
 Beruht der Zuschuß auf einer vor dem Inkrafttreten dieses Gesetzes
 getroffenen Vereinbarung, so gilt er als für eine Mietdauer gewährt,
@@ -83,24 +92,28 @@ Zuschusses und der laufenden Miete, der Billigkeit entspricht.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001500309)
 
 Der Anspruch auf Rückerstattung verjährt nach Ablauf eines Jahres von
 der Beendigung des Mietverhältnisses an.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001600309)
 
 Eine von den Vorschriften der §§ 1 bis 4 zum Nachteil des Mieters
 abweichende Vereinbarung ist unwirksam.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001700309)
 
 Die §§ 1 bis 5 gelten nicht für verlorene Zuschüsse, die wegen ihrer
 Unzulässigkeit nach anderen Vorschriften zurückzuerstatten sind.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001800309)
 
 Bei Wohnraum, der nach dem 20. Juni 1948 bezugsfertig geworden ist,
 hat es sein Bewenden:
@@ -125,19 +138,23 @@ b)  bei § 1 in der Fassung des Artikels III Nr. 8 des Zweiten Gesetzes zur
 
 
 ## Art VII - 
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000500309)
 
 
 
 ## Art VIII - Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000600309)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE001900309)
 
 Artikel I und II gelten nicht im Saarland.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE002000309)
 
 Das Gesetz Nr. 696, Wohnungsbaugesetz für das Saarland vom 17. Juli
 1959 (Amtsblatt des Saarlandes S. 1349) wird wie folgt geändert:
@@ -551,6 +568,7 @@ Das Gesetz Nr. 696, Wohnungsbaugesetz für das Saarland vom 17. Juli
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE002100309)
 
 Auf Familienheime, die bis zum 31. Dezember 1961 bezugsfertig geworden
 sind, findet § 27 des Wohnungsbaugesetzes für das Saarland in der
@@ -558,6 +576,7 @@ bisherigen Fassung weiterhin Anwendung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE002200309)
 
 Die Regierung des Saarlandes wird ermächtigt, das Wohnungsbaugesetz
 für das Saarland in der geltenden Fassung und in neuer
@@ -566,11 +585,13 @@ Wortlauts zu beseitigen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNE002300309)
 
 -
 
 
 ## Art IX - Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000700309)
 
 Dieses Gesetz gilt gemäß § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin mit
@@ -581,6 +602,7 @@ auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach
 
 
 ## Art X - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wobaug2_ndg/BJNR010419961.html#BJNR010419961BJNG000800309)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

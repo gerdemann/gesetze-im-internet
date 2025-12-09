@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/leistbeschv/BJNR007250962.html#BJNR007250962BJNE000100315)
 
 Auf Grund des § 3 Abs. 3 Satz 3 des Bundesleistungsgesetzes in der
 Fassung vom 27. September 1961 (Bundesgesetzbl. I S. 1769) verordnet
@@ -26,6 +27,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/leistbeschv/BJNR007250962.html#BJNR007250962BJNE000200315)
 
 Sachverständige Stellen der gewerblichen Wirtschaft im Sinne des § 3
 Abs. 3 Satz 3 des Bundesleistungsgesetzes sind die Industrie- und
@@ -33,6 +35,7 @@ Handelskammern und die Handwerkskammern.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/leistbeschv/BJNR007250962.html#BJNR007250962BJNE000300315)
 
 Die Industrie- und Handelskammern und die Handwerkskammern beraten die
 Anforderungsbehörden bei der Vorbereitung und Durchführung von
@@ -57,6 +60,7 @@ b)  die Versorgung der Bevölkerung oder der Streitkräfte mit Gütern und
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/leistbeschv/BJNR007250962.html#BJNR007250962BJNE000400315)
 
 Für die Durchführung der in § 2 bezeichneten Aufgaben ist diejenige
 Industrie- und Handelskammer oder Handwerkskammer zuständig, in deren
@@ -66,6 +70,7 @@ Betriebstätte oder Verkaufsstelle hat.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/leistbeschv/BJNR007250962.html#BJNR007250962BJNE000500315)
 
 Diese Verordnung tritt mit ihrer Verkündung in Kraft.
 

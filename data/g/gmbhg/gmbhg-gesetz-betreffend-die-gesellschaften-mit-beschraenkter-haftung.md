@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Errichtung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG000201140)
 
 
 
 ### § 1 Zweck; Gründerzahl
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE000301140)
 
 Gesellschaften mit beschränkter Haftung können nach Maßgabe der
 Bestimmungen dieses Gesetzes zu jedem gesetzlich zulässigen Zweck
@@ -31,6 +33,7 @@ durch eine oder mehrere Personen errichtet werden.
 
 
 ### § 2 Form des Gesellschaftsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE000404360)
 
 (1) Der Gesellschaftsvertrag bedarf notarieller Form. Er ist von
 sämtlichen Gesellschaftern zu unterzeichnen.
@@ -72,6 +75,7 @@ entsprechend.
 
 
 ### § 3 Inhalt des Gesellschaftsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE000501140)
 
 (1) Der Gesellschaftsvertrag muß enthalten:
 
@@ -99,6 +103,7 @@ Gesellschaftsvertrag.
 
 
 ### § 4 Firma
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE000603308)
 
 Die Firma der Gesellschaft muß, auch wenn sie nach § 22 des
 Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
@@ -110,12 +115,14 @@ Abgabenordnung kann die Abkürzung „gGmbH“ lauten.
 
 
 ### § 4a Sitz der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014601140)
 
 Sitz der Gesellschaft ist der Ort im Inland, den der
 Gesellschaftsvertrag bestimmt.
 
 
 ### § 5 Stammkapital; Geschäftsanteil
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE000702140)
 
 (1) Das Stammkapital der Gesellschaft muß mindestens
 fünfundzwanzigtausend Euro betragen.
@@ -138,6 +145,7 @@ die Jahresergebnisse der beiden letzten Geschäftsjahre anzugeben.
 
 
 ### § 5a Unternehmergesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014900140)
 
 (1) Eine Gesellschaft, die mit einem Stammkapital gegründet wird, das
 den Betrag des Mindeststammkapitals nach § 5 Abs. 1 unterschreitet,
@@ -178,6 +186,7 @@ finden die Absätze 1 bis 4 keine Anwendung mehr; die Firma nach Absatz
 
 
 ### § 6 Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE000806360)
 
 (1) Die Gesellschaft muß einen oder mehrere Geschäftsführer haben.
 
@@ -252,6 +261,7 @@ bestehenden Obliegenheiten verletzt.
 
 
 ### § 7 Anmeldung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009302140)
 
 (1) Die Gesellschaft ist bei dem Gericht, in dessen Bezirk sie ihren
 Sitz hat, zur Eintragung in das Handelsregister anzumelden.
@@ -270,6 +280,7 @@ daß sie endgültig zur freien Verfügung der Geschäftsführer stehen.
 
 
 ### § 8 Inhalt der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009406360)
 
 (1) Der Anmeldung müssen beigefügt sein:
 
@@ -336,6 +347,7 @@ Abs. 2 des Handelsgesetzbuchs entsprechend.
 
 
 ### § 9 Überbewertung der Sacheinlagen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009502140)
 
 (1) Erreicht der Wert einer Sacheinlage im Zeitpunkt der Anmeldung der
 Gesellschaft zur Eintragung in das Handelsregister nicht den
@@ -349,6 +361,7 @@ Handelsregister.
 
 
 ### § 9a Ersatzansprüche der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009601140)
 
 (1) Werden zum Zweck der Errichtung der Gesellschaft falsche Angaben
 gemacht, so haben die Gesellschafter und Geschäftsführer der
@@ -375,6 +388,7 @@ ordentlichen Geschäftsmannes kennen mußte.
 
 
 ### § 9b Verzicht auf Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009702140)
 
 (1) Ein Verzicht der Gesellschaft auf Ersatzansprüche nach § 9a oder
 ein Vergleich der Gesellschaft über diese Ansprüche ist unwirksam,
@@ -391,6 +405,7 @@ später begangen worden ist, mit der Vornahme der Handlung.
 
 
 ### § 9c Ablehnung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009802140)
 
 (1) Ist die Gesellschaft nicht ordnungsgemäß errichtet und angemeldet,
 so hat das Gericht die Eintragung abzulehnen. Dies gilt auch, wenn
@@ -419,6 +434,7 @@ Nichtigkeit
 
 
 ### § 10 Inhalt der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001203140)
 
 (1) Bei der Eintragung in das Handelsregister sind die Firma und der
 Sitz der Gesellschaft, eine inländische Geschäftsanschrift, der
@@ -442,6 +458,7 @@ bekannt war.
 
 
 ### § 11 Rechtszustand vor der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001301140)
 
 (1) Vor der Eintragung in das Handelsregister des Sitzes der
 Gesellschaft besteht die Gesellschaft mit beschränkter Haftung als
@@ -452,6 +469,7 @@ so haften die Handelnden persönlich und solidarisch.
 
 
 ### § 12 Bekanntmachungen der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001404360)
 
 Bestimmt das Gesetz oder der Gesellschaftsvertrag, dass von der
 Gesellschaft etwas bekannt zu machen ist, so erfolgt die
@@ -461,10 +479,12 @@ Informationsmedien als Gesellschaftsblätter bezeichnen.
 
 
 ## Abschnitt 2 - Rechtsverhältnisse der Gesellschaft und der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG001501140)
 
 
 
 ### § 13 Juristische Person; Handelsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001601140)
 
 (1) Die Gesellschaft mit beschränkter Haftung als solche hat
 selbständig ihre Rechte und Pflichten; sie kann Eigentum und andere
@@ -479,6 +499,7 @@ Handelsgesetzbuchs.
 
 
 ### § 14 Einlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001701140)
 
 Auf jeden Geschäftsanteil ist eine Einlage zu leisten. Die Höhe der zu
 leistenden Einlage richtet sich nach dem bei der Errichtung der
@@ -489,6 +510,7 @@ festgesetzten Nennbetrag des Geschäftsanteils.
 
 
 ### § 15 Übertragung von Geschäftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001801140)
 
 (1) Die Geschäftsanteile sind veräußerlich und vererblich.
 
@@ -511,6 +533,7 @@ der Genehmigung der Gesellschaft abhängig gemacht werden.
 
 
 ### § 16 Rechtsstellung bei Wechsel der Gesellschafter oder Veränderung des Umfangs ihrer Beteiligung; Erwerb vom Nichtberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE001901140)
 
 (1) Im Verhältnis zur Gesellschaft gilt im Fall einer Veränderung in
 den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung als
@@ -543,10 +566,12 @@ Widersprechenden muss nicht glaubhaft gemacht werden.
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002001140)
 
 
 
 ### § 18 Mitberechtigung am Geschäftsanteil
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002101140)
 
 (1) Steht ein Geschäftsanteil mehreren Mitberechtigten ungeteilt zu,
 so können sie die Rechte aus demselben nur gemeinschaftlich ausüben.
@@ -564,6 +589,7 @@ seit dem Anfall der Erbschaft vorgenommen werden.
 
 
 ### § 19 Leistung der Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009903140)
 
 (1) Die Einzahlungen auf die Geschäftsanteile sind nach dem Verhältnis
 der Geldeinlagen zu leisten.
@@ -613,6 +639,7 @@ nicht vor Ablauf von sechs Monaten ab dem Zeitpunkt der Eröffnung ein.
 
 
 ### § 20 Verzugszinsen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002301140)
 
 Ein Gesellschafter, welcher den auf die Stammeinlage eingeforderten
 Betrag nicht zur rechten Zeit einzahlt, ist zur Entrichtung von
@@ -620,6 +647,7 @@ Verzugszinsen von Rechts wegen verpflichtet.
 
 
 ### § 21 Kaduzierung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002401140)
 
 (1) Im Fall verzögerter Einzahlung kann an den säumigen Gesellschafter
 eine erneute Aufforderung zur Zahlung binnen einer zu bestimmenden
@@ -640,6 +668,7 @@ Gesellschafter verhaftet.
 
 
 ### § 22 Haftung der Rechtsvorgänger
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002501140)
 
 (1) Für eine von dem ausgeschlossenen Gesellschafter nicht erfüllte
 Einlageverpflichtung haftet der Gesellschaft auch der letzte und jeder
@@ -664,6 +693,7 @@ Betrags den Geschäftsanteil des ausgeschlossenen Gesellschafters.
 
 
 ### § 23 Versteigerung des Geschäftsanteils
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002602125)
 
 Ist die Zahlung des rückständigen Betrags von Rechtsvorgängern nicht
 zu erlangen, so kann die Gesellschaft den Geschäftsanteil im Wege
@@ -673,6 +703,7 @@ mit Zustimmung des ausgeschlossenen Gesellschafters zulässig.
 
 
 ### § 24 Aufbringung von Fehlbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002701140)
 
 Soweit eine Stammeinlage weder von den Zahlungspflichtigen eingezogen,
 noch durch Verkauf des Geschäftsanteils gedeckt werden kann, haben die
@@ -683,12 +714,14 @@ Verhältnis auf die übrigen verteilt.
 
 
 ### § 25 Zwingende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002801140)
 
 Von den in den §§ 21 bis 24 bezeichneten Rechtsfolgen können die
 Gesellschafter nicht befreit werden.
 
 
 ### § 26 Nachschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE002901140)
 
 (1) Im Gesellschaftsvertrag kann bestimmt werden, daß die
 Gesellschafter über die Nennbeträge der Geschäftsanteile hinaus die
@@ -704,6 +737,7 @@ Betrag beschränkt werden.
 
 
 ### § 27 Unbeschränkte Nachschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003001140)
 
 (1) Ist die Nachschußpflicht nicht auf einen bestimmten Betrag
 beschränkt, so hat jeder Gesellschafter, falls er die Stammeinlage
@@ -735,6 +769,7 @@ Geschäftsanteil eingeforderten Nachschüsse einen bestimmten Betrag
 
 
 ### § 28 Beschränkte Nachschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003101140)
 
 (1) Ist die Nachschußpflicht auf einen bestimmten Betrag beschränkt,
 so finden, wenn im Gesellschaftsvertrag nicht ein anderes festgesetzt
@@ -751,6 +786,7 @@ Stammeinlagen zulässig ist.
 
 
 ### § 29 Ergebnisverwendung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010002360)
 
 (1) Die Gesellschafter haben Anspruch auf den Jahresüberschuß
 zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags,
@@ -781,6 +817,7 @@ Bilanz gesondert auszuweisen; er kann auch im Anhang angegeben werden.
 
 
 ### § 30 Kapitalerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003302140)
 
 (1) Das zur Erhaltung des Stammkapitals erforderliche Vermögen der
 Gesellschaft darf an die Gesellschafter nicht ausgezahlt werden. Satz
@@ -802,6 +839,7 @@ Zurückgezahlte Nachschüsse gelten als nicht eingezogen.
 
 
 ### § 31 Erstattung verbotener Rückzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003402140)
 
 (1) Zahlungen, welche den Vorschriften des § 30 zuwider geleistet
 sind, müssen der Gesellschaft erstattet werden.
@@ -835,6 +873,7 @@ und 4 finden entsprechende Anwendung.
 
 
 ### § 32 Rückzahlung von Gewinn
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003501140)
 
 Liegt die in § 31 Abs. 1 bezeichnete Voraussetzung nicht vor, so sind
 die Gesellschafter in keinem Fall verpflichtet, Beträge, welche sie in
@@ -842,14 +881,17 @@ gutem Glauben als Gewinnanteile bezogen haben, zurückzuzahlen.
 
 
 ### § 32a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010107140)
 
 
 
 ### § 32b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010202140)
 
 
 
 ### § 33 Erwerb eigener Geschäftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010305360)
 
 (1) Die Gesellschaft kann eigene Geschäftsanteile, auf welche die
 Einlagen noch nicht vollständig geleistet sind, nicht erwerben oder
@@ -884,6 +926,7 @@ Zahlung an die Gesellschafter verwandt werden darf.
 
 
 ### § 34 Einziehung von Geschäftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003701140)
 
 (1) Die Einziehung (Amortisation) von Geschäftsanteilen darf nur
 erfolgen, soweit sie im Gesellschaftsvertrag zugelassen ist.
@@ -897,10 +940,12 @@ Gesellschaftsvertrag festgesetzt waren.
 
 
 ## Abschnitt 3 - Vertretung und Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG003801140)
 
 
 
 ### § 35 Vertretung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE003902140)
 
 (1) Die Gesellschaft wird durch die Geschäftsführer gerichtlich und
 außergerichtlich vertreten. Hat eine Gesellschaft keinen
@@ -931,6 +976,7 @@ Niederschrift aufzunehmen.
 
 
 ### § 35a Angaben auf Geschäftsbriefen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004003140)
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen
 bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der
@@ -966,6 +1012,7 @@ Tatsache sowie alle Liquidatoren anzugeben.
 
 
 ### § 36 Zielgrößen und Fristen zur gleichberechtigten Teilhabe von Frauen und Männern
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004103360)
 
 Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung
 unterliegt, legen für den Frauenanteil in den beiden Führungsebenen
@@ -984,6 +1031,7 @@ fünf Jahre sein.
 
 
 ### § 37 Beschränkungen der Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004201140)
 
 (1) Die Geschäftsführer sind der Gesellschaft gegenüber verpflichtet,
 die Beschränkungen einzuhalten, welche für den Umfang ihrer Befugnis,
@@ -1002,6 +1050,7 @@ Geschäfte erfordert ist.
 
 
 ### § 38 Widerruf der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004302360)
 
 (1) Die Bestellung der Geschäftsführer ist zu jeder Zeit widerruflich,
 unbeschadet der Entschädigungsansprüche aus bestehenden Verträgen.
@@ -1041,6 +1090,7 @@ wäre.
 
 
 ### § 39 Anmeldung der Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004404360)
 
 (1) Jede Änderung in den Personen der Geschäftsführer sowie die
 Beendigung der Vertretungsbefugnis eines Geschäftsführers ist zur
@@ -1060,6 +1110,7 @@ worden sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
 
 ### § 40 Liste der Gesellschafter, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004506360)
 
 (1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder
 Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer
@@ -1117,12 +1168,14 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 ### § 41 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004601140)
 
 Die Geschäftsführer sind verpflichtet, für die ordnungsmäßige
 Buchführung der Gesellschaft zu sorgen.
 
 
 ### § 42 Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010401140)
 
 (1) In der Bilanz des nach den §§ 242, 264 des Handelsgesetzbuchs
 aufzustellenden Jahresabschlusses ist das Stammkapital als
@@ -1146,6 +1199,7 @@ ausgewiesen, so muß diese Eigenschaft vermerkt werden.
 
 
 ### § 42a Vorlage des Jahresabschlusses und des Lageberichts
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010503140)
 
 (1) Die Geschäftsführer haben den Jahresabschluß und den Lagebericht
 unverzüglich nach der Aufstellung den Gesellschaftern zum Zwecke der
@@ -1178,6 +1232,7 @@ Gesellschafter die Offenlegung eines solchen beschlossen haben.
 
 
 ### § 43 Haftung der Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE004901140)
 
 (1) Die Geschäftsführer haben in den Angelegenheiten der Gesellschaft
 die Sorgfalt eines ordentlichen Geschäftsmannes anzuwenden.
@@ -1201,6 +1256,7 @@ fünf Jahren.
 
 
 ### § 43a Kreditgewährung aus Gesellschaftsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010601140)
 
 Den Geschäftsführern, anderen gesetzlichen Vertretern, Prokuristen
 oder zum gesamten Geschäftsbetrieb ermächtigten
@@ -1211,12 +1267,14 @@ entgegenstehende Vereinbarungen sofort zurückzugewähren.
 
 
 ### § 44 Stellvertreter von Geschäftsführern
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005001140)
 
 Die für die Geschäftsführer gegebenen Vorschriften gelten auch für
 Stellvertreter von Geschäftsführern.
 
 
 ### § 45 Rechte der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005101140)
 
 (1) Die Rechte, welche den Gesellschaftern in den Angelegenheiten der
 Gesellschaft, insbesondere in bezug auf die Führung der Geschäfte
@@ -1229,6 +1287,7 @@ finden die Vorschriften der §§ 46 bis 51 Anwendung.
 
 
 ### § 46 Aufgabenkreis der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005202140)
 
 Der Bestimmung der Gesellschafter unterliegen:
 
@@ -1277,6 +1336,7 @@ Der Bestimmung der Gesellschafter unterliegen:
 
 
 ### § 47 Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005303140)
 
 (1) Die von den Gesellschaftern in den Angelegenheiten der
 Gesellschaft zu treffenden Bestimmungen erfolgen durch Beschlußfassung
@@ -1295,6 +1355,7 @@ Rechtsstreits gegenüber einem Gesellschafter betrifft.
 
 
 ### § 48 Gesellschafterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005404125)
 
 (1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefaßt.
 Versammlungen können auch fernmündlich oder mittels Videokommunikation
@@ -1312,6 +1373,7 @@ aufzunehmen und zu unterschreiben.
 
 
 ### § 49 Einberufung der Versammlung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005501140)
 
 (1) Die Versammlung der Gesellschafter wird durch die Geschäftsführer
 berufen.
@@ -1326,6 +1388,7 @@ verloren ist.
 
 
 ### § 50 Minderheitsrechte
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005601140)
 
 (1) Gesellschafter, deren Geschäftsanteile zusammen mindestens dem
 zehnten Teil des Stammkapitals entsprechen, sind berechtigt, unter
@@ -1344,6 +1407,7 @@ ob die entstandenen Kosten von der Gesellschaft zu tragen sind.
 
 
 ### § 51 Form der Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005701140)
 
 (1) Die Berufung der Versammlung erfolgt durch Einladung der
 Gesellschafter mittels eingeschriebener Briefe. Sie ist mit einer
@@ -1362,6 +1426,7 @@ vorgeschriebenen Weise angekündigt worden sind.
 
 
 ### § 51a Auskunfts- und Einsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010701140)
 
 (1) Die Geschäftsführer haben jedem Gesellschafter auf Verlangen
 unverzüglich Auskunft über die Angelegenheiten der Gesellschaft zu
@@ -1379,6 +1444,7 @@ abgewichen werden.
 
 
 ### § 51b Gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010802301)
 
 Für die gerichtliche Entscheidung über das Auskunfts- und
 Einsichtsrecht findet § 132 Abs. 1, 3 und 4 des Aktiengesetzes
@@ -1388,6 +1454,7 @@ nicht gestattet worden ist.
 
 
 ### § 52 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE005810360)
 
 (1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen,
 so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und
@@ -1432,10 +1499,12 @@ wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
 
 
 ## Abschnitt 4 - Abänderungen des Gesellschaftsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG005901140)
 
 
 
 ### § 53 Form der Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006002360)
 
 (1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluss
 der Gesellschafter erfolgen.
@@ -1454,6 +1523,7 @@ sämtlicher beteiligter Gesellschafter beschlossen werden.
 
 
 ### § 54 Anmeldung und Eintragung der Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006103140)
 
 (1) Die Abänderung des Gesellschaftsvertrags ist zur Eintragung in das
 Handelsregister anzumelden. Der Anmeldung ist der vollständige
@@ -1473,6 +1543,7 @@ Handelsregister des Sitzes der Gesellschaft eingetragen ist.
 
 
 ### § 55 Erhöhung des Stammkapitals
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006203360)
 
 (1) Wird eine Erhöhung des Stammkapitals beschlossen, so bedarf es zur
 Übernahme jedes Geschäftsanteils an dem erhöhten Kapital einer
@@ -1501,6 +1572,7 @@ Geschäftsanteile anzuwenden.
 
 
 ### § 55a Genehmigtes Kapital
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015000140)
 
 (1) Der Gesellschaftsvertrag kann die Geschäftsführer für höchstens
 fünf Jahre nach Eintragung der Gesellschaft ermächtigen, das
@@ -1518,6 +1590,7 @@ werden, wenn die Ermächtigung es vorsieht.
 
 
 ### § 56 Kapitalerhöhung mit Sacheinlagen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE010901140)
 
 (1) Sollen Sacheinlagen geleistet werden, so müssen ihr Gegenstand und
 der Nennbetrag des Geschäftsanteils, auf den sich die Sacheinlage
@@ -1530,12 +1603,14 @@ Anwendung.
 
 
 ### § 56a Leistungen auf das neue Stammkapital
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011001140)
 
 Für die Leistungen der Einlagen auf das neue Stammkapital finden § 7
 Abs. 2 Satz 1 und Abs. 3 sowie § 19 Abs. 5 entsprechende Anwendung.
 
 
 ### § 57 Anmeldung der Erhöhung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006402360)
 
 (1) Die beschlossene Erhöhung des Stammkapitals ist zur Eintragung in
 das Handelsregister anzumelden, nachdem das erhöhte Kapital durch
@@ -1573,16 +1648,19 @@ haben, finden § 9a Abs. 1 und 3, § 9b entsprechende Anwendung.
 
 
 ### § 57a Ablehnung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011102140)
 
 Für die Ablehnung der Eintragung durch das Gericht findet § 9c Abs. 1
 entsprechende Anwendung.
 
 
 ### § 57b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011201140)
 
 
 
 ### § 57c Kapitalerhöhung aus Gesellschaftsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE012601140)
 
 (1) Das Stammkapital kann durch Umwandlung von Rücklagen in
 Stammkapital erhöht werden (Kapitalerhöhung aus Gesellschaftsmitteln).
@@ -1601,6 +1679,7 @@ Gesellschaftsvertrags gelten die §§ 57d bis 57o.
 
 
 ### § 57d Ausweisung von Kapital- und Gewinnrücklagen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE012701140)
 
 (1) Die Kapital- und Gewinnrücklagen, die in Stammkapital umgewandelt
 werden sollen, müssen in der letzten Jahresbilanz und, wenn dem
@@ -1619,6 +1698,7 @@ Zweckbestimmung vereinbar ist.
 
 
 ### § 57e Zugrundelegung der letzten Jahresbilanz; Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE012801140)
 
 (1) Dem Beschluß kann die letzte Jahresbilanz zugrunde gelegt werden,
 wenn die Jahresbilanz geprüft und die festgestellte Jahresbilanz mit
@@ -1633,6 +1713,7 @@ Gesellschafter gewählt sein.
 
 
 ### § 57f Anforderungen an die Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE012905360)
 
 (1) Wird dem Beschluß nicht die letzte Jahresbilanz zugrunde gelegt,
 so muß die Bilanz den Vorschriften über die Gliederung der
@@ -1667,6 +1748,7 @@ zu Prüfern bestellt werden.
 
 
 ### § 57g Vorherige Bekanntgabe des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013001140)
 
 Die Bestimmungen des Gesellschaftsvertrags über die vorherige
 Bekanntgabe des Jahresabschlusses an die Gesellschafter sind in den
@@ -1674,6 +1756,7 @@ Fällen des § 57f entsprechend anzuwenden.
 
 
 ### § 57h Arten der Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013102140)
 
 (1) Die Kapitalerhöhung kann vorbehaltlich des § 57l Abs. 2 durch
 Bildung neuer Geschäftsanteile oder durch Erhöhung des Nennbetrags der
@@ -1690,6 +1773,7 @@ des Geschäftsanteils nicht gedeckt werden können.
 
 
 ### § 57i Anmeldung und Eintragung des Erhöhungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013202140)
 
 (1) Der Anmeldung des Beschlusses über die Erhöhung des Stammkapitals
 zur Eintragung in das Handelsregister ist die der Kapitalerhöhung
@@ -1715,6 +1799,7 @@ eine Kapitalerhöhung aus Gesellschaftsmitteln handelt.
 
 
 ### § 57j Verteilung der Geschäftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013301140)
 
 Die neuen Geschäftsanteile stehen den Gesellschaftern im Verhältnis
 ihrer bisherigen Geschäftsanteile zu. Ein entgegenstehender Beschluß
@@ -1722,6 +1807,7 @@ der Gesellschafter ist nichtig.
 
 
 ### § 57k Teilrechte; Ausübung der Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013401140)
 
 (1) Führt die Kapitalerhöhung dazu, daß auf einen Geschäftsanteil nur
 ein Teil eines neuen Geschäftsanteils entfällt, so ist dieses
@@ -1737,6 +1823,7 @@ zusammenschließen.
 
 
 ### § 57l Teilnahme an der Erhöhung des Stammkapitals
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013501140)
 
 (1) Eigene Geschäftsanteile nehmen an der Erhöhung des Stammkapitals
 teil.
@@ -1753,6 +1840,7 @@ können auf jeden Betrag gestellt werden, der auf volle Euro lautet.
 
 
 ### § 57m Verhältnis der Rechte; Beziehungen zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013601140)
 
 (1) Das Verhältnis der mit den Geschäftsanteilen verbundenen Rechte
 zueinander wird durch die Kapitalerhöhung nicht berührt.
@@ -1775,6 +1863,7 @@ Kapitalerhöhung nicht berührt.
 
 
 ### § 57n Gewinnbeteiligung der neuen Geschäftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013702140)
 
 (1) Die neuen Geschäftsanteile nehmen, wenn nichts anderes bestimmt
 ist, am Gewinn des ganzen Geschäftsjahres teil, in dem die Erhöhung
@@ -1800,6 +1889,7 @@ Nichtigkeitsklage rechtshängig ist.
 
 
 ### § 57o Anschaffungskosten
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013801140)
 
 Als Anschaffungskosten der vor der Erhöhung des Stammkapitals
 erworbenen Geschäftsanteile und der auf sie entfallenden neuen
@@ -1812,6 +1902,7 @@ Geschäftsanteilen ist nicht als Zugang auszuweisen.
 
 
 ### § 58 Herabsetzung des Stammkapitals
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006503140)
 
 (1) Eine Herabsetzung des Stammkapitals kann nur unter Beobachtung der
 nachstehenden Bestimmungen erfolgen:
@@ -1852,6 +1943,7 @@ nicht unter den in § 5 Abs. 2 und 3 bezeichneten Betrag herabgehen.
 
 
 ### § 58a Vereinfachte Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE013903140)
 
 (1) Eine Herabsetzung des Stammkapitals, die dazu dienen soll,
 Wertminderungen auszugleichen oder sonstige Verluste zu decken, kann
@@ -1883,6 +1975,7 @@ Gesellschaftsvertrags gelten die §§ 58b bis 58f.
 
 
 ### § 58b Beträge aus Rücklagenauflösung und Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014001140)
 
 (1) Die Beträge, die aus der Auflösung der Kapital- oder
 Gewinnrücklagen und aus der Kapitalherabsetzung gewonnen werden,
@@ -1917,6 +2010,7 @@ Geschäftsjahrs nur verwandt werden
 
 
 ### § 58c Nichteintritt angenommener Verluste
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014101140)
 
 Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in
 dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder für
@@ -1929,6 +2023,7 @@ sinngemäß.
 
 
 ### § 58d Gewinnausschüttung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014203360)
 
 (1) Gewinn darf vor Ablauf des fünften nach der Beschlußfassung über
 die Kapitalherabsetzung beginnenden Geschäftsjahrs nur ausgeschüttet
@@ -1956,6 +2051,7 @@ Unternehmensregister zu übermitteln ist.
 
 
 ### § 58e Beschluss über die Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014302140)
 
 (1) Im Jahresabschluß für das letzte vor der Beschlußfassung über die
 Kapitalherabsetzung abgelaufene Geschäftsjahr können das Stammkapital
@@ -1979,6 +2075,7 @@ offengelegt werden.
 
 
 ### § 58f Kapitalherabsetzung bei gleichzeitiger Erhöhung des Stammkapitals
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE014402140)
 
 (1) Wird im Fall des § 58e zugleich mit der Kapitalherabsetzung eine
 Erhöhung des Stammkapitals beschlossen, so kann auch die
@@ -2003,14 +2100,17 @@ Kapitalherabsetzung und Kapitalerhöhung eingetragen worden sind.
 
 
 ### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006601377)
 
 
 
 ## Abschnitt 5 - Auflösung und Nichtigkeit der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG006701140)
 
 
 
 ### § 60 Auflösungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006804140)
 
 (1) Die Gesellschaft mit beschränkter Haftung wird aufgelöst:
 
@@ -2056,6 +2156,7 @@ festgesetzt werden.
 
 
 ### § 61 Auflösung durch Urteil
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE006901140)
 
 (1) Die Gesellschaft kann durch gerichtliches Urteil aufgelöst werden,
 wenn die Erreichung des Gesellschaftszweckes unmöglich wird, oder wenn
@@ -2071,6 +2172,7 @@ dessen Bezirk die Gesellschaft ihren Sitz hat.
 
 
 ### § 62 Auflösung durch eine Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007001140)
 
 (1) Wenn eine Gesellschaft das Gemeinwohl dadurch gefährdet, daß die
 Gesellschafter gesetzwidrige Beschlüsse fassen oder gesetzwidrige
@@ -2083,14 +2185,17 @@ den für streitige Verwaltungssachen ... geltenden Vorschriften.
 
 
 ### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007101307)
 
 
 
 ### § 64 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007203360)
 
 
 
 ### § 65 Anmeldung und Eintragung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007305140)
 
 (1) Die Auflösung der Gesellschaft ist zur Eintragung in das
 Handelsregister anzumelden. Dies gilt nicht in den Fällen der
@@ -2108,6 +2213,7 @@ derselben zu melden.
 
 
 ### § 66 Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007405360)
 
 (1) In den Fällen der Auflösung außer dem Fall des Insolvenzverfahrens
 erfolgt die Liquidation durch die Geschäftsführer, wenn nicht dieselbe
@@ -2136,6 +2242,7 @@ das Gericht zu ernennen.
 
 
 ### § 67 Anmeldung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007504360)
 
 (1) Die ersten Liquidatoren sowie ihre Vertretungsbefugnis sind durch
 die Geschäftsführer, jeder Wechsel der Liquidatoren und jede Änderung
@@ -2160,6 +2267,7 @@ Liquidatoren geschieht von Amts wegen.
 
 
 ### § 68 Zeichnung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007602125)
 
 (1) Die Liquidatoren haben in der bei ihrer Bestellung bestimmten Form
 ihre Willenserklärungen kundzugeben und für die Gesellschaft zu
@@ -2171,6 +2279,7 @@ die Liquidation hinweisender Zusatz hinzuzufügen.
 
 
 ### § 69 Rechtsverhältnisse von Gesellschaft und Gesellschaftern
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007701140)
 
 (1) Bis zur Beendigung der Liquidation kommen ungeachtet der Auflösung
 der Gesellschaft in bezug auf die Rechtsverhältnisse derselben und der
@@ -2184,6 +2293,7 @@ bestehen.
 
 
 ### § 70 Aufgaben der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE007801140)
 
 Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die
 Verpflichtungen der aufgelösten Gesellschaft zu erfüllen, die
@@ -2194,6 +2304,7 @@ können die Liquidatoren auch neue Geschäfte eingehen.
 
 
 ### § 71 Eröffnungsbilanz; Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011303360)
 
 (1) Die Liquidatoren haben für den Beginn der Liquidation eine Bilanz
 (Eröffnungsbilanz) und einen die Eröffnungsbilanz erläuternden Bericht
@@ -2225,6 +2336,7 @@ in Liquidation befindet; im Übrigen gilt § 35a entsprechend.
 
 
 ### § 72 Vermögensverteilung
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008001140)
 
 Das Vermögen der Gesellschaft wird unter die Gesellschafter nach
 Verhältnis ihrer Geschäftsanteile verteilt. Durch den
@@ -2233,6 +2345,7 @@ bestimmt werden.
 
 
 ### § 73 Sperrjahr
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008103140)
 
 (1) Die Verteilung darf nicht vor Tilgung oder Sicherstellung der
 Schulden der Gesellschaft und nicht vor Ablauf eines Jahres seit dem
@@ -2253,6 +2366,7 @@ entsprechende Anwendung.
 
 
 ### § 74 Schluss der Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008203140)
 
 (1) Ist die Liquidation beendet und die Schlußrechnung gelegt, so
 haben die Liquidatoren den Schluß der Liquidation zur Eintragung in
@@ -2270,6 +2384,7 @@ von dem Gericht zur Einsicht ermächtigt werden.
 
 
 ### § 75 Nichtigkeitsklage
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008302140)
 
 (1) Enthält der Gesellschaftsvertrag keine Bestimmungen über die Höhe
 des Stammkapitals oder über den Gegenstand des Unternehmens oder sind
@@ -2284,6 +2399,7 @@ entsprechende Anwendung.
 
 
 ### § 76 Heilung von Mängeln durch Gesellschafterbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008401140)
 
 Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens
 betrifft, kann durch einstimmigen Beschluß der Gesellschafter geheilt
@@ -2291,6 +2407,7 @@ werden.
 
 
 ### § 77 Wirkung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008501140)
 
 (1) Ist die Nichtigkeit einer Gesellschaft in das Handelsregister
 eingetragen, so finden zum Zwecke der Abwicklung ihrer Verhältnisse
@@ -2307,10 +2424,12 @@ erforderlich ist.
 
 
 ## Abschnitt 6 - Sondervorschriften bei Beteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG008700360)
 
 
 
 ### § 77a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015500360)
 
 (1) Gesellschaften mit beschränkter Haftung mit Mehrheitsbeteiligung
 des Bundes sind Gesellschaften mit beschränkter Haftung mit Sitz im
@@ -2370,10 +2489,12 @@ Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
 
 
 ## Abschnitt 7 - Ordnungs-, Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNG008602360)
 
 
 
 ### § 78 Anmeldepflichtige
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008702140)
 
 Die in diesem Gesetz vorgesehenen Anmeldungen zum Handelsregister sind
 durch die Geschäftsführer oder die Liquidatoren, die in § 7 Abs. 1, §
@@ -2382,6 +2503,7 @@ sind durch sämtliche Geschäftsführer zu bewirken.
 
 
 ### § 79 Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE008802140)
 
 (1) Geschäftsführer oder Liquidatoren, die §§ 35a, 71 Abs. 5 nicht
 befolgen, sind hierzu vom Registergericht durch Festsetzung von
@@ -2397,14 +2519,17 @@ statt.
 
 
 ### § 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011400308)
 
 
 
 ### § 81 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011800308)
 
 
 
 ### § 82 Falsche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011503140)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2455,10 +2580,12 @@ falsche Angaben macht.
 
 
 ### § 83 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE009000308)
 
 
 
 ### § 84 Verletzung der Verlustanzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011603140)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer es als Geschäftsführer unterläßt, den Gesellschaftern
@@ -2469,6 +2596,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 85 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE011701140)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis der Gesellschaft, namentlich ein Betriebs-
@@ -2493,6 +2621,7 @@ Geschäftsführer oder die Liquidatoren antragsberechtigt.
 
 
 ### § 86 Verletzung der Pflichten bei Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015202360)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines
@@ -2512,6 +2641,7 @@ Handelsgesetzbuchs ist,
 
 
 ### § 87 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015302360)
 
 (1) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats oder
 als Mitglied eines Prüfungsausschusses einer Gesellschaft, die ein
@@ -2566,6 +2696,7 @@ Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
 
 
 ### § 88 Mitteilungen an die Abschlussprüferaufsichtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015400123)
 
 (1) Die nach § 87 Absatz 5 zuständige Verwaltungsbehörde übermittelt
 der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
@@ -2580,11 +2711,13 @@ das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### Anlage 1 (zu § 2 Abs. 1a)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015101360)
 
 (Fundstelle: BGBl. I 2008, 2044 - 2045)
 
 
 ### Anlage 2 (zu § 2 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html#BJNR004770892BJNE015600360)
 
 (Fundstelle: BGBl. I 2021, 3364 - 3366)
 

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000100000)
 
 Auf Grund des § 51a Abs. 2 in Verbindung mit Abs. 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -35,6 +36,7 @@ Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000200000)
 
 Die Meisterprüfung im zulassungsfreien Buchbinder-Handwerk umfasst
 folgende selbständige Prüfungsteile:
@@ -57,6 +59,7 @@ folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000300000)
 
 (1) Durch die Meisterprüfung wird festgestellt, dass der Prüfling
 befähigt ist, einen Betrieb zu führen, technische, kaufmännische und
@@ -141,6 +144,7 @@ berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -154,6 +158,7 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Vorschläge des Prüflings für den
@@ -198,6 +203,7 @@ gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000600000)
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das
 Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er
@@ -209,6 +215,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Qualifikationsnachweis für die Meisterprüfung im Buchbinder-
@@ -245,6 +252,7 @@ arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000800000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 vier Arbeitstage, das Fachgespräch nicht länger als 30 Minuten und die
@@ -264,6 +272,7 @@ sein darf.
 
 
 ## § 8 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE000901360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 genannten Handlungsfeldern seine Handlungskompetenz dadurch
@@ -455,6 +464,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE001002128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -465,6 +475,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE001101360)
 
 Die Regelungen des § 8 Absatz 6 und 7 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -472,6 +483,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/buchbmstrv_2006/BJNR115200006.html#BJNR115200006BJNE001200000)
 
 Diese Verordnung tritt am 1. September 2006 in Kraft.
 

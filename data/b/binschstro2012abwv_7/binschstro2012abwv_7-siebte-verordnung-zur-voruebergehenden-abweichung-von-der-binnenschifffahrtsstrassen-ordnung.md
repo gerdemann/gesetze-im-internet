@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 4 mit Ablauf des 31.5.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_7/BJNR08F0A0024.html#BJNR08F0A0024BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 14 des
 Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
@@ -30,6 +31,7 @@ verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
 
 
 ## § 1 Abweichende Regelungen zur Binnenschifffahrtsstraßen-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_7/BJNR08F0A0024.html#BJNR08F0A0024BJNE000200000)
 
 Die Binnenschifffahrtsstraßen-Ordnung ist mit den Maßgaben anzuwenden,
 die sich aus den im Anhang aufgeführten vorübergehenden Regelungen
@@ -37,6 +39,7 @@ ergeben.
 
 
 ## § 2 Verhaltenspflichten des Schiffsführers oder der Schiffsführerin
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_7/BJNR08F0A0024.html#BJNR08F0A0024BJNE000300000)
 
 (1) Der Schiffsführer oder die Schiffsführerin hat die folgenden
 Vorschriften einzuhalten oder sicherzustellen, dass diese eingehalten
@@ -62,6 +65,7 @@ der Binnenschifffahrtsstraßen-Ordnung sind nicht anzuwenden.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_7/BJNR08F0A0024.html#BJNR08F0A0024BJNE000400000)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -86,6 +90,7 @@ des Anhangs zu dieser Verordnung zuwiderhandelt.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_7/BJNR08F0A0024.html#BJNR08F0A0024BJNE000500000)
 
 Diese Verordnung tritt am 1. Juni 2024 in Kraft und mit Ablauf des 31.
 Mai 2027 außer Kraft.
@@ -93,6 +98,7 @@ Mai 2027 außer Kraft.
 (zu § 1)
 
 ## Anhang Abweichungen zur Binnenschifffahrtsstraßen-Ordnung (BinSchStrO)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_7/BJNR08F0A0024.html#BJNR08F0A0024BJNE000600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 143, S. 3 - 4, Nr. 180, S. 1 - 2)
 

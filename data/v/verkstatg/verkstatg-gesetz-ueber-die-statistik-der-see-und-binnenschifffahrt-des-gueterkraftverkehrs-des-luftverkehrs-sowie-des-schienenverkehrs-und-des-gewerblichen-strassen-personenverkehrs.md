@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNG000102310)
 
 
 
 ### § 1 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE000602310)
 
 Zur Beurteilung der Struktur und der Entwicklung des See- und
 Binnenschiffsverkehrs, des Güterkraftverkehrs, des Luftverkehrs sowie
@@ -82,10 +84,12 @@ als Bundesstatistik durchgeführt.
 
 
 ## Abschnitt 2 - Statistik der See- und Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNG000202310)
 
 
 
 ### § 2 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE000701310)
 
 (1) Die Erhebung nach § 1 Nr. 1 erfasst, sofern Satz 2 nichts anderes
 bestimmt, alle Binnen- oder Seeschiffe zur gewerbsmäßigen
@@ -113,6 +117,7 @@ betreiben.
 
 
 ### § 3 Schifffahrtsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE000802126)
 
 Die Erhebung nach § 1 Nr. 1 erfasst laufend folgende
 Erhebungsmerkmale:
@@ -158,6 +163,7 @@ Erhebungsmerkmale:
 
 
 ### § 4 Unternehmensstatistik der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE000901310)
 
 (1) Die Erhebung nach § 1 Nr. 2 erfasst jährlich folgende
 Erhebungsmerkmale:
@@ -189,6 +195,7 @@ abgeschlossene Geschäftsjahr.
 
 
 ### § 5 Anschriftenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001003116)
 
 (1) Für die Durchführung der Erhebung nach § 1 Nr. 1 übermitteln den
 statistischen Ämtern der Länder und dem Statistischen Bundesamt
@@ -247,10 +254,12 @@ Statistischen Bundesamt auf Anforderung
 
 
 ## Abschnitt 3 - Statistik des Güterkraftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNG000302310)
 
 
 
 ### § 6 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001102310)
 
 (1) Die Erhebung nach § 1 Nr. 3 erfasst Verkehrsleistungen des
 gewerblichen Güterkraftverkehrs und des Werkverkehrs. Sie erstreckt
@@ -282,6 +291,7 @@ Gesamtgewicht einsetzen. Auswahlgrundlage für die Erhebung ist:
 
 
 ### § 7 Güterkraftverkehrsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001202126)
 
 (1) Die Erhebung nach § 1 Nr. 3 erfasst laufend folgende
 Erhebungsmerkmale:
@@ -385,6 +395,7 @@ Uhr bis Mittwoch 24.00 Uhr und von Donnerstag 0.00 Uhr bis Sonntag
 
 
 ### § 8 Unternehmensstatistik des Güterkraftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001303310)
 
 (1) Für die Erhebung nach § 1 Nr. 4 werden jährlich folgende
 Erhebungsmerkmale erfasst:
@@ -430,6 +441,7 @@ abgeschlossene Geschäftsjahr erhoben.
 
 
 ### § 9 Kennzeichenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001403126)
 
 (1) Zur Durchführung der Güterkraftverkehrsstatistik nach § 1 Nr. 3
 übermittelt
@@ -462,6 +474,7 @@ ermittelten fahrzeugbezogenen Merkmale nach § 8 Abs. 1 Nr. 2 mitteilt.
 
 
 ### § 10 Vernichtung von Erhebungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001503126)
 
 (1) Jeweils spätestens drei Monate nach Veröffentlichung eines
 Beförderungsmonats sind beim Kraftfahrt-Bundesamt die
@@ -473,10 +486,12 @@ Erhebung nach § 1 Nr. 4 zu vernichten.
 
 
 ## Abschnitt 4 - Statistik des Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNG000501310)
 
 
 
 ### § 11 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002301310)
 
 (1) Die Erhebung nach § 1 Nr. 5 erfasst den gewerblichen und
 nichtgewerblichen Luftverkehr auf Flugplätzen.
@@ -486,6 +501,7 @@ gewerbsmäßig Luftverkehr zur Güter- und Personenbeförderung betreiben.
 
 
 ### § 12 Luftverkehrsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002401310)
 
 (1) Die Erhebung nach § 1 Nr. 5 zum gewerblichen Luftverkehr erfasst
 auf Flugplätzen mit mehr als 150.000 Fluggasteinheiten im Vorjahr bei
@@ -552,6 +568,7 @@ und Luftfahrzeugmustern.
 
 
 ### § 13 Unternehmensstatistik der Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002501310)
 
 (1) Die Erhebung nach § 1 Nr. 6 erfasst jährlich folgende
 Erhebungsmerkmale:
@@ -579,6 +596,7 @@ Absatz 1 Nr. 4 werden für das Berichtsjahr erfasst.
 
 
 ### § 14 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002601310)
 
 Berichtsjahr für die jährlichen Erhebungen nach § 1 Nr. 5 und 6 ist
 das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das im
@@ -586,6 +604,7 @@ vorangegangenen Kalenderjahr abgelaufene Geschäftsjahr.
 
 
 ### § 15 Anschriftenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002701310)
 
 Für die Durchführung der Erhebung nach § 1 Nr. 6 übermitteln das
 Luftfahrt-Bundesamt und die auf Landesebene zuständigen Behörden auf
@@ -594,10 +613,12 @@ Luftverkehr betreibenden Unternehmen.
 
 
 ## Abschnitt 5 - Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNG000601310)
 
 
 
 ### § 16 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002802126)
 
 (1) Die Erhebung nach § 1 Nr. 7 wird durchgeführt bei Unternehmen, die
 als Betriebsführer oder beauftragte Beförderer öffentlichen
@@ -668,6 +689,7 @@ die Eisenbahnstrecken des öffentlichen Verkehrs betreiben.
 
 
 ### § 17 Personenverkehrsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002902126)
 
 (1) Die Erhebung nach § 1 Nr. 7 in Verbindung mit § 16 Abs. 1 Satz 1
 Nr. 1 erfasst folgende Erhebungsmerkmale:
@@ -754,6 +776,7 @@ in denen die fünfjährliche Erhebung nach Absatz 3 durchgeführt wird.
 
 
 ### § 18 Schienen-Personenfernverkehrsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003001310)
 
 (1) Die Erhebung nach § 1 Nr. 8 in Verbindung mit § 16 Abs. 2 erfasst
 folgende Erhebungsmerkmale:
@@ -807,6 +830,7 @@ Berichtsjahres erfasst.
 
 
 ### § 19 Schienen-Güterverkehrsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003102126)
 
 (1) Die Erhebung nach § 1 Nr. 9 in Verbindung mit § 16 Abs. 3 Nr. 1
 erfasst folgende Erhebungsmerkmale:
@@ -880,6 +904,7 @@ Berichtsjahres erfasst.
 
 
 ### § 20 Schieneninfrastrukturstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003201310)
 
 Die Erhebung nach § 1 Nr. 10 in Verbindung mit § 16 Abs. 4 erfasst
 folgende Erhebungsmerkmale:
@@ -926,6 +951,7 @@ Berichtsjahres erfasst.
 
 
 ### § 21 Schienenverkehrsunfallstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003302126)
 
 Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Absatz 5 erfasst
 jährlich für Verkehrsunfälle auf Schienenstrecken des öffentlichen
@@ -952,6 +978,7 @@ Verkehrsunfälle darstellen.
 
 
 ### § 22 Statistik der Verkehrsströme im Eisenbahnnetz
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003401310)
 
 Die Erhebung nach § 1 Nr. 12 in Verbindung mit § 16 Abs. 5 erfasst
 fünfjährlich die Zahl der Züge im Personen- und im Güterverkehr nach
@@ -959,6 +986,7 @@ Netzabschnitten.
 
 
 ### § 23 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003501310)
 
 (1) Berichtszeitraum für die Erhebungen nach § 1 Nr. 7 bis 12 ist für
 die
@@ -985,6 +1013,7 @@ durchgeführt wird.
 
 
 ### § 24 Anschriftenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE003601310)
 
 (1) Die Genehmigungsbehörden nach § 11 des
 Personenbeförderungsgesetzes und die für die Eisenbahnen des Bundes
@@ -1014,10 +1043,12 @@ inländischen Betriebe dieser Unternehmen.
 
 
 ## Abschnitt 6 - Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNG000402310)
 
 
 
 ### § 25 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001603126)
 
 Hilfsmerkmale der Erhebungen nach § 1 Nr. 1 bis 12 sind:
 
@@ -1066,6 +1097,7 @@ Hilfsmerkmale der Erhebungen nach § 1 Nr. 1 bis 12 sind:
 
 
 ### § 26 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001704126)
 
 (1) Für die Erhebungen nach § 1 besteht hinsichtlich der Erhebungs-
 und Hilfsmerkmale nach den §§ 3, 4, 7, 8, 12, 13, 17 bis 22 und 25
@@ -1197,6 +1229,7 @@ vereinbart hat.
 
 
 ### § 27 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001804126)
 
 (1) Die Erhebungen nach § 1 Nr. 1 in Verbindung mit § 2 Abs. 1 Satz 1
 Nr. 2 (Schifffahrtsstatistik, Durchgangsverkehr), nach § 1 Nr. 2 in
@@ -1241,6 +1274,7 @@ Länder dem Statistischen Bundesamt.
 
 
 ### § 28 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE001903126)
 
 (1) An oberste Bundes- oder Landesbehörden dürfen für die Verwendung
 gegenüber den gesetzgebenden Körperschaften und für Zwecke der
@@ -1273,6 +1307,7 @@ erforderlich ist.
 
 
 ### § 29 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002004126)
 
 (1) Es veröffentlichen
 
@@ -1317,6 +1352,7 @@ Unternehmen nicht veröffentlicht wird.
 
 
 ### § 30 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002104116)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für
@@ -1330,6 +1366,7 @@ anzuordnen.
 
 
 ### § 31 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verkstatg/BJNR245210999.html#BJNR245210999BJNE002203126)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist für die Verfolgung und Ahndung von

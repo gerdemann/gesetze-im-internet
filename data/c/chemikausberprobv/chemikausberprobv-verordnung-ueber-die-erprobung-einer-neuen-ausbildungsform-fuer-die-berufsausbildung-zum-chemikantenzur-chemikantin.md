@@ -22,6 +22,7 @@ Geändert durch
 Stand: Die V tritt gem. § 6 idF d. Art. 7 Nr. 4 V v. 17.7.2007 I 1402 mit Ausnahme des § 5 am 31.7.2009 außer Kraft.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chemikausberprobv/BJNR183400002.html#BJNR183400002BJNE000000000)
 
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 3 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausberprobv/BJNR183400002.html#BJNR183400002BJNE000301308)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
 zur Verordnung über die Berufsausbildung zum Chemikanten/zur
@@ -222,6 +224,7 @@ Abschlussprüfung haben dasselbe Gewicht.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausberprobv/BJNR183400002.html#BJNR183400002BJNE000502308)
 
 Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2009 begonnen
 werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.

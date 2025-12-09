@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abrstv/BJNR292600005.html#BJNR292600005BJNE000100000)
 
 Auf Grund des Artikels 31 Abs. 2 des Scheckgesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 4132-1, veröffentlichten
@@ -27,12 +28,14 @@ Bundesministerium der Justiz:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/abrstv/BJNR292600005.html#BJNR292600005BJNE000200000)
 
 Die Deutsche Bundesbank ist Abrechnungsstelle im Sinne des Artikels 31
 Abs. 1 des Scheckgesetzes.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/abrstv/BJNR292600005.html#BJNR292600005BJNE000300000)
 
 (1) Schecks können in die Abrechnungsstelle eingeliefert werden, wenn
 der Einlieferer sowie der Bezogene oder der Dritte, bei dem der Scheck
@@ -47,6 +50,7 @@ vollständig abbildet, übermittelt wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/abrstv/BJNR292600005.html#BJNR292600005BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über Abrechnungsstellen im Wechsel-

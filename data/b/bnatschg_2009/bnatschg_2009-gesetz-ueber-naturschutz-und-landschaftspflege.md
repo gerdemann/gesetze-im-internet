@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Das G tritt gem. Art. 27 Satz 1 G v. 29.7.2009 I 2542 am 1.3.2010 in Kraft
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000100000)
 
 
 ### § 1 Ziele des Naturschutzes und der Landschaftspflege
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000201126)
 
 (1) Natur und Landschaft sind auf Grund ihres eigenen Wertes und als
 Grundlage für Leben und Gesundheit des Menschen auch in Verantwortung
@@ -175,6 +177,7 @@ Fläche nur für einen begrenzten Zeitraum verbessern.
 
 
 ### § 2 Verwirklichung der Ziele
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000301126)
 
 (1) Jeder soll nach seinen Möglichkeiten zur Verwirklichung der Ziele
 des Naturschutzes und der Landschaftspflege beitragen und sich so
@@ -237,6 +240,7 @@ für den Naturschutz. Bestandteil freiwilliger Vereinbarungen nach Satz
 
 
 ### § 3 Zuständigkeiten, Aufgaben und Befugnisse, vertragliche Vereinbarungen, Zusammenarbeit der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000400000)
 
 (1) Die für Naturschutz und Landschaftspflege zuständigen Behörden im
 Sinne dieses Gesetzes sind
@@ -292,6 +296,7 @@ Aufgaben durch Landesrecht übertragen worden sind.
 
 
 ### § 4 Funktionssicherung bei Flächen für öffentliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000500000)
 
 Bei Maßnahmen des Naturschutzes und der Landschaftspflege ist auf
 Flächen, die ausschließlich oder überwiegend Zwecken
@@ -327,6 +332,7 @@ berücksichtigen.
 
 
 ### § 5 Land-, Forst- und Fischereiwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000602124)
 
 (1) Bei Maßnahmen des Naturschutzes und der Landschaftspflege ist die
 besondere Bedeutung einer natur- und landschaftsverträglichen Land-,
@@ -391,6 +397,7 @@ nachhaltigen Ertrages erforderliche Maß zu beschränken.
 
 
 ### § 6 Beobachtung von Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000702118)
 
 (1) Der Bund und die Länder beobachten im Rahmen ihrer Zuständigkeiten
 Natur und Landschaft (allgemeiner Grundsatz).
@@ -449,6 +456,7 @@ Geschäftsgeheimnissen bleiben unberührt.
 
 
 ### § 7 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000805119)
 
 (1) Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
@@ -778,9 +786,11 @@ als vom Aussterben bedroht bezeichnet waren.
 
 
 ## Kapitel 2 - Landschaftsplanung
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000200000)
 
 
 ### § 8 Allgemeiner Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE000900000)
 
 Die Ziele des Naturschutzes und der Landschaftspflege werden als
 Grundlage vorsorgenden Handelns im Rahmen der Landschaftsplanung
@@ -789,6 +799,7 @@ Maßnahmen zur Verwirklichung dieser Ziele dargestellt und begründet.
 
 
 ### § 9 Aufgaben und Inhalte der Landschaftsplanung; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001004126)
 
 (1) Die Landschaftsplanung hat die Aufgabe, die Ziele des
 Naturschutzes und der Landschaftspflege für den jeweiligen
@@ -886,6 +897,7 @@ werden kann, ist dies zu begründen.
 
 
 ### § 10 Landschaftsprogramme und Landschaftsrahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001101126)
 
 (1) Die überörtlichen konkretisierten Ziele, Erfordernisse und
 Maßnahmen des Naturschutzes und der Landschaftspflege werden für den
@@ -918,6 +930,7 @@ Raumordnungsgesetzes nach Landesrecht.
 
 
 ### § 11 Landschaftspläne und Grünordnungspläne
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001201126)
 
 (1) Die für die örtliche Ebene konkretisierten Ziele, Erfordernisse
 und Maßnahmen des Naturschutzes und der Landschaftspflege werden auf
@@ -986,6 +999,7 @@ Landesrecht.
 
 
 ### § 12 Zusammenwirken der Länder bei der Planung
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001300000)
 
 Bei der Aufstellung und Fortschreibung von Programmen und Plänen nach
 den §§ 10 und 11 für Gebiete, die an andere Länder angrenzen, sind
@@ -994,9 +1008,11 @@ dies erforderlich ist, stimmen sich die Länder untereinander ab.
 
 
 ## Kapitel 3 - Allgemeiner Schutz von Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000300000)
 
 
 ### § 13 Allgemeiner Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001400000)
 
 Erhebliche Beeinträchtigungen von Natur und Landschaft sind vom
 Verursacher vorrangig zu vermeiden. Nicht vermeidbare erhebliche
@@ -1006,6 +1022,7 @@ kompensieren.
 
 
 ### § 14 Eingriffe in Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001500000)
 
 (1) Eingriffe in Natur und Landschaft im Sinne dieses Gesetzes sind
 Veränderungen der Gestalt oder Nutzung von Grundflächen oder
@@ -1043,6 +1060,7 @@ eingeschränkt oder unterbrochen war
 
 
 ### § 15 Verursacherpflichten, Unzulässigkeit von Eingriffen; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001604119)
 
 (1) Der Verursacher eines Eingriffs ist verpflichtet, vermeidbare
 Beeinträchtigungen von Natur und Landschaft zu unterlassen.
@@ -1169,6 +1187,7 @@ Naturschutz und nukleare Sicherheit zur Verkündung zugeleitet.  Absatz
 
 
 ### § 16 Bevorratung von Kompensationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001703124)
 
 (1) Maßnahmen des Naturschutzes und der Landschaftspflege, die im
 Hinblick auf zu erwartende Eingriffe durchgeführt worden sind, sind
@@ -1212,6 +1231,7 @@ die Bevorratung nach § 56a.
 
 
 ### § 17 Verfahren; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001800000)
 
 (1) Bedarf ein Eingriff nach anderen Rechtsvorschriften einer
 behördlichen Zulassung oder einer Anzeige an eine Behörde oder wird er
@@ -1318,6 +1338,7 @@ Landesbehörden übertragen.
 
 
 ### § 18 Verhältnis zum Baurecht
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE001900000)
 
 (1) Sind auf Grund der Aufstellung, Änderung, Ergänzung oder Aufhebung
 von Bauleitplänen oder von Satzungen nach § 34 Absatz 4 Satz 1 Nummer
@@ -1359,6 +1380,7 @@ Schädigungen nach § 19 Absatz 1 Satz 1 dienen; in diesen Fällen gilt §
 
 
 ### § 19 Schäden an bestimmten Arten und natürlichen Lebensräumen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002002377)
 
 (1) Eine Schädigung von Arten und natürlichen Lebensräumen im Sinne
 des Umweltschadensgesetzes ist jeder Schaden, der erhebliche
@@ -1434,12 +1456,15 @@ liegt dabei in der Regel nicht vor bei
 
 
 ## Kapitel 4 - Schutz bestimmter Teile von Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000400000)
 
 
 ### Abschnitt 1 - Biotopverbund und Biotopvernetzung; geschützte Teile von Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000500000)
 
 
 #### § 20 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002100000)
 
 (1) Es wird ein Netz verbundener Biotope (Biotopverbund) geschaffen,
 das mindestens 10 Prozent der Fläche eines jeden Landes umfassen soll.
@@ -1475,6 +1500,7 @@ soweit sie geeignet sind, Bestandteile des Biotopverbunds.
 
 
 #### § 21 Biotopverbund, Biotopvernetzung
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002200000)
 
 (1) Der Biotopverbund dient der dauerhaften Sicherung der Populationen
 wild lebender Tiere und Pflanzen einschließlich ihrer Lebensstätten,
@@ -1529,6 +1555,7 @@ ausreichendem Maße vorhanden sind, zu schaffen (Biotopvernetzung).
 
 
 #### § 22 Erklärung zum geschützten Teil von Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002306377)
 
 (1) Die Unterschutzstellung von Teilen von Natur und Landschaft
 erfolgt durch Erklärung. Die Erklärung bestimmt den Schutzgegenstand,
@@ -1626,6 +1653,7 @@ dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 #### § 23 Naturschutzgebiete
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002402126)
 
 (1) Naturschutzgebiete sind rechtsverbindlich festgesetzte Gebiete, in
 denen ein besonderer Schutz von Natur und Landschaft in ihrer Ganzheit
@@ -1676,6 +1704,7 @@ solche des Landesrechts, bleiben unberührt.
 
 
 #### § 24 Nationalparke, Nationale Naturmonumente
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002502126)
 
 (1) Nationalparke sind rechtsverbindlich festgesetzte einheitlich zu
 schützende Gebiete, die
@@ -1725,6 +1754,7 @@ Naturschutzgebiete zu schützen.
 
 
 #### § 25 Biosphärenreservate
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002601126)
 
 (1) Biosphärenreservate sind einheitlich zu schützende und zu
 entwickelnde Gebiete, die
@@ -1766,6 +1796,7 @@ Biosphärenregionen bezeichnet werden.
 
 
 #### § 26 Landschaftsschutzgebiete
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002701311)
 
 (1) Landschaftsschutzgebiete sind rechtsverbindlich festgesetzte
 Gebiete, in denen ein besonderer Schutz von Natur und Landschaft
@@ -1815,6 +1846,7 @@ Liste des Erbes der Welt aufgenommen wurde, liegt.
 
 
 #### § 27 Naturparke
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002801124)
 
 (1) Naturparke sind einheitlich zu entwickelnde und zu pflegende
 Gebiete, die
@@ -1855,6 +1887,7 @@ weiterentwickelt werden.
 
 
 #### § 28 Naturdenkmäler
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE002900000)
 
 (1) Naturdenkmäler sind rechtsverbindlich festgesetzte
 Einzelschöpfungen der Natur oder entsprechende Flächen bis zu fünf
@@ -1875,6 +1908,7 @@ führen können, sind nach Maßgabe näherer Bestimmungen verboten.
 
 
 #### § 29 Geschützte Landschaftsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003000000)
 
 (1) Geschützte Landschaftsbestandteile sind rechtsverbindlich
 festgesetzte Teile von Natur und Landschaft, deren besonderer Schutz
@@ -1911,6 +1945,7 @@ Alleen bleiben unberührt.
 
 
 #### § 30 Gesetzlich geschützte Biotope
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003102126)
 
 (1) Bestimmte Teile von Natur und Landschaft, die eine besondere
 Bedeutung als Biotope haben, werden gesetzlich geschützt (allgemeiner
@@ -2004,6 +2039,7 @@ betreffen, bleiben unberührt.
 
 
 #### § 30a Ausbringung von Biozidprodukten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE009000126)
 
 Außerhalb geschlossener Räume ist in Naturschutzgebieten,
 Nationalparken, Nationalen Naturmonumenten, Kern- und Pflegezonen von
@@ -2042,9 +2078,11 @@ Verordnungen der Länder bleiben unberührt.
 
 
 ### Abschnitt 2 - Netz „Natura 2000“
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000600000)
 
 
 #### § 31 Aufbau und Schutz des Netzes „Natura 2000“
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003201377)
 
 Der Bund und die Länder erfüllen die sich aus den Richtlinien
 92/43/EWG und 2009/147/EG ergebenden Verpflichtungen zum Aufbau und
@@ -2053,6 +2091,7 @@ Schutz des zusammenhängenden europäischen ökologischen Netzes „Natura
 
 
 #### § 32 Schutzgebiete
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003306377)
 
 (1) Die Länder wählen die Gebiete, die der Kommission nach Artikel 4
 Absatz 1 der Richtlinie 92/43/EWG und Artikel 4 Absatz 1 und 2 der
@@ -2108,6 +2147,7 @@ Fassung.
 
 
 #### § 33 Allgemeine Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003401123)
 
 (1) Alle Veränderungen und Störungen, die zu einer erheblichen
 Beeinträchtigung eines Natura 2000-Gebiets in seinen für die
@@ -2140,6 +2180,7 @@ Arten entsprechend. Die §§ 34 und 36 finden keine Anwendung.
 
 
 #### § 34 Verträglichkeit und Unzulässigkeit von Projekten; Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003502119)
 
 (1) Projekte sind vor ihrer Zulassung oder Durchführung auf ihre
 Verträglichkeit mit den Erhaltungszielen eines Natura 2000-Gebiets zu
@@ -2228,6 +2269,7 @@ Baugesetzbuches.
 
 
 #### § 35 Gentechnisch veränderte Organismen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003600000)
 
 Auf
 
@@ -2248,6 +2290,7 @@ ist § 34 Absatz 1 und 2 entsprechend anzuwenden.
 
 
 #### § 36 Pläne
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003700000)
 
 Auf
 
@@ -2268,12 +2311,15 @@ Absatz 4 Satz 1 Nummer 3 des Baugesetzbuches findet § 34 Absatz 1 Satz
 
 
 ## Kapitel 5 - Schutz der wild lebenden Tier- und Pflanzenarten, ihrer Lebensstätten und Biotope
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000700000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000800000)
 
 
 #### § 37 Aufgaben des Artenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003800000)
 
 (1) Die Vorschriften dieses Kapitels sowie § 6 Absatz 3 dienen dem
 Schutz der wild lebenden Tier- und Pflanzenarten. Der Artenschutz
@@ -2308,6 +2354,7 @@ Grund dieses Kapitels erlassenen Rechtsvorschriften anzuwenden.
 
 
 #### § 38 Allgemeine Vorschriften für den Arten-, Lebensstätten- und Biotopschutz
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE003901377)
 
 (1) Zur Vorbereitung und Durchführung der Aufgaben nach § 37 Absatz 1
 erstellen die für Naturschutz und Landschaftspflege zuständigen
@@ -2331,9 +2378,11 @@ Artikels 10 der Richtlinie 2009/147/EG werden gefördert.
 
 
 ### Abschnitt 2 - Allgemeiner Artenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG000900000)
 
 
 #### § 39 Allgemeiner Schutz wild lebender Tiere und Pflanzen; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004003126)
 
 (1) Es ist verboten,
 
@@ -2456,6 +2505,7 @@ Ausnahmen und Befreiungen bleiben unberührt.
 
 
 #### § 40 Ausbringen von Pflanzen und Tieren
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004101118)
 
 (1) Das Ausbringen von Pflanzen in der freien Natur, deren Art in dem
 betreffenden Gebiet in freier Natur nicht oder seit mehr als 100
@@ -2510,6 +2560,7 @@ Biotopen oder Arten erforderlich ist.
 
 
 #### § 40a Maßnahmen gegen invasive Arten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008000118)
 
 (1) Die zuständigen Behörden treffen nach pflichtgemäßem Ermessen die
 im Einzelfall erforderlichen und verhältnismäßigen Maßnahmen, um
@@ -2581,6 +2632,7 @@ sowie den auf dieser Grundlage erlassenen Rechtsvorschriften.
 
 
 #### § 40b Nachweispflicht und Einziehung bei invasiven Arten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008100118)
 
 Wer Exemplare einer invasiven Art besitzt oder die tatsächliche Gewalt
 darüber ausübt, kann sich gegenüber den zuständigen Behörden auf eine
@@ -2592,6 +2644,7 @@ gilt entsprechend.
 
 
 #### § 40c Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008200118)
 
 (1) Abweichend von den Verboten des Artikels 7 Absatz 1 Buchstabe a,
 b, c, d, f und g der Verordnung (EU) Nr. 1143/2014 bedürfen die
@@ -2633,6 +2686,7 @@ unter Anwendung des Vorsorgeprinzips.
 
 
 #### § 40d Aktionsplan zu Pfaden invasiver Arten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008301119)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit beschließt nach Anhörung der Länder im Einvernehmen mit dem
@@ -2655,6 +2709,7 @@ entsprechend.
 
 
 #### § 40e Managementmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008401119)
 
 (1) Die für Naturschutz und Landschaftspflege zuständigen Behörden
 legen nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1143/2014
@@ -2676,6 +2731,7 @@ Landesrecht für Fischerei zuständigen Behörden.
 
 
 #### § 40f Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008501119)
 
 (1) Bei der Aufstellung von Aktionsplänen gemäß § 40d und der
 Festlegung von Managementmaßnahmen gemäß § 40e ist eine
@@ -2705,6 +2761,7 @@ die Umweltverträglichkeitsprüfung.
 
 
 #### § 41 Vogelschutz an Energiefreileitungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004200000)
 
 Zum Schutz von Vogelarten sind neu zu errichtende Masten und
 technische Bauteile von Mittelspannungsleitungen konstruktiv so
@@ -2717,6 +2774,7 @@ Oberleitungsanlagen von Eisenbahnen.
 
 
 #### § 42 Zoos
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004300000)
 
 (1) Zoos sind dauerhafte Einrichtungen, in denen lebende Tiere wild
 lebender Arten zwecks Zurschaustellung während eines Zeitraumes von
@@ -2850,6 +2908,7 @@ zumutbare Alternative für die Unterbringung der Tiere besteht.
 
 
 #### § 43 Tiergehege
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004401308)
 
 (1) Tiergehege sind dauerhafte Einrichtungen, in denen Tiere wild
 lebender Arten außerhalb von Wohn- und Geschäftsgebäuden während eines
@@ -2901,9 +2960,11 @@ nicht gelten für Gehege,
 
 
 ### Abschnitt 3 - Besonderer Artenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001000000)
 
 
 #### § 44 Vorschriften für besonders geschützte und bestimmte andere Tier- und Pflanzenarten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004502124)
 
 (1) Es ist verboten,
 
@@ -3041,6 +3102,7 @@ jährlich mitzuteilen.
 
 
 #### § 45 Ausnahmen; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004604123)
 
 (1) Von den Besitzverboten sind, soweit sich aus einer
 Rechtsverordnung nach § 54 Absatz 5 nichts anderes ergibt, ausgenommen
@@ -3185,6 +3247,7 @@ künstlich vermehrte Tiere oder Pflanzen dieser Arten zu ermöglichen.
 
 
 #### § 45a Umgang mit dem Wolf
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008900123)
 
 (1) Das Füttern und Anlocken mit Futter von wildlebenden Exemplaren
 der Art Wolf (Canis lupus) ist verboten. Ausgenommen sind Maßnahmen
@@ -3227,6 +3290,7 @@ nach Satz 3 nicht.
 
 
 #### § 45b Betrieb von Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE009200311)
 
 (1) Für die fachliche Beurteilung, ob nach § 44 Absatz 5 Satz 2 Nummer
 1 das Tötungs- und Verletzungsrisiko für Exemplare
@@ -3400,6 +3464,7 @@ angerechnet.
 
 
 #### § 45c Repowering von Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE009301311)
 
 (1) Die nachfolgenden Absätze gelten für Vorhaben zur Modernisierung
 von Windenergieanlagen an Land nach § 16b Absatz 1 und 2 des Bundes-
@@ -3450,6 +3515,7 @@ Fledermausarten.
 
 
 #### § 45d Nationale Artenhilfsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE009400311)
 
 (1) Das Bundesamt für Naturschutz stellt nationale Artenhilfsprogramme
 auf zum dauerhaften Schutz insbesondere der durch den Ausbau der
@@ -3479,6 +3545,7 @@ besteht. Die Verpflichtungen nach § 15 bleiben unberührt.
 
 
 #### § 46 Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004701118)
 
 (1) Diejenige Person, die
 
@@ -3521,6 +3588,7 @@ zu führen.
 
 
 #### § 47 Einziehung und Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004801118)
 
 Kann für Tiere oder Pflanzen eine Berechtigung nach § 46 nicht
 nachgewiesen oder glaubhaft gemacht werden, können diese von den für
@@ -3532,9 +3600,11 @@ werden kann.
 
 
 ### Abschnitt 4 - Zuständige Behörden, Verbringen von Tieren und Pflanzen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001100000)
 
 
 #### § 48 Zuständige Behörden für den Schutz von Exemplaren wild lebender Tier- und Pflanzenarten durch Überwachung des Handels
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE004903119)
 
 (1) Vollzugsbehörden im Sinne des Artikels 13 Absatz 1 der Verordnung
 (EG) Nr. 338/97 und des Artikels IX des Washingtoner
@@ -3616,6 +3686,7 @@ Verordnung (EG) Nr. 338/97 ist das Bundesamt für Naturschutz.
 
 
 #### § 48a Zuständige Behörden in Bezug auf invasive Arten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008601119)
 
 Zuständig für den Vollzug der Verordnung (EU) Nr. 1143/2014, der
 Vorschriften dieses Gesetzes und der auf ihrer Grundlage erlassenen
@@ -3673,6 +3744,7 @@ Berücksichtigung der durch diese festgelegten Zielvorgaben durch.
 
 
 #### § 49 Mitwirkung der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005003119)
 
 (1) Die Zollbehörden wirken mit bei der Überwachung des Verbringens
 von Tieren und Pflanzen, die einer Ein- oder Ausfuhrregelung nach
@@ -3693,6 +3765,7 @@ anzumelden sind, ist besonders hinzuweisen.
 
 
 #### § 50 Anmeldepflicht bei der Ein-, Durch- und Ausfuhr oder dem Verbringen aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005101118)
 
 (1) Wer Tiere oder Pflanzen, die einer von der Europäischen
 Gemeinschaft erlassenen Ein- oder Ausfuhrregelung unterliegen oder
@@ -3717,6 +3790,7 @@ mitzuteilen.
 
 
 #### § 51 Inverwahrungnahme, Beschlagnahme und Einziehung durch die Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005203119)
 
 (1) Ergeben sich im Rahmen der zollamtlichen Überwachung Zweifel, ob
 das Verbringen von Tieren oder Pflanzen Regelungen oder Verboten im
@@ -3780,6 +3854,7 @@ haben, bekannt waren oder hätten bekannt sein müssen.
 
 
 #### § 51a Überwachung des Verbringens invasiver Arten in die Union
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008700118)
 
 (1) Zuständig für amtliche Kontrollen nach Artikel 15 Absatz 2 der
 Verordnung (EU) Nr. 1143/2014 zur Verhütung der vorsätzlichen
@@ -3854,9 +3929,11 @@ der Voraussetzungen des Artikels 31 der Verordnung (EU) Nr. 1143/2014.
 
 
 ### Abschnitt 5 - Auskunfts- und Zutrittsrecht; Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001200000)
 
 
 #### § 52 Auskunfts- und Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005302377)
 
 (1) Natürliche und juristische Personen sowie sonstige
 Personenvereinigungen haben den für Naturschutz und Landschaftspflege
@@ -3895,13 +3972,16 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 #### § 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005404112)
 
 
 
 ### Abschnitt 6 - Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001300000)
 
 
 #### § 54 Ermächtigung zum Erlass von Rechtsverordnungen; Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005509311)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
@@ -4403,6 +4483,7 @@ allgemeine Verwaltungsvorschriften über die Anforderungen hinsichtlich
 
 
 #### § 55 Durchführung gemeinschaftsrechtlicher oder internationaler Vorschriften; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005602119)
 
 (1) Rechtsverordnungen nach § 54 können auch zur Durchführung von
 Rechtsakten des Rates oder der Kommission der Europäischen
@@ -4418,9 +4499,11 @@ erfordern.
 
 
 ## Kapitel 6 - Meeresnaturschutz
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001400000)
 
 
 ### § 56 Geltungs- und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005703119)
 
 (1) Die Vorschriften dieses Gesetzes gelten auch im Bereich der
 Küstengewässer sowie mit Ausnahme des Kapitels 2 nach Maßgabe des
@@ -4452,6 +4535,7 @@ Bund beherrschte Gesellschaft oder Stiftung weiterleiten.
 
 
 ### § 56a Bevorratung von Kompensationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE008800124)
 
 (1) Die Bevorratung vorgezogener Ausgleichs- und Ersatzmaßnahmen im
 Sinne von § 16 bedarf im Bereich der deutschen ausschließlichen
@@ -4507,6 +4591,7 @@ Zulassungsentscheidung zuständigen Behörde.
 
 
 ### § 57 Geschützte Meeresgebiete im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005806377)
 
 (1) Die Auswahl von geschützten Meeresgebieten im Bereich der
 deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
@@ -4595,6 +4680,7 @@ Auswahl, sind die folgenden Maßgaben zu beachten:
 
 
 ### § 58 Zuständige Behörden; Gebühren und Auslagen; Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE005908119)
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes, der auf Grund
 dieses Gesetzes erlassenen Vorschriften sowie der Vorschriften des
@@ -4622,9 +4708,11 @@ zur Ausübung übertragen.
 
 
 ## Kapitel 7 - Erholung in Natur und Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001500000)
 
 
 ### § 59 Betreten der freien Landschaft
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006000000)
 
 (1) Das Betreten der freien Landschaft auf Straßen und Wegen sowie auf
 ungenutzten Grundflächen zum Zweck der Erholung ist allen gestattet
@@ -4643,6 +4731,7 @@ einschränken.
 
 
 ### § 60 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006100000)
 
 Das Betreten der freien Landschaft erfolgt auf eigene Gefahr. Durch
 die Betretungsbefugnis werden keine zusätzlichen Sorgfalts- oder
@@ -4651,6 +4740,7 @@ Haftung für typische, sich aus der Natur ergebende Gefahren.
 
 
 ### § 61 Freihaltung von Gewässern und Uferzonen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006200000)
 
 (1) Im Außenbereich dürfen an Bundeswasserstraßen und Gewässern erster
 Ordnung sowie an stehenden Gewässern mit einer Größe von mehr als 1
@@ -4701,6 +4791,7 @@ zugelassen werden, wenn
 
 
 ### § 62 Bereitstellen von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006300000)
 
 Der Bund, die Länder und sonstige juristische Personen des
 öffentlichen Rechts stellen in ihrem Eigentum oder Besitz stehende
@@ -4714,9 +4805,11 @@ entgegensteht.
 
 
 ## Kapitel 8 - Mitwirkung von anerkannten Naturschutzvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001600000)
 
 
 ### § 63 Mitwirkungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006403119)
 
 (1) Einer nach § 3 des Umwelt-Rechtsbehelfsgesetzes vom Bund
 anerkannten Vereinigung, die nach ihrem satzungsgemäßen
@@ -4824,6 +4917,7 @@ erwarten sind, von einer Mitwirkung abgesehen werden kann.
 
 
 ### § 64 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006502124)
 
 (1) Eine anerkannte Naturschutzvereinigung kann, soweit § 1 Absatz 3
 des Umwelt-Rechtsbehelfsgesetzes nicht entgegensteht, ohne in eigenen
@@ -4864,9 +4958,11 @@ nach § 63 Absatz 2 Nummer 8 eine Mitwirkung vorgesehen ist.
 
 
 ## Kapitel 9 - Eigentumsbindung, Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001700000)
 
 
 ### § 65 Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006600000)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte von Grundstücken haben
 Maßnahmen des Naturschutzes und der Landschaftspflege auf Grund von
@@ -4885,6 +4981,7 @@ betreten, richtet sich nach Landesrecht.
 
 
 ### § 66 Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006700000)
 
 (1) Den Ländern steht ein Vorkaufsrecht zu an Grundstücken,
 
@@ -4929,6 +5026,7 @@ anerkannten Naturschutzvereinigungen ausgeübt werden.
 
 
 ### § 67 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006800000)
 
 (1) Von den Geboten und Verboten dieses Gesetzes, in einer
 Rechtsverordnung auf Grund des § 57 sowie nach dem Naturschutzrecht
@@ -4962,6 +5060,7 @@ Anwendung, wenn kein Eingriff in Natur und Landschaft im Sinne des §
 
 
 ### § 68 Beschränkungen des Eigentums; Entschädigung und Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE006900000)
 
 (1) Führen Beschränkungen des Eigentums, die sich auf Grund von
 Vorschriften dieses Gesetzes, Rechtsvorschriften, die auf Grund dieses
@@ -4993,9 +5092,11 @@ gezahlt werden kann.
 
 
 ## Kapitel 10 - Bußgeld- und Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001800000)
 
 
 ### § 69 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007006126)
 
 (1) Ordnungswidrig handelt, wer wissentlich entgegen § 39 Absatz 1
 Nummer 1 ein wild lebendes Tier beunruhigt.
@@ -5290,6 +5391,7 @@ geahndet werden können.
 
 
 ### § 70 Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007102118)
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten ist
@@ -5332,6 +5434,7 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 
 
 ### § 71 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007202124)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in
@@ -5385,6 +5488,7 @@ Auswirkungen auf den Erhaltungszustand der Art hat.
 
 
 ### § 71a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007602124)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -5457,6 +5561,7 @@ Erhaltungszustand der Art hat.
 
 
 ### § 72 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007302118)
 
 Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 bis 6 oder eine
 Straftat nach § 71 oder § 71a begangen worden, so können
@@ -5475,6 +5580,7 @@ eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten und §
 
 
 ### § 73 Befugnisse der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007401360)
 
 Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können
 im Rahmen ihrer Zuständigkeit zur Aufklärung von Straftaten oder
@@ -5485,9 +5591,11 @@ Außenwirtschaftsgesetzes gilt entsprechend.
 
 
 ## Kapitel 11 - Übergangs- und Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNG001900000)
 
 
 ### § 74 Übergangs- und Überleitungsregelungen; Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE007504377)
 
 (1) Vor dem 1. März 2010 begonnene Verfahren zur Anerkennung von
 Vereinen sind zu Ende zu führen
@@ -5556,6 +5664,7 @@ drei Jahre.
 
 
 ### Anlage 1 (zu § 45b Absatz 1 bis 5)
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE009500311)
 
 (Fundstelle des Originaltextes: BGBl. I 2022, 1365 - 1367)
 
@@ -5910,6 +6019,7 @@ nachfolgend aufgeführte Schutzmaßnahmen fachlich anerkannt:
 
 
 ### Anlage 2 (zu § 45b Absatz 6 und 9, zu § 45d Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html#BJNR254210009BJNE009601377)
 
 (Fundstelle: BGBl. I 2022, 1368 - 1370)
 

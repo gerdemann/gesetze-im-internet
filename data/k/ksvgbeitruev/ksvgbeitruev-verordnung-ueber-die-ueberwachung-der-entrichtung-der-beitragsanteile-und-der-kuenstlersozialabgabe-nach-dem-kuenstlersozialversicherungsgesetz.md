@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE000700320)
 
 Auf Grund des § 35 Abs. 2 des Künstlersozialversicherungsgesetzes vom
 27\. Juli 1981 (BGBl. I S. 705) verordnet das Bundesministerium für
@@ -28,10 +29,12 @@ Arbeit und Sozialordnung:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNG000100320)
 
 
 
 ### § 1 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE000803311)
 
 (1) Die Künstlersozialkasse überwacht die Entrichtung der
 Beitragsanteile der Versicherten und der Künstlersozialabgabe durch
@@ -43,6 +46,7 @@ durchgeführten Prüfung oder in Form einer Außenprüfung erfolgen.
 
 
 ### § 2 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE000900320)
 
 (1) Gegenstand der Prüfung sind die tatsächlichen und rechtlichen
 Verhältnisse, die maßgebend sind für die Feststellung
@@ -61,6 +65,7 @@ Verhältnisse, die maßgebend sind für die Feststellung
 
 
 ### § 3 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001000320)
 
 (1) Die Künstlersozialkasse bestimmt den Zeitpunkt der Prüfung im
 Rahmen einer ordnungsgemäßen Aufgabenerfüllung; dabei bestimmt sie bei
@@ -98,16 +103,19 @@ erscheinen lassen.
 
 
 ### § 4 Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001100320)
 
 Die zu Prüfenden haben bei der Ermittlung der Beitrags- und der
 Abgabegrundlagen mitzuwirken.
 
 
 ## Zweiter Abschnitt - Pflichten der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNG000200320)
 
 
 
 ### § 5 Vorlage von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001200320)
 
 (1) Die Versicherten haben bei der Prüfung ihre
 Einkommensteuerbescheide vorzulegen.
@@ -135,6 +143,7 @@ oder für die Erhebung der Künstlersozialabgabe erforderlich ist.
 
 
 ### § 6 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001300320)
 
 Die Versicherten haben über die Beitrags- und die Abgabegrundlagen
 Auskunft zu geben, insbesondere über
@@ -184,10 +193,12 @@ Künstlersozialabgabe erforderlich ist.
 
 
 ## Dritter Abschnitt - Pflichten der zur Abgabe Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNG000300320)
 
 
 
 ### § 7 Vorlage von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001404119)
 
 Die zur Abgabe Verpflichteten haben bei der Prüfung auf Verlangen
 
@@ -228,6 +239,7 @@ Höhe der Beiträge oder Beitragszuschüsse erforderlich ist.
 
 
 ### § 8 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001500320)
 
 Die zur Abgabe Verpflichteten haben über die Abgabe- und die
 Beitragsgrundlagen Auskunft zu geben, insbesondere über
@@ -259,10 +271,12 @@ Beiträge oder Beitragszuschüsse erforderlich ist.
 
 
 ## Vierter Abschnitt - Außenprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNG000400320)
 
 
 
 ### § 9 Ankündigung
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001601311)
 
 (1) Die Außenprüfung erfolgt grundsätzlich nach vorheriger
 schriftlicher oder elektronischer Ankündigung durch die
@@ -284,11 +298,13 @@ Forderungen nicht eintritt.
 
 
 ### § 10 Ausweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001700320)
 
 Die Prüfer der Künstlersozialkasse haben sich auszuweisen.
 
 
 ### § 11 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001802119)
 
 (1) Die Außenprüfung der zur Abgabe Verpflichteten erfolgt während der
 Betriebszeit in ihren Geschäftsräumen. Sie haben einen zur
@@ -320,10 +336,12 @@ Prüfenden installierten Technik nicht zuzumuten ist.
 
 
 ## Fünfter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNG000500320)
 
 
 
 ### § 12 Prüfbericht
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE001901311)
 
 (1) Die Künstlersozialkasse hat den Umfang und das Ergebnis der
 Prüfung in einem Prüfbericht festzuhalten.
@@ -338,6 +356,7 @@ den Geprüften schriftlich oder elektronisch mitgeteilt wird.
 
 
 ### § 13 Mängelbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE002000320)
 
 Die Geprüften haben die bei der Prüfung festgestellten Mängel
 unverzüglich zu beheben; die Künstlersozialkasse kann ihnen hierzu
@@ -349,16 +368,19 @@ getroffenen Vorkehrungen mitzuteilen.
 
 
 ### § 14 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE002100320)
 
 Kosten oder Verdienstausfall, die den Geprüften durch die Prüfung
 entstehen, werden nicht erstattet.
 
 
 ## Sechster Abschnitt - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNG000600320)
 
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ksvgbeitr_v/BJNR297200994.html#BJNR297200994BJNE002200320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

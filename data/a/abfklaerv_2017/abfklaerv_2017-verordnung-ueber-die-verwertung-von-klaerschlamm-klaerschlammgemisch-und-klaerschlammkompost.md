@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2129-6-6 v. 15.4.1992 I 912 (AbfKlärV 1992)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000200000)
 
 (1) Diese Verordnung regelt
 
@@ -122,6 +124,7 @@ Abwasserschlämme, sofern
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000300000)
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Absätze 2
 bis 19.
@@ -265,6 +268,7 @@ oder eingebracht wurde.
 
 
 ### § 3 Kreislaufwirtschaft von Klärschlamm, Klärschlammgemisch und Klärschlammkompost
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000400000)
 
 (1) Der Klärschlammerzeuger hat den in seiner
 Abwasserbehandlungsanlage anfallenden Klärschlamm möglichst hochwertig
@@ -280,6 +284,7 @@ Anforderungen dieser Verordnung vorzunehmen.
 
 
 ### § 3a Berichtspflichten; Phosphoruntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE004400116)
 
 (1) Klärschlammerzeuger, die im Kalenderjahr 2023 eine
 Abwasserbehandlungsanlage betreiben, haben der zuständigen Behörde bis
@@ -319,12 +324,15 @@ vorzulegen.
 
 
 ## Teil 2 - Anforderungen an die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost auf und in Böden
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000200000)
 
 
 ### Abschnitt 1 - Untersuchungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000300000)
 
 
 #### § 4 Bodenbezogene Untersuchungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000500000)
 
 (1) Der Klärschlammerzeuger hat vor der erstmaligen Auf- oder
 Einbringung des Klärschlamms auf der durch den Klärschlammnutzer nach
@@ -394,6 +402,7 @@ Absatz 4 entfallen.
 
 
 #### § 5 Klärschlammbezogene Untersuchungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000600000)
 
 (1) Vor der Abgabe des Klärschlamms an den Klärschlammnutzer, den
 Gemischhersteller oder den Komposthersteller hat der
@@ -498,6 +507,7 @@ Klärschlammkomposts nicht zulässig.
 
 
 #### § 6 Beschränkte Klärschlammuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000700000)
 
 (1) Bei der Auf- oder Einbringung von Klärschlamm aus der eigenen
 Kleinkläranlage eines landwirtschaftlichen Betriebs auf oder in selbst
@@ -523,9 +533,11 @@ Absatz 2 Satz 1 nach einer Erstuntersuchung entfallen.
 
 
 ### Abschnitt 2 - Grenzwerte; Seuchen- und Phytohygiene
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000400000)
 
 
 #### § 7 Bodenbezogene Grenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000800000)
 
 (1) Das Auf- oder Einbringen des Klärschlamms, des Klärschlammgemischs
 oder des Klärschlammkomposts auf oder in den Boden ist nur zulässig,
@@ -565,6 +577,7 @@ Gemischhersteller oder den Komposthersteller entsprechend.
 
 
 #### § 8 Klärschlammbezogene Grenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE000900000)
 
 (1) Die Abgabe des Klärschlamms durch den Klärschlammerzeuger sowie
 die Auf- oder Einbringung des Klärschlamms auf oder in den Boden ist
@@ -587,6 +600,7 @@ beachten.
 
 
 #### § 9 Rückstellprobe
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001000000)
 
 (1) Die zuständige Behörde kann den Klärschlammerzeuger, den
 Gemischhersteller und den Komposthersteller verpflichten, zur
@@ -615,6 +629,7 @@ Verlangen herauszugeben.
 
 
 #### § 10 Analysefehler und Messtoleranzen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001100000)
 
 Bei der Untersuchung der Einhaltung eines Grenzwertes nach § 7 Absatz
 1 oder nach § 8 dürfen vom festgelegten Grenzwert pauschale Abzüge
@@ -623,6 +638,7 @@ werden.
 
 
 #### § 11 Anforderungen an die Seuchen- und die Phytohygiene
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001200000)
 
 Die Abgabe eines Klärschlamms, Klärschlammgemischs oder
 Klärschlammkomposts und die Auf- oder Einbringung eines Klärschlamms,
@@ -634,9 +650,11 @@ jeweils geltenden Fassung entspricht.
 
 
 ### Abschnitt 3 - Abgabe und Auf- oder Einbringung von Klärschlamm
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000500000)
 
 
 #### § 12 Abgabe von Klärschlamm
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001300000)
 
 (1) Der Klärschlammerzeuger hat den Klärschlamm unmittelbar an einen
 Klärschlammnutzer abzugeben. Der Klärschlammerzeuger hat den
@@ -672,6 +690,7 @@ oder einzubringen.
 
 
 #### § 13 Bereitstellung von Klärschlamm
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001400000)
 
 (1) Der Klärschlammerzeuger, Gemischhersteller oder Komposthersteller,
 der die Auf- oder Einbringung eines Klärschlamms, eines
@@ -704,6 +723,7 @@ Zeitpunkt der Auf- oder Einbringung unmöglich ist.
 
 
 #### § 14 Auf- oder Einbringungsmenge
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001500000)
 
 (1) Innerhalb von drei Kalenderjahren dürfen nicht mehr als 5 Tonnen
 Klärschlamm Trockenmasse je Hektar auf oder in einen Boden auf- oder
@@ -737,6 +757,7 @@ für Anwendungen im Landschaftsbau entsprechend.
 
 
 #### § 15 Beschränkung der Klärschlammverwertung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001600000)
 
 (1) Die Abgabe und das Auf- oder Einbringen von Klärschlamm aus
 anderen Anlagen als aus Abwasserbehandlungsanlagen sowie von
@@ -820,9 +841,11 @@ landwirtschaftlicher Nutzung zulassen.
 
 
 ### Abschnitt 4 - Anzeige- und Lieferscheinverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000600000)
 
 
 #### § 16 Anzeigeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001700000)
 
 (1) Der Klärschlammnutzer hat dem Klärschlammerzeuger die genaue
 Bezeichnung der für eine Auf- oder Einbringung von Klärschlamm
@@ -864,6 +887,7 @@ Komposthersteller der zuständigen Behörde unverzüglich mitzuteilen.
 
 
 #### § 17 Lieferscheinverfahren bei bodenbezogener Klärschlammverwertung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001800000)
 
 (1) Der Klärschlammerzeuger hat vor der Abgabe des Klärschlamms einen
 Lieferschein zu verwenden oder zu erstellen, der die Angaben nach
@@ -963,6 +987,7 @@ die dort genannten Unterlagen zu löschen.
 
 
 #### § 18 Lieferscheinverfahren bei bodenbezogener Verwertung von Klärschlammgemisch und Klärschlammkompost
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE001900000)
 
 (1) Der Gemischhersteller oder der Komposthersteller hat vor der
 Abgabe eines mit Klärschlamm nach § 17 Absatz 3 Satz 2 hergestellten
@@ -1072,9 +1097,11 @@ Aufbewahrungsverpflichteten die dort genannten Unterlagen zu löschen.
 
 
 ## Teil 3 - Anforderungen an die regelmäßige Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000700000)
 
 
 ### § 19 Regelmäßige Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002000000)
 
 Eine regelmäßige Qualitätssicherung im Sinne von § 12 Absatz 1 des
 Kreislaufwirtschaftsgesetzes muss den in den §§ 20 bis 31 geregelten
@@ -1082,9 +1109,11 @@ Mindestanforderungen entsprechen.
 
 
 ### Abschnitt 1 - Träger der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000800000)
 
 
 #### § 20 Anerkennung des Trägers der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002100000)
 
 (1) Die für die Anerkennung eines Trägers der Qualitätssicherung
 zuständige Behörde im Sinne des § 12 Absatz 5 Satz 2 des
@@ -1149,6 +1178,7 @@ ist.
 
 
 #### § 21 Pflichten des Trägers der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002200000)
 
 (1) Der Träger der Qualitätssicherung hat sicherzustellen, dass jeder
 Qualitätszeichennehmer ein individuelles Konzept zur Minderung von
@@ -1255,6 +1285,7 @@ machen.
 
 
 #### § 22 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002300000)
 
 (1) Sachverständige nach § 12 Absatz 6 des
 Kreislaufwirtschaftsgesetzes besitzen die für die Wahrnehmung ihrer
@@ -1278,6 +1309,7 @@ Verlangen vorzulegen.
 
 
 #### § 23 Unabhängiger Ausschuss beim Träger der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002400000)
 
 (1) Der unabhängige Ausschuss beim Träger der Qualitätssicherung setzt
 sich wie folgt zusammen:
@@ -1332,6 +1364,7 @@ festzulegen.
 
 
 #### § 24 Behördliche Überwachung des Trägers der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002500000)
 
 (1) Die nach § 20 Absatz 1 für die Anerkennung eines Trägers der
 Qualitätssicherung zuständige Behörde überprüft in Abständen von
@@ -1349,6 +1382,7 @@ Berichts verkürzen.
 
 
 #### § 25 Widerruf der Anerkennung; Auflösung des Trägers der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002600000)
 
 (1) Die Anerkennung eines Trägers der Qualitätssicherung kann
 unbeschadet des § 49 des Verwaltungsverfahrensgesetzes widerrufen
@@ -1371,9 +1405,11 @@ für eine angemessene Übergangszeit genehmigen.
 
 
 ### Abschnitt 2 - Qualitätszeichennehmer
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG000900000)
 
 
 #### § 26 Anforderungen an die Zuverlässigkeit sowie an die Fach- und Sachkunde des Qualitätszeichennehmers
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002700000)
 
 (1) Die nach § 12 Absatz 3 Nummer 1 des Kreislaufwirtschaftsgesetzes
 erforderliche Zuverlässigkeit und Fachkunde ist gegeben, wenn die für
@@ -1392,6 +1428,7 @@ Entsorgungsfachbetriebeverordnung erfüllt.
 
 
 #### § 27 Antrag auf Erteilung des Qualitätszeichens
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002800000)
 
 (1) Der Antrag auf Erteilung eines Qualitätszeichens ist schriftlich
 bei einem Träger der Qualitätssicherung zu stellen. Dem Antrag sind
@@ -1464,6 +1501,7 @@ Ausschuss zur Bewertung nach § 23 Absatz 2 Nummer 1 und 2 vorzulegen.
 
 
 #### § 28 Nachweis der Erfüllung der Anforderungen der regelmäßigen Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE002900000)
 
 (1) Der nach § 12 Absatz 3 Nummer 2 des Kreislaufwirtschaftsgesetzes
 für die Erteilung des Qualitätszeichens erforderliche Nachweis der
@@ -1564,9 +1602,11 @@ Nummer 2 bis 4 überprüft und die Ergebnisse der Prüfung dokumentiert.
 
 
 ### Abschnitt 3 - Fortlaufende Überwachung nach Erteilung des Qualitätszeichens
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG001000000)
 
 
 #### § 29 Fortlaufende Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003000000)
 
 (1) Die fortlaufende Überwachung nach § 12 Absatz 3 Nummer 3 des
 Kreislaufwirtschaftsgesetzes besteht aus der Eigen- und der
@@ -1579,6 +1619,7 @@ Qualitätssicherung auszustellen.
 
 
 #### § 30 Anforderungen an die Eigen- und die Fremdüberwachung in der fortlaufenden Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003100000)
 
 (1) Die Eigenüberwachung hat der Qualitätszeichennehmer durchzuführen.
 Durch die Eigenüberwachung sind folgende Maßnahmen sicherzustellen:
@@ -1674,6 +1715,7 @@ Absatz 2 Nummer 7 zu berücksichtigen.
 
 
 #### § 31 Abweichende Regelungen bei Abgabe eines qualitätsgesicherten Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003200000)
 
 (1) Bei Abgabe eines qualitätsgesicherten Klärschlamms,
 Klärschlammgemischs oder Klärschlammkomposts gilt Folgendes:
@@ -1799,9 +1841,11 @@ durch den Qualitätszeichennehmer zu erfolgen.
 
 
 ### Teil 4 - Gemeinsame Bestimmungen zur Probenuntersuchung und zur Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG001100000)
 
 
 #### § 32 Probenuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003300000)
 
 (1) Die Probenuntersuchung umfasst Probennahmen, Probenvorbereitungen
 und Probenanalysen für alle nach dieser Verordnung erforderlichen
@@ -1836,6 +1880,7 @@ zuständigen Behörde vorzulegen.
 
 
 #### § 33 Unabhängige Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003400000)
 
 (1) Eine Untersuchungsstelle bedarf der Notifizierung nach Maßgabe
 dieser Vorschrift.
@@ -1885,6 +1930,7 @@ deutsche Übersetzung können verlangt werden.
 
 
 #### § 34 Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003502116)
 
 (1) Der Klärschlammerzeuger hat für das jeweilige Kalenderjahr ein
 Register zu führen, das folgende Angaben zu enthalten hat:
@@ -1990,6 +2036,7 @@ Nachweisverordnung.
 
 
 #### § 35 Auf- oder Einbringungsplan
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003600000)
 
 Die zuständige Behörde hat jährlich einen Auf- oder Einbringungsplan
 über den im Verlauf des Kalenderjahres auf- oder eingebrachten
@@ -2001,9 +2048,11 @@ die Möglichkeiten der elektronischen Datenverarbeitung genutzt werden.
 
 
 ### Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNG001200000)
 
 
 #### § 36 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003701116)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2130,6 +2179,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 #### § 37 Bereits erteilte Qualitätszeichen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003800000)
 
 (1) Ein Klärschlammerzeuger, ein Gemischhersteller oder ein
 Komposthersteller oder eine andere natürliche oder juristische Person
@@ -2149,6 +2199,7 @@ Qualitätszeichens nach § 27 anerkannt werden.
 
 
 #### § 38 Verwendung vorliegender Untersuchungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE003900000)
 
 (1) Abweichend von § 4 Absatz 1 Satz 1 Nummer 2 können Ergebnisse von
 Untersuchungen, die vor dem 3. Oktober 2017 durchgeführt wurden,
@@ -2174,6 +2225,7 @@ werden.
 
 
 #### § 39 Bestehende Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE004000000)
 
 Eine Stelle, die nach § 3 Absatz 11 Satz 1 der Klärschlammverordnung
 vom 15. April 1992 (BGBl. I S. 912), die zuletzt durch Artikel 74 der
@@ -2189,6 +2241,7 @@ sie bis zum 1. April 2018 als Notifizierung im Sinne des § 33 fort.
 (zu § 8 Absatz 1)
 
 #### Anlage 1 Zusätzliche Grenzwerte für im Klärschlamm, Klärschlammgemisch und Klärschlammkompost enthaltene Schadstoffe
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE004100000)
 
 (Fundstelle: BGBl. I 2017, 3483)
 
@@ -2242,6 +2295,7 @@ einzuhalten:
 (zu § 32 Absatz 2 und 3)
 
 #### Anlage 2 Probenuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE004200000)
 
 (Fundstelle: BGBl. I 2017, 3484 - 3490)
 
@@ -3050,6 +3104,7 @@ einzuhalten:
 (zu § 16 Absatz 3, § 17 Absatz 1, 3 und 4 und § 18 Absatz 1, 3 und 4)
 
 #### Anlage 3 Anzeigen, Lieferscheine, Bestätigungen
+[Direktlink](https://www.gesetze-im-internet.de/abfkl_rv_2017/BJNR346510017.html#BJNR346510017BJNE004300000)
 
 (Fundstelle: BGBl. I 2017, 3491 - 3511)
 

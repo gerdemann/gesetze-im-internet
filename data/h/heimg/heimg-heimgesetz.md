@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE000205320)
 
 (1) Dieses Gesetz gilt für Heime. Heime im Sinne dieses Gesetzes sind
 Einrichtungen, die dem Zweck dienen, ältere Menschen oder
@@ -68,6 +69,7 @@ Internate der Berufsbildungs- und Berufsförderungswerke.
 
 
 ## § 2 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE000304320)
 
 (1) Zweck des Gesetzes ist es,
 
@@ -106,6 +108,7 @@ ihrer Aufgaben bleibt unberührt.
 
 
 ## § 3 Leistungen des Heims, Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE000412310)
 
 (1) Die Heime sind verpflichtet, ihre Leistungen nach dem jeweils
 allgemein anerkannten Stand fachlicher Erkenntnisse zu erbringen.
@@ -130,6 +133,7 @@ anerkannten Stand der fachlichen Erkenntnisse entsprechende Regelungen
 
 
 ## § 4 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE000505320)
 
 Die zuständigen Behörden informieren und beraten
 
@@ -151,11 +155,13 @@ Die zuständigen Behörden informieren und beraten
 
 
 ## (XXXX) §§ 5 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE000612310)
 
 -
 
 
 ## § 10 Mitwirkung der Bewohnerinnen und Bewohner
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001106310)
 
 (1) Die Bewohnerinnen und Bewohner wirken durch einen Heimbeirat in
 Angelegenheiten des Heimbetriebs wie Unterkunft, Betreuung,
@@ -205,6 +211,7 @@ gewählt werden können.
 
 
 ## § 11 Anforderungen an den Betrieb eines Heims
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001206320)
 
 (1) Ein Heim darf nur betrieben werden, wenn der Träger und die
 Leitung
@@ -301,6 +308,7 @@ verpflichtet, die notwendigen Maßnahmen zur Aufklärung zu ergreifen.
 
 
 ## § 12 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001307310)
 
 (1) Wer den Betrieb eines Heims aufnehmen will, hat darzulegen, dass
 er die Anforderungen nach § 11 Abs. 1 bis 3 erfüllt. Zu diesem Zweck
@@ -379,6 +387,7 @@ Bewohnerinnen und Bewohnern zu verbinden.
 
 
 ## § 13 Aufzeichnungs- und Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE000912310)
 
 (1) Der Träger hat nach den Grundsätzen einer ordnungsgemäßen Buch-
 und Aktenführung Aufzeichnungen über den Betrieb zu machen und die
@@ -458,6 +467,7 @@ bleiben unberührt.
 
 
 ## § 14 Leistungen an Träger und Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001516310)
 
 (1) Dem Träger ist es untersagt, sich von oder zugunsten von
 Bewohnerinnen und Bewohnern oder den Bewerberinnen und Bewerbern um
@@ -515,6 +525,7 @@ worden sind.
 
 
 ## § 15 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001605320)
 
 (1) Die Heime werden von den zuständigen Behörden durch wiederkehrende
 oder anlassbezogene Prüfungen überwacht. Die Prüfungen können
@@ -607,6 +618,7 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 16 Beratung bei Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE003502310)
 
 (1) Sind in einem Heim Mängel festgestellt worden, so soll die
 zuständige Behörde zunächst den Träger über die Möglichkeiten zur
@@ -632,6 +644,7 @@ Bedingungen zu finden.
 
 
 ## § 17 Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE003602310)
 
 (1) Werden festgestellte Mängel nicht abgestellt, so können gegenüber
 den Trägern Anordnungen erlassen werden, die zur Beseitigung einer
@@ -662,6 +675,7 @@ entsprechend.
 
 
 ## § 18 Beschäftigungsverbot, kommissarische Heimleitung
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE003701320)
 
 (1) Dem Träger kann die weitere Beschäftigung der Leitung, eines
 Beschäftigten oder einer sonstigen Mitarbeiterin oder eines sonstigen
@@ -682,6 +696,7 @@ Leitung übernimmt die Rechte und Pflichten der bisherigen Leitung.
 
 
 ## § 19 Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001705320)
 
 (1) Der Betrieb eines Heims ist zu untersagen, wenn die Anforderungen
 des § 11 nicht erfüllt sind und Anordnungen nicht ausreichen.
@@ -717,6 +732,7 @@ Voraussetzungen für die Untersagung entfallen sind.
 
 
 ## § 20 Zusammenarbeit, Arbeitsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE002106310)
 
 (1) Bei der Wahrnehmung ihrer Aufgaben zum Schutz der Interessen und
 Bedürfnisse der Bewohnerinnen und Bewohner und zur Sicherung einer
@@ -774,6 +790,7 @@ Fragen der bedarfsgerechten Planung zur Erhaltung und Schaffung der in
 
 
 ## § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001806320)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -825,6 +842,7 @@ Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes
 
 
 ## § 22 Berichte
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE003801320)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 berichtet den gesetzgebenden Körperschaften des Bundes alle vier
@@ -842,6 +860,7 @@ Tätigkeitsbericht zu erstellen. Dieser Bericht ist zu veröffentlichen.
 
 
 ## § 23 Zuständigkeit und Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE001903320)
 
 (1) Die Landesregierungen bestimmen die für die Durchführung dieses
 Gesetzes zuständigen Behörden.
@@ -857,6 +876,7 @@ Interessenkollisionen gefährdet oder beeinträchtigt wird.
 
 
 ## § 24 Anwendbarkeit der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE002004320)
 
 Auf die den Vorschriften dieses Gesetzes unterliegenden Heime, die
 gewerblich betrieben werden, finden die Vorschriften der
@@ -865,6 +885,7 @@ Bestimmungen enthält.
 
 
 ## § 25 Fortgeltung von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE002303320)
 
 Rechtsverordnungen, die vor Inkrafttreten dieses Gesetzes auf Grund
 des § 38 Satz 1 Nr. 10 und Sätze 2 bis 4 der Gewerbeordnung erlassen
@@ -874,6 +895,7 @@ Vorschriften dieses Gesetzes widersprechen.
 
 
 ## § 25a Erprobungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE003901320)
 
 (1) Die zuständige Behörde kann ausnahmsweise auf Antrag den Träger
 von den Anforderungen des § 10, wenn die Mitwirkung in anderer Weise
@@ -891,6 +913,7 @@ Ausnahmegenehmigung unberührt.
 
 
 ## § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE004001320)
 
 (1) Rechte und Pflichten aufgrund von Heimverträgen, die vor dem
 Inkrafttreten dieses Gesetzes geschlossen worden sind, richten sich
@@ -912,6 +935,7 @@ Gesetzes geltend gemacht werden.
 Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1096)
+[Direktlink](https://www.gesetze-im-internet.de/heimg/BJNR018730974.html#BJNR018730974BJNE003100307)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

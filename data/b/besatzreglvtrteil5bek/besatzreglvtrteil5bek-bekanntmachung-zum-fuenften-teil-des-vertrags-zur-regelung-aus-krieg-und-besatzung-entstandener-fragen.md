@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/besatzreglvtrteil5bek/BJNR207000955.html#BJNR207000955BJNE000100319)
 
 Gemäß § 1 des Anhangs zum Fünften Teil des Vertrags zur Regelung aus
 Krieg und Besatzung entstandener Fragen - Überleitungsvertrag - (in

@@ -27,9 +27,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000200000)
 
 Der Ausbildungsberuf des Gießereimechanikers und der
 Gießereimechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -37,11 +39,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000300000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -59,6 +63,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -168,6 +173,7 @@ ergibt sich aus Abschnitt B der Anlage.
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000600000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede
@@ -175,6 +181,7 @@ Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000700000)
 
 (1) Die Auszubildenden haben jeweils einen schriftlichen
 Ausbildungsnachweis zu führen. Dazu ist ihnen während der
@@ -185,9 +192,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000801119)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -199,6 +208,7 @@ durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -215,6 +225,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 Gießereitechnik statt.
@@ -274,6 +285,7 @@ Bearbeitungszeit für die schriftlich zu bearbeitenden Aufgaben beträgt
 
 
 ### § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -295,6 +307,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
 statt:
@@ -315,6 +328,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001300000)
 
 (1) Im Prüfungsbereich Kundenauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -373,6 +387,7 @@ höchstens 20 Minuten.
 
 
 ### § 13 Prüfungsbereich Auftrags- und Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001400000)
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -402,6 +417,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Gussstückherstellung
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001500000)
 
 (1) Im Prüfungsbereich Gussstückherstellung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -431,6 +447,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -444,6 +461,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001701119)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -537,6 +555,7 @@ im Verhältnis 2:1 zu gewichten.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Gießereimechaniker und zur Gießereimechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/gmausbv/BJNR113410015.html#BJNR113410015BJNE001800000)
 
 (Fundstelle: BGBl. I 2015, 1138 - 1146)
 

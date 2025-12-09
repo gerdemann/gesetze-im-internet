@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000100000)
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
 Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in
@@ -31,14 +32,17 @@ Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## Teil 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000100000)
 
 
 
 ### Kapitel 1 - Anwendungsbereich, Laufbahn, Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000200000)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000300000)
 
 (1) Diese Verordnung gilt für die Laufbahn des höheren technischen
 Verwaltungsdienstes des Bundes in den Fachrichtungen Hochbau,
@@ -50,6 +54,7 @@ des Teils 1 für alle Fachrichtungen der Laufbahn.
 
 
 #### § 2 Laufbahnämter
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000400000)
 
 (1) Die Laufbahn des höheren technischen Verwaltungsdienstes des
 Bundes umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter
@@ -118,6 +123,7 @@ durchlaufen.
 
 
 #### § 3 Ziel und Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000500000)
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
 Beamtinnen und Beamten die berufliche Grundbildung (berufspraktische
@@ -149,6 +155,7 @@ das Selbststudium ist zu fördern.
 
 
 #### § 4 Einstellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000602311)
 
 Einstellungsbehörden sind das Bundesministerium für Verkehr und
 digitale Infrastruktur und das Bundesministerium des Innern, für Bau
@@ -166,6 +173,7 @@ Ausbildungsbehörde delegiert sind.
 
 
 #### § 5 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000701310)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -199,6 +207,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 #### § 6 Ausschreibung, Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000801311)
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
 ermittelt.
@@ -255,6 +264,7 @@ Bewerbung sind beizufügen:
 
 
 #### § 7 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE000900000)
 
 (1) Vor der Entscheidung über die Einstellung in den
 Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob
@@ -309,6 +319,7 @@ von der Einstellungsbehörde für die Dauer von drei Jahren bestellt.
 
 
 #### § 8 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001002116)
 
 (1) Die Einstellungsbehörde entscheidet nach dem Ergebnis des
 Auswahlverfahrens über die Einstellung von Bewerberinnen und
@@ -361,6 +372,7 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
 
 #### § 9 Rechtsstellung während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001101310)
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
 Beamtenverhältnis auf Widerruf - Bewerberinnen zu Baureferendarinnen
@@ -373,6 +385,7 @@ Kommunalbehörde unterstehen sie auch deren Dienstaufsicht.
 
 
 #### § 10 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001201310)
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre.
 
@@ -424,11 +437,13 @@ Verlängerung des Vorbereitungsdienstes nach § 35 Abs. 2 und 3.
 
 
 #### § 11 Urlaub während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001300000)
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 
 #### § 12 Ausbildungsakte
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001400000)
 
 Für die Baureferendarinnen und Baureferendare sind Personalteilakten
 "Ausbildung" zu führen, in die der Ausbildungsplan sowie alle
@@ -436,6 +451,7 @@ Beurteilungen und Prüfungsergebnisse aufzunehmen sind.
 
 
 #### § 13 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001500000)
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
 die Erbringung von Leistungsnachweisen und für die Teilnahme an
@@ -463,6 +479,7 @@ auf die Rahmenintegrationsvereinbarung hingewiesen.
 
 
 #### § 14 Gliederung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001600000)
 
 Die Gliederung des Vorbereitungsdienstes richtet sich nach den
 Bedürfnissen der einzelnen Fachrichtungen. Anzahl, Dauer und Inhalt
@@ -471,6 +488,7 @@ geregelt.
 
 
 #### § 15 Grundsätze der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001700000)
 
 (1) Die Baureferendarinnen und Baureferendare werden nach den
 Sondervorschriften ihrer Fachrichtung, ihres Fachgebietes oder ihres
@@ -491,6 +509,7 @@ Planspiele, Arbeitsgemeinschaften oder Exkursionen vertieft.
 
 
 #### § 16 Ausbildungsbehörde, Ausbildungsleitung, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001800000)
 
 (1) Die Baureferendarinnen und Baureferendare werden von der
 Einstellungsbehörde, soweit sie nicht selbst Ausbildungsbehörde ist,
@@ -544,6 +563,7 @@ Baureferendare eine Übersicht über den Vorbereitungsdienst.
 
 
 #### § 17 Beurteilungen während der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE001901116)
 
 (1) Über die Leistungen und den Befähigungsstand der
 Baureferendarinnen und Baureferendare wird während der Ausbildung für
@@ -569,10 +589,12 @@ Baureferendarinnen und Baureferendare Aufschluss geben.
 
 
 ### Kapitel 2 - Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000300000)
 
 
 
 #### § 18 Ausbildungsaufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002003311)
 
 (1) Die Einstellungsbehörde benennt die Beamtinnen und Beamten, die am
 Auswahlverfahren für den Ausbildungsaufstieg in den höheren
@@ -634,6 +656,7 @@ Aufstiegsausbildung teilnehmen.
 
 
 #### § 19 Praxisaufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002103311)
 
 (1) Die Einstellungsbehörde benennt die Beamtinnen und Beamten, die am
 Auswahlverfahren für den Praxisaufstieg in die Laufbahn des höheren
@@ -680,10 +703,12 @@ Rechtsstellung.
 
 
 ### Kapitel 3 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000400000)
 
 
 
 #### § 20 Oberprüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002200000)
 
 (1) Die Durchführung der Großen Staatsprüfung obliegt dem
 Oberprüfungsamt für die höheren technischen Verwaltungsbeamten mit
@@ -720,6 +745,7 @@ Prüfungskommission. Dies gilt entsprechend für die Vertretungen.
 
 
 #### § 21 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002300000)
 
 (1) Die Große Staatsprüfung wird vor einer Prüfungskommission der
 jeweiligen Fachrichtung oder des jeweiligen Fachgebiets abgelegt. Für
@@ -765,6 +791,7 @@ Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
 
 #### § 22 Große Staatsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002400000)
 
 (1) In der Großen Staatsprüfung ist festzustellen, ob die
 Baureferendarinnen und Baureferendare für die vorgesehene Laufbahn
@@ -804,6 +831,7 @@ nur deren Mitglieder anwesend sein.
 
 
 #### § 23 Prüfungsort, Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002500000)
 
 (1) Der Termin der häuslichen Prüfungsarbeit wird vom Oberprüfungsamt
 festgesetzt und den Baureferendarinnen und Baureferendaren zusammen
@@ -818,6 +846,7 @@ einem anderen von ihm zu bestimmenden Prüfungsort statt.
 
 
 #### § 24 Zulassung zur Großen Staatsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002600000)
 
 (1) Zur Großen Staatsprüfung kann nur zugelassen werden, wer die
 vorgeschriebenen Ausbildungsabschnitte ordnungsgemäß durchlaufen hat.
@@ -853,6 +882,7 @@ den schriftlichen Arbeiten unter Aufsicht wieder zuzuleiten.
 
 
 #### § 25 Häusliche Prüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002701116)
 
 (1) Die häusliche Prüfungsarbeit soll die Fähigkeit erkennen lassen,
 Aufgaben aus der Praxis richtig zu erfassen, methodisch zu bearbeiten
@@ -917,6 +947,7 @@ zurückverlangen.
 
 
 #### § 26 Schriftliche Arbeiten unter Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002801116)
 
 (1) Die schriftliche Prüfung soll die Fähigkeit erkennen lassen,
 Aufgaben aus dem Bereich der Verwaltung schnell und sicher zu
@@ -988,6 +1019,7 @@ einen Bescheid mit Rechtsbehelfsbelehrung.
 
 
 #### § 27 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE002901116)
 
 (1) Die mündliche Prüfung soll neben dem Wissen und Können der
 Fachrichtung vor allem das Verständnis für technische,
@@ -1051,6 +1083,7 @@ die Mitglieder der jeweiligen Prüfungskommission bestätigen.
 
 
 #### § 28 Verhinderung, Rücktritt, Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003000000)
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
 Umstände an der Ablegung der Prüfung oder Teilen der Prüfung
@@ -1077,6 +1110,7 @@ versehen.
 
 
 #### § 29 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003100000)
 
 (1) Baureferendarinnen oder Baureferendaren, die bei einer
 schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine
@@ -1114,6 +1148,7 @@ hören.
 
 
 #### § 30 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003200000)
 
 Die Leistungen werden mit folgenden Noten und Punktzahlen bewertet:
 
@@ -1163,6 +1198,7 @@ Andere Punktzahlen oder Zwischennoten dürfen nicht verwendet werden.
 
 
 #### § 31 Gesamtergebnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003300000)
 
 (1) Im Anschluss an die mündliche Prüfung stellt die
 Prüfungskommission das Gesamtergebnis fest. Dabei werden
@@ -1230,6 +1266,7 @@ Berufsbezeichnung enthält.
 
 
 #### § 32 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003400000)
 
 (1) Das Oberprüfungsamt erteilt den Baureferendarinnen und
 Baureferendaren, die die Prüfung bestanden haben, ein Prüfungszeugnis,
@@ -1257,6 +1294,7 @@ Fällen des § 29 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
 
 #### § 33 Erwerb der Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003500000)
 
 Mit dem Bestehen der Großen Staatsprüfung erwerben die
 Baureferendarinnen und Baureferendare die Befähigung zum höheren
@@ -1266,6 +1304,7 @@ Fachrichtung bezeichnenden Zusatz zu führen.
 
 
 #### § 34 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003600000)
 
 (1) Jeweils eine Ausfertigung der Bewertungen, der Niederschriften
 über die Große Staatsprüfung sowie des Prüfungszeugnisses ist mit der
@@ -1280,6 +1319,7 @@ Prüfungsakten nehmen.
 
 
 #### § 35 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003701116)
 
 (1) Wer die Große Staatsprüfung nicht bestanden hat oder wessen
 Prüfung als nicht bestanden gilt, kann sie einmal wiederholen.
@@ -1332,14 +1372,17 @@ hiervon unberührt.
 
 
 ## Teil 2 - Sondervorschriften für die einzelnen Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000500000)
 
 
 
 ### Kapitel 1 - Fachrichtung Hochbau
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000600000)
 
 
 
 #### § 36 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003801310)
 
 Es werden nur Bewerberinnen und Bewerber eingestellt, die gemäß § 5
 Nummer 2 ein abgeschlossenes wissenschaftliches Studium der
@@ -1350,6 +1393,7 @@ Abschluss nachweisen.
 
 
 #### § 37 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE003900000)
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische
 Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
@@ -1479,6 +1523,7 @@ Ausbildungsplan
 
 
 #### § 38 Prüfungsfächer, Prüfungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004000000)
 
    Für die schriftliche und mündliche Prüfung sind folgende
 Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche
@@ -1545,6 +1590,7 @@ Prüfung:
 
 
 #### § 39 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004100000)
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
 Beamte des gehobenen bautechnischen Verwaltungsdienstes des Bundes -
@@ -1554,10 +1600,12 @@ zugelassen werden.
 
 
 ### Kapitel 2 - Fachrichtung Bauingenieurwesen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000700000)
 
 
 
 #### § 40 Einstellungsvoraussetzungen, Fachgebiet
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004201310)
 
 Es werden nur Bewerberinnen und Bewerber eingestellt die gemäß § 5
 Nummer 2 ein abgeschlossenes wissenschaftliches Studium des
@@ -1569,6 +1617,7 @@ Fachbereich "Wasserstraßen", ausgebildet.
 
 
 #### § 41 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004303116)
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische
 Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
@@ -1937,6 +1986,7 @@ bis III geändert werden.
 
 
 #### § 42 Prüfungsfächer, Prüfungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004400000)
 
 Für die schriftliche und mündliche Prüfung sind folgende
 Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche
@@ -2011,6 +2061,7 @@ Prüfung:
 
 
 #### § 43 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004501116)
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
 Beamte des gehobenen technischen Verwaltungsdienstes in der
@@ -2021,10 +2072,12 @@ werden.
 
 
 ### Kapitel 3 - Fachrichtung Bahnwesen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000800000)
 
 
 
 #### § 44 Schwerpunktgebiete, Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004601310)
 
 (1) In der Fachrichtung Bahnwesen ist eine vertiefte Ausbildung in
 folgenden Schwerpunktgebieten vorgesehen:
@@ -2050,6 +2103,7 @@ Abschluss nachweisen.
 
 
 #### § 45 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004701116)
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische
 Ausbildung und Lehrgänge, die aufeinander abgestimmt werden.
@@ -2437,6 +2491,7 @@ Ausbildung und Lehrgänge, die aufeinander abgestimmt werden.
 
 
 #### § 46 Prüfungsfächer, Prüfungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004800000)
 
 Für die schriftliche und mündliche Prüfung sind folgende
 Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche
@@ -2606,6 +2661,7 @@ Prüfung:
 
 
 #### § 47 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE004900000)
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
 Beamte des gehobenen technischen Dienstes - Fachrichtung Bahnwesen -
@@ -2615,10 +2671,12 @@ werden.
 
 
 ### Kapitel 4 - Fachrichtung Maschinen- und Elektrotechnik
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG000900000)
 
 
 
 #### § 48 Fachgebiete, Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005001310)
 
 (1) In der Fachrichtung Maschinen- und Elektrotechnik ist eine
 vertiefte Ausbildung in den Fachgebieten Maschinen- und Elektrotechnik
@@ -2637,6 +2695,7 @@ entsprechenden Master-Abschluss nachweisen.
 
 
 #### § 49 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005103116)
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische
 Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
@@ -3056,6 +3115,7 @@ Fachrichtung: Maschinen- und Elektrotechnik
 
 
 #### § 50 Prüfungsfächer, Prüfungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005200000)
 
    Für die schriftliche und mündliche Prüfung sind folgende
 Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche
@@ -3200,6 +3260,7 @@ Prüfung:
 
 
 #### § 51 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005301116)
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
 Beamte des gehobenen technischen Verwaltungsdienstes der
@@ -3211,10 +3272,12 @@ werden.
 
 
 ### Kapitel 5 - Fachrichtung Luftfahrttechnik
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG001000000)
 
 
 
 #### § 52 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005401310)
 
 (1) Es werden nur Bewerberinnen und Bewerber eingestellt, die gemäß §
 5 Nummer 2 ein abgeschlossenes wissenschaftliches Studium des
@@ -3230,6 +3293,7 @@ besitzen.
 
 
 #### § 53 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005501116)
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische
 Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
@@ -3441,6 +3505,7 @@ Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
 
 
 #### § 54 Prüfungsfächer, Prüfungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005600000)
 
    Für die schriftliche und mündliche Prüfung sind folgende
 Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche
@@ -3515,6 +3580,7 @@ Prüfung:
 
 
 #### § 55 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005700000)
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
 Beamte einer Laufbahn mit Vorbereitungsdienst des gehobenen
@@ -3524,10 +3590,12 @@ Fachrichtung Luftfahrttechnik - zugelassen werden.
 
 
 ## Teil 3 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNG001100000)
 
 
 
 ### § 56 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005800000)
 
 Für Baureferendarinnen und Baureferendare, die sich zum Zeitpunkt des
 Inkrafttretens dieser Verordnung bereits im Vorbereitungsdienst
@@ -3538,6 +3606,7 @@ vom 23. November 1998 (VkBl. S. 1338), weiter.
 
 
 ### § 57 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lap-htverwdv/BJNR223000004.html#BJNR223000004BJNE005900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

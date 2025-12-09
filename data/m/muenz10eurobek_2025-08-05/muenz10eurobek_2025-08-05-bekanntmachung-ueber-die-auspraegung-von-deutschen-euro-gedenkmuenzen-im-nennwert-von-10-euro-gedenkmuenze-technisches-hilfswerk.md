@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2025-08-05/BJNR0BF0A0025.html#BJNR0BF0A0025BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 10-Euro-
@@ -66,11 +67,13 @@ technischen Merkmalen gemäß § 5 des Münzgesetzes wurde hergestellt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2025-08-05/BJNR0BF0A0025.html#BJNR0BF0A0025BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2025-08-05/BJNR0BF0A0025.html#BJNR0BF0A0025BJNE000300000)
 
 (Fundstelle: BGBl. 2025 I Nr. 191, S. 2)
 

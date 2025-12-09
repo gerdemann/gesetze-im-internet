@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 4 Abs. 2 dieser V iVm Bek. v. 11.9.2024 I Nr. 282 mit Ablauf d. 31.8.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_5/BJNR0620A0024.html#BJNR0620A0024BJNE000100000)
 
 Aufgrund des § 3 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 14 des
 Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
@@ -30,6 +31,7 @@ verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
 
 
 ## § 1 Abweichende Regelung zur Binnenschifffahrtsstraßen-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_5/BJNR0620A0024.html#BJNR0620A0024BJNE000200000)
 
 Die Binnenschifffahrtsstraßen-Ordnung ist mit der Maßgabe anzuwenden,
 die sich aus der im Anhang aufgeführten vorübergehenden Regelung
@@ -37,6 +39,7 @@ ergibt.
 
 
 ## § 2 Verhaltenspflichten des Schiffsführers und der für Kurs und Geschwindigkeit verantwortlichen Person
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_5/BJNR0620A0024.html#BJNR0620A0024BJNE000300000)
 
 (1) Der Schiffsführer und die nach § 1.03 Nummer 3 der
 Binnenschifffahrtsstraßen-Ordnung für Kurs und Geschwindigkeit
@@ -80,6 +83,7 @@ Binnenschifffahrtsstraßen-Ordnung ist nicht anzuwenden.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_5/BJNR0620A0024.html#BJNR0620A0024BJNE000400000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -91,6 +95,7 @@ nicht sicherstellt, dass diese eingehalten werden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_5/BJNR0620A0024.html#BJNR0620A0024BJNE000500000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die Vierte
 Verordnung zur vorübergehenden Abweichung von der
@@ -109,6 +114,7 @@ Bundesgesetzblatt bekannt gemacht.
 (zu § 1)
 
 ## Anhang Abweichung zur Binnenschifffahrtsstraßen-Ordnung (BinSchStrO)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro2012abwv_5/BJNR0620A0024.html#BJNR0620A0024BJNE000600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 98, S. 3 - 5)
 

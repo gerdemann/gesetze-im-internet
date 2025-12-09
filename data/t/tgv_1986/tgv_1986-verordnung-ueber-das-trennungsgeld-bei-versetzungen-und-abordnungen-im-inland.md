@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE001901360)
 
 (1) Berechtigte nach dieser Verordnung sind
 
@@ -122,6 +123,7 @@ Bereichen und zwischen diesen und dem Inland.
 
 
 ## § 2 Trennungsgeld nach Zusage der Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000308360)
 
 (1) Ist Umzugskostenvergütung zugesagt, steht Trennungsgeld zu,
 
@@ -213,6 +215,7 @@ Trennungsgeldanspruch lebt nicht wieder auf.
 
 
 ## § 3 Trennungsgeld beim auswärtigen Verbleiben
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000410360)
 
 (1) Ein Berechtigter, der nicht täglich zum Wohnort zurückkehrt und
 dem die tägliche Rückkehr nicht zuzumuten oder aus dienstlichen
@@ -249,6 +252,7 @@ entsprechender Anwendung des § 5 Absatz 4 erstattet.
 
 
 ## § 4 Sonderbestimmungen beim auswärtigen Verbleiben
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000509360)
 
 (1) Das Tagegeld des Trennungsreisegeldes und das Trennungstagegeld
 werden für volle Kalendertage
@@ -312,6 +316,7 @@ werden kann.
 
 
 ## § 5 Reisebeihilfe für Heimfahrten
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000610360)
 
 (1) Ein Berechtigter nach § 3 hat einen Anspruch auf Reisebeihilfen
 nach Maßgabe des § 8 des Bundesreisekostengesetzes.
@@ -343,6 +348,7 @@ des Bundesreisekostengesetzes gilt entsprechend.
 
 
 ## § 5a Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE001707130)
 
 Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von
 Asylbewerbern für von der obersten Dienstbehörde beschlossene
@@ -351,11 +357,13 @@ Reisebeihilfe für jede Woche. § 5 Absatz 2 bis 4 bleibt unberührt.
 
 
 ## § 5b
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE001804320)
 
 (weggefallen)
 
 
 ## § 6 Trennungsgeld bei täglicher Rückkehr zum Wohnort
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000708360)
 
 (1) Ein Berechtigter, der täglich an den Wohnort zurückkehrt oder dem
 die tägliche Rückkehr zuzumuten ist (§ 3 Abs. 1 Satz 2), erhält als
@@ -389,6 +397,7 @@ Trennungsübernachtungsgeld 75 Prozent dieses Betrages berücksichtigt.
 
 
 ## § 7 Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000805360)
 
 (1) Anspruch auf Trennungsgeld besteht weiter, wenn sich aus Anlaß
 einer neuen Maßnahme nach § 1 Abs. 2 der neue Dienstort nicht ändert.
@@ -408,6 +417,7 @@ Besoldung besteht; § 4 Absatz 7 bleibt hiervon unberührt.
 
 
 ## § 8 Ende des Trennungsgeldanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE000905320)
 
 (1) Das Trennungsgeld wird bis zum Tag des Wegfalls der maßgebenden
 Voraussetzungen gewährt.
@@ -425,6 +435,7 @@ vorausgehenden Tag.
 
 
 ## § 9 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE001006116)
 
 (1) Das Trennungsgeld ist innerhalb einer Ausschlußfrist von einem
 Jahr nach Beginn der Maßnahme nach § 1 Abs. 2 schriftlich oder
@@ -444,10 +455,12 @@ Trennungsgeld gewährt.
 
 
 ## § 10 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE001108130)
 
 § 5a ist bis einschließlich 31. Dezember 2028 anzuwenden.
 
 
 ## (XXXX) §§ 11 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tgv_1986/BJNR007450986.html#BJNR007450986BJNE001204116)
 
 

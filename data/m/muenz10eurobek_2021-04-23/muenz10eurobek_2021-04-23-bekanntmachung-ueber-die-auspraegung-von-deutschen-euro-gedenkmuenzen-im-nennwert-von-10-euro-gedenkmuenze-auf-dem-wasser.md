@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2021-04-23/BJNR098200021.html#BJNR098200021BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 10-Euro-
@@ -57,11 +58,13 @@ wurde von dem Künstler Andre Witting aus Berlin gestaltet.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2021-04-23/BJNR098200021.html#BJNR098200021BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2021-04-23/BJNR098200021.html#BJNR098200021BJNE000300000)
 
 (Fundstelle: BGBl. I 2021, 982)
 

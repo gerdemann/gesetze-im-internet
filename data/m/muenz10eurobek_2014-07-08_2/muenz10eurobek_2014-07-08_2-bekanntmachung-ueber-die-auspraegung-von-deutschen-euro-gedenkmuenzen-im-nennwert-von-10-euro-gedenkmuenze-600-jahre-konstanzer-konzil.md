@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2014-07-08_2/BJNR115000014.html#BJNR115000014BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „600 Jahre
@@ -58,11 +59,13 @@ Der Entwurf stammt von der Künstlerin Katrin Pannicke aus Halle.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2014-07-08_2/BJNR115000014.html#BJNR115000014BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2014-07-08_2/BJNR115000014.html#BJNR115000014BJNE000300000)
 
 (Fundstelle: BGBl. I 2014, 1150)
 

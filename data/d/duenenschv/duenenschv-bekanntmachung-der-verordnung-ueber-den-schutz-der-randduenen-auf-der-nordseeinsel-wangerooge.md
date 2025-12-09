@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000100000)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
@@ -52,6 +53,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
 
 ## § 1 Benutzungs- und Beschädigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000200000)
 
 (1) Zum Schutz der für die Erhaltung des Bestandes der Insel
 Wangerooge notwendigen Randdünen ist es verboten,
@@ -95,6 +97,7 @@ kenntlich gemacht werden.
 
 
 ## § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000300000)
 
 (1) Ausnahmen von den Verboten des § 1 Absatz 1 können durch
 Einzelgenehmigung zugelassen werden.
@@ -112,6 +115,7 @@ werden.
 
 
 ## § 3 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000401124)
 
 Von den Verboten des § 1 Absatz 1 Nummer 1 bis 4 befreit sind die
 Bediensteten oder Beauftragten der Wasserstraßen- und
@@ -123,12 +127,14 @@ erforderlich sind.
 
 
 ## § 4 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000500000)
 
 Ausnahmegenehmigungen nach § 2 erteilt das örtlich zuständige
 Wasserstraßen- und Schifffahrtsamt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000600000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -154,6 +160,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000701124)
 
 Schilder, die am 30. Juni 2016 aufgestellt sind, gelten neben den nach
 dieser Verordnung aufgestellten Schildern bis zum 31. Dezember 2021
@@ -164,6 +171,7 @@ Randdünen auf der Insel Wangerooge vom 27. Oktober 1972 (VkBl. 1972,
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000800000)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -174,6 +182,7 @@ Kraft.
 (zu § 1 Absatz 2)
 
 ## Anlage Schild zur Kennzeichnung der Verbote
+[Direktlink](https://www.gesetze-im-internet.de/d_nenschv/BJNR704390016.html#BJNR704390016BJNE000900000)
 
 (Fundstelle: VkBl. 2016, 441)
 

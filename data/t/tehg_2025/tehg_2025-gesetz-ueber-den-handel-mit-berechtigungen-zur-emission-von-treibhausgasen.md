@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt G 2129-55 v. 21.7.2011 I 1475 (TEHG 2011)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000200000)
 
 Zweck dieses Gesetzes ist es, die Grundlagen für ein unionsweites
 Emissionshandelssystem zu schaffen, um damit auf kosteneffiziente
@@ -38,6 +40,7 @@ des CO
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000300000)
 
 (1) Dieses Gesetz gilt für die in Teil A Abschnitt 2 des Anhangs sowie
 für die in Teil B Abschnitt 2 des Anhangs aufgeführten Tätigkeiten.
@@ -67,6 +70,7 @@ Kapitel II der EU-MRV-Seeverkehrsverordnung.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000400000)
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -355,9 +359,11 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000200000)
 
 
 ### § 4 Emissionsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000500000)
 
 (1) Eine Emissionsgenehmigung benötigen
 
@@ -407,6 +413,7 @@ im Übrigen unberührt.
 
 
 ### § 5 Ermittlung von Emissionen und Emissionsbericht
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000600000)
 
 (1) Betreiber, Schifffahrtsunternehmen und Verantwortliche sind
 verpflichtet, nach folgenden Maßgaben die durch ihre Tätigkeit in
@@ -432,6 +439,7 @@ Prüfstelle nach § 14 Absatz 1 verifiziert worden sein.
 
 
 ### § 6 Überwachungsplan
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000700000)
 
 (1) Betreiber, Schifffahrtsunternehmen und Verantwortliche sind
 verpflichtet, bei der zuständigen Behörde für jede Handelsperiode
@@ -488,6 +496,7 @@ gilt Absatz 2 entsprechend.
 
 
 ### § 7 Abgabeverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000800000)
 
 (1) Betreiber und Schifffahrtsunternehmen sind verpflichtet, jährlich
 bis zum 30. September an die zuständige Behörde eine Anzahl von
@@ -504,9 +513,11 @@ die Anforderungen nach § 37 Absatz 3.
 
 
 ## Abschnitt 3 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000300000)
 
 
 ### § 8 Gültigkeit und Übertragung von Berechtigungen und Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE000900000)
 
 (1) Berechtigungen und Emissionszertifikate sind zeitlich unbegrenzt
 gültig. Satz 1 gilt nicht für Berechtigungen, die vor dem 1. Januar
@@ -535,6 +546,7 @@ Europäischen Kommission Berechtigungen gleich.
 
 
 ### § 9 Emissionshandelsregister
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001000000)
 
 (1) Berechtigungen und Emissionszertifikate werden in einem
 Emissionshandelsregister nach Artikel 19 der EU-
@@ -547,6 +559,7 @@ Berechtigungen, wenn ihm die Unrichtigkeit bei Ausgabe bekannt ist.
 
 
 ### § 10 Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001100000)
 
 (1) Die Versteigerung von Berechtigungen und Emissionszertifikaten
 wird nach den Regeln der EU-Auktionsverordnung durchgeführt.
@@ -594,6 +607,7 @@ Bundesregierung festgestellt.
 
 
 ### § 11 Zuständigkeiten; Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001200000)
 
 (1) Zuständige Behörde ist
 
@@ -720,6 +734,7 @@ bekannt zu machen.
 
 
 ### § 12 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001300000)
 
 (1) Die nach § 11 Absatz 1 jeweils zuständige Behörde hat die
 Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten
@@ -761,6 +776,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 13 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001400000)
 
 (1) Zur Überprüfung der von Anlagenbetreibern oder Verantwortlichen
 nach § 5 Absatz 1 übermittelten Daten durch die zuständige Behörde ist
@@ -872,6 +888,7 @@ durchzuführen.
 
 
 ### § 14 Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001500000)
 
 (1) Berechtigte Prüfstellen sind:
 
@@ -899,6 +916,7 @@ nur im öffentlichen Interesse wahr.
 
 
 ### § 15 Formvorschriften; elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001600000)
 
 (1) Erklärungen gegenüber der zuständigen Behörde sind auf
 elektronischem Wege und in elektronischer Form abzugeben. Die
@@ -922,6 +940,7 @@ dieses Gesetzes gilt Absatz 1 entsprechend.
 
 
 ### § 16 Änderung der Identität oder Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001700000)
 
 (1) Ändert sich die Identität oder die Rechtsform eines Betreibers,
 Schifffahrtsunternehmens oder Verantwortlichen, so ist der neue
@@ -955,6 +974,7 @@ Insolvenzschuldner nach Satz 1 als eigenverwaltender Schuldner.
 
 
 ### § 17 Ausschluss der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001800000)
 
 Widerspruch und Anfechtungsklage gegen Zuteilungsentscheidungen oder
 Entscheidungen nach § 45 Satz 1 oder § 47 Absatz 1 bis 3 oder
@@ -963,6 +983,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 18 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE001900000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf,
@@ -1012,12 +1033,15 @@ Verordnung abschließend geregelt sind.
 
 
 ## Abschnitt 4 - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000400000)
 
 
 ### Unterabschnitt 1 - Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000500000)
 
 
 #### § 19 Regelungen zum Anwendungsbereich bei Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002000000)
 
 (1) Für die in Teil A Abschnitt 2 Nummer 1 bis 32 des Anhangs
 genannten Anlagen gilt dieses Gesetz auch dann, wenn sie Teile oder
@@ -1107,6 +1131,7 @@ sind.
 
 
 #### § 20 Emissionsgenehmigung für Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002100000)
 
 (1) Die Emissionsgenehmigung nach § 4 Absatz 1 Nummer 1 ist auf Antrag
 des Anlagenbetreibers von der zuständigen Behörde zu erteilen, wenn
@@ -1197,6 +1222,7 @@ nachfolgenden Zuteilungszeitraums auf.
 
 
 #### § 21 Ermittlung von und Berichterstattung über Emissionen für Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002200000)
 
 (1) Zur Erfüllung der Berichtspflicht nach § 5 Absatz 1 hat der
 Anlagenbetreiber seine Emissionen nach dem genehmigten
@@ -1218,6 +1244,7 @@ Anlagen zur Eisen- und Stahlerzeugung dürfen nicht gemeinsam mit den
 
 
 #### § 22 Ergänzende Anforderungen an den Überwachungsplan für Anlagen; Anpassung des Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002300000)
 
 (1) Für die Einreichung des Überwachungsplans nach § 6 Absatz 1 gelten
 folgende Fristen:
@@ -1246,6 +1273,7 @@ Artikels 15 Absatz 3 der EU-Monitoring-Durchführungsverordnung führen.
 
 
 #### § 23 Zuteilung von kostenlosen Berechtigungen an Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002400000)
 
 (1) Anlagenbetreiber erhalten eine Zuteilung von kostenlosen
 Berechtigungen nach Maßgabe der EU-Zuteilungs-Verordnung.
@@ -1284,6 +1312,7 @@ Verwaltungsakten geltenden Vorschriften unberührt.
 
 
 #### § 24 Ausgabe von Berechtigungen an Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002500000)
 
 (1) Die zuständige Behörde gibt die nach § 23 Absatz 4 zugeteilten
 Berechtigungen nach Maßgabe der Zuteilungsentscheidung bis zum Ablauf
@@ -1298,6 +1327,7 @@ Satz 1 erstmals zum 30. Juni desselben Jahres ausgegeben.
 
 
 #### § 25 Durchsetzung von Rückgabeverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002600000)
 
 Soweit der Anlagenbetreiber im Fall der Aufhebung der
 Zuteilungsentscheidung zur Rückgabe zu viel ausgegebener
@@ -1308,6 +1338,7 @@ bis zu 500 000 Euro.
 
 
 #### § 26 Pflichtenfreistellung für Betreiber von Anlagen mit überwiegendem Biomasseeinsatz
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002700000)
 
 (1) Die zuständige Behörde stellt den Betreiber einer Anlage ab dem
 Beginn des Zuteilungszeitraums 2026 bis 2030 von den Pflichten nach
@@ -1348,6 +1379,7 @@ entsprechende Anwendung.
 
 
 #### § 27 Einheitliche Anlage eines Anlagenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002800000)
 
 Auf Antrag stellt die zuständige Behörde fest, dass das Betreiben
 mehrerer in Teil A Abschnitt 2 Nummer 7 sowie 8 bis 11 des Anhangs
@@ -1359,6 +1391,7 @@ gewährleistet ist.
 
 
 #### § 28 Verordnungsermächtigungen für den Bereich Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE002900000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, für den Bereich der
@@ -1499,9 +1532,11 @@ betreffen.
 
 
 ### Unterabschnitt 2 - Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000600000)
 
 
 #### § 29 Regelungen zum Anwendungsbereich im Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003000000)
 
 (1) Bei Luftverkehrstätigkeiten erstreckt sich der Anwendungsbereich
 dieses Gesetzes auf alle Emissionen eines Luftfahrzeugs, die durch den
@@ -1552,6 +1587,7 @@ auftretenden Nicht-CO
 
 
 #### § 30 Berichterstattung über die im Luftverkehr auftretenden Nicht-CO2-Effekte
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003100000)
 
 Der Luftfahrzeugbetreiber ist verpflichtet, die durch seine
 Luftverkehrstätigkeit in einem Kalenderjahr entstandenen Nicht-CO
@@ -1563,6 +1599,7 @@ Emissionen die Bestimmungen der EU-Monitoring-Durchführungsverordnung.
 
 
 #### § 31 Ergänzende Anforderungen an den Überwachungsplan, die Berichterstattung und die Abgabe von Berechtigungen für Luftverkehrstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003200000)
 
 (1) Ein Luftfahrzeugbetreiber muss den Überwachungsplan unverzüglich
 nach Aufnahme der Luftverkehrstätigkeit einreichen.
@@ -1621,6 +1658,7 @@ berichten.
 
 
 #### § 32 Zuteilung von kostenlosen Berechtigungen an Luftfahrzeugbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003300000)
 
 (1) Luftfahrzeugbetreiber erhalten für die Jahre 2024 und 2025 eine
 Zuteilung von kostenlosen Berechtigungen auf Basis der für das Jahr
@@ -1686,6 +1724,7 @@ Zuteilung gilt § 25 entsprechend.
 
 
 #### § 33 Überwachung, Berichterstattung, Prüfung und Kompensation nach CORSIA
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003400000)
 
 (1) Dieses Gesetz gilt auch für die Umsetzung von CORSIA. Für die
 Berichts- und Überwachungspflichten sind die Vorgaben eines nach
@@ -1741,6 +1780,7 @@ Satz 3 nur erfüllen durch die Verwendung von Einheiten, die
 
 
 #### § 34 Veröffentlichung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003500000)
 
 Sofern die zuständige Behörde auf Antrag eines Luftfahrzeugbetreibers
 feststellt, dass die Veröffentlichung von Daten nach Artikel 14 Absatz
@@ -1755,6 +1795,7 @@ sehr begrenzten Zahl von Staatenpaaren tätig sind.
 
 
 #### § 35 Verordnungsermächtigungen für den Bereich Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003600000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, für den Bereich
@@ -1805,9 +1846,11 @@ sind.
 
 
 ### Unterabschnitt 3 - Seeverkehr
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000700000)
 
 
 #### § 36 Ergänzende Regelungen zum Anwendungsbereich und zur Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003700000)
 
 (1) Dieses Gesetz gilt nur für Seeverkehrstätigkeiten nach Teil A
 Abschnitt 2 Nummer 34 des Anhangs von Schifffahrtsunternehmen, die auf
@@ -1830,6 +1873,7 @@ Emissionshandelsrichtlinie eine abweichende Zuordnung vornimmt.
 
 
 #### § 37 Berichterstattung und Abgabe von Berechtigungen für Schifffahrtsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003800000)
 
 (1) Die Ermittlung von Emissionen und die Emissionsberichterstattung
 von Schifffahrtsunternehmen richten sich nach Kapitel II der EU-MRV-
@@ -1857,6 +1901,7 @@ nach Absatz 1 Nummer 2 maßgeblich.
 
 
 #### § 38 Ergänzende Anforderungen an den Überwachungsplan für Seeverkehrstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE003900000)
 
 (1) Tritt eine der in Artikel 7 Absatz 2 der EU-MRV-
 Seeverkehrsverordnung genannten Situationen ein, ist das
@@ -1874,6 +1919,7 @@ Abschnitt 1 bis 3 der EU-MRV-Seeverkehrsverordnung.
 
 
 #### § 39 Kostenerstattungsanspruch des Schifffahrtsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004000000)
 
 Sofern die Rechte und Pflichten, die eine endgültige Verantwortung für
 den Ankauf des Brennstoffs oder den Betrieb des Schiffes oder beides
@@ -1887,6 +1933,7 @@ bleiben unberührt.
 
 
 #### § 40 Verordnungsermächtigungen für den Bereich Seeverkehr
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004100000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, für den Bereich
@@ -1941,9 +1988,11 @@ sind.
 
 
 ### Unterabschnitt 4 - Brennstoffemissionshandel
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000800000)
 
 
 #### § 41 Emissionsgenehmigung für Verantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004200000)
 
 (1) Verantwortliche müssen die Emissionsgenehmigung nach § 4 Absatz 1
 Nummer 2 innerhalb einer von der zuständigen Behörde festzusetzenden
@@ -2033,6 +2082,7 @@ anwendbar.
 
 
 #### § 42 Ergänzende Anforderungen an den Überwachungsplan für den Brennstoffemissionshandel; Anpassung des Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004300000)
 
 (1) Für den Zeitraum ab dem Kalenderjahr 2025 haben Verantwortliche
 den Überwachungsplan innerhalb einer von der zuständigen Behörde
@@ -2063,6 +2113,7 @@ gemeinsam mit der Emissionsgenehmigung erteilen.
 
 
 #### § 43 Ermittlung von und Berichterstattung über Emissionen; sonstige Berichts- und Nachweispflichten; Verifizierung
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004400000)
 
 (1) Zur Erfüllung der Berichtspflicht nach § 5 Absatz 1 haben
 Verantwortliche ab dem Berichtsjahr 2025 die Emissionen für die durch
@@ -2098,6 +2149,7 @@ Absatz 1 Nummer 4.
 
 
 #### § 44 Verordnungsermächtigungen für den Bereich Brennstoffemissionshandel
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004500000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, für den Bereich des
@@ -2181,9 +2233,11 @@ sind.
 
 
 ## Abschnitt 5 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG000900000)
 
 
 ### § 45 Durchsetzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004600000)
 
 Kommt ein Betreiber, Schifffahrtsunternehmen oder Verantwortlicher
 seiner Berichtspflicht nach § 5 Absatz 1 nicht nach, so hat die
@@ -2198,6 +2252,7 @@ Berichtspflicht nach § 30 nicht nachkommt.
 
 
 ### § 46 Durchsetzung der Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004700000)
 
 (1) Kommt ein Betreiber, Schifffahrtsunternehmen oder Verantwortlicher
 seiner Abgabepflicht nach § 7 nicht nach, so setzt die zuständige
@@ -2242,6 +2297,7 @@ setzt einen bestandskräftigen Festsetzungsbescheid voraus.
 
 
 ### § 47 Ausweisungs- und Festhalteanordnung gegen Schifffahrtsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004800000)
 
 (1) Erfüllt ein Schifffahrtsunternehmen seine Abgabepflicht nach § 7
 Absatz 1 und 3 für mindestens zwei aufeinanderfolgende Kalenderjahre
@@ -2287,6 +2343,7 @@ zudem den betroffenen Flaggenstaat in Kenntnis.
 
 
 ### § 48 Maßnahmen gegen Luftfahrzeugbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE004900000)
 
 (1) Erfüllt ein Luftfahrzeugbetreiber seine Pflichten aus diesem
 Gesetz nicht und konnte die Einhaltung der Vorschriften nicht durch
@@ -2320,6 +2377,7 @@ erforderlichen Maßnahmen. Dazu kann sie insbesondere
 
 
 ### § 49 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005000000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2465,9 +2523,11 @@ einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
 
 ## Abschnitt 6 - Übergangs- und Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNG001000000)
 
 
 ### § 50 Allgemeine Übergangsregelung für Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005100000)
 
 (1) Für die Freisetzung von Treibhausgasen durch Tätigkeiten nach Teil
 A Abschnitt 2 Nummer 1 bis 32 des Anhangs sind in Bezug auf die
@@ -2496,6 +2556,7 @@ anzuwenden.
 
 
 ### § 51 Übergangsregelung für die Zuteilung kostenloser Berechtigungen an Anlagenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005200000)
 
 (1) Die Zuteilung von kostenlosen Berechtigungen für die in § 50
 Absatz 2 genannten Anlagen bemisst sich ab dem 1. Januar 2024 nach den
@@ -2508,6 +2569,7 @@ Emissionshandelsrichtlinie unberührt.
 
 
 ### § 52 Sonderregelung für Abfallverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005300000)
 
 (1) Die Pflichten nach § 4 Absatz 1 und § 7 Absatz 1 gelten nicht für
 Betreiber von Anlagen oder Verbrennungseinheiten nach Teil A Abschnitt
@@ -2557,6 +2619,7 @@ kostenloser Berechtigungen nach § 23.
 
 
 ### § 53 Übergangsregelung für die Anwendung der Pflichtenfreistellung nach § 26
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005400000)
 
 Der Betreiber einer Anlage, die
 
@@ -2578,6 +2641,7 @@ bewerten ist.
 
 
 ### § 54 Übergangsregelung für Luftfahrzeugbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005500000)
 
 Abweichend von § 6 Absatz 1 und 2 gilt der für das Jahr 2023
 genehmigte Überwachungsplan eines Luftfahrzeugbetreibers für das Jahr
@@ -2585,6 +2649,7 @@ genehmigte Überwachungsplan eines Luftfahrzeugbetreibers für das Jahr
 
 
 ### § 55 Übergangsregelung für Seeverkehrstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005600000)
 
 (1) Abweichend von Teil A Abschnitt 2 Nummer 34 des Anhangs gelten
 Seeverkehrstätigkeiten nach Artikel 2 Absatz 1b der EU-MRV-
@@ -2597,6 +2662,7 @@ nicht als einbezogene Treibhausgase für Seeverkehrstätigkeiten.
 
 
 ### § 56 Übergangsregelung für den Brennstoffemissionshandel bei außergewöhnlichen Marktentwicklungen
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005700000)
 
 Sofern die Europäische Kommission bis zum Ablauf des 15. Juli 2026 in
 einer Bekanntmachung im Amtsblatt der Europäischen Union den Eintritt
@@ -2609,6 +2675,7 @@ Januar 2028 in Verkehr gebracht worden sind.
 55)
 
 ### Anhang Einbezogene Tätigkeiten und Treibhausgase
+[Direktlink](https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html#BJNR0460B0025BJNE005800000)
 
 (Fundstelle: BGBl. 2025 I Nr. 70, S. 29 - 33)
 

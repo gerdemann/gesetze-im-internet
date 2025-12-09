@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000200000)
 
 Dieses Gesetz regelt die Zuständigkeit der deutschen
 Sozialversicherungsträger und anderer für die soziale Sicherheit
@@ -36,6 +38,7 @@ Nordirland andererseits (ABl. L 444 vom 31.12.2020, S. 14).
 
 
 ## § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000300000)
 
 Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde
 nach Artikel SSC.1 Buchstabe g des Protokolls über die Koordinierung
@@ -43,6 +46,7 @@ der sozialen Sicherheit.
 
 
 ## § 3 Verbindungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000400000)
 
 (1) Zur Durchführung des Protokolls über die Koordinierung der
 sozialen Sicherheit und seiner Anhänge werden in der Bundesrepublik
@@ -98,6 +102,7 @@ Alterssicherung der Landwirte.
 
 
 ## § 4 Zuständige Stellen für die Bestimmung des anwendbaren Rechts
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000500000)
 
 (1) Den Trägern der gesetzlichen Krankenversicherung wird die Aufgabe
 übertragen, die weitere Anwendbarkeit der deutschen Rechtsvorschriften
@@ -161,6 +166,7 @@ gelten entsprechend.
 
 
 ## § 5 Zugangsstellen für den elektronischen Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000600000)
 
 (1) Für die Zugangsstellen für den elektronischen Datenaustausch gilt
 § 6 Absatz 1 Nummer 1 bis 4 des Gesetzes zur Koordinierung der Systeme
@@ -175,6 +181,7 @@ sozialen Sicherheit tritt.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sozsichukg/BJNR065800021.html#BJNR065800021BJNE000700000)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 2021 in Kraft.
 

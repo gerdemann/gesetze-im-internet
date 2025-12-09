@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Gegenstand des Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000100000)
 
 (1) Die Patentanwaltskammer führt ein elektronisches Verzeichnis der
 zugelassenen Patentanwälte einschließlich der Syndikuspatentanwälte.
@@ -52,6 +53,7 @@ zudem die Berufsausübungsgesellschaften einzutragen, die
 
 
 ## § 2 Inhalt des Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000201360)
 
 (1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen
 Person geführt und mitgeteilt, akademische Grade und Ehrengrade sowie
@@ -120,6 +122,7 @@ einzutragen.
 
 
 ## § 3 Eintragungen in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000300000)
 
 Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen
 und Berufsausübungsgesellschaften erfolgt unverzüglich nach ihrer
@@ -130,6 +133,7 @@ Nachweise vorgelegt wurden.
 
 
 ## § 4 Berichtigungen des Verzeichnisses; Auskunftsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000400000)
 
 Stellt die Patentanwaltskammer fest, dass Eintragungen in ihrem
 Verzeichnis unrichtig oder unvollständig sind, hat sie diese
@@ -143,6 +147,7 @@ verlangen.
 
 
 ## § 5 Sperrung und Löschung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000500000)
 
 (1) Scheidet eine in das Verzeichnis eingetragene Person oder
 zugelassene Berufsausübungsgesellschaft aus der Patentanwaltskammer
@@ -174,6 +179,7 @@ Patentanwaltskammer ist und dass ein Abwickler bestellt wurde.
 
 
 ## § 6 Einsichtnahme in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000600000)
 
 (1) Die Einsichtnahme in das Verzeichnis der Patentanwaltskammer muss
 über das Internet jederzeit kostenfrei und ohne vorherige
@@ -184,6 +190,7 @@ zustellfähige Anschrift ist nicht einsehbar.
 
 
 ## § 7 Suchfunktion
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000700000)
 
 (1) Die Patentanwaltskammer hat die Einsichtnahme in ihr Verzeichnis
 über eine Suchfunktion zu gewährleisten. Die Suchfunktion hat die
@@ -214,6 +221,7 @@ Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
 
 
 ## § 8 Sicherheit und Einsehbarkeit der Verzeichnisdaten
+[Direktlink](https://www.gesetze-im-internet.de/patanwvv/BJNR522700021.html#BJNR522700021BJNE000800000)
 
 (1) Die Patentanwaltskammer hat zu gewährleisten, dass Eintragungen,
 Berichtigungen, Sperrungen, Entsperrungen und Löschungen von Daten im

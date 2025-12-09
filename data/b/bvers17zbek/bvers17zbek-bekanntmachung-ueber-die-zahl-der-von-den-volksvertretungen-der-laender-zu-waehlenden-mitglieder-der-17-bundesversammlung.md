@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bvers17zbek/BJNR490100021.html#BJNR490100021BJNE000100000)
 
 Auf Grund des § 2 Absatz 1 des Gesetzes über die Wahl des
 Bundespräsidenten durch die Bundesversammlung in der im

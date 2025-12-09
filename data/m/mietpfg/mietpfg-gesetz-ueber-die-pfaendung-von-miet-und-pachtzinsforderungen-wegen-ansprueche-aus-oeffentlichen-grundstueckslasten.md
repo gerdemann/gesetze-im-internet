@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mietpfg/BJNR001810934.html#BJNR001810934BJNE000100303)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/mietpfg/BJNR001810934.html#BJNR001810934BJNE000201301)
 
 (1) Die öffentlichen Lasten eines Grundstücks, die in wiederkehrenden
 Leistungen bestehen, erstrecken sich nach Maßgabe der folgenden

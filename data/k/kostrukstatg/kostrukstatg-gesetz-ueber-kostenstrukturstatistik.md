@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000104125)
 
 (1) In den Wirtschaftsbereichen „Arzt- und Zahnarztpraxen“ sowie
 „Praxen von psychologischen Psychotherapeutinnen und -therapeuten“
@@ -67,10 +68,12 @@ auf regionaler Ebene.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000205125)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000301125)
 
 (1) Die Kostenstrukturerhebungen nach § 1 erfassen folgende
 Tatbestände:
@@ -109,6 +112,7 @@ Praxislabors erfasst.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000400312)
 
 Die Angaben zu den in § 3 Abs. 1 und 2 bezeichneten Tatbeständen
 beziehen sich jeweils auf ein dem Erhebungsjahr vorangegangenes
@@ -116,6 +120,7 @@ Kalenderjahr oder Geschäftsjahr.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000505125)
 
 (1) Für die Erhebungen nach § 1 besteht Auskunftspflicht.
 Auskunftspflichtig sind die Inhaberinnen und Inhaber oder Leitungen
@@ -147,6 +152,7 @@ Nichtbeschäftigung heraus aufnehmen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000602123)
 
 Hilfsmerkmale der Erhebungen nach § 1 sind
 
@@ -162,16 +168,19 @@ Hilfsmerkmale der Erhebungen nach § 1 sind
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000700312)
 
 Die Kostenstrukturstatistik wird vom Statistischen Bundesamt
 durchgeführt.
 
 
 ## (XXXX) §§ 8 und 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE000801377)
 
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/kostrukstatg/BJNR002450959.html#BJNR002450959BJNE001000312)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

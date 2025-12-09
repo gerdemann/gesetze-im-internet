@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2020dv_1/BJNR059300020.html#BJNR059300020BJNE000100000)
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes vom 20.
 Dezember 2001 (BGBl. I S. 3955, 3956), von denen § 14 zuletzt durch
@@ -27,6 +28,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2020
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2020dv_1/BJNR059300020.html#BJNR059300020BJNE000200000)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzkraftausgleichs im Ausgleichsjahr 2020 wird der Zahlungsverkehr
@@ -157,11 +159,13 @@ Folgemonats überwiesen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2020dv_1/BJNR059300020.html#BJNR059300020BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2020 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2020dv_1/BJNR059300020.html#BJNR059300020BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

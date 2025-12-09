@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000100000)
 
 Auf Grund des § 64 Absatz 1 Satz 1 Nummer 1 des Erneuerbare-Energien-
 Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) verordnet die
@@ -27,9 +28,11 @@ Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000202116)
 
 Diese Verordnung regelt
 
@@ -46,9 +49,11 @@ Diese Verordnung regelt
 
 
 ## Teil 2 - Neue Windenergieanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNG000200000)
 
 
 ### § 2 Anschluss an das Mittelspannungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000306123)
 
 (1) Betreiberinnen und Betreiber von Windenergieanlagen an Land nach §
 3 Nummer 48 des Erneuerbare-Energien-Gesetzes, die an das
@@ -73,6 +78,7 @@ Anlage 1 sichergestellt werden muss.
 
 
 ### § 3 Anschluss an das Hoch- und Höchstspannungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000404123)
 
 Betreiberinnen und Betreiber von Windenergieanlagen an Land nach § 3
 Nummer 48 des Erneuerbare-Energien-Gesetzes, die an das Hoch- und
@@ -86,6 +92,7 @@ der Anlage 1 erfüllen.
 
 
 ### § 4 Anschluss verschiedener Anlagen an einem Netzverknüpfungspunkt
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000503116)
 
 Die technischen und betrieblichen Vorgaben nach § 9 Absatz 6 des
 Erneuerbare-Energien-Gesetzes gelten als erfüllt, wenn mehrere
@@ -108,9 +115,11 @@ der folgenden Anforderungen erfüllt werden:
 
 
 ## Teil 3 - Alte Windenergieanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNG000300000)
 
 
 ### § 5 Voraussetzungen für den Systemdienstleistungs-Bonus
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000602116)
 
 Betreiberinnen und Betreiber derjenigen Windenergieanlagen, die nach
 dem 31. Dezember 2001 und vor dem 1. Januar 2009 in Betrieb genommen
@@ -123,9 +132,11 @@ Netzverknüpfungspunkt und Windenergieanlage gelegenen Punkt erfüllen.
 
 
 ## Teil 4 - Nachweis und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNG000400000)
 
 
 ### § 6 Zertifikate, Sachverständigengutachten und Prototypen
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000704123)
 
 [^f772216_01_BJNR173400009BJNE000704123]
 (1) Der Nachweis, dass die Voraussetzungen der §§ 2 bis 4 in
@@ -177,6 +188,7 @@ werden.
 [^f772216_01_BJNR173400009BJNE000704123]: 
 
 ### § 7 Mehrere Windenergieanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000802123)
 
 Bei einem Anschluss mehrerer Windenergieanlagen an einen
 Netzverknüpfungspunkt gilt für die Zuordnung des
@@ -185,6 +197,7 @@ Gesetzes entsprechend.
 
 
 ### § 8 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE000904118)
 
 (1) Für Strom aus Anlagen, die vor dem 1. Januar 2012 in Betrieb
 genommen worden sind, ist die Systemdienstleistungsverordnung vom 3.
@@ -202,11 +215,13 @@ der am 11. Februar 2015 geltenden Fassung anzuwenden.
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE001201360)
 
 (Fundstelle: BGBl I 2009, 1736 - 1744; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -989,6 +1004,7 @@ III) An Kapitel 9.2 werden folgende Definitionen angefügt:
 [^f772216_02_BJNR173400009BJNE001201360]: 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE001300000)
 
 (Fundstelle: BGBl. I 2009, 1745)
 
@@ -1021,6 +1037,7 @@ Windenergie-Erzeugungseinheiten besteht:
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html#BJNR173400009BJNE001402118)
 
 (Fundstelle: BGBl. I 2009, 1746)
 

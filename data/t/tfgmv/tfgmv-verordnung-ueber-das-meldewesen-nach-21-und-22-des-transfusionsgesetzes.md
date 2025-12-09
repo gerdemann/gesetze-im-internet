@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tfgmv/BJNR373700001.html#BJNR373700001BJNE000000000)
 
 Auf Grund des § 23 des Transfusionsgesetzes vom 1. Juli 1998 (BGBl. I
 S. 1752) verordnet das Bundesministerium für Gesundheit nach Anhörung
@@ -27,6 +28,7 @@ von Sachverständigen:
 
 
 ## § 1 Zweck und Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/tfgmv/BJNR373700001.html#BJNR373700001BJNE000100000)
 
 Zweck der Regelungen dieser Verordnung ist es, das Meldewesen nach dem
 Fünften Abschnitt des Transfusionsgesetzes übersichtlich und
@@ -38,6 +40,7 @@ der zu meldenden Angaben nach Art, Umfang und Darstellungsweise.
 
 
 ## § 2 Angaben im Rahmen des koordinierten Meldewesens
+[Direktlink](https://www.gesetze-im-internet.de/tfgmv/BJNR373700001.html#BJNR373700001BJNE000202116)
 
 (1) Die Angaben nach § 21 Absatz 1 Satz 1 und 2 des
 Transfusionsgesetzes sind elektronisch an die zuständige
@@ -158,6 +161,7 @@ Transfusionsgesetzes sind elektronisch an die Vertrauensstelle nach §
 
 
 ## § 3 Epidemiologische Daten
+[Direktlink](https://www.gesetze-im-internet.de/tfgmv/BJNR373700001.html#BJNR373700001BJNE000302116)
 
 (1) Die Liste nach § 22 Absatz 1 Satz 1 des Transfusionsgesetzes mit
 den Angaben über die Anzahl der spendewilligen und spendenden
@@ -239,11 +243,13 @@ spendewilligen und spendenden Personen angewendet worden sind.
 
 
 ## § 4 Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfgmv/BJNR373700001.html#BJNR373700001BJNE000401116)
 
 § 2 Absatz 4 ist ab dem 1. August 2019 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tfgmv/BJNR373700001.html#BJNR373700001BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

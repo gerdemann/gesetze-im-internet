@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Begriffsbestimmungen, Zuständigkeiten und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNG000100306)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000202360)
 
 (1) Zentrale Behörden im Sinne des Artikels 6 des Haager
 Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die
@@ -56,6 +58,7 @@ Nummer 2, § 4 Absatz 2 des Adoptionsvermittlungsgesetzes).
 
 
 ### § 2 Sachliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000301360)
 
 (1) Die in § 1 Absatz 2 genannten Adoptionsvermittlungsstellen nehmen
 unbeschadet des Absatzes 3 Satz 1 für die von ihnen betreuten
@@ -86,6 +89,7 @@ zuständigen Stellen.
 
 
 ### § 3 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000402360)
 
 (1) Die Bundeszentralstelle und die Auslandsvermittlungsstellen können
 unmittelbar mit allen zuständigen Stellen im Inland und im Ausland
@@ -108,10 +112,12 @@ dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 ## Abschnitt 2 - Internationale Adoptionsvermittlung im Verhältnis zu anderen Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNG000200306)
 
 
 
 ### § 4 Adoptionsbewerbung
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000501360)
 
 (1) Adoptionsbewerber mit gewöhnlichem Aufenthalt im Inland richten
 ihre Bewerbung entweder an die zentrale Adoptionsstelle oder an eine
@@ -165,6 +171,7 @@ beantragte Übermittlung nach Form oder Inhalt den Bestimmungen des
 
 
 ### § 5 Aufnahme eines Kindes
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000600306)
 
 (1) Der Vermittlungsvorschlag der zentralen Behörde des Heimatstaates
 bedarf der Billigung durch die Auslandsvermittlungsstelle. Diese hat
@@ -219,6 +226,7 @@ diese über die Abgabe der Erklärungen gemäß Absatz 3 Satz 2.
 
 
 ### § 6 Einreise und Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000701377)
 
 (1) Zum Zwecke der Herstellung und Wahrung einer familiären
 Lebensgemeinschaft zwischen den Adoptionsbewerbern und dem
@@ -254,6 +262,7 @@ veranlasst.
 
 
 ### § 7 Bereiterklärung zur Adoption; Verantwortlichkeiten für ein Adoptivpflegekind
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000800306)
 
 (1) Die Erklärung der Adoptionsbewerber, dass diese bereit sind, das
 ihnen vorgeschlagene Kind anzunehmen, ist gegenüber dem Jugendamt
@@ -308,10 +317,12 @@ nachzuholen.
 
 
 ## Abschnitt 3 - Bescheinigungen über das Zustandekommen oder die Umwandlung eines Annahmeverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNG000300306)
 
 
 
 ### § 8 Bescheinigungen über eine im Inland vollzogene Annahme oder Umwandlung eines Annahmeverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE000900306)
 
 Hat eine zentrale Adoptionsstelle die Zustimmung gemäß Artikel 17
 Buchstabe c des Übereinkommens erteilt, so stellt diese auf Antrag
@@ -324,6 +335,7 @@ anerkannte Auslandsvermittlungsstelle ihren Sitz hat.
 
 
 ### § 9 Überprüfung ausländischer Bescheinigungen über den Vollzug einer Annahme oder die Umwandlung eines Annahmeverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE001000306)
 
 Auf Antrag desjenigen, der ein rechtliches Interesse hat, prüft und
 bestätigt die Bundeszentralstelle die Echtheit einer Bescheinigung
@@ -336,10 +348,12 @@ Unrichtigkeit ist zulässig.
 
 
 ## Abschnitt 4 - Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNG000400306)
 
 
 
 ### § 10 Anwendung des Abschnitts 2
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE001100306)
 
 (1) Die Bestimmungen des Abschnitts 2 sind im Verhältnis zu einem
 anderen Vertragsstaat des Übereinkommens anzuwenden, wenn das
@@ -358,6 +372,7 @@ unterfällt, sind die Bestimmungen des Abschnitts 2 anzuwenden.
 
 
 ### § 11 Anwendung des Abschnitts 3
+[Direktlink](https://www.gesetze-im-internet.de/ad_bag/BJNR295010001.html#BJNR295010001BJNE001200306)
 
 (1) Eine Bescheinigung nach § 8 wird ausgestellt, sofern die Annahme
 nach dem in § 10 Abs. 1 genannten Zeitpunkt und auf Grund der in

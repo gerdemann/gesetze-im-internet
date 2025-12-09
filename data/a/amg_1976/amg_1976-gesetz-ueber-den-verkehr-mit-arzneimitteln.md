@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000104310)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002004116)
 
 Es ist der Zweck dieses Gesetzes, im Interesse einer ordnungsgemäßen
 Versorgung der Bevölkerung mit Arzneimitteln für die Sicherheit im
@@ -36,6 +38,7 @@ Vorschriften zu sorgen.
 
 
 ### § 2 Arzneimittelbegriff
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE027405116)
 
 (1) Arzneimittel im Sinne dieses Gesetzes sind Arzneimittel, die zur
 Anwendung bei Menschen bestimmt sind. Dies sind Stoffe oder
@@ -154,6 +157,7 @@ Arzneimittel handelt, so gilt es nicht als Arzneimittel.
 
 
 ### § 3 Stoffbegriff
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002204310)
 
 Stoffe im Sinne dieses Gesetzes sind
 
@@ -178,6 +182,7 @@ Stoffe im Sinne dieses Gesetzes sind
 
 
 ### § 4 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002326130)
 
 (1) Fertigarzneimittel sind Arzneimittel, die im Voraus hergestellt
 und in einer zur Abgabe an den Verbraucher bestimmten Packung in den
@@ -478,6 +483,7 @@ klinischen Prüfungen.
 
 
 ### § 4a Ausnahme vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019906116)
 
 Dieses Gesetz findet keine Anwendung auf Gewebe, die innerhalb eines
 Behandlungsvorgangs einer Person entnommen werden, um auf diese ohne
@@ -485,6 +491,7 @@ Behandlungsvorgangs einer Person entnommen werden, um auf diese ohne
 
 
 ### § 4b Sondervorschriften für Arzneimittel für neuartige Therapien
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022704116)
 
 (1) Für Arzneimittel für neuartige Therapien, die im Geltungsbereich
 dieses Gesetzes
@@ -692,6 +699,7 @@ der zuständigen Bundesoberbehörde. § 21 Absatz 4 gilt entsprechend.
 
 
 ### § 4c Indikationsbezogenes Register für Arzneimittel für neuartige Therapien
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE027900130)
 
 Das Bundesministerium für Gesundheit hat bis zum 31. Dezember 2027
 einen Bericht mit einem Konzept zur Schaffung eines
@@ -701,10 +709,12 @@ Geschäftsbereich des Bundesministeriums für Gesundheit zu erarbeiten.
 
 
 ## Zweiter Abschnitt - Anforderungen an die Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000203310)
 
 
 
 ### § 5 Verbot bedenklicher Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002404310)
 
 (1) Es ist verboten, bedenkliche Arzneimittel in den Verkehr zu
 bringen oder bei einem anderen Menschen anzuwenden.
@@ -717,6 +727,7 @@ vertretbares Maß hinausgehen.
 
 
 ### § 6 Verbote zum Schutz der Gesundheit, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002511116)
 
 (1) Es ist verboten, ein Arzneimittel herzustellen, in Verkehr zu
 bringen oder anzuwenden, wenn bei der Herstellung des Arzneimittels
@@ -750,9 +761,11 @@ verwendet werden.
 
 
 ### § 6a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019008116)
 
 
 ### § 7 Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002610116)
 
 (1) Es ist verboten, radioaktive Arzneimittel oder Arzneimittel, bei
 deren Herstellung ionisierende Strahlen verwendet worden sind, in den
@@ -773,6 +786,7 @@ Packungsbeilage vorgeschrieben werden.
 
 
 ### § 8 Verbote zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002706140)
 
 (1) Es ist verboten, Arzneimittel oder Wirkstoffe herzustellen oder in
 den Verkehr zu bringen, die
@@ -815,6 +829,7 @@ in den Verkehr zu bringen.
 
 
 ### § 9 Der Verantwortliche für das Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002807116)
 
 (1) Arzneimittel, die im Geltungsbereich dieses Gesetzes in den
 Verkehr gebracht werden, müssen den Namen oder die Firma und die
@@ -831,6 +846,7 @@ entbindet ihn dies nicht von seiner rechtlichen Verantwortung.
 
 
 ### § 10 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE002940311)
 
 (1) Fertigarzneimittel, die nicht zur klinischen Prüfung bestimmt sind
 und die nicht nach § 21 Absatz 2 Nummer 1a, 1b oder 3 von der
@@ -1137,6 +1153,7 @@ nach Absatz 8 Satz 1 entspricht. Absatz 1b findet keine Anwendung.
 
 
 ### § 10a Kennzeichnung von Prüf- und Hilfspräparaten für klinische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026203130)
 
 (1) Prüf- und Hilfspräparate für klinische Prüfungen müssen in
 deutscher Sprache gekennzeichnet sein.
@@ -1154,6 +1171,7 @@ werden soll, angewendet werden.
 
 
 ### § 11 Packungsbeilage
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003120311)
 
 (1) Fertigarzneimittel, die nicht zur klinischen Prüfung bestimmt sind
 und die nicht nach § 21 Absatz 2 Nummer 1a, 1b oder 3 von der
@@ -1427,6 +1445,7 @@ geändert haben.
 
 
 ### § 11a Fachinformation
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE013116116)
 
 (1) Der pharmazeutische Unternehmer ist verpflichtet, den folgenden
 Personen auf Anforderung für Fertigarzneimittel, die der Pflicht zur
@@ -1631,6 +1650,7 @@ erfüllt werden. Die Packungsbeilage muss mit der Überschrift
 
 
 ### § 12 Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003221116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -1730,10 +1750,12 @@ Dreiteilung auszugehen:
 
 
 ## Dritter Abschnitt - Herstellung von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000303310)
 
 
 
 ### § 13 Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003329130)
 
 (1) Wer
 
@@ -1919,6 +1941,7 @@ Hilfsmittel zur Verfügung zu stellen.
 
 
 ### § 14 Entscheidung über die Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003422130)
 
 (1) Die Erlaubnis darf nur versagt werden, wenn
 
@@ -2029,6 +2052,7 @@ personenbezogene Daten erlaubt.
 
 
 ### § 15 Sachkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003522311)
 
 (1) Der Nachweis der erforderlichen Sachkenntnis als sachkundige
 Person nach § 14 wird erbracht durch
@@ -2191,6 +2215,7 @@ Sachkenntnis für die neu auszuübende Tätigkeit nicht ausreicht.
 
 
 ### § 16 Begrenzung der Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003606310)
 
 Die Erlaubnis wird dem Antragsteller für eine bestimmte Betriebsstätte
 und für bestimmte Arzneimittel und Darreichungsformen erteilt, in den
@@ -2201,6 +2226,7 @@ Prüfung aufzuführen.
 
 
 ### § 17 Fristen für die Erteilung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003705310)
 
 (1) Die zuständige Behörde hat eine Entscheidung über den Antrag auf
 Erteilung der Erlaubnis innerhalb einer Frist von drei Monaten zu
@@ -2222,6 +2248,7 @@ Aufforderung zur Behebung der Mängel zugestellt wird.
 
 
 ### § 18 Rücknahme, Widerruf, Ruhen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003803310)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn nachträglich bekannt wird,
 dass einer der Versagungsgründe nach § 14 Abs. 1 bei der Erteilung
@@ -2238,6 +2265,7 @@ werden.
 
 
 ### § 19 Verantwortungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE003907310)
 
 Die sachkundige Person nach § 14 ist dafür verantwortlich, dass jede
 Charge des Arzneimittels entsprechend den Vorschriften über den
@@ -2248,6 +2276,7 @@ Inverkehrbringen zu bescheinigen.
 
 
 ### § 20 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE004004310)
 
 Der Inhaber der Erlaubnis hat jede Änderung einer der in § 14 Abs. 1
 genannten Angaben unter Vorlage der Nachweise der zuständigen Behörde
@@ -2257,6 +2286,7 @@ erfolgen.
 
 
 ### § 20a Geltung für Wirkstoffe und andere Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019104310)
 
 § 13 Abs. 2 und 4 und die §§ 14 bis 20 gelten entsprechend für
 Wirkstoffe und für andere zur Arzneimittelherstellung bestimmte Stoffe
@@ -2265,6 +2295,7 @@ Abs. 1 einer Erlaubnis bedarf.
 
 
 ### § 20b Erlaubnis für die Gewinnung von Gewebe und die Laboruntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021803116)
 
 (1) Eine Einrichtung, die zur Verwendung bei Menschen bestimmte Gewebe
 im Sinne von § 1a Nr. 4 des Transplantationsgesetzes gewinnen
@@ -2360,6 +2391,7 @@ unverzüglich zu erfolgen.
 
 
 ### § 20c Erlaubnis für die Be- oder Verarbeitung, Konservierung, Prüfung, Lagerung oder das Inverkehrbringen von Gewebe oder Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021902116)
 
 (1) Eine Einrichtung, die Gewebe oder Gewebezubereitungen, die nicht
 mit industriellen Verfahren be- oder verarbeitet werden und deren
@@ -2473,6 +2505,7 @@ Gewebezubereitungen und Gewebe benötigt werden.
 
 
 ### § 20d Ausnahme von der Erlaubnispflicht für Gewebe und Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022801116)
 
 Einer Erlaubnis nach § 20b Absatz 1 und § 20c Absatz 1 bedarf nicht
 eine Person, die Arzt ist und die dort genannten Tätigkeiten mit
@@ -2482,10 +2515,12 @@ nicht für Arzneimittel, die zur klinischen Prüfung bestimmt sind.
 
 
 ## Vierter Abschnitt - Zulassung der Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000403310)
 
 
 
 ### § 21 Zulassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE004118116)
 
 (1) Fertigarzneimittel dürfen im Geltungsbereich dieses Gesetzes nur
 in den Verkehr gebracht werden, wenn sie durch die zuständige
@@ -2612,6 +2647,7 @@ Einstufung des Arzneimittels oder der klinischen Prüfung beizufügen.
 
 
 ### § 21a Genehmigung von Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022006116)
 
 (1) Gewebezubereitungen, die nicht mit industriellen Verfahren be-
 oder verarbeitet werden und deren wesentliche Be- oder
@@ -2833,6 +2869,7 @@ weggefallen ist. § 73 Absatz 3a gilt entsprechend.
 
 
 ### § 22 Zulassungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE004214116)
 
 (1) Dem Antrag auf Zulassung müssen vom Antragsteller folgende Angaben
 beigefügt werden:
@@ -3069,9 +3106,11 @@ geeigneten Zustand vorgelegt werden.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE004411116)
 
 
 ### § 24 Sachverständigengutachten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE004609116)
 
 (1) Den nach § 22 Absatz 1 Nummer 15, Absatz 2 und 3 erforderlichen
 Unterlagen sind Gutachten von Sachverständigen beizufügen, in denen
@@ -3112,6 +3151,7 @@ Gutachten von ihnen erstellt worden ist.
 
 
 ### § 24a Verwendung von Unterlagen eines Vorantragstellers
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE013209116)
 
 Der Antragsteller kann auf Unterlagen nach § 22 Absatz 2, 3 und 3c
 einschließlich der Sachverständigengutachten nach § 24 Absatz 1 Satz 2
@@ -3125,6 +3165,7 @@ teilweise Bezugnahme ist nicht zulässig.
 
 
 ### § 24b Zulassung eines Generikums, Unterlagenschutz
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021004116)
 
 (1) Bei einem Generikum im Sinne des Absatzes 2 kann ohne Zustimmung
 des Vorantragstellers auf die Unterlagen nach § 22 Absatz 2 Satz 1
@@ -3221,6 +3262,7 @@ wurden.
 
 
 ### § 24c Nachforderungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE013305310)
 
 Müssen von mehreren Zulassungsinhabern inhaltlich gleiche Unterlagen
 nachgefordert werden, so teilt die zuständige Bundesoberbehörde jedem
@@ -3242,6 +3284,7 @@ Zulassungsverfahren gefordert werden.
 
 
 ### § 24d Allgemeine Verwertungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014106310)
 
 Die zuständige Bundesoberbehörde kann bei Erfüllung ihrer Aufgaben
 nach diesem Gesetz ihr vorliegende Unterlagen mit Ausnahme der
@@ -3255,6 +3298,7 @@ Unterlagen eines Vorantragstellers enthalten.
 
 
 ### § 25 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE004818116)
 
 (1) Die zuständige Bundesoberbehörde erteilt die Zulassung schriftlich
 unter Zuteilung einer Zulassungsnummer. Die Zulassung gilt nur für das
@@ -3469,6 +3513,7 @@ Verantwortlichkeit des pharmazeutischen Unternehmers unberührt.
 
 
 ### § 25a Vorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014206116)
 
 (1) Die zuständige Bundesoberbehörde kann den Zulassungsantrag durch
 unabhängige Sachverständige auf Vollständigkeit und daraufhin prüfen
@@ -3499,6 +3544,7 @@ sie den Antrag ab, es sei denn, er wurde nach § 25b eingereicht.
 
 
 ### § 25b Verfahren der gegenseitigen Anerkennung und dezentralisiertes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021104116)
 
 (1) Für die Erteilung einer Zulassung oder Genehmigung in mehr als
 einem Mitgliedstaat der Europäischen Union hat der Antragsteller einen
@@ -3546,6 +3592,7 @@ sofern diese Arzneimittel dem Artikel 16 Abs. 2 der Richtlinie
 
 
 ### § 25c Maßnahmen der zuständigen Bundesoberbehörde zu Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022902116)
 
 Die zuständige Bundesoberbehörde trifft die zur Durchführung von
 Entscheidungen oder Beschlüssen der Europäischen Gemeinschaft oder der
@@ -3554,6 +3601,7 @@ erforderlichen Maßnahmen.
 
 
 ### § 26 Arzneimittelprüfrichtlinien
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005019116)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Anforderungen an die in den §§ 22 bis 24,
@@ -3581,6 +3629,7 @@ Erfahrungsmaterial.
 
 
 ### § 27 Fristen für die Erteilung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005107116)
 
 (1) Die zuständige Bundesoberbehörde hat eine Entscheidung über den
 Antrag auf Zulassung innerhalb einer Frist von sieben Monaten zu
@@ -3604,6 +3653,7 @@ der Richtlinie 2001/83/EG um drei Monate.
 
 
 ### § 28 Auflagenbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005316116)
 
 (1) Die zuständige Bundesoberbehörde kann die Zulassung mit Auflagen
 verbinden. Bei Auflagen nach den Absätzen 2 bis 3d zum Schutz der
@@ -3831,6 +3881,7 @@ findet entsprechende Anwendung.
 
 
 ### § 29 Anzeigepflicht, Neuzulassung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005419116)
 
 (1) Der Antragsteller hat der zuständigen Bundesoberbehörde unter
 Beifügung entsprechender Unterlagen unverzüglich Anzeige zu erstatten,
@@ -4041,6 +4092,7 @@ geltenden Fassung unterliegen. Die Absätze 2a bis 3 gelten
 
 
 ### § 30 Rücknahme, Widerruf, Ruhen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005612130)
 
 (1) Die Zulassung ist zurückzunehmen, wenn nachträglich bekannt wird,
 dass einer der Versagungsgründe des § 25 Absatz 2 Satz 1 Nummer 2, 3,
@@ -4136,6 +4188,7 @@ der zuständigen Behörde angeordnet werden.
 
 
 ### § 31 Erlöschen, Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005812116)
 
 (1) Die Zulassung erlischt
 
@@ -4207,6 +4260,7 @@ findet Anwendung.
 
 
 ### § 32 Staatliche Chargenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE005909116)
 
 (1) Die Charge eines Serums, eines Impfstoffes oder eines Allergens
 darf unbeschadet der Zulassung nur in den Verkehr gebracht werden,
@@ -4257,6 +4311,7 @@ sich um ein gefälschtes Arzneimittel handelt.
 
 
 ### § 33 Aufwendungsersatz und Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006028116)
 
 (1) Abweichend von § 18 Absatz 1 Satz 1 des Bundesgebührengesetzes
 verjährt der Anspruch auf Zahlung von Gebühren und Auslagen, die nach
@@ -4287,6 +4342,7 @@ vom Verursacher getragen werden.
 
 
 ### § 34 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006111116)
 
 (1) Die zuständige Bundesoberbehörde hat im Bundesanzeiger bekannt zu
 machen:
@@ -4443,6 +4499,7 @@ davon betroffen sind. Satz 2 gilt entsprechend.
 
 
 ### § 35 Ermächtigungen zur Zulassung und Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006212116)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -4483,6 +4540,7 @@ nukleare Sicherheit.
 
 
 ### § 36 Ermächtigung für Standardzulassungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006316116)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates bestimmte Arzneimittel oder
@@ -4528,6 +4586,7 @@ können.
 
 
 ### § 37 Genehmigung der Europäischen Gemeinschaft oder der Europäischen Union für das Inverkehrbringen, Zulassungen von Arzneimitteln aus anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006412116)
 
 (1) Die von der Europäischen Gemeinschaft oder der Europäischen Union
 gemäß der Verordnung (EG) Nr. 726/2004 auch in Verbindung mit der
@@ -4547,10 +4606,12 @@ als gleichwertig anerkannt wird.
 
 
 ## Fünfter Abschnitt - Registrierung von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000504310)
 
 
 
 ### § 38 Registrierung homöopathischer Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006510116)
 
 (1) Fertigarzneimittel dürfen als homöopathische Arzneimittel im
 Geltungsbereich dieses Gesetzes nur in den Verkehr gebracht werden,
@@ -4588,6 +4649,7 @@ ergibt. § 22 Absatz 1a gilt entsprechend.
 
 
 ### § 39 Entscheidung über die Registrierung homöopathischer Arzneimittel, Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006626116)
 
 (1) Die zuständige Bundesoberbehörde hat das homöopathische
 Arzneimittel zu registrieren und dem Antragsteller die
@@ -4705,6 +4767,7 @@ Freistellung von der Registrierung zu erlassen.
 
 
 ### § 39a Registrierung traditioneller pflanzlicher Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021201310)
 
 Fertigarzneimittel, die pflanzliche Arzneimittel und Arzneimittel im
 Sinne des § 2 Abs. 1 sind, dürfen als traditionelle pflanzliche
@@ -4717,6 +4780,7 @@ die Anwendungsgebiete ergänzen.
 
 
 ### § 39b Registrierungsunterlagen für traditionelle pflanzliche Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021304116)
 
 (1) Dem Antrag auf Registrierung müssen vom Antragsteller folgende
 Angaben und Unterlagen beigefügt werden:
@@ -4792,6 +4856,7 @@ einzelnen Wirkstoffen zu machen.
 
 
 ### § 39c Entscheidung über die Registrierung traditioneller pflanzlicher Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021403116)
 
 (1) Die zuständige Bundesoberbehörde hat das traditionelle pflanzliche
 Arzneimittel zu registrieren und dem Antragsteller die
@@ -4863,6 +4928,7 @@ Maßgabe, dass die Versagungsgründe nach Absatz 2 Anwendung finden.
 
 
 ### § 39d Sonstige Verfahrensvorschriften für traditionelle pflanzliche Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021511116)
 
 (1) Die zuständige Bundesoberbehörde teilt dem Antragsteller, der
 Europäischen Kommission und der zuständigen Behörde eines
@@ -4930,10 +4996,12 @@ dass die Versagungsgründe nach § 39c Absatz 2 Anwendung finden.
 
 
 ## Sechster Abschnitt - Schutz des Menschen bei der klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000605310)
 
 
 
 ### § 40 Verfahren zur Genehmigung einer klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006720130)
 
 (1) Mit der klinischen Prüfung von Arzneimitteln darf nur begonnen
 werden, wenn die zuständige Bundesoberbehörde die klinische Prüfung
@@ -5048,6 +5116,7 @@ Nr. 536/2014.
 
 
 ### § 40a Allgemeine Voraussetzungen für die klinische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026302116)
 
 Über die Voraussetzungen nach der Verordnung (EU) Nr. 536/2014 hinaus
 darf eine klinische Prüfung nur durchgeführt werden, solange
@@ -5118,6 +5187,7 @@ Anspruch auf Schadensersatz.
 
 
 ### § 40b Besondere Voraussetzungen für die klinische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026404130)
 
 (1) Ergänzend zu Artikel 29 der Verordnung (EU) Nr. 536/2014 gelten
 für die Einwilligung der betroffenen Person oder, falls diese nicht in
@@ -5280,6 +5350,7 @@ Bundesoberbehörde einzurichten.
 
 
 ### § 40c Verfahren bei Hinzufügung eines Mitgliedstaates, bei Änderungen sowie bei Bewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026501116)
 
 (1) Für die Verfahren zur späteren Hinzufügung eines zusätzlichen
 betroffenen Mitgliedstaates der Europäischen Union nach Artikel 14 der
@@ -5302,6 +5373,7 @@ Der Antrag ist zu begründen.
 
 
 ### § 40d Besondere Pflichten des Prüfers, des Sponsors und der zuständigen Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026601116)
 
 Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch
 veränderten Organismus oder einer Kombination von gentechnisch
@@ -5345,6 +5417,7 @@ veränderten Organismen bestehen oder die solche Organismen enthalten,
 
 
 ### § 41 Stellungnahme der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006810130)
 
 (1) Die Stellungnahme der Ethik-Kommission nach § 40 Absatz 4 Satz 3
 muss ein klares Votum im Sinne einer Zustimmung, einer Zustimmung mit
@@ -5376,6 +5449,7 @@ Kommission schriftlich zu begründen.
 
 
 ### § 41a Registrierungsverfahren für Ethik-Kommissionen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE025905130)
 
 (1) An dem Verfahren zur Bewertung eines Antrags auf Genehmigung einer
 klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 dürfen nur
@@ -5461,6 +5535,7 @@ aktualisieren.
 
 
 ### § 41b Verfahrensordnung und Geschäftsverteilungsplan
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026001130)
 
 (1) Das Bundesministerium erstellt durch Rechtsverordnung mit
 Zustimmung des Bundesrates eine Verfahrensordnung über die
@@ -5506,6 +5581,7 @@ werden.
 
 
 ### § 41c Spezialisierte Ethik-Kommission für besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026101130)
 
 (1) Bei dem Bundesinstitut für Arzneimittel und Medizinprodukte wird
 die Spezialisierte Ethik-Kommission für besondere Verfahren
@@ -5593,6 +5669,7 @@ haben.
 
 
 ### § 41d Richtlinien zur Bewertung klinischer Prüfungen durch Ethik-Kommissionen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE028000130)
 
 (1) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der
 Bundesrepublik Deutschland e. V. erlässt nach Anhörung des
@@ -5620,6 +5697,7 @@ Stellungnahmen und Bewertungsberichte.
 
 
 ### § 42 Korrekturmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE006913116)
 
 (1) Die zuständige Bundesoberbehörde ergreift die in Artikel 77 der
 Verordnung (EU) Nr. 536/2014 genannten Korrekturmaßnahmen nach Maßgabe
@@ -5677,6 +5755,7 @@ Anordnungen nach Absatz 4 haben keine aufschiebende Wirkung.
 
 
 ### § 42a Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020206116)
 
 Personenbezogene Daten sind vor ihrer Übermittlung nach Artikel 41
 Absatz 2 und 4 der Verordnung (EU) Nr. 536/2014 durch den Prüfer oder
@@ -5686,6 +5765,7 @@ der betroffenen Person zu pseudonymisieren.
 
 
 ### § 42b Veröffentlichung der Ergebnisse klinischer Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023209311)
 
 (1) Pharmazeutische Unternehmer, die im Geltungsbereich dieses
 Gesetzes ein Arzneimittel in den Verkehr bringen, das der Pflicht zur
@@ -5715,6 +5795,7 @@ Geschäftsgeheimnissen bleiben ebenso wie die §§ 24a und 24b unberührt.
 
 
 ### § 42c Inspektionen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026701116)
 
 Die folgenden Inspektionen nach Artikel 78 der Verordnung (EU) Nr.
 536/2014 werden durch die zuständige Bundesoberbehörde durchgeführt:
@@ -5762,6 +5843,7 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 ### § 42d Standardvertragsklauseln für die Durchführung klinischer Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE028100130)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der betroffenen
 Verbände und Organisationen durch Rechtsverordnung mit Zustimmung des
@@ -5818,6 +5900,7 @@ abzuweichen.
 
 
 ### § 42e Empfehlungen für von nichtkommerziellen Sponsoren durchgeführte klinische Prüfungen ohne wirtschaftliche Zwecksetzung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE028200130)
 
 (1) Für von nichtkommerziellen Sponsoren durchgeführte klinische
 Prüfungen ohne wirtschaftliche Zwecksetzung können die zuständigen
@@ -5839,10 +5922,12 @@ personenbezogene Daten erlaubt, veröffentlichen.
 
 
 ## Siebter Abschnitt - Abgabe von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000705310)
 
 
 
 ### § 43 Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007016116)
 
 (1) Arzneimittel, die nicht durch die Vorschriften des § 44 oder der
 nach § 45 Abs. 1 erlassenen Rechtsverordnung für den Verkehr außerhalb
@@ -5886,6 +5971,7 @@ Krankenversorgung abgeben.
 
 
 ### § 44 Ausnahme von der Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007108116)
 
 (1) Arzneimittel, die von dem pharmazeutischen Unternehmer
 ausschließlich zu anderen Zwecken als zur Beseitigung oder Linderung
@@ -5953,6 +6039,7 @@ freigegeben.
 
 
 ### § 45 Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007212116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie nach Anhörung von
@@ -5991,6 +6078,7 @@ handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 
 ### § 46 Ermächtigung zur Ausweitung der Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007310116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie nach Anhörung von
@@ -6010,6 +6098,7 @@ handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 
 ### § 47 Vertriebsweg
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007426130)
 
 (1) Pharmazeutische Unternehmer und Großhändler dürfen Arzneimittel,
 deren Abgabe den Apotheken vorbehalten ist, außer an Apotheken nur
@@ -6200,6 +6289,7 @@ der zuständigen Behörde vorzulegen.
 
 
 ### § 47a Sondervertriebsweg, Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019501310)
 
 (1) Pharmazeutische Unternehmer dürfen ein Arzneimittel, das zur
 Vornahme eines Schwangerschaftsabbruchs zugelassen ist, nur an
@@ -6228,6 +6318,7 @@ Arzneimittel keine Anwendung.
 
 
 ### § 47b Sondervertriebsweg Diamorphin
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022700360)
 
 (1) Pharmazeutische Unternehmer dürfen ein diamorphinhaltiges
 Fertigarzneimittel, das zur substitutionsgestützten Behandlung
@@ -6241,6 +6332,7 @@ Arzneimittel keine Anwendung.
 
 
 ### § 48 Verschreibungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007521116)
 
 (1) Die folgenden Arzneimittel dürfen nur bei Vorliegen einer
 ärztlichen oder zahnärztlichen Verschreibung oder einer tierärztlichen
@@ -6396,11 +6488,13 @@ handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007710310)
 
 (weggefallen)
 
 
 ### § 50 Einzelhandel mit freiverkäuflichen Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007813116)
 
 (1) Einzelhandel außerhalb von Apotheken mit Arzneimitteln, die zum
 Verkehr außerhalb der Apotheken freigegeben sind, darf nur betrieben
@@ -6451,6 +6545,7 @@ Fertigarzneimittel im Einzelhandel in den Verkehr bringt, die
 
 
 ### § 51 Abgabe im Reisegewerbe
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE007905116)
 
 (1) Das Feilbieten von Arzneimitteln und das Aufsuchen von
 Bestellungen auf Arzneimittel im Reisegewerbe sind verboten;
@@ -6478,6 +6573,7 @@ tätig werden.
 
 
 ### § 52 Verbot der Selbstbedienung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE008008311)
 
 (1) Arzneimittel dürfen nicht durch Automaten oder andere Formen der
 Selbstbedienung in den Verkehr gebracht werden.
@@ -6510,6 +6606,7 @@ steht.
 
 
 ### § 52a Großhandel mit Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020306116)
 
 (1) Wer Großhandel mit Arzneimitteln betreibt, bedarf einer Erlaubnis.
 Ausgenommen von dieser Erlaubnispflicht sind die in § 51 Absatz 1
@@ -6588,6 +6685,7 @@ unverzüglich zu erfolgen.
 
 
 ### § 52b Bereitstellung von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023006311)
 
 (1) Pharmazeutische Unternehmer und Betreiber von
 Arzneimittelgroßhandlungen, die im Geltungsbereich dieses Gesetzes ein
@@ -6778,6 +6876,7 @@ bleiben unberührt.
 
 
 ### § 52c Arzneimittelvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023800140)
 
 (1) Ein Arzneimittelvermittler darf im Geltungsbereich dieses Gesetzes
 nur tätig werden, wenn er seinen Sitz im Geltungsbereich dieses
@@ -6803,6 +6902,7 @@ Registrierung in der Datenbank versagen oder löschen.
 
 
 ### § 53 Anhörung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE008110116)
 
 (1) Soweit nach § 45 Abs. 1 und § 46 Abs. 1 vor Erlass von
 Rechtsverordnungen Sachverständige anzuhören sind, errichtet hierzu
@@ -6826,10 +6926,12 @@ teil.
 
 
 ## Achter Abschnitt - Sicherung und Kontrolle der Qualität
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000805310)
 
 
 
 ### § 54 Betriebsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE008218116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -6904,6 +7006,7 @@ oder § 72 bedürfen.
 
 
 ### § 55 Arzneibuch
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE008312116)
 
 (1) Das Arzneibuch ist eine vom Bundesinstitut für Arzneimittel und
 Medizinprodukte im Einvernehmen mit dem Paul-Ehrlich-Institut und dem
@@ -6967,6 +7070,7 @@ Tierarzneimittel handelt.
 
 
 ### § 55a Amtliche Sammlung von Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014504116)
 
 Die zuständige Bundesoberbehörde veröffentlicht eine amtliche Sammlung
 von Verfahren zur Probenahme und Untersuchung von Arzneimitteln,
@@ -6977,18 +7081,22 @@ Sammlung ist laufend auf dem neuesten Stand zu halten.
 
 
 ## Neunter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG000906116)
 
 
 
 ### (XXXX) §§ 56 bis 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE008412116)
 
 
 
 ## Zehnter Abschnitt - Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001007116)
 
 
 
 ### § 62 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009212116)
 
 (1) Die zuständige Bundesoberbehörde hat zur Verhütung einer
 unmittelbaren oder mittelbaren Gefährdung der menschlichen Gesundheit
@@ -7087,6 +7195,7 @@ Arzneimittel-Agentur und die Europäische Kommission.
 
 
 ### § 63 Stufenplan
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009305310)
 
 Die Bundesregierung erstellt durch allgemeine Verwaltungsvorschrift
 mit Zustimmung des Bundesrates zur Durchführung der Aufgaben nach § 62
@@ -7101,6 +7210,7 @@ werden.
 
 
 ### § 63a Stufenplanbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE013908116)
 
 (1) Wer als pharmazeutischer Unternehmer Fertigarzneimittel in den
 Verkehr bringt, hat eine in einem Mitgliedstaat der Europäischen Union
@@ -7132,6 +7242,7 @@ Stufenplanbeauftragten hat die Mitteilung unverzüglich zu erfolgen.
 
 
 ### § 63b Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020507116)
 
 (1) Der Inhaber der Zulassung ist verpflichtet, ein Pharmakovigilanz-
 System einzurichten und zu betreiben.
@@ -7185,6 +7296,7 @@ irreführender Weise dargelegt werden.
 
 
 ### § 63c Dokumentations- und Meldepflichten des Inhabers der Zulassung bei Verdachtsfällen von Nebenwirkungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022103116)
 
 (1) Der Inhaber der Zulassung hat Unterlagen über alle Verdachtsfälle
 von Nebenwirkungen sowie Angaben über abgegebene Mengen zu führen.
@@ -7275,6 +7387,7 @@ worden sind.
 
 
 ### § 63d Regelmäßige aktualisierte Unbedenklichkeitsberichte
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023901140)
 
 (1) Der Inhaber der Zulassung übermittelt regelmäßige aktualisierte
 Unbedenklichkeitsberichte, die Folgendes enthalten:
@@ -7407,6 +7520,7 @@ Die Absätze 1 bis 5 gelten nicht für einen Parallelimporteur.
 
 
 ### § 63e Europäisches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024000140)
 
 In den Fällen von Artikel 107i der Richtlinie 2001/83/EG ergreift die
 zuständige Bundesoberbehörde die dort vorgesehenen Maßnahmen. Für das
@@ -7414,6 +7528,7 @@ Verfahren gelten die Artikel 107i bis 107k der Richtlinie 2001/83/EG.
 
 
 ### § 63f Allgemeine Voraussetzungen für nichtinterventionelle Unbedenklichkeitsstudien
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024104116)
 
 (1) Nichtinterventionelle Unbedenklichkeitsstudien, die vom Inhaber
 der Zulassung auf eigene Veranlassung durchgeführt werden, sind der
@@ -7471,6 +7586,7 @@ elektronisch zu übermitteln.
 
 
 ### § 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsstudien
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024202116)
 
 (1) Der Inhaber der Zulassung hat bei nichtinterventionellen
 Unbedenklichkeitsstudien, die nach § 28 Absatz 3, 3a oder 3b
@@ -7538,10 +7654,12 @@ Studienergebnisse elektronisch zu übermitteln.
 
 
 ### § 63h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024301116)
 
 
 
 ### § 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024403116)
 
 (1) Der Inhaber einer Zulassung für Blutzubereitungen im Sinne von
 Artikel 3 Nummer 6 der Richtlinie 2001/83/EG oder einer Zulassung oder
@@ -7659,6 +7777,7 @@ irreführender Weise öffentlich bekannt gemacht werden.
 
 
 ### § 63j Dokumentations- und Meldepflichten der behandelnden Person für nicht zulassungs- oder genehmigungspflichtige Arzneimittel für neuartige Therapien
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE027000116)
 
 (1) Die behandelnde Person, die nicht zulassungs- oder
 genehmigungspflichtige Arzneimittel für neuartige Therapien bei einem
@@ -7709,6 +7828,7 @@ Bewertungen, unverzüglich und vollständig übermitteln.
 
 
 ### § 63k Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024503116)
 
 Die Regelungen des Zehnten Abschnitts finden keine Anwendung auf
 Arzneimittel, die im Rahmen einer klinischen Prüfung als Prüfpräparate
@@ -7716,10 +7836,12 @@ eingesetzt werden.
 
 
 ## Elfter Abschnitt - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001105310)
 
 
 
 ### § 64 Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009427116)
 
 (1) Der Überwachung durch die zuständige Behörde hinsichtlich der
 jeweils genannten Tätigkeiten unterliegen Betriebe und Einrichtungen,
@@ -7997,6 +8119,7 @@ von den Ländern getragenen Einrichtung zugeordnet werden.
 
 
 ### § 65 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009509116)
 
 (1) Soweit es zur Durchführung der Vorschriften über den Verkehr mit
 Arzneimitteln, über die Werbung auf dem Gebiete des Heilwesens, des
@@ -8044,6 +8167,7 @@ wer
 
 
 ### § 66 Duldungs- und Mitwirkungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009610116)
 
 (1) Wer der Überwachung nach § 64 Abs. 1 unterliegt, ist verpflichtet,
 die Maßnahmen nach den §§ 64 und 65 zu dulden und die in der
@@ -8064,6 +8188,7 @@ Absatz 5 Satz 4 oder Absatz 8 Satz 2 und 3 oder nach § 62 Absatz 6.
 
 
 ### § 67 Allgemeine Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009735116)
 
 (1) Betriebe und Einrichtungen, die Arzneimittel entwickeln,
 herstellen, klinisch prüfen, prüfen, lagern, verpacken, einführen, in
@@ -8252,6 +8377,7 @@ verwendende Formular auf ihrer Internetseite bekannt.
 
 
 ### § 67a Datenbankgestütztes Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019216116)
 
 (1) Die für den Vollzug dieses Gesetzes zuständigen Behörden des
 Bundes und der Länder wirken mit dem Bundesinstitut für Arzneimittel
@@ -8326,6 +8452,7 @@ die notwendigen Maßnahmen, damit Daten nur den dazu befugten Personen
 
 
 ### § 67b EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE025600116)
 
 (1) Die zuständigen Behörden der Länder geben die in Anhang VIII der
 Richtlinie 2006/86/EG in der jeweils geltenden Fassung genannten
@@ -8399,6 +8526,7 @@ Zellprodukte einer Aktualisierung bedarf.
 
 
 ### § 68 Mitteilungs- und Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009815116)
 
 (1) Die für die Durchführung dieses Gesetzes zuständigen Behörden und
 Stellen des Bundes und der Länder haben sich
@@ -8481,6 +8609,7 @@ betroffenen Personen überwiegen.
 
 
 ### § 69 Maßnahmen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE009913116)
 
 (1) Die zuständigen Behörden treffen die zur Beseitigung
 festgestellter Verstöße und die zur Verhütung künftiger Verstöße
@@ -8613,14 +8742,17 @@ angezeigt ist.
 
 
 ### (XXXX) §§ 69a und 69b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018704116)
 
 
 
 ## Zwölfter Abschnitt - Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei, Zivilschutz
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001206310)
 
 
 
 ### § 70 Anwendung und Vollzug des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010006116)
 
 (1) Die Vorschriften dieses Gesetzes finden auf Einrichtungen, die der
 Arzneimittelversorgung der Bundeswehr, der Bundespolizei und der
@@ -8638,6 +8770,7 @@ bedarf es hierzu der Zustimmung des Bundesrates.
 
 
 ### § 71 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010114116)
 
 (1) Die in § 10 Absatz 1 Satz 1 Nummer 9 und Absatz 8 vorgeschriebene
 Angabe des Verfalldatums kann entfallen bei Arzneimitteln, die an die
@@ -8671,10 +8804,12 @@ des Bundesrates.
 
 
 ## Dreizehnter Abschnitt - Einfuhr und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001306310)
 
 
 
 ### § 72 Einfuhrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010216116)
 
 (1) Wer
 
@@ -8763,6 +8898,7 @@ entsprechend.
 
 
 ### § 72a Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014023130)
 
 (1) Der Einführer darf Arzneimittel oder Wirkstoffe nur einführen,
 wenn
@@ -8931,6 +9067,7 @@ nach § 14 durchzuführenden Prüfungen und der Möglichkeit einer
 
 
 ### § 72b Einfuhrerlaubnis und Zertifikate für Gewebe und bestimmte Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022203116)
 
 (1) Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes
 oder Gewebezubereitungen im Sinne von § 20c Absatz 1 Satz 1 oder Satz
@@ -9091,6 +9228,7 @@ geregelt ist.
 
 
 ### § 72c Einmalige Einfuhr von Gewebe oder Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE025700116)
 
 (1) Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes
 oder Gewebezubereitungen im Sinne von § 20c Absatz 1 Satz 1 oder Satz
@@ -9128,6 +9266,7 @@ Vorgaben der §§ 14 bis 19 entsprechend anzuwenden.
 
 
 ### § 73 Verbringungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010324116)
 
 (1) Arzneimittel, die der Pflicht zur Zulassung oder Genehmigung nach
 § 21a oder zur Registrierung unterliegen, dürfen in den
@@ -9395,6 +9534,7 @@ Deckungsvorsorge nach § 94 nachzuweisen.
 
 
 ### § 73a Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014408116)
 
 (1) Abweichend von den §§ 5 und 8 Absatz 1 und 2 dürfen die dort
 bezeichneten Arzneimittel ausgeführt oder aus dem Geltungsbereich des
@@ -9417,6 +9557,7 @@ Erteilung des Zertifikats die Zustimmung des Herstellers einzuholen.
 
 
 ### § 74 Mitwirkung von Zolldienststellen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010413116)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zolldienststellen wirken bei der Überwachung des Verbringens von
@@ -9457,10 +9598,12 @@ verwendet werden.
 
 
 ## Vierzehnter Abschnitt - Informationsbeauftragter, Pharmaberater
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001406310)
 
 
 
 ### § 74a Informationsbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014607116)
 
 (1) Wer als pharmazeutischer Unternehmer Fertigarzneimittel in den
 Verkehr bringt, hat eine Person mit der erforderlichen Sachkenntnis
@@ -9490,6 +9633,7 @@ Mitteilung unverzüglich zu erfolgen.
 
 
 ### § 75 Sachkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010510116)
 
 (1) Pharmazeutische Unternehmer dürfen nur Personen, die die in Absatz
 2 bezeichnete Sachkenntnis besitzen, beauftragen, hauptberuflich
@@ -9522,6 +9666,7 @@ gleichwertig ist.
 
 
 ### § 76 Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010606116)
 
 (1) Der Pharmaberater hat, soweit er Angehörige der Heilberufe über
 einzelne Arzneimittel fachlich informiert, die Fachinformation nach §
@@ -9539,10 +9684,12 @@ vorzulegen.
 
 
 ## Fünfzehnter Abschnitt - Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001505310)
 
 
 
 ### § 77 Zuständige Bundesoberbehörde,Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010713130)
 
 (1) Zuständige Bundesoberbehörde ist das Bundesinstitut für
 Arzneimittel und Medizinprodukte, es sei denn, dass das Paul-Ehrlich-
@@ -9583,6 +9730,7 @@ Zulassungs- oder Genehmigungsverfahren vorsehen.
 
 
 ### § 77a Unabhängigkeit und Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021602116)
 
 (1) Die zuständigen Bundesoberbehörden und die zuständigen Behörden
 stellen im Hinblick auf die Gewährleistung von Unabhängigkeit und
@@ -9603,6 +9751,7 @@ Betriebs-, Dienst- und Geschäftsgeheimnisse zu wahren.
 
 
 ### § 78 Preise
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010822130)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung mit
@@ -9706,6 +9855,7 @@ werden. In diesen Fällen gilt Absatz 2 Satz 2 auf Länderebene.
 
 
 ### § 79 Ausnahmeermächtigungen für Krisenzeiten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE010916311)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -9806,6 +9956,7 @@ keine aufschiebende Wirkung.
 
 
 ### § 80 Ermächtigung für Verfahrens- und Härtefallregelungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011016116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, die weiteren Einzelheiten
@@ -9879,6 +10030,7 @@ Abs. 1 oder 2 dieser Verordnung genannten gehören.
 
 
 ### § 81 Verhältnis zu anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011105130)
 
 Die Vorschriften des Betäubungsmittel- und Atomrechts, des
 Konsumcannabisgesetzes, des Medizinal-Cannabisgesetzes, des Anti-
@@ -9886,6 +10038,7 @@ Doping-Gesetzes und des Tierschutzgesetzes bleiben unberührt.
 
 
 ### § 82 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011207116)
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur
 Durchführung dieses Gesetzes erforderlichen allgemeinen
@@ -9895,6 +10048,7 @@ Verwaltungsvorschriften von dem Bundesministerium erlassen.
 
 
 ### § 83 Angleichung an das Recht der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011306140)
 
 (1) Rechtsverordnungen oder allgemeine Verwaltungsvorschriften nach
 diesem Gesetz können auch zum Zwecke der Angleichung der Rechts- und
@@ -9908,6 +10062,7 @@ Gesetzes betreffen, erforderlich ist.
 
 
 ### § 83a Rechtsverordnungen in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023603116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates Verweisungen auf Vorschriften in
@@ -9918,10 +10073,12 @@ dieser Vorschriften erforderlich ist.
 
 
 ## Sechzehnter Abschnitt - Haftung für Arzneimittelschäden
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001605310)
 
 
 
 ### § 84 Gefährdungshaftung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011405310)
 
 (1) Wird infolge der Anwendung eines zum Gebrauch bei Menschen
 bestimmten Arzneimittels, das im Geltungsbereich dieses Gesetzes an
@@ -9970,6 +10127,7 @@ Ursache nicht im Bereich der Entwicklung und Herstellung haben.
 
 
 ### § 84a Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019702310)
 
 (1) Liegen Tatsachen vor, die die Annahme begründen, dass ein
 Arzneimittel den Schaden verursacht hat, so kann der Geschädigte von
@@ -9998,12 +10156,14 @@ Informationsfreiheitsgesetz bleiben unberührt.
 
 
 ### § 85 Mitverschulden
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011503310)
 
 Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten
 mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs.
 
 
 ### § 86 Umfang der Ersatzpflicht bei Tötung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011604116)
 
 (1) Im Falle der Tötung ist der Schadensersatz durch Ersatz der Kosten
 einer versuchten Heilung sowie des Vermögensnachteils zu leisten, den
@@ -10033,6 +10193,7 @@ Getöteten war.
 
 
 ### § 87 Umfang der Ersatzpflicht bei Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011704310)
 
 Im Falle der Verletzung des Körpers oder der Gesundheit ist der
 Schadensersatz durch Ersatz der Kosten der Heilung sowie des
@@ -10045,6 +10206,7 @@ in Geld verlangt werden.
 
 
 ### § 88 Höchstbeträge
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011805310)
 
 Der Ersatzpflichtige haftet
 
@@ -10067,6 +10229,7 @@ welchem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 
 
 ### § 89 Schadensersatz durch Geldrenten
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE011904310)
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
 Erwerbsfähigkeit und wegen Vermehrung der Bedürfnisse des Verletzten
@@ -10086,11 +10249,13 @@ dem Urteil bestimmten Sicherheit verlangen.
 
 
 ### § 90
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012004310)
 
 (weggefallen)
 
 
 ### § 91 Weitergehende Haftung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012103310)
 
 Unberührt bleiben gesetzliche Vorschriften, nach denen ein nach § 84
 Ersatzpflichtiger im weiteren Umfang als nach den Vorschriften dieses
@@ -10099,6 +10264,7 @@ verantwortlich ist.
 
 
 ### § 92 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012203310)
 
 Die Ersatzpflicht nach diesem Abschnitt darf im Voraus weder
 ausgeschlossen noch beschränkt werden. Entgegenstehende Vereinbarungen
@@ -10106,6 +10272,7 @@ sind nichtig.
 
 
 ### § 93 Mehrere Ersatzpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012303310)
 
 Sind mehrere ersatzpflichtig, so haften sie als Gesamtschuldner. Im
 Verhältnis der Ersatzpflichtigen zueinander hängt die Verpflichtung
@@ -10115,6 +10282,7 @@ dem einen oder dem anderen Teil verursacht worden ist.
 
 
 ### § 94 Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012407140)
 
 (1) Der pharmazeutische Unternehmer hat dafür Vorsorge zu treffen,
 dass er seinen gesetzlichen Verpflichtungen zum Ersatz von Schäden
@@ -10170,6 +10338,7 @@ Deckungsvorsorge gemäß Absatz 1 nicht verpflichtet.
 
 
 ### § 94a Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012504310)
 
 (1) Für Klagen, die auf Grund des § 84 oder des § 84a Abs. 1 erhoben
 werden, ist auch das Gericht zuständig, in dessen Bezirk der Kläger
@@ -10182,10 +10351,12 @@ Zuständigkeit der Gerichte eines ausländischen Staates nach § 328 Abs.
 
 
 ## Siebzehnter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG001705310)
 
 
 
 ### § 95 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012621130)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -10267,6 +10438,7 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 96 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012729116)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -10436,6 +10608,7 @@ bestraft, wer
 
 
 ### § 97 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE027605130)
 
 (1) Ordnungswidrig handelt, wer eine in
 
@@ -10905,6 +11078,7 @@ Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
 
 ### § 98 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE012903310)
 
 Gegenstände, auf die sich eine Straftat nach § 95 oder § 96 oder eine
 Ordnungswidrigkeit nach § 97 bezieht, können eingezogen werden. § 74a
@@ -10913,14 +11087,17 @@ sind anzuwenden.
 
 
 ## Achtzehnter Abschnitt - Überleitungs- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002003310)
 
 
 
 ### Erster Unterabschnitt - Überleitungsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelrechts
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002103310)
 
 
 
 #### § 99 Arzneimittelgesetz 1961
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014703310)
 
 Arzneimittelgesetz 1961 im Sinne dieses Gesetzes ist das Gesetz über
 den Verkehr mit Arzneimitteln vom 16. Mai 1961 (BGBl. I S. 533),
@@ -10928,6 +11105,7 @@ zuletzt geändert durch das Gesetz vom 2. Juli 1975 (BGBl. I S. 1745).
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014803310)
 
 (1) Eine Erlaubnis, die nach § 12 Abs. 1 oder § 19 Abs. 1 des
 Arzneimittelgesetzes 1961 erteilt worden ist und am 1. Januar 1978
@@ -10949,11 +11127,13 @@ gleichartige Arzneimittel beschränkt bleibt.
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE014904310)
 
 (weggefallen)
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015003310)
 
 (1) Wer am 1. Januar 1978 die Tätigkeit des Herstellungsleiters befugt
 ausübt, darf diese Tätigkeit im bisherigen Umfang weiter ausüben.
@@ -10977,11 +11157,13 @@ Tätigkeit als Kontrollleiter ausüben will.
 
 
 #### § 102a
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015104310)
 
 (weggefallen)
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015204310)
 
 (1) Für Arzneimittel, die nach § 19a oder nach § 19d in Verbindung mit
 § 19a des Arzneimittelgesetzes 1961 am 1. Januar 1978 zugelassen sind
@@ -10995,11 +11177,13 @@ eine Zulassung nach § 25 als erteilt. Auf die Zulassung finden die §§
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015304310)
 
 (weggefallen)
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015413116)
 
 (1) Fertigarzneimittel, die sich am 1. Januar 1978 im Verkehr
 befinden, gelten als zugelassen, wenn sie sich am 1. September 1976 im
@@ -11241,6 +11425,7 @@ Verlängerungsantrag gestellt wurde.
 
 
 #### § 105a
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015504116)
 
 (1) (weggefallen)
 
@@ -11259,26 +11444,31 @@ Zuständigkeit des Paul-Ehrlich-Instituts fallen.
 
 
 #### § 105b
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019306116)
 
 (weggefallen)
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015604310)
 
 (weggefallen)
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015704310)
 
 (weggefallen)
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015804310)
 
 (weggefallen)
 
 
 #### § 108a
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE015904116)
 
 Die Charge eines Serums, eines Impfstoffes oder eines Testallergens,
 die bei Wirksamwerden des Beitritts nach § 16 der Zweiten
@@ -11290,11 +11480,13 @@ Anwendung.
 
 
 #### § 108b
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016004310)
 
 (weggefallen)
 
 
 #### § 109
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016108116)
 
 (1) Auf Fertigarzneimittel, die sich am 1. Januar 1978 im Verkehr
 befunden haben, findet § 10 mit der Maßgabe Anwendung, dass anstelle
@@ -11344,6 +11536,7 @@ gemachten Ergebnisses halten.
 
 
 #### § 109a
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017707116)
 
 (1) Für die in § 109 Abs. 3 genannten Arzneimittel sowie für
 Arzneimittel, die nicht verschreibungspflichtig und nicht durch eine
@@ -11393,6 +11586,7 @@ zum Nachweis der Wirksamkeit nicht mehr anerkannt werden kann.
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016205116)
 
 Bei Arzneimitteln, die nach § 21 der Pflicht zur Zulassung oder nach §
 38 der Pflicht zur Registrierung unterliegen und die sich am 1. Januar
@@ -11403,11 +11597,13 @@ Gefährdung des Menschen zu verhüten.
 
 
 #### § 111
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016304310)
 
 (weggefallen)
 
 
 #### § 112
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016404116)
 
 Wer am 1. Januar 1978 Arzneimittel, die zum Verkehr außerhalb der
 Apotheken freigegeben sind, im Einzelhandel außerhalb der Apotheken in
@@ -11418,15 +11614,18 @@ Gesetzes vom 24. Mai 1968 (BGBl. I S. 503), dazu berechtigt war.
 
 
 #### § 113 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016504116)
 
 
 
 #### § 114
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016604310)
 
 (weggefallen)
 
 
 #### § 115
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016703310)
 
 Eine Person, die am 1. Januar 1978 die Tätigkeit eines Pharmaberaters
 nach § 75 ausübt, bedarf des dort vorgeschriebenen
@@ -11434,6 +11633,7 @@ Ausbildungsnachweises nicht.
 
 
 #### § 116
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016803310)
 
 Ärzte, die am 1. Januar 1978 nach landesrechtlichen Vorschriften zur
 Herstellung sowie zur Abgabe von Arzneimitteln an die von ihnen
@@ -11442,17 +11642,20 @@ bisherigen Umfang weiter ausüben. § 78 findet Anwendung.
 
 
 #### § 117
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE016904310)
 
 (weggefallen)
 
 
 #### § 118
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017003310)
 
 § 84 gilt nicht für Schäden, die durch Arzneimittel verursacht werden,
 die vor dem 1. Januar 1978 abgegeben worden sind.
 
 
 #### § 119
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017105116)
 
 Fertigarzneimittel, die sich bei Wirksamwerden des Beitritts in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet im Verkehr befinden,
@@ -11467,6 +11670,7 @@ Menschen zu verhüten.
 
 
 #### § 120
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017203310)
 
 Bei einer klinischen Prüfung, die bei Wirksamwerden des Beitritts in
 dem in Artikel 3 des Einigungsvertrages genannten Gebiet durchgeführt
@@ -11474,11 +11678,13 @@ wird, ist die Versicherung nach § 40 Abs. 1 Nr. 8 abzuschließen.
 
 
 #### § 121
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017304310)
 
 (weggefallen)
 
 
 #### § 122
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017403310)
 
 Die Anzeigepflicht nach § 67 gilt nicht für Betriebe, Einrichtungen
 und für Personen in dem in Artikel 3 des Einigungsvertrages genannten
@@ -11487,6 +11693,7 @@ Sinne jener Vorschrift ausüben.
 
 
 #### § 123
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017503310)
 
 Die erforderliche Sachkenntnis als Pharmaberater nach § 75 Abs. 2 Nr.
 2 besitzt auch, wer in dem in Artikel 3 des Einigungsvertrages
@@ -11495,6 +11702,7 @@ Apothekenassistent oder Veterinäringenieur abgeschlossen hat.
 
 
 #### § 124
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017603310)
 
 Die §§ 84 bis 94a sind nicht auf Arzneimittel anwendbar, die in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet vor Wirksamwerden
@@ -11502,18 +11710,22 @@ des Beitritts an den Verbraucher abgegeben worden sind.
 
 
 ### Zweiter Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002204116)
 
 
 
 #### (XXXX) §§ 125 und 126 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE017805116)
 
 
 
 ### Dritter Unterabschnitt - Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002303310)
 
 
 
 #### § 127
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018003310)
 
 (1) Arzneimittel, die sich am 1. Februar 1987 im Verkehr befinden und
 den Kennzeichnungsvorschriften des § 10 unterliegen, müssen ein Jahr
@@ -11537,6 +11749,7 @@ nach § 10 Abs. 1a in den Verkehr gebracht werden.
 
 
 #### § 128
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018103310)
 
 (1) Der pharmazeutische Unternehmer hat für Fertigarzneimittel, die
 sich am 1. Februar 1987 im Verkehr befinden, mit dem ersten auf den 1.
@@ -11561,6 +11774,7 @@ Vorschriften des § 11 Abs. 1 in der Fassung des Zweiten Gesetzes zur
 
 
 #### § 129
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018203310)
 
 § 11 Abs. 1a findet auf Arzneimittel, die sich am 1. Februar 1987 im
 Verkehr befinden, mit der Maßgabe Anwendung, dass ihre Packungsbeilage
@@ -11569,6 +11783,7 @@ zuständigen Behörde zu übersenden ist.
 
 
 #### § 130
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018303310)
 
 Wer am 1. Februar 1987 als privater Sachverständiger zur Untersuchung
 von Proben nach § 65 Abs. 2 bestellt ist, darf diese Tätigkeit im
@@ -11576,6 +11791,7 @@ bisherigen Umfang weiter ausüben.
 
 
 #### § 131
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018403310)
 
 Für die Verpflichtung zur Vorlage oder Übersendung einer
 Fachinformation nach § 11a gilt § 128 für Arzneimittel, die sich bei
@@ -11584,10 +11800,12 @@ genannten Gebiet in Verkehr befinden, entsprechend.
 
 
 ### Vierter Unterabschnitt - Übergangsvorschriften aus Anlass des Fünften Gesetzes zur Änderung des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002403310)
 
 
 
 #### § 132
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018512116)
 
 (1) Arzneimittel, die sich am 17. August 1994 im Verkehr befinden und
 den Vorschriften der §§ 10 und 11 unterliegen, müssen ein Jahr nach
@@ -11635,18 +11853,22 @@ genannten Arzneimitteln identisch sind.
 
 
 ### Fünfter Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002503116)
 
 
 
 #### § 133 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018803116)
 
 
 
 ### Sechster Unterabschnitt - Übergangsvorschriften aus Anlass des Transfusionsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002602310)
 
 
 
 #### § 134
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE018903116)
 
 Wer bei Inkrafttreten des Transfusionsgesetzes vom 1. Juli 1998 (BGBl.
 I S. 1752) die Tätigkeit als Herstellungsleiter für die Herstellung
@@ -11661,10 +11883,12 @@ Technik ausübt, darf diese Tätigkeit weiter ausüben.
 
 
 ### Siebter Unterabschnitt - Übergangsvorschriften aus Anlass des Achten Gesetzes zur Änderung des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002702310)
 
 
 
 #### § 135
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019402310)
 
 (1) Arzneimittel, die sich am 11. September 1998 im Verkehr befinden
 und den Vorschriften der §§ 10 und 11 unterliegen, müssen ein Jahr
@@ -11700,10 +11924,12 @@ worden sind.
 
 
 ### Achter Unterabschnitt - Übergangsvorschriften aus Anlass des Zehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002801310)
 
 
 
 #### § 136
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE019603116)
 
 (1) Für Arzneimittel, bei denen die nach § 105 Abs. 3 Satz 1
 beantragte Verlängerung bereits erteilt worden ist, sind die in § 105
@@ -11739,18 +11965,22 @@ Fassung.
 
 
 ### Neunter Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG002902116)
 
 
 
 #### § 137 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020103116)
 
 
 
 ### Zehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Zwölften Gesetzes zur Änderung des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003001310)
 
 
 
 #### § 138
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020604116)
 
 (1) Für die Herstellung und Einfuhr von Wirkstoffen, die mikrobieller
 Herkunft sind, sowie von anderen zur Arzneimittelherstellung
@@ -11804,10 +12034,12 @@ Einzelhändlern weiterhin in den Verkehr gebracht werden.
 
 
 ### Elfter Unterabschnitt - Übergangsvorschriften aus Anlass des Ersten Gesetzes zur Änderung des Transfusionsgesetzes und arzneimittelrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003101310)
 
 
 
 #### § 139
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020702116)
 
 Wer bei Inkrafttreten von Artikel 2 Nr. 3 des Ersten Gesetzes zur
 Änderung des Transfusionsgesetzes und arzneimittelrechtlicher
@@ -11820,18 +12052,22 @@ Tätigkeit weiter ausüben.
 
 
 ### Zwölfter Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003202116)
 
 
 
 #### § 140 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE020902116)
 
 
 
 ### Dreizehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Vierzehnten Gesetzes zur Änderung des Arzneimittelgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003301310)
 
 
 
 #### § 141
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE021706116)
 
 (1) Arzneimittel, die sich am 5. September 2005 im Verkehr befinden
 und den Vorschriften der §§ 10 und 11 unterliegen, müssen zwei Jahre
@@ -11936,10 +12172,12 @@ der bisherigen Form in den Verkehr gebracht werden.
 
 
 ### Vierzehnter Unterabschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003400310)
 
 
 
 #### § 142 Übergangsvorschriften aus Anlass des Gewebegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022300310)
 
 (1) Eine Person, die am 1. August 2007 als sachkundige Person die
 Sachkenntnis nach § 15 Abs. 3a in der bis zu diesem Zeitpunkt
@@ -11963,6 +12201,7 @@ Zulassung nach § 21 Abs. 1 besitzt, muss keinen neuen Antrag nach §
 
 
 #### § 142a Übergangs- und Bestandsschutzvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE025801116)
 
 (1) Für autologes Blut für die Herstellung von biotechnologisch
 bearbeiteten Gewebeprodukten ist § 72b in der bis einschließlich 25.
@@ -11988,6 +12227,7 @@ sind ab dem 29. April 2017 zu erfüllen.
 
 
 #### § 142b Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026900116)
 
 (1) Wer für Arzneimittel für neuartige Therapien am 29. Juli 2017 eine
 Genehmigung nach § 4b Absatz 3 in der bis zum 28. Juli 2017 geltenden
@@ -12000,18 +12240,22 @@ erfüllen.
 
 
 ### Fünfzehnter Unterabschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003500377)
 
 
 
 #### § 143 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022402116)
 
 
 
 ### Sechzehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003600310)
 
 
 
 #### § 144
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023102116)
 
 (1) Wer die in § 4b Absatz 1 genannten Arzneimittel für neuartige
 Therapien am 23. Juli 2009 befugt herstellt und bis zum 1. Januar 2010
@@ -12058,10 +12302,12 @@ gebracht werden.
 
 
 ### Siebzehnter Unterabschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003700360)
 
 
 
 #### § 145 Übergangsvorschriften aus Anlass des Gesetzes zur Neuordnung des Arzneimittelmarktes
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023300360)
 
 Für Arzneimittel, die zum Zeitpunkt des Inkrafttretens bereits
 zugelassen sind, haben der pharmazeutische Unternehmer und der Sponsor
@@ -12073,10 +12319,12 @@ August 2004 geltenden Fassung Anwendung gefunden haben.
 
 
 ### Achtzehnter Unterabschnitt - Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003800140)
 
 
 
 #### § 146 Übergangsvorschriften aus Anlass des Zweiten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE023703116)
 
 (1) Arzneimittel, die sich am 26. Oktober 2012 im Verkehr befinden und
 der Vorschrift des § 10 Absatz 1 Nummer 2 unterliegen, müssen zwei
@@ -12170,10 +12418,12 @@ finden für Rückversicherungsverträge ab dem 1. Januar 2014 Anwendung.
 
 
 ### Neunzehnter Unterabschnitt - Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG003900116)
 
 
 
 #### § 147 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE024700116)
 
 Für nichtinterventionelle Unbedenklichkeitsprüfungen nach § 63f und
 Untersuchungen nach § 67 Absatz 6, die vor dem 13. August 2013
@@ -12183,10 +12433,12 @@ Anwendung.
 
 
 ### Zwanzigster Unterabschnitt - Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNG004002116)
 
 
 
 #### § 148 Übergangsvorschrift aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften sowie des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE026803116)
 
 (1) Für klinische Prüfungen, für die der Antrag auf Genehmigung vor
 dem Ablauf des Tages des sechsten auf den Monat der Veröffentlichung
@@ -12238,6 +12490,7 @@ Arzneimittelgesetz und die GCP-Verordnung in der jeweils am 26. Januar
 
 
 #### Anlage (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE027102116)
 
 Aflatoxine
 Ethylenoxid
@@ -12249,4 +12502,5 @@ Enzephalopathien
 
 
 #### Anhang (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amg_1976/BJNR024480976.html#BJNR024480976BJNE022504116)
 

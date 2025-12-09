@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000100313)
 
 (1) Ein Hypothekenbrief über eine Hypothek, mit der ein im
 Geltungsbereich dieses Gesetzes belegenes Grundstück belastet ist,
@@ -41,6 +42,7 @@ ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000201140)
 
 Auf das Verfahren der Kraftloserklärung sind die für das
 Aufgebotsverfahren zum Zwecke der Kraftloserklärung von
@@ -51,6 +53,7 @@ nichts anderes bestimmt ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000301140)
 
 (1) An die Stelle der Glaubhaftmachung des Verlustes der Urkunde (§
 468 Nr. 2 des Gesetzes über das Verfahren in Familiensachen und in den
@@ -62,6 +65,7 @@ Briefes bekannt ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000401140)
 
 (1) Die öffentliche Bekanntmachung des Aufgebots erfolgt durch
 Anheftung an die Gerichtstafel sowie durch einmalige Einrückung in den
@@ -76,6 +80,7 @@ werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000501140)
 
 (1) Wer ein Recht aus der Hypothek anmeldet, hat die Tatsachen
 glaubhaft zu machen, auf die er das Recht stützt, ferner den
@@ -96,6 +101,7 @@ erlangen kann.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000600313)
 
 Geht eine Anmeldung ein, die auf Grund des § 5 Abs. 1 nicht wirksam
 ist, so soll das Gericht den Anmeldenden auf den Inhalt des § 5 Abs. 1
@@ -104,6 +110,7 @@ Frist die Anmeldung zu ergänzen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000701140)
 
 Eine öffentliche Bekanntmachung des Ausschließungsbeschlusses und der
 in § 478 Abs. 3 des Gesetzes über das Verfahren in Familiensachen und
@@ -112,6 +119,7 @@ Entscheidung findet nicht statt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000802140)
 
 (1) Die Kraftloserklärung des Hypothekenbriefs erfolgt ohne Aufgebot
 durch Ausschließungsbeschluss, wenn der Antragsteller glaubhaft macht,
@@ -133,6 +141,7 @@ Gerichtsbarkeit gilt entsprechend.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE000900313)
 
 Im Verfahren nach den vorstehenden Vorschriften beträgt der Wert des
 Streitgegenstands ein Fünftel des Wertes der dem Antragsteller noch
@@ -141,11 +150,13 @@ anders festsetzen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE001001140)
 
 (weggefallen)
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE001101140)
 
 (1) Ein auf Grund der Vorschriften dieses Gesetzes erwirkter
 Ausschließungsbeschluss steht im Grundbuchverfahren einem auf Grund
@@ -156,6 +167,7 @@ Ausschließungsbeschluss gleich.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE001200313)
 
 Für einen Rechtsstreit, der die Herausgabe des Briefes oder das Recht
 aus der Hypothek betrifft, ist das Gericht ausschließlich zuständig,
@@ -163,12 +175,14 @@ in dessen Bezirk das belastete Grundstück gelegen ist.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE001300313)
 
 Die Vorschriften dieses Gesetzes über Hypothekenbriefe gelten
 sinngemäß für Grundschuldbriefe und Rentenschuldbriefe.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE001400313)
 
 (1) Die §§ 5 und 6 sind sinngemäß anzuwenden auf das
 Aufgebotsverfahren zum Zwecke der Ausschließung eines Hypotheken-,
@@ -180,6 +194,7 @@ Betrag betrifft, gilt § 12 sinngemäß.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/hypkrloserklg/BJNR000880950.html#BJNR000880950BJNE001500313)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

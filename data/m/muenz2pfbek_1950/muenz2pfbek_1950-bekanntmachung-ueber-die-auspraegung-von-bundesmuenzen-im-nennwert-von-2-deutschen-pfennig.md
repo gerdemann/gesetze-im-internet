@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2pfbek_1950/BJNR006860950.html#BJNR006860950BJNE000100314)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im
@@ -46,6 +47,7 @@ waagerecht angebrachten Stäbchen ruht.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2pfbek_1950/BJNR006860950.html#BJNR006860950BJNE000200314)
 
 Der Bundeskanzler
 Der Bundesminister der Finanzen

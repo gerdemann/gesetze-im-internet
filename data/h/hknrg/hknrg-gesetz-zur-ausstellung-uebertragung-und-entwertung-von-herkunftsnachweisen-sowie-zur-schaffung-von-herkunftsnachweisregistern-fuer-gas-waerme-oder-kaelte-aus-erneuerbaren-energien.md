@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Zweck dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000101123)
 
 Zweck dieses Gesetzes ist es, die Rahmenbedingungen für die Errichtung
 und den Betrieb eines Herkunftsnachweisregisters für Gas sowie eines
@@ -35,6 +36,7 @@ zuständigen Behörde zu schaffen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000201123)
 
 Im Sinne dieses Gesetzes ist
 
@@ -146,6 +148,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Herkunftsnachweise für Gas und Herkunftsnachweisregister für Gas
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000301123)
 
 (1) Die in der Rechtsverordnung nach § 5 bestimmte zuständige Behörde
 
@@ -219,6 +222,7 @@ Verwaltungsgerichtsordnung statt.
 
 
 ## § 4 Herkunftsnachweise für Wärme oder Kälte und Herkunftsnachweisregister für Wärme oder Kälte
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000401123)
 
 (1) Die in der Rechtsverordnung nach § 5 bestimmte zuständige Behörde
 
@@ -288,6 +292,7 @@ Verwaltungsgerichtsordnung statt.
 [^F828946_01_BJNR0090B0023BJNE000401123]: 
 
 ## § 5 Verordnungsermächtigungen zu Herkunftsnachweisen für Gas und Herkunftsnachweisen für Wärme oder Kälte sowie zur Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000501123)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundestages und ohne Zustimmung des Bundesrates
@@ -657,6 +662,7 @@ Bericht enthält Eckpunkte für Regelungen nach Absatz 1 Nummer 3.
 
 
 ## § 6 Inbetriebnahme
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000601123)
 
 Die zuständige Behörde gibt die Inbetriebnahme des
 Herkunftsnachweisregisters für Gas und die Inbetriebnahme des
@@ -665,6 +671,7 @@ bekannt.
 
 
 ## § 7 Verordnungsermächtigung zu Herkunftsnachweisen aus erneuerbarem Strom
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000701123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
@@ -699,6 +706,7 @@ Zustimmung des Bundestages und ohne Zustimmung des Bundesrates
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hknrg/BJNR0090B0023.html#BJNR0090B0023BJNE000801123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Rechtsverordnung nach

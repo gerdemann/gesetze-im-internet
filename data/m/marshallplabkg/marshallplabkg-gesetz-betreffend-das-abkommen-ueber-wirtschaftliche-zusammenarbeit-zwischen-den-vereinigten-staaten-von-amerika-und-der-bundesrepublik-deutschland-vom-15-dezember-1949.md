@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/marshallplabkg/BJNR000090950.html#BJNR000090950BJNE000100326)
 
 Dem am 15. Dezember 1949 in Bonn unterzeichneten Abkommen über
 Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von
@@ -30,6 +31,7 @@ Amerika und der Bundesrepublik Deutschland wird zugestimmt.
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/marshallplabkg/BJNR000090950.html#BJNR000090950BJNE000200326)
 
 (1) Das Abkommen wird nachstehend mit Gesetzeskraft veröffentlicht.
 
@@ -37,6 +39,7 @@ Amerika und der Bundesrepublik Deutschland wird zugestimmt.
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/marshallplabkg/BJNR000090950.html#BJNR000090950BJNE000301360)
 
 Die im Zusammenhang mit dem Abkommen der Bundesrepublik Deutschland
 entstandenen und noch entstehenden Vermögenswerte bilden ein
@@ -46,6 +49,7 @@ durch den Bundesrechnungshof.
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/marshallplabkg/BJNR000090950.html#BJNR000090950BJNE000400326)
 
 Die Bundesregierung wird ermächtigt, im Wege der Rechtsverordnung
 gemäß Artikel II Abs. 1 des Abkommens Ausführungsbestimmungen über die
@@ -65,6 +69,7 @@ kann.
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/marshallplabkg/BJNR000090950.html#BJNR000090950BJNE000500326)
 
 Dieses Gesetz tritt mit dem Tag nach der Verkündung in Kraft.
 

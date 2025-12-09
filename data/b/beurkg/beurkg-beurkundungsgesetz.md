@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000101125)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002304125)
 
 (1) Dieses Gesetz gilt für öffentliche Beurkundungen und Verwahrungen
 durch den Notar.
@@ -35,6 +37,7 @@ Abschnitts 5, entsprechend.
 
 
 ### § 2 Überschreiten des Amtsbezirks
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002401125)
 
 Eine Beurkundung ist nicht deshalb unwirksam, weil der Notar sie
 außerhalb seines Amtsbezirks oder außerhalb des Landes vorgenommen
@@ -42,6 +45,7 @@ hat, in dem er zum Notar bestellt ist.
 
 
 ### § 3 Verbot der Mitwirkung als Notar
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002508125)
 
 (1) Ein Notar soll an einer Beurkundung nicht mitwirken, wenn es sich
 handelt um
@@ -129,6 +133,7 @@ nicht anwendbar.
 
 
 ### § 4 Ablehnung der Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002601125)
 
 Der Notar soll die Beurkundung ablehnen, wenn sie mit seinen
 Amtspflichten nicht vereinbar wäre, insbesondere wenn seine Mitwirkung
@@ -137,6 +142,7 @@ unredliche Zwecke verfolgt werden.
 
 
 ### § 5 Urkundensprache
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002701125)
 
 (1) Urkunden werden in deutscher Sprache errichtet.
 
@@ -146,14 +152,17 @@ fremden Sprache hinreichend kundig ist.
 
 
 ## Abschnitt 2 - Beurkundung von Willenserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000201125)
 
 
 
 ### Unterabschnitt 1 - Ausschließung des Notars
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000301125)
 
 
 
 #### § 6 Ausschließungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002802125)
 
 (1) Die Beurkundung von Willenserklärungen ist unwirksam, wenn
 
@@ -182,6 +191,7 @@ sollen.
 
 
 #### § 7 Beurkundungen zugunsten des Notars oder seiner Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE002902125)
 
 Die Beurkundung von Willenserklärungen ist insoweit unwirksam, als
 diese darauf gerichtet sind,
@@ -205,16 +215,19 @@ einen rechtlichen Vorteil zu verschaffen.
 
 
 ### Unterabschnitt 2 - Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000401125)
 
 
 
 #### § 8 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003001125)
 
 Bei der Beurkundung von Willenserklärungen muß eine Niederschrift über
 die Verhandlung aufgenommen werden.
 
 
 #### § 9 Inhalt der Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003102125)
 
 (1) Die Niederschrift muß enthalten
 
@@ -235,6 +248,7 @@ Erklärungen abgeben.
 
 
 #### § 10 Feststellung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003202125)
 
 (1) Der Notar soll sich Gewissheit über die Person der Beteiligten
 verschaffen.
@@ -251,6 +265,7 @@ angeben.
 
 
 #### § 11 Feststellungen über die Geschäftsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003301125)
 
 (1) Fehlt einem Beteiligten nach der Überzeugung des Notars die
 erforderliche Geschäftsfähigkeit, so soll die Beurkundung abgelehnt
@@ -263,6 +278,7 @@ Notar über die Geschäftsfähigkeit getroffen hat.
 
 
 #### § 12 Nachweise für die Vertretungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003401125)
 
 (1) Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
 gesetzlichen Vertreters sollen der Niederschrift in Urschrift oder in
@@ -278,6 +294,7 @@ dem die beurkundete Willenserklärung abgegeben wird.
 
 
 #### § 13 Vorlesen, Genehmigen, Unterschreiben
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003502125)
 
 (1) Die Niederschrift muß in Gegenwart des Notars den Beteiligten
 vorgelesen, von ihnen genehmigt und eigenhändig unterschrieben werden;
@@ -303,6 +320,7 @@ beifügen.
 
 
 #### § 13a Eingeschränkte Beifügungs- und Vorlesungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009501125)
 
 (1) Wird in der Niederschrift auf eine andere notarielle Niederschrift
 verwiesen, die nach den Vorschriften über die Beurkundung von
@@ -338,6 +356,7 @@ die Absätze 1 bis 3 entsprechend.
 
 
 #### § 14 Eingeschränkte Vorlesungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003602125)
 
 (1) Werden Bilanzen, Inventare, Nachlaßverzeichnisse oder sonstige
 Bestandsverzeichnisse über Sachen, Rechte und Rechtsverhältnisse in
@@ -364,6 +383,7 @@ ist.
 
 
 #### § 15 Versteigerungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003701125)
 
 Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als
 beteiligt, die an ihr Gebot gebunden bleiben. Entfernt sich ein
@@ -373,6 +393,7 @@ der Bieter vor dem Schluß der Verhandlung entfernt hat.
 
 
 #### § 16 Übersetzung der Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003801125)
 
 (1) Ist ein Beteiligter nach seinen Angaben oder nach der Überzeugung
 des Notars der deutschen Sprache oder, wenn die Niederschrift in einer
@@ -399,10 +420,12 @@ werden.
 
 
 ### Unterabschnitt 3 - Beurkundung mittels Videokommunikation; Elektronische Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG002500125)
 
 
 
 #### § 16a Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011101125)
 
 (1) Die Beurkundung von Willenserklärungen kann mittels des von der
 Bundesnotarkammer nach § 78p der Bundesnotarordnung betriebenen
@@ -418,6 +441,7 @@ Geschäftsfähigkeit eines Beteiligten hat.
 
 
 #### § 16b Aufnahme einer elektronischen Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011201125)
 
 (1) Bei der Beurkundung von Willenserklärungen mittels
 Videokommunikation muss eine elektronische Niederschrift über die
@@ -451,6 +475,7 @@ werden.
 
 
 #### § 16c Feststellung der Beteiligten mittels Videokommunikation
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011302360)
 
 Erfolgt die Beurkundung mittels Videokommunikation, soll sich der
 Notar Gewissheit über die Person der Beteiligten anhand eines ihm
@@ -500,6 +525,7 @@ eines Lichtbildes nicht erforderlich.
 
 
 #### § 16d Nachweise für die Vertretungsberechtigung bei elektronischen Niederschriften
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011400125)
 
 Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
 gesetzlichen Vertreters sollen der elektronischen Niederschrift in
@@ -507,6 +533,7 @@ elektronisch beglaubigter Abschrift beigefügt werden.
 
 
 #### § 16e Gemischte Beurkundung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011500125)
 
 (1) Erfolgt die Beurkundung mit einem Teil der Beteiligten, die bei
 dem Notar körperlich anwesend sind, und mit dem anderen Teil der
@@ -520,10 +547,12 @@ Niederschrift vermerkt werden.
 
 
 ### Unterabschnitt 4 - Prüfungs- und Belehrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000501125)
 
 
 
 #### § 17 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE003905125)
 
 (1) Der Notar soll den Willen der Beteiligten erforschen, den
 Sachverhalt klären, die Beteiligten über die rechtliche Tragweite des
@@ -570,6 +599,7 @@ ausländischer Rechtsordnungen ist er nicht verpflichtet.
 
 
 #### § 18 Genehmigungserfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004001125)
 
 Auf die erforderlichen gerichtlichen oder behördlichen Genehmigungen
 oder Bestätigungen oder etwa darüber bestehende Zweifel soll der Notar
@@ -577,6 +607,7 @@ die Beteiligten hinweisen und dies in der Niederschrift vermerken.
 
 
 #### § 19 Unbedenklichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004102125)
 
 Darf nach dem Grunderwerbsteuerrecht eine Eintragung im Grundbuch erst
 vorgenommen werden, wenn die Unbedenklichkeitsbescheinigung des
@@ -585,6 +616,7 @@ hinweisen und dies in der Niederschrift vermerken.
 
 
 #### § 20 Gesetzliches Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004201125)
 
 Beurkundet der Notar die Veräußerung eines Grundstücks, so soll er,
 wenn ein gesetzliches Vorkaufsrecht in Betracht kommen könnte, darauf
@@ -592,6 +624,7 @@ hinweisen und dies in der Niederschrift vermerken.
 
 
 #### § 20a Vorsorgevollmacht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010202125)
 
 Beurkundet der Notar eine Vorsorgevollmacht, so soll er auf die
 Möglichkeit der Registrierung bei dem Zentralen Vorsorgeregister
@@ -599,6 +632,7 @@ hinweisen.
 
 
 #### § 21 Grundbucheinsicht, Briefvorlage
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004301125)
 
 (1) Bei Geschäften, die im Grundbuch eingetragene oder einzutragende
 Rechte zum Gegenstand haben, soll sich der Notar über den
@@ -612,10 +646,12 @@ Notar in der Niederschrift vermerken, ob der Brief vorgelegen hat.
 
 
 ### Unterabschnitt 5 - Beteiligung behinderter Personen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000601125)
 
 
 
 #### § 22 Hörbehinderte, sprachbehinderte und sehbehinderte Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004402125)
 
 (1) Vermag ein Beteiligter nach seinen Angaben oder nach der
 Überzeugung des Notars nicht hinreichend zu hören, zu sprechen oder zu
@@ -630,6 +666,7 @@ unterschrieben werden.
 
 
 #### § 23 Besonderheiten bei hörbehinderten Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004502125)
 
 Eine Niederschrift, in der nach § 22 Abs. 1 festgestellt ist, daß ein
 Beteiligter nicht hinreichend zu hören vermag, muß diesem Beteiligten
@@ -641,6 +678,7 @@ worden ist.
 
 
 #### § 24 Besonderheiten bei hör- und sprachbehinderten Beteiligten, mit denen eine schriftliche Verständigung nicht möglich ist
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004602125)
 
 (1) Vermag ein Beteiligter nach seinen Angaben oder nach der
 Überzeugung des Notars nicht hinreichend zu hören oder zu sprechen und
@@ -664,6 +702,7 @@ zuzuziehen, bleibt unberührt.
 
 
 #### § 25 Schreibunfähige
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004701125)
 
 Vermag ein Beteiligter nach seinen Angaben oder nach der Überzeugung
 des Notars seinen Namen nicht zu schreiben, so muß bei dem Vorlesen
@@ -675,6 +714,7 @@ zweiten Notar unterschrieben werden.
 
 
 #### § 26 Verbot der Mitwirkung als Zeuge oder zweiter Notar
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004802125)
 
 (1) Als Zeuge oder zweiter Notar soll bei der Beurkundung nicht
 zugezogen werden, wer
@@ -724,10 +764,12 @@ wer
 
 
 ### Unterabschnitt 6 - Besonderheiten für Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000701125)
 
 
 
 #### § 27 Begünstigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE004901125)
 
 Die §§ 7, 16 Abs. 3 Satz 2, § 24 Abs. 2, § 26 Abs. 1 Nr. 2 gelten
 entsprechend für Personen, die in einer Verfügung von Todes wegen
@@ -735,12 +777,14 @@ bedacht oder zum Testamentsvollstrecker ernannt werden.
 
 
 #### § 28 Feststellungen über die Geschäftsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005001125)
 
 Der Notar soll seine Wahrnehmungen über die erforderliche
 Geschäftsfähigkeit des Erblassers in der Niederschrift vermerken.
 
 
 #### § 29 Zeugen, zweiter Notar
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005101125)
 
 Auf Verlangen der Beteiligten soll der Notar bei der Beurkundung bis
 zu zwei Zeugen oder einen zweiten Notar zuziehen und dies in der
@@ -749,6 +793,7 @@ Personen unterschrieben werden.
 
 
 #### § 30 Übergabe einer Schrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005201125)
 
 Wird eine Verfügung von Todes wegen durch Übergabe einer Schrift
 errichtet, so muß die Niederschrift auch die Feststellung enthalten,
@@ -763,10 +808,12 @@ einer Verlesung der Schrift bedarf es nicht.
 
 
 #### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005301301)
 
 
 
 #### § 32 Sprachunkundige
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005401125)
 
 Ist ein Erblasser, der dem Notar seinen letzten Willen mündlich
 erklärt, der Sprache, in der die Niederschrift aufgenommen wird, nicht
@@ -777,12 +824,14 @@ verzichten; der Verzicht muß in der Niederschrift festgestellt werden.
 
 
 #### § 33 Besonderheiten beim Erbvertrag
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005502125)
 
 Bei einem Erbvertrag gelten die §§ 30 und 32 entsprechend auch für die
 Erklärung des anderen Vertragschließenden.
 
 
 #### § 34 Verschließung, Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005605125)
 
 (1) Die Niederschrift über die Errichtung eines Testaments soll der
 Notar in einen Umschlag nehmen und diesen mit dem Prägesiegel
@@ -807,6 +856,7 @@ in die elektronische Form übertragen werden.
 
 
 #### § 34a Mitteilungs- und Ablieferungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010403125)
 
 (1) Der Notar übermittelt nach Errichtung einer erbfolgerelevanten
 Urkunde im Sinne von § 78d Absatz 2 Satz 1 der Bundesnotarordnung die
@@ -829,6 +879,7 @@ Eintritt des Erbfalls in beglaubigter Abschrift mit.
 
 
 #### § 35 Niederschrift ohne Unterschrift des Notars
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005701125)
 
 Hat der Notar die Niederschrift über die Errichtung einer Verfügung
 von Todes wegen nicht unterschrieben, so ist die Beurkundung aus
@@ -837,14 +888,17 @@ verschlossenen Umschlag unterschrieben hat.
 
 
 ## Abschnitt 3 - Sonstige Beurkundungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000801125)
 
 
 
 ### Unterabschnitt 1 - Niederschriften
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG000901125)
 
 
 
 #### § 36 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005801125)
 
 Bei der Beurkundung anderer Erklärungen als Willenserklärungen sowie
 sonstiger Tatsachen oder Vorgänge muß eine Niederschrift aufgenommen
@@ -852,6 +906,7 @@ werden, soweit in § 39 nichts anderes bestimmt ist.
 
 
 #### § 37 Inhalt der Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE005902125)
 
 (1) Die Niederschrift muß enthalten
 
@@ -875,6 +930,7 @@ Notars sowie Ort und Tag der Errichtung der Urkunde angegeben werden.
 
 
 #### § 38 Eide, eidesstattliche Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006001125)
 
 (1) Bei der Abnahme von Eiden und bei der Aufnahme eidesstattlicher
 Versicherungen gelten die Vorschriften über die Beurkundung von
@@ -886,10 +942,12 @@ vermerken.
 
 
 ### Unterabschnitt 2 - Vermerke
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG001001125)
 
 
 
 #### § 39 Einfache Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006102125)
 
 Bei der Beglaubigung einer Unterschrift oder eines Handzeichens oder
 der Zeichnung einer Namensunterschrift, bei der Feststellung des
@@ -903,6 +961,7 @@ und Ort und Tag der Ausstellung angeben soll (Vermerk).
 
 
 #### § 39a Einfache elektronische Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010303125)
 
 (1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können
 elektronisch errichtet werden; Beglaubigungen qualifizierter
@@ -932,6 +991,7 @@ Dokument enthalten ist.
 
 
 #### § 40 Beglaubigung einer Unterschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006202125)
 
 (1) Eine Unterschrift soll nur beglaubigt werden, wenn sie in
 Gegenwart des Notars vollzogen oder anerkannt wird.
@@ -957,6 +1017,7 @@ entsprechend.
 
 
 #### § 40a Beglaubigung einer qualifizierten elektronischen Signatur
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011601125)
 
 (1) Eine qualifizierte elektronische Signatur soll nur beglaubigt
 werden, wenn sie in Gegenwart des Notars oder mittels des von der
@@ -988,6 +1049,7 @@ Signatur anerkannt hat.
 
 
 #### § 41 Beglaubigung der Zeichnung einer Namensunterschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006303125)
 
 Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur
 Aufbewahrung beim Gericht bestimmt ist, muß die Zeichnung in Gegenwart
@@ -998,6 +1060,7 @@ entsprechend.
 
 
 #### § 42 Beglaubigung einer Abschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006404125)
 
 (1) Bei der Beglaubigung der Abschrift einer Urkunde soll festgestellt
 werden, ob die Urkunde eine Urschrift, eine Ausfertigung, eine
@@ -1024,16 +1087,19 @@ dokumentiert werden. § 39a Absatz 3 Satz 2 gilt entsprechend.
 
 
 #### § 43 Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006501125)
 
 Bei der Feststellung des Zeitpunktes, zu dem eine private Urkunde
 vorgelegt worden ist, gilt § 42 Abs. 2 entsprechend.
 
 
 ## Abschnitt 4 - Behandlung der Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG001101125)
 
 
 
 ### § 44 Verbindung mit Schnur und Prägesiegel
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006602125)
 
 Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur
 und Prägesiegel verbunden werden. Das gleiche gilt für Schriftstücke
@@ -1043,6 +1109,7 @@ worden sind.
 
 
 ### § 44a Änderungen in den Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009602125)
 
 (1) Zusätze und sonstige, nicht nur geringfügige Änderungen sollen am
 Schluß vor den Unterschriften oder am Rande vermerkt und im letzteren
@@ -1074,6 +1141,7 @@ hierüber eine besondere Niederschrift aufzunehmen.
 
 
 ### § 44b Nachtragsbeurkundung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010501125)
 
 (1) Wird der Inhalt einer Niederschrift in einer anderen Niederschrift
 berichtigt, geändert, ergänzt oder aufgehoben, soll der Notar durch
@@ -1089,6 +1157,7 @@ Ausfertigungen und Abschriften der Urschrift übernehmen.
 
 
 ### § 45 Urschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006703125)
 
 (1) Die Urschrift der notariellen Urkunde bleibt, wenn sie nicht
 auszuhändigen ist, in der Verwahrung des Notars.
@@ -1105,6 +1174,7 @@ verwahrt wird, gilt als Urschrift im Sinne dieses Gesetzes
 
 
 ### § 45a Aushändigung der Urschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010601125)
 
 (1) Die Urschrift einer Niederschrift soll nur ausgehändigt werden,
 wenn dargelegt wird, dass sie im Ausland verwendet werden soll, und
@@ -1120,6 +1190,7 @@ wird.
 
 
 ### § 45b Verwahrung und Aushändigung elektronischer Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011700125)
 
 (1) Das nach § 16b erstellte elektronische Dokument bleibt in der
 Verwahrung des Notars. Elektronische Vervielfältigungen dieses
@@ -1138,6 +1209,7 @@ auszuhändigen.
 
 
 ### § 46 Ersetzung der Urschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006804125)
 
 (1) Ist die Urschrift einer Niederschrift ganz oder teilweise zerstört
 worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen, so
@@ -1173,12 +1245,14 @@ sich ohne erhebliche Schwierigkeiten ermitteln lassen.
 
 
 ### § 47 Ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE006901125)
 
 Die Ausfertigung der Niederschrift oder der elektronischen
 Niederschrift vertritt die Urschrift im Rechtsverkehr.
 
 
 ### § 48 Zuständigkeit für die Erteilung der Ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007001125)
 
 Die Ausfertigung erteilt, soweit bundes- oder landesrechtlich nichts
 anderes bestimmt ist, die Stelle, welche die Urschrift verwahrt. Wird
@@ -1187,6 +1261,7 @@ der Geschäftsstelle die Ausfertigung.
 
 
 ### § 49 Form der Ausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007106125)
 
 (1) Die Ausfertigung besteht, jeweils mit einem Ausfertigungsvermerk
 versehen, in
@@ -1227,6 +1302,7 @@ Tage eine Ausfertigung erteilt worden ist.
 
 
 ### § 50 Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007201125)
 
 (1) Ein Notar kann die deutsche Übersetzung einer Urkunde mit der
 Bescheinigung der Richtigkeit und Vollständigkeit versehen, wenn er
@@ -1245,6 +1321,7 @@ zusammen mit der Urschrift verwahrt werden.
 
 
 ### § 51 Recht auf Ausfertigungen, Abschriften und Einsicht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007302125)
 
 (1) Ausfertigungen können verlangen
 
@@ -1275,12 +1352,14 @@ unberührt.
 
 
 ### § 52 Vollstreckbare Ausfertigungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007401125)
 
 Vollstreckbare Ausfertigungen werden nach den dafür bestehenden
 Vorschriften erteilt.
 
 
 ### § 53 Einreichung beim Grundbuchamt oder Registergericht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007501125)
 
 Sind Willenserklärungen beurkundet worden, die beim Grundbuchamt oder
 Registergericht einzureichen sind, so soll der Notar dies veranlassen,
@@ -1290,6 +1369,7 @@ Verzögerung verbundenen Gefahren soll der Notar hinweisen.
 
 
 ### § 54 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007603125)
 
 (1) Gegen die Ablehnung der Erteilung der Vollstreckungsklausel oder
 einer Amtshandlung nach den §§ 45a, 46 und 51 sowie gegen die
@@ -1303,10 +1383,12 @@ sich die Beschwerde richtet, ihren Sitz hat.
 
 
 ## Abschnitt 5 - Verwahrung der Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG002403125)
 
 
 
 ### § 55 Verzeichnis und Verwahrung der Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010704125)
 
 (1) Der Notar führt ein elektronisches Verzeichnis über Beurkundungen
 und sonstige Amtshandlungen (Urkundenverzeichnis).
@@ -1321,6 +1403,7 @@ und einer Erbvertragssammlung.
 
 
 ### § 56 Übertragung der Papierdokumente in die elektronische Form; Einstellung der elektronischen Dokumente in die elektronische Urkundensammlung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010803125)
 
 (1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke
 in die elektronische Form soll durch geeignete Vorkehrungen nach dem
@@ -1355,10 +1438,12 @@ denen sie nach den Absätzen 1 bis 3 übertragen worden sind.
 
 
 ## Abschnitt 6 - Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG002302125)
 
 
 
 ### § 57 Antrag auf Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009704125)
 
 (1) Der Notar darf Bargeld zur Aufbewahrung oder zur Ablieferung an
 Dritte nicht entgegennehmen.
@@ -1402,6 +1487,7 @@ nicht beteiligt sind.
 
 
 ### § 58 Durchführung der Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009807125)
 
 (1) Der Notar hat anvertraute Gelder unverzüglich einem Sonderkonto
 für fremde Gelder (Notaranderkonto) zuzuführen. Der Notar ist zu einer
@@ -1453,6 +1539,7 @@ ist nach den Absätzen 2 und 3 zu behandeln.
 
 
 ### § 59 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010901125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz hat durch
 Rechtsverordnung mit Zustimmung des Bundesrates die näheren
@@ -1468,6 +1555,7 @@ entsprechen.
 
 
 ### § 59a Verwahrungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE011002125)
 
 (1) Der Notar führt ein elektronisches Verzeichnis über
 Verwahrungsmassen, die er nach § 23 der Bundesnotarordnung und nach
@@ -1482,6 +1570,7 @@ soweit diese auch in das Verwahrungsverzeichnis einzutragen wären.
 
 
 ### § 60 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009903125)
 
 (1) Den schriftlichen Widerruf einer Anweisung hat der Notar zu
 beachten, soweit er dadurch Dritten gegenüber bestehende Amtspflichten
@@ -1521,6 +1610,7 @@ oder ergänzende Regelungen enthalten.
 
 
 ### § 61 Absehen von Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010003125)
 
 Der Notar hat von der Auszahlung abzusehen und alle an dem
 Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon zu
@@ -1539,6 +1629,7 @@ unterrichten, wenn
 
 
 ### § 62 Verwahrung von Wertpapieren und Kostbarkeiten
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE010103125)
 
 (1) Die §§ 57, 60 und 61 gelten entsprechend für die Verwahrung von
 Wertpapieren und Kostbarkeiten.
@@ -1550,14 +1641,17 @@ der Verwahrungsanweisung nichts anderes bestimmt ist.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG001203125)
 
 
 
 ### Unterabschnitt 1 - Verhältnis zu anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG001303125)
 
 
 
 #### § 63 Beseitigung von Doppelzuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE007803125)
 
 (1) u. (2) (Änderungsvorschriften)
 
@@ -1570,18 +1664,21 @@ zuständig.
 
 
 #### § 64 Beurkundungen nach dem Personenstandsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008003125)
 
 Dieses Gesetz gilt nicht für Beurkundungen nach dem
 Personenstandsgesetz.
 
 
 #### § 65 Unberührt bleibendes Bundesrecht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008102125)
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben
 bundesrechtliche Vorschriften über Beurkundungen unberührt.
 
 
 #### § 66 Unberührt bleibendes Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008305125)
 
 (1) Unbeschadet der Zuständigkeit des Notars bleiben folgende
 landesrechtliche Vorschriften unberührt:
@@ -1670,6 +1767,7 @@ Beurkundungszuständigkeiten nicht neu übertragen werden.
 
 
 #### § 67 Zuständigkeit der Amtsgerichte; Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008408125)
 
 (1) Unbeschadet der Zuständigkeit sonstiger Stellen sind die
 Amtsgerichte zuständig für die Beurkundung von
@@ -1693,6 +1791,7 @@ erhält; § 174 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
 
 
 #### § 68 Übertragung auf andere Stellen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008502125)
 
 Die Länder sind befugt, durch Gesetz die Zuständigkeit für die
 öffentliche Beglaubigung von Abschriften oder Unterschriften anderen
@@ -1700,10 +1799,12 @@ Personen oder Stellen zu übertragen.
 
 
 #### § 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008605310)
 
 
 
 #### § 70 Amtliche Beglaubigungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008702125)
 
 Dieses Gesetz gilt nicht für amtliche Beglaubigungen, mit denen eine
 Verwaltungsbehörde zum Zwecke der Verwendung in Verwaltungsverfahren
@@ -1720,12 +1821,14 @@ unberührt.
 
 
 #### § 71 Eidesstattliche Versicherungen in Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008802125)
 
 Dieses Gesetz gilt nicht für die Aufnahme eidesstattlicher
 Versicherungen in Verwaltungsverfahren.
 
 
 #### § 72 Erklärungen juristischer Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE008902125)
 
 Die bundes- oder landesrechtlich vorgeschriebene Beidrückung des
 Dienstsiegels bei Erklärungen juristischer Personen des öffentlichen
@@ -1733,6 +1836,7 @@ Rechts wird durch die öffentliche Beurkundung ersetzt.
 
 
 #### § 73 Bereits errichtete Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009002125)
 
 (1) §§ 45 bis 49, 51, 52, 54 dieses Gesetzes gelten auch für Urkunden,
 die vor dem Inkrafttreten dieses Gesetzes errichtet worden sind. Dies
@@ -1748,6 +1852,7 @@ Richter errichtet worden sind.
 
 
 #### § 74 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009102125)
 
 Soweit in Gesetzen oder Verordnungen auf die durch dieses Gesetz
 aufgehobenen oder abgeänderten Vorschriften verwiesen ist, treten die
@@ -1755,10 +1860,12 @@ entsprechenden Vorschriften dieses Gesetzes an ihre Stelle.
 
 
 ### Unterabschnitt 2 - Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNG002205125)
 
 
 
 #### § 75 Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009309125)
 
 (1) Für Beurkundungen und sonstige Amtshandlungen, die vor dem 1.
 Januar 2022 vorgenommen worden sind, sind die §§ 55 und 56 nicht
@@ -1803,6 +1910,7 @@ Absatz 1 Satz 3 und Absatz 2 entsprechend.
 
 
 #### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/beurkg/BJNR015130969.html#BJNR015130969BJNE009402125)
 
 Die verfassungsmäßigen Rechte des Landes Baden-Württemberg aus Artikel
 138 des Grundgesetzes sind gewahrt.

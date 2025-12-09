@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000100307)
 
 Auf Grund des § 19 Abs. 1 Nr. 1 und 2 Buchstabe b des Lebensmittel-
 und Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945,
@@ -30,6 +31,7 @@ Landwirtschaft und Forsten und für Wirtschaft:
 
 
 ## § 1 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000200307)
 
 (1) Lebensmittel dürfen nur in den Verkehr gebracht werden, wenn sie
 mit einer Angabe gekennzeichnet sind, aus der das Los zu ersehen ist,
@@ -46,6 +48,7 @@ des betreffenden Lebensmittels festgelegt.
 
 
 ## § 2 Ausnahmen von der Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000302310)
 
 § 1 gilt nicht für
 
@@ -107,6 +110,7 @@ des betreffenden Lebensmittels festgelegt.
 
 
 ## § 3 Art der Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000402116)
 
 Die Angabe nach § 1 Abs. 1 muß gut sichtbar, deutlich lesbar und
 unverwischbar angebracht sein
@@ -126,6 +130,7 @@ unverwischbar angebracht sein
 
 
 ## § 4 Unberührtheitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000500307)
 
 Rechtsvorschriften, die für bestimmte Lebensmittel eine von den
 Vorschriften dieser Verordnung abweichende oder zusätzliche
@@ -133,6 +138,7 @@ Kennzeichnung vorschreiben, bleiben unberührt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000601310)
 
 Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -142,6 +148,7 @@ Weise gekennzeichnet sind.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000700307)
 
 (1) Erzeugnisse, die vor dem 1. Juli 1993 gekennzeichnet oder in den
 Verkehr gebracht worden sind, dürfen weiter ohne die Angabe nach § 1
@@ -152,11 +159,13 @@ Abs. 1 in den Verkehr gebracht werden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000800307)
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lkv/BJNR102200993.html#BJNR102200993BJNE000900307)
 
 Der Bundesrat hat zugestimmt.
 

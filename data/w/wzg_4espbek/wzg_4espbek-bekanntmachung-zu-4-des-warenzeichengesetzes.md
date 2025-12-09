@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4espbek/BJNR004550972.html#BJNR004550972BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -30,11 +31,13 @@ Spanischen Staat eingeführt ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4espbek/BJNR004550972.html#BJNR004550972BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Amtliches Gewährzeichen für die Ausfuhrförderung
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4espbek/BJNR004550972.html#BJNR004550972BJNE000200303)
 
 (Fundstelle: BGBl. I 1972, 455)
 ![bgbl1_1972_j0455_0010.jpg](bgbl1_1972_j0455_0010.jpg)

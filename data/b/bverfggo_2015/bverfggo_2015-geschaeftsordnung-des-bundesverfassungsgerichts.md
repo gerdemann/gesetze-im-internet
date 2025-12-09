@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt Geschäftsordnung 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)
 
 ## Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000100000)
 
 ## Teil A
 
@@ -131,9 +132,11 @@ Stand: Ersetzt Geschäftsordnung 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)
 
 
 ## Teil A - Vorschriften zur Organisation und Verwaltung des Bundesverfassungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000100000)
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000200000)
 
 (1) Plenum und Präsident arbeiten zur Erfüllung der Aufgaben des
 Gerichts zusammen.
@@ -151,6 +154,7 @@ Bedeutung wird er mit dem Plenum beraten.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000300000)
 
 (1) Das Plenum wird vom Präsidenten nach Bedarf, mindestens jedoch
 einmal im Frühjahr und im Herbst einberufen.
@@ -183,6 +187,7 @@ zugeleitet wird.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000400000)
 
 (1) Das Plenum bildet folgende ständige Ausschüsse:
 
@@ -231,6 +236,7 @@ und Beschlussfassung im Plenum zuweisen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000500000)
 
 Innerhalb des Gerichts wird der Präsident vom Vizepräsidenten und
 dieser von dem dienstältesten, bei gleichem Dienstalter von dem
@@ -238,6 +244,7 @@ lebensältesten anwesenden Mitglied des Gerichts vertreten.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000600000)
 
 (1) Der Präsident vertritt das Gericht nach außen. Die Vertretung
 übernimmt im Fall der Verhinderung der Vizepräsident und bei dessen
@@ -252,12 +259,14 @@ anderen Richterinnen und Richtern vertreten oder unterstützt werden.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000700000)
 
 Der Präsident übt das Hausrecht aus. Es kann durch Verfügung delegiert
 werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000800000)
 
 (1) Die Mitglieder des Gerichts werden über alle wichtigen, das
 Gericht berührenden Vorgänge unterrichtet.
@@ -271,6 +280,7 @@ zu unterrichten.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE000900000)
 
 Das Dienstalter eines Mitglieds des Gerichts bestimmt sich vom Tage
 der Vereidigung als Richterin oder Richter des
@@ -279,6 +289,7 @@ Lebensalter.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001000000)
 
 Soweit in Gesetzen, die auf die Mitglieder des Gerichts entsprechend
 anzuwenden sind, Verwaltungsentscheidungen den Vorgesetzten, den
@@ -287,6 +298,7 @@ sie der Präsident.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001100000)
 
 Dienstreisen von Richterinnen und Richtern sind dem Präsidenten
 anzuzeigen. Die Gegenzeichnung macht kenntlich, dass gegen die
@@ -295,6 +307,7 @@ Teilnahme an Fachtagungen im Inland gilt immer als Dienstreise.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001200000)
 
 Urlaub der Richterinnen und Richter ist ebenso wie Krankheit und
 Ortsabwesenheit von längerer Dauer als einer Woche rechtzeitig vorher
@@ -304,6 +317,7 @@ sichern.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001300000)
 
 (1) Der Direktor und die Abteilungsleitung „Justizverwaltung“
 unterstützen insbesondere die Vorsitzenden der Senate bei der
@@ -315,6 +329,7 @@ gebunden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001400000)
 
 (1) Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter
 unterstützen das Mitglied des Gerichts, dem sie zugewiesen sind, bei
@@ -328,6 +343,7 @@ Vorsitzenden der Senate können eine eigene Beurteilung beifügen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001500000)
 
 (1) Die Verteilung der Verwaltungsgeschäfte regelt der Präsident.
 Bestimmte Geschäfte können dem Direktor allgemein zur selbständigen
@@ -339,6 +355,7 @@ Präsident selbst.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001600000)
 
 (1) Der Direktor handelt als Verwaltungsleitung im Auftrag des
 Präsidenten. Das Nähere regelt eine Verfügung des Präsidenten.
@@ -351,6 +368,7 @@ nicht bestehen, nach Weisung des Präsidenten zu führen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001700000)
 
 Der Posteinlauf wird dem Präsidenten und dem Vizepräsidenten
 vorgelegt, soweit diese nichts anderes bestimmen. Wer von ihnen zur
@@ -360,6 +378,7 @@ haben.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001800000)
 
 (1) Amtliche Informationen des Gerichts werden von der Pressestelle
 veröffentlicht.
@@ -372,12 +391,14 @@ koordiniert.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE001900000)
 
 Bei der Bibliothek des Gerichts wird ein Archiv eingerichtet, in dem
 alle das Gericht berührenden Materialien gesammelt werden.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002000000)
 
 Soweit sich aus der Stellung des Gerichts als eines obersten
 kollegialen Verfassungsorgans, dem Bundesverfassungsgerichtsgesetz und
@@ -389,12 +410,15 @@ obersten Bundesbehörden.
 
 
 ## Teil B - Verfahrensergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000200000)
 
 
 ### Titel 1 - Zum Verfahren im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000300000)
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002100000)
 
 (1) Der Senat beschließt vor Beginn eines Geschäftsjahres mit Wirkung
 vom Beginn dieses Geschäftsjahres an, nach welchen Grundsätzen die
@@ -414,6 +438,7 @@ bestimmen.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002200000)
 
 (1) Die Senate bestimmen, an welchen Wochentagen sie regelmäßig zur
 Beratung zusammentreten. Außerordentliche Sitzungen bedürfen eines
@@ -426,6 +451,7 @@ Tage vorher zugehen.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002300000)
 
 (1) Entscheidungen nach §§ 24 und 81a BVerfGG können ohne Zustellung
 des Antrags getroffen werden. Ebenso bedarf es keiner Zustellung, wenn
@@ -458,6 +484,7 @@ gemacht.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002400000)
 
 (1) In jeder Sache, die vom Senat zu entscheiden ist, legt das
 berichterstattende Mitglied des Senats ein schriftliches Votum vor.
@@ -471,6 +498,7 @@ mündlichen Verhandlung sollen mindestens zehn Tage liegen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002500000)
 
 (1) Der Senat beschließt, ob eine mündliche Verhandlung stattfindet.
 Er kann zu § 17a BVerfGG ergänzende Regelungen für die mündliche
@@ -513,12 +541,14 @@ hinzuweisen.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002600000)
 
 Bei den Beratungen dürfen nur die an der Entscheidung mitwirkenden
 Richterinnen und Richter anwesend sein.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002700000)
 
 (1) Die Richterinnen und Richter, die an der Entscheidung mitgewirkt
 haben, können bis zu deren Verkündung oder bis zu deren Ausfertigung
@@ -533,6 +563,7 @@ beschlossen worden sind.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002800000)
 
 Über den Gang der Beratung entscheidet der Senat. Wirft die Sache
 mehrere Rechtsfragen auf, so wird über sie in der Regel nacheinander
@@ -540,6 +571,7 @@ abgestimmt, bevor über den Tenor entschieden wird.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE002900000)
 
 (1) Die Richterinnen und Richter, die an einer Entscheidung mitgewirkt
 haben, sind im Rubrum mit ihrem Namen in der Reihenfolge ihres
@@ -550,6 +582,7 @@ an der Unterschrift verhindert, so beurkunden dies die Vorsitzenden.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003000000)
 
 Entscheidungen, die im Bundesgesetzblatt zu veröffentlichen sind,
 übersendet der Direktor dem zuständigen Ministerium. Ist die
@@ -560,6 +593,7 @@ des Senats.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003100000)
 
 Soweit die Entscheidung den Verfahrensbevollmächtigten eines
 Verfassungsorgans bekanntgegeben wird, ist sie gleichzeitig dem
@@ -567,6 +601,7 @@ Verfassungsorgan unmittelbar zu übersenden.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003200000)
 
 (1) Die Entscheidungen des Plenums gemäß § 16 Absatz 1 BVerfGG und der
 Senate werden in einer vom Gericht autorisierten Sammlung der
@@ -596,6 +631,7 @@ gemeinnützige Zwecke zu verwenden.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003300000)
 
 (1) Amtliche Informationen über ergangene Entscheidungen bedürfen der
 Billigung des berichterstattenden Mitglieds des Senats und des oder
@@ -607,6 +643,7 @@ zugegangen ist.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003400000)
 
 Beim Bundesverfassungsgericht besteht eine Dokumentationsstelle. Sie
 erfasst und dokumentiert verfassungsgerichtliche Entscheidungen und
@@ -619,6 +656,7 @@ Bundesverfassungsgerichts im Internet zuständig.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003500000)
 
 Entwürfe von Urteilen, Beschlüssen und Verfügungen, Arbeiten zu ihrer
 Vorbereitung und Dokumente, die Abstimmungen betreffen, sind nicht
@@ -628,6 +666,7 @@ Satz 2 BVerfGG unterliegen sie nicht der Akteneinsicht.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003600000)
 
 (1) Über die Akteneinsicht entscheidet der oder die Vorsitzende im
 Benehmen mit dem berichterstattenden Mitglied des Senats. Im Fall des
@@ -644,6 +683,7 @@ werden.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003700000)
 
 Entscheidungen des Bundesverfassungsgerichts sind vor der Übermittlung
 an Behörden, Gerichte oder private Dritte zu anonymisieren. Das Nähere
@@ -651,6 +691,7 @@ regelt eine Anweisung des Präsidenten.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003800000)
 
 (1) Die Verfahrensakten des Gerichts zu Senatsentscheidungen
 einschließlich der in § 34 genannten Schriftstücke können nach zehn
@@ -663,9 +704,11 @@ seitens des Gerichts zur Veröffentlichung bestimmt wurden.
 
 
 ### Titel 2 - Zum Verfahren im Vertretungsfalle gemäß § 15 Absatz 2 Satz 2, § 19 Absatz 4 BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000400000)
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE003900000)
 
 (1) In den Fällen des § 15 Absatz 2 Satz 2 und des § 19 Absatz 4 Satz
 1 BVerfGG ordnet der oder die Vorsitzende des Senats, in dem der
@@ -683,9 +726,11 @@ Absatz 1 Satz 2 BVerfGG entsprechend.
 
 
 ### Titel 3 - Zum Verfahren in den Kammern gemäß § 81a und §§ 93b bis 93d BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000500000)
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004000000)
 
 In den Kammern führen, soweit sie ihnen angehören, der Präsident und
 der Vizepräsident, im Übrigen das jeweils dienstälteste, bei gleichem
@@ -693,6 +738,7 @@ Dienstalter das lebensälteste anwesende Mitglied den Vorsitz.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004100000)
 
 (1) Im Rahmen ihrer Befugnisse entscheiden die Kammern – in der Regel
 auf Grund eines schriftlichen Votums – in den Verfahren, die einem
@@ -710,6 +756,7 @@ einstweiligen Anordnung gegenstandslos.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004200000)
 
 Das berichterstattende Mitglied kann bereits vor der Entscheidung der
 Kammer, ob ein Normenkontrollantrag unzulässig ist oder eine
@@ -720,6 +767,7 @@ Stellungnahmen der Äußerungsberechtigten (§ 82 in Verbindung mit §§
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004300000)
 
 Sind in einem Verfassungsbeschwerdeverfahren, das mit einem
 Nichtannahmebeschluss geendet hat, Akten des Gerichts, gegen dessen
@@ -733,9 +781,11 @@ obersten Bundesgerichts gerichtet hat.
 
 
 ### Titel 4 - Zum Verfahren im Ausschuss gemäß § 14 Absatz 5 BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000600000)
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004400000)
 
 In den nach § 14 Absatz 5 BVerfGG zu bildenden Ausschuss wählt jeder
 Senat für die Dauer eines Geschäftsjahres zwei Mitglieder des Gerichts
@@ -746,6 +796,7 @@ Ausschusses.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004500000)
 
 (1) Die Vorsitzenden werden über alle verfahrenseinleitenden Anträge
 für ihren Senat unterrichtet. Dabei werden sie auf Zweifel, die
@@ -763,6 +814,7 @@ der Senat die Beratung in der Sache begonnen hat.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004600000)
 
 Der Präsident bestellt aus den Mitgliedern des Ausschusses je ein
 berichterstattendes Mitglied aus jedem Senat. Diese können gemeinsam
@@ -771,6 +823,7 @@ Zuständigkeitsfrage abgeben.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004700000)
 
 Die Beschlüsse des Ausschusses werden von dem oder der Vorsitzenden in
 einem Aktenvermerk festgehalten. Sie werden nicht begründet. Sie
@@ -779,9 +832,11 @@ Verfahrens gebracht.
 
 
 ### Titel 5 - Zum Verfahren im Plenum gemäß § 16 BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000700000)
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004800000)
 
 (1) Der Senat, der in einer Rechtsfrage von der in einer Entscheidung
 des anderen Senats oder des Plenums enthaltenen Rechtsauffassung
@@ -793,6 +848,7 @@ seiner Rechtsauffassung nicht festhalte.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE004900000)
 
 (1) Zur Vorbereitung der Entscheidung des Plenums benennen die
 Vorsitzenden der Senate jeweils ein berichterstattendes Mitglied.
@@ -803,9 +859,11 @@ Entscheidungen der Senate zu behandeln.
 
 
 ### Titel 6 - Zum Verfahren im Plenum gemäß § 105 BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000800000)
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005000000)
 
 (1) Der Antrag auf Einleitung des Verfahrens gemäß § 105 Absatz 1
 BVerfGG kann gestellt werden von mindestens sechs Mitgliedern des
@@ -817,6 +875,7 @@ vertraulicher Form gegen Empfangsbestätigung mitgeteilt.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005100000)
 
 Dem Mitglied des Gerichts, gegen das sich der Antrag richtet, ist
 Gelegenheit zu geben, sich zum Antrag schriftlich und mündlich vor dem
@@ -824,6 +883,7 @@ Plenum zu äußern.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005200000)
 
 Der Beschluss auf Einleitung des Verfahrens bedarf der Zustimmung von
 mindestens acht Mitgliedern des Gerichts. Das Plenum berät und
@@ -834,6 +894,7 @@ eröffnet.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005300000)
 
 Nach Einleitung des Verfahrens bestellt das Plenum ein Mitglied zur
 Führung der Untersuchung aus seiner Mitte. Dieses hört den oder die
@@ -846,6 +907,7 @@ Mitglied des Gerichts ausgeschlossen.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005400000)
 
 Die mündliche Verhandlung findet unter Ausschluss der Öffentlichkeit
 statt. Auf Antrag des oder der Betroffenen kann die Öffentlichkeit
@@ -853,6 +915,7 @@ zugelassen werden.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005500000)
 
 (1) Das Verfahren auf einen Antrag nach § 105 Absatz 1 BVerfGG ist
 einzustellen, wenn das Mitglied des Gerichts, gegen das sich der
@@ -866,9 +929,11 @@ denn, dass das Plenum beschließt, es einzuleiten oder fortzusetzen.
 
 
 ### Titel 7 - Zum Verfahren bei Abgabe eines Sondervotums gemäß § 30 Absatz 2 BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG000900000)
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005600000)
 
 (1) Das Sondervotum, in dem ein Mitglied des Senats eine in der
 Beratung vertretene abweichende Meinung zu der Entscheidung oder deren
@@ -895,9 +960,11 @@ vorstehenden Bestimmungen entsprechend.
 
 
 ### Titel 8 - Zum Verfahren im Plenum gemäß § 7a BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG001000000)
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005700000)
 
 Jedes Mitglied des Gerichts kann Vorschläge für die Entschließung des
 Plenums gemäß § 7a BVerfGG machen. Sie sind spätestens eine Woche vor
@@ -909,6 +976,7 @@ werden.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005800000)
 
 (1) Über die Wahlvorschläge wird nach Abschluss der Aussprache geheim
 abgestimmt. Die Beschlussfähigkeit richtet sich nach § 7a Absatz 2
@@ -930,6 +998,7 @@ vorangegangenen Wahlgang die wenigsten Stimmen erhalten hat.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE005900000)
 
 (1) Führt die Wahl nach § 57 nicht zu einer genügenden Zahl von
 Vorschlägen, so werden die weiteren Vorschläge in einer neuen Wahl
@@ -949,9 +1018,11 @@ Gerichts gefasst werden.
 
 
 ### Titel 9 - Zum Verfahren in der Beschwerdekammer gemäß § 97c BVerfGG
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG001100000)
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006000000)
 
 (1) Das Plenum beruft jedes Jahr je ein Mitglied des Gerichts aus
 jedem Senat und für dieses jeweils eine Vertretung für die Dauer von
@@ -966,6 +1037,7 @@ deren Vertretung vorgesehenen beiden Mitglieder des Gerichts.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006100000)
 
 Ist ein Kammermitglied nach § 97c Absatz 2 BVerfGG von der Mitwirkung
 ausgeschlossen oder aus sonstigen Gründen verhindert, tritt an seine
@@ -977,12 +1049,14 @@ falls ein Mitglied der Beschwerdekammer aus dem Gericht ausscheidet.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006200000)
 
 Den Vorsitz in der Beschwerdekammer führt deren dienstältestes
 Mitglied.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006300000)
 
 (1) Eine Stellungnahme nach § 97d Absatz 1 BVerfGG ist in der Regel
 erst nach Aufforderung durch das berichterstattende Mitglied der
@@ -996,9 +1070,11 @@ berichterstattenden Mitglied.
 
 
 ### Titel 10 - Über das Allgemeine Register (AR) des Bundesverfassungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG001200000)
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006400000)
 
 (1) Eingaben an das Bundesverfassungsgericht, die weder eine
 Verwaltungsangelegenheit des Gerichts betreffen noch nach den
@@ -1037,6 +1113,7 @@ c)  Verfahren, bei denen sich die Senatszuständigkeit nicht alsbald klären
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006500000)
 
 (1) Die Entscheidung darüber, ob ein Vorgang in das Allgemeine
 Register einzutragen ist, treffen die Vorsitzenden des jeweiligen
@@ -1062,6 +1139,7 @@ zehn Jahre nach Eingang vernichtet.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006600000)
 
 Für das Allgemeine Register handelt die Abteilungsleitung
 „Justizverwaltung“ im Auftrag des Gerichts. Sie wird durch
@@ -1070,9 +1148,11 @@ Register unterstützt, die die Befähigung zum Richteramt haben müssen.
 
 
 ### Titel 11 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNG001300000)
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006700000)
 
 Mitglieder des Gerichts im Sinne dieser Geschäftsordnung sind auch
 Richterinnen und Richter, die nach Ablauf ihrer Amtszeit ihre
@@ -1080,17 +1160,20 @@ Amtsgeschäfte fortführen (§ 4 Absatz 4 BVerfGG).
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006800000)
 
 Die Richterinnen und Richter tragen in der mündlichen Verhandlung eine
 Robe mit Barett.
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE006900000)
 
 Das Geschäftsjahr des Bundesverfassungsgerichts ist das Kalenderjahr.
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE007000000)
 
 (1) Die Arbeit des Bundesverfassungsgerichts wird statistisch erfasst.
 
@@ -1099,6 +1182,7 @@ und am Ende des Geschäftsjahres in einer Gesamtstatistik dargestellt.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE007100000)
 
 Unbeschadet des § 19 ist das Gerichtsgebäude während einer mündlichen
 Verhandlung und einer Urteilsverkündung sowie auf besondere Anordnung
@@ -1106,6 +1190,7 @@ des Präsidenten zu beflaggen.
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE007200000)
 
 (1) Der Antrag auf Änderung der Geschäftsordnung kann von jedem
 Mitglied des Gerichts gestellt werden. Der Antrag ist schriftlich zu
@@ -1126,11 +1211,13 @@ gefasst.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE007300000)
 
 Die Geschäftsordnung ist im Bundesgesetzblatt zu veröffentlichen.
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE007400000)
 
 Diese Geschäftsordnung tritt am Tag nach der Bekanntmachung in Kraft;
 gleichzeitig tritt die Geschäftsordnung des Bundesverfassungsgerichts
@@ -1141,6 +1228,7 @@ Kraft.
 
 
 #### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bverfggo_2015/BJNR028610015.html#BJNR028610015BJNE007500000)
 
 Der Präsident des Bundesverfassungsgerichts
 

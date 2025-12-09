@@ -33,6 +33,7 @@ Stand: Ersetzt V 7610-2-29 v. 14.12.2006 I 2926
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000100000)
 
 Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der
 durch Artikel 1 Nummer 21 des Gesetzes vom 28. August 2013 (BGBl. I S.
@@ -45,9 +46,11 @@ Finanzen:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000302311)
 
 (1) Die §§ 3 bis 23 dieser Verordnung sind ergänzend zu den Artikeln
 92 bis 386 der Verordnung (EU) Nr. 575/2013 des Europäischen
@@ -91,6 +94,7 @@ müssen.
 
 
 ### § 2 Anträge und Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000400000)
 
 (1) Anträge, über die nach der Verordnung (EU) Nr. 575/2013 die
 Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) als
@@ -108,15 +112,19 @@ einzureichen.
 
 
 ## Teil 2 - Nähere Bestimmungen zu den Eigenmittelanforderungen für Institute und Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000200000)
 
 
 ### Kapitel 1 - Interne Ansätze
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000300000)
 
 
 #### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000400000)
 
 
 ##### § 3 Prüfungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000500000)
 
 (1) Hat die Bundesanstalt einem Institut die Erlaubnis zur Verwendung
 eines Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
@@ -149,6 +157,7 @@ und Benchmarks der Europäischen Bankenaufsichtsbehörde.
 
 
 ##### § 4 Maßnahmen bei Mängeln bei der Risikoerfassung oder der Nichteinhaltung der Anforderungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000600000)
 
 (1) Sofern die Bundesanstalt feststellt, dass die Ausgestaltung eines
 erlaubnispflichtigen Ansatzes zur Ermittlung der
@@ -227,6 +236,7 @@ Kreditrisikopositionen widerrufen.
 
 
 ##### § 5 Berechnungen und Meldungen für das aufsichtliche Benchmarking bei der Anwendung interner Ansätze
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000700000)
 
 (1) Ein Institut, das seine Eigenmittelanforderungen anhand interner
 Ansätze ermittelt, hat die Eigenmittelanforderungen einmal jährlich
@@ -261,6 +271,7 @@ Meldefristen bestimmen.
 
 
 ##### § 6 Aufsichtliches Benchmarking interner Ansätze
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000800000)
 
 (1) Die Bundesanstalt erstellt eigene Referenzportfolios
 ausschließlich in Abstimmung mit der Europäischen
@@ -319,9 +330,11 @@ ist sicherzustellen, dass die Abhilfemaßnahmen
 
 
 #### Abschnitt 2 - Ergänzende Regelungen zum IRB-Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000500000)
 
 
 ##### § 7 IRB-Ansatz-Eignungsprüfungen für interne Ratingsysteme und Beteiligungsrisikomodelle
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE000900000)
 
 (1) Die Bundesanstalt entscheidet über die Erlaubnis zur Verwendung
 des IRB-Ansatzes nach Artikel 143 Absatz 2 sowie über die nach Artikel
@@ -379,6 +392,7 @@ bedarf.
 
 
 ##### § 8 Zeitraum für die Umsetzung des IRB-Ansatzes
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001000000)
 
 (1) Der nach Artikel 148 Absatz 2 der Verordnung (EU) Nr. 575/2013 von
 der Bundesanstalt festzulegende maximal zulässige Zeitraum, in dem der
@@ -408,6 +422,7 @@ in Absatz 2 genannte Zeitraum als bereits beendet.
 
 
 ##### § 9 Anforderungen an die Umsetzung des IRB-Ansatzes
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001100000)
 
 (1) Bei der Umsetzung des IRB-Ansatzes muss ein Institut die
 Anforderungen der Absätze 2 bis 4 erfüllen; diese Anforderungen bilden
@@ -450,6 +465,7 @@ Konversionsfaktors zu verwenden.
 
 
 ##### § 10 IRB-Ansatz-Schwellen; aufsichtlicher Referenzpunkt
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001200000)
 
 (1) Die IRB-Ansatz-Eintrittsschwelle ist erreicht, wenn für die
 Kreditrisikopositionen des Instituts sowohl der Abdeckungsgrad für
@@ -474,6 +490,7 @@ das Institut dafür wichtige Gründe dargelegt hat.
 
 
 ##### § 11 Berechnung des Abdeckungsgrads
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001300000)
 
 (1) Der Abdeckungsgrad für IRB-Ansatz-Positionswerte ist der Quotient
 aus
@@ -565,6 +582,7 @@ Nummer 2 Buchstabe a ist der Quotient aus
 
 
 ##### § 12 Im Zähler für den Abdeckungsgrad zu berücksichtigende IRB-Ansatz-Positionen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001400000)
 
 (1) Wenn das Institut für relevante Arten von Risikopositionen die
 Verwendung eigener Schätzungen der LGD oder des Konversionsfaktors
@@ -654,6 +672,7 @@ Zähler für diesen Abdeckungsgrad berücksichtigt werden dürfen.
 
 
 ##### § 13 Im Nenner für den Abdeckungsgrad zu berücksichtigende Positionen; Grundgesamtheit für den Abdeckungsgrad
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001502311)
 
 (1) Im Nenner für einen Abdeckungsgrad sind sämtliche IRB-Ansatz-
 Positionen und KSA-Positionen zu berücksichtigen, die zur
@@ -814,6 +833,7 @@ Abdeckungsgrad berücksichtigen.
 
 
 ##### § 14 Auslaufender Geschäftsbereich; Neugeschäft; zu berücksichtigendes Bestandsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001600000)
 
 (1) Ein auslaufender Geschäftsbereich ist ein Geschäftsbereich nach
 Artikel 142 Absatz 1 Nummer 3 der Verordnung (EU) Nr. 575/2013, in dem
@@ -860,6 +880,7 @@ das Institut
 
 
 ##### § 15 Dauerhafte Ausnahme von der Anwendung des IRB-Ansatzes für steuererhebende Kirchen und Religionsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001700000)
 
 Wenn es sich bei den Schuldnern um inländische Kirchen oder
 Religionsgesellschaften handelt, die in der Rechtsform einer
@@ -875,6 +896,7 @@ die Einführung eines Ratingsystems ohne weiteren Nachweis als erfüllt.
 
 
 ##### § 16 Erheblichkeitsschwelle für den 90-Tage-Verzug
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001801118)
 
 (1) Für die Zwecke der Bestimmung der Wesentlichkeit einer
 überfälligen Verbindlichkeit nach Artikel 178 Absatz 1 Buchstabe b der
@@ -939,6 +961,7 @@ Prozent beträgt.
 
 
 ##### § 17 Berücksichtigungsfähige Arten von Beteiligungen für die Ausnahme von der Anwendung des IRB-Ansatzes bis 31. Dezember 2017
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE001900000)
 
 Für die übergangsweise Ausnahme bis 31. Dezember 2017 von der
 Anwendung des IRB-Ansatzes nach den Vorschriften des Artikels 495 der
@@ -950,9 +973,11 @@ des IRB-Ansatzes ausnehmen darf.
 
 
 #### Abschnitt 3 - Ergänzende Regelungen zur IMM
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000600000)
 
 
 ##### § 18 IMM-Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002000000)
 
 (1) Die Bundesanstalt entscheidet über die nach Artikel 283 Absatz 1
 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur
@@ -977,9 +1002,11 @@ Bundesanstalt abzustimmen.
 
 
 #### Abschnitt 4 - Ergänzende Regelungen zu internen Einstufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000700000)
 
 
 ##### § 19 Eignungsprüfungen für interne Einstufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002101118)
 
 (1) Eine Erlaubnis zur Anwendung eines internen Einstufungsverfahrens
 nach Artikel 265 Absatz 2 der Verordnung (EU) Nr. 575/2013 erteilt die
@@ -1028,9 +1055,11 @@ gebildet.
 
 
 #### Abschnitt 5 - Ergänzende Regelungen zu operationellen Risiken
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000800000)
 
 
 ##### § 20 AMA-Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002200000)
 
 (1) Die Bundesanstalt entscheidet über die nach Artikel 312 Absatz 2
 Satz 1 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur
@@ -1054,9 +1083,11 @@ fortgeschrittenen Messansatzes mit der Bundesanstalt abzustimmen.
 
 
 #### Abschnitt 6 - Ergänzende Regelungen zu internen Modellen für Marktrisiken
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG000900000)
 
 
 ##### § 21 Interne Modelle-Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002300000)
 
 (1) Die Bundesanstalt entscheidet über die nach Artikel 363 Absatz 1
 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur
@@ -1090,9 +1121,11 @@ unter Angabe der Gründe bei der Bundesanstalt zu beantragen.
 
 
 ### Kapitel 2 - Vorgaben für die Bemessung des Beleihungswerts
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001000000)
 
 
 #### § 22 Vorgaben für die Bemessung des Beleihungswerts von Immobilien
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002400000)
 
 Wenn ein Institut für eine Immobilie einen Beleihungswert nach Artikel
 4 Absatz 1 Nummer 74 der Verordnung (EU) Nr. 575/2013 für Zwecke der
@@ -1128,9 +1161,11 @@ der Beleihungswert
 
 
 ### Kapitel 3 - Nähere Bestimmungen zu den Übergangsvorschriften für die Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001100000)
 
 
 #### § 23 Prozentsätze für die Kapitalquoten
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002500000)
 
 Abweichend von Artikel 92 Absatz 1 Buchstabe a und b der Verordnung
 (EU) Nr. 575/2013 haben die Institute in dem Zeitraum vom 1. Januar
@@ -1140,12 +1175,15 @@ vorzuhalten.
 
 
 ## Teil 3 - Nähere Bestimmungen zur Ermittlung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001200000)
 
 
 ### Kapitel 1 - Nähere Bestimmungen zu den Übergangsvorschriften für die Ermittlung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001300000)
 
 
 #### § 24 Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Verlusten aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002600000)
 
 Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 haben die
 Institute bei der Berechnung des harten Kernkapitals im Zeitraum vom
@@ -1170,6 +1208,7 @@ Zeitwert bewertet werden, abzuziehen:
 
 
 #### § 25 Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Gewinnen aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002700000)
 
 Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 dürfen die
 Institute bei der Berechnung des harten Kernkapitals im Zeitraum vom
@@ -1191,6 +1230,7 @@ Zeitwert bewertet werden, nicht anrechnen:
 
 
 #### § 26 Prozentsätze für die Abzüge vom harten Kernkapital, zusätzlichen Kernkapital und Ergänzungskapital
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002800000)
 
 (1) Für die Zwecke der Übergangsvorschriften nach Artikel 468 Absatz
 4, Artikel 469 Absatz 1 Buchstabe a und c, Artikel 474 Buchstabe a und
@@ -1280,6 +1320,7 @@ Nr. 575/2013 folgende Prozentsätze:
 
 
 #### § 27 Prozentsätze für die Anerkennung von nicht als Minderheitenbeteiligungen geltenden Instrumenten und Positionen im konsolidierten harten Kernkapital
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE002900000)
 
 (1) Abweichend von Teil 2 Titel III der Verordnung (EU) Nr. 575/2013
 können Instrumente und Posten, die nach § 10a Absatz 6 Satz 1 und 2
@@ -1318,6 +1359,7 @@ gerechnet werden.
 
 
 #### § 28 Faktoren für die Anerkennung von Minderheitsbeteiligungen und qualifiziertem zusätzlichem Kernkapital sowie Ergänzungskapital
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003000000)
 
 Abweichend von Artikel 84 Absatz 1 Buchstabe b, Artikel 85 Absatz 1
 Buchstabe b und Artikel 87 Absatz 1 Buchstabe b der Verordnung (EU)
@@ -1341,6 +1383,7 @@ multiplizieren:
 
 
 #### § 29 Prozentsätze für Abzüge nach den Artikeln 32 bis 36, 56 und 66 der Verordnung (EU) Nr. 575/2013
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003100000)
 
 (1) Abweichend von den Artikeln 32 bis 36, 56 und 66 der Verordnung
 (EU) Nr. 575/2013 gelten im Zeitraum vom 1. Januar 2014 bis 31.
@@ -1393,6 +1436,7 @@ Ergänzungskapital zugerechnet werden:
 
 
 #### § 30 Prozentsatz für die Anpassung nach Artikel 36 Absatz 1 Buchstabe i und Artikel 49 Absatz 1 und 3 der Verordnung (EU) Nr. 575/2013
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003200000)
 
 Abweichend von Artikel 36 Absatz 1 Buchstabe i
 und Artikel 49 Absatz 1 und 3 der Verordnung (EU) Nr. 575/2013 gilt
@@ -1402,6 +1446,7 @@ Dezember 2014 ein Prozentsatz von 50 Prozent.
 
 
 #### § 31 Prozentsätze für die Begrenzung der unter Bestandsschutz fallenden Instrumente des harten Kernkapitals, zusätzlichen Kernkapitals und Ergänzungskapitals nach Artikel 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2013
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003300000)
 
 Für die Anwendung des Artikels 484 Absatz 3 bis 5 der Verordnung (EU)
 Nr. 575/2013 gelten im Zeitraum vom 1. Januar 2014 bis 31. Dezember
@@ -1437,9 +1482,11 @@ Kernkapitals und des Ergänzungskapitals folgende Prozentsätze:
 
 
 ### Kapitel 2 - Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001400000)
 
 
 #### § 32 Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwendung des Verfahrens nach § 10a Absatz 5 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003400000)
 
 (1) Beteiligungen an Instituten, Finanzunternehmen oder Anbietern von
 Nebendienstleistungen, die nach der Äquivalenzmethode gemäß IAS 28.13
@@ -1467,12 +1514,15 @@ S. 1) übernommen wurden, aufgestellt wurde.
 
 
 ## Teil 4 - Nähere Bestimmungen zu den Kapitalpuffern
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001501311)
 
 
 ### Kapitel 1 - Antizyklischer Kapitalpuffer
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001600000)
 
 
 #### § 33 Festlegung der Quote für den inländischen antizyklischen Kapitalpuffer
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003500000)
 
 (1) Zur Festlegung der Quote für den inländischen antizyklischen
 Kapitalpuffer gemäß § 10d des Kreditwesengesetzes ermittelt die
@@ -1515,6 +1565,7 @@ Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie
 
 
 #### § 34 Veröffentlichung der Quote
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003600000)
 
 In den Fällen des § 10d Absatz 3 und 4 des Kreditwesengesetzes
 veröffentlicht die Bundesanstalt die für das jeweilige Quartal
@@ -1556,6 +1607,7 @@ folgenden weiteren Angaben veröffentlicht:
 
 
 #### § 35 Zusätzliche Veröffentlichungen für Quoten in Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003700000)
 
 Die Bundesanstalt veröffentlicht zusätzlich zu den Angaben, die nach §
 10d Absatz 9 des Kreditwesengesetzes zu veröffentlichen sind, im Falle
@@ -1567,6 +1619,7 @@ für den antizyklischen Kapitalpuffer.
 
 
 #### § 36 Maßgebliche Risikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003800000)
 
 (1) Zu den maßgeblichen Risikopositionen im Sinne von § 10d Absatz 2
 des Kreditwesengesetzes zählt jede Risikoposition, die keiner der
@@ -1645,9 +1698,11 @@ wurden.
 
 
 ### Kapitel 2 - Kapitalpuffer für systemische Risiken
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001900311)
 
 
 #### § 36a Berechnung des Kapitalpuffers für systemische Risiken
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE004200311)
 
 (1) Der Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des
 Kreditwesengesetzes kann für folgende Risikopositionen angeordnet
@@ -1742,9 +1797,11 @@ nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
 
 
 ### Kapitel 3 - Kombinierte Kapitalpufferanforderung
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001701311)
 
 
 #### § 37 Maximal ausschüttungsfähiger Betrag
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003901311)
 
 (1) Der maximal ausschüttungsfähige Betrag im Sinne des § 10i Absatz 3
 des Kreditwesengesetzes errechnet sich durch Multiplikation des nach
@@ -1808,9 +1865,11 @@ n“ steht für die Ordinalzahl des betreffenden Quartils.
 
 
 ### Kapitel 4 - Puffer der Verschuldungsquote
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001702128)
 
 
 #### § 37a Maximal ausschüttungsfähiger Betrag in Bezug auf die Verschuldungsquote
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE003902128)
 
 (1) Der maximal ausschüttungsfähige Betrag in Bezug auf die
 Verschuldungsquote im Sinne des § 10j Absatz 3 Satz 1 des
@@ -1885,9 +1944,11 @@ n für die Ordinalzahl des betreffenden Quartils.
 
 
 ## Teil 5 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNG001800000)
 
 
 ### § 38 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE004001118)
 
 (1) § 22 Nummer 4 ist ab dem Tag, ab dem der Technische
 Regulierungsstandard nach Artikel 124 Absatz 4 Buchstabe a der
@@ -1925,6 +1986,7 @@ Fassung vom 6. Dezember 2013 anwenden.
 
 
 ### § 39 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/solvv_2014/BJNR416800013.html#BJNR416800013BJNE004101118)
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt
 die Solvabilitätsverordnung vom 14. Dezember 2006 (BGBl. I S. 2926),

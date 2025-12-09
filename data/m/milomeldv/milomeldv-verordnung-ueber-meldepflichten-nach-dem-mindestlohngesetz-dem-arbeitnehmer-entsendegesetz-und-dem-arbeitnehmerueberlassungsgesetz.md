@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milomeldv/BJNR182500014.html#BJNR182500014BJNE000100000)
 
 Auf Grund des § 16 Absatz 5 Nummer 2 und 3 des Mindestlohngesetzes vom
 11\. August 2014 (BGBl. I S. 1348), des § 18 Absatz 5 Nummer 2 und 3
@@ -33,6 +34,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Meldung
+[Direktlink](https://www.gesetze-im-internet.de/milomeldv/BJNR182500014.html#BJNR182500014BJNE000202126)
 
 (1) Der Arbeitgeber mit Sitz im Ausland soll die Meldungen nach § 16
 Absatz 1 des Mindestlohngesetzes und § 18 Absatz 1 des Arbeitnehmer-
@@ -76,6 +78,7 @@ Identifizierung zu versehen.
 
 
 ## § 2 Abwandlung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/milomeldv/BJNR182500014.html#BJNR182500014BJNE000301126)
 
 (1) Abweichend von der Meldepflicht nach § 16 Absatz 1 Satz 1 und 2
 des Mindestlohngesetzes und § 18 Absatz 1 Satz 1 und 2 des
@@ -150,6 +153,7 @@ Arbeitnehmerüberlassungsgesetzes.
 
 
 ## § 3 Änderungsmeldung
+[Direktlink](https://www.gesetze-im-internet.de/milomeldv/BJNR182500014.html#BJNR182500014BJNE000401126)
 
 (1) Eine Abweichung der Beschäftigung von den in der gemeldeten
 Einsatzplanung nach § 2 Absatz 2 gemachten Angaben müssen Arbeitgeber
@@ -168,6 +172,7 @@ Arbeitnehmerüberlassungsgesetzes nicht melden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milomeldv/BJNR182500014.html#BJNR182500014BJNE000502119)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt
 die Arbeitnehmer-Entsendegesetz-Meldeverordnung vom 10. September 2010

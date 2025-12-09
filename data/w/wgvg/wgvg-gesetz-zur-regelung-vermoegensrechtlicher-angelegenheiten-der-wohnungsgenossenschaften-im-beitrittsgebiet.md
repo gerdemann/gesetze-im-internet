@@ -21,6 +21,7 @@ Neugefasst durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/wgvg/BJNR098900993.html#BJNR098900993BJNE000102307)
 
 (1) Die Wohnungsgenossenschaften sind Eigentümer des von ihnen für
 Wohnzwecke genutzten, ehemals volkseigenen Grund und Bodens. Dies gilt
@@ -73,6 +74,7 @@ unberührt.
 
 
 ## § 2 Feststellung des Grund und Bodens
+[Direktlink](https://www.gesetze-im-internet.de/wgvg/BJNR098900993.html#BJNR098900993BJNE000202307)
 
 (1) Auf die Feststellung, in welchem Umfang die
 Wohnungsgenossenschaften Eigentümer von Grund und Boden sind, findet
@@ -98,6 +100,7 @@ des § 1 Abs. 1 zu ändern. § 3 ist entsprechend anzuwenden.
 
 
 ## § 3 Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/wgvg/BJNR098900993.html#BJNR098900993BJNE000302307)
 
 (1) Die Wohnungsgenossenschaften haben den Gemeinden, in deren Gebiet
 der in § 1 Abs. 1 bezeichnete Grund und Boden gelegen ist, einen
@@ -143,6 +146,7 @@ Altschuldenhilfegesetzes unterliegen.
 
 
 ## § 4 Verhältnis zum Einigungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/wgvg/BJNR098900993.html#BJNR098900993BJNE000401307)
 
 Artikel 22 Abs. 4 des Einigungsvertrages und die Nummer 13 des
 Protokolls zum Einigungsvertrag, betreffend diese Vorschrift des

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE000700307)
 
 Auf der Grundlage der §§ 25 Abs. 1 und 82 Abs. 2 und Abs. 4 des
 Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50
@@ -27,10 +28,12 @@ Bauordnung (BauO) (GBl. I Nr. 50 S. 950) wird angeordnet:
 
 
 ## Erster Teil - Bauvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNG000100307)
 
 
 
 ### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE000900307)
 
 (1) Dem Antrag auf Erteilung einer Baugenehmigung sind nach Maßgabe
 der folgenden Vorschriften als Bauvorlagen beizufügen:
@@ -81,6 +84,7 @@ Beurteilung des Bauvorhabens nicht erforderlich sind.
 
 
 ### § 2 Lageplan
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001000307)
 
 (1) Der Lageplan ist auf der Grundlage der amtlichen Flurkarte
 aufzustellen. Dabei soll der Maßstab nicht kleiner als 1:500 verwendet
@@ -212,6 +216,7 @@ nicht erforderlich.
 
 
 ### § 3 Bauzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001100307)
 
 (1) Für die Bauzeichnungen ist der Maßstab 1:100 zu verwenden. Die
 Bauaufsichtsbehörde kann einen anderen Maßstab verlangen oder
@@ -335,6 +340,7 @@ und Farben erläutert werden.
 
 
 ### § 4 Baubeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001200307)
 
 (1) In der Baubeschreibung sind das Vorhaben und seine Nutzung zu
 erläutern, soweit dies zur Beurteilung erforderlich ist und die
@@ -394,6 +400,7 @@ insbesondere zusätzliche Angaben enthalten über
 
 
 ### § 5 Standsicherheitsnachweis und andere bautechnische Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001300307)
 
 (1) Für die Prüfung der Standsicherheit sind eine Darstellung des
 gesamten statischen Systems, die erforderlichen
@@ -424,6 +431,7 @@ Berechnung, Prüfzeugnisse oder Gutachten vorzulegen.
 
 
 ### § 6 Bauvorlagen für den Abbruch baulicher Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001400307)
 
 (1) Dem Antrag auf Erteilung der Genehmigung zum Abbruch baulicher
 Anlagen ist unter Bezeichnung des Grundstücks nach Straße und
@@ -444,6 +452,7 @@ beizufügen.
 
 
 ### § 7 Bauvorlagen beim Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001500307)
 
 (1) Dem Antrag auf Erteilung eines Vorbescheids sind die Bauvorlagen
 beizufügen, die zur Beurteilung der durch den Vorbescheid zu
@@ -453,6 +462,7 @@ entscheidenden Fragen des Bauvorhabens erforderlich sind.
 
 
 ### § 8 Bauvorlagen für Typengenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001600307)
 
 (1) Dem Antrag auf Erteilung der Typengenehmigung nach § 73 BauO
 brauchen nur die in § 1 Abs. 1 Ziffern 2., 3. und 4. genannten
@@ -464,6 +474,7 @@ Bauvorlagen beigefügt zu werden.
 
 
 ### § 9 Bauvorlagen für die Ausführungsgenehmigung Fliegender Bauten
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001700307)
 
 (1) Dem Antrag auf Erteilung der Ausführungsgenehmigung Fliegender
 Bauten nach § 75 BauO brauchen nur die in § 1 Abs. 1 Ziffern 2., 3.
@@ -480,6 +491,7 @@ Papier auf Gewebe bestehen.
 
 
 ### § 10 Bauvorlagen für Werbeanlagen und Warenautomaten
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001800307)
 
 (1) Dem Antrag auf Erteilung einer Genehmigung für die Errichtung,
 Aufstellung, Anbringung und Änderung von Werbeanlagen sind beizufügen:
@@ -565,6 +577,7 @@ verwenden ist, muß insbesondere enthalten:
 
 
 ### § 11 Antrag und Unterlagen für die Genehmigung von Grundstücksteilungen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE001900307)
 
 Der Antrag auf Genehmigung einer Grundstücksteilung muß insbesondere
 enthalten:
@@ -599,14 +612,17 @@ enthalten:
 
 
 ## Zweiter Teil - Bautechnische Prüfung von Bauvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNG000200307)
 
 
 
 ### Erster Abschnitt - Prüfämter und Prüfingenieure
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNG000300307)
 
 
 
 #### § 12 Prüfämter und Prüfingenieure
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002000307)
 
 (1) Die oberste Bauaufsichtsbehörde bestimmt die Prüfämter für
 Bautechnik oder errichtet sie.
@@ -622,6 +638,7 @@ der obersten Bauaufsichtsbehörde oder der von ihr bestimmten Stelle.
 
 
 #### § 13 Zulassung, Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002100307)
 
 (1) Die Zulassung wird für folgende Fachrichtungen ausgesprochen:
 
@@ -655,6 +672,7 @@ Jahre verlängert werden.
 
 
 #### § 14 Voraussetzungen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002200307)
 
 (1) Als Prüfingenieur kann auf Antrag zugelassen werden, wer
 
@@ -735,6 +753,7 @@ g)  nicht genügend Gewähr dafür bietet, daß er neben der Prüftätigkeit
 
 
 #### § 15 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002300307)
 
 (1) Der Antrag auf Zulassung ist an die oberste Bauaufsichtsbehörde zu
 richten.
@@ -796,6 +815,7 @@ sich als Prüfingenieur niederzulassen beabsichtigt.
 
 
 #### § 16 Gutachten, Gutachterausschuß
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002400307)
 
 (1) Über die fachliche Eignung des Antragstellers kann die oberste
 Bauaufsichtsbehörde vor der Zulassung ein schriftliches Gutachten
@@ -815,6 +835,7 @@ Ersatz der Reisekosten und der notwendigen Auslagen.
 
 
 #### § 17 Erlöschen, Rücknahme und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002500307)
 
 (1) Die Zulassung erlischt
 
@@ -864,10 +885,12 @@ Prüfingenieur zugelassen.
 
 
 ### Zweiter Abschnitt - Bautechnische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNG000400307)
 
 
 
 #### § 18 Übertragung von Prüfaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002600307)
 
 (1) Die untere Bauaufsichtsbehörde kann die Prüfung der
 Standsicherheitsnachweise, der Nachweise der Feuerwiderstandsklasse
@@ -888,6 +911,7 @@ Prüfingenieure geprüft werden dürfen.
 
 
 #### § 19 Erteilung von Prüfaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002700307)
 
 (1) Der Prüfauftrag wird von der unteren Bauaufsichtsbehörde erteilt.
 Sie darf diese einem Prüfingenieur nur in den Fachrichtungen erteilen,
@@ -901,6 +925,7 @@ Prüfauftrag zurückziehen und die Unterlagen zurückfordern.
 
 
 #### § 20 Ausführung von Prüfaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002800307)
 
 (1) Der Prüfingenieur hat seine Prüftätigkeit unparteiisch und
 gewissenhaft gemäß den bauaufsichtlichen Vorschriften und den
@@ -953,6 +978,7 @@ Richtigkeit der Prüfung.
 
 
 #### § 21 Typenprüfung - Prüfung Fliegender Bauten
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE002900307)
 
 (1) Für bauliche Anlagen und Bauteile, die in gleicher Ausführung an
 mehreren Stellen errichtet oder verwendet werden, können mit dem
@@ -970,10 +996,12 @@ einem Prüfamt geprüft werden.
 
 
 ## Dritter Teil - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNG000500307)
 
 
 
 ### § 22 Überwachungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE003000307)
 
 (1) Bei der Errichtung und Änderung baulicher Anlagen dürfen folgende
 Bauprodukte, an die wegen der Standsicherheit, des Brandschutzes, des
@@ -1050,6 +1078,7 @@ ist.
 
 
 ### § 23 Überwachungsverfahren und Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE003100307)
 
 (1) Das Überwachungsverfahren erfolgt nach
 
@@ -1117,6 +1146,7 @@ Akkreditierung besteht nicht.
 
 
 ### § 24 Überwachungszeichen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE003200307)
 
 (1) Das einheitliche Überwachungszeichen besteht aus dem
 Großbuchstaben "Ü" in einer Mindestgröße von 4,5 cm X 6 cm. Im Bogen
@@ -1160,21 +1190,25 @@ Leiter des Zentralen Prüfamtes für Bautechnik.
 
 
 ## Vierter Teil - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNG000600307)
 
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE003300307)
 
 Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE003400307)
 
 **Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft**
 
 zur BauVorl-/BauPrüf-/ÜbAO (zu § 2 Abs. 4, § 3 Abs. 4)
 
 ### Anlage Zeichen für Bauvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/baup_ano/DDNR014000990.html#DDNR014000990BJNE003500307)
 
 Fundstelle des Originaltextes: GBl. I 1990 Nr. 57, S. 1406 - 1408
 

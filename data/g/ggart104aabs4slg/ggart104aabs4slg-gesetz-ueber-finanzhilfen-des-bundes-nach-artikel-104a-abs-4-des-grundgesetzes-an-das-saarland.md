@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000200314)
 
 Der Bund gewährt dem Saarland Finanzhilfen für besonders bedeutsame
 Investitionen zur Verbesserung seiner Wirtschaftskraft in Höhe von
@@ -34,6 +36,7 @@ gewährt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000300314)
 
 Durch die Finanzhilfen des § 1 werden folgende Arten von Investitionen
 gefördert:
@@ -54,6 +57,7 @@ gefördert:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000400314)
 
 Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie in
 unmittelbar ursächlichem Zusammenhang mit den Maßnahmen nach § 2
@@ -61,6 +65,7 @@ stehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000500314)
 
 (1) Die Finanzhilfen werden nach Maßgabe einer jährlich
 fortzuschreibenden Förderungsliste des Landes gewährt. Die
@@ -79,6 +84,7 @@ festgelegten Zweckbindungen nicht entsprechen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000600314)
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der
 förderungsfähigen Ausgaben.
@@ -90,6 +96,7 @@ der benötigten Kassenmittel an die zuständige Landeskasse anzuweisen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000700314)
 
 (1) Das Land übersendet dem Bund innerhalb von fünf Monaten nach
 Abschluß des Haushaltsjahres einen Bericht über die Durchführung und
@@ -103,12 +110,14 @@ Sachdarstellung enthalten.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000800314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/ggart104aabs4slg/BJNR017080984.html#BJNR017080984BJNE000900314)
 
 Dieses Gesetz tritt am 1. Januar 1985 in Kraft.
 

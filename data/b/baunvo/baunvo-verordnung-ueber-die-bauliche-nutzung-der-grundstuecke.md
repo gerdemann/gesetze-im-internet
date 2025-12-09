@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Art der baulichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNG000102116)
 
 
 
 ### § 1 Allgemeine Vorschriften für Bauflächen und Baugebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE000706125)
 
 (1) Im Flächennutzungsplan können die für die Bebauung vorgesehenen
 Flächen nach der allgemeinen Art ihrer baulichen Nutzung (Bauflächen)
@@ -240,6 +242,7 @@ bis 3 gelten auch für die Änderung und Ergänzung von Bebauungsplänen.
 
 
 ### § 2 Kleinsiedlungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE000803116)
 
 (1) Kleinsiedlungsgebiete dienen vorwiegend der Unterbringung von
 Kleinsiedlungen einschließlich Wohngebäuden mit entsprechenden
@@ -277,6 +280,7 @@ Nutzgärten und landwirtschaftlichen Nebenerwerbsstellen.
 
 
 ### § 3 Reine Wohngebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE000904116)
 
 (1) Reine Wohngebiete dienen dem Wohnen.
 
@@ -311,6 +315,7 @@ Betreuung und Pflege ihrer Bewohner dienen.
 
 
 ### § 4 Allgemeine Wohngebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001003116)
 
 (1) Allgemeine Wohngebiete dienen vorwiegend dem Wohnen.
 
@@ -350,6 +355,7 @@ Betreuung und Pflege ihrer Bewohner dienen.
 
 
 ### § 4a Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001103116)
 
 (1) Besondere Wohngebiete sind überwiegend bebaute Gebiete, die
 aufgrund ausgeübter Wohnnutzung und vorhandener sonstiger in Absatz 2
@@ -413,6 +419,7 @@ Baugesetzbuchs), festgesetzt werden, dass
 
 
 ### § 5 Dorfgebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001203116)
 
 (1) Dorfgebiete dienen der Unterbringung der Wirtschaftsstellen land-
 und forstwirtschaftlicher Betriebe, dem Wohnen und der Unterbringung
@@ -462,6 +469,7 @@ Nummer 2 zugelassen werden.
 
 
 ### § 5a Dörfliche Wohngebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004300125)
 
 (1) Dörfliche Wohngebiete dienen dem Wohnen sowie der Unterbringung
 von land- und forstwirtschaftlichen Nebenerwerbsstellen und nicht
@@ -516,6 +524,7 @@ gleichgewichtig sein.
 
 
 ### § 6 Mischgebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001303116)
 
 (1) Mischgebiete dienen dem Wohnen und der Unterbringung von
 Gewerbebetrieben, die das Wohnen nicht wesentlich stören.
@@ -557,6 +566,7 @@ Gebiets zugelassen werden.
 
 
 ### § 6a Urbane Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004101116)
 
 (1) Urbane Gebiete dienen dem Wohnen sowie der Unterbringung von
 Gewerbebetrieben und sozialen, kulturellen und anderen Einrichtungen,
@@ -620,6 +630,7 @@ werden, dass in Gebäuden
 
 
 ### § 7 Kerngebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001403116)
 
 (1) Kerngebiete dienen vorwiegend der Unterbringung von
 Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der
@@ -684,6 +695,7 @@ der Kultur dient.
 
 
 ### § 8 Gewerbegebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001504130)
 
 (1) Gewerbegebiete dienen vorwiegend der Unterbringung von nicht
 erheblich belästigenden Gewerbebetrieben.
@@ -724,6 +736,7 @@ erheblich belästigenden Gewerbebetrieben.
 
 
 ### § 9 Industriegebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001604130)
 
 (1) Industriegebiete dienen ausschließlich der Unterbringung von
 Gewerbebetrieben, und zwar vorwiegend solcher Betriebe, die in anderen
@@ -756,6 +769,7 @@ Baugebieten unzulässig sind.
 
 
 ### § 10 Sondergebiete, die der Erholung dienen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001702116)
 
 (1) Als Sondergebiete, die der Erholung dienen, kommen insbesondere in
 Betracht
@@ -791,6 +805,7 @@ zulässig.
 
 
 ### § 11 Sonstige Sondergebiete
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001806130)
 
 (1) Als sonstige Sondergebiete sind solche Gebiete darzustellen und
 festzusetzen, die sich von den Baugebieten nach den §§ 2 bis 10
@@ -851,6 +866,7 @@ berücksichtigen.
 
 
 ### § 12 Stellplätze und Garagen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE001903116)
 
 (1) Stellplätze und Garagen sind in allen Baugebieten zulässig, soweit
 sich aus den Absätzen 2 bis 6 nichts anderes ergibt.
@@ -901,6 +917,7 @@ nach den Absätzen 4 bis 6 unberührt.
 
 
 ### § 13 Gebäude und Räume für freie Berufe
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002002116)
 
 Für die Berufsausübung freiberuflich Tätiger und solcher
 Gewerbetreibender, die ihren Beruf in ähnlicher Art ausüben, sind in
@@ -909,6 +926,7 @@ den Baugebieten nach den §§ 2 bis 4 Räume, in den Baugebieten nach den
 
 
 ### § 13a Ferienwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004202125)
 
 Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen
 gegen Entgelt vorübergehend zur Unterkunft zur Verfügung gestellt
@@ -929,6 +947,7 @@ gehören.
 
 
 ### § 14 Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002107130)
 
 (1) Außer den in den §§ 2 bis 13 genannten Anlagen sind auch
 untergeordnete Nebenanlagen und Einrichtungen zulässig, die dem
@@ -977,6 +996,7 @@ Satz 4 gilt entsprechend.
 
 
 ### § 15 Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002203116)
 
 (1) Die in den §§ 2 bis 14 aufgeführten baulichen und sonstigen
 Anlagen sind im Einzelfall unzulässig, wenn sie nach Anzahl, Lage,
@@ -996,10 +1016,12 @@ Verordnungen zu beurteilen.
 
 
 ## Zweiter Abschnitt - Maß der baulichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNG000202116)
 
 
 
 ### § 16 Bestimmung des Maßes der baulichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002303116)
 
 (1) Wird im Flächennutzungsplan das allgemeine Maß der baulichen
 Nutzung dargestellt, genügt die Angabe der Geschossflächenzahl, der
@@ -1055,6 +1077,7 @@ von dem festgesetzten Maß der baulichen Nutzung vorgesehen werden.
 
 
 ### § 17 Orientierungswerte für die Bestimmung des Maßes der baulichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002406125)
 
 Bei der Bestimmung des Maßes der baulichen Nutzung nach § 16 bestehen,
 auch wenn eine Geschossflächenzahl oder eine Baumassenzahl nicht
@@ -1185,6 +1208,7 @@ werden.
 
 
 ### § 18 Höhe baulicher Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002503116)
 
 (1) Bei Festsetzung der Höhe baulicher Anlagen sind die erforderlichen
 Bezugspunkte zu bestimmen.
@@ -1194,6 +1218,7 @@ Absatz 4 Satz 2), können geringfügige Abweichungen zugelassen werden.
 
 
 ### § 19 Grundflächenzahl, zulässige Grundfläche
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002604130)
 
 (1) Die Grundflächenzahl gibt an, wieviel Quadratmeter Grundfläche je
 Quadratmeter Grundstücksfläche im Sinne des Absatzes 3 zulässig sind.
@@ -1249,6 +1274,7 @@ Strom und Wärme aus solarer Strahlungsenergie und Windenergie
 
 
 ### § 20 Vollgeschosse, Geschossflächenzahl, Geschossfläche
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002703116)
 
 (1) Als Vollgeschosse gelten Geschosse, die nach landesrechtlichen
 Vorschriften Vollgeschosse sind oder auf ihre Zahl angerechnet werden.
@@ -1272,6 +1298,7 @@ zugelassen werden können, unberücksichtigt.
 
 
 ### § 21 Baumassenzahl, Baumasse
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002803116)
 
 (1) Die Baumassenzahl gibt an, wieviel Kubikmeter Baumasse je
 Quadratmeter Grundstücksfläche im Sinne des § 19 Absatz 3 zulässig
@@ -1296,6 +1323,7 @@ Dreieinhalbfache der zulässigen Geschossflächenzahl beträgt, nicht
 
 
 ### § 21a Stellplätze, Garagen und Gemeinschaftsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE002903116)
 
 (1) Garagengeschosse oder ihre Baumasse sind in sonst anders genutzten
 Gebäuden auf die Zahl der zulässigen Vollgeschosse oder auf die
@@ -1345,10 +1373,12 @@ Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.
 
 
 ## Dritter Abschnitt - Bauweise, überbaubare Grundstücksfläche
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNG000302116)
 
 
 
 ### § 22 Bauweise
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003003116)
 
 (1) Im Bebauungsplan kann die Bauweise als offene oder geschlossene
 Bauweise festgesetzt werden.
@@ -1371,6 +1401,7 @@ herangebaut werden darf oder muss.
 
 
 ### § 23 Überbaubare Grundstücksfläche
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003103116)
 
 (1) Die überbaubaren Grundstücksflächen können durch die Festsetzung
 von Baulinien, Baugrenzen oder Bebauungstiefen bestimmt werden. § 16
@@ -1399,18 +1430,22 @@ zugelassen werden können.
 
 
 ## Vierter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNG000402116)
 
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003203116)
 
 
 
 ## Fünfter Abschnitt - Überleitungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNG000502116)
 
 
 
 ### § 25 Fortführung eingeleiteter Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003302116)
 
 Für Bauleitpläne, deren Aufstellung oder Änderung bereits eingeleitet
 ist, sind die dieser Verordnung entsprechenden bisherigen Vorschriften
@@ -1430,6 +1465,7 @@ Verordnung bereits ausgelegt sind.
 
 
 ### § 25a Überleitungsvorschriften aus Anlaß der zweiten Änderungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003402116)
 
 (1) Für Bauleitpläne, deren Aufstellung oder Änderung bereits
 eingeleitet ist, gilt diese Verordnung in ihrer bis zum Inkrafttreten
@@ -1453,6 +1489,7 @@ zweiten Änderungsverordnung gültigen Fassung weiterhin Anwendung.
 
 
 ### § 25b Überleitungsvorschrift aus Anlass der dritten Änderungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003702116)
 
 (1) Ist der Entwurf eines Bebauungsplans vor dem Inkrafttreten der
 dritten Änderungsverordnung nach § 2a Absatz 6 des Bundesbaugesetzes
@@ -1467,6 +1504,7 @@ Absatz 3 Satz 4 entsprechend anzuwenden.
 
 
 ### § 25c Überleitungsvorschrift aus Anlass der vierten Änderungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003803116)
 
 Ist der Entwurf eines Bauleitplans vor dem 27. Januar 1990 nach § 3
 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt worden, ist auf ihn
@@ -1476,6 +1514,7 @@ Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 
 ### § 25d Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004001116)
 
 Ist der Entwurf eines Bauleitplans vor dem 20. September 2013 nach § 3
 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt worden, ist auf ihn
@@ -1485,6 +1524,7 @@ Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 
 ### § 25e Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004400125)
 
 Ist der Entwurf eines Bauleitplans vor dem 23. Juni 2021 nach § 3
 Absatz 2 des Baugesetzbuchs oder nach dem
@@ -1495,6 +1535,7 @@ Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 
 ### § 25f Überleitungsvorschrift aus Anlass des Gesetzes zur sofortigen Verbesserung der Rahmenbedingungen für die erneuerbaren Energien im Städtebaurecht
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004500116)
 
 Ist der Entwurf eines Bauleitplans vor dem 1. Januar 2023 nach § 3
 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt oder nach § 3 Absatz
@@ -1505,6 +1546,7 @@ zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 
 ### § 25g Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE004600130)
 
 Ist der Entwurf eines Bauleitplans vor dem 7. Juli 2023 nach § 3
 Absatz 2 des Baugesetzbuchs in der vor dem 7. Juli 2023 geltenden
@@ -1516,10 +1558,12 @@ Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
 
 ### § 26 (Berlin-Klausel)
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003503116)
 
 
 
 ### § 26a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003902116)
 
 Soweit in dieser Verordnung auf Vorschriften verwiesen wird, die in
 dem in Artikel 3 des Einigungsvertrages genannten Gebiet keine
@@ -1530,5 +1574,6 @@ gelten die Vorschriften, auf die verwiesen wird, entsprechend.
 
 
 ### § 27 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/baunvo/BJNR004290962.html#BJNR004290962BJNE003602116)
 
 

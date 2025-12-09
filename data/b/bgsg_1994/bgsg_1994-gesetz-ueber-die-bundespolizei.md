@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Aufgaben und Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000100000)
 
 
 
 ### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000202311)
 
 (1) Die Bundespolizei wird in bundeseigener Verwaltung geführt. Sie
 ist eine Polizei des Bundes im Geschäftsbereich des Bundesministeriums
@@ -62,6 +64,7 @@ Zuständigkeitsbereichen der Bundespolizei unberührt.
 
 
 ### § 2 Grenzschutz
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000303311)
 
 (1) Der Bundespolizei obliegt der grenzpolizeiliche Schutz des
 Bundesgebietes (Grenzschutz), soweit nicht ein Land im Einvernehmen
@@ -117,6 +120,7 @@ geltenden Recht.
 
 
 ### § 3 Bahnpolizei
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000406311)
 
 (1) Die Bundespolizei hat die Aufgabe, auf dem Gebiet der Bahnanlagen
 der Eisenbahnen des Bundes Gefahren für die öffentliche Sicherheit
@@ -149,6 +153,7 @@ Bundespolizeibehörde erhoben.
 
 
 ### § 4 Luftsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000504311)
 
 Der Bundespolizei obliegt der Schutz vor Angriffen auf die Sicherheit
 des Luftverkehrs nach den §§ 3, 5, 9 Absatz 1a und § 10a Absatz 2 des
@@ -162,6 +167,7 @@ sind.
 
 
 ### § 4a Sicherheitsmaßnahmen an Bord von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007402377)
 
 Die Bundespolizei kann zur Aufrechterhaltung oder Wiederherstellung
 der Sicherheit oder Ordnung an Bord deutscher Luftfahrzeuge eingesetzt
@@ -173,6 +179,7 @@ Luftfahrzeugführer zu treffen.
 
 
 ### § 5 Schutz von Bundesorganen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000602311)
 
 (1) Die Bundespolizei kann Verfassungsorgane des Bundes und
 Bundesministerien gegen Gefahren, die die Durchführung ihrer Aufgaben
@@ -189,6 +196,7 @@ Bundesministerien ihren Amtssitz haben.
 
 
 ### § 6 Aufgaben auf See
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000701377)
 
 Unbeschadet der Zuständigkeit anderer Behörden oder der Streitkräfte
 hat die Bundespolizei auf See außerhalb des deutschen Küstenmeers die
@@ -199,6 +207,7 @@ zugewiesen oder die ausschließlich Kriegsschiffen vorbehalten sind.
 
 
 ### § 7 Aufgaben im Notstands- und Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000801377)
 
 (1) Setzt die Bundesregierung die Bundespolizei nach Artikel 91 Abs. 2
 des Grundgesetzes zur Abwehr einer drohenden Gefahr für den Bestand
@@ -212,6 +221,7 @@ eingesetzt wird.
 
 
 ### § 8 Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE000902311)
 
 (1) Die Bundespolizei kann zur Mitwirkung an polizeilichen oder
 anderen nichtmilitärischen Aufgaben im Rahmen von internationalen
@@ -255,6 +265,7 @@ Vereinbarungen getroffenen Regelungen.
 
 
 ### § 9 Verwendung zur Unterstützung anderer Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001003311)
 
 (1) Die Bundespolizei unterstützt
 
@@ -287,6 +298,7 @@ Bundespolizei hierfür benannte Stelle.
 
 
 ### § 10 Verwendung zur Unterstützung des Bundesamtes für Verfassungsschutz auf dem Gebiet der Funktechnik
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001104311)
 
 (1) Die Bundespolizei nimmt für das Bundesamt für Verfassungsschutz
 auf dessen Anforderung Aufgaben nach § 3 Abs. 1 des
@@ -333,6 +345,7 @@ Kontrollgremium.
 
 
 ### § 11 Verwendung zur Unterstützung eines Landes
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001203311)
 
 (1) Die Bundespolizei kann zur Unterstützung eines Landes verwendet
 werden
@@ -381,6 +394,7 @@ Gründen in einer Verwaltungsvereinbarung etwas anderes bestimmt wird.
 
 
 ### § 12 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001309311)
 
 (1) Die Bundespolizei nimmt die polizeilichen Aufgaben auf dem Gebiet
 der Strafverfolgung (§§ 161, 163 der Strafprozeßordnung) wahr, soweit
@@ -469,6 +483,7 @@ Strafprozeßordnung entsprechend.
 
 
 ### § 13 Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001402377)
 
 (1) Die Bundespolizei nimmt im Rahmen der ihr obliegenden Aufgaben die
 polizeilichen Aufgaben nach dem Gesetz über Ordnungswidrigkeiten wahr.
@@ -492,14 +507,17 @@ Verwarnungsgelder zu erheben.
 
 
 ## Abschnitt 2 - Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Befugnisse und allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000300000)
 
 
 
 #### § 14 Allgemeine Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001603377)
 
 (1) Die Bundespolizei kann zur Erfüllung ihrer Aufgaben nach den §§ 1
 bis 7 die notwendigen Maßnahmen treffen, um eine Gefahr abzuwehren,
@@ -526,6 +544,7 @@ Luftsicherheitsgesetzes keine Regelungen enthält.
 
 
 #### § 15 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001700000)
 
 (1) Von mehreren möglichen und geeigneten Maßnahmen ist diejenige zu
 treffen, die den einzelnen und die Allgemeinheit voraussichtlich am
@@ -539,6 +558,7 @@ oder sich zeigt, daß er nicht erreicht werden kann.
 
 
 #### § 16 Ermessen, Wahl der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001801377)
 
 (1) Die Bundespolizei trifft ihre Maßnahmen nach pflichtgemäßem
 Ermessen.
@@ -550,6 +570,7 @@ sofern die Allgemeinheit dadurch nicht stärker beeinträchtigt wird.
 
 
 #### § 17 Verantwortlichkeit für das Verhalten von Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE001900000)
 
 (1) Verursacht eine Person eine Gefahr, so sind die Maßnahmen gegen
 sie zu richten.
@@ -567,6 +588,7 @@ hat.
 
 
 #### § 18 Verantwortlichkeit für das Verhalten von Tieren oder den Zustand von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002000000)
 
 (1) Geht von einem Tier oder einer Sache eine Gefahr aus, so sind die
 Maßnahmen gegen den Inhaber der tatsächlichen Gewalt zu richten. Die
@@ -584,6 +606,7 @@ Sache aufgegeben hat.
 
 
 #### § 19 Unmittelbare Ausführung einer Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002102377)
 
 Die Bundespolizei kann eine Maßnahme selbst oder durch einen
 Beauftragten unmittelbar ausführen, wenn der Zweck der Maßnahme durch
@@ -593,6 +616,7 @@ Betroffene ist unverzüglich zu unterrichten.
 
 
 #### § 20 Inanspruchnahme nicht verantwortlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002201377)
 
 (1) Die Bundespolizei kann Maßnahmen gegen andere Personen als die
 nach § 17 oder § 18 Verantwortlichen richten, wenn
@@ -622,14 +646,17 @@ den nachfolgenden Vorschriften dieses Abschnitts ergibt.
 
 
 ### Unterabschnitt 2 - Besondere Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000400000)
 
 
 
 #### Teil 1 - Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000500000)
 
 
 
 ##### § 21 Erhebung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002401377)
 
 (1) Die Bundespolizei kann, sofern in diesem Abschnitt nichts anderes
 bestimmt ist, personenbezogene Daten erheben, soweit dies zur
@@ -673,6 +700,7 @@ die Freiwilligkeit der Auskunft hinzuweisen.
 
 
 ##### § 22 Befragung und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002509310)
 
 (1) Die Bundespolizei kann eine Person befragen, wenn Tatsachen die
 Annahme rechtfertigen, daß die Person sachdienliche Angaben für die
@@ -714,6 +742,7 @@ Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
 
 
 ##### § 22a Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007904377)
 
 (1) Die Bundespolizei darf Auskunft verlangen
 
@@ -861,6 +890,7 @@ finden entsprechend Anwendung.
 
 
 ##### § 23 Identitätsfeststellung und Prüfung von Berechtigungsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002603377)
 
 (1) Die Bundespolizei kann die Identität einer Person feststellen
 
@@ -970,6 +1000,7 @@ bezogener Anhaltspunkte erforderlich ist.
 
 
 ##### § 24 Erkennungsdienstliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002701377)
 
 (1) Die Bundespolizei kann erkennungsdienstliche Maßnahmen vornehmen,
 wenn
@@ -1015,6 +1046,7 @@ Sind die Unterlagen an andere Stellen übermittelt worden, sind diese
 
 
 ##### § 25 Vorladung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002802377)
 
 (1) Die Bundespolizei kann eine Person schriftlich oder mündlich
 vorladen, wenn
@@ -1054,6 +1086,7 @@ herangezogen werden, gilt das Justizvergütungs- und
 
 
 ##### § 26 Datenerhebung bei öffentlichen Veranstaltungen oder Ansammlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE002902377)
 
 (1) Die Bundespolizei kann bei oder im Zusammenhang mit öffentlichen
 Veranstaltungen oder Ansammlungen an der Grenze oder den in § 23 Abs.
@@ -1105,6 +1138,7 @@ verwendet werden, nach spätestens zwei Monaten zu vernichten.
 
 
 ##### § 27 Selbsttätige Bildaufnahme- und Bildaufzeichnungsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003003377)
 
 Die Bundespolizei kann selbsttätige Bildaufnahme- und
 Bildaufzeichnungsgeräte einsetzen, um
@@ -1128,6 +1162,7 @@ Straftat oder Ordnungswidrigkeit benötigt werden.
 
 
 ##### § 27a Mobile Bild- und Tonaufzeichnungsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE008100377)
 
 (1) Die Bundespolizei kann an öffentlich zugänglichen Orten
 personenbezogene Daten durch die offene Anfertigung von Bild- und
@@ -1198,6 +1233,7 @@ Nummer 3 benötigt.
 
 
 ##### § 27b Anlassbezogene automatische Kennzeichenerfassung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE008200377)
 
 (1) Die Bundespolizei kann zur Erfüllung ihrer Aufgaben nach § 2
 Absatz 2 im öffentlichen Verkehrsraum vorübergehend und nicht
@@ -1242,6 +1278,7 @@ Begehung einer Straftat von erheblicher Bedeutung zu verfolgen.
 
 
 ##### § 27c Gesprächsaufzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE008300377)
 
 (1) Die Bundespolizei kann bei Einsatzleitstellen eingehende
 Telefonanrufe aufzeichnen, soweit dies zur Erfüllung ihrer Aufgaben
@@ -1254,6 +1291,7 @@ Verfolgung von Straftaten oder zur Gefahrenabwehr weiter benötigt.
 
 
 ##### § 28 Besondere Mittel der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003104377)
 
 (1) Die Bundespolizei kann unter Beachtung des § 70 Satz 2
 personenbezogene Daten mit den besonderen Mitteln nach Absatz 2
@@ -1430,6 +1468,7 @@ Wahrscheinlichkeit auch in Zukunft nicht eintreten werden.
 
 
 ##### § 28a Einsatz technischer Mittel zur Eigensicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE008001377)
 
 (1) Werden Verdeckte Ermittler im Rahmen der Gefahrenabwehr nach § 28
 Absatz 2 Nummer 4 oder aus Gründen der Strafverfolgung tätig, dürfen,
@@ -1477,10 +1516,12 @@ gilt entsprechend.
 
 
 #### Teil 2 - Datenverarbeitung und Datennutzung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000600000)
 
 
 
 ##### § 29 Speicherung, Veränderung und Nutzung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003201377)
 
 (1) Die Bundespolizei kann personenbezogene Daten speichern, verändern
 und nutzen, soweit dies zur Erfüllung ihrer jeweiligen Aufgabe
@@ -1576,6 +1617,7 @@ nicht offensichtlich überwiegen.
 
 
 ##### § 30 Ausschreibung zur Fahndung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003304311)
 
 (1) Die Bundespolizei kann personenbezogene Daten, insbesondere die
 Personalien einer Person, das amtliche Kennzeichen des von ihr
@@ -1647,6 +1689,7 @@ automatisierten Verfahren berechtigte Stelle vornehmen zu lassen.
 
 
 ##### § 30a Ausschreibung zur verdeckten Kontrolle, Ermittlungsanfrage oder gezielten Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE008400377)
 
 (1) Die Bundespolizei kann zur Erfüllung ihrer Aufgaben nach § 1
 Absatz 3 sowie nach den §§ 2 bis 7 eine Person, eine Sache oder
@@ -1726,6 +1769,7 @@ engen zeitlichen Zusammenhang durchgeführt worden, beginnt die in Satz
 
 
 ##### § 31 Ausschreibung zur grenzpolizeilichen Beobachtung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003403311)
 
 (1) Die Bundespolizei kann personenbezogene Daten der in § 30 Abs. 1
 Satz 1 bezeichneten Art ausschreiben und hierfür in der für die
@@ -1790,6 +1834,7 @@ Ersuchens.
 
 
 ##### § 31a Übermittlung von Fluggastdaten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007501377)
 
 (1) Zum Zwecke der Erfüllung der Aufgaben nach § 2 Abs. 2 Satz 1 Nr. 2
 und § 12 Abs. 1 Satz 1 Nr. 1 bis 3 haben Luftfahrtunternehmen, die
@@ -1864,6 +1909,7 @@ Satz 1 Nr. 2 und § 12 Abs. 1 Satz 1 Nr. 1 bis 3 benötigt werden.
 
 
 ##### § 32 Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003502377)
 
 (1) Die Bundespolizei kann Behörden des Polizeivollzugsdienstes und,
 wenn sie Aufgaben nach § 2 Abs. 2 oder Aufgaben auf dem Gebiet der
@@ -1925,6 +1971,7 @@ personenbezogener Daten bleiben unberührt.
 
 
 ##### § 32a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007700377)
 
 (1) Auf ein Ersuchen einer Polizeibehörde oder einer sonstigen für die
 Verhütung und Verfolgung von Straftaten zuständigen öffentlichen
@@ -2005,6 +2052,7 @@ Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
 
 ##### § 33 Ergänzende Regelungen für die Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003604140)
 
 (1) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
 Bundespolizei. Erfolgt die Übermittlung auf Grund eines Ersuchens
@@ -2139,6 +2187,7 @@ Bundesdatenschutzgesetzes.
 
 
 ##### § 33a Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007800377)
 
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die
 Bundespolizei übermittelt worden sind, dürfen nur für die Zwecke, für
@@ -2155,6 +2204,7 @@ Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 
 
 ##### § 34 Abgleich personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003701377)
 
 (1) Die Bundespolizei kann personenbezogene Daten mit dem Inhalt von
 Dateien abgleichen, die sie zur Erfüllung der ihr obliegenden Aufgaben
@@ -2177,6 +2227,7 @@ bleiben unberührt.
 
 
 ##### § 35 Berichtigung, Löschung und Sperrung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003802377)
 
 (1) Die Bundespolizei hat in Dateien gespeicherte personenbezogene
 Daten zu berichtigen, wenn sie unrichtig sind. Stellt sie die
@@ -2261,6 +2312,7 @@ Nummer 10 des Bundesarchivgesetzes zukommt.
 
 
 ##### § 36 Errichtungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE003902311)
 
 (1) Die Bundespolizei hat für jede zur Erfüllung der Aufgaben nach den
 §§ 1 bis 7 geführte automatisierte Datei mit personenbezogenen Daten
@@ -2308,6 +2360,7 @@ oder Änderung der Dateien zu überprüfen.
 
 
 ##### § 37 Geltung des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004002377)
 
 Bei der Erfüllung der der Bundespolizei nach den §§ 1 bis 7
 obliegenden Aufgaben finden § 3 Abs. 2 und 8 Satz 1, § 4 Abs. 2 und 3,
@@ -2317,10 +2370,12 @@ Anwendung.
 
 
 #### Teil 3 - Platzverweisung, Gewahrsam, Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000700000)
 
 
 
 ##### § 38 Platzverweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004101377)
 
 Die Bundespolizei kann zur Abwehr einer Gefahr eine Person
 vorübergehend von einem Ort verweisen oder ihr vorübergehend das
@@ -2328,6 +2383,7 @@ Betreten eines Ortes verbieten.
 
 
 ##### § 39 Gewahrsam
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004201377)
 
 (1) Die Bundespolizei kann eine Person in Gewahrsam nehmen, wenn dies
 
@@ -2365,6 +2421,7 @@ Ersuchen, das eine Freiheitsentziehung zum Inhalt hat, nachzukommen.
 
 
 ##### § 40 Richterliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004302160)
 
 (1) Wird eine Person auf Grund des § 23 Abs. 3 Satz 4, § 25 Abs. 3, §
 39 Abs. 1 oder 2 oder § 43 Abs. 5 festgehalten, hat die Bundespolizei
@@ -2389,6 +2446,7 @@ Entscheidung nicht unverzüglich nachträglich beantragt.
 
 
 ##### § 41 Behandlung festgehaltener Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004401377)
 
 (1) Wird eine Person auf Grund des § 23 Abs. 3 Satz 4, § 25 Abs. 3, §
 39 oder § 43 Abs. 5 festgehalten, sind ihr unverzüglich der Grund
@@ -2416,6 +2474,7 @@ Freiheitsentziehung oder die Ordnung im Gewahrsam erfordert.
 
 
 ##### § 42 Dauer der Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004500000)
 
 (1) Die festgehaltene Person ist zu entlassen,
 
@@ -2449,6 +2508,7 @@ darf die Dauer von insgesamt zwölf Stunden nicht überschreiten.
 
 
 ##### § 43 Durchsuchung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004602377)
 
 (1) Die Bundespolizei kann außer in den Fällen des § 23 Abs. 3 Satz 5
 eine Person durchsuchen, wenn
@@ -2511,6 +2571,7 @@ erheblichen Schwierigkeiten durchgeführt werden kann.
 
 
 ##### § 44 Durchsuchung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004703377)
 
 (1) Die Bundespolizei kann außer in den Fällen des § 23 Abs. 3 Satz 5
 und Abs. 5 Satz 2 eine Sache durchsuchen, wenn
@@ -2589,6 +2650,7 @@ Durchsuchung und ihren Grund zu erteilen.
 
 
 ##### § 45 Betreten und Durchsuchung von Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004803377)
 
 (1) Die Bundespolizei kann eine Wohnung ohne Einwilligung des Inhabers
 betreten und durchsuchen, wenn
@@ -2651,6 +2713,7 @@ betreten werden.
 
 
 ##### § 46 Verfahren bei der Durchsuchung von Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE004901160)
 
 (1) Durchsuchungen dürfen, außer bei Gefahr im Verzug, nur durch den
 Richter angeordnet werden. Zuständig ist das Amtsgericht, in dessen
@@ -2684,10 +2747,12 @@ und Ort der Durchsuchung schriftlich zu bestätigen.
 
 
 #### Teil 4 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000800000)
 
 
 
 ##### § 47 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005001377)
 
 Die Bundespolizei kann eine Sache sicherstellen,
 
@@ -2721,6 +2786,7 @@ Die Bundespolizei kann eine Sache sicherstellen,
 
 
 ##### § 48 Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005102377)
 
 (1) Sichergestellte Sachen sind in Verwahrung zu nehmen. Läßt die
 Beschaffenheit der Sachen das nicht zu oder erscheint die Verwahrung
@@ -2747,6 +2813,7 @@ daß Verwechslungen vermieden werden.
 
 
 ##### § 49 Verwertung, Vernichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005200000)
 
 (1) Die Verwertung einer sichergestellten Sache ist zulässig, wenn
 
@@ -2806,6 +2873,7 @@ Absatz 2 gilt entsprechend.
 
 
 ##### § 50 Herausgabe sichergestellter Sachen oder des Erlöses, Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005301377)
 
 (1) Sobald die Voraussetzungen für die Sicherstellung weggefallen
 sind, sind die Sachen an denjenigen herauszugeben, bei dem sie
@@ -2831,10 +2899,12 @@ gedeckt werden.
 
 
 ## Abschnitt 3 - Schadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG000900000)
 
 
 
 ### § 51 Zum Ausgleich verpflichtende Tatbestände
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005401377)
 
 (1) Erleidet jemand
 
@@ -2877,6 +2947,7 @@ Amtspflichtverletzung, bleiben unberührt.
 
 
 ### § 52 Inhalt, Art und Umfang des Ausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005501377)
 
 (1) Der Ausgleich nach § 51 wird grundsätzlich nur für
 Vermögensschaden gewährt. Für entgangenen Gewinn, der über den Ausfall
@@ -2915,6 +2986,7 @@ von dem Geschädigten oder durch die Behörde verursacht worden ist.
 
 
 ### § 53 Ausgleich im Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005600000)
 
 (1) Im Falle der Tötung sind im Rahmen des § 52 Abs. 5 die Kosten der
 Bestattung demjenigen auszugleichen, dem die Verpflichtung obliegt,
@@ -2933,6 +3005,7 @@ Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.
 
 
 ### § 54 Verjährung des Ausgleichsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005700000)
 
 Der Anspruch auf den Ausgleich verjährt in drei Jahren von dem
 Zeitpunkt an, in welchem der Geschädigte, im Falle des § 53 der
@@ -2942,6 +3015,7 @@ dreißig Jahren von dem Eintritt des schädigenden Ereignisses an.
 
 
 ### § 55 Ausgleichspflichtiger, Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005800000)
 
 (1) Ausgleichspflichtig ist die Bundesrepublik Deutschland. Dies gilt
 auch für Amtshandlungen eines Beamten der Polizei des Landes gemäß §
@@ -2962,6 +3036,7 @@ Verantwortung für die Art und Weise der Durchführung trägt.
 
 
 ### § 56 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE005900000)
 
 Für Ansprüche auf Schadensausgleich ist der ordentliche Rechtsweg, für
 Ansprüche auf Aufwendungsersatz nach § 55 Abs. 2 und 3 der
@@ -2969,10 +3044,12 @@ Verwaltungsrechtsweg gegeben.
 
 
 ## Abschnitt 4 - Organisation und Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG001000000)
 
 
 
 ### § 57 Bundespolizeibehörden
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006003311)
 
 (1) Bundespolizeibehörden sind das Bundespolizeipräsidium, die
 Bundespolizeidirektionen und die Bundespolizeiakademie.
@@ -2996,6 +3073,7 @@ Haushaltsplan.
 
 
 ### § 58 Sachliche und örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006102311)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat regelt durch
 Rechtsverordnung die sachliche und örtliche Zuständigkeit der
@@ -3012,6 +3090,7 @@ Flüchtigen ergreifen.
 
 
 ### § 59 Verbandspolizeiliche Aufgabenwahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006203377)
 
 (1) Die Bundespolizei setzt Kräfte der Verbände und Einheiten der
 Bundespolizei vornehmlich für Maßnahmen ein, die den Einsatz
@@ -3024,6 +3103,7 @@ treffen.
 
 
 ### § 60 Einsatz von Hubschraubern
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006302311)
 
 Die Bundespolizei verfügt nach Maßgabe des Haushaltsplans über
 Hubschrauber als polizeiliches Einsatz- und Transportmittel sowie zur
@@ -3037,6 +3117,7 @@ Einsatz- und Transportmittel handelt.
 
 
 ### § 61 Grenzübergangsstellen, Grenzerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006404311)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat entscheidet
 im Benehmen mit dem Bundesministerium der Finanzen über die Zulassung
@@ -3070,6 +3151,7 @@ anstelle der Bundespolizei nach Absatz 3 tätig werden.
 
 
 ### § 62 Unterstützungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006504377)
 
 (1) Die Bundespolizei kann, soweit es zur Wahrnehmung ihrer Aufgaben
 nach § 2 erforderlich ist,
@@ -3135,6 +3217,7 @@ der vorstehenden Absätze.
 
 
 ### § 63 Vollzugsdienst, Hilfspolizeibeamte
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006603311)
 
 (1) Tätigkeiten des Vollzugsdienstes in der Bundespolizei sind in der
 Regel Polizeivollzugsbeamten zu übertragen.
@@ -3175,6 +3258,7 @@ zuständigen Bundespolizeibehörden.
 
 
 ### § 64 Amtshandlungen von Polizeivollzugsbeamten der Länder sowie von Vollzugsbeamten anderer Bundesbehörden oder anderer Staaten im Zuständigkeitsbereich der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006702160)
 
 (1) Polizeivollzugsbeamte eines Landes können Amtshandlungen zur
 Wahrnehmung von Aufgaben der Bundespolizei vornehmen
@@ -3222,6 +3306,7 @@ in der Bundespolizei betraut werden.
 
 
 ### § 65 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich eines Landes oder Tätigkeiten in anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006803311)
 
 (1) Polizeivollzugsbeamte der Bundespolizei dürfen im
 Zuständigkeitsbereich eines Landes tätig werden, wenn das jeweilige
@@ -3238,6 +3323,7 @@ zustimmt.
 
 
 ### § 66 Amtshandlungen von Beamten der Zollverwaltung im Zuständigkeitsbereich der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE006902311)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann im
 Einvernehmen mit dem Bundesministerium der Finanzen Beamte der
@@ -3255,6 +3341,7 @@ Fachaufsicht aus.
 
 
 ### § 67 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007002311)
 
 (1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat Beamte der
@@ -3270,6 +3357,7 @@ Zolldienststellen üben ihnen gegenüber insoweit die Fachaufsicht aus.
 
 
 ### § 68 Wahrnehmung von Aufgaben durch die Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007101311)
 
 Das Bundesministerium des Innern, für Bau und Heimat kann im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -3288,10 +3376,12 @@ entsprechend.
 
 
 ## Abschnitt 5 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNG001100000)
 
 
 
 ### § 69 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007201311)
 
 Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur
 Durchführung dieses Gesetzes im Bereich der Bundesverwaltung
@@ -3299,6 +3389,7 @@ erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ### § 69a Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007601377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 31a Abs. 1 zuwiderhandelt.
@@ -3313,6 +3404,7 @@ Bundesamt die Verhängung eines Bußgeldes nach Absatz 1 mit.
 
 
 ### § 70 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg_1994/BJNR297900994.html#BJNR297900994BJNE007302377)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2

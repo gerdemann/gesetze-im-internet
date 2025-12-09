@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine dienstrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG018301305)
 
 
 
 ### § 1 Dienstrechtliche Zuständigkeiten der Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE018407119)
 
 (1) Die Postnachfolgeunternehmen (§ 38) werden ermächtigt, die dem
 Dienstherrn Bund obliegenden Rechte und Pflichten gegenüber den bei
@@ -81,6 +83,7 @@ Vorstandsmitglied nicht.
 
 
 ### § 2 Rechtsverhältnisse der Beamten, Zahlungs- und Kostentragungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE018504305)
 
 (1) Die Beamten werden bei dem Postnachfolgeunternehmen beschäftigt,
 
@@ -108,6 +111,7 @@ Deutschland die von ihr geleisteten Zahlungen zu erstatten.
 
 
 ### § 3 Dienstrechtliche Zuständigkeiten des Bundesministeriums der Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE018612119)
 
 (1) Das Bundesministerium der Finanzen bestimmt nach Anhörung oder auf
 Vorschlag des Vorstands durch allgemeine Anordnung, welche
@@ -205,6 +209,7 @@ Finanzen richten.
 
 
 ### § 4 Beamtenrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE018710123)
 
 (1) Die berufliche Tätigkeit der Beamten gilt als Dienst.
 
@@ -296,6 +301,7 @@ werden.
 
 
 ### § 5 Berufliches Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE018801305)
 
 (1) Kein Beamter darf wegen seiner Rechtsstellung oder wegen der sich
 aus seinem Beamtenverhältnis ergebenden Rechte und Pflichten in seiner
@@ -318,6 +324,7 @@ für die auszuübende Tätigkeit ist.
 
 
 ### § 6 Verwendung auf einem Arbeitsposten mit geringerer Wertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE018901305)
 
 Ein Beamter kann unter Belassung seiner Amtsbezeichnung und unter
 Fortzahlung der Dienstbezüge vorübergehend auf einem Arbeitsposten
@@ -330,6 +337,7 @@ länger als zwei Jahre dauert, bedarf sie der Zustimmung des Beamten.
 
 
 ### § 7 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019002305)
 
 (1) Soweit die Haftung des Postnachfolgeunternehmens ausgeschlossen
 oder beschränkt ist, stehen demjenigen, der ihre Einrichtungen in
@@ -342,10 +350,12 @@ entstandenen Schaden entsprechend § 75 des Bundesbeamtengesetzes.
 
 
 ## Abschnitt 2 - Besoldungsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG019101305)
 
 
 
 ### § 8 Ämterbewertung
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019202305)
 
 § 18 des Bundesbesoldungsgesetzes findet mit der Maßgabe Anwendung,
 daß gleichwertige Tätigkeiten bei den Postnachfolgeunternehmen als
@@ -354,6 +364,7 @@ zugeordnet werden.
 
 
 ### § 9 Stellenplan
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019304305)
 
 (1) Das Postnachfolgeunternehmen stellt für jedes Geschäftsjahr im
 voraus einen Stellenplan auf, der der Genehmigung des
@@ -375,6 +386,7 @@ rückwirkend in eine Planstelle eingewiesen werden.
 
 
 ### § 10 Besoldungsrechtliche Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019409123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung
 des Vorstands durch Rechtsverordnung, die nicht der Zustimmung des
@@ -411,6 +423,7 @@ anzurechnen.
 
 
 ### § 11 Belohnungen, Aufwandsentschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019504305)
 
 (1) Der Vorstand kann mit Zustimmung des Bundesministeriums der
 Finanzen für die bei dem Postnachfolgeunternehmen beschäftigten
@@ -424,10 +437,12 @@ erlassen, die aus dienstlicher Veranlassung entstehen.
 
 
 ## Abschnitt 3 - Reise- und umzugskostenrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG019601305)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019702305)
 
 Der Vorstand wird ermächtigt, für die bei den Postnachfolgeunternehmen
 beschäftigten Beamten von den reise- und umzugskostenrechtlichen
@@ -438,15 +453,18 @@ werden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE019801308)
 
 (weggefallen)
 
 
 ## Abschnitt 4 - Versorgungs- und beihilferechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG019901305)
 
 
 
 ### § 14 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020007305)
 
 (1) § 2 Absatz 2 und 3 gilt entsprechend für:
 
@@ -505,6 +523,7 @@ hierbei unberücksichtigt.
 
 
 ### § 15 Postbeamtenversorgungskasse
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020103305)
 
 (1) Die Postbeamtenversorgungskasse erbringt Versorgungs- und
 Beihilfeleistungen an frühere Beamte des ehemaligen Sondervermögens
@@ -524,6 +543,7 @@ Einkommensteuergesetzes ist nicht anzuwenden.
 
 
 ### § 16 Finanzierung der Postbeamtenversorgungskasse
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020208305)
 
 (1) Ab dem Jahre 2000 leisten die Postnachfolgeunternehmen zur
 Erfüllung ihrer Verpflichtungen Beiträge an die
@@ -580,6 +600,7 @@ Postnachfolgeunternehmen keine Erstattung verlangen.
 
 
 ### § 17 Weiterbeschäftigte Beamte
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020303305)
 
 (1) Die Tätigkeit als Beamter bei einem Postnachfolgeunternehmen gilt
 als Dienstzeit im Dienst eines öffentlich-rechtlichen Dienstherrn im
@@ -603,6 +624,7 @@ Postverfassungsgesetzes.
 
 
 ### § 18 Ausgleichszahlung bei Anspruch auf Altersgeld, Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020401305)
 
 (1) Für einen Beamten mit Anspruch auf Altersgeld nach dem
 Altersgeldgesetz leistet das Postnachfolgeunternehmen, bei dem der
@@ -622,21 +644,26 @@ Postnachfolgeunternehmen oder in dessen Vorstand.
 
 
 ### § 18a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022801305)
 
 
 
 ## Abschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG020501305)
 
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020604305)
 
 
 ## Abschnitt 6 - Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG020701305)
 
 
 
 ### § 20 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE020802305)
 
 (1) Dem Bundesministerium der Finanzen obliegt die Rechtsaufsicht
 darüber, daß die Organe des Postnachfolgeunternehmens bei der
@@ -670,26 +697,32 @@ Zuständigkeit einem anderen Vorstandsmitglied.
 
 
 ## Abschnitt 7 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG020901305)
 
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021002305)
 
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021101305)
 
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021202305)
 
 
 
 ## Abschnitt 8 - Betriebliche Interessenvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG021301305)
 
 
 
 ### § 24 Anwendung des Betriebsverfassungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021404305)
 
 (1) In den Postnachfolgeunternehmen findet nach deren Eintragung in
 das Handelsregister das Betriebsverfassungsgesetz Anwendung, soweit in
@@ -713,10 +746,12 @@ Postnachfolgeunternehmen oder den Bund.
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021501305)
 
 
 
 ### § 26 Wahlen, Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021603305)
 
 Die Vorschriften des Betriebsverfassungsgesetzes über Wahl und
 Zusammensetzung des Betriebsrats sowie über seine Ersatzmitglieder
@@ -769,11 +804,13 @@ finden mit folgender Maßgabe Anwendung:
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021701308)
 
 (weggefallen)
 
 
 ### § 28 Beteiligung des Betriebsrats in Angelegenheiten der Beamten
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021804119)
 
 (1) Der Betriebsrat ist in den Angelegenheiten der Beamten nach § 78
 Absatz 1, § 84 Absatz 1 Nummer 4 bis 6 und § 86 Satz 1 bis 3 des
@@ -796,6 +833,7 @@ Schwerbehindertenvertretung.
 
 
 ### § 29 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE021904119)
 
 (1) Der Betriebsrat hat in den in § 78 Absatz 1 des
 Bundespersonalvertretungsgesetzes genannten Personalangelegenheiten
@@ -857,6 +895,7 @@ entsprechend.
 
 
 ### § 30 Besetzung der Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022004119)
 
 In Angelegenheiten des § 78 Absatz 1 des
 Bundespersonalvertretungsgesetzes sowie des § 4 Abs. 4 Satz 1 und 2
@@ -872,6 +911,7 @@ Beamter befinden
 
 
 ### § 31 Beteiligung des Betriebsrats und der Schwerbehindertenvertretung bei Entscheidungen des Bundesministeriums der Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022106119)
 
 In Angelegenheiten, in denen das Bundesministerium der Finanzen gemäß
 § 3 Abs. 2 Satz 2, Absatz 6 und 8 sowie § 20 Abs. 2 Entscheidungen und
@@ -887,6 +927,7 @@ zu beteiligen.
 
 
 ### § 32 Gesamtbetriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022200000)
 
 (1) Die §§ 47 bis 53 des Betriebsverfassungsgesetzes finden mit
 folgender Maßgabe Anwendung:
@@ -910,6 +951,7 @@ der Beamten gelten die §§ 28 bis 31 entsprechend.
 
 
 ### § 33 Konzernbetriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022302305)
 
 (1) Die §§ 54 bis 59 des Betriebsverfassungsgesetzes finden mit
 folgender Maßgabe Anwendung:
@@ -935,6 +977,7 @@ die §§ 28 bis 31 entsprechend.
 
 
 ### § 34 Änderung der Wahlordnungen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022404119)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern,
@@ -946,6 +989,7 @@ Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
 
 ### § 35 Gesetzesvorrang
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022500000)
 
 Durch Tarifvertrag oder Betriebsvereinbarung kann die betriebliche
 Interessenvertretung der Beamten nicht abweichend von den Vorschriften
@@ -953,6 +997,7 @@ dieses Abschnitts geregelt werden.
 
 
 ### § 36 Sprecherausschuss
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022601305)
 
 (1) In den Postnachfolgeunternehmen gilt nach deren Eintragung in das
 Handelsregister das Sprecherausschußgesetz mit den in dieser
@@ -971,6 +1016,7 @@ Hinblick auf deren Status keine Anwendung.
 
 
 ### § 37 Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE022703119)
 
 Die Vorbereitung der Neuwahl der Schwerbehindertenvertretungen
 bestimmt sich nach den Vorschriften des Neunten Buches
@@ -978,10 +1024,12 @@ Sozialgesetzbuch und der Wahlordnung Schwerbehindertenvertretung.
 
 
 ## Abschnitt 9 - Rechtsverhältnisse der Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNG021400305)
 
 
 
 ### § 38 Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE023000305)
 
 (1) Postnachfolgeunternehmen sind
 
@@ -1010,6 +1058,7 @@ werden.
 
 
 ### § 39 Umwandlung und Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/postpersrg/BJNR235300994.html#BJNR235300994BJNE023102124)
 
 (1) Bei der Entscheidung über die Umwandlung eines
 Postnachfolgeunternehmens durch Verschmelzung, Spaltung (§ 123 des

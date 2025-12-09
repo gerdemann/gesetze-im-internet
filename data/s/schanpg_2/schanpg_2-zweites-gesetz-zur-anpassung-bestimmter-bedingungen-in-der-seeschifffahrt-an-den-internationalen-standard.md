@@ -48,20 +48,24 @@ Dieses Gesetz dient zugleich der Umsetzung der folgenden Richtlinien:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000100305)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000200305)
 
 -
 
 
 ## (XXXX) Art 3 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000300305)
 
 
 
 ## Art 7 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000400305)
 
 Die auf den Artikeln 3 und 4 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
@@ -69,6 +73,7 @@ Ermächtigungen durch Rechtsverordnung geändert werden.
 
 
 ## Art 8 Neubekanntmachung des Seeaufgabengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000500305)
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen kann den
 Wortlaut des Seeaufgabengesetzes in der vom Inkrafttreten dieses
@@ -76,6 +81,7 @@ Gesetzes an geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 9 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000600305)
 
 (1) Das Seeunfalluntersuchungsgesetz vom 6. Dezember 1985 (BGBl. I S.
 2146), zuletzt geändert durch Artikel 275 der Verordnung vom 29.
@@ -92,6 +98,7 @@ Gesetzes.
 
 
 ## Art 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schanpg_2/BJNR181500002.html#BJNR181500002BJNE000700305)
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tage nach der
 Verkündung in Kraft.

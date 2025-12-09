@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung, Zweck, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000101123)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine
 bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1.
@@ -50,6 +51,7 @@ Außenstellen als Haupt- oder Nebenstellen einzurichten.
 
 
 ## § 2 Aufgaben, Vermögen, Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000200000)
 
 (1) Auf die Bundesanstalt gehen die Aufgaben über, die am 31. Dezember
 2004 den Bundesvermögensämtern, den Bundesforstämtern und den
@@ -116,6 +118,7 @@ rechtlichen Vertrag weitere Aufgaben übertragen.
 
 
 ## § 3 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000301123)
 
 (1) Die Bundesanstalt untersteht der Rechtsaufsicht des
 Bundesministeriums der Finanzen.
@@ -128,6 +131,7 @@ Bundesministerium der Finanzen.
 
 
 ## § 4 Organe, Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000401123)
 
 (1) Die Bundesanstalt wird von einem Vorstand geleitet und vertreten.
 Er besteht aus der Sprecherin oder dem Sprecher und bis zu zwei
@@ -239,6 +243,7 @@ Die Satzung wird im Bundesanzeiger veröffentlicht.
 
 
 ## § 5 Rechtsstellung der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000501160)
 
 (1) Die Mitglieder des Vorstandes werden für die Dauer von bis zu fünf
 Jahren berufen. Verlängerungen sind zulässig. Die Mitglieder des
@@ -316,6 +321,7 @@ Berufssoldatinnen und Berufssoldaten entsprechend.
 
 
 ## § 6 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000601123)
 
 (1) Die Bundesanstalt deckt ihren Aufwand für die ihr nach den §§ 1
 und 2 übertragenen Aufgaben aus den Erträgen der Verwaltung und
@@ -336,6 +342,7 @@ Bund richten.
 
 
 ## § 7 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000701123)
 
 (1) Der Vorstand stellt vor Beginn des Geschäftsjahres einen
 Wirtschaftsplan auf, der
@@ -362,6 +369,7 @@ Jahresüberschuss der Bundesanstalt orientieren.
 
 
 ## § 8 Buchung, Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000801123)
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen
 Buchführung.
@@ -380,12 +388,14 @@ gilt entsprechend.
 
 
 ## § 9 Prüfungsrecht des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE000900000)
 
 Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der
 Bundeshaushaltsordnung.
 
 
 ## § 10 Anwendung des Haushaltsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001001123)
 
 (1) Die Bundesanstalt handelt nach den Grundsätzen der
 Wirtschaftlichkeit und Sparsamkeit entsprechend § 7 der
@@ -402,6 +412,7 @@ Fassung.
 
 
 ## § 11 Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001102123)
 
 (1) Der Bundesanstalt wird das Recht verliehen, Beamtinnen und Beamte
 zu haben. Die Übernahme von Beamtinnen und Beamten anderer
@@ -428,6 +439,7 @@ zu veröffentlichen.
 
 
 ## § 12 Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001200000)
 
 (1) Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der
 Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und
@@ -442,6 +454,7 @@ erforderlich ist. Satz 1 gilt für die sonstige Gewährung von
 
 
 ## § 13 Auflösung von Organisationseinheiten der Bundesvermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001300000)
 
 Die Bundesvermögensämter, die Bundesforstämter und die
 Bundesvermögensabteilungen der Oberfinanzdirektionen als
@@ -450,6 +463,7 @@ des 31. Dezember 2004 aufgelöst.
 
 
 ## § 14 Überleitung von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001400000)
 
 Bei den in § 13 genannten Organisationseinheiten am 31. Dezember 2004
 anhängige Verwaltungsverfahren werden von der Bundesanstalt
@@ -458,9 +472,11 @@ Bundes und vertritt ihn auch vor Gericht.
 
 
 ## (XXXX) §§ 15 bis 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001501123)
 
 
 ## § 18 Überleitung von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001801160)
 
 (1) Die Beamtinnen und Beamten der in § 13 genannten
 Organisationseinheiten sind mit Wirkung vom 1. Januar 2005 Beamtinnen
@@ -481,6 +497,7 @@ Ausbildungsverhältnisse ein.
 
 
 ## § 19 Verteilung der Versorgungslasten
+[Direktlink](https://www.gesetze-im-internet.de/bimag/BJNR323510004.html#BJNR323510004BJNE001900000)
 
 (1) Der Bund erbringt die Versorgungs- und Beihilfeleistungen für die
 ehemaligen Beamtinnen und Beamten der Bundesvermögensverwaltung.

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schvermssg_nd_bkv/BJNR202730972.html#BJNR202730972BJNE000100328)
 
 Auf Grund des Artikels 2 des Gesetzes zu den Änderungen vom 21. Mai
 1965 des Übereinkommens über ein einheitliches System der
@@ -29,6 +30,7 @@ wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schvermssg_nd_bkv/BJNR202730972.html#BJNR202730972BJNE000200328)
 
 Die Änderungen der internationalen Vorschriften für die
 Schiffsvermessung, die in Oslo am 21. Mai 1965 von der Konferenz der
@@ -41,16 +43,19 @@ Geltungsbereich dieser Verordnung anzuwenden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schvermssg_nd_bkv/BJNR202730972.html#BJNR202730972BJNE000301308)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schvermssg_nd_bkv/BJNR202730972.html#BJNR202730972BJNE000400328)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schvermssg_nd_bkv/BJNR202730972.html#BJNR202730972BJNE000500328)
 
 Der Bundesminister für Verkehr
 

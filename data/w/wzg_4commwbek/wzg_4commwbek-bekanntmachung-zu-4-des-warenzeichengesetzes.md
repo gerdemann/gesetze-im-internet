@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4commwbek/BJNR007470975.html#BJNR007470975BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -34,11 +35,13 @@ ausgeschlossen ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4commwbek/BJNR007470975.html#BJNR007470975BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Kennzeichen des Sekretariats des Commonwealth
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4commwbek/BJNR007470975.html#BJNR007470975BJNE000200303)
 
 (Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1975, 747)

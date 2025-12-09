@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000200000)
 
 Der Gebührengläubiger erhebt für individuell zurechenbare öffentliche
 Leistungen vom Gebührenschuldner Gebühren und Auslagen nach Maßgabe
@@ -27,6 +28,7 @@ dieses Gesetzes und der Gebührenverordnungen nach § 22 Absatz 3 und 4.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000306130)
 
 (1) Dieses Gesetz gilt für die Gebühren und Auslagen öffentlich-
 rechtlicher Verwaltungstätigkeit der Behörden des Bundes und der
@@ -98,6 +100,7 @@ bestimmte Leistungen ausschließt.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000401360)
 
 (1) Individuell zurechenbare öffentliche Leistungen sind
 
@@ -159,6 +162,7 @@ Einzelfall nach § 12 Absatz 1 oder 2 erhebt.
 
 
 ## § 4 Entstehung der Gebührenschuld
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000500000)
 
 (1) Die Gebührenschuld entsteht mit Beendigung der individuell
 zurechenbaren öffentlichen Leistung. Bedarf diese Leistung einer
@@ -183,6 +187,7 @@ deren Beendigung.
 
 
 ## § 5 Gebührengläubiger
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000600000)
 
 Gebührengläubiger ist
 
@@ -198,6 +203,7 @@ Gebührengläubiger ist
 
 
 ## § 6 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000700000)
 
 (1) Zur Zahlung von Gebühren ist derjenige verpflichtet,
 
@@ -217,6 +223,7 @@ Gebührengläubiger ist
 
 
 ## § 7 Sachliche Gebührenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000800000)
 
 Gebühren werden nicht erhoben
 
@@ -265,6 +272,7 @@ Gebühren werden nicht erhoben
 
 
 ## § 8 Persönliche Gebührenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE000900000)
 
 (1) Die Bundesrepublik Deutschland und die bundesunmittelbaren
 Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts,
@@ -343,6 +351,7 @@ folgende Behörden erbracht wird:
 
 
 ## § 9 Grundlagen der Gebührenbemessung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001000000)
 
 (1) Die Gebühr soll die mit der individuell zurechenbaren öffentlichen
 Leistung verbundenen Kosten aller an der Leistung Beteiligten decken,
@@ -375,6 +384,7 @@ Umsatzsteuer, kann diese der Gebühr hinzugerechnet werden.
 
 
 ## § 10 Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001100000)
 
 (1) Die Gebühren sind nach Maßgabe der Absätze 2 bis 7 festzusetzen,
 wenn
@@ -450,6 +460,7 @@ ersetzten Verwaltungsakt vorgesehen ist.
 
 
 ## § 11 Gebührenarten
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001200000)
 
 Die Gebühren sind wie folgt zu bestimmen:
 
@@ -467,6 +478,7 @@ Die Gebühren sind wie folgt zu bestimmen:
 
 
 ## § 12 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001300000)
 
 (1) Kosten, die nicht bereits nach § 9 Absatz 1 Satz 2 in die Gebühr
 einbezogen sind, werden als Auslagen gesondert in der tatsächlich
@@ -518,6 +530,7 @@ Auslagen sind auch dann zu erheben, wenn die individuell zurechenbare
 
 
 ## § 13 Gebührenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001400000)
 
 (1) Gebühren werden von Amts wegen schriftlich oder elektronisch
 festgesetzt. Die Gebührenfestsetzung soll zusammen mit der
@@ -546,6 +559,7 @@ Festsetzungsfrist läuft nicht ab, solange
 
 
 ## § 14 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001500000)
 
 Die Gebühr wird zehn Tage nach der Bekanntgabe der Gebührenfestsetzung
 an den Gebührenschuldner fällig, sofern die Behörde keinen anderen
@@ -553,6 +567,7 @@ Zeitpunkt festlegt.
 
 
 ## § 15 Vorschusszahlung und Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001600000)
 
 (1) Die Behörde kann eine individuell zurechenbare öffentliche
 Leistung, die auf Antrag zu erbringen ist, von der Zahlung eines
@@ -564,6 +579,7 @@ zur Leistung der Sicherheit zu setzen.
 
 
 ## § 16 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001700000)
 
 (1) Werden Gebühren nicht bis zum Ablauf des Fälligkeitstages
 entrichtet, so ist für jeden angefangenen Monat der Säumnis ein
@@ -600,12 +616,14 @@ die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
 
 ## § 17 Stundung, Niederschlagung und Erlass
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001800000)
 
 Stundung, Niederschlagung und Erlass von festgesetzten Gebühren
 richten sich nach § 59 der Bundeshaushaltsordnung.
 
 
 ## § 18 Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE001900000)
 
 (1) Der Anspruch auf Zahlung von Gebühren verjährt nach fünf Jahren.
 Die Verjährung beginnt mit dem Ablauf des Kalenderjahres, in dem der
@@ -617,6 +635,7 @@ verfolgt werden kann.
 
 
 ## § 19 Unterbrechung der Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE002000000)
 
 (1) Die Verjährung nach § 18 wird unterbrochen durch
 
@@ -695,6 +714,7 @@ sich die Unterbrechung bezieht.
 
 
 ## § 20 Rechtsbehelf
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE002100000)
 
 (1) Die Gebührenfestsetzung kann zusammen mit der Sachentscheidung
 oder selbständig angefochten werden. Der Rechtsbehelf gegen eine
@@ -706,6 +726,7 @@ zu behandeln.
 
 
 ## § 21 Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE002200000)
 
 (1) Überzahlte oder zu Unrecht erhobene Gebühren sind unverzüglich zu
 erstatten, zu Unrecht erhobene Gebühren aber nur, solange ihre
@@ -718,6 +739,7 @@ nicht vor der Unanfechtbarkeit der Gebührenfestsetzung.
 
 
 ## § 22 Gebührenverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE002300000)
 
 (1) Durch Gebührenverordnungen nach Absatz 3 oder 4 sind für
 individuell zurechenbare öffentliche Leistungen Gebühren vorzusehen.
@@ -768,6 +790,7 @@ nach Absatz 3 oder 4 nichts anderes bestimmt ist.
 
 
 ## § 23 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE002403116)
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine individuell
 zurechenbare öffentliche Leistung, die vor dem 15. August 2013
@@ -779,6 +802,7 @@ geltenden Fassung weiter anzuwenden.
 
 
 ## § 24 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgebg/BJNR315410013.html#BJNR315410013BJNE002501116)
 
 § 23 Absatz 2 bis 8 tritt am 1. Oktober 2021 außer Kraft.
 

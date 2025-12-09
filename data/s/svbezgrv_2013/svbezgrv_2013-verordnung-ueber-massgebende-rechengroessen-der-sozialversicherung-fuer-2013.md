@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000100000)
 
 Auf Grund
 
@@ -53,6 +54,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Durchschnittsentgelt in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000200000)
 
 (1) Das Durchschnittsentgelt für das Jahr 2011 beträgt 32 100 Euro.
 
@@ -64,6 +66,7 @@ ergänzt.
 
 
 ## § 2 Bezugsgröße in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000300000)
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahr 2013 jährlich 32 340 Euro und
@@ -75,6 +78,7 @@ monatlich 2 275 Euro.
 
 
 ## § 3 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000400000)
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahr 2013
 
@@ -106,6 +110,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 
 
 ## § 4 Jahresarbeitsentgeltgrenze in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000500000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
 Buches Sozialgesetzbuch für das Jahr 2013 beträgt 52 200 Euro.
@@ -115,6 +120,7 @@ Buches Sozialgesetzbuch für das Jahr 2013 beträgt 47 250 Euro.
 
 
 ## § 5 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000600000)
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:
@@ -143,11 +149,13 @@ ergänzt:
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2013/BJNR236100012.html#BJNR236100012BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/meistprfrglv/BJNR332400997.html#BJNR332400997BJNE000100310)
 
 Auf Grund des § 50a der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der durch
@@ -32,6 +33,7 @@ Technologie:
 
 
 ## § 1 Gleichstellung von Meisterprüfungszeugnissen im Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/meistprfrglv/BJNR332400997.html#BJNR332400997BJNE000200310)
 
 Französische Zeugnisse über das Bestehen der Meisterprüfung werden den
 deutschen Zeugnissen über das Bestehen der Meisterprüfung im Handwerk
@@ -39,17 +41,20 @@ nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/meistprfrglv/BJNR332400997.html#BJNR332400997BJNE000300310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/meistprfrglv/BJNR332400997.html#BJNR332400997BJNE000400310)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ## Anlage Aufstellung der gleichgestellten Meisterprüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/meistprfrglv/BJNR332400997.html#BJNR332400997BJNE000500310)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 3325)
 

@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stbefrabkhrvv/BJNR018220998.html#BJNR018220998BJNE000100305)
 
 Auf Grund des § 15 Abs. 1 Nr. 7 des Kraftfahrzeugsteuergesetzes in der
 Fassung der Bekanntmachung vom 24. Mai 1994 (BGBl. I S. 1102)
@@ -28,6 +29,7 @@ verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/stbefrabkhrvv/BJNR018220998.html#BJNR018220998BJNE000200305)
 
 Fahrzeuge aus dem Hoheitsgebiet der Republik Kroatien werden nach
 Maßgabe des in Zagreb am 9. Dezember 1996 unterzeichneten Abkommens
@@ -39,6 +41,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/stbefrabkhrvv/BJNR018220998.html#BJNR018220998BJNE000300305)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen
 nach seinem Artikel 4 Abs. 1 Satz 2 in Kraft tritt.
@@ -51,6 +54,7 @@ im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stbefrabkhrvv/BJNR018220998.html#BJNR018220998BJNE000400305)
 
 Der Bundesrat hat zugestimmt.
 

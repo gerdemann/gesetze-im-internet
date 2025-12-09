@@ -21,16 +21,19 @@ Zuletzt geändert durch
 Stand: Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000100000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000103130)
 
 (1) Im Sinne dieses Gesetzes
 
@@ -85,6 +88,7 @@ dem Digitale-Dienste-Gesetz in der jeweils geltenden Fassung.
 
 
 ### § 2 Prüfungs- und Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000200000)
 
 (1) Soweit es nach diesem Gesetz auf die Begleitung durch eine
 erziehungsbeauftragte Person ankommt, haben die in § 1 Abs. 1 Nr. 4
@@ -99,6 +103,7 @@ Zweifelsfällen das Lebensalter zu überprüfen.
 
 
 ### § 3 Bekanntmachung der Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000301125)
 
 (1) Veranstalter und Gewerbetreibende haben die nach den §§ 4 bis 13
 für ihre Betriebseinrichtungen und Veranstaltungen geltenden
@@ -122,10 +127,12 @@ jugendbeeinträchtigender Weise erfolgen.
 
 
 ## Abschnitt 2 - Jugendschutz in der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000200000)
 
 
 
 ### § 4 Gaststätten
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000400000)
 
 (1) Der Aufenthalt in Gaststätten darf Kindern und Jugendlichen unter
 16 Jahren nur gestattet werden, wenn eine personensorgeberechtigte
@@ -148,6 +155,7 @@ Kindern und Jugendlichen nicht gestattet werden.
 
 
 ### § 5 Tanzveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000500000)
 
 (1) Die Anwesenheit bei öffentlichen Tanzveranstaltungen ohne
 Begleitung einer personensorgeberechtigten oder erziehungsbeauftragten
@@ -164,6 +172,7 @@ Brauchtumspflege dient.
 
 
 ### § 6 Spielhallen, Glücksspiele
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000600000)
 
 (1) Die Anwesenheit in öffentlichen Spielhallen oder ähnlichen
 vorwiegend dem Spielbetrieb dienenden Räumen darf Kindern und
@@ -177,6 +186,7 @@ der Gewinn in Waren von geringem Wert besteht.
 
 
 ### § 7 Jugendgefährdende Veranstaltungen und Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000700000)
 
 Geht von einer öffentlichen Veranstaltung oder einem Gewerbebetrieb
 eine Gefährdung für das körperliche, geistige oder seelische Wohl von
@@ -189,6 +199,7 @@ wird.
 
 
 ### § 8 Jugendgefährdende Orte
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000800000)
 
 Hält sich ein Kind oder eine jugendliche Person an einem Ort auf, an
 dem ihm oder ihr eine unmittelbare Gefahr für das körperliche,
@@ -211,6 +222,7 @@ Jugendamt über den jugendgefährdenden Ort zu unterrichten.
 
 
 ### § 9 Alkoholische Getränke
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE000902116)
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
 dürfen
@@ -258,6 +270,7 @@ anzubringen.
 
 
 ### § 10 Rauchen in der Öffentlichkeit, Tabakwaren
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001003377)
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
 dürfen Tabakwaren und andere nikotinhaltige Erzeugnisse und deren
@@ -293,10 +306,12 @@ Behältnisse.
 
 
 ## Abschnitt 3 - Jugendschutz im Bereich der Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000301125)
 
 
 
 ### § 10a Schutzziele des Kinder- und Jugendmedienschutzes
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003300125)
 
 Zum Schutz im Bereich der Medien gehören
 
@@ -326,6 +341,7 @@ Zum Schutz im Bereich der Medien gehören
 
 
 ### § 10b Entwicklungsbeeinträchtigende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003400125)
 
 (1) Zu den entwicklungsbeeinträchtigenden Medien nach § 10a Nummer 1
 zählen insbesondere übermäßig ängstigende, Gewalt befürwortende oder
@@ -352,6 +368,7 @@ durch werbende Verweise auf andere Medien.
 
 
 ### § 11 Filmveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001102125)
 
 (1) Die Anwesenheit bei öffentlichen Filmveranstaltungen darf Kindern
 und Jugendlichen nur gestattet werden, wenn die Filme von der obersten
@@ -417,6 +434,7 @@ Zusammenhang mit Filmen vorgeführt werden, die
 
 
 ### § 12 Bildträger mit Filmen oder Spielen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001203130)
 
 (1) Zur Weitergabe geeignete, für die Wiedergabe auf oder das Spiel an
 Bildschirmgeräten mit Filmen oder Spielen programmierte Datenträger
@@ -498,6 +516,7 @@ oberste Landesbehörde für einzelne Anbieter ausschließen.
 
 
 ### § 13 Bildschirmspielgeräte
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001301310)
 
 (1) Das Spielen an elektronischen Bildschirmspielgeräten ohne
 Gewinnmöglichkeit, die öffentlich aufgestellt sind, darf Kindern und
@@ -533,6 +552,7 @@ findet § 12 Abs. 2 Satz 1 bis 3 entsprechende Anwendung.
 
 
 ### § 14 Kennzeichnung von Filmen und Spielprogrammen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001402130)
 
 (1) Filme und Spielprogramme dürfen nicht für Kinder und Jugendliche
 freigegeben werden, wenn sie für Kinder und Jugendliche in der
@@ -646,6 +666,7 @@ der freiwilligen Selbstkontrolle vereinbaren.
 
 
 ### § 14a Kennzeichnung bei Film- und Spielplattformen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003501130)
 
 (1) Film- und Spielplattformen sind Diensteanbieter, die Filme oder
 Spielprogramme in einem Gesamtangebot zusammenfassen und mit
@@ -688,6 +709,7 @@ Gesetzes bleiben unberührt.
 
 
 ### § 15 Jugendgefährdende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001505130)
 
 (1) Medien, deren Aufnahme in die Liste jugendgefährdender Medien nach
 § 24 Abs. 3 Satz 1 bekannt gemacht ist, dürfen als Trägermedien nicht
@@ -789,6 +811,7 @@ Absatzes 1 Nr. 1 bis 6 hinzuweisen.
 
 
 ### § 16 Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001602130)
 
 Die Länder können im Bereich der digitalen Dienste über dieses Gesetz
 hinausgehende Regelungen zum Jugendschutz treffen. Die an die Inhalte
@@ -797,10 +820,12 @@ sich aus dem Jugendmedienschutz-Staatsvertrag.
 
 
 ## Abschnitt 4 - Bundeszentrale für Kinder- und Jugendmedienschutz
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000601125)
 
 
 
 ### § 17 Zuständige Bundesbehörde und Leitung
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001701125)
 
 (1) Zuständig für die Durchführung der Aufgaben, die nach diesem
 Gesetz in bundeseigener Verwaltung ausgeführt werden, ist die
@@ -814,6 +839,7 @@ geleitet (Behördenleitung).
 
 
 ### § 17a Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003601130)
 
 (1) Die Bundeszentrale unterhält eine Prüfstelle für jugendgefährdende
 Medien, die über die Aufnahme von Medien in die Liste
@@ -850,6 +876,7 @@ durchführen.
 
 
 ### § 17b Beirat
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003700125)
 
 Die Bundeszentrale richtet einen Beirat ein, der sie bei der Erfüllung
 der Aufgaben nach § 17a Absatz 2 Satz 1 berät. Dem Beirat gehören bis
@@ -865,6 +892,7 @@ jeweils drei Jahren. Das Nähere regelt eine Geschäftsordnung.
 
 
 ### § 18 Liste jugendgefährdender Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001805130)
 
 (1) Medien, die geeignet sind, die Entwicklung von Kindern oder
 Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und
@@ -945,6 +973,7 @@ vorliegt.
 
 
 ### § 19 Personelle Besetzung der Prüfstelle für jugendgefährdende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE001902130)
 
 (1) Die Prüfstelle für jugendgefährdende Medien besteht aus
 
@@ -1036,6 +1065,7 @@ Stimmen erforderlich.
 
 
 ### § 20 Vorschlagsberechtigte Verbände
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002001130)
 
 (1) Das Vorschlagsrecht nach § 19 Abs. 2 wird innerhalb der
 nachfolgenden Kreise durch folgende Organisationen für je eine
@@ -1178,6 +1208,7 @@ Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.
 
 
 ### § 21 Verfahren der Prüfstelle für jugendgefährdende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002108130)
 
 (1) Die Prüfstelle für jugendgefährdende Medien wird in der Regel auf
 Antrag tätig.
@@ -1321,6 +1352,7 @@ und einen regelmäßigen Informationsaustausch pflegen.
 
 
 ### § 22 Aufnahme periodisch erscheinender Medien in die Liste jugendgefährdender Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002201125)
 
 Periodisch erscheinende Medien können auf die Dauer von drei bis zwölf
 Monaten in die Liste jugendgefährdender Medien aufgenommen werden,
@@ -1330,6 +1362,7 @@ politische Zeitschriften sowie für deren digitale Ausgaben.
 
 
 ### § 23 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002302130)
 
 (1) In einem vereinfachten Verfahren kann die Prüfstelle für
 jugendgefährdende Medien über die Aufnahme von Medien in die Liste
@@ -1383,6 +1416,7 @@ Verlängerung.
 
 
 ### § 24 Führung der Liste jugendgefährdender Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002402130)
 
 (1) Die Bundeszentrale führt die Liste jugendgefährdender Medien nach
 § 17a Absatz 1.
@@ -1429,6 +1463,7 @@ gemeinsame Listenstruktur mit der ab diesem Tag zu führenden Liste
 
 
 ### § 24a Vorsorgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003801130)
 
 (1) Die Bundeszentrale für Kinder- und Jugendmedienschutz ist gemäß §
 12 Absatz 2 Satz 1 des Digitale-Dienste-Gesetzes zuständige Behörde
@@ -1511,6 +1546,7 @@ zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
 
 
 ### § 24b Befugnisse und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003901130)
 
 (1) Im Rahmen ihrer Zuständigkeit nach § 12 Absatz 2 Satz 1 des
 Digitale-Dienste-Gesetzes verfügt die Bundeszentrale unter
@@ -1546,6 +1582,7 @@ Jugendmedienschutz Gelegenheit zur Stellungnahme.
 
 
 ### § 25 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002501125)
 
 (1) Für Klagen gegen eine Entscheidung der Prüfstelle für
 jugendgefährdende Medien, ein Medium in die Liste jugendgefährdender
@@ -1568,10 +1605,12 @@ Besetzung nach § 19 Abs. 5 herbeizuführen.
 
 
 ## Abschnitt 5 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000700000)
 
 
 
 ### § 26 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002601125)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Näheres über den Sitz und das Verfahren der
@@ -1580,10 +1619,12 @@ jugendgefährdender Medien zu regeln.
 
 
 ## Abschnitt 6 - Ahndung von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000800000)
 
 
 
 ### § 27 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002701125)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -1649,6 +1690,7 @@ Vorführen ihre Erziehungspflicht gröblich verletzt.
 
 
 ### § 28 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002808130)
 
 (1) Ordnungswidrig handelt, wer als Veranstalter oder
 Gewerbetreibender vorsätzlich oder fahrlässig
@@ -1814,10 +1856,12 @@ Nummer 2 und 4 die Bundeszentrale für Kinder- und Jugendmedienschutz.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNG000900000)
 
 
 
 ### § 29 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE002900000)
 
 Auf die nach bisherigem Recht mit "Nicht freigegeben unter achtzehn
 Jahren" gekennzeichneten Filmprogramme für Bildträger findet § 18 Abs.
@@ -1826,6 +1870,7 @@ Jahren" gekennzeichneten Filmprogramme für Bildträger findet § 18 Abs.
 
 
 ### § 29a Weitere Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003201125)
 
 Beisitzerinnen und Beisitzer der Bundesprüfstelle für
 jugendgefährdende Medien und ihre Vertreterinnen und Vertreter, die
@@ -1836,6 +1881,7 @@ Vertreter berufen werden.
 
 
 ### § 29b Bericht und Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE004201130)
 
 Dieses Gesetz wird fünf Jahre nach Inkrafttreten evaluiert, um zu
 untersuchen, inwiefern die in § 10a niedergelegten Schutzziele
@@ -1848,6 +1894,7 @@ vorzulegen.
 
 
 ### § 30 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/juschg/BJNR273000002.html#BJNR273000002BJNE003000000)
 
 (1) Dieses Gesetz tritt an dem Tag in Kraft, an dem der Staatsvertrag
 der Länder über den Schutz der Menschenwürde und den Jugendschutz in

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000000000)
 
 Auf Grund des § 7 des Podologengesetzes vom 4. Dezember 2001 (BGBl. I
 S. 3320) verordnet das Bundesministerium für Gesundheit im Benehmen
@@ -27,6 +28,7 @@ mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000101130)
 
 (1) Die Ausbildung für Podologinnen und Podologen umfasst mindestens
 den in der Anlage 1 aufgeführten theoretischen und praktischen
@@ -51,6 +53,7 @@ nach dem Muster der Anlage 2 nachzuweisen.
 
 
 ## § 2 Staatliche Prüfung, staatliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000200000)
 
 (1) Die staatliche Prüfung für die Ausbildung nach § 4 des
 Podologengesetzes umfasst einen schriftlichen, einen mündlichen und
@@ -72,6 +75,7 @@ des Gesetzes gilt Satz 2 entsprechend.
 
 
 ## § 3 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000301116)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuss gebildet, der
 mindestens aus folgenden Mitgliedern besteht:
@@ -120,6 +124,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ## § 4 Zulassung zur staatlichen Prüfung, Zulassung zur staatlichen Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000402310)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf
 Antrag des Prüflings über die Zulassung zur Prüfung und setzt die
@@ -158,6 +163,7 @@ berücksichtigen.
 
 
 ## § 5 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000501130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -198,6 +204,7 @@ bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit
 
 
 ## § 6 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000601130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf die folgenden
 Fächer:
@@ -241,6 +248,7 @@ Interesse besteht.
 
 
 ## § 7 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000701130)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die folgenden
 Fächer:
@@ -285,6 +293,7 @@ benotet wird.
 
 
 ## § 8 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000800000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -292,6 +301,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ## § 9 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE000901130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -361,6 +371,7 @@ benotet:
 
 
 ## § 10 Bestehen und Wiederholung der staatlichen Prüfung, Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001000000)
 
 (1) Die staatliche Prüfung nach § 2 Abs. 1 und Abs. 3 Satz 3 ist
 bestanden, wenn jeder der darin vorgeschriebenen Prüfungsteile
@@ -394,6 +405,7 @@ spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 
 
 ## § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001100000)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
 einem Teil der Prüfung zurück, so hat er die Gründe für seinen
@@ -412,6 +424,7 @@ Teil der Prüfung als nicht bestanden. § 10 Abs. 4 gilt entsprechend.
 
 
 ## § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001200000)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -426,6 +439,7 @@ und 4 gilt entsprechend.
 
 
 ## § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001300000)
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei Prüflingen,
 die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße
@@ -438,6 +452,7 @@ Abschluss der Prüfung zulässig.
 
 
 ## § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001400000)
 
 Auf Antrag ist dem Prüfling nach Abschluss der Prüfung Einsicht in
 seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten
@@ -446,6 +461,7 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## § 15 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001500000)
 
 Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes
 für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach
@@ -454,6 +470,7 @@ Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001604116)
 
 (1) Antragstellerinnen oder Antragsteller, die eine Erlaubnis nach § 1
 des Podologengesetzes beantragen, können zum Nachweis, dass die
@@ -520,6 +537,7 @@ Gleichstellung ergibt.
 
 
 ## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002801130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Podologengesetzes beantragen, haben einen Anpassungslehrgang nach
@@ -588,6 +606,7 @@ werden kann.
 
 
 ## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002403130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Podologengesetzes beantragen, haben einen Anpassungslehrgang nach
@@ -683,6 +702,7 @@ dem Muster der Anlage 7 erteilt.
 
 
 ## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002502116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis nach § 1 Absatz 1 Satz 1 des Podologengesetzes in Verbindung
@@ -736,16 +756,19 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001700000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001800000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE001900000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 16 - 22
 
@@ -2379,6 +2402,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 16 - 22
 
 
 ## Anlage 2 (zu § 1 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002000000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 23)
 ..............................
@@ -2410,6 +2434,7 @@ Unterschrift(en) der Schulleitung
 
 
 ## Anlage 3 (zu § 10 Abs. 2 S 1)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002100000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 24)
 Die/Der Vorsitzende
@@ -2440,6 +2465,7 @@ des Prüfungsausschusses)
 
 
 ## Anlage 4 (zu § 10 Abs. 3 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002200000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 25)
 Die/Der Vorsitzende
@@ -2473,6 +2499,7 @@ des Prüfungsausschusses)
 
 
 ## Anlage 5 (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002300000)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 26)
 Urkunde
@@ -2496,6 +2523,7 @@ Ort, Datum
 
 
 ## Anlage 5a (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002900116)
 
 (Fundstelle: BGBl. I 2016, 938)
 
@@ -2538,6 +2566,7 @@ Unterschrift(en) der Einrichtung
 
 
 ## Anlage 5b (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE003000116)
 
 (Fundstelle: BGBl. I 2016, 939)
 
@@ -2600,6 +2629,7 @@ Ort, Datum
 
 
 ## Anlage 6 (zu § 16b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002601116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2695,6 +2725,7 @@ Ort, Datum
 [^F781546_01_BJNR001200002BJNE002601116]: 
 
 ## Anlage 7 (zu § 16b Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/podaprv/BJNR001200002.html#BJNR001200002BJNE002701116)
 
 
 *    *   Die/der Vorsitzende

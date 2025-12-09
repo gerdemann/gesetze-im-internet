@@ -31,6 +31,7 @@ Mittelbare änderung durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000103116)
 
 (1) Dieses Gesetz regelt den Schutz und die Vorsorge im Hinblick auf
 schädliche Wirkungen nichtionisierender Strahlung, die durch die
@@ -69,6 +70,7 @@ Medizinprodukterechts bleiben unberührt.
 
 
 ## § 2 Schutz in der Medizin
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000200000)
 
 (1) In Ausübung der Heil- oder Zahnheilkunde am Menschen dürfen beim
 Betrieb von Anlagen, die nichtionisierende Strahlung aussenden können,
@@ -104,6 +106,7 @@ nach § 5 festgelegten weiteren Anforderungen einzuhalten.
 
 
 ## § 3 Schutz bei kosmetischen oder sonstigen Anwendungen
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000300000)
 
 Anlagen, die nichtionisierende Strahlung aussenden können, dürfen zu
 kosmetischen Zwecken oder sonstigen Anwendungen am Menschen außerhalb
@@ -113,6 +116,7 @@ Anforderungen eingehalten werden.
 
 
 ## § 4 Nutzungsverbot für Minderjährige
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000400000)
 
 Die Benutzung von Anlagen nach § 3 zur Bestrahlung der Haut mit
 künstlicher ultravioletter Strahlung in Sonnenstudios, ähnlichen
@@ -121,6 +125,7 @@ Minderjährigen nicht gestattet werden.
 
 
 ## § 5 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000500000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, dass zum Schutz der Menschen
@@ -205,6 +210,7 @@ Anlagen nach § 3 bestimmten Anforderungen genügen muss, insbesondere
 
 
 ## § 6 Befugnisse der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000601116)
 
 (1) Die zuständige Behörde kann zur Überwachung der Einhaltung der
 Vorschriften dieses Gesetzes und der auf § 5 gestützten
@@ -236,6 +242,7 @@ teilweise untersagen, bis die Anordnung erfüllt ist.
 
 
 ## § 6a Bekanntgabe von Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000900310)
 
 (1) Auf Antrag hat die zuständige Behörde die Stelle bekannt zu geben,
 die berechtigt ist, eine Anlage nach § 6 Absatz 2 Nummer 1 zu
@@ -278,6 +285,7 @@ gleich.
 
 
 ## § 7 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000700000)
 
 Die Person, die eine Anlage nach den Vorschriften dieses Gesetzes
 betreibt, hat die Kosten für Überwachungsmaßnahmen oder Anordnungen
@@ -289,6 +297,7 @@ nicht eingehalten werden.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nisg/BJNR243310009.html#BJNR243310009BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

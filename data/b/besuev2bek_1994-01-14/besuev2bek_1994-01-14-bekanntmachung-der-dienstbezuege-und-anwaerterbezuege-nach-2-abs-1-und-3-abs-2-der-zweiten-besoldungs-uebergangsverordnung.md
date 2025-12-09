@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000100307)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
 Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035)
@@ -37,6 +38,7 @@ Der Bundesminister des Innern
 (Anlage IV des BBesG)
 
 ## Anlage I A Gültig ab 1. Mai 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000200307)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 
@@ -979,6 +981,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 122 - 124
 (Anlage V des BBesG)
 
 ## Anlage I B Gültig ab 1. Mai 1993, Satz 2 unterhalb der Ortszuschlagstabelle gültig ab 1. Januar 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000300307)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 125
 
@@ -1083,6 +1086,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage VIII des BBesG)
 
 ## Anlage I C Gültig ab 1. Mai 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000400307)
 
 Fundstelle des Originaltextes: BGBl. I 1994, S. 126
 
@@ -1178,6 +1182,7 @@ DM)
 (Anlage IX des BBesG)
 
 ## Anlage I D Gültig ab 1. Mai 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000500307)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, S. 127 - 129)
 
@@ -2453,6 +2458,7 @@ DM)
 (Anlage IV des BBesG)
 
 ## Anlage II A Gültig ab 1. Juli 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000600307)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 
@@ -3395,6 +3401,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 130 - 132
 (Anlage V des BBesG)
 
 ## Anlage II B Gültig ab 1. Juli 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000700307)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 133
 
@@ -3500,6 +3507,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage VIII des BBesG)
 
 ## Anlage II C Gültig ab 1. Juli 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000800307)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 134)
 
@@ -3602,6 +3610,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage IX des BBesG)
 
 ## Anlage II D Gültig ab 1. Juli 1993
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-01-14/BJNR012100994.html#BJNR012100994BJNE000900307)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 135 - 137)
 

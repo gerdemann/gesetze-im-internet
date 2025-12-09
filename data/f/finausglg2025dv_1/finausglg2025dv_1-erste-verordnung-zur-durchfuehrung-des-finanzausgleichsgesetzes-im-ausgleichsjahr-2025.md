@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2025dv_1/BJNR0630A0025.html#BJNR0630A0025BJNE000100000)
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes, von denen §
 14 zuletzt durch Artikel 1 Nummer 2 des Gesetzes vom 30. Juli 2024
@@ -27,6 +28,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2025
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2025dv_1/BJNR0630A0025.html#BJNR0630A0025BJNE000200000)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzkraftausgleichs im Ausgleichsjahr 2025 wird der Zahlungsverkehr
@@ -160,11 +162,13 @@ monatlichen Teilbeträgen jeweils zum 15. des Folgemonats überwiesen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2025dv_1/BJNR0630A0025.html#BJNR0630A0025BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2025dv_1/BJNR0630A0025.html#BJNR0630A0025BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

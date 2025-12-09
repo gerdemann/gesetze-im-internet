@@ -21,9 +21,11 @@ Geändert durch
 Stand: § 22 ist gem. Bek. v. 22.7.2021 I 3141 am 10.7.2021 in Kraft getreten
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000100000)
 
 Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
@@ -81,6 +83,7 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
 
 ### § 2 Geschäft des Reisesicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000200000)
 
 (1) Das Geschäft eines Reisesicherungsfonds besteht
 
@@ -113,9 +116,11 @@ erfüllen.
 
 
 ## Abschnitt 2 - Fondsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNG000200000)
 
 
 ### § 3 Zweck des Fondsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000300000)
 
 Der Reisesicherungsfonds darf das Fondsvermögen nur verwenden zur
 
@@ -136,6 +141,7 @@ Der Reisesicherungsfonds darf das Fondsvermögen nur verwenden zur
 
 
 ### § 4 Zielkapital
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000400000)
 
 (1) Der Reisesicherungsfonds muss in seinem Fondsvermögen über
 Finanzmittel verfügen, die in einem angemessenen Verhältnis zu seinen
@@ -149,6 +155,7 @@ der Reiseanbieter nach § 7 zu bilden.
 
 
 ### § 5 Bemessung des Zielkapitals
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000500000)
 
 (1) Bei der Bemessung des Zielkapitals ist hinsichtlich der Erfüllung
 der Ansprüche von Reisenden mindestens der Fall einer gleichzeitigen
@@ -199,6 +206,7 @@ des Zielkapitals relevante Prozentsatz wie folgt herabgesetzt werden:
 
 
 ### § 6 Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000600000)
 
 (1) Der Reisesicherungsfonds darf den Abschluss eines
 Absicherungsvertrags (§ 651r Absatz 2 Satz 1 des Bürgerlichen
@@ -252,6 +260,7 @@ behandelt.
 
 
 ### § 7 Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000700000)
 
 (1) Reiseanbieter, mit denen der Reisesicherungsfonds
 Absicherungsverträge abschließt, sind verpflichtet, durch Entgelte zur
@@ -275,6 +284,7 @@ einheitlich erfolgen.
 
 
 ### § 7a Steuern
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE002400360)
 
 (1) Die Entgelte im Sinne des § 7 Absatz 1 und die Gegenleistungen im
 Sinne des § 16 Absatz 1 Satz 2 Nummer 2 unterliegen beim
@@ -296,9 +306,11 @@ ausgeschlossen oder beschränkt wird.
 
 
 ## Abschnitt 3 - Geschäftsorganisation des Reisesicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNG000300000)
 
 
 ### § 8 Allgemeine Anforderungen an die Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000800000)
 
 Der Reisesicherungsfonds muss über eine Geschäftsorganisation
 verfügen, die wirksam und ordnungsgemäß ist und die dem Zweck, dem
@@ -308,6 +320,7 @@ Bürgerlichen Gesetzbuchs, angemessen ist.
 
 
 ### § 9 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE000900000)
 
 Der Reisesicherungsfonds muss einen Beirat haben, der die
 Geschäftsführung unterstützt und berät. In dem Beirat müssen
@@ -327,12 +340,14 @@ mindestens die folgenden Interessen angemessen repräsentiert sein:
 
 
 ### § 10 Abtretung von Geschäftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001000000)
 
 Der Reisesicherungsfonds muss sicherstellen, dass eine Abtretung von
 Geschäftsanteilen nur mit Zustimmung aller Gesellschafter möglich ist.
 
 
 ### § 11 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001100000)
 
 (1) Der Reisesicherungsfonds muss sicherstellen, dass seine Auflösung
 
@@ -354,9 +369,11 @@ nicht sein, wer nicht von der Aufsichtsbehörde benannt worden ist.
 
 
 ## Abschnitt 4 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNG000400000)
 
 
 ### § 12 Erlaubnis; vorläufige Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001200000)
 
 (1) Ein Reisesicherungsfonds bedarf zur Aufnahme des Geschäftsbetriebs
 der Erlaubnis der Aufsichtsbehörde. Die Erlaubnis wird vorbehaltlich
@@ -383,12 +400,14 @@ Geschäftsbetriebs der Reiseanbieter erforderlich ist.
 
 
 ### § 13 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001300000)
 
 Widerspruch und Anfechtungsklage gegen die Erteilung der Erlaubnis und
 der vorläufigen Erlaubnis haben keine aufschiebende Wirkung.
 
 
 ### § 14 Wirkung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001400000)
 
 Mit der Erteilung der Erlaubnis ist der Reisesicherungsfonds
 berechtigt,
@@ -410,6 +429,7 @@ berechtigt,
 
 
 ### § 15 Kontrahierungszwang
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001500000)
 
 Reiseanbieter haben gegen den Reisesicherungsfonds einen Anspruch auf
 Abschluss eines Absicherungsvertrags zu den allgemeinen
@@ -417,6 +437,7 @@ Absicherungsbedingungen des Reisesicherungsfonds.
 
 
 ### § 16 Übernahme fortbestehender Einstandspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001600000)
 
 (1) Jeder Vertrag, mit dem der Reisesicherungsfonds fortbestehende
 Einstandspflichten eines Versicherungsunternehmens oder
@@ -453,6 +474,7 @@ Vorlage eines angepassten Sicherungsscheins mitzuteilen.
 
 
 ### § 17 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001700000)
 
 (1) Die Aufsichtsbehörde widerruft die Erlaubnis, wenn der
 Reisesicherungsfonds aufgelöst wird.
@@ -485,9 +507,11 @@ Rechtsträger nach Absatz 3 Satz 2 Nummer 2 nicht Liquidator sein.
 
 
 ## Abschnitt 5 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNG000500000)
 
 
 ### § 18 Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001800000)
 
 Aufsichtsbehörde ist das Bundesministerium der Justiz und für
 Verbraucherschutz. Das Bundesministerium der Justiz und für
@@ -496,6 +520,7 @@ der Aufsichtsbehörde dem Bundesamt für Justiz übertragen.
 
 
 ### § 19 Aufgaben und Befugnisse der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE001900000)
 
 (1) Die Aufsichtsbehörde hat insbesondere Missständen beim
 Reisesicherungsfonds entgegenzuwirken, die
@@ -519,6 +544,7 @@ erforderlich sind, solche Missstände zu beseitigen oder zu verhindern.
 
 
 ### § 20 Geschäftsbericht; Finanzierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE002000000)
 
 (1) Der Reisesicherungsfonds legt der Aufsichtsbehörde spätestens zum
 30\. März eines jeden Jahres Folgendes vor:
@@ -540,15 +566,18 @@ Berechnung des Zielkapitals dar und begründet die Höhe der Entgelte.
 
 
 ### § 21 Änderungen des Gesellschaftsvertrags und der allgemeinen Absicherungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE002100000)
 
 Änderungen des Gesellschaftsvertrags und der allgemeinen
 Absicherungsbedingungen bedürfen der Genehmigung der Aufsichtsbehörde.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNG000600000)
 
 
 ### § 22 Staatliche Absicherung
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE002200000)
 
 (1) Solange und soweit der Reisesicherungsfonds nicht über
 ausreichendes Fondsvermögen verfügt, um die in § 3 Nummer 1 und 2
@@ -598,6 +627,7 @@ Bundesrepublik Deutschland von dem Reisesicherungsfonds ein Entgelt.
 
 
 ### § 23 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rsg/BJNR211410021.html#BJNR211410021BJNE002300000)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und

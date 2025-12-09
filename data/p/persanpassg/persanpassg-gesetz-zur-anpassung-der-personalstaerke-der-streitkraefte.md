@@ -20,10 +20,12 @@ Geändert durch
 
 
 ## Abschnitt 1 - Dienstrecht
+[Direktlink](https://www.gesetze-im-internet.de/persanpassg/BJNR401900001.html#BJNR401900001BJNG000100305)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/persanpassg/BJNR401900001.html#BJNR401900001BJNE000301310)
 
 (1) In den Jahren 2007 bis 2011 können bis zu 1.200 Berufssoldaten mit
 ihrer Zustimmung vor Überschreiten der für sie maßgeblichen
@@ -56,10 +58,12 @@ entsprechend.
 
 
 ## Abschnitt 2 - Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/persanpassg/BJNR401900001.html#BJNR401900001BJNG000200305)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/persanpassg/BJNR401900001.html#BJNR401900001BJNE000400305)
 
 Die Versorgung der von § 1 erfassten Berufssoldaten und der
 Berufssoldaten, deren Dienstverhältnis nach § 45a des Soldatengesetzes
@@ -69,6 +73,7 @@ Maßgabe der folgenden Vorschriften.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/persanpassg/BJNR401900001.html#BJNR401900001BJNE000501377)
 
 (1) § 27 Absatz 1 des Soldatenversorgungsgesetzes findet auch
 Anwendung auf Berufssoldaten, die nach § 1 in den Ruhestand versetzt
@@ -122,6 +127,7 @@ besonderen Altersgrenze gilt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/persanpassg/BJNR401900001.html#BJNR401900001BJNE000601377)
 
 Im Falle der Umwandlung eines Dienstverhältnisses im Sinne des § 45a
 des Soldatengesetzes bis zum 31. Dezember 2008 ist § 19 des

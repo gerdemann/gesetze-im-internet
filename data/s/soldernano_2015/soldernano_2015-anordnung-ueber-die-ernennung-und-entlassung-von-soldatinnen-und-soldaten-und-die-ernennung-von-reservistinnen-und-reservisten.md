@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 51-1-13-9 v. 25.4.2013 I 954 (SoldErnAnO 2013)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000100000)
 
 Nach § 4 Absatz 2 des Soldatengesetzes in der Fassung der
 Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) und Artikel 1 Absatz
@@ -29,9 +30,11 @@ ordne ich an:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNG000100000)
 
 
 ### § 1 Dienstgradbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000200000)
 
 Soweit in dieser Anordnung Dienstgradbezeichnungen des Heeres und der
 Luftwaffe verwendet werden, gelten die jeweiligen Regelungen auch für
@@ -39,6 +42,7 @@ die entsprechenden Dienstgrade der Marine und des Sanitätsdienstes.
 
 
 ### § 2 Vorbehaltene Ernennungen und Entlassungen
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000300000)
 
 Dem Bundesministerium der Verteidigung behalte ich vor:
 
@@ -58,6 +62,7 @@ Dem Bundesministerium der Verteidigung behalte ich vor:
 
 
 ### § 3 Ausschließliche Zuständigkeit der Dienststellenleitung
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000400000)
 
 Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und
 Entlassung obliegt der Leiterin oder dem Leiter der jeweiligen
@@ -68,9 +73,11 @@ andere Angehörige der Dienststelle zu übertragen.
 
 
 ## Abschnitt 2 - Zuständigkeiten für Berufssoldatinnen und Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit, Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, und Soldatinnen und Soldaten, die in ein Reservewehrdienstverhältnis nach § 4 des Reservistinnen- und Reservistengesetzes berufen sind
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNG000200000)
 
 
 ### § 4 Zuständigkeit des Bundesamtes für das Personalmanagement der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000500000)
 
 (1) Das Bundesamt für das Personalmanagement der Bundeswehr ernennt
 und entlässt Soldatinnen und Soldaten bis zum Oberst in der
@@ -90,9 +97,11 @@ Besoldungsgruppe A 16.
 
 
 ## Abschnitt 3 - Zuständigkeiten für Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten und Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNG000300000)
 
 
 ### § 5 Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000600000)
 
 (1) Das Bundesamt für das Personalmanagement der Bundeswehr darf zu
 Dienstgraden bis zum Oberst befördern. Dies gilt auch für die
@@ -106,6 +115,7 @@ entlassen.
 
 
 ### § 6 Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000700000)
 
 Für Soldaten, die Wehrdienst nach § 4 Absatz 1 Nummer 1, 4 oder 7 des
 Wehrpflichtgesetzes leisten, gilt § 4 entsprechend, und für Soldaten,
@@ -114,9 +124,11 @@ Wehrpflichtgesetzes leisten, gilt § 5 entsprechend.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNG000400000)
 
 
 ### § 7 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000800000)
 
 (1) Für Mannschaften, die Heeresuniform tragen, gelten bis zum Ablauf
 des 30. Juni 2016 anstelle von § 4 die nachfolgenden
@@ -266,6 +278,7 @@ Bundeswehr ernannt und entlassen.
 
 
 ### § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE000900000)
 
 (1) Diese Anordnung tritt am 1. Oktober 2015 in Kraft.
 
@@ -278,6 +291,7 @@ Anordnung vom 3. März 2014 (BGBl. I S. 254), aufgehoben.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/soldernano_2015/BJNR159700015.html#BJNR159700015BJNE001000000)
 
 Die Bundesministerin der Verteidigung
 

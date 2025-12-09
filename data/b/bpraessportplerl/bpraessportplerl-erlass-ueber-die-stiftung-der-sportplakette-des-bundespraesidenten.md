@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_ssportplerl/BJNR004860984.html#BJNR004860984BJNE000100312)
 
 Als Auszeichnung für Turn- und Sportvereine sowie Sportverbände, die
 sich in langjährigem Wirken besondere Verdienste um die Pflege und

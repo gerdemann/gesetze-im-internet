@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## -
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNG000100333)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten des Geschäftsbereichs des Bundesministers der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNG000200333)
 
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNE000301310)
 
 Die folgenden Bestimmungen gelten für
 
@@ -64,6 +67,7 @@ Die folgenden Bestimmungen gelten für
 
 
 ## § 2 Laufbahnrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNE000700310)
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten können
 abweichend von § 7 Abs. 1 Nr. 3 Buchstabe b, § 9 Abs. 1 Nr. 3
@@ -174,6 +178,7 @@ nicht unterschreiten.
 
 
 ## § 3 Besoldungsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNE000500333)
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten erhalten
 eine Einmalzahlung in Höhe des Dreifachen der monatlichen
@@ -200,6 +205,7 @@ maßgebend für die Frist ist das Wirksamwerden der Versetzung.
 
 
 ## § 4 Versorgungsrechtliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNE000601126)
 
 (1) Für die Versorgung eines zum Beamten ernannten ehemaligen
 Berufssoldaten im Sinne des § 1 Nr. 1 Buchstabe a gilt:
@@ -242,10 +248,12 @@ Soldatenverhältnisse erfolgt. Satz 1 gilt nicht für Hinterbliebene.
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNG000700333)
 
 
 
 ## Art 3 - Einmaliges Übergangsgeld für Soldaten auf Zeit im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNG000800333)
 
 Soldaten auf Zeit im Beitrittsgebiet mit einer Dienstzeit von zwei
 Jahren, die auf Grund der Regelung in Anlage I Kapitel XIX Sachgebiet
@@ -262,6 +270,7 @@ die nicht auf eigenes grobes Verschulden zurückzuführen ist, endet.
 
 
 ## Art 4 - Geltungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/verwf_g/BJNR020919992.html#BJNR020919992BJNG000900333)
 
 (1) Artikel 1 §§ 1, 3, 4 Abs. 1 und 3 treten mit Wirkung vom 1. Januar
 1992 in Kraft. Im übrigen tritt Artikel 1 am Tage nach der Verkündung

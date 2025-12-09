@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Übertragung der Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_303fe_v/BJNR01B0C0025.html#BJNR01B0C0025BJNE000100000)
 
 Die in § 303f Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch
 enthaltene Ermächtigung zum Erlass einer Rechtsverordnung wird auf das

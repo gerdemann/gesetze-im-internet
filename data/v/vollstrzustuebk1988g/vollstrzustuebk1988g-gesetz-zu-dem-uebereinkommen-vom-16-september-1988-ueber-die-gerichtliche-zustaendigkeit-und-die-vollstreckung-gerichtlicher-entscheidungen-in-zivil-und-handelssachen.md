@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzust_bk1988g/BJNR265820994.html#BJNR265820994BJNE000100308)
 
 Dem in Bern am 23. Oktober 1989 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen vom 16. September 1988 über die
@@ -33,6 +34,7 @@ zugestimmt, daß der in Artikel IV des Protokolls Nr. 1 zum
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzust_bk1988g/BJNR265820994.html#BJNR265820994BJNE000201311)
 
 Die Aufgaben der zuständigen nationalen Behörde nach Artikel 2 Abs. 1
 Satz 2 des Protokolls Nr. 2 über die einheitliche Auslegung des
@@ -41,9 +43,11 @@ Verbraucherschutz wahr.
 
 
 ## (XXXX) Art 3 und 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzust_bk1988g/BJNR265820994.html#BJNR265820994BJNE000300308)
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzust_bk1988g/BJNR265820994.html#BJNR265820994BJNE000400308)
 
 (1) Mit Ausnahme der Artikel 2 bis 4 tritt dieses Gesetz am Tage nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 4 treten an dem Tage in

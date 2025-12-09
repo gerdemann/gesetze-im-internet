@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000200000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006902360)
 
 (1) Dieses Gesetz ist anzuwenden auf Angebote zum Erwerb von
 Wertpapieren, die von einer Zielgesellschaft ausgegeben wurden und zum
@@ -102,6 +104,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000204360)
 
 (1) Angebote sind freiwillige oder auf Grund einer Verpflichtung nach
 diesem Gesetz erfolgende öffentliche Kauf- oder Tauschangebote zum
@@ -181,6 +184,7 @@ Sonntagen und gesetzlichen Feiertagen.
 
 
 ### § 3 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000300000)
 
 (1) Inhaber von Wertpapieren der Zielgesellschaft, die derselben
 Gattung angehören, sind gleich zu behandeln.
@@ -202,10 +206,12 @@ Gesellschaften dürfen keine Marktverzerrungen geschaffen werden.
 
 
 ## Abschnitt 2 - Zuständigkeit der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000301377)
 
 
 
 ### § 4 Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000402377)
 
 (1) Die Bundesanstalt übt die Aufsicht bei Angeboten nach den
 Vorschriften dieses Gesetzes aus. Sie hat im Rahmen der ihr
@@ -220,12 +226,15 @@ Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000507360)
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000603360)
 
 
 ### § 7 Zusammenarbeit mit Aufsichtsbehörden im Inland
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000704360)
 
 (1) Das Bundeskartellamt und die Bundesanstalt haben einander die für
 die Erfüllung ihrer Aufgaben erforderlichen Informationen mitzuteilen.
@@ -241,6 +250,7 @@ nach diesem Gesetz privater Personen und Einrichtungen bedienen.
 
 
 ### § 8 Zusammenarbeit mit zuständigen Stellen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000803360)
 
 (1) Der Bundesanstalt obliegt die Zusammenarbeit mit den für die
 Überwachung von Angeboten zum Erwerb von Wertpapieren, Börsen oder
@@ -283,6 +293,7 @@ bleiben unberührt.
 
 
 ### § 9 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE000908360)
 
 (1) Die bei der Bundesanstalt und bei Einrichtungen nach § 7 Abs. 2
 Beschäftigten und die Personen, derer sich die Bundesanstalt nach § 7
@@ -358,10 +369,12 @@ jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 
 ## Abschnitt 3 - Angebote zum Erwerb von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000400000)
 
 
 
 ### § 10 Veröffentlichung der Entscheidung zur Abgabe eines Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001007360)
 
 (1) Der Bieter hat seine Entscheidung zur Abgabe eines Angebots
 unverzüglich gemäß Absatz 3 Satz 1 zu veröffentlichen. Die
@@ -459,6 +472,7 @@ Aufschub der Bekanntgabe von Insiderinformationen gemäß Verordnung
 
 
 ### § 11 Angebotsunterlage
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001103360)
 
 (1) Der Bieter hat eine Unterlage über das Angebot (Angebotsunterlage)
 zu erstellen und zu veröffentlichen. Die Angebotsunterlage muss die
@@ -553,6 +567,7 @@ Absatz 4 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 11a Europäischer Pass
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007000377)
 
 Die von der zuständigen Aufsichtsstelle eines anderen Staates des
 Europäischen Wirtschaftsraums gebilligte Angebotsunterlage über ein
@@ -563,6 +578,7 @@ wird im Inland ohne zusätzliches Billigungsverfahren anerkannt.
 
 
 ### § 12 Haftung für die Angebotsunterlage
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001202123)
 
 (1) Sind für die Beurteilung des Angebots wesentliche Angaben der
 Angebotsunterlage unrichtig oder unvollständig, so kann derjenige, der
@@ -620,6 +636,7 @@ unerlaubten Handlungen erhoben werden können, bleiben unberührt.
 
 
 ### § 13 Finanzierung des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001300000)
 
 (1) Der Bieter hat vor der Veröffentlichung der Angebotsunterlage die
 notwendigen Maßnahmen zu treffen, um sicherzustellen, dass ihm die zur
@@ -645,6 +662,7 @@ vollständigen Erfüllung entstandenen Schadens verlangen.
 
 
 ### § 14 Übermittlung und Veröffentlichung der Angebotsunterlage
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001405360)
 
 (1) Der Bieter hat die Angebotsunterlage innerhalb von vier Wochen
 nach der Veröffentlichung der Entscheidung zur Abgabe eines Angebots
@@ -714,6 +732,7 @@ nach Absatz 3 Satz 1 zu übermitteln.
 
 
 ### § 15 Untersagung des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001502360)
 
 (1) Die Bundesanstalt untersagt das Angebot, wenn
 
@@ -753,6 +772,7 @@ auf Grund eines nach Absatz 1 oder 2 untersagten Angebots ist nichtig.
 
 
 ### § 16 Annahmefristen; Einberufung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001607125)
 
 (1) Die Frist für die Annahme des Angebots (Annahmefrist) darf nicht
 weniger als vier Wochen und unbeschadet der Vorschriften des § 21 Abs.
@@ -800,6 +820,7 @@ der rechtzeitige Eingang bei den Aktionären nicht wahrscheinlich ist.
 
 
 ### § 17 Unzulässigkeit der öffentlichen Aufforderung zur Abgabe von Angeboten
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001700000)
 
 Eine öffentliche auf den Erwerb von Wertpapieren der Zielgesellschaft
 gerichtete Aufforderung des Bieters zur Abgabe von Angeboten durch die
@@ -807,6 +828,7 @@ Inhaber der Wertpapiere ist unzulässig.
 
 
 ### § 18 Bedingungen; Unzulässigkeit des Vorbehalts des Rücktritts und des Widerrufs
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001800000)
 
 (1) Ein Angebot darf vorbehaltlich § 25 nicht von Bedingungen abhängig
 gemacht werden, deren Eintritt der Bieter, mit ihm gemeinsam handelnde
@@ -819,6 +841,7 @@ Rücktritts abgegeben wird, ist unzulässig.
 
 
 ### § 19 Zuteilung bei einem Teilangebot
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE001900000)
 
 Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils
 oder einer bestimmten Anzahl der Wertpapiere gerichtet ist, der Anteil
@@ -829,6 +852,7 @@ grundsätzlich verhältnismäßig zu berücksichtigen.
 
 
 ### § 20 Handelsbestand
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002002360)
 
 (1) Die Bundesanstalt lässt auf Antrag des Bieters zu, dass
 Wertpapiere der Zielgesellschaft bei den ergänzenden Angaben nach § 11
@@ -870,6 +894,7 @@ ist.
 
 
 ### § 21 Änderung des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002101360)
 
 (1) Der Bieter kann bis zu einem Arbeitstag vor Ablauf der
 Annahmefrist
@@ -918,6 +943,7 @@ genannten Frist von zwei Wochen ist unzulässig.
 
 
 ### § 22 Konkurrierende Angebote
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002200000)
 
 (1) Konkurrierende Angebote sind Angebote, die während der
 Annahmefrist eines Angebots von einem Dritten abgegeben werden.
@@ -936,6 +962,7 @@ Angebotsunterlage des konkurrierenden Angebots erfolgte.
 
 
 ### § 23 Veröffentlichungspflichten des Bieters nach Abgabe des Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002305360)
 
 (1) Der Bieter ist verpflichtet, die Anzahl sämtlicher ihm, den mit
 ihm gemeinsam handelnden Personen und deren Tochterunternehmen
@@ -979,6 +1006,7 @@ Absatz 3 Satz 2 und § 31 Absatz 6 gelten entsprechend.
 
 
 ### § 24 Grenzüberschreitende Angebote
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002401377)
 
 Hat der Bieter bei grenzüberschreitenden Angeboten zugleich die
 Vorschriften eines anderen Staates außerhalb des Europäischen
@@ -990,6 +1018,7 @@ Angebot auszunehmen.
 
 
 ### § 25 Beschluss der Gesellschafterversammlung des Bieters
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002501360)
 
 Hat der Bieter das Angebot unter der Bedingung eines Beschlusses
 seiner Gesellschafterversammlung abgegeben, hat er den Beschluss
@@ -998,6 +1027,7 @@ Annahmefrist, herbeizuführen.
 
 
 ### § 26 Sperrfrist
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002603360)
 
 (1) Ist ein Angebot nach § 15 Absatz 1 oder 2 untersagt worden, ist
 ein weiteres Angebot an die Aktionäre der Zielgesellschaft sowie die
@@ -1056,6 +1086,7 @@ der Befreiung zustimmt.
 
 
 ### § 27 Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002703360)
 
 (1) Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben eine
 begründete Stellungnahme zu dem Angebot sowie zu jeder seiner
@@ -1097,6 +1128,7 @@ Veröffentlichung nach § 14 Absatz 3 Satz 1 Nummer 2 unverzüglich unter
 
 
 ### § 28 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002802360)
 
 Um Missständen bei der Werbung im Zusammenhang mit Angeboten zum
 Erwerb von Wertpapieren zu begegnen, kann die Bundesanstalt bestimmte
@@ -1104,10 +1136,12 @@ Arten der Werbung untersagen.
 
 
 ## Abschnitt 4 - Übernahmeangebote
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000500000)
 
 
 
 ### § 29 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE002902119)
 
 (1) Übernahmeangebote sind Angebote, die auf den Erwerb der Kontrolle
 gerichtet sind.
@@ -1124,6 +1158,7 @@ Kapitalverwaltungsgesellschaft.
 
 
 ### § 30 Zurechnung von Stimmrechten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003007123)
 
 (1) Stimmrechten des Bieters stehen Stimmrechte aus Aktien der
 Zielgesellschaft gleich,
@@ -1300,6 +1335,7 @@ bis 6 eine Unabhängigkeit des Unternehmens vom Bieter gegeben ist.
 
 
 ### § 31 Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003102377)
 
 (1) Der Bieter hat den Aktionären der Zielgesellschaft eine
 angemessene Gegenleistung anzubieten. Bei der Bestimmung der
@@ -1364,6 +1400,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 32 Unzulässigkeit von Teilangeboten
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003200000)
 
 Ein Übernahmeangebot, das sich nur auf einen Teil der Aktien der
 Zielgesellschaft erstreckt, ist unbeschadet der Vorschrift des § 24
@@ -1371,6 +1408,7 @@ unzulässig.
 
 
 ### § 33 Handlungen des Vorstands der Zielgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003301377)
 
 (1) Nach Veröffentlichung der Entscheidung zur Abgabe eines Angebots
 bis zur Veröffentlichung des Ergebnisses nach § 23 Abs. 1 Satz 1 Nr. 2
@@ -1398,6 +1436,7 @@ bedürfen der Zustimmung des Aufsichtsrats.
 
 
 ### § 33a Europäisches Verhinderungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007100377)
 
 (1) Die Satzung einer Zielgesellschaft kann vorsehen, dass § 33 keine
 Anwendung findet. In diesem Fall gelten die Bestimmungen des Absatzes
@@ -1437,6 +1476,7 @@ beschlossen hat.
 
 
 ### § 33b Europäische Durchbrechungsregel
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007200377)
 
 (1) Die Satzung einer Zielgesellschaft kann vorsehen, dass Absatz 2
 Anwendung findet.
@@ -1491,6 +1531,7 @@ Rechte gerichtlich geltend gemacht werden.
 
 
 ### § 33c Vorbehalt der Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007203360)
 
 (1) Die Hauptversammlung einer Zielgesellschaft, deren Satzung die
 Anwendbarkeit des § 33 ausschließt, kann beschließen, dass § 33 gilt,
@@ -1515,6 +1556,7 @@ veröffentlichen. § 14 Absatz 3 Satz 2 gilt entsprechend.
 
 
 ### § 33d Verbot der Gewährung ungerechtfertigter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007202377)
 
 Dem Bieter und mit ihm gemeinsam handelnden Personen ist es verboten,
 Vorstands- oder Aufsichtsratsmitgliedern der Zielgesellschaft im
@@ -1524,16 +1566,19 @@ Aussicht zu stellen.
 
 
 ### § 34 Anwendung der Vorschriften des Abschnitts 3
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003400000)
 
 Für Übernahmeangebote gelten die Vorschriften des Abschnitts 3, soweit
 sich aus den vorstehenden Vorschriften nichts anderes ergibt.
 
 
 ## Abschnitt 5 - Pflichtangebote
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000600000)
 
 
 
 ### § 35 Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003502360)
 
 (1) Wer unmittelbar oder mittelbar die Kontrolle über eine
 Zielgesellschaft erlangt, hat dies unter Angabe der Höhe seines
@@ -1563,6 +1608,7 @@ Satz 1 und Absatz 2 Satz 1.
 
 
 ### § 36 Nichtberücksichtigung von Stimmrechten
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003602360)
 
 Die Bundesanstalt lässt auf Antrag zu, dass Stimmrechte aus Aktien der
 Zielgesellschaft bei der Berechnung des Stimmrechtsanteils
@@ -1584,6 +1630,7 @@ unberücksichtigt bleiben, wenn die Aktien erlangt wurden durch
 
 
 ### § 37 Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003702360)
 
 (1) Die Bundesanstalt kann auf Antrag den Bieter von den
 Verpflichtungen nach § 35 Abs. 1 Satz 1 und Abs. 2 Satz 1 befreien,
@@ -1603,6 +1650,7 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 38 Anspruch auf Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003801377)
 
 Der Bieter ist den Aktionären der Zielgesellschaft für die Dauer des
 Verstoßes zur Zahlung von Zinsen auf die Gegenleistung in Höhe von
@@ -1625,6 +1673,7 @@ nach § 247 des Bürgerlichen Gesetzbuchs verpflichtet, wenn
 
 
 ### § 39 Anwendung der Vorschriften des Abschnitts 3 und 4
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE003900000)
 
 Für Angebote nach § 35 Abs. 2 Satz 1 gelten mit Ausnahme von § 10 Abs.
 1 Satz 1, § 14 Abs. 1 Satz 1, § 16 Abs. 2, § 18 Abs. 1, §§ 19, 25, 26
@@ -1632,10 +1681,12 @@ und 34 die Vorschriften der Abschnitte 3 und 4 sinngemäß.
 
 
 ## Abschnitt 5a - Ausschluss, Andienungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG001100377)
 
 
 
 ### § 39a Ausschluss der übrigen Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007301140)
 
 (1) Nach einem Übernahme- oder Pflichtangebot sind dem Bieter, dem
 Aktien der Zielgesellschaft in Höhe von mindestens 95 Prozent des
@@ -1675,6 +1726,7 @@ keine Anwendung.
 
 
 ### § 39b Ausschlussverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007403301)
 
 (1) Auf das Verfahren für den Ausschluss nach § 39a ist das Gesetz
 über das Verfahren in Familiensachen und in den Angelegenheiten der
@@ -1720,6 +1772,7 @@ können dem Antragsgegner nicht auferlegt werden.
 
 
 ### § 39c Andienungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE007500377)
 
 Nach einem Übernahme- oder Pflichtangebot können die Aktionäre einer
 Zielgesellschaft, die das Angebot nicht angenommen haben, das Angebot
@@ -1731,10 +1784,12 @@ mit der Erfüllung der Verpflichtungen zu laufen.
 
 
 ## Abschnitt 6 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000700000)
 
 
 
 ### § 40 Ermittlungsbefugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004003360)
 
 (1) Die Bundesanstalt kann von jedermann Auskünfte, die Vorlage von
 Unterlagen und die Überlassung von Kopien verlangen sowie Personen
@@ -1773,6 +1828,7 @@ belehren.
 
 
 ### § 41 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004102360)
 
 (1) Vor Einlegung der Beschwerde sind Rechtmäßigkeit und
 Zweckmäßigkeit der Verfügungen der Bundesanstalt in einem
@@ -1798,6 +1854,7 @@ bleibt.
 
 
 ### § 42 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004202377)
 
 Der Widerspruch gegen Maßnahmen der Bundesanstalt nach § 4 Abs. 1 Satz
 3, § 15 Abs. 1 oder 2, § 28 Abs. 1 oder § 40 Abs. 1 und 2 hat keine
@@ -1805,6 +1862,7 @@ aufschiebende Wirkung.
 
 
 ### § 43 Bekanntgabe und Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004303360)
 
 (1) Verfügungen, die gegenüber einer Person mit Wohnsitz oder einem
 Unternehmen mit Sitz außerhalb des Geltungsbereichs dieses Gesetzes
@@ -1822,6 +1880,7 @@ Bundesanzeiger.
 
 
 ### § 44 Veröffentlichungsrecht der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004404360)
 
 Die Bundesanstalt kann ihre Verfügungen nach § 4 Absatz 1 Satz 3, § 10
 Absatz 2 Satz 3, § 15 Absatz 1 und 2, § 20 Absatz 1, § 28, § 36 oder §
@@ -1830,6 +1889,7 @@ Absatz 2 Satz 3, § 15 Absatz 1 und 2, § 20 Absatz 1, § 28, § 36 oder §
 
 
 ### § 45 Mitteilungen an die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004502360)
 
 Anträge sowie nach diesem Gesetz oder nach einer auf Grundlage dieses
 Gesetzes erlassenen Rechtsverordnung erforderliche Mitteilungen,
@@ -1839,6 +1899,7 @@ Veröffentlichungssystem der Bundesanstalt zu erfolgen.
 
 
 ### § 46 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004601377)
 
 Die Bundesanstalt kann Verfügungen, die nach diesem Gesetz ergehen,
 mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-
@@ -1851,13 +1912,16 @@ von § 11 des Verwaltungs-Vollstreckungsgesetzes bis zu 500.000 Euro.
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004704123)
 
 
 ## Abschnitt 7 - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000800000)
 
 
 
 ### § 48 Statthaftigkeit, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004801377)
 
 (1) Gegen Verfügungen der Bundesanstalt ist die Beschwerde statthaft.
 Sie kann auch auf neue Tatsachen und Beweismittel gestützt werden.
@@ -1877,6 +1941,7 @@ der Bundesanstalt in Frankfurt am Main zuständige Oberlandesgericht.
 
 
 ### § 49 Aufschiebende Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE004900000)
 
 Die Beschwerde hat aufschiebende Wirkung, soweit durch die
 angefochtene Verfügung eine Befreiung nach § 10 Abs. 1 Satz 3 oder §
@@ -1886,6 +1951,7 @@ widerrufen wird.
 
 
 ### § 50 Anordnung der sofortigen Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005001377)
 
 (1) Die Bundesanstalt kann in den Fällen des § 49 die sofortige
 Vollziehung der Verfügung anordnen, wenn dies im öffentlichen
@@ -1927,6 +1993,7 @@ sind sie unanfechtbar.
 
 
 ### § 51 Frist und Form
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005101377)
 
 (1) Die Beschwerde ist binnen einer Notfrist von einem Monat bei dem
 Beschwerdegericht schriftlich einzureichen. Die Frist beginnt mit der
@@ -1955,12 +2022,14 @@ Beschwerdegerichts verlängert werden.
 
 
 ### § 52 Beteiligte am Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005201377)
 
 An dem Verfahren vor dem Beschwerdegericht sind der Beschwerdeführer
 und die Bundesanstalt beteiligt.
 
 
 ### § 53 Anwaltszwang
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005302310)
 
 Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen
 Rechtsanwalt oder Rechtslehrer an einer deutschen Hochschule im Sinne
@@ -1971,6 +2040,7 @@ lassen.
 
 
 ### § 54 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005400000)
 
 (1) Das Beschwerdegericht entscheidet über die Beschwerde auf Grund
 mündlicher Verhandlung; mit Einverständnis der Beteiligten kann ohne
@@ -1982,6 +2052,7 @@ gleichwohl in der Sache verhandelt und entschieden werden.
 
 
 ### § 55 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005500000)
 
 (1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen.
 
@@ -2000,6 +2071,7 @@ der nicht beigebrachten Beweismittel entschieden werden.
 
 
 ### § 56 Beschwerdeentscheidung; Vorlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005601377)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner
 freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung.
@@ -2040,6 +2112,7 @@ anstelle des Oberlandesgerichts.
 
 
 ### § 57 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005701377)
 
 (1) Die in § 52 bezeichneten Beteiligten können die Akten des
 Beschwerdegerichts einsehen und sich durch die Geschäftsstelle auf
@@ -2069,6 +2142,7 @@ anwaltlich vertreten lassen.
 
 
 ### § 58 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005800000)
 
 Im Verfahren vor dem Beschwerdegericht gelten, soweit nichts anderes
 bestimmt ist, entsprechend
@@ -2092,10 +2166,12 @@ bestimmt ist, entsprechend
 
 
 ## Abschnitt 8 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG000900000)
 
 
 
 ### § 59 Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE005901119)
 
 Rechte aus Aktien, die dem Bieter, mit ihm gemeinsam handelnden
 Personen oder deren Tochterunternehmen gehören oder aus denen ihm, mit
@@ -2109,6 +2185,7 @@ Satz 1 nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
 
 
 ### § 60 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006005360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -2301,12 +2378,14 @@ dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 
 ### § 61 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006101377)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 62 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006201377)
 
 (1) Im gerichtlichen Verfahren wegen einer Ordnungswidrigkeit nach §
 60 entscheidet das für den Sitz der Bundesanstalt in Frankfurt am Main
@@ -2322,6 +2401,7 @@ Mitgliedern mit Einschluss des vorsitzenden Mitglieds.
 
 
 ### § 63 Rechtsbeschwerde zum Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006300000)
 
 Über die Rechtsbeschwerde (§ 79 des Gesetzes über
 Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die
@@ -2331,6 +2411,7 @@ Entscheidung aufgehoben wird, zurück.
 
 
 ### § 64 Wiederaufnahme gegen Bußgeldbescheid
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006401377)
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der Bundesanstalt
 (§ 85 Abs. 4 des Gesetzes über Ordnungswidrigkeiten) entscheidet das
@@ -2338,6 +2419,7 @@ nach § 62 Abs. 1 zuständige Gericht.
 
 
 ### § 65 Gerichtliche Entscheidung bei der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006500000)
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen
 Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
@@ -2345,10 +2427,12 @@ von dem nach § 62 Abs. 1 zuständigen Gericht erlassen.
 
 
 ## Abschnitt 9 - Gerichtliche Zuständigkeit; Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNG001000000)
 
 
 
 ### § 66 Gerichte für Wertpapiererwerbs und Übernahmesachen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006601377)
 
 (1) Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz
 ergeben, sind ohne Rücksicht auf den Wert des Streitgegenstandes die
@@ -2382,6 +2466,7 @@ Länder begründet werden.
 
 
 ### § 67 Senat für Wertpapiererwerbs- und Übernahmesachen beim Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006700000)
 
 In den ihm nach § 48 Abs. 4, § 62 Abs. 1, §§ 64 und 65 zugewiesenen
 Rechtssachen entscheidet das Oberlandesgericht durch einen
@@ -2389,6 +2474,7 @@ Wertpapiererwerbs- und Übernahmesenat.
 
 
 ### § 68 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/wp_g/BJNR382210001.html#BJNR382210001BJNE006805360)
 
 (1) Auf Angebote, die vor dem 14. Juli 2006 veröffentlicht worden
 sind, findet dieses Gesetz in der vor dem 14. Juli 2006 geltenden

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000100314)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -29,16 +30,19 @@ für Bildung und Wissenschaft:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000200314)
 
 Der Ausbildungsberuf Drogist/Drogistin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000300314)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000400314)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -209,6 +213,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001400314)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -230,12 +235,14 @@ Befähigung ist auch in den Prüfungen nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000500314)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000600314)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -244,6 +251,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000700314)
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -275,6 +283,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000800314)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -381,6 +390,7 @@ bestanden.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE000900314)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Drogist/Drogistin sind
@@ -388,6 +398,7 @@ vorbehaltlich des § 10 nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001000314)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -397,6 +408,7 @@ Verordnung.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001100314)
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
@@ -405,6 +417,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur
 Drogistin
 
 ## Anlage 1 - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001203116)
 
 (Fundstelle: BGBl. I 1992, 1200 - 1212;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2134,6 +2147,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin
 
 ## Anlage 2 - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/drogistausbv/BJNR011970992.html#BJNR011970992BJNE001300314)
 
 (Fundstelle: BGBl. I 1992, 1213 - 1215)
 

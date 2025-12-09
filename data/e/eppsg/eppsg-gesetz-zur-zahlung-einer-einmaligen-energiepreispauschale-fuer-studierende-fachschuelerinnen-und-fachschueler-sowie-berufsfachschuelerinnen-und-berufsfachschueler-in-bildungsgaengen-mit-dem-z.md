@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1 Anspruchsberechtigung, Höhe der Energiepreispauschale
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000100000)
 
 (1) Ein Anspruch auf Zahlung einer einmaligen Energiepreispauschale in
 Höhe von 200 Euro besteht für jede Person, die am 1. Dezember 2022 an
@@ -78,6 +79,7 @@ Bundesrepublik Deutschland hatten.
 
 
 ## § 2 Zuständigkeit, Verordnungsermächtigung, Antragserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000200000)
 
 (1) Zuständig für die Durchführung dieses Gesetzes sind die nach
 Landesrecht zuständigen Stellen. Die Landesregierungen werden
@@ -92,6 +94,7 @@ nach § 1 nicht mehr geltend gemacht werden.
 
 
 ## § 3 Finanzierung aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000300000)
 
 Einmalige Energiepreispauschalen, die ein Land aufgrund dieses
 Gesetzes gewährt, werden ihm vom Bund bis zum 31. Dezember 2023
@@ -99,6 +102,7 @@ erstattet.
 
 
 ## § 4 Nichtberücksichtigung bei einkommensabhängigen Leistungen, im Beitragsrecht und bei Leistungen der Kinder- und Jugendhilfe; Pfändungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000400000)
 
 (1) Die Energiepreispauschale darf bei Sozialleistungen und sonstigen
 Leistungen, deren Zahlung vom Einkommen abhängig ist, nicht als
@@ -130,6 +134,7 @@ Rückforderungen von Energiepreispauschalen.
 
 
 ## § 5 Verzicht auf Rückforderungen
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000500000)
 
 Entfällt nachträglich mindestens eine der Voraussetzungen für den
 Anspruch auf die Energiepreispauschale, so darf die
@@ -137,6 +142,7 @@ Energiepreispauschale nicht zurückgefordert werden.
 
 
 ## § 6 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000600000)
 
 Für öffentlich-rechtliche Streitigkeiten nach diesem Gesetz ist der
 Verwaltungsrechtsweg eröffnet. Ein Vorverfahren ist nicht
@@ -144,6 +150,7 @@ erforderlich.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eppsg/BJNR235700022.html#BJNR235700022BJNE000700000)
 
 Dieses Gesetz tritt am 21. Dezember 2022 in Kraft.
 

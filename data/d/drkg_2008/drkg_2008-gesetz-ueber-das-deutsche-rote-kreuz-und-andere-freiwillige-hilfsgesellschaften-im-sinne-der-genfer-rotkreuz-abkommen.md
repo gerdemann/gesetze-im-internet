@@ -24,9 +24,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Deutsches Rotes Kreuz
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNG000100000)
 
 
 ### § 1 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNE000100000)
 
 Das Deutsche Rote Kreuz e. V. ist die Nationale Gesellschaft des Roten
 Kreuzes auf dem Gebiet der Bundesrepublik Deutschland und freiwillige
@@ -36,6 +38,7 @@ Bewegung.
 
 
 ### § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNE000204360)
 
 (1) Das Deutsche Rote Kreuz e. V. nimmt als freiwillige
 Hilfsgesellschaft die Aufgaben wahr, die sich aus den Genfer Rotkreuz-
@@ -116,6 +119,7 @@ Auszubildenden tritt die oder der Studierende. § 38a Absatz 2 und §
 
 
 ### § 3 Schutz des Zeichens und der Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNE000300000)
 
 Das Recht auf Verwendung des Zeichens „Rotes Kreuz auf weißem Grund“
 und der Bezeichnungen „Rotes Kreuz“ und „Genfer Kreuz“ steht dem
@@ -127,9 +131,11 @@ Internationalen Rotkreuz- und Rothalbmond-Bewegung bleiben unberührt.
 
 
 ## Abschnitt 2 - Andere freiwillige Hilfsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNG000200000)
 
 
 ### § 4 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNE000400000)
 
 Die Johanniter-Unfall-Hilfe e. V. und der Malteser Hilfsdienst e. V.
 sind freiwillige Hilfsgesellschaften im Sinne des Artikels 26 des I.
@@ -137,6 +143,7 @@ Genfer Abkommens.
 
 
 ### § 5 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/drkg_2008/BJNR234610008.html#BJNR234610008BJNE000500000)
 
 Die Johanniter-Unfall-Hilfe e. V. und der Malteser Hilfsdienst e. V.
 sind zur Unterstützung des Sanitätsdienstes der Bundeswehr ermächtigt.

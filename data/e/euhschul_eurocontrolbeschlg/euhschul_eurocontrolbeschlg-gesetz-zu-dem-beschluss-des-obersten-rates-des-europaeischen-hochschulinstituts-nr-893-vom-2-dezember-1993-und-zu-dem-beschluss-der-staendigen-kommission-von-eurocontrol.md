@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euhschul_eurocontrolbeschlg/BJNR075420996.html#BJNR075420996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euhschul_eurocontrolbeschlg/BJNR075420996.html#BJNR075420996BJNE000200310)
 
 (1) Den folgenden Beschlüssen wird zugestimmt:
 
@@ -53,6 +55,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euhschul_eurocontrolbeschlg/BJNR075420996.html#BJNR075420996BJNE000300310)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates entsprechende Bestimmungen oder
@@ -66,6 +69,7 @@ Europäischen Gemeinschaften (BGBl. 1994 II S. 622) entsprechen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euhschul_eurocontrolbeschlg/BJNR075420996.html#BJNR075420996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

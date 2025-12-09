@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgthwano/BJNR016720989.html#BJNR016720989BJNE000100308)
 
 Gemäß § 76 Satz 2 des Bundesbeamtengesetzes übertrage ich die Ausübung
 der Befugnis zum Erlaß von Bestimmungen über die Dienstkleidung für

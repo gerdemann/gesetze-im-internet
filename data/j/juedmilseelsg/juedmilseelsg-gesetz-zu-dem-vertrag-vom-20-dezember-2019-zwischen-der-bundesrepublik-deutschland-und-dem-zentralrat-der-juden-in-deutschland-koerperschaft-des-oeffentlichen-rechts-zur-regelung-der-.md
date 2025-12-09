@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsg/BJNR166400020.html#BJNR166400020BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsg/BJNR166400020.html#BJNR166400020BJNE000200000)
 
 (1) Dem in Berlin am 20. Dezember 2019 unterzeichneten Vertrag
 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden
@@ -34,12 +36,14 @@ zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsg/BJNR166400020.html#BJNR166400020BJNE000300000)
 
 Änderungen des Vertrages bedürfen der Zustimmung des Deutschen
 Bundestages in der Form eines Bundesgesetzes.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/j_dmilseelsg/BJNR166400020.html#BJNR166400020BJNE000400000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000100308)
 
 Auf Grund des § 4 Abs. 1 des Fluglärmgesetzes Berlin vom 7. Februar
 1975 (GVBl. S. 671) wird verordnet:
 
 
 ## § 1 Festsetzung des Lärmschutzbereichs
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000200308)
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
 erheblichen Belästigungen durch Fluglärm in der Umgebung des
@@ -32,6 +34,7 @@ festgesetzt.
 
 
 ## § 2 Bestimmung des Lärmschutzbereichs
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000300308)
 
 Der Lärmschutzbereich mit seinen Schutzzonen 1 und 2 wird bestimmt
 durch die interpolierten Verbindungslinien zwischen den in der Anlage
@@ -41,6 +44,7 @@ in der Anlage 1 Abschn. II bezeichneten Gebiete einbezogen.
 
 
 ## § 3 Einordnung von zu schützenden baulichen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000400308)
 
 (1) Liegt eine nach dem Fluglärmgesetz Berlin zu schützende bauliche
 Anlage zu einem Teil in der Schutzzone 1, so gilt sie als ganz in
@@ -53,6 +57,7 @@ finden die Vorschriften des Absatzes 1 entsprechende Anwendung.
 
 
 ## § 4 Kartenmäßige Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000500308)
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in den Blättern der Karte
 von Berlin 1:4.000 dargestellt. Die interpolierten Verbindungslinien
@@ -66,17 +71,20 @@ Str. 16 - zu jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000600308)
 
 Diese Verordnung tritt am Tage nach der Verkündung im Gesetz- und
 Verordnungsblatt für Berlin in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000700308)
 
 Der Senat von Berlin
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000800308)
 
 
 *    *   **Abschnitt I**
@@ -4346,6 +4354,7 @@ Die Gebiete sind nachstehend mit ihren Begrenzungen aufgeführt:
 den Flughafen Berlin-Tegel)
 
 ## Anlage 2 Ausschnitt der Übersichtskarte von Berlin (West) 1 zu 50.000
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmberl-tegelv_be/BENR012420976.html#BENR012420976BJNE000900308)
 
 (Inhalt: nicht darstellbare Übersichtskarte,
 Fundstelle: GVBl BE 1976, 1249ff)

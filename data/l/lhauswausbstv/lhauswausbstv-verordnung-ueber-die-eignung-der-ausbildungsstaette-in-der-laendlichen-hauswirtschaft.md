@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000100319)
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (Bundesgesetzbl. I S. 1112), zuletzt geändert durch Artikel 236
@@ -31,6 +32,7 @@ Wissenschaft verordnet:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000201360)
 
 (1) Die Ausbildungsstätte muß ein Haushalt in einem
 landwirtschaftlichen Betrieb sein, der nach seiner Einrichtung und
@@ -61,6 +63,7 @@ Vorschriften zum Schutz des Auszubildenden eingehalten werden können.
 
 
 ## § 2 Mindestanforderungen an die Größe
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000300319)
 
 Die Ausbildungsstätte soll ein Mehrpersonenhaushalt sein. Größe und
 Anzahl der Wohn- und Wirtschaftsräume müssen eine optimale
@@ -68,6 +71,7 @@ Arbeitsplatzgestaltung gewährleisten.
 
 
 ## § 3 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000400319)
 
 Eine Ausbildungsstätte, die den Anforderungen der Ausbildungsordnung
 nicht in vollem Umfang entspricht, kann für die Ausbildung befristet
@@ -78,6 +82,7 @@ werden kann.
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000500319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 112 des
@@ -85,11 +90,13 @@ Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000600319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lhauswausbstv/BJNR007580975.html#BJNR007580975BJNE000700319)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4natobek/BJNR003900966.html#BJNR003900966BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549,
@@ -62,16 +63,19 @@ Bekanntmachung vom 25. Juni 1964 (Bundesgesetzbl. I S. 485).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4natobek/BJNR003900966.html#BJNR003900966BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4natobek/BJNR003900966.html#BJNR003900966BJNE000200303)
 
 (Fundstelle: BGBl. I 1966, 391 - 392)
 ![bgbl1_1966_j0391_0010.jpg](bgbl1_1966_j0391_0010.jpg)![bgbl1_1966_j0392_0010.jpg](bgbl1_1966_j0392_0010.jpg)
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4natobek/BJNR003900966.html#BJNR003900966BJNE000300303)
 
 -
 

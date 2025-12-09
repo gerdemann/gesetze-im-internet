@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000100308)
 
 Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3
 sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975
@@ -29,6 +30,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000202311)
 
 (1) Zur Deckung des lebenswichtigen Bedarfs an Elektrizität können die
 zuständigen Stellen als Lastverteiler Verfügungen erlassen
@@ -114,6 +116,7 @@ gegenteilige Verfügung erlassen hat.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000302377)
 
 Unternehmen und Betriebe, die über Anlagen zur Erzeugung von
 elektrischer Energie mit einer Gesamtleistung von mehr als 100 MW
@@ -130,6 +133,7 @@ der Energieversorgung notwendig ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000400308)
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des
 Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder
@@ -146,6 +150,7 @@ fahrlässig
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000502377)
 
 Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des
 Energiesicherungsgesetzes 1975 ist die Bundesnetzagentur für
@@ -153,11 +158,13 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000601301)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000700308)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -175,6 +182,7 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html#BJNR005140982BJNE000800308)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 516
 .....................................

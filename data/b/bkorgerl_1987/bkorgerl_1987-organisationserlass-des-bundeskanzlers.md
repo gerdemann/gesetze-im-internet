@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1987/BJNR115910987.html#BJNR115910987BJNE000100333)
 
 Dem Bundesminister für Jugend, Familie, Frauen und Gesundheit werden
 übertragen:

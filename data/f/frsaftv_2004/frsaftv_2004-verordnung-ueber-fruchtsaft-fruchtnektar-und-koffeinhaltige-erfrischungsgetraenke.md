@@ -28,6 +28,7 @@ Erzeugnisse für die menschliche Ernährung (ABl. EG 2002 Nr. L 10 S.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet
@@ -53,10 +54,12 @@ sind:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNG000100310)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000203130)
 
 (1) Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
 Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
@@ -67,10 +70,12 @@ koffeinhaltige Erfrischungsgetränke.
 
 
 ## Abschnitt 2 - Fruchtsaft, einige ähnliche Erzeugnisse und Fruchtnektar
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNG000200310)
 
 
 
 ### § 2 Zutaten, Herstellungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000303130)
 
 (1) Die Ausgangserzeugnisse für Erzeugnisse nach Anlage 1 müssen den
 Anforderungen der Anlage 2 entsprechen.
@@ -121,6 +126,7 @@ und Mineralstoffen zu Lebensmitteln.
 
 
 ### § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000404116)
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in
 Spalte 1 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach
@@ -247,10 +253,12 @@ aus Zucker“ in den Verkehr gebracht werden.
 
 
 ## Abschnitt 3 - Koffeinhaltige Erfrischungsgetränke
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNG000300310)
 
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001800310)
 
 (1) Koffeinhaltige Erfrischungsgetränke im Sinne dieser Verordnung
 sind Getränke auf der Grundlage von Wasser, die geschmackgebende
@@ -275,6 +283,7 @@ Stoffe enthalten.
 
 
 ### § 5 Besondere Anforderungen an Herstellung und Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001900310)
 
 (1) Ein koffeinhaltiges Erfrischungsgetränk darf nur so hergestellt
 oder in den Verkehr gebracht werden, dass im Enderzeugnis Koffein mit
@@ -288,6 +297,7 @@ Stoffe nicht die dort jeweils festgesetzten Höchstmengen übersteigen.
 
 
 ### § 6 Kennzeichnung koffeinhaltiger Erfrischungsgetränke
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE002001116)
 
 (1) Koffeinhaltige Erfrischungsgetränke mit einem Koffeingehalt von
 mehr als 150 Milligramm Koffein pro Liter im verzehrfertigen Zustand,
@@ -331,10 +341,12 @@ Lebensmittels auf die entsprechende Fußnote hingewiesen wird.
 
 
 ## Abschnitt 4 - Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNG000402130)
 
 
 
 ### § 7 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000505130)
 
 Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung
 versehen sind, ohne der in Anlage 1 jeweils festgelegten
@@ -344,6 +356,7 @@ werden.
 
 
 ### § 8 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000605130)
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -365,16 +378,19 @@ Absatz 6 Satz 1 oder § 6 Absatz 1 ein Erzeugnis in den Verkehr bringt.
 
 
 ### § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE000903130)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001002130)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001106130)
 
 (Fundstelle: BGBl. I 2013, 3891 - 3892;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -525,6 +541,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2 (zu § 2 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001201116)
 
 (Fundstelle: BGBl. I 2004, 1021;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -602,6 +619,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 3 (zu § 2 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001302116)
 
 (Fundstelle: BGBl. I 2013, 3892)
 
@@ -637,6 +655,7 @@ Zutaten verwendet werden:
 
 
 ### Anlage 4 (zu § 2 Abs. 3 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001402116)
 
 (Fundstelle: BGBl. I 2004, 1023;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -745,6 +764,7 @@ folgende Verfahren angewendet werden:
 
 
 ### Anlage 5 (zu § 2 Abs. 6)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001501116)
 
 (Fundstelle: BGBl. I 2004, 1024 - 1025;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1012,6 +1032,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 6 (zu § 2 Abs. 7)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001701116)
 
 (Fundstelle: BGBl. I 2010, 675 - 676;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1177,6 +1198,7 @@ einschließlich Lebensmittelzusatzstoffen.
 
 
 ### Anlage 7 (zu § 3 Abs. 2 Satz 4)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE001603116)
 
 (Fundstelle: BGBl. I 2004, 1026;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1278,6 +1300,7 @@ Sprache zu ergänzen.
 
 
 ### Anlage 8 (zu den §§ 4 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftv_2004/BJNR101600004.html#BJNR101600004BJNE002100310)
 
 **Höchstmengen für bestimmte Stoffe**
 ## **in koffeinhaltigen Erfrischungsgetränken**

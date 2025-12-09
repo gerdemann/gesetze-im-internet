@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btberlinbek/BJNR163210999.html#BJNR163210999BJNE000100000)
 
 Der Deutsche Bundestag hat am 1. Juli 1999 gemäß § 2 Abs. 2 des
 Gesetzes zur Umsetzung des Beschlusses des Deutschen Bundestages vom

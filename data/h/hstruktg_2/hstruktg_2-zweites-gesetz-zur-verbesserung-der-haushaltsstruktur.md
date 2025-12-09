@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Art 1 - Bundesbesoldungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000100314)
 
 1\.
 
@@ -77,15 +78,18 @@ festgestellt.
 
 
 ## Art 2 - Beamtenversorgungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000200314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE004700314)
 
 -
 
 
 ## § 2 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE004805301)
 
 (1) Beruht die Versorgung auf einem Beamtenverhältnis, das vor dem 1.
 Januar 1966 begründet worden ist und ergibt sich durch die Änderungen
@@ -208,6 +212,7 @@ Absatz 4 ist vom Ersten des Monats der Antragstellung an anzuwenden.
 
 
 ## § 3 Rückforderungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE004900314)
 
 Ab 1. Januar 1982 werden die Versorgungsbezüge unter dem Vorbehalt
 gezahlt, daß Überzahlungen auf Grund der Rechtsänderungen durch die §§
@@ -215,20 +220,24 @@ gezahlt, daß Überzahlungen auf Grund der Rechtsänderungen durch die §§
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000300314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005000314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005100314)
 
 -
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005204301)
 
 (1) Für Soldaten auf Zeit, die vor dem 1. Januar 1982 eine
 Verpflichtungs- oder Weiterverpflichtungserklärung für eine Dienstzeit
@@ -361,6 +370,7 @@ Ersten des Monats der Antragstellung an anzuwenden.
 
 
 ## § 4 Rückforderungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005300314)
 
 Ab 1. Januar 1982 werden die Versorgungsbezüge unter dem Vorbehalt
 gezahlt, daß Überzahlungen auf Grund der Rechtsänderungen durch die §§
@@ -368,20 +378,24 @@ gezahlt, daß Überzahlungen auf Grund der Rechtsänderungen durch die §§
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005400314)
 
 Die §§ 1 bis 4 gelten nicht im Land Berlin.
 
 
 ## Art 4 - Gesetz zu Art 131 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000400314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005500314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005600314)
 
 Artikel 2 §§ 2 und 3 gelten entsprechend für Versorgungsempfänger nach
 dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131
@@ -389,15 +403,18 @@ des Grundgesetzes fallenden Personen.
 
 
 ## Art 5 - Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000500314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005700314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNE005800314)
 
 Artikel 2 §§ 2 und 3 gelten entsprechend für Versorgungsempfänger nach
 dem Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen
@@ -405,14 +422,17 @@ Unrechts für Angehörige des öffentlichen Dienstes.
 
 
 ## Art 6 - Schwerbehindertengesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000600314)
 
 
 
 ## Art 7 - Gesetz zur Personaleinsparung in der mittelbaren Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000700314)
 
 
 
 ## Art 8 - Bundesausbildungsförderungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000801306)
 
 (1) - (3)
 
@@ -421,150 +441,187 @@ Unrechts für Angehörige des öffentlichen Dienstes.
 
 
 ## Art 9 - Reichsversicherungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG000900314)
 
 
 
 ## Art 10 - Gesetz über Krankenversicherung der Studenten
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001000314)
 
 
 
 ## Art 11 - Reichsknappschaftsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001100314)
 
 
 
 ## Art 12 - Angestelltenversicherungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001200314)
 
 
 
 ## Art 13 - Gesetz über eine Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001300314)
 
 
 
 ## Art 14 - Gesetz zur Neuregelung der Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001400314)
 
 
 
 ## Art 15 - Mutterschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001500314)
 
 
 
 ## Art 16 - Bundesversorgungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001600314)
 
 
 
 ## Art 17 - Rehabilitationsangleichungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001700314)
 
 
 
 ## Art 18 - Unterhaltssicherungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001800314)
 
 
 
 ## Art 19 - Entwicklungshelfer-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG001900314)
 
 
 
 ## Art 20 - Wohngeldgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002000314)
 
 
 
 ## Art 21 - Bundessozialhilfegesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002100314)
 
 
 
 ## Art 22 - Strafvollzugsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002200314)
 
 
 
 ## Art 23 - Straßenbaufinanzierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002300314)
 
 
 
 ## Art 24 - Selbstverwaltungs- und Krankenversicherungsangleichungsgesetz Berlin
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002400314)
 
 
 
 ## Art 25 - Gesetz über die verbilligte Veräußerung, Vermietung und Verpachtung von bundeseigenen Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002500314)
 
 
 
 ## Art 26 - Einkommensteuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002600314)
 
 
 
 ## Art 27 - Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002700314)
 
 
 
 ### Unterartikel 1 - Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen (AFWoG)
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002800314)
 
 
 
 ### Unterartikel 2 - Änderung des Wohnungsbindungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG002900314)
 
 
 
 ### Unterartikel 3 - Änderung des Zweiten Wohnungsbaugesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003000314)
 
 
 
 ### Unterartikel 4 - Änderung des Wohnungsbaugesetzes für das Saarland
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003100314)
 
 
 
 ### Unterartikel 5 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003200314)
 
 
 
 ## Art 28 - Wohnungsbau-Prämiengesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003300314)
 
 
 
 ## Art 29 - Drittes Vermögensbildungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003400314)
 
 
 
 ## Art 30 - Kapitalerhöhungsteuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003500314)
 
 
 
 ## Art 31 - Gewerbesteuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003600314)
 
 
 
 ## Art 32 - Berlinförderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003700314)
 
 
 
 ## Art 33 - Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003800314)
 
 
 
 ## Art 34 - Entwicklungsländer-Steuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG003900314)
 
 
 
 ## Art 35 - Investitionszulagengesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004000314)
 
 
 
 ## Art 36 - Umsatzsteuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004100314)
 
 
 
 ## Art 37 - Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004200314)
 
 
 
 ## Art 38 - Bewertungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004300314)
 
 
 
 ## Art 39 - Gesetz über eine Investitionszulage für Investitionen in der Eisen- und Stahlindustrie
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004400314)
 
 
 
 ## Art 40 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004500314)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.
@@ -574,6 +631,7 @@ werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 41 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hstruktg_2/BJNR015239981.html#BJNR015239981BJNG004601306)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 6 am 1. Januar
 1982 in Kraft.

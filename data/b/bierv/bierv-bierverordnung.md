@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000100328)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 verordnet
@@ -34,6 +35,7 @@ S. 1945) auch im Einvernehmen mit dem Bundesminister der Finanzen:
 
 
 ## § 1 Schutz der Bezeichnung Bier
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000205116)
 
 (1) Unter der Bezeichnung Bier - allein oder in Zusammensetzung - oder
 unter Bezeichnungen oder bildlichen Darstellungen, die den Anschein
@@ -60,11 +62,13 @@ als gegoren.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000302308)
 
 -
 
 
 ## § 3 Kenntlichmachung der Biergattungen
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000401308)
 
 (1) Bier mit einem Stammwürzegehalt von weniger als 7 vom Hundert darf
 nur unter der Bezeichnung "Bier mit niedrigem Stammwürzegehalt", Bier
@@ -82,11 +86,13 @@ beträgt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000502301)
 
 (weggefallen)
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000602310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer
@@ -108,16 +114,19 @@ Futtermittelgesetzbuches ordnungswidrig.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000901314)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE000801314)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bierv/BJNR013320990.html#BJNR013320990BJNE001000328)
 
 Der Bundesrat hat zugestimmt.
 

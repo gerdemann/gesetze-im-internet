@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmfnvano/BJNR520600965.html#BJNR520600965BJNE000100326)
 
 Auf Grund des § 65 Abs. 3 Satz 2 BBG übertrage ich hiermit
 
@@ -47,11 +48,13 @@ a.M..
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmfnvano/BJNR520600965.html#BJNR520600965BJNE000200326)
 
 Diese Anordnung tritt am 19. August 1965 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfnvano/BJNR520600965.html#BJNR520600965BJNE000300326)
 
 Der Bundesminister der Finanzen
 

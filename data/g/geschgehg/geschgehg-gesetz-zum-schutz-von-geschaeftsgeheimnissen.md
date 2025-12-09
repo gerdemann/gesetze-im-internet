@@ -23,9 +23,11 @@ Nutzung und Offenlegung (ABl. L 157 vom 15.6.2016, S. 1).
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000200000)
 
 (1) Dieses Gesetz dient dem Schutz von Geschäftsgeheimnissen vor
 unerlaubter Erlangung, Nutzung und Offenlegung.
@@ -59,6 +61,7 @@ Nutzung oder Offenlegung von Geschäftsgeheimnissen gehen vor.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000300000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -108,6 +111,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ### § 3 Erlaubte Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000400000)
 
 (1) Ein Geschäftsgeheimnis darf insbesondere erlangt werden durch
 
@@ -140,6 +144,7 @@ Rechtsgeschäft gestattet ist.
 
 
 ### § 4 Handlungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000500000)
 
 (1) Ein Geschäftsgeheimnis darf nicht erlangt werden durch
 
@@ -193,6 +198,7 @@ rechtsverletzenden Produkten besteht.
 
 
 ### § 5 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000600000)
 
 Die Erlangung, die Nutzung oder die Offenlegung eines
 Geschäftsgeheimnisses fällt nicht unter die Verbote des § 4, wenn dies
@@ -218,9 +224,11 @@ zum Schutz eines berechtigten Interesses erfolgt, insbesondere
 
 
 ## Abschnitt 2 - Ansprüche bei Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNG000200000)
 
 
 ### § 6 Beseitigung und Unterlassung
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000700000)
 
 Der Inhaber des Geschäftsgeheimnisses kann den Rechtsverletzer auf
 Beseitigung der Beeinträchtigung und bei Wiederholungsgefahr auch auf
@@ -229,6 +237,7 @@ auch dann, wenn eine Rechtsverletzung erstmalig droht.
 
 
 ### § 7 Vernichtung; Herausgabe; Rückruf; Entfernung und Rücknahme vom Markt
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000800000)
 
 Der Inhaber des Geschäftsgeheimnisses kann den Rechtsverletzer auch in
 Anspruch nehmen auf
@@ -257,6 +266,7 @@ Anspruch nehmen auf
 
 
 ### § 8 Auskunft über rechtsverletzende Produkte; Schadensersatz bei Verletzung der Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE000900000)
 
 (1) Der Inhaber des Geschäftsgeheimnisses kann vom Rechtsverletzer
 Auskunft über Folgendes verlangen:
@@ -288,6 +298,7 @@ Schadens verpflichtet.
 
 
 ### § 9 Anspruchsausschluss bei Unverhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001000000)
 
 Die Ansprüche nach den §§ 6 bis 8 Absatz 1 sind ausgeschlossen, wenn
 die Erfüllung im Einzelfall unverhältnismäßig wäre, unter
@@ -323,6 +334,7 @@ Berücksichtigung insbesondere
 
 
 ### § 10 Haftung des Rechtsverletzers
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001100000)
 
 (1) Ein Rechtsverletzer, der vorsätzlich oder fahrlässig handelt, ist
 dem Inhaber des Geschäftsgeheimnisses zum Ersatz des daraus
@@ -344,6 +356,7 @@ entspricht.
 
 
 ### § 11 Abfindung in Geld
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001200000)
 
 (1) Ein Rechtsverletzer, der weder vorsätzlich noch fahrlässig
 gehandelt hat, kann zur Abwendung der Ansprüche nach den §§ 6 oder 7
@@ -361,6 +374,7 @@ zusteht.
 
 
 ### § 12 Haftung des Inhabers eines Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001300000)
 
 Ist der Rechtsverletzer Beschäftigter oder Beauftragter eines
 Unternehmens, so hat der Inhaber des Geschäftsgeheimnisses die
@@ -371,6 +385,7 @@ verspätet, falsch oder unvollständig erteilt hat.
 
 
 ### § 13 Herausgabeanspruch nach Eintritt der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001400000)
 
 Hat der Rechtsverletzer ein Geschäftsgeheimnis vorsätzlich oder
 fahrlässig erlangt, offengelegt oder genutzt und durch diese
@@ -383,6 +398,7 @@ verjährt sechs Jahre nach seiner Entstehung.
 
 
 ### § 14 Missbrauchsverbot
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001500000)
 
 Die Geltendmachung der Ansprüche nach diesem Gesetz ist unzulässig,
 wenn sie unter Berücksichtigung der gesamten Umstände missbräuchlich
@@ -392,9 +408,11 @@ verlangen. Weitergehende Ersatzansprüche bleiben unberührt.
 
 
 ## Abschnitt 3 - Verfahren in Geschäftsgeheimnisstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNG000300000)
 
 
 ### § 15 Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001600000)
 
 (1) Für Klagen vor den ordentlichen Gerichten, durch die Ansprüche
 nach diesem Gesetz geltend gemacht werden, sind die Landgerichte ohne
@@ -416,6 +434,7 @@ teilweise dem zuständigen Gericht eines anderen Landes übertragen.
 
 
 ### § 16 Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001700000)
 
 (1) Bei Klagen, durch die Ansprüche nach diesem Gesetz geltend gemacht
 werden (Geschäftsgeheimnisstreitsachen) kann das Gericht der
@@ -439,6 +458,7 @@ enthaltenden Ausführungen unkenntlich gemacht wurden.
 
 
 ### § 17 Ordnungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001800000)
 
 Das Gericht der Hauptsache kann auf Antrag einer Partei bei
 Zuwiderhandlungen gegen die Verpflichtungen nach § 16 Absatz 2 ein
@@ -451,6 +471,7 @@ Ordnungsmittel entfaltet aufschiebende Wirkung.
 
 
 ### § 18 Geheimhaltung nach Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE001900000)
 
 Die Verpflichtungen nach § 16 Absatz 2 bestehen auch nach Abschluss
 des gerichtlichen Verfahrens fort. Dies gilt nicht, wenn das Gericht
@@ -462,6 +483,7 @@ oder ohne Weiteres zugänglich werden.
 
 
 ### § 19 Weitere gerichtliche Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE002000000)
 
 (1) Zusätzlich zu § 16 Absatz 1 beschränkt das Gericht der Hauptsache
 zur Wahrung von Geschäftsgeheimnissen auf Antrag einer Partei den
@@ -505,6 +527,7 @@ zusätzliche Beschränkungen nach Absatz 1 Satz 1 getroffen hat.
 
 
 ### § 20 Verfahren bei Maßnahmen nach den §§ 16 bis 19
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE002100000)
 
 (1) Das Gericht der Hauptsache kann eine Beschränkung nach § 16 Absatz
 1 und § 19 Absatz 1 ab Anhängigkeit des Rechtsstreits anordnen.
@@ -554,6 +577,7 @@ die sofortige Beschwerde statt.
 
 
 ### § 21 Bekanntmachung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE002200000)
 
 (1) Der obsiegenden Partei einer Geschäftsgeheimnisstreitsache kann
 auf Antrag in der Urteilsformel die Befugnis zugesprochen werden, das
@@ -589,6 +613,7 @@ sei denn, das Gericht bestimmt etwas anderes.
 
 
 ### § 22 Streitwertbegünstigung
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE002300000)
 
 (1) Macht bei Geschäftsgeheimnisstreitsachen eine Partei glaubhaft,
 dass die Belastung mit den Prozesskosten nach dem vollen Streitwert
@@ -626,9 +651,11 @@ hören.
 
 
 ## Abschnitt 4 - Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNG000400000)
 
 
 ### § 23 Verletzung von Geschäftsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html#BJNR046610019BJNE002400000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer zur Förderung des eigenen oder fremden Wettbewerbs, aus

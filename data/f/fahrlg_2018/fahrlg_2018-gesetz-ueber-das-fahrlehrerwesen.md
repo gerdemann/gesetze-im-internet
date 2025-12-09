@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt G 9231-7 v. 25.08.1969 I 1336 (FahrlG);
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000101124)
 
 Abschnitt 1
 ## Fahrlehrerlaubnis
@@ -444,9 +445,11 @@ Ermächtigungsgrundlagen,
 
 
 ## Abschnitt 1 - Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000100000)
 
 
 ### § 1 Erfordernis und Inhalt der Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000200000)
 
 (1) Wer Personen ausbildet, die eine Erlaubnis zum Führen von
 Kraftfahrzeugen nach § 2 des Straßenverkehrsgesetzes erwerben wollen
@@ -495,6 +498,7 @@ Fahrschülern Gebrauch gemacht werden.
 
 
 ### § 2 Voraussetzungen der Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000301124)
 
 (1) Die Fahrlehrerlaubnis wird erteilt, wenn
 
@@ -553,6 +557,7 @@ unterzogen hat.
 
 
 ### § 3 Voraussetzungen für die Erteilung der Fahrlehrerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000401126)
 
 (1) Einem Bewerber um eine Fahrlehrerlaubnis, der Inhaber einer in
 einem anderen Staat erteilten Fahrlehrerlaubnis oder eines in einem
@@ -612,6 +617,7 @@ Anwendung.
 
 
 ### § 4 Antrag auf Erteilung der Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000501124)
 
 (1) In dem Antrag auf Erteilung der Fahrlehrerlaubnis hat der Bewerber
 anzugeben, für welche Fahrlehrerlaubnisklasse er die Fahrlehrerlaubnis
@@ -716,6 +722,7 @@ Nummer 6 und 7 sind nach Abschluss der Ausbildung nachzureichen.
 
 
 ### § 5 Antrag auf Erteilung einer Fahrlehrerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat nach § 3
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000602126)
 
 (1) In dem Antrag auf Erteilung der Fahrlehrerlaubnis nach § 3 hat der
 Bewerber anzugeben, für welche Fahrlehrerlaubnisklasse er die
@@ -893,6 +900,7 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 
 
 ### § 6 Meldepflicht der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 3 Absatz 1 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000700000)
 
 Der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und
 gelegentlichen Fahrschülerausbildung nach § 3 Absatz 1 Satz 2 hat der
@@ -910,6 +918,7 @@ Absatz 1 Satz 2 ist eine Meldung entbehrlich.
 
 
 ### § 7 Fahrlehrerausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000800000)
 
 (1) Die Fahrlehrerausbildung muss dem Bewerber um die
 Fahrlehrerlaubnis die fachlichen und pädagogischen Kompetenzen zur
@@ -953,6 +962,7 @@ um einen Monat.
 
 
 ### § 8 Fahrlehrerprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE000900000)
 
 (1) Der Bewerber für die Fahrlehrerlaubnis muss durch die
 Fahrlehrerprüfung den Nachweis erbringen, dass er über die fachliche
@@ -965,6 +975,7 @@ theoretischen und im fahrpraktischen Unterricht.
 
 
 ### § 9 Anwärterbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001001124)
 
 (1) Bewerbern für die Fahrlehrerlaubnis der Klasse BE
 (Fahrlehreranwärter) wird zum Zwecke der weiteren Ausbildung nach § 7
@@ -995,6 +1006,7 @@ Ausbildungsfahrlehrers im Sinne des § 16 Gebrauch gemacht werden.
 
 
 ### § 10 Erteilung der Fahrlehrerlaubnis und der Anwärterbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001101124)
 
 (1) Die Fahrlehrerlaubnis wird durch Aushändigung oder Zustellung des
 Fahrlehrerscheins erteilt, die Anwärterbefugnis wird durch die
@@ -1065,6 +1077,7 @@ Ausbildungsverhältnisses vorzulegen.
 
 
 ### § 11 Geistige und körperliche Eignung des Fahrlehrers, Prüfung der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001201124)
 
 (1) Der Inhaber einer Fahrlehrerlaubnis muss seine Eignung im Sinne
 des § 2 Absatz 1 Satz 1 Nummer 2 alle fünf Jahre, beginnend mit dem
@@ -1099,6 +1112,7 @@ begründen.
 
 
 ### § 12 Pflichten des Fahrlehrers und Fahrlehreranwärters, Fahrschülerausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001300000)
 
 Fahrlehrer und Fahrlehreranwärter haben die Fahrschüler gewissenhaft
 auszubilden. Sie haben ihnen die Kenntnisse, Fähigkeiten und
@@ -1119,6 +1133,7 @@ sind, darf die tägliche Gesamtarbeitszeit zehn Stunden nicht
 
 
 ### § 13 Ruhen und Erlöschen der Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001400000)
 
 (1) Die Fahrlehrerlaubnis ruht, solange ein Fahrverbot nach § 25 des
 Straßenverkehrsgesetzes oder § 44 des Strafgesetzbuchs besteht, der
@@ -1152,6 +1167,7 @@ Landesrecht zuständigen Behörde zurückzugeben.
 
 
 ### § 14 Rücknahme und Widerruf der Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001500000)
 
 (1) Die Fahrlehrerlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung
 eine der Voraussetzungen des § 2 nicht vorgelegen hat und nachträglich
@@ -1182,6 +1198,7 @@ unberührt.
 
 
 ### § 15 Erteilung einer neuen Fahrlehrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001601124)
 
 (1) Wird nach Erlöschen, Rücknahme, Widerruf oder Verzicht einer
 Fahrlehrerlaubnis eine neue Erlaubnis beantragt, gelten die
@@ -1198,6 +1215,7 @@ zwei Jahre verstrichen sind.
 
 
 ### § 16 Ausbildungsfahrlehrer und Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001701124)
 
 (1) Wer Fahrlehreranwärter ausbildet (Ausbildungsfahrlehrer), bedarf
 der Erlaubnis (Ausbildungsfahrlehrerlaubnis). Die
@@ -1254,9 +1272,11 @@ einer Fortbildung nach § 53 Absatz 3 teilzunehmen.
 
 
 ## Abschnitt 2 - Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000200000)
 
 
 ### § 17 Erfordernis und Inhalt der Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001800000)
 
 (1) Wer als selbstständiger Fahrlehrer Fahrschüler ausbildet oder
 durch von ihm beschäftigte Fahrlehrer ausbilden lässt, bedarf der
@@ -1271,6 +1291,7 @@ Fahrschulerlaubnisklassen A, BE, CE oder DE erteilt. Im Übrigen ist §
 
 
 ### § 18 Voraussetzungen der Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE001902123)
 
 (1) Die Fahrschulerlaubnis wird erteilt, wenn
 
@@ -1327,6 +1348,7 @@ er zur betriebswirtschaftlichen Leitung einer Fahrschule befähigt ist.
 
 
 ### § 19 Gemeinschaftsfahrschule
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002000000)
 
 Bis zu fünf Inhaber einer Fahrschulerlaubnis können eine Fahrschule in
 der Rechtsform einer Gesellschaft bürgerlichen Rechts ohne das
@@ -1338,6 +1360,7 @@ Gesellschaftsvertrag bedarf der Schriftform.
 
 
 ### § 20 Kooperation
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002101124)
 
 Der Inhaber einer Fahrschulerlaubnis kann Teile der Ausbildung an eine
 oder mehrere kooperierende Fahrschulen nach Maßgabe der Sätze 2 und 3
@@ -1352,6 +1375,7 @@ von der Auftrag nehmenden Fahrschule ausgebildet werden.
 
 
 ### § 21 Voraussetzungen für die Erteilung der Fahrschulerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002200000)
 
 Ein Bewerber um eine Fahrschulerlaubnis, der Inhaber einer in einem
 anderen Staat erteilten Fahrlehrerlaubnis, die in diesem Staat zur
@@ -1374,6 +1398,7 @@ nicht anzuwenden.
 
 
 ### § 22 Antrag auf Erteilung der Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002301123)
 
 (1) In dem Antrag auf Erteilung der Fahrschulerlaubnis hat der
 Bewerber den Namen und die Anschrift der Fahrschule mitzuteilen und
@@ -1442,6 +1467,7 @@ Unterlagen nach Absatz 1 Nummer 5 bis 7 an Ort und Stelle zu prüfen. §
 
 
 ### § 23 Antrag auf Erteilung der Fahrschulerlaubnis, die zur Niederlassung im Inland berechtigt, an Inhaber eines Befähigungsnachweises aus einem anderen Mitgliedstaat der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002401123)
 
 (1) In dem Antrag auf Erteilung der Fahrschulerlaubnis nach § 21, die
 zur Niederlassung im Inland berechtigt, hat der Bewerber den Namen und
@@ -1573,6 +1599,7 @@ prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 24 Antrag auf Erteilung der Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung an Inhaber eines Befähigungsnachweises aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002502123)
 
 (1) In dem Antrag auf Erteilung einer Fahrschulerlaubnis zur
 vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 21
@@ -1681,6 +1708,7 @@ prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 25 Meldepflicht des Inhabers einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002600000)
 
 Der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und
 gelegentlichen Fahrschülerausbildung nach § 21 Satz 2 in Verbindung
@@ -1701,6 +1729,7 @@ Satz 2 ist eine Meldung nach Satz 1 entbehrlich.
 
 
 ### § 26 Erteilung der Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002701123)
 
 (1) Die Fahrschulerlaubnis bedarf der Schriftform.
 
@@ -1743,6 +1772,7 @@ des Ausbildungsbetriebs bestellte Person.
 
 
 ### § 27 Zweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002801124)
 
 (1) Wer als Inhaber einer Fahrschule Zweigstellen seiner Fahrschule
 betreibt, bedarf der Zweigstellenerlaubnis.
@@ -1790,6 +1820,7 @@ Gesellschafter.
 
 
 ### § 28 Fortführen der Fahrschule nach dem Tod des Inhabers der Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE002900000)
 
 (1) Nach dem Tod des Inhabers der Fahrschulerlaubnis kann die
 Fahrschule fortgeführt werden
@@ -1818,6 +1849,7 @@ Absatz 1 Nummer 1 bis 5 und Absatz 2 Satz 2 oder des § 21 erfüllen.
 
 
 ### § 29 Allgemeine Pflichten des Inhabers der Fahrschule und der verantwortlichen Leitung des Ausbildungsbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003000000)
 
 (1) Der Inhaber der Fahrschule oder die für die verantwortliche
 Leitung des Ausbildungsbetriebs bestellte Person hat dafür zu sorgen,
@@ -1865,6 +1897,7 @@ die dort durchgeführten Ausbildungsteile bleibt unberührt.
 
 
 ### § 30 Anzeigepflichten des Inhabers der Fahrschule und der für die verantwortliche Leitung des Ausbildungsbetriebs bestellten Person
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003102123)
 
 Der Inhaber der Fahrschule oder in den Fällen des § 18 Absatz 2, § 28
 Absatz 2, § 33 Absatz 1 Satz 3 und § 34 Absatz 4 die für die
@@ -1942,6 +1975,7 @@ Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
 
 
 ### § 31 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003201124)
 
 (1) Der Inhaber der Fahrschule oder in den Fällen des § 18 Absatz 2,
 des § 28 Absatz 2, des § 33 Absatz 1 Satz 3 und des § 33 Absatz 4 die
@@ -1970,6 +2004,7 @@ unverzüglich zu löschen oder sonst zu vernichten.
 
 
 ### § 32 Unterrichtsentgelte
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003300000)
 
 (1) Jeder Inhaber der Fahrschulerlaubnis bildet seine Entgelte frei,
 selbstständig und in eigener Verantwortung; dies gilt für
@@ -2061,6 +2096,7 @@ entsprechen.
 
 
 ### § 33 Ruhen und Erlöschen der Fahrschulerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003400000)
 
 (1) Die Fahrschulerlaubnis einer natürlichen Person ruht, solange für
 diese Person ein Fahrverbot nach § 25 des Straßenverkehrsgesetzes oder
@@ -2119,6 +2155,7 @@ verantwortlichen Leitung des Ausbildungsbetriebs bestellt wird.
 
 
 ### § 34 Rücknahme und Widerruf der Fahrschulerlaubnis, Widerruf der Zweigstellenerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003500000)
 
 (1) Die Fahrschulerlaubnis ist zurückzunehmen, wenn bei ihrer
 Erteilung eine der Voraussetzungen des § 18 nicht vorgelegen hat und
@@ -2190,6 +2227,7 @@ unberührt.
 
 
 ### § 35 Ausbildungsfahrschule
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003601124)
 
 (1) In einer Fahrschule dürfen nur dann Fahrlehreranwärter ausgebildet
 werden, wenn der Inhaber oder die für die verantwortliche Leitung des
@@ -2214,9 +2252,11 @@ zuständige Behörde die Ausbildung von Fahrlehreranwärtern untersagen.
 
 
 ## Abschnitt 3 - Fahrlehrerausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000300000)
 
 
 ### § 36 Notwendigkeit und sachlicher Geltungsbereich der amtlichen Anerkennung von Fahrlehrerausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003700000)
 
 (1) Wer in einer Fahrlehrerausbildungsstätte Fahrlehreranwärter
 ausbildet oder ausbilden lässt, bedarf der amtlichen Anerkennung
@@ -2228,6 +2268,7 @@ erteilt.
 
 
 ### § 37 Voraussetzungen der amtlichen Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003802123)
 
 (1) Die amtliche Anerkennung wird erteilt, wenn
 
@@ -2275,6 +2316,7 @@ entsprechend.
 
 
 ### § 38 Antrag auf amtliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE003902123)
 
 (1) Im Antrag auf amtliche Anerkennung hat der Bewerber den Namen und
 die Anschrift der Fahrlehrerausbildungsstätte anzugeben. Dem Antrag
@@ -2335,6 +2377,7 @@ prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 39 Erteilung der amtlichen Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004002123)
 
 (1) Die amtliche Anerkennung bedarf der Schriftform.
 
@@ -2365,6 +2408,7 @@ prüfen. § 51 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 40 Allgemeine Pflichten des Inhabers und der für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellten Person
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004100000)
 
 (1) Der Inhaber oder die für die verantwortliche Leitung der
 Fahrlehrerausbildungsstätte bestellte Person hat dafür zu sorgen, dass
@@ -2383,6 +2427,7 @@ Abschluss des Ausbildungsvertrags auszuhändigen.
 
 
 ### § 41 Anzeigepflichten des Inhabers und der für die verantwortliche Leitung der Fahrlehrerausbildungsstätte bestellten Person
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004201123)
 
 Der Inhaber oder die für die verantwortliche Leitung der
 Fahrlehrerausbildungsstätte bestellte Person hat der nach Landesrecht
@@ -2424,6 +2469,7 @@ hat.
 
 
 ### § 42 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004301124)
 
 (1) Der Inhaber oder die für die verantwortliche Leitung der
 Fahrlehrerausbildungsstätte bestellte Person hat Aufzeichnungen über
@@ -2462,6 +2508,7 @@ oder sonst zu vernichten.
 
 
 ### § 43 Rücknahme und Widerruf der amtlichen Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004400000)
 
 (1) Die amtliche Anerkennung ist zurückzunehmen, wenn bei ihrer
 Erteilung eine der Voraussetzungen des § 37 nicht vorgelegen hat und
@@ -2486,9 +2533,11 @@ unberührt.
 
 
 ## Abschnitt 4 - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000400000)
 
 
 ### § 44 Fahrlehrer, Fahrschulen und Fahrlehrerausbildungsstätten bei Behörden
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004501124)
 
 (1) Der Bund, die Länder, die Gemeinden und andere
 Gebietskörperschaften dürfen eigene Fahrschulen einrichten und
@@ -2575,9 +2624,11 @@ eine gleichwertige Ausbildung sichergestellt ist.
 
 
 ## Abschnitt 5 - Seminarerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000500000)
 
 
 ### § 45 Erfordernis, Inhalt und Voraussetzung der Seminarerlaubnis zur Durchführung von Aufbauseminaren
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004601124)
 
 (1) Wer Aufbauseminare im Sinne des § 2a Absatz 2 Satz 1 Nummer 1 des
 Straßenverkehrsgesetzes durchführt, bedarf der Seminarerlaubnis
@@ -2663,6 +2714,7 @@ Fortbildung nach § 53 Absatz 2 Satz 1 teilzunehmen.
 
 
 ### § 46 Erfordernis, Inhalt und Voraussetzung der Seminarerlaubnis Verkehrspädagogik
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004701124)
 
 (1) Wer die verkehrspädagogische Teilmaßnahme des Fahreignungsseminars
 im Sinne des § 4a Absatz 2 Satz 2 Nummer 1 des Straßenverkehrsgesetzes
@@ -2796,6 +2848,7 @@ Fortbildung nach § 53 Absatz 2 Nummer 2 teilzunehmen.
 
 
 ### § 47 Voraussetzungen für die Durchführung von Einweisungslehrgängen nach § 46 Absatz 2 Satz 1 Nummer 4
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004801124)
 
 (1) Zur Durchführung von Einweisungslehrgängen nach § 46 Absatz 2 Satz
 1 Nummer 4 ist berechtigt, wer von der nach Landesrecht zuständigen
@@ -2859,6 +2912,7 @@ darf zwölf nicht überschreiten.
 
 
 ### § 48 Voraussetzungen für die Durchführung von Einführungsseminaren für Lehrgangsleitungen nach § 47 Absatz 1 Nummer 5
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE004900000)
 
 Zur Durchführung von Einführungsseminaren für Lehrgangsleitungen ist
 ein Träger berechtigt, der von der nach Landesrecht zuständigen
@@ -2873,6 +2927,7 @@ geeigneter Personen oder Stellen bedienen.
 
 
 ### § 49 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005000000)
 
 Das Fahreignungsseminar, die Vorschriften hierzu und der Vollzug
 einschließlich insbesondere der Einweisungslehrgänge und
@@ -2887,9 +2942,11 @@ Deutschen Bundestag vor.
 
 
 ## Abschnitt 6 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000600000)
 
 
 ### § 50 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005101124)
 
 (1) Dieses Gesetz und die auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen werden von den nach Landesrecht zuständigen
@@ -2933,6 +2990,7 @@ Behörden ausgeführt soweit nicht Abweichendes geregelt ist.
 
 
 ### § 51 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005202123)
 
 (1) Die nach Landesrecht zuständige Behörde überwacht die Fahrlehrer,
 die Fahrschulen und deren Zweigstellen, die
@@ -3066,6 +3124,7 @@ Behörde zur Überwachung im Sinne des Absatzes 2 bleibt unberührt.
 
 
 ### § 52 Mitteilung über Eignungs- und Zuverlässigkeitsmängel
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005300000)
 
 Die Polizei, bei Straftaten die Staatsanwaltschaft, hat den nach
 Landesrecht zuständigen Behörden Informationen über Tatsachen, die auf
@@ -3080,6 +3139,7 @@ vernichten.
 
 
 ### § 53 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005401124)
 
 (1) Jeder Fahrlehrer hat nach Maßgabe der Sätze 2 und 3 alle vier
 Jahre an einem jeweils dreitägigen Fortbildungslehrgang teilzunehmen.
@@ -3155,6 +3215,7 @@ Anerkennung durch die nach Landesrecht zuständige Behörde.
 
 
 ### § 54 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005502123)
 
 (1) Die nach Landesrecht zuständigen Behörden können Ausnahmen
 genehmigen
@@ -3284,6 +3345,7 @@ dies aus dienstlichen Gründen geboten ist.
 
 
 ### § 55 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005600000)
 
 (1) Für Amtshandlungen, einschließlich Prüfungen und Untersuchungen
 nach diesem Gesetz und nach den auf diesem Gesetz beruhenden
@@ -3326,6 +3388,7 @@ Fassung geregelt werden.
 
 
 ### § 56 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005701124)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig:
 
@@ -3443,9 +3506,11 @@ werden.
 
 
 ## Abschnitt 7 - Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000700000)
 
 
 ### § 57 Registerführung und Registerbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005800000)
 
 (1) Die nach Landesrecht zuständigen Behörden dürfen Register
 (örtliches Fahrlehrerregister) über Fahrlehrer, Fahrlehreranwärter,
@@ -3466,6 +3531,7 @@ Fahrschulen und Fahrlehrerausbildungsstätten führen.
 
 
 ### § 58 Zweck der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE005900000)
 
 Die Eintragungen erfolgen:
 
@@ -3481,6 +3547,7 @@ Die Eintragungen erfolgen:
 
 
 ### § 59 Inhalt der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006002123)
 
 (1) Im Zentralen Fahrerlaubnisregister nach § 48 des
 Straßenverkehrsgesetzes werden bei den dort eingetragenen betreffenden
@@ -3600,6 +3667,7 @@ Fahrlehrerregistern gespeichert.
 
 
 ### § 60 Übermittlung der Daten zur Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006100000)
 
 (1) Die nach Landesrecht zuständigen Behörden teilen dem Kraftfahrt-
 Bundesamt unverzüglich die nach § 59 Absatz 1 und 2 zu speichernden
@@ -3619,6 +3687,7 @@ erforderlich ist.
 
 
 ### § 61 Übermittlung der Daten aus den Registern
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006200000)
 
 Die in den Registern nach § 59 gespeicherten Daten dürfen den Stellen,
 die
@@ -3645,6 +3714,7 @@ erforderlich ist.
 
 
 ### § 62 Abgleich der Daten mit dem Fahreignungsregister
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006300000)
 
 (1) Das Kraftfahrt-Bundesamt prüft und stellt fest, ob im
 Fahreignungsregister enthaltene Eintragungen Fahrlehrer oder
@@ -3659,6 +3729,7 @@ Erklärung sowie Aktenzeichen der Behörde oder des Gerichts mitgeteilt.
 
 
 ### § 63 Übermittlung von Daten an öffentliche Stellen außerhalb des Geltungsbereichs dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006401124)
 
 (1) Die nach § 62 Absatz 1 in Verbindung mit § 59 Absatz 2 Nummer 1
 bis 5 und 7 dieses Gesetzes oder in Verbindung mit § 28 Absatz 3
@@ -3712,6 +3783,7 @@ Rechtsmittel gegen die Entscheidung eingelegt hat.
 
 
 ### § 64 Weiterverarbeitung der Daten für wissenschaftliche und statistische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006501124)
 
 Es gelten für die Weiterverarbeitung der nach § 59 gespeicherten Daten
 
@@ -3726,6 +3798,7 @@ des Straßenverkehrsgesetzes entsprechend.
 
 
 ### § 65 Datenvergleich zur Beseitigung von Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006600000)
 
 (1) Die nach § 59 Absatz 3 gespeicherten Daten dürfen von der nach
 Landesrecht zuständigen Behörde an das Kraftfahrt-Bundesamt zum
@@ -3747,6 +3820,7 @@ oder unvollständig sind.
 
 
 ### § 66 Weiterverarbeitung der Daten durch den Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006701124)
 
 Der Empfänger darf die übermittelten Daten nur zu dem Zweck
 weiterverarbeiten, zu dessen Erfüllung sie ihm übermittelt worden
@@ -3759,6 +3833,7 @@ Stellen bedarf der Zustimmung der übermittelnden Stelle.
 
 
 ### § 67 Löschung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006800000)
 
 Die auf Grund des § 59 gespeicherten Daten sind
 
@@ -3786,9 +3861,11 @@ zu löschen. Für die Löschung der nach § 62 übermittelten Daten gilt §
 
 
 ## Abschnitt 8 - Ermächtigungsgrundlagen, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNG000800000)
 
 
 ### § 68 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE006901124)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -3899,6 +3976,7 @@ des Einvernehmens des Bundesministeriums für Bildung und Forschung.
 
 
 ### § 69 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fahrlg_2018/BJNR216210017.html#BJNR216210017BJNE007002123)
 
 (1) Personen, die am 1. Januar 2018 Inhaber einer Fahrlehrerlaubnis
 sind, gilt die Fahrlehrerlaubnis nach diesem Gesetz als erteilt; der

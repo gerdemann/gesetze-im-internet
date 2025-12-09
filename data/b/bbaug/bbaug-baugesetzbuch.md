@@ -50,18 +50,22 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeines Städtebaurecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG003604116)
 
 
 
 ### Erster Teil - Bauleitplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000104116)
 
 
 
 #### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000204116)
 
 
 
 ##### § 1 Aufgabe, Begriff und Grundsätze der Bauleitplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE003619130)
 
 (1) Aufgabe der Bauleitplanung ist es, die bauliche und sonstige
 Nutzung der Grundstücke in der Gemeinde nach Maßgabe dieses
@@ -258,6 +262,7 @@ Bauleitplänen gelten auch für ihre Änderung, Ergänzung und Aufhebung.
 
 
 ##### § 1a Ergänzende Vorschriften zum Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035407116)
 
 (1) Bei der Aufstellung der Bauleitpläne sind die nachfolgenden
 Vorschriften zum Umweltschutz anzuwenden.
@@ -311,6 +316,7 @@ berücksichtigen.
 
 
 ##### § 2 Aufstellung der Bauleitpläne
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE003709116)
 
 (1) Die Bauleitpläne sind von der Gemeinde in eigener Verantwortung
 aufzustellen. Der Beschluss, einen Bauleitplan aufzustellen, ist
@@ -347,6 +353,7 @@ Bestandsaufnahmen und Bewertungen in der Umweltprüfung heranzuziehen.
 
 
 ##### § 2a Begründung zum Bauleitplanentwurf, Umweltbericht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036704116)
 
 Die Gemeinde hat im Aufstellungsverfahren dem Entwurf des Bauleitplans
 eine Begründung beizufügen. In ihr sind entsprechend dem Stand des
@@ -366,6 +373,7 @@ Begründung.
 
 
 ##### § 3 Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE003914130)
 
 (1) Die Öffentlichkeit ist möglichst frühzeitig über die allgemeinen
 Ziele und Zwecke der Planung, sich wesentlich unterscheidende
@@ -451,6 +459,7 @@ rechtzeitig geltend gemacht hat, aber hätte geltend machen können.
 
 
 ##### § 4 Beteiligung der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004011130)
 
 (1) Die Behörden und sonstigen Träger öffentlicher Belange, deren
 Aufgabenbereich durch die Planung berührt werden kann, sind
@@ -487,6 +496,7 @@ die Umwelt hat.
 
 
 ##### § 4a Gemeinsame Vorschriften zur Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035509130)
 
 (1) Die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung
 dienen insbesondere der vollständigen Ermittlung und zutreffenden
@@ -549,6 +559,7 @@ die Gemeinden verbindlich sind.
 
 
 ##### § 4b Einschaltung eines Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035605116)
 
 Die Gemeinde kann insbesondere zur Beschleunigung des
 Bauleitplanverfahrens die Vorbereitung und Durchführung von
@@ -559,6 +570,7 @@ eines anderen Verfahrens der außergerichtlichen Konfliktbeilegung
 
 
 ##### § 4c Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037004116)
 
 Die Gemeinden überwachen die erheblichen Umweltauswirkungen, die auf
 Grund der Durchführung der Bauleitpläne eintreten, um insbesondere
@@ -573,10 +585,12 @@ Absatz 3.
 
 
 #### Zweiter Abschnitt - Vorbereitender Bauleitplan (Flächennutzungsplan)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000304116)
 
 
 
 ##### § 5 Inhalt des Flächennutzungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004217130)
 
 (1) Im Flächennutzungsplan ist für das ganze Gemeindegebiet die sich
 aus der beabsichtigten städtebaulichen Entwicklung ergebende Art der
@@ -718,6 +732,7 @@ Flächennutzungsplan vermerkt werden.
 
 
 ##### § 6 Genehmigung des Flächennutzungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004308130)
 
 (1) Der Flächennutzungsplan bedarf der Genehmigung der höheren
 Verwaltungsbehörde.
@@ -753,6 +768,7 @@ Ergänzung erfahren hat, neu bekannt zu machen ist.
 
 
 ##### § 6a Zusammenfassende Erklärung zum Flächennutzungsplan; Einstellen in das Internet
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038601116)
 
 (1) Dem wirksamen Flächennutzungsplan ist eine zusammenfassende
 Erklärung beizufügen über die Art und Weise, wie die Umweltbelange und
@@ -768,6 +784,7 @@ zugänglich gemacht werden.
 
 
 ##### § 7 Anpassung an den Flächennutzungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004406116)
 
 Öffentliche Planungsträger, die nach § 4 oder § 13 beteiligt worden
 sind, haben ihre Planungen dem Flächennutzungsplan insoweit
@@ -790,10 +807,12 @@ unberührt.
 
 
 #### Dritter Abschnitt - Verbindlicher Bauleitplan (Bebauungsplan)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000404116)
 
 
 
 ##### § 8 Zweck des Bebauungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004506116)
 
 (1) Der Bebauungsplan enthält die rechtsverbindlichen Festsetzungen
 für die städtebauliche Ordnung. Er bildet die Grundlage für weitere,
@@ -824,6 +843,7 @@ geändert ist.
 
 
 ##### § 9 Inhalt des Bebauungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004620130)
 
 (1) Im Bebauungsplan können aus städtebaulichen Gründen festgesetzt
 werden:
@@ -1208,6 +1228,7 @@ beizufügen.
 
 
 ##### § 9a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036908116)
 
 (1) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
@@ -1255,6 +1276,7 @@ zu erlassen.
 
 
 ##### § 10 Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004808116)
 
 (1) Die Gemeinde beschließt den Bebauungsplan als Satzung.
 
@@ -1274,6 +1296,7 @@ sonst für Satzungen vorgeschriebenen Veröffentlichung.
 
 
 ##### § 10a Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038701116)
 
 (1) Dem in Kraft getretenen Bebauungsplan ist eine zusammenfassende
 Erklärung beizufügen über die Art und Weise, wie die Umweltbelange und
@@ -1289,10 +1312,12 @@ zugänglich gemacht werden.
 
 
 #### Vierter Abschnitt - Zusammenarbeit mit Privaten; vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006203116)
 
 
 
 ##### § 11 Städtebaulicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE004911116)
 
 (1) Die Gemeinde kann städtebauliche Verträge schließen. Gegenstände
 eines städtebaulichen Vertrags können insbesondere sein:
@@ -1355,6 +1380,7 @@ unberührt.
 
 
 ##### § 12 Vorhaben- und Erschließungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005010116)
 
 (1) Die Gemeinde kann durch einen vorhabenbezogenen Bebauungsplan die
 Zulässigkeit von Vorhaben bestimmen, wenn der Vorhabenträger auf der
@@ -1423,6 +1449,7 @@ baulichen Anlagen zu Wohnzwecken in diesen Gebieten regelt.
 
 
 ##### § 13 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005111130)
 
 (1) Werden durch die Änderung oder Ergänzung eines Bauleitplans die
 Grundzüge der Planung nicht berührt oder wird durch die Aufstellung
@@ -1480,6 +1507,7 @@ einer Umweltprüfung abgesehen wird.
 
 
 ##### § 13a Bebauungspläne der Innenentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038104125)
 
 (1) Ein Bebauungsplan für die Wiedernutzbarmachung von Flächen, die
 Nachverdichtung oder andere Maßnahmen der Innenentwicklung
@@ -1575,14 +1603,17 @@ Ergänzung und Aufhebung eines Bebauungsplans.
 
 
 ### Zweiter Teil - Sicherung der Bauleitplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000504116)
 
 
 
 #### Erster Abschnitt - Veränderungssperre und Zurückstellung von Baugesuchen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000604116)
 
 
 
 ##### § 14 Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005308116)
 
 (1) Ist ein Beschluss über die Aufstellung eines Bebauungsplans
 gefasst, kann die Gemeinde zur Sicherung der Planung für den künftigen
@@ -1620,6 +1651,7 @@ Veränderungssperre nicht anzuwenden.
 
 
 ##### § 15 Zurückstellung von Baugesuchen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005409116)
 
 (1) Wird eine Veränderungssperre nach § 14 nicht beschlossen, obwohl
 die Voraussetzungen gegeben sind, oder ist eine beschlossene
@@ -1664,6 +1696,7 @@ aussetzen.
 
 
 ##### § 16 Beschluss über die Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005506116)
 
 (1) Die Veränderungssperre wird von der Gemeinde als Satzung
 beschlossen.
@@ -1675,6 +1708,7 @@ ist entsprechend anzuwenden.
 
 
 ##### § 17 Geltungsdauer der Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005607116)
 
 (1) Die Veränderungssperre tritt nach Ablauf von zwei Jahren außer
 Kraft. Auf die Zweijahresfrist ist der seit der Zustellung der ersten
@@ -1704,6 +1738,7 @@ ausgeschlossen ist.
 
 
 ##### § 18 Entschädigung bei Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005705116)
 
 (1) Dauert die Veränderungssperre länger als vier Jahre über den
 Zeitpunkt ihres Beginns oder der ersten Zurückstellung eines
@@ -1734,10 +1769,12 @@ Absatzes 2 Satz 2 und 3 hinzuweisen.
 
 
 #### Zweiter Abschnitt - Teilung von Grundstücken; Gebiete mit Fremdenverkehrsfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000706116)
 
 
 
 ##### § 19 Teilung von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005808116)
 
 (1) Die Teilung eines Grundstücks ist die dem Grundbuchamt gegenüber
 abgegebene oder sonst wie erkennbar gemachte Erklärung des
@@ -1752,14 +1789,17 @@ Festsetzungen des Bebauungsplans widersprechen.
 
 
 ##### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE005907116)
 
 
 
 ##### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006006116)
 
 
 
 ##### § 22 Sicherung von Gebieten mit Fremdenverkehrsfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006110125)
 
 (1) Die Gemeinden, die oder deren Teile überwiegend durch den
 Fremdenverkehr geprägt sind, können in einem Bebauungsplan oder durch
@@ -1900,14 +1940,17 @@ bezeichneten Voraussetzungen für die Festlegung des Gebiets vorliegen.
 
 
 ##### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006206116)
 
 
 
 #### Dritter Abschnitt - Gesetzliche Vorkaufsrechte der Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000805116)
 
 
 
 ##### § 24 Allgemeines Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006311130)
 
 (1) Der Gemeinde steht ein Vorkaufsrecht zu beim Kauf von Grundstücken
 
@@ -1985,6 +2028,7 @@ des Grundstücks anzugeben.
 
 
 ##### § 25 Besonderes Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006506125)
 
 (1) Die Gemeinde kann
 
@@ -2026,6 +2070,7 @@ Zeitpunkt der Ausübung des Vorkaufsrechts möglich ist.
 
 
 ##### § 26 Ausschluss des Vorkaufsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006708116)
 
 Die Ausübung des Vorkaufsrechts ist ausgeschlossen, wenn
 
@@ -2065,6 +2110,7 @@ Die Ausübung des Vorkaufsrechts ist ausgeschlossen, wenn
 
 
 ##### § 27 Abwendung des Vorkaufsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006806116)
 
 (1) Der Käufer kann die Ausübung des Vorkaufsrechts abwenden, wenn die
 Verwendung des Grundstücks nach den baurechtlichen Vorschriften oder
@@ -2095,6 +2141,7 @@ ist, die in Satz 1 oder 2 genannten Voraussetzungen zu erfüllen.
 
 
 ##### § 27a Ausübung des Vorkaufsrechts zugunsten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035706116)
 
 (1) Die Gemeinde kann
 
@@ -2134,6 +2181,7 @@ Gemeinde nach § 28 Absatz 3 Satz 7 bleibt unberührt.
 
 
 ##### § 28 Verfahren und Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE006909125)
 
 (1) Der Verkäufer hat der Gemeinde den Inhalt des Kaufvertrags
 unverzüglich mitzuteilen; die Mitteilung des Verkäufers wird durch die
@@ -2218,14 +2266,17 @@ die höhere Verwaltungsbehörde.
 
 
 ### Dritter Teil - Regelung der baulichen und sonstigen Nutzung; Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG000905116)
 
 
 
 #### Erster Abschnitt - Zulässigkeit von Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001004116)
 
 
 
 ##### § 29 Begriff des Vorhabens; Geltung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007107116)
 
 (1) Für Vorhaben, die die Errichtung, Änderung oder Nutzungsänderung
 von baulichen Anlagen zum Inhalt haben, und für Aufschüttungen und
@@ -2237,6 +2288,7 @@ rechtliche Vorschriften bleiben unberührt.
 
 
 ##### § 30 Zulässigkeit von Vorhaben im Geltungsbereich eines Bebauungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007206116)
 
 (1) Im Geltungsbereich eines Bebauungsplans, der allein oder gemeinsam
 mit sonstigen baurechtlichen Vorschriften mindestens Festsetzungen
@@ -2255,6 +2307,7 @@ die Zulässigkeit von Vorhaben im Übrigen nach § 34 oder § 35.
 
 
 ##### § 31 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007310130)
 
 (1) Von den Festsetzungen des Bebauungsplans können solche Ausnahmen
 zugelassen werden, die in dem Bebauungsplan nach Art und Umfang
@@ -2292,6 +2345,7 @@ Umweltauswirkungen hat.
 
 
 ##### § 32 Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007404116)
 
 Sind überbaute Flächen in dem Bebauungsplan als Baugrundstücke für den
 Gemeinbedarf oder als Verkehrs-, Versorgungs- oder Grünflächen
@@ -2309,6 +2363,7 @@ Flächen verlangt werden kann.
 
 
 ##### § 33 Zulässigkeit von Vorhaben während der Planaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007510130)
 
 (1) In Gebieten, für die ein Beschluss über die Aufstellung eines
 Bebauungsplans gefasst ist, ist ein Vorhaben zulässig, wenn
@@ -2347,6 +2402,7 @@ Gelegenheit hatten.
 
 
 ##### § 34 Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007612130)
 
 (1) Innerhalb der im Zusammenhang bebauten Ortsteile ist ein Vorhaben
 zulässig, wenn es sich nach Art und Maß der baulichen Nutzung, der
@@ -2467,6 +2523,7 @@ Nummer 1 bis 3 ist § 10 Absatz 3 entsprechend anzuwenden.
 
 
 ##### § 35 Bauen im Außenbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007719130)
 
 (1) Im Außenbereich ist ein Vorhaben nur zulässig, wenn öffentliche
 Belange nicht entgegenstehen, die ausreichende Erschließung gesichert
@@ -2807,6 +2864,7 @@ Absatzes 4 unberührt.
 
 
 ##### § 36 Einvernehmen der Gemeinde und Zustimmung der höheren Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007808130)
 
 (1) Über die Zulässigkeit von Vorhaben nach § 31 Absatz 1 und 2, den
 §§ 33, 34 Absatz 1, 2 und 3a sowie § 35 wird im bauaufsichtlichen
@@ -2837,6 +2895,7 @@ ersetzen.
 
 
 ##### § 36a Zustimmung der Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040400130)
 
 (1) Vorhaben nach § 31 Absatz 3 und § 34 Absatz 3b sind nur mit
 Zustimmung der Gemeinde zulässig, auch wenn die Gemeinde selbst die
@@ -2861,6 +2920,7 @@ Rahmen des Rechtsbehelfsverfahrens gegen die Zulassungsentscheidung
 
 
 ##### § 37 Bauliche Maßnahmen des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE007908130)
 
 (1) Macht die besondere öffentliche Zweckbestimmung für bauliche
 Anlagen des Bundes oder eines Landes erforderlich, von den
@@ -2898,6 +2958,7 @@ nach Absatz 2 bedarf es in diesem Falle nicht.
 
 
 ##### § 37a Außenbereichsvorhaben zur Herstellung oder Lagerung von Produkten zur Landesverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040500130)
 
 (1) Vorhaben, die der Herstellung oder Lagerung von Produkten zur
 Landesverteidigung, insbesondere von Munition, Sprengstoffen und deren
@@ -2929,6 +2990,7 @@ werden.
 
 
 ##### § 38 Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE008009116)
 
 Auf Planfeststellungsverfahren und sonstige Verfahren mit den
 Rechtswirkungen der Planfeststellung für Vorhaben von überörtlicher
@@ -2941,10 +3003,12 @@ unberührt. § 37 Absatz 3 ist anzuwenden.
 
 
 #### Zweiter Abschnitt - Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001204116)
 
 
 
 ##### § 39 Vertrauensschaden
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE009105116)
 
 Haben Eigentümer oder in Ausübung ihrer Nutzungsrechte sonstige
 Nutzungsberechtigte im berechtigten Vertrauen auf den Bestand eines
@@ -2958,6 +3022,7 @@ Erschließung des Grundstücks erhoben wurden.
 
 
 ##### § 40 Entschädigung in Geld oder durch Übernahme
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE009206116)
 
 (1) Sind im Bebauungsplan
 
@@ -3050,6 +3115,7 @@ benötigt wird.
 
 
 ##### § 41 Entschädigung bei Begründung von Geh-, Fahr- und Leitungsrechten und bei Bindungen für Bepflanzungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE009305116)
 
 (1) Sind im Bebauungsplan Flächen festgesetzt, die mit Geh-, Fahr- und
 Leitungsrechten zu belasten sind, kann der Eigentümer unter den
@@ -3080,6 +3146,7 @@ Festsetzungen
 
 
 ##### § 42 Entschädigung bei Änderung oder Aufhebung einer zulässigen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE009605116)
 
 (1) Wird die zulässige Nutzung eines Grundstücks aufgehoben oder
 geändert und tritt dadurch eine nicht nur unwesentliche Wertminderung
@@ -3160,6 +3227,7 @@ dieser durch Ablauf der in Absatz 2 bezeichneten Frist endet.
 
 
 ##### § 43 Entschädigung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE009805116)
 
 (1) Ist die Entschädigung durch Übernahme des Grundstücks oder durch
 Begründung eines Rechts zu leisten und kommt eine Einigung nicht
@@ -3212,6 +3280,7 @@ entsprechend.
 
 
 ##### § 44 Entschädigungspflichtige, Fälligkeit und Erlöschen der Entschädigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE009707116)
 
 (1) Zur Entschädigung ist der Begünstigte verpflichtet, wenn er mit
 der Festsetzung zu seinen Gunsten einverstanden ist. Ist ein
@@ -3253,14 +3322,17 @@ des Absatzes 3 Satz 1 und 2 sowie des Absatzes 4 hinzuweisen.
 
 
 ### Vierter Teil - Bodenordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001304116)
 
 
 
 #### Erster Abschnitt - Umlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001404116)
 
 
 
 ##### § 45 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010007116)
 
 Zur Erschließung oder Neugestaltung von Gebieten können bebaute und
 unbebaute Grundstücke durch Umlegung in der Weise neu geordnet werden,
@@ -3281,6 +3353,7 @@ durchgeführt werden.
 
 
 ##### § 46 Zuständigkeit und Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010108116)
 
 (1) Die Umlegung ist von der Gemeinde (Umlegungsstelle) in eigener
 Verantwortung anzuordnen und durchzuführen, wenn und sobald sie zur
@@ -3340,6 +3413,7 @@ auszuüben, bleibt unberührt. Ansprüche Dritter werden durch die Sätze
 
 
 ##### § 47 Umlegungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010205116)
 
 (1) Die Umlegung wird nach Anhörung der Eigentümer durch einen
 Beschluss der Umlegungsstelle eingeleitet. Im Umlegungsbeschluss ist
@@ -3354,6 +3428,7 @@ des Umlegungsplans (§ 66 Absatz 1) in Kraft getreten sein.
 
 
 ##### § 48 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010305116)
 
 (1) Im Umlegungsverfahren sind Beteiligte
 
@@ -3405,6 +3480,7 @@ gilt entsprechend.
 
 
 ##### § 49 Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010404116)
 
 Wechselt die Person eines Beteiligten während eines
 Umlegungsverfahrens, so tritt sein Rechtsnachfolger in dieses
@@ -3413,6 +3489,7 @@ Verfahren in dem Zustand ein, in dem es sich im Zeitpunkt des
 
 
 ##### § 50 Bekanntmachung des Umlegungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010505116)
 
 (1) Der Umlegungsbeschluss ist in der Gemeinde ortsüblich bekannt zu
 machen.
@@ -3438,6 +3515,7 @@ Bekanntmachung des Verwaltungsakts zuerst in Lauf gesetzt worden ist.
 
 
 ##### § 51 Verfügungs- und Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010608116)
 
 (1) Von der Bekanntmachung des Umlegungsbeschlusses bis zur
 Bekanntmachung nach § 71 dürfen im Umlegungsgebiet nur mit
@@ -3500,6 +3578,7 @@ widerrufen.
 
 
 ##### § 52 Umlegungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010706116)
 
 (1) Das Umlegungsgebiet ist so zu begrenzen, dass die Umlegung sich
 zweckmäßig durchführen lässt. Es kann aus räumlich getrennten Flächen
@@ -3518,6 +3597,7 @@ Eigentümer der betroffenen Grundstücke wirksam.
 
 
 ##### § 53 Bestandskarte und Bestandsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010806116)
 
 (1) Die Umlegungsstelle fertigt eine Karte und ein Verzeichnis der
 Grundstücke des Umlegungsgebiets an (Bestandskarte und
@@ -3557,6 +3637,7 @@ berechtigtes Interesse darlegt.
 
 
 ##### § 54 Benachrichtigungen und Umlegungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE010906116)
 
 (1) Die Umlegungsstelle teilt dem Grundbuchamt und der für die Führung
 des Liegenschaftskatasters zuständigen Stelle die Einleitung (§ 47)
@@ -3580,6 +3661,7 @@ Vollstreckungsverfahrens ist.
 
 
 ##### § 55 Umlegungsmasse und Verteilungsmasse
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011007116)
 
 (1) Die im Umlegungsgebiet gelegenen Grundstücke werden nach ihrer
 Fläche rechnerisch zu einer Masse vereinigt (Umlegungsmasse).
@@ -3626,6 +3708,7 @@ Durchführung des Bebauungsplans zweckmäßig ist.
 
 
 ##### § 56 Verteilungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011104116)
 
 (1) Für die Errechnung der den beteiligten Grundeigentümern an der
 Verteilungsmasse zustehenden Anteile (Sollanspruch) ist entweder von
@@ -3640,6 +3723,7 @@ auch nach einem anderen Maßstab aufgeteilt werden.
 
 
 ##### § 57 Verteilung nach Werten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011206116)
 
 Geht die Umlegungsstelle von dem Verhältnis der Werte aus, so wird die
 Verteilungsmasse in dem Verhältnis verteilt, in dem die zu
@@ -3658,6 +3742,7 @@ zwischen den so ermittelten Verkehrswerten sind in Geld auszugleichen.
 
 
 ##### § 58 Verteilung nach Flächen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011306116)
 
 (1) Geht die Umlegungsstelle von dem Verhältnis der Flächen aus, hat
 sie von den eingeworfenen Grundstücken unter Anrechnung des
@@ -3681,6 +3766,7 @@ die Wertverhältnisse im Zeitpunkt des Umlegungsbeschlusses maßgebend.
 
 
 ##### § 59 Zuteilung und Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011407116)
 
 (1) Aus der Verteilungsmasse sind den Eigentümern dem Umlegungszweck
 entsprechend nach Möglichkeit Grundstücke einschließlich Flächen zum
@@ -3765,6 +3851,7 @@ unberührt.
 
 
 ##### § 60 Abfindung und Ausgleich für bauliche Anlagen, Anpflanzungen und sonstige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011505116)
 
 Für bauliche Anlagen, Anpflanzungen und für sonstige Einrichtungen ist
 nur eine Geldabfindung zu gewähren und im Falle der Zuteilung ein
@@ -3775,6 +3862,7 @@ Fünften Teils sind entsprechend anzuwenden.
 
 
 ##### § 61 Aufhebung, Änderung und Begründung von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011607116)
 
 (1) Grundstücksgleiche Rechte sowie andere Rechte an einem im
 Umlegungsgebiet gelegenen Grundstück oder an einem das Grundstück
@@ -3807,6 +3895,7 @@ Verteilungsmasse eingebrachten Grundstücke.
 
 
 ##### § 62 Gemeinschaftliches Eigentum; besondere rechtliche Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011704116)
 
 (1) Wenn es dem Zweck der Umlegung dient und die Eigentümer zustimmen,
 kann gemeinschaftliches Eigentum an Grundstücken geteilt werden.
@@ -3829,6 +3918,7 @@ zuzuteilenden Grundstücke verteilen.
 
 
 ##### § 63 Übergang von Rechtsverhältnissen auf die Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011805116)
 
 (1) Die zugeteilten Grundstücke treten hinsichtlich der Rechte an den
 alten Grundstücken und der diese Grundstücke betreffenden
@@ -3846,6 +3936,7 @@ angewiesen.
 
 
 ##### § 64 Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE011906116)
 
 (1) Die Gemeinde ist Gläubigerin und Schuldnerin der im Umlegungsplan
 festgesetzten Geldleistungen.
@@ -3895,6 +3986,7 @@ der Gemeinde zu erstatten.
 
 
 ##### § 65 Hinterlegung und Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012004116)
 
 Für die Hinterlegung von Geldleistungen und für das
 Verteilungsverfahren gelten die Vorschriften der §§ 118 und 119
@@ -3902,6 +3994,7 @@ entsprechend.
 
 
 ##### § 66 Aufstellung und Inhalt des Umlegungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012105116)
 
 (1) Der Umlegungsplan ist von der Umlegungsstelle nach Erörterung mit
 den Eigentümern durch Beschluss aufzustellen. Er kann auch für Teile
@@ -3918,6 +4011,7 @@ Umlegungsverzeichnis.
 
 
 ##### § 67 Umlegungskarte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012204116)
 
 Die Umlegungskarte stellt den künftigen Zustand des Umlegungsgebiets
 dar. In die Karte sind insbesondere die neuen Grundstücksgrenzen und
@@ -3926,6 +4020,7 @@ einzutragen.
 
 
 ##### § 68 Umlegungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012305116)
 
 (1) Das Umlegungsverzeichnis führt auf
 
@@ -3971,6 +4066,7 @@ aufgestellt werden.
 
 
 ##### § 69 Bekanntmachung des Umlegungsplans, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012405116)
 
 (1) Die Umlegungsstelle hat den Beschluss über die Aufstellung des
 Umlegungsplans (§ 66 Absatz 1) in der Gemeinde ortsüblich bekannt zu
@@ -3984,6 +4080,7 @@ Interesse darlegt.
 
 
 ##### § 70 Zustellung des Umlegungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012505116)
 
 (1) Den Beteiligten ist ein ihre Rechte betreffender Auszug aus dem
 Umlegungsplan zuzustellen. Dabei ist darauf hinzuweisen, dass der
@@ -4003,6 +4100,7 @@ ist, und die daran bestehenden Rechte betrifft.
 
 
 ##### § 71 Inkrafttreten des Umlegungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012604116)
 
 (1) Die Umlegungsstelle hat ortsüblich bekannt zu machen, in welchem
 Zeitpunkt der Umlegungsplan unanfechtbar geworden ist. Dem Eintritt
@@ -4019,6 +4117,7 @@ Inkraftsetzung zu unterrichten.
 
 
 ##### § 72 Wirkungen der Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012705116)
 
 (1) Mit der Bekanntmachung nach § 71 wird der bisherige Rechtszustand
 durch den in dem Umlegungsplan vorgesehenen neuen Rechtszustand
@@ -4032,6 +4131,7 @@ mit den Mitteln des Verwaltungszwangs, zu verschaffen.
 
 
 ##### § 73 Änderung des Umlegungsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012804116)
 
 Die Umlegungsstelle kann den Umlegungsplan auch nach Eintritt der
 Unanfechtbarkeit ändern, wenn
@@ -4050,6 +4150,7 @@ Unanfechtbarkeit ändern, wenn
 
 
 ##### § 74 Berichtigung der öffentlichen Bücher
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE012905116)
 
 (1) Die Umlegungsstelle übersendet dem Grundbuchamt und der für die
 Führung des Liegenschaftskatasters zuständigen Stelle eine beglaubigte
@@ -4071,12 +4172,14 @@ Absatz 2 Nummer 5 und Absatz 4).
 
 
 ##### § 75 Einsichtnahme in den Umlegungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013004116)
 
 Bis zur Berichtigung des Grundbuchs ist die Einsicht in den
 Umlegungsplan jedem gestattet, der ein berechtigtes Interesse darlegt.
 
 
 ##### § 76 Vorwegnahme der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013105116)
 
 Mit Einverständnis der betroffenen Rechtsinhaber können die Eigentums-
 und Besitzverhältnisse für einzelne Grundstücke sowie andere Rechte
@@ -4085,6 +4188,7 @@ aufgestellt ist. Die §§ 70 bis 75 gelten entsprechend.
 
 
 ##### § 77 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013206116)
 
 (1) Sofern die Umlegung im Geltungsbereich eines Bebauungsplans
 durchgeführt wird, kann die Umlegungsstelle nach dem Inkrafttreten des
@@ -4127,12 +4231,14 @@ Besitz insbesondere erfordern
 
 
 ##### § 78 Verfahrens- und Sachkosten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013304116)
 
 Die Gemeinde trägt die Verfahrenskosten und die nicht durch Beiträge
 nach § 64 Absatz 3 gedeckten Sachkosten.
 
 
 ##### § 79 Abgaben- und Auslagenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013405116)
 
 (1) Geschäfte und Verhandlungen, die der Durchführung oder Vermeidung
 der Umlegung dienen, einschließlich der Berichtigung der öffentlichen
@@ -4148,10 +4254,12 @@ der Umlegung dient.
 
 
 #### Zweiter Abschnitt - Vereinfachte Umlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001505116)
 
 
 
 ##### § 80 Zweck, Anwendungsbereich, Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013506116)
 
 (1) Die Gemeinde kann eine Umlegung im Sinne des § 45 als vereinfachte
 Umlegung durchführen, wenn die in § 46 Absatz 1 bezeichneten
@@ -4200,6 +4308,7 @@ anzuwenden.
 
 
 ##### § 81 Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013606116)
 
 (1) Vorteile, die durch die vereinfachte Umlegung bewirkt werden, sind
 von den Eigentümern in Geld auszugleichen. Die Vorschriften über die
@@ -4221,6 +4330,7 @@ für das Verteilungsverfahren gelten die Vorschriften der §§ 118 und
 
 
 ##### § 82 Beschluss über die vereinfachte Umlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013706116)
 
 (1) Die Gemeinde setzt nach Erörterung mit den Eigentümern durch
 Beschluss die neuen Grenzen sowie die Geldleistung fest und regelt in
@@ -4237,6 +4347,7 @@ Beschluss bei einer zu benennenden Stelle eingesehen werden kann.
 
 
 ##### § 83 Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013806116)
 
 (1) Die Gemeinde hat ortsüblich bekannt zu machen, in welchem
 Zeitpunkt der Beschluss über die vereinfachte Umlegung unanfechtbar
@@ -4262,6 +4373,7 @@ anderes ergibt.
 
 
 ##### § 84 Berichtigung der öffentlichen Bücher
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE013906116)
 
 (1) Die Gemeinde übersendet dem Grundbuchamt und der für die Führung
 des Liegenschaftskatasters zuständigen Stelle eine beglaubigte
@@ -4275,14 +4387,17 @@ entsprechend.
 
 
 ### Fünfter Teil - Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001604116)
 
 
 
 #### Erster Abschnitt - Zulässigkeit der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001704116)
 
 
 
 ##### § 85 Enteignungszweck
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014006116)
 
 (1) Nach diesem Gesetzbuch kann nur enteignet werden, um
 
@@ -4332,6 +4447,7 @@ entsprechend.
 
 
 ##### § 86 Gegenstand der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014105116)
 
 (1) Durch Enteignung können
 
@@ -4366,6 +4482,7 @@ entsprechend anzuwenden.
 
 
 ##### § 87 Voraussetzungen für die Zulässigkeit der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014206116)
 
 (1) Die Enteignung ist im einzelnen Fall nur zulässig, wenn das Wohl
 der Allgemeinheit sie erfordert und der Enteignungszweck auf andere
@@ -4395,6 +4512,7 @@ Sechsten Teils des Zweiten Kapitels nicht berührt.
 
 
 ##### § 88 Enteignung aus zwingenden städtebaulichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014305116)
 
 Wird die Enteignung eines Grundstücks von der Gemeinde zu den in § 85
 Absatz 1 Nummer 1 und 2 bezeichneten Zwecken aus zwingenden
@@ -4407,6 +4525,7 @@ zugunsten der Gemeinde oder eines Sanierungsträgers beantragt wird.
 
 
 ##### § 89 Veräußerungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014406116)
 
 (1) Die Gemeinde hat Grundstücke zu veräußern,
 
@@ -4458,6 +4577,7 @@ Eigentumsübertragung gleich.
 
 
 ##### § 90 Enteignung von Grundstücken zur Entschädigung in Land
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014504116)
 
 (1) Die Enteignung von Grundstücken zur Entschädigung in Land
 (Ersatzland) ist zulässig, wenn
@@ -4516,6 +4636,7 @@ unzulässig.
 
 
 ##### § 91 Ersatz für entzogene Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014604116)
 
 Die Enteignung zu dem Zweck, durch Enteignung entzogene Rechte durch
 neue Rechte zu ersetzen, ist nur zulässig, soweit der Ersatz in den
@@ -4526,6 +4647,7 @@ zur Entschädigung in Land getroffenen Vorschriften entsprechend.
 
 
 ##### § 92 Umfang, Beschränkung und Ausdehnung der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014704116)
 
 (1) Ein Grundstück darf nur in dem Umfang enteignet werden, in dem
 dies zur Verwirklichung des Enteignungszwecks erforderlich ist. Reicht
@@ -4556,10 +4678,12 @@ mündlichen Verhandlung geltend zu machen.
 
 
 #### Zweiter Abschnitt - Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001804116)
 
 
 
 ##### § 93 Entschädigungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014804116)
 
 (1) Für die Enteignung ist Entschädigung zu leisten.
 
@@ -4587,6 +4711,7 @@ diese wirksam wird.
 
 
 ##### § 94 Entschädigungsberechtigter und Entschädigungsverpflichteter
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE014904116)
 
 (1) Entschädigung kann verlangen, wer in seinem Recht durch die
 Enteignung beeinträchtigt wird und dadurch einen Vermögensnachteil
@@ -4599,6 +4724,7 @@ Grundstück beschaffen muss.
 
 
 ##### § 95 Entschädigung für den Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015006116)
 
 (1) Die Entschädigung für den durch die Enteignung eintretenden
 Rechtsverlust bemisst sich nach dem Verkehrswert (§ 194) des zu
@@ -4660,6 +4786,7 @@ berücksichtigen.
 
 
 ##### § 96 Entschädigung für andere Vermögensnachteile
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015104116)
 
 (1) Wegen anderer durch die Enteignung eintretender Vermögensnachteile
 ist eine Entschädigung nur zu gewähren, wenn und soweit diese
@@ -4695,6 +4822,7 @@ anzuwenden.
 
 
 ##### § 97 Behandlung der Rechte der Nebenberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015204116)
 
 (1) Rechte an dem zu enteignenden Grundstück sowie persönliche Rechte,
 die zum Besitz oder zur Nutzung des Grundstücks berechtigen oder den
@@ -4751,6 +4879,7 @@ Rechtsverlust in anderen Fällen oder nach § 96 Absatz 1 Satz 2 Nummer
 
 
 ##### § 98 Schuldübergang
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015305116)
 
 (1) Haftet bei einer Hypothek, die aufrechterhalten oder durch ein
 neues Recht an einem anderen Grundstück ersetzt wird, der von der
@@ -4769,6 +4898,7 @@ Enteignungsbehörde oder eines Beteiligten glaubhaft gemacht hat.
 
 
 ##### § 99 Entschädigung in Geld
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015406116)
 
 (1) Die Entschädigung ist in einem einmaligen Betrag zu leisten,
 soweit dieses Gesetzbuch nichts anderes bestimmt. Auf Antrag des
@@ -4787,6 +4917,7 @@ wird.
 
 
 ##### § 100 Entschädigung in Land
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015506116)
 
 (1) Die Entschädigung ist auf Antrag des Eigentümers in geeignetem
 Ersatzland festzusetzen, wenn er zur Sicherung seiner Berufstätigkeit,
@@ -4879,6 +5010,7 @@ entsprechend.
 
 
 ##### § 101 Entschädigung durch Gewährung anderer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015605116)
 
 (1) Der Eigentümer eines zu enteignenden Grundstücks kann auf seinen
 Antrag, wenn dies unter Abwägung der Belange der Beteiligten billig
@@ -4909,6 +5041,7 @@ gestellt werden.
 
 
 ##### § 102 Rückenteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015706116)
 
 (1) Der enteignete frühere Eigentümer kann verlangen, dass das
 enteignete Grundstück zu seinen Gunsten wieder enteignet wird
@@ -4965,6 +5098,7 @@ Rückenteignung gelten entsprechend.
 
 
 ##### § 103 Entschädigung für die Rückenteignung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015804116)
 
 Wird dem Antrag auf Rückenteignung stattgegeben, so hat der
 Antragsteller dem von der Rückenteignung Betroffenen Entschädigung für
@@ -4981,10 +5115,12 @@ Entschädigung im Zweiten Abschnitt entsprechend.
 
 
 #### Dritter Abschnitt - Enteignungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG001904116)
 
 
 
 ##### § 104 Enteignungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE015904116)
 
 (1) Die Enteignung wird von der höheren Verwaltungsbehörde
 durchgeführt (Enteignungsbehörde).
@@ -4995,6 +5131,7 @@ Beisitzer mitzuwirken haben.
 
 
 ##### § 105 Enteignungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016004116)
 
 Der Enteignungsantrag ist bei der Gemeinde, in deren Gemarkung das zu
 enteignende Grundstück liegt, einzureichen. Die Gemeinde legt ihn mit
@@ -5002,6 +5139,7 @@ ihrer Stellungnahme binnen eines Monats der Enteignungsbehörde vor.
 
 
 ##### § 106 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016205116)
 
 (1) In dem Enteignungsverfahren sind Beteiligte
 
@@ -5055,6 +5193,7 @@ gilt entsprechend.
 
 
 ##### § 107 Vorbereitung der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016306116)
 
 (1) Das Enteignungsverfahren soll beschleunigt durchgeführt werden.
 Die Enteignungsbehörde soll schon vor der mündlichen Verhandlung alle
@@ -5077,6 +5216,7 @@ Enteignungsverfahren können wieder getrennt werden.
 
 
 ##### § 108 Einleitung des Enteignungsverfahrens und Anberaumung des Termins zur mündlichen Verhandlung; Enteignungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016407130)
 
 (1) Das Enteignungsverfahren wird durch Anberaumung eines Termins zu
 einer mündlichen Verhandlung mit den Beteiligten eingeleitet. Zu der
@@ -5164,6 +5304,7 @@ Vollstreckungsverfahrens ist.
 
 
 ##### § 109 Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016506116)
 
 (1) Von der Bekanntmachung über die Einleitung des
 Enteignungsverfahrens an bedürfen die in § 51 bezeichneten
@@ -5186,6 +5327,7 @@ entsprechend anzuwenden.
 
 
 ##### § 110 Einigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016604116)
 
 (1) Die Enteignungsbehörde hat auf eine Einigung zwischen den
 Beteiligten hinzuwirken.
@@ -5202,6 +5344,7 @@ anzuwenden.
 
 
 ##### § 111 Teileinigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016704116)
 
 Einigen sich die Beteiligten nur über den Übergang oder die Belastung
 des Eigentums an dem zu enteignenden Grundstück, jedoch nicht über die
@@ -5214,6 +5357,7 @@ Fortgang.
 
 
 ##### § 112 Entscheidung der Enteignungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016804116)
 
 (1) Soweit eine Einigung nicht zustande kommt, entscheidet die
 Enteignungsbehörde auf Grund der mündlichen Verhandlung durch
@@ -5250,6 +5394,7 @@ entscheidet sie zugleich
 
 
 ##### § 113 Enteignungsbeschluss
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE016906116)
 
 (1) Der Beschluss der Enteignungsbehörde ist den Beteiligten
 zuzustellen. Der Beschluss ist mit einer Belehrung über Zulässigkeit,
@@ -5344,6 +5489,7 @@ Enteignungsantrag stattgegeben worden ist.
 
 
 ##### § 114 Lauf der Verwendungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017004116)
 
 (1) Die Frist, innerhalb der der Enteignungszweck nach § 113 Absatz 2
 Nummer 3 zu verwirklichen ist, beginnt mit dem Eintritt der
@@ -5368,6 +5514,7 @@ Verlängerung zu hören.
 
 
 ##### § 115 Verfahren bei der Entschädigung durch Gewährung anderer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017105116)
 
 (1) Soll die Entschädigung des Eigentümers eines zu enteignenden
 Grundstücks nach § 101 festgesetzt werden und ist die Bestellung,
@@ -5394,6 +5541,7 @@ Ablauf der bestimmten Frist gestellt werden.
 
 
 ##### § 116 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017204116)
 
 (1) Ist die sofortige Ausführung der beabsichtigten Maßnahme aus
 Gründen des Wohls der Allgemeinheit dringend geboten, so kann die
@@ -5449,6 +5597,7 @@ Entschädigung zu leisten. Absatz 4 Satz 2 gilt entsprechend.
 
 
 ##### § 117 Ausführung des Enteignungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017304116)
 
 (1) Ist der Enteignungsbeschluss oder sind die Entscheidungen nach §
 112 Absatz 2 nicht mehr anfechtbar, so ordnet auf Antrag eines
@@ -5501,6 +5650,7 @@ Grundbuch einzutragen.
 
 
 ##### § 118 Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017404116)
 
 (1) Geldentschädigungen, aus denen andere Berechtigte nach § 97 Absatz
 4 zu befriedigen sind, sind unter Verzicht auf das Recht der Rücknahme
@@ -5515,6 +5665,7 @@ statthaft ist, werden hierdurch nicht berührt.
 
 
 ##### § 119 Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017504116)
 
 (1) Nach Eintritt des neuen Rechtszustands kann jeder Beteiligte sein
 Recht an der hinterlegten Summe gegen einen Mitbeteiligten, der dieses
@@ -5569,6 +5720,7 @@ Vollstreckungsgerichts statt.
 
 
 ##### § 120 Aufhebung des Enteignungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017604116)
 
 (1) Ist die Ausführungsanordnung noch nicht ergangen, so hat die
 Enteignungsbehörde den Enteignungsbeschluss auf Antrag aufzuheben,
@@ -5585,6 +5737,7 @@ der Gemeinde und dem Grundbuchamt abschriftlich mitzuteilen.
 
 
 ##### § 121 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017704116)
 
 (1) Der Antragsteller hat die Kosten zu tragen, wenn der Antrag auf
 Enteignung abgelehnt oder zurückgenommen wird. Wird dem Antrag auf
@@ -5618,6 +5771,7 @@ eines sonstigen Bevollmächtigten notwendig war.
 
 
 ##### § 122 Vollstreckbarer Titel
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE017806116)
 
 (1) Die Zwangsvollstreckung nach den Vorschriften der
 Zivilprozessordnung über die Vollstreckung von Urteilen in
@@ -5650,14 +5804,17 @@ Enteignungsbehörde ihren Sitz hat, an die Stelle des Prozessgerichts.
 
 
 ### Sechster Teil - Erschließung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG002104116)
 
 
 
 #### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG002204116)
 
 
 
 ##### § 123 Erschließungslast
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018106116)
 
 (1) Die Erschließung ist Aufgabe der Gemeinde, soweit sie nicht nach
 anderen gesetzlichen Vorschriften oder öffentlich-rechtlichen
@@ -5675,6 +5832,7 @@ landesrechtlichen Vorschriften.
 
 
 ##### § 124 Erschließungspflicht nach abgelehntem Vertragsangebot
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018207116)
 
 Hat die Gemeinde einen Bebauungsplan im Sinne des § 30 Absatz 1
 erlassen und lehnt sie das zumutbare Angebot zum Abschluss eines
@@ -5683,6 +5841,7 @@ verpflichtet, die Erschließung selbst durchzuführen.
 
 
 ##### § 125 Bindung an den Bebauungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018307116)
 
 (1) Die Herstellung der Erschließungsanlagen im Sinne des § 127 Absatz
 2 setzt einen Bebauungsplan voraus.
@@ -5708,6 +5867,7 @@ vereinbar sind und
 
 
 ##### § 126 Pflichten des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018404116)
 
 (1) Der Eigentümer hat das Anbringen von
 
@@ -5736,10 +5896,12 @@ landesrechtlichen Vorschriften.
 
 
 #### Zweiter Abschnitt - Erschließungsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG002304116)
 
 
 
 ##### § 127 Erhebung des Erschließungsbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018505116)
 
 (1) Die Gemeinden erheben zur Deckung ihres anderweitig nicht
 gedeckten Aufwands für Erschließungsanlagen einen Erschließungsbeitrag
@@ -5784,6 +5946,7 @@ Abwasser sowie zur Versorgung mit Elektrizität, Gas, Wärme und Wasser.
 
 
 ##### § 128 Umfang des Erschließungsaufwands
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018605116)
 
 (1) Der Erschließungsaufwand nach § 127 umfasst die Kosten für
 
@@ -5829,6 +5992,7 @@ sind.
 
 
 ##### § 129 Beitragsfähiger Erschließungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018705116)
 
 (1) Zur Deckung des anderweitig nicht gedeckten Erschließungsaufwands
 können Beiträge nur insoweit erhoben werden, als die
@@ -5846,6 +6010,7 @@ gemeindliche Erschließungsanlagen nicht erneut erhoben werden.
 
 
 ##### § 130 Art der Ermittlung des beitragsfähigen Erschließungsaufwands
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018805116)
 
 (1) Der beitragsfähige Erschließungsaufwand kann nach den tatsächlich
 entstandenen Kosten oder nach Einheitssätzen ermittelt werden. Die
@@ -5865,6 +6030,7 @@ Erschließungsaufwand insgesamt ermittelt werden.
 
 
 ##### § 131 Maßstäbe für die Verteilung des Erschließungsaufwands
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE018905116)
 
 (1) Der ermittelte beitragsfähige Erschließungsaufwand für eine
 Erschließungsanlage ist auf die durch die Anlage erschlossenen
@@ -5895,6 +6061,7 @@ entsprochen wird.
 
 
 ##### § 132 Regelung durch Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE019004116)
 
 Die Gemeinden regeln durch Satzung
 
@@ -5915,6 +6082,7 @@ Die Gemeinden regeln durch Satzung
 
 
 ##### § 133 Gegenstand und Entstehung der Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE019107116)
 
 (1) Der Beitragspflicht unterliegen Grundstücke, für die eine bauliche
 oder gewerbliche Nutzung festgesetzt ist, sobald sie bebaut oder
@@ -5953,6 +6121,7 @@ treffen.
 
 
 ##### § 134 Beitragspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE019206116)
 
 (1) Beitragspflichtig ist derjenige, der im Zeitpunkt der Bekanntgabe
 des Beitragsbescheids Eigentümer des Grundstücks ist. Ist das
@@ -5972,6 +6141,7 @@ Satz 3 auf dem dinglichen Nutzungsrecht, im Falle des Absatzes 1 Satz
 
 
 ##### § 135 Fälligkeit und Zahlung des Beitrags
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE019307116)
 
 (1) Der Beitrag wird einen Monat nach der Bekanntgabe des
 Beitragsbescheids fällig.
@@ -6014,10 +6184,12 @@ unberührt.
 
 
 ### Siebter Teil - Maßnahmen für den Naturschutz
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006303116)
 
 
 
 #### § 135a Pflichten des Vorhabenträgers; Durchführung durch die Gemeinde; Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035803116)
 
 (1) Festgesetzte Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3
 sind vom Vorhabenträger durchzuführen.
@@ -6044,6 +6216,7 @@ einschließlich der Billigkeitsregelungen sind entsprechend anzuwenden.
 
 
 #### § 135b Verteilungsmaßstäbe für die Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035903116)
 
 Soweit die Gemeinde Maßnahmen zum Ausgleich nach § 135a Absatz 2
 durchführt, sind die Kosten auf die zugeordneten Grundstücke zu
@@ -6066,6 +6239,7 @@ Die Verteilungsmaßstäbe können miteinander verbunden werden.
 
 
 #### § 135c Satzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036003116)
 
 Die Gemeinde kann durch Satzung regeln
 
@@ -6096,18 +6270,22 @@ Die Gemeinde kann durch Satzung regeln
 
 
 ## Zweites Kapitel - Besonderes Städtebaurecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG003704116)
 
 
 
 ### Erster Teil - Städtebauliche Sanierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG003804116)
 
 
 
 #### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG003904116)
 
 
 
 ##### § 136 Städtebauliche Sanierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE026906125)
 
 (1) Städtebauliche Sanierungsmaßnahmen in Stadt und Land, deren
 einheitliche Vorbereitung und zügige Durchführung im öffentlichen
@@ -6225,6 +6403,7 @@ untereinander gerecht abzuwägen.
 
 
 ##### § 137 Beteiligung und Mitwirkung der Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027004116)
 
 Die Sanierung soll mit den Eigentümern, Mietern, Pächtern und
 sonstigen Betroffenen möglichst frühzeitig erörtert werden. Die
@@ -6234,6 +6413,7 @@ hierbei im Rahmen des Möglichen beraten werden.
 
 
 ##### § 138 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027104116)
 
 (1) Eigentümer, Mieter, Pächter und sonstige zum Besitz oder zur
 Nutzung eines Grundstücks, Gebäudes oder Gebäudeteils Berechtigte
@@ -6274,6 +6454,7 @@ Ordnungswidrigkeiten aussetzen würde.
 
 
 ##### § 139 Beteiligung und Mitwirkung öffentlicher Aufgabenträger
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027207130)
 
 (1) Der Bund, einschließlich seiner Sondervermögen, die Länder, die
 Gemeindeverbände und die sonstigen Körperschaften, Anstalten und
@@ -6294,10 +6475,12 @@ Beteiligten unverzüglich miteinander ins Benehmen zu setzen.
 
 
 #### Zweiter Abschnitt - Vorbereitung und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004004116)
 
 
 
 ##### § 140 Vorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027304116)
 
 Die Vorbereitung der Sanierung ist Aufgabe der Gemeinde; sie umfasst
 
@@ -6328,6 +6511,7 @@ Die Vorbereitung der Sanierung ist Aufgabe der Gemeinde; sie umfasst
 
 
 ##### § 141 Vorbereitende Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027406116)
 
 (1) Die Gemeinde hat vor der förmlichen Festlegung des
 Sanierungsgebiets die vorbereitenden Untersuchungen durchzuführen oder
@@ -6363,6 +6547,7 @@ zweiter Halbsatz unwirksam.
 
 
 ##### § 142 Sanierungssatzung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027506116)
 
 (1) Die Gemeinde kann ein Gebiet, in dem eine städtebauliche
 Sanierungsmaßnahme durchgeführt werden soll, durch Beschluss förmlich
@@ -6410,6 +6595,7 @@ oder § 144 Absatz 2 ausgeschlossen werden.
 
 
 ##### § 143 Bekanntmachung der Sanierungssatzung, Sanierungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027605116)
 
 (1) Die Gemeinde hat die Sanierungssatzung ortsüblich bekannt zu
 machen. Sie kann auch ortsüblich bekannt machen, dass eine
@@ -6430,6 +6616,7 @@ ausgeschlossen ist.
 
 
 ##### § 144 Genehmigungspflichtige Vorhaben und Rechtsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027706116)
 
 (1) Im förmlich festgelegten Sanierungsgebiet bedürfen der
 schriftlichen Genehmigung der Gemeinde
@@ -6508,6 +6695,7 @@ erteilen; sie hat dies ortsüblich bekannt zu machen.
 
 
 ##### § 145 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027807116)
 
 (1) Die Genehmigung wird durch die Gemeinde erteilt; § 22 Absatz 5
 Satz 2 bis 5 ist entsprechend anzuwenden. Ist eine baurechtliche
@@ -6576,6 +6764,7 @@ auf Antrag eines Beteiligten ein Zeugnis auszustellen.
 
 
 ##### § 146 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE027905116)
 
 (1) Die Durchführung umfasst die Ordnungsmaßnahmen und die
 Baumaßnahmen innerhalb des förmlich festgelegten Sanierungsgebiets,
@@ -6600,6 +6789,7 @@ zu übernehmen.
 
 
 ##### § 147 Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028005116)
 
 Die Durchführung der Ordnungsmaßnahmen ist Aufgabe der Gemeinde;
 hierzu gehören
@@ -6631,6 +6821,7 @@ förmlich festgelegten Sanierungsgebiets liegen.
 
 
 ##### § 148 Baumaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028106116)
 
 (1) Die Durchführung von Baumaßnahmen bleibt den Eigentümern
 überlassen, soweit die zügige und zweckmäßige Durchführung durch sie
@@ -6677,6 +6868,7 @@ denen Eingriffe in Natur und Landschaft zu erwarten sind.
 
 
 ##### § 149 Kosten- und Finanzierungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028205116)
 
 (1) Die Gemeinde hat nach dem Stand der Planung eine Kosten- und
 Finanzierungsübersicht aufzustellen. Die Übersicht ist mit den Kosten-
@@ -6715,6 +6907,7 @@ Förderungsmitteln aus öffentlichen Haushalten zu unterstützen.
 
 
 ##### § 150 Ersatz für Änderungen von Einrichtungen, die der öffentlichen Versorgung dienen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028305116)
 
 (1) Stehen in einem förmlich festgelegten Sanierungsgebiet Anlagen der
 öffentlichen Versorgung mit Elektrizität, Gas, Wasser, Wärme,
@@ -6732,6 +6925,7 @@ entscheidet die höhere Verwaltungsbehörde.
 
 
 ##### § 151 Abgaben- und Auslagenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028404116)
 
 (1) Frei von Gebühren und ähnlichen nichtsteuerlichen Abgaben sowie
 von Auslagen sind Geschäfte und Verhandlungen
@@ -6794,10 +6988,12 @@ Vorschriften.
 
 
 #### Dritter Abschnitt - Besondere sanierungsrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004104116)
 
 
 
 ##### § 152 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028505116)
 
 Die Vorschriften dieses Abschnitts sind im förmlich festgelegten
 Sanierungsgebiet anzuwenden, sofern die Sanierung nicht im
@@ -6805,6 +7001,7 @@ vereinfachten Sanierungsverfahren durchgeführt wird.
 
 
 ##### § 153 Bemessung von Ausgleichs- und Entschädigungsleistungen, Kaufpreise, Umlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028605116)
 
 (1) Sind auf Grund von Maßnahmen, die der Vorbereitung oder
 Durchführung der Sanierung im förmlich festgelegten Sanierungsgebiet
@@ -6860,6 +7057,7 @@ bedingten Werterhöhung des Grundstücks entspricht.
 
 
 ##### § 154 Ausgleichsbetrag des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028706116)
 
 (1) Der Eigentümer eines im förmlich festgelegten Sanierungsgebiet
 gelegenen Grundstücks hat zur Finanzierung der Sanierung an die
@@ -6944,6 +7142,7 @@ entsprechende Bebauung oder sonstige Nutzung zulässig ist; die Absätze
 
 
 ##### § 155 Anrechnung auf den Ausgleichsbetrag, Absehen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028805116)
 
 (1) Auf den Ausgleichsbetrag sind anzurechnen
 
@@ -7006,6 +7205,7 @@ nicht vertraglich ausgeschlossen wurde.
 
 
 ##### § 156 Überleitungsvorschriften zur förmlichen Festlegung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE028905116)
 
 (1) Beitragspflichten für Erschließungsanlagen im Sinne des § 127
 Absatz 2, die vor der förmlichen Festlegung entstanden sind, bleiben
@@ -7026,6 +7226,7 @@ anzuwenden.
 
 
 ##### § 156a Kosten und Finanzierung der Sanierungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036103116)
 
 (1) Ergibt sich nach der Durchführung der städtebaulichen
 Sanierungsmaßnahme und der Übertragung eines Treuhandvermögens des
@@ -7053,10 +7254,12 @@ landesrechtlichen Regelungen.
 
 
 #### Vierter Abschnitt - Sanierungsträger und andere Beauftragte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004204116)
 
 
 
 ##### § 157 Erfüllung von Aufgaben für die Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029005116)
 
 (1) Die Gemeinde kann sich zur Erfüllung von Aufgaben, die ihr bei der
 Vorbereitung oder Durchführung der Sanierung obliegen, eines
@@ -7085,6 +7288,7 @@ abhängigen Unternehmen übertragen.
 
 
 ##### § 158 Voraussetzungen für die Beauftragung als Sanierungsträger
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029106116)
 
 Dem Unternehmen können die Aufgaben als Sanierungsträger nur
 übertragen werden, wenn
@@ -7112,6 +7316,7 @@ Dem Unternehmen können die Aufgaben als Sanierungsträger nur
 
 
 ##### § 159 Erfüllung der Aufgaben als Sanierungsträger
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029207116)
 
 (1) Der Sanierungsträger erfüllt die ihm von der Gemeinde übertragenen
 Aufgaben nach § 157 Absatz 1 Satz 2 Nummer 1 oder 2 im eigenen Namen
@@ -7167,6 +7372,7 @@ vollständige Befriedigung erlangt haben.
 
 
 ##### § 160 Treuhandvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029304116)
 
 (1) Ist dem Sanierungsträger eine Aufgabe als Treuhänder der Gemeinde
 übertragen, erfüllt er sie mit einem Treuhandvermögen in eigenem Namen
@@ -7230,6 +7436,7 @@ ergibt.
 
 
 ##### § 161 Sicherung des Treuhandvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029406116)
 
 (1) Der Sanierungsträger haftet Dritten mit dem Treuhandvermögen nicht
 für Verbindlichkeiten, die sich nicht auf das Treuhandvermögen
@@ -7256,10 +7463,12 @@ Rechtsfolgen treten hinsichtlich der Verbindlichkeiten nicht ein. §
 
 
 #### Fünfter Abschnitt - Abschluss der Sanierung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004304116)
 
 
 
 ##### § 162 Aufhebung der Sanierungssatzung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029506116)
 
 (1) Die Sanierungssatzung ist aufzuheben, wenn
 
@@ -7294,6 +7503,7 @@ löschen.
 
 
 ##### § 163 Fortfall von Rechtswirkungen für einzelne Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029605116)
 
 (1) Die Gemeinde kann die Sanierung für ein Grundstück als
 abgeschlossen erklären, wenn entsprechend den Zielen und Zwecken der
@@ -7324,6 +7534,7 @@ Sanierungsvermerk zu löschen.
 
 
 ##### § 164 Anspruch auf Rückübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029705116)
 
 (1) Wird die Sanierungssatzung aus den in § 162 Absatz 1 Satz 1 Nummer
 2 oder 3 bezeichneten Gründen aufgehoben oder ist im Falle der
@@ -7376,10 +7587,12 @@ förmlichen Festlegung ergibt.
 
 
 #### Sechster Abschnitt - Städtebauförderung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006403116)
 
 
 
 ##### § 164a Einsatz von Städtebauförderungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036203116)
 
 (1) Zur Deckung der Kosten der einheitlichen Vorbereitung und zügigen
 Durchführung der städtebaulichen Sanierungsmaßnahme als Einheit
@@ -7426,6 +7639,7 @@ künstlerischen oder städtebaulichen Bedeutung erhalten bleiben soll.
 
 
 ##### § 164b Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036304116)
 
 (1) Der Bund kann zur Förderung städtebaulicher Sanierungsmaßnahmen
 nach Artikel 104b des Grundgesetzes den Ländern nach Maßgabe des
@@ -7458,10 +7672,12 @@ Verwaltungsvereinbarung zwischen Bund und Ländern festgelegt.
 
 
 ### Zweiter Teil - Städtebauliche Entwicklungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004405116)
 
 
 
 #### § 165 Städtebauliche Entwicklungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029807116)
 
 (1) Städtebauliche Entwicklungsmaßnahmen in Stadt und Land, deren
 einheitliche Vorbereitung und zügige Durchführung im öffentlichen
@@ -7554,6 +7770,7 @@ entsprechend anzuwenden.
 
 
 #### § 166 Zuständigkeit und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE029906116)
 
 (1) Die Entwicklungsmaßnahme wird von der Gemeinde vorbereitet und
 durchgeführt, sofern nicht nach Absatz 4 eine abweichende Regelung
@@ -7601,6 +7818,7 @@ einem Planungsverband nach § 205 Absatz 4 übertragen werden.
 
 
 #### § 167 Erfüllung von Aufgaben für die Gemeinde; Entwicklungsträger
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030006116)
 
 (1) Die Gemeinde kann sich zur Erfüllung von Aufgaben, die ihr bei der
 Vorbereitung oder Durchführung der städtebaulichen
@@ -7619,6 +7837,7 @@ er ist dabei an Weisungen der Gemeinde gebunden.
 
 
 #### § 168 Übernahmeverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030106116)
 
 Der Eigentümer eines im städtebaulichen Entwicklungsbereich gelegenen
 Grundstücks kann von der Gemeinde die Übernahme des Grundstücks
@@ -7631,6 +7850,7 @@ zulässigen Art zu nutzen. Die Vorschrift des § 145 Absatz 5 Satz 2 bis
 
 
 #### § 169 Besondere Vorschriften für den städtebaulichen Entwicklungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030208116)
 
 (1) Im städtebaulichen Entwicklungsbereich sind entsprechend
 anzuwenden
@@ -7734,6 +7954,7 @@ Grundstücks entspricht.
 
 
 #### § 170 Sonderregelung für Anpassungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030306116)
 
 Ergeben sich aus den Zielen und Zwecken der städtebaulichen
 Entwicklungsmaßnahme in einem im Zusammenhang bebauten Gebiet
@@ -7750,6 +7971,7 @@ anzuwenden, mit Ausnahme der §§ 136, 142 und 143.
 
 
 #### § 171 Kosten und Finanzierung der Entwicklungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030406116)
 
 (1) Einnahmen, die bei der Vorbereitung und Durchführung der
 Entwicklungsmaßnahme entstehen, sind zur Finanzierung der
@@ -7768,10 +7990,12 @@ Entwicklung erforderlich sind.
 
 
 ### Dritter Teil - Stadtumbau
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006502116)
 
 
 
 #### § 171a Stadtumbaumaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037704116)
 
 (1) Stadtumbaumaßnahmen in Stadt- und Ortsteilen, deren einheitliche
 und zügige Durchführung im öffentlichen Interesse liegen, können auch
@@ -7822,6 +8046,7 @@ insbesondere dazu beitragen, dass
 
 
 #### § 171b Stadtumbaugebiet, städtebauliches Entwicklungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037802116)
 
 (1) Die Gemeinde legt das Gebiet, in dem Stadtumbaumaßnahmen
 durchgeführt werden sollen, durch Beschluss als Stadtumbaugebiet fest.
@@ -7842,6 +8067,7 @@ anzuwenden.
 
 
 #### § 171c Stadtumbauvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037903116)
 
 Die Gemeinde soll soweit erforderlich zur Umsetzung ihres
 städtebaulichen Entwicklungskonzeptes die Möglichkeit nutzen,
@@ -7863,6 +8089,7 @@ durchzuführen. Gegenstände der Verträge können insbesondere auch sein
 
 
 #### § 171d Sicherung von Durchführungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037203116)
 
 (1) Die Gemeinde kann durch Satzung ein Gebiet bezeichnen, das ein
 festgelegtes Stadtumbaugebiet (§ 171b Absatz 1) oder Teile davon
@@ -7890,10 +8117,12 @@ entsprechend anzuwenden.
 
 
 ### Vierter Teil - Soziale Stadt
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006602116)
 
 
 
 #### § 171e Maßnahmen der Sozialen Stadt
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037302116)
 
 (1) Städtebauliche Maßnahmen der Sozialen Stadt in Stadt- und
 Ortsteilen, deren einheitliche und zügige Durchführung im öffentlichen
@@ -7946,10 +8175,12 @@ Absatzes 2 Satz 3 anzuwenden.
 
 
 ### Fünfter Teil - Private Initiativen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006701116)
 
 
 
 #### § 171f Private Initiativen zur Stadtentwicklung, Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038201116)
 
 Nach Maßgabe des Landesrechts können unbeschadet sonstiger Maßnahmen
 nach diesem Gesetzbuch Gebiete festgelegt werden, in denen in privater
@@ -7964,14 +8195,17 @@ getroffen werden.
 
 
 ### Sechster Teil - Erhaltungssatzung und städtebauliche Gebote
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004506116)
 
 
 
 #### Erster Abschnitt - Erhaltungssatzung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004606116)
 
 
 
 ##### § 172 Erhaltung baulicher Anlagen und der Eigenart von Gebieten (Erhaltungssatzung)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030510125)
 
 (1) Die Gemeinde kann in einem Bebauungsplan oder durch eine sonstige
 Satzung Gebiete bezeichnen, in denen
@@ -8082,6 +8316,7 @@ entsprechend anzuwenden.
 
 
 ##### § 173 Genehmigung, Übernahmeanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030606116)
 
 (1) Die Genehmigung wird durch die Gemeinde erteilt; § 22 Absatz 5
 Satz 2 bis 5 ist entsprechend anzuwenden. Ist eine baurechtliche
@@ -8109,6 +8344,7 @@ und die Erhaltung von Denkmälern, bleiben unberührt.
 
 
 ##### § 174 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030704116)
 
 (1) § 172 ist nicht auf Grundstücke anzuwenden, die den in § 26 Nummer
 2 bezeichneten Zwecken dienen, und auf die in § 26 Nummer 3
@@ -8127,10 +8363,12 @@ zuzumuten ist.
 
 
 #### Zweiter Abschnitt - Städtebauliche Gebote
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004706116)
 
 
 
 ##### § 175 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030807125)
 
 (1) Beabsichtigt die Gemeinde, ein Baugebot (§ 176), ein
 Modernisierungs- oder Instandsetzungsgebot (§ 177), ein Pflanzgebot (§
@@ -8166,6 +8404,7 @@ und die Erhaltung von Denkmälern, bleiben unberührt.
 
 
 ##### § 176 Baugebot
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE030906125)
 
 (1) Im Geltungsbereich eines Bebauungsplans kann die Gemeinde den
 Eigentümer durch Bescheid verpflichten, innerhalb einer zu
@@ -8244,6 +8483,7 @@ zulässigerweise bewirkt hat.
 
 
 ##### § 176a Städtebauliches Entwicklungskonzept zur Stärkung der Innenentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039000125)
 
 (1) Die Gemeinde kann ein städtebauliches Entwicklungskonzept
 beschließen, das Aussagen zum räumlichen Geltungsbereich, zu Zielen
@@ -8260,6 +8500,7 @@ Absatz 1 zum Bestandteil der Begründung eines Bebauungsplans machen.
 
 
 ##### § 177 Modernisierungs- und Instandsetzungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031004116)
 
 (1) Weist eine bauliche Anlage nach ihrer inneren oder äußeren
 Beschaffenheit Missstände oder Mängel auf, deren Beseitigung oder
@@ -8329,6 +8570,7 @@ verfolgten Ziele und Zwecke zu berücksichtigen.
 
 
 ##### § 178 Pflanzgebot
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031104116)
 
 Die Gemeinde kann den Eigentümer durch Bescheid verpflichten, sein
 Grundstück innerhalb einer zu bestimmenden angemessenen Frist
@@ -8337,6 +8579,7 @@ des Bebauungsplans zu bepflanzen.
 
 
 ##### § 179 Rückbau- und Entsiegelungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031206116)
 
 (1) Die Gemeinde kann den Eigentümer verpflichten zu dulden, dass eine
 bauliche Anlage ganz oder teilweise beseitigt wird, wenn sie
@@ -8390,10 +8633,12 @@ Betrag ruht als öffentliche Last auf dem Grundstück.
 
 
 ### Siebter Teil - Sozialplan und Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004806116)
 
 
 
 #### § 180 Sozialplan
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031306116)
 
 (1) Wirken sich Bebauungspläne, städtebauliche Sanierungsmaßnahmen,
 städtebauliche Entwicklungsmaßnahmen oder Stadtumbaumaßnahmen
@@ -8426,6 +8671,7 @@ auferlegen.
 
 
 #### § 181 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031404116)
 
 (1) Soweit es die Billigkeit erfordert, soll die Gemeinde bei der
 Durchführung dieses Gesetzbuchs zur Vermeidung oder zum Ausgleich
@@ -8476,10 +8722,12 @@ Mittel abzuwenden.
 
 
 ### Achter Teil - Miet- und Pachtverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG004906116)
 
 
 
 #### § 182 Aufhebung von Miet- oder Pachtverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031505116)
 
 (1) Erfordert die Verwirklichung der Ziele und Zwecke der Sanierung im
 förmlich festgelegten Sanierungsgebiet, der Entwicklung im
@@ -8512,6 +8760,7 @@ aufheben.
 
 
 #### § 183 Aufhebung von Miet- oder Pachtverhältnissen über unbebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031604116)
 
 (1) Ist nach den Festsetzungen des Bebauungsplans für ein unbebautes
 Grundstück eine andere Nutzung vorgesehen und ist die alsbaldige
@@ -8523,6 +8772,7 @@ Grundstück beziehen und der neuen Nutzung entgegenstehen.
 
 
 #### § 184 Aufhebung anderer Vertragsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031704116)
 
 Die §§ 182 und 183 sind entsprechend auf andere schuldrechtliche
 Vertragsverhältnisse anzuwenden, die zum Gebrauch oder zur Nutzung
@@ -8531,6 +8781,7 @@ baulichen Anlage berechtigen.
 
 
 #### § 185 Entschädigung bei Aufhebung von Miet- oder Pachtverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031804116)
 
 (1) Ist ein Rechtsverhältnis auf Grund des § 182, des § 183 oder des §
 184 aufgehoben worden, ist den Betroffenen insoweit eine angemessene
@@ -8555,6 +8806,7 @@ außerstande ist.
 
 
 #### § 186 Verlängerung von Miet- oder Pachtverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE031905116)
 
 Die Gemeinde kann auf Antrag des Mieters oder Pächters ein Miet- oder
 Pachtverhältnis über Wohn- oder Geschäftsraum im förmlich festgelegten
@@ -8564,10 +8816,12 @@ zur Verwirklichung des Sozialplans erforderlich ist.
 
 
 ### Neunter Teil - Städtebauliche Maßnahmen im Zusammenhang mit Maßnahmen zur Verbesserung der Agrarstruktur
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005006116)
 
 
 
 #### § 187 Abstimmung von Maßnahmen; Bauleitplanung und Maßnahmen zur Verbesserung der Agrarstruktur
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032004116)
 
 (1) Bei der Vorbereitung und Durchführung städtebaulicher Maßnahmen
 sind Maßnahmen zur Verbesserung der Agrarstruktur, insbesondere auch
@@ -8591,6 +8845,7 @@ Bauleitpläne möglichst frühzeitig zu beteiligen.
 
 
 #### § 188 Bauleitplanung und Flurbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032104116)
 
 (1) Ist eine Flurbereinigung auf Grund des Flurbereinigungsgesetzes in
 einer Gemeinde nach Mitteilung der Flurbereinigungsbehörde
@@ -8608,6 +8863,7 @@ wenn zwingende Gründe die Änderung erfordern.
 
 
 #### § 189 Ersatzlandbeschaffung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032204116)
 
 (1) Wird bei einer städtebaulichen Maßnahme ein land- oder
 forstwirtschaftlicher Betrieb ganz oder teilweise in Anspruch
@@ -8625,6 +8881,7 @@ obliegenden Aufgaben benötigt.
 
 
 #### § 190 Flurbereinigung aus Anlass einer städtebaulichen Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032304116)
 
 (1) Werden für städtebauliche Maßnahmen land- oder
 forstwirtschaftliche Grundstücke in Anspruch genommen, kann auf Antrag
@@ -8651,6 +8908,7 @@ unberührt.
 
 
 #### § 191 Vorschriften über den Verkehr mit land- und forstwirtschaftlichen Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032404116)
 
 Im räumlichen Geltungsbereich eines Bebauungsplans oder einer
 Sanierungssatzung sind die Vorschriften über den Verkehr mit land- und
@@ -8662,14 +8920,17 @@ ausgewiesen sind.
 
 
 ## Drittes Kapitel - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005104116)
 
 
 
 ### Erster Teil - Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005204116)
 
 
 
 #### § 192 Gutachterausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032505116)
 
 (1) Zur Ermittlung von Grundstückswerten und für sonstige
 Wertermittlungen werden selbständige, unabhängige Gutachterausschüsse
@@ -8692,6 +8953,7 @@ von Grundstücken als Gutachter hinzuzuziehen.
 
 
 #### § 193 Aufgaben des Gutachterausschusses
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032605116)
 
 (1) Der Gutachterausschuss erstattet Gutachten über den Verkehrswert
 von bebauten und unbebauten Grundstücken sowie Rechten an
@@ -8761,6 +9023,7 @@ mitzuteilen.
 
 
 #### § 194 Verkehrswert
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032705116)
 
 Der Verkehrswert (Marktwert) wird durch den Preis bestimmt, der in dem
 Zeitpunkt, auf den sich die Ermittlung bezieht, im gewöhnlichen
@@ -8772,6 +9035,7 @@ wäre.
 
 
 #### § 195 Kaufpreissammlung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032806116)
 
 (1) Zur Führung der Kaufpreissammlung ist jeder Vertrag, durch den
 sich jemand verpflichtet, Eigentum an einem Grundstück gegen Entgelt,
@@ -8796,6 +9060,7 @@ Interesse nach Maßgabe landesrechtlicher Vorschriften zu erteilen (§
 
 
 #### § 196 Bodenrichtwerte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE032908125)
 
 (1) Auf Grund der Kaufpreissammlung sind flächendeckend
 durchschnittliche Lagewerte für den Boden unter Berücksichtigung des
@@ -8830,6 +9095,7 @@ Finanzamt mitzuteilen. Jedermann kann von der Geschäftsstelle Auskunft
 
 
 #### § 197 Befugnisse des Gutachterausschusses
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033005116)
 
 (1) Der Gutachterausschuss kann mündliche oder schriftliche Auskünfte
 von Sachverständigen und von Personen einholen, die Angaben über das
@@ -8857,6 +9123,7 @@ einem unverhältnismäßigen Aufwand verbunden wäre.
 
 
 #### § 198 Oberer Gutachterausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033106116)
 
 (1) Für den Bereich einer oder mehrerer höherer Verwaltungsbehörden
 sind Obere Gutachterausschüsse oder Zentrale Geschäftsstellen zu
@@ -8878,6 +9145,7 @@ Gutachterausschusses vorliegt.
 
 
 #### § 199 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033206116)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates durch Rechtsverordnung Vorschriften über die Anwendung
@@ -8922,14 +9190,17 @@ zu regeln.
 
 
 ### Zweiter Teil - Allgemeine Vorschriften; Zuständigkeiten; Verwaltungsverfahren; Planerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005305116)
 
 
 
 #### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005404116)
 
 
 
 ##### § 200 Grundstücke; Rechte an Grundstücken; Baulandkataster
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021207130)
 
 (1) Die für Grundstücke geltenden Vorschriften dieses Gesetzbuchs sind
 entsprechend auch auf Grundstücksteile anzuwenden.
@@ -8951,6 +9222,7 @@ Widerspruchsrecht der Grundstückseigentümer hinzuweisen.
 
 
 ##### § 200a Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036404116)
 
 Darstellungen für Flächen zum Ausgleich und Festsetzungen für Flächen
 oder Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3 umfassen auch
@@ -8961,6 +9233,7 @@ sowie des Naturschutzes und der Landschaftspflege vereinbar ist.
 
 
 ##### § 201 Begriff der Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021306116)
 
 Landwirtschaft im Sinne dieses Gesetzbuchs ist insbesondere der
 Ackerbau, die Wiesen- und Weidewirtschaft einschließlich Tierhaltung,
@@ -8971,6 +9244,7 @@ berufsmäßige Imkerei und die berufsmäßige Binnenfischerei.
 
 
 ##### § 201a Verordnungsermächtigung zur Bestimmung von Gebieten mit einem angespannten Wohnungsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039101130)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 Gebiete mit einem angespannten Wohnungsmarkt zu bestimmen. Die
@@ -9007,6 +9281,7 @@ werden.
 
 
 ##### § 202 Schutz des Mutterbodens
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE008105116)
 
 Mutterboden, der bei der Errichtung und Änderung baulicher Anlagen
 sowie bei wesentlichen anderen Veränderungen der Erdoberfläche
@@ -9015,10 +9290,12 @@ Vernichtung oder Vergeudung zu schützen.
 
 
 #### Zweiter Abschnitt - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005504116)
 
 
 
 ##### § 203 Abweichende Zuständigkeitsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021408116)
 
 (1) Die Landesregierung oder die von ihr bestimmte Behörde kann im
 Einvernehmen mit der Gemeinde durch Rechtsverordnung bestimmen, dass
@@ -9048,6 +9325,7 @@ Obersten Landesbehörden im gegenseitigen Einvernehmen.
 
 
 ##### § 204 Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033306360)
 
 (1) Benachbarte Gemeinden sollen einen gemeinsamen Flächennutzungsplan
 aufstellen, wenn ihre städtebauliche Entwicklung wesentlich durch
@@ -9093,6 +9371,7 @@ Verfahrensabschnitte wiederholt werden.
 
 
 ##### § 205 Planungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033407130)
 
 (1) Gemeinden und sonstige öffentliche Planungsträger können sich zu
 einem Planungsverband zusammenschließen, um durch gemeinsame
@@ -9158,6 +9437,7 @@ und 8 entsprechend anzuwenden.
 
 
 ##### § 206 Örtliche und sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021505116)
 
 (1) Örtlich zuständig ist die Behörde, in deren Bereich das betroffene
 Grundstück liegt. Werden Grundstücke betroffen, die örtlich oder
@@ -9171,10 +9451,12 @@ Oberste Landesbehörde zugleich höhere Verwaltungsbehörde.
 
 
 #### Dritter Abschnitt - Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005604116)
 
 
 
 ##### § 207 Von Amts wegen bestellter Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021606116)
 
 Ist ein Vertreter nicht vorhanden, so hat das Betreuungsgericht, für
 einen minderjährigen Beteiligten das Familiengericht auf Ersuchen der
@@ -9214,6 +9496,7 @@ entsprechend.
 
 
 ##### § 208 Anordnungen zur Erforschung des Sachverhalts
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021707116)
 
 Die Behörden können zur Erforschung des Sachverhalts auch anordnen,
 dass
@@ -9240,6 +9523,7 @@ festzusetzen. Androhung und Festsetzung können wiederholt werden.
 
 
 ##### § 209 Vorarbeiten auf Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE021805116)
 
 (1) Eigentümer und Besitzer haben zu dulden, dass Beauftragte der
 zuständigen Behörden zur Vorbereitung der von ihnen nach diesem
@@ -9264,6 +9548,7 @@ die Beteiligten zu hören.
 
 
 ##### § 210 Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022006116)
 
 (1) Wenn ein Beteiligter ohne Verschulden verhindert war, eine
 gesetzliche oder auf Grund dieses Gesetzbuchs bestimmte Frist für eine
@@ -9278,6 +9563,7 @@ festsetzen.
 
 
 ##### § 211 Belehrung über Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022105116)
 
 Den nach diesem Gesetzbuch ergehenden Verwaltungsakten ist eine
 Erklärung beizufügen, durch die der Beteiligte über den Rechtsbehelf,
@@ -9286,6 +9572,7 @@ Rechtsbehelf einzulegen ist, und über die Frist belehrt wird.
 
 
 ##### § 212 Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022206116)
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen,
 dass ein nach dem Vierten oder Fünften Teil des Ersten Kapitels
@@ -9313,6 +9600,7 @@ Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
 
 ##### § 212a Entfall der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036504116)
 
 (1) Widerspruch und Anfechtungsklage eines Dritten gegen die
 bauaufsichtliche Zulassung eines Vorhabens haben keine aufschiebende
@@ -9325,6 +9613,7 @@ aufschiebende Wirkung.
 
 
 ##### § 213 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022609116)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -9365,10 +9654,12 @@ werden.
 
 
 #### Vierter Abschnitt - Planerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005705116)
 
 
 
 ##### § 214 Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022415360)
 
 (1) Eine Verletzung von Verfahrens- und Formvorschriften dieses
 Gesetzbuchs ist für die Rechtswirksamkeit des Flächennutzungsplans und
@@ -9520,6 +9811,7 @@ Kraft gesetzt werden.
 
 
 ##### § 215 Frist für die Geltendmachung der Verletzung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022308116)
 
 (1) Unbeachtlich werden
 
@@ -9548,6 +9840,7 @@ Vorschriften sowie auf die Rechtsfolgen hinzuweisen.
 
 
 ##### § 215a Beendigung von Bebauungsplanverfahren und ergänzendes Verfahren für Bebauungspläne nach § 13b in der bis zum Ablauf des 22. Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040100360)
 
 (1) Bebauungsplanverfahren nach § 13b in der bis zum Ablauf des 22.
 Juni 2021 oder bis zum Ablauf des 31. Dezember 2023 geltenden Fassung,
@@ -9588,6 +9881,7 @@ Planerhaltung entsprechend anzuwenden.
 
 
 ##### § 216 Aufgaben im Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022506116)
 
 Die Verpflichtung der für das Genehmigungsverfahren zuständigen
 Behörde, die Einhaltung der Vorschriften zu prüfen, deren Verletzung
@@ -9597,6 +9891,7 @@ unberührt.
 
 
 ##### § 216a Unwirksamkeit von Bebauungsplänen mit Abweichungen von der Technischen Anleitung zum Schutz gegen Lärm
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040600130)
 
 (1) Erweist sich ein Bebauungsplan mit Festsetzungen nach § 9 Absatz 1
 Nummer 23 Buchstabe a Doppelbuchstabe aa, die von der Technischen
@@ -9644,10 +9939,12 @@ Verfahren nach § 214 Absatz 4 zu heilen, bleibt unberührt.
 
 
 ### Dritter Teil - Verfahren vor den Kammern (Senaten) für Baulandsachen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005804116)
 
 
 
 #### § 217 Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022708116)
 
 (1) Verwaltungsakte nach dem Vierten und Fünften Teil des Ersten
 Kapitels sowie nach den §§ 18, 28 Absatz 3, 4 und 6, den §§ 39 bis 44,
@@ -9686,6 +9983,7 @@ statt der Akten Abschriften der bedeutsamen Aktenstücke vorzulegen.
 
 
 #### § 218 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022805116)
 
 (1) War ein Beteiligter ohne Verschulden verhindert, die Frist nach §
 217 Absatz 2 einzuhalten, so ist ihm auf Antrag vom Landgericht,
@@ -9707,6 +10005,7 @@ Entschädigung nicht ändern.
 
 
 #### § 219 Örtliche Zuständigkeit der Landgerichte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE022905116)
 
 (1) Örtlich zuständig ist das Landgericht, in dessen Bezirk die
 Stelle, die den Verwaltungsakt erlassen hat, ihren Sitz hat.
@@ -9720,6 +10019,7 @@ können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 #### § 220 Zusammensetzung der Kammern für Baulandsachen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023006116)
 
 (1) Bei den Landgerichten werden eine oder mehrere Kammern für
 Baulandsachen gebildet. Die Kammer für Baulandsachen entscheidet in
@@ -9735,6 +10035,7 @@ Dauer von drei Jahren bestellt.
 
 
 #### § 221 Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023108116)
 
 (1) In den Sachen, die auf Grund eines Antrags auf gerichtliche
 Entscheidung bei den Gerichten anhängig werden, sind die bei Klagen in
@@ -9756,6 +10057,7 @@ Gerichtskostengesetzes sind nicht anzuwenden.
 
 
 #### § 222 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023206116)
 
 (1) Wer an dem Verfahren, in dem der Verwaltungsakt erlassen worden
 ist, Beteiligter war, ist auch in dem gerichtlichen Verfahren
@@ -9775,6 +10077,7 @@ stellen.
 
 
 #### § 223 Anfechtung von Ermessensentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023305116)
 
 Soweit die Stelle, die den Verwaltungsakt erlassen hat, ermächtigt
 ist, nach ihrem Ermessen zu handeln, kann der Antrag nur darauf
@@ -9787,6 +10090,7 @@ worden ist.
 
 
 #### § 224 Entfall der aufschiebenden Wirkung bei Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023407116)
 
 Der Antrag auf gerichtliche Entscheidung gegen
 
@@ -9809,6 +10113,7 @@ Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
 
 #### § 225 Vorzeitige Ausführungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023505116)
 
 Ist nur noch die Höhe einer Geldentschädigung streitig, so kann das
 Gericht auf Antrag des Enteignungsbegünstigten beschließen, dass die
@@ -9822,6 +10127,7 @@ Rücknahme hinterlegt hat.
 
 
 #### § 226 Urteil
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023605116)
 
 (1) Über den Antrag auf gerichtliche Entscheidung wird durch Urteil
 entschieden.
@@ -9856,6 +10162,7 @@ notwendig erscheint.
 
 
 #### § 227 Säumnis eines Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023705116)
 
 (1) Erscheint der Beteiligte, der den Antrag auf gerichtliche
 Entscheidung gestellt hat, in einem Termin zur mündlichen Verhandlung,
@@ -9875,6 +10182,7 @@ Versäumnisurteile nicht anzuwenden.
 
 
 #### § 228 Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023805116)
 
 (1) Soweit der Beteiligte obsiegt, der den Antrag auf gerichtliche
 Entscheidung gestellt hat, gilt, wenn keiner der Beteiligten dazu im
@@ -9888,6 +10196,7 @@ Antrag des Beteiligten nach billigem Ermessen.
 
 
 #### § 229 Berufung, Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE023907116)
 
 (1) Über die Berufung und die Beschwerde entscheidet das
 Oberlandesgericht, Senat für Baulandsachen, in der Besetzung mit zwei
@@ -9906,11 +10215,13 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 #### § 230 Revision
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE024005116)
 
 Über die Revision entscheidet der Bundesgerichtshof.
 
 
 #### § 231 Einigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE024105116)
 
 Einigen sich die Beteiligten während eines gerichtlichen Verfahrens,
 das eine Enteignung betrifft, so gelten die §§ 110 und 111
@@ -9918,6 +10229,7 @@ entsprechend. Das Gericht tritt an die Stelle der Enteignungsbehörde.
 
 
 #### § 232 Weitere Zuständigkeit der Kammern (Senate) für Baulandsachen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE024205116)
 
 Die Länder können durch Gesetz den Kammern und Senaten für
 Baulandsachen die Verhandlung und Entscheidung über Maßnahmen der
@@ -9928,14 +10240,17 @@ Landesrecht vorgenommen werden, und über Entschädigungsansprüche
 
 
 ## Viertes Kapitel - Überleitungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG005904116)
 
 
 
 ### Erster Teil - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006004116)
 
 
 
 #### § 233 Allgemeine Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033506116)
 
 (1) Verfahren nach diesem Gesetz, die vor dem Inkrafttreten einer
 Gesetzesänderung förmlich eingeleitet worden sind, werden nach den
@@ -9964,6 +10279,7 @@ oder übergeleitete Pläne, Satzungen und Entscheidungen gelten fort.
 
 
 #### § 234 Überleitungsvorschriften für das Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033605116)
 
 (1) Für das Vorkaufsrecht sind die jeweils zur Zeit des Verkaufsfalls
 geltenden städtebaurechtlichen Vorschriften anzuwenden.
@@ -9974,6 +10290,7 @@ weiter.
 
 
 #### § 235 Überleitungsvorschriften für städtebauliche Sanierungs- und Entwicklungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033706116)
 
 (1) Auf städtebauliche Sanierungs- und Entwicklungsmaßnahmen, für die
 vor dem Inkrafttreten einer Gesetzesänderung nach den bisher geltenden
@@ -10011,6 +10328,7 @@ Frist für die Durchführung der Sanierung festgelegt worden.
 
 
 #### § 236 Überleitungsvorschriften für das Baugebot und die Erhaltung baulicher Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033806116)
 
 (1) § 176 Absatz 9 ist auf Enteignungsverfahren nach § 85 Absatz 1
 Nummer 5 anzuwenden, wenn der Eigentümer die Verpflichtung aus einem
@@ -10027,10 +10345,12 @@ durch eine Vormerkung gesichert wurde. § 172 in der ab dem 1. Januar
 
 
 #### § 237 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE033906116)
 
 
 
 #### § 238 Überleitungsvorschrift für Entschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034005116)
 
 Wurde durch die Änderung des § 34 des Bundesbaugesetzes durch das
 Gesetz zur Änderung des Bundesbaugesetzes vom 18. August 1976 die bis
@@ -10050,6 +10370,7 @@ oder wesentlich geändert, ist Satz 1 entsprechend anzuwenden.
 
 
 #### § 239 Überleitungsvorschrift für die Grenzregelung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034105116)
 
 Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor
 dem 20. Juli 2004 geltenden Fassung) vor dem 20. Juli 2004 gefasst,
@@ -10059,14 +10380,17 @@ weiterhin anzuwenden.
 
 
 #### § 240 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034205116)
 
 
 
 #### § 241 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034303116)
 
 
 
 #### § 242 Überleitungsvorschriften für die Erschließung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034407116)
 
 (1) Für vorhandene Erschließungsanlagen, für die eine Beitragspflicht
 auf Grund der bis zum 29. Juni 1961 geltenden Vorschriften nicht
@@ -10137,6 +10461,7 @@ zu treffen.
 
 
 #### § 243 Überleitungsvorschriften für das Maßnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034505116)
 
 (1) § 233 ist auf Verfahren, Pläne, Satzungen und Entscheidungen, die
 auf der Grundlage des Maßnahmengesetzes zum Baugesetzbuch eingeleitet,
@@ -10149,6 +10474,7 @@ Fassung weiter angewendet werden.
 
 
 #### § 244 Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037403116)
 
 (1) Abweichend von § 233 Absatz 1 werden Verfahren für Bauleitpläne
 und Satzungen nach § 34 Absatz 4 Satz 1 und § 35 Absatz 6, die nach
@@ -10208,6 +10534,7 @@ aufgenommen worden ist.
 
 
 #### § 245 Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037503116)
 
 (1) Ein von einer Gemeinde bis zum 20. Juli 2004 im Hinblick auf die
 Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des
@@ -10235,6 +10562,7 @@ geltenden Fassung bis zum 31. Dezember 2019 anzuwenden.
 
 
 #### § 245a Überleitungsvorschriften und Vorschriften im Zusammenhang mit dem Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035207130)
 
 (1) Die Regelungen zur Zulässigkeit von Anlagen zur Kinderbetreuung
 sowie von Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-
@@ -10389,6 +10717,7 @@ bis 5 bleibt die Möglichkeit, ein Vorhaben nach § 35 zuzulassen.
 
 
 #### § 245b Überleitungsvorschriften für Vorhaben im Außenbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE035306116)
 
 (1) (weggefallen)
 
@@ -10397,6 +10726,7 @@ Satz 1 Nummer 1 Buchstabe c nicht anzuwenden ist.
 
 
 #### § 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE036805116)
 
 (1) Abweichend von § 233 Absatz 1 Satz 1 können Verfahren nach diesem
 Gesetz, die förmlich vor dem 13. Mai 2017 eingeleitet worden sind, nur
@@ -10418,6 +10748,7 @@ Baunutzungsverordnung keine Anwendung.
 
 
 #### § 245d Überleitungsvorschrift aus Anlass des Gesetzes zur Mobilisierung von Bauland
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039200125)
 
 (1) § 34 Absatz 2 findet auf Baugebiete nach § 5a der
 Baunutzungsverordnung keine Anwendung.
@@ -10430,6 +10761,7 @@ entsprechend.
 
 
 #### § 245e Überleitungsvorschriften aus Anlass des Gesetzes zur Erhöhung und Beschleunigung des Ausbaus von Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039504130)
 
 (1) Die Rechtswirkungen eines Raumordnungs- oder Flächennutzungsplans
 gemäß § 35 Absatz 3 Satz 3 in der bis zum 1. Februar 2023 geltenden
@@ -10504,6 +10836,7 @@ Windenergie unvereinbare Nutzungen oder Funktionen.
 
 
 #### § 245f Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften sowie aus Anlass der Einführung des § 249c; Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040001130)
 
 (1) Abweichend von § 233 Absatz 1 ist § 6 Absatz 4 in der Fassung
 dieses Gesetzes anzuwenden, wenn der Genehmigungsantrag bei der
@@ -10528,10 +10861,12 @@ und 2 gelten entsprechend für Windenergiegebiete, die nach Ablauf des
 
 
 ### Zweiter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNG006104116)
 
 
 
 #### § 246 Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034813130)
 
 (1) In den Ländern Berlin und Hamburg entfallen die in § 6 Absatz 1, §
 10 Absatz 2 und § 190 Absatz 1 vorgesehenen Genehmigungen oder
@@ -10722,6 +11057,7 @@ Vorschriften Gebrauch gemacht werden kann.
 
 
 #### § 246a Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038001116)
 
 Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6
 Absatz 6 sollen die in § 5 Absatz 4a bezeichneten Gebiete nach Maßgabe
@@ -10729,6 +11065,7 @@ dieser Bestimmung nachrichtlich übernommen und vermerkt werden.
 
 
 #### § 246b Sonderregelungen für Anlagen für gesundheitliche Zwecke im Zuge der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038901125)
 
 (1) Soweit Anlagen für gesundheitliche Zwecke zur Versorgung von
 Personen, die sich mit dem Coronavirus SARS-CoV-2 infiziert haben oder
@@ -10778,6 +11115,7 @@ Vorschrift Gebrauch gemacht werden kann.
 
 
 #### § 246c Abweichungen vom Baugesetzbuch für den Wiederaufbau im Katastrophenfall; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039402130)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 Wiederaufbaugebiete zu bestimmen. Ein Wiederaufbaugebiet ist ein
@@ -10901,6 +11239,7 @@ ergangen ist. Die Absätze 4 und 5 sind entsprechend anzuwenden.
 
 
 #### § 246d Sonderregelungen für Biogasanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039701360)
 
 (1) Vor dem 1. September 2022 errichtete Anlagen zur Erzeugung von
 Biogas im Sinne des § 35 Absatz 1 Nummer 6 sind bis zum Ablauf des 31.
@@ -10960,6 +11299,7 @@ rechtlicher Anforderungen an die Anlage erforderlich ist.
 
 
 #### § 246e Befristete Sonderregelung für den Wohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040700130)
 
 (1) Mit Zustimmung der Gemeinde kann bis zum Ablauf des 31. Dezember
 2030 von den Vorschriften dieses Gesetzbuchs oder den aufgrund dieses
@@ -11020,6 +11360,7 @@ entsprechender Anwendung der Absätze 1 bis 4 auch zugelassen werden:
 
 
 #### § 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE034907116)
 
 (1) Bei der Aufstellung von Bauleitplänen und sonstigen Satzungen nach
 diesem Gesetzbuch soll in der Abwägung den Belangen, die sich aus der
@@ -11060,6 +11401,7 @@ anzuwenden.
 
 
 #### § 248 Sonderregelung zur sparsamen und effizienten Nutzung von Energie
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038401116)
 
 In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz
 1 Nummer 2 oder 3 sind bei Maßnahmen an bestehenden Gebäuden zum
@@ -11075,6 +11417,7 @@ Absatz 1 Satz 1).
 
 
 #### § 249 Sonderregelungen für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038507130)
 
 (1) § 35 Absatz 3 Satz 3 ist auf Vorhaben nach § 35 Absatz 1 Nummer 5,
 die der Erforschung, Entwicklung oder Nutzung der Windenergie dienen,
@@ -11217,6 +11560,7 @@ Radius des Rotors.
 
 
 #### § 249a Sonderregelung für Vorhaben zur Herstellung oder Speicherung von Wasserstoff aus erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039801130)
 
 (1) Ein Vorhaben, das der Herstellung oder Speicherung von Wasserstoff
 dient und in einem räumlich-funktionalen Zusammenhang mit einer Anlage
@@ -11287,6 +11631,7 @@ in Absatz 4 genannten Voraussetzungen
 
 
 #### § 249b Verordnungsermächtigungen zum Ausbau der erneuerbaren Energien in Abbaubereichen des Braunkohletagebaus
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039901116)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass für die Entscheidung über die Zulässigkeit eines
@@ -11343,6 +11688,7 @@ eines Vorhabens nach Satz 1 entsprechend anzuwenden.
 
 
 #### § 249c Beschleunigungsgebiete für die Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040200130)
 
 (1) Werden im Flächennutzungsplan Windenergiegebiete gemäß § 2 Nummer
 1 des Windenergieflächenbedarfsgesetzes dargestellt, sind diese
@@ -11418,6 +11764,7 @@ des Windenergiegebiets im Übrigen unbeachtlich.
 
 
 #### § 250 Bildung von Wohnungseigentum in Gebieten mit angespannten Wohnungsmärkten
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE039301130)
 
 (1) Sofern Gebiete mit angespannten Wohnungsmärkten im Sinne von §
 201a Satz 3 und 4 vorliegen und diese Gebiete nach Satz 3 bestimmt
@@ -11518,6 +11865,7 @@ Absatz 1 Satz 2 und 6 keine Genehmigungspflicht besteht.
 
 
 #### Anlage 1 (zu § 2 Absatz 4 und den §§ 2a und 4c)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE037604116)
 
 (Fundstelle: BGBl. I 2017, 3720 — 3721)
 
@@ -11665,6 +12013,7 @@ folgende Bestandteile:
 
 
 #### Anlage 2 (zu § 13a Absatz 1 Satz 2 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE038306116)
 
 (Fundstelle: BGBl. I 2017, 3722)
 
@@ -11812,6 +12161,7 @@ genommen wird.
 (zu § 249c Absatz 3 Satz 3)
 
 #### Anlage 3 Darstellung von geeigneten Regeln für wirksame Minderungsmaßnahmen durch die Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/bbaug/BJNR003410960.html#BJNR003410960BJNE040300130)
 
 (Fundstelle: BGBl. 2025 I Nr. 189, S. 10 - 12)
 

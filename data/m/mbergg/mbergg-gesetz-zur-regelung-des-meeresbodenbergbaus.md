@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000100305)
 
 (1) Zweck dieses Gesetzes ist es,
 
@@ -57,6 +58,7 @@ der auf Grund von § 7 erlassenen Rechtsverordnungen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000201360)
 
 Im Sinne dieses Gesetzes sind
 
@@ -146,6 +148,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Ausführung durch das Landesamt
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000301360)
 
 Dieses Gesetz wird vom Landesamt für Bergbau, Energie und Geologie
 (LBEG) mit Sitz in Hannover und Clausthal-Zellerfeld als einem für
@@ -155,6 +158,7 @@ Rechtsaufsicht des Bundes.
 
 
 ## § 4 Zugangsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000405118)
 
 (1) Wer im Gebiet prospektieren will, bedarf der vorherigen
 Registrierung durch den Generalsekretär der Behörde. Der Prospektor
@@ -248,6 +252,7 @@ weiterleitet.
 
 
 ## § 5 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000501360)
 
 Prospektoren und Vertragsnehmer sind verantwortlich für
 
@@ -270,6 +275,7 @@ Prospektoren und Vertragsnehmer sind verantwortlich für
 
 
 ## § 6 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000601360)
 
 (1) Prospektoren und Vertragsnehmer sind verpflichtet,
 
@@ -308,6 +314,7 @@ nicht auf.
 
 
 ## § 7 Ermächtigung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000705119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 Bestimmungen über Prospektion, Erforschung und Ausbeutung von
@@ -329,6 +336,7 @@ unberührt.
 
 
 ## § 8 Bergaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000805118)
 
 (1) Tätigkeiten von Prospektoren und Vertragsnehmern im Gebiet
 unterliegen der Aufsicht des Landesamtes.
@@ -380,6 +388,7 @@ und Aufbewahrungspflichten anordnen.
 
 
 ## § 9 Archäologische und historische Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE000902119)
 
 Im Gebiet gefundene Gegenstände archäologischer oder historischer Art
 sind dem Landesamt anzuzeigen und nach dessen Anweisung zu behandeln.
@@ -389,10 +398,12 @@ des Innern, für Bau und Heimat erlassen.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE001007301)
 
 
 
 ## § 11 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE001102360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -448,6 +459,7 @@ Verhängung einer Sanktion gemäß Artikel 18 Abs. 2 der Anlage III des
 
 
 ## § 12 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE001200305)
 
 (1) Wer vorsätzlich eine in § 11 Abs. 1 Nr. 1, 3, 4 oder 5 bezeichnete
 Handlung begeht und dadurch das Leben oder die Gesundheit eines
@@ -472,6 +484,7 @@ Strafe bedroht ist.
 
 
 ## § 13 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mbergg/BJNR078200995.html#BJNR078200995BJNE001301360)
 
 (1) Inhaber von gültigen Berechtigungen, die nach § 4 des Gesetzes zur
 vorläufigen Regelung des Tiefseebergbaus vom 16. August 1980 (BGBl. I

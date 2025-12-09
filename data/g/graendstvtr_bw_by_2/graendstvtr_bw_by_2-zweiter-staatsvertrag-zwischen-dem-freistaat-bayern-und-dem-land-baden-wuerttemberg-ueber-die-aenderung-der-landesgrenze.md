@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000100326)
 
 Der Freistaat Bayern und das Land Baden-Württemberg, beide vertreten
 durch ihre Ministerpräsidenten, schließen folgenden
@@ -42,6 +43,7 @@ durch ihre Ministerpräsidenten, schließen folgenden
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000200326)
 
 Im Anschluß an den Ersten Staatsvertrag zwischen dem Land Baden-
 Württemberg und dem Freistaat Bayern über die Änderung der
@@ -53,6 +55,7 @@ gemeinsamen Landesgrenze.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000300326)
 
 Für den in Artikel 3 bis 24 festgelegten Verlauf der neuen
 Landesgrenze sind die Anlagen 1 bis 24 zu diesem Staatsvertrag und die
@@ -62,6 +65,7 @@ Württemberg maßgebend.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000400326)
 
 Zwischen der Gemeinde Nonnenhorn, Landkreis Lindau (Bodensee),
 Freistaat Bayern, und der Gemeinde Kressbronn am Bodensee,
@@ -71,6 +75,7 @@ Anlage 3, Seiten 1 und 2.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000500326)
 
 Zwischen den Gemeinden Gestratz und Maierhöfen, Landkreis Lindau
 (Bodensee), Freistaat Bayern, sowie der Gemeinde Argenbühl und der
@@ -89,6 +94,7 @@ verläuft die neue Landesgrenze
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000600326)
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern,
 und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-
@@ -98,6 +104,7 @@ und 2.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000700326)
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern,
 und der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg,
@@ -106,6 +113,7 @@ Landesgrenzpunkt 44 nach Maßgabe der Anlage 6, Seiten 1 und 2.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000800326)
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern,
 und der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg,
@@ -114,6 +122,7 @@ Landesgrenzpunkt 70 nach Maßgabe der Anlage 7, Seiten 1 und 2.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE000900326)
 
 Zwischen der Stadt Leipheim, Landkreis Günzburg, und der Gemeinde
 Elchingen, Landkreis Neu-Ulm, Freistaat Bayern, sowie der Stadt
@@ -132,6 +141,7 @@ Landesgrenze
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001000326)
 
 Zwischen der Stadt Günzburg, Landkreis Günzburg, Freistaat Bayern, und
 der Stadt Niederstotzingen, Landkreis Heidenheim, Land Baden-
@@ -149,6 +159,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001100326)
 
 Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau,
 Freistaat Bayern, und der Gemeinde Sontheim an der Brenz, Landkreis
@@ -158,6 +169,7 @@ Anlage 10, Seiten 1 und 2.
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001200326)
 
 Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau,
 Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis
@@ -175,6 +187,7 @@ Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 12
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001300326)
 
 Zwischen der Gemeinde Bachhagel, Landkreis Dillingen a. d. Donau,
 Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis
@@ -184,6 +197,7 @@ Anlage 12, Seiten 1 und 2.
 
 
 ## Art 13
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001400326)
 
 Zwischen der Gemeinde Zöschingen, Landkreis Dillingen a. d. Donau,
 Freistaat Bayern, und der Gemeinde Nattheim, Landkreis Heidenheim,
@@ -201,6 +215,7 @@ Land Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 14
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001500326)
 
 Zwischen den Gemeinden Zöschingen, Bachhagel und Ziertheim, Landkreis
 Dillingen a. d. Donau, Freistaat Bayern, sowie der Gemeinde
@@ -275,6 +290,7 @@ neue Landesgrenze
 
 
 ## Art 15
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001600326)
 
 Zwischen der Gemeinde Ziertheim, Landkreis Dillingen a. d. Donau,
 Freistaat Bayern, und der Gemeinde Dischingen, Landkreis Heidenheim,
@@ -284,6 +300,7 @@ Anlage 15, Seiten 1 und 2.
 
 
 ## Art 16
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001700326)
 
 Zwischen den Gemeinden Ziertheim und Mödingen und dem gemeindefreien
 Gebiet Bergheimer Forst, Landkreis Dillingen a. d. Donau, Freistaat
@@ -326,6 +343,7 @@ Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 17
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001800326)
 
 Zwischen der Gemeinde Amerdingen, Landkreis Donau-Ries, Freistaat
 Bayern und der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-
@@ -343,6 +361,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 18
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE001900326)
 
 Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern,
 sowie der Stadt Bopfingen und der Gemeinde Riesbürg, Ostalbkreis, Land
@@ -364,6 +383,7 @@ Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 19
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002000326)
 
 Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern,
 und der Gemeinde Riesbürg, Ostalbkreis, Land Baden-Württemberg,
@@ -397,6 +417,7 @@ verläuft die neue Landesgrenze
 
 
 ## Art 20
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002100326)
 
 Zwischen der Stadt Nördlingen und dem Markt Wallerstein, Landkreis
 Donau-Ries, Freistaat Bayern, sowie den Gemeinden Riesbürg und
@@ -423,6 +444,7 @@ neue Landesgrenze
 
 
 ## Art 21
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002200326)
 
 Zwischen dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat
 Bayern, und der Gemeinde Unterschneidheim, Ostalbkreis, Land Baden-
@@ -432,6 +454,7 @@ und 2.
 
 
 ## Art 22
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002300326)
 
 Zwischen der Gemeinde Schnelldorf, Landkreis Ansbach, Freistaat
 Bayern, und der Gemeinde Wallhausen, Landkreis Schwäbisch Hall, Land
@@ -449,6 +472,7 @@ Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 23
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002400326)
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a. d. Aisch-Bad
 Windsheim, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-
@@ -466,6 +490,7 @@ Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 24
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002500326)
 
 Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern,
 und der Gemeinde Wittighausen, Main-Tauber-Kreis, Land Baden-
@@ -483,6 +508,7 @@ Württemberg, verläuft die neue Landesgrenze
 
 
 ## Art 25
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002600326)
 
 (1) Mit Inkrafttreten dieses Staatsvertrages werden die aufgenommenen
 Gebietsteile in die an sie angrenzenden Gemeinden des aufnehmenden
@@ -506,6 +532,7 @@ Gebietskörperschaften.
 
 
 ## Art 26
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002700326)
 
 Hinsichtlich des Übergangs von Verwaltungsvermögen gilt § 4 des
 Gesetzes über das Verfahren bei Änderungen des Gebietsbestandes der
@@ -515,6 +542,7 @@ leisten sind.
 
 
 ## Art 27
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002800326)
 
 Die Anlagen 1 bis 24 sind Bestandteile dieses Staatsvertrages. Sie
 werden bei dem Bayerischen Landesvermessungsamt in München und dem
@@ -529,6 +557,7 @@ Sprechzeiten kostenlos eingesehen werden.
 
 
 ## Art 28
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE002900326)
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die
 Ratifikationsurkunden sollen so bald wie möglich ausgetauscht werden.
@@ -538,12 +567,14 @@ Ratifikationsurkunden folgenden Kalenderjahres in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE003100326)
 
 Für den Freistaat Bayern
 Für das Land Baden-Württemberg
 
 
 ## Anlage 1 bis 24
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bw_by_2/BJNR024690988.html#BJNR024690988BJNE003000326)
 
 Vom Abdruck der Anlagen 1 bis 24 wurde abgesehen (vgl. Art. 27).
 

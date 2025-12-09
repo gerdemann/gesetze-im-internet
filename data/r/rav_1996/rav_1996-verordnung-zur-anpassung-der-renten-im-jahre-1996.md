@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000100000)
 
 Auf Grund
 
@@ -59,6 +60,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1996 an 46,67 Deutsche
 Mark.
@@ -68,6 +70,7 @@ Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000300000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 1996 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung für Arbeitsunfälle
@@ -81,6 +84,7 @@ Anpassungsfaktor beträgt 1,0064.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000400000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 1996 an
@@ -99,6 +103,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000500000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 1996 an 21,55 Deutsche Mark.
@@ -108,6 +113,7 @@ Landwirte beträgt vom 1. Juli 1996 an 17,72 Deutsche Mark.
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000600000)
 
 Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach
 dem 30. Juni 1996 ergehen, sind die Angleichungsfaktoren zur
@@ -184,11 +190,13 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_1996/BJNR081300996.html#BJNR081300996BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

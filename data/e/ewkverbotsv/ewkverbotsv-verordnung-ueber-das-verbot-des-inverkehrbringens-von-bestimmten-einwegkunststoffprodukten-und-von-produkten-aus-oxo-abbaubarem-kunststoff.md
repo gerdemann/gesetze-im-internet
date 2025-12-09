@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000100000)
 
 Auf Grund des § 24 Nummer 4 in Verbindung mit § 67 des
 Kreislaufwirtschaftsgesetzes vom 24. Februar 2012 (BGBl. I S. 212),
@@ -33,6 +34,7 @@ Rechte des Bundestages:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000200000)
 
 Diese Verordnung gilt für das Inverkehrbringen von bestimmten
 Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem
@@ -42,6 +44,7 @@ gebracht werden oder nicht.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000300000)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -98,6 +101,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ## § 3 Beschränkungen des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000400000)
 
 (1) Folgende Einwegkunststoffprodukte dürfen nicht in Verkehr gebracht
 werden:
@@ -171,6 +175,7 @@ gebracht werden.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000500000)
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -178,11 +183,13 @@ entgegen § 3 ein Produkt in Verkehr bringt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000600000)
 
 Diese Verordnung tritt am 3. Juli 2021 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ewkverbotsv/BJNR009500021.html#BJNR009500021BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

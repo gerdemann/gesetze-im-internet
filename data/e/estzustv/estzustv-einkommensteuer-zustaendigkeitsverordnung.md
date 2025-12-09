@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/estzustv/BJNR000300009.html#BJNR000300009BJNE000100000)
 
 Auf Grund des § 19 Abs. 6 Satz 1 und 2 der Abgabenordnung in der
 Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003
@@ -29,6 +30,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/estzustv/BJNR000300009.html#BJNR000300009BJNE000200000)
 
 Für die Besteuerung nach dem Einkommen von Personen, die nach § 1 Abs.
 4 des Einkommensteuergesetzes beschränkt einkommensteuerpflichtig sind
@@ -40,17 +42,20 @@ Abgabenordnung.
 
 
 ## § 2 Anwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/estzustv/BJNR000300009.html#BJNR000300009BJNE000301140)
 
 Diese Verordnung ist erstmals für den Veranlagungszeitraum 2005
 anzuwenden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/estzustv/BJNR000300009.html#BJNR000300009BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2009 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/estzustv/BJNR000300009.html#BJNR000300009BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

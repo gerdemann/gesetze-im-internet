@@ -22,12 +22,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000200308)
 
 Das Bundesgesetz zur Regelung der rückerstattungsrechtlichen
 Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter
@@ -39,6 +41,7 @@ eingeführt.
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000302310)
 
 Für die Anwendung des Bundesrückerstattungsgesetzes im Saarland gelten
 folgende abweichende Bestimmungen:
@@ -357,16 +360,19 @@ folgende abweichende Bestimmungen:
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000400308)
 
 -
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000500308)
 
 -
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000600308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -374,6 +380,7 @@ im Land Berlin.
 
 
 ## Art VI
+[Direktlink](https://www.gesetze-im-internet.de/br_gsaarg/BJNR001330967.html#BJNR001330967BJNE000700308)
 
 Dieses Gesetz tritt am Tag seiner Verkündung in Kraft.
 

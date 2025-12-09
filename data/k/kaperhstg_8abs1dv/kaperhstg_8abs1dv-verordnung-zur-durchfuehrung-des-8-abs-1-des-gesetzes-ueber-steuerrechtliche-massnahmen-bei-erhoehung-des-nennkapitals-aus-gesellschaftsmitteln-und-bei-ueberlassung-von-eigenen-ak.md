@@ -22,6 +22,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000101306)
 
 Auf Grund des § 8 Abs. 2 des Gesetzes über steuerrechtliche Maßnahmen
 bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln und bei
@@ -31,6 +32,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Festlegung
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000201306)
 
 Werden Aktien vom Arbeitgeber (Aktiengesellschaft oder
 Kommanditgesellschaft auf Aktien) dem Arbeitnehmer nach Maßgabe des §
@@ -41,6 +43,7 @@ Verwahrung gegeben werden.
 
 
 ## § 2 Sperrfrist
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000301306)
 
 Die Sperrfrist beginnt für Aktien, die vor dem 1. Juli eines
 Kalenderjahrs überlassen worden sind, am 1. Januar und für Aktien, die
@@ -50,6 +53,7 @@ Jahren seit Beginn des Tages, an dem die Sperrfrist begonnen hat.
 
 
 ## § 3 Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000401306)
 
 (1) Die Festlegung ist dadurch vorzunehmen, daß die Aktien in
 Verwahrung gegeben werden
@@ -89,6 +93,7 @@ in Verwahrung genommen worden sind.
 
 
 ## § 4 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000501306)
 
 (1) Legt der Arbeitnehmer die Bescheinigung nach § 3 Abs. 3 nicht
 fristgemäß vor, so hat der Arbeitgeber dies dem Wohnsitzfinanzamt (
@@ -109,6 +114,7 @@ anzuzeigen.
 
 
 ## § 5 Nachversteuerung
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000601306)
 
 (1) Werden Aktien, außer im Fall des Todes des Arbeitnehmers oder
 seines Ehegatten oder des Eintritts seiner völligen
@@ -137,6 +143,7 @@ Arbeitslohn des Kalenderjahrs, in das die Veräußerung (Absätze 1 und
 
 
 ## § 6 Anwendungsbereich und Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000701306)
 
 (1) Diese Verordnung ist in allen Fällen anzuwenden, in denen Aktien
 nach Maßgabe des § 8 Abs. 1 des Gesetzes erworben werden.
@@ -154,6 +161,7 @@ vorzulegen.
 
 
 ## § 7 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000801306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 9 des
@@ -161,6 +169,7 @@ Gesetzes auch im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kaperhstg_8abs1dv/BJNR001620962.html#BJNR001620962BJNE000901306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

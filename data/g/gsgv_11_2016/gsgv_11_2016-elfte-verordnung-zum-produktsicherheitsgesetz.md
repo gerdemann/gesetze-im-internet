@@ -27,6 +27,7 @@ Stand: Ersetzt V 8053-4-14 v. 12.12.1996 I 1914 (GSGV 11)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8.
 November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131), der durch
@@ -41,9 +42,11 @@ des Ausschusses für Produktsicherheit:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000300000)
 
 (1) Diese Verordnung ist auf die folgenden neuen Produkte, die auf dem
 Markt bereitgestellt, ausgestellt oder erstmals verwendet werden,
@@ -112,6 +115,7 @@ anzuwenden:
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000401126)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -227,6 +231,7 @@ anzuwenden.
 
 
 ### § 3 Bereitstellung auf dem Markt und Inbetriebnahme
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000500000)
 
 Produkte dürfen nur dann auf dem Markt bereitgestellt und in Betrieb
 genommen werden, wenn sie bei ordnungsgemäßer Installation und
@@ -235,6 +240,7 @@ dieser Verordnung erfüllen.
 
 
 ### § 4 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000600000)
 
 Bei Produkten, die harmonisierten Normen oder Teilen dieser Normen
 entsprechen, deren Fundstellen im Amtsblatt der Europäischen Union
@@ -245,9 +251,11 @@ Normen oder von Teilen dieser Normen abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNG000200000)
 
 
 ### § 5 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000700000)
 
 (1) Der Hersteller stellt sicher, wenn er Produkte in den Verkehr
 bringt oder für eigene Zwecke erstmals verwendet, dass sie nach den
@@ -319,6 +327,7 @@ Korrekturmaßnahmen.
 
 
 ### § 6 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000800000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Produkte beim
 Inverkehrbringen oder bei der erstmaligen Verwendung für eigene Zwecke
@@ -367,6 +376,7 @@ gebracht hat.
 
 
 ### § 7 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE000900000)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -399,6 +409,7 @@ auf einen Bevollmächtigten übertragen.
 
 
 ### § 8 Allgemeine Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001000000)
 
 (1) Der Einführer darf nur Produkte in den Verkehr bringen, die die
 Anforderungen dieser Verordnung erfüllen.
@@ -467,6 +478,7 @@ Korrekturmaßnahmen.
 
 
 ### § 9 Besondere Kennzeichnungs- und Informationspflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001100000)
 
 (1) Der Einführer hat beim Inverkehrbringen seinen Namen, seinen
 eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie
@@ -499,6 +511,7 @@ gebracht hat.
 
 
 ### § 10 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001200000)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit der
 gebührenden Sorgfalt berücksichtigen, wenn er ein Produkt auf dem
@@ -562,6 +575,7 @@ die er auf dem Markt bereitgestellt hat.
 
 
 ### § 11 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001300000)
 
 Auf einen Einführer oder einen Händler sind die §§ 5 und 6
 entsprechend anzuwenden, wenn er
@@ -579,6 +593,7 @@ entsprechend anzuwenden, wenn er
 
 
 ### § 12 Angabe der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001400000)
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf
 deren Verlangen die Wirtschaftsakteure,
@@ -597,9 +612,11 @@ Produkts vorlegen können.
 
 
 ## Abschnitt 3 - Konformitätsbewertungsverfahren; besondere Explosionsschutzkennzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNG000300000)
 
 
 ### § 13 Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001500000)
 
 (1) Für Produkte sind entsprechend den Vorgaben des Artikels 13 Absatz
 1 bis 4 der Richtlinie
@@ -620,6 +637,7 @@ Komponenten anzuwenden.
 
 
 ### § 14 Besondere Explosionsschutzkennzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001600000)
 
 (1) Hinter der CE-Kennzeichnung nach § 7 des
 Produktsicherheitsgesetzes und gegebenenfalls der Kennnummer der
@@ -646,9 +664,11 @@ Atmosphäre konzipiert sind, müssen entsprechend gekennzeichnet werden.
 
 
 ## Abschnitt 4 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNG000400000)
 
 
 ### § 15 Korrekturmaßnahmen der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001700000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
 Produkt ein Risiko für die Gesundheit oder Sicherheit von Menschen
@@ -686,6 +706,7 @@ bereitgestellt hat.
 
 
 ### § 16 Vorläufige Maßnahmen der Marktüberwachungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001800000)
 
 (1) Ergreift der Wirtschaftsakteur innerhalb der nach § 15 Absatz 2
 Satz 1 festgesetzten Frist keine geeigneten Korrekturmaßnahmen, so
@@ -752,6 +773,7 @@ wie etwa die Rücknahme des Produkts.
 
 
 ### § 17 Konforme Produkte, die ein Risiko darstellen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE001900000)
 
 (1) Stellt die Marktüberwachungsbehörde im Rahmen einer Beurteilung
 nach § 15 Absatz 1 fest, dass ein Produkt ein Risiko für die
@@ -782,6 +804,7 @@ und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 
 ### § 18 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE002000000)
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 15 fordert die
 Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf,
@@ -829,9 +852,11 @@ Produkt zurückgerufen oder zurückgenommen wird.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNG000500000)
 
 
 ### § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE002101126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -896,6 +921,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 20 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE002201126)
 
 Wer eine in § 19 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
 wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
@@ -904,6 +930,7 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE002300000)
 
 (1) Produkte, die die Anforderungen der Richtlinie 94/9/EG des
 Europäischen Parlaments und des Rates vom 23. März 1994 zur
@@ -920,6 +947,7 @@ Verordnung gültig.
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE002400000)
 
 Diese Verordnung tritt am 20. April 2016 in Kraft. Gleichzeitig tritt
 die Explosionsschutzverordnung vom 12. Dezember 1996 (BGBl. I S.
@@ -928,6 +956,7 @@ die Explosionsschutzverordnung vom 12. Dezember 1996 (BGBl. I S.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gsgv_11_2016/BJNR003900016.html#BJNR003900016BJNE002500000)
 
 Der Bundesrat hat zugestimmt.
 

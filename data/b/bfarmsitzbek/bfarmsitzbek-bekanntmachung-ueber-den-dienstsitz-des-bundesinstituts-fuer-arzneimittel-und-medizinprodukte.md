@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bfarmsitzbek/BJNR207300999.html#BJNR207300999BJNE000100310)
 
 Das Bundesministerium für Gesundheit gibt gemäß § 9 Nr. 3 des
 Berlin/Bonn-Gesetzes vom 26. April 1994 (BGBl. I S. 918), der durch

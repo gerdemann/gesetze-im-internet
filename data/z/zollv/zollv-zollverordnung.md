@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000100307)
 
 Auf Grund der §§ 3, 23, 24, 25, 78 und 79 des Zollgesetzes in der
 Fassung der Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529), des § 25
@@ -29,6 +30,7 @@ sowie der §§ 156 und 382 Abs. 4 der Abgabenordnung vom 16. März 1976
 
 
 ## § 1 Warenverkehr über den Bodensee
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000201301)
 
 (1) Im Warenverkehr über den Bodensee einschließlich des Untersees
 gelten Waren aus der Schweiz erst als in den deutschen Teil des
@@ -43,6 +45,7 @@ schweizerische Ufer oder an damit verbundene Anlagen gelangt sind.
 
 
 ## § 2 Zollstraßen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000303308)
 
 (1) Die Zollstraßen werden im Bundesanzeiger bekanntgegeben. Für
 Zollstraßen, die an der Seezollgrenze beginnen, kann bestimmt werden,
@@ -106,6 +109,7 @@ EU 2003 Nr. L 236 S. 940), in der jeweils geltenden Fassung.
 
 
 ## § 3 Zollflugplätze
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000403301)
 
 (1) Die Zollflugplätze werden im Bundesanzeiger bekanntgegeben.
 
@@ -127,6 +131,7 @@ sinngemäß.
 
 
 ## § 4 Zollandungsplätze, Verkehrsgebote und -beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000503301)
 
 (1) Die Zollandungsplätze werden im Bundesanzeiger bekanntgegeben. Für
 einzelne Landungsplätze kann bestimmt werden, daß sie nur zu
@@ -175,6 +180,7 @@ sinngemäß.
 
 
 ## § 4a Zollzeichen bei Wasserfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE004202377)
 
 Wasserfahrzeuge haben bei der Einfahrt ab der Seezollgrenze
 ununterbrochen das Zollzeichen nach Anlage 2 zu führen oder andere von
@@ -186,6 +192,7 @@ Zollgebiet der Gemeinschaft einfahren.
 
 
 ## § 5 Beförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000603301)
 
 (1) Nach dem Verbringen in den deutschen Teil des Zollgebietes der
 Gemeinschaft oder beim Verbringen aus einer Freizone des Kontrolltyps
@@ -351,6 +358,7 @@ entgegenstehen.
 
 
 ## § 6 Gestellungsbefreiung im Postverkehr
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000701301)
 
 Waren im Postverkehr, die durch das Zollgebiet der Gemeinschaft
 durchgeführt werden, sind von der Gestellung befreit. Die Befreiung
@@ -359,6 +367,7 @@ unterliegen oder unterliegen können.
 
 
 ## § 7 Zuständige Zollstellen für die Gestellung bei der Einfuhr und beim Verbringen aus einer Freizone des Kontrolltyps I in das übrige Zollgebiet der Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000803308)
 
 (1) Zuständige Zollstellen im Sinne des Artikels 38 Abs. 1 Buchstabe a
 und des Artikels 40 Zollkodex sind:
@@ -433,6 +442,7 @@ Beschränkungen bleiben unberührt.
 
 
 ## § 8 Form der Gestellungsmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE000901301)
 
 Die Mitteilung nach Artikel 4 Nr. 19 Zollkodex kann in beliebiger Form
 erfolgen. Hinsichtlich versteckter oder durch besonders angebrachte
@@ -441,6 +451,7 @@ Mitteilung.
 
 
 ## § 8a Teilnahme an der elektronischen Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE004301301)
 
 Das Bundesministerium der Finanzen legt durch eine Verfahrensanweisung
 die Voraussetzungen und Modalitäten im Sinne der Artikel 4a, 4b, 183
@@ -456,6 +467,7 @@ einzuhalten.
 
 
 ## § 9 Verbringen von Waren aus dem Zollgebiet der Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001004377)
 
 (1) Kann die Ausgangszollstelle im Seeverkehr oder im Schiffsverkehr
 auf dem Stettiner Haff den tatsächlichen Ausgang der Waren nicht
@@ -486,6 +498,7 @@ Zollkodex durch den Anmelder oder den Ausführer.
 
 
 ## § 10 Unterlagen zur Zollwertanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001101301)
 
 Schriftlichen Zollwertanmeldungen ist eine Rechnung mit einer
 Durchschrift oder einer anderen Vervielfältigung zur Behandlung nach
@@ -496,6 +509,7 @@ verzichten.
 
 
 ## § 11 Allgemeine Vorschriften zur Einfuhrabgabenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001202140)
 
 (1) Die Einfuhrabgabenfreiheit nach den §§ 12 bis 22 wird durch
 Überführung der Waren in den zollrechtlich freien Verkehr zur
@@ -516,16 +530,19 @@ als Ausfuhr.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001302301)
 
 -
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001402301)
 
 (weggefallen)
 
 
 ## § 14 Mund- und Schiffsvorrat
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001502301)
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 ist Mund- und Schiffsvorrat, den die Schiffsführung eines in der
@@ -616,6 +633,7 @@ Betriebsstoffe.
 
 
 ## § 15 Speisewagenvorräte
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001600307)
 
 (1)) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 sind unter der Voraussetzung der Gegenseitigkeit Speisewagenvorräte in
@@ -650,6 +668,7 @@ werden, die mit dem Zeichen der Speisewagengesellschaft versehen sind.
 
 
 ## § 16 Bordvorräte der Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001700307)
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 sind unter der Voraussetzung der Gegenseitigkeit Lebensmittel und
@@ -669,6 +688,7 @@ Fluggäste nur im internationalen Fluglinienverkehr befördert.
 
 
 ## § 17 Diplomaten- und Konsulargut
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001802301)
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 sind unter der Voraussetzung der Gegenseitigkeit Waren, die
@@ -726,6 +746,7 @@ Bedingungen einfuhrabgabenfrei.
 
 
 ## § 18 Ausstattung drittländischer Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE001900307)
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 sind unter der Voraussetzung der Gegenseitigkeit
@@ -753,6 +774,7 @@ ergeben.
 
 
 ## § 19 Betriebsstoffe für Schienenfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002000307)
 
 Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex sind
 folgende Betriebsstoffe, die in Fahrzeugen im öffentlichen
@@ -770,6 +792,7 @@ unmittelbare Verwendung auf diesen Fahrzeugen bestimmt sind:
 
 
 ## § 20 Betriebsstoffe für Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002100307)
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 sind Schweröle und Schmierstoffe, die auf Wasserfahrzeugen, die
@@ -843,6 +866,7 @@ Betriebsstoffe, die in einem anderen Mitgliedstaat unter zollamtliche
 
 
 ## § 21 Betriebsstoffe für Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002201301)
 
 (1) Frei von Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex
 sind Treibstoffe im Hauptbehälter von Luftfahrzeugen bis zu einer
@@ -866,11 +890,13 @@ Betriebsstoffe im Sinne des Absatzes 2.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002301308)
 
 (weggefallen)
 
 
 ## § 23 Kleinbeträge
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002403123)
 
 (1) Einfuhrabgaben im Sinne des § 1 Absatz 1 des
 Zollverwaltungsgesetzes werden nicht erhoben und auch nicht buchmäßig
@@ -899,6 +925,7 @@ betragen. § 11 Abs. 4 des Tabaksteuergesetzes bleibt unberührt.
 
 
 ## § 24 Zuständigkeit für die Bewilligung von Zollverfahren, vereinfachten Verfahren und zugelassenen Wirtschaftsbeteiligten (AEO)
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002507377)
 
 (1) Vereinfachte Anmeldeverfahren und Anschreibeverfahren zur
 Überführung in den zollrechtlich freien Verkehr, erforderlichenfalls
@@ -976,6 +1003,7 @@ zuständig sind.
 
 
 ## § 25 Für die Erteilung von verbindlichen Zolltarifauskünften und verbindlichen Ursprungsauskünften zuständige Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002604140)
 
 Für die Erteilung von verbindlichen Zolltarifauskünften und
 verbindlichen Ursprungsauskünften ist das Hauptzollamt Hannover
@@ -983,6 +1011,7 @@ zuständig.
 
 
 ## § 26 Umfriedung und Überwachung von Freizonen des Kontrolltyps I
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002703301)
 
 (1) Der Betreiber der Freizone des Kontrolltyps I hat die Freizone zu
 Land nach näherer Weisung des Hauptzollamts zollsicher zu umfrieden.
@@ -1039,6 +1068,7 @@ mit Erlaubnis des Hauptzollamts betreten werden.
 
 
 ## § 27 Bezug und Abgabe von Schiffs-, Flugzeug- und Reisebedarf
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002807377)
 
 (1) Nichtgemeinschaftswaren oder unversteuerte
 verbrauchsteuerpflichtige Gemeinschaftswaren sind
@@ -1238,6 +1268,7 @@ geändert worden ist, in der jeweils geltenden Fassung.
 
 
 ## § 28 Halte- und Bordezeichen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE002900307)
 
 Auf Verlangen mittels der in Anlage 3 aufgeführten Zeichen sind
 Schiffsführer verpflichtet, zu halten und Zollbooten das Borden zu
@@ -1245,6 +1276,7 @@ ermöglichen.
 
 
 ## § 29 Pauschalierte Abgabensätze
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003006140)
 
 (1) Für einfuhrabgabenpflichtige Waren im Sinne des § 1 Abs. 1 Satz 3
 des Zollverwaltungsgesetzes, die
@@ -1581,6 +1613,7 @@ Erfassung der Einfuhrabgaben beantragt.
 
 
 ## § 29a Mündliche Mitteilung des Abgabenbetrages
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003601301)
 
 (1) Im Falle einer mündlichen Zollanmeldung nach den Artikeln 225, 226
 und 229 oder einer Zollanmeldung für im Postverkehr ein- oder
@@ -1596,6 +1629,7 @@ Zollverwaltungsgesetzes.
 
 
 ## § 29b Mitteilung des Abgabenbetrages mit Mitteln der elektronischen Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE004400301)
 
 Der buchmäßig erfaßte Einfuhr- oder Ausfuhrabgabenbetrag kann dem
 Zollschuldner mit Mitteln der elektronischen Datenverarbeitung
@@ -1603,6 +1637,7 @@ mitgeteilt werden.
 
 
 ## § 30 Steuerordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003106140)
 
 (1) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 1 der Abgabenordnung
 handelt, wer als Pflichtiger oder bei der Wahrnehmung der
@@ -2007,12 +2042,14 @@ zuwiderhandelt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 31 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003200307)
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
 
 (zu § 14 Abs. 3, § 27 Abs. 3 Satz 3)
 
 ## Anlage 1 Küstengebiet
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003301301)
 
 (Fundstelle: BGBl. I 1993, 2460;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2330,6 +2367,7 @@ bestimmt:
 
 
 ## Anlage 2 Zollzeichen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003402301)
 
 (Fundstelle: BGBl. I 1993, S. 2461; 1994, S. 162;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2356,6 +2394,7 @@ muß auf eine Entfernung von mindestens 1 sm sichtbar sein.
 (zu § 28)
 
 ## Anlage 3 Halte- und Bordezeichen
+[Direktlink](https://www.gesetze-im-internet.de/zollv/BJNR244900993.html#BJNR244900993BJNE003500307)
 
 (Fundstelle: BGBl. I 1993, S. 2462)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000100310)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten
@@ -31,6 +32,7 @@ und Forsten sowie Umwelt, Naturschutz und Reaktorsicherheit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000200310)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Natur- und Landschaftspfleger
@@ -83,6 +85,7 @@ Landschaftspflegerin".
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000300310)
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte
 Abschlußprüfung in einem der anerkannten Ausbildungsberufe
@@ -99,6 +102,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000400310)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -121,6 +125,7 @@ und mündlich durchzuführen.
 
 
 ## § 4 Prüfungsteil Grundlagen des Naturschutzes und der Landschaftspflege
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000500310)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er mit den Zielen des
 Naturschutzes und der Landschaftspflege vertraut ist, Zusammenhänge im
@@ -180,6 +185,7 @@ schriftlichen Prüfungsleistung ein.
 
 
 ## § 5 Prüfungsteil Informationstätigkeit und Besucherbetreuung
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000600310)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er Informationen über
 Bedeutung, Gefährdung, Schutz und Pflege von Natur und Umwelt
@@ -212,6 +218,7 @@ und die Erläuterung nicht länger als 15 Minuten dauern.
 
 
 ## § 6 Prüfungsteil Maßnahmen des Naturschutzes und der Landschaftspflege
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000700310)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er Arbeiten im
 Naturschutz und in der Landschaftspflege unter Berücksichtigung der
@@ -245,6 +252,7 @@ länger als 30 Minuten dauern.
 
 
 ## § 7 Prüfungsteil Wirtschaft, Recht und Soziales
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000800310)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche,
 rechtliche und soziale Zusammenhänge in seinem Aufgabenbereich
@@ -300,6 +308,7 @@ Prüfungsleistung ein.
 
 
 ## § 8 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE000900310)
 
 Von der Ablegung einzelner Prüfungsleistungen kann der
 Prüfungsteilnehmer auf Antrag von der zuständigen Stelle freigestellt
@@ -312,6 +321,7 @@ entspricht. Eine vollständige Freistellung ist nicht zulässig.
 
 
 ## § 9 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE001000310)
 
 (1) Die vier Teile der Prüfung sind gesondert zu bewerten. Für den
 Teil "Grundlagen des Naturschutzes und der Landschaftspflege" ist die
@@ -334,6 +344,7 @@ zu errechnen.
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE001100310)
 
 (1) Die Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -351,6 +362,7 @@ Bestehen zu berücksichtigen.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE001200310)
 
 (1) Die bei Inkrafttreten dieser Verordnung begonnenen
 Prüfungsverfahren im Bereich Naturschutz und Landschaftspflege können
@@ -369,6 +381,7 @@ bisherigen Vorschriften vereinbaren.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/natur_landschaftspflprv/BJNR043500998.html#BJNR043500998BJNE001300310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

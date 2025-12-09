@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzirnbek/BJNR200160927.html#BJNR200160927BJNE000100306)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der
 Warenbezeichnungen (Reichsgesetzbl. 1923 II S. 437) wird hierdurch

@@ -26,6 +26,7 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Art. 13 Satz 3 G v. 27.9.1994 I 2624 am 1.12.1994 in Kraft getreten
 
 ## § 1 Anspruch auf Ausgleichsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000101301)
 
 (1) Natürliche Personen, die Vermögenswerte im Sinne des § 2 Abs. 2
 des Gesetzes zur Regelung offener Vermögensfragen (Vermögensgesetz)
@@ -123,6 +124,7 @@ Deutschen Demokratischen Republik erheblichen Vorschub geleistet hat.
 
 
 ## § 2 Art und Höhe der Ausgleichsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000201301)
 
 (1) Ausgleichsleistungen sind vorbehaltlich der §§ 3 und 5 aus dem
 Entschädigungsfonds nach Maßgabe der §§ 1 und 9 des
@@ -187,6 +189,7 @@ durchsetzbar geworden sind.
 
 
 ## § 3 Flächenerwerb
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000307377)
 
 (1) Wer ehemals volkseigene, von der Treuhandanstalt zu
 privatisierende landwirtschaftliche Flächen langfristig gepachtet hat,
@@ -471,6 +474,7 @@ entsprechend.
 
 
 ## § 3a Besondere Vorschriften für Altkaufverträge
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000701301)
 
 (1) Kaufverträge, die vor dem 28. Januar 1999 auf Grund von § 3
 abgeschlossen wurden, gelten mit der Maßgabe als bestätigt, dass der
@@ -522,6 +526,7 @@ Rückübertragung des Grundstücks an den Verkäufer wieder auf.
 
 
 ## § 3b Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000801160)
 
 Werden von der Treuhandanstalt zu privatisierende landwirtschaftliche
 oder forstwirtschaftliche Flächen nach § 23a des Treuhandgesetzes
@@ -530,6 +535,7 @@ nach diesem Gesetz und der Flächenerwerbsverordnung ein.
 
 
 ## § 4 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000403160)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Einzelheiten der Erwerbsmöglichkeit nach §
@@ -574,6 +580,7 @@ werden
 
 
 ## § 5 Rückgabe beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000501301)
 
 (1) Bewegliche, nicht in einen Einheitswert einbezogene Sachen sind
 zurückzuübertragen. Die Rückübertragung ist ausgeschlossen, wenn dies
@@ -599,6 +606,7 @@ das überlassene Kulturgut trägt der Nießbraucher.
 
 
 ## § 6 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000604308)
 
 (1) Ansprüche auf Ausgleichsleistungen sind bei den Ämtern zur
 Regelung offener Vermögensfragen, soweit für die Rückgabe des
@@ -621,6 +629,7 @@ ordentlichen Gerichte zuständig.
 
 
 ## § 7 Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglleistg/BJNR262800994.html#BJNR262800994BJNE000902160)
 
 (1) Die Erwerbsmöglichkeit für Waldflächen nach § 3 Abs. 4 sowie nach
 § 3 Abs. 8 in der bis zum 11. Juli 2009 geltenden Fassung endet mit

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## (XXXX) §§ 1 bis 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/partg_ddr/DDNR000660990.html#DDNR000660990BJNE000100307)
 
 
 
 ## § 20a
+[Direktlink](https://www.gesetze-im-internet.de/partg_ddr/DDNR000660990.html#DDNR000660990BJNE000201310)
 
 (1) Die Parteien und die ihnen verbundenen Organisationen,
 juristischen Personen und Massenorganisationen haben vollständig
@@ -51,6 +53,7 @@ Betrachtungsweise zugrunde zu legen ist.
 
 
 ## § 20b
+[Direktlink](https://www.gesetze-im-internet.de/partg_ddr/DDNR000660990.html#DDNR000660990BJNE000306311)
 
 (1) Mit Inkrafttreten dieses Gesetzes können die Parteien und die
 ihnen verbundenen Organisationen, juristischen Personen und
@@ -88,10 +91,12 @@ dem jeweils zuständigen Bundesministerium wahrnimmt.
 
 
 ## (XXXX) §§ 21 bis 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/partg_ddr/DDNR000660990.html#DDNR000660990BJNE000400307)
 
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/partg_ddr/DDNR000660990.html#DDNR000660990BJNE000500307)
 
 **Der amtierende Vorsitzende des Staatsrates der Deutschen
 Demokratischen Republik**

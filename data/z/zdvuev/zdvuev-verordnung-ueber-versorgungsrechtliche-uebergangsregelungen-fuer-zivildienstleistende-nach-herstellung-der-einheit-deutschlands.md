@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zdv_v/BJNR022380991.html#BJNR022380991BJNE000100307)
 
 Auf Grund des § 51a des Zivildienstgesetzes, der durch Anlage I
 Kapitel X Sachgebiet C Abschnitt II des Einigungsvertrages vom 31.
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zdv_v/BJNR022380991.html#BJNR022380991BJNE000201305)
 
 Die Vorschriften des Zivildienstgesetzes über die
 Beschädigtenversorgung sowie die Allgemeine Anordnung über die
@@ -63,6 +65,7 @@ Sozialgerichtsbarkeit im Bereich des Zivildienstes vom 14. Dezember
 
 
 ## § 2 Höhe der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zdv_v/BJNR022380991.html#BJNR022380991BJNE000300307)
 
 Die Vorschriften des Zivildienstgesetzes über die
 Beschädigtenversorgung sind mit folgenden Maßgaben anzuwenden:
@@ -100,11 +103,13 @@ Beschädigtenversorgung sind mit folgenden Maßgaben anzuwenden:
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zdv_v/BJNR022380991.html#BJNR022380991BJNE000400307)
 
 Diese Verordnung tritt mit Wirkung vom 3. Oktober 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zdv_v/BJNR022380991.html#BJNR022380991BJNE000500307)
 
 Der Bundesrat hat zugestimmt.
 

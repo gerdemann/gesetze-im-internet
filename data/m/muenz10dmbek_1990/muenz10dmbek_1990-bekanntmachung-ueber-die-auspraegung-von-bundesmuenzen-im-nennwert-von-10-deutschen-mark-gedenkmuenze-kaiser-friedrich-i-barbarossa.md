@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1990/BJNR008600990.html#BJNR008600990BJNE000100308)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
 Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -110,6 +111,7 @@ Stauferadler eingeprägt.
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1990/BJNR008600990.html#BJNR008600990BJNE000200308)
 
 (Fundstelle: BGBl. I 1990, 860)
 ![bgbl1_1990_j0860_0010.jpg](bgbl1_1990_j0860_0010.jpg)

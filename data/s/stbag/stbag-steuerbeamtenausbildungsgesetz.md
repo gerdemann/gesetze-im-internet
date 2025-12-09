@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000202310)
 
 (1) Dieses Gesetz gilt für die Ausbildung der Beamten der
 Steuerverwaltung der Länder.
@@ -55,6 +56,7 @@ entsprechend.
 
 
 ## § 2 Einfacher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000301301)
 
 (1) In den Vorbereitungsdienst der Laufbahn des einfachen Dienstes
 kann eingestellt werden, wer eine Hauptschule mit Erfolg besucht hat
@@ -71,6 +73,7 @@ Vorbereitungsdienst angerechnet werden.
 
 
 ## § 3 Mittlerer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000406311)
 
 (1) In den Vorbereitungsdienst der Laufbahn des mittleren Dienstes
 kann eingestellt werden, wer eine Realschule mit Erfolg besucht hat
@@ -122,6 +125,7 @@ ausgeschlossen.
 
 
 ## § 4 Gehobener Dienst
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000504311)
 
 (1) In den Vorbereitungsdienst der Laufbahn des gehobenen Dienstes
 kann eingestellt werden, wer eine zu einem Hochschulstudium
@@ -156,6 +160,7 @@ erfolgreich abgeschlossen hat.
 
 
 ## § 5 Höherer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000608311)
 
 (1) Als Beamter der Laufbahn des höheren Dienstes kann eingestellt
 werden, wer
@@ -213,6 +218,7 @@ Fachrichtungen und andere Bewerber bleiben unberührt.
 
 
 ## § 6 Aufstieg in höhere Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000705311)
 
 (1) Der Aufstieg von Beamten des einfachen und des mittleren Dienstes
 in die nächsthöhere Laufbahn richtet sich nach landesrechtlichen
@@ -253,6 +259,7 @@ des höheren Dienstes richtet sich nach landesrechtlichen Vorschriften.
 
 
 ## § 7 Bundesfinanzakademie
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000802320)
 
 (1) Der Bund unterhält zur Durchführung der ergänzenden Studien sowie
 zur Fortbildung der Beamten des höheren Dienstes der Steuerverwaltung
@@ -264,6 +271,7 @@ Bundesfinanzakademie und die Länder zusammen.
 
 
 ## § 8 Ausbildungs- und Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE000903320)
 
 Das Bundesministerium der Finanzen erläßt mit Zustimmung des
 Bundesrates zur Gewährleistung der einheitlichen Ausbildung eine
@@ -307,10 +315,12 @@ darin sind auch Bestimmungen zu treffen über
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE001205311)
 
 
 
 ## § 10 Übergangsvorschrift zu § 9
+[Direktlink](https://www.gesetze-im-internet.de/stbag/BJNR006030961.html#BJNR006030961BJNE001104311)
 
 Bei Vorbereitungsdiensten, bei Aufstiegen und bei der Einführung der
 Steuerbeamten in die Aufgaben des höheren Dienstes, die nach dem 31.

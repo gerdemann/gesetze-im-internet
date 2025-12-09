@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/estdv1975_ndv/BJNR036100976.html#BJNR036100976BJNE000100306)
 
 Auf Grund des § 4 Abs. 5 Ziff. 5, des § 33b Abs. 6 und des § 51 Abs. 1
 des Einkommensteuergesetzes 1975 in der Fassung der Bekanntmachung vom
@@ -28,11 +29,13 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/estdv1975_ndv/BJNR036100976.html#BJNR036100976BJNE000200306)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/estdv1975_ndv/BJNR036100976.html#BJNR036100976BJNE000300306)
 
 Bei der Berechnung des Teilwerts einer Pensionsverpflichtung nach
 Beendigung des Dienstverhältnisses unter Aufrechterhaltung der
@@ -47,6 +50,7 @@ Betriebstätte beschäftigt war.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/estdv1975_ndv/BJNR036100976.html#BJNR036100976BJNE000400306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 10
@@ -55,6 +59,7 @@ des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/estdv1975_ndv/BJNR036100976.html#BJNR036100976BJNE000500306)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

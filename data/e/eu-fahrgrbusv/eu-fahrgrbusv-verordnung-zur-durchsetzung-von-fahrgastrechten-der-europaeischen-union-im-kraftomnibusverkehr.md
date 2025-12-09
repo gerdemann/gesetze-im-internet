@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusv/BJNR409800013.html#BJNR409800013BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 Nummer 2 und 3 des EU-Fahrgastrechte-
 Kraftomnibus-Gesetzes vom 23. Juli 2013 (BGBl. I S. 2547) verordnet
@@ -27,6 +28,7 @@ das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusv/BJNR409800013.html#BJNR409800013BJNE000201119)
 
 (1) Das Eisenbahn-Bundesamt veröffentlicht jeweils für den Zeitraum
 von zwei Kalenderjahren nach Maßgabe des Absatzes 2 einen Bericht über
@@ -61,6 +63,7 @@ zu veröffentlichen, das dem Berichtszeitraum folgt.
 
 
 ## § 2 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusv/BJNR409800013.html#BJNR409800013BJNE000300000)
 
 Ordnungswidrig im Sinne des § 9 Absatz 1 des
 EU-Fahrgastrechte-Kraftomnibus-Gesetzes handelt, wer gegen die
@@ -131,6 +134,7 @@ und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 55 vom
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusv/BJNR409800013.html#BJNR409800013BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

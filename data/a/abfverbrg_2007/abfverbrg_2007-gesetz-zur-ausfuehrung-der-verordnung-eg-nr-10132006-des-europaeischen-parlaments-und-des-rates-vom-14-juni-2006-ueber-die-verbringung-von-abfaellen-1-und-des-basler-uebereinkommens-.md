@@ -40,6 +40,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000100000)
 
 Dieses Gesetz gilt für:
 
@@ -64,6 +65,7 @@ Dieses Gesetz gilt für:
 
 
 ## § 2 Grundsatz der Autarkie
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000200000)
 
 (1) Bei Abfällen, die aus dem Bundesgebiet verbracht werden sollen und
 zur Beseitigung bestimmt sind, hat die Beseitigung im Inland Vorrang
@@ -81,6 +83,7 @@ eingesammelt worden sind.
 
 
 ## § 3 Bestimmungen im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung, die die Behörden betreffen
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000300000)
 
 (1) Die zuständige Behörde kann erlauben, dass Sicherheitsleistungen
 oder entsprechende Versicherungen gemäß Artikel 4 Abs. 2 Nr. 5 und
@@ -133,6 +136,7 @@ Entscheidung
 
 
 ## § 4 Pflichten der übrigen Beteiligten im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000401116)
 
 (1) Der Notifizierende hat die gemäß Artikel 10 Abs. 1 oder 2, jeweils
 auch in Verbindung mit Artikel 35 Abs. 1, Artikel 37 Abs. 2 Unterabs.
@@ -222,6 +226,7 @@ Informationen und Unterlagen zu übermitteln.
 
 
 ## § 5 Pflichten im Rahmen der allgemeinen Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000501116)
 
 (1) Bei Verbringungen, die von Artikel 18, auch in Verbindung mit
 Artikel 37 Abs. 3, Artikel 38 Abs. 1, Artikel 40 Abs. 3, Artikel 42
@@ -284,6 +289,7 @@ Absatz 1 Nr. 1, 2 und 3 entsprechend.
 
 
 ## § 6 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000600000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 
@@ -308,6 +314,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 
 
 ## § 7 Gebührenschuldnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000708116)
 
 Durch Besondere Gebührenverordnung des Bundesministeriums für Umwelt,
 Umwelt, Naturschutz und nukleare Sicherheit nach § 22 Absatz 4 des
@@ -317,6 +324,7 @@ Bundesgebührengesetzes geregelt werden.
 
 
 ## § 8 Ergänzende Bestimmungen zu den Rücknahmeverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000800000)
 
 (1) Soweit eine Rücknahmeverpflichtung gemäß Artikel 22 Abs. 2
 Unterabs. 1 oder Abs. 3 Unterabs. 1 oder Artikel 24 Abs. 2 Buchstabe
@@ -382,6 +390,7 @@ Absatz 3 haben keine aufschiebende Wirkung.
 
 
 ## § 9 Datenerhebung und -verwendung
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE000905130)
 
 (1) Für die folgenden Aufgaben dürfen personenbezogene Daten erhoben
 werden:
@@ -498,6 +507,7 @@ die dritte Person in den Fällen des Absatzes 4 darauf hinzuweisen.
 
 
 ## § 10 Kennzeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001001310)
 
 (1) Beförderer und den Transport unmittelbar durchführende Personen
 haben Fahrzeuge, mit denen sie Abfälle auf öffentlichen Straßen
@@ -521,6 +531,7 @@ Ausnahmen von der Kennzeichnungspflicht nach Absatz 1 zuzulassen.
 
 
 ## § 11 Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001103130)
 
 (1) Die zuständigen Landesbehörden führen gemäß Artikel 34 der
 Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom
@@ -617,6 +628,7 @@ die sichere Lagerung von Abfällen oder die Sicherstellung nach Absatz
 
 
 ## § 11a Kontrollpläne
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE002101130)
 
 (1) Die Länder erstellen für ihr Gebiet bis zum 1. Januar 2017
 Kontrollpläne gemäß Artikel 50 Absatz 2a Satz 1 bis 4 der Verordnung
@@ -643,6 +655,7 @@ Verordnung (EG) Nr. 1013/2006.
 
 
 ## § 12 Maßnahmen zur Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001202116)
 
 (1) Insbesondere die zuständigen Behörden gemäß § 14 Abs. 1, 2 und 4
 arbeiten bei der Verhinderung und Ermittlung illegaler Verbringungen
@@ -701,6 +714,7 @@ Behörde festgelegt sind, die in Satz 1 genannten Informationen zu
 
 
 ## § 13 Anordnungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001300000)
 
 Die zuständige Behörde kann im Einzelfall die erforderlichen
 Anordnungen zur Durchführung der Verordnung (EG) Nr. 1013/2006,
@@ -722,6 +736,7 @@ sowie gemäß § 11 Abs. 5 treffen.
 
 
 ## § 14 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001400000)
 
 (1) Für Maßnahmen im Zusammenhang mit der Verbringung von Abfällen in
 das Bundesgebiet und der damit verbundenen Verwertung oder
@@ -765,6 +780,7 @@ Behörden sind.
 
 
 ## § 15 Anlaufstelle
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001500000)
 
 (1) Das Umweltbundesamt ist Anlaufstelle im Sinne des Artikels 5 Nr. 1
 des Basler Übereinkommens und im Sinne des Artikels 54 der Verordnung
@@ -792,6 +808,7 @@ Verordnung (EG) Nr. 1013/2006.
 
 
 ## § 16 Berichte und Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001603130)
 
 (1) Für die Übermittlung von Informationen nach Artikel 13 des Basler
 Übereinkommens an das Sekretariat des Basler Übereinkommens ist das
@@ -818,6 +835,7 @@ zweckmäßigen Erläuterungen dazu innerhalb eines Monats nach der
 
 
 ## § 17 Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001703116)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 gibt im Einvernehmen mit der Generalzolldirektion gemäß Artikel 55 der
@@ -827,6 +845,7 @@ der Europäischen Gemeinschaft verbracht werden dürfen.
 
 
 ## § 18 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001805130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -976,6 +995,7 @@ Nr. 18 geahndet werden können.
 
 
 ## § 18a Strafvorschriften im Fall illegaler Verbringungen gefährlicher Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE002200116)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine illegale Verbringung im Sinne des Artikels 2 Nummer
@@ -1050,6 +1070,7 @@ Handlung eine unerhebliche Menge von gefährlichen Abfällen betrifft.
 
 
 ## § 18b Strafvorschriften im Fall illegaler Verbringungen nicht gefährlicher Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE002300116)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer eine illegale Verbringung im Sinne des Artikels 2 Nummer
@@ -1125,6 +1146,7 @@ Handlung eine unerhebliche Menge von Abfällen betrifft.
 
 
 ## § 18c Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE002401116)
 
 (1) Verweisungen in § 18 Absatz 2, § 18a Absatz 1 und § 18b Absatz 1
 dieses Gesetzes auf Vorschriften der Europäischen Gemeinschaft oder
@@ -1138,6 +1160,7 @@ Vorschrift zu ändern.
 
 
 ## § 19 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE001901116)
 
 Ist eine Straftat nach § 18a oder § 18b oder eine Ordnungswidrigkeit
 nach § 18 Absatz 1 oder Absatz 2 begangen worden, so können
@@ -1157,6 +1180,7 @@ eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 
 
 ## § 20 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE002000000)
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht
@@ -1165,6 +1189,7 @@ abgewichen werden.
 (zu § 18c)
 
 ## Anhang Fundstellenverzeichnis der Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/abfverbrg_2007/BJNR146210007.html#BJNR146210007BJNE002501116)
 
 
 1.  Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des

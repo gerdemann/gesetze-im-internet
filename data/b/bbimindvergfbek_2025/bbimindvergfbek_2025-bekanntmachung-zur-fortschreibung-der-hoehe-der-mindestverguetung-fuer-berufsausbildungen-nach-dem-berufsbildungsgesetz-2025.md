@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbimindvergfbek_2025/BJNR1310A0024.html#BJNR1310A0024BJNE000100000)
 
 Auf Grund des § 17 Absatz 2 Satz 5 des Berufsbildungsgesetzes in der
 Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), das
@@ -56,6 +57,7 @@ Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 begonnen wird,
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbimindvergfbek_2025/BJNR1310A0024.html#BJNR1310A0024BJNE000200000)
 
 Bundesministerium für Bildung und Forschung
 

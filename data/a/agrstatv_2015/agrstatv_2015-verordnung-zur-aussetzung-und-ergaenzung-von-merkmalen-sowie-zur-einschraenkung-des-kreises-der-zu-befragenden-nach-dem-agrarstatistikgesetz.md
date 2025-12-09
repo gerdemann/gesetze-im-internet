@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 7860-9-1 v. 20.11.2002 I 4415 (AgrStatV 1)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrstatv_2015/BJNR197900015.html#BJNR197900015BJNE000100000)
 
 Auf Grund des § 94a Nummer 1 Buchstabe a und b des
 Agrarstatistikgesetzes, der durch Artikel 1 Nummer 14 des Gesetzes vom
@@ -30,6 +31,7 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Baumschulerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatv_2015/BJNR197900015.html#BJNR197900015BJNE000200000)
 
 (1) Im Rahmen der Baumschulerhebung wird die Erhebung der Bestände an
 Forstpflanzen nach Zahl und Art (§ 14 Absatz 1 des
@@ -41,6 +43,7 @@ jeweils zusätzlich die Unterscheidung nach Kulturformen.
 
 
 ## § 2 Baumobstanbauerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatv_2015/BJNR197900015.html#BJNR197900015BJNE000600119)
 
 Zusätzlich zu den in § 17 Absatz 1 Nummer 2 des Agrarstatistikgesetzes
 aufgeführten Erhebungsmerkmalen werden bei Äpfeln und Birnen, die als
@@ -49,6 +52,7 @@ der Bäume jeweils nach der Fläche erhoben.
 
 
 ## § 3 Aquakulturstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatv_2015/BJNR197900015.html#BJNR197900015BJNE000301119)
 
 Der Kreis der in der Aquakulturstatistik nach § 68a des
 Agrarstatistikgesetzes zu Befragenden wird wie folgt eingeschränkt:
@@ -71,6 +75,7 @@ Im Übrigen bleibt § 68a des Agrarstatistikgesetzes unberührt.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatv_2015/BJNR197900015.html#BJNR197900015BJNE000401119)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Erste Agrarstatistikverordnung vom 20. November
@@ -79,6 +84,7 @@ Gleichzeitig tritt die Erste Agrarstatistikverordnung vom 20. November
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/agrstatv_2015/BJNR197900015.html#BJNR197900015BJNE000501119)
 
 Der Bundesrat hat zugestimmt.
 

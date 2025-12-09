@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rvbunddiszrano/BJNR250000006.html#BJNR250000006BJNE000100000)
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1
 Satz 2 und des § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli
@@ -55,6 +56,7 @@ Diese Anordnung tritt rückwirkend am 1. Oktober 2005 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rvbunddiszrano/BJNR250000006.html#BJNR250000006BJNE000200000)
 
 Für den Trägerausschuss des Vorstandes der Deutschen
 Rentenversicherung Bund

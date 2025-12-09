@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/erpschg/BJNR116200007.html#BJNR116200007BJNE000100000)
 
 (1) Der Bund übernimmt mit Wirkung vom 1. Juli 2007 als Mitschuldner
 die bis dahin aufgelaufenen Verbindlichkeiten des ERP-Sondervermögens
@@ -60,6 +61,7 @@ Verwaltungsvereinbarung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/erpschg/BJNR116200007.html#BJNR116200007BJNE000200000)
 
 Im Innenverhältnis zum ERP-Sondervermögen ist der Bund alleiniger
 Schuldner der nach § 1 übernommenen Verbindlichkeiten und alleiniger
@@ -68,6 +70,7 @@ Rechte.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/erpschg/BJNR116200007.html#BJNR116200007BJNE000300000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, zur Tilgung der
 nach § 1 vom Bund mitübernommenen Verbindlichkeiten des ERP-
@@ -76,6 +79,7 @@ aufzunehmen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/erpschg/BJNR116200007.html#BJNR116200007BJNE000400000)
 
 (1) Aus dem ERP-Sondervermögen werden nach Maßgabe des § 6 des ERP-
 Verwaltungsgesetzes Kreditforderungen und sonstige Rechte in Höhe von

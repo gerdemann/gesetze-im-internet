@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 und des § 9 Absatz 6 Satz 1 des Gesetzes
 zum Schutz gegen Fluglärm in der Fassung der Bekanntmachung vom 31.
@@ -25,6 +26,7 @@ Anhörung der beteiligten Kreise:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000200000)
 
 (1) Diese Verordnung gilt für Grundstücke, auf denen bei Festsetzung
 des Lärmschutzbereichs für einen neuen oder wesentlich baulich
@@ -43,6 +45,7 @@ Vorschriften bleiben unberührt.
 
 
 ## § 2 Entschädigungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000300000)
 
 Die Entschädigung für fluglärmbedingte Beeinträchtigungen des
 Außenwohnbereichs bestimmt sich nach der Schutzwürdigkeit des
@@ -53,6 +56,7 @@ der betroffenen Flächen.
 
 
 ## § 3 Außenwohnbereich
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000400000)
 
 (1) Zum Außenwohnbereich einer Wohnung auf einem Grundstück im Sinne
 des § 1 gehören Balkone, Dachgärten und Loggien, die mit der baulichen
@@ -75,6 +79,7 @@ Wohnnutzung im Freien vergleichbaren Nutzung dient.
 
 
 ## § 4 Fluglärmbelastung von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000500000)
 
 (1) Die Intensität der Fluglärmbelastung im Sinne dieser Verordnung
 bestimmt sich nach der Lage des betroffenen Grundstücks in der Tag-
@@ -108,6 +113,7 @@ zwei Isophonen-Bändern liegen, werden dem Isophonen-Band 1 zugeordnet.
 
 
 ## § 5 Entschädigungspauschalen bei Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000600000)
 
 (1) Bei einem Einfamilienhaus mit Außenwohnbereich beträgt die Höhe
 der Entschädigung pauschal:
@@ -204,6 +210,7 @@ der Entschädigung pauschal:
 
 
 ## § 6 Erhöhte Entschädigung aufgrund des Verkehrswertes
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000700000)
 
 (1) Abweichend von § 5 beträgt die Höhe der Entschädigung bei einem
 Einfamilienhaus, einem Zweifamilienhaus oder einem Mehrfamilienhaus
@@ -234,6 +241,7 @@ Entschädigung als nach § 5 ergibt.
 
 
 ## § 7 Berücksichtigung der Art der baulichen Nutzung sowie der Vorbelastung
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000800000)
 
 Die Entschädigung nach den §§ 5 und 6 wird um die Hälfte gemindert,
 sofern Grundstücke
@@ -274,6 +282,7 @@ beurteilen.
 
 
 ## § 8 Entschädigung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE000900000)
 
 (1) Bei Wohnungen kann abweichend von den §§ 5 bis 7 eine höhere oder
 niedrigere Entschädigung festgesetzt werden, wenn aufgrund besonderer
@@ -290,6 +299,7 @@ bauordnungsrechtlich angeordnet wird.
 
 
 ## § 9 Entschädigung bei schutzbedürftigen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE001000000)
 
 (1) Bei einer schutzbedürftigen Einrichtung mit Außenwohnbereich
 beläuft sich die Höhe der Entschädigung pauschal für im Isophonen-Band
@@ -319,17 +329,20 @@ Außenwohnbereich die §§ 6 bis 8 entsprechend.
 
 
 ## § 10 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE001100000)
 
 Die Außenwohnbereichsentschädigung wird als einmalige Zahlung
 geleistet.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fluglsv_3/BJNR329200013.html#BJNR329200013BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

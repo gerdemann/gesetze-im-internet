@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vbg_bertranobek/BJNR0DA0A0025.html#BJNR0DA0A0025BJNE000100000)
 
 Die durch den Vorstand der Verwaltungs-Berufsgenossenschaft (VBG) am
 1\. Juni 2023 erlassene Anordnung über die Übertragung von Befugnissen
@@ -26,6 +27,7 @@ Berufsgenossenschaft (VBG) wird nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vbg_bertranobek/BJNR0DA0A0025.html#BJNR0DA0A0025BJNE000200000)
 
 Verwaltungs-Berufsgenossenschaft (VBG)
 

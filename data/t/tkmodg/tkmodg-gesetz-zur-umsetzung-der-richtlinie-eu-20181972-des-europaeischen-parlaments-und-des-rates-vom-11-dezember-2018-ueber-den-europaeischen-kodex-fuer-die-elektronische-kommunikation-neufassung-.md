@@ -24,18 +24,22 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tkmodg/BJNR185800021.html#BJNR185800021BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Telekommunikationsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/tkmodg/BJNR185800021.html#BJNR185800021BJNE000200000)
 
 
 ## (XXXX) Art 2 bis 59 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkmodg/BJNR185800021.html#BJNR185800021BJNE000300000)
 
 
 ## Art 60 Überprüfung der Auswirkungen von Artikel 15
+[Direktlink](https://www.gesetze-im-internet.de/tkmodg/BJNR185800021.html#BJNR185800021BJNE000400000)
 
 Das Bundesministerium für Arbeit und Soziales berichtet im
 Einvernehmen mit dem Bundesministerium der Finanzen dem Deutschen
@@ -48,6 +52,7 @@ nach dem Bundesversorgungsgesetz ergeben.
 
 
 ## Art 61 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tkmodg/BJNR185800021.html#BJNR185800021BJNE000500000)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am 1.
 Dezember 2021 in Kraft. Gleichzeitig tritt das

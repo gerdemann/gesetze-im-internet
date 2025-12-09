@@ -20,6 +20,7 @@ Stand: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek/BJNR271800005.html#BJNR271800005BJNE000100000)
 
 Nach § 20 Abs. 4 Satz 3 des Zweiten Buches Sozialgesetzbuch -
 Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24.
@@ -34,6 +35,7 @@ Berlin (Ost) 345 Euro, in den neuen Bundesländern 331 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek/BJNR271800005.html#BJNR271800005BJNE000200000)
 
 Bundesministerium für Wirtschaft und Arbeit
 

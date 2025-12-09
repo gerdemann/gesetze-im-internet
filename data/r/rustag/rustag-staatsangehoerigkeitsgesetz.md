@@ -20,17 +20,20 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE000503377)
 
 Deutscher im Sinne dieses Gesetzes ist, wer die deutsche
 Staatsangehörigkeit besitzt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE000602377)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE000708377)
 
 (1) Die deutsche Staatsangehörigkeit wird erworben
 
@@ -64,6 +67,7 @@ Staatsangehörigkeit von dem nach Satz 1 Begünstigten ableiten.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE000815377)
 
 (1) Durch die Geburt erwirbt ein Kind die deutsche
 Staatsangehörigkeit, wenn ein Elternteil die deutsche
@@ -134,6 +138,7 @@ und nach § 15 ist die Rechtsfolge nach Satz 1 unbeachtlich.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE000906377)
 
 (1) Durch die Erklärung, deutsche Staatsangehörige werden zu wollen,
 erwerben die nach dem Inkrafttreten des Grundgesetzes geborenen
@@ -191,6 +196,7 @@ wird eine Urkunde ausgestellt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001003377)
 
 Mit der nach den deutschen Gesetzen wirksamen Annahme als Kind durch
 einen Deutschen erwirbt das Kind, das im Zeitpunkt des Annahmeantrags
@@ -208,6 +214,7 @@ ausgesprochen, gilt Satz 1 entsprechend.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001104377)
 
 Spätaussiedler und die in den Aufnahmebescheid einbezogenen
 Familienangehörigen erwerben mit der Ausstellung der Bescheinigung
@@ -216,6 +223,7 @@ deutsche Staatsangehörigkeit.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001210377)
 
 (1) Ein Ausländer, der rechtmäßig seinen gewöhnlichen Aufenthalt im
 Inland hat, kann auf seinen Antrag eingebürgert werden, wenn seine
@@ -243,6 +251,7 @@ besonderen Härte abgesehen werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001308377)
 
 (1) Ehegatten oder eingetragene Lebenspartner Deutscher sollen unter
 den Voraussetzungen des § 10 Absatz 1 eingebürgert werden, wenn sie
@@ -268,6 +277,7 @@ Staatsangehörigkeit besitzt.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE004914125)
 
 (1) Ein Ausländer, der seit fünf Jahren rechtmäßig seinen gewöhnlichen
 Aufenthalt im Inland hat und handlungsfähig nach § 34 Satz 1 oder
@@ -422,6 +432,7 @@ bedarf, zu regeln.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005004377)
 
 Die Einbürgerung ist ausgeschlossen, wenn
 
@@ -469,9 +480,11 @@ Eidgenossenschaft andererseits über die Freizügigkeit besitzen.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005102377)
 
 
 ## § 12a
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005203377)
 
 (1) Bei der Einbürgerung bleiben außer Betracht:
 
@@ -525,6 +538,7 @@ aufzuführen.
 
 
 ## § 12b
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005302377)
 
 (1) Der gewöhnliche Aufenthalt im Inland wird durch Aufenthalte bis zu
 sechs Monaten im Ausland nicht unterbrochen. Bei längeren
@@ -563,6 +577,7 @@ entsprechend.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001605377)
 
 Ein ehemaliger Deutscher und seine minderjährigen Kinder, die ihren
 gewöhnlichen Aufenthalt im Ausland haben, können auf Antrag
@@ -572,6 +587,7 @@ geklärt sind und sie die Voraussetzungen des § 8 Absatz 1 Nummer 1 und
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001704377)
 
 Ein Ausländer, der seinen gewöhnlichen Aufenthalt im Ausland hat, kann
 unter den Voraussetzungen des § 8 eingebürgert werden, wenn Bindungen
@@ -583,6 +599,7 @@ Lebenspartner im öffentlichen Interesse liegt.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001805377)
 
 Personen, die im Zusammenhang mit Verfolgungsmaßnahmen aus den in
 Artikel 116 Absatz 2 Satz 1 des Grundgesetzes aufgeführten Gründen in
@@ -626,6 +643,7 @@ Ausländer eingetreten ist.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE001903377)
 
 Die Einbürgerung wird wirksam mit der Aushändigung der von der
 zuständigen Staatsangehörigkeitsbehörde ausgefertigten
@@ -638,6 +656,7 @@ entsprechend. Die Einbürgerungsurkunde soll im Rahmen einer
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002004377)
 
 (1) Die deutsche Staatsangehörigkeit geht verloren
 
@@ -712,22 +731,28 @@ Die deutsche Staatsangehörigkeit geht nicht verloren, wenn das Kind
 
 
 ## (XXXX) §§ 18 und 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002103377)
 
 
 ## (XXXX) §§ 20 und 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002301315)
 
 
 
 ## (XXXX) §§ 22 und 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002404377)
 
 
 ## § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002602377)
 
 
 ## § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002705377)
 
 
 ## § 26
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002803377)
 
 (1) Ein Deutscher kann auf seine Staatsangehörigkeit verzichten, wenn
 er mehrere Staatsangehörigkeiten besitzt. Der Verzicht ist schriftlich
@@ -778,9 +803,11 @@ Verzichtserklärung seiner Zustimmung.
 
 
 ## § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE002904377)
 
 
 ## § 28
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003803377)
 
 (1) Ein Deutscher, der
 
@@ -821,9 +848,11 @@ aufschiebende Wirkung.
 
 
 ## § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003906377)
 
 
 ## § 30
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005602377)
 
 (1) Das Bestehen oder Nichtbestehen der deutschen Staatsangehörigkeit
 wird bei Glaubhaftmachung eines berechtigten Interesses auf Antrag von
@@ -856,6 +885,7 @@ der deutschen Staatsangehörigkeit aus.
 
 
 ## § 31
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005703377)
 
 Staatsangehörigkeitsbehörden und Auslandsvertretungen dürfen
 personenbezogene Daten verarbeiten, soweit dies zur Erfüllung ihrer
@@ -882,6 +912,7 @@ Einbürgerungsverfahren nach § 15 entsprechend.
 
 
 ## § 32
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005802377)
 
 (1) Öffentliche Stellen haben den in § 31 genannten Stellen auf
 Ersuchen personenbezogene Daten zu übermitteln, soweit die Kenntnis
@@ -905,12 +936,14 @@ entgegenstehen.
 
 
 ## § 32a
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006100377)
 
 § 88 Absatz 3 Satz 1 des Aufenthaltsgesetzes gilt für
 Einbürgerungsverfahren entsprechend.
 
 
 ## § 32b
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006500377)
 
 In den Fällen einer rechtskräftigen Verurteilung nach den §§ 86, 86a,
 102, 104, 111, 125, 126, 126a, 130, 140, 166, 185 bis 189, 192a, 223,
@@ -927,6 +960,7 @@ mit.
 
 
 ## § 33
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE005904377)
 
 (1) Das Bundesverwaltungsamt (Registerbehörde) führt ein Register der
 Entscheidungen in Staatsangehörigkeitsangelegenheiten. In das Register
@@ -990,6 +1024,7 @@ in Absatz 2 genannten Daten unverzüglich mit.
 
 
 ## § 34
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006004377)
 
 Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz ist,
 wer das 16. Lebensjahr vollendet hat, sofern er nicht nach Maßgabe des
@@ -1000,6 +1035,7 @@ nach § 1825 des Bürgerlichen Gesetzbuches angeordnet ist. § 80 Absatz
 
 
 ## § 35
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006103377)
 
 (1) Eine rechtswidrige Einbürgerung kann nur zurückgenommen werden,
 wenn der Verwaltungsakt durch arglistige Täuschung, Drohung oder
@@ -1032,6 +1068,7 @@ ist, gelten Absatz 2 sowie Satz 1 entsprechend.
 
 
 ## § 36
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003202377)
 
 (1) Über die Einbürgerungen werden jährliche Erhebungen, jeweils für
 das vorausgegangene Kalenderjahr, beginnend 2000, als Bundesstatistik
@@ -1108,6 +1145,7 @@ auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 
 ## § 37
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003307377)
 
 Die Staatsangehörigkeitsbehörden übermitteln den
 Verfassungsschutzbehörden zur Ermittlung von Ausschlussgründen nach §
@@ -1119,6 +1157,7 @@ gesetzlichen Verarbeitungsregelungen.
 
 
 ## § 38
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003408377)
 
 (1) Für individuell zurechenbare öffentliche Leistungen in
 Staatsangehörigkeitsangelegenheiten werden, soweit gesetzlich nichts
@@ -1198,12 +1237,14 @@ gewährt werden.
 
 
 ## § 38a
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE004800377)
 
 Eine Ausstellung von Urkunden in Staatsangehörigkeitssachen in
 elektronischer Form ist ausgeschlossen.
 
 
 ## § 39
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006201377)
 
 Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen
@@ -1214,10 +1255,12 @@ Staatsangehörigkeitsausweis.
 
 
 ## § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003506377)
 
 
 
 ## § 40a
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE004003377)
 
 Auf Einbürgerungsanträge, die bis zum 23. August 2023 gestellt worden
 sind, ist § 10 Absatz 1 Satz 1 Nummer 3 in der vor dem 27. Juni 2024
@@ -1226,6 +1269,7 @@ enthält.
 
 
 ## § 41
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE003704377)
 
 Von den in diesem Gesetz in den §§ 32, 33 und 37 getroffenen
 Regelungen des Verwaltungsverfahrens der Länder kann nicht durch
@@ -1233,6 +1277,7 @@ Landesrecht abgewichen werden.
 
 
 ## § 42
+[Direktlink](https://www.gesetze-im-internet.de/rustag/BJNR005830913.html#BJNR005830913BJNE006201160)
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer unrichtige oder unvollständige Angaben zu wesentlichen

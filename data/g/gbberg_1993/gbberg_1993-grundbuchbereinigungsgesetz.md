@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Behandlung wertbeständiger und ähnlicher Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNG000100303)
 
 
 
 ### § 1 Umstellung wertbeständiger Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE000600303)
 
 (1) In dem in Artikel 3 des Einigungsvertrages bestimmten Gebiet kann
 aus einer Hypothek, Grundschuld oder Rentenschuld, die vor dem 1.
@@ -50,6 +52,7 @@ bestimmten Menge von Feingold ausgedrückte Betrag umzurechnen ist.
 
 
 ### § 2 Umgestellte wertbeständige Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE000700303)
 
 (1) Bei wertbeständigen Rechten, die bestimmen, daß sich die Höhe der
 aus dem Grundstück zu zahlenden Geldsumme durch den amtlich
@@ -83,6 +86,7 @@ Umstellung zu berufen, wenn er deren Voraussetzungen nachweist.
 
 
 ### § 3 Umstellung anderer wertbeständiger Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE000801311)
 
 (1) Bei sonstigen wertbeständigen Rechten einschließlich den in § 2
 Abs. 2 Satz 2 genannten, bei denen sich die aus dem Grundstück zu
@@ -103,6 +107,7 @@ Vorschriften über schweizerische Goldhypotheken bleiben unberührt.
 
 
 ### § 4 Grundbuchvollzug
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE000900303)
 
 Die nach den §§ 1 bis 3 eintretenden Änderungen bedürfen zum Erhalt
 ihrer Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs
@@ -113,10 +118,12 @@ nicht erhoben.
 
 
 ## Abschnitt 2 - Überholte Dienstbarkeiten und vergleichbare Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNG000200303)
 
 
 
 ### § 5 Erlöschen von Dienstbarkeiten und vergleichbaren Rechten
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001002310)
 
 (1) Im Grundbuch zugunsten natürlicher Personen eingetragene nicht
 vererbliche und nicht veräußerbare Rechte, insbesondere Nießbrauche,
@@ -150,6 +157,7 @@ gelöscht werden.
 
 
 ### § 6 Berechtigte unbekannten Aufenthalts, nicht mehr bestehende Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001105160)
 
 (1) Ist bei einem Nießbrauch, einer beschränkten persönlichen
 Dienstbarkeit oder einem eingetragenen Mitbenutzungsrecht (Artikel 233
@@ -187,15 +195,18 @@ durch Rechtsverordnung der Landesregierung in Kraft gesetzt werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001201303)
 
 -
 
 
 ## Abschnitt 3 - Nicht eingetragene dingliche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNG000300303)
 
 
 
 ### § 8 Nicht eingetragene Rechte
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001302311)
 
 (1) Ein nicht im Grundbuch eingetragenes Mitbenutzungsrecht der in
 Artikel 233 § 5 Abs. 1 des Einführungsgesetzes zum Bürgerlichen
@@ -237,6 +248,7 @@ der Klage gegenstandslos.
 
 
 ### § 9 Leitungen und Anlagen für die Versorgung mit Energie und Wasser sowie die Beseitigung von Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001406311)
 
 (1) Zum Besitz und Betrieb sowie zur Unterhaltung und Erneuerung von
 Energieanlagen (Anlagen zur Fortleitung von Elektrizität, Gas und
@@ -439,6 +451,7 @@ Verlegung zu tragen.
 
 
 ### § 9a
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE002100307)
 
 Die in § 9 sowie in den §§ 1 und 4 der Sachenrechts-
 Durchführungsverordnung bezeichneten Anlagen stehen mit Wirkung vom 3.
@@ -468,10 +481,12 @@ Abs. 2 sinngemäß.
 
 
 ## Abschnitt 4 - Ablösung von Grundpfandrechten
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNG000400303)
 
 
 
 ### § 10 Ablöserecht
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001502311)
 
 (1) Eine vor dem 1. Juli 1990 an einem Grundstück in dem in Artikel 3
 des Einigungsvertrages genannten Gebiet bestellte Hypothek oder
@@ -506,10 +521,12 @@ I S. 2182)) bekanntzumachen.
 
 
 ## Abschnitt 5 - Sonstige Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNG000500303)
 
 
 
 ### § 11 Ausnahmen von der Voreintragung des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001600303)
 
 (1) § 39 Abs. 1 der Grundbuchordnung ist nicht anzuwenden, wenn eine
 Person aufgrund eines Ersuchens nach § 34 des Vermögensgesetzes
@@ -527,6 +544,7 @@ für Belastungen entsprechend anzuwenden.
 
 
 ### § 12 Nachweis der Rechtsnachfolge bei Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001700303)
 
 (1) Zum Nachweis gegenüber dem Grundbuchamt oder dem
 Schiffsregistergericht, daß in dem in Artikel 3 des Einigungsvertrages
@@ -551,6 +569,7 @@ entsprechend.
 
 
 ### § 13 Dingliche Rechte im Flurneuordnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001801307)
 
 In Verfahren nach dem 8. Abschnitt des
 Landwirtschaftsanpassungsgesetzes können dingliche Rechte an
@@ -562,6 +581,7 @@ entsprechend anzuwenden.
 
 
 ### § 14 Gemeinschaftliches Eigentum von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE001901307)
 
 In den Fällen des Artikels 234 § 4a Abs. 1 Satz 1 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche gelten die §§ 82, 82a
@@ -580,6 +600,7 @@ Einführungsgesetzes zum Bürgerlichen Gesetzbuche gebührenfrei.
 
 
 ### § 15 Aufgebotsverfahren nach § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gbberg_1993/BJNR219200993.html#BJNR219200993BJNE002003160)
 
 (1) Das in § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes
 vorgesehene Aufgebotsverfahren wird von dem Bundesamt für zentrale

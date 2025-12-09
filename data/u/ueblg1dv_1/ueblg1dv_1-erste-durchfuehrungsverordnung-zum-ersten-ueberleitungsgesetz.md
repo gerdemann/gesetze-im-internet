@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE000400319)
 
 Auf Grund des § 13 des Ersten Gesetzes zur Überleitung von Lasten und
 Deckungsmitteln auf den Bund (Erstes Überleitungsgesetz) in der
@@ -30,10 +31,12 @@ des Gesetzes mit Zustimmung des Bundesrates:
 
 
 ## Abschnitt I - Personenkreis der Kriegsfolgenhilfe-Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNG000100319)
 
 
 
 ### § 1 Heimatvertriebene
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE000500319)
 
 Heimatvertriebene (§ 7 Abs. 2 Ziff. 1 des Gesetzes) sind die nach den
 §§ 1, 2 und 7 des Bundesvertriebenengesetzes vom 19. Mai 1953
@@ -43,6 +46,7 @@ zur Inanspruchnahme von Rechten und Vergünstigungen berechtigt sind.
 
 
 ### § 2 Evakuierte
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE000600319)
 
 (1) Evakuierte (§ 7 Abs. 2 Ziff. 2 des Gesetzes) sind Personen
 deutscher und fremder Staatsangehörigkeit und Staatenlose, die
@@ -91,6 +95,7 @@ von Evakuierten (§ 8 Abs. 2 des Bundesevakuiertengesetzes).
 
 
 ### § 3 Zugewanderte
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE000700319)
 
 (1) Zugewanderte aus der sowjetischen Besatzungszone und der Stadt
 Berlin (§ 7 Abs. 2 Ziff. 3 des Gesetzes) sind Personen deutscher
@@ -119,6 +124,7 @@ nicht zurückgekehrt sind.
 
 
 ### § 4 Ausländer und Staatenlose
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE000800319)
 
 (1) Ausländer und Staatenlose sind Kriegsfolgenhilfe-Empfänger im
 Sinne des § 7 Abs. 2 Ziff. 4 des Gesetzes, wenn sie
@@ -139,6 +145,7 @@ möglich oder nicht zumutbar oder ihre Ausweisung nicht möglich ist.
 
 
 ### § 5 Angehörige von Kriegsgefangenen und Vermißten, Heimkehrer
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE000901301)
 
 (1) Angehörige von Kriegsgefangenen (§ 7 Abs. 2 Ziff. 5 des Gesetzes)
 sind Personen, die nach dem Gesetz über die Unterhaltsbeihilfe für
@@ -164,6 +171,7 @@ Bundesversorgungsgesetzes vom 19. Januar 1955 (Bundesgesetzbl. I S.
 
 
 ### § 6 Kriegsbeschädigte, Kriegshinterbliebene und ihnen gleichgestellte Personen
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001000319)
 
 Kriegsbeschädigte, Kriegshinterbliebene und ihnen gleichgestellte
 Personen (§ 7 Abs. 2 Ziff. 6 des Gesetzes) sind Personen, die nach dem
@@ -174,10 +182,12 @@ Fürsorgeleistungen auf der anerkannten Schädigung beruhen.
 
 
 ## Abschnitt II - Verrechnungsfähigkeit der Fürsorgekosten
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNG000200319)
 
 
 
 ### § 7 Verrechnungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001100319)
 
 (1) Verrechnungsfähige Fürsorgekosten (§§ 8 bis 12 des Gesetzes) sind
 auch Fürsorgeleistungen, die den Angehörigen des Kriegsfolgenhilfe-
@@ -225,6 +235,7 @@ nach den für die einzelnen Anstalten festgesetzten Pflegesätzen.
 
 
 ### § 8 Besondere Voraussetzungen der Verrechnungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001200319)
 
 (1) ...
 
@@ -253,6 +264,7 @@ Landesregierung oder die von ihr ermächtigte Stelle anerkannt hat.
 
 
 ### § 9 Nichtverrechnungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001300319)
 
 Nicht verrechnungsfähig sind Kosten der Wohnungs- und
 Siedlungsfürsorge nach den Verwaltungsvorschriften zur Durchführung
@@ -260,6 +272,7 @@ der §§ 25 bis 27 des Bundesversorgungsgesetzes vom 10. Dezember 1951.
 
 
 ### § 10 Durchgangs- und Wohnlager
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001401123)
 
 (1) Durchgangs- und Wohnlager sind Sammelunterkünfte, in welche
 Kriegsfolgenhilfe-Empfänger vorübergehend bis zu ihrer Unterbringung
@@ -322,10 +335,12 @@ zahlen, und die von Dritten erstatteten Beträge.
 
 
 ## Abschnitt III - Übergangsvorschriften, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNG000300319)
 
 
 
 ### § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001500319)
 
 Zugewanderte aus der sowjetischen Besatzungszone und der Stadt Berlin
 (§ 3) gelten bis auf weiteres als Kriegsfolgenhilfe-Empfänger nach § 7
@@ -335,12 +350,14 @@ erforderlichen Zuzugs- oder Aufenthaltsgenehmigung sind.
 
 
 ### § 12 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001600319)
 
 Diese Verordnung gilt gemäß § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_blg1dv_1/BJNR000880955.html#BJNR000880955BJNE001700319)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. April 1950 in Kraft.
 

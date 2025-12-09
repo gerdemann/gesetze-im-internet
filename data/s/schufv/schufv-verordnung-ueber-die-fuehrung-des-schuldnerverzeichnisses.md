@@ -23,6 +23,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000100000)
 
 Auf Grund des § 882h Absatz 3 der Zivilprozessordnung, der durch
 Artikel 1 Nummer 17 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258)
@@ -30,9 +31,11 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## Abschnitt 1 - Das Schuldnerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNG000100000)
 
 
 ### § 1 Inhalt des Schuldnerverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000200000)
 
 (1) In das Schuldnerverzeichnis werden die in § 882b Absatz 2 und 3
 der Zivilprozessordnung angegebenen Daten eingetragen.
@@ -48,9 +51,11 @@ Vollstreckungsgericht die Eintragung ohne inhaltliche Überprüfung vor.
 
 
 ## Abschnitt 2 - Form und Übermittlung von Eintragungsanordnungen und Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNG000200000)
 
 
 ### § 2 Übermittlung von Eintragungsanordnungen und Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000300000)
 
 (1) Die Eintragungsanordnung erfolgt durch die in § 882b Absatz 1
 Nummer 1 bis 3 der Zivilprozessordnung genannten Stellen. Die
@@ -104,6 +109,7 @@ Sinne des § 882h Absatz 3 Satz 1 der Zivilprozessordnung.
 
 
 ### § 3 Vollziehung von Eintragungsanordnungen
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000400000)
 
 (1) Das zentrale Vollstreckungsgericht prüft elektronisch übermittelte
 Eintragungsanordnungen daraufhin, ob die elektronische Übermittlung
@@ -132,6 +138,7 @@ der Zivilprozessordnung.
 
 
 ### § 4 Löschung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000501311)
 
 (1) Das zentrale Vollstreckungsgericht löscht eine Eintragung im
 Schuldnerverzeichnis nach dem Ablauf von drei Jahren seit dem Tag der
@@ -155,9 +162,11 @@ Schuldnerverzeichnis außerdem, wenn
 
 
 ## Abschnitt 3 - Einsicht in das Schuldnerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNG000300000)
 
 
 ### § 5 Einsichtsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000601311)
 
 Einsichtsberechtigt ist jeder, der darlegt, Angaben nach § 882b der
 Zivilprozessordnung zu benötigen
@@ -191,6 +200,7 @@ Zivilprozessordnung zu benötigen
 
 
 ### § 6 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000702125)
 
 (1) Die Einsichtnahme in das Schuldnerverzeichnis erfolgt über ein
 zentrales und länderübergreifendes elektronisches Informations- und
@@ -231,6 +241,7 @@ dieser Verfahren zu löschen.
 
 
 ### § 7 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000801125)
 
 (1) Die Identifikation der Nutzungsberechtigten ist durch geeignete
 Registrierungsverfahren sicherzustellen. Sie erfolgt durch das für den
@@ -276,6 +287,7 @@ Vollstreckungsgericht erfolgen.
 
 
 ### § 8 Abfragedatenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE000901311)
 
 (1) Bei der Einsichtnahme in das Schuldnerverzeichnis erfolgt die
 elektronische Übermittlung der Daten bundesweit einheitlich durch ein
@@ -320,6 +332,7 @@ Mitgliedstaaten der Europäischen Union.
 
 
 ### § 9 Informationsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001001125)
 
 (1) Die Daten aus der Einsichtnahme in das Schuldnerverzeichnis dürfen
 nur zu dem Zweck verarbeitet werden, für den sie übermittelt werden.
@@ -332,6 +345,7 @@ sind darauf bei der Übermittlung hinzuweisen.
 
 
 ### § 10 Ausschluss von der Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001102125)
 
 (1) Ein nach § 7 registrierter Nutzer kann bei missbräuchlicher
 Datenverarbeitung oder missbräuchlichen Datenabrufen von der
@@ -366,6 +380,7 @@ löschen.
 
 
 ### § 11 Zugang zur Einsicht in das Schuldnerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001200000)
 
 (1) Die Landesregierungen stellen sicher, dass nach § 5
 Einsichtsberechtigte eine Registrierung nach § 7 Absatz 5 bei jedem
@@ -379,9 +394,11 @@ Ausdruck ihrer Datenabfrage überlassen wird.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNG000400000)
 
 
 ### § 12 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001300000)
 
 Auf Entscheidungen des zentralen Vollstreckungsgerichts sind, soweit
 es sich um Angelegenheiten der Justizverwaltungen im Sinne des § 882h
@@ -390,6 +407,7 @@ Einführungsgesetzes zum Gerichtsverfassungsgesetz anzuwenden.
 
 
 ### § 12a Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001600311)
 
 Die in § 8 Absatz 2 bis 4 festgesetzten Suchkriterien zur Übermittlung
 von Datensätzen sind drei Jahre nach dem 1. Oktober 2015 durch das
@@ -400,6 +418,7 @@ Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu
 
 
 ### § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001400000)
 
 (1) Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
@@ -410,6 +429,7 @@ außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/schufv/BJNR165400012.html#BJNR165400012BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 

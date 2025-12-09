@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000100326)
 
 Auf Grund des § 36 Abs. 1 Nr. 2, 4 und 5 in Verbindung mit § 36 Abs. 3
 des Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29.
@@ -28,6 +29,7 @@ verordnet:
 
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000200326)
 
 (1) Diese Verordnung findet Anwendung auf Tiere der in den Anlagen 1
 und 4 genannten Arten. Für die Abgrenzung der Tierarten im Sinne
@@ -42,6 +44,7 @@ Entwicklungsformen und Nester.
 
 
 ## § 2 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000301124)
 
 (1) Es ist verboten,
 
@@ -140,6 +143,7 @@ Artenschutzübereinkommen nicht entgegenstehen.
 
 
 ## § 3 Halten von Greifen und Falken
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000503124)
 
 (1) Die Haltung von Greifen oder Falken der in Anlage 4 genannten
 Arten ist nur nach Maßgabe der Absätze 2 bis 6 zulässig.
@@ -217,6 +221,7 @@ genehmigte oder anerkannte Auffang- und Pflegestationen.
 
 
 ## § 4 Aufzeichnungs- und Kennzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000600326)
 
 (1) Wer gewerbsmäßig
 
@@ -252,6 +257,7 @@ kennzeichnen, soweit dies mit angemessenem Aufwand möglich ist.
 
 
 ## § 5 Rechtmäßiger Besitz, Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000700326)
 
 Wer Tiere der in Anlage 5 genannten Arten besitzt oder die
 tatsächliche Gewalt darüber ausübt, kann sich gegenüber der
@@ -265,6 +271,7 @@ wenn Tatsachen die Annahme rechtfertigen, daß eine Berechtigung nach §
 
 
 ## § 5a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001800124)
 
 (1) Nach § 38a Absatz 1 des Bundesjagdgesetzes wird bestraft, wer
 entgegen § 2 Absatz 1 Satz 1 Nummer 2 ein dort genanntes Tier oder ein
@@ -277,6 +284,7 @@ Teil oder ein Erzeugnis eines solchen Tieres besitzt.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000801124)
 
 Ordnungswidrig im Sinne des § 39 Abs. 2 Nr. 5 des Bundesjagdgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -310,12 +318,14 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE000900326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 45 des Bundesjagdgesetzes auch im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001000326)
 
 § 3 Abs. 2 Nr. 3 und 4 und Abs. 3, § 4 sowie § 6, soweit er sich auf
 die genannten Vorschriften bezieht, treten am 1. April 1986 in Kraft;
@@ -440,12 +450,14 @@ Gleichzeitig treten außer Kraft:
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001100326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 (zu § 2 Absatz 1)
 
 ## Anlage 1 Liste der von den Verboten erfassten Wildarten
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001201124)
 
 (Fundstelle: BGBl. I 2018, 1161 - 1163)
 
@@ -749,6 +761,7 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 (zu § 2 Absatz 2 Satz 3 Nummer 1)
 
 ## Anlage 2 Liste der von bestimmten Verboten ausgenommenen Wildarten
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001301124)
 
 (Fundstelle: BGBl. I 2018, 1164)
 
@@ -785,6 +798,7 @@ Fulica atra L.)
 (zu § 2 Absatz 2 Satz 3 Nummer 2)
 
 ## Anlage 3 Liste der von bestimmten Verboten ausgenommenen Wildarten bei Tätigkeiten nicht zu gewerbsmäßigen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001401124)
 
 (Fundstelle: BGBl. I 2018, 1165)
 
@@ -800,6 +814,7 @@ Scolopax rusticola L.)
 (zu § 3 Absatz 1)
 
 ## Anlage 4 Liste der Greife und Falken, deren Haltung beschränkt ist
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001501124)
 
 (Fundstelle: BGBl. I 2018, 1166)
 
@@ -860,6 +875,7 @@ Falco peregrinus TUNSTALL)
 (zu § 4 Absatz 1 und § 5)
 
 ## Anlage 5 Liste der kennzeichnungspflichtigen Wildarten
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001601124)
 
 (Fundstelle: BGBl. I 2018, 1167)
 
@@ -962,6 +978,7 @@ Falco peregrinus TUNSTALL)
 (zu § 4 Abs. 1)
 
 ## Anlage 6 Aufnahme- und Auslieferungsbuch
+[Direktlink](https://www.gesetze-im-internet.de/bwildschv/BJNR020400985.html#BJNR020400985BJNE001700326)
 
 
 *    *   Lfd. Nr.

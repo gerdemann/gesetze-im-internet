@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2007/BJNR328610006.html#BJNR328610006BJNE000100000)
 
 Der Beitragssatz beträgt für das Jahr 2007 in der allgemeinen
 Rentenversicherung 19,9 Prozent und in der knappschaftlichen

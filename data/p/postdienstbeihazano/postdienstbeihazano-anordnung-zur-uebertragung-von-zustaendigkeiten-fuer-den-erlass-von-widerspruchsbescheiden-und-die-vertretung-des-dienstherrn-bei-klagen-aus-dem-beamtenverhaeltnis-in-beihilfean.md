@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/postdienstbeihazano/BJNR019250991.html#BJNR019250991BJNE000100308)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachungen vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung
@@ -32,6 +33,7 @@ zu erlassen, auf das Unternehmen Deutsche Bundespost  POSTDIENST.
 
 
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/postdienstbeihazano/BJNR019250991.html#BJNR019250991BJNE000200308)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir
 die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis in
@@ -41,11 +43,13 @@ die Vertretung des Dienstherrn vor.
 
 
 ## III. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postdienstbeihazano/BJNR019250991.html#BJNR019250991BJNE000300308)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/postdienstbeihazano/BJNR019250991.html#BJNR019250991BJNE000400308)
 
 Das Direktorium der Deutschen Bundespost
 

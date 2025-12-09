@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anzeigepflichtige Tierseuchen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchanzv/BJNR011780991.html#BJNR011780991BJNE000220119)
 
 Folgende Tierseuchen sind anzeigepflichtig:
 
@@ -211,5 +212,6 @@ Folgende Tierseuchen sind anzeigepflichtig:
 
 
 ## § 2 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchanzv/BJNR011780991.html#BJNR011780991BJNE000303377)
 
 

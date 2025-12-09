@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000100306)
 
 Dem in Bonn am 31. Januar 1972 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über die
@@ -30,6 +31,7 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000200306)
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels III insoweit befugt, als sie nach innerstaatlichem Recht in
@@ -37,11 +39,13 @@ eigener Zuständigkeit Anordnungen treffen können.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000301306)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000400306)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels IX des Vertrags
@@ -49,6 +53,7 @@ eingeschränkt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000500306)
 
 Rechtshilfeersuchen österreichischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
@@ -60,12 +65,14 @@ Rechtshilfehandlung übertragen.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000600306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/BJNR211570975.html#BJNR211570975BJNE000700306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 5 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 5 treten zusammen mit

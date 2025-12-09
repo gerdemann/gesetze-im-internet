@@ -24,25 +24,31 @@ Ersetzt durch
 
 
 ## Abschnitt 1 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000101130)
 
 
 
 ### (XXXX) §§ 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE000205130)
 
 
 
 ## Abschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000201130)
 
 
 
 ### (XXXX) §§ 3 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE002702130)
 
 
 
 ## Abschnitt 3 - Kennzeichnung, Hinweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000301130)
 
 
 ### § 17 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE001803130)
 
 (1) (weggefallen)
 
@@ -70,41 +76,51 @@ festgelegten Vorgaben zu beachten.
 
 
 ### (XXXX) § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE001903130)
 
 
 
 ## Abschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000601130)
 
 
 
 ### (XXXX) §§ 19 bis 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE003001130)
 
 
 
 ## Abschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000701130)
 
 
 
 ### (XXXX) §§ 23 bis 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE003401130)
 
 
 
 ## Abschnitt 6 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000402130)
 
 
 
 ### (XXXX) §§ 26 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE002003130)
 
 
 
 ## Abschnitt 7 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNG000502130)
 
 
 
 ### (XXXX) §§ 29 bis 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE002306130)
 
 
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/battg/BJNR158210009.html#BJNR158210009BJNE002501130)
 
 

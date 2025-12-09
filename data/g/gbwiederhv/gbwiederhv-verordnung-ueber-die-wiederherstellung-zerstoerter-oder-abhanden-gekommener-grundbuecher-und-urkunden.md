@@ -22,11 +22,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE000700304)
 
 Auf Grund des § 123 der Grundbuchordnung verordne ich folgendes:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE000802160)
 
 (1) Ist ein Grundbuch ganz oder teilweise zerstört oder abhanden
 gekommen, so hat das Grundbuchamt es von Amts wegen
@@ -44,10 +46,12 @@ Grundbuchführung den Amtsgerichten noch nicht übertragen ist.
 
 
 ## Abschnitt 1 - Wiederherstellung des Grundbuchs nach den Grundakten oder dem Handblatt
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNG000100304)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE000900304)
 
 Sind die Grundakten oder das Handblatt des zerstörten oder abhanden
 gekommenen Grundbuchs vorhanden und ergibt sich aus ihnen der Inhalt
@@ -56,16 +60,19 @@ Grundakten oder des Handblatts wiederherzustellen.
 
 
 ## Abschnitt 2 - Wiederherstellung des Grundbuchs in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNG000200304)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001000304)
 
 Kann das Grundbuch nicht nach § 2 wiederhergestellt werden, so ist
 nach den §§ 4 bis 10 zu verfahren.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001100304)
 
 Das Grundbuchamt hat die zuständige Behörde um Übersendung eines
 beglaubigten Auszugs aus dem nach § 2 Abs. 2 der Grundbuchordnung für
@@ -77,6 +84,7 @@ Auszug oder die Unterlagen nicht schon zur Verfügung stehen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001201160)
 
 (1) Über den Inhalt des Grundbuchblatts ist unbeschadet des § 26 des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -118,12 +126,14 @@ Kenntnis zu setzen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001300304)
 
 Nach Abschluß der Ermittlungen kann das Grundbuchamt ein Aufgebot
 erlassen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001400304)
 
 In das Aufgebot sind aufzunehmen:
 
@@ -152,6 +162,7 @@ d)  die Aufforderung an die Personen, die nicht gemäß § 5 Abs. 1 als
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001500304)
 
 (1) Das Aufgebot ist an die für den Aushang von Bekanntmachungen des
 Grundbuchamts bestimmte Stelle anzuheften und einmal in dem für die
@@ -167,6 +178,7 @@ anzuheften oder in sonstiger ortsüblicher Weise bekanntzumachen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001600304)
 
 Das Grundbuch darf, wenn ein Aufgebotsverfahren nicht stattgefunden
 hat, erst wiederhergestellt werden, nachdem in der Gemeinde, in deren
@@ -177,6 +189,7 @@ verstrichen ist; die Art der Bekanntmachung bestimmt das Grundbuchamt.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001700304)
 
 (1) Nach Ablauf der Frist des § 7 oder des § 9 und nach Abschluß etwa
 erforderlicher weiterer Ermittlungen ist das Grundbuch
@@ -211,10 +224,12 @@ eingetragen werden, einen Widerspruch eintragen.
 
 
 ## Abschnitt 3 - Wiederherstellung von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNG000300304)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001800304)
 
 (1) Ist eine Urkunde, auf die eine Eintragung Bezug nimmt, ganz oder
 teilweise zerstört oder abhanden gekommen, so ist die Urkunde an Hand
@@ -237,6 +252,7 @@ abgesehen wird.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE001900304)
 
 Für die Wiederherstellung einer Urkunde, auf die eine Eintragung sich
 gründet, ohne auf die Urkunde Bezug zu nehmen, gilt § 11 Abs. 1, Abs.
@@ -244,15 +260,18 @@ gründet, ohne auf die Urkunde Bezug zu nehmen, gilt § 11 Abs. 1, Abs.
 
 
 ## Abschnitt 4 - Kosten, Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNG000400304)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE002000304)
 
 Das Verfahren nach dieser Verordnung ist kostenfrei.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE002100304)
 
 Die Beschwerde gegen die Wiederherstellung des Grundbuchblatts ist
 unzulässig. Im Wege der Beschwerde kann jedoch verlangt werden, daß
@@ -262,10 +281,12 @@ einzutragen oder eine Löschung vorzunehmen.
 
 
 ## Abschnitt 5 - Rechtsverkehr bis zur Wiederherstellung
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNG000500304)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE002200304)
 
 Wird vor der Wiederherstellung des Grundbuchs die Eintragung einer
 Rechtsänderung beantragt, so erstreckt sich, wenn die Rechtsänderung
@@ -276,6 +297,7 @@ Grundbuch zu vermerken.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE002300304)
 
 (1) Die Zwangsversteigerung eines Grundstücks, dessen Grundbuch ganz
 oder teilweise zerstört oder abhanden gekommen ist, kann vor der
@@ -294,15 +316,18 @@ Grundbuchblatts bestimmt werden.
 
 
 ## Abschnitt 6 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNG000600304)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE002400304)
 
 Die Verordnung tritt am 15. August 1940 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gbwiederhv/BJNR010480940.html#BJNR010480940BJNE002500304)
 
 Der Reichsminister der Justiz
 

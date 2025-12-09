@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000100305)
 
 (1) Beruf des Unternehmers im Binnenschiffsgüterverkehr im Sinne
 dieser Verordnung ist die Tätigkeit natürlicher Personen oder
@@ -35,6 +36,7 @@ die bei den Verladern Ladung beschafft.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000201305)
 
 (1) Natürliche Personen oder Unternehmen im Sinne des § 1, die den
 Beruf des Unternehmers im Binnenschiffsgüterverkehr mit Schiffen
@@ -61,6 +63,7 @@ Berichtigung vorzulegen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000300305)
 
 Eine Erlaubnis ist nicht erforderlich
 
@@ -83,6 +86,7 @@ Eine Erlaubnis ist nicht erforderlich
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000400305)
 
 (1) Die Erlaubnis zum innerstaatlichen oder grenzüberschreitenden
 Binnenschiffsgüterverkehr ist zu erteilen, wenn der Unternehmer oder
@@ -96,6 +100,7 @@ Verordnung genannten Sachgebieten hat.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000500305)
 
 (1) Der Nachweis der fachlichen Eignung kann durch Ablegung einer
 Prüfung oder durch den Nachweis einer mindestens dreijährigen nicht
@@ -128,6 +133,7 @@ Abs. 4 eine Erlaubnisurkunde aus.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000600305)
 
 (1) Bei Personen, die
 
@@ -154,6 +160,7 @@ waren.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000700305)
 
 Als ausreichender Nachweis der fachlichen Eignung gilt auch eine
 Bescheinigung eines anderen Mitgliedstaates der Europäischen
@@ -170,6 +177,7 @@ ausgestellten Bescheinigungen ist Satz 1 ab 1. Januar 1995 anzuwenden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000800305)
 
 (1) Die Prüfung nach § 5 Abs. 1 wird von einer Industrie- und
 Handelskammer abgenommen, die einen Prüfungsausschuß errichtet. Für
@@ -188,6 +196,7 @@ Handelskammer gebildeten Prüfungsausschuß ist zulässig.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE000900305)
 
 (1) Gegenstand der Prüfung sind die in den Abschnitten A und B der
 Anlage genannten Sachgebiete. Auf Antrag wird die Prüfung auf die
@@ -204,6 +213,7 @@ mehreren Sachgebieten nach Absatz 1 erteilen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE001000305)
 
 (1) Die Prüfung soll aus einem schriftlichen und einem mündlichen Teil
 bestehen.
@@ -223,6 +233,7 @@ Prüfungsordnungen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE001100305)
 
 Bei Unternehmern, die nachweislich bis zum Zeitpunkt des
 Inkrafttretens dieser Verordnung ein
@@ -234,11 +245,13 @@ ausgestellt.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE001201307)
 
 (Weggefallen)
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE001300305)
 
 (1) Nach dem Tod des Unternehmers darf der Erbe den Betrieb höchstens
 ein Jahr lang weiterführen, ohne daß die Voraussetzungen des § 4 Abs.
@@ -271,6 +284,7 @@ werden, ohne daß die Voraussetzungen des § 4 Abs. 1 festgestellt sind.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE001401307)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -279,6 +293,7 @@ gewerbsmäßig ausübt.
 
 
 ## Anlage (zu § 4 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 Nr. 2, § 9 Abs. 1 und § 10 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/binschzv/BJNR117600992.html#BJNR117600992BJNE001500305)
 
 
 *

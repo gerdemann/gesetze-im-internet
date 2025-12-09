@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE001803310)
 
 Hochschulen im Sinne dieses Gesetzes sind die Universitäten, die
 Pädagogischen Hochschulen, die Kunsthochschulen, die Fachhochschulen
@@ -33,14 +34,17 @@ Hochschulen.
 
 
 ## 1. Kapitel - Aufgaben der Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000102310)
 
 
 
 ### 1. Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000202310)
 
 
 
 #### § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE001906301)
 
 (1) Die Hochschulen dienen entsprechend ihrer Aufgabenstellung der
 Pflege und der Entwicklung der Wissenschaften und der Künste durch
@@ -86,6 +90,7 @@ Absatz 1 genannten Aufgaben zusammenhängen.
 
 
 #### § 3 Gleichberechtigung von Frauen und Männern
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE011601310)
 
 Die Hochschulen fördern die tatsächliche Durchsetzung der
 Gleichberechtigung von Frauen und Männern und wirken auf die
@@ -95,6 +100,7 @@ Hochschulen regelt das Landesrecht.
 
 
 #### § 4 Freiheit von Kunst und Wissenschaft, Forschung, Lehre und Studium
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002003310)
 
 (1) Das Land und die Hochschulen haben sicherzustellen, daß die
 Mitglieder der Hochschule die durch Artikel 5 Abs. 3 Satz 1 des
@@ -134,6 +140,7 @@ Gewährleistung eines ordnungsgemäßen Studiums beziehen.
 
 
 #### § 5 Staatliche Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002104310)
 
 Die staatliche Finanzierung der Hochschulen orientiert sich an den in
 Forschung und Lehre sowie bei der Förderung des wissenschaftlichen
@@ -142,6 +149,7 @@ der Erfüllung des Gleichstellungsauftrags zu berücksichtigen.
 
 
 #### § 6 Bewertung der Forschung, Lehre, Förderung des wissenschaftlichen Nachwuchses und der Gleichstellung der Geschlechter
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE011202310)
 
 Die Arbeit der Hochschulen in Forschung und Lehre, bei der Förderung
 des wissenschaftlichen Nachwuchses sowie der Erfüllung des
@@ -152,10 +160,12 @@ werden.
 
 
 ### 2. Abschnitt - Studium und Lehre
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000302310)
 
 
 
 #### § 7 Ziel des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002402310)
 
 Lehre und Studium sollen den Studenten auf ein berufliches
 Tätigkeitsfeld vorbereiten und ihm die dafür erforderlichen fachlichen
@@ -166,6 +176,7 @@ freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt wird.
 
 
 #### § 8 Studienreform
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002503310)
 
 Die Hochschulen haben die ständige Aufgabe, im Zusammenwirken mit den
 zuständigen staatlichen Stellen Inhalte und Formen des Studiums im
@@ -175,6 +186,7 @@ in der Berufswelt zu überprüfen und weiterzuentwickeln.
 
 
 #### § 9 Koordinierung der Ordnung von Studium und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002604310)
 
 (1) Bund und Länder tragen gemeinsam Sorge für die Behandlung
 grundsätzlicher und struktureller Fragen des Studienangebots unter
@@ -191,6 +203,7 @@ der Wahrnehmung der Aufgaben nach den Absätzen 1 und 2 zu beteiligen.
 
 
 #### § 10 Studiengänge
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002705310)
 
 (1) Die Studiengänge führen in der Regel zu einem
 berufsqualifizierenden Abschluß. Als berufsqualifizierend im Sinne
@@ -214,6 +227,7 @@ Studentenzahlen bei der Hochschulplanung.
 
 
 #### § 11 Regelstudienzeit bis zum ersten berufsqualifizierenden Abschluß
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002804310)
 
 Die Regelstudienzeit bis zum ersten berufsqualifizierenden Abschluß
 beträgt, unbeschadet des § 19 Abs. 2 Satz 2,
@@ -233,6 +247,7 @@ kürzerer Zeit zu einem ersten berufsqualifizierenden Abschluß führen.
 
 
 #### § 12 Postgraduale Studiengänge
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE002903310)
 
 Für Absolventen eines Hochschulstudiums können zur Vermittlung
 weiterer wissenschaftlicher oder beruflicher Qualifikationen oder zur
@@ -245,6 +260,7 @@ unberührt.
 
 
 #### § 13 Fernstudium, Multimedia
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003003310)
 
 (1) Bei der Reform von Studium und Lehre und bei der Bereitstellung
 des Lehrangebots sollen die Möglichkeiten eines Fernstudiums sowie der
@@ -260,6 +276,7 @@ Feststellung der Gleichwertigkeit wird durch Landesrecht geregelt.
 
 
 #### § 14 Studienberatung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003103310)
 
 Die Hochschule unterrichtet Studierende und Studienbewerber über die
 Studienmöglichkeiten und über Inhalte, Aufbau und Anforderungen eines
@@ -273,6 +290,7 @@ für die staatlichen Prüfungen zuständigen Stellen zusammenwirken.
 
 
 #### § 15 Prüfungen und Leistungspunktsystem
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003204310)
 
 (1) Das Studium wird in der Regel durch eine Hochschulprüfung, eine
 staatliche oder eine kirchliche Prüfung abgeschlossen. In
@@ -299,6 +317,7 @@ gleichwertige Qualifikation besitzen.
 
 
 #### § 16 Prüfungsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003308360)
 
 Hochschulprüfungen werden auf Grund von Prüfungsordnungen abgelegt,
 die der Genehmigung der nach Landesrecht zuständigen Stelle bedürfen.
@@ -319,6 +338,7 @@ der Sätze 2 bis 6 nicht entspricht.
 
 
 #### § 17 Vorzeitiges Ablegen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003403310)
 
 Hochschulprüfungen können vor Ablauf einer für die Meldung
 festgelegten Frist abgelegt werden, sofern die für die Zulassung zur
@@ -326,6 +346,7 @@ Prüfung erforderlichen Leistungen nachgewiesen sind.
 
 
 #### § 18 Hochschulgrade
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003505320)
 
 (1) Auf Grund der Hochschulprüfung, mit der ein berufsqualifizierender
 Abschluss erworben wird, kann die Hochschule einen Diplomgrad mit
@@ -352,6 +373,7 @@ Absatz 1 genannten Grade verleihen.
 
 
 #### § 19 Bachelor- und Masterstudiengänge
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003604320)
 
 (1) Die Hochschulen können Studiengänge einrichten, die zu einem
 Bachelor- oder Bakkalaureusgrad und zu einem Master- oder Magistergrad
@@ -377,6 +399,7 @@ Hochschulen auf Antrag eine englischsprachige Übersetzung bei.
 
 
 #### § 20 Studium an ausländischen Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003704310)
 
 Studien- und Prüfungsleistungen, die an ausländischen Hochschulen
 erbracht worden sind, werden anerkannt, wenn ihre Gleichwertigkeit
@@ -385,15 +408,18 @@ Richtergesetzes bleiben unberührt.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003803310)
 
 (weggefallen)
 
 
 ### 3. Abschnitt - Forschung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000402310)
 
 
 
 #### § 22 Aufgaben und Koordination der Forschung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE003903310)
 
 Die Forschung in den Hochschulen dient der Gewinnung
 wissenschaftlicher Erkenntnisse sowie der wissenschaftlichen
@@ -411,11 +437,13 @@ Forschungsförderung zusammen.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004003310)
 
 (weggefallen)
 
 
 #### § 24 Veröffentlichung von Forschungsergebnissen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004102310)
 
 Bei der Veröffentlichung von Forschungsergebnissen sind Mitarbeiter,
 die einen eigenen wissenschaftlichen oder wesentlichen sonstigen
@@ -424,6 +452,7 @@ ihr Beitrag zu kennzeichnen.
 
 
 #### § 25 Forschung mit Mitteln Dritter
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004204310)
 
 (1) Die in der Forschung tätigen Hochschulmitglieder sind berechtigt,
 im Rahmen ihrer dienstlichen Aufgaben auch solche Forschungsvorhaben
@@ -476,6 +505,7 @@ Erfüllung ihrer Aufgaben zur Verfügung.
 
 
 #### § 26 Entwicklungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004303310)
 
 Die Vorschriften dieses Abschnitts gelten für Entwicklungsvorhaben im
 Rahmen angewandter Forschung sowie für künstlerische
@@ -483,10 +513,12 @@ Entwicklungsvorhaben sinngemäß.
 
 
 ## 2. Kapitel - Zulassung zum Studium
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000502310)
 
 
 
 ### § 27 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004404310)
 
 (1) Jeder Deutsche im Sinne des Artikels 116 des Grundgesetzes ist zu
 dem von ihm gewählten Hochschulstudium berechtigt, wenn er die für das
@@ -509,11 +541,13 @@ Absatz 1 gleichgestellt sind, bleiben unberührt.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004503310)
 
 (weggefallen)
 
 
 ### § 29 Maßstäbe der Ausbildungskapazität
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004603310)
 
 (1) Im Zusammenwirken von Hochschulen und zuständigen staatlichen
 Stellen sind einheitliche Grundsätze für die Ermittlung und
@@ -536,6 +570,7 @@ vorhandenen Ausbildungskapazität ausgeschöpft worden sind.
 
 
 ### § 30 Festsetzung von Zulassungszahlen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004703310)
 
 (1) Zulassungszahlen werden durch Landesrecht festgesetzt. Sie sind
 für jede Hochschule festzusetzen, wenn ein Studiengang in das
@@ -556,6 +591,7 @@ Ausbildungskapazität ausgeschöpft worden sind, anzugeben.
 
 
 ### § 31 Zentrale Vergabe von Studienplätzen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004805116)
 
 (1) In Studiengängen, für die für mehrere Hochschulen Zulassungszahlen
 festgesetzt sind, können die Studienplätze von der von den Ländern
@@ -584,20 +620,24 @@ Geltungsbereich dieses Gesetzes fortsetzen kann.
 
 
 ### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE004906116)
 
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005005310)
 
 (weggefallen)
 
 
 ### § 33a
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE011700310)
 
 (weggefallen)
 
 
 ### § 34 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005109116)
 
 Den Bewerbern dürfen keine Nachteile entstehen
 
@@ -631,6 +671,7 @@ Den Bewerbern dürfen keine Nachteile entstehen
 
 
 ### § 35 Unabhängigkeit der Zulassung von der Landeszugehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005205116)
 
 Die Zulassung eines Studienbewerbers, der Deutscher im Sinne des
 Artikels 116 des Grundgesetzes ist, darf nicht davon abhängig gemacht
@@ -642,14 +683,17 @@ hat.
 
 
 ## 3. Kapitel - Mitglieder der Hochschule
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000602310)
 
 
 
 ### 1. Abschnitt - Mitgliedschaft und Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000702310)
 
 
 
 #### § 36 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005304310)
 
 (1) Mitglieder der Hochschule sind die an der Hochschule nicht nur
 vorübergehend oder gastweise hauptberuflich Tätigen und die
@@ -663,6 +707,7 @@ Lehrveranstaltungen und zur Beteiligung an Prüfungsverfahren zu.
 
 
 #### § 37 Allgemeine Grundsätze der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005405310)
 
 (1) Die Mitwirkung an der Selbstverwaltung der Hochschule ist Recht
 und Pflicht aller Mitglieder. Art und Umfang der Mitwirkung der
@@ -695,11 +740,13 @@ Selbstverwaltung nicht benachteiligt werden.
 
 
 #### (XXXX) §§ 38 bis 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005504310)
 
 -
 
 
 #### § 41 Studentenschaft
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005803310)
 
 (1) Das Landesrecht kann vorsehen, daß an den Hochschulen zur
 Wahrnehmung hochschulpolitischer, sozialer und kultureller Belange der
@@ -721,10 +768,12 @@ Abs. 3 entsprechend.
 
 
 ### 2. Abschnitt - Wissenschaftliches und künstlerisches Personal
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000802310)
 
 
 
 #### § 42 Hauptberufliches wissenschaftliches und künstlerisches Personal
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE005905310)
 
 Das hauptberuflich tätige wissenschaftliche und künstlerische Personal
 der Hochschule besteht insbesondere aus den Hochschullehrerinnen und
@@ -739,6 +788,7 @@ Erhöhung des Anteils der Frauen in der Wissenschaft.
 
 
 #### § 43 Dienstliche Aufgaben der Hochschullehrerinnen und Hochschullehrer
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006005310)
 
 Die Hochschullehrerinnen und Hochschullehrer nehmen die ihrer
 Hochschule jeweils obliegenden Aufgaben in Wissenschaft und Kunst,
@@ -747,6 +797,7 @@ Ausgestaltung ihres Dienstverhältnisses selbständig wahr.
 
 
 #### § 44 Einstellungsvoraussetzungen für Professorinnen und Professoren
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006105310)
 
 Einstellungsvoraussetzungen für Professorinnen und Professoren sind
 neben den allgemeinen dienstrechtlichen Voraussetzungen grundsätzlich
@@ -782,6 +833,7 @@ neben den allgemeinen dienstrechtlichen Voraussetzungen grundsätzlich
 
 
 #### § 45 Ausschreibung von Stellen für Hochschullehrerinnen und Hochschullehrer
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006205310)
 
 Die Stellen für Hochschullehrerinnen und Hochschullehrer sind
 öffentlich und im Regelfall international auszuschreiben. Das
@@ -791,6 +843,7 @@ eine Professur berufen werden soll.
 
 
 #### § 46 Dienstrechtliche Stellung der Professoren
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006303310)
 
 Die Professoren werden, soweit sie in das Beamtenverhältnis berufen
 werden, zu Beamten auf Zeit oder auf Lebenszeit ernannt; durch Gesetz
@@ -798,6 +851,7 @@ kann bestimmt werden, daß eine Probezeit zurückzulegen ist.
 
 
 #### § 47 Einstellungsvoraussetzungen für Juniorprofessorinnen und Juniorprofessoren
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006406310)
 
 Einstellungsvoraussetzungen für Juniorprofessorinnen und
 Juniorprofessoren sind neben den allgemeinen dienstrechtlichen
@@ -825,6 +879,7 @@ entsprechend.
 
 
 #### § 48 Dienstrechtliche Stellung der Juniorprofessorinnen und Juniorprofessoren
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006505310)
 
 (1) Für Juniorprofessorinnen und Juniorprofessoren ist ein
 zweiphasiges Dienstverhältnis vorzusehen, das insgesamt nicht mehr als
@@ -840,26 +895,31 @@ entsprechend.
 
 
 #### § 48a
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE010704310)
 
 (weggefallen)
 
 
 #### § 48b
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE010803310)
 
 (weggefallen)
 
 
 #### § 48c
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE010904310)
 
 (weggefallen)
 
 
 #### § 48d
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE011003310)
 
 (weggefallen)
 
 
 #### § 49 Anwendung der Vorschriften des Beamtenrechtsrahmengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006604310)
 
 Auf beamtete Hochschullehrerinnen und Hochschullehrer sowie
 wissenschaftliche und künstlerische Mitarbeiterinnen und Mitarbeiter
@@ -868,6 +928,7 @@ soweit dieses Gesetz nichts anderes bestimmt.
 
 
 #### § 50 Dienstrechtliche Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006710310)
 
 (1) Die Vorschriften des Beamtenrechtsrahmengesetzes über die
 Laufbahnen und den einstweiligen Ruhestand sind auf
@@ -911,16 +972,19 @@ entsprechend.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006803310)
 
 (weggefallen)
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE006904310)
 
 (weggefallen)
 
 
 #### § 53 Wissenschaftliche und künstlerische Mitarbeiterinnen und Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007005310)
 
 (1) Wissenschaftliche Mitarbeiterinnen und Mitarbeiter sind die
 Beamtinnen, Beamten und Angestellten, denen wissenschaftliche
@@ -946,11 +1010,13 @@ Mitarbeiter entsprechend.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007104310)
 
 (weggefallen)
 
 
 #### § 55 Lehrbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007203310)
 
 Zur Ergänzung des Lehrangebots können Lehraufträge erteilt werden. An
 Kunsthochschulen können Lehraufträge auch zur Sicherstellung des
@@ -963,6 +1029,7 @@ Belastung bei der Bemessung der Dienstaufgaben eines hauptberuflich im
 
 
 #### § 56 Lehrkräfte für besondere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007303310)
 
 Soweit überwiegend eine Vermittlung praktischer Fertigkeiten und
 Kenntnisse erforderlich ist, die nicht die Einstellungsvoraussetzungen
@@ -972,18 +1039,22 @@ werden.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007403310)
 
 (weggefallen)
 
 
 #### (XXXX) §§ 57a bis 57f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE010104310)
 
 
 ## 4. Kapitel - Rechtsstellung der Hochschule
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG000903310)
 
 
 
 ### § 58 Rechtsform und Selbstverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007503310)
 
 (1) Die Hochschulen sind in der Regel Körperschaften des öffentlichen
 Rechts und zugleich staatliche Einrichtungen. Sie können auch in
@@ -996,6 +1067,7 @@ Genehmigung sind gesetzlich zu regeln.
 
 
 ### § 59 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007603310)
 
 Das Land übt die Rechtsaufsicht aus. Die Mittel der Rechtsaufsicht
 werden durch Gesetz bestimmt. Soweit die Hochschulen staatliche
@@ -1004,15 +1076,18 @@ vorzusehen.
 
 
 ### (XXXX) §§ 60 bis 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE007704310)
 
 -
 
 
 ## 5. Kapitel - Staatliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG001302310)
 
 
 
 ### § 70 Anerkennung von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE008708310)
 
 (1) Einrichtungen des Bildungswesens, die nach Landesrecht nicht
 staatliche Hochschulen sind, können nach näherer Bestimmung des
@@ -1068,6 +1143,7 @@ in die zentrale Vergabe von Studienplätzen (§ 31) einzubeziehen.
 
 
 ### § 71 Gleichstellung von Abschlüssen der Notarschule
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE008803310)
 
 Die Abschlüsse der Ausbildung an der Notarschule des Landes Baden-
 Württemberg können den Abschlüssen eines vergleichbaren Studiengangs
@@ -1075,10 +1151,12 @@ an einer staatlichen Hochschule gleichgestellt werden.
 
 
 ## 6. Kapitel - Anpassung des Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG001402310)
 
 
 
 ### § 72 Anpassungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE008917116)
 
 Innerhalb von drei Jahren nach Inkrafttreten dieses Gesetzes in der
 Fassung vom 26. Januar 1976 (BGBl. I S. 185) sind den Vorschriften der
@@ -1124,6 +1202,7 @@ entsprechende Landesgesetze zu erlassen. § 9 gilt unmittelbar.
 
 
 ### § 73 Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE009004310)
 
 (1) Für Hochschulen, die ausschließlich ein weiterbildendes Studium
 anbieten, sowie für Hochschulen mit fachbedingt geringer Studentenzahl
@@ -1140,6 +1219,7 @@ des § 70 Abs. 1 Nr. 1 bis 3 und 5 müssen erfüllt sein.
 
 
 ### § 74 Bisherige Dienstverhältnisse und Berufungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE011900310)
 
 (1) Die bei Inkrafttreten des jeweiligen nach § 72 Abs. 1 Satz 9 zu
 erlassenden Landesgesetzes vorhandenen wissenschaftlichen und
@@ -1156,9 +1236,11 @@ der beiderseitigen Interessen der neuen Rechtslage anzupassen.
 
 
 ### (XXXX) §§ 75 und 75a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE009104320)
 
 
 ### § 76 Besitzstandswahrung bei der Entpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE009303310)
 
 (1) Das Recht der am Tage vor Inkrafttreten des nach § 72 Abs. 1 Satz
 1 erlassenen Gesetzes vorhandenen ordentlichen und außerordentlichen
@@ -1203,6 +1285,7 @@ Beamten- und Besoldungsrecht.
 
 
 ### § 76a Übergangsvorschrift für Hochschulassistenten
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE011102310)
 
 Auf die beim Inkrafttreten des nach § 72 Abs. 1 Satz 2 erlassenen
 Gesetzes vorhandenen Hochschulassistenten finden die sie betreffenden
@@ -1213,25 +1296,30 @@ Fassung Anwendung.
 
 
 ## 7. Kapitel - Änderung von Bundesgesetzen, Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNG001502310)
 
 
 
 ### (XXXX) §§ 77 bis 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE009402310)
 
 (Änderung von Rechtsvorschriften)
 
 
 ### § 81 Verträge mit den Kirchen
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE009802310)
 
 Die Verträge mit den Kirchen werden durch dieses Gesetz nicht berührt.
 
 
 ### § 82
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE009903310)
 
 (weggefallen)
 
 
 ### § 83
+[Direktlink](https://www.gesetze-im-internet.de/hrg/BJNR001850976.html#BJNR001850976BJNE010002310)
 
 (Inkrafttreten)
 

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE001200000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -31,6 +32,7 @@ Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000100000)
 
 Der Ausbildungsberuf Straßenwärter/Straßenwärterin wird staatlich
 anerkannt. Er ist Ausbildungsberuf des öffentlichen Dienstes und der
@@ -41,11 +43,13 @@ gewerblichen Wirtschaft.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000300000)
 
 In der Berufsausbildung zum Straßenwärter/zur Straßenwärterin sind in
 mindestens 22 Wochen insbesondere Fertigkeiten und Kenntnisse aus den
@@ -57,6 +61,7 @@ Ausbildungsstätten zu vermitteln.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -127,6 +132,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000500000)
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -145,12 +151,14 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -159,6 +167,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -212,6 +221,7 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE000901308)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -378,6 +388,7 @@ Prüfung nicht bestanden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE001000000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -386,6 +397,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10a Weitere Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE001400308)
 
 Auf Berufsausbildungsverhältnisse, die bis zum Ablauf des 14. Mai 2007
 begründet worden sind, ist § 9 Abs. 2 in der bis dahin geltenden
@@ -393,12 +405,14 @@ Fassung weiter anzuwenden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Straßenwärter/zur Straßenwärterin
+[Direktlink](https://www.gesetze-im-internet.de/strwausbv_2002/BJNR260400002.html#BJNR260400002BJNE001300000)
 
 (Fundstelle: BGBl. I 2002, 2607 - 2611)
 

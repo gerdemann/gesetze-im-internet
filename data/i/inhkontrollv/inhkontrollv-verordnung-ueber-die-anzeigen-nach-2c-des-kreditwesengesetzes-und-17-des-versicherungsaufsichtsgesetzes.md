@@ -29,9 +29,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNG000100000)
 
 
 ### § 1 Zielunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000102311)
 
 Zielunternehmen im Sinne dieser Verordnung ist
 
@@ -62,6 +64,7 @@ verändert oder aufgegeben wurde.
 
 
 ### § 2 Anzeigenexemplare, Einreichungsweg und Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000204128)
 
 (1) Ist das Zielunternehmen ein Kreditinstitut oder
 Finanzdienstleistungsinstitut, sind die Anzeigen nach § 2c Absatz 1,
@@ -109,6 +112,7 @@ Internetseiten über die elektronischen Einreichungswege.
 
 
 ### § 3 Angaben zum Empfangsbevollmächtigten im Inland
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000301311)
 
 Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz
 oder Geschäftsleitung im Inland müssen im Formular nach § 6 Absatz 1
@@ -119,6 +123,7 @@ oder öffentlich beglaubigte Kopie nachzuweisen.
 
 
 ### § 4 Angaben zu Personen, Personenhandelsgesellschaften, Gesellschaften anderer Rechtsform und Zweckvermögen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000401311)
 
 (1) Die nach dieser Verordnung und nach § 2c Absatz 1 Satz 2 letzter
 Halbsatz des Kreditwesengesetzes und § 17 Absatz 1 Satz 1 Nummer 1
@@ -171,6 +176,7 @@ zu benennen.
 
 
 ### § 5 Kapital- und Stimmrechtsanteile
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000502311)
 
 (1) Bei der Berechnung der Kapital- oder Stimmrechtsanteile nach § 6
 Absatz 2 Satz 1, § 8 Nummer 5, § 11 Absatz 1 Nummer 1 Buchstabe a und
@@ -195,9 +201,11 @@ anzugeben.
 
 
 ## Abschnitt 2 - Anzeige des Erwerbs oder der Erhöhung einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNG000201311)
 
 
 ### § 6 Anzeigeformulare, Vollständigkeit der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000603311)
 
 (1) Für die Anzeigen
 
@@ -259,6 +267,7 @@ Bundesanstalt vollständig eingegangen ist.
 
 
 ### § 7 Änderung der angezeigten Absicht, des angezeigten Erwerbs und der angezeigten Angaben
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000701311)
 
 (1) Gibt der Anzeigepflichtige die Absicht, eine bedeutende
 Beteiligung zu erwerben oder zu erhöhen, vor dem Erwerb oder der
@@ -304,6 +313,7 @@ richtig.
 
 
 ### § 8 Allgemeine Unterlagen und Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000802128)
 
 Den Anzeigen sind folgende Unterlagen und Erklärungen beizufügen:
 
@@ -398,6 +408,7 @@ Den Anzeigen sind folgende Unterlagen und Erklärungen beizufügen:
 
 
 ### § 8a Zusätzliche Unterlagen und Erklärungen bestimmter Anzeigepflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002200311)
 
 (1) Ist der Anzeigepflichtige keine natürliche Person und hat er
 seinen Sitz in einem Drittstaat, so sind den Anzeigen folgende
@@ -476,6 +487,7 @@ beizufügen:
 
 
 ### § 9 Erklärungen und Unterlagen zur Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE000904128)
 
 (1) Der Anzeigepflichtige hat zu jeder Anzeige das Formular „Angaben
 zur Zuverlässigkeit“ nach Anlage 3 einzureichen. Darin hat er
@@ -644,6 +656,7 @@ das Ausstellungsdatum des Dokuments.
 
 
 ### § 10 Lebenslauf
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001003128)
 
 (1) Den Anzeigen sind ein Lebenslauf des Anzeigepflichtigen, sofern
 dieser eine natürliche Person ist, und ein Lebenslauf jeder
@@ -712,6 +725,7 @@ der Anzeige ausgeübt wurden, beizufügen.
 
 
 ### § 11 Beteiligungsverhältnisse und Konzernzugehörigkeit sowie sonstige Einflussmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001102311)
 
 (1) Die Anzeigen müssen folgende Angaben zu den aktivischen und
 passivischen Beteiligungsverhältnissen, zur Konzernzugehörigkeit und
@@ -792,6 +806,7 @@ Aktiengesetzes.
 
 
 ### § 11a Auswirkungen der Gruppenstruktur auf die Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002300311)
 
 Ist der Anzeigepflichtige keine natürliche Person, so ist der Anzeige
 eine Analyse des Umfangs der Beaufsichtigung auf konsolidierter Basis
@@ -808,6 +823,7 @@ bereitzustellen.
 
 
 ### § 12 Erwerbsinteressen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001202311)
 
 (1) Den Anzeigen ist eine ausführliche Darstellung der finanziellen
 und der sonstigen Interessen des Anzeigepflichtigen an der bedeutenden
@@ -884,6 +900,7 @@ des Verwaltungsverfahrensgesetzes genannten Personen.
 
 
 ### § 13 Finanzlage und Bonität des Anzeigepflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001302128)
 
 (1) Der Anzeigepflichtige hat seine wirtschaftlichen Verhältnisse
 darzustellen.
@@ -977,6 +994,7 @@ zu begründen.
 
 
 ### § 14 Finanzierung, Offenlegung sämtlicher Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001401311)
 
 Den Anzeigen sind eine aussagekräftige, lückenlose Darstellung und
 geeignete, lückenlose Nachweise über das Vorhandensein und die
@@ -987,6 +1005,7 @@ geschlossenen Vereinbarungen und Verträge beizufügen.
 
 
 ### § 15 Geschäftsplan, Darstellung strategischer Ziele und Pläne
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001501311)
 
 (1) Erlangt der Anzeigepflichtige durch den Erwerb oder die Erhöhung
 der bedeutenden Beteiligung allein oder im Zusammenwirken mit anderen
@@ -1128,6 +1147,7 @@ Informationen beinhalten:
 
 
 ### § 16 Abweichende Vorlage- und Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001606128)
 
 (1) Der Anzeigepflichtige muss Unterlagen und Erklärungen nicht erneut
 einreichen, die er der Bundesanstalt oder der zuständigen
@@ -1278,9 +1298,11 @@ Absatz 1 Satz 3 entsprechend.
 
 
 ## Abschnitt 3 - Weitere Anzeige- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNG000301311)
 
 
 ### § 17 Anzeige der Verringerung oder Aufgabe einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001701311)
 
 (1) Für die Anzeigen
 
@@ -1315,6 +1337,7 @@ Angabe nicht möglich, hat er dies in der Anlage zu begründen.
 
 
 ### § 18 Anzeige von Änderungen beim Inhaber einer bedeutenden Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001806128)
 
 (1) Der Anzeige nach § 2c Absatz 1 Satz 5 des Kreditwesengesetzes oder
 § 17 Absatz 2 des Versicherungsaufsichtsgesetzes sind für jede neu
@@ -1378,6 +1401,7 @@ oder elektronisch darüber, ob sie auf die Einreichung verzichtet.
 
 
 ### § 19 Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE001903128)
 
 Ist der Inhaber einer bedeutenden Beteiligung kein Kreditinstitut,
 Finanzdienstleistungsinstitut, Wertpapierinstitut,
@@ -1423,10 +1447,12 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002001118)
 
 
 
 ### Anlage 1 (zu § 6 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002401128)
 
 (Fundstelle: BGBl. 2025 I Nr. 277, S. 6 – 21)
 
@@ -1448,6 +1474,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### Anlage 2 (zu § 6 Absatz 2 Satz 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002500311)
 
 (Fundstelle: BGBl. I 2022, 2671 – 2675)
 
@@ -1458,6 +1485,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### Anlage 3 (zu § 9 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002601128)
 
 (Fundstelle: BGBl. 2025 I Nr. 277, S. 22 – 28)
 
@@ -1470,6 +1498,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### Anlage 4 (zu § 9 Absatz 4 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002700311)
 
 (Fundstelle: BGBl. I 2022, 2683 – 2689)
 
@@ -1482,6 +1511,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### Anlage 5 (zu § 9 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002801128)
 
 (Fundstelle: BGBl. 2025 I Nr. 277, S. 29 – 33)
 
@@ -1492,6 +1522,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### Anlage 6 (zu § 9 Absatz 5)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE002901128)
 
 (Fundstelle: BGBl. 2025 I Nr. 277, S. 34 – 49)
 
@@ -1513,6 +1544,7 @@ bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
 
 ### Anlage 7 (zu § 17 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/inhkontrollv/BJNR056210009.html#BJNR056210009BJNE003001128)
 
 (Fundstelle: BGBl. 2025 I Nr. 277, S. 50 – 61)
 

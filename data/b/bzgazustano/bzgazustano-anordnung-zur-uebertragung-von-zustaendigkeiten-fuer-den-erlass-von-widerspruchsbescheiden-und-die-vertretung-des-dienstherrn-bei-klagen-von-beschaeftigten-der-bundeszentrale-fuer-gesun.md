@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bzgazustano/BJNR214200006.html#BJNR214200006BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
@@ -33,6 +34,7 @@ Trennungsgeldverordnung zu entscheiden.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bzgazustano/BJNR214200006.html#BJNR214200006BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt für Beschäftigte der Bundeszentrale für
@@ -45,11 +47,13 @@ Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bzgazustano/BJNR214200006.html#BJNR214200006BJNE000300000)
 
 Diese Anordnung ist mit Wirkung zum 1. Juni 2006 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bzgazustano/BJNR214200006.html#BJNR214200006BJNE000400000)
 
 Die Bundesministerin für Gesundheit
 

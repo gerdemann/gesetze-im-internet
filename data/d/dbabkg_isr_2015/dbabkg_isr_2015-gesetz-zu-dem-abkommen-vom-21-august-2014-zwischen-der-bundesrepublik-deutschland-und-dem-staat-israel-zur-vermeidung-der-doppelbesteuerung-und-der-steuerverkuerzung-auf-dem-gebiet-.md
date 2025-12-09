@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_isr_2015/BJNR130120015.html#BJNR130120015BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_isr_2015/BJNR130120015.html#BJNR130120015BJNE000200000)
 
 Dem in Berlin am 21. August 2014 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der
@@ -34,6 +36,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_isr_2015/BJNR130120015.html#BJNR130120015BJNE000300000)
 
 Sofern nach Artikel 17 Absatz 2 des Abkommens ein Besteuerungsrecht
 der Bundesrepublik Deutschland besteht, wird sie dieses für Steuern,
@@ -42,6 +45,7 @@ ausüben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbabkg_isr_2015/BJNR130120015.html#BJNR130120015BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

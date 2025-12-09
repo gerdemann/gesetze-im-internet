@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## (XXXX) §§ 1 bis 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE000100314)
 
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE000200314)
 
 Zur Erfüllung zwischenstaatlicher Vereinbarungen, welche die Deutsche
 Demokratische Republik abgeschlossen hat, können gegenüber Personen,
@@ -43,20 +45,24 @@ entschädigen.
 
 
 ## (XXXX) §§ 9 bis 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE000300314)
 
 
 
 ## § 50
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE000500314)
 
 -
 
 
 ## § 51
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE000600314)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE000700314)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
@@ -64,6 +70,7 @@ Republik**
 Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II
 
 ## Anhang EV (BGBl. II 1990, 889, 1202)
+[Direktlink](https://www.gesetze-im-internet.de/awkzg/DDNR005150990.html#DDNR005150990BJNE888800301)
 
 Abschnitt II
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

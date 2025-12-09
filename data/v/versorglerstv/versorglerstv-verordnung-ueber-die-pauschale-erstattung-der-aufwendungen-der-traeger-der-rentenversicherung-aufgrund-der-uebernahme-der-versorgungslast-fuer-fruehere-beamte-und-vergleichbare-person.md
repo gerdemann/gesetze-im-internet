@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000100307)
 
 Auf Grund des § 292a des Sechsten Buches Sozialgesetzbuch, der durch
 Artikel 1 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt
@@ -31,6 +32,7 @@ Bundesminister der Finanzen:
 
 
 ## § 1 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000201126)
 
 (1) Der Bund erstattet den Trägern der gesetzlichen Rentenversicherung
 bei Renten, die nach den Vorschriften des Beitrittsgebietes berechnet
@@ -48,12 +50,14 @@ Maßgabe des § 3 vom Bundesamt für Soziale Sicherung festgesetzt.
 
 
 ## § 2 Pauschaler Erstattungsbetrag für das erste Halbjahr 1992
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000300307)
 
 Der pauschale Erstattungsbetrag beträgt für das erste Halbjahr 1992 98
 Millionen DM.
 
 
 ## § 3 Pauschale Erstattungsbeträge für die Folgezeit
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000402126)
 
 (1) In der Folgezeit verändert sich der pauschale Erstattungsbetrag
 halbjährlich
@@ -140,6 +144,7 @@ die pauschalen Erstattungsbeträge auf volle 500 Euro aufrunden.
 
 
 ## § 4 Fälligkeit der pauschalen Erstattungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000502126)
 
 (1) Die pauschalen Erstattungsbeträge für das jeweilige Halbjahr sind
 jeweils an den Auszahlungstagen der Rentenleistungen in das Inland der
@@ -154,6 +159,7 @@ knappschaftlichen Rentenversicherung aus.
 
 
 ## § 5 Aufteilung der pauschalen Erstattungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000601308)
 
 (1) Die Aufteilung der pauschalen Erstattungsbeträge auf die
 Rentenversicherung der Arbeiter und der Angestellten sowie die
@@ -174,11 +180,13 @@ Bund durch.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000700307)
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/versorglerstv/BJNR023460991.html#BJNR023460991BJNE000800307)
 
 Der Bundesrat hat zugestimmt.
 

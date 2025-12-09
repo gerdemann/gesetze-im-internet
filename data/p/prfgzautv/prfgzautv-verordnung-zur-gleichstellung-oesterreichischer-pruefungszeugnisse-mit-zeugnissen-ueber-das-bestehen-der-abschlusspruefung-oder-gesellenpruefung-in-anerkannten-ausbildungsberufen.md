@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzautv/BJNR007710990.html#BJNR007710990BJNE000100308)
 
 Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom
@@ -35,6 +36,7 @@ Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/prfgzautv/BJNR007710990.html#BJNR007710990BJNE000201308)
 
 Diese Verordnung dient der Umsetzung des Abkommens zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung der
@@ -45,6 +47,7 @@ beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S.
 
 
 ## § 2 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/prfgzautv/BJNR007710990.html#BJNR007710990BJNE000402308)
 
 Österreichische Zeugnisse über das Bestehen der Lehrabschlußprüfung
 werden den Zeugnissen über das Bestehen der Abschlußprüfung oder
@@ -53,12 +56,14 @@ der Anlage enthaltenen Aufstellung gleichgestellt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzautv/BJNR007710990.html#BJNR007710990BJNE000500308)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Wirtschaft
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/prfgzautv/BJNR007710990.html#BJNR007710990BJNE000605308)
 
 **Aufstellung der gleichgestellten Prüfungszeugnisse**
 
@@ -3689,6 +3694,7 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 und Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 998, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/prfgzautv/BJNR007710990.html#BJNR007710990BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

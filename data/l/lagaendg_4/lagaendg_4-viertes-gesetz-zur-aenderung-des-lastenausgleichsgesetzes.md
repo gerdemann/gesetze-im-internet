@@ -18,30 +18,36 @@ Fundstelle
 
 
 ## Art I - Änderung des Lastenausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000100326)
 
 -
 
 
 ## Art II - Änderung des Feststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000200326)
 
 -
 
 
 ## Art III - Änderung des Gesetzes über einen Währungsausgleich für Sparguthaben Vertriebener
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000300326)
 
 -
 
 
 ## Art IV - Änderung des Altsparergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000400326)
 
 -
 
 
 ## Art V - Sonstige und Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000500326)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNE000800326)
 
 Wird der Antrag auf Gewährung von Kriegsschadenrente bis zum 31.
 Dezember 1955 gestellt, wird Kriegsschadenrente abweichend von § 287
@@ -69,6 +75,7 @@ sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNE000900326)
 
 Soweit Leistungen aus dem Härtefonds (§ 301 LAG) an Personen gewährt
 worden sind, die nach dem Lastenausgleichsgesetz in der Fassung dieses
@@ -94,6 +101,7 @@ Gesetzes Schäden geltend machen können, gilt folgendes:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNE001000326)
 
 (1) Das Gesetz über die Gewährung von Vorschußzahlungen an Empfänger
 von Unterhaltshilfe nach dem Lastenausgleichsgesetz vom 13. November
@@ -111,6 +119,7 @@ der Fassung dieses Gesetzes).
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNE001100326)
 
 Soweit bis zum Ende des Monats, in dem dieses Gesetz verkündet wird,
 auf Grund der bisher geltenden Vorschriften laufende Leistungen mit
@@ -120,6 +129,7 @@ bezahlter Beträge nicht statt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNE001200326)
 
 Bei der Anwendung des § 6 Abs. 2 des Lastenausgleichsgesetzes in der
 vor dem Inkrafttreten dieses Gesetzes geltenden Fassung sind Beträge,
@@ -129,6 +139,7 @@ der 19 folgenden Rechnungsjahre anzusetzen.
 
 
 ## Art VI - Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000600326)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
@@ -136,6 +147,7 @@ auch im Land Berlin.
 
 
 ## Art VII - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_4/BJNR004039955.html#BJNR004039955BJNG000700326)
 
 Die Vorschriften dieses Gesetzes treten am Tage nach seiner Verkündung
 in Kraft. Soweit durch dieses Gesetz Vorschriften bestehender Gesetze

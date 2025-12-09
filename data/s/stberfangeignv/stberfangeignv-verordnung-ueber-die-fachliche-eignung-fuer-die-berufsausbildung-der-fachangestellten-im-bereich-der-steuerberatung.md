@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stberfangeignv/BJNR277600005.html#BJNR277600005BJNE000100000)
 
 Auf Grund des § 30 Abs. 4 Nr. 3 des Berufsbildungsgesetzes vom 23.
 März 2005 (BGBl. I S. 931) verordnet das Bundesministerium der
@@ -28,6 +29,7 @@ und Forschung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stberfangeignv/BJNR277600005.html#BJNR277600005BJNE000200000)
 
 Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten,
 Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf
@@ -39,6 +41,7 @@ ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stberfangeignv/BJNR277600005.html#BJNR277600005BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 2005 in Kraft.
 

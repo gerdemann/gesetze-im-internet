@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000100000)
 
 Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch
 in Verbindung mit § 161 Absatz 1, § 162, § 212 Absatz 1, § 219 Absatz
@@ -31,6 +32,7 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000200000)
 
 (1) Diese Verordnung gilt für
 
@@ -70,6 +72,7 @@ kleinerer Verein, sind die §§ 2 bis 4 nicht anzuwenden.
 
 
 ## § 2 Versicherungsmathematische Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000301118)
 
 (1) Bei Lebensversicherungsunternehmen gemäß § 1 Absatz 1 Nummer 1 hat
 die versicherungsmathematische Bestätigung
@@ -177,6 +180,7 @@ Ist kein Altbestand vorhanden, so lautet dieser Halbsatz stattdessen:
 
 
 ## § 3 Abgabe der versicherungsmathematischen Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000400000)
 
 (1) Der Verantwortliche Aktuar hat die versicherungsmathematische
 Bestätigung nach Maßgabe des § 2 abzugeben, wenn keine Einwendungen zu
@@ -190,6 +194,7 @@ Inhalt und Tragweite der Einschränkung klar umrissen werden.
 
 
 ## § 4 Erläuterungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000500000)
 
 (1) Der Verantwortliche Aktuar hat im Erläuterungsbericht anzugeben,
 inwieweit nach den anerkannten Regeln der Versicherungsmathematik eine
@@ -289,6 +294,7 @@ Fassung verwiesen werden. Absatz 4 Satz 2 bleibt hiervon unberührt.
 
 
 ## § 5 Angemessenheitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000601118)
 
 (1) Der Verantwortliche Aktuar hat im Angemessenheitsbericht
 darzulegen, dass die dauernde Erfüllbarkeit der sich aus den
@@ -349,6 +355,7 @@ verwiesen werden.
 
 
 ## § 6 Vorlagefristen
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000700000)
 
 (1) Der Verantwortliche Aktuar hat den Erläuterungsbericht und den
 Angemessenheitsbericht bei Abgabe der versicherungsmathematischen
@@ -368,6 +375,7 @@ Vorschlag für die Beteiligung am Überschuss vorzulegen.
 
 
 ## § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000800000)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
@@ -380,6 +388,7 @@ geltenden Fassung anzuwenden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aktuarv_2016/BJNR077600016.html#BJNR077600016BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ibrd_ifcabk_ndg/BJNR210890965.html#BJNR210890965BJNE000100326)
 
 Der Änderung von Artikel III des Abkommens über die Internationale
 Bank für Wiederaufbau und Entwicklung (Bundesgesetzbl. 1952 II S. 637)
@@ -30,16 +31,19 @@ ersichtlichen Fassung wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ibrd_ifcabk_ndg/BJNR210890965.html#BJNR210890965BJNE000201118)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ibrd_ifcabk_ndg/BJNR210890965.html#BJNR210890965BJNE000301118)
 
 (weggefallen)
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ibrd_ifcabk_ndg/BJNR210890965.html#BJNR210890965BJNE000400326)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

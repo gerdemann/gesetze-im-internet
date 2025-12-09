@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000100319)
 
 Auf Grund des § 5 Nr. 2, 4, 5 und des § 20 des Lebensmittelgesetzes in
 der Fassung vom 17. Januar 1936 (Reichsgesetzbl. I S. 17) wird
@@ -30,11 +31,13 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000201306)
 
 -
 
 
 ## § 1a
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000303116)
 
 (1) Die nachstehenden Lebensmittelzusatzstoffe werden zur
 Vitaminisierung von Lebensmitteln allgemein zugelassen:
@@ -60,6 +63,7 @@ verbieten oder einschränken.
 
 
 ## § 1b
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000405116)
 
 (1) Mit nachstehenden Beschränkungen werden zur Vitaminisierung
 zugelassen:
@@ -105,12 +109,14 @@ bleiben unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000504116)
 
 Vitaminisierte Lebensmittel dürfen mit einem Hinweis auf ihren
 Vitamingehalt nur in Verpackungen in den Verkehr gebracht werden.
 
 
 ## § 2a
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000605116)
 
 (1) (weggefallen)
 
@@ -133,6 +139,7 @@ Lebensmittel in den Verkehr bringt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000701320)
 
 (1) Diese Verordnung tritt am 1. Oktober 1942 in Kraft.
 
@@ -144,11 +151,13 @@ bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
 
 ## § 4 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000702130)
 
 Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lmvitv/BJNR005380942.html#BJNR005380942BJNE000801130)
 
 Der Reichsminister des Innern
 Der Reichsminister für Ernährung und Landwirtschaft

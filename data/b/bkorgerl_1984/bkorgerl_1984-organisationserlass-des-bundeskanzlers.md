@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1984/BJNR116890984.html#BJNR116890984BJNE000100333)
 
 Der Staatssekretär beim Bundeskanzler wird zum Beauftragten für die
 Nachrichtendienste bestellt. Er untersteht dem Bundeskanzler
@@ -28,12 +29,14 @@ Bundeskanzleramtes fachaufsichtlich unterstellt.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1984/BJNR116890984.html#BJNR116890984BJNE000200333)
 
 Dem Staatssekretär beim Bundeskanzler und Beauftragten für die
 Nachrichtendienste ist der Bundesnachrichtendienst unterstellt.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1984/BJNR116890984.html#BJNR116890984BJNE000300333)
 
 Dem Beauftragten für die Nachrichtendienste obliegt die Koordinierung
 und Intensivierung der Zusammenarbeit des Bundesnachrichtendienstes,
@@ -106,6 +109,7 @@ Zusammenarbeit mit anderen Behörden und Dienststellen.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1984/BJNR116890984.html#BJNR116890984BJNE000400333)
 
 Das Bundesministerium des Innern und das Bundesministerium der
 Verteidigung unterrichten den Beauftragten für die Nachrichtendienste

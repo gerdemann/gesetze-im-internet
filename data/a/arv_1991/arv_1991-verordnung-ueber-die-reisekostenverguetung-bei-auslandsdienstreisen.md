@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000100308)
 
 Auf Grund des § 20 Abs. 3 des Bundesreisekostengesetzes in der Fassung
 der Bekanntmachung vom 13. November 1973 (BGBl. I S. 1621), der durch
@@ -28,6 +29,7 @@ geändert worden ist, verordnet der Bundesminister des Innern:
 
 
 ## § 1 Geltung des Bundesreisekostengesetzes, Dienstreiseanordnung und -genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000202116)
 
 (1) Wenn und soweit in dieser Verordnung nichts Abweichendes bestimmt
 ist, gelten die Vorschriften des Bundesreisekostengesetzes.
@@ -42,6 +44,7 @@ Betracht kommt.
 
 
 ## § 2 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000305360)
 
 (1) Bei Bahnreisen werden die Kosten für das Benutzen der ersten
 Klasse erstattet. Abweichend von Satz 1 werden bei Reisen innerhalb
@@ -72,6 +75,7 @@ Benutzen einer Zwei-Bett-Kabine im Zwischen- oder Oberdeck erstattet.
 
 
 ## § 3 Auslandstagegeld, Auslandsübernachtungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000405377)
 
 (1) Die Auslandstage- und Auslandsübernachtungsgelder werden für
 Auslandsdienstreisen mit einer Abwesenheit von 24 Stunden in Höhe der
@@ -100,6 +104,7 @@ Absatz 1 gilt entsprechend.
 
 
 ## § 4 Grenzübertritt
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000502310)
 
 (1) Das Auslandstage- und Auslandsübernachtungsgeld oder Inlandstage-
 und Inlandsübernachtungsgeld bestimmt sich nach dem Land, das der
@@ -126,6 +131,7 @@ besondere Auslandstage- und Auslandsübernachtungsgelder nach § 3 Abs.
 
 
 ## § 5 Reisekostenvergütung bei längerem Aufenthalt am Geschäftsort, Kostenerstattung für das Beschaffen klimagerechter Bekleidung
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000603360)
 
 (1) Dauert der Aufenthalt an demselben ausländischen Geschäftsort ohne
 Hin- und Rückreisetage länger als 14 Tage, ist das Auslandstagegeld
@@ -152,6 +158,7 @@ erstattet.
 
 
 ## § 6 Erkrankung während der Auslandsdienstreise
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000703377)
 
 Erkrankt ein Auslandsdienstreisender und kann er deswegen nicht an
 seinen Wohnort zurückkehren, wird Reisekostenvergütung weitergezahlt.
@@ -167,11 +174,13 @@ Absatz 4a Satz 2 und 3 Nummer 1 des Einkommensteuergesetzes.
 
 
 ## (XXXX)§§ 7 und 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE000801360)
 
 
 (zu § 2 Absatz 2 Satz 1 Nummer 1)
 
 ## Anlage Liste der Staaten Europas
+[Direktlink](https://www.gesetze-im-internet.de/arv_1991/BJNR011400991.html#BJNR011400991BJNE008100360)
 
 (Fundestelle: BGBl. I 2021, 661)
 

@@ -28,6 +28,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000100000)
 
 Auf Grund der §§ 14 und 15 des Beschussgesetzes vom 11. Oktober 2002
 (BGBl. I S. 3970, 4003), von denen § 14 Abs. 2 Satz 2 durch Artikel
@@ -43,10 +44,12 @@ des Waffengesetzes nach Anhörung der beteiligten Kreise:
 
 
 ## Abschnitt 1 - Beschussprüfung von Schusswaffen und Böllern
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000100000)
 
 
 
 ### § 1 Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000301128)
 
 (1) Feuerwaffen, Böller sowie höchstbeanspruchte Teile nach § 2 Abs. 2
 des Beschussgesetzes (Gesetzes), die ohne Nacharbeit ausgetauscht
@@ -97,6 +100,7 @@ prüfen sowie einer Sichtprüfung nach Absatz 3 Satz 2 zu unterziehen.
 
 
 ### § 2 Prüfung von Schwarzpulverwaffen und Böllern
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000401377)
 
 (1) Auf die Prüfung von Vorderladerwaffen sowie Hinterladerwaffen, die
 für die ausschließliche Verwendung von nichtpatroniertem Schwarzpulver
@@ -177,6 +181,7 @@ Beschussbescheinigung über die Prüfung aufzunehmen:
 
 
 ### § 3 Mindestzustand des Prüfgegenstandes
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000501123)
 
 (1) Die Beschussprüfung ist an gebrauchsfertigen Prüfgegenständen
 durchzuführen. Bei Mehrladewaffen gehört zur gebrauchsfertigen Waffe
@@ -218,6 +223,7 @@ Munition nicht in den Maßtafeln aufgeführt ist. Dies gilt nicht, wenn
 
 
 ### § 4 Zurückweisung vom Beschuss
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000601123)
 
 Die Prüfgegenstände sind zurückzuweisen und dem Antragsteller nach
 Aufbringung des Rückgabezeichens entsprechend § 9 Absatz 4
@@ -243,6 +249,7 @@ Waffe fordern.
 
 
 ### § 5 Instandsetzungsbeschuss
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000700000)
 
 (1) Eine erneute amtliche Prüfung nach § 5 Abs. 1 des Gesetzes ist
 vorzunehmen, wenn
@@ -275,6 +282,7 @@ anzuwenden.
 
 
 ### § 6 Wiederholungsbeschuss und freiwillige Beschussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000801123)
 
 (1) Böller sind vor Ablauf von fünf Jahren einer Wiederholungsprüfung
 zu unterziehen.
@@ -299,10 +307,12 @@ Absatz 4 bezeichnete Rückgabezeichen anzubringen.
 
 
 ## Abschnitt 2 - Verfahren der Beschussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000200000)
 
 
 
 ### § 7 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE000901118)
 
 (1) Die Beschussprüfung ist schriftlich oder elektronisch zu
 beantragen; die zuständige Behörde kann in begründeten Fällen
@@ -379,6 +389,7 @@ der Vorlage bei einer anderen Behörde zustimmt.
 
 
 ### § 8 Überlassung von Prüfhilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001000000)
 
 (1) Wird in Feuerwaffen und sonstigen Prüfgegenständen Munition oder
 eine Ladung verwendet, die von der zuständigen Behörde nicht beschafft
@@ -408,6 +419,7 @@ Anforderungen nach Anlage I Nr. 2.3.2 bis 2.3.5 entspricht.
 
 
 ### § 9 Aufbringen der Prüfzeichen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001101123)
 
 (1) Die Prüfgegenstände sind mit dem jeweiligen amtlichen
 Beschusszeichen nach Anlage II Abbildung 1 zu versehen. In den Fällen
@@ -449,6 +461,7 @@ höchstbeanspruchte Teile unbrauchbar, so sind sie ebenfalls mit einem
 
 
 ### § 10 Bescheinigung über das Beschussverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001202123)
 
 (1) Die zuständige Behörde hat eine beschusstechnische Bescheinigung
 auszustellen
@@ -494,10 +507,12 @@ auf Antrag eine Bescheinigung im Sinne des Absatzes 3 aus.
 
 
 ## Abschnitt 3 - Bauartzulassung und Zulassung für besondere Schusswaffen und besondere Munition; Einzelzulassung von unbrauchbar gemachten Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000301128)
 
 
 
 ### § 11 Bauartzulassung für besondere Schusswaffen, pyrotechnische Munition und Schussapparate; Einzelzulassung von unbrauchbar gemachten Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001305123)
 
 (1) Die nach § 7 des Gesetzes der Zulassung unterliegenden
 Schussapparate, Einsteckläufe ohne eigenen Verschluss für Munition mit
@@ -574,6 +589,7 @@ zusätzlich auf der Schusswaffe anbringen.
 
 
 ### § 12 Modellbezeichnung bei Bauartzulassungen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001400000)
 
 Die der Zulassung unterliegenden Gegenstände dürfen keine
 Modellbezeichnung haben, die zur Irreführung geeignet ist oder eine
@@ -582,6 +598,7 @@ hervorrufen kann. Die Vorschriften des Markenrechts bleiben unberührt.
 
 
 ### § 13 Inverkehrbringen von Schussapparaten aus Staaten, mit denen die gegenseitige Anerkennung der Prüfzeichen vereinbart ist
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001500000)
 
 Wer Schussapparate, die von der Stelle eines Staates zugelassen sind,
 mit dem die gegenseitige Anerkennung der Prüfzeichen vereinbart ist,
@@ -595,6 +612,7 @@ und Abs. 4 gilt entsprechend.
 
 
 ### § 14 Beschaffenheit pyrotechnischer Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001600000)
 
 (1) Wer pyrotechnische Munition herstellt oder in den Geltungsbereich
 des Gesetzes verbringt, darf diese anderen nur überlassen, wenn ihre
@@ -636,6 +654,7 @@ Nachweise über die Prüfung sind drei Jahre lang aufzubewahren.
 
 
 ### § 15 Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte und Reizstoffe sowie an Elektroimpulsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001700000)
 
 (1) Kartuschenmunition mit Reizstoffen und Geräte, aus denen zu
 Angriffs- oder Verteidigungszwecken Reizstoffe versprüht oder
@@ -671,6 +690,7 @@ beauftragen.
 
 
 ### § 16 Kennzeichnung der Verpackung von Reizstoffgeschossen und Reizstoffsprühgeräten
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001800000)
 
 (1) Auf der kleinsten Verpackungseinheit von Reizstoffgeschossen sind
 außer der Kennzeichnung nach § 24 Abs. 3 des Waffengesetzes folgende
@@ -731,6 +751,7 @@ missbräuchlichen Benutzung zu beschreiben sind.
 
 
 ### § 17 Abweichungen vom Kennzeichnungsgrundsatz bei besonderen Munitionsarten
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE001900000)
 
 (1) Auf pyrotechnischer Munition der Klasse PM II ist außer der
 Kennzeichnung nach § 24 Abs. 3 des Waffengesetzes die Jahreszahl der
@@ -810,10 +831,12 @@ sowie außerdem mit der Typenbezeichnung zu kennzeichnen.
 
 
 ## Abschnitt 4 - Verfahren bei der Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000400000)
 
 
 
 ### § 18 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002002118)
 
 (1) Die Bauartzulassung ist schriftlich oder elektronisch zu
 beantragen. Der Antragsteller hat in dem Antrag anzugeben:
@@ -921,6 +944,7 @@ Betriebsort vornehmen.
 
 
 ### § 19 Zuständigkeit und Zulassungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002100000)
 
 (1) Über Anträge nach den §§ 7, 8 und 9 Abs. 2 und 4 des Gesetzes
 entscheidet die Physikalisch-Technische Bundesanstalt. Über Anträge
@@ -979,6 +1003,7 @@ Zwecke bestimmt sind.
 
 
 ### § 20 Zulassungszeichen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002200000)
 
 (1) Die Zulassungsbehörde hat dem Zulassungsinhaber die Verwendung
 eines Zulassungszeichens vorzuschreiben.
@@ -1001,6 +1026,7 @@ Verpackungseinheit.
 
 
 ### § 21 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002300000)
 
 (1) Die Zulassung der Bauart der in den §§ 7, 8 und 9 Abs. 5 des
 Gesetzes bezeichneten Gegenstände, ihre Änderung, Berichtigung,
@@ -1052,10 +1078,12 @@ Handfeuerwaffen Mitteilung zu machen über
 
 
 ## Abschnitt 4a - Verfahren bei der Prüfung von unbrauchbar gemachten Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG001100128)
 
 
 
 ### § 21a Prüfverfahren und Kennzeichnung der geprüften Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE005300128)
 
 (1) Die zuständige Behörde prüft auf Antrag, ob die ihr auf der
 Grundlage des § 8a des Gesetzes vorgelegten Schusswaffen nach Maßgabe
@@ -1087,6 +1115,7 @@ denn, dass die Behörde der Vorlage bei einer anderen Behörde zustimmt.
 
 
 ### § 21b Maßnahmen zur Verhinderung des Zerlegens
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE005400128)
 
 (1) Nachdem die zuständige Behörde die ordnungsgemäße
 Unbrauchbarmachung festgestellt hat, muss der Antragsteller die
@@ -1105,6 +1134,7 @@ der zuvor zur Prüfung vorgelegten Schusswaffe übereinstimmt.
 
 
 ### § 21c Bescheinigung über die Unbrauchbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE005500128)
 
 Hat die zuständige Behörde die ordnungsgemäße Unbrauchbarmachung der
 Schusswaffe nach § 21a Absatz 1 festgestellt und hat der Antragsteller
@@ -1115,10 +1145,12 @@ in Anhang III der Durchführungsverordnung (EU) 2015/2403 aus.
 
 
 ## Abschnitt 5 - Periodische Fabrikationskontrolle, Einzelfallprüfung, Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000500000)
 
 
 
 ### § 22 Periodische Fabrikationskontrollen für Schussapparate und Einsteckläufe
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002400000)
 
 Schussapparate und Einsteckläufe, deren Bauart von der Physikalisch-
 Technischen Bundesanstalt zugelassen ist, sind in Abständen von
@@ -1133,6 +1165,7 @@ vorzulegen.
 
 
 ### § 23 Überprüfung im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002500000)
 
 (1) Rechtfertigen Tatsachen die Annahme, dass Prüfgegenstände nach den
 §§ 7 und 8 des Gesetzes, deren Bauart von der Physikalisch-Technischen
@@ -1154,6 +1187,7 @@ Dritter hervorrufen.
 
 
 ### § 24 Wiederholungsprüfung betriebener Schussapparate
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002600000)
 
 (1) Der Betreiber eines Schussapparates oder eines nicht tragbaren
 Gerätes, in dem zum Antrieb in Hülsen untergebrachte Treibladungen
@@ -1189,6 +1223,7 @@ Niederlassung besitzt.
 
 
 ### § 25 Prüfzeichen bei Wiederholungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002700000)
 
 (1) Hat die Prüfung eines Gerätes nach § 24 Abs. 1 keine
 Beanstandungen ergeben, so hat die prüfende Stelle das Prüfzeichen
@@ -1209,10 +1244,12 @@ hervorgehen.
 
 
 ## Abschnitt 6 - Festlegung der Maße und Energiewerte für Feuerwaffen (Maßtafeln), Einsteck- und Austauschläufe sowie für Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000600000)
 
 
 
 ### § 26 Zulässige und nicht zulässige Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002801123)
 
 (1) In den Maßtafeln werden festgelegt
 
@@ -1260,6 +1297,7 @@ Maßtafeln festgelegten Maße nur für die Hülse.
 
 
 ### § 27 Abweichungen von den Maßtafeln
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE002900000)
 
 (1) Anstelle der in den Maßtafeln für Munition festgelegten
 Bezeichnung darf eine andere Bezeichnung zugelassen werden, wenn sie
@@ -1309,10 +1347,12 @@ Abweichungen von den Maßen nach Anlage I Nr. 1.1.3 hervorgehen.
 
 
 ## Abschnitt 7 - Zulassung von Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000700000)
 
 
 
 ### § 28 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003000000)
 
 (1) Der Typ einer Patronen- oder Kartuschenmunition wird bestimmt
 durch die in den Maßtafeln festgelegte Bezeichnung oder durch eine
@@ -1336,6 +1376,7 @@ zugelassene Bezeichnung nach § 27 Abs. 1 Satz 1.
 
 
 ### § 29 Zulassung und Prüfung von Patronen- und Kartuschenmunition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003100000)
 
 Die Zulassungsprüfung nach § 11 des Gesetzes umfasst die Prüfung
 
@@ -1368,6 +1409,7 @@ Die Zulassungsprüfung nach § 11 des Gesetzes umfasst die Prüfung
 
 
 ### § 30 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003200000)
 
 (1) Der Antrag hat Angaben zu enthalten über
 
@@ -1418,6 +1460,7 @@ Stück Patronen oder Kartuschen zur wahllosen Probennahme verlangen.
 
 
 ### § 31 Prüfmethoden
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003300000)
 
 (1) Prüfungen nach § 29 Nr. 4, 5 und 6 und die der statistischen
 Grenzwerte werden nach den anerkannten Methoden der Messtechnik
@@ -1451,6 +1494,7 @@ zugelassenen Maße zu übermitteln.
 
 
 ### § 32 Form der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003400000)
 
 (1) Die Zulassung ist dem Hersteller oder demjenigen, dessen Name,
 Firma oder Marke auf der Munition angegeben ist, schriftlich zu
@@ -1488,6 +1532,7 @@ Geltungsbereich des Gesetzes eine gewerbliche Niederlassung hat.
 
 
 ### § 33 Fabrikationskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003500000)
 
 (1) Der Zulassungsinhaber ist verpflichtet, alle Munitionslose
 Fabrikationskontrollen nach Anlage III zu unterziehen, bevor sie in
@@ -1542,6 +1587,7 @@ Kontrolle, mindestens jedoch fünf Jahre aufzubewahren.
 
 
 ### § 34 Behördliche Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003600000)
 
 (1) Der Zulassungsinhaber hat mindestens alle drei Jahre die
 Durchführung einer behördlichen Kontrolle bei der Zulassungsbehörde zu
@@ -1573,6 +1619,7 @@ Behörde eine angemessene Frist zur Beseitigung der Mängel.
 
 
 ### § 35 Überprüfung im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003700000)
 
 (1) Rechtfertigen Tatsachen die Annahme, dass Munition, deren Typ von
 der zuständigen Behörde zugelassen ist, oder gewerbsmäßig
@@ -1592,6 +1639,7 @@ erforderlichen Sicherheitsmaßnahmen.
 
 
 ### § 36 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003800000)
 
 (1) Die Zulassung nach § 11 des Gesetzes, ihre Änderung, Rücknahme und
 ihr Widerruf werden im Amts- und Mitteilungsblatt der Physikalisch-
@@ -1615,6 +1663,7 @@ Handfeuerwaffen Mitteilung zu machen über
 
 
 ### § 37 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE003900000)
 
 (1) Der Zulassung nach § 11 Abs. 1 des Gesetzes sowie der
 Fabrikationskontrolle und der periodischen behördlichen Kontrolle
@@ -1646,10 +1695,12 @@ muss den Anforderungen nach § 29 entsprechen.
 
 
 ## Abschnitt 8 - Verpackung, Kennzeichnung und Lagerung von Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000800000)
 
 
 
 ### § 38 Verpackung von Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004000000)
 
 (1) Wer Munition gewerbsmäßig herstellt oder einführt, hat die
 Gegenstände in der Verpackung so anzuordnen und zu verteilen, dass
@@ -1671,6 +1722,7 @@ verpacken.
 
 
 ### § 39 Kennzeichnung der Verpackungen und Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004100000)
 
 (1) Außer der Kennzeichnung nach § 24 Abs. 3 des Waffengesetzes müssen
 auf der kleinsten Verpackungseinheit angebracht werden
@@ -1770,6 +1822,7 @@ Beförderung gefährlicher Güter bleiben unberührt.
 
 
 ### § 40 Lagerung von Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004200000)
 
 (1) Wer gewerbsmäßig Munition oder Geschosse mit Reizstoffen vertreibt
 oder anderen überlässt, darf sie nur in der verschlossenen
@@ -1783,10 +1836,12 @@ verwahrt werden.
 
 
 ## Abschnitt 9 - Beschussrat
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG000900000)
 
 
 
 ### § 41 Beschussrat
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004303128)
 
 (1) Beim Bundesministerium des Innern, für Bau und Heimat wird ein
 Beschussrat gebildet. Den Vorsitz führt ein Vertreter des
@@ -1856,10 +1911,12 @@ aus.
 
 
 ## Abschnitt 10 - Ordnungswidrigkeiten und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNG001000000)
 
 
 
 ### § 42 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004400000)
 
 (1) Ordnungswidrig im Sinne des § 21 Abs. 1 Nr. 11 des Gesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -1904,16 +1961,19 @@ Gesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 43 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004600000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage I Technische Anforderungen an und Prüfvorschriften für Feuerwaffen und sonstige Gegenstände, die der Beschussprüfung nach § 5 des Gesetzes unterliegen, und technische Anforderungen an Prüfgegenstände nach den §§ 7 bis 10 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004702123)
 
 (Fundstelle: BGBl. I 2006, 1488 - 1499;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -4609,6 +4669,7 @@ Februar 2000).
 
 
 ### Anlage II Beschusszeichen, Prüfzeichen
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004802123)
 
 ( Fundstelle: BGBl. I 2006, 1500 - 1503;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -4858,6 +4919,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ### Anlage III Prüfvorschriften für Patronen- und Kartuschenmunition
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE004901377)
 
    (Fundstelle: BGBl. I 2006, 1504 - 1522;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7149,6 +7211,7 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
 
 ### Anlage IV Anforderungen an Reizstoffgeschosse, Reizstoffsprühgeräte und die dafür verwendeten Reizstoffe
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE005000000)
 
 ( Fundstelle: BGBl. I 2006, 1523 )
 
@@ -7267,6 +7330,7 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
 
 ### Anlage V Grenzwerte für Elektroimpulsgeräte nach § 15 Abs. 5
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE005101377)
 
 ( Fundstelle: BGBl. I 2006, 1524 - 1526;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -7357,6 +7421,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 ### Anlage VI Ermittlung der Bewegungsenergie der Geschosse
+[Direktlink](https://www.gesetze-im-internet.de/beschussv/BJNR147400006.html#BJNR147400006BJNE005201377)
 
 ( Fundstelle des Originaltextes: BGBl. I 2006, 1527;
 bzgl. der einzelnen Änderungen vgl. Fußnote )

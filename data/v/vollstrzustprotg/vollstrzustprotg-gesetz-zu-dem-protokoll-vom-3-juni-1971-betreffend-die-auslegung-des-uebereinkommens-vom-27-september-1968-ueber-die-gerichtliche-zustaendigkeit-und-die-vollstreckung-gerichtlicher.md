@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzustprotg/BJNR208450972.html#BJNR208450972BJNE000100306)
 
 Dem in Luxemburg am 3. Juni 1971 von der Bundesrepublik Deutschland
 unterzeichneten Protokoll betreffend die Auslegung des Übereinkommens
@@ -32,6 +33,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzustprotg/BJNR208450972.html#BJNR208450972BJNE000200306)
 
 In dem Beschluß, mit dem die Auslegungsfrage dem Gerichtshof zur
 Vorabentscheidung vorgelegt wird, ist die auszulegende Vorschrift zu
@@ -41,18 +43,21 @@ Auslegungsfrage erforderlich ist, in gedrängter Form darzustellen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzustprotg/BJNR208450972.html#BJNR208450972BJNE000301301)
 
 Die Aufgaben der zuständigen Stelle im Sinne des Artikels 4 des
 Protokolls nimmt das Bundesamt für Justiz wahr.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzustprotg/BJNR208450972.html#BJNR208450972BJNE000400306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrzustprotg/BJNR208450972.html#BJNR208450972BJNE000500306)
 
 (1) Dieses Gesetz tritt am Tage nach seine Verkündung in Kraft.
 

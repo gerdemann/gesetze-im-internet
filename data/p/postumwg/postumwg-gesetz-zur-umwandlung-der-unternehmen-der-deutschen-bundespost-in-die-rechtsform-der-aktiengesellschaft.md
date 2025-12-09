@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung der Aktiengesellschaften durch Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000200000)
 
 (1) Die Unternehmen der Deutschen Bundespost werden in
 Aktiengesellschaften umgewandelt.
@@ -37,6 +38,7 @@ Teil des Ersten Buches des Aktiengesetzes entsprechende Anwendung.
 
 
 ## § 2 Rechtsnachfolge, Vermögensübergang und Haftung
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000301308)
 
 (1) Die Aktiengesellschaften sind Rechtsnachfolger des Sondervermögens
 Deutsche Bundespost; soweit keine andere Regelung getroffen wird, geht
@@ -103,6 +105,7 @@ sind.
 
 
 ## § 3 Aktien
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000401308)
 
 (1) Bei der Gründung der Aktiengesellschaften stehen die Aktien dem
 Bund zu.
@@ -121,6 +124,7 @@ insoweit keine Anwendung.
 
 
 ## § 4 Eröffnungsbilanzen
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000500000)
 
 (1) Die handelsrechtlichen Eröffnungsbilanzen der Aktiengesellschaften
 sind zu dem in der Satzung bestimmten Tag der Aufnahme der
@@ -138,6 +142,7 @@ abgeschrieben werden.
 
 
 ## § 5 Bewertung zu Buchwerten
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000600000)
 
 Bei der Aufstellung der handelsrechtlichen Eröffnungsbilanzen werden
 die Ansätze und Bewertungen der Vermögensgegenstände und Schulden aus
@@ -149,6 +154,7 @@ des Handelsrechts.
 
 
 ## § 6 Bewertung zu Verkehrswerten
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000700000)
 
 (1) Für die Bewertung von Grund und Boden, Bauten und anderen Anlagen
 sowie von Vorräten ist höchstens der Verkehrswert nach den §§ 7, 9, 10
@@ -165,6 +171,7 @@ Beteiligungen neu bewertet werden dürfen.
 
 
 ## § 7 Abwicklung von Anspruchsverrechnung
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000800000)
 
 Die nach § 37 Abs. 3 des Postverfassungsgesetzes in der Bilanz per 31.
 Dezember 1994 ausgewiesenen Verlustvorträge unter Einbeziehung eines
@@ -181,6 +188,7 @@ gegenüber der Deutsche Telekom AG geltend gemacht werden.
 
 
 ## § 8 Bilanzansatz übergegangener Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE000901308)
 
 Auf übergegangene Verpflichtungen aus § 2 Abs. 3 und § 14 Abs. 4 des
 Postpersonalrechtsgesetzes sowie aus Ansprüchen der am 31. Dezember
@@ -194,6 +202,7 @@ daß an die Stelle des Stichtages 1. Januar 1987 der Stichtag 1. Januar
 
 
 ## § 9 Vorstand und Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001000000)
 
 (1) Bei den Aktiengesellschaften werden Vorstände und Aufsichtsräte
 entsprechend dem Ersten und Zweiten Abschnitt des Vierten Teils des
@@ -210,6 +219,7 @@ zuzuordnen.
 
 
 ## § 10 Steuer- und Gebührenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001100000)
 
 (1) Die Aktiengesellschaften sind von Steuerpflichten befreit, die bei
 der Umwandlung der Teilsondervermögen entstehen würden.
@@ -222,6 +232,7 @@ der Kostenordnung zu ermäßigen.
 
 
 ## § 11 Satzungen
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001200000)
 
 (1) Die Rechtsverhältnisse der Aktiengesellschaften werden im Rahmen
 dieses Gesetzes durch die Satzungen bestimmt.
@@ -241,6 +252,7 @@ Aktiengesetzes.
 
 
 ## § 12 Grundbuchvollzug
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001302308)
 
 (1) Zum Nachweis des Rechtsübergangs nach § 2 Abs. 1 ist eine
 Liegenschaftserklärung gegenüber dem Grundbuchamt erforderlich und
@@ -276,6 +288,7 @@ Vermögensgesetz unberührt.
 
 
 ## § 13 Vermögenszuweisung
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001402308)
 
 (1) Soweit im Bundesanstalt Post-Gesetz, im
 Postsozialversicherungsorganisationsgesetz oder im Gesetz über die
@@ -312,6 +325,7 @@ durch diese gegen den Bescheid nicht angerufen werden.
 
 
 ## § 14 Verhältnis zum Vermögenszuordnungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001501308)
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet darf
 die Liegenschaftserklärung durch den Bund nur abgegeben und bei den
@@ -349,6 +363,7 @@ dem Vermögenszuordnungsgesetz.
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001600000)
 
 (1) Die Aktiengesellschaften werden nach Maßgabe des § 19 des
 Postpersonalrechtsgesetzes von den Vorständen der früheren Unternehmen
@@ -370,6 +385,7 @@ nicht statt.
 
 
 ## § 16 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001702308)
 
 (1) Soweit keine andere Regelung besteht oder getroffen wird, gehen
 die in Vorschriften enthaltenen Rechte und Pflichten, Befugnisse und
@@ -395,6 +411,7 @@ TELEKOM durch Deutsche Telekom AG zu ersetzen.
 
 
 ## Anhang zu § 11 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/postumwg/BJNR233900994.html#BJNR233900994BJNE001800000)
 
 Satzung der Deutsche Post AG (s. PostAGSa)
 Satzung der Deutsche Postbank AG (s. PostbAGSa)

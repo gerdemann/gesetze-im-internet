@@ -18,9 +18,11 @@ Fundstelle
 Stand: Zuletzt geändert Art. 2 V v. 29.10.2025 I Nr. 260
 
 ## Kapitel 1 - Passmuster; Ausgabe und Versand des Passes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000101130)
 
 
 ### § 1 Muster des Reisepasses; Änderung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000202116)
 
 (1) Der Reisepass der Bundesrepublik Deutschland ist nach dem in der
 Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die
@@ -41,6 +43,7 @@ dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
 ### § 2 Muster des vorläufigen Reisepasses; Änderung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000403130)
 
 (1) Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach
 dem in der Anlage 3 abgedruckten Muster auszustellen. Für die
@@ -51,6 +54,7 @@ dem in der Anlage 1d abgedruckten Muster verwendet werden.
 
 
 ### § 3 Muster des amtlichen Passes; Änderung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000503130)
 
 (1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der
 Anlage 4 abgedruckten Muster auszustellen.
@@ -71,6 +75,7 @@ Muster verwendet werden.
 
 
 ### § 4 Lichtbild
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000602130)
 
 (1) Ein Lichtbild, das gemäß § 6 Absatz 2 Satz 3 des Passgesetzes
 gefertigt wird, muss aktuell sein und den Vorgaben der Technischen
@@ -94,6 +99,7 @@ nicht möglich ist.
 
 
 ### § 5 Ausgabe und Versand des Passes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE004000130)
 
 (1) Der Pass wird von der Passbehörde an die antragstellende Person,
 an eine andere nach § 6 Absatz 1 des Passgesetzes berechtigte Person
@@ -147,9 +153,11 @@ die antragstellende Person aus.
 
 
 ## Kapitel 2 - Befreiung von der Passpflicht und Passersatzpapiere
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000200000)
 
 
 ### § 6 Befreiung von der Passpflicht
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000700000)
 
 Von der Passpflicht sind befreit:
 
@@ -180,6 +188,7 @@ Von der Passpflicht sind befreit:
 
 
 ### § 7 Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000801360)
 
 (1) Als Passersatz für Deutsche sind zugelassen:
 
@@ -245,6 +254,7 @@ ausgestellten Bescheinigungen als Passersatz.
 
 
 ### § 8 Muster der amtlichen Ausweise als Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE000900000)
 
 (1) Der Ausweis, der von den für die polizeiliche Kontrolle des
 grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen
@@ -257,6 +267,7 @@ Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage
 
 
 ### § 9 Lichtbilder für den Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001002130)
 
 Sofern auf einem Passersatz die Anbringung eines Lichtbilds vorgesehen
 ist, ist der Passbehörde ein aktuelles Lichtbild ohne Rand vorzulegen,
@@ -266,6 +277,7 @@ Lichtbild durch die Passbehörde zu fertigen.
 
 
 ### § 10 Gültigkeitsdauer des Passersatzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001100000)
 
 Die Gültigkeitsdauer
 
@@ -285,6 +297,7 @@ Nummer 2 nicht länger als einen Monat gültig sein.
 
 
 ### § 11 Andere Regelungen für einen Passersatz
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001200000)
 
 Die in anderen Rechtsvorschriften oder in zwischenstaatlichen
 Vereinbarungen festgelegten Muster amtlicher Ausweise als Passersatz
@@ -293,9 +306,11 @@ Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
 
 
 ## Kapitel 3 - Amtliche Pässe
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000300000)
 
 
 ### § 12 Ausstellung
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001300000)
 
 (1) Ein amtlicher Pass wird vom Auswärtigen Amt zur Wahrnehmung
 dienstlicher Aufgaben oder in den Fällen des § 1 Abs. 4 des
@@ -312,6 +327,7 @@ Unterlagen einschließlich des Lichtbildes und der Fingerabdrücke
 
 
 ### § 13 Gültigkeitsdauer
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001400000)
 
 (1) Die Gültigkeitsdauer eines amtlichen Passes ist nach der Dauer der
 dienstlichen Aufgabe oder des amtlichen Auftrags im Sinne des § 1 Abs.
@@ -325,6 +341,7 @@ wird für eine Gültigkeitsdauer von bis zu einem Jahr ausgestellt.
 
 
 ### § 14 Rückgabe
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001500000)
 
 (1) Ein amtlicher Pass ist dem Auswärtigen Amt unverzüglich
 zurückzugeben, wenn
@@ -351,9 +368,11 @@ an der Belassung des amtlichen Passes vorliegt.
 
 
 ## Kapitel 4 - Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000400000)
 
 
 ### § 15 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001609130)
 
 (1) An Gebühren sind zu erheben
 
@@ -502,6 +521,7 @@ Gebühren nach Absatz 1 Nummer 2 um 17 Euro anzuheben.
 
 
 ### § 16 Erstattung von Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001701116)
 
 Als Auslagen erhebt die Passbehörde von der die Gebühren schuldenden
 Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes in der
@@ -509,15 +529,18 @@ bis zum 14. August 2013 geltenden Fassung bezeichneten Aufwendungen.
 
 
 ### § 17 Ermäßigung und Befreiung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001800000)
 
 Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen
 werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
 
 
 ## Kapitel 5 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNG000500000)
 
 
 ### § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE001904116)
 
 (1) Kinderreisepässe ohne Lichtbild und Kinderausweise, die vor
 Inkrafttreten dieser Verordnung ausgestellt wurden, behalten für den
@@ -545,6 +568,7 @@ verwenden.
 
 
 ### Anlage 1 Passmuster Reisepass (32 Seiten)
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003104130)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -724,6 +748,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 ![bgbl1_2024_j01250_0190.jpg](bgbl1_2024_j01250_0190.jpg)
 
 ### Anlage 1a Passmuster Reisepass (48 Seiten)
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003203130)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -976,6 +1001,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage 1b Muster des Aufklebers zur Änderung des Wohnortes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003700116)
 
 (Fundstelle: BGBl. I 2021, 3684)
 
@@ -986,6 +1012,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage 1c Muster des Aufklebers zur Änderung des Wohnortes nach elektronischer Anmeldung nach § 23a des Bundesmeldegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003800116)
 
    (Fundstelle: BGBl. I 2021, 3684)
 
@@ -996,6 +1023,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage 1d Muster des Aufklebers zur Eintragung amtlicher Vermerke
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003900116)
 
    (Fundstelle: BGBl. I 2021, 3685)
 
@@ -1006,9 +1034,11 @@ werden am unteren Rand mit der Seriennummer perforiert.
 
 
 ### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002205130)
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002303116)
 
    (Fundstelle: BGBl. I 2007, 2413 - 2420;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1094,6 +1124,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 4 Passmuster Dienstpass
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003303130)
 
    (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -1345,6 +1376,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 ![bgbl1_2024_j01250_0730.jpg](bgbl1_2024_j01250_0730.jpg)
 
 ### Anlage 5 Passmuster Diplomatenpass
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003403130)
 
 (Fundstelle: BGBl. 2024 I Nr. 125)
 
@@ -1596,6 +1628,7 @@ werden am unteren Rand mit der Seriennummer perforiert.
 ![bgbl1_2024_j01250_1000.jpg](bgbl1_2024_j01250_1000.jpg)
 
 ### Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002603116)
 
 (Fundstelle: BGBl. I 2007, 2437 - 2444
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1681,6 +1714,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002703116)
 
    (Fundstelle: BGBl. I 2007, 2445 - 2452
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1766,6 +1800,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 7a Muster des Aufklebers zur Änderung des Dienstortes oder der Dienstbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003501116)
 
    (Fundstelle: BGBl. I 2021, 3685)
 
@@ -1777,6 +1812,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 4 Absatz 2)
 
 ### Anlage 8 Anforderungen an das Lichtbild für den Pass im Sinne des § 1 Absatz 2 des Passgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002802130)
 
 (Fundstelle: BGBl. 2025 I Nr. 260, S. 7 – 10)
 
@@ -1959,6 +1995,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 9
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE002900000)
 
 ( Fundstelle: BGBl. I 2007, 2456 - 2457 )
 
@@ -1982,6 +2019,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 10
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003000000)
 
    ( Fundstelle: BGBl. I 2007, 2458 - 2459 )
 
@@ -2007,6 +2045,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/passv_2007/BJNR238610007.html#BJNR238610007BJNE003606130)
 
    (Fundstelle: BGBl. I 2017, 221 - 225;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

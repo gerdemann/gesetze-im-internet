@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNG000100000)
 
 
 ### § 1 Zweck und Begriffsbestimmungen (zu Artikel 1 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000201360)
 
 (1) Dieses Gesetz dient der Durchführung der Internationalen
 Gesundheitsvorschriften (2005) (IGV) (BGBl. 2007 II S. 930, 932). Sie
@@ -273,6 +275,7 @@ werden in diesem Gesetz als „IGV“ bezeichnet.
 
 
 ### § 2 Zuständige Behörden (zu Artikel 4 Absatz 1, Artikel 19 Buchstabe b IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000300000)
 
 (1) Das Landesrecht bestimmt die Behörden, die als zuständige Behörde,
 Gesundheitsamt oder an Grenzübergangsstellen von Häfen als
@@ -289,6 +292,7 @@ Bundeswehr vollzogen.
 
 
 ### § 3 Nationale IGV-Anlaufstelle (zu Artikel 4 Absatz 1 und 2 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000402116)
 
 (1) Nationale IGV-Anlaufstelle ist das Gemeinsame Melde- und
 Lagezentrum von Bund und Ländern im Bundesamt für Bevölkerungsschutz
@@ -306,6 +310,7 @@ Umsetzung der IGV erforderlich ist.
 
 
 ### § 4 Mitteilungen über die nationale IGV-Anlaufstelle (zu den Artikeln 6 bis 12 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000502116)
 
 (1) Die Entscheidung, welche Mitteilungen die nationale IGV-
 Anlaufstelle insbesondere nach den Artikeln 6 bis 12 IGV an die
@@ -363,6 +368,7 @@ an die Weltgesundheitsorganisation im Sinne der Artikel 6 bis 12 und
 
 
 ### § 5 Informationspflichten von Beförderern, Flughafenunternehmern und Betreibern von Häfen und Personenbahnhöfen (zu Artikel 24 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000601116)
 
 (1) Wenn Reisende von einer schwerwiegenden Gefahr für die öffentliche
 Gesundheit bedroht oder betroffen sein können, kann das
@@ -386,6 +392,7 @@ Weltgesundheitsorganisation berücksichtigt.
 
 
 ### § 6 Anforderungen an Beförderungsmittel, Container und Container-Verladeplätze (zu Artikel 24 in Verbindung mit den Anlagen 4 und 5, Artikel 34 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000700000)
 
 Beförderer haben ihre Beförderungsmittel frei von Infektions- und
 Verseuchungsquellen zu halten. Container-Verlader haben ihre Container
@@ -395,6 +402,7 @@ Infektions- und Verseuchungsquellen zu halten und Möglichkeiten zur
 
 
 ### § 7 Spezielle Gelbfieber-Impfstellen (zu Anlage 7 Absatz 2 Buchstabe f IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000800000)
 
 (1) Schutzimpfungen gegen Gelbfieber dürfen nur in Impfstellen
 durchgeführt werden, die von der zuständigen Behörde für die Impfung
@@ -430,9 +438,11 @@ unberührt.
 
 
 ## Abschnitt 2 - Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNG000200000)
 
 
 ### § 8 Flughäfen mit Kapazitäten nach Anlage 1 Teil B IGV (zu Artikel 13 Absatz 1, Artikel 19 Buchstabe a, Artikel 20 Absatz 1 in Verbindung mit Anlage 1 Teil B IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE000902116)
 
 (1) An den Flughäfen Berlin Brandenburg, Düsseldorf, Frankfurt am
 Main, Hamburg und München müssen ab dem 15. Juni 2012 die in Anlage 1
@@ -562,6 +572,7 @@ Unterlagen zur Verfügung zu stellen.
 
 
 ### § 9 Verpflichtung von Luftfahrzeugführerinnen und Luftfahrzeugführern, auf einem Flughafen mit Kapazitäten nach Anlage 1 Teil B IGV zu landen (zu Artikel 28 Absatz 1 und Anlage 5 Absatz 7 Satz 2 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001001116)
 
 (1) Das Bundesministerium für Gesundheit kann im Einvernehmen mit dem
 Bundesministerium für Verkehr und digitale Infrastruktur allgemein
@@ -601,6 +612,7 @@ Hilfeleistungen zu schließen.
 
 
 ### § 10 Allgemeine Erklärung für Luftfahrzeuge, Abschnitt über Gesundheit (zu Artikel 38 Absatz 1 und 3 in Verbindung mit Anlage 9 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001101116)
 
 (1) Die verantwortliche Luftfahrzeugführerin oder der verantwortliche
 Luftfahrzeugführer hat vor der ersten Landung auf einem inländischen
@@ -623,6 +635,7 @@ Gesundheit an das für den Flughafen zuständige Gesundheitsamt weiter.
 
 
 ### § 11 Meldeverfahren für verantwortliche Luftfahrzeugführerinnen und Luftfahrzeugführer bei Erkrankungsfällen oder Anzeichen an Bord für eine erhebliche Gefahr für die öffentliche Gesundheit (zu Artikel 28 Absatz 4, Artikel 38 Absatz 2 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001201116)
 
 (1) Die verantwortliche Führerin oder der verantwortliche Führer eines
 Luftfahrzeugs mit einem inländischen Zielflughafen oder der oder die
@@ -690,6 +703,7 @@ die Meldung erhalten hat.
 
 
 ### § 12 Ermittlung von Kontaktpersonen (zu Artikel 23 Absatz 1 Buchstabe a IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001303116)
 
 (1) Das Bundesministerium für Gesundheit kann allgemein anordnen, dass
 Reisende, die aus betroffenen Gebieten ankommen, vor dem Verlassen des
@@ -762,9 +776,11 @@ verarbeiten und nutzen.
 
 
 ## Abschnitt 3 - See- und Binnenschiffsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNG000300000)
 
 
 ### § 13 Häfen mit Kapazitäten nach Anlage 1 Teil B IGV (zu Artikel 13 Absatz 1, Artikel 19 Buchstabe a, Artikel 20 Absatz 1 in Verbindung mit Anlage 1 Teil B IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001402116)
 
 (1) An den Häfen der Städte Bremen und Bremerhaven, Hamburg, Kiel,
 Rostock und am Jade-Weser-Port in Wilhelmshaven müssen ab dem 15. Juni
@@ -894,6 +910,7 @@ gewähren und alle einschlägigen Unterlagen zur Verfügung zu stellen.
 
 
 ### § 14 Verpflichtung von Schiffsführerinnen und Schiffsführern, einen Hafen mit Kapazitäten nach Anlage 1 Teil B IGV anzulaufen (zu Artikel 28 Absatz 1 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001501116)
 
 (1) Das Bundesministerium für Gesundheit kann im Einvernehmen mit dem
 Bundesministerium für Verkehr und digitale Infrastruktur allgemein
@@ -933,6 +950,7 @@ medizinische und organisatorische Hilfeleistung zu schließen.
 
 
 ### § 15 Seegesundheitserklärung (zu Artikel 37 Absatz 1, 3 und 4 in Verbindung mit Anlage 8 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001602116)
 
 (1) Die Führerin oder der Führer eines Seeschiffes oder die
 beauftragte Person hat den Gesundheitszustand der an Bord befindlichen
@@ -1036,6 +1054,7 @@ Organisation durch Flaggen und Lichtzeichen anzuzeigen haben.
 
 
 ### § 16 Meldeverfahren für Schiffsführerinnen und Schiffsführer bei Erkrankungsfällen oder Anzeichen für eine erhebliche Gefahr für die öffentliche Gesundheit (zu Artikel 28 Absatz 4 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001701116)
 
 (1) Die Führerin oder der Führer eines Schiffes mit einem inländischen
 Bestimmungshafen oder die beauftragte Person hat der zuständigen
@@ -1088,6 +1107,7 @@ die Meldung erhalten hat.
 
 
 ### § 17 Ermittlung der gesundheitlichen Verhältnisse an Bord (zu Artikel 37 Absatz 2 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001801116)
 
 (1) Die Lotsin oder der Lotse hat die Führerin oder den Führer eines
 Schiffes über den Gesundheitszustand an Bord zu befragen und bei
@@ -1107,6 +1127,7 @@ entsprechen.
 
 
 ### § 18 Freie Verkehrserlaubnis (free pratique) (zu Artikel 28 Absatz 2 und 3, Artikel 27 Absatz 1 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE001901116)
 
 (1) Der Hafenärztliche Dienst hat einem Schiff bei der Ankunft eine
 Freie Verkehrserlaubnis (free pratique) zu erteilen, wenn
@@ -1156,6 +1177,7 @@ Angemessenheit der Kostensätze gilt § 19 Absatz 7 Satz 3 entsprechend.
 
 
 ### § 19 Überprüfung der Schiffshygiene (zu Artikel 20 Absatz 2 und 3, Artikel 39 in Verbindung mit Anlage 3, Artikel 41 IGV)
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002001116)
 
 (1) Die zuständige oberste Landesgesundheitsbehörde bestimmt die
 Häfen, an denen der zuständige Hafenärztliche Dienst befugt ist,
@@ -1319,9 +1341,11 @@ eingeschränkt.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNG000400000)
 
 
 ### § 20 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002102116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Verkehr und digitale
@@ -1447,6 +1471,7 @@ der Gebührensätze erforderlich ist.
 
 
 ### § 21 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002202116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1512,6 +1537,7 @@ Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 
 ### § 22 Strafvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002300000)
 
 Wer vorsätzlich eine der in § 21 Absatz 1 Nummer 6 bezeichneten
 Handlungen begeht und dadurch eine bedrohliche Krankheit verbreitet,
@@ -1521,6 +1547,7 @@ bestraft.
 (zu § 12 Absatz 1)
 
 ### Anlage 1 Aussteigekarte
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002401116)
 
 (Fundstelle: BGBl. I 2017, 2630 - 2631)
 
@@ -1529,6 +1556,7 @@ bestraft.
 (zu § 17 Absatz 3)
 
 ### Anlage 1a Aussteigekarte für Reisende/Passenger Locator Card
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002600116)
 
 (Fundstelle: BGBl. I 2017, 2632 - 2633)
 
@@ -1537,6 +1565,7 @@ bestraft.
 (zu § 18 Absatz 6 und § 19 Absatz 7)
 
 ### Anlage 2 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/igv-dg/BJNR056610013.html#BJNR056610013BJNE002501116)
 
 (Fundstelle: BGBl. I 2017, 2634 – 2635)
 

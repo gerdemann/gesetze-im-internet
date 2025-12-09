@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_3/BJNR006600981.html#BJNR006600981BJNE000100314)
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
 Bekanntmachung vom 14. Oktober 1977 (BGBl. I S. 1885) wird mit
@@ -25,11 +26,13 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_3/BJNR006600981.html#BJNR006600981BJNE000200314)
 
 -
 
 
 ## Art 2 Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_3/BJNR006600981.html#BJNR006600981BJNE000300314)
 
 (1) Abweichend von § 1 Abs. 2 Nr. 2 und 3 der Approbationsordnung für
 Ärzte können Studierende der Medizin, die im März 1981 erfolglos an
@@ -54,17 +57,20 @@ Approbationsordnung für Ärzte zu einer weiteren Wiederholung der
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_3/BJNR006600981.html#BJNR006600981BJNE000400314)
 
 Diese Verordnung gilt nach § 13 des Dritten Überleitungsgesetzes in
 Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_3/BJNR006600981.html#BJNR006600981BJNE000500314)
 
 Diese Verordnung tritt am 1. August 1981 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_3/BJNR006600981.html#BJNR006600981BJNE000600314)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

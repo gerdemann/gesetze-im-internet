@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE000700307)
 
 Auf Grund des § 266 Abs. 7 des Fünften Buches Sozialgesetzbuch, der
 durch Artikel 1 Nr. 143 des Gesetzes vom 21. Dezember 1992 (BGBl. I S.
@@ -29,10 +30,12 @@ Gesundheit:
 
 
 ## Abschnitt 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNG000101126)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE000805126)
 
 (1) Versicherte im Sinne dieser Verordnung sind alle
 versicherungspflichtigen und versicherungsberechtigten Mitglieder und
@@ -55,6 +58,7 @@ Ersatzkassen.
 
 
 ### § 2 Risikogruppen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE000911126)
 
 (1) Die Zuordnung der Versicherten zu den Risikogruppen nach § 266
 Absatz 2 des Fünften Buches Sozialgesetzbuch und § 269 Absatz 3 Satz 1
@@ -125,6 +129,7 @@ zugebilligt wird.
 
 
 ### § 3 Versicherungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001027126)
 
 (1) Beginn und Ende einer Versicherungszeit (Anzahl der
 Versichertentage) im Sinne dieser Verordnung richten sich nach den
@@ -143,6 +148,7 @@ Ausscheiden des Mitglieds aus der Mitgliedschaft.
 
 
 ### § 4 Berücksichtigungsfähige Leistungsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001119126)
 
 (1) Bei der Ermittlung der standardisierten Leistungsausgaben nach §
 266 Absatz 3 des Fünften Buches Sozialgesetzbuch sind insbesondere
@@ -314,6 +320,7 @@ Krankenversicherung entfallen.
 
 
 ### § 5 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001204126)
 
 Die in dieser Verordnung vorgesehenen Bekanntmachungen erfolgen durch
 Mitteilung des Bundesamts für Soziale Sicherung an den Spitzenverband
@@ -325,6 +332,7 @@ zugänglich zur Verfügung.
 
 
 ### § 6 Zahlungsverkehr und Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001301126)
 
 (1) Hat das Bundesamt für Soziale Sicherung aufgrund einer Vorschrift
 dieser Verordnung einen durch eine Krankenkasse zu leistenden Betrag
@@ -343,10 +351,12 @@ Zuschlag in Höhe von 0,5 Prozent des rückständigen Betrags zu zahlen.
 
 
 ## Abschnitt 2 - Datenmeldungen, Versichertenklassifikationsmodell und Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNG000201126)
 
 
 
 ### § 7 Verarbeitung von Daten für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001406126)
 
 (1) Unter Berücksichtigung der Vorgabe nach § 266 Absatz 4 Satz 2 des
 Fünften Buches Sozialgesetzbuch ergeben sich aus § 267 Absatz 1 Satz 1
@@ -562,6 +572,7 @@ bestimmt der Spitzenverband Bund der Krankenkassen.
 
 
 ### § 8 Auswahl und Anpassung des Versichertenklassifikationsmodells
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001511126)
 
 (1) Die Auswahl des Versichertenklassifikationsmodells nach § 2 Absatz
 1 Satz 1 und seine Anpassung an die Gegebenheiten der gesetzlichen
@@ -679,6 +690,7 @@ eingegangenen Rechnungsbeträge zu berücksichtigen.
 
 
 ### § 9 Datenmeldungen für den monatlichen Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001605126)
 
 Die Krankenkassen übermitteln nach Maßgabe des Satzes 2 für den
 monatlichen Ausgleich nach § 16 Absatz 3 versichertenbezogen die
@@ -704,6 +716,7 @@ Daten nach Satz 1. § 7 Absatz 4 Satz 3 gilt entsprechend.
 
 
 ### § 10 Gutachten des Wissenschaftlichen Beirates zu Zuweisungen für das Krankengeld
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001706126)
 
 Auf Grundlage der Daten nach § 7 Absatz 1 überprüft der
 Wissenschaftliche Beirat in seiner ersten Untersuchung nach § 266
@@ -724,10 +737,12 @@ von
 
 
 ## Abschnitt 3 - Zuweisungen aus dem Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNG000301126)
 
 
 
 ### § 11 Zuweisungen für das Krankengeld
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001806126)
 
 Für die Zuweisungen für die Risikogruppen nach § 2 Absatz 1 Satz 2
 Nummer 3 gelten die §§ 5 bis 7 und 10 in der am 31. März 2020
@@ -735,6 +750,7 @@ geltenden Fassung weiter.
 
 
 ### § 12 Ermittlung der Höhe der Grundpauschale
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE001901126)
 
 (1) Die Grundlage für die Ermittlung der Grundpauschale bilden die
 voraussichtlichen standardisierten Leistungsausgaben der Krankenkassen
@@ -754,6 +770,7 @@ Folgejahr ermittelten Grundpauschale sowie der Werte nach § 266 Absatz
 
 
 ### § 13 Zuweisungen für sonstige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002003126)
 
 (1) Die Krankenkassen erhalten aus dem Gesundheitsfonds Zuweisungen
 zur Deckung ihrer standardisierten Verwaltungskosten. Das Bundesamt
@@ -856,6 +873,7 @@ November.
 
 
 ### § 14 Risikopool
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002106126)
 
 (1) Das Bundesamt für Soziale Sicherung legt jährlich den
 Schwellenwert für den Risikopool nach § 268 Absatz 1 Satz 3 des
@@ -890,6 +908,7 @@ Bund der Krankenkassen.
 
 
 ### § 15 Zuweisungen für Vorsorge- und Früherkennungsmaßnahmen und für strukturierte Behandlungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002203126)
 
 (1) Die Krankenkassen erhalten jährlich aus dem Gesundheitsfonds eine
 Pauschale für die Teilnahme eines Versicherten an einer der in § 270
@@ -1003,6 +1022,7 @@ Jahresausgleich bei der Ermittlung nach § 18 Absatz 2 zu dem Wert nach
 
 
 ### § 16 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002301126)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die Höhe der
 Zuweisungen, die die Krankenkassen zur Deckung ihrer Ausgaben nach §
@@ -1078,6 +1098,7 @@ nach § 271 des Fünften Buches Sozialgesetzbuch getragen.
 
 
 ### § 17 Mitgliederbezogene Veränderung der Zuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002411126)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt für jede
 Krankenkasse im Voraus für ein Ausgleichsjahr den Betrag, um den die
@@ -1113,6 +1134,7 @@ Folgejahr ermittelten Beträge erfolgt jährlich bis zum 15. November.
 
 
 ### § 18 Jahresausgleich
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002502126)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt nach Vorliegen der
 Geschäfts- und Rechnungsergebnisse aller am monatlichen Ausgleich
@@ -1203,6 +1225,7 @@ des Spitzenverbandes Bund der Krankenkassen.
 
 
 ### § 19 Ausschluss auffälliger Risikogruppen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002608126)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die nach § 18 Absatz
 1 Satz 4 auszuschließenden Risikogruppen nach § 2 Absatz 1 Satz 2
@@ -1257,6 +1280,7 @@ festlegen.
 
 
 ### § 20 Prüfung der Datenmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002702126)
 
 (1) Die mit der Prüfung nach § 274 des Fünften Buches Sozialgesetzbuch
 befassten Stellen haben bei den Krankenkassen in ihrem
@@ -1334,6 +1358,7 @@ hinzugerechnet.
 
 
 ### § 21 Ermittlung des Korrekturbetrags nach § 273 Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002802126)
 
 (1) Das Bundesamt für Soziale Sicherung prüft nach § 273 Absatz 1 Satz
 1 des Fünften Buches Sozialgesetzbuch die Datenmeldungen nach § 7
@@ -1383,6 +1408,7 @@ Spitzenverband Bund der Krankenkassen.
 
 
 ### § 22 Durchführung des Einkommensausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE002901126)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt die Höhe der Mittel,
 die die Krankenkassen aus dem Einkommensausgleich nach § 270a des
@@ -1416,10 +1442,12 @@ Krankenkasse neu. § 18 Absatz 4 gilt entsprechend.
 
 
 ## Abschnitt 4 - Aufbringung der Finanzmittel für den Innovationsfonds bei den Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNG000401126)
 
 
 
 ### § 23 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE003003311)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt jährlich für jede
 Krankenkasse den von dieser zu tragenden Anteil zur Finanzierung des
@@ -1437,10 +1465,12 @@ jeweilige Jahr abzusetzen. § 18 gilt entsprechend.
 
 
 ## Abschnitt 5 - Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach § 137g des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNG000501126)
 
 
 
 ### § 24 Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE003103126)
 
 (1) Ein strukturiertes Behandlungsprogramm kann nur zugelassen werden,
 wenn es vorsieht, dass der Versicherte
@@ -1548,6 +1578,7 @@ Unterbrechungszeit gilt Absatz 2 Nummer 2 entsprechend.
 
 
 ### § 25 Anforderungen an das Verfahren der Verarbeitung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE003205126)
 
 (1) Voraussetzung für die Zulassung eines strukturierten
 Behandlungsprogramms ist, dass
@@ -1640,6 +1671,7 @@ Sachverständigen durch die Krankenkassen zu pseudonymisieren.
 
 
 ### § 26 Berechnung der Kosten für die Bescheidung von Zulassungsanträgen
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE003301126)
 
 (1) Die Bescheidung eines Antrags auf Zulassung eines strukturierten
 Behandlungsprogramms umfasst alle Tätigkeiten, die unmittelbar durch
@@ -1664,10 +1696,12 @@ verringern.
 
 
 ## Abschnitt 6 - Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNG000701126)
 
 
 
 ### § 27 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE003402126)
 
 (1) Nach Maßgabe des § 266 Absatz 11 Satz 1 des Fünften Buches
 Sozialgesetzbuch gilt für die Zuweisungen aus dem Gesundheitsfonds für
@@ -1725,6 +1759,7 @@ Soziale Sicherung unterjährig die Festlegungen nach § 8 Absatz 4 Satz
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rsav/BJNR005500994.html#BJNR005500994BJNE003704119)
 
 Der Bundesrat hat zugestimmt.
 

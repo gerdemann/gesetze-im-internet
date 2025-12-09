@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000100000)
 
 Auf Grund
 
@@ -39,9 +40,11 @@ verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000301310)
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
@@ -59,6 +62,7 @@ Anwendung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000400000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -119,6 +123,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ### § 3 Allgemeine Anforderungen an die Zuteilungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000501310)
 
 (1) Soweit die Vorschriften der Abschnitte 2 und 3 keine abweichenden
 Regelungen enthalten, sind die für die Zuteilung von
@@ -149,9 +154,11 @@ zuständigen Behörde vorzuweisen.
 
 
 ## Abschnitt 2 - Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNG000200000)
 
 
 ### § 4 Nutzung einheitlicher Stoffwerte
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000600000)
 
 (1) Bei Anlagen, die eine Zuteilung nach § 6 des Zuteilungsgesetzes
 2012 erhalten, erfolgt die Ermittlung der Zuteilungsmenge für
@@ -164,6 +171,7 @@ zugrunde zu legen.
 
 
 ### § 5 Bestimmung von Emissionsfaktoren, unteren Heizwerten und Kohlenstoffgehalten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000701310)
 
 (1) Soweit nach § 4 keine einheitlichen Stoffwerte gelten, erfolgt die
 Angabe dieser Stoffwerte auf der Grundlage der spezifischen
@@ -208,6 +216,7 @@ Bestimmung des Emissionsfaktors unberücksichtigt.
 
 
 ### § 6 Bestimmung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000801310)
 
 (1) Die Kohlendioxid-Emissionen einer Anlage pro Jahr entsprechen der
 Summe der Kohlendioxid-Emissionen aus dem Einsatz von Brenn- und
@@ -297,6 +306,7 @@ Angaben enthalten über:
 
 
 ### § 7 Emissionsberechnung auf der Grundlage einer Bilanzierung des Kohlenstoffgehalts
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE000900000)
 
 (1) Abweichend von § 6 kann die Ermittlung der Kohlendioxid-Emissionen
 auf Basis einer Bilanzierung des Kohlenstoffgehalts des Brenn- und
@@ -330,6 +340,7 @@ der Zuteilungsantrag Angaben enthalten über:
 
 
 ### § 8 Messung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001001310)
 
 (1) Abweichend von den §§ 6 und 7 können Kohlendioxid-Emissionen durch
 Messung direkt ermittelt werden, wenn diese Messung nachweislich ein
@@ -378,9 +389,11 @@ Zuteilungsantrag die nach Absatz 1 erforderlichen Angaben enthalten
 
 
 ## Abschnitt 3 - Besondere Antragserfordernisse und Regel der Berechnung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNG000300000)
 
 
 ### § 9 Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001100000)
 
 (1) Für die Regeneration von Katalysatoren und die Kalzinierung von
 Petrolkoks werden die Kohlendioxid-Emissionen pro Jahr bestimmt durch:
@@ -429,6 +442,7 @@ direkt ermittelten jährlichen Kohlendioxid-Emissionen in Tonnen.
 
 
 ### § 10 Ermittlung der Produktionsmenge
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001201310)
 
 (1) Produktionsmengen sind nach den anerkannten Regeln der Technik mit
 dem höchsten erreichbaren Grad an Genauigkeit zu erheben und
@@ -453,6 +467,7 @@ Rohstoffmenge abgestellt werden.
 
 
 ### § 11 Bestimmung des Emissionswertes
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001301310)
 
 (1) Bei einer Zuteilung nach § 7 des Zuteilungsgesetzes 2012 gelten
 die Emissionswerte für gasförmige Brennstoffe nach Anhang 3 Teil A Nr.
@@ -525,6 +540,7 @@ Haupttätigkeit verwendet wird.
 
 
 ### § 12 Zuteilung für Industrieanlagen mit Inbetriebnahme bis 31. Dezember 2002
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001400000)
 
 (1) Für die Zuteilung von Berechtigungen nach § 6 Abs. 1 des
 Zuteilungsgesetzes 2012 muss der Zuteilungsantrag Angaben enthalten
@@ -563,6 +579,7 @@ errechnet. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 13 Zuteilung für Anlagen der Energiewirtschaft mit Inbetriebnahme bis 31. Dezember 2002
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001500000)
 
 (1) Für die Zuteilung von Berechtigungen nach § 7 Abs. 1 des
 Zuteilungsgesetzes 2012 muss der Zuteilungsantrag Angaben enthalten
@@ -597,6 +614,7 @@ Abs. 1 entsprechend.
 
 
 ### § 14 Zuteilung für Anlagen mit Inbetriebnahme in den Jahren 2003 bis 2007
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001601310)
 
 (1) Für die Zuteilung von Berechtigungen nach § 8 Abs. 1 des
 Zuteilungsgesetzes 2012 muss der Zuteilungsantrag Angaben enthalten
@@ -713,6 +731,7 @@ Zuteilungsgesetzes 2012 zuzuordnen sind.
 
 
 ### § 15 Zuteilungen für Neuanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001701310)
 
 (1) Für die Zuteilung von Berechtigungen nach § 9 Abs. 1 des
 Zuteilungsgesetzes 2012 muss der Zuteilungsantrag Angaben enthalten
@@ -794,6 +813,7 @@ Zuteilungsgesetzes 2012 zuzuordnen sind.
 
 
 ### § 16 Zuteilung nach § 10 Abs. 6 des Zuteilungsgesetzes 2012
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001800000)
 
 (1) Die Mehrproduktion errechnet sich aus der Differenz der
 Produktionsmengen der übernehmenden Anlage für das Betriebsjahr ab
@@ -844,6 +864,7 @@ enthalten über
 
 
 ### § 17 Bestimmung des Effizienzstandards
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE001901310)
 
 (1) Der Zuteilungsantrag muss bei Anlagen nach Anhang 1 Nr. I bis V
 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
@@ -861,6 +882,7 @@ Synthesegas aus Kohlevergasung.
 
 
 ### § 18 Frühzeitige Emissionsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002000000)
 
 Für die Berechnung frühzeitiger Emissionsminderungen bei Anlagen im
 Sinne von § 6 Abs. 10 des Zuteilungsgesetzes 2012 gilt § 13 Abs. 1 bis
@@ -870,6 +892,7 @@ entsprechend.
 
 
 ### § 19 Kuppelgas
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002101310)
 
 (1) Für die Zuteilung von Berechtigungen an Kuppelgas erzeugende
 Anlagen im Sinne von § 11 Abs. 2 des Zuteilungsgesetzes 2012 muss der
@@ -900,10 +923,12 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNG000400000)
 
 
 
 ### § 20 Anforderungen an die Verifizierung der Zuteilungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002201310)
 
 (1) Der Sachverständige hat im Rahmen der Verifizierung der
 Zuteilungsanträge nach § 10 Abs. 1 Satz 3 des Treibhausgas-
@@ -973,6 +998,7 @@ Bestimmungsmethode zu bestätigen.
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002301310)
 
 Ordnungswidrig im Sinne des § 19 Abs. 1 Nr. 4 des Treibhausgas-
 Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das
@@ -982,12 +1008,14 @@ entgegen § 3 Abs. 2 Satz 1 eine Angabe nicht richtig macht.
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002400000)
 
 Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 (zu den §§ 4 und 5)
 
 ### Anhang 1 Einheitliche Stoffwerte für Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte für Brennstoffe, Rohstoffe und Produkte
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002500000)
 
 ( Fundstelle: BGBl. I 2007, 1949 - 1955 )
 
@@ -1499,6 +1527,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 (zu § 5 Abs. 3)
 
 ### Anhang 2 Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002600000)
 
 ( Fundstelle: BGBl. I 2007, 1951 )
 ## Formel
@@ -1522,6 +1551,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 (zu § 9)
 
 ### Anhang 3 Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002700000)
 
 ( Fundstelle: BGBl. I 2007, 1952 )
 ## Formel 1
@@ -1649,6 +1679,7 @@ konstantem Inertgasanteil von 79,07 Volumenprozent.
 (zu § 19)
 
 ### Anhang 4 Berechnungsvorschriften für Abzug und Hinzurechnung der Kuppelgasemissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2012/BJNR194100007.html#BJNR194100007BJNE002801310)
 
 (Fundstelle: BGBl. I 2007, 1953;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

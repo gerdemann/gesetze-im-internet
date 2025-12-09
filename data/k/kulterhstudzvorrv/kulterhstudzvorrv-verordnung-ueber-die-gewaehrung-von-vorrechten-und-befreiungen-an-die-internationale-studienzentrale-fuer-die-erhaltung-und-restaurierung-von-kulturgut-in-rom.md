@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kulterhstudzvorrv/BJNR213210964.html#BJNR213210964BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kulterhstudzvorrv/BJNR213210964.html#BJNR213210964BJNE000200314)
 
 Die Bestimmungen des Artikels II des Abkommens über die Vorrechte und
 Befreiungen der Sonderorganisationen der Vereinten Nationen finden
@@ -42,6 +44,7 @@ veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kulterhstudzvorrv/BJNR213210964.html#BJNR213210964BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
@@ -54,6 +57,7 @@ zwischenstaatliche Organisationen in der Fassung des Zweiten
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kulterhstudzvorrv/BJNR213210964.html#BJNR213210964BJNE000400314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Satzung
 der "Internationalen Studienzentrale für die Erhaltung und

@@ -21,9 +21,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich; Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000101128)
 
 Diese Rechtsverordnung ist anzuwenden auf Produkte im
 Anwendungsbereich der Verordnung (EU) 2017/745 des Europäischen
@@ -42,6 +44,7 @@ Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom 3.5.2019, S.
 
 
 ### § 2 Ergänzende Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000201128)
 
 Ergänzend zu Artikel 2 der Verordnung (EU) 2017/745 und Artikel 2 der
 Verordnung (EU) 2017/746 bezeichnet im Sinne dieser Rechtsverordnung
@@ -69,6 +72,7 @@ nachstehenden Folgen hatte oder hätte haben können:
 
 
 ### § 3 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000300000)
 
 Wer Produkte beruflich oder gewerblich betreibt oder anwendet, hat
 dabei aufgetretene mutmaßliche schwerwiegende Vorkommnisse
@@ -79,6 +83,7 @@ werden.
 
 
 ### § 4 Patientenmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000400000)
 
 Patienten oder deren Angehörige sollen über mutmaßliche schwerwiegende
 Vorkommnisse mit Produkten, von denen sie betroffen sind, den
@@ -88,6 +93,7 @@ Vorkommnisse auch der zuständigen Bundesoberbehörde direkt melden.
 
 
 ### § 5 Hinweise durch die Bundesoberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000500000)
 
 Die zuständigen Bundesoberbehörden veröffentlichen jeweils Hinweise
 zur Übermittlung der Meldungen nach den §§ 3 und 4 Satz 2 auf ihren
@@ -100,6 +106,7 @@ Mitwirkungsbereitschaft in der Bevölkerung.
 
 
 ### § 6 Erfassung der Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000600000)
 
 (1) Die Meldungen nach § 3 erfolgen zur zentralen Erfassung über das
 Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86
@@ -117,6 +124,7 @@ zuständige Bundesoberbehörde sicher, dass die Meldungen nach § 4 Satz
 
 
 ### § 7 Ergänzende Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000701128)
 
 (1) Die zuständige Bundesoberbehörde bestätigt den nach § 3 oder § 4
 Satz 2 meldenden Personen oder Stellen den Eingang der Meldung.
@@ -162,9 +170,11 @@ Absatz 3 Satz 1 vorgelegten Begründung.
 
 
 ## Abschnitt 2 - Unterrichtungspflichten und Informationsaustausch der zuständigen Behörden; Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNG000200000)
 
 
 ### § 8 Informationsaustausch zwischen der zuständigen Bundesoberbehörde und den zuständigen Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000800000)
 
 Über eingehende Meldungen von schwerwiegenden Vorkommnissen,
 mutmaßlichen schwerwiegenden Vorkommnissen, schwerwiegenden Gefahren
@@ -191,6 +201,7 @@ Behörde.
 
 
 ### § 9 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE000900000)
 
 Die zuständige Bundesoberbehörde informiert das Bundesministerium für
 Gesundheit unverzüglich über alle eingehenden Meldungen, die
@@ -199,6 +210,7 @@ bedeutsame schwerwiegende Vorkommnisse betreffen.
 
 
 ### § 10 Unterrichtung sonstiger Behörden, Organisationen und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE001000000)
 
 (1) Die zuständige Bundesoberbehörde unterrichtet über eingehende
 Meldungen von schwerwiegenden Vorkommnissen,
@@ -237,6 +249,7 @@ Medizinprodukterecht-Durchführungsgesetzes gespeichert sind.
 
 
 ### § 11 Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE001100000)
 
 Beim Informationsaustausch nach § 8 und bei der Unterrichtung nach den
 §§ 9 und 10 dürfen nur anonymisierte Daten übermittelt werden. Soweit
@@ -248,6 +261,7 @@ pseudonymisierter Form übermittelt und verarbeitet werden.
 
 
 ### § 12 Erreichbarkeit der zuständigen Behörden außerhalb der Dienstzeiten
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE001200000)
 
 (1) Die zuständigen Bundesoberbehörden machen unter Angabe ihrer
 Zuständigkeitsbereiche, ihrer Postanschriften und der
@@ -263,6 +277,7 @@ Internetseiten bekannt.
 
 
 ### § 13 Veröffentlichung von Informationen über das Internet
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE001301128)
 
 Die zuständige Bundesoberbehörde kann über durchgeführte
 Sicherheitskorrekturmaßnahmen im Feld, einschließlich der
@@ -279,6 +294,7 @@ Verordnung (EU) 2017/745 oder Artikel 84 Absatz 8 der Verordnung (EU)
 
 
 ### § 14 Routinesitzungen
+[Direktlink](https://www.gesetze-im-internet.de/mpamiv/BJNR083310021.html#BJNR083310021BJNE001400000)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte führt in
 Abstimmung mit dem Paul-Ehrlich-

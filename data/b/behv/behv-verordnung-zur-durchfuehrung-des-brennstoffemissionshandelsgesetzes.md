@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000100000)
 
 Auf Grund des § 10 Absatz 3 des Brennstoffemissionshandelsgesetzes vom
 12\. Dezember 2019 (BGBl. I S. 2728) verordnet die Bundesregierung und
@@ -32,9 +33,11 @@ für Umwelt, Naturschutz und nukleare Sicherheit:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000302130)
 
 (1) Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Brennstoffemissionshandelsgesetzes.
@@ -44,6 +47,7 @@ Brennstoffemissionshandelsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000401130)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des
 Brennstoffemissionshandelsgesetzes und der BEHG-Carbon-Leakage-
@@ -95,12 +99,15 @@ geltenden Fassung die folgenden Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Veräußerung von Emissionszertifikaten (zu § 10 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften für die Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000301130)
 
 
 #### § 3 Zuständige Stelle, beauftragte Stelle, Delegation der Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000502130)
 
 (1) Zuständige Stelle nach § 10 Absatz 3 Satz 2 Nummer 1 des
 Brennstoffemissionshandelsgesetzes ist die zuständige Behörde. Die
@@ -139,6 +146,7 @@ außerhalb eines geregelten Marktes durchgeführt werden.
 
 
 #### § 4 Voraussetzungen für die Beauftragung der beauftragten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000601130)
 
 (1) Ein Bieter, der am Verfahren zur Ermittlung der beauftragten
 Stelle teilnimmt, muss einen geregelten Markt im Sinne von Artikel 4
@@ -186,6 +194,7 @@ vorzusehen.
 
 
 #### § 5 Zugangsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000701130)
 
 (1) Zulassungsberechtigt zur direkten Teilnahme an den
 Veräußerungsverfahren sind Verantwortliche nach § 3 Nummer 3 des
@@ -213,6 +222,7 @@ zugegriffen werden kann.
 
 
 #### § 6 Veräußerungstermine
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000801130)
 
 Die beauftragte Stelle ist verpflichtet, ab dem Beginn des
 Veräußerungsverfahrens mindestens einen Termin pro Woche zur
@@ -232,6 +242,7 @@ Veräußerungsbetriebs.
 
 
 #### § 7 Berichtspflichten und Überwachung durch die beauftragte Stelle, Datenweitergabe
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE000901130)
 
 (1) Die beauftragte Stelle veröffentlicht nach jedem
 Veräußerungstermin die Menge der veräußerten Emissionszertifikate in
@@ -288,6 +299,7 @@ zu erheben, zu speichern, zu verwenden und sich gegenseitig zu
 
 
 #### § 8 Transaktionsentgelte
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001001130)
 
 (1) Die beauftragte Stelle kann gegenüber der zuständigen Stelle keine
 Kosten geltend machen.
@@ -308,9 +320,11 @@ Gesamtveräußerungsmenge Rechnung zu tragen.
 
 
 ### Unterabschnitt 2 - Besondere Vorschriften für den Verkauf von Emissionszertifikaten für die Jahre 2021 bis 2025 zum Festpreis
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000401130)
 
 
 #### § 9 Besondere Zugangsbedingungen zum Festpreisverkauf
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004500130)
 
 Abweichend von § 5 lässt die beauftragte Stelle Zulassungsberechtigte
 für den Kauf von Emissionszertifikaten zum Festpreis auch dann zu,
@@ -348,6 +362,7 @@ oder der Vorlage der Nachweise zugestimmt hat.
 
 
 #### § 10 Bestimmung der Nachkaufmenge, Mindestkaufmenge
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004600130)
 
 (1) Für die Anwendung von § 10 Absatz 2 Satz 3 des
 Brennstoffemissionshandelsgesetzes gilt die Menge an
@@ -362,9 +377,11 @@ beauftragten Stelle beträgt ein Emissionszertifikat.
 
 
 ### Unterabschnitt 3 - Besondere Vorschriften für die Veräußerung von Emissionszertifikaten für das Jahr 2026
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001500130)
 
 
 #### § 11 Versteigerungsmenge, Versteigerungstermine
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004700130)
 
 (1) Die Gesamtversteigerungsmenge für das Jahr 2026 ergibt sich aus
 der in § 44 Absatz 2 für das Jahr 2026 vorgesehenen jährlichen
@@ -414,6 +431,7 @@ mindestens einer Woche.
 
 
 #### § 12 Versteigerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004800130)
 
 (1) Die Mindestgebotsmenge beträgt ein Emissionszertifikat. In einem
 Versteigerungstermin darf die Summe der einzelnen Gebote eines
@@ -467,6 +485,7 @@ Versteigerungstermin keine Anwendung.
 
 
 #### § 13 Berichtspflichten und Überwachung durch die beauftragte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004900130)
 
 (1) Die beauftragte Stelle unterrichtet die zuständige Stelle nach
 jedem Versteigerungstermin über
@@ -518,6 +537,7 @@ bekannt gemacht werden.
 
 
 #### § 14 Verkauf der Überschussmenge
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE005000130)
 
 Nach vollständiger Versteigerung der Gesamtversteigerungsmenge nach
 § 11 Absatz 1 verkauft die beauftragte Stelle im Jahr 2026
@@ -527,6 +547,7 @@ Regelungen nach den §§ 9 und 10 entsprechend.
 
 
 #### § 15 Verkauf der Nachkaufmenge
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE005100130)
 
 Im Jahr 2027 verkauft die beauftragte Stelle bis zum 31. August
 weitere Emissionszertifikate für das Jahr 2026 zu einem
@@ -539,9 +560,11 @@ gelten die Regelungen nach den §§ 9 und 10 entsprechend.
 
 
 ### Unterabschnitt 4 - Besondere Vorschriften für den Verkauf von Emissionszertifikaten für die Jahre ab dem Jahr 2027
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001600130)
 
 
 #### § 16 Fortführung des nationalen Brennstoffemissionshandels für die Jahre ab dem Jahr 2027
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE005200130)
 
 (1) Für die Jahre ab 2027 ist die Veräußerung nicht auf die nach § 44
 Absatz 2a festgelegte Emissionsmenge beschränkt. Für den Fall der
@@ -580,6 +603,7 @@ Anwendung.
 
 
 #### § 17 Sonderregelung bei Verschiebung des Beginns des EU-Brennstoffemissionshandels
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE005300130)
 
 (1) Im Fall der Verschiebung des Beginns des EU-
 Brennstoffemissionshandels nach Artikel 30k Absatz 2 der Richtlinie
@@ -604,12 +628,15 @@ nach den §§ 9 und 10 entsprechend.
 
 
 ## Abschnitt 3 - Nationales Emissionshandelsregister (zu § 12 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000501130)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000601130)
 
 
 #### § 18 Emissionshandelsregister
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001102130)
 
 (1) Die zuständige Behörde führt das nationale
 Emissionshandelsregister einschließlich der Registerkonten und der
@@ -622,9 +649,11 @@ Emissionshandelsregister.
 
 
 ### Unterabschnitt 2 - Konten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000701130)
 
 
 #### § 19 Kontoarten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001201130)
 
 (1) Im nationalen Emissionshandelsregister werden folgende Kontoarten
 geführt:
@@ -664,6 +693,7 @@ dieser Verordnung.
 
 
 #### § 20 Kontostatus
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001301130)
 
 (1) Die zuständige Behörde kann Konten in den Status „offen“,
 „gesperrt“, „ausschließlich Abgabe“ oder „geschlossen“ setzen.
@@ -685,6 +715,7 @@ und keine Emissionszertifikate empfangen.
 
 
 #### § 21 Eröffnung von Konten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001401130)
 
 (1) Die zuständige Behörde eröffnet auf Antrag ein Compliance-,
 Veräußerungs- oder Handelskonto im nationalen
@@ -806,6 +837,7 @@ gilt entsprechend.
 
 
 #### § 22 Aktualisierung von Kontoangaben
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001501130)
 
 (1) Der Kontoinhaber ist verpflichtet, Änderungen der Kontoangaben und
 der Angaben über kontobevollmächtigte Personen unverzüglich in das
@@ -831,6 +863,7 @@ und richtig sind.
 
 
 #### § 23 Sperrung von Konten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001602130)
 
 (1) Die zuständige Behörde setzt ein Konto in den Kontostatus
 „gesperrt“, wenn
@@ -919,6 +952,7 @@ und richtig sind.
 
 
 #### § 24 Schließung von Konten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001701130)
 
 (1) Auf Antrag des Kontoinhabers schließt die zuständige Behörde ein
 Konto und setzt das Konto in den Status „geschlossen“.
@@ -978,9 +1012,11 @@ zuständige Behörde das Konto.
 
 
 ### Unterabschnitt 3 - Kontobevollmächtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000801130)
 
 
 #### § 25 Bestimmung und Ernennung von kontobevollmächtigten Personen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001802130)
 
 (1) Der Kontoinhaber ernennt mindestens eine kontobevollmächtigte
 Person. Der Kontoinhaber kann sich selbst zu einer
@@ -1029,6 +1065,7 @@ kontobevollmächtigten Person ablehnen, wenn
 
 
 #### § 26 Rechte von kontobevollmächtigten Personen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE001901130)
 
 (1) Die zuständige Behörde gewährt kontobevollmächtigten Personen für
 Konten im nationalen Emissionshandelsregister Zugang zu den ihnen
@@ -1053,6 +1090,7 @@ dieser Mitteilung aus ihrer Funktion.
 
 
 #### § 27 Sperrung des Zugangs zum Emissionshandelsregister
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002001130)
 
 (1) Die zuständige Behörde sperrt den Zugang einer
 kontobevollmächtigten Person zum nationalen Emissionshandelsregister,
@@ -1096,9 +1134,11 @@ kontobevollmächtigte Person aus dieser Funktion.
 
 
 ### Unterabschnitt 4 - Emissionszertifikate
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG000901130)
 
 
 #### § 28 Erzeugung von Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002101130)
 
 (1) Die zuständige Behörde erzeugt auf einem Nationalkonto die Menge
 an Emissionszertifikaten nach § 10 Absatz 1 des
@@ -1127,6 +1167,7 @@ der beauftragten Stelle.
 
 
 #### § 29 Einschränkung der Gültigkeit von dem Kalenderjahr 2026 zugeordneten Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE005400130)
 
 Emissionszertifikate, die gemäß § 9 Absatz 1 Satz 1 des
 Brennstoffemissionshandelsgesetzes dem Kalenderjahr 2026 zugeordnet
@@ -1137,6 +1178,7 @@ Vorjahre gültig.
 
 
 #### § 30 Übertragung von veräußerten Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002201130)
 
 Die zuständige Behörde oder im Fall der Beauftragung einer
 beauftragten Stelle die beauftragte Stelle überträgt die nach § 10 des
@@ -1145,6 +1187,7 @@ vom Veräußerungskonto auf das Konto des Erwerbers.
 
 
 #### § 31 Ausführung von Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002302130)
 
 (1) Es können nur Transaktionen veranlasst werden, die in der Anlage 1
 zu dieser Verordnung für die jeweilige Kontoart vorgesehen sind.
@@ -1211,6 +1254,7 @@ beteiligten Konten in dem jeweiligen Konto einsehbar.
 
 
 #### § 32 Annullierung abgeschlossener Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002401130)
 
 (1) Ein Kontoinhaber oder eine kontobevollmächtigte Person kann bei
 der zuständigen Behörde beantragen, dass folgende irrtümlich
@@ -1253,6 +1297,7 @@ Einheitenkennung wie in der zu annullierenden Transaktion gemäß Absatz
 
 
 #### § 33 Löschung von Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002501130)
 
 (1) Kontoinhaber oder kontobevollmächtigte Personen können
 Emissionszertifikate löschen, indem sie eine bestimmte Anzahl von
@@ -1265,6 +1310,7 @@ angerechnet.
 
 
 #### § 34 Bereinigung des Registers, Transaktionsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002602130)
 
 (1) Die zuständige Behörde transferiert Emissionszertifikate, die ihre
 Gültigkeit verloren haben und nicht mehr für eine Abgabe gemäß § 8 des
@@ -1284,6 +1330,7 @@ Beschränkung nach Absatz 2 für ihr Konto nicht gilt.
 
 
 #### § 35 Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002701130)
 
 (1) Die zuständige Behörde weist bestehende gerichtliche oder
 gesetzliche Verfügungsbeschränkungen im Konto aus.
@@ -1301,9 +1348,11 @@ Absatz 1 im Konto auf.
 
 
 ### Unterabschnitt 5 - Eintragung der Brennstoffemissionen und Abgabe von Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001001130)
 
 
 #### § 36 Eintragung der Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002801130)
 
 (1) Der Verantwortliche ist für die ordnungsgemäße Eintragung der nach
 § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes für ein
@@ -1329,6 +1378,7 @@ nicht richtig eingetragen wurde.
 
 
 #### § 37 Abgabe von Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE002901130)
 
 (1) Verantwortliche geben Emissionszertifikate ab, indem sie
 Emissionszertifikate für die nach § 7 Absatz 1 des
@@ -1348,9 +1398,11 @@ werden.
 
 
 ### Unterabschnitt 6 - Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001101130)
 
 
 #### § 38 Aussetzung des Betriebs des Emissionshandelsregisters
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003001130)
 
 (1) Die zuständige Behörde setzt den Betrieb des nationalen
 Emissionshandelsregisters in dem erforderlichen Umfang aus, wenn
@@ -1375,6 +1427,7 @@ von Handlungen, die die Aufklärung von Vorfällen nach Absatz 1 Nummer
 
 
 #### § 39 Pflicht zur Meldung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003101130)
 
 Der Kontoinhaber und kontobevollmächtigte Personen melden der
 zuständigen Behörde unverzüglich, wenn der Verdacht besteht, dass
@@ -1387,6 +1440,7 @@ oder ein solcher Gebrauch versucht wurde.
 
 
 #### § 40 Erhebung, Speicherung und Verwendung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003201130)
 
 (1) Die zuständige Behörde erhebt, speichert und verwendet folgende
 zur Prüfung von Anträgen auf Kontoeröffnung und zur Ernennung von
@@ -1473,6 +1527,7 @@ fortlaufend hieran anzupassen sind.
 
 
 #### § 41 Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003301130)
 
 Im nationalen Emissionshandelsregister enthaltene Angaben und Daten,
 mit Ausnahme der nach § 43 öffentlich zugänglich zu machenden Angaben
@@ -1484,9 +1539,11 @@ Emissionshandelsregisters gespeichert werden.
 
 
 ### Unterabschnitt 7 - Technische Bestimmungen und Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001201130)
 
 
 #### § 42 Automatisierte Prüfung und endgültiger Abschluss von Vorgängen und Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003401130)
 
 Vorgänge und Transaktionen gelten als abgeschlossen, wenn sämtliche
 Prüfungen im nationalen Emissionshandelsregister ohne Feststellung von
@@ -1494,6 +1551,7 @@ Unregelmäßigkeiten beendet wurden.
 
 
 #### § 43 Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003501130)
 
 (1) Die zuständige Behörde macht gemäß § 12 Absatz 4 des
 Brennstoffemissionshandelsgesetzes folgende Angaben und Daten über
@@ -1546,9 +1604,11 @@ in nicht personenbezogener Form im nationalen Emissionshandelsregister
 
 
 ## Abschnitt 4 - Nationale Emissionsmengen (zu den §§ 4 und 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001401130)
 
 
 ### § 44 Festlegung der jährlichen Emissionsmengen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004201130)
 
 (1) Der prozentuale Anteil der nicht vom EU-Emissionshandel erfassten
 Brennstoffemissionen an den nicht vom EU-Emissionshandel erfassten
@@ -1669,6 +1729,7 @@ Emissionsmenge keine Anwendung.
 
 
 ### § 45 Bestimmung der jährlichen Erhöhungsmenge
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004301130)
 
 (1) Die zuständige Behörde hat die jährliche Erhöhungsmenge nach § 4
 Absatz 3 des Brennstoffemissionshandelsgesetzes nach Maßgabe der
@@ -1722,6 +1783,7 @@ zuständige Behörde die jährliche Erhöhungsmenge für die Kalenderjahre
 
 
 ### § 46 Bereinigter Zusatzbedarf
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004401130)
 
 (1) Für die Kalenderjahre 2021 bis 2026 bestimmt die zuständige
 Behörde jeweils den bereinigten Zusatzbedarf an Emissionszertifikaten.
@@ -1774,15 +1836,18 @@ auf ihrer Internetseite
 
 
 ## Abschnitt 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNG001302130)
 
 
 ### § 47 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003602130)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 19 Absatz 2)
 
 ### Anlage 1 Kontoarten
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003701130)
 
 (Fundstelle: BGBl. I 2020, 3037)
 
@@ -1875,6 +1940,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 21 Absatz 1)
 
 ### Anlage 2 Mit dem Antrag auf Kontoeröffnung zu übermittelnde Angaben
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003801130)
 
 (Fundstelle: BGBl. I 2020, 3038)
 
@@ -1921,6 +1987,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 21 Absatz 1)
 
 ### Anlage 3 Für die Eröffnung eines Veräußerungs- oder Handelskontos zu übermittelnde Angaben
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE003901130)
 
 (Fundstelle: BGBl. I 2020, 3039)
 
@@ -2006,6 +2073,7 @@ und Dokumente erforderlich:
 (zu § 21 Absatz 1)
 
 ### Anlage 4 Für die Eröffnung eines Compliance-Kontos zu übermittelnde Angaben
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004001130)
 
 (Fundstelle: BGBl. I 2020, 3040)
 
@@ -2060,6 +2128,7 @@ und Dokumente erforderlich:
 (zu § 25 Absatz 2)
 
 ### Anlage 5 Von dem Kontoinhaber zu übermittelnde Angaben zu kontobevollmächtigten Personen
+[Direktlink](https://www.gesetze-im-internet.de/behv/BJNR302600020.html#BJNR302600020BJNE004101130)
 
 (Fundstelle: BGBl. I 2020, 3041)
 

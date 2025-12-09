@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/feiertevdbest_1/DDNR202810990.html#DDNR202810990BJNE000100314)
 
 Auf Grund des § 2 der Verordnung vom 16. Mai 1990 über die Einführung
 gesetzlicher Feiertage (GBl. I Nr. 27 S. 248) wird folgendes bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/feiertevdbest_1/DDNR202810990.html#DDNR202810990BJNE000200314)
 
 (1) Zwischen den Regierungsbevollmächtigten für die Bezirke und den
 zuständigen Leitungen der evangelischen Kirche sowie der katholischen
@@ -37,6 +39,7 @@ Absatz 1 getroffenen Vereinbarungen bekanntzumachen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/feiertevdbest_1/DDNR202810990.html#DDNR202810990BJNE000300314)
 
 Für die Arbeitnehmer gilt als Feiertag der für das Territorium
 festgelegte Feiertag, in dem der Beschäftigungsbetrieb seinen Sitz hat
@@ -45,6 +48,7 @@ befindet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/feiertevdbest_1/DDNR202810990.html#DDNR202810990BJNE000400314)
 
 (1) Das Recht auf unbezahlte ganztägige Freistellung von der Arbeit
 haben
@@ -98,12 +102,14 @@ Grundlage einer Mitteilung der Erziehungsberechtigten.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/feiertevdbest_1/DDNR202810990.html#DDNR202810990BJNE000500314)
 
 Diese Durchführungsbestimmung tritt mit ihrer Veröffentlichung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/feiertevdbest_1/DDNR202810990.html#DDNR202810990BJNE000600314)
 
 **Der Minister für Arbeit und Soziales**
 

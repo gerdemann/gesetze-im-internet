@@ -19,6 +19,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 45 V v. 19.6.2020 I 1328
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/opragebg/BJNR008180970.html#BJNR008180970BJNE000100304)
 
 Für die Abnahme der Großen Staatsprüfung für den höheren technischen
 Verwaltungsdienst des Bundes durch das Oberprüfungsamt für die höheren
@@ -28,6 +29,7 @@ darf 200 Deutsche Mark nicht übersteigen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/opragebg/BJNR008180970.html#BJNR008180970BJNE000204116)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
@@ -39,6 +41,7 @@ vom 23. Juni 1970 (Bundesgesetzbl. I S. 821) geregelt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/opragebg/BJNR008180970.html#BJNR008180970BJNE000300304)
 
 Es werden aufgehoben, soweit sie Bundesrecht geworden sind:
 

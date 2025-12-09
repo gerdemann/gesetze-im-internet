@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-6-29 v. 9.4.2013 I 963 (GBPolVDVDV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000100000)
 
 
 ### § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -45,6 +47,7 @@ Diese Verordnung regelt
 
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004901311)
 
 Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
@@ -52,6 +55,7 @@ Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Diplomstudium
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000300000)
 
 Der Diplomstudiengang „Polizeivollzugsdienst in der Bundespolizei
 (Diplom-Verwaltungswirt)“ an der Hochschule des Bundes für öffentliche
@@ -60,6 +64,7 @@ des gehobenen Polizeivollzugsdienstes in der Bundespolizei.
 
 
 ### § 3 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000400000)
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
 die wissenschaftlichen Methoden und Kenntnisse sowie die
@@ -76,6 +81,7 @@ europäischen und internationalen Raum.
 
 
 ### § 4 Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000500000)
 
 Der erfolgreiche Abschluss des Studiums vermittelt die
 Laufbahnbefähigung für den gehobenen Polizeivollzugsdienst in der
@@ -83,9 +89,11 @@ Bundespolizei.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000200000)
 
 
 ### § 5 Einstellungsbehörde, Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000600000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Bundespolizeiakademie auf der Grundlage eines Auswahlverfahrens. In
@@ -117,6 +125,7 @@ löschen.
 
 
 ### § 6 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000701311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das
 Bundespolizeipräsidium auf Vorschlag der Bundespolizeiakademie eine
@@ -176,6 +185,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 7 Bestandteile des Auswahlverfahrens, Festlegung ergänzender Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000800000)
 
 (1) Das Auswahlverfahren besteht aus
 
@@ -223,6 +233,7 @@ sind vor der Entscheidung anzuhören.
 
 
 ### § 8 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE000900000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist ein auf
 wissenschaftlicher Grundlage entwickelter Leistungstest.
@@ -247,6 +258,7 @@ eine Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest.
 
 
 ### § 9 Feststellung der körperlichen Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001000000)
 
 (1) Die körperliche Leistungsfähigkeit für den Polizeivollzugsdienst
 in der Bundespolizei wird durch sportliche Leistungstests
@@ -257,6 +269,7 @@ jedem sportlichen Leistungstest die Mindestanforderungen erreicht hat.
 
 
 ### § 10 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001100000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil des Auswahlverfahrens bestanden und die körperliche
@@ -273,6 +286,7 @@ wer nach der Rangfolge nach § 8 Absatz 6 am besten geeignet ist.
 
 
 ### § 11 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001200000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung
 der Bewerberinnen und Bewerber in verschiedenen persönlichen und
@@ -300,6 +314,7 @@ Mindestpunktzahl vorgesehen ist, diese Mindestpunktzahl erreicht hat.
 
 
 ### § 12 Gesamtergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001300000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens
@@ -315,6 +330,7 @@ bestanden haben.
 
 
 ### § 13 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001402311)
 
 (1) In den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst
 der Bundespolizei kann eingestellt werden, wer
@@ -356,9 +372,11 @@ Absatz 2.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000300000)
 
 
 ### § 14 Zuständigkeiten, Organisation und Durchführung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001500000)
 
 (1) Die Bundespolizeiakademie führt die Dienstaufsicht über die
 Studierenden während des Studiums.
@@ -374,6 +392,7 @@ Studienzeiten werden in Dienststellen der Bundespolizei absolviert.
 
 
 ### § 15 Ausbildungspersonal während der berufspraktischen Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001600000)
 
 (1) Die Hochschule bestellt in Abstimmung mit der
 Bundespolizeiakademie für jeden Studienjahrgang eine Beamtin oder
@@ -411,11 +430,13 @@ eine Studierende oder ein Studierender zugewiesen werden.
 
 
 ### § 16 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001700000)
 
 Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
 
 ### § 17 Dauer und Gliederung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001800000)
 
 (1) Das Studium besteht aus Fachstudienzeiten und berufspraktischen
 Studienzeiten.
@@ -611,6 +632,7 @@ die Studierenden verpflichtend.
 
 
 ### § 18 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE001902311)
 
 (1) In den Modulen 1 bis 3, 8, 9, 11 bis 13, 15 und 17 sind
 Leistungstests durchzuführen.
@@ -790,12 +812,15 @@ erhalten eine Bescheinigung über die Bewertung.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000500000)
 
 
 #### § 19 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002000000)
 
 (1) Es werden eine Zwischenprüfung und eine Laufbahnprüfung
 durchgeführt.
@@ -808,6 +833,7 @@ Prüfungsamt der Bundespolizeiakademie (Prüfungsamt) zuständig.
 
 
 #### § 20 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002100000)
 
 (1) Für die Bewertung der Klausuren der Zwischenprüfung und der
 schriftlichen Prüfungen der Laufbahnprüfung sowie für die Durchführung
@@ -860,6 +886,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 #### § 21 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002200000)
 
 (1) Die Klausuren der Zwischenprüfung und der schriftlichen Prüfungen
 der Laufbahnprüfung werden von einer oder einem Prüfenden bewertet,
@@ -878,6 +905,7 @@ Erstprüfenden haben.
 
 
 #### § 22 Bestellung der Prüfenden
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002300000)
 
 (1) Die Hochschule bestellt die Prüfenden für die Zwischenprüfung. Das
 Prüfungsamt bestellt die Prüfenden für die Laufbahnprüfung.
@@ -915,6 +943,7 @@ weisungsgebunden.
 
 
 #### § 23 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002400000)
 
 (1) Für die Bewertung der Leistungen in den Prüfungen und
 Prüfungsteilen gilt § 18 Absatz 5 entsprechend.
@@ -927,9 +956,11 @@ werden auf zwei Nachkommastellen ohne Rundung berechnet.
 
 
 ### Unterabschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000600000)
 
 
 #### § 24 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002500000)
 
 (1) Die Zwischenprüfung wird am Ende des Grundstudiums durchgeführt.
 
@@ -955,6 +986,7 @@ Prüfungskommission.
 
 
 #### § 25 Bestehen der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002600000)
 
 Die Zwischenprüfung ist bestanden, wenn
 
@@ -970,6 +1002,7 @@ Die Zwischenprüfung ist bestanden, wenn
 
 
 #### § 26 Zwischenprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002700000)
 
 (1) Wer die Zwischenprüfung bestanden hat, erhält von der Hochschule
 ein Zwischenprüfungszeugnis. Das Zwischenprüfungszeugnis enthält
@@ -987,9 +1020,11 @@ Hochschule einen schriftlichen Bescheid.
 
 
 ### Unterabschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000700000)
 
 
 #### § 27 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002800000)
 
 Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen
 Polizeivollzugsdienst in der Bundespolizei. Sie besteht aus
@@ -1010,6 +1045,7 @@ Polizeivollzugsdienst in der Bundespolizei. Sie besteht aus
 
 
 #### § 28 Schriftliche Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE002902311)
 
 (1) Die schriftlichen Prüfungen bestehen aus jeweils mindestens einer
 Klausur in den Modulen 10 und 14.
@@ -1038,6 +1074,7 @@ bekannt gegeben werden.
 
 
 #### § 29 Bewertung und Bestehen der schriftlichen Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003000000)
 
 (1) Klausuren, die mit weniger als fünf Rangpunkten bewertet worden
 sind, werden durch eine Zweitprüfende oder einen Zweitprüfenden
@@ -1057,6 +1094,7 @@ mindestens fünf Rangpunkte erreicht worden sind.
 
 
 #### § 30 Praktische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003102311)
 
 (1) Die praktischen Prüfungen bestehen aus jeweils einer praktischen
 Leistungsabnahme in den Modulen 16 und 20.
@@ -1085,12 +1123,14 @@ protokolliert. Das Protokoll ist von den Prüfenden zu unterschreiben.
 
 
 #### § 31 Bestehen der praktischen Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003200000)
 
 Die praktischen Prüfungen sind bestanden, wenn jeweils mindestens fünf
 Rangpunkte erreicht worden sind.
 
 
 #### § 32 Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003300000)
 
 (1) Mit der Diplomarbeit sollen die Studierenden nachweisen, dass sie
 in der Lage sind, eine für die Studienziele relevante Problemstellung
@@ -1124,6 +1164,7 @@ Rangpunkten bewertet.
 
 
 #### § 33 Bewertung und Bestehen der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003400000)
 
 (1) Bei der Diplomarbeit sind der Inhalt mit 70 Prozent und die Form
 mit 30 Prozent zu gewichten.
@@ -1144,6 +1185,7 @@ erreicht worden sind.
 
 
 #### § 34 Zulassung zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003500000)
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die
 Zwischenprüfung, die schriftlichen und die praktischen Prüfungen der
@@ -1157,6 +1199,7 @@ sowie in der Diplomarbeit erzielten Rangpunkte mitgeteilt.
 
 
 #### § 35 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003602311)
 
 (1) Die mündliche Abschlussprüfung wird im Modul 18 als
 interdisziplinäre Prüfung durchgeführt. In ihr sollen die Studierenden
@@ -1190,6 +1233,7 @@ Protokollführer anwesend sein.
 
 
 #### § 36 Bewertung und Bestehen der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003700000)
 
 (1) Die mündliche Abschlussprüfung ist bestanden, wenn mindestens fünf
 Rangpunkte erreicht worden sind.
@@ -1201,6 +1245,7 @@ erläutert das Prüfungsergebnis mündlich.
 
 
 #### § 37 Bestehen der Laufbahnprüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003801311)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die abschließende
 Rangpunktzahl mindestens fünf beträgt. Bei der Berechnung der
@@ -1323,6 +1368,7 @@ Gesamtnote zugeordnet.
 
 
 #### § 38 Abschlusszeugnis, akademischer Grad, Bescheid bei Nichtbestehen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE003900000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein
 Abschlusszeugnis. Das Abschlusszeugnis enthält mindestens die
@@ -1350,9 +1396,11 @@ bestanden erklärt, ist das Abschlusszeugnis zurückzugeben.
 
 
 ### Unterabschnitt 4 - Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000800000)
 
 
 #### § 39 Fernbleiben und Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004000000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung
 oder einem Prüfungsteil gilt diese Prüfung oder dieser Prüfungsteil
@@ -1368,6 +1416,7 @@ unverzüglich ein ärztliches Attest vorgelegt wird.
 
 
 #### § 40 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004100000)
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil
 täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst
@@ -1408,6 +1457,7 @@ anzuhören.
 
 
 #### § 41 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004204311)
 
 (1) Studierende, die die Zwischenprüfung, die schriftlichen Prüfungen
 der Laufbahnprüfung, die praktischen Prüfungen der Laufbahnprüfung,
@@ -1448,6 +1498,7 @@ mehr wiederholt werden, so ist die Prüfung endgültig nicht bestanden.
 
 
 #### § 42 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004300000)
 
 (1) Zu jeder und jedem Studierenden führen die Hochschule und das
 Prüfungsamt eine Prüfungsakte.
@@ -1503,6 +1554,7 @@ Die Einsichtnahme wird in der Prüfungsakte vermerkt.
 
 
 #### § 43 Beendigung des Beamtenverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004400000)
 
 Bei endgültigem Nichtbestehen der Zwischenprüfung oder der
 Laufbahnprüfung endet das Beamtenverhältnis mit Ablauf des Tages, an
@@ -1510,6 +1562,7 @@ dem das Nichtbestehen der Prüfung bekannt gegeben wird.
 
 
 #### § 44 Zuerkennung der Befähigung für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004500000)
 
 Studierenden, die die Laufbahnprüfung nach der mündlichen
 Abschlussprüfung endgültig nicht bestanden haben, kann die Befähigung
@@ -1520,6 +1573,7 @@ Polizeivollzugsdienst in der Bundespolizei gleich.
 
 
 #### § 45 Zuständigkeit für die Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004600000)
 
 Über Widersprüche gegen Entscheidungen im Prüfungsverfahren, die auf
 Grund dieser Verordnung getroffen werden, entscheidet bei der
@@ -1528,9 +1582,11 @@ Prüfungsamt.
 
 
 ## Abschnitt 5 - Aufstieg nach § 15 der Bundespolizei-Laufbahnverordnung
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG000900000)
 
 
 ### § 46 Anwendung der Abschnitte 1 bis 4, Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004700000)
 
 (1) Für die Auswahl und Ausbildung von Polizeivollzugsbeamtinnen und
 -beamten, die sich für den Aufstieg in den gehobenen
@@ -1556,9 +1612,11 @@ Hauptstudium I in den weiteren Studienverlauf der Studierenden nach §
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNG001000000)
 
 
 ### § 47 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbpolvdvdv_2017/BJNR326110017.html#BJNR326110017BJNE004800000)
 
 (1) Für Polizeivollzugsbeamtinnen und -beamte, die den
 Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der

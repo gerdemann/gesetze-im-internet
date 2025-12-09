@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/gewbezg/BJNR004120933.html#BJNR004120933BJNE000100328)
 
 (1) Frachtstücke oder andere Gegenstände von mindestens 1.000
 Kilogramm Rohgewicht, die im Geltungsbereich dieses Gesetzes
@@ -42,11 +43,13 @@ unglaubhaft erscheint.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gewbezg/BJNR004120933.html#BJNR004120933BJNE000200328)
 
 -
 
 
 ## § 3 Überwachungs- und Zwangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewbezg/BJNR004120933.html#BJNR004120933BJNE000300328)
 
 (1) Die Aufsicht über die Durchführung dieses Gesetzes liegt den für
 die Hafen- oder Schiffahrtspolizei zuständigen Behörden ob. Der § 139b
@@ -68,6 +71,7 @@ die Beitreibung öffentlicher Abgaben.
 
 
 ## § 3a Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gewbezg/BJNR004120933.html#BJNR004120933BJNE000400328)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 1 die vorgeschriebene Gewichtsbezeichnung nicht anbringt.
@@ -76,6 +80,7 @@ die Beitreibung öffentlicher Abgaben.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gewbezg/BJNR004120933.html#BJNR004120933BJNE000500328)
 
 Dieses Gesetz tritt einen Monat nach der Verkündung in Kraft.
 

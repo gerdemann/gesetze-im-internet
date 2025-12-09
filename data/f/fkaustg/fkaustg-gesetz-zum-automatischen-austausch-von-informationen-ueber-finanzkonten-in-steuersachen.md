@@ -30,9 +30,11 @@ Dezember 2015 (BGBl. 2015 II S. 1630).
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000201377)
 
 (1) Dieses Gesetz gilt für den automatischen Austausch von
 Informationen über Finanzkonten in Steuersachen mit
@@ -78,6 +80,7 @@ Begriffsbestimmungen nach § 20.
 
 
 ### § 2 Gemeinsamer Meldestandard
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000300000)
 
 Gemäß den geltenden Melde- und Sorgfaltspflichten und ergänzenden
 Melde- und Sorgfaltsvorschriften tauscht das Bundeszentralamt für
@@ -155,6 +158,7 @@ diesem Gesetz übermittelten Daten aus; diese sind:
 
 
 ### § 3 Pflichten der Finanzinstitute
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000401123)
 
 (1) Die durch dieses Gesetz verpflichteten Finanzinstitute haben bei
 der Beschaffung und der Weiterleitung der Informationen im Sinne von §
@@ -221,6 +225,7 @@ die Aufzeichnungen erstellt worden sind.
 
 
 ### § 3a Pflichten der Kontoinhaber und der Antragsteller
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE003000123)
 
 (1) Natürliche Personen und Rechtsträger, die bei einem meldenden
 Finanzinstitut entweder für sich selbst oder zugunsten oder für
@@ -243,6 +248,7 @@ und vollständig mitteilen.
 
 
 ### § 3b Verhinderung der Umgehung der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE003100123)
 
 Durch Missbrauch von Gestaltungsmöglichkeiten des Rechts können die
 Verpflichtungen aus diesem Gesetz nicht umgangen werden. § 42 der
@@ -250,6 +256,7 @@ Abgabenordnung gilt entsprechend.
 
 
 ### § 4 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000500000)
 
 Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium
 der Finanzen, soweit nicht die Zuständigkeit des Bundeszentralamts für
@@ -258,6 +265,7 @@ gegeben ist.
 
 
 ### § 5 Aufgaben des Bundeszentralamts für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000602123)
 
 (1) Dem Bundeszentralamt für Steuern sind als zuständiger Behörde im
 Sinne des § 4 von den meldenden Finanzinstituten die Daten nach § 8
@@ -311,6 +319,7 @@ Abgabenordnung statt.
 
 
 ### § 6 Ansässigkeit; Zeitpunkt der Erstanwendung
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000701123)
 
 (1) Finanzinstitute haben zur Wahrung der Melde- und
 Sorgfaltspflichten nach diesem Gesetz zu den von ihnen geführten
@@ -339,9 +348,11 @@ bis zum 31. Juli eines Folgejahres zu übermitteln.
 
 
 ## Abschnitt 2 - Melde- und Sorgfaltspflichten für Informationen über Finanzkonten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNG000200000)
 
 
 ### § 7 Melde- und Sorgfaltspflichten für Informationen über Finanzkonten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000800000)
 
 Die §§ 8 bis 26 legen die allgemeinen Melde- und Sorgfaltspflichten,
 die besonderen Sorgfaltsvorschriften und ergänzenden Melde- und
@@ -353,6 +364,7 @@ jeweils zuständige Behörde des anderen Staates im Sinne des § 1 Absatz
 
 
 ### § 8 Allgemeine Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE000901123)
 
 (1) Vorbehaltlich der Absätze 2, 3 und 4 muss jedes meldende
 Finanzinstitut für jedes meldepflichtige Konto dieses meldenden
@@ -487,6 +499,7 @@ zu gewährleisten.
 
 
 ### § 9 Allgemeine Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001000000)
 
 (1) Ein Konto gilt ab dem Tag als meldepflichtiges Konto, an dem es
 nach den Verfahren zur Erfüllung der Sorgfaltspflichten gemäß den §§ 9
@@ -519,6 +532,7 @@ bestehende Konten weiterhin Anwendung.
 
 
 ### § 10 Sorgfaltspflichten bei bestehenden Konten natürlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001100000)
 
 (1) Die Identifizierung meldepflichtiger Konten unter den bestehenden
 Konten natürlicher Personen richtet sich nach den §§ 11 und 12.
@@ -530,6 +544,7 @@ ist keine meldepflichtige Person mehr.
 
 
 ### § 11 Konten von geringerem Wert
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001201123)
 
 (1) Für Konten von geringerem Wert gilt:
 
@@ -661,6 +676,7 @@ verpflichtet, diese bis zum 31. Dezember 2025 nachzuholen.
 
 
 ### § 12 Konten von hohem Wert
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001301123)
 
 (1) Für Konten von hohem Wert gelten die folgenden erweiterten
 Überprüfungsverfahren:
@@ -824,6 +840,7 @@ diese bis zum 31. Dezember 2025 nachzuholen.
 
 
 ### § 13 Sorgfaltspflichten bei Neukonten natürlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001402123)
 
 (1) Die Identifizierung meldepflichtiger Konten unter den Neukonten
 natürlicher Personen richtet sich nach den folgenden Absätzen.
@@ -903,6 +920,7 @@ Kontoinhabers hervorgeht oder hervorgehen.
 
 
 ### § 14 Sorgfaltspflichten bei bestehenden Konten von Rechtsträgern
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001500000)
 
 (1) Die Identifizierung meldepflichtiger Konten unter den bestehenden
 Konten von Rechtsträgern richtet sich nach den folgenden Absätzen.
@@ -1029,6 +1047,7 @@ meldepflichtige Personen sind, Inhaber des Kontos ist oder sind:
 
 
 ### § 15 Überprüfungszeitraum und zusätzliche Verfahren für bestehende Konten von Rechtsträgern
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001601123)
 
 (1) Die Überprüfung bestehender Konten von Rechtsträgern mit einem
 Gesamtkontosaldo oder Gesamtkontowert von mehr als 250 000 US-Dollar
@@ -1057,6 +1076,7 @@ festgelegten Verfahren neu bestimmen.
 
 
 ### § 16 Sorgfaltspflichten bei Neukonten von Rechtsträgern
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001703123)
 
 (1) Die Identifizierung meldepflichtiger Konten unter den Neukonten
 von Rechtsträgern richtet sich nach den folgenden Absätzen.
@@ -1182,6 +1202,7 @@ beherrschenden Person verlassen.
 
 
 ### § 17 Besondere Sorgfaltsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001800000)
 
 (1) Ein meldendes Finanzinstitut darf sich nicht auf eine
 Selbstauskunft oder auf Belege verlassen, wenn ihm bekannt ist oder
@@ -1270,6 +1291,7 @@ Vereinigung oder Gruppe angeschlossen sind.
 
 
 ### § 18 Zusammenfassung von Kontosalden und Währungen
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE001900000)
 
 (1) Für Zwecke der Bestimmung des Gesamtsaldos oder des Gesamtwerts
 von Finanzkonten einer natürlichen Person muss ein meldendes
@@ -1310,6 +1332,7 @@ Währungen nach innerstaatlichem Recht.
 
 
 ### § 19 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002000000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -2405,6 +2428,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ### § 20 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002100000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -2515,9 +2539,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Abschnitt 3 - Ergänzende Melde- und Sorgfaltsvorschriften für Informationen über Finanzkonten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNG000300000)
 
 
 ### § 21 Änderung der Gegebenheiten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002200000)
 
 (1) Eine Änderung der Gegebenheiten umfasst jede Änderung, die die
 Aufnahme neuer für den Status einer Person relevanter Informationen
@@ -2550,6 +2576,7 @@ beschriebene Suche in elektronischen Datensätzen durchführen.
 
 
 ### § 22 Selbstauskunft bei Neukonten von Rechtsträgern
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002300000)
 
 Bei Neukonten von Rechtsträgern kann sich ein meldendes Finanzinstitut
 zur Feststellung, ob eine beherrschende Person eines passiven NFE eine
@@ -2558,6 +2585,7 @@ Kontoinhabers oder dieser beherrschenden Person verlassen.
 
 
 ### § 23 Ansässigkeit eines Finanzinstituts
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002400000)
 
 (1) Ein Finanzinstitut ist in einem meldepflichtigen Staat ansässig,
 wenn es der Hoheitsgewalt dieses Staates untersteht. Der Hoheitsgewalt
@@ -2600,6 +2628,7 @@ Sorgfaltspflichten des Staates, in dem es die Finanzkonten führt.
 
 
 ### § 24 Geführte Konten
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002500000)
 
 Im Allgemeinen ist davon auszugehen, dass Konten von folgenden
 Finanzinstituten geführt werden:
@@ -2628,6 +2657,7 @@ Finanzinstituten geführt werden:
 
 
 ### § 25 Trusts, die passive NFEs sind
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002600000)
 
 (1) Ein Rechtsträger, wie eine Personengesellschaft, eine Limited
 Liability Partnership oder ein ähnliches Rechtsgebilde, bei dem keine
@@ -2646,6 +2676,7 @@ gelten.
 
 
 ### § 26 Anschrift des Hauptsitzes eines Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002700000)
 
 Gemäß § 20 Nummer 6 Buchstabe c müssen amtliche Dokumente in Bezug auf
 einen Rechtsträger entweder die Anschrift des Hauptsitzes des
@@ -2665,6 +2696,7 @@ Anschrift des Hauptsitzes des Rechtsträgers.
 
 
 ### § 27 Anwendungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002801123)
 
 (1) Das Bundeszentralamt für Steuern führt als zuständige Behörde die
 automatische Übermittlung von Informationen nach § 1 in Verbindung mit
@@ -2685,6 +2717,7 @@ auf Meldezeiträume, die am oder nach dem 1. Januar 2025 beginnen.
 
 
 ### § 28 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fkaustg/BJNR253110015.html#BJNR253110015BJNE002902123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 

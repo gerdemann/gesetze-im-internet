@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -31,9 +32,11 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNG000100000)
 
 
 ### § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000300000)
 
 (1) Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen
 der Bundesrepublik Deutschland und der Schweizerischen
@@ -51,6 +54,7 @@ auf dem Gebiet der Nachlass- und Erbschaftsteuern vom 30. November
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000400000)
 
 Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf
 die Umsetzung entsprechender Konsultationsvereinbarungen im Sinn des §
@@ -60,9 +64,11 @@ worden sind, richtet sich nach dieser Verordnung.
 
 
 ## Abschnitt 2 - Schenkungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNG000200000)
 
 
 ### § 3 Schenkungen von Geschäftsbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000500000)
 
 Die für Erbschaftsfälle geltenden Regelungen des
 Erbschaftsteuerabkommens (§ 1 Absatz 2) sind auch für Schenkungen von
@@ -70,9 +76,11 @@ Geschäftsbetrieben entsprechend anzuwenden.
 
 
 ## Abschnitt 3 - Grenzgängerbesteuerung (Artikel 15a des Abkommens)
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNG000300000)
 
 
 ### § 4 Ansässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000600000)
 
 Sind in einem Ansässigkeitsstaat mehrere Wohnsitze oder mehrere Orte
 des gewöhnlichen Aufenthalts gegeben, bleibt die
@@ -82,6 +90,7 @@ Aufenthalts die regelmäßige Rückkehr erfolgt.
 
 
 ### § 5 Ansässigkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000700000)
 
 (1) Der Antrag auf Erteilung einer Ansässigkeitsbescheinigung ist vom
 Grenzgänger persönlich zu unterschreiben.
@@ -97,6 +106,7 @@ die Voraussetzungen des Artikels 15a des Abkommens nicht erfüllt.
 
 
 ### § 6 Arbeitsort
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000800000)
 
 Arbeitsort ist regelmäßig der Ort, an dem der Arbeitnehmer in den
 Betrieb seines Arbeitgebers eingegliedert ist. Übt der Arbeitnehmer
@@ -110,6 +120,7 @@ Arbeit überwiegend auszuüben hat.
 
 
 ### § 7 Geringfügige Arbeitsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE000900000)
 
 Eine regelmäßige Rückkehr im Sinn des Artikels 15a Absatz 2 des
 Abkommens liegt auch noch vor, wenn sich der Arbeitnehmer auf Grund
@@ -121,6 +132,7 @@ wird eine regelmäßige Rückkehr nicht angenommen.
 
 
 ### § 8 Nichtrückkehrtage
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001000000)
 
 (1) Als Nichtrückkehrtage kommen nur Arbeitstage in Betracht, die im
 persönlichen Arbeitsvertrag des Arbeitnehmers erfasst sind. Samstage,
@@ -165,6 +177,7 @@ Nichtrückkehrtagen.
 
 
 ### § 9 Kürzung der 60-Tage-Grenze
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001101123)
 
 (1) (weggefallen)
 
@@ -184,6 +197,7 @@ vorzunehmen.
 
 
 ### § 10 Bescheinigung über die Nichtrückkehrtage
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001200000)
 
 (1) Stellt der Arbeitgeber am Ende des Jahres oder bei Beendigung des
 Arbeitsverhältnisses während des Kalenderjahrs fest, dass die
@@ -213,6 +227,7 @@ der Einkommensteuer-Vorauszahlungen Rechnung zu tragen.
 
 
 ### § 11 Bemessungsgrundlage und -zeitraum
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001300000)
 
 Bei Vorliegen der Ansässigkeitsbescheinigung oder der Verlängerung
 darf die Abzugsteuer 4,5 Prozent des Bruttobetrags der Vergütungen
@@ -226,6 +241,7 @@ unabhängig davon, wo die Arbeit ausgeübt wird.
 
 
 ### § 12 Ansässigkeitsstaat Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001400000)
 
 (1) Die Anrechnung von Abzugsteuer bei der Veranlagung erfolgt jedoch
 nur, wenn eine gesonderte Steuerbescheinigung oder ein Steuerausweis
@@ -243,6 +259,7 @@ möglich.
 
 
 ### § 13 Grundsätze der Steuerberechnung
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001501123)
 
 (1) Für schweizerische Arbeitnehmer, die die Grenzgängereigenschaft im
 Sinn des Artikels 15a Absatz 2 des Abkommens erfüllen, gilt ein von §
@@ -278,6 +295,7 @@ voraussichtlich überschreiten wird.
 
 
 ### § 14 Nach amtlichen Vorgaben ermittelte Lohnsteuer ist niedriger als 4,5 Prozent
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001600000)
 
 (1) Der Steuersatz von 4,5 Prozent ist unbeachtlich, wenn der
 schweizerische Grenzgänger eine Ansässigkeitsbescheinigung oder eine
@@ -293,6 +311,7 @@ einen Steuerabzug nach der Steuerklasse VI vornehmen muss.
 
 
 ### § 15 Verpflichtung zur Änderung der Abzugsteuer
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001700000)
 
 Die Verpflichtung zur Lohnsteuer-Nacherhebung bleibt auch nach Ablauf
 des Kalenderjahrs erhalten. Abweichend von § 41c Absatz 3 des
@@ -311,6 +330,7 @@ Abgabenordnung (§ 37 Absatz 2 der Abgabenordnung) geltend machen.
 
 
 ### § 16 Nachweis der Bruttovergütungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001800000)
 
 (1) Für einen deutschen Grenzgänger hat der Lohnausweis (Bruttobetrag
 der Vergütungen) nach amtlichem Vordruck der schweizerischen
@@ -337,6 +357,7 @@ kenntlich zu machen.
 
 
 ### § 17 Verschiedene Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE001901123)
 
 (1) Bei den unter Artikel 15 Absatz 3 des Abkommens fallenden
 Arbeitnehmern an Bord von Seeschiffen oder Luftfahrzeugen im
@@ -359,6 +380,7 @@ Wohnungswechsel statt.
 
 
 ### § 18 Abwanderer in die Schweiz (Artikel 4 Absatz 4 des Abkommens)
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002000000)
 
 (1) Eine teilweise Freistellung von Abzugsteuern nach § 39b Absatz 6
 des Einkommensteuergesetzes bei Arbeitslöhnen kommt bei Abwanderern so
@@ -386,9 +408,11 @@ Erteilung der Anrechnungsbescheinigung zu stellen.
 
 
 ## Abschnitt 4 - Leitende Angestellte, Drittstaateneinkünfte
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNG000400000)
 
 
 ### § 19 Besteuerung leitender Angestellter
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002100000)
 
 (1) Erhält ein Gesellschafter einer Personengesellschaft
 Tätigkeitsvergütungen als Arbeitnehmer, richtet sich das
@@ -415,6 +439,7 @@ Angestellten bleibt unberührt.
 
 
 ### § 20 Arbeitnehmer mit Einkünften aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002200000)
 
 Arbeitseinkünfte eines Arbeitnehmers, der in der Bundesrepublik
 Deutschland wohnt und bei einem schweizerischen Arbeitgeber
@@ -426,9 +451,11 @@ persönlich (körperlich) aufhält.
 
 
 ## Abschnitt 5 - Sonstige Anwendungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNG000500000)
 
 
 ### § 21 Unterhaltsleistungen an geschiedene oder dauernd getrennt lebende Ehegatten oder an Lebenspartner einer aufgehobenen Lebenspartnerschaft oder dauernd getrennt lebende Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002301118)
 
 (1) Nach Artikel 21 des Abkommens können Unterhaltszahlungen an einen
 geschiedenen oder dauernd getrennt lebenden Ehegatten, die aus einem
@@ -449,6 +476,7 @@ wird.
 
 
 ### § 22 Betriebliche Veräußerungsrenten
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002400000)
 
 Im Falle von Renten, die auf Grund der Veräußerung eines Betriebs
 gezahlt werden (betriebliche Veräußerungsrenten), hat der
@@ -462,6 +490,7 @@ Rentenzahlungen den Veräußerungsgewinn übersteigen.
 
 
 ### § 23 Nachfolgeunternehmen der Regiebetriebe nach Artikel 19 Absatz 3 des Abkommens
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002500000)
 
 (1) Artikel 19 Absatz 3 des Abkommens ist auch anzuwenden auf
 Vergütungen an Beamte, die bisher bei der Deutschen Post oder
@@ -476,6 +505,7 @@ Bundesbahnen AG oder der Schweizerischen Post PTT beschäftigt sind.
 
 
 ### § 24 Arbeitnehmer-Abfindungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002600000)
 
 (1) Ist einer Abfindung Versorgungscharakter beizumessen, steht das
 Besteuerungsrecht entsprechend Artikel 18 des Abkommens dem
@@ -497,20 +527,24 @@ Wohnsitzstaat der Person besteuert werden.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNG000600000)
 
 
 ### § 25 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002700000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
 ### § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverchev/BJNR218700010.html#BJNR218700010BJNE002900000)
 
 Der Bundesrat hat zugestimmt.
 

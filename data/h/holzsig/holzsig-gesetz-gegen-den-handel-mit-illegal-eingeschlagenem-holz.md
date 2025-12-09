@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000100000)
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## § 1 Anwendungsbereich und Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000201360)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr.
 2173/2005 des Rates vom 20. Dezember 2005 zur Einrichtung eines FLEGT-
@@ -57,6 +59,7 @@ Behörden.
 
 
 ## § 2 Eingriffsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000301360)
 
 (1) Die zuständige Behörde trifft die erforderlichen Anordnungen und
 Maßnahmen zur Feststellung von Verstößen gegen die in § 1 Absatz 1
@@ -201,6 +204,7 @@ wird.
 
 
 ## § 3 Mitwirkung der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000401360)
 
 (1) Die Zollbehörden wirken bei der Überwachung der Einfuhr von
 Holzprodukten aus den Partnerländern sowie von Holz und Holzprodukten
@@ -229,6 +233,7 @@ mit.
 
 
 ## § 4 Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000501360)
 
 (1) Die Bundesanstalt unterrichtet die Zollbehörden unverzüglich über
 das Ergebnis der Überprüfung von FLEGT-Genehmigungen. Die
@@ -253,6 +258,7 @@ die zuständigen Behörden elektronische Systeme einsetzen.
 
 
 ## § 5 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000602118)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -291,6 +297,7 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 ## § 6 Auskunfts-, Duldungs- und Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000702377)
 
 (1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
@@ -349,6 +356,7 @@ angezeigten Daten sind der Bundesanstalt unverzüglich anzuzeigen.
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000801360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2173/2005 des Rates vom 20.
@@ -451,6 +459,7 @@ Gesetz durch diese ausgeführt wird.
 
 
 ## § 8 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE000901360)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -470,6 +479,7 @@ bestraft, wer
 
 
 ## § 9 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE001001360)
 
 Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 7 oder eine
 Straftat nach § 8 bezieht, und Gegenstände, die zu ihrer Begehung oder
@@ -479,6 +489,7 @@ eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzsig/BJNR134500011.html#BJNR134500011BJNE001100000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

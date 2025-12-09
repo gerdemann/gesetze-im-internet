@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Aufgaben und Organisation des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000105377)
 
 
 
 ### § 1 Aufgaben des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001005377)
 
 Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben,
 die dem Allgemeinwohl dienen, vorrangig im sozialen Bereich.
 
 
 ### § 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012403377)
 
 (1) Die Einberufungsanordnungen des Bundesministeriums für Familie,
 Senioren, Frauen und Jugend können vorsehen, dass Einberufungen
@@ -45,6 +48,7 @@ Verteidigungsfall.
 
 
 ### § 2 Organisation des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001111377)
 
 (1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in
 bundeseigener Verwaltung ausgeführt. Hierzu wird eine selbstständige
@@ -67,6 +71,7 @@ Tätigkeitsbericht (Zivildienstbericht).
 
 
 ### § 2a Beirat für den Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001209377)
 
 (1) Bei dem Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird ein Beirat für den Zivildienst gebildet. Der Beirat hat das
@@ -116,6 +121,7 @@ erlassenden Geschäftsordnung einberufen und geleitet.
 
 
 ### § 3 Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001306377)
 
 Die Dienstpflichtigen leisten den Zivildienst in einer dafür
 anerkannten Beschäftigungsstelle, in einer Zivildienstschule oder in
@@ -124,6 +130,7 @@ Bedarf auch in der Verwaltung des Zivildienstes beschäftigt werden.
 
 
 ### § 4 Anerkennung von Beschäftigungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001411377)
 
 (1) Eine Beschäftigungsstelle kann auf ihren Antrag anerkannt werden,
 wenn
@@ -175,6 +182,7 @@ innerhalb einer gesetzten Frist erfüllt worden ist.
 
 
 ### § 5 Aufstellung der Dienstgruppen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001507377)
 
 Dienstgruppen werden auf Anordnung des Bundesministeriums für Familie,
 Senioren, Frauen und Jugend nach Bedarf aufgestellt. Das
@@ -183,6 +191,7 @@ ihren Sitz nach Anhörung des beteiligten Landes.
 
 
 ### § 5a Übertragung von Verwaltungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001608377)
 
 (1) Die Dienststellen können mit der Wahrnehmung von
 Verwaltungsaufgaben beauftragt werden. Werden Stellen der Länder
@@ -203,6 +212,7 @@ Die Verwaltungskosten können in angemessenem Umfang erstattet werden.
 
 
 ### § 6 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001716377)
 
 (1) Die Beschäftigungsstellen sorgen auf ihre Kosten für Unterkunft,
 Verpflegung und Arbeitskleidung der Dienstleistenden. Sie tragen die
@@ -240,10 +250,12 @@ der Haushaltsplan hierfür Mittel zur Verfügung stellt.
 
 
 ## Abschnitt 2 - Tauglichkeit, Zivildienstausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000205377)
 
 
 
 ### § 7 Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001806377)
 
 Die Tauglichkeit für den Zivildienst bestimmt sich nach der
 Tauglichkeit für den Wehrdienst. Wehrdienstfähige gelten als
@@ -253,12 +265,14 @@ nicht zivildienstfähig.
 
 
 ### § 8 Zivildienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE001906377)
 
 Zum Zivildienst wird nicht herangezogen, wer nicht zivildienstfähig
 ist.
 
 
 ### § 9 Ausschluss vom Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002110377)
 
 Vom Zivildienst ist ausgeschlossen,
 
@@ -285,6 +299,7 @@ Vom Zivildienst ist ausgeschlossen,
 
 
 ### § 10 Befreiung vom Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002214377)
 
 (1) Vom Zivildienst sind befreit
 
@@ -372,6 +387,7 @@ zu befreien,
 
 
 ### § 11 Zurückstellung vom Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002410377)
 
 (1) Vom Zivildienst wird zurückgestellt,
 
@@ -476,6 +492,7 @@ auszusetzen.
 
 
 ### § 12 Befreiungs- und Zurückstellungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002511377)
 
 (1) Anträge nach § 10 Abs. 2 und nach § 11 Abs. 2, 4 und 6 dieses
 Gesetzes, die nicht gemäß § 20 des Wehrpflichtgesetzes frühestens nach
@@ -504,6 +521,7 @@ nach § 11 Abs. 2 sind beizubringen
 
 
 ### § 13 Verfahren bei der Zurückstellung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002610377)
 
 (1) Zurückstellungen nach § 11 Abs. 1, 4 und 5 sind befristet
 auszusprechen. In den Fällen des § 11 Abs. 4, ausgenommen Satz 2 Nr. 1
@@ -529,6 +547,7 @@ den Zivildienst zur Verfügung.
 
 
 ### § 14 Zivilschutz oder Katastrophenschutz
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002711377)
 
 (1) Anerkannte Kriegsdienstverweigerer, die sich vor Vollendung des
 23\. Lebensjahres mit Zustimmung der zuständigen Behörde auf mindestens
@@ -566,6 +585,7 @@ anzurechnen.
 
 
 ### § 14a Entwicklungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002812377)
 
 (1) Anerkannte Kriegsdienstverweigerer werden bis zur Vollendung des
 28\. Lebensjahres nicht zum Zivildienst herangezogen, wenn sie sich
@@ -597,6 +617,7 @@ Zivildienst anzuzeigen.
 
 
 ### § 14b Andere Dienste im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011110377)
 
 (1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst
 herangezogen, wenn sie
@@ -647,6 +668,7 @@ bestimmte Vorhaben des Trägers beschränken. § 4 Abs. 1 Satz 3 und Abs.
 
 
 ### § 14c Freiwilliges Jahr
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011207377)
 
 (1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst
 herangezogen, wenn sie sich nach ihrer Anerkennung als
@@ -676,6 +698,7 @@ Monate übersteigt, auf den Zivildienst anzurechnen.
 
 
 ### § 15 Sondervorschriften für Angehörige des Polizeivollzugsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE002909377)
 
 (1) Anerkannte Kriegsdienstverweigerer, die dem Vollzugsdienst der
 Polizei angehören oder für diesen durch schriftlichen Bescheid
@@ -695,6 +718,7 @@ innerhalb von sechs Monaten nach der Annahme zu erwarten ist.
 
 
 ### § 15a Freies Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003009377)
 
 (1) Anerkannte Kriegsdienstverweigerer, die aus Gewissensgründen
 gehindert sind, Zivildienst zu leisten, werden zum Zivildienst
@@ -720,6 +744,7 @@ Zivildienst anzurechnen.
 
 
 ### § 16 Unabkömmlichstellung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003109377)
 
 (1) Zum Ausgleich des öffentlichen Interesses an der Heranziehung zum
 Zivildienst und desjenigen an der Deckung des personellen
@@ -751,12 +776,14 @@ Voraussetzungen selbst anzuzeigen.
 
 
 ### § 17 Entscheidungen über Wehrdienstausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003205377)
 
 Entscheidungen der Wehrersatzbehörden über Wehrdienstausnahmen gelten
 auch für den Zivildienst.
 
 
 ### § 18 Erstattung von Auslagen und Verdienstausfall
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003305377)
 
 Anerkannten Kriegsdienstverweigerern werden die aus Anlass einer
 Prüfung ihrer Verfügbarkeit für den Zivildienst entstandenen
@@ -766,10 +793,12 @@ Wehrersatzbehörden geltenden Vorschriften erstattet.
 
 
 ## Abschnitt 3 - Heranziehung zum Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000305377)
 
 
 
 ### § 19 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003413377)
 
 (1) Die Dienstpflichtigen werden nach den Einberufungsanordnungen des
 Bundesministeriums für Familie, Senioren, Frauen und Jugend zum
@@ -811,6 +840,7 @@ Einberufungstermin ergehen. Dies gilt nicht in den Fällen des Absatzes
 
 
 ### § 19a Verlegung des ständigen Aufenthaltes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003506377)
 
 (1) Die Wehrpflicht erlischt oder ruht nicht, wenn anerkannte
 Kriegsdienstverweigerer ihren ständigen Aufenthalt
@@ -836,6 +866,7 @@ den Vorschriften dieses Gesetzes herangezogen.
 
 
 ### § 20 Vernehmung von Zeuginnen, Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003606377)
 
 Ist für die Überprüfung der Verfügbarkeit des anerkannten
 Kriegsdienstverweigerers die Vernehmung von Zeuginnen, Zeugen oder
@@ -852,6 +883,7 @@ der Eidesleistung; die Entscheidung kann nicht angefochten werden.
 
 
 ### § 21 Widerruf des Einberufungsbescheides
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003705377)
 
 Wird nach Zustellung des Einberufungsbescheides festgestellt, dass der
 anerkannte Kriegsdienstverweigerer nicht verfügbar ist, so ist der
@@ -860,6 +892,7 @@ schriftlich zu erteilen und zuzustellen.
 
 
 ### § 22 Anrechnung anderen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003809377)
 
 Geleisteter Wehrdienst und auf Grund der Grenzschutzdienstpflicht
 geleisteter Grenzschutzdienst werden auf den Zivildienst angerechnet.
@@ -893,6 +926,7 @@ keinen Dienst geleistet hat.
 
 
 ### § 22a Anrechnung von Wehr- und Zivildienst anderer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011706377)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 kann im Einzelfall außerhalb der Bundeswehr geleisteten Wehrdienst
@@ -914,6 +948,7 @@ Dienstpflichtigen an Eides statt verlangen kann.
 
 
 ### § 23 Zivildienstüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE003918377)
 
 (1) Die anerkannten Kriegsdienstverweigerer unterliegen der
 Zivildienstüberwachung. Diese endet mit Ablauf des Jahres, in dem sie
@@ -1003,6 +1038,7 @@ des Wehrpflichtgesetzes entsprechend.
 
 
 ### § 23a Zuführung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004006377)
 
 Die Polizei kann ersucht werden, Dienstpflichtige, die ihrer
 Einberufung oder einem Umwandlungsbescheid nach § 19 Abs. 2
@@ -1029,10 +1065,12 @@ insoweit eingeschränkt.
 
 
 ## Abschnitt 4 - Rechtsstellung der Dienstpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000405377)
 
 
 
 ### § 24 Dauer des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004120377)
 
 (1) Zivildienst leisten Dienstpflichtige, die zu dem für den
 Dienstbeginn festgesetzten Zeitpunkt das 23. Lebensjahr noch nicht
@@ -1123,6 +1161,7 @@ keinen Dienst geleistet hat, sind nachzudienen.
 
 
 ### § 25 Beginn des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004206377)
 
 Das Zivildienstverhältnis beginnt mit dem Zeitpunkt, der im
 Einberufungsbescheid für den Diensteintritt des Dienstpflichtigen oder
@@ -1131,6 +1170,7 @@ ist.
 
 
 ### § 25a Einweisung in der Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004311377)
 
 (1) Die Dienstleistenden werden zu Beginn ihres Dienstes in ihrer
 Dienststelle in die Tätigkeit, für die sie vorgesehen sind,
@@ -1148,6 +1188,7 @@ Absatz 1 entsprechend.
 
 
 ### § 25b Einführung und Begleitung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011306377)
 
 (1) Die Dienstleistenden sind zu Beginn ihrer Dienstzeit in einem
 eintägigen Seminar über ihre Rechte und Pflichten als Dienstleistende
@@ -1199,6 +1240,7 @@ Satz 1 gilt entsprechend.
 
 
 ### § 25c Staatsbürgerliche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004406377)
 
 Der Dienstleistende hat die gleichen staatsbürgerlichen Rechte wie
 jeder andere Staatsbürger. Seine Rechte werden im Rahmen der
@@ -1207,12 +1249,14 @@ Pflichten beschränkt.
 
 
 ### § 26 Achtung der demokratischen Grundordnung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004505377)
 
 Der Dienstleistende hat die freiheitliche demokratische Grundordnung
 im Sinne des Grundgesetzes in seinem gesamten Verhalten zu achten.
 
 
 ### § 27 Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004606377)
 
 (1) Der Dienstleistende hat seinen Dienst gewissenhaft zu erfüllen. Er
 hat sich in die Gemeinschaft, in der er seinen Dienst ableistet,
@@ -1233,6 +1277,7 @@ Zivildienstes erfordern.
 
 
 ### § 28 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004708377)
 
 (1) Der Dienstpflichtige hat, auch nach seinem Ausscheiden aus dem
 Zivildienst, über die ihm bei seiner dienstlichen Tätigkeit bekannt
@@ -1253,6 +1298,7 @@ Dienstpflichtigen, Straftaten anzuzeigen.
 
 
 ### § 29 Politische Betätigung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004805377)
 
 (1) Der Dienstleistende darf sich im Dienst nicht zugunsten oder
 zuungunsten einer politischen Richtung betätigen. Das Recht, im
@@ -1268,6 +1314,7 @@ gefährdet werden.
 
 
 ### § 30 Dienstliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE004907377)
 
 (1) Der Dienstleistende hat die dienstlichen Anordnungen der
 Vorgesetzten zu befolgen. Vorgesetzte sind die Präsidentin oder der
@@ -1291,6 +1338,7 @@ bekannten Umständen offensichtlich ist.
 
 
 ### § 30a Pflichten der Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005006377)
 
 Vorgesetzte sind für die ihnen unterstellten Dienstleistenden
 verantwortlich. Sie haben die Pflicht zur Dienstaufsicht. Dienstliche
@@ -1299,6 +1347,7 @@ Beachtung der Gesetze und der Dienstvorschriften erteilen.
 
 
 ### § 31 Dienstliche Unterkunft; Gemeinschaftsverpflegung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005105377)
 
 Der Dienstleistende ist auf dienstliche Anordnung verpflichtet, in
 einer dienstlichen Unterkunft zu wohnen und an einer
@@ -1307,6 +1356,7 @@ vom Bundesamt oder einer Dienststelle zugewiesene Unterkunft.
 
 
 ### § 32 Arbeitszeit; innerer Dienstbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005206377)
 
 (1) Die Arbeitszeit des Dienstleistenden richtet sich nach den
 Vorschriften, die an dem ihm zugewiesenen Arbeitsplatz für
@@ -1325,6 +1375,7 @@ Stunden täglich nicht überschreiten.
 
 
 ### § 32a Verwendung bei Arbeitskämpfen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011005377)
 
 Während der Dauer eines Arbeitskampfes, durch den die
 Beschäftigungsstelle unmittelbar betroffen ist, darf der
@@ -1334,6 +1385,7 @@ wird.
 
 
 ### § 33 Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005305377)
 
 (1) Der Dienstleistende bedarf zur Ausübung einer Nebentätigkeit der
 Genehmigung; diese darf nur versagt werden, wenn die Nebentätigkeit
@@ -1348,6 +1400,7 @@ gefährden oder den dienstlichen Erfordernissen zuwiderlaufen.
 
 
 ### § 34 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005408377)
 
 (1) Verletzt ein Dienstleistender vorsätzlich oder grob fahrlässig die
 ihm obliegenden Pflichten, so hat er dem Dienstherrn, dessen Aufgaben
@@ -1371,6 +1424,7 @@ Ersatzanspruch auf den Dienstleistenden über.
 
 
 ### § 35 Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005515377)
 
 (1) Auf den Dienstpflichtigen finden, soweit dieses Gesetz nichts
 anderes bestimmt, in Fragen der Fürsorge, der Geld- und Sachbezüge,
@@ -1438,6 +1492,7 @@ der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit gegeben.
 
 
 ### § 36 Personalakten und Beurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005612377)
 
 (1) Über jeden Dienstpflichtigen ist eine Personalakte zu führen. Sie
 ist vertraulich zu behandeln und durch technische und organisatorische
@@ -1595,10 +1650,12 @@ Bundesrates bedarf, nähere Einzelheiten über
 
 
 ### § 36a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005709377)
 
 
 
 ### § 37 Beteiligung der Dienstleistenden
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005806377)
 
 Die Beteiligung der Dienstleistenden regelt das Gesetz über den
 Vertrauensmann der Zivildienstleistenden vom 16. Januar 1991 (BGBl. I
@@ -1606,12 +1663,14 @@ S. 47, 53).
 
 
 ### § 38 Seelsorge
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE005905377)
 
 Der Dienstleistende hat einen Anspruch auf ungestörte
 Religionsausübung. Die Teilnahme am Gottesdienst ist freiwillig.
 
 
 ### § 39 Ärztliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006008377)
 
 (1) Der anerkannte Kriegsdienstverweigerer ist ärztlich zu untersuchen
 
@@ -1662,6 +1721,7 @@ erheben; § 20 findet entsprechende Anwendung.
 
 
 ### § 40 Erhaltung der Gesundheit; ärztliche Eingriffe
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006108377)
 
 (1) Der Dienstleistende hat alles in seinen Kräften Stehende zu tun,
 um seine Gesundheit zu erhalten oder wiederherzustellen. Er darf diese
@@ -1683,6 +1743,7 @@ einen erheblichen Eingriff in die körperliche Unversehrtheit bedeutet.
 
 
 ### § 41 Anträge und Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006208377)
 
 (1) Der Dienstleistende kann Anträge und Beschwerden vorbringen;
 hierbei hat er den Dienstweg einzuhalten. Der Beschwerdeweg bis zum
@@ -1703,6 +1764,7 @@ Frauen und Jugend unmittelbar eingereicht werden.
 
 
 ### § 41a Freiwilliger zusätzlicher Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012101377)
 
 (1) Der Dienstpflichtige kann auf Antrag freiwilligen zusätzlichen
 Zivildienst von mindestens drei bis zu höchstens sechs Monaten Dauer
@@ -1736,15 +1798,18 @@ Soldatenurlaubsverordnung.
 
 
 ## Abschnitt 5 - Ende des Zivildienstes; Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000505377)
 
 
 
 ### § 42 Ende des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006305377)
 
 Der Zivildienst endet durch Entlassung oder Ausschluss.
 
 
 ### § 43 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006410377)
 
 (1) Ein Dienstleistender ist zu entlassen, wenn
 
@@ -1833,6 +1898,7 @@ nicht oder nicht mehr erfüllt. § 44 Absatz 3 bleibt unberührt.
 
 
 ### § 44 Zeitpunkt der Beendigung des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006509377)
 
 (1) Im Falle der Entlassung endet das Zivildienstverhältnis mit dem
 Ablauf des Entlassungstages.
@@ -1861,6 +1927,7 @@ endet der Zivildienst, zu dem er einberufen war,
 
 
 ### § 45 Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006606377)
 
 (1) Ein Dienstleistender ist aus dem Zivildienst ausgeschlossen, wenn
 gegen ihn durch Urteil eines deutschen Gerichtes im Geltungsbereich
@@ -1876,6 +1943,7 @@ Folgen erwachsen.
 
 
 ### § 45a Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011803377)
 
 (1) In Strafsachen gegen Zivildienstleistende gilt § 115 des
 Bundesbeamtengesetzes entsprechend.
@@ -1885,6 +1953,7 @@ richten und als "Vertrauliche Personalsache" zu kennzeichnen.
 
 
 ### § 46 Dienstzeitbescheinigung und Dienstzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006706377)
 
 (1) Wer Zivildienst geleistet hat, erhält nach dessen Beendigung vom
 Bundesamt eine Dienstzeitbescheinigung und von der
@@ -1901,34 +1970,42 @@ erteilen.
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006815377)
 
 
 
 ### § 47a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE006908377)
 
 
 
 ### § 47b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011405377)
 
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007012377)
 
 
 
 ### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007107377)
 
 
 
 ### § 50 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007209377)
 
 
 
 ### § 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007314377)
 
 
 
 ### § 51a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011503377)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates für die Zivildienstbeschädigungen von
@@ -1941,10 +2018,12 @@ Gesetz.
 
 
 ## Abschnitt 6 - Straf-, Bußgeld- und Disziplinarvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000605377)
 
 
 
 ### § 52 Eigenmächtige Abwesenheit
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007405377)
 
 Wer eigenmächtig den Zivildienst verlässt oder ihm fernbleibt und
 vorsätzlich oder fahrlässig länger als drei volle Kalendertage
@@ -1952,6 +2031,7 @@ abwesend ist, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 ### § 53 Dienstflucht
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007505377)
 
 (1) Wer eigenmächtig den Zivildienst verlässt oder ihm fernbleibt, um
 sich der Verpflichtung zum Zivildienst dauernd oder für den
@@ -1971,6 +2051,7 @@ entsprechend.
 
 
 ### § 54 Nichtbefolgen von Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007606377)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren wird bestraft,
 
@@ -2013,6 +2094,7 @@ absehen.
 
 
 ### § 55 Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007705377)
 
 Wegen Anstiftung und Beihilfe zu einer rechtswidrigen Tat, die einen
 Straftatbestand nach diesem Gesetz verwirklicht, und wegen Versuchs
@@ -2021,6 +2103,7 @@ wer nicht Dienstleistender ist.
 
 
 ### § 56 Ausschluss der Geldstrafe
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007805377)
 
 Begeht ein Dienstleistender eine Straftat nach diesem Gesetz, so darf
 Geldstrafe nach § 47 Abs. 2 des Strafgesetzbuches auch dann nicht
@@ -2030,6 +2113,7 @@ zur Wahrung der Disziplin im Zivildienst gebieten.
 
 
 ### § 57 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE007906377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2051,12 +2135,14 @@ zur Wahrung der Disziplin im Zivildienst gebieten.
 
 
 ### § 58 Dienstvergehen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008005377)
 
 Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft
 seine Pflichten verletzt.
 
 
 ### § 58a Ahndung von Dienstvergehen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008108377)
 
 (1) Dienstvergehen können durch Disziplinarmaßnahmen geahndet werden.
 
@@ -2079,6 +2165,7 @@ ahnden.
 
 
 ### § 58b Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008209377)
 
 (1) Hat ein Gericht oder eine Behörde eine Strafe oder
 Ordnungsmaßnahme verhängt, so dürfen wegen desselben Sachverhalts
@@ -2124,6 +2211,7 @@ Abs. 1 Satz 3 und § 66 Abs. 3 finden entsprechende Anwendung.
 
 
 ### § 58c Förmliche Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE011902377)
 
 (1) Vorbildliche Pflichterfüllung und hervorragende Einzeltaten können
 durch förmliche Anerkennungen gewürdigt werden.
@@ -2144,6 +2232,7 @@ würde.
 
 
 ### § 59 Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008308377)
 
 (1) Disziplinarmaßnahmen sind
 
@@ -2169,6 +2258,7 @@ werden.
 
 
 ### § 60 Inhalt und Höhe der Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008407377)
 
 (1) Verweis ist der förmliche Tadel eines bestimmten pflichtwidrigen
 Verhaltens des Dienstleistenden. Missbilligende Äußerungen einer oder
@@ -2186,6 +2276,7 @@ werden, die in einer dienstlichen Unterkunft wohnen.
 
 
 ### § 61 Disziplinarvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008509377)
 
 (1) Zuständig für die Ausübung der Disziplinarbefugnisse ist die
 Präsidentin oder der Präsident des Bundesamtes. Sie oder er kann diese
@@ -2210,6 +2301,7 @@ verletzt ist oder sich für befangen hält.
 
 
 ### § 62 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008607377)
 
 (1) Werden Tatsachen bekannt, die den Verdacht eines Dienstvergehens
 rechtfertigen, so veranlasst die oder der zuständige
@@ -2235,6 +2327,7 @@ gelegt werden.
 
 
 ### § 62a Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008706377)
 
 Ein eingeleitetes Disziplinarverfahren kann bis zur Beendigung eines
 wegen derselben Tat schwebenden Strafverfahrens ausgesetzt werden.
@@ -2244,6 +2337,7 @@ Person oder im Verhalten des Dienstleistenden liegen.
 
 
 ### § 62b Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008806377)
 
 (1) Dem Dienstleistenden ist vor der Entscheidung Gelegenheit zu
 geben, sich zu äußern. Hierüber ist eine Vernehmungsniederschrift
@@ -2258,6 +2352,7 @@ anzuhören; der Sachverhalt ist ihm vorher bekannt zu geben.
 
 
 ### § 63 Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE008908377)
 
 Wird durch die Ermittlung ein Dienstvergehen nicht festgestellt oder
 hält die oder der Disziplinarvorgesetzte eine Disziplinarmaßnahme
@@ -2266,6 +2361,7 @@ ein und teilt dies dem Dienstleistenden mit.
 
 
 ### § 64 Verhängung der Disziplinarmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009007377)
 
 (1) Wird das Verfahren nicht eingestellt, verhängt die oder der
 Disziplinarvorgesetzte die Disziplinarmaßnahme.
@@ -2282,6 +2378,7 @@ Sachverhalts eine Disziplinarmaßnahme verhängen.
 
 
 ### § 65 Disziplinarverfügung; Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009107377)
 
 (1) Die Disziplinarmaßnahme wird durch eine schriftliche, mit Gründen
 versehene Disziplinarverfügung verhängt, die dem Dienstleistenden
@@ -2309,6 +2406,7 @@ anzuwenden.
 
 
 ### § 66 Anrufung des Verwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009213377)
 
 (1) Gegen Disziplinarverfügungen der in § 61 Abs. 1 bezeichneten
 Disziplinarvorgesetzten und gegen Entscheidungen der Präsidentin oder
@@ -2354,6 +2452,7 @@ endet.
 
 
 ### § 67 Aufhebung der Disziplinarverfügung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009310377)
 
 (1) Bestätigt das Verwaltungsgericht im Falle des § 66 Abs. 2 die
 angefochtene Entscheidung, mildert es die Disziplinarmaßnahme, stellt
@@ -2391,6 +2490,7 @@ Anwendung.
 
 
 ### § 68 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009410377)
 
 (1) Die Disziplinarmaßnahmen werden von den Disziplinarvorgesetzten
 vollstreckt, die sie verhängt haben; diese können die Leitung der
@@ -2436,6 +2536,7 @@ Vollstreckung beginnt.
 
 
 ### § 69 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009507377)
 
 (1) Auskünfte über förmliche Anerkennungen und über
 Disziplinarmaßnahmen werden ohne Zustimmung des Dienstleistenden oder
@@ -2462,6 +2563,7 @@ Auskünfte nur für den Zweck verarbeiten, zu dessen Erfüllung sie ihm
 
 
 ### § 69a Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009607377)
 
 (1) Eintragungen in den Personalakten über Disziplinarmaßnahmen sind
 nach einem Jahr zu tilgen; die darüber entstandenen Vorgänge sind aus
@@ -2488,6 +2590,7 @@ ist.
 
 
 ### § 70 Gnadenrecht
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009706377)
 
 Der Bundespräsidentin oder dem Bundespräsidenten steht das Gnadenrecht
 hinsichtlich der nach diesem Gesetz verhängten Disziplinarmaßnahmen
@@ -2496,10 +2599,12 @@ aus oder überträgt die Ausübung anderen Stellen.
 
 
 ## Abschnitt 7 - Besondere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000705377)
 
 
 
 ### § 71 Form und Bekanntgabe von Verwaltungsakten; Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009806377)
 
 (1) Nicht begünstigende Verwaltungsakte auf Grund dieses Gesetzes sind
 schriftlich zu erlassen.
@@ -2515,6 +2620,7 @@ die Zustellung im Ausland; es bewirkt die öffentliche Zustellung.
 
 
 ### § 72 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE009905377)
 
 (1) Über den Widerspruch gegen Verwaltungsakte auf Grund dieses
 Gesetzes entscheidet das Bundesamt.
@@ -2525,6 +2631,7 @@ betreffen, ist innerhalb zweier Wochen zu erheben.
 
 
 ### § 73 Anfechtung des Einberufungsbescheides
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010005377)
 
 Ist der Musterungsbescheid unanfechtbar geworden, so ist ein
 Rechtsbehelf gegen den Einberufungsbescheid oder den
@@ -2533,6 +2640,7 @@ Rechtsverletzung durch diesen selbst geltend gemacht wird.
 
 
 ### § 74 Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010108377)
 
 (1) Der Widerspruch gegen den Einberufungsbescheid, der Widerspruch
 gegen die Aufhebung eines Einberufungsbescheides, der Widerspruch
@@ -2551,6 +2659,7 @@ hat das Gericht das Bundesamt zu hören.
 
 
 ### § 75 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010206377)
 
 Die Berufung gegen ein Urteil, soweit es die Verfügbarkeit, die
 Heranziehung oder die Entlassung des anerkannten
@@ -2565,6 +2674,7 @@ Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
 
 ### § 76 Rechte des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010305377)
 
 Der gesetzliche Vertreter des anerkannten Kriegsdienstverweigerers
 kann innerhalb der für diesen laufenden Fristen selbständig Anträge
@@ -2573,6 +2683,7 @@ es sich um die Verfügbarkeit für den Zivildienst handelt.
 
 
 ### § 77 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010405377)
 
 Die §§ 71 bis 76 finden keine Anwendung, soweit Verwaltungsakte von
 anderen als den in § 2 Abs. 1 und § 5a bezeichneten Stellen erlassen
@@ -2580,10 +2691,12 @@ werden.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNG000805377)
 
 
 
 ### § 78 Entsprechende Anwendung weiterer Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010511377)
 
 (1) Für anerkannte Kriegsdienstverweigerer gelten entsprechend
 
@@ -2617,6 +2730,7 @@ nach Maßgabe des Wehrpflichtgesetzes gleich.
 
 
 ### § 79 Vorschriften für den Spannungs- oder Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010611377)
 
 Im Spannungs- oder Verteidigungsfall gelten die folgenden besonderen
 Vorschriften:
@@ -2658,6 +2772,7 @@ Vorschriften:
 
 
 ### § 80 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE010705377)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
@@ -2668,6 +2783,7 @@ werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 81 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012201377)
 
 (1) Dienstleistende, die am 31. Dezember 2010 sechs Monate oder länger
 Zivildienst geleistet haben, sind mit Ablauf dieses Tages zu
@@ -2726,6 +2842,7 @@ haben.
 
 
 ### § 81a Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012301377)
 
 Für den freiwilligen Dienst anerkannter Kriegsdienstverweigerer nach §
 14c, die ihren Dienst bis zum 31. Dezember 2010 angetreten haben,
@@ -2735,6 +2852,7 @@ geltenden Fassung.
 
 
 ### § 82 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2008
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012001377)
 
 Auf anerkannte Kriegsdienstverweigerer, die vor dem Inkrafttreten des
 Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt
@@ -2743,6 +2861,7 @@ weiterhin anzuwenden.
 
 
 ### § 83 Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes
+[Direktlink](https://www.gesetze-im-internet.de/ersdig/BJNR000100960.html#BJNR000100960BJNE012501377)
 
 (1) Die Amtszeiten des derzeitigen Bundesbeauftragten und des
 derzeitigen Beirats für den Zivildienst enden am 31. Dezember 2011.

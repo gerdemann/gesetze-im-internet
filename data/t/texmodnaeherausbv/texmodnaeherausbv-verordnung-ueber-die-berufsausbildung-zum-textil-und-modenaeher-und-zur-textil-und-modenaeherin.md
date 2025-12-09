@@ -30,6 +30,7 @@ Stand: Außerkraftsetzung des § 20 weggefallen, dadurch Geltungsverlängerung d
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000101128)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -41,9 +42,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNG000101128)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000301128)
 
 Der Ausbildungsberuf des Textil- und Modenähers und der Textil- und
 Modenäherin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -51,11 +54,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000401128)
 
 Die Berufsausbildung dauert zwei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000501128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -73,6 +78,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000601128)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -154,6 +160,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000701128)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -161,6 +168,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000801128)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -171,9 +179,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNG000201128)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE000901128)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -183,6 +193,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001001128)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -199,6 +210,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich Zuschneiden und Nähen
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001101128)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Zuschneiden und
 Nähen statt.
@@ -252,9 +264,11 @@ Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNG000301128)
 
 
 ### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001201128)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -264,6 +278,7 @@ durchgeführt werden.
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001301128)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -280,6 +295,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001401128)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -296,6 +312,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich Fertigungstechniken
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001501128)
 
 (1) Im Prüfungsbereich Fertigungstechniken soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -373,6 +390,7 @@ situativen Fachgespräche dauern zusammen höchstens 15 Minuten.
 
 
 ### § 14 Prüfungsbereich Planung und Fertigung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001601128)
 
 (1) Im Prüfungsbereich Planung und Fertigung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -411,6 +429,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001701128)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -424,6 +443,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001801128)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -491,9 +511,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNG000401128)
 
 
 ### § 17 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE001901128)
 
 Die Ausbildung kann nach erfolgreichem Abschluss der Berufsausbildung
 zum Textil- und Modenäher und zur Textil- und Modenäherin im
@@ -503,9 +525,11 @@ fortgesetzt werden.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNG000501128)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE002001128)
 
 Berufsausbildungsverhältnisse im Ausbildungsberuf
 „Modenäher/Modenäherin“, die bei Inkrafttreten dieser Verordnung
@@ -515,6 +539,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 19 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE002101128)
 
 Bis spätestens 30. September 2020 hat eine Evaluierung dieser
 Verordnung zu erfolgen, in der insbesondere der Verbleib der
@@ -522,12 +547,14 @@ Absolventinnen und Absolventen untersucht werden soll.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE002201128)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft.
 
 (zu § 4)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Textil- und Modenäher und zur Textil- und Modenäherin
+[Direktlink](https://www.gesetze-im-internet.de/texmodn_herausbv/BJNR101200015.html#BJNR101200015BJNE002301128)
 
 (Fundstelle: BGBl. I 2015, 1016 - 1020)
 

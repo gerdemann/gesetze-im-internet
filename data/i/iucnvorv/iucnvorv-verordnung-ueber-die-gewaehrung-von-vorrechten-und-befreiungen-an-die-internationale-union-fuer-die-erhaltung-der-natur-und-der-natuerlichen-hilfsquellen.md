@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000100000)
 
 Auf Grund des Artikels 3 Nummer 1 Buchstabe b des Gesetzes vom 22.
 Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum
@@ -30,6 +31,7 @@ worden ist, verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000200000)
 
 (1) Die Bestimmungen des Artikels II § 3, des Artikels III § 6, des
 Artikels IV §§ 11 und 12, des Artikels V §§ 15 bis 17, des Artikels VI
@@ -46,6 +48,7 @@ nach dem Völkerrecht diplomatischen Vertretern gewährt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000300000)
 
 Beschäftigte der IUCN, auf die § 1 dieser Verordnung in Verbindung mit
 Artikel VI § 19 Buchstabe c, §§ 20, 22 und 23 des Abkommens vom 21.
@@ -60,6 +63,7 @@ der IUCN.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000400000)
 
 Die Bestimmungen des Artikels V § 15 des Abkommens vom 21. November
 1947 über die Vorrechte und Befreiungen der Sonderorganisationen der
@@ -75,12 +79,14 @@ Aufenthalt haben.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000500000)
 
 Das Vermögen und die Guthaben der IUCN sind von Beschränkungen,
 Regelungen, Kontrollen oder Stillhaltemaßnahmen jeder Art befreit.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000600000)
 
 (1) Die IUCN, ihre Guthaben, Einkünfte und sonstigen Vermögenswerte
 sind im Rahmen ihrer amtlichen Tätigkeit befreit von jeder direkten
@@ -125,6 +131,7 @@ Leistungen öffentlicher Versorgungsdienste darstellen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000700000)
 
 Nach Einführung eines Systems der internen Besteuerung durch die IUCN
 als eine durch zwischenstaatliche Vereinbarung geschaffene
@@ -139,11 +146,13 @@ anderen Quellen zu erhebenden Steuersatzes berücksichtigt werden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/iucnvorv/BJNR036820017.html#BJNR036820017BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

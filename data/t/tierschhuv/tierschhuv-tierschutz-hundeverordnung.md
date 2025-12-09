@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000100305)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet jeweils in Verbindung mit Artikel 56 des
@@ -35,6 +36,7 @@ Tierschutzkommission:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000201360)
 
 (1) Diese Verordnung gilt für das Halten und Züchten von Hunden
 (Canis lupus f. familiaris).
@@ -58,6 +60,7 @@ Tierschutzkommission:
 
 
 ## § 2 Allgemeine Anforderungen an das Halten
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000301119)
 
 (1) Einem Hund ist nach Maßgabe des Satzes 3
 
@@ -125,6 +128,7 @@ schmerzhafte Mittel zu verwenden.
 
 
 ## § 3 Anforderungen an das Halten beim Züchten
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000401119)
 
 (1) Wer mit Hunden züchtet, hat einer Hündin spätestens drei Tage vor
 der zu erwartenden Geburt bis zum Absetzen der Welpen eine Wurfkiste
@@ -187,6 +191,7 @@ betreuen.
 
 
 ## § 4 Anforderungen an das Halten im Freien
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000501119)
 
 (1) Wer einen Hund im Freien hält, hat dafür zu sorgen, dass dem Hund
 
@@ -241,6 +246,7 @@ von vier Metern.
 
 
 ## § 5 Anforderungen an das Halten in Räumen und Raumeinheiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000601119)
 
 (1) Ein Hund darf nur in Räumen oder Raumeinheiten gehalten werden,
 bei denen der Einfall von natürlichem Tageslicht sichergestellt ist.
@@ -292,6 +298,7 @@ gehalten werden, wenn
 
 
 ## § 6 Anforderungen an die Zwingerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000701119)
 
 (1) Ein Hund darf in einem Zwinger nur gehalten werden, der den
 Anforderungen nach den Absätzen 2 bis 4 entspricht.
@@ -370,6 +377,7 @@ in denen sozial unverträgliche Hunde gehalten werden.
 
 
 ## § 7 Anbindehaltung
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000801119)
 
 (1) Hunde dürfen nicht angebunden gehalten werden.
 
@@ -394,6 +402,7 @@ Hund ausgebildet wurde oder wird, zulässig, wenn
 
 
 ## § 8 Fütterung und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE000901119)
 
 (1) Die Betreuungsperson hat dafür zu sorgen, dass dem Hund in seinem
 gewöhnlichen Aufenthaltsbereich jederzeit Wasser in ausreichender
@@ -425,6 +434,7 @@ artgemäßem Futter in ausreichender Menge und Qualität zu versorgen.
 
 
 ## § 9 Ausnahmen für das vorübergehende Halten
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001000305)
 
 Die zuständige Behörde kann von den Vorschriften des § 2 Abs. 2 und 3
 sowie § 6 Abs. 1 in Verbindung mit Abs. 2 für das vorübergehende
@@ -434,6 +444,7 @@ die weitere Aufnahme solcher Hunde gefährdet ist.
 
 
 ## § 10 Ausstellungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001102119)
 
 Es ist verboten, Hunde auszustellen oder Ausstellungen mit Hunden zu
 veranstalten,
@@ -470,11 +481,13 @@ verglichen, geprüft oder sonst beurteilt werden.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001201377)
 
 -
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001301119)
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe a des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -512,6 +525,7 @@ eine Ausstellung veranstaltet.
 
 
 ## § 13 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001402119)
 
 (1) § 2 Absatz 2 und die §§ 3 und 7 in der sich jeweils aus Artikel 1
 Nummer 1 Buchstabe b und Nummer 2 und 6 der Verordnung zur Änderung
@@ -530,6 +544,7 @@ geltende Vorschrift weiter anzuwenden.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001500305)
 
 Diese Verordnung tritt am 1. September 2001 in Kraft. Gleichzeitig
 tritt die Verordnung über das Halten von Hunden im Freien vom 6. Juni
@@ -538,6 +553,7 @@ vom 12. August 1986 (BGBl. I S. 1309), außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschhuv/BJNR083800001.html#BJNR083800001BJNE001600305)
 
 Der Bundesrat hat zugestimmt.
 

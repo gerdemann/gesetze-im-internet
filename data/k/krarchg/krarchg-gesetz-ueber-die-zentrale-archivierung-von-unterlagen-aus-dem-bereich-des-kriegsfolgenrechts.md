@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Archivierung von Unterlagen aus dem Lastenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/krarchg/BJNR000650988.html#BJNR000650988BJNE000101311)
 
 (1) Im Bundesarchiv wird ein Zentralarchiv für den Lastenausgleich
 (Lastenausgleichsarchiv) errichtet. Das Lastenausgleichsarchiv
@@ -39,6 +40,7 @@ Bundesrates.
 
 
 ## § 2 Übernahme von Unterlagen der Heimatortskarteien
+[Direktlink](https://www.gesetze-im-internet.de/krarchg/BJNR000650988.html#BJNR000650988BJNE000200328)
 
 (1) Das Lastenausgleichsarchiv übernimmt die Unterlagen der
 Heimatortskarteien des Kirchlichen Suchdienstes.
@@ -49,12 +51,14 @@ Bundesrepublik Deutschland übertragenen Aufgaben abgeschlossen sind.
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/krarchg/BJNR000650988.html#BJNR000650988BJNE000300328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krarchg/BJNR000650988.html#BJNR000650988BJNE000400328)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

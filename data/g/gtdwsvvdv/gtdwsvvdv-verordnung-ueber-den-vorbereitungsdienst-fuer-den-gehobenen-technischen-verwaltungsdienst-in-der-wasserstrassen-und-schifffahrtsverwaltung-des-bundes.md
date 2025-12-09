@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der
@@ -29,9 +30,11 @@ verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000301116)
 
 Der Vorbereitungsdienst für den gehobenen technischen
 Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des
@@ -52,6 +55,7 @@ Bundes ist,
 
 
 ### § 2 Ziele und Schwerpunkte des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000401116)
 
 (1) Der Vorbereitungsdienst vermittelt Kenntnisse und Fähigkeiten, die
 für eine vielseitige Verwendung im gehobenen technischen
@@ -85,6 +89,7 @@ verpflichtet.
 
 
 ### § 3 Einstellungsbehörde, Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000501116)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 oberste Dienstbehörde oder eine von ihr beauftragte Behörde auf der
@@ -155,6 +160,7 @@ festgelegt.
 
 
 ### § 4 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000600000)
 
 Erholungsurlaub wird gewährt
 
@@ -169,6 +175,7 @@ Erholungsurlaub wird gewährt
 
 
 ### § 5 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000700000)
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen
 werden im Auswahlverfahren, bei den Praxisarbeiten sowie in der
@@ -189,6 +196,7 @@ Hochschule nicht widersprechen.
 
 
 ### § 6 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000800000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt
 bewertet:
@@ -323,9 +331,11 @@ Auf- oder Abrundung berechnet.
 
 
 ## Abschnitt 2 - Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNG000200000)
 
 
 ### § 7 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE000901116)
 
 (1) Die berufspraktische Ausbildung umfasst Praktika und
 Lehrveranstaltungen. Während der berufspraktischen Ausbildung erwerben
@@ -348,6 +358,7 @@ werden.
 
 
 ### § 8 Ausbildungsleitung, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001000000)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner
@@ -369,6 +380,7 @@ regelmäßig über den erreichten Ausbildungsstand zu informieren.
 
 
 ### § 9 Ausbildungsrahmenplan, Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001100000)
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
 erstellt einen Ausbildungsrahmenplan, der die Lerninhalte, die
@@ -384,6 +396,7 @@ ihn der Anwärterin oder dem Anwärter bekannt.
 
 
 ### § 10 Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001200000)
 
 (1) Von den Ausbildungsstellen, denen die Anwärterinnen und Anwärter
 für mindestens einen Monat zugewiesen werden, erhalten diese
@@ -401,6 +414,7 @@ besprechen.
 
 
 ### § 11 Praxisarbeiten während der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001300000)
 
 (1) Während der berufspraktischen Ausbildung sind mindestens zwei
 schriftliche Praxisarbeiten anzufertigen. Jede Praxisarbeit ist
@@ -416,6 +430,7 @@ dass über die Folgen ausschließlich das Prüfungsamt entscheidet.
 
 
 ### § 12 Zeugnis, Ausbildungsrangpunktzahl
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001400000)
 
 (1) Über den Erfolg der berufspraktischen Ausbildung erstellt die
 Ausbildungsleiterin oder der Ausbildungsleiter ein zusammenfassendes
@@ -435,9 +450,11 @@ Vorbereitungsdienst beendet.
 
 
 ## Abschnitt 3 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNG000300000)
 
 
 ### § 13 Dauer und Aufbau des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001501116)
 
 Das Studium umfasst ein Bachelorstudium sowie zwei berufspraktische
 Studienzeiten, die in der Regel in Dienststellen der Wasserstraßen-
@@ -499,6 +516,7 @@ absolviert werden. Das Studium gliedert sich wie folgt:
 
 
 ### § 14 Studium
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001601116)
 
 (1) Die im Studium zu vermittelnden Kenntnisse und Fähigkeiten
 orientieren sich an den Anforderungen der Fachrichtungen des gehobenen
@@ -515,6 +533,7 @@ das Bachelorstudium der Hochschule zu.
 
 
 ### § 15 Berufspraktische Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001701116)
 
 (1) Die berufspraktische Studienzeit I wird zu Beginn des
 Vorbereitungsdienstes als Kombination von Praktikum und
@@ -533,6 +552,7 @@ Ausbildungsrahmenplan geregelt.
 
 
 ### § 16 Praxisarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001800000)
 
 (1) Während der berufspraktischen Studienzeit II ist eine schriftliche
 Praxisarbeit anzufertigen. Die Praxisarbeit ist mindestens eine Woche
@@ -542,6 +562,7 @@ vorher anzukündigen.
 
 
 ### § 17 Zeugnis, Praxisrangpunktzahl
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE001900000)
 
 (1) Über den Erfolg der berufspraktischen Studienzeiten erstellt die
 Ausbildungsleiterin oder der Ausbildungsleiter ein zusammenfassendes
@@ -555,9 +576,11 @@ der Abschlussprüfung eine Ausfertigung des Zeugnisses.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNG000400000)
 
 
 ### § 18 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002001116)
 
 (1) In der Laufbahnprüfung haben die Anwärterinnen und Anwärter
 nachzuweisen, dass sie die erforderlichen Fachkenntnisse erworben
@@ -582,6 +605,7 @@ Personalakten und die Ausbildungsakten zu.
 
 
 ### § 19 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002100000)
 
 Für die Organisation und Durchführung der schriftlichen und mündlichen
 Abschlussprüfungen richtet die oberste Dienstbehörde ein Prüfungsamt
@@ -590,6 +614,7 @@ Behörden übertragen.
 
 
 ### § 20 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002200000)
 
 (1) Das Prüfungsamt richtet für jede Fachrichtung nach § 2 Absatz 2
 eine Prüfungskommission ein und bestellt deren Mitglieder und
@@ -643,6 +668,7 @@ Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
 
 
 ### § 21 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002302116)
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer eine
 Ausbildungsrangpunktzahl (§ 12) von mindestens 5 erreicht hat.
@@ -743,6 +769,7 @@ wie viele Rangpunkte sie in ihren Klausuren erreicht haben.
 
 
 ### § 22 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002401116)
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen,
 wer
@@ -819,6 +846,7 @@ des Vorbereitungsdienstes abgeschlossen werden.
 
 
 ### § 23 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002500000)
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen oder
 mündlichen Abschlussprüfung oder einem Prüfungsteil ohne Genehmigung
@@ -840,6 +868,7 @@ abgegebenen Arbeiten gewertet werden.
 
 
 ### § 24 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002600000)
 
 (1) Anwärterinnen und Anwärtern, die bei der schriftlichen oder
 mündlichen Abschlussprüfung oder bei einem Prüfungsteil täuschen, eine
@@ -875,6 +904,7 @@ bis 4 anzuhören.
 
 
 ### § 25 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002700000)
 
 (1) Wer die Bachelorprüfung oder Teile der Bachelorprüfung nicht
 bestanden hat, kann sie nach näherer Maßgabe der Vorschriften der
@@ -906,6 +936,7 @@ Vorbereitungsdienst beendet.
 
 
 ### § 26 Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002800000)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die Rangpunktzahl der
 Laufbahnprüfung mindestens 5 beträgt. Die Rangpunktzahl der
@@ -1119,6 +1150,7 @@ abgerundet.
 
 
 ### § 27 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE002900000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
 Abschlusszeugnis.
@@ -1145,6 +1177,7 @@ Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
 
 
 ### § 28 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE003000000)
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -1174,9 +1207,11 @@ jeweiligen Akte zu vermerken.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNG000500000)
 
 
 ### § 29 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE003100000)
 
 Für Anwärterinnen und Anwärter, die den Vorbereitungsdienst vor dem
 Inkrafttreten dieser Verordnung begonnen haben, ist die Verordnung
@@ -1188,6 +1223,7 @@ die zuletzt durch Artikel 3 Absatz 35 der Verordnung vom 12. Februar
 
 
 ### § 30 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gtdwsvvdv/BJNR297400012.html#BJNR297400012BJNE003200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und

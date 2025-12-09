@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abzusgrbr_ckvtrcesg/BJNR078520997.html#BJNR078520997BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/abzusgrbr_ckvtrcesg/BJNR078520997.html#BJNR078520997BJNE000200311)
 
 Dem in Prag am 13. Juli 1995 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Tschechischen Republik über den
@@ -38,6 +40,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/abzusgrbr_ckvtrcesg/BJNR078520997.html#BJNR078520997BJNE000300311)
 
 (1) Auf die in Artikel 9 Abs. 1 des Vertrags bezeichneten Umsätze
 findet deutsches Umsatzsteuerrecht Anwendung.
@@ -51,6 +54,7 @@ Bestimmungen sind mit Wirkung vom 13. Juli 1995 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/abzusgrbr_ckvtrcesg/BJNR078520997.html#BJNR078520997BJNE000400311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

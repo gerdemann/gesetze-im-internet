@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-27 v. 26.5.2006 I 1271 (MediengestAusbV) u. V 806-21-1
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -35,9 +36,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000300000)
 
 Der Ausbildungsberuf des Mediengestalters Bild und Ton und der
 Mediengestalterin Bild und Ton wird nach § 4 Absatz 1 des
@@ -45,11 +48,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -67,6 +72,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -226,6 +232,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -233,15 +240,18 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNG000200000)
 
 
 ### § 6 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000800000)
 
 Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den
 Zeitpunkt legt die zuständige Stelle fest.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -258,6 +268,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001000000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -271,6 +282,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und herstellen
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001100000)
 
 (1) Im Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und
 herstellen hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -318,6 +330,7 @@ herstellen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 ### § 10 Prüfungsbereich Produktionssysteme in Betrieb nehmen und bedienen
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001200000)
 
 (1) Im Prüfungsbereich Produktionssysteme in Betrieb nehmen und
 bedienen hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -361,15 +374,18 @@ Fachgespräch dauert höchstens fünf Minuten.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNG000300000)
 
 
 ### § 11 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001300000)
 
 Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den
 Zeitpunkt legt die zuständige Stelle fest.
 
 
 ### § 12 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001400000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -386,6 +402,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 13 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001500000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -405,6 +422,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich Realisieren eines Bild- und Tonproduktes
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001600000)
 
 (1) Im Prüfungsbereich Realisieren eines Bild- und Tonproduktes hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -451,6 +469,7 @@ Projektantrages erstellt haben.
 
 
 ### § 15 Prüfungsbereich Wahlqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001700000)
 
 (1) Im Prüfungsbereich Wahlqualifikationen hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -483,6 +502,7 @@ Fachgespräch darf höchstens zehn Minuten dauern.
 
 
 ### § 16 Prüfungsbereich Bild- und Tonproduktion
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001800000)
 
 (1) Im Prüfungsbereich Bild- und Tonproduktion hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -532,6 +552,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE001900000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -545,6 +566,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE002000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -605,6 +627,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 ### § 19 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE002100000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -642,9 +665,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNG000400000)
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig treten
 außer Kraft
@@ -663,6 +688,7 @@ außer Kraft
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton
+[Direktlink](https://www.gesetze-im-internet.de/butmedausbv/BJNR030000020.html#BJNR030000020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 305 - 315)
 

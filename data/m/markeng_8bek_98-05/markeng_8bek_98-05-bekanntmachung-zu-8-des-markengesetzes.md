@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000100320)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156; 1996 I S. 1014, 1546) wird
@@ -29,6 +30,7 @@ Republik Kasachstan (Anlage 1).
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000200320)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht,
 daß die folgenden Kennzeichen von der Eintragung als Marke
@@ -75,17 +77,20 @@ ausgeschlossen sind:
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000300320)
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 23.
 März 1998 (BGBl. I S. 632).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000400320)
 
 Bundesministerium der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000500320)
 
 (Fundstelle: BGBl. I 1998, 1217)
 
@@ -104,6 +109,7 @@ Dokumentation aufgedruckt werden.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000600320)
 
 (Fundstelle: BGBl. I 1998, 1218)
 
@@ -150,6 +156,7 @@ Siegel:
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000700320)
 
 (Fundstelle: BGBl. I 1998, 1219)
 
@@ -167,6 +174,7 @@ Siegel in Englisch, Französisch und Spanisch:
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000800320)
 
 (Fundstelle: BGBl. I 1998, 1220)
 
@@ -187,6 +195,7 @@ Emblem:
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE000900320)
 
 (Fundstelle: BGBl. I 1998, 1221)
 
@@ -226,6 +235,7 @@ MERCADO COMUN DO SUL - Portugiesisch -
 
 
 ## Anlage 6
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE001000320)
 
 (Fundstelle: BGBl. I 1998, 1222)
 
@@ -242,6 +252,7 @@ Abkürzung: EMEA
 
 
 ## Anlage 7
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE001100320)
 
 (Fundstelle: BGBl. I 1998, 1223)
 
@@ -258,6 +269,7 @@ ORGANIZACION PARA LA PROHIBICION DE LAS ARMAS QUIMICAS - Spanisch -
 
 
 ## Anlage 8
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-05/BJNR121600998.html#BJNR121600998BJNE001200320)
 
 (Fundstelle: BGBl. I 1998, 1224)
 

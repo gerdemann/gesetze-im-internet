@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000200000)
 
 (1) Diese Verordnung dient der Bekämpfung von Seuchen, die bei Fischen
 auftreten.
@@ -64,6 +66,7 @@ keine Anwendung, soweit
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000303301)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -127,9 +130,11 @@ hat.
 
 
 ## Abschnitt 2 - Genehmigung und Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000200000)
 
 
 ### § 3 Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000400000)
 
 Wer in einem
 
@@ -151,6 +156,7 @@ Aquakulturbetrieb der Registrierung nach § 6 bedarf.
 
 
 ### § 4 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000500000)
 
 (1) Die zuständige Behörde erteilt die Genehmigung auf Antrag, soweit
 
@@ -202,6 +208,7 @@ unberührt.
 
 
 ### § 5 Genehmigungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000600000)
 
 In dem Antrag auf Genehmigung sind die Angaben zu machen und ihm sind
 die Unterlagen beizufügen, aus denen hervorgeht, dass die
@@ -215,6 +222,7 @@ der Abwässer zu machen.
 
 
 ### § 6 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000700000)
 
 (1) Wer in
 
@@ -249,9 +257,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Pflichten des Betreibers und anderer Verantwortlicher
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000300000)
 
 
 ### § 7 Untersuchungen, Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000801360)
 
 (1) Wer eine genehmigungspflichtige Tätigkeit nach § 3 ausübt, hat die
 in der Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für
@@ -283,6 +293,7 @@ Untersuchungen durchführen, regeln.
 
 
 ### § 8 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE000900000)
 
 (1) Der Betreiber
 
@@ -350,9 +361,11 @@ oder von diesen ausgeht.
 
 
 ## Abschnitt 4 - Überwachung, Schutzgebiet, Impfverbot
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000400000)
 
 
 ### § 9 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001001119)
 
 (1) Die zuständige Behörde führt unter Beachtung der Artikel 9 und 10
 der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates
@@ -388,6 +401,7 @@ der Entnahme von Probenmaterial anordnen.
 
 
 ### § 10 Schutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001102360)
 
 (1) Die zuständige Behörde kann unter den Voraussetzungen des Artikels
 50 der Richtlinie 2006/88/EG ein Gebiet zum Schutzgebiet erklären,
@@ -405,6 +419,7 @@ bekannt.
 
 
 ### § 11 Impfverbot
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001202360)
 
 (1) Impfungen gegen die in Anlage 1 Spalte 1 Nr. 1 aufgeführten
 Seuchen (exotische Seuchen) sind verboten. Dies gilt nicht, soweit die
@@ -424,9 +439,11 @@ Entwicklung und Testung von Impfstoffen genehmigen.
 
 
 ## Abschnitt 5 - Besondere Vorschriften für das Inverkehrbringen und den Transport von Fischen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000500000)
 
 
 ### § 12 Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001301360)
 
 (1) Fische aus Aquakultur oder ihre Erzeugnisse dürfen vorbehaltlich
 der §§ 13 bis 16 nur in den Verkehr gebracht werden, soweit sie die
@@ -439,6 +456,7 @@ Aquakultur oder ihren Erzeugnissen, die die Anforderungen des Absatzes
 
 
 ### § 13 Tiergesundheitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001401377)
 
 (1) Fische aus Aquakultur dürfen zum Zwecke der Zucht, Haltung und
 Hälterung, des Besatzes oder der weiteren Verarbeitung für den
@@ -471,6 +489,7 @@ nach dem Muster der Anlage 2 begleitet sind.
 
 
 ### § 14 Inverkehrbringen für die weitere Haltung oder den Besatz
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001501360)
 
 (1) Fische aus Aquakultur dürfen zum Zwecke der weiteren Haltung oder
 des Besatzes nur in den Verkehr gebracht werden, soweit sie
@@ -503,6 +522,7 @@ soweit sie aus einem Schutzgebiet stammen, das frei von den in Anlage
 
 
 ### § 15 Inverkehrbringen zur Weiterverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001601360)
 
 Die in Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für
 eine der in Anlage 1 Spalte 1 Nummer 2 jeweils aufgeführten Seuchen
@@ -529,6 +549,7 @@ gebracht werden, soweit
 
 
 ### § 16 Inverkehrbringen wildlebender Fische
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001701360)
 
 Die in Anlage 1 Spalte 3 bezeichneten empfänglichen Arten wildlebender
 Fische, die nicht aus einem Schutzgebiet stammen, das von einer in
@@ -541,12 +562,14 @@ ausreichend langen Zeitraum in Quarantäne gehalten worden sind.
 
 
 ### § 17 Inverkehrbringen von Fischen zu Zierzwecken
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001800000)
 
 Fische zu Zierzwecken dürfen nur in den Verkehr gebracht werden,
 soweit sie andere Fische im Hinblick auf Seuchen nicht gefährden.
 
 
 ### § 18 Transport
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE001900000)
 
 (1) Fische aus Aquakultur dürfen nur in Fahrzeugen oder Behältnissen
 transportiert werden, die
@@ -586,9 +609,11 @@ nicht unmittelbar in Gewässer eingeleitet werden.
 
 
 ## Abschnitt 6 - Besondere Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000600000)
 
 
 ### § 19 Schutzmaßregeln vor amtlicher Feststellung einer exotischen Seuche
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002000000)
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs einer
 exotischen Seuche in einem Aquakulturbetrieb gilt vor der amtlichen
@@ -669,6 +694,7 @@ gilt für diese Absatz 1 entsprechend.
 
 
 ### § 20 Schutzmaßregeln nach amtlicher Feststellung einer exotischen Seuche
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002101360)
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs einer exotischen
 Seuche in einem Aquakulturbetrieb amtlich festgestellt, so unterliegt
@@ -724,6 +750,7 @@ auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
 
 ### § 21 Sperrgebiet, Überwachungsgebiet nach amtlicher Feststellung einer exotischen Seuche
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002200000)
 
 (1) Ist der Ausbruch einer exotischen Seuche in einem
 Aquakulturbetrieb amtlich festgestellt, so legt die zuständige Behörde
@@ -754,6 +781,7 @@ durchführen.
 
 
 ### § 22 Schutzmaßregeln nach amtlicher Feststellung des Ausbruchs oder Verdacht des Ausbruchs einer nicht exotischen Seuche in einem Aquakulturbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002300000)
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs einer nicht
 exotischen Seuche in einem Aquakulturbetrieb amtlich festgestellt, so
@@ -812,6 +840,7 @@ Seuchenbekämpfung erforderlich ist, anordnen, dass
 
 
 ### § 23 Schutzmaßregeln bei Ansteckungsverdacht für eine nicht exotische Seuche
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002400000)
 
 (1) Ist in einem Aquakulturbetrieb der Ausbruch oder der Verdacht des
 Ausbruchs einer nicht exotischen Seuche amtlich festgestellt, so
@@ -836,6 +865,7 @@ die in § 6 Abs. 1 genannten Betriebe anordnen.
 
 
 ### § 24 Schutzmaßregeln nach amtlicher Feststellung des Verdachts des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002500000)
 
 (1) Ist der Verdacht des Ausbruchs einer nicht exotischen Seuche in
 einem Schutzgebiet amtlich festgestellt, so gilt Folgendes:
@@ -867,6 +897,7 @@ einem Schutzgebiet amtlich festgestellt, so gilt Folgendes:
 
 
 ### § 25 Schutzmaßregeln nach amtlicher Feststellung des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002600000)
 
 Ist eine nicht exotische Seuche in einem Schutzgebiet amtlich
 festgestellt, so unterliegt das Schutzgebiet nach Maßgabe folgender
@@ -882,6 +913,7 @@ Vorschriften der Sperre:
 
 
 ### § 26 Schutzmaßregeln bei Ansteckungsverdacht für eine nicht exotische Seuche ausgehend von einem Schutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002701118)
 
 (1) Ist in einem Schutzgebiet der Verdacht des Ausbruchs oder der
 Ausbruch einer nicht exotischen Seuche amtlich festgestellt, so stellt
@@ -905,6 +937,7 @@ die in § 6 Abs. 1 genannten Betriebe anordnen.
 
 
 ### § 27 Sperrgebiet, Überwachungsgebiet nach amtlicher Feststellung einer nicht exotischen Seuche
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002800000)
 
 Ist der Ausbruch einer nicht exotischen Seuche in einem
 Aquakulturbetrieb amtlich festgestellt, legt die zuständige Behörde in
@@ -918,6 +951,7 @@ und 3, für das Überwachungsgebiet § 21 Abs. 2 Satz 2 entsprechend.
 
 
 ### § 28 Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE002901360)
 
 (1) Angeordnete Schutzmaßregeln nach den §§ 19 bis 27 sind aufzuheben,
 soweit die Seuche erloschen ist oder der Verdacht des Ausbruchs der
@@ -952,9 +986,11 @@ Untersuchung nach § 20 Abs. 2 Satz 1 abhängig machen.
 
 
 ## Abschnitt 7 - Ordnungswidrigkeiten, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNG000700000)
 
 
 ### § 29 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE003001301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1035,6 +1071,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 30 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE003100000)
 
 (1) Aquakulturbetriebe, die zum Zeitpunkt des Inkrafttretens dieser
 Verordnung nach § 2 Abs. 1 der Fischseuchenverordnung in der Fassung
@@ -1064,6 +1101,7 @@ zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
 (zu den §§ 2, 7, 10, 11, 12, 14, 15, 16, 20, 28)
 
 ### Anlage 1 Liste der Seuchen
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE003204360)
 
 (Fundstelle: BGBl. I 2014, 1559 - 1560)
 
@@ -1325,6 +1363,7 @@ zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
 
 
 ### Anlage 2 (zu § 13)
+[Direktlink](https://www.gesetze-im-internet.de/fischseuchv_2008/BJNR231510008.html#BJNR231510008BJNE003300000)
 
 (Fundstelle: BGBl. I 2008, 2325)
 **A. Tiergesundheitsbescheinigung für Tiere aus Aquakultur –

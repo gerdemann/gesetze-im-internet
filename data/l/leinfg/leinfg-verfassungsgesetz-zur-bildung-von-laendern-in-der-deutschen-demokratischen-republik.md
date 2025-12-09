@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## - - Territoriale Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000300307)
 
 (1) Mit Wirkung vom 3. Oktober 1990 werden in der DDR folgende Länder
 gebildet:
@@ -94,6 +96,7 @@ gebildet:
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000400307)
 
 (1)
 
@@ -111,10 +114,12 @@ Enklaven entstehen.
 
 
 ### (XXXX) §§ 3 bis 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000500307)
 
 
 
 ### § 22 Übergang von Einrichtungen und Personal
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000600307)
 
 Mit der Bildung von Ländern in der DDR gehen Verwaltungsorgane und
 sonstige der öffentlichen Verwaltung oder Rechtspflege dienende
@@ -124,10 +129,12 @@ Länder wahrnehmen, auf die Länder über. Soweit Aufgaben auf die Länder
 
 
 ## - - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNG000200307)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000700307)
 
 (1)
 
@@ -141,11 +148,13 @@ nach den Bestimmungen dieser Verfassung gebildet.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000800307)
 
 -
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE000900307)
 
 (1) Dieses Gesetz tritt am 3. Oktober 1990 in Kraft.
 
@@ -155,6 +164,7 @@ nach den Bestimmungen dieser Verfassung gebildet.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/leinfg/DDNR009550990.html#DDNR009550990BJNE001000307)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**

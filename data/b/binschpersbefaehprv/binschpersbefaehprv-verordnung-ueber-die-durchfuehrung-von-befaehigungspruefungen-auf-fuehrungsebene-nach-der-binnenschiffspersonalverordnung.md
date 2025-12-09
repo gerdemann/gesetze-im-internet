@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Nummer 6a des
 Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
@@ -33,9 +34,11 @@ verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000300000)
 
 Diese Prüfungsverordnung regelt das Prüfungsverfahren zum Erwerb eines
 Unionspatentes sowie folgender besonderer Berechtigungen:
@@ -55,6 +58,7 @@ Erwerb von Schifferzeugnissen geregelt.
 
 
 ### § 2 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000400000)
 
 (1) Die nach § 65 in Verbindung mit § 4 der
 Binnenschiffspersonalverordnung zuständige Behörde (Prüfungsbehörde)
@@ -66,6 +70,7 @@ Binnenschiffspersonalverordnung.
 
 
 ### § 3 Prüfungsformen und Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000501119)
 
 (1) Eine schriftliche oder digitale Prüfung findet im Antwort-Wahl-
 Verfahren statt, bei der die für das Bestehen der Prüfung
@@ -106,6 +111,7 @@ die von ihr zur Verfügung gestellten Hilfsmittel.
 
 
 ### § 4 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000601119)
 
 Unbeschadet des Satzes 2 darf die Prüfungsbehörde die Aufgaben- und
 Fragestellungen für die Prüfungen nach dieser Verordnung nicht
@@ -115,9 +121,11 @@ entsprechende Lösung veröffentlichen.
 
 
 ## Abschnitt 2 - Anmeldung und Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNG000200000)
 
 
 ### § 5 Anmeldung und Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000701119)
 
 (1) Die Zulassung zur Prüfung bestimmt sich nach den §§ 66 und 67 der
 Binnenschiffspersonalverordnung.
@@ -239,6 +247,7 @@ gefälschter Unterlagen oder falscher Angaben ausgesprochen wurde.
 
 
 ### § 6 Prüfungstermine, Prüfungsorte und Einladung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000800000)
 
 (1) Die Prüfungsbehörde setzt vorbehaltlich des Absatzes 4 die
 Prüfungsorte und Prüfungstermine für ein Kalenderjahr im Voraus fest
@@ -264,6 +273,7 @@ nach Bestehen der beiden anderen Prüfungsteile durchgeführt werden.
 
 
 ### § 7 Rücktritt, Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE000901119)
 
 (1) Ein Prüfungsbewerber oder eine Prüfungsbewerberin kann nach dem
 Antrag auf Zulassung zur Prüfung unverzüglich nach Eintritt eines
@@ -285,9 +295,11 @@ Prüfungsbehörde.
 
 
 ## Abschnitt 3 - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNG000300000)
 
 
 ### § 8 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001001119)
 
 (1) Die Prüfungssprache ist Deutsch.
 
@@ -364,6 +376,7 @@ Prüfungskommission zu unterzeichnen.
 
 
 ### § 9 Unionspatent – Prüfungsteil theoretische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001100000)
 
 (1) Die theoretische Prüfung ist ein Teil der Schiffsführerprüfung.
 Sie wird als schriftliche oder digitale Prüfung, jeweils im Antwort-
@@ -376,6 +389,7 @@ beträgt 120 Minuten.
 
 
 ### § 10 Unionspatent – Prüfungsteil Reiseplanung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001200000)
 
 (1) Die Reiseplanung ist ein Teil der Schiffsführerprüfung. Sie wird
 als mündliche Prüfung durchgeführt.
@@ -385,6 +399,7 @@ bekommt jeder Prüfling eine Vorbereitungszeit von 60 Minuten.
 
 
 ### § 11 Unionspatent – Prüfungsteil Reisedurchführung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001301119)
 
 (1) Die Reisedurchführung ist der letzte Teil der
 Schiffsführerprüfung. Sie wird als praktische Prüfung an einem
@@ -405,6 +420,7 @@ für Einweisung und Übung beträgt 45 Minuten.
 
 
 ### § 12 Besondere Berechtigung für maritime Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001401119)
 
 (1) Die Prüfung zum Erwerb der besonderen Berechtigung für maritime
 Wasserstraßen wird als mündliche Prüfung durchgeführt.
@@ -413,6 +429,7 @@ Wasserstraßen wird als mündliche Prüfung durchgeführt.
 
 
 ### § 13 Besondere Berechtigung für Risikostrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001501119)
 
 (1) Die Prüfung zum Erwerb der besonderen Berechtigung für
 Risikostrecken wird als mündliche Prüfung durchgeführt.
@@ -432,6 +449,7 @@ Fragen sowie die Zeitansätze für die Prüfung.
 
 
 ### § 14 Besondere Berechtigung für Fahren unter Radar
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001600000)
 
 (1) Die Prüfung zum Erwerb der besonderen Berechtigung für Fahren
 unter Radar besteht aus einer theoretischen und einer praktischen
@@ -447,6 +465,7 @@ statt.
 
 
 ### § 15 Schifferzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001701119)
 
 (1) Die Prüfung zum Erwerb eines Schifferzeugnisses besteht aus einer
 theoretischen und einer praktischen Prüfung. Die praktische Prüfung
@@ -476,6 +495,7 @@ zusammengestellt.
 
 
 ### § 16 Bewertung der Prüfungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001801119)
 
 (1) Die Bewertung der Prüfungsleistung nach § 75 der
 Binnenschiffspersonalverordnung erfolgt durch die Prüfungskommission
@@ -495,9 +515,11 @@ gesamten Prüfung nach § 73 der Binnenschiffspersonalverordnung.
 
 
 ## Abschnitt 4 - Ordnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNG000400000)
 
 
 ### § 17 Verhalten während der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE001900000)
 
 Die Prüflinge dürfen während der Prüfung weder miteinander reden oder
 auf andere Art miteinander kommunizieren, noch die Prüfungsbearbeitung
@@ -511,6 +533,7 @@ der Prüfung nicht mitgeführt werden.
 
 
 ### § 18 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE002000000)
 
 (1) Prüflinge, deren Identität nicht eindeutig festgestellt werden
 kann, sind durch das vorsitzende Mitglied der Prüfungskommission oder
@@ -524,6 +547,7 @@ Die Prüfungsleistung wird dann als „nicht bestanden“ gewertet.
 
 
 ### § 19 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE002100000)
 
 (1) Versucht ein Prüfling das Ergebnis einer Prüfungsleistung durch
 Täuschung, insbesondere das Mitführen nicht zugelassener Arbeits- und
@@ -536,9 +560,11 @@ oder erklärt sie für ungültig und fordert sie von ihm zurück.
 
 
 ## Abschnitt 5 - Bekanntgabe und Bescheinigung des Ergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNG000500000)
 
 
 ### § 20 Bekanntgabe des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE002201119)
 
 Die Bewertung der Prüfungsleistung wird dem Prüfling unverzüglich
 persönlich mitgeteilt. Im Falle des Nichtbestehens der Prüfung sind
@@ -547,6 +573,7 @@ die Prüfungsbehörde mitzuteilen.
 
 
 ### § 21 Ausstellung der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE002300000)
 
 (1) Nach Abschluss der Prüfung erhält der Prüfling eine Bescheinigung
 über das Ergebnis der Prüfung. Ist die Prüfung nicht bestanden, erhält
@@ -564,6 +591,7 @@ Binnenschiffspersonalverordnung ausstellen zu lassen.
 
 
 ### § 22 Einsichtnahme in prüfungsbezogene Daten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE002400000)
 
 (1) Auf Antrag ist dem Prüfling binnen der gesetzlich vorgegebenen
 Frist zur Einlegung eines Rechtsbehelfs Einsicht in seine
@@ -578,9 +606,11 @@ eines Rechtsmittels gehemmt.
 
 
 ## Abschnitt 6 - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNG000600000)
 
 
 ### § 23 Veröffentlichung und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschpersbef_hprv/BJNR601410022.html#BJNR601410022BJNE002500000)
 
 Diese Verordnung tritt am 18. Januar 2022 in Kraft.
 

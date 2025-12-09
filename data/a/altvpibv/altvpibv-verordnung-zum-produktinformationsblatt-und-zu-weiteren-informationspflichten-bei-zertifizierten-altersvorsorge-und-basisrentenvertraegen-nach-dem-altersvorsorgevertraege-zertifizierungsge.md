@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000100000)
 
 Auf Grund des § 6 Satz 1 des Altersvorsorgeverträge-
 Zertifizierungsgesetzes vom 26. Juni 2001 (BGBl. I S. 1310, 1322), das
@@ -34,12 +35,14 @@ der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Produktbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000300000)
 
 Die Produktbezeichnung im Sinne des § 7 Absatz 1 Satz 2 Nummer 1 des
 Gesetzes ist der vom Anbieter vergebene Name.
 
 
 ## § 2 Produkttyp
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000401119)
 
 (1) Zur Benennung des Produkttyps nach § 7 Absatz 1 Satz 2 Nummer 2
 des Gesetzes dürfen folgende Bezeichnungen verwendet werden:
@@ -96,6 +99,7 @@ darzustellen. Beim Logo sind als Förderarten zu unterscheiden:
 
 
 ## § 3 Produktbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000500000)
 
 (1) Die Produktbeschreibung nach § 7 Absatz 1 Satz 2 Nummer 2 des
 Gesetzes hat Folgendes zu enthalten:
@@ -134,6 +138,7 @@ bei Eintritt des Versicherungsfalls abhängt.
 
 
 ## § 4 Wesentliche Bestandteile des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000602119)
 
 (1) Wesentliche Bestandteile des Vertrags im Sinne des § 7 Absatz 1
 Satz 2 Nummer 6 des Gesetzes sind:
@@ -209,6 +214,7 @@ des Vertragspartners ein neues Produktinformationsblatt ausstellen. §
 
 
 ## § 5 Chancen-Risiko-Klassen
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000702119)
 
 (1) Altersvorsorge- und Basisrentenverträge sind nach § 7 Absatz 1
 Satz 2 Nummer 7 des Gesetzes in Chancen-Risiko-Klassen (CRK)
@@ -280,6 +286,7 @@ Altersvorsorge veröffentlicht.
 
 
 ## § 6 Effektiver Jahreszins
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000802126)
 
 (1) Bei Altersvorsorgeverträgen in Form eines Darlehens und bei
 Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des
@@ -297,6 +304,7 @@ unter eine Ausnahme des § 16 Absatz 4 der Preisangabenverordnung.
 
 
 ## § 7 Kostenangabe
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE000900000)
 
 (1) Bei der Kostenangabe nach § 7 Absatz 1 Satz 2 Nummer 9 des
 Gesetzes sind die Abschluss- und Vertriebskosten zusätzlich als
@@ -316,6 +324,7 @@ Vertragsverlauf und den Verteilungszeitraum auszuweisen.
 
 
 ## § 8 Angaben zum Preis-Leistungs-Verhältnis
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001002124)
 
 Die Angaben zum Preis-Leistungs-Verhältnis nach § 7 Absatz 1 Satz 2
 Nummer 10 des Gesetzes müssen Folgendes beinhalten:
@@ -360,6 +369,7 @@ Nummer 10 des Gesetzes müssen Folgendes beinhalten:
 
 
 ## § 9 Annahmen für die Angaben zum Preis-Leistungs-Verhältnis
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001100000)
 
 (1) Die Berechnungen für die Angaben nach den §§ 7, 8, 11 und 12 sind
 unter Berücksichtigung von Annahmen zur Entwicklung des Vertrags
@@ -401,6 +411,7 @@ hinzuweisen.
 
 
 ## § 10 Berechnungen für die Angaben zum Preis-Leistungs-Verhältnis
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001203124)
 
 (1) Den Berechnungen für die Angaben nach den §§ 7, 8 Nummer 3 sowie §
 11 Absatz 1 sind in Abhängigkeit von den Chancen-Risiko-Klassen
@@ -494,6 +505,7 @@ Nachkommastellen kaufmännisch zu runden.
 
 
 ## § 11 Informationen zum Anbieterwechsel und zur Kündigung des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001300000)
 
 (1) Zum Anbieterwechsel und zur Kündigung des Vertrags nach § 7 Absatz
 1 Satz 2 Nummer 13 des Gesetzes sind folgende Informationen zu geben:
@@ -542,6 +554,7 @@ Absatz 1 nicht gegeben werden.
 
 
 ## § 12 Informationen bei Zusatzabsicherungen
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001400000)
 
 (1) Die zusätzlichen Angaben nach § 7 Absatz 1 Satz 3 des Gesetzes bei
 ergänzenden Absicherungen umfassen insbesondere:
@@ -570,6 +583,7 @@ ein neues Produktinformationsblatt auszustellen.
 
 
 ## § 13 Form des Produktinformationsblatts
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001500000)
 
 (1) Das Produktinformationsblatt ist nach amtlich vorgeschriebenem
 Muster zu erstellen, das durch ein Schreiben des Bundesministeriums
@@ -585,6 +599,7 @@ sind im Produktinformationsblatt unzulässig.
 
 
 ## § 14 Muster-Produktinformationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001602119)
 
 (1) Im Muster-Produktinformationsblatt sind statt der individuellen
 Werte nach § 7 Absatz 4 des Gesetzes die folgenden Annahmen zugrunde
@@ -652,6 +667,7 @@ des betreffenden Muster-Produktinformationsblatts hinzuweisen.
 
 
 ## § 15 Information vor der Auszahlungsphase des Altersvorsorgevertrags
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001700000)
 
 Der Anbieter hat den Vertragspartner nach Maßgabe des § 7b Absatz 1
 Satz 1 Nummer 1 des Gesetzes über Folgendes schriftlich zu
@@ -686,6 +702,7 @@ informieren:
 
 
 ## § 16 Berechnungen für die Information vor der Auszahlungsphase des Altersvorsorgevertrags
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001801119)
 
 (1) Den Berechnungen für die Angaben nach § 15 sind folgende Werte
 zugrunde zu legen:
@@ -743,6 +760,7 @@ des Gesetzes getrennt für jeden Gliederungspunkt vorzusehen.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html#BJNR141300015BJNE001900000)
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.
 

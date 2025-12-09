@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uagowizustv/BJNR055700004.html#BJNR055700004BJNE000100000)
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in
 der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602),
@@ -36,6 +37,7 @@ Bundesministeriums des Innern:
 
 
 ## § 1 Zuständigkeitsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/uagowizustv/BJNR055700004.html#BJNR055700004BJNE000203360)
 
 Die Zuständigkeit für die Verfolgung von Ordnungswidrigkeiten nach §
 37 Abs. 1 des Umweltauditgesetzes in der Fassung der Bekanntmachung
@@ -54,6 +56,7 @@ unterliegt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uagowizustv/BJNR055700004.html#BJNR055700004BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

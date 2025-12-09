@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000100308)
 
 Auf Grund des Artikels 4 des Einigungsvertragsgesetzes vom 23.
 September 1990 (BGBl. 1990 II S. 885) verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000200308)
 
 Die in Anlage 1 dieser Verordnung genannten unmittelbar anwendbaren
 Rechtsakte der Europäischen Gemeinschaften sind mit den dort
@@ -35,6 +37,7 @@ genannten Gebiet anzuwenden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000300308)
 
 Für das in den Anlagen 2 und 3 dieser Verordnung genannte, auf Grund
 von Rechtsakten der Europäischen Gemeinschaften erlassene Bundesrecht
@@ -56,6 +59,7 @@ folgendes:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000402311)
 
 (1) Es kann genehmigt werden, daß Erzeugnisse mit Ursprung in
 Bulgarien, Jugoslawien, Polen, Rumänien, der Tschechoslowakei, Ungarn
@@ -99,6 +103,7 @@ Allgemeinverfügung erteilt werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000500308)
 
 (1) In Anlage 4 aufgeführte Erzeugnisse, die in Anwendung der
 Ausnahmebestimmungen der §§ 1 und 2 hergestellt sind und Erzeugnisse,
@@ -114,6 +119,7 @@ Einigungsvertrages genannten Gebiet in den Verkehr gebracht werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000600308)
 
 Ordnungswidrig im Sinne des Artikels 4 Abs. 2 des
 Einigungsvertragsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -130,23 +136,27 @@ Einigungsvertragsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000700308)
 
 Anpassungen durch den Einigungsvertrag sowie auf Grund von
 Verordnungsermächtigungen in anderen Vorschriften bleiben unberührt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000800308)
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE000900308)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ## Anlage 1 Liste der Rechtsakte der Europäischen Gemeinschaften, die nach § 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gemäß den von den zuständigen Organen der Europäischen Gemeinschaften erlassenen Ausnahmeregelungen mit folgenden Maßgaben anzuwenden sind:
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE001002377)
 
 
 *
@@ -335,6 +345,7 @@ folgende Kontrollmittel zu verwenden:
 (zu § 2 Nr. 1)
 
 ## Anlage 2 Liste des Bundesrechts, das gemäß § 2 Nr. 1 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zeitlichen Maßgaben unterliegt
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE001103377)
 
 
 *
@@ -545,6 +556,7 @@ folgende Kontrollmittel zu verwenden:
 (zu § 2 Nr. 2)
 
 ## Anlage 3 Liste des Bundesrechts, das gemäß § 2 Nr. 2 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet mit folgenden Maßgaben anzuwenden ist
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE001205311)
 
 Fundstelle: BGBl. I 1990, 2921 - 2926;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1379,6 +1391,7 @@ rasche Verwirklichung des Verordnungsziels mit Auflagen zu versehen.
 (zu § 4 Abs. 1 Satz 1)
 
 ## Anlage 4 Liste der Erzeugnisse gemäß § 4 Abs. 1 Satz 1
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE001300308)
 
 Erzeugnisse im Sinne des § 4 Abs. 1 Satz 1 sind die Erzeugnisse, die
 den in folgenden Teilen der Anlagen genannten Vorschriften
@@ -1418,6 +1431,7 @@ Anordnung über die Liefermengen von Kuhmilch für den Zeitraum vom 1.
 Juli 1990 bis 31. März 1991
 
 ## Anhang 1 Vom 22. August 1990
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE001400308)
 
 § 1
 (1) Die Liefermengen von Kuhmilch für landwirtschaftliche Unternehmen
@@ -1559,6 +1573,7 @@ Landeskontrollverbände und Erhebung einer Mitverantwortungsabgabe für
 Milch und Milcherzeugnisse
 
 ## Anhang 2 Vom 21. September 1990
+[Direktlink](https://www.gesetze-im-internet.de/egrecht_blv/BJNR029150990.html#BJNR029150990BJNE001500308)
 
 Auf der Grundlage des § 5 des Tierzuchtgesetzes vom 17. Dezember 1980
 (GBl. I Nr. 35), des § 6 des Marktorganisationsgesetzes vom 6. Juli

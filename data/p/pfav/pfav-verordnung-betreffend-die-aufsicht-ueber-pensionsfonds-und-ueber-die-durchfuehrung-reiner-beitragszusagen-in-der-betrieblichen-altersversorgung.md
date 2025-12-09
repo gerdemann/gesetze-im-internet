@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Kapitel 5 tritt gem. § 30 Satz 1 dieser V am 1.7.2016 in Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -39,12 +40,15 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 
 ## Teil 1 - Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000800124)
 
 
 ### Kapitel 1 - Berichte des Verantwortlichen Aktuars
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000101124)
 
 
 #### § 1 Erläuterungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000300000)
 
 (1) Der Verantwortliche Aktuar hat im Erläuterungsbericht anzugeben,
 inwieweit nach den anerkannten Regeln der Versicherungsmathematik eine
@@ -149,6 +153,7 @@ Absatz 2 des Handelsgesetzbuchs.
 
 
 #### § 2 Angemessenheitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000401118)
 
 (1) Der Verantwortliche Aktuar hat im Angemessenheitsbericht
 darzulegen, dass die dauernde Erfüllbarkeit der sich aus den
@@ -190,6 +195,7 @@ verwiesen werden.
 
 
 #### § 3 Vorlagefristen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000501128)
 
 (1) Der Verantwortliche Aktuar hat den Erläuterungsbericht und den
 Angemessenheitsbericht bei Abgabe der versicherungsmathematischen
@@ -201,9 +207,11 @@ Jahresabschlusses der Aufsichtsbehörde einzureichen.
 
 
 ### Kapitel 2 - Berichte für die Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000201124)
 
 
 #### § 4 Interner jährlicher Bericht
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000600000)
 
 Pensionsfonds haben der Aufsichtsbehörde einen internen jährlichen
 Bericht vorzulegen, der sich aus folgenden Rechnungslegungsunterlagen
@@ -222,6 +230,7 @@ zusammensetzt:
 
 
 #### § 5 Formulare für Bilanz und Gewinn-und-Verlust-Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000701128)
 
 Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen
 gegenüber der Aufsichtsbehörde wie folgt aufzustellen:
@@ -237,6 +246,7 @@ gegenüber der Aufsichtsbehörde wie folgt aufzustellen:
 
 
 #### § 6 Gesonderte Gewinn-und-Verlust-Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000801128)
 
 (1) Pensionsfonds haben zusätzlich jeweils gesonderte
 pensionsfondstechnische Gewinn-und-Verlust-Rechnungen nach Formular
@@ -263,6 +273,7 @@ mehr als 500 000 Euro betragen.
 
 
 #### § 7 Fristen für die Einreichung der Formulare
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE000901128)
 
 (1) Die Formulare F.800.01 und F.810.01 gemäß den §§ 5 und 6 sind der
 Aufsichtsbehörde spätestens fünf Monate nach Ende des Geschäftsjahres
@@ -275,6 +286,7 @@ F.800.01 und F.810.01 nachzureichen.
 
 
 #### § 8 Formgebundene Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001001128)
 
 Pensionsfonds haben folgende formgebundene Erläuterungen zu erstellen:
 
@@ -319,6 +331,7 @@ Pensionsfonds haben folgende formgebundene Erläuterungen zu erstellen:
 
 
 #### § 9 Fristen für die Einreichung der formgebundenen Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001101128)
 
 Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde
 einzureichen, und zwar
@@ -336,6 +349,7 @@ einzureichen, und zwar
 
 
 #### § 10 Sonstige Rechnungslegungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001202128)
 
 (1) Pensionsfonds haben eine elektronische Fassung der folgenden
 sonstigen Rechnungslegungsunterlagen einzureichen:
@@ -433,6 +447,7 @@ Original unterzeichnet hat.
 
 
 #### § 11 Halbjährlicher Zwischenbericht
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001301128)
 
 (1) Pensionsfonds haben jeweils zum 30. Juni und 31. Dezember einen
 internen halbjährlichen Zwischenbericht über ausgewählte Zahlen zur
@@ -445,6 +460,7 @@ Berichtshalbjahr folgenden Monats einzureichen.
 
 
 #### § 12 Anwendung der Formulare
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001402128)
 
 (1) Die auf den Formularen zu setzenden Kennzahlen ergeben sich aus
 Anlage 1.
@@ -460,9 +476,11 @@ festgelegten Muster.
 
 
 ### Kapitel 3 - Überschussbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000301124)
 
 
 #### § 13 Anzurechnende Kapitalerträge
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001502128)
 
 (1) Die anzurechnenden Kapitalerträge, die auf die
 überschussberechtigten Versorgungsverhältnisse entfallen, ergeben sich
@@ -589,6 +607,7 @@ Geschäftsjahres seine Veränderung im Geschäftsjahr.
 
 
 #### § 14 Mindestzuführung zur Rückstellung für Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001602128)
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur
 Rückstellung für Beitragsrückerstattung müssen Pensionsfonds die
@@ -680,6 +699,7 @@ Rückstellung für Beitragsrückerstattung, wird sie durch Null ersetzt.
 
 
 #### § 15 Reduzierung der Mindestzuführung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001701118)
 
 (1) Die Mindestzuführung gemäß § 14 kann mit Zustimmung der
 Aufsichtsbehörde in Ausnahmefällen reduziert werden um
@@ -741,9 +761,11 @@ Absatz 1 grundsätzlich nicht berührt.
 
 
 ### Kapitel 4 - Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000401124)
 
 
 #### § 16 Anlagegrundsätze und Anlagemanagement
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001801118)
 
 (1) Für die Anlage des Sicherungsvermögens eines Pensionsfonds gelten
 die besonderen Vorschriften dieses Kapitels. Die Bestimmungen des §
@@ -791,6 +813,7 @@ Absatz 4, §§ 341b, 341c und 341d des Handelsgesetzbuchs).
 
 
 #### § 17 Anlageformen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE001904128)
 
 (1) Das Sicherungsvermögen darf angelegt werden in
 
@@ -1261,6 +1284,7 @@ gestatten, wenn
 
 
 #### § 18 Mischung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002000000)
 
 (1) Die angemessene Verteilung des Sicherungsvermögens auf
 verschiedene Anlageformen (Mischung) bestimmt sich vorbehaltlich der
@@ -1280,6 +1304,7 @@ Hedgefonds- oder Rohstoffrisiken gebunden ist.
 
 
 #### § 19 Streuung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002101128)
 
 (1) Vorbehaltlich des Absatzes 2 sind alle auf ein und denselben
 Schuldner entfallenden Anlagen auf jeweils 5 Prozent des
@@ -1353,6 +1378,7 @@ mit der gebotenen Vorsicht zu tätigen und angemessen zu streuen.
 
 
 #### § 20 Kongruenz
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002200000)
 
 Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in Anlage
 3 zu dieser Verordnung in Vermögenswerten anzulegen, die auf dieselbe
@@ -1376,9 +1402,11 @@ Versorgungsberechtigten erfüllt werden müssen. Dabei gelten
 
 
 ### Kapitel 5 - Deckungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000502124)
 
 
 #### § 21 Versicherungsmathematische Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002301000)
 
 (1) Bei Pensionsfonds hat der Verantwortliche Aktuar, wenn keine
 Einwendungen zu erheben sind, die folgende versicherungsmathematische
@@ -1396,6 +1424,7 @@ Inhalt und Tragweite der Einschränkung klar umrissen werden.
 
 
 #### § 22 Versicherungsförmige Garantien
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002403123)
 
 (1) Soweit der Pensionsfonds im Rahmen eines beitrags- oder
 leistungsbezogenen Pensionsplans eine versicherungsförmige Garantie
@@ -1459,6 +1488,7 @@ Zeitpunkt des Rentenbeginns.
 
 
 #### § 23 Versicherungsmathematische Rechnungsgrundlagen bei versicherungsförmigen Garantien
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002501118)
 
 (1) Bei der nach versicherungsmathematischen Methoden vorzunehmenden
 Ableitung von Rechnungsgrundlagen sind sämtliche Umstände, die
@@ -1537,6 +1567,7 @@ wirtschaftlichen Rahmenbedingungen dies erfordern oder rechtfertigen.
 
 
 #### § 24 Zusagen ohne versicherungsförmige Garantien
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002602118)
 
 (1) Soweit ein leistungsbezogener Pensionsplan die periodische
 Überprüfung und gegebenenfalls Neufestsetzung der für die Zukunft der
@@ -1578,9 +1609,11 @@ Versorgungskapital entspricht.
 
 
 ### Kapitel 6 - Finanzielle Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000601124)
 
 
 #### § 25 Berechnung und Höhe der Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002701128)
 
 (1) Bei Pensionsfonds ist die Solvabilitätskapitalanforderung, bezogen
 auf die jeweiligen Pensionspläne, die Summe von
@@ -1639,6 +1672,7 @@ bezogen auf das gesamte übernommene Risiko, begrenzt.
 
 
 #### § 26 Mindestkapitalanforderung und Mindestbetrag der Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002800000)
 
 Ein Drittel der Solvabilitätskapitalanforderung gemäß § 25 bildet die
 Mindestkapitalanforderung. Der Mindestbetrag der
@@ -1648,6 +1682,7 @@ Mindestbetrag der Mindestkapitalanforderung um ein Viertel.
 
 
 #### § 27 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE002902128)
 
 (1) In die Ermittlung der Eigenmittel gehen ein
 
@@ -1866,6 +1901,7 @@ Solvabilitätskapitalanforderung ergibt.
 
 
 #### § 28 Berichtspflicht gegenüber der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003001128)
 
 (1) Pensionsfonds haben jährlich der Aufsichtsbehörde eine Berechnung
 der Solvabilitätskapitalanforderung und einen Nachweis über ihre
@@ -1883,9 +1919,11 @@ festgelegte Muster zu verwenden.
 
 
 ### Kapitel 7 - Lebenslange Zahlungen im Sinne des § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000703118)
 
 
 #### § 29 Anfängliche Höhe der lebenslangen Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003101118)
 
 (1) Die anfängliche Höhe der lebenslangen Zahlung ergibt sich durch
 Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals. Bei
@@ -1903,6 +1941,7 @@ sich für das Versorgungsverhältnis bei entsprechender Anwendung von §
 
 
 #### § 30 Mindesthöhe der lebenslangen Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003201118)
 
 Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung
 des bei Rentenbeginn vorhandenen Versorgungskapitals mit einem
@@ -1912,6 +1951,7 @@ Rechnungsgrundlagen nach § 31 Absatz 2 Satz 2 anzuwenden.
 
 
 #### § 31 Anpassung der lebenslangen Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003800118)
 
 (1) Der Kapitaldeckungsgrad des Rentnerbestands eines Pensionsplans
 darf 100 Prozent nicht unterschreiten und 125 Prozent nicht
@@ -1937,6 +1977,7 @@ Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
 
 #### § 32 Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003900118)
 
 (1) Der Nachweis der Zusage des Arbeitgebers, für die Erbringung der
 Mindesthöhe der lebenslangen Zahlung nach § 30 einzustehen, erfolgt
@@ -1961,9 +2002,11 @@ Arbeitgeber zu übernehmen.
 
 
 ## Teil 2 - Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG000900124)
 
 
 ### § 33 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004100124)
 
 Die Vorschriften dieses Teils gelten, soweit eine durchführende
 Einrichtung reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a des
@@ -1973,6 +2016,7 @@ anderes Lebensversicherungsunternehmen.
 
 
 ### § 34 Vermögensanlage
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004200124)
 
 Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen
 Altersversorgung eingezahlt werden, sind anzulegen. Für die Anlage
@@ -1980,6 +2024,7 @@ dieser Beiträge sind die §§ 16 bis 20 entsprechend anzuwenden.
 
 
 ### § 35 Deckungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004300124)
 
 (1) In der Ansparphase ist die Deckungsrückstellung das planmäßig
 zuzurechnende Versorgungskapital auf der Grundlage der gezahlten
@@ -1999,6 +2044,7 @@ insgesamt zugeordnet ist.
 
 
 ### § 36 Kapitaldeckungsgrad
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004400124)
 
 (1) Der Kapitaldeckungsgrad ist das Verhältnis der
 Deckungsrückstellung, die nach § 35 Absatz 2 für die Rentenempfänger
@@ -2012,6 +2058,7 @@ Absatz 2 Satz 2 bis 4 entsprechend anzuwenden.
 
 
 ### § 37 Anfängliche Höhe der lebenslangen Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004500124)
 
 (1) Die anfängliche Höhe der lebenslangen Zahlung ergibt sich durch
 Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals des
@@ -2029,6 +2076,7 @@ sich für das Versorgungsverhältnis bei entsprechender Anwendung von §
 
 
 ### § 38 Anpassung der lebenslangen Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004600124)
 
 (1) Der Kapitaldeckungsgrad nach § 36 Absatz 1 darf 100 Prozent nicht
 unterschreiten und die Obergrenze nach § 36 Absatz 2 nicht
@@ -2049,6 +2097,7 @@ erbringenden Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
 
 ### § 39 Risikomanagement
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004700124)
 
 (1) Im Rahmen des Risikomanagements sind die Vorgaben des
 Betriebsrentengesetzes sowie die zugrunde liegenden Vereinbarungen,
@@ -2084,6 +2133,7 @@ des Versorgungskapitals.
 
 
 ### § 40 Risikoberichte
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004800124)
 
 In den unternehmensinternen Risikoberichten im Sinne des § 26 Absatz 1
 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, die der
@@ -2094,6 +2144,7 @@ Vorgaben des § 39 einzugehen.
 
 
 ### § 41 Laufende Informationspflichten gegenüber den Versorgungsanwärtern und Rentenempfängern
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004900124)
 
 (1) Über die sonstigen verpflichtenden Informationen hinaus stellt die
 durchführende Einrichtung den Versorgungsanwärtern mindestens einmal
@@ -2143,6 +2194,7 @@ jährlich folgende Informationen kostenlos zur Verfügung:
 
 
 ### § 42 Berichterstattung gegenüber der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005001128)
 
 (1) Schließt eine durchführende Einrichtung eine Vereinbarung zur
 Durchführung reiner Beitragszusagen ab, so hat sie der
@@ -2185,6 +2237,7 @@ Versicherungsberichterstattungs-Verordnung.
 
 
 ### § 42a Elektronische Einreichungen gegenüber der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005100128)
 
 (1) Soweit in dieser Verordnung nichts anderes geregelt ist, sind der
 Aufsichtsbehörde nach dieser Verordnung einzureichende Unterlagen in
@@ -2203,6 +2256,7 @@ Hinweise sicherzustellen.
 
 
 ### § 42b Datenformate und Einreichungsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005200128)
 
 (1) Elektronische Einreichungen müssen in einem maschinenlesbaren und
 maschinendurchsuchbaren Dateiformat erfolgen.
@@ -2234,6 +2288,7 @@ Format erfolgen.
 
 
 ### § 42c Zusammen einzureichende Formularteile
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005300128)
 
 (1) Die quantitativen Formularteile von Formularen mit gleicher
 Einreichungsfrist nach den §§ 7 und 9 und die qualitativen
@@ -2263,6 +2318,7 @@ Meldevorgang übermittelt werden.
 
 
 ### § 42d Korrekturmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005400128)
 
 (1) Muss ein quantitativer Formularteil nach Übermittlung korrigiert
 werden, ist dieser Formularteil unverzüglich nach Feststellung des
@@ -2288,6 +2344,7 @@ erneuten Übermittlung der jeweils anderen Formularteile.
 
 
 ### § 42e Zurückweisung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE005500128)
 
 (1) Die Aufsichtsbehörde weist eine Meldedatei zurück, wenn
 Dateninhalte oder das Datenformat nicht den Vorgaben des § 42b
@@ -2299,9 +2356,11 @@ Zurückweisungsgrundes im MVP-Portal abrufbar.
 
 
 ## Teil 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNG001000124)
 
 
 ### § 43 Übergangsvorschriften zu Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE004006128)
 
 (1) Die Vorschriften der Kapitel 1, 2, 3 und 6 sind erstmals für das
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
@@ -2383,6 +2442,7 @@ in der bis zum 16. Dezember 2024 geltenden Fassung anzuwenden.
 (zu § 12 Absatz 1)
 
 ### Anlage 1 Die regionale Herkunft des Pensionsfondsgeschäfts und die dafür zu setzenden Kennzahlen
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003301128)
 
 (Fundstelle: BGBl. I 2016, 857 - 858, bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -2587,6 +2647,7 @@ vgl. Fußnote)
 (zu § 12 Absatz 2 und 3)
 
 ### Anlage 2 Anwendung der Formulare
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003403128)
 
 (Fundstelle: BGBl. I 2016, 859 - 867; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -3570,6 +3631,7 @@ Abkürzungen
 (zu § 20)
 
 ### Anlage 3 Kongruenzregeln
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003501128)
 
 (Fundstelle: BGBl. I 2016, 868, bzgl. der einzelnen Änderungen vgl.
 Fußnote)
@@ -3655,6 +3717,7 @@ Fußnote)
 (zu § 28 Absatz 3)
 
 ### Anlage 4 Nachweis der Eigenmittel und Berechnung der Solvabilitätskapitalanforderung für Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003601128)
 
 (Fundstelle: BGBl. 2024 I Nr. 414, S. 208 - 211)
 
@@ -3662,6 +3725,7 @@ Fußnote)
 (zu § 12 Absatz 4)
 
 ### Anlage 5 Formulare
+[Direktlink](https://www.gesetze-im-internet.de/pfav/BJNR084200016.html#BJNR084200016BJNE003702128)
 
 (Fundstelle: BGBl. 2024 I Nr. 414, S. 212 - 242)
 

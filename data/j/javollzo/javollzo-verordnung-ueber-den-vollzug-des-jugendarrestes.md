@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Vollzugseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000100319)
 
 (1) Dauerarrest und Kurzarrest von mehr als zwei Tagen werden in
 Jugendarrestanstalten, Freizeitarrest und Kurzarrest bis zu zwei Tagen
@@ -45,6 +46,7 @@ als 60 Jugendliche aufnehmen können.
 
 
 ## § 2 Leitung des Vollzuges
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000200319)
 
 (1) Vollzugsleiter ist der Jugendrichter am Ort des Vollzuges. Ist
 dort kein Jugendrichter oder sind mehrere tätig, so ist Vollzugsleiter
@@ -60,6 +62,7 @@ regelmäßige Besprechungen gefördert werden.
 
 
 ## § 3 Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000300319)
 
 (1) Die Mitarbeiter des Vollzugsleiters sollen erzieherisch befähigt
 und in der Jugenderziehung erfahren sein. Sie sollen so ausgewählt und
@@ -78,12 +81,14 @@ Erziehungsarbeit herangezogen werden.
 
 
 ## § 4 Nachdrückliche Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000400319)
 
 Der Jugendarrest ist in der Regel unmittelbar nach Rechtskraft des
 Urteils zu vollziehen.
 
 
 ## § 5 Aufnahme
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000500319)
 
 (1) Der Jugendliche hat sämtliche eingebrachten Sachen, die er während
 des Vollzuges nicht benötigt, bei der Aufnahme abzugeben und, soweit
@@ -104,6 +109,7 @@ selbst nähren, dürfen nicht aufgenommen werden.
 
 
 ## § 6 Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000600319)
 
 (1) Der Jugendliche wird während der Nacht allein in einem Arrestraum
 untergebracht, sofern nicht sein körperlicher oder seelischer Zustand
@@ -120,6 +126,7 @@ Tages mit anderen Jugendlichen zusammen unterzubringen.
 
 
 ## § 7 Persönlichkeitserforschung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000700319)
 
 Der Vollzugsleiter und die an der Erziehung beteiligten Mitarbeiter
 sollen alsbald ein Bild von dem Jugendlichen und seinen
@@ -129,6 +136,7 @@ Nachbetreuung notwendig ist.
 
 
 ## § 8 Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000800319)
 
 (1) An den Jugendlichen sind während des Vollzuges dieselben
 Anforderungen zu stellen, die bei wirksamer Erziehung in der Freiheit
@@ -142,6 +150,7 @@ Jugendlichen betreffen, unverzüglich dem Vollzugsleiter zu melden.
 
 
 ## § 9 Verhaltensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE000900319)
 
 (1) Der Jugendliche soll durch sein Verhalten zu einem geordneten
 Zusammenleben in der Anstalt beitragen. Er darf die Ordnung in der
@@ -160,6 +169,7 @@ befolgen und die Verhaltensvorschriften zu beachten.
 
 
 ## § 10 Erziehungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001000319)
 
 (1) Der Vollzug soll so gestaltet werden, daß die körperliche,
 geistige und sittliche Entwicklung des Jugendlichen gefördert wird.
@@ -173,6 +183,7 @@ stattfinden.
 
 
 ## § 11 Arbeit und Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001100319)
 
 (1) Der Jugendliche wird zur Arbeit oder nach Möglichkeit zum
 Unterricht oder zu anderen ausbildenden Veranstaltungen herangezogen.
@@ -191,6 +202,7 @@ erzieherischen Gründen mit Zustimmung des Jugendlichen zulassen.
 
 
 ## § 12 Lebenshaltung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001200319)
 
 (1) Der Jugendliche trägt eigene Kleidung und eigene Wäsche. Während
 der Arbeit trägt er Anstaltssachen. Dasselbe gilt, wenn die eigene
@@ -215,21 +227,25 @@ Gesundheitsschutz und zur Hygiene zu unterstützen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001300319)
 
 (weggefallen)
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001400319)
 
 (weggefallen)
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001500319)
 
 (weggefallen)
 
 
 ## § 16 Sport
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001600319)
 
 (1) Im Vollzug des Jugendarrestes wird nach Möglichkeit Sport
 getrieben. Der Jugendliche ist verpflichtet, daran teilzunehmen.
@@ -241,6 +257,7 @@ der Anstalt zu benutzen.
 
 
 ## § 17 Gesundheitspflege
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001700319)
 
 (1) Der Jugendliche wird bei der Aufnahme oder bald danach und nach
 Möglichkeit vor der Entlassung ärztlich untersucht und während des
@@ -259,6 +276,7 @@ Unterbrechung der Vollstreckung an.
 
 
 ## § 18 Freizeit
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001800319)
 
 (1) Der Jugendliche erhält Gelegenheit, seine Freizeit sinnvoll zu
 verbringen. Er wird hierzu angeleitet. Aus erzieherischen Gründen kann
@@ -275,6 +293,7 @@ werden.
 
 
 ## § 19 Seelsorge
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE001900319)
 
 (1) Eine geordnete Seelsorge ist zu gewährleisten.
 
@@ -289,6 +308,7 @@ besucht werden.
 
 
 ## § 20 Verkehr mit der Außenwelt
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002000319)
 
 (1) Der Verkehr mit der Außenwelt wird auf dringende Fälle beschränkt.
 Im Kurzarrest von mehr als zwei Tagen und im Dauerarrest können
@@ -302,6 +322,7 @@ Entscheidung.
 
 
 ## § 21 Ausgang und Ausführung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002100319)
 
 Fordern wichtige unaufschiebbare Angelegenheiten die persönliche
 Anwesenheit des Jugendlichen außerhalb der Anstalt, so kann der
@@ -310,6 +331,7 @@ Vollzugsleiter ihm einen Ausgang gestatten oder ihn ausführen lassen.
 
 
 ## § 22 Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002200319)
 
 (1) Die Jugendlichen, ihre Sachen und die Arresträume dürfen jederzeit
 durchsucht werden. § 5 Abs. 1 Satz 5 ist anzuwenden.
@@ -347,6 +369,7 @@ Zwanges bleiben unberührt.
 
 
 ## § 23 Hausstrafen
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002300319)
 
 (1) Gegen einen Jugendlichen, der schuldhaft seine Pflichten verletzt,
 kann der Vollzugsleiter eine Hausstrafe verhängen. Der Jugendliche
@@ -380,6 +403,7 @@ der Hausstrafe bereits durch den teilweisen Vollzug erreicht ist.
 
 
 ## § 24 Bitten und Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002400319)
 
 Dem Jugendlichen wird Gelegenheit gegeben, Bitten und Vorstellungen
 sowie Beschwerden in Angelegenheiten, die ihn selbst betreffen, an den
@@ -387,6 +411,7 @@ Vollzugsleiter zu richten.
 
 
 ## § 25 Zeitpunkt der Aufnahme und der Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002500319)
 
 (1) Für die Vollstreckung von Dauerarrest und Kurzarrest wird der Tag
 zu 24 Stunden, die Woche zu sieben Tagen gerechnet. Die Arrestzeit
@@ -412,6 +437,7 @@ andere Tage fällt.
 
 
 ## § 26 Fürsorge für die Zeit nach der Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002600319)
 
 (1) Fürsorgemaßnahmen, die für die Zeit nach der Entlassung des
 Jugendlichen notwendig und nicht schon anderweitig veranlaßt worden
@@ -429,6 +455,7 @@ auch im Fall des § 17 Abs. 4 zu veranlassen.
 
 
 ## § 27 Schlußbericht
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002701307)
 
 (1) Bei Dauerarrest faßt der Vollzugsleiter über jeden Jugendlichen
 einen Schlußbericht ab, in dem er sich zu dessen Führung und, soweit
@@ -443,30 +470,36 @@ besonderem Anlaß abgefaßt.
 
 
 ## § 28
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002801307)
 
 -
 
 
 ## § 29
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE002900319)
 
 (weggefallen)
 
 
 ## § 30 Heranwachsende
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE003000319)
 
 Die Vorschriften dieser Verordnung gelten auch für Heranwachsende.
 
 
 ## § 31
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE003100319)
 
 (weggefallen)
 
 
 ## § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE003201360)
 
 
 
 ## § 33 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/javollzo/BJNR005050966.html#BJNR005050966BJNE003300319)
 
 Diese Verordnung tritt am 1. Oktober 1966 in Kraft.
 

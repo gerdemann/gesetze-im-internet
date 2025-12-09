@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -30,6 +31,7 @@ Infrastruktur:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000209130)
 
 Im Zuständigkeitsbereich des Bundesministeriums für Digitales und
 Verkehr für die Wasserstraßen und die Schifffahrt werden Gebühren und
@@ -282,6 +284,7 @@ die auf Grund der folgenden Vorschriften erbracht werden:
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis der Anlage. Das Gebühren- und
@@ -296,6 +299,7 @@ aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000400000)
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
 ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten in der
@@ -305,6 +309,7 @@ Verwaltungsbeschäftigte in der Bundesverwaltung.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000503130)
 
 (1) Für die Erhebung von Gebühren und Auslagen für individuell
 zurechenbare öffentliche Leistungen, die vor dem 1. Oktober 2021
@@ -334,12 +339,14 @@ vollständig erbracht worden ist, ist diese Verordnung anzuwenden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000600000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 2021 in Kraft.
 
 (zu § 2)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmvi-ws-bgebv/BJNR474400021.html#BJNR474400021BJNE000713130)
 
 (Fundstelle: BGBl. I 2021, 4746 - 4778;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

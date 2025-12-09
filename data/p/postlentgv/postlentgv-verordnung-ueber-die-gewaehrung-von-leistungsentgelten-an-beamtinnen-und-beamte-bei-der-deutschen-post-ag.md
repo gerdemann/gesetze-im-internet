@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000100000)
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
 September 1994 (BGBl. I S. 2325, 2353), der durch Artikel 1 Nr. 5
@@ -31,6 +32,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Persönlicher Geltungsbereich, leistungsbezogene Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000201305)
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen
 Post AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
@@ -38,6 +40,7 @@ leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 
 ## § 2 Leistungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000300000)
 
 (1) Das Leistungsentgelt (§ 1 Satz 1) wird als Jahresbetrag für im
 abgelaufenen Kalenderjahr erzielte Leistungen gewährt. Seine Höhe wird
@@ -57,6 +60,7 @@ Leistungsentgelt wird nicht auf die Besoldung angerechnet.
 
 
 ## § 3 Ermittlung des Niederlassungsbudgets für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000400000)
 
 (1) Jedem Betrieb im Sinne des Zuordnungstarifvertrages
 (Organisationseinheit) wird für jede Besoldungsgruppe ein Budget
@@ -78,6 +82,7 @@ zugewiesenen Budgets je Besoldungsgruppe.
 
 
 ## § 4 Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000501308)
 
 (1) Zur Ermittlung der auf die einzelnen Beamtinnen und Beamten
 entfallenden Zahlbeträge wird zunächst, für jede Besoldungsgruppe
@@ -148,6 +153,7 @@ zwölften Lebensmonats des Kindes.
 
 
 ## § 5 Durchführung der Leistungsbeurteilung für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000601308)
 
 (1) Die Leistungsbeurteilung ist unter Verwendung eines Formblatts
 nach festgelegten Beurteilungskriterien durch Punktevergabe
@@ -168,6 +174,7 @@ einzelnen Besoldungsgruppen in anonymisierter Form.
 
 
 ## § 6 Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000701308)
 
 (1) Für Beamtinnen und Beamte wird die Höhe des Leistungsentgelts auf
 der Grundlage eines Richtbetrages ermittelt, der 60 Prozent des
@@ -215,6 +222,7 @@ Endgrundgehaltes das monatliche Grundgehalt.
 
 
 ## § 7 Gesamtbeurteilung der Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000800000)
 
 (1) Die Gesamtbeurteilung ergibt sich zu gleichen Teilen aus der
 Leistungsbeurteilung (§ 8) und der Zielbewertung (§ 9), soweit diese
@@ -228,6 +236,7 @@ Gesamtbeurteilungsstufen in anonymisierter Form.
 
 
 ## § 8 Leistungsbeurteilung der Beamtinnen und Beamten des gehobenen und höheren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE000901308)
 
 (1) Die Leistungsbeurteilung erfolgt im Januar des auf den
 Beurteilungszeitraum folgenden Jahres unter Verwendung von
@@ -242,6 +251,7 @@ Beauftragte oder einen Beauftragten geschehen.
 
 
 ## § 9 Zielbewertung der Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE001000000)
 
 (1) Die Zielbewertung ermittelt sich aus dem Verhältnis der
 Zielvereinbarung (§ 10) zur Zielerreichung und erfolgt nach
@@ -254,6 +264,7 @@ Leistungsbeurteilung.
 
 
 ## § 10 Zielvereinbarung für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE001100000)
 
 (1) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem
 Beamten wahrnimmt, schließt mit ihr oder ihm im ersten Quartal des
@@ -293,6 +304,7 @@ Leistungsbeurteilung.
 
 
 ## § 11 Schlichtungsverfahren für die Leistungs- und Gesamtbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE001200000)
 
 (1) Die Beamtin oder der Beamte kann gegen die Leistungsbeurteilung
 nach § 5 innerhalb einer Ausschlussfrist von einer Woche und die
@@ -327,6 +339,7 @@ Befugnissen einer oder eines Dienstvorgesetzten zur Entscheidung.
 
 
 ## § 12 Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE001301308)
 
 Eine Leistungs- oder Gesamtbeurteilung findet nicht statt, wenn die
 Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen
@@ -340,12 +353,14 @@ erreicht.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE001408119)
 
 Für die Jahre 2012 bis 2041 wird kein Leistungsentgelt nach § 1
 gezahlt.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/postlentgv/BJNR347500005.html#BJNR347500005BJNE001501305)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.
 

@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/schatzanwbek/BJNR004620963.html#BJNR004620963BJNE000101301)
 
 Auf Grund des § 2 des Gesetzes über die Errichtung einer
 Schuldenverwaltung des Vereinigten Wirtschaftsgebietes vom 13. Juli
@@ -43,6 +44,7 @@ werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/schatzanwbek/BJNR004620963.html#BJNR004620963BJNE000200301)
 
 Der Bundesminister der Finanzen
 

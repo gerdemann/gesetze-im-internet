@@ -27,9 +27,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Gegenstand des Gesetzes; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000200000)
 
 Dieses Gesetz regelt die Wahrnehmung von Urheberrechten und verwandten
 Schutzrechten durch Verwertungsgesellschaften, abhängige und
@@ -37,6 +39,7 @@ unabhängige Verwertungseinrichtungen.
 
 
 ### § 2 Verwertungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000300000)
 
 (1) Eine Verwertungsgesellschaft ist eine Organisation, die gesetzlich
 oder auf Grundlage einer vertraglichen Vereinbarung berechtigt ist und
@@ -59,6 +62,7 @@ darüber hinaus mindestens eine der folgenden Bedingungen erfüllen:
 
 
 ### § 3 Abhängige Verwertungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000400000)
 
 (1) Eine abhängige Verwertungseinrichtung ist eine Organisation, deren
 Anteile zumindest indirekt oder teilweise von mindestens einer
@@ -76,6 +80,7 @@ Für die Aufsicht ist § 90 maßgeblich.
 
 
 ### § 4 Unabhängige Verwertungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000500000)
 
 (1) Eine unabhängige Verwertungseinrichtung ist eine Organisation, die
 über die Voraussetzungen einer Verwertungsgesellschaft gemäß § 2
@@ -98,6 +103,7 @@ Aufsicht ist § 91 maßgeblich.
 
 
 ### § 5 Rechtsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000600000)
 
 (1) Rechtsinhaber im Sinne dieses Gesetzes ist jede natürliche oder
 juristische Person, die Inhaber eines Urheberrechts oder verwandten
@@ -110,6 +116,7 @@ Gesetzes.
 
 
 ### § 6 Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000700000)
 
 Berechtigter im Sinne dieses Gesetzes ist jeder Rechtsinhaber, der auf
 gesetzlicher oder vertraglicher Grundlage in einem unmittelbaren
@@ -118,6 +125,7 @@ steht.
 
 
 ### § 7 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000800000)
 
 Mitglieder im Sinne dieses Gesetzes sind von der
 Verwertungsgesellschaft als Mitglied aufgenommene
@@ -132,6 +140,7 @@ Verwertungsgesellschaft als Mitglied aufgenommene
 
 
 ### § 7a Außenstehender
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014400360)
 
 Außenstehender im Sinne dieses Gesetzes ist ein Rechtsinhaber, der im
 Hinblick auf die betreffende Nutzung nicht in einem vertraglichen
@@ -139,6 +148,7 @@ Wahrnehmungsverhältnis zu einer Verwertungsgesellschaft steht.
 
 
 ### § 8 Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE000900000)
 
 Nutzer im Sinne dieses Gesetzes ist jede natürliche oder juristische
 Person, die eine Handlung vornimmt, die der Erlaubnis des
@@ -147,15 +157,19 @@ Rechtsinhaber verpflichtet ist.
 
 
 ## Teil 2 - Rechte und Pflichten der Verwertungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000200000)
 
 
 ### Abschnitt 1 - Innenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000300000)
 
 
 #### Unterabschnitt 1 - Rechtsinhaber, Berechtigte und Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000400000)
 
 
 ##### § 9 Wahrnehmungszwang
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001000000)
 
 Die Verwertungsgesellschaft ist verpflichtet, auf Verlangen des
 Rechtsinhabers Rechte seiner Wahl an Arten von Werken und sonstigen
@@ -176,6 +190,7 @@ sein.
 
 
 ##### § 10 Zustimmung zur Rechtswahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001101125)
 
 Nimmt eine Verwertungsgesellschaft auf Grundlage einer vertraglichen
 Vereinbarung mit dem Rechtsinhaber Urheberrechte oder verwandte
@@ -184,6 +199,7 @@ jedes einzelne Recht ein und dokumentiert diese.
 
 
 ##### § 11 Nutzungen für nicht kommerzielle Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001200000)
 
 Die Verwertungsgesellschaft legt Bedingungen fest, zu denen der
 Berechtigte jedermann das Recht einräumen kann, seine Werke oder
@@ -194,6 +210,7 @@ hat.
 
 
 ##### § 12 Beendigung der Rechtswahrnehmung; Entzug von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001300000)
 
 (1) Die Verwertungsgesellschaft regelt in den Wahrnehmungsbedingungen,
 dass der Berechtigte unter Einhaltung einer angemessenen Frist von
@@ -224,6 +241,7 @@ Rechten zustehen
 
 
 ##### § 13 Bedingungen für die Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001400000)
 
 (1) Die Verwertungsgesellschaft regelt in der Satzung, im
 Gesellschaftsvertrag oder in sonstigen Gründungsbestimmungen (Statut),
@@ -238,18 +256,21 @@ erläutern.
 
 
 ##### § 14 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001500000)
 
 Die Verwertungsgesellschaft eröffnet allen Mitgliedern und
 Berechtigten einen Zugang für die elektronische Kommunikation.
 
 
 ##### § 15 Mitglieder- und Berechtigtenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001600000)
 
 Die Verwertungsgesellschaft führt ein aktuelles Mitglieder- und
 Berechtigtenverzeichnis.
 
 
 ##### § 16 Grundsatz der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001700000)
 
 Die Verwertungsgesellschaft sieht in dem Statut angemessene und
 wirksame Verfahren der Mitwirkung von Mitgliedern und von Berechtigten
@@ -260,6 +281,7 @@ ausübende Künstler, müssen dabei fair und ausgewogen vertreten sein.
 
 
 ##### § 17 Allgemeine Befugnisse der Mitgliederhauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001800000)
 
 (1) Die Mitgliederhauptversammlung ist das Organ, in dem die
 Mitglieder mitwirken und ihr Stimmrecht ausüben. Die
@@ -337,6 +359,7 @@ Aufsichtsgremium nach § 22 übertragen werden.
 
 
 ##### § 18 Befugnisse der Mitgliederhauptversammlung in Bezug auf die Organe
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE001900000)
 
 (1) Die Verwertungsgesellschaft regelt in dem Statut, dass die
 Mitgliederhauptversammlung beschließt über die Ernennung und
@@ -365,6 +388,7 @@ oder dem Aufsichtsgremium nach § 22 übertragen werden.
 
 
 ##### § 19 Durchführung der Mitgliederhauptversammlung; Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002001360)
 
 (1) Die Mitgliederhauptversammlung ist mindestens einmal jährlich
 einzuberufen.
@@ -397,6 +421,7 @@ Anweisungen des Mitglieds abzustimmen, das ihn bestellt hat.
 
 
 ##### § 20 Mitwirkung der Berechtigten, die nicht Mitglied sind
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002100000)
 
 (1) Die Berechtigten, die nicht Mitglied sind, wählen mindestens alle
 vier Jahre aus ihrer Mitte Delegierte.
@@ -433,9 +458,11 @@ Mitgliederhauptversammlung gilt § 19 Absatz 3 entsprechend.
 
 
 #### Unterabschnitt 2 - Geschäftsführung und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000500000)
 
 
 ##### § 21 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002200000)
 
 (1) Die Verwertungsgesellschaft trifft Vorkehrungen dafür, dass die
 Personen, die kraft Gesetzes oder nach dem Statut zur Vertretung der
@@ -482,6 +509,7 @@ angemessene Stufen festlegen.
 
 
 ##### § 22 Aufsichtsgremium
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002300000)
 
 (1) Die Verwertungsgesellschaft verfügt über ein Gremium, das mit der
 kontinuierlichen Überwachung derjenigen Personen betraut ist, die
@@ -523,9 +551,11 @@ jährlich gegenüber der Mitgliederhauptversammlung eine Erklärung nach
 
 
 #### Unterabschnitt 3 - Einnahmen aus den Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000600000)
 
 
 ##### § 23 Einziehung, Verwaltung und Verteilung der Einnahmen aus den Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002400000)
 
 Die Verwertungsgesellschaft hat die Einnahmen aus den Rechten,
 einschließlich der Einnahmen aus den Rechten, die sie auf Grundlage
@@ -537,6 +567,7 @@ zählen auch die Erträge aus der Anlage dieser Einnahmen.
 
 
 ##### § 24 Getrennte Konten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002500000)
 
 Die Verwertungsgesellschaft weist in der Buchführung getrennt aus:
 
@@ -552,6 +583,7 @@ Die Verwertungsgesellschaft weist in der Buchführung getrennt aus:
 
 
 ##### § 25 Anlage der Einnahmen aus den Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002601125)
 
 (1) Legt die Verwertungsgesellschaft Einnahmen aus den Rechten an, so
 erfolgt dies im ausschließlichen und besten Interesse der
@@ -588,6 +620,7 @@ Wirtschaftsprüfungsgesellschaft unverzüglich prüfen und bestätigen.
 
 
 ##### § 26 Verwendung der Einnahmen aus den Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002700000)
 
 Die Verwertungsgesellschaft darf die Einnahmen aus den Rechten nur zu
 folgenden Zwecken verwenden:
@@ -615,6 +648,7 @@ folgenden Zwecken verwenden:
 
 
 ##### § 27 Verteilungsplan
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002802360)
 
 (1) Die Verwertungsgesellschaft stellt feste Regeln auf, die ein
 willkürliches Vorgehen bei der Verteilung der Einnahmen aus den
@@ -627,6 +661,7 @@ wer die Rechte eingebracht hat, nach festen Anteilen verteilt werden.
 
 
 ##### § 27a Einnahmen aus gesetzlichen Vergütungsansprüchen des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014201360)
 
 (1) Nach der Veröffentlichung eines verlegten Werks oder mit der
 Anmeldung des Werks bei der Verwertungsgesellschaft kann der Urheber
@@ -642,6 +677,7 @@ nach § 27 Absatz 2 des Urheberrechtsgesetzes entsprechend anzuwenden.
 
 
 ##### § 27b Mindestbeteiligung des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014500360)
 
 Ist der Verleger nach § 63a Absatz 2 und 3 des Urheberrechtsgesetzes
 oder nach § 27a an der angemessenen Vergütung zu beteiligen, so stehen
@@ -650,6 +686,7 @@ Verwertungsgesellschaft keine andere Verteilung festlegt.
 
 
 ##### § 28 Verteilungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE002900000)
 
 (1) Die Verwertungsgesellschaft bestimmt im Verteilungsplan oder in
 den Wahrnehmungsbedingungen Fristen, binnen derer die Einnahmen aus
@@ -670,6 +707,7 @@ der Buchführung getrennt aus.
 
 
 ##### § 29 Feststellung der Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003000000)
 
 (1) Können Einnahmen aus den Rechten nicht innerhalb der
 Verteilungsfrist (§ 28) verteilt werden, weil ein Berechtigter nicht
@@ -708,6 +746,7 @@ werden konnte.
 
 
 ##### § 30 Nicht verteilbare Einnahmen aus den Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003100000)
 
 (1) Einnahmen aus den Rechten gelten als nicht verteilbar, wenn der
 Berechtigte nicht innerhalb von drei Jahren nach Ablauf des
@@ -724,6 +763,7 @@ bleiben unberührt.
 
 
 ##### § 31 Abzüge von den Einnahmen aus den Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003200000)
 
 (1) Abzüge von den Einnahmen aus den Rechten müssen im Verhältnis zu
 den Leistungen der Verwertungsgesellschaft an die Berechtigten
@@ -737,6 +777,7 @@ Verwaltungskosten nicht übersteigen.
 
 
 ##### § 32 Kulturelle Förderung; Vorsorge- und Unterstützungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003300000)
 
 (1) Die Verwertungsgesellschaft soll kulturell bedeutende Werke und
 Leistungen fördern.
@@ -753,9 +794,11 @@ Kriterien beruhen, zu erbringen.
 
 
 #### Unterabschnitt 4 - Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000700000)
 
 
 ##### § 33 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003400000)
 
 (1) Die Verwertungsgesellschaft regelt wirksame und zügige
 Beschwerdeverfahren.
@@ -786,12 +829,15 @@ abhilft, hat sie dies zu begründen.
 
 
 ### Abschnitt 2 - Außenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000800000)
 
 
 #### Unterabschnitt 1 - Verträge und Tarife
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG000900000)
 
 
 ##### § 34 Abschlusszwang
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003500000)
 
 (1) Die Verwertungsgesellschaft ist verpflichtet, aufgrund der von ihr
 wahrgenommenen Rechte jedermann auf Verlangen zu angemessenen
@@ -810,6 +856,7 @@ den Europäischen Wirtschaftsraum zur Verfügung steht.
 
 
 ##### § 35 Gesamtverträge
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003600000)
 
 Die Verwertungsgesellschaft ist verpflichtet, über die von ihr
 wahrgenommenen Rechte mit Nutzervereinigungen einen Gesamtvertrag zu
@@ -820,6 +867,7 @@ Mitgliederzahl hat.
 
 
 ##### § 36 Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003700000)
 
 (1) Verwertungsgesellschaft und Nutzer oder Nutzervereinigung
 verhandeln nach Treu und Glauben über die von der
@@ -837,6 +885,7 @@ unterbreitet.
 
 
 ##### § 37 Hinterlegung; Zahlung unter Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003800000)
 
 Kommt eine Einigung über die Höhe der Vergütung für die Einräumung von
 Nutzungsrechten nicht zustande, so gelten die Nutzungsrechte als
@@ -855,6 +904,7 @@ eingeräumt, wenn die Vergütung
 
 
 ##### § 38 Tarifaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE003900000)
 
 Die Verwertungsgesellschaft stellt Tarife auf über die Vergütung, die
 sie aufgrund der von ihr wahrgenommenen Rechte fordert. Soweit
@@ -863,6 +913,7 @@ Vergütungssätze als Tarife.
 
 
 ##### § 39 Tarifgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004000000)
 
 (1) Berechnungsgrundlage für die Tarife sollen in der Regel die
 geldwerten Vorteile sein, die durch die Verwertung erzielt werden. Die
@@ -886,6 +937,7 @@ die Kriterien, die der Tarifaufstellung zugrunde liegen.
 
 
 ##### § 40 Gestaltung der Tarife für Geräte und Speichermedien
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004100000)
 
 (1) Die Höhe der Vergütung für Geräte und Speichermedien bestimmt sich
 nach § 54a des Urheberrechtsgesetzes. Die Verwertungsgesellschaften
@@ -898,9 +950,11 @@ zu den zu erwartenden Einnahmen stehen würde.
 
 
 #### Unterabschnitt 2 - Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001000000)
 
 
 ##### § 41 Auskunftspflicht der Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004201360)
 
 (1) Die Verwertungsgesellschaft kann von dem Nutzer Auskunft über die
 Nutzung derjenigen Werke und sonstiger Schutzgegenstände verlangen, an
@@ -921,6 +975,7 @@ berücksichtigen.
 
 
 ##### § 42 Meldepflicht der Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004300000)
 
 (1) Veranstalter von öffentlichen Wiedergaben urheberrechtlich
 geschützter Werke haben vor der Veranstaltung die Einwilligung der
@@ -952,6 +1007,7 @@ Auskünfte gegen Erstattung der Unkosten.
 
 
 ##### § 43 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004400000)
 
 Die Verwertungsgesellschaft eröffnet allen Nutzern einen Zugang für
 die elektronische Kommunikation, einschließlich zur Meldung über die
@@ -959,9 +1015,11 @@ Nutzung der Rechte.
 
 
 ### Abschnitt 3 - Besondere Vorschriften für die Wahrnehmung von Rechten auf Grundlage von Repräsentationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001100000)
 
 
 #### § 44 Repräsentationsvereinbarung; Diskriminierungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004500000)
 
 Beauftragt eine Verwertungsgesellschaft eine andere
 Verwertungsgesellschaft, die von ihr wahrgenommenen Rechte
@@ -972,6 +1030,7 @@ diskriminieren.
 
 
 #### § 45 Abzüge
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004600000)
 
 Die beauftragte Verwertungsgesellschaft darf von den Einnahmen aus den
 Rechten, die sie auf Grundlage einer Repräsentationsvereinbarung
@@ -981,6 +1040,7 @@ ausdrücklich zugestimmt hat.
 
 
 #### § 46 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004700000)
 
 (1) Für die Verteilung der Einnahmen aus den Rechten, die die
 beauftragte Verwertungsgesellschaft auf Grundlage einer
@@ -1004,6 +1064,7 @@ an die von ihr vertretenen Berechtigten verteilt werden.
 
 
 #### § 47 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004800000)
 
 Die beauftragte Verwertungsgesellschaft informiert spätestens zwölf
 Monate nach Ablauf eines jeden Geschäftsjahres die
@@ -1051,9 +1112,11 @@ elektronisch mindestens über:
 
 
 ### Abschnitt 4 - Vermutungen; Außenstehende bei Weitersendung und Direkteinspeisung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001201360)
 
 
 #### § 48 Vermutung bei Auskunftsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE004900000)
 
 Macht die Verwertungsgesellschaft einen Auskunftsanspruch geltend, der
 nur durch eine Verwertungsgesellschaft geltend gemacht werden kann, so
@@ -1061,6 +1124,7 @@ wird vermutet, dass sie die Rechte aller Rechtsinhaber wahrnimmt.
 
 
 #### § 49 Vermutung bei gesetzlichen Vergütungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005000000)
 
 (1) Macht die Verwertungsgesellschaft einen Vergütungsanspruch nach §
 27, § 54 Absatz 1, § 54c Absatz 1, § 77 Absatz 2, § 85 Absatz 4, § 94
@@ -1079,6 +1143,7 @@ freizustellen.
 
 
 #### § 50 Außenstehende bei Weitersendung und Direkteinspeisung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005101360)
 
 (1) Hat ein Rechtsinhaber die Wahrnehmung seines Rechts der
 Weitersendung im Sinne des § 20b Absatz 1 Satz 1 des
@@ -1106,9 +1171,11 @@ entgegenhalten.
 
 
 ### Abschnitt 5 - Kollektive Lizenzen mit erweiterter Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001301360)
 
 
 #### § 51 Kollektive Lizenzen mit erweiterter Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005201360)
 
 (1) Schließt eine Verwertungsgesellschaft einen Vertrag über die
 Nutzung ihres Repertoires, so kann sie nach Maßgabe dieses Abschnitts
@@ -1124,6 +1191,7 @@ Pflichten wie bei einer Wahrnehmung auf vertraglicher Grundlage.
 
 
 #### § 51a Wirksamkeit der Rechtseinräumung und dauerhafte Information
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014600360)
 
 (1) Die Einräumung von Rechten am Werk eines Außenstehenden ist unter
 folgenden Voraussetzungen wirksam:
@@ -1173,6 +1241,7 @@ folgenden Voraussetzungen wirksam:
 
 
 #### § 51b Repräsentativität der Verwertungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014700360)
 
 (1) Eine Verwertungsgesellschaft ist repräsentativ, wenn sie für eine
 ausreichend große Zahl von Rechtsinhabern Rechte, die Gegenstand der
@@ -1184,6 +1253,7 @@ vermutet, dass sie repräsentativ ist.
 
 
 #### § 52 Kollektive Lizenzen mit erweiterter Wirkung für nicht verfügbare Werke
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005301360)
 
 (1) Schließt eine Verwertungsgesellschaft einen Vertrag über Nutzungen
 von Werken ihres Repertoires, die nicht verfügbar sind (§ 52b), mit
@@ -1201,6 +1271,7 @@ Pflichten wie bei einer Wahrnehmung auf vertraglicher Grundlage.
 
 
 #### § 52a Wirksamkeit der Rechtseinräumung und dauerhafte Information bei nicht verfügbaren Werken
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014301360)
 
 (1) Die Einräumung von Rechten am Werk eines Außenstehenden nach § 52
 ist unter folgenden Voraussetzungen wirksam:
@@ -1250,6 +1321,7 @@ Europäischen Union für geistiges Eigentum.
 
 
 #### § 52b Nicht verfügbare Werke
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014800360)
 
 (1) Nicht verfügbar ist ein Werk, das der Allgemeinheit auf keinem
 üblichen Vertriebsweg in einer vollständigen Fassung angeboten wird.
@@ -1269,6 +1341,7 @@ veröffentlicht wurden.
 
 
 #### § 52c Repräsentativität der Verwertungsgesellschaft bei Werkreihen aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014900360)
 
 Soll die beabsichtigte Nutzung Werkreihen umfassen, die überwiegend
 Werke aus Staaten enthalten, die weder Mitgliedstaaten der
@@ -1280,6 +1353,7 @@ jeweiligen Drittstaates ist.
 
 
 #### § 52d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE015000360)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -1317,6 +1391,7 @@ Folgendes näher zu regeln:
 
 
 #### § 52e Anwendung auf verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE015100360)
 
 Die Bestimmungen dieses Abschnitts sind auch auf verwandte
 Schutzrechte im Sinne des Urheberrechtsgesetzes und ihre Inhaber
@@ -1324,12 +1399,15 @@ anzuwenden.
 
 
 ### Abschnitt 6 - Informationspflichten; Rechnungslegung und Transparenzbericht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001400000)
 
 
 #### Unterabschnitt 1 - Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001500000)
 
 
 ##### § 53 Information der Rechtsinhaber vor Zustimmung zur Wahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005400000)
 
 (1) Bevor die Verwertungsgesellschaft die Zustimmung des
 Rechtsinhabers zur Wahrnehmung seiner Rechte einholt, informiert sie
@@ -1350,6 +1428,7 @@ in dem Statut oder in den Wahrnehmungsbedingungen auf.
 
 
 ##### § 54 Informationen für Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005500000)
 
 Die Verwertungsgesellschaft informiert spätestens zwölf Monate nach
 Ablauf eines jeden Geschäftsjahres alle Berechtigten, an die sie in
@@ -1397,6 +1476,7 @@ mindestens über:
 
 
 ##### § 55 Informationen zu Werken und sonstigen Schutzgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005600000)
 
 (1) Die Verwertungsgesellschaft informiert die Rechtsinhaber, die
 Verwertungsgesellschaften, für die sie auf der Grundlage einer
@@ -1430,6 +1510,7 @@ soweit dies angemessen ist.
 
 
 ##### § 56 Informationen für die Allgemeinheit
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005700000)
 
 (1) Die Verwertungsgesellschaft veröffentlicht mindestens die
 folgenden Informationen auf ihrer Internetseite:
@@ -1496,9 +1577,11 @@ aktuellen Stand.
 
 
 #### Unterabschnitt 2 - Rechnungslegung und Transparenzbericht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001600000)
 
 
 ##### § 57 Jahresabschluss und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005800000)
 
 (1) Die Verwertungsgesellschaft hat, auch wenn sie nicht in der
 Rechtsform einer Kapitalgesellschaft betrieben wird, einen aus Bilanz,
@@ -1523,6 +1606,7 @@ und Prüfung bleiben unberührt.
 
 
 ##### § 58 Jährlicher Transparenzbericht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE005900000)
 
 (1) Die Verwertungsgesellschaft erstellt spätestens acht Monate nach
 dem Schluss des Geschäftsjahres einen Transparenzbericht (jährlicher
@@ -1550,9 +1634,11 @@ Der jährliche Transparenzbericht muss dort mindestens fünf Jahre lang
 
 
 ## Teil 3 - Besondere Vorschriften für die gebietsübergreifende Vergabe von Online-Rechten an Musikwerken
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001700000)
 
 
 ### § 59 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006000000)
 
 (1) Die besonderen Vorschriften dieses Teils gelten für die
 gebietsübergreifende Vergabe von Online-Rechten an Musikwerken durch
@@ -1573,6 +1659,7 @@ Wirtschaftsraum umfasst.
 
 
 ### § 60 Nicht anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006100000)
 
 (1) Im Verhältnis zum Rechtsinhaber ist § 9 Satz 2 nicht anzuwenden.
 
@@ -1583,6 +1670,7 @@ fordert, gilt § 39 entsprechend.
 
 
 ### § 61 Besondere Anforderungen an Verwertungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006200000)
 
 (1) Die Verwertungsgesellschaft muss über ausreichende Kapazitäten
 verfügen, um die Daten, die für die Verwaltung von gebietsübergreifend
@@ -1617,6 +1705,7 @@ und transparent elektronisch verarbeiten zu können.
 
 
 ### § 62 Informationen zu Musikwerken und Online-Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006300000)
 
 (1) Die Verwertungsgesellschaft informiert auf hinreichend begründete
 Anfrage Anbieter von Online-Diensten, Berechtigte, Rechtsinhaber,
@@ -1642,6 +1731,7 @@ wirtschaftlich sensible Informationen zu schützen.
 
 
 ### § 63 Berichtigung der Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006400000)
 
 (1) Die Verwertungsgesellschaft verfügt über Regelungen, wonach
 Anbieter von Online-Diensten, Rechtsinhaber und andere
@@ -1654,6 +1744,7 @@ die Daten oder die Informationen unverzüglich.
 
 
 ### § 64 Elektronische Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006500000)
 
 (1) Die Verwertungsgesellschaft ermöglicht jedem Berechtigten,
 elektronisch Informationen zu seinen Musikwerken und zu Online-Rechten
@@ -1670,6 +1761,7 @@ die Verwertungsgesellschaften keine abweichende Vereinbarung treffen.
 
 
 ### § 65 Überwachung von Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006600000)
 
 Die Verwertungsgesellschaft überwacht die Nutzung von Musikwerken
 durch den Anbieter eines Online-Dienstes, soweit sie an diesen Online-
@@ -1677,6 +1769,7 @@ Rechte für die Musikwerke gebietsübergreifend vergeben hat.
 
 
 ### § 66 Elektronische Nutzungsmeldung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006700000)
 
 (1) Die Verwertungsgesellschaft ermöglicht dem Anbieter eines Online-
 Dienstes, elektronisch die Nutzung von Musikwerken zu melden. Sie
@@ -1689,6 +1782,7 @@ nicht einer nach Absatz 1 Satz 2 angebotenen Meldemethode entspricht.
 
 
 ### § 67 Abrechnung gegenüber Anbietern von Online-Diensten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006800000)
 
 (1) Die Verwertungsgesellschaft rechnet gegenüber dem Anbieter eines
 Online-Dienstes nach dessen Meldung der tatsächlichen Nutzung der
@@ -1714,6 +1808,7 @@ kann.
 
 
 ### § 68 Verteilung der Einnahmen aus den Rechten; Informationen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE006900000)
 
 (1) Die Verwertungsgesellschaft verteilt die Einnahmen aus der
 gebietsübergreifenden Vergabe von Online-Rechten an Musikwerken nach
@@ -1750,6 +1845,7 @@ keine abweichende Vereinbarung treffen.
 
 
 ### § 69 Repräsentationszwang
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007000000)
 
 (1) Eine Verwertungsgesellschaft, die bereits gebietsübergreifend
 Online-Rechte an Musikwerken für mindestens eine andere
@@ -1773,6 +1869,7 @@ unzulässig.
 
 
 ### § 70 Informationen der beauftragenden Verwertungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007100000)
 
 (1) Die beauftragende Verwertungsgesellschaft stellt der beauftragten
 Verwertungsgesellschaft diejenigen Informationen über ihre Musikwerke
@@ -1798,6 +1895,7 @@ Verwertungsgesellschaft berechtigt,
 
 
 ### § 71 Informationen der Mitglieder und Berechtigten bei Repräsentation
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007200000)
 
 Die beauftragende Verwertungsgesellschaft informiert ihre Mitglieder
 und ihre Berechtigten über die zentralen Bedingungen der von ihr
@@ -1805,6 +1903,7 @@ abgeschlossenen Repräsentationsvereinbarungen.
 
 
 ### § 72 Zugang zur gebietsübergreifenden Vergabe von Online-Rechten an Musikwerken
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007300000)
 
 Eine Verwertungsgesellschaft, die bis zum 10. April 2017 Online-Rechte
 an Musikwerken gebietsübergreifend weder vergibt noch anbietet und
@@ -1817,6 +1916,7 @@ einzelnen Gebieten wahrzunehmen.
 
 
 ### § 73 Wahrnehmung bei Repräsentation
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007400000)
 
 (1) Die beauftragte Verwertungsgesellschaft nimmt die Online-Rechte an
 den Musikwerken der beauftragenden Verwertungsgesellschaft zu
@@ -1832,6 +1932,7 @@ sind.
 
 
 ### § 74 Ausnahme für Hörfunk- und Fernsehprogramme
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007500000)
 
 Dieser Teil findet keine Anwendung, soweit die Verwertungsgesellschaft
 auf der Grundlage einer freiwilligen Bündelung der notwendigen Online-
@@ -1846,9 +1947,11 @@ wiederzugeben oder zugänglich zu machen.
 
 
 ## Teil 4 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001800000)
 
 
 ### § 75 Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007600000)
 
 (1) Aufsichtsbehörde ist das Deutsche Patent- und Markenamt.
 
@@ -1857,6 +1960,7 @@ wiederzugeben oder zugänglich zu machen.
 
 
 ### § 76 Inhalt der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007700000)
 
 (1) Die Aufsichtsbehörde achtet darauf, dass die
 Verwertungsgesellschaft den ihr nach diesem Gesetz obliegenden
@@ -1882,6 +1986,7 @@ bleibt unberührt.
 
 
 ### § 77 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007801360)
 
 (1) Eine Verwertungsgesellschaft bedarf der Erlaubnis, wenn sie
 Urheberrechte oder verwandte Schutzrechte wahrnimmt, die sich aus dem
@@ -1905,6 +2010,7 @@ Absatz 1 einer Erlaubnis nur für die Wahrnehmung
 
 
 ### § 78 Antrag auf Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE007900000)
 
 Die Erlaubnis wird auf schriftlichen Antrag der
 Verwertungsgesellschaft von der Aufsichtsbehörde erteilt. Dem Antrag
@@ -1932,6 +2038,7 @@ sind beizufügen:
 
 
 ### § 79 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008000000)
 
 (1) Die Erlaubnis nach § 77 Absatz 1 darf nur versagt werden, wenn
 
@@ -1957,6 +2064,7 @@ anzuwenden.
 
 
 ### § 80 Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008100000)
 
 (1) Die Aufsichtsbehörde kann die Erlaubnis nach § 77 Absatz 1
 widerrufen, wenn
@@ -1979,6 +2087,7 @@ nach Absatz 1 Nummer 2 widerrufen.
 
 
 ### § 81 Zusammenarbeit bei Erlaubnis und Widerruf der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008200000)
 
 Über Anträge auf Erteilung der Erlaubnis und über den Widerruf der
 Erlaubnis entscheidet die Aufsichtsbehörde im Einvernehmen mit dem
@@ -1990,6 +2099,7 @@ das Einvernehmen.
 
 
 ### § 82 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008300000)
 
 Bedarf die Verwertungsgesellschaft keiner Erlaubnis nach § 77, so
 zeigt sie der Aufsichtsbehörde die Aufnahme einer
@@ -2010,6 +2120,7 @@ Wahrnehmungstätigkeit unverzüglich schriftlich an, wenn sie
 
 
 ### § 83 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008400000)
 
 Die Erteilung der Erlaubnis und ein unanfechtbar gewordener Widerruf
 der Erlaubnis sowie Anzeigen nach § 82 sind im Bundesanzeiger
@@ -2017,6 +2128,7 @@ bekanntzumachen.
 
 
 ### § 84 Wahrnehmungstätigkeit ohne Erlaubnis oder Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008500000)
 
 Wird eine Verwertungsgesellschaft ohne die erforderliche Erlaubnis
 oder Anzeige tätig, so kann sie die von ihr wahrgenommenen
@@ -2027,6 +2139,7 @@ zu.
 
 
 ### § 85 Befugnisse der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008600000)
 
 (1) Die Aufsichtsbehörde kann alle erforderlichen Maßnahmen ergreifen,
 um sicherzustellen, dass die Verwertungsgesellschaft die ihr nach
@@ -2072,6 +2185,7 @@ Unterlagen verlangen.
 
 
 ### § 86 Befugnisse der Aufsichtsbehörde bei Verwertungsgesellschaften mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008700000)
 
 (1) Verstößt eine Verwertungsgesellschaft, die ihren Sitz in einem
 anderen Mitgliedstaat der Europäischen Union oder anderen
@@ -2090,6 +2204,7 @@ Sachverständigengruppe wenden.
 
 
 ### § 87 Informationsaustausch mit Aufsichtsbehörden anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008800000)
 
 (1) Die Aufsichtsbehörde beantwortet ein begründetes Auskunftsersuchen
 der Aufsichtsbehörde eines anderen Mitgliedstaates der Europäischen
@@ -2108,6 +2223,7 @@ begründeten Antwort.
 
 
 ### § 88 Unterrichtungspflicht der Verwertungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE008900000)
 
 (1) Die Verwertungsgesellschaft, die Urheberrechte oder verwandte
 Schutzrechte wahrnimmt, die sich aus dem Urheberrechtsgesetz ergeben,
@@ -2160,6 +2276,7 @@ Wirtschaftsraum.
 
 
 ### § 89 Anzuwendendes Verfahrensrecht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009000000)
 
 (1) Für die Verwaltungstätigkeit der Aufsichtsbehörde gilt, soweit in
 diesem Gesetz nichts anderes bestimmt ist, das
@@ -2186,6 +2303,7 @@ und Entscheidungen.
 
 
 ### § 90 Aufsicht über abhängige Verwertungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009100000)
 
 (1) Eine abhängige Verwertungseinrichtung (§ 3) bedarf der Erlaubnis
 nur, wenn sie die in § 77 Absatz 2 genannten Rechte wahrnimmt. Das
@@ -2212,6 +2330,7 @@ Vorschriften dieses Teils entsprechend.
 
 
 ### § 91 Aufsicht über unabhängige Verwertungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009200000)
 
 (1) Für unabhängige Verwertungseinrichtungen (§ 4) gelten die §§ 75,
 76, 85 Absatz 1 bis 3 sowie die §§ 86 und 87 entsprechend.
@@ -2224,15 +2343,19 @@ schriftlich an. § 84 gilt entsprechend.
 
 
 ## Teil 5 - Schiedsstelle und gerichtliche Geltendmachung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG001900000)
 
 
 ### Abschnitt 1 - Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002000000)
 
 
 #### Unterabschnitt 1 - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002100000)
 
 
 ##### § 92 Zuständigkeit für Streitfälle nach dem Urheberrechtsgesetz und für Gesamtverträge
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009301360)
 
 (1) Die Schiedsstelle (§ 124) kann von jedem Beteiligten bei einem
 Streitfall angerufen werden, an dem eine Verwertungsgesellschaft
@@ -2260,6 +2383,7 @@ Absatz 5 des Urheberrechtsgesetzes).
 
 
 ##### § 93 Zuständigkeit für empirische Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009400000)
 
 Verwertungsgesellschaften können die Schiedsstelle anrufen, um eine
 selbständige empirische Untersuchung zur Ermittlung der nach § 54a
@@ -2268,6 +2392,7 @@ lassen.
 
 
 ##### § 94 Zuständigkeit für Streitfälle über die gebietsübergreifende Vergabe von Online-Rechten an Musikwerken
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009500000)
 
 Die Schiedsstelle kann von jedem Beteiligten angerufen werden in
 Streitfällen zwischen einer im Inland ansässigen
@@ -2279,6 +2404,7 @@ der Beteiligten nach Teil 3 oder nach § 34 Absatz 1 Satz 2, Absatz 2,
 
 
 ##### § 95 Allgemeine Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009600000)
 
 (1) Soweit dieses Gesetz keine abweichenden Regelungen enthält,
 bestimmt die Schiedsstelle das Verfahren nach billigem Ermessen. Sie
@@ -2290,12 +2416,14 @@ rechtliches Gehör zu gewähren.
 
 
 ##### § 96 Berechnung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009700000)
 
 Auf die Berechnung der Fristen dieses Abschnitts ist § 222 Absatz 1
 und 2 der Zivilprozessordnung entsprechend anzuwenden.
 
 
 ##### § 97 Verfahrenseinleitender Antrag
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009800000)
 
 (1) Die Schiedsstelle wird durch schriftlichen Antrag angerufen. Er
 muss zumindest den Namen und die Anschrift des Antragsgegners sowie
@@ -2307,6 +2435,7 @@ Aufforderung zu, sich innerhalb eines Monats schriftlich zu äußern.
 
 
 ##### § 98 Zurücknahme des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE009900000)
 
 (1) Der Antragsteller kann den Antrag zurücknehmen, ohne Einwilligung
 des Antragsgegners in Verfahren mit mündlicher Verhandlung jedoch nur
@@ -2317,6 +2446,7 @@ Kosten des Verfahrens und die notwendigen Auslagen des Antragsgegners.
 
 
 ##### § 99 Schriftliches Verfahren und mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010000000)
 
 (1) Das Verfahren wird vorbehaltlich des Absatzes 2 schriftlich
 durchgeführt.
@@ -2328,6 +2458,7 @@ gütlichen Beilegung des Streitfalls für zweckmäßig hält.
 
 
 ##### § 100 Verfahren bei mündlicher Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010100000)
 
 (1) Zu der mündlichen Verhandlung sind die Beteiligten zu laden. Die
 Ladungsfrist beträgt mindestens zwei Wochen.
@@ -2347,6 +2478,7 @@ Vorsitzenden und vom Schriftführer zu unterzeichnen ist.
 
 
 ##### § 101 Nichterscheinen in der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010200000)
 
 (1) Erscheint der Antragsteller nicht zur mündlichen Verhandlung, so
 gilt der Antrag als zurückgenommen. War der Antragsteller ohne sein
@@ -2369,6 +2501,7 @@ die Folgen ihres Nichterscheinens hinzuweisen.
 
 
 ##### § 102 Gütliche Streitbeilegung; Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010300000)
 
 (1) Die Schiedsstelle wirkt auf eine gütliche Beilegung des
 Streitfalls hin.
@@ -2386,6 +2519,7 @@ dazu verpflichtet, wenn beide Beteiligte dies beantragen.
 
 
 ##### § 103 Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010400000)
 
 (1) Die Schiedsstelle kann ein Verfahren aussetzen, wenn zu erwarten
 ist, dass ein anderes bei ihr anhängiges Verfahren von Bedeutung für
@@ -2396,6 +2530,7 @@ Einigungsvorschlags nach § 105 Absatz 1 gehemmt.
 
 
 ##### § 104 Aufklärung des Sachverhalts
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010500000)
 
 (1) Die Schiedsstelle kann erforderliche Beweise in geeigneter Form
 erheben. Sie ist an Beweisanträge nicht gebunden.
@@ -2412,6 +2547,7 @@ entsprechend anzuwenden.
 
 
 ##### § 105 Einigungsvorschlag der Schiedsstelle; Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010601360)
 
 (1) Die Schiedsstelle unterbreitet den Beteiligten innerhalb eines
 Jahres nach Zustellung des Antrags einen Einigungsvorschlag. Die Frist
@@ -2449,9 +2585,11 @@ entsprechend.
 
 
 #### Unterabschnitt 2 - Besondere Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002200000)
 
 
 ##### § 106 Einstweilige Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010700000)
 
 Auf Antrag eines Beteiligten kann die Schiedsstelle eine einstweilige
 Regelung vorschlagen. § 105 Absatz 2 und 3 Satz 1 ist anzuwenden. Die
@@ -2460,6 +2598,7 @@ zum Abschluss des Verfahrens vor der Schiedsstelle.
 
 
 ##### § 107 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010800000)
 
 (1) In Verfahren nach § 92 Absatz 1 Nummer 2 über die
 Vergütungspflicht für Geräte und Speichermedien kann die Schiedsstelle
@@ -2488,6 +2627,7 @@ nach Absatz 4 aufheben oder ändern.
 
 
 ##### § 108 Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE010900000)
 
 Erweist sich die Anordnung einer Sicherheitsleistung nach § 107 Absatz
 1 als von Anfang an ungerechtfertigt, so ist die
@@ -2497,6 +2637,7 @@ aus der Vollziehung entsteht.
 
 
 ##### § 109 Beschränkung des Einigungsvorschlags; Absehen vom Einigungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011000000)
 
 (1) Sind bei Streitfällen nach § 92 Absatz 1 Nummer 1 und 2 die
 Anwendbarkeit oder die Angemessenheit eines Tarifs bestritten und ist
@@ -2510,6 +2651,7 @@ kann die Schiedsstelle von einem Einigungsvorschlag absehen.
 
 
 ##### § 110 Streitfälle über Gesamtverträge
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011101123)
 
 (1) Bei Streitfällen nach § 92 Absatz 1 Nummer 3 enthält der
 Einigungsvorschlag den Inhalt des Gesamtvertrags. Die Schiedsstelle
@@ -2522,11 +2664,13 @@ Wettbewerbsbeschränkungen ist entsprechend anzuwenden.
 
 
 ##### § 111 Streitfälle über Rechte der Kabelweitersendung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011200000)
 
 Bei Streitfällen nach § 92 Absatz 2 gilt § 110 entsprechend.
 
 
 ##### § 112 Empirische Untersuchung zu Geräten und Speichermedien
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011300000)
 
 (1) In Verfahren nach § 93 muss der Antrag, mit dem die Schiedsstelle
 angerufen wird, eine Auflistung der Verbände der betroffenen
@@ -2545,6 +2689,7 @@ dem Verfahren beteiligen können.
 
 
 ##### § 113 Durchführung der empirischen Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011400000)
 
 Für die Durchführung der empirischen Untersuchung gemäß § 93 gilt §
 104 mit der Maßgabe, dass die Schiedsstelle die Durchführung der
@@ -2557,6 +2702,7 @@ vorliegt.
 
 
 ##### § 114 Ergebnis der empirischen Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011500000)
 
 (1) Die Schiedsstelle stellt fest, dass das Ergebnis der empirischen
 Untersuchung den Anforderungen entspricht, die im Hinblick auf die
@@ -2569,6 +2715,7 @@ nicht anzuwenden.
 
 
 ##### § 115 Verwertung von Untersuchungsergebnissen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011600000)
 
 In Verfahren nach § 92 Absatz 1 Nummer 2 und 3 kann zur
 Sachverhaltsaufklärung (§ 104) das Ergebnis einer empirischen
@@ -2577,6 +2724,7 @@ stammt.
 
 
 ##### § 116 Beteiligung von Verbraucherverbänden
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011700000)
 
 In Verfahren nach § 92 Absatz 1 Nummer 2 und 3 und § 93 gibt die
 Schiedsstelle den bundesweiten Dachorganisationen der mit öffentlichen
@@ -2586,9 +2734,11 @@ entsprechend anwendbar.
 
 
 #### Unterabschnitt 3 - Kosten sowie Entschädigung und Vergütung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002300000)
 
 
 ##### § 117 Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011800000)
 
 (1) Für das Verfahren vor der Schiedsstelle erhebt die
 Aufsichtsbehörde Gebühren und Auslagen (Kosten).
@@ -2615,6 +2765,7 @@ erhoben.
 
 
 ##### § 118 Fälligkeit und Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE011900000)
 
 (1) Die Gebühr wird mit der Beendigung des Verfahrens, Auslagen werden
 sofort nach ihrer Entstehung fällig.
@@ -2625,6 +2776,7 @@ Drittels der Gebühr abhängig gemacht werden.
 
 
 ##### § 119 Entsprechende Anwendung des Gerichtskostengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012000000)
 
 § 2 Absatz 1, 3 und 5 des Gerichtskostengesetzes, soweit diese
 Vorschriften für Verfahren vor den ordentlichen Gerichten anzuwenden
@@ -2638,6 +2790,7 @@ Kostenschuldner sind entsprechend anzuwenden.
 
 
 ##### § 120 Entscheidung über Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012100000)
 
 Über Einwendungen gegen Verwaltungsakte beim Vollzug der
 Kostenvorschriften entscheidet das Amtsgericht, in dessen Bezirk die
@@ -2650,6 +2803,7 @@ Beschwerde haben keine aufschiebende Wirkung.
 
 
 ##### § 121 Entscheidung über die Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012200000)
 
 (1) Die Schiedsstelle entscheidet über die Verteilung der Kosten des
 Verfahrens nach billigem Ermessen, soweit nichts anderes bestimmt ist.
@@ -2666,6 +2820,7 @@ Sitz hat.
 
 
 ##### § 122 Festsetzung der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012300000)
 
 (1) Die Kosten des Verfahrens (§ 117) und die einem Beteiligten zu
 erstattenden notwendigen Auslagen (§ 121 Absatz 1 Satz 2) werden von
@@ -2686,6 +2841,7 @@ in entsprechender Anwendung der Zivilprozessordnung statt.
 
 
 ##### § 123 Entschädigung von Zeugen und Vergütung der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012400000)
 
 (1) Zeugen erhalten eine Entschädigung und Sachverständige eine
 Vergütung nach Maßgabe der §§ 3, 5 bis 10, 12 und 19 bis 22 des
@@ -2704,9 +2860,11 @@ abhelfen. Kosten werden nicht erstattet.
 
 
 #### Unterabschnitt 4 - Organisation und Beschlussfassung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002400000)
 
 
 ##### § 124 Aufbau und Besetzung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012500000)
 
 (1) Die Schiedsstelle wird bei der Aufsichtsbehörde (§ 75) gebildet.
 Sie besteht aus dem Vorsitzenden oder seinem Vertreter und zwei
@@ -2727,6 +2885,7 @@ geregelt.
 
 
 ##### § 125 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012600000)
 
 (1) Die Mitglieder der Schiedsstelle sind nicht an Weisungen gebunden.
 
@@ -2735,12 +2894,14 @@ die Präsidentin des Deutschen Patent- und Markenamtes.
 
 
 ##### § 126 Beschlussfassung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012700000)
 
 Die Schiedsstelle fasst ihre Beschlüsse mit Stimmenmehrheit. § 196
 Absatz 2 des Gerichtsverfassungsgesetzes ist anzuwenden.
 
 
 ##### § 127 Ausschließung und Ablehnung von Mitgliedern der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012800000)
 
 Über die Ausschließung und Ablehnung von Mitgliedern der Schiedsstelle
 entscheidet das Amtsgericht, in dessen Bezirk die Schiedsstelle ihren
@@ -2750,9 +2911,11 @@ entsprechend.
 
 
 ### Abschnitt 2 - Gerichtliche Geltendmachung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002500000)
 
 
 #### § 128 Gerichtliche Geltendmachung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE012900000)
 
 (1) Bei Streitfällen nach § 92 Absatz 1 und 2 ist die Erhebung der
 Klage erst zulässig, wenn ein Verfahren vor der Schiedsstelle
@@ -2782,6 +2945,7 @@ ist.
 
 
 #### § 129 Zuständigkeit des Oberlandesgerichts
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013000000)
 
 (1) In Streitfällen nach § 92 Absatz 1 Nummer 2 und 3 sowie Absatz 2,
 nach § 94 sowie über Ansprüche nach § 108 entscheidet ausschließlich
@@ -2804,6 +2968,7 @@ hören.
 
 
 #### § 130 Entscheidung über Gesamtverträge
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013100000)
 
 Das Oberlandesgericht setzt den Inhalt der Gesamtverträge,
 insbesondere Art und Höhe der Vergütung, nach billigem Ermessen fest.
@@ -2814,6 +2979,7 @@ gestellt wird.
 
 
 #### § 131 Ausschließlicher Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013200000)
 
 (1) Für Rechtsstreitigkeiten über Ansprüche einer
 Verwertungsgesellschaft wegen Verletzung eines von ihr wahrgenommenen
@@ -2829,9 +2995,11 @@ geltend machen.
 
 
 ## Teil 6 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNG002600000)
 
 
 ### § 132 Übergangsvorschrift für Erlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013300000)
 
 (1) Verwertungsgesellschaften, denen bei Inkrafttreten dieses Gesetzes
 bereits eine Erlaubnis nach dem ersten Abschnitt des
@@ -2858,6 +3026,7 @@ Erlaubnis fortzusetzen, wenn sie
 
 
 ### § 133 Anzeigefrist
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013400000)
 
 Ist eine Organisation gemäß den §§ 82, 90 oder 91 verpflichtet, die
 Aufnahme einer Wahrnehmungstätigkeit anzuzeigen, so zeigt sie dies der
@@ -2865,6 +3034,7 @@ Aufsichtsbehörde spätestens am 1. Dezember 2016 an.
 
 
 ### § 134 Übergangsvorschrift zur Anpassung des Statuts an die Vorgaben dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013500000)
 
 Die Verwertungsgesellschaft passt das Statut, die
 Wahrnehmungsbedingungen und den Verteilungsplan unverzüglich,
@@ -2872,6 +3042,7 @@ spätestens am 31. Dezember 2016, an die Vorgaben dieses Gesetzes an.
 
 
 ### § 135 Informationspflichten der Verwertungsgesellschaft bei Inkrafttreten dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013600000)
 
 (1) Die Verwertungsgesellschaft informiert ihre Berechtigten
 spätestens am 1. Dezember 2016 über die Rechte, die ihnen nach den §§
@@ -2882,12 +3053,14 @@ nach dem 31. Dezember 2015 beginnen.
 
 
 ### § 136 Übergangsvorschrift für Erklärungen der Geschäftsführung und des Aufsichtsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013700000)
 
 Erklärungen nach den §§ 21 und 22 sind erstmals für Geschäftsjahre
 abzugeben, die nach dem 31. Dezember 2015 beginnen.
 
 
 ### § 137 Übergangsvorschrift für Rechnungslegung und Transparenzbericht
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013800000)
 
 (1) Die §§ 57 und 58 über die Rechnungslegung und den jährlichen
 Transparenzbericht sind erstmals auf Geschäftsjahre anzuwenden, die
@@ -2900,6 +3073,7 @@ geltenden Fassung weiterhin anzuwenden.
 
 
 ### § 138 Übergangsvorschrift für Verfahren der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE013900000)
 
 Verfahren der Aufsichtsbehörde, die bei Inkrafttreten dieses Gesetzes
 nicht abgeschlossen sind, sind nach den Bestimmungen dieses Gesetzes
@@ -2907,6 +3081,7 @@ weiterzuführen.
 
 
 ### § 139 Übergangsvorschrift für Verfahren vor der Schiedsstelle und für die gerichtliche Geltendmachung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014000000)
 
 (1) Die §§ 92 bis 127 sind auf Verfahren, die am 1. Juni 2016 bei der
 Schiedsstelle anhängig sind, nicht anzuwenden; für diese Verfahren
@@ -2931,12 +3106,14 @@ geltenden Fassung weiter anzuwenden.
 
 
 ### § 140 Übergangsvorschrift zur Regelung der Verlegerbeteiligung ab dem 7. Juni 2021
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE015200360)
 
 § 27b gilt nur für Einnahmen, die Verwertungsgesellschaften ab dem 7.
 Juni 2021 erhalten.
 
 
 ### § 141 Übergangsvorschrift für vergriffene Werke; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE015300360)
 
 (1) Die §§ 51 bis 52a in der bis einschließlich 6. Juni 2021 geltenden
 Fassung sind nach Maßgabe der Absätze 2 bis 4 bis einschließlich 31.
@@ -2971,6 +3148,7 @@ die Bekanntmachung auf der Internetseite zu beenden.
 (zu § 58 Absatz 2)
 
 ### Anlage Inhalt des jährlichen Transparenzberichts
+[Direktlink](https://www.gesetze-im-internet.de/vgg/BJNR119010016.html#BJNR119010016BJNE014100000)
 
 (Fundstelle: BGBl. I 2016,1214 - 1215)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv/BJNR201290971.html#BJNR201290971BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv/BJNR201290971.html#BJNR201290971BJNE000200314)
 
 (1) Für die Gewährung von Vorrechten und Befreiungen an die folgenden
 Sonderorganisationen der Vereinten Nationen:
@@ -108,6 +110,7 @@ ersten revidierten Fassung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv/BJNR201290971.html#BJNR201290971BJNE000300314)
 
 Diese Verordnung gilt auch im Land Berlin gemäß § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
@@ -121,6 +124,7 @@ vom 28. Februar 1964 (Bundesgesetzbl. II S. 187).
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/unsorgvorrv/BJNR201290971.html#BJNR201290971BJNE000400314)
 
 (1) Diese Verordnung tritt in Kraft,
 a) soweit es sich um die Anwendung der Anlagen I, III bis VI, IX und

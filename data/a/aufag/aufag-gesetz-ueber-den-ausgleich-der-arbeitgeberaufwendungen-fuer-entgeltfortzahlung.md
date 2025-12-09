@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erstattungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000103360)
 
 (1) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse erstatten den Arbeitgebern, die in der Regel
@@ -70,6 +71,7 @@ die nur Auszubildende beschäftigen.
 
 
 ## § 2 Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000208126)
 
 (1) Die zu gewährenden Beträge werden dem Arbeitgeber von der
 Krankenkasse ausgezahlt, bei der die Arbeitnehmer und
@@ -110,6 +112,7 @@ Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
 
 
 ## § 3 Feststellung der Umlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000301308)
 
 (1) Die zuständige Krankenkasse hat jeweils zum Beginn eines
 Kalenderjahrs festzustellen, welche Arbeitgeber für die Dauer dieses
@@ -148,6 +151,7 @@ die Durchführung des Feststellungsverfahrens nach Absatz 1.
 
 
 ## § 4 Versagung und Rückforderung der Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000401360)
 
 (1) Die Erstattung kann im Einzelfall versagt werden, solange der
 Arbeitgeber die nach § 3 Abs. 2 erforderlichen Angaben nicht oder
@@ -174,6 +178,7 @@ unverhältnismäßig groß sein würde.
 
 
 ## § 5 Abtretung
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000500000)
 
 Ist auf den Arbeitgeber ein Anspruch auf Schadenersatz nach § 6 des
 Entgeltfortzahlungsgesetzes übergegangen, so ist die Krankenkasse zur
@@ -183,6 +188,7 @@ an die Krankenkasse abtritt.
 
 
 ## § 6 Verjährung und Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000600000)
 
 (1) Der Erstattungsanspruch verjährt in vier Jahren nach Ablauf des
 Kalenderjahrs, in dem er entstanden ist.
@@ -216,6 +222,7 @@ werden auf
 
 
 ## § 7 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000701308)
 
 (1) Die Mittel zur Durchführung der U1- und U2-Verfahren werden von
 den am Ausgleich beteiligten Arbeitgebern jeweils durch gesonderte
@@ -241,6 +248,7 @@ Beitragsbemessungsgrenze in der gesetzlichen Rentenversicherung.
 
 
 ## § 8 Verwaltung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000800000)
 
 (1) Die Krankenkassen verwalten die Mittel für den Ausgleich der
 Arbeitgeberaufwendungen als Sondervermögen. Die Mittel dürfen nur für
@@ -257,6 +265,7 @@ entsprechend.
 
 
 ## § 9 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE000902360)
 
 (1) Die Satzung der Krankenkasse muss insbesondere Bestimmungen
 enthalten über die
@@ -311,6 +320,7 @@ oder den Verband nach § 8 Abs. 2 Satz 1.
 
 
 ## § 10 Anwendung sozialversicherungsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE001000000)
 
 Die für die gesetzliche Krankenversicherung geltenden Vorschriften
 finden entsprechende Anwendung, soweit dieses Gesetz nichts anderes
@@ -318,6 +328,7 @@ bestimmt.
 
 
 ## § 11 Ausnahmevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE001302119)
 
 (1) § 1 Abs. 1 ist nicht anzuwenden auf
 
@@ -385,6 +396,7 @@ bestimmt.
 
 
 ## § 12 Freiwilliges Ausgleichsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufag/BJNR368610005.html#BJNR368610005BJNE001200000)
 
 (1) Für Betriebe eines Wirtschaftszweigs können Arbeitgeber
 Einrichtungen zum Ausgleich der Arbeitgeberaufwendungen errichten, an

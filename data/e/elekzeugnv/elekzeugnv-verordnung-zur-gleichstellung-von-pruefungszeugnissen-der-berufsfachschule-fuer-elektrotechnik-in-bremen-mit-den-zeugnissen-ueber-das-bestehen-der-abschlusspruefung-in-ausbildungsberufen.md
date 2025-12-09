@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elekzeugnv/BJNR005010978.html#BJNR005010978BJNE000100317)
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 53 des Gesetzes vom 18. März
@@ -32,6 +33,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/elekzeugnv/BJNR005010978.html#BJNR005010978BJNE000200317)
 
 Die bis zum 31. Dezember 1989 von der Berufsfachschule für
 Elektrotechnik in Bremen erteilten Prüfungszeugnisse über erfolgreich
@@ -58,23 +60,27 @@ nachstehenden Aufstellung gleichgestellt:
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/elekzeugnv/BJNR005010978.html#BJNR005010978BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/elekzeugnv/BJNR005010978.html#BJNR005010978BJNE000400317)
 
 Diese Verordnung tritt am 1. Mai 1978 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/elekzeugnv/BJNR005010978.html#BJNR005010978BJNE000500317)
 
 Der Bundesminister für Wirtschaft
 
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/elekzeugnv/BJNR005010978.html#BJNR005010978BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

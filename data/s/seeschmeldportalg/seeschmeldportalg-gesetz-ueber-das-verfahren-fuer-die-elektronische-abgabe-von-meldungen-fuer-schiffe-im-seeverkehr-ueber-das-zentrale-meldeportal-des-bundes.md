@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000100000)
 
 Dieses Gesetz regelt das Verfahren für Meldungen, die im Falle eines
 Hafenbesuchs, eines Aufenthaltes in deutschen Hoheitsgewässern oder
@@ -26,6 +27,7 @@ des Bundes abzugeben sind.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000200000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -104,6 +106,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Zweck des Meldeportals
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000300000)
 
 Das Meldeportal dient der Entgegennahme und Weiterleitung einer
 Meldung, die nach einer Meldevorschrift über das Meldeportal
@@ -112,6 +115,7 @@ empfangenden Stellen.
 
 
 ## § 4 Zuständigkeit, Erreichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000400000)
 
 (1) Die zuständige Behörde ist die vom Bundesministerium für Verkehr
 und digitale Infrastruktur im Bundesanzeiger bekannt gegebene Behörde
@@ -126,6 +130,7 @@ und 2 sind im Verkehrsblatt nachrichtlich zu wiederholen.
 
 
 ## § 5 Berechtigung zur Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000500000)
 
 (1) Die zuständige Behörde ist befugt, Meldungen zum Zwecke des Abrufs
 durch die empfangende Stelle zu erheben und zu verarbeiten.
@@ -137,6 +142,7 @@ Daten erkennbar sind.
 
 
 ## § 6 Abgeben von Meldungen über das Meldeportal
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000600000)
 
 Der ersten eingehenden Meldung für ein Befahren deutscher
 Hoheitsgewässer oder für einen Hafenbesuch wird automatisiert eine
@@ -145,6 +151,7 @@ Fahrt muss der Meldende die Anlaufreferenznummer angeben.
 
 
 ## § 7 Entgegennahme, Zuordnung und Abruf der Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000700000)
 
 (1) Die zuständige Behörde stellt sicher, dass die eingegangenen
 Meldungen anhand ihres Typs und der Anlaufreferenznummer automatisiert
@@ -159,6 +166,7 @@ zuständige Behörde automatisiert aus dem Nachrichteneingang gelöscht.
 
 
 ## § 8 Nutzung des Meldeportals durch andere Behörden
+[Direktlink](https://www.gesetze-im-internet.de/seeschmeldportalg/BJNR219010017.html#BJNR219010017BJNE000800000)
 
 Die zuständigen Behörden der Länder können sich im Wege der Organleihe
 der zuständigen Behörde nach § 4 Absatz 1 Satz 1 bedienen für

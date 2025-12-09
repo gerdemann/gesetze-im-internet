@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000100328)
 
 Auf Grund des § 1 Abs. 3 Satz 1 und des § 2 Abs. 2 des
 Handelsklassengesetzes in der Fassung der Bekanntmachung vom 23.
@@ -40,6 +41,7 @@ Landwirtschaft und Forsten verordnet:
 
 
 ## § 1 Verbot des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000203119)
 
 (1) Es ist verboten, entgegen Artikel 116 in Verbindung mit Anhang XIV
 Teil C Kapitel I Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates
@@ -139,6 +141,7 @@ Punkt muss eine Größe von mindestens 10 mm² haben.
 
 
 ## § 2 Begleitpapier für Küken
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000302377)
 
 Das Begleitpapier für Küken nach Artikel 5 der Verordnung (EG) Nr.
 617/2008 muß bei der Einfuhr und Ausfuhr (§ 4 Nummer 1 und 2 Buchstabe
@@ -150,6 +153,7 @@ Ausfuhr abfertigt.
 
 
 ## § 3 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000403125)
 
 (1) Der Bundesanstalt wird übertragen die Überwachung der Einhaltung
 der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
@@ -171,6 +175,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000503125)
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -207,6 +212,7 @@ ist.
 
 
 ## § 5 Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000603125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
@@ -239,10 +245,12 @@ prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE000901308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1349_72dv/BJNR002730973.html#BJNR002730973BJNE001001308)
 
 

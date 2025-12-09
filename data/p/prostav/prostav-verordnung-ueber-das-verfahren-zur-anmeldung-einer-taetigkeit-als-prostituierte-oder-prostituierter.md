@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000100000)
 
 Auf Grund des § 36 Absatz 2 des Prostituiertenschutzgesetzes vom 21.
 Oktober 2016 (BGBl. I S. 2372) verordnet das Bundesministerium für
@@ -26,6 +27,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Angaben zur Wohnung oder zur Zustellanschrift
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000200000)
 
 (1) Zur alleinigen Wohnung oder Hauptwohnung im Sinne des Melderechts
 (§ 4 Absatz 1 Nummer 4 des Prostituiertenschutzgesetzes) hat die
@@ -39,6 +41,7 @@ dieser Zustellanschrift zu erreichen ist.
 
 
 ## § 2 Vordrucke für die Anmeldebescheinigung und für die Aliasbescheinigung, Anforderungen an das Lichtbild
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000300000)
 
 (1) Für die Anmeldebescheinigung und für die Aliasbescheinigung sind
 die Vordrucke nach dem Muster der Anlage zu verwenden.
@@ -48,6 +51,7 @@ Personalausweisverordnung erfüllen.
 
 
 ## § 3 Neuausstellung der Anmeldebescheinigung oder der Aliasbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000400000)
 
 (1) Eine neue Anmeldebescheinigung ist auszustellen bei
 
@@ -86,6 +90,7 @@ anzuwenden.
 
 
 ## § 4 Angabe zu den Tätigkeitsorten
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000500000)
 
 (1) Plant eine anmeldepflichtige Person, die Prostitutionstätigkeit in
 mehreren Ländern oder Kommunen auszuüben, so sind die Länder oder
@@ -99,6 +104,7 @@ werden, wenn damit keine Änderung der Planung verbunden ist.
 
 
 ## § 5 Wechsel der Zuständigkeit der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000600000)
 
 Hat eine anmeldepflichtige Person eine Änderung der Länder oder
 Kommunen, in denen die Tätigkeit geplant ist, angezeigt, so wechselt
@@ -111,6 +117,7 @@ Aliasbescheinigung.
 
 
 ## § 6 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000700000)
 
 (1) Die zuständige Behörde übermittelt die Daten aus der Anmeldung
 gemäß § 34 Absatz 6 des Prostituiertenschutzgesetzes in der Regel nur
@@ -152,23 +159,27 @@ werden.
 
 
 ## § 7 Verantwortlichkeit für die Löschung der übermittelten Daten
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000800000)
 
 Für die Löschung der ihnen nach § 6 übermittelten Daten sind die für
 die angegebenen Tätigkeitsorte zuständigen Behörden verantwortlich.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2)
 
 ## Anlage Anmeldebescheinigung und Aliasbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/prostav/BJNR193000017.html#BJNR193000017BJNE001100000)
 
 ## Vorbemerkungen
 

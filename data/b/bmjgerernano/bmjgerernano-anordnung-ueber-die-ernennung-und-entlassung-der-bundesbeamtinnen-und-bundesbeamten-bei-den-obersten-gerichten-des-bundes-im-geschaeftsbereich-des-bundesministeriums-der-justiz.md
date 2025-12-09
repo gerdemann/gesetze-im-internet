@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerernano/BJNR041400008.html#BJNR041400008BJNE000100000)
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
 über die Ernennung und Entlassung der Beamtinnen, Beamten,
@@ -42,6 +43,7 @@ Geschäftsbereich widerruflich übertragen auf:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerernano/BJNR041400008.html#BJNR041400008BJNE000200000)
 
 Diese Anordnung tritt am ersten Tag des ersten auf die
 Veröffentlichung im Bundesgesetzblatt folgenden Kalendermonats in
@@ -49,6 +51,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjgerernano/BJNR041400008.html#BJNR041400008BJNE000300000)
 
 Die Bundesministerin der Justiz
 

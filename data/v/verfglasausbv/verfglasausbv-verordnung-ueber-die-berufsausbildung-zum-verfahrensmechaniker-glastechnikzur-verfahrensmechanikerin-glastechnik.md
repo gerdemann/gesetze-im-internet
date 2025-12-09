@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000100310)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000200310)
 
 Der Ausbildungsberuf Verfahrensmechaniker
 Glastechnik/Verfahrensmechanikerin Glastechnik wird staatlich
@@ -38,11 +40,13 @@ anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000300310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000400310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -114,6 +118,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000500310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -131,12 +136,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000600310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000700310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -145,6 +152,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000800310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -195,6 +203,7 @@ folgende Gebiete in Betracht:
 
 
 ## § 8 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE000900310)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -372,6 +381,7 @@ mindestens ausreichende Leistungen erbracht wurden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE001000310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -380,12 +390,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE001100310)
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
+[Direktlink](https://www.gesetze-im-internet.de/verfglasausbv/BJNR086400000.html#BJNR086400000BJNE001200310)
 
 (Fundstelle: BGBl. I 2000, 867 - 871)
 

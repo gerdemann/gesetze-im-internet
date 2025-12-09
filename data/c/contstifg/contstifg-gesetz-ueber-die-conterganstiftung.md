@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNG000101310)
 
 
 
 ### § 1 Name der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000202116)
 
 Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S.
 2045) (im Folgenden: Errichtungsgesetz), zuletzt geändert durch
@@ -36,6 +38,7 @@ errichtete Stiftung "Hilfswerk für behinderte Kinder" erhält den Namen
 
 
 ### § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000303116)
 
 Zweck der Stiftung ist es, Menschen mit Behinderung, deren
 Fehlbildungen mit der Einnahme thalidomidhaltiger Präparate der
@@ -56,12 +59,14 @@ werden können,
 
 
 ### § 3 Steuerbegünstigung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000401310)
 
 Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte
 Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
 
 
 ### § 4 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000506116)
 
 (1) Das Stiftungsvermögen besteht aus
 
@@ -108,6 +113,7 @@ anzunehmen. Die Stiftung wirbt um weitere Zuwendungen bei Dritten.
 
 
 ### § 5 Organe der Stiftung, Haftung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000602116)
 
 (1) Organe der Stiftung sind
 
@@ -131,6 +137,7 @@ entsprechend für ehemalige ehrenamtliche Organmitglieder.
 
 
 ### § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000705116)
 
 (1) Der Stiftungsrat besteht aus mindestens fünf und höchstens sieben
 Mitgliedern. Stellvertretung ist zulässig. Drei Mitglieder werden vom
@@ -193,6 +200,7 @@ Beschlussfähigkeit trifft die Satzung.
 
 
 ### § 7 Stiftungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000804116)
 
 (1) Der Stiftungsvorstand besteht aus der oder dem Vorsitzenden und
 höchstens zwei weiteren Mitgliedern. Ein Mitglied des
@@ -232,6 +240,7 @@ anstellen.
 
 
 ### § 8 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE000901310)
 
 Der Stiftungsrat kann die Satzung der Stiftung mit Genehmigung des
 Bundesministeriums für Familie, Senioren, Frauen und Jugend im
@@ -239,12 +248,14 @@ Einvernehmen mit dem Bundesministerium der Finanzen ändern.
 
 
 ### § 9 Verwendung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001001310)
 
 Die Mittel der Stiftung dürfen nur für die Stiftungszwecke verwendet
 werden.
 
 
 ### § 10 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001102310)
 
 (1) Die Stiftung untersteht der Aufsicht des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend.
@@ -259,10 +270,12 @@ Satzung.
 
 
 ## Abschnitt 2 - Leistungen wegen Contergan-Schadensfällen
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNG000201310)
 
 
 
 ### § 11 Verwendung des Stiftungsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001205125)
 
 Die Leistungen nach diesem Abschnitt sind aus dem Stiftungsvermögen zu
 erbringen. Es sind zu verwenden:
@@ -298,6 +311,7 @@ erbringen. Es sind zu verwenden:
 
 
 ### § 12 Leistungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001303116)
 
 (1) Leistungen wegen Fehlbildungen, die mit der Einnahme
 thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen, durch die
@@ -313,6 +327,7 @@ Conterganrente und eine Kapitalentschädigung für die Zeit ab 1. Juli
 
 
 ### § 13 Art und Umfang der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001410116)
 
 (1) Den in § 12 genannten leistungsberechtigten Personen stehen als
 Leistungen zu:
@@ -421,6 +436,7 @@ ist entsprechend anwendbar.
 
 
 ### § 14 Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001501310)
 
 Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2
 Prozent über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs
@@ -428,6 +444,7 @@ jährlich zu verzinsen.
 
 
 ### § 15 Verzicht, Anrechnung von Zahlungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001604116)
 
 (1) Haben die leistungsberechtigte Person oder ihre gesetzlichen
 Vertreter ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des
@@ -449,6 +466,7 @@ geleistet werden.
 
 
 ### § 16 Gang des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001706116)
 
 (1) Leistungen werden auf Antrag gewährt. Eine Aberkennung von
 Leistungsansprüchen nach diesem Gesetz darf nur erfolgen, wenn die
@@ -486,6 +504,7 @@ fest.
 
 
 ### § 17 Behandlung von Leistungen nach diesem Gesetz bei der Anwendung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001801310)
 
 Leistungen nach diesem Abschnitt sind einkommensteuerfrei. Ansprüche
 auf solche Leistungen gehören nicht zum sonstigen Vermögen im Sinne
@@ -493,6 +512,7 @@ des Bewertungsgesetzes.
 
 
 ### § 18 Verhältnis zu anderen Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE001906116)
 
 (1) Bei der Ermittlung oder Anrechnung von Einkommen, sonstigen
 Einnahmen und Vermögen nach anderen Gesetzen, insbesondere dem
@@ -526,10 +546,12 @@ versagt werden, weil nach diesem Gesetz Leistungen vorgesehen sind.
 
 
 ## Abschnitt 3 - Projektförderung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNG000301310)
 
 
 
 ### § 19 Finanzielle Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002003116)
 
 Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
@@ -548,6 +570,7 @@ Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
 
 ### § 20 Förderungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002102310)
 
 (1) Zur Erreichung des in § 2 Nr. 2 bezeichneten Zwecks kann die
 Stiftung Einzelvorhaben der wissenschaftlichen Forschung, Entwicklung
@@ -561,6 +584,7 @@ Förderungsmaßnahmen werden zu Ende geführt.
 
 
 ### § 21 Vergabeplan
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002202310)
 
 Der Stiftungsrat stellt mit Zustimmung des Bundesministeriums für
 Familie, Senioren, Frauen und Jugend jeweils für zwei Geschäftsjahre
@@ -570,10 +594,12 @@ Vorstand.
 
 
 ## Abschnitt 4 - Schluss- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNG000401310)
 
 
 
 ### § 22 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002301310)
 
 Soweit nach diesem Gesetz keine speziellen Verfahrensregelungen
 getroffen sind, findet das Verwaltungsverfahrensgesetz des Bundes
@@ -581,12 +607,14 @@ Anwendung.
 
 
 ### § 23 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002401310)
 
 Für Streitigkeiten über Ansprüche nach diesem Gesetz ist der
 Verwaltungsrechtsweg gegeben.
 
 
 ### § 24 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002503116)
 
 Soweit die Conterganstiftung Leistungen zur Deckung spezifischer
 Bedarfe nach der bis zum 31. Dezember 2016 geltenden Fassung des
@@ -604,6 +632,7 @@ angerechnet.
 
 
 ### § 25 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/contstifg/BJNR296700005.html#BJNR296700005BJNE002702116)
 
 Die Bundesregierung legt dem Deutschen Bundestag im Abstand von vier
 Jahren einen Bericht über die Auswirkungen dieses Gesetzes sowie über

@@ -20,30 +20,36 @@ Zuletzt geändert durch
 
 
 ## Art I - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNG000100326)
 
 
 
 ### § 1 Änderung des Lastenausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE000400326)
 
 -
 
 
 ### § 2 Änderung des Feststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE000500326)
 
 -
 
 
 ### § 3 Änderung des Währungsausgleichsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE000600326)
 
 -
 
 
 ### § 4 Änderung des Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE000700326)
 
 -
 
 
 ### § 5 Änderung des Wohnungsbaugesetzes für das Saarland
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE000800326)
 
 Das Gesetz Nr. 696, Wohnungsbaugesetz für das Saarland, vom 17. Juli
 1959 (Amtsblatt des Saarlandes S. 1349) wird wie folgt geändert und
@@ -191,15 +197,18 @@ ergänzt:
 
 
 ### § 6 Änderung des Allgemeinen Kriegsfolgengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE000900326)
 
 -
 
 
 ## Art II - Überleitungs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNG000200326)
 
 
 
 ### § 7 Übergangsregelung bei der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001000326)
 
 (1) An Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente
 beantragen können, wird bei Antragstellung bis zum 30. September 1962
@@ -229,6 +238,7 @@ nach § 278a Abs. 4 des Lastenausgleichsgesetzes nicht entgegen.
 
 
 ### § 8 Kosten im verwaltungsgerichtlichen Verfahren bei Klaglosstellung
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001100326)
 
 Soweit ein Beteiligter während eines im Zeitpunkt des Inkrafttretens
 des Elften Gesetzes zur Änderung des Lastenausgleichsgesetzes vom 29.
@@ -247,6 +257,7 @@ Kostenentscheidungen bleiben unberührt.
 
 
 ### § 9 Amtsdauer der Beisitzer von Ausgleichsausschüssen und Beschwerdeausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001200326)
 
 Die Amtsdauer der im Zeitpunkt des Inkrafttretens dieses Gesetzes in
 den Ausgleichsausschüssen und in den Beschwerdeausschüssen tätigen
@@ -254,11 +265,13 @@ ehrenamtlichen Beisitzer wird auf vier Jahre verlängert.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001301301)
 
 (weggefallen)
 
 
 ### § 11 Kredite zur Räumung von Wohnlagern in Österreich
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001400326)
 
 Die Bundesregierung wird ermächtigt, der Republik Österreich zum
 Wohnungsbau für die Unterbringung von deutschen Staatsangehörigen,
@@ -269,6 +282,7 @@ Rechnungsjahr 1961 ab je nach Baufortschritt auszuzahlen.
 
 
 ### § 12 Erlaß einer Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001500326)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates eine Regelung zu treffen, durch die
@@ -288,6 +302,7 @@ teils in der Person des anderen Ehegatten erfüllt sind.
 
 
 ### § 13 Anwendungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001600326)
 
 (1) Von den Vorschriften des Artikels I sind anzuwenden
 
@@ -328,6 +343,7 @@ dieses Gesetzes gilt für die Anwendung der §§ 266, 272, 273, 280 und
 
 
 ### § 14 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001700326)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
@@ -337,6 +353,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lag_ndg_14/BJNR007850961.html#BJNR007850961BJNE001800326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
